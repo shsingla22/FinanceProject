@@ -31,28 +31,37 @@ The lookback window is controlled by `YEARS_BACK` in `plot_usa.py` and
 
 ### USA high-yield bond issuance
 
-- **SIFMA 2025 Capital Markets Fact Book** (US Corporate Bond Issuance —
-  value in $B, p.42 / p.49; number of issues, p.43).
+The US HY series is computed as `SIFMA total corporate issuance × HY share`,
+with **the same HY share applied to both value and count each year**, so
+both come from a single trusted source (SIFMA) and scale consistently.
+
+- **SIFMA 2025 Capital Markets Fact Book** — Section II, p.42 (US Fixed
+  Income Securities Issuance — Value, $B per year) and p.43 (Number of
+  Issues per year):
   <https://www.sifma.org/wp-content/uploads/2024/07/2025-SIFMA-Capital-Markets-Factbook.pdf>
-- **SIFMA Fixed Income Market Structure Compendium 2024** (HY share of total
-  corporate issuance, p.46).
+- **SIFMA 2024 Capital Markets Fact Book** — earlier-edition equivalent
+  pages, used for the 2009 datapoint and to cross-check 2010-2023:
+  <https://www.sifma.org/wp-content/uploads/2023/07/2024-SIFMA-Capital-Markets-Factbook.pdf>
+- **SIFMA Fixed Income Market Structure Compendium 2024**, p.46 — FY2024
+  US Corporate issuance mix: IG 71.9%, HY 16.2%, PP 2.6%, Convertible 9.3%
+  (anchors the HY-share series):
   <https://www.sifma.org/wp-content/uploads/2024/04/SIFMA-Insights-Fixed-Income-Market-Structure-Compendium_2-26.pdf>
-- **SIFMA US Credit Market Outlook 2008** ("Corporate high-yield issuance
-  was $136 billion in 2007").
+- **SIFMA US Credit Market Outlook 2008** — 2007 HY = $136B (full year):
   <https://www.sifma.org/wp-content/uploads/2017/05/us-credit-market-outlook-2008.pdf>
-- **SIFMA Research Quarterly Q1 2008** (quarterly HY breakdown; 2007 full
-  year = $136B; 2008 Q1 collapse to $5.9B).
+- **SIFMA Research Quarterly Q1 2008** — 2007 quarterly HY breakdown;
+  2008 Q1 HY = $5.9B (84.6% YoY collapse):
   <https://www.sifma.org/wp-content/uploads/2017/05/us-research-quarterly-2008-q1.pdf>
-- **Columbia Threadneedle / JP Morgan "2023 US high-yield year in review"
-  (Jan 2024)** — annual HY new-issue volume chart; 2010 = $287B (peak);
-  2022 = $102.28B ("leanest since 2008"); 2023 = $176B.
-  <https://www.columbiathreadneedleus.com/binaries/content/assets/cti-institutional/insights/blogs/high-yield-year-in-review-2024.pdf>
-- **PitchBook LCD** — 2020 = $434.95B (record), 2021 = $464.50B (record),
-  2022 = $102.28B.
-- **Bloomberg / Reuters** — 2024 = ~$302B.
-- **Thomson Financial / SDC Platinum** — canonical source for the pre-2010
-  HY new-issue series cited by SIFMA Research Quarterlies, Federal Reserve
-  papers and the academic literature.
+- **SIFMA Research Quarterlies (2009-2024 editions)** — the underlying
+  HY new-issue volumes used to derive `HY_SHARE` for each year (the
+  Thomson Financial / SDC Platinum / Bloomberg-fed HY values that SIFMA
+  publishes in its chartbooks).
+
+> **Why the US HY value and HY count lines track tightly**: both series
+> are `SIFMA_total × HY_share`, with the SAME `HY_share` for both. The
+> SIFMA totals (value in $B; count in #-of-issues) move together because
+> they both reflect the same year-over-year issuance cycle, so the two HY
+> lines have nearly identical shape — any small residual divergence is
+> just the variation in average HY deal size that year.
 
 ### India high-yield (non-investment-grade) bond issuance
 
