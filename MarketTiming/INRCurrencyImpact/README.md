@@ -15,11 +15,24 @@ years**.
 | `plot_medians.py` | Chart 3 — median year-end close of constituent stocks in each of the three indices on one chart. |
 | `fii_inflows.py` | Annual net FII equity inflows to **total** Indian equity from CDSL (INR crore, FY 1998-99 → FY 2024-25), USD-converted using FRED DEXINUS yearly average. |
 | `plot_combined.py` | Chart 4 — 8 series on a single chart with four y-axes (INR/USD on the left, median constituent close, index level, and net FII inflow each on a separate right-side axis). |
-| `run_all.py` | Convenience entry point: builds and renders all four charts. |
-| `inr_vs_usd.{png,csv}` | Chart 1 output and data. |
-| `nifty_indices.{png,csv}` | Chart 2 output and data. |
-| `constituent_medians.{png,csv}` | Chart 3 output and data. |
-| `combined_all.{png,csv}` | Chart 4 output and data — 8 series (INR/USD, 3 index levels, 3 median constituent closes, total net FII equity inflow). |
+| `plot_interactive.py` | Interactive Plotly HTML versions of all four charts — click legend to toggle lines, drag the range slider or use the quick-pick buttons to change the year window. |
+| `run_all.py` | Convenience entry point: builds and renders all four charts (PNG **and** interactive HTML). |
+| `inr_vs_usd.{png,csv}` / `inr_vs_usd_interactive.html` | Chart 1 output. |
+| `nifty_indices.{png,csv}` / `nifty_indices_interactive.html` | Chart 2 output. |
+| `constituent_medians.{png,csv}` / `constituent_medians_interactive.html` | Chart 3 output. |
+| `combined_all.{png,csv}` / `combined_all_interactive.html` | Chart 4 output — 8 series (INR/USD, 3 index levels, 3 median constituent closes, total net FII equity inflow). |
+
+### Interactive HTML controls
+
+Every `*_interactive.html` exposes the same two controls:
+
+1. **Enable/disable lines** — single-click any legend entry to hide that
+   line; click again to show it; double-click an entry to isolate it
+   (hide every other line).
+2. **Adjust the year window** — drag either end of the range slider
+   below the chart, click the **Last 5y / 10y / 15y / 25y / All**
+   quick-pick buttons above the chart, or click-drag directly on the
+   plot to zoom into a custom range. Double-click the plot to reset.
 
 ## Run
 

@@ -1,8 +1,16 @@
-"""Entry point: build datasets and render all four charts."""
+"""Entry point: build datasets and render all four charts.
+
+Each chart is saved twice:
+  * a static PNG (matplotlib) for printable / read-only viewing, and
+  * an interactive HTML (plotly) where you can click legend entries to
+    toggle lines and drag the range slider / quick-pick buttons to
+    change the year window.
+"""
 import plot_inr_usd
 import plot_indices
 import plot_medians
 import plot_combined
+import plot_interactive
 
 
 def main() -> None:
@@ -40,6 +48,12 @@ def main() -> None:
     df4.to_csv(plot_combined.OUT_CSV)
     print(df4.to_string())
     plot_combined.plot(df4)
+
+    print()
+    print("=" * 72)
+    print("Interactive HTML versions of all four charts")
+    print("=" * 72)
+    plot_interactive.render_all()
 
 
 if __name__ == "__main__":
