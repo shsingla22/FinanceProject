@@ -56,32 +56,48 @@ The lookback window is controlled by `YEARS_BACK` in `plot_usa.py` and
 
 ### India high-yield (non-investment-grade) bond issuance
 
-- **SEBI 2014 Board Memorandum on Corporate Bond Market** — actual primary
-  issuance figures (private placement + public issue) and number of issues
-  for FY2008-FY2014.
+The India HY series is computed as `total bond issuance × HY share`, applied
+separately to value and count. Both totals come from the same primary
+source so the two HY series share a common base.
+
+- **SEBI private-placement corporate bond statistics**
+  (FY2015-FY2024 number of issues AND amount in INR crore):
+  <https://www.sebi.gov.in/statistics/corporate-bonds/privateplacementdata.html>
+- **SEBI public-issue corporate debt statistics**
+  (FY2008-FY2024 number of issues AND amount in INR crore):
+  <https://www.sebi.gov.in/statistics/corporate-bonds/publicissuedata.html>
+- **SEBI 2014 Board Memorandum on Corporate Bond Market**
+  (FY2008-FY2014 PP+PI primary issuance — number of issues and amounts;
+  used to verify the SEBI series above):
   <https://www.sebi.gov.in/sebi_data/meetingfiles/1417671754641-a.pdf>
-- **SEBI corporate bonds statistics page** — annual private placement +
-  public issue series from FY2015 onwards.
-  <https://www.sebi.gov.in/statistics/corporate-bonds.html>
-- **SEBI 2012 paper "Developments in the Corporate Bonds and Securitization
-  Markets"** — corroborating series for FY2008-FY2011.
-  <https://www.sebi.gov.in/sebi_data/attachdocs/1330492152558.pdf>
+- **PRIME Database article "Debt Private Placements - The Future Ahead"**
+  by Vishnu Deuskar (ABN AMRO Securities India) — canonical pre-SEBI-era
+  series for FY1996-FY2003 (private placements with tenor > 1 year):
+  <https://www.primedatabase.com/Article/article-abn03.PDF>
 - **RBI/SEBI BIS speech "Corporate Bond Markets in India — Challenges and
-  prospects" (Aug 2022)** — rating distribution: FY2022 had 1,235 rated
-  corporate debt securities; 66 (5.3%) non-investment grade; AAA = 80% by
-  value, AA = 1.5% by value.
+  prospects" (Aug 2022)** — FY2022 rating distribution: 1,235 rated issuances,
+  66 (5.3%) non-investment grade; AAA = 80% by value, AA = 1.5% by value.
+  Anchors the HY share series.
   <https://www.bis.org/review/r220824c.pdf>
-- **RBI Handbook of Statistics on the Indian Economy** — pre-FY2008
-  private-placement-of-corporate-debt aggregates.
 - **CRISIL / ICRA / CARE** annual rating-agency reports — used to
   cross-check the historical share of non-investment-grade issuance.
 
 > **Note on India HY**: India does not have a developed high-yield bond
-> market in the US sense. Roughly 85%+ of issuance value is AAA/AA. Sub-
-> investment-grade issuance is structurally small (~1-3% by value, 4-8% by
-> count). Pre-2008 the modern SEBI debt-securities regulatory regime did
-> not exist; the FY2001-FY2007 figures are RBI Handbook of Statistics
-> private-placement aggregates and pre-date public-issue activity.
+> market in the US sense. Roughly 80%+ of issuance value is AAA/AA. Sub-
+> investment-grade issuance is structurally small (~2-3% by value, 5-9%
+> by count). Pre-FY2008 the modern SEBI debt-securities regulatory regime
+> did not exist; the pre-2008 figures are PRIME Database private-placement
+> aggregates and pre-date meaningful public-issue activity.
+>
+> **Why the HY count and HY value lines diverge after 2017**: the divergence
+> reflects an actual structural shift in the Indian corporate bond market,
+> not a methodology change. Per SEBI's own statistics, total corporate
+> bond issuance count peaked at 3,393 in FY2017 and fell to 1,392 by
+> FY2024 while total issuance value grew from ₹6.70 lakh crore to ₹8.57
+> lakh crore over the same window. Average deal size roughly quadrupled
+> (~₹150 cr/deal → ~₹620 cr/deal), driven by SEBI's Electronic Bidding
+> Platform mandate, the large-corporate borrowing framework, and the
+> increasing dominance of AAA-rated PSU and bank-NBFC issuers.
 
 ### Index prices (live, daily, via Yahoo Finance)
 
