@@ -1,4 +1,4 @@
-"""Annual net FII / FPI inflows to Indian equity.
+"""Annual net FII / FPI inflows to Indian equity (TOTAL only).
 
 Primary data source: CDSL (Central Depository Services Limited) FPI/FII
 Investment Details — Financial Year report. CDSL is one of India's two
@@ -14,24 +14,27 @@ USD conversion: yearly average INR/USD spot rate from FRED series
 DEXINUS (India / U.S. Foreign Exchange Rate, daily, 1973-present):
     https://fred.stlouisfed.org/series/DEXINUS
 
-Cap-segment breakdown (Nifty 50 / Midcap / Smallcap):
-CDSL does NOT publish FII flow by index/cap-segment. The cap-segment
-allocation here is the documented FPI ownership distribution from
-NSE's India Ownership Tracker (Mar/Jun 2024):
-    https://nsearchives.nseindia.com/web/sites/default/files/inline-files/Indian_Ownership_Report_Mar_2024.pdf
-NSE June-2024 FPI ownership: Nifty 50 = 24.5%, Midcap 100 = 16%,
-Smallcap 100 = 12.4%. Combined with the well-known free-float market
-cap weights (Nifty 50 ~75%, Midcap 100 ~13%, Smallcap 100 ~5% of the
-NSE 500 universe), the implied share of FPI holdings (and therefore
-flow allocation, as a first-order approximation) is roughly:
-    Nifty 50 : Nifty Midcap 100 : Nifty Smallcap 100  ≈  78% : 15% : 7%
-This is applied as a fixed allocation here. The total FII series is
-factual CDSL data; the cap-segment splits are a documented proxy.
+A note on cap-segment data
+--------------------------
+None of CDSL, NSDL, SEBI or NSE publish actual net FII flow broken down
+by Nifty 50 / Nifty Midcap 100 / Nifty Smallcap 100. What is published:
+
+  • Total India equity FII flow                    -> CDSL/NSDL/SEBI
+  • FPI ownership % by Nifty index (quarterly)     -> NSE Ownership Tracker
+  • Per-stock FPI holding (quarterly)              -> NSE/BSE shareholding
+                                                      pattern disclosures
+
+A per-Nifty-index net flow series can only be DERIVED (e.g. by
+aggregating per-stock FPI holding changes across each index's
+constituents and netting out valuation effects). It is not a published
+data series. Earlier versions of this module included such a derived
+estimate; that has been removed because the user asked specifically for
+factual numbers from a single source. Only the total FII series is
+plotted now.
 """
 
 from __future__ import annotations
 import os
-from io import StringIO
 
 import pandas as pd
 import urllib.request
@@ -41,9 +44,8 @@ CACHE_DIR = os.path.join(HERE, ".cache")
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 
-# -- 1. CDSL FY total net FII equity investment (INR crore) ------------
-# Source: CDSL FII/FPI Investment Details (Financial Year) page.
-# Keyed by FY-ending calendar year (i.e. FY 2009-10 -> 2010).
+# CDSL FY net FII equity investment (INR crore). Keyed by FY-ending
+# calendar year (FY 2009-10 -> 2010).
 CDSL_FII_EQUITY_INR_CR = {
     1999:  29973.20,    # FY 1998-99
     2000:   9669.50,    # FY 1999-00
@@ -75,15 +77,6 @@ CDSL_FII_EQUITY_INR_CR = {
 }
 
 
-# -- 2. Cap-segment allocation shares ----------------------------------
-# Derived from NSE June-2024 FPI ownership × free-float mcap weights.
-# See module docstring above. Applied as a fixed split per year.
-SHARE_NIFTY_50       = 0.78
-SHARE_NIFTY_MIDCAP   = 0.15
-SHARE_NIFTY_SMALLCAP = 0.07
-
-
-# -- 3. FRED DEXINUS yearly average INR per USD ------------------------
 FRED_DEXINUS_URL = (
     "https://fred.stlouisfed.org/graph/fredgraph.csv?"
     "id=DEXINUS&cosd=1995-01-01&coed=2030-01-01"
@@ -118,20 +111,14 @@ def build_fii_inflows_df() -> pd.DataFrame:
     - cdsl_fii_inr_cr        : CDSL net FII equity investment (INR crore)
     - inr_per_usd_avg        : FRED DEXINUS yearly avg
     - fii_total_usd_mn       : total FII equity inflow in USD millions
-    - fii_nifty50_usd_mn     : implied Nifty 50 allocation
-    - fii_midcap_usd_mn      : implied Nifty Midcap 100 allocation
-    - fii_smallcap_usd_mn    : implied Nifty Smallcap 100 allocation
     """
     cdsl = pd.Series(CDSL_FII_EQUITY_INR_CR, name="cdsl_fii_inr_cr")
     cdsl.index.name = "year"
     inr = _fred_dexinus_yearly_avg()
 
     df = pd.concat([cdsl, inr], axis=1).dropna(how="all")
-    # USD conversion: 1 crore INR = 1e7 INR; divide by rate (INR/USD) and by 1e6
+    # USD conversion: 1 crore INR = 1e7 INR; divide by INR/USD and by 1e6
     df["fii_total_usd_mn"] = df["cdsl_fii_inr_cr"] * 1e7 / df[inr.name] / 1e6
-    df["fii_nifty50_usd_mn"]  = df["fii_total_usd_mn"] * SHARE_NIFTY_50
-    df["fii_midcap_usd_mn"]   = df["fii_total_usd_mn"] * SHARE_NIFTY_MIDCAP
-    df["fii_smallcap_usd_mn"] = df["fii_total_usd_mn"] * SHARE_NIFTY_SMALLCAP
     df.index.name = "year"
     return df
 

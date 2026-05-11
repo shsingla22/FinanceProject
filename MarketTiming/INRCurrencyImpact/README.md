@@ -13,13 +13,13 @@ years**.
 | `plot_inr_usd.py` | Chart 1 — INR per 1 USD, year-end close, 25-year line graph. |
 | `plot_indices.py` | Chart 2 — Nifty 50 / Midcap 100 / Smallcap year-end close on one chart. |
 | `plot_medians.py` | Chart 3 — median year-end close of constituent stocks in each of the three indices on one chart. |
-| `fii_inflows.py` | Annual net FII equity inflows from CDSL (INR crore, FY 1998-99 → FY 2024-25), USD-converted using FRED DEXINUS yearly average, plus per-cap-segment allocation (Nifty 50 / Midcap 100 / Smallcap 100). |
-| `plot_combined.py` | Chart 4 — all 11 series on a single chart with four y-axes (INR/USD on the left, median constituent close, index level, and net FII inflow each on a separate right-side axis). |
+| `fii_inflows.py` | Annual net FII equity inflows to **total** Indian equity from CDSL (INR crore, FY 1998-99 → FY 2024-25), USD-converted using FRED DEXINUS yearly average. |
+| `plot_combined.py` | Chart 4 — 8 series on a single chart with four y-axes (INR/USD on the left, median constituent close, index level, and net FII inflow each on a separate right-side axis). |
 | `run_all.py` | Convenience entry point: builds and renders all four charts. |
 | `inr_vs_usd.{png,csv}` | Chart 1 output and data. |
 | `nifty_indices.{png,csv}` | Chart 2 output and data. |
 | `constituent_medians.{png,csv}` | Chart 3 output and data. |
-| `combined_all.{png,csv}` | Chart 4 output and data — 11 series (INR/USD, 3 index levels, 3 median constituent closes, total FII inflow, 3 cap-segment FII inflows). |
+| `combined_all.{png,csv}` | Chart 4 output and data — 8 series (INR/USD, 3 index levels, 3 median constituent closes, total net FII equity inflow). |
 
 ## Run
 
@@ -33,20 +33,31 @@ The lookback window is controlled by `YEARS_BACK` in each `plot_*.py`
 
 ## FII inflow data source
 
-Annual net FII equity inflows come from a single official source:
-
 | Series | Source |
 | --- | --- |
 | Total India equity FII inflow (INR crore, by FY) | **CDSL** FPI/FII Investment Details (Financial Year): <https://www.cdslindia.com/Publications/FIIFPIInvstmntFinYrData.aspx> |
 | INR/USD yearly average for USD conversion | FRED **DEXINUS** (India / U.S. Foreign Exchange Rate): <https://fred.stlouisfed.org/series/DEXINUS> |
-| Cap-segment allocation share | NSE **India Ownership Tracker** (Jun-2024 FPI ownership: Nifty 50 = 24.5%, Midcap 100 = 16%, Smallcap 100 = 12.4%) combined with NSE-published free-float market-cap weights, giving the documented split Nifty 50 ≈ 78%, Midcap 100 ≈ 15%, Smallcap 100 ≈ 7%. |
 
-> **Note on cap-segment splits**: CDSL/NSDL do NOT publish net FII flow
-> broken down by Nifty 50 / Midcap / Smallcap. The cap-segment series
-> (Nifty 50, Midcap, Smallcap) on the chart are derived by applying the
-> documented FPI ownership-weighted allocation share to the **factual**
-> total FII flow from CDSL. They are labelled `est.` in the chart legend.
-> The total India-equity FII series is factual CDSL data unchanged.
+### Why only the TOTAL FII series — not Nifty 50 / Midcap / Smallcap
+
+None of CDSL, NSDL, SEBI or NSE publish actual net FII flow broken down
+by Nifty 50 / Nifty Midcap 100 / Nifty Smallcap 100 as a single, trusted
+data series. What **is** published:
+
+- **Total India-equity FII flow** — CDSL / NSDL / SEBI (used here).
+- **FPI ownership % by Nifty index, quarterly** — NSE India Ownership
+  Tracker (only goes back to ~2018; this is stock data, not flow data).
+- **Per-stock FPI holding %, quarterly** — NSE/BSE shareholding pattern
+  disclosures (would need to be aggregated across each index's
+  constituents to derive an implied flow).
+
+A per-Nifty-index net flow series can therefore only be **derived**
+(e.g. by aggregating per-stock FPI holding changes across each index's
+constituents and netting out valuation effects) — it is not a published
+data series. An earlier revision of this chart applied documented FPI
+ownership weights to the CDSL total as a proxy split; that proxy has
+been removed at the reviewer's request to keep every line on the chart
+sourced from actual, factual data.
 
 ## Yahoo Finance source for prices
 

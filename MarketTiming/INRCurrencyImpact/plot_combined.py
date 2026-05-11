@@ -1,23 +1,31 @@
-"""Chart 4: ALL series from Charts 1-3 plus the four FII flow series on a
-single chart.
+"""Chart 4: ALL series from Charts 1-3 plus net FII equity inflow.
 
-Eleven lines total:
+Eight lines on a single chart:
   - INR per 1 USD                                       (1 line)
   - Index year-end close: Nifty 50, Midcap 100, Smallcap (3 lines)
   - Median constituent year-end close: Nifty 50, Midcap, Smallcap (3 lines)
-  - Net FII equity inflows (USD mn): total, Nifty 50,
-    Nifty Midcap 100, Nifty Smallcap 100                 (4 lines)
+  - Net FII equity inflow to ALL Indian equity (USD mn) (1 line)
 
-Four y-axes are used to handle the wildly different scales:
+Four y-axes are used to handle the very different scales:
   - Left y-axis        : INR per 1 USD                       (~40-95)
   - Right y-axis #1    : Median constituent close            (~5-1,500)
   - Right y-axis #2    : Index level                         (2K-65K)
   - Right y-axis #3    : Net FII inflow (USD mn)             (-18K to +37K)
 
-All seven price-related series are from Yahoo Finance (yfinance).
-The four FII flow series are from CDSL (FY net equity investment) with
-USD conversion via FRED DEXINUS; the cap-segment splits use NSE-published
-FPI ownership weights. See fii_inflows.py for details.
+Why only ONE FII line, not four
+-------------------------------
+None of CDSL, NSDL, SEBI or NSE publish net FII flow broken down by
+Nifty 50 / Midcap 100 / Smallcap 100 as actual numbers. The total India-
+equity flow is genuine published data; per-Nifty-index flow can only be
+derived (e.g. from per-stock shareholding-pattern disclosures), so it is
+not plotted here.
+
+Sources:
+  - Prices (INR/USD, indices, constituents):  Yahoo Finance via yfinance
+  - Total FII inflow:                          CDSL FPI/FII Investment
+                                              Details (Financial Year),
+                                              USD via FRED DEXINUS yearly
+                                              average. See fii_inflows.py.
 """
 
 from __future__ import annotations
@@ -41,15 +49,9 @@ def build_dataset(years_back: int = YEARS_BACK) -> pd.DataFrame:
     inr = build_inr(years_back)
     idx = build_indices(years_back)
     med = build_medians(years_back)
-    fii = build_fii_inflows_df()[[
-        "fii_total_usd_mn",
-        "fii_nifty50_usd_mn",
-        "fii_midcap_usd_mn",
-        "fii_smallcap_usd_mn",
-    ]]
+    fii = build_fii_inflows_df()[["fii_total_usd_mn"]]
     df = inr.join([idx, med, fii], how="outer").sort_index()
     df.index.name = "year"
-    # restrict to the lookback window
     from datetime import datetime
     end_year = datetime.today().year
     start_year = end_year - years_back
@@ -114,44 +116,29 @@ def plot(df: pd.DataFrame, out_path: str = OUT_PNG) -> None:
                       color="#222222")
     ax_idx.tick_params(axis="y", labelcolor="#222222")
 
-    # Axis 4 (right, further offset): FII inflows in USD mn
+    # Axis 4 (right, further offset): total FII inflow (USD mn)
     ax_fii = ax_inr.twinx()
     ax_fii.spines["right"].set_position(("axes", 1.16))
     L_fii_tot = ax_fii.plot(
         df.index, df["fii_total_usd_mn"],
-        color="#8c564b", marker="P", linewidth=2.2, linestyle=":",
-        label="Net FII inflow — total Indian equity (USD mn)",
-    )
-    L_fii_50 = ax_fii.plot(
-        df.index, df["fii_nifty50_usd_mn"],
-        color="#1f77b4", marker="P", linewidth=1.5, linestyle=":",
-        label="Net FII inflow — Nifty 50 (USD mn, est.)",
-    )
-    L_fii_mid = ax_fii.plot(
-        df.index, df["fii_midcap_usd_mn"],
-        color="#2ca02c", marker="P", linewidth=1.5, linestyle=":",
-        label="Net FII inflow — Nifty Midcap 100 (USD mn, est.)",
-    )
-    L_fii_sm = ax_fii.plot(
-        df.index, df["fii_smallcap_usd_mn"],
-        color="#ff7f0e", marker="P", linewidth=1.5, linestyle=":",
-        label="Net FII inflow — Nifty Smallcap 100 (USD mn, est.)",
+        color="#8c564b", marker="P", linewidth=2.4, linestyle=":",
+        label="Net FII inflow — total Indian equity (USD mn, CDSL)",
     )
     ax_fii.axhline(0, color="#999999", linewidth=0.8)
-    ax_fii.set_ylabel("Net FII inflow (USD millions, dotted lines)",
+    ax_fii.set_ylabel("Net FII inflow (USD millions, dotted line)",
                       color="#8c564b")
     ax_fii.tick_params(axis="y", labelcolor="#8c564b")
 
     lines = (L_inr + L_idx_50 + L_idx_mid + L_idx_sm
              + L_med_50 + L_med_mid + L_med_sm
-             + L_fii_tot + L_fii_50 + L_fii_mid + L_fii_sm)
+             + L_fii_tot)
     labels = [ln.get_label() for ln in lines]
     ax_inr.legend(lines, labels, loc="upper left", framealpha=0.92,
-                  fontsize=8)
+                  fontsize=9)
 
     plt.title(
         f"INR/USD · Nifty 50 / Midcap / Smallcap index levels · median "
-        f"constituent prices · net FII equity inflows — last {YEARS_BACK} years"
+        f"constituent prices · net FII equity inflow — last {YEARS_BACK} years"
     )
     ax_inr.grid(True, alpha=0.3)
     ax_inr.set_xticks(df.index)
