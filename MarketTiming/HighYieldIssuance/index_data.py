@@ -1,17 +1,24 @@
 """Fetch live historical index data via yfinance (Yahoo Finance).
 
-Indices fetched (real, live data — no assumed values):
-  - ^GSPC                  : S&P 500 (USA)
-  - ^NSEI                  : Nifty 50 (India)
-  - NIFTY_MIDCAP_100.NS    : Nifty Midcap 100 (India) ["nifty madcap" proxy]
-  - BSE-SMLCAP.BO          : BSE Smallcap Index (India)
-        Notes on smallcap:
-        Yahoo Finance does NOT serve historical bars for the official Nifty
-        Smallcap 100 / 250 (^CNXSC, NIFTYSMLCAP250.NS) -- requests return
-        empty time series. The BSE Smallcap index is the most widely used
-        publicly-available smallcap benchmark for India with a full 15-year
-        free history on Yahoo Finance, so we use it as the Nifty Smallcap
-        proxy. The two indices have ~95%+ correlation over rolling 1y windows.
+Indices (real, live data — no assumed values):
+  - ^GSPC                  : S&P 500 (USA) — full 25y+ history on Yahoo.
+  - ^NSEI                  : Nifty 50 (India) — Yahoo serves data from
+                             2007-09-17 onward. For the years 2001-2007 we
+                             pad the Nifty 50 series using the BSE Sensex
+                             (^BSESN) rescaled to the Nifty 50 level on the
+                             first overlapping date, so the line is
+                             continuous over the full 25y window.
+  - NIFTY_MIDCAP_100.NS    : Nifty Midcap 100 (India) — Yahoo data from
+                             2005-09-26 onward.
+  - BSE-SMLCAP.BO          : BSE Smallcap Index (India) used as the Nifty
+                             Smallcap 100 proxy. Yahoo serves the official
+                             Nifty Smallcap 100 ticker (^CNXSC) only as
+                             empty bars. BSE Smallcap has the longest free
+                             history (from 2003-04-01) and ~95%+ rolling
+                             correlation with Nifty Smallcap 100.
+  - ^BSESN                 : BSE Sensex — used for the pre-2007 Nifty 50
+                             back-fill and also exposed as a standalone
+                             series ("sensex").
 """
 
 from __future__ import annotations
@@ -27,7 +34,8 @@ TICKERS = {
     "sp500":          "^GSPC",
     "nifty50":        "^NSEI",
     "nifty_midcap":   "NIFTY_MIDCAP_100.NS",
-    "nifty_smallcap": "BSE-SMLCAP.BO",   # BSE Smallcap proxy (see note above)
+    "nifty_smallcap": "BSE-SMLCAP.BO",
+    "sensex":         "^BSESN",
 }
 
 
@@ -44,16 +52,45 @@ def fetch_index(ticker: str, start: str, end: str) -> pd.Series:
     return close
 
 
-def fetch_all(start: str = "2011-01-01",
+def fetch_nifty50_with_sensex_backfill(start: str, end: str) -> pd.Series:
+    """Fetch ^NSEI but pad pre-2007 with rescaled ^BSESN so the series
+    spans the full 25y window."""
+    nifty = fetch_index("^NSEI", start, end)
+    sensex = fetch_index("^BSESN", start, end)
+
+    overlap = nifty.index.intersection(sensex.index)
+    if len(overlap) == 0:
+        return nifty  # no overlap, give up on backfill
+    anchor = overlap.min()
+    scale = nifty.loc[anchor] / sensex.loc[anchor]
+    sensex_rescaled = sensex * scale
+
+    backfill_mask = sensex.index < nifty.index.min()
+    backfill = sensex_rescaled[backfill_mask]
+    combined = pd.concat([backfill, nifty]).sort_index()
+    combined = combined[~combined.index.duplicated(keep="last")]
+    combined.name = "nifty50"
+    return combined
+
+
+def fetch_all(start: str = "2001-01-01",
               end: str | None = None) -> pd.DataFrame:
-    """Fetch all four indices and return a wide DataFrame indexed by date."""
+    """Fetch all five indices and return a wide DataFrame indexed by date.
+    The nifty50 column is back-filled pre-2007 using a rescaled Sensex."""
     if end is None:
         end = (datetime.today() + timedelta(days=1)).strftime("%Y-%m-%d")
 
     series = {}
-    for friendly, ticker in TICKERS.items():
-        print(f"Fetching {friendly} ({ticker}) {start} -> {end} ...")
-        series[friendly] = fetch_index(ticker, start, end)
+    print(f"Fetching sp500 (^GSPC) {start} -> {end} ...")
+    series["sp500"] = fetch_index("^GSPC", start, end)
+    print(f"Fetching sensex (^BSESN) {start} -> {end} ...")
+    series["sensex"] = fetch_index("^BSESN", start, end)
+    print(f"Fetching nifty50 (^NSEI, back-filled with Sensex pre-2007) ...")
+    series["nifty50"] = fetch_nifty50_with_sensex_backfill(start, end)
+    print(f"Fetching nifty_midcap (NIFTY_MIDCAP_100.NS) ...")
+    series["nifty_midcap"] = fetch_index("NIFTY_MIDCAP_100.NS", start, end)
+    print(f"Fetching nifty_smallcap (BSE-SMLCAP.BO) ...")
+    series["nifty_smallcap"] = fetch_index("BSE-SMLCAP.BO", start, end)
 
     df = pd.concat(series, axis=1).sort_index()
     return df
@@ -68,7 +105,7 @@ def annual_year_end(df: pd.DataFrame) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    df = fetch_all(start="2011-01-01")
+    df = fetch_all(start="2001-01-01")
     print("\nDaily data shape:", df.shape)
     print("Date range:", df.index.min().date(), "->", df.index.max().date())
     print("\nLast 5 rows:")

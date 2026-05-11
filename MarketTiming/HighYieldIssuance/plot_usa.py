@@ -1,5 +1,5 @@
 """USA chart: number of HY issues, $ value of HY issuance, and S&P 500
-movement on a single line chart over the last 15 years.
+movement on a single line chart over the last 25 years.
 
 Renders to ./usa_high_yield_vs_sp500.png and writes the underlying joined
 dataset to ./usa_chart_data.csv for transparency.
@@ -18,9 +18,10 @@ from index_data import fetch_index
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_PNG = os.path.join(HERE, "usa_high_yield_vs_sp500.png")
 OUT_CSV = os.path.join(HERE, "usa_chart_data.csv")
+YEARS_BACK = 25
 
 
-def build_dataset(years_back: int = 15) -> pd.DataFrame:
+def build_dataset(years_back: int = YEARS_BACK) -> pd.DataFrame:
     end_year = datetime.today().year
     start_year = end_year - years_back
 
@@ -39,7 +40,7 @@ def build_dataset(years_back: int = 15) -> pd.DataFrame:
 
 
 def plot(df: pd.DataFrame, out_path: str = OUT_PNG) -> None:
-    fig, ax1 = plt.subplots(figsize=(13, 7))
+    fig, ax1 = plt.subplots(figsize=(16, 8))
 
     # Primary axis: HY issuance value ($B)
     color_val = "#1f77b4"
@@ -61,7 +62,7 @@ def plot(df: pd.DataFrame, out_path: str = OUT_PNG) -> None:
 
     # Right axis #2: S&P 500 year-end close (offset to the right)
     ax3 = ax1.twinx()
-    ax3.spines["right"].set_position(("axes", 1.10))
+    ax3.spines["right"].set_position(("axes", 1.08))
     color_sp = "#d62728"
     line_sp = ax3.plot(df.index, df["sp500_year_end"],
                        color=color_sp, marker="^", linewidth=2,
@@ -73,7 +74,8 @@ def plot(df: pd.DataFrame, out_path: str = OUT_PNG) -> None:
     labels = [ln.get_label() for ln in lines]
     ax1.legend(lines, labels, loc="upper left", framealpha=0.9)
 
-    plt.title("USA: High-Yield Bond Issuance vs. S&P 500 (last 15 years)")
+    plt.title(f"USA: High-Yield Bond Issuance vs. S&P 500 "
+              f"(last {YEARS_BACK} years)")
     ax1.grid(True, alpha=0.3)
     ax1.set_xticks(df.index)
     ax1.set_xticklabels([str(y) for y in df.index], rotation=45)
@@ -84,7 +86,7 @@ def plot(df: pd.DataFrame, out_path: str = OUT_PNG) -> None:
 
 
 if __name__ == "__main__":
-    df = build_dataset(years_back=15)
+    df = build_dataset(years_back=YEARS_BACK)
     df.to_csv(OUT_CSV)
     print(df.to_string())
     print(f"\nWrote: {OUT_CSV}")
