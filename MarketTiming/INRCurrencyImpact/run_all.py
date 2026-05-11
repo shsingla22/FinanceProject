@@ -1,7 +1,8 @@
-"""Entry point: build datasets and render all three charts."""
+"""Entry point: build datasets and render all four charts."""
 import plot_inr_usd
 import plot_indices
 import plot_medians
+import plot_combined
 
 
 def main() -> None:
@@ -30,6 +31,15 @@ def main() -> None:
     df3.to_csv(plot_medians.OUT_CSV)
     print(df3.to_string())
     plot_medians.plot(df3)
+
+    print()
+    print("=" * 72)
+    print("Chart 4: All seven series combined")
+    print("=" * 72)
+    df4 = plot_combined.build_dataset()
+    df4.to_csv(plot_combined.OUT_CSV)
+    print(df4.to_string())
+    plot_combined.plot(df4)
 
 
 if __name__ == "__main__":

@@ -13,10 +13,12 @@ years**.
 | `plot_inr_usd.py` | Chart 1 — INR per 1 USD, year-end close, 25-year line graph. |
 | `plot_indices.py` | Chart 2 — Nifty 50 / Midcap 100 / Smallcap year-end close on one chart. |
 | `plot_medians.py` | Chart 3 — median year-end close of constituent stocks in each of the three indices on one chart. |
-| `run_all.py` | Convenience entry point: builds and renders all three charts. |
+| `plot_combined.py` | Chart 4 — all seven series from Charts 1-3 on a single chart with three y-axes (INR per USD on the left, median constituent close in the middle, index level on the far right). |
+| `run_all.py` | Convenience entry point: builds and renders all four charts. |
 | `inr_vs_usd.{png,csv}` | Chart 1 output and data. |
 | `nifty_indices.{png,csv}` | Chart 2 output and data. |
 | `constituent_medians.{png,csv}` | Chart 3 output and data. |
+| `combined_all.{png,csv}` | Chart 4 output and data. |
 
 ## Run
 
