@@ -1,0 +1,36 @@
+"""Entry point: build datasets and render all three charts."""
+import plot_inr_usd
+import plot_indices
+import plot_medians
+
+
+def main() -> None:
+    print("=" * 72)
+    print("Chart 1: INR vs USD")
+    print("=" * 72)
+    df1 = plot_inr_usd.build_dataset()
+    df1.to_csv(plot_inr_usd.OUT_CSV)
+    print(df1.to_string())
+    plot_inr_usd.plot(df1)
+
+    print()
+    print("=" * 72)
+    print("Chart 2: Nifty 50 / Midcap / Smallcap year-end levels")
+    print("=" * 72)
+    df2 = plot_indices.build_dataset()
+    df2.to_csv(plot_indices.OUT_CSV)
+    print(df2.to_string())
+    plot_indices.plot(df2)
+
+    print()
+    print("=" * 72)
+    print("Chart 3: Median constituent price by index")
+    print("=" * 72)
+    df3 = plot_medians.build_dataset()
+    df3.to_csv(plot_medians.OUT_CSV)
+    print(df3.to_string())
+    plot_medians.plot(df3)
+
+
+if __name__ == "__main__":
+    main()
