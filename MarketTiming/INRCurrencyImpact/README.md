@@ -14,9 +14,7 @@ years**.
 | `plot_indices.py` | Chart 2 — Nifty 50 / Midcap 100 / Smallcap year-end close on one chart. |
 | `plot_medians.py` | Chart 3 — median year-end close of constituent stocks in each of the three indices on one chart. |
 | `fii_inflows.py` | Annual net FII equity inflows to **total** Indian equity from CDSL (INR crore, FY 1998-99 → FY 2024-25), USD-converted using FRED DEXINUS yearly average. |
-| `per_stock_fii.py` | Fetches per-stock quarterly FII shareholding % from the Tickertape API for every Nifty 50 / Midcap 100 / Smallcap 100 constituent. |
-| `derived_index_flow.py` | Derives per-Nifty-index annual net FII flow by aggregating `(Δ FII% × shares × avg-price)` across each index's constituents using Tickertape FII % + Yahoo Finance prices/shares. |
-| `plot_combined.py` | Chart 4 — 11 series on a single chart with four y-axes (INR/USD on the left, median constituent close, index level, and net FII inflow each on a separate right-side axis). |
+| `plot_combined.py` | Chart 4 — 8 series on a single chart with four y-axes (INR/USD on the left, median constituent close, index level, and net FII inflow each on a separate right-side axis). |
 | `run_all.py` | Convenience entry point: builds and renders all four charts. |
 | `inr_vs_usd.{png,csv}` | Chart 1 output and data. |
 | `nifty_indices.{png,csv}` | Chart 2 output and data. |
@@ -40,35 +38,18 @@ The lookback window is controlled by `YEARS_BACK` in each `plot_*.py`
 | Total India equity FII inflow (INR crore, by FY) | **CDSL** FPI/FII Investment Details (Financial Year): <https://www.cdslindia.com/Publications/FIIFPIInvstmntFinYrData.aspx> |
 | INR/USD yearly average for USD conversion | FRED **DEXINUS** (India / U.S. Foreign Exchange Rate): <https://fred.stlouisfed.org/series/DEXINUS> |
 
-### Per-Nifty-index FII flow — derived from real per-stock data
+### Why only the TOTAL FII series — not Nifty 50 / Midcap / Smallcap
 
 CDSL/NSDL/SEBI/NSE do not publish net FII flow broken down by Nifty 50 /
-Midcap 100 / Smallcap 100 as a clean data series. They publish:
+Midcap 100 / Smallcap 100 as a clean, single-source data series. They
+publish total India-equity FII flow (used here), FPI ownership % per
+Nifty index, and per-stock FPI ownership — but not per-index flow.
 
-- **Total India-equity FII flow** — CDSL/NSDL/SEBI (used directly here).
-- **Per-stock quarterly FII shareholding %** — disclosed by every
-  listed company in NSE/BSE shareholding-pattern filings; aggregated by
-  Tickertape and exposed via their public API
-  (`api.tickertape.in/stocks/holdings/<sid>`).
-
-The per-Nifty-index series on this chart is **derived** from the
-per-stock shareholding-pattern series (real data). For each constituent
-stock `s` and each quarter end `t`, FII rupee holding is
-`FII%_s,t × shares_s × close_s,t`. Net flow into a stock between two
-quarter-ends is approximated by:
-
-    flow_s  ≈  (FII%_t − FII%_{t-1})/100  ×  shares  ×  avg(close_t, close_{t-1})
-
-i.e. the change in FII-held shares valued at the period's average price,
-which isolates the flow component from the valuation component. Net
-flow per Nifty index is the sum of `flow_s` across that index's
-current constituents.
-
-**Coverage limitation**: Tickertape's `/holdings` endpoint exposes the
-most recent ~6 calendar quarters per stock, so the derived per-index
-series only produces year-over-year flow for the most recent calendar
-year (Dec-prev → Dec-current). Earlier years are NaN on the chart. The
-total-India FII series (CDSL) still covers the full 25-year window.
+Per-index flow can only be derived (e.g. by aggregating per-stock
+shareholding-pattern changes across each index's constituents). An
+earlier revision of this chart included such a derivation; it has been
+removed at the reviewer's request so that every line on the chart is
+sourced from actual, factually-published data rather than a derivation.
 
 ## Yahoo Finance source for prices
 
