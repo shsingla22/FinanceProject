@@ -15,7 +15,8 @@ years**.
 | `plot_medians.py` | Chart 3 — median year-end close of constituent stocks in each of the three indices on one chart. |
 | `fii_inflows.py` | Annual net FII equity inflows to **total** Indian equity from CDSL (INR crore, FY 1998-99 → FY 2024-25), USD-converted using FRED DEXINUS yearly average. |
 | `plot_combined.py` | Chart 4 — 8 series on a single chart with four y-axes (INR/USD on the left, median constituent close, index level, and net FII inflow each on a separate right-side axis). |
-| `plot_interactive.py` | Interactive Plotly HTML versions of all four charts — click legend to toggle lines, drag the range slider or use the quick-pick buttons to change the year window. |
+| `plot_interactive.py` | Interactive HTML versions of all four charts using **Chart.js** with hand-written native HTML controls. Each HTML is fully self-contained (~220 KB) and works offline / from `file://` in Safari, Chrome and Firefox. |
+| `test_interactive.py` | Headless-Chromium smoke test that opens each interactive HTML and exercises every control. |
 | `run_all.py` | Convenience entry point: builds and renders all four charts (PNG **and** interactive HTML). |
 | `inr_vs_usd.{png,csv}` / `inr_vs_usd_interactive.html` | Chart 1 output. |
 | `nifty_indices.{png,csv}` / `nifty_indices_interactive.html` | Chart 2 output. |
@@ -24,15 +25,44 @@ years**.
 
 ### Interactive HTML controls
 
-Every `*_interactive.html` exposes the same two controls:
+Every `*_interactive.html` ships with explicit, native HTML controls so
+they work the same in Safari, Chrome and Firefox even when opened from
+the local filesystem:
 
-1. **Enable/disable lines** — single-click any legend entry to hide that
-   line; click again to show it; double-click an entry to isolate it
-   (hide every other line).
-2. **Adjust the year window** — drag either end of the range slider
-   below the chart, click the **Last 5y / 10y / 15y / 25y / All**
-   quick-pick buttons above the chart, or click-drag directly on the
-   plot to zoom into a custom range. Double-click the plot to reset.
+1. **Enable/disable lines** —
+   - Each line has a checkbox (with a colour swatch) in the *Lines*
+     panel; tick/untick to show/hide that line.
+   - You can also click the legend at the top of the chart — clicking
+     toggles the line and updates the matching checkbox.
+2. **Adjust the year window** —
+   - The *Quick year window* row has buttons: **Last 5y / 10y / 15y /
+     25y / All**. Click any of them to instantly clip the x-axis.
+   - The *Custom year range* panel has **From** and **To** number
+     inputs and matching range sliders — type or drag to pick any
+     window, the chart updates live.
+   - The **Reset** button restores the full year span and re-shows any
+     hidden lines.
+
+### How the HTMLs were tested
+
+`test_interactive.py` opens every HTML in headless Chromium via the
+`file://` protocol (the same protocol Safari uses for downloaded files),
+then for each chart:
+
+  - waits for `<canvas>` and the toggle checkboxes to render,
+  - clicks every preset button and asserts the chart's x-scale window
+    matches the requested span,
+  - types a custom From/To range and asserts the x-scale follows,
+  - unticks a line and asserts `Chart.isDatasetVisible(idx) === false`,
+    then re-ticks and asserts it returns to true,
+  - fails the test if any `pageerror` or `console.error` fired during
+    the run.
+
+Run it any time with:
+```bash
+pip install playwright && python -m playwright install chromium
+python test_interactive.py
+```
 
 ## Run
 
