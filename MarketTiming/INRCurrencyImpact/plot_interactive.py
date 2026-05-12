@@ -14,6 +14,12 @@ Two interactive features:
      - quick-pick buttons (Last 5y / 10y / 15y / 25y / All), and
      - native click-drag zoom on the plot itself; double-click to reset.
 
+Plotly.js is inlined into every HTML file (via `include_plotlyjs=True`)
+so the page works fully offline and when opened via the `file://`
+protocol in Safari / Chrome / Firefox. The trade-off is that each
+HTML is ~3-4 MB instead of ~20 KB — necessary because Safari blocks
+external CDN scripts on `file://` pages.
+
 The existing static PNG charts are kept untouched — this module only
 adds *_interactive.html files next to them.
 """
@@ -100,7 +106,7 @@ def render_inr_usd(out: str | None = None) -> str:
         height=560,
     )
     _add_year_controls(fig)
-    fig.write_html(out, include_plotlyjs="cdn", full_html=True)
+    fig.write_html(out, include_plotlyjs=True, full_html=True)
     print(f"Saved: {out}")
     return out
 
@@ -141,7 +147,7 @@ def render_indices(out: str | None = None) -> str:
         height=640,
     )
     _add_year_controls(fig)
-    fig.write_html(out, include_plotlyjs="cdn", full_html=True)
+    fig.write_html(out, include_plotlyjs=True, full_html=True)
     print(f"Saved: {out}")
     return out
 
@@ -182,7 +188,7 @@ def render_medians(out: str | None = None) -> str:
         height=640,
     )
     _add_year_controls(fig)
-    fig.write_html(out, include_plotlyjs="cdn", full_html=True)
+    fig.write_html(out, include_plotlyjs=True, full_html=True)
     print(f"Saved: {out}")
     return out
 
@@ -298,7 +304,7 @@ def render_combined(out: str | None = None) -> str:
         ),
     )
     _add_year_controls(fig)
-    fig.write_html(out, include_plotlyjs="cdn", full_html=True)
+    fig.write_html(out, include_plotlyjs=True, full_html=True)
     print(f"Saved: {out}")
     return out
 
