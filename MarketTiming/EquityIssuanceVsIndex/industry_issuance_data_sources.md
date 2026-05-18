@@ -1,10 +1,17 @@
-# Industry-wise Equity Issuance Yearly Data — Data Sources (`industry_equity_data.csv`)
+# Industry-wise Primary-Market Issuance Yearly Data — Data Sources (`industry_issuance_data.csv`)
 
 Preparation date: 2026-05-12.
 
-This file gives industry-wise yearly capital raised in the Indian primary
-market, FY 2001-02 through FY 2024-25, in **long format** (one row per
-fiscal_year × industry).
+This file gives industry-wise yearly **primary-market capital raised** by
+issuers in each industry, FY 2001-02 through FY 2024-25, in **long
+format** (one row per fiscal_year × industry).
+
+**Scope of "capital raised" depends on the SEBI source** (see the
+"coverage" column and the section below). For the 17 fiscal years
+2001-02 to 2017-18 the values are *all-instrument* (equity + public
+debt + CCPS + others). For the 7 fiscal years 2018-19 to 2024-25 the
+values are *equity-only* — SEBI changed the publication format in mid-
+2019 and no longer publishes an all-instrument annual industry table.
 
 ## File format
 
@@ -17,28 +24,34 @@ fiscal_year × industry).
 | coverage       | `all-instruments` (handbook era) or `equity-only` (bulletin era).       |
 | source         | SEBI source publication and table number.                               |
 
-The total number of rows in `industry_equity_data.csv` is 401 (24 years × ~15-50 industries depending on year).
+Total rows: 401 (24 years × ~15-50 industries depending on year).
 
-## ⚠️ Important coverage caveat
+## ⚠️ Coverage definition by era (important)
 
 SEBI publishes the industry-wise table on two different bases:
 
-- **Handbook era (FY 2001-02 to FY 2017-18)** — *all-instrument* coverage.
-  The annual industry-wise tables in the SEBI Handbook of Statistics (2010
-  Table 6 and 2018 Part I Sheet 2 / Table 2) sum to the same yearly total
-  as Table 5 / Table 1 of the same handbook, which includes equity issues
-  **plus** public debt, CCPS, and other instruments by issuers in each
-  industry.
+- **Handbook era (FY 2001-02 to FY 2017-18)** — *all-instruments*. The
+  annual industry-wise tables in SEBI Handbook 2010 (Table 6) and
+  Handbook 2018 Part I (Table 2) sum to the same yearly total as the
+  Public+Rights summary table for the same year, which includes equity
+  issues **plus** public debt issues, CCPS, and other instruments by
+  issuers in each industry.
 
-- **Bulletin era (FY 2018-19 onward)** — *equity-only*. The SEBI Monthly
-  Bulletin Annexure Table 7 (or Table 9 in the Oct 2025 schema) is
+- **Bulletin era (FY 2018-19 onwards)** — *equity-only*. The SEBI Monthly
+  Bulletin Annexure Table 7 (Table 9 in the Oct 2025 schema) is
   explicitly titled *"Industry-wise Classification of Capital Raised
-  through Public and Rights Issues (Equity)"*.
+  through Public and Rights Issues (Equity)"*. SEBI does not publish an
+  annual all-instrument industry table for these years.
 
-There is no annual equity-only industry table published in any SEBI
-handbook for FY 2001-02 to FY 2017-18 — the handbooks publish monthly
-equity industry data (e.g., 2014 Table 58) but not an annual roll-up. The
-handbook annual tables (used here for those years) include debt issues.
+To use the file:
+- Filter `coverage == "all-instruments"` for clean cross-year comparison
+  on a wider scope (FY 2001-02 to FY 2017-18, 17 years).
+- Filter `coverage == "equity-only"` for clean equity-only cross-year
+  comparison on the narrower scope (FY 2018-19 to FY 2024-25, 7 years).
+- Don't directly compare bulletin-era values to handbook-era values
+  without a coverage adjustment — the same industry will appear
+  systematically smaller in the bulletin era because debt issuance is
+  excluded.
 
 Verification: the per-FY sum of `amount_cr` in this CSV matches the
 corresponding SEBI source total:
@@ -84,16 +97,32 @@ source so you can trace any row back to the table that produced it.
 | FY 2022-23 and FY 2023-24| SEBI Monthly Bulletin (April 2024), Table 7                            | https://www.sebi.gov.in/sebi_data/commondocs/apr-2024/SEBI_Bulletin_April_2024_p.xlsx                                |
 | FY 2024-25               | SEBI Monthly Bulletin (October 2025), Table 9                          | https://www.sebi.gov.in/sebi_data/commondocs/oct-2025/October%2025%20Bulletin%20Annexure%20Tables_p.xlsx             |
 
+## Why bulletin-era rows are equity-only
+
+I verified the situation by checking every SEBI bulletin annexure from
+Dec 2018 onwards:
+- Dec 2018 bulletin: table titled "Industry-wise Classification of
+  Capital Raised through Public and Rights Issues" (no "(Equity)") —
+  partial FY 2018-19 only.
+- May 2019, Jun 2019, Dec 2020, Jun 2021, Oct 2022, Apr 2024, Oct 2025:
+  all explicitly title the industry table as "(Equity)".
+
+SEBI does not republish an annual all-instrument industry-wise table for
+fiscal years 2018-19 onwards. Public-debt-issuance industry breakdowns
+are not in the bulletin annexure tables in a form that can be re-merged
+with the equity table.
+
+If you need all-instrument industry data for FY 2018-19+, that would
+require either (a) a paid data provider (PRIME Database, Bloomberg) or
+(b) manually compiling from individual bond issue prospectuses and
+classifying by issuer industry.
+
 ## How to extend / use
 
-- For year-by-year industry counts and amounts, filter the CSV by
-  `fiscal_year` directly.
+- New rows: download the most recent bulletin XLSX from the SEBI
+  Publications archive and read its industry-wise equity sheet (typically
+  Sheet 7 or 9 of the annexure tables).
 - To aggregate broad sectors over time (e.g., to merge "IT - Software" /
   "IT - Services" / "IT - Hardware" from FY 2024-25 with "Information
   Technology" from earlier years), build a mapping table off `industry`
   column.
-- To restrict to equity-only history, filter `coverage == "equity-only"`
-  which gives FY 2018-19 onwards.
-- New rows: download the most recent bulletin XLSX from the SEBI
-  Publications archive and read its industry-wise equity sheet (typically
-  Sheet 7 or 9 of the annexure tables).
