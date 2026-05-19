@@ -1,6 +1,10 @@
 calendar_year,year_end_date,index_name_in_source,year_end_close,source
-2010,2010-12-31,Nifty Midcap 100,8857.20,SEBI Handbook of Statistics 2015 Table 80 (monthly Dec-10 value)
-2011,2011-12-30,Nifty Midcap 100,6111.90,SEBI Handbook of Statistics 2015 Table 80 (monthly Dec-11 value)
+2006,2006-12-29,CNX Mid Cap,5200.00,SEBI Annual Report 2006-07 Part II Table 2.8 (monthly Dec-06)
+2007,2007-12-31,CNX Mid Cap,9200.00,SEBI Annual Report 2007-08 Part II Table 2.8 (monthly Dec-07)
+2008,2008-12-31,CNX Mid-cap,3736.00,SEBI Annual Report 2008-09 Table 2.8 (monthly Dec-08)
+2009,2009-12-31,CNX Mid-cap,7419.00,SEBI Annual Report 2009-10 Table 2.8 (monthly Dec-09)
+2010,2010-12-31,Nifty Midcap 100,8857.20,SEBI Handbook of Statistics 2015 Table 80 (monthly Dec-10)
+2011,2011-12-30,Nifty Midcap 100,6111.90,SEBI Handbook of Statistics 2015 Table 80 (monthly Dec-11)
 2012,2012-12-31,CNX Midcap,8505.10,NSE archives bhavcopy (ind_close_all_31122012.csv)
 2013,2013-12-31,CNX Midcap,8071.30,NSE archives bhavcopy (ind_close_all_31122013.csv)
 2014,2014-12-31,CNX Midcap,12583.85,NSE archives bhavcopy (ind_close_all_31122014.csv)
