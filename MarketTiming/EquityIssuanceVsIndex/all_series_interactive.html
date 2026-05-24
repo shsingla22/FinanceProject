@@ -9,51 +9,72 @@
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
          margin: 0; padding: 16px; background: #fafafa; color: #222; }
   h1 { font-size: 18px; margin: 0 0 4px; }
-  .subtitle { color: #666; font-size: 12px; margin-bottom: 12px; }
-  .controls { display: flex; flex-wrap: wrap; gap: 16px; align-items: center;
+  .subtitle { color: #666; font-size: 12px; margin-bottom: 12px; max-width: 1100px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center;
               background: #fff; padding: 10px 14px; border-radius: 8px;
-              border: 1px solid #e1e1e1; margin-bottom: 12px; font-size: 13px; }
-  .controls label { display: inline-flex; align-items: center; gap: 6px; }
-  .controls input[type=number] { width: 70px; padding: 4px 6px; font-size: 13px; }
-  .controls button { padding: 5px 12px; font-size: 13px; cursor: pointer;
+              border: 1px solid #e1e1e1; margin-bottom: 8px; font-size: 13px; }
+  .controls > .group { display: flex; gap: 6px; align-items: center;
+                       border-right: 1px solid #eee; padding-right: 12px; }
+  .controls > .group:last-child { border-right: none; }
+  .controls label { display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; }
+  .controls input[type=number] { width: 62px; padding: 4px 6px; font-size: 13px;
+                                  border: 1px solid #c1c1c1; border-radius: 3px; }
+  .controls button { padding: 4px 10px; font-size: 12px; cursor: pointer;
                      border: 1px solid #c1c1c1; background: #fff; border-radius: 4px; }
   .controls button:hover { background: #f0f0f0; }
-  .chart-wrap { background: #fff; border: 1px solid #e1e1e1; border-radius: 8px;
-                padding: 8px; }
-  #chart { width: 100%; height: 78vh; min-height: 600px; }
-  .legend-tips { font-size: 11px; color: #555; margin-top: 6px; }
-  .legend-tips code { background: #eee; padding: 1px 4px; border-radius: 3px; }
+  .controls button.preset { background: #f7f7f7; }
+  .chart-wrap { background: #fff; border: 1px solid #e1e1e1; border-radius: 8px; padding: 8px; }
+  #main_chart { width: 100%; height: 60vh; min-height: 520px; }
+  #pe_chart { width: 100%; height: 28vh; min-height: 220px; margin-top: 8px; }
+  .legend-tips { font-size: 11px; color: #555; margin-top: 6px; line-height: 1.6; }
+  .legend-tips code { background: #eee; padding: 1px 4px; border-radius: 3px; font-size: 11px; }
+  .pe-toggle { display: flex; align-items: center; gap: 8px; }
+  .pe-note { font-size: 11px; color: #888; }
+  .pill { display: inline-block; padding: 1px 6px; border-radius: 10px;
+          background: #fff3cd; color: #856404; font-size: 10.5px;
+          border: 1px solid #f0d878; margin-left: 4px; }
 </style>
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 </head>
 <body>
 <h1>Indian equity issuance vs broad-market indices — interactive 2000-2025</h1>
-<div class="subtitle">15 series on five y-axes. Sources: SEBI Handbooks + SEBI Annual Reports + SEBI Bulletin Annexures + NSE archives end-of-day index bhavcopy.
-  P/E values >60 (Midcap 2020 = 419, Smallcap 2017 = 106, Smallcap 2019 = 100) are shown — zoom into the P/E axis to inspect.</div>
+<div class="subtitle">12 series on the line chart (top) + P/E heatmap (bottom). Sources: SEBI Handbooks / SEBI Annual Reports / SEBI Bulletin Annexures / NSE archives bhavcopy.</div>
 
 <div class="controls">
-  <label>From year:
-    <input type="number" id="yearFrom" min="2000" max="2025" value="2000" step="1">
-  </label>
-  <label>To year:
-    <input type="number" id="yearTo" min="2000" max="2025" value="2025" step="1">
-  </label>
-  <button onclick="setRange(2000, 2025)">Full range</button>
-  <button onclick="setRange(2015, 2025)">Last 10y</button>
-  <button onclick="setRange(2020, 2025)">Last 5y</button>
-  <button onclick="setRange(2005, 2012)">2005-2012 (GFC cycle)</button>
-  <button onclick="setRange(2015, 2020)">2015-2020 (mid-cap cycle)</button>
-  <button onclick="setRange(2020, 2025)">2020-2025 (post-COVID)</button>
-  <span style="margin-left: auto; color:#888;">Click a series in the legend to toggle. Double-click to isolate.</span>
+  <div class="group">
+    <label>From: <input type="number" id="yearFrom" min="2000" max="2025" value="2000"></label>
+    <label>To: <input type="number" id="yearTo" min="2000" max="2025" value="2025"></label>
+  </div>
+  <div class="group">
+    <button class="preset" onclick="setRange(2000,2025)">Full</button>
+    <button class="preset" onclick="setRange(2015,2025)">Last 10y</button>
+    <button class="preset" onclick="setRange(2020,2025)">Last 5y</button>
+    <button class="preset" onclick="setRange(2005,2012)">2005-12 (GFC)</button>
+    <button class="preset" onclick="setRange(2015,2020)">2015-20 (midcap)</button>
+    <button class="preset" onclick="setRange(2020,2025)">2020-25 (post-COVID)</button>
+  </div>
+  <div class="group pe-toggle">
+    <label>P/E: 
+      <select id="peMode" onchange="updatePeHeatmap()">
+        <option value="norm" selected>Normalized (use prior-year EPS if current collapsed)</option>
+        <option value="raw">Raw (as published by NSE)</option>
+      </select>
+    </label>
+  </div>
 </div>
 
 <div class="chart-wrap">
-  <div id="chart"></div>
+  <div id="main_chart"></div>
+  <div id="pe_chart"></div>
   <div class="legend-tips">
-    Tips: <code>Click</code> a legend entry to hide/show that series. <code>Double-click</code> to isolate one.
-    <code>Drag</code> the range slider below the chart to zoom the x-axis.
-    <code>Mouse-wheel</code> over the chart area to zoom.
-    Hover any point for the exact value.
+    <strong>Top chart:</strong> 12 lines on 4 y-axes (count / amount / index level / YoY %).
+    Click a legend item to hide/show. Double-click to isolate. The YoY % series start hidden — click to enable.
+    Drag the rangeslider below or use the year inputs above to zoom.
+    <br>
+    <strong>Bottom heatmap:</strong> trailing 12M P/E per index per year. Hover a cell for the value.
+    Years where the raw P/E was distorted by an earnings collapse are normalized by using prior-year EPS — switch
+    "P/E mode" above to see the raw values instead (Midcap 2020 = 419, Smallcap 2017 = 106, Smallcap 2019 = 100).
+    Normalized cells carry a <span class="pill">N</span> badge in their hover tooltip.
   </div>
 </div>
 
@@ -423,7 +444,7 @@ const DATA = {
     23.84,
     5.76
   ],
-  "nifty50_pe": [
+  "nifty50_pe_raw": [
     19.59,
     15.59,
     14.57,
@@ -451,7 +472,7 @@ const DATA = {
     21.76,
     22.75
   ],
-  "smallcap_pe": [
+  "smallcap_pe_raw": [
     null,
     null,
     null,
@@ -479,7 +500,7 @@ const DATA = {
     34.52,
     32.18
   ],
-  "midcap_pe": [
+  "midcap_pe_raw": [
     null,
     null,
     null,
@@ -506,111 +527,341 @@ const DATA = {
     24.65,
     41.89,
     33.84
+  ],
+  "nifty50_pe_norm": [
+    19.59,
+    15.59,
+    14.57,
+    20.73,
+    15.32,
+    17.16,
+    21.26,
+    27.62,
+    12.97,
+    23.17,
+    24.5,
+    16.8,
+    18.68,
+    18.7,
+    21.16,
+    21.49,
+    21.93,
+    26.92,
+    26.17,
+    28.3,
+    38.45,
+    24.11,
+    21.79,
+    23.17,
+    21.76,
+    22.75
+  ],
+  "smallcap_pe_norm": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    46.53,
+    44.1,
+    34.38,
+    25.08,
+    null,
+    40.34,
+    34.39,
+    31.11,
+    37.92,
+    32.11,
+    16.78,
+    28.74,
+    34.52,
+    32.18
+  ],
+  "midcap_pe_norm": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    18.92,
+    25.08,
+    9.43,
+    16.14,
+    20.0,
+    14.6,
+    17.71,
+    14.8,
+    18.84,
+    27.43,
+    29.03,
+    52.61,
+    42.29,
+    24.95,
+    30.41,
+    28.89,
+    24.48,
+    24.65,
+    41.89,
+    33.84
+  ],
+  "nifty50_pe_norm_flag": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "smallcap_pe_norm_flag": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "midcap_pe_norm_flag": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "nifty50_pe_norm_note": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "smallcap_pe_norm_note": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Normalized using 2015 EPS (raw P/E=105.8, raw EPS=85.9, prior EPS=225.4)",
+    "",
+    "Normalized using 2018 EPS (raw P/E=100.4, raw EPS=58.1, prior EPS=187.5)",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "midcap_pe_norm_note": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Normalized using 2019 EPS (raw P/E=419.3, raw EPS=49.7, prior EPS=685.5)",
+    "",
+    "",
+    "",
+    "",
+    ""
   ]
 };
+const YRS = DATA.years;
 
-const ALL_TRACES = [
-  // Counts (yaxis = left)
-  { name: '(1) IPO count', x: DATA.years, y: DATA.ipo_count,
+// ----------- TOP CHART: 12 lines on 4 y-axes -----------
+const MAIN_TRACES = [
+  { name: '(1) IPO count', x: YRS, y: DATA.ipo_count,
     mode: 'lines+markers', marker:{symbol:'triangle-up', size:8},
-    line:{color:'#ff7f0e', width:2}, yaxis: 'y' },
-  { name: '(4) FPO+Rights count', x: DATA.years, y: DATA.fpor_count,
+    line:{color:'#ff7f0e', width:2}, yaxis: 'y3', legendgroup: 'cnt' },
+  { name: '(4) FPO+Rights count', x: YRS, y: DATA.fpor_count,
     mode: 'lines+markers', marker:{symbol:'triangle-down', size:8},
-    line:{color:'#d62728', width:2}, yaxis: 'y' },
+    line:{color:'#d62728', width:2}, yaxis: 'y3', legendgroup: 'cnt' },
 
-  // Amounts (yaxis2)
-  { name: '(2) IPO amount raised (₹ cr)', x: DATA.years, y: DATA.ipo_amount,
+  { name: '(2) IPO amount raised (₹ cr)', x: YRS, y: DATA.ipo_amount,
     mode: 'lines+markers', marker:{symbol:'circle', size:7},
-    line:{color:'#1f77b4', width:2}, yaxis: 'y2' },
-  { name: '(5) FPO+Rights amount raised (₹ cr)', x: DATA.years, y: DATA.fpor_amount,
+    line:{color:'#1f77b4', width:2}, yaxis: 'y2', legendgroup: 'amt' },
+  { name: '(5) FPO+Rights amount raised (₹ cr)', x: YRS, y: DATA.fpor_amount,
     mode: 'lines+markers', marker:{symbol:'square', size:7},
-    line:{color:'#17becf', width:2}, yaxis: 'y2' },
+    line:{color:'#17becf', width:2}, yaxis: 'y2', legendgroup: 'amt' },
 
-  // Indices (yaxis3)
-  { name: '(7) Nifty Smallcap 100', x: DATA.years, y: DATA.smallcap,
+  { name: '(7) Nifty Smallcap 100', x: YRS, y: DATA.smallcap,
     mode: 'lines+markers', marker:{symbol:'x', size:8},
-    line:{color:'#8c564b', width:2}, yaxis: 'y3' },
-  { name: '(9) Nifty 50', x: DATA.years, y: DATA.nifty50,
+    line:{color:'#8c564b', width:2}, yaxis: 'y', legendgroup: 'idx' },
+  { name: '(9) Nifty 50', x: YRS, y: DATA.nifty50,
     mode: 'lines+markers', marker:{symbol:'diamond', size:7},
-    line:{color:'#2ca02c', width:2}, yaxis: 'y3' },
-  { name: '(11) Nifty Midcap 100', x: DATA.years, y: DATA.midcap,
+    line:{color:'#2ca02c', width:2.5}, yaxis: 'y', legendgroup: 'idx' },
+  { name: '(11) Nifty Midcap 100', x: YRS, y: DATA.midcap,
     mode: 'lines+markers', marker:{symbol:'cross', size:8},
-    line:{color:'#9467bd', width:2}, yaxis: 'y3' },
+    line:{color:'#9467bd', width:2}, yaxis: 'y', legendgroup: 'idx' },
 
-  // YoY % (yaxis4)
-  { name: '(3) IPO amount YoY %', x: DATA.years, y: DATA.ipo_amount_yoy,
+  { name: '(3) IPO amount YoY %', x: YRS, y: DATA.ipo_amount_yoy,
     mode: 'lines+markers', marker:{size:5},
-    line:{color:'#aec7e8', width:1.5, dash:'dash'}, yaxis: 'y4',
-    visible: 'legendonly' },
-  { name: '(6) FPO+Rights amount YoY %', x: DATA.years, y: DATA.fpor_amount_yoy,
+    line:{color:'#aec7e8', width:1.4, dash:'dash'}, yaxis: 'y4',
+    legendgroup: 'yoy', visible: 'legendonly' },
+  { name: '(6) FPO+R amount YoY %', x: YRS, y: DATA.fpor_amount_yoy,
     mode: 'lines+markers', marker:{size:5},
-    line:{color:'#9edae5', width:1.5, dash:'dash'}, yaxis: 'y4',
-    visible: 'legendonly' },
-  { name: '(8) Nifty Smallcap 100 YoY %', x: DATA.years, y: DATA.smallcap_yoy,
+    line:{color:'#9edae5', width:1.4, dash:'dash'}, yaxis: 'y4',
+    legendgroup: 'yoy', visible: 'legendonly' },
+  { name: '(8) Smallcap YoY %', x: YRS, y: DATA.smallcap_yoy,
     mode: 'lines+markers', marker:{size:5},
-    line:{color:'#c49c94', width:1.5, dash:'dash'}, yaxis: 'y4',
-    visible: 'legendonly' },
-  { name: '(10) Nifty 50 YoY %', x: DATA.years, y: DATA.nifty50_yoy,
+    line:{color:'#c49c94', width:1.4, dash:'dash'}, yaxis: 'y4',
+    legendgroup: 'yoy', visible: 'legendonly' },
+  { name: '(10) Nifty 50 YoY %', x: YRS, y: DATA.nifty50_yoy,
     mode: 'lines+markers', marker:{size:5},
-    line:{color:'#98df8a', width:1.5, dash:'dash'}, yaxis: 'y4',
-    visible: 'legendonly' },
-  { name: '(12) Nifty Midcap 100 YoY %', x: DATA.years, y: DATA.midcap_yoy,
+    line:{color:'#98df8a', width:1.4, dash:'dash'}, yaxis: 'y4',
+    legendgroup: 'yoy', visible: 'legendonly' },
+  { name: '(12) Midcap YoY %', x: YRS, y: DATA.midcap_yoy,
     mode: 'lines+markers', marker:{size:5},
-    line:{color:'#c5b0d5', width:1.5, dash:'dash'}, yaxis: 'y4',
-    visible: 'legendonly' },
-
-  // P/E (yaxis5)
-  { name: '(13) Nifty 50 P/E', x: DATA.years, y: DATA.nifty50_pe,
-    mode: 'lines+markers', marker:{symbol:'diamond-tall', size:6},
-    line:{color:'#2ca02c', width:1.5, dash:'dot'}, yaxis: 'y5',
-    visible: 'legendonly' },
-  { name: '(14) Nifty Smallcap 100 P/E', x: DATA.years, y: DATA.smallcap_pe,
-    mode: 'lines+markers', marker:{symbol:'x-thin', size:6},
-    line:{color:'#8c564b', width:1.5, dash:'dot'}, yaxis: 'y5',
-    visible: 'legendonly' },
-  { name: '(15) Nifty Midcap 100 P/E', x: DATA.years, y: DATA.midcap_pe,
-    mode: 'lines+markers', marker:{symbol:'pentagon', size:6},
-    line:{color:'#9467bd', width:1.5, dash:'dot'}, yaxis: 'y5',
-    visible: 'legendonly' },
+    line:{color:'#c5b0d5', width:1.4, dash:'dash'}, yaxis: 'y4',
+    legendgroup: 'yoy', visible: 'legendonly' },
 ];
 
-const LAYOUT = {
-  margin: { l: 70, r: 280, t: 30, b: 60 },
+const MAIN_LAYOUT = {
+  margin: { l: 70, r: 230, t: 10, b: 70 },
   hovermode: 'x unified',
-  legend: { x: 1.18, y: 1, font: {size: 11},
-            bgcolor: '#ffffff', bordercolor: '#dddddd', borderwidth: 1 },
+  legend: { x: 1.02, y: 1, font: {size: 11}, xanchor: 'left',
+            bgcolor: '#ffffff', bordercolor: '#dddddd', borderwidth: 1,
+            tracegroupgap: 6 },
   xaxis: {
-    title: { text: 'Year' },
-    type: 'linear', dtick: 1,
-    range: [2000, 2025],
+    title: { text: 'Year', font:{size:12} },
+    type: 'linear', dtick: 1, range: [2000, 2025],
     rangeslider: { visible: true, thickness: 0.06 },
-    showspikes: true, spikemode: 'across',
+    showspikes: true, spikemode: 'across', spikethickness: 1, spikecolor: '#888',
   },
-  yaxis: {
-    title: { text: 'Number of issues', font:{color:'#d62728'} },
-    tickfont: {color:'#d62728'}, side: 'left',
+  yaxis: {  // Index level (primary, left)
+    title: { text: 'Index level', font:{color:'#2ca02c', size:12} },
+    tickfont: {color:'#2ca02c', size:11}, side: 'left',
   },
-  yaxis2: {
-    title: { text: 'Amount raised (INR crore)', font:{color:'#1f77b4'} },
-    tickfont: {color:'#1f77b4'},
-    overlaying: 'y', side: 'right', anchor: 'x', position: 1.00,
+  yaxis2: { // Amount (right, position 1.00)
+    title: { text: 'Amount raised (₹ crore)', font:{color:'#1f77b4', size:12} },
+    tickfont: {color:'#1f77b4', size:11},
+    overlaying: 'y', side: 'right', anchor: 'x',
   },
-  yaxis3: {
-    title: { text: 'Index level', font:{color:'#2ca02c'} },
-    tickfont: {color:'#2ca02c'},
-    overlaying: 'y', side: 'right', anchor: 'free', position: 1.06,
+  yaxis3: { // Count (right, position 1.05)
+    title: { text: 'Number of issues', font:{color:'#d62728', size:12}, standoff: 6 },
+    tickfont: {color:'#d62728', size:11},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.05,
   },
-  yaxis4: {
-    title: { text: 'YoY % change', font:{color:'#666'} },
-    tickfont: {color:'#666'},
-    overlaying: 'y', side: 'right', anchor: 'free', position: 1.12,
+  yaxis4: { // YoY % (right, position 1.10)
+    title: { text: 'YoY % change', font:{color:'#666', size:12}, standoff: 6 },
+    tickfont: {color:'#666', size:11},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.10,
     zeroline: true, zerolinecolor: '#ccc',
-  },
-  yaxis5: {
-    title: { text: 'P/E ratio', font:{color:'#000'} },
-    tickfont: {color:'#000'},
-    overlaying: 'y', side: 'right', anchor: 'free', position: 1.18,
-    range: [0, 60],
   },
 };
 
@@ -620,32 +871,125 @@ const CONFIG = {
   toImageButtonOptions: { format: 'png', filename: 'all_series_combined', height: 900, width: 1700 },
 };
 
-Plotly.newPlot('chart', ALL_TRACES, LAYOUT, CONFIG);
+Plotly.newPlot('main_chart', MAIN_TRACES, MAIN_LAYOUT, CONFIG);
 
+// ----------- BOTTOM HEATMAP: P/E by index by year -----------
+const IDX_ROW_ORDER = ['Nifty Smallcap 100', 'Nifty Midcap 100', 'Nifty 50'];
+const IDX_KEYS = {
+  'Nifty Smallcap 100': { pe_raw:'smallcap_pe_raw', pe_norm:'smallcap_pe_norm', flag:'smallcap_pe_norm_flag', note:'smallcap_pe_norm_note' },
+  'Nifty Midcap 100':   { pe_raw:'midcap_pe_raw',   pe_norm:'midcap_pe_norm',   flag:'midcap_pe_norm_flag',   note:'midcap_pe_norm_note' },
+  'Nifty 50':           { pe_raw:'nifty50_pe_raw',  pe_norm:'nifty50_pe_norm',  flag:'nifty50_pe_norm_flag',  note:'nifty50_pe_norm_note' },
+};
+
+function buildPeHeatmap(mode) {
+  const z = [], text = [], custom = [];
+  for (const idx of IDX_ROW_ORDER) {
+    const keys = IDX_KEYS[idx];
+    const peVals = (mode === 'raw') ? DATA[keys.pe_raw] : DATA[keys.pe_norm];
+    const flags  = DATA[keys.flag];
+    const notes  = DATA[keys.note];
+    const row = [], textRow = [], custRow = [];
+    for (let i = 0; i < YRS.length; i++) {
+      const v = peVals[i];
+      row.push(v);
+      const flagged = (mode === 'norm' && flags[i]);
+      textRow.push(v == null ? '' : (flagged ? v.toFixed(0)+'*' : v.toFixed(0)));
+      custRow.push([
+        flags[i] ? 'YES' : 'no',
+        notes[i] || '',
+        DATA[keys.pe_raw][i] == null ? 'n/a' : DATA[keys.pe_raw][i].toFixed(2),
+        DATA[keys.pe_norm][i] == null ? 'n/a' : DATA[keys.pe_norm][i].toFixed(2),
+      ]);
+    }
+    z.push(row); text.push(textRow); custom.push(custRow);
+  }
+  return { z, text, custom };
+}
+
+function renderPeHeatmap(mode) {
+  const { z, text, custom } = buildPeHeatmap(mode);
+  const trace = {
+    type: 'heatmap', x: YRS, y: IDX_ROW_ORDER, z, text,
+    customdata: custom,
+    texttemplate: '%{text}', textfont: { size: 10, color: '#222' },
+    colorscale: [
+      [0.00, '#2e7d32'],  // low P/E — green
+      [0.25, '#a5d6a7'],
+      [0.50, '#fff9c4'],  // mid — yellow
+      [0.75, '#ef9a9a'],
+      [1.00, '#b71c1c'],  // high — deep red
+    ],
+    zmin: 5, zmax: 50, zauto: false,
+    hovertemplate:
+      '<b>%{y}</b> — %{x}<br>' +
+      'P/E (displayed): %{z}<br>' +
+      'Normalized? %{customdata[0]}<br>' +
+      'Raw P/E: %{customdata[2]}<br>' +
+      'Normalized P/E: %{customdata[3]}<br>' +
+      '%{customdata[1]}<extra></extra>',
+    colorbar: {
+      title: { text: (mode === 'norm' ? 'Normalized P/E' : 'Raw P/E'), font:{size:10} },
+      tickfont: { size: 10 }, x: 1.02, len: 0.95, thickness: 12,
+    },
+    xgap: 1, ygap: 1,
+  };
+  const layout = {
+    margin: { l: 130, r: 230, t: 10, b: 45 },
+    xaxis: { title: { text: 'Year', font:{size:12} },
+             type: 'linear', dtick: 1,
+             range: [YRS[0]-0.5, YRS[YRS.length-1]+0.5] },
+    yaxis: { tickfont: { size: 11 }, automargin: true },
+    annotations: [{
+      x: -0.07, y: 1.18, xref: 'paper', yref: 'paper',
+      text: (mode === 'norm'
+              ? '<b>P/E heatmap (normalized).</b> Cells with <code>*</code> were recomputed using prior-year EPS because trailing 12M EPS had collapsed to &lt;50% of the prior year.'
+              : '<b>P/E heatmap (raw, as published by NSE).</b> Cells include earnings-collapse distortions (Midcap 2020 = 419, Smallcap 2017 = 106, Smallcap 2019 = 100).'),
+      showarrow: false, font: { size: 11, color: '#444' }, align: 'left',
+    }],
+  };
+  Plotly.newPlot('pe_chart', [trace], layout, CONFIG);
+}
+
+function updatePeHeatmap() {
+  const mode = document.getElementById('peMode').value;
+  renderPeHeatmap(mode);
+  syncPeRange();
+}
+renderPeHeatmap('norm');
+
+// ----------- CONTROLS: time range -----------
 function setRange(from, to) {
   document.getElementById('yearFrom').value = from;
   document.getElementById('yearTo').value = to;
-  Plotly.relayout('chart', { 'xaxis.range': [from, to] });
+  applyRange();
 }
-
-document.getElementById('yearFrom').addEventListener('change', applyRange);
-document.getElementById('yearTo').addEventListener('change', applyRange);
 function applyRange() {
   const from = parseInt(document.getElementById('yearFrom').value, 10);
-  const to = parseInt(document.getElementById('yearTo').value, 10);
+  const to   = parseInt(document.getElementById('yearTo').value, 10);
   if (!isNaN(from) && !isNaN(to) && from <= to) {
-    Plotly.relayout('chart', { 'xaxis.range': [from, to] });
+    Plotly.relayout('main_chart', { 'xaxis.range': [from, to] });
+    Plotly.relayout('pe_chart', { 'xaxis.range': [from-0.5, to+0.5] });
   }
 }
+function syncPeRange() {
+  const from = parseInt(document.getElementById('yearFrom').value, 10);
+  const to   = parseInt(document.getElementById('yearTo').value, 10);
+  if (!isNaN(from) && !isNaN(to) && from <= to) {
+    Plotly.relayout('pe_chart', { 'xaxis.range': [from-0.5, to+0.5] });
+  }
+}
+document.getElementById('yearFrom').addEventListener('change', applyRange);
+document.getElementById('yearTo').addEventListener('change', applyRange);
 
-document.getElementById('chart').on('plotly_relayout', function(ev){
-  if (ev['xaxis.range'] || ev['xaxis.range[0]'] !== undefined) {
-    const r = (ev['xaxis.range']) ? ev['xaxis.range']
-              : [ev['xaxis.range[0]'], ev['xaxis.range[1]']];
-    if (r && r.length === 2) {
-      document.getElementById('yearFrom').value = Math.round(r[0]);
-      document.getElementById('yearTo').value   = Math.round(r[1]);
-    }
+// Keep heatmap x-range in sync when user pans/zooms the main chart via the rangeslider
+document.getElementById('main_chart').on('plotly_relayout', function(ev){
+  let lo, hi;
+  if (ev['xaxis.range']) { lo = ev['xaxis.range'][0]; hi = ev['xaxis.range'][1]; }
+  else if (ev['xaxis.range[0]'] !== undefined) { lo = ev['xaxis.range[0]']; hi = ev['xaxis.range[1]']; }
+  if (lo !== undefined && hi !== undefined) {
+    document.getElementById('yearFrom').value = Math.round(lo);
+    document.getElementById('yearTo').value   = Math.round(hi);
+    Plotly.relayout('pe_chart', { 'xaxis.range': [lo, hi] });
   }
 });
 </script>
