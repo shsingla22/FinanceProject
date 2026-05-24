@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indian equity issuance vs indices — interactive view (2000-2025)</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+         margin: 0; padding: 16px; background: #fafafa; color: #222; }
+  h1 { font-size: 18px; margin: 0 0 4px; }
+  .subtitle { color: #666; font-size: 12px; margin-bottom: 12px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 16px; align-items: center;
+              background: #fff; padding: 10px 14px; border-radius: 8px;
+              border: 1px solid #e1e1e1; margin-bottom: 12px; font-size: 13px; }
+  .controls label { display: inline-flex; align-items: center; gap: 6px; }
+  .controls input[type=number] { width: 70px; padding: 4px 6px; font-size: 13px; }
+  .controls button { padding: 5px 12px; font-size: 13px; cursor: pointer;
+                     border: 1px solid #c1c1c1; background: #fff; border-radius: 4px; }
+  .controls button:hover { background: #f0f0f0; }
+  .chart-wrap { background: #fff; border: 1px solid #e1e1e1; border-radius: 8px;
+                padding: 8px; }
+  #chart { width: 100%; height: 78vh; min-height: 600px; }
+  .legend-tips { font-size: 11px; color: #555; margin-top: 6px; }
+  .legend-tips code { background: #eee; padding: 1px 4px; border-radius: 3px; }
+</style>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+<h1>Indian equity issuance vs broad-market indices — interactive 2000-2025</h1>
+<div class="subtitle">15 series on five y-axes. Sources: SEBI Handbooks + SEBI Annual Reports + SEBI Bulletin Annexures + NSE archives end-of-day index bhavcopy.
+  P/E values >60 (Midcap 2020 = 419, Smallcap 2017 = 106, Smallcap 2019 = 100) are shown — zoom into the P/E axis to inspect.</div>
+
+<div class="controls">
+  <label>From year:
+    <input type="number" id="yearFrom" min="2000" max="2025" value="2000" step="1">
+  </label>
+  <label>To year:
+    <input type="number" id="yearTo" min="2000" max="2025" value="2025" step="1">
+  </label>
+  <button onclick="setRange(2000, 2025)">Full range</button>
+  <button onclick="setRange(2015, 2025)">Last 10y</button>
+  <button onclick="setRange(2020, 2025)">Last 5y</button>
+  <button onclick="setRange(2005, 2012)">2005-2012 (GFC cycle)</button>
+  <button onclick="setRange(2015, 2020)">2015-2020 (mid-cap cycle)</button>
+  <button onclick="setRange(2020, 2025)">2020-2025 (post-COVID)</button>
+  <span style="margin-left: auto; color:#888;">Click a series in the legend to toggle. Double-click to isolate.</span>
+</div>
+
+<div class="chart-wrap">
+  <div id="chart"></div>
+  <div class="legend-tips">
+    Tips: <code>Click</code> a legend entry to hide/show that series. <code>Double-click</code> to isolate one.
+    <code>Drag</code> the range slider below the chart to zoom the x-axis.
+    <code>Mouse-wheel</code> over the chart area to zoom.
+    Hover any point for the exact value.
+  </div>
+</div>
+
+<script>
+const DATA = {
+  "years": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "ipo_count": [
+    null,
+    null,
+    7.0,
+    6.0,
+    21.0,
+    23.0,
+    79.0,
+    77.0,
+    85.0,
+    21.0,
+    39.0,
+    53.0,
+    54.0,
+    33.0,
+    38.0,
+    46.0,
+    74.0,
+    106.0,
+    201.0,
+    123.0,
+    57.0,
+    40.0,
+    120.0,
+    164.0,
+    272.0,
+    320.0
+  ],
+  "ipo_amount": [
+    null,
+    null,
+    1202.0,
+    1039.0,
+    3434.0,
+    13749.0,
+    10936.0,
+    28504.0,
+    42595.0,
+    2082.0,
+    24696.0,
+    35558.74,
+    41514.62,
+    6528.07,
+    1236.12,
+    3311.0,
+    14815.08,
+    29104.0,
+    83684.0,
+    16086.54,
+    21285.65,
+    24677.96,
+    112552.79,
+    54772.77,
+    67955.31,
+    172327.97
+  ],
+  "fpor_count": [
+    null,
+    null,
+    8.0,
+    11.0,
+    30.0,
+    32.0,
+    59.0,
+    44.0,
+    35.0,
+    24.0,
+    33.0,
+    27.0,
+    16.0,
+    16.0,
+    17.0,
+    17.0,
+    13.0,
+    12.0,
+    22.0,
+    10.0,
+    19.0,
+    19.0,
+    44.0,
+    74.0,
+    68.0,
+    144.0
+  ],
+  "fpor_amount": [
+    null,
+    null,
+    70.0,
+    418.0,
+    15515.0,
+    10639.0,
+    16436.0,
+    4397.0,
+    37144.0,
+    12190.0,
+    30179.0,
+    22108.0,
+    2375.0,
+    8945.0,
+    12033.0,
+    5477.0,
+    9239.0,
+    3417.0,
+    21413.0,
+    2148.65,
+    55679.27,
+    78986.76,
+    26341.77,
+    11050.82,
+    15137.2,
+    37862.0
+  ],
+  "nifty50": [
+    1263.55,
+    1059.05,
+    1093.5,
+    1879.75,
+    2080.5,
+    2836.55,
+    3966.4,
+    6138.6,
+    2959.15,
+    5201.05,
+    6134.5,
+    4624.3,
+    5905.1,
+    6304.0,
+    8282.7,
+    7946.35,
+    8185.8,
+    10530.7,
+    10862.55,
+    12168.45,
+    13981.75,
+    17354.05,
+    18105.3,
+    21731.4,
+    23644.9,
+    26129.6
+  ],
+  "smallcap": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    3710.15,
+    3402.9,
+    5272.9,
+    5653.3,
+    5780.85,
+    9093.25,
+    6449.15,
+    5834.75,
+    7087.6,
+    11289.0,
+    9731.3,
+    15143.65,
+    18639.95,
+    17713.95
+  ],
+  "midcap": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    5200.0,
+    9200.0,
+    3736.0,
+    7419.0,
+    8857.2,
+    6111.9,
+    8505.1,
+    8071.3,
+    12583.85,
+    13396.7,
+    14351.45,
+    21133.5,
+    17875.5,
+    17102.5,
+    20842.5,
+    30442.9,
+    31509.1,
+    46181.65,
+    57189.75,
+    60484.5
+  ],
+  "ipo_amount_yoy": [
+    null,
+    null,
+    null,
+    -13.56,
+    230.51,
+    300.38,
+    -20.46,
+    160.64,
+    49.44,
+    -95.11,
+    1086.17,
+    43.99,
+    16.75,
+    -84.28,
+    -81.06,
+    167.85,
+    347.45,
+    96.45,
+    187.53,
+    -80.78,
+    32.32,
+    15.94,
+    356.09,
+    -51.34,
+    24.07,
+    153.59
+  ],
+  "fpor_amount_yoy": [
+    null,
+    null,
+    null,
+    497.14,
+    3611.72,
+    -31.43,
+    54.49,
+    -73.25,
+    744.76,
+    -67.18,
+    147.57,
+    -26.74,
+    -89.26,
+    276.63,
+    34.52,
+    -54.48,
+    68.69,
+    -63.02,
+    526.66,
+    -89.97,
+    2491.36,
+    41.86,
+    -66.65,
+    -58.05,
+    36.98,
+    150.13
+  ],
+  "nifty50_yoy": [
+    null,
+    -16.18,
+    3.25,
+    71.9,
+    10.68,
+    36.34,
+    39.83,
+    54.77,
+    -51.79,
+    75.76,
+    17.95,
+    -24.62,
+    27.7,
+    6.76,
+    31.39,
+    -4.06,
+    3.01,
+    28.65,
+    3.15,
+    12.02,
+    14.9,
+    24.12,
+    4.33,
+    20.03,
+    8.81,
+    10.51
+  ],
+  "smallcap_yoy": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    -8.28,
+    54.95,
+    7.21,
+    2.26,
+    57.3,
+    -29.08,
+    -9.53,
+    21.47,
+    59.28,
+    -13.8,
+    55.62,
+    23.09,
+    -4.97
+  ],
+  "midcap_yoy": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    76.92,
+    -59.39,
+    98.58,
+    19.39,
+    -31.0,
+    39.16,
+    -5.1,
+    55.91,
+    6.46,
+    7.13,
+    47.26,
+    -15.42,
+    -4.32,
+    21.87,
+    46.06,
+    3.5,
+    46.57,
+    23.84,
+    5.76
+  ],
+  "nifty50_pe": [
+    19.59,
+    15.59,
+    14.57,
+    20.73,
+    15.32,
+    17.16,
+    21.26,
+    27.62,
+    12.97,
+    23.17,
+    24.5,
+    16.8,
+    18.68,
+    18.7,
+    21.16,
+    21.49,
+    21.93,
+    26.92,
+    26.17,
+    28.3,
+    38.45,
+    24.11,
+    21.79,
+    23.17,
+    21.76,
+    22.75
+  ],
+  "smallcap_pe": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    46.53,
+    44.1,
+    34.38,
+    25.08,
+    null,
+    105.82,
+    34.39,
+    100.44,
+    37.92,
+    32.11,
+    16.78,
+    28.74,
+    34.52,
+    32.18
+  ],
+  "midcap_pe": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    18.92,
+    25.08,
+    9.43,
+    16.14,
+    20.0,
+    14.6,
+    17.71,
+    14.8,
+    18.84,
+    27.43,
+    29.03,
+    52.61,
+    42.29,
+    24.95,
+    419.32,
+    28.89,
+    24.48,
+    24.65,
+    41.89,
+    33.84
+  ]
+};
+
+const ALL_TRACES = [
+  // Counts (yaxis = left)
+  { name: '(1) IPO count', x: DATA.years, y: DATA.ipo_count,
+    mode: 'lines+markers', marker:{symbol:'triangle-up', size:8},
+    line:{color:'#ff7f0e', width:2}, yaxis: 'y' },
+  { name: '(4) FPO+Rights count', x: DATA.years, y: DATA.fpor_count,
+    mode: 'lines+markers', marker:{symbol:'triangle-down', size:8},
+    line:{color:'#d62728', width:2}, yaxis: 'y' },
+
+  // Amounts (yaxis2)
+  { name: '(2) IPO amount raised (₹ cr)', x: DATA.years, y: DATA.ipo_amount,
+    mode: 'lines+markers', marker:{symbol:'circle', size:7},
+    line:{color:'#1f77b4', width:2}, yaxis: 'y2' },
+  { name: '(5) FPO+Rights amount raised (₹ cr)', x: DATA.years, y: DATA.fpor_amount,
+    mode: 'lines+markers', marker:{symbol:'square', size:7},
+    line:{color:'#17becf', width:2}, yaxis: 'y2' },
+
+  // Indices (yaxis3)
+  { name: '(7) Nifty Smallcap 100', x: DATA.years, y: DATA.smallcap,
+    mode: 'lines+markers', marker:{symbol:'x', size:8},
+    line:{color:'#8c564b', width:2}, yaxis: 'y3' },
+  { name: '(9) Nifty 50', x: DATA.years, y: DATA.nifty50,
+    mode: 'lines+markers', marker:{symbol:'diamond', size:7},
+    line:{color:'#2ca02c', width:2}, yaxis: 'y3' },
+  { name: '(11) Nifty Midcap 100', x: DATA.years, y: DATA.midcap,
+    mode: 'lines+markers', marker:{symbol:'cross', size:8},
+    line:{color:'#9467bd', width:2}, yaxis: 'y3' },
+
+  // YoY % (yaxis4)
+  { name: '(3) IPO amount YoY %', x: DATA.years, y: DATA.ipo_amount_yoy,
+    mode: 'lines+markers', marker:{size:5},
+    line:{color:'#aec7e8', width:1.5, dash:'dash'}, yaxis: 'y4',
+    visible: 'legendonly' },
+  { name: '(6) FPO+Rights amount YoY %', x: DATA.years, y: DATA.fpor_amount_yoy,
+    mode: 'lines+markers', marker:{size:5},
+    line:{color:'#9edae5', width:1.5, dash:'dash'}, yaxis: 'y4',
+    visible: 'legendonly' },
+  { name: '(8) Nifty Smallcap 100 YoY %', x: DATA.years, y: DATA.smallcap_yoy,
+    mode: 'lines+markers', marker:{size:5},
+    line:{color:'#c49c94', width:1.5, dash:'dash'}, yaxis: 'y4',
+    visible: 'legendonly' },
+  { name: '(10) Nifty 50 YoY %', x: DATA.years, y: DATA.nifty50_yoy,
+    mode: 'lines+markers', marker:{size:5},
+    line:{color:'#98df8a', width:1.5, dash:'dash'}, yaxis: 'y4',
+    visible: 'legendonly' },
+  { name: '(12) Nifty Midcap 100 YoY %', x: DATA.years, y: DATA.midcap_yoy,
+    mode: 'lines+markers', marker:{size:5},
+    line:{color:'#c5b0d5', width:1.5, dash:'dash'}, yaxis: 'y4',
+    visible: 'legendonly' },
+
+  // P/E (yaxis5)
+  { name: '(13) Nifty 50 P/E', x: DATA.years, y: DATA.nifty50_pe,
+    mode: 'lines+markers', marker:{symbol:'diamond-tall', size:6},
+    line:{color:'#2ca02c', width:1.5, dash:'dot'}, yaxis: 'y5',
+    visible: 'legendonly' },
+  { name: '(14) Nifty Smallcap 100 P/E', x: DATA.years, y: DATA.smallcap_pe,
+    mode: 'lines+markers', marker:{symbol:'x-thin', size:6},
+    line:{color:'#8c564b', width:1.5, dash:'dot'}, yaxis: 'y5',
+    visible: 'legendonly' },
+  { name: '(15) Nifty Midcap 100 P/E', x: DATA.years, y: DATA.midcap_pe,
+    mode: 'lines+markers', marker:{symbol:'pentagon', size:6},
+    line:{color:'#9467bd', width:1.5, dash:'dot'}, yaxis: 'y5',
+    visible: 'legendonly' },
+];
+
+const LAYOUT = {
+  margin: { l: 70, r: 280, t: 30, b: 60 },
+  hovermode: 'x unified',
+  legend: { x: 1.18, y: 1, font: {size: 11},
+            bgcolor: '#ffffff', bordercolor: '#dddddd', borderwidth: 1 },
+  xaxis: {
+    title: { text: 'Year' },
+    type: 'linear', dtick: 1,
+    range: [2000, 2025],
+    rangeslider: { visible: true, thickness: 0.06 },
+    showspikes: true, spikemode: 'across',
+  },
+  yaxis: {
+    title: { text: 'Number of issues', font:{color:'#d62728'} },
+    tickfont: {color:'#d62728'}, side: 'left',
+  },
+  yaxis2: {
+    title: { text: 'Amount raised (INR crore)', font:{color:'#1f77b4'} },
+    tickfont: {color:'#1f77b4'},
+    overlaying: 'y', side: 'right', anchor: 'x', position: 1.00,
+  },
+  yaxis3: {
+    title: { text: 'Index level', font:{color:'#2ca02c'} },
+    tickfont: {color:'#2ca02c'},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.06,
+  },
+  yaxis4: {
+    title: { text: 'YoY % change', font:{color:'#666'} },
+    tickfont: {color:'#666'},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.12,
+    zeroline: true, zerolinecolor: '#ccc',
+  },
+  yaxis5: {
+    title: { text: 'P/E ratio', font:{color:'#000'} },
+    tickfont: {color:'#000'},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.18,
+    range: [0, 60],
+  },
+};
+
+const CONFIG = {
+  displayModeBar: true, responsive: true,
+  modeBarButtonsToRemove: ['lasso2d', 'select2d'],
+  toImageButtonOptions: { format: 'png', filename: 'all_series_combined', height: 900, width: 1700 },
+};
+
+Plotly.newPlot('chart', ALL_TRACES, LAYOUT, CONFIG);
+
+function setRange(from, to) {
+  document.getElementById('yearFrom').value = from;
+  document.getElementById('yearTo').value = to;
+  Plotly.relayout('chart', { 'xaxis.range': [from, to] });
+}
+
+document.getElementById('yearFrom').addEventListener('change', applyRange);
+document.getElementById('yearTo').addEventListener('change', applyRange);
+function applyRange() {
+  const from = parseInt(document.getElementById('yearFrom').value, 10);
+  const to = parseInt(document.getElementById('yearTo').value, 10);
+  if (!isNaN(from) && !isNaN(to) && from <= to) {
+    Plotly.relayout('chart', { 'xaxis.range': [from, to] });
+  }
+}
+
+document.getElementById('chart').on('plotly_relayout', function(ev){
+  if (ev['xaxis.range'] || ev['xaxis.range[0]'] !== undefined) {
+    const r = (ev['xaxis.range']) ? ev['xaxis.range']
+              : [ev['xaxis.range[0]'], ev['xaxis.range[1]']];
+    if (r && r.length === 2) {
+      document.getElementById('yearFrom').value = Math.round(r[0]);
+      document.getElementById('yearTo').value   = Math.round(r[1]);
+    }
+  }
+});
+</script>
+</body>
+</html>
