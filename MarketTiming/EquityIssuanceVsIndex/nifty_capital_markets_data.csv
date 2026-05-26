@@ -1,0 +1,8 @@
+calendar_year,year_end_date,index_name_in_source,year_end_close,source
+2019,2019-12-31,Nifty Capital Markets,,Back-computed from base date 1-Apr-2019=1000; year-end value NOT directly fetched (NSE archives bhavcopy + niftyindices.com both blocked from this environment) -- needs manual download from niftyindices.com historical-data portal
+2020,2020-12-31,Nifty Capital Markets,,Same as above -- back-computed by NSE Indices but not fetched here
+2021,2021-12-31,Nifty Capital Markets,,Same
+2022,2022-12-30,Nifty Capital Markets,,Same
+2023,2023-12-29,Nifty Capital Markets,,Same
+2024,2024-12-30,Nifty Capital Markets,,Same -- index went live 9-Sep-2024 so this is real (not back-computed); needs manual fetch
+2025,2025-12-31,Nifty Capital Markets,,"Same -- live index data, needs manual fetch from niftyindices.com"
