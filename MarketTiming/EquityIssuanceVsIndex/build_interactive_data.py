@@ -55,6 +55,34 @@ def load_aligned() -> pd.DataFrame:
     return df
 
 
+def load_ibanks() -> pd.DataFrame:
+    """Read investment_banks_data.csv, compute per-company YoY % and basket avg.
+
+    Returns a DataFrame indexed by `year` (2000-2025) with one column per
+    company holding YoY % change, plus an 'ibank_basket_yoy' column with
+    the equal-weighted average across companies that have a value that year.
+    """
+    src = HERE / "investment_banks_data.csv"
+    raw = pd.read_csv(src).sort_values("calendar_year").reset_index(drop=True)
+    company_cols = [c for c in raw.columns if c not in ("calendar_year", "year_end_date")]
+
+    years = list(range(2000, 2026))
+    out = pd.DataFrame({"year": years}).set_index("year")
+
+    yoy_only = pd.DataFrame({"year": raw["calendar_year"].astype(int).values})
+    for c in company_cols:
+        # Short name for the trace (strip the "(Yahoo XXX, INR)" suffix)
+        short = c.split(" (")[0]
+        yoy_only[short] = (raw[c].astype(float).pct_change() * 100).values
+    yoy_only = yoy_only.set_index("year")
+
+    company_short_cols = list(yoy_only.columns)
+    out = out.join(yoy_only, how="left")
+    out["ibank_basket_yoy"] = out[company_short_cols].mean(axis=1, skipna=True)
+    out["ibank_basket_n"]   = out[company_short_cols].notna().sum(axis=1)
+    return out
+
+
 def normalize_pe(price: pd.Series, pe: pd.Series):
     """Return (normalized_pe, flag, note) Series aligned to price's index."""
     out_pe, out_flag, out_note = [], [], []
@@ -89,6 +117,10 @@ def main() -> None:
     sc_norm,  sc_flag,  sc_note  = normalize_pe(df["smallcap"], df["smallcap_pe"])
     mc_norm,  mc_flag,  mc_note  = normalize_pe(df["midcap"],   df["midcap_pe"])
 
+    ibanks = load_ibanks()
+    ibank_company_cols = [c for c in ibanks.columns if c not in ("ibank_basket_yoy", "ibank_basket_n")]
+    df = df.join(ibanks, how="left")
+
     df = df.reset_index()
     col = lambda name: [None if pd.isna(v) else float(v) for v in df[name].tolist()]
 
@@ -118,6 +150,10 @@ def main() -> None:
         "nifty50_pe_norm_note":  n50_note,
         "smallcap_pe_norm_note": sc_note,
         "midcap_pe_norm_note":   mc_note,
+        "ibank_basket_yoy":      [None if pd.isna(v) else round(float(v), 2) for v in df["ibank_basket_yoy"].tolist()],
+        "ibank_basket_n":        [None if pd.isna(v) else int(v) for v in df["ibank_basket_n"].tolist()],
+        "ibank_companies":       ibank_company_cols,
+        "ibank_company_yoy":     {c: [None if pd.isna(v) else round(float(v), 2) for v in df[c].tolist()] for c in ibank_company_cols},
     }
     print(json.dumps(payload, indent=2))
 

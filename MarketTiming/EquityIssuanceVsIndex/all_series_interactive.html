@@ -55,7 +55,7 @@
 </head>
 <body>
 <h1>Indian equity issuance vs broad-market indices — interactive 2000-2025</h1>
-<div class="subtitle">12 lines on the top chart + P/E heatmap (bottom). Toggle individual series via the checkboxes or the chart legend. Sources: SEBI Handbooks / SEBI Annual Reports / SEBI Bulletin Annexures / NSE archives bhavcopy.</div>
+<div class="subtitle">12 macro series + I-banking basket (equal-weighted YoY %) + 8 individual I-bank stocks on the top chart + P/E heatmap (bottom). Toggle individual series via the checkboxes or the chart legend. Sources: SEBI Handbooks / SEBI Annual Reports / SEBI Bulletin Annexures / NSE archives bhavcopy / Yahoo Finance (I-banking stocks).</div>
 
 <div class="controls">
   <div class="group">
@@ -90,6 +90,7 @@
     <button onclick="setPresetAmounts()">Show amounts only</button>
     <button onclick="setPresetIndices()">Show indices only</button>
     <button onclick="setPresetYoy()">Show YoY % only</button>
+    <button onclick="setPresetIbanks()">Show I-banks only</button>
     <button onclick="setDefault()">Default</button>
   </div>
 </div>
@@ -99,7 +100,9 @@
   <div id="pe_chart"></div>
   <div class="legend-tips">
     <strong>Top chart:</strong> click a legend item or a checkbox above to hide/show that line individually.
-    All 12 series are independently controllable. Drag the rangeslider below or use the year inputs to zoom.
+    All series are independently controllable (12 macro + I-banking basket + 8 individual I-bank stocks).
+    The I-banking basket is the equal-weighted YoY % across companies listed in that year — hover for the
+    basket size (n=2 in 2006/07 → n=8 in 2025). Drag the rangeslider below or use the year inputs to zoom.
     <br>
     <strong>Bottom heatmap:</strong> trailing 12M P/E per index per year (green low → red high). Hover for the exact
     value, raw P/E, and normalization detail. "Normalized" replaces 3 cells where earnings collapsed
@@ -808,7 +811,299 @@ const DATA = {
     "",
     "",
     ""
-  ]
+  ],
+  "ibank_basket_yoy": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    100.67,
+    269.25,
+    -78.61,
+    137.79,
+    -25.32,
+    -35.14,
+    10.65,
+    -11.02,
+    170.1,
+    -14.15,
+    71.35,
+    131.18,
+    -41.12,
+    -6.94,
+    -14.09,
+    122.24,
+    1.17,
+    86.82,
+    33.63,
+    12.71
+  ],
+  "ibank_basket_n": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    6,
+    6,
+    7,
+    8
+  ],
+  "ibank_companies": [
+    "JM Financial",
+    "Motilal Oswal Financial Services",
+    "Edelweiss Financial Services",
+    "IIFL Finance",
+    "Anand Rathi Wealth",
+    "Nuvama Wealth Management",
+    "IIFL Capital Services",
+    "Almondz Global Securities"
+  ],
+  "ibank_company_yoy": {
+    "JM Financial": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      102.73,
+      270.72,
+      -84.12,
+      110.94,
+      -36.17,
+      -42.48,
+      37.53,
+      22.25,
+      110.6,
+      -25.26,
+      73.95,
+      137.98,
+      -52.52,
+      36.07,
+      -23.8,
+      -8.6,
+      -10.85,
+      71.42,
+      -1.85,
+      17.24
+    ],
+    "Motilal Oswal Financial Services": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -77.05,
+      164.6,
+      -14.64,
+      -21.24,
+      -2.06,
+      -22.66,
+      288.08,
+      -9.84,
+      93.91,
+      129.43,
+      -50.55,
+      24.6,
+      -22.13,
+      43.04,
+      -22.78,
+      -34.39,
+      42.51,
+      18.27
+    ],
+    "Edelweiss Financial Services": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -72.75,
+      54.49,
+      -8.19,
+      -18.71,
+      0.78,
+      -18.17,
+      154.85,
+      -24.99,
+      111.43,
+      154.82,
+      -45.12,
+      -38.1,
+      -34.98,
+      12.5,
+      -4.59,
+      95.16,
+      56.01,
+      -2.49
+    ],
+    "IIFL Finance": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      98.61,
+      267.77,
+      -80.52,
+      160.93,
+      -35.75,
+      -29.65,
+      56.57,
+      -24.49,
+      184.15,
+      15.86,
+      41.92,
+      153.45,
+      -41.08,
+      -29.72,
+      -12.41,
+      113.79,
+      63.51,
+      21.45,
+      -42.83,
+      48.32
+    ],
+    "Anand Rathi Wealth": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      19.21,
+      284.98,
+      46.61,
+      55.54
+    ],
+    "Nuvama Wealth Management": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      92.86,
+      4.69
+    ],
+    "IIFL Capital Services": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      10.85
+    ],
+    "Almondz Global Securities": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      197.99,
+      -31.87,
+      -63.64,
+      -39.55,
+      -12.03,
+      112.82,
+      -26.51,
+      35.52,
+      80.24,
+      -16.33,
+      -27.54,
+      22.88,
+      450.45,
+      -37.48,
+      82.29,
+      42.08,
+      -50.77
+    ]
+  }
 };
 const YRS = DATA.years;
 
@@ -882,6 +1177,33 @@ const SERIES = [
       mode:'lines+markers', marker:{size:5},
       line:{color:'#c5b0d5', width:1.4, dash:'dash'}, yaxis:'y4' },
     swatch:'dashed', color:'#c5b0d5', defaultOn:false },
+
+  // I-banking basket YoY % (equal-weight avg across listed I-bank stocks) -> y4
+  { id:'yoy_ib_basket', label:'(16) I-banking basket YoY %', cat:'I-banks',
+    trace: { name:'(16) I-banking basket YoY % (equal-weight)', x:YRS, y:DATA.ibank_basket_yoy,
+      mode:'lines+markers', marker:{symbol:'star', size:9},
+      line:{color:'#e377c2', width:2.4}, yaxis:'y4',
+      customdata: DATA.ibank_basket_n,
+      hovertemplate: '%{x}: <b>%{y:.1f}%</b> (n=%{customdata})<extra>I-banking basket YoY %</extra>' },
+    swatch:'solid', color:'#e377c2', defaultOn:true },
+
+  // Individual I-bank company YoY % (off by default; toggle via checkbox)
+  ...(function(){
+    const palette = ['#1b9e77','#d95f02','#7570b3','#e7298a','#66a61e','#e6ab02','#a6761d','#666666'];
+    return DATA.ibank_companies.map((co, i) => ({
+      id: 'yoy_ib_' + i,
+      label: '(' + (17 + i) + ') ' + co + ' YoY %',
+      cat: 'I-banks',
+      trace: {
+        name: co + ' YoY %',
+        x: YRS, y: DATA.ibank_company_yoy[co],
+        mode: 'lines+markers', marker:{size:4},
+        line: {color: palette[i % palette.length], width: 1.2, dash:'dot'},
+        yaxis: 'y4',
+      },
+      swatch: 'dashed', color: palette[i % palette.length], defaultOn: false,
+    }));
+  })(),
 ];
 
 const MAIN_TRACES = SERIES.map(s => ({...s.trace, visible: s.defaultOn ? true : 'legendonly'}));
@@ -931,7 +1253,7 @@ Plotly.newPlot('main_chart', MAIN_TRACES, MAIN_LAYOUT, CONFIG);
 function buildSeriesPanel() {
   const root = document.getElementById('seriesGroups');
   root.innerHTML = '';
-  const cats = ['Counts', 'Amounts', 'Index level', 'YoY %'];
+  const cats = ['Counts', 'Amounts', 'Index level', 'YoY %', 'I-banks'];
   for (const cat of cats) {
     const grp = document.createElement('div');
     grp.className = 'series-group';
@@ -993,6 +1315,7 @@ function setPresetCounts()  { setOnlyCats(['Counts']); }
 function setPresetAmounts() { setOnlyCats(['Amounts']); }
 function setPresetIndices() { setOnlyCats(['Index level']); }
 function setPresetYoy()     { setOnlyCats(['YoY %']); }
+function setPresetIbanks()  { setOnlyCats(['I-banks']); }
 function setDefault() {
   SERIES.forEach((s, i) => {
     const v = s.defaultOn ? true : 'legendonly';

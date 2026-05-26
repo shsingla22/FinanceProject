@@ -24,6 +24,7 @@ calendar year for IPO/FPO+Rights — both labeled with the year):
     8. Nifty Smallcap 100 YoY %
    10. Nifty 50 YoY %
    12. Nifty Midcap 100 YoY %
+   16. I-banking basket YoY % (equal-weighted avg of listed I-bank stocks)
 
   Trailing P/E ratio (fifth y-axis, clipped to 0-60 — see caveat below)
    13. Nifty 50 P/E
@@ -76,6 +77,17 @@ def load() -> pd.DataFrame:
     df["nifty50_yoy"] = df["nifty50"].pct_change() * 100
     df["smallcap100_yoy"] = df["smallcap100"].pct_change() * 100
     df["midcap100_yoy"] = df["midcap100"].pct_change() * 100
+
+    # I-banking basket YoY % from investment_banks_data.csv
+    ib = pd.read_csv(HERE / "investment_banks_data.csv").sort_values("calendar_year").reset_index(drop=True)
+    company_cols = [c for c in ib.columns if c not in ("calendar_year", "year_end_date")]
+    ib_yoy = pd.DataFrame({"year": ib["calendar_year"].astype(int).values})
+    for c in company_cols:
+        ib_yoy[c] = (ib[c].astype(float).pct_change() * 100).values
+    ib_yoy = ib_yoy.set_index("year")
+    ib_basket = ib_yoy.mean(axis=1, skipna=True)
+    df["ibank_basket_yoy"] = ib_basket
+
     return df.reset_index()
 
 
@@ -132,6 +144,9 @@ def plot(df: pd.DataFrame) -> None:
         ax_pct.plot(x, df["midcap100_yoy"], marker=".", linewidth=1.2,
                     linestyle="--", color="#c5b0d5",
                     label="(12) Nifty Midcap 100 YoY %")[0],
+        ax_pct.plot(x, df["ibank_basket_yoy"], marker="*", linewidth=2.0,
+                    linestyle="-", color="#e377c2",
+                    label="(16) I-banking basket YoY % (equal-weight)")[0],
     ]
     ax_pct.axhline(0, color="grey", linewidth=0.5, alpha=0.4)
 
@@ -189,9 +204,9 @@ def plot(df: pd.DataFrame) -> None:
     ax_count.grid(True, alpha=0.3)
 
     fig.suptitle(
-        "Indian equity issuance, broad-market indices, YoY % changes, and P/E ratios — 15-series combined view\n"
+        "Indian equity issuance, broad-market indices, YoY % changes, P/E ratios, and I-banking basket — 16-series combined view\n"
         "CY 2000-2025 (IPO/FPO+Rights data on fiscal-year basis, mapped to FY-ending calendar year; P/E clipped at 60 with off-scale annotations)\n"
-        "Source: SEBI Handbooks + SEBI Annual Reports + SEBI Bulletin Annexures + NSE archives end-of-day index bhavcopy + Wikipedia (Nifty 50 pre-2010 only)",
+        "Source: SEBI Handbooks + SEBI Annual Reports + SEBI Bulletin Annexures + NSE archives end-of-day index bhavcopy + Yahoo Finance (I-banking stocks) + Wikipedia (Nifty 50 pre-2010 only)",
         fontsize=12, y=0.995,
     )
 
