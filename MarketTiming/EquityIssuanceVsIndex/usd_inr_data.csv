@@ -1,8 +1,28 @@
-calendar_year,year_end_date,year_end_close_inr_per_usd,note
-2020,2020-12-31,73.1340,Last trading day of CY 2020 close
-2021,2021-12-31,74.4312,Last trading day of CY 2021 close
-2022,2022-12-30,82.8351,30-Dec was the last NSE/forex trading day of CY 2022
-2023,2023-12-29,82.3020,29-Dec was the last forex trading day of CY 2023 (Dec 30/31 weekend)
-2024,2024-12-31,85.7866,Last trading day of CY 2024 close
-2025,2025-12-31,89.7694,Last trading day of CY 2025 close
-2026,2026-06-01,94.9900,Latest available close (year ongoing — value as of preparation date 01-Jun-2026)
+calendar_year,year_end_date,year_end_close_inr_per_usd,source,note
+2000,2000-12-29,46.7500,FRB H.10,Federal Reserve H.10 noon buying rate; 29-Dec was last business day of CY 2000
+2001,2001-12-31,48.2700,FRB H.10,Federal Reserve H.10 noon buying rate; last business day of CY 2001
+2002,2002-12-31,48.0000,FRB H.10,Federal Reserve H.10 noon buying rate; last business day of CY 2002
+2003,2003-12-31,45.5300,Yahoo Finance,Yahoo USDINR=X December close (FRB H.10 = 45.55 — within 0.04%)
+2004,2004-12-31,43.3080,Yahoo Finance,Yahoo USDINR=X December close
+2005,2005-12-30,44.9700,Yahoo Finance,Yahoo USDINR=X December close (last weekday)
+2006,2006-12-29,44.0400,Yahoo Finance,Yahoo USDINR=X December close (last weekday)
+2007,2007-12-31,39.2450,Yahoo Finance,Yahoo USDINR=X December close
+2008,2008-12-31,48.0650,Yahoo Finance,Yahoo USDINR=X December close
+2009,2009-12-31,46.4000,Yahoo Finance,Yahoo USDINR=X December close
+2010,2010-12-31,44.8100,Yahoo Finance,Yahoo USDINR=X December close
+2011,2011-12-30,53.0000,Yahoo Finance,Yahoo USDINR=X December close (last weekday)
+2012,2012-12-31,54.7530,Yahoo Finance,Yahoo USDINR=X December close
+2013,2013-12-31,61.7800,Yahoo Finance,Yahoo USDINR=X December close
+2014,2014-12-31,63.3780,Yahoo Finance,Yahoo USDINR=X December close
+2015,2015-12-31,66.4550,Yahoo Finance,Yahoo USDINR=X December close
+2016,2016-12-30,67.9448,Yahoo Finance,Yahoo USDINR=X December close (last weekday)
+2017,2017-12-29,63.8408,Yahoo Finance,Yahoo USDINR=X December close (last weekday)
+2018,2018-12-31,69.9225,Yahoo Finance,Yahoo USDINR=X December close
+2019,2019-12-31,71.3110,Yahoo Finance,Yahoo USDINR=X December close
+2020,2020-12-31,73.1340,Yahoo Finance,Yahoo USDINR=X December close
+2021,2021-12-31,74.4312,Yahoo Finance,Yahoo USDINR=X December close
+2022,2022-12-30,82.8351,Yahoo Finance,Yahoo USDINR=X December close (30-Dec last weekday)
+2023,2023-12-29,82.3020,Yahoo Finance,Yahoo USDINR=X December close (29-Dec last weekday)
+2024,2024-12-31,85.7866,Yahoo Finance,Yahoo USDINR=X December close
+2025,2025-12-31,89.7694,Yahoo Finance,Yahoo USDINR=X December close
+2026,2026-06-01,94.9900,Yahoo Finance,Year ongoing — value as of preparation date 01-Jun-2026
