@@ -55,7 +55,7 @@
 </head>
 <body>
 <h1>Indian equity issuance vs broad-market indices — interactive 2000-2025</h1>
-<div class="subtitle">12 macro series + I-banking basket (equal-weighted YoY %) + 8 individual I-bank stocks on the top chart + P/E heatmap (bottom). Toggle individual series via the checkboxes or the chart legend. Sources: SEBI Handbooks / SEBI Annual Reports / SEBI Bulletin Annexures / NSE archives bhavcopy / Yahoo Finance (I-banking stocks).</div>
+<div class="subtitle">12 macro series + I-banking basket + 8 individual I-bank stocks + USD/INR year-end rate + USD/INR YoY % on the top chart + P/E heatmap (bottom). Toggle individual series via the checkboxes or the chart legend. Sources: SEBI Handbooks / SEBI Annual Reports / SEBI Bulletin Annexures / NSE archives bhavcopy / Yahoo Finance (I-banking stocks, USDINR=X) / FRB H.10 (USD/INR 2000-2002).</div>
 
 <div class="controls">
   <div class="group">
@@ -91,6 +91,7 @@
     <button onclick="setPresetIndices()">Show indices only</button>
     <button onclick="setPresetYoy()">Show YoY % only</button>
     <button onclick="setPresetIbanks()">Show I-banks only</button>
+    <button onclick="setPresetFx()">Show USD/INR only</button>
     <button onclick="setDefault()">Default</button>
   </div>
 </div>
@@ -100,9 +101,10 @@
   <div id="pe_chart"></div>
   <div class="legend-tips">
     <strong>Top chart:</strong> click a legend item or a checkbox above to hide/show that line individually.
-    All series are independently controllable (12 macro + I-banking basket + 8 individual I-bank stocks).
+    All series are independently controllable (12 macro + I-banking basket + 8 individual I-bank stocks + USD/INR rate + USD/INR YoY %).
     The I-banking basket is the equal-weighted YoY % across companies listed in that year — hover for the
-    basket size (n=2 in 2006/07 → n=8 in 2025). Drag the rangeslider below or use the year inputs to zoom.
+    basket size (n=2 in 2006/07 → n=8 in 2025). USD/INR is the year-end (last business day of December) close
+    on its own y-axis on the far right (₹46.75 in 2000 → ₹89.77 in 2025). Drag the rangeslider below or use the year inputs to zoom.
     <br>
     <strong>Bottom heatmap:</strong> trailing 12M P/E per index per year (green low → red high). Hover for the exact
     value, raw P/E, and normalization detail. "Normalized" replaces 3 cells where earnings collapsed
@@ -1103,7 +1105,63 @@ const DATA = {
       42.08,
       -50.77
     ]
-  }
+  },
+  "usd_inr": [
+    46.75,
+    48.27,
+    48.0,
+    45.53,
+    43.308,
+    44.97,
+    44.04,
+    39.245,
+    48.065,
+    46.4,
+    44.81,
+    53.0,
+    54.753,
+    61.78,
+    63.378,
+    66.455,
+    67.9448,
+    63.8408,
+    69.9225,
+    71.311,
+    73.134,
+    74.4312,
+    82.8351,
+    82.302,
+    85.7866,
+    89.7694
+  ],
+  "usd_inr_yoy": [
+    null,
+    3.25,
+    -0.56,
+    -5.15,
+    -4.88,
+    3.84,
+    -2.07,
+    -10.89,
+    22.47,
+    -3.46,
+    -3.43,
+    18.28,
+    3.31,
+    12.83,
+    2.59,
+    4.85,
+    2.24,
+    -6.04,
+    9.53,
+    1.99,
+    2.56,
+    1.77,
+    11.29,
+    -0.64,
+    4.23,
+    4.64
+  ]
 };
 const YRS = DATA.years;
 
@@ -1204,14 +1262,30 @@ const SERIES = [
       swatch: 'dashed', color: palette[i % palette.length], defaultOn: false,
     }));
   })(),
+
+  // USD/INR year-end rate -> y5 (right, position 1.15)
+  { id:'fx_rate', label:'(17) USD/INR year-end (₹/$)', cat:'USD/INR',
+    trace: { name:'(17) USD/INR year-end close (₹ per $)', x:YRS, y:DATA.usd_inr,
+      mode:'lines+markers', marker:{symbol:'hexagon', size:8},
+      line:{color:'#8c6d31', width:2.4}, yaxis:'y5',
+      hovertemplate: '%{x}: <b>₹%{y:.2f}</b><extra>USD/INR year-end</extra>' },
+    swatch:'solid', color:'#8c6d31', defaultOn:true },
+
+  // USD/INR YoY % -> y4 (existing YoY axis)
+  { id:'fx_yoy', label:'(18) USD/INR YoY %', cat:'USD/INR',
+    trace: { name:'(18) USD/INR YoY %', x:YRS, y:DATA.usd_inr_yoy,
+      mode:'lines+markers', marker:{symbol:'x', size:6},
+      line:{color:'#8c6d31', width:1.5, dash:'dash'}, yaxis:'y4',
+      hovertemplate: '%{x}: <b>%{y:.2f}%</b><extra>USD/INR YoY</extra>' },
+    swatch:'dashed', color:'#8c6d31', defaultOn:true },
 ];
 
 const MAIN_TRACES = SERIES.map(s => ({...s.trace, visible: s.defaultOn ? true : 'legendonly'}));
 
 const MAIN_LAYOUT = {
-  margin: { l: 70, r: 230, t: 10, b: 70 },
+  margin: { l: 70, r: 290, t: 10, b: 70 },
   hovermode: 'x unified',
-  legend: { x: 1.02, y: 1, font: {size: 11}, xanchor: 'left',
+  legend: { x: 1.12, y: 1, font: {size: 11}, xanchor: 'left',
             bgcolor: '#ffffff', bordercolor: '#dddddd', borderwidth: 1 },
   xaxis: {
     title: { text: 'Year', font:{size:12} },
@@ -1231,13 +1305,18 @@ const MAIN_LAYOUT = {
   yaxis3: { // Count
     title: { text: 'Number of issues', font:{color:'#d62728', size:12}, standoff: 6 },
     tickfont: {color:'#d62728', size:11},
-    overlaying: 'y', side: 'right', anchor: 'free', position: 1.05,
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.04,
   },
   yaxis4: { // YoY %
     title: { text: 'YoY % change', font:{color:'#666', size:12}, standoff: 6 },
     tickfont: {color:'#666', size:11},
-    overlaying: 'y', side: 'right', anchor: 'free', position: 1.10,
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.08,
     zeroline: true, zerolinecolor: '#ccc',
+  },
+  yaxis5: { // USD/INR rate
+    title: { text: 'USD/INR (₹ per $)', font:{color:'#8c6d31', size:12}, standoff: 6 },
+    tickfont: {color:'#8c6d31', size:11},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.12,
   },
 };
 
@@ -1253,7 +1332,7 @@ Plotly.newPlot('main_chart', MAIN_TRACES, MAIN_LAYOUT, CONFIG);
 function buildSeriesPanel() {
   const root = document.getElementById('seriesGroups');
   root.innerHTML = '';
-  const cats = ['Counts', 'Amounts', 'Index level', 'YoY %', 'I-banks'];
+  const cats = ['Counts', 'Amounts', 'Index level', 'YoY %', 'I-banks', 'USD/INR'];
   for (const cat of cats) {
     const grp = document.createElement('div');
     grp.className = 'series-group';
@@ -1316,6 +1395,7 @@ function setPresetAmounts() { setOnlyCats(['Amounts']); }
 function setPresetIndices() { setOnlyCats(['Index level']); }
 function setPresetYoy()     { setOnlyCats(['YoY %']); }
 function setPresetIbanks()  { setOnlyCats(['I-banks']); }
+function setPresetFx()      { setOnlyCats(['USD/INR']); }
 function setDefault() {
   SERIES.forEach((s, i) => {
     const v = s.defaultOn ? true : 'legendonly';

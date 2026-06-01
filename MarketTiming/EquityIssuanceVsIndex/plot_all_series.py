@@ -25,6 +25,10 @@ calendar year for IPO/FPO+Rights — both labeled with the year):
    10. Nifty 50 YoY %
    12. Nifty Midcap 100 YoY %
    16. I-banking basket YoY % (equal-weighted avg of listed I-bank stocks)
+   18. USD/INR YoY %
+
+  USD/INR rate (sixth y-axis)
+   17. USD/INR year-end close (INR per USD)
 
   Trailing P/E ratio (fifth y-axis, clipped to 0-60 — see caveat below)
    13. Nifty 50 P/E
@@ -88,6 +92,11 @@ def load() -> pd.DataFrame:
     ib_basket = ib_yoy.mean(axis=1, skipna=True)
     df["ibank_basket_yoy"] = ib_basket
 
+    # USD/INR year-end rate + YoY %
+    fx = pd.read_csv(HERE / "usd_inr_data.csv").sort_values("calendar_year").reset_index(drop=True)
+    df["usd_inr"] = fx.set_index("calendar_year")["year_end_close_inr_per_usd"]
+    df["usd_inr_yoy"] = df["usd_inr"].pct_change() * 100
+
     return df.reset_index()
 
 
@@ -97,11 +106,13 @@ def plot(df: pd.DataFrame) -> None:
     ax_index = ax_count.twinx()
     ax_pct = ax_count.twinx()
     ax_pe = ax_count.twinx()
+    ax_fx = ax_count.twinx()
 
     ax_amount.spines["right"].set_position(("outward", 0))
     ax_index.spines["right"].set_position(("outward", 80))
     ax_pct.spines["right"].set_position(("outward", 160))
     ax_pe.spines["right"].set_position(("outward", 240))
+    ax_fx.spines["right"].set_position(("outward", 320))
 
     x = df["year"]
 
@@ -147,8 +158,16 @@ def plot(df: pd.DataFrame) -> None:
         ax_pct.plot(x, df["ibank_basket_yoy"], marker="*", linewidth=2.0,
                     linestyle="-", color="#e377c2",
                     label="(16) I-banking basket YoY % (equal-weight)")[0],
+        ax_pct.plot(x, df["usd_inr_yoy"], marker="x", linewidth=1.5,
+                    linestyle="--", color="#8c6d31",
+                    label="(18) USD/INR YoY %")[0],
     ]
     ax_pct.axhline(0, color="grey", linewidth=0.5, alpha=0.4)
+
+    fx_lines = [
+        ax_fx.plot(x, df["usd_inr"], marker="h", linewidth=2,
+                   color="#8c6d31", label="(17) USD/INR year-end close (₹ per $)")[0],
+    ]
 
     # Clip P/E values >60 to 60 for chart readability; annotate true value.
     PE_CAP = 60
@@ -192,25 +211,27 @@ def plot(df: pd.DataFrame) -> None:
     ax_index.set_ylabel("Index level", color="#2ca02c")
     ax_pct.set_ylabel("YoY % change", color="grey")
     ax_pe.set_ylabel("P/E ratio (clipped at 60)", color="black")
+    ax_fx.set_ylabel("USD/INR (₹ per $)", color="#8c6d31")
 
     ax_count.tick_params(axis="y", labelcolor="#d62728")
     ax_amount.tick_params(axis="y", labelcolor="#1f77b4")
     ax_index.tick_params(axis="y", labelcolor="#2ca02c")
     ax_pct.tick_params(axis="y", labelcolor="grey")
     ax_pe.tick_params(axis="y", labelcolor="black")
+    ax_fx.tick_params(axis="y", labelcolor="#8c6d31")
 
     ax_count.set_xticks(x)
     ax_count.set_xticklabels(x, rotation=45)
     ax_count.grid(True, alpha=0.3)
 
     fig.suptitle(
-        "Indian equity issuance, broad-market indices, YoY % changes, P/E ratios, and I-banking basket — 16-series combined view\n"
+        "Indian equity issuance, broad-market indices, YoY % changes, P/E ratios, I-banking basket, and USD/INR — 18-series combined view\n"
         "CY 2000-2025 (IPO/FPO+Rights data on fiscal-year basis, mapped to FY-ending calendar year; P/E clipped at 60 with off-scale annotations)\n"
-        "Source: SEBI Handbooks + SEBI Annual Reports + SEBI Bulletin Annexures + NSE archives end-of-day index bhavcopy + Yahoo Finance (I-banking stocks) + Wikipedia (Nifty 50 pre-2010 only)",
+        "Source: SEBI Handbooks + SEBI Annual Reports + SEBI Bulletin Annexures + NSE archives end-of-day index bhavcopy + Yahoo Finance (I-banking stocks, USDINR=X) + FRB H.10 (USD/INR 2000-2002) + Wikipedia (Nifty 50 pre-2010 only)",
         fontsize=12, y=0.995,
     )
 
-    lines = cnt_lines + amt_lines + idx_lines + pct_lines + pe_lines
+    lines = cnt_lines + amt_lines + idx_lines + pct_lines + pe_lines + fx_lines
     labels = [ln.get_label() for ln in lines]
     ax_count.legend(lines, labels, loc="upper left", fontsize=8.5,
                     framealpha=0.92, ncol=3)

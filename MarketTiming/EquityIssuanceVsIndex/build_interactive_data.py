@@ -83,6 +83,22 @@ def load_ibanks() -> pd.DataFrame:
     return out
 
 
+def load_usd_inr() -> pd.DataFrame:
+    """Read usd_inr_data.csv and align to 2000-2025 year index.
+
+    Returns a DataFrame indexed by `year` with columns:
+      - `usd_inr`        : year-end INR per USD
+      - `usd_inr_yoy`    : YoY % change vs prior year-end
+    """
+    src = HERE / "usd_inr_data.csv"
+    raw = pd.read_csv(src).sort_values("calendar_year").reset_index(drop=True)
+    years = list(range(2000, 2026))
+    out = pd.DataFrame({"year": years}).set_index("year")
+    out["usd_inr"] = raw.set_index("calendar_year")["year_end_close_inr_per_usd"]
+    out["usd_inr_yoy"] = (out["usd_inr"].pct_change() * 100).round(2)
+    return out
+
+
 def normalize_pe(price: pd.Series, pe: pd.Series):
     """Return (normalized_pe, flag, note) Series aligned to price's index."""
     out_pe, out_flag, out_note = [], [], []
@@ -121,6 +137,9 @@ def main() -> None:
     ibank_company_cols = [c for c in ibanks.columns if c not in ("ibank_basket_yoy", "ibank_basket_n")]
     df = df.join(ibanks, how="left")
 
+    fx = load_usd_inr()
+    df = df.join(fx, how="left")
+
     df = df.reset_index()
     col = lambda name: [None if pd.isna(v) else float(v) for v in df[name].tolist()]
 
@@ -154,6 +173,8 @@ def main() -> None:
         "ibank_basket_n":        [None if pd.isna(v) else int(v) for v in df["ibank_basket_n"].tolist()],
         "ibank_companies":       ibank_company_cols,
         "ibank_company_yoy":     {c: [None if pd.isna(v) else round(float(v), 2) for v in df[c].tolist()] for c in ibank_company_cols},
+        "usd_inr":               [None if pd.isna(v) else round(float(v), 4) for v in df["usd_inr"].tolist()],
+        "usd_inr_yoy":           [None if pd.isna(v) else round(float(v), 2) for v in df["usd_inr_yoy"].tolist()],
     }
     print(json.dumps(payload, indent=2))
 
