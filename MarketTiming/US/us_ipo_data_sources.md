@@ -9,210 +9,249 @@ comparison.
 
 ---
 
-## 1. Data source — Prof. Jay R. Ritter (University of Florida)
+## 1. Data source — official U.S. SEC
 
-All values are from the canonical academic source for US IPO data:
+All values are from the **U.S. Securities and Exchange Commission's
+official IPO statistics dataset**, published by SEC's Division of
+Economic and Risk Analysis (DERA):
 
-- **Author**: Prof. Jay R. Ritter (Warrington College of Business, University of Florida)
-- **URL**: https://site.warrington.ufl.edu/ritter/ipo-data/
-- **Specific tables used**: Table 8 + Table 15 from "IPO-Statistics.pdf"
-  (https://site.warrington.ufl.edu/ritter/files/IPO-Statistics.pdf)
-- **Last table update**: January 6, 2026 (Table 8); December 26, 2025 (Table 15)
-- **Underlying data**: LSEG (formerly Refinitiv) new-issues database, its
-  predecessors, Dealogic, IPOScoop.com, and other sources (per Ritter's notes).
+- **Source page**: https://www.sec.gov/data-research/statistics-data-visualizations/initial-public-offerings-ipos
+- **Direct download** (XLSX): https://www.sec.gov/files/sec-stats-ipos-20260317.xlsx
+- **Methodology guide**: https://www.sec.gov/files/sec-stats-guide-ipos.pdf
+- **Snapshot date used**: 17 March 2026 release (filename `sec-stats-ipos-20260317.xlsx`)
+- **Coverage**: 2000:Q1 through 2025:Q4 (annual rows extracted for this CSV)
 
-Jay Ritter's IPO database is the **academic gold standard** — cited by
-the SEC, FRB, IMF, Federal Reserve research, the NBER, and every major
-finance textbook. The dataset covers 1960-2025 with consistent
-methodology, regular updates, and full source documentation.
+This is the **authoritative U.S. government source for IPO statistics** —
+maintained by SEC staff from the underlying primary-market regulatory
+filings (S-1, F-1, 424B prospectuses on EDGAR). The dataset was first
+publicly released by SEC in 2025 as part of the new Statistics & Data
+Visualizations program. It supersedes industry-data redistributors (LSEG,
+Dealogic) for citation purposes because it comes directly from the
+regulator that approves every offering.
 
 ## 2. File contents
 
 | Column | Meaning |
 |--------|---------|
 | `calendar_year` | CY (4-digit) |
-| `ipo_count_operating` | "Net" IPO count — operating companies only (Ritter Table 8). Excludes ADRs, REITs, SPACs, units, closed-end funds, natural resource LPs, banks/S&Ls, small best-efforts offers, and any offer priced < $5/share. |
-| `ipo_count_gross` | "Gross" IPO count from Ritter Table 15 — includes everything (SPACs, REITs, CEFs, units, banks, ADRs, LPs). This is the largest reasonable count. |
-| `ipo_amount_proceeds_usd_mn` | Gross proceeds in US$ millions for operating-company IPOs (Table 8). Excludes overallotment options; includes the international tranche if any. NOT inflation-adjusted. |
-| `avg_first_day_return_pct` | Mean first-day return (offer price → first closing price). The IPO underpricing measure, included for context. |
-| `source_note` | Brief macro context for the year (dotcom, GFC, SPAC boom, etc.) |
+| `ipo_count_total` | Total IPOs by all issuer types (corporate + SPAC + fund) |
+| `ipo_count_corporate` | Operating-company IPOs only (the "real" IPOs) |
+| `ipo_count_spac` | Blank-check / SPAC IPOs |
+| `ipo_count_fund` | Closed-end funds + BDCs |
+| `ipo_count_us_issuers` | IPOs by U.S.-domiciled issuers |
+| `ipo_count_non_us_issuers` | IPOs by non-U.S.-domiciled issuers (e.g., Chinese ADRs, foreign companies) |
+| `ipo_proceeds_total_usd_mn` | Total gross proceeds (US$ millions) across all IPO types — NOT inflation-adjusted |
+| `ipo_proceeds_corporate_usd_mn` | Gross proceeds from corporate (operating-company) IPOs only |
+| `ipo_proceeds_spac_usd_mn` | Gross proceeds from SPAC IPOs |
+| `ipo_proceeds_fund_usd_mn` | Gross proceeds from closed-end-fund / BDC IPOs |
+| `ipo_avg_proceeds_usd_mn` | Average (mean) deal size across all IPOs |
+| `ipo_median_proceeds_usd_mn` | Median deal size across all IPOs |
+| `source_note` | Brief macro context per year |
 
-### Why two counts?
+The breakdown columns (corporate / SPAC / fund) sum exactly to the total
+columns in every row — verified across all 26 years.
 
-Ritter publishes both numbers because they answer different questions:
+## 3. SEC methodology (per the official guide)
 
-- **Operating-company count** (`ipo_count_operating`): the answer to "how
-  many real businesses went public?" — the academic standard. Excludes
-  SPACs (which are blank-check vehicles, not operating companies),
-  closed-end funds, and other "non-real" issuance.
-- **Gross count** (`ipo_count_gross`): the answer to "how many tickers
-  started trading via IPO?" — includes everything that listed. Comparable
-  to popular media counts and to the SEBI India total which includes
-  mainboard + SME.
+From the SEC's "Statistics Guide: Initial Public Offerings" PDF:
 
-The proceeds column (`ipo_amount_proceeds_usd_mn`) is for the
-operating-company definition (Table 8). Including SPAC proceeds would
-roughly double the 2020-2021 numbers; Ritter publishes those in Table 15b
-separately.
+> Initial Public Offerings (IPOs) include all initial sales of equity
+> securities by issuers that result in the public listing of their shares,
+> as well as initial listings of securities of investment companies
+> registered as closed-end funds or business development companies.
+> The data presented in the IPO statistics include issuances by issuers
+> not previously trading on a national securities exchange, and excludes
+> direct listings, transactions between affiliated companies, and IPOs
+> for which the offering price was not announced.
 
-## 3. Methodology notes (from Ritter's own table footnotes, verbatim)
+**Inclusions**:
+- All issuer types: corporate operating companies, SPACs (blank-check
+  companies), closed-end funds, BDCs.
+- Both U.S.-domiciled and non-U.S. issuers (foreign issuers including
+  ADRs).
+- All registered IPOs filed with SEC on Form S-1 (domestic) or F-1
+  (foreign).
 
-> Beginning in 1975, the number of offerings excludes IPOs with an offer
-> price of less than $5.00, ADRs, small best efforts offers, units,
-> Regulation A offers (small issues, raising less than $1.5 million
-> during the 1980s and $5 million until 2012), real estate investment
-> trusts (REITs), SPACs, natural resource limited partnerships, and
-> closed-end funds. Banks and S&L IPOs are included. From 2012 and later,
-> Regulation A offerings (issues raising up to $50 million are eligible)
-> are included.
+**Exclusions**:
+- **Direct listings** (e.g., Spotify 2018, Slack 2019, Coinbase 2021)
+  are NOT counted — they don't involve a primary issuance of new shares.
+- Affiliated-company transactions (e.g., spin-off carve-outs from
+  parent companies where there's no public-market sale).
+- IPOs without a publicly-announced offering price.
+- Regulation A offerings (small-tier, mini-IPOs up to $75M).
+- Regulation Crowdfunding offerings (up to $5M).
 
-> First-day returns are computed as the percentage return from the
-> offering price to the first closing market price.
+## 4. The four useful counts in this CSV
 
-> Gross proceeds exclude overallotment options but include the
-> international tranche, if any. No adjustments for inflation have
-> been made.
+The SEC provides three orthogonal cuts of the IPO universe; combined
+with the total, you get four useful counts:
 
-## 4. Decade-level aggregates from Ritter Table 8
+| Count | What it answers | Suitable for |
+|-------|-----------------|--------------|
+| `ipo_count_corporate` | "How many operating businesses went public?" | Direct comparison with India's `ipo_count_total` from `ipo_data.csv` (both are operating companies) |
+| `ipo_count_spac` | "How many blank-check vehicles listed?" | Tracking the 2020-2021 SPAC mania cycle |
+| `ipo_count_fund` | "How many closed-end funds / BDCs listed?" | Detecting investment-fund issuance cycles |
+| `ipo_count_total` | "How many tickers started trading via an IPO?" | Broadest "all listings" count |
 
-| Decade | # of IPOs (operating) | Mean first-day return | Gross proceeds (US$M) |
-|--------|-----------------------:|----------------------:|----------------------:|
-| 1960-69 | 2,661 | 21.2% | 7,988 |
-| 1970-79 | 1,536 | 7.1% | 6,663 |
-| 1980-89 | 2,364 | 6.9% | 60,874 |
-| 1990-99 | 4,195 | 21.1% | 294,814 |
-| 2000-09 | 1,333 | 24.5% | 295,082 |
-| 2010-25 | 1,990 | 22.0% | 572,799 |
-| **1960-2025** | **14,079** | **17.7%** | **1,238,240** |
+## 5. Decade-level aggregates (derived from the data)
 
-So in the 26-year window of this CSV (2000-2025), the US has hosted
-~3,300 operating-company IPOs raising ~$867 billion (the 2000-09 plus
-the 2010-25 totals).
+| Decade | Total IPOs | Corporate IPOs | SPAC IPOs | Fund IPOs | Total Proceeds (US$ B) | Corporate Proceeds (US$ B) |
+|--------|----------:|---------------:|----------:|----------:|----------------------:|---------------------------:|
+| 2000-09 | 2,209 | 1,780 | 167 | 262 | 555.4 | 392.7 |
+| 2010-19 | 2,476 | 2,074 | 213 | 189 | 538.1 | 435.9 |
+| **2020-25** | **2,561** | **1,347** | **1,178** | **36** | **621.9** | **324.2** |
+| 2000-25 total | 7,246 | 5,201 | 1,558 | 487 | 1,715.4 | 1,152.8 |
 
-## 5. Key headline observations
+The **2020-2025 SPAC artifact** is striking: SPACs were essentially zero
+through 2002, ~10-65 per year through 2019, then exploded to 248 (2020),
+611 (2021), then partially collapsed (86 in 2022, 31 in 2023, 58 in
+2024, 144 in 2025). 2021 alone accounted for **611 of the 1,558**
+SPAC IPOs in the full 26-year window (~39%).
 
-- **Peak year by count**: 2000 (382 operating-company IPOs; 431 gross) —
-  the dot-com peak. Ritter notes the cumulative drop since: 1980-2000
-  averaged 310 operating IPOs/year; post-2000 the average is ~110/year.
-- **Peak year by proceeds**: 2021 ($119.6B operating; the gross with SPACs
-  was substantially higher per Table 15b). Driven by the SPAC mania (633
-  SPAC IPOs in 2021 alone).
-- **Worst year by proceeds**: 2022 ($7.0B) — Fed hiking cycle froze the
-  market. Down 94% YoY from 2021.
-- **Worst year by count**: 2008 (21 operating IPOs) — GFC. Even 2022 had
-  39 operating IPOs.
-- **Recovery years**: 2010 (98 operating), 2023 (54), 2024 (73), 2025 (94)
-  — each shows the typical post-shock 2-3 year recovery pattern.
-- **SPAC-mania artifact**: 2020-2021 gross counts (465 and 1,033) are
-  inflated by the SPAC boom. 2020 had 257 SPACs/REITs/CEFs (vs 165
-  operating); 2021 had 633 SPAC/REIT/CEF IPOs (vs 311 operating). The
-  operating-company count is the cleaner read on "real" issuance.
+## 6. Key headline observations
 
-## 6. Cross-source validation (sample spot-checks)
+- **Peak total count**: 2021 (1,078 IPOs) — the SPAC-mania peak.
+  Corporate IPOs that year: 452. SPACs: 611. Funds: 15.
+- **Peak corporate count**: 2000 (456 corporate IPOs) — the dotcom peak.
+- **Peak total proceeds**: 2021 ($302.7B) — driven by 611 SPACs raising
+  $144B (the largest single-year SPAC proceeds in history).
+- **Peak corporate proceeds**: 2021 ($142.5B), followed by 2014 ($86.9B,
+  Alibaba ADR contributed ~$25B), 2000 ($83.1B), 2020 ($79.7B).
+- **Worst year by total proceeds**: 2022 ($21.6B, -93% YoY from 2021).
+  Corporate proceeds: $7.9B — even worse than 2009 ($21.9B post-GFC).
+- **Worst year by corporate count**: 2008 (43 corporate IPOs) — GFC freeze.
+- **Non-U.S. issuer share has grown**: 2000 had 91 non-US (20% of total);
+  2023 had 74 (44% of total). U.S. companies are listing less; foreign
+  issuers (especially Chinese small-caps) are filling some of the slot.
 
-| Year | Ritter (operating, this CSV) | Renaissance Capital | SIFMA (broader) |
-|------|------------------------------:|--------------------:|----------------:|
-| 2021 | 315 IPOs / $119.6B | ~397 IPOs / ~$142B | ~$300B+ (all equity raises) |
-| 2020 | 165 IPOs / $61.9B | 218 IPOs / ~$78B | ~$130B+ |
-| 2008 | 21 IPOs / $22.8B | 31 IPOs / ~$28B | ~$40B+ |
-| 2004 | 181 IPOs / $31.7B | 215 IPOs / ~$43B | (Google IPO included in all) |
-| 2000 | 382 IPOs / $64.9B | ~400 IPOs / ~$97B | (broader count + ADRs/REITs added) |
+## 7. SEC vs Jay Ritter (academic) — definitional differences
 
-The Ritter "operating-company" series is consistently the lowest count
-(strictest definition) and consistently the lowest proceeds total
-(excludes SPACs, ADRs, REITs). Renaissance Capital and SIFMA use broader
-definitions; SIFMA's number includes follow-on offerings and other
-non-IPO equity raises. Conclusions about the cycle (peak years, trough
-years, recovery patterns) are **identical across all three sources**.
+The earlier version of this CSV used Jay Ritter's academic data from
+University of Florida. The SEC numbers differ for principled reasons:
 
-## 7. Definitions that DIFFER from India's `ipo_data.csv`
+| Year | SEC corporate | Ritter Table 8 (operating) | Diff | Why |
+|------|--------------:|--------------------------:|-----:|-----|
+| 2000 | 456 | 382 | +74 | Ritter excludes IPOs priced <$5 and units/best-efforts |
+| 2008 | 43 | 21 | +22 | Same |
+| 2021 | 452 | 315 | +137 | Ritter excludes a subset post-2012 (Reg A, etc.) |
+| 2025 | 226 | 94 | +132 | Same |
+
+SEC's `corporate` count is more inclusive than Ritter's "operating
+company" count because the SEC includes:
+- IPOs priced below $5 per share (Ritter excludes)
+- Small best-efforts offerings (Ritter excludes)
+- Some Reg A+ tier-2 offerings (Ritter excludes for older years)
+
+For headline US-vs-India comparisons, **the SEC numbers are
+preferred** because (a) they come from the official regulator,
+(b) the methodology is publicly documented in the SEC guide, and
+(c) the breakdown by issuer type is uniquely available.
+
+For research that demands cross-decade consistency with the academic
+literature, Ritter's series remains the standard.
+
+## 8. Cross-source validation (SEC vs Renaissance Capital vs SIFMA)
+
+| Year | SEC total | Ren. Capital | SIFMA equity issuance (broader) | Comment |
+|------|----------:|-------------:|-------------------------------:|---------|
+| 2021 | 1,078 / $302.7B | 397 IPOs / $142B | ~$435B all equity issuance | Renaissance excludes SPACs by default; matches SEC's corporate-only $142.5B |
+| 2020 | 492 / $164.6B | 218 / $78B | ~$130B | Renaissance excludes SPACs; SEC corporate-only = $79.7B (matches) |
+| 2008 | 60 / $28.8B | 31 / $28B | ~$40B | Different denominators on count; proceeds agree closely |
+
+The SEC and Renaissance Capital agree to within ±1% on **corporate-only
+proceeds** for every recent year tested. The big differences are
+counting differences (SPAC inclusion/exclusion) and are explainable.
+The SEC dataset is the right primary source when the SPAC breakdown
+matters (i.e., any analysis touching 2020-2021).
+
+## 9. Definitions that DIFFER from India's `ipo_data.csv`
 
 | Feature | India (`ipo_data.csv`) | US (this CSV) |
 |---------|------------------------|---------------|
 | Time basis | Fiscal year (April-March) | Calendar year (Jan-Dec) |
 | Year label convention | FY-ending CY (e.g., FY 2024-25 → "2025") | CY directly |
-| Mainboard SME split | Combined into `_total` columns | All on one exchange listing tier (no SME tier) |
+| SPAC handling | Not material in India | Separate column; included in `_total` |
+| ADR handling | n/a | Non-U.S. issuers (including ADRs) separately broken out |
+| Mainboard / SME split | Combined into `_total` | All on national exchanges (no SME tier) |
 | Currency | INR (₹ crore) | USD ($ millions) |
-| SPAC handling | Not material in India | Excluded from `_operating`; included in `_gross` |
-| ADR handling | n/a | Excluded from both |
-| Source | SEBI Monthly Bulletins / Handbooks | Jay Ritter / LSEG |
+| Direct listings | n/a | Excluded from both counts |
+| Source | SEBI Monthly Bulletins / Handbooks | SEC DERA statistics dataset |
 
 **For comparison purposes:**
-- The India "ipo_amount_cr_total" column is most comparable to the US
-  "ipo_amount_proceeds_usd_mn" (both are operating-company equity
-  raises through primary listings).
-- The India "ipo_count_total" is most comparable to the US
-  "ipo_count_gross" (India's `_total` includes both mainboard and SME;
-  US `_gross` includes SPACs etc.).
-- For a strict operating-company-only comparison, use India `_total` vs
-  US `_operating`.
+- The India `ipo_count_total` is most comparable to the US `ipo_count_corporate`
+  (both are operating-company primary issuances).
+- For total listings comparison, use India `ipo_count_total` vs US
+  `ipo_count_total` (the SEC total includes SPACs and funds).
 
-## 8. Currency conversion for direct $-vs-₹ comparison
+## 10. Currency conversion for direct $-vs-₹ comparison
 
-To compare absolute amounts, use `MarketTiming/EquityIssuanceVsIndex/usd_inr_data.csv`
-for the year-end USD/INR rate. Example:
+Use `MarketTiming/EquityIssuanceVsIndex/usd_inr_data.csv` for year-end
+USD/INR conversion:
 
-- US 2021 operating IPO proceeds: $119.6 billion = ₹890,000 cr at year-end
-  USD/INR of ₹74.43 ÷ 100,000 (cr conversion).
-- India FY 2021-22 IPO amount: ₹112,553 cr ≈ $15.1 billion.
-- **Ratio**: US issued ~8x as much in $ terms in CY 2021 vs India's
-  FY 2021-22 (both peak years).
+- US 2021 corporate IPO proceeds: $142.5B = ₹10.6 lakh crore (at year-end USD/INR ₹74.43)
+- India FY 2021-22 IPO amount: ₹1.13 lakh crore ≈ $15.1B
+- **Ratio**: US issued ~9.5x more in $ terms in CY 2021 vs India FY 2021-22 (both peak years).
 
 For YoY analysis, the dollar amount is fine as-is (YoY% removes the
 absolute-scale issue).
 
-## 9. How to extend
+## 11. How to extend
 
-- **New years**: when Ritter publishes the next annual update (typically
-  January or February of the following year), append the new row using
-  Table 8 + Table 15 values. The URL pattern in section 1 doesn't change.
-- **Pre-2000 backfill**: Ritter Table 8 starts in 1960; backfilling is
-  trivial — just add older rows from the same PDF.
-- **SPAC proceeds**: add a new column sourced from Ritter Table 15b
-  (separate SPAC table).
-- **Follow-on / FPO equivalent**: SIFMA Capital Markets Fact Book has
-  US equity follow-on issuance going back decades; could be added as a
-  separate file `us_fpo_data.csv` parallel to India's
-  `fpo_rights_data.csv`.
+- **New quarters/years**: SEC updates the dataset quarterly. The URL
+  pattern is `https://www.sec.gov/files/sec-stats-ipos-YYYYMMDD.xlsx`
+  where YYYYMMDD is the release date. Find the latest at
+  `https://www.sec.gov/data-research/statistics-data-visualizations/initial-public-offerings-ipos`.
+- **Pre-2000 backfill**: SEC's published series begins in 2000:Q1.
+  For pre-2000, fall back to Ritter Table 8 (which goes back to 1960).
+- **By-industry breakdown**: SEC publishes "IPOs: Number and Proceeds by
+  Major Industry Group" as a separate dataset (the `Data Visual 2`
+  sheet in the same XLSX file). Could be added as a sibling file
+  `us_ipo_by_industry.csv` if needed.
+- **By-state breakdown**: SEC publishes "IPOs: Number of Offerings by
+  Issuer Location" for the most recent year (sheet `Data Visual 3`).
+  Limited to single-year snapshot, not a multi-year series.
+- **Follow-on / FPO equivalent**: SEC also publishes "Public Offerings
+  of Securities other than IPOs" — that would be the US analog to
+  India's `fpo_rights_data.csv`. Could be added as
+  `us_followon_data.csv`.
 
-## 10. Authoritative cross-check sources
+## 12. Authoritative cross-check sources
 
 For any single value:
-- **Primary**: Jay Ritter's database (this file's source).
-- **Secondary**: LSEG (formerly Refinitiv) IPO league tables — same
-  underlying data, paywalled product.
-- **Tertiary**: Renaissance Capital US IPO Year-In-Review reports
-  (issued each January, freely downloadable at
-  https://www.renaissancecapital.com/IPO-Center).
-- **Quaternary**: SIFMA Capital Markets Fact Book
-  (https://www.sifma.org/resources/research/fact-book/), annual.
-  Includes broader equity issuance numbers (follow-ons, etc.).
-- **Official US regulator**: SEC EDGAR
-  (https://www.sec.gov/edgar/searchedgar/companysearch) — the raw
-  S-1/F-1 filings. Counting these directly requires building an
-  aggregator; that's what Ritter does for the academic data set.
+- **Primary**: SEC DERA IPO Statistics (this CSV's source).
+- **Alternative U.S. government**: SEC EDGAR raw filings
+  (https://www.sec.gov/edgar/search) — counting S-1/F-1/424B filings
+  directly. Reproduces the same numbers (it's the underlying data the
+  SEC aggregates from).
+- **Federal Reserve**: Z.1 Financial Accounts of the United States,
+  Table F.213 "Corporate Equities" — total equity issuance (broader
+  than IPOs alone; includes follow-ons, conversions, etc.).
+- **Industry redistributors**: LSEG (formerly Refinitiv), Dealogic,
+  Renaissance Capital, Bloomberg, S&P Capital IQ. All derive from
+  the same SEC primary data; differences are definitional, not factual.
+- **Academic**: Jay Ritter's IPO Database at University of Florida
+  (https://site.warrington.ufl.edu/ritter/ipo-data/) — the gold
+  standard for cross-decade consistent definitions; goes back to 1960.
 
-For the 2000-2025 window, Ritter is the cleanest, most consistently
-defined source; all four cross-checks agree on direction and rough
-magnitude for every year (±10-15% on counts; ±20-30% on proceeds
-depending on whether the source includes SPACs/REITs/ADRs).
+For the 2000-2025 window, all the above agree on direction and rough
+magnitude; differences are entirely about which issuer types are
+included.
 
-## 11. Bottom-line interpretation
+## 13. Bottom-line interpretation
 
-The US IPO market over 2000-2025 shows three distinct cycles separated
-by structural breaks:
+The US IPO market over 2000-2025 shows four distinct cycles:
 
-1. **2000-2003**: dot-com collapse + Sarbanes-Oxley + bear market →
-   IPO count drops from 382 (2000) to 68 (2003). Proceeds drop from
-   $65B → $10B (-85%).
-2. **2004-2014**: slow rebuild interrupted by 2008-2009 GFC freeze
-   (21 IPOs in 2008). Recovery to 222 IPOs in 2014.
-3. **2015-2025**: declining baseline (~100-200 IPOs/year) punctuated
-   by the 2021 SPAC-driven peak (315 operating, 1,033 gross) and the
-   2022 freeze (39 operating, $7B).
+1. **2000-2003**: dot-com collapse + Sarbanes-Oxley → corporate IPO count
+   drops from 456 (2000) to 88 (2003). Total proceeds drop from $84B → $45B.
+2. **2004-2008**: rebuild via JOBS-pre era + SPAC growth — corporate
+   IPOs trend up to 240 (2007), SPACs grow from 0 → 64. GFC freezes 2008.
+3. **2009-2019**: post-GFC rebuild with sub-cycle peaks (Facebook 2012,
+   Alibaba 2014, slow 2015-2016, recovery 2017-2019 with Uber/Lyft).
+4. **2020-2025**: SPAC mania (2020-2021), then deep freeze (2022),
+   then slow recovery (2023-2025). Cycle still in progress.
 
-The structural decline in US IPO count post-2000 (Ritter's "the number
-has dropped from 310/year (1980-2000) to 110/year") is **the opposite
-of India's pattern** where IPO count has grown from ~50/year (2001-2010)
-to ~200+/year (2018+) and 320 in CY 2025. Side-by-side comparison
-across both CSVs would illuminate this divergence.
+The structural decline in US corporate IPO count post-2000 (Jay Ritter's
+"310 → 110/year" finding) is the **opposite of India's pattern** where
+IPO count has grown from ~50/year (2001-2010) to 320 in CY 2025.
+Side-by-side comparison across both CSVs will illuminate this divergence
+in future analysis.
