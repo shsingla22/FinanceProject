@@ -1,10 +1,15 @@
 """
-Plot US IPO annual statistics — counts and proceeds across 2000-2025.
+Plot US IPO annual statistics + size-segment indices across 2000-2025.
 
-Reads us_ipo_data.csv (SEC DERA source) and renders a multi-axis line
-chart with:
-  - Left axis: IPO counts (total, corporate, SPAC)
-  - Right axis: IPO gross proceeds in $ billions (total, corporate, SPAC)
+Reads:
+  - us_ipo_data.csv (SEC DERA source)
+  - sp500_data.csv, sp_midcap400_data.csv, russell2000_data.csv (Yahoo)
+
+Renders a multi-axis line chart with:
+  - Left axis (y1): IPO counts (total, corporate, SPAC, fund)
+  - Right axis (y2): IPO gross proceeds in $ billions
+  - Right axis 2 (y3): US index levels (S&P 500, S&P 400, Russell 2000)
+  - Right axis 3 (y4): US index YoY % changes
 
 Output: us_ipo_combined.png
 
@@ -21,34 +26,51 @@ HERE = Path(__file__).parent
 OUT = HERE / "us_ipo_combined.png"
 
 
-def load() -> pd.DataFrame:
-    df = pd.read_csv(HERE / "us_ipo_data.csv")
-    # Convert proceeds from $M to $B for chart readability
+def load():
+    ipo = pd.read_csv(HERE / "us_ipo_data.csv")
     for c in ["ipo_proceeds_total_usd_mn", "ipo_proceeds_corporate_usd_mn",
               "ipo_proceeds_spac_usd_mn", "ipo_proceeds_fund_usd_mn"]:
-        df[c.replace("_mn", "_bn")] = df[c] / 1000
+        ipo[c.replace("_mn", "_bn")] = ipo[c] / 1000
+
+    def load_index(csv_name, prefix):
+        df = pd.read_csv(HERE / csv_name)
+        df = df[["calendar_year", "year_end_close"]].rename(
+            columns={"year_end_close": f"{prefix}_level"})
+        df[f"{prefix}_yoy"] = (df[f"{prefix}_level"].pct_change() * 100).round(2)
+        return df
+
+    sp500 = load_index("sp500_data.csv", "sp500")
+    sp400 = load_index("sp_midcap400_data.csv", "sp400")
+    rut   = load_index("russell2000_data.csv", "rut")
+    df = ipo.merge(sp500, on="calendar_year")\
+            .merge(sp400, on="calendar_year")\
+            .merge(rut,   on="calendar_year")
     return df
 
 
-def plot(df: pd.DataFrame) -> None:
-    fig, ax_count = plt.subplots(figsize=(20, 11))
+def plot(df):
+    fig, ax_count = plt.subplots(figsize=(22, 12))
     ax_amount = ax_count.twinx()
+    ax_level  = ax_count.twinx()
+    ax_yoy    = ax_count.twinx()
+
+    # Spread the three right-side axes
+    ax_amount.spines["right"].set_position(("outward", 0))
+    ax_level.spines["right"].set_position(("outward", 80))
+    ax_yoy.spines["right"].set_position(("outward", 160))
 
     x = df["calendar_year"]
 
-    # --- Counts on left axis ---
     cnt_lines = [
         ax_count.plot(x, df["ipo_count_total"], marker="o", linewidth=2.5,
                       color="#1f77b4", label="(1) Total IPO count")[0],
         ax_count.plot(x, df["ipo_count_corporate"], marker="^", linewidth=2,
-                      color="#2ca02c", label="(2) Corporate IPO count (operating cos.)")[0],
+                      color="#2ca02c", label="(2) Corporate IPO count")[0],
         ax_count.plot(x, df["ipo_count_spac"], marker="s", linewidth=2,
                       color="#d62728", label="(3) SPAC IPO count")[0],
         ax_count.plot(x, df["ipo_count_fund"], marker="x", linewidth=1.5,
-                      color="#8c564b", label="(4) Closed-end fund / BDC IPO count")[0],
+                      color="#8c564b", label="(4) Fund / BDC IPO count")[0],
     ]
-
-    # --- Proceeds in $ billions on right axis ---
     amt_lines = [
         ax_amount.plot(x, df["ipo_proceeds_total_usd_bn"], marker="D", linewidth=2.5,
                        color="#ff7f0e", linestyle="--",
@@ -60,57 +82,74 @@ def plot(df: pd.DataFrame) -> None:
                        color="#e377c2", linestyle="--",
                        label="(7) SPAC IPO proceeds ($ B)")[0],
     ]
+    lvl_lines = [
+        ax_level.plot(x, df["sp500_level"], marker="o", linewidth=2.5,
+                      color="#003f5c", label="(8) S&P 500 close")[0],
+        ax_level.plot(x, df["sp400_level"], marker="s", linewidth=2.5,
+                      color="#bc5090", label="(9) S&P MidCap 400 close")[0],
+        ax_level.plot(x, df["rut_level"], marker="^", linewidth=2.5,
+                      color="#ff6361", label="(10) Russell 2000 close")[0],
+    ]
+    yoy_lines = [
+        ax_yoy.plot(x, df["sp500_yoy"], marker=".", linewidth=1.5,
+                    color="#003f5c", linestyle=":",
+                    label="(11) S&P 500 YoY %")[0],
+        ax_yoy.plot(x, df["sp400_yoy"], marker=".", linewidth=1.5,
+                    color="#bc5090", linestyle=":",
+                    label="(12) S&P MidCap 400 YoY %")[0],
+        ax_yoy.plot(x, df["rut_yoy"], marker=".", linewidth=1.5,
+                    color="#ff6361", linestyle=":",
+                    label="(13) Russell 2000 YoY %")[0],
+    ]
+    ax_yoy.axhline(0, color="grey", linewidth=0.5, alpha=0.4)
 
-    # --- Axes formatting ---
     ax_count.set_xlabel("Calendar year", fontsize=12)
-    ax_count.set_ylabel("Number of IPOs", color="#1f77b4", fontsize=12)
-    ax_amount.set_ylabel("Gross proceeds (US$ billions)",
-                         color="#ff7f0e", fontsize=12)
+    ax_count.set_ylabel("Number of IPOs", color="#1f77b4", fontsize=11)
+    ax_amount.set_ylabel("IPO proceeds (US$ B)", color="#ff7f0e", fontsize=11)
+    ax_level.set_ylabel("Index level (price)", color="#003f5c", fontsize=11)
+    ax_yoy.set_ylabel("Index YoY % change", color="#444", fontsize=11)
+
     ax_count.tick_params(axis="y", labelcolor="#1f77b4")
     ax_amount.tick_params(axis="y", labelcolor="#ff7f0e")
+    ax_level.tick_params(axis="y", labelcolor="#003f5c")
+    ax_yoy.tick_params(axis="y", labelcolor="#444")
 
     ax_count.set_xticks(x)
     ax_count.set_xticklabels(x, rotation=45)
     ax_count.grid(True, alpha=0.3)
 
-    # --- Annotate the two extreme years ---
+    # Annotations on extreme years
     ax_count.annotate(
-        "2021: SPAC mania peak\n1,078 IPOs / $303B",
-        xy=(2021, 1078), xytext=(2017.5, 950),
-        fontsize=10, color="#d62728",
+        "2021: SPAC mania peak\n1,078 IPOs / $303B / Russell +14%",
+        xy=(2021, 1078), xytext=(2016.5, 950),
+        fontsize=9.5, color="#d62728",
         arrowprops=dict(arrowstyle="->", color="#d62728", lw=1.2),
     )
     ax_count.annotate(
-        "2008: GFC freeze\n60 IPOs / $29B",
-        xy=(2008, 60), xytext=(2009.5, 250),
-        fontsize=10, color="#444",
+        "2008: GFC freeze\nIPOs frozen + indices -35% to -38%",
+        xy=(2008, 60), xytext=(2009.5, 280),
+        fontsize=9.5, color="#444",
         arrowprops=dict(arrowstyle="->", color="#444", lw=1.0),
     )
     ax_count.annotate(
-        "2000: dotcom peak\n459 IPOs / $84B",
-        xy=(2000, 459), xytext=(2001, 700),
-        fontsize=10, color="#444",
-        arrowprops=dict(arrowstyle="->", color="#444", lw=1.0),
-    )
-    ax_count.annotate(
-        "2022: post-Fed-hike freeze\n202 IPOs / $22B",
-        xy=(2022, 202), xytext=(2023, 450),
-        fontsize=10, color="#444",
+        "2022: Fed-hike freeze\nIPOs -93%; S&P 500 -19%; Russell -22%",
+        xy=(2022, 202), xytext=(2023, 480),
+        fontsize=9.5, color="#444",
         arrowprops=dict(arrowstyle="->", color="#444", lw=1.0),
     )
 
     fig.suptitle(
-        "U.S. IPO market — yearly counts and gross proceeds by issuer type, CY 2000-2025\n"
-        "Source: U.S. SEC Division of Economic and Risk Analysis (DERA), "
-        "Initial Public Offerings Statistics dataset (released March 17, 2026)\n"
+        "U.S. IPO market + size-segment indices — yearly view, CY 2000-2025\n"
+        "Sources: IPO data — U.S. SEC DERA (sec-stats-ipos-20260317.xlsx); "
+        "index levels — Yahoo Finance daily (^GSPC, ^MID, ^RUT)\n"
         "https://www.sec.gov/data-research/statistics-data-visualizations/initial-public-offerings-ipos",
         fontsize=12, y=0.995,
     )
 
-    lines = cnt_lines + amt_lines
+    lines = cnt_lines + amt_lines + lvl_lines + yoy_lines
     labels = [ln.get_label() for ln in lines]
-    ax_count.legend(lines, labels, loc="upper left", fontsize=10,
-                    framealpha=0.92, ncol=2)
+    ax_count.legend(lines, labels, loc="upper left", fontsize=9.5,
+                    framealpha=0.92, ncol=3)
 
     fig.tight_layout(rect=(0, 0, 1, 0.96))
     fig.savefig(OUT, dpi=150, bbox_inches="tight")

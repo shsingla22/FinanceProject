@@ -53,14 +53,15 @@
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 </head>
 <body>
-<h1>U.S. IPO market — interactive view, calendar years 2000-2025</h1>
+<h1>U.S. IPO market + size-segment indices — interactive view, calendar years 2000-2025</h1>
 <div class="subtitle">
-  IPO counts and gross proceeds by issuer type (corporate operating companies,
-  SPACs, closed-end funds / BDCs). Toggle individual series via the checkboxes
-  or the chart legend. Source:
+  IPO counts and gross proceeds by issuer type (corporate operating companies, SPACs,
+  closed-end funds / BDCs) plus year-end values and YoY % returns for the S&amp;P 500,
+  S&amp;P MidCap 400, and Russell 2000. Toggle individual series via the checkboxes or
+  the chart legend. Sources: IPO data —
   <a href="https://www.sec.gov/data-research/statistics-data-visualizations/initial-public-offerings-ipos"
-     target="_blank">U.S. SEC Division of Economic and Risk Analysis (DERA)</a>,
-  IPO Statistics dataset (release of March 17, 2026).
+     target="_blank">U.S. SEC DERA</a> (release of March 17, 2026); index levels —
+  Yahoo Finance daily (cross-checked vs FRED for S&amp;P 500 over its 10-year licensing window).
 </div>
 
 <div class="controls">
@@ -88,6 +89,8 @@
     <button onclick="setPresetProceeds()">Show proceeds only</button>
     <button onclick="setPresetCorporate()">Corporate only</button>
     <button onclick="setPresetSpac()">SPAC only</button>
+    <button onclick="setPresetIndices()">Indices only</button>
+    <button onclick="setPresetIndexYoy()">Index YoY only</button>
     <button onclick="setDefault()">Default</button>
   </div>
 </div>
@@ -497,6 +500,36 @@ const DATA = {
     null, null, null, null, null, null, null, null, null, null,
     null, null, null, null, null, null, null, null, null, null,
     null, null, null, null, null, null
+  ],
+  "sp500_level": [
+    1320.28, 1148.08, 879.82, 1111.92, 1211.92, 1248.29, 1418.30, 1468.36, 903.25, 1115.10,
+    1257.64, 1257.60, 1426.19, 1848.36, 2058.90, 2043.94, 2238.83, 2673.61, 2506.85, 3230.78,
+    3756.07, 4766.18, 3839.50, 4769.83, 5881.63, 6845.50
+  ],
+  "sp500_yoy": [
+    null, -13.04, -23.37, 26.38, 8.99, 3.00, 13.62, 3.53, -38.49, 23.45,
+    12.78, 0.00, 13.41, 29.60, 11.39, -0.73, 9.54, 19.42, -6.24, 28.88,
+    16.26, 26.89, -19.44, 24.23, 23.31, 16.39
+  ],
+  "sp400_level": [
+    516.74, 508.31, 429.79, 576.01, 663.31, 738.05, 804.37, 858.20, 538.28, 726.67,
+    907.25, 879.16, 1020.43, 1342.53, 1452.44, 1398.58, 1660.58, 1900.57, 1663.04, 2063.02,
+    2306.62, 2842.00, 2430.38, 2781.54, 3120.94, 3305.14
+  ],
+  "sp400_yoy": [
+    null, -1.63, -15.45, 34.02, 15.16, 11.27, 8.99, 6.69, -37.28, 35.00,
+    24.85, -3.10, 16.07, 31.57, 8.19, -3.71, 18.73, 14.45, -12.50, 24.05,
+    11.81, 23.21, -14.48, 14.45, 12.20, 5.90
+  ],
+  "rut_level": [
+    483.53, 488.50, 383.09, 556.91, 651.57, 673.22, 787.66, 766.03, 499.45, 625.39,
+    783.65, 740.92, 849.35, 1163.64, 1204.70, 1135.89, 1357.13, 1535.51, 1348.56, 1668.47,
+    1974.86, 2245.31, 1761.25, 2027.07, 2230.16, 2481.91
+  ],
+  "rut_yoy": [
+    null, 1.03, -21.58, 45.37, 17.00, 3.32, 17.00, -2.75, -34.80, 25.22,
+    25.31, -5.45, 14.63, 37.00, 3.53, -5.71, 19.48, 13.14, -12.18, 23.72,
+    18.36, 13.69, -21.56, 15.09, 10.02, 11.29
   ]
 };
 const YRS = DATA.years;
@@ -573,14 +606,54 @@ const SERIES = [
       line:{color:'#c5b0d5', width:1.5, dash:'dot'}, yaxis:'y3',
       hovertemplate: '%{x}: <b>$%{y:.1f}M</b><extra>Median deal</extra>' },
     swatch:'dashed', color:'#c5b0d5', defaultOn:false },
+
+  // US index levels -> y4 (right axis, position 1.12)
+  { id:'sp500_lvl', label:'(13) S&P 500 year-end close', cat:'Index level',
+    trace: { name:'(13) S&P 500 close', x:YRS, y:DATA.sp500_level,
+      mode:'lines+markers', marker:{symbol:'circle', size:6},
+      line:{color:'#003f5c', width:2.5}, yaxis:'y4',
+      hovertemplate: '%{x}: <b>%{y:,.2f}</b><extra>S&P 500</extra>' },
+    swatch:'solid', color:'#003f5c', defaultOn:true },
+  { id:'sp400_lvl', label:'(14) S&P MidCap 400 year-end close', cat:'Index level',
+    trace: { name:'(14) S&P MidCap 400 close', x:YRS, y:DATA.sp400_level,
+      mode:'lines+markers', marker:{symbol:'square', size:6},
+      line:{color:'#bc5090', width:2.5}, yaxis:'y4',
+      hovertemplate: '%{x}: <b>%{y:,.2f}</b><extra>S&P 400</extra>' },
+    swatch:'solid', color:'#bc5090', defaultOn:true },
+  { id:'rut_lvl', label:'(15) Russell 2000 year-end close', cat:'Index level',
+    trace: { name:'(15) Russell 2000 close', x:YRS, y:DATA.rut_level,
+      mode:'lines+markers', marker:{symbol:'triangle-up', size:6},
+      line:{color:'#ff6361', width:2.5}, yaxis:'y4',
+      hovertemplate: '%{x}: <b>%{y:,.2f}</b><extra>Russell 2000</extra>' },
+    swatch:'solid', color:'#ff6361', defaultOn:true },
+
+  // US index YoY % -> y5 (right axis, position 1.18)
+  { id:'sp500_yoy', label:'(16) S&P 500 YoY %', cat:'Index YoY %',
+    trace: { name:'(16) S&P 500 YoY %', x:YRS, y:DATA.sp500_yoy,
+      mode:'lines+markers', marker:{symbol:'circle-open', size:5},
+      line:{color:'#003f5c', width:1.5, dash:'dash'}, yaxis:'y5',
+      hovertemplate: '%{x}: <b>%{y:+.2f}%</b><extra>S&P 500 YoY</extra>' },
+    swatch:'dashed', color:'#003f5c', defaultOn:false },
+  { id:'sp400_yoy', label:'(17) S&P MidCap 400 YoY %', cat:'Index YoY %',
+    trace: { name:'(17) S&P MidCap 400 YoY %', x:YRS, y:DATA.sp400_yoy,
+      mode:'lines+markers', marker:{symbol:'square-open', size:5},
+      line:{color:'#bc5090', width:1.5, dash:'dash'}, yaxis:'y5',
+      hovertemplate: '%{x}: <b>%{y:+.2f}%</b><extra>S&P 400 YoY</extra>' },
+    swatch:'dashed', color:'#bc5090', defaultOn:false },
+  { id:'rut_yoy', label:'(18) Russell 2000 YoY %', cat:'Index YoY %',
+    trace: { name:'(18) Russell 2000 YoY %', x:YRS, y:DATA.rut_yoy,
+      mode:'lines+markers', marker:{symbol:'triangle-up-open', size:5},
+      line:{color:'#ff6361', width:1.5, dash:'dash'}, yaxis:'y5',
+      hovertemplate: '%{x}: <b>%{y:+.2f}%</b><extra>Russell 2000 YoY</extra>' },
+    swatch:'dashed', color:'#ff6361', defaultOn:false },
 ];
 
 const MAIN_TRACES = SERIES.map(s => ({...s.trace, visible: s.defaultOn ? true : 'legendonly'}));
 
 const MAIN_LAYOUT = {
-  margin: { l: 70, r: 220, t: 10, b: 70 },
+  margin: { l: 70, r: 320, t: 10, b: 70 },
   hovermode: 'x unified',
-  legend: { x: 1.10, y: 1, font: {size: 11}, xanchor: 'left',
+  legend: { x: 1.22, y: 1, font: {size: 11}, xanchor: 'left',
             bgcolor: '#ffffff', bordercolor: '#dddddd', borderwidth: 1 },
   xaxis: {
     title: { text: 'Calendar year', font:{size:12} },
@@ -601,6 +674,17 @@ const MAIN_LAYOUT = {
     title: { text: 'Avg / median deal size ($ M)', font:{color:'#666', size:12}, standoff: 6 },
     tickfont: {color:'#666', size:11},
     overlaying: 'y', side: 'right', anchor: 'free', position: 1.06,
+  },
+  yaxis4: {
+    title: { text: 'Index level (price)', font:{color:'#003f5c', size:12}, standoff: 6 },
+    tickfont: {color:'#003f5c', size:11},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.12,
+  },
+  yaxis5: {
+    title: { text: 'Index YoY %', font:{color:'#444', size:12}, standoff: 6 },
+    tickfont: {color:'#444', size:11},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.18,
+    zeroline: true, zerolinecolor: '#ccc',
   },
   annotations: [
     { x: 2021, y: 1078, xref:'x', yref:'y', ax: -60, ay: -40,
@@ -630,7 +714,7 @@ Plotly.newPlot('main_chart', MAIN_TRACES, MAIN_LAYOUT, CONFIG);
 function buildSeriesPanel() {
   const root = document.getElementById('seriesGroups');
   root.innerHTML = '';
-  const cats = ['Counts', 'Counts (by domicile)', 'Proceeds', 'Deal size'];
+  const cats = ['Counts', 'Counts (by domicile)', 'Proceeds', 'Deal size', 'Index level', 'Index YoY %'];
   for (const cat of cats) {
     const grp = document.createElement('div');
     grp.className = 'series-group';
@@ -698,6 +782,8 @@ function setPresetCounts()    { setOnlyCats(['Counts']); }
 function setPresetProceeds()  { setOnlyCats(['Proceeds']); }
 function setPresetCorporate() { setOnlyIds(['cnt_corp', 'amt_corp']); }
 function setPresetSpac()      { setOnlyIds(['cnt_spac', 'amt_spac']); }
+function setPresetIndices()   { setOnlyCats(['Index level']); }
+function setPresetIndexYoy()  { setOnlyCats(['Index YoY %']); }
 function setDefault() {
   SERIES.forEach((s, i) => {
     const v = s.defaultOn ? true : 'legendonly';
