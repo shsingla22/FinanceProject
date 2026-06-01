@@ -1,0 +1,8 @@
+calendar_year,year_end_date,year_end_close_inr_per_usd,note
+2020,2020-12-31,73.1340,Last trading day of CY 2020 close
+2021,2021-12-31,74.4312,Last trading day of CY 2021 close
+2022,2022-12-30,82.8351,30-Dec was the last NSE/forex trading day of CY 2022
+2023,2023-12-29,82.3020,29-Dec was the last forex trading day of CY 2023 (Dec 30/31 weekend)
+2024,2024-12-31,85.7866,Last trading day of CY 2024 close
+2025,2025-12-31,89.7694,Last trading day of CY 2025 close
+2026,2026-06-01,94.9900,Latest available close (year ongoing — value as of preparation date 01-Jun-2026)
