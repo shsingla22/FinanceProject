@@ -1,15 +1,17 @@
 """
-Plot US IPO annual statistics + size-segment indices across 2000-2025.
+Plot US IPO annual statistics + size-segment indices + USD Index across 2000-2025.
 
 Reads:
   - us_ipo_data.csv (SEC DERA source)
   - sp500_data.csv, sp_midcap400_data.csv, russell2000_data.csv (Yahoo)
+  - usd_index_data.csv (Yahoo DX-Y.NYB; ICE/NYBOT DXY)
 
 Renders a multi-axis line chart with:
-  - Left axis (y1): IPO counts (total, corporate, SPAC, fund)
-  - Right axis (y2): IPO gross proceeds in $ billions
-  - Right axis 2 (y3): US index levels (S&P 500, S&P 400, Russell 2000)
-  - Right axis 3 (y4): US index YoY % changes
+  - Left axis (y1):     IPO counts
+  - Right axis (y2):    IPO gross proceeds in $ billions
+  - Right axis 2 (y3):  US index levels
+  - Right axis 3 (y4):  US index + DXY YoY %
+  - Right axis 4 (y5):  DXY level
 
 Output: us_ipo_combined.png
 
@@ -42,22 +44,28 @@ def load():
     sp500 = load_index("sp500_data.csv", "sp500")
     sp400 = load_index("sp_midcap400_data.csv", "sp400")
     rut   = load_index("russell2000_data.csv", "rut")
+    dxy   = pd.read_csv(HERE / "usd_index_data.csv")[
+        ["calendar_year", "dxy_close", "dxy_yoy_pct"]].rename(
+        columns={"dxy_close": "dxy_level", "dxy_yoy_pct": "dxy_yoy"})
     df = ipo.merge(sp500, on="calendar_year")\
             .merge(sp400, on="calendar_year")\
-            .merge(rut,   on="calendar_year")
+            .merge(rut,   on="calendar_year")\
+            .merge(dxy,   on="calendar_year")
     return df
 
 
 def plot(df):
-    fig, ax_count = plt.subplots(figsize=(22, 12))
+    fig, ax_count = plt.subplots(figsize=(24, 12))
     ax_amount = ax_count.twinx()
     ax_level  = ax_count.twinx()
     ax_yoy    = ax_count.twinx()
+    ax_dxy    = ax_count.twinx()
 
-    # Spread the three right-side axes
+    # Spread the four right-side axes
     ax_amount.spines["right"].set_position(("outward", 0))
     ax_level.spines["right"].set_position(("outward", 80))
     ax_yoy.spines["right"].set_position(("outward", 160))
+    ax_dxy.spines["right"].set_position(("outward", 240))
 
     x = df["calendar_year"]
 
@@ -100,19 +108,30 @@ def plot(df):
         ax_yoy.plot(x, df["rut_yoy"], marker=".", linewidth=1.5,
                     color="#ff6361", linestyle=":",
                     label="(13) Russell 2000 YoY %")[0],
+        ax_yoy.plot(x, df["dxy_yoy"], marker=".", linewidth=1.5,
+                    color="#5a189a", linestyle=":",
+                    label="(14) US Dollar Index (DXY) YoY %")[0],
     ]
     ax_yoy.axhline(0, color="grey", linewidth=0.5, alpha=0.4)
+
+    dxy_lines = [
+        ax_dxy.plot(x, df["dxy_level"], marker="h", linewidth=2.5,
+                    color="#5a189a",
+                    label="(15) US Dollar Index (DXY) close")[0],
+    ]
 
     ax_count.set_xlabel("Calendar year", fontsize=12)
     ax_count.set_ylabel("Number of IPOs", color="#1f77b4", fontsize=11)
     ax_amount.set_ylabel("IPO proceeds (US$ B)", color="#ff7f0e", fontsize=11)
     ax_level.set_ylabel("Index level (price)", color="#003f5c", fontsize=11)
-    ax_yoy.set_ylabel("Index YoY % change", color="#444", fontsize=11)
+    ax_yoy.set_ylabel("Index / DXY YoY % change", color="#444", fontsize=11)
+    ax_dxy.set_ylabel("DXY (USD Index level)", color="#5a189a", fontsize=11)
 
     ax_count.tick_params(axis="y", labelcolor="#1f77b4")
     ax_amount.tick_params(axis="y", labelcolor="#ff7f0e")
     ax_level.tick_params(axis="y", labelcolor="#003f5c")
     ax_yoy.tick_params(axis="y", labelcolor="#444")
+    ax_dxy.tick_params(axis="y", labelcolor="#5a189a")
 
     ax_count.set_xticks(x)
     ax_count.set_xticklabels(x, rotation=45)
@@ -139,14 +158,14 @@ def plot(df):
     )
 
     fig.suptitle(
-        "U.S. IPO market + size-segment indices — yearly view, CY 2000-2025\n"
+        "U.S. IPO market + size-segment indices + USD Index — yearly view, CY 2000-2025\n"
         "Sources: IPO data — U.S. SEC DERA (sec-stats-ipos-20260317.xlsx); "
-        "index levels — Yahoo Finance daily (^GSPC, ^MID, ^RUT)\n"
+        "indices & DXY — Yahoo Finance daily (^GSPC, ^MID, ^RUT, DX-Y.NYB)\n"
         "https://www.sec.gov/data-research/statistics-data-visualizations/initial-public-offerings-ipos",
         fontsize=12, y=0.995,
     )
 
-    lines = cnt_lines + amt_lines + lvl_lines + yoy_lines
+    lines = cnt_lines + amt_lines + lvl_lines + yoy_lines + dxy_lines
     labels = [ln.get_label() for ln in lines]
     ax_count.legend(lines, labels, loc="upper left", fontsize=9.5,
                     framealpha=0.92, ncol=3)

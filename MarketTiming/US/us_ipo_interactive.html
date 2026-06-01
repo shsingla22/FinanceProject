@@ -53,15 +53,16 @@
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 </head>
 <body>
-<h1>U.S. IPO market + size-segment indices — interactive view, calendar years 2000-2025</h1>
+<h1>U.S. IPO market + size-segment indices + USD Index — interactive view, CY 2000-2025</h1>
 <div class="subtitle">
   IPO counts and gross proceeds by issuer type (corporate operating companies, SPACs,
   closed-end funds / BDCs) plus year-end values and YoY % returns for the S&amp;P 500,
-  S&amp;P MidCap 400, and Russell 2000. Toggle individual series via the checkboxes or
-  the chart legend. Sources: IPO data —
+  S&amp;P MidCap 400, Russell 2000, and the U.S. Dollar Index (DXY). Toggle individual
+  series via the checkboxes or the chart legend. Sources: IPO data —
   <a href="https://www.sec.gov/data-research/statistics-data-visualizations/initial-public-offerings-ipos"
-     target="_blank">U.S. SEC DERA</a> (release of March 17, 2026); index levels —
-  Yahoo Finance daily (cross-checked vs FRED for S&amp;P 500 over its 10-year licensing window).
+     target="_blank">U.S. SEC DERA</a> (release of March 17, 2026); index levels &amp; DXY —
+  Yahoo Finance daily (DXY symbol: <code>DX-Y.NYB</code> from ICE/NYBOT; cross-reference
+  in FRED is <code>DTWEXBGS</code>).
 </div>
 
 <div class="controls">
@@ -91,6 +92,7 @@
     <button onclick="setPresetSpac()">SPAC only</button>
     <button onclick="setPresetIndices()">Indices only</button>
     <button onclick="setPresetIndexYoy()">Index YoY only</button>
+    <button onclick="setPresetDxy()">USD Index only</button>
     <button onclick="setDefault()">Default</button>
   </div>
 </div>
@@ -530,6 +532,16 @@ const DATA = {
     null, 1.03, -21.58, 45.37, 17.00, 3.32, 17.00, -2.75, -34.80, 25.22,
     25.31, -5.45, 14.63, 37.00, 3.53, -5.71, 19.48, 13.14, -12.18, 23.72,
     18.36, 13.69, -21.56, 15.09, 10.02, 11.29
+  ],
+  "dxy_level": [
+    109.56, 116.75, 101.85, 86.92, 80.85, 91.17, 83.72, 76.70, 81.31, 77.86,
+    79.03, 80.17, 79.77, 80.04, 90.27, 98.63, 102.39, 92.12, 96.17, 96.39,
+    89.94, 95.67, 103.52, 101.33, 108.49, 98.28
+  ],
+  "dxy_yoy": [
+    null, 6.56, -12.76, -14.66, -6.98, 12.76, -8.17, -8.39, 6.01, -4.24,
+    1.50, 1.44, -0.50, 0.34, 12.78, 9.26, 3.81, -10.03, 4.40, 0.23,
+    -6.69, 6.37, 8.21, -2.12, 7.07, -9.41
   ]
 };
 const YRS = DATA.years;
@@ -646,14 +658,28 @@ const SERIES = [
       line:{color:'#ff6361', width:1.5, dash:'dash'}, yaxis:'y5',
       hovertemplate: '%{x}: <b>%{y:+.2f}%</b><extra>Russell 2000 YoY</extra>' },
     swatch:'dashed', color:'#ff6361', defaultOn:false },
+
+  // US Dollar Index (DXY) -> y6 for level, y5 for YoY %
+  { id:'dxy_lvl', label:'(19) US Dollar Index (DXY) close', cat:'USD Index',
+    trace: { name:'(19) DXY close', x:YRS, y:DATA.dxy_level,
+      mode:'lines+markers', marker:{symbol:'hexagon', size:7},
+      line:{color:'#5a189a', width:2.5}, yaxis:'y6',
+      hovertemplate: '%{x}: <b>%{y:.2f}</b><extra>DXY close</extra>' },
+    swatch:'solid', color:'#5a189a', defaultOn:true },
+  { id:'dxy_yoy', label:'(20) DXY YoY %', cat:'USD Index',
+    trace: { name:'(20) DXY YoY %', x:YRS, y:DATA.dxy_yoy,
+      mode:'lines+markers', marker:{symbol:'hexagon-open', size:6},
+      line:{color:'#5a189a', width:1.5, dash:'dash'}, yaxis:'y5',
+      hovertemplate: '%{x}: <b>%{y:+.2f}%</b><extra>DXY YoY</extra>' },
+    swatch:'dashed', color:'#5a189a', defaultOn:false },
 ];
 
 const MAIN_TRACES = SERIES.map(s => ({...s.trace, visible: s.defaultOn ? true : 'legendonly'}));
 
 const MAIN_LAYOUT = {
-  margin: { l: 70, r: 320, t: 10, b: 70 },
+  margin: { l: 70, r: 380, t: 10, b: 70 },
   hovermode: 'x unified',
-  legend: { x: 1.22, y: 1, font: {size: 11}, xanchor: 'left',
+  legend: { x: 1.28, y: 1, font: {size: 11}, xanchor: 'left',
             bgcolor: '#ffffff', bordercolor: '#dddddd', borderwidth: 1 },
   xaxis: {
     title: { text: 'Calendar year', font:{size:12} },
@@ -681,10 +707,15 @@ const MAIN_LAYOUT = {
     overlaying: 'y', side: 'right', anchor: 'free', position: 1.12,
   },
   yaxis5: {
-    title: { text: 'Index YoY %', font:{color:'#444', size:12}, standoff: 6 },
+    title: { text: 'Index / DXY YoY %', font:{color:'#444', size:12}, standoff: 6 },
     tickfont: {color:'#444', size:11},
     overlaying: 'y', side: 'right', anchor: 'free', position: 1.18,
     zeroline: true, zerolinecolor: '#ccc',
+  },
+  yaxis6: {
+    title: { text: 'DXY (USD Index level)', font:{color:'#5a189a', size:12}, standoff: 6 },
+    tickfont: {color:'#5a189a', size:11},
+    overlaying: 'y', side: 'right', anchor: 'free', position: 1.24,
   },
   annotations: [
     { x: 2021, y: 1078, xref:'x', yref:'y', ax: -60, ay: -40,
@@ -714,7 +745,7 @@ Plotly.newPlot('main_chart', MAIN_TRACES, MAIN_LAYOUT, CONFIG);
 function buildSeriesPanel() {
   const root = document.getElementById('seriesGroups');
   root.innerHTML = '';
-  const cats = ['Counts', 'Counts (by domicile)', 'Proceeds', 'Deal size', 'Index level', 'Index YoY %'];
+  const cats = ['Counts', 'Counts (by domicile)', 'Proceeds', 'Deal size', 'Index level', 'Index YoY %', 'USD Index'];
   for (const cat of cats) {
     const grp = document.createElement('div');
     grp.className = 'series-group';
@@ -784,6 +815,7 @@ function setPresetCorporate() { setOnlyIds(['cnt_corp', 'amt_corp']); }
 function setPresetSpac()      { setOnlyIds(['cnt_spac', 'amt_spac']); }
 function setPresetIndices()   { setOnlyCats(['Index level']); }
 function setPresetIndexYoy()  { setOnlyCats(['Index YoY %']); }
+function setPresetDxy()       { setOnlyCats(['USD Index']); }
 function setDefault() {
   SERIES.forEach((s, i) => {
     const v = s.defaultOn ? true : 'legendonly';
