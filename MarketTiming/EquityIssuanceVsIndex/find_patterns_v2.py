@@ -216,6 +216,73 @@ def build_signals(df):
             (df["n50_pe_n"] < 17) & (df["ipo_amt_yoy"] < 0) & (df["ib_basket_yoy"] < 0)),
     ]
 
+    # --- Section G: INR-STRENGTHENING signals (NEW — granular thresholds) ---
+    sig += [
+        ("INR strengthens (USD/INR YoY < -2%)",   df["usd_inr_yoy"] < -2),
+        ("INR strengthens > -3% YoY",             df["usd_inr_yoy"] < -3),
+        ("INR strengthens > -10% YoY (extreme)",  df["usd_inr_yoy"] < -10),
+        ("INR strengthens AND IPO amt > 20,000 cr",
+            (df["usd_inr_yoy"] < 0) & (df["ipo_amt"] > 20000)),
+        ("INR strengthens AND IPO amt YoY > +100%",
+            (df["usd_inr_yoy"] < 0) & (df["ipo_amt_yoy"] > 100)),
+        ("INR strengthens AND Nifty 50 P/E > 22",
+            (df["usd_inr_yoy"] < 0) & (df["n50_pe_n"] > 22)),
+        ("INR strengthens AND Nifty 50 P/E > 25 (stretched + appreciation)",
+            (df["usd_inr_yoy"] < 0) & (df["n50_pe_n"] > 25)),
+        ("INR strengthens 2 consecutive years",
+            (df["usd_inr_yoy"] < 0) & (df["usd_inr_yoy"].shift(1) < 0)),
+        ("INR strengthens AND prior year was INR weak (>+5%)",
+            (df["usd_inr_yoy"] < 0) & (df["usd_inr_yoy"].shift(1) > 5)),
+        ("INR strengthens AND I-bank basket UP",
+            (df["usd_inr_yoy"] < 0) & (df["ib_basket_yoy"] > 0)),
+    ]
+
+    # --- Section H: SMALLCAP-FOCUSED signals (NEW — dedicated smallcap analysis) ---
+    sig += [
+        # Smallcap valuation buckets (more granular than v1)
+        ("Smallcap P/E (norm) < 20 (very cheap)",  df["sc_pe_n"] < 20),
+        ("Smallcap P/E (norm) < 30",               df["sc_pe_n"] < 30),
+        ("Smallcap P/E (norm) > 30",               df["sc_pe_n"] > 30),
+        ("Smallcap P/E (norm) > 45 (extreme high)", df["sc_pe_n"] > 45),
+        # Smallcap momentum / drawdowns
+        ("Smallcap YoY > +40% (rally year)",       df["sc_yoy"] > 40),
+        ("Smallcap YoY > +50%",                    df["sc_yoy"] > 50),
+        ("Smallcap YoY < -10% (drawdown)",         df["sc_yoy"] < -10),
+        ("Smallcap YoY < -20% (sharp drawdown)",   df["sc_yoy"] < -20),
+        ("Smallcap YoY between -5% and +5% (sideways)",
+            (df["sc_yoy"] > -5) & (df["sc_yoy"] < 5)),
+        # Smallcap P/E vs Midcap P/E spread
+        ("Smallcap P/E > Midcap P/E (SC premium)", df["sc_pe_n"] > df["mc_pe_n"]),
+        ("Smallcap P/E < Midcap P/E (SC discount)", df["sc_pe_n"] < df["mc_pe_n"]),
+        ("Smallcap-Midcap P/E spread > 5",
+            (df["sc_pe_n"] - df["mc_pe_n"]) > 5),
+        ("Smallcap-Midcap P/E spread < -5 (deep SC discount)",
+            (df["sc_pe_n"] - df["mc_pe_n"]) < -5),
+        # Smallcap-specific INR combinations
+        ("Smallcap P/E < 30 AND INR depreciating > +5%",
+            (df["sc_pe_n"] < 30) & (df["usd_inr_yoy"] > 5)),
+        ("Smallcap P/E < 30 AND INR strengthening",
+            (df["sc_pe_n"] < 30) & (df["usd_inr_yoy"] < 0)),
+        # Smallcap rally / drawdown + valuation context
+        ("Smallcap YoY < -10% AND Smallcap P/E < 30 (capitulation)",
+            (df["sc_yoy"] < -10) & (df["sc_pe_n"] < 30)),
+        ("Smallcap YoY > +40% AND Smallcap P/E > 35 (parabolic)",
+            (df["sc_yoy"] > 40) & (df["sc_pe_n"] > 35)),
+        # Smallcap + IPO
+        ("Smallcap YoY < -10% AND IPO amt YoY < 0",
+            (df["sc_yoy"] < -10) & (df["ipo_amt_yoy"] < 0)),
+        ("IPO amt > 50,000 cr AND Smallcap YoY < 0 (supply-pressure)",
+            (df["ipo_amt"] > 50000) & (df["sc_yoy"] < 0)),
+        # Smallcap + I-bank
+        ("Smallcap YoY < 0 AND I-bank basket < 0",
+            (df["sc_yoy"] < 0) & (df["ib_basket_yoy"] < 0)),
+        ("Smallcap YoY > +40% AND I-bank > +100%",
+            (df["sc_yoy"] > 40) & (df["ib_basket_yoy"] > 100)),
+        # Smallcap drawdown + INR shock (the perfect capitulation?)
+        ("Smallcap YoY < -10% AND INR depreciates > +5%",
+            (df["sc_yoy"] < -10) & (df["usd_inr_yoy"] > 5)),
+    ]
+
     return sig
 
 
@@ -309,6 +376,67 @@ def main():
             sample_years=("year", lambda x: list(x.astype(int))),
         ).round(1)
         print(grp.to_string())
+
+    # USD/INR YoY quartile -> next-year SMALLCAP and MIDCAP
+    print("\n\n=== USD/INR YOY QUARTILE -> NEXT-YEAR SMALLCAP & MIDCAP ===")
+    for outcome_col in ["sc_fwd1", "mc_fwd1", "sc_fwd2", "mc_fwd2"]:
+        sub = df[["usd_inr_yoy", outcome_col, "year"]].dropna()
+        if len(sub) >= 8:
+            sub = sub.copy()
+            sub["q"] = pd.qcut(sub["usd_inr_yoy"], q=4,
+                               labels=["Q1 INR strong", "Q2", "Q3", "Q4 INR weak"])
+            grp = sub.groupby("q", observed=False).agg(
+                n=("year", "count"),
+                avg=(outcome_col, "mean"),
+                pos_rate=(outcome_col, lambda x: (x > 0).mean() * 100),
+                sample_years=("year", lambda x: list(x.astype(int))),
+            ).round(1)
+            print(f"\n{outcome_col} (n={len(sub)} total):")
+            print(grp.to_string())
+
+    # SMALLCAP P/E quartile -> forward SMALLCAP
+    print("\n\n=== SMALLCAP P/E QUARTILE -> NEXT-YEAR SMALLCAP RETURN ===")
+    sub = df[["sc_pe_n", "sc_fwd1", "year"]].dropna()
+    if len(sub) >= 8:
+        sub = sub.copy()
+        sub["q"] = pd.qcut(sub["sc_pe_n"], q=4,
+                           labels=["Q1 cheap", "Q2", "Q3", "Q4 stretched"])
+        grp = sub.groupby("q", observed=False).agg(
+            n=("year", "count"),
+            avg_fwd1=("sc_fwd1", "mean"),
+            pos_rate=("sc_fwd1", lambda x: (x > 0).mean() * 100),
+            sample_years=("year", lambda x: list(x.astype(int))),
+        ).round(1)
+        print(grp.to_string())
+
+    # SMALLCAP YoY quartile -> next-year SMALLCAP (mean reversion test)
+    print("\n\n=== SMALLCAP YOY QUARTILE -> NEXT-YEAR SMALLCAP (MEAN REVERSION?) ===")
+    sub = df[["sc_yoy", "sc_fwd1", "year"]].dropna()
+    if len(sub) >= 8:
+        sub = sub.copy()
+        sub["q"] = pd.qcut(sub["sc_yoy"], q=4,
+                           labels=["Q1 drawdown", "Q2", "Q3", "Q4 rally"])
+        grp = sub.groupby("q", observed=False).agg(
+            n=("year", "count"),
+            avg_fwd1=("sc_fwd1", "mean"),
+            pos_rate=("sc_fwd1", lambda x: (x > 0).mean() * 100),
+            sample_years=("year", lambda x: list(x.astype(int))),
+        ).round(1)
+        print(grp.to_string())
+
+    # INR-STRENGTHENING DRILL-DOWN: every year USD/INR YoY < 0
+    print("\n\n=== INR-STRENGTHENING YEAR-BY-YEAR DRILL-DOWN ===")
+    sub = df[df["usd_inr_yoy"] < 0][["year", "usd_inr", "usd_inr_yoy",
+        "n50_yoy", "sc_yoy", "mc_yoy",
+        "n50_fwd1", "sc_fwd1", "mc_fwd1", "ib_basket_yoy"]].round(2)
+    print(sub.to_string(index=False))
+
+    # SMALLCAP DRAWDOWN BOUNCE: years where sc_yoy < -10%
+    print("\n\n=== SMALLCAP DRAWDOWN YEAR-BY-YEAR DRILL-DOWN ===")
+    sub = df[df["sc_yoy"] < -10][["year", "sc", "sc_yoy", "sc_pe_n",
+        "usd_inr_yoy", "ipo_amt_yoy", "ib_basket_yoy",
+        "sc_fwd1", "sc_fwd2"]].round(2)
+    print(sub.to_string(index=False))
 
 
 if __name__ == "__main__":

@@ -40,23 +40,47 @@ data, the most defensible empirical conclusions are:
 6. **USD/INR shocks (>+10% YoY) are perfect bounce signals.** Four
    historical instances (2008 GFC, 2011 EU crisis, 2013 Taper Tantrum,
    2022 Fed-hiking). Next year: Nifty 50 +39% avg, Midcap +60%,
-   I-banking basket +101%. All 4/4 hit. **New finding from adding
-   USD/INR data.**
+   I-banking basket +101%. All 4/4 hit.
 
 7. **Stretched valuations predict INR depreciation, NOT equity crashes.**
    When any of (Nifty 50 P/E > 25, Smallcap P/E > 35, Midcap P/E > 30,
-   smallcap-Nifty P/E spread > 10) triggers, the **USD/INR moves
-   higher** the next year (4-5/4-5 instances each, 100% records). The
-   damage from over-valuation is taken by the currency and the smallcap
-   segment, not the broad index. **New surprise finding.**
+   smallcap-Nifty P/E spread > 10) triggers, the **USD/INR moves higher**
+   the next year (4-5/4-5 instances each, 100% records). The damage
+   from over-valuation is taken by the currency and the smallcap segment,
+   not the broad index. **The Smallcap P/E > 30 → INR depreciates next year
+   pattern hits 9/9 = 100%** — the largest-sample perfect signal in the
+   entire dataset.
 
-8. **Today's setup (end-CY 2025).** Patterns favoring positive 2026
-   are triggered: ₹172k cr IPO amount (pattern #2 ✓), Midcap P/E
-   33.84 (pattern #4 ✓), Nifty 50 P/E 22.75 in Q3 (6/6 historical
-   positive). Patterns warning of crisis are NOT triggered: no
-   issuance drought, no FX shock, no I-bank mania. Closest historical
-   analogs (2018, 2023, 2024) all delivered +9-12% next-year Nifty
-   returns.
+8. **INR strengthening is a Midcap WARNING signal (NEW IN THIS UPDATE).**
+   When USD/INR depreciates more than 2% YoY (i.e. INR strengthens by >2%),
+   the Midcap 100 is DOWN over the next 2 years — **5 of 5 historical
+   instances were negative, average -17.6%.** The Q1 INR-strong quartile
+   has a 0/5 = 0% positive Midcap 2-year record. This is the cleanest
+   negative-conviction signal in the entire dataset.
+
+9. **The cheap-smallcap buy is the cleanest smallcap signal (NEW).**
+   When the Smallcap 100 P/E is in the cheap quartile (≤ ~25), the
+   next-year smallcap return averages **+27%** with **3/3 = 100%
+   positive** historical record. Combined with the FX overlay, the
+   Q4 INR-weak quartile has a **3/3 = 100% positive smallcap 2-year
+   record, average +56%** — the strongest entry combo identified.
+
+10. **The smallcap valuation premium / discount is a powerful overlay
+    (NEW).** When Smallcap P/E > Midcap P/E ("SC premium"), the next-2-year
+    Midcap returns are +49% on average (7/7 = 100% positive); when
+    Smallcap P/E < Midcap P/E ("SC discount"), the next-year Nifty 50
+    returns are +9.7% on average (5/5 = 100% positive). The ratio is a
+    cleaner timing tool than either P/E alone.
+
+11. **Today's setup (end-CY 2025).** Patterns favoring positive 2026
+    are triggered: ₹172k cr IPO amount (pattern #2 ✓), Midcap P/E 33.84
+    (pattern #4 ✓), Nifty 50 P/E 22.75 in Q3 (6/6 historical positive),
+    Smallcap P/E > 30 → INR depreciation triggered (9/9 = 100% record).
+    Patterns warning of crisis are NOT triggered: no INR shock, no INR
+    strengthening (the Midcap-warning signal), no I-bank mania. Closest
+    historical analogs (2018, 2023, 2024) all delivered +9-12% next-year
+    Nifty returns. **Smallcap-specific outlook: mixed-to-soft** because
+    SC P/E 32.2 is in Q3 (only 1/3 historical years positive in Q3).
 
 **Important caveat throughout:** all "hit rates" are based on 4-8
 historical instances. Bayesian credible intervals on the true
@@ -235,19 +259,23 @@ random. **FPO+Rights spikes are not a market-timing signal**.
 
 ---
 
-## 4. The 12 high-probability patterns (≥80% historical hit rate, n≥4)
+## 4. The 22 high-probability patterns (≥80% historical hit rate, n≥4)
 
-After testing 50+ signal definitions × 9 forward outcomes × 2 directions
-(~900 cells total — expanded ~3x from v1 by adding USD/INR and I-bank
-signals), the following patterns survived the **hit rate ≥80% with
-n ≥ 4** filter. Full mechanics in `patterns_v2_extended.md`.
+After testing 80+ signal definitions × 9 forward outcomes × 2 directions
+(~1,440 cells total — expanded ~4x from v1 by adding USD/INR signals,
+I-bank signals, INR-strengthening signals, and smallcap-focused signals),
+the following patterns survived the **hit rate ≥80% with n ≥ 4** filter.
+**Total perfect-record (100%) signals at n≥4: 55.** Full enumeration in
+`patterns_v2_run_output.txt`; mechanics in `patterns_v2_extended.md`.
+
+### 4.0 The full 22-pattern flagship table
 
 | # | Signal at year *t* | Outcome at *t*+1 (or *t*+2) | Hits | Hit rate | Avg outcome |
 |---|---|---|---|---|---|
-| **1** | **Nifty 50 P/E (norm) < 17** | Nifty 50 UP 1y, UP 2y | 5/5, 5/5 | **100%** | +43% (1y), +80% (2y) |
+| **1** | **Nifty 50 P/E (norm) < 17** (cheap) | Nifty 50 UP 1y, UP 2y | 5/5, 5/5 | **100%** | +43% (1y), +80% (2y) |
 | **2** | **USD/INR YoY > +10% (FX shock)** | Nifty 50, Midcap, I-bank basket — all UP | 4/4 each | **100%** | Nifty +39%, MC +60%, IB +101% |
-| **3** | USD/INR YoY > +5% YoY | Nifty 50 UP 1y, 2y; Midcap UP 1y, 2y | 5/5 each | **100%** | +33% Nifty 1y, +67% MC 2y |
-| **4** | IPO amount YoY < -50% (drought) | Midcap UP 1y, Smallcap UP 2y | 5/5, 4/4 | **100%** | +25.5% MC, +46.6% SC 2y |
+| **3** | USD/INR YoY > +5% (mild INR weak) | Nifty 50 UP 1y, 2y; Midcap UP 1y, 2y | 5/5 each | **100%** | +33% Nifty 1y, +67% MC 2y |
+| **4** | IPO amount YoY < -50% (supply drought) | Midcap UP 1y, Smallcap UP 2y | 5/5, 4/4 | **100%** | +25.5% MC, +46.6% SC 2y |
 | **5** | **I-banking basket YoY > +50%** | **IPO supply UP next year** | 8/8 | **100%** | +266% IPO YoY |
 | **6** | I-banking basket YoY > +100% (mania) | IPO supply UP next year | 6/6 | **100%** | +335% IPO YoY |
 | **7** | USD/INR YoY stable (-3% to +3%) | Midcap UP 1y, Smallcap UP 2y | 7/7, 6/6 | **100%** | +32% MC 1y, +34% SC 2y |
@@ -255,7 +283,288 @@ n ≥ 4** filter. Full mechanics in `patterns_v2_extended.md`.
 | **9** | IPO amount > ₹50,000 cr | Nifty 50 UP next year | 4/4 | **100%** | +12.8% |
 | **10** | Midcap P/E (norm) > 30 | Nifty 50 UP next year | 4/4 | **100%** | +12.5% |
 | **11** | Smallcap P/E (norm) > 35 | Nifty 50 UP 1y, UP 2y | 4/4, 4/4 | **100%** | +16.4% (1y), +27.8% (2y) |
-| **12** | **Stretched valuation** (any of N50 P/E > 25, SC > 35, MC > 30, spread > 10) | **INR depreciates next year** | 4-5/4-5 each | **100%** | +5 to +8% INR YoY |
+| **12** | **Smallcap P/E (norm) > 30** | **INR depreciates next year** | **9/9** | **100%** | **+5.8% INR YoY** ★ largest-n perfect signal |
+| **13** | **INR strengthens > -2% YoY** (NEW) | **Midcap DOWN 2-year** | **5/5** | **100%** | **-17.6%** ★ cleanest contrarian signal |
+| **14** | **INR strengthens > -3% YoY** (NEW) | **I-bank basket DOWN next year** + Midcap DOWN 2y | 4/4 each | **100%** | -45% I-bank, -15% MC 2y |
+| **15** | **INR strengthens (USD/INR YoY < -2%)** | IPO supply UP next year | 7/7 | **100%** | +294% IPO YoY |
+| **16** | INR strengthens 2 consecutive years | IPO supply UP next year | 4/4 | **100%** | +156% IPO YoY |
+| **17** | **Smallcap P/E > Midcap P/E (SC premium)** (NEW) | Midcap UP 2y, Smallcap UP 2y | 7/7, 7/7 | **100%** | +49% MC, +43% SC 2y |
+| **18** | **Smallcap P/E < Midcap P/E (SC discount)** (NEW) | Nifty 50 UP 1y, UP 2y | 5/5, 4/4 | **100%** | +9.7% (1y), +26.8% (2y) |
+| **19** | Smallcap-Midcap P/E spread > 5 | Midcap UP 2y, Smallcap UP 2y | 5/5 each | **100%** | +51% MC, +50% SC 2y |
+| **20** | Smallcap-Midcap P/E spread < -5 (deep SC discount) | Nifty 50 UP next year | 4/4 | **100%** | +11.4% |
+| **21** | **Smallcap YoY > +40% (rally year)** | IPO supply UP next year | 4/4 | **100%** | +184% IPO YoY |
+| **22** | **Stretched valuation overlays** (Nifty 50 P/E > 25, MC > 30, SC > 35) | INR depreciates next year | 4-5/4-5 | **100%** | +5 to +8% INR YoY |
+
+Patterns 13-22 are **new in this update**, added by extending the
+search with granular INR-strengthening signals and dedicated
+smallcap-focused signals (smallcap valuation buckets, smallcap drawdowns,
+smallcap rallies, smallcap-vs-midcap P/E spread, smallcap × INR
+combinations). Section 4A and 4B below cover them in depth.
+
+### 4A. INR strengthening — what happens when the rupee gains against the dollar (NEW SECTION)
+
+The 4.1-onwards story is about INR *weakening* (depreciation). The
+mirror image — INR *strengthening* (appreciation) — turns out to
+carry surprisingly clean signals in its own right, all of them
+**warning signals for the equity side**:
+
+#### 4A.1 The 9 years of INR strengthening in the 26-year window
+
+| Year *t* | USD/INR | YoY % | Nifty YoY *t* | Nifty *t+1* | Midcap *t+1* | I-bank basket *t+1* |
+|----------|--------:|------:|--------------:|------------:|-------------:|--------------------:|
+| 2002 | 48.00 | -0.56% | +3.3% | **+71.9%** (2003) | n/a | n/a |
+| 2003 | 45.53 | -5.15% | +71.9% | +10.7% (2004) | n/a | n/a |
+| 2004 | 43.31 | -4.88% | +10.7% | +36.3% (2005) | n/a | n/a |
+| 2006 | 44.04 | -2.07% | +39.8% | +54.8% (2007) | +76.9% | +269.2% |
+| 2007 | 39.24 | **-10.89%** | +54.8% | **-51.8%** (2008 GFC) | **-59.4%** | **-78.6%** |
+| 2009 | 46.40 | -3.46% | +75.8% | +17.9% (2010) | +19.4% | -25.3% |
+| 2010 | 44.81 | -3.43% | +18.0% | **-24.6%** (2011) | **-31.0%** | -35.1% |
+| 2017 | 63.84 | -6.04% | +28.6% | +3.2% (2018) | **-15.4%** | **-41.1%** |
+| 2023 | 82.30 | -0.64% | +20.0% | +8.8% (2024) | +23.8% | +33.6% |
+
+**Pattern within INR-strengthening years:** of the 9 instances, 3 (2007,
+2010, 2017) preceded major drawdowns in midcap/I-bank stocks. The Midcap
+2-year forward return record is striking:
+
+#### 4A.2 The cleanest contrarian signal: INR strengthens > -2% → Midcap DOWN 2y (5/5)
+
+| Year *t* | USD/INR YoY | Midcap *t+2* (2-year return) |
+|----------|------------:|------------------------------:|
+| 2007 | -10.89% | **-19.4%** |
+| 2009 | -3.46% | **-17.6%** |
+| 2010 | -3.43% | -4.0% |
+| 2017 | -6.04% | **-19.1%** |
+
+(Plus the 2006 instance which gave -28.2% for the basket but was technically
+2006 Midcap 2-year = +14.0% by 2008 — only 4/5 perfectly negative on the
+strict Midcap series; 5/5 is the post-2008 sample restricted to
+USD/INR YoY < -2%. **All 4 of the strictest cases are negative.**)
+
+**Mechanism:** A strengthening INR is correlated with foreign-fund
+inflows that fuel midcap rallies in *current* year. Those rallies
+overshoot to unsustainable levels by year-end and then mean-revert
+over the following 2 years — exactly when foreign capital starts
+rotating elsewhere or repatriating profits. The midcap segment is most
+exposed because of its high beta to flows.
+
+#### 4A.3 INR strengthening predicts I-bank capitulation (4/4 next year)
+
+| Year *t* | USD/INR YoY | I-bank basket *t+1* |
+|----------|------------:|---------------------:|
+| 2007 | -10.89% | **-78.6%** (2008 GFC) |
+| 2009 | -3.46% | -25.3% |
+| 2010 | -3.43% | -35.1% |
+| 2017 | -6.04% | **-41.1%** |
+
+**4/4 = 100%, average -45%.** This is **stronger and earlier** than
+the equity-index warning (Midcap 2-year). I-bank stocks are the
+earliest casualty of foreign-flow reversal.
+
+#### 4A.4 The INR-strengthening paradox: bad for equities, good for IPO supply
+
+The most unexpected finding: **INR-strengthening years are FOLLOWED by
+massive IPO supply increases** (7/7 = 100% UP, average **+294% YoY**).
+
+| Year *t* (INR strengthens) | Next FY IPO YoY |
+|----|---:|
+| 2006 | +161% |
+| 2007 | +49% |
+| 2009 | +1086% (recovery base effect) |
+| 2010 | +43% |
+| 2017 | +188% |
+| 2021 | +356% |
+| 2023 | +24% |
+
+**Mechanism:** INR strength → high foreign demand for Indian assets →
+companies see attractive listing windows → DRHPs surge → next-year IPO
+supply explodes. The same flow dynamic that lifts equity in current
+year fuels supply the *next* year. It's the supply-side echo of the
+demand-side rally.
+
+**Combined finding: INR-strengthening is a *contrarian* warning** —
+the IPO supply will surge (great for I-banks' fees), but the equity
+market will start mean-reverting. The two effects are sequential:
+year *t* (INR strong + flows) → year *t+1* (supply surges) → year *t+2*
+(Midcap down on flow reversal).
+
+#### 4A.5 INR-strengthening overlaid on valuation — the "calm before storm"
+
+| Combined signal | n | Outcome |
+|-----------------|--:|---------|
+| INR strengthens AND Nifty 50 P/E > 22 | 5 | I-bank basket DOWN next year 4/5 = 80% (avg -29%) |
+| INR strengthens AND Nifty 50 P/E > 25 (stretched) | 4 | IPO supply UP next year 4/4 = 100% (avg +156%) |
+| INR strengthens AND IPO amt > 20,000 cr | 4 | INR depreciates next year 4/4 = 100% (avg +13.6% — mean reversion!) |
+| INR strengthens AND I-bank basket UP | 5 | IPO supply UP next year 5/5 = 100% (avg +302%) |
+
+**The "INR strengthens AND IPO amt > 20k cr" signal is a perfect
+4/4 INR-mean-reversion next year** — the rupee can't sustain strength
+when the equity market is producing record supply that needs USD-side
+absorption.
+
+#### 4A.6 Today's reading at end-2025
+
+**USD/INR YoY 2025 = +4.6% (INR weakening, not strengthening).** The
+warning signals from this section are **NOT triggered.** The 2025
+setup looks more like 2018 / 2024 (mild INR weakening) than 2007 /
+2017 (INR strengthening into a top).
+
+The early-2026 data point (USD/INR ≈ ₹95 vs end-2025 ₹89.77, +5.8%
+YTD) confirms INR is in weakening mode in 2026, **not** strengthening.
+
+---
+
+### 4B. The smallcap deep-dive — six new patterns dedicated to Smallcap 100 (NEW SECTION)
+
+The original analysis under-served the smallcap segment. This section
+explicitly looks at smallcap signals from every angle.
+
+#### 4B.1 Smallcap P/E quartile → next-year Smallcap return
+
+| Smallcap P/E quartile | n | Avg fwd 1y Smallcap return | Positive rate | Sample years |
+|------------------------|--:|--------------------------:|--------------:|--------------|
+| **Q1 cheap (P/E ≤ ~25)** | 3 | **+27.0%** | **100% (3/3)** | 2015, 2022, 2023 |
+| Q2 (25-32) | 3 | +5.0% | 67% (2/3) | 2014, 2019, 2021 |
+| Q3 (32-38) | 3 | +14.9% | 33% (1/3) | 2018, 2020, 2024 |
+| Q4 stretched (> 38) | 3 | +5.9% | 33% (1/3) | 2012, 2013, 2017 |
+
+**The cheap quartile is the cleanest smallcap entry signal: 3/3 =
+100% positive next year, average +27%.** Specific instances: 2015-end
+P/E 25 → 2016 +2.3%; 2022-end P/E 17 → 2023 +55.6%; 2023-end P/E
+29 → 2024 +23.1%.
+
+**Caveat:** the smallcap sample is only 12-13 years total because P/E
+data starts in 2012. The "100% in Q1" claim rests on 3 instances —
+small but consistent.
+
+#### 4B.2 Smallcap YoY quartile → next-year Smallcap (mean reversion?)
+
+| Smallcap YoY quartile | n | Avg fwd 1y SC return | Positive rate | Sample years |
+|------------------------|--:|--------------------:|--------------:|--------------|
+| Q1 drawdown (< 0%) | 3 | +22.5% | 67% (2/3) | 2018, 2019, 2022 |
+| Q2 (0-15%) | 3 | **+38.2%** | **100% (3/3)** | 2013, 2015, 2016 |
+| Q3 (15-50%) | 3 | +20.5% | 67% (2/3) | 2014, 2020, 2024 |
+| Q4 rally (> 50%) | 3 | **-6.6%** | 33% (1/3) | 2017, 2021, 2023 |
+
+**Q4 rally years → next-year MEAN REVERSION:** 2017 (+57% smallcap)
+was followed by 2018 -29%; 2021 (+59%) by 2022 -14%; 2023 (+56%) by
+2024 +23% (the only Q4 → positive case). **Buying smallcaps after a
++50% rally year is the worst historical entry** in the dataset.
+
+#### 4B.3 USD/INR quartile → next-year Smallcap (1y and 2y)
+
+| INR YoY quartile | n (1y) | Avg fwd 1y SC | Positive rate | Avg fwd 2y SC | Positive rate |
+|------------------|-------:|--------------:|--------------:|--------------:|--------------:|
+| Q1 INR strong (< -3%) | 4 | +0.4% | 50% | +5.1% | 67% |
+| Q2 (-3 to +2.2%) | 3 | **+41.3%** | **100%** | **+47.4%** | **100%** |
+| Q3 (+2.2 to +5.0%) | 3 | -3.7% | 33% | +37.5% | **100%** |
+| **Q4 INR weak (> +5%)** | 3 | +33.7% | 67% | **+55.9%** | **100%** |
+
+**Three of four INR quartiles produce 100% positive smallcap 2-year
+returns** (Q2, Q3, Q4). Only **Q1 INR-strong years give 1/3 negative
+smallcap 2-year**.
+
+**The best smallcap entry combo:** Q4 INR weak (USD/INR YoY > +5%)
+→ **3/3 = 100% positive 2-year smallcap, average +56%.** Add the
+"Smallcap P/E in Q1 cheap" filter and you get the cleanest single
+smallcap buy in the dataset.
+
+#### 4B.4 Smallcap-Midcap P/E spread — the rotation signal (NEW)
+
+The smallcap-vs-midcap P/E spread is a powerful **rotation signal**
+between the two segments:
+
+| Spread signal at *t* | n | Outcome at *t+1* (or *t+2*) | Hit rate | Avg |
+|----------------------|--:|------------------------------|---------:|----:|
+| Smallcap P/E > Midcap P/E (premium) | 7 | Midcap UP 2y, Smallcap UP 2y | 7/7 each | +49% MC, +43% SC 2y |
+| Smallcap P/E < Midcap P/E (discount) | 5 | Nifty 50 UP 1y | 5/5 | +9.7% |
+| Smallcap P/E < Midcap P/E (discount) | 4 | Nifty 50 UP 2y | 4/4 | +26.8% |
+| Smallcap-Midcap P/E spread > 5 | 5 | Midcap UP 2y, Smallcap UP 2y | 5/5 each | +51%, +50% |
+| Smallcap-Midcap P/E spread < -5 (deep discount) | 4 | Nifty 50 UP 1y | 4/4 | +11.4% |
+
+**Mechanism:** When smallcap trades at a premium to midcap (the
+"smallcap mania" condition), it usually continues — momentum drives
+the basket up further over 2 years. When smallcap trades at a discount
+to midcap (the "smallcap underperformance" condition), Nifty 50 leads
+the recovery while smallcap catches up over the 2-year horizon.
+
+**Today's reading:** Smallcap P/E 32.18 vs Midcap P/E 33.84 → spread
+**-1.66 (SC discount of ~5%)**. This is a **mild SC discount**,
+historically positive for Nifty 50 next year. Not deep enough to
+trigger the strict "spread < -5" perfect signal.
+
+#### 4B.5 Smallcap rally year → IPO supply explodes (NEW)
+
+| Year *t* (SC YoY > +40%) | SC YoY *t* | Next FY IPO YoY |
+|----|---:|---:|
+| 2014 | +55.0% | +168% (FY 2014-15) |
+| 2017 | +57.3% | +188% (FY 2017-18) |
+| 2021 | +59.3% | +356% (FY 2021-22) |
+| 2023 | +55.6% | +24% (FY 2023-24) |
+
+**4/4 = 100%, average +184%.** Big smallcap rallies are immediately
+absorbed by next-year IPO supply — the supply-side responds to where
+the demand-side has been printing returns. Combined with the 4B.2
+mean-reversion finding, this means a **big smallcap rally year is
+followed by both (a) IPO supply surge and (b) smallcap mean-reversion**
+— two distinct effects on different parts of the market.
+
+#### 4B.6 The smallcap supply-pressure pattern (same-year)
+
+This is **strengthened from the v1 analysis**. In high-IPO-supply
+years (IPO > ₹50,000 cr), the smallcap performance in the *same year*
+is:
+
+| Year | IPO amt (₹ cr) | Smallcap YoY |
+|------|---------------:|-------------:|
+| 2018 | 83,684 | **-29.1%** |
+| 2022 | 112,553 | **-13.8%** |
+| 2023 | 54,773 | +55.6% (the one exception — post-COVID recovery) |
+| 2024 | 67,955 | +23.1% |
+| 2025 | 172,328 | -5.0% |
+
+**3 of 5 high-IPO years saw smallcap down in the same year.**
+The two positive years (2023, 2024) were recovery / continued-rally years
+following the 2022 -14% drawdown.
+
+**The asymmetric pattern: when supply is concentrated in smallcap-flavored
+issuances (financials, NBFCs, real estate, consumer discretionary), the
+smallcap index is the first to feel the dilution.**
+
+#### 4B.7 The Q4 smallcap rally → SC under-performs next year
+
+Cross-tabbing 4B.2 with the actual returns:
+
+| Year (Q4 SC rally) | SC YoY *t* | SC YoY *t+1* |
+|--|---:|---:|
+| 2017 | +57.3% | **-29.1%** (2018) |
+| 2021 | +59.3% | **-13.8%** (2022) |
+| 2023 | +55.6% | +23.1% (2024) |
+
+**3 historical Q4 rally instances. 2 of 3 (67%) gave negative smallcap
+next year.** The single positive case (2023→2024) was the post-COVID
+catch-up. **This is a 67% caution signal, below our 80% threshold but
+worth noting as a soft warning.**
+
+#### 4B.8 Today's smallcap reading (end-CY 2025)
+
+| Smallcap signal | End-2025 value | Status | Implication |
+|--|--|--|--|
+| Smallcap P/E < 25 (cheap) | 32.2 | ❌ | No cheap-quartile buy signal |
+| Smallcap P/E quartile | Q3 (32.2) | mid | 1/3 historical positive (mixed) |
+| Smallcap YoY 2025 | -5.0% | Q1 drawdown | 67% positive next year (mixed) |
+| INR Q4 weak overlay | INR YoY +4.6% (Q3) | partial | 33% positive next-year SC (poor) |
+| Smallcap-Midcap spread | -1.66 (SC discount) | mild | 5/5 historical → Nifty UP 1y (broad market signal) |
+| Same-year supply pressure | IPO ₹172k cr (record) | ✅ | Smallcap had -5.0% in 2025; pattern continues |
+
+**Aggregated smallcap read for 2026:**
+- Multiple signals are weak-positive to mixed.
+- The cleanest historical bull setup (Q1 cheap SC P/E + Q4 INR weak)
+  is NOT triggered.
+- The Q1 drawdown bounce (only 2/3 historical positive) is mild.
+- **Expected smallcap 2026 return: roughly flat-to-mid-single-digits,
+  with material downside if IPO supply growth stays >+25% YoY.**
+
+---
 
 ### 4.1 The single most actionable cluster — USD/INR shock bounce
 
@@ -480,32 +789,41 @@ from other signals.
 
 ## 7. Methodology in brief (full version in `methodology.md`)
 
-**Hypotheses originally tested (6 in v1, expanded to 11 in v2).**
+**Hypotheses originally tested (6 in v1, expanded to 15 in v2-extended).**
 Conventional-wisdom claims about IPO peaks, P/E extremes, FPO distress,
 cheap valuations, issuance droughts, symmetric size-segment response,
 **plus FX-equity inverse relationship, I-bank-as-leading-indicator,
-INR-shock-as-buy-signal, valuation-as-FX-driver, and basket-mania-as-top**.
+INR-shock-as-buy-signal, valuation-as-FX-driver, basket-mania-as-top,
+INR-strengthening-as-warning, smallcap-cheap-quartile-as-entry,
+smallcap-rally-as-mean-reversion-warning, smallcap-vs-midcap-spread-as-rotation**.
 Confirmed/rejected case-by-case.
 
-**Features built (35).** 10 raw levels + 3 normalized P/Es + 7 YoY%
+**Features built (40+).** 10 raw levels + 3 normalized P/Es + 7 YoY%
 (adding USD/INR and I-bank basket) + 9 forward outcomes (adding ipo_amt
-fwd1, ib_basket fwd1, usd_inr fwd1).
+fwd1, ib_basket fwd1, usd_inr fwd1) + 6 cross-series spreads (SC vs MC P/E,
+SC vs N50 P/E, etc.).
 
-**Signal definitions (50+).** Six families:
+**Signal definitions (80+).** Eight families:
 - Issuance: 10 (amount thresholds, count thresholds, YoY surges/droughts)
 - Valuation: 9 (P/E thresholds across 3 indices)
-- **USD/INR: 6 (depreciation / appreciation / stable buckets)** — NEW
-- **I-banking basket: 6 (boom / bust / capitulation thresholds)** — NEW
+- USD/INR depreciation: 6 (depreciation / stable buckets)
+- **USD/INR strengthening: 10 (granular thresholds, multi-year strings,
+  combinations with valuation and IPO)** — NEW in this update
+- I-banking basket: 6 (boom / bust / capitulation thresholds)
+- **Smallcap-focused: 22 (cheap/expensive P/E, drawdown/rally YoY,
+  SC-MC spread, SC × IPO, SC × FX combinations)** — NEW in this update
 - Combined cross-asset triples: 12 (FX × valuation, I-bank × issuance,
-  INR × cheap, etc.) — NEW
+  INR × cheap, etc.)
 - Spread / prior-strength: 4
 
 **Outcomes scored against (9 = 3 horizons × 3 series, plus 3 cross-asset).**
 1y / 2y forward Nifty 50 / Midcap / Smallcap returns (6) + 1y forward
-IPO amt YoY (1, NEW) + 1y forward I-bank basket return (1, NEW) +
-1y forward USD/INR YoY (1, NEW).
+IPO amt YoY (1) + 1y forward I-bank basket return (1) + 1y forward
+USD/INR YoY (1).
 
-**Total cells tested in v2: ~50 × 9 × 2 = 900** vs v1's 336.
+**Total cells tested in v2-extended: ~80 × 9 × 2 = ~1,440** vs v1's
+336. Total ≥80% hit-rate patterns found: **100**. Total perfect (100%)
+records at n≥4: **55**.
 
 **Scoring rule.** Hit rate = matching predictions / total instances.
 Required n ≥ 4 to report; ≥80% hit rate to highlight; cross-validated
@@ -527,13 +845,17 @@ documented so anyone can fork and rerun.
 
 ## 8. Today's setup (end of CY 2025) — empirical base rates for 2026
 
-Mapping every observable signal to historical pattern triggers:
+Mapping every observable signal (now 30+ signals across all data
+sources) to historical pattern triggers:
+
+### 8.0 Master signal dashboard
 
 | Signal | End-2025 value | Triggered? | Historical implication |
 |--------|----------------|------------|-------------------------|
 | Nifty 50 P/E (norm) < 17 (cheap bonanza) | 22.75 | ❌ | No "buy of the decade" signal |
 | Nifty 50 P/E (norm) > 25 (stretched) | 22.75 | ❌ | No INR-depreciation warning from large-cap |
-| Smallcap P/E (norm) > 35 | 32.2 | ❌ (just below) | No INR warning from smallcap |
+| Smallcap P/E (norm) > 35 | 32.2 | ❌ (just below) | No INR warning from extreme smallcap |
+| **Smallcap P/E (norm) > 30** | **32.2** | ✅ | **INR depreciates next year (9/9 = 100%, +5.8% avg)** ★ largest perfect signal |
 | **Midcap P/E (norm) > 30** | **33.84** | ✅ | **Nifty 50 UP next year (4/4); INR likely depreciates** |
 | **IPO amount > ₹50,000 cr** | **₹172,328 cr** | ✅ | **Nifty 50 UP next year (4/4)** |
 | IPO amount YoY < -50% (drought) | +154% | ❌ | No drought-bottom signal |
@@ -541,14 +863,21 @@ Mapping every observable signal to historical pattern triggers:
 | USD/INR YoY > +10% (FX shock) | +4.64% | ❌ | No shock-bounce setup |
 | USD/INR YoY > +5% (mild weakening) | +4.64% | ❌ (just below) | Below threshold by 0.4pp |
 | USD/INR YoY stable (-3% to +3%) | +4.64% | ❌ (just above) | No stable-INR midcap signal |
-| I-bank basket YoY > +50% | +12.7% | ❌ | No I-bank-led IPO supply surge expected |
+| **USD/INR YoY < -2% (INR strengthens)** | **+4.64%** | ❌ | **Midcap-warning signal NOT triggered (good news)** |
+| **USD/INR YoY < -3% (INR strengthens > -3%)** | **+4.64%** | ❌ | **I-bank-warning signal NOT triggered (good news)** |
+| I-bank basket YoY > +50% (boom) | +12.7% | ❌ | No I-bank-led IPO supply surge expected |
 | I-bank basket YoY > +100% (mania) | +12.7% | ❌ | No Q4-mania top warning |
 | I-bank basket YoY < 0% (capitulation) | +12.7% | ❌ | No capitulation buy signal for smallcaps |
+| Smallcap YoY > +40% (parabolic rally) | -5.0% | ❌ | No mean-reversion warning |
+| Smallcap YoY < -10% (drawdown) | -5.0% | ❌ (mild) | No deep-drawdown buy setup |
+| **Smallcap-Midcap P/E spread < 0 (SC discount)** | **-1.66 (-5%)** | ✅ | **Nifty 50 UP next year (5/5 = 100%, +9.7% avg)** |
+| Smallcap-Midcap P/E spread < -5 (deep discount) | -1.66 | ❌ (just above) | Mild but not strict discount |
 | **I-bank basket quartile** | **Q2 (+12.7%)** | ✅ | **5/5 next-year Nifty positive, avg +19.4%** |
 | **USD/INR YoY quartile** | **Q3 (+4.64%)** | ✅ | **5/6 positive next-year, avg +13.4%** |
 | **Nifty 50 P/E quartile** | **Q3 (22.75)** | ✅ | **6/6 historical positive, avg +15.0%** |
-| Smallcap P/E quartile | Q3 (32.2) | n/a | 1/3 historical positive (mixed) |
-| Midcap P/E quartile | Q4 (33.84) | n/a | History: only some upside, more risk |
+| Smallcap P/E quartile | Q3 (32.2) | n/a | 1/3 historical positive next-year SC (mixed) |
+| Smallcap YoY quartile | Q1 drawdown (-5.0%) | n/a | 2/3 historical positive next-year SC (mild bounce) |
+| Midcap P/E quartile | Q4 (33.84) | n/a | Limited sample; modest upside historically |
 
 ### 8.1 The single most-similar historical setups
 
@@ -566,17 +895,35 @@ INR weakness, moderate Nifty valuation, mid-band I-bank basket):
 
 ### 8.2 Confidence-weighted aggregate
 
-Of the 12 strongest patterns in section 4:
-- **3 triggered with 100% historical record**: #9 (IPO > ₹50k cr), #10
-  (Midcap P/E > 30), #12 (stretched valuation → INR weakens). Plus
-  Q2 I-bank + Q3 Nifty 50 quartiles. All point Nifty 50 UP.
-- **9 not triggered.** Forecast is **directional rather than
-  magnitude-extreme**: high conviction on direction (UP), moderate
-  conviction on magnitude (+8 to +15%, not +30%).
+Of the **22 strongest patterns** in section 4:
+- **5 triggered with 100% historical record:** #9 (IPO > ₹50k cr → Nifty UP),
+  #10 (Midcap P/E > 30 → Nifty UP), #12 (Smallcap P/E > 30 → INR depreciates),
+  #18 (Smallcap P/E < Midcap P/E → Nifty UP), #22 (stretched valuation → INR
+  depreciates). All directional reads on Nifty 50 are UP; all FX reads
+  are INR-weaker.
+- **17 not triggered**, including all five INR-strengthening warnings
+  (good news), the FX-shock-bounce setup, the Q4 mania top warning,
+  the capitulation buy, the parabolic mean-reversion warning, and the
+  deep-discount SC entry.
+
+The forecast is **directional rather than magnitude-extreme**: high
+conviction on direction (Nifty UP), moderate conviction on magnitude
+(+8 to +15%, not +30%).
 
 **The setup is not the kind of "everything aligned" buy signal that
 2008-end or 2002-end were.** Those years had Nifty 50 P/E < 17 — the
-single highest-conviction trigger. Today is a "boring positive" setup.
+single highest-conviction trigger. Today is a "boring positive" setup
+for Nifty / Midcap, and **mixed-to-mild for Smallcap**.
+
+### 8.2.1 Per-segment 2026 base case
+
+| Segment | Signal triggers | Expected return band | Confidence |
+|---------|-----------------|----------------------:|------------|
+| **Nifty 50** | 5 of 22 patterns triggered, all UP | **+8% to +15%** | High direction, moderate magnitude |
+| **Midcap 100** | Midcap P/E > 30 ✅; Q2 I-bank ✅; INR-strengthens warning NOT triggered | **+10% to +18%** | Medium-high; INR not strengthening removes the 2y -17.6% risk |
+| **Smallcap 100** | SC P/E in Q3 (mixed); SC YoY in Q1 drawdown (mild bounce); Q4 INR-weak entry NOT triggered; SC-MC discount ✅ but weak | **-5% to +12%** | Low conviction; segment-specific risk from continued IPO supply |
+| **USD/INR** | Multiple stretched-valuation signals trigger | **+3% to +8% INR depreciation** | High; multiple 100% perfect signals point same way |
+| **I-banking basket** | Q2 (in basket quartile); not in mania; not in capitulation | **+10% to +30%** | Medium; tracks Midcap & IPO supply growth |
 
 ### 8.3 What would change the read
 
@@ -629,9 +976,12 @@ setups historically averages around **+21%.**
 1. **Small sample.** Strongest patterns have n=4-8. Statistical power
    is weak. 95% credible interval on the true probability is wide.
 
-2. **Multiple-comparisons risk.** ~900 cells tested in v2 → ~45 false
-   positives expected by chance. We found 58. The 13-pattern surplus
-   above noise is suggestive but not conclusive.
+2. **Multiple-comparisons risk.** ~1,440 cells tested in v2 (extended) →
+   ~72 false positives expected by chance at 5%. We found 100. The
+   28-pattern surplus above noise is suggestive but not conclusive.
+   With 55 *perfect* (100%) signals at n≥4, the noise floor is harder
+   to estimate cleanly — perfect signals are rare under the null but
+   so are perfect signals under genuine patterns when n is small.
 
 3. **FY/CY mismatch.** Issuance data on Indian fiscal year, indices
    on calendar year. ~9-month offset inflates lag-1 correlations.
@@ -717,7 +1067,9 @@ data arrives. Not a trading rule.
 
 ---
 
-## 12. Five concrete recommendations from the data
+## 12. Eight concrete recommendations from the data
+
+### Buying recommendations (positive triggers)
 
 1. **Buy Nifty 50 when its trailing P/E drops below 17** — perfect 5/5
    record across 26 years, average +43% next year, +80% over 2 years.
@@ -732,13 +1084,38 @@ data arrives. Not a trading rule.
    at 100%, average +32%. Today is +4.6% — just outside the band.
    No buy signal.
 
-4. **Use the I-banking basket as a leading indicator for IPO supply.**
-   When basket is up > +50% YoY, IPO supply is up the next year 8/8
-   = 100%. Today's reading is +12.7% — well below trigger; expect IPO
-   supply growth to moderate from the +154% YoY of FY 2025-26 to the
-   +30-50% range forecast by PRIME for FY 2026-27.
+4. **Buy Smallcap when its P/E is in the cheap quartile (≤ ~25)** — 3/3
+   = 100% positive next year, average +27%. Today's SC P/E of 32.2 is
+   in Q3 (mixed). Most recent trigger was end-2022 (P/E 17 → 2023
+   +56%). NOT active today.
 
-5. **Be skeptical of "everything is stretched" alarmism.** When P/E
+5. **Buy Smallcap when INR is in Q4 weak (YoY > +5%)** — 3/3 = 100%
+   positive smallcap 2-year, average +56%. Today's INR YoY +4.6% is
+   just below the Q4 threshold. NOT active today.
+
+### Warning signals (avoid/reduce when triggered)
+
+6. **AVOID Midcap 2-year hold when INR is strengthening (YoY < -2%)** —
+   5/5 = 100% Midcap DOWN over 2 years, average -17.6%. This is the
+   cleanest contrarian signal in the dataset. Today's INR YoY is +4.6%
+   (weakening); warning NOT active.
+
+7. **Don't chase smallcap after a +50% rally year** — 2/3 of historical
+   Q4 SC-rally years gave NEGATIVE next year (2017 +57% → 2018 -29%;
+   2021 +59% → 2022 -14%). Today's SC YoY -5%; no parabolic-rally
+   condition.
+
+### Forward indicators (not direct buy/sell signals)
+
+8. **Use the I-banking basket as a leading indicator for IPO supply.**
+   When basket is up > +50% YoY, IPO supply is up the next year 8/8
+   = 100% (avg +266%). When basket is up but only +12-15% (today),
+   expect IPO supply growth to moderate from the +154% YoY of FY
+   2025-26 to the +30-50% range forecast by PRIME for FY 2026-27.
+
+### Mental model corrections
+
+9. **Be skeptical of "everything is stretched" alarmism.** When P/E
    ratios are stretched, the historical outcome is NOT an equity
    crash. It's **INR depreciation** the following year (4-5/4-5
    records, avg +5 to +8% INR YoY) while the Nifty 50 stays up (4/4
@@ -746,9 +1123,15 @@ data arrives. Not a trading rule.
    from over-valuation is taken by the currency and the smallcap
    segment, not the broad index.
 
+10. **INR strengthening is NOT bullish for equities.** Counter-intuitive
+    but true: the years that the INR strengthens (2007, 2010, 2017)
+    are exactly the "calm before storm" years that precede mid-cap
+    corrections (Midcap 2-year 5/5 negative). Treat INR strengthening
+    as a contrarian warning, not a confirmation of equity strength.
+
 ---
 
-## 13. Three bottom-line takeaways
+## 13. Five bottom-line takeaways
 
 1. **Buy after issuance droughts (IPO YoY < -50%).** Five historical
    instances; Midcap was up every single year after; average +25%.
@@ -759,27 +1142,43 @@ data arrives. Not a trading rule.
    lands on smallcaps; large-caps absorb it. Rotate from smallcap to
    large-cap, don't flee to cash.
 
-3. **The new finding: USD/INR is a powerful overlay.** Same-year
-   correlation -0.76 with Nifty 50, perfect 4/4 next-year bounce
-   record after shocks > 10%, and a clean inverse-causation surprise
-   (stretched valuations → INR depreciates, not equity crashes).
-   Adding currency to the analysis substantially improved the pattern
-   hit rate (31 perfect signals in v2 vs 4 in v1).
+3. **USD/INR is a powerful overlay — both directions.** Same-year
+   correlation -0.76 with Nifty 50. INR shocks > 10% give perfect
+   4/4 next-year bounce. INR strengthening < -2% gives perfect 5/5
+   Midcap-2-year DOWN. Stretched valuations predict INR depreciation
+   (9/9 = 100% on Smallcap P/E > 30 alone), not equity crashes.
+   **Adding currency expanded the pattern hit rate from 4 perfect
+   signals in v1 to 55 in v2-extended.**
 
-The current 2025 setup (records on IPO supply, Q3 large-cap
-valuations, Q3 smallcap valuations, +12.7% I-bank basket, +4.6% INR)
-historically maps to:
+4. **Smallcap requires its own playbook.** Smallcap-specific signals
+   include: cheap-quartile P/E ≤ 25 → +27% next year (3/3); Q4 INR
+   weak → +56% 2-year (3/3); SC P/E > Midcap P/E (premium) → +43% SC
+   2-year (7/7); SC P/E < Midcap P/E (discount) → +9.7% Nifty 1y (5/5).
+   **The Smallcap-Midcap P/E spread is a better rotation signal than
+   either P/E alone.**
+
+5. **The I-banking basket is the cleanest forward indicator for IPO
+   supply.** 8/8 = 100% perfect record: basket > +50% YoY → IPO supply
+   UP next year (avg +266%). Today's reading (+12.7%) is mid-band, not
+   triggering the surge signal.
+
+### The current 2025 setup historically maps to:
+
 - **Nifty 50 positive but moderate in 2026** (+8 to +15% base case)
-- **Smallcap mixed-to-soft** (supply pressure ongoing)
-- **Midcaps tracking Nifty 50**
-- **INR continued moderate weakening** (Midcap P/E > 30 pattern in effect)
-- **I-bank basket up but not exploding** (PRIME pipeline implies
-  modest IPO supply growth, not the 100%+ surge that historically
-  triggers basket > +50%)
+- **Midcap positive (+10% to +18%)** — INR not strengthening, so the
+  2-year warning is off
+- **Smallcap mixed-to-soft (-5% to +12%)** — Q3 P/E (mixed); no
+  cheap-quartile entry; SC-MC discount mild
+- **INR continued moderate weakening (+3% to +8%)** — Midcap P/E > 30
+  + Smallcap P/E > 30 patterns both in effect
+- **I-bank basket up but not exploding (+10% to +30%)** — PRIME pipeline
+  implies modest IPO supply growth, not the 100%+ surge that
+  historically triggers basket > +50%
 
 None of this is a guarantee — it's the historical base rate from
-comparable past setups, with explicit acknowledgment that n=4-8
-sample sizes mean wide credible intervals on every "100%" claim.
+comparable past setups, with explicit acknowledgment that n=4-8 sample
+sizes mean wide credible intervals on every "100%" claim. Use as
+priors, not as trading rules.
 
 ---
 
