@@ -1,0 +1,15 @@
+calendar_year,year_end_date,index_name_in_source,year_end_close,pe_ratio,pe_source
+2012,2012-12-31,CNX Smallcap,3710.15,46.53,NSE archives bhavcopy (ind_close_all_31122012.csv)
+2013,2013-12-31,CNX Smallcap,3402.9,44.1,NSE archives bhavcopy (ind_close_all_31122013.csv)
+2014,2014-12-31,CNX Smallcap,5272.9,34.38,NSE archives bhavcopy (ind_close_all_31122014.csv)
+2015,2015-12-31,Nifty Smallcap 100,5653.3,25.08,NSE archives bhavcopy (ind_close_all_31122015.csv)
+2016,2016-12-30,Nifty Free Float Smallcap 100,5780.85,,NSE archives bhavcopy (ind_close_all_30122016.csv); P/E field was blank in source CSV
+2017,2017-12-29,Nifty Free Float Smallcap 100,9093.25,105.82,NSE archives bhavcopy (ind_close_all_29122017.csv); high P/E reflects extended smallcap valuations going into 2018 drawdown
+2018,2018-12-31,Nifty Smallcap 100,6449.15,34.39,NSE archives bhavcopy (ind_close_all_31122018.csv)
+2019,2019-12-31,Nifty Smallcap 100,5834.75,100.44,NSE archives bhavcopy (ind_close_all_31122019.csv); high P/E reflects smallcap earnings compression
+2020,2020-12-31,Nifty Smallcap 100,7087.6,37.92,NSE archives bhavcopy (ind_close_all_31122020.csv)
+2021,2021-12-31,Nifty Smallcap 100,11289.0,32.11,NSE archives bhavcopy (ind_close_all_31122021.csv)
+2022,2022-12-30,Nifty Smallcap 100,9731.3,16.78,NSE archives bhavcopy (ind_close_all_30122022.csv)
+2023,2023-12-29,Nifty Smallcap 100,15143.65,28.74,NSE archives bhavcopy (ind_close_all_29122023.csv)
+2024,2024-12-30,Nifty Smallcap 100,18639.95,34.52,NSE archives bhavcopy (ind_close_all_30122024.csv)
+2025,2025-12-31,Nifty Smallcap 100,17713.95,32.18,NSE archives bhavcopy (ind_close_all_31122025.csv)
