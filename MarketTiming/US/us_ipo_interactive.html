@@ -46,6 +46,7 @@
 
   .chart-wrap { background: #fff; border: 1px solid #e1e1e1; border-radius: 8px; padding: 8px; }
   #main_chart { width: 100%; height: 70vh; min-height: 600px; }
+  #pe_chart { width: 100%; height: 26vh; min-height: 220px; margin-top: 8px; }
   .legend-tips { font-size: 11px; color: #555; margin-top: 6px; line-height: 1.6; }
   .legend-tips code { background: #eee; padding: 1px 4px; border-radius: 3px; font-size: 11px; }
 </style>
@@ -93,18 +94,26 @@
 
 <div class="chart-wrap">
   <div id="main_chart"></div>
+  <div id="pe_chart"></div>
   <div class="legend-tips">
-    <strong>Tip:</strong> click a legend item or a checkbox above to hide/show that line individually.
+    <strong>Top chart:</strong> click a legend item or a checkbox above to hide/show that line individually.
     Counts and proceeds share the chart but plot on separate y-axes (counts on the left, proceeds on
     the right). The SEC dataset includes corporate operating companies, SPAC (blank-check) IPOs, and
     closed-end fund / BDC IPOs — all summed in the "Total" series. Direct listings (e.g., Spotify 2018,
     Coinbase 2021) and Regulation A / Regulation Crowdfunding offerings are NOT counted per SEC
     methodology.
     <br>
+    <strong>Bottom heatmap:</strong> trailing 12-month P/E ratios per index per year (green low → red high).
+    Sources: <em>S&amp;P 500</em> from Robert Shiller's Yale dataset (2000-2022) + multpl.com (2023-2025).
+    <em>S&amp;P MidCap 400</em> end-2025 snapshot only (18.9× per Yardeni Research / S&amp;P DJI Aug 2025
+    reading) — historical year-end P/E for the index is paywalled. <em>Russell 2000</em> P/E is
+    intentionally left blank: the index has many constituents with negative earnings, so different
+    sources report widely different P/Es (15× to 40× for the same date) depending on methodology.
+    Hover any cell for the exact value.
+    <br>
     <strong>Headline observations:</strong> 2021 was the SPAC-mania peak (1,078 total IPOs, 611 SPACs,
-    $303B total proceeds). 2022 was the post-Fed-hike freeze (202 IPOs, $22B). The structural
-    decline in U.S. corporate IPO count post-2000 (Jay Ritter's "310 → 110/year") is visible in
-    the green "Corporate" line.
+    $303B total proceeds). 2022 was the post-Fed-hike freeze (202 IPOs, $22B). S&amp;P 500 P/E spiked
+    in 2008 (58.98) and 2020 (39.26) reflecting GAAP earnings collapses, not pure valuation rallies.
   </div>
 </div>
 
@@ -473,6 +482,21 @@ const DATA = {
     75.4,
     71.0,
     84.4
+  ],
+  "sp500_pe": [
+    26.62, 46.37, 32.59, 22.17, 20.48, 18.07, 17.38, 22.35, 58.98, 21.78,
+    16.05, 14.30, 16.44, 18.04, 20.08, 23.74, 23.76, 24.25, 19.39, 22.78,
+    39.26, 23.63, 22.65, 25.01, 28.16, 29.60
+  ],
+  "sp400_pe": [
+    null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, 18.90
+  ],
+  "rut_pe": [
+    null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null
   ]
 };
 const YRS = DATA.years;
@@ -693,6 +717,7 @@ function applyRange() {
   const to   = parseInt(document.getElementById('yearTo').value, 10);
   if (!isNaN(from) && !isNaN(to) && from <= to) {
     Plotly.relayout('main_chart', { 'xaxis.range': [from, to] });
+    Plotly.relayout('pe_chart',   { 'xaxis.range': [from - 0.5, to + 0.5] });
   }
 }
 document.getElementById('yearFrom').addEventListener('change', applyRange);
@@ -704,8 +729,76 @@ document.getElementById('main_chart').on('plotly_relayout', function(ev){
   if (lo !== undefined && hi !== undefined) {
     document.getElementById('yearFrom').value = Math.round(lo);
     document.getElementById('yearTo').value   = Math.round(hi);
+    Plotly.relayout('pe_chart', { 'xaxis.range': [lo - 0.5, hi + 0.5] });
   }
 });
+
+// ----------- BOTTOM HEATMAP: P/E by US index by year -----------
+// Row order: smallest cap on top so the heatmap reads small -> large top to bottom
+// (matches the India version's Smallcap-on-top convention).
+const PE_ROW_ORDER = ['Russell 2000', 'S&P MidCap 400', 'S&P 500'];
+const PE_KEYS = {
+  'Russell 2000':    'rut_pe',
+  'S&P MidCap 400':  'sp400_pe',
+  'S&P 500':         'sp500_pe',
+};
+const PE_SOURCE_NOTE = {
+  'Russell 2000':    'No reliable free public series — negative-earnings methodology issue',
+  'S&P MidCap 400':  'Historical year-end P/E paywalled at S&P DJI; only Aug-2025 snapshot available',
+  'S&P 500':         'Shiller Yale ie_data.xls (2000-2022) + multpl.com (2023-2025)',
+};
+
+function renderPeHeatmap() {
+  const z = [], text = [], custom = [];
+  for (const idx of PE_ROW_ORDER) {
+    const pe = DATA[PE_KEYS[idx]];
+    const note = PE_SOURCE_NOTE[idx];
+    const row = [], tr = [], cr = [];
+    for (let i = 0; i < YRS.length; i++) {
+      const v = pe[i];
+      row.push(v);
+      tr.push(v == null ? '' : v.toFixed(1));
+      cr.push([
+        v == null ? 'no data' : v.toFixed(2),
+        note,
+      ]);
+    }
+    z.push(row); text.push(tr); custom.push(cr);
+  }
+  const trace = {
+    type: 'heatmap',
+    x: YRS, y: PE_ROW_ORDER,
+    z, text, customdata: custom,
+    texttemplate: '%{text}', textfont: { size: 10, color: '#222' },
+    colorscale: [
+      [0.00, '#2e7d32'], [0.25, '#a5d6a7'], [0.50, '#fff9c4'],
+      [0.75, '#ef9a9a'], [1.00, '#b71c1c'],
+    ],
+    zmin: 10, zmax: 50, zauto: false,
+    hovertemplate:
+      '<b>%{y}</b> — %{x}<br>P/E (trailing): %{customdata[0]}<br>Source: %{customdata[1]}<extra></extra>',
+    colorbar: {
+      title: { text: 'Trailing P/E', font: { size: 10 } },
+      tickfont: { size: 10 }, x: 1.02, len: 0.95, thickness: 12,
+    },
+    xgap: 1, ygap: 1,
+    hoverongaps: true,
+  };
+  const layout = {
+    margin: { l: 130, r: 220, t: 30, b: 45 },
+    xaxis: { title: { text: 'Year', font: { size: 12 } }, type: 'linear', dtick: 1,
+             range: [YRS[0] - 0.5, YRS[YRS.length - 1] + 0.5] },
+    yaxis: { tickfont: { size: 11 }, automargin: true },
+    annotations: [{
+      x: -0.06, y: 1.20, xref: 'paper', yref: 'paper',
+      text: '<b>P/E heatmap — trailing 12-month, year-end.</b> Empty cells = no reliable free public data ' +
+            '(S&amp;P MidCap 400 + Russell 2000 historical P/Es are paywalled).',
+      showarrow: false, font: { size: 11, color: '#444' }, align: 'left',
+    }],
+  };
+  Plotly.newPlot('pe_chart', [trace], layout, CONFIG);
+}
+renderPeHeatmap();
 </script>
 </body>
 </html>
