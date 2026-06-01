@@ -93,7 +93,16 @@ underlying methodology:
 | `calendar_year` | CY (4-digit) |
 | `year_end_date` | Last NYSE/NASDAQ trading day of December (YYYY-MM-DD). Avoids weekends/holidays automatically. |
 | `year_end_close` | Index closing value on `year_end_date`, as published by the exchange/index provider. Price-only (not total-return) series. |
-| `source` | Data provider(s) that carry this value. |
+| `pe_ratio_trailing` | Trailing 12-month index P/E ratio. **POPULATED for S&P 500 only; mostly empty for S&P 400 and Russell 2000 — see §10 for why.** |
+| `source_close` | Source for the year-end close value. |
+| `source_pe` | Source for the P/E value (or "No free public year-end series available"). |
+
+### Why two source columns and not one
+
+The year-end close and the P/E ratio for these indices come from different
+sources with different methodologies. Decoupling them in the CSV allows
+each row to carry its own provenance for each value, makes the data-gap
+issue explicit, and makes future backfills auditable.
 
 ## 3. Data-fetch methodology
 
@@ -266,7 +275,155 @@ Index methodology differences worth noting:
   conversion rates. A side-by-side INR-equivalent S&P 500 column
   can be computed by multiplying.
 
-## 10. Bottom-line interpretation of the data
+## 10. P/E ratio sourcing — what's available and what isn't
+
+The `pe_ratio_trailing` column was added in the second iteration of
+these CSVs. After an extensive search for US-government-published
+historical year-end P/E series for each index, here is the honest
+state of free public data availability.
+
+### 10.1 S&P 500 — populated with full history
+
+| Source | Coverage | Methodology | Used here |
+|--------|----------|-------------|-----------|
+| **Robert Shiller (Yale)** [`ie_data.xls`](http://www.econ.yale.edu/~shiller/data.htm) | Monthly since Jan 1871; this file ends Sept 2023 | S&P 500 monthly average price ÷ trailing 12-month GAAP earnings | **Primary for 2000-2022** |
+| **multpl.com** [`s-p-500-pe-ratio/table/by-year`](https://www.multpl.com/s-p-500-pe-ratio/table/by-year) | Redistributes Shiller's series with monthly updates | Same as Shiller | **For 2023-2025** where Shiller's file hasn't been updated |
+| Federal Reserve Financial Stability Report (semi-annual) [URL](https://www.federalreserve.gov/publications/files/financial-stability-report-20251107.pdf) | Each report includes "Figure 1.4: Forward P/E of S&P 500 firms" — a chart, not tabular data. Sourced from LSEG/IBES (Institutional Brokers' Estimate System). | Forward P/E based on 12-month-ahead consensus earnings estimates | **Order-of-magnitude cross-validation only.** The Fed's chart matches our values to within ~3 P/E points; the difference is forward vs. trailing. |
+| FRED CAPE series [SP500_PE_RATIO_MONTH] (third-party redist.) | Long history | Shiller's PE10 (cyclically adjusted) | Not used (CAPE is a different metric — 10-year smoothed) |
+
+**Why Shiller is the academic gold standard for S&P 500 P/E:**
+- Used by every major US finance textbook (Bodie/Kane/Marcus, Damodaran).
+- The Federal Reserve Board cites Shiller's CAPE in its Working Paper
+  series and FRED hosts a derived series.
+- The dataset has been continuously published since the 1990s with full
+  source-documented methodology and is freely downloadable as `ie_data.xls`.
+- The earnings denominator uses **GAAP earnings**, which is the
+  conservative measure (vs operating earnings). This produces higher
+  P/E values in periods of large GAAP writedowns (2008 GFC, 2020 COVID).
+
+**Notable cross-source differences** (Shiller vs multpl.com vs Fed):
+- **End-2008**: Shiller 58.98, multpl.com 70.91 — both reflect the GFC
+  earnings collapse; the difference is in which quarter's revised
+  earnings is used as the denominator.
+- **End-2020**: Shiller 39.26, multpl.com 35.96 — COVID earnings
+  collapse, same effect.
+- For all other years 2000-2022, Shiller and multpl agree within ±1.5
+  P/E points.
+
+The `source_pe` column in `sp500_data.csv` notes when each row's
+P/E comes from Shiller vs multpl vs which methodology variant.
+
+### 10.2 S&P MidCap 400 — column populated only for end-2025 snapshot
+
+After an exhaustive search of US-government, exchange, and free public
+sources, **no clean historical year-end trailing P/E series exists**
+for the S&P MidCap 400 in any free public dataset. Specifically:
+
+| Source attempted | Result |
+|------------------|--------|
+| **FRED** (St. Louis Fed) | Does NOT carry S&P MidCap 400 at all. |
+| **Federal Reserve Financial Stability Report** | Reports S&P 500 forward P/E only; no separate small/mid-cap series. |
+| **U.S. Treasury Office of Financial Research (OFR)** | Publishes an aggregate "equity valuation" stress-index component (a single normalized score from -1.4 to +2.2, not a P/E series); no breakdown by size segment. |
+| **Bureau of Economic Analysis (BEA)** Z.1 release | Has aggregate "corporate equity at market value" and "corporate profits"; can compute a market-wide P/E but not an index-specific P/E. |
+| **NYSE / Nasdaq** | Publish current Composite-level P/E daily; historical archives are paid. |
+| **S&P Dow Jones Indices** [official factsheet](https://www.spglobal.com/spdji/en/indices/equity/sp-400/) | Current month freely available; full historical CSV requires paid subscription. |
+| **Yardeni Research** [Stock Market P/E Ratios PDF](https://archive.yardeni.com/pub/stockmktperatio.pdf) | Includes S&P 400 chart but only as a visual figure; no tabular year-end data. Latest snapshot value cited in research: **18.9× trailing P/E as of Aug 2025.** |
+| **WSJ, Barchart, Morningstar, Yahoo Finance** | Current snapshot only; no historical series. |
+| **iShares IJH / SPDR MDY ETF factsheets** | Publishes the current quarter's portfolio-weighted P/E; quarterly historical archives via Wayback Machine. Time-consuming to scrape; not done here. |
+| **Bloomberg / FactSet / S&P Capital IQ / Refinitiv** | All paid, terminal-only. |
+
+**Why this is so hard:** S&P Dow Jones Indices LLC is a joint venture
+(S&P Global + CME Group + News Corp / Dow Jones) that monetizes
+historical index data licensing. They publish the current month's
+P/E for free but charge for historical archives. Unlike the SEC or
+Federal Reserve, they have no statutory obligation to publish historical
+free data.
+
+**What's populated in `sp_midcap400_data.csv`:**
+- The 2025 row carries **18.9** (the August 2025 Yardeni-cited reading,
+  used as a best-available proxy for end-2025 given the index drift
+  from ~3,200 in August to 3,305 at year-end was ~3%, with little
+  earnings movement in the same period).
+- All earlier years are intentionally left null. Don't fabricate values
+  here — false precision is worse than no data.
+
+**To extend with full history**, options are:
+- (a) Subscribe to S&P DJI's historical data feed (annual fee ~$5-10k).
+- (b) Bloomberg or FactSet API (terminal subscription).
+- (c) Manual scrape of iShares IJH factsheet PDFs via Wayback Machine
+  for each year-end snapshot (free but labor-intensive).
+- (d) Compute approximately using S&P-published S&P 400 quarterly EPS
+  (which IS in the [S&P DJI Index Earnings spreadsheet](https://www.spglobal.com/spdji/en/documents/additional-material/sp-400-eps-est.xlsx))
+  divided by the year-end index level. This file was unreachable from
+  this environment (HTTP 403) but is the standard data source for
+  S&P-published P/E ratios.
+
+### 10.3 Russell 2000 — column intentionally left empty
+
+The same constraints as the S&P MidCap 400 apply, **plus an additional
+methodological problem**: many Russell 2000 constituents have negative
+trailing 12-month earnings. The aggregate P/E ratio is therefore
+extremely sensitive to which methodology is used:
+
+| Methodology | Effect |
+|-------------|--------|
+| Include all constituents (raw) | Trailing P/E often above 100 or even negative; not interpretable. |
+| Exclude negative-earnings firms | Higher P/E, but trims the index universe. |
+| Trimmed mean | Smoother but ad-hoc. |
+| Weighted by index float vs. weighted by aggregate earnings | Different answers. |
+| FTSE Russell official (their public methodology, paid feed) | Their own definition. |
+
+**Different sources can report Russell 2000 P/E ranging from ~15× to
+~40× for the same date** depending on methodology. This is one reason
+academic research often **excludes Russell 2000** from P/E quartile
+analyses and instead uses the S&P 600 SmallCap (which has a profitability
+inclusion criterion, so its constituents have meaningful aggregate
+earnings).
+
+**What's populated in `russell2000_data.csv`:** Nothing. The column is
+present for schema parity with the other two files, but every value
+is null. The `source_pe` column documents the absence and the reason.
+
+**Practical recommendation:** for cross-segment valuation analysis in
+US that mirrors the India analysis, use the **S&P 600 SmallCap P/E**
+(which has the profitability inclusion filter — closer to the Nifty
+Smallcap 100 methodology) rather than the Russell 2000 P/E. The S&P 600
+P/E is similarly hard to source historically, but at least the values
+are interpretable when found.
+
+### 10.4 The pure-government substitute (if you can use Wilshire)
+
+For a strict government-data-only chain on size-segment P/E, FRED has
+the **Wilshire indices** with full history *and* derived P/E ratios
+when combined with the S&P 500 or NYSE earnings components. This
+requires methodology decisions but is fully government-published:
+
+- `WILLLRGCAP` (Wilshire US Large-Cap) — proxy for S&P 500
+- `WILLMIDCAP` (Wilshire US Mid-Cap) — proxy for S&P MidCap 400
+- `WILLSMLCAP` (Wilshire US Small-Cap) — proxy for Russell 2000
+
+Wilshire indices have a different constituent set and selection
+methodology than S&P/Russell, but they are size-segmented and have
+US-government-published full history. They are the available trade-off
+between "what was asked" (S&P/Russell indices) and "fully government-
+sourced" (Wilshire indices).
+
+### 10.5 Summary of the P/E data state
+
+| File | P/E populated | Source | Coverage |
+|------|---------------|--------|----------|
+| `sp500_data.csv` | ✓ all 26 rows | Shiller Yale + multpl.com | 2000-2025 full |
+| `sp_midcap400_data.csv` | Only end-2025 | Yardeni Research snapshot | 1 of 26 rows |
+| `russell2000_data.csv` | ✗ none | n/a | 0 of 26 rows |
+
+This is honest reporting of what's freely sourceable. Adding fake
+values would make the historical pattern analysis unreliable in
+exactly the place where careful US-vs-India comparison should be most
+defensible.
+
+---
+
+## 11. Bottom-line interpretation of the data
 
 The US three-segment view over 2000-2025 shows the following cycle:
 

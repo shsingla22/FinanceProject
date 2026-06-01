@@ -1,27 +1,27 @@
-calendar_year,year_end_date,year_end_close,source
-2000,2000-12-29,516.74,Yahoo Finance (^MID daily)
-2001,2001-12-31,508.31,Yahoo Finance (^MID daily)
-2002,2002-12-31,429.79,Yahoo Finance (^MID daily)
-2003,2003-12-31,576.01,Yahoo Finance (^MID daily)
-2004,2004-12-31,663.31,Yahoo Finance (^MID daily)
-2005,2005-12-30,738.05,Yahoo Finance (^MID daily)
-2006,2006-12-29,804.37,Yahoo Finance (^MID daily)
-2007,2007-12-31,858.20,Yahoo Finance (^MID daily)
-2008,2008-12-31,538.28,Yahoo Finance (^MID daily)
-2009,2009-12-31,726.67,Yahoo Finance (^MID daily)
-2010,2010-12-31,907.25,Yahoo Finance (^MID daily)
-2011,2011-12-30,879.16,Yahoo Finance (^MID daily)
-2012,2012-12-31,1020.43,Yahoo Finance (^MID daily)
-2013,2013-12-31,1342.53,Yahoo Finance (^MID daily)
-2014,2014-12-31,1452.44,Yahoo Finance (^MID daily)
-2015,2015-12-31,1398.58,Yahoo Finance (^MID daily)
-2016,2016-12-30,1660.58,Yahoo Finance (^MID daily)
-2017,2017-12-29,1900.57,Yahoo Finance (^MID daily)
-2018,2018-12-31,1663.04,Yahoo Finance (^MID daily)
-2019,2019-12-31,2063.02,Yahoo Finance (^MID daily)
-2020,2020-12-31,2306.62,Yahoo Finance (^MID daily)
-2021,2021-12-31,2842.00,Yahoo Finance (^MID daily)
-2022,2022-12-30,2430.38,Yahoo Finance (^MID daily)
-2023,2023-12-29,2781.54,Yahoo Finance (^MID daily)
-2024,2024-12-31,3120.94,Yahoo Finance (^MID daily)
-2025,2025-12-31,3305.14,Yahoo Finance (^MID daily)
+calendar_year,year_end_date,year_end_close,pe_ratio_trailing,source_close,source_pe
+2000,2000-12-29,516.74,,Yahoo Finance (^MID daily),No free public year-end series available
+2001,2001-12-31,508.31,,Yahoo Finance (^MID daily),No free public year-end series available
+2002,2002-12-31,429.79,,Yahoo Finance (^MID daily),No free public year-end series available
+2003,2003-12-31,576.01,,Yahoo Finance (^MID daily),No free public year-end series available
+2004,2004-12-31,663.31,,Yahoo Finance (^MID daily),No free public year-end series available
+2005,2005-12-30,738.05,,Yahoo Finance (^MID daily),No free public year-end series available
+2006,2006-12-29,804.37,,Yahoo Finance (^MID daily),No free public year-end series available
+2007,2007-12-31,858.20,,Yahoo Finance (^MID daily),No free public year-end series available
+2008,2008-12-31,538.28,,Yahoo Finance (^MID daily),No free public year-end series available
+2009,2009-12-31,726.67,,Yahoo Finance (^MID daily),No free public year-end series available
+2010,2010-12-31,907.25,,Yahoo Finance (^MID daily),No free public year-end series available
+2011,2011-12-30,879.16,,Yahoo Finance (^MID daily),No free public year-end series available
+2012,2012-12-31,1020.43,,Yahoo Finance (^MID daily),No free public year-end series available
+2013,2013-12-31,1342.53,,Yahoo Finance (^MID daily),No free public year-end series available
+2014,2014-12-31,1452.44,,Yahoo Finance (^MID daily),No free public year-end series available
+2015,2015-12-31,1398.58,,Yahoo Finance (^MID daily),No free public year-end series available
+2016,2016-12-30,1660.58,,Yahoo Finance (^MID daily),No free public year-end series available
+2017,2017-12-29,1900.57,,Yahoo Finance (^MID daily),No free public year-end series available
+2018,2018-12-31,1663.04,,Yahoo Finance (^MID daily),No free public year-end series available
+2019,2019-12-31,2063.02,,Yahoo Finance (^MID daily),No free public year-end series available
+2020,2020-12-31,2306.62,,Yahoo Finance (^MID daily),No free public year-end series available
+2021,2021-12-31,2842.00,,Yahoo Finance (^MID daily),No free public year-end series available
+2022,2022-12-30,2430.38,,Yahoo Finance (^MID daily),No free public year-end series available
+2023,2023-12-29,2781.54,,Yahoo Finance (^MID daily),No free public year-end series available
+2024,2024-12-31,3120.94,,Yahoo Finance (^MID daily),No free public year-end series available
+2025,2025-12-31,3305.14,18.9,Yahoo Finance (^MID daily),Yardeni Research / S&P DJI factsheet snapshot (Aug 2025 reading 18.9x — used as best proxy for end-2025)
