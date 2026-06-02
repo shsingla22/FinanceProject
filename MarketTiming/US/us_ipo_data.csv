@@ -1,0 +1,27 @@
+calendar_year,ipo_count_total,ipo_count_corporate,ipo_count_spac,ipo_count_fund,ipo_count_us_issuers,ipo_count_non_us_issuers,ipo_proceeds_total_usd_mn,ipo_proceeds_corporate_usd_mn,ipo_proceeds_spac_usd_mn,ipo_proceeds_fund_usd_mn,ipo_avg_proceeds_usd_mn,ipo_median_proceeds_usd_mn,source_note
+2000,459,456,0,3,368,91,84276.4,83148.8,0,1127.6,183.6,78,Dotcom peak; pre-bust IPO mania
+2001,143,105,0,38,125,18,46583.3,40006.8,0,6576.6,325.8,90,Post-dotcom crash; Sarbanes-Oxley enacted Jul 2002
+2002,171,94,0,77,158,13,42880.7,26761.4,0,16119.3,250.8,90,Bear market low; fund issuance dominates
+2003,138,88,1,49,127,11,44576.2,15621.2,21,28934,323,171.8,Recovery beginning; first SPAC IPO
+2004,319,254,10,55,283,36,71237.3,46127.2,318,24792.1,223.3,111.8,Google IPO landmark (Aug 2004)
+2005,302,226,27,49,261,41,60546.4,36787,1905.7,21853.7,200.5,116.8,Mid-cycle; SPAC activity grows
+2006,282,224,35,23,233,49,60076.4,44020.2,3034.1,13022.1,213,106.9,Pre-GFC earnings peak
+2007,348,240,64,44,280,68,91533.9,53072,10395.9,28066,263,125.4,Last pre-GFC year; SPACs accelerate
+2008,60,43,15,2,40,20,28764.1,25245.5,3256.6,262,479.4,125.5,GFC: IPO market freezes
+2009,86,70,1,15,67,19,25351.9,21907.5,36,3408.4,294.8,146.6,Slow recovery
+2010,221,188,7,26,155,66,40733.5,31431.4,491,8811.1,184.3,100,GM IPO ($23B); non-US issuers rise
+2011,228,187,14,27,185,43,44581,36065,933.5,7582.5,195.5,90.5,Euro debt crisis disruption
+2012,235,194,9,32,204,31,57356.7,43844.9,436.1,13075.7,244.1,85.5,Facebook IPO ($16B) headline year
+2013,316,277,10,29,271,45,72773.6,56748.5,1324.8,14700.3,230.3,103.5,JOBS Act effects (2012 Apr) reduce SOX compliance for EGCs
+2014,355,331,12,12,283,72,93147.6,86952.5,1590,4605.1,262.4,91.8,Alibaba ADR IPO ($25B) — non-US proceeds spike
+2015,226,197,20,9,180,46,38205.3,32140.8,3612,2452.5,169,81,Mid-cycle slowdown
+2016,137,119,12,6,111,26,24106.5,19422.5,2789,1895,176,94.5,Lowest count since GFC trough
+2017,228,184,34,10,180,48,45919.2,35441.3,8995.5,1482.4,201.4,120,Snap IPO; recovery; SPACs accelerate to 34
+2018,271,221,46,4,193,78,57711.2,47558.7,9935,217.5,213,104.5,Trade war volatility; non-US issuers high
+2019,248,180,59,9,187,61,63555.3,46886.5,12265.3,4403.5,256.3,103.7,Uber/Lyft/Pinterest unicorn wave; SPAC volume rises
+2020,492,234,248,10,402,90,164637.2,79735.7,75966.9,8934.6,334.6,150,COVID-era SPAC boom (248 SPACs!)
+2021,1078,452,611,15,886,192,302710.3,142536.9,144058.3,16115.1,280.8,200,Peak SPAC mania year; 611 SPAC IPOs; total proceeds $303B record
+2022,202,111,86,5,142,60,21555.5,7949.7,12015.3,1590.5,106.7,75,Fed-hiking cycle; market freezes; -93% proceeds YoY
+2023,169,138,31,0,95,74,23763.2,20310.2,3453,0,140.6,75.4,Slow recovery; non-US issuers (China/Asia) lead count
+2024,246,186,58,2,140,106,39212.6,30412.8,8669.2,130.6,159.4,71,Continued recovery; non-US issuer count rises
+2025,374,226,144,4,227,147,70130.8,43222.1,26792,116.7,187.5,84.4,Acceleration; SPACs surge again to 144
