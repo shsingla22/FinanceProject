@@ -1,0 +1,32 @@
+,parent_line_item,Mar 2008,Mar 2009,Mar 2010,Mar 2011,Mar 2012,Mar 2013,Mar 2014,Mar 2015
+Equity Capital,,31.0,31.0,31.0,31.0,31.0,31.0,31.0,31.0
+Reserves,,88.0,121.0,144.0,151.0,161.0,164.0,205.0,252.0
+Borrowings,,55.0,13.0,34.0,25.0,34.0,59.0,0.0,0.0
+Other Liabilities,,84.0,77.0,87.0,94.0,108.0,112.0,153.0,182.0
+Total Liabilities,,259.0,242.0,296.0,302.0,335.0,365.0,388.0,466.0
+Fixed Assets,,99.0,97.0,90.0,91.0,100.0,99.0,97.0,98.0
+CWIP,,2.0,1.0,0.0,12.0,10.0,21.0,13.0,3.0
+Investments,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other Assets,,158.0,144.0,206.0,199.0,224.0,245.0,279.0,364.0
+Total Assets,,259.0,242.0,296.0,302.0,335.0,365.0,388.0,466.0
+Land,Fixed Assets,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Building,Fixed Assets,25.0,28.0,25.0,25.0,28.0,28.0,25.0,47.0
+Plant Machinery,Fixed Assets,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0
+Equipments,Fixed Assets,14.0,14.0,14.0,15.0,15.0,8.0,9.0,12.0
+Computers,Fixed Assets,82.0,93.0,80.0,97.0,115.0,84.0,51.0,57.0
+Furniture n fittings,Fixed Assets,29.0,29.0,28.0,29.0,28.0,36.0,36.0,42.0
+Vehicles,Fixed Assets,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+Intangible Assets,Fixed Assets,0.0,0.0,0.0,0.0,8.0,11.0,19.0,23.0
+Other fixed assets,Fixed Assets,0.0,0.0,0.0,0.0,0.0,51.0,41.0,46.0
+Gross Block,Fixed Assets,153.0,167.0,150.0,168.0,196.0,219.0,182.0,229.0
+Accumulated Depreciation,Fixed Assets,54.0,70.0,60.0,77.0,96.0,120.0,85.0,131.0
+Short term Borrowings,Borrowings,,,,25.43,34.16,58.51,0.0,0.0
+Other Borrowings,Borrowings,55.33,13.08,33.96,0.0,0.0,0.0,0.0,0.0
+Trade Payables,Other Liabilities,34.0,35.0,39.0,41.0,47.0,53.0,64.0,66.0
+Advance from Customers,Other Liabilities,1.0,2.0,1.0,4.0,3.0,1.0,10.0,16.0
+Other liability items,Other Liabilities,49.0,40.0,47.0,49.0,59.0,58.0,79.0,100.0
+Inventories,Other Assets,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Trade receivables,Other Assets,105.0,92.0,131.0,107.0,126.0,141.0,156.0,154.0
+Cash Equivalents,Other Assets,21.0,16.0,14.0,21.0,27.0,23.0,51.0,133.0
+Loans n Advances,Other Assets,7.0,6.0,27.0,10.0,7.0,9.0,10.0,13.0
+Other asset items,Other Assets,26.0,29.0,34.0,60.0,65.0,72.0,62.0,64.0
