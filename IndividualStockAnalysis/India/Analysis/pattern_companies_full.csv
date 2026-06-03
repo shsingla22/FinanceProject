@@ -1,0 +1,405 @@
+pattern,horizon,cagr_threshold_pct,nse_symbol,industry,base_year_T,fy_label,stock_price_at_T,forward_cagr_pct,met_target
+FA > 20% YoY for 3 yrs,7y,10,GRAVITA,,2019,Mar 2019,82.0,48.7,Y
+FA > 20% YoY for 3 yrs,7y,10,BEL,INDUSTRIAL MANUFACTURING,2019,Mar 2019,30.82,44.3,Y
+FA > 20% YoY for 3 yrs,7y,10,UNOMINDA,,2019,Mar 2019,167.11,29.7,Y
+FA > 20% YoY for 3 yrs,7y,10,LAURUSLABS,PHARMA,2018,Mar 2018,100.57,29.5,Y
+FA > 20% YoY for 3 yrs,7y,10,INOXWIND,INDUSTRIAL MANUFACTURING,2018,Mar 2018,27.12,29.2,Y
+FA > 20% YoY for 3 yrs,7y,10,UNOMINDA,,2018,Mar 2018,176.88,25.7,Y
+FA > 20% YoY for 3 yrs,7y,10,PRESTIGE,CONSTRUCTION,2019,Mar 2019,250.7,23.9,Y
+FA > 20% YoY for 3 yrs,7y,10,BRIGADE,CONSTRUCTION,2019,Mar 2019,161.83,22.0,Y
+FA > 20% YoY for 3 yrs,7y,10,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,17.4,Y
+FA > 20% YoY for 3 yrs,7y,10,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,16.0,Y
+FA > 20% YoY for 3 yrs,7y,10,GLAXO,PHARMA,2018,Mar 2018,1043.88,15.6,Y
+FA > 20% YoY for 3 yrs,7y,10,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,15.2,Y
+FA > 20% YoY for 3 yrs,7y,10,BAJFINANCE,FINANCIAL SERVICES,2019,Mar 2019,299.58,15.1,Y
+FA > 20% YoY for 3 yrs,7y,10,MOTHERSON,,2019,Mar 2019,39.82,14.9,Y
+FA > 20% YoY for 3 yrs,7y,10,HCLTECH,IT,2019,Mar 2019,541.45,13.8,Y
+FA > 20% YoY for 3 yrs,7y,10,GLAXO,PHARMA,2019,Mar 2019,1296.55,8.4,N
+FA > 20% YoY for 3 yrs,7y,10,YESBANK,FINANCIAL SERVICES,2018,Mar 2018,304.85,-33.9,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,GRAVITA,,2020,Mar 2020,33.45,122.7,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,DIXON,CONSUMER GOODS,2020,Mar 2020,715.97,79.1,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,GRAVITA,,2019,Mar 2019,82.0,64.9,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,ZENSARTECH,IT,2020,Mar 2020,88.0,51.4,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,BRIGADE,CONSTRUCTION,2020,Mar 2020,130.15,49.6,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,UNOMINDA,,2020,Mar 2020,119.6,48.9,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,PRESTIGE,CONSTRUCTION,2020,Mar 2020,168.2,47.8,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,BEL,INDUSTRIAL MANUFACTURING,2019,Mar 2019,30.82,45.6,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,BRIGADE,CONSTRUCTION,2019,Mar 2019,161.83,42.0,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,INDIGO,SERVICES,2020,Mar 2020,1066.15,36.8,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,PRESTIGE,CONSTRUCTION,2019,Mar 2019,250.7,36.1,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,PFC,FINANCIAL SERVICES,2021,Mar 2021,91.0,33.1,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,UNOMINDA,,2019,Mar 2019,167.11,32.6,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,EICHERMOT,AUTOMOBILE,2020,Mar 2020,1309.59,32.5,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,BAJFINANCE,FINANCIAL SERVICES,2020,Mar 2020,221.58,32.2,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,HCLTECH,IT,2020,Mar 2020,436.4,29.6,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,GRANULES,PHARMA,2020,Mar 2020,143.65,27.6,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,LTM,,2020,Mar 2020,1428.85,25.7,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,25.2,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,360ONE,,2021,Mar 2021,309.85,25.1,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,LAURUSLABS,PHARMA,2018,Mar 2018,100.57,23.8,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,HCLTECH,IT,2019,Mar 2019,541.45,23.3,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,UNOMINDA,,2018,Mar 2018,176.88,22.1,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,DIXON,CONSUMER GOODS,2021,Mar 2021,3672.15,21.4,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,20.8,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,BAJFINANCE,FINANCIAL SERVICES,2019,Mar 2019,299.58,19.3,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,LICHSGFIN,FINANCIAL SERVICES,2020,Mar 2020,235.3,19.1,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,BRIGADE,CONSTRUCTION,2021,Mar 2021,277.85,18.6,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,GLAXO,PHARMA,2020,Mar 2020,1257.4,18.0,Y
+FA > 20% YoY for 3 yrs (15% target),5y,15,MOTHERSON,,2019,Mar 2019,39.82,14.4,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,DMART,CONSUMER GOODS,2020,Mar 2020,2187.5,13.3,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,NATCOPHARM,PHARMA,2020,Mar 2020,505.55,9.6,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,GLAXO,PHARMA,2019,Mar 2019,1296.55,8.5,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,AFFLE,,2021,Mar 2021,1091.56,5.8,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,5.5,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,GLAXO,PHARMA,2018,Mar 2018,1043.88,4.9,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,NATCOPHARM,PHARMA,2021,Mar 2021,825.55,3.4,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,INOXWIND,INDUSTRIAL MANUFACTURING,2018,Mar 2018,27.12,-3.0,N
+FA > 20% YoY for 3 yrs (15% target),5y,15,YESBANK,FINANCIAL SERVICES,2018,Mar 2018,304.85,-45.2,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,GRAVITA,,2020,Mar 2020,33.45,122.7,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,DIXON,CONSUMER GOODS,2020,Mar 2020,715.97,79.1,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,GRAVITA,,2019,Mar 2019,82.0,64.9,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,ZENSARTECH,IT,2020,Mar 2020,88.0,51.4,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,BRIGADE,CONSTRUCTION,2020,Mar 2020,130.15,49.6,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,UNOMINDA,,2020,Mar 2020,119.6,48.9,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,PRESTIGE,CONSTRUCTION,2020,Mar 2020,168.2,47.8,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,BEL,INDUSTRIAL MANUFACTURING,2019,Mar 2019,30.82,45.6,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,BRIGADE,CONSTRUCTION,2019,Mar 2019,161.83,42.0,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,INDIGO,SERVICES,2020,Mar 2020,1066.15,36.8,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,PRESTIGE,CONSTRUCTION,2019,Mar 2019,250.7,36.1,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,PFC,FINANCIAL SERVICES,2021,Mar 2021,91.0,33.1,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,UNOMINDA,,2019,Mar 2019,167.11,32.6,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,EICHERMOT,AUTOMOBILE,2020,Mar 2020,1309.59,32.5,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,BAJFINANCE,FINANCIAL SERVICES,2020,Mar 2020,221.58,32.2,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,HCLTECH,IT,2020,Mar 2020,436.4,29.6,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,GRANULES,PHARMA,2020,Mar 2020,143.65,27.6,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,LTM,,2020,Mar 2020,1428.85,25.7,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,25.2,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,360ONE,,2021,Mar 2021,309.85,25.1,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,LAURUSLABS,PHARMA,2018,Mar 2018,100.57,23.8,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,HCLTECH,IT,2019,Mar 2019,541.45,23.3,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,UNOMINDA,,2018,Mar 2018,176.88,22.1,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,DIXON,CONSUMER GOODS,2021,Mar 2021,3672.15,21.4,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,20.8,Y
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,BAJFINANCE,FINANCIAL SERVICES,2019,Mar 2019,299.58,19.3,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,LICHSGFIN,FINANCIAL SERVICES,2020,Mar 2020,235.3,19.1,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,BRIGADE,CONSTRUCTION,2021,Mar 2021,277.85,18.6,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,GLAXO,PHARMA,2020,Mar 2020,1257.4,18.0,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,MOTHERSON,,2019,Mar 2019,39.82,14.4,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,DMART,CONSUMER GOODS,2020,Mar 2020,2187.5,13.3,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,NATCOPHARM,PHARMA,2020,Mar 2020,505.55,9.6,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,GLAXO,PHARMA,2019,Mar 2019,1296.55,8.5,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,AFFLE,,2021,Mar 2021,1091.56,5.8,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,5.5,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,GLAXO,PHARMA,2018,Mar 2018,1043.88,4.9,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,NATCOPHARM,PHARMA,2021,Mar 2021,825.55,3.4,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,INOXWIND,INDUSTRIAL MANUFACTURING,2018,Mar 2018,27.12,-3.0,N
+"FA > 20% YoY for 3 yrs (20% target, 5y) - BEST AT STRICT TARGET",5y,20,YESBANK,FINANCIAL SERVICES,2018,Mar 2018,304.85,-45.2,N
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,DIXON,CONSUMER GOODS,2019,Mar 2019,472.8,53.9,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,DIXON,CONSUMER GOODS,2018,Mar 2018,658.21,53.4,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,BLS,,2018,Mar 2018,29.01,45.4,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,BLS,,2019,Mar 2019,28.96,34.9,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,UNOMINDA,,2018,Mar 2018,176.88,25.7,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,FSL,IT,2019,Mar 2019,47.8,23.1,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,CAPLIPOINT,PHARMA,2019,Mar 2019,400.75,20.8,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,LTTS,IT,2018,Mar 2018,1235.6,20.3,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,EICHERMOT,AUTOMOBILE,2019,Mar 2019,2089.9,17.8,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,17.4,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,16.0,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,LALPATHLAB,HEALTHCARE SERVICES,2018,Mar 2018,438.15,16.0,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,15.2,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,LALPATHLAB,HEALTHCARE SERVICES,2019,Mar 2019,537.05,13.6,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,LTM,,2019,Mar 2019,1673.2,13.3,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,SBILIFE,FINANCIAL SERVICES,2018,Mar 2018,678.25,12.5,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,AUROPHARMA,PHARMA,2018,Mar 2018,557.85,11.0,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,TEJASNET,,2018,Mar 2018,365.65,11.0,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,ERIS,PHARMA,2019,Mar 2019,639.85,10.6,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,LTTS,IT,2019,Mar 2019,1544.85,10.6,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,BRITANNIA,CONSUMER GOODS,2018,Mar 2018,2485.3,10.3,Y
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,PAGEIND,TEXTILES,2018,Mar 2018,22684.55,9.5,N
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,BRITANNIA,CONSUMER GOODS,2019,Mar 2019,3096.55,8.3,N
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,HDFCLIFE,FINANCIAL SERVICES,2019,Mar 2019,371.55,6.8,N
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,HDFCLIFE,FINANCIAL SERVICES,2018,Mar 2018,454.45,6.1,N
+Reserves > 20% YoY for 3 yrs AND Debt/Equity < 0.5,7y,10,NATCOPHARM,PHARMA,2018,Mar 2018,753.65,0.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,BLS,,2020,Mar 2020,7.29,122.6,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TEJASNET,,2020,Mar 2020,31.9,88.6,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,OLECTRA,,2020,Mar 2020,49.2,88.4,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,USHAMART,,2021,Mar 2021,33.05,63.9,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,KEI,INDUSTRIAL MANUFACTURING,2020,Mar 2020,268.35,60.9,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,BLS,,2021,Mar 2021,23.05,59.2,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,KEI,INDUSTRIAL MANUFACTURING,2021,Mar 2021,522.7,50.5,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,OLECTRA,,2019,Mar 2019,253.45,49.4,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,POLYCAB,,2020,Mar 2020,742.05,47.3,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GPIL,,2020,Mar 2020,26.16,47.1,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AMBER,,2020,Mar 2020,1230.45,42.4,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AEGISLOG,,2020,Mar 2020,139.45,42.0,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,KALYANKJIL,,2021,Mar 2021,68.1,40.7,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HEG,INDUSTRIAL MANUFACTURING,2020,Mar 2020,96.8,37.9,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,POLYCAB,,2021,Mar 2021,1379.55,37.8,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,NEWGEN,,2019,Mar 2019,160.6,37.7,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,JKCEMENT,CEMENT & CEMENT PRODUCTS,2019,Mar 2019,826.85,37.6,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ESCORTS,AUTOMOBILE,2020,Mar 2020,662.6,37.4,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LAURUSLABS,PHARMA,2019,Mar 2019,81.06,37.1,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHALET,,2021,Mar 2021,146.3,36.9,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AMBER,,2019,Mar 2019,805.15,35.4,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,OLECTRA,,2021,Mar 2021,217.3,34.8,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DIXON,CONSUMER GOODS,2018,Mar 2018,658.21,34.2,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,JPPOWER,,2021,Mar 2021,3.25,34.0,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TATACHEM,CHEMICALS,2019,Mar 2019,258.92,33.1,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,FSL,IT,2019,Mar 2019,47.8,32.8,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GODREJIND,CONSUMER GOODS,2020,Mar 2020,283.15,32.0,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHALET,,2020,Mar 2020,205.15,31.9,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ITI,TELECOM,2020,Mar 2020,62.75,31.8,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GALLANTT,,2019,Mar 2019,48.85,31.5,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TEJASNET,,2019,Mar 2019,168.9,31.2,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LTTS,IT,2020,Mar 2020,1161.25,31.1,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PIIND,FERTILISERS & PESTICIDES,2019,Mar 2019,1025.55,30.4,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DALBHARAT,,2020,Mar 2020,490.6,30.0,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PRESTIGE,CONSTRUCTION,2021,Mar 2021,305.6,29.8,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LTTS,IT,2019,Mar 2019,1544.85,28.8,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GODREJPROP,CONSTRUCTION,2020,Mar 2020,603.25,28.7,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ESCORTS,AUTOMOBILE,2019,Mar 2019,792.45,28.5,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PIIND,FERTILISERS & PESTICIDES,2018,Mar 2018,885.2,27.9,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AJANTPHARM,PHARMA,2019,Mar 2019,683.6,26.7,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TATACHEM,CHEMICALS,2018,Mar 2018,298.55,26.6,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TATACOMM,,2018,Mar 2018,385.05,26.5,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,25.2,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,UNITDSPR,,2020,Mar 2020,484.6,23.7,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,NEWGEN,,2021,Mar 2021,141.52,23.2,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,APLAPOLLO,METALS,2021,Mar 2021,700.42,22.6,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LTTS,IT,2018,Mar 2018,1235.6,22.3,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ATUL,CHEMICALS,2018,Mar 2018,2613.4,21.6,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ASTERDM,HEALTHCARE SERVICES,2019,Mar 2019,154.5,21.5,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHALET,,2019,Mar 2019,338.8,21.1,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HSCL,CHEMICALS,2019,Mar 2019,115.95,21.1,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,INDHOTEL,SERVICES,2018,Mar 2018,125.48,20.9,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,20.8,Y
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,COROMANDEL,FERTILISERS & PESTICIDES,2021,Mar 2021,774.55,19.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ASTRAL,INDUSTRIAL MANUFACTURING,2020,Mar 2020,526.98,19.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HAVELLS,CONSUMER GOODS,2018,Mar 2018,487.85,19.5,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,KEC,CONSTRUCTION,2019,Mar 2019,304.7,17.9,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,BERGEPAINT,CONSUMER GOODS,2018,Mar 2018,213.92,17.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,UNITDSPR,,2021,Mar 2021,556.35,17.0,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ERIS,PHARMA,2021,Mar 2021,605.0,16.5,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,UNITDSPR,,2019,Mar 2019,532.4,16.3,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHAMBLFERT,FERTILISERS & PESTICIDES,2021,Mar 2021,229.05,13.3,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2020,Mar 2020,2187.5,13.3,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,KAJARIACER,CONSTRUCTION,2018,Mar 2018,572.55,13.0,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,BALKRISIND,AUTOMOBILE,2018,Mar 2018,1068.65,12.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,BLUESTARCO,CONSUMER GOODS,2018,Mar 2018,377.73,12.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AMBER,,2018,Mar 2018,1069.4,11.3,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,IPCALAB,PHARMA,2021,Mar 2021,951.88,11.0,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PAGEIND,TEXTILES,2018,Mar 2018,22684.55,10.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TEJASNET,,2018,Mar 2018,365.65,9.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GPIL,,2021,Mar 2021,179.71,8.4,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2021,Mar 2021,2859.05,6.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GALLANTT,,2018,Mar 2018,40.3,6.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ASAHIINDIA,,2018,Mar 2018,332.0,6.4,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ASTRAL,INDUSTRIAL MANUFACTURING,2021,Mar 2021,1212.64,5.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,5.5,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,MOTILALOFS,FINANCIAL SERVICES,2020,Mar 2020,497.05,4.4,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,UNITDSPR,,2018,Mar 2018,625.93,3.9,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LTFOODS,,2018,Mar 2018,85.0,2.6,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DALBHARAT,,2021,Mar 2021,1589.0,2.3,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PCBL,,2018,Mar 2018,108.56,1.4,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,MARUTI,AUTOMOBILE,2018,Mar 2018,8861.1,-1.3,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HEG,INDUSTRIAL MANUFACTURING,2019,Mar 2019,423.78,-2.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,INTELLECT,IT,2021,Mar 2021,740.0,-4.2,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,SHREECEM,CEMENT & CEMENT PRODUCTS,2021,Mar 2021,29465.4,-4.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DEEPAKNTR,CHEMICALS,2021,Mar 2021,1656.5,-4.9,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,NATCOPHARM,PHARMA,2018,Mar 2018,753.65,-5.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHENNPETRO,ENERGY,2018,Mar 2018,327.35,-6.2,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HINDPETRO,ENERGY,2018,Mar 2018,229.9,-7.2,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HSCL,CHEMICALS,2018,Mar 2018,146.15,-9.8,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CROMPTON,CONSUMER GOODS,2021,Mar 2021,392.5,-10.6,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ATGL,,2021,Mar 2021,961.25,-11.9,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ZEEL,MEDIA & ENTERTAINMENT,2018,Mar 2018,575.5,-18.1,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ZEEL,MEDIA & ENTERTAINMENT,2019,Mar 2019,442.8,-20.7,N
+"Reserves CAGR > 20% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HEG,INDUSTRIAL MANUFACTURING,2018,Mar 2018,637.0,-22.0,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,DIXON,CONSUMER GOODS,2018,Mar 2018,658.21,53.4,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,CDSL,FINANCIAL SERVICES,2018,Mar 2018,141.32,36.1,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,NEWGEN,,2018,Mar 2018,115.9,36.0,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,AMBER,,2019,Mar 2019,805.15,34.9,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,BLS,,2019,Mar 2019,28.96,34.9,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,SAREGAMA,,2018,Mar 2018,63.73,34.7,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,AMBER,,2018,Mar 2018,1069.4,31.3,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,SAREGAMA,,2019,Mar 2019,56.17,28.2,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,TRITURBINE,INDUSTRIAL MANUFACTURING,2018,Mar 2018,100.5,27.9,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,AJANTPHARM,PHARMA,2019,Mar 2019,683.6,22.3,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,PIIND,FERTILISERS & PESTICIDES,2018,Mar 2018,885.2,21.3,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,OLECTRA,,2019,Mar 2019,253.45,21.1,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,CAPLIPOINT,PHARMA,2019,Mar 2019,400.75,20.8,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,EICHERMOT,AUTOMOBILE,2019,Mar 2019,2089.9,17.8,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,HAVELLS,CONSUMER GOODS,2018,Mar 2018,487.85,17.7,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,AEGISLOG,,2018,Mar 2018,259.6,17.6,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,ASTRAL,INDUSTRIAL MANUFACTURING,2019,Mar 2019,516.51,17.5,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,17.4,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,AEGISLOG,,2019,Mar 2019,200.7,16.9,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,SBILIFE,FINANCIAL SERVICES,2019,Mar 2019,616.2,16.3,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,16.0,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,LALPATHLAB,HEALTHCARE SERVICES,2018,Mar 2018,438.15,16.0,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,15.2,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,PIIND,FERTILISERS & PESTICIDES,2019,Mar 2019,1025.55,14.9,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,LTM,,2019,Mar 2019,1673.2,13.3,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,ATUL,CHEMICALS,2018,Mar 2018,2613.4,13.0,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,BERGEPAINT,CONSUMER GOODS,2018,Mar 2018,213.92,12.9,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,SBILIFE,FINANCIAL SERVICES,2018,Mar 2018,678.25,12.5,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,ASIANPAINT,CONSUMER GOODS,2018,Mar 2018,1120.4,11.1,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,TEJASNET,,2018,Mar 2018,365.65,11.0,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,ERIS,PHARMA,2019,Mar 2019,639.85,10.6,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,BRITANNIA,CONSUMER GOODS,2018,Mar 2018,2485.3,10.3,Y
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,BRITANNIA,CONSUMER GOODS,2019,Mar 2019,3096.55,8.3,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,NATCOPHARM,PHARMA,2019,Mar 2019,566.0,8.1,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,ICICIGI,FINANCIAL SERVICES,2019,Mar 2019,1005.3,7.9,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,HINDUNILVR,CONSUMER GOODS,2018,Mar 2018,1333.35,7.8,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,KAJARIACER,CONSTRUCTION,2018,Mar 2018,572.55,6.0,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,NATCOPHARM,PHARMA,2018,Mar 2018,753.65,0.8,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,HEROMOTOCO,AUTOMOBILE,2018,Mar 2018,3542.8,0.7,N
+Reserves CAGR > 20% AND FA CAGR > 10% AND Debt/Equity < 0.3,7y,10,BBTC,CONSUMER GOODS,2019,Mar 2019,1283.55,0.4,N
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,DIXON,CONSUMER GOODS,2018,Mar 2018,658.21,53.4,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,GALLANTT,,2018,Mar 2018,40.3,37.9,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,AMBER,,2019,Mar 2019,805.15,34.9,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,AMBER,,2018,Mar 2018,1069.4,31.3,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,LTFOODS,,2018,Mar 2018,85.0,23.9,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,ASTERDM,HEALTHCARE SERVICES,2019,Mar 2019,154.5,23.3,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,TATACOMM,,2018,Mar 2018,385.05,22.3,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,PCBL,,2018,Mar 2018,108.56,21.5,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,PIIND,FERTILISERS & PESTICIDES,2018,Mar 2018,885.2,21.3,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,OLECTRA,,2019,Mar 2019,253.45,21.1,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,LTTS,IT,2018,Mar 2018,1235.6,20.3,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,HAVELLS,CONSUMER GOODS,2018,Mar 2018,487.85,17.7,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,17.4,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,TATACHEM,CHEMICALS,2018,Mar 2018,298.55,16.4,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,16.0,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,15.2,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,PIIND,FERTILISERS & PESTICIDES,2019,Mar 2019,1025.55,14.9,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,NEWGEN,,2019,Mar 2019,160.6,14.0,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,ATUL,CHEMICALS,2018,Mar 2018,2613.4,13.0,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,UNITDSPR,,2019,Mar 2019,532.4,12.6,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,TEJASNET,,2019,Mar 2019,168.9,12.5,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,UNITDSPR,,2018,Mar 2018,625.93,12.2,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,CHALET,,2019,Mar 2019,338.8,11.0,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,TEJASNET,,2018,Mar 2018,365.65,11.0,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,LTTS,IT,2019,Mar 2019,1544.85,10.6,Y
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,PAGEIND,TEXTILES,2018,Mar 2018,22684.55,9.5,N
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,CHENNPETRO,ENERGY,2018,Mar 2018,327.35,9.4,N
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,ASAHIINDIA,,2018,Mar 2018,332.0,8.9,N
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,HEG,INDUSTRIAL MANUFACTURING,2019,Mar 2019,423.78,3.6,N
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,NATCOPHARM,PHARMA,2018,Mar 2018,753.65,0.8,N
+Reserves CAGR > 25% AND Borrowings CAGR < 0%,7y,10,ZEEL,MEDIA & ENTERTAINMENT,2018,Mar 2018,575.5,-22.3,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,BLS,,2020,Mar 2020,7.29,122.6,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,OLECTRA,,2020,Mar 2020,49.2,88.4,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,USHAMART,,2021,Mar 2021,33.05,63.9,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,KEI,INDUSTRIAL MANUFACTURING,2020,Mar 2020,268.35,60.9,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,KEI,INDUSTRIAL MANUFACTURING,2021,Mar 2021,522.7,50.5,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,OLECTRA,,2019,Mar 2019,253.45,49.4,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,POLYCAB,,2020,Mar 2020,742.05,47.3,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GPIL,,2020,Mar 2020,26.16,47.1,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AMBER,,2020,Mar 2020,1230.45,42.4,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AEGISLOG,,2020,Mar 2020,139.45,42.0,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HEG,INDUSTRIAL MANUFACTURING,2020,Mar 2020,96.8,37.9,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,POLYCAB,,2021,Mar 2021,1379.55,37.8,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,NEWGEN,,2019,Mar 2019,160.6,37.7,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ESCORTS,AUTOMOBILE,2020,Mar 2020,662.6,37.4,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHALET,,2021,Mar 2021,146.3,36.9,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AMBER,,2019,Mar 2019,805.15,35.4,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,OLECTRA,,2021,Mar 2021,217.3,34.8,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DIXON,CONSUMER GOODS,2018,Mar 2018,658.21,34.2,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHALET,,2020,Mar 2020,205.15,31.9,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ITI,TELECOM,2020,Mar 2020,62.75,31.8,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TEJASNET,,2019,Mar 2019,168.9,31.2,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PIIND,FERTILISERS & PESTICIDES,2019,Mar 2019,1025.55,30.4,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DALBHARAT,,2020,Mar 2020,490.6,30.0,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LTTS,IT,2019,Mar 2019,1544.85,28.8,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GODREJPROP,CONSTRUCTION,2020,Mar 2020,603.25,28.7,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PIIND,FERTILISERS & PESTICIDES,2018,Mar 2018,885.2,27.9,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TATACHEM,CHEMICALS,2018,Mar 2018,298.55,26.6,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TATACOMM,,2018,Mar 2018,385.05,26.5,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,25.2,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,UNITDSPR,,2020,Mar 2020,484.6,23.7,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,APLAPOLLO,METALS,2021,Mar 2021,700.42,22.6,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LTTS,IT,2018,Mar 2018,1235.6,22.3,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ATUL,CHEMICALS,2018,Mar 2018,2613.4,21.6,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ASTERDM,HEALTHCARE SERVICES,2019,Mar 2019,154.5,21.5,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHALET,,2019,Mar 2019,338.8,21.1,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,20.8,Y
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HAVELLS,CONSUMER GOODS,2018,Mar 2018,487.85,19.5,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,UNITDSPR,,2019,Mar 2019,532.4,16.3,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHAMBLFERT,FERTILISERS & PESTICIDES,2021,Mar 2021,229.05,13.3,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2020,Mar 2020,2187.5,13.3,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AMBER,,2018,Mar 2018,1069.4,11.3,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PAGEIND,TEXTILES,2018,Mar 2018,22684.55,10.8,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,TEJASNET,,2018,Mar 2018,365.65,9.7,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GPIL,,2021,Mar 2021,179.71,8.4,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DMART,CONSUMER GOODS,2021,Mar 2021,2859.05,6.7,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,GALLANTT,,2018,Mar 2018,40.3,6.7,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ASAHIINDIA,,2018,Mar 2018,332.0,6.4,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,5.5,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,UNITDSPR,,2018,Mar 2018,625.93,3.9,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,LTFOODS,,2018,Mar 2018,85.0,2.6,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DALBHARAT,,2021,Mar 2021,1589.0,2.3,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,PCBL,,2018,Mar 2018,108.56,1.4,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,HEG,INDUSTRIAL MANUFACTURING,2019,Mar 2019,423.78,-2.7,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,DEEPAKNTR,CHEMICALS,2021,Mar 2021,1656.5,-4.9,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,NATCOPHARM,PHARMA,2018,Mar 2018,753.65,-5.7,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CHENNPETRO,ENERGY,2018,Mar 2018,327.35,-6.2,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,CROMPTON,CONSUMER GOODS,2021,Mar 2021,392.5,-10.6,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ATGL,,2021,Mar 2021,961.25,-11.9,N
+"Reserves CAGR > 25% AND Borrowings CAGR < 0% (20% target, 5y)",5y,20,ZEEL,MEDIA & ENTERTAINMENT,2018,Mar 2018,575.5,-18.1,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,DIXON,CONSUMER GOODS,2019,Mar 2019,472.8,53.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,DIXON,CONSUMER GOODS,2018,Mar 2018,658.21,53.4,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,NEULANDLAB,,2019,Mar 2019,615.3,52.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,BLS,,2018,Mar 2018,29.01,45.4,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,NEWGEN,,2018,Mar 2018,115.9,36.0,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,AMBER,,2019,Mar 2019,805.15,34.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,BLS,,2019,Mar 2019,28.96,34.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,SAREGAMA,,2018,Mar 2018,63.73,34.7,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,AMBER,,2018,Mar 2018,1069.4,31.3,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,SAREGAMA,,2019,Mar 2019,56.17,28.2,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,UNOMINDA,,2018,Mar 2018,176.88,25.7,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,PIIND,FERTILISERS & PESTICIDES,2018,Mar 2018,885.2,21.3,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,OLECTRA,,2019,Mar 2019,253.45,21.1,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,CAPLIPOINT,PHARMA,2019,Mar 2019,400.75,20.8,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,EICHERMOT,AUTOMOBILE,2019,Mar 2019,2089.9,17.8,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,HAVELLS,CONSUMER GOODS,2018,Mar 2018,487.85,17.7,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,AEGISLOG,,2018,Mar 2018,259.6,17.6,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,17.4,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,AEGISLOG,,2019,Mar 2019,200.7,16.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,16.0,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,15.2,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,ATUL,CHEMICALS,2018,Mar 2018,2613.4,13.0,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,AUROPHARMA,PHARMA,2018,Mar 2018,557.85,11.0,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,ERIS,PHARMA,2019,Mar 2019,639.85,10.6,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,BRITANNIA,CONSUMER GOODS,2018,Mar 2018,2485.3,10.3,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,ERIS,PHARMA,2018,Mar 2018,799.75,8.5,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,BRITANNIA,CONSUMER GOODS,2019,Mar 2019,3096.55,8.3,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,NATCOPHARM,PHARMA,2019,Mar 2019,566.0,8.1,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5,7y,10,ZYDUSWELL,CONSUMER GOODS,2019,Mar 2019,260.22,7.3,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,DIXON,CONSUMER GOODS,2019,Mar 2019,472.8,53.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,DIXON,CONSUMER GOODS,2018,Mar 2018,658.21,53.4,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,NEULANDLAB,,2019,Mar 2019,615.3,52.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,BLS,,2018,Mar 2018,29.01,45.4,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,NEWGEN,,2018,Mar 2018,115.9,36.0,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,AMBER,,2019,Mar 2019,805.15,34.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,BLS,,2019,Mar 2019,28.96,34.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,SAREGAMA,,2018,Mar 2018,63.73,34.7,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,AMBER,,2018,Mar 2018,1069.4,31.3,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,SAREGAMA,,2019,Mar 2019,56.17,28.2,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,UNOMINDA,,2018,Mar 2018,176.88,25.7,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,PIIND,FERTILISERS & PESTICIDES,2018,Mar 2018,885.2,21.3,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,OLECTRA,,2019,Mar 2019,253.45,21.1,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,CAPLIPOINT,PHARMA,2019,Mar 2019,400.75,20.8,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,EICHERMOT,AUTOMOBILE,2019,Mar 2019,2089.9,17.8,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,HAVELLS,CONSUMER GOODS,2018,Mar 2018,487.85,17.7,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,AEGISLOG,,2018,Mar 2018,259.6,17.6,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,DMART,CONSUMER GOODS,2018,Mar 2018,1324.8,17.4,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,AEGISLOG,,2019,Mar 2019,200.7,16.9,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,AJANTPHARM,PHARMA,2018,Mar 2018,926.9,16.0,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,DMART,CONSUMER GOODS,2019,Mar 2019,1472.5,15.2,Y
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,ATUL,CHEMICALS,2018,Mar 2018,2613.4,13.0,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,AUROPHARMA,PHARMA,2018,Mar 2018,557.85,11.0,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,ERIS,PHARMA,2019,Mar 2019,639.85,10.6,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,BRITANNIA,CONSUMER GOODS,2018,Mar 2018,2485.3,10.3,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,ERIS,PHARMA,2018,Mar 2018,799.75,8.5,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,BRITANNIA,CONSUMER GOODS,2019,Mar 2019,3096.55,8.3,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,NATCOPHARM,PHARMA,2019,Mar 2019,566.0,8.1,N
+Reserves CAGR > 25% AND FA CAGR > 15% AND Debt/Equity < 0.5 (15% target),7y,15,ZYDUSWELL,CONSUMER GOODS,2019,Mar 2019,260.22,7.3,N
