@@ -1,0 +1,72 @@
+signal,horizon,n,hits_positive,hit_rate_pct,avg_return_pct,median_return_pct
+ROCE > 20% AND FA CAGR > 10% (profitable expansion),7y,103,100,97.1,313.1,165.1
+Receivables CAGR < Sales CAGR (collections improving),7y,181,175,96.7,340.4,194.6
+Inventory CAGR < Sales CAGR,7y,191,182,95.3,328.6,197.8
+FA shrinking (CAGR < 0%),7y,154,146,94.8,400.0,207.5
+FA CAGR between 10% and 20% (steady capex),7y,151,143,94.7,280.1,191.4
+FA CAGR < Sales CAGR (capital-efficient growth),7y,153,144,94.1,399.0,198.7
+Payables CAGR > 0 (better supplier terms),7y,478,449,93.9,297.8,175.8
+Profit CAGR > Sales CAGR (margin expanding),7y,244,229,93.9,314.7,187.0
+Receivables days < 60,7y,667,625,93.7,289.3,151.7
+Sales CAGR > 15%,7y,155,145,93.5,388.3,213.4
+ROE > 20% AND Sales CAGR > 15%,7y,46,43,93.5,310.4,154.6
+Debt/Equity < 0.5,7y,700,651,93.0,287.9,163.5
+CWIP / FA > 25% (heavy investment pipeline),7y,214,199,93.0,304.0,148.6
+FA CAGR > 25%,7y,98,91,92.9,335.4,179.5
+FA CAGR > 15% (heavy capex),7y,209,194,92.8,327.3,190.4
+FA CAGR < Sales CAGR (capital-efficient growth),5y,267,247,92.5,383.9,188.0
+ROCE > 15%,7y,713,658,92.3,273.6,144.3
+Sales CAGR > 20%,7y,78,72,92.3,393.0,208.8
+CCC days < 60,7y,591,545,92.2,287.5,152.6
+Debt/Equity < 0.3 (low leverage),7y,550,506,92.0,273.3,150.7
+FA CAGR > 20%,7y,135,124,91.9,336.8,174.9
+Receivables days < 30,7y,354,325,91.8,277.0,134.2
+Debt/Equity > 1.0 (high leverage),7y,360,330,91.7,406.0,212.3
+Profit CAGR > 15%,7y,240,220,91.7,289.0,181.5
+ROCE > 20% AND Sales CAGR > 15%,7y,68,62,91.2,381.7,177.7
+Receivables CAGR < Sales CAGR (collections improving),5y,431,392,91.0,404.0,167.4
+ROCE > 20%,7y,464,422,90.9,239.1,129.7
+ROCE > 20% AND Debt/Equity < 0.3,7y,295,268,90.8,196.6,123.1
+CCC days < 30 (efficient working capital),7y,377,342,90.7,244.6,125.9
+ROE > 15%,7y,645,583,90.4,238.8,137.1
+Inventory CAGR < Sales CAGR,5y,363,328,90.4,363.4,156.7
+FA CAGR between 10% and 20% (steady capex),5y,290,262,90.3,291.0,142.7
+Profit CAGR > 20%,7y,175,158,90.3,310.0,185.3
+Profit CAGR > Sales CAGR (margin expanding),5y,520,468,90.0,290.9,139.0
+FA shrinking (CAGR < 0%),5y,280,252,90.0,532.0,209.6
+ROCE > 25%,7y,285,256,89.8,236.7,118.8
+ROE > 20%,7y,362,324,89.5,214.6,129.2
+Sales CAGR > 15%,5y,278,248,89.2,380.0,187.8
+ROCE > 30% (very high return),7y,178,158,88.8,183.0,109.6
+Profit CAGR > 20%,5y,354,312,88.1,309.0,146.6
+Payables CAGR > 0 (better supplier terms),5y,932,820,88.0,312.5,140.8
+ROCE > 25% AND ROE > 25% (super-quality),7y,130,114,87.7,164.6,97.5
+ROCE > 20% AND Sales CAGR > 15%,5y,120,105,87.5,382.7,167.7
+Profit CAGR > 15%,5y,472,412,87.3,287.3,139.4
+ROE > 25%,7y,179,156,87.2,169.8,99.9
+Sales CAGR > 20%,5y,149,130,87.2,434.0,207.8
+ROE > 20% AND Sales CAGR > 15%,5y,80,69,86.2,303.0,147.1
+ROCE > 20% AND FA CAGR > 10% (profitable expansion),5y,211,180,85.3,290.8,126.6
+FA CAGR > 15% (heavy capex),5y,443,377,85.1,282.3,139.6
+Profit CAGR > Sales CAGR (margin expanding),3y,855,725,84.8,143.4,76.7
+Receivables CAGR < Sales CAGR (collections improving),3y,783,658,84.0,158.6,85.7
+FA shrinking (CAGR < 0%),3y,448,374,83.5,214.0,90.4
+Debt/Equity < 0.3 (low leverage),5y,866,722,83.4,261.9,107.1
+FA CAGR between 10% and 20% (steady capex),3y,444,370,83.3,126.2,71.4
+FA CAGR > 25%,5y,230,191,83.0,296.0,140.8
+Debt/Equity < 0.5,5y,1074,889,82.8,260.6,107.1
+Profit CAGR > 15%,3y,837,693,82.8,139.1,71.5
+FA CAGR > 20%,5y,308,254,82.5,277.6,139.1
+Profit CAGR > 20%,3y,655,539,82.3,142.0,73.5
+Inventory CAGR < Sales CAGR,3y,593,488,82.3,149.2,76.0
+Receivables days < 60,5y,994,816,82.1,247.5,100.4
+ROCE > 15%,5y,1036,847,81.8,217.0,96.8
+FA CAGR < Sales CAGR (capital-efficient growth),3y,531,433,81.5,146.3,73.6
+Payables CAGR > 0 (better supplier terms),3y,1539,1253,81.4,132.3,69.2
+CCC days < 60,5y,874,708,81.0,244.3,95.5
+ROCE > 20% AND Debt/Equity < 0.3,5y,449,363,80.8,183.0,87.4
+Sales CAGR > 20%,3y,308,249,80.8,154.3,70.4
+Receivables days < 30,5y,522,420,80.5,209.0,86.8
+CCC days < 30 (efficient working capital),5y,565,454,80.4,211.3,83.9
+ROCE > 20% AND FA CAGR > 10% (profitable expansion),3y,327,263,80.4,115.7,57.3
+Sales CAGR > 15%,3y,539,432,80.1,140.5,70.0
