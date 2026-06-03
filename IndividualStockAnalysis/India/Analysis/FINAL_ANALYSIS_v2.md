@@ -1,7 +1,9 @@
-# FINAL ANALYSIS v2 — Balance Sheet Patterns → 20% Stock CAGR
+# FINAL ANALYSIS v2 — Predicting Forward Stock CAGR from 3-Year Balance Sheet Patterns
 
 **Universe:** Nifty 500 (all 500 constituents)
-**Horizons tested:** 3 years, 5 years, 7 years forward stock-price CAGR
+**Predictor framing:** *Given a company's balance sheet for the last
+3 years up to fiscal-year-end T, predict the stock-price CAGR over
+the next 3, 5, or 7 years (T → T+3, T → T+5, T → T+7).*
 **Sample size:** 5,975 (company, base-year) observations from FY 2015 → FY 2026
 **Data sources:** screener.in (standardized from MCA-filed audited annual reports) + Yahoo Finance EOD prices
 **Prepared:** 2026-06-02
@@ -9,7 +11,57 @@
 
 ---
 
-## 0. TL;DR — The honest finding upfront
+## 0. How this analysis is framed (the predictor view)
+
+The user-facing question this study answers:
+
+> *"I'm looking at a company today (year T). I have its balance sheet
+> for the last 3 fiscal years (T-2, T-1, T). Can I predict whether the
+> stock will compound at ≥20% per year over the next 3-7 years?"*
+
+To answer this, for each historical (company, year T) observation in
+the Nifty 500 panel:
+
+1. **Compute predictor features** using ONLY the balance sheet data for
+   years T-2, T-1, T:
+   - 3-year CAGRs (e.g., Fixed Assets CAGR computed as `FA[T] / FA[T-3]`)
+   - YoY persistence checks (e.g., "Reserves grew > 20% each of the
+     last 3 years" = `(reserves[T]/reserves[T-1] > 1.2) AND
+     (reserves[T-1]/reserves[T-2] > 1.2) AND (reserves[T-2]/reserves[T-3] > 1.2)`)
+   - Static ratios at year T (Debt/Equity at T, Cash/TA at T)
+
+2. **Compute forward outcomes** using stock prices AFTER year T:
+   - 3-year forward CAGR = `(price[T+3] / price[T]) ^ (1/3) - 1`
+   - 5-year forward CAGR = `(price[T+5] / price[T]) ^ (1/5) - 1`
+   - 7-year forward CAGR = `(price[T+7] / price[T]) ^ (1/7) - 1`
+
+3. **Test patterns**: for each predictor signal × forward horizon, count
+   how often the forward CAGR meets the target threshold (10%, 15%, 20%).
+   Report the **hit rate** = % of historical cases where the prediction
+   would have been "right."
+
+**This is the standard "use past N years of BS → predict next N years
+of stock" framing.** The 3-year backward window keeps the predictor
+focused on a stable trend (not single-year noise); the 3y/5y/7y
+forward windows let us see whether the pattern's predictive power
+strengthens or fades with horizon.
+
+### Worked example using Dixon Technologies
+
+| What we'd see in March 2018 | What the stock did 2018 → 2025 |
+|----|----|
+| Reserves CAGR over Mar 2015 → Mar 2018: > 25% | Stock CAGR 2018 → 2025: **+53.4%/yr** |
+| Fixed Assets CAGR over Mar 2015 → Mar 2018: > 15% | (Total return ≈ +1,924%) |
+| Debt/Equity at Mar 2018: < 0.5 | ⇒ pattern correctly predicted ≥20% CAGR |
+
+This is one of 29 (company, base-year) observations that matched
+Pattern #2 in §3 below; **86.2% of those 29 observations delivered
+≥10% CAGR over the next 7 years**, with average realized CAGR of
++23.8%.
+
+---
+
+## 1. TL;DR — The honest finding upfront
 
 > **The combination "stock CAGR ≥ 20% with ≥ 80% probability" is
 > essentially unachievable from balance-sheet-only signals in the
@@ -601,7 +653,92 @@ Within the qualifying companies:
 
 ---
 
-## 9. Reproducibility
+## 9. How to use this as a forward predictor (today's Nifty 500)
+
+The patterns above were trained on historical data (base years
+2015-2019 for the 7-year tests). To use them **today** for forward
+prediction:
+
+### Step 1 — Gather 3 years of balance sheet data for a candidate company
+
+You need the following line items at Mar 2024, Mar 2025, and Mar 2026
+(or wherever the most-recent 3 fiscal years end):
+
+- Fixed Assets
+- Reserves
+- Borrowings
+- Equity Capital
+- Total Assets
+- Cash Equivalents (optional, for some signals)
+
+All of this is in `../BalanceSheet/{NSE_SYMBOL}.csv` for every Nifty
+500 company.
+
+### Step 2 — Apply the 5 high-conviction patterns
+
+A candidate is **high-conviction** if it matches at least ONE of these
+5 patterns (which historically had 80-88% probability of ≥10% CAGR
+over the next 7 years):
+
+1. **Sustained capex** — Fixed Assets grew > 20% YoY in EACH of the
+   3 fiscal years Mar 2024 → Mar 2025 → Mar 2026
+2. **Quality growth with discipline** — Reserves CAGR (Mar 2023 → Mar
+   2026) > 25% AND Fixed Assets CAGR (Mar 2023 → Mar 2026) > 15% AND
+   Debt/Equity at Mar 2026 < 0.5
+3. **Earnings persistence** — Reserves grew > 20% YoY in EACH of the
+   last 3 years AND Debt/Equity at Mar 2026 < 0.5
+4. **Deleveraging compounder** — Reserves CAGR > 25% over the last 3
+   years AND Borrowings CAGR < 0% over the same period
+5. **Profitable expansion (largest sample)** — Reserves CAGR > 20%
+   AND Fixed Assets CAGR > 10% AND Debt/Equity < 0.3
+
+### Step 3 — Forward expectation
+
+- **Time horizon**: 7 years (where the patterns are strongest)
+- **Expected outcome**: ≥10% CAGR with 80-88% historical probability
+- **Realized historical avg**: 16-24% CAGR
+- **Best-case ceiling** (top of the range): companies like DIXON
+  delivered 53% CAGR; AMBER delivered 34%; the median qualifying
+  company returned about 17-18% CAGR.
+
+### Step 4 — Risk overlay (not built into this study)
+
+To filter the screen winners further, apply:
+- **Valuation discipline**: avoid names trading at P/E > 80 or P/B
+  > 10 (the historical pattern doesn't capture entry-valuation risk)
+- **Sector diversification**: don't bet only on the consumer-goods
+  cluster that dominates the screen winners
+- **Position sizing**: with n=17-40 historical observations per
+  pattern, the 95% Bayesian credible interval on the true hit rate
+  is 65-95% — size positions accordingly
+
+### Step 5 — What the predictor CAN'T do
+
+- **Predict the next 1-2 years** — these patterns work over 5-7 years;
+  short-term moves are driven by macro factors not captured here.
+- **Tell you the exact CAGR** — only the probability distribution
+  (median around 16-18%, top of range around 30-50%).
+- **Replace fundamental analysis** — these are *prior* probabilities;
+  you should still understand the business, competitive position,
+  and management quality.
+
+### Worked example walk-through — applying the framework today
+
+Suppose you're evaluating XYZ Ltd. as of June 2026:
+
+| Step | Check | XYZ's values |
+|------|-------|--------------|
+| 1 | Fetch BS for Mar 2024, Mar 2025, Mar 2026 | from `../BalanceSheet/XYZ.csv` |
+| 2.1 | Fixed Assets YoY check (each of 3 years) | Mar 2024 → 2025: +18%; Mar 2025 → 2026: +22%; Mar 2023 → 2024: +24% |
+| 2.2 | Reserves CAGR (Mar 2023 → Mar 2026) | +28% |
+| 2.3 | Debt/Equity at Mar 2026 | 0.35 |
+| 2.4 | Borrowings CAGR (Mar 2023 → Mar 2026) | -5% |
+| 3 | Match against patterns | ✓ Pattern 1 (FA > 20% YoY only 2 of 3 years — NEAR-MISS)<br>✓ Pattern 2 (28% > 25% AND 21% > 15% AND 0.35 < 0.5 — MATCH)<br>✓ Pattern 3 (Reserves YoY checks; D/E < 0.5 — likely MATCH)<br>✓ Pattern 4 (28% > 25% AND -5% < 0 — MATCH)<br>✓ Pattern 5 (28% > 20% AND 21% > 10% AND 0.35 > 0.3 — NEAR-MISS) |
+| 4 | Forward expectation | 7-yr CAGR ≥10% with ~80% probability based on history;<br>avg realized CAGR for the cluster of 80%+ pattern matches: 16-24%/yr |
+
+---
+
+## 10. Reproducibility
 
 All analyses are reproducible by running `python3 run_analysis_v4.py`
 in this folder. Source data:
@@ -621,7 +758,7 @@ Output files:
 
 ---
 
-## 10. Bottom line
+## 11. Bottom line
 
 **To the user's exact question**: "patterns where stock price CAGR is
 at least 20% and the hit rate or probability of such patterns should
