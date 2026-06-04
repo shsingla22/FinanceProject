@@ -1,0 +1,25 @@
+,parent_line_item,Mar 2024,Mar 2025,Mar 2026
+Sales,,2009.0,2222.0,2982.0
+Expenses,,1924.0,1958.0,2631.0
+Operating Profit,,86.0,264.0,352.0
+OPM %,,4.0,12.0,12.0
+Other Income,,6.0,9.0,12.0
+Interest,,24.0,4.0,6.0
+Depreciation,,32.0,37.0,53.0
+Profit before tax,,36.0,233.0,304.0
+Tax %,,47.0,26.0,23.0
+Net Profit,,19.0,173.0,235.0
+EPS in Rs,,10.76,98.47,133.72
+Dividend Payout %,,37.0,100.0,23.0
+Sales Growth %,Sales,,34.21,15.28
+Material Cost %,Expenses,74.0,74.0,73.0
+Manufacturing Cost %,Expenses,7.0,7.0,0.0
+Employee Cost %,Expenses,3.0,3.0,4.0
+Other Cost %,Expenses,4.0,5.0,13.0
+Exceptional items,Other Income,1.32,3.15,-2.78
+Other income normal,Other Income,7.94,8.74,16.37
+Exceptional items AT,Net Profit,1.0,2.0,-2.0
+Profit excl Excep,Net Profit,172.0,233.0,185.0
+Profit for PE,Net Profit,172.0,233.0,185.0
+Profit for EPS,Net Profit,173.0,235.0,183.0
+Profit Growth %,Net Profit,,35.0,-21.0

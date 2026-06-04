@@ -1,0 +1,25 @@
+,parent_line_item,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
+Sales,,2671.0,3666.0,4305.0,4570.0,4920.0,3763.0
+Expenses,,2251.0,3111.0,3556.0,3853.0,4175.0,3315.0
+Operating Profit,,420.0,555.0,749.0,718.0,745.0,449.0
+OPM %,,16.0,15.0,17.0,16.0,15.0,12.0
+Other Income,,36.0,35.0,52.0,94.0,102.0,63.0
+Interest,,2.0,2.0,2.0,1.0,1.0,0.0
+Depreciation,,58.0,57.0,67.0,75.0,83.0,78.0
+Profit before tax,,396.0,531.0,733.0,736.0,763.0,433.0
+Tax %,,25.0,26.0,28.0,25.0,26.0,39.0
+Net Profit,,298.0,395.0,525.0,552.0,566.0,266.0
+EPS in Rs,,60.26,79.95,106.25,111.7,114.56,53.83
+Dividend Payout %,,24.0,18.0,38.0,116.0,13.0,74.0
+Sales Growth %,Sales,,37.26,17.43,6.16,7.65,-23.51
+Material Cost %,Expenses,58.0,61.0,60.0,61.0,61.0,60.0
+Manufacturing Cost %,Expenses,6.0,6.0,6.0,6.0,6.0,0.0
+Employee Cost %,Expenses,9.0,8.0,7.0,8.0,7.0,8.0
+Other Cost %,Expenses,10.0,10.0,10.0,10.0,10.0,21.0
+Exceptional items,Other Income,1.0,0.0,1.0,1.0,0.0,-43.0
+Other income normal,Other Income,35.0,34.0,51.0,93.0,102.0,106.0
+Exceptional items AT,Net Profit,1.0,0.0,0.0,1.0,0.0,-26.0
+Profit excl Excep,Net Profit,297.0,395.0,524.0,551.0,566.0,291.0
+Profit for PE,Net Profit,297.0,395.0,524.0,551.0,566.0,291.0
+Profit for EPS,Net Profit,298.0,395.0,525.0,552.0,566.0,266.0
+Profit Growth %,Net Profit,,33.0,33.0,5.0,3.0,-48.0
