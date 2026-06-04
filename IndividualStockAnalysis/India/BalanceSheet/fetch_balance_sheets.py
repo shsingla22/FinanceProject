@@ -54,9 +54,11 @@ from pathlib import Path
 import pandas as pd
 
 HERE = Path(__file__).parent
+OUT_DIR = HERE / "Nifty500"
+OUT_DIR.mkdir(exist_ok=True)
 CONST_CSV = HERE.parent / "Nifty500" / "nifty500_constituents.csv"
-LOG_CSV = HERE / "_fetch_log.csv"
-LONG_CSV = HERE / "_all_balance_sheets_long.csv"
+LOG_CSV = OUT_DIR / "_fetch_log.csv"
+LONG_CSV = OUT_DIR / "_all_balance_sheets_long.csv"
 
 UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -255,7 +257,7 @@ def main() -> None:
 
         if combined_df is not None:
             safe_name = sym.replace("&", "_AND_")
-            out_path = HERE / f"{safe_name}.csv"
+            out_path = OUT_DIR / f"{safe_name}.csv"
             combined_df.to_csv(out_path)
         all_long_rows.extend(long_rows)
         log_rows.append({"nse_symbol": sym, "status": status})

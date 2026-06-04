@@ -8,9 +8,9 @@ from base_year to base_year+3, +5, +7. Filters to signals with hit
 rate (% of cases delivering positive returns) >= 80%.
 
 Inputs (relative to this script):
-  ../BalanceSheet/_all_balance_sheets_long.csv
-  ../ProfitStatement/_all_profit_loss_long.csv
-  ../StockInfo/_all_stock_info_long.csv
+  ../BalanceSheet/Nifty500/_all_balance_sheets_long.csv
+  ../ProfitStatement/Nifty500/_all_profit_loss_long.csv
+  ../StockInfo/Nifty500/_all_stock_info_long.csv
   ../Nifty500/nifty500_constituents.csv
 
 Outputs (this folder):
@@ -32,9 +32,9 @@ import numpy as np
 import pandas as pd
 
 HERE = Path(__file__).parent
-DATA_BS = HERE.parent / "BalanceSheet" / "_all_balance_sheets_long.csv"
-DATA_PL = HERE.parent / "ProfitStatement" / "_all_profit_loss_long.csv"
-DATA_SI = HERE.parent / "StockInfo" / "_all_stock_info_long.csv"
+DATA_BS = HERE.parent / "BalanceSheet" / "Nifty500" / "_all_balance_sheets_long.csv"
+DATA_PL = HERE.parent / "ProfitStatement" / "Nifty500" / "_all_profit_loss_long.csv"
+DATA_SI = HERE.parent / "StockInfo" / "Nifty500" / "_all_stock_info_long.csv"
 DATA_CON = HERE.parent / "Nifty500" / "nifty500_constituents.csv"
 
 OUT_RESULTS = HERE / "pattern_results.csv"

@@ -36,9 +36,9 @@ import pandas as pd
 HERE = Path(__file__).resolve().parent
 DATA = HERE.parent
 
-BS_FILE = DATA / "BalanceSheet" / "_all_balance_sheets_long.csv"
-PL_FILE = DATA / "ProfitStatement" / "_all_profit_loss_long.csv"
-SI_FILE = DATA / "StockInfo" / "_all_stock_info_long.csv"
+BS_FILE = DATA / "BalanceSheet" / "Nifty500" / "_all_balance_sheets_long.csv"
+PL_FILE = DATA / "ProfitStatement" / "Nifty500" / "_all_profit_loss_long.csv"
+SI_FILE = DATA / "StockInfo" / "Nifty500" / "_all_stock_info_long.csv"
 N500    = DATA / "Nifty500" / "nifty500_constituents.csv"
 
 MONTH_ORDER = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,

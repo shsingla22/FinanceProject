@@ -47,11 +47,13 @@ from pathlib import Path
 import pandas as pd
 
 HERE = Path(__file__).parent
+OUT_DIR = HERE / "Nifty500"
+OUT_DIR.mkdir(exist_ok=True)
 CONST_CSV = HERE.parent / "Nifty500" / "nifty500_constituents.csv"
-BS_DIR = HERE.parent / "BalanceSheet"
-PL_DIR = HERE.parent / "ProfitStatement"
-LOG_CSV = HERE / "_fetch_log.csv"
-LONG_CSV = HERE / "_all_stock_info_long.csv"
+BS_DIR = HERE.parent / "BalanceSheet" / "Nifty500"
+PL_DIR = HERE.parent / "ProfitStatement" / "Nifty500"
+LOG_CSV = OUT_DIR / "_fetch_log.csv"
+LONG_CSV = OUT_DIR / "_all_stock_info_long.csv"
 
 UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -411,7 +413,7 @@ def main() -> None:
 
         if df is not None:
             safe_name = sym.replace("&", "_AND_")
-            df.to_csv(HERE / f"{safe_name}.csv")
+            df.to_csv(OUT_DIR / f"{safe_name}.csv")
             for metric, row in df.iterrows():
                 for year_col, val in row.items():
                     all_long_rows.append({

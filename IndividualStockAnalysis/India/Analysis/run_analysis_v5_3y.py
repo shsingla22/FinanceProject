@@ -32,8 +32,8 @@ import numpy as np
 import pandas as pd
 
 HERE = Path(__file__).parent
-DATA_BS = HERE.parent / "BalanceSheet" / "_all_balance_sheets_long.csv"
-DATA_SI = HERE.parent / "StockInfo" / "_all_stock_info_long.csv"
+DATA_BS = HERE.parent / "BalanceSheet" / "Nifty500" / "_all_balance_sheets_long.csv"
+DATA_SI = HERE.parent / "StockInfo" / "Nifty500" / "_all_stock_info_long.csv"
 DATA_CON = HERE.parent / "Nifty500" / "nifty500_constituents.csv"
 
 

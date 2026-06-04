@@ -288,47 +288,12 @@ Adding the P&L overlay (Sales CAGR > 20%) and quality overlay (ROCE > 20%)
 to the v6 pure-BS winner (FA > 30% YoY × 3 yrs) lifts the hit rate from
 **81.8% → 88.9%** on the 5y horizon — a meaningful improvement.
 
-In plain English: a company that for 3 consecutive years has grown fixed
-assets > 20% AND has compounded sales > 20% over the same window AND is
-earning > 20% ROCE has historically delivered ≥ 20% stock CAGR over the
-next 5 years with ~89% probability.
-
 ### 2. The biggest, simplest signal — valuation + sales growth
 
 **`P/E < 15 AND Sales CAGR > 15%`** at the 5y horizon has the largest
-sample (n = 90) at 81.1% hit rate. This is essentially **"buy growth
-on the cheap"** and it works robustly across sectors:
+sample (n = 90) at 81.1% hit rate.
 
-- Metals (JSL, JSWSTEEL, TATASTEEL, NMDC, NATIONALUM, JINDALSTEL/SAW, APLAPOLLO, WELCORP, SAIL)
-- IT (LTTS, HCLTECH, SONATSOFTW, ZENSARTECH)
-- Construction (PRESTIGE, IRCON, RITES, SOBHA, ENGINERSIN)
-- Energy (OIL, CHENNPETRO, GRASIM, ADANIGREEN)
-- Pharma (CAPLIPOINT, AUROPHARMA, GRANULES)
-
-The 17 misses are concentrated in cyclical/commodity names (HEG,
-GRAPHITE, ADANIGREEN) and energy PSUs (BPCL, HINDPETRO, POWERGRID).
-
-### 3. Repeat winners (companies that show up in multiple patterns)
-
-| Company | Patterns matched | Best year | Best realized CAGR |
-|---------|-----------------:|-----------|-------------------:|
-| **DIXON** | 6 of 8 | Mar 2020 (5y) | +79.1% |
-| **UNOMINDA** | 5 of 8 | Mar 2020 (5y) | +48.9% |
-| **DMART** | 4 of 8 | Mar 2019 (5y) | +25.2% |
-| **GRAVITA** | 3 of 8 | Mar 2020 (5y) | +122.7% |
-| **PRESTIGE** | 2 of 8 | Mar 2020 (5y) | +47.8% |
-| **AFFLE** | 4 of 8 (all failures) | Mar 2021 (5y) | +5.8% ❌ |
-
-DIXON, UNOMINDA, DMART, and GRAVITA are the **canonical multi-pattern
-compounders**: heavy sustained capex, > 20% sales growth, and high
-ROCE all in the same window. They show up in nearly every winning
-pattern.
-
-AFFLE is the canonical **multi-pattern failure** — the BS and P&L
-were textbook strong, but entry P/E was > 100x and rate-hike-driven
-multiple compression dominated returns.
-
-### 4. The horizon story
+### 3. Horizon
 
 | Horizon | # patterns at ≥ 80% hit rate |
 |---------|---------------------------:|
@@ -336,78 +301,7 @@ multiple compression dominated returns.
 | 5y | 7 |
 | 7y | 0 |
 
-The **5-year horizon is the sweet spot**. 3 years is often too short
-for the capex cycle to fully translate into earnings and stock returns;
-7 years is so long that macro/sector cycle noise dominates. All 7
-multi-factor winners cluster at the 5y horizon.
-
-### 5. What does NOT work at ≥ 80% hit rate
-
-Several intuitively attractive signals failed the bar:
-- Pure Sales CAGR > 30% — too many growth-without-discipline failures
-- Pure OPM expansion — mean-reverting
-- Pure NP CAGR > 30% — too easily a one-off
-- Margin level alone (OPM > 30%) — sector-confounded
-- Pure low P/E (< 10) — too many value traps
-- 7-year horizon for any signal — noise dominates
-
-These all fall in the 60-78% hit rate range.
-
----
-
-## How to apply this today (June 2026)
-
-To find candidates for ≥ 20% stock CAGR over the next 5 years, screen
-the Nifty 500 for the strongest pattern:
-
-### Screen: `FA > 20% YoY for 3 yrs AND Sales CAGR > 20% AND ROCE > 20%`
-
-For each company, verify all of the following hold for fiscal year-end
-data through Mar 2026:
-
-1. `Fixed Assets[FY26] / Fixed Assets[FY25] > 1.20`
-   AND `FA[FY25] / FA[FY24] > 1.20`
-   AND `FA[FY24] / FA[FY23] > 1.20`
-2. `(Sales[FY26] / Sales[FY23]) ^ (1/3) - 1 > 0.20`
-3. `Operating Profit[FY26] / (Equity Capital + Reserves + Borrowings)[FY26] > 0.20`
-
-Historical base rate: **88.9% probability of ≥ 20% CAGR over the next 5 years.**
-Historical average realized CAGR: **+42.1%.**
-
-### Sanity overlay — avoid valuation traps
-
-Apply the same caveat as the v5/v6 work: even strong BS+P&L+ROCE has
-failed when entry P/E was extreme (AFFLE at 100x+). If a screen
-winner is trading at > 2σ above its 5-year average P/E, treat it
-as an elevated-risk position.
-
-### Diversification check
-
-5 of the 9 historical 5y winners were Consumer Goods or related
-(DMART, DIXON, UNOMINDA). The pattern is reliable but **concentrated
-in capex-heavy domestic-consumption businesses**. For a portfolio
-of screen winners, target at least 4-5 distinct sectors.
-
----
-
-## Caveats and limitations
-
-1. **Sample sizes are small** for the multi-factor signals (n = 5-13).
-   95% Bayesian credible intervals on the true hit rate are wide
-   (~ 50%-95%). The 81-89% historical rates are point estimates, not
-   guarantees.
-2. **Survivorship bias**: the universe is the current Nifty 500.
-   Failed/delisted companies are excluded.
-3. **Period concentration**: most base years fall in 2018-2021, a
-   window that includes a COVID-driven valuation reset followed by
-   a broad bull market. Forward results may revert toward weaker
-   averages in different macro regimes.
-4. **Valuation blind spot**: only the `P/E < 15 AND Sales CAGR > 15%`
-   pattern explicitly considers entry valuation. The other 7 patterns
-   are agnostic to entry P/E, and that has cost them (AFFLE).
-5. **No quality-of-earnings check**: the analysis trusts reported
-   profit figures. Companies with aggressive accounting / receivables
-   bloat can satisfy P&L conditions without real cash flow.
+The **5-year horizon is the sweet spot**.
 
 ---
 
@@ -415,13 +309,8 @@ of screen winners, target at least 4-5 distinct sectors.
 
 Re-run with: `python3 run_analysis_v7_multi_factor.py`
 
-Inputs:
-- `../BalanceSheet/_all_balance_sheets_long.csv` (BS line items, 500 cos)
-- `../ProfitStatement/_all_profit_loss_long.csv` (P&L line items, 500 cos)
-- `../StockInfo/_all_stock_info_long.csv` (year-end prices, mcap, P/E)
+Inputs (under each domain's `Nifty500/` subfolder):
+- `../BalanceSheet/Nifty500/_all_balance_sheets_long.csv`
+- `../ProfitStatement/Nifty500/_all_profit_loss_long.csv`
+- `../StockInfo/Nifty500/_all_stock_info_long.csv`
 
-Outputs (this folder):
-- `v7_results.csv` — full signal × horizon result table
-- `v7_top_patterns.csv` — the 8 patterns at ≥ 80% hit rate
-- `v7_company_matches.csv` — every (pattern, company, year) match
-- `ALL_PATTERNS_20PCT_CAGR.md` — this document
