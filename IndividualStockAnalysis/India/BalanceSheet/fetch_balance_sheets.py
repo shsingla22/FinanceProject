@@ -43,6 +43,7 @@ Usage:
   python3 fetch_balance_sheets.py
 """
 
+import argparse
 import json
 import re
 import time
@@ -54,11 +55,18 @@ from pathlib import Path
 import pandas as pd
 
 HERE = Path(__file__).parent
-OUT_DIR = HERE / "Nifty500"
-OUT_DIR.mkdir(exist_ok=True)
-CONST_CSV = HERE.parent / "Nifty500" / "nifty500_constituents.csv"
-LOG_CSV = OUT_DIR / "_fetch_log.csv"
-LONG_CSV = OUT_DIR / "_all_balance_sheets_long.csv"
+
+# Universe registry: maps --universe name to (constituents CSV path, output dir)
+UNIVERSES = {
+    "Nifty500": {
+        "const": HERE.parent / "Nifty500" / "nifty500_constituents.csv",
+        "out": HERE / "Nifty500",
+    },
+    "NiftyTotalMarket": {
+        "const": HERE.parent / "NiftyTotalMarket" / "niftytotalmarket_constituents.csv",
+        "out": HERE / "NiftyTotalMarket",
+    },
+}
 
 UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -238,18 +246,81 @@ def fetch_company_detailed(symbol: str) -> tuple[pd.DataFrame | None, list[dict]
     return combined, long_rows, status
 
 
+def reload_csv_to_long(out_dir: Path, sym: str) -> list[dict]:
+    """Reload an existing per-company wide CSV and emit long-format rows."""
+    safe_name = sym.replace("&", "_AND_")
+    path = out_dir / f"{safe_name}.csv"
+    if not path.exists():
+        return []
+    df = pd.read_csv(path, index_col=0)
+    parent_col = df["parent_line_item"] if "parent_line_item" in df.columns else None
+    year_cols = [c for c in df.columns if c != "parent_line_item"]
+    rows = []
+    for line_item, row in df.iterrows():
+        parent = ""
+        if parent_col is not None:
+            v = parent_col.get(line_item)
+            parent = "" if pd.isna(v) else str(v)
+        for year_col in year_cols:
+            rows.append({
+                "nse_symbol": sym,
+                "year": year_col,
+                "line_item": line_item,
+                "parent_line_item": parent,
+                "value_rs_cr": row[year_col],
+            })
+    return rows
+
+
 def main() -> None:
-    constituents = pd.read_csv(CONST_CSV)
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--universe", choices=list(UNIVERSES), default="Nifty500",
+                    help="Which constituent universe to fetch (default: Nifty500)")
+    ap.add_argument("--skip-existing", action="store_true",
+                    help="Skip cos whose per-company CSV already exists in the output dir")
+    args = ap.parse_args()
+
+    cfg = UNIVERSES[args.universe]
+    const_csv = cfg["const"]
+    out_dir = cfg["out"]
+    out_dir.mkdir(exist_ok=True)
+    log_csv = out_dir / "_fetch_log.csv"
+    long_csv = out_dir / "_all_balance_sheets_long.csv"
+
+    constituents = pd.read_csv(const_csv)
     symbols = constituents["nse_symbol"].dropna().unique().tolist()
-    print(f"Total symbols to fetch: {len(symbols)}")
-    print(f"Output folder: {HERE}")
-    print(f"Estimated time: {len(symbols) * 5 * DELAY_BETWEEN_REQUESTS / 60:.1f} min")
+
+    if args.skip_existing:
+        existing = {p.stem.replace("_AND_", "&") for p in out_dir.glob("*.csv")
+                    if not p.stem.startswith("_")}
+        to_fetch = [s for s in symbols if s.replace("&", "_AND_") not in
+                    {p.stem for p in out_dir.glob("*.csv")}]
+        skipped = len(symbols) - len(to_fetch)
+        print(f"Universe: {args.universe} ({len(symbols)} cos)")
+        print(f"Already present: {skipped} cos — will be loaded from local CSV")
+        print(f"To HTTP-fetch  : {len(to_fetch)} cos")
+    else:
+        to_fetch = symbols
+        skipped = 0
+        print(f"Universe: {args.universe} ({len(symbols)} cos)")
+        print(f"To HTTP-fetch  : {len(to_fetch)} cos")
+    print(f"Output folder  : {out_dir}")
+    print(f"Estimated HTTP time: {len(to_fetch) * 5 * DELAY_BETWEEN_REQUESTS / 60:.1f} min")
     print("-" * 70)
 
     all_long_rows: list[dict] = []
     log_rows: list[dict] = []
+    to_fetch_set = set(to_fetch)
 
     for i, sym in enumerate(symbols, 1):
+        if sym not in to_fetch_set:
+            # Reuse existing per-company CSV — load long rows back into the
+            # combined CSV without hitting the network.
+            long_rows = reload_csv_to_long(out_dir, sym)
+            all_long_rows.extend(long_rows)
+            log_rows.append({"nse_symbol": sym, "status": "skip:existing"})
+            continue
+
         try:
             combined_df, long_rows, status = fetch_company_detailed(sym)
         except Exception as e:
@@ -257,7 +328,7 @@ def main() -> None:
 
         if combined_df is not None:
             safe_name = sym.replace("&", "_AND_")
-            out_path = OUT_DIR / f"{safe_name}.csv"
+            out_path = out_dir / f"{safe_name}.csv"
             combined_df.to_csv(out_path)
         all_long_rows.extend(long_rows)
         log_rows.append({"nse_symbol": sym, "status": status})
@@ -268,15 +339,16 @@ def main() -> None:
 
         time.sleep(DELAY_BETWEEN_REQUESTS)
 
-    pd.DataFrame(log_rows).to_csv(LOG_CSV, index=False)
+    pd.DataFrame(log_rows).to_csv(log_csv, index=False)
     long_df = pd.DataFrame(all_long_rows)
-    long_df.to_csv(LONG_CSV, index=False)
+    long_df.to_csv(long_csv, index=False)
 
     print("-" * 70)
     ok = sum(1 for r in log_rows if r["status"].startswith("ok"))
-    print(f"DONE. ok={ok}/{len(symbols)}")
-    print(f"Combined long CSV: {LONG_CSV} ({len(long_df):,} rows)")
-    print(f"Log: {LOG_CSV}")
+    re_used = sum(1 for r in log_rows if r["status"].startswith("skip"))
+    print(f"DONE. ok={ok}/{len(symbols)}  (re-used={re_used})")
+    print(f"Combined long CSV: {long_csv} ({len(long_df):,} rows)")
+    print(f"Log: {log_csv}")
 
 
 if __name__ == "__main__":

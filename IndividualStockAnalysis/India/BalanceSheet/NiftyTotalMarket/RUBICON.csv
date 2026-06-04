@@ -1,0 +1,34 @@
+,parent_line_item,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
+Equity Capital,,5.0,5.0,5.0,5.0,15.0,15.0,17.0
+Reserves,,335.0,369.0,300.0,281.0,370.0,526.0,1272.0
+Borrowings,,30.0,93.0,175.0,320.0,425.0,418.0,311.0
+Other Liabilities,,60.0,71.0,79.0,144.0,300.0,493.0,727.0
+Total Liabilities,,430.0,538.0,560.0,750.0,1109.0,1451.0,2327.0
+Fixed Assets,,157.0,188.0,193.0,199.0,307.0,327.0,532.0
+CWIP,,2.0,6.0,3.0,25.0,10.0,7.0,40.0
+Investments,,19.0,14.0,0.0,0.0,0.0,0.0,27.0
+Other Assets,,252.0,330.0,364.0,526.0,793.0,1118.0,1728.0
+Total Assets,,430.0,538.0,560.0,750.0,1109.0,1451.0,2327.0
+Land,Fixed Assets,0.0,0.0,2.0,9.0,9.0,11.0,
+Building,Fixed Assets,58.0,62.0,87.0,88.0,111.0,118.0,
+Plant Machinery,Fixed Assets,50.0,67.0,83.0,113.0,162.0,190.0,
+Equipments,Fixed Assets,3.0,5.0,52.0,53.0,57.0,61.0,
+Computers,Fixed Assets,2.0,4.0,7.0,8.0,10.0,12.0,
+Furniture n fittings,Fixed Assets,4.0,4.0,9.0,11.0,14.0,15.0,
+Vehicles,Fixed Assets,1.0,1.0,1.0,2.0,2.0,2.0,
+Intangible Assets,Fixed Assets,48.0,68.0,68.0,68.0,117.0,118.0,65.0
+Other fixed assets,Fixed Assets,51.0,67.0,8.0,8.0,11.0,13.0,
+Gross Block,Fixed Assets,218.0,278.0,317.0,359.0,492.0,540.0,
+Accumulated Depreciation,Fixed Assets,61.0,90.0,124.0,160.0,185.0,213.0,
+Long term Borrowings,Borrowings,4.0,38.0,64.0,97.0,93.0,64.0,143.0
+Short term Borrowings,Borrowings,19.0,44.0,106.0,221.0,304.0,329.0,116.0
+Lease Liabilities,Borrowings,0.0,0.0,5.0,2.0,28.0,24.0,52.0
+Other Borrowings,Borrowings,7.0,11.0,0.0,0.0,-0.0,0.0,
+Trade Payables,Other Liabilities,19.0,33.0,57.0,97.0,177.0,239.0,377.0
+Advance from Customers,Other Liabilities,1.0,6.0,0.0,0.0,2.0,2.0,
+Other liability items,Other Liabilities,39.0,32.0,22.0,47.0,121.0,252.0,349.0
+Inventories,Other Assets,38.0,62.0,90.0,167.0,300.0,522.0,729.0
+Trade receivables,Other Assets,140.0,136.0,140.0,225.0,301.0,324.0,509.0
+Cash Equivalents,Other Assets,36.0,86.0,53.0,59.0,58.0,116.0,346.0
+Loans n Advances,Other Assets,11.0,14.0,13.0,24.0,56.0,63.0,9.0
+Other asset items,Other Assets,28.0,33.0,69.0,51.0,76.0,93.0,135.0

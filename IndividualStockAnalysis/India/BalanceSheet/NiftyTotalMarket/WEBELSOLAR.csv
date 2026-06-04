@@ -1,0 +1,22 @@
+,parent_line_item,Mar 2025,Mar 2026
+Equity Capital,,42.0,43.0
+Reserves,,236.0,587.0
+Borrowings,,153.0,131.0
+Other Liabilities,,83.0,170.0
+Total Liabilities,,514.0,931.0
+Fixed Assets,,285.0,459.0
+CWIP,,17.0,1.0
+Investments,,5.0,52.0
+Other Assets,,208.0,419.0
+Total Assets,,514.0,931.0
+Intangible Assets,Fixed Assets,0.52,0.48
+Long term Borrowings,Borrowings,124.0,85.0
+Short term Borrowings,Borrowings,29.0,33.0
+Lease Liabilities,Borrowings,0.0,13.0
+Trade Payables,Other Liabilities,32.0,71.0
+Other liability items,Other Liabilities,51.0,98.0
+Inventories,Other Assets,34.0,160.0
+Trade receivables,Other Assets,5.0,93.0
+Cash Equivalents,Other Assets,87.0,100.0
+Loans n Advances,Other Assets,3.0,27.0
+Other asset items,Other Assets,79.0,39.0

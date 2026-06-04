@@ -1,0 +1,33 @@
+,parent_line_item,Mar 2021,Mar 2024,Mar 2025,Mar 2026
+Equity Capital,,13.0,13.0,27.0,134.0
+Reserves,,118.0,288.0,315.0,316.0
+Borrowings,,0.0,12.0,19.0,56.0
+Other Liabilities,,22.0,7.0,11.0,46.0
+Total Liabilities,,152.0,320.0,372.0,553.0
+Fixed Assets,,29.0,58.0,67.0,67.0
+CWIP,,1.0,0.0,6.0,25.0
+Investments,,48.0,147.0,103.0,75.0
+Other Assets,,74.0,114.0,196.0,386.0
+Total Assets,,152.0,320.0,372.0,553.0
+Land,Fixed Assets,,22.08,22.08,
+Building,Fixed Assets,,18.87,18.87,
+Plant Machinery,Fixed Assets,,36.29,37.89,
+Equipments,Fixed Assets,,0.09,7.57,
+Computers,Fixed Assets,,1.08,1.5,
+Furniture n fittings,Fixed Assets,,8.09,9.57,
+Vehicles,Fixed Assets,,0.33,1.22,
+Intangible Assets,Fixed Assets,0.07,0.0,0.0,0.18
+Other fixed assets,Fixed Assets,,11.54,12.64,
+Gross Block,Fixed Assets,,98.37,111.34,
+Accumulated Depreciation,Fixed Assets,,40.24,44.72,
+Long term Borrowings,Borrowings,-0.0,-0.0,-0.0,12.17
+Short term Borrowings,Borrowings,-0.0,12.06,12.63,38.81
+Lease Liabilities,Borrowings,-0.0,-0.0,6.36,5.4
+Trade Payables,Other Liabilities,10.06,0.05,1.25,30.53
+Advance from Customers,Other Liabilities,,0.14,0.09,
+Other liability items,Other Liabilities,11.47,6.39,9.24,15.5
+Inventories,Other Assets,14.0,16.0,42.0,70.0
+Trade receivables,Other Assets,25.0,48.0,67.0,101.0
+Cash Equivalents,Other Assets,19.0,39.0,69.0,186.0
+Loans n Advances,Other Assets,2.0,1.0,2.0,1.0
+Other asset items,Other Assets,14.0,10.0,17.0,28.0

@@ -1,0 +1,35 @@
+,parent_line_item,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
+Equity Capital,,387.0,387.0,387.0,412.0,424.0,427.0
+Reserves,,246.0,295.0,416.0,1204.0,2330.0,2551.0
+Borrowings,,138.0,139.0,288.0,349.0,502.0,996.0
+Other Liabilities,,220.0,250.0,543.0,975.0,743.0,738.0
+Total Liabilities,,991.0,1072.0,1634.0,2940.0,3999.0,4712.0
+Fixed Assets,,418.0,428.0,464.0,831.0,972.0,1119.0
+CWIP,,21.0,22.0,27.0,54.0,66.0,266.0
+Investments,,2.0,8.0,11.0,93.0,164.0,236.0
+Other Assets,,550.0,615.0,1131.0,1962.0,2797.0,3092.0
+Total Assets,,991.0,1072.0,1634.0,2940.0,3999.0,4712.0
+Land,Fixed Assets,154.0,154.0,157.0,197.0,198.0,
+Building,Fixed Assets,108.0,122.0,154.0,257.0,329.0,
+Plant Machinery,Fixed Assets,179.0,196.0,217.0,359.0,415.0,
+Equipments,Fixed Assets,0.0,0.0,1.0,1.0,4.0,
+Computers,Fixed Assets,0.0,0.0,1.0,1.0,2.0,
+Furniture n fittings,Fixed Assets,7.0,8.0,9.0,21.0,38.0,
+Vehicles,Fixed Assets,3.0,3.0,5.0,9.0,10.0,
+Intangible Assets,Fixed Assets,20.0,20.0,20.0,94.0,120.0,200.0
+Other fixed assets,Fixed Assets,15.0,15.0,16.0,92.0,107.0,
+Gross Block,Fixed Assets,487.0,519.0,579.0,1032.0,1225.0,
+Accumulated Depreciation,Fixed Assets,69.0,92.0,115.0,201.0,252.0,
+Long term Borrowings,Borrowings,33.0,28.0,19.0,8.0,27.0,255.0
+Short term Borrowings,Borrowings,105.0,111.0,269.0,330.0,457.0,682.0
+Lease Liabilities,Borrowings,0.0,0.0,0.0,11.0,17.0,59.0
+Other Borrowings,Borrowings,0.0,-0.0,0.0,0.0,0.0,
+Non controlling int,Other Liabilities,0.0,0.0,0.0,15.0,13.0,8.0
+Trade Payables,Other Liabilities,142.0,144.0,198.0,553.0,408.0,398.0
+Advance from Customers,Other Liabilities,60.0,88.0,280.0,312.0,181.0,
+Other liability items,Other Liabilities,19.0,19.0,64.0,94.0,141.0,332.0
+Inventories,Other Assets,244.0,319.0,491.0,984.0,769.0,1079.0
+Trade receivables,Other Assets,72.0,71.0,213.0,491.0,815.0,757.0
+Cash Equivalents,Other Assets,71.0,69.0,167.0,213.0,594.0,442.0
+Loans n Advances,Other Assets,-2.0,24.0,151.0,108.0,124.0,70.0
+Other asset items,Other Assets,165.0,131.0,108.0,167.0,494.0,745.0
