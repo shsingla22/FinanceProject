@@ -1,0 +1,559 @@
+# =============================================================================
+# Business Analysis Skill — CANONICAL PARAMETER TAXONOMY
+# =============================================================================
+# This file is the single source of truth for the quality-investing framework
+# extracted from `Company_analysis.docx`. Every module and every leaf parameter
+# in the source document is represented here. `tests/test_parameters_complete.py`
+# enforces that NONE is missing (requirement: "No parameter should be missed").
+#
+# Field contract for every parameter:
+#   id            unique slug  "<MODULE>.<name>"
+#   module        one of the module ids below
+#   name          human label
+#   description   what the parameter means (faithful to the document)
+#   nature        quantitative | qualitative | hybrid
+#                   quantitative -> computable from CSV financials
+#                   qualitative  -> judged from concalls / annual reports / mgmt
+#                   hybrid       -> both a computed signal AND a text judgement
+#   data_sources  list of logical data sources needed (see reference/data_sources.md)
+#   signal        what "good" looks like (the thing the analyst/agent checks)
+#   direction     maximize | minimize | stable | context
+#                   context = judgement, no single monotonic direction
+#   examples      illustrative companies from the document (may be empty)
+#   cautions      pitfalls / notes of caution from the document (may be empty)
+# =============================================================================
+
+version: "1.0.0"
+source_document: "Company_analysis.docx"
+
+modules:
+  - id: CAP
+    order: 1
+    name: "Capital Allocation"
+    guidance: >
+      Use the management-commentary / conference-call data to understand where
+      management is allocating capital among the five uses below, and how that
+      allocation is behaving over time.
+  - id: ROC
+    order: 2
+    name: "Return on Capital"
+  - id: GRW
+    order: 3
+    name: "Multiple Sources of Growth"
+  - id: MGT
+    order: 4
+    name: "Good Management"
+  - id: IND
+    order: 5
+    name: "Industry Structure"
+  - id: CUS
+    order: 6
+    name: "Customer Benefits"
+  - id: MOAT
+    order: 7
+    name: "Competitive Advantage"
+
+parameters:
+
+  # ------------------------------------------------------------------ CAP (5 uses + WC)
+  - id: CAP.growth_capex
+    module: CAP
+    name: "Capex for growth (not maintenance)"
+    description: >
+      Distinguish growth capex from maintenance capex. Growth capex should be the
+      maximum share, and the potential ROIC from the new growth capex should be
+      high and good.
+    nature: hybrid
+    data_sources: [cash_flow, balance_sheet, concalls, annual_reports]
+    signal: "High and rising GROWTH capex with high incremental ROIC; not just maintenance."
+    direction: maximize
+    examples: ["Retailers opening new stores"]
+    cautions: ["Do not confuse maintenance capex with growth capex"]
+
+  - id: CAP.advertising_promotion
+    module: CAP
+    name: "Advertisement and promotion"
+    description: >
+      Marketing spend that creates brand and increases sales. Though not classified
+      as capex, it ideally IS a capital expenditure and should be judged as one.
+    nature: hybrid
+    data_sources: [profit_loss, concalls, annual_reports]
+    signal: "A&P spend that durably builds brand equity and drives sales, judged like capex."
+    direction: context
+    examples: []
+    cautions: ["Reported as opex but should be assessed as brand-building capital"]
+
+  - id: CAP.research_development
+    module: CAP
+    name: "Research and development"
+    description: >
+      R&D that helps new product creation and new customer acquisition. Determine
+      the long-term R&D efficiency (output per unit of R&D over time).
+    nature: hybrid
+    data_sources: [profit_loss, concalls, annual_reports]
+    signal: "R&D that consistently yields new products/customers; high long-term R&D efficiency."
+    direction: context
+    examples: []
+    cautions: []
+
+  - id: CAP.mergers_acquisitions
+    module: CAP
+    name: "Merger and acquisition"
+    description: >
+      Acquisitions are a common source of value destruction. Small bolt-on
+      acquisitions have a higher chance of succeeding. The rare, valuable skill is
+      systematically improving operations of the acquired business — one common
+      parameter is OPM improvement after the acquisition. Prefer buying businesses
+      that are already strong, and small/simple/complementary deals.
+    nature: hybrid
+    data_sources: [cash_flow, profit_loss, concalls, annual_reports]
+    signal: "Small, simple, complementary bolt-ons; acquiree already strong; post-deal OPM improves."
+    direction: context
+    examples:
+      - "Essilor - bolt-on lens acquisitions, ~3% added to sales per year"
+      - "Luxottica - buys already-successful brands (Oakley), leverages distribution"
+      - "Diageo - complementary distribution network, network effects"
+      - "Assa Abloy - ~120 acquisitions, expands distribution/tech, improves acquiree OPM"
+    cautions: ["Big transformational M&A destroys value; large inorganic bets are a red flag"]
+
+  - id: CAP.shareholder_distribution
+    module: CAP
+    name: "Distribution to shareholders"
+    description: >
+      Dividends and buybacks. The best companies buy back stock advantageously
+      (when cheap), but in practice buybacks mostly happen at elevated valuations.
+    nature: hybrid
+    data_sources: [cash_flow, stock_info, concalls]
+    signal: "Buybacks executed at low valuations; a coherent, disciplined distribution policy."
+    direction: context
+    examples: []
+    cautions: ["Most buybacks occur at elevated valuations and destroy value"]
+
+  - id: CAP.working_capital_cost
+    module: CAP
+    name: "Cost of working capital"
+    description: >
+      Money stuck in working capital leads to lower return on capital. Prefer
+      businesses with low or negative working capital (rare).
+    nature: quantitative
+    data_sources: [working_capital, balance_sheet]
+    signal: "Low or negative working capital; short / improving cash conversion cycle."
+    direction: minimize
+    examples: []
+    cautions: ["Low/negative working-capital businesses are rare"]
+
+  # ------------------------------------------------------------------ ROC
+  - id: ROC.headline
+    module: ROC
+    name: "Return on capital (headline)"
+    description: >
+      Return on capital depends on asset turns and profit margin. The better metric
+      is Cash Return on Cash Capital Invested (CROCI) = post-tax cash return /
+      capital invested after adjusting accounting conventions such as goodwill.
+    nature: quantitative
+    data_sources: [profit_loss, balance_sheet, cash_flow]
+    signal: "High and durable CROCI / return on capital, adjusted for goodwill."
+    direction: maximize
+    examples: []
+    cautions: ["Adjust capital for accounting conventions (e.g. goodwill) before judging"]
+
+  - id: ROC.asset_turn
+    module: ROC
+    name: "Asset turn"
+    description: >
+      A measure of asset intensity. Asset-light industries are attractive, but they
+      must also carry additional competitive advantages to protect returns.
+    nature: hybrid
+    data_sources: [profit_loss, balance_sheet]
+    signal: "High asset turnover (asset-light) COMBINED with a protecting moat."
+    direction: maximize
+    examples: ["Domino's - high asset turns, low intensity, protected by a strong brand"]
+    cautions: ["Asset-light alone is not enough; needs an additional competitive advantage"]
+
+  - id: ROC.profit_margin
+    module: ROC
+    name: "Profit margin"
+    description: >
+      Higher gross margins show pricing power. High operating margin together with
+      high gross margin indicates competitive advantage. Big swings in OPM indicate
+      major cost components that are not in management's control.
+    nature: quantitative
+    data_sources: [profit_loss]
+    signal: "High gross margin (pricing power) + high, STABLE operating margin (moat)."
+    direction: maximize
+    examples: []
+    cautions: ["Large OPM swings => key costs outside management control (a red flag)"]
+
+  # ------------------------------------------------------------------ GRW
+  - id: GRW.market_share_gain
+    module: GRW
+    name: "Gain in market share"
+    description: >
+      Growth from taking share. Share gains are easier in the early years; a company
+      already above ~50% market share will find further gains tough.
+    nature: hybrid
+    data_sources: [profit_loss, concalls, annual_reports]
+    signal: "Runway to gain share (not already dominant); evidence of share capture."
+    direction: context
+    examples: []
+    cautions: [">50% share makes further share gains hard"]
+
+  - id: GRW.geographic_expansion
+    module: GRW
+    name: "Geographical expansion"
+    description: >
+      Growth by entering new geographies. Challenging, but powerful if implemented
+      well. Premium brands transition to new markets more easily.
+    nature: hybrid
+    data_sources: [concalls, annual_reports, profit_loss]
+    signal: "Credible, well-executed geographic expansion; premium brand that travels well."
+    direction: context
+    examples:
+      - "Unilever - ~60% revenue from emerging markets"
+      - "Nike - premium brand transitions easily to new markets"
+    cautions: ["Geographic expansion is challenging and often poorly executed"]
+
+  - id: GRW.pricing_mix_volume
+    module: GRW
+    name: "Pricing, Mix and Volume"
+    description: >
+      The three ways to grow revenue. (1) Pricing power - raise prices without a rise
+      in cost; customers price-insensitive (brands, status, luxury) - most valuable.
+      (2) Mix optimisation - shift toward higher value-added products - highly valuable.
+      (3) Volume growth - least valuable; total costs (incl. working capital) rise
+      with volume.
+    nature: hybrid
+    data_sources: [profit_loss, concalls, annual_reports]
+    signal: "Growth led by PRICING and MIX rather than volume."
+    direction: context
+    examples: ["Luxury/status brands raise price without cost; price-insensitive buyers"]
+    cautions: ["Volume-led growth is the least valuable; costs scale with it"]
+
+  - id: GRW.cyclical_growth
+    module: GRW
+    name: "Cyclical market growth"
+    description: >
+      A double-edged sword. Investment aligned with a cyclical uptrend can give
+      bumper returns; the way to invest is usually at the BOTTOM of the cycle.
+      Endeavour to understand cycles to ride the upside and avoid the downside.
+    nature: hybrid
+    data_sources: [profit_loss, stock_info, concalls]
+    signal: "Positioned near the bottom of a cycle with an identifiable upturn ahead."
+    direction: context
+    examples: ["Marriott 2009->2015 became ~6x by riding the cyclical recovery"]
+    cautions: ["Do not extrapolate a cyclical uptrend as structural (a common mistake)"]
+
+  - id: GRW.structural_growth
+    module: GRW
+    name: "Structural end-market growth"
+    description: >
+      Permanent expansion in the end market - the highest-quality growth.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "End market in permanent secular expansion."
+    direction: maximize
+    examples: ["Disease prevention", "Urbanisation", "Aging demographics in developed countries"]
+    cautions: ["Do not mistake a cyclical uptrend for structural growth"]
+
+  - id: GRW.persistence
+    module: GRW
+    name: "Persistence of growth"
+    description: >
+      There is no relation between the growth of the previous 5 years and the next
+      5 years. Find the subset of companies that keep generating consistent and
+      predictable growth (10-15% range). The link is return on capital: higher CFROI
+      usually means higher future earnings growth (more internal accruals to deploy).
+    nature: quantitative
+    data_sources: [profit_loss]
+    signal: "Consistent, predictable ~10-15% growth; high CFROI supporting future growth."
+    direction: stable
+    examples: []
+    cautions: ["Past 5-yr growth does NOT predict next 5-yr growth; look for consistency + ROC"]
+
+  # ------------------------------------------------------------------ MGT
+  - id: MGT.disciplined_stewards
+    module: MGT
+    name: "Disciplined stewards"
+    description: >
+      Management with the patience and discipline to invest in organic growth, run a
+      prudent balance sheet, and invest counter-cyclically, with big inorganic bets
+      absent.
+    nature: hybrid
+    data_sources: [concalls, annual_reports, management_info, balance_sheet, cash_flow]
+    signal: "Organic focus; prudent leverage; counter-cyclical investment; no big M&A."
+    direction: context
+    examples: []
+    cautions: ["Big inorganic bets are a discipline red flag"]
+
+  - id: MGT.independent_longterm_tenacious
+    module: MGT
+    name: "Independent, long-term and tenacious"
+    description: >
+      Independent-minded, long-term-oriented, tenacious management that eradicates
+      threats and stays the course on a long-term vision.
+    nature: qualitative
+    data_sources: [concalls, annual_reports, management_info]
+    signal: "Evidence of long-term vision executed with independence and tenacity."
+    direction: context
+    examples:
+      - "Handelsbanken - decentralised, profit-sharing, embraces risk aversion"
+      - "Rolls-Royce - long-term civil aero-engine plan; sell engines then earn recurring servicing revenue"
+    cautions: []
+
+  - id: MGT.out_of_limelight
+    module: MGT
+    name: "Out of limelight"
+    description: >
+      Prefer management that stays out of the limelight. Award-winning celebrity CEOs
+      tend to underperform relative to their own prior record and to peers.
+    nature: qualitative
+    data_sources: [concalls, annual_reports, management_info]
+    signal: "Low-profile, substance-over-celebrity management."
+    direction: context
+    examples: []
+    cautions: ["Award-winning CEOs underperform vs their prior record and vs peers"]
+
+  - id: MGT.people_talent
+    module: MGT
+    name: "People matter (talent development)"
+    description: >
+      Management that recognises developing talent as a top priority.
+    nature: qualitative
+    data_sources: [concalls, annual_reports, management_info]
+    signal: "Systematic talent development; strong internal leadership pipeline."
+    direction: maximize
+    examples:
+      - "Atlas Copco - 4 former execs went on to lead other majors; rotate execs every ~3 years across roles"
+    cautions: []
+
+  - id: MGT.candor
+    module: MGT
+    name: "Candor"
+    description: >
+      Effective, candid communication to investors about what matters and why.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Clear, candid communication of priorities and rationale; owns mistakes."
+    direction: maximize
+    examples: []
+    cautions: []
+
+  - id: MGT.halo_effect_caution
+    module: MGT
+    name: "Halo effect (caution)"
+    description: >
+      A note of caution: much of our thinking about management is shaped by the halo
+      effect (good results make us over-attribute skill). Guard against it.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Assessment that is robust to the halo effect (separates results from skill)."
+    direction: context
+    examples: []
+    cautions: ["Much management judgement is distorted by the halo effect"]
+
+  # ------------------------------------------------------------------ IND
+  - id: IND.mini_monopolies
+    module: IND
+    name: "Mini-monopolies"
+    description: >
+      An unregulated monopoly gives the strongest profits and returns but gets
+      targeted by governments. Mini-monopolies are about customer choices and exist
+      in the customer's mind (e.g. brand preference), and in services the manufacturer
+      holds a mini-monopoly on spare parts and software upgrades.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "A monopoly-like position in the customer's mind or in aftermarket/services."
+    direction: maximize
+    examples:
+      - "Tobacco - customer loyalty to a particular brand"
+      - "Services - manufacturer mini-monopoly on spare parts / software upgrades"
+    cautions: ["Overt (unregulated) monopolies attract government intervention"]
+
+  - id: IND.partial_monopoly
+    module: IND
+    name: "Partial monopoly / broken competition / switching costs"
+    description: >
+      Monopoly in some areas or countries (broken competition), and switching costs
+      (razor-and-blade or software) where competition for the upfront product sale is
+      intense but the aftermarket is captive.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Regional monopoly or captive aftermarket via switching costs."
+    direction: maximize
+    examples:
+      - "Ambev - ~50% EBITDA margins in Brazil; logistics barriers to entry"
+      - "Cell phone service - upfront market very competitive"
+      - "Atlas Copco - compressors: strong service margins AND good upfront product margins"
+    cautions: []
+
+  - id: IND.oligopoly
+    module: IND
+    name: "Oligopoly (vs duopoly)"
+    description: >
+      An oligopoly is sometimes better than a duopoly - in a duopoly it can become an
+      obsession to beat the other player. Prefer structures where the end customer has
+      no negotiating power and where the industry structure has been stable for some
+      time.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Stable oligopoly; end customer lacks negotiating power."
+    direction: context
+    examples: []
+    cautions: ["Duopolies can turn into destructive 'beat the rival' behaviour"]
+
+  - id: IND.barriers_entry_rationality
+    module: IND
+    name: "Barriers to entry and rationality"
+    description: >
+      Distinguish barriers to entry (new players popping up) from barriers to success
+      and scale. Look for industries with no or few new entrants; big firms still
+      family-owned is a good sign of stability; companies should not engage in price
+      cuts and pricing wars.
+    nature: hybrid
+    data_sources: [concalls, annual_reports, profit_loss]
+    signal: "Few/no new entrants; rational pricing (no discount wars); stable ownership."
+    direction: maximize
+    examples:
+      - "Coca-Cola North America - teaching consumers to buy in bulk on sale hurts profitability"
+      - "LVMH - did not discount champagne even in 2008"
+    cautions: ["Price cuts / pricing wars and habitual discounting destroy industry economics"]
+
+  - id: IND.share_donators
+    module: IND
+    name: "Share donators"
+    description: >
+      Identify particular weak members in the industry who donate share. Most common
+      sources: management incompetence, suboptimal products, ignored divisions of
+      large companies, and smaller companies unable to scale.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Presence of weak competitors from whom the target can take share."
+    direction: context
+    examples: []
+    cautions: []
+
+  - id: IND.security_by_obscurity
+    module: IND
+    name: "Security by obscurity"
+    description: >
+      Businesses that keep out of sight of potential predators - important but humble
+      corporate niches (locks, lenses, bathroom fittings) that financial and
+      intellectual capital are not drawn towards.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "A humble, under-the-radar niche that competitors/capital ignore."
+    direction: maximize
+    examples: ["Locks", "Lenses", "Bathroom fittings"]
+    cautions: []
+
+  # ------------------------------------------------------------------ CUS
+  - id: CUS.intangible_benefits
+    module: CUS
+    name: "Intangible benefits"
+    description: >
+      Benefits that elude measurement - taste and image (high-end bags, cars, watches,
+      jewelry). The smaller the ticket size, the bigger the role intangible benefits
+      play. Consumers never test the comparative effects, so brand perception dominates.
+    nature: hybrid
+    data_sources: [profit_loss, concalls, annual_reports]
+    signal: "Pricing power from image/taste; steady demand; high gross margin."
+    direction: maximize
+    examples:
+      - "L'Oreal - a small tub retails ~$90, ~5x a mass offering like Nivea"
+      - "High-end bags / cars / watches / jewelry"
+    cautions: []
+    extra: "Demand rises in economic expansion and remains steady in contraction."
+
+  - id: CUS.assurance_benefits
+    module: CUS
+    name: "Assurance benefits"
+    description: >
+      Works where product reliability is of the utmost importance - the failure of a
+      small component can shut down an entire plant, so customers pay for assurance and
+      are price-insensitive.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Customer buys certainty/reliability; price is secondary to trust."
+    direction: maximize
+    examples:
+      - "Industrial gases (oxygen, hydrogen, CO2)"
+      - "Baby food - parents don't consider price"
+      - "SGS and Intertek - testing companies; complex global supply chains; high cost of deviation; few trusted testers"
+    cautions: []
+
+  - id: CUS.convenience_benefits
+    module: CUS
+    name: "Convenience benefits"
+    description: >
+      Making a product readily accessible, with customer intimacy - a direct relation
+      with the customer, often via a strong sales force.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Superior accessibility and direct customer intimacy / strong sales force."
+    direction: maximize
+    examples: []
+    cautions: []
+
+  - id: CUS.customer_types
+    module: CUS
+    name: "Customer types (retail vs corporate)"
+    description: >
+      Retail customers are more willing to splurge on items with intangible benefits.
+      Corporate clients do not pay for intangible benefits; they have departments that
+      keep the purchase decision rational (total cost of ownership and reliability
+      matter), and their switching costs are high and can therefore be exploited.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Match benefit type to customer: intangibles for retail; TCO/reliability + switching-cost lock-in for corporate."
+    direction: context
+    examples: []
+    cautions: []
+
+  # ------------------------------------------------------------------ MOAT
+  - id: MOAT.technology
+    module: MOAT
+    name: "Technology advantage"
+    description: >
+      A competitive advantage derived through technology. It must NOT be a single
+      product (single products get copied); the magnitude of the advantage must be
+      large (not slight); percentage of R&D spend matters; it should deliver products
+      with superior customer benefits. Includes incremental innovation and advantage
+      in data collection and manipulation.
+    nature: hybrid
+    data_sources: [profit_loss, concalls, annual_reports]
+    signal: "Deep, multi-product tech edge with high R&D intensity and superior customer benefit."
+    direction: maximize
+    examples:
+      - "Jet engines post-1960s - slow but substantial incremental fuel-efficiency gains"
+      - "Google - advantage in data collection and manipulation"
+      - "Syngenta (Novartis + AstraZeneca) - crop protection; ~$300M and ~10 yrs per API; ~$4B R&D over 3 yrs; ~$3B peak sales; farmers keep buying seeds even in downturns"
+    cautions: ["A single product will get copied; a slight advantage is not enough"]
+
+  - id: MOAT.network_effects
+    module: MOAT
+    name: "Network effects"
+    description: >
+      A system whose value increases as more people use it (more sellers -> more
+      buyers and vice versa).
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "Self-reinforcing two-sided network that strengthens with scale."
+    direction: maximize
+    examples: []
+    cautions:
+      - "Too-strong network effects can backfire (UK housing agents formed a rival network)"
+      - "A high pace of innovation is a risk (Facebook killed MySpace; killed MSN chat)"
+
+  - id: MOAT.distribution
+    module: MOAT
+    name: "Distribution advantage"
+    description: >
+      A route to consumers that is more effective than rivals'. When the company's
+      ability to service or fix a product is vital to customers, distribution takes a
+      critical role.
+    nature: qualitative
+    data_sources: [concalls, annual_reports]
+    signal: "A distribution/service reach rivals cannot match, especially where service is vital."
+    direction: maximize
+    examples: []
+    cautions: []
