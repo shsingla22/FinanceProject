@@ -1,0 +1,14 @@
+Failed in original run: 91
+  [ 10/91] last=BELRISE        updated=10 still_failed=0 last_status=ok:consolidated:headline=12:cols=5;schedules=Sales=1,Expenses=4,Other 
+  [ 20/91] last=CARTRADE       updated=20 still_failed=0 last_status=ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other
+  [ 30/91] last=DRREDDY        updated=30 still_failed=0 last_status=ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other
+  [ 40/91] last=HINDCOPPER     updated=40 still_failed=0 last_status=ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other 
+  [ 50/91] last=JSL            updated=50 still_failed=0 last_status=ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other
+  [ 60/91] last=NSLNISP        updated=60 still_failed=0 last_status=ok:standalone:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other In
+  [ 70/91] last=PNB            updated=70 still_failed=0 last_status=ok:consolidated:headline=12:cols=12;schedules=Expenses=3,Other Income=
+  [ 80/91] last=SYNGENE        updated=80 still_failed=0 last_status=ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=4,Other 
+  [ 90/91] last=ZEEL           updated=90 still_failed=0 last_status=ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other
+  [ 91/91] last=ZYDUSWELL      updated=91 still_failed=0 last_status=ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other
+------------------------------------------------------------
+DONE. Recovered 91/91. Still failed: 0.
+Total ok now: 500/500

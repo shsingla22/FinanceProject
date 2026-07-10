@@ -1,0 +1,91 @@
+signal,horizon,n,hits_cagr_ge_20pct,hit_rate_pct,avg_cagr_pct,median_cagr_pct,min_cagr_pct,max_cagr_pct
+FA > 30% YoY for 3 yrs,5y,11,9,81.8,34.2,32.6,5.5,79.1
+FA & Reserves both > 20% YoY for 3 yrs,3y,16,11,68.8,30.1,31.8,-1.5,58.7
+Cash > 25% TA AND Reserves CAGR > 25%,5y,9,6,66.7,42.6,31.1,14.0,122.6
+FA > 20% YoY for 4 yrs,3y,20,13,65.0,35.2,35.9,-13.9,143.8
+FA > 30% YoY for 3 yrs,3y,14,9,64.3,28.1,28.2,-2.9,59.0
+FA > 20% YoY for 4 yrs,5y,14,9,64.3,33.7,27.4,3.4,122.7
+FA & Reserves both > 20% YoY for 3 yrs,5y,11,7,63.6,25.2,21.4,5.5,79.1
+FA & Reserves both > 20% YoY for 3 yrs AND D/E < 0.5,5y,8,5,62.5,24.1,21.1,5.5,79.1
+Reserves CAGR > 25% AND Borrowings CAGR < -10%,5y,42,26,61.9,26.7,23.1,-11.9,122.6
+FA > 25% YoY for 3 yrs,3y,28,17,60.7,32.2,31.8,-13.7,143.8
+FA > 25% YoY for 3 yrs,5y,25,15,60.0,32.5,25.1,-3.0,122.7
+FA > 25% YoY for 3 yrs,7y,10,6,60.0,23.4,23.0,8.4,48.7
+FA & Reserves both > 20% YoY for 3 yrs AND D/E < 0.3,5y,5,3,60.0,28.7,20.8,5.5,79.1
+FA & Reserves both > 20% YoY for 3 yrs AND D/E < 0.5,3y,12,7,58.3,27.0,24.9,-1.5,58.7
+Cash > 20% TA AND Reserves CAGR > 25%,5y,14,8,57.1,34.7,28.5,3.8,122.6
+FA & Reserves both > 20% YoY for 3 yrs AND D/E < 0.3,3y,7,4,57.1,26.2,23.0,8.5,58.7
+FA > 20% YoY for 3 yrs AND D/E < 0.3,5y,16,9,56.2,24.8,22.0,3.4,79.1
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.5,5y,38,21,55.3,26.0,21.5,-6.5,88.4
+Reserves CAGR (5y) > 30%,5y,55,30,54.5,27.5,22.1,-16.0,122.6
+Reserves CAGR > 30% AND Borrowings CAGR < 0%,5y,44,24,54.5,23.0,21.3,-11.9,122.6
+Reserves > 30% YoY for 3 yrs AND D/E < 0.5,7y,11,6,54.5,22.8,20.3,6.1,53.4
+Reserves > 30% YoY for 3 yrs,7y,13,7,53.8,20.0,20.3,-15.3,53.4
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.3,5y,28,15,53.6,27.5,21.2,-4.9,88.4
+Reserves CAGR (5y) > 25%,5y,90,48,53.3,27.5,21.7,-16.0,122.6
+Reserves CAGR > 30% AND Borrowings CAGR < -10%,5y,30,16,53.3,24.9,20.9,-11.9,122.6
+Reserves CAGR (3y) > 40%,5y,84,44,52.4,22.3,20.9,-19.2,88.4
+Reserves CAGR > 25% AND Borrowings CAGR < -10%,3y,82,43,52.4,28.2,23.4,-24.2,183.3
+Reserves CAGR (5y) > 35%,5y,46,24,52.2,27.8,22.5,-16.0,122.6
+FA CAGR > 25% AND Reserves CAGR > 30% AND D/E < 0.3,5y,25,13,52.0,27.9,20.8,-4.9,88.4
+Reserves CAGR (3y) > 35%,5y,110,55,50.0,22.4,19.9,-19.2,122.6
+Cash > 25% TA AND Reserves CAGR > 25%,3y,26,13,50.0,29.5,21.2,-7.9,183.3
+FA > 20% YoY for 3 yrs AND D/E < 0.3,3y,20,10,50.0,20.5,19.4,-13.9,58.7
+Reserves CAGR (5y) > 25%,3y,198,96,48.5,26.1,17.6,-28.3,183.3
+FA CAGR (3y) > 35%,5y,145,70,48.3,22.6,19.3,-45.2,122.7
+FA CAGR > 30% AND Reserves CAGR > 30% AND D/E < 0.5,5y,27,13,48.1,23.4,17.4,-6.5,88.4
+FA CAGR (3y) > 35%,3y,232,111,47.8,26.4,18.0,-62.9,276.6
+Reserves CAGR (5y) > 30%,3y,134,64,47.8,26.4,16.7,-28.3,183.3
+Cash > 20% TA AND Reserves CAGR > 25%,3y,36,17,47.2,28.3,19.4,-20.6,183.3
+Reserves CAGR > 30% AND Borrowings CAGR < -10%,3y,62,29,46.8,25.8,15.1,-24.2,183.3
+Reserves CAGR > 30% AND Borrowings CAGR < 0%,3y,90,42,46.7,24.5,16.2,-32.6,183.3
+Reserves CAGR (5y) > 35%,3y,101,47,46.5,26.4,16.5,-28.3,183.3
+FA CAGR (3y) > 30%,5y,181,84,46.4,21.6,19.1,-45.2,122.7
+Reserves CAGR (3y) > 30%,5y,149,69,46.3,20.2,15.6,-45.2,122.6
+FA CAGR (3y) > 30%,3y,285,131,46.0,24.5,15.9,-62.9,276.6
+FA > 25% YoY for 3 yrs AND D/E < 0.5,5y,11,5,45.5,23.2,18.0,4.9,79.1
+Reserves CAGR (3y) > 40%,7y,51,23,45.1,19.2,17.1,-17.0,53.9
+FA CAGR (3y) > 40%,3y,174,78,44.8,24.4,14.5,-36.9,276.6
+FA CAGR (3y) > 40%,7y,38,17,44.7,22.0,17.2,-1.2,61.7
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.5,7y,18,8,44.4,23.3,17.7,7.3,52.9
+Reserves CAGR > 30% AND Borrowings CAGR < -10%,7y,18,8,44.4,19.9,16.7,0.8,53.4
+Reserves > 25% YoY for 4 yrs,5y,9,4,44.4,25.9,11.3,-3.2,61.0
+Cash > 20% TA AND Reserves CAGR > 25%,7y,9,4,44.4,24.0,17.8,13.6,45.4
+FA CAGR (3y) > 40%,5y,101,44,43.6,21.7,18.3,-17.9,119.7
+Reserves > 25% YoY for 3 yrs,7y,23,10,43.5,18.9,17.4,-15.3,53.4
+FA CAGR > 25% AND Reserves CAGR > 30% AND D/E < 0.3,3y,60,26,43.3,26.3,15.8,-19.7,132.6
+FA CAGR > 30% AND Reserves CAGR > 30% AND D/E < 0.5,7y,14,6,42.9,22.2,17.7,7.3,52.9
+Reserves > 25% YoY for 3 yrs,3y,61,26,42.6,19.5,15.3,-34.6,95.9
+Reserves CAGR (3y) > 35%,3y,212,90,42.5,22.5,14.3,-36.9,183.3
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.3,3y,66,28,42.4,25.8,16.2,-19.7,132.6
+Reserves CAGR (3y) > 30%,3y,274,116,42.3,21.5,14.9,-62.9,183.3
+Reserves CAGR (3y) > 40%,3y,161,68,42.2,21.3,14.0,-36.9,132.6
+Reserves CAGR (3y) > 35%,7y,64,27,42.2,18.4,16.7,-17.0,53.9
+FA CAGR (3y) > 35%,7y,55,23,41.8,19.8,17.4,-33.9,61.7
+Reserves CAGR > 30% AND Borrowings CAGR < 0%,7y,24,10,41.7,18.4,15.6,0.8,53.4
+FA CAGR > 25% AND Reserves CAGR > 30% AND D/E < 0.3,7y,12,5,41.7,22.2,17.7,10.6,36.0
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.5,3y,80,33,41.2,24.0,15.8,-19.7,132.6
+Reserves > 30% YoY for 3 yrs AND D/E < 0.5,5y,17,7,41.2,16.4,9.7,-11.9,61.0
+Reserves CAGR (3y) > 30%,7y,85,34,40.0,17.2,16.0,-33.9,53.9
+Reserves > 25% YoY for 3 yrs,5y,35,14,40.0,17.4,11.7,-16.0,61.0
+Reserves > 25% YoY for 3 yrs AND D/E < 0.5,5y,25,10,40.0,17.2,11.3,-11.9,61.0
+Cash > 25% TA AND Reserves CAGR > 25%,7y,5,2,40.0,25.6,17.8,13.6,45.4
+Reserves > 30% YoY for 3 yrs,3y,39,15,38.5,17.1,13.1,-24.2,95.9
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.3,7y,13,5,38.5,21.5,17.6,10.6,36.0
+Reserves > 25% YoY for 4 yrs,3y,21,8,38.1,15.9,8.4,-34.6,95.9
+Reserves CAGR > 25% AND Borrowings CAGR < -10%,7y,24,9,37.5,19.0,16.2,0.8,53.4
+FA > 25% YoY for 3 yrs AND D/E < 0.3,5y,8,3,37.5,25.8,15.7,4.9,79.1
+FA CAGR > 30% AND Reserves CAGR > 30% AND D/E < 0.5,3y,59,22,37.3,23.7,8.8,-19.7,132.6
+FA CAGR (3y) > 30%,7y,77,28,36.4,17.9,16.6,-33.9,61.7
+Reserves > 25% YoY for 3 yrs AND D/E < 0.3,5y,22,8,36.4,16.4,11.0,-11.9,61.0
+Reserves > 25% YoY for 3 yrs AND D/E < 0.5,3y,47,17,36.2,16.0,10.2,-34.6,95.9
+Reserves > 25% YoY for 3 yrs AND D/E < 0.3,3y,39,14,35.9,17.7,10.2,-24.2,95.9
+Reserves > 30% YoY for 3 yrs AND D/E < 0.5,3y,31,11,35.5,15.1,8.8,-24.2,95.9
+Reserves > 30% YoY for 3 yrs,5y,23,8,34.8,13.7,9.2,-16.0,61.0
+Reserves > 25% YoY for 3 yrs AND D/E < 0.5,7y,18,6,33.3,18.1,13.5,0.8,53.4
+FA > 25% YoY for 3 yrs AND D/E < 0.5,3y,12,4,33.3,20.8,13.3,-1.5,58.7
+FA > 25% YoY for 3 yrs AND D/E < 0.3,3y,9,3,33.3,23.2,11.3,1.8,58.7
+FA & Reserves both > 20% YoY for 3 yrs,7y,6,2,33.3,19.8,16.7,15.1,29.7
+Reserves > 25% YoY for 3 yrs AND D/E < 0.3,7y,16,4,25.0,15.9,10.8,0.8,53.4
+FA & Reserves both > 25% YoY for 3 yrs,3y,5,1,20.0,15.2,8.8,-1.5,45.2
+FA > 20% YoY for 3 yrs AND D/E < 0.3,7y,7,1,14.3,18.7,15.6,8.4,44.3

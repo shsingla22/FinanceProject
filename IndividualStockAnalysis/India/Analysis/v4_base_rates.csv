@@ -1,0 +1,16 @@
+horizon,cagr_threshold_pct,n_total,hits,base_rate_pct
+cagr3y_pct,10,3303,1997,60.5
+cagr3y_pct,15,3303,1713,51.9
+cagr3y_pct,20,3303,1443,43.7
+cagr3y_pct,25,3303,1210,36.6
+cagr3y_pct,30,3303,993,30.1
+cagr5y_pct,10,2456,1488,60.6
+cagr5y_pct,15,2456,1240,50.5
+cagr5y_pct,20,2456,986,40.1
+cagr5y_pct,25,2456,779,31.7
+cagr5y_pct,30,2456,628,25.6
+cagr7y_pct,10,1685,1091,64.7
+cagr7y_pct,15,1685,826,49.0
+cagr7y_pct,20,1685,577,34.2
+cagr7y_pct,25,1685,382,22.7
+cagr7y_pct,30,1685,268,15.9

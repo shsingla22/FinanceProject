@@ -1,0 +1,33 @@
+,parent_line_item,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
+Equity Capital,,10.0,12.0,12.0,12.0,13.0,14.0,14.0
+Reserves,,268.0,1772.0,1889.0,2227.0,2793.0,2446.0,2736.0
+Borrowings,,12.0,80.0,35.0,95.0,64.0,54.0,63.0
+Other Liabilities,,172.0,823.0,856.0,767.0,505.0,657.0,589.0
+Total Liabilities,,462.0,2688.0,2793.0,3102.0,3375.0,3171.0,3402.0
+Fixed Assets,,248.0,2036.0,2045.0,2013.0,2055.0,1981.0,1968.0
+CWIP,,4.0,4.0,3.0,74.0,4.0,8.0,4.0
+Investments,,80.0,52.0,201.0,255.0,325.0,175.0,573.0
+Other Assets,,130.0,596.0,544.0,760.0,991.0,1008.0,857.0
+Total Assets,,462.0,2688.0,2793.0,3102.0,3375.0,3171.0,3402.0
+Land,Fixed Assets,44.0,122.0,123.0,123.0,123.0,106.0,
+Building,Fixed Assets,58.0,163.0,183.0,130.0,134.0,119.0,
+Plant Machinery,Fixed Assets,0.0,0.0,187.0,192.0,269.0,274.0,
+Equipments,Fixed Assets,116.0,168.0,9.0,12.0,15.0,18.0,
+Furniture n fittings,Fixed Assets,5.0,6.0,7.0,16.0,17.0,17.0,
+Vehicles,Fixed Assets,0.0,8.0,7.0,10.0,8.0,7.0,
+Wind turbines,Fixed Assets,0.0,0.0,0.0,6.0,6.0,6.0,
+Intangible Assets,Fixed Assets,26.0,1585.0,1585.0,1585.0,1585.0,1585.0,1590.0
+Other fixed assets,Fixed Assets,41.0,56.0,59.0,100.0,109.0,106.0,
+Gross Block,Fixed Assets,290.0,2108.0,2159.0,2173.0,2267.0,2239.0,
+Accumulated Depreciation,Fixed Assets,42.0,72.0,115.0,160.0,212.0,258.0,
+Long term Borrowings,Borrowings,0.0,10.0,4.0,4.0,4.0,0.0,0.0
+Short term Borrowings,Borrowings,12.0,70.0,31.0,31.0,0.0,0.0,0.0
+Lease Liabilities,Borrowings,0.0,0.0,0.0,60.0,59.0,54.0,63.0
+Preference Capital,Borrowings,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trade Payables,Other Liabilities,74.0,214.0,213.0,182.0,232.0,270.0,254.0
+Other liability items,Other Liabilities,98.0,610.0,643.0,585.0,273.0,388.0,335.0
+Inventories,Other Assets,74.0,308.0,310.0,350.0,297.0,309.0,295.0
+Trade receivables,Other Assets,16.0,95.0,99.0,116.0,169.0,163.0,183.0
+Cash Equivalents,Other Assets,6.0,69.0,14.0,75.0,115.0,191.0,23.0
+Loans n Advances,Other Assets,5.0,6.0,7.0,6.0,15.0,11.0,12.0
+Other asset items,Other Assets,29.0,118.0,114.0,214.0,396.0,335.0,345.0

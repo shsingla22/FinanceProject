@@ -1,0 +1,743 @@
+nse_symbol,status
+AADHARHFC,skip:existing
+AARTIDRUGS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+AARTIIND,skip:existing
+AARTIPHARM,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+AAVAS,skip:existing
+ABB,skip:existing
+ABBOTINDIA,skip:existing
+ABCAPITAL,skip:existing
+ABDL,skip:existing
+ABFRL,skip:existing
+ABLBL,skip:existing
+ABREL,skip:existing
+ABSLAMC,skip:existing
+ACC,skip:existing
+ACE,skip:existing
+ACI,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ACMESOLAR,skip:existing
+ACUTAAS,skip:existing
+ADANIENSOL,skip:existing
+ADANIENT,skip:existing
+ADANIGREEN,skip:existing
+ADANIPORTS,skip:existing
+ADANIPOWER,skip:existing
+ADVENZYMES,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+AEGISLOG,skip:existing
+AEGISVOPAK,skip:existing
+AEQUS,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+AETHER,"ok:consolidated:headline=12:cols=5;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+AFCONS,skip:existing
+AFFLE,skip:existing
+AGARWALEYE,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+AHLUCONT,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+AIAENG,skip:existing
+AIIL,skip:existing
+AJANTPHARM,skip:existing
+AKUMS,"ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ALIVUS,"ok:consolidated:headline=12:cols=3;schedules=Sales=1,Expenses=3,Other Income=1,Net Profit=4"
+ALKEM,skip:existing
+ALKYLAMINE,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ALOKINDS,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+AMBER,skip:existing
+AMBUJACEM,skip:existing
+ANANDRATHI,skip:existing
+ANANTRAJ,skip:existing
+ANGELONE,skip:existing
+ANTHEM,skip:existing
+ANUP,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+ANURAS,skip:existing
+APARINDS,skip:existing
+APLAPOLLO,skip:existing
+APLLTD,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+APOLLO,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+APOLLOHOSP,skip:existing
+APOLLOTYRE,skip:existing
+APTUS,skip:existing
+ARVIND,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ARVINDFASN,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ASAHIINDIA,skip:existing
+ASHAPURMIN,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+ASHOKA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ASHOKLEY,skip:existing
+ASIANPAINT,skip:existing
+ASKAUTOLTD,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ASTERDM,skip:existing
+ASTRAL,skip:existing
+ASTRAMICRO,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ATGL,skip:existing
+ATHERENERG,skip:existing
+ATLANTAELE,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+ATUL,skip:existing
+AUBANK,skip:existing
+AURIONPRO,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+AUROPHARMA,skip:existing
+AVALON,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+AVANTIFEED,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+AVL,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+AWFIS,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+AWL,skip:existing
+AXISBANK,skip:existing
+AXISCADES,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+AZAD,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+BAJAJ-AUTO,skip:existing
+BAJAJELEC,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+BAJAJFINSV,skip:existing
+BAJAJHFL,skip:existing
+BAJAJHLDNG,skip:existing
+BAJFINANCE,skip:existing
+BALAMINES,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+BALKRISIND,skip:existing
+BALRAMCHIN,skip:existing
+BALUFORGE,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+BANCOINDIA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+BANDHANBNK,skip:existing
+BANKBARODA,skip:existing
+BANKINDIA,skip:existing
+BATAINDIA,skip:existing
+BAYERCROP,skip:existing
+BBOX,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+BBTC,skip:existing
+BDL,skip:existing
+BECTORFOOD,"ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+BEL,skip:existing
+BELRISE,skip:existing
+BEML,skip:existing
+BERGEPAINT,skip:existing
+BHARATFORG,skip:existing
+BHARTIARTL,skip:existing
+BHARTIHEXA,skip:existing
+BHEL,skip:existing
+BIKAJI,skip:existing
+BIOCON,skip:existing
+BIRLACORPN,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+BLACKBUCK,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+BLS,skip:existing
+BLUEDART,skip:existing
+BLUEJET,skip:existing
+BLUESTARCO,skip:existing
+BLUESTONE,"ok:consolidated:headline=12:cols=2;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+BORORENEW,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+BOSCHLTD,skip:existing
+BPCL,skip:existing
+BRIGADE,skip:existing
+BRITANNIA,skip:existing
+BSE,skip:existing
+BSOFT,skip:existing
+CAMPUS,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+CAMS,skip:existing
+CANBK,skip:existing
+CANFINHOME,skip:existing
+CANHLIFE,skip:existing
+CAPILLARY,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+CAPLIPOINT,skip:existing
+CARBORUNIV,skip:existing
+CARTRADE,skip:existing
+CASTROLIND,skip:existing
+CCAVENUE,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+CCL,skip:existing
+CDSL,skip:existing
+CEATLTD,skip:existing
+CELLO,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+CEMPRO,skip:existing
+CENTRALBK,skip:existing
+CENTURYPLY,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+CERA,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+CESC,skip:existing
+CGCL,skip:existing
+CGPOWER,skip:existing
+CHALET,skip:existing
+CHAMBLFERT,skip:existing
+CHENNPETRO,skip:existing
+CHOICEIN,skip:existing
+CHOLAFIN,skip:existing
+CHOLAHLDNG,skip:existing
+CIEINDIA,skip:existing
+CIPLA,skip:existing
+CLEAN,skip:existing
+CMSINFO,"ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+COALINDIA,skip:existing
+COCHINSHIP,skip:existing
+COFORGE,skip:existing
+COHANCE,skip:existing
+COLPAL,skip:existing
+CONCOR,skip:existing
+CONCORDBIO,skip:existing
+COROMANDEL,skip:existing
+CORONA,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+CPPLUS,skip:existing
+CRAFTSMAN,skip:existing
+CRAMC,"ok:standalone:headline=12:cols=7;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+CREDITACC,skip:existing
+CRISIL,skip:existing
+CRIZAC,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=6"
+CROMPTON,skip:existing
+CSBBANK,"ok:standalone:headline=12:cols=12;schedules=Expenses=3,Other Income=2,Net Profit=5"
+CUB,skip:existing
+CUMMINSIND,skip:existing
+CUPID,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+CYIENT,skip:existing
+DABUR,skip:existing
+DALBHARAT,skip:existing
+DATAMATICS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+DATAPATTNS,skip:existing
+DBL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+DBREALTY,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+DCBBANK,"ok:standalone:headline=12:cols=12;schedules=Expenses=3,Other Income=2,Net Profit=5"
+DCMSHRIRAM,skip:existing
+DEEPAKFERT,skip:existing
+DEEPAKNTR,skip:existing
+DELHIVERY,skip:existing
+DEVYANI,skip:existing
+DIACABS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+DIVISLAB,skip:existing
+DIXON,skip:existing
+DLF,skip:existing
+DMART,skip:existing
+DOMS,skip:existing
+DRREDDY,skip:existing
+DYNAMATECH,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+ECLERX,skip:existing
+EDELWEISS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=7"
+EICHERMOT,skip:existing
+EIDPARRY,skip:existing
+EIEL,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+EIHOTEL,skip:existing
+ELECON,skip:existing
+ELECTCAST,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+ELGIEQUIP,skip:existing
+ELLEN,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+EMAMILTD,skip:existing
+EMBDL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+EMCURE,skip:existing
+EMIL,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+EMMVEE,skip:existing
+ENDURANCE,skip:existing
+ENGINERSIN,skip:existing
+ENRIN,skip:existing
+ENTERO,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+EPL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+EQUITASBNK,"ok:standalone:headline=12:cols=12;schedules=Expenses=3,Other Income=2,Net Profit=5"
+ERIS,skip:existing
+ESCORTS,skip:existing
+ETERNAL,skip:existing
+ETHOSLTD,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+EUREKAFORB,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+EXIDEIND,skip:existing
+FACT,skip:existing
+FEDERALBNK,skip:existing
+FEDFINA,"ok:standalone:headline=12:cols=8;schedules=Expenses=3,Other Income=2,Net Profit=5"
+FIEMIND,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+FINCABLES,skip:existing
+FINPIPE,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+FIRSTCRY,skip:existing
+FIVESTAR,skip:existing
+FLUOROCHEM,skip:existing
+FORCEMOT,skip:existing
+FORTIS,skip:existing
+FSL,skip:existing
+GABRIEL,skip:existing
+GAEL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+GAIL,skip:existing
+GALLANTT,skip:existing
+GESHIP,skip:existing
+GHCL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+GICRE,skip:existing
+GILLETTE,skip:existing
+GLAND,skip:existing
+GLAXO,skip:existing
+GLENMARK,skip:existing
+GMDCLTD,skip:existing
+GMMPFAUDLR,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+GMRAIRPORT,skip:existing
+GNFC,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+GODFRYPHLP,skip:existing
+GODIGIT,skip:existing
+GODREJAGRO,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+GODREJCP,skip:existing
+GODREJIND,skip:existing
+GODREJPROP,skip:existing
+GOKEX,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+GOKULAGRO,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+GPIL,skip:existing
+GPPL,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+GRANULES,skip:existing
+GRAPHITE,skip:existing
+GRASIM,skip:existing
+GRAVITA,skip:existing
+GREAVESCOT,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+GROWW,skip:existing
+GRSE,skip:existing
+GRWRHITECH,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+GSFC,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+HAL,skip:existing
+HAPPSTMNDS,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+HAVELLS,skip:existing
+HBLENGINE,skip:existing
+HCC,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+HCG,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+HCLTECH,skip:existing
+HDBFS,skip:existing
+HDFCAMC,skip:existing
+HDFCBANK,skip:existing
+HDFCLIFE,skip:existing
+HEG,skip:existing
+HEMIPROP,"ok:standalone:headline=12:cols=11;schedules=Sales=1,Expenses=3,Other Income=1,Net Profit=4"
+HERITGFOOD,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+HEROMOTOCO,skip:existing
+HEXT,skip:existing
+HFCL,skip:existing
+HGINFRA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+HINDALCO,skip:existing
+HINDCOPPER,skip:existing
+HINDPETRO,skip:existing
+HINDUNILVR,skip:existing
+HINDZINC,skip:existing
+HOMEFIRST,skip:existing
+HONASA,skip:existing
+HONAUT,skip:existing
+HSCL,skip:existing
+HUDCO,skip:existing
+HYUNDAI,skip:existing
+ICICIAMC,skip:existing
+ICICIBANK,skip:existing
+ICICIGI,skip:existing
+ICICIPRULI,skip:existing
+ICIL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+IDBI,skip:existing
+IDEA,skip:existing
+IDFCFIRSTB,skip:existing
+IEX,skip:existing
+IFBIND,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+IFCI,skip:existing
+IGIL,skip:existing
+IGL,skip:existing
+IIFL,skip:existing
+IIFLCAPS,"ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=6"
+IKS,skip:existing
+IMFA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+INDGN,skip:existing
+INDHOTEL,skip:existing
+INDIACEM,skip:existing
+INDIAGLYCO,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+INDIAMART,skip:existing
+INDIANB,skip:existing
+INDIASHLTR,"ok:consolidated:headline=12:cols=6;schedules=Expenses=3,Other Income=2,Net Profit=5"
+INDIGO,skip:existing
+INDIGOPNTS,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+INDUSINDBK,skip:existing
+INDUSTOWER,skip:existing
+INFY,skip:existing
+INOXGREEN,"ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+INOXINDIA,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+INOXWIND,skip:existing
+INTELLECT,skip:existing
+IOB,skip:existing
+IOC,skip:existing
+IONEXCHANG,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+IPCALAB,skip:existing
+IRB,skip:existing
+IRCON,skip:existing
+IRCTC,skip:existing
+IREDA,skip:existing
+IRFC,skip:existing
+ITC,skip:existing
+ITCHOTELS,skip:existing
+ITI,skip:existing
+IXIGO,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=6"
+JAIBALAJI,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+JAINREC,skip:existing
+JAMNAAUTO,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+JAYNECOIND,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+JBCHEPHARM,skip:existing
+JBMA,skip:existing
+JINDALSAW,skip:existing
+JINDALSTEL,skip:existing
+JIOFIN,skip:existing
+JKCEMENT,skip:existing
+JKLAKSHMI,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+JKPAPER,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+JKTYRE,skip:existing
+JLHL,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+JMFINANCIL,skip:existing
+JPPOWER,skip:existing
+JSFB,"ok:standalone:headline=12:cols=9;schedules=Expenses=3,Other Income=2,Net Profit=5"
+JSL,skip:existing
+JSLL,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+JSWCEMENT,skip:existing
+JSWDULUX,skip:existing
+JSWENERGY,skip:existing
+JSWINFRA,skip:existing
+JSWSTEEL,skip:existing
+JUBLFOOD,skip:existing
+JUBLINGREA,skip:existing
+JUBLPHARMA,skip:existing
+JUSTDIAL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+JWL,skip:existing
+JYOTHYLAB,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+JYOTICNC,skip:existing
+KAJARIACER,skip:existing
+KALYANKJIL,skip:existing
+KANSAINER,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+KARURVYSYA,skip:existing
+KAYNES,skip:existing
+KEC,skip:existing
+KEI,skip:existing
+KFINTECH,skip:existing
+KIMS,skip:existing
+KIRLOSBROS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+KIRLOSENG,skip:existing
+KIRLPNU,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+KITEX,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+KNRCON,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+KOTAKBANK,skip:existing
+KPIGREEN,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+KPIL,skip:existing
+KPITTECH,skip:existing
+KPRMILL,skip:existing
+KRBL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+KRN,"ok:consolidated:headline=12:cols=3;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+KSB,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+KSCL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+KTKBANK,"ok:consolidated:headline=12:cols=7;schedules=Expenses=3,Other Income=2,Net Profit=5"
+LALPATHLAB,skip:existing
+LATENTVIEW,skip:existing
+LAURUSLABS,skip:existing
+LEMONTREE,skip:existing
+LENSKART,skip:existing
+LGEINDIA,skip:existing
+LICHSGFIN,skip:existing
+LICI,skip:existing
+LINDEINDIA,skip:existing
+LLOYDSENGG,"ok:consolidated:headline=12:cols=2;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+LLOYDSENT,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+LLOYDSME,skip:existing
+LODHA,skip:existing
+LOTUSDEV,"ok:consolidated:headline=12:cols=5;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+LT,skip:existing
+LTF,skip:existing
+LTFOODS,skip:existing
+LTM,skip:existing
+LTTS,skip:existing
+LUMAXTECH,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+LUPIN,skip:existing
+LXCHEM,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+MAHABANK,skip:existing
+MAHSCOOTER,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+MAHSEAMLES,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+MANAPPURAM,skip:existing
+MANKIND,skip:existing
+MANORAMA,"ok:consolidated:headline=12:cols=2;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+MANYAVAR,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+MAPMYINDIA,skip:existing
+MARICO,skip:existing
+MARKSANS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+MARUTI,skip:existing
+MASTEK,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=6"
+MAXHEALTH,skip:existing
+MAZDOCK,skip:existing
+MCX,skip:existing
+MEDANTA,skip:existing
+MEDPLUS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+MEESHO,skip:existing
+METROPOLIS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+MFSL,skip:existing
+MGL,skip:existing
+MIDHANI,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+MINDACORP,skip:existing
+MMTC,skip:existing
+MOIL,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+MOTHERSON,skip:existing
+MOTILALOFS,skip:existing
+MPHASIS,skip:existing
+MRF,skip:existing
+MRPL,skip:existing
+MSTCLTD,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+MSUMI,skip:existing
+MTARTECH,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+MUTHOOTFIN,skip:existing
+NAM-INDIA,skip:existing
+NATCOPHARM,skip:existing
+NATIONALUM,skip:existing
+NAUKRI,skip:existing
+NAVA,skip:existing
+NAVINFLUOR,skip:existing
+NAZARA,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+NBCC,skip:existing
+NCC,skip:existing
+NEOGEN,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+NESCO,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+NESTLEIND,skip:existing
+NETWEB,skip:existing
+NETWORK18,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+NEULANDLAB,skip:existing
+NEWGEN,skip:existing
+NFL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+NH,skip:existing
+NHPC,skip:existing
+NIACL,skip:existing
+NIVABUPA,skip:existing
+NLCINDIA,skip:existing
+NMDC,skip:existing
+NSLNISP,skip:existing
+NTPC,skip:existing
+NTPCGREEN,skip:existing
+NUVAMA,skip:existing
+NUVOCO,skip:existing
+NYKAA,skip:existing
+OBEROIRLTY,skip:existing
+OFSS,skip:existing
+OIL,skip:existing
+OLAELEC,skip:existing
+OLECTRA,skip:existing
+ONESOURCE,skip:existing
+ONGC,skip:existing
+OPTIEMUS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+ORIENTCEM,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+ORKLAINDIA,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+OSWALPUMPS,"ok:consolidated:headline=12:cols=5;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PAGEIND,skip:existing
+PARADEEP,skip:existing
+PARAS,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PARKHOSPS,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+PATANJALI,skip:existing
+PAYTM,skip:existing
+PCBL,skip:existing
+PCJEWELLER,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+PERSISTENT,skip:existing
+PETRONET,skip:existing
+PFC,skip:existing
+PFIZER,skip:existing
+PFOCUS,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=6"
+PGEL,skip:existing
+PGIL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PHOENIXLTD,skip:existing
+PICCADIL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PIDILITIND,skip:existing
+PIIND,skip:existing
+PINELABS,skip:existing
+PIRAMALFIN,skip:existing
+PNB,skip:existing
+PNBHOUSING,skip:existing
+PNCINFRA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+PNGJL,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+POLICYBZR,skip:existing
+POLYCAB,skip:existing
+POLYMED,skip:existing
+POONAWALLA,skip:existing
+POWERGRID,skip:existing
+POWERINDIA,skip:existing
+POWERMECH,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PPLPHARMA,skip:existing
+PRAJIND,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PREMIERENE,skip:existing
+PRESTIGE,skip:existing
+PRICOLLTD,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+PRIVISCL,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PRSMJOHNSN,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+PRUDENT,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+PTC,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+PTCIL,skip:existing
+PURVA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+PVRINOX,skip:existing
+PWL,skip:existing
+QPOWER,"ok:consolidated:headline=12:cols=5;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+QUESS,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+RADICO,skip:existing
+RAILTEL,skip:existing
+RAIN,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+RAINBOW,skip:existing
+RALLIS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+RAMCOCEM,skip:existing
+RATEGAIN,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+RATNAMANI,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+RAYMONDLSL,"ok:consolidated:headline=12:cols=3;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+RBA,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+RBLBANK,skip:existing
+RCF,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+RECLTD,skip:existing
+REDINGTON,skip:existing
+REDTAPE,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+REFEX,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+RELAXO,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+RELIANCE,skip:existing
+RELIGARE,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=7"
+RENUKA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=HTTP403"
+RHIM,skip:existing
+RITES,skip:existing
+RKFORGE,skip:existing
+ROUTE,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+RPOWER,skip:existing
+RRKABEL,skip:existing
+RTNINDIA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+RTNPOWER,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=6"
+RUBICON,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+RVNL,skip:existing
+SAATVIKGL,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SAFARI,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SAGILITY,skip:existing
+SAIL,skip:existing
+SAILIFE,skip:existing
+SAMHI,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SAMMAANCAP,skip:existing
+SANDUMA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+SANOFICONR,"ok:standalone:headline=12:cols=3;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SANSERA,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+SAPPHIRE,skip:existing
+SARDAEN,skip:existing
+SAREGAMA,skip:existing
+SBFC,skip:existing
+SBICARD,skip:existing
+SBILIFE,skip:existing
+SBIN,skip:existing
+SCHAEFFLER,skip:existing
+SCHNEIDER,skip:existing
+SCI,skip:existing
+SENCO,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SFL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+SHAILY,"ok:consolidated:headline=12:cols=5;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SHAKTIPUMP,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SHARDACROP,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SHAREINDIA,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+SHILPAMED,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SHREECEM,skip:existing
+SHRIPISTON,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SHRIRAMFIN,skip:existing
+SHYAMMETL,skip:existing
+SIEMENS,skip:existing
+SIGNATURE,skip:existing
+SJVN,skip:existing
+SKFINDIA,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SKFINDUS,"ok:standalone:headline=12:cols=1;schedules=Sales=empty,Expenses=3,Other Income=2,Net Profit=5"
+SKIPPER,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SKYGOLD,"ok:consolidated:headline=12:cols=5;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SMARTWORKS,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SMLMAH,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SOBHA,skip:existing
+SOLARINDS,skip:existing
+SONACOMS,skip:existing
+SONATSOFTW,skip:existing
+SOUTHBANK,"ok:consolidated:headline=12:cols=6;schedules=Expenses=3,Other Income=2,Net Profit=5"
+SPARC,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SPLPETRO,skip:existing
+SRF,skip:existing
+STAR,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+STARCEMENT,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+STARHEALTH,skip:existing
+STLTECH,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+STYL,"ok:consolidated:headline=12:cols=3;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+STYRENIX,"ok:consolidated:headline=12:cols=3;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SUBROS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SUDARSCHEM,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SUDEEPPHRM,"ok:consolidated:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SUMICHEM,skip:existing
+SUNDARMFIN,skip:existing
+SUNPHARMA,skip:existing
+SUNTECK,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SUNTV,skip:existing
+SUPREMEIND,skip:existing
+SUPRIYA,"ok:standalone:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+SURYAROSNI,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SUZLON,skip:existing
+SWANCORP,skip:existing
+SWIGGY,skip:existing
+SWSOLAR,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+SYNGENE,skip:existing
+SYRMA,skip:existing
+TANLA,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+TARC,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+TARIL,skip:existing
+TATACAP,skip:existing
+TATACHEM,skip:existing
+TATACOMM,skip:existing
+TATACONSUM,skip:existing
+TATAELXSI,skip:existing
+TATAINVEST,skip:existing
+TATAPOWER,skip:existing
+TATASTEEL,skip:existing
+TATATECH,skip:existing
+TBOTEK,skip:existing
+TCS,skip:existing
+TDPOWERSYS,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+TECHM,skip:existing
+TECHNOE,skip:existing
+TEGA,skip:existing
+TEJASNET,skip:existing
+TENNIND,skip:existing
+TEXRAIL,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+THANGAMAYL,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+THELEELA,skip:existing
+THERMAX,skip:existing
+THOMASCOOK,"ok:consolidated:headline=12:cols=11;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=7"
+THYROCARE,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+TI,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+TIINDIA,skip:existing
+TIMETECHNO,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+TIMKEN,skip:existing
+TIPSMUSIC,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+TITAGARH,skip:existing
+TITAN,skip:existing
+TMB,"ok:standalone:headline=12:cols=9;schedules=Expenses=3,Other Income=2,Net Profit=5"
+TMCV,skip:existing
+TMPV,skip:existing
+TORNTPHARM,skip:existing
+TORNTPOWER,skip:existing
+TRANSRAILL,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+TRAVELFOOD,skip:existing
+TRENT,skip:existing
+TRIDENT,skip:existing
+TRITURBINE,skip:existing
+TRIVENI,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+TSFINV,"ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+TTML,skip:existing
+TVSMOTOR,skip:existing
+TVSSCS,"ok:consolidated:headline=12:cols=8;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+UBL,skip:existing
+UCOBANK,skip:existing
+UJJIVANSFB,"ok:standalone:headline=12:cols=11;schedules=Expenses=3,Other Income=2,Net Profit=5"
+ULTRACEMCO,skip:existing
+UNIONBANK,skip:existing
+UNITDSPR,skip:existing
+UNOMINDA,skip:existing
+UPL,skip:existing
+URBANCO,skip:existing
+USHAMART,skip:existing
+UTIAMC,skip:existing
+UTLSOLAR,"ok:consolidated:headline=12:cols=2;schedules=Sales=1,Expenses=4,Other Income=1,Net Profit=4"
+V2RETAIL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+VAIBHAVGBL,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+VARROC,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+VBL,skip:existing
+VEDL,skip:existing
+VGUARD,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+VIJAYA,skip:existing
+VIKRAMSOLR,"ok:consolidated:headline=12:cols=7;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+VIPIND,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+VIYASH,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+VMART,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+VMM,skip:existing
+VOLTAMP,"ok:standalone:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+VOLTAS,skip:existing
+VTL,skip:existing
+WAAREEENER,skip:existing
+WAAREERTL,"ok:consolidated:headline=12:cols=9;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+WABAG,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+WAKEFIT,"ok:standalone:headline=12:cols=6;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+WEBELSOLAR,"ok:consolidated:headline=12:cols=2;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=5"
+WELCORP,skip:existing
+WELENT,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+WELSPUNLIV,skip:existing
+WESTLIFE,"ok:consolidated:headline=12:cols=12;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=5"
+WEWORK,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=7"
+WHIRLPOOL,skip:existing
+WIPRO,skip:existing
+WOCKPHARMA,skip:existing
+YATHARTH,"ok:consolidated:headline=12:cols=10;schedules=Sales=1,Expenses=4,Other Income=2,Net Profit=6"
+YESBANK,skip:existing
+ZAGGLE,"ok:consolidated:headline=12:cols=4;schedules=Sales=1,Expenses=3,Other Income=2,Net Profit=6"
+ZEEL,skip:existing
+ZENSARTECH,skip:existing
+ZENTEC,skip:existing
+ZFCVINDIA,skip:existing
+ZYDUSLIFE,skip:existing
+ZYDUSWELL,skip:existing

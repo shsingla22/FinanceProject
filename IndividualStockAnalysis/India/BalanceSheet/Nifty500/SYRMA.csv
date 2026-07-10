@@ -1,0 +1,36 @@
+,parent_line_item,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
+Equity Capital,,5.0,5.0,138.0,177.0,177.0,178.0,193.0
+Reserves,,418.0,595.0,434.0,1364.0,1435.0,1572.0,2670.0
+Borrowings,,125.0,103.0,218.0,375.0,630.0,665.0,400.0
+Other Liabilities,,238.0,258.0,364.0,628.0,1446.0,1788.0,2508.0
+Total Liabilities,,786.0,960.0,1154.0,2543.0,3688.0,4202.0,5770.0
+Fixed Assets,,296.0,292.0,378.0,532.0,1075.0,1144.0,1463.0
+CWIP,,1.0,0.0,41.0,25.0,17.0,66.0,68.0
+Investments,,30.0,132.0,41.0,84.0,42.0,59.0,547.0
+Other Assets,,459.0,536.0,694.0,1901.0,2554.0,2933.0,3693.0
+Total Assets,,786.0,960.0,1154.0,2543.0,3688.0,4202.0,5770.0
+Land,Fixed Assets,5.0,4.0,64.0,67.0,137.0,138.0,
+Building,Fixed Assets,32.0,34.0,35.0,109.0,185.0,241.0,
+Plant Machinery,Fixed Assets,122.0,131.0,143.0,250.0,435.0,484.0,
+Equipments,Fixed Assets,8.0,10.0,13.0,7.0,14.0,16.0,
+Computers,Fixed Assets,3.0,5.0,8.0,13.0,23.0,27.0,
+Furniture n fittings,Fixed Assets,15.0,17.0,19.0,43.0,62.0,75.0,
+Vehicles,Fixed Assets,5.0,6.0,7.0,9.0,16.0,21.0,
+Intangible Assets,Fixed Assets,109.0,109.0,121.0,121.0,331.0,331.0,475.0
+Other fixed assets,Fixed Assets,15.0,16.0,32.0,8.0,19.0,30.0,
+Gross Block,Fixed Assets,315.0,332.0,441.0,627.0,1223.0,1363.0,
+Accumulated Depreciation,Fixed Assets,19.0,41.0,64.0,94.0,147.0,218.0,
+Long term Borrowings,Borrowings,32.0,26.0,4.0,87.0,64.0,62.0,39.0
+Short term Borrowings,Borrowings,81.0,67.0,190.0,260.0,512.0,549.0,314.0
+Lease Liabilities,Borrowings,12.0,10.0,24.0,28.0,54.0,53.0,47.0
+Preference Capital,Borrowings,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other Borrowings,Borrowings,-5.0,-0.0,0.0,0.0,0.0,0.0,
+Non controlling int,Other Liabilities,0.0,1.0,11.0,3.0,64.0,75.0,203.0
+Trade Payables,Other Liabilities,168.0,184.0,240.0,489.0,1223.0,1574.0,1959.0
+Advance from Customers,Other Liabilities,18.0,16.0,37.0,42.0,42.0,24.0,
+Other liability items,Other Liabilities,52.0,57.0,76.0,93.0,116.0,114.0,346.0
+Inventories,Other Assets,142.0,179.0,291.0,587.0,1004.0,822.0,1062.0
+Trade receivables,Other Assets,180.0,208.0,272.0,402.0,930.0,1477.0,1841.0
+Cash Equivalents,Other Assets,78.0,73.0,37.0,54.0,86.0,296.0,299.0
+Loans n Advances,Other Assets,18.0,20.0,28.0,24.0,22.0,33.0,23.0
+Other asset items,Other Assets,41.0,56.0,66.0,832.0,512.0,305.0,469.0

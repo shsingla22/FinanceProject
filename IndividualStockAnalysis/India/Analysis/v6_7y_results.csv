@@ -1,0 +1,24 @@
+signal,horizon,n,hits_cagr_ge_20pct,hit_rate_pct,avg_cagr_pct,median_cagr_pct,min_cagr_pct,max_cagr_pct
+FA > 25% YoY for 3 yrs,7y,10,6,60.0,23.4,23.0,8.4,48.7
+Reserves > 30% YoY for 3 yrs AND D/E < 0.5,7y,11,6,54.5,22.8,20.3,6.1,53.4
+Reserves > 30% YoY for 3 yrs,7y,13,7,53.8,20.0,20.3,-15.3,53.4
+Reserves CAGR (3y) > 40%,7y,51,23,45.1,19.2,17.1,-17.0,53.9
+FA CAGR (3y) > 40%,7y,38,17,44.7,22.0,17.2,-1.2,61.7
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.5,7y,18,8,44.4,23.3,17.7,7.3,52.9
+Reserves CAGR > 30% AND Borrowings CAGR < -10%,7y,18,8,44.4,19.9,16.7,0.8,53.4
+Cash > 20% TA AND Reserves CAGR > 25%,7y,9,4,44.4,24.0,17.8,13.6,45.4
+Reserves > 25% YoY for 3 yrs,7y,23,10,43.5,18.9,17.4,-15.3,53.4
+FA CAGR > 30% AND Reserves CAGR > 30% AND D/E < 0.5,7y,14,6,42.9,22.2,17.7,7.3,52.9
+Reserves CAGR (3y) > 35%,7y,64,27,42.2,18.4,16.7,-17.0,53.9
+FA CAGR (3y) > 35%,7y,55,23,41.8,19.8,17.4,-33.9,61.7
+Reserves CAGR > 30% AND Borrowings CAGR < 0%,7y,24,10,41.7,18.4,15.6,0.8,53.4
+FA CAGR > 25% AND Reserves CAGR > 30% AND D/E < 0.3,7y,12,5,41.7,22.2,17.7,10.6,36.0
+Reserves CAGR (3y) > 30%,7y,85,34,40.0,17.2,16.0,-33.9,53.9
+Cash > 25% TA AND Reserves CAGR > 25%,7y,5,2,40.0,25.6,17.8,13.6,45.4
+FA CAGR > 25% AND Reserves CAGR > 25% AND D/E < 0.3,7y,13,5,38.5,21.5,17.6,10.6,36.0
+Reserves CAGR > 25% AND Borrowings CAGR < -10%,7y,24,9,37.5,19.0,16.2,0.8,53.4
+FA CAGR (3y) > 30%,7y,77,28,36.4,17.9,16.6,-33.9,61.7
+Reserves > 25% YoY for 3 yrs AND D/E < 0.5,7y,18,6,33.3,18.1,13.5,0.8,53.4
+FA & Reserves both > 20% YoY for 3 yrs,7y,6,2,33.3,19.8,16.7,15.1,29.7
+Reserves > 25% YoY for 3 yrs AND D/E < 0.3,7y,16,4,25.0,15.9,10.8,0.8,53.4
+FA > 20% YoY for 3 yrs AND D/E < 0.3,7y,7,1,14.3,18.7,15.6,8.4,44.3

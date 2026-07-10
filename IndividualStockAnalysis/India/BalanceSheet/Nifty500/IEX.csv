@@ -1,0 +1,30 @@
+,parent_line_item,Mar 2019,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
+Equity Capital,,30.0,30.0,30.0,90.0,89.0,89.0,89.0,89.0
+Reserves,,340.0,358.0,496.0,614.0,710.0,883.0,1047.0,1275.0
+Borrowings,,0.0,14.0,12.0,10.0,14.0,10.0,6.0,11.0
+Other Liabilities,,335.0,265.0,444.0,983.0,640.0,791.0,1054.0,1060.0
+Total Liabilities,,706.0,667.0,982.0,1696.0,1453.0,1774.0,2196.0,2436.0
+Fixed Assets,,111.0,119.0,121.0,110.0,110.0,101.0,87.0,102.0
+CWIP,,1.0,4.0,7.0,5.0,4.0,4.0,4.0,0.0
+Investments,,475.0,509.0,713.0,1248.0,1219.0,1331.0,1633.0,1993.0
+Other Assets,,118.0,36.0,141.0,333.0,121.0,337.0,472.0,341.0
+Total Assets,,706.0,667.0,982.0,1696.0,1453.0,1774.0,2196.0,2436.0
+Building,Fixed Assets,3.0,3.0,5.0,5.0,30.0,30.0,25.0,
+Equipments,Fixed Assets,1.0,1.0,1.0,1.0,1.0,1.0,1.0,
+Computers,Fixed Assets,4.0,8.0,9.0,10.0,12.0,16.0,17.0,
+Furniture n fittings,Fixed Assets,2.0,2.0,2.0,2.0,2.0,2.0,2.0,
+Vehicles,Fixed Assets,2.0,2.0,3.0,3.0,3.0,3.0,4.0,
+Intangible Assets,Fixed Assets,0.0,0.0,0.0,0.0,115.0,115.0,115.0,73.0
+Other fixed assets,Fixed Assets,123.0,141.0,151.0,153.0,29.0,34.0,38.0,
+Gross Block,Fixed Assets,134.0,157.0,171.0,175.0,193.0,202.0,203.0,
+Accumulated Depreciation,Fixed Assets,23.0,38.0,50.0,65.0,83.0,101.0,116.0,
+Lease Liabilities,Borrowings,0.0,13.91,11.73,10.01,14.09,10.36,6.15,11.16
+Other Borrowings,Borrowings,0.0,0.0,0.0,0.0,0.01,0.0,0.0,
+Non controlling int,Other Liabilities,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0
+Trade Payables,Other Liabilities,134.0,77.0,166.0,635.0,402.0,563.0,4.0,5.0
+Advance from Customers,Other Liabilities,0.0,2.0,5.0,3.0,2.0,2.0,1.0,
+Other liability items,Other Liabilities,201.0,187.0,244.0,345.0,236.0,227.0,1050.0,1055.0
+Trade receivables,Other Assets,46.0,0.0,3.0,87.0,7.0,86.0,3.0,2.0
+Cash Equivalents,Other Assets,68.0,28.0,104.0,233.0,65.0,187.0,113.0,105.0
+Loans n Advances,Other Assets,1.0,1.0,1.0,2.0,2.0,36.0,66.0,7.0
+Other asset items,Other Assets,4.0,7.0,33.0,12.0,47.0,28.0,291.0,226.0

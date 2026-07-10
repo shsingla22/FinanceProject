@@ -1,0 +1,152 @@
+signal,horizon,n,hits_cagr_geq_20pct,hit_rate_pct,avg_cagr_pct,median_cagr_pct
+Fixed Assets shrinking 3y (CAGR < 0%),5y,280,162,57.9,30.0,25.4
+Fixed Assets shrinking 3y (CAGR < 0%),3y,448,254,56.7,32.9,23.9
+Borrowings shrinking 3y (CAGR < 0%),5y,376,211,56.1,27.8,23.1
+Borrowings shrinking 3y (CAGR < 0%),3y,627,351,56.0,30.0,23.2
+Reserves CAGR > 15% AND Borrowings CAGR < 0% (deleveraging compounder),3y,260,139,53.5,27.4,21.1
+Reserves CAGR (5y) > 25%,5y,90,48,53.3,27.5,21.7
+Cash Equivalents CAGR (3y) > 20%,3y,895,473,52.8,28.3,21.8
+Reserves CAGR > 15% AND Borrowings CAGR < 0% (deleveraging compounder),5y,142,75,52.8,23.6,21.3
+Fixed Assets CAGR (5y) > 15%,5y,236,123,52.1,26.1,21.3
+Reserves CAGR > 25% AND Debt/Equity < 0.5,5y,99,51,51.5,24.0,21.4
+FA CAGR > 25% AND Reserves CAGR > 25% (aggressive growth + retained),5y,74,38,51.4,24.0,20.6
+FA CAGR > 20% AND Reserves CAGR > 25%,5y,96,48,50.0,22.5,20.0
+Cash Equivalents CAGR (3y) > 20%,5y,515,256,49.7,24.2,19.9
+Fixed Assets CAGR (5y) > 20%,5y,157,78,49.7,25.0,20.0
+FA CAGR (5y) > 15% AND Reserves CAGR (5y) > 20%,5y,89,44,49.4,24.7,19.6
+Reserves CAGR (5y) > 20%,5y,148,73,49.3,25.3,19.5
+FA CAGR (3y) between 10-25%,3y,567,277,48.9,23.4,19.5
+Reserves CAGR (3y) > 25%,5y,201,98,48.8,20.8,19.1
+Fixed Assets CAGR (5y) > 15%,3y,466,227,48.7,25.7,19.4
+Reserves CAGR > 20% AND Cash CAGR > 15%,5y,222,108,48.6,21.7,19.7
+Reserves CAGR (5y) > 25%,3y,198,96,48.5,26.1,17.6
+Cash > 20% of TA AND Reserves CAGR > 20%,3y,56,27,48.2,29.8,19.4
+Cash > 20% of TA AND Reserves CAGR > 20%,5y,25,12,48.0,26.4,19.5
+Reserves CAGR (5y) > 20%,3y,330,158,47.9,25.6,19.4
+Total Assets CAGR (5y) > 20%,3y,250,119,47.6,25.4,17.9
+Reserves CAGR > 25% AND FA CAGR < 25% (capital-efficient compounding),5y,126,60,47.6,19.1,16.6
+Fixed Assets CAGR (3y) > 25%,5y,230,109,47.4,21.2,19.2
+Fixed Assets CAGR (3y) > 15%,5y,443,208,47.0,21.0,19.1
+Reserves CAGR (5y) > 20% AND Debt/Equity < 0.5,3y,188,88,46.8,25.9,18.3
+Total Assets CAGR (5y) > 15%,3y,449,209,46.5,24.1,17.7
+Reserves CAGR > 20% AND Cash CAGR > 15%,3y,402,187,46.5,24.6,18.6
+Fixed Assets CAGR (5y) > 20%,3y,317,147,46.4,24.7,17.1
+Fixed Assets CAGR (3y) > 20%,5y,308,143,46.4,20.5,19.0
+Reserves CAGR > 25% AND Cash > 10% of TA AND Debt/Equity < 0.5,5y,28,13,46.4,27.9,18.4
+Investments CAGR (3y) > 20%,3y,694,321,46.3,20.6,17.6
+Reserves CAGR (3y) > 30%,5y,149,69,46.3,20.2,15.6
+Reserves CAGR > 30% AND Debt/Equity < 0.3,5y,67,31,46.3,23.6,16.3
+FA CAGR > 15% AND Debt/Equity < 0.5 (low-debt capex),5y,221,102,46.2,20.6,17.8
+Reserves CAGR (3y) > 20% (strong retained earnings),5y,342,157,45.9,20.4,18.8
+Fixed Assets CAGR (3y) > 20%,3y,487,223,45.8,22.3,16.5
+Reserves CAGR (5y) > 20% AND Debt/Equity < 0.5,5y,83,38,45.8,26.1,18.6
+Fixed Assets CAGR (3y) > 15%,3y,691,316,45.7,22.3,17.1
+Reserves CAGR > 20% AND Debt/Equity < 0.3 AND FA CAGR > 10%,3y,158,72,45.6,23.5,18.1
+Total Assets CAGR (5y) > 20%,5y,114,52,45.6,23.0,18.9
+FA CAGR > 15% AND Reserves CAGR > 20% (profitable expansion),3y,303,138,45.5,22.5,16.8
+Total Assets CAGR (3y) > 20%,3y,423,192,45.4,22.3,17.0
+FA CAGR (3y) between 10-25%,5y,368,167,45.4,21.8,18.8
+Fixed Assets CAGR (3y) > 25%,3y,364,165,45.3,23.1,15.9
+Reserves CAGR (3y) > 20% (strong retained earnings),3y,595,269,45.2,23.0,17.4
+Total Assets CAGR (3y) > 20%,5y,241,109,45.2,20.4,18.1
+Total Assets CAGR (3y) > 15%,3y,721,325,45.1,22.0,17.1
+Reserves CAGR > 25% AND FA CAGR < 25% (capital-efficient compounding),3y,231,104,45.0,22.0,17.3
+Reserves CAGR > 25% AND Debt/Equity < 0.5,3y,209,94,45.0,23.2,17.1
+Total Assets CAGR (5y) > 15%,5y,196,88,44.9,23.0,17.8
+FA CAGR > 20% AND Reserves CAGR > 25%,3y,176,79,44.9,23.3,16.5
+FA CAGR > 15% AND Reserves CAGR > 20% (profitable expansion),5y,177,79,44.6,20.1,17.4
+Reserves CAGR (3y) > 25%,3y,366,163,44.5,22.5,16.7
+Total Assets CAGR (3y) > 15%,5y,421,187,44.4,20.1,18.3
+Total Assets CAGR (5y) > 15% AND Reserves CAGR (5y) > 20%,3y,257,114,44.4,24.1,16.8
+Reserves CAGR > 25% AND Cash > 10% of TA AND Debt/Equity < 0.5,3y,70,31,44.3,22.3,16.9
+Reserves CAGR > 20% AND Debt/Equity < 0.5,3y,323,142,44.0,22.5,17.1
+FA CAGR > 25% AND Reserves CAGR > 25% (aggressive growth + retained),3y,134,59,44.0,23.6,15.9
+Reserves > 10x Equity Capital (mature compounder),3y,2472,1086,43.9,20.9,16.6
+FA CAGR (5y) > 15% AND Reserves CAGR (5y) > 20%,3y,198,87,43.9,23.4,16.7
+Reserves > 20x Equity Capital,3y,2130,934,43.8,20.8,16.6
+Reserves CAGR > 20% AND Debt/Equity < 0.3,3y,261,114,43.7,23.0,17.3
+Debt/Equity < 0.3 (low leverage),3y,1250,543,43.4,21.5,16.2
+Reserves CAGR > 20% AND Debt/Equity < 0.5,5y,166,72,43.4,20.7,16.7
+FA CAGR > 15% AND Debt/Equity < 0.5 (low-debt capex),3y,365,158,43.3,21.9,16.5
+Debt/Equity < 0.5,3y,1546,668,43.2,21.4,16.3
+Total Assets CAGR > 15% AND Debt/Equity < 0.5,5y,202,87,43.1,20.8,16.4
+CWIP > 40% of Fixed Assets (very heavy pipeline),5y,188,81,43.1,18.9,17.2
+Total Assets CAGR > 20% AND Debt/Equity < 0.3,3y,181,78,43.1,21.9,16.2
+Total Assets CAGR > 20% AND Debt/Equity < 0.3,5y,93,40,43.0,20.8,16.4
+Cash > 10% of TA AND Debt/Equity < 0.3,3y,523,224,42.8,21.9,15.6
+CWIP > 40% of Fixed Assets (very heavy pipeline),3y,243,104,42.8,20.0,15.2
+Reserves > 50x Equity Capital,3y,1266,541,42.7,18.6,16.4
+CWIP > 25% of Fixed Assets,3y,416,177,42.5,19.3,14.8
+Total Assets CAGR (5y) > 15% AND Reserves CAGR (5y) > 20%,5y,113,48,42.5,22.2,16.2
+Total Assets CAGR > 15% AND Debt/Equity < 0.5,3y,388,164,42.3,21.4,16.1
+Reserves CAGR (3y) > 30%,3y,274,116,42.3,21.5,14.9
+Reserves CAGR > 30% AND Debt/Equity < 0.3,3y,137,58,42.3,23.5,14.0
+CWIP > 15% of Fixed Assets (heavy pipeline),3y,722,303,42.0,19.2,14.1
+Investments CAGR (3y) > 20%,5y,402,168,41.8,18.9,17.4
+Cash > 20% of Total Assets,3y,325,136,41.8,22.1,14.0
+Cash > 10% of Total Assets,3y,708,295,41.7,20.3,14.6
+FA CAGR > 20% AND Reserves CAGR > 25%,7y,48,20,41.7,18.7,17.5
+CWIP/FA > 25% AND Debt/Equity < 0.5 (low-debt heavy capex),3y,183,76,41.5,19.4,13.6
+FA CAGR > 15% AND Reserves CAGR > 20% (profitable expansion),7y,87,36,41.4,18.1,17.1
+Borrowings shrinking 3y (CAGR < 0%),7y,189,78,41.3,18.5,16.9
+FA CAGR > 25% AND Reserves CAGR > 25% (aggressive growth + retained),7y,34,14,41.2,19.4,17.5
+Borrowings < 10% of Total Assets (low debt),3y,970,399,41.1,20.3,15.0
+Reserves CAGR > 20% AND Debt/Equity < 0.3,5y,139,57,41.0,20.3,16.3
+Fixed Assets shrinking 3y (CAGR < 0%),7y,154,63,40.9,19.9,17.4
+Reserves > 20x Equity Capital,5y,1546,629,40.7,18.4,15.7
+Reserves > 10x Equity Capital (mature compounder),5y,1819,736,40.5,18.3,15.6
+Debt/Equity < 0.1 (near zero debt),3y,812,328,40.4,19.7,14.0
+Borrowings < 5% of Total Assets (very low debt),3y,705,284,40.3,19.4,14.2
+Reserves CAGR (3y) > 30%,7y,85,34,40.0,17.2,16.0
+Reserves CAGR > 20% AND Debt/Equity < 0.3 AND FA CAGR > 10%,5y,85,34,40.0,19.3,14.7
+Debt/Equity < 0.5,5y,1074,422,39.3,19.1,15.7
+Debt/Equity < 0.3 (low leverage),5y,866,340,39.3,19.1,15.7
+CWIP > 25% of Fixed Assets,5y,304,119,39.1,17.2,12.1
+FA CAGR (3y) between 10-25%,7y,188,73,38.8,16.9,15.9
+Reserves CAGR > 25% AND Debt/Equity < 0.5,7y,52,20,38.5,19.1,16.0
+Reserves > 50x Equity Capital,5y,874,336,38.4,16.7,15.3
+Fixed Assets CAGR (3y) > 15%,7y,209,80,38.3,17.4,16.4
+Total Assets CAGR (3y) > 20%,7y,120,46,38.3,16.5,16.0
+CWIP > 15% of Fixed Assets (heavy pipeline),5y,527,201,38.1,17.0,12.8
+Investments > 20% of Total Assets (holding co. style),3y,699,263,37.6,15.0,13.2
+FA CAGR > 15% AND Debt/Equity < 0.5 (low-debt capex),7y,101,38,37.6,19.0,16.9
+Debt/Equity < 0.1 (near zero debt),5y,567,212,37.4,18.1,15.1
+Cash Equivalents CAGR (3y) > 20%,7y,191,71,37.2,16.8,15.6
+Borrowings < 10% of Total Assets (low debt),5y,656,243,37.0,18.1,15.0
+Cash > 10% of TA AND Debt/Equity < 0.3,5y,346,126,36.4,17.7,14.2
+Reserves CAGR (3y) > 25%,7y,113,41,36.3,15.8,15.3
+Borrowings < 5% of Total Assets (very low debt),5y,499,180,36.1,17.3,14.8
+Reserves CAGR > 30% AND Debt/Equity < 0.3,7y,36,13,36.1,18.5,16.0
+Reserves CAGR > 20% AND Cash CAGR > 15%,7y,108,38,35.2,15.6,15.1
+Reserves CAGR (3y) > 20% (strong retained earnings),7y,183,64,35.0,15.5,14.9
+Reserves > 10x Equity Capital (mature compounder),7y,1252,435,34.7,16.4,15.0
+Reserves CAGR > 25% AND FA CAGR < 25% (capital-efficient compounding),7y,78,27,34.6,14.6,13.5
+Reserves CAGR > 15% AND Borrowings CAGR < 0% (deleveraging compounder),7y,78,27,34.6,16.4,14.2
+Cash > 10% of Total Assets,5y,470,162,34.5,15.9,13.0
+Fixed Assets CAGR (3y) > 20%,7y,135,46,34.1,16.9,15.5
+Reserves > 20x Equity Capital,7y,1042,351,33.7,16.2,14.7
+Debt/Equity < 0.5,7y,700,236,33.7,16.5,14.8
+Fixed Assets CAGR (3y) > 25%,7y,98,33,33.7,17.1,15.8
+CWIP > 40% of Fixed Assets (very heavy pipeline),7y,137,46,33.6,16.7,15.3
+CWIP/FA > 25% AND Debt/Equity < 0.5 (low-debt heavy capex),5y,114,38,33.3,17.4,11.2
+Cash > 20% of Total Assets,5y,220,73,33.2,15.7,11.9
+Total Assets CAGR (3y) > 15%,7y,215,70,32.6,15.1,14.9
+Reserves CAGR > 20% AND Debt/Equity < 0.3 AND FA CAGR > 10%,7y,40,13,32.5,18.0,16.2
+Investments CAGR (3y) > 20%,7y,241,78,32.4,16.1,15.1
+Investments > 20% of Total Assets (holding co. style),5y,514,165,32.1,13.7,12.1
+Reserves CAGR > 20% AND Debt/Equity < 0.5,7y,88,28,31.8,16.9,15.1
+Debt/Equity < 0.3 (low leverage),7y,550,172,31.3,15.8,14.0
+Debt/Equity < 0.1 (near zero debt),7y,375,115,30.7,15.5,13.8
+Reserves CAGR > 20% AND Debt/Equity < 0.3,7y,72,22,30.6,15.8,14.5
+Borrowings < 10% of Total Assets (low debt),7y,424,129,30.4,15.6,13.7
+CWIP > 25% of Fixed Assets,7y,214,65,30.4,15.6,13.9
+Borrowings < 5% of Total Assets (very low debt),7y,334,98,29.3,15.1,13.2
+CWIP > 15% of Fixed Assets (heavy pipeline),7y,366,107,29.2,15.3,13.0
+Total Assets CAGR > 20% AND Debt/Equity < 0.3,7y,45,13,28.9,17.0,16.0
+Reserves > 50x Equity Capital,7y,561,154,27.5,14.4,13.8
+Total Assets CAGR > 15% AND Debt/Equity < 0.5,7y,105,28,26.7,15.7,13.6
+Cash > 20% of Total Assets,7y,137,35,25.5,13.8,12.9
+Cash > 10% of TA AND Debt/Equity < 0.3,7y,202,48,23.8,13.3,12.7
+CWIP/FA > 25% AND Debt/Equity < 0.5 (low-debt heavy capex),7y,74,17,23.0,12.6,9.8
+Cash > 10% of Total Assets,7y,277,62,22.4,11.9,11.4
+Investments > 20% of Total Assets (holding co. style),7y,346,75,21.7,12.0,11.0
