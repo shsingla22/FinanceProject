@@ -1,0 +1,7 @@
+nse_symbol,year,metric,value
+TESTCO,Mar 2023,Cash Conversion Cycle,10
+TESTCO,Mar 2024,Cash Conversion Cycle,5
+TESTCO,Mar 2025,Cash Conversion Cycle,-2
+TESTCO,Mar 2026,Cash Conversion Cycle,-8
+TESTCO,Mar 2026,Working Capital Days,-10
+TESTCO,Mar 2026,ROCE %,26

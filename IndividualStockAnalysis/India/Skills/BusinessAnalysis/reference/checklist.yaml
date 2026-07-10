@@ -1,0 +1,66 @@
+# =============================================================================
+# COMPLETENESS CHECKLIST — the authoritative list of every module and leaf
+# parameter that MUST exist, transcribed directly from Company_analysis.docx.
+#
+# tests/test_parameters_complete.py cross-checks parameters.yaml against THIS
+# file. If the document framework and parameters.yaml ever diverge, the test
+# fails. This is the machine-enforced guarantee that "no parameter is missed".
+#
+# To evolve the framework: update the document -> update this checklist ->
+# update parameters.yaml -> tests keep all three in lockstep.
+# =============================================================================
+
+expected_modules:
+  CAP:  "Capital Allocation"
+  ROC:  "Return on Capital"
+  GRW:  "Multiple Sources of Growth"
+  MGT:  "Good Management"
+  IND:  "Industry Structure"
+  CUS:  "Customer Benefits"
+  MOAT: "Competitive Advantage"
+
+expected_parameters:
+  CAP:
+    - CAP.growth_capex
+    - CAP.advertising_promotion
+    - CAP.research_development
+    - CAP.mergers_acquisitions
+    - CAP.shareholder_distribution
+    - CAP.working_capital_cost
+  ROC:
+    - ROC.headline
+    - ROC.asset_turn
+    - ROC.profit_margin
+  GRW:
+    - GRW.market_share_gain
+    - GRW.geographic_expansion
+    - GRW.pricing_mix_volume
+    - GRW.cyclical_growth
+    - GRW.structural_growth
+    - GRW.persistence
+  MGT:
+    - MGT.disciplined_stewards
+    - MGT.independent_longterm_tenacious
+    - MGT.out_of_limelight
+    - MGT.people_talent
+    - MGT.candor
+    - MGT.halo_effect_caution
+  IND:
+    - IND.mini_monopolies
+    - IND.partial_monopoly
+    - IND.oligopoly
+    - IND.barriers_entry_rationality
+    - IND.share_donators
+    - IND.security_by_obscurity
+  CUS:
+    - CUS.intangible_benefits
+    - CUS.assurance_benefits
+    - CUS.convenience_benefits
+    - CUS.customer_types
+  MOAT:
+    - MOAT.technology
+    - MOAT.network_effects
+    - MOAT.distribution
+
+# Total expected leaf parameters (sum of the above): 34
+expected_total: 34

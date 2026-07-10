@@ -1,0 +1,8 @@
+nse_symbol,year,line_item,parent_line_item,value_rs_cr
+TESTCO,Mar 2023,Total Assets,,1000
+TESTCO,Mar 2024,Total Assets,,1100
+TESTCO,Mar 2025,Total Assets,,1200
+TESTCO,Mar 2026,Total Assets,,1300
+TESTCO,Mar 2026,Equity Capital,,100
+TESTCO,Mar 2026,Reserves,,700
+TESTCO,Mar 2026,Borrowings,,200

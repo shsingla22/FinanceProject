@@ -1,0 +1,5 @@
+nse_symbol,year,line_item,parent_line_item,value_rs_cr
+TESTCO,Mar 2026,Cash from Operating Activity,,240
+TESTCO,Mar 2026,Fixed assets purchased,Cash from Investing Activity,-150
+TESTCO,Mar 2026,Dividends paid,Cash from Financing Activity,-40
+TESTCO,Mar 2026,Proceeds from shares,Cash from Financing Activity,-20

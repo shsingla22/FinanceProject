@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "BusinessAnalysisRecord",
+  "description": "Explainable, persistable result of scoring one company against the quality framework. Structured as a decision tree (overall -> modules -> parameters) so any conclusion can be drilled down to the exact number or quote and re-run deterministically.",
+  "type": "object",
+  "required": ["symbol", "universe", "framework_version", "generated_at_fy", "overall", "modules"],
+  "properties": {
+    "symbol": {"type": "string"},
+    "company_name": {"type": "string"},
+    "universe": {"type": "string"},
+    "framework_version": {"type": "string", "description": "parameters.yaml version used"},
+    "scoring_version": {"type": "string", "description": "version of scoring.py thresholds/weights used"},
+    "generated_at_fy": {"type": "string", "description": "latest fiscal year of data used, e.g. FY2026 (no wall-clock; keep deterministic)"},
+    "overall": {
+      "type": "object",
+      "required": ["overall_score", "overall_coverage", "n_parameters_assessed", "n_parameters_total"],
+      "properties": {
+        "overall_score": {"type": ["number", "null"], "minimum": -2, "maximum": 2},
+        "overall_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+        "n_parameters_assessed": {"type": "integer"},
+        "n_parameters_total": {"type": "integer"},
+        "verdict": {"type": "string", "description": "human one-liner, e.g. 'High-quality compounder, well evidenced'"}
+      }
+    },
+    "weights": {"type": "object", "additionalProperties": {"type": "number"}},
+    "modules": {
+      "type": "object",
+      "description": "keyed by module id (CAP, ROC, GRW, MGT, IND, CUS, MOAT)",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["module_score", "coverage", "parameters"],
+        "properties": {
+          "module_score": {"type": ["number", "null"]},
+          "coverage": {"type": "number"},
+          "n_assessed": {"type": "integer"},
+          "n_total": {"type": "integer"},
+          "parameters": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "module", "nature", "score", "rationale"],
+              "properties": {
+                "id": {"type": "string"},
+                "module": {"type": "string"},
+                "nature": {"type": "string", "enum": ["quantitative", "qualitative", "hybrid"]},
+                "score": {"type": ["integer", "null"], "minimum": -2, "maximum": 2},
+                "rationale": {"type": "string"},
+                "evidence": {"type": "object", "description": "raw numbers (quant) and/or quotes (qual) the score rests on"},
+                "sources": {
+                  "type": "array",
+                  "description": "provenance pointers so a follow-up can verify",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "source": {"type": "string", "description": "logical source, e.g. profit_loss / concalls / annual_reports"},
+                      "location": {"type": "string", "description": "file path and FY/quarter or cell"},
+                      "quote": {"type": "string", "description": "verbatim text for qualitative evidence"}
+                    }
+                  }
+                },
+                "quant_available": {"type": "boolean"}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

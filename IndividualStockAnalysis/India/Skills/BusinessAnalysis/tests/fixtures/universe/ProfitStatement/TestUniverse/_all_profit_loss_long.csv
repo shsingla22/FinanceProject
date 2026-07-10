@@ -1,0 +1,11 @@
+nse_symbol,year,line_item,parent_line_item,value
+TESTCO,Mar 2023,Sales,,800
+TESTCO,Mar 2024,Sales,,900
+TESTCO,Mar 2025,Sales,,1000
+TESTCO,Mar 2026,Sales,,1150
+TESTCO,Mar 2023,OPM %,,20
+TESTCO,Mar 2024,OPM %,,21
+TESTCO,Mar 2025,OPM %,,22
+TESTCO,Mar 2026,OPM %,,23
+TESTCO,Mar 2026,Operating Profit,,265
+TESTCO,Mar 2026,Material Cost %,,40
