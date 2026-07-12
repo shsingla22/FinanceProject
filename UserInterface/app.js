@@ -4,7 +4,8 @@
 
 "use strict";
 
-const state = { fw: null, data: null, names: [], dynamic: false, ai: false };
+const state = { fw: null, data: null, names: [], dynamic: false, ai: false,
+                ready: false, pendingQ: null };
 
 const MODULE_TOPICS = {
   CAP: ["capital allocation", "capex", "buyback", "dividend", "acquisition", "m&a", "working capital", "wc"],
@@ -25,44 +26,94 @@ const PARAM_TOPICS = {
 
 init();
 
+function setStatus(html) {
+  let el = document.getElementById("bootStatus");
+  if (!el) {
+    el = document.createElement("p");
+    el.id = "bootStatus";
+    el.className = "note";
+    const sub = document.querySelector(".app-header .sub");
+    (sub || document.body).insertAdjacentElement("afterend", el);
+  }
+  el.innerHTML = html;
+}
+
 async function init() {
-  // Dynamic mode: if the FastAPI server is behind us, use live endpoints
-  // (skill recomputed at request time, concall text, optional AI qualitative).
-  try {
-    const h = await fetch("api/health").then(r => r.ok ? r.json() : null);
-    if (h && h.mode === "dynamic") { state.dynamic = true; state.ai = !!h.ai_qualitative; }
-  } catch (_) { /* static fallback */ }
-  const base = state.dynamic ? "api/" : "data/";
-  const [fw, data] = await Promise.all([
-    fetch(base + (state.dynamic ? "framework" : "framework.json")).then(r => r.json()),
-    fetch(base + (state.dynamic ? "companies" : "companies.json")).then(r => r.json()),
-  ]);
-  state.fw = fw;
-  state.data = data;
-  const sub = document.querySelector(".app-header .sub");
-  if (sub) sub.insertAdjacentHTML("afterend",
-    `<p class="note">${state.dynamic
-      ? "⚡ <strong>Dynamic mode</strong> — the skill runs live on the server per request" +
-        (state.ai ? ", AI qualitative analysis enabled." :
-         "; for AI qualitative analysis set ANTHROPIC_API_KEY or log in the Claude Code CLI (your subscription).")
-      : "📦 Static mode — precomputed snapshot (run server.py for live analysis)."}</p>`);
-  state.names = Object.entries(data.companies).map(([sym, c]) => ({
-    sym, name: c.name || sym,
-    hay: (sym + " " + (c.name || "")).toUpperCase(),
-  }));
+  // 1. Wire up ALL interaction FIRST, so a click during warm-up is never
+  //    silently lost (the original cause of "analyse DIXON does nothing").
   document.getElementById("askForm").addEventListener("submit", e => {
     e.preventDefault();
     const q = document.getElementById("q").value.trim();
-    if (q) handle(q);
+    if (q) safeHandle(q);
   });
   document.getElementById("chips").addEventListener("click", e => {
     const b = e.target.closest(".chip");
-    if (b) { document.getElementById("q").value = b.dataset.q; handle(b.dataset.q); }
+    if (b) { document.getElementById("q").value = b.dataset.q; safeHandle(b.dataset.q); }
   });
   document.getElementById("out").addEventListener("click", e => {
     const l = e.target.closest("[data-co]");
-    if (l) handle("analyse " + l.dataset.co);
+    if (l) safeHandle("analyse " + l.dataset.co);
   });
+  // Never fail silently again: surface any uncaught error as a card.
+  window.addEventListener("error", e => showError(e.message));
+  window.addEventListener("unhandledrejection", e =>
+    showError(e.reason && e.reason.message ? e.reason.message : String(e.reason)));
+
+  // 2. This app is dynamic-only: the FastAPI server must be running.
+  let h = null;
+  try {
+    h = await fetch("api/health").then(r => r.ok ? r.json() : null);
+  } catch (_) { /* handled below */ }
+  if (!h || h.mode !== "dynamic") {
+    setStatus("❌ Backend not reachable. Start it with: " +
+      "<code>cd UserInterface && uvicorn server:app --host 0.0.0.0 --port 8000</code> then reload.");
+    return;
+  }
+  state.dynamic = true;
+  state.ai = !!h.ai_qualitative;
+
+  // 3. Load framework (fast) then companies (can take ~30-60s on a cold
+  //    server while it computes 742 companies).
+  setStatus("⏳ Warming up — the server is computing all 742 companies live (first load can take ~30–60s)…");
+  try {
+    state.fw = await fetch("api/framework").then(r => r.json());
+    state.data = await fetch("api/companies").then(r => r.json());
+  } catch (e) {
+    setStatus(`❌ Failed to load data: ${esc(e.message)}. Is the server still running? Try reloading.`);
+    return;
+  }
+  state.names = Object.entries(state.data.companies).map(([sym, c]) => ({
+    sym, name: c.name || sym,
+    hay: (sym + " " + (c.name || "")).toUpperCase(),
+  }));
+  state.ready = true;
+  setStatus("⚡ <strong>Live analysis</strong> — quantitative signals recomputed per request" +
+    (state.ai
+      ? "; qualitative concall analysis runs automatically via " +
+        (h.ai_backend === "claude_code_cli" ? "your Claude subscription" : "the Claude API") +
+        " (first analysis of a company takes ~30–60s, then it's cached)."
+      : ". ⚠️ Qualitative analysis is OFF — log in the Claude Code CLI (run <code>claude</code> once) or set ANTHROPIC_API_KEY, then restart the server."));
+
+  // 4. If the user asked something while we were warming up, run it now.
+  if (state.pendingQ) { const q = state.pendingQ; state.pendingQ = null; safeHandle(q); }
+}
+
+function showError(msg) {
+  const out = document.getElementById("out");
+  if (out) out.insertAdjacentHTML("beforeend",
+    `<div class="card"><h2>Something went wrong</h2><p class="note">${esc(msg)}</p></div>`);
+}
+
+function safeHandle(q) {
+  if (!state.ready) {
+    state.pendingQ = q;
+    const out = document.getElementById("out");
+    out.insertAdjacentHTML("beforeend",
+      `<div class="card"><p>⏳ Got it — <strong>“${esc(q)}”</strong> will run as soon as the
+       server finishes warming up (computing 742 companies live)…</p></div>`);
+    return;
+  }
+  Promise.resolve(handle(q)).catch(e => showError(e.message || String(e)));
 }
 
 /* ---------------- natural-language intent parsing ---------------- */
@@ -74,13 +125,14 @@ function findCompanies(q) {
   const tokens = up.split(/[^A-Z0-9&\-]+/).filter(t => t.length >= 2);
   for (const n of state.names) {
     if (tokens.includes(n.sym)) { hits.push({ ...n, w: 100 }); continue; }
-    // name word-prefix match: every query word must appear in the company hay
+    // name word-prefix match: SUM the lengths of all matching tokens so
+    // "asian paints" (ASIAN+PAINTS = 11) outranks "Berger Paints" (PAINTS = 6)
     const words = n.name.toUpperCase().split(/\s+/);
+    let w = 0;
     for (const t of tokens) {
-      if (t.length >= 4 && words.some(w => w.startsWith(t))) {
-        hits.push({ ...n, w: t.length }); break;
-      }
+      if (t.length >= 4 && words.some(wd => wd.startsWith(t))) w += t.length;
     }
+    if (w > 0) hits.push({ ...n, w });
   }
   hits.sort((a, b) => b.w - a.w);
   const seen = new Set(); const out = [];
@@ -91,9 +143,11 @@ function findCompanies(q) {
 function detectModule(q) {
   const low = q.toLowerCase();
   for (const [pid, keys] of Object.entries(PARAM_TOPICS))
-    if (keys.some(k => low.includes(k))) return { param: pid, module: pid.split(".")[0] };
+    for (const k of keys)
+      if (low.includes(k)) return { param: pid, module: pid.split(".")[0], phrase: k };
   for (const [m, keys] of Object.entries(MODULE_TOPICS))
-    if (keys.some(k => low.includes(k))) return { module: m };
+    for (const k of keys)
+      if (low.includes(k)) return { module: m, phrase: k };
   return null;
 }
 
@@ -108,7 +162,12 @@ function handle(q) {
     return renderFramework();
 
   const topic = detectModule(q);
-  const cos = findCompanies(q);
+  // Strip the topic phrase before company matching, so words inside it
+  // ("capital", "growth"…) can't fuzzy-match company names.
+  const qForCos = topic
+    ? q.replace(new RegExp(topic.phrase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "i"), " ")
+    : q;
+  const cos = findCompanies(qForCos);
   const compareMode = /\b(compare|vs\.?|versus)\b/.test(low) && cos.length >= 2;
   const rankMode = /\b(best|top|rank|select|pick|screen|good businesses|worst|bottom)\b/.test(low) && !compareMode && cos.length === 0;
 
@@ -224,17 +283,21 @@ function paramRows(co, moduleId) {
   for (const p of params) {
     const got = co.params[p.id];
     if (got && got.score != null) {
+      const srcTag = got.source === "ai_concall" ? `<span class="tag">🤖 concall</span>`
+                   : got.source === "fused" ? `<span class="tag">◐ quant + concall</span>` : "";
       assessed += `<div class="prow">
         <div class="pscore ${scoreCls(got.score)}">${fmtScore(got.score)}</div>
-        <div class="pbody"><div class="pn">${esc(p.name)} <span class="tag">${p.nature}</span></div>
-        <div class="pr">${esc(got.rationale)}</div></div></div>`;
+        <div class="pbody"><div class="pn">${esc(p.name)} <span class="tag">${p.nature}</span> ${srcTag}</div>
+        <div class="pr">${esc(got.rationale)}${got.quote ? ` — <em>“${esc(got.quote)}”</em>` : ""}</div></div></div>`;
     } else {
       qual.push(`<li><strong>${esc(p.name)}</strong> — ${esc(p.signal)}</li>`);
     }
   }
   let html = "";
-  if (assessed) html += `<h3>Assessed from the financials</h3><div class="params">${assessed}</div>`;
-  if (qual.length) html += `<h3>Needs qualitative judgement (concalls / annual reports)</h3>
+  if (assessed) html += `<h3>Assessed (financials${co.qualitative_included ? " + concall" : ""})</h3><div class="params">${assessed}</div>`;
+  if (qual.length) html += `<h3>${co.qualitative_included
+      ? "Not assessed — the concall was silent on these (never guessed)"
+      : "Needs qualitative judgement (concalls / annual reports)"}</h3>
     <ul class="qual-list">${qual.join("")}</ul>`;
   return html;
 }
@@ -254,12 +317,21 @@ function companyHeader(sym, co) {
 async function renderCompany(sym) {
   let co = state.data.companies[sym];
   let excerpt = "";
-  if (state.dynamic) {
-    try {
-      const live = await fetch(`api/company/${sym}`).then(r => r.ok ? r.json() : null);
-      if (live) { co = live.record; state.data.companies[sym] = co; excerpt = co.concall_excerpt || ""; }
-    } catch (_) { /* fall back to cached */ }
-  }
+  // Immediate feedback: the server runs BOTH modules live — quantitative
+  // signals now, then the qualitative playbook over the latest concall
+  // (first time per company; cached afterwards).
+  const firstTime = !(co && co.qualitative_included);
+  const ph = document.createElement("div");
+  ph.className = "card";
+  ph.innerHTML = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
+    quantitative signals now${state.ai ? ", then the qualitative playbook over the latest concall" +
+    (firstTime ? " <em>(first run for this company: ~30–60s via Claude)</em>" : " (cached)") : ""}…</p>`;
+  $out().appendChild(ph);
+  try {
+    const live = await fetch(`api/company/${sym}`).then(r => r.ok ? r.json() : null);
+    if (live) { co = live.record; state.data.companies[sym] = co; excerpt = co.concall_excerpt || ""; }
+  } catch (_) { /* fall back to cached quant-only record */ }
+  ph.remove();
   if (!co) return card(`<p>No data for ${esc(sym)}.</p>`);
   const sparkHtml = [
     sparkline("Sales (₹ Cr, FY series)", co.series.sales, ""),
@@ -281,35 +353,22 @@ async function renderCompany(sym) {
     ${sparkHtml ? `<h3>Key trends</h3><div class="sparks">${sparkHtml}</div>` : ""}
     ${paramRows(co, null)}
     ${mgmt}
+    ${qualNote(co)}
     ${excerpt ? `<h3>Latest concall (live extract)</h3>
-      <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}
-    ${state.dynamic && state.ai && co.concalls ? `
-      <p><button class="chip" id="aiBtn" data-sym="${sym}">🤖 Run AI qualitative analysis
-      (scores the ${state.fw.parameters.filter(p => p.nature !== "quantitative").length} text-based parameters from the concall)</button></p>
-      <div id="aiOut"></div>` : ""}`);
-  const btn = document.getElementById("aiBtn");
-  if (btn) btn.addEventListener("click", () => runQualitative(btn.dataset.sym));
+      <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}`);
 }
 
-async function runQualitative(sym) {
-  const out = document.getElementById("aiOut");
-  out.innerHTML = `<p class="note">Running the qualitative playbook over ${sym}'s latest concall via Claude…</p>`;
-  try {
-    const res = await fetch(`api/qualitative/${sym}`, { method: "POST" });
-    if (!res.ok) throw new Error((await res.json()).detail || res.status);
-    const data = await res.json();
-    const scored = data.scores.filter(s => s.score != null);
-    const byId = Object.fromEntries(state.fw.parameters.map(p => [p.id, p]));
-    let rows = scored.map(s => `<div class="prow">
-        <div class="pscore ${scoreCls(s.score)}">${fmtScore(s.score)}</div>
-        <div class="pbody"><div class="pn">${esc(byId[s.id]?.name || s.id)} <span class="tag">AI · concall</span></div>
-        <div class="pr">${esc(s.rationale)}${s.quote ? ` — <em>“${esc(s.quote)}”</em>` : ""}</div></div></div>`).join("");
-    out.innerHTML = `<h3>AI qualitative scores (${scored.length} of ${data.scores.length} assessable from the call)</h3>
-      <div class="params">${rows || "<p class='note'>The call text didn't support any parameter judgement.</p>"}</div>
-      <p class="note">Model: ${esc(data.model || "claude")} · every score cites the call; parameters the text is silent on stay unassessed.</p>`;
-  } catch (e) {
-    out.innerHTML = `<p class="note">AI analysis failed: ${esc(e.message)}</p>`;
-  }
+function qualNote(co) {
+  const st = co.qualitative_status;
+  if (co.qualitative_included) return "";
+  const why = {
+    no_concalls: "this company has no concall transcripts on file",
+    ai_unavailable: "AI is off — log in the Claude Code CLI (run <code>claude</code> once) or set ANTHROPIC_API_KEY, then restart the server",
+    no_extractable_text: "the transcript PDF has no extractable text (scanned images)",
+    skipped_quick: "quick mode skipped it",
+  }[st] || "it could not run";
+  return `<p class="note">ℹ️ Qualitative concall analysis not included: ${why}.
+    Scores above are quantitative-only.</p>`;
 }
 
 function renderTopic(sym, topic) {

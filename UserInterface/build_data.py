@@ -1,18 +1,10 @@
 """
-build_data.py — precompute the static dataset for the Business Analysis UI.
+build_data.py — shared scoring library for the Business Analysis UI backend.
 
-Runs the BusinessAnalysis skill (quant engine + scoring) over every Nifty
-Total Market company and emits two JSON files consumed by the static site:
-
-  data/framework.json   the 34-parameter taxonomy (from the skill's
-                        parameters.yaml) + module metadata
-  data/companies.json   per-company: identity, market data, quant signals,
-                        -2..+2 parameter scores with evidence, module/overall
-                        aggregation, chart series, management, concall counts
-
-Because GitHub Pages is static-only, all skill computation happens here at
-build time; the browser only parses intent and renders. Re-run this script
-whenever the underlying CSVs are refreshed:
+server.py imports score_params / series_for_chart / clean from here to run
+the BusinessAnalysis skill (quant engine + scoring) at request time. The
+main() entry point can still emit a full JSON snapshot to data/ if you ever
+want an offline export:
 
     python3 UserInterface/build_data.py
 """

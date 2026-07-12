@@ -1,149 +1,84 @@
 # Business Quality Analyst — User Interface
 
-A static, dependency-free web UI where you ask questions in **natural language**
-("analyse DIXON", "best 10 companies", "compare TITAN and DMART", "working
-capital of IXIGO") and get explainable business-quality analysis back.
+A web UI where you ask questions in **natural language** ("analyse DIXON",
+"best 10 companies", "compare TITAN and DMART", "working capital of IXIGO")
+and get the **complete business-quality analysis** back — quantitative AND
+qualitative — for all **742 Nifty Total Market companies**.
 
-Behind the scenes it runs the **`Skills/BusinessAnalysis`** skill — the
-34-parameter quality-investing framework — over the repository's dataset
-(balance sheets, P&L, cash flow, working capital, live market data, management
-history, concall availability) for all **742 Nifty Total Market companies**.
+Every analysis runs the **`Skills/BusinessAnalysis`** skill live on the server:
 
-## How it works
+1. **Quantitative module** — signals recomputed at request time from the
+   repository's balance sheets, P&L, cash flow, working capital, live market
+   data and management history.
+2. **Qualitative module** — the skill's playbook runs over the company's
+   latest conference-call transcript via Claude (your subscription through the
+   Claude Code CLI, or an API key). Scores are fused with the quantitative
+   ones per the skill's hybrid rule and **cached per transcript**, so each
+   company's call is analysed once (~30–60s), then instant.
 
-```
-IndividualStockAnalysis/India/            UserInterface/
-  BalanceSheet / ProfitStatement /   →    build_data.py  (runs the skill's quant
-  CashFlow / WorkingCapital /             engine + scoring at BUILD time)
-  StockInfo / ManagementInfo /                 ↓
-  ConferenceCalls                         data/companies.json  (742 records, ~1 MB)
-  Skills/BusinessAnalysis  ───────────→   data/framework.json  (34 parameters)
-                                               ↓
-                                          index.html + app.js  (static site:
-                                          NL intent parsing + rendering only)
-```
+Parameters the call is silent on stay *not assessed* — coverage is reported
+honestly next to every score, and every qualitative score carries a verbatim
+quote from the call.
 
-GitHub Pages hosts static files only, so all skill computation happens at build
-time in `build_data.py`; the browser parses your question (company detection,
-intent, topic) and renders the precomputed, evidence-backed scores.
+## Run it (GitHub Codespaces)
 
-**Honesty by design:** only ~7 of the 34 parameters are computable from the
-financial statements alone. The other 27 require qualitative judgement over
-concalls/annual reports (the skill's qualitative playbook), which a static site
-cannot run — so every score is shown **with its coverage**, and unassessed
-parameters are listed explicitly, never guessed.
-
-## Two modes
-
-| | **Dynamic (recommended)** | Static |
-|---|---|---|
-| What runs | `server.py` (FastAPI) executes the skill **live per request** | precomputed `data/*.json` snapshot |
-| Freshness | edit a CSV → `POST /api/refresh` → answers change | frozen until `build_data.py` re-run |
-| Concall text | extracted from the PDFs **on demand** | not available |
-| AI qualitative scoring | ✅ with `ANTHROPIC_API_KEY` (Claude runs the playbook over the concall) | ❌ |
-| Hosting | GitHub **Codespaces** / any Python host | GitHub **Pages** |
-
-The same frontend serves both: `app.js` probes `/api/health` at load — if the
-server is there it switches to live endpoints, otherwise it falls back to the
-static JSON.
-
-## Dynamic hosting via GitHub Codespaces (runs the skill live)
-
-1. On the repo page: **Code → Codespaces → Create codespace** on this branch
-   (the `.devcontainer/` config installs everything automatically).
-2. In the codespace terminal:
+1. Repo page → **Code → Codespaces → Create codespace** on this branch
+   (the devcontainer installs Python deps + the Claude Code CLI).
+2. Authenticate Claude with your subscription (once per codespace):
+   ```bash
+   claude        # follow the login link, then Ctrl+C
+   ```
+3. Start the site:
    ```bash
    cd UserInterface && uvicorn server:app --host 0.0.0.0 --port 8000
    ```
-3. Codespaces auto-forwards port 8000 and opens the browser — you're live.
-   Make the port **Public** (right-click the port → Port Visibility) to share
-   the URL with others.
-4. Optional AI mode — two ways to enable the "🤖 Run AI qualitative analysis"
-   button (scores the 30 text-based parameters live from the concall):
+4. Click **"Open in Browser"** (or Ports tab → globe on port 8000).
 
-   | | **A. Claude subscription (Pro/Max)** | B. API key |
-   |---|---|---|
-   | Setup | `claude` in the terminal once → follow the login link | `export ANTHROPIC_API_KEY=sk-ant-...` |
-   | Billing | included in your subscription | pay-as-you-go credits |
-   | How it runs | server shells out to headless `claude -p` | direct Claude API call |
-   | Sharing the URL | **❌ keep the port private** — your subscription must not serve third parties | ok (you pay per call) |
+The banner should read **"⚡ Live analysis … via your Claude subscription"**.
 
-   The devcontainer pre-installs the Claude Code CLI, so for (A) you only run
-   `claude` once to authenticate, then start the server — `/api/health` will
-   show `"ai_backend": "claude_code_cli"`. The server prefers the API key if
-   both are present.
+> **Keep port 8000 private** when using subscription-backed AI — your Max
+> plan must serve only you, not visitors to a shared URL. (With an
+> `ANTHROPIC_API_KEY` instead, sharing is fine — you pay per call.)
 
-Dynamic locally is the same two commands. Other dynamic hosts that work
-unchanged: Render / Railway / Fly.io / Hugging Face Spaces (Docker) — start
-command `uvicorn server:app --host 0.0.0.0 --port $PORT` from `UserInterface/`.
-
-### Dynamic API endpoints
-
-| Endpoint | What it does |
-|---|---|
-| `GET /api/health` | mode, framework version, whether AI is enabled |
-| `GET /api/companies` | all 742 records — recomputed when CSVs change (mtime-stamped cache) |
-| `GET /api/company/{sym}` | **one record recomputed fresh right now** + latest-concall excerpt |
-| `GET /api/concall/{sym}` | transcript text extracted on demand from the merged PDF |
-| `POST /api/qualitative/{sym}` | Claude scores the qualitative parameters from the call (needs API key) |
-| `POST /api/refresh` | drop caches after refreshing the underlying CSVs |
-
-## Static hosting on GitHub Pages (one-time setup)
-
-1. Go to the repo's **Settings → Pages**.
-2. Under **Build and deployment → Source**, choose **GitHub Actions**.
-3. Push to this branch (or run the *"Deploy Business Analysis UI to GitHub
-   Pages"* workflow manually from the **Actions** tab).
-4. The site goes live at **`https://<owner>.github.io/FinanceProject/`**.
-
-The workflow (`.github/workflows/deploy-pages.yml`) publishes the
-`UserInterface/` folder on every push that touches it, on this branch or main.
-
-## Running locally
-
-```bash
-cd UserInterface
-python3 -m http.server 8000
-# open http://localhost:8000
-```
-
-(A server is needed because the app fetches the JSON data files; opening
-`index.html` directly via file:// will be blocked by CORS.)
-
-## Refreshing the data
-
-Whenever the underlying CSVs are refreshed (new fiscal year, new constituents):
-
-```bash
-python3 UserInterface/build_data.py   # re-runs the skill over all 742 cos
-```
-
-then commit the regenerated `data/*.json`.
+Local machine: same two commands after `pip install -r requirements.txt`
+(and `npm i -g @anthropic-ai/claude-code` for subscription AI).
 
 ## What you can ask
 
 | You type | You get |
 |---|---|
-| `analyse DIXON` / `tell me about Titan` / just a company name | full explainable scorecard: overall + module scores, per-parameter rationale, sales/OPM/CCC trends, current management, concall count |
-| `best 10 companies` / `top 5 by growth` / `worst 10 by working capital` | ranked table (score, coverage, mcap, P/E); click any row to drill in |
-| `select good businesses in PHARMA` | industry-filtered ranking |
+| `analyse DIXON` / `tell me about asian paints` / any company name | complete scorecard: quant + concall-fused scores, per-parameter rationale **with quotes**, sales/OPM/CCC trends, management, concall extract |
+| `best 10 companies` / `top 5 by growth` / `worst 10 by working capital` | coverage-guarded rankings; click a row to run the full analysis |
+| `select good businesses in PHARMA` | industry-filtered picks |
 | `compare TITAN and DMART` | side-by-side module scorecards |
-| `working capital of IXIGO` / `margins of INFY` / `management of HDFCBANK` | topic deep-dive for that company |
-| `explain the framework` / `explain return on capital` | the methodology, parameter by parameter |
+| `working capital of IXIGO` / `margins of INFY` | topic deep-dive |
+| `explain the framework` / `help` | methodology / usage |
+
+## API endpoints (the UI uses these; so can your agents)
+
+| Endpoint | What it does |
+|---|---|
+| `GET /api/health` | mode, AI backend (`claude_code_cli` / `api` / null) |
+| `GET /api/companies` | all 742 quant records — recomputed when CSVs change (warmed at startup) |
+| `GET /api/company/{sym}` | **the complete analysis**: fresh quant + cached-or-live AI qualitative fusion (`?quick=1` skips AI) |
+| `GET /api/concall/{sym}` | transcript text extracted on demand |
+| `POST /api/qualitative/{sym}` | raw AI concall scores only |
+| `POST /api/refresh` | drop caches after refreshing the CSVs |
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `index.html` / `style.css` / `app.js` | the static site (vanilla JS, no dependencies) |
-| `build_data.py` | build-time generator — imports the skill's `quant_signals.py` + `scoring.py` |
-| `data/companies.json` | precomputed per-company analysis records |
-| `data/framework.json` | the 34-parameter taxonomy from the skill |
+| `server.py` | FastAPI backend — live skill execution, concall extraction, AI fusion, caching |
+| `build_data.py` | shared scoring library (imported by the server) |
+| `index.html` / `app.js` / `style.css` | frontend: NL intent parsing + rendering (no build step, no dependencies) |
+| `.qual_cache.json` | on-disk cache of AI concall scores (gitignored; keyed by transcript mtime) |
 
-## Notes & limits
+## Notes
 
-- Scores are **quantitative-only** (CROCI proxy, asset turns, margin level &
-  stability, cash-conversion cycle, growth persistence, gross-margin proxy,
-  pricing-rationality proxy). Qualitative parameters are surfaced with their
-  judgement questions but not scored.
-- Not investment advice; research tooling over screener.in-derived data.
+- First page load on a cold server computes all 742 companies (~30–60s); the
+  UI shows a warm-up status and queues your first question. The cache
+  invalidates automatically when the underlying CSVs change.
+- Subscription AI calls share your Claude Code usage limits — fine for
+  interactive use; don't batch-run all 742.
+- Research tooling over screener.in-derived data; not investment advice.

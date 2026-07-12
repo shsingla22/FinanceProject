@@ -60,6 +60,23 @@ app = FastAPI(title="Business Quality Analyst API")
 _lock = threading.Lock()
 _cache: dict = {"companies": None, "stamp": None, "concall_text": {}}
 
+# Qualitative (AI) scores are expensive — one Claude call per company — so
+# they persist to disk keyed by the concall PDF's mtime. A company's call is
+# analysed ONCE per transcript refresh, then served from cache.
+QUAL_CACHE_FILE = HERE / ".qual_cache.json"
+_qual_lock = threading.Lock()
+try:
+    _qual_cache: dict = json.loads(QUAL_CACHE_FILE.read_text())
+except Exception:
+    _qual_cache = {}
+
+
+def _save_qual_cache():
+    try:
+        QUAL_CACHE_FILE.write_text(json.dumps(_qual_cache))
+    except Exception:
+        pass
+
 WATCHED = [
     INDIA / "BalanceSheet" / UNIVERSE / "_all_balance_sheets_long.csv",
     INDIA / "ProfitStatement" / UNIVERSE / "_all_profit_loss_long.csv",
@@ -133,11 +150,43 @@ def _mgmt(sym: str):
         return []
 
 
-def build_record(sym: str, live, ccm) -> dict:
-    """Run the skill for one symbol, right now."""
+def build_record(sym: str, live, ccm, qual_scores: list | None = None) -> dict:
+    """Run the skill for one symbol, right now.
+
+    If qual_scores (from the AI concall pass) is provided, FUSE them with the
+    quantitative scores per the skill's hybrid rule: pure-qualitative params
+    take the AI score; hybrid params that have both take the rounded mean,
+    with both rationales kept. Coverage and module/overall aggregation are
+    then recomputed over the fused set.
+    """
     sig = Q.compute(sym, base=INDIA, universe=UNIVERSE)
     pscores = B.score_params(sig, _fw)
-    agg = S.aggregate(pscores, _module_ids)
+
+    param_meta = {}   # extra per-param info for the UI (source, quote)
+    if qual_scores:
+        by_id = {p.id: p for p in pscores}
+        ai = {s["id"]: s for s in qual_scores
+              if s.get("id") in {p.id for p in _fw.parameters}}
+        for pid, s in ai.items():
+            if s.get("score") is None:
+                continue
+            a = int(max(-2, min(2, s["score"])))
+            tgt = by_id.get(pid)
+            if tgt is not None and tgt.score is not None:
+                # hybrid with both signals: fuse, keep both stories
+                fused = round((tgt.score + a) / 2)
+                tgt.rationale = (f"{tgt.rationale} | Concall: "
+                                 f"{s.get('rationale', '')}")
+                tgt.score = int(max(-2, min(2, fused)))
+                param_meta[pid] = {"source": "fused", "quote": s.get("quote", "")}
+            elif tgt is not None:
+                tgt.score = a
+                tgt.rationale = f"From concall: {s.get('rationale', '')}"
+                param_meta[pid] = {"source": "ai_concall", "quote": s.get("quote", "")}
+        agg = S.aggregate(pscores, _module_ids)
+    else:
+        agg = S.aggregate(pscores, _module_ids)
+
     meta = _const_map.get(sym, {"name": sym, "industry": ""})
     lv = live.get(sym, {})
     return B.clean({
@@ -150,12 +199,14 @@ def build_record(sym: str, live, ccm) -> dict:
                         "total": agg["modules"][m]["n_total"]}
                     for m in _module_ids},
         "params": {p.id: {"score": p.score, "rationale": p.rationale,
-                          "nature": p.nature}
+                          "nature": p.nature,
+                          **param_meta.get(p.id, {})}
                    for p in pscores if p.score is not None},
         "series": B.series_for_chart(sig),
         "mgmt": _mgmt(sym),
         "concalls": ccm.get(sym, 0),
         "computed_live": True,
+        "qualitative_included": bool(qual_scores),
     })
 
 
@@ -240,13 +291,45 @@ def companies():
                 "companies": _cache["companies"]}
 
 
+def _qual_scores_cached(sym: str) -> tuple[list | None, str]:
+    """AI concall scores for sym, cached on disk keyed by the PDF mtime.
+    Returns (scores | None, status)."""
+    pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
+    if not pdf.exists():
+        return None, "no_concalls"
+    stamp = str(pdf.stat().st_mtime)
+    with _qual_lock:
+        hit = _qual_cache.get(sym)
+        if hit and hit.get("stamp") == stamp:
+            return hit["scores"], "cached"
+    backend = _ai_backend()
+    if backend is None:
+        return None, "ai_unavailable"
+    text = concall_text(sym, 12000)
+    if not text:
+        return None, "no_extractable_text"
+    if backend == "api":
+        scores = _qual_via_api(sym, text, os.environ["ANTHROPIC_API_KEY"])["scores"]
+    else:
+        scores = _qual_via_claude_code(sym, text)["scores"]
+    with _qual_lock:
+        _qual_cache[sym] = {"stamp": stamp, "scores": scores}
+        _save_qual_cache()
+    return scores, backend
+
+
 @app.get("/api/company/{sym}")
-def company(sym: str):
+def company(sym: str, quick: int = 0):
+    """The COMPLETE analysis: quantitative signals recomputed now, PLUS the
+    qualitative playbook over the latest concall (AI, cached per transcript).
+    Pass ?quick=1 to skip the qualitative pass."""
     sym = sym.upper()
     if sym not in _const_map:
         raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
-    rec = build_record(sym, _live_map(), _cc_counts())
+    qual, qstatus = (None, "skipped_quick") if quick else _qual_scores_cached(sym)
+    rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
     rec["concall_excerpt"] = concall_text(sym, 1600)
+    rec["qualitative_status"] = qstatus
     return {"symbol": sym, "record": rec}
 
 
@@ -364,6 +447,14 @@ def refresh():
     with _lock:
         _drop_caches()
     return {"ok": True, "message": "caches dropped; next request recomputes"}
+
+
+@app.on_event("startup")
+def warm_cache():
+    """Compute the 742-company cache in the background at startup so the
+    first visitor doesn't wait ~30s. The client also handles the cold
+    window gracefully, but warm-by-default is the better experience."""
+    threading.Thread(target=lambda: companies(), daemon=True).start()
 
 
 # static frontend last, so /api/* wins
