@@ -89,9 +89,9 @@ async function init() {
   state.ready = true;
   setStatus("⚡ <strong>Live analysis</strong> — quantitative signals recomputed per request" +
     (state.ai
-      ? "; qualitative concall analysis runs automatically via " +
-        (h.ai_backend === "claude_code_cli" ? "your Claude subscription" : "the Claude API") +
-        " (first analysis of a company takes ~30–60s, then it's cached)."
+      ? "; qualitative analysis runs automatically on <strong>" + esc(h.analysis_model || "opus") +
+        "</strong> via " + (h.ai_backend === "claude_code_cli" ? "your Claude subscription" : "the Claude API") +
+        " — multi-pass over the whole concall timeline, so the FIRST analysis of a company can take several minutes; cached afterwards."
       : ". ⚠️ Qualitative analysis is OFF — log in the Claude Code CLI (run <code>claude</code> once) or set ANTHROPIC_API_KEY, then restart the server."));
 
   // 4. If the user asked something while we were warming up, run it now.
@@ -351,7 +351,7 @@ async function renderCompany(sym) {
   ph.className = "card";
   ph.innerHTML = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
     quantitative signals now${state.ai ? ", then the qualitative playbook over the latest concall" +
-    (firstTime ? " <em>(first run for this company: ~30–60s via Claude)</em>" : " (cached)") : ""}…</p>`;
+    (firstTime ? " <em>(first run: multi-pass deep analysis across ALL its concalls — this can take several minutes; it's cached afterwards)</em>" : " (cached)") : ""}…</p>`;
   $out().appendChild(ph);
   try {
     const live = await fetch(`api/company/${sym}`).then(r => r.ok ? r.json() : null);

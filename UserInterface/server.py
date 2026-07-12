@@ -167,34 +167,59 @@ def _mgmt_history(sym: str) -> list:
 
 
 CALL_HEADER_RE = re.compile(r"Call:\s+([A-Z][a-z]{2}\s+\d{4})")
+MIN_CALL_CHARS = 800          # skip scanned/empty call sections when sampling
+
+
+def split_calls(sym: str) -> list:
+    """[(date, text), ...] oldest-first, dropping unextractable sections."""
+    full = concall_text(sym, max_chars=10**9)
+    if not full:
+        return []
+    parts = CALL_HEADER_RE.split(full)
+    calls = [(parts[i], parts[i + 1].strip())
+             for i in range(1, len(parts) - 1, 2)]
+    calls = [(d, t) for d, t in calls if len(t) >= MIN_CALL_CHARS]
+    if not calls and full.strip():
+        calls = [("(undated)", full.strip())]
+    return calls
+
+
+def sample_calls(calls: list, indices: list, per_call: int) -> str:
+    n = len(calls)
+    picks = []
+    for idx in indices:
+        if 0 <= idx < n:
+            date, text = calls[idx]
+            picks.append(f"===== CALL {idx + 1} of {n} ({date}) =====\n{text[:per_call]}")
+    return "\n\n".join(picks)
+
+
+def spread_indices(n: int, k: int, exclude: set) -> list:
+    """k indices spread across [0, n) — always trying to include the first,
+    a middle, and the latest calls — skipping already-used ones."""
+    if n == 0:
+        return []
+    order = [n - 1, 0, n // 2, n - 2, n // 3, 2 * n // 3, n - 3, 1]
+    out = []
+    for i in order + list(range(n)):
+        if i >= 0 and i < n and i not in exclude and i not in out:
+            out.append(i)
+        if len(out) >= k:
+            break
+    return out
 
 
 def concall_timeline(sym: str, budget: int = 30000) -> dict:
-    """Split the merged transcript (oldest->newest, one 'Call: MMM YYYY'
-    header per quarter) into per-call segments and sample ACROSS the
-    timeline — earliest, middle, and the two latest calls — so judgement
-    covers the full 3-year record (promises vs delivery, consistency),
-    not just the latest quarter."""
-    full = concall_text(sym, max_chars=10**9)   # full cached extract
-    if not full:
-        return {"excerpt": "", "n_calls": 0, "from": "", "to": ""}
-    parts = CALL_HEADER_RE.split(full)
-    # parts = [preamble, date1, text1, date2, text2, ...]
-    calls = [(parts[i], parts[i + 1]) for i in range(1, len(parts) - 1, 2)]
+    """Back-compat summary view of the timeline (used by Q&A and the
+    company header)."""
+    calls = split_calls(sym)
     if not calls:
-        return {"excerpt": full[-budget:], "n_calls": 1, "from": "", "to": ""}
+        return {"excerpt": "", "n_calls": 0, "from": "", "to": ""}
     n = len(calls)
-    picks = []
-    seen = set()
-    for idx, share in [(0, 0.18), (n // 2, 0.18), (max(0, n - 2), 0.24), (n - 1, 0.40)]:
-        if idx in seen:
-            continue
-        seen.add(idx)
-        date, text = calls[idx]
-        take = int(budget * share)
-        picks.append(f"===== CALL {idx + 1} of {n} ({date}) =====\n{text.strip()[:take]}")
-    return {"excerpt": "\n\n".join(picks), "n_calls": n,
-            "from": calls[0][0], "to": calls[-1][0]}
+    idx = spread_indices(n, 4, set())
+    per_call = max(1, budget // max(1, len(idx)))
+    return {"excerpt": sample_calls(calls, sorted(idx), per_call),
+            "n_calls": n, "from": calls[0][0], "to": calls[-1][0]}
 
 
 def build_record(sym: str, live, ccm, qual_scores: list | None = None) -> dict:
@@ -300,6 +325,15 @@ def concall_text(sym: str, max_chars: int = 8000) -> str:
     return text[-max_chars:]
 
 
+# Analysis model: 'opus' (default, per user: quality over speed) or 'sonnet'.
+# Override with ANALYSIS_MODEL env var. No timeouts on analysis calls — the
+# user explicitly prefers a slow, top-notch analysis over a fast one.
+ANALYSIS_MODEL = os.environ.get("ANALYSIS_MODEL", "opus")
+API_MODEL_MAP = {"opus": "claude-opus-4-8", "sonnet": "claude-sonnet-5"}
+API_MODEL = API_MODEL_MAP.get(ANALYSIS_MODEL, ANALYSIS_MODEL)
+HTTP_AI_TIMEOUT = 3600            # effectively unlimited for one HTTP call
+
+
 def _ai_backend() -> str | None:
     """Two ways to run the qualitative playbook:
       'api'             ANTHROPIC_API_KEY set -> direct Claude API call
@@ -323,6 +357,7 @@ def health():
             "framework_version": _fw.version,
             "ai_qualitative": backend is not None,
             "ai_backend": backend,
+            "analysis_model": ANALYSIS_MODEL,
             "data_stamp": _data_stamp()}
 
 
@@ -353,13 +388,31 @@ def companies():
                 "companies": _cache["companies"]}
 
 
+MAX_QUAL_PASSES = 3
+CALLS_PER_PASS = 5
+CHARS_PER_CALL = 22000     # ~5 calls x 22k = ~110k chars (~28k tokens) per pass
+
+
+def _run_qual(sym: str, prompt: str, backend: str) -> list:
+    if backend == "api":
+        return _qual_via_api(sym, prompt, os.environ["ANTHROPIC_API_KEY"])["scores"]
+    return _qual_via_claude_code(sym, prompt)["scores"]
+
+
 def _qual_scores_cached(sym: str) -> tuple[list | None, str]:
-    """AI concall+management scores for sym, cached on disk keyed by the PDF
-    mtime AND the prompt version. Returns (scores | None, status)."""
+    """AI concall+management scores, cached on disk keyed by PDF mtime, the
+    prompt version AND the model.
+
+    COVERAGE LOOP: pass 1 scores all qual/hybrid parameters from ~5 calls
+    sampled across the timeline. Parameters still null then get further
+    passes with FRESH calls (ones not yet shown), targeting only the gaps.
+    Coverage rises by adding evidence — the never-guess rule is unchanged;
+    the loop stops when no nulls remain, no fresh calls remain, or a pass
+    adds nothing."""
     pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
     if not pdf.exists():
         return None, "no_concalls"
-    stamp = f"{pdf.stat().st_mtime}:v{QUAL_PROMPT_VERSION}"
+    stamp = f"{pdf.stat().st_mtime}:v{QUAL_PROMPT_VERSION}:{ANALYSIS_MODEL}"
     with _qual_lock:
         hit = _qual_cache.get(sym)
         if hit and hit.get("stamp") == stamp:
@@ -367,14 +420,52 @@ def _qual_scores_cached(sym: str) -> tuple[list | None, str]:
     backend = _ai_backend()
     if backend is None:
         return None, "ai_unavailable"
-    timeline = concall_timeline(sym)
-    if not timeline["excerpt"]:
+    calls = split_calls(sym)
+    if not calls:
         return None, "no_extractable_text"
-    prompt = _qual_prompt(sym, timeline, _mgmt_history(sym))
-    if backend == "api":
-        scores = _qual_via_api(sym, prompt, os.environ["ANTHROPIC_API_KEY"])["scores"]
-    else:
-        scores = _qual_via_claude_code(sym, prompt)["scores"]
+    n = len(calls)
+    date_range = f"{calls[0][0]} to {calls[-1][0]}"
+    mgmt_hist = _mgmt_history(sym)
+    qual_ids = [p["id"] for p in _fw_json["parameters"]
+                if p["nature"] in ("qualitative", "hybrid")]
+
+    merged: dict = {}
+    used: set = set()
+    for pass_no in range(1, MAX_QUAL_PASSES + 1):
+        remaining = [pid for pid in qual_ids
+                     if merged.get(pid, {}).get("score") is None]
+        fresh = spread_indices(n, CALLS_PER_PASS, used)
+        if not remaining or not fresh:
+            break
+        used.update(fresh)
+        excerpt = sample_calls(calls, sorted(fresh), CHARS_PER_CALL)
+        prompt = _qual_prompt(sym, excerpt, n, date_range, mgmt_hist,
+                              param_ids=None if pass_no == 1 else remaining,
+                              pass_no=pass_no)
+        try:
+            scores = _run_qual(sym, prompt, backend)
+        except HTTPException:
+            if merged:            # keep what earlier passes earned
+                break
+            raise
+        gained = 0
+        for s in scores:
+            pid = s.get("id")
+            if pid not in qual_ids:
+                continue
+            prev = merged.get(pid)
+            if s.get("score") is not None and (prev is None or prev.get("score") is None):
+                merged[pid] = s
+                gained += 1
+            elif prev is None:
+                merged[pid] = s
+        print(f"[qual] {sym} pass {pass_no}: +{gained} scored, "
+              f"{sum(1 for v in merged.values() if v.get('score') is not None)}"
+              f"/{len(qual_ids)} covered, calls used {sorted(used)}")
+        if gained == 0 and pass_no > 1:
+            break
+
+    scores = list(merged.values())
     with _qual_lock:
         _qual_cache[sym] = {"stamp": stamp, "scores": scores}
         _save_qual_cache()
@@ -407,37 +498,49 @@ def concall(sym: str, chars: int = 8000):
     return {"symbol": sym, "chars": len(text), "text": text}
 
 
-QUAL_PROMPT_VERSION = 2   # bump when the prompt changes -> invalidates qual cache
+QUAL_PROMPT_VERSION = 3   # bump when the prompt/loop changes -> invalidates qual cache
 
 
-def _qual_prompt(sym: str, timeline: dict, mgmt_hist: list) -> str:
-    qual_params = [p for p in _fw_json["parameters"]
-                   if p["nature"] in ("qualitative", "hybrid")]
+def _qual_prompt(sym: str, excerpt: str, n_calls: int, date_range: str,
+                 mgmt_hist: list, param_ids: list | None = None,
+                 pass_no: int = 1) -> str:
+    params = [p for p in _fw_json["parameters"]
+              if p["nature"] in ("qualitative", "hybrid")
+              and (param_ids is None or p["id"] in param_ids)]
     plist = "\n".join(f'- {p["id"]}: {p["name"]} — {p["signal"]}'
-                      for p in qual_params)
+                      for p in params)
     mgmt_lines = "\n".join(
-        f'- {m["role"]}: {m["name"]} ({m["years"] or "?"}, {m["status"]})'
+        f'- {m["role"]}: {" ".join(str(m["name"]).split())} '
+        f'({m["years"] or "?"}, {m["status"]})'
         for m in mgmt_hist) or "(no management history on file)"
+    pass_note = ("" if pass_no == 1 else
+                 f"\nNOTE: this is evidence pass {pass_no} — the excerpts below are "
+                 "DIFFERENT calls than earlier passes, provided specifically to "
+                 "assess the parameters listed (they lacked evidence so far). "
+                 "Score any that THIS evidence supports; keep null only if still silent.\n")
     return (
-        "You are scoring a company against a quality-investing framework.\n\n"
-        "EVIDENCE 1 — CONFERENCE-CALL TIMELINE: excerpts sampled across "
-        f"{timeline['n_calls']} quarterly calls from {timeline['from']} to "
-        f"{timeline['to']} (oldest first). Judge the TRAJECTORY, not one "
-        "quarter: did management deliver what it promised in earlier calls? "
-        "Is the narrative consistent over the years, or does it shift every "
-        "quarter? Are earlier-announced capex/product plans confirmed as "
-        "executed in later calls?\n\n"
+        "You are scoring a company against a quality-investing framework.\n"
+        + pass_note +
+        "\nEVIDENCE 1 — CONFERENCE-CALL TIMELINE: excerpts sampled across "
+        f"{n_calls} quarterly calls ({date_range}), oldest first. Judge the "
+        "TRAJECTORY, not one quarter: did management deliver what it promised "
+        "in earlier calls? Is the narrative consistent over the years? Are "
+        "earlier-announced capex/product plans confirmed as executed later?\n\n"
         "EVIDENCE 2 — MANAGEMENT HISTORY (from 5 years of annual reports): "
-        "use tenure and churn as track-record evidence. Long-tenured "
-        "Chairman/MD/CFO across the window = stability; CFO churn or "
-        "revolving leadership = a governance flag. Weigh this especially "
-        "for the MGT.* parameters.\n\n"
-        f"Parameters (score each -2..+2, or null if the evidence is silent — never guess):\n{plist}\n\n"
+        "tenure and churn are track-record evidence in their own right — a "
+        "stable long-tenured Chairman/MD/CFO table alone justifies scoring "
+        "the management-stability aspects of MGT.* parameters; churn or "
+        "revolving leadership is a governance flag.\n\n"
+        "SCORING RULES: score each parameter -2..+2 when ANY of the evidence "
+        "(any call, any year, or the management table) supports a judgement; "
+        "use null ONLY when the evidence is genuinely silent. Never guess "
+        "beyond the evidence — every score must cite it.\n\n"
+        f"Parameters:\n{plist}\n\n"
         "Return STRICT JSON only: {\"scores\": [{\"id\": ..., \"score\": int|null, "
         "\"rationale\": \"1 sentence citing the calls or the management record\", "
         "\"quote\": \"short verbatim quote or empty\"}]}\n\n"
         f"MANAGEMENT HISTORY ({sym}):\n{mgmt_lines}\n\n"
-        f"CONFERENCE-CALL TIMELINE EXCERPTS ({sym}):\n{timeline['excerpt']}"
+        f"CONFERENCE-CALL EXCERPTS ({sym}):\n{excerpt}"
     )
 
 
@@ -465,8 +568,8 @@ def _parse_scores(raw: str) -> list:
 
 def _qual_via_api(sym: str, prompt: str, key: str) -> dict:
     body = json.dumps({
-        "model": "claude-sonnet-5",
-        "max_tokens": 3000,
+        "model": API_MODEL,
+        "max_tokens": 4000,
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
     req = urllib.request.Request(
@@ -474,7 +577,7 @@ def _qual_via_api(sym: str, prompt: str, key: str) -> dict:
         headers={"content-type": "application/json",
                  "x-api-key": key, "anthropic-version": "2023-06-01"})
     try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
+        with urllib.request.urlopen(req, timeout=HTTP_AI_TIMEOUT) as resp:
             out = json.loads(resp.read())
     except Exception as e:
         raise HTTPException(502, f"Claude API error: {e}")
@@ -489,20 +592,18 @@ def _qual_via_claude_code(sym: str, prompt: str) -> dict:
     person whose subscription pays — do not expose publicly in this mode."""
     try:
         proc = subprocess.run(
-            ["claude", "-p", "--model", "sonnet"],
+            ["claude", "-p", "--model", ANALYSIS_MODEL],
             input=prompt,
-            capture_output=True, text=True, timeout=300,
+            capture_output=True, text=True, timeout=None,   # no timeout: quality > speed
         )
     except FileNotFoundError:
         raise HTTPException(503, "claude CLI not found on PATH")
-    except subprocess.TimeoutExpired:
-        raise HTTPException(504, "claude CLI timed out")
     if proc.returncode != 0:
         tail = (proc.stderr or proc.stdout or "").strip()[-400:]
         raise HTTPException(
             502, f"claude CLI failed (is it logged in? run `claude` once "
                  f"to authenticate): {tail}")
-    return {"symbol": sym, "model": "claude-code (subscription)",
+    return {"symbol": sym, "model": f"claude-code {ANALYSIS_MODEL} (subscription)",
             "backend": "claude_code_cli",
             "scores": _parse_scores(proc.stdout)}
 
@@ -553,7 +654,7 @@ def ask(sym: str, payload: dict):
         f"{timeline['from']}–{timeline['to']}):\n{timeline['excerpt'][:8000]}"
     )
     if backend == "api":
-        body = json.dumps({"model": "claude-sonnet-5", "max_tokens": 700,
+        body = json.dumps({"model": API_MODEL, "max_tokens": 700,
                            "messages": [{"role": "user", "content": prompt}]}).encode()
         req = urllib.request.Request(
             "https://api.anthropic.com/v1/messages", data=body,
@@ -561,18 +662,15 @@ def ask(sym: str, payload: dict):
                      "x-api-key": os.environ["ANTHROPIC_API_KEY"],
                      "anthropic-version": "2023-06-01"})
         try:
-            with urllib.request.urlopen(req, timeout=120) as resp:
+            with urllib.request.urlopen(req, timeout=HTTP_AI_TIMEOUT) as resp:
                 out = json.loads(resp.read())
             answer = "".join(b.get("text", "") for b in out.get("content", []))
         except Exception as e:
             raise HTTPException(502, f"Claude API error: {e}")
     else:
-        try:
-            proc = subprocess.run(["claude", "-p", "--model", "sonnet"],
-                                  input=prompt, capture_output=True,
-                                  text=True, timeout=300)
-        except subprocess.TimeoutExpired:
-            raise HTTPException(504, "claude CLI timed out")
+        proc = subprocess.run(["claude", "-p", "--model", ANALYSIS_MODEL],
+                              input=prompt, capture_output=True,
+                              text=True, timeout=None)
         if proc.returncode != 0:
             raise HTTPException(502, "claude CLI failed: " +
                                 (proc.stderr or "")[-300:])
