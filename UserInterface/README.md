@@ -58,9 +58,20 @@ static JSON.
 3. Codespaces auto-forwards port 8000 and opens the browser — you're live.
    Make the port **Public** (right-click the port → Port Visibility) to share
    the URL with others.
-4. Optional AI mode: `export ANTHROPIC_API_KEY=sk-ant-...` before starting the
-   server → a "🤖 Run AI qualitative analysis" button appears on every company
-   with concalls, scoring the 30 text-based parameters live from the call.
+4. Optional AI mode — two ways to enable the "🤖 Run AI qualitative analysis"
+   button (scores the 30 text-based parameters live from the concall):
+
+   | | **A. Claude subscription (Pro/Max)** | B. API key |
+   |---|---|---|
+   | Setup | `claude` in the terminal once → follow the login link | `export ANTHROPIC_API_KEY=sk-ant-...` |
+   | Billing | included in your subscription | pay-as-you-go credits |
+   | How it runs | server shells out to headless `claude -p` | direct Claude API call |
+   | Sharing the URL | **❌ keep the port private** — your subscription must not serve third parties | ok (you pay per call) |
+
+   The devcontainer pre-installs the Claude Code CLI, so for (A) you only run
+   `claude` once to authenticate, then start the server — `/api/health` will
+   show `"ai_backend": "claude_code_cli"`. The server prefers the API key if
+   both are present.
 
 Dynamic locally is the same two commands. Other dynamic hosts that work
 unchanged: Render / Railway / Fly.io / Hugging Face Spaces (Docker) — start

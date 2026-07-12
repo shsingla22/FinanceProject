@@ -29,6 +29,8 @@ import io
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
 import threading
 import time
@@ -185,12 +187,29 @@ def concall_text(sym: str, max_chars: int = 8000) -> str:
     return text[-max_chars:]
 
 
+def _ai_backend() -> str | None:
+    """Two ways to run the qualitative playbook:
+      'api'             ANTHROPIC_API_KEY set -> direct Claude API call
+      'claude_code_cli' Claude Code CLI on PATH, logged in with the user's
+                        own subscription -> headless `claude -p` call.
+                        PERSONAL USE ONLY: a subscription must not serve
+                        third parties, so keep the port private in this mode.
+    """
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        return "api"
+    if shutil.which("claude"):
+        return "claude_code_cli"
+    return None
+
+
 # ----------------------------------------------------------------- endpoints
 @app.get("/api/health")
 def health():
+    backend = _ai_backend()
     return {"mode": "dynamic", "universe": UNIVERSE,
             "framework_version": _fw.version,
-            "ai_qualitative": bool(os.environ.get("ANTHROPIC_API_KEY")),
+            "ai_qualitative": backend is not None,
+            "ai_backend": backend,
             "data_stamp": _data_stamp()}
 
 
@@ -240,23 +259,12 @@ def concall(sym: str, chars: int = 8000):
     return {"symbol": sym, "chars": len(text), "text": text}
 
 
-@app.post("/api/qualitative/{sym}")
-def qualitative(sym: str):
-    """Run the skill's qualitative playbook over the latest concall text via
-    the Claude API. Live fusion of quantitative + qualitative."""
-    key = os.environ.get("ANTHROPIC_API_KEY")
-    if not key:
-        raise HTTPException(503, "AI mode off: set ANTHROPIC_API_KEY to enable")
-    sym = sym.upper()
-    text = concall_text(sym, 12000)
-    if not text:
-        raise HTTPException(404, f"no concall transcript on file for {sym}")
-
+def _qual_prompt(sym: str, text: str) -> str:
     qual_params = [p for p in _fw_json["parameters"]
                    if p["nature"] in ("qualitative", "hybrid")]
     plist = "\n".join(f'- {p["id"]}: {p["name"]} — {p["signal"]}'
                       for p in qual_params)
-    prompt = (
+    return (
         "You are scoring a company against a quality-investing framework "
         "using ONLY the conference-call excerpt below.\n\n"
         f"Parameters (score each -2..+2, or null if the text is silent — never guess):\n{plist}\n\n"
@@ -264,10 +272,35 @@ def qualitative(sym: str):
         "\"rationale\": \"1 sentence citing the call\", \"quote\": \"short verbatim quote or empty\"}]}\n\n"
         f"CONFERENCE CALL EXCERPT ({sym}):\n{text}"
     )
+
+
+def _parse_scores(raw: str) -> list:
+    m = re.search(r"\{.*\}", raw, re.DOTALL)
+    if not m:
+        raise HTTPException(502, "could not parse model output")
+    blob = m.group(0)
+    try:
+        return json.loads(blob).get("scores", [])
+    except json.JSONDecodeError:
+        # Salvage pass: model JSON occasionally breaks on an unescaped quote
+        # inside a rationale. Recover the per-parameter objects individually
+        # and drop only the broken ones.
+        out = []
+        for item in re.findall(r'\{[^{}]*"id"\s*:\s*"[^"]+"[^{}]*\}', blob):
+            try:
+                out.append(json.loads(item))
+            except json.JSONDecodeError:
+                continue
+        if out:
+            return out
+        raise HTTPException(502, "model output was not valid JSON")
+
+
+def _qual_via_api(sym: str, text: str, key: str) -> dict:
     body = json.dumps({
         "model": "claude-sonnet-5",
         "max_tokens": 3000,
-        "messages": [{"role": "user", "content": prompt}],
+        "messages": [{"role": "user", "content": _qual_prompt(sym, text)}],
     }).encode()
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages", data=body,
@@ -279,11 +312,51 @@ def qualitative(sym: str):
     except Exception as e:
         raise HTTPException(502, f"Claude API error: {e}")
     raw = "".join(b.get("text", "") for b in out.get("content", []))
-    m = re.search(r"\{.*\}", raw, re.DOTALL)
-    if not m:
-        raise HTTPException(502, "could not parse model output")
-    scores = json.loads(m.group(0)).get("scores", [])
-    return {"symbol": sym, "model": out.get("model"), "scores": scores}
+    return {"symbol": sym, "model": out.get("model"),
+            "backend": "api", "scores": _parse_scores(raw)}
+
+
+def _qual_via_claude_code(sym: str, text: str) -> dict:
+    """Headless Claude Code (`claude -p`) authenticated by the user's OWN
+    subscription. Personal-use path: the person running the server is the
+    person whose subscription pays — do not expose publicly in this mode."""
+    try:
+        proc = subprocess.run(
+            ["claude", "-p", "--model", "sonnet"],
+            input=_qual_prompt(sym, text),
+            capture_output=True, text=True, timeout=300,
+        )
+    except FileNotFoundError:
+        raise HTTPException(503, "claude CLI not found on PATH")
+    except subprocess.TimeoutExpired:
+        raise HTTPException(504, "claude CLI timed out")
+    if proc.returncode != 0:
+        tail = (proc.stderr or proc.stdout or "").strip()[-400:]
+        raise HTTPException(
+            502, f"claude CLI failed (is it logged in? run `claude` once "
+                 f"to authenticate): {tail}")
+    return {"symbol": sym, "model": "claude-code (subscription)",
+            "backend": "claude_code_cli",
+            "scores": _parse_scores(proc.stdout)}
+
+
+@app.post("/api/qualitative/{sym}")
+def qualitative(sym: str):
+    """Run the skill's qualitative playbook over the latest concall text.
+    Backend: Claude API if ANTHROPIC_API_KEY is set, else headless Claude
+    Code CLI under the user's own subscription (personal use)."""
+    backend = _ai_backend()
+    if backend is None:
+        raise HTTPException(
+            503, "AI mode off: set ANTHROPIC_API_KEY, or install + log in "
+                 "the Claude Code CLI to use your subscription")
+    sym = sym.upper()
+    text = concall_text(sym, 12000)
+    if not text:
+        raise HTTPException(404, f"no concall transcript on file for {sym}")
+    if backend == "api":
+        return _qual_via_api(sym, text, os.environ["ANTHROPIC_API_KEY"])
+    return _qual_via_claude_code(sym, text)
 
 
 @app.post("/api/refresh")

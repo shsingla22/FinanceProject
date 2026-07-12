@@ -43,7 +43,8 @@ async function init() {
   if (sub) sub.insertAdjacentHTML("afterend",
     `<p class="note">${state.dynamic
       ? "⚡ <strong>Dynamic mode</strong> — the skill runs live on the server per request" +
-        (state.ai ? ", AI qualitative analysis enabled." : "; set ANTHROPIC_API_KEY for AI qualitative analysis.")
+        (state.ai ? ", AI qualitative analysis enabled." :
+         "; for AI qualitative analysis set ANTHROPIC_API_KEY or log in the Claude Code CLI (your subscription).")
       : "📦 Static mode — precomputed snapshot (run server.py for live analysis)."}</p>`);
   state.names = Object.entries(data.companies).map(([sym, c]) => ({
     sym, name: c.name || sym,
