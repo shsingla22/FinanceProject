@@ -198,6 +198,21 @@ function card(html) { $out().insertAdjacentHTML("beforeend", `<div class="card">
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 const fmtScore = s => s == null ? "n/a" : (s > 0 ? "+" : "") + (Math.round(s * 100) / 100);
 const scoreCls = s => s == null ? "mid" : s > 0.25 ? "pos" : s < -0.25 ? "neg" : "mid";
+// Intuitive labels: users read words, the -2..+2 number stays as fine print.
+const PARAM_WORD = { "2": "Excellent", "1": "Good", "0": "Neutral", "-1": "Weak", "-2": "Poor" };
+const paramWord = s => PARAM_WORD[String(Math.round(s))] || "n/a";
+function verdictWord(s) {
+  if (s == null) return "Not assessed";
+  if (s >= 1.25) return "Excellent business";
+  if (s >= 0.5) return "Good business";
+  if (s >= -0.25) return "Mixed / average";
+  if (s >= -1.25) return "Weak business";
+  return "Poor business";
+}
+const scoreDots = s => {                       // ●●●●○ five-level meter
+  const lvl = Math.round(s) + 3;               // -2..+2 -> 1..5
+  return "●".repeat(lvl) + "○".repeat(5 - lvl);
+};
 const fmtCr = v => v == null ? "—" : v >= 1e5 ? (v / 1e5).toFixed(1) + " L Cr" : Math.round(v).toLocaleString("en-IN") + " Cr";
 const modName = id => state.fw.modules.find(m => m.id === id)?.name || id;
 
@@ -277,28 +292,39 @@ function attachSparkHover() {
   });
 }
 
-function paramRows(co, moduleId) {
-  const params = state.fw.parameters.filter(p => !moduleId || p.module === moduleId);
-  let assessed = "", qual = [];
-  for (const p of params) {
-    const got = co.params[p.id];
-    if (got && got.score != null) {
-      const srcTag = got.source === "ai_concall" ? `<span class="tag">🤖 concall</span>`
-                   : got.source === "fused" ? `<span class="tag">◐ quant + concall</span>` : "";
-      assessed += `<div class="prow">
-        <div class="pscore ${scoreCls(got.score)}">${fmtScore(got.score)}</div>
-        <div class="pbody"><div class="pn">${esc(p.name)} <span class="tag">${p.nature}</span> ${srcTag}</div>
-        <div class="pr">${esc(got.rationale)}${got.quote ? ` — <em>“${esc(got.quote)}”</em>` : ""}</div></div></div>`;
-    } else {
-      qual.push(`<li><strong>${esc(p.name)}</strong> — ${esc(p.signal)}</li>`);
-    }
-  }
+function paramRow(p, got) {
+  const srcTag = got.source === "ai_concall" ? `<span class="tag">🎙 from the concalls</span>`
+               : got.source === "fused" ? `<span class="tag">◐ numbers + concalls</span>`
+               : `<span class="tag">🔢 from the numbers</span>`;
+  return `<div class="prow">
+    <div class="pscore ${scoreCls(got.score)}" title="score ${fmtScore(got.score)} on a -2..+2 scale">
+      ${paramWord(got.score)}<span class="dots">${scoreDots(got.score)}</span></div>
+    <div class="pbody"><div class="pn">${esc(p.name)} ${srcTag}</div>
+    <div class="pr">${esc(got.rationale)}${got.quote ? ` — <em>“${esc(got.quote)}”</em>` : ""}</div></div></div>`;
+}
+
+function moduleBreakdown(co) {
+  // Per-module expandable panels: the module's word + number, the exact
+  // averaging arithmetic, then every stored per-parameter judgement.
   let html = "";
-  if (assessed) html += `<h3>Assessed (financials${co.qualitative_included ? " + concall" : ""})</h3><div class="params">${assessed}</div>`;
-  if (qual.length) html += `<h3>${co.qualitative_included
-      ? "Not assessed — the concall was silent on these (never guessed)"
-      : "Needs qualitative judgement (concalls / annual reports)"}</h3>
-    <ul class="qual-list">${qual.join("")}</ul>`;
+  for (const m of state.fw.modules) {
+    const md = co.modules[m.id];
+    const params = state.fw.parameters.filter(p => p.module === m.id);
+    const assessed = params.filter(p => co.params[p.id] && co.params[p.id].score != null);
+    const silent = params.filter(p => !co.params[p.id] || co.params[p.id].score == null);
+    const scores = assessed.map(p => co.params[p.id].score);
+    const mathLine = assessed.length
+      ? `Module score = average of its assessed parameters: (${scores.map(fmtScore).join(" + ")}) / ${scores.length} = <strong>${fmtScore(md.score)}</strong> (weight ×${md.weight} in the overall)`
+      : "No parameters assessed in this module — it does not count toward the overall score.";
+    html += `<details class="mod" ${assessed.length ? "open" : ""}>
+      <summary><span class="mod-word ${scoreCls(md.score)}">${md.score == null ? "—" : paramWord(Math.max(-2, Math.min(2, Math.round(md.score))))}</span>
+        <strong>${esc(m.name)}</strong>
+        <span class="note">${md.assessed}/${md.total} assessed · score ${md.score == null ? "n/a" : fmtScore(md.score)}</span></summary>
+      <p class="note calc">${mathLine}</p>
+      <div class="params">${assessed.map(p => paramRow(p, co.params[p.id])).join("")}</div>
+      ${silent.length ? `<p class="note">Not assessed (${co.qualitative_included ? "the calls & records were silent — never guessed" : "needs qualitative evidence"}): ${silent.map(p => esc(p.name)).join(" · ")}</p>` : ""}
+    </details>`;
+  }
   return html;
 }
 
@@ -338,24 +364,64 @@ async function renderCompany(sym) {
     sparkline("Operating margin", co.series.opm, "%"),
     sparkline("Cash conversion cycle", co.series.ccc, " d"),
   ].join("");
-  const mgmt = co.mgmt?.length
-    ? `<h3>Current management (from annual reports)</h3><ul class="mgmt">` +
-      co.mgmt.map(m => `<li><strong>${esc(m.role)}:</strong> ${esc(m.name)}</li>`).join("") + `</ul>`
+  const mgmtHist = co.mgmt_history?.length
+    ? `<h3>Management track record (from 5 years of annual reports)</h3>
+       <table class="rank"><thead><tr><th>Role</th><th>Name</th><th>Years seen</th><th>Status</th></tr></thead><tbody>` +
+      co.mgmt_history.slice(0, 10).map(m => `<tr><td>${esc(m.role)}</td><td>${esc(m.name)}</td>
+        <td>${esc(m.years || "—")}</td><td>${m.status === "current" ? "✅ current" : "↩ exited"}</td></tr>`).join("") +
+      `</tbody></table>
+       <p class="note">Tenure and churn feed the Management-module judgement (long tenure = stability; CFO churn = a flag).</p>`
     : "";
+  const cr = co.concall_range || {};
   card(`${companyHeader(sym, co)}
     <div class="scoreline">
-      <span class="big-score ${scoreCls(co.overall)}">${fmtScore(co.overall)}</span>
-      <span class="cov">overall quality score (−2…+2) ·
-        coverage ${Math.round(co.coverage * 100)}% of 34 parameters —
-        the rest need qualitative judgement</span>
+      <span class="big-score ${scoreCls(co.overall)}">${verdictWord(co.overall)}</span>
+      <span class="cov">score ${fmtScore(co.overall)} on a −2…+2 scale ·
+        ${Math.round(co.coverage * 100)}% of the 34 framework parameters assessed</span>
     </div>
+    <p class="note calc">ⓘ ${esc(co.overall_calc || "")}</p>
+    ${co.qualitative_included && cr.n_calls ? `<p class="note">🎙 Qualitative judgement drew on
+      <strong>${cr.n_calls} quarterly concalls</strong> (${esc(cr.from || "")} → ${esc(cr.to || "")}),
+      sampled oldest→newest to judge delivery vs promises, plus the management history below.</p>` : ""}
     <h3>Module scorecard</h3>${moduleBars(co)}
     ${sparkHtml ? `<h3>Key trends</h3><div class="sparks">${sparkHtml}</div>` : ""}
-    ${paramRows(co, null)}
-    ${mgmt}
+    <h3>Why — the stored judgement behind every score</h3>
+    ${moduleBreakdown(co)}
+    ${mgmtHist}
     ${qualNote(co)}
     ${excerpt ? `<h3>Latest concall (live extract)</h3>
-      <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}`);
+      <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}
+    ${state.ai ? `
+      <h3>Ask about this verdict</h3>
+      <form class="qa-form" data-sym="${sym}">
+        <input type="text" placeholder="e.g. Why is customer benefits rated Poor? What did management promise about capex?" aria-label="Ask about this verdict">
+        <button type="submit">Ask</button>
+      </form>
+      <div class="qa-out"></div>` : ""}`);
+  const qaForm = $out().querySelector(`.qa-form[data-sym="${sym}"]:last-of-type`);
+  if (qaForm) qaForm.addEventListener("submit", e => {
+    e.preventDefault();
+    const inp = qaForm.querySelector("input");
+    if (inp.value.trim()) askVerdict(sym, inp.value.trim(), qaForm.nextElementSibling);
+  });
+}
+
+async function askVerdict(sym, question, outEl) {
+  outEl.insertAdjacentHTML("beforeend",
+    `<div class="qa-q">Q: ${esc(question)}</div><div class="qa-a note">Thinking — answering from the stored analysis and the concalls…</div>`);
+  const slot = outEl.lastElementChild;
+  try {
+    const res = await fetch(`api/ask/${sym}`, {
+      method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ question }),
+    });
+    if (!res.ok) throw new Error((await res.json()).detail || res.status);
+    const data = await res.json();
+    slot.className = "qa-a";
+    slot.textContent = data.answer;
+  } catch (e) {
+    slot.textContent = "Failed: " + (e.message || e);
+  }
 }
 
 function qualNote(co) {
@@ -414,7 +480,8 @@ function renderRanking(n, moduleId, industry, asc) {
   const trs = top.map((r, i) => `<tr class="rowlink" data-co="${r.sym}">
       <td>${i + 1}</td><td><span class="co-link">${esc(r.c.name)}</span> <span class="sym">${r.sym}</span></td>
       <td>${esc(r.c.industry || "—")}</td>
-      <td><strong class="${scoreCls(r.s)}" style="color:${r.s > 0 ? "var(--series-1)" : r.s < 0 ? "var(--neg)" : "var(--mid)"}">${fmtScore(r.s)}</strong></td>
+      <td><strong style="color:${r.s > 0 ? "var(--series-1)" : r.s < 0 ? "var(--neg)" : "var(--mid)"}">${paramWord(Math.max(-2, Math.min(2, Math.round(r.s))))}</strong>
+          <span class="note">(${fmtScore(r.s)})</span></td>
       <td>${Math.round(r.cov * 100)}%</td>
       <td>₹${fmtCr(r.c.mcap)}</td><td>${r.c.pe ?? "—"}</td></tr>`).join("");
   card(`<h2>${esc(title)}</h2>
@@ -432,8 +499,8 @@ function renderCompare(a, b) {
   if (!A || !B) return card(`<p>Missing data for comparison.</p>`);
   const half = (sym, co) => `<div>
       <div class="co-head"><span class="nm">${esc(co.name)}</span> <span class="sym">${sym}</span></div>
-      <div class="scoreline"><span class="big-score ${scoreCls(co.overall)}">${fmtScore(co.overall)}</span>
-      <span class="cov">coverage ${Math.round(co.coverage * 100)}%</span></div>
+      <div class="scoreline"><span class="big-score ${scoreCls(co.overall)}" style="font-size:22px">${verdictWord(co.overall)}</span>
+      <span class="cov">${fmtScore(co.overall)} · coverage ${Math.round(co.coverage * 100)}%</span></div>
       ${moduleBars(co)}
       <p class="note"><span class="co-link" data-co="${sym}">full ${sym} scorecard →</span></p>
     </div>`;

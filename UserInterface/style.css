@@ -142,3 +142,23 @@ table.rank tr.rowlink:hover td { background: var(--chip-bg); }
 .mgmt li { font-size: 14px; }
 .foot { padding: 22px 20px 34px; color: var(--text-muted); font-size: 12.5px; }
 .foot code { background: var(--chip-bg); padding: 1px 6px; border-radius: 6px; }
+
+/* --- explainability & Q&A additions --- */
+.pscore { min-width: 86px; padding: 3px 8px; display: flex; flex-direction: column;
+  align-items: center; gap: 1px; }
+.pscore .dots { font-size: 9px; letter-spacing: 2px; opacity: .75; }
+.calc { background: var(--chip-bg); border-radius: 8px; padding: 8px 12px; }
+details.mod { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin: 8px 0; }
+details.mod summary { cursor: pointer; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+details.mod summary::-webkit-details-marker { margin-right: 4px; }
+.mod-word { font-weight: 700; min-width: 74px; }
+.mod-word.pos { color: var(--series-1); } .mod-word.neg { color: var(--neg); } .mod-word.mid { color: var(--mid); }
+.big-score { font-size: 26px; }
+.qa-form { display: flex; gap: 8px; margin: 6px 0 10px; }
+.qa-form input { flex: 1; padding: 10px 14px; border-radius: 8px; border: 1.5px solid var(--line);
+  background: var(--surface-0); color: var(--text-primary); font-size: 14.5px; }
+.qa-form button { padding: 10px 18px; border: 0; border-radius: 8px; background: var(--accent);
+  color: #fff; font-weight: 600; cursor: pointer; }
+.qa-q { font-weight: 600; margin-top: 10px; }
+.qa-a { white-space: pre-wrap; border-left: 3px solid var(--accent); padding: 6px 12px;
+  margin: 6px 0; font-size: 14.5px; }

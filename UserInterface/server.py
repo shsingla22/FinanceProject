@@ -150,6 +150,53 @@ def _mgmt(sym: str):
         return []
 
 
+def _mgmt_history(sym: str) -> list:
+    """Full 5-year management history (current AND exited) from the ARs —
+    the raw material for judging stability / churn of the leadership team."""
+    f = INDIA / "ManagementInfo" / UNIVERSE / f"{sym.replace('&', '_AND_')}.csv"
+    if not f.exists():
+        return []
+    try:
+        mdf = pd.read_csv(f)
+        return [{"role": r["role"], "name": r["name"],
+                 "years": r.get("years_present", ""),
+                 "status": r["status"]}
+                for _, r in mdf.head(20).iterrows()]
+    except Exception:
+        return []
+
+
+CALL_HEADER_RE = re.compile(r"Call:\s+([A-Z][a-z]{2}\s+\d{4})")
+
+
+def concall_timeline(sym: str, budget: int = 30000) -> dict:
+    """Split the merged transcript (oldest->newest, one 'Call: MMM YYYY'
+    header per quarter) into per-call segments and sample ACROSS the
+    timeline — earliest, middle, and the two latest calls — so judgement
+    covers the full 3-year record (promises vs delivery, consistency),
+    not just the latest quarter."""
+    full = concall_text(sym, max_chars=10**9)   # full cached extract
+    if not full:
+        return {"excerpt": "", "n_calls": 0, "from": "", "to": ""}
+    parts = CALL_HEADER_RE.split(full)
+    # parts = [preamble, date1, text1, date2, text2, ...]
+    calls = [(parts[i], parts[i + 1]) for i in range(1, len(parts) - 1, 2)]
+    if not calls:
+        return {"excerpt": full[-budget:], "n_calls": 1, "from": "", "to": ""}
+    n = len(calls)
+    picks = []
+    seen = set()
+    for idx, share in [(0, 0.18), (n // 2, 0.18), (max(0, n - 2), 0.24), (n - 1, 0.40)]:
+        if idx in seen:
+            continue
+        seen.add(idx)
+        date, text = calls[idx]
+        take = int(budget * share)
+        picks.append(f"===== CALL {idx + 1} of {n} ({date}) =====\n{text.strip()[:take]}")
+    return {"excerpt": "\n\n".join(picks), "n_calls": n,
+            "from": calls[0][0], "to": calls[-1][0]}
+
+
 def build_record(sym: str, live, ccm, qual_scores: list | None = None) -> dict:
     """Run the skill for one symbol, right now.
 
@@ -189,6 +236,21 @@ def build_record(sym: str, live, ccm, qual_scores: list | None = None) -> dict:
 
     meta = _const_map.get(sym, {"name": sym, "industry": ""})
     lv = live.get(sym, {})
+
+    # Explanation trace: show exactly how the overall number was computed,
+    # from the stored module scores and weights — no black box.
+    terms = []
+    for m in _module_ids:
+        ms = agg["modules"][m]["module_score"]
+        if ms is not None:
+            w = S.DEFAULT_MODULE_WEIGHTS.get(m, 1.0)
+            terms.append(f"{m} {ms:+.2f}×{w}")
+    overall_calc = (
+        "overall = weighted mean of assessed module scores: (" +
+        " + ".join(terms) + ") / Σweights" +
+        (f" = {agg['overall_score']:+.2f}" if agg["overall_score"] is not None else "")
+        if terms else "no modules assessed")
+
     return B.clean({
         "name": meta["name"], "industry": meta["industry"],
         "mcap": lv.get("market_cap_rs_cr"), "pe": lv.get("stock_pe"),
@@ -196,7 +258,8 @@ def build_record(sym: str, live, ccm, qual_scores: list | None = None) -> dict:
         "overall": agg["overall_score"], "coverage": agg["overall_coverage"],
         "modules": {m: {"score": agg["modules"][m]["module_score"],
                         "assessed": agg["modules"][m]["n_assessed"],
-                        "total": agg["modules"][m]["n_total"]}
+                        "total": agg["modules"][m]["n_total"],
+                        "weight": S.DEFAULT_MODULE_WEIGHTS.get(m, 1.0)}
                     for m in _module_ids},
         "params": {p.id: {"score": p.score, "rationale": p.rationale,
                           "nature": p.nature,
@@ -204,9 +267,11 @@ def build_record(sym: str, live, ccm, qual_scores: list | None = None) -> dict:
                    for p in pscores if p.score is not None},
         "series": B.series_for_chart(sig),
         "mgmt": _mgmt(sym),
+        "mgmt_history": _mgmt_history(sym),
         "concalls": ccm.get(sym, 0),
         "computed_live": True,
         "qualitative_included": bool(qual_scores),
+        "overall_calc": overall_calc,
     })
 
 
@@ -220,18 +285,15 @@ def concall_text(sym: str, max_chars: int = 8000) -> str:
     try:
         import PyPDF2
         reader = PyPDF2.PdfReader(str(pdf), strict=False)
-        # read from the END (newest call last, per the merge order)
-        parts, chars = [], 0
-        for page in reversed(reader.pages):
+        # Extract the WHOLE merged transcript (all quarterly calls,
+        # oldest-first) — cached, so the PDF is parsed once per process.
+        parts = []
+        for page in reader.pages:
             try:
-                t = page.extract_text() or ""
+                parts.append(page.extract_text() or "")
             except Exception:
-                t = ""
-            parts.append(t)
-            chars += len(t)
-            if chars >= 60000:
-                break
-        text = "\n".join(reversed(parts))
+                parts.append("")
+        text = "\n".join(parts)
     except Exception:
         text = ""
     _cache["concall_text"][sym] = text
@@ -292,12 +354,12 @@ def companies():
 
 
 def _qual_scores_cached(sym: str) -> tuple[list | None, str]:
-    """AI concall scores for sym, cached on disk keyed by the PDF mtime.
-    Returns (scores | None, status)."""
+    """AI concall+management scores for sym, cached on disk keyed by the PDF
+    mtime AND the prompt version. Returns (scores | None, status)."""
     pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
     if not pdf.exists():
         return None, "no_concalls"
-    stamp = str(pdf.stat().st_mtime)
+    stamp = f"{pdf.stat().st_mtime}:v{QUAL_PROMPT_VERSION}"
     with _qual_lock:
         hit = _qual_cache.get(sym)
         if hit and hit.get("stamp") == stamp:
@@ -305,13 +367,14 @@ def _qual_scores_cached(sym: str) -> tuple[list | None, str]:
     backend = _ai_backend()
     if backend is None:
         return None, "ai_unavailable"
-    text = concall_text(sym, 12000)
-    if not text:
+    timeline = concall_timeline(sym)
+    if not timeline["excerpt"]:
         return None, "no_extractable_text"
+    prompt = _qual_prompt(sym, timeline, _mgmt_history(sym))
     if backend == "api":
-        scores = _qual_via_api(sym, text, os.environ["ANTHROPIC_API_KEY"])["scores"]
+        scores = _qual_via_api(sym, prompt, os.environ["ANTHROPIC_API_KEY"])["scores"]
     else:
-        scores = _qual_via_claude_code(sym, text)["scores"]
+        scores = _qual_via_claude_code(sym, prompt)["scores"]
     with _qual_lock:
         _qual_cache[sym] = {"stamp": stamp, "scores": scores}
         _save_qual_cache()
@@ -330,6 +393,8 @@ def company(sym: str, quick: int = 0):
     rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
     rec["concall_excerpt"] = concall_text(sym, 1600)
     rec["qualitative_status"] = qstatus
+    tl = concall_timeline(sym, budget=4)
+    rec["concall_range"] = {"n_calls": tl["n_calls"], "from": tl["from"], "to": tl["to"]}
     return {"symbol": sym, "record": rec}
 
 
@@ -342,18 +407,37 @@ def concall(sym: str, chars: int = 8000):
     return {"symbol": sym, "chars": len(text), "text": text}
 
 
-def _qual_prompt(sym: str, text: str) -> str:
+QUAL_PROMPT_VERSION = 2   # bump when the prompt changes -> invalidates qual cache
+
+
+def _qual_prompt(sym: str, timeline: dict, mgmt_hist: list) -> str:
     qual_params = [p for p in _fw_json["parameters"]
                    if p["nature"] in ("qualitative", "hybrid")]
     plist = "\n".join(f'- {p["id"]}: {p["name"]} — {p["signal"]}'
                       for p in qual_params)
+    mgmt_lines = "\n".join(
+        f'- {m["role"]}: {m["name"]} ({m["years"] or "?"}, {m["status"]})'
+        for m in mgmt_hist) or "(no management history on file)"
     return (
-        "You are scoring a company against a quality-investing framework "
-        "using ONLY the conference-call excerpt below.\n\n"
-        f"Parameters (score each -2..+2, or null if the text is silent — never guess):\n{plist}\n\n"
+        "You are scoring a company against a quality-investing framework.\n\n"
+        "EVIDENCE 1 — CONFERENCE-CALL TIMELINE: excerpts sampled across "
+        f"{timeline['n_calls']} quarterly calls from {timeline['from']} to "
+        f"{timeline['to']} (oldest first). Judge the TRAJECTORY, not one "
+        "quarter: did management deliver what it promised in earlier calls? "
+        "Is the narrative consistent over the years, or does it shift every "
+        "quarter? Are earlier-announced capex/product plans confirmed as "
+        "executed in later calls?\n\n"
+        "EVIDENCE 2 — MANAGEMENT HISTORY (from 5 years of annual reports): "
+        "use tenure and churn as track-record evidence. Long-tenured "
+        "Chairman/MD/CFO across the window = stability; CFO churn or "
+        "revolving leadership = a governance flag. Weigh this especially "
+        "for the MGT.* parameters.\n\n"
+        f"Parameters (score each -2..+2, or null if the evidence is silent — never guess):\n{plist}\n\n"
         "Return STRICT JSON only: {\"scores\": [{\"id\": ..., \"score\": int|null, "
-        "\"rationale\": \"1 sentence citing the call\", \"quote\": \"short verbatim quote or empty\"}]}\n\n"
-        f"CONFERENCE CALL EXCERPT ({sym}):\n{text}"
+        "\"rationale\": \"1 sentence citing the calls or the management record\", "
+        "\"quote\": \"short verbatim quote or empty\"}]}\n\n"
+        f"MANAGEMENT HISTORY ({sym}):\n{mgmt_lines}\n\n"
+        f"CONFERENCE-CALL TIMELINE EXCERPTS ({sym}):\n{timeline['excerpt']}"
     )
 
 
@@ -379,11 +463,11 @@ def _parse_scores(raw: str) -> list:
         raise HTTPException(502, "model output was not valid JSON")
 
 
-def _qual_via_api(sym: str, text: str, key: str) -> dict:
+def _qual_via_api(sym: str, prompt: str, key: str) -> dict:
     body = json.dumps({
         "model": "claude-sonnet-5",
         "max_tokens": 3000,
-        "messages": [{"role": "user", "content": _qual_prompt(sym, text)}],
+        "messages": [{"role": "user", "content": prompt}],
     }).encode()
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages", data=body,
@@ -399,14 +483,14 @@ def _qual_via_api(sym: str, text: str, key: str) -> dict:
             "backend": "api", "scores": _parse_scores(raw)}
 
 
-def _qual_via_claude_code(sym: str, text: str) -> dict:
+def _qual_via_claude_code(sym: str, prompt: str) -> dict:
     """Headless Claude Code (`claude -p`) authenticated by the user's OWN
     subscription. Personal-use path: the person running the server is the
     person whose subscription pays — do not expose publicly in this mode."""
     try:
         proc = subprocess.run(
             ["claude", "-p", "--model", "sonnet"],
-            input=_qual_prompt(sym, text),
+            input=prompt,
             capture_output=True, text=True, timeout=300,
         )
     except FileNotFoundError:
@@ -425,21 +509,75 @@ def _qual_via_claude_code(sym: str, text: str) -> dict:
 
 @app.post("/api/qualitative/{sym}")
 def qualitative(sym: str):
-    """Run the skill's qualitative playbook over the latest concall text.
-    Backend: Claude API if ANTHROPIC_API_KEY is set, else headless Claude
-    Code CLI under the user's own subscription (personal use)."""
+    """Raw AI scores (concall timeline + management history), cache-aware."""
+    sym = sym.upper()
+    scores, status = _qual_scores_cached(sym)
+    if scores is None:
+        raise HTTPException(503 if status == "ai_unavailable" else 404,
+                            f"qualitative unavailable: {status}")
+    return {"symbol": sym, "status": status, "scores": scores}
+
+
+@app.post("/api/ask/{sym}")
+def ask(sym: str, payload: dict):
+    """Q&A grounded in the STORED verdict: the question is answered from the
+    persisted analysis record (scores + rationales + quotes) plus the concall
+    timeline — never from thin air. The explainability pattern: answer from
+    the trace, cite the parameter or quote, admit when the record is silent."""
     backend = _ai_backend()
     if backend is None:
-        raise HTTPException(
-            503, "AI mode off: set ANTHROPIC_API_KEY, or install + log in "
-                 "the Claude Code CLI to use your subscription")
+        raise HTTPException(503, "AI is off — log in the Claude Code CLI or set ANTHROPIC_API_KEY")
     sym = sym.upper()
-    text = concall_text(sym, 12000)
-    if not text:
-        raise HTTPException(404, f"no concall transcript on file for {sym}")
+    question = (payload or {}).get("question", "").strip()
+    if not question:
+        raise HTTPException(422, "missing 'question'")
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+
+    qual, _ = _qual_scores_cached(sym)          # cached in the normal case
+    rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
+    timeline = concall_timeline(sym, budget=12000)
+    record_json = json.dumps({k: rec[k] for k in
+                              ("name", "overall", "coverage", "modules",
+                               "params", "series", "mgmt")}, default=str)[:14000]
+    prompt = (
+        f"You are explaining an investment-quality verdict for {rec['name']} "
+        f"({sym}). Answer the user's question USING ONLY the stored analysis "
+        "record and the concall excerpts below. Rules: cite the specific "
+        "parameter names, numbers, or verbatim quotes you rely on; if the "
+        "record and excerpts don't contain the answer, say so plainly — "
+        "never invent. Be concise (<= 200 words).\n\n"
+        f"QUESTION: {question}\n\n"
+        f"STORED ANALYSIS RECORD (scores are -2..+2):\n{record_json}\n\n"
+        f"CONCALL EXCERPTS ({timeline['n_calls']} calls, "
+        f"{timeline['from']}–{timeline['to']}):\n{timeline['excerpt'][:8000]}"
+    )
     if backend == "api":
-        return _qual_via_api(sym, text, os.environ["ANTHROPIC_API_KEY"])
-    return _qual_via_claude_code(sym, text)
+        body = json.dumps({"model": "claude-sonnet-5", "max_tokens": 700,
+                           "messages": [{"role": "user", "content": prompt}]}).encode()
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages", data=body,
+            headers={"content-type": "application/json",
+                     "x-api-key": os.environ["ANTHROPIC_API_KEY"],
+                     "anthropic-version": "2023-06-01"})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                out = json.loads(resp.read())
+            answer = "".join(b.get("text", "") for b in out.get("content", []))
+        except Exception as e:
+            raise HTTPException(502, f"Claude API error: {e}")
+    else:
+        try:
+            proc = subprocess.run(["claude", "-p", "--model", "sonnet"],
+                                  input=prompt, capture_output=True,
+                                  text=True, timeout=300)
+        except subprocess.TimeoutExpired:
+            raise HTTPException(504, "claude CLI timed out")
+        if proc.returncode != 0:
+            raise HTTPException(502, "claude CLI failed: " +
+                                (proc.stderr or "")[-300:])
+        answer = proc.stdout.strip()
+    return {"symbol": sym, "question": question, "answer": answer}
 
 
 @app.post("/api/refresh")
