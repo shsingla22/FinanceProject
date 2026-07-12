@@ -4,7 +4,7 @@
 
 "use strict";
 
-const state = { fw: null, data: null, names: [] };
+const state = { fw: null, data: null, names: [], dynamic: false, ai: false };
 
 const MODULE_TOPICS = {
   CAP: ["capital allocation", "capex", "buyback", "dividend", "acquisition", "m&a", "working capital", "wc"],
@@ -26,12 +26,25 @@ const PARAM_TOPICS = {
 init();
 
 async function init() {
+  // Dynamic mode: if the FastAPI server is behind us, use live endpoints
+  // (skill recomputed at request time, concall text, optional AI qualitative).
+  try {
+    const h = await fetch("api/health").then(r => r.ok ? r.json() : null);
+    if (h && h.mode === "dynamic") { state.dynamic = true; state.ai = !!h.ai_qualitative; }
+  } catch (_) { /* static fallback */ }
+  const base = state.dynamic ? "api/" : "data/";
   const [fw, data] = await Promise.all([
-    fetch("data/framework.json").then(r => r.json()),
-    fetch("data/companies.json").then(r => r.json()),
+    fetch(base + (state.dynamic ? "framework" : "framework.json")).then(r => r.json()),
+    fetch(base + (state.dynamic ? "companies" : "companies.json")).then(r => r.json()),
   ]);
   state.fw = fw;
   state.data = data;
+  const sub = document.querySelector(".app-header .sub");
+  if (sub) sub.insertAdjacentHTML("afterend",
+    `<p class="note">${state.dynamic
+      ? "⚡ <strong>Dynamic mode</strong> — the skill runs live on the server per request" +
+        (state.ai ? ", AI qualitative analysis enabled." : "; set ANTHROPIC_API_KEY for AI qualitative analysis.")
+      : "📦 Static mode — precomputed snapshot (run server.py for live analysis)."}</p>`);
   state.names = Object.entries(data.companies).map(([sym, c]) => ({
     sym, name: c.name || sym,
     hay: (sym + " " + (c.name || "")).toUpperCase(),
@@ -237,8 +250,15 @@ function companyHeader(sym, co) {
     </div>`;
 }
 
-function renderCompany(sym) {
-  const co = state.data.companies[sym];
+async function renderCompany(sym) {
+  let co = state.data.companies[sym];
+  let excerpt = "";
+  if (state.dynamic) {
+    try {
+      const live = await fetch(`api/company/${sym}`).then(r => r.ok ? r.json() : null);
+      if (live) { co = live.record; state.data.companies[sym] = co; excerpt = co.concall_excerpt || ""; }
+    } catch (_) { /* fall back to cached */ }
+  }
   if (!co) return card(`<p>No data for ${esc(sym)}.</p>`);
   const sparkHtml = [
     sparkline("Sales (₹ Cr, FY series)", co.series.sales, ""),
@@ -259,7 +279,36 @@ function renderCompany(sym) {
     <h3>Module scorecard</h3>${moduleBars(co)}
     ${sparkHtml ? `<h3>Key trends</h3><div class="sparks">${sparkHtml}</div>` : ""}
     ${paramRows(co, null)}
-    ${mgmt}`);
+    ${mgmt}
+    ${excerpt ? `<h3>Latest concall (live extract)</h3>
+      <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}
+    ${state.dynamic && state.ai && co.concalls ? `
+      <p><button class="chip" id="aiBtn" data-sym="${sym}">🤖 Run AI qualitative analysis
+      (scores the ${state.fw.parameters.filter(p => p.nature !== "quantitative").length} text-based parameters from the concall)</button></p>
+      <div id="aiOut"></div>` : ""}`);
+  const btn = document.getElementById("aiBtn");
+  if (btn) btn.addEventListener("click", () => runQualitative(btn.dataset.sym));
+}
+
+async function runQualitative(sym) {
+  const out = document.getElementById("aiOut");
+  out.innerHTML = `<p class="note">Running the qualitative playbook over ${sym}'s latest concall via Claude…</p>`;
+  try {
+    const res = await fetch(`api/qualitative/${sym}`, { method: "POST" });
+    if (!res.ok) throw new Error((await res.json()).detail || res.status);
+    const data = await res.json();
+    const scored = data.scores.filter(s => s.score != null);
+    const byId = Object.fromEntries(state.fw.parameters.map(p => [p.id, p]));
+    let rows = scored.map(s => `<div class="prow">
+        <div class="pscore ${scoreCls(s.score)}">${fmtScore(s.score)}</div>
+        <div class="pbody"><div class="pn">${esc(byId[s.id]?.name || s.id)} <span class="tag">AI · concall</span></div>
+        <div class="pr">${esc(s.rationale)}${s.quote ? ` — <em>“${esc(s.quote)}”</em>` : ""}</div></div></div>`).join("");
+    out.innerHTML = `<h3>AI qualitative scores (${scored.length} of ${data.scores.length} assessable from the call)</h3>
+      <div class="params">${rows || "<p class='note'>The call text didn't support any parameter judgement.</p>"}</div>
+      <p class="note">Model: ${esc(data.model || "claude")} · every score cites the call; parameters the text is silent on stay unassessed.</p>`;
+  } catch (e) {
+    out.innerHTML = `<p class="note">AI analysis failed: ${esc(e.message)}</p>`;
+  }
 }
 
 function renderTopic(sym, topic) {

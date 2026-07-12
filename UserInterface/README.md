@@ -33,7 +33,51 @@ concalls/annual reports (the skill's qualitative playbook), which a static site
 cannot run — so every score is shown **with its coverage**, and unassessed
 parameters are listed explicitly, never guessed.
 
-## Hosting on GitHub Pages (one-time setup)
+## Two modes
+
+| | **Dynamic (recommended)** | Static |
+|---|---|---|
+| What runs | `server.py` (FastAPI) executes the skill **live per request** | precomputed `data/*.json` snapshot |
+| Freshness | edit a CSV → `POST /api/refresh` → answers change | frozen until `build_data.py` re-run |
+| Concall text | extracted from the PDFs **on demand** | not available |
+| AI qualitative scoring | ✅ with `ANTHROPIC_API_KEY` (Claude runs the playbook over the concall) | ❌ |
+| Hosting | GitHub **Codespaces** / any Python host | GitHub **Pages** |
+
+The same frontend serves both: `app.js` probes `/api/health` at load — if the
+server is there it switches to live endpoints, otherwise it falls back to the
+static JSON.
+
+## Dynamic hosting via GitHub Codespaces (runs the skill live)
+
+1. On the repo page: **Code → Codespaces → Create codespace** on this branch
+   (the `.devcontainer/` config installs everything automatically).
+2. In the codespace terminal:
+   ```bash
+   cd UserInterface && uvicorn server:app --host 0.0.0.0 --port 8000
+   ```
+3. Codespaces auto-forwards port 8000 and opens the browser — you're live.
+   Make the port **Public** (right-click the port → Port Visibility) to share
+   the URL with others.
+4. Optional AI mode: `export ANTHROPIC_API_KEY=sk-ant-...` before starting the
+   server → a "🤖 Run AI qualitative analysis" button appears on every company
+   with concalls, scoring the 30 text-based parameters live from the call.
+
+Dynamic locally is the same two commands. Other dynamic hosts that work
+unchanged: Render / Railway / Fly.io / Hugging Face Spaces (Docker) — start
+command `uvicorn server:app --host 0.0.0.0 --port $PORT` from `UserInterface/`.
+
+### Dynamic API endpoints
+
+| Endpoint | What it does |
+|---|---|
+| `GET /api/health` | mode, framework version, whether AI is enabled |
+| `GET /api/companies` | all 742 records — recomputed when CSVs change (mtime-stamped cache) |
+| `GET /api/company/{sym}` | **one record recomputed fresh right now** + latest-concall excerpt |
+| `GET /api/concall/{sym}` | transcript text extracted on demand from the merged PDF |
+| `POST /api/qualitative/{sym}` | Claude scores the qualitative parameters from the call (needs API key) |
+| `POST /api/refresh` | drop caches after refreshing the underlying CSVs |
+
+## Static hosting on GitHub Pages (one-time setup)
 
 1. Go to the repo's **Settings → Pages**.
 2. Under **Build and deployment → Source**, choose **GitHub Actions**.

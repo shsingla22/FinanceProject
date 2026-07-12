@@ -1,0 +1,8 @@
+{
+  "name": "Business Quality Analyst (dynamic)",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install -r UserInterface/requirements.txt",
+  "postAttachCommand": "echo 'Run: cd UserInterface && uvicorn server:app --host 0.0.0.0 --port 8000' ",
+  "forwardPorts": [8000],
+  "portsAttributes": { "8000": { "label": "Business Quality Analyst", "onAutoForward": "openBrowser" } }
+}
