@@ -685,6 +685,209 @@ def refresh():
     return {"ok": True, "message": "caches dropped; next request recomputes"}
 
 
+
+# ------------------------------------------------------------- MD report
+MODULE_FRIENDLY = {
+    "CAP": "How management spends the company's money",
+    "ROC": "How much the business earns on its capital",
+    "GRW": "Where the growth comes from",
+    "MGT": "The people running the company",
+    "IND": "The industry it competes in",
+    "CUS": "What customers get out of it",
+    "MOAT": "What protects it from competition",
+}
+MODULE_SHORT = {"CAP": "Capital Allocation", "ROC": "Return on Capital",
+                "GRW": "Growth", "MGT": "Management", "IND": "Industry Structure",
+                "CUS": "Customer Benefits", "MOAT": "Competitive Advantage"}
+WORD = {2: "Excellent", 1: "Good", 0: "Neutral", -1: "Weak", -2: "Poor"}
+SOURCE_FRIENDLY = {"quant": "from the financial statements",
+                   "ai_concall": "from the conference calls",
+                   "fused": "from the numbers and the calls together"}
+
+
+def _word(score):
+    if score is None:
+        return "Not assessed"
+    return WORD.get(int(max(-2, min(2, round(score)))), "Neutral")
+
+
+def _verdict_phrase(score):
+    if score is None:
+        return "Not assessed"
+    if score >= 1.25:
+        return "An excellent business"
+    if score >= 0.5:
+        return "A good business"
+    if score >= -0.25:
+        return "A mixed / average business"
+    if score >= -1.25:
+        return "A weak business"
+    return "A poor business"
+
+
+def render_report_md(sym: str, quick: bool = False) -> str:
+    """Compose the human-readable Markdown report from the SAME stored
+    analysis record the UI shows — every line traces to a captured
+    judgement; nothing is re-narrated."""
+    qual, qstatus = (None, "skipped_quick") if quick else _qual_scores_cached(sym)
+    rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
+    tl = concall_timeline(sym, budget=4)
+    fw_by_id = {p["id"]: p for p in _fw_json["parameters"]}
+    L: list[str] = []
+    A = L.append
+
+    A(f"# {rec['name']} ({sym}) — Business Quality Report")
+    A("")
+    A(f"**Verdict: {_verdict_phrase(rec['overall'])}**"
+      + (f" — quality score {rec['overall']:+.2f} on a scale of −2 (poor) "
+         f"to +2 (excellent)." if rec['overall'] is not None else "."))
+    A("")
+    facts = []
+    if rec.get("industry"):
+        facts.append(f"Industry: {rec['industry']}")
+    if rec.get("mcap"):
+        facts.append(f"Market value: ₹{rec['mcap']:,.0f} crore")
+    if rec.get("pe"):
+        facts.append(f"Price-to-earnings: {rec['pe']}")
+    if facts:
+        A(" · ".join(facts))
+        A("")
+    cov_line = (f"We assessed **{rec['coverage']:.0%} of the framework's 34 "
+                f"quality checks**")
+    cov_line += ("." if rec['coverage'] >= 0.995 else
+                 " — the checks the evidence could not answer are marked in "
+                 "each section rather than guessed.")
+    A(cov_line)
+    if rec.get("qualitative_included") and tl.get("n_calls"):
+        A("")
+        A(f"Evidence: the company's financial statements (about a decade), "
+          f"**{tl['n_calls']} quarterly earnings calls** "
+          f"({tl['from']} to {tl['to']}) read oldest-to-newest to check "
+          f"whether management delivered on its promises, and 5 years of "
+          f"leadership history from annual reports.")
+    A("")
+    A("## The verdict at a glance")
+    A("")
+    A("| Area | Verdict | Score | Checks done |")
+    A("|---|---|---|---|")
+    for m in _module_ids:
+        md = rec["modules"][m]
+        A(f"| {MODULE_SHORT[m]} | {_word(md['score'])} | "
+          f"{'—' if md['score'] is None else format(md['score'], '+.2f')} | "
+          f"{md['assessed']} of {md['total']} |")
+    A("")
+    A("**How the overall score is built:** each area's score is the simple "
+      "average of its assessed checks; the overall is a weighted average of "
+      "the areas (returns, industry structure and competitive protection "
+      "carry 25% extra weight). The exact arithmetic:")
+    calc = rec.get("overall_calc", "")
+    for mid, mname in MODULE_SHORT.items():
+        calc = calc.replace(f"{mid} ", f"{mname} ")
+    calc = calc.replace("weighted mean of assessed module scores",
+                        "weighted average of the assessed area scores")
+    A("")
+    A(f"> {calc}")
+    A("")
+
+    for m in _module_ids:
+        md = rec["modules"][m]
+        A(f"## {MODULE_SHORT[m]} — {_word(md['score'])}"
+          + (f" ({md['score']:+.2f})" if md['score'] is not None else ""))
+        A("")
+        A(f"*{MODULE_FRIENDLY[m]}.*")
+        A("")
+        assessed = [(pid, rec["params"][pid]) for pid in rec["params"]
+                    if fw_by_id.get(pid, {}).get("module") == m]
+        silent = [p for p in _fw_json["parameters"]
+                  if p["module"] == m and p["id"] not in rec["params"]]
+        for pid, got in assessed:
+            meta = fw_by_id.get(pid, {})
+            src = SOURCE_FRIENDLY.get(got.get("source", "quant"),
+                                      "from the financial statements")
+            A(f"**{meta.get('name', pid)} — {_word(got['score'])}** "
+              f"*({src})*")
+            A("")
+            rat = got["rationale"]
+            rat = rat.replace("From concall: ", "")
+            rat = rat.replace(" | Concall: ", " And from the calls: ")
+            A(rat)
+            q = got.get("quote") or ""
+            if q:
+                A("")
+                if re.search(r"FY\d{4}", q) and re.search(r"current|exited", q):
+                    A(f"> \"{q}\" — *from the annual-report leadership record*")
+                else:
+                    A(f"> \"{q}\" — *management, on an earnings call*")
+            A("")
+        if silent:
+            A("*Not assessed here (the evidence was silent — we never guess): "
+              + "; ".join(p["name"] for p in silent) + ".*")
+            A("")
+
+    if rec.get("mgmt_history"):
+        A("## Who has been running the company (last 5 annual reports)")
+        A("")
+        A("| Role | Name | Years seen | Still there? |")
+        A("|---|---|---|---|")
+        for m2 in rec["mgmt_history"][:10]:
+            nm = " ".join(str(m2["name"]).split())
+            A(f"| {m2['role']} | {nm} | {m2['years'] or '—'} | "
+              f"{'Yes' if m2['status'] == 'current' else 'No — exited'} |")
+        A("")
+        A("*A stable, long-tenured team is a quality signal; frequent exits — "
+          "especially the finance chief — are a warning sign. This table fed "
+          "the Management verdicts above.*")
+        A("")
+
+    series = rec.get("series") or {}
+    if any(series.get(k) for k in ("sales", "opm", "ccc")):
+        A("## The trend lines behind the numbers")
+        A("")
+        A("Yearly figures, oldest to latest:")
+        A("")
+        if series.get("sales"):
+            vals = [v for v in series["sales"] if v is not None]
+            A(f"- **Sales (₹ crore):** " + " → ".join(f"{v:,.0f}" for v in vals))
+        if series.get("opm"):
+            vals = [v for v in series["opm"] if v is not None]
+            A(f"- **Operating margin (%):** " + " → ".join(f"{v:.0f}" for v in vals))
+        if series.get("ccc"):
+            vals = [v for v in series["ccc"] if v is not None]
+            A(f"- **Days cash is tied up in the trade cycle:** "
+              + " → ".join(f"{v:.0f}" for v in vals)
+              + "  *(negative = customers pay before suppliers are due — good)*")
+        A("")
+
+    A("## How to read this report")
+    A("")
+    A("- Every verdict word maps to a score: Excellent (+2), Good (+1), "
+      "Neutral (0), Weak (−1), Poor (−2).")
+    A("- Every judgement above was captured at the moment of analysis with "
+      "its evidence — a number from the statements, or a quoted line from an "
+      "earnings call. Nothing was written after the fact.")
+    A("- Checks the evidence couldn't answer are marked, not guessed, and "
+      "they lower the coverage figure rather than the score.")
+    A("- This is research tooling over public data (screener.in-derived "
+      "statements, exchange-filed call transcripts). It is not investment "
+      "advice.")
+    A("")
+    A(f"*Generated by the Business Quality Analyst · framework v"
+      f"{_fw.version} · data through {tl.get('to') or 'latest fiscal year'}*")
+    return "\n".join(L)
+
+
+@app.get("/api/report/{sym}")
+def report(sym: str, quick: int = 0):
+    from fastapi.responses import Response
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    md = render_report_md(sym, quick=bool(quick))
+    return Response(content=md, media_type="text/markdown",
+                    headers={"Content-Disposition":
+                             f'attachment; filename="{sym}_quality_report.md"'})
+
+
 @app.on_event("startup")
 def warm_cache():
     """Compute the 742-company cache in the background at startup so the

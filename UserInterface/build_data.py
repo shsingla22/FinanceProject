@@ -82,15 +82,22 @@ def score_params(sig: dict, fw) -> list:
         val = v["value"].get("croci_proxy") or v["value"].get("roce_proxy")
     sc = tmap("croci", val)
     add("ROC.headline", "ROC", "quantitative", sc,
-        f"CROCI proxy (CFO / capital base) = {val:.1%}" if val is not None else
-        "insufficient data for return-on-capital proxy",
+        (f"For every ₹100 of capital in the business (shareholders' funds + "
+         f"borrowings), it generated ₹{val*100:.0f} of operating cash this "
+         f"year — a {val:.0%} cash return on capital."
+         if val is not None else
+         "Not enough data to work out the cash return on capital."),
         v["evidence"] if v["data_available"] else {}, val is not None)
 
     # ROC.asset_turn
     v = sig["ROC.asset_turn"]
     val = v["value"] if v["data_available"] else None
     add("ROC.asset_turn", "ROC", "hybrid", tmap("asset_turn", val),
-        f"Sales / Total Assets = {val:.2f}x" if val is not None else "no data",
+        (f"Every ₹1 of assets produces ₹{val:.2f} of sales — "
+         + ("an asset-light business." if val >= 1.0 else
+            "a fairly asset-heavy business." if val < 0.5 else
+            "a moderate asset intensity.")
+         if val is not None else "No data on asset intensity."),
         v["evidence"], val is not None)
 
     # ROC.profit_margin — mean of level score and stability score
@@ -103,9 +110,15 @@ def score_params(sig: dict, fw) -> list:
         parts = [x for x in (lvl, stb) if x is not None]
         if parts:
             sc = S.clamp(round(sum(parts) / len(parts)))
-            rat = (f"OPM {v['value'].get('opm_latest')}% (level score {lvl}), "
-                   f"OPM std {round(v['value'].get('opm_std') or 0, 1)} "
-                   f"(stability score {stb})")
+            opm_now = v['value'].get('opm_latest')
+            swing = round(v['value'].get('opm_std') or 0, 1)
+            lvl_txt = (f"Out of every ₹100 of sales, ₹{opm_now:.0f} is "
+                       f"operating profit. " if opm_now is not None else "")
+            rat = (lvl_txt + f"Margins have moved about ±{swing} points a year "
+                   + ("— very steady, a sign costs are under control."
+                      if swing <= 4 else
+                      "— sizeable swings, suggesting key costs are outside "
+                      "management's control."))
     add("ROC.profit_margin", "ROC", "quantitative", sc, rat,
         v["evidence"] if v["data_available"] else {}, sc is not None)
 
@@ -115,7 +128,14 @@ def score_params(sig: dict, fw) -> list:
     if v["data_available"] and isinstance(v["value"], dict):
         val = v["value"].get("ccc_latest")
     add("CAP.working_capital_cost", "CAP", "quantitative", tmap("ccc", val),
-        f"Cash Conversion Cycle = {val:.0f} days" if val is not None else "no WC data",
+        ((f"Cash comes back {abs(val):.0f} days BEFORE suppliers need to be "
+          f"paid — customers effectively fund the business (negative working "
+          f"capital, a rare strength)." if val <= 0 else
+          f"About {val:.0f} day{'s' if round(val) != 1 else ''} of cash "
+          f"stays stuck between paying suppliers and collecting from customers"
+          + (" — a short, healthy cycle." if val <= 30 else
+             " — a long cycle that ties up capital."))
+         if val is not None else "No working-capital data."),
         v["evidence"] if v["data_available"] else {}, val is not None)
 
     # GRW.persistence — stability score + band bonus
@@ -130,10 +150,16 @@ def score_params(sig: dict, fw) -> list:
             ystd = v["value"].get("yoy_std")
             if v["value"].get("in_10_15_band"):
                 sc = S.clamp(sc + 1)
-            rat = (f"Sales CAGR {cagr:.1%}" if cagr is not None else "Sales CAGR n/a")
-            rat += f", YoY std {ystd:.2f}" if ystd is not None else ""
-            rat += ("; inside the 10-15% consistency band (+1)"
-                    if v["value"].get("in_10_15_band") else "")
+            rat = (f"Sales have grown about {cagr:.0%} a year on average"
+                   if cagr is not None else "Average sales growth unavailable")
+            if ystd is not None:
+                rat += (", with very consistent year-to-year growth"
+                        if ystd <= 0.10 else
+                        ", but the growth is lumpy from year to year")
+            if v["value"].get("in_10_15_band"):
+                rat += (" — right inside the steady 10–15% band the framework "
+                        "prizes most")
+            rat += "."
     add("GRW.persistence", "GRW", "quantitative", sc, rat,
         v["evidence"] if v["data_available"] else {}, sc is not None)
 
@@ -143,7 +169,12 @@ def score_params(sig: dict, fw) -> list:
     if v["data_available"] and isinstance(v["value"], dict):
         val = v["value"].get("opm_std")
     add("IND.barriers_entry_rationality", "IND", "hybrid", tmap("opm_std", val),
-        f"OPM stability proxy: std = {val:.1f}" if val is not None else "no data",
+        ((f"Profit margins have barely moved over the years (±{val:.1f} points) "
+          f"— consistent with rational pricing and few new competitors."
+          if val <= 4 else
+          f"Profit margins swing by ±{val:.1f} points — a hint of price wars, "
+          f"cost shocks, or new entrants disturbing the industry.")
+         if val is not None else "No margin history to judge industry stability."),
         v["evidence"] if v["data_available"] else {}, val is not None)
 
     # CUS.intangible_benefits <- gross-margin proxy
@@ -152,7 +183,15 @@ def score_params(sig: dict, fw) -> list:
     if v["data_available"] and isinstance(v["value"], dict):
         val = v["value"].get("gross_margin_proxy")
     add("CUS.intangible_benefits", "CUS", "hybrid", tmap("gm_proxy", val),
-        f"Gross-margin proxy (100 - Material Cost %) = {val:.0f}%" if val is not None else "no data",
+        ((f"The product has essentially no direct input costs — nearly all "
+          f"of every ₹100 of sales is available for people, marketing and "
+          f"profit (typical of software / internet platforms)."
+          if val >= 95 else
+          f"After direct input costs, the company keeps ₹{val:.0f} of every "
+          f"₹100 of sales"
+          + (" — pricing power customers are happy to pay for." if val >= 40 else
+             " — thin pricing power; customers likely buy on price."))
+         if val is not None else "No input-cost data to judge pricing power."),
         v["evidence"] if v["data_available"] else {}, val is not None)
 
     # Every remaining framework parameter -> unassessed (qualitative playbook
@@ -161,8 +200,8 @@ def score_params(sig: dict, fw) -> list:
     for p in fw.parameters:
         if p.id not in done:
             add(p.id, p.module, p.nature, None,
-                "requires qualitative analysis (concalls / annual reports) — "
-                "not computable in the static build", {}, False)
+                "Needs a judgement call from the conference calls or annual "
+                "reports — the numbers alone can't answer this.", {}, False)
 
     return ps
 

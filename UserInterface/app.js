@@ -391,6 +391,8 @@ async function renderCompany(sym) {
     ${qualNote(co)}
     ${excerpt ? `<h3>Latest concall (live extract)</h3>
       <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}
+    <p><a class="chip" href="api/report/${sym}" download>📄 Download the full report (Markdown)</a>
+       <span class="note">— the same analysis as above, written up as a document you can keep or share.</span></p>
     ${state.ai ? `
       <h3>Ask about this verdict</h3>
       <form class="qa-form" data-sym="${sym}">
