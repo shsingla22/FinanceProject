@@ -1,0 +1,34 @@
+# Completeness guarantee: every pattern id and every quant check that MUST
+# exist. tests/test_patterns_complete.py cross-checks patterns.yaml and the
+# quant engine against this list — "no pattern missed" is machine-enforced.
+
+expected_patterns:
+  - RECURRING
+  - MIDDLEMAN
+  - TOLLROAD
+  - LOWPRICE
+  - PRICING
+  - BRAND
+  - INNOVATION
+  - FORWARD
+  - SHAREGAIN
+  - CULTURE
+  - MOATTEST
+expected_total: 11
+
+expected_core_checks:
+  - core_cash_generation
+  - core_return_on_capital
+  - core_growth
+
+expected_quant_checks:
+  - negative_working_capital
+  - low_capex_intensity
+  - cash_conversion_strength
+  - high_stable_margins
+  - rising_margins
+  - tollroad_economics
+  - lowprice_economics
+  - high_gross_margin
+  - margin_funded_growth
+  - growth_with_margins

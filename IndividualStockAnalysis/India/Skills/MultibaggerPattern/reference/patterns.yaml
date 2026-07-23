@@ -1,0 +1,275 @@
+# =============================================================================
+# MultibaggerPattern skill — CANONICAL PATTERN TAXONOMY
+# =============================================================================
+# Single source of truth, transcribed from `Multibagger_patterns.docx`.
+# tests/test_patterns_complete.py enforces that every pattern and trait from
+# the document is present (checklist.yaml is the authoritative list).
+#
+# Field contract per pattern:
+#   id / name / friendly     identifiers + the plain-English label users see
+#   description              faithful summary of the document
+#   traits                   the sub-patterns from the document
+#   quant_checks             ids of computable evidence checks (quant_evidence.py)
+#   qual_markers             what a judge should look for in concalls/ARs
+#   examples                 companies cited by the document, with their numbers
+#   red_flags                explicit anti-patterns from the document
+# =============================================================================
+
+version: "1.0.0"
+source_document: "Multibagger_patterns.docx"
+
+core_principle:
+  description: >
+    The foundation all multibagger patterns rest on: strong predictable cash
+    generation, sustainable high returns on capital, and attractive growth
+    opportunities. A company failing this gate is unlikely to be a durable
+    multibagger regardless of pattern fit.
+  quant_checks: [core_cash_generation, core_return_on_capital, core_growth]
+
+patterns:
+
+  - id: RECURRING
+    name: "Recurring Revenue (Product Upfront)"
+    friendly: "Sells once, earns forever"
+    description: >
+      Competitive advantage on the front-end sale PLUS recurring revenue after
+      it: license fees, service/maintenance contracts, subscriptions. The
+      recurring stream strengthens with installed-base density, is often billed
+      in advance (customers fund the business — negative working capital), and
+      needs little capital to grow.
+    traits:
+      - "License model — periodic fees follow the upfront purchase (SAP/Microsoft)"
+      - "Service model — repair/maintenance/overhaul after sale; strongest when contracts are bought upfront, mandated by law (elevators) or breakdown is economically catastrophic (ships, jet engines); product longevity extends it"
+      - "Subscriptions — valuable when differentiated (The Economist)"
+      - "Density and network benefits — a growing installed base makes service cheaper and better"
+      - "Economic effects — negative working capital, advance billing, low capex to grow"
+    quant_checks: [negative_working_capital, low_capex_intensity, cash_conversion_strength]
+    qual_markers:
+      - "Management describes attach rates, service/AMC revenue share, renewal rates, installed base"
+      - "Deferred revenue / customer advances discussed as a funding source"
+    examples:
+      - "KONE — ~90% service attach rate, ~30% service margin, very high return on capital; earnings compounded 13%/yr through the 2007–2010 new-orders decline"
+    red_flags: []
+
+  - id: MIDDLEMAN
+    name: "Friendly Middleman"
+    friendly: "The expert sells it for you"
+    description: >
+      A middleman (dentist, optometrist, plumber, installer) chooses or
+      recommends the product while the end customer pays — so price sensitivity
+      is low and quality reputation is everything. Lock-in comes from product
+      differentiation, the expert's reputation, and professional training that
+      creates switching costs.
+    traits:
+      - "Helping hand — professionals bundle the product with their own service (Essilor via optometrists)"
+      - "Lock-in — differentiation, expert reputation, training on one technique (switching cost)"
+    quant_checks: [high_stable_margins, rising_margins]
+    qual_markers:
+      - "Sales driven through professionals/installers/prescribers rather than end-customer marketing"
+      - "Training programmes for the trade; relationship investment in the channel"
+    examples:
+      - "Geberit — behind-the-wall plumbing chosen by plumbers who are price-insensitive; operating margin grew 14% (2002) to 24% (2014), ROCE 14% to 35%"
+    red_flags: []
+
+  - id: TOLLROAD
+    name: "Toll Roads"
+    friendly: "Small cost, can't skip it"
+    description: >
+      Niche suppliers whose product is a tiny share of the customer's cost base
+      but crucial to their operations — so customers pay without negotiating.
+      Gold standards (audit, ratings, testing/certification, training standards)
+      and magic ingredients (enzymes, flavours, industrial gases). Usually
+      rational oligopolies.
+    traits:
+      - "Gold standards — ratings agencies, financial audit, supply-chain testing (SGS/Intertek), consumer reviews, tools learned in school (Excel)"
+      - "Magic ingredients — low-cost inputs of high value: enzymes, flavours & fragrances, industrial gases"
+      - "Industry structure — oligopoly, uniform products, rational decade-long competition"
+    quant_checks: [tollroad_economics, high_stable_margins]
+    qual_markers:
+      - "Product is <1-2% of customer cost but critical; customers 'don't switch once converted'"
+      - "Certification/standards language; industry-body or regulatory anchoring"
+    examples:
+      - "CHR. Hansen — cultures/enzymes, cost rarely >1% of customer's; ~45% market share funds R&D; operating margin >25%, ROCE >35%, sales growth 8%"
+    red_flags: []
+
+  - id: LOWPRICE
+    name: "Low Price Plus"
+    friendly: "Cheapest — and still the best"
+    description: >
+      Low price combined with quality/differentiation and a cost culture that
+      is very hard to copy. Scale is essential. Low margins per unit but high
+      asset turns and strong returns. Includes the bank variant: cheap deposits,
+      low operating cost, high-quality loans.
+    traits:
+      - "Low price by name — the brand IS low-price + quality (IKEA, ZARA, H&M)"
+      - "Scale is essential — thousands of inputs, supply-chain control, inventory mastery"
+      - "Low cost squared — culture of many small savings in every process (Costco, Ryanair)"
+      - "Bank variant — low operating cost + cheap deposit funding + high-quality loans = good net interest margins (Wells Fargo, Svenska Handelsbanken)"
+    quant_checks: [lowprice_economics]
+    qual_markers:
+      - "Cost obsession in the culture, itemised savings; no-frills choices customers accept"
+      - "Passing savings to price while keeping returns via volume/turns"
+    examples:
+      - "Costco — cheap buildings, no shelving frills, no bags; Ryanair — unit cost half of rivals, secondary airports, uniform fleet bought opportunistically"
+    red_flags: []
+
+  - id: PRICING
+    name: "Pricing Power"
+    friendly: "Raises prices, keeps the customers"
+    description: >
+      Regularly raises prices above cost inflation without losing volume,
+      lifting both top and bottom line. Usually paired with stable-high and
+      rising gross margins and brand power. Variants: conditional pricing power
+      (locked-in aftermarket), pricing-for-value (price rises tied to customer
+      benefit). The OPPOSITE — price deflation — must be avoided.
+    traits:
+      - "Price rises above inflation with no volume decline; often bundled with product improvements"
+      - "Stable high gross margins, increasing gross margins"
+      - "Conditional pricing power — pricing power on the recurring sale once the upfront sale is won (aircraft engines); underappreciated by markets"
+      - "Pricing for value — capture a share of the value created (software; Monsanto keeps ~1/3 of the yield benefit)"
+    quant_checks: [high_gross_margin, rising_margins]
+    qual_markers:
+      - "Explicit price increases discussed without volume loss; premiumisation language"
+      - "Scarcity or waiting lists; price elasticity described as negligible"
+    examples:
+      - "Hermès — premium even among luxury; >80% sales in own stores; operating margin >30%, ROCE >30%, sales 11% CAGR with worst-year +4% (2009)"
+    red_flags:
+      - "Price deflation — prices falling despite volume growth (technology hardware); tolerable short-term, negative long-run"
+
+  - id: BRAND
+    name: "Brand Strength"
+    friendly: "The name itself sells"
+    description: >
+      Brands with heritage (which competitors cannot replicate), trust from
+      consistent delivery, and scale advantages in marketing and distribution.
+      Brand strength shows up as market-share gain PLUS premium pricing, can be
+      stretched into adjacent categories, and its durability can be tested.
+    traits:
+      - "Heritage — brands that improve with age, often geography-tied (Cartier, Ray-Ban, Cognac)"
+      - "Trust and consistency — an implicit promise honoured every time (McDonald's)"
+      - "Danger of innovation — new entrants can dethrone brands (Nintendo vs Xbox/PlayStation)"
+      - "Scale advantages — bigger A&P budgets, control over distributors, partner-of-choice status"
+      - "Brand used to drive growth — adjacencies (Hermès/LVMH into new categories, Oakley refresh cycles)"
+      - "Portfolio of brands — P&G/Unilever style scale in innovation + marketing"
+      - "Longevity — brand durability as the test of strength"
+    quant_checks: [high_gross_margin, high_stable_margins]
+    qual_markers:
+      - "Heritage/провenance story; large sustained A&P spend; distributor leverage"
+      - "Consistency promise; adjacency launches under the same name"
+    examples:
+      - "Diageo — deep heritage + ~$2.5bn marketing; Scotch's 3-year aging is a legal barrier; ~30% share makes it distributors' partner of choice; ~60% gross margin, ~30% operating margin"
+    red_flags:
+      - "Fast innovation cycles in the category can erode heritage brands"
+
+  - id: INNOVATION
+    name: "Innovation Dominance"
+    friendly: "Out-inventing the competition"
+    description: >
+      High gross margins fund outsized R&D / marketing / distribution, which in
+      turn drives volume growth and pricing power. Attractive when innovation
+      is profitable, regular (culture), and sustained; R&D-led dominance shows
+      as a large relative share of industry R&D. Incremental innovation gives
+      more predictable earnings than breakthrough bets.
+    traits:
+      - "Innovation culture — a stream of regular, profitable product improvements"
+      - "Value benefits — premiumisation path, easiest for status goods"
+      - "Volume benefits — for price/taste-driven products (Coca-Cola flavours, Corn Flakes)"
+      - "Corporate customers — tangible, incremental innovation sells (energy-saving appliances)"
+      - "Sustainability — industries with no innovation in 5 years rarely start; track records persist (Colgate)"
+      - "R&D-led — large relative share of industry R&D (Essilor ~75%); know R&D as % of revenue"
+    quant_checks: [high_gross_margin, margin_funded_growth]
+    qual_markers:
+      - "Named new products each year with revenue impact; R&D spend disclosed and growing"
+      - "Share of industry R&D; pipeline language; premiumisation from innovation"
+    examples:
+      - "Novo Nordisk — ~half the global insulin market; 12% revenue / 19% earnings CAGR; R&D ~$2bn (6x in 20 years); ROCE ~70%, operating margin ~40%"
+    red_flags:
+      - "Innovation with declining margins — R&D spend not recovered in price/volume"
+
+  - id: FORWARD
+    name: "Forward Integrators"
+    friendly: "Owns the shop, not just the product"
+    description: >
+      Manufacturers who move toward the customer: own stores, franchising,
+      licensing, direct e-commerce. Gains control of experience and pricing, a
+      mini-monopoly on shelf space, prime-location defence, easier market
+      entry, and bargaining scale. Franchising is the ultimate brand-power
+      expression — third parties fund the growth.
+    traits:
+      - "Store ownership (Luxottica/Sunglass Hut, LVMH); franchising (Marriott, Holiday Inn ~5% royalty; InterContinental ~80% EBIT margin); licensing; e-tail (Nike >$1bn online)"
+      - "Strategic value — own the customer experience, name your own price, no rival brands on your shelf"
+      - "Offense and defence — prime locations others cannot replicate; entry into new markets; scale with stakeholders"
+      - "Franchising requires — economics good enough for franchisees + minimum corporate scale"
+      - "Physical + online — strong brands sell direct; logistics is the hard part; stores enhance the brand (Apple, Nespresso)"
+    quant_checks: [rising_margins, high_stable_margins]
+    qual_markers:
+      - "Own-store count/share of sales; franchise royalties; D2C revenue share and logistics investment"
+    examples:
+      - "Luxottica — manufacturing → wholesale → retail; value no longer leaks through the chain; retail power won licenses (Armani, Chanel, Polo) and made acquisitions synergistic"
+    red_flags:
+      - "Retail forward integration is fixed-cost heavy — only works with strong brands"
+
+  - id: SHAREGAIN
+    name: "Market Share Gainers"
+    friendly: "Winning customers from rivals"
+    description: >
+      Persistent share gain is a quality signal in itself: growth becomes less
+      macro-dependent and the largest player commands the largest budgets and
+      stakeholder leverage. But share bought with profitability, credit
+      standards, or bad underwriting is worthless.
+    traits:
+      - "Power of share — macro-independent growth, biggest R&D/A&P budgets, supplier/distributor leverage"
+      - "Global capabilities — experience, differentiation, adaptability to local taste (Yum!)"
+    quant_checks: [growth_with_margins]
+    qual_markers:
+      - "Explicit share numbers rising over time; share vs named competitors"
+      - "International expansion with local adaptation"
+    examples:
+      - "Fielmann — ~50% German optical share; 20x frames per store vs rivals; ~20% margins despite lower prices"
+      - "Inditex — 88 countries, 81% of sales outside Spain, ~80% full-price sell-through vs industry ~65%"
+    red_flags:
+      - "Share gained by sacrificing price/gross margin (unless a committed low-cost producer)"
+      - "Bank share via lowered credit standards; insurance share via bad underwriting"
+
+  - id: CULTURE
+    name: "Corporate Culture"
+    friendly: "A culture that compounds"
+    description: >
+      Trustworthy, long-term-minded, execution-focused cultures — often with
+      family or employee ownership. Discloses bad news promptly, learns from
+      mistakes publicly, allocates to organic capex/R&D/brand for the long
+      term, measures itself on return on capital, and delivers what it
+      promised.
+    traits:
+      - "Trustworthiness — prompt bad-news disclosure; discusses own mistakes"
+      - "Long-term thinking — organic investment; ROC-based incentives; patience in new markets"
+      - "Execution — on-time delivery, no cost surprises, no skeletons in past acquisitions"
+      - "Family/employee ownership — risk aversion, decentralisation, organic growth (Svenska Handelsbanken)"
+    quant_checks: []
+    qual_markers:
+      - "Owning mistakes on calls; promises made in old calls delivered in later ones"
+      - "Stable long-tenured leadership; conservative balance sheet through cycles"
+    examples:
+      - "Svenska Handelsbanken — 'the branch is the bank'; employees among largest shareholders; superior credit costs through 2008"
+    red_flags: []
+
+  - id: MOATTEST
+    name: "Cost to Replicate"
+    friendly: "Could a newcomer copy this?"
+    description: >
+      The cross-cutting test: what would it take a new entrant to remove the
+      advantage? Time-based barriers (aged spirits), billion-dollar R&D (jet
+      engines), un-replicable data scale (Experian), and finite locations
+      (ports, airports) all pass; anything a well-funded copycat could rebuild
+      in a few years fails.
+    traits:
+      - "Time barriers — aging requirements, accumulated reputation"
+      - "Capital/R&D barriers — entry costs measured in billions"
+      - "Data/scale barriers — databases that grow more valuable and less replicable"
+      - "Location barriers — finite physical assets whose value keeps rising"
+    quant_checks: []
+    qual_markers:
+      - "A concrete, articulable reason a newcomer with money still could not catch up"
+    examples:
+      - "Experian — credit-history database at un-replicable scale; brown spirits vs vodka/gin; jet engines; ports & airports"
+    red_flags: []
