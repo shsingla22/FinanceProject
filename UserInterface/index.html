@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Business Quality Analyst — Nifty Total Market</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>">
+</head>
+<body>
+<header class="app-header">
+  <div class="wrap">
+    <h1>📊 Business Quality Analyst</h1>
+    <p class="sub">Ask in plain English. Powered by the 34-parameter quality-investing
+    framework over 742 Nifty Total Market companies — balance sheets, P&amp;L,
+    cash flow, working capital, management &amp; concall data.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="ask">
+    <form id="askForm" autocomplete="off">
+      <input id="q" type="text" placeholder="e.g. Analyse Dixon Technologies · best 10 companies · compare TITAN and DMART · working capital of Ixigo"
+             aria-label="Ask a question in natural language">
+      <button type="submit">Ask</button>
+    </form>
+    <div class="chips" id="chips">
+      <button class="chip" data-q="select the best 10 companies">🏆 Best 10 companies</button>
+      <button class="chip" data-q="analyse DIXON">Analyse DIXON</button>
+      <button class="chip" data-q="compare TITAN and DMART">Compare TITAN vs DMART</button>
+      <button class="chip" data-q="working capital of IXIGO">Working capital of IXIGO</button>
+      <button class="chip" data-q="best companies by return on capital">Top by return on capital</button>
+      <button class="chip" data-q="explain the framework">What's the framework?</button>
+    </div>
+  </section>
+
+  <section id="out" class="out" aria-live="polite">
+    <div class="card intro">
+      <h2>How to use</h2>
+      <ul>
+        <li><strong>Analyse a company</strong> — “analyse DIXON”, “tell me about Titan”, or just type a company name.</li>
+        <li><strong>Select / rank companies</strong> — “best 10 companies”, “top 5 by growth”, “select good businesses in PHARMA”.</li>
+        <li><strong>Compare</strong> — “compare TITAN and DMART”.</li>
+        <li><strong>Drill into a topic</strong> — “working capital of IXIGO”, “margins of ASIANPAINT”, “management of INFY”.</li>
+        <li><strong>Understand the method</strong> — “explain the framework”, “explain return on capital”.</li>
+      </ul>
+      <p class="note">Every analysis runs the BusinessAnalysis skill live on the server:
+      quantitative signals from the financial statements PLUS the qualitative playbook over the
+      company's latest conference call (via Claude). Parameters the call is silent on stay
+      <em>not assessed</em> — coverage is reported honestly next to every score.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p>Data: screener.in-derived statements (FY15–FY26), live market caps, concall transcripts, management history ·
+  Framework: <code>Skills/BusinessAnalysis</code> · Scores −2…+2 · This is research tooling, not investment advice.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
