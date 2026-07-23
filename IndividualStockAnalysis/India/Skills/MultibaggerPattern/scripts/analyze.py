@@ -7,7 +7,9 @@ Modes:
   python3 analyze.py company SYMBOL         full analysis of one company
                                             (add --ai to run the qualitative
                                             judge over its concalls via the
-                                            Claude Code CLI — no timeout)
+                                            Claude Code CLI — no timeout;
+                                            model via MB_JUDGE_MODEL,
+                                            default "fable")
   python3 analyze.py report SYMBOL out.md   write the human-readable report
 
 The qualitative judge reads the company's merged concall transcript (sampled
@@ -20,6 +22,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
@@ -36,6 +39,7 @@ INDIA = QE.INDIA
 UNIVERSE = QE.UNIVERSE
 CACHE = HERE.parent / ".qual_cache.json"
 CALL_HEADER_RE = re.compile(r"Call:\s+([A-Z][a-z]{2}\s+\d{4})")
+JUDGE_MODEL = os.environ.get("MB_JUDGE_MODEL", "fable")
 
 
 # ------------------------------------------------------------- qualitative
@@ -115,7 +119,7 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
     pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
     if not pdf.exists():
         return None
-    stamp = f"{pdf.stat().st_mtime}:v1"
+    stamp = f"{pdf.stat().st_mtime}:v1:{JUDGE_MODEL}"
     cache = {}
     if CACHE.exists():
         try:
@@ -129,7 +133,7 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
     prompt = _qual_prompt(sym, tax)
     if prompt is None:
         return None
-    proc = subprocess.run(["claude", "-p", "--model", "opus"],
+    proc = subprocess.run(["claude", "-p", "--model", JUDGE_MODEL],
                           input=prompt, capture_output=True, text=True,
                           timeout=None)
     if proc.returncode != 0:
