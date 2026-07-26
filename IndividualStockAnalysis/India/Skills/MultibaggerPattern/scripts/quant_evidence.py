@@ -173,14 +173,15 @@ def compute_checks(sym: str, base: Path = INDIA, universe: str = UNIVERSE) -> di
         latest = (ccc or wcd)[-1]
         neg = latest <= 0
         near = latest <= 15
+        day = lambda n: f"{abs(n):.0f} day" + ("" if round(abs(n)) == 1 else "s")
         out["negative_working_capital"] = _check(
             neg or near, {"cycle_days": latest},
             (f"Customers effectively fund the business — cash arrives "
-             f"{abs(latest):.0f} days before suppliers are paid."
+             f"{day(latest)} before suppliers are paid."
              if neg else
-             f"Only about {latest:.0f} days of cash is tied up in the trade "
+             f"Only about {day(latest)} of cash is tied up in the trade "
              f"cycle." if near else
-             f"About {latest:.0f} days of cash is tied up in the trade cycle "
+             f"About {day(latest)} of cash is tied up in the trade cycle "
              f"— customers are not funding the business."))
     else:
         out["negative_working_capital"] = _check(None, None,
@@ -213,14 +214,20 @@ def compute_checks(sym: str, base: Path = INDIA, universe: str = UNIVERSE) -> di
     opm_std = _std(g["opm"])
     if opm and opm_std is not None:
         lvl = opm[-1]
+        ok = lvl >= 18 and opm_std <= 5
+        if ok:
+            expl = (f"Operating margin of {lvl:.0f}% moving only "
+                    f"±{opm_std:.1f} points a year — the steady, protected "
+                    f"profitability these patterns produce.")
+        elif lvl < 18:
+            expl = (f"Operating margin of {lvl:.0f}% — too thin for a "
+                    f"protected franchise.")
+        else:
+            expl = (f"Operating margin of {lvl:.0f}% but swinging "
+                    f"±{opm_std:.1f} points a year — too volatile for a "
+                    f"protected franchise.")
         out["high_stable_margins"] = _check(
-            lvl >= 18 and opm_std <= 5,
-            {"operating_margin": lvl, "swing": opm_std},
-            f"Operating margin of {lvl:.0f}% moving only ±{opm_std:.1f} points "
-            f"a year" + (" — the steady, protected profitability these "
-                         "patterns produce." if lvl >= 18 and opm_std <= 5 else
-                         " — either too thin or too volatile for a protected "
-                         "franchise."))
+            ok, {"operating_margin": lvl, "swing": opm_std}, expl)
     else:
         out["high_stable_margins"] = _check(None, None, "No margin history.")
 
@@ -259,11 +266,13 @@ def compute_checks(sym: str, base: Path = INDIA, universe: str = UNIVERSE) -> di
         turns = sales[-1] / ta[-1]
         med_roce = sorted(roce)[len(roce) // 2] if roce else None
         ok = gm[-1] <= 35 and turns >= 1.2 and (med_roce or 0) >= 15
+        lead = ("Has essentially no direct input costs" if gm[-1] >= 95 else
+                f"Keeps ₹{gm[-1]:.0f} of every ₹100 of sales after input "
+                f"costs")
         out["lowprice_economics"] = _check(
             ok, {"gross_margin": gm[-1], "asset_turns": turns,
                  "median_roce": med_roce},
-            f"Keeps ₹{gm[-1]:.0f} of every ₹100 of sales after input costs, "
-            f"but turns its assets {turns:.1f}× a year"
+            f"{lead} and turns its assets {turns:.1f}× a year"
             + (f" with {med_roce:.0f}% returns on capital — thin margins made "
                f"up on volume, the low-price-winner profile." if ok else
                " — not the high-turnover, low-margin machine this pattern "
@@ -273,20 +282,31 @@ def compute_checks(sym: str, base: Path = INDIA, universe: str = UNIVERSE) -> di
 
     if gm:
         gm_now = gm[-1]
+        if gm_now >= 95:
+            expl = ("Essentially no direct input costs — typical of software "
+                    "and internet platforms — leaving ample room to fund "
+                    "brand, R&D and price leadership.")
+        elif gm_now >= 45:
+            expl = (f"Keeps ₹{gm_now:.0f} of every ₹100 of sales after "
+                    f"direct input costs — room to fund brand, R&D and "
+                    f"price leadership.")
+        else:
+            expl = (f"Keeps ₹{gm_now:.0f} of every ₹100 of sales after "
+                    f"direct input costs — limited pricing headroom.")
         out["high_gross_margin"] = _check(
-            gm_now >= 45, {"gross_margin": gm_now},
-            f"Keeps ₹{gm_now:.0f} of every ₹100 of sales after direct input "
-            f"costs" + (" — room to fund brand, R&D and price leadership."
-                        if gm_now >= 45 else " — limited pricing headroom."))
+            gm_now >= 45, {"gross_margin": gm_now}, expl)
     else:
         out["high_gross_margin"] = _check(None, None, "No input-cost data.")
 
     if gm and scagr is not None:
         ok = gm[-1] >= 45 and scagr >= 0.08
+        gm_word = ("Near-total retained margin" if gm[-1] >= 95 else
+                   f"High retained margin ({gm[-1]:.0f}% of sales)"
+                   if gm[-1] >= 45 else
+                   f"Thin retained margin ({gm[-1]:.0f}% of sales)")
         out["margin_funded_growth"] = _check(
             ok, {"gross_margin": gm[-1], "sales_cagr": scagr},
-            f"High retained margin (₹{gm[-1]:.0f}/₹100) alongside {scagr:.0%} "
-            f"yearly growth"
+            f"{gm_word} alongside {scagr:.0%} yearly growth"
             + (" — the profitable-innovation flywheel: margins fund the "
                "spending that drives the growth." if ok else
                " — the flywheel is incomplete."))

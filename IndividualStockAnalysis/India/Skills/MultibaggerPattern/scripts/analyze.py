@@ -176,9 +176,16 @@ def render_report(rec: dict, name: str = "") -> str:
     g = rec["core_gate"]
     gate_word = {"PASS": "passes", "PARTIAL": "partly passes",
                  "FAIL": "fails", "UNKNOWN": "could not be tested against"}[g["status"]]
-    A(f"**Foundation test:** the company {gate_word} the core multibagger "
-      f"foundation (predictable cash + high returns on capital + growth), "
-      f"{g['passed']} of {g['of']} checks passing:")
+    untested = sum(1 for c in g["checks"] if c["passed"] is None)
+    line = (f"**Foundation test:** the company {gate_word} the core "
+            f"multibagger foundation (predictable cash + high returns on "
+            f"capital + growth), {g['passed']} of {g['of']} "
+            f"{'testable ' if untested else ''}checks passing")
+    if untested:
+        line += (f" — note that {untested} of the 3 foundation checks could "
+                 f"not be judged because the company has too little listed "
+                 f"history")
+    A(line + ":")
     A("")
     for c in g["checks"]:
         mark = "✅" if c["passed"] else ("❌" if c["passed"] is False else "⬜")
