@@ -46,7 +46,7 @@ verdict per pattern on a fixed ladder:
 | `reference/checklist.yaml` | completeness guarantee (tests fail if a pattern or check goes missing) |
 | `scripts/quant_evidence.py` | computable checks over the stored CSVs; every check returns value + plain-English explanation |
 | `scripts/pattern_engine.py` | taxonomy loader/validator, deterministic verdict combiner, core gate, explainable record |
-| `scripts/analyze.py` | CLI: `screen` the universe · `company SYM [--ai]` · `report SYM out.md [--ai]`; the `--ai` judge reads the concall timeline + management history via headless Claude (Fable by default, `MB_JUDGE_MODEL` to override; no timeout, cached per transcript+model) |
+| `scripts/analyze.py` | CLI: `screen` the universe · `company SYM [--ai]` · `report SYM out.md [--ai]`; the `--ai` judge reads the concall timeline + management history via headless Claude (Opus by default, `MB_JUDGE_MODEL` to override; no timeout, cached per transcript+model) |
 | `tests/test_skill.py` | 14 tests: completeness, synthetic profiles shaped like the document's examples, verdict ladder, explainability contract, report jargon scan, real-data integration |
 
 ## How the conclusion is reached (built-in explainability)

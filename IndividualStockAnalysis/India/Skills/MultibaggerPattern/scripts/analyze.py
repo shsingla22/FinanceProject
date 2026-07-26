@@ -9,7 +9,7 @@ Modes:
                                             judge over its concalls via the
                                             Claude Code CLI — no timeout;
                                             model via MB_JUDGE_MODEL,
-                                            default "fable")
+                                            default "opus")
   python3 analyze.py report SYMBOL out.md   write the human-readable report
 
 The qualitative judge reads the company's merged concall transcript (sampled
@@ -39,7 +39,7 @@ INDIA = QE.INDIA
 UNIVERSE = QE.UNIVERSE
 CACHE = HERE.parent / ".qual_cache.json"
 CALL_HEADER_RE = re.compile(r"Call:\s+([A-Z][a-z]{2}\s+\d{4})")
-JUDGE_MODEL = os.environ.get("MB_JUDGE_MODEL", "fable")
+JUDGE_MODEL = os.environ.get("MB_JUDGE_MODEL", "opus")
 
 
 # ------------------------------------------------------------- qualitative
