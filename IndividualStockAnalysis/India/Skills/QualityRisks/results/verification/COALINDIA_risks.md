@@ -2,7 +2,7 @@
 
 **Material risks found:** Government Dependency (*Fortunes decided in Delhi*); Cyclicality (*Boom-and-bust earnings*); Stakeholder Concentration (*Too few customers, suppliers or channels*); New Entrants (*A new player changes the rules*)
 
-**Financial resilience:** the balance sheet and cash engine shows no financial stress:
+**Financial resilience:** the balance sheet and cash engine shows no financial stress — none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.
 
 - ✅ Borrowings are 0.1× shareholders' funds — the balance sheet is not the problem.
 - ✅ About 66% of recent operating profit became cash — earnings are still backed by cash.
@@ -11,6 +11,8 @@
 ---
 ## Government Dependency — HIGH RISK
 *"Fortunes decided in Delhi" · High risk — the calls and the numbers both point here*
+
+**Why this severity:** the calls show clear, repeated exposure; this risk has no numeric fingerprint to cross-check, so it is judged from the calls alone.
 
 **What the calls show:** Essentially every profit lever is government-set: notified prices (all e-auction and bridge-linkage premiums are quoted as percentages 'over the non-power sector notified prices'), the Ministry of Coal cutting the FY25 target from 850mt to 838mt, the Shakti policy being rewritten again in 2025, state royalty hikes of Rs.150/t at CCL after a Supreme Court ruling, and EC/FC clearance delays plus land acquisition repeatedly cited as the direct cause of volume shortfalls at SECL and CCL. It is a state-owned Maharatna in fixed-mining infrastructure dependent on Indian Railways for evacuation — the archetype the risk describes.
 
@@ -21,6 +23,8 @@
 
 ## Cyclicality — ELEVATED
 *"Boom-and-bust earnings" · Elevated — meaningful exposure, keep it front of mind*
+
+**Why this severity:** the calls show clear exposure, but none of the 3 computed fingerprints confirms it in the numbers yet — held one step below the top severity.
 
 **What the calls show:** Coal India is a pure commodity producer whose marginal profitability sits in e-auction premiums, which management itself tracks as swinging from 250-300% in the shortage years to ~116% in Q3FY24, then 36-50% by Feb 2024 and 43% by Q4FY25 — and it explicitly links premiums to imported coal prices and 'seasonal or cyclical' demand rather than base load. Volumes also went from 11-12% growth in FY24 to flat in FY25 on rainfall, land and clearance slippages, while capex ran at INR16,500-17,500 crore and an INR80,000 crore programme through a period of decelerating demand — the classic expansionary over-investment pattern.
 
@@ -35,6 +39,8 @@
 ## Stakeholder Concentration — ELEVATED
 *"Too few customers, suppliers or channels" · Elevated — meaningful exposure, keep it front of mind*
 
+**Why this severity:** the calls show clear exposure, but none of the 1 computed fingerprints confirms it in the numbers yet — held one step below the top severity.
+
 **What the calls show:** Management concedes 80-82% of supplies went to a single customer sector — power, mostly state and central gencos on nomination/linkage — and is deliberately trying to reset the mix to 75/25. Evacuation is equally concentrated on one supplier, Indian Railways: shortfalls at Talcher and Korba are attributed to '4 to 5 racks' less per day, and the Jharsuguda-Barpali line originally due Sept 2023 was still not operational in May 2025.
 
 > "80 to 82% of supplies were being sent to power sector while non-power was only hardly getting around 18 to 20%" — *management, on an earnings call*
@@ -45,6 +51,8 @@
 
 ## New Entrants — ELEVATED
 *"A new player changes the rules" · Elevated — meaningful exposure, keep it front of mind*
+
+**Why this severity:** the calls show clear exposure, but none of the 2 computed fingerprints confirms it in the numbers yet — held one step below the top severity.
 
 **What the calls show:** Government auctioning of captive and commercial blocks has created a structurally different set of competitors that management states plainly will take its volume: 198mt in FY25 rising to a projected 320mt by FY30 against a peak rated capacity of ~500mt. The consequence is already visible — e-auction bookings fell from near 100% in FY22 to 63% last year, forcing Coal India to offer more quantity into a market where 'consumers are becoming choosy'.
 
@@ -58,6 +66,8 @@
 ## Technological Innovation — WATCH
 *"Out-invented by the industry" · Worth watching — some exposure visible in the calls*
 
+**Why this severity:** the calls show real but bounded exposure while the numbers stay quiet.
+
 **What the calls show:** Analysts pressed directly on renewables displacing coal demand ('there is growth of renewables and all, so coal demand per se... can it meet the supply growth?') and management answered only with near-term demand assurances plus a visible plateau in its own long-range plan (1.0 BT in FY29-30 rising only to 1.227 BT five years later, 'depending on that call we will take... whether the demand is actually saturated'). The threat is slow-moving and the installed base is deep, but it is a whole-format energy shift the incumbent cannot out-innovate.
 
 > "from 1 BT to 1.1 BT, there is slightly a plateau which is happening... whether the growth is required or whether the demand is actually saturated in the market" — *management, on an earnings call*
@@ -70,6 +80,8 @@
 ## Shifting Consumer Preferences — WATCH
 *"The customer is changing" · Worth watching — some exposure visible in the calls*
 
+**Why this severity:** the calls show real but bounded exposure while the numbers stay quiet.
+
 **What the calls show:** The demand base is exposed to the energy-transition shift in public and policy attitudes, and management responds in the classic pivot idiom — a net-zero commitment, 3,000MW of solar, and repeated emphasis that FMC projects cut dust and NOx emissions by 75-80% and that underground mining leaves 'land degradation almost nil'. But no volume decline in the calls is attributed to changing attitudes; the erosion is prospective, not observed.
 
 > "Our net zero is, we have to go by 3,000 megawatts" — *management, on an earnings call*
@@ -80,6 +92,8 @@
 
 ## Good Enough Goods — WATCH
 *"Cheaper rivals that are good enough" · Worth watching — some exposure visible in the calls*
+
+**Why this severity:** the calls show real but bounded exposure while the numbers stay quiet.
 
 **What the calls show:** Coal India's product is undifferentiated and disadvantaged on quality — management concedes Indian coal runs ~42% ash versus 8-10% internationally and that BCCL coking coal 'cannot entirely substitute the imported coal because of the ash content' — so it competes on landed cost against imports and, increasingly, against captive coal produced at consumers' own cost. The premium it does earn is a policy artefact (percentage over notified price), not brand or technical protection, and it is visibly eroding as buyers gain alternatives.
 
@@ -93,6 +107,8 @@
 
 ## Fashion Risk — NO SIGNAL
 *"Cool today, uncool tomorrow" · No signal — nothing points to this risk today*
+
+**Why this severity:** the judge read the calls and found nothing, and all 2 computed fingerprints are clean.
 
 - ✅ Sales fell in only 2 of the last 11 years with swings of ±11 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 3% a year earlier, 13% recently — no structural stall.

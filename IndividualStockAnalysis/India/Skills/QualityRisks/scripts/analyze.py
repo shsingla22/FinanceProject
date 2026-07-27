@@ -199,7 +199,7 @@ def render_report(rec: dict, name: str = "") -> str:
                "STRESSED": "shows multiple financial stress signals",
                "UNKNOWN": "could not be stress-tested (insufficient data)"}[fr["status"]]
     A(f"**Financial resilience:** the balance sheet and cash engine "
-      f"{fr_word}:")
+      f"{fr_word} — {fr['derivation']}")
     A("")
     for c in fr["checks"]:
         mark = "⚠️" if c["flagged"] else ("⬜" if c["flagged"] is None else "✅")
@@ -209,6 +209,8 @@ def render_report(rec: dict, name: str = "") -> str:
     for v in rec["verdicts"]:
         A(f"## {v['name']} — {v['verdict']}")
         A(f"*\"{v['friendly']}\" · {v['verdict_friendly']}*")
+        A("")
+        A(f"**Why this severity:** {v['derivation']}")
         A("")
         q = v["qual"]
         if q.get("exposure"):

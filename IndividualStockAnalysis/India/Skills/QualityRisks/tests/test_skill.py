@@ -214,6 +214,33 @@ def test_every_verdict_carries_evidence():
     assert any(e["status"] == "flags the risk" for e in ge["quant"]["evidence"])
 
 
+def test_every_verdict_explains_its_own_severity():
+    """The combiner must emit WHY the ladder landed where it did, built
+    from the same variables that decided it — for every possible verdict."""
+    checks = _checks_for_profile(_nobel_like())
+    clean = _checks_for_profile(_stable_compounder())
+    cases = [
+        (checks, {"exposure": "high", "rationale": "r"}, True, "HIGH RISK"),
+        (clean, {"exposure": "high", "rationale": "r"}, True, "ELEVATED"),
+        (checks, {"exposure": "moderate", "rationale": "r"}, True, "ELEVATED"),
+        (clean, {"exposure": "moderate", "rationale": "r"}, True, "WATCH"),
+        (checks, {"exposure": "low", "rationale": "r"}, True, "LOW"),
+        (checks, None, True, "QUANT FLAG"),
+        (clean, None, True, "NO SIGNAL"),
+        (clean, None, False, "NOT ASSESSED"),
+    ]
+    for chk, qual, judged, expected in cases:
+        v = RE.combine(_risk(), chk, qual, judged=judged)
+        assert v["verdict"] == expected, (expected, v["verdict"])
+        assert len(v["derivation"]) > 20, f"no derivation for {expected}"
+    # the LOW derivation must acknowledge the numeric flags it overrides
+    v = RE.combine(_risk(), checks, {"exposure": "low", "rationale": "r"})
+    assert "override" in v["derivation"]
+    # fragility summary explains its own status too
+    rec = RE.analyse("NOBELCO", checks)
+    assert len(rec["fragility"]["derivation"]) > 20
+
+
 def test_report_renders_human_readably():
     sys.path.insert(0, str(HERE.parent / "scripts"))
     import analyze as AZ

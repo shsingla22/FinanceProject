@@ -112,19 +112,66 @@ def combine(risk: dict, checks: dict, qual: dict | None,
     has_quant_dimension = len(risk.get("quant_checks", [])) > 0
 
     if exposure == "high":
-        verdict = ("HIGH RISK" if q["flagged"] >= 1
-                   or not has_quant_dimension or q["available"] == 0
-                   else "ELEVATED")
+        if q["flagged"] >= 1:
+            verdict = "HIGH RISK"
+            derivation = (f"the calls show clear, repeated exposure AND "
+                          f"{q['flagged']} of {q['available']} numeric "
+                          f"fingerprints agree — that combination earns the "
+                          f"top severity.")
+        elif not has_quant_dimension:
+            verdict = "HIGH RISK"
+            derivation = ("the calls show clear, repeated exposure; this "
+                          "risk has no numeric fingerprint to cross-check, "
+                          "so it is judged from the calls alone.")
+        elif q["available"] == 0:
+            verdict = "HIGH RISK"
+            derivation = ("the calls show clear, repeated exposure; the "
+                          "numeric fingerprints could not be computed, so "
+                          "the call evidence decides alone.")
+        else:
+            verdict = "ELEVATED"
+            derivation = (f"the calls show clear exposure, but none of the "
+                          f"{q['available']} computed fingerprints confirms "
+                          f"it in the numbers yet — held one step below the "
+                          f"top severity.")
     elif exposure == "moderate":
-        verdict = "ELEVATED" if q["flagged"] >= 1 else "WATCH"
+        if q["flagged"] >= 1:
+            verdict = "ELEVATED"
+            derivation = (f"the calls show real but bounded exposure, and "
+                          f"{q['flagged']} numeric fingerprint"
+                          f"{'s' if q['flagged'] > 1 else ''} reinforce"
+                          f"{'' if q['flagged'] > 1 else 's'} it.")
+        else:
+            verdict = "WATCH"
+            derivation = ("the calls show real but bounded exposure while "
+                          "the numbers stay quiet.")
     elif exposure == "low":
         verdict = "LOW"
+        derivation = ("the judge affirmatively found the risk absent or "
+                      "mitigated in the calls"
+                      + (f" — that grounded reading overrides the "
+                         f"{q['flagged']} numeric flag"
+                         f"{'s' if q['flagged'] > 1 else ''}, kept visible "
+                         f"below." if q["flagged"] >= 1 else "."))
     elif q["flagged"] >= 1:
         verdict = "QUANT FLAG"
+        derivation = (f"{q['flagged']} numeric fingerprint"
+                      f"{'s are' if q['flagged'] > 1 else ' is'} present but "
+                      f"the calls offer nothing either way — numbers alone "
+                      f"are only ever a flag to investigate, never a "
+                      f"verdict.")
     elif judged and q["available"] > 0:
         verdict = "NO SIGNAL"
+        derivation = (f"the judge read the calls and found nothing, and all "
+                      f"{q['available']} computed fingerprints are clean.")
     else:
         verdict = "NOT ASSESSED"
+        derivation = ("neither the calls nor the numbers offered usable "
+                      "evidence — left unassessed rather than guessed."
+                      if judged else
+                      "no call transcripts were available and the numbers "
+                      "show no fingerprint — unexamined is not the same as "
+                      "safe, so this stays unassessed.")
 
     return {
         "risk": risk["id"],
@@ -132,6 +179,7 @@ def combine(risk: dict, checks: dict, qual: dict | None,
         "friendly": risk["friendly"],
         "verdict": verdict,
         "verdict_friendly": FRIENDLY_VERDICT[verdict],
+        "derivation": derivation,
         "qual": {
             "exposure": exposure,
             "rationale": (qual or {}).get("rationale", ""),
@@ -160,8 +208,17 @@ def fragility(checks: dict, tax: dict) -> dict:
     status = ("UNKNOWN" if tested == 0 else
               "STRESSED" if flagged >= 2 else
               "STRAINED" if flagged == 1 else "SOUND")
+    derivation = {
+        "UNKNOWN": "none of the stress checks could be computed.",
+        "SOUND": (f"none of the {tested} stress checks (leverage, cash "
+                  f"conversion, returns on capital) is flagged."),
+        "STRAINED": (f"1 of the {tested} stress checks is flagged — one "
+                     f"warning light, not yet a pattern."),
+        "STRESSED": (f"{flagged} of the {tested} stress checks are flagged "
+                     f"— multiple warning lights at once."),
+    }[status]
     return {"status": status, "flagged": flagged, "tested": tested,
-            "checks": rows}
+            "derivation": derivation, "checks": rows}
 
 
 def analyse(sym: str, checks: dict, qual_by_risk: dict | None = None) -> dict:
