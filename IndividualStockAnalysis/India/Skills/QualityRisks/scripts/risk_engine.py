@@ -1,0 +1,177 @@
+"""
+risk_engine.py — taxonomy loader/validator and the deterministic severity
+ladder for the QualityRisks skill.
+
+Severity ladder (most severe first):
+
+    HIGH RISK    the concall judge sees high exposure AND the numbers agree
+                 (or the risk has no computable fingerprint)
+    ELEVATED     judge sees high exposure without numeric confirmation, or
+                 moderate exposure that the numbers reinforce
+    WATCH        judge sees moderate exposure, numbers quiet
+    QUANT FLAG   the numbers alone show the fingerprint — needs call
+                 evidence; numbers can never claim more than this
+    LOW          the judge affirmatively assessed the risk as low/mitigated
+                 (a grounded "low" overrides numeric flags, with a note)
+    NO SIGNAL    nothing in the calls or the numbers points to this risk
+    NOT ASSESSED insufficient evidence either way (never guessed)
+"""
+
+from __future__ import annotations
+
+from pathlib import Path
+
+import yaml
+
+HERE = Path(__file__).resolve().parent
+REF = HERE.parent / "reference"
+
+SEVERITY_ORDER = ["HIGH RISK", "ELEVATED", "WATCH", "QUANT FLAG",
+                  "LOW", "NO SIGNAL", "NOT ASSESSED"]
+
+FRIENDLY_VERDICT = {
+    "HIGH RISK": "High risk — the calls and the numbers both point here",
+    "ELEVATED": "Elevated — meaningful exposure, keep it front of mind",
+    "WATCH": "Worth watching — some exposure visible in the calls",
+    "QUANT FLAG": "Numbers flag this — needs call evidence to confirm",
+    "LOW": "Assessed low — the calls show real mitigation",
+    "NO SIGNAL": "No signal — nothing points to this risk today",
+    "NOT ASSESSED": "Not assessed — not enough evidence (never guessed)",
+}
+
+_tax_cache: dict = {}
+
+
+def load_taxonomy() -> dict:
+    if "tax" not in _tax_cache:
+        _tax_cache["tax"] = yaml.safe_load((REF / "risks.yaml").read_text())
+    return _tax_cache["tax"]
+
+
+def validate() -> list[str]:
+    """Cross-check risks.yaml against checklist.yaml. Returns problems."""
+    problems = []
+    tax = load_taxonomy()
+    chk = yaml.safe_load((REF / "checklist.yaml").read_text())
+    ids = [r["id"] for r in tax.get("risks", [])]
+    if len(ids) != chk["expected_total"]:
+        problems.append(f"expected {chk['expected_total']} risks, "
+                        f"found {len(ids)}")
+    for rid in chk["expected_risks"]:
+        if rid not in ids:
+            problems.append(f"risk missing from taxonomy: {rid}")
+    declared = set()
+    for r in tax.get("risks", []):
+        for f in ("name", "friendly", "description", "traits",
+                  "qual_markers", "examples"):
+            if not r.get(f):
+                problems.append(f"{r.get('id', '?')}: missing field {f}")
+        declared.update(r.get("quant_checks", []))
+    for cid in declared:
+        if cid not in chk["expected_quant_checks"]:
+            problems.append(f"taxonomy references undeclared check: {cid}")
+    for fid in tax.get("fragility_checks", []):
+        if fid not in chk["expected_fragility_checks"]:
+            problems.append(f"undeclared fragility check: {fid}")
+    return problems
+
+
+def quant_support(risk: dict, checks: dict) -> dict:
+    """Evidence rows for one risk from the computed checks."""
+    evidence = []
+    flagged = clear = nodata = 0
+    for cid in risk.get("quant_checks", []):
+        c = checks.get(cid)
+        if c is None:
+            continue
+        if c["flagged"] is True:
+            status = "flags the risk"
+            flagged += 1
+        elif c["flagged"] is False:
+            status = "no fingerprint"
+            clear += 1
+        else:
+            status = "no data"
+            nodata += 1
+        evidence.append({"check": cid, "status": status,
+                         "explanation": c["explanation"]})
+    return {"flagged": flagged, "clear": clear, "nodata": nodata,
+            "available": flagged + clear, "evidence": evidence}
+
+
+def combine(risk: dict, checks: dict, qual: dict | None) -> dict:
+    """Deterministic severity ladder for one risk."""
+    q = quant_support(risk, checks)
+    exposure = (qual or {}).get("exposure")
+    has_quant_dimension = len(risk.get("quant_checks", [])) > 0
+
+    if exposure == "high":
+        verdict = ("HIGH RISK" if q["flagged"] >= 1
+                   or not has_quant_dimension or q["available"] == 0
+                   else "ELEVATED")
+    elif exposure == "moderate":
+        verdict = "ELEVATED" if q["flagged"] >= 1 else "WATCH"
+    elif exposure == "low":
+        verdict = "LOW"
+    elif q["flagged"] >= 1:
+        verdict = "QUANT FLAG"
+    elif q["available"] > 0 or (qual is not None and exposure is None):
+        verdict = "NO SIGNAL"
+    else:
+        verdict = "NOT ASSESSED"
+
+    return {
+        "risk": risk["id"],
+        "name": risk["name"],
+        "friendly": risk["friendly"],
+        "verdict": verdict,
+        "verdict_friendly": FRIENDLY_VERDICT[verdict],
+        "qual": {
+            "exposure": exposure,
+            "rationale": (qual or {}).get("rationale", ""),
+            "quote": (qual or {}).get("quote", ""),
+            "mitigant": (qual or {}).get("mitigant", ""),
+        },
+        "quant": q,
+    }
+
+
+def fragility(checks: dict, tax: dict) -> dict:
+    """Cross-cutting balance-sheet / earnings-quality stress summary."""
+    rows = []
+    flagged = 0
+    tested = 0
+    for cid in tax.get("fragility_checks", []):
+        c = checks.get(cid)
+        if c is None:
+            continue
+        rows.append({"check": cid, "flagged": c["flagged"],
+                     "explanation": c["explanation"]})
+        if c["flagged"] is not None:
+            tested += 1
+            if c["flagged"]:
+                flagged += 1
+    status = ("UNKNOWN" if tested == 0 else
+              "STRESSED" if flagged >= 2 else
+              "STRAINED" if flagged == 1 else "SOUND")
+    return {"status": status, "flagged": flagged, "tested": tested,
+            "checks": rows}
+
+
+def analyse(sym: str, checks: dict, qual_by_risk: dict | None = None) -> dict:
+    """Full explainable risk record for one company."""
+    tax = load_taxonomy()
+    verdicts = []
+    for r in tax["risks"]:
+        qual = (qual_by_risk or {}).get(r["id"])
+        verdicts.append(combine(r, checks, qual))
+    verdicts.sort(key=lambda v: SEVERITY_ORDER.index(v["verdict"]))
+    material = [v["risk"] for v in verdicts
+                if v["verdict"] in ("HIGH RISK", "ELEVATED", "QUANT FLAG")]
+    return {
+        "symbol": sym,
+        "fragility": fragility(checks, tax),
+        "verdicts": verdicts,
+        "material_risks": material,
+        "taxonomy_version": tax.get("version", "?"),
+    }
