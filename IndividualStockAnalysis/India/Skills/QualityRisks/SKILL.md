@@ -55,7 +55,7 @@ balance sheet could absorb a risk that bites: SOUND / STRAINED / STRESSED.
 | `scripts/risk_evidence.py` | computable risk fingerprints over the stored CSVs; every check returns value + plain-English explanation |
 | `scripts/risk_engine.py` | taxonomy loader/validator, deterministic severity ladder, fragility summary, explainable record |
 | `scripts/analyze.py` | CLI: `screen` the universe · `company SYM [--ai]` · `report SYM out.md [--ai]`; the `--ai` judge reads the concall timeline + management history via headless Claude (Opus by default, `RISK_JUDGE_MODEL` to override; no timeout, cached per transcript+model) |
-| `tests/test_skill.py` | 17 tests: completeness, synthetic profiles shaped like the document's examples, severity ladder, explainability contract, report jargon scan, real-data integration |
+| `tests/test_skill.py` | 18 tests: completeness, synthetic profiles shaped like the document's examples, severity ladder, explainability contract, report jargon scan, real-data integration |
 
 ## How the conclusion is reached (built-in explainability)
 
