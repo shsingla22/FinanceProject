@@ -162,3 +162,14 @@ details.mod summary::-webkit-details-marker { margin-right: 4px; }
 .qa-q { font-weight: 600; margin-top: 10px; }
 .qa-a { white-space: pre-wrap; border-left: 3px solid var(--accent); padding: 6px 12px;
   margin: 6px 0; font-size: 14.5px; }
+
+/* --- unified rating + patterns + risks --- */
+.rating { border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px;
+  margin: 14px 0 6px; background: var(--surface-0); }
+.stars { font-size: 20px; color: var(--accent); letter-spacing: 2px; }
+.pillar { margin: 10px 0 4px; }
+.pl-head { display: flex; justify-content: space-between; align-items: baseline; }
+.pl-pts { font-weight: 700; font-variant-numeric: tabular-nums; }
+.pl-bar { height: 8px; border-radius: 4px; background: var(--chip-bg); margin: 4px 0 4px; }
+.pl-fill { height: 100%; border-radius: 4px; background: var(--series-1); }
+.ev { font-size: 13.5px; color: var(--text-secondary); padding: 3px 0 3px 4px; }

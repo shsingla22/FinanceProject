@@ -183,6 +183,24 @@ def test_combiner_not_assessed():
 
 
 # ------------------------------------------------------------ explainability
+def test_every_verdict_explains_its_own_ladder_position():
+    """Every combiner outcome must state WHY the ladder landed there."""
+    strong_checks = _checks_for_profile(_hermes_like())
+    weak = {k: {"passed": None, "value": None, "explanation": "no data"}
+            for k in strong_checks}
+    cases = [
+        (strong_checks, {"fit": "strong", "rationale": "r"}, "STRONG FIT"),
+        (strong_checks, {"fit": "partial", "rationale": "r"}, "LIKELY FIT"),
+        (strong_checks, {"fit": "none", "rationale": "r"}, "NO FIT"),
+        (strong_checks, None, "QUANT SIGNAL"),
+        (weak, None, "NOT ASSESSED"),
+    ]
+    for checks, qual, expected in cases:
+        v = PE.combine(_pat(), checks, qual)
+        assert v["verdict"] == expected, (expected, v["verdict"])
+        assert len(v.get("derivation", "")) > 20, f"no derivation: {expected}"
+
+
 def test_every_verdict_carries_evidence():
     checks = _checks_for_profile(_kone_like())
     rec = PE.analyse("KONELIKE", checks,

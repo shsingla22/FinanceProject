@@ -343,19 +343,24 @@ function companyHeader(sym, co) {
 async function renderCompany(sym) {
   let co = state.data.companies[sym];
   let excerpt = "";
-  // Immediate feedback: the server runs BOTH modules live — quantitative
-  // signals now, then the qualitative playbook over the latest concall
-  // (first time per company; cached afterwards).
+  let rating = null, mb = null, qr = null;
+  // Immediate feedback: the server runs ALL THREE skills live — the
+  // 34-check quality framework, the multibagger-pattern judge and the
+  // risk judge (each Opus read cached per transcript afterwards).
   const firstTime = !(co && co.qualitative_included);
   const ph = document.createElement("div");
   ph.className = "card";
   ph.innerHTML = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
-    quantitative signals now${state.ai ? ", then the qualitative playbook over the latest concall" +
-    (firstTime ? " <em>(first run: multi-pass deep analysis across ALL its concalls — this can take several minutes; it's cached afterwards)</em>" : " (cached)") : ""}…</p>`;
+    quality framework, multibagger patterns and risk check${state.ai ?
+    (firstTime ? " <em>(first run: three deep reads of ALL its concalls — this can take several minutes; everything is cached afterwards)</em>" : " (served from cache)") : " (numbers only — AI is off)"}…</p>`;
   $out().appendChild(ph);
   try {
-    const live = await fetch(`api/company/${sym}`).then(r => r.ok ? r.json() : null);
-    if (live) { co = live.record; state.data.companies[sym] = co; excerpt = co.concall_excerpt || ""; }
+    const live = await fetch(`api/rating/${sym}`).then(r => r.ok ? r.json() : null);
+    if (live) {
+      co = live.record; state.data.companies[sym] = co;
+      excerpt = co.concall_excerpt || "";
+      rating = live.rating; mb = live.patterns?.record; qr = live.risks?.record;
+    }
   } catch (_) { /* fall back to cached quant-only record */ }
   ph.remove();
   if (!co) return card(`<p>No data for ${esc(sym)}.</p>`);
@@ -374,6 +379,7 @@ async function renderCompany(sym) {
     : "";
   const cr = co.concall_range || {};
   card(`${companyHeader(sym, co)}
+    ${rating ? ratingCard(rating) : ""}
     <div class="scoreline">
       <span class="big-score ${scoreCls(co.overall)}">${verdictWord(co.overall)}</span>
       <span class="cov">score ${fmtScore(co.overall)} on a −2…+2 scale ·
@@ -387,16 +393,18 @@ async function renderCompany(sym) {
     ${sparkHtml ? `<h3>Key trends</h3><div class="sparks">${sparkHtml}</div>` : ""}
     <h3>Why — the stored judgement behind every score</h3>
     ${moduleBreakdown(co)}
+    ${mb ? patternsSection(mb) : ""}
+    ${qr ? risksSection(qr) : ""}
     ${mgmtHist}
     ${qualNote(co)}
     ${excerpt ? `<h3>Latest concall (live extract)</h3>
       <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}
     <p><a class="chip" href="api/report/${sym}" download>📄 Download the full report (Markdown)</a>
-       <span class="note">— the same analysis as above, written up as a document you can keep or share.</span></p>
+       <span class="note">— rating, quality scorecard, patterns and risks, written up as a document you can keep or share.</span></p>
     ${state.ai ? `
-      <h3>Ask about this verdict</h3>
+      <h3>Ask about this analysis</h3>
       <form class="qa-form" data-sym="${sym}">
-        <input type="text" placeholder="e.g. Why is customer benefits rated Poor? What did management promise about capex?" aria-label="Ask about this verdict">
+        <input type="text" placeholder="e.g. Why is the rating only Decent? Which risks worry you most? Why does it fit the toll-road pattern?" aria-label="Ask about this analysis">
         <button type="submit">Ask</button>
       </form>
       <div class="qa-out"></div>` : ""}`);
@@ -406,6 +414,103 @@ async function renderCompany(sym) {
     const inp = qaForm.querySelector("input");
     if (inp.value.trim()) askVerdict(sym, inp.value.trim(), qaForm.nextElementSibling);
   });
+}
+
+/* ---------------- unified rating + patterns + risks rendering ---------------- */
+
+function ratingCard(rt) {
+  if (rt.score == null) return `<p class="note">${esc(rt.derivation)}</p>`;
+  const stars = "★".repeat(rt.stars) + "☆".repeat(5 - rt.stars);
+  const cls = rt.score >= 65 ? "pos" : rt.score < 40 ? "neg" : "mid";
+  const pillarRow = key => {
+    const p = rt.pillars[key];
+    const pts = p.points == null ? "—" : p.points;
+    const w = p.points == null ? 0 : p.points;
+    return `<div class="pillar">
+      <div class="pl-head"><strong>${esc(p.name)}</strong>
+        <span class="pl-pts">${pts}${p.points == null ? "" : " / 100"}</span></div>
+      <div class="pl-bar"><div class="pl-fill" style="width:${w}%"></div></div>
+      <div class="note">${esc(p.derivation)}</div>
+    </div>`;
+  };
+  return `<div class="rating">
+    <div class="scoreline">
+      <span class="big-score ${cls}">${esc(rt.grade)}</span>
+      <span class="stars">${stars}</span>
+      <span class="cov">${rt.score} out of 100, combining all three analyses below</span>
+    </div>
+    <details class="mod" open>
+      <summary><strong>How this rating was built</strong>
+        <span class="note">every point earned or lost is listed — nothing hidden</span></summary>
+      <p class="note calc">${esc(rt.derivation)}</p>
+      ${pillarRow("quality")}${pillarRow("patterns")}${pillarRow("safety")}
+    </details>
+  </div>`;
+}
+
+const MB_VERDICT_CLS = { "STRONG FIT": "pos", "LIKELY FIT": "pos",
+  "QUANT SIGNAL": "mid", "PARTIAL": "mid", "NO FIT": "neg", "NOT ASSESSED": "mid" };
+const QR_VERDICT_CLS = { "HIGH RISK": "neg", "ELEVATED": "neg", "WATCH": "mid",
+  "QUANT FLAG": "mid", "LOW": "pos", "NO SIGNAL": "pos", "NOT ASSESSED": "mid" };
+
+function evidenceRows(list, iconMap) {
+  return (list || []).map(e =>
+    `<div class="ev">${iconMap[e.status] || "•"} ${esc(e.explanation)}</div>`).join("");
+}
+
+function patternsSection(mb) {
+  const matched = mb.verdicts.filter(v =>
+    ["STRONG FIT", "LIKELY FIT", "QUANT SIGNAL"].includes(v.verdict));
+  const gate = mb.core_gate || {};
+  const gateWord = { PASS: "passed in full", PARTIAL: "partly passed",
+    FAIL: "did not pass", UNKNOWN: "could not be tested" }[gate.status] || "—";
+  const rows = mb.verdicts.map(v => {
+    const open = ["STRONG FIT", "LIKELY FIT"].includes(v.verdict) ? "open" : "";
+    return `<details class="mod" ${open}>
+      <summary><span class="mod-word ${MB_VERDICT_CLS[v.verdict] || "mid"}">${esc(v.verdict)}</span>
+        <strong>${esc(v.name)}</strong> <span class="note">${esc(v.friendly)}</span></summary>
+      <p class="note calc">Why: ${esc(v.derivation || v.verdict_friendly)}</p>
+      ${v.qual && v.qual.fit ? `<p>${esc(v.qual.rationale || "")}</p>
+        ${v.qual.quote ? `<p class="note">🎙 “${esc(v.qual.quote)}” — management, on an earnings call</p>` : ""}` : ""}
+      ${evidenceRows(v.quant?.evidence, { supports: "✅", against: "❌", "no data": "⬜" })}
+    </details>`;
+  }).join("");
+  return `<h3>Multibagger patterns — does it look like the long-term winners?</h3>
+    <p class="note">${matched.length
+      ? "Patterns it fits: <strong>" + matched.map(v => esc(v.name)).join(" · ") + "</strong>."
+      : "No pattern is confirmed by the evidence."}
+      The foundation test (steady cash + high returns on capital + growth) ${gateWord}
+      (${gate.passed ?? "?"} of ${gate.of ?? "?"} checks).</p>
+    ${rows}`;
+}
+
+function risksSection(qr) {
+  const material = qr.verdicts.filter(v =>
+    ["HIGH RISK", "ELEVATED", "QUANT FLAG"].includes(v.verdict));
+  const fr = qr.fragility || {};
+  const frWord = { SOUND: "no financial stress signals", STRAINED: "one financial stress signal",
+    STRESSED: "multiple financial stress signals", UNKNOWN: "not enough data to stress-test" }[fr.status] || "—";
+  const frRows = (fr.checks || []).map(c =>
+    `<div class="ev">${c.flagged ? "⚠️" : c.flagged == null ? "⬜" : "✅"} ${esc(c.explanation)}</div>`).join("");
+  const rows = qr.verdicts.map(v => {
+    const open = ["HIGH RISK", "ELEVATED"].includes(v.verdict) ? "open" : "";
+    return `<details class="mod" ${open}>
+      <summary><span class="mod-word ${QR_VERDICT_CLS[v.verdict] || "mid"}">${esc(v.verdict)}</span>
+        <strong>${esc(v.name)}</strong> <span class="note">${esc(v.friendly)}</span></summary>
+      <p class="note calc">Why: ${esc(v.derivation || v.verdict_friendly)}</p>
+      ${v.qual && v.qual.exposure ? `<p>${esc(v.qual.rationale || "")}</p>
+        ${v.qual.quote ? `<p class="note">🎙 “${esc(v.qual.quote)}” — management, on an earnings call</p>` : ""}
+        ${v.qual.mitigant ? `<p class="note">🌤 Silver lining: ${esc(v.qual.mitigant)}</p>` : ""}` : ""}
+      ${evidenceRows(v.quant?.evidence, { "flags the risk": "⚠️", "no fingerprint": "✅", "no data": "⬜" })}
+    </details>`;
+  }).join("");
+  return `<h3>Risk check — what could go wrong?</h3>
+    <p class="note">${material.length
+      ? "Risks worth your attention: <strong>" + material.map(v => esc(v.name)).join(" · ") + "</strong>."
+      : "No risk channel shows both meaningful evidence and severity today."}
+      The balance sheet shows ${frWord}.</p>
+    ${frRows ? `<details class="mod"><summary><strong>Financial resilience checks</strong></summary>${frRows}</details>` : ""}
+    ${rows}`;
 }
 
 async function askVerdict(sym, question, outEl) {

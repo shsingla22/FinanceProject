@@ -41,8 +41,9 @@ def _report(sym, quick):
 def test_structure_full():
     md = _report(FULL_SYM, quick=False)
     assert md.startswith("# ")
-    assert "Business Quality Report" in md
-    assert "**Verdict:" in md
+    assert "Complete Company Analysis" in md
+    assert "**Business quality verdict:" in md
+    assert "## The rating:" in md
     assert "The verdict at a glance" in md
     for area in ["Capital Allocation", "Return on Capital", "Growth",
                  "Management", "Industry Structure", "Customer Benefits",
