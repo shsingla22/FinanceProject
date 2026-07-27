@@ -1,0 +1,245 @@
+# QualityRisks — canonical risk taxonomy
+#
+# Transcribed in full from "Risks_to_quality_investing.docx" (Pitfalls of
+# quality investing). Eight risk channels through which strong businesses
+# fail, each with the document's traits, examples, quantitative fingerprints
+# (computable from the stored statements) and qualitative markers (judged
+# from conference calls, management history and annual-report records).
+#
+# A quant "flag" means the risk's numeric fingerprint IS present.
+# Severity is decided by a deterministic ladder in risk_engine.py —
+# numbers alone can never claim more than "QUANT FLAG".
+
+version: "1.0.0"
+
+principle: >
+  Quality investing fails through identifiable channels: cyclicality that
+  masquerades as growth, technological innovation that destroys incumbents,
+  dependency on forces outside the company's control, new entrants,
+  shifting consumer preferences, fashion, and "good enough" competition
+  that attacks value-added products. Risk assessment is about presence,
+  severity AND mitigation — the document's silver lining is that big
+  changes tend to favour quality companies over weaker counterparts, and
+  countercyclical investment is itself an indication of strength.
+
+fragility_checks:            # cross-cutting balance-sheet / earnings-quality stress
+  - leverage_rise
+  - cash_conversion_slippage
+  - roce_slide
+
+risks:
+  - id: CYCLICALITY
+    name: Cyclicality
+    friendly: "Boom-and-bust earnings"
+    description: >
+      Expansionary periods lead to over-investment, leaving less capital
+      for the future; the damage is visible in sales and margins, which
+      fluctuate a lot. Pure cycles (steel, oil — commodity products where
+      demand >> supply drives price up, then demand falls and price falls
+      sharply) and customer cyclicality (equipment used in the customer's
+      capacity expansion, so the customer's capex swings revenue and
+      margins drastically) are the dangerous forms. Flow products — used
+      in customer operations, not capex — are usually less cyclical, with
+      stable demand; time is a friend of companies with stable earnings.
+      Analytical challenge: at cycle peaks revenue growth and margins are
+      elevated but we can't know by how much, nor how long the cycle lasts.
+    traits:
+      - margins and sales that fluctuate a lot across the cycle
+      - commodity product where price is set by demand/supply balance
+      - revenue tied to customers' capacity-expansion capex
+      - over-investment during expansionary periods
+      - long-period swells that make peak earnings look permanent
+    quant_checks: [sales_swings, margin_swings, capex_burst]
+    qual_markers:
+      - management describing demand in terms of commodity prices or cycles
+      - revenue tied to customer capex programmes rather than operations
+      - flow-product / consumable / operations-linked demand (MITIGANT)
+      - countercyclical investment while others scale back (MITIGANT —
+        an indication of the company's strength)
+    examples:
+      - "Pure cycles: steel, oil — commodity products"
+      - "Customer cyclicity: equipment makers serving customer capacity expansion"
+      - "Silver lining: the strong get stronger; countercyclical investors take share"
+    red_flags:
+      - extrapolating peak-cycle margins and growth as if permanent
+
+  - id: TECH_DISRUPTION
+    name: Technological Innovation
+    friendly: "Out-invented by the industry"
+    description: >
+      Technology can be a brutal and destructive force for business.
+      Small-scale innovation adds value and is not a risk; large-scale
+      innovation is perilous — incumbents face frustrating choices because
+      infrastructure built around a certain method must be changed, and
+      big innovation results in more victims than victors. Industries with
+      high innovation rates are unpredictable: Nokia held ~40% of the
+      phone market in 2007; Apple shipped the iPhone in 2008 and rose to
+      61% share of high-end phones; Google shipped Android within two
+      years, helping Samsung capture share. It is easy to blame management
+      and corporate culture — the main reason is the industry itself.
+    traits:
+      - industry with a high rate of large-scale innovation
+      - incumbent infrastructure built around a method that must change
+      - platform shifts that reset market share overnight
+    quant_checks: [growth_deceleration, margin_collapse]
+    qual_markers:
+      - competitors' new technology platforms discussed defensively
+      - the company's own installed base or format becoming legacy
+      - analysts asking about disruption (AI, platform shifts, new formats)
+      - small-scale, value-adding innovation cadence (MITIGANT)
+    examples:
+      - "Nokia: 40% share in 2007; iPhone 2008; Android/Samsung within 2 years"
+    red_flags:
+      - blaming execution when the industry's innovation rate is the real cause
+
+  - id: GOVT_DEPENDENCY
+    name: Government Dependency
+    friendly: "Fortunes decided in Delhi"
+    description: >
+      Be wary of businesses where the government plays a big role in
+      determining corporate fortunes — companies relying on fixed
+      infrastructure such as telecom operators, utilities, oil producers
+      and mining companies. Europe's solar industry shows the mechanism:
+      big government subsidies made companies believe renewables offered
+      big returns, huge investments in solar parks created a boom for
+      suppliers, and when governments needed to cut costs, small policy
+      changes took companies from explosive growth to bankruptcy.
+      Favourable government contracts are also suspect: the government
+      won't leave much margin in them (mining contracts).
+    traits:
+      - regulated tariffs, licences or subsidies driving profitability
+      - demand created or removable by policy decisions
+      - government as dominant customer with thin contracted margins
+    quant_checks: []
+    qual_markers:
+      - revenue/pricing set by regulator, policy, tariff or subsidy
+      - repeated discussion of government orders, PSU tenders, duty changes
+      - business anchored in fixed infrastructure (telecom, utility, oil, mining)
+      - diversification away from policy-driven revenue (MITIGANT)
+    examples:
+      - "European solar: subsidy boom to bankruptcy on small policy changes"
+      - "Mining contracts: the government won't leave much margin"
+    red_flags:
+      - treating subsidy-driven growth as durable franchise growth
+
+  - id: CONCENTRATION
+    name: Stakeholder Concentration
+    friendly: "Too few customers, suppliers or channels"
+    description: >
+      Customer concentration risk, supplier concentration risk and
+      distributor concentration risk. Safilo lost key eyewear licences
+      like Armani and Polo Ralph Lauren to Luxottica partly because of
+      its weaker retail presence — costly, and the share price tumbled,
+      lagging the market by more than 80%.
+    traits:
+      - a handful of customers, suppliers, licensors or distributors
+        controlling a large share of revenue or inputs
+      - renegotiation or loss of one relationship materially denting profits
+    quant_checks: [receivables_creep]
+    qual_markers:
+      - named customers/licensors/suppliers repeatedly driving results
+      - management questioned about a single relationship's renewal
+      - broadening of the customer/channel base (MITIGANT)
+    examples:
+      - "Safilo: lost Armani and Polo Ralph Lauren licences to Luxottica; lagged market >80%"
+    red_flags:
+      - dismissing a dominant relationship as safe because it is long-standing
+
+  - id: NEW_ENTRANTS
+    name: New Entrants
+    friendly: "A new player changes the rules"
+    description: >
+      Entry of a structurally different competitor resets industry
+      economics: deep discounters entering the UK grocery market; in
+      India, quick commerce has dented traditional retail.
+    traits:
+      - new business models (discounters, online, quick commerce) taking
+        transactions from incumbents
+      - price or convenience advantage the incumbent cannot match in kind
+    quant_checks: [pricing_pressure, growth_deceleration]
+    qual_markers:
+      - management discussing new-format competitors defensively
+      - discounting or margin investment framed as competitive response
+      - the incumbent building its own new-format channel (MITIGANT)
+    examples:
+      - "UK: deep discounters"
+      - "India: quick commerce denting traditional retail"
+    red_flags:
+      - assuming brand loyalty protects against a cheaper, more convenient format
+
+  - id: PREFERENCE_SHIFT
+    name: Shifting Consumer Preferences
+    friendly: "The customer is changing"
+    description: >
+      Public attitudes migrate: tobacco and soft drinks face changing
+      health attitudes; the food industry faces increased interest in
+      nutritional content; consumers prefer online shopping. The demand
+      base itself erodes even while the franchise executes well.
+    traits:
+      - secular change in what customers want (health, nutrition, channel)
+      - core category in structural volume decline
+    quant_checks: [growth_deceleration]
+    qual_markers:
+      - management reformulating, premiumising or pivoting the portfolio
+        in response to health/nutrition/channel shifts
+      - volume declines attributed to changing habits, not the cycle
+      - successful portfolio pivot toward the new preference (MITIGANT)
+    examples:
+      - "Tobacco and soft drinks vs health attitudes; food vs nutrition; online shopping"
+    red_flags:
+      - treating a secular demand shift as a temporary downcycle
+
+  - id: FASHION
+    name: Fashion Risk
+    friendly: "Cool today, uncool tomorrow"
+    description: >
+      Brands seen as cool might become uncool. Foods like sodas and wine
+      can go out of fashion; the toy industry's fashion keeps changing.
+      Demand rests on taste, which can move without warning.
+    traits:
+      - demand driven by trends, image or coolness rather than function
+      - hit-driven product cycles (toys, apparel, beverages)
+    quant_checks: [sales_swings, growth_deceleration]
+    qual_markers:
+      - management crediting growth to a trending product or celebrity moment
+      - portfolio of many small trend-exposed brands vs one big bet (MITIGANT)
+      - functional, repeat-purchase demand base (MITIGANT)
+    examples:
+      - "Sodas and wine going out of fashion; the toy industry's rotating fads"
+    red_flags:
+      - extrapolating a fashion-driven surge as a durable franchise
+
+  - id: GOOD_ENOUGH
+    name: Good Enough Goods
+    friendly: "Cheaper rivals that are good enough"
+    description: >
+      Good-enough goods attack value-added products — private labels
+      pushed by retailers against branded products. Good-enough
+      propositions are difficult to protect against; niche products are
+      better protected because good-enough products need scale to work
+      (luxury bags are protected). Nobel Biocare is the cautionary tale:
+      dental implants — small titanium screws giving a more stable,
+      healthy, better-looking outcome — grew sales >20% for four years
+      from 2007 with ~80% gross margins and 34% operating margins, and
+      looked like a solid business (consumer got a better product,
+      dentists made more margin). But the product was not complex;
+      challengers sold at lower prices while generating decent
+      profitability, and — taking advantage of customers' lack of brand
+      awareness — dentists kept the extra margin. Operating margin fell
+      to 13% by 2014.
+    traits:
+      - premium-priced product whose job a simpler rival can do acceptably
+      - intermediary (retailer, dentist, installer) captures the brand's
+        premium because the end customer can't tell the difference
+      - private label or unbranded competition scaling up
+    quant_checks: [gross_margin_erosion, margin_collapse, pricing_pressure]
+    qual_markers:
+      - management defending price premium against cheaper alternatives
+      - channel partners pushing own-label or cheaper substitutes
+      - end-customer brand awareness low; intermediary controls the choice
+      - genuine niche/scale protection of the premium (MITIGANT)
+    examples:
+      - "Private labels vs branded products"
+      - "Nobel Biocare: OPM 34% (2007) to 13% (2014) as good-enough implants scaled"
+    red_flags:
+      - mistaking an intermediary's margin capture for end-customer loyalty

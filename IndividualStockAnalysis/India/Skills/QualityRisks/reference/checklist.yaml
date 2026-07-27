@@ -1,0 +1,29 @@
+# Completeness guarantee for the QualityRisks taxonomy.
+# tests/test_skill.py fails if any risk or check declared here is missing
+# from risks.yaml or unimplemented in risk_evidence.py.
+
+expected_total: 8
+expected_risks:
+  - CYCLICALITY
+  - TECH_DISRUPTION
+  - GOVT_DEPENDENCY
+  - CONCENTRATION
+  - NEW_ENTRANTS
+  - PREFERENCE_SHIFT
+  - FASHION
+  - GOOD_ENOUGH
+
+expected_quant_checks:
+  - sales_swings
+  - margin_swings
+  - capex_burst
+  - margin_collapse
+  - gross_margin_erosion
+  - growth_deceleration
+  - receivables_creep
+  - pricing_pressure
+
+expected_fragility_checks:
+  - leverage_rise
+  - cash_conversion_slippage
+  - roce_slide
