@@ -99,8 +99,14 @@ def quant_support(risk: dict, checks: dict) -> dict:
             "available": flagged + clear, "evidence": evidence}
 
 
-def combine(risk: dict, checks: dict, qual: dict | None) -> dict:
-    """Deterministic severity ladder for one risk."""
+def combine(risk: dict, checks: dict, qual: dict | None,
+            judged: bool = True) -> dict:
+    """Deterministic severity ladder for one risk.
+
+    `judged=False` means no qualitative judge ran at all (e.g. the company
+    holds no earnings calls) — clean numbers then yield NOT ASSESSED, never
+    "NO SIGNAL", because silence that was never examined is not safety.
+    """
     q = quant_support(risk, checks)
     exposure = (qual or {}).get("exposure")
     has_quant_dimension = len(risk.get("quant_checks", [])) > 0
@@ -115,7 +121,7 @@ def combine(risk: dict, checks: dict, qual: dict | None) -> dict:
         verdict = "LOW"
     elif q["flagged"] >= 1:
         verdict = "QUANT FLAG"
-    elif q["available"] > 0 or (qual is not None and exposure is None):
+    elif judged and q["available"] > 0:
         verdict = "NO SIGNAL"
     else:
         verdict = "NOT ASSESSED"
@@ -161,15 +167,17 @@ def fragility(checks: dict, tax: dict) -> dict:
 def analyse(sym: str, checks: dict, qual_by_risk: dict | None = None) -> dict:
     """Full explainable risk record for one company."""
     tax = load_taxonomy()
+    judged = qual_by_risk is not None
     verdicts = []
     for r in tax["risks"]:
         qual = (qual_by_risk or {}).get(r["id"])
-        verdicts.append(combine(r, checks, qual))
+        verdicts.append(combine(r, checks, qual, judged=judged))
     verdicts.sort(key=lambda v: SEVERITY_ORDER.index(v["verdict"]))
     material = [v["risk"] for v in verdicts
                 if v["verdict"] in ("HIGH RISK", "ELEVATED", "QUANT FLAG")]
     return {
         "symbol": sym,
+        "judged": judged,
         "fragility": fragility(checks, tax),
         "verdicts": verdicts,
         "material_risks": material,

@@ -168,8 +168,8 @@ def compute_checks(sym: str, base: Path = INDIA, universe: str = UNIVERSE) -> di
                     f"fluctuate a lot, the signature of a cyclical business.")
         else:
             expl = (f"Operating margin stayed between {lo:.0f}% and {hi:.0f}% "
-                    f"(±{opm_std:.1f} points a year) — steady margins, not a "
-                    f"cyclical profile.")
+                    f"(±{opm_std:.1f} points a year) — swings within the "
+                    f"normal range, no extreme boom-and-bust profile.")
         out["margin_swings"] = _check(flagged, {"opm_low": lo, "opm_high": hi,
                                                 "swing": opm_std}, expl)
     else:
@@ -360,6 +360,14 @@ def compute_checks(sym: str, base: Path = INDIA, universe: str = UNIVERSE) -> di
             expl = (f"Returns on capital slid from about {early:.0f}% to "
                     f"{late:.0f}% — the business is earning less and less on "
                     f"the money invested in it.")
+        elif late - early >= 2:
+            expl = (f"Returns on capital improved from about {early:.0f}% "
+                    f"to {late:.0f}% — the business is earning more on its "
+                    f"capital, not less.")
+        elif late - early <= -2:
+            expl = (f"Returns on capital moderated from about {early:.0f}% "
+                    f"to {late:.0f}% — lower, but still well clear of the "
+                    f"deep slide this check looks for.")
         else:
             expl = (f"Returns on capital held near {late:.0f}% (was about "
                     f"{early:.0f}%) — no slide in what the business earns "

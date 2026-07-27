@@ -185,6 +185,19 @@ def test_ladder_not_assessed_when_no_evidence():
     assert v["verdict"] == "NOT ASSESSED"
 
 
+def test_no_transcript_never_claims_no_signal():
+    """Clean numbers WITHOUT a judge must stay NOT ASSESSED — silence that
+    was never examined is not safety (the ITC-with-no-concalls case)."""
+    checks = _checks_for_profile(_stable_compounder())
+    rec = RE.analyse("NOCALLSCO", checks, qual_by_risk=None)
+    assert rec["judged"] is False
+    assert all(v["verdict"] in ("NOT ASSESSED", "QUANT FLAG")
+               for v in rec["verdicts"])
+    # ...while the same numbers WITH a silent judge honestly say NO SIGNAL
+    rec2 = RE.analyse("CALLSCO", checks, qual_by_risk={})
+    assert any(v["verdict"] == "NO SIGNAL" for v in rec2["verdicts"])
+
+
 # ------------------------------------------------------------ explainability
 def test_every_verdict_carries_evidence():
     checks = _checks_for_profile(_nobel_like())

@@ -188,6 +188,11 @@ def render_report(rec: dict, name: str = "") -> str:
         A("**Material risks found:** none — no risk channel shows both "
           "meaningful evidence and severity today.")
     A("")
+    if not rec.get("judged"):
+        A("*No conference-call transcripts are on file for this company — "
+          "the verdicts below rest on the numbers alone, and the "
+          "qualitative risk channels could not be assessed.*")
+        A("")
     fr = rec["fragility"]
     fr_word = {"SOUND": "shows no financial stress",
                "STRAINED": "shows one financial stress signal",
