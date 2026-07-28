@@ -196,6 +196,9 @@ def render_report(rec: dict, name: str = "") -> str:
         A(f"## {v['name']} — {v['verdict']}")
         A(f"*\"{v['friendly']}\" · {v['verdict_friendly']}*")
         A("")
+        if v.get("derivation"):
+            A(f"**Why this verdict:** {v['derivation']}")
+            A("")
         q = v["qual"]
         if q.get("fit"):
             A(f"**What the calls show:** {q.get('rationale', '')}")

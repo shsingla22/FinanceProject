@@ -54,6 +54,7 @@ import quant_signals as Q       # noqa: E402
 import scoring as S             # noqa: E402
 import framework as F           # noqa: E402
 import pandas as pd             # noqa: E402
+import rating as R              # noqa: E402  (MultibaggerPattern + QualityRisks + rating)
 
 app = FastAPI(title="Business Quality Analyst API")
 
@@ -259,6 +260,12 @@ def build_record(sym: str, live, ccm, qual_scores: list | None = None) -> dict:
     else:
         agg = S.aggregate(pscores, _module_ids)
 
+    # Readers shouldn't need analyst shorthand: rewrite YoY/QoQ/etc. in the
+    # rationales to everyday words (verbatim call quotes stay untouched).
+    for p in pscores:
+        if p.rationale:
+            p.rationale = R._plain(p.rationale)
+
     meta = _const_map.get(sym, {"name": sym, "industry": ""})
     lv = live.get(sym, {})
 
@@ -325,11 +332,13 @@ def concall_text(sym: str, max_chars: int = 8000) -> str:
     return text[-max_chars:]
 
 
-# Analysis model: 'opus' (default, per user: quality over speed) or 'sonnet'.
-# Override with ANALYSIS_MODEL env var. No timeouts on analysis calls — the
-# user explicitly prefers a slow, top-notch analysis over a fast one.
-ANALYSIS_MODEL = os.environ.get("ANALYSIS_MODEL", "opus")
-API_MODEL_MAP = {"opus": "claude-opus-4-8", "sonnet": "claude-sonnet-5"}
+# Analysis model: Opus 5 by default (per user: quality over speed).
+# Override with ANALYSIS_MODEL env var — it steers ALL judges at once (the
+# 34-check framework, the multibagger judge and the risk judge, via
+# rating.py). No timeouts on analysis calls — the user explicitly prefers a
+# slow, top-notch analysis over a fast one.
+ANALYSIS_MODEL = os.environ.get("ANALYSIS_MODEL", "claude-opus-5")
+API_MODEL_MAP = {"opus": "claude-opus-5", "sonnet": "claude-sonnet-5"}
 API_MODEL = API_MODEL_MAP.get(ANALYSIS_MODEL, ANALYSIS_MODEL)
 HTTP_AI_TIMEOUT = 3600            # effectively unlimited for one HTTP call
 
@@ -358,6 +367,8 @@ def health():
             "ai_qualitative": backend is not None,
             "ai_backend": backend,
             "analysis_model": ANALYSIS_MODEL,
+            "skills": ["BusinessAnalysis", "MultibaggerPattern",
+                       "QualityRisks"],
             "data_stamp": _data_stamp()}
 
 
@@ -638,20 +649,61 @@ def ask(sym: str, payload: dict):
     qual, _ = _qual_scores_cached(sym)          # cached in the normal case
     rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
     timeline = concall_timeline(sym, budget=12000)
-    record_json = json.dumps({k: rec[k] for k in
-                              ("name", "overall", "coverage", "modules",
-                               "params", "series", "mgmt")}, default=str)[:14000]
+    # Translate internal parameter/module ids to display names so the
+    # answer never leaks developer vocabulary at the reader.
+    _fw_names = {p["id"]: p["name"] for p in _fw_json["parameters"]}
+    rec_view = {k: rec[k] for k in ("name", "overall", "coverage", "series",
+                                    "mgmt")}
+    rec_view["areas"] = {MODULE_SHORT.get(m, m): v
+                         for m, v in rec["modules"].items()}
+    rec_view["checks"] = {_fw_names.get(k, k): v
+                          for k, v in rec["params"].items()}
+    record_json = json.dumps(rec_view, default=str)[:12000]
+    # Ground the answer in ALL THREE stored analyses: quality framework,
+    # multibagger patterns and risk channels (judges served from cache).
+    ai_on = _ai_backend() is not None
+    mb_rec, _s1 = R.patterns_analysis(sym, ai=ai_on)
+    qr_rec, _s2 = R.risks_analysis(sym, ai=ai_on)
+    rt = R.compute_rating(sym, rec, mb_rec, qr_rec)
+    mb_json = json.dumps({
+        "core_gate": mb_rec["core_gate"]["status"],
+        "verdicts": [{"pattern": v["name"], "verdict": v["verdict"],
+                      "why": v.get("derivation", ""),
+                      "rationale": v["qual"].get("rationale", ""),
+                      "quote": v["qual"].get("quote", "")}
+                     for v in mb_rec["verdicts"]]}, default=str)[:7000]
+    qr_json = json.dumps({
+        "fragility": qr_rec["fragility"]["status"],
+        "verdicts": [{"risk": v["name"], "verdict": v["verdict"],
+                      "why": v.get("derivation", ""),
+                      "rationale": v["qual"].get("rationale", ""),
+                      "quote": v["qual"].get("quote", ""),
+                      "silver_lining": v["qual"].get("mitigant", "")}
+                     for v in qr_rec["verdicts"]]}, default=str)[:7000]
+    rt_json = json.dumps({"score": rt["score"], "grade": rt["grade"],
+                          "how": rt["derivation"],
+                          "pillars": {k: {"points": p["points"],
+                                          "why": p["derivation"]}
+                                      for k, p in rt["pillars"].items()}},
+                         default=str)[:3000]
     prompt = (
-        f"You are explaining an investment-quality verdict for {rec['name']} "
-        f"({sym}). Answer the user's question USING ONLY the stored analysis "
-        "record and the concall excerpts below. Rules: cite the specific "
-        "parameter names, numbers, or verbatim quotes you rely on; if the "
-        "record and excerpts don't contain the answer, say so plainly — "
+        f"You are explaining an investment analysis for {rec['name']} "
+        f"({sym}). Answer the user's question USING ONLY the stored records "
+        "below (quality framework scores, multibagger-pattern verdicts, "
+        "risk verdicts, the combined rating) and the concall excerpts. "
+        "Rules: cite the specific check names, pattern/risk names, "
+        "numbers, or verbatim quotes you rely on — use the plain display "
+        "names exactly as given, never internal codes or analyst "
+        "shorthand; explain in plain, everyday financial language; if the "
+        "records and excerpts don't contain the answer, say so plainly — "
         "never invent. Be concise (<= 200 words).\n\n"
         f"QUESTION: {question}\n\n"
-        f"STORED ANALYSIS RECORD (scores are -2..+2):\n{record_json}\n\n"
+        f"COMBINED RATING (0-100):\n{rt_json}\n\n"
+        f"QUALITY-FRAMEWORK RECORD (scores are -2..+2):\n{record_json}\n\n"
+        f"MULTIBAGGER-PATTERN VERDICTS:\n{mb_json}\n\n"
+        f"RISK VERDICTS:\n{qr_json}\n\n"
         f"CONCALL EXCERPTS ({timeline['n_calls']} calls, "
-        f"{timeline['from']}–{timeline['to']}):\n{timeline['excerpt'][:8000]}"
+        f"{timeline['from']}–{timeline['to']}):\n{timeline['excerpt'][:6000]}"
     )
     if backend == "api":
         body = json.dumps({"model": API_MODEL, "max_tokens": 700,
@@ -683,6 +735,53 @@ def refresh():
     with _lock:
         _drop_caches()
     return {"ok": True, "message": "caches dropped; next request recomputes"}
+
+
+# ------------------------------------------- patterns / risks / rating
+@app.get("/api/patterns/{sym}")
+def patterns(sym: str, quick: int = 0):
+    """MultibaggerPattern analysis: which winning patterns does it fit?"""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    rec, status = R.patterns_analysis(sym, ai=ai)
+    return {"symbol": sym, "status": status, "record": rec}
+
+
+@app.get("/api/risks/{sym}")
+def risks(sym: str, quick: int = 0):
+    """QualityRisks analysis: which failure channels is it exposed to?"""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    rec, status = R.risks_analysis(sym, ai=ai)
+    return {"symbol": sym, "status": status, "record": rec}
+
+
+@app.get("/api/rating/{sym}")
+def rating_endpoint(sym: str, quick: int = 0):
+    """The COMPLETE unified analysis: all three skills run live (each judge
+    cached per transcript+model), combined into one explainable 0–100
+    rating. First run of a company can take several minutes — three deep
+    Opus reads of its concall history; cached afterwards."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    qual, qstatus = (None, "skipped_quick") if quick else _qual_scores_cached(sym)
+    rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
+    rec["qualitative_status"] = qstatus
+    tl = concall_timeline(sym, budget=4)
+    rec["concall_range"] = {"n_calls": tl["n_calls"], "from": tl["from"],
+                            "to": tl["to"]}
+    mb_rec, mb_status = R.patterns_analysis(sym, ai=ai)
+    qr_rec, qr_status = R.risks_analysis(sym, ai=ai)
+    rt = R.compute_rating(sym, rec, mb_rec, qr_rec)
+    return {"symbol": sym, "rating": rt, "record": rec,
+            "patterns": {"status": mb_status, "record": mb_rec},
+            "risks": {"status": qr_status, "record": qr_rec}}
 
 
 
@@ -725,20 +824,53 @@ def _verdict_phrase(score):
     return "A poor business"
 
 
+def _embed_skill_report(md: str) -> str:
+    """Embed a skill's standalone report inside the big one: drop its title
+    and footer, demote its headings one level. The content itself is
+    untouched — the same captured judgements, not a re-narration."""
+    out = []
+    for ln in md.splitlines()[1:]:
+        if ln.startswith("*Every verdict above"):
+            break
+        out.append("#" + ln if ln.startswith("## ") else ln)
+    return "\n".join(out).strip()
+
+
 def render_report_md(sym: str, quick: bool = False) -> str:
     """Compose the human-readable Markdown report from the SAME stored
-    analysis record the UI shows — every line traces to a captured
-    judgement; nothing is re-narrated."""
+    analysis records the UI shows — every line traces to a captured
+    judgement; nothing is re-narrated. Covers all three skills plus the
+    combined rating."""
     qual, qstatus = (None, "skipped_quick") if quick else _qual_scores_cached(sym)
     rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
+    ai_on = _ai_backend() is not None and not quick
+    mb_rec, _s1 = R.patterns_analysis(sym, ai=ai_on)
+    qr_rec, _s2 = R.risks_analysis(sym, ai=ai_on)
+    rt = R.compute_rating(sym, rec, mb_rec, qr_rec)
     tl = concall_timeline(sym, budget=4)
     fw_by_id = {p["id"]: p for p in _fw_json["parameters"]}
     L: list[str] = []
     A = L.append
 
-    A(f"# {rec['name']} ({sym}) — Business Quality Report")
+    A(f"# {rec['name']} ({sym}) — Complete Company Analysis")
     A("")
-    A(f"**Verdict: {_verdict_phrase(rec['overall'])}**"
+    if rt["score"] is not None:
+        A(f"## The rating: {rt['grade']} — {rt['score']} out of 100 "
+          f"{'★' * rt['stars']}{'☆' * (5 - rt['stars'])}")
+        A("")
+        A(f"**How it was built:** {rt['derivation']}")
+        A("")
+        for key in ("quality", "patterns", "safety"):
+            p = rt["pillars"][key]
+            pts = "—" if p["points"] is None else f"{p['points']}/100"
+            A(f"- **{p['name']} ({pts}):** {p['derivation']}")
+        A("")
+        A("*The three pillars answer three different questions: how good "
+          "is the business today (quality), does it look like the long-term "
+          "winners (multibagger fit), and what could break it (risk "
+          "safety). Each pillar's full evidence follows below.*")
+        A("")
+    A(f"**Business quality verdict: {_verdict_phrase(rec['overall'])}**"
       + (f" — quality score {rec['overall']:+.2f} on a scale of −2 (poor) "
          f"to +2 (excellent)." if rec['overall'] is not None else "."))
     A("")
@@ -858,8 +990,31 @@ def render_report_md(sym: str, quick: bool = False) -> str:
               + "  *(negative = customers pay before suppliers are due — good)*")
         A("")
 
+    mb_name = rec["name"]
+    A("## Which winning patterns does it fit?")
+    A("")
+    A("*From the MultibaggerPattern skill: eleven patterns that long-term "
+      "winners share (recurring revenue, toll-road economics, pricing "
+      "power, brand strength…), each judged from the calls AND the "
+      "numbers, with the reason for every verdict attached.*")
+    A("")
+    A(_embed_skill_report(R.MB_AZ.render_report(mb_rec, mb_name)))
+    A("")
+    A("## What could go wrong? (the risk check)")
+    A("")
+    A("*From the QualityRisks skill: eight ways strong businesses fail "
+      "(boom-bust cycles, disruption, government dependency, cheaper "
+      "good-enough rivals…), each judged with its severity and the reason "
+      "attached — silver linings included.*")
+    A("")
+    A(_embed_skill_report(R.QR_AZ.render_report(qr_rec, mb_name)))
+    A("")
     A("## How to read this report")
     A("")
+    A("- The overall rating combines three pillars: business quality "
+      "(45%), multibagger fit (30%) and risk safety (25%) — the arithmetic "
+      "is shown at the top, and each pillar lists exactly what earned or "
+      "cost points.")
     A("- Every verdict word maps to a score: Excellent (+2), Good (+1), "
       "Neutral (0), Weak (−1), Poor (−2).")
     A("- Every judgement above was captured at the moment of analysis with "

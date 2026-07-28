@@ -1,24 +1,26 @@
-# Business Quality Analyst — User Interface
+# Company Analyst — User Interface
 
 A web UI where you ask questions in **natural language** ("analyse DIXON",
-"best 10 companies", "compare TITAN and DMART", "working capital of IXIGO")
-and get the **complete business-quality analysis** back — quantitative AND
-qualitative — for all **742 Nifty Total Market companies**.
+"rate CRISIL", "best 10 companies", "risks of TATASTEEL") and get the
+**complete company analysis** back for all **742 Nifty Total Market
+companies** — one explainable rating out of 100 built from three engines
+that all run live on the server:
 
-Every analysis runs the **`Skills/BusinessAnalysis`** skill live on the server:
+1. **Business quality (45%)** — the `Skills/BusinessAnalysis` 34-check
+   framework: quantitative signals recomputed at request time, fused with
+   the qualitative playbook over the company's conference-call history.
+2. **Multibagger fit (30%)** — the `Skills/MultibaggerPattern` skill: which
+   of the 11 patterns long-term winners share does it fit, and why.
+3. **Risk safety (25%)** — the `Skills/QualityRisks` skill: which of the 8
+   ways quality companies fail is it exposed to, at what severity.
 
-1. **Quantitative module** — signals recomputed at request time from the
-   repository's balance sheets, P&L, cash flow, working capital, live market
-   data and management history.
-2. **Qualitative module** — the skill's playbook runs over the company's
-   latest conference-call transcript via Claude (your subscription through the
-   Claude Code CLI, or an API key). Scores are fused with the quantitative
-   ones per the skill's hybrid rule and **cached per transcript**, so each
-   company's call is analysed once (~30–60s), then instant.
-
-Parameters the call is silent on stay *not assessed* — coverage is reported
-honestly next to every score, and every qualitative score carries a verbatim
-quote from the call.
+The quality judge for all three engines is **Opus 5** (`claude-opus-5`),
+via your Claude subscription (Claude Code CLI) or an API key. Judge
+verdicts are **cached per transcript+model**, so a company's first
+analysis takes several minutes (three deep reads of its call history) and
+is instant afterwards. Every verdict states *why* it landed where it did;
+anything the evidence can't answer stays *not assessed* — never guessed —
+and every qualitative judgement carries a verbatim quote from the calls.
 
 ## Run it (GitHub Codespaces)
 
@@ -47,7 +49,7 @@ Local machine: same two commands after `pip install -r requirements.txt`
 
 | You type | You get |
 |---|---|
-| `analyse DIXON` / `tell me about asian paints` / any company name | complete scorecard: quant + concall-fused scores, per-parameter rationale **with quotes**, sales/OPM/CCC trends, management, concall extract |
+| `analyse DIXON` / `rate CRISIL` / any company name | the full workup: **rating card with point-by-point build-up**, quality scorecard with per-check rationale **and quotes**, the multibagger patterns it fits, the risk check with silver linings, trends, management, concall extract, downloadable report, and an "Ask about this analysis" box |
 | `best 10 companies` / `top 5 by growth` / `worst 10 by working capital` | coverage-guarded rankings; click a row to run the full analysis |
 | `select good businesses in PHARMA` | industry-filtered picks |
 | `compare TITAN and DMART` | side-by-side module scorecards |
@@ -60,7 +62,12 @@ Local machine: same two commands after `pip install -r requirements.txt`
 |---|---|
 | `GET /api/health` | mode, AI backend (`claude_code_cli` / `api` / null) |
 | `GET /api/companies` | all 742 quant records — recomputed when CSVs change (warmed at startup) |
-| `GET /api/company/{sym}` | **the complete analysis**: fresh quant + cached-or-live AI qualitative fusion (`?quick=1` skips AI) |
+| `GET /api/company/{sym}` | quality-framework analysis only (`?quick=1` skips AI) |
+| `GET /api/rating/{sym}` | **the complete analysis**: all three engines + the combined rating with full derivations (`?quick=1` = numbers only) |
+| `GET /api/patterns/{sym}` | MultibaggerPattern record alone |
+| `GET /api/risks/{sym}` | QualityRisks record alone |
+| `GET /api/report/{sym}` | the downloadable Complete Company Analysis (Markdown) |
+| `POST /api/ask/{sym}` | Q&A grounded in all three stored records + the rating |
 | `GET /api/concall/{sym}` | transcript text extracted on demand |
 | `POST /api/qualitative/{sym}` | raw AI concall scores only |
 | `POST /api/refresh` | drop caches after refreshing the CSVs |
@@ -70,6 +77,7 @@ Local machine: same two commands after `pip install -r requirements.txt`
 | File | Purpose |
 |---|---|
 | `server.py` | FastAPI backend — live skill execution, concall extraction, AI fusion, caching |
+| `rating.py` | loads MultibaggerPattern + QualityRisks, computes the 3-pillar rating with derivations |
 | `build_data.py` | shared scoring library (imported by the server) |
 | `index.html` / `app.js` / `style.css` | frontend: NL intent parsing + rendering (no build step, no dependencies) |
 | `.qual_cache.json` | on-disk cache of AI concall scores (gitignored; keyed by transcript mtime) |
