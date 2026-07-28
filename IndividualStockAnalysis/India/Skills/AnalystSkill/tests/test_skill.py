@@ -112,6 +112,85 @@ def test_report_has_no_jargon_and_no_internal_ids():
                 f"{sym}: jargon leaked: {banned}"
 
 
+# --------------------------------------------------------- extensibility
+FAKE_SKILL = '''
+def run(symbol, ai=True):
+    return {
+        "name": "Valuation Check",
+        "order": 40,
+        "status": "ok",
+        "record": {"symbol": symbol, "verdict": "fairly priced"},
+        "pillar": {"name": "Valuation comfort", "points": 60,
+                   "derivation": "Price sits mid-range against its own "
+                                 "history — neither a bargain nor a "
+                                 "stretch; 60 of 100.",
+                   "weight": 0.15},
+        "section_md": "## Is the price sensible? (valuation check)\\n\\n"
+                      "The stock looks fairly priced against its own "
+                      "history.",
+        "facts": {"verdict": "fairly priced",
+                  "names": ["Valuation Check"]},
+    }
+'''
+
+
+def test_future_skill_is_discovered_executed_and_folded_in(tmp_path):
+    """The extensibility contract: drop a new skill folder with an
+    analyst_interface.py next to the others and it joins the analysis —
+    discovered, executed, its pillar re-weighted into the rating, its
+    section in the report, its name in the methodology."""
+    fake = tmp_path / "ValuationSkill"
+    fake.mkdir()
+    (fake / "analyst_interface.py").write_text(FAKE_SKILL)
+
+    found = REG.discover_extensions(skills_dir=tmp_path)
+    assert [e["skill"] for e in found] == ["ValuationSkill"]
+
+    exts = REG.run_extensions("CRISIL", ai=False, skills_dir=tmp_path)
+    assert exts[0]["status"] == "ok"
+    assert exts[0]["record"]["verdict"] == "fairly priced"
+
+    ba, mb, qr, _ = _stack("CRISIL")
+    rt = C.compute_rating(ba, mb, qr, extensions=exts)
+    key = "ext:ValuationSkill"
+    assert key in rt["pillars"] and rt["pillars"][key]["points"] == 60
+    # weights re-normalized: the composite must match its own claim
+    weights = dict(C.WEIGHTS); weights[key] = 0.15
+    avail = {k: p for k, p in rt["pillars"].items() if p["points"] is not None}
+    wsum = sum(weights[k] for k in avail)
+    expect = round(sum(p["points"] * weights[k] for k, p in avail.items()) / wsum)
+    assert rt["score"] == expect
+    assert "valuation comfort" in rt["derivation"].lower()
+
+    md = C.render("CRISIL", "CRISIL Ltd.", ba, mb, qr, rt, synth=None,
+                  statuses={"business": "numbers_only",
+                            "patterns": "numbers_only",
+                            "risks": "numbers_only"},
+                  extensions=exts)
+    assert "Is the price sensible?" in md          # its section rendered
+    assert "ValuationSkill" in md                  # credited in methodology
+    assert md.find("Is the price sensible?") < md.find("## What to watch")
+
+
+def test_broken_extension_cannot_sink_the_report(tmp_path):
+    fake = tmp_path / "BrokenSkill"
+    fake.mkdir()
+    (fake / "analyst_interface.py").write_text("def run(symbol, ai=True):\n"
+                                              "    raise RuntimeError('boom')\n")
+    exts = REG.run_extensions("CRISIL", ai=False, skills_dir=tmp_path)
+    assert exts[0]["status"].startswith("failed:")
+    assert exts[0]["record"] is None
+    ba, mb, qr, _ = _stack("CRISIL")
+    rt = C.compute_rating(ba, mb, qr, extensions=exts)   # must not raise
+    assert rt["score"] is not None
+    md = C.render("CRISIL", "CRISIL Ltd.", ba, mb, qr, rt, synth=None,
+                  statuses={"business": "numbers_only",
+                            "patterns": "numbers_only",
+                            "risks": "numbers_only"},
+                  extensions=exts)
+    assert "failed:" in md                          # honest, not hidden
+
+
 def test_synthesis_grounding_rejects_unknown_names():
     ba, mb, qr, rt = _stack("CRISIL")
     # a fake synthesis that names a risk which is NOT in the records must

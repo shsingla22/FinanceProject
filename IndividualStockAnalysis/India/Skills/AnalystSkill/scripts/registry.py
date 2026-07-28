@@ -82,6 +82,72 @@ def discover() -> dict:
     }
 
 
+# ------------------------------------------------------------ extensions
+# EXTENSIBILITY CONTRACT: any FUTURE sibling skill becomes part of the
+# analyst's report automatically by shipping a file named
+# `analyst_interface.py` in its folder, exposing:
+#
+#     def run(symbol: str, ai: bool = True) -> dict
+#
+# returning at least {"name": str, "status": str, "record": dict} and
+# optionally:
+#     "order":      int   — where its section sits (built-ins are 10/20/30;
+#                            default 100 = after them)
+#     "pillar":     {"name": str, "points": 0-100 | None,
+#                    "derivation": str, "weight": float}
+#                          — folded into the combined rating, with all
+#                            weights re-normalized to sum to 1
+#     "section_md": str   — the skill's own Markdown section (headings at
+#                            "## " level), embedded verbatim in the report
+#     "facts":      dict  — compact facts fed to the analyst's-summary
+#                            synthesis (and to its grounding vocabulary via
+#                            a "names" list, if provided)
+#
+# The three built-in skills are wired natively (in that fixed order:
+# business quality -> multibagger patterns -> risks); extensions run after
+# them. A broken extension is reported in the methodology section, never
+# silently dropped and never allowed to sink the report.
+BUILTIN_FOLDERS = {"AnalystSkill", "BusinessAnalysis", "MultibaggerPattern",
+                   "QualityRisks"}
+
+
+def discover_extensions(skills_dir: Path | None = None) -> list[dict]:
+    """Future sibling skills that ship an analyst_interface.py."""
+    base = skills_dir or SKILLS
+    out = []
+    for d in sorted(base.iterdir()):
+        if not d.is_dir() or d.name in BUILTIN_FOLDERS:
+            continue
+        iface = d / "analyst_interface.py"
+        if iface.exists():
+            out.append({"skill": d.name, "path": iface})
+    return out
+
+
+def run_extensions(sym: str, ai: bool = True,
+                   skills_dir: Path | None = None) -> list[dict]:
+    """Execute every discovered extension. Failures are captured as a
+    status, not raised — one broken extension must not sink the report."""
+    results = []
+    for ext in discover_extensions(skills_dir):
+        try:
+            mod = _load(f"analyst_ext_{ext['skill']}", ext["path"])
+            res = mod.run(sym, ai=ai)
+            if not isinstance(res, dict) or "record" not in res:
+                raise ValueError("run() must return a dict with 'record'")
+            res.setdefault("name", ext["skill"])
+            res.setdefault("status", "ok")
+            res.setdefault("order", 100)
+            res["skill"] = ext["skill"]
+            results.append(res)
+        except Exception as e:
+            results.append({"skill": ext["skill"], "name": ext["skill"],
+                            "status": f"failed: {str(e)[:120]}",
+                            "record": None, "order": 100})
+    results.sort(key=lambda r: (r.get("order", 100), r["skill"]))
+    return results
+
+
 # ------------------------------------------------- BusinessAnalysis pillar
 def _ba_qual_prompt(sym: str) -> str | None:
     excerpt, n_calls, rng = MB_AZ._timeline_excerpt(sym)

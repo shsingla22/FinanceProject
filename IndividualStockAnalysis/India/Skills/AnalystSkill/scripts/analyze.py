@@ -35,12 +35,16 @@ def _ai_available() -> bool:
 
 
 def run_all(sym: str, ai: bool) -> dict:
+    """Execute every skill in the fixed order — what the business is
+    (BusinessAnalysis), what it could become (MultibaggerPattern), what
+    could stop it (QualityRisks) — then any auto-discovered extensions."""
     ba, s1 = REG.run_business(sym, ai=ai)
     mb, s2 = REG.run_patterns(sym, ai=ai)
     qr, s3 = REG.run_risks(sym, ai=ai)
-    rt = C.compute_rating(ba, mb, qr)
+    exts = REG.run_extensions(sym, ai=ai)
+    rt = C.compute_rating(ba, mb, qr, extensions=exts)
     return {"symbol": sym, "business": ba, "patterns": mb, "risks": qr,
-            "rating": rt,
+            "extensions": exts, "rating": rt,
             "statuses": {"business": s1, "patterns": s2, "risks": s3}}
 
 
@@ -57,19 +61,47 @@ def cmd_report(args):
               f"({REG.MODEL}, no timeout — first run can take several "
               f"minutes)…", file=sys.stderr)
     out = run_all(args.symbol, ai)
-    name = REG.company_name(args.symbol)
+    md = compose_md(args.symbol, out, ai)
+    Path(args.out).write_text(md)
+    print(f"wrote {args.out} ({len(md.splitlines())} lines)")
+
+
+def compose_md(sym: str, out: dict, ai: bool) -> str:
+    name = REG.company_name(sym)
     synth = None
     if ai:
         print("Composing the analyst's summary…", file=sys.stderr)
-        synth = C.synthesize(args.symbol, name, out["business"],
-                             out["patterns"], out["risks"], out["rating"])
+        synth = C.synthesize(sym, name, out["business"], out["patterns"],
+                             out["risks"], out["rating"],
+                             extensions=out.get("extensions"))
         if synth is None:
             print("(summary could not be grounded — omitted honestly)",
                   file=sys.stderr)
-    md = C.render(args.symbol, name, out["business"], out["patterns"],
-                  out["risks"], out["rating"], synth, out["statuses"])
-    Path(args.out).write_text(md)
-    print(f"wrote {args.out} ({len(md.splitlines())} lines)")
+    return C.render(sym, name, out["business"], out["patterns"],
+                    out["risks"], out["rating"], synth, out["statuses"],
+                    extensions=out.get("extensions"))
+
+
+def cmd_batch(args):
+    """One Markdown report per company into a directory."""
+    ai = _ai_available() and not args.quick
+    outdir = Path(args.out_dir)
+    outdir.mkdir(parents=True, exist_ok=True)
+    done = failed = 0
+    for sym in [s.upper() for s in args.symbols]:
+        try:
+            out = run_all(sym, ai)
+            md = compose_md(sym, out, ai)
+            (outdir / f"{sym}_analysis.md").write_text(md)
+            done += 1
+            print(f"[{done + failed}/{len(args.symbols)}] {sym}: "
+                  f"{out['rating']['grade']} {out['rating']['score']}",
+                  file=sys.stderr)
+        except Exception as e:
+            failed += 1
+            print(f"[{done + failed}/{len(args.symbols)}] {sym}: "
+                  f"FAILED {str(e)[:100]}", file=sys.stderr)
+    print(f"wrote {done} reports to {outdir} ({failed} failed)")
 
 
 def main():
@@ -82,9 +114,15 @@ def main():
     r.add_argument("symbol")
     r.add_argument("out")
     r.add_argument("--quick", action="store_true")
+    b = sub.add_parser("batch")
+    b.add_argument("symbols", nargs="+")
+    b.add_argument("--out-dir", required=True)
+    b.add_argument("--quick", action="store_true")
     args = ap.parse_args()
-    args.symbol = args.symbol.upper()
-    {"company": cmd_company, "report": cmd_report}[args.cmd](args)
+    if hasattr(args, "symbol"):
+        args.symbol = args.symbol.upper()
+    {"company": cmd_company, "report": cmd_report,
+     "batch": cmd_batch}[args.cmd](args)
 
 
 if __name__ == "__main__":

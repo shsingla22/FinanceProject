@@ -46,7 +46,25 @@ cd IndividualStockAnalysis/India/Skills/AnalystSkill
 python3 scripts/analyze.py report DIXON dixon.md          # full (AI judges + synthesis)
 python3 scripts/analyze.py report DIXON dixon.md --quick  # numbers only, no AI
 python3 scripts/analyze.py company DIXON                  # combined JSON record
+python3 scripts/analyze.py batch DIXON CRISIL TITAN --out-dir reports/
+                                                          # one MD per company
 ```
+
+## Extensibility — future skills join automatically
+
+The three current skills run natively, in a fixed, deliberate order:
+**BusinessAnalysis** (what the business is) → **MultibaggerPattern** (what
+it could become) → **QualityRisks** (what could stop it). Any FUTURE
+sibling skill joins the analysis by shipping an `analyst_interface.py` in
+its folder exposing `run(symbol, ai=True) -> dict` with at least
+`{name, status, record}` and optionally `order`, `pillar` (points 0–100 +
+derivation + weight — folded into the rating with ALL weights
+re-normalized to keep the arithmetic honest), `section_md` (its own report
+section) and `facts` (fed to the analyst's-summary synthesis and its
+grounding vocabulary). No AnalystSkill code change needed. A broken
+extension is reported in the methodology section — never silently dropped,
+never allowed to sink the report. The contract is unit-tested with a fake
+future skill.
 
 The judge/synthesis model is `ANALYST_MODEL` (default **Opus 5,
 `claude-opus-5`**, via the Claude Code CLI on your subscription); it is
@@ -63,8 +81,8 @@ verdict changes).
 |---|---|
 | `scripts/registry.py` | discovers + loads the sibling skills collision-safely, executes each; the BusinessAnalysis concall pass lives here (the sibling itself is quant-only) |
 | `scripts/composer.py` | pillars → rating with derivations; grounded-or-dropped synthesis; the coherent Markdown report |
-| `scripts/analyze.py` | CLI: `report SYM out.md [--quick]` · `company SYM [--quick]` |
-| `tests/test_skill.py` | 9 tests: sibling discovery, real-data execution of all three, honest quick-mode coverage, rating bounds + arithmetic-matches-its-claim, report coherence/order, jargon scan, synthesis grounding gate |
+| `scripts/analyze.py` | CLI: `report SYM out.md [--quick]` · `company SYM [--quick]` · `batch SYM… --out-dir DIR [--quick]` |
+| `tests/test_skill.py` | 11 tests: sibling discovery, real-data execution of all three, honest quick-mode coverage, rating bounds + arithmetic-matches-its-claim, report coherence/order, jargon scan, synthesis grounding gate, extension contract (fake future skill discovered/executed/folded in; broken extension can't sink the report) |
 
 ## Explainability
 

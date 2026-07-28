@@ -132,21 +132,39 @@ def safety_pillar(qr: dict) -> dict:
             "high": high, "elevated": elev}
 
 
-def compute_rating(ba: dict, mb: dict, qr: dict) -> dict:
+def compute_rating(ba: dict, mb: dict, qr: dict,
+                   extensions: list | None = None) -> dict:
+    """Combine the pillars. Extension skills that declare a pillar are
+    folded in and ALL weights are re-normalized to sum to 1, so the
+    arithmetic stays honest as the skill family grows."""
     pillars = {"quality": quality_pillar(ba), "patterns": patterns_pillar(mb),
                "safety": safety_pillar(qr)}
+    weights = dict(WEIGHTS)
+    order = ["quality", "patterns", "safety"]
+    for ext in (extensions or []):
+        p = ext.get("pillar")
+        if not p or p.get("points") is None:
+            continue
+        key = f"ext:{ext['skill']}"
+        pillars[key] = {"name": p.get("name", ext["name"]),
+                        "points": max(0, min(100, round(p["points"]))),
+                        "derivation": p.get("derivation",
+                                            "No derivation provided.")}
+        weights[key] = float(p.get("weight", 0.10))
+        order.append(key)
     avail = {k: p for k, p in pillars.items() if p["points"] is not None}
     if not avail:
         return {"score": None, "grade": "Not rated", "stars": 0,
                 "pillars": pillars,
-                "derivation": "None of the three pillars could be scored."}
-    wsum = sum(WEIGHTS[k] for k in avail)
-    score = round(sum(p["points"] * WEIGHTS[k] for k, p in avail.items()) / wsum)
+                "derivation": "None of the pillars could be scored."}
+    wsum = sum(weights[k] for k in avail)
+    score = round(sum(p["points"] * weights[k] for k, p in avail.items()) / wsum)
     grade, stars = _grade(score)
-    terms = " + ".join(f"{WEIGHTS[k] / wsum:.0%} × {pillars[k]['points']} "
+    terms = " + ".join(f"{weights[k] / wsum:.0%} × {pillars[k]['points']} "
                        f"({pillars[k]['name'].lower()})"
-                       for k in ("quality", "patterns", "safety") if k in avail)
+                       for k in order if k in avail)
     return {"score": score, "grade": grade, "stars": stars, "pillars": pillars,
+            "pillar_order": order,
             "derivation": f"Overall = {terms} = {score} out of 100 → "
                           f"{grade} ({stars} star{'s' if stars > 1 else ''})."}
 
@@ -178,12 +196,16 @@ def _compact(ba: dict, mb: dict, qr: dict, rt: dict) -> dict:
 
 
 def synthesize(sym: str, name: str, ba: dict, mb: dict, qr: dict,
-               rt: dict) -> dict | None:
+               rt: dict, extensions: list | None = None) -> dict | None:
     """One coherent narrative CONNECTING the three analyses — written by the
     judge model strictly from the records, cached by record content, and
     verified: every capitalized pattern/risk/area name it uses must exist
     in the records or the synthesis is rejected."""
     compact = _compact(ba, mb, qr, rt)
+    if extensions:
+        compact["additional_analyses"] = [
+            {"analysis": e["name"], "facts": e.get("facts", {})}
+            for e in extensions if e.get("record") is not None]
     blob = json.dumps(compact, sort_keys=True, default=str)
     key = hashlib.sha256((blob + REG.MODEL).encode()).hexdigest()[:24]
     cache = {}
@@ -236,6 +258,10 @@ def synthesize(sym: str, name: str, ba: dict, mb: dict, qr: dict,
         known.add(v["name"].lower())
     for m_ in MODULE_SHORT.values():
         known.add(m_.lower())
+    for e in (extensions or []):
+        known.add(e["name"].lower())
+        for n in (e.get("facts", {}) or {}).get("names", []):
+            known.add(str(n).lower())
     text = " ".join(synth["summary"]) + " " + " ".join(
         synth.get("watch_items", []))
     for phrase in re.findall(
@@ -257,7 +283,8 @@ def _word(score):
 
 
 def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
-           synth: dict | None, statuses: dict) -> str:
+           synth: dict | None, statuses: dict,
+           extensions: list | None = None) -> str:
     L: list[str] = []
     A = L.append
     fw_names = {p.id: p.name for p in REG.FW.parameters}
@@ -282,8 +309,10 @@ def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
         A("")
         A(f"**How it was built:** {rt['derivation']}")
         A("")
-        for key in ("quality", "patterns", "safety"):
-            p = rt["pillars"][key]
+        for key in rt.get("pillar_order", ("quality", "patterns", "safety")):
+            p = rt["pillars"].get(key)
+            if p is None:
+                continue
             pts = "—" if p["points"] is None else f"{p['points']}/100"
             A(f"- **{p['name']} ({pts}):** {p['derivation']}")
         A("")
@@ -406,6 +435,21 @@ def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
                       for v in quiet) + ".*")
         A("")
 
+    # ---- extension sections (future sibling skills slot in here)
+    for ext in (extensions or []):
+        if ext.get("record") is None:
+            continue
+        if ext.get("section_md"):
+            A(ext["section_md"].strip())
+            A("")
+        else:
+            A(f"## {ext['name']}")
+            A("")
+            A(f"*The {ext['skill']} skill ran ({ext['status']}) but "
+              f"provided no report section — its record fed the rating"
+              + (" and the summary" if ext.get("facts") else "") + ".*")
+            A("")
+
     # ---- what to watch
     A("## What to watch")
     A("")
@@ -440,6 +484,9 @@ def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
       f"patterns long-term winners share.")
     A(f"- **QualityRisks** ({statuses.get('risks', '?')}): the 8 channels "
       f"through which quality companies fail.")
+    for ext in (extensions or []):
+        A(f"- **{ext['skill']}** ({ext['status']}): discovered "
+          f"automatically via its analyst_interface.py.")
     A("")
     A("Every verdict was produced with its evidence attached at the moment "
       "of analysis; checks the evidence could not answer are marked, never "
