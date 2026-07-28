@@ -301,15 +301,156 @@ def synthesize(sym: str, name: str, ba: dict, mb: dict, qr: dict,
 
 
 # ------------------------------------------------------------- the report
+OVERVIEW_CACHE = HERE.parent / ".overview_cache.json"
+
+
 def _word(score):
     if score is None:
         return "Not assessed"
     return WORD.get(int(max(-2, min(2, round(score)))), "Neutral")
 
 
+def business_overview(sym: str, name: str) -> dict | None:
+    """What the company does and its business segments, written by the
+    judge model STRICTLY from the conference-call transcripts (cached per
+    transcript + model). None when no transcripts or the call fails."""
+    excerpt, n_calls, rng = REG.MB_AZ._timeline_excerpt(sym, budget=45000)
+    if not excerpt:
+        return None
+    pdf = (REG.INDIA / "ConferenceCalls" / "NiftyTotalMarket"
+           / f"{sym.replace('&', '_AND_')}.pdf")
+    stamp = f"{pdf.stat().st_mtime}:ov1:{REG.MODEL}"
+    cache = {}
+    if OVERVIEW_CACHE.exists():
+        try:
+            cache = json.loads(OVERVIEW_CACHE.read_text())
+        except Exception:
+            cache = {}
+    hit = cache.get(sym)
+    if hit and hit.get("stamp") == stamp:
+        return hit["overview"]
+    prompt = (
+        f"From the conference-call excerpts below ({n_calls} calls, {rng}), "
+        f"describe what {name} ({sym}) actually DOES, for a reader who has "
+        "never heard of it. Use ONLY what the calls state — no outside "
+        "knowledge. Plain, everyday financial language.\n\n"
+        "Return STRICT JSON only:\n"
+        "{\"what_it_does\": \"3-4 sentences: what it sells, to whom, how "
+        "it makes money, where it operates\", "
+        "\"parts\": [{\"name\": \"business line / segment as management "
+        "calls it\", \"what\": \"one plain sentence on what this part does "
+        "and roughly how big or important the calls say it is\"}]}\n\n"
+        f"CONFERENCE-CALL EXCERPTS ({sym}):\n{excerpt}"
+    )
+    for _ in range(2):
+        proc = subprocess.run(["claude", "-p", "--model", REG.MODEL],
+                              input=prompt, capture_output=True, text=True,
+                              timeout=None)
+        if proc.returncode != 0:
+            continue
+        m = re.search(r"\{.*\}", proc.stdout, re.DOTALL)
+        if not m:
+            continue
+        try:
+            ov = json.loads(m.group(0))
+        except json.JSONDecodeError:
+            continue
+        if ov.get("what_it_does"):
+            cache[sym] = {"stamp": stamp, "overview": ov}
+            OVERVIEW_CACHE.write_text(json.dumps(cache))
+            return ov
+    return None
+
+
+def _fmt_val(v, unit):
+    if unit == "%":
+        return f"{v:.0f}%"
+    if unit == "d":
+        return f"{v:.0f} days" if round(v) != 1 and round(v) != -1 else f"{v:.0f} day"
+    return f"{v:,.0f}"
+
+
+def _chart(title, series, unit="", yoy="pct"):
+    """A year-by-year bar chart in plain text (renders everywhere), with
+    the change vs the prior year on every row — the pictorial view of the
+    same numbers the checks above judged."""
+    years, vals = series.get("years", []), series.get("values", [])
+    pairs = [(y, v) for y, v in zip(years, vals) if v is not None]
+    if len(pairs) < 3:
+        return ""
+    pairs = pairs[-12:]
+    vmax = max(abs(v) for _, v in pairs) or 1
+    rows = []
+    prev = None
+    for y, v in pairs:
+        bar = "█" * max(1, round(abs(v) / vmax * 22))
+        if v < 0:
+            bar = "▒" * max(1, round(abs(v) / vmax * 22))   # negative years
+        change = ""
+        if prev is not None:
+            if yoy == "pct" and prev != 0:
+                ch = (v - prev) / abs(prev) * 100
+                arrow = "▲" if ch > 0.5 else ("▼" if ch < -0.5 else "▬")
+                change = f"  {arrow} {abs(ch):.0f}% vs prior year"
+            elif yoy == "pts":
+                ch = v - prev
+                arrow = "▲" if ch > 0.2 else ("▼" if ch < -0.2 else "▬")
+                change = (f"  {arrow} {abs(ch):.1f} point"
+                          f"{'s' if abs(ch) >= 1.05 or abs(ch) < 0.95 else ''}"
+                          f" vs prior year")
+            elif yoy == "days":
+                ch = v - prev
+                arrow = "▼" if ch < -0.5 else ("▲" if ch > 0.5 else "▬")
+                d = round(abs(ch))
+                change = (f"  {arrow} {d} day{'s' if d != 1 else ''} "
+                          f"vs prior year")
+        rows.append(f"{y:<8}{bar:<24}{_fmt_val(v, unit):>10}{change}")
+        prev = v
+    return (f"**{title}**\n\n```\n" + "\n".join(rows) + "\n```")
+
+
+def _verdict_plain(rt) -> str:
+    """A few plain lines on WHY the rating is what it is — deterministic,
+    from the same pillar facts that produced the number."""
+    if rt["score"] is None:
+        return rt["derivation"]
+    q = rt["pillars"]["quality"]
+    p = rt["pillars"]["patterns"]
+    s = rt["pillars"]["safety"]
+    bits = []
+    if q["points"] is not None:
+        w = ("an excellent" if q["points"] >= 80 else
+             "a good" if q["points"] >= 62 else
+             "an average" if q["points"] >= 45 else "a weak")
+        bits.append(f"the quality framework finds {w} business today "
+                    f"({q['points']}/100)")
+    if p["points"] is not None:
+        n = len(p.get("strong", []))
+        bits.append(f"it strongly fits {n} of the 11 patterns long-term "
+                    f"winners share" if n else
+                    "no winning pattern is strongly confirmed yet")
+    if s["points"] is not None:
+        high, elev = s.get("high", []), s.get("elevated", [])
+        if high:
+            bits.append(f"the risk review found "
+                        f"{len(high)} high risk{'s' if len(high) > 1 else ''} "
+                        f"({', '.join(high[:2])}{'…' if len(high) > 2 else ''})")
+        elif elev:
+            bits.append(f"the main risks are elevated but not severe "
+                        f"({', '.join(elev[:2])})")
+        else:
+            bits.append("the risk review found nothing severe")
+    return (f"In one breath: " + "; ".join(bits) +
+            f". Weighing those together gives {rt['score']} out of 100 — "
+            f"{rt['grade'].lower()}.")
+
+
 def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
            synth: dict | None, statuses: dict,
-           extensions: list | None = None) -> str:
+           extensions: list | None = None,
+           overview: dict | None = None,
+           trends: dict | None = None,
+           industry: str = "") -> str:
     L: list[str] = []
     A = L.append
     fw_names = {p.id: p.name for p in REG.FW.parameters}
@@ -317,8 +458,54 @@ def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
     A(f"# {name} ({sym}) — The Analyst's Report")
     A("")
 
+    # ---- 1. about the business
+    A("## About the business")
+    A("")
+    if industry:
+        A(f"*Industry: {industry}*")
+        A("")
+    if overview:
+        A(overview.get("what_it_does", "").strip())
+        A("")
+        parts = overview.get("parts") or []
+        if parts:
+            A("**The parts of the business:**")
+            A("")
+            for pt in parts:
+                A(f"- **{pt.get('name', '?')}** — {pt.get('what', '')}")
+            A("")
+        A("*Described strictly from management's own words on the "
+          "earnings calls.*")
+        A("")
+    else:
+        A("*No conference-call transcripts were available to describe the "
+          "business in management's own words — run the full analysis, or "
+          "see the evidence sections below.*")
+        A("")
+
+    # ---- 2. the verdict
+    if rt["score"] is not None:
+        A(f"## The verdict: {rt['grade']} — {rt['score']} out of 100 "
+          f"{'★' * rt['stars']}{'☆' * (5 - rt['stars'])}")
+        A("")
+        A(_verdict_plain(rt))
+        A("")
+        A(f"**The exact arithmetic:** {rt['derivation']}")
+        A("")
+        for key in rt.get("pillar_order", ("quality", "patterns", "safety")):
+            p = rt["pillars"].get(key)
+            if p is None:
+                continue
+            pts = "—" if p["points"] is None else f"{p['points']}/100"
+            A(f"- **{p['name']} ({pts}):** {p['derivation']}")
+        A("")
+    else:
+        A(f"## The verdict: {rt['grade']}")
+        A("")
+        A(rt["derivation"])
+        A("")
     if synth:
-        A("## The analyst's summary")
+        A("### The story in depth")
         A("")
         for para in synth["summary"]:
             A(para)
@@ -328,137 +515,149 @@ def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
           "grounds to reject it.*")
         A("")
 
-    if rt["score"] is not None:
-        A(f"## The rating: {rt['grade']} — {rt['score']} out of 100 "
-          f"{'★' * rt['stars']}{'☆' * (5 - rt['stars'])}")
-        A("")
-        A(f"**How it was built:** {rt['derivation']}")
-        A("")
-        for key in rt.get("pillar_order", ("quality", "patterns", "safety")):
-            p = rt["pillars"].get(key)
-            if p is None:
-                continue
-            pts = "—" if p["points"] is None else f"{p['points']}/100"
-            A(f"- **{p['name']} ({pts}):** {p['derivation']}")
-        A("")
-
-    # ---- pillar 1: business quality
-    A("## How good is the business? (34-check quality framework)")
+    # ---- 3a. business quality — every dimension
+    A("## Section 1 — How good is the business? (34-check quality framework)")
     A("")
-    A(f"**{_word(ba['overall'])}** — score "
+    A(f"**Overall: {_word(ba['overall'])}** — score "
       + (f"{ba['overall']:+.2f}" if ba["overall"] is not None else "n/a")
-      + f" on a −2…+2 scale; {ba['coverage']:.0%} of checks had evidence.")
+      + f" on a −2 (poor) to +2 (excellent) scale; {ba['coverage']:.0%} of "
+        f"the 34 checks had evidence (unanswerable checks are marked, "
+        f"never guessed).")
     A("")
     A("| Area | Verdict | Score | Checks done |")
     A("|---|---|---|---|")
     for m in REG.MODULE_IDS:
-        md = ba["modules"][m]
-        A(f"| {MODULE_SHORT[m]} | {_word(md['score'])} | "
-          f"{'—' if md['score'] is None else format(md['score'], '+.2f')} | "
-          f"{md['assessed']} of {md['total']} |")
-    A("")
-    ranked = sorted(ba["params"].items(), key=lambda kv: kv[1]["score"])
-    lows, highs = ranked[:3], list(reversed(ranked[-3:]))
-    A("**What stands out on the upside:**")
-    A("")
-    for pid, p in highs:
-        if p["score"] <= 0:
-            continue
-        A(f"- **{fw_names.get(pid, pid)} — {_word(p['score'])}**: "
-          f"{p['rationale']}")
-        if p.get("quote"):
-            A(f"  > \"{p['quote']}\" — *management, on an earnings call*")
-    A("")
-    A("**What stands out on the downside:**")
-    A("")
-    any_low = False
-    for pid, p in lows:
-        if p["score"] >= 0:
-            continue
-        any_low = True
-        A(f"- **{fw_names.get(pid, pid)} — {_word(p['score'])}**: "
-          f"{p['rationale']}")
-        if p.get("quote"):
-            A(f"  > \"{p['quote']}\" — *management, on an earnings call*")
-    if not any_low:
-        A("- Nothing scored below Neutral.")
+        md_ = ba["modules"][m]
+        A(f"| {MODULE_SHORT[m]} | {_word(md_['score'])} | "
+          f"{'—' if md_['score'] is None else format(md_['score'], '+.2f')} | "
+          f"{md_['assessed']} of {md_['total']} |")
     A("")
 
-    # ---- pillar 2: patterns
-    A("## Does it look like a long-term winner? (11 multibagger patterns)")
+    if trends:
+        charts = [c for c in [
+            _chart("Sales, year by year (₹ crore)", trends.get("sales", {}),
+                   "", "pct"),
+            _chart("Operating margin — the share of sales kept as profit",
+                   trends.get("opm", {}), "%", "pts"),
+            _chart("Return on capital employed — what the business earns "
+                   "on the money in it", trends.get("roce", {}), "%", "pts"),
+            _chart("Cash conversion cycle — days cash is stuck in the "
+                   "trade loop (negative = customers pay first: good)",
+                   trends.get("ccc", {}), "d", "days"),
+        ] if c]
+        if charts:
+            A("### The numbers over time")
+            A("")
+            A("*The same figures the checks below judged, drawn year by "
+              "year — █ bars scale to the biggest year (▒ marks a negative "
+              "year), and every row shows the change on the year before.*")
+            A("")
+            for c in charts:
+                A(c)
+                A("")
+
+    A("### Every check, area by area")
+    A("")
+    for m in REG.MODULE_IDS:
+        md_ = ba["modules"][m]
+        A(f"**{MODULE_SHORT[m]} — {_word(md_['score'])}"
+          + (f" ({md_['score']:+.2f})" if md_["score"] is not None else "")
+          + f"** · {md_['assessed']} of {md_['total']} checks had evidence")
+        A("")
+        assessed = [(pid, p) for pid, p in ba["params"].items()
+                    if p.get("module") == m]
+        assessed.sort(key=lambda kv: -kv[1]["score"])
+        for pid, p in assessed:
+            src = {"calls": "from the conference calls",
+                   "fused": "from the numbers and the calls together"}.get(
+                  p.get("source"), "from the financial statements")
+            A(f"- **{fw_names.get(pid, pid)} — {_word(p['score'])}** "
+              f"*({src})*: {p['rationale']}")
+            if p.get("quote"):
+                A(f"  > \"{p['quote']}\" — *management, on an earnings call*")
+        silent = [fw_names[q.id] for q in REG.FW.parameters
+                  if q.module == m and q.id not in ba["params"]]
+        if silent:
+            A(f"- *Not assessed (the evidence was silent — never guessed): "
+              + "; ".join(silent) + ".*")
+        A("")
+
+    # ---- 3b. patterns — every dimension
+    A("## Section 2 — Does it look like a long-term winner? "
+      "(11 multibagger patterns)")
     A("")
     g = mb["core_gate"]
     gate_word = {"PASS": "passes", "PARTIAL": "partly passes",
                  "FAIL": "fails", "UNKNOWN": "could not be tested against"}[g["status"]]
-    A(f"The company {gate_word} the foundation every multibagger shares "
-      f"(steady cash + high returns on capital + growth), "
-      f"{g['passed']} of {g['of']} testable checks passing.")
-    A("")
     matched = [v for v in mb["verdicts"]
                if v["verdict"] in ("STRONG FIT", "LIKELY FIT", "QUANT SIGNAL")]
-    if matched:
-        for v in matched:
-            A(f"**{v['name']} — {v['verdict']}** *({v['friendly']})*")
-            A("")
-            A(f"Why: {v.get('derivation') or v['verdict_friendly']}")
-            if v["qual"].get("fit") and v["qual"].get("rationale"):
-                A("")
-                A(v["qual"]["rationale"])
-            if v["qual"].get("quote"):
-                A("")
-                A(f"> \"{v['qual']['quote']}\" — *management, on an "
-                  f"earnings call*")
-            A("")
-    else:
-        A("No pattern is confirmed by the evidence.")
+    A(f"**Overall:** the company {gate_word} the foundation every "
+      f"multibagger shares (steady cash + high returns on capital + "
+      f"growth), {g['passed']} of {g['of']} testable checks passing"
+      + (f", and fits {len(matched)} of the 11 patterns: "
+         + ", ".join(v["name"] for v in matched) + "."
+         if matched else "; no pattern is confirmed by the evidence."))
+    A("")
+    for v in mb["verdicts"]:
+        A(f"### {v['name']} — {v['verdict']}")
+        A(f"*\"{v['friendly']}\"*")
         A("")
-    rest = [v for v in mb["verdicts"] if v not in matched]
-    if rest:
-        A("*Patterns that did not fit or could not be assessed: "
-          + "; ".join(f"{v['name']} ({v['verdict'].lower()})"
-                      for v in rest) + ".*")
+        A(f"**Why this verdict:** {v.get('derivation') or v['verdict_friendly']}")
         A("")
+        if v["qual"].get("fit") and v["qual"].get("rationale"):
+            A(f"**What the calls show:** {v['qual']['rationale']}")
+            A("")
+        if v["qual"].get("quote"):
+            A(f"> \"{v['qual']['quote']}\" — *management, on an earnings call*")
+            A("")
+        for e in v["quant"]["evidence"]:
+            mark = {"supports": "✅", "against": "❌", "no data": "⬜"}[e["status"]]
+            A(f"- {mark} {e['explanation']}")
+        if v["quant"]["evidence"]:
+            A("")
 
-    # ---- pillar 3: risks
-    A("## What could break it? (8 risk channels)")
+    # ---- 3c. risks — every dimension
+    A("## Section 3 — What could break it? (8 risk channels)")
     A("")
     fr = qr["fragility"]
     fr_word = {"SOUND": "shows no financial stress",
                "STRAINED": "shows one financial stress signal",
                "STRESSED": "shows multiple financial stress signals",
                "UNKNOWN": "could not be stress-tested"}[fr["status"]]
-    A(f"The balance sheet and cash engine {fr_word}"
-      + (f" — {fr['derivation']}" if fr.get("derivation") else ".").rstrip(".")
-      + ".")
-    A("")
     material = [v for v in qr["verdicts"]
                 if v["verdict"] in ("HIGH RISK", "ELEVATED", "QUANT FLAG")]
-    if material:
-        for v in material:
-            A(f"**{v['name']} — {v['verdict']}** *({v['friendly']})*")
-            A("")
-            A(f"Why: {v.get('derivation') or v['verdict_friendly']}")
-            if v["qual"].get("exposure") and v["qual"].get("rationale"):
-                A("")
-                A(v["qual"]["rationale"])
-            if v["qual"].get("quote"):
-                A("")
-                A(f"> \"{v['qual']['quote']}\" — *management, on an "
-                  f"earnings call*")
-            if v["qual"].get("mitigant"):
-                A("")
-                A(f"*Silver lining: {v['qual']['mitigant']}*")
-            A("")
-    else:
-        A("No risk channel shows both meaningful evidence and severity "
-          "today.")
+    A(f"**Overall:** "
+      + (f"the risks worth attention are "
+         + ", ".join(v["name"] for v in material)
+         if material else
+         "no risk channel shows both meaningful evidence and severity today")
+      + f". The balance sheet and cash engine {fr_word} — {fr['derivation']}")
+    A("")
+    for c in fr["checks"]:
+        mark = "⚠️" if c["flagged"] else ("⬜" if c["flagged"] is None else "✅")
+        A(f"- {mark} {c['explanation']}")
+    A("")
+    for v in qr["verdicts"]:
+        A(f"### {v['name']} — {v['verdict']}")
+        A(f"*\"{v['friendly']}\"*")
         A("")
-    quiet = [v for v in qr["verdicts"] if v not in material]
-    if quiet:
-        A("*Risk channels that are quiet or assessed low: "
-          + "; ".join(f"{v['name']} ({v['verdict'].lower()})"
-                      for v in quiet) + ".*")
+        A(f"**Why this verdict:** {v.get('derivation') or v['verdict_friendly']}")
         A("")
+        if v["qual"].get("exposure") and v["qual"].get("rationale"):
+            A(f"**What the calls show:** {v['qual']['rationale']}")
+            A("")
+        if v["qual"].get("quote"):
+            A(f"> \"{v['qual']['quote']}\" — *management, on an earnings call*")
+            A("")
+        if v["qual"].get("mitigant"):
+            A(f"*Silver lining: {v['qual']['mitigant']}*")
+            A("")
+        for e in v["quant"]["evidence"]:
+            mark = {"flags the risk": "⚠️", "no fingerprint": "✅",
+                    "no data": "⬜"}[e["status"]]
+            A(f"- {mark} {e['explanation']}")
+        if v["quant"]["evidence"]:
+            A("")
 
     # ---- extension sections (future sibling skills slot in here)
     for ext in (extensions or []):
@@ -517,6 +716,7 @@ def render(sym: str, name: str, ba: dict, mb: dict, qr: dict, rt: dict,
       "of analysis; checks the evidence could not answer are marked, never "
       "guessed. \"with_calls\" means the company's conference-call history "
       "was read by the judge model; \"numbers_only\" means only the "
-      "financial statements could be used. Research tooling; not "
-      "investment advice.")
+      "financial statements could be used. The charts draw the same yearly "
+      "figures the checks judged — nothing is computed twice. Research "
+      "tooling; not investment advice.")
     return "\n".join(L)

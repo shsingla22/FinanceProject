@@ -67,19 +67,24 @@ def cmd_report(args):
 
 
 def compose_md(sym: str, out: dict, ai: bool) -> str:
-    name = REG.company_name(sym)
-    synth = None
+    meta = REG.company_meta(sym)
+    name = meta["name"]
+    synth = overview = None
     if ai:
-        print("Composing the analyst's summary…", file=sys.stderr)
+        print("Composing the business overview and analyst's summary…",
+              file=sys.stderr)
+        overview = C.business_overview(sym, name)
         synth = C.synthesize(sym, name, out["business"], out["patterns"],
                              out["risks"], out["rating"],
                              extensions=out.get("extensions"))
         if synth is None:
             print("(summary could not be grounded — omitted honestly)",
                   file=sys.stderr)
+    trends = REG.trend_series(sym)
     return C.render(sym, name, out["business"], out["patterns"],
                     out["risks"], out["rating"], synth, out["statuses"],
-                    extensions=out.get("extensions"))
+                    extensions=out.get("extensions"), overview=overview,
+                    trends=trends, industry=meta["industry"])
 
 
 def cmd_batch(args):

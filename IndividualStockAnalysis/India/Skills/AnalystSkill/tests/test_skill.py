@@ -73,25 +73,62 @@ def test_rating_arithmetic_matches_its_own_claim():
 # --------------------------------------------------------- the report
 def _report(sym):
     ba, mb, qr, rt = _stack(sym)
-    name = REG.company_name(sym)
-    return C.render(sym, name, ba, mb, qr, rt, synth=None,
+    meta = REG.company_meta(sym)
+    return C.render(sym, meta["name"], ba, mb, qr, rt, synth=None,
                     statuses={"business": "numbers_only",
                               "patterns": "numbers_only",
-                              "risks": "numbers_only"})
+                              "risks": "numbers_only"},
+                    trends=REG.trend_series(sym),
+                    industry=meta["industry"])
 
 
 def test_report_is_one_coherent_document():
     md = _report("CRISIL")
     assert md.startswith("# ")
     assert "The Analyst's Report" in md
-    # one coherent flow: rating, then the three pillars, then watch + method
-    order = ["## The rating:", "How good is the business?",
-             "Does it look like a long-term winner?", "What could break it?",
+    # the presentation order the user specified: about the business, the
+    # verdict, then the three skill sections, then watch + methodology
+    order = ["## About the business", "## The verdict:",
+             "## Section 1 — How good is the business?",
+             "## Section 2 — Does it look like a long-term winner?",
+             "## Section 3 — What could break it?",
              "## What to watch", "## How this report was built"]
     idx = [md.find(s) for s in order]
     assert all(i >= 0 for i in idx), f"missing sections: {list(zip(order, idx))}"
     assert idx == sorted(idx), "sections out of order"
     assert "not investment advice" in md
+
+
+def test_report_covers_every_dimension_of_every_skill():
+    """User requirement: each dimension of each skill must appear —
+    all 7 quality areas, all 11 patterns, all 8 risks, each with a
+    verdict heading of its own."""
+    md = _report("CRISIL")
+    for area in ("Capital Allocation", "Return on Capital", "Growth",
+                 "Management", "Industry Structure", "Customer Benefits",
+                 "Competitive Advantage"):
+        assert area in md, f"quality area missing: {area}"
+    for pat in ("Recurring Revenue", "Friendly Middleman", "Toll Roads",
+                "Low Price Plus", "Pricing Power", "Brand Strength",
+                "Innovation Dominance", "Forward Integrators",
+                "Market Share Gainers", "Corporate Culture",
+                "Cost to Replicate"):
+        assert f"### {pat}" in md, f"pattern section missing: {pat}"
+    for risk in ("Cyclicality", "Technological Innovation",
+                 "Government Dependency", "Stakeholder Concentration",
+                 "New Entrants", "Shifting Consumer Preferences",
+                 "Fashion Risk", "Good Enough Goods"):
+        assert f"### {risk}" in md, f"risk section missing: {risk}"
+    assert md.count("Why this verdict:") >= 19   # 11 patterns + 8 risks
+
+
+def test_report_has_year_by_year_charts():
+    md = _report("CRISIL")
+    assert "### The numbers over time" in md
+    assert "█" in md, "no bar chart rendered"
+    assert "vs prior year" in md, "no year-on-year change annotations"
+    assert "Sales, year by year" in md
+    assert "Operating margin" in md
 
 
 def test_report_names_every_sibling_skill():

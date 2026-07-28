@@ -292,8 +292,53 @@ def run_risks(sym: str, ai: bool = True) -> tuple[dict, str]:
 
 
 def company_name(sym: str) -> str:
+    return company_meta(sym)["name"]
+
+
+def company_meta(sym: str) -> dict:
     import pandas as pd
     const = pd.read_csv(INDIA / "NiftyTotalMarket"
                         / "niftytotalmarket_constituents.csv")
     row = const[const.nse_symbol == sym]
-    return str(row.iloc[0].company_name) if len(row) else sym
+    if not len(row):
+        return {"name": sym, "industry": ""}
+    ind = row.iloc[0].industry if "industry" in row.columns else ""
+    return {"name": str(row.iloc[0].company_name),
+            "industry": str(ind) if isinstance(ind, str) else ""}
+
+
+def trend_series(sym: str) -> dict:
+    """Yearly series WITH their FY labels, for the report's charts. Each
+    metric carries its own years so mismatched histories can't misalign."""
+    frames = MB_QE._load(INDIA, "NiftyTotalMarket")
+
+    def with_years(df, item, value_col, item_col="line_item"):
+        if df.empty:
+            return [], []
+        sub = df[(df["nse_symbol"] == sym) & (df[item_col] == item)]
+        if sub.empty:
+            return [], []
+        sub = sub.sort_values("year", key=lambda s: s.map(MB_QE._year_key))
+        years, vals = [], []
+        for _, r in sub.iterrows():
+            v = r[value_col]
+            try:
+                v = float(v)
+                if v != v:          # NaN
+                    continue
+            except (TypeError, ValueError):
+                continue
+            years.append(re.sub(r"^[A-Z][a-z]{2}\s+", "FY", str(r["year"])))
+            vals.append(v)
+        return years, vals
+
+    out = {}
+    for key, (frame, item, col, icol) in {
+        "sales": ("pl", "Sales", "value", "line_item"),
+        "opm": ("pl", "OPM %", "value", "line_item"),
+        "roce": ("wc", "ROCE %", "value", "metric"),
+        "ccc": ("wc", "Cash Conversion Cycle", "value", "metric"),
+    }.items():
+        years, vals = with_years(frames[frame], item, col, icol)
+        out[key] = {"years": years, "values": vals}
+    return out
