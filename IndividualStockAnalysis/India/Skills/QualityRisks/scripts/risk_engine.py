@@ -130,10 +130,13 @@ def combine(risk: dict, checks: dict, qual: dict | None,
                           "the call evidence decides alone.")
         else:
             verdict = "ELEVATED"
-            derivation = (f"the calls show clear exposure, but none of the "
-                          f"{q['available']} computed fingerprints confirms "
-                          f"it in the numbers yet — held one step below the "
-                          f"top severity.")
+            derivation = (("the calls show clear exposure, but the only "
+                           "computed fingerprint does not confirm it"
+                           if q["available"] == 1 else
+                           f"the calls show clear exposure, but none of the "
+                           f"{q['available']} computed fingerprints confirms "
+                           f"it in the numbers yet")
+                          + " — held one step below the top severity.")
     elif exposure == "moderate":
         if q["flagged"] >= 1:
             verdict = "ELEVATED"
@@ -162,8 +165,11 @@ def combine(risk: dict, checks: dict, qual: dict | None,
                       f"verdict.")
     elif judged and q["available"] > 0:
         verdict = "NO SIGNAL"
-        derivation = (f"the judge read the calls and found nothing, and all "
-                      f"{q['available']} computed fingerprints are clean.")
+        derivation = ("the judge read the calls and found nothing, and "
+                      + ("the only computed fingerprint is clean."
+                         if q["available"] == 1 else
+                         f"all {q['available']} computed fingerprints are "
+                         f"clean."))
     else:
         verdict = "NOT ASSESSED"
         derivation = ("neither the calls nor the numbers offered usable "

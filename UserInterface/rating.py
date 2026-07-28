@@ -143,6 +143,10 @@ def quality_pillar(rec: dict) -> dict:
                 "derivation": "The 34-check quality framework could not "
                               "score this business — not enough evidence."}
     pts = round((overall + 2) / 4 * 100)
+    caution = ("" if cov >= 0.5 else
+               f" Caution: only {cov:.0%} of the 34 checks could be "
+               f"answered from this evidence — a thin base; the full "
+               f"analysis (with the conference calls) firms this up.")
     return {
         "name": "Business quality",
         "points": pts,
@@ -150,7 +154,7 @@ def quality_pillar(rec: dict) -> dict:
             f"The 34-check quality framework scored the business "
             f"{overall:+.2f} on its −2 (poor) to +2 (excellent) scale, with "
             f"{cov:.0%} of checks backed by evidence; mapped onto 0–100 "
-            f"that is {pts} points."),
+            f"that is {pts} points.") + caution,
         "detail": {"overall": overall, "coverage": cov,
                    "qualitative_included": rec.get("qualitative_included",
                                                    False)},
