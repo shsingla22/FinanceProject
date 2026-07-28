@@ -223,3 +223,24 @@ def test_synthesis_grounding_rejects_unknown_names():
         if base and base not in known:
             bad.append(base)
     assert bad, "the grounding scan must catch the fabricated risk name"
+
+
+def test_grounding_gate_ignores_stopword_phrases():
+    """'The pattern is…' at sentence start must NOT reject a summary —
+    stopwords are stripped before the name is checked (the Ethos case)."""
+    _, mb, qr, _ = _stack("CRISIL")
+    known = {v["name"].lower() for v in mb["verdicts"]} | \
+            {v["name"].lower() for v in qr["verdicts"]}
+    STOP = {"the", "a", "an", "this", "that", "its", "each", "one", "no",
+            "any", "every", "both", "another", "same", "such", "which"}
+    text = "The pattern that matters here is Toll Roads. Each risk is small."
+    bad = []
+    for phrase in re.findall(r"(?:[A-Z][a-z]+ ){1,3}(?:pattern|risk|test)\b",
+                             text):
+        words = [w for w in phrase.rsplit(" ", 1)[0].strip().split()
+                 if w.lower() not in STOP]
+        base = " ".join(words).lower()
+        if base and base not in known and \
+                not any(base in k or k in base for k in known):
+            bad.append(phrase)
+    assert bad == [], f"stopword phrases wrongly rejected: {bad}"

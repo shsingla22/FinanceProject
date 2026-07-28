@@ -251,19 +251,24 @@ def synthesize(sym: str, name: str, ba: dict, mb: dict, qr: dict,
         "verdict, each tied to a named pattern, risk or check\"]}\n\n"
         f"THE RECORDS:\n{blob[:24000]}"
     )
-    proc = subprocess.run(["claude", "-p", "--model", REG.MODEL],
-                          input=prompt, capture_output=True, text=True,
-                          timeout=None)
-    if proc.returncode != 0:
-        return None
-    m = re.search(r"\{.*\}", proc.stdout, re.DOTALL)
-    if not m:
-        return None
-    try:
-        synth = json.loads(m.group(0))
-    except json.JSONDecodeError:
-        return None
-    if not synth.get("summary"):
+    synth = None
+    for attempt in range(2):        # one retry: broken JSON / a CLI blip
+        proc = subprocess.run(["claude", "-p", "--model", REG.MODEL],
+                              input=prompt, capture_output=True, text=True,
+                              timeout=None)
+        if proc.returncode != 0:
+            continue
+        m = re.search(r"\{.*\}", proc.stdout, re.DOTALL)
+        if not m:
+            continue
+        try:
+            candidate = json.loads(m.group(0))
+        except json.JSONDecodeError:
+            continue
+        if candidate.get("summary"):
+            synth = candidate
+            break
+    if synth is None:
         return None
     # Grounding check: every proper name of a pattern/risk/area used in the
     # summary must exist in the records (guards against imported claims).
@@ -280,9 +285,13 @@ def synthesize(sym: str, name: str, ba: dict, mb: dict, qr: dict,
             known.add(str(n).lower())
     text = " ".join(synth["summary"]) + " " + " ".join(
         synth.get("watch_items", []))
+    STOP = {"the", "a", "an", "this", "that", "its", "each", "one", "no",
+            "any", "every", "both", "another", "same", "such", "which"}
     for phrase in re.findall(
             r"(?:[A-Z][a-z]+ ){1,3}(?:pattern|risk|test)\b", text):
-        base = phrase.rsplit(" ", 1)[0].strip().lower()
+        words = [w for w in phrase.rsplit(" ", 1)[0].strip().split()
+                 if w.lower() not in STOP]
+        base = " ".join(words).lower()
         if base and base not in known and \
                 not any(base in k or k in base for k in known):
             return None            # unverifiable name — reject the synthesis
