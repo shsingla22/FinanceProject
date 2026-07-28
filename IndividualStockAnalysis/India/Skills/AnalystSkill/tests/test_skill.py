@@ -112,6 +112,21 @@ def test_report_has_no_jargon_and_no_internal_ids():
                 f"{sym}: jargon leaked: {banned}"
 
 
+def test_untested_company_is_not_rated_not_faked():
+    """A lender in numbers-only mode: the frameworks can't read bank
+    financials, so NOTHING is actually tested. The rating must say 'Not
+    rated' — never award a perfect safety score for untested risks, and
+    never count an untestable foundation as a zero."""
+    ba, mb, qr, rt = _stack("HDFCBANK")
+    if ba["overall"] is not None:      # guard: only meaningful if untestable
+        import pytest
+        pytest.skip("bank unexpectedly scoreable — rule not exercised")
+    assert rt["pillars"]["safety"]["points"] is None
+    assert "untested" in rt["pillars"]["safety"]["derivation"]
+    assert rt["pillars"]["patterns"]["points"] is None
+    assert rt["score"] is None and rt["grade"] == "Not rated"
+
+
 # --------------------------------------------------------- extensibility
 FAKE_SKILL = '''
 def run(symbol, ai=True):

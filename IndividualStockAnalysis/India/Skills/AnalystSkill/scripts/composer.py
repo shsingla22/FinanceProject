@@ -73,6 +73,14 @@ def patterns_pillar(mb: dict) -> dict:
     likely = [v["name"] for v in vs if v["verdict"] == "LIKELY FIT"]
     signal = [v["name"] for v in vs if v["verdict"] == "QUANT SIGNAL"]
     gate = mb["core_gate"]["status"]
+    if mb["core_gate"]["of"] <= 1 and not (strong or likely or signal):
+        return {"name": "Multibagger fit", "points": None,
+                "derivation": f"The foundation test was essentially "
+                              f"untestable (only {mb['core_gate']['of']} of "
+                              f"its 3 checks had data) and no pattern shows "
+                              f"any evidence — this pillar is left unscored "
+                              f"rather than guessed.",
+                "strong": [], "likely": []}
     gate_pts = {"PASS": 25, "PARTIAL": 10}.get(gate, 0)
     raw = gate_pts + 15 * len(strong) + 8 * len(likely) + 3 * len(signal)
     pts = min(100, raw)
@@ -105,6 +113,14 @@ def safety_pillar(qr: dict) -> dict:
     watch = [v["name"] for v in vs if v["verdict"] == "WATCH"]
     flags = [v["name"] for v in vs if v["verdict"] == "QUANT FLAG"]
     frag = qr["fragility"]["status"]
+    tested = [v for v in vs if v["verdict"] != "NOT ASSESSED"]
+    if not tested and frag == "UNKNOWN":
+        return {"name": "Risk safety", "points": None,
+                "derivation": "None of the eight risk channels could be "
+                              "tested — an untested company is not a safe "
+                              "one, so this pillar is left unscored rather "
+                              "than given a perfect mark.",
+                "high": [], "elevated": []}
     frag_pts = {"STRESSED": 20, "STRAINED": 8}.get(frag, 0)
     raw = (100 - 20 * len(high) - 10 * len(elev) - 4 * len(watch)
            - 4 * len(flags) - frag_pts)

@@ -128,9 +128,10 @@ def score_params(sig: dict, fw) -> list:
     if v["data_available"] and isinstance(v["value"], dict):
         val = v["value"].get("ccc_latest")
     add("CAP.working_capital_cost", "CAP", "quantitative", tmap("ccc", val),
-        ((f"Cash comes back {abs(val):.0f} days BEFORE suppliers need to be "
-          f"paid — customers effectively fund the business (negative working "
-          f"capital, a rare strength)." if val <= 0 else
+        ((f"Cash comes back {abs(val):.0f} "
+          f"day{'s' if round(abs(val)) != 1 else ''} BEFORE suppliers need "
+          f"to be paid — customers effectively fund the business (negative "
+          f"working capital, a rare strength)." if val <= 0 else
           f"About {val:.0f} day{'s' if round(val) != 1 else ''} of cash "
           f"stays stuck between paying suppliers and collecting from customers"
           + (" — a short, healthy cycle." if val <= 30 else
