@@ -278,13 +278,14 @@ def compute_checks(sym: str, base: Path = INDIA, universe: str = UNIVERSE) -> di
         early = sum(dd[:3]) / 3
         late = sum(dd[-3:]) / 3
         flagged = late - early >= 15 and late >= 45
+        day = lambda n: f"{n:.0f} day" + ("" if round(n) == 1 else "s")
         if flagged:
-            expl = (f"Customers now take about {late:.0f} days to pay, up "
+            expl = (f"Customers now take about {day(late)} to pay, up "
                     f"from {early:.0f} — lengthening collection terms are "
                     f"how weak bargaining power against concentrated "
                     f"customers shows up in the numbers.")
         else:
-            expl = (f"Customers pay in about {late:.0f} days (was "
+            expl = (f"Customers pay in about {day(late)} (was "
                     f"{early:.0f}) — no sign of weakening bargaining power "
                     f"in collection terms.")
         out["receivables_creep"] = _check(flagged, {"early": early,

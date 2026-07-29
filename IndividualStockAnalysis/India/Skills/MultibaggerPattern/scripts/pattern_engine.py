@@ -125,8 +125,11 @@ def combine(pattern: dict, checks: dict, qual: dict | None) -> dict:
                       f"held one step below a full confirmation.")
     elif fit == "partial" and quant_all and avail > 0:
         verdict = "LIKELY FIT"
-        derivation = (f"the calls show some of the traits and every one of "
-                      f"the {avail} computable checks supports the pattern.")
+        derivation = ("the calls show some of the traits and the only "
+                      "computable check supports the pattern." if avail == 1
+                      else f"the calls show some of the traits and every "
+                           f"one of the {avail} computable checks supports "
+                           f"the pattern.")
     elif fit == "partial":
         verdict = "PARTIAL"
         derivation = ("the calls show some of the traits"
@@ -141,9 +144,12 @@ def combine(pattern: dict, checks: dict, qual: dict | None) -> dict:
                          f"way)." if q["passed"] else "."))
     elif fit in (None, "null") and quant_all and avail > 0:
         verdict = "QUANT SIGNAL"
-        derivation = (f"all {avail} computable checks point this way but the "
-                      f"calls offer no evidence — numbers alone are only "
-                      f"ever a screening hint, never a confirmed fit.")
+        derivation = (("the only computable check points this way"
+                       if avail == 1 else
+                       f"all {avail} computable checks point this way")
+                      + " but the calls offer no evidence — numbers alone "
+                        "are only ever a screening hint, never a confirmed "
+                        "fit.")
     elif fit in (None, "null") and avail > 0:
         verdict = "NO FIT" if q["passed"] == 0 else "PARTIAL"
         derivation = ("the calls are silent and no computable check "

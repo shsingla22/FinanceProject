@@ -142,7 +142,20 @@ def quality_pillar(rec: dict) -> dict:
         return {"name": "Business quality", "points": None,
                 "derivation": "The 34-check quality framework could not "
                               "score this business — not enough evidence."}
+    if cov < 0.15:
+        return {"name": "Business quality", "points": None,
+                "derivation": f"Only {cov:.0%} of the 34 checks could be "
+                              f"answered from this evidence — far too thin "
+                              f"to score a whole business on; this pillar "
+                              f"is left unscored rather than guessed.",
+                "detail": {"overall": overall, "coverage": cov,
+                           "qualitative_included":
+                               rec.get("qualitative_included", False)}}
     pts = round((overall + 2) / 4 * 100)
+    caution = ("" if cov >= 0.5 else
+               f" Caution: only {cov:.0%} of the 34 checks could be "
+               f"answered from this evidence — a thin base; the full "
+               f"analysis (with the conference calls) firms this up.")
     return {
         "name": "Business quality",
         "points": pts,
@@ -150,7 +163,7 @@ def quality_pillar(rec: dict) -> dict:
             f"The 34-check quality framework scored the business "
             f"{overall:+.2f} on its −2 (poor) to +2 (excellent) scale, with "
             f"{cov:.0%} of checks backed by evidence; mapped onto 0–100 "
-            f"that is {pts} points."),
+            f"that is {pts} points.") + caution,
         "detail": {"overall": overall, "coverage": cov,
                    "qualitative_included": rec.get("qualitative_included",
                                                    False)},
@@ -164,6 +177,15 @@ def patterns_pillar(mb_rec: dict) -> dict:
     likely = [v["name"] for v in vs if v["verdict"] == "LIKELY FIT"]
     signal = [v["name"] for v in vs if v["verdict"] == "QUANT SIGNAL"]
     gate = mb_rec["core_gate"]["status"]
+    if mb_rec["core_gate"]["of"] <= 1 and not (strong or likely or signal):
+        return {"name": "Multibagger fit", "points": None,
+                "derivation": f"The foundation test was essentially "
+                              f"untestable (only {mb_rec['core_gate']['of']} "
+                              f"of its 3 checks had data) and no pattern "
+                              f"shows any evidence — this pillar is left "
+                              f"unscored rather than guessed.",
+                "detail": {"gate": gate, "strong": [], "likely": [],
+                           "signal": []}}
     gate_pts = {"PASS": 25, "PARTIAL": 10}.get(gate, 0)
     pts = min(100, gate_pts + 15 * len(strong) + 8 * len(likely)
               + 3 * len(signal))
@@ -207,6 +229,15 @@ def safety_pillar(qr_rec: dict) -> dict:
     watch = [v["name"] for v in vs if v["verdict"] == "WATCH"]
     flags = [v["name"] for v in vs if v["verdict"] == "QUANT FLAG"]
     frag = qr_rec["fragility"]["status"]
+    tested = [v for v in vs if v["verdict"] != "NOT ASSESSED"]
+    if not tested and frag == "UNKNOWN":
+        return {"name": "Risk safety", "points": None,
+                "derivation": "None of the eight risk channels could be "
+                              "tested — an untested company is not a safe "
+                              "one, so this pillar is left unscored rather "
+                              "than given a perfect mark.",
+                "detail": {"high": [], "elevated": [], "watch": [],
+                           "flags": [], "fragility": frag}}
     frag_pts = {"STRESSED": 20, "STRAINED": 8}.get(frag, 0)
     raw = (100 - 20 * len(high) - 10 * len(elev) - 4 * len(watch)
            - 4 * len(flags) - frag_pts)
@@ -249,11 +280,14 @@ def compute_rating(sym: str, business_rec: dict, mb_rec: dict,
         "safety": safety_pillar(qr_rec),
     }
     avail = {k: p for k, p in pillars.items() if p["points"] is not None}
-    if not avail:
+    if len(avail) < 2:
+        why = ("None of the three pillars could be scored — not enough "
+               "evidence to rate this company." if not avail else
+               f"Only one pillar ({list(avail.values())[0]['name']}) could "
+               f"be scored — one dimension is not enough to rate a whole "
+               f"company, so no rating is given.")
         return {"symbol": sym, "score": None, "grade": "Not rated",
-                "stars": 0, "pillars": pillars,
-                "derivation": "None of the three pillars could be scored — "
-                              "not enough evidence to rate this company."}
+                "stars": 0, "pillars": pillars, "derivation": why}
     wsum = sum(WEIGHTS[k] for k in avail)
     score = round(sum(pillars[k]["points"] * WEIGHTS[k] for k in avail)
                   / wsum)
