@@ -66,21 +66,6 @@ def test_pillar_derivations_use_plain_language():
             assert banned not in text, f"{sym}: jargon leaked: {banned}"
 
 
-def test_report_covers_all_three_skills_and_rating():
-    import server as SV
-    md = SV.render_report_md("CRISIL", quick=True)
-    assert "Complete Company Analysis" in md
-    assert "## The rating:" in md
-    assert "How it was built:" in md
-    assert "Which winning patterns does it fit?" in md
-    assert "What could go wrong? (the risk check)" in md
-    assert "not investment advice" in md
-    # skill sub-reports must be demoted below the top-level sections
-    assert "\n# CRISIL" not in md.split("\n", 1)[1]
-    # every pattern/risk section carries its "why"
-    assert md.count("Why this verdict:") >= 5 or "numbers only" in md.lower()
-
-
 def test_patterns_and_risks_records_carry_derivations():
     _, mb, qr, _ = _full_stack("TATASTEEL")
     for v in mb["verdicts"]:

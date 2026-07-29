@@ -55,6 +55,7 @@ import scoring as S             # noqa: E402
 import framework as F           # noqa: E402
 import pandas as pd             # noqa: E402
 import rating as R              # noqa: E402  (MultibaggerPattern + QualityRisks + rating)
+import analyst_bridge as AB     # noqa: E402  (the AnalystSkill: one analysis, page + MD)
 
 app = FastAPI(title="Business Quality Analyst API")
 
@@ -646,25 +647,26 @@ def ask(sym: str, payload: dict):
     if sym not in _const_map:
         raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
 
-    qual, _ = _qual_scores_cached(sym)          # cached in the normal case
-    rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
-    timeline = concall_timeline(sym, budget=12000)
-    # Translate internal parameter/module ids to display names so the
-    # answer never leaks developer vocabulary at the reader.
-    _fw_names = {p["id"]: p["name"] for p in _fw_json["parameters"]}
-    rec_view = {k: rec[k] for k in ("name", "overall", "coverage", "series",
-                                    "mgmt")}
-    rec_view["areas"] = {MODULE_SHORT.get(m, m): v
-                         for m, v in rec["modules"].items()}
-    rec_view["checks"] = {_fw_names.get(k, k): v
-                          for k, v in rec["params"].items()}
-    record_json = json.dumps(rec_view, default=str)[:12000]
-    # Ground the answer in ALL THREE stored analyses: quality framework,
-    # multibagger patterns and risk channels (judges served from cache).
+    # Ground the answer in the SAME AnalystSkill records the page shows
+    # (all cached at this point in the normal flow).
     ai_on = _ai_backend() is not None
-    mb_rec, _s1 = R.patterns_analysis(sym, ai=ai_on)
-    qr_rec, _s2 = R.risks_analysis(sym, ai=ai_on)
-    rt = R.compute_rating(sym, rec, mb_rec, qr_rec)
+    out = AB.full_analysis(sym, ai=ai_on)
+    timeline = concall_timeline(sym, budget=12000)
+    _fw_names = {p["id"]: p["name"] for p in _fw_json["parameters"]}
+    ba = out["business"]
+    rec_view = {
+        "name": out["name"], "overall": ba["overall"],
+        "coverage": ba["coverage"],
+        "areas": {MODULE_SHORT.get(m, m): v
+                  for m, v in ba["modules"].items()},
+        "checks": {_fw_names.get(k, k): {"score": v["score"],
+                                         "why": v["rationale"],
+                                         "quote": v.get("quote", "")}
+                   for k, v in ba["params"].items()},
+        "about_the_business": out.get("overview") or "(not available)",
+    }
+    record_json = json.dumps(rec_view, default=str)[:12000]
+    mb_rec, qr_rec, rt = out["patterns"], out["risks"], out["rating"]
     mb_json = json.dumps({
         "core_gate": mb_rec["core_gate"]["status"],
         "verdicts": [{"pattern": v["name"], "verdict": v["verdict"],
@@ -682,15 +684,17 @@ def ask(sym: str, payload: dict):
                      for v in qr_rec["verdicts"]]}, default=str)[:7000]
     rt_json = json.dumps({"score": rt["score"], "grade": rt["grade"],
                           "how": rt["derivation"],
+                          "plain": out.get("verdict_plain", ""),
                           "pillars": {k: {"points": p["points"],
                                           "why": p["derivation"]}
                                       for k, p in rt["pillars"].items()}},
-                         default=str)[:3000]
+                         default=str)[:3500]
     prompt = (
-        f"You are explaining an investment analysis for {rec['name']} "
+        f"You are explaining an investment analysis for {out['name']} "
         f"({sym}). Answer the user's question USING ONLY the stored records "
-        "below (quality framework scores, multibagger-pattern verdicts, "
-        "risk verdicts, the combined rating) and the concall excerpts. "
+        "below (business overview, quality framework scores, multibagger-"
+        "pattern verdicts, risk verdicts, the combined rating) and the "
+        "concall excerpts. "
         "Rules: cite the specific check names, pattern/risk names, "
         "numbers, or verbatim quotes you rely on — use the plain display "
         "names exactly as given, never internal codes or analyst "
@@ -760,6 +764,29 @@ def risks(sym: str, quick: int = 0):
     return {"symbol": sym, "status": status, "record": rec}
 
 
+@app.get("/api/analysis/{sym}")
+def analysis(sym: str, quick: int = 0):
+    """THE company view: the AnalystSkill runs all three sibling skills
+    (plus any auto-discovered extensions) ONCE and returns both the
+    structured records the page renders and the composed Markdown report
+    for download — the page and the file can never disagree. First run of
+    a company takes several minutes (deep Opus reads of its concall
+    history + overview + grounded summary); everything is cached after."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    out = AB.full_analysis(sym, ai=ai)
+    lv = _live_map().get(sym, {})
+    out["market"] = {"mcap": lv.get("market_cap_rs_cr"),
+                     "pe": lv.get("stock_pe"),
+                     "price": lv.get("current_price_rs")}
+    # module weights so the client can show the exact overall arithmetic
+    for m, d in out["business"]["modules"].items():
+        d["weight"] = S.DEFAULT_MODULE_WEIGHTS.get(m, 1.0)
+    return out
+
+
 @app.get("/api/rating/{sym}")
 def rating_endpoint(sym: str, quick: int = 0):
     """The COMPLETE unified analysis: all three skills run live (each judge
@@ -786,261 +813,27 @@ def rating_endpoint(sym: str, quick: int = 0):
 
 
 # ------------------------------------------------------------- MD report
-MODULE_FRIENDLY = {
-    "CAP": "How management spends the company's money",
-    "ROC": "How much the business earns on its capital",
-    "GRW": "Where the growth comes from",
-    "MGT": "The people running the company",
-    "IND": "The industry it competes in",
-    "CUS": "What customers get out of it",
-    "MOAT": "What protects it from competition",
-}
+# (composed by the AnalystSkill via analyst_bridge — see /api/analysis and
+# /api/report; MODULE_SHORT is used to translate area ids for Q&A grounding)
 MODULE_SHORT = {"CAP": "Capital Allocation", "ROC": "Return on Capital",
                 "GRW": "Growth", "MGT": "Management", "IND": "Industry Structure",
                 "CUS": "Customer Benefits", "MOAT": "Competitive Advantage"}
-WORD = {2: "Excellent", 1: "Good", 0: "Neutral", -1: "Weak", -2: "Poor"}
-SOURCE_FRIENDLY = {"quant": "from the financial statements",
-                   "ai_concall": "from the conference calls",
-                   "fused": "from the numbers and the calls together"}
-
-
-def _word(score):
-    if score is None:
-        return "Not assessed"
-    return WORD.get(int(max(-2, min(2, round(score)))), "Neutral")
-
-
-def _verdict_phrase(score):
-    if score is None:
-        return "Not assessed"
-    if score >= 1.25:
-        return "An excellent business"
-    if score >= 0.5:
-        return "A good business"
-    if score >= -0.25:
-        return "A mixed / average business"
-    if score >= -1.25:
-        return "A weak business"
-    return "A poor business"
-
-
-def _embed_skill_report(md: str) -> str:
-    """Embed a skill's standalone report inside the big one: drop its title
-    and footer, demote its headings one level. The content itself is
-    untouched — the same captured judgements, not a re-narration."""
-    out = []
-    for ln in md.splitlines()[1:]:
-        if ln.startswith("*Every verdict above"):
-            break
-        out.append("#" + ln if ln.startswith("## ") else ln)
-    return "\n".join(out).strip()
-
-
-def render_report_md(sym: str, quick: bool = False) -> str:
-    """Compose the human-readable Markdown report from the SAME stored
-    analysis records the UI shows — every line traces to a captured
-    judgement; nothing is re-narrated. Covers all three skills plus the
-    combined rating."""
-    qual, qstatus = (None, "skipped_quick") if quick else _qual_scores_cached(sym)
-    rec = build_record(sym, _live_map(), _cc_counts(), qual_scores=qual)
-    ai_on = _ai_backend() is not None and not quick
-    mb_rec, _s1 = R.patterns_analysis(sym, ai=ai_on)
-    qr_rec, _s2 = R.risks_analysis(sym, ai=ai_on)
-    rt = R.compute_rating(sym, rec, mb_rec, qr_rec)
-    tl = concall_timeline(sym, budget=4)
-    fw_by_id = {p["id"]: p for p in _fw_json["parameters"]}
-    L: list[str] = []
-    A = L.append
-
-    A(f"# {rec['name']} ({sym}) — Complete Company Analysis")
-    A("")
-    if rt["score"] is not None:
-        A(f"## The rating: {rt['grade']} — {rt['score']} out of 100 "
-          f"{'★' * rt['stars']}{'☆' * (5 - rt['stars'])}")
-        A("")
-        A(f"**How it was built:** {rt['derivation']}")
-        A("")
-        for key in ("quality", "patterns", "safety"):
-            p = rt["pillars"][key]
-            pts = "—" if p["points"] is None else f"{p['points']}/100"
-            A(f"- **{p['name']} ({pts}):** {p['derivation']}")
-        A("")
-        A("*The three pillars answer three different questions: how good "
-          "is the business today (quality), does it look like the long-term "
-          "winners (multibagger fit), and what could break it (risk "
-          "safety). Each pillar's full evidence follows below.*")
-        A("")
-    A(f"**Business quality verdict: {_verdict_phrase(rec['overall'])}**"
-      + (f" — quality score {rec['overall']:+.2f} on a scale of −2 (poor) "
-         f"to +2 (excellent)." if rec['overall'] is not None else "."))
-    A("")
-    facts = []
-    if rec.get("industry"):
-        facts.append(f"Industry: {rec['industry']}")
-    if rec.get("mcap"):
-        facts.append(f"Market value: ₹{rec['mcap']:,.0f} crore")
-    if rec.get("pe"):
-        facts.append(f"Price-to-earnings: {rec['pe']}")
-    if facts:
-        A(" · ".join(facts))
-        A("")
-    cov_line = (f"We assessed **{rec['coverage']:.0%} of the framework's 34 "
-                f"quality checks**")
-    cov_line += ("." if rec['coverage'] >= 0.995 else
-                 " — the checks the evidence could not answer are marked in "
-                 "each section rather than guessed.")
-    A(cov_line)
-    if rec.get("qualitative_included") and tl.get("n_calls"):
-        A("")
-        A(f"Evidence: the company's financial statements (about a decade), "
-          f"**{tl['n_calls']} quarterly earnings calls** "
-          f"({tl['from']} to {tl['to']}) read oldest-to-newest to check "
-          f"whether management delivered on its promises, and 5 years of "
-          f"leadership history from annual reports.")
-    A("")
-    A("## The verdict at a glance")
-    A("")
-    A("| Area | Verdict | Score | Checks done |")
-    A("|---|---|---|---|")
-    for m in _module_ids:
-        md = rec["modules"][m]
-        A(f"| {MODULE_SHORT[m]} | {_word(md['score'])} | "
-          f"{'—' if md['score'] is None else format(md['score'], '+.2f')} | "
-          f"{md['assessed']} of {md['total']} |")
-    A("")
-    A("**How the overall score is built:** each area's score is the simple "
-      "average of its assessed checks; the overall is a weighted average of "
-      "the areas (returns, industry structure and competitive protection "
-      "carry 25% extra weight). The exact arithmetic:")
-    calc = rec.get("overall_calc", "")
-    for mid, mname in MODULE_SHORT.items():
-        calc = calc.replace(f"{mid} ", f"{mname} ")
-    calc = calc.replace("weighted mean of assessed module scores",
-                        "weighted average of the assessed area scores")
-    A("")
-    A(f"> {calc}")
-    A("")
-
-    for m in _module_ids:
-        md = rec["modules"][m]
-        A(f"## {MODULE_SHORT[m]} — {_word(md['score'])}"
-          + (f" ({md['score']:+.2f})" if md['score'] is not None else ""))
-        A("")
-        A(f"*{MODULE_FRIENDLY[m]}.*")
-        A("")
-        assessed = [(pid, rec["params"][pid]) for pid in rec["params"]
-                    if fw_by_id.get(pid, {}).get("module") == m]
-        silent = [p for p in _fw_json["parameters"]
-                  if p["module"] == m and p["id"] not in rec["params"]]
-        for pid, got in assessed:
-            meta = fw_by_id.get(pid, {})
-            src = SOURCE_FRIENDLY.get(got.get("source", "quant"),
-                                      "from the financial statements")
-            A(f"**{meta.get('name', pid)} — {_word(got['score'])}** "
-              f"*({src})*")
-            A("")
-            rat = got["rationale"]
-            rat = rat.replace("From concall: ", "")
-            rat = rat.replace(" | Concall: ", " And from the calls: ")
-            A(rat)
-            q = got.get("quote") or ""
-            if q:
-                A("")
-                if re.search(r"FY\d{4}", q) and re.search(r"current|exited", q):
-                    A(f"> \"{q}\" — *from the annual-report leadership record*")
-                else:
-                    A(f"> \"{q}\" — *management, on an earnings call*")
-            A("")
-        if silent:
-            A("*Not assessed here (the evidence was silent — we never guess): "
-              + "; ".join(p["name"] for p in silent) + ".*")
-            A("")
-
-    if rec.get("mgmt_history"):
-        A("## Who has been running the company (last 5 annual reports)")
-        A("")
-        A("| Role | Name | Years seen | Still there? |")
-        A("|---|---|---|---|")
-        for m2 in rec["mgmt_history"][:10]:
-            nm = " ".join(str(m2["name"]).split())
-            A(f"| {m2['role']} | {nm} | {m2['years'] or '—'} | "
-              f"{'Yes' if m2['status'] == 'current' else 'No — exited'} |")
-        A("")
-        A("*A stable, long-tenured team is a quality signal; frequent exits — "
-          "especially the finance chief — are a warning sign. This table fed "
-          "the Management verdicts above.*")
-        A("")
-
-    series = rec.get("series") or {}
-    if any(series.get(k) for k in ("sales", "opm", "ccc")):
-        A("## The trend lines behind the numbers")
-        A("")
-        A("Yearly figures, oldest to latest:")
-        A("")
-        if series.get("sales"):
-            vals = [v for v in series["sales"] if v is not None]
-            A(f"- **Sales (₹ crore):** " + " → ".join(f"{v:,.0f}" for v in vals))
-        if series.get("opm"):
-            vals = [v for v in series["opm"] if v is not None]
-            A(f"- **Operating margin (%):** " + " → ".join(f"{v:.0f}" for v in vals))
-        if series.get("ccc"):
-            vals = [v for v in series["ccc"] if v is not None]
-            A(f"- **Days cash is tied up in the trade cycle:** "
-              + " → ".join(f"{v:.0f}" for v in vals)
-              + "  *(negative = customers pay before suppliers are due — good)*")
-        A("")
-
-    mb_name = rec["name"]
-    A("## Which winning patterns does it fit?")
-    A("")
-    A("*From the MultibaggerPattern skill: eleven patterns that long-term "
-      "winners share (recurring revenue, toll-road economics, pricing "
-      "power, brand strength…), each judged from the calls AND the "
-      "numbers, with the reason for every verdict attached.*")
-    A("")
-    A(_embed_skill_report(R.MB_AZ.render_report(mb_rec, mb_name)))
-    A("")
-    A("## What could go wrong? (the risk check)")
-    A("")
-    A("*From the QualityRisks skill: eight ways strong businesses fail "
-      "(boom-bust cycles, disruption, government dependency, cheaper "
-      "good-enough rivals…), each judged with its severity and the reason "
-      "attached — silver linings included.*")
-    A("")
-    A(_embed_skill_report(R.QR_AZ.render_report(qr_rec, mb_name)))
-    A("")
-    A("## How to read this report")
-    A("")
-    A("- The overall rating combines three pillars: business quality "
-      "(45%), multibagger fit (30%) and risk safety (25%) — the arithmetic "
-      "is shown at the top, and each pillar lists exactly what earned or "
-      "cost points.")
-    A("- Every verdict word maps to a score: Excellent (+2), Good (+1), "
-      "Neutral (0), Weak (−1), Poor (−2).")
-    A("- Every judgement above was captured at the moment of analysis with "
-      "its evidence — a number from the statements, or a quoted line from an "
-      "earnings call. Nothing was written after the fact.")
-    A("- Checks the evidence couldn't answer are marked, not guessed, and "
-      "they lower the coverage figure rather than the score.")
-    A("- This is research tooling over public data (screener.in-derived "
-      "statements, exchange-filed call transcripts). It is not investment "
-      "advice.")
-    A("")
-    A(f"*Generated by the Business Quality Analyst · framework v"
-      f"{_fw.version} · data through {tl.get('to') or 'latest fiscal year'}*")
-    return "\n".join(L)
 
 
 @app.get("/api/report/{sym}")
 def report(sym: str, quick: int = 0):
+    """The downloadable report — the SAME AnalystSkill composition the
+    /api/analysis page view is rendered from (cached, so this is instant
+    after the page has loaded)."""
     from fastapi.responses import Response
     sym = sym.upper()
     if sym not in _const_map:
         raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
-    md = render_report_md(sym, quick=bool(quick))
+    ai = not quick and _ai_backend() is not None
+    md = AB.full_analysis(sym, ai=ai)["md"]
     return Response(content=md, media_type="text/markdown",
                     headers={"Content-Disposition":
-                             f'attachment; filename="{sym}_quality_report.md"'})
+                             f'attachment; filename="{sym}_analysis.md"'})
 
 
 @app.on_event("startup")
