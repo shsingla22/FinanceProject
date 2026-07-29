@@ -142,6 +142,15 @@ def quality_pillar(rec: dict) -> dict:
         return {"name": "Business quality", "points": None,
                 "derivation": "The 34-check quality framework could not "
                               "score this business — not enough evidence."}
+    if cov < 0.15:
+        return {"name": "Business quality", "points": None,
+                "derivation": f"Only {cov:.0%} of the 34 checks could be "
+                              f"answered from this evidence — far too thin "
+                              f"to score a whole business on; this pillar "
+                              f"is left unscored rather than guessed.",
+                "detail": {"overall": overall, "coverage": cov,
+                           "qualitative_included":
+                               rec.get("qualitative_included", False)}}
     pts = round((overall + 2) / 4 * 100)
     caution = ("" if cov >= 0.5 else
                f" Caution: only {cov:.0%} of the 34 checks could be "
@@ -271,11 +280,14 @@ def compute_rating(sym: str, business_rec: dict, mb_rec: dict,
         "safety": safety_pillar(qr_rec),
     }
     avail = {k: p for k, p in pillars.items() if p["points"] is not None}
-    if not avail:
+    if len(avail) < 2:
+        why = ("None of the three pillars could be scored — not enough "
+               "evidence to rate this company." if not avail else
+               f"Only one pillar ({list(avail.values())[0]['name']}) could "
+               f"be scored — one dimension is not enough to rate a whole "
+               f"company, so no rating is given.")
         return {"symbol": sym, "score": None, "grade": "Not rated",
-                "stars": 0, "pillars": pillars,
-                "derivation": "None of the three pillars could be scored — "
-                              "not enough evidence to rate this company."}
+                "stars": 0, "pillars": pillars, "derivation": why}
     wsum = sum(WEIGHTS[k] for k in avail)
     score = round(sum(pillars[k]["points"] * WEIGHTS[k] for k in avail)
                   / wsum)
