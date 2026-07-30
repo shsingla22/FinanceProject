@@ -173,3 +173,4 @@ details.mod summary::-webkit-details-marker { margin-right: 4px; }
 .pl-bar { height: 8px; border-radius: 4px; background: var(--chip-bg); margin: 4px 0 4px; }
 .pl-fill { height: 100%; border-radius: 4px; background: var(--series-1); }
 .ev { font-size: 13.5px; color: var(--text-secondary); padding: 3px 0 3px 4px; }
+.parts li { margin: 4px 0; font-size: 14.5px; }

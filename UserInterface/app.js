@@ -293,7 +293,8 @@ function attachSparkHover() {
 }
 
 function paramRow(p, got) {
-  const srcTag = got.source === "ai_concall" ? `<span class="tag">🎙 from the concalls</span>`
+  const srcTag = (got.source === "ai_concall" || got.source === "calls")
+               ? `<span class="tag">🎙 from the concalls</span>`
                : got.source === "fused" ? `<span class="tag">◐ numbers + concalls</span>`
                : `<span class="tag">🔢 from the numbers</span>`;
   return `<div class="prow">
@@ -341,79 +342,115 @@ function companyHeader(sym, co) {
 }
 
 async function renderCompany(sym) {
-  let co = state.data.companies[sym];
-  let excerpt = "";
-  let rating = null, mb = null, qr = null;
-  // Immediate feedback: the server runs ALL THREE skills live — the
-  // 34-check quality framework, the multibagger-pattern judge and the
-  // risk judge (each Opus read cached per transcript afterwards).
-  const firstTime = !(co && co.qualitative_included);
+  // THE analyst experience: one server call runs all three skills via the
+  // AnalystSkill and returns the records AND the Markdown report together.
+  const cached = state.data.companies[sym];
+  const firstTime = !(cached && cached.qualitative_included);
   const ph = document.createElement("div");
   ph.className = "card";
   ph.innerHTML = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
-    quality framework, multibagger patterns and risk check${state.ai ?
-    (firstTime ? " <em>(first run: three deep reads of ALL its concalls — this can take several minutes; everything is cached afterwards)</em>" : " (served from cache)") : " (numbers only — AI is off)"}…</p>`;
+    business overview, quality framework, multibagger patterns, risk check and the written report${state.ai ?
+    (firstTime ? " <em>(first run: several deep reads of ALL its concalls — this can take several minutes; everything is cached afterwards)</em>" : " (served from cache)") : " (numbers only — AI is off)"}…</p>`;
   $out().appendChild(ph);
+  let out = null;
   try {
-    const live = await fetch(`api/rating/${sym}`).then(r => r.ok ? r.json() : null);
-    if (live) {
-      co = live.record; state.data.companies[sym] = co;
-      excerpt = co.concall_excerpt || "";
-      rating = live.rating; mb = live.patterns?.record; qr = live.risks?.record;
-    }
-  } catch (_) { /* fall back to cached quant-only record */ }
+    out = await fetch(`api/analysis/${sym}`).then(r => r.ok ? r.json() : null);
+  } catch (_) { /* handled below */ }
   ph.remove();
-  if (!co) return card(`<p>No data for ${esc(sym)}.</p>`);
-  const sparkHtml = [
-    sparkline("Sales (₹ Cr, FY series)", co.series.sales, ""),
-    sparkline("Operating margin", co.series.opm, "%"),
-    sparkline("Cash conversion cycle", co.series.ccc, " d"),
-  ].join("");
-  const mgmtHist = co.mgmt_history?.length
-    ? `<h3>Management track record (from 5 years of annual reports)</h3>
-       <table class="rank"><thead><tr><th>Role</th><th>Name</th><th>Years seen</th><th>Status</th></tr></thead><tbody>` +
-      co.mgmt_history.slice(0, 10).map(m => `<tr><td>${esc(m.role)}</td><td>${esc(m.name)}</td>
-        <td>${esc(m.years || "—")}</td><td>${m.status === "current" ? "✅ current" : "↩ exited"}</td></tr>`).join("") +
-      `</tbody></table>
-       <p class="note">Tenure and churn feed the Management-module judgement (long tenure = stability; CFO churn = a flag).</p>`
-    : "";
-  const cr = co.concall_range || {};
-  card(`${companyHeader(sym, co)}
-    ${rating ? ratingCard(rating) : ""}
-    <div class="scoreline">
-      <span class="big-score ${scoreCls(co.overall)}">${verdictWord(co.overall)}</span>
-      <span class="cov">score ${fmtScore(co.overall)} on a −2…+2 scale ·
-        ${Math.round(co.coverage * 100)}% of the 34 framework parameters assessed</span>
-    </div>
-    <p class="note calc">ⓘ ${esc(co.overall_calc || "")}</p>
-    ${co.qualitative_included && cr.n_calls ? `<p class="note">🎙 Qualitative judgement drew on
-      <strong>${cr.n_calls} quarterly concalls</strong> (${esc(cr.from || "")} → ${esc(cr.to || "")}),
-      sampled oldest→newest to judge delivery vs promises, plus the management history below.</p>` : ""}
-    <h3>Module scorecard</h3>${moduleBars(co)}
-    ${sparkHtml ? `<h3>Key trends</h3><div class="sparks">${sparkHtml}</div>` : ""}
-    <h3>Why — the stored judgement behind every score</h3>
-    ${moduleBreakdown(co)}
-    ${mb ? patternsSection(mb) : ""}
-    ${qr ? risksSection(qr) : ""}
-    ${mgmtHist}
-    ${qualNote(co)}
-    ${excerpt ? `<h3>Latest concall (live extract)</h3>
-      <p class="note" style="white-space:pre-wrap">…${esc(excerpt.slice(-1200))}</p>` : ""}
-    <p><a class="chip" href="api/report/${sym}" download>📄 Download the full report (Markdown)</a>
-       <span class="note">— rating, quality scorecard, patterns and risks, written up as a document you can keep or share.</span></p>
+  if (!out) return card(`<p>Analysis failed for ${esc(sym)} — is the server running? Try again.</p>`);
+  const ba = out.business, mb = out.patterns, qr = out.risks, rt = out.rating;
+
+  // 1. About the business
+  card(aboutCard(sym, out));
+  // 2. The verdict (+ download of the SAME report)
+  card(verdictCard(sym, out));
+  // 3. The three skill sections, every dimension
+  card(`<h2>Section 1 — How good is the business?</h2>
+    <p class="note">The 34-check quality framework: <strong>${verdictWord(ba.overall)}</strong>
+    (score ${fmtScore(ba.overall)} on a −2…+2 scale) ·
+    ${Math.round((ba.coverage || 0) * 100)}% of checks had evidence — unanswerable checks are marked, never guessed.</p>
+    <h3>Area scorecard</h3>${moduleBars({ modules: ba.modules })}
+    ${trendSparks(out.trends)}
+    <h3>Every check, area by area — with its why</h3>
+    ${moduleBreakdown({ modules: ba.modules, params: ba.params, qualitative_included: ba.qualitative_included })}`);
+  card(`<h2>Section 2 — Does it look like a long-term winner?</h2>
+    ${patternsSection(mb)}`);
+  card(`<h2>Section 3 — What could break it?</h2>
+    ${risksSection(qr)}
+    ${(out.extensions || []).filter(e => e.section_md).map(e =>
+       `<h3>${esc(e.name)}</h3><p class="note">Additional analysis from the ${esc(e.skill)} skill (${esc(e.status)}).</p>`).join("")}
     ${state.ai ? `
       <h3>Ask about this analysis</h3>
       <form class="qa-form" data-sym="${sym}">
-        <input type="text" placeholder="e.g. Why is the rating only Decent? Which risks worry you most? Why does it fit the toll-road pattern?" aria-label="Ask about this analysis">
+        <input type="text" placeholder="e.g. Why this rating? Which risk worries you most? Explain the strongest pattern." aria-label="Ask about this analysis">
         <button type="submit">Ask</button>
       </form>
-      <div class="qa-out"></div>` : ""}`);
-  const qaForm = $out().querySelector(`.qa-form[data-sym="${sym}"]:last-of-type`);
+      <div class="qa-out"></div>
+      <p class="note">Answers come strictly from the records above and the call transcripts — never thin air.</p>` : ""}`);
+  const qaForm = $out().querySelector(`.qa-form[data-sym="${sym}"]`);
   if (qaForm) qaForm.addEventListener("submit", e => {
     e.preventDefault();
     const inp = qaForm.querySelector("input");
     if (inp.value.trim()) askVerdict(sym, inp.value.trim(), qaForm.nextElementSibling);
   });
+  wireDownload(sym, out.md);
+}
+
+function aboutCard(sym, out) {
+  const ov = out.overview;
+  const mk = out.market || {};
+  const parts = (ov && ov.parts) || [];
+  return `${companyHeader(sym, { name: out.name, industry: out.industry,
+      mcap: mk.mcap, pe: mk.pe, price: mk.price, concalls: 0 })}
+    <h3>About the business</h3>
+    ${ov ? `<p>${esc(ov.what_it_does || "")}</p>` +
+      (parts.length ? `<h3>The parts of the business</h3><ul class="parts">` +
+        parts.map(pt => `<li><strong>${esc(pt.name || "?")}</strong> — ${esc(pt.what || "")}</li>`).join("") + `</ul>
+        <p class="note">Described strictly from management's own words on the earnings calls.</p>` : "")
+      : `<p class="note">No conference-call transcripts were available to describe the business in
+         management's own words — the analysis below rests on the financial statements.</p>`}`;
+}
+
+function verdictCard(sym, out) {
+  const rt = out.rating;
+  const story = out.summary && out.summary.summary ? out.summary.summary : null;
+  const watch = out.summary && out.summary.watch_items ? out.summary.watch_items : null;
+  return `<h2>The verdict</h2>
+    ${ratingCard(rt)}
+    <p>${esc(out.verdict_plain || "")}</p>
+    ${story ? `<details class="mod"><summary><strong>The story in depth</strong>
+        <span class="note">the grounded narrative connecting all three analyses</span></summary>
+        ${story.map(pa => `<p>${esc(pa)}</p>`).join("")}
+        <p class="note">Written strictly from the analyses below — names it could not ground were grounds to reject it.</p>
+      </details>` : ""}
+    ${watch ? `<h3>What to watch</h3><ul>` + watch.map(w => `<li>${esc(w)}</li>`).join("") + `</ul>` : ""}
+    <p><a class="chip" id="dl-${sym}" href="api/report/${sym}" download="${sym}_analysis.md">📄 Download this analysis (Markdown)</a>
+      <span class="note">— generated together with this page from the same records; page and file can never disagree.</span></p>`;
+}
+
+function wireDownload(sym, md) {
+  // The MD arrived WITH the analysis — offer it instantly from memory
+  // (the href fallback still works if the blob is unavailable).
+  const a = document.getElementById(`dl-${sym}`);
+  if (a && md) {
+    const url = URL.createObjectURL(new Blob([md], { type: "text/markdown" }));
+    a.href = url;
+  }
+}
+
+function trendSparks(trends) {
+  if (!trends) return "";
+  const s = [];
+  const add = (title, tr, unit) => {
+    if (tr && tr.values && tr.values.filter(v => v != null).length >= 3)
+      s.push(sparkline(title, tr.values, unit));
+  };
+  add("Sales (₹ Cr, yearly)", trends.sales, "");
+  add("Operating margin", trends.opm, "%");
+  add("Return on capital", trends.roce, "%");
+  add("Cash conversion cycle", trends.ccc, " d");
+  return s.length ? `<h3>The numbers over time</h3><div class="sparks">${s.join("")}</div>
+    <p class="note">The same yearly figures the checks below judged — hover for each year's value.</p>` : "";
 }
 
 /* ---------------- unified rating + patterns + risks rendering ---------------- */
