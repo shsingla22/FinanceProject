@@ -134,3 +134,41 @@ def test_windowed_verdicts_differ_from_what_full_history_would_say():
     checks = AR.MB_QE.compute_checks("DIXON")
     assert checks["core_growth"]["passed"] is None, \
         "a one-year window must not claim a multi-year growth verdict"
+
+
+# ------------------------------------------------------- carry-forward
+def test_carry_forward_completes_the_picture():
+    """What the window cannot judge takes the full-history verdict,
+    clearly labeled — no NOT ASSESSED left where the long view knows."""
+    sys.path.insert(0, str(HERE.parent / "scripts"))
+    import analyze as AZ
+    out = AZ.run_all("DIXON", ai=False)
+    ba = out["business"]
+    # the lens-silenced growth-persistence check is now carried
+    p = ba["params"].get("GRW.persistence")
+    assert p is not None and p.get("source") == "carried"
+    assert p["rationale"].startswith("Carried forward from the full-history")
+    # the foundation gate is completed from the full side, labeled
+    gate = out["patterns"]["core_gate"]
+    assert gate["status"] != "UNKNOWN" and gate["of"] >= 2
+    assert any("Carried forward" in c["explanation"]
+               for c in gate["checks"])
+    # verdicts the window could not assess carry the full verdicts
+    carried_vs = [v for v in out["patterns"]["verdicts"]
+                  + out["risks"]["verdicts"] if v.get("carried_forward")]
+    assert carried_vs, "expected some carried verdicts in quick mode"
+    for v in carried_vs:
+        assert v["derivation"].startswith("carried forward from the "
+                                          "full-history analysis")
+    assert sum(out["carried"].values()) >= 3
+    assert "carried from the full-history" in out["statuses"]["carry_forward"]
+
+
+def test_carried_record_rating_is_computable():
+    sys.path.insert(0, str(HERE.parent / "scripts"))
+    import analyze as AZ
+    out = AZ.run_all("DIXON", ai=False)
+    rt = out["rating"]
+    assert rt["score"] is not None, "carry-forward should make the rating computable"
+    avail = {k: p for k, p in rt["pillars"].items() if p["points"] is not None}
+    assert len(avail) >= 2

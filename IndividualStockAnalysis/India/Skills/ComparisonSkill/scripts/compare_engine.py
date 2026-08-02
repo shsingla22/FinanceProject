@@ -127,10 +127,14 @@ def _compare_business(full: dict, recent: dict) -> dict:
                       "recent": rs, "recent_word": _word(rs),
                       "delta": (rs - fs) if None not in (fs, rs) else None})
     improved, regressed, unchanged, window_excluded, newly = [], [], [], [], []
+    carried = []
     for pid in {p.id for p in FW.parameters}:
         f = fb["params"].get(pid)
         r = rb["params"].get(pid)
         name = PARAM_NAME.get(pid, pid)
+        if r and r.get("source") == "carried":
+            carried.append({"check": name, "word": _word(r["score"])})
+            continue
         if f and r:
             d = r["score"] - f["score"]
             item = {"check": name, "area": MODULE_SHORT.get(
@@ -158,16 +162,22 @@ def _compare_business(full: dict, recent: dict) -> dict:
         bucket.sort(key=lambda x: -abs(x["delta"]))
     n_cmp = len(improved) + len(regressed) + len(unchanged)
     nw = len(window_excluded)
+    nc = len(carried)
     overall = (
-        f"Of the 34 quality checks, {n_cmp} could be compared on both "
-        f"views: {len(improved)} improved, {len(regressed)} regressed, "
-        f"{len(unchanged)} unchanged. {nw} check{'s' if nw != 1 else ''} "
-        f"need{'s' if nw == 1 else ''} longer history than the one-year "
-        f"lens allows (listed, not counted), and {len(newly)} "
-        f"{'was' if len(newly) == 1 else 'were'} newly assessable in the "
-        f"recent view.")
+        f"Of the 34 quality checks, {n_cmp} could be genuinely re-tested "
+        f"on both views: {len(improved)} improved, {len(regressed)} "
+        f"regressed, {len(unchanged)} unchanged."
+        + (f" {nc} check{'s' if nc != 1 else ''} carr"
+           f"{'y' if nc != 1 else 'ies'} the long view's verdict forward "
+           f"unchanged (the window could not re-test them)." if nc else "")
+        + (f" {nw} check{'s' if nw != 1 else ''} "
+           f"need{'s' if nw == 1 else ''} longer history than the one-year "
+           f"lens allows (listed, not counted)." if nw else "")
+        + (f" {len(newly)} {'was' if len(newly) == 1 else 'were'} newly "
+           f"assessable in the recent view." if newly else ""))
     return {"areas": areas, "improved": improved, "regressed": regressed,
-            "unchanged": unchanged, "window_excluded": window_excluded,
+            "unchanged": unchanged, "carried": carried,
+            "window_excluded": window_excluded,
             "newly_visible": newly, "overall": overall,
             "full_overall": fb["overall"], "recent_overall": rb["overall"]}
 
@@ -180,10 +190,13 @@ def _transitions(full_verdicts: list, recent_verdicts: list, order: list,
             for v in full_verdicts}
     rmap = {v["pattern" if "pattern" in v else "risk"]: v
             for v in recent_verdicts}
-    improved, regressed, unchanged, not_comparable = [], [], [], []
+    improved, regressed, unchanged, not_comparable, carried = [], [], [], [], []
     for key, fv in fmap.items():
         rv = rmap.get(key)
         if rv is None:
+            continue
+        if rv.get("carried_forward"):
+            carried.append({"name": fv["name"], "verdict": fv["verdict"]})
             continue
         f_v, r_v = fv["verdict"], rv["verdict"]
         item = {"name": fv["name"], "from": f_v, "to": r_v,
@@ -206,7 +219,8 @@ def _transitions(full_verdicts: list, recent_verdicts: list, order: list,
         (improved if moved_better else regressed if moved_worse
          else unchanged).append(item)
     return {"improved": improved, "regressed": regressed,
-            "unchanged": unchanged, "not_comparable": not_comparable}
+            "unchanged": unchanged, "not_comparable": not_comparable,
+            "carried": carried}
 
 
 def _compare_patterns(full: dict, recent: dict) -> dict:
@@ -217,10 +231,13 @@ def _compare_patterns(full: dict, recent: dict) -> dict:
     rm = recent["patterns"]["matched_patterns"]
     t["overall"] = (
         f"The long view matches {len(fm)} of the 11 winning patterns; the "
-        f"one-year view matches {len(rm)}. Comparable pattern verdicts: "
-        f"{len(t['improved'])} strengthened, {len(t['regressed'])} "
-        f"weakened, {len(t['unchanged'])} unchanged; "
-        f"{len(t['not_comparable'])} could not be compared.")
+        f"one-year view matches {len(rm)}. Genuinely re-tested pattern "
+        f"verdicts: {len(t['improved'])} strengthened, "
+        f"{len(t['regressed'])} weakened, {len(t['unchanged'])} unchanged"
+        + (f"; {len(t['carried'])} carried forward unchanged from the long "
+           f"view" if t["carried"] else "")
+        + (f"; {len(t['not_comparable'])} could not be compared"
+           if t["not_comparable"] else "") + ".")
     t["gate_full"] = full["patterns"]["core_gate"]["status"]
     t["gate_recent"] = recent["patterns"]["core_gate"]["status"]
     return t
@@ -237,11 +254,14 @@ def _compare_risks(full: dict, recent: dict) -> dict:
                       "recent_why": recent["risks"]["fragility"].get(
                           "derivation", "")}
     t["overall"] = (
-        f"Comparable risk verdicts: {len(t['improved'])} eased, "
-        f"{len(t['regressed'])} worsened, {len(t['unchanged'])} unchanged; "
-        f"{len(t['not_comparable'])} could not be compared. Financial "
-        f"resilience: {ff.title()} on the long view, {rf.title()} on the "
-        f"one-year view.")
+        f"Genuinely re-tested risk verdicts: {len(t['improved'])} eased, "
+        f"{len(t['regressed'])} worsened, {len(t['unchanged'])} unchanged"
+        + (f"; {len(t['carried'])} carried forward unchanged from the long "
+           f"view" if t["carried"] else "")
+        + (f"; {len(t['not_comparable'])} could not be compared"
+           if t["not_comparable"] else "")
+        + f". Financial resilience: {ff.title()} on the long view, "
+          f"{rf.title()} on the one-year view.")
     return t
 
 

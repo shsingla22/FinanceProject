@@ -24,6 +24,7 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
 import window as W          # noqa: E402  (applies the one-year lens)
+import carry as CY          # noqa: E402  (carry-forward for lens silences)
 
 AR, AC = W.AR, W.AC
 
@@ -38,10 +39,23 @@ def run_all(sym: str, ai: bool) -> dict:
     qr, s3 = AR.run_risks(sym, ai=ai)
     exts = AR.run_extensions(sym, ai=ai)
     rt = AC.compute_rating(ba, mb, qr, extensions=exts)
-    return {"symbol": sym, "window": "last_one_year",
-            "business": ba, "patterns": mb, "risks": qr,
-            "extensions": exts, "rating": rt,
-            "statuses": {"business": s1, "patterns": s2, "risks": s3}}
+    windowed = {"symbol": sym, "window": "last_one_year",
+                "business": ba, "patterns": mb, "risks": qr,
+                "extensions": exts, "rating": rt,
+                "statuses": {"business": s1, "patterns": s2, "risks": s3}}
+    # carry-forward: anything the window could not judge takes the
+    # full-history verdict, clearly labeled — the picture stays complete
+    try:
+        full = CY.fetch_full(sym, ai=ai)
+        merged = CY.merge(windowed, full, AR, AC)
+        merged["statuses"]["carry_forward"] = (
+            f"{sum(merged['carried'].values())} items carried from the "
+            f"full-history analysis")
+        return merged
+    except Exception as e:
+        windowed["statuses"]["carry_forward"] = \
+            f"unavailable ({str(e)[:80]}) — window-only verdicts shown"
+        return windowed
 
 
 def compose_md(sym: str, out: dict, ai: bool) -> str:

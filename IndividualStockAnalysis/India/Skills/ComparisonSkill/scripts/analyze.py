@@ -125,6 +125,12 @@ def render(sym: str, name: str, rec: dict) -> str:
         A("*Unchanged: " + "; ".join(c["check"] for c in b["unchanged"])
           + ".*")
         A("")
+    if b.get("carried"):
+        A("*Carried forward from the long view unchanged (the window could "
+          "not re-test these — identical by construction): "
+          + "; ".join(f"{c['check']} ({c['word']})"
+                      for c in b["carried"]) + ".*")
+        A("")
     if b["window_excluded"]:
         A("*Needs longer history than the one-year lens allows (not "
           "counted as regressions): "
@@ -164,6 +170,12 @@ def render(sym: str, name: str, rec: dict) -> str:
                       + (f" (The long view had said: {i['then']})"
                          if i.get("then") and i["then"] != i["now"] else ""))
                 A("")
+        if t.get("carried"):
+            A("*Carried forward from the long view unchanged (the window "
+              "could not re-test these): "
+              + "; ".join(f"{c['name']} ({c['verdict']})"
+                          for c in t["carried"]) + ".*")
+            A("")
         if t["unchanged"]:
             A("*Unchanged: "
               + "; ".join(f"{i['name']} ({i['from']})"

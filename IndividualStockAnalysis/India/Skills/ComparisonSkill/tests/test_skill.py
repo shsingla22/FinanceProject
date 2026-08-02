@@ -208,3 +208,28 @@ def test_coverage_sweep_across_diverse_companies():
         except Exception as e:
             failures.append((sym, str(e)[:100]))
     assert not failures, failures
+
+
+def test_carried_items_get_their_own_bucket_never_regressions():
+    """A carried-forward item must classify as carried — not improved,
+    not regressed, not not-comparable — in all three buckets."""
+    f = _side(60, "Decent",
+              {PID: {"score": 1, "rationale": "long-trend verdict",
+                     "module": "ROC"}},
+              [_mbv("TOLL", "STRONG FIT")], [_qrv("GOVT", "WATCH")])
+    r = _side(60, "Decent",
+              {PID: {"score": 1, "rationale": "Carried forward...",
+                     "module": "ROC", "source": "carried"}},
+              [dict(_mbv("TOLL", "STRONG FIT"), carried_forward=True)],
+              [dict(_qrv("GOVT", "WATCH"), carried_forward=True)])
+    b = CE._compare_business(f, r)
+    assert [c["check"] for c in b["carried"]] == ["Profit margin"]
+    assert b["improved"] == b["regressed"] == b["unchanged"] == []
+    t = CE._compare_patterns(f, r)
+    assert [c["name"] for c in t["carried"]] == ["Toll"]
+    assert t["improved"] == t["regressed"] == t["not_comparable"] == []
+    tq = CE._compare_risks(f, r)
+    assert [c["name"] for c in tq["carried"]] == ["Govt"]
+    rec = CE.compare("TESTCO", f, r)
+    md = AZ.render("TESTCO", "Test Co", rec)
+    assert "Carried forward from the long view unchanged" in md

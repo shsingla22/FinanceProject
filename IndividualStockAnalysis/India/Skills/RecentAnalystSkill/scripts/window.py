@@ -165,9 +165,13 @@ LENS_BANNER = (
     "the 8 risk channels — deliberately restricted to the last fiscal year "
     "(the prior year is kept only as the comparison baseline) and the last "
     "12 months of earnings calls. It answers \"what does the business look "
-    "like RIGHT NOW?\" — checks that genuinely need longer history say so "
-    "honestly instead of guessing. For the long-view verdict, use the "
-    "full-history AnalystSkill report alongside this one.")
+    "like RIGHT NOW?\" Where a judgement genuinely needs longer history "
+    "than the window allows, the full-history AnalystSkill verdict is "
+    "carried forward UNCHANGED and clearly labeled as carried — the "
+    "picture stays complete, nothing carried is presented as a fresh "
+    "one-year judgement, and then-vs-now comparisons stay meaningful. "
+    "For the long-view verdict itself, use the full-history AnalystSkill "
+    "report alongside this one.")
 
 _orig_render = AC.render
 
