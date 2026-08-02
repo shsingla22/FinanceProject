@@ -216,7 +216,9 @@ def fragility(checks: dict, tax: dict) -> dict:
               "STRAINED" if flagged == 1 else "SOUND")
     derivation = {
         "UNKNOWN": "none of the stress checks could be computed.",
-        "SOUND": (f"none of the {tested} stress checks (leverage, cash "
+        "SOUND": ("the only stress check that could be computed is clean."
+                  if tested == 1 else
+                  f"none of the {tested} stress checks (leverage, cash "
                   f"conversion, returns on capital) is flagged."),
         "STRAINED": (f"1 of the {tested} stress checks is flagged — one "
                      f"warning light, not yet a pattern."),
