@@ -233,3 +233,19 @@ def test_carried_items_get_their_own_bucket_never_regressions():
     rec = CE.compare("TESTCO", f, r)
     md = AZ.render("TESTCO", "Test Co", rec)
     assert "Carried forward from the long view unchanged" in md
+
+
+def test_numbers_table_shows_key_measures_from_comparison_view():
+    rows = CE.trend_table("DIXON")
+    measures = [r["measure"] for r in rows]
+    assert any("Sales" in m for m in measures)
+    assert any("Operating margin" in m for m in measures)
+    assert any("Return on capital" in m for m in measures)
+    for r in rows:
+        assert r["n_years"] >= 2
+        assert "vs the year before" in r["change"]
+    rec = AZ.run("DIXON", ai=False)
+    md = AZ.render("DIXON", "Dixon", rec)
+    i = md.find("## The numbers behind the comparison")
+    assert 0 < i < md.find("## Step 2"), "numbers table must sit between the steps"
+    assert "Long-view average" in md and "Latest year" in md

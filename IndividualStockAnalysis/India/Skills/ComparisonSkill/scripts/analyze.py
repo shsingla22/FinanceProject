@@ -87,6 +87,24 @@ def render(sym: str, name: str, rec: dict) -> str:
             A(f"- **{p['pillar']}, last one year:** {p['recent_why']}")
         A("")
 
+    # ---- the raw numbers behind both views
+    if rec.get("numbers"):
+        A("## The numbers behind the comparison")
+        A("")
+        A("*The same yearly figures both analyses judged, from the "
+          "comparison viewpoint: what the business has averaged over the "
+          "long run, the year the one-year window uses as its baseline, "
+          "the latest year, and the change between the two.*")
+        A("")
+        A("| Measure | Long-view average | Year before last | Latest year "
+          "| Change |")
+        A("|---|---|---|---|---|")
+        for n in rec["numbers"]:
+            A(f"| {n['measure']} | {n['long_avg']} *(avg of "
+              f"{n['n_years']} years)* | {n['prior']} | {n['latest']} | "
+              f"{n['change']} |")
+        A("")
+
     # ---- step 2: the three buckets
     A("## Step 2 — Where it improved and where it regressed")
     A("")

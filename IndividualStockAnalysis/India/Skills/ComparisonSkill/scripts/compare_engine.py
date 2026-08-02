@@ -32,6 +32,17 @@ sys.path.insert(0, str(SKILLS / "BusinessAnalysis" / "scripts"))
 
 import framework as FWK      # noqa: E402  (inert: names for the 34 checks)
 
+# the full-history CSV loader, by explicit path (never via sys.path — the
+# sibling scripts folders all contain an analyze.py that would shadow ours)
+import importlib.util as _ilu
+
+_spec = _ilu.spec_from_file_location(
+    "cmp_quant_evidence",
+    str(SKILLS / "MultibaggerPattern" / "scripts" / "quant_evidence.py"))
+MBQ = _ilu.module_from_spec(_spec)
+sys.modules["cmp_quant_evidence"] = MBQ
+_spec.loader.exec_module(MBQ)
+
 FW = FWK.load_framework()
 PARAM_NAME = {p.id: p.name for p in FW.parameters}
 PARAM_MODULE = {p.id: p.module for p in FW.parameters}
@@ -68,6 +79,67 @@ def run_analysis(sym: str, which: str, ai: bool = True) -> dict:
         raise RuntimeError(f"{folder} failed for {sym}: "
                            + (proc.stderr or "")[-300:])
     return json.loads(proc.stdout)
+
+
+# ----------------------------------------------------- the raw numbers
+def trend_table(sym: str) -> list:
+    """The key yearly measures both views judged, from the comparison
+    viewpoint: the long-view average, the year before last (the one-year
+    window's baseline), the latest year, and the change between the two.
+    Same figures the AnalystSkill charts draw — nothing computed twice."""
+    frames = MBQ._load(SKILLS.parent, "NiftyTotalMarket")
+
+    def series(frame_key, item, col, icol="line_item"):
+        df = frames[frame_key]
+        if df.empty:
+            return []
+        sub = df[(df["nse_symbol"] == sym) & (df[icol] == item)]
+        sub = sub.sort_values("year", key=lambda s: s.map(MBQ._year_key))
+        vals = []
+        for v in sub[col]:
+            try:
+                v = float(v)
+                if v == v:
+                    vals.append(v)
+            except (TypeError, ValueError):
+                continue
+        return vals
+
+    METRICS = [
+        ("Sales (₹ crore)", series("pl", "Sales", "value"), "pct"),
+        ("Operating margin (%)", series("pl", "OPM %", "value"), "pts"),
+        ("Return on capital employed (%)",
+         series("wc", "ROCE %", "value", "metric"), "pts"),
+        ("Cash conversion cycle (days; negative = customers pay first)",
+         series("wc", "Cash Conversion Cycle", "value", "metric"), "days"),
+    ]
+    rows = []
+    for name, vals, mode in METRICS:
+        if len(vals) < 2:
+            continue
+        latest, prior = vals[-1], vals[-2]
+        avg = sum(vals) / len(vals)
+        if mode == "pct" and prior != 0:
+            ch = (latest - prior) / abs(prior) * 100
+            arrow = "▲" if ch > 0.5 else ("▼" if ch < -0.5 else "▬")
+            change = f"{arrow} {abs(ch):.0f}% vs the year before"
+        elif mode == "pts":
+            ch = latest - prior
+            arrow = "▲" if ch > 0.2 else ("▼" if ch < -0.2 else "▬")
+            change = (f"{arrow} {abs(ch):.1f} point"
+                      f"{'s' if abs(ch) >= 1.05 or abs(ch) < 0.95 else ''} "
+                      f"vs the year before")
+        else:
+            ch = latest - prior
+            d = round(abs(ch))
+            arrow = "▼" if ch < -0.5 else ("▲" if ch > 0.5 else "▬")
+            change = (f"{arrow} {d} day{'s' if d != 1 else ''} "
+                      f"vs the year before")
+        fmt = (lambda v: f"{v:,.0f}") if mode == "pct" else               (lambda v: f"{v:.0f}")
+        rows.append({"measure": name, "n_years": len(vals),
+                     "long_avg": fmt(avg), "prior": fmt(prior),
+                     "latest": fmt(latest), "change": change})
+    return rows
 
 
 # ------------------------------------------------------------- comparison
@@ -270,6 +342,7 @@ def compare(sym: str, full: dict, recent: dict) -> dict:
     return {
         "symbol": sym,
         "rating": _rating_delta(full, recent),
+        "numbers": trend_table(sym),
         "pillars": _pillar_deltas(full, recent),
         "business": _compare_business(full, recent),
         "patterns": _compare_patterns(full, recent),
