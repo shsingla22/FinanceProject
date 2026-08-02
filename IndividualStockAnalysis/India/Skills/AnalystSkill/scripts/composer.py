@@ -148,8 +148,12 @@ def safety_pillar(qr: dict) -> dict:
                         else "one stress signal") + f" (−{frag_pts})")
     if len(parts) == 1:
         parts.append("no risk channel cost any points")
+    caution = ("" if len(tested) >= 4 else
+               f" Caution: only {len(tested)} of the 8 risk channels could "
+               f"be tested on this evidence — treat this as provisional, "
+               f"not a clean bill of health.")
     return {"name": "Risk safety", "points": pts,
-            "derivation": "; ".join(parts) + f" → {pts} of 100."
+            "derivation": "; ".join(parts) + f" → {pts} of 100." + caution
                           + (" (Floored at 0.)" if raw < 0 else ""),
             "high": high, "elevated": elev}
 
