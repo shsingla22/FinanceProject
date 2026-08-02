@@ -1,8 +1,8 @@
 ,parent_line_item,Mar 2025,Mar 2026
 Cash from Operating Activity,,399.0,446.0
-Cash from Investing Activity,,-337.0,-402.0
+Cash from Investing Activity,,-336.0,-400.0
 Cash from Financing Activity,,-28.0,-279.0
-Net Cash Flow,,34.0,-236.0
+Net Cash Flow,,35.0,-234.0
 Free Cash Flow,,25.0,149.0
 CFO/OP,,89.0,93.0
 Profit from operations,Cash from Operating Activity,620.0,642.0
@@ -19,3 +19,7 @@ Fixed assets sold,Cash from Investing Activity,4.0,0.0
 Investments purchased,Cash from Investing Activity,0.0,-130.0
 Interest received,Cash from Investing Activity,23.0,19.0
 Dividends received,Cash from Investing Activity,14.0,5.0
+Other investing items,Cash from Investing Activity,0.0,2.0
+Interest paid fin,Cash from Financing Activity,-4.0,-4.0
+Dividends paid,Cash from Financing Activity,-19.0,-271.0
+Financial liabilities,Cash from Financing Activity,-5.0,-4.0

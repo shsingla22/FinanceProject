@@ -1,36 +1,36 @@
 ,parent_line_item,Mar 2015,Mar 2016,Mar 2017,Mar 2018,Mar 2019,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
-Cash from Operating Activity,,-7064.0,-9870.0,-10439.0,-20566.0,-29062.0,-24412.0,-807.0,-37090.0,-42112.0,-69843.0,-68154.0,-65790.0
-Cash from Investing Activity,,-360.0,-687.0,-3047.0,1075.0,-5379.0,-8758.0,-429.0,6347.0,-10394.0,-10088.0,-2765.0,-3389.0
-Cash from Financing Activity,,6867.0,11656.0,12513.0,19503.0,34449.0,34167.0,1741.0,32275.0,50675.0,82415.0,70527.0,67433.0
-Net Cash Flow,,-557.0,1100.0,-972.0,13.0,9.0,998.0,505.0,1532.0,-1831.0,2484.0,-392.0,-1746.0
-Free Cash Flow,,-7129.0,-9964.0,-10587.0,-20700.0,-29428.0,-24912.0,-1105.0,-37705.0,-42970.0,-70842.0,-69200.0,-66686.0
-CFO/OP,,-181.0,-185.0,-140.0,-221.0,-206.0,-129.0,4.0,-175.0,-133.0,-167.0,-130.0,-106.0
-Profit from operations,Cash from Operating Activity,3834.0,5341.0,7337.0,5100.0,7746.0,12102.0,10170.0,15672.0,18087.0,24786.0,31963.0,39931.0
+Cash from Operating Activity,,-7064.0,-9870.0,-10439.0,-20566.0,-29062.0,-24412.0,-807.0,-37029.0,-42112.0,-72760.0,-67792.0,-65790.0
+Cash from Investing Activity,,-360.0,-687.0,-3047.0,1075.0,-5379.0,-8758.0,-429.0,6347.0,-10394.0,-7171.0,-2765.0,-3389.0
+Cash from Financing Activity,,6867.0,11656.0,12513.0,19503.0,34449.0,34167.0,1741.0,32240.0,50675.0,82415.0,70165.0,67433.0
+Net Cash Flow,,-557.0,1100.0,-972.0,13.0,9.0,998.0,505.0,1558.0,-1831.0,2484.0,-392.0,-1746.0
+Free Cash Flow,,-7129.0,-9964.0,-10587.0,-20700.0,-29428.0,-24912.0,-1105.0,-37644.0,-42970.0,-73759.0,-68837.0,-66686.0
+CFO/OP,,-181.0,-185.0,-140.0,-221.0,-206.0,-129.0,4.0,-174.0,-133.0,-174.0,-130.0,-106.0
+Profit from operations,Cash from Operating Activity,3834.0,5341.0,7337.0,5100.0,7746.0,12102.0,10170.0,15684.0,18087.0,23842.0,31963.0,39931.0
 Receivables,Cash from Operating Activity,0.0,0.0,0.0,-173.0,-228.0,-118.0,46.0,-321.0,-93.0,-458.0,-206.0,-52.0
-Payables,Cash from Operating Activity,137.0,95.0,86.0,273.0,190.0,148.0,138.0,414.0,579.0,612.0,-186.0,469.0
-Loans Advances,Cash from Operating Activity,-141.0,-159.0,-49.0,-24643.0,-34827.0,-32881.0,-9574.0,-50348.0,-54412.0,-88194.0,-89988.0,-103794.0
-Operating investments,Cash from Operating Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1948.0,-1373.0,105.0
-Other WC items,Cash from Operating Activity,0.0,541.0,1492.0,361.0,273.0,-1428.0,-105.0,79.0,-2308.0,-3440.0,-2417.0,4012.0
-Working capital changes,Cash from Operating Activity,-4.0,477.0,1529.0,-24182.0,-34592.0,-34278.0,-9495.0,-50176.0,-56226.0,-89532.0,-94170.0,-99260.0
+Payables,Cash from Operating Activity,137.0,95.0,86.0,273.0,190.0,148.0,138.0,414.0,579.0,737.0,-186.0,226.0
+Loans Advances,Cash from Operating Activity,-141.0,-159.0,-49.0,-24643.0,-34827.0,-32881.0,-9574.0,-50246.0,-54412.0,-88187.0,-89988.0,-103794.0
+Operating investments,Cash from Operating Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,-25.0,-1373.0,6318.0
+Other WC items,Cash from Operating Activity,0.0,541.0,1492.0,361.0,273.0,-1428.0,-105.0,27.0,-2308.0,-3572.0,-2417.0,-1958.0
+Working capital changes,Cash from Operating Activity,-4.0,477.0,1529.0,-24182.0,-34592.0,-34278.0,-9495.0,-50126.0,-56226.0,-91504.0,-94170.0,-99260.0
 Interest paid,Cash from Operating Activity,-2015.0,-2416.0,-3167.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Direct taxes,Cash from Operating Activity,-491.0,-740.0,-1006.0,-1484.0,-2215.0,-2235.0,-1482.0,-2586.0,-3972.0,-5098.0,-5948.0,-6461.0
+Direct taxes,Cash from Operating Activity,-491.0,-740.0,-1006.0,-1484.0,-2215.0,-2235.0,-1482.0,-2586.0,-3972.0,-5098.0,-5585.0,-6461.0
 Other operating items,Cash from Operating Activity,0.0,-12532.0,-15131.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Exceptional CF items,Cash from Operating Activity,-8388.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Fixed assets purchased,Cash from Investing Activity,0.0,-95.0,-149.0,-135.0,-398.0,-508.0,-309.0,-634.0,-878.0,-1038.0,-1082.0,-961.0
 Fixed assets sold,Cash from Investing Activity,1.0,1.0,1.0,1.0,31.0,7.0,11.0,19.0,20.0,39.0,36.0,65.0
 Capital WIP,Cash from Investing Activity,-66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Investments purchased,Cash from Investing Activity,-304.0,-95298.0,-130736.0,-226086.0,-475921.0,-445355.0,-241586.0,-241181.0,-318410.0,-30255.0,-47899.0,-2285.0
-Investments sold,Cash from Investing Activity,0.0,94671.0,127838.0,227417.0,470792.0,436962.0,241229.0,247742.0,308361.0,21433.0,46179.0,0.0
-Interest received,Cash from Investing Activity,10.0,35.0,0.0,0.0,117.0,135.0,227.0,401.0,607.0,0.0,0.0,0.0
+Investments purchased,Cash from Investing Activity,-304.0,-95298.0,-130736.0,-226086.0,-475921.0,-445355.0,-241586.0,-241187.0,-318410.0,-141295.0,-59091.0,-104480.0
+Investments sold,Cash from Investing Activity,0.0,94671.0,127838.0,227417.0,470792.0,436962.0,241229.0,247748.0,308361.0,134446.0,57370.0,101986.0
+Interest received,Cash from Investing Activity,10.0,35.0,0.0,0.0,117.0,135.0,227.0,401.0,607.0,944.0,0.0,0.0
 Dividends received,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0
 Investment in group cos,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-93.0,-267.0,0.0,0.0
-Other investing items,Cash from Investing Activity,0.0,0.0,0.0,-121.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-209.0
-Proceeds from shares,Cash from Financing Activity,20.0,1425.0,0.0,4538.0,57.0,8568.0,103.0,173.0,158.0,9067.0,1251.0,457.0
+Other investing items,Cash from Investing Activity,0.0,0.0,0.0,-121.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Proceeds from shares,Cash from Financing Activity,20.0,1425.0,0.0,4538.0,57.0,8568.0,103.0,173.0,158.0,9067.0,1251.0,436.0
 Proceeds from debentures,Cash from Financing Activity,0.0,0.0,0.0,0.0,12841.0,1956.0,0.0,0.0,0.0,0.0,0.0,0.0
-Proceeds from borrowings,Cash from Financing Activity,8100.0,0.0,0.0,0.0,16564.0,16906.0,3149.0,46463.0,74784.0,94690.0,100215.0,125221.0
-Repayment of borrowings,Cash from Financing Activity,-1159.0,0.0,0.0,0.0,0.0,0.0,-5594.0,-18436.0,-36474.0,-34376.0,-39027.0,-52124.0
+Proceeds from borrowings,Cash from Financing Activity,8100.0,0.0,0.0,0.0,16564.0,16906.0,3149.0,45881.0,74784.0,94690.0,99852.0,126604.0
+Repayment of borrowings,Cash from Financing Activity,-1159.0,0.0,0.0,0.0,0.0,0.0,-5594.0,-17890.0,-36474.0,-34376.0,-39027.0,-52124.0
 Proceeds from deposits,Cash from Financing Activity,0.0,0.0,0.0,3441.0,5264.0,7988.0,4173.0,4784.0,13557.0,14760.0,10527.0,0.0
 Dividends paid,Cash from Financing Activity,-94.0,-191.0,-38.0,-197.0,-230.0,-943.0,-3.0,-603.0,-1207.0,-1815.0,-2225.0,-3477.0
 Financial liabilities,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,-68.0,-87.0,-106.0,-143.0,-174.0,-215.0,-243.0
 Share application money,Cash from Financing Activity,0.0,102.0,338.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Other financing items,Cash from Financing Activity,0.0,10319.0,12214.0,11721.0,-48.0,-240.0,0.0,0.0,-0.0,263.0,-0.0,-2402.0
+Other financing items,Cash from Financing Activity,0.0,10319.0,12214.0,11721.0,-48.0,-240.0,0.0,0.0,-0.0,263.0,-0.0,-3765.0

@@ -1,10 +1,10 @@
 ,parent_line_item,Sep 2024,Feb 2025,Sep 2025
-Cash from Operating Activity,,-0.0,103.0,3670.0
-Cash from Investing Activity,,-0.0,-80.0,-3483.0
+Cash from Operating Activity,,0.0,103.0,3670.0
+Cash from Investing Activity,,0.0,-80.0,-3483.0
 Cash from Financing Activity,,0.0,-23.0,-55.0
-Net Cash Flow,,0.0,-0.0,132.0
-Free Cash Flow,,-0.0,23.0,3454.0
-CFO/OP,,-0.0,17.0,254.0
+Net Cash Flow,,0.0,0.0,132.0
+Free Cash Flow,,0.0,23.0,3454.0
+CFO/OP,,0.0,17.0,254.0
 Profit from operations,Cash from Operating Activity,-0.0,613.0,1554.0
 Receivables,Cash from Operating Activity,0.0,-274.0,1156.0
 Inventory,Cash from Operating Activity,0.0,-41.0,13.0

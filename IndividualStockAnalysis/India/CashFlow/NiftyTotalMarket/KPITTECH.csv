@@ -4,7 +4,7 @@ Cash from Investing Activity,,0.0,16.0,-136.0,-503.0,-292.0,-167.0,-561.0,-628.0
 Cash from Financing Activity,,0.0,34.0,-177.0,-115.0,-127.0,-183.0,-240.0,-342.0,89.0
 Net Cash Flow,,0.0,201.0,75.0,10.0,56.0,112.0,201.0,419.0,98.0
 Free Cash Flow,,-0.0,125.0,321.0,568.0,406.0,335.0,847.0,1262.0,1056.0
-CFO/OP,,4.0,185.0,163.0,215.0,125.0,89.0,115.0,130.0,115.0
+CFO/OP,,4.0,185.0,163.0,215.0,129.0,89.0,115.0,130.0,115.0
 Profit from operations,Cash from Operating Activity,-0.0,88.0,341.0,353.0,476.0,738.0,1052.0,1378.0,1417.0
 Receivables,Cash from Operating Activity,0.0,-150.0,144.0,106.0,-37.0,-205.0,-180.0,77.0,-64.0
 Inventory,Cash from Operating Activity,0.0,-1.0,-1.0,11.0,0.0,-0.0,-32.0,6.0,-3.0
@@ -21,3 +21,10 @@ Dividends received,Cash from Investing Activity,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,
 Investment in group cos,Cash from Investing Activity,0.0,0.0,0.0,0.0,-21.0,0.0,0.0,0.0,0.0
 Acquisition of companies,Cash from Investing Activity,0.0,-67.0,-2.0,0.0,-63.0,-578.0,-350.0,-155.0,-1285.0
 Other investing items,Cash from Investing Activity,0.0,108.0,-106.0,-333.0,-185.0,444.0,-19.0,-211.0,103.0
+Proceeds from shares,Cash from Financing Activity,0.0,2.0,1.0,1.0,3.0,2.0,2.0,1.0,1.0
+Proceeds from borrowings,Cash from Financing Activity,0.0,190.0,128.0,218.0,180.0,104.0,453.0,143.0,746.0
+Repayment of borrowings,Cash from Financing Activity,0.0,-147.0,-210.0,-273.0,-181.0,-111.0,-468.0,-182.0,-292.0
+Interest paid fin,Cash from Financing Activity,0.0,-8.0,-7.0,-4.0,-3.0,-9.0,-19.0,-19.0,-49.0
+Dividends paid,Cash from Financing Activity,0.0,0.0,-57.0,0.0,-74.0,-89.0,-129.0,-193.0,-224.0
+Financial liabilities,Cash from Financing Activity,0.0,0.0,-32.0,-56.0,-52.0,-58.0,-78.0,-91.0,-92.0
+Other financing items,Cash from Financing Activity,0.0,-3.0,-0.0,0.0,0.0,-23.0,0.0,0.0,0.0

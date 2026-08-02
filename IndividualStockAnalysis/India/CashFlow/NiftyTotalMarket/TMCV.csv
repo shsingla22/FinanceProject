@@ -1,18 +1,27 @@
-,parent_line_item,Mar 2026
-Cash from Operating Activity,,14981.0
-Cash from Investing Activity,,-3451.0
-Cash from Financing Activity,,-5223.0
-Net Cash Flow,,6307.0
-Free Cash Flow,,12878.0
-CFO/OP,,159.0
-Profit from operations,Cash from Operating Activity,9266.0
-Receivables,Cash from Operating Activity,325.0
-Inventory,Cash from Operating Activity,-782.0
-Payables,Cash from Operating Activity,1237.0
-Other WC items,Cash from Operating Activity,5877.0
-Working capital changes,Cash from Operating Activity,6657.0
-Direct taxes,Cash from Operating Activity,-942.0
-Proceeds from borrowings,Cash from Financing Activity,341.0
-Repayment of borrowings,Cash from Financing Activity,-4454.0
-Interest paid fin,Cash from Financing Activity,-884.0
-Financial liabilities,Cash from Financing Activity,-226.0
+,parent_line_item,Mar 2025,Mar 2026
+Cash from Operating Activity,,8547.0,14981.0
+Cash from Investing Activity,,456.0,-3892.0
+Cash from Financing Activity,,-7970.0,-5223.0
+Net Cash Flow,,1033.0,5866.0
+Free Cash Flow,,7005.0,12878.0
+CFO/OP,,139.0,209.0
+Profit from operations,Cash from Operating Activity,6729.0,9266.0
+Receivables,Cash from Operating Activity,-533.0,325.0
+Inventory,Cash from Operating Activity,2295.0,-782.0
+Payables,Cash from Operating Activity,-556.0,1237.0
+Other WC items,Cash from Operating Activity,632.0,5877.0
+Working capital changes,Cash from Operating Activity,1838.0,6657.0
+Direct taxes,Cash from Operating Activity,-20.0,-942.0
+Fixed assets purchased,Cash from Investing Activity,-1663.0,-2248.0
+Fixed assets sold,Cash from Investing Activity,121.0,145.0
+Investments purchased,Cash from Investing Activity,-2376.0,-2797.0
+Investments sold,Cash from Investing Activity,35.0,594.0
+Interest received,Cash from Investing Activity,411.0,506.0
+Dividends received,Cash from Investing Activity,50.0,104.0
+Investment in group cos,Cash from Investing Activity,-127.0,-138.0
+Redemp n Canc of Shares,Cash from Investing Activity,0.0,20.0
+Other investing items,Cash from Investing Activity,4005.0,-78.0
+Proceeds from borrowings,Cash from Financing Activity,2470.0,341.0
+Repayment of borrowings,Cash from Financing Activity,-9231.0,-4454.0
+Interest paid fin,Cash from Financing Activity,-1006.0,-884.0
+Financial liabilities,Cash from Financing Activity,-203.0,-226.0

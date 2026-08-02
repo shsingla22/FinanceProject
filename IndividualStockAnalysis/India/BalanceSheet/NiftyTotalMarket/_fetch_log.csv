@@ -1,8 +1,8 @@
 nse_symbol,status
 AADHARHFC,skip:existing
-AARTIDRUGS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+AARTIDRUGS,skip:existing
 AARTIIND,skip:existing
-AARTIPHARM,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+AARTIPHARM,skip:existing
 AAVAS,skip:existing
 ABB,skip:existing
 ABBOTINDIA,skip:existing
@@ -14,7 +14,7 @@ ABREL,skip:existing
 ABSLAMC,skip:existing
 ACC,skip:existing
 ACE,skip:existing
-ACI,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+ACI,skip:existing
 ACMESOLAR,skip:existing
 ACUTAAS,skip:existing
 ADANIENSOL,skip:existing
@@ -22,84 +22,84 @@ ADANIENT,skip:existing
 ADANIGREEN,skip:existing
 ADANIPORTS,skip:existing
 ADANIPOWER,skip:existing
-ADVENZYMES,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+ADVENZYMES,skip:existing
 AEGISLOG,skip:existing
 AEGISVOPAK,skip:existing
-AEQUS,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=4,Other Assets=5"
-AETHER,"ok:consolidated:headline=10:cols=5;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+AEQUS,skip:existing
+AETHER,skip:existing
 AFCONS,skip:existing
 AFFLE,skip:existing
-AGARWALEYE,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-AHLUCONT,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+AGARWALEYE,skip:existing
+AHLUCONT,skip:existing
 AIAENG,skip:existing
 AIIL,skip:existing
 AJANTPHARM,skip:existing
-AKUMS,"ok:consolidated:headline=10:cols=9;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-ALIVUS,"ok:consolidated:headline=10:cols=3;schedules=Fixed Assets=empty,Borrowings=empty,Other Liabilities=empty,Other Assets=empty"
+AKUMS,skip:existing
+ALIVUS,skip:existing
 ALKEM,skip:existing
-ALKYLAMINE,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=3,Other Assets=5"
-ALOKINDS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=3,Other Assets=5"
+ALKYLAMINE,skip:existing
+ALOKINDS,skip:existing
 AMBER,skip:existing
 AMBUJACEM,skip:existing
 ANANDRATHI,skip:existing
 ANANTRAJ,skip:existing
 ANGELONE,skip:existing
 ANTHEM,skip:existing
-ANUP,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+ANUP,skip:existing
 ANURAS,skip:existing
 APARINDS,skip:existing
 APLAPOLLO,skip:existing
-APLLTD,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-APOLLO,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+APLLTD,skip:existing
+APOLLO,skip:existing
 APOLLOHOSP,skip:existing
 APOLLOTYRE,skip:existing
 APTUS,skip:existing
-ARVIND,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-ARVINDFASN,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+ARVIND,skip:existing
+ARVINDFASN,skip:existing
 ASAHIINDIA,skip:existing
-ASHAPURMIN,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-ASHOKA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
+ASHAPURMIN,skip:existing
+ASHOKA,skip:existing
 ASHOKLEY,skip:existing
 ASIANPAINT,skip:existing
-ASKAUTOLTD,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+ASKAUTOLTD,skip:existing
 ASTERDM,skip:existing
 ASTRAL,skip:existing
-ASTRAMICRO,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=3,Other Assets=5"
+ASTRAMICRO,skip:existing
 ATGL,skip:existing
 ATHERENERG,skip:existing
-ATLANTAELE,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+ATLANTAELE,skip:existing
 ATUL,skip:existing
 AUBANK,skip:existing
-AURIONPRO,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+AURIONPRO,skip:existing
 AUROPHARMA,skip:existing
-AVALON,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
-AVANTIFEED,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
-AVL,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=7,Borrowings=4,Other Liabilities=3,Other Assets=5"
-AWFIS,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=9,Borrowings=5,Other Liabilities=3,Other Assets=5"
+AVALON,skip:existing
+AVANTIFEED,skip:existing
+AVL,skip:existing
+AWFIS,skip:existing
 AWL,skip:existing
 AXISBANK,skip:existing
-AXISCADES,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-AZAD,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=4,Other Assets=5"
+AXISCADES,skip:existing
+AZAD,skip:existing
 BAJAJ-AUTO,skip:existing
-BAJAJELEC,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+BAJAJELEC,skip:existing
 BAJAJFINSV,skip:existing
 BAJAJHFL,skip:existing
 BAJAJHLDNG,skip:existing
 BAJFINANCE,skip:existing
-BALAMINES,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+BALAMINES,skip:existing
 BALKRISIND,skip:existing
 BALRAMCHIN,skip:existing
-BALUFORGE,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-BANCOINDIA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
+BALUFORGE,skip:existing
+BANCOINDIA,skip:existing
 BANDHANBNK,skip:existing
 BANKBARODA,skip:existing
 BANKINDIA,skip:existing
 BATAINDIA,skip:existing
 BAYERCROP,skip:existing
-BBOX,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=3,Other Assets=5"
+BBOX,skip:existing
 BBTC,skip:existing
 BDL,skip:existing
-BECTORFOOD,"ok:consolidated:headline=10:cols=9;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+BECTORFOOD,skip:existing
 BEL,skip:existing
 BELRISE,skip:existing
 BEML,skip:existing
@@ -110,39 +110,39 @@ BHARTIHEXA,skip:existing
 BHEL,skip:existing
 BIKAJI,skip:existing
 BIOCON,skip:existing
-BIRLACORPN,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-BLACKBUCK,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=4"
+BIRLACORPN,skip:existing
+BLACKBUCK,skip:existing
 BLS,skip:existing
 BLUEDART,skip:existing
 BLUEJET,skip:existing
 BLUESTARCO,skip:existing
-BLUESTONE,"ok:consolidated:headline=10:cols=2;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=4,Other Assets=5"
-BORORENEW,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+BLUESTONE,skip:existing
+BORORENEW,skip:existing
 BOSCHLTD,skip:existing
 BPCL,skip:existing
 BRIGADE,skip:existing
 BRITANNIA,skip:existing
 BSE,skip:existing
 BSOFT,skip:existing
-CAMPUS,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
+CAMPUS,skip:existing
 CAMS,skip:existing
 CANBK,skip:existing
 CANFINHOME,skip:existing
 CANHLIFE,skip:existing
-CAPILLARY,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=8,Borrowings=3,Other Liabilities=3,Other Assets=4"
+CAPILLARY,skip:existing
 CAPLIPOINT,skip:existing
 CARBORUNIV,skip:existing
 CARTRADE,skip:existing
 CASTROLIND,skip:existing
-CCAVENUE,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+CCAVENUE,skip:existing
 CCL,skip:existing
 CDSL,skip:existing
 CEATLTD,skip:existing
-CELLO,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+CELLO,skip:existing
 CEMPRO,skip:existing
 CENTRALBK,skip:existing
-CENTURYPLY,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-CERA,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=4,Other Assets=5"
+CENTURYPLY,skip:existing
+CERA,skip:existing
 CESC,skip:existing
 CGCL,skip:existing
 CGPOWER,skip:existing
@@ -164,72 +164,72 @@ COLPAL,skip:existing
 CONCOR,skip:existing
 CONCORDBIO,skip:existing
 COROMANDEL,skip:existing
-CORONA,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+CORONA,skip:existing
 CPPLUS,skip:existing
 CRAFTSMAN,skip:existing
-CRAMC,"ok:standalone:headline=10:cols=7;schedules=Fixed Assets=9,Borrowings=2,Other Liabilities=2,Other Assets=4"
+CRAMC,skip:existing
 CREDITACC,skip:existing
 CRISIL,skip:existing
-CRIZAC,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=3,Other Assets=4"
+CRIZAC,skip:existing
 CROMPTON,skip:existing
-CSBBANK,"ok:standalone:headline=11:cols=12;schedules=Fixed Assets=4,Other Liabilities=2,Other Assets=3"
+CSBBANK,skip:existing
 CUB,skip:existing
 CUMMINSIND,skip:existing
-CUPID,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=3,Other Assets=5"
+CUPID,skip:existing
 CYIENT,skip:existing
 DABUR,skip:existing
 DALBHARAT,skip:existing
-DATAMATICS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=4,Other Assets=5"
+DATAMATICS,skip:existing
 DATAPATTNS,skip:existing
-DBL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=3,Other Liabilities=4,Other Assets=5"
-DBREALTY,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
-DCBBANK,"ok:standalone:headline=11:cols=12;schedules=Fixed Assets=4,Other Liabilities=2,Other Assets=3"
+DBL,skip:existing
+DBREALTY,skip:existing
+DCBBANK,skip:existing
 DCMSHRIRAM,skip:existing
 DEEPAKFERT,skip:existing
 DEEPAKNTR,skip:existing
 DELHIVERY,skip:existing
 DEVYANI,skip:existing
-DIACABS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=3,Other Assets=5"
+DIACABS,skip:existing
 DIVISLAB,skip:existing
 DIXON,skip:existing
 DLF,skip:existing
 DMART,skip:existing
 DOMS,skip:existing
 DRREDDY,skip:existing
-DYNAMATECH,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+DYNAMATECH,skip:existing
 ECLERX,skip:existing
-EDELWEISS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+EDELWEISS,skip:existing
 EICHERMOT,skip:existing
 EIDPARRY,skip:existing
-EIEL,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
+EIEL,skip:existing
 EIHOTEL,skip:existing
 ELECON,skip:existing
-ELECTCAST,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+ELECTCAST,skip:existing
 ELGIEQUIP,skip:existing
-ELLEN,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=5,Other Liabilities=3,Other Assets=5"
+ELLEN,skip:existing
 EMAMILTD,skip:existing
-EMBDL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=5,Other Liabilities=4,Other Assets=5"
+EMBDL,skip:existing
 EMCURE,skip:existing
-EMIL,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+EMIL,skip:existing
 EMMVEE,skip:existing
 ENDURANCE,skip:existing
 ENGINERSIN,skip:existing
 ENRIN,skip:existing
-ENTERO,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
-EPL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-EQUITASBNK,"ok:standalone:headline=11:cols=12;schedules=Fixed Assets=4,Other Liabilities=2,Other Assets=3"
+ENTERO,skip:existing
+EPL,skip:existing
+EQUITASBNK,skip:existing
 ERIS,skip:existing
 ESCORTS,skip:existing
 ETERNAL,skip:existing
-ETHOSLTD,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=9,Borrowings=4,Other Liabilities=4,Other Assets=5"
-EUREKAFORB,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+ETHOSLTD,skip:existing
+EUREKAFORB,skip:existing
 EXIDEIND,skip:existing
 FACT,skip:existing
 FEDERALBNK,skip:existing
-FEDFINA,"ok:standalone:headline=10:cols=8;schedules=Fixed Assets=9,Other Liabilities=3,Other Assets=4"
-FIEMIND,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+FEDFINA,skip:existing
+FIEMIND,skip:existing
 FINCABLES,skip:existing
-FINPIPE,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=3,Other Assets=5"
+FINPIPE,skip:existing
 FIRSTCRY,skip:existing
 FIVESTAR,skip:existing
 FLUOROCHEM,skip:existing
@@ -237,57 +237,57 @@ FORCEMOT,skip:existing
 FORTIS,skip:existing
 FSL,skip:existing
 GABRIEL,skip:existing
-GAEL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+GAEL,skip:existing
 GAIL,skip:existing
 GALLANTT,skip:existing
 GESHIP,skip:existing
-GHCL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+GHCL,skip:existing
 GICRE,skip:existing
 GILLETTE,skip:existing
 GLAND,skip:existing
 GLAXO,skip:existing
 GLENMARK,skip:existing
 GMDCLTD,skip:existing
-GMMPFAUDLR,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=4,Other Assets=5"
+GMMPFAUDLR,skip:existing
 GMRAIRPORT,skip:existing
-GNFC,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+GNFC,skip:existing
 GODFRYPHLP,skip:existing
 GODIGIT,skip:existing
-GODREJAGRO,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+GODREJAGRO,skip:existing
 GODREJCP,skip:existing
 GODREJIND,skip:existing
 GODREJPROP,skip:existing
-GOKEX,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-GOKULAGRO,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=3,Other Assets=5"
+GOKEX,skip:existing
+GOKULAGRO,skip:existing
 GPIL,skip:existing
-GPPL,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=11,Borrowings=1,Other Liabilities=3,Other Assets=5"
+GPPL,skip:existing
 GRANULES,skip:existing
 GRAPHITE,skip:existing
 GRASIM,skip:existing
 GRAVITA,skip:existing
-GREAVESCOT,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=4,Other Assets=5"
+GREAVESCOT,skip:existing
 GROWW,skip:existing
 GRSE,skip:existing
-GRWRHITECH,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-GSFC,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+GRWRHITECH,skip:existing
+GSFC,skip:existing
 HAL,skip:existing
-HAPPSTMNDS,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=2,Other Assets=4"
+HAPPSTMNDS,skip:existing
 HAVELLS,skip:existing
 HBLENGINE,skip:existing
-HCC,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=5,Other Liabilities=4,Other Assets=5"
-HCG,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+HCC,skip:existing
+HCG,skip:existing
 HCLTECH,skip:existing
 HDBFS,skip:existing
 HDFCAMC,skip:existing
 HDFCBANK,skip:existing
 HDFCLIFE,skip:existing
 HEG,skip:existing
-HEMIPROP,"ok:standalone:headline=10:cols=11;schedules=Fixed Assets=6,Borrowings=3,Other Liabilities=2,Other Assets=5"
-HERITGFOOD,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+HEMIPROP,skip:existing
+HERITGFOOD,skip:existing
 HEROMOTOCO,skip:existing
 HEXT,skip:existing
 HFCL,skip:existing
-HGINFRA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
+HGINFRA,skip:existing
 HINDALCO,skip:existing
 HINDCOPPER,skip:existing
 HINDPETRO,skip:existing
@@ -303,38 +303,38 @@ ICICIAMC,skip:existing
 ICICIBANK,skip:existing
 ICICIGI,skip:existing
 ICICIPRULI,skip:existing
-ICIL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=4,Other Assets=5"
+ICIL,skip:existing
 IDBI,skip:existing
 IDEA,skip:existing
 IDFCFIRSTB,skip:existing
 IEX,skip:existing
-IFBIND,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+IFBIND,skip:existing
 IFCI,skip:existing
 IGIL,skip:existing
 IGL,skip:existing
 IIFL,skip:existing
-IIFLCAPS,"ok:consolidated:headline=10:cols=9;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=4,Other Assets=5"
+IIFLCAPS,skip:existing
 IKS,skip:existing
-IMFA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+IMFA,skip:existing
 INDGN,skip:existing
 INDHOTEL,skip:existing
 INDIACEM,skip:existing
-INDIAGLYCO,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=4,Other Assets=5"
+INDIAGLYCO,skip:existing
 INDIAMART,skip:existing
 INDIANB,skip:existing
-INDIASHLTR,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=10,Other Liabilities=3,Other Assets=4"
+INDIASHLTR,skip:existing
 INDIGO,skip:existing
-INDIGOPNTS,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+INDIGOPNTS,skip:existing
 INDUSINDBK,skip:existing
 INDUSTOWER,skip:existing
 INFY,skip:existing
-INOXGREEN,"ok:consolidated:headline=10:cols=9;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=4,Other Assets=5"
-INOXINDIA,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+INOXGREEN,skip:existing
+INOXINDIA,skip:existing
 INOXWIND,skip:existing
 INTELLECT,skip:existing
 IOB,skip:existing
 IOC,skip:existing
-IONEXCHANG,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+IONEXCHANG,skip:existing
 IPCALAB,skip:existing
 IRB,skip:existing
 IRCON,skip:existing
@@ -344,26 +344,26 @@ IRFC,skip:existing
 ITC,skip:existing
 ITCHOTELS,skip:existing
 ITI,skip:existing
-IXIGO,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=9,Borrowings=5,Other Liabilities=4,Other Assets=4"
-JAIBALAJI,"ok:consolidated:headline=10:cols=13;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+IXIGO,skip:existing
+JAIBALAJI,skip:existing
 JAINREC,skip:existing
-JAMNAAUTO,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-JAYNECOIND,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
+JAMNAAUTO,skip:existing
+JAYNECOIND,skip:existing
 JBCHEPHARM,skip:existing
 JBMA,skip:existing
 JINDALSAW,skip:existing
 JINDALSTEL,skip:existing
 JIOFIN,skip:existing
 JKCEMENT,skip:existing
-JKLAKSHMI,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-JKPAPER,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
+JKLAKSHMI,skip:existing
+JKPAPER,skip:existing
 JKTYRE,skip:existing
-JLHL,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+JLHL,skip:existing
 JMFINANCIL,skip:existing
 JPPOWER,skip:existing
-JSFB,"ok:standalone:headline=11:cols=9;schedules=Fixed Assets=3,Other Liabilities=2,Other Assets=3"
+JSFB,skip:existing
 JSL,skip:existing
-JSLL,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+JSLL,skip:existing
 JSWCEMENT,skip:existing
 JSWDULUX,skip:existing
 JSWENERGY,skip:existing
@@ -372,34 +372,34 @@ JSWSTEEL,skip:existing
 JUBLFOOD,skip:existing
 JUBLINGREA,skip:existing
 JUBLPHARMA,skip:existing
-JUSTDIAL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=2,Other Assets=4"
+JUSTDIAL,skip:existing
 JWL,skip:existing
-JYOTHYLAB,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+JYOTHYLAB,skip:existing
 JYOTICNC,skip:existing
 KAJARIACER,skip:existing
 KALYANKJIL,skip:existing
-KANSAINER,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+KANSAINER,skip:existing
 KARURVYSYA,skip:existing
 KAYNES,skip:existing
 KEC,skip:existing
 KEI,skip:existing
 KFINTECH,skip:existing
 KIMS,skip:existing
-KIRLOSBROS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+KIRLOSBROS,skip:existing
 KIRLOSENG,skip:existing
-KIRLPNU,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-KITEX,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
-KNRCON,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+KIRLPNU,skip:existing
+KITEX,skip:existing
+KNRCON,skip:existing
 KOTAKBANK,skip:existing
-KPIGREEN,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+KPIGREEN,skip:existing
 KPIL,skip:existing
 KPITTECH,skip:existing
 KPRMILL,skip:existing
-KRBL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-KRN,"ok:consolidated:headline=10:cols=3;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=3,Other Assets=5"
-KSB,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=3,Other Assets=5"
-KSCL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
-KTKBANK,"ok:consolidated:headline=11:cols=7;schedules=Fixed Assets=4,Other Liabilities=2,Other Assets=3"
+KRBL,skip:existing
+KRN,skip:existing
+KSB,skip:existing
+KSCL,skip:existing
+KTKBANK,skip:existing
 LALPATHLAB,skip:existing
 LATENTVIEW,skip:existing
 LAURUSLABS,skip:existing
@@ -409,52 +409,52 @@ LGEINDIA,skip:existing
 LICHSGFIN,skip:existing
 LICI,skip:existing
 LINDEINDIA,skip:existing
-LLOYDSENGG,"ok:consolidated:headline=10:cols=2;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
-LLOYDSENT,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+LLOYDSENGG,skip:existing
+LLOYDSENT,skip:existing
 LLOYDSME,skip:existing
 LODHA,skip:existing
-LOTUSDEV,"ok:consolidated:headline=10:cols=5;schedules=Fixed Assets=8,Borrowings=5,Other Liabilities=4,Other Assets=5"
+LOTUSDEV,skip:existing
 LT,skip:existing
 LTF,skip:existing
 LTFOODS,skip:existing
 LTM,skip:existing
 LTTS,skip:existing
-LUMAXTECH,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+LUMAXTECH,skip:existing
 LUPIN,skip:existing
-LXCHEM,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=4,Other Assets=5"
+LXCHEM,skip:existing
 MAHABANK,skip:existing
-MAHSCOOTER,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=9,Borrowings=empty,Other Liabilities=3,Other Assets=5"
-MAHSEAMLES,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+MAHSCOOTER,skip:existing
+MAHSEAMLES,skip:existing
 MANAPPURAM,skip:existing
 MANKIND,skip:existing
-MANORAMA,"ok:consolidated:headline=10:cols=2;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
-MANYAVAR,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+MANORAMA,skip:existing
+MANYAVAR,skip:existing
 MAPMYINDIA,skip:existing
 MARICO,skip:existing
-MARKSANS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+MARKSANS,skip:existing
 MARUTI,skip:existing
-MASTEK,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=4"
+MASTEK,skip:existing
 MAXHEALTH,skip:existing
 MAZDOCK,skip:existing
 MCX,skip:existing
 MEDANTA,skip:existing
-MEDPLUS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
+MEDPLUS,skip:existing
 MEESHO,skip:existing
-METROPOLIS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+METROPOLIS,skip:existing
 MFSL,skip:existing
 MGL,skip:existing
-MIDHANI,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
+MIDHANI,skip:existing
 MINDACORP,skip:existing
 MMTC,skip:existing
-MOIL,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=10,Borrowings=empty,Other Liabilities=3,Other Assets=5"
+MOIL,skip:existing
 MOTHERSON,skip:existing
 MOTILALOFS,skip:existing
 MPHASIS,skip:existing
 MRF,skip:existing
 MRPL,skip:existing
-MSTCLTD,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=3,Other Assets=5"
+MSTCLTD,skip:existing
 MSUMI,skip:existing
-MTARTECH,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+MTARTECH,skip:existing
 MUTHOOTFIN,skip:existing
 NAM-INDIA,skip:existing
 NATCOPHARM,skip:existing
@@ -462,17 +462,17 @@ NATIONALUM,skip:existing
 NAUKRI,skip:existing
 NAVA,skip:existing
 NAVINFLUOR,skip:existing
-NAZARA,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+NAZARA,skip:existing
 NBCC,skip:existing
 NCC,skip:existing
-NEOGEN,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=3,Other Assets=5"
-NESCO,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=2,Other Liabilities=3,Other Assets=5"
+NEOGEN,skip:existing
+NESCO,skip:existing
 NESTLEIND,skip:existing
 NETWEB,skip:existing
-NETWORK18,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+NETWORK18,skip:existing
 NEULANDLAB,skip:existing
 NEWGEN,skip:existing
-NFL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=3,Other Assets=5"
+NFL,skip:existing
 NH,skip:existing
 NHPC,skip:existing
 NIACL,skip:existing
@@ -492,97 +492,97 @@ OLAELEC,skip:existing
 OLECTRA,skip:existing
 ONESOURCE,skip:existing
 ONGC,skip:existing
-OPTIEMUS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-ORIENTCEM,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-ORKLAINDIA,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=2,Other Assets=5"
-OSWALPUMPS,"ok:consolidated:headline=10:cols=5;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=2,Other Assets=5"
+OPTIEMUS,skip:existing
+ORIENTCEM,skip:existing
+ORKLAINDIA,skip:existing
+OSWALPUMPS,skip:existing
 PAGEIND,skip:existing
 PARADEEP,skip:existing
-PARAS,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-PARKHOSPS,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+PARAS,skip:existing
+PARKHOSPS,skip:existing
 PATANJALI,skip:existing
 PAYTM,skip:existing
 PCBL,skip:existing
-PCJEWELLER,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=3,Other Assets=5"
+PCJEWELLER,skip:existing
 PERSISTENT,skip:existing
 PETRONET,skip:existing
 PFC,skip:existing
 PFIZER,skip:existing
-PFOCUS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+PFOCUS,skip:existing
 PGEL,skip:existing
-PGIL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+PGIL,skip:existing
 PHOENIXLTD,skip:existing
-PICCADIL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=3,Other Assets=5"
+PICCADIL,skip:existing
 PIDILITIND,skip:existing
 PIIND,skip:existing
 PINELABS,skip:existing
 PIRAMALFIN,skip:existing
 PNB,skip:existing
 PNBHOUSING,skip:existing
-PNCINFRA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-PNGJL,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
+PNCINFRA,skip:existing
+PNGJL,skip:existing
 POLICYBZR,skip:existing
 POLYCAB,skip:existing
 POLYMED,skip:existing
 POONAWALLA,skip:existing
 POWERGRID,skip:existing
 POWERINDIA,skip:existing
-POWERMECH,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+POWERMECH,skip:existing
 PPLPHARMA,skip:existing
-PRAJIND,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+PRAJIND,skip:existing
 PREMIERENE,skip:existing
 PRESTIGE,skip:existing
-PRICOLLTD,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-PRIVISCL,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-PRSMJOHNSN,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=5,Other Liabilities=4,Other Assets=5"
-PRUDENT,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
-PTC,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=4"
+PRICOLLTD,skip:existing
+PRIVISCL,skip:existing
+PRSMJOHNSN,skip:existing
+PRUDENT,skip:existing
+PTC,skip:existing
 PTCIL,skip:existing
-PURVA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+PURVA,skip:existing
 PVRINOX,skip:existing
 PWL,skip:existing
-QPOWER,"ok:consolidated:headline=10:cols=5;schedules=Fixed Assets=9,Borrowings=3,Other Liabilities=3,Other Assets=5"
-QUESS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+QPOWER,skip:existing
+QUESS,skip:existing
 RADICO,skip:existing
 RAILTEL,skip:existing
-RAIN,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+RAIN,skip:existing
 RAINBOW,skip:existing
-RALLIS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+RALLIS,skip:existing
 RAMCOCEM,skip:existing
-RATEGAIN,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=9,Borrowings=5,Other Liabilities=3,Other Assets=4"
-RATNAMANI,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
-RAYMONDLSL,"ok:consolidated:headline=10:cols=3;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=3,Other Assets=5"
-RBA,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+RATEGAIN,skip:existing
+RATNAMANI,skip:existing
+RAYMONDLSL,skip:existing
+RBA,skip:existing
 RBLBANK,skip:existing
-RCF,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=2,Other Assets=5"
+RCF,skip:existing
 RECLTD,skip:existing
 REDINGTON,skip:existing
-REDTAPE,"ok:consolidated:headline=10:cols=5;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=3,Other Assets=5"
-REFEX,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-RELAXO,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=4,Other Liabilities=3,Other Assets=5"
+REDTAPE,skip:existing
+REFEX,skip:existing
+RELAXO,skip:existing
 RELIANCE,skip:existing
-RELIGARE,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=4,Other Assets=5"
-RENUKA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=9,Borrowings=5,Other Liabilities=4,Other Assets=5"
+RELIGARE,skip:existing
+RENUKA,skip:existing
 RHIM,skip:existing
 RITES,skip:existing
 RKFORGE,skip:existing
-ROUTE,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=9,Borrowings=4,Other Liabilities=4,Other Assets=4"
+ROUTE,skip:existing
 RPOWER,skip:existing
 RRKABEL,skip:existing
-RTNINDIA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-RTNPOWER,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=12,Borrowings=5,Other Liabilities=4,Other Assets=5"
-RUBICON,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+RTNINDIA,skip:existing
+RTNPOWER,skip:existing
+RUBICON,skip:existing
 RVNL,skip:existing
-SAATVIKGL,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-SAFARI,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+SAATVIKGL,skip:existing
+SAFARI,skip:existing
 SAGILITY,skip:existing
 SAIL,skip:existing
 SAILIFE,skip:existing
-SAMHI,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+SAMHI,skip:existing
 SAMMAANCAP,skip:existing
-SANDUMA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
-SANOFICONR,"ok:standalone:headline=10:cols=3;schedules=Fixed Assets=7,Borrowings=1,Other Liabilities=2,Other Assets=5"
-SANSERA,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+SANDUMA,skip:existing
+SANOFICONR,skip:existing
+SANSERA,skip:existing
 SAPPHIRE,skip:existing
 SARDAEN,skip:existing
 SAREGAMA,skip:existing
@@ -593,59 +593,59 @@ SBIN,skip:existing
 SCHAEFFLER,skip:existing
 SCHNEIDER,skip:existing
 SCI,skip:existing
-SENCO,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=10,Borrowings=5,Other Liabilities=3,Other Assets=5"
-SFL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-SHAILY,"ok:consolidated:headline=10:cols=5;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-SHAKTIPUMP,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=3,Other Assets=5"
-SHARDACROP,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-SHAREINDIA,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-SHILPAMED,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+SENCO,skip:existing
+SFL,skip:existing
+SHAILY,skip:existing
+SHAKTIPUMP,skip:existing
+SHARDACROP,skip:existing
+SHAREINDIA,skip:existing
+SHILPAMED,skip:existing
 SHREECEM,skip:existing
-SHRIPISTON,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+SHRIPISTON,skip:existing
 SHRIRAMFIN,skip:existing
 SHYAMMETL,skip:existing
 SIEMENS,skip:existing
 SIGNATURE,skip:existing
 SJVN,skip:existing
-SKFINDIA,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=10,Borrowings=1,Other Liabilities=3,Other Assets=5"
-SKFINDUS,"ok:standalone:headline=10:cols=2;schedules=Fixed Assets=empty,Borrowings=1,Other Liabilities=2,Other Assets=5"
-SKIPPER,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=2,Other Assets=5"
-SKYGOLD,"ok:consolidated:headline=10:cols=5;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-SMARTWORKS,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=4"
-SMLMAH,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+SKFINDIA,skip:existing
+SKFINDUS,skip:existing
+SKIPPER,skip:existing
+SKYGOLD,skip:existing
+SMARTWORKS,skip:existing
+SMLMAH,skip:existing
 SOBHA,skip:existing
 SOLARINDS,skip:existing
 SONACOMS,skip:existing
 SONATSOFTW,skip:existing
-SOUTHBANK,"ok:consolidated:headline=11:cols=6;schedules=Fixed Assets=4,Other Liabilities=2,Other Assets=3"
-SPARC,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=2,Other Assets=4"
+SOUTHBANK,skip:existing
+SPARC,skip:existing
 SPLPETRO,skip:existing
 SRF,skip:existing
-STAR,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-STARCEMENT,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=13,Borrowings=4,Other Liabilities=4,Other Assets=5"
+STAR,skip:existing
+STARCEMENT,skip:existing
 STARHEALTH,skip:existing
-STLTECH,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
-STYL,"ok:consolidated:headline=10:cols=3;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
-STYRENIX,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=3,Other Assets=5"
-SUBROS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
-SUDARSCHEM,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-SUDEEPPHRM,"ok:consolidated:headline=10:cols=6;schedules=Fixed Assets=12,Borrowings=5,Other Liabilities=4,Other Assets=5"
+STLTECH,skip:existing
+STYL,skip:existing
+STYRENIX,skip:existing
+SUBROS,skip:existing
+SUDARSCHEM,skip:existing
+SUDEEPPHRM,skip:existing
 SUMICHEM,skip:existing
 SUNDARMFIN,skip:existing
 SUNPHARMA,skip:existing
-SUNTECK,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
+SUNTECK,skip:existing
 SUNTV,skip:existing
 SUPREMEIND,skip:existing
-SUPRIYA,"ok:standalone:headline=10:cols=10;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-SURYAROSNI,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+SUPRIYA,skip:existing
+SURYAROSNI,skip:existing
 SUZLON,skip:existing
 SWANCORP,skip:existing
 SWIGGY,skip:existing
-SWSOLAR,"ok:consolidated:headline=10:cols=9;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+SWSOLAR,skip:existing
 SYNGENE,skip:existing
 SYRMA,skip:existing
-TANLA,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=2,Other Assets=5"
-TARC,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+TANLA,skip:existing
+TARC,skip:existing
 TARIL,skip:existing
 TATACAP,skip:existing
 TATACHEM,skip:existing
@@ -658,43 +658,43 @@ TATASTEEL,skip:existing
 TATATECH,skip:existing
 TBOTEK,skip:existing
 TCS,skip:existing
-TDPOWERSYS,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=2,Other Liabilities=3,Other Assets=5"
+TDPOWERSYS,skip:existing
 TECHM,skip:existing
 TECHNOE,skip:existing
 TEGA,skip:existing
 TEJASNET,skip:existing
 TENNIND,skip:existing
-TEXRAIL,"ok:consolidated:headline=10:cols=11;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-THANGAMAYL,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
+TEXRAIL,skip:existing
+THANGAMAYL,skip:existing
 THELEELA,skip:existing
 THERMAX,skip:existing
-THOMASCOOK,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
-THYROCARE,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=4,Other Assets=5"
-TI,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+THOMASCOOK,skip:existing
+THYROCARE,skip:existing
+TI,skip:existing
 TIINDIA,skip:existing
-TIMETECHNO,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
+TIMETECHNO,skip:existing
 TIMKEN,skip:existing
-TIPSMUSIC,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
+TIPSMUSIC,skip:existing
 TITAGARH,skip:existing
 TITAN,skip:existing
-TMB,"ok:standalone:headline=11:cols=9;schedules=Fixed Assets=4,Other Liabilities=2,Other Assets=3"
+TMB,skip:existing
 TMCV,skip:existing
 TMPV,skip:existing
 TORNTPHARM,skip:existing
 TORNTPOWER,skip:existing
-TRANSRAILL,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+TRANSRAILL,skip:existing
 TRAVELFOOD,skip:existing
 TRENT,skip:existing
 TRIDENT,skip:existing
 TRITURBINE,skip:existing
-TRIVENI,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-TSFINV,"ok:consolidated:headline=10:cols=9;schedules=Fixed Assets=11,Borrowings=3,Other Liabilities=3,Other Assets=5"
+TRIVENI,skip:existing
+TSFINV,skip:existing
 TTML,skip:existing
 TVSMOTOR,skip:existing
-TVSSCS,"ok:consolidated:headline=10:cols=8;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+TVSSCS,skip:existing
 UBL,skip:existing
 UCOBANK,skip:existing
-UJJIVANSFB,"ok:standalone:headline=11:cols=12;schedules=Fixed Assets=6,Other Liabilities=2,Other Assets=3"
+UJJIVANSFB,skip:existing
 ULTRACEMCO,skip:existing
 UNIONBANK,skip:existing
 UNITDSPR,skip:existing
@@ -702,39 +702,39 @@ UNOMINDA,skip:existing
 UPL,skip:existing
 URBANCO,skip:existing
 USHAMART,skip:existing
-UTIAMC,skip:existing
-UTLSOLAR,"ok:consolidated:headline=10:cols=2;schedules=Fixed Assets=9,Borrowings=4,Other Liabilities=4,Other Assets=5"
-V2RETAIL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-VAIBHAVGBL,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-VARROC,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=5,Other Liabilities=4,Other Assets=5"
+UTIAMC,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=1,Other Liabilities=3,Other Assets=4"
+UTLSOLAR,skip:existing
+V2RETAIL,skip:existing
+VAIBHAVGBL,skip:existing
+VARROC,skip:existing
 VBL,skip:existing
 VEDL,skip:existing
-VGUARD,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+VGUARD,skip:existing
 VIJAYA,skip:existing
-VIKRAMSOLR,"ok:consolidated:headline=10:cols=7;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-VIPIND,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=2,Other Liabilities=3,Other Assets=5"
-VIYASH,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-VMART,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=2,Other Assets=4"
+VIKRAMSOLR,skip:existing
+VIPIND,skip:existing
+VIYASH,skip:existing
+VMART,skip:existing
 VMM,skip:existing
-VOLTAMP,"ok:standalone:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=1,Other Liabilities=3,Other Assets=5"
+VOLTAMP,skip:existing
 VOLTAS,skip:existing
 VTL,skip:existing
 WAAREEENER,skip:existing
-WAAREERTL,"ok:consolidated:headline=10:cols=9;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
-WABAG,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
-WAKEFIT,"ok:standalone:headline=10:cols=6;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=3,Other Assets=5"
-WEBELSOLAR,"ok:consolidated:headline=10:cols=2;schedules=Fixed Assets=1,Borrowings=3,Other Liabilities=2,Other Assets=5"
+WAAREERTL,skip:existing
+WABAG,skip:existing
+WAKEFIT,skip:existing
+WEBELSOLAR,skip:existing
 WELCORP,skip:existing
-WELENT,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+WELENT,skip:existing
 WELSPUNLIV,skip:existing
-WESTLIFE,"ok:consolidated:headline=10:cols=12;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=3,Other Assets=5"
-WEWORK,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=10,Borrowings=4,Other Liabilities=4,Other Assets=5"
+WESTLIFE,skip:existing
+WEWORK,skip:existing
 WHIRLPOOL,skip:existing
 WIPRO,skip:existing
 WOCKPHARMA,skip:existing
-YATHARTH,"ok:consolidated:headline=10:cols=10;schedules=Fixed Assets=11,Borrowings=4,Other Liabilities=4,Other Assets=5"
+YATHARTH,skip:existing
 YESBANK,skip:existing
-ZAGGLE,"ok:consolidated:headline=10:cols=4;schedules=Fixed Assets=10,Borrowings=3,Other Liabilities=4,Other Assets=5"
+ZAGGLE,skip:existing
 ZEEL,skip:existing
 ZENSARTECH,skip:existing
 ZENTEC,skip:existing

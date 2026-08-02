@@ -1,19 +1,29 @@
 ,parent_line_item,Mar 2025,Mar 2026
-Equity Capital,,0.01,49.0
-Reserves,,-0.0,1427.0
-Borrowings,,0.0,5.0
-Other Liabilities,,0.0,1193.0
-Total Liabilities,,0.0,2674.0
-Fixed Assets,,0.0,211.0
-CWIP,,0.0,134.0
+Equity Capital,,49.0,49.0
+Reserves,,1262.0,1427.0
+Borrowings,,2.0,5.0
+Other Liabilities,,602.0,1193.0
+Total Liabilities,,1915.0,2674.0
+Fixed Assets,,182.0,211.0
+CWIP,,9.0,134.0
 Investments,,0.0,0.0
-Other Assets,,0.0,2329.0
-Total Assets,,0.0,2674.0
-Lease Liabilities,Borrowings,0.0,4.57
-Trade Payables,Other Liabilities,0.0,740.0
-Other liability items,Other Liabilities,0.0,453.0
-Inventories,Other Assets,0.0,536.0
-Trade receivables,Other Assets,0.0,828.0
-Cash Equivalents,Other Assets,0.0,569.0
-Loans n Advances,Other Assets,0.0,184.0
-Other asset items,Other Assets,0.0,212.0
+Other Assets,,1724.0,2329.0
+Total Assets,,1915.0,2674.0
+Land,Fixed Assets,0.0,0.0
+Building,Fixed Assets,15.0,19.0
+Plant Machinery,Fixed Assets,266.0,316.0
+Equipments,Fixed Assets,2.0,2.0
+Furniture n fittings,Fixed Assets,11.0,12.0
+Vehicles,Fixed Assets,13.0,18.0
+Other fixed assets,Fixed Assets,32.0,32.0
+Gross Block,Fixed Assets,339.0,399.0
+Accumulated Depreciation,Fixed Assets,158.0,188.0
+Lease Liabilities,Borrowings,2.02,4.57
+Trade Payables,Other Liabilities,440.0,740.0
+Advance from Customers,Other Liabilities,3.0,12.0
+Other liability items,Other Liabilities,159.0,441.0
+Inventories,Other Assets,508.0,536.0
+Trade receivables,Other Assets,530.0,828.0
+Cash Equivalents,Other Assets,453.0,569.0
+Loans n Advances,Other Assets,28.0,25.0
+Other asset items,Other Assets,204.0,371.0

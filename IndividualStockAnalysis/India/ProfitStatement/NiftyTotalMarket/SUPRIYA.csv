@@ -18,7 +18,7 @@ Employee Cost %,Expenses,8.43,7.66,0.0,8.21,8.37,9.29,12.08,11.87,11.58,11.68
 Other Cost %,Expenses,4.74,8.34,24.13,10.25,8.89,7.27,9.92,8.38,9.64,22.12
 Exceptional items,Other Income,0.0,0.0,0.0,0.0,0.0,0.0,-0.11,0.0,-0.01,-0.46
 Other income normal,Other Income,7.19,8.6,8.02,11.07,5.01,7.58,9.6,10.64,9.82,11.49
-Exceptional items AT,Net Profit,0.0,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,-0.0,-0.0
+Exceptional items AT,Net Profit,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0
 Profit excl Excep,Net Profit,6.0,9.0,39.0,73.0,124.0,152.0,90.0,119.0,188.0,209.0
 Profit for PE,Net Profit,6.0,9.0,39.0,73.0,124.0,152.0,90.0,119.0,188.0,209.0
 Profit for EPS,Net Profit,6.0,9.0,39.0,73.0,124.0,152.0,90.0,119.0,188.0,209.0

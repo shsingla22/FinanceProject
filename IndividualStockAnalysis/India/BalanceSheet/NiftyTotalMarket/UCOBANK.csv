@@ -10,10 +10,10 @@ CWIP,,67.0,48.0,65.0,65.0,61.0
 Investments,,93693.0,96749.0,95009.0,92761.0,94153.0
 Other Assets,,156335.0,167575.0,202184.0,227006.0,264357.0
 Total Assets,,253246.0,267659.0,300702.0,323548.0,362361.0
-Building,Fixed Assets,5130.0,3258.0,3370.0,3610.0,3627.0
-Other fixed assets,Fixed Assets,83.0,2172.0,2439.0,2718.0,3051.0
-Gross Block,Fixed Assets,5212.0,5430.0,5809.0,6328.0,6678.0
-Accumulated Depreciation,Fixed Assets,2061.0,2143.0,2365.0,2611.0,2887.0
+Building,Fixed Assets,5130.0,5298.0,3370.0,3610.0,3627.0
+Other fixed assets,Fixed Assets,83.0,219.0,2439.0,2718.0,3051.0
+Gross Block,Fixed Assets,5212.0,5517.0,5809.0,6328.0,6678.0
+Accumulated Depreciation,Fixed Assets,2061.0,2230.0,2365.0,2611.0,2887.0
 Trade Payables,Other Liabilities,508.0,608.0,539.0,671.0,594.0
 Other liability items,Other Liabilities,8919.0,6002.0,4720.0,7203.0,8653.0
 Cash Equivalents,Other Assets,8636.0,9371.0,9386.0,9480.0,9772.0

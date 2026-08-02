@@ -22,7 +22,7 @@ Accumulated Depreciation,Fixed Assets,1.0,1.0,3.0,16.0,62.0,
 Long term Borrowings,Borrowings,0.0,0.0,0.0,0.0,0.0,0.88
 Short term Borrowings,Borrowings,0.51,0.0,0.0,0.0,0.0,0.88
 Lease Liabilities,Borrowings,0.08,0.08,0.08,0.08,0.08,0.08
-Non controlling int,Other Liabilities,-0.0,-0.0,-0.0,-0.0,-0.0,8.0
+Non controlling int,Other Liabilities,0.0,0.0,0.0,0.0,0.0,8.0
 Trade Payables,Other Liabilities,39.0,43.0,53.0,130.0,261.0,234.0
 Other liability items,Other Liabilities,13.0,22.0,31.0,121.0,114.0,48.0
 Trade receivables,Other Assets,39.0,31.0,27.0,168.0,256.0,239.0

@@ -4,21 +4,20 @@ Reserves,,480.0,93.0,-249.0,1306.0
 Borrowings,,16.0,61.0,269.0,559.0
 Other Liabilities,,302.0,328.0,284.0,273.0
 Total Liabilities,,830.0,515.0,336.0,2171.0
-Fixed Assets,,106.0,108.0,99.0,157.0
-CWIP,,27.0,44.0,54.0,0.0
+Fixed Assets,,106.0,108.0,99.0,85.0
+CWIP,,27.0,44.0,54.0,72.0
 Investments,,291.0,2.0,0.0,0.0
 Other Assets,,406.0,362.0,183.0,2014.0
 Total Assets,,830.0,515.0,336.0,2171.0
-Land,Fixed Assets,8.0,8.0,8.0,
-Building,Fixed Assets,30.0,31.0,31.0,
-Plant Machinery,Fixed Assets,82.0,93.0,94.0,
-Equipments,Fixed Assets,1.0,1.0,1.0,
-Furniture n fittings,Fixed Assets,4.0,4.0,4.0,
-Vehicles,Fixed Assets,3.0,2.0,2.0,
-Intangible Assets,Fixed Assets,0.0,0.0,0.0,71.0
-Other fixed assets,Fixed Assets,19.0,19.0,19.0,
-Gross Block,Fixed Assets,146.0,157.0,158.0,
-Accumulated Depreciation,Fixed Assets,40.0,50.0,59.0,
+Land,Fixed Assets,8.0,8.0,8.0,8.0
+Building,Fixed Assets,30.0,31.0,31.0,31.0
+Plant Machinery,Fixed Assets,82.0,93.0,94.0,91.0
+Equipments,Fixed Assets,1.0,1.0,1.0,1.0
+Furniture n fittings,Fixed Assets,4.0,4.0,4.0,4.0
+Vehicles,Fixed Assets,3.0,2.0,2.0,1.0
+Other fixed assets,Fixed Assets,19.0,19.0,19.0,8.0
+Gross Block,Fixed Assets,146.0,157.0,158.0,144.0
+Accumulated Depreciation,Fixed Assets,40.0,50.0,59.0,59.0
 Long term Borrowings,Borrowings,0.0,0.0,100.0,0.0
 Short term Borrowings,Borrowings,0.0,47.0,158.0,556.0
 Lease Liabilities,Borrowings,16.0,14.0,11.0,3.0
@@ -26,5 +25,5 @@ Trade Payables,Other Liabilities,148.0,142.0,114.0,97.0
 Other liability items,Other Liabilities,153.0,186.0,170.0,176.0
 Trade receivables,Other Assets,33.0,16.0,16.0,8.0
 Cash Equivalents,Other Assets,112.0,155.0,2.0,1.0
-Loans n Advances,Other Assets,5.0,29.0,6.0,29.0
-Other asset items,Other Assets,257.0,162.0,159.0,1976.0
+Loans n Advances,Other Assets,5.0,29.0,6.0,11.0
+Other asset items,Other Assets,257.0,162.0,159.0,1993.0

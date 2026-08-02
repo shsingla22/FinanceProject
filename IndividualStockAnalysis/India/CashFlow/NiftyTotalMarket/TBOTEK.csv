@@ -12,11 +12,18 @@ Other WC items,Cash from Operating Activity,-35.0,18.0,61.0,-11.0,27.0,45.0,-91.
 Working capital changes,Cash from Operating Activity,-37.0,65.0,-92.0,66.0,167.0,56.0,-15.0,-12.0,-368.0
 Direct taxes,Cash from Operating Activity,-11.0,-14.0,-13.0,-4.0,-16.0,-23.0,-26.0,-31.0,-53.0
 Fixed assets purchased,Cash from Investing Activity,-1.0,-18.0,-9.0,-7.0,-14.0,-7.0,-38.0,-53.0,-67.0
-Fixed assets sold,Cash from Investing Activity,-0.0,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0
-Investments purchased,Cash from Investing Activity,-0.0,-0.0,-0.0,-204.0,-356.0,-0.0,-986.0,-1378.0,-315.0
-Investments sold,Cash from Investing Activity,-0.0,0.0,1.0,177.0,340.0,-0.0,988.0,1213.0,247.0
+Fixed assets sold,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Investments purchased,Cash from Investing Activity,0.0,-0.0,0.0,-204.0,-356.0,0.0,-986.0,-1378.0,-315.0
+Investments sold,Cash from Investing Activity,0.0,0.0,1.0,177.0,340.0,0.0,988.0,1213.0,247.0
 Interest received,Cash from Investing Activity,3.0,3.0,4.0,9.0,7.0,7.0,12.0,35.0,32.0
-Dividends received,Cash from Investing Activity,0.0,0.0,-0.0,0.0,0.0,0.0,-0.0,-0.0,-0.0
-Investment in group cos,Cash from Investing Activity,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0
-Acquisition of companies,Cash from Investing Activity,-0.0,-0.0,-0.0,-0.0,-0.0,-90.0,-127.0,-35.0,-381.0
+Dividends received,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Investment in group cos,Cash from Investing Activity,0.0,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0
+Acquisition of companies,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,-90.0,-127.0,-35.0,-381.0
 Other investing items,Cash from Investing Activity,5.0,-24.0,-2.0,-2.0,-3.0,6.0,-2.0,-225.0,66.0
+Proceeds from shares,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,0.0,2.0,390.0,6.0
+Proceeds from borrowings,Cash from Financing Activity,0.0,0.0,0.0,0.0,3.0,0.0,134.0,0.0,642.0
+Repayment of borrowings,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,-0.0,-5.0,-1.0,-156.0
+Interest paid fin,Cash from Financing Activity,-0.0,0.0,0.0,-1.0,-3.0,-7.0,-9.0,-19.0,-32.0
+Financial liabilities,Cash from Financing Activity,0.0,-5.0,-7.0,-4.0,-6.0,-6.0,-5.0,-8.0,-19.0
+Application money refund,Cash from Financing Activity,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other financing items,Cash from Financing Activity,-5.0,0.0,0.0,0.0,-9.0,-1.0,-1.0,3.0,-0.0

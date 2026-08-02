@@ -1,13 +1,22 @@
 ,parent_line_item,Mar 2025,Mar 2026
-Cash from Operating Activity,,0.0,164.0
-Cash from Investing Activity,,0.0,-46.0
-Cash from Financing Activity,,0.0,-2.0
-Net Cash Flow,,0.0,116.0
-Free Cash Flow,,0.0,70.0
-CFO/OP,,0.0,69.0
-Fixed assets purchased,Cash from Investing Activity,0.0,-94.0
-Interest received,Cash from Investing Activity,0.0,40.0
-Other investing items,Cash from Investing Activity,0.0,8.0
+Cash from Operating Activity,,-18.0,164.0
+Cash from Investing Activity,,-2.0,-46.0
+Cash from Financing Activity,,-0.0,-2.0
+Net Cash Flow,,-20.0,116.0
+Free Cash Flow,,-28.0,70.0
+CFO/OP,,15.0,69.0
+Profit from operations,Cash from Operating Activity,158.0,406.0
+Receivables,Cash from Operating Activity,-47.0,-299.0
+Inventory,Cash from Operating Activity,-46.0,-27.0
+Payables,Cash from Operating Activity,-8.0,300.0
+Other WC items,Cash from Operating Activity,-33.0,86.0
+Working capital changes,Cash from Operating Activity,-134.0,60.0
+Direct taxes,Cash from Operating Activity,-43.0,-106.0
+Other operating items,Cash from Operating Activity,0.0,-196.0
+Fixed assets purchased,Cash from Investing Activity,-10.0,-94.0
+Interest received,Cash from Investing Activity,11.0,40.0
+Other investing items,Cash from Investing Activity,-2.0,8.0
 Proceeds from shares,Cash from Financing Activity,0.01,0.0
 Interest paid fin,Cash from Financing Activity,0.0,-0.21
-Financial liabilities,Cash from Financing Activity,0.0,-1.51
+Financial liabilities,Cash from Financing Activity,-0.41,-1.51
+Other financing items,Cash from Financing Activity,0.14,0.0

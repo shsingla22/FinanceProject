@@ -9,11 +9,11 @@ Profit from operations,Cash from Operating Activity,138.0,110.0,147.0,252.0,176.
 Receivables,Cash from Operating Activity,-2.0,-156.0,51.0,-269.0,-80.0,-223.0,-230.0
 Inventory,Cash from Operating Activity,1.0,-2.0,-8.0,-23.0,14.0,12.0,45.0
 Payables,Cash from Operating Activity,-156.0,111.0,60.0,130.0,26.0,157.0,-170.0
-Loans Advances,Cash from Operating Activity,0.0,0.0,0.0,-0.0,0.0,-0.0,1.0
+Loans Advances,Cash from Operating Activity,-0.0,-0.0,-0.0,-0.0,0.0,-0.0,1.0
 Other WC items,Cash from Operating Activity,100.0,64.0,-265.0,-157.0,-354.0,-277.0,209.0
 Working capital changes,Cash from Operating Activity,-57.0,17.0,-162.0,-319.0,-393.0,-331.0,-146.0
 Direct taxes,Cash from Operating Activity,-65.0,-14.0,-50.0,-85.0,-12.0,38.0,-5.0
-Exceptional CF items,Cash from Operating Activity,-5.0,-2.0,-14.0,0.0,0.0,0.0,0.0
+Exceptional CF items,Cash from Operating Activity,-5.0,-2.0,-14.0,-0.0,-0.0,-0.0,-0.0
 Fixed assets purchased,Cash from Investing Activity,-167.0,-166.0,-331.0,-367.0,-266.0,-150.0,-238.0
 Fixed assets sold,Cash from Investing Activity,1.0,1.0,3.0,2.0,9.0,2.0,4.0
 Investments purchased,Cash from Investing Activity,0.0,0.0,0.0,-240.0,0.0,-3.0,-1.0
@@ -21,3 +21,11 @@ Interest received,Cash from Investing Activity,2.0,8.0,16.0,33.0,39.0,20.0,36.0
 Redemp n Canc of Shares,Cash from Investing Activity,298.0,0.0,0.0,0.0,0.0,0.0,0.0
 Acquisition of companies,Cash from Investing Activity,0.0,-12.0,0.0,-347.0,0.0,0.0,-14.0
 Other investing items,Cash from Investing Activity,-22.0,-91.0,-132.0,477.0,196.0,-354.0,-1126.0
+Proceeds from shares,Cash from Financing Activity,803.0,201.0,0.0,3.0,2.0,16.0,2120.0
+Proceeds from debentures,Cash from Financing Activity,0.0,0.0,745.0,0.0,0.0,0.0,0.0
+Proceeds from borrowings,Cash from Financing Activity,0.0,0.0,81.0,186.0,63.0,10.0,111.0
+Repayment of borrowings,Cash from Financing Activity,0.0,0.0,-72.0,-87.0,-116.0,-93.0,-72.0
+Interest paid fin,Cash from Financing Activity,-17.0,-19.0,-24.0,-35.0,-64.0,-79.0,-84.0
+Financial liabilities,Cash from Financing Activity,-7.0,-5.0,-4.0,-12.0,-19.0,-21.0,-21.0
+Shelter assistance reserve,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,0.0,-76.0
+Other financing items,Cash from Financing Activity,652.0,646.0,918.0,-52.0,-85.0,-33.0,-6.0

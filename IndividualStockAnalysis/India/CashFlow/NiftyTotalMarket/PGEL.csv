@@ -1,11 +1,11 @@
 ,parent_line_item,Mar 2011,Mar 2012,Mar 2013,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
 Cash from Operating Activity,,23.0,-23.0,57.0,-79.0,46.0,188.0,-77.0,66.0,
 Cash from Investing Activity,,-50.0,-97.0,-44.0,-161.0,-173.0,-401.0,-1201.0,-198.0,
-Cash from Financing Activity,,22.0,126.0,-17.0,256.0,112.0,234.0,1329.0,82.0,
+Cash from Financing Activity,,22.0,126.0,-17.0,257.0,112.0,234.0,1329.0,82.0,
 Net Cash Flow,,-5.0,6.0,-4.0,16.0,-15.0,22.0,51.0,-50.0,
-Free Cash Flow,,-27.0,-91.0,15.0,-230.0,-108.0,-37.0,-564.0,-717.0,
-CFO/OP,,99.0,-813.0,113.0,-86.0,31.0,83.0,-2.0,36.0,
-Profit from operations,Cash from Operating Activity,31.0,4.0,,54.0,99.0,183.0,284.0,506.0,409.0
+Free Cash Flow,,-27.0,-91.0,15.0,-231.0,-108.0,-37.0,-564.0,-717.0,
+CFO/OP,,99.0,-813.0,113.0,-103.0,31.0,83.0,-2.0,36.0,
+Profit from operations,Cash from Operating Activity,31.0,4.0,,54.0,98.0,183.0,284.0,506.0,409.0
 Receivables,Cash from Operating Activity,-1.0,15.0,,-47.0,-70.0,-227.0,-115.0,-429.0,-204.0
 Inventory,Cash from Operating Activity,-1.0,-7.0,,-10.0,-194.0,-68.0,-194.0,-774.0,-285.0
 Payables,Cash from Operating Activity,0.0,0.0,,47.0,116.0,121.0,257.0,728.0,383.0
@@ -20,3 +20,11 @@ Investments sold,Cash from Investing Activity,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0
 Interest received,Cash from Investing Activity,0.0,1.0,,1.0,2.0,3.0,8.0,32.0,56.0
 Invest in subsidiaries,Cash from Investing Activity,0.0,0.0,,0.0,0.0,0.0,-45.0,0.0,0.0
 Other investing items,Cash from Investing Activity,0.0,0.0,,-2.0,-11.0,-20.0,-139.0,-747.0,530.0
+Proceeds from shares,Cash from Financing Activity,0.0,111.0,,4.0,44.0,3.0,492.0,1490.0,17.0
+Proceeds from debentures,Cash from Financing Activity,0.0,0.0,,0.0,36.0,0.0,0.0,0.0,0.0
+Proceeds from borrowings,Cash from Financing Activity,34.0,37.0,,57.0,235.0,200.0,43.0,97.0,390.0
+Repayment of borrowings,Cash from Financing Activity,-6.0,-12.0,,-59.0,-35.0,-41.0,-245.0,-156.0,-192.0
+Interest paid fin,Cash from Financing Activity,-5.0,-11.0,,-18.0,-22.0,-48.0,-52.0,-89.0,-101.0
+Dividends paid,Cash from Financing Activity,0.0,0.0,,0.0,0.0,0.0,0.0,-5.0,-7.0
+Financial liabilities,Cash from Financing Activity,0.0,0.0,,-1.0,-1.0,-2.0,-4.0,-7.0,-24.0
+Other financing items,Cash from Financing Activity,-1.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0

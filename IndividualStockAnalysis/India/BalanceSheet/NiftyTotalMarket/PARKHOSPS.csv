@@ -15,11 +15,11 @@ Plant Machinery,Fixed Assets,101.0,80.0,110.0,171.0,238.0,
 Equipments,Fixed Assets,10.0,7.0,8.0,15.0,16.0,
 Computers,Fixed Assets,3.0,2.0,3.0,4.0,6.0,
 Furniture n fittings,Fixed Assets,11.0,7.0,13.0,25.0,28.0,
-Vehicles,Fixed Assets,20.0,22.0,30.0,35.0,49.0,
+Vehicles,Fixed Assets,20.0,22.0,30.0,29.0,49.0,
 Intangible Assets,Fixed Assets,77.0,77.0,77.0,77.0,77.0,391.0
 Other fixed assets,Fixed Assets,1.0,0.0,1.0,2.0,2.0,
-Gross Block,Fixed Assets,462.0,492.0,606.0,1003.0,1110.0,
-Accumulated Depreciation,Fixed Assets,98.0,34.0,70.0,166.0,212.0,
+Gross Block,Fixed Assets,462.0,492.0,606.0,997.0,1110.0,
+Accumulated Depreciation,Fixed Assets,98.0,34.0,70.0,160.0,212.0,
 Long term Borrowings,Borrowings,207.0,372.0,319.0,391.0,384.0,19.0
 Short term Borrowings,Borrowings,85.0,131.0,238.0,242.0,238.0,209.0
 Lease Liabilities,Borrowings,0.0,14.0,18.0,54.0,60.0,136.0
@@ -31,5 +31,5 @@ Other liability items,Other Liabilities,155.0,188.0,227.0,200.0,189.0,236.0
 Inventories,Other Assets,8.0,6.0,2.0,2.0,3.0,3.0
 Trade receivables,Other Assets,316.0,449.0,576.0,511.0,614.0,593.0
 Cash Equivalents,Other Assets,89.0,192.0,203.0,390.0,361.0,431.0
-Loans n Advances,Other Assets,1.0,51.0,55.0,15.0,17.0,186.0
-Other asset items,Other Assets,29.0,107.0,216.0,125.0,205.0,167.0
+Loans n Advances,Other Assets,1.0,51.0,55.0,59.0,17.0,186.0
+Other asset items,Other Assets,29.0,107.0,216.0,81.0,205.0,167.0

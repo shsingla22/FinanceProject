@@ -14,6 +14,8 @@ Dividend Payout %,,19.0,0.0,0.0,0.0,0.0
 Manufacturing Cost %,Expenses,0.51,0.67,0.6,0.59,0.82
 Employee Cost %,Expenses,14.67,16.49,22.05,22.25,18.74
 Other Cost %,Expenses,7.68,8.92,13.28,10.11,7.3
+Exceptional items,Other Income,0.0,0.0,0.02,-0.08,-0.01
+Other income normal,Other Income,0.01,0.06,0.17,0.02,0.02
 Exceptional items AT,Net Profit,0.0,0.0,0.0,-0.0,-0.0
 Profit excl Excep,Net Profit,10.0,14.0,20.0,54.0,157.0
 Profit for PE,Net Profit,10.0,14.0,20.0,54.0,157.0

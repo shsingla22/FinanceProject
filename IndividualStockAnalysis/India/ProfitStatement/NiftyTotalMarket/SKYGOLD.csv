@@ -2,7 +2,7 @@
 Sales,,786.0,1154.0,1745.0,3548.0,6295.0
 Expenses,,765.0,1117.0,1668.0,3351.0,5861.0
 Operating Profit,,20.0,37.0,78.0,197.0,434.0
-OPM %,,3.0,3.0,4.0,6.0,7.0
+OPM %,,2.6,3.2,4.5,6.0,7.0
 Other Income,,11.0,1.0,4.0,33.0,36.0
 Interest,,8.0,11.0,21.0,45.0,79.0
 Depreciation,,1.0,1.0,6.0,11.0,13.0
@@ -16,7 +16,7 @@ Material Cost %,Expenses,96.0,96.0,94.0,93.0,92.0
 Manufacturing Cost %,Expenses,0.0,0.0,0.0,0.0,0.0
 Employee Cost %,Expenses,0.0,0.0,1.0,1.0,1.0
 Other Cost %,Expenses,0.0,0.0,0.0,0.0,1.0
-Exceptional items,Other Income,10.16,0.0,0.95,19.29,0.0
+Exceptional items,Other Income,10.16,-0.0,0.95,19.29,-0.0
 Other income normal,Other Income,0.4,0.96,2.79,13.67,36.4
 Minority share,Net Profit,0.0,0.0,0.0,0.0,-7.0
 Exceptional items AT,Net Profit,8.0,0.0,1.0,15.0,0.0

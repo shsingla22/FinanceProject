@@ -19,3 +19,8 @@ Investments sold,Cash from Investing Activity,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.
 Interest received,Cash from Investing Activity,5.0,11.0,16.0,17.0,5.0,4.0,11.0,4.0,4.0,33.0,12.0,11.0
 Investment in group cos,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,-94.0,0.0,-2.0,-85.0,-108.0,-52.0
 Redemp n Canc of Shares,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,159.0,0.0,0.0,0.0,0.0
+Proceeds from borrowings,Cash from Financing Activity,963.0,0.0,0.0,0.0,3403.0,1639.0,0.0,1300.0,917.0,736.0,0.0,1963.0
+Repayment of borrowings,Cash from Financing Activity,-876.0,-1522.0,-1989.0,-1074.0,0.0,0.0,-6215.0,-18.0,-95.0,-639.0,-2093.0,0.0
+Interest paid fin,Cash from Financing Activity,-301.0,-228.0,-190.0,-190.0,-316.0,-404.0,-288.0,-135.0,-294.0,-276.0,-226.0,-242.0
+Dividends paid,Cash from Financing Activity,0.0,-10.0,-71.0,-50.0,-64.0,-102.0,0.0,0.0,0.0,-137.0,-13.0,-77.0
+Financial liabilities,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,-1.0,-2.0,-2.0,-2.0,-1.0,-2.0,-2.0

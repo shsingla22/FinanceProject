@@ -1,21 +1,22 @@
-,parent_line_item,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
-Revenue,,10945.0,11312.0,12403.0,14173.0,16300.0,18430.0
-Interest,,3883.0,3326.0,3512.0,4907.0,6433.0,6820.0
-Expenses,,6451.0,6540.0,6153.0,5817.0,6745.0,8014.0
-Financing Profit,,610.0,1446.0,2738.0,3449.0,3122.0,3596.0
-Financing Margin %,,6.0,13.0,22.0,24.0,19.0,20.0
-Other Income,,-2.0,0.0,1.0,1.0,0.0,0.0
-Depreciation,,108.0,99.0,112.0,145.0,194.0,209.0
-Profit before tax,,501.0,1348.0,2627.0,3305.0,2928.0,3386.0
-Tax %,,22.0,25.0,25.0,26.0,26.0,25.0
-Net Profit,,391.0,1011.0,1959.0,2461.0,2176.0,2544.0
-EPS in Rs,,4.96,12.8,24.76,31.03,27.34,30.64
-Dividend Payout %,,0.0,8.0,8.0,10.0,11.0,13.0
-Manufacturing Cost %,Expenses,0.23,0.35,0.35,0.34,0.4,0.0
-Employee Cost %,Expenses,27.0,30.94,32.71,27.17,22.21,21.24
-Other Cost %,Expenses,31.71,26.52,16.55,13.53,18.77,22.25
-Exceptional items AT,Net Profit,-0.0,0.0,1.0,1.0,0.0,0.0
-Profit excl Excep,Net Profit,392.0,1011.0,1959.0,2460.0,2176.0,2544.0
-Profit for PE,Net Profit,392.0,1011.0,1959.0,2460.0,2176.0,2544.0
-Profit for EPS,Net Profit,391.0,1011.0,1959.0,2461.0,2176.0,2544.0
-Profit Growth %,Net Profit,,158.0,94.0,26.0,-12.0,17.0
+,parent_line_item,Mar 2018,Mar 2019,Mar 2023,Mar 2024,Mar 2025
+Revenue,,7027.0,8725.0,12403.0,14173.0,16300.0
+Interest,,2449.0,3333.0,3512.0,4907.0,6433.0
+Expenses,,3096.0,3605.0,6153.0,5817.0,6745.0
+Financing Profit,,1482.0,1786.0,2738.0,3449.0,3122.0
+Financing Margin %,,21.0,20.0,22.0,24.0,19.0
+Other Income,,-0.0,-0.0,1.0,1.0,0.0
+Depreciation,,45.0,62.0,112.0,145.0,194.0
+Profit before tax,,1436.0,1724.0,2627.0,3305.0,2928.0
+Tax %,,35.0,33.0,25.0,26.0,26.0
+Net Profit,,933.0,1153.0,1959.0,2461.0,2176.0
+EPS in Rs,,11.92,14.68,24.76,31.03,27.34
+Dividend Payout %,,13.0,12.0,8.0,10.0,11.0
+Manufacturing Cost %,Expenses,0.4,0.29,0.35,0.34,0.4
+Employee Cost %,Expenses,31.71,29.25,32.71,27.17,22.21
+Other Cost %,Expenses,11.96,11.78,16.55,13.53,18.77
+Exceptional items,Other Income,-0.15,-0.28,1.01,0.85,0.2
+Exceptional items AT,Net Profit,-0.0,-0.0,1.0,1.0,0.0
+Profit excl Excep,Net Profit,933.0,1154.0,1959.0,2460.0,2176.0
+Profit for PE,Net Profit,933.0,1154.0,1959.0,2460.0,2176.0
+Profit for EPS,Net Profit,933.0,1153.0,1959.0,2461.0,2176.0
+Profit Growth %,Net Profit,,24.0,,26.0,-12.0

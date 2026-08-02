@@ -9,20 +9,19 @@ CWIP,,0.0,0.0,0.0,0.0,0.0,0.0
 Investments,,0.0,175.0,47.0,158.0,315.0,395.0
 Other Assets,,2448.0,3029.0,4224.0,5607.0,7403.0,9191.0
 Total Assets,,2463.0,3221.0,4296.0,5794.0,7748.0,9615.0
-Land,Fixed Assets,0.09,0.09,0.09,0.09,0.09,
-Building,Fixed Assets,3.6,3.66,4.0,4.15,4.03,
-Plant Machinery,Fixed Assets,4.22,6.45,8.02,9.58,11.85,
-Equipments,Fixed Assets,1.42,1.86,2.59,3.24,4.08,
-Furniture n fittings,Fixed Assets,1.51,1.46,1.52,1.56,1.76,
-Vehicles,Fixed Assets,0.78,2.53,5.23,7.88,10.89,
-Intangible Assets,Fixed Assets,0.0,0.0,0.0,0.0,0.0,2.17
-Other fixed assets,Fixed Assets,17.69,18.77,25.39,30.84,34.32,
-Gross Block,Fixed Assets,29.31,34.82,46.84,57.34,67.02,
-Accumulated Depreciation,Fixed Assets,14.2,17.78,22.53,27.53,37.65,
+Land,Fixed Assets,0.0,0.0,0.0,0.0,0.0,0.0
+Building,Fixed Assets,4.0,4.0,4.0,4.0,4.0,3.0
+Plant Machinery,Fixed Assets,4.0,6.0,8.0,10.0,12.0,16.0
+Equipments,Fixed Assets,1.0,2.0,3.0,3.0,4.0,4.0
+Furniture n fittings,Fixed Assets,2.0,1.0,2.0,2.0,2.0,2.0
+Vehicles,Fixed Assets,1.0,3.0,5.0,8.0,11.0,14.0
+Other fixed assets,Fixed Assets,18.0,19.0,25.0,31.0,34.0,34.0
+Gross Block,Fixed Assets,29.0,35.0,47.0,57.0,67.0,74.0
+Accumulated Depreciation,Fixed Assets,14.0,18.0,23.0,28.0,38.0,44.0
 Trade Payables,Other Liabilities,5.0,5.0,6.0,5.0,9.0,9.0
-Advance from Customers,Other Liabilities,0.0,0.0,0.0,12.0,11.0,
-Other liability items,Other Liabilities,29.0,70.0,60.0,64.0,50.0,162.0
+Advance from Customers,Other Liabilities,0.0,0.0,0.0,12.0,11.0,17.0
+Other liability items,Other Liabilities,29.0,70.0,60.0,64.0,50.0,145.0
 Trade receivables,Other Assets,0.0,0.0,0.0,0.0,0.0,5.0
 Cash Equivalents,Other Assets,414.0,330.0,507.0,378.0,343.0,305.0
-Loans n Advances,Other Assets,6.0,5.0,6.0,22.0,11.0,8569.0
-Other asset items,Other Assets,2028.0,2693.0,3711.0,5207.0,7049.0,312.0
+Loans n Advances,Other Assets,6.0,5.0,6.0,22.0,11.0,8.0
+Other asset items,Other Assets,2028.0,2693.0,3711.0,5207.0,7049.0,8872.0

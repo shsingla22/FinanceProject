@@ -12,5 +12,15 @@ Net Profit,,381.0,417.0,553.0,604.0
 EPS in Rs,,17.8,19.46,13.68,14.95
 Dividend Payout %,,41.0,46.0,82.0,0.0
 Sales Growth %,Sales,,13.26,-10.56,10.5
+Material Cost %,Expenses,71.0,71.0,66.0,65.0
+Manufacturing Cost %,Expenses,9.0,11.0,9.0,0.0
+Employee Cost %,Expenses,5.0,5.0,6.0,6.0
+Other Cost %,Expenses,3.0,2.0,3.0,12.0
 Exceptional items,Other Income,-1.0,-1.0,-0.0,-27.0
 Other income normal,Other Income,60.0,70.0,41.0,59.0
+Minority share,Net Profit,0.0,-0.0,-1.0,-1.0
+Exceptional items AT,Net Profit,-1.0,-0.0,-0.0,-20.0
+Profit excl Excep,Net Profit,382.0,417.0,553.0,624.0
+Profit for PE,Net Profit,382.0,417.0,552.0,624.0
+Profit for EPS,Net Profit,381.0,417.0,552.0,604.0
+Profit Growth %,Net Profit,,9.0,32.0,13.0

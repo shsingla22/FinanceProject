@@ -1,22 +1,31 @@
-,parent_line_item,Mar 2026
-Equity Capital,,736.0
-Reserves,,11998.0
-Borrowings,,5615.0
-Other Liabilities,,33960.0
-Total Liabilities,,52309.0
-Fixed Assets,,15276.0
-CWIP,,712.0
-Investments,,13283.0
-Other Assets,,23038.0
-Total Assets,,52309.0
-Intangible Assets,Fixed Assets,3428.0
-Long term Borrowings,Borrowings,1344.0
-Short term Borrowings,Borrowings,3473.0
-Lease Liabilities,Borrowings,798.0
-Trade Payables,Other Liabilities,13484.0
-Other liability items,Other Liabilities,20476.0
-Inventories,Other Assets,5448.0
-Trade receivables,Other Assets,2721.0
-Cash Equivalents,Other Assets,7776.0
-Loans n Advances,Other Assets,4449.0
-Other asset items,Other Assets,2644.0
+,parent_line_item,Mar 2025,Mar 2026
+Equity Capital,,0.0,736.0
+Reserves,,10533.0,11998.0
+Borrowings,,9925.0,5615.0
+Other Liabilities,,26393.0,33960.0
+Total Liabilities,,46851.0,52309.0
+Fixed Assets,,13664.0,13962.0
+CWIP,,1875.0,2026.0
+Investments,,5282.0,13283.0
+Other Assets,,26030.0,23038.0
+Total Assets,,46851.0,52309.0
+Land,Fixed Assets,2425.0,2450.0
+Building,Fixed Assets,4038.0,4280.0
+Plant Machinery,Fixed Assets,21360.0,22220.0
+Computers,Fixed Assets,696.0,707.0
+Furniture n fittings,Fixed Assets,219.0,239.0
+Vehicles,Fixed Assets,638.0,556.0
+Intangible Assets,Fixed Assets,446.0,446.0
+Other fixed assets,Fixed Assets,6741.0,7602.0
+Gross Block,Fixed Assets,36563.0,38500.0
+Accumulated Depreciation,Fixed Assets,22899.0,24538.0
+Long term Borrowings,Borrowings,4540.0,1344.0
+Short term Borrowings,Borrowings,4616.0,3473.0
+Lease Liabilities,Borrowings,769.0,798.0
+Trade Payables,Other Liabilities,14376.0,15704.0
+Other liability items,Other Liabilities,12017.0,18256.0
+Inventories,Other Assets,4625.0,5448.0
+Trade receivables,Other Assets,3064.0,2721.0
+Cash Equivalents,Other Assets,2266.0,7776.0
+Loans n Advances,Other Assets,492.0,541.0
+Other asset items,Other Assets,15583.0,6552.0

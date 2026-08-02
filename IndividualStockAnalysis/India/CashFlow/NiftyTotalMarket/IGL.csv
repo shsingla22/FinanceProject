@@ -13,6 +13,14 @@ Loans Advances,Cash from Operating Activity,-1.0,-0.0,-2.0,0.0,0.0,0.0,0.0,0.0,0
 Other WC items,Cash from Operating Activity,57.0,69.0,81.0,43.0,166.0,222.0,234.0,269.0,919.0,-348.0,300.0,498.0
 Working capital changes,Cash from Operating Activity,41.0,60.0,245.0,84.0,264.0,172.0,347.0,378.0,647.0,-383.0,552.0,427.0
 Direct taxes,Cash from Operating Activity,-177.0,-187.0,-269.0,-330.0,-369.0,-344.0,-289.0,-376.0,-483.0,-487.0,-395.0,-395.0
+Fixed assets purchased,Cash from Investing Activity,-215.0,-232.0,-271.0,-470.0,-681.0,-963.0,-883.0,-1337.0,-1122.0,-1229.0,-1164.0,-1347.0
+Fixed assets sold,Cash from Investing Activity,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Investments purchased,Cash from Investing Activity,-180.0,-4065.0,-4814.0,-6304.0,-9627.0,-9486.0,-4828.0,-7544.0,-11626.0,-12584.0,-6338.0,-11694.0
+Investments sold,Cash from Investing Activity,0.0,4097.0,4396.0,5898.0,9319.0,10860.0,3279.0,7461.0,12986.0,12190.0,5981.0,11726.0
+Investment income,Cash from Investing Activity,24.0,20.0,38.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Interest received,Cash from Investing Activity,0.0,0.0,0.0,0.0,31.0,32.0,92.0,41.0,103.0,107.0,180.0,235.0
+Dividends received,Cash from Investing Activity,4.0,6.0,19.0,9.0,18.0,13.0,35.0,38.0,59.0,102.0,106.0,107.0
+Other investing items,Cash from Investing Activity,4.0,0.0,-483.0,129.0,-182.0,-976.0,477.0,-245.0,-1241.0,310.0,-284.0,-238.0
 Proceeds from borrowings,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,17.0
 Repayment of borrowings,Cash from Financing Activity,-207.0,-145.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Interest paid fin,Cash from Financing Activity,-30.0,-10.0,0.0,0.0,-0.0,-0.0,0.0,0.0,-9.0,-7.0,-7.0,-7.0
