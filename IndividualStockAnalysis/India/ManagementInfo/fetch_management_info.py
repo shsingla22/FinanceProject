@@ -419,6 +419,11 @@ def main() -> None:
     ap.add_argument("--skip-existing", action="store_true")
     ap.add_argument("--keep-cache", action="store_true",
                     help="Keep downloaded AR PDFs in /tmp (default: purge)")
+    ap.add_argument("--only-new", action="store_true",
+                    help="Re-process ONLY companies whose latest listed "
+                         "annual report is newer than the stored CSV "
+                         "reflects (1 cheap listing request per company; "
+                         "full AR downloads only where something changed)")
     args = ap.parse_args()
 
     out_dir = Path(args.out)
@@ -440,9 +445,33 @@ def main() -> None:
           f"(downloads cached to {CACHE_DIR})")
     print("-" * 70)
 
+    def stored_max_fy(sym: str) -> int:
+        f = out_dir / f"{sym.replace('&', '_AND_')}.csv"
+        if not f.exists():
+            return 0
+        try:
+            import re as _re
+            fys = _re.findall(r"FY(\d+)", f.read_text())
+            return max(int(x) for x in fys) if fys else 0
+        except Exception:
+            return 0
+
     log_rows = []
     for i, sym in enumerate(symbols, 1):
         try:
+            if args.only_new:
+                ars = list_annual_reports(sym)
+                latest_listed = max((fy for fy, _ in ars), default=0)
+                if latest_listed and latest_listed <= stored_max_fy(sym):
+                    status = f"skip:current_through_FY{latest_listed}"
+                    log_rows.append({"nse_symbol": sym, "status": status})
+                    if i % 25 == 0 or i == len(symbols):
+                        ok = sum(1 for r in log_rows
+                                 if r["status"].startswith(("ok", "skip")))
+                        print(f"  [{i:4d}/{len(symbols)}] last={sym:<14s} "
+                              f"ok/skip={ok}/{i} {status[:60]}")
+                    time.sleep(DELAY)
+                    continue
             status = process_company(sym, out_dir, keep_cache=args.keep_cache)
         except Exception as e:
             status = f"exception:{type(e).__name__}:{str(e)[:60]}"
