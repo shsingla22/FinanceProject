@@ -379,7 +379,10 @@ def process_company(sym: str, out_dir: Path, keep_cache: bool = False) -> str:
                 if not aggregated[k]["experience"] and p["experience"]:
                     aggregated[k]["experience"] = p["experience"]
 
-    latest_fy = max(per_year.keys())
+    # An AR whose parse found nobody must not define "current" — an
+    # unparseable latest AR is absence of evidence, not evidence of exit.
+    fys_with_people = [fy for fy, people in per_year.items() if people]
+    latest_fy = max(fys_with_people) if fys_with_people else max(per_year.keys())
     rows = []
     for k, v in aggregated.items():
         fys = sorted(fys_seen[k])
