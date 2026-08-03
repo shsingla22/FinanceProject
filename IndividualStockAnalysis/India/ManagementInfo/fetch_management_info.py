@@ -475,7 +475,17 @@ def main() -> None:
                               f"ok/skip={ok}/{i} {status[:60]}")
                     time.sleep(DELAY)
                     continue
-            status = process_company(sym, out_dir, keep_cache=args.keep_cache)
+            # Hard per-company timeout: PyPDF2 can spin forever on a
+            # malformed AR (observed: a 20-hour stall). A hung parse is
+            # logged and skipped, never allowed to block the whole run.
+            with concurrent.futures.ThreadPoolExecutor(max_workers=1) as _ex:
+                fut = _ex.submit(process_company, sym, out_dir,
+                                 keep_cache=args.keep_cache)
+                try:
+                    status = fut.result(timeout=600)
+                except concurrent.futures.TimeoutError:
+                    status = "timeout:600s (hung AR parse — skipped)"
+                    fut.cancel()
         except Exception as e:
             status = f"exception:{type(e).__name__}:{str(e)[:60]}"
         log_rows.append({"nse_symbol": sym, "status": status})
