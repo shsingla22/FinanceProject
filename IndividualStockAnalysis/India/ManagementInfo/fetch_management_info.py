@@ -459,44 +459,48 @@ def main() -> None:
         except Exception:
             return 0
 
-    log_rows = []
-    for i, sym in enumerate(symbols, 1):
+    def run_one(sym: str) -> tuple[str, str]:
+        """One company, self-contained: only-new skip check, then the full
+        process under a hard timeout. Identical logic to the sequential
+        path — parallelism changes throughput, never outputs."""
         try:
             if args.only_new:
                 ars = list_annual_reports(sym)
                 latest_listed = max((fy for fy, _ in ars), default=0)
                 if latest_listed and latest_listed <= stored_max_fy(sym):
-                    status = f"skip:current_through_FY{latest_listed}"
-                    log_rows.append({"nse_symbol": sym, "status": status})
-                    if i % 25 == 0 or i == len(symbols):
-                        ok = sum(1 for r in log_rows
-                                 if r["status"].startswith(("ok", "skip")))
-                        print(f"  [{i:4d}/{len(symbols)}] last={sym:<14s} "
-                              f"ok/skip={ok}/{i} {status[:60]}")
-                    time.sleep(DELAY)
-                    continue
+                    return sym, f"skip:current_through_FY{latest_listed}"
             # Hard per-company timeout: PyPDF2 can spin forever on a
             # malformed AR (observed: a 20-hour stall). A hung parse is
-            # logged and skipped, never allowed to block the whole run.
+            # logged and skipped, never allowed to block the run.
             _ex = concurrent.futures.ThreadPoolExecutor(max_workers=1)
             fut = _ex.submit(process_company, sym, out_dir,
                              keep_cache=args.keep_cache)
             try:
-                status = fut.result(timeout=600)
+                return sym, fut.result(timeout=600)
             except concurrent.futures.TimeoutError:
-                status = "timeout:600s (hung AR parse — skipped)"
+                return sym, "timeout:600s (hung AR parse — skipped)"
             finally:
                 # never wait on a hung worker — abandon it and move on
                 _ex.shutdown(wait=False, cancel_futures=True)
         except Exception as e:
-            status = f"exception:{type(e).__name__}:{str(e)[:60]}"
-        log_rows.append({"nse_symbol": sym, "status": status})
+            return sym, f"exception:{type(e).__name__}:{str(e)[:60]}"
 
-        if i % 5 == 0 or i == len(symbols):
-            ok = sum(1 for r in log_rows if r["status"].startswith("ok"))
-            print(f"  [{i:4d}/{len(symbols)}] last={sym:<14s} ok={ok}/{i} "
-                  f"last_status={status[:75]}")
-        time.sleep(DELAY)
+    # Companies are independent (own cache dir, own CSV) — run several at
+    # once. Each worker makes one screener listing request then spends
+    # minutes on AR hosts, so screener load stays polite.
+    log_rows = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
+        futures = {pool.submit(run_one, s): s for s in symbols}
+        for i, fut in enumerate(
+                concurrent.futures.as_completed(futures), 1):
+            sym, status = fut.result()
+            log_rows.append({"nse_symbol": sym, "status": status})
+            if i % 10 == 0 or i == len(symbols):
+                ok = sum(1 for r in log_rows
+                         if r["status"].startswith(("ok", "skip")))
+                print(f"  [{i:4d}/{len(symbols)}] last={sym:<14s} "
+                      f"ok/skip={ok}/{i} last_status={status[:70]}",
+                      flush=True)
 
     # Merge with any existing log
     if log_csv.exists():
