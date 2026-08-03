@@ -400,19 +400,37 @@ def process_company(sym: str, out_dir: Path, keep_cache: bool = False) -> str:
             "first_seen_in_ar": v["first_ar_url"],
         })
 
+    # Preserve history: people already stored on disk but absent from the
+    # current 5-AR window must not be dropped — they exited before the
+    # window opened. Keep their stored row, marked "exited". (The refresh
+    # appends on top of older data; it never forgets a person.)
+    out_path = out_dir / f"{sym.replace('&', '_AND_')}.csv"
+    n_kept = 0
+    if out_path.exists():
+        try:
+            stored = pd.read_csv(out_path).fillna("")
+            new_keys = {(r["role"], norm(r["name"])) for r in rows}
+            for _, s in stored.iterrows():
+                if (s["role"], norm(str(s["name"]))) not in new_keys:
+                    rows.append({**{c: s[c] for c in stored.columns},
+                                 "status": "exited"})
+                    n_kept += 1
+        except Exception:
+            pass  # unreadable stored file: fall through to plain overwrite
+
     # Sort: current first, then by role
     role_order = {"Chairman": 0, "Managing Director": 1, "CEO": 2, "CFO": 3}
     rows.sort(key=lambda r: (r["status"] != "current",
                              role_order.get(r["role"], 99),
                              r["name"]))
 
-    out_path = out_dir / f"{sym.replace('&', '_AND_')}.csv"
     pd.DataFrame(rows).to_csv(out_path, index=False)
 
     if not keep_cache:
         shutil.rmtree(sym_cache, ignore_errors=True)
 
-    return f"ok:ars_listed={len(ars)}:downloaded={n_dl}:people_unique={len(rows)}"
+    return (f"ok:ars_listed={len(ars)}:downloaded={n_dl}"
+            f":people_unique={len(rows)}:kept_from_history={n_kept}")
 
 
 def main() -> None:
