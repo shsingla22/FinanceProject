@@ -17,11 +17,22 @@ Direct taxes,Cash from Operating Activity,-61.0,-107.0,-7.0,-80.0,-26.0,0.0,-7.0
 Other operating items,Cash from Operating Activity,0.0,0.0,0.0,0.0,0.0,41.0,0.0,42.0,0.0,0.0,0.0,-21.0
 Fixed assets purchased,Cash from Investing Activity,-38.0,-50.0,-33.0,-30.0,-34.0,-25.0,-19.0,-40.0,-40.0,-21.0,-25.0,-13.0
 Fixed assets sold,Cash from Investing Activity,3.0,3.0,18.0,4.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0
-Capital WIP,Cash from Investing Activity,9.0,-1.0,-8.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0
+Capital WIP,Cash from Investing Activity,9.0,-1.0,-8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Investments purchased,Cash from Investing Activity,-20269.0,-31155.0,-45932.0,-19851.0,-935.0,-1592.0,-2485.0,-1952.0,-2315.0,-2280.0,-2740.0,-8695.0
 Investments sold,Cash from Investing Activity,19391.0,31706.0,48109.0,20014.0,674.0,986.0,1320.0,1281.0,978.0,732.0,854.0,6049.0
 Interest received,Cash from Investing Activity,245.0,225.0,206.0,127.0,113.0,155.0,182.0,230.0,344.0,486.0,634.0,802.0
-Dividends received,Cash from Investing Activity,6.0,7.0,1.0,-0.0,0.0,0.0,-0.0,-0.0,1.0,4.0,5.0,6.0
-Invest in subsidiaries,Cash from Investing Activity,-0.0,-0.0,-109.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0
-Acquisition of companies,Cash from Investing Activity,-0.0,-325.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-3.0,-0.0,-0.0
+Dividends received,Cash from Investing Activity,6.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,5.0,6.0
+Invest in subsidiaries,Cash from Investing Activity,0.0,0.0,-109.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acquisition of companies,Cash from Investing Activity,0.0,-325.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0
 Other investing items,Cash from Investing Activity,42.0,90.0,-102.0,-721.0,149.0,39.0,-181.0,-209.0,93.0,-265.0,86.0,-326.0
+Proceeds from shares,Cash from Financing Activity,153.0,13.0,5.0,3.0,313.0,190.0,359.0,737.0,122.0,155.0,11.0,3.0
+Proceeds from debentures,Cash from Financing Activity,0.0,907.0,620.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Redemption of debentures,Cash from Financing Activity,-664.0,0.0,-1977.0,-1264.0,-341.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Proceeds from borrowings,Cash from Financing Activity,2910.0,3128.0,0.0,1.0,3.0,1.0,15.0,8.0,0.0,28.0,0.0,262.0
+Repayment of borrowings,Cash from Financing Activity,0.0,0.0,-1438.0,-3861.0,-2854.0,-1312.0,-471.0,-64.0,-2128.0,-268.0,-206.0,0.0
+Interest paid fin,Cash from Financing Activity,-1497.0,-1504.0,-1808.0,-1331.0,-939.0,-569.0,-246.0,-88.0,-54.0,-38.0,-53.0,-22.0
+Dividends paid,Cash from Financing Activity,-147.0,-162.0,-38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Financial liabilities,Cash from Financing Activity,0.0,0.0,0.0,-3.0,-1.0,-28.0,-27.0,-26.0,-19.0,-37.0,-37.0,-31.0
+Share application money,Cash from Financing Activity,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Application money refund,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,67.0
+Other financing items,Cash from Financing Activity,340.0,-529.0,-3062.0,0.0,0.0,-26.0,56.0,-9.0,0.0,0.0,0.0,410.0

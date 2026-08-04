@@ -2,31 +2,31 @@
 Equity Capital,,83.0,208.0,208.0
 Reserves,,8415.0,10484.0,11450.0
 Borrowings,,74.0,73.0,74.0
-Other Liabilities,,1617.0,1707.0,1753.0
-Total Liabilities,,10188.0,12472.0,13485.0
-Fixed Assets,,6436.0,8189.0,8090.0
-CWIP,,1768.0,158.0,206.0
+Other Liabilities,,1617.0,1707.0,1748.0
+Total Liabilities,,10188.0,12472.0,13480.0
+Fixed Assets,,6436.0,8189.0,8089.0
+CWIP,,1768.0,158.0,207.0
 Investments,,204.0,676.0,1956.0
-Other Assets,,1780.0,3449.0,3233.0
-Total Assets,,10188.0,12472.0,13485.0
-Land,Fixed Assets,1343.71,1362.29,
-Building,Fixed Assets,3784.79,4723.61,
-Plant Machinery,Fixed Assets,2414.04,3145.66,
-Equipments,Fixed Assets,1.36,1.46,
-Furniture n fittings,Fixed Assets,806.0,1225.76,
-Vehicles,Fixed Assets,59.15,65.33,
-Intangible Assets,Fixed Assets,16.98,20.75,32.94
-Other fixed assets,Fixed Assets,62.67,59.92,
-Gross Block,Fixed Assets,8488.7,10604.78,
-Accumulated Depreciation,Fixed Assets,2052.52,2415.34,
+Other Assets,,1780.0,3449.0,3229.0
+Total Assets,,10188.0,12472.0,13480.0
+Land,Fixed Assets,1344.0,1362.0,1365.0
+Building,Fixed Assets,3785.0,4724.0,4789.0
+Plant Machinery,Fixed Assets,2414.0,3146.0,3285.0
+Equipments,Fixed Assets,1.0,1.0,1.0
+Furniture n fittings,Fixed Assets,806.0,1226.0,1283.0
+Vehicles,Fixed Assets,59.0,65.0,69.0
+Intangible Assets,Fixed Assets,17.0,21.0,21.0
+Other fixed assets,Fixed Assets,63.0,60.0,66.0
+Gross Block,Fixed Assets,8489.0,10605.0,10879.0
+Accumulated Depreciation,Fixed Assets,2053.0,2415.0,2790.0
 Short term Borrowings,Borrowings,0.0,0.0,1.0
 Lease Liabilities,Borrowings,74.0,73.0,73.0
 Non controlling int,Other Liabilities,33.0,36.0,41.0
 Trade Payables,Other Liabilities,433.0,421.0,426.0
-Advance from Customers,Other Liabilities,85.0,294.0,
-Other liability items,Other Liabilities,1065.0,955.0,1286.0
+Advance from Customers,Other Liabilities,85.0,294.0,248.0
+Other liability items,Other Liabilities,1065.0,955.0,1034.0
 Inventories,Other Assets,1037.0,1241.0,1240.0
 Trade receivables,Other Assets,145.0,202.0,230.0
 Cash Equivalents,Other Assets,197.0,1654.0,765.0
-Loans n Advances,Other Assets,42.0,76.0,532.0
-Other asset items,Other Assets,359.0,276.0,465.0
+Loans n Advances,Other Assets,42.0,76.0,104.0
+Other asset items,Other Assets,359.0,276.0,889.0

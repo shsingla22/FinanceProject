@@ -10,12 +10,14 @@ Profit before tax,,66.0,76.0,200.0,442.0,496.0,245.0
 Tax %,,19.0,34.0,40.0,25.0,23.0,32.0
 Net Profit,,53.0,50.0,121.0,331.0,380.0,166.0
 EPS in Rs,,5.97,5.55,3.12,8.04,9.0,4.0
-Dividend Payout %,,0.0,0.0,16.0,7.0,14.0,0.0
+Dividend Payout %,,0.0,0.0,16.0,7.0,14.0,25.0
 Sales Growth %,Sales,,18.34,75.52,76.17,8.77,-26.43
 Material Cost %,Expenses,74.0,76.0,76.0,78.0,75.0,72.0
 Manufacturing Cost %,Expenses,9.0,9.0,7.0,6.0,6.0,0.0
 Employee Cost %,Expenses,3.0,3.0,2.0,1.0,2.0,3.0
 Other Cost %,Expenses,3.0,3.0,2.0,2.0,3.0,13.0
+Exceptional items,Other Income,0.0,0.17,0.43,0.4,2.78,-17.82
+Other income normal,Other Income,1.83,3.22,4.66,24.15,41.58,45.66
 Minority share,Net Profit,0.0,0.0,0.0,1.0,2.0,5.0
 Exceptional items AT,Net Profit,0.0,0.0,0.0,0.0,2.0,-12.0
 Profit excl Excep,Net Profit,53.0,50.0,120.0,331.0,378.0,178.0

@@ -1,11 +1,11 @@
 ,parent_line_item,Mar 2002,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
-Cash from Operating Activity,,4949.0,5539.0,-13655.0,-1119.0,2840.0,4780.0,
+Cash from Operating Activity,,4949.0,5539.0,-13655.0,-1119.0,2647.0,4780.0,
 Cash from Investing Activity,,-46.0,-49.0,-560.0,-359.0,-579.0,-639.0,
-Cash from Financing Activity,,1813.0,479.0,-1916.0,-528.0,144.0,-138.0,
+Cash from Financing Activity,,1813.0,479.0,-1916.0,-528.0,337.0,-138.0,
 Net Cash Flow,,6716.0,5969.0,-16130.0,-2006.0,2405.0,4003.0,
-Free Cash Flow,,4903.0,5490.0,-14214.0,-1478.0,2261.0,4141.0,
-CFO/OP,,77.0,84.0,-138.0,-4.0,5.0,27.0,
-Profit from operations,Cash from Operating Activity,,6476.0,6444.0,6868.0,6648.0,9360.0,10856.0
+Free Cash Flow,,4903.0,5490.0,-14214.0,-1478.0,2068.0,4141.0,
+CFO/OP,,77.0,84.0,-138.0,-4.0,4.0,26.0,
+Profit from operations,Cash from Operating Activity,,6476.0,6444.0,6868.0,6648.0,9167.0,10856.0
 Loans Advances,Cash from Operating Activity,,-10326.0,-19982.0,-36747.0,-37978.0,-33050.0,-61900.0
 Operating investments,Cash from Operating Activity,,-16010.0,-3261.0,3292.0,-5484.0,-11452.0,-8786.0
 Operating borrowings,Cash from Operating Activity,,219.0,-1266.0,17533.0,9883.0,11840.0,8375.0
@@ -15,3 +15,10 @@ Working capital changes,Cash from Operating Activity,,-1405.0,-157.0,-20187.0,-7
 Direct taxes,Cash from Operating Activity,,-122.0,-748.0,-336.0,-583.0,1958.0,-544.0
 Fixed assets purchased,Cash from Investing Activity,,-65.0,-56.0,-582.0,-365.0,-603.0,-646.0
 Fixed assets sold,Cash from Investing Activity,,19.0,7.0,23.0,6.0,24.0,7.0
+Proceeds from shares,Cash from Financing Activity,,0.0,0.0,0.0,0.0,0.0,1000.0
+Proceeds from debentures,Cash from Financing Activity,,0.0,665.0,1000.0,0.0,0.0,0.0
+Redemption of debentures,Cash from Financing Activity,,-1967.0,0.0,-2916.0,-528.0,-961.0,-1290.0
+Proceeds from borrowings,Cash from Financing Activity,,0.0,0.0,0.0,0.0,1433.0,0.0
+Interest paid fin,Cash from Financing Activity,,-320.0,-186.0,0.0,0.0,-135.0,0.0
+Share application money,Cash from Financing Activity,,4100.0,0.0,0.0,0.0,0.0,0.0
+Other financing items,Cash from Financing Activity,,0.0,0.0,0.0,0.0,0.0,152.0

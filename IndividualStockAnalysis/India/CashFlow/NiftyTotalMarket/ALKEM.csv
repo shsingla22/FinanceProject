@@ -1,8 +1,8 @@
 ,parent_line_item,Mar 2015,Mar 2016,Mar 2017,Mar 2018,Mar 2019,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
 Cash from Operating Activity,,325.0,726.0,471.0,266.0,780.0,585.0,1265.0,1111.0,1682.0,1948.0,1913.0,1963.0
-Cash from Investing Activity,,-235.0,205.0,-294.0,-351.0,-318.0,-737.0,-995.0,-1433.0,120.0,-1011.0,-1288.0,-1667.0
+Cash from Investing Activity,,-235.0,205.0,-294.0,-351.0,-318.0,-737.0,-995.0,-1433.0,120.0,-1011.0,-1288.0,-1682.0
 Cash from Financing Activity,,-52.0,-927.0,-138.0,85.0,-379.0,79.0,-272.0,380.0,-1761.0,-1145.0,-811.0,-503.0
-Net Cash Flow,,39.0,3.0,40.0,0.0,82.0,-73.0,-2.0,58.0,42.0,-207.0,-186.0,-208.0
+Net Cash Flow,,39.0,3.0,40.0,0.0,82.0,-73.0,-2.0,58.0,42.0,-207.0,-186.0,-222.0
 Free Cash Flow,,190.0,472.0,-163.0,-411.0,253.0,237.0,1116.0,783.0,1453.0,1761.0,1278.0,1476.0
 CFO/OP,,101.0,107.0,73.0,47.0,92.0,59.0,86.0,73.0,121.0,105.0,96.0,86.0
 Profit from operations,Cash from Operating Activity,443.0,914.0,998.0,1042.0,1171.0,1516.0,2007.0,2053.0,1629.0,2407.0,2631.0,3007.0
@@ -22,7 +22,7 @@ Interest received,Cash from Investing Activity,89.0,159.0,123.0,89.0,44.0,51.0,7
 Dividends received,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Investment in group cos,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-33.0,-4.0
 Acquisition of companies,Cash from Investing Activity,-207.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Other investing items,Cash from Investing Activity,-84.0,267.0,259.0,151.0,41.0,-486.0,-889.0,-1162.0,420.0,-1224.0,308.0,-1559.0
+Other investing items,Cash from Investing Activity,-84.0,267.0,259.0,151.0,41.0,-486.0,-889.0,-1162.0,420.0,-1224.0,308.0,-1573.0
 Proceeds from shares,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Proceeds from debentures,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,161.0,0.0,0.0,0.0
 Proceeds from borrowings,Cash from Financing Activity,195.0,13.0,35.0,357.0,0.0,784.0,178.0,882.0,0.0,40.0,288.0,314.0

@@ -16,6 +16,8 @@ Material Cost %,Expenses,50.56,50.72,52.48,43.27,50.62,47.39,45.3,44.16,43.87
 Manufacturing Cost %,Expenses,12.85,15.37,12.9,14.67,15.93,22.69,17.44,21.29,0.0
 Employee Cost %,Expenses,11.52,9.36,8.94,10.37,9.83,14.25,10.18,8.85,9.41
 Other Cost %,Expenses,5.34,5.28,4.89,6.04,3.97,4.6,4.07,7.13,30.57
+Exceptional items,Other Income,7.0,7.0,2.0,13.0,-3.0,62.0,0.0,0.0,0.0
+Other income normal,Other Income,183.0,219.0,243.0,191.0,263.0,207.0,310.0,389.0,410.0
 Minority share,Net Profit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Exceptional items AT,Net Profit,4.0,4.0,2.0,9.0,-2.0,45.0,0.0,0.0,0.0
 Profit excl Excep,Net Profit,392.0,474.0,630.0,600.0,566.0,260.0,783.0,827.0,717.0

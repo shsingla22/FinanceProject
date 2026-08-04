@@ -20,10 +20,10 @@ Intangible Assets,Fixed Assets,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,3.0,70.0,87.0
 Other fixed assets,Fixed Assets,10.0,10.0,10.0,2.0,2.0,11.0,12.0,22.0,29.0,18.0,24.0,
 Gross Block,Fixed Assets,63.0,66.0,67.0,71.0,95.0,109.0,111.0,113.0,127.0,155.0,299.0,
 Accumulated Depreciation,Fixed Assets,14.0,18.0,23.0,26.0,32.0,36.0,41.0,46.0,52.0,61.0,91.0,
-Long term Borrowings,Borrowings,4.44,3.68,7.76,-0.0,8.8,1.37,1.2,4.2,-0.0,-0.0,40.2,1.41
-Short term Borrowings,Borrowings,12.48,34.82,29.5,-0.0,26.14,1.08,0.68,9.31,5.89,0.62,13.95,1.97
-Lease Liabilities,Borrowings,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.09,1.24,0.86,5.42,23.55,15.13
-Other Borrowings,Borrowings,0.99,1.25,3.26,11.33,6.86,0.07,-0.01,-0.0,-0.0,-0.01,0.01,
+Long term Borrowings,Borrowings,4.44,3.68,7.76,0.0,8.8,1.37,1.2,4.2,0.0,0.0,40.2,1.41
+Short term Borrowings,Borrowings,12.48,34.82,29.5,0.0,26.14,1.08,0.68,9.31,5.89,0.62,13.95,1.97
+Lease Liabilities,Borrowings,0.0,0.0,0.0,0.0,0.0,0.0,0.09,1.24,0.86,5.42,23.55,15.13
+Other Borrowings,Borrowings,0.99,1.25,3.26,11.33,6.86,0.07,-0.01,0.0,0.0,-0.01,0.01,
 Non controlling int,Other Liabilities,0.0,0.0,0.0,0.0,0.0,7.0,6.0,7.0,14.0,18.0,35.0,60.0
 Trade Payables,Other Liabilities,2.0,3.0,2.0,3.0,8.0,5.0,3.0,4.0,7.0,32.0,25.0,49.0
 Advance from Customers,Other Liabilities,7.0,9.0,6.0,5.0,17.0,1.0,1.0,51.0,99.0,171.0,33.0,

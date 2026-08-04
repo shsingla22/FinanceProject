@@ -379,7 +379,10 @@ def process_company(sym: str, out_dir: Path, keep_cache: bool = False) -> str:
                 if not aggregated[k]["experience"] and p["experience"]:
                     aggregated[k]["experience"] = p["experience"]
 
-    latest_fy = max(per_year.keys())
+    # An AR whose parse found nobody must not define "current" — an
+    # unparseable latest AR is absence of evidence, not evidence of exit.
+    fys_with_people = [fy for fy, people in per_year.items() if people]
+    latest_fy = max(fys_with_people) if fys_with_people else max(per_year.keys())
     rows = []
     for k, v in aggregated.items():
         fys = sorted(fys_seen[k])
@@ -397,19 +400,37 @@ def process_company(sym: str, out_dir: Path, keep_cache: bool = False) -> str:
             "first_seen_in_ar": v["first_ar_url"],
         })
 
+    # Preserve history: people already stored on disk but absent from the
+    # current 5-AR window must not be dropped — they exited before the
+    # window opened. Keep their stored row, marked "exited". (The refresh
+    # appends on top of older data; it never forgets a person.)
+    out_path = out_dir / f"{sym.replace('&', '_AND_')}.csv"
+    n_kept = 0
+    if out_path.exists():
+        try:
+            stored = pd.read_csv(out_path).fillna("")
+            new_keys = {(r["role"], norm(r["name"])) for r in rows}
+            for _, s in stored.iterrows():
+                if (s["role"], norm(str(s["name"]))) not in new_keys:
+                    rows.append({**{c: s[c] for c in stored.columns},
+                                 "status": "exited"})
+                    n_kept += 1
+        except Exception:
+            pass  # unreadable stored file: fall through to plain overwrite
+
     # Sort: current first, then by role
     role_order = {"Chairman": 0, "Managing Director": 1, "CEO": 2, "CFO": 3}
     rows.sort(key=lambda r: (r["status"] != "current",
                              role_order.get(r["role"], 99),
                              r["name"]))
 
-    out_path = out_dir / f"{sym.replace('&', '_AND_')}.csv"
     pd.DataFrame(rows).to_csv(out_path, index=False)
 
     if not keep_cache:
         shutil.rmtree(sym_cache, ignore_errors=True)
 
-    return f"ok:ars_listed={len(ars)}:downloaded={n_dl}:people_unique={len(rows)}"
+    return (f"ok:ars_listed={len(ars)}:downloaded={n_dl}"
+            f":people_unique={len(rows)}:kept_from_history={n_kept}")
 
 
 def main() -> None:
@@ -419,6 +440,11 @@ def main() -> None:
     ap.add_argument("--skip-existing", action="store_true")
     ap.add_argument("--keep-cache", action="store_true",
                     help="Keep downloaded AR PDFs in /tmp (default: purge)")
+    ap.add_argument("--only-new", action="store_true",
+                    help="Re-process ONLY companies whose latest listed "
+                         "annual report is newer than the stored CSV "
+                         "reflects (1 cheap listing request per company; "
+                         "full AR downloads only where something changed)")
     args = ap.parse_args()
 
     out_dir = Path(args.out)
@@ -440,19 +466,59 @@ def main() -> None:
           f"(downloads cached to {CACHE_DIR})")
     print("-" * 70)
 
-    log_rows = []
-    for i, sym in enumerate(symbols, 1):
+    def stored_max_fy(sym: str) -> int:
+        f = out_dir / f"{sym.replace('&', '_AND_')}.csv"
+        if not f.exists():
+            return 0
         try:
-            status = process_company(sym, out_dir, keep_cache=args.keep_cache)
-        except Exception as e:
-            status = f"exception:{type(e).__name__}:{str(e)[:60]}"
-        log_rows.append({"nse_symbol": sym, "status": status})
+            import re as _re
+            fys = _re.findall(r"FY(\d+)", f.read_text())
+            return max(int(x) for x in fys) if fys else 0
+        except Exception:
+            return 0
 
-        if i % 5 == 0 or i == len(symbols):
-            ok = sum(1 for r in log_rows if r["status"].startswith("ok"))
-            print(f"  [{i:4d}/{len(symbols)}] last={sym:<14s} ok={ok}/{i} "
-                  f"last_status={status[:75]}")
-        time.sleep(DELAY)
+    def run_one(sym: str) -> tuple[str, str]:
+        """One company, self-contained: only-new skip check, then the full
+        process under a hard timeout. Identical logic to the sequential
+        path — parallelism changes throughput, never outputs."""
+        try:
+            if args.only_new:
+                ars = list_annual_reports(sym)
+                latest_listed = max((fy for fy, _ in ars), default=0)
+                if latest_listed and latest_listed <= stored_max_fy(sym):
+                    return sym, f"skip:current_through_FY{latest_listed}"
+            # Hard per-company timeout: PyPDF2 can spin forever on a
+            # malformed AR (observed: a 20-hour stall). A hung parse is
+            # logged and skipped, never allowed to block the run.
+            _ex = concurrent.futures.ThreadPoolExecutor(max_workers=1)
+            fut = _ex.submit(process_company, sym, out_dir,
+                             keep_cache=args.keep_cache)
+            try:
+                return sym, fut.result(timeout=600)
+            except concurrent.futures.TimeoutError:
+                return sym, "timeout:600s (hung AR parse — skipped)"
+            finally:
+                # never wait on a hung worker — abandon it and move on
+                _ex.shutdown(wait=False, cancel_futures=True)
+        except Exception as e:
+            return sym, f"exception:{type(e).__name__}:{str(e)[:60]}"
+
+    # Companies are independent (own cache dir, own CSV) — run several at
+    # once. Each worker makes one screener listing request then spends
+    # minutes on AR hosts, so screener load stays polite.
+    log_rows = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
+        futures = {pool.submit(run_one, s): s for s in symbols}
+        for i, fut in enumerate(
+                concurrent.futures.as_completed(futures), 1):
+            sym, status = fut.result()
+            log_rows.append({"nse_symbol": sym, "status": status})
+            if i % 10 == 0 or i == len(symbols):
+                ok = sum(1 for r in log_rows
+                         if r["status"].startswith(("ok", "skip")))
+                print(f"  [{i:4d}/{len(symbols)}] last={sym:<14s} "
+                      f"ok/skip={ok}/{i} last_status={status[:70]}",
+                      flush=True)
 
     # Merge with any existing log
     if log_csv.exists():

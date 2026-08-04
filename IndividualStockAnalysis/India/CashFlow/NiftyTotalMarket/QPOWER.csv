@@ -12,6 +12,13 @@ Payables,Cash from Operating Activity,-3.0,25.0,12.0,-9.0,73.0
 Other WC items,Cash from Operating Activity,22.0,10.0,-9.0,2.0,-42.0
 Working capital changes,Cash from Operating Activity,-11.0,18.0,13.0,-13.0,-89.0
 Direct taxes,Cash from Operating Activity,-9.0,-11.0,-9.0,-10.0,-33.0
+Fixed assets purchased,Cash from Investing Activity,-4.0,-17.0,-48.0,-26.0,-129.0
+Fixed assets sold,Cash from Investing Activity,0.0,0.0,5.0,2.0,18.0
+Investments purchased,Cash from Investing Activity,0.0,-31.0,-17.0,-104.0,-15.0
+Investments sold,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0
+Interest received,Cash from Investing Activity,0.0,0.0,0.0,0.0,31.0
+Dividends received,Cash from Investing Activity,25.0,16.0,21.0,36.0,0.0
+Other investing items,Cash from Investing Activity,-34.0,-24.0,-42.0,-7.0,0.0
 Proceeds from shares,Cash from Financing Activity,0.0,0.0,0.0,204.51,0.0
 Proceeds from borrowings,Cash from Financing Activity,7.17,20.13,27.68,0.0,26.75
 Repayment of borrowings,Cash from Financing Activity,-4.08,-21.04,0.0,-31.08,0.0

@@ -21,9 +21,9 @@ Other fixed assets,Fixed Assets,2.34,3.38,3.97,4.35,4.85,7.41,
 Gross Block,Fixed Assets,202.79,227.31,270.95,380.49,451.63,581.24,
 Accumulated Depreciation,Fixed Assets,47.69,60.25,74.56,89.49,111.09,142.58,
 Long term Borrowings,Borrowings,0.0,7.0,26.0,78.0,97.0,81.0,148.0
-Short term Borrowings,Borrowings,0.0,10.0,70.0,66.0,94.0,96.0,222.0
+Short term Borrowings,Borrowings,29.0,5.0,70.0,66.0,94.0,96.0,222.0
 Lease Liabilities,Borrowings,0.0,0.0,0.0,0.0,0.0,0.0,7.0
-Other Borrowings,Borrowings,29.0,0.0,-0.0,0.0,0.0,0.0,
+Other Borrowings,Borrowings,0.0,5.0,-0.0,0.0,0.0,0.0,
 Trade Payables,Other Liabilities,31.0,35.0,57.0,218.0,62.0,106.0,150.0
 Advance from Customers,Other Liabilities,44.0,37.0,31.0,45.0,30.0,43.0,
 Other liability items,Other Liabilities,18.0,21.0,24.0,37.0,47.0,75.0,394.0

@@ -9,27 +9,27 @@ CWIP,,102.0,190.0,342.0,696.0,1171.0,1619.0,1502.0,1872.0,2001.0
 Investments,,180.0,176.0,282.0,417.0,634.0,682.0,706.0,811.0,1690.0
 Other Assets,,1624.0,701.0,655.0,711.0,878.0,1010.0,1209.0,1331.0,1544.0
 Total Assets,,2803.0,2048.0,2476.0,3204.0,4415.0,5645.0,6592.0,7665.0,9549.0
-Land,Fixed Assets,60.0,60.0,109.0,139.0,145.0,174.0,186.0,192.0,
-Building,Fixed Assets,54.0,56.0,67.0,94.0,108.0,192.0,247.0,273.0,
-Plant Machinery,Fixed Assets,898.0,1040.0,1239.0,1418.0,1828.0,2419.0,3218.0,3839.0,
-Equipments,Fixed Assets,4.0,5.0,5.0,6.0,7.0,11.0,23.0,25.0,
-Computers,Fixed Assets,6.0,7.0,12.0,15.0,18.0,21.0,34.0,44.0,
-Furniture n fittings,Fixed Assets,9.0,9.0,9.0,9.0,9.0,12.0,13.0,12.0,
-Vehicles,Fixed Assets,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,
-Intangible Assets,Fixed Assets,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,53.0
-Other fixed assets,Fixed Assets,8.0,10.0,16.0,22.0,23.0,25.0,128.0,142.0,
-Gross Block,Fixed Assets,1065.0,1214.0,1483.0,1728.0,2163.0,2878.0,3875.0,4553.0,
-Accumulated Depreciation,Fixed Assets,168.0,234.0,285.0,348.0,430.0,544.0,701.0,902.0,
+Land,Fixed Assets,60.0,60.0,109.0,139.0,145.0,174.0,186.0,192.0,194.0
+Building,Fixed Assets,54.0,56.0,67.0,94.0,108.0,192.0,247.0,273.0,315.0
+Plant Machinery,Fixed Assets,898.0,1040.0,1239.0,1418.0,1828.0,2419.0,3218.0,3839.0,4664.0
+Equipments,Fixed Assets,4.0,5.0,5.0,6.0,7.0,11.0,23.0,25.0,26.0
+Computers,Fixed Assets,6.0,7.0,12.0,15.0,18.0,21.0,34.0,44.0,45.0
+Furniture n fittings,Fixed Assets,9.0,9.0,9.0,9.0,9.0,12.0,13.0,12.0,12.0
+Vehicles,Fixed Assets,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Intangible Assets,Fixed Assets,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+Other fixed assets,Fixed Assets,8.0,10.0,16.0,22.0,23.0,25.0,128.0,142.0,166.0
+Gross Block,Fixed Assets,1065.0,1214.0,1483.0,1728.0,2163.0,2878.0,3875.0,4553.0,5449.0
+Accumulated Depreciation,Fixed Assets,168.0,234.0,285.0,348.0,430.0,544.0,701.0,902.0,1134.0
 Long term Borrowings,Borrowings,1234.0,346.0,298.0,308.0,352.0,268.0,883.0,1540.0,1597.0
 Short term Borrowings,Borrowings,0.0,0.0,57.0,180.0,643.0,1104.0,589.0,206.0,571.0
 Lease Liabilities,Borrowings,0.0,0.0,25.0,41.0,40.0,50.0,86.0,88.0,87.0
 Preference Capital,Borrowings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Other Borrowings,Borrowings,110.0,48.0,48.0,-0.0,0.0,0.0,0.0,0.0,
+Other Borrowings,Borrowings,110.0,48.0,48.0,-0.0,0.0,0.0,0.0,0.0,0.0
 Trade Payables,Other Liabilities,137.0,104.0,83.0,116.0,166.0,307.0,330.0,314.0,374.0
-Advance from Customers,Other Liabilities,2.0,1.0,1.0,0.0,7.0,12.0,14.0,21.0,
-Other liability items,Other Liabilities,303.0,447.0,494.0,625.0,792.0,964.0,1110.0,1289.0,2054.0
+Advance from Customers,Other Liabilities,2.0,1.0,1.0,0.0,7.0,12.0,14.0,21.0,39.0
+Other liability items,Other Liabilities,303.0,447.0,494.0,625.0,792.0,964.0,1110.0,1289.0,2016.0
 Inventories,Other Assets,42.0,44.0,41.0,52.0,77.0,91.0,99.0,116.0,111.0
 Trade receivables,Other Assets,141.0,83.0,61.0,104.0,187.0,316.0,410.0,424.0,419.0
 Cash Equivalents,Other Assets,24.0,160.0,89.0,11.0,34.0,372.0,456.0,469.0,505.0
-Loans n Advances,Other Assets,359.0,360.0,332.0,23.0,24.0,66.0,34.0,56.0,177.0
-Other asset items,Other Assets,1057.0,55.0,131.0,521.0,556.0,165.0,210.0,266.0,333.0
+Loans n Advances,Other Assets,359.0,360.0,332.0,23.0,24.0,66.0,34.0,56.0,51.0
+Other asset items,Other Assets,1057.0,55.0,131.0,521.0,556.0,165.0,210.0,266.0,458.0

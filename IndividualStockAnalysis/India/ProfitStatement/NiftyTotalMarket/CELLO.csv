@@ -9,18 +9,19 @@ Depreciation,,49.0,48.0,50.0,57.0,62.0,78.0
 Profit before tax,,236.0,299.0,385.0,475.0,491.0,440.0
 Tax %,,30.0,27.0,26.0,25.0,26.0,25.0
 Net Profit,,166.0,220.0,285.0,356.0,365.0,332.0
-EPS in Rs,,151200.0,204000.0,13.65,15.6,15.34,15.01
-Dividend Payout %,,0.0,0.0,0.0,10.0,10.0,0.0
+EPS in Rs,,151200.0,204000.0,13.65,15.6,16.5,15.01
+Dividend Payout %,,0.0,0.0,62.0,10.0,9.0,10.0
 Sales Growth %,Sales,,29.51,32.19,11.33,6.81,8.77
-Material Cost %,Expenses,45.0,43.0,44.0,42.0,48.0,50.0
-Manufacturing Cost %,Expenses,11.0,14.0,12.0,11.0,0.0,0.0
-Employee Cost %,Expenses,9.0,10.0,9.0,9.0,10.0,10.0
-Other Cost %,Expenses,8.0,9.0,12.0,12.0,18.0,19.0
-Exceptional items,Other Income,0.0,0.0,0.0,4.0,0.0,-7.0
-Other income normal,Other Income,10.0,16.0,17.0,21.0,45.0,55.0
-Minority share,Net Profit,-14.0,-16.0,-19.0,-25.0,-26.0,0.0
-Exceptional items AT,Net Profit,0.0,0.0,0.0,3.0,0.0,-6.0
-Profit excl Excep,Net Profit,165.0,219.0,285.0,353.0,365.0,337.0
-Profit for PE,Net Profit,151.0,204.0,266.0,328.0,339.0,337.0
-Profit for EPS,Net Profit,151.0,204.0,266.0,331.0,339.0,332.0
-Profit Growth %,Net Profit,,35.0,30.0,23.0,3.0,-0.0
+Material Cost %,Expenses,45.22,43.32,44.22,42.43,42.58,43.89
+Manufacturing Cost %,Expenses,10.71,13.73,11.93,10.7,11.65,12.85
+Employee Cost %,Expenses,9.23,9.71,8.77,9.49,9.89,10.42
+Other Cost %,Expenses,8.47,8.71,11.67,11.93,12.0,12.56
+Exceptional items,Other Income,0.0,0.0,0.0,4.0,1.0,-7.0
+Other income normal,Other Income,10.0,16.0,17.0,21.0,43.0,55.0
+Profit from Associates,Net Profit,0.0,0.0,-0.0,0.0,0.0,0.0
+Minority share,Net Profit,-14.0,-16.0,-19.0,-25.0,0.0,0.0
+Exceptional items AT,Net Profit,0.0,0.0,0.0,3.0,2.0,-6.0
+Profit excl Excep,Net Profit,165.0,219.0,285.0,353.0,363.0,337.0
+Profit for PE,Net Profit,151.0,204.0,266.0,328.0,363.0,337.0
+Profit for EPS,Net Profit,151.0,204.0,266.0,331.0,365.0,332.0
+Profit Growth %,Net Profit,,35.0,30.0,23.0,11.0,-7.0

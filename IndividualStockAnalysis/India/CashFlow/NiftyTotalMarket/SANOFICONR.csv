@@ -1,12 +1,21 @@
 ,parent_line_item,Dec 2023,Dec 2024,Mar 2025,Dec 2025
-Cash from Operating Activity,,-0.0,439.0,,
-Cash from Investing Activity,,0.0,2.0,,
-Cash from Financing Activity,,2.0,-116.0,,
-Net Cash Flow,,2.0,325.0,,
-Free Cash Flow,,-4.0,429.0,,
-CFO/OP,,2.0,208.0,,
-Fixed assets purchased,Cash from Investing Activity,-4.0,-9.9,,
-Interest received,Cash from Investing Activity,4.0,11.8,,
-Proceeds from shares,Cash from Financing Activity,2.0,0.0,,
-Interest paid fin,Cash from Financing Activity,0.0,-0.0,,
-Dividends paid,Cash from Financing Activity,0.0,-115.0,,
+Cash from Operating Activity,,-0.0,439.0,175.0,
+Cash from Investing Activity,,0.0,2.0,8.0,
+Cash from Financing Activity,,2.0,-116.0,-134.0,
+Net Cash Flow,,2.0,325.0,48.0,
+Free Cash Flow,,-4.0,429.0,167.0,
+CFO/OP,,2.0,208.0,85.0,
+Profit from operations,Cash from Operating Activity,217.0,247.0,,316.0
+Receivables,Cash from Operating Activity,-0.0,18.0,,-14.0
+Inventory,Cash from Operating Activity,-4.0,56.0,,-21.0
+Payables,Cash from Operating Activity,12.0,10.0,,9.0
+Loans Advances,Cash from Operating Activity,0.0,-0.0,,0.0
+Other WC items,Cash from Operating Activity,-220.0,232.0,,-29.0
+Working capital changes,Cash from Operating Activity,-213.0,316.0,,-54.0
+Direct taxes,Cash from Operating Activity,-4.0,-124.0,,-87.0
+Fixed assets purchased,Cash from Investing Activity,-4.0,-9.9,,-7.6
+Interest received,Cash from Investing Activity,4.0,11.8,,15.2
+Proceeds from shares,Cash from Financing Activity,2.0,0.0,,0.0
+Interest paid fin,Cash from Financing Activity,0.0,-0.0,,-2.0
+Dividends paid,Cash from Financing Activity,0.0,-115.0,,-127.0
+Financial liabilities,Cash from Financing Activity,0.0,0.0,,-6.0

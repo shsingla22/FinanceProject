@@ -8,15 +8,18 @@ CFO/OP,,106.0,93.0,104.0,110.0,101.0,98.0
 Profit from operations,Cash from Operating Activity,11684.0,16280.0,17745.0,13696.0,17480.0,22178.0
 Receivables,Cash from Operating Activity,-26.0,-310.0,336.0,225.0,38.0,-282.0
 Inventory,Cash from Operating Activity,411.0,-528.0,91.0,-64.0,37.0,-165.0
-Payables,Cash from Operating Activity,58.0,773.0,77.0,109.0,269.0,869.0
-Other WC items,Cash from Operating Activity,195.0,-1133.0,53.0,1137.0,-279.0,-1040.0
+Payables,Cash from Operating Activity,58.0,773.0,77.0,109.0,99.0,869.0
+Other WC items,Cash from Operating Activity,195.0,-1133.0,53.0,1137.0,-109.0,-1040.0
 Working capital changes,Cash from Operating Activity,638.0,-1198.0,557.0,1407.0,65.0,-618.0
 Direct taxes,Cash from Operating Activity,-1755.0,-2391.0,-3140.0,-1757.0,-3385.0,-4552.0
-Fixed assets purchased,Cash from Investing Activity,-2427.0,-2968.0,-3575.0,-3815.0,-3999.0,-5275.0
-Fixed assets sold,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,13.0
+Fixed assets purchased,Cash from Investing Activity,-2427.0,-2968.0,-3575.0,-3815.0,-3999.0,-5262.0
 Investments purchased,Cash from Investing Activity,-41385.0,-46753.0,-43292.0,-23548.0,-24132.0,-22941.0
 Investments sold,Cash from Investing Activity,48578.0,44904.0,47958.0,23507.0,24724.0,18525.0
 Interest received,Cash from Investing Activity,1507.0,936.0,1438.0,538.0,663.0,718.0
 Dividends received,Cash from Investing Activity,0.0,0.0,0.0,4.0,0.0,0.0
-Inter corporate deposits,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,431.0
-Other investing items,Cash from Investing Activity,-8708.0,4727.0,4000.0,-92.0,38.0,-377.0
+Other investing items,Cash from Investing Activity,-8708.0,4727.0,4000.0,-92.0,38.0,54.0
+Proceeds from borrowings,Cash from Financing Activity,18489.0,9.0,14958.0,12070.0,14512.0,3165.0
+Repayment of borrowings,Cash from Financing Activity,-11965.0,-4324.0,-5980.0,-15419.0,-12327.0,-5657.0
+Interest paid fin,Cash from Financing Activity,-244.0,-332.0,-287.0,-1044.0,-1237.0,-1023.0
+Dividends paid,Cash from Financing Activity,-15972.0,-7606.0,-31901.0,-5493.0,-12253.0,-4225.0
+Financial liabilities,Cash from Financing Activity,-5.0,-5.0,-14.0,-60.0,-106.0,-161.0

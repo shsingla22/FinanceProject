@@ -20,8 +20,8 @@ Intangible Assets,Fixed Assets,63.69,51.02,51.02,51.02,51.02,51.02,35.13
 Other fixed assets,Fixed Assets,9.41,17.5,17.8,17.97,17.98,18.95,
 Gross Block,Fixed Assets,198.94,301.69,315.52,330.63,313.26,403.21,
 Accumulated Depreciation,Fixed Assets,14.92,60.16,82.02,122.3,71.07,81.69,
-Long term Borrowings,Borrowings,155.0,47.0,76.0,94.0,92.0,8.0,10.0
-Short term Borrowings,Borrowings,287.0,251.0,218.0,189.0,305.0,815.0,1569.0
+Long term Borrowings,Borrowings,155.0,47.0,76.0,105.0,92.0,8.0,10.0
+Short term Borrowings,Borrowings,287.0,251.0,218.0,178.0,305.0,815.0,1569.0
 Lease Liabilities,Borrowings,0.0,41.0,41.0,41.0,59.0,107.0,158.0
 Preference Capital,Borrowings,63.0,63.0,63.0,63.0,0.0,0.0,0.0
 Other Borrowings,Borrowings,-63.0,0.0,-0.0,0.0,-0.0,-0.0,
@@ -31,6 +31,6 @@ Advance from Customers,Other Liabilities,399.0,364.0,293.0,217.0,286.0,329.0,
 Other liability items,Other Liabilities,87.0,23.0,30.0,24.0,41.0,75.0,689.0
 Inventories,Other Assets,755.0,638.0,704.0,597.0,959.0,2021.0,3655.0
 Trade receivables,Other Assets,59.0,34.0,29.0,40.0,38.0,50.0,63.0
-Cash Equivalents,Other Assets,35.0,22.0,45.0,49.0,80.0,529.0,504.0
+Cash Equivalents,Other Assets,35.0,22.0,45.0,53.0,80.0,529.0,504.0
 Loans n Advances,Other Assets,14.0,9.0,9.0,8.0,114.0,20.0,173.0
-Other asset items,Other Assets,87.0,65.0,86.0,156.0,28.0,191.0,150.0
+Other asset items,Other Assets,87.0,65.0,86.0,153.0,28.0,191.0,150.0

@@ -17,7 +17,13 @@ Fixed assets purchased,Cash from Investing Activity,0.0,-2569.0,-912.0,-230.0,-1
 Fixed assets sold,Cash from Investing Activity,0.0,1373.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
 Investments purchased,Cash from Investing Activity,-4208.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Investments sold,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,352.0,3.0,0.0,0.0,0.0,0.0
-Investment income,Cash from Investing Activity,0.0,0.0,0.0,0.0,88.0,28.0,21.0,0.0,0.0,0.0,0.0,0.0
-Interest received,Cash from Investing Activity,5.0,5.0,5.0,9.0,0.0,0.0,0.0,88.0,14.0,15.0,176.0,236.0
+Investment income,Cash from Investing Activity,0.0,0.0,0.0,0.0,88.0,28.0,21.0,88.0,0.0,0.0,0.0,0.0
+Interest received,Cash from Investing Activity,5.0,5.0,5.0,9.0,0.0,0.0,0.0,0.0,14.0,15.0,176.0,236.0
 Invest in subsidiaries,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Other investing items,Cash from Investing Activity,-683.0,7607.0,105.0,-9.0,-125.0,-107.0,-41.0,-101.0,215.0,-807.0,106.0,-909.0
+Proceeds from borrowings,Cash from Financing Activity,4399.0,0.0,1508.0,0.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0
+Repayment of borrowings,Cash from Financing Activity,0.0,910.0,0.0,0.0,-278.0,-223.0,-558.0,-157.0,-326.0,-512.0,-476.0,-385.0
+Interest paid fin,Cash from Financing Activity,-1430.0,-2176.0,-2156.0,-901.0,-720.0,-628.0,-573.0,-550.0,-549.0,-447.0,-411.0,-372.0
+Dividends paid,Cash from Financing Activity,-10.0,-8.0,-24.0,-12.0,-22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Financial liabilities,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-3.0,-3.0
+Other financing items,Cash from Financing Activity,-901.0,-8220.0,0.0,-630.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0

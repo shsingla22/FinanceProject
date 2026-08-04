@@ -17,7 +17,7 @@ Computers,Fixed Assets,1.0,2.0,2.0,3.0,3.0,4.0
 Furniture n fittings,Fixed Assets,4.0,7.0,7.0,12.0,17.0,22.0
 Vehicles,Fixed Assets,2.0,2.0,4.0,4.0,4.0,4.0
 Intangible Assets,Fixed Assets,199.0,199.0,0.0,0.0,0.0,0.0
-Other fixed assets,Fixed Assets,-0.0,1.0,2.0,2.0,2.0,2.0
+Other fixed assets,Fixed Assets,0.0,1.0,2.0,2.0,2.0,2.0
 Gross Block,Fixed Assets,291.0,321.0,124.0,212.0,332.0,444.0
 Accumulated Depreciation,Fixed Assets,3.0,39.0,23.0,43.0,75.0,121.0
 Long term Borrowings,Borrowings,23.0,9.0,23.0,64.0,66.0,45.0

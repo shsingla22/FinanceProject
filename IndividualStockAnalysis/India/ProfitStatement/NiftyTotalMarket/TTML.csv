@@ -16,6 +16,8 @@ Material Cost %,Expenses,0.0,1.0,1.0
 Manufacturing Cost %,Expenses,42.0,43.0,46.0
 Employee Cost %,Expenses,6.0,7.0,7.0
 Other Cost %,Expenses,27.0,33.0,74.0
+Exceptional items,Other Income,-0.0,35.0,901.0
+Other income normal,Other Income,108.0,211.0,933.0
 Exceptional items AT,Net Profit,-0.0,35.0,901.0
 Profit excl Excep,Net Profit,-170.0,-353.0,-821.0
 Profit for PE,Net Profit,-170.0,-353.0,-821.0

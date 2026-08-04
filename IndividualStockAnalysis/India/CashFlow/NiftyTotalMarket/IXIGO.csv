@@ -1,20 +1,28 @@
 ,parent_line_item,Mar 2019,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
 Cash from Operating Activity,,-42.0,34.0,-15.0,-34.0,31.0,43.0,122.0,196.0
-Cash from Investing Activity,,48.0,-5.0,-10.0,-222.0,22.0,-45.0,-203.0,-1211.0
+Cash from Investing Activity,,48.0,-5.0,-10.0,-222.0,22.0,-45.0,-202.0,-1211.0
 Cash from Financing Activity,,-1.0,-2.0,14.0,258.0,-2.0,-46.0,104.0,1287.0
-Net Cash Flow,,5.0,27.0,-12.0,2.0,51.0,-48.0,23.0,271.0
+Net Cash Flow,,5.0,27.0,-12.0,2.0,51.0,-48.0,24.0,271.0
 Free Cash Flow,,-43.0,33.0,-15.0,-36.0,25.0,36.0,118.0,175.0
 CFO/OP,,77.0,-148.0,-442.0,227.0,127.0,112.0,179.0,327.0
-Profit from operations,Cash from Operating Activity,-38.0,-3.0,9.0,7.0,45.0,55.0,97.0,123.0
+Profit from operations,Cash from Operating Activity,-38.0,-3.0,9.0,10.0,45.0,55.0,97.0,123.0
 Receivables,Cash from Operating Activity,-8.0,17.0,-21.0,19.0,-3.0,-15.0,-11.0,-7.0
 Payables,Cash from Operating Activity,11.0,2.0,-9.0,-5.0,1.0,23.0,46.0,60.0
 Loans Advances,Cash from Operating Activity,0.0,0.0,0.0,0.0,-3.0,3.0,-0.0,0.0
 Operating Deposits,Cash from Operating Activity,-0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Other WC items,Cash from Operating Activity,-7.0,20.0,6.0,-49.0,-3.0,-23.0,-4.0,26.0
-Working capital changes,Cash from Operating Activity,-3.0,39.0,-23.0,-35.0,-8.0,-13.0,31.0,79.0
-Interest paid,Cash from Operating Activity,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
+Other WC items,Cash from Operating Activity,-7.0,20.0,6.0,-50.0,-3.0,-23.0,-4.0,26.0
+Working capital changes,Cash from Operating Activity,-3.0,39.0,-23.0,-36.0,-8.0,-13.0,31.0,79.0
+Interest paid,Cash from Operating Activity,0.0,0.0,-1.0,-2.0,0.0,0.0,0.0,0.0
 Direct taxes,Cash from Operating Activity,-1.0,-2.0,-1.0,-6.0,-6.0,1.0,-6.0,-6.0
-Proceeds from shares,Cash from Financing Activity,0.0,0.0,0.0,276.0,0.0,0.0,112.0,1297.0
+Fixed assets purchased,Cash from Investing Activity,-0.0,-1.0,-0.0,-2.0,-5.0,-7.0,-4.0,-21.0
+Fixed assets sold,Cash from Investing Activity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Investments purchased,Cash from Investing Activity,0.0,-5.0,0.0,-225.0,-539.0,-784.0,-243.0,-984.0
+Investments sold,Cash from Investing Activity,48.0,0.0,10.0,84.0,535.0,785.0,216.0,566.0
+Interest received,Cash from Investing Activity,0.0,0.0,0.0,2.0,2.0,2.0,4.0,30.0
+Acquisition of companies,Cash from Investing Activity,0.0,0.0,-11.0,-6.0,0.0,-33.0,-10.0,-3.0
+Other investing items,Cash from Investing Activity,0.0,0.0,-9.0,-75.0,29.0,-7.0,-165.0,-800.0
+Proceeds from shares,Cash from Financing Activity,0.0,0.0,0.0,2.0,0.0,0.0,112.0,1297.0
+Proceeds from debentures,Cash from Financing Activity,0.0,0.0,0.0,273.0,0.0,0.0,0.0,0.0
 Proceeds from borrowings,Cash from Financing Activity,0.0,0.0,15.0,5.0,0.0,0.0,0.0,0.0
 Repayment of borrowings,Cash from Financing Activity,0.0,0.0,-0.0,-20.0,0.0,0.0,0.0,0.0
 Interest paid fin,Cash from Financing Activity,-0.0,-0.0,-0.0,-2.0,-0.0,-1.0,-1.0,-1.0

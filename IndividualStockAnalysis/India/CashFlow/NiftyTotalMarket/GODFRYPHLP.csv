@@ -22,3 +22,9 @@ Interest received,Cash from Investing Activity,0.0,0.0,2.0,2.0,3.0,4.0,4.0,6.0,7
 Dividends received,Cash from Investing Activity,0.0,0.0,0.0,3.0,2.0,7.0,0.0,0.0,0.0,176.0,193.0,258.0
 Redemp n Canc of Shares,Cash from Investing Activity,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Other investing items,Cash from Investing Activity,1.0,-5.0,-4.0,-0.0,7.0,-2.0,-2.0,2.0,-1.0,11.0,-6.0,-8.0
+Proceeds from borrowings,Cash from Financing Activity,0.0,53.0,0.0,0.0,14.0,0.0,64.0,0.0,5.0,4.0,27.0,0.0
+Repayment of borrowings,Cash from Financing Activity,-87.0,-74.0,-68.0,-47.0,0.0,-30.0,0.0,-45.0,0.0,0.0,0.0,0.0
+Interest paid fin,Cash from Financing Activity,-15.0,-6.0,-3.0,-1.0,-4.0,-30.0,-29.0,-38.0,-26.0,-28.0,-16.0,-11.0
+Dividends paid,Cash from Financing Activity,-42.0,-42.0,-42.0,-41.0,-41.0,-172.0,-3.0,-124.0,-145.0,-228.0,-469.0,-575.0
+Financial liabilities,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,-30.0,-25.0,-31.0,-40.0,-40.0,-33.0,-32.0
+Other financing items,Cash from Financing Activity,113.0,-129.0,-12.0,-10.0,-12.0,-41.0,-23.0,0.0,0.0,-66.0,0.0,0.0

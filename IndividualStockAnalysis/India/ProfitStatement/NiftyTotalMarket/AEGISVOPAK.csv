@@ -1,21 +1,25 @@
-,parent_line_item,Mar 2016,Mar 2018,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
-Sales,,0.0,0.0,0.0,0.0,290.0,418.0,518.0,642.0
-Expenses,,0.0,0.0,0.0,1.0,80.0,111.0,117.0,149.0
-Operating Profit,,0.0,0.0,0.0,-1.0,210.0,307.0,401.0,493.0
-OPM %,,72.0,73.0,77.0,77.0,,,,
-Other Income,,0.0,0.0,0.0,0.0,14.0,22.0,31.0,139.0
-Interest,,0.0,0.0,0.0,1.0,138.0,167.0,185.0,106.0
-Depreciation,,0.0,0.0,0.0,0.0,80.0,101.0,110.0,169.0
-Profit before tax,,0.0,0.0,0.0,-1.0,7.0,61.0,138.0,357.0
-Tax %,,0.0,24.0,23.0,21.0,24.0,,,
-Net Profit,,0.0,0.0,0.0,-1.0,5.0,47.0,108.0,273.0
-EPS in Rs,,0.0,0.0,0.0,-21.37,50.1,469.0,1.1,2.46
-Dividend Payout %,,0.0,0.0,70.0,0.0,8.0,,,
-Sales Growth %,Sales,,,,,,44.28,23.94,23.96
-Exceptional items,Other Income,0.0,0.0,0.0,0.0,0.0,0.0,-0.0,0.0
-Other income normal,Other Income,0.0,0.0,0.0,0.0,14.0,22.0,31.0,139.0
-Exceptional items AT,Net Profit,0.0,0.0,0.0,0.0,0.0,0.0,-0.0,0.0
-Profit excl Excep,Net Profit,0.0,0.0,0.0,-1.0,5.0,47.0,108.0,273.0
-Profit for PE,Net Profit,0.0,0.0,0.0,-1.0,5.0,47.0,108.0,273.0
-Profit for EPS,Net Profit,0.0,0.0,0.0,-1.0,5.0,47.0,108.0,273.0
-Profit Growth %,Net Profit,,,,,560.0,836.0,131.0,152.0
+,parent_line_item,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
+Sales,,0.0,353.0,562.0,789.0,923.0
+Expenses,,1.0,124.0,164.0,214.0,237.0
+Operating Profit,,-1.0,229.0,398.0,575.0,687.0
+OPM %,,65.0,71.0,73.0,74.0,
+Other Income,,0.0,3.0,8.0,32.0,37.0
+Interest,,1.0,138.0,171.0,193.0,110.0
+Depreciation,,0.0,91.0,114.0,148.0,208.0
+Profit before tax,,-1.0,3.0,121.0,265.0,406.0
+Tax %,,0.0,103.0,28.0,15.0,16.0
+Net Profit,,-1.0,-0.0,87.0,225.0,342.0
+EPS in Rs,,-21.37,-0.8,865.4,2.03,2.8
+Dividend Payout %,,0.0,0.0,38.0,0.0,71.0
+Sales Growth %,Sales,,,58.99,40.49,16.96
+Manufacturing Cost %,Expenses,,10.69,10.33,11.27,11.3
+Employee Cost %,Expenses,,8.67,7.83,5.59,5.68
+Other Cost %,Expenses,,15.74,11.07,10.29,8.65
+Exceptional items,Other Income,0.0,0.0,0.02,-0.05,-0.06
+Other income normal,Other Income,0.0,2.66,8.34,31.63,37.47
+Minority share,Net Profit,0.0,0.0,0.0,-24.0,-31.0
+Exceptional items AT,Net Profit,0.0,0.0,0.0,-0.0,-0.0
+Profit excl Excep,Net Profit,-1.0,-0.0,87.0,225.0,342.0
+Profit for PE,Net Profit,-1.0,-0.0,87.0,200.0,311.0
+Profit for EPS,Net Profit,-1.0,-0.0,87.0,200.0,310.0
+Profit Growth %,Net Profit,,93.0,108250.0,132.0,55.0

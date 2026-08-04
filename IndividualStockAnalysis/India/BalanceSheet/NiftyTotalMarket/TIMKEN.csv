@@ -2,21 +2,31 @@
 Equity Capital,,75.0,75.0
 Reserves,,2823.0,2839.0
 Borrowings,,18.0,15.0
-Other Liabilities,,572.0,771.0
-Total Liabilities,,3488.0,3700.0
+Other Liabilities,,571.0,770.0
+Total Liabilities,,3487.0,3699.0
 Fixed Assets,,810.0,1446.0
 CWIP,,592.0,101.0
 Investments,,117.0,51.0
-Other Assets,,1969.0,2102.0
-Total Assets,,3488.0,3700.0
-Intangible Assets,Fixed Assets,222.0,217.0
-Long term Borrowings,Borrowings,14.48,0.0
-Short term Borrowings,Borrowings,3.16,0.0
-Lease Liabilities,Borrowings,0.0,14.56
+Other Assets,,1968.0,2101.0
+Total Assets,,3487.0,3699.0
+Land,Fixed Assets,109.0,109.0
+Building,Fixed Assets,213.0,377.0
+Plant Machinery,Fixed Assets,822.0,1388.0
+Equipments,Fixed Assets,7.0,7.0
+Computers,Fixed Assets,12.0,17.0
+Furniture n fittings,Fixed Assets,5.0,8.0
+Vehicles,Fixed Assets,4.0,4.0
+Intangible Assets,Fixed Assets,241.0,241.0
+Other fixed assets,Fixed Assets,27.0,27.0
+Gross Block,Fixed Assets,1439.0,2178.0
+Accumulated Depreciation,Fixed Assets,629.0,731.0
+Lease Liabilities,Borrowings,17.64,14.56
+Other Borrowings,Borrowings,-0.01,0.0
 Trade Payables,Other Liabilities,404.0,610.0
-Other liability items,Other Liabilities,169.0,161.0
+Advance from Customers,Other Liabilities,2.0,10.0
+Other liability items,Other Liabilities,166.0,149.0
 Inventories,Other Assets,653.0,788.0
 Trade receivables,Other Assets,709.0,811.0
 Cash Equivalents,Other Assets,439.0,275.0
-Loans n Advances,Other Assets,23.0,27.0
-Other asset items,Other Assets,146.0,200.0
+Loans n Advances,Other Assets,26.0,17.0
+Other asset items,Other Assets,142.0,209.0

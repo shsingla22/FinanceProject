@@ -15,6 +15,8 @@ Sales Growth %,Sales,,32.79,23.31,34.47
 Manufacturing Cost %,Expenses,0.0,8.0,7.0,0.0
 Employee Cost %,Expenses,13.0,10.0,9.0,7.0
 Other Cost %,Expenses,119.0,89.0,91.0,105.0
+Exceptional items,Other Income,0.0,16.0,-1282.0,-141.0
+Other income normal,Other Income,155.0,215.0,447.0,473.0
 Exceptional items AT,Net Profit,0.0,16.0,909.0,-124.0
 Profit excl Excep,Net Profit,-1675.0,-344.0,-4851.0,-1234.0
 Profit for PE,Net Profit,-1675.0,-344.0,-4851.0,-1234.0

@@ -1,17 +1,17 @@
 ,parent_line_item,Mar 2015,Mar 2016,Mar 2017,Mar 2018,Mar 2019,Mar 2020,Mar 2021,Mar 2022,Mar 2023,Mar 2024,Mar 2025,Mar 2026
-Cash from Operating Activity,,1166.0,-781.0,2029.0,1313.0,-1941.0,4286.0,1029.0,1370.0,1406.0,1387.0,1712.0,1482.0
-Cash from Investing Activity,,-648.0,-753.0,-882.0,-745.0,1381.0,-2875.0,34.0,-1068.0,-593.0,-697.0,-629.0,-236.0
+Cash from Operating Activity,,1166.0,-781.0,2029.0,1313.0,-1941.0,4286.0,1029.0,1369.0,1406.0,1388.0,1712.0,1482.0
+Cash from Investing Activity,,-648.0,-753.0,-882.0,-745.0,1381.0,-2875.0,34.0,-1070.0,-593.0,-699.0,-629.0,-236.0
 Cash from Financing Activity,,-349.0,-298.0,-292.0,-492.0,481.0,-1470.0,-457.0,-595.0,-854.0,-840.0,-914.0,-954.0
-Net Cash Flow,,169.0,-1833.0,855.0,76.0,-79.0,-59.0,606.0,-293.0,-41.0,-150.0,169.0,292.0
-Free Cash Flow,,167.0,-1641.0,945.0,433.0,-2658.0,3290.0,567.0,766.0,835.0,601.0,868.0,344.0
-CFO/OP,,110.0,-34.0,194.0,111.0,-78.0,261.0,121.0,99.0,98.0,92.0,97.0,95.0
+Net Cash Flow,,169.0,-1833.0,855.0,76.0,-79.0,-59.0,606.0,-296.0,-41.0,-150.0,169.0,292.0
+Free Cash Flow,,167.0,-1641.0,945.0,433.0,-2658.0,3290.0,567.0,765.0,835.0,603.0,868.0,344.0
+CFO/OP,,110.0,-34.0,194.0,111.0,-78.0,261.0,121.0,99.0,98.0,93.0,97.0,95.0
 Profit from operations,Cash from Operating Activity,1426.0,1380.0,1287.0,1562.0,1839.0,1754.0,1115.0,1813.0,1953.0,2019.0,1936.0,1983.0
 Receivables,Cash from Operating Activity,25.0,4.0,-4.0,-30.0,-5.0,-69.0,4.0,-21.0,-35.0,-118.0,-67.0,-85.0
 Inventory,Cash from Operating Activity,-32.0,30.0,-5.0,-5.0,4.0,-3.0,2.0,-7.0,-6.0,-13.0,0.0,-2.0
 Payables,Cash from Operating Activity,114.0,-11.0,65.0,17.0,77.0,-198.0,114.0,153.0,-40.0,-101.0,-57.0,10.0
 Loans Advances,Cash from Operating Activity,0.0,-12.0,-17.0,-14.0,87.0,8.0,-3.0,-4.0,3.0,-6.0,-10.0,-8.0
-Other WC items,Cash from Operating Activity,-1.0,-1841.0,1096.0,123.0,-3397.0,2931.0,39.0,-207.0,-42.0,29.0,64.0,-42.0
-Working capital changes,Cash from Operating Activity,106.0,-1831.0,1135.0,91.0,-3233.0,2669.0,156.0,-86.0,-121.0,-208.0,-69.0,-127.0
+Other WC items,Cash from Operating Activity,-1.0,-1841.0,1096.0,123.0,-3397.0,2931.0,39.0,-207.0,-42.0,31.0,64.0,-42.0
+Working capital changes,Cash from Operating Activity,106.0,-1831.0,1135.0,91.0,-3233.0,2669.0,156.0,-86.0,-121.0,-207.0,-69.0,-127.0
 Direct taxes,Cash from Operating Activity,-365.0,-331.0,-392.0,-341.0,-547.0,-138.0,-241.0,-357.0,-426.0,-424.0,-155.0,-374.0
 Fixed assets purchased,Cash from Investing Activity,-848.0,-608.0,-1094.0,-808.0,-786.0,-741.0,-591.0,-787.0,-576.0,-742.0,-910.0,-1093.0
 Fixed assets sold,Cash from Investing Activity,2.0,2.0,7.0,6.0,8.0,61.0,107.0,10.0,84.0,12.0,35.0,10.0
@@ -20,4 +20,11 @@ Investments purchased,Cash from Investing Activity,-5.0,-186.0,0.0,0.0,0.0,0.0,-
 Investments sold,Cash from Investing Activity,62.0,0.0,9.0,10.0,5.0,7.0,0.0,80.0,14.0,136.0,23.0,83.0
 Interest received,Cash from Investing Activity,285.0,302.0,194.0,321.0,361.0,159.0,222.0,174.0,188.0,295.0,392.0,352.0
 Dividends received,Cash from Investing Activity,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Other investing items,Cash from Investing Activity,5.0,-9.0,0.0,-196.0,1733.0,-2045.0,305.0,-719.0,-225.0,-343.0,-200.0,468.0
+Other investing items,Cash from Investing Activity,5.0,-9.0,0.0,-196.0,1733.0,-2045.0,305.0,-721.0,-225.0,-344.0,-200.0,468.0
+Proceeds from shares,Cash from Financing Activity,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Proceeds from borrowings,Cash from Financing Activity,17.0,0.0,0.0,0.0,709.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Repayment of borrowings,Cash from Financing Activity,0.0,0.0,0.0,0.0,0.0,-707.0,-2.0,-6.0,-6.0,-29.0,-2.0,0.0
+Interest paid fin,Cash from Financing Activity,-19.0,-0.0,-3.0,-6.0,-6.0,-15.0,-6.0,-5.0,-5.0,-4.0,-0.0,-77.0
+Dividends paid,Cash from Financing Activity,-313.0,-261.0,-294.0,-417.0,-183.0,-567.0,-356.0,-487.0,-731.0,-670.0,-731.0,-697.0
+Financial liabilities,Cash from Financing Activity,-0.0,0.0,0.0,0.0,0.0,-66.0,-93.0,-97.0,-111.0,-137.0,-180.0,-180.0
+Other financing items,Cash from Financing Activity,-34.0,-43.0,5.0,-70.0,-39.0,-116.0,0.0,0.0,0.0,0.0,0.0,0.0
