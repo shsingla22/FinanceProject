@@ -49,7 +49,7 @@ Local machine: same two commands after `pip install -r requirements.txt`
 
 | You type | You get |
 |---|---|
-| `analyse DIXON` / `rate CRISIL` / any company name | the full workup: **rating card with point-by-point build-up**, quality scorecard with per-check rationale **and quotes**, the multibagger patterns it fits, the risk check with silver linings, trends, management, concall extract, downloadable report, and an "Ask about this analysis" box |
+| `analyse DIXON` / `rate CRISIL` / any company name | **two columns**: on the left the full workup — **rating card with point-by-point build-up**, quality scorecard with per-check rationale **and quotes**, the multibagger patterns it fits, the risk check with silver linings, trends, downloadable report, an "Ask about this analysis" box; on the right the **then-vs-now panel** — the `Skills/ComparisonSkill` comparison of the long-term view against the same engines run on just the **last one year's evidence** (rating movement first, then the raw numbers, then every improved/regressed verdict with both sides' why), with its own downloadable Markdown |
 | `best 10 companies` / `top 5 by growth` / `worst 10 by working capital` | coverage-guarded rankings; click a row to run the full analysis |
 | `select good businesses in PHARMA` | industry-filtered picks |
 | `compare TITAN and DMART` | side-by-side module scorecards |
@@ -67,7 +67,10 @@ Local machine: same two commands after `pip install -r requirements.txt`
 | `GET /api/patterns/{sym}` | MultibaggerPattern record alone |
 | `GET /api/risks/{sym}` | QualityRisks record alone |
 | `GET /api/report/{sym}` | the downloadable Complete Company Analysis (Markdown) |
-| `POST /api/ask/{sym}` | Q&A grounded in all three stored records + the rating |
+| `GET /api/analysis/{sym}` | the full AnalystSkill payload the page renders (records + rating + Markdown together) |
+| `GET /api/comparison/{sym}` | the **then-vs-now record + Markdown**: full AnalystSkill view vs RecentAnalystSkill one-year view, compared verdict-by-verdict (`?quick=1` = numbers only; first run computes both views — the slowest call in the app, cached afterwards) |
+| `GET /api/comparison_report/{sym}` | the downloadable one-year comparison (Markdown, byte-identical to the panel's) |
+| `POST /api/ask/{sym}` | Q&A grounded in all three stored records + the rating + the one-year comparison (when computed) |
 | `GET /api/concall/{sym}` | transcript text extracted on demand |
 | `POST /api/qualitative/{sym}` | raw AI concall scores only |
 | `POST /api/refresh` | drop caches after refreshing the CSVs |
@@ -77,6 +80,8 @@ Local machine: same two commands after `pip install -r requirements.txt`
 | File | Purpose |
 |---|---|
 | `server.py` | FastAPI backend — live skill execution, concall extraction, AI fusion, caching |
+| `analyst_bridge.py` | runs the AnalystSkill once per request: page records + downloadable MD from ONE composition |
+| `comparison_bridge.py` | runs the ComparisonSkill (full vs one-year view, each side in its own subprocess): panel record + downloadable MD from ONE composition |
 | `rating.py` | loads MultibaggerPattern + QualityRisks, computes the 3-pillar rating with derivations |
 | `build_data.py` | shared scoring library (imported by the server) |
 | `index.html` / `app.js` / `style.css` | frontend: NL intent parsing + rendering (no build step, no dependencies) |

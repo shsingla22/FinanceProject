@@ -56,6 +56,7 @@ import framework as F           # noqa: E402
 import pandas as pd             # noqa: E402
 import rating as R              # noqa: E402  (MultibaggerPattern + QualityRisks + rating)
 import analyst_bridge as AB     # noqa: E402  (the AnalystSkill: one analysis, page + MD)
+import comparison_bridge as CB  # noqa: E402  (the ComparisonSkill: then vs now)
 
 app = FastAPI(title="Business Quality Analyst API")
 
@@ -352,6 +353,8 @@ def _ai_backend() -> str | None:
                         PERSONAL USE ONLY: a subscription must not serve
                         third parties, so keep the port private in this mode.
     """
+    if os.environ.get("UI_DISABLE_AI"):
+        return None                 # numbers-only mode, e.g. for UI testing
     if os.environ.get("ANTHROPIC_API_KEY"):
         return "api"
     if shutil.which("claude"):
@@ -631,6 +634,41 @@ def qualitative(sym: str):
     return {"symbol": sym, "status": status, "scores": scores}
 
 
+def _comparison_grounding(sym: str) -> str | None:
+    """A compact JSON view of the ALREADY-COMPUTED one-year comparison for
+    Q&A grounding — never triggers the expensive computation itself."""
+    got = CB.cached(sym)
+    if not got:
+        return None
+    rec = got["record"]
+    rd = rec["rating"]
+
+    def moves(t):
+        return {k: [{"name": i.get("name") or i.get("check"),
+                     "from": i.get("from") or i.get("full_word"),
+                     "to": i.get("to") or i.get("recent_word"),
+                     "why": (i.get("now") or i.get("explanation")
+                             or i.get("why_now") or "")[:220]}
+                    for i in t.get(k, [])]
+                for k in ("improved", "regressed")}
+
+    view = {
+        "overall": {"direction": rd["direction"], "delta": rd.get("delta"),
+                    "how": rd["derivation"]},
+        "numbers": rec.get("numbers", []),
+        "business_quality": {"summary": rec["business"]["overall"],
+                             **moves(rec["business"])},
+        "multibagger_patterns": {"summary": rec["patterns"]["overall"],
+                                 **moves(rec["patterns"])},
+        "risks": {"summary": rec["risks"]["overall"],
+                  **moves(rec["risks"]),
+                  "resilience": {
+                      "long_view": rec["risks"]["fragility"]["full"],
+                      "last_one_year": rec["risks"]["fragility"]["recent"]}},
+    }
+    return json.dumps(view, default=str)[:7000]
+
+
 @app.post("/api/ask/{sym}")
 def ask(sym: str, payload: dict):
     """Q&A grounded in the STORED verdict: the question is answered from the
@@ -689,11 +727,21 @@ def ask(sym: str, payload: dict):
                                           "why": p["derivation"]}
                                       for k, p in rt["pillars"].items()}},
                          default=str)[:3500]
+    cmp_json = _comparison_grounding(sym)
+    cmp_block = (
+        f"ONE-YEAR COMPARISON (how the last year moved vs the long-term "
+        f"view — 'improved'/'regressed' lists carry both sides' "
+        f"evidence):\n{cmp_json}\n\n" if cmp_json else
+        "ONE-YEAR COMPARISON: not computed yet for this company — if the "
+        "question asks about recent movement, say the then-vs-now "
+        "comparison hasn't been run and offer what the records above "
+        "show instead.\n\n")
     prompt = (
         f"You are explaining an investment analysis for {out['name']} "
         f"({sym}). Answer the user's question USING ONLY the stored records "
         "below (business overview, quality framework scores, multibagger-"
-        "pattern verdicts, risk verdicts, the combined rating) and the "
+        "pattern verdicts, risk verdicts, the combined rating, and the "
+        "one-year then-vs-now comparison when present) and the "
         "concall excerpts. "
         "Rules: cite the specific check names, pattern/risk names, "
         "numbers, or verbatim quotes you rely on — use the plain display "
@@ -702,6 +750,7 @@ def ask(sym: str, payload: dict):
         "records and excerpts don't contain the answer, say so plainly — "
         "never invent. Be concise (<= 200 words).\n\n"
         f"QUESTION: {question}\n\n"
+        f"{cmp_block}"
         f"COMBINED RATING (0-100):\n{rt_json}\n\n"
         f"QUALITY-FRAMEWORK RECORD (scores are -2..+2):\n{record_json}\n\n"
         f"MULTIBAGGER-PATTERN VERDICTS:\n{mb_json}\n\n"
@@ -738,6 +787,7 @@ def ask(sym: str, payload: dict):
 def refresh():
     with _lock:
         _drop_caches()
+    CB.drop_caches()
     return {"ok": True, "message": "caches dropped; next request recomputes"}
 
 
@@ -785,6 +835,44 @@ def analysis(sym: str, quick: int = 0):
     for m, d in out["business"]["modules"].items():
         d["weight"] = S.DEFAULT_MODULE_WEIGHTS.get(m, 1.0)
     return out
+
+
+@app.get("/api/comparison/{sym}")
+def comparison(sym: str, quick: int = 0):
+    """The one-year comparison panel: the ComparisonSkill runs the full
+    AnalystSkill view and the RecentAnalystSkill one-year view (each in
+    its own subprocess, judge caches reused) and returns the structured
+    then-vs-now record PLUS its composed Markdown — one computation, so
+    the panel and the downloadable file can never disagree. First run of
+    a company is the slowest call in the app (both views compute);
+    everything after is cached."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    try:
+        return CB.full_comparison(sym, ai=ai)
+    except Exception as e:
+        raise HTTPException(502, f"comparison failed: {str(e)[:300]}")
+
+
+@app.get("/api/comparison_report/{sym}")
+def comparison_report(sym: str, quick: int = 0):
+    """The downloadable then-vs-now report — the SAME ComparisonSkill
+    composition the /api/comparison panel renders (cached, so this is
+    instant after the panel has loaded)."""
+    from fastapi.responses import Response
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    try:
+        md = CB.full_comparison(sym, ai=ai)["md"]
+    except Exception as e:
+        raise HTTPException(502, f"comparison failed: {str(e)[:300]}")
+    return Response(content=md, media_type="text/markdown",
+                    headers={"Content-Disposition":
+                             f'attachment; filename="{sym}_comparison.md"'})
 
 
 @app.get("/api/rating/{sym}")

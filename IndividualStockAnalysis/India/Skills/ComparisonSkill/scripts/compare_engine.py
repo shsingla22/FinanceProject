@@ -146,15 +146,17 @@ def trend_table(sym: str) -> list:
 def _rating_delta(full: dict, recent: dict) -> dict:
     f, r = full["rating"], recent["rating"]
     if f["score"] is None or r["score"] is None:
+        reasons = []
+        if f["score"] is None:
+            reasons.append("the long view could not be rated")
+        if r["score"] is None:
+            reasons.append("the one-year view could not be rated (too "
+                           "little was assessable in the window)")
         return {"full": f, "recent": r, "delta": None,
                 "direction": "not comparable",
                 "derivation": ("The two views cannot be compared on the "
-                               "overall rating: "
-                               + ("the long view could not be rated. "
-                                  if f["score"] is None else "")
-                               + ("the one-year view could not be rated "
-                                  "(too little was assessable in the "
-                                  "window)." if r["score"] is None else ""))}
+                               "overall rating: " + " and ".join(reasons)
+                               + ".")}
     delta = r["score"] - f["score"]
     direction = ("improved" if delta > 2 else
                  "declined" if delta < -2 else "held steady")

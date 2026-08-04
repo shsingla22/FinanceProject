@@ -139,6 +139,19 @@ table.rank tr.rowlink:hover td { background: var(--chip-bg); }
 .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
 @media (max-width: 720px) { .grid2 { grid-template-columns: 1fr; } }
 
+/* --- two-column analyst view: full workup left, then-vs-now right --- */
+main.wrap:has(.duo) { max-width: 1600px; }
+.duo { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 4fr);
+  gap: 18px; align-items: start; }
+.col-main, .col-cmp { min-width: 0; }
+.col-cmp .card { border-left: 3px solid var(--accent); }
+.col-cmp h4 { margin: 12px 0 4px; font-size: 13.5px; color: var(--text-secondary);
+  text-transform: uppercase; letter-spacing: .04em; }
+.col-cmp .mod-word { min-width: 0; white-space: nowrap; }
+table.cmp-tbl { font-size: 13px; }
+table.cmp-tbl th, table.cmp-tbl td { padding-right: 8px; }
+@media (max-width: 1100px) { .duo { grid-template-columns: 1fr; } }
+
 .mgmt li { font-size: 14px; }
 .foot { padding: 22px 20px 34px; color: var(--text-muted); font-size: 12.5px; }
 .foot code { background: var(--chip-bg); padding: 1px 6px; border-radius: 6px; }
