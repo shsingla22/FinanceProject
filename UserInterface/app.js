@@ -193,6 +193,45 @@ function handle(q) {
 /* ---------------- rendering ---------------- */
 
 const $out = () => document.getElementById("out");
+
+/* ---- proxy-proof long work: start a server job, poll with short GETs ----
+   One long fetch dies at intermediary proxies (GitHub Codespaces port
+   forwarding kills requests after ~100s -> "Analysis failed" even though
+   the server was still working). Every request here returns in
+   milliseconds, so NOTHING can time out no matter how long the analysis
+   takes; transient poll failures are retried, never fatal. */
+const fmtElapsed = s => s < 60 ? `${Math.round(s)}s`
+  : `${Math.floor(s / 60)}m ${String(Math.round(s % 60)).padStart(2, "0")}s`;
+
+async function pollJob(kind, id, onTick) {
+  let misses = 0;
+  for (;;) {
+    await new Promise(r => setTimeout(r, 3500));
+    let j = null;
+    try {
+      const r = await fetch(`api/jobs/${kind}/${id}`);
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      j = await r.json();
+      misses = 0;
+    } catch (e) {
+      if (++misses >= 8) throw new Error("lost contact with the server — " +
+        "check it is still running, then re-ask (finished work is cached): " + (e.message || e));
+      continue;               // transient blip (proxy hiccup, laptop sleep) — keep polling
+    }
+    if (j.state === "done") return j.result;
+    if (j.state === "error") throw new Error(j.error || "failed on the server");
+    if (onTick) onTick(j.elapsed || 0);
+  }
+}
+
+async function jobFetch(kind, sym, onTick) {
+  const r = await fetch(`api/jobs/${kind}/${sym}`, { method: "POST" });
+  if (!r.ok) {
+    let d = ""; try { d = (await r.json()).detail || ""; } catch (_) { /* keep status */ }
+    throw new Error(d || `HTTP ${r.status}`);
+  }
+  return pollJob(kind, sym, onTick);
+}
 function echo(q) { $out().insertAdjacentHTML("beforeend", `<div class="you">You asked: “${esc(q)}”</div>`); }
 function card(html) { $out().insertAdjacentHTML("beforeend", `<div class="card">${html}</div>`); attachSparkHover(); }
 function cardIn(el, html) { el.insertAdjacentHTML("beforeend", `<div class="card">${html}</div>`); attachSparkHover(); }
@@ -351,25 +390,27 @@ async function renderCompany(sym) {
   const firstTime = !(cached && cached.qualitative_included);
   const ph = document.createElement("div");
   ph.className = "card";
-  ph.innerHTML = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
+  const phBase = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
     business overview, quality framework, multibagger patterns, risk check and the written report${state.ai ?
     (firstTime ? " <em>(first run: several deep reads of ALL its concalls — this can take several minutes; everything is cached afterwards)</em>" : " (served from cache)") : " (numbers only — AI is off)"}…</p>`;
+  ph.innerHTML = phBase;
   $out().appendChild(ph);
-  const cmpPromise = (async () => {
-    const r = await fetch(`api/comparison/${sym}`);
-    if (!r.ok) {
-      let d = ""; try { d = (await r.json()).detail || ""; } catch (_) { /* keep status */ }
-      throw new Error(d || `HTTP ${r.status}`);
-    }
-    return r.json();
-  })();
+  const cmpTick = { el: null };
+  const cmpPromise = jobFetch("comparison", sym, t => {
+    if (cmpTick.el && cmpTick.el.isConnected) cmpTick.el.textContent =
+      `⏱ computing both views for ${fmtElapsed(t)} — long first runs are normal, nothing has timed out.`;
+  });
   cmpPromise.catch(() => { /* handled when the panel attaches */ });
-  let out = null;
+  let out = null, failWhy = "";
   try {
-    out = await fetch(`api/analysis/${sym}`).then(r => r.ok ? r.json() : null);
-  } catch (_) { /* handled below */ }
+    out = await jobFetch("analysis", sym, t => {
+      if (ph.isConnected) ph.innerHTML = phBase +
+        `<p class="note">⏱ running for ${fmtElapsed(t)} — long first runs are normal, nothing has timed out.</p>`;
+    });
+  } catch (e) { failWhy = e.message || String(e); }
   ph.remove();
-  if (!out) return card(`<p>Analysis failed for ${esc(sym)} — is the server running? Try again.</p>`);
+  if (!out) return card(`<p>Analysis failed for ${esc(sym)}: ${esc(failWhy || "unknown error")}.</p>
+    <p class="note">Finished work is cached on the server — re-asking usually resumes where it left off.</p>`);
   const ba = out.business, mb = out.patterns, qr = out.risks, rt = out.rating;
 
   // Two columns: the full analyst workup on the left, the one-year
@@ -381,10 +422,12 @@ async function renderCompany(sym) {
        <p class="note">⏳ Building the one-year comparison: the same three engines re-run on
        just the last year's evidence, then compared verdict-by-verdict with the long view${
          state.ai ? " <em>(first run of a company computes both views — this is the slowest step; cached afterwards)</em>" : ""}…</p>
+       <p class="note cmp-tick"></p>
      </div></aside></div>`);
   const duo = $out().querySelector(`.duo[data-sym="${sym}"]`);
   const main = duo.querySelector(".col-main");
   const aside = duo.querySelector(".col-cmp");
+  cmpTick.el = duo.querySelector(".cmp-tick");
 
   // 1. About the business
   cardIn(main, aboutCard(sym, out));
@@ -707,12 +750,15 @@ async function askVerdict(sym, question, outEl) {
     `<div class="qa-q">Q: ${esc(question)}</div><div class="qa-a note">Thinking — answering from the stored analysis and the concalls…</div>`);
   const slot = outEl.lastElementChild;
   try {
-    const res = await fetch(`api/ask/${sym}`, {
+    // job + poll, so a slow answer can't hit proxy timeouts (Codespaces)
+    const res = await fetch(`api/jobs/ask/${sym}`, {
       method: "POST", headers: { "content-type": "application/json" },
       body: JSON.stringify({ question }),
     });
     if (!res.ok) throw new Error((await res.json()).detail || res.status);
-    const data = await res.json();
+    const { job } = await res.json();
+    const data = await pollJob("ask", job.split(":")[1],
+      t => { slot.textContent = `Thinking for ${fmtElapsed(t)} — answering from the stored analysis and the concalls…`; });
     slot.className = "qa-a";
     slot.textContent = data.answer;
   } catch (e) {

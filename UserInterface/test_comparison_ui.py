@@ -139,6 +139,47 @@ def test_ask_grounding_uses_cached_comparison_only():
         assert not re.search(pat, g)
 
 
+def test_job_endpoints_survive_where_one_long_request_dies():
+    """The Codespaces-proxy fix: work started with a short POST, collected
+    with short GET polls, must produce EXACTLY what the sync endpoint
+    returns — and every individual request stays sub-second-fast."""
+    import time
+    r = client.post("/api/jobs/analysis/BLUESTONE?quick=1")
+    assert r.status_code == 200 and r.json()["state"] == "running"
+    deadline = time.time() + 180
+    while time.time() < deadline:
+        j = client.get("/api/jobs/analysis/BLUESTONE").json()
+        if j["state"] != "running":
+            break
+        time.sleep(1)
+    assert j["state"] == "done", j.get("error")
+    sync = client.get("/api/analysis/BLUESTONE?quick=1").json()
+    assert j["result"]["md"] == sync["md"]
+    assert j["result"]["rating"]["grade"] == sync["rating"]["grade"]
+
+    r = client.post("/api/jobs/comparison/BLUESTONE?quick=1")
+    assert r.status_code == 200
+    deadline = time.time() + 300
+    while time.time() < deadline:
+        j = client.get("/api/jobs/comparison/BLUESTONE").json()
+        if j["state"] != "running":
+            break
+        time.sleep(1)
+    assert j["state"] == "done", j.get("error")
+    dl = client.get("/api/comparison_report/BLUESTONE?quick=1")
+    assert j["result"]["md"] == dl.text, \
+        "job result md and download must be IDENTICAL"
+
+
+def test_job_endpoints_fail_cleanly():
+    assert client.post("/api/jobs/analysis/NOTACOMPANY").status_code == 404
+    assert client.post("/api/jobs/nonsense/CRISIL").status_code == 404
+    assert client.get("/api/jobs/analysis/NEVERPOSTED").status_code == 404
+    # ask requires AI — in numbers-only test mode it must refuse honestly
+    r = client.post("/api/jobs/ask/CRISIL", json={"question": "why?"})
+    assert r.status_code == 503
+
+
 def test_refresh_drops_the_comparison_cache():
     _comparison("CRISIL")
     assert CB.cached("CRISIL") is not None
@@ -156,7 +197,7 @@ def test_stratified_sweep_through_the_server_path():
     structurally sound panel+md through the same code path the UI uses."""
     SYMS = ["CRISIL", "DIXON", "TATASTEEL", "PIDILITIND", "RTNPOWER",
             "HDFCBANK", "IFCI", "KAYNES", "ASIANPAINT", "INFY",
-            "URBANCO", "ETHOSLTD"]
+            "URBANCO", "ETHOSLTD", "BLUESTONE"]
     failures = []
     for sym in SYMS:
         try:

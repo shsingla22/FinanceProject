@@ -35,6 +35,7 @@ import sys
 import threading
 import time
 import urllib.request
+import uuid
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
@@ -674,7 +675,9 @@ def ask(sym: str, payload: dict):
     """Q&A grounded in the STORED verdict: the question is answered from the
     persisted analysis record (scores + rationales + quotes) plus the concall
     timeline — never from thin air. The explainability pattern: answer from
-    the trace, cite the parameter or quote, admit when the record is silent."""
+    the trace, cite the parameter or quote, admit when the record is silent.
+    (Synchronous form; the UI uses POST /api/jobs/ask/{sym} + polling so a
+    slow answer can't hit proxy timeouts.)"""
     backend = _ai_backend()
     if backend is None:
         raise HTTPException(503, "AI is off — log in the Claude Code CLI or set ANTHROPIC_API_KEY")
@@ -684,6 +687,10 @@ def ask(sym: str, payload: dict):
         raise HTTPException(422, "missing 'question'")
     if sym not in _const_map:
         raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    return _answer_question(sym, question, backend)
+
+
+def _answer_question(sym: str, question: str, backend: str) -> dict:
 
     # Ground the answer in the SAME AnalystSkill records the page shows
     # (all cached at this point in the normal flow).
@@ -814,18 +821,7 @@ def risks(sym: str, quick: int = 0):
     return {"symbol": sym, "status": status, "record": rec}
 
 
-@app.get("/api/analysis/{sym}")
-def analysis(sym: str, quick: int = 0):
-    """THE company view: the AnalystSkill runs all three sibling skills
-    (plus any auto-discovered extensions) ONCE and returns both the
-    structured records the page renders and the composed Markdown report
-    for download — the page and the file can never disagree. First run of
-    a company takes several minutes (deep Opus reads of its concall
-    history + overview + grounded summary); everything is cached after."""
-    sym = sym.upper()
-    if sym not in _const_map:
-        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
-    ai = not quick and _ai_backend() is not None
+def _analysis_payload(sym: str, ai: bool) -> dict:
     out = AB.full_analysis(sym, ai=ai)
     lv = _live_map().get(sym, {})
     out["market"] = {"mcap": lv.get("market_cap_rs_cr"),
@@ -834,6 +830,109 @@ def analysis(sym: str, quick: int = 0):
     # module weights so the client can show the exact overall arithmetic
     for m, d in out["business"]["modules"].items():
         d["weight"] = S.DEFAULT_MODULE_WEIGHTS.get(m, 1.0)
+    return out
+
+
+@app.get("/api/analysis/{sym}")
+def analysis(sym: str, quick: int = 0):
+    """THE company view: the AnalystSkill runs all three sibling skills
+    (plus any auto-discovered extensions) ONCE and returns both the
+    structured records the page renders and the composed Markdown report
+    for download — the page and the file can never disagree. First run of
+    a company takes several minutes (deep Opus reads of its concall
+    history + overview + grounded summary); everything is cached after.
+
+    NOTE: this is the synchronous form — fine for scripts and local use,
+    but a first-run AI analysis outlives proxy timeouts (Codespaces port
+    forwarding kills requests after ~100s). The UI uses the job form
+    below (/api/jobs/...) which is immune to that."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    return _analysis_payload(sym, ai)
+
+
+# ------------------------------------------------- proxy-proof job endpoints
+# One long HTTP request dies at intermediary proxies (GitHub Codespaces
+# port forwarding kills anything over ~100s — the "Analysis failed" bug).
+# So the UI starts a job with a short POST and polls with short GETs; the
+# actual work runs in a server thread and NOTHING client-visible ever
+# stays open long enough to time out.
+_jobs: dict = {}
+_jobs_lock = threading.Lock()
+JOB_KINDS = {"analysis", "comparison"}
+
+
+def _job_start(kind: str, sym: str, fn) -> dict:
+    key = f"{kind}:{sym}"
+    with _jobs_lock:
+        # prune finished jobs older than an hour so the dict can't grow
+        cutoff = time.time() - 3600
+        for k in [k for k, j in _jobs.items()
+                  if j["state"] != "running" and j["started"] < cutoff]:
+            _jobs.pop(k, None)
+        j = _jobs.get(key)
+        if j and j["state"] == "running":
+            return {"job": key, "state": "running"}   # already on it
+        _jobs[key] = {"state": "running", "started": time.time(),
+                      "result": None, "error": None}
+
+    def run():
+        try:
+            res = fn()
+            _jobs[key].update(state="done", result=res)
+        except Exception as e:
+            _jobs[key].update(state="error", error=str(e)[:400])
+
+    threading.Thread(target=run, daemon=True).start()
+    return {"job": key, "state": "running"}
+
+
+@app.post("/api/jobs/{kind}/{sym}")
+def job_start(kind: str, sym: str, quick: int = 0,
+              payload: dict | None = None):
+    """Kick off work in the background (idempotent for analysis/comparison —
+    re-POSTing while one runs just reports 'running'). Poll the GET twin.
+    kind 'ask' takes {"question": ...} in the body and returns a fresh job
+    id per question."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    if kind == "ask":
+        backend = _ai_backend()
+        if backend is None:
+            raise HTTPException(503, "AI is off — log in the Claude Code "
+                                     "CLI or set ANTHROPIC_API_KEY")
+        question = (payload or {}).get("question", "").strip()
+        if not question:
+            raise HTTPException(422, "missing 'question'")
+        job_id = uuid.uuid4().hex.upper()
+        return _job_start("ask", job_id,
+                          lambda: _answer_question(sym, question, backend))
+    if kind not in JOB_KINDS:
+        raise HTTPException(404, f"unknown job kind '{kind}'")
+    ai = not quick and _ai_backend() is not None
+    fn = ((lambda: _analysis_payload(sym, ai)) if kind == "analysis"
+          else (lambda: CB.full_comparison(sym, ai=ai)))
+    return _job_start(kind, sym, fn)
+
+
+@app.get("/api/jobs/{kind}/{sym}")
+def job_status(kind: str, sym: str):
+    """Job status; carries the full result once done. Each poll returns in
+    milliseconds, so no proxy on the path ever sees a long request."""
+    sym = sym.upper()
+    key = f"{kind}:{sym}"
+    j = _jobs.get(key)
+    if j is None:
+        raise HTTPException(404, f"no such job: {key} (POST it first)")
+    out = {"job": key, "state": j["state"],
+           "elapsed": round(time.time() - j["started"], 1)}
+    if j["state"] == "done":
+        out["result"] = j["result"]
+    elif j["state"] == "error":
+        out["error"] = j["error"]
     return out
 
 

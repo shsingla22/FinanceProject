@@ -70,6 +70,7 @@ Local machine: same two commands after `pip install -r requirements.txt`
 | `GET /api/analysis/{sym}` | the full AnalystSkill payload the page renders (records + rating + Markdown together) |
 | `GET /api/comparison/{sym}` | the **then-vs-now record + Markdown**: full AnalystSkill view vs RecentAnalystSkill one-year view, compared verdict-by-verdict (`?quick=1` = numbers only; first run computes both views — the slowest call in the app, cached afterwards) |
 | `GET /api/comparison_report/{sym}` | the downloadable one-year comparison (Markdown, byte-identical to the panel's) |
+| `POST /api/jobs/{analysis\|comparison}/{sym}` + `GET` twin | **what the UI actually uses**: start the work in the background, poll for the result — every request is sub-second, so proxy timeouts (e.g. Codespaces port forwarding kills requests at ~100s) can never fail a long first-run analysis. `POST /api/jobs/ask/{sym}` with `{"question": …}` does the same for Q&A |
 | `POST /api/ask/{sym}` | Q&A grounded in all three stored records + the rating + the one-year comparison (when computed) |
 | `GET /api/concall/{sym}` | transcript text extracted on demand |
 | `POST /api/qualitative/{sym}` | raw AI concall scores only |
