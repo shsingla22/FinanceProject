@@ -193,8 +193,48 @@ function handle(q) {
 /* ---------------- rendering ---------------- */
 
 const $out = () => document.getElementById("out");
+
+/* ---- proxy-proof long work: start a server job, poll with short GETs ----
+   One long fetch dies at intermediary proxies (GitHub Codespaces port
+   forwarding kills requests after ~100s -> "Analysis failed" even though
+   the server was still working). Every request here returns in
+   milliseconds, so NOTHING can time out no matter how long the analysis
+   takes; transient poll failures are retried, never fatal. */
+const fmtElapsed = s => s < 60 ? `${Math.round(s)}s`
+  : `${Math.floor(s / 60)}m ${String(Math.round(s % 60)).padStart(2, "0")}s`;
+
+async function pollJob(kind, id, onTick) {
+  let misses = 0;
+  for (;;) {
+    await new Promise(r => setTimeout(r, 3500));
+    let j = null;
+    try {
+      const r = await fetch(`api/jobs/${kind}/${id}`);
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      j = await r.json();
+      misses = 0;
+    } catch (e) {
+      if (++misses >= 8) throw new Error("lost contact with the server — " +
+        "check it is still running, then re-ask (finished work is cached): " + (e.message || e));
+      continue;               // transient blip (proxy hiccup, laptop sleep) — keep polling
+    }
+    if (j.state === "done") return j.result;
+    if (j.state === "error") throw new Error(j.error || "failed on the server");
+    if (onTick) onTick(j.elapsed || 0);
+  }
+}
+
+async function jobFetch(kind, sym, onTick) {
+  const r = await fetch(`api/jobs/${kind}/${sym}`, { method: "POST" });
+  if (!r.ok) {
+    let d = ""; try { d = (await r.json()).detail || ""; } catch (_) { /* keep status */ }
+    throw new Error(d || `HTTP ${r.status}`);
+  }
+  return pollJob(kind, sym, onTick);
+}
 function echo(q) { $out().insertAdjacentHTML("beforeend", `<div class="you">You asked: “${esc(q)}”</div>`); }
 function card(html) { $out().insertAdjacentHTML("beforeend", `<div class="card">${html}</div>`); attachSparkHover(); }
+function cardIn(el, html) { el.insertAdjacentHTML("beforeend", `<div class="card">${html}</div>`); attachSparkHover(); }
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 const fmtScore = s => s == null ? "n/a" : (s > 0 ? "+" : "") + (Math.round(s * 100) / 100);
 const scoreCls = s => s == null ? "mid" : s > 0.25 ? "pos" : s < -0.25 ? "neg" : "mid";
@@ -344,28 +384,57 @@ function companyHeader(sym, co) {
 async function renderCompany(sym) {
   // THE analyst experience: one server call runs all three skills via the
   // AnalystSkill and returns the records AND the Markdown report together.
+  // In PARALLEL, the ComparisonSkill builds the then-vs-now view (full
+  // history vs last one year) for the right-hand panel.
   const cached = state.data.companies[sym];
   const firstTime = !(cached && cached.qualitative_included);
   const ph = document.createElement("div");
   ph.className = "card";
-  ph.innerHTML = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
+  const phBase = `<p>⚙️ Running the complete analysis for <strong>${esc(sym)}</strong> —
     business overview, quality framework, multibagger patterns, risk check and the written report${state.ai ?
     (firstTime ? " <em>(first run: several deep reads of ALL its concalls — this can take several minutes; everything is cached afterwards)</em>" : " (served from cache)") : " (numbers only — AI is off)"}…</p>`;
+  ph.innerHTML = phBase;
   $out().appendChild(ph);
-  let out = null;
+  const cmpTick = { el: null };
+  const cmpPromise = jobFetch("comparison", sym, t => {
+    if (cmpTick.el && cmpTick.el.isConnected) cmpTick.el.textContent =
+      `⏱ computing both views for ${fmtElapsed(t)} — long first runs are normal, nothing has timed out.`;
+  });
+  cmpPromise.catch(() => { /* handled when the panel attaches */ });
+  let out = null, failWhy = "";
   try {
-    out = await fetch(`api/analysis/${sym}`).then(r => r.ok ? r.json() : null);
-  } catch (_) { /* handled below */ }
+    out = await jobFetch("analysis", sym, t => {
+      if (ph.isConnected) ph.innerHTML = phBase +
+        `<p class="note">⏱ running for ${fmtElapsed(t)} — long first runs are normal, nothing has timed out.</p>`;
+    });
+  } catch (e) { failWhy = e.message || String(e); }
   ph.remove();
-  if (!out) return card(`<p>Analysis failed for ${esc(sym)} — is the server running? Try again.</p>`);
+  if (!out) return card(`<p>Analysis failed for ${esc(sym)}: ${esc(failWhy || "unknown error")}.</p>
+    <p class="note">Finished work is cached on the server — re-asking usually resumes where it left off.</p>`);
   const ba = out.business, mb = out.patterns, qr = out.risks, rt = out.rating;
 
+  // Two columns: the full analyst workup on the left, the one-year
+  // comparison on the right (stacks below on narrow screens).
+  $out().insertAdjacentHTML("beforeend",
+    `<div class="duo" data-sym="${sym}"><div class="col-main"></div>
+     <aside class="col-cmp"><div class="card cmp-wait">
+       <h2>Then vs now — the last one year</h2>
+       <p class="note">⏳ Building the one-year comparison: the same three engines re-run on
+       just the last year's evidence, then compared verdict-by-verdict with the long view${
+         state.ai ? " <em>(first run of a company computes both views — this is the slowest step; cached afterwards)</em>" : ""}…</p>
+       <p class="note cmp-tick"></p>
+     </div></aside></div>`);
+  const duo = $out().querySelector(`.duo[data-sym="${sym}"]`);
+  const main = duo.querySelector(".col-main");
+  const aside = duo.querySelector(".col-cmp");
+  cmpTick.el = duo.querySelector(".cmp-tick");
+
   // 1. About the business
-  card(aboutCard(sym, out));
+  cardIn(main, aboutCard(sym, out));
   // 2. The verdict (+ download of the SAME report)
-  card(verdictCard(sym, out));
+  cardIn(main, verdictCard(sym, out));
   // 3. The three skill sections, every dimension
-  card(`<h2>Section 1 — How good is the business?</h2>
+  cardIn(main, `<h2>Section 1 — How good is the business?</h2>
     <p class="note">The 34-check quality framework: <strong>${verdictWord(ba.overall)}</strong>
     (score ${fmtScore(ba.overall)} on a −2…+2 scale) ·
     ${Math.round((ba.coverage || 0) * 100)}% of checks had evidence — unanswerable checks are marked, never guessed.</p>
@@ -373,20 +442,21 @@ async function renderCompany(sym) {
     ${trendSparks(out.trends)}
     <h3>Every check, area by area — with its why</h3>
     ${moduleBreakdown({ modules: ba.modules, params: ba.params, qualitative_included: ba.qualitative_included })}`);
-  card(`<h2>Section 2 — Does it look like a long-term winner?</h2>
+  cardIn(main, `<h2>Section 2 — Does it look like a long-term winner?</h2>
     ${patternsSection(mb)}`);
-  card(`<h2>Section 3 — What could break it?</h2>
+  cardIn(main, `<h2>Section 3 — What could break it?</h2>
     ${risksSection(qr)}
     ${(out.extensions || []).filter(e => e.section_md).map(e =>
        `<h3>${esc(e.name)}</h3><p class="note">Additional analysis from the ${esc(e.skill)} skill (${esc(e.status)}).</p>`).join("")}
     ${state.ai ? `
       <h3>Ask about this analysis</h3>
       <form class="qa-form" data-sym="${sym}">
-        <input type="text" placeholder="e.g. Why this rating? Which risk worries you most? Explain the strongest pattern." aria-label="Ask about this analysis">
+        <input type="text" placeholder="e.g. Why this rating? What changed in the last year? Which risk worries you most?" aria-label="Ask about this analysis">
         <button type="submit">Ask</button>
       </form>
       <div class="qa-out"></div>
-      <p class="note">Answers come strictly from the records above and the call transcripts — never thin air.</p>` : ""}`);
+      <p class="note">Answers come strictly from the records on this page — including the
+      one-year comparison — and the call transcripts; never thin air.</p>` : ""}`);
   const qaForm = $out().querySelector(`.qa-form[data-sym="${sym}"]`);
   if (qaForm) qaForm.addEventListener("submit", e => {
     e.preventDefault();
@@ -394,6 +464,18 @@ async function renderCompany(sym) {
     if (inp.value.trim()) askVerdict(sym, inp.value.trim(), qaForm.nextElementSibling);
   });
   wireDownload(sym, out.md);
+
+  // the right panel lands whenever the ComparisonSkill finishes
+  cmpPromise.then(c => {
+    aside.innerHTML = "";
+    cardIn(aside, comparisonPanel(sym, c));
+    wireCmpDownload(sym, c.md);
+  }).catch(e => {
+    aside.innerHTML = "";
+    cardIn(aside, `<h2>Then vs now — the last one year</h2>
+      <p class="note">The one-year comparison could not be built: ${esc(e.message || e)}.
+      The full analysis on the left is unaffected — try again with the ↻ button or re-ask.</p>`);
+  });
 }
 
 function aboutCard(sym, out) {
@@ -436,6 +518,119 @@ function wireDownload(sym, md) {
     const url = URL.createObjectURL(new Blob([md], { type: "text/markdown" }));
     a.href = url;
   }
+}
+
+function wireCmpDownload(sym, md) {
+  const a = document.getElementById(`dlc-${sym}`);
+  if (a && md) {
+    const url = URL.createObjectURL(new Blob([md], { type: "text/markdown" }));
+    a.href = url;
+  }
+}
+
+/* ------------- the then-vs-now panel (ComparisonSkill, right column) ------------- */
+
+const DIR_META = {
+  "improved": { word: "IMPROVED in the last year", icon: "📈", cls: "pos" },
+  "declined": { word: "DECLINED in the last year", icon: "📉", cls: "neg" },
+  "held steady": { word: "HELD STEADY in the last year", icon: "➡️", cls: "mid" },
+  "not comparable": { word: "could not be compared", icon: "⬜", cls: "mid" },
+};
+const fmtPts = v => v == null ? "—" : String(v);
+const fmtDelta = v => v == null ? "—" : (v > 0 ? "+" : "") + v;
+
+function cmpMoveRows(items, kind) {
+  // one movement line = verdict shift + BOTH sides' evidence (the why)
+  return (items || []).map(i => {
+    const from = i.from ?? i.full_word, to = i.to ?? i.recent_word;
+    const why = i.now || i.explanation || i.why_now || "";
+    const then = (i.then && i.then !== i.now) ? i.then : null;
+    return `<details class="mod">
+      <summary><span class="mod-word ${kind}">${esc(from)} → ${esc(to)}</span>
+        <strong>${esc(i.name || i.check)}</strong>${i.area ? ` <span class="note">${esc(i.area)}</span>` : ""}</summary>
+      ${why ? `<p class="note calc">${esc(why)}</p>` : ""}
+      ${then ? `<p class="note">The long view had said: ${esc(then)}</p>` : ""}
+      ${i.note ? `<p class="note">${esc(i.note)}</p>` : ""}
+    </details>`;
+  }).join("");
+}
+
+function cmpBucket(title, t, verbs, extraTop) {
+  const nImp = (t.improved || []).length, nReg = (t.regressed || []).length;
+  return `<details class="mod" ${nImp + nReg ? "open" : ""}>
+    <summary><span class="mod-word ${nReg > nImp ? "neg" : nImp > nReg ? "pos" : "mid"}">${nImp}▲ ${nReg}▼</span>
+      <strong>${esc(title)}</strong></summary>
+    <p class="note calc">${esc(t.overall || "")}</p>
+    ${extraTop || ""}
+    ${nImp ? `<h4>That ${esc(verbs[0])}</h4>${cmpMoveRows(t.improved, "pos")}` : ""}
+    ${nReg ? `<h4>That ${esc(verbs[1])}</h4>${cmpMoveRows(t.regressed, "neg")}` : ""}
+    ${(t.unchanged || []).length ? `<p class="note">Unchanged: ${t.unchanged.map(i =>
+        esc((i.name || i.check) + (i.from ? ` (${i.from})` : ""))).join(" · ")}</p>` : ""}
+    ${(t.carried || []).length ? `<p class="note">Carried forward from the long view unchanged
+      (the window could not re-test these): ${t.carried.map(i =>
+        esc((i.name || i.check) + ` (${i.verdict || i.word})`)).join(" · ")}</p>` : ""}
+    ${(t.window_excluded || []).length ? `<p class="note">Needs longer history than the one-year
+      lens allows — listed, never counted as regressions: ${t.window_excluded.map(i =>
+        esc(`${i.check} (long view: ${i.full_word})`)).join(" · ")}</p>` : ""}
+    ${(t.not_comparable || []).length ? `<p class="note">Not comparable: ${t.not_comparable.map(i =>
+        esc(`${i.name} (${i.from} → ${i.to})`)).join(" · ")}</p>` : ""}
+    ${(t.newly_visible || []).length ? `<h4>Newly assessable in the recent view</h4>
+      ${t.newly_visible.map(i => `<p class="note">✳️ <strong>${esc(i.check)}</strong> —
+        ${esc(i.recent_word)}: ${esc(i.explanation || "")}</p>`).join("")}` : ""}
+  </details>`;
+}
+
+function comparisonPanel(sym, c) {
+  const rec = c.record, rd = rec.rating;
+  const dir = DIR_META[rd.direction] || DIR_META["not comparable"];
+  const scores = rd.delta == null ? "" :
+    `<span class="cov">${rd.full.grade} ${rd.full.score}/100 → ${rd.recent.grade} ${rd.recent.score}/100
+     (${fmtDelta(rd.delta)} points)</span>`;
+  const pillarTbl = rd.delta == null ? "" : `
+    <table class="rank cmp-tbl"><thead><tr><th>Pillar</th><th>Long view</th>
+      <th>Last one year</th><th>Change</th></tr></thead><tbody>
+    ${rec.pillars.map(p => `<tr><td>${esc(p.pillar)}</td><td>${fmtPts(p.full)}</td>
+      <td>${fmtPts(p.recent)}</td><td>${fmtDelta(p.delta)}</td></tr>`).join("")}
+    </tbody></table>
+    <p class="note">A pillar move can be partly lens-driven — the one-year view cannot test
+    multi-year fingerprints, which lowers its multibagger pillar mechanically. The buckets
+    below separate genuine movement from window effects.</p>
+    <details class="mod"><summary><strong>How each side built its number</strong></summary>
+      ${rec.pillars.map(p => `<p class="note"><strong>${esc(p.pillar)}, long view:</strong> ${esc(p.full_why)}</p>
+        <p class="note"><strong>${esc(p.pillar)}, last one year:</strong> ${esc(p.recent_why)}</p>`).join("")}
+    </details>`;
+  const numbers = (rec.numbers || []).length ? `
+    <h3>The numbers behind the comparison</h3>
+    <table class="rank cmp-tbl"><thead><tr><th>Measure</th><th>Long-view avg</th>
+      <th>Year before last</th><th>Latest year</th><th>Change</th></tr></thead><tbody>
+    ${rec.numbers.map(n => `<tr><td>${esc(n.measure)}</td>
+      <td>${esc(n.long_avg)} <span class="note">(${n.n_years} yrs)</span></td>
+      <td>${esc(n.prior)}</td><td>${esc(n.latest)}</td><td>${esc(n.change)}</td></tr>`).join("")}
+    </tbody></table>` : "";
+  const fr = rec.risks.fragility || {};
+  const frBlock = fr.full ? `<p class="note"><strong>Financial resilience:</strong>
+    ${esc((fr.full || "").toLowerCase())} on the long view vs
+    ${esc((fr.recent || "").toLowerCase())} on the one-year view.</p>` : "";
+  const gates = `<p class="note">Foundation test: ${esc(rec.patterns.gate_full || "?")} on the
+    long view, ${esc(rec.patterns.gate_recent || "?")} on the one-year view.</p>`;
+  return `<h2>Then vs now — the last one year</h2>
+    <p class="note">The full-history view vs the same analysis run on just the last year's
+    evidence. Only items assessed on BOTH views are compared; checks the one-year lens
+    silences are listed separately — never counted as regressions.</p>
+    <h3>Step 1 — The overall rating</h3>
+    <div class="scoreline">
+      <span class="big-score ${dir.cls}" style="font-size:22px">${dir.icon} ${esc(dir.word)}</span>
+      ${scores}
+    </div>
+    <p class="note calc">${esc(rd.derivation)}</p>
+    ${pillarTbl}
+    ${numbers}
+    <h3>Step 2 — Where it improved, where it regressed</h3>
+    ${cmpBucket("Business quality (34 checks)", rec.business, ["improved", "regressed"])}
+    ${cmpBucket("Multibagger patterns (11 patterns)", rec.patterns, ["strengthened", "weakened"], gates)}
+    ${cmpBucket("Risks (8 channels)", rec.risks, ["eased", "worsened"], frBlock)}
+    <p><a class="chip" id="dlc-${sym}" href="api/comparison_report/${sym}" download="${sym}_comparison.md">📄 Download the comparison (Markdown)</a>
+      <span class="note">— generated together with this panel from the same comparison; panel and file can never disagree.</span></p>`;
 }
 
 function trendSparks(trends) {
@@ -555,12 +750,15 @@ async function askVerdict(sym, question, outEl) {
     `<div class="qa-q">Q: ${esc(question)}</div><div class="qa-a note">Thinking — answering from the stored analysis and the concalls…</div>`);
   const slot = outEl.lastElementChild;
   try {
-    const res = await fetch(`api/ask/${sym}`, {
+    // job + poll, so a slow answer can't hit proxy timeouts (Codespaces)
+    const res = await fetch(`api/jobs/ask/${sym}`, {
       method: "POST", headers: { "content-type": "application/json" },
       body: JSON.stringify({ question }),
     });
     if (!res.ok) throw new Error((await res.json()).detail || res.status);
-    const data = await res.json();
+    const { job } = await res.json();
+    const data = await pollJob("ask", job.split(":")[1],
+      t => { slot.textContent = `Thinking for ${fmtElapsed(t)} — answering from the stored analysis and the concalls…`; });
     slot.className = "qa-a";
     slot.textContent = data.answer;
   } catch (e) {

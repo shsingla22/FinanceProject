@@ -35,6 +35,7 @@ import sys
 import threading
 import time
 import urllib.request
+import uuid
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
@@ -56,6 +57,7 @@ import framework as F           # noqa: E402
 import pandas as pd             # noqa: E402
 import rating as R              # noqa: E402  (MultibaggerPattern + QualityRisks + rating)
 import analyst_bridge as AB     # noqa: E402  (the AnalystSkill: one analysis, page + MD)
+import comparison_bridge as CB  # noqa: E402  (the ComparisonSkill: then vs now)
 
 app = FastAPI(title="Business Quality Analyst API")
 
@@ -352,6 +354,8 @@ def _ai_backend() -> str | None:
                         PERSONAL USE ONLY: a subscription must not serve
                         third parties, so keep the port private in this mode.
     """
+    if os.environ.get("UI_DISABLE_AI"):
+        return None                 # numbers-only mode, e.g. for UI testing
     if os.environ.get("ANTHROPIC_API_KEY"):
         return "api"
     if shutil.which("claude"):
@@ -631,12 +635,49 @@ def qualitative(sym: str):
     return {"symbol": sym, "status": status, "scores": scores}
 
 
+def _comparison_grounding(sym: str) -> str | None:
+    """A compact JSON view of the ALREADY-COMPUTED one-year comparison for
+    Q&A grounding — never triggers the expensive computation itself."""
+    got = CB.cached(sym)
+    if not got:
+        return None
+    rec = got["record"]
+    rd = rec["rating"]
+
+    def moves(t):
+        return {k: [{"name": i.get("name") or i.get("check"),
+                     "from": i.get("from") or i.get("full_word"),
+                     "to": i.get("to") or i.get("recent_word"),
+                     "why": (i.get("now") or i.get("explanation")
+                             or i.get("why_now") or "")[:220]}
+                    for i in t.get(k, [])]
+                for k in ("improved", "regressed")}
+
+    view = {
+        "overall": {"direction": rd["direction"], "delta": rd.get("delta"),
+                    "how": rd["derivation"]},
+        "numbers": rec.get("numbers", []),
+        "business_quality": {"summary": rec["business"]["overall"],
+                             **moves(rec["business"])},
+        "multibagger_patterns": {"summary": rec["patterns"]["overall"],
+                                 **moves(rec["patterns"])},
+        "risks": {"summary": rec["risks"]["overall"],
+                  **moves(rec["risks"]),
+                  "resilience": {
+                      "long_view": rec["risks"]["fragility"]["full"],
+                      "last_one_year": rec["risks"]["fragility"]["recent"]}},
+    }
+    return json.dumps(view, default=str)[:7000]
+
+
 @app.post("/api/ask/{sym}")
 def ask(sym: str, payload: dict):
     """Q&A grounded in the STORED verdict: the question is answered from the
     persisted analysis record (scores + rationales + quotes) plus the concall
     timeline — never from thin air. The explainability pattern: answer from
-    the trace, cite the parameter or quote, admit when the record is silent."""
+    the trace, cite the parameter or quote, admit when the record is silent.
+    (Synchronous form; the UI uses POST /api/jobs/ask/{sym} + polling so a
+    slow answer can't hit proxy timeouts.)"""
     backend = _ai_backend()
     if backend is None:
         raise HTTPException(503, "AI is off — log in the Claude Code CLI or set ANTHROPIC_API_KEY")
@@ -646,6 +687,10 @@ def ask(sym: str, payload: dict):
         raise HTTPException(422, "missing 'question'")
     if sym not in _const_map:
         raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    return _answer_question(sym, question, backend)
+
+
+def _answer_question(sym: str, question: str, backend: str) -> dict:
 
     # Ground the answer in the SAME AnalystSkill records the page shows
     # (all cached at this point in the normal flow).
@@ -689,11 +734,21 @@ def ask(sym: str, payload: dict):
                                           "why": p["derivation"]}
                                       for k, p in rt["pillars"].items()}},
                          default=str)[:3500]
+    cmp_json = _comparison_grounding(sym)
+    cmp_block = (
+        f"ONE-YEAR COMPARISON (how the last year moved vs the long-term "
+        f"view — 'improved'/'regressed' lists carry both sides' "
+        f"evidence):\n{cmp_json}\n\n" if cmp_json else
+        "ONE-YEAR COMPARISON: not computed yet for this company — if the "
+        "question asks about recent movement, say the then-vs-now "
+        "comparison hasn't been run and offer what the records above "
+        "show instead.\n\n")
     prompt = (
         f"You are explaining an investment analysis for {out['name']} "
         f"({sym}). Answer the user's question USING ONLY the stored records "
         "below (business overview, quality framework scores, multibagger-"
-        "pattern verdicts, risk verdicts, the combined rating) and the "
+        "pattern verdicts, risk verdicts, the combined rating, and the "
+        "one-year then-vs-now comparison when present) and the "
         "concall excerpts. "
         "Rules: cite the specific check names, pattern/risk names, "
         "numbers, or verbatim quotes you rely on — use the plain display "
@@ -702,6 +757,7 @@ def ask(sym: str, payload: dict):
         "records and excerpts don't contain the answer, say so plainly — "
         "never invent. Be concise (<= 200 words).\n\n"
         f"QUESTION: {question}\n\n"
+        f"{cmp_block}"
         f"COMBINED RATING (0-100):\n{rt_json}\n\n"
         f"QUALITY-FRAMEWORK RECORD (scores are -2..+2):\n{record_json}\n\n"
         f"MULTIBAGGER-PATTERN VERDICTS:\n{mb_json}\n\n"
@@ -738,6 +794,7 @@ def ask(sym: str, payload: dict):
 def refresh():
     with _lock:
         _drop_caches()
+    CB.drop_caches()
     return {"ok": True, "message": "caches dropped; next request recomputes"}
 
 
@@ -764,18 +821,7 @@ def risks(sym: str, quick: int = 0):
     return {"symbol": sym, "status": status, "record": rec}
 
 
-@app.get("/api/analysis/{sym}")
-def analysis(sym: str, quick: int = 0):
-    """THE company view: the AnalystSkill runs all three sibling skills
-    (plus any auto-discovered extensions) ONCE and returns both the
-    structured records the page renders and the composed Markdown report
-    for download — the page and the file can never disagree. First run of
-    a company takes several minutes (deep Opus reads of its concall
-    history + overview + grounded summary); everything is cached after."""
-    sym = sym.upper()
-    if sym not in _const_map:
-        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
-    ai = not quick and _ai_backend() is not None
+def _analysis_payload(sym: str, ai: bool) -> dict:
     out = AB.full_analysis(sym, ai=ai)
     lv = _live_map().get(sym, {})
     out["market"] = {"mcap": lv.get("market_cap_rs_cr"),
@@ -785,6 +831,147 @@ def analysis(sym: str, quick: int = 0):
     for m, d in out["business"]["modules"].items():
         d["weight"] = S.DEFAULT_MODULE_WEIGHTS.get(m, 1.0)
     return out
+
+
+@app.get("/api/analysis/{sym}")
+def analysis(sym: str, quick: int = 0):
+    """THE company view: the AnalystSkill runs all three sibling skills
+    (plus any auto-discovered extensions) ONCE and returns both the
+    structured records the page renders and the composed Markdown report
+    for download — the page and the file can never disagree. First run of
+    a company takes several minutes (deep Opus reads of its concall
+    history + overview + grounded summary); everything is cached after.
+
+    NOTE: this is the synchronous form — fine for scripts and local use,
+    but a first-run AI analysis outlives proxy timeouts (Codespaces port
+    forwarding kills requests after ~100s). The UI uses the job form
+    below (/api/jobs/...) which is immune to that."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    return _analysis_payload(sym, ai)
+
+
+# ------------------------------------------------- proxy-proof job endpoints
+# One long HTTP request dies at intermediary proxies (GitHub Codespaces
+# port forwarding kills anything over ~100s — the "Analysis failed" bug).
+# So the UI starts a job with a short POST and polls with short GETs; the
+# actual work runs in a server thread and NOTHING client-visible ever
+# stays open long enough to time out.
+_jobs: dict = {}
+_jobs_lock = threading.Lock()
+JOB_KINDS = {"analysis", "comparison"}
+
+
+def _job_start(kind: str, sym: str, fn) -> dict:
+    key = f"{kind}:{sym}"
+    with _jobs_lock:
+        # prune finished jobs older than an hour so the dict can't grow
+        cutoff = time.time() - 3600
+        for k in [k for k, j in _jobs.items()
+                  if j["state"] != "running" and j["started"] < cutoff]:
+            _jobs.pop(k, None)
+        j = _jobs.get(key)
+        if j and j["state"] == "running":
+            return {"job": key, "state": "running"}   # already on it
+        _jobs[key] = {"state": "running", "started": time.time(),
+                      "result": None, "error": None}
+
+    def run():
+        try:
+            res = fn()
+            _jobs[key].update(state="done", result=res)
+        except Exception as e:
+            _jobs[key].update(state="error", error=str(e)[:400])
+
+    threading.Thread(target=run, daemon=True).start()
+    return {"job": key, "state": "running"}
+
+
+@app.post("/api/jobs/{kind}/{sym}")
+def job_start(kind: str, sym: str, quick: int = 0,
+              payload: dict | None = None):
+    """Kick off work in the background (idempotent for analysis/comparison —
+    re-POSTing while one runs just reports 'running'). Poll the GET twin.
+    kind 'ask' takes {"question": ...} in the body and returns a fresh job
+    id per question."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    if kind == "ask":
+        backend = _ai_backend()
+        if backend is None:
+            raise HTTPException(503, "AI is off — log in the Claude Code "
+                                     "CLI or set ANTHROPIC_API_KEY")
+        question = (payload or {}).get("question", "").strip()
+        if not question:
+            raise HTTPException(422, "missing 'question'")
+        job_id = uuid.uuid4().hex.upper()
+        return _job_start("ask", job_id,
+                          lambda: _answer_question(sym, question, backend))
+    if kind not in JOB_KINDS:
+        raise HTTPException(404, f"unknown job kind '{kind}'")
+    ai = not quick and _ai_backend() is not None
+    fn = ((lambda: _analysis_payload(sym, ai)) if kind == "analysis"
+          else (lambda: CB.full_comparison(sym, ai=ai)))
+    return _job_start(kind, sym, fn)
+
+
+@app.get("/api/jobs/{kind}/{sym}")
+def job_status(kind: str, sym: str):
+    """Job status; carries the full result once done. Each poll returns in
+    milliseconds, so no proxy on the path ever sees a long request."""
+    sym = sym.upper()
+    key = f"{kind}:{sym}"
+    j = _jobs.get(key)
+    if j is None:
+        raise HTTPException(404, f"no such job: {key} (POST it first)")
+    out = {"job": key, "state": j["state"],
+           "elapsed": round(time.time() - j["started"], 1)}
+    if j["state"] == "done":
+        out["result"] = j["result"]
+    elif j["state"] == "error":
+        out["error"] = j["error"]
+    return out
+
+
+@app.get("/api/comparison/{sym}")
+def comparison(sym: str, quick: int = 0):
+    """The one-year comparison panel: the ComparisonSkill runs the full
+    AnalystSkill view and the RecentAnalystSkill one-year view (each in
+    its own subprocess, judge caches reused) and returns the structured
+    then-vs-now record PLUS its composed Markdown — one computation, so
+    the panel and the downloadable file can never disagree. First run of
+    a company is the slowest call in the app (both views compute);
+    everything after is cached."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    try:
+        return CB.full_comparison(sym, ai=ai)
+    except Exception as e:
+        raise HTTPException(502, f"comparison failed: {str(e)[:300]}")
+
+
+@app.get("/api/comparison_report/{sym}")
+def comparison_report(sym: str, quick: int = 0):
+    """The downloadable then-vs-now report — the SAME ComparisonSkill
+    composition the /api/comparison panel renders (cached, so this is
+    instant after the panel has loaded)."""
+    from fastapi.responses import Response
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    ai = not quick and _ai_backend() is not None
+    try:
+        md = CB.full_comparison(sym, ai=ai)["md"]
+    except Exception as e:
+        raise HTTPException(502, f"comparison failed: {str(e)[:300]}")
+    return Response(content=md, media_type="text/markdown",
+                    headers={"Content-Disposition":
+                             f'attachment; filename="{sym}_comparison.md"'})
 
 
 @app.get("/api/rating/{sym}")
