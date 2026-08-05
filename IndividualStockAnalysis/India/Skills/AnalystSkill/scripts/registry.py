@@ -187,7 +187,7 @@ def _ba_qual_scores(sym: str) -> list | None:
             cache = {}
     hit = cache.get(sym)
     if hit and hit.get("stamp") == stamp:
-        return hit["scores"]
+        return _plain_speech(hit["scores"])
     prompt = _ba_qual_prompt(sym)
     if prompt is None:
         return None
@@ -209,7 +209,19 @@ def _ba_qual_scores(sym: str) -> list | None:
                 continue
     cache[sym] = {"stamp": stamp, "scores": scores}
     BA_CACHE.write_text(json.dumps(cache))
-    return scores
+    return _plain_speech(scores)
+
+
+def _plain_speech(items: list | None) -> list | None:
+    """Expand analyst shorthand the judge may use in its free-text fields
+    (never the verbatim quote) — readers get plain financial English."""
+    for it in (items or []):
+        if isinstance(it.get("rationale"), str):
+            it["rationale"] = re.sub(r"\b[yY]o[yY]\b", "year-on-year",
+                                     it["rationale"])
+            it["rationale"] = re.sub(r"\b[qQ]o[qQ]\b", "quarter-on-quarter",
+                                     it["rationale"])
+    return items
 
 
 def run_business(sym: str, ai: bool = True) -> tuple[dict, str]:

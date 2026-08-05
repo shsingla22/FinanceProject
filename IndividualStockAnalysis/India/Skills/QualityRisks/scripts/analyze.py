@@ -134,7 +134,7 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
             cache = {}
     hit = cache.get(sym)
     if use_cache and hit and hit.get("stamp") == stamp:
-        return hit["by_risk"]
+        return _plain_speech(hit["by_risk"])
 
     prompt = _qual_prompt(sym, tax)
     if prompt is None:
@@ -149,7 +149,18 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
         raise RuntimeError("could not parse judge output")
     cache[sym] = {"stamp": stamp, "by_risk": by_risk}
     CACHE.write_text(json.dumps(cache))
-    return by_risk
+    return _plain_speech(by_risk)
+
+
+def _plain_speech(by_id: dict | None) -> dict | None:
+    """Expand analyst shorthand the judge may use in its free-text fields
+    (never the verbatim quote) — readers get plain financial English."""
+    for it in (by_id or {}).values():
+        for k in ("rationale", "mitigant"):
+            if isinstance(it.get(k), str):
+                it[k] = re.sub(r"\b[yY]o[yY]\b", "year-on-year", it[k])
+                it[k] = re.sub(r"\b[qQ]o[qQ]\b", "quarter-on-quarter", it[k])
+    return by_id
 
 
 def parse_judge(stdout: str) -> dict | None:

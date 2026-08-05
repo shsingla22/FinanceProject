@@ -128,7 +128,7 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
             cache = {}
     hit = cache.get(sym)
     if use_cache and hit and hit.get("stamp") == stamp:
-        return hit["by_pattern"]
+        return _plain_speech(hit["by_pattern"])
 
     prompt = _qual_prompt(sym, tax)
     if prompt is None:
@@ -153,7 +153,18 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
     by_pattern = {it["id"]: it for it in items if it.get("id")}
     cache[sym] = {"stamp": stamp, "by_pattern": by_pattern}
     CACHE.write_text(json.dumps(cache))
-    return by_pattern
+    return _plain_speech(by_pattern)
+
+
+def _plain_speech(by_id: dict | None) -> dict | None:
+    """Expand analyst shorthand the judge may use in its free-text fields
+    (never the verbatim quote) — readers get plain financial English."""
+    for it in (by_id or {}).values():
+        for k in ("rationale", "mitigant"):
+            if isinstance(it.get(k), str):
+                it[k] = re.sub(r"\b[yY]o[yY]\b", "year-on-year", it[k])
+                it[k] = re.sub(r"\b[qQ]o[qQ]\b", "quarter-on-quarter", it[k])
+    return by_id
 
 
 # ------------------------------------------------------------- report

@@ -38,7 +38,12 @@ COMPARISON_SECTIONS = [
     "## How this comparison was built",
 ]
 JARGON = [r"\b(CAP|ROC|GRW|MGT|IND|CUS|MOAT)\.[a-z_]+", r"\bopm\b",
-          r"\byoy\b", r"\b1 days\b", r"\bnan\b", r"\bNone\b(?! of)",
+          r"\byoy\b", r"\b1 days\b", r"\bnan\b",
+          # a raw Python None leaking into a template slot ("score None",
+          # "None/100", ": None" with nothing after) — NOT the English
+          # word followed by more prose ("None material — …")
+          r":\s*None\b(?!\s+\w)", r"\bNone/", r"\(None\)", r"\bNone\s*$",
+          r"score None\b",
           r"1 checks\b", r"1 fingerprints\b", r"1 high risks\b"]
 
 
