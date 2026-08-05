@@ -1,3 +1,3 @@
-.qual_cache.json
-.synth_cache.json
-.overview_cache.json
+__pycache__/
+*.pyc
+.pytest_cache/
