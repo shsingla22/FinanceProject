@@ -19,7 +19,7 @@ LOG=/tmp/qa_batch_${START}_${COUNT}.log
 
 cd "$REPO"
 
-if pgrep -f "analyze_batch.py run" >/dev/null; then
+if pgrep -f "python3 analyze_batch[.]py run" >/dev/null; then
   echo "ALREADY RUNNING: $(grep -cE '^\[' "$LOG" 2>/dev/null || echo '?') companies logged so far"
   exit 0
 fi
@@ -60,7 +60,7 @@ echo "batch pid $!"
 nohup bash -c '
 cd '"$REPO"'
 QA='"$QA"'
-while pgrep -f "analyze_batch.py run" >/dev/null; do
+while pgrep -f "python3 analyze_batch[.]py run" >/dev/null; do
   sleep 1800
   cd "$QA"
   for a in *_analysis.md; do
