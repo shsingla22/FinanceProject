@@ -48,6 +48,16 @@ EOF
 )
 if [ "$expected" = "0" ]; then
   echo "COMPLETE: all $COUNT companies of batch start=$START have both reports"
+  # chain: if a successor range is registered, watch that one instead —
+  # lets an existing scheduled watchdog roll forward to the next batch
+  CHAIN="$QA/_watchdog_chain"
+  if [ -f "$CHAIN" ]; then
+    read -r NEXT_START NEXT_COUNT < "$CHAIN"
+    if [ -n "$NEXT_START" ] && [ "$NEXT_START" != "$START" ]; then
+      echo "CHAIN: -> start=$NEXT_START count=$NEXT_COUNT"
+      exec bash "$0" "$NEXT_START" "$NEXT_COUNT"
+    fi
+  fi
   exit 0
 fi
 
