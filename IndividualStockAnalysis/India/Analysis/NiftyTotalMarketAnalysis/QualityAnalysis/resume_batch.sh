@@ -71,7 +71,7 @@ nohup bash -c '
 cd '"$REPO"'
 QA='"$QA"'
 while pgrep -f "python3 analyze_batch[.]py run" >/dev/null; do
-  sleep 1800
+  sleep 300
   cd "$QA"
   for a in *_analysis.md; do
     s="${a%_analysis.md}"
