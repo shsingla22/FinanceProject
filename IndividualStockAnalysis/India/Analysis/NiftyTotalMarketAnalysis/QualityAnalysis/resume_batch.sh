@@ -29,7 +29,12 @@ git fetch -q origin "$BRANCH" || true
 if [ "$(git branch --show-current)" != "$BRANCH" ]; then
   git checkout -q "$BRANCH" 2>/dev/null || git checkout -qb "$BRANCH" "origin/$BRANCH"
 fi
-git merge -q --ff-only "origin/$BRANCH" 2>/dev/null || true
+# HARD sync to the remote: a fresh container can clone a stale snapshot,
+# and local scratch (the batch log) blocks a fast-forward merge. With
+# 5-minute checkpoints at most one company of local work can be newer
+# than origin — a stale base silently redoing pushed companies (and then
+# failing to push) costs far more.
+git reset --hard -q "origin/$BRANCH" 2>/dev/null || true
 python3 -c "import pandas, PyPDF2" 2>/dev/null || pip install -q pandas PyPDF2
 
 # done already?
