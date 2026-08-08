@@ -38,7 +38,7 @@ COMPARISON_SECTIONS = [
     "## How this comparison was built",
 ]
 JARGON = [r"\b(CAP|ROC|GRW|MGT|IND|CUS|MOAT)\.[a-z_]+", r"\bopm\b",
-          r"\byoy\b", r"\b1 days\b", r"\bnan\b",
+          r"\byoy\b", r"(?<![\d.])\b1 days\b", r"\bnan\b",
           # a raw Python None leaking into a template slot ("score None",
           # "None/100", ": None" with nothing after) — NOT the English
           # word followed by more prose ("None material — …")
@@ -50,7 +50,7 @@ JARGON = [r"\b(CAP|ROC|GRW|MGT|IND|CUS|MOAT)\.[a-z_]+", r"\bopm\b",
 def _body(md: str) -> str:
     """Strip quoted transcript lines — verbatim management speech may
     legitimately contain anything."""
-    return re.sub(r"^> .*$", "", md, flags=re.M)
+    return re.sub(r"^\s*> .*$", "", md, flags=re.M)
 
 
 def _sections_ok(md: str, sections: list[str]) -> str | None:
