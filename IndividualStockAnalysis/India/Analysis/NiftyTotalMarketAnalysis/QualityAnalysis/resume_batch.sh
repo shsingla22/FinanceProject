@@ -19,6 +19,12 @@ LOG=/tmp/qa_batch_${START}_${COUNT}.log
 
 cd "$REPO"
 
+# user-requested pause: while this flag file exists, never launch anything
+if [ -f "$QA/_paused" ]; then
+  echo "PAUSED: batch is paused by user request ($QA/_paused) — remove the file to resume"
+  exit 0
+fi
+
 if pgrep -f "python3 analyze_batch[.]py run" >/dev/null; then
   echo "ALREADY RUNNING: $(grep -cE '^\[' "$LOG" 2>/dev/null || echo '?') companies logged so far"
   exit 0
