@@ -110,18 +110,20 @@ def combine(pattern: dict, checks: dict, qual: dict | None) -> dict:
     quant_all = avail > 0 and q["failed"] == 0
     quant_majority = avail > 0 and q["passed"] >= q["failed"]
     fit = (qual or {}).get("fit")
+    of_avail = (f"{q['passed']} of {avail} "
+                f"check{'s' if avail != 1 else ''}")
 
     if fit == "strong" and (avail == 0 or quant_majority):
         verdict = "STRONG FIT"
         derivation = ("the calls confirm the pattern with clear, repeated "
                       "evidence"
-                      + (f" and the numbers agree ({q['passed']} of {avail} "
-                         f"computable checks supporting)." if avail else
+                      + (f" and the numbers agree ({of_avail} computable "
+                         f"supporting)." if avail else
                          " (no computable check applies — the calls decide)."))
     elif fit == "strong":
         verdict = "LIKELY FIT"          # judge convinced, numbers push back
         derivation = (f"the calls confirm the pattern, but the numbers push "
-                      f"back ({q['passed']} of {avail} checks supporting) — "
+                      f"back ({of_avail} supporting) — "
                       f"held one step below a full confirmation.")
     elif fit == "partial" and quant_all and avail > 0:
         verdict = "LIKELY FIT"
@@ -133,14 +135,14 @@ def combine(pattern: dict, checks: dict, qual: dict | None) -> dict:
     elif fit == "partial":
         verdict = "PARTIAL"
         derivation = ("the calls show some of the traits"
-                      + (f", with mixed numbers ({q['passed']} of {avail} "
-                         f"checks supporting)." if avail else
+                      + (f", with mixed numbers ({of_avail} supporting)."
+                         if avail else
                          " and no computable check to cross-check."))
     elif fit == "none":
         verdict = "NO FIT"
         derivation = ("the calls contradict the pattern — that grounded "
                       "reading overrides any supportive numbers"
-                      + (f" ({q['passed']} of {avail} checks had pointed this "
+                      + (f" ({of_avail} had pointed this "
                          f"way)." if q["passed"] else "."))
     elif fit in (None, "null") and quant_all and avail > 0:
         verdict = "QUANT SIGNAL"
@@ -155,7 +157,7 @@ def combine(pattern: dict, checks: dict, qual: dict | None) -> dict:
         derivation = ("the calls are silent and no computable check "
                       "supports the pattern." if q["passed"] == 0 else
                       f"the calls are silent and the numbers are mixed "
-                      f"({q['passed']} of {avail} checks supporting).")
+                      f"({of_avail} supporting).")
     else:
         verdict = "NOT ASSESSED"
         derivation = ("neither the calls nor the numbers offered usable "
