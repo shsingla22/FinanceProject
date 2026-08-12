@@ -112,6 +112,11 @@ def cmd_run(args) -> None:
     rows, done, failed = [], 0, 0
     t0 = time.time()
     for i, sym in enumerate(syms, 1):
+        # user-requested pause: stop cleanly between companies
+        if (HERE / "_paused").exists():
+            print(f"PAUSED after {i - 1} companies — _paused flag present, "
+                  "stopping (remove the flag to resume)", flush=True)
+            break
         r = process(sym, args.quick)
         rows.append(r)
         done += r["status"].startswith(("ok", "skip"))
