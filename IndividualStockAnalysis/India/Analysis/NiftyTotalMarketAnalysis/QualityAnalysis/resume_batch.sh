@@ -30,8 +30,21 @@ if pgrep -f "python3 analyze_batch[.]py run" >/dev/null; then
   exit 0
 fi
 
-# fresh container? make sure we're on the batch branch with latest work
-git fetch -q origin "$BRANCH" || true
+# fresh container? make sure we're on the batch branch with latest work.
+# The fetch MUST succeed before anything is launched: a fresh container can
+# hold a stale clone that predates the pause flag / newest reports, so
+# acting on unfetched state can relaunch a paused batch or redo pushed
+# work. Retry with backoff — first fetch on a cold container can fail.
+fetched=no
+for wait in 2 4 8 16; do
+  if git fetch -q origin "$BRANCH"; then fetched=yes; break; fi
+  echo "fetch failed — retrying in ${wait}s"
+  sleep "$wait"
+done
+if [ "$fetched" = no ]; then
+  echo "ABORT: cannot fetch origin/$BRANCH — refusing to act on possibly stale state"
+  exit 1
+fi
 if [ "$(git branch --show-current)" != "$BRANCH" ]; then
   git checkout -q "$BRANCH" 2>/dev/null || git checkout -qb "$BRANCH" "origin/$BRANCH"
 fi
@@ -41,6 +54,15 @@ fi
 # than origin — a stale base silently redoing pushed companies (and then
 # failing to push) costs far more.
 git reset --hard -q "origin/$BRANCH" 2>/dev/null || true
+
+# re-check the pause flag AFTER the sync: on a stale clone the flag may
+# only exist in the freshly-fetched state (this exact miss once relaunched
+# a user-paused batch from a recycled container)
+if [ -f "$QA/_paused" ]; then
+  echo "PAUSED: batch is paused by user request ($QA/_paused) — remove the file to resume"
+  exit 0
+fi
+
 python3 -c "import pandas, PyPDF2" 2>/dev/null || pip install -q pandas PyPDF2
 
 # done already?
