@@ -162,9 +162,16 @@ function inlineMd(s) {
 function mdToHtml(md, collapseFrom) {
   const lines = md.split("\n");
   const out = [];
-  let list = null, table = null, quote = null, para = [];
+  let list = null, table = null, quote = null, para = [], fence = null;
   const flushPara = () => {
-    if (para.length) { out.push(`<p>${inlineMd(para.join(" "))}</p>`); para = []; }
+    if (!para.length) return;
+    const txt = para.join(" ");
+    // the reports' legend for their ASCII bars — we draw real charts
+    // instead, so swap the stale legend for one that matches the page
+    out.push(/[█▒]/.test(txt)
+      ? `<p><em>The same yearly figures the checks below judged — hover any bar for the exact value.</em></p>`
+      : `<p>${inlineMd(txt)}</p>`);
+    para = [];
   };
   const flushList = () => { if (list) { out.push(`<ul>${list.join("")}</ul>`); list = null; } };
   const flushTable = () => {
@@ -182,11 +189,17 @@ function mdToHtml(md, collapseFrom) {
   const flushAll = () => { flushPara(); flushList(); flushTable(); flushQuote(); };
   for (const raw of lines) {
     const line = raw.replace(/\s+$/, "");
+    if (fence !== null) {                       // inside a ``` code fence
+      if (/^```\s*$/.test(line)) { out.push(fencedBlock(fence, out)); fence = null; }
+      else fence.push(raw);
+      continue;
+    }
+    if (/^```/.test(line)) { flushAll(); fence = []; continue; }
     const h = line.match(/^(#{1,4})\s+(.*)$/);
     if (h) {
       flushAll();
       const lvl = h[1].length;
-      out.push({ heading: true, lvl, html: inlineMd(h[2]) });
+      out.push({ heading: true, lvl, text: h[2], html: inlineMd(h[2]) });
       continue;
     }
     if (/^(\s*)[-*]\s+/.test(line)) {
@@ -215,22 +228,116 @@ function mdToHtml(md, collapseFrom) {
     para.push(line.trim());
   }
   flushAll();
+  if (fence !== null) out.push(fencedBlock(fence, out));   // unterminated fence
   // Fold the document into sections: heading levels >= collapseFrom become
-  // collapsible <details> so a long report reads as an outline.
+  // collapsible <details>, CLOSED by default, each carrying its verdict in
+  // the headline so the folded page still tells the story at a glance.
   return foldSections(out, collapseFrom || 2);
+}
+
+/* ---- fenced blocks: the reports draw yearly figures as ASCII bar charts
+   (FY2006  █████  1,129). Rebuild those as REAL SVG charts; anything else
+   stays a <pre> so nothing ever renders as mushed-together glyphs. ---- */
+
+const ASCII_ROW_RE = /^FY(\d{4})\s+[█▒\s]*?(-?[\d,]+(?:\.\d+)?)\s*(%|days?|)(?:\s|$)/;
+
+function fencedBlock(lines, out) {
+  const rows = lines.filter(l => l.trim() !== "");
+  const parsed = rows.map(l => l.match(ASCII_ROW_RE));
+  if (rows.length >= 3 && parsed.every(Boolean)) {
+    const labels = parsed.map(m => "FY" + m[1]);
+    const values = parsed.map(m => parseFloat(m[2].replace(/,/g, "")));
+    let unit = parsed[0][3] ? (parsed[0][3].startsWith("day") ? "days" : parsed[0][3]) : "";
+    // caption = the bold intro line the report puts just above the block
+    let title = "Yearly figures";
+    const prev = out[out.length - 1];
+    if (typeof prev === "string") {
+      const m = prev.match(/^<p><strong>(.+?)<\/strong>\s*<\/p>$/);
+      if (m) { title = m[1].replace(/<[^>]+>/g, ""); out.pop(); }
+    }
+    if (!unit && /₹|crore|\bcr\b/i.test(title)) unit = "₹ Cr";
+    return chartSvg({ title, unit, kind: "bar" }, labels, values);
+  }
+  return `<pre class="mdcode">${esc(lines.join("\n"))}</pre>`;
+}
+
+/* ---- verdicts surfaced into the section headlines ---- */
+
+const VERDICT_VOCAB = [
+  ["STRONG FIT", "pos"], ["LIKELY FIT", "pos"], ["QUANT SIGNAL", "mid"],
+  ["PARTIAL", "mid"], ["NO FIT", "neg"], ["NOT ASSESSED", "mid"],
+  ["HIGH RISK", "neg"], ["ELEVATED", "neg"], ["QUANT FLAG", "mid"],
+  ["WATCH", "warn"], ["NO SIGNAL", "pos"], ["LOW", "pos"],
+  ["Excellent", "pos"], ["Outstanding", "pos"], ["Strong", "pos"],
+  ["Good", "pos"], ["Decent", "mid"], ["Mixed", "mid"],
+  ["Weak", "neg"], ["Poor", "neg"], ["Not rated", "mid"],
+  ["IMPROVED", "pos"], ["DECLINED", "neg"], ["HELD STEADY", "mid"],
+];
+
+function verdictBadge(fragment) {
+  const t = fragment.trim().replace(/[★☆➡️📈📉⬜]/gu, "").trim();
+  for (const [word, cls] of VERDICT_VOCAB) {
+    if (t === word || t.startsWith(word + " ") || t.startsWith(word + ",")
+        || t.endsWith(" " + word)) return { word, cls };
+  }
+  return null;
+}
+
+function classifyText(text) {
+  for (const [word, cls] of VERDICT_VOCAB)
+    if (text.includes(word)) return cls;
+  return "mid";
+}
+
+const stripTags = s => String(s).replace(/<[^>]+>/g, "");
+
+// "Section 1 — How good…", "Step 2 — Where…", "Bucket 3 — Risks…" →
+// call each part by what it actually does, not by a number.
+const renameHeading = t => t.replace(/^(Section|Step|Bucket)\s+\d+\s+—\s+/, "");
+
+function summaryFor(nodes, i, titleText) {
+  // A verdict the reader can see WITHOUT opening the section: prefer an
+  // explicit verdict in the heading ("Brand Strength — STRONG FIT"), else
+  // the section's own opening "Overall…" line.
+  const parts = titleText.split(" — ");
+  if (parts.length >= 2) {
+    const b = verdictBadge(parts[parts.length - 1]);
+    if (b) return { title: parts.slice(0, -1).join(" — "),
+                    badge: `<span class="vbadge ${b.cls}">${esc(parts[parts.length - 1].trim())}</span>`,
+                    snippet: "" };
+  }
+  const lvl = nodes[i].lvl;
+  for (let j = i + 1; j < nodes.length; j++) {
+    const n = nodes[j];
+    if (n && n.heading) { if (n.lvl <= lvl) break; continue; }
+    if (typeof n === "string" && n.startsWith("<p>")) {
+      let text = stripTags(n).replace(/^Overall:?\s*/i, "").trim();
+      const cut = text.indexOf(". ");
+      if (cut > 40) text = text.slice(0, cut + 1);
+      if (text.length > 150) text = text.slice(0, 147) + "…";
+      const b = verdictBadge(text);
+      return { title: titleText,
+               badge: b ? `<span class="vbadge ${b.cls}">${esc(b.word)}</span>` : "",
+               snippet: `<span class="sum-note ${classifyText(text)}-t">${esc(text)}</span>` };
+    }
+  }
+  return { title: titleText, badge: "", snippet: "" };
 }
 
 function foldSections(nodes, collapseFrom) {
   let html = "", open = 0;
-  for (const n of nodes) {
+  for (let i = 0; i < nodes.length; i++) {
+    const n = nodes[i];
     if (n && n.heading) {
+      const title = renameHeading(n.text);
       if (n.lvl >= collapseFrom) {
         while (open > 0 && open >= n.lvl - collapseFrom + 1) { html += "</details>"; open--; }
-        html += `<details class="mdsec lvl${n.lvl}" open><summary>${n.html}</summary>`;
+        const s = summaryFor(nodes, i, title);
+        html += `<details class="mdsec lvl${n.lvl}"><summary><span class="sum-title">${inlineMd(s.title)}</span>${s.badge}${s.snippet}</summary>`;
         open++;
       } else {
         while (open > 0) { html += "</details>"; open--; }
-        html += `<h${n.lvl + 1} class="mdh">${n.html}</h${n.lvl + 1}>`;
+        html += `<h${n.lvl + 1} class="mdh">${inlineMd(title)}</h${n.lvl + 1}>`;
       }
     } else {
       html += n;
@@ -358,7 +465,7 @@ async function renderCompany(sym) {
 
   cardIn(main, `<h2>The analyst's report</h2>
     <p class="note">The complete stored workup — every check, pattern and risk with its why.
-    Click any section heading to fold or unfold it.</p>
+    Sections start folded with their verdict in the headline; click any headline to open it.</p>
     <div class="mdreport">${mdToHtml(a.md, 2)}</div>`);
 
   cardIn(aside, `<h2>Then vs now — the last one year</h2>

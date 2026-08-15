@@ -129,10 +129,36 @@ main.wrap:has(.duo) { max-width: 1600px; }
 h2.mdh { font-size: 19px; }
 details.mdsec { border: 1px solid var(--line); border-radius: 10px;
   padding: 10px 14px; margin: 8px 0; }
-details.mdsec summary { cursor: pointer; font-weight: 700; font-size: 15px; }
-details.mdsec.lvl3 summary { font-size: 14px; color: var(--text-secondary); }
+details.mdsec summary { cursor: pointer; font-weight: 700; font-size: 15px;
+  display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+details.mdsec summary .sum-title { flex-shrink: 0; }
+details.mdsec.lvl3 summary { font-size: 14px; }
+details.mdsec.lvl3 summary .sum-title { color: var(--text-secondary); }
 details.mdsec.lvl4 { border-style: dashed; }
-details.mdsec.lvl4 summary { font-size: 13.5px; color: var(--text-secondary); font-weight: 600; }
+details.mdsec.lvl4 summary { font-size: 13.5px; font-weight: 600; }
+details.mdsec.lvl4 summary .sum-title { color: var(--text-secondary); }
+
+/* verdict surfaced into the folded headline */
+.vbadge { font-size: 12px; font-weight: 700; padding: 1px 10px; border-radius: 999px;
+  border: 1px solid var(--line); white-space: nowrap; }
+.vbadge.pos { color: var(--series-1); background: color-mix(in srgb, var(--series-1) 12%, transparent); }
+.vbadge.neg { color: var(--neg); background: color-mix(in srgb, var(--neg) 12%, transparent); }
+.vbadge.mid { color: var(--text-secondary); background: var(--chip-bg); }
+.vbadge.warn { color: #a06a00; background: color-mix(in srgb, #e8a13a 16%, transparent); }
+@media (prefers-color-scheme: dark) { .vbadge.warn { color: #e8b45f; } }
+.sum-note { font-weight: 400; font-size: 12.5px; color: var(--text-muted);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  flex: 1 1 200px; min-width: 0; }
+.sum-note.pos-t { color: var(--series-1); }
+.sum-note.neg-t { color: var(--neg); }
+.sum-note.warn-t { color: #a06a00; }
+@media (prefers-color-scheme: dark) { .sum-note.warn-t { color: #e8b45f; } }
+details[open] > summary .sum-note { white-space: normal; }
+
+pre.mdcode { background: var(--surface-0); border: 1px solid var(--line);
+  border-radius: 8px; padding: 10px 12px; overflow-x: auto;
+  font: 12px/1.5 ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+.mdreport figure.chart { max-width: 420px; margin: 10px 0; }
 
 /* --- financial charts (inline SVG) --- */
 .charts { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
