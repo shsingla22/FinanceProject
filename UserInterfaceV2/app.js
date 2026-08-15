@@ -51,9 +51,10 @@ async function init() {
     hay: (sym + " " + (c.name || "")).toUpperCase(),
   }));
   state.ready = true;
-  setStatus(`<strong>${state.data.n_analysed}</strong> of ${state.data.n} companies have
-    stored reports — every view is instant.` + (state.ai ? "" :
-    " <em>(Q&amp;A runs in extract-from-report mode — AI is off.)</em>"));
+  setStatus("");
+  const cov = document.getElementById("coverage");
+  if (cov) cov.textContent =
+    `Covering ${state.data.n_analysed} of ${state.data.n} NSE-listed companies today.`;
   if (state.pendingQ) { const q = state.pendingQ; state.pendingQ = null; safeHandle(q); }
 }
 
@@ -123,7 +124,7 @@ function handle(q) {
 const $out = () => document.getElementById("out");
 function echo(q) { $out().insertAdjacentHTML("beforeend", `<div class="you">You asked: “${esc(q)}”</div>`); }
 function card(html) { $out().insertAdjacentHTML("beforeend", `<div class="card">${html}</div>`); }
-function cardIn(el, html) { el.insertAdjacentHTML("beforeend", `<div class="card">${html}</div>`); }
+function cardIn(el, html, cls) { el.insertAdjacentHTML("beforeend", `<div class="card${cls ? " " + cls : ""}">${html}</div>`); }
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 const fmtCr = v => v == null ? "—" : v >= 1e5 ? (v / 1e5).toFixed(1) + " L Cr" : Math.round(v).toLocaleString("en-IN") + " Cr";
 const fmtNum = v => Math.abs(v) >= 1000 ? Math.round(v).toLocaleString("en-IN") : (Math.round(v * 10) / 10);
@@ -295,40 +296,97 @@ const stripTags = s => String(s).replace(/<[^>]+>/g, "");
 // call each part by what it actually does, not by a number.
 const renameHeading = t => t.replace(/^(Section|Step|Bucket)\s+\d+\s+—\s+/, "");
 
-function summaryFor(nodes, i, titleText) {
-  // A verdict the reader can see WITHOUT opening the section: prefer an
-  // explicit verdict in the heading ("Brand Strength — STRONG FIT"), else
-  // the section's own opening "Overall…" line.
-  const parts = titleText.split(" — ");
-  if (parts.length >= 2) {
+// Sections that describe internal machinery — never rendered on the site.
+const HIDDEN_SECTION_RE = /^How this (report|comparison) was built/i;
+
+const badgeHtml = (word, cls) => `<span class="vbadge ${cls}">${esc(word)}</span>`;
+
+function childVerdictTally(nodes, i) {
+  // Tally the verdicts of a section's own subsections ("Brand Strength —
+  // STRONG FIT", "New Entrants — WATCH"…) so the folded headline says
+  // what's well and what's not at a glance: "4 STRONG FIT · 1 NO FIT".
+  const lvl = nodes[i].lvl;
+  const counts = new Map();
+  for (let j = i + 1; j < nodes.length; j++) {
+    const n = nodes[j];
+    if (!n || !n.heading) continue;
+    if (n.lvl <= lvl) break;
+    const parts = n.text.split(" — ");
+    if (parts.length < 2) continue;
     const b = verdictBadge(parts[parts.length - 1]);
-    if (b) return { title: parts.slice(0, -1).join(" — "),
-                    badge: `<span class="vbadge ${b.cls}">${esc(parts[parts.length - 1].trim())}</span>`,
-                    snippet: "" };
+    if (b) counts.set(b.word, { cls: b.cls, n: (counts.get(b.word) || { n: 0 }).n + 1 });
   }
+  if (!counts.size) return "";
+  const sev = { neg: 0, warn: 1, mid: 2, pos: 3 };
+  return [...counts.entries()]
+    .sort((a, b) => sev[a[1].cls] - sev[b[1].cls])
+    .map(([word, v]) => badgeHtml(`${v.n} ${word}`, v.cls)).join("");
+}
+
+function firstParagraph(nodes, i) {
   const lvl = nodes[i].lvl;
   for (let j = i + 1; j < nodes.length; j++) {
     const n = nodes[j];
     if (n && n.heading) { if (n.lvl <= lvl) break; continue; }
-    if (typeof n === "string" && n.startsWith("<p>")) {
-      let text = stripTags(n).replace(/^Overall:?\s*/i, "").trim();
-      const cut = text.indexOf(". ");
-      if (cut > 40) text = text.slice(0, cut + 1);
-      if (text.length > 150) text = text.slice(0, 147) + "…";
+    if (typeof n === "string" && n.startsWith("<p>")) return stripTags(n).trim();
+  }
+  return "";
+}
+
+function summaryFor(nodes, i, titleText) {
+  // Every folded headline must carry its verdict. In order of strength:
+  // 1. verdict after a colon    "The overall rating: HELD STEADY …"
+  // 2. verdict after " — "      "Brand Strength — STRONG FIT"
+  // 3. tally of child verdicts  "4 STRONG FIT · 3 LIKELY FIT · 1 NO FIT"
+  // 4. explicit counts / the section's own "Overall…" line, badged
+  const colon = titleText.match(/^([^:]{3,60}):\s+(.+)$/);
+  if (colon) {
+    const b = verdictBadge(colon[2]);
+    if (b) return { title: colon[1],
+                    badge: badgeHtml(colon[2].replace(/[★☆➡️📈📉⬜]/gu, "").trim(), b.cls),
+                    snippet: "" };
+  }
+  const parts = titleText.split(" — ");
+  if (parts.length >= 2) {
+    const b = verdictBadge(parts[parts.length - 1]);
+    if (b) return { title: parts.slice(0, -1).join(" — "),
+                    badge: badgeHtml(parts[parts.length - 1].trim(), b.cls),
+                    snippet: "" };
+  }
+  const para = firstParagraph(nodes, i);
+  let badge = childVerdictTally(nodes, i);
+  let text = para.replace(/^Overall:?\s*/i, "").trim();
+  if (text && !badge) {
+    // pull the count claims forward ("fits 8 of the 11 patterns",
+    // "2 improved, 3 regressed") so the verdict is explicit, not prose
+    const fits = text.match(/fits (\d+) of the (\d+) patterns/);
+    const moves = text.match(/(\d+) (improved|strengthened|eased), (\d+) (regressed|weakened|worsened)/);
+    if (fits) badge = badgeHtml(`fits ${fits[1]} of ${fits[2]} patterns`,
+                                +fits[1] > 0 ? "pos" : "neg");
+    else if (moves) badge = badgeHtml(`▲ ${moves[1]} ${moves[2]}`, +moves[1] ? "pos" : "mid") +
+                            badgeHtml(`▼ ${moves[3]} ${moves[4]}`, +moves[3] ? "neg" : "mid");
+    else {
       const b = verdictBadge(text);
-      return { title: titleText,
-               badge: b ? `<span class="vbadge ${b.cls}">${esc(b.word)}</span>` : "",
-               snippet: `<span class="sum-note ${classifyText(text)}-t">${esc(text)}</span>` };
+      if (b) badge = badgeHtml(b.word, b.cls);
     }
   }
-  return { title: titleText, badge: "", snippet: "" };
+  if (text) {
+    const cut = text.indexOf(". ");
+    if (cut > 40) text = text.slice(0, cut + 1);
+    if (text.length > 150) text = text.slice(0, 147) + "…";
+  }
+  return { title: titleText, badge,
+           snippet: text ? `<span class="sum-note ${classifyText(text)}-t">${esc(text)}</span>` : "" };
 }
 
 function foldSections(nodes, collapseFrom) {
-  let html = "", open = 0;
+  let html = "", open = 0, hiddenBelow = null;
   for (let i = 0; i < nodes.length; i++) {
     const n = nodes[i];
     if (n && n.heading) {
+      if (hiddenBelow !== null && n.lvl > hiddenBelow) continue;
+      hiddenBelow = null;
+      if (HIDDEN_SECTION_RE.test(n.text)) { hiddenBelow = n.lvl; continue; }
       const title = renameHeading(n.text);
       if (n.lvl >= collapseFrom) {
         while (open > 0 && open >= n.lvl - collapseFrom + 1) { html += "</details>"; open--; }
@@ -340,11 +398,29 @@ function foldSections(nodes, collapseFrom) {
         html += `<h${n.lvl + 1} class="mdh">${inlineMd(title)}</h${n.lvl + 1}>`;
       }
     } else {
+      if (hiddenBelow !== null) continue;
       html += n;
     }
   }
   while (open > 0) { html += "</details>"; open--; }
   return html;
+}
+
+/* Reorder the report for display: the company verdict comes FIRST, before
+   anything else; the leading H1 title is dropped (the hero already names
+   the company). Pure string work on the stored MD — downloads untouched. */
+function reorderReportMd(md) {
+  const body = dropPreamble(md);
+  const verdict = extractSection(body, /^The verdict/);
+  if (!verdict) return body;
+  return verdict + "\n\n" + body.replace(verdict, "");
+}
+
+// Everything before the first section heading (the H1 + any preamble that
+// narrates how the report was produced) stays out of the page.
+function dropPreamble(md) {
+  const i = md.search(/^## /m);
+  return i > 0 ? md.slice(i) : md.replace(/^#\s.*\n/, "");
 }
 
 /* ---------------- charts (inline SVG, no libraries) ---------------- */
@@ -407,8 +483,8 @@ function chartsCard(data) {
   if (!figs.length) return `<h2>The numbers as charts</h2>
     <p class="note">Not enough stored yearly figures to chart for this company.</p>`;
   return `<h2>The numbers as charts</h2>
-    <p class="note">Yearly figures from the same screener.in-derived statements the stored
-    analyses judged (₹ figures in crores) — hover any bar or point for the exact value.</p>
+    <p class="note">Yearly figures from the company's financial statements (₹ in crores) —
+    hover any bar or point for the exact value.</p>
     <div class="charts">${figs.join("")}</div>`;
 }
 
@@ -418,13 +494,13 @@ async function renderCompany(sym) {
   const co = state.data.companies[sym];
   if (co && !co.analysed) {
     return card(`<h2>${esc(co.name)} <span class="sym">${sym}</span></h2>
-      <p>This company is in the universe but has <strong>no stored analysis yet</strong> —
-      ${state.data.n_analysed} of ${state.data.n} companies are covered so far.
-      Run the batch analysis for it, or pick an analysed one (try “top 20 companies”).</p>`);
+      <p>This company is <strong>not covered yet</strong> —
+      ${state.data.n_analysed} of ${state.data.n} companies are covered today.
+      Try “top 20 companies” for covered picks.</p>`);
   }
   const ph = document.createElement("div");
   ph.className = "card";
-  ph.innerHTML = `<p>⚡ Loading the stored reports for <strong>${esc(sym)}</strong>…</p>`;
+  ph.innerHTML = `<p>⚡ Opening <strong>${esc(sym)}</strong>…</p>`;
   $out().appendChild(ph);
   let a, c, ch;
   try {
@@ -447,31 +523,41 @@ async function renderCompany(sym) {
   const aside = duo.querySelector(".col-cmp");
 
   const dir = DIR_META[c.direction] || DIR_META["not comparable"];
+  // THE VERDICT FIRST: hero card leads with the rating before anything else.
+  const breath = (a.md.match(/In one breath:\s*([^\n]+)/) || [])[1] || "";
+  const gradeCls = { pos: "", neg: "neg", mid: "mid" }[GRADE_CLS[a.grade] || "mid"];
   cardIn(main, `
+    <div class="hero-inner">
     <div class="co-head"><span class="nm">${esc(a.name)}</span>
       <span class="sym">${sym}</span>
       ${a.industry ? `<span class="tag">${esc(a.industry)}</span>` : ""}
       ${co && co.rank ? `<span class="tag">🏅 rank ${co.rank} of ${state.data.n_analysed}</span>` : ""}</div>
+    <div class="verdict-line">
+      <span class="grade-pill ${gradeCls}">${esc(a.grade || "Not rated")}
+        ${a.score != null ? `<span class="score">${a.score} / 100</span>` : ""}</span>
+      <span class="dir-chip ${dir.cls}">${dir.icon} ${esc((c.direction || "not comparable"))} over the last year</span>
+    </div>
+    ${breath ? `<p class="one-breath">${esc(breath)}</p>` : ""}
     <div class="facts">
-      <div class="fact"><div class="v ${GRADE_CLS[a.grade] || "mid"}">${esc(a.grade || "—")}${a.score != null ? ` · ${a.score}/100` : ""}</div><div class="k">Stored rating</div></div>
-      <div class="fact"><div class="v">${dir.icon} ${esc(c.direction || "—")}</div><div class="k">Last one year</div></div>
       <div class="fact"><div class="v">₹${fmtCr(a.market.mcap)}</div><div class="k">Market cap</div></div>
       <div class="fact"><div class="v">${a.market.pe ?? "—"}</div><div class="k">P/E</div></div>
+      <div class="fact"><div class="v">₹${a.market.price ? a.market.price.toLocaleString("en-IN") : "—"}</div><div class="k">Price</div></div>
     </div>
-    <p class="note">Served instantly from the stored, validated reports — no recomputation.
-    <a class="chip" id="dl-${sym}" href="api/report/${sym}" download="${sym}_analysis.md">📄 Download the analysis (Markdown)</a></p>`);
+    <p class="note"><a class="chip" id="dl-${sym}" href="api/report/${sym}" download="${sym}_analysis.md">📄 Full report (Markdown)</a>
+      <a class="chip" id="dlc-${sym}" href="api/comparison_report/${sym}" download="${sym}_comparison.md">📄 One-year comparison (Markdown)</a></p>
+    </div>`, "hero");
 
   if (ch) cardIn(main, chartsCard(ch));
 
-  cardIn(main, `<h2>The analyst's report</h2>
-    <p class="note">The complete stored workup — every check, pattern and risk with its why.
-    Sections start folded with their verdict in the headline; click any headline to open it.</p>
-    <div class="mdreport">${mdToHtml(a.md, 2)}</div>`);
+  cardIn(main, `<h2>The research</h2>
+    <p class="note">Every check, pattern and risk with its why — folded, verdicts in the
+    headlines. Click any headline to open it.</p>
+    <div class="mdreport">${mdToHtml(reorderReportMd(a.md), 2)}</div>`);
 
-  cardIn(aside, `<h2>Then vs now — the last one year</h2>
-    <div class="scoreline"><span class="big-score ${dir.cls}" style="font-size:20px">${dir.icon} ${esc((c.direction || "not comparable").toUpperCase())} in the last year</span></div>
-    <p class="note"><a class="chip" id="dlc-${sym}" href="api/comparison_report/${sym}" download="${sym}_comparison.md">📄 Download the comparison (Markdown)</a></p>
-    <div class="mdreport">${mdToHtml(c.md, 2)}</div>`);
+  cardIn(aside, `<h2>Momentum — the last one year</h2>
+    <div class="scoreline"><span class="big-score ${dir.cls}" style="font-size:20px">${dir.icon} ${esc((c.direction || "not comparable").toUpperCase())}</span>
+      <span class="cov">vs the long-term picture</span></div>
+    <div class="mdreport">${mdToHtml(dropPreamble(c.md), 2)}</div>`);
 
   cardIn(aside, `<h3>Ask about this analysis</h3>
     <form class="qa-form" data-sym="${sym}">
@@ -597,9 +683,9 @@ async function renderCompare(s1, s2) {
   });
   if (missing.length) {
     return card(`<h2>Compare: ${esc(s1)} vs ${esc(s2)}</h2>
-      <p><strong>${missing.map(esc).join(" and ")}</strong> ${missing.length > 1 ? "have" : "has"}
-      no stored analysis yet — ${state.data.n_analysed} of ${state.data.n} companies are covered
-      so far, and comparing needs both. Try “top 20 companies” for analysed picks.</p>`);
+      <p><strong>${missing.map(esc).join(" and ")}</strong> ${missing.length > 1 ? "are" : "is"}
+      not covered yet — ${state.data.n_analysed} of ${state.data.n} companies are covered today,
+      and comparing needs both. Try “top 20 companies” for covered picks.</p>`);
   }
   let a1, a2, c1, c2;
   try {

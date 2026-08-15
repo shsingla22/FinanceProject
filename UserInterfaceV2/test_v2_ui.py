@@ -182,7 +182,7 @@ def test_honest_404s():
 def test_static_frontend_served():
     r = client.get("/")
     assert r.status_code == 200
-    assert "Company Analyst" in r.text and "app.js" in r.text
+    assert "Investment Company" in r.text and "app.js" in r.text
 
 
 @pytest.mark.parametrize("chunk", range(10))
