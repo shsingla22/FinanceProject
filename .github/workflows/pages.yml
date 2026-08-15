@@ -1,0 +1,54 @@
+# Deploy the static Investment Company website to GitHub Pages.
+# Rebuilds automatically whenever the reports or the UI change, so the
+# published site always matches the latest analysis.
+# One-time setup: repo Settings -> Pages -> Source: "GitHub Actions".
+name: Deploy static website to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "IndividualStockAnalysis/India/Analysis/NiftyTotalMarketAnalysis/QualityAnalysis/**"
+      - "IndividualStockAnalysis/India/NiftyTotalMarket/**"
+      - "IndividualStockAnalysis/India/StockInfo/**"
+      - "IndividualStockAnalysis/India/ProfitStatement/**"
+      - "IndividualStockAnalysis/India/BalanceSheet/**"
+      - "IndividualStockAnalysis/India/CashFlow/**"
+      - "IndividualStockAnalysis/India/WorkingCapital/**"
+      - "UserInterfaceV2/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pandas fastapi
+      - run: python UserInterfaceV2/StaticWebsite/build_static.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: UserInterfaceV2/StaticWebsite/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
