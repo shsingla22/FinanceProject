@@ -67,7 +67,8 @@ async function init() {
   setStatus("");
   const cov = document.getElementById("coverage");
   if (cov) cov.textContent =
-    `Covering ${state.data.n_analysed} of ${state.data.n} NSE-listed companies today.`;
+    `Covering ${state.data.n_analysed} of ${state.data.n} NSE-listed companies today.` +
+    (!STATIC && state.ai ? " AI assistance is on — ask anything in plain English." : "");
   if (state.pendingQ) { const q = state.pendingQ; state.pendingQ = null; safeHandle(q); }
 }
 
@@ -127,9 +128,56 @@ function handle(q) {
   }
   if (cos.length >= 1) return renderCompany(cos[0].sym);
 
+  if (!STATIC && state.ai) return aiRoute(q);
+  didntCatch(q);
+}
+
+function didntCatch(q) {
   card(`<h2>Didn't catch that</h2>
     <p>I couldn't find a company or intent in “${esc(q)}”. Try “analyse COLPAL”,
     “top 20 companies”, “worst 10”, or “compare DMART and APOLLOHOSP”.</p>`);
+}
+
+/* AI request routing (server mode): anything the plain patterns can't
+   read goes to the assistant, which maps it onto the app's real actions —
+   open a company, rank, compare, or answer a question about a company. */
+async function aiRoute(q) {
+  const ph = document.createElement("div");
+  ph.className = "card";
+  ph.innerHTML = `<p>🤔 Reading your request…</p>`;
+  $out().appendChild(ph);
+  let it = null;
+  try {
+    const res = await fetch("api/jobs/interpret", {
+      method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ query: q }),
+    });
+    if (!res.ok) throw new Error((await res.json()).detail || res.status);
+    const { job } = await res.json();
+    it = await pollJob("interpret", job.split(":")[1],
+      t => { if (ph.isConnected) ph.innerHTML = `<p>🤔 Reading your request… ${fmtElapsed(t)}</p>`; });
+  } catch (e) {
+    ph.remove();
+    return didntCatch(q);
+  }
+  ph.remove();
+  if (!it || it.intent === "unknown") return didntCatch(q);
+  if (it.intent === "rank")
+    return renderRanking(it.n || 10, it.order || "best", it.industry || null);
+  if (it.intent === "compare" && it.symbols.length >= 2)
+    return renderCompare(it.symbols[0], it.symbols[1]);
+  if (it.intent === "question" && it.symbols.length >= 1)
+    return renderCompanyWithQuestion(it.symbols[0], it.question || it.query);
+  if (it.symbols.length >= 1) return renderCompany(it.symbols[0]);
+  return didntCatch(q);
+}
+
+async function renderCompanyWithQuestion(sym, question) {
+  await renderCompany(sym);
+  const form = $out().querySelector(`.qa-form[data-sym="${sym}"]`);
+  if (!form || !question) return;
+  form.querySelector("input").value = question;
+  askReports(sym, question, form.nextElementSibling);
 }
 
 /* ---------------- small helpers ---------------- */
@@ -696,13 +744,13 @@ function wireDownload(id, md) {
 
 /* ---------------- Q&A: job + poll (proxy-proof), grounded in the MDs -------- */
 
-async function pollJob(id, onTick) {
+async function pollJob(kind, id, onTick) {
   let misses = 0;
   for (;;) {
     await new Promise(r => setTimeout(r, 2500));
     let j = null;
     try {
-      const r = await fetch(`api/jobs/ask/${id}`);
+      const r = await fetch(`api/jobs/${kind}/${id}`);
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
       j = await r.json();
       misses = 0;
@@ -738,7 +786,7 @@ async function askReports(sym, question, outEl) {
     });
     if (!res.ok) throw new Error((await res.json()).detail || res.status);
     const { job } = await res.json();
-    const data = await pollJob(job.split(":")[1],
+    const data = await pollJob("ask", job.split(":")[1],
       t => { slot.textContent = `Answering from the stored reports — ${fmtElapsed(t)}…`; });
     slot.className = "qa-a";
     slot.textContent = data.answer;
