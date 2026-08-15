@@ -6,6 +6,9 @@
 "use strict";
 
 const state = { data: null, names: [], ready: false, ai: false, pendingQ: null };
+// Static mode (GitHub Pages build) is flagged by its index.html BEFORE this
+// script loads — must be read before init() runs.
+const STATIC = (typeof window !== "undefined") && window.STATIC_MODE === true;
 
 init();
 
@@ -32,19 +35,29 @@ async function init() {
   window.addEventListener("unhandledrejection", e =>
     showError(e.reason && e.reason.message ? e.reason.message : String(e.reason)));
 
-  let h = null;
-  try { h = await fetch("api/health").then(r => r.ok ? r.json() : null); } catch (_) {}
-  if (!h || h.mode !== "precomputed") {
-    setStatus("❌ Backend not reachable. Start it with: " +
-      "<code>cd UserInterfaceV2 && uvicorn server:app --host 0.0.0.0 --port 8001</code> then reload.");
-    return;
-  }
-  state.ai = !!h.ai_qa;
-  try {
-    state.data = await fetch("api/companies").then(r => r.json());
-  } catch (e) {
-    setStatus(`❌ Failed to load the company list: ${esc(e.message)}.`);
-    return;
+  if (STATIC) {
+    try {
+      state.data = await jget("data/companies.json");
+    } catch (e) {
+      setStatus(`❌ Failed to load the site data: ${esc(e.message)}.`);
+      return;
+    }
+    state.ai = false;
+  } else {
+    let h = null;
+    try { h = await fetch("api/health").then(r => r.ok ? r.json() : null); } catch (_) {}
+    if (!h || h.mode !== "precomputed") {
+      setStatus("❌ Backend not reachable. Start it with: " +
+        "<code>cd UserInterfaceV2 && uvicorn server:app --host 0.0.0.0 --port 8001</code> then reload.");
+      return;
+    }
+    state.ai = !!h.ai_qa;
+    try {
+      state.data = await fetch("api/companies").then(r => r.json());
+    } catch (e) {
+      setStatus(`❌ Failed to load the company list: ${esc(e.message)}.`);
+      return;
+    }
   }
   state.names = Object.entries(state.data.companies).map(([sym, c]) => ({
     sym, name: c.name || sym, analysed: c.analysed,
@@ -146,6 +159,104 @@ async function jget(url) {
     throw new Error(d || `HTTP ${r.status}`);
   }
   return r.json();
+}
+
+/* ---------------- data layer: one UI, two backends ----------------
+   Server mode talks to /api. Static mode (GitHub Pages) reads the SAME
+   data as prebuilt files (StaticWebsite/build_static.py). The static
+   build's index.html sets window.STATIC_MODE; everything above and below
+   this layer is identical in both, so UI improvements flow to both. */
+
+async function jtext(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.text();
+}
+
+const VERDICT_MD_RE = /^## The verdict: (.+?) — (\d+) out of 100/m;
+const DIRECTION_MD_RE = /^## Step \d+ — The overall rating: (.+?) in the last year/m;
+
+const _mdCache = {};
+async function loadReports(sym) {
+  if (!_mdCache[sym]) {
+    const [a, c] = await Promise.all([
+      jtext(`reports/${sym}_analysis.md`),
+      jtext(`reports/${sym}_comparison.md`)]);
+    _mdCache[sym] = { a, c };
+  }
+  return _mdCache[sym];
+}
+
+async function fetchAnalysis(sym) {
+  if (!STATIC) return jget(`api/analysis/${sym}`);
+  const co = state.data.companies[sym];
+  if (!co || !co.analysed) throw new Error(`${sym} is not covered yet`);
+  const { a } = await loadReports(sym);
+  const m = a.match(VERDICT_MD_RE);
+  return { symbol: sym, name: co.name, industry: co.industry,
+           grade: m ? m[1] : co.grade, score: m ? +m[2] : co.score,
+           market: { mcap: co.mcap, pe: co.pe, price: co.price }, md: a };
+}
+
+async function fetchComparison(sym) {
+  if (!STATIC) return jget(`api/comparison/${sym}`);
+  const { c } = await loadReports(sym);
+  const m = c.match(DIRECTION_MD_RE);
+  return { symbol: sym,
+           direction: m ? m[1].toLowerCase()
+                        : (state.data.companies[sym] || {}).direction,
+           md: c };
+}
+
+async function fetchCharts(sym) {
+  return jget(STATIC ? `data/charts/${sym}.json` : `api/charts/${sym}`);
+}
+
+let _rankingAll = null;
+async function fetchRanking(n, order, industry) {
+  if (!STATIC) return jget(`api/ranking?n=${n}&order=${order}` +
+    (industry ? `&industry=${encodeURIComponent(industry)}` : ""));
+  if (!_rankingAll) _rankingAll = await jget("data/ranking.json");
+  let rows = _rankingAll.filter(r => r.score != null);
+  if (industry) rows = rows.filter(r =>
+    (r.industry || "").toLowerCase() === industry.toLowerCase());
+  rows = [...rows].sort((x, y) => x.rank - y.rank);
+  if (order === "worst") rows.reverse();
+  rows = rows.slice(0, Math.max(1, Math.min(200, n)));
+  return { order, n: rows.length, industry, rows };
+}
+
+const reportHref = (sym, kind) => STATIC
+  ? `reports/${sym}_${kind}.md`
+  : (kind === "analysis" ? `api/report/${sym}` : `api/comparison_report/${sym}`);
+
+// Static-mode Q&A: quote the most relevant report passages, verbatim —
+// the same behaviour as the server's no-AI mode, entirely client-side.
+function extractiveAnswer(question, aMd, cMd) {
+  const stop = new Set(["the", "and", "for", "what", "why", "how", "does",
+    "this", "that", "with", "about", "are", "was", "has", "have", "its",
+    "can", "you", "tell"]);
+  const words = [...new Set((question.toLowerCase().match(/[a-z]{3,}/g) || [])
+    .filter(w => !stop.has(w)))];
+  const scored = [];
+  for (const [src, md] of [["research", aMd], ["momentum", cMd]]) {
+    const parts = md.split(/^#{1,4}\s+(.*)$/m);
+    for (let i = 1; i < parts.length - 1; i += 2) {
+      const title = parts[i].trim(), body = (parts[i + 1] || "").trim();
+      if (HIDDEN_SECTION_RE.test(title)) continue;
+      const hay = (title + " " + body).toLowerCase();
+      let s = 0;
+      for (const w of words) s += hay.split(w).length - 1;
+      if (s > 0 && body) scored.push([s, src, title, body]);
+    }
+  }
+  scored.sort((x, y) => y[0] - x[0]);
+  if (!scored.length) return "No stored passage matches that question — " +
+    "try asking about a check, pattern, risk or number the report mentions.";
+  return "The most relevant passages from the research, verbatim:\n\n" +
+    scored.slice(0, 2).map(([, src, t, b]) =>
+      `[from the ${src} report — “${renameHeading(t)}”]\n${b.slice(0, 1500)}`)
+    .join("\n\n");
 }
 
 /* ---------------- Markdown rendering (self-contained) ----------------
@@ -505,9 +616,9 @@ async function renderCompany(sym) {
   let a, c, ch;
   try {
     [a, c, ch] = await Promise.all([
-      jget(`api/analysis/${sym}`),
-      jget(`api/comparison/${sym}`),
-      jget(`api/charts/${sym}`).catch(() => null),
+      fetchAnalysis(sym),
+      fetchComparison(sym),
+      fetchCharts(sym).catch(() => null),
     ]);
   } catch (e) {
     ph.remove();
@@ -543,8 +654,8 @@ async function renderCompany(sym) {
       <div class="fact"><div class="v">${a.market.pe ?? "—"}</div><div class="k">P/E</div></div>
       <div class="fact"><div class="v">₹${a.market.price ? a.market.price.toLocaleString("en-IN") : "—"}</div><div class="k">Price</div></div>
     </div>
-    <p class="note"><a class="chip" id="dl-${sym}" href="api/report/${sym}" download="${sym}_analysis.md">📄 Full report (Markdown)</a>
-      <a class="chip" id="dlc-${sym}" href="api/comparison_report/${sym}" download="${sym}_comparison.md">📄 One-year comparison (Markdown)</a></p>
+    <p class="note"><a class="chip" id="dl-${sym}" href="${reportHref(sym, "analysis")}" download="${sym}_analysis.md">📄 Full report (Markdown)</a>
+      <a class="chip" id="dlc-${sym}" href="${reportHref(sym, "comparison")}" download="${sym}_comparison.md">📄 One-year comparison (Markdown)</a></p>
     </div>`, "hero");
 
   if (ch) cardIn(main, chartsCard(ch));
@@ -610,6 +721,16 @@ async function askReports(sym, question, outEl) {
     `<div class="qa-q">Q: ${esc(question)}</div>
      <div class="qa-a note">Answering from the stored reports…</div>`);
   const slot = outEl.lastElementChild;
+  if (STATIC) {
+    try {
+      const { a, c } = await loadReports(sym);
+      slot.className = "qa-a";
+      slot.textContent = extractiveAnswer(question, a, c);
+    } catch (e) {
+      slot.textContent = "Failed: " + (e.message || e);
+    }
+    return;
+  }
   try {
     const res = await fetch(`api/jobs/ask/${sym}`, {
       method: "POST", headers: { "content-type": "application/json" },
@@ -631,8 +752,7 @@ async function askReports(sym, question, outEl) {
 async function renderRanking(n, order, industry) {
   let data;
   try {
-    data = await jget(`api/ranking?n=${n}&order=${order}` +
-      (industry ? `&industry=${encodeURIComponent(industry)}` : ""));
+    data = await fetchRanking(n, order, industry);
   } catch (e) {
     return card(`<p>Could not load the ranking: ${esc(e.message || e)}.</p>`);
   }
@@ -690,9 +810,9 @@ async function renderCompare(s1, s2) {
   let a1, a2, c1, c2;
   try {
     [a1, a2, c1, c2] = await Promise.all([
-      jget(`api/analysis/${s1}`), jget(`api/analysis/${s2}`),
-      jget(`api/comparison/${s1}`).catch(() => null),
-      jget(`api/comparison/${s2}`).catch(() => null),
+      fetchAnalysis(s1), fetchAnalysis(s2),
+      fetchComparison(s1).catch(() => null),
+      fetchComparison(s2).catch(() => null),
     ]);
   } catch (e) {
     return card(`<p>Could not compare: ${esc(e.message || e)} — both companies need stored reports.</p>`);

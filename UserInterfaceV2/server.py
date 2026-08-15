@@ -388,6 +388,8 @@ def _extractive_answer(sym: str, question: str, a_md: str, c_md: str) -> str:
     scored = []
     for src, md in (("analysis", a_md), ("comparison", c_md)):
         for title, body in _split_by_headings(md):
+            if re.match(r"How this (report|comparison) was built", title, re.I):
+                continue
             hay = (title + " " + body).lower()
             score = sum(hay.count(w) for w in words)
             if score > 0 and body:
