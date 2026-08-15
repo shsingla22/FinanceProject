@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Company Analyst v2 — precomputed reports</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+</head>
+<body>
+<header class="app-header">
+  <div class="wrap">
+    <h1>⚡ Company Analyst <span class="v2tag">v2 · precomputed</span></h1>
+    <p class="sub">The same full workup as v1 — the 34-check quality framework, the 11
+    multibagger patterns, the 8-channel risk check, one explainable rating out of 100, and
+    the then-vs-now one-year comparison — but served <strong>instantly</strong> from the
+    stored, validated Markdown reports of the batch analysis. Financial numbers come as
+    charts. <span id="bootline"></span></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="ask">
+    <form id="askForm" autocomplete="off">
+      <input id="q" type="text" placeholder="e.g. Analyse Colgate · top 20 companies · worst 10 · compare DMART and APOLLOHOSP"
+             aria-label="Ask a question in plain English">
+      <button type="submit">Ask</button>
+    </form>
+    <div class="chips" id="chips">
+      <button class="chip" data-q="top 20 companies">🏆 Top 20 companies</button>
+      <button class="chip" data-q="worst 10 companies">📉 Worst 10</button>
+      <button class="chip" data-q="analyse COLPAL">Analyse COLPAL</button>
+      <button class="chip" data-q="analyse APOLLOHOSP">Analyse APOLLOHOSP</button>
+      <button class="chip" data-q="compare DMART and APOLLOHOSP">Compare DMART vs APOLLOHOSP</button>
+    </div>
+  </section>
+
+  <section id="out" class="out" aria-live="polite">
+    <div class="card intro">
+      <h2>How to use</h2>
+      <ul>
+        <li><strong>Analyse a company</strong> — “analyse COLPAL” or just type a name: the full stored
+          analyst report opens on the left, the one-year then-vs-now comparison on the right, and the
+          financial numbers render as <strong>charts</strong> — all instant, straight from the stored files.</li>
+        <li><strong>Best / worst lists</strong> — “top 20 companies”, “worst 10”, “best 15 in PHARMA”.
+          Click any row to <strong>drill down</strong> into that company's stored reports.</li>
+        <li><strong>Compare</strong> — “compare DMART and APOLLOHOSP”: their stored verdicts side by side.</li>
+        <li><strong>Ask about an analysis</strong> — every company page has a Q&amp;A box whose answers are
+          grounded <em>only</em> in that company's two stored reports — never thin air.</li>
+      </ul>
+      <p class="note">Explainability is the reports themselves: every verdict in them carries its
+      arithmetic, its evidence and its why, exactly as the batch analysis wrote and validated them.
+      The download buttons hand you the same bytes the page renders — they can never disagree.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p>Source: the stored, validated reports in
+  <code>Analysis/NiftyTotalMarketAnalysis/QualityAnalysis</code> ({SYM}_analysis.md +
+  {SYM}_comparison.md + RANKING) produced by <code>Skills/AnalystSkill</code> and
+  <code>Skills/ComparisonSkill</code> (Opus judges) · charts from the same screener.in-derived
+  statements the analyses judged · This is research tooling, not investment advice.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
