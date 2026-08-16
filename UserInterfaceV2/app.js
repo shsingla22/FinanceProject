@@ -85,15 +85,22 @@ function safeHandle(q) {
 
 /* ---------------- intent parsing (same grammar as v1) ---------------- */
 
+// Words that appear in hundreds of company names must never count as a
+// match ("worst company" is a ranking request, not Cholamandalam ... Company Ltd).
+const GENERIC_NAME_WORDS = new Set(["COMPANY", "COMPANIES", "LIMITED", "LTD",
+  "INDIA", "INDIAN", "CORPORATION", "CORP", "GROUP", "THE", "AND", "OF"]);
+
 function findCompanies(q) {
   const up = q.toUpperCase();
   const hits = [];
   const tokens = up.split(/[^A-Z0-9&\-]+/).filter(t => t.length >= 2);
+  const nameTokens = tokens.filter(t => !GENERIC_NAME_WORDS.has(t));
   for (const n of state.names) {
     if (tokens.includes(n.sym)) { hits.push({ ...n, w: 100 }); continue; }
-    const words = n.name.toUpperCase().split(/\s+/);
+    const words = n.name.toUpperCase().split(/\s+/)
+      .filter(wd => !GENERIC_NAME_WORDS.has(wd));
     let w = 0;
-    for (const t of tokens)
+    for (const t of nameTokens)
       if (t.length >= 4 && words.some(wd => wd.startsWith(t))) w += t.length;
     if (w > 0) hits.push({ ...n, w });
   }
@@ -115,6 +122,11 @@ function handle(q) {
   const compareMode = /\b(compare|vs\.?|versus)\b/.test(low) && cos.length >= 2;
   const rankMode = /\b(best|top|rank|select|pick|screen|worst|bottom)\b/.test(low) &&
                    !compareMode && cos.length === 0;
+
+  // Anything shaped like a question is for the assistant (Opus): it
+  // resolves the company AND answers, instead of just opening a page.
+  const questiony = /\?|^(why|what|how|which|who|when|should|would|is|are|does|do|can|tell me|explain)\b/;
+  if (!STATIC && state.ai && questiony.test(low) && !compareMode) return aiRoute(q);
 
   if (compareMode) return renderCompare(cos[0].sym, cos[1].sym);
   if (rankMode) {
@@ -764,6 +776,27 @@ async function pollJob(kind, id, onTick) {
   }
 }
 
+// Answers arrive as light markdown at worst — render them clean:
+// escaped, bold converted, bullets kept, never a raw asterisk on screen.
+function qaHtml(answer) {
+  const lines = String(answer).split(/\n/);
+  const out = [];
+  let list = null;
+  for (const raw of lines) {
+    const line = raw.trim();
+    if (/^[-*•]\s+/.test(line)) {
+      list = list || [];
+      list.push(`<li>${inlineMd(line.replace(/^[-*•]\s+/, ""))}</li>`);
+      continue;
+    }
+    if (list) { out.push(`<ul>${list.join("")}</ul>`); list = null; }
+    if (line === "") continue;
+    out.push(`<p>${inlineMd(line.replace(/^#+\s*/, ""))}</p>`);
+  }
+  if (list) out.push(`<ul>${list.join("")}</ul>`);
+  return out.join("").replace(/\*\*/g, "");
+}
+
 async function askReports(sym, question, outEl) {
   outEl.insertAdjacentHTML("beforeend",
     `<div class="qa-q">Q: ${esc(question)}</div>
@@ -773,7 +806,7 @@ async function askReports(sym, question, outEl) {
     try {
       const { a, c } = await loadReports(sym);
       slot.className = "qa-a";
-      slot.textContent = extractiveAnswer(question, a, c);
+      slot.innerHTML = qaHtml(extractiveAnswer(question, a, c));
     } catch (e) {
       slot.textContent = "Failed: " + (e.message || e);
     }
@@ -789,7 +822,7 @@ async function askReports(sym, question, outEl) {
     const data = await pollJob("ask", job.split(":")[1],
       t => { slot.textContent = `Answering from the stored reports — ${fmtElapsed(t)}…`; });
     slot.className = "qa-a";
-    slot.textContent = data.answer;
+    slot.innerHTML = qaHtml(data.answer);
   } catch (e) {
     slot.textContent = "Failed: " + (e.message || e);
   }
