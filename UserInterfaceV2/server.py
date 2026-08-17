@@ -425,11 +425,19 @@ def _answer_question(sym: str, question: str, backend: str | None) -> dict:
         "then-vs-now comparison. They contain the verdicts, every check/"
         "pattern/risk with its why, the exact rating arithmetic, and "
         "management quotes.\n"
-        "Rules: cite the specific check names, pattern/risk names, numbers "
-        "or quotes you rely on, exactly as the reports word them; plain, "
-        "everyday financial language; if the reports don't contain the "
-        "answer, say so plainly — never invent, never use outside "
-        "knowledge. Be concise (<= 200 words).\n\n"
+        "Rules for the answer:\n"
+        "- Answer DIRECTLY — no preamble ('Based on the reports…'), no "
+        "meta commentary about what you are doing, no closing remarks.\n"
+        "- Plain everyday language, short sentences, written for a smart "
+        "reader who is not a finance professional.\n"
+        "- PLAIN TEXT ONLY: no markdown, no asterisks, no bold, no "
+        "headers. A simple hyphen list is allowed only if the question "
+        "truly asks for a list.\n"
+        "- Cite the specific check, pattern or risk names and numbers "
+        "you rely on, exactly as the reports word them.\n"
+        "- If the reports don't contain the answer, say so plainly — "
+        "never invent, never use outside knowledge.\n"
+        "- At most 150 words.\n\n"
         f"QUESTION: {question}\n\n"
         f"===== STORED ANALYST REPORT ({sym}) =====\n{a_md[:60000]}\n\n"
         f"===== STORED ONE-YEAR COMPARISON ({sym}) =====\n{c_md[:25000]}")
@@ -458,6 +466,128 @@ def _answer_question(sym: str, question: str, backend: str | None) -> dict:
         answer = proc.stdout.strip()
     return {"symbol": sym, "question": question, "answer": answer,
             "grounded_on": "stored_reports", "ai": True}
+
+
+
+def _ai_text(prompt: str, backend: str, max_tokens: int = 500) -> str:
+    """One short AI call through whichever backend is configured."""
+    if backend == "api":
+        body = json.dumps({"model": API_MODEL, "max_tokens": max_tokens,
+                           "messages": [{"role": "user",
+                                         "content": prompt}]}).encode()
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages", data=body,
+            headers={"content-type": "application/json",
+                     "x-api-key": os.environ["ANTHROPIC_API_KEY"],
+                     "anthropic-version": "2023-06-01"})
+        try:
+            with urllib.request.urlopen(req, timeout=HTTP_AI_TIMEOUT) as resp:
+                out = json.loads(resp.read())
+            return "".join(b.get("text", "") for b in out.get("content", []))
+        except Exception as e:
+            raise HTTPException(502, f"Claude API error: {e}")
+    proc = subprocess.run(["claude", "-p", "--model", ANALYSIS_MODEL],
+                          input=prompt, capture_output=True,
+                          text=True, timeout=None)
+    if proc.returncode != 0:
+        raise HTTPException(502, "claude CLI failed: " +
+                            (proc.stderr or "")[-300:])
+    return proc.stdout.strip()
+
+
+def _candidates_for(query: str, k: int = 25) -> list[str]:
+    """Fuzzy company candidates for the interpreter (same spirit as the
+    client's matcher): exact symbol tokens first, then name-word prefixes."""
+    up = query.upper()
+    tokens = [t for t in re.split(r"[^A-Z0-9&\-]+", up) if len(t) >= 2]
+    hits = []
+    for sym, meta in _const_map.items():
+        if sym in tokens:
+            hits.append((100, sym))
+            continue
+        words = str(meta["name"]).upper().split()
+        w = sum(len(t) for t in tokens
+                if len(t) >= 4 and any(wd.startswith(t) for wd in words))
+        if w:
+            hits.append((w, sym))
+    hits.sort(key=lambda h: -h[0])
+    return [s for _, s in hits[:k]]
+
+
+def _interpret(query: str, backend: str) -> dict:
+    """Turn a free-form request into a routed intent, grounded in the real
+    universe (candidate symbols + industries) so the model never invents a
+    ticker. Strict JSON out; everything is validated before it is returned."""
+    cands = _candidates_for(query)
+    cand_lines = "\n".join(f"- {s}: {_const_map[s]['name']}" for s in cands) \
+                 or "(none)"
+    inds = sorted({m["industry"] for m in _const_map.values() if m["industry"]})
+    universe = "\n".join(f"{s}|{m['name']}|{m['industry']}"
+                          for s, m in _const_map.items())
+    prompt = (
+        "You route requests for an equity-research app. Decide what the "
+        "user wants and answer with STRICT JSON only, no prose:\n"
+        '{"intent": "company"|"rank"|"compare"|"question"|"unknown", '
+        '"symbols": [tickers from the universe below only], '
+        '"n": int|null, "order": "best"|"worst"|null, '
+        '"industry": string|null, "question": string|null}\n\n'
+        "Rules: 'company' = open one company's research (one symbol). "
+        "'rank' = a best/worst list (set n, order, industry when named). "
+        "'compare' = two symbols. 'question' = the user asks something "
+        "specific about one company (including descriptions like 'the "
+        "biggest toothpaste maker' — resolve them to the ticker) — set "
+        "symbols and put the question, reworded standalone, in "
+        "'question'. Use ONLY tickers from the universe; if nothing "
+        "fits, intent 'unknown'.\n\n"
+        f"USER REQUEST: {query}\n\n"
+        f"NAME-MATCH HINTS:\n{cand_lines}\n\n"
+        f"KNOWN INDUSTRIES: {', '.join(inds)}\n\n"
+        f"UNIVERSE (ticker|name|industry):\n{universe}")
+    raw = _ai_text(prompt, backend, max_tokens=300)
+    m = re.search(r"\{.*\}", raw, re.DOTALL)
+    if not m:
+        return {"intent": "unknown", "symbols": [], "query": query}
+    try:
+        d = json.loads(m.group(0))
+    except json.JSONDecodeError:
+        return {"intent": "unknown", "symbols": [], "query": query}
+    intent = d.get("intent")
+    if intent not in {"company", "rank", "compare", "question"}:
+        intent = "unknown"
+    syms = [s for s in (d.get("symbols") or [])
+            if isinstance(s, str) and s.upper() in _const_map][:2]
+    syms = [s.upper() for s in syms]
+    if intent in {"company", "question"} and not syms:
+        intent = "unknown"
+    if intent == "compare" and len(syms) < 2:
+        intent = "company" if syms else "unknown"
+    n = d.get("n")
+    n = max(1, min(200, int(n))) if isinstance(n, (int, float)) else None
+    order = d.get("order") if d.get("order") in ("best", "worst") else None
+    ind = d.get("industry")
+    ind_l = {i.lower(): i for i in inds}
+    industry = ind_l.get(str(ind).lower()) if ind else None
+    q = d.get("question")
+    question = str(q).strip() if q else None
+    return {"intent": intent, "symbols": syms, "n": n, "order": order,
+            "industry": industry, "question": question, "query": query}
+
+
+@app.post("/api/jobs/interpret")
+def job_interpret(payload: dict | None = None):
+    """AI request routing (job form): free-form English in, a validated
+    intent out. 503 when no AI backend is configured — the client then
+    keeps its plain pattern matching."""
+    backend = _ai_backend()
+    if backend is None:
+        raise HTTPException(503, "AI is off — log in the Claude Code CLI "
+                                 "or set ANTHROPIC_API_KEY")
+    query = (payload or {}).get("query", "").strip()
+    if not query:
+        raise HTTPException(422, "missing 'query'")
+    job_id = uuid.uuid4().hex.upper()
+    return _job_start("interpret", job_id,
+                      lambda: _interpret(query, backend))
 
 
 @app.post("/api/ask/{sym}")
@@ -512,9 +642,11 @@ def job_ask(sym: str, payload: dict | None = None):
                       lambda: _answer_question(sym, question, backend))
 
 
-@app.get("/api/jobs/ask/{job_id}")
-def job_status(job_id: str):
-    key = f"ask:{job_id.upper()}"
+@app.get("/api/jobs/{kind}/{job_id}")
+def job_status(kind: str, job_id: str):
+    if kind not in ("ask", "interpret"):
+        raise HTTPException(404, f"unknown job kind '{kind}'")
+    key = f"{kind}:{job_id.upper()}"
     j = _jobs.get(key)
     if j is None:
         raise HTTPException(404, f"no such job: {key} (POST it first)")

@@ -199,3 +199,54 @@ def test_sweep_all_stored_reports_load(chunk):
         assert "Then vs Now" in c.json()["md"], f"{sym} comparison malformed"
         ch = client.get(f"/api/charts/{sym}")
         assert ch.status_code == 200, f"{sym} charts failed"
+
+
+# ---------------------------------------------------- AI request routing
+def test_interpret_off_without_ai():
+    r = client.post("/api/jobs/interpret", json={"query": "best pharma bets"})
+    assert r.status_code == 503                    # UI_DISABLE_AI=1
+    assert client.post("/api/jobs/interpret", json={}).status_code in (422, 503)
+
+
+def _run_interpret(monkeypatch, canned, query):
+    import time
+    monkeypatch.setattr(S, "_ai_backend", lambda: "test")
+    monkeypatch.setattr(S, "_ai_text", lambda *a, **k: canned)
+    r = client.post("/api/jobs/interpret", json={"query": query})
+    assert r.status_code == 200
+    job_id = r.json()["job"].split(":")[1]
+    for _ in range(50):
+        j = client.get(f"/api/jobs/interpret/{job_id}").json()
+        if j["state"] != "running":
+            break
+        time.sleep(0.1)
+    assert j["state"] == "done", j.get("error")
+    return j["result"]
+
+
+def test_interpret_routes_and_validates(monkeypatch):
+    out = _run_interpret(monkeypatch,
+        'Sure! {"intent": "rank", "symbols": [], "n": 500, "order": "worst", '
+        '"industry": "pharma", "question": null}', "weakest drug makers")
+    assert out["intent"] == "rank" and out["order"] == "worst"
+    assert out["n"] == 200                          # clamped
+    # made-up tickers are dropped; question intent needs a real symbol
+    out = _run_interpret(monkeypatch,
+        '{"intent": "question", "symbols": ["NOTREAL"], "question": "x"}', "?")
+    assert out["intent"] == "unknown"
+    out = _run_interpret(monkeypatch,
+        f'{{"intent": "question", "symbols": ["{SOME}"], '
+        '"question": "why is it rated so high?"}', "why rated high")
+    assert out["intent"] == "question" and out["symbols"] == [SOME]
+    # compare with one symbol degrades to company; garbage -> unknown
+    out = _run_interpret(monkeypatch,
+        f'{{"intent": "compare", "symbols": ["{SOME}"]}}', "compare")
+    assert out["intent"] == "company"
+    out = _run_interpret(monkeypatch, "no json here at all", "gibberish")
+    assert out["intent"] == "unknown"
+
+
+def test_interpret_candidates_ground_the_model():
+    cands = S._candidates_for("analyse colgate palmolive")
+    assert "COLPAL" in cands
+    assert all(c in S._const_map for c in cands)

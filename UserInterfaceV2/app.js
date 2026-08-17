@@ -67,7 +67,8 @@ async function init() {
   setStatus("");
   const cov = document.getElementById("coverage");
   if (cov) cov.textContent =
-    `Covering ${state.data.n_analysed} of ${state.data.n} NSE-listed companies today.`;
+    `Covering ${state.data.n_analysed} of ${state.data.n} NSE-listed companies today.` +
+    (!STATIC && state.ai ? " AI assistance is on — ask anything in plain English." : "");
   if (state.pendingQ) { const q = state.pendingQ; state.pendingQ = null; safeHandle(q); }
 }
 
@@ -84,15 +85,22 @@ function safeHandle(q) {
 
 /* ---------------- intent parsing (same grammar as v1) ---------------- */
 
+// Words that appear in hundreds of company names must never count as a
+// match ("worst company" is a ranking request, not Cholamandalam ... Company Ltd).
+const GENERIC_NAME_WORDS = new Set(["COMPANY", "COMPANIES", "LIMITED", "LTD",
+  "INDIA", "INDIAN", "CORPORATION", "CORP", "GROUP", "THE", "AND", "OF"]);
+
 function findCompanies(q) {
   const up = q.toUpperCase();
   const hits = [];
   const tokens = up.split(/[^A-Z0-9&\-]+/).filter(t => t.length >= 2);
+  const nameTokens = tokens.filter(t => !GENERIC_NAME_WORDS.has(t));
   for (const n of state.names) {
     if (tokens.includes(n.sym)) { hits.push({ ...n, w: 100 }); continue; }
-    const words = n.name.toUpperCase().split(/\s+/);
+    const words = n.name.toUpperCase().split(/\s+/)
+      .filter(wd => !GENERIC_NAME_WORDS.has(wd));
     let w = 0;
-    for (const t of tokens)
+    for (const t of nameTokens)
       if (t.length >= 4 && words.some(wd => wd.startsWith(t))) w += t.length;
     if (w > 0) hits.push({ ...n, w });
   }
@@ -115,6 +123,11 @@ function handle(q) {
   const rankMode = /\b(best|top|rank|select|pick|screen|worst|bottom)\b/.test(low) &&
                    !compareMode && cos.length === 0;
 
+  // Anything shaped like a question is for the assistant (Opus): it
+  // resolves the company AND answers, instead of just opening a page.
+  const questiony = /\?|^(why|what|how|which|who|when|should|would|is|are|does|do|can|tell me|explain)\b/;
+  if (!STATIC && state.ai && questiony.test(low) && !compareMode) return aiRoute(q);
+
   if (compareMode) return renderCompare(cos[0].sym, cos[1].sym);
   if (rankMode) {
     const nMatch = low.match(/\b(top|best|worst|bottom)\s*(\d{1,3})?/);
@@ -127,9 +140,56 @@ function handle(q) {
   }
   if (cos.length >= 1) return renderCompany(cos[0].sym);
 
+  if (!STATIC && state.ai) return aiRoute(q);
+  didntCatch(q);
+}
+
+function didntCatch(q) {
   card(`<h2>Didn't catch that</h2>
     <p>I couldn't find a company or intent in “${esc(q)}”. Try “analyse COLPAL”,
     “top 20 companies”, “worst 10”, or “compare DMART and APOLLOHOSP”.</p>`);
+}
+
+/* AI request routing (server mode): anything the plain patterns can't
+   read goes to the assistant, which maps it onto the app's real actions —
+   open a company, rank, compare, or answer a question about a company. */
+async function aiRoute(q) {
+  const ph = document.createElement("div");
+  ph.className = "card";
+  ph.innerHTML = `<p>🤔 Reading your request…</p>`;
+  $out().appendChild(ph);
+  let it = null;
+  try {
+    const res = await fetch("api/jobs/interpret", {
+      method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ query: q }),
+    });
+    if (!res.ok) throw new Error((await res.json()).detail || res.status);
+    const { job } = await res.json();
+    it = await pollJob("interpret", job.split(":")[1],
+      t => { if (ph.isConnected) ph.innerHTML = `<p>🤔 Reading your request… ${fmtElapsed(t)}</p>`; });
+  } catch (e) {
+    ph.remove();
+    return didntCatch(q);
+  }
+  ph.remove();
+  if (!it || it.intent === "unknown") return didntCatch(q);
+  if (it.intent === "rank")
+    return renderRanking(it.n || 10, it.order || "best", it.industry || null);
+  if (it.intent === "compare" && it.symbols.length >= 2)
+    return renderCompare(it.symbols[0], it.symbols[1]);
+  if (it.intent === "question" && it.symbols.length >= 1)
+    return renderCompanyWithQuestion(it.symbols[0], it.question || it.query);
+  if (it.symbols.length >= 1) return renderCompany(it.symbols[0]);
+  return didntCatch(q);
+}
+
+async function renderCompanyWithQuestion(sym, question) {
+  await renderCompany(sym);
+  const form = $out().querySelector(`.qa-form[data-sym="${sym}"]`);
+  if (!form || !question) return;
+  form.querySelector("input").value = question;
+  askReports(sym, question, form.nextElementSibling);
 }
 
 /* ---------------- small helpers ---------------- */
@@ -696,13 +756,13 @@ function wireDownload(id, md) {
 
 /* ---------------- Q&A: job + poll (proxy-proof), grounded in the MDs -------- */
 
-async function pollJob(id, onTick) {
+async function pollJob(kind, id, onTick) {
   let misses = 0;
   for (;;) {
     await new Promise(r => setTimeout(r, 2500));
     let j = null;
     try {
-      const r = await fetch(`api/jobs/ask/${id}`);
+      const r = await fetch(`api/jobs/${kind}/${id}`);
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
       j = await r.json();
       misses = 0;
@@ -716,6 +776,27 @@ async function pollJob(id, onTick) {
   }
 }
 
+// Answers arrive as light markdown at worst — render them clean:
+// escaped, bold converted, bullets kept, never a raw asterisk on screen.
+function qaHtml(answer) {
+  const lines = String(answer).split(/\n/);
+  const out = [];
+  let list = null;
+  for (const raw of lines) {
+    const line = raw.trim();
+    if (/^[-*•]\s+/.test(line)) {
+      list = list || [];
+      list.push(`<li>${inlineMd(line.replace(/^[-*•]\s+/, ""))}</li>`);
+      continue;
+    }
+    if (list) { out.push(`<ul>${list.join("")}</ul>`); list = null; }
+    if (line === "") continue;
+    out.push(`<p>${inlineMd(line.replace(/^#+\s*/, ""))}</p>`);
+  }
+  if (list) out.push(`<ul>${list.join("")}</ul>`);
+  return out.join("").replace(/\*\*/g, "");
+}
+
 async function askReports(sym, question, outEl) {
   outEl.insertAdjacentHTML("beforeend",
     `<div class="qa-q">Q: ${esc(question)}</div>
@@ -725,7 +806,7 @@ async function askReports(sym, question, outEl) {
     try {
       const { a, c } = await loadReports(sym);
       slot.className = "qa-a";
-      slot.textContent = extractiveAnswer(question, a, c);
+      slot.innerHTML = qaHtml(extractiveAnswer(question, a, c));
     } catch (e) {
       slot.textContent = "Failed: " + (e.message || e);
     }
@@ -738,10 +819,10 @@ async function askReports(sym, question, outEl) {
     });
     if (!res.ok) throw new Error((await res.json()).detail || res.status);
     const { job } = await res.json();
-    const data = await pollJob(job.split(":")[1],
+    const data = await pollJob("ask", job.split(":")[1],
       t => { slot.textContent = `Answering from the stored reports — ${fmtElapsed(t)}…`; });
     slot.className = "qa-a";
-    slot.textContent = data.answer;
+    slot.innerHTML = qaHtml(data.answer);
   } catch (e) {
     slot.textContent = "Failed: " + (e.message || e);
   }
