@@ -1,495 +1,743 @@
 rank,symbol,name,score,grade,one_year_direction
 1,COLPAL,Colgate Palmolive (India) Ltd.,88,Outstanding,held steady
 2,APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,86,Outstanding,declined
-3,CAPLIPOINT,Caplin Point Laboratories Ltd.,84,Outstanding,held steady
-4,CORONA,CORONA Remedies,84,Outstanding,held steady
-5,CAMS,Cams Services,83,Outstanding,held steady
-6,LALPATHLAB,Dr. Lal Path Labs Ltd.,83,Outstanding,held steady
-7,METROPOLIS,Metropolis Health.,83,Outstanding,declined
-8,GILLETTE,Gillette India Ltd.,82,Outstanding,declined
-9,MEDANTA,Global Health,82,Outstanding,declined
-10,JBCHEPHARM,J.B. Chemicals & Pharmaceuticals Ltd.,81,Outstanding,declined
-11,ASIANPAINT,Asian Paints Ltd.,80,Outstanding,declined
-12,CRISIL,CRISIL Ltd.,80,Outstanding,declined
-13,KFINTECH,KFin Technolog.,80,Outstanding,declined
-14,AGARWALEYE,Dr. Agarwal's Health,79,Strong,improved
-15,EICHERMOT,Eicher Motors Ltd.,79,Strong,held steady
-16,GODREJCP,Godrej Consumer Products Ltd.,79,Strong,declined
-17,JLHL,Jupiter Life Line,79,Strong,held steady
-18,MARICO,Marico Ltd.,79,Strong,improved
-19,CIPLA,Cipla Ltd.,78,Strong,declined
-20,GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,78,Strong,held steady
-21,ASTRAL,Astral Poly Technik Ltd.,77,Strong,declined
-22,BHARTIHEXA,Bharti Hexacom,77,Strong,declined
-23,GRWRHITECH,Garware Hi Tech,77,Strong,declined
-24,INDHOTEL,Indian Hotels Co. Ltd.,77,Strong,improved
-25,INDIGOPNTS,Indigo Paints,77,Strong,declined
-26,IPCALAB,Ipca Laboratories Ltd.,77,Strong,improved
-27,LENSKART,Lenskart Solut.,77,Strong,improved
-28,NAUKRI,Info Edge (India) Ltd.,77,Strong,held steady
-29,MANKIND,Mankind Pharma,76,Strong,declined
-30,MANORAMA,Manorama Inds,76,Strong,declined
-31,BAJAJ-AUTO,Bajaj Auto Ltd.,75,Strong,declined
-32,CAPILLARY,Capillary Techno Ind,75,Strong,declined
-33,EMCURE,Emcure Pharma,75,Strong,declined
-34,CDSL,Central Depository Services (India) Ltd.,74,Strong,declined
-35,ACE,Action Const.Eq.,73,Strong,declined
-36,AJANTPHARM,Ajanta Pharmaceuticals Ltd.,73,Strong,improved
-37,ELGIEQUIP,Elgi Equipments Ltd.,73,Strong,declined
-38,HDFCAMC,HDFC Asset Management Company Ltd.,73,Strong,declined
-39,INOXINDIA,Inox India,73,Strong,declined
-40,LLOYDSENGG,Lloyds Engr Works,73,Strong,held steady
-41,LODHA,Lodha Developers,73,Strong,held steady
-42,NESTLEIND,Nestle India,73,Strong,held steady
-43,NYKAA,FSN E-Commerce,73,Strong,held steady
-44,APLAPOLLO,APL Apollo Tubes Ltd.,72,Strong,held steady
-45,HINDUNILVR,Hindustan Unilever Ltd.,72,Strong,held steady
-46,IGIL,International Ge,72,Strong,declined
-47,INDGN,Indegene,72,Strong,declined
-48,BSE,BSE Ltd.,71,Strong,declined
-49,COFORGE,Coforge,71,Strong,declined
-50,ABBOTINDIA,Abbott India,70,Strong,declined
-51,ALKEM,Alkem Laboratories Ltd.,70,Strong,held steady
-52,ANANDRATHI,Anand Rathi Wea.,70,Strong,held steady
-53,ASKAUTOLTD,ASK Automotive,70,Strong,held steady
-54,CANHLIFE,Canara HSBC,70,Strong,declined
-55,CARTRADE,Cartrade Tech,70,Strong,held steady
-56,COROMANDEL,Coromandel International Ltd.,70,Strong,declined
-57,DELHIVERY,Delhivery,70,Strong,declined
-58,ERIS,Eris Lifesciences Ltd.,70,Strong,held steady
-59,GRANULES,Granules India Ltd.,70,Strong,declined
-60,MEESHO,Meesho,70,Strong,declined
-61,OBEROIRLTY,Oberoi Realty Ltd.,70,Strong,declined
-62,CMSINFO,CMS Info Systems,69,Strong,improved
-63,CUMMINSIND,Cummins India Ltd.,69,Strong,declined
-64,EUREKAFORB,Eureka Forbes,69,Strong,improved
-65,BHARTIARTL,Bharti Airtel Ltd.,68,Strong,improved
-66,BLS,BLS Internat.,68,Strong,improved
-67,INTELLECT,Intellect Design Arena Ltd.,68,Strong,declined
-68,IRCTC,I R C T C,68,Strong,declined
-69,KALYANKJIL,Kalyan Jewellers,68,Strong,held steady
-70,AEGISVOPAK,Aegis Vopak Term,67,Strong,declined
-71,BRITANNIA,Britannia Industries Ltd.,67,Strong,declined
-72,DABUR,Dabur India Ltd.,67,Strong,held steady
-73,DMART,Avenue Supermarts Ltd.,67,Strong,declined
-74,DOMS,DOMS Industries,67,Strong,declined
-75,GRASIM,Grasim Industries Ltd.,67,Strong,declined
-76,HCG,Healthcare Global,67,Strong,declined
-77,INDIAMART,Indiamart Inter.,67,Strong,declined
-78,OFSS,Oracle Financial Services Software Ltd.,67,Strong,improved
-79,ACUTAAS,Acutaas Chemical,66,Strong,held steady
-80,EIHOTEL,EIH Ltd.,66,Strong,improved
-81,IEX,Indian Energy Exchange Ltd.,66,Strong,declined
-82,JUBLFOOD,Jubilant Foodworks Ltd.,66,Strong,improved
-83,NEWGEN,Newgen Software,66,Strong,improved
-84,NH,Narayana Hrudayalaya Ltd.,66,Strong,improved
-85,ASTERDM,Aster DM Healthcare Ltd.,65,Strong,declined
-86,AZAD,Azad Engineering,65,Strong,improved
-87,HBLENGINE,HBL Engineering,65,Strong,declined
-88,HDBFS,HDB FINANC SER,65,Strong,declined
-89,ICICIGI,ICICI Lombard General Insurance Company Ltd.,65,Strong,declined
-90,IKS,Inventurus Knowl,65,Strong,declined
-91,NEULANDLAB,Neuland Labs.,65,Strong,held steady
-92,ABB,ABB India Ltd.,64,Decent,held steady
-93,AEGISLOG,Aegis Logistics,64,Decent,improved
-94,ARVINDFASN,Arvind Fashions,64,Decent,declined
-95,BERGEPAINT,Berger Paints India Ltd.,64,Decent,held steady
-96,CPPLUS,Aditya Infotech,64,Decent,held steady
-97,CROMPTON,Crompton Greaves Consumer Electricals Ltd.,64,Decent,declined
-98,KSB,KSB,64,Decent,improved
-99,LEMONTREE,Lemon Tree Hotels Ltd.,64,Decent,declined
-100,MAXHEALTH,Max Healthcare,64,Decent,held steady
-101,MSUMI,Motherson Wiring,64,Decent,declined
-102,NAVINFLUOR,Navin Fluorine International Ltd.,64,Decent,held steady
-103,ALIVUS,Alivus Life Sciences,63,Decent,declined
-104,APARINDS,Apar Inds.,63,Decent,declined
-105,ATHERENERG,Ather Energy,63,Decent,declined
-106,BECTORFOOD,Mrs Bectors Food,63,Decent,held steady
-107,FORTIS,Fortis Healthcare Ltd.,63,Decent,declined
-108,ICICIAMC,ICICI AMC,63,Decent,held steady
-109,KIMS,Krishna Institu.,63,Decent,held steady
-110,KIRLPNU,Kirloskar Pneumatic,63,Decent,improved
-111,MARUTI,Maruti Suzuki India Ltd.,63,Decent,held steady
-112,MGL,Mahanagar Gas Ltd.,63,Decent,declined
-113,NAM-INDIA,Nippon Life Ind.,63,Decent,improved
-114,ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,62,Decent,improved
-115,AFFLE,Affle 3i,62,Decent,held steady
-116,AIAENG,AIA Engineering Ltd.,62,Decent,declined
-117,ANTHEM,Anthem Bioscienc,62,Decent,improved
-118,BEL,Bharat Electronics Ltd.,62,Decent,declined
-119,CASTROLIND,Castrol India Ltd.,62,Decent,improved
-120,CEATLTD,Ceat Ltd.,62,Decent,held steady
-121,DATAPATTNS,Data Pattern,62,Decent,held steady
-122,GOKULAGRO,Gokul Agro Resources,62,Decent,held steady
-123,HAL,Hindustan Aeronautics Ltd.,62,Decent,held steady
-124,LUMAXTECH,Lumax Auto Tech,62,Decent,held steady
-125,MANYAVAR,Vedant Fashions,62,Decent,held steady
-126,MINDACORP,Minda Corporation Ltd.,62,Decent,declined
-127,NIVABUPA,Niva Bupa Health,62,Decent,improved
-128,AKUMS,Akums Drugs & Pharmaceuticals,61,Decent,held steady
-129,ASAHIINDIA,Asahi India Glas,61,Decent,improved
-130,AWFIS,Awfis Space Solution,61,Decent,held steady
-131,BALKRISIND,Balkrishna Industries Ltd.,61,Decent,improved
-132,BELRISE,Belrise Industri,61,Decent,declined
-133,ETERNAL,Eternal,61,Decent,held steady
-134,FIVESTAR,Five-Star Bus.Fi,61,Decent,improved
-135,HEROMOTOCO,Hero MotoCorp Ltd.,61,Decent,held steady
-136,KEI,KEI Industries Ltd.,61,Decent,improved
-137,KIRLOSENG,Kirloskar Oil Eng Ltd.,61,Decent,declined
-138,LGEINDIA,LG Electronics,61,Decent,declined
-139,MPHASIS,MphasiS Ltd.,61,Decent,held steady
-140,ALKYLAMINE,Alkyl Amines Chem,60,Decent,declined
-141,APOLLO,Apollo Micro Systems,60,Decent,declined
-142,ATUL,Atul Ltd.,60,Decent,improved
-143,BIKAJI,Bikaji Foods,60,Decent,held steady
-144,CHALET,Chalet Hotels,60,Decent,held steady
-145,CONCORDBIO,Concord Biotech,60,Decent,improved
-146,ENDURANCE,Endurance Technologies Ltd.,60,Decent,held steady
-147,GABRIEL,Gabriel India,60,Decent,declined
-148,GLENMARK,Glenmark Pharmaceuticals Ltd.,60,Decent,improved
-149,HYUNDAI,Hyundai Motor I,60,Decent,declined
-150,JAMNAAUTO,Jamna Auto Inds,60,Decent,improved
-151,KPITTECH,KPIT Technologi.,60,Decent,declined
-152,MFSL,Max Financial Services Ltd.,60,Decent,improved
-153,AAVAS,Aavas Financiers Ltd.,59,Decent,improved
-154,ABLBL,A B Lifestyle,59,Decent,improved
-155,BIRLACORPN,Birla Corporation,59,Decent,declined
-156,BOSCHLTD,Bosch Ltd.,59,Decent,declined
-157,CRIZAC,Crizac,59,Decent,declined
-158,CUB,City Union Bank Ltd.,59,Decent,improved
-159,DYNAMATECH,Dynamatic Tech,59,Decent,declined
-160,HCLTECH,HCL Technologies Ltd.,59,Decent,improved
-161,ITC,ITC Ltd.,59,Decent,held steady
-162,ECLERX,eClerx Services Ltd.,58,Decent,improved
-163,EPL,EPL,58,Decent,improved
-164,GODREJAGRO,Godrej Agrovet,58,Decent,improved
-165,HAVELLS,Havells India Ltd.,58,Decent,improved
-166,HEXT,Hexaware Tech.,58,Decent,declined
-167,HSCL,Himadri Speciality Chemical Ltd.,58,Decent,held steady
-168,ICICIBANK,ICICI Bank Ltd.,58,Decent,improved
-169,INFY,Infosys Ltd.,58,Decent,declined
-170,IXIGO,Le Travenues Techno,58,Decent,improved
-171,LTFOODS,L T Foods,58,Decent,declined
-172,NESCO,Nesco,58,Decent,held steady
-173,NUVAMA,Nuvama Wealth,58,Decent,improved
-174,APTUS,Aptus Value Hou.,57,Decent,improved
-175,AWL,AWL Agri Busine.,57,Decent,declined
-176,BANCOINDIA,Banco Products,57,Decent,improved
-177,BLUEDART,Blue Dart Express Ltd.,57,Decent,held steady
-178,DCBBANK,DCB Bank,57,Decent,declined
-179,DIXON,Dixon Technologies (India) Ltd.,57,Decent,declined
-180,EMAMILTD,Emami Ltd.,57,Decent,improved
-181,ENTERO,Entero Healthcare,57,Decent,improved
-182,HINDZINC,Hindustan Zinc Ltd.,57,Decent,held steady
-183,HONASA,Honasa Consumer,57,Decent,improved
-184,JBMA,JBM Auto,57,Decent,held steady
-185,JSLL,Jeena Sikho Life,57,Decent,improved
-186,KOTAKBANK,Kotak Mahindra Bank Ltd.,57,Decent,held steady
-187,LAURUSLABS,Laurus Labs Ltd.,57,Decent,improved
-188,AVALON,Avalon Technologies,56,Decent,held steady
-189,AVL,Aditya Vision,56,Decent,improved
-190,BAJFINANCE,Bajaj Finance Ltd.,56,Decent,held steady
-191,BLUEJET,Blue Jet Health,56,Decent,declined
-192,CENTRALBK,Central Bank of India,56,Decent,held steady
-193,DATAMATICS,Datamatic Global Ser,56,Decent,declined
-194,ELLEN,Ellenbarrie Indl.Gas,56,Decent,held steady
-195,FEDERALBNK,Federal Bank Ltd.,56,Decent,improved
-196,GMMPFAUDLR,GMM Pfaudler,56,Decent,held steady
-197,GMRAIRPORT,GMR Airports,56,Decent,improved
-198,GODIGIT,Go Digit General,56,Decent,held steady
-199,GRAVITA,Gravita India,56,Decent,declined
-200,INDIASHLTR,India Shelter Fin.,56,Decent,declined
-201,JUBLPHARMA,Jubilant Pharmo,56,Decent,held steady
-202,LINDEINDIA,Linde India Ltd.,56,Decent,held steady
-203,LTTS,L&T Technology Services Ltd.,56,Decent,improved
-204,MOTHERSON,Samvardh. Mothe.,56,Decent,improved
-205,NTPCGREEN,NTPC Green Ene.,56,Decent,held steady
-206,AETHER,Aether Inds,55,Decent,improved
-207,BLACKBUCK,BlackBuck,55,Decent,improved
-208,CLEAN,Clean Science,55,Decent,held steady
-209,HDFCLIFE,HDFC Life Insurance Company Ltd.,55,Decent,improved
-210,HERITGFOOD,Heritage Foods,55,Decent,improved
-211,HOMEFIRST,Home First Finan,55,Decent,held steady
-212,INDUSTOWER,Indus Towers,55,Decent,improved
-213,LLOYDSME,Lloyds Metals,55,Decent,improved
-214,MEDPLUS,Medplus Health Services,55,Decent,improved
-215,ONESOURCE,OneSource Speci.,55,Decent,held steady
-216,BAJAJFINSV,Bajaj Finserv Ltd.,54,Decent,held steady
-217,BBTC,Bombay Burmah Trading Corporation Ltd.,54,Decent,declined
-218,CARBORUNIV,Carborundum Universal Ltd.,54,Decent,held steady
-219,CERA,Cera Sanitaryware,54,Decent,held steady
-220,FEDFINA,Fedbank Financial,54,Decent,declined
-221,FORCEMOT,Force Motors,54,Decent,improved
-222,GAEL,Gujarat Ambuja Exp,54,Decent,held steady
-223,IDFCFIRSTB,IDFC First Bank Ltd.,54,Decent,declined
-224,JSWINFRA,JSW Infrast,54,Decent,held steady
-225,KIRLOSBROS,Kirloskar Brothers,54,Decent,improved
-226,KPIL,Kalpataru Proj.,54,Decent,declined
-227,LICI,Life Insurance,54,Decent,held steady
-228,MARKSANS,Marksans Pharma,54,Decent,declined
-229,AADHARHFC,Aadhar Hsg. Fin.,53,Decent,declined
-230,ATGL,Adani Total Gas,53,Decent,held steady
-231,BANKBARODA,Bank of Baroda,53,Decent,held steady
-232,BAYERCROP,Bayer Crop Sci.,53,Decent,declined
-233,BLUESTARCO,Blue Star Ltd.,53,Decent,held steady
-234,CCL,CCL Products (I) Ltd.,53,Decent,improved
-235,CEMPRO,Cemindia Project,53,Decent,declined
-236,CENTURYPLY,Century Plyboard,53,Decent,improved
-237,CGCL,Capri Global,53,Decent,held steady
-238,DLF,DLF Ltd.,53,Decent,improved
-239,FSL,Firstsource Solutions Ltd.,53,Decent,held steady
-240,LTM,LTM,53,Decent,declined
-241,MCX,Multi Comm. Exc.,53,Decent,held steady
-242,MRF,MRF Ltd.,53,Decent,improved
-243,AEQUS,Aequs,52,Decent,improved
-244,AMBUJACEM,Ambuja Cements Ltd.,52,Decent,improved
-245,ARVIND,Arvind,52,Decent,held steady
-246,DRREDDY,Dr. Reddy's Laboratories Ltd.,52,Decent,declined
-247,JSL,Jindal Stainless Ltd.,52,Decent,declined
-248,LUPIN,Lupin Ltd.,52,Decent,improved
-249,ASTRAMICRO,Astra Micro Wave,51,Decent,improved
-250,AUBANK,AU Small Finance Bank Ltd.,51,Decent,held steady
-251,BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,51,Decent,improved
-252,CANFINHOME,Can Fin Homes Ltd.,51,Decent,declined
-253,CESC,CESC Ltd.,51,Decent,improved
-254,CGPOWER,CG Power and Industrial Solutions Ltd.,51,Decent,declined
-255,CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,51,Decent,held steady
-256,DIVISLAB,Divi's Laboratories Ltd.,51,Decent,improved
-257,EMIL,Electronics Mart Ind,51,Decent,held steady
-258,ETHOSLTD,Ethos,51,Decent,declined
-259,JSFB,Jana Small Fin. Bank,51,Decent,held steady
-260,JSWCEMENT,JSW Cement,51,Decent,held steady
-261,JYOTHYLAB,Jyothy Labs,51,Decent,held steady
-262,LOTUSDEV,Sri Lotus Developers,51,Decent,improved
-263,LT,Larsen & Toubro Ltd.,51,Decent,held steady
-264,MAHABANK,Bank of Maharashtra.,51,Decent,held steady
-265,MOTILALOFS,Motilal Oswal Financial Services Ltd.,51,Decent,improved
-266,NETWEB,Netweb Technol.,51,Decent,declined
-267,NTPC,NTPC Ltd.,51,Decent,declined
-268,ABDL,Allied Blenders,50,Decent,improved
-269,ANUP,Anup Engineering,50,Decent,improved
-270,APOLLOTYRE,Apollo Tyres Ltd.,50,Decent,improved
-271,ATLANTAELE,Atlanta Electricals,50,Decent,declined
-272,AURIONPRO,Aurionpro Solutions,50,Decent,improved
-273,BLUESTONE,Bluestone Jewellery,50,Decent,held steady
-274,CAMPUS,Campus Active,50,Decent,improved
-275,CANBK,Canara Bank,50,Decent,held steady
-276,ELECON,Elecon Engg.Co,50,Decent,improved
-277,GODREJIND,Godrej Industries Ltd.,50,Decent,improved
-278,HAPPSTMNDS,Happiest Minds Tech.,50,Decent,held steady
-279,ITCHOTELS,ITC Hotels,50,Decent,held steady
-280,JKCEMENT,J.K. Cement Ltd.,50,Decent,held steady
-281,JKPAPER,JK Paper,50,Decent,held steady
-282,JUBLINGREA,Jubilant Ingrev.,50,Decent,improved
-283,KSCL,Kaveri Seed Co,50,Decent,held steady
-284,LTF,L&T Finance Ltd,50,Decent,improved
-285,MANAPPURAM,Manappuram Finance Ltd.,50,Decent,declined
-286,MAPMYINDIA,C.E. Info System,50,Decent,improved
-287,MUTHOOTFIN,Muthoot Finance Ltd.,50,Decent,held steady
-288,AHLUCONT,Ahluwalia Contracts,49,Mixed,held steady
-289,AVANTIFEED,Avanti Feeds,49,Mixed,held steady
-290,CSBBANK,CSB Bank,49,Mixed,declined
-291,GODREJPROP,Godrej Properties Ltd.,49,Mixed,improved
-292,HDFCBANK,HDFC Bank Ltd.,49,Mixed,improved
-293,INDIGO,InterGlobe Aviation Ltd.,49,Mixed,improved
-294,KAJARIACER,Kajaria Ceramics Ltd.,49,Mixed,improved
-295,KRBL,KRBL,49,Mixed,declined
-296,ABCAPITAL,Aditya Birla Capital Ltd.,48,Mixed,improved
-297,ADANIPOWER,Adani Power Ltd.,48,Mixed,held steady
-298,DALBHARAT,Dalmia BharatLtd,48,Mixed,improved
-299,ENRIN,Siemens Ener.Ind,48,Mixed,improved
-300,EXIDEIND,Exide Industries Ltd.,48,Mixed,held steady
-301,FIEMIND,Fiem Inds,48,Mixed,improved
-302,FIRSTCRY,Brainbees Solut.,48,Mixed,held steady
-303,GODFRYPHLP,Godfrey Phillips India Ltd.,48,Mixed,improved
-304,HINDALCO,Hindalco Industries Ltd.,48,Mixed,declined
-305,HUDCO,Housing & Urban Development Corporation Ltd.,48,Mixed,improved
-306,IIFL,IIFL Finance,48,Mixed,improved
-307,IOB,Indian Overseas Bank ,48,Mixed,held steady
-308,JAINREC,Jain Resource,48,Mixed,held steady
-309,KANSAINER,Kansai Nerolac,48,Mixed,declined
-310,NFL,National Fertilizers,48,Mixed,held steady
-311,AARTIPHARM,Aarti Pharmalabs,47,Mixed,held steady
-312,ANURAS,Anupam Rasayan,47,Mixed,declined
-313,AXISBANK,Axis Bank Ltd.,47,Mixed,improved
-314,BRIGADE,Brigade Enterprises Ltd.,47,Mixed,held steady
-315,CELLO,Cello World,47,Mixed,held steady
-316,COCHINSHIP,Cochin Shipyard Ltd.,47,Mixed,held steady
-317,CREDITACC,CreditAccess Grameen Ltd.,47,Mixed,declined
-318,CYIENT,Cyient Ltd.,47,Mixed,improved
-319,DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,47,Mixed,held steady
-320,IFBIND,IFB Industries,47,Mixed,declined
-321,JIOFIN,Jio Financial,47,Mixed,improved
-322,KARURVYSYA,Karur Vysya Bank Ltd.,47,Mixed,improved
-323,LATENTVIEW,Latent View,47,Mixed,held steady
-324,MAZDOCK,Mazagon Dock,47,Mixed,held steady
-325,NUVOCO,Nuvoco Vistas,47,Mixed,improved
-326,ADVENZYMES,Advanced Enzyme,46,Mixed,improved
-327,BANDHANBNK,Bandhan Bank Ltd.,46,Mixed,improved
-328,BATAINDIA,Bata India Ltd.,46,Mixed,improved
-329,CRAMC,Canara Robeco Asset,46,Mixed,held steady
-330,DCMSHRIRAM,DCM Shriram Ltd.,46,Mixed,improved
-331,GALLANTT,Gallantt Ispat L,46,Mixed,improved
-332,GROWW,Billionbrains,46,Mixed,improved
-333,GRSE,Garden Reach Sh.,46,Mixed,held steady
-334,HINDPETRO,Hindustan Petroleum Corporation Ltd.,46,Mixed,held steady
-335,IDBI,IDBI Bank Ltd.,46,Mixed,improved
-336,IGL,Indraprastha Gas Ltd.,46,Mixed,improved
-337,IMFA,IMFA,46,Mixed,improved
-338,INDIAGLYCO,India Glycols,46,Mixed,improved
-339,IRB,IRB Infrastructure Developers Ltd.,46,Mixed,declined
-340,JYOTICNC,Jyoti CNC Auto.,46,Mixed,improved
-341,MASTEK,Mastek,46,Mixed,held steady
-342,ONGC,Oil & Natural Gas Corporation Ltd.,46,Mixed,improved
-343,AMBER,Amber Enterp.,45,Mixed,declined
-344,BAJAJHFL,Bajaj Housing,45,Mixed,held steady
-345,BIOCON,Biocon Ltd.,45,Mixed,improved
-346,CRAFTSMAN,Craftsman Auto,45,Mixed,held steady
-347,DEVYANI,Devyani Intl.,45,Mixed,improved
-348,EQUITASBNK,Equitas Small Fin,45,Mixed,declined
-349,GLAND,Gland Pharma,45,Mixed,improved
-350,JAYNECOIND,Jayaswal Neco Inds,45,Mixed,held steady
-351,JPPOWER,JP Power Ven.,45,Mixed,improved
-352,KPRMILL,K.P.R. Mill Ltd.,45,Mixed,declined
-353,MAHSCOOTER,Maharashtra Scooters,45,Mixed,improved
-354,NATCOPHARM,NATCO Pharma Ltd.,45,Mixed,held steady
-355,OIL,Oil India Ltd.,45,Mixed,declined
-356,AARTIIND,Aarti Industries,44,Mixed,declined
-357,ADANIENT,Adani Enterp.,44,Mixed,held steady
-358,ANGELONE,Angel One,44,Mixed,held steady
-359,BALUFORGE,Balu Forge Inds,44,Mixed,improved
-360,BPCL,Bharat Petroleum Corporation Ltd.,44,Mixed,improved
-361,DEEPAKNTR,Deepak Nitrite Ltd.,44,Mixed,declined
-362,FINCABLES,Finolex Cables Ltd.,44,Mixed,declined
-363,GAIL,GAIL (India) Ltd.,44,Mixed,improved
-364,GHCL,GHCL,44,Mixed,declined
-365,GPPL,Gujarat Pipavav Port,44,Mixed,improved
-366,HEMIPROP,Hemisphere Prop,44,Mixed,held steady
-367,HINDCOPPER,Hindustan Copper Ltd.,44,Mixed,declined
-368,IONEXCHANG,Ion Exchange,44,Mixed,held steady
-369,JKTYRE,JK Tyre & Industries Ltd.,44,Mixed,improved
-370,ABSLAMC,Aditya AMC,43,Mixed,improved
-371,ACC,ACC Ltd.,43,Mixed,improved
-372,CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,43,Mixed,improved
-373,CHENNPETRO,Chennai Petroleum Corporation Ltd.,43,Mixed,declined
-374,CIEINDIA,CIE Automotive,43,Mixed,declined
-375,CONCOR,Container Corporation of India Ltd.,43,Mixed,improved
-376,JSWSTEEL,JSW Steel Ltd.,43,Mixed,held steady
-377,JUSTDIAL,Just Dial,43,Mixed,improved
-378,KRN,KRN Heat Exch Refrig,43,Mixed,improved
-379,MOIL,MOIL,43,Mixed,declined
-380,AFCONS,Afcons Infrastr.,42,Mixed,held steady
-381,AUROPHARMA,Aurobindo Pharma Ltd.,42,Mixed,improved
-382,GESHIP,Great Eastern Shipping Co. Ltd.,42,Mixed,held steady
-383,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,42,Mixed,improved
-384,JINDALSTEL,Jindal Steel & Power Ltd.,42,Mixed,declined
-385,JSWENERGY,JSW Energy Ltd.,42,Mixed,held steady
-386,KTKBANK,Karnataka Bank,42,Mixed,improved
-387,MIDHANI,Mishra Dhatu Nigam,42,Mixed,improved
-388,MTARTECH,MTAR Technologies,42,Mixed,held steady
-389,NBCC,NBCC (India) Ltd.,42,Mixed,held steady
-390,ASHAPURMIN,Ashapura Minechem,41,Mixed,improved
-391,ASHOKLEY,Ashok Leyland Ltd.,41,Mixed,improved
-392,BBOX,Black Bo,41,Mixed,held steady
-393,BDL,Bharat Dynamics Ltd.,41,Mixed,improved
-394,BHARATFORG,Bharat Forge Ltd.,41,Mixed,improved
-395,EIDPARRY,E.I.D. Parry (India) Ltd.,41,Mixed,declined
-396,ENGINERSIN,Engineers India Ltd.,41,Mixed,held steady
-397,ESCORTS,Escorts Ltd.,41,Mixed,improved
-398,INDUSINDBK,IndusInd Bank Ltd.,41,Mixed,improved
-399,JKLAKSHMI,JK Lakshmi Cement,41,Mixed,improved
-400,JSWDULUX,JSW Dulux,41,Mixed,declined
-401,ADANIENSOL,Adani Energy Sol,40,Mixed,improved
-402,ADANIGREEN,Adani Green Energy Ltd.,40,Mixed,held steady
-403,BAJAJELEC,Bajaj Electricals,40,Mixed,improved
-404,EDELWEISS,Edelweiss Financial Services,40,Mixed,improved
-405,GOKEX,Gokaldas Exports,40,Mixed,held steady
-406,HONAUT,Honeywell Automation India Ltd.,40,Mixed,improved
-407,IOC,Indian Oil Corporation Ltd.,40,Mixed,improved
-408,JMFINANCIL,JM Financial Ltd.,40,Mixed,improved
-409,AARTIDRUGS,Aarti Drugs,39,Mixed,held steady
-410,APLLTD,Alembic Pharma,39,Mixed,improved
-411,BANKINDIA,Bank of India,39,Mixed,improved
-412,INOXGREEN,Inox Green Energy Se,39,Mixed,held steady
-413,JINDALSAW,Jindal Saw Ltd.,39,Mixed,declined
-414,KEC,Kec International Ltd.,39,Mixed,improved
-415,CCAVENUE,AvenuesAI,38,Mixed,held steady
-416,CHOICEIN,Choice Intl.,38,Mixed,improved
-417,EIEL,Enviro Infra Engine.,38,Mixed,held steady
-418,GPIL,Godawari Power,38,Mixed,improved
-419,ICIL,Indo Count Inds,38,Mixed,improved
-420,IRFC,I R F C,38,Mixed,improved
-421,KAYNES,Kaynes Tech,38,Mixed,held steady
-422,LXCHEM,Laxmi Organic Inds.,38,Mixed,held steady
-423,BALRAMCHIN,Balrampur Chini Mills Ltd.,37,Mixed,held steady
-424,COHANCE,Cohance Life,37,Mixed,improved
-425,CUPID,Cupid,37,Mixed,improved
-426,FACT,F A C T,37,Mixed,improved
-427,FLUOROCHEM,Gujarat Fluoroch,37,Mixed,improved
-428,NATIONALUM,National Aluminium Co. Ltd.,37,Mixed,held steady
-429,NHPC,NHPC Ltd.,37,Mixed,improved
-430,BEML,BEML Ltd.,36,Mixed,improved
-431,BORORENEW,Borosil Renewables,36,Mixed,held steady
-432,BSOFT,Birlasoft Ltd,36,Mixed,held steady
-433,JWL,Jupiter Wagons,36,Mixed,held steady
-434,LICHSGFIN,LIC Housing Finance Ltd.,36,Mixed,declined
-435,NLCINDIA,NLC India Ltd.,36,Mixed,held steady
-436,NMDC,NMDC Ltd.,36,Mixed,improved
-437,ACI,Archean Chem Inds,35,Mixed,improved
-438,COALINDIA,Coal India Ltd.,35,Mixed,held steady
-439,EMMVEE,Emmvee Photovol.,35,Mixed,held steady
-440,MSTCLTD,MSTC,35,Mixed,improved
-441,NEOGEN,Neogen Chemicals,35,Mixed,improved
-442,ACMESOLAR,ACME Solar Hold.,34,Weak,held steady
-443,ALOKINDS,Alok Industries,34,Weak,improved
-444,BALAMINES,Balaji Amines,34,Weak,improved
-445,BHEL,Bharat Heavy Electricals Ltd.,34,Weak,held steady
-446,CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,34,Weak,held steady
-447,HCC,Hindustan Constr,34,Weak,improved
-448,HEG,H.E.G. Ltd.,34,Weak,improved
-449,JAIBALAJI,Jai Balaji Inds,34,Weak,improved
-450,MAHSEAMLES,Maharashtra Seamless,34,Weak,declined
-451,NAVA,Nava,34,Weak,held steady
-452,NIACL,The New India Assurance Company Ltd.,34,Weak,improved
-453,DBREALTY,Valor Estate,33,Weak,held steady
-454,ELECTCAST,Electrosteel Castings,33,Weak,declined
-455,FINPIPE,Finolex Industries,33,Weak,held steady
-456,GICRE,General Insurance Corporation of India,33,Weak,held steady
-457,INDIANB,Indian Bank,33,Weak,improved
-458,ASHOKA,Ashoka Buildcon,32,Weak,improved
-459,AXISCADES,Axiscades Tech,32,Weak,improved
-460,HFCL,Himachal Fut Com Ltd.,32,Weak,held steady
-461,KITEX,Kitex Garments,32,Weak,improved
-462,NAZARA,Nazara Technologies,32,Weak,improved
-463,NETWORK18,Network18 Media,32,Weak,improved
-464,NSLNISP,NMDC Steel,32,Weak,held steady
-465,GNFC,GNFC,31,Weak,improved
-466,INDIACEM,India Cements Ltd.,31,Weak,improved
-467,ABFRL,Aditya Birla Fashion and Retail Ltd.,30,Weak,improved
-468,GMDCLTD,Gujarat Mineral Development Corporation Ltd.,30,Weak,improved
-469,OPTIEMUS,Optiemus infracom,30,Weak,improved
-470,ABREL,A B Real Estate,29,Weak,improved
-471,DBL,Dilip Buildcon,29,Weak,held steady
-472,GREAVESCOT,Greaves Cotton,29,Weak,improved
-473,HGINFRA,HGIEL,29,Weak,improved
-474,IDEA,Vodafone Idea Ltd.,29,Weak,improved
-475,ITI,ITI Ltd.,29,Weak,improved
-476,MRPL,Mangalore Refinery & Petrochemicals Ltd.,29,Weak,held steady
-477,OLAELEC,Ola Electric,29,Weak,held steady
-478,ANANTRAJ,Anant Raj,28,Weak,improved
-479,GRAPHITE,Graphite India Ltd.,28,Weak,improved
-480,KPIGREEN,KPI Green Energy,28,Weak,improved
-481,LLOYDSENT,Lloyds enterprises limited,28,Weak,improved
-482,MMTC,MMTC Ltd.,28,Weak,improved
-483,DIACABS,Diamond Power Infra,27,Weak,improved
-484,IIFLCAPS,IIFL Securities,27,Weak,improved
-485,NCC,NCC Ltd.,27,Weak,held steady
-486,OLECTRA,Olectra Greentec,27,Weak,improved
-487,EMBDL,Embassy Developments,26,Weak,improved
-488,GSFC,GSFC,24,Weak,improved
-489,INOXWIND,Inox Wind Ltd.,22,Weak,improved
-490,KNRCON,KNR Constructions,20,Weak,improved
-491,IRCON,IRCON International Ltd.,19,Weak,held steady
+3,PIDILITIND,Pidilite Industries Ltd.,86,Outstanding,declined
+4,CAPLIPOINT,Caplin Point Laboratories Ltd.,84,Outstanding,held steady
+5,CORONA,CORONA Remedies,84,Outstanding,held steady
+6,TRITURBINE,Triveni Turbine Ltd.,84,Outstanding,declined
+7,VIJAYA,Vijaya Diagnost.,84,Outstanding,declined
+8,CAMS,Cams Services,83,Outstanding,held steady
+9,LALPATHLAB,Dr. Lal Path Labs Ltd.,83,Outstanding,held steady
+10,METROPOLIS,Metropolis Health.,83,Outstanding,declined
+11,THELEELA,Leela Palaces Hotels,83,Outstanding,declined
+12,GILLETTE,Gillette India Ltd.,82,Outstanding,declined
+13,MEDANTA,Global Health,82,Outstanding,declined
+14,RAINBOW,Rainbow Child.,82,Outstanding,declined
+15,SMARTWORKS,Smartworks Coworking,82,Outstanding,declined
+16,JBCHEPHARM,J.B. Chemicals & Pharmaceuticals Ltd.,81,Outstanding,declined
+17,TRAVELFOOD,Travel Food,81,Outstanding,improved
+18,ASIANPAINT,Asian Paints Ltd.,80,Outstanding,declined
+19,CRISIL,CRISIL Ltd.,80,Outstanding,declined
+20,KFINTECH,KFin Technolog.,80,Outstanding,declined
+21,PHOENIXLTD,Phoenix Mills Ltd.,80,Outstanding,held steady
+22,AGARWALEYE,Dr. Agarwal's Health,79,Strong,improved
+23,EICHERMOT,Eicher Motors Ltd.,79,Strong,held steady
+24,GODREJCP,Godrej Consumer Products Ltd.,79,Strong,declined
+25,JLHL,Jupiter Life Line,79,Strong,held steady
+26,MARICO,Marico Ltd.,79,Strong,improved
+27,ZYDUSLIFE,Zydus Lifesci.,79,Strong,declined
+28,CIPLA,Cipla Ltd.,78,Strong,declined
+29,GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,78,Strong,held steady
+30,PRUDENT,Prudent,78,Strong,declined
+31,SOLARINDS,Solar Industries India Ltd.,78,Strong,declined
+32,ASTRAL,Astral Poly Technik Ltd.,77,Strong,declined
+33,BHARTIHEXA,Bharti Hexacom,77,Strong,declined
+34,GRWRHITECH,Garware Hi Tech,77,Strong,declined
+35,INDHOTEL,Indian Hotels Co. Ltd.,77,Strong,improved
+36,INDIGOPNTS,Indigo Paints,77,Strong,declined
+37,IPCALAB,Ipca Laboratories Ltd.,77,Strong,improved
+38,LENSKART,Lenskart Solut.,77,Strong,improved
+39,NAUKRI,Info Edge (India) Ltd.,77,Strong,held steady
+40,TORNTPHARM,Torrent Pharmaceuticals Ltd.,77,Strong,declined
+41,MANKIND,Mankind Pharma,76,Strong,declined
+42,MANORAMA,Manorama Inds,76,Strong,declined
+43,ULTRACEMCO,UltraTech Cement Ltd.,76,Strong,declined
+44,BAJAJ-AUTO,Bajaj Auto Ltd.,75,Strong,declined
+45,CAPILLARY,Capillary Techno Ind,75,Strong,declined
+46,EMCURE,Emcure Pharma,75,Strong,declined
+47,CDSL,Central Depository Services (India) Ltd.,74,Strong,declined
+48,POLYCAB,Polycab India,74,Strong,declined
+49,POLYMED,Poly Medicure,74,Strong,declined
+50,PRIVISCL,Privi Speciality Che,74,Strong,declined
+51,ACE,Action Const.Eq.,73,Strong,declined
+52,AJANTPHARM,Ajanta Pharmaceuticals Ltd.,73,Strong,improved
+53,ELGIEQUIP,Elgi Equipments Ltd.,73,Strong,declined
+54,HDFCAMC,HDFC Asset Management Company Ltd.,73,Strong,declined
+55,INOXINDIA,Inox India,73,Strong,declined
+56,LLOYDSENGG,Lloyds Engr Works,73,Strong,held steady
+57,LODHA,Lodha Developers,73,Strong,held steady
+58,NESTLEIND,Nestle India,73,Strong,held steady
+59,NYKAA,FSN E-Commerce,73,Strong,held steady
+60,RUBICON,Rubicon Research,73,Strong,declined
+61,APLAPOLLO,APL Apollo Tubes Ltd.,72,Strong,held steady
+62,HINDUNILVR,Hindustan Unilever Ltd.,72,Strong,held steady
+63,IGIL,International Ge,72,Strong,declined
+64,INDGN,Indegene,72,Strong,declined
+65,BSE,BSE Ltd.,71,Strong,declined
+66,COFORGE,Coforge,71,Strong,declined
+67,SHAILY,Shaily,71,Strong,improved
+68,ABBOTINDIA,Abbott India,70,Strong,declined
+69,ALKEM,Alkem Laboratories Ltd.,70,Strong,held steady
+70,ANANDRATHI,Anand Rathi Wea.,70,Strong,held steady
+71,ASKAUTOLTD,ASK Automotive,70,Strong,held steady
+72,CANHLIFE,Canara HSBC,70,Strong,declined
+73,CARTRADE,Cartrade Tech,70,Strong,held steady
+74,COROMANDEL,Coromandel International Ltd.,70,Strong,declined
+75,DELHIVERY,Delhivery,70,Strong,declined
+76,ERIS,Eris Lifesciences Ltd.,70,Strong,held steady
+77,GRANULES,Granules India Ltd.,70,Strong,declined
+78,MEESHO,Meesho,70,Strong,declined
+79,OBEROIRLTY,Oberoi Realty Ltd.,70,Strong,declined
+80,TATACONSUM,Tata Consumer,70,Strong,declined
+81,THYROCARE,Thyrocare Tech,70,Strong,improved
+82,TIPSMUSIC,Tips Music,70,Strong,held steady
+83,VBL,Varun Beverages Ltd.,70,Strong,declined
+84,CMSINFO,CMS Info Systems,69,Strong,improved
+85,CUMMINSIND,Cummins India Ltd.,69,Strong,declined
+86,EUREKAFORB,Eureka Forbes,69,Strong,improved
+87,SBIN,State Bank of India,69,Strong,held steady
+88,SHRIPISTON,SPR Auto Technologie,69,Strong,declined
+89,SUDEEPPHRM,Sudeep Pharma,69,Strong,improved
+90,SUMICHEM,Sumitomo Chemi.,69,Strong,held steady
+91,BHARTIARTL,Bharti Airtel Ltd.,68,Strong,improved
+92,BLS,BLS Internat.,68,Strong,improved
+93,INTELLECT,Intellect Design Arena Ltd.,68,Strong,declined
+94,IRCTC,I R C T C,68,Strong,declined
+95,KALYANKJIL,Kalyan Jewellers,68,Strong,held steady
+96,PAGEIND,Page Industries Ltd.,68,Strong,declined
+97,TBOTEK,TBO Tek,68,Strong,declined
+98,TCS,Tata Consultancy Services Ltd.,68,Strong,held steady
+99,TENNIND,Tenneco Clean,68,Strong,held steady
+100,AEGISVOPAK,Aegis Vopak Term,67,Strong,declined
+101,BRITANNIA,Britannia Industries Ltd.,67,Strong,declined
+102,DABUR,Dabur India Ltd.,67,Strong,held steady
+103,DMART,Avenue Supermarts Ltd.,67,Strong,declined
+104,DOMS,DOMS Industries,67,Strong,declined
+105,GRASIM,Grasim Industries Ltd.,67,Strong,declined
+106,HCG,Healthcare Global,67,Strong,declined
+107,INDIAMART,Indiamart Inter.,67,Strong,declined
+108,OFSS,Oracle Financial Services Software Ltd.,67,Strong,improved
+109,PERSISTENT,Persistent Systems Ltd.,67,Strong,declined
+110,PRSMJOHNSN,Prism Johnson,67,Strong,improved
+111,SCHAEFFLER,Schaeffler India Ltd.,67,Strong,declined
+112,SONACOMS,Sona BLW Precis.,67,Strong,declined
+113,SUNPHARMA,Sun Pharmaceutical Industries Ltd.,67,Strong,held steady
+114,WOCKPHARMA,Wockhardt Ltd.,67,Strong,declined
+115,YATHARTH,Yatharth Hospital,67,Strong,declined
+116,ACUTAAS,Acutaas Chemical,66,Strong,held steady
+117,EIHOTEL,EIH Ltd.,66,Strong,improved
+118,IEX,Indian Energy Exchange Ltd.,66,Strong,declined
+119,JUBLFOOD,Jubilant Foodworks Ltd.,66,Strong,improved
+120,NEWGEN,Newgen Software,66,Strong,improved
+121,NH,Narayana Hrudayalaya Ltd.,66,Strong,improved
+122,RELIANCE,Reliance Industries Ltd.,66,Strong,declined
+123,TVSMOTOR,TVS Motor Company Ltd.,66,Strong,held steady
+124,WEWORK,Wework India Managem,66,Strong,declined
+125,ASTERDM,Aster DM Healthcare Ltd.,65,Strong,declined
+126,AZAD,Azad Engineering,65,Strong,improved
+127,HBLENGINE,HBL Engineering,65,Strong,declined
+128,HDBFS,HDB FINANC SER,65,Strong,declined
+129,ICICIGI,ICICI Lombard General Insurance Company Ltd.,65,Strong,declined
+130,IKS,Inventurus Knowl,65,Strong,declined
+131,NEULANDLAB,Neuland Labs.,65,Strong,held steady
+132,POLICYBZR,PB Fintech.,65,Strong,improved
+133,QPOWER,Quality Power Elect.,65,Strong,held steady
+134,SANOFICONR,Sanofi Cons. Health,65,Strong,held steady
+135,ABB,ABB India Ltd.,64,Decent,held steady
+136,AEGISLOG,Aegis Logistics,64,Decent,improved
+137,ARVINDFASN,Arvind Fashions,64,Decent,declined
+138,BERGEPAINT,Berger Paints India Ltd.,64,Decent,held steady
+139,CPPLUS,Aditya Infotech,64,Decent,held steady
+140,CROMPTON,Crompton Greaves Consumer Electricals Ltd.,64,Decent,declined
+141,KSB,KSB,64,Decent,improved
+142,LEMONTREE,Lemon Tree Hotels Ltd.,64,Decent,declined
+143,MAXHEALTH,Max Healthcare,64,Decent,held steady
+144,MSUMI,Motherson Wiring,64,Decent,declined
+145,NAVINFLUOR,Navin Fluorine International Ltd.,64,Decent,held steady
+146,PWL,Physicswallah,64,Decent,improved
+147,UNOMINDA,Uno Minda,64,Decent,declined
+148,URBANCO,Urban Company,64,Decent,held steady
+149,VMM,Vishal Mega Mart,64,Decent,improved
+150,ZFCVINDIA,ZF Commercial,64,Decent,held steady
+151,ALIVUS,Alivus Life Sciences,63,Decent,declined
+152,APARINDS,Apar Inds.,63,Decent,declined
+153,ATHERENERG,Ather Energy,63,Decent,declined
+154,BECTORFOOD,Mrs Bectors Food,63,Decent,held steady
+155,FORTIS,Fortis Healthcare Ltd.,63,Decent,declined
+156,ICICIAMC,ICICI AMC,63,Decent,held steady
+157,KIMS,Krishna Institu.,63,Decent,held steady
+158,KIRLPNU,Kirloskar Pneumatic,63,Decent,improved
+159,MARUTI,Maruti Suzuki India Ltd.,63,Decent,held steady
+160,MGL,Mahanagar Gas Ltd.,63,Decent,declined
+161,NAM-INDIA,Nippon Life Ind.,63,Decent,improved
+162,PNGJL,PN Gadgil Jewellers,63,Decent,declined
+163,PRICOLLTD,Pricol,63,Decent,declined
+164,SAILIFE,Sai Life,63,Decent,held steady
+165,SAREGAMA,Saregama India,63,Decent,held steady
+166,ZAGGLE,Zaggle Prepaid Ocean,63,Decent,declined
+167,ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,62,Decent,improved
+168,AFFLE,Affle 3i,62,Decent,held steady
+169,AIAENG,AIA Engineering Ltd.,62,Decent,declined
+170,ANTHEM,Anthem Bioscienc,62,Decent,improved
+171,BEL,Bharat Electronics Ltd.,62,Decent,declined
+172,CASTROLIND,Castrol India Ltd.,62,Decent,improved
+173,CEATLTD,Ceat Ltd.,62,Decent,held steady
+174,DATAPATTNS,Data Pattern,62,Decent,held steady
+175,GOKULAGRO,Gokul Agro Resources,62,Decent,held steady
+176,HAL,Hindustan Aeronautics Ltd.,62,Decent,held steady
+177,LUMAXTECH,Lumax Auto Tech,62,Decent,held steady
+178,MANYAVAR,Vedant Fashions,62,Decent,held steady
+179,MINDACORP,Minda Corporation Ltd.,62,Decent,declined
+180,NIVABUPA,Niva Bupa Health,62,Decent,improved
+181,PIIND,PI Industries Ltd.,62,Decent,held steady
+182,SBILIFE,SBI Life Insurance Company Ltd.,62,Decent,declined
+183,SFL,Sheela Foam,62,Decent,improved
+184,USHAMART,Usha Martin,62,Decent,improved
+185,VMART,V-Mart Retail,62,Decent,declined
+186,AKUMS,Akums Drugs & Pharmaceuticals,61,Decent,held steady
+187,ASAHIINDIA,Asahi India Glas,61,Decent,improved
+188,AWFIS,Awfis Space Solution,61,Decent,held steady
+189,BALKRISIND,Balkrishna Industries Ltd.,61,Decent,improved
+190,BELRISE,Belrise Industri,61,Decent,declined
+191,ETERNAL,Eternal,61,Decent,held steady
+192,FIVESTAR,Five-Star Bus.Fi,61,Decent,improved
+193,HEROMOTOCO,Hero MotoCorp Ltd.,61,Decent,held steady
+194,KEI,KEI Industries Ltd.,61,Decent,improved
+195,KIRLOSENG,Kirloskar Oil Eng Ltd.,61,Decent,declined
+196,LGEINDIA,LG Electronics,61,Decent,declined
+197,MPHASIS,MphasiS Ltd.,61,Decent,held steady
+198,POWERINDIA,Hitachi Energy,61,Decent,declined
+199,PTCIL,PTC Industries,61,Decent,improved
+200,WESTLIFE,Westlife Development,61,Decent,improved
+201,ALKYLAMINE,Alkyl Amines Chem,60,Decent,declined
+202,APOLLO,Apollo Micro Systems,60,Decent,declined
+203,ATUL,Atul Ltd.,60,Decent,improved
+204,BIKAJI,Bikaji Foods,60,Decent,held steady
+205,CHALET,Chalet Hotels,60,Decent,held steady
+206,CONCORDBIO,Concord Biotech,60,Decent,improved
+207,ENDURANCE,Endurance Technologies Ltd.,60,Decent,held steady
+208,GABRIEL,Gabriel India,60,Decent,declined
+209,GLENMARK,Glenmark Pharmaceuticals Ltd.,60,Decent,improved
+210,HYUNDAI,Hyundai Motor I,60,Decent,declined
+211,JAMNAAUTO,Jamna Auto Inds,60,Decent,improved
+212,KPITTECH,KPIT Technologi.,60,Decent,declined
+213,MFSL,Max Financial Services Ltd.,60,Decent,improved
+214,PVRINOX,PVR Inox,60,Decent,declined
+215,RADICO,Radico Khaitan Ltd,60,Decent,improved
+216,RRKABEL,R R Kabel,60,Decent,declined
+217,SUPRIYA,Supriya Lifescience,60,Decent,improved
+218,AAVAS,Aavas Financiers Ltd.,59,Decent,improved
+219,ABLBL,A B Lifestyle,59,Decent,improved
+220,BIRLACORPN,Birla Corporation,59,Decent,declined
+221,BOSCHLTD,Bosch Ltd.,59,Decent,declined
+222,CRIZAC,Crizac,59,Decent,declined
+223,CUB,City Union Bank Ltd.,59,Decent,improved
+224,DYNAMATECH,Dynamatic Tech,59,Decent,declined
+225,HCLTECH,HCL Technologies Ltd.,59,Decent,improved
+226,ITC,ITC Ltd.,59,Decent,held steady
+227,PARKHOSPS,Park Medi World,59,Decent,improved
+228,SAMHI,Samhi Hotels,59,Decent,declined
+229,SHARDACROP,Sharda Cropchem,59,Decent,declined
+230,SUPREMEIND,Supreme Industries Ltd.,59,Decent,held steady
+231,TATACAP,Tata Capital,59,Decent,held steady
+232,WAKEFIT,Wakefit Innovations,59,Decent,held steady
+233,ECLERX,eClerx Services Ltd.,58,Decent,improved
+234,EPL,EPL,58,Decent,improved
+235,GODREJAGRO,Godrej Agrovet,58,Decent,improved
+236,HAVELLS,Havells India Ltd.,58,Decent,improved
+237,HEXT,Hexaware Tech.,58,Decent,declined
+238,HSCL,Himadri Speciality Chemical Ltd.,58,Decent,held steady
+239,ICICIBANK,ICICI Bank Ltd.,58,Decent,improved
+240,INFY,Infosys Ltd.,58,Decent,declined
+241,IXIGO,Le Travenues Techno,58,Decent,improved
+242,LTFOODS,L T Foods,58,Decent,declined
+243,NESCO,Nesco,58,Decent,held steady
+244,NUVAMA,Nuvama Wealth,58,Decent,improved
+245,PGIL,Pearl Global Inds.,58,Decent,declined
+246,PRESTIGE,Prestige Estates Projects Ltd.,58,Decent,held steady
+247,RATEGAIN,RateGain,58,Decent,held steady
+248,STARHEALTH,Star Health Insu,58,Decent,held steady
+249,STYL,Seshaasai Technologi,58,Decent,declined
+250,TI,Tilaknagar Inds,58,Decent,held steady
+251,TITAN,Titan Company Ltd.,58,Decent,declined
+252,VAIBHAVGBL,Vaibhav Global,58,Decent,improved
+253,VGUARD,V-Guard Inds.,58,Decent,held steady
+254,APTUS,Aptus Value Hou.,57,Decent,improved
+255,AWL,AWL Agri Busine.,57,Decent,declined
+256,BANCOINDIA,Banco Products,57,Decent,improved
+257,BLUEDART,Blue Dart Express Ltd.,57,Decent,held steady
+258,DCBBANK,DCB Bank,57,Decent,declined
+259,DIXON,Dixon Technologies (India) Ltd.,57,Decent,declined
+260,EMAMILTD,Emami Ltd.,57,Decent,improved
+261,ENTERO,Entero Healthcare,57,Decent,improved
+262,HINDZINC,Hindustan Zinc Ltd.,57,Decent,held steady
+263,HONASA,Honasa Consumer,57,Decent,improved
+264,JBMA,JBM Auto,57,Decent,held steady
+265,JSLL,Jeena Sikho Life,57,Decent,improved
+266,KOTAKBANK,Kotak Mahindra Bank Ltd.,57,Decent,held steady
+267,LAURUSLABS,Laurus Labs Ltd.,57,Decent,improved
+268,SAGILITY,Sagility,57,Decent,declined
+269,SANDUMA,Sandur Manganese,57,Decent,held steady
+270,SONATSOFTW,Sonata Software Ltd.,57,Decent,declined
+271,TATAELXSI,Tata Elxsi Ltd.,57,Decent,declined
+272,AVALON,Avalon Technologies,56,Decent,held steady
+273,AVL,Aditya Vision,56,Decent,improved
+274,BAJFINANCE,Bajaj Finance Ltd.,56,Decent,held steady
+275,BLUEJET,Blue Jet Health,56,Decent,declined
+276,CENTRALBK,Central Bank of India,56,Decent,held steady
+277,DATAMATICS,Datamatic Global Ser,56,Decent,declined
+278,ELLEN,Ellenbarrie Indl.Gas,56,Decent,held steady
+279,FEDERALBNK,Federal Bank Ltd.,56,Decent,improved
+280,GMMPFAUDLR,GMM Pfaudler,56,Decent,held steady
+281,GMRAIRPORT,GMR Airports,56,Decent,improved
+282,GODIGIT,Go Digit General,56,Decent,held steady
+283,GRAVITA,Gravita India,56,Decent,declined
+284,INDIASHLTR,India Shelter Fin.,56,Decent,declined
+285,JUBLPHARMA,Jubilant Pharmo,56,Decent,held steady
+286,LINDEINDIA,Linde India Ltd.,56,Decent,held steady
+287,LTTS,L&T Technology Services Ltd.,56,Decent,improved
+288,MOTHERSON,Samvardh. Mothe.,56,Decent,improved
+289,NTPCGREEN,NTPC Green Ene.,56,Decent,held steady
+290,REDINGTON,Redington (India) Ltd.,56,Decent,declined
+291,SHILPAMED,Shilpa Medicare,56,Decent,held steady
+292,SKYGOLD,Sky Gold & Diamonds,56,Decent,improved
+293,TDPOWERSYS,TD Power Systems,56,Decent,declined
+294,TMCV,Tata Motors,56,Decent,improved
+295,UNITDSPR,United Spirits,56,Decent,improved
+296,AETHER,Aether Inds,55,Decent,improved
+297,BLACKBUCK,BlackBuck,55,Decent,improved
+298,CLEAN,Clean Science,55,Decent,held steady
+299,HDFCLIFE,HDFC Life Insurance Company Ltd.,55,Decent,improved
+300,HERITGFOOD,Heritage Foods,55,Decent,improved
+301,HOMEFIRST,Home First Finan,55,Decent,held steady
+302,INDUSTOWER,Indus Towers,55,Decent,improved
+303,LLOYDSME,Lloyds Metals,55,Decent,improved
+304,MEDPLUS,Medplus Health Services,55,Decent,improved
+305,ONESOURCE,OneSource Speci.,55,Decent,held steady
+306,ORKLAINDIA,Orkla India,55,Decent,held steady
+307,SHREECEM,Shree Cement Ltd.,55,Decent,improved
+308,SHRIRAMFIN,Shriram Finance,55,Decent,improved
+309,STYRENIX,Styrenix Performance,55,Decent,improved
+310,TRANSRAILL,Transrail Lighting,55,Decent,declined
+311,VIYASH,Viyash Scientific,55,Decent,held steady
+312,BAJAJFINSV,Bajaj Finserv Ltd.,54,Decent,held steady
+313,BBTC,Bombay Burmah Trading Corporation Ltd.,54,Decent,declined
+314,CARBORUNIV,Carborundum Universal Ltd.,54,Decent,held steady
+315,CERA,Cera Sanitaryware,54,Decent,held steady
+316,FEDFINA,Fedbank Financial,54,Decent,declined
+317,FORCEMOT,Force Motors,54,Decent,improved
+318,GAEL,Gujarat Ambuja Exp,54,Decent,held steady
+319,IDFCFIRSTB,IDFC First Bank Ltd.,54,Decent,declined
+320,JSWINFRA,JSW Infrast,54,Decent,held steady
+321,KIRLOSBROS,Kirloskar Brothers,54,Decent,improved
+322,KPIL,Kalpataru Proj.,54,Decent,declined
+323,LICI,Life Insurance,54,Decent,held steady
+324,MARKSANS,Marksans Pharma,54,Decent,declined
+325,SAPPHIRE,Sapphire Foods,54,Decent,declined
+326,SYNGENE,Syngene International Ltd.,54,Decent,improved
+327,TRENT,Trent Ltd.,54,Decent,improved
+328,AADHARHFC,Aadhar Hsg. Fin.,53,Decent,declined
+329,ATGL,Adani Total Gas,53,Decent,held steady
+330,BANKBARODA,Bank of Baroda,53,Decent,held steady
+331,BAYERCROP,Bayer Crop Sci.,53,Decent,declined
+332,BLUESTARCO,Blue Star Ltd.,53,Decent,held steady
+333,CCL,CCL Products (I) Ltd.,53,Decent,improved
+334,CEMPRO,Cemindia Project,53,Decent,declined
+335,CENTURYPLY,Century Plyboard,53,Decent,improved
+336,CGCL,Capri Global,53,Decent,held steady
+337,DLF,DLF Ltd.,53,Decent,improved
+338,FSL,Firstsource Solutions Ltd.,53,Decent,held steady
+339,LTM,LTM,53,Decent,declined
+340,MCX,Multi Comm. Exc.,53,Decent,held steady
+341,MRF,MRF Ltd.,53,Decent,improved
+342,SANSERA,Sansera Engineering,53,Decent,improved
+343,TATACOMM,Tata Comm,53,Decent,declined
+344,TEGA,Tega Inds.,53,Decent,improved
+345,THANGAMAYL,Thangamayil Jeweller,53,Decent,held steady
+346,VOLTAMP,Voltamp Transformers,53,Decent,improved
+347,WABAG,VA Tech Wabag,53,Decent,improved
+348,AEQUS,Aequs,52,Decent,improved
+349,AMBUJACEM,Ambuja Cements Ltd.,52,Decent,improved
+350,ARVIND,Arvind,52,Decent,held steady
+351,DRREDDY,Dr. Reddy's Laboratories Ltd.,52,Decent,declined
+352,JSL,Jindal Stainless Ltd.,52,Decent,declined
+353,LUPIN,Lupin Ltd.,52,Decent,improved
+354,PARAS,Paras Defence,52,Decent,improved
+355,PETRONET,Petronet LNG Ltd.,52,Decent,held steady
+356,PINELABS,Pine Labs,52,Decent,improved
+357,POONAWALLA,Poonawalla Fin,52,Decent,improved
+358,UCOBANK,UCO Bank,52,Decent,declined
+359,V2RETAIL,V2 Retail,52,Decent,improved
+360,VARROC,Varroc Engineering,52,Decent,held steady
+361,WAAREEENER,Waaree Energies,52,Decent,declined
+362,WELCORP,Welspun Corp Ltd.,52,Decent,improved
+363,ZENTEC,Zen Technologies,52,Decent,declined
+364,ZYDUSWELL,Zydus Wellness Ltd.,52,Decent,held steady
+365,ASTRAMICRO,Astra Micro Wave,51,Decent,improved
+366,AUBANK,AU Small Finance Bank Ltd.,51,Decent,held steady
+367,BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,51,Decent,improved
+368,CANFINHOME,Can Fin Homes Ltd.,51,Decent,declined
+369,CESC,CESC Ltd.,51,Decent,improved
+370,CGPOWER,CG Power and Industrial Solutions Ltd.,51,Decent,declined
+371,CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,51,Decent,held steady
+372,DIVISLAB,Divi's Laboratories Ltd.,51,Decent,improved
+373,EMIL,Electronics Mart Ind,51,Decent,held steady
+374,ETHOSLTD,Ethos,51,Decent,declined
+375,JSFB,Jana Small Fin. Bank,51,Decent,held steady
+376,JSWCEMENT,JSW Cement,51,Decent,held steady
+377,JYOTHYLAB,Jyothy Labs,51,Decent,held steady
+378,LOTUSDEV,Sri Lotus Developers,51,Decent,improved
+379,LT,Larsen & Toubro Ltd.,51,Decent,held steady
+380,MAHABANK,Bank of Maharashtra.,51,Decent,held steady
+381,MOTILALOFS,Motilal Oswal Financial Services Ltd.,51,Decent,improved
+382,NETWEB,Netweb Technol.,51,Decent,declined
+383,NTPC,NTPC Ltd.,51,Decent,declined
+384,PICCADIL,Piccadily Agro,51,Decent,improved
+385,SHYAMMETL,Shyam Metalics,51,Decent,declined
+386,SKFINDIA,SKF India,51,Decent,declined
+387,SMLMAH,SML Mahindra,51,Decent,held steady
+388,STARCEMENT,Star Cement,51,Decent,improved
+389,TATATECH,Tata Technolog.,51,Decent,declined
+390,TMB,Tamilnad Mercantile,51,Decent,held steady
+391,UTLSOLAR,Fujiyama Power Syste,51,Decent,improved
+392,YESBANK,Yes Bank Ltd.,51,Decent,improved
+393,ABDL,Allied Blenders,50,Decent,improved
+394,ANUP,Anup Engineering,50,Decent,improved
+395,APOLLOTYRE,Apollo Tyres Ltd.,50,Decent,improved
+396,ATLANTAELE,Atlanta Electricals,50,Decent,declined
+397,AURIONPRO,Aurionpro Solutions,50,Decent,improved
+398,BLUESTONE,Bluestone Jewellery,50,Decent,held steady
+399,CAMPUS,Campus Active,50,Decent,improved
+400,CANBK,Canara Bank,50,Decent,held steady
+401,ELECON,Elecon Engg.Co,50,Decent,improved
+402,GODREJIND,Godrej Industries Ltd.,50,Decent,improved
+403,HAPPSTMNDS,Happiest Minds Tech.,50,Decent,held steady
+404,ITCHOTELS,ITC Hotels,50,Decent,held steady
+405,JKCEMENT,J.K. Cement Ltd.,50,Decent,held steady
+406,JKPAPER,JK Paper,50,Decent,held steady
+407,JUBLINGREA,Jubilant Ingrev.,50,Decent,improved
+408,KSCL,Kaveri Seed Co,50,Decent,held steady
+409,LTF,L&T Finance Ltd,50,Decent,improved
+410,MANAPPURAM,Manappuram Finance Ltd.,50,Decent,declined
+411,MAPMYINDIA,C.E. Info System,50,Decent,improved
+412,MUTHOOTFIN,Muthoot Finance Ltd.,50,Decent,held steady
+413,PPLPHARMA,Piramal Pharma,50,Decent,improved
+414,RAYMONDLSL,Raymond Lifestyle,50,Decent,improved
+415,SBICARD,SBI Cards,50,Decent,improved
+416,SCHNEIDER,Schneider Elect.,50,Decent,declined
+417,SENCO,Senco Gold,50,Decent,held steady
+418,SIEMENS,Siemens Ltd.,50,Decent,held steady
+419,SRF,SRF Ltd.,50,Decent,declined
+420,TATAPOWER,Tata Power Co. Ltd.,50,Decent,held steady
+421,TIMKEN,Timken India Ltd.,50,Decent,improved
+422,AHLUCONT,Ahluwalia Contracts,49,Mixed,held steady
+423,AVANTIFEED,Avanti Feeds,49,Mixed,held steady
+424,CSBBANK,CSB Bank,49,Mixed,declined
+425,GODREJPROP,Godrej Properties Ltd.,49,Mixed,improved
+426,HDFCBANK,HDFC Bank Ltd.,49,Mixed,improved
+427,INDIGO,InterGlobe Aviation Ltd.,49,Mixed,improved
+428,KAJARIACER,Kajaria Ceramics Ltd.,49,Mixed,improved
+429,KRBL,KRBL,49,Mixed,declined
+430,PRAJIND,Praj Industries,49,Mixed,held steady
+431,RITES,RITES Ltd.,49,Mixed,improved
+432,SARDAEN,Sarda Energy,49,Mixed,held steady
+433,UJJIVANSFB,Ujjivan Small Fin,49,Mixed,held steady
+434,ABCAPITAL,Aditya Birla Capital Ltd.,48,Mixed,improved
+435,ADANIPOWER,Adani Power Ltd.,48,Mixed,held steady
+436,DALBHARAT,Dalmia BharatLtd,48,Mixed,improved
+437,ENRIN,Siemens Ener.Ind,48,Mixed,improved
+438,EXIDEIND,Exide Industries Ltd.,48,Mixed,held steady
+439,FIEMIND,Fiem Inds,48,Mixed,improved
+440,FIRSTCRY,Brainbees Solut.,48,Mixed,held steady
+441,GODFRYPHLP,Godfrey Phillips India Ltd.,48,Mixed,improved
+442,HINDALCO,Hindalco Industries Ltd.,48,Mixed,declined
+443,HUDCO,Housing & Urban Development Corporation Ltd.,48,Mixed,improved
+444,IIFL,IIFL Finance,48,Mixed,improved
+445,IOB,Indian Overseas Bank ,48,Mixed,held steady
+446,JAINREC,Jain Resource,48,Mixed,held steady
+447,KANSAINER,Kansai Nerolac,48,Mixed,declined
+448,NFL,National Fertilizers,48,Mixed,held steady
+449,SAFARI,Safari Industries(I),48,Mixed,improved
+450,SKFINDUS,SKF India (Indust.),48,Mixed,held steady
+451,SOUTHBANK,South Indian Bank,48,Mixed,held steady
+452,SPLPETRO,Supreme Petroch.,48,Mixed,declined
+453,TECHM,Tech Mahindra Ltd.,48,Mixed,improved
+454,TIMETECHNO,Time Technoplast,48,Mixed,improved
+455,TRIDENT,Trident Ltd.,48,Mixed,improved
+456,TVSSCS,TVS Supply Chain Sol,48,Mixed,improved
+457,WELENT,Welspun Enterprises,48,Mixed,improved
+458,WHIRLPOOL,Whirlpool of India Ltd.,48,Mixed,held steady
+459,AARTIPHARM,Aarti Pharmalabs,47,Mixed,held steady
+460,ANURAS,Anupam Rasayan,47,Mixed,declined
+461,AXISBANK,Axis Bank Ltd.,47,Mixed,improved
+462,BRIGADE,Brigade Enterprises Ltd.,47,Mixed,held steady
+463,CELLO,Cello World,47,Mixed,held steady
+464,COCHINSHIP,Cochin Shipyard Ltd.,47,Mixed,held steady
+465,CREDITACC,CreditAccess Grameen Ltd.,47,Mixed,declined
+466,CYIENT,Cyient Ltd.,47,Mixed,improved
+467,DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,47,Mixed,held steady
+468,IFBIND,IFB Industries,47,Mixed,declined
+469,JIOFIN,Jio Financial,47,Mixed,improved
+470,KARURVYSYA,Karur Vysya Bank Ltd.,47,Mixed,improved
+471,LATENTVIEW,Latent View,47,Mixed,held steady
+472,MAZDOCK,Mazagon Dock,47,Mixed,held steady
+473,NUVOCO,Nuvoco Vistas,47,Mixed,improved
+474,PCBL,PCBL Chemical,47,Mixed,held steady
+475,PFIZER,Pfizer Ltd.,47,Mixed,improved
+476,PIRAMALFIN,Piramal Finance.,47,Mixed,improved
+477,PNB,Punjab National Bank,47,Mixed,improved
+478,PNBHOUSING,PNB Housing Finance Ltd.,47,Mixed,improved
+479,RBA,Restaurant Brands,47,Mixed,improved
+480,REDTAPE,Redtape,47,Mixed,improved
+481,SIGNATURE,SignatureGlobal,47,Mixed,declined
+482,SURYAROSNI,Surya Roshni,47,Mixed,declined
+483,SYRMA,Syrma SGS Tech.,47,Mixed,improved
+484,ADVENZYMES,Advanced Enzyme,46,Mixed,improved
+485,BANDHANBNK,Bandhan Bank Ltd.,46,Mixed,improved
+486,BATAINDIA,Bata India Ltd.,46,Mixed,improved
+487,CRAMC,Canara Robeco Asset,46,Mixed,held steady
+488,DCMSHRIRAM,DCM Shriram Ltd.,46,Mixed,improved
+489,GALLANTT,Gallantt Ispat L,46,Mixed,improved
+490,GROWW,Billionbrains,46,Mixed,improved
+491,GRSE,Garden Reach Sh.,46,Mixed,held steady
+492,HINDPETRO,Hindustan Petroleum Corporation Ltd.,46,Mixed,held steady
+493,IDBI,IDBI Bank Ltd.,46,Mixed,improved
+494,IGL,Indraprastha Gas Ltd.,46,Mixed,improved
+495,IMFA,IMFA,46,Mixed,improved
+496,INDIAGLYCO,India Glycols,46,Mixed,improved
+497,IRB,IRB Infrastructure Developers Ltd.,46,Mixed,declined
+498,JYOTICNC,Jyoti CNC Auto.,46,Mixed,improved
+499,MASTEK,Mastek,46,Mixed,held steady
+500,ONGC,Oil & Natural Gas Corporation Ltd.,46,Mixed,improved
+501,POWERGRID,Power Grid Corporation of India Ltd.,46,Mixed,improved
+502,RKFORGE,Ramkrishna Forgings Ltd.,46,Mixed,declined
+503,SBFC,SBFC Finance,46,Mixed,held steady
+504,TATAINVEST,Tata Investment Corporation Ltd.,46,Mixed,improved
+505,ZENSARTECH,Zensar Technolgies Ltd.,46,Mixed,held steady
+506,AMBER,Amber Enterp.,45,Mixed,declined
+507,BAJAJHFL,Bajaj Housing,45,Mixed,held steady
+508,BIOCON,Biocon Ltd.,45,Mixed,improved
+509,CRAFTSMAN,Craftsman Auto,45,Mixed,held steady
+510,DEVYANI,Devyani Intl.,45,Mixed,improved
+511,EQUITASBNK,Equitas Small Fin,45,Mixed,declined
+512,GLAND,Gland Pharma,45,Mixed,improved
+513,JAYNECOIND,Jayaswal Neco Inds,45,Mixed,held steady
+514,JPPOWER,JP Power Ven.,45,Mixed,improved
+515,KPRMILL,K.P.R. Mill Ltd.,45,Mixed,declined
+516,MAHSCOOTER,Maharashtra Scooters,45,Mixed,improved
+517,NATCOPHARM,NATCO Pharma Ltd.,45,Mixed,held steady
+518,OIL,Oil India Ltd.,45,Mixed,declined
+519,PARADEEP,Paradeep Phosph.,45,Mixed,declined
+520,QUESS,Quess Corp,45,Mixed,improved
+521,RAMCOCEM,The Ramco Cements Ltd.,45,Mixed,held steady
+522,RATNAMANI,Ratnamani Metals,45,Mixed,improved
+523,RCF,Rashtriya Chemical,45,Mixed,improved
+524,REFEX,Refex Industries,45,Mixed,declined
+525,SUNTV,Sun TV Network Ltd.,45,Mixed,improved
+526,SWIGGY,Swiggy,45,Mixed,improved
+527,TORNTPOWER,Torrent Power Ltd.,45,Mixed,held steady
+528,UBL,United Breweries Ltd.,45,Mixed,improved
+529,AARTIIND,Aarti Industries,44,Mixed,declined
+530,ADANIENT,Adani Enterp.,44,Mixed,held steady
+531,ANGELONE,Angel One,44,Mixed,held steady
+532,BALUFORGE,Balu Forge Inds,44,Mixed,improved
+533,BPCL,Bharat Petroleum Corporation Ltd.,44,Mixed,improved
+534,DEEPAKNTR,Deepak Nitrite Ltd.,44,Mixed,declined
+535,FINCABLES,Finolex Cables Ltd.,44,Mixed,declined
+536,GAIL,GAIL (India) Ltd.,44,Mixed,improved
+537,GHCL,GHCL,44,Mixed,declined
+538,GPPL,Gujarat Pipavav Port,44,Mixed,improved
+539,HEMIPROP,Hemisphere Prop,44,Mixed,held steady
+540,HINDCOPPER,Hindustan Copper Ltd.,44,Mixed,declined
+541,IONEXCHANG,Ion Exchange,44,Mixed,held steady
+542,JKTYRE,JK Tyre & Industries Ltd.,44,Mixed,improved
+543,PAYTM,One 97,44,Mixed,improved
+544,POWERMECH,Power Mech Projects,44,Mixed,declined
+545,SKIPPER,Skipper,44,Mixed,declined
+546,STAR,Strides Pharma,44,Mixed,held steady
+547,SUDARSCHEM,Sudarshan Chemicals,44,Mixed,improved
+548,TANLA,Tanla Platforms,44,Mixed,held steady
+549,THOMASCOOK,Thomas Cook India,44,Mixed,improved
+550,WIPRO,Wipro Ltd.,44,Mixed,held steady
+551,ABSLAMC,Aditya AMC,43,Mixed,improved
+552,ACC,ACC Ltd.,43,Mixed,improved
+553,CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,43,Mixed,improved
+554,CHENNPETRO,Chennai Petroleum Corporation Ltd.,43,Mixed,declined
+555,CIEINDIA,CIE Automotive,43,Mixed,declined
+556,CONCOR,Container Corporation of India Ltd.,43,Mixed,improved
+557,JSWSTEEL,JSW Steel Ltd.,43,Mixed,held steady
+558,JUSTDIAL,Just Dial,43,Mixed,improved
+559,KRN,KRN Heat Exch Refrig,43,Mixed,improved
+560,MOIL,MOIL,43,Mixed,declined
+561,PFOCUS,Prime Focus,43,Mixed,held steady
+562,SUNTECK,Sunteck Realty,43,Mixed,improved
+563,TTML,Tata Tele. Mah.,43,Mixed,held steady
+564,UNIONBANK,Union Bank of India,43,Mixed,improved
+565,UTIAMC,UTI AMC,43,Mixed,improved
+566,AFCONS,Afcons Infrastr.,42,Mixed,held steady
+567,AUROPHARMA,Aurobindo Pharma Ltd.,42,Mixed,improved
+568,GESHIP,Great Eastern Shipping Co. Ltd.,42,Mixed,held steady
+569,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,42,Mixed,improved
+570,JINDALSTEL,Jindal Steel & Power Ltd.,42,Mixed,declined
+571,JSWENERGY,JSW Energy Ltd.,42,Mixed,held steady
+572,KTKBANK,Karnataka Bank,42,Mixed,improved
+573,MIDHANI,Mishra Dhatu Nigam,42,Mixed,improved
+574,MTARTECH,MTAR Technologies,42,Mixed,held steady
+575,NBCC,NBCC (India) Ltd.,42,Mixed,held steady
+576,RECLTD,REC Ltd.,42,Mixed,held steady
+577,THERMAX,Thermax Ltd.,42,Mixed,improved
+578,VIKRAMSOLR,Vikram Solar,42,Mixed,held steady
+579,ASHAPURMIN,Ashapura Minechem,41,Mixed,improved
+580,ASHOKLEY,Ashok Leyland Ltd.,41,Mixed,improved
+581,BBOX,Black Bo,41,Mixed,held steady
+582,BDL,Bharat Dynamics Ltd.,41,Mixed,improved
+583,BHARATFORG,Bharat Forge Ltd.,41,Mixed,improved
+584,EIDPARRY,E.I.D. Parry (India) Ltd.,41,Mixed,declined
+585,ENGINERSIN,Engineers India Ltd.,41,Mixed,held steady
+586,ESCORTS,Escorts Ltd.,41,Mixed,improved
+587,INDUSINDBK,IndusInd Bank Ltd.,41,Mixed,improved
+588,JKLAKSHMI,JK Lakshmi Cement,41,Mixed,improved
+589,JSWDULUX,JSW Dulux,41,Mixed,declined
+590,PGEL,PG Electroplast,41,Mixed,held steady
+591,PREMIERENE,Premier Energies,41,Mixed,declined
+592,RPOWER,Reliance Power Ltd.,41,Mixed,improved
+593,SOBHA,Sobha Ltd.,41,Mixed,improved
+594,SUBROS,Subros,41,Mixed,held steady
+595,ADANIENSOL,Adani Energy Sol,40,Mixed,improved
+596,ADANIGREEN,Adani Green Energy Ltd.,40,Mixed,held steady
+597,BAJAJELEC,Bajaj Electricals,40,Mixed,improved
+598,EDELWEISS,Edelweiss Financial Services,40,Mixed,improved
+599,GOKEX,Gokaldas Exports,40,Mixed,held steady
+600,HONAUT,Honeywell Automation India Ltd.,40,Mixed,improved
+601,IOC,Indian Oil Corporation Ltd.,40,Mixed,improved
+602,JMFINANCIL,JM Financial Ltd.,40,Mixed,improved
+603,RALLIS,Rallis India,40,Mixed,held steady
+604,SUZLON,Suzlon Energy Ltd.,40,Mixed,improved
+605,UPL,UPL Ltd.,40,Mixed,held steady
+606,AARTIDRUGS,Aarti Drugs,39,Mixed,held steady
+607,APLLTD,Alembic Pharma,39,Mixed,improved
+608,BANKINDIA,Bank of India,39,Mixed,improved
+609,INOXGREEN,Inox Green Energy Se,39,Mixed,held steady
+610,JINDALSAW,Jindal Saw Ltd.,39,Mixed,declined
+611,KEC,Kec International Ltd.,39,Mixed,improved
+612,RELIGARE,Religare Enterprises,39,Mixed,improved
+613,SAMMAANCAP,Sammaan Capital,39,Mixed,improved
+614,STLTECH,Sterlite Tech,39,Mixed,improved
+615,TRIVENI,Triveni Engg,39,Mixed,declined
+616,VEDL,Vedanta Ltd.,39,Mixed,held steady
+617,CCAVENUE,AvenuesAI,38,Mixed,held steady
+618,CHOICEIN,Choice Intl.,38,Mixed,improved
+619,EIEL,Enviro Infra Engine.,38,Mixed,held steady
+620,GPIL,Godawari Power,38,Mixed,improved
+621,ICIL,Indo Count Inds,38,Mixed,improved
+622,IRFC,I R F C,38,Mixed,improved
+623,KAYNES,Kaynes Tech,38,Mixed,held steady
+624,LXCHEM,Laxmi Organic Inds.,38,Mixed,held steady
+625,TARIL,T R I L,38,Mixed,declined
+626,TATASTEEL,Tata Steel Ltd.,38,Mixed,improved
+627,TSFINV,TSF Investments,38,Mixed,held steady
+628,BALRAMCHIN,Balrampur Chini Mills Ltd.,37,Mixed,held steady
+629,COHANCE,Cohance Life,37,Mixed,improved
+630,CUPID,Cupid,37,Mixed,improved
+631,FACT,F A C T,37,Mixed,improved
+632,FLUOROCHEM,Gujarat Fluoroch,37,Mixed,improved
+633,NATIONALUM,National Aluminium Co. Ltd.,37,Mixed,held steady
+634,NHPC,NHPC Ltd.,37,Mixed,improved
+635,SAIL,Steel Authority of India Ltd.,37,Mixed,held steady
+636,TECHNOE,Techno Elec.Engg,37,Mixed,improved
+637,TIINDIA,Tube Investments of India Ltd.,37,Mixed,improved
+638,TITAGARH,Titagarh Rail,37,Mixed,held steady
+639,BEML,BEML Ltd.,36,Mixed,improved
+640,BORORENEW,Borosil Renewables,36,Mixed,held steady
+641,BSOFT,Birlasoft Ltd,36,Mixed,held steady
+642,JWL,Jupiter Wagons,36,Mixed,held steady
+643,LICHSGFIN,LIC Housing Finance Ltd.,36,Mixed,declined
+644,NLCINDIA,NLC India Ltd.,36,Mixed,held steady
+645,NMDC,NMDC Ltd.,36,Mixed,improved
+646,PFC,Power Finance Corporation Ltd.,36,Mixed,held steady
+647,SAATVIKGL,Saatvik Green Energy,36,Mixed,improved
+648,ACI,Archean Chem Inds,35,Mixed,improved
+649,COALINDIA,Coal India Ltd.,35,Mixed,held steady
+650,EMMVEE,Emmvee Photovol.,35,Mixed,held steady
+651,MSTCLTD,MSTC,35,Mixed,improved
+652,NEOGEN,Neogen Chemicals,35,Mixed,improved
+653,PURVA,Puravankara,35,Mixed,improved
+654,RAILTEL,Railtel Corpn.,35,Mixed,improved
+655,RHIM,RHI Magnesita,35,Mixed,improved
+656,SHAREINDIA,Share India,35,Mixed,improved
+657,VTL,Vardhman Textiles Ltd.,35,Mixed,improved
+658,ACMESOLAR,ACME Solar Hold.,34,Weak,held steady
+659,ALOKINDS,Alok Industries,34,Weak,improved
+660,BALAMINES,Balaji Amines,34,Weak,improved
+661,BHEL,Bharat Heavy Electricals Ltd.,34,Weak,held steady
+662,CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,34,Weak,held steady
+663,HCC,Hindustan Constr,34,Weak,improved
+664,HEG,H.E.G. Ltd.,34,Weak,improved
+665,JAIBALAJI,Jai Balaji Inds,34,Weak,improved
+666,MAHSEAMLES,Maharashtra Seamless,34,Weak,declined
+667,NAVA,Nava,34,Weak,held steady
+668,NIACL,The New India Assurance Company Ltd.,34,Weak,improved
+669,RAIN,Rain Industries,34,Weak,improved
+670,RENUKA,Shree Renuka Sugars,34,Weak,improved
+671,WAAREERTL,Waaree Renewables,34,Weak,improved
+672,DBREALTY,Valor Estate,33,Weak,held steady
+673,ELECTCAST,Electrosteel Castings,33,Weak,declined
+674,FINPIPE,Finolex Industries,33,Weak,held steady
+675,GICRE,General Insurance Corporation of India,33,Weak,held steady
+676,INDIANB,Indian Bank,33,Weak,improved
+677,RBLBANK,RBL Bank Ltd.,33,Weak,improved
+678,RELAXO,Relaxo Footwears,33,Weak,improved
+679,TATACHEM,Tata Chemicals Ltd.,33,Weak,held steady
+680,TEXRAIL,Texmaco Rail,33,Weak,held steady
+681,WELSPUNLIV,Welspun Living,33,Weak,improved
+682,ASHOKA,Ashoka Buildcon,32,Weak,improved
+683,AXISCADES,Axiscades Tech,32,Weak,improved
+684,HFCL,Himachal Fut Com Ltd.,32,Weak,held steady
+685,KITEX,Kitex Garments,32,Weak,improved
+686,NAZARA,Nazara Technologies,32,Weak,improved
+687,NETWORK18,Network18 Media,32,Weak,improved
+688,NSLNISP,NMDC Steel,32,Weak,held steady
+689,PATANJALI,Patanjali Foods,32,Weak,improved
+690,PTC,PTC India,32,Weak,improved
+691,SCI,Shipping Corporation of India Ltd.,32,Weak,improved
+692,WEBELSOLAR,Websol Energy System,32,Weak,held steady
+693,GNFC,GNFC,31,Weak,improved
+694,INDIACEM,India Cements Ltd.,31,Weak,improved
+695,ORIENTCEM,Orient Cement,31,Weak,improved
+696,ROUTE,Route Mobile,31,Weak,improved
+697,VOLTAS,Voltas Ltd.,31,Weak,improved
+698,ABFRL,Aditya Birla Fashion and Retail Ltd.,30,Weak,improved
+699,GMDCLTD,Gujarat Mineral Development Corporation Ltd.,30,Weak,improved
+700,OPTIEMUS,Optiemus infracom,30,Weak,improved
+701,SHAKTIPUMP,Shakti Pumps,30,Weak,declined
+702,ABREL,A B Real Estate,29,Weak,improved
+703,DBL,Dilip Buildcon,29,Weak,held steady
+704,GREAVESCOT,Greaves Cotton,29,Weak,improved
+705,HGINFRA,HGIEL,29,Weak,improved
+706,IDEA,Vodafone Idea Ltd.,29,Weak,improved
+707,ITI,ITI Ltd.,29,Weak,improved
+708,MRPL,Mangalore Refinery & Petrochemicals Ltd.,29,Weak,held steady
+709,OLAELEC,Ola Electric,29,Weak,held steady
+710,SPARC,Sun Pharma Adv. Res,29,Weak,held steady
+711,ANANTRAJ,Anant Raj,28,Weak,improved
+712,GRAPHITE,Graphite India Ltd.,28,Weak,improved
+713,KPIGREEN,KPI Green Energy,28,Weak,improved
+714,LLOYDSENT,Lloyds enterprises limited,28,Weak,improved
+715,MMTC,MMTC Ltd.,28,Weak,improved
+716,RTNINDIA,RattanIndia Entr,28,Weak,held steady
+717,TMPV,Tata Motors PVeh,28,Weak,held steady
+718,DIACABS,Diamond Power Infra,27,Weak,improved
+719,IIFLCAPS,IIFL Securities,27,Weak,improved
+720,NCC,NCC Ltd.,27,Weak,held steady
+721,OLECTRA,Olectra Greentec,27,Weak,improved
+722,RVNL,Rail Vikas,27,Weak,held steady
+723,SWANCORP,Swan Corp,27,Weak,improved
+724,TARC,TARC,27,Weak,improved
+725,EMBDL,Embassy Developments,26,Weak,improved
+726,GSFC,GSFC,24,Weak,improved
+727,OSWALPUMPS,Oswal Pumps,24,Weak,improved
+728,PNCINFRA,PNC Infratech,24,Weak,improved
+729,SWSOLAR,Sterling,24,Weak,improved
+730,INOXWIND,Inox Wind Ltd.,22,Weak,improved
+731,PCJEWELLER,PC Jeweller,22,Weak,improved
+732,RTNPOWER,RattanIndia Power,22,Weak,improved
+733,ZEEL,Zee Entertainment Enterprises Ltd.,22,Weak,improved
+734,KNRCON,KNR Constructions,20,Weak,improved
+735,IRCON,IRCON International Ltd.,19,Weak,held steady
+736,VIPIND,VIP Industries,19,Weak,improved
+737,TEJASNET,Tejas Networks,18,Weak,held steady
+738,SJVN,SJVN Ltd.,17,Weak,improved
 ,AIIL,Authum Invest,,Not rated,could not be compared
 ,IFCI,IFCI Ltd.,,Not rated,could not be compared
 ,IREDA,Indian Renewable,,Not rated,could not be compared
+,SUNDARMFIN,Sundaram Finance Ltd.,,Not rated,could not be compared
