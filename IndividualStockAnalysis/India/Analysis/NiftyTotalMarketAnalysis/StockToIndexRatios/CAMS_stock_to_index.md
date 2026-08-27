@@ -87,9 +87,61 @@ FY2026  ███████████████████████   
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-![Yearly change of the company-to-index ratios](CAMS_stock_to_index_yoy_lines.svg)
+```
+   +34%         T
+                 t
+               t  t
+              t                                         O
+   +19%            t                                  op*o
+             t      t                           Pppppppt poo
+                     t                         p   oot    t o
+            t         t         P             p  oo t     pt oo
+    +5%         Ooo    t      ooOp              O tt       pt  oO
+        ───t───o───oo───────oo────p──────────poo─t──────────pt────
+          t   o      oo Tttttt     p        po tT            pt
+             o         oOo    ttTt  pp     pott               pt
+   -10%  t  o                     ttttp   ptt                  pT
+           o                          tpTpo                     P
+        T o                            o*o
+         o
+   -24% O
+      FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
 
-*Lines: Price ratio · PAT ratio · Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+P = Price ratio   T = PAT ratio   O = Operating-profit ratio   (─ = 0% line)
+```
+
+**The value at every point of the graph** (yearly % change of each ratio; above 0 the company gained on the index that year, below 0 it lagged):
+
+| Fiscal year | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| FY2019 | — | -16.9% | -24.3% |
+| FY2020 | — | +34.1% | +6.6% |
+| FY2021 | — | -0.9% | -6.6% |
+| FY2022 | +7.3% | -6.2% | +6.4% |
+| FY2023 | -17.0% | -14.4% | -18.5% |
+| FY2024 | +14.7% | -1.9% | +5.9% |
+| FY2025 | +18.6% | +20.0% | +21.9% |
+| FY2026 | -14.8% | -10.8% | +3.2% |
+
+
+## 5. The raw yearly values behind every ratio
+
+Company prices in rupees; profits in Rs crore. The index close is the March close unless the company closes its books in another month (shown in brackets). '—' = not in the stored data.
+
+| Fiscal year | Company price (Rs) | Nifty 50 close | Company PAT (Rs cr) | Index PAT (Rs cr) | Company OP (Rs cr) | Index OP (Rs cr) |
+|---|---|---|---|---|---|---|
+| FY2015 | — | — | — | 239,976 | — | 362,356 |
+| FY2016 | — | — | — | 252,916 | — | 381,103 |
+| FY2017 | — | — | — | 268,287 | — | 384,170 |
+| FY2018 | — | — | 146 | 260,991 | 276 | 381,288 |
+| FY2019 | — | — | 131 | 281,855 | 261 | 476,374 |
+| FY2020 | — | — | 172 | 275,997 | 287 | 491,207 |
+| FY2021 | 369.28 | 14,631.10 | 205 | 331,853 | 296 | 542,357 |
+| FY2022 | 463.17 | 17,102.55 | 287 | 495,232 | 424 | 730,487 |
+| FY2023 | 406.19 | 18,065.00 | 285 | 574,328 | 421 | 890,079 |
+| FY2024 | 583.13 | 22,604.85 | 351 | 721,343 | 505 | 1,008,599 |
+| FY2025 | 744.67 | 24,334.20 | 465 | 796,066 | 652 | 1,068,504 |
+| FY2026 | 625.80 | 23,997.55 | 472 | 905,734 | 683 | 1,084,854 |
 
 
 ---

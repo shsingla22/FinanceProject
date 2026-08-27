@@ -66,9 +66,56 @@ FY2026  ████████████████████████
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-![Yearly change of the company-to-index ratios](THELEELA_stock_to_index_yoy_lines.svg)
+```
+ +2275%         T
+                 t
+               t
+                  t
+ +1706%       t    t
 
-*Lines: PAT ratio · Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+             t      t
+                     t
+ +1137%     t
+                      t
+           t           t
+          t
+  +569%                 T
+         t
+
+        T
+    +0% OoooooooOoooooooO─
+      FY24    FY25    FY26
+
+T = PAT ratio   O = Operating-profit ratio   (─ = 0% line)
+```
+
+**The value at every point of the graph** (yearly % change of each ratio; above 0 the company gained on the index that year, below 0 it lagged):
+
+| Fiscal year | PAT ratio | Operating-profit ratio |
+|---|---|---|
+| FY2024 | +97.4% | +26.9% |
+| FY2025 | +2274.7% | +2.5% |
+| FY2026 | +637.9% | +22.5% |
+
+
+## 5. The raw yearly values behind every ratio
+
+Company prices in rupees; profits in Rs crore. The index close is the March close unless the company closes its books in another month (shown in brackets). '—' = not in the stored data.
+
+| Fiscal year | Company price (Rs) | Nifty 50 close | Company PAT (Rs cr) | Index PAT (Rs cr) | Company OP (Rs cr) | Index OP (Rs cr) |
+|---|---|---|---|---|---|---|
+| FY2015 | — | — | — | 239,976 | — | 362,356 |
+| FY2016 | — | — | — | 252,916 | — | 381,103 |
+| FY2017 | — | — | — | 268,287 | — | 384,170 |
+| FY2018 | — | — | — | 260,991 | — | 381,288 |
+| FY2019 | — | — | — | 281,855 | — | 476,374 |
+| FY2020 | — | — | — | 275,997 | — | 491,207 |
+| FY2021 | — | — | — | 331,853 | — | 542,357 |
+| FY2022 | — | — | — | 495,232 | — | 730,487 |
+| FY2023 | — | — | -62 | 574,328 | 381 | 890,079 |
+| FY2024 | — | — | -2 | 721,343 | 548 | 1,008,599 |
+| FY2025 | — | — | 48 | 796,066 | 595 | 1,068,504 |
+| FY2026 | 409.60 | 23,997.55 | 403 | 905,734 | 740 | 1,084,854 |
 
 
 ---

@@ -97,9 +97,64 @@ FY2026  ████████████████████████
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-![Yearly change of the company-to-index ratios](CAPLIPOINT_stock_to_index_yoy_lines.svg)
+```
+  +115%                 T
+                       t t
+                        O t
+                      to o t
+   +77%              to   o t                                           P
+                           o t                                         p ppp
+               pPp  to      o t                                             pp
+              p   ppp        o t                                      p       pp
+   +39%      p     o pp       o Ttt                    pPp           p          P
+            p     t    pP      o   ttttt             pp   p         p            p
+          pp     t       p      OoooooooTtt         p      p       p            OoppooooO
+         p                p             Oootttt   pp        p               oottTtttp
+    +2% P───────*──────────p──────────────────ot*pooo────────ppt*tpttttt*ttttt───────pttT─
+                            pp             pppppP tttoooOoottt p p                    p
+                              p       ppPpp          ttt tt     P                      p
+                               p  pppp                  T                               P
+   -36%                         Pp
+      FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
 
-*Lines: Price ratio · PAT ratio · Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+P = Price ratio   T = PAT ratio   O = Operating-profit ratio   (─ = 0% line)
+```
+
+**The value at every point of the graph** (yearly % change of each ratio; above 0 the company gained on the index that year, below 0 it lagged):
+
+| Fiscal year | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| FY2016 | +2.7% | — | — |
+| FY2017 | +62.2% | +5.8% | +5.8% |
+| FY2018 | +27.1% | +114.5% | +96.8% |
+| FY2019 | -35.7% | +39.9% | +24.9% |
+| FY2020 | -16.0% | +24.7% | +15.4% |
+| FY2021 | -3.7% | +1.0% | +1.5% |
+| FY2022 | +43.8% | -21.8% | -6.1% |
+| FY2023 | -16.8% | +5.8% | -1.5% |
+| FY2024 | +76.4% | -2.5% | -1.3% |
+| FY2025 | +41.2% | +10.8% | +17.9% |
+| FY2026 | -23.7% | +3.1% | +16.2% |
+
+
+## 5. The raw yearly values behind every ratio
+
+Company prices in rupees; profits in Rs crore. The index close is the March close unless the company closes its books in another month (shown in brackets). '—' = not in the stored data.
+
+| Fiscal year | Company price (Rs) | Nifty 50 close | Company PAT (Rs cr) | Index PAT (Rs cr) | Company OP (Rs cr) | Index OP (Rs cr) |
+|---|---|---|---|---|---|---|
+| FY2015 | 205.06 | 8,181.50 | — | 239,976 | — | 362,356 |
+| FY2016 | 202.04 | 7,849.80 | 41 | 252,916 | 60 | 381,103 |
+| FY2017 | 388.35 | 9,304.05 | 46 | 268,287 | 64 | 384,170 |
+| FY2018 | 569.55 | 10,739.35 | 96 | 260,991 | 125 | 381,288 |
+| FY2019 | 400.75 | 11,748.15 | 145 | 281,855 | 195 | 476,374 |
+| FY2020 | 282.40 | 9,859.90 | 177 | 275,997 | 232 | 491,207 |
+| FY2021 | 403.45 | 14,631.10 | 215 | 331,853 | 260 | 542,357 |
+| FY2022 | 678.20 | 17,102.55 | 251 | 495,232 | 329 | 730,487 |
+| FY2023 | 595.95 | 18,065.00 | 308 | 574,328 | 395 | 890,079 |
+| FY2024 | 1,315.35 | 22,604.85 | 377 | 721,343 | 442 | 1,008,599 |
+| FY2025 | 1,999.80 | 24,334.20 | 461 | 796,066 | 552 | 1,068,504 |
+| FY2026 | 1,504.80 | 23,997.55 | 541 | 905,734 | 651 | 1,084,854 |
 
 
 ## Years the stored data could not cover

@@ -15,12 +15,15 @@ a **falling** ratio means it lagged. Each chart carries a one-line
 verdict (GAINED / LAGGED / MOVED WITH the index), year-by-year moves,
 and a **window table** with the ratio's change over the last 15, 10, 5,
 3 and 1 fiscal years (n/a rows state where the data starts instead of
-guessing). A fourth section embeds a **line graph** (a plain SVG written next to
-the report, so it renders on GitHub and ordinary Markdown viewers) with one
-line per ratio showing each year's % gain or loss against the index;
-series without enough points are dropped from the graph and the legend
-says which lines remain. Years either side cannot cover are listed,
-never guessed.
+guessing). A fourth section draws a **line graph inside the same Markdown file**
+(a code-fenced plot, so it renders in any viewer) with one line per
+ratio showing each year's % gain or loss against the index, followed by
+a table with the exact value at every point; series without enough
+points are dropped and the legend says which lines remain. A fifth
+section tables the **raw yearly values** every ratio is built from —
+company price, Nifty 50 close, company and index PAT, company and index
+operating profit. Years either side cannot cover are listed, never
+guessed.
 
 ## Data
 

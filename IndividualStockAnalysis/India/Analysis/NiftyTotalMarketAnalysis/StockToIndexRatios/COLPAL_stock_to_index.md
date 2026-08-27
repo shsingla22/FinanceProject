@@ -61,9 +61,67 @@ FY2026  ███████████████            74.537  ▼ -24
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-![Yearly change of the company-to-index ratios](COLPAL_stock_to_index_yoy_lines.svg)
+```
+   +44%                                                                 P
 
-*Lines: Price ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+                                                                       p p
+                                                                      p
+   +27%                                                                   p
+                                                                     p     p
+                                      ppP                           p
+                                   ppp   p                                  p
+   +10%                         Ppp       p                        p
+                              pp           p                      p          p
+        ────────Pp──────────pp──────────────p─────────────────────────────────────────────
+             ppp  pppp    pp                 p                   p            p
+    -7%    pp         ppPp                    p                pP
+         pp                                    p          ppppp                p
+        P                                       PpppppppPp
+                                                                                Pppppp
+   -24%                                                                               ppP
+      FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+P = Price ratio   (─ = 0% line)
+```
+
+**The value at every point of the graph** (yearly % change of each ratio; above 0 the company gained on the index that year, below 0 it lagged):
+
+| Fiscal year | Price ratio |
+|---|---|
+| FY2016 | -14.0% |
+| FY2017 | +1.1% |
+| FY2018 | -8.0% |
+| FY2019 | +8.3% |
+| FY2020 | +19.2% |
+| FY2021 | -16.1% |
+| FY2022 | -15.4% |
+| FY2023 | -7.5% |
+| FY2024 | +43.7% |
+| FY2025 | -18.1% |
+| FY2026 | -24.1% |
+
+
+## 5. The raw yearly values behind every ratio
+
+Company prices in rupees; profits in Rs crore. The index close is the March close unless the company closes its books in another month (shown in brackets). '—' = not in the stored data.
+
+| Fiscal year | Company price (Rs) | Nifty 50 close | Company PAT (Rs cr) | Index PAT (Rs cr) | Company OP (Rs cr) | Index OP (Rs cr) |
+|---|---|---|---|---|---|---|
+| FY2008 | — | — | 237 | — | 251 | — |
+| FY2009 | — | — | 288 | — | 287 | — |
+| FY2010 | — | — | 436 | — | 434 | — |
+| FY2015 | 1,007.15 | 8,181.50 | — | 239,976 | — | 362,356 |
+| FY2016 | 830.85 | 7,849.80 | — | 252,916 | — | 381,103 |
+| FY2017 | 995.50 | 9,304.05 | — | 268,287 | — | 384,170 |
+| FY2018 | 1,056.90 | 10,739.35 | — | 260,991 | — | 381,288 |
+| FY2019 | 1,251.90 | 11,748.15 | — | 281,855 | — | 476,374 |
+| FY2020 | 1,252.70 | 9,859.90 | — | 275,997 | — | 491,207 |
+| FY2021 | 1,559.35 | 14,631.10 | — | 331,853 | — | 542,357 |
+| FY2022 | 1,542.25 | 17,102.55 | — | 495,232 | — | 730,487 |
+| FY2023 | 1,507.35 | 18,065.00 | — | 574,328 | — | 890,079 |
+| FY2024 | 2,710.35 | 22,604.85 | — | 721,343 | — | 1,008,599 |
+| FY2025 | 2,389.80 | 24,334.20 | — | 796,066 | — | 1,068,504 |
+| FY2026 | 1,788.70 | 23,997.55 | — | 905,734 | — | 1,084,854 |
 
 
 ## Years the stored data could not cover

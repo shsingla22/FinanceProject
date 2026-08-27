@@ -167,30 +167,96 @@ def test_yoy_series_matches_hand_computation():
 
 
 @pytest.mark.parametrize("sym", FULL_CHART_SYMS)
-def test_line_graph_svg_written_with_three_lines(sym, tmp_path):
-    out = tmp_path / f"{sym}_stock_to_index.md"
-    out.write_text(analyze.build_report(sym, out))
-    md = out.read_text()
+def test_line_graph_in_file_with_point_values(sym):
+    md = analyze.build_report(sym)
     assert "## 4. Yearly change of all three ratios" in md
-    svg_path = tmp_path / f"{sym}_stock_to_index_yoy_lines.svg"
-    assert svg_path.exists(), "SVG not written next to the report"
-    assert f"({svg_path.name})" in md, "report does not embed the SVG"
-    svg = svg_path.read_text()
+    sec4 = md.split("## 4.", 1)[1].split("## 5.", 1)[0]
+    # the graph lives inside the SAME md file, in a code fence
+    graph = sec4.split("```", 2)[1]
     # THELEELA listed in FY2026, so it has a single price point and no
     # price YoY line — its graph honestly carries the two earnings lines
-    expected_lines = 2 if sym == "THELEELA" else 3
-    assert svg.count("<polyline") == expected_lines
-    assert svg.startswith("<svg ") and svg.endswith("</svg>")
+    expected = ["T = PAT ratio", "O = Operating-profit ratio"]
+    if sym != "THELEELA":
+        expected.insert(0, "P = Price ratio")
+    for leg in expected:
+        assert leg in graph, f"{sym}: legend missing {leg}"
+    # every graph must carry the value-at-every-point table, and each
+    # tabled value must equal the hand-computed YoY change
+    assert "The value at every point of the graph" in sec4
+    pat_yoy = analyze.yoy_series(
+        _ratio_rows_for(sym, "pat"))
+    for year, v in pat_yoy.items():
+        assert f"| FY{year} |" in sec4
+        assert f"{v:+.1f}%" in sec4
 
 
-def test_line_graph_degrades_for_colpal(tmp_path):
-    # COLPAL has no earnings overlap; the price-only series still has years,
-    # so the graph must include exactly the price line — never crash
-    out = tmp_path / "COLPAL_stock_to_index.md"
-    out.write_text(analyze.build_report("COLPAL", out))
-    svg = (tmp_path / "COLPAL_stock_to_index_yoy_lines.svg").read_text()
-    assert svg.count("<polyline") == 1
-    assert "Lines: Price ratio" in out.read_text()
+def _ratio_rows_for(sym: str, kind: str):
+    """Recompute a ratio series exactly as the report does."""
+    earn = analyze.company_earnings(sym)
+    idx = pd.read_csv(DATA / "nifty50_earnings_yearly.csv").set_index("fy")
+    rows = []
+    for fy in idx.index:
+        e = earn.get(fy, {})
+        if kind in e and idx.loc[fy, f"index_{kind}"]:
+            rows.append((fy, e[kind] / idx.loc[fy, f"index_{kind}"] * 100))
+    return rows
+
+
+def test_line_graph_degrades_for_colpal():
+    # COLPAL has no earnings overlap; the price-only series still has
+    # years, so the graph must include exactly the price line
+    md = analyze.build_report("COLPAL")
+    sec4 = md.split("## 4.", 1)[1].split("## 5.", 1)[0]
+    graph = sec4.split("```", 2)[1]
+    assert "P = Price ratio" in graph
+    assert "T = PAT ratio" not in graph
+
+
+# ------------------------------------------------------- raw value table
+
+def test_raw_values_table_matches_source_csvs():
+    md = analyze.build_report("PIDILITIND")
+    assert "## 5. The raw yearly values behind every ratio" in md
+    sec5 = md.split("## 5.", 1)[1]
+    # company price straight from StockInfo
+    info = pd.read_csv(analyze.STOCKINFO / "PIDILITIND.csv")
+    px = float(info[info.metric == "Stock Price (Rs)"].iloc[0]["Mar 2026"])
+    # index close straight from the saved yearly file
+    idx_px = float(pd.read_csv(DATA / "nifty50_price_yearly.csv")
+                   .set_index("fy").loc["Mar 2026", "close"])
+    # company PAT/OP straight from the long profit-and-loss
+    pl = pd.read_csv(analyze.PL_LONG)
+    pl = pl[(pl.nse_symbol == "PIDILITIND") & (pl.year == "Mar 2026")]
+    pat = float(pl[pl.line_item == "Net Profit"].value.iloc[0])
+    op = float(pl[pl.line_item == "Operating Profit"].value.iloc[0])
+    # index PAT/OP straight from the saved earnings file
+    ie = pd.read_csv(DATA / "nifty50_earnings_yearly.csv").set_index("fy")
+    row = [l for l in sec5.splitlines() if l.startswith("| FY2026 ")][0]
+    for expected in (f"{px:,.2f}", f"{idx_px:,.2f}", f"{pat:,.0f}",
+                     f"{op:,.0f}", f"{ie.loc['Mar 2026', 'index_pat']:,.0f}",
+                     f"{ie.loc['Mar 2026', 'index_op']:,.0f}"):
+        assert expected in row, f"{expected} not in FY2026 raw row: {row}"
+
+
+def test_raw_values_table_marks_missing_as_dash():
+    md = analyze.build_report("COLPAL")
+    sec5 = md.split("## 5.", 1)[1]
+    row = [l for l in sec5.splitlines() if l.startswith("| FY2026 ")][0]
+    # price, index close and index profits present; the two COMPANY
+    # profit cells (P&L stale after FY2010) are honest dashes
+    assert row.count("—") == 2
+    assert "1,788.70" in row and "23,997.55" in row
+
+
+def test_raw_values_table_notes_non_march_book_close():
+    md = analyze.build_report("GILLETTE")
+    sec5 = md.split("## 5.", 1)[1]
+    assert "(Jun" not in sec5.split("\n")[0]  # header clean
+    # GILLETTE prices are March snapshots, so no bracket needed there;
+    # every data row must have 7 columns
+    for l in sec5.splitlines():
+        if l.startswith("| FY"):
+            assert l.count("|") == 8
 
 
 def test_chart_never_exceeds_15_points():
