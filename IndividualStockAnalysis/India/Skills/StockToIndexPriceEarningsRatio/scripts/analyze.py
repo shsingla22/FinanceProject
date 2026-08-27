@@ -124,6 +124,80 @@ def chart(rows: list[tuple[str, float]], unit: str) -> str:
     return "\n".join(lines) + "\n"
 
 
+WINDOWS = [15, 10, 5, 3, 1]                # trend windows, in fiscal years
+
+
+def _pct_change(a: float, b: float) -> str:
+    """Change from a to b, worded safely across sign flips."""
+    if a == 0:
+        return "n/a (base year is zero)"
+    if a < 0 <= b:
+        return "turned from loss to profit share"
+    if b < 0 <= a:
+        return "fell from profit to loss share"
+    return f"{(b - a) / abs(a) * 100:+.0f}%"
+
+
+def trend_windows(rows: list[tuple[str, float]]) -> str:
+    """Markdown table: change of the ratio over the last 15/10/5/3/1 FYs."""
+    if len(rows) < 2:
+        return "*(too little data for window trends)*\n"
+    by_year = {int(fy.split()[1]): v for fy, v in rows}
+    latest_year = max(by_year)
+    lines = ["| Window | From | To | Ratio change |",
+             "|---|---|---|---|"]
+    for w in WINDOWS:
+        base_year = latest_year - w
+        if base_year in by_year:
+            lines.append(
+                f"| last {w} year{'s' if w > 1 else ''} | FY{base_year} "
+                f"| FY{latest_year} "
+                f"| {_pct_change(by_year[base_year], by_year[latest_year])} |")
+        else:
+            first = min(by_year)
+            lines.append(
+                f"| last {w} year{'s' if w > 1 else ''} | FY{base_year} "
+                f"| FY{latest_year} | n/a — data starts FY{first} |")
+    return "\n".join(lines) + "\n"
+
+
+def yoy_series(rows: list[tuple[str, float]]) -> dict[int, float]:
+    """FY year -> % change of the ratio vs the prior fiscal year."""
+    by_year = {int(fy.split()[1]): v for fy, v in rows}
+    out: dict[int, float] = {}
+    for y, v in by_year.items():
+        prev = by_year.get(y - 1)
+        if prev not in (None, 0):
+            out[y] = (v - prev) / abs(prev) * 100
+    return out
+
+
+def yoy_line_graph(price_rows, pat_rows, op_rows) -> str:
+    """Mermaid line graph: yearly % change of the three ratios, one line
+    each, over the fiscal years all included series cover."""
+    series = [("Price ratio", yoy_series(price_rows)),
+              ("PAT ratio", yoy_series(pat_rows)),
+              ("Operating-profit ratio", yoy_series(op_rows))]
+    series = [(name, s) for name, s in series if s]
+    if not series:
+        return "*(no overlapping years in the stored data)*\n"
+    years = sorted(set.intersection(*[set(s) for _, s in series]))
+    if len(years) < 2:
+        return "*(fewer than two common years across the series)*\n"
+    lines = ["```mermaid", "xychart-beta",
+             '    title "Yearly change of the company-to-index ratios (%)"',
+             "    x-axis [" + ", ".join(f"FY{y}" for y in years) + "]",
+             '    y-axis "YoY change (%)"']
+    for _, s in series:
+        vals = ", ".join(f"{s[y]:.1f}" for y in years)
+        lines.append(f"    line [{vals}]")
+    lines.append("```")
+    legend = " · ".join(f"line {i + 1} = {name}"
+                        for i, (name, _) in enumerate(series))
+    return "\n".join(lines) + f"\n\n*{legend}. A point above 0 means the "\
+        "company gained on the index that year; below 0 it lagged.*\n"
+
+
 def trend_word(rows: list[tuple[str, float]]) -> str:
     if len(rows) < 2 or rows[0][1] == 0:
         return "too little overlapping data to call a trend"
@@ -198,16 +272,27 @@ def build_report(sym: str) -> str:
               "(×1000 for readability)\n")
     md.append(f"**Verdict: {trend_word(price_rows)}.**\n")
     md.append(chart(price_rows, ""))
+    md.append("\n**Change over the standard windows**\n")
+    md.append(trend_windows(price_rows))
 
     md.append("\n## 2. PAT ratio — company net profit ÷ index net profit "
               "(% of index)\n")
     md.append(f"**Verdict: {trend_word(pat_rows)}.**\n")
     md.append(chart(pat_rows, "%"))
+    md.append("\n**Change over the standard windows**\n")
+    md.append(trend_windows(pat_rows))
 
     md.append("\n## 3. Operating-profit ratio — company operating profit ÷ "
               "index operating profit (% of index)\n")
     md.append(f"**Verdict: {trend_word(op_rows)}.**\n")
     md.append(chart(op_rows, "%"))
+    md.append("\n**Change over the standard windows**\n")
+    md.append(trend_windows(op_rows))
+
+    md.append("\n## 4. Yearly change of all three ratios — line graph\n")
+    md.append("One line per ratio, one point per fiscal year: how much the "
+              "company gained (+) or lost (−) on the index that year.\n")
+    md.append(yoy_line_graph(price_rows, pat_rows, op_rows))
 
     if missing:
         md.append("\n## Years the stored data could not cover\n")

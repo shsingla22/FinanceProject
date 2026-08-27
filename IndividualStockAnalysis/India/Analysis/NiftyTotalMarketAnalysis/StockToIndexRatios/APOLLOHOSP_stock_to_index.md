@@ -22,6 +22,17 @@ FY2026  ████████████████████████
 ```
 
 
+**Change over the standard windows**
+
+| Window | From | To | Ratio change |
+|---|---|---|---|
+| last 15 years | FY2011 | FY2026 | n/a — data starts FY2015 |
+| last 10 years | FY2016 | FY2026 | +83% |
+| last 5 years | FY2021 | FY2026 | +56% |
+| last 3 years | FY2023 | FY2026 | +30% |
+| last 1 year | FY2025 | FY2026 | +14% |
+
+
 ## 2. PAT ratio — company net profit ÷ index net profit (% of index)
 
 **Verdict: GAINED on the index: the ratio rose +58% from FY2015 to FY2026.**
@@ -42,6 +53,17 @@ FY2026  ████████████████████████
 ```
 
 
+**Change over the standard windows**
+
+| Window | From | To | Ratio change |
+|---|---|---|---|
+| last 15 years | FY2011 | FY2026 | n/a — data starts FY2015 |
+| last 10 years | FY2016 | FY2026 | +138% |
+| last 5 years | FY2021 | FY2026 | +436% |
+| last 3 years | FY2023 | FY2026 | +50% |
+| last 1 year | FY2025 | FY2026 | +17% |
+
+
 ## 3. Operating-profit ratio — company operating profit ÷ index operating profit (% of index)
 
 **Verdict: GAINED on the index: the ratio rose +71% from FY2015 to FY2026.**
@@ -60,6 +82,34 @@ FY2024  ██████████████████         0.237%  �
 FY2025  █████████████████████      0.284%  ▲ +19.6% vs prior year
 FY2026  ██████████████████████████ 0.347%  ▲ +22.4% vs prior year
 ```
+
+
+**Change over the standard windows**
+
+| Window | From | To | Ratio change |
+|---|---|---|---|
+| last 15 years | FY2011 | FY2026 | n/a — data starts FY2015 |
+| last 10 years | FY2016 | FY2026 | +94% |
+| last 5 years | FY2021 | FY2026 | +65% |
+| last 3 years | FY2023 | FY2026 | +50% |
+| last 1 year | FY2025 | FY2026 | +22% |
+
+
+## 4. Yearly change of all three ratios — line graph
+
+One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
+
+```mermaid
+xychart-beta
+    title "Yearly change of the company-to-index ratios (%)"
+    x-axis [FY2016, FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024, FY2025, FY2026]
+    y-axis "YoY change (%)"
+    line [1.2, -26.0, -20.8, 1.6, 14.7, 71.7, 33.1, -9.6, 17.8, -3.3, 13.7]
+    line [-33.4, -47.4, -52.9, 208.7, 120.6, -73.6, 441.9, -34.3, -11.8, 45.9, 17.0]
+    line [-11.8, 6.5, 10.0, 6.9, 44.2, -35.1, 42.6, -22.6, 2.3, 19.6, 22.4]
+```
+
+*line 1 = Price ratio · line 2 = PAT ratio · line 3 = Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ---

@@ -138,6 +138,59 @@ def test_colpal_degrades_honestly():
     assert "could not cover" in md
 
 
+def test_trend_windows_table_and_arithmetic():
+    rows = [(f"Mar {y}", float(v)) for y, v in
+            zip(range(2011, 2027), range(10, 26))]      # FY2011..FY2026
+    table = analyze.trend_windows(rows)
+    # 15y: 10 -> 25 = +150% ; 1y: 24 -> 25 = +4%
+    assert "| last 15 years | FY2011 | FY2026 | +150% |" in table
+    assert "| last 1 year | FY2025 | FY2026 | +4% |" in table
+    for w in (15, 10, 5, 3, 1):
+        assert f"last {w} year" in table
+
+
+def test_trend_windows_reports_na_when_data_starts_late():
+    md = analyze.build_report("PIDILITIND")
+    assert "| last 15 years | FY2011 | FY2026 | n/a — data starts FY2015 |" in md
+    assert "| last 10 years | FY2016 | FY2026 |" in md
+
+
+def test_trend_windows_handles_sign_flip():
+    rows = [("Mar 2025", -1.0), ("Mar 2026", 2.0)]
+    assert "turned from loss to profit share" in analyze.trend_windows(rows)
+
+
+def test_yoy_series_matches_hand_computation():
+    rows = [("Mar 2024", 2.0), ("Mar 2025", 3.0), ("Mar 2026", 1.5)]
+    s = analyze.yoy_series(rows)
+    assert s == {2025: pytest.approx(50.0), 2026: pytest.approx(-50.0)}
+
+
+@pytest.mark.parametrize("sym", FULL_CHART_SYMS)
+def test_line_graph_present_with_three_lines(sym):
+    md = analyze.build_report(sym)
+    assert "## 4. Yearly change of all three ratios" in md
+    graph = md.split("```mermaid", 1)[1].split("```", 1)[0]
+    # THELEELA listed in FY2026, so it has a single price point and no
+    # price YoY line — its graph honestly carries the two earnings lines
+    expected_lines = 2 if sym == "THELEELA" else 3
+    assert graph.count("line [") == expected_lines
+    # x-axis years and every line must have the same number of points
+    n_years = graph.split("x-axis [", 1)[1].split("]", 1)[0].count("FY")
+    for chunk in graph.split("line [")[1:]:
+        assert chunk.split("]", 1)[0].count(",") + 1 == n_years
+
+
+def test_line_graph_degrades_for_colpal():
+    # COLPAL has no earnings overlap; the price-only series still has years,
+    # so the graph must include at least the price line — never crash
+    md = analyze.build_report("COLPAL")
+    assert "## 4. Yearly change of all three ratios" in md
+    graph = md.split("```mermaid", 1)[1].split("```", 1)[0]
+    assert graph.count("line [") == 1
+    assert "line 1 = Price ratio" in md
+
+
 def test_chart_never_exceeds_15_points():
     for sym in TOP10:
         md = analyze.build_report(sym)

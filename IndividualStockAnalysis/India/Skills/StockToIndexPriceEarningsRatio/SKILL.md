@@ -12,8 +12,14 @@ one data point per fiscal year, up to the last 15 fiscal years:
 
 A **rising** ratio means the company outgrew the index on that measure;
 a **falling** ratio means it lagged. Each chart carries a one-line
-verdict (GAINED / LAGGED / MOVED WITH the index) plus year-by-year
-moves; years either side cannot cover are listed, never guessed.
+verdict (GAINED / LAGGED / MOVED WITH the index), year-by-year moves,
+and a **window table** with the ratio's change over the last 15, 10, 5,
+3 and 1 fiscal years (n/a rows state where the data starts instead of
+guessing). A fourth section draws a **line graph** (mermaid) with one
+line per ratio showing each year's % gain or loss against the index;
+series without enough points are dropped from the graph and the legend
+says which lines remain. Years either side cannot cover are listed,
+never guessed.
 
 ## Data
 

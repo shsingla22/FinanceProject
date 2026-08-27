@@ -11,6 +11,11 @@ FY2026  ████████████████████████
 ```
 
 
+**Change over the standard windows**
+
+*(too little data for window trends)*
+
+
 ## 2. PAT ratio — company net profit ÷ index net profit (% of index)
 
 **Verdict: TURNED AROUND against the index: from a loss in FY2023 to a positive share of the index by FY2026.**
@@ -23,6 +28,17 @@ FY2026  ████████████████████████
 ```
 
 
+**Change over the standard windows**
+
+| Window | From | To | Ratio change |
+|---|---|---|---|
+| last 15 years | FY2011 | FY2026 | n/a — data starts FY2023 |
+| last 10 years | FY2016 | FY2026 | n/a — data starts FY2023 |
+| last 5 years | FY2021 | FY2026 | n/a — data starts FY2023 |
+| last 3 years | FY2023 | FY2026 | turned from loss to profit share |
+| last 1 year | FY2025 | FY2026 | +638% |
+
+
 ## 3. Operating-profit ratio — company operating profit ÷ index operating profit (% of index)
 
 **Verdict: GAINED on the index: the ratio rose +59% from FY2023 to FY2026.**
@@ -33,6 +49,33 @@ FY2024  █████████████████████      0.0
 FY2025  █████████████████████      0.056%  ▲ +2.5% vs prior year
 FY2026  ██████████████████████████ 0.068%  ▲ +22.5% vs prior year
 ```
+
+
+**Change over the standard windows**
+
+| Window | From | To | Ratio change |
+|---|---|---|---|
+| last 15 years | FY2011 | FY2026 | n/a — data starts FY2023 |
+| last 10 years | FY2016 | FY2026 | n/a — data starts FY2023 |
+| last 5 years | FY2021 | FY2026 | n/a — data starts FY2023 |
+| last 3 years | FY2023 | FY2026 | +59% |
+| last 1 year | FY2025 | FY2026 | +22% |
+
+
+## 4. Yearly change of all three ratios — line graph
+
+One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
+
+```mermaid
+xychart-beta
+    title "Yearly change of the company-to-index ratios (%)"
+    x-axis [FY2024, FY2025, FY2026]
+    y-axis "YoY change (%)"
+    line [97.4, 2274.7, 637.9]
+    line [26.9, 2.5, 22.5]
+```
+
+*line 1 = PAT ratio · line 2 = Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ---

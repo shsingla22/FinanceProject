@@ -22,6 +22,17 @@ FY2026  ███████████████            74.537  ▼ -24
 ```
 
 
+**Change over the standard windows**
+
+| Window | From | To | Ratio change |
+|---|---|---|---|
+| last 15 years | FY2011 | FY2026 | n/a — data starts FY2015 |
+| last 10 years | FY2016 | FY2026 | -30% |
+| last 5 years | FY2021 | FY2026 | -30% |
+| last 3 years | FY2023 | FY2026 | -11% |
+| last 1 year | FY2025 | FY2026 | -24% |
+
+
 ## 2. PAT ratio — company net profit ÷ index net profit (% of index)
 
 **Verdict: too little overlapping data to call a trend.**
@@ -29,11 +40,36 @@ FY2026  ███████████████            74.537  ▼ -24
 *(no overlapping years in the stored data)*
 
 
+**Change over the standard windows**
+
+*(too little data for window trends)*
+
+
 ## 3. Operating-profit ratio — company operating profit ÷ index operating profit (% of index)
 
 **Verdict: too little overlapping data to call a trend.**
 
 *(no overlapping years in the stored data)*
+
+
+**Change over the standard windows**
+
+*(too little data for window trends)*
+
+
+## 4. Yearly change of all three ratios — line graph
+
+One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
+
+```mermaid
+xychart-beta
+    title "Yearly change of the company-to-index ratios (%)"
+    x-axis [FY2016, FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024, FY2025, FY2026]
+    y-axis "YoY change (%)"
+    line [-14.0, 1.1, -8.0, 8.3, 19.2, -16.1, -15.4, -7.5, 43.7, -18.1, -24.1]
+```
+
+*line 1 = Price ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ## Years the stored data could not cover
