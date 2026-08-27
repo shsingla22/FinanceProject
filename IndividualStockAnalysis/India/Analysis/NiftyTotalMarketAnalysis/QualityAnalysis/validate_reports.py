@@ -44,7 +44,10 @@ JARGON = [r"\b(CAP|ROC|GRW|MGT|IND|CUS|MOAT)\.[a-z_]+", r"\bopm\b",
           # word followed by more prose ("None material — …")
           r":\s*None\b(?!\s+\w)", r"\bNone/", r"\(None\)", r"\bNone\s*$",
           r"score None\b",
-          r"1 checks\b", r"1 fingerprints\b", r"1 high risks\b"]
+          # "0 of 1 checks" (pluralization bug) — but never "-1 checks" /
+          # "+1 checks", which is legitimate prose about scores of ±1
+          r"(?<![-+\d.])1 checks\b", r"(?<![-+\d.])1 fingerprints\b",
+          r"(?<![-+\d.])1 high risks\b"]
 
 
 def _body(md: str) -> str:
