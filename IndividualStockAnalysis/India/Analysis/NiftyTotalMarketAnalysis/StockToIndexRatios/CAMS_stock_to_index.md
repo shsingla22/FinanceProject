@@ -87,17 +87,9 @@ FY2026  ███████████████████████   
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-```mermaid
-xychart-beta
-    title "Yearly change of the company-to-index ratios (%)"
-    x-axis [FY2022, FY2023, FY2024, FY2025, FY2026]
-    y-axis "YoY change (%)"
-    line [7.3, -17.0, 14.7, 18.6, -14.8]
-    line [-6.2, -14.4, -1.9, 20.0, -10.8]
-    line [6.4, -18.5, 5.9, 21.9, 3.2]
-```
+![Yearly change of the company-to-index ratios](CAMS_stock_to_index_yoy_lines.svg)
 
-*line 1 = Price ratio · line 2 = PAT ratio · line 3 = Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+*Lines: Price ratio · PAT ratio · Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ---

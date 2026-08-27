@@ -99,17 +99,9 @@ FY2026  ████████████████████████
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-```mermaid
-xychart-beta
-    title "Yearly change of the company-to-index ratios (%)"
-    x-axis [FY2016, FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024, FY2025, FY2026]
-    y-axis "YoY change (%)"
-    line [2.4, 0.1, 13.7, 22.1, 31.8, -10.1, 16.0, -9.2, 2.4, -12.2, -8.5]
-    line [49.0, 0.8, 15.1, -11.0, 23.5, -16.5, -28.2, -7.9, 7.9, 8.7, 3.6]
-    line [44.7, 6.7, 7.1, -18.2, 11.5, -3.1, -18.3, -12.2, 20.3, 5.0, 15.2]
-```
+![Yearly change of the company-to-index ratios](PIDILITIND_stock_to_index_yoy_lines.svg)
 
-*line 1 = Price ratio · line 2 = PAT ratio · line 3 = Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+*Lines: Price ratio · PAT ratio · Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ---

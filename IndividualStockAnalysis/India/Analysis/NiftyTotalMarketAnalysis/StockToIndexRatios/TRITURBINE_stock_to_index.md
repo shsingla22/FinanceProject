@@ -99,17 +99,9 @@ FY2026  ████████████████████████
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-```mermaid
-xychart-beta
-    title "Yearly change of the company-to-index ratios (%)"
-    x-axis [FY2016, FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024, FY2025, FY2026]
-    y-axis "YoY change (%)"
-    line [-23.2, 27.8, -39.9, -2.3, -35.1, 17.3, 69.9, 56.0, 28.7, -2.5, -20.9]
-    line [15.3, 3.4, -20.4, -3.5, 24.6, -30.5, 77.4, -38.4, 11.0, 20.9, -14.6]
-    line [21.7, 4.2, -5.8, -22.0, 0.1, -14.6, -19.8, 19.8, 20.5, 29.1, 0.7]
-```
+![Yearly change of the company-to-index ratios](TRITURBINE_stock_to_index_yoy_lines.svg)
 
-*line 1 = Price ratio · line 2 = PAT ratio · line 3 = Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+*Lines: Price ratio · PAT ratio · Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ---

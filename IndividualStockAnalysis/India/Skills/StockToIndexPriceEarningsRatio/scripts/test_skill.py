@@ -167,28 +167,30 @@ def test_yoy_series_matches_hand_computation():
 
 
 @pytest.mark.parametrize("sym", FULL_CHART_SYMS)
-def test_line_graph_present_with_three_lines(sym):
-    md = analyze.build_report(sym)
+def test_line_graph_svg_written_with_three_lines(sym, tmp_path):
+    out = tmp_path / f"{sym}_stock_to_index.md"
+    out.write_text(analyze.build_report(sym, out))
+    md = out.read_text()
     assert "## 4. Yearly change of all three ratios" in md
-    graph = md.split("```mermaid", 1)[1].split("```", 1)[0]
+    svg_path = tmp_path / f"{sym}_stock_to_index_yoy_lines.svg"
+    assert svg_path.exists(), "SVG not written next to the report"
+    assert f"({svg_path.name})" in md, "report does not embed the SVG"
+    svg = svg_path.read_text()
     # THELEELA listed in FY2026, so it has a single price point and no
     # price YoY line — its graph honestly carries the two earnings lines
     expected_lines = 2 if sym == "THELEELA" else 3
-    assert graph.count("line [") == expected_lines
-    # x-axis years and every line must have the same number of points
-    n_years = graph.split("x-axis [", 1)[1].split("]", 1)[0].count("FY")
-    for chunk in graph.split("line [")[1:]:
-        assert chunk.split("]", 1)[0].count(",") + 1 == n_years
+    assert svg.count("<polyline") == expected_lines
+    assert svg.startswith("<svg ") and svg.endswith("</svg>")
 
 
-def test_line_graph_degrades_for_colpal():
+def test_line_graph_degrades_for_colpal(tmp_path):
     # COLPAL has no earnings overlap; the price-only series still has years,
-    # so the graph must include at least the price line — never crash
-    md = analyze.build_report("COLPAL")
-    assert "## 4. Yearly change of all three ratios" in md
-    graph = md.split("```mermaid", 1)[1].split("```", 1)[0]
-    assert graph.count("line [") == 1
-    assert "line 1 = Price ratio" in md
+    # so the graph must include exactly the price line — never crash
+    out = tmp_path / "COLPAL_stock_to_index.md"
+    out.write_text(analyze.build_report("COLPAL", out))
+    svg = (tmp_path / "COLPAL_stock_to_index_yoy_lines.svg").read_text()
+    assert svg.count("<polyline") == 1
+    assert "Lines: Price ratio" in out.read_text()
 
 
 def test_chart_never_exceeds_15_points():

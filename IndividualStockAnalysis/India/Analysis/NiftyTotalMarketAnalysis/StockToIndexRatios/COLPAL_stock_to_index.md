@@ -61,15 +61,9 @@ FY2026  ███████████████            74.537  ▼ -24
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-```mermaid
-xychart-beta
-    title "Yearly change of the company-to-index ratios (%)"
-    x-axis [FY2016, FY2017, FY2018, FY2019, FY2020, FY2021, FY2022, FY2023, FY2024, FY2025, FY2026]
-    y-axis "YoY change (%)"
-    line [-14.0, 1.1, -8.0, 8.3, 19.2, -16.1, -15.4, -7.5, 43.7, -18.1, -24.1]
-```
+![Yearly change of the company-to-index ratios](COLPAL_stock_to_index_yoy_lines.svg)
 
-*line 1 = Price ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+*Lines: Price ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ## Years the stored data could not cover

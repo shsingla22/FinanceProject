@@ -172,30 +172,98 @@ def yoy_series(rows: list[tuple[str, float]]) -> dict[int, float]:
     return out
 
 
-def yoy_line_graph(price_rows, pat_rows, op_rows) -> str:
-    """Mermaid line graph: yearly % change of the three ratios, one line
-    each, over the fiscal years all included series cover."""
+SERIES_COLORS = {"Price ratio": "#2a78d6",
+                 "PAT ratio": "#1a9e5c",
+                 "Operating-profit ratio": "#e07b00"}
+
+
+def svg_line_graph(series: list[tuple[str, dict[int, float]]]) -> str:
+    """Hand-drawn SVG: one colored line per ratio, X = fiscal years,
+    Y = that year's % change vs the prior year. No renderer dependency —
+    plain SVG renders on GitHub and in ordinary Markdown viewers."""
+    W, H = 860, 400
+    L, R, T, B = 70, 24, 46, 78
+    years = sorted({y for _, s in series for y in s})
+    vals = [v for _, s in series for v in s.values()]
+    lo, hi = min(vals + [0.0]), max(vals + [0.0])
+    pad = (hi - lo) * 0.08 or 1.0
+    lo, hi = lo - pad, hi + pad
+
+    def x(year: int) -> float:
+        if len(years) == 1:
+            return L + (W - L - R) / 2
+        return L + (years.index(year)) * (W - L - R) / (len(years) - 1)
+
+    def y(v: float) -> float:
+        return T + (hi - v) * (H - T - B) / (hi - lo)
+
+    p: list[str] = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" '
+        f'font-family="Helvetica,Arial,sans-serif">',
+        f'<rect width="{W}" height="{H}" fill="#ffffff"/>',
+        f'<text x="{W/2:.0f}" y="24" text-anchor="middle" font-size="16" '
+        f'fill="#0b0b0b" font-weight="bold">Yearly change of the '
+        f'company-to-index ratios (%)</text>',
+    ]
+    # y gridlines + labels
+    for i in range(6):
+        v = lo + (hi - lo) * i / 5
+        yy = y(v)
+        p.append(f'<line x1="{L}" y1="{yy:.1f}" x2="{W - R}" y2="{yy:.1f}" '
+                 f'stroke="#e4e3df" stroke-width="1"/>')
+        p.append(f'<text x="{L - 8}" y="{yy + 4:.1f}" text-anchor="end" '
+                 f'font-size="12" fill="#52514e">{v:.0f}%</text>')
+    # zero line, if in range
+    if lo < 0 < hi:
+        p.append(f'<line x1="{L}" y1="{y(0):.1f}" x2="{W - R}" '
+                 f'y2="{y(0):.1f}" stroke="#9b9a94" stroke-width="1.5" '
+                 f'stroke-dasharray="5 4"/>')
+    # x labels
+    for yr in years:
+        p.append(f'<text x="{x(yr):.1f}" y="{H - B + 22}" '
+                 f'text-anchor="middle" font-size="12" '
+                 f'fill="#52514e">FY{yr}</text>')
+    # series lines + point markers
+    for name, s in series:
+        color = SERIES_COLORS[name]
+        pts = " ".join(f"{x(yr):.1f},{y(s[yr]):.1f}"
+                       for yr in years if yr in s)
+        p.append(f'<polyline points="{pts}" fill="none" stroke="{color}" '
+                 f'stroke-width="2.5" stroke-linejoin="round"/>')
+        for yr in years:
+            if yr in s:
+                p.append(f'<circle cx="{x(yr):.1f}" cy="{y(s[yr]):.1f}" '
+                         f'r="3.5" fill="{color}"/>')
+    # legend
+    lx = L
+    for name, _ in series:
+        color = SERIES_COLORS[name]
+        p.append(f'<rect x="{lx}" y="{H - 30}" width="14" height="14" '
+                 f'rx="3" fill="{color}"/>')
+        p.append(f'<text x="{lx + 20}" y="{H - 18}" font-size="13" '
+                 f'fill="#0b0b0b">{name}</text>')
+        lx += 22 + 8 * len(name) + 24
+    p.append("</svg>")
+    return "\n".join(p)
+
+
+def yoy_line_graph(price_rows, pat_rows, op_rows,
+                   out_md: Path) -> str:
+    """Write the SVG next to the report and return the Markdown block that
+    embeds it (image link plus a text legend)."""
     series = [("Price ratio", yoy_series(price_rows)),
               ("PAT ratio", yoy_series(pat_rows)),
               ("Operating-profit ratio", yoy_series(op_rows))]
     series = [(name, s) for name, s in series if s]
     if not series:
         return "*(no overlapping years in the stored data)*\n"
-    years = sorted(set.intersection(*[set(s) for _, s in series]))
-    if len(years) < 2:
-        return "*(fewer than two common years across the series)*\n"
-    lines = ["```mermaid", "xychart-beta",
-             '    title "Yearly change of the company-to-index ratios (%)"',
-             "    x-axis [" + ", ".join(f"FY{y}" for y in years) + "]",
-             '    y-axis "YoY change (%)"']
-    for _, s in series:
-        vals = ", ".join(f"{s[y]:.1f}" for y in years)
-        lines.append(f"    line [{vals}]")
-    lines.append("```")
-    legend = " · ".join(f"line {i + 1} = {name}"
-                        for i, (name, _) in enumerate(series))
-    return "\n".join(lines) + f"\n\n*{legend}. A point above 0 means the "\
-        "company gained on the index that year; below 0 it lagged.*\n"
+    svg_path = out_md.with_name(out_md.stem + "_yoy_lines.svg")
+    svg_path.write_text(svg_line_graph(series))
+    legend = " · ".join(name for name, _ in series)
+    return (f"![Yearly change of the company-to-index ratios]"
+            f"({svg_path.name})\n\n*Lines: {legend}. A point above 0 means "
+            f"the company gained on the index that year; below 0 it "
+            f"lagged.*\n")
 
 
 def trend_word(rows: list[tuple[str, float]]) -> str:
@@ -221,7 +289,10 @@ def trend_word(rows: list[tuple[str, float]]) -> str:
 
 # ---------------------------------------------------------------- report
 
-def build_report(sym: str) -> str:
+def build_report(sym: str, out_md: Path | None = None) -> str:
+    if out_md is None:                      # tests / ad-hoc callers
+        import tempfile
+        out_md = Path(tempfile.gettempdir()) / f"{sym}_stock_to_index.md"
     monthly, idx_earn = load_index()
     prices = company_prices(sym)
     earn = company_earnings(sym)
@@ -292,7 +363,7 @@ def build_report(sym: str) -> str:
     md.append("\n## 4. Yearly change of all three ratios — line graph\n")
     md.append("One line per ratio, one point per fiscal year: how much the "
               "company gained (+) or lost (−) on the index that year.\n")
-    md.append(yoy_line_graph(price_rows, pat_rows, op_rows))
+    md.append(yoy_line_graph(price_rows, pat_rows, op_rows, out_md))
 
     if missing:
         md.append("\n## Years the stored data could not cover\n")
@@ -310,7 +381,7 @@ def main() -> None:
         print("usage: python3 analyze.py report SYMBOL out.md")
         sys.exit(2)
     sym, out = sys.argv[2].upper(), Path(sys.argv[3])
-    out.write_text(build_report(sym))
+    out.write_text(build_report(sym, out))
     print(f"wrote {out}")
 
 

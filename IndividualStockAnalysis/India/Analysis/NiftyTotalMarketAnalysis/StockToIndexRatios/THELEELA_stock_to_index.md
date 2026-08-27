@@ -66,16 +66,9 @@ FY2026  ████████████████████████
 
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
-```mermaid
-xychart-beta
-    title "Yearly change of the company-to-index ratios (%)"
-    x-axis [FY2024, FY2025, FY2026]
-    y-axis "YoY change (%)"
-    line [97.4, 2274.7, 637.9]
-    line [26.9, 2.5, 22.5]
-```
+![Yearly change of the company-to-index ratios](THELEELA_stock_to_index_yoy_lines.svg)
 
-*line 1 = PAT ratio · line 2 = Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
+*Lines: PAT ratio · Operating-profit ratio. A point above 0 means the company gained on the index that year; below 0 it lagged.*
 
 
 ---

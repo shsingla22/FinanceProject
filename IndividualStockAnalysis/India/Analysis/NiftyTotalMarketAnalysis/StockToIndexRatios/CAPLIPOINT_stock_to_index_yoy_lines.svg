@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 400" font-family="Helvetica,Arial,sans-serif">
+<rect width="860" height="400" fill="#ffffff"/>
+<text x="430" y="24" text-anchor="middle" font-size="16" fill="#0b0b0b" font-weight="bold">Yearly change of the company-to-index ratios (%)</text>
+<line x1="70" y1="322.0" x2="836" y2="322.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="62" y="326.0" text-anchor="end" font-size="12" fill="#52514e">-48%</text>
+<line x1="70" y1="266.8" x2="836" y2="266.8" stroke="#e4e3df" stroke-width="1"/>
+<text x="62" y="270.8" text-anchor="end" font-size="12" fill="#52514e">-13%</text>
+<line x1="70" y1="211.6" x2="836" y2="211.6" stroke="#e4e3df" stroke-width="1"/>
+<text x="62" y="215.6" text-anchor="end" font-size="12" fill="#52514e">22%</text>
+<line x1="70" y1="156.4" x2="836" y2="156.4" stroke="#e4e3df" stroke-width="1"/>
+<text x="62" y="160.4" text-anchor="end" font-size="12" fill="#52514e">57%</text>
+<line x1="70" y1="101.2" x2="836" y2="101.2" stroke="#e4e3df" stroke-width="1"/>
+<text x="62" y="105.2" text-anchor="end" font-size="12" fill="#52514e">92%</text>
+<line x1="70" y1="46.0" x2="836" y2="46.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="62" y="50.0" text-anchor="end" font-size="12" fill="#52514e">127%</text>
+<line x1="70" y1="246.4" x2="836" y2="246.4" stroke="#9b9a94" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="70.0" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2016</text>
+<text x="146.6" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2017</text>
+<text x="223.2" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2018</text>
+<text x="299.8" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2019</text>
+<text x="376.4" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2020</text>
+<text x="453.0" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2021</text>
+<text x="529.6" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2022</text>
+<text x="606.2" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2023</text>
+<text x="682.8" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2024</text>
+<text x="759.4" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2025</text>
+<text x="836.0" y="344" text-anchor="middle" font-size="12" fill="#52514e">FY2026</text>
+<polyline points="70.0,242.2 146.6,148.0 223.2,203.6 299.8,303.0 376.4,271.9 453.0,252.3 529.6,177.1 606.2,273.1 682.8,125.5 759.4,181.1 836.0,284.0" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="70.0" cy="242.2" r="3.5" fill="#2a78d6"/>
+<circle cx="146.6" cy="148.0" r="3.5" fill="#2a78d6"/>
+<circle cx="223.2" cy="203.6" r="3.5" fill="#2a78d6"/>
+<circle cx="299.8" cy="303.0" r="3.5" fill="#2a78d6"/>
+<circle cx="376.4" cy="271.9" r="3.5" fill="#2a78d6"/>
+<circle cx="453.0" cy="252.3" r="3.5" fill="#2a78d6"/>
+<circle cx="529.6" cy="177.1" r="3.5" fill="#2a78d6"/>
+<circle cx="606.2" cy="273.1" r="3.5" fill="#2a78d6"/>
+<circle cx="682.8" cy="125.5" r="3.5" fill="#2a78d6"/>
+<circle cx="759.4" cy="181.1" r="3.5" fill="#2a78d6"/>
+<circle cx="836.0" cy="284.0" r="3.5" fill="#2a78d6"/>
+<polyline points="146.6,237.3 223.2,65.0 299.8,183.3 376.4,207.4 453.0,244.8 529.6,280.9 606.2,237.2 682.8,250.5 759.4,229.3 836.0,241.5" fill="none" stroke="#1a9e5c" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="146.6" cy="237.3" r="3.5" fill="#1a9e5c"/>
+<circle cx="223.2" cy="65.0" r="3.5" fill="#1a9e5c"/>
+<circle cx="299.8" cy="183.3" r="3.5" fill="#1a9e5c"/>
+<circle cx="376.4" cy="207.4" r="3.5" fill="#1a9e5c"/>
+<circle cx="453.0" cy="244.8" r="3.5" fill="#1a9e5c"/>
+<circle cx="529.6" cy="280.9" r="3.5" fill="#1a9e5c"/>
+<circle cx="606.2" cy="237.2" r="3.5" fill="#1a9e5c"/>
+<circle cx="682.8" cy="250.5" r="3.5" fill="#1a9e5c"/>
+<circle cx="759.4" cy="229.3" r="3.5" fill="#1a9e5c"/>
+<circle cx="836.0" cy="241.5" r="3.5" fill="#1a9e5c"/>
+<polyline points="146.6,237.2 223.2,93.1 299.8,207.1 376.4,222.1 453.0,244.1 529.6,256.0 606.2,248.8 682.8,248.4 759.4,218.1 836.0,220.9" fill="none" stroke="#e07b00" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="146.6" cy="237.2" r="3.5" fill="#e07b00"/>
+<circle cx="223.2" cy="93.1" r="3.5" fill="#e07b00"/>
+<circle cx="299.8" cy="207.1" r="3.5" fill="#e07b00"/>
+<circle cx="376.4" cy="222.1" r="3.5" fill="#e07b00"/>
+<circle cx="453.0" cy="244.1" r="3.5" fill="#e07b00"/>
+<circle cx="529.6" cy="256.0" r="3.5" fill="#e07b00"/>
+<circle cx="606.2" cy="248.8" r="3.5" fill="#e07b00"/>
+<circle cx="682.8" cy="248.4" r="3.5" fill="#e07b00"/>
+<circle cx="759.4" cy="218.1" r="3.5" fill="#e07b00"/>
+<circle cx="836.0" cy="220.9" r="3.5" fill="#e07b00"/>
+<rect x="70" y="370" width="14" height="14" rx="3" fill="#2a78d6"/>
+<text x="90" y="382" font-size="13" fill="#0b0b0b">Price ratio</text>
+<rect x="204" y="370" width="14" height="14" rx="3" fill="#1a9e5c"/>
+<text x="224" y="382" font-size="13" fill="#0b0b0b">PAT ratio</text>
+<rect x="322" y="370" width="14" height="14" rx="3" fill="#e07b00"/>
+<text x="342" y="382" font-size="13" fill="#0b0b0b">Operating-profit ratio</text>
+</svg>
