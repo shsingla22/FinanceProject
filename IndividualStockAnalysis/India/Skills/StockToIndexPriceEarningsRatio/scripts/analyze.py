@@ -1,0 +1,233 @@
+"""
+analyze.py — StockToIndexPriceEarningsRatio reports.
+
+For one company, writes a Markdown report with three charts, one data
+point per fiscal year, up to the last 15 fiscal years:
+
+  1. Price ratio      company share price at fiscal-year end
+                      ÷ Nifty 50 close of the same month
+  2. PAT ratio        company Net Profit for the fiscal year
+                      ÷ summed Net Profit of the Nifty 50 constituents
+  3. Operating ratio  company Operating Profit (Financing Profit for
+                      lenders) ÷ summed Operating Profit of the index
+
+A RISING line means the company outgrew the index on that measure; a
+FALLING line means it lagged the index. Years where either side of a
+ratio is missing in the stored data are listed, never guessed.
+
+Usage (from this folder):
+  python3 analyze.py report SYMBOL out.md
+"""
+
+from __future__ import annotations
+
+import sys
+from datetime import datetime
+from pathlib import Path
+
+import pandas as pd
+
+HERE = Path(__file__).resolve().parent
+DATA = HERE.parent / "data"
+INDIA = HERE.parent.parent.parent          # .../IndividualStockAnalysis/India
+STOCKINFO = INDIA / "StockInfo" / "Nifty500"
+PL_LONG = INDIA / "ProfitStatement" / "NiftyTotalMarket" / "_all_profit_loss_long.csv"
+CONST = INDIA / "NiftyTotalMarket" / "niftytotalmarket_constituents.csv"
+
+MAX_YEARS = 15
+BAR_WIDTH = 26
+
+
+# ---------------------------------------------------------------- inputs
+
+def fy_of(label: str) -> str:
+    """Map a statement column like 'Jun 2024' to its fiscal year 'Mar 2025'
+    (Apr..Dec YYYY -> Mar YYYY+1; Jan..Mar YYYY -> Mar YYYY)."""
+    mon, yr = label.split()
+    m = datetime.strptime(mon, "%b").month
+    return f"Mar {int(yr) + 1}" if m >= 4 else f"Mar {yr}"
+
+
+def load_index() -> tuple[pd.DataFrame, pd.DataFrame]:
+    monthly = pd.read_csv(DATA / "nifty50_price_monthly.csv")
+    earnings = pd.read_csv(DATA / "nifty50_earnings_yearly.csv")
+    return monthly, earnings
+
+
+def company_prices(sym: str) -> dict[str, tuple[str, float]]:
+    """fy -> (statement column label, share price at that fiscal-year end)."""
+    f = STOCKINFO / f"{sym}.csv"
+    if not f.exists():
+        return {}
+    df = pd.read_csv(f)
+    row = df[df.metric == "Stock Price (Rs)"]
+    if row.empty:
+        return {}
+    out: dict[str, tuple[str, float]] = {}
+    for col in df.columns[1:]:
+        if col == "Live":
+            continue
+        v = row.iloc[0][col]
+        if pd.notna(v):
+            out[fy_of(col)] = (col, float(v))
+    return out
+
+
+def company_earnings(sym: str) -> dict[str, dict[str, float]]:
+    """fy -> {'pat': .., 'op': ..} from the stored long profit-and-loss."""
+    pl = pd.read_csv(PL_LONG)
+    pl = pl[pl.nse_symbol == sym]
+    out: dict[str, dict[str, float]] = {}
+    for _, r in pl.iterrows():
+        fy = fy_of(r.year)
+        d = out.setdefault(fy, {})
+        if r.line_item == "Net Profit" and pd.notna(r.value):
+            d["pat"] = float(r.value)
+        # lenders report Financing Profit instead of Operating Profit;
+        # prefer Operating Profit when both appear
+        if r.line_item == "Operating Profit" and pd.notna(r.value):
+            d["op"] = float(r.value)
+        if r.line_item == "Financing Profit" and pd.notna(r.value) \
+                and "op" not in d:
+            d["op"] = float(r.value)
+    return out
+
+
+def index_close_for(monthly: pd.DataFrame, label: str) -> float | None:
+    """Index close of the company's fiscal-year-end month (e.g. 'Jun 2024')."""
+    mon, yr = label.split()
+    m = datetime.strptime(mon, "%b").month
+    hit = monthly[(monthly.year == int(yr)) & (monthly.month_num == m)]
+    return float(hit.close.iloc[0]) if not hit.empty else None
+
+
+# ---------------------------------------------------------------- charts
+
+def chart(rows: list[tuple[str, float]], unit: str) -> str:
+    """ASCII bar chart, one row per fiscal year: FY, bar, value, YoY move."""
+    if not rows:
+        return "*(no overlapping years in the stored data)*\n"
+    peak = max(abs(v) for _, v in rows) or 1.0
+    lines = ["```"]
+    prev = None
+    for fy, v in rows:
+        n = max(1, round(abs(v) / peak * BAR_WIDTH)) if v else 0
+        bar = ("█" if v >= 0 else "▒") * n
+        move = ""
+        if prev not in (None, 0):
+            pct = (v - prev) / abs(prev) * 100
+            arrow = "▲" if pct > 0.5 else ("▼" if pct < -0.5 else "▬")
+            move = f"  {arrow} {pct:+.1f}% vs prior year"
+        lines.append(f"FY{fy.split()[1]}  {bar:<{BAR_WIDTH}} {v:.3f}{unit}{move}")
+        prev = v
+    lines.append("```")
+    return "\n".join(lines) + "\n"
+
+
+def trend_word(rows: list[tuple[str, float]]) -> str:
+    if len(rows) < 2 or rows[0][1] == 0:
+        return "too little overlapping data to call a trend"
+    if rows[0][1] < 0 <= rows[-1][1]:
+        return (f"TURNED AROUND against the index: from a loss in "
+                f"FY{rows[0][0].split()[1]} to a positive share of the "
+                f"index by FY{rows[-1][0].split()[1]}")
+    if rows[-1][1] < 0 <= rows[0][1]:
+        return (f"FELL INTO LOSS: positive in FY{rows[0][0].split()[1]}, "
+                f"negative by FY{rows[-1][0].split()[1]}")
+    total = (rows[-1][1] - rows[0][1]) / abs(rows[0][1]) * 100
+    if total > 10:
+        return (f"GAINED on the index: the ratio rose {total:+.0f}% from "
+                f"FY{rows[0][0].split()[1]} to FY{rows[-1][0].split()[1]}")
+    if total < -10:
+        return (f"LAGGED the index: the ratio fell {total:+.0f}% from "
+                f"FY{rows[0][0].split()[1]} to FY{rows[-1][0].split()[1]}")
+    return (f"MOVED WITH the index: the ratio changed only {total:+.0f}% "
+            f"across the window")
+
+
+# ---------------------------------------------------------------- report
+
+def build_report(sym: str) -> str:
+    monthly, idx_earn = load_index()
+    prices = company_prices(sym)
+    earn = company_earnings(sym)
+    names = {r["nse_symbol"]: r["company_name"]
+             for _, r in pd.read_csv(CONST).iterrows()}
+    name = names.get(sym, sym)
+
+    idx_earn = idx_earn.set_index("fy")
+    fys_all = sorted(set(prices) | set(earn) | set(idx_earn.index),
+                     key=lambda s: int(s.split()[1]))[-MAX_YEARS:]
+
+    price_rows, pat_rows, op_rows = [], [], []
+    missing: list[str] = []
+    for fy in fys_all:
+        # price ratio — company FY-end price vs index close of that month
+        if fy in prices:
+            label, px = prices[fy]
+            ic = index_close_for(monthly, label)
+            if ic:
+                price_rows.append((fy, px / ic * 1000))
+            else:
+                missing.append(f"{fy}: no index close for {label}")
+        # earnings ratios — company vs summed index, same fiscal year
+        if fy in idx_earn.index:
+            e = earn.get(fy, {})
+            if "pat" in e and idx_earn.loc[fy, "index_pat"]:
+                pat_rows.append((fy, e["pat"] / idx_earn.loc[fy, "index_pat"] * 100))
+            elif fy in prices or fy in earn:
+                if "pat" not in e:
+                    missing.append(f"{fy}: company Net Profit not in stored data")
+            if "op" in e and idx_earn.loc[fy, "index_op"]:
+                op_rows.append((fy, e["op"] / idx_earn.loc[fy, "index_op"] * 100))
+
+    idx_span = (f"{idx_earn.index[0]}..{idx_earn.index[-1]}"
+                if len(idx_earn) else "none")
+    md = [f"# {name} ({sym}) — Stock vs Nifty 50: price and earnings ratios\n"]
+    md.append(
+        f"Every chart divides the company by the **Nifty 50** index, one "
+        f"point per fiscal year, up to the last {MAX_YEARS} fiscal years. "
+        f"A **rising** line means the company outgrew the index on that "
+        f"measure; a **falling** line means it lagged. Index prices are "
+        f"real ^NSEI closes; index PAT and operating profit are the summed "
+        f"figures of the current 50 constituents from the stored "
+        f"statements ({idx_span}) — today's membership, so older years "
+        f"carry a survivorship caveat.\n")
+
+    md.append("## 1. Price ratio — company share price ÷ Nifty 50 "
+              "(×1000 for readability)\n")
+    md.append(f"**Verdict: {trend_word(price_rows)}.**\n")
+    md.append(chart(price_rows, ""))
+
+    md.append("\n## 2. PAT ratio — company net profit ÷ index net profit "
+              "(% of index)\n")
+    md.append(f"**Verdict: {trend_word(pat_rows)}.**\n")
+    md.append(chart(pat_rows, "%"))
+
+    md.append("\n## 3. Operating-profit ratio — company operating profit ÷ "
+              "index operating profit (% of index)\n")
+    md.append(f"**Verdict: {trend_word(op_rows)}.**\n")
+    md.append(chart(op_rows, "%"))
+
+    if missing:
+        md.append("\n## Years the stored data could not cover\n")
+        for m in missing:
+            md.append(f"- {m}")
+        md.append("")
+
+    md.append("\n---\n*Generated by the StockToIndexPriceEarningsRatio "
+              "skill. Research tooling — not investment advice.*\n")
+    return "\n".join(md)
+
+
+def main() -> None:
+    if len(sys.argv) != 4 or sys.argv[1] != "report":
+        print("usage: python3 analyze.py report SYMBOL out.md")
+        sys.exit(2)
+    sym, out = sys.argv[2].upper(), Path(sys.argv[3])
+    out.write_text(build_report(sym))
+    print(f"wrote {out}")
+
+
+if __name__ == "__main__":
+    main()

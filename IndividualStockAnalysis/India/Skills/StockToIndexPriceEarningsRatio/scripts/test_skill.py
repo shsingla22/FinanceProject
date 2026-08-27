@@ -1,0 +1,146 @@
+"""
+test_skill.py — tests for the StockToIndexPriceEarningsRatio skill.
+
+Covers the saved index series (shape, spans, sanity of magnitudes), the
+fiscal-year mapping, ratio arithmetic against hand-computed values, and
+full report generation for the ten companies the skill is run on —
+including the degraded-but-honest path for a company with stale
+statements (COLPAL).
+
+Run from this folder:  python3 -m pytest test_skill.py -q
+"""
+
+from pathlib import Path
+
+import pandas as pd
+import pytest
+
+import analyze
+
+HERE = Path(__file__).resolve().parent
+DATA = HERE.parent / "data"
+
+TOP10 = ["COLPAL", "APOLLOHOSP", "PIDILITIND", "CAPLIPOINT", "TRITURBINE",
+         "VIJAYA", "CAMS", "LALPATHLAB", "THELEELA", "GILLETTE"]
+FULL_CHART_SYMS = [s for s in TOP10 if s != "COLPAL"]
+
+
+# ------------------------------------------------------------ index data
+
+def test_price_yearly_has_15_fiscal_years():
+    df = pd.read_csv(DATA / "nifty50_price_yearly.csv")
+    assert len(df) == 15
+    assert df.fy.iloc[0] == "Mar 2012" and df.fy.iloc[-1] == "Mar 2026"
+    # index levels must be plausible and strictly positive
+    assert (df.close > 1000).all() and (df.close < 100000).all()
+
+
+def test_price_monthly_covers_every_fiscal_march():
+    m = pd.read_csv(DATA / "nifty50_price_monthly.csv")
+    marches = m[m.month_num == 3].year.tolist()
+    for y in range(2012, 2027):
+        assert y in marches, f"no March close for {y}"
+
+
+def test_constituents_are_a_plausible_nifty50():
+    c = pd.read_csv(DATA / "nifty50_constituents.csv")
+    assert 45 <= len(c) <= 50
+    for anchor in ("RELIANCE", "HDFCBANK", "TCS", "INFY", "ITC"):
+        assert anchor in set(c.nse_symbol), f"{anchor} missing"
+
+
+def test_earnings_yearly_span_and_magnitude():
+    e = pd.read_csv(DATA / "nifty50_earnings_yearly.csv")
+    assert e.fy.iloc[0] == "Mar 2015" and e.fy.iloc[-1] == "Mar 2026"
+    assert (e.pat_companies >= 40).all()
+    # Nifty 50 aggregate PAT is lakhs of crores, growing over the window
+    assert e.index_pat.iloc[0] > 100000
+    assert e.index_pat.iloc[-1] > e.index_pat.iloc[0]
+    assert (e.index_op >= e.index_pat * 0.8).all()  # OP >= ~PAT in aggregate
+
+
+# ------------------------------------------------------- fiscal-year map
+
+@pytest.mark.parametrize("label,fy", [
+    ("Mar 2024", "Mar 2024"),
+    ("Jun 2024", "Mar 2025"),
+    ("Dec 2024", "Mar 2025"),
+    ("Sep 2015", "Mar 2016"),
+    ("Jan 2020", "Mar 2020"),
+])
+def test_fy_mapping(label, fy):
+    assert analyze.fy_of(label) == fy
+
+
+# ------------------------------------------------------ ratio arithmetic
+
+def test_price_ratio_matches_hand_computation():
+    prices = analyze.company_prices("PIDILITIND")
+    label, px = prices["Mar 2026"]
+    assert label == "Mar 2026"
+    monthly = pd.read_csv(DATA / "nifty50_price_monthly.csv")
+    idx = analyze.index_close_for(monthly, "Mar 2026")
+    report = analyze.build_report("PIDILITIND")
+    expected = f"{px / idx * 1000:.3f}"
+    assert expected in report
+
+
+def test_pat_ratio_matches_hand_computation():
+    earn = analyze.company_earnings("PIDILITIND")
+    e = pd.read_csv(DATA / "nifty50_earnings_yearly.csv").set_index("fy")
+    expected = earn["Mar 2026"]["pat"] / e.loc["Mar 2026", "index_pat"] * 100
+    assert f"{expected:.3f}%" in analyze.build_report("PIDILITIND")
+
+
+def test_gillette_june_book_close_maps_into_fiscal_years():
+    # GILLETTE closes its books in June: its stored P&L year "Jun 2015"
+    # must land in fiscal year "Mar 2016", and the earnings ratios must
+    # therefore exist for FY2016 even though no "Mar 2016" statement exists
+    earn = analyze.company_earnings("GILLETTE")
+    assert "Mar 2016" in earn and "pat" in earn["Mar 2016"]
+    # and the monthly index series can serve non-March labels too
+    monthly = pd.read_csv(DATA / "nifty50_price_monthly.csv")
+    assert analyze.index_close_for(monthly, "Jun 2024") is not None
+
+
+# ------------------------------------------------------- report contract
+
+@pytest.mark.parametrize("sym", TOP10)
+def test_report_generates_without_error(tmp_path, sym):
+    out = tmp_path / f"{sym}.md"
+    out.write_text(analyze.build_report(sym))
+    md = out.read_text()
+    assert "Stock vs Nifty 50" in md
+    assert "## 1. Price ratio" in md
+    assert "## 2. PAT ratio" in md
+    assert "## 3. Operating-profit ratio" in md
+
+
+@pytest.mark.parametrize("sym", FULL_CHART_SYMS)
+def test_full_data_companies_get_all_three_charts(sym):
+    md = analyze.build_report(sym)
+    # every section must contain a real chart (a bar row), not the
+    # no-data placeholder
+    for section in ("## 1.", "## 2.", "## 3."):
+        chunk = md.split(section, 1)[1].split("## ", 1)[0]
+        assert "█" in chunk, f"{sym}: no chart bars under {section}"
+    assert "no overlapping years" not in md
+
+
+def test_colpal_degrades_honestly():
+    md = analyze.build_report("COLPAL")
+    # price data exists (FY2015..FY2026) -> price chart present
+    price_chunk = md.split("## 1.", 1)[1].split("## 2.", 1)[0]
+    assert "█" in price_chunk
+    # stored P&L stops at FY2010 -> earnings charts must say so, not guess
+    pat_chunk = md.split("## 2.", 1)[1].split("## 3.", 1)[0]
+    assert "no overlapping years" in pat_chunk
+    assert "could not cover" in md
+
+
+def test_chart_never_exceeds_15_points():
+    for sym in TOP10:
+        md = analyze.build_report(sym)
+        for chunk in md.split("```")[1::2]:      # inside code fences
+            rows = [l for l in chunk.splitlines() if l.startswith("FY")]
+            assert len(rows) <= 15
