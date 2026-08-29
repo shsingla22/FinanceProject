@@ -88,29 +88,119 @@ FY2026  ███████████████████████   
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
 ```
-   +34%         T
-                 t
-               t  t
-              t                                         O
-   +19%            t                                  op*o
-             t      t                           Pppppppt poo
-                     t                         p   oot    t o
-            t         t         P             p  oo t     pt oo
-    +5%         Ooo    t      ooOp              O tt       pt  oO
-        ───t───o───oo───────oo────p──────────poo─t──────────pt────
-          t   o      oo Tttttt     p        po tT            pt
-             o         oOo    ttTt  pp     pott               pt
-   -10%  t  o                     ttttp   ptt                  pT
-           o                          tpTpo                     P
-        T o                            o*o
-         o
-   -24% O
-      FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+ALL THREE RATIOS — yearly change against the Nifty 50 (%)
 
-P = Price ratio   T = PAT ratio   O = Operating-profit ratio   (─ = 0% line)
+   +39% ┤
+        │        ◆┓
+        │       ┏┛┗┓
+        │       ┃  ┗┓                                    ■╗
+   +22% ┤      ┏┛   ┗━┓                              ╭╔══◆╚══╗
+        │     ┏┛      ┗┓                         ●───╔╝┏┛ ┗┓ ╚╗
+        │    ┏┛        ┗┓                       ╭╯╔══╝━┛   ┗━┓╚══╗
+    +5% ┤    ┃   ■═╗    ┗┓      ╔■╗            ╭╯■╝┏┛       ╰┗┓  ■
+        │┈┈┈┏┛┈╔═╝┈╚════╗◆━╔════╝┈╚═╗┈┈┈┈┈┈┈┈╭─╔═◆━┛┈┈┈┈┈┈┈┈┈╰┗━┓┈┈┈
+        │  ┏┛ ╔╝        ╚■═╝  ┗━━◆━┓╚╗      ╭╯╔╝┛              ╰┗┓
+   -12% ┤  ┃ ╔╝                    ┗━╚═╗┓  ┏╔═╝                 ╰◆
+        │ ┏┛╔╝                         ╚═◆╔═╝                    ●
+        │◆╔═╝                            ■╝
+        │■╝
+   -29% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     +7.3    -17.0   +14.7   +18.6   -14.8
+◆      -16.9   +34.1   -0.9    -6.2    -14.4   -1.9    +20.0   -10.8
+■      -24.3   +6.6    -6.6    +6.4    -18.5   +5.9    +21.9   +3.2
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
 ```
 
-**The value at every point of the graph** (yearly % change of each ratio; above 0 the company gained on the index that year, below 0 it lagged):
+Each line again on its own, for a closer read:
+
+```
+PRICE RATIO — yearly change against the Nifty 50 (%)
+
+   +21% ┤
+        │                     ╭──●╮
+        │                ●────╯   ╰╮
+        │               ╭╯         │
+   +11% ┤               │          ╰╮
+        │●╮            ╭╯           ╰╮
+        │ ╰╮          ╭╯             ╰╮
+    +1% ┼┈┈╰╮┈┈┈┈┈┈┈┈┈│┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈│┈┈┈┈┈
+        │   ╰╮       ╭╯               ╰╮
+        │    ╰╮     ╭╯                 ╰╮
+    -9% ┤     ╰╮   ╭╯                   │
+        │      ╰╮  │                    ╰╮
+        │       ╰╮╭╯                     ●
+        │        ●╯
+   -20% ┤
+        └┬───────┬───────┬───────┬───────┬──
+       FY22    FY23    FY24    FY25    FY26
+
+●      +7.3    -17.0   +14.7   +18.6   -14.8
+
+● Price ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+```
+PAT RATIO — yearly change against the Nifty 50 (%)
+
+   +38% ┤
+        │        ◆┓
+        │       ┏┛┗┓
+        │       ┃  ┗┓
+   +23% ┤      ┏┛   ┗┓                                   ◆┓
+        │      ┃     ┗┓                                ┏━┛┗┓
+        │     ┏┛      ┗┓                             ┏━┛   ┗┓
+    +9% ┤    ┏┛        ┗┓                           ┏┛      ┗┓
+        │   ┏┛          ┗┓                        ┏━┛        ┗┓
+        │┈┈┈┃┈┈┈┈┈┈┈┈┈┈┈┈◆━━━┓┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┏◆┛┈┈┈┈┈┈┈┈┈┈┈┗┓┈┈┈┈
+    -6% ┤  ┏┛                ┗━━━◆━━┓        ┏━━┛              ┗┓
+        │  ┃                        ┗━━┓   ┏━┛                  ┗┓
+        │ ┏┛                           ┗━◆━┛                     ◆
+        │◆┛
+   -21% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -16.9   +34.1   -0.9    -6.2    -14.4   -1.9    +20.0   -10.8
+
+◆ PAT ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+```
+OPERATING-PROFIT RATIO — yearly change against the Nifty 50 (%)
+
+   +26% ┤
+        │                                                ■╗
+        │                                             ╔══╝╚═╗
+        │                                            ╔╝     ╚╗
+   +12% ┤                                         ╔══╝       ╚═╗
+        │        ■═╗            ╔■╗              ■╝            ╚═╗
+        │       ╔╝ ╚══╗      ╔══╝ ╚╗            ╔╝               ■
+    -1% ┼┈┈┈┈┈┈╔╝┈┈┈┈┈╚═╗┈┈╔═╝┈┈┈┈┈╚╗┈┈┈┈┈┈┈┈┈┈╔╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        │     ╔╝        ╚■═╝        ╚═╗      ╔═╝
+        │    ╔╝                       ╚╗    ╔╝
+   -15% ┤   ╔╝                         ╚╗  ╔╝
+        │  ╔╝                           ╚╗╔╝
+        │ ╔╝                             ■╝
+        │■╝
+   -28% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+■      -24.3   +6.6    -6.6    +6.4    -18.5   +5.9    +21.9   +3.2
+
+■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+**The value at every point of the graph** (also printed under each point above):
 
 | Fiscal year | Price ratio | PAT ratio | Operating-profit ratio |
 |---|---|---|---|

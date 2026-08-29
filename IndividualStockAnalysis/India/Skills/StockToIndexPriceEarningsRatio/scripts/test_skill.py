@@ -16,6 +16,7 @@ import pandas as pd
 import pytest
 
 import analyze
+import linechart
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE.parent / "data"
@@ -171,23 +172,37 @@ def test_line_graph_in_file_with_point_values(sym):
     md = analyze.build_report(sym)
     assert "## 4. Yearly change of all three ratios" in md
     sec4 = md.split("## 4.", 1)[1].split("## 5.", 1)[0]
-    # the graph lives inside the SAME md file, in a code fence
     graph = sec4.split("```", 2)[1]
+    # the chart is drawn with real strokes, not letters
+    assert any(ch in graph for ch in "─━═"), f"{sym}: no line strokes drawn"
+    assert "┤" in graph and "└" in graph, f"{sym}: axes missing"
     # THELEELA listed in FY2026, so it has a single price point and no
-    # price YoY line — its graph honestly carries the two earnings lines
-    expected = ["T = PAT ratio", "O = Operating-profit ratio"]
+    # price line — its graph honestly carries the two earnings lines
+    expected = ["◆ PAT ratio", "■ Operating-profit ratio"]
     if sym != "THELEELA":
-        expected.insert(0, "P = Price ratio")
+        expected.insert(0, "● Price ratio")
     for leg in expected:
         assert leg in graph, f"{sym}: legend missing {leg}"
-    # every graph must carry the value-at-every-point table, and each
-    # tabled value must equal the hand-computed YoY change
-    assert "The value at every point of the graph" in sec4
-    pat_yoy = analyze.yoy_series(
-        _ratio_rows_for(sym, "pat"))
+    # every point's value is printed on the graph itself
+    pat_yoy = analyze.yoy_series(_ratio_rows_for(sym, "pat"))
     for year, v in pat_yoy.items():
-        assert f"| FY{year} |" in sec4
-        assert f"{v:+.1f}%" in sec4
+        assert f"FY{str(year)[2:]}" in graph
+        assert f"{v:+.1f}" in graph, f"{sym}: FY{year} value not on the graph"
+    # and in the value table underneath
+    assert "The value at every point of the graph" in sec4
+    for year, v in pat_yoy.items():
+        assert f"| FY{year} |" in sec4 and f"{v:+.1f}%" in sec4
+
+
+@pytest.mark.parametrize("sym", FULL_CHART_SYMS)
+def test_each_series_also_gets_its_own_panel(sym):
+    """Three volatile lines in one grid are dense, so every series is also
+    drawn on its own."""
+    md = analyze.build_report(sym)
+    sec4 = md.split("## 4.", 1)[1].split("## 5.", 1)[0]
+    n_series = 2 if sym == "THELEELA" else 3
+    assert sec4.count("— yearly change against the Nifty 50") == n_series + 1
+    assert "Each line again on its own" in sec4
 
 
 def _ratio_rows_for(sym: str, kind: str):
@@ -204,12 +219,49 @@ def _ratio_rows_for(sym: str, kind: str):
 
 def test_line_graph_degrades_for_colpal():
     # COLPAL has no earnings overlap; the price-only series still has
-    # years, so the graph must include exactly the price line
+    # years, so the graph carries exactly the price line
     md = analyze.build_report("COLPAL")
     sec4 = md.split("## 4.", 1)[1].split("## 5.", 1)[0]
     graph = sec4.split("```", 2)[1]
-    assert "P = Price ratio" in graph
-    assert "T = PAT ratio" not in graph
+    assert "● Price ratio" in graph
+    assert "◆ PAT ratio" not in graph
+    # a single series needs no "on its own" repeat
+    assert "Each line again on its own" not in sec4
+
+
+# --------------------------------------------------------- chart renderer
+
+def test_chart_draws_strokes_axes_zero_line_and_values():
+    out = linechart.render([("A", {2020: -5.0, 2021: 10.0, 2022: 0.0})], "T")
+    assert out.startswith("```") and out.rstrip().endswith("```")
+    assert "┤" in out and "└" in out and "┬" in out      # axes + ticks
+    assert "┈" in out                                     # zero line in range
+    assert "●" in out                                     # data-point markers
+    for label in ("FY20", "FY21", "FY22"):
+        assert label in out
+    for value in ("-5.0", "+10.0", "+0.0"):
+        assert value in out
+
+
+def test_chart_gives_each_series_a_distinct_stroke_and_marker():
+    out = linechart.render([("A", {2020: 1.0, 2021: 5.0}),
+                            ("B", {2020: 5.0, 2021: 1.0}),
+                            ("C", {2020: 3.0, 2021: 3.0})], "T")
+    for marker in ("●", "◆", "■"):
+        assert marker in out
+    assert "● A" in out and "◆ B" in out and "■ C" in out
+
+
+def test_chart_handles_flat_and_tiny_series_without_crashing():
+    assert "```" in linechart.render([("A", {2020: 0.0, 2021: 0.0})], "T")
+    assert "```" in linechart.render([("A", {2020: 7.5})], "T")
+    assert "no data" in linechart.render([("A", {})], "T")
+
+
+def test_chart_rows_are_not_ragged():
+    out = linechart.render([("A", {2020: -3.0, 2021: 9.0, 2022: 2.0})], "T")
+    body = out.split("```")[1].splitlines()
+    assert max(len(l) for l in body) < 120      # fits a normal code block
 
 
 # ------------------------------------------------------- raw value table

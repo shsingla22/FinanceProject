@@ -62,29 +62,33 @@ FY2026  ███████████████            74.537  ▼ -24
 One line per ratio, one point per fiscal year: how much the company gained (+) or lost (−) on the index that year.
 
 ```
-   +44%                                                                 P
+ALL THREE RATIOS — yearly change against the Nifty 50 (%)
 
-                                                                       p p
-                                                                      p
-   +27%                                                                   p
-                                                                     p     p
-                                      ppP                           p
-                                   ppp   p                                  p
-   +10%                         Ppp       p                        p
-                              pp           p                      p          p
-        ────────Pp──────────pp──────────────p─────────────────────────────────────────────
-             ppp  pppp    pp                 p                   p            p
-    -7%    pp         ppPp                    p                pP
-         pp                                    p          ppppp                p
-        P                                       PpppppppPp
-                                                                                Pppppp
-   -24%                                                                               ppP
-      FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+   +49% ┤
+        │                                                                ●╮
+        │                                                               ╭╯╰╮
+        │                                                              ╭╯  │
+   +29% ┤                                                             ╭╯   ╰╮
+        │                               ╭●╮                           │     ╰╮
+        │                          ╭────╯ ╰╮                         ╭╯      ╰╮
+   +10% ┤                       ╭●─╯       ╰╮                       ╭╯        │
+        │                    ╭──╯           ╰─╮                    ╭╯         ╰╮
+        │┈┈┈┈┈┈┈╭●───╮┈┈┈┈┈╭─╯┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╭╯┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈┈┈┈┈┈┈┈┈┈
+   -10% ┤  ╭────╯    ╰───●─╯                   ╰╮            ╭───●╯             │
+        │●─╯                                    ╰╮    ╭──●───╯                  ╰╮
+        │                                        ●────╯                          ●────╮
+        │                                                                             ╰──●
+   -30% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
 
-P = Price ratio   (─ = 0% line)
+●      -14.0   +1.1    -8.0    +8.3    +19.2   -16.1   -15.4   -7.5    +43.7   -18.1   -24.1
+
+● Price ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
 ```
 
-**The value at every point of the graph** (yearly % change of each ratio; above 0 the company gained on the index that year, below 0 it lagged):
+**The value at every point of the graph** (also printed under each point above):
 
 | Fiscal year | Price ratio |
 |---|---|

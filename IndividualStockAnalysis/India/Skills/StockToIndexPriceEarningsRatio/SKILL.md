@@ -15,11 +15,11 @@ a **falling** ratio means it lagged. Each chart carries a one-line
 verdict (GAINED / LAGGED / MOVED WITH the index), year-by-year moves,
 and a **window table** with the ratio's change over the last 15, 10, 5,
 3 and 1 fiscal years (n/a rows state where the data starts instead of
-guessing). A fourth section draws a **line graph inside the same Markdown file**
-(a code-fenced plot, so it renders in any viewer) with one line per
-ratio showing each year's % gain or loss against the index, followed by
-a table with the exact value at every point; series without enough
-points are dropped and the legend says which lines remain. A fifth
+guessing). A fourth section draws a **line graph inside the same Markdown file**:
+all three ratios in one grid for comparison, then each ratio again on
+its own for a closer read, with the value of every point printed under
+its own column and repeated in a table. Series without enough points
+are dropped and the legend says which lines remain. A fifth
 section tables the **raw yearly values** every ratio is built from —
 company price, Nifty 50 close, company and index PAT, company and index
 operating profit. Years either side cannot cover are listed, never
@@ -61,3 +61,25 @@ Stored outputs for the top-rated companies live under
 - A company whose stored statements are stale (e.g. COLPAL's P&L stops
   at FY2010) gets a price chart plus an explicit "could not cover" list
   instead of guessed earnings ratios.
+
+## Why the chart is drawn in text
+
+Tested against GitHub's real Markdown renderer (a probe file pushed and
+the rendered HTML read back), every inline image is stripped:
+
+| Embedding | GitHub |
+|---|---|
+| `![](data:image/png;base64,...)` | removed |
+| `<img src="data:image/png;base64,...">` | removed |
+| `![](data:image/svg+xml;base64,...)` | removed |
+| raw `<svg>...</svg>` | removed |
+| ```mermaid `xychart-beta` | kept |
+| `![](chart.png)` relative file | kept |
+
+Mermaid survives on GitHub but does not render in every Markdown viewer,
+and a relative image file is not self-contained. Box-drawing characters
+render identically everywhere, so the chart is drawn with real strokes
+(`linechart.py`): a light line with `●` points for the price ratio, a
+heavy line with `◆` for PAT and a double line with `■` for operating
+profit. Those pairings are pinned per measure, so `◆` means PAT in every
+report even when another measure has no line to draw.

@@ -173,66 +173,10 @@ def yoy_series(rows: list[tuple[str, float]]) -> dict[int, float]:
 
 
 def ascii_line_graph(series: list[tuple[str, str, dict[int, float]]]) -> str:
-    """Multi-line graph inside a code fence — renders in any Markdown
-    viewer. Uppercase letters mark the yearly points, lowercase letters
-    trace the line between them, '*' marks overlapping points."""
-    years = sorted({y for _, _, s in series for y in s})
-    vals = [v for _, _, s in series for v in s.values()]
-    lo, hi = min(vals + [0.0]), max(vals + [0.0])
-    span = (hi - lo) or 1.0
-    ROWS, STEP, LEFT = 17, 8, 8
-    width = LEFT + (len(years) - 1) * STEP + 2 if len(years) > 1 else LEFT + 2
-    grid = [[" "] * width for _ in range(ROWS)]
-
-    def row_of(v: float) -> int:
-        return round((hi - v) / span * (ROWS - 1))
-
-    def col_of(i: int) -> int:
-        return LEFT + i * STEP
-
-    zero_row = row_of(0.0) if lo <= 0 <= hi else None
-    if zero_row is not None:
-        for c in range(LEFT, width):
-            grid[zero_row][c] = "─"
-
-    for _, letter, s in series:
-        pts = [(i, s[y]) for i, y in enumerate(years) if y in s]
-        # trace the line between consecutive points
-        for (i1, v1), (i2, v2) in zip(pts, pts[1:]):
-            c1, c2 = col_of(i1), col_of(i2)
-            for c in range(c1 + 1, c2):
-                v = v1 + (v2 - v1) * (c - c1) / (c2 - c1)
-                r = row_of(v)
-                if grid[r][c] in (" ", "─"):
-                    grid[r][c] = letter.lower()
-        # then the yearly points on top
-        for i, v in pts:
-            r, c = row_of(v), col_of(i)
-            grid[r][c] = "*" if grid[r][c] in tuple("PTO") else letter
-
-    # y-axis labels on 5 levels
-    for k in range(5):
-        v = hi - span * k / 4
-        r = row_of(v)
-        label = f"{v:+.0f}%"
-        for j, ch in enumerate(label.rjust(LEFT - 1)):
-            if grid[r][j] == " ":
-                grid[r][j] = ch
-
-    x_axis = [" "] * width
-    for i, y in enumerate(years):
-        for j, ch in enumerate(f"FY{str(y)[2:]}"):
-            pos = col_of(i) - 2 + j
-            if 0 <= pos < width:
-                x_axis[pos] = ch
-
-    lines = ["```"] + ["".join(r).rstrip() for r in grid]
-    lines.append("".join(x_axis).rstrip())
-    legend = "   ".join(f"{letter} = {name}" for name, letter, _ in series)
-    lines.append("")
-    lines.append(legend + "   (─ = 0% line)")
-    lines.append("```")
-    return "\n".join(lines) + "\n"
+    """Kept for backwards compatibility; the report now uses linechart."""
+    import linechart
+    return linechart.render([(n, s) for n, _l, s in series],
+                            "Yearly change of each ratio (%)")
 
 
 def point_values_table(series: list[tuple[str, str, dict[int, float]]]) -> str:
@@ -248,18 +192,32 @@ def point_values_table(series: list[tuple[str, str, dict[int, float]]]) -> str:
 
 
 def yoy_line_graph(price_rows, pat_rows, op_rows) -> str:
-    """The in-file line graph plus the value at every point."""
-    series = [("Price ratio", "P", yoy_series(price_rows)),
-              ("PAT ratio", "T", yoy_series(pat_rows)),
-              ("Operating-profit ratio", "O", yoy_series(op_rows))]
-    series = [(n, l, s) for n, l, s in series if s]
+    """A proper line graph of the yearly change of the three ratios: all
+    three together for comparison, then each on its own for a close read.
+    Drawn with box-drawing strokes so it renders identically in GitHub,
+    plain Markdown viewers and any editor — GitHub strips inline images."""
+    import linechart
+    # the style index is pinned per measure, so ● always means price,
+    # ◆ always PAT and ■ always operating profit in every report
+    series = [("Price ratio", yoy_series(price_rows), 0),
+              ("PAT ratio", yoy_series(pat_rows), 1),
+              ("Operating-profit ratio", yoy_series(op_rows), 2)]
+    series = [(n, s, i) for n, s, i in series if s]
     if not series:
         return "*(no overlapping years in the stored data)*\n"
-    out = ascii_line_graph(series)
-    out += ("\n**The value at every point of the graph** (yearly % change "
-            "of each ratio; above 0 the company gained on the index that "
-            "year, below 0 it lagged):\n\n")
-    out += point_values_table(series)
+
+    out = linechart.render(
+        series, "ALL THREE RATIOS — yearly change against the Nifty 50 (%)")
+    if len(series) > 1:
+        out += "\nEach line again on its own, for a closer read:\n\n"
+        for name, s, i in series:
+            out += linechart.render(
+                [(name, s, i)],
+                f"{name.upper()} — yearly change against the Nifty 50 (%)")
+            out += "\n"
+    out += ("\n**The value at every point of the graph** (also printed under "
+            "each point above):\n\n")
+    out += point_values_table([(n, "", s) for n, s, _i in series])
     return out
 
 
