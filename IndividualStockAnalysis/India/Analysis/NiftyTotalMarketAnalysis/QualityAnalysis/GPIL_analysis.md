@@ -23,13 +23,14 @@ Godawari Power & Ispat Limited (GPIL) is an Indian steel and iron-ore company ba
 
 ## The verdict: Mixed — 38 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (53/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 38 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (53/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has lagged the index (43/100). Weighing those together gives 38 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 53 (business quality) + 30% × 10 (multibagger fit) + 25% × 44 (risk safety) = 38 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 53 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 44 (risk safety) + 10% × 43 (relative to the index) = 38 out of 100 → Mixed (2 stars).
 
 - **Business quality (53/100):** The 34-check quality framework scored the business +0.14 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 53 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (44/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 4 worth watching (−16) → 44 of 100.
+- **Relative to the index (43/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 43 points.
 
 ### The story in depth
 
@@ -443,6 +444,58 @@ FY2026  ████████████████           73 days  ▲ 
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±20 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 9% a year earlier, 6% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 43 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 43 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +559% · gained strongly | — | +102% · gained strongly |
+| last 5 years | -9% · moved with | -55% · lagged badly | -45% · lagged badly |
+| last 3 years | -42% · lagged badly | -36% · lagged badly | -9% · moved with |
+| last 1 year | +51% · gained strongly | -13% · lagged | +3% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +449% ┤
+        │                ◆┓
+        │               ┏┛┗┓                     ●╮
+        │              ┏┛  ┗┓                   ╭╯╰─╮
+  +266% ┤            ┏━┛╭●╮ ┗━┓                ╭╯   ╰─╮
+        │           ┏┛╭─╯ ╰╮  ┗┓              ╭╯ ◆━┓  ╰╮
+        │          ┏┛─╯    ╰─╮ ┗┓           ╭─┏━━┛ ┗━━┓╰─╮
+   +83% ┤       ╭●┏┛  ╔══■═══╗╮ ┗┓         ╭╯┏┛ ╔■═══╗┗━┓●─╮
+        │  ╭─╔═══■════╝      ╚═══■════╗   ┏╔════╝    ╚═══■══╗───╮              ╭─●───────●
+        │■═══╝┈┏━┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈┈┈╚══■═╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚══╗╰●───╮╔══■═══════■═══════■┈┈
+  -101% ┤    ┏━┛                 ●────╯                        ╚═■════╝──●──╯
+        │   ┏┛
+        │ ┏━┛
+        │◆┛
+  -284% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -42.3   +86.4  +216.6   -50.7   -46.4  +362.9   +84.0   -14.5   -65.3   +10.5   +51.3
+◆     -233.6   +30.2  +398.7   +12.4   -30.7  +207.8   +50.1   -53.4   -6.0    -21.3   -13.3
+■      -42.1   +32.4  +106.7   +5.9    -23.4   +65.0   +22.0   -50.2   +3.3    -15.1   +3.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GPIL_stock_to_index.md`](GPIL_stock_to_index.md), with the same graph as [`GPIL_stock_to_index.svg`](GPIL_stock_to_index.svg) and [`GPIL_stock_to_index.mmd`](GPIL_stock_to_index.mmd).
+
 ## What to watch
 
 - Pellet and sponge realizations from here — the Cyclicality high risk and the negative mark on 'Pricing, Mix and Volume'. New volume from the 4.7mt pellet plant and 6mt mine only becomes earnings if prices stop falling; a repeat of the FY23 slide to Rs 7,775 would swamp the volume gains.
@@ -458,5 +511,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

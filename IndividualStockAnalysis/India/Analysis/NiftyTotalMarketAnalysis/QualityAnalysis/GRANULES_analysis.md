@@ -20,15 +20,16 @@ Granules India is a Hyderabad-based pharmaceutical manufacturer that makes gener
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 70 out of 100 ★★★★☆
+## The verdict: Strong — 69 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (64/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 70 out of 100 — strong.
+In one breath: the quality framework finds a good business today (64/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (62/100). Weighing those together gives 69 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 64 (business quality) + 30% × 71 (multibagger fit) + 25% × 80 (risk safety) = 70 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 64 (business quality) + 27% × 71 (multibagger fit) + 22.5% × 80 (risk safety) + 10% × 62 (relative to the index) = 69 out of 100 → Strong (4 stars).
 
 - **Business quality (64/100):** The 34-check quality framework scored the business +0.58 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 64 points.
 - **Multibagger fit (71/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Forward Integrators, Market Share Gainers) (+30); 2 likely (+16) → 71 of 100.
 - **Risk safety (80/100):** started from a clean 100; 5 worth watching (−20) → 80 of 100.
+- **Relative to the index (62/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
 
 ### The story in depth
 
@@ -437,6 +438,58 @@ FY2026  ██████████████████████    25
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±11 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 17% a year earlier, 11% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 62 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +69% · gained strongly | +35% · gained strongly | +51% · gained strongly |
+| last 5 years | +25% · gained | -60% · lagged badly | -31% · lagged badly |
+| last 3 years | +61% · gained strongly | -27% · lagged badly | +7% · moved with |
+| last 1 year | +29% · gained strongly | +4% · moved with | +23% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +73% ┤
+        │                        ◆━┓
+        │                       ┏┛ ┗━━━━┓
+        │●╮                    ┏┛       ┗◆━━━┓╔══■╗
+   +40% ┤ ╰─╮                 ┏┛      ╭─╔■════╝━━◆╚╗╮
+        │■═╗━━━━━◆┓           ┃      ╭╔═╝         ┗╚╗╮                                  ╔■
+        │  ╚════╗ ┗━┓        ┏┛   ╭╔══╝            ┗╚╗╮                 ╭●────╮  ◆━╔════╝
+    +7% ┤      ╰╚■═══╗      ┏┛╔══■═╝                ┗║╰╮         ■═╗  ╭─╯     ╰─╔■═╝  ┗━━◆
+        │┈┈┈┈┈┈┈┈●─╮┈╚═══■════╝╭─╯┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚╗╰─╮┈┈┈┈┈╔═╝┗╚══╗┈┈┈┈┈┈╔══╝┈┈┈┈┈┈┈┈┈┈┈
+        │          ╰╮  ┗━┓┏┛  ╭╯                      ╚╗ ●────╔╝─●─╯┗┓╚═╗  ╔═╝┛
+   -26% ┤           ╰──╮ ◆┛ ╭─╯                       ┗╚╗   ╔═╝      ┗━┓╚■═╝━┛
+        │              ╰╮ ╭─╯                          ┗╚╗╔═╝┛         ┗━┓┏┛
+        │               ╰●╯                             ┗■╝━┛            ◆┛
+        │                                                ◆┛
+   -59% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +46.8   -2.3    -35.6   +3.3    +46.7   +42.4   -13.6   -10.2   +18.3   +5.0    +29.4
+◆      +28.2   +26.5   -17.1   +64.3   +45.0   +36.3   -49.6   +7.9    -37.6   +12.3   +4.2
+■      +25.0   +7.5    -6.3    +10.6   +32.8   +47.4   -36.9   +3.3    -17.2   +4.3    +23.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GRANULES_stock_to_index.md`](GRANULES_stock_to_index.md), with the same graph as [`GRANULES_stock_to_index.svg`](GRANULES_stock_to_index.svg) and [`GRANULES_stock_to_index.mmd`](GRANULES_stock_to_index.mmd).
+
 ## What to watch
 
 - Complex generics and finished dosages as a share of sales: the Forward Integrators and Innovation Dominance patterns, and the gross margin move from 50% to 65.6%, all depend on this mix continuing to climb. If it stalls, the Good Enough Goods risk pulls the story back to commodity APIs.
@@ -452,5 +505,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

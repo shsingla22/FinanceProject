@@ -17,15 +17,16 @@ Oil India Limited (OIL) is a government-owned "Maharatna" central public sector 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 45 out of 100 ★★☆☆☆
+## The verdict: Mixed — 46 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (47/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 45 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (47/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (52/100). Weighing those together gives 46 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 47 (business quality) + 30% × 36 (multibagger fit) + 25% × 54 (risk safety) = 45 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 47 (business quality) + 27% × 36 (multibagger fit) + 22.5% × 54 (risk safety) + 10% × 52 (relative to the index) = 46 out of 100 → Mixed (2 stars).
 
 - **Business quality (47/100):** The 34-check quality framework scored the business -0.13 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 47 points.
 - **Multibagger fit (36/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Forward Integrators) (+15); 1 likely (+8); 1 numbers-only hint (+3) → 36 of 100.
 - **Risk safety (54/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12); 1 numbers-only flag (−4) → 54 of 100.
+- **Relative to the index (52/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 52 points.
 
 ### The story in depth
 
@@ -417,6 +418,58 @@ FY2026  ██████████████            165 days  ▼ 25 d
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±21 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 10% a year earlier, 14% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 52 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 52 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +49% · gained strongly | +1% · moved with | +2% · moved with |
+| last 5 years | +254% · gained strongly | -33% · lagged badly | -8% · moved with |
+| last 3 years | +113% · gained strongly | -51% · lagged badly | -44% · lagged badly |
+| last 1 year | +25% · gained | -6% · moved with | -8% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +102% ┤
+        │                                                                ●╮
+        │                ◆┓                                             ╭╯╰╮
+        │               ┏┛┗┓                             ●╮            ╭╯  ╰╮
+   +62% ┤              ┏┛  ┗━┓          ┏◆┓            ╭─╯╰─╮         ╭╯    ╰╮
+        │             ┏┛     ┗┓        ┏┛ ┗┓          ╭╯    ╰╮       ╭╯      │
+        │            ┏┛       ┗━┓   ┏━━┛   ┗┓        ╭╯ ╔■════╗     ╭╯       ╰╮
+   +22% ┤        ●─╮ ┃  ╔■═══╗  ┗┓ ┏┛       ┗┓      ╭╯╔═╝     ╚══■╗╭╯         ╰╮        ╭●
+        │     ╭──╯ ╰┏╔══╝    ╚═══■══╗        ┗┓   ╭╔══╝ ┏◆━━━━┛╰─╮╚══╗         ╰╮    ╭──╯
+        │■═══╗╯┈┈┈┈╔═╝╰─╮┈┈┈┈┈┈┈┈┈┈┈╚══╗┈┈┈┈┈┈╔══■═╝┈┈┈┏┛┈┈┈┈┈┈┈┈●╯┈┗╚╗┈┈┈┈┈┈┈┈┈╰╮┈╭─╯┏━━◆┈┈
+   -18% ┤ ╭──╚═══■═╝    ╰●────╮        ╚═■════╝┗┓╯  ┏━━┛             ┗╚══╗   ╔═══■═══════■
+        │◆━━━━━━━◆┛           ╰──●─╮         ╭╯ ┗┓ ┏┛                 ┗┓ ■═══╝┏━┛
+        │                          ╰────╮ ╭──╯   ◆━┛                   ┗━┓ ┏━━┛
+        │                               ╰●╯                              ◆━┛
+   -58% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -28.3   +20.0   -15.8   -21.9   -46.7   +0.1    +66.1   -0.1    +90.6   -10.2   +24.7
+◆      -24.3   -27.6   +76.0   +9.6    +57.9   -31.1   +8.6    +26.5   -43.6   -8.6    -5.7
+■      -6.1    -13.7   +26.8   +13.9   -7.8    -3.1    +37.0   +19.2   -27.7   -15.8   -7.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`OIL_stock_to_index.md`](OIL_stock_to_index.md), with the same graph as [`OIL_stock_to_index.svg`](OIL_stock_to_index.svg) and [`OIL_stock_to_index.mmd`](OIL_stock_to_index.mmd).
+
 ## What to watch
 
 - Asset turn and working capital: whether the ₹28,000 crore refinery expansion and the wider pipelines lift sales per rupee of assets above ₹0.27 and shorten the 165-day cash cycle, or simply add more idle capital.
@@ -432,5 +485,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

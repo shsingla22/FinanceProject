@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (50/100). Last one year: Mixed (37/100). The last year looks WEAKER than the long-term picture (-13 points) — the company has declined in the recent period.
+Long-term view: Decent (50/100). Last one year: Mixed (40/100). The last year looks WEAKER than the long-term picture (-10 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 71 | 62 | -9 |
 | Multibagger fit | 21 | 21 | +0 |
 | Risk safety | 48 | 12 | -36 |
+| Relative to the index | 52 | 67 | +15 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -111,6 +112,20 @@ Genuinely re-tested risk verdicts: 0 eased, 3 worsened, 3 unchanged; 2 carried f
 *Unchanged: Government Dependency (HIGH RISK); Technological Innovation (WATCH); Stakeholder Concentration (WATCH).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **MOVED WITH the index** (52/100). Looking only at the latest year, it has **GAINED on the index** (67/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +205% · gained strongly | +19% · gained | +24% · gained |
+| last 5 years | +37% · gained strongly | -44% · lagged badly | -20% · lagged |
+| last 3 years | -24% · lagged | -46% · lagged badly | -21% · lagged |
+| last 1 year | -16% · lagged | +29% · gained strongly | +24% · gained |
+
 
 ## How this comparison was built
 

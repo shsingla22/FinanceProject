@@ -18,15 +18,16 @@ Supreme Industries is an Indian manufacturer of plastic goods, selling roughly 5
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 59 out of 100 ★★★☆☆
+## The verdict: Decent — 58 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (66/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality). Weighing those together gives 59 out of 100 — decent.
+In one breath: the quality framework finds a good business today (66/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality). Against the Nifty 50 it has moved with the index (46/100). Weighing those together gives 58 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 66 (business quality) + 30% × 33 (multibagger fit) + 25% × 78 (risk safety) = 59 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 66 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 78 (risk safety) + 10% × 46 (relative to the index) = 58 out of 100 → Decent (3 stars).
 
 - **Business quality (66/100):** The 34-check quality framework scored the business +0.65 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 66 points.
 - **Multibagger fit (33/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 likely (+8) → 33 of 100.
 - **Risk safety (78/100):** started from a clean 100; 1 elevated (−10); 3 worth watching (−12) → 78 of 100.
+- **Relative to the index (46/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 46 points.
 
 ### The story in depth
 
@@ -443,6 +444,58 @@ FY2026  ██████████████             45 days  ▲ 3 da
 
 - ✅ Growth is holding up: 5% a year earlier, 14% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 46 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 46 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +66% · gained strongly | -17% · lagged | -24% · lagged |
+| last 5 years | +12% · gained | -25% · lagged | -14% · lagged |
+| last 3 years | +12% · gained | -37% · lagged badly | -5% · moved with |
+| last 1 year | +11% · gained | -21% · lagged | -9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +111% ┤
+        │                ◆┓
+        │               ┏┛┗┓
+   +72% ┤               ┃  ┃
+        │              ┏┛■╗┗┓
+        │              ┃╔╝╚╗┗┓                   ●╮
+        │             ┏╔╝  ╚╗┗┓                ╭─╯╰─╮    ◆┓
+   +32% ┤            ┏╔╝    ╚╗┗┓              ╭╯    ╰╮ ┏━┛┗━┓         ╭──●╮
+        │    ╭───●──┏╔╝      ╚═╗┓           ╭─╯      ┏━┛    ┗━┓ ╭●────╯   ╰─╮   ╔■═╗
+        │●───╯      ┃║─╮       ╚╗       ┏◆━┓╯       ┏┛╔══■═╗  ┗┓╯           ╰╮╔═╝◆━╚═╗  ╭●
+    -7% ┼┈┈┈┈┈┈┈┈┈┈┏╔╝┈╰─●────╮┈╚╗┈┏━╔═══■═══════■════╝╰─╮┈╚══╗┗━┓┈┈┈┈┈┈┈┈┈╔══╝━┛┈┈┗━╚══╗┈┈┈
+        │          ╔╝         ╰──■═══╝          ┗◆┛      ●─╯  ╚═╗◆━━━┓╔══■═╝━┛ ╰─╮ ╭─╯┗━╚■
+        │         ╔╝                                            ╚■════╝━━◆━┛     ●─╯    ┗◆
+        │        ■╝
+   -46% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +8.2    +24.6   -5.3    -16.1   -5.7    +58.6   -14.3   +16.2   +34.6   -24.8   +10.8
+◆        ·     -35.3  +100.0   -7.0    +6.1    -13.5   +40.3   -14.7   -28.9   +12.1   -21.1
+■        ·     -31.2   +66.2   -17.3   -3.3    -3.7    +14.2   -20.6   -14.7   +21.7   -8.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SUPREMEIND_stock_to_index.md`](SUPREMEIND_stock_to_index.md), with the same graph as [`SUPREMEIND_stock_to_index.svg`](SUPREMEIND_stock_to_index.svg) and [`SUPREMEIND_stock_to_index.mmd`](SUPREMEIND_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the FY26 margin recovers toward the 15%-plus of FY25 once the Rs 100–120 crore raw-material hit passes, or whether value growth keeps lagging volume growth — the core evidence behind the ELEVATED 'Cyclicality' risk and the NO FIT on 'Pricing Power'.
@@ -458,5 +511,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

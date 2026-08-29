@@ -18,15 +18,16 @@ Max Healthcare runs a network of large multi-speciality hospitals in India, trea
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 64 out of 100 ★★★☆☆
+## The verdict: Strong — 65 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 64 out of 100 — decent.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (75/100). Weighing those together gives 65 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 49 (multibagger fit) + 25% × 72 (risk safety) = 64 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 49 (multibagger fit) + 22.5% × 72 (risk safety) + 10% × 75 (relative to the index) = 65 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.81 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (49/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 3 likely (+24) → 49 of 100.
 - **Risk safety (72/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 worth watching (−8) → 72 of 100.
+- **Relative to the index (75/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -430,6 +431,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒             -110 days  ▲ 26 days 
 - ✅ Operating margin held (about 8% then 27%) — no drift down under competition.
 - ✅ Growth is holding up: 20% a year earlier, 21% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 75 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | +185% · gained strongly | — | +176% · gained strongly |
+| last 3 years | +64% · gained strongly | -17% · lagged | +48% · gained strongly |
+| last 1 year | -11% · lagged | +18% · gained | +19% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +449% ┤
+        │                                ◆┓
+        │                               ┏┛┗━┓
+        │                        ■╗     ┃   ┗┓
+  +249% ┤                      ╔═╝╚══╗ ┏┛    ┗┓
+        │                     ╔╝     ╚╗┃      ┗┓
+        │        ◆━┓         ╔╝       ╚══╗     ┗━┓
+   +50% ┤       ┏┛ ┗━┓      ╔╝       ┏┛  ■═══╗   ◆━━━┓╭──●───────●───╮
+        │■═══════■════╗┓┈┈╔═╝┈┈┈┈┈┈┈┏┛┈┈┈┈┈┈┈╚═══■═══════■═══════■═══════■┈┈
+        │    ┏┛       ╚══■╝         ┃
+  -150% ┤  ┏━┛           ┗━━┓      ┏┛
+        │ ┏┛                ┗━┓    ┃
+        │◆┛                   ┗━┓ ┏┛
+        │                       ┗◆┛
+  -350% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     +44.6   +20.1   +48.5   +24.3   -11.0
+◆     -260.6  +100.0     ·    -294.5  +393.8   +57.3   -23.7   -7.8    +17.8
+■      -19.3   +10.5   -41.6  +292.1   +73.5   +7.1    +6.2    +16.9   +19.5
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`MAXHEALTH_stock_to_index.md`](MAXHEALTH_stock_to_index.md), with the same graph as [`MAXHEALTH_stock_to_index.svg`](MAXHEALTH_stock_to_index.svg) and [`MAXHEALTH_stock_to_index.mmd`](MAXHEALTH_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Government Dependency risk eases or deepens.
@@ -441,5 +494,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

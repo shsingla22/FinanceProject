@@ -84,6 +84,10 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 0 unchanged; 3 carried f
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
 
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+The stored history is too short to compare this company with the index over any window.
+
 ## How this comparison was built
 
 Both sides ran the same three analysis engines (BusinessAnalysis, MultibaggerPattern, QualityRisks) through their respective orchestrators:

@@ -23,15 +23,16 @@ ICICI Bank is an Indian bank that takes deposits from customers and lends the mo
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 58 out of 100 ★★★☆☆
+## The verdict: Decent — 59 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (64/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 58 out of 100 — decent.
+In one breath: the quality framework finds a good business today (64/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (65/100). Weighing those together gives 59 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 64 (business quality) + 30% × 40 (multibagger fit) + 25% × 68 (risk safety) = 58 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 64 (business quality) + 27% × 40 (multibagger fit) + 22.5% × 68 (risk safety) + 10% × 65 (relative to the index) = 59 out of 100 → Decent (3 stars).
 
 - **Business quality (64/100):** The 34-check quality framework scored the business +0.58 on its −2 (poor) to +2 (excellent) scale, with 82% of checks backed by evidence; mapped onto 0–100 that is 64 points.
 - **Multibagger fit (40/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Corporate Culture) (+15) → 40 of 100.
 - **Risk safety (68/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 3 worth watching (−12) → 68 of 100.
+- **Relative to the index (65/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.58 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 65 points.
 
 ### The story in depth
 
@@ -370,6 +371,58 @@ Regulation cuts both ways too, and it is the sharpest example of one trait produ
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 65 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.58 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 65 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +83% · gained strongly | +48% · gained strongly | +52% · gained strongly |
+| last 5 years | +26% · gained strongly | +4% · moved with | +59% · gained strongly |
+| last 3 years | +3% · moved with | +4% · moved with | -74% · lagged badly |
+| last 1 year | -9% · moved with | -7% · moved with | -11% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +119% ┤
+        │                                ◆━┓
+        │                               ┏┛ ┗━━┓
+        │                              ┏┛     ┗━┓       ╔■═══╗
+   +55% ┤                             ┏┛        ┗◆━┓ ╔══╝    ╚═══■════╗
+        │                       ╭●─╮ ┏┛         ╭●─╔═╝                ╚══■╗
+        │                  ╭───╔═■═══════■═══════■═╝ ┗━━┓●───┏━━━◆━━━━━━━◆╚╗━━━━━◆━━━━┓
+    -9% ┼┈┈┈┈┈┏━━◆━━━━━━━◆━┓╔══╝┈┈┈┏┛┈┈┈╰●─╯┈┈┈┈┈┈┈┈┈┈┈┈┗◆━━━┛┈┈┈┈┈┈┈┈╰──●─╚╗╯┈┈┈┈┈┈┈┈┗━━■┈┈
+        │◆━━━━┛      ╔═══■══╝━━━┓ ┏┛                                        ╚╗         ╔═╝
+        │     ╔══■═══╝          ┗◆┛                                          ╚╗       ╔╝
+   -72% ┤■════╝                                                               ╚╗     ╔╝
+        │                                                                      ╚╗   ╔╝
+        │                                                                       ╚╗╔═╝
+        │                                                                        ■╝
+  -136% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -21.8   -1.3    -4.2    +31.5   -3.7    +21.2   +7.3    +13.7   -0.4    +14.6   -9.3
+◆      -19.9   -2.2    -17.5   -42.1  +101.5   +50.9   -12.7   +15.2   +3.5    +7.3    -6.7
+■      -59.0   -38.9   -19.9   +9.2    +14.0   +10.2   +56.0   +46.4   +28.0  -118.6   -10.5
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ICICIBANK_stock_to_index.md`](ICICIBANK_stock_to_index.md), with the same graph as [`ICICIBANK_stock_to_index.svg`](ICICIBANK_stock_to_index.svg) and [`ICICIBANK_stock_to_index.mmd`](ICICIBANK_stock_to_index.mmd).
+
 ## What to watch
 
 - Margins and funding costs — the Pricing Power NO FIT rests on the drop from 4.78% to about 4.30%; further slippage, or deposit costs pushing past the ~4.9% already reached, would confirm the Good Enough Goods and New Entrants WATCH risks
@@ -385,5 +438,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

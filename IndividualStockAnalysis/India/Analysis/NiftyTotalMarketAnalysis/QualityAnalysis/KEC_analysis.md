@@ -18,15 +18,16 @@ KEC International is an Indian engineering, procurement and construction (EPC) c
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 39 out of 100 ★★☆☆☆
+## The verdict: Mixed — 40 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (46/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 39 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (46/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (48/100). Weighing those together gives 40 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 46 (business quality) + 30% × 18 (multibagger fit) + 25% × 50 (risk safety) = 39 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 46 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 50 (risk safety) + 10% × 48 (relative to the index) = 40 out of 100 → Mixed (2 stars).
 
 - **Business quality (46/100):** The 34-check quality framework scored the business -0.16 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 46 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (50/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12); the balance sheet shows one stress signal (−8) → 50 of 100.
+- **Relative to the index (48/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 48 points.
 
 ### The story in depth
 
@@ -449,6 +450,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒         -201 days  ▲ 
 
 - ✅ Growth is holding up: 8% a year earlier, 12% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 48 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 48 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +37% · gained strongly | +14% · gained | -16% · lagged |
+| last 5 years | -24% · lagged | -60% · lagged badly | -25% · lagged |
+| last 3 years | -16% · lagged | +118% · gained strongly | +67% · gained strongly |
+| last 1 year | -34% · lagged badly | -7% · moved with | +9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +107% ┤
+        │        ◆━┓
+        │       ┏┛ ┗━━┓
+        │      ┏┛     ┗━┓
+   +62% ┤●────┏┛     ╭──┗◆━┓                     ●╮                      ◆━━━━┓
+        │    ┏┛──●───╯    ╰┗┓                   ╭╯╰╮                    ┏┛    ┗━━◆┓
+        │■════╗            ╰┗━━┓               ╭╯  ╰─╮                 ┏╔■════╗   ┗━━┓
+   +17% ┤  ┏┛ ╚══■═══════■═╗╰╮ ┗┓     ┏━━◆━┓  ╭╯     ╰╮         ╭●────┏╔╝●───╮╚══■═══╗┓
+        │┈┏┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚════╗◆━━━╔═══■══╗━┓┈┈┈┈┈┈┈╰─╮┈┈┈┈╭──╯┈┈┈╔══╝┈┈┈┈┈╰───●─╮┈╚═══■┈┈
+        │◆┛                    ╰╚■═══╝     ╭╚══╗┓       ╰╮ ╭─╯     ╔╝┃             ╰─╮   ◆
+   -27% ┤                       ╰╮        ╭╯   ╚═■════╗  ●─╯ ╔═══■═╝┏┛               ╰──╮
+        │                        ●───────●╯        ┗━┓╚══■═══╝     ┏┛                   ╰●
+        │                                            ┗━━┓         ┏┛
+        │                                               ┗◆━━━━━━━◆┛
+   -72% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +59.2   +43.9   +61.9   -28.5   -27.5   +49.3   -21.1   +14.0   +21.6   +4.7    -33.8
+◆      -12.8   +94.3   +55.0   -0.2    +16.5   -18.7   -59.8   -54.3   +57.0   +49.1   -6.7
+■      +28.9   +15.1   +21.1   -9.6    +4.3    -15.6   -40.1   -24.6   +30.4   +16.9   +9.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KEC_stock_to_index.md`](KEC_stock_to_index.md), with the same graph as [`KEC_stock_to_index.svg`](KEC_stock_to_index.svg) and [`KEC_stock_to_index.mmd`](KEC_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital check: the -4% cash return on capital and ~2.6% group ROIC turning positive as the Dubai, Jaipur, Jabalpur, Butibori and Brazil capex comes on stream
@@ -464,5 +517,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

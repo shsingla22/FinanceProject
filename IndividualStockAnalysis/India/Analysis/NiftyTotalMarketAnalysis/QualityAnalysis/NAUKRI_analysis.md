@@ -21,15 +21,16 @@ Info Edge (India) Ltd. runs a group of Indian online classifieds and matching we
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 77 out of 100 ★★★★☆
+## The verdict: Strong — 76 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (69/100); it strongly fits 6 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Weighing those together gives 77 out of 100 — strong.
+In one breath: the quality framework finds a good business today (69/100); it strongly fits 6 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Against the Nifty 50 it has gained on the index (66/100). Weighing those together gives 76 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 69 (business quality) + 30% × 100 (multibagger fit) + 25% × 64 (risk safety) = 77 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 69 (business quality) + 27% × 100 (multibagger fit) + 22.5% × 64 (risk safety) + 10% × 66 (relative to the index) = 76 out of 100 → Strong (4 stars).
 
 - **Business quality (69/100):** The 34-check quality framework scored the business +0.76 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 69 points.
 - **Multibagger fit (100/100):** the foundation test partly passed (+10); 6 patterns fit strongly (Recurring Revenue (Product Upfront), Brand Strength, Innovation Dominance, Market Share Gainers…) (+90); 1 likely (+8) → 100 of 100. (Capped at 100.)
 - **Risk safety (64/100):** started from a clean 100; 2 elevated (−20); 4 worth watching (−16) → 64 of 100.
+- **Relative to the index (66/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.64 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
 
 ### The story in depth
 
@@ -459,6 +460,58 @@ FY2026  ██                           1 day  ▼ 1 day vs prior year
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±17 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 7% a year earlier, 24% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 66 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.64 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +106% · gained strongly | +317% · gained strongly | +352% · gained strongly |
+| last 5 years | -31% · lagged badly | -54% · lagged badly | +692% · gained strongly |
+| last 3 years | -2% · moved with | — | +176% · gained strongly |
+| last 1 year | -32% · lagged badly | +18% · gained | +32% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++3,066% ┤
+        │                ■╗
+        │              ╔═╝╚═╗
+        │             ╔╝┏◆━┓╚╗
++1,203% ┤◆━━┓       ╔═╝━┛  ┗━╚═╗                                       ┏━◆━━┓
+        │■═══╗━┓  ╔═╝┛        ┗╚═╗            ┏━━◆━━━━╔══■═══╗      ┏━━┛    ┗━━┓
+        │●───╚═══■╝┛─────●──────┗■╗━━━━━━◆━━━━┛──■════╝──●───╚═══■═══════■═══════■═══════■┈┈
+  -660% ┤                         ╚╗            ╔╝
+        │                          ╚╗          ╔╝
+        │                           ╚╗        ╔╝
+-2,523% ┤                            ╚═╗    ╔═╝
+        │                              ╚╗  ╔╝
+        │                               ╚╗╔╝
+        │                                ■╝
+-4,385% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -4.8    -11.9   +27.1   +45.4   +29.7   +41.7   -9.9    -21.8   +20.0   +19.3   -31.7
+◆     +899.7  -134.4  +1297.7  +9.4   -142.4  +579.4  +508.8  -100.5  +776.8   +99.5   +18.3
+■     +312.0  -109.8  +2551.7  -96.7  -3871.5 +119.1  +347.5   -36.0   +80.3   +16.0   +32.1
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NAUKRI_stock_to_index.md`](NAUKRI_stock_to_index.md), with the same graph as [`NAUKRI_stock_to_index.svg`](NAUKRI_stock_to_index.svg) and [`NAUKRI_stock_to_index.mmd`](NAUKRI_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether recruitment billings re-accelerate past the 7-9% range they slowed to - the Cyclicality risk is the main swing factor between a soft patch and a structural slowdown.
@@ -474,5 +527,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

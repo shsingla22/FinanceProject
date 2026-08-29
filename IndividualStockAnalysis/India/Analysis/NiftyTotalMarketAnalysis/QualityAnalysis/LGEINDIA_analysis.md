@@ -16,15 +16,16 @@ LG Electronics India sells household electronics and appliances under the LG bra
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 61 out of 100 ★★★☆☆
+## The verdict: Decent — 57 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (75/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (New Entrants, Good Enough Goods). Weighing those together gives 61 out of 100 — decent.
+In one breath: the quality framework finds a good business today (75/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (New Entrants, Good Enough Goods). Against the Nifty 50 it has lagged the index badly (17/100). Weighing those together gives 57 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 75 (business quality) + 30% × 34 (multibagger fit) + 25% × 68 (risk safety) = 61 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 75 (business quality) + 27% × 34 (multibagger fit) + 22.5% × 68 (risk safety) + 10% × 17 (relative to the index) = 57 out of 100 → Decent (3 stars).
 
 - **Business quality (75/100):** The 34-check quality framework scored the business +1.01 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 75 points.
 - **Multibagger fit (34/100):** the foundation test partly passed (+10); 3 likely (+24) → 34 of 100.
 - **Risk safety (68/100):** started from a clean 100; 2 elevated (−20); 3 worth watching (−12) → 68 of 100.
+- **Relative to the index (17/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored -1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 17 points.
 
 ### The story in depth
 
@@ -428,6 +429,57 @@ FY2026  ██████████████████████     3
 - ✅ Sales fell in only 1 of the last 6 years with swings of ±8 points — no pronounced boom-and-bust signature in revenue.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 17 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored -1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 17 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -60% · lagged badly | -49% · lagged badly |
+| last 3 years | — | -21% · lagged | +4% · moved with |
+| last 1 year | — | -33% · lagged badly | -24% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +39% ┤
+        │                                ■╗
+        │                             ╔══╝╚╗
+        │                            ╔╝┛   ╚╗
+   +15% ┤                         ╔══╝┛    ┗╚╗
+        │                       ╔■╝ ┏┛      ┗╚╗
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◆━╔════╝┈┏━┛┈┈┈┈┈┈┈┈┗╚╗┈┈┈┈
+    -8% ┤               ┏■═╝  ┗━━◆┛           ┗╚╗
+        │■╗            ╔═╝                     ┗╚╗
+        │ ╚═╗         ╔╝                        ┃■
+   -32% ┤◆━┓╚═╗     ┏╔╝                         ┗┓
+        │  ┗━┓╚╗   ┏╔╝                           ◆
+        │    ┗━╚═╗╔═╝
+        │       ┗■╝
+   -55% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬──
+       FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -31.4   -48.5   -1.3    -10.6   +32.1   -32.8
+■      -13.6   -46.1   -8.8    +3.5    +31.9   -23.9
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`LGEINDIA_stock_to_index.md`](LGEINDIA_stock_to_index.md), with the same graph as [`LGEINDIA_stock_to_index.svg`](LGEINDIA_stock_to_index.svg) and [`LGEINDIA_stock_to_index.mmd`](LGEINDIA_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the channel promotion and trade credit support flagged under the New Entrants risk keeps growing — if the 1.1% Q4 margin cost repeats or rises, the Market Share Gainers pattern is being paid for rather than won
@@ -443,5 +495,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

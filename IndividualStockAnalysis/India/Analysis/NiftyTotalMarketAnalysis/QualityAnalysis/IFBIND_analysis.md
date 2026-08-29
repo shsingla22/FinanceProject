@@ -15,15 +15,16 @@ IFB Industries is an Indian manufacturer and seller of household appliances — 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 47 out of 100 ★★☆☆☆
+## The verdict: Mixed — 48 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (49/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Good Enough Goods). Weighing those together gives 47 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (49/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Good Enough Goods). Against the Nifty 50 it has gained on the index (62/100). Weighing those together gives 48 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 49 (business quality) + 30% × 21 (multibagger fit) + 25% × 74 (risk safety) = 47 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 49 (business quality) + 27% × 21 (multibagger fit) + 22.5% × 74 (risk safety) + 10% × 62 (relative to the index) = 48 out of 100 → Mixed (2 stars).
 
 - **Business quality (49/100):** The 34-check quality framework scored the business -0.06 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 49 points.
 - **Multibagger fit (21/100):** the foundation test partly passed (+10); 1 likely (+8); 1 numbers-only hint (+3) → 21 of 100.
 - **Risk safety (74/100):** started from a clean 100; 1 elevated (−10); 4 worth watching (−16) → 74 of 100.
+- **Relative to the index (62/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
 
 ### The story in depth
 
@@ -437,6 +438,57 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒                -10 days  ▼ 9 days vs pr
 - ✅ Sales fell in only 0 of the last 9 years with swings of ±9 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 14% a year earlier, 13% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 62 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -18% · lagged | -25% · lagged |
+| last 3 years | — | +509% · gained strongly | +61% · gained strongly |
+| last 1 year | — | +6% · moved with | +10% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +201% ┤
+        │                                        ■╗     ┏◆━┓
+        │                                       ╔╝╚═╗━━━┛  ┗━━━━┓
+        │                                       ║◆━┛╚╗          ┗◆┓
+  +106% ┤                        ◆┓            ╔╝┛   ╚╗           ┗━━┓
+        │■╗┓                    ╔■╗┓          ╔╝┃     ╚╗             ┗┓
+        │ ╚══╗┓              ╔══╝ ╚═╗        ╔╝┏┛      ╚═╗   ╔═══■════╗━━┓
+   +12% ┼┈┈┈┈╚╗━┓┈┈┈┈┈┈┈┈┈┈╔═╝┛┈┈┈┈┈╚╗┈┈┈┈┈┈╔╝┏┛┈┈┈┈┈┈┈┈┈■═══╝┈┈┈┈┈┈┈┈╚══■┈┈
+        │     ╚══◆━━┓╔═══■═╝━┛       ╚╗    ╔╝┏┛
+        │        ■═══╝━┓  ┏┛          ╚╗   ║┏┛
+   -82% ┤              ┗━◆┛           ┗╚═╗╔╝┛
+        │                              ┗┓■╝┃
+        │                               ┗┓┏┛
+        │                                ◆┛
+  -176% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +56.2   -16.8   -62.6  +104.7  -150.3  +126.9  +165.4  +115.7   +6.4
+■      +58.0   -36.0   -6.8    +56.8   -82.9  +174.7   +5.5    +38.2   +10.2
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`IFBIND_stock_to_index.md`](IFBIND_stock_to_index.md), with the same graph as [`IFBIND_stock_to_index.svg`](IFBIND_stock_to_index.svg) and [`IFBIND_stock_to_index.mmd`](IFBIND_stock_to_index.mmd).
+
 ## What to watch
 
 - Discounts and schemes as a share of gross sales (26% in Q3 FY26) — if share keeps rising while this falls, the Friendly Middleman and Brand Strength patterns get stronger; if it climbs, the Market Share Gainers fit is just bought volume.
@@ -453,5 +505,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

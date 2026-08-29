@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: HELD STEADY in the last year ➡️
 
-Long-term view: Mixed (42/100). Last one year: Mixed (43/100). The last year looks in line with the long-term picture (+1 points) — the company has held steady in the recent period.
+Long-term view: Mixed (38/100). Last one year: Mixed (39/100). The last year looks in line with the long-term picture (+1 points) — the company has held steady.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 58 | 55 | -3 |
 | Multibagger fit | 10 | 26 | +16 |
 | Risk safety | 50 | 40 | -10 |
+| Relative to the index | 7 | 8 | +1 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -95,6 +96,20 @@ Genuinely re-tested risk verdicts: 0 eased, 1 worsened, 5 unchanged; 1 carried f
 *Not comparable: Shifting Consumer Preferences (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (7/100). Looking only at the latest year, it has **LAGGED the index badly** (8/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -46% · lagged badly | -29% · lagged badly |
+| last 3 years | — | -61% · lagged badly | -24% · lagged |
+| last 1 year | -43% · lagged badly | -55% · lagged badly | -10% · lagged |
+
 
 ## How this comparison was built
 

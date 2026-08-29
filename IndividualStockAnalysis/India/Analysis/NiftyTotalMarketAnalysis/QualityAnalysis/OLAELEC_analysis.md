@@ -14,15 +14,16 @@ Ola Electric is an Indian company that designs, builds and sells electric two-wh
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 29 out of 100 ★☆☆☆☆
+## The verdict: Weak — 32 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (32/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 29 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (32/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has moved with the index (54/100). Weighing those together gives 32 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 32 (business quality) + 30% × 25 (multibagger fit) + 25% × 30 (risk safety) = 29 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 32 (business quality) + 27% × 25 (multibagger fit) + 22.5% × 30 (risk safety) + 10% × 54 (relative to the index) = 32 out of 100 → Weak (1 star).
 
 - **Business quality (32/100):** The 34-check quality framework scored the business -0.72 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 32 points.
 - **Multibagger fit (25/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Forward Integrators) (+15) → 25 of 100.
 - **Risk safety (30/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 3 elevated (−30) → 30 of 100.
+- **Relative to the index (54/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.14 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
 
 ### The story in depth
 
@@ -427,6 +428,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒              -91 days  ▼ 75 days 
 - ⚠️ Year-to-year sales growth swings by ±16567 percentage points — boom-and-bust revenue, not a steady compounder.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 54 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.14 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -237% · lagged badly | -75% · lagged badly |
+| last 3 years | — | +21% · gained | +36% · gained strongly |
+| last 1 year | -56% · lagged badly | +29% · gained strongly | +45% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +62% ┤
+        │                                ■
+        │                             ╔══◆
+        │               ╔■═╗         ╔╝━┛
+    +1% ┼┈┈┈┈┈┈┈┈┈┈╔════╝┛┈╚════╗┈╔══╝┛┈┈┈┈┈
+        │        ■═╝ ┏┛         ╚■╝┛
+        │      ╔═╝┏━━┛
+   -60% ┤     ╔╝ ◆┛                      ●
+        │   ╔═╝┏━┛
+        │ ╔═╝ ┏┛
+  -120% ┤■╝  ┏┛
+        │   ┏┛
+        │ ┏━┛
+        │◆┛
+  -181% ┤
+        └┬───────┬───────┬───────┬───────┬──
+       FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     -56.4
+◆     -164.0   -61.9   +14.3   -30.2   +29.2
+■     -114.4   -28.4   +10.8   -29.4   +44.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`OLAELEC_stock_to_index.md`](OLAELEC_stock_to_index.md), with the same graph as [`OLAELEC_stock_to_index.svg`](OLAELEC_stock_to_index.svg) and [`OLAELEC_stock_to_index.mmd`](OLAELEC_stock_to_index.mmd).
+
 ## What to watch
 
 - Monthly volumes against the stated 20,000-25,000 unit breakeven — the Low Price Plus cost-out story and the High-Risk Cyclicality verdict both turn on whether the fixed-cost base gets filled
@@ -442,5 +495,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

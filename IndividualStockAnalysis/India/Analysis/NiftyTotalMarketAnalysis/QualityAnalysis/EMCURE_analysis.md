@@ -16,15 +16,16 @@ Emcure Pharmaceuticals is a Pune-based Indian drugmaker that makes and sells pre
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 75 out of 100 ★★★★☆
+## The verdict: Strong — 74 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (68/100); it strongly fits 3 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Good Enough Goods). Weighing those together gives 75 out of 100 — strong.
+In one breath: the quality framework finds a good business today (68/100); it strongly fits 3 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Good Enough Goods). Against the Nifty 50 it has gained on the index (68/100). Weighing those together gives 74 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 68 (business quality) + 30% × 86 (multibagger fit) + 25% × 74 (risk safety) = 75 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 68 (business quality) + 27% × 86 (multibagger fit) + 22.5% × 74 (risk safety) + 10% × 68 (relative to the index) = 74 out of 100 → Strong (4 stars).
 
 - **Business quality (68/100):** The 34-check quality framework scored the business +0.70 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 68 points.
 - **Multibagger fit (86/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 3 patterns fit strongly (Friendly Middleman, Innovation Dominance, Corporate Culture) (+45); 2 likely (+16) → 86 of 100.
 - **Risk safety (74/100):** started from a clean 100; 1 elevated (−10); 4 worth watching (−16) → 74 of 100.
+- **Relative to the index (68/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.71 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 68 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -422,6 +423,58 @@ FY2026  █████████████████         163 days  �
 - ✅ Sales fell in only 0 of the last 7 years with swings of ±7 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 6% a year earlier, 15% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 68 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.71 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 68 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -18% · lagged | -23% · lagged |
+| last 3 years | — | +6% · moved with | +29% · gained strongly |
+| last 1 year | +51% · gained strongly | +17% · gained | +25% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +269% ┤
+        │        ◆┓
+        │       ┏┛┗┓
+        │       ┃  ┗┓
+  +183% ┤      ┏┛   ┗┓
+        │      ┃     ┃
+        │     ┏┛     ┗┓
+   +97% ┤    ┏┛       ┗┓
+        │   ┏┛         ┗┓
+        │   ┃   ╔■═╗    ┗┓                               ●
+   +11% ┤  ╔════╝  ╚══╗  ◆━━┓                ╔═══■═══════■
+        │■═╝┈┈┈┈┈┈┈┈┈┈╚═╗┈┈┈┗━━┓┈┈┈┈┈┈╔══■═══╝━┛┈┈┈┈┈┈┈┈┈┈┈┈
+        │ ┏┛            ╚■═══════■════╝━━◆━━┛
+        │◆┛
+   -74% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·       ·     +50.9
+◆      -50.6  +245.0   +12.4   -31.1   -25.2   +21.3   +17.0
+■      -8.3    +55.6   -18.8   -27.1   -8.2    +12.7   +25.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`EMCURE_stock_to_index.md`](EMCURE_stock_to_index.md), with the same graph as [`EMCURE_stock_to_index.svg`](EMCURE_stock_to_index.svg) and [`EMCURE_stock_to_index.mmd`](EMCURE_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Good Enough Goods risk eases or deepens.
@@ -433,5 +486,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -14,13 +14,14 @@ Tata Motors Passenger Vehicles Limited (TMPV, formerly Tata Motors Limited) make
 
 ## The verdict: Weak — 28 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds an average business today (49/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Technological Innovation…). Weighing those together gives 28 out of 100 — weak.
+In one breath: the quality framework finds an average business today (49/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Technological Innovation…). Against the Nifty 50 it has lagged the index (27/100). Weighing those together gives 28 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 49 (business quality) + 30% × 18 (multibagger fit) + 25% × 2 (risk safety) = 28 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 49 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 2 (risk safety) + 10% × 27 (relative to the index) = 28 out of 100 → Weak (1 star).
 
 - **Business quality (49/100):** The 34-check quality framework scored the business -0.03 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 49 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (2/100):** started from a clean 100; 3 high risks (Cyclicality, Technological Innovation, Government Dependency) (−60); 3 elevated (−30); 2 worth watching (−8) → 2 of 100.
+- **Relative to the index (27/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 27 points.
 
 ### The story in depth
 
@@ -447,6 +448,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒        -59 days  
 
 - ✅ Growth is holding up: -1% a year earlier, 6% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 27 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 27 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -75% · lagged badly | +98% · gained strongly | -83% · lagged badly |
+| last 5 years | -40% · lagged badly | — | -71% · lagged badly |
+| last 3 years | -47% · lagged badly | +1848% · gained strongly | -52% · lagged badly |
+| last 1 year | -55% · lagged badly | +158% · gained strongly | -62% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +940% ┤
+        │                                                                ◆┓
+        │                                                               ┏┛┗┓
+        │                                                              ┏┛  ┗┓
+  +582% ┤                                                            ┏━┛    ┗┓
+        │                                                           ┏┛       ┗┓
+        │                                                          ┏┛         ┗┓
+  +224% ┤                                       ╭●─╮              ┏┛           ┗┓
+        │                                    ╭──╯  ╰────╮    ┏━━━◆┛  ╭───●──╮   ┗┓   ┏━━━◆
+        │■═══════■═══════■═══╗┈┈┈┈┈┈┈┈╔══■═══════■═══╗━━━◆━━━┛╔══■═══════■═══════■═══╗┈┈┈┈┈┈
+  -133% ┤    ┗━━━◆━━━━┛──●┗━━╚═══■════╝━━●─╯         ╚═══■════╝                ╰─●───╚═══■
+        │                    ┗┓      ┏┛
+        │                     ┗━━┓┏━━┛
+        │                        ◆┛
+  -491% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -26.0   +1.7    -39.2   -52.3   -50.4  +186.3   +23.0   -8.2    +88.5   -36.9   -55.5
+◆      -21.3   -39.0   +23.7  -392.6   +57.4   +7.0    +43.4  +120.5  +841.4   -19.8  +158.0
+■      -7.0    -23.6   +7.1    -37.2   -29.3   +62.6   -43.2   +5.6    +60.3   -21.6   -61.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TMPV_stock_to_index.md`](TMPV_stock_to_index.md), with the same graph as [`TMPV_stock_to_index.svg`](TMPV_stock_to_index.svg) and [`TMPV_stock_to_index.mmd`](TMPV_stock_to_index.mmd).
+
 ## What to watch
 
 - Dealer incentives and sales allowances at Jaguar Land Rover — a reversal from 7% back toward earlier levels while share still grows would soften both the Pricing Power non-fit and the Good Enough Goods risk
@@ -463,5 +516,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -23,13 +23,14 @@ Cochin Shipyard Limited is an Indian shipyard company that builds new ships and 
 
 ## The verdict: Mixed — 47 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (57/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 47 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (57/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (53/100). Weighing those together gives 47 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 57 (business quality) + 30% × 33 (multibagger fit) + 25% × 44 (risk safety) = 47 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 57 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 44 (risk safety) + 10% × 53 (relative to the index) = 47 out of 100 → Mixed (2 stars).
 
 - **Business quality (57/100):** The 34-check quality framework scored the business +0.27 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 57 points.
 - **Multibagger fit (33/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 1 likely (+8) → 33 of 100.
 - **Risk safety (44/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 2 worth watching (−8); the balance sheet shows one stress signal (−8) → 44 of 100.
+- **Relative to the index (53/100):** Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored +0.11 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 53 points.
 
 ### The story in depth
 
@@ -427,6 +428,58 @@ FY2026  ██████████████████████    25
 - ✅ Sales fell in only 2 of the last 8 years with swings of ±27 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 8% a year earlier, 12% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 53 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored +0.11 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 53 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | +289% · gained strongly | -57% · lagged badly | -44% · lagged badly |
+| last 3 years | +278% · gained strongly | +49% · gained strongly | +154% · gained strongly |
+| last 1 year | -14% · lagged | -24% · lagged | -11% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +218% ┤
+        │                                        ■╗
+        │                                       ╔╝╚╗
+  +142% ┤                                      ╭║  ╚╗
+        │                                    ╭─╔╝   ╚╗╮
+        │                                   ╭╯ ║ ◆┓  ║╰╮
+        │                                  ╭╯ ╔╝┏┛┗━┓╚╗╰╮
+   +66% ┤                                 ╭╯ ╔╝┏┛   ┗┓╚╗╰╮
+        │    ┏━━━◆━┓                    ╭●╯ ╔╝━┛     ┗━╚╗●─╮
+        │◆━━━┛╔══■═══╗                 ╭╯   ║┛         ┗╚╗ ╰─╮
+   -11% ┼■════╝┈┈┈┈┈┈╚═══■══╗┈┈┈┈┈┈┈╭──╯┈┈┈╔╝┈┈┈┈┈┈┈┈┈┈┈┈■════╗─╮┈┈┈
+        │●───────●───╯  ┗◆━━╚══╗   ╭╯     ┏║                  ╚══■
+        │                    ┗━╚═■════╗━━◆╔╝
+        │                             ╚══■╝
+   -87% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -27.7   -20.1   -5.3    -32.8   +53.1  +192.9   +50.0   -14.1
+◆      +11.8   +35.0   -19.9   -37.9   -53.4  +104.4   -4.3    -23.8
+■      -1.7    +20.8   -7.9    -35.6   -65.7  +197.1   -4.2    -10.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`COCHINSHIP_stock_to_index.md`](COCHINSHIP_stock_to_index.md), with the same graph as [`COCHINSHIP_stock_to_index.svg`](COCHINSHIP_stock_to_index.svg) and [`COCHINSHIP_stock_to_index.mmd`](COCHINSHIP_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital (headline check): whether the new dry dock and ISRF start producing positive operating cash on capital employed, versus this year's minus 16%.
@@ -442,5 +495,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

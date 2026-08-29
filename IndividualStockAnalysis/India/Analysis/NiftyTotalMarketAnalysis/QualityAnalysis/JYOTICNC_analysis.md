@@ -21,15 +21,16 @@ Jyoti CNC Automation builds and sells CNC (computer numerical control) metal-cut
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 46 out of 100 ★★☆☆☆
+## The verdict: Mixed — 48 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 46 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained on the index (60/100). Weighing those together gives 48 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 33 (multibagger fit) + 25% × 36 (risk safety) = 46 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 36 (risk safety) + 10% × 60 (relative to the index) = 48 out of 100 → Mixed (2 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.46 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (33/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Innovation Dominance) (+15); 1 likely (+8) → 33 of 100.
 - **Risk safety (36/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 4 worth watching (−16); the balance sheet shows one stress signal (−8) → 36 of 100.
+- **Relative to the index (60/100):** Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +0.40 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 60 points.
 
 ### The story in depth
 
@@ -433,6 +434,58 @@ FY2026  ████████████              359 days  ▲ 55 days 
 - ✅ Sales fell in only 2 of the last 7 years with swings of ±30 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: -1% a year earlier, 31% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 60 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +0.40 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 60 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | +954% · gained strongly |
+| last 3 years | — | — | +462% · gained strongly |
+| last 1 year | -31% · lagged badly | -7% · moved with | +6% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++2,736% ┤
+        │                                ◆┓
+        │                               ┏┛┗┓
+        │                               ┃  ┃
++1,898% ┤                              ┏┛  ┗┓
+        │                             ┏┛    ┗┓
+        │                            ┏┛      ┗┓
++1,060% ┤                           ┏┛        ┗┓
+        │                          ┏┛          ┗┓
+        │                          ┃            ┃
+  +223% ┤      ╔═■════╗           ┏┛ ╔═══■════╗ ┗┓
+        │┈┈┈╔══╝┈┈┈┈┈┈╚══■═══════■═══╝┈┈┈┈┈┈┈┈╚══■═══════■┈┈
+        │■══╝┏━━━◆━━━━┛                              ╰───●
+        │◆━━━┛
+  -615% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·     +19.7   -30.9
+◆     -383.7   -28.1   +58.2   +91.0  +2504.5  +89.6   -6.5
+■      -92.6  +223.5  +116.8   -13.4  +245.0   +54.0   +5.7
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`JYOTICNC_stock_to_index.md`](JYOTICNC_stock_to_index.md), with the same graph as [`JYOTICNC_stock_to_index.svg`](JYOTICNC_stock_to_index.svg) and [`JYOTICNC_stock_to_index.mmd`](JYOTICNC_stock_to_index.mmd).
+
 ## What to watch
 
 - Cash returns: whether the ₹2 of operating cash per ₹100 of capital (Return on capital check) improves as the new capacity fills, or whether the debt-funded INR400-450 crore expansion simply enlarges the same low-return base
@@ -448,5 +501,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

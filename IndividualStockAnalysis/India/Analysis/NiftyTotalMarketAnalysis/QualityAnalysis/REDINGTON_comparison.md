@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (56/100). Last one year: Decent (51/100). The last year looks WEAKER than the long-term picture (-5 points) — the company has declined in the recent period.
+Long-term view: Decent (54/100). Last one year: Mixed (49/100). The last year looks WEAKER than the long-term picture (-5 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 63 | 65 | +2 |
 | Multibagger fit | 40 | 33 | -7 |
 | Risk safety | 64 | 48 | -16 |
+| Relative to the index | 35 | 25 | -10 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -98,6 +99,20 @@ Genuinely re-tested risk verdicts: 0 eased, 1 worsened, 5 unchanged; 2 carried f
 *Unchanged: Cyclicality (WATCH); Technological Innovation (WATCH); Government Dependency (WATCH); Shifting Consumer Preferences (WATCH); Good Enough Goods (WATCH).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index** (35/100). Looking only at the latest year, it has **LAGGED the index badly** (25/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +14% · gained | -19% · lagged | +2% · moved with |
+| last 5 years | +28% · gained strongly | -40% · lagged badly | -16% · lagged |
+| last 3 years | -10% · moved with | -43% · lagged badly | -13% · lagged |
+| last 1 year | -17% · lagged | -38% · lagged badly | +7% · moved with |
+
 
 ## How this comparison was built
 

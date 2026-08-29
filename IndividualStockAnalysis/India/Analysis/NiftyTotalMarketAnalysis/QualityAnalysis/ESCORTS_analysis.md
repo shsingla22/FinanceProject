@@ -19,15 +19,16 @@ Escorts Kubota Limited (formerly Escorts Limited) is an India-based machinery ma
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 41 out of 100 ★★☆☆☆
+## The verdict: Mixed — 45 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (50/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 41 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (50/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (77/100). Weighing those together gives 45 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 50 (business quality) + 30% × 10 (multibagger fit) + 25% × 62 (risk safety) = 41 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 50 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 62 (risk safety) + 10% × 77 (relative to the index) = 45 out of 100 → Mixed (2 stars).
 
 - **Business quality (50/100):** The 34-check quality framework scored the business +0.02 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 50 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (62/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 2 worth watching (−8) → 62 of 100.
+- **Relative to the index (77/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 77 points.
 
 ### The story in depth
 
@@ -446,6 +447,58 @@ FY2026  ██                          5 days  ▼ 30 days vs prior year
 - ✅ Operating margin held (about 4% then 12%) — no drift down under competition.
 - ✅ Growth is holding up: 9% a year earlier, 10% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 77 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 77 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +544% · gained strongly | +855% · gained strongly | +226% · gained strongly |
+| last 5 years | +30% · gained strongly | +1% · moved with | -34% · lagged badly |
+| last 3 years | +9% · moved with | +138% · gained strongly | +59% · gained strongly |
+| last 1 year | -15% · lagged | +66% · gained strongly | +27% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +248% ┤
+        │        ●╮
+        │       ╭╯╰╮
+        │      ╭╯  ╰╮    ◆┓
+  +170% ┤     ╭╯    ╰╮ ┏━┛┗┓
+        │     │      │┏┛   ┗┓
+        │■══╗╭╯     ┏━┛╔═■╗ ┗━┓
+   +91% ┤   ╚══╗  ┏━╔══╝  ╚═╗ ┗┓
+        │  ╭╯  ╚═■══╝  ╰╮   ╚═╗┗┓                                                       ┏◆
+        │ ╭╯   ┏┛       ╰╮    ╚╗┗┓              ╔■╗                                   ┏━┛
+   +13% ┤●╯ ┏━━┛         ●──╮  ╚═◆━━━━┓    ┏━╔══╝●╚══╗╮              ╭─┏╔■════╗    ┏━╔═══■
+        │┈┈┏┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰──╮┈■═══╗┗━━◆━╔═╝┈┈┈┈┈┈┈╚╗──●───────●──┏━╔═╝┈┈┈┈┈╚══■═══╝┈┈┈┈┈┈
+        │◆━┛                   ╰─●───╚═══■═╝          ╚══╗   ┏━━━◆━╔══╝              ╰───●
+        │                                                ■═══════■═╝
+   -65% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +14.0  +226.4   +31.6   -11.5   -0.4    +31.0   +12.3   +5.9    +17.4   +8.7    -14.5
+◆      -12.6   +76.4  +172.3   +27.6   +0.8    +53.7   -43.4   -25.4   +34.6   +6.4    +66.3
+■     +109.7   +65.1  +107.9   +4.6    -11.3   +54.3   -36.3   -34.6   +29.5   -2.8    +26.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ESCORTS_stock_to_index.md`](ESCORTS_stock_to_index.md), with the same graph as [`ESCORTS_stock_to_index.svg`](ESCORTS_stock_to_index.svg) and [`ESCORTS_stock_to_index.mmd`](ESCORTS_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Market Share Gainers pattern stops being episodic — tractor share needs to stop sliding from the 11.28% level and the company needs to grow at least in line with the industry, not 12% against 23.2%
@@ -461,5 +514,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

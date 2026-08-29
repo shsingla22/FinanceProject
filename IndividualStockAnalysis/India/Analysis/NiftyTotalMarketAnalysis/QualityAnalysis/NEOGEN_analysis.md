@@ -16,13 +16,14 @@ Neogen Chemicals is an Indian specialty chemicals maker that has spent about thr
 
 ## The verdict: Mixed — 35 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (55/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Weighing those together gives 35 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (55/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Against the Nifty 50 it has lagged the index (44/100). Weighing those together gives 35 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 55 (business quality) + 30% × 26 (multibagger fit) + 25% × 8 (risk safety) = 35 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 55 (business quality) + 27% × 26 (multibagger fit) + 22.5% × 8 (risk safety) + 10% × 44 (relative to the index) = 35 out of 100 → Mixed (2 stars).
 
 - **Business quality (55/100):** The 34-check quality framework scored the business +0.18 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 55 points.
 - **Multibagger fit (26/100):** the foundation test partly passed (+10); 2 likely (+16) → 26 of 100.
 - **Risk safety (8/100):** started from a clean 100; 3 high risks (Cyclicality, Government Dependency, Stakeholder Concentration) (−60); 3 worth watching (−12); the balance sheet shows multiple stress signals (−20) → 8 of 100.
+- **Relative to the index (44/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 44 points.
 
 ### The story in depth
 
@@ -427,6 +428,57 @@ FY2026  ███████████████           260 days  ▲ 12
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±18 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 26% a year earlier, 21% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 44 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 44 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +62% · gained strongly | +244% · gained strongly |
+| last 5 years | — | -66% · lagged badly | +7% · moved with |
+| last 3 years | — | -63% · lagged badly | +0% · moved with |
+| last 1 year | — | -27% · lagged badly | -1% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +86% ┤
+        │                        ◆┓
+        │                     ┏━━┛┗━━┓
+        │                    ┏┛      ┗┓
+   +52% ┤        ◆━━━╔═══■═╗━┛        ┗━━┓
+        │      ┏╔■═══╝┗━━◆┛╚═╗           ◆┓
+        │    ╔══╝            ╚══╗    ╔═══■═╗┓
+   +17% ┤  ╔═╝                  ╚■═══╝     ╚═╗                                  ╔■═╗
+        │■═╝┛                                ╚══╗            ╔═══■══╗        ╔══╝  ╚════╗
+        │◆┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗╚■═══════■═══╝━━━◆┓┈╚══╗┈┈┈╔═╝┈┈┈┈┈┈┈┈┈┈╚■┈┈
+   -18% ┤                                        ◆━━━━┛           ┗━━┓ ╚═■═╝    ┏◆━━━━┓
+        │                                                            ┗┓       ┏━┛     ┗━━◆
+        │                                                             ┗━━┓ ┏━━┛
+        │                                                                ◆━┛
+   -52% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -5.1    +50.8   +41.3   +76.8   +41.0   -11.1   -2.7    -4.2    -42.7   -11.9   -27.2
+■      +2.4    +41.7   +46.1   +18.7   +30.8   -0.1    +0.9    +5.7    -13.3   +16.7   -0.8
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NEOGEN_stock_to_index.md`](NEOGEN_stock_to_index.md), with the same graph as [`NEOGEN_stock_to_index.svg`](NEOGEN_stock_to_index.svg) and [`NEOGEN_stock_to_index.mmd`](NEOGEN_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital turning positive as the ₹3,000 crore build starts selling — the headline check is at minus 10% today, and the Capex-for-growth check already flags repeated cost revisions and delayed commissioning at Pakhajan Phase 2.
@@ -442,5 +494,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

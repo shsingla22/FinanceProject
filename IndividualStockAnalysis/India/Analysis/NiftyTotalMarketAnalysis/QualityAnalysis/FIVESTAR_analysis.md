@@ -13,15 +13,16 @@ Five-Star Business Finance is an Indian non-bank lender (an NBFC, listed as FIVE
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 61 out of 100 ★★★☆☆
+## The verdict: Decent — 62 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (79/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 61 out of 100 — decent.
+In one breath: the quality framework finds a good business today (79/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (67/100). Weighing those together gives 62 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 79 (business quality) + 30% × 15 (multibagger fit) + 25% × 84 (risk safety) = 61 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 79 (business quality) + 27% × 15 (multibagger fit) + 22.5% × 84 (risk safety) + 10% × 67 (relative to the index) = 62 out of 100 → Decent (3 stars).
 
 - **Business quality (79/100):** The 34-check quality framework scored the business +1.15 on its −2 (poor) to +2 (excellent) scale, with 71% of checks backed by evidence; mapped onto 0–100 that is 79 points.
 - **Multibagger fit (15/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Corporate Culture) (+15) → 15 of 100.
 - **Risk safety (84/100):** started from a clean 100; 4 worth watching (−16) → 84 of 100.
+- **Relative to the index (67/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 67 points.
 
 ### The story in depth
 
@@ -342,6 +343,58 @@ The tension is that the very thing that made the returns attractive is what is n
 - ⬜ Insufficient sales history.
 - ⬜ Not enough margin history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 67 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 67 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | -51% · lagged badly | +906% · gained strongly | +750% · gained strongly |
+| last 1 year | -51% · lagged badly | +174% · gained strongly | +132% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +192% ┤
+        │                ◆━━━━━━━◆
+        │               ┏┛
+        │              ┏┛■═══════■
+  +127% ┤            ┏━╔═╝
+        │           ┏┛╔╝
+        │          ┏╔═╝
+   +62% ┤         ╔═╝
+        │    ╔═══■╝
+        │■═══╝
+    -3% ┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈●────╮┈┈┈┈┈┈┈┈┈┈┈┈┈
+        │                                     ╰──●─╮
+        │                                          ╰────╮
+        │                                               ╰●
+   -69% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     +6.4    -6.5    -50.6
+◆      +32.8   +34.7  +172.4  +174.3     ·       ·       ·
+■      +24.8   +51.2  +142.4  +131.8     ·       ·       ·
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`FIVESTAR_stock_to_index.md`](FIVESTAR_stock_to_index.md), with the same graph as [`FIVESTAR_stock_to_index.svg`](FIVESTAR_stock_to_index.svg) and [`FIVESTAR_stock_to_index.mmd`](FIVESTAR_stock_to_index.mmd).
+
 ## What to watch
 
 - Pricing Power (no fit): whether yields stop drifting down at the guided 10-20 basis points a quarter through FY27, or whether the fall runs past the 22.25% level flagged.
@@ -357,5 +410,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

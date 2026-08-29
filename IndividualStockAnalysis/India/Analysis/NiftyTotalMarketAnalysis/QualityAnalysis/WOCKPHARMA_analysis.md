@@ -17,15 +17,16 @@ Wockhardt is an India-headquartered pharmaceutical company that started about 55
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 67 out of 100 ★★★★☆
+## The verdict: Strong — 65 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 67 out of 100 — strong.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has moved with the index (47/100). Weighing those together gives 65 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 53 (multibagger fit) + 25% × 80 (risk safety) = 67 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 53 (multibagger fit) + 22.5% × 80 (risk safety) + 10% × 47 (relative to the index) = 65 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.80 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (53/100):** the foundation test did not pass (+0); 3 patterns fit strongly (Innovation Dominance, Corporate Culture, Cost to Replicate) (+45); 1 likely (+8) → 53 of 100.
 - **Risk safety (80/100):** started from a clean 100; 5 worth watching (−20) → 80 of 100.
+- **Relative to the index (47/100):** Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored -0.11 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 47 points.
 
 ### The story in depth
 
@@ -449,6 +450,58 @@ FY2026  █████████████████         168 days  �
 - ⚠️ Sales actually FELL in 5 of the last 11 years — revenue moves in cycles, it does not compound steadily.
 - ✅ Growth is holding up: -8% a year earlier, 4% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 47 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored -0.11 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 47 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -57% · lagged badly | -78% · lagged badly | -54% · lagged badly |
+| last 5 years | +88% · gained strongly | -89% · lagged badly | — |
+| last 3 years | +475% · gained strongly | — | +424% · gained strongly |
+| last 1 year | -16% · lagged | — | +63% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++1,675% ┤
+        │                                        ◆┓
+        │                                      ┏━┛┗━┓
+        │                                     ┏┛    ┗┓
+  +790% ┤                                   ┏━┛      ┗┓
+        │                                ■═╗┛         ┗┓╔■═╗                    ╔■═══╗┏━━◆
+        │                    ┏━━━◆━━━━━━╔◆┛╚════╗●─╔════╝┓ ╚════╗    ┏━━━◆━╔════╝◆━━━╚═══■
+   -95% ┼■═══════■═══════■╗━━┛───●─────╔╝●───╯┈┈╚■═╝┈┈╰──◆━━━━━━╚■═══════■═╝┈┈┈┈┈┈┈┈┈┈╰──●┈┈
+        │                 ╚═╗         ╔╝
+        │                   ╚╗       ╔╝
+  -980% ┤                    ╚╗     ╔╝
+        │                     ╚╗   ╔╝
+        │                      ╚═╗╔╝
+        │                        ■╝
+-1,865% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -45.6   -37.7   -12.5   -45.6   -52.5   +61.6   -40.9   -44.7  +204.1  +125.9   -16.3
+◆      -42.1  -184.5  -203.4   +69.9   +79.8  +1430.7 -127.2   -91.9   +39.5   +89.1  +406.9
+■      -33.8   -97.4   -84.5  -1620.8 +403.7  -147.9  +451.2   -71.9   -21.3  +307.7   +63.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`WOCKPHARMA_stock_to_index.md`](WOCKPHARMA_stock_to_index.md), with the same graph as [`WOCKPHARMA_stock_to_index.svg`](WOCKPHARMA_stock_to_index.svg) and [`WOCKPHARMA_stock_to_index.mmd`](WOCKPHARMA_stock_to_index.mmd).
+
 ## What to watch
 
 - Pricing Power (likely fit only): whether Miqnaf and Zaynich actually realise the premium pricing the Rs 10,800 crore market sizing assumes, rather than drifting toward the Rs 6,500 crore generic level - the Good Enough Goods risk in practice.
@@ -464,5 +517,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

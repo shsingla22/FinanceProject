@@ -22,15 +22,16 @@ Bata India is a footwear company that designs, sources, makes and sells shoes an
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 46 out of 100 ★★☆☆☆
+## The verdict: Mixed — 44 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (50/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (New Entrants, Shifting Consumer Preferences). Weighing those together gives 46 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (50/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (New Entrants, Shifting Consumer Preferences). Against the Nifty 50 it has lagged the index (29/100). Weighing those together gives 44 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 50 (business quality) + 30% × 25 (multibagger fit) + 25% × 64 (risk safety) = 46 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 50 (business quality) + 27% × 25 (multibagger fit) + 22.5% × 64 (risk safety) + 10% × 29 (relative to the index) = 44 out of 100 → Mixed (2 stars).
 
 - **Business quality (50/100):** The 34-check quality framework scored the business +0.02 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 50 points.
 - **Multibagger fit (25/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Forward Integrators) (+15) → 25 of 100.
 - **Risk safety (64/100):** started from a clean 100; 2 elevated (−20); 4 worth watching (−16) → 64 of 100.
+- **Relative to the index (29/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.83 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 29 points.
 
 ### The story in depth
 
@@ -444,6 +445,58 @@ FY2026  ███████████████           107 days  ▼ 17
 - ✅ Growth is holding up: 3% a year earlier, 3% recently — no structural stall.
 - ✅ Operating margin (22%) remains near its historical peak (28%) — no collapse in the premium.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 29 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.83 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 29 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -61% · lagged badly | -60% · lagged badly | -25% · lagged |
+| last 5 years | -74% · lagged badly | -63% · lagged badly | -56% · lagged badly |
+| last 3 years | -68% · lagged badly | +104% · gained strongly | +44% · gained strongly |
+| last 1 year | -50% · lagged badly | +11% · gained | -7% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +225% ┤
+        │                                                        ◆━┓
+        │                                                       ┏┛ ┗━━━━┓
+        │                                                       ┃       ┗◆┓
+  +133% ┤                                                      ┏┛■══╗     ┗┓
+        │                                                      ┃╔╝  ╚══╗   ┗┓
+        │                      ╭─●──╮        ╔═══■╗           ┏╔╝      ╚═■═╗┗━┓
+   +41% ┤                   ╭──╯┏◆━━━━━━╔■═══╝    ╚╗         ┏╔╝           ╚═╗┗┓
+        │            ╔═══■════╗━┛  ╔════╝●─┗━━━━┓  ╚═╗───●──┏╔╝              ╚══╗      ┏━◆
+        │●───────■═══╝━━━◆━┛┈┈╚══■═╝┈┈┈┈┈┈┈┈┈┈╰─┗◆┓──╚╗┈┈┈┈┈╔╝─╮┈┈┈┈┈┈╭──●──────╚■═══════■┈┈
+        │                                         ┗━━┓╚═╗  ╔╝  ╰─●────╯          ◆━━┛╰───●
+   -51% ┤                                            ┗┓ ╚╗╔╝
+        │                                             ┗━━■╝┛
+        │                                                ◆┛
+  -144% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -2.8    -5.8    +11.3   +77.0   +3.8    -23.0   +19.3   -31.5   -23.1   -16.9   -49.5
+◆        ·     -11.4   -24.7   +28.7   +52.0   -16.8  -118.1  +199.8  +149.7   -26.2   +10.6
+■        ·     -16.9   +1.4    -1.6    +30.6   +56.4   -85.2  +107.4   +66.2   -6.4    -7.2
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BATAINDIA_stock_to_index.md`](BATAINDIA_stock_to_index.md), with the same graph as [`BATAINDIA_stock_to_index.svg`](BATAINDIA_stock_to_index.svg) and [`BATAINDIA_stock_to_index.mmd`](BATAINDIA_stock_to_index.mmd).
+
 ## What to watch
 
 - Same-store and overall sales growth: the Market Share Gainers pattern and the 'Gain in market share' check both fail on four stagnant years — sustained growth clearly above the ~3-5% of FY26, with share actually cited, is what would change the verdict.
@@ -460,5 +513,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

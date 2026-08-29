@@ -23,13 +23,14 @@ NTPC is a Government of India-owned company that generates electricity and sells
 
 ## The verdict: Decent — 51 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 51 out of 100 — decent.
+In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 51 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 52 (business quality) + 30% × 44 (multibagger fit) + 25% × 58 (risk safety) = 51 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 52 (business quality) + 27% × 44 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 50 (relative to the index) = 51 out of 100 → Decent (3 stars).
 
 - **Business quality (52/100):** The 34-check quality framework scored the business +0.10 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 52 points.
 - **Multibagger fit (44/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Cost to Replicate) (+15); 2 likely (+16); 1 numbers-only hint (+3) → 44 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12) → 58 of 100.
+- **Relative to the index (50/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -439,6 +440,58 @@ FY2026  █████████████████          71 days  �
 - ✅ Operating margin (28%) remains near its historical peak (31%) — no collapse in the premium.
 - ✅ Operating margin held (about 24% then 29%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +13% · gained | -29% · lagged badly | -0% · moved with |
+| last 5 years | +112% · gained strongly | -33% · lagged badly | -22% · lagged |
+| last 3 years | +59% · gained strongly | +2% · moved with | -9% · moved with |
+| last 1 year | +5% · moved with | +1% · moved with | -4% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +60% ┤
+        │                                                                ●╮
+        │                                                              ╭─╯╰╮
+        │                                                             ╭╯   ╰╮
+   +37% ┤                                ■╗                         ╭─╯     ╰╮
+        │                        ◆┓     ╔╝╚═╗                     ╭─╯        ╰╮
+        │                     ┏━━┛┗━┓  ╔╝   ╚═╗                ╭─●╯           ╰╮
+   +14% ┤       ╔■═══╗       ┏┛     ┗┓╔╝      ╚╗            ╭──╯               ╰╮
+        │  ╔════╝●─╮ ╚═══■═╗━┛       ╔╝        ╚═◆┓     ╭●──╯                   ╰╮   ╭───●
+        │■═╝━┓─╯┈┈┈╰─╮┏━━◆┛╚╗┈┈┈┈┈┈┈╔╝┗┓┈┈┈┈┈┈┏━┛■═╗┓┈╭─╯┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┏◆━━━━╔══■═══╗━━━◆┈┈
+    -9% ┤●──╯┗━━━◆━━━━┛─╮   ╚══╗   ╔╝  ┗━┓ ┏━━┛    ╚════╗    ╔═══■═══════■════╝      ╚═══■
+        │               ╰●─────╚╗●╔╝     ◆━┛    ╭●─╯  ┗┓╚■═══╝  ┏◆━┛
+        │                       ╚■╝╰────╮  ╭────╯      ┗━┓ ┏━━━━┛
+        │                               ╰●─╯             ◆━┛
+   -32% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -8.5    +8.7    -11.4   -12.3   -26.1   -14.7   +8.4    +22.8   +53.3   -1.1    +5.1
+◆      +2.4    -6.3    +0.8    +23.7   -13.4   +4.6    -24.1   -13.0   -0.8    +1.7    +1.1
+■      +1.7    +15.4   +4.9    -19.2   +34.9   -2.4    -12.0   -3.2    -4.6    -0.3    -4.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NTPC_stock_to_index.md`](NTPC_stock_to_index.md), with the same graph as [`NTPC_stock_to_index.svg`](NTPC_stock_to_index.svg) and [`NTPC_stock_to_index.mmd`](NTPC_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the renewables build (New Entrants, WATCH) earns real returns — NGEL's auction-based tariffs and its 314 MUs of FY26 curtailment are the test of whether the pivot reproduces the old moat or just adds capacity.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

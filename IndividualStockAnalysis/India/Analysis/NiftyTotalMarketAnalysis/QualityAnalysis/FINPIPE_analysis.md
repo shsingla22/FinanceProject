@@ -14,15 +14,16 @@ Finolex Industries is an Indian maker of plastic (PVC) pipes and fittings, sold 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 33 out of 100 ★☆☆☆☆
+## The verdict: Weak — 34 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (41/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Weighing those together gives 33 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (41/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Against the Nifty 50 it has lagged the index (38/100). Weighing those together gives 34 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 41 (business quality) + 30% × 10 (multibagger fit) + 25% × 48 (risk safety) = 33 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 41 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 38 (relative to the index) = 34 out of 100 → Weak (1 star).
 
 - **Business quality (41/100):** The 34-check quality framework scored the business -0.37 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 41 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (48/100):** started from a clean 100; 4 elevated (−40); 1 worth watching (−4); the balance sheet shows one stress signal (−8) → 48 of 100.
+- **Relative to the index (38/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
 
 ### The story in depth
 
@@ -425,6 +426,57 @@ FY2026  ██████████████████████    13
 
 - ✅ Growth is holding up: 7% a year earlier, 4% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 38 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -35% · lagged badly | -41% · lagged badly |
+| last 5 years | — | -70% · lagged badly | -66% · lagged badly |
+| last 3 years | — | +51% · gained strongly | +90% · gained strongly |
+| last 1 year | — | -34% · lagged badly | +40% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +115% ┤
+        │                                ■╗
+        │                               ╔◆╚╗
+        │                              ╔╝┛┗╚╗                    ■╗
+   +62% ┤                             ╔╝┛  ┗╚╗                  ╔◆╚═╗━━━━◆┓
+        │■╗                          ┏║      ╚╗                 ║┛  ╚╗    ┗┓     ■
+        │◆╚══╗                     ┏━╔╝       ╚╗┓              ╔╝    ╚╗    ┗━┓╔══╝
+   +10% ┤   ┗╚╗┓      ┏━━◆━━━┓    ┏┛╔╝         ╚╗┓            ╔╝      ╚╗     ╔╝
+        │┈┈┈┈┈╚══◆━━━╔═══■══╗┗━━━◆┛╔╝┈┈┈┈┈┈┈┈┈┈┈╚◆┓┈┈┈┈┈┈┈┈┈┈╔╝┈┈┈┈┈┈┈┈╚═╗╔══╝┗━┓┈┈┈
+        │        ■═══╝      ╚══╗  ╔╝             ■╗━┓       ╔╝           ■╝     ┗┓
+   -42% ┤                      ╚═■╝               ╚══╗┓    ╔╝┛                   ◆
+        │                                            ╚╗┓   ║┛
+        │                                             ╚══╗╔╝
+        │                                                ■╝
+   -94% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +29.7   -11.4   +11.1   -7.3    +84.3   -4.6    -79.4   +50.4   +52.9   -34.2
+■      +37.2   -13.4   -0.1    -28.1  +100.1   -23.3   -76.5   +76.2   -23.2   +40.5
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`FINPIPE_stock_to_index.md`](FINPIPE_stock_to_index.md), with the same graph as [`FINPIPE_stock_to_index.svg`](FINPIPE_stock_to_index.svg) and [`FINPIPE_stock_to_index.mmd`](FINPIPE_stock_to_index.mmd).
+
 ## What to watch
 
 - Volumes turning positive and share stabilising — the 'Market Share Gainers' no-fit and the bottom-scoring market-share check both rest on FY26 volumes falling 4.4% while peers grew
@@ -441,5 +493,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

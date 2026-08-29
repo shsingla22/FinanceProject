@@ -22,13 +22,14 @@ Bosch Limited is an India-listed company (Bangalore head office, majority-owned 
 
 ## The verdict: Decent — 59 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (67/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 59 out of 100 — decent.
+In one breath: the quality framework finds a good business today (67/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (56/100). Weighing those together gives 59 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 67 (business quality) + 30% × 64 (multibagger fit) + 25% × 38 (risk safety) = 59 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 67 (business quality) + 27% × 64 (multibagger fit) + 22.5% × 38 (risk safety) + 10% × 56 (relative to the index) = 59 out of 100 → Decent (3 stars).
 
 - **Business quality (67/100):** The 34-check quality framework scored the business +0.68 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 67 points.
 - **Multibagger fit (64/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Corporate Culture, Cost to Replicate) (+30); 3 likely (+24) → 64 of 100.
 - **Risk safety (38/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 3 elevated (−30); 3 worth watching (−12) → 38 of 100.
+- **Relative to the index (56/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 56 points.
 
 ### The story in depth
 
@@ -453,6 +454,58 @@ FY2026  ███████                    13 days  ▼ 2 days vs prior ye
 - ✅ Sales fell in only 1 of the last 10 years with swings of ±12 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 0% a year earlier, 16% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 56 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 56 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -55% · lagged badly | -50% · lagged badly | -50% · lagged badly |
+| last 5 years | +24% · gained | +111% · gained strongly | +14% · gained |
+| last 3 years | +12% · gained | +23% · gained | +20% · gained |
+| last 1 year | +3% · moved with | +21% · gained | +13% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +80% ┤
+        │                                                ◆┓
+        │                                               ┏┛┗━┓
+        │                                               ┃   ┗┓
+   +42% ┤                                              ┏┛    ┗┓         ┏◆┓
+        │                                             ┏┛      ┗┓ ●────┏━┛●┗┓
+        │                                            ┏┛       ╭┗━┓ ┏━━┛   ╰┗━┓       ╔═══■
+    +5% ┤        ■═══════■═╗    ┏◆┓              ●─╮┏┛       ╭╔══■═══════■═══════■═══╝ ┏┛●
+        │┈┈┈┈╭───●─┗━━━━┓┈┈╚════╗●┗━┓┈┈┈┈┈┈┈┈┈╭──╯┈┏┛──╔═■════╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗━┓╮┈╭┏━━┛╯┈┈┈
+        │●───╯      ╰──╮┗◆━┛╭──╯╚■═╗┗┓       ╭╯    ┃╔══╝╰●╯                     ┗●─┏┛
+   -32% ┤              ╰─●──╯      ╚════╗ ╭──╔═══■══╝                            ◆━┛
+        │                             ┗┓╚■═══╝  ┏◆┛
+        │                              ┗━┓ ┏━━━━┛
+        │                                ◆━┛
+   -69% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -14.8   -7.6    -31.4   -9.3    -37.4   +1.0    -12.3   +27.0   +23.9   -12.3   +2.8
+◆        ·     +6.9    -19.0   +7.9    -58.5   -38.3   +69.3   +1.0    +39.1   -26.7   +21.0
+■        ·     +3.7    +7.4    -17.6   -33.2   -29.0   -6.9    +2.0    +2.1    +4.1    +13.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BOSCHLTD_stock_to_index.md`](BOSCHLTD_stock_to_index.md), with the same graph as [`BOSCHLTD_stock_to_index.svg`](BOSCHLTD_stock_to_index.svg) and [`BOSCHLTD_stock_to_index.mmd`](BOSCHLTD_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether revenue can grow between regulatory deadlines — the 'Toll Roads' pattern and the high Government Dependency risk both hang on the 69.1% two-wheeler jump that came from the April 2025 diagnostics rule.
@@ -468,5 +521,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

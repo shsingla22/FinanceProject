@@ -6,15 +6,16 @@
 
 *No conference-call transcripts were available to describe the business in management's own words — run the full analysis, or see the evidence sections below.*
 
-## The verdict: Decent — 56 out of 100 ★★★☆☆
+## The verdict: Decent — 58 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (66/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 56 out of 100 — decent.
+In one breath: the quality framework finds a good business today (66/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has gained strongly on the index (75/100). Weighing those together gives 58 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 66 (business quality) + 30% × 13 (multibagger fit) + 25% × 88 (risk safety) = 56 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 66 (business quality) + 27% × 13 (multibagger fit) + 22.5% × 88 (risk safety) + 10% × 75 (relative to the index) = 58 out of 100 → Decent (3 stars).
 
 - **Business quality (66/100):** The 34-check quality framework scored the business +0.62 on its −2 (poor) to +2 (excellent) scale, with 21% of checks backed by evidence; mapped onto 0–100 that is 66 points. Caution: only 21% of the 34 checks could be answered from this evidence — a thin base; the full analysis (with the conference calls) firms this up.
 - **Multibagger fit (13/100):** the foundation test partly passed (+10); 1 numbers-only hint (+3) → 13 of 100.
 - **Risk safety (88/100):** started from a clean 100; 3 numbers-only flags (−12) → 88 of 100. Caution: only 3 of the 8 risk channels could be tested on this evidence — treat this as provisional, not a clean bill of health.
+- **Relative to the index (75/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -281,6 +282,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒         -217 days  ▲ 
 
 - ✅ Growth is holding up: -5% a year earlier, 14% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 75 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +738% · gained strongly | — | — |
+| last 5 years | +132% · gained strongly | +10% · gained | +2% · moved with |
+| last 3 years | +28% · gained strongly | — | — |
+| last 1 year | +11% · gained | -8% · moved with | +7% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++2,983% ┤
+        │                                ◆┓
+        │                               ┏┛┗┓
+        │                               ┃  ┃
++2,159% ┤                              ┏┛  ┗┓
+        │                             ┏┛    ┃
+        │                            ┏┛     ┗┓
++1,336% ┤                            ┃       ┗┓
+        │                           ┏┛        ┗┓
+        │                          ┏┛          ┃
+  +513% ┤                          ┃           ┗┓
+        │                         ┏┛            ┃
+        │                    ┏━━━◆┛          ╭──┗●───┏━━━◆━━━━━━━━━━━━┓
+        │●───────●───────■═══════■═══════■═══════■═══════■═══════●═══════●═══════■═══════■┈┈
+  -310% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -35.6   +25.8   -4.9    +1.3    +19.4  +149.9   +79.9   +0.8    +27.1   -9.3    +10.9
+◆        ·       ·     -13.4   +50.5  +2755.5  -82.7  +125.0     ·       ·     -26.9   -7.9
+■        ·       ·     +15.1   -20.4   +23.5   -18.2   +8.5      ·       ·     -13.4   +7.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`LINDEINDIA_stock_to_index.md`](LINDEINDIA_stock_to_index.md), with the same graph as [`LINDEINDIA_stock_to_index.svg`](LINDEINDIA_stock_to_index.svg) and [`LINDEINDIA_stock_to_index.mmd`](LINDEINDIA_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the calls start confirming the Pricing Power pattern the numbers hint at.
@@ -293,5 +346,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (no_concalls): the 34-check quality framework.
 - **MultibaggerPattern** (no_concalls): the 11 patterns long-term winners share.
 - **QualityRisks** (no_concalls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

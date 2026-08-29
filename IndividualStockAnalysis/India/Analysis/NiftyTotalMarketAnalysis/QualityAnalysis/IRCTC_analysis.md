@@ -13,15 +13,16 @@ IRCTC is an Indian government-owned company (a 'Mini Ratna' Govt. of India enter
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 68 out of 100 ★★★★☆
+## The verdict: Strong — 65 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (66/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 2 high risks (Government Dependency, Stakeholder Concentration). Weighing those together gives 68 out of 100 — strong.
+In one breath: the quality framework finds a good business today (66/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 2 high risks (Government Dependency, Stakeholder Concentration). Against the Nifty 50 it has lagged the index (29/100). Weighing those together gives 65 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 66 (business quality) + 30% × 86 (multibagger fit) + 25% × 52 (risk safety) = 68 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 66 (business quality) + 27% × 86 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 29 (relative to the index) = 65 out of 100 → Strong (4 stars).
 
 - **Business quality (66/100):** The 34-check quality framework scored the business +0.65 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 66 points.
 - **Multibagger fit (86/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 3 patterns fit strongly (Toll Roads, Forward Integrators, Cost to Replicate) (+45); 2 likely (+16) → 86 of 100.
 - **Risk safety (52/100):** started from a clean 100; 2 high risks (Government Dependency, Stakeholder Concentration) (−40); 2 worth watching (−8) → 52 of 100.
+- **Relative to the index (29/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -0.86 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 29 points.
 
 ### The story in depth
 
@@ -399,6 +400,58 @@ FY2026  ██                        132 days  ▲ 1353 days vs prior year
 - ⬜ Not enough margin history.
 - ⬜ Not enough margin history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 29 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -0.86 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 29 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | -14% · lagged | — | — |
+| last 3 years | -35% · lagged badly | -12% · lagged | +7% · moved with |
+| last 1 year | -31% · lagged badly | -7% · moved with | +6% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +98% ┤
+        │        ●╮
+        │       ╭╯╰╮
+        │      ╭╯  │
+   +63% ┤    ╭─╯   ╰╮
+        │   ╭╯      │
+        │  ╭╯       ╰╮
+   +29% ┤ ╭╯         ╰╮          ●╮
+        │●╯           ╰╮       ╭─╯╰─╮
+        │              │      ╭╯    ╰╮  ┏◆━┓  ╔══■
+    -6% ┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈┈┈╭╯┈┈■═══════■════╝━┓┈┈┈
+        │               │   ╭╯   ◆━┛  ╰╮        ┗◆
+        │               ╰╮╭─╯          ╰─╮
+        │                ●╯              ●───────●
+   -41% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬──
+       FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +20.5   +88.6   -30.0   +29.7   -27.3   -31.1
+◆        ·       ·       ·     -12.1   +7.3    -6.9
+■        ·       ·       ·     +1.4    -0.1    +5.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`IRCTC_stock_to_index.md`](IRCTC_stock_to_index.md), with the same graph as [`IRCTC_stock_to_index.svg`](IRCTC_stock_to_index.svg) and [`IRCTC_stock_to_index.mmd`](IRCTC_stock_to_index.mmd).
+
 ## What to watch
 
 - Any revision to the convenience fee or the catering tariff, unchanged since 2019 — the single fact behind both the no-fit on Pricing Power and the worst score in the framework, on pricing, mix and volume.
@@ -414,5 +467,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

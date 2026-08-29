@@ -22,13 +22,14 @@ Hindustan Zinc digs zinc, lead and silver out of its own underground mines in Ra
 
 ## The verdict: Decent — 57 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (59/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 57 out of 100 — decent.
+In one breath: the quality framework finds an average business today (59/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (55/100). Weighing those together gives 57 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 59 (business quality) + 30% × 48 (multibagger fit) + 25% × 66 (risk safety) = 57 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 59 (business quality) + 27% × 48 (multibagger fit) + 22.5% × 66 (risk safety) + 10% × 55 (relative to the index) = 57 out of 100 → Decent (3 stars).
 
 - **Business quality (59/100):** The 34-check quality framework scored the business +0.35 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 59 points.
 - **Multibagger fit (48/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Cost to Replicate) (+15); 1 likely (+8) → 48 of 100.
 - **Risk safety (66/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 1 worth watching (−4) → 66 of 100.
+- **Relative to the index (55/100):** Across 10 of 12 measure-and-window pairs the stored data could answer, the company scored +0.20 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 55 points.
 
 ### The story in depth
 
@@ -410,6 +411,58 @@ FY2026  ██████████                  4 days  ▲ 3 days vs pr
 - ✅ Sales fell in only 1 of the last 5 years with swings of ±17 points — no pronounced boom-and-bust signature in revenue.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 55 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 10 of 12 measure-and-window pairs the stored data could answer, the company scored +0.20 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 55 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -11% · lagged | — | — |
+| last 5 years | +12% · gained | -36% · lagged badly | -5% · moved with |
+| last 3 years | +29% · gained strongly | -17% · lagged | +3% · moved with |
+| last 1 year | +10% · gained | +17% · gained | +25% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +54% ┤
+        │                                                                        ●╮
+        │                                                                       ╭╯╰─╮
+        │       ╭●╮                                                            ╭╯   ╰╮
+   +28% ┤  ╭────╯ ╰─╮                                                         ╭╯     ╔═══■
+        │●─╯        ╰╮                           ●─╮                          │  ■═══╝━━━◆
+        │            ╰╮                         ╭╯ ╰──╮                      ╭╯ ╔╝       ●
+    +3% ┼┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╭╯┈┈┈┈┈╰─╮■═╗┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╭╯┈╔╝┈┈┈┈┈┈┈┈┈┈┈
+        │              ╰─╮                   ╭─╯        ╰●─╚════╗◆┓        ╭╯╔═╝
+        │                ●───╮              ╭╯              ┏━━┛╚■═╗┓╮    ╭╯╔╝┛
+   -23% ┤                    ╰───●──╮      ╭╯            ◆━━┛      ╚══╗──●╯╔╝┛
+        │                           ╰──╮  ╭╯                          ╚═╗ ╔╝┛
+        │                              ╰─●╯                            ┗╚■╝┛
+        │                                                                ◆┛
+   -48% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +18.0   +32.7   -9.8    -16.1   -32.9   +18.3   -2.8    -10.5   -20.4   +46.8   +10.2
+◆        ·       ·       ·       ·       ·       ·     -19.1   -5.9    -41.2   +20.9   +17.4
+■        ·       ·       ·       ·       ·       ·     +3.2    -11.4   -31.1   +20.3   +24.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`HINDZINC_stock_to_index.md`](HINDZINC_stock_to_index.md), with the same graph as [`HINDZINC_stock_to_index.svg`](HINDZINC_stock_to_index.svg) and [`HINDZINC_stock_to_index.mmd`](HINDZINC_stock_to_index.mmd).
+
 ## What to watch
 
 - Cost of production trend versus the $851/t reached in Q1 FY27 — the "Low Price Plus" pattern and the LOW verdicts on Good Enough Goods and Cyclicality all rest on staying in the global first quartile.
@@ -425,5 +478,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

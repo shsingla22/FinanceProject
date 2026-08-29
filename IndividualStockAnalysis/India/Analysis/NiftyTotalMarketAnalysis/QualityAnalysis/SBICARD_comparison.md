@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Decent (50/100). Last one year: Decent (64/100). The last year looks STRONGER than the long-term picture (+14 points) — the company has improved in the recent period.
+Long-term view: Mixed (48/100). Last one year: Decent (60/100). The last year looks STRONGER than the long-term picture (+12 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 56 | 60 | +4 |
 | Multibagger fit | — | — | — |
 | Risk safety | 40 | 72 | +32 |
+| Relative to the index | 34 | 33 | -1 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -78,6 +79,20 @@ Genuinely re-tested risk verdicts: 2 eased, 0 worsened, 6 unchanged. Financial r
 *Unchanged: Cyclicality (WATCH); Stakeholder Concentration (WATCH); New Entrants (WATCH); Shifting Consumer Preferences (WATCH); Good Enough Goods (WATCH); Fashion Risk (LOW).*
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index** (34/100). Looking only at the latest year, it has **LAGGED the index** (33/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +113% · gained strongly | +132% · gained strongly |
+| last 5 years | -58% · lagged badly | -19% · lagged | +8% · moved with |
+| last 3 years | -35% · lagged badly | -39% · lagged badly | -29% · lagged badly |
+| last 1 year | -27% · lagged badly | -1% · moved with | +2% · moved with |
+
 
 ## How this comparison was built
 

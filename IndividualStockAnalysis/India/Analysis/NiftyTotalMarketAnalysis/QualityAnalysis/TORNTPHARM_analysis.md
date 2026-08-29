@@ -19,15 +19,16 @@ Torrent Pharma is an Indian drug maker that sells finished medicines — mostly 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 77 out of 100 ★★★★☆
+## The verdict: Strong — 75 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (62/100); it strongly fits 4 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 77 out of 100 — strong.
+In one breath: the quality framework finds a good business today (62/100); it strongly fits 4 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (60/100). Weighing those together gives 75 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 62 (business quality) + 30% × 100 (multibagger fit) + 25% × 76 (risk safety) = 77 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 62 (business quality) + 27% × 100 (multibagger fit) + 22.5% × 76 (risk safety) + 10% × 60 (relative to the index) = 75 out of 100 → Strong (4 stars).
 
 - **Business quality (62/100):** The 34-check quality framework scored the business +0.50 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 62 points.
 - **Multibagger fit (100/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 4 patterns fit strongly (Friendly Middleman, Pricing Power, Brand Strength, Corporate Culture) (+60); 2 likely (+16) → 100 of 100. (Capped at 100.)
 - **Risk safety (76/100):** started from a clean 100; 4 worth watching (−16); the balance sheet shows one stress signal (−8) → 76 of 100.
+- **Relative to the index (60/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.42 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 60 points.
 
 ### The story in depth
 
@@ -442,6 +443,58 @@ FY2026  ███████████████████       163 days
 
 - ✅ Growth is holding up: 10% a year earlier, 12% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 60 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.42 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 60 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +106% · gained strongly | -66% · lagged badly | -41% · lagged badly |
+| last 5 years | +102% · gained strongly | -37% · lagged badly | -8% · moved with |
+| last 3 years | +107% · gained strongly | +9% · moved with | +32% · gained strongly |
+| last 1 year | +33% · gained strongly | -2% · moved with | +21% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +172% ┤
+        │■╗
+        │ ╚╗                             ◆┓
+        │◆┓║                            ┏┛┗┓
+  +110% ┤ ┗╚╗                          ┏┛  ┗┓
+        │  ┃║                          ┃    ┗┓
+        │  ┗╚╗                        ┏┛     ┗┓
+   +48% ┤   ┗╚╗                  ●─╮ ┏┛       ┗┓
+        │    ┗╚╗              ╭──╯ ╰┏┛──╮      ┗┓                ◆━━━━┓──●────╮      ╭───●
+        │●───╮┗║             ╭╔══■═══════■═══╗  ┗┓            ╭┏━●───╯╔══■═══════■═══════■
+   -14% ┼┈┈┈┈╰─╚╗●────╮┈╔■════╝┈┈┈┈┏┛┈┈┈┈┈┈┈┈╚═══■════╗──●───╔═══■════╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗━━━◆┈┈
+        │       ║     ╔═╝◆━━━┓    ┏┛               ┗━┓╚══■═══╝
+        │       ╚╗ ╔══╝━┛    ┗━━━◆┛                  ┗━━┓ ┏━┛
+        │        ■═╝                                    ┗◆┛
+   -75% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +20.6   -2.3    -30.3   +41.4   +21.5   -13.0   -6.2    +4.2    +35.2   +15.3   +32.6
+◆     +119.0   -49.2   -25.4   -40.5  +140.1   +1.6    -58.4   +38.2   +5.9    +4.6    -1.7
+■     +154.8   -50.0   -1.3    +17.7   +6.1    +3.5    -27.2   -4.1    +4.6    +4.3    +20.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TORNTPHARM_stock_to_index.md`](TORNTPHARM_stock_to_index.md), with the same graph as [`TORNTPHARM_stock_to_index.svg`](TORNTPHARM_stock_to_index.svg) and [`TORNTPHARM_stock_to_index.mmd`](TORNTPHARM_stock_to_index.mmd).
+
 ## What to watch
 
 - Field force productivity — the entire 'Friendly Middleman' and distribution-advantage case rests on the 5,500-to-7,100 expansion continuing to buy above-market growth; if the move to 7,500 reps stops beating the market, the premium loses its justification.
@@ -457,5 +510,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

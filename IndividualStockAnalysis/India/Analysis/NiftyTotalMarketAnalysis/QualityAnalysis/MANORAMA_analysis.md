@@ -14,15 +14,16 @@ Manorama Industries, set up in 2005, collects wild tree-borne seeds — sal, man
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 76 out of 100 ★★★★☆
+## The verdict: Strong — 79 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (77/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 76 out of 100 — strong.
+In one breath: the quality framework finds a good business today (77/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained strongly on the index (100/100). Weighing those together gives 79 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 77 (business quality) + 30% × 69 (multibagger fit) + 25% × 84 (risk safety) = 76 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 77 (business quality) + 27% × 69 (multibagger fit) + 22.5% × 84 (risk safety) + 10% × 100 (relative to the index) = 79 out of 100 → Strong (4 stars).
 
 - **Business quality (77/100):** The 34-check quality framework scored the business +1.07 on its −2 (poor) to +2 (excellent) scale, with 85% of checks backed by evidence; mapped onto 0–100 that is 77 points.
 - **Multibagger fit (69/100):** the foundation test did not pass (+0); 3 patterns fit strongly (Toll Roads, Corporate Culture, Cost to Replicate) (+45); 3 likely (+24) → 69 of 100.
 - **Risk safety (84/100):** started from a clean 100; 4 worth watching (−16) → 84 of 100.
+- **Relative to the index (100/100):** Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
 
 ### The story in depth
 
@@ -371,6 +372,57 @@ Where the record is more guarded is on pricing and on what management does with 
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 100 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | — | — |
+| last 1 year | — | +80% · gained strongly | +91% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +98% ┤
+        │■
+        │◆
+   +72% ┤
+        │
+        │
+        │
+   +46% ┤
+        │
+        │
+   +19% ┤
+        │
+        │
+        │┈┈┈
+    -7% ┤
+        └┬──
+       FY26
+
+◆      +79.8
+■      +91.2
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`MANORAMA_stock_to_index.md`](MANORAMA_stock_to_index.md), with the same graph as [`MANORAMA_stock_to_index.svg`](MANORAMA_stock_to_index.svg) and [`MANORAMA_stock_to_index.mmd`](MANORAMA_stock_to_index.mmd).
+
 ## What to watch
 
 - Working capital: the 334-day cash cycle is the one clearly negative check — watch whether the 151-to-125 day trend keeps improving as revenue scales, or whether growth keeps swallowing the cash the INR 460 crore capex program is meant to be funded from.
@@ -386,5 +438,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

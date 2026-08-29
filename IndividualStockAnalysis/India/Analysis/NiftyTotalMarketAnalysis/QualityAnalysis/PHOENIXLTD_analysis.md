@@ -17,13 +17,14 @@ Phoenix Mills is an Indian property company that builds and owns large, city-cen
 
 ## The verdict: Outstanding — 80 out of 100 ★★★★★
 
-In one breath: the quality framework finds a good business today (77/100); it strongly fits 4 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Weighing those together gives 80 out of 100 — outstanding.
+In one breath: the quality framework finds a good business today (77/100); it strongly fits 4 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Against the Nifty 50 it has gained strongly on the index (79/100). Weighing those together gives 80 out of 100 — outstanding.
 
-**The exact arithmetic:** Overall = 45% × 77 (business quality) + 30% × 92 (multibagger fit) + 25% × 70 (risk safety) = 80 out of 100 → Outstanding (5 stars).
+**The exact arithmetic:** Overall = 40.5% × 77 (business quality) + 27% × 92 (multibagger fit) + 22.5% × 70 (risk safety) + 10% × 79 (relative to the index) = 80 out of 100 → Outstanding (5 stars).
 
 - **Business quality (77/100):** The 34-check quality framework scored the business +1.07 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 77 points.
 - **Multibagger fit (92/100):** the foundation test partly passed (+10); 4 patterns fit strongly (Pricing Power, Brand Strength, Corporate Culture, Cost to Replicate) (+60); 2 likely (+16); 2 numbers-only hints (+6) → 92 of 100.
 - **Risk safety (70/100):** started from a clean 100; 1 elevated (−10); 5 worth watching (−20) → 70 of 100.
+- **Relative to the index (79/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 79 points.
 
 ### The story in depth
 
@@ -442,6 +443,58 @@ FY2026  ██████████████████████    73
 - ✅ Operating margin (60%) remains near its historical peak (60%) — no collapse in the premium.
 - ✅ Operating margin held (about 46% then 57%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 79 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 79 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +228% · gained strongly | +418% · gained strongly | +17% · gained |
+| last 5 years | +135% · gained strongly | +1088% · gained strongly | +163% · gained strongly |
+| last 3 years | +74% · gained strongly | -33% · lagged badly | +42% · gained strongly |
+| last 1 year | -7% · moved with | +5% · moved with | +20% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +413% ┤
+        │                                                       ┏◆┓
+        │                                                    ┏━━┛ ┗┓
+  +278% ┤                                                  ┏━┛     ┃
+        │                                                ◆━┛       ┗┓
+        │                                               ┏┛          ┗┓
+        │                                              ┏┛            ┗┓
+  +143% ┤                                             ┏┛              ┗┓
+        │       ┏◆━━┓                                ┏┛                ┗┓
+        │     ┏━┛   ┗━━┓      ┏━━◆━┓                 ┃        ╔══■═══╗╭─┃●───╮
+    +8% ┤  ┏━━┛      ╭─┗━◆━━━━┛    ┗━━━━┓           ┏┛─╔═■════╝──●───╚═══■════╗──●───╔═══■
+        │■═══════■═══════■═══════■═══════■═══╗───●─┏╔══╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◆━━━━╚══■═══╝━━━◆┈┈
+        │                                  ┗━╚═══■══╝
+        │                                       ┗◆┛
+  -127% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -12.3   +6.3    +35.4   +0.7    +4.3    -7.8    +20.5   +12.0   +70.9   +9.7    -7.1
+◆      -12.4  +114.4   +37.8   +79.8   -20.3   -89.7  +274.1  +375.5   -28.2   -11.2   +4.7
+■      -1.4    +7.5    -7.7    +2.2    -5.7    -53.4   +8.9    +69.6   +26.8   -6.5    +20.1
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`PHOENIXLTD_stock_to_index.md`](PHOENIXLTD_stock_to_index.md), with the same graph as [`PHOENIXLTD_stock_to_index.svg`](PHOENIXLTD_stock_to_index.svg) and [`PHOENIXLTD_stock_to_index.mmd`](PHOENIXLTD_stock_to_index.mmd).
+
 ## What to watch
 
 - Cyclicality (ELEVATED): discretionary consumption slowing while the Kolkata, Surat, Thane, Coimbatore and Chandigarh pipeline is still being funded through the cycle — the one risk already rated above WATCH.
@@ -457,5 +510,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -14,15 +14,16 @@ Polycab India makes and sells electrical products, above all electric wires and 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 74 out of 100 ★★★★☆
+## The verdict: Strong — 76 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (73/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Weighing those together gives 74 out of 100 — strong.
+In one breath: the quality framework finds a good business today (73/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Against the Nifty 50 it has gained strongly on the index (95/100). Weighing those together gives 76 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 73 (business quality) + 30% × 71 (multibagger fit) + 25% × 78 (risk safety) = 74 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 73 (business quality) + 27% × 71 (multibagger fit) + 22.5% × 78 (risk safety) + 10% × 95 (relative to the index) = 76 out of 100 → Strong (4 stars).
 
 - **Business quality (73/100):** The 34-check quality framework scored the business +0.92 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 73 points.
 - **Multibagger fit (71/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Market Share Gainers, Corporate Culture) (+30); 2 likely (+16) → 71 of 100.
 - **Risk safety (78/100):** started from a clean 100; 1 elevated (−10); 3 worth watching (−12) → 78 of 100.
+- **Relative to the index (95/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 95 points.
 
 ### The story in depth
 
@@ -447,6 +448,58 @@ FY2026  █████████                  39 days  ▼ 25 days vs pri
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±11 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 11% a year earlier, 27% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 95 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 95 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +309% · gained strongly | +187% · gained strongly |
+| last 5 years | +202% · gained strongly | +12% · gained | +81% · gained strongly |
+| last 3 years | +79% · gained strongly | +34% · gained strongly | +79% · gained strongly |
+| last 1 year | +35% · gained strongly | +16% · gained | +33% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +66% ┤
+        │                ◆┓              ◆┓
+        │              ┏━■╗━━┓        ┏━━┛┗┓
+        │             ┏┛╔╝╚╗ ┗┓      ┏┛    ┗┓           ╭●╮              ●╮
+   +40% ┤           ┏━┛╔╝  ╚═╗┗━━┓┏━━┛      ┗┓     ╭────╯ ╰──╮        ╭──╯╰╮            ╔■
+        │         ┏━┛ ╔╝     ╚╗  ◆┛          ┗┓  ●─╯         ╰╮      ╭╯    ╰╮         ╔═╝╯
+        │      ┏━◆┛ ╔═╝       ╚═╗             ┗┓              ╰──■═══════■════╗    ╔══╝─╯
+   +14% ┤   ┏━━┛   ╔╝           ╚╗    ╔══■═╗   ┗┓              ╔═●╯   ┗━━◆━━━┓╚══■═╝ ╭┏━━◆
+        │■════╗   ╔╝             ■════╝    ╚══╗ ┗┓           ╔═╝┛            ┗━━━◆━━━━┛
+        │┈┈┈┈┈╚══■╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚═╗◆┓┈┈┈┈┈┈┈┈┈╔╝┏┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮╭╯┈┈┈┈┈┈┈┈
+   -12% ┤                                       ╚■════╗   ╔═╝━┛                  ●╯
+        │                                            ┗╚══■╝┏┛
+        │                                             ┗━━┓┏┛
+        │                                                ◆┛
+   -38% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·     +25.3   +46.6   +15.3   +40.5   -5.6    +34.8
+◆      +7.0    +18.7   +58.4   +29.0   +56.5   -3.8    -30.6   +20.6   +12.0   +2.8    +16.3
+■      +5.8    -3.2    +53.0   +4.3    +15.3   -10.9   -15.5   +19.7   +19.3   +12.3   +33.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`POLYCAB_stock_to_index.md`](POLYCAB_stock_to_index.md), with the same graph as [`POLYCAB_stock_to_index.svg`](POLYCAB_stock_to_index.svg) and [`POLYCAB_stock_to_index.mmd`](POLYCAB_stock_to_index.mmd).
+
 ## What to watch
 
 - Market share gainers pattern: the 300-400 basis point annual gain in organised wires and cables slowing or stalling — this is the single strongest pattern and the main support for the growth and competitive advantage scores.
@@ -462,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

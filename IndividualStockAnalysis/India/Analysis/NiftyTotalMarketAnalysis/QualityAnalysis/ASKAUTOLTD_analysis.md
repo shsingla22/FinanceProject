@@ -20,15 +20,16 @@ ASK Automotive makes and sells auto parts in India, overwhelmingly for two-wheel
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 70 out of 100 ★★★★☆
+## The verdict: Strong — 71 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Good Enough Goods). Weighing those together gives 70 out of 100 — strong.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Good Enough Goods). Against the Nifty 50 it has gained strongly on the index (79/100). Weighing those together gives 71 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 63 (multibagger fit) + 25% × 78 (risk safety) = 70 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 63 (multibagger fit) + 22.5% × 78 (risk safety) + 10% × 79 (relative to the index) = 71 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.81 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (63/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Market Share Gainers, Corporate Culture) (+30); 1 likely (+8) → 63 of 100.
 - **Risk safety (78/100):** started from a clean 100; 1 elevated (−10); 3 worth watching (−12) → 78 of 100.
+- **Relative to the index (79/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +1.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 79 points.
 
 ### The story in depth
 
@@ -440,6 +441,57 @@ FY2026  ███████████████            18 days  ▲ 7 
 - ✅ Sales fell in only 2 of the last 7 years with swings of ±15 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 9% a year earlier, 18% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 79 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +1.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 79 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +3% · moved with | +43% · gained strongly |
+| last 3 years | — | +53% · gained strongly | +89% · gained strongly |
+| last 1 year | — | +5% · moved with | +21% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +42% ┤
+        │                                       ╔■═╗
+        │                        ◆━━┓        ╔══╝◆━╚════╗
+        │                       ┏┛  ┗━━┓   ╔═╝━┛   ┗━┓  ╚■
+   +18% ┤                       ┃■═══════■═╝┛        ┗━━┓
+        │                      ┏╔╝                      ┗◆
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┏╔╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+    -6% ┤■═╗                  ╔╝
+        │  ╚════╗           ╔═╝
+        │       ╚■═╗       ╔╝┛
+   -30% ┤         ┗╚════╗ ╔╝┛
+        │            ┗┓ ╚■╝┃
+        │             ┗━━┓┏┛
+        │                ◆┛
+   -54% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -4.1    -17.6   -47.5   +27.8   +12.6   +29.2   +5.3
+■      -9.5    -20.2   -33.7   +14.2   +15.0   +35.5   +21.1
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ASKAUTOLTD_stock_to_index.md`](ASKAUTOLTD_stock_to_index.md), with the same graph as [`ASKAUTOLTD_stock_to_index.svg`](ASKAUTOLTD_stock_to_index.svg) and [`ASKAUTOLTD_stock_to_index.mmd`](ASKAUTOLTD_stock_to_index.mmd).
+
 ## What to watch
 
 - Aftermarket share gains reversing — the +24.7% FY26 growth rests on the GST cut closing the price gap to grey-market copies; if that advantage fades, both the Share donators strength and the elevated Good Enough Goods risk turn against the story.
@@ -455,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

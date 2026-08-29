@@ -20,15 +20,16 @@ Ramkrishna Forgings is an Indian manufacturer that makes forged and cast metal p
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 46 out of 100 ★★☆☆☆
+## The verdict: Mixed — 47 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (53/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Good Enough Goods). Weighing those together gives 46 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (53/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Good Enough Goods). Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 47 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 53 (business quality) + 30% × 18 (multibagger fit) + 25% × 68 (risk safety) = 46 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 53 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 68 (risk safety) + 10% × 50 (relative to the index) = 47 out of 100 → Mixed (2 stars).
 
 - **Business quality (53/100):** The 34-check quality framework scored the business +0.12 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 53 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (68/100):** started from a clean 100; 2 elevated (−20); 3 worth watching (−12) → 68 of 100.
+- **Relative to the index (50/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -446,6 +447,58 @@ FY2026  █████████                  86 days  ▼ 35 days vs pri
 
 - ✅ Growth is holding up: 9% a year earlier, 27% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +122% · gained strongly | -63% · lagged badly | +21% · gained |
+| last 5 years | +172% · gained strongly | +26% · gained strongly | +39% · gained strongly |
+| last 3 years | +23% · gained | -82% · lagged badly | -26% · lagged badly |
+| last 1 year | -39% · lagged badly | -85% · lagged badly | +10% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +858% ┤
+        │                ◆┓
+        │               ┏┛┗┓
+        │               ┃  ┃
+  +603% ┤              ┏┛  ┗┓                            ◆┓
+        │              ┃    ┗┓                          ┏┛┗┓
+        │             ┏┛     ┗┓                        ┏┛  ┗┓
+  +348% ┤            ┏┛       ┃                       ┏┛    ┗┓
+        │           ┏┛        ┗┓                    ┏━┛      ┗┓
+        │           ┃          ┗┓                  ┏┛         ┗┓
+   +93% ┤          ┏┛           ┃               ╭●┏┛──╮        ┗┓
+        │■═══╗     ┃  ╔══■═══╗  ┗┓            ╭─┏◆┛   ╔══■═══╗──┗●───────●───╮┏━━◆━┓
+        │◆━━━╚═══■════╝┈┈┈┈┈┈╚═══■═══════■═══════■════╝┈┈┈┈┈┈╚═══■═══════■═══════■═══════■┈┈
+        │     ┗━━◆┛                   ┗━━◆━┛                                            ┗◆
+  -162% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -16.2   +17.6   +26.9   -30.4   -66.0  +130.9   +28.8   +72.1   +93.1   +3.9    -38.8
+◆      -30.4   -81.1  +787.8   +17.0   -91.5   +74.7  +531.8   +8.0    -6.6    +29.2   -84.8
+■      +31.4   -10.7   +78.6   +6.9    -47.5   -2.9    +71.7   +10.0   -1.6    -31.6   +9.7
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`RKFORGE_stock_to_index.md`](RKFORGE_stock_to_index.md), with the same graph as [`RKFORGE_stock_to_index.svg`](RKFORGE_stock_to_index.svg) and [`RKFORGE_stock_to_index.mmd`](RKFORGE_stock_to_index.mmd).
+
 ## What to watch
 
 - Debt path and the promoter-funding dependence flagged under the Disciplined stewards check — whether FY27 deleveraging happens on operating cash rather than fresh promoter money.
@@ -462,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

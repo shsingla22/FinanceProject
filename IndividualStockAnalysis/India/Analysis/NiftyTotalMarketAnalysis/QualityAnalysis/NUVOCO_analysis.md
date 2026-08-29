@@ -12,15 +12,16 @@ Nuvoco Vistas is an Indian cement maker: it manufactures and sells cement — in
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 47 out of 100 ★★☆☆☆
+## The verdict: Mixed — 49 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 47 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (64/100). Weighing those together gives 49 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 18 (multibagger fit) + 25% × 58 (risk safety) = 47 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 64 (relative to the index) = 49 out of 100 → Mixed (2 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.43 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 2 worth watching (−8); 1 numbers-only flag (−4) → 58 of 100.
+- **Relative to the index (64/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.57 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 64 points.
 
 ### The story in depth
 
@@ -428,6 +429,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   -13
 - ✅ Sales fell in only 2 of the last 9 years with swings of ±10 points — no pronounced boom-and-bust signature in revenue.
 - ⚠️ Growth has stalled: sales compounded at 13% a year in the first half of the record but only 5% recently — demand may be structurally fading.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 64 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.57 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 64 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | -36% · lagged badly |
+| last 3 years | -39% · lagged badly | +1327% · gained strongly | +26% · gained strongly |
+| last 1 year | -7% · moved with | +1338% · gained strongly | +33% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++1,455% ┤
+        │                                                                ◆
+        │                                                               ┏┛
+        │                ◆┓                                             ┃
++1,033% ┤               ┏┛┗┓                                           ┏┛
+        │               ┃  ┃                                           ┃
+        │              ┏┛  ┗┓                                         ┏┛
+  +611% ┤             ┏┛    ┗┓                           ◆┓          ┏┛
+        │            ┏┛      ┗┓                        ┏━┛┗━┓       ┏┛
+        │           ┏┛        ┗┓                      ┏┛    ┗┓      ┃
+  +190% ┤          ┏┛          ┗┓                    ┏┛      ┗┓    ┏┛
+        │          ┃            ┃       ┏◆━┓        ┏┛        ┗┓   ┃
+        │■═══════■═══════■═══════■═══════■═══════■═══════■═══════■═══════■┈┈
+        │     ┗━━◆┛              ◆━┛            ┗◆┛              ◆┛
+  -232% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·     -17.3   -29.1   -6.6    -7.4
+◆      -2.2   -115.2  +1078.0 -108.7  +182.5   -56.9  +631.5   -86.4 +1338.2
+■      +36.9   -25.7   +37.4   +1.6    -23.5   -33.9   +18.3   -20.2   +33.2
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NUVOCO_stock_to_index.md`](NUVOCO_stock_to_index.md), with the same graph as [`NUVOCO_stock_to_index.svg`](NUVOCO_stock_to_index.svg) and [`NUVOCO_stock_to_index.mmd`](NUVOCO_stock_to_index.mmd).
+
 ## What to watch
 
 - Vadraj refurbishment milestones and first earnings contribution — the 'Merger and acquisition' check is the single negative in the quality framework, and slippage would undo the deleveraging credited to Management
@@ -444,5 +497,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

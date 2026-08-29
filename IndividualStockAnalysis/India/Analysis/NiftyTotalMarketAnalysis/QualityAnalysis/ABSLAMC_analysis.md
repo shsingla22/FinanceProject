@@ -17,15 +17,16 @@ Aditya Birla Sun Life AMC (ABSLAMC) is an Indian asset management company — a 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 43 out of 100 ★★☆☆☆
+## The verdict: Mixed — 45 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 43 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (59/100). Weighing those together gives 45 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 52 (business quality) + 30% × 33 (multibagger fit) + 25% × 40 (risk safety) = 43 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 52 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 40 (risk safety) + 10% × 59 (relative to the index) = 45 out of 100 → Mixed (2 stars).
 
 - **Business quality (52/100):** The 34-check quality framework scored the business +0.09 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 52 points.
 - **Multibagger fit (33/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Friendly Middleman) (+15); 1 likely (+8) → 33 of 100.
 - **Risk safety (40/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 5 worth watching (−20) → 40 of 100.
+- **Relative to the index (59/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 59 points.
 
 ### The story in depth
 
@@ -446,6 +447,58 @@ FY2026  ███████████                10 days  ▼ 1 day vs p
 - ✅ Sales fell in only 3 of the last 9 years with swings of ±14 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 7% a year earlier, 10% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 59 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 59 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -32% · lagged badly | -10% · lagged |
+| last 3 years | +112% · gained strongly | +4% · moved with | +30% · gained strongly |
+| last 1 year | +40% · gained strongly | -8% · moved with | +1% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +70% ┤
+        │■╗
+        │ ╚╗┓
+        │  ╚╗┓                                                          ╭●
+   +39% ┤   ╚═╗┓                                                   ╭────╯
+        │     ╚╗━┓                                            ╭──●─╯
+        │      ╚╗◆━━━━━━━◆━┓                             ●───╔═══■══╗
+    +8% ┤       ╚╗         ┗━┓                          ╭■═══╝━━━◆━┓╚══╗
+        │┈┈┈┈┈┈┈┈■═══════■════╗━┓┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╔══╝┈┈┈┈┈┈┈┈┈┗━━━╚═■┈┈
+        │                     ╚══■═══════■═╗         ╔╝╯                ┗◆
+        │                            ┗━━━◆━╚════╗ ╔══╝╯
+   -22% ┤                                     ┗━╚■╝╭╯
+        │                                         ╭╯
+        │                                        ●╯
+   -53% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·     -44.8   +16.8   +30.0   +39.9
+◆      +60.9   +18.6   +12.9   -11.4   -14.3   -23.6   +4.2    +8.2    -8.0
+■      +61.7   -0.8    -0.3    -5.3    -5.9    -27.1   +11.3   +16.4   +0.7
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ABSLAMC_stock_to_index.md`](ABSLAMC_stock_to_index.md), with the same graph as [`ABSLAMC_stock_to_index.svg`](ABSLAMC_stock_to_index.svg) and [`ABSLAMC_stock_to_index.mmd`](ABSLAMC_stock_to_index.mmd).
+
 ## What to watch
 
 - Market share (Gain in market share check, Market Share Gainers pattern): the moment mutual fund and equity growth actually matches or beats the industry, instead of management still guiding only to slow the decline, the weakest part of this case flips.
@@ -461,5 +514,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

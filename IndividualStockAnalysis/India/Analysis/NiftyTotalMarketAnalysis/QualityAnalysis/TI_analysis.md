@@ -17,13 +17,14 @@ Tilaknagar Industries is an Indian alcoholic-drinks company that makes and sells
 
 ## The verdict: Decent — 58 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (59/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 58 out of 100 — decent.
+In one breath: the quality framework finds an average business today (59/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (60/100). Weighing those together gives 58 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 59 (business quality) + 30% × 64 (multibagger fit) + 25% × 50 (risk safety) = 58 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 59 (business quality) + 27% × 64 (multibagger fit) + 22.5% × 50 (risk safety) + 10% × 60 (relative to the index) = 58 out of 100 → Decent (3 stars).
 
 - **Business quality (59/100):** The 34-check quality framework scored the business +0.35 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 59 points.
 - **Multibagger fit (64/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Brand Strength, Corporate Culture) (+30); 3 likely (+24) → 64 of 100.
 - **Risk safety (50/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12); the balance sheet shows one stress signal (−8) → 50 of 100.
+- **Relative to the index (60/100):** Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +0.40 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 60 points.
 
 ### The story in depth
 
@@ -443,6 +444,57 @@ FY2026  ██████████████████████    21
 - ✅ Growth is holding up: -5% a year earlier, 34% recently — no structural stall.
 - ✅ Operating margin (18%) remains near its historical peak (18%) — no collapse in the premium.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 60 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +0.40 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 60 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | +288% · gained strongly |
+| last 3 years | — | -91% · lagged badly | +151% · gained strongly |
+| last 1 year | — | -92% · lagged badly | +62% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++1,551% ┤
+        │                        ■╗
+        │                       ╔╝╚╗
+        │                      ╔╝  ║
+  +982% ┤                     ╔╝   ╚╗
+        │                    ╔╝     ╚╗
+        │                   ╔╝       ╚╗
+  +413% ┤                  ╔╝         ╚╗
+        │                 ╔╝           ╚╗◆━━┓   ╔■════╗┏━◆━━━━━━━◆━━┓
+        │       ╔■═══════■╝━━┓      ┏━━┛║   ┗━╔═╝   ┏━╚══■═══╗      ┗━╔══■═══════■═══════■
+  -157% ┼┈┈╔════╝┛┈┈┈┈┈┈┈┈┈┈┈┗━━━◆━━┛┈┈┈╚╗┈╔══╝┗━◆━━┛┈┈┈┈┈┈┈┈╚═══■════╝┗━◆━━━━┛┈┈┈┈┈┈┗━━━◆┈┈
+        │■═╝ ┏┛                          ■═╝
+        │ ┏━━┛
+        │◆┛
+  -726% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     -568.9   +6.4    +44.6   +1.9   +272.3  -111.7  +179.4  +187.4   -26.8   +51.0   -92.0
+■     -222.1   +23.6  +103.2  +1394.1 -190.1  +194.1   +54.0   +0.4    +19.2   +30.1   +61.8
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TI_stock_to_index.md`](TI_stock_to_index.md), with the same graph as [`TI_stock_to_index.svg`](TI_stock_to_index.svg) and [`TI_stock_to_index.mmd`](TI_stock_to_index.mmd).
+
 ## What to watch
 
 - Cash return on capital (Return on capital check, currently minus 8%) - whether operating cash turns positive as the Imperial Blue business is absorbed, or stays negative and confirms the strained financial standing.
@@ -458,5 +510,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

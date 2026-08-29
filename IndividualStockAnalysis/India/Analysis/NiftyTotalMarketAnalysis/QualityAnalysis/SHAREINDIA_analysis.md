@@ -21,15 +21,16 @@ Share India Securities is an Indian stockbroking and financial-services group th
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 35 out of 100 ★★☆☆☆
+## The verdict: Mixed — 38 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (48/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 35 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (48/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained on the index (66/100). Weighing those together gives 38 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 48 (business quality) + 30% × 26 (multibagger fit) + 25% × 22 (risk safety) = 35 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 48 (business quality) + 27% × 26 (multibagger fit) + 22.5% × 22 (risk safety) + 10% × 66 (relative to the index) = 38 out of 100 → Mixed (2 stars).
 
 - **Business quality (48/100):** The 34-check quality framework scored the business -0.09 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 48 points.
 - **Multibagger fit (26/100):** the foundation test partly passed (+10); 2 likely (+16) → 26 of 100.
 - **Risk safety (22/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 1 elevated (−10); 5 worth watching (−20); the balance sheet shows one stress signal (−8) → 22 of 100.
+- **Relative to the index (66/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
 
 ### The story in depth
 
@@ -455,6 +456,57 @@ FY2026  █                           9 days  ▲ 848 days vs prior year
 - ✅ Sales fell in only 1 of the last 10 years with swings of ±34 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 44% a year earlier, 27% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 66 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +1408% · gained strongly | +1330% · gained strongly |
+| last 5 years | — | +47% · gained strongly | +116% · gained strongly |
+| last 3 years | — | -38% · lagged badly | -5% · moved with |
+| last 1 year | — | -13% · lagged | +9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +103% ┤
+        │        ◆┓
+        │       ┏┛┗━━┓
+        │      ┏┛    ┗┓         ┏◆━━━┓        ╔══■╗┓
+   +67% ┤    ┏━┛╔■══╗ ┗━━┓ ┏━━━━┛    ┗━╔═■════╝   ╚══╗┓
+        │   ┏┛ ╔╝   ╚══╗ ◆━┛        ╔══╝             ╚╗━┓
+        │  ┏╔══╝       ╚═■═══════■══╝                 ╚══◆━┓
+   +31% ┤ ┏╔╝                                            ■═══╗
+        │■═╝                                                ┗╚═══■╗
+        │                                                      ┗┓ ╚═╗            ■
+    -4% ┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗◆━┓╚═╗┈┈┈┈┈┈┈╔══╝┈┈
+        │                                                          ┗━┓╚╗     ╔╝ ┏◆
+        │                                                            ┗━╚═╗╔══╝━━┛
+        │                                                               ┗■╝┛
+   -40% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +25.7   +92.7   +54.3   +67.5   +64.3   +67.1   +41.3   +2.5    -30.2   -13.2
+■      +20.5   +66.0   +45.8   +38.8   +63.8   +71.0   +33.1   +17.6   -25.7   +8.6
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SHAREINDIA_stock_to_index.md`](SHAREINDIA_stock_to_index.md), with the same graph as [`SHAREINDIA_stock_to_index.svg`](SHAREINDIA_stock_to_index.svg) and [`SHAREINDIA_stock_to_index.mmd`](SHAREINDIA_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the 30-branch Tier-3 build-out moves past the current 7 openings and holds its stated 8-month payback and 12-month stop-loss discipline — the Geographical expansion and Forward Integrators case rests on it
@@ -471,5 +523,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

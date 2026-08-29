@@ -16,15 +16,16 @@ Capillary sells cloud software that large companies use to run their customer lo
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 75 out of 100 ★★★★☆
+## The verdict: Strong — 78 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (69/100); it strongly fits 4 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 75 out of 100 — strong.
+In one breath: the quality framework finds a good business today (69/100); it strongly fits 4 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained strongly on the index (100/100). Weighing those together gives 78 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 69 (business quality) + 30% × 78 (multibagger fit) + 25% × 84 (risk safety) = 75 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 69 (business quality) + 27% × 78 (multibagger fit) + 22.5% × 84 (risk safety) + 10% × 100 (relative to the index) = 78 out of 100 → Strong (4 stars).
 
 - **Business quality (69/100):** The 34-check quality framework scored the business +0.74 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 69 points.
 - **Multibagger fit (78/100):** the foundation test partly passed (+10); 4 patterns fit strongly (Pricing Power, Innovation Dominance, Market Share Gainers, Cost to Replicate) (+60); 1 likely (+8) → 78 of 100.
 - **Risk safety (84/100):** started from a clean 100; 4 worth watching (−16) → 84 of 100.
+- **Relative to the index (100/100):** Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
 
 ### The story in depth
 
@@ -423,6 +424,57 @@ FY2026  █████████████████          90 days  �
 - ✅ Sales fell in only 0 of the last 5 years with swings of ±19 points — no pronounced boom-and-bust signature in revenue.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 100 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | — | — |
+| last 1 year | — | +252% · gained strongly | +41% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +676% ┤
+        │                        ■╗
+        │                       ╔╝╚╗
+  +442% ┤                      ╔╝  ╚╗
+        │                     ╔╝    ╚╗
+        │                    ╔╝      ║
+        │                   ╔╝       ╚╗┏━◆
+  +209% ┤                  ╔╝       ┏━╚╗
+        │                 ╔╝ ┏━━━◆━━┛  ╚╗
+        │             ╔══■╝━━┛          ╚╗
+   -25% ┼┈┈┈┈┈┈┈╔■════╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈■┈┈
+        │     ╔═╝
+        │  ╔══╝
+        │■═╝
+  -259% ┤
+        └┬───────┬───────┬───────┬───────┬──
+       FY22    FY23    FY24    FY25    FY26
+
+◆     -194.3   +24.9   +48.4  +120.7  +251.6
+■     -191.3   -3.0    +83.5  +611.3   +40.9
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CAPILLARY_stock_to_index.md`](CAPILLARY_stock_to_index.md), with the same graph as [`CAPILLARY_stock_to_index.svg`](CAPILLARY_stock_to_index.svg) and [`CAPILLARY_stock_to_index.mmd`](CAPILLARY_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether acquired customers keep being migrated at only ~70% of their prior revenue — the Good Enough Goods risk is what drags the return on capital score negative
@@ -438,5 +490,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

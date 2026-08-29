@@ -17,15 +17,16 @@ Natco Pharma is an Indian drug maker that sells generic (copycat) versions of pa
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 45 out of 100 ★★☆☆☆
+## The verdict: Mixed — 46 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (45/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Weighing those together gives 45 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (45/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Against the Nifty 50 it has gained on the index (62/100). Weighing those together gives 46 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 45 (business quality) + 30% × 41 (multibagger fit) + 25% × 48 (risk safety) = 45 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 45 (business quality) + 27% × 41 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 62 (relative to the index) = 46 out of 100 → Mixed (2 stars).
 
 - **Business quality (45/100):** The 34-check quality framework scored the business -0.22 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 45 points.
 - **Multibagger fit (41/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 likely (+16) → 41 of 100.
 - **Risk safety (48/100):** started from a clean 100; 1 high risk (Cyclicality) (−20); 2 elevated (−20); 3 worth watching (−12) → 48 of 100.
+- **Relative to the index (62/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
 
 ### The story in depth
 
@@ -444,6 +445,58 @@ FY2026  ██████████████            343 days  ▼ 19 d
 
 - ✅ Growth is holding up: 16% a year earlier, 15% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 62 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -23% · lagged | +154% · gained strongly | +90% · gained strongly |
+| last 5 years | -28% · lagged badly | +18% · gained | +18% · gained |
+| last 3 years | +30% · gained strongly | +26% · gained strongly | +26% · gained strongly |
+| last 1 year | +24% · gained | -34% · lagged badly | -36% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +290% ┤
+        │                                                        ◆┓
+        │                                                       ┏┛┗┓
+        │        ◆┓                                             ┃  ┗┓
+  +192% ┤       ┏┛┗━┓                                          ┏┛■═╗┗━┓
+        │      ┏┛■╗ ┗┓                                         ┃╔╝ ╚╗ ┗┓
+        │    ┏━╔═╝╚══╗┓                                       ┏╔╝   ╚══╗┓
+   +94% ┤   ┏┛╔╝     ╚╗┓                                     ┏╔╝       ╚╗┓
+        │  ┏╔═╝╭─●─╮  ╚══╗                                  ┏╔╝         ╚■══╗
+        │ ╔═╝──╯   ╰─╮   ■═╗                                ┃║          ╭●─╮╚══╗
+    -3% ┼■╝─╯┈┈┈┈┈┈┈┈╰──╮┈┈╚══╗━┓┈┈┈┈╭───●───────●────╮┈┈┈┈┏╔╝┈┈┈┈┈╭────╯┈┈╰───╚═■══╗╭───●┈┈
+        │               ╰●────╚═╗◆━━━━╔══■═══════■═╗  ╰──●─╔╝────●─╯            ╰●──╚══╗
+        │                       ╚■════╝            ╚════╗ ╔╝                           ╚═■
+        │                                               ╚■╝
+  -101% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +2.0    +73.6   -23.1   -31.3   +6.4    +10.0   -21.6   -29.5   +35.1   -22.1   +23.7
+◆      +13.9  +193.1   +47.3   -14.5   -27.1   -19.7   -74.2  +262.7   +54.6   +22.9   -33.8
+■      +20.4  +154.7   +36.9   -31.4   -28.9   -5.9    -67.7  +191.0   +65.4   +18.2   -35.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NATCOPHARM_stock_to_index.md`](NATCOPHARM_stock_to_index.md), with the same graph as [`NATCOPHARM_stock_to_index.svg`](NATCOPHARM_stock_to_index.svg) and [`NATCOPHARM_stock_to_index.mmd`](NATCOPHARM_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether FY27 lands at or above the guided INR700-750 crores of profit through the 'zero Revlimid' quarters — the direct test of the HIGH RISK Cyclicality verdict.
@@ -460,5 +513,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

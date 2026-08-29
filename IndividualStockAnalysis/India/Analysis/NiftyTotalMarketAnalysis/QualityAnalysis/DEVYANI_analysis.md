@@ -17,13 +17,14 @@ Devyani International (DIL) runs fast-food restaurants and coffee shops — it d
 
 ## The verdict: Mixed — 45 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (48/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Stakeholder Concentration, New Entrants). Weighing those together gives 45 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (48/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Stakeholder Concentration, New Entrants). Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 45 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 48 (business quality) + 30% × 34 (multibagger fit) + 25% × 52 (risk safety) = 45 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 48 (business quality) + 27% × 34 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 50 (relative to the index) = 45 out of 100 → Mixed (2 stars).
 
 - **Business quality (48/100):** The 34-check quality framework scored the business -0.06 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 48 points.
 - **Multibagger fit (34/100):** the foundation test partly passed (+10); 3 likely (+24) → 34 of 100.
 - **Risk safety (52/100):** started from a clean 100; 2 elevated (−20); 5 worth watching (−20); the balance sheet shows one stress signal (−8) → 52 of 100.
+- **Relative to the index (50/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -436,6 +437,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒      -89 da
 
 *Silver lining: Consumer-funded, non-infrastructure business model with pricing autonomy and geographic diversification away from any single policy regime.*
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +91% · gained strongly | — |
+| last 5 years | — | +75% · gained strongly | +127% · gained strongly |
+| last 3 years | -51% · lagged badly | — | +7% · moved with |
+| last 1 year | -36% · lagged badly | -440% · lagged badly | +1% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++4,322% ┤
+        │■╗
+        │ ╚╗
+        │  ║
++3,043% ┤  ╚╗
+        │   ╚╗
+        │    ╚╗
++1,764% ┤     ╚╗
+        │      ╚╗
+        │       ║
+  +486% ┤       ╚╗
+        │        ■═══╗                        ┏━━◆━━━┓
+        │◆━━━━━━━◆━━━╚═══■═══════■═══════■═══════■═══════■═══════■═══════■═══════■┈┈
+        │             ┗━━◆━━━┛                                                ┗━━◆
+  -793% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·       ·     -21.9   -16.9   -7.9    -35.7
+◆      -30.5  +117.7  -380.8   -31.5   +56.7  +264.9   +46.3  -103.0   +36.6  -439.9
+■     +3968.9 +148.0   +70.9   +23.9   -34.7   +87.0   +13.3   -24.1   +40.2   +1.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`DEVYANI_stock_to_index.md`](DEVYANI_stock_to_index.md), with the same graph as [`DEVYANI_stock_to_index.svg`](DEVYANI_stock_to_index.svg) and [`DEVYANI_stock_to_index.mmd`](DEVYANI_stock_to_index.mmd).
+
 ## What to watch
 
 - Same-store sales and KFC's average daily sales per store: a sustained return toward the old ₹127,000 from ~₹90,000 would rescue both the Pricing Power pattern and the negative growth-capex check.
@@ -452,5 +505,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

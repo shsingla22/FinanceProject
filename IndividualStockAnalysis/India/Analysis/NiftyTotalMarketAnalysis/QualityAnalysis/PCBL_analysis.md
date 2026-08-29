@@ -16,15 +16,16 @@ PCBL Chemical (formerly PCBL Limited) is an India-based chemicals manufacturer w
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 47 out of 100 ★★☆☆☆
+## The verdict: Mixed — 48 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (55/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Weighing those together gives 47 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (55/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Against the Nifty 50 it has moved with the index (54/100). Weighing those together gives 48 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 55 (business quality) + 30% × 25 (multibagger fit) + 25% × 60 (risk safety) = 47 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 55 (business quality) + 27% × 25 (multibagger fit) + 22.5% × 60 (risk safety) + 10% × 54 (relative to the index) = 48 out of 100 → Mixed (2 stars).
 
 - **Business quality (55/100):** The 34-check quality framework scored the business +0.19 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 55 points.
 - **Multibagger fit (25/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); no pattern found meaningful support (+0) → 25 of 100.
 - **Risk safety (60/100):** started from a clean 100; 1 high risk (Cyclicality) (−20); 5 worth watching (−20) → 60 of 100.
+- **Relative to the index (54/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
 
 ### The story in depth
 
@@ -439,6 +440,58 @@ FY2026  ███████                    35 days  ▼ 22 days vs prior y
 - ⚠️ Sales actually FELL in 4 of the last 11 years — revenue moves in cycles, it does not compound steadily.
 - ✅ Growth is holding up: 1% a year earlier, 25% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 54 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +729% · gained strongly | +246% · gained strongly | +122% · gained strongly |
+| last 5 years | +55% · gained strongly | -77% · lagged badly | +1% · moved with |
+| last 3 years | +57% · gained strongly | -72% · lagged badly | +17% · gained |
+| last 1 year | -42% · lagged badly | -60% · lagged badly | -23% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +336% ┤
+        │        ◆━┓
+        │       ┏┛ ┗━━━━┓
+        │      ┏┛       ┗◆┓
+  +230% ┤     ┏┛          ┗━┓
+        │    ┏┛  ●───────●╮ ┗┓
+        │   ┏┛  ╭╯        ╰╮ ┗┓
+  +123% ┤  ┏┛  ╭╯          ╰╮ ┗┓
+        │ ┏┛ ╭─╯            ╰─╮┗━┓               ●─╮                    ╭●──╮
+        │◆┛ ╭╯  ╔■═══╗        ╰╮ ◆━┓           ╭─╯ ╰─╮                ╭─╯   ╰──╮
+   +17% ┤  ╔════╝    ╚═══■═══════■══╗━┓      ╭─╯     ╰──╮          ╭─╔═══■═══════■══╗
+        │■═╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈╚══╗┓┈┈┈╭╯╔══■═══════■═══════■═══╝━━━◆━━━┓┈┈┈┈┈┈╚══╗┈┈┈┈
+        │●╯                      ●────╮╚═■════╝                              ┗━━━◆━━━━┓╚═■
+        │                             ╰──●╯                                           ┗━━◆
+   -89% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -24.4  +191.5  +185.1   -25.2   -57.9  +105.1   +2.5    -3.9    +84.3   +46.9   -42.0
+◆      +51.8  +306.5  +242.7   +54.2   -23.2   -9.3    -9.1    -10.5   -11.6   -19.7   -60.0
+■      +3.9    +59.3   +45.6   +28.7   -26.8   +0.7    -6.2    -8.1    +25.2   +21.7   -23.2
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`PCBL_stock_to_index.md`](PCBL_stock_to_index.md), with the same graph as [`PCBL_stock_to_index.svg`](PCBL_stock_to_index.svg) and [`PCBL_stock_to_index.mmd`](PCBL_stock_to_index.mmd).
+
 ## What to watch
 
 - Aquapharm ramp-up — the merger and acquisition check (-2) and the Capital Allocation score turn on whether FY26's INR162cr of EBITDA moves back toward the INR370-380cr the business earned at acquisition.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

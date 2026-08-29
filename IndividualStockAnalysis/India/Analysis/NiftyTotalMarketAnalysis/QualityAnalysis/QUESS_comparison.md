@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (45/100). Last one year: Decent (55/100). The last year looks STRONGER than the long-term picture (+10 points) — the company has improved in the recent period.
+Long-term view: Mixed (41/100). Last one year: Decent (52/100). The last year looks STRONGER than the long-term picture (+11 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 57 | 60 | +3 |
 | Multibagger fit | 18 | 34 | +16 |
 | Risk safety | 56 | 72 | +16 |
+| Relative to the index | 7 | 25 | +18 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -102,6 +103,20 @@ Genuinely re-tested risk verdicts: 3 eased, 0 worsened, 3 unchanged; 2 carried f
 *Unchanged: Cyclicality (WATCH); Government Dependency (WATCH); Stakeholder Concentration (WATCH).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (7/100). Looking only at the latest year, it has **LAGGED the index badly** (25/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -81% · lagged badly | -29% · lagged badly |
+| last 5 years | — | — | -80% · lagged badly |
+| last 3 years | — | -88% · lagged badly | -65% · lagged badly |
+| last 1 year | — | -86% · lagged badly | +9% · moved with |
+
 
 ## How this comparison was built
 

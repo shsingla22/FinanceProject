@@ -16,15 +16,16 @@ Indian Metals & Ferro Alloys Limited (IMFA) is an Odisha-based metals and mining
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 46 out of 100 ★★☆☆☆
+## The verdict: Mixed — 47 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 46 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained on the index (57/100). Weighing those together gives 47 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 52 (business quality) + 30% × 33 (multibagger fit) + 25% × 52 (risk safety) = 46 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 52 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 57 (relative to the index) = 47 out of 100 → Mixed (2 stars).
 
 - **Business quality (52/100):** The 34-check quality framework scored the business +0.07 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 52 points.
 - **Multibagger fit (33/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 1 likely (+8) → 33 of 100.
 - **Risk safety (52/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 2 worth watching (−8) → 52 of 100.
+- **Relative to the index (57/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.29 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 57 points.
 
 ### The story in depth
 
@@ -429,6 +430,57 @@ FY2026  ██████████████████████    21
 - ✅ Operating margin (21%) remains near its historical peak (31%) — no collapse in the premium.
 - ✅ Operating margin held (about 20% then 21%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 57 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.29 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 57 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | +68% · gained strongly |
+| last 5 years | — | -7% · moved with | -13% · lagged |
+| last 3 years | — | +19% · gained | -1% · moved with |
+| last 1 year | — | -1% · moved with | +9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++1,215% ┤
+        │     ╔══■═══╗
+        │■════╝━┛┈┈┈┈╚═══■═══════■═══════■═══════■═══════■═══════■═══════■═══════■═══════■┈┈
+        │  ┏━┛                    ┗┓            ┏┛
+  -894% ┤◆━┛                       ┃            ┃
+        │                          ┗┓          ┏┛
+        │                           ┗┓        ┏┛
+-3,003% ┤                            ┃        ┃
+        │                            ┗┓      ┏┛
+        │                             ┗┓    ┏┛
+-5,113% ┤                              ┗┓  ┏┛
+        │                               ┃  ┃
+        │                               ┗┓┏┛
+        │                                ◆┛
+-7,222% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     -1143.7 +633.5   -22.8  -100.5  -6640.1 +310.4  +103.8   -61.6   +21.2   -0.2    -1.4
+■      -51.5  +313.7   -15.2   -49.6   -68.3  +244.0   +77.9   -50.6   +6.2    -14.6   +9.1
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`IMFA_stock_to_index.md`](IMFA_stock_to_index.md), with the same graph as [`IMFA_stock_to_index.svg`](IMFA_stock_to_index.svg) and [`IMFA_stock_to_index.mmd`](IMFA_stock_to_index.mmd).
+
 ## What to watch
 
 - Ferrochrome realisations versus the Samancor/Merafe benchmark — the Cyclicality risk (HIGH) and the failed Pricing Power pattern mean a return toward the ~INR87,000 Q4FY25 level would hit the new volumes hardest.
@@ -445,5 +497,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

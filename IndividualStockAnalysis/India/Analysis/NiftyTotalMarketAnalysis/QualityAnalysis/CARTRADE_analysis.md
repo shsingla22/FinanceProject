@@ -12,15 +12,16 @@ CarTrade Tech runs India's largest online marketplaces for vehicles — the webs
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 70 out of 100 ★★★★☆
+## The verdict: Strong — 71 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (67/100); it strongly fits 3 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Weighing those together gives 70 out of 100 — strong.
+In one breath: the quality framework finds a good business today (67/100); it strongly fits 3 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Against the Nifty 50 it has gained strongly on the index (84/100). Weighing those together gives 71 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 67 (business quality) + 30% × 71 (multibagger fit) + 25% × 74 (risk safety) = 70 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 67 (business quality) + 27% × 71 (multibagger fit) + 22.5% × 74 (risk safety) + 10% × 84 (relative to the index) = 71 out of 100 → Strong (4 stars).
 
 - **Business quality (67/100):** The 34-check quality framework scored the business +0.70 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 67 points.
 - **Multibagger fit (71/100):** the foundation test partly passed (+10); 3 patterns fit strongly (Brand Strength, Market Share Gainers, Corporate Culture) (+45); 2 likely (+16) → 71 of 100.
 - **Risk safety (74/100):** started from a clean 100; 1 elevated (−10); 4 worth watching (−16) → 74 of 100.
+- **Relative to the index (84/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 84 points.
 
 ### The story in depth
 
@@ -441,6 +442,58 @@ FY2026  ███                        44 days  ▼ 5 days vs prior year
 - ⚠️ Year-to-year sales growth swings by ±72 percentage points — boom-and-bust revenue, not a steady compounder.
 - ✅ Growth is holding up: 57% a year earlier, 26% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 84 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 84 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -13% · lagged | +221% · gained strongly |
+| last 3 years | +219% · gained strongly | +287% · gained strongly | +520% · gained strongly |
+| last 1 year | +2% · moved with | +48% · gained strongly | +67% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +629% ┤
+        │                                                ◆┓
+        │                                               ┏┛┗┓
+        │                                              ┏┛  ┗┓
+  +367% ┤                                             ┏┛    ┗━┓
+        │                                            ┏┛       ┗┓
+        │              ┏━◆┓                         ┏┛         ┗┓
+  +105% ┤◆━━━┓      ┏━━┛  ┗━┓            ■═══════■═══════■═══╗  ┗┓
+        │■═══════■════╗┈┈┈┈┈┗━┓┈┈┈┈┈┈┈┏╔═╝┈┗━━━━┓●┏┛──╯┈┈┈┈┈┈╚═══■┈┈
+        │             ╚══■╗   ┗┓     ┏╔╝ ●───╯  ┗◆┛
+  -157% ┤                 ╚══╗ ┗━┓┏━━╔╝
+        │                    ╚╗  ◆┛ ╔╝
+        │                     ╚══╗╔═╝
+        │                        ■╝
+  -419% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY17    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     -36.5   +31.1  +139.5   +1.7
+◆      +76.1   +21.8  +176.3  -178.7  +128.5   -60.2  +556.9   +47.9
+■      +67.5   +29.3   -9.4   -346.9  +121.0  +107.6   +79.3   +66.5
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CARTRADE_stock_to_index.md`](CARTRADE_stock_to_index.md), with the same graph as [`CARTRADE_stock_to_index.svg`](CARTRADE_stock_to_index.svg) and [`CARTRADE_stock_to_index.mmd`](CARTRADE_stock_to_index.mmd).
+
 ## What to watch
 
 - Organic traffic share: any fall from the 95% level would hit Brand Strength, Network effects and Low Price Plus all at once, and would confirm the Technological Innovation risk from AI-driven search.
@@ -456,5 +509,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -15,15 +15,16 @@ Quess Corp is an Indian outsourcing company that rents out people: it hires work
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 45 out of 100 ★★☆☆☆
+## The verdict: Mixed — 41 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (57/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Technological Innovation, Good Enough Goods). Weighing those together gives 45 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (57/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Technological Innovation, Good Enough Goods). Against the Nifty 50 it has lagged the index badly (7/100). Weighing those together gives 41 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 57 (business quality) + 30% × 18 (multibagger fit) + 25% × 56 (risk safety) = 45 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 57 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 56 (risk safety) + 10% × 7 (relative to the index) = 41 out of 100 → Mixed (2 stars).
 
 - **Business quality (57/100):** The 34-check quality framework scored the business +0.28 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 57 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (56/100):** started from a clean 100; 2 elevated (−20); 3 worth watching (−12); 1 numbers-only flag (−4); the balance sheet shows one stress signal (−8) → 56 of 100.
+- **Relative to the index (7/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -1.71 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 7 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -428,6 +429,57 @@ FY2026  ██████                     19 days  ▼ 18 days vs prior yea
 - ✅ Sales fell in only 1 of the last 10 years with swings of ±19 points — no pronounced boom-and-bust signature in revenue.
 - ⚠️ Growth has stalled: sales compounded at 34% a year in the first half of the record but only 6% recently — demand may be structurally fading.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 7 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -1.71 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 7 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -81% · lagged badly | -29% · lagged badly |
+| last 5 years | — | — | -80% · lagged badly |
+| last 3 years | — | -88% · lagged badly | -65% · lagged badly |
+| last 1 year | — | -86% · lagged badly | +9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +227% ┤
+        │                                               ┏◆┓
+        │                                          ┏━━━━┛ ┗━┓
+        │               ┏◆┓                      ◆━┛        ┗┓
+  +102% ┤          ┏━━━━┛ ┗━━┓                  ┏┛           ┗┓
+        │     ╔══■═══╗       ┗┓                 ┃             ┗┓
+        │■════╝┈┈┈┈┈┈╚═══■═══════■═══════■══╗┈┈┏┛┈┈┈┈┈┈╔═■════╗┗━┓┈┈┈┏━━━◆━┓┈┈┈╔═■┈┈
+   -24% ┤                        ◆┓         ╚══╗    ╔══╝      ╚══■═══╗     ┗╔══╝
+        │                         ┗━┓        ┏┛╚═■══╝                ╚═══■══╝┗━━┓
+        │                           ┗┓      ┏┛                                  ┗◆
+  -149% ┤                            ┗┓    ┏┛
+        │                             ┗┓   ┃
+        │                              ┗━┓┏┛
+        │                                ◆┛
+  -274% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +14.0   +54.8  +135.3   -15.3  -239.8  +111.5  +192.5   -29.3   +13.8   -85.6
+■      +14.3   +60.1   +20.7   +23.0   +28.3   -48.7   +14.1   -16.7   -62.0   +9.3
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`QUESS_stock_to_index.md`](QUESS_stock_to_index.md), with the same graph as [`QUESS_stock_to_index.svg`](QUESS_stock_to_index.svg) and [`QUESS_stock_to_index.mmd`](QUESS_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Technological Innovation risk eases or deepens.
@@ -440,5 +492,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

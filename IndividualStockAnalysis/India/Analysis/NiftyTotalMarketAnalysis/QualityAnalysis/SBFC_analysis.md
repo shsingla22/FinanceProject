@@ -13,15 +13,16 @@ SBFC Finance is an Indian non-bank lender (an NBFC listed on the NSE and BSE, he
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 46 out of 100 ★★☆☆☆
+## The verdict: Decent — 51 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (57/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Good Enough Goods). Weighing those together gives 46 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (57/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Good Enough Goods). Against the Nifty 50 it has gained strongly on the index (90/100). Weighing those together gives 51 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 57 (business quality) + 30% × 15 (multibagger fit) + 25% × 64 (risk safety) = 46 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 57 (business quality) + 27% × 15 (multibagger fit) + 22.5% × 64 (risk safety) + 10% × 90 (relative to the index) = 51 out of 100 → Decent (3 stars).
 
 - **Business quality (57/100):** The 34-check quality framework scored the business +0.30 on its −2 (poor) to +2 (excellent) scale, with 79% of checks backed by evidence; mapped onto 0–100 that is 57 points.
 - **Multibagger fit (15/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Corporate Culture) (+15) → 15 of 100.
 - **Risk safety (64/100):** started from a clean 100; 1 high risk (Good Enough Goods) (−20); 4 worth watching (−16) → 64 of 100.
+- **Relative to the index (90/100):** Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +1.60 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 90 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -355,6 +356,58 @@ In one breath: the quality framework finds an average business today (57/100); i
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 90 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +1.60 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 90 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | +230% · gained strongly | +235% · gained strongly |
+| last 1 year | -7% · moved with | +32% · gained strongly | +36% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +107% ┤
+        │◆┓
+        │ ┗┓
+        │■╗┗┓
+   +77% ┤ ╚═╗┓
+        │   ╚╗┓
+        │    ╚═╗
+   +46% ┤      ╚═╗
+        │       ┗■═══════■
+        │        ◆━━━━━━━◆
+   +15% ┤
+        │
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈●────╮┈┈┈┈┈
+        │                     ╰──●
+   -15% ┤
+        └┬───────┬───────┬───────┬──
+       FY23    FY24    FY25    FY26
+
+●        ·       ·     +0.0    -7.0
+◆      +99.0   +25.8   +31.9     ·
+■      +76.8   +38.9   +36.3     ·
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SBFC_stock_to_index.md`](SBFC_stock_to_index.md), with the same graph as [`SBFC_stock_to_index.svg`](SBFC_stock_to_index.svg) and [`SBFC_stock_to_index.mmd`](SBFC_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Good Enough Goods risk eases or deepens.
@@ -366,5 +419,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -14,15 +14,16 @@ Kaynes Technology is an Indian electronics contract manufacturer — what the in
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 38 out of 100 ★★☆☆☆
+## The verdict: Mixed — 43 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (49/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 38 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (49/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (81/100). Weighing those together gives 43 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 49 (business quality) + 30% × 18 (multibagger fit) + 25% × 44 (risk safety) = 38 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 49 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 44 (risk safety) + 10% × 81 (relative to the index) = 43 out of 100 → Mixed (2 stars).
 
 - **Business quality (49/100):** The 34-check quality framework scored the business -0.03 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 49 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (44/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 2 worth watching (−8); the balance sheet shows one stress signal (−8) → 44 of 100.
+- **Relative to the index (81/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 81 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -394,6 +395,58 @@ FY2026  ██████████████████████    19
 - ✅ Sales fell in only 0 of the last 7 years with swings of ±26 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 33% a year earlier, 48% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 81 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 81 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +1234% · gained strongly | +583% · gained strongly |
+| last 3 years | +168% · gained strongly | +143% · gained strongly | +177% · gained strongly |
+| last 1 year | -27% · lagged badly | +9% · moved with | +36% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +198% ┤
+        │                ◆┓
+        │               ┏┛┗━┓
+  +138% ┤               ┃   ┗┓           ●╮
+        │              ┏┛    ┗━┓          ╰─╮
+        │             ┏┛       ┗━┓          ╰╮
+        │            ┏┛          ◆━━┓        ╰─╮
+   +77% ┤            ┃              ┗━━┓       ╰─╮
+        │           ┏┛  ╔■════╗        ┗━◆━━━━┓╔═■════╗
+        │          ┏┛  ╔╝     ╚══■═══╗      ╔══╝━◆━┓╮ ╚══■
+   +17% ┤          ┃╔══╝             ╚═══■══╝      ┗━━━━┓
+        │■═══╗┈┈┈┈┏╔╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮┗◆┈┈
+        │◆━━━╚═══■═╝                                   ╰─╮
+        │                                                ●
+   -43% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·    +138.4   +53.6   -26.7
+◆      -8.1    -7.6   +181.4   +95.0   +53.4   +45.1   +9.2
+■      +15.8   -11.5   +67.9   +46.9   +33.4   +52.8   +35.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KAYNES_stock_to_index.md`](KAYNES_stock_to_index.md), with the same graph as [`KAYNES_stock_to_index.svg`](KAYNES_stock_to_index.svg) and [`KAYNES_stock_to_index.mmd`](KAYNES_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Government Dependency risk eases or deepens.
@@ -407,5 +460,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

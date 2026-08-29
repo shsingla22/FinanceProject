@@ -15,15 +15,16 @@ Anant Raj Limited is a family-run Indian property developer (in the construction
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 28 out of 100 ★☆☆☆☆
+## The verdict: Mixed — 35 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (52/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 28 out of 100 — weak.
+In one breath: the quality framework finds an average business today (52/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained strongly on the index (92/100). Weighing those together gives 35 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 52 (business quality) + 30% × 10 (multibagger fit) + 25% × 8 (risk safety) = 28 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 52 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 8 (risk safety) + 10% × 92 (relative to the index) = 35 out of 100 → Mixed (2 stars).
 
 - **Business quality (52/100):** The 34-check quality framework scored the business +0.09 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 52 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (8/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 4 elevated (−40); 1 numbers-only flag (−4); the balance sheet shows one stress signal (−8) → 8 of 100.
+- **Relative to the index (92/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 92 points.
 
 ### The story in depth
 
@@ -431,6 +432,58 @@ FY2026  ██████                     26 days  ▲ 4 days vs prior year
 
 - ✅ Growth is holding up: -10% a year earlier, 59% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 92 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 92 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +856% · gained strongly | +123% · gained strongly | +68% · gained strongly |
+| last 5 years | +355% · gained strongly | +2176% · gained strongly | +837% · gained strongly |
+| last 3 years | +150% · gained strongly | +138% · gained strongly | +173% · gained strongly |
+| last 1 year | -16% · lagged | +15% · gained | +31% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +372% ┤
+        │                                        ●╮
+        │                                       ╭╯╰╮     ◆┓
+        │                                       │  │    ┏┛┗━┓
+  +254% ┤                                      ╭╯  ╰╮   ┃   ┗━┓
+        │                                     ╭╯    ╰╮ ┏┛     ┗┓
+        │                                    ╭╯      ╰┏┛       ┗━┓
+  +135% ┤                                    │        ┃╮         ◆━┓
+        │                                   ╭╯       ┏┛╰╮    ╔═══■══╗━┓──●──╮
+        │                                  ╭╯       ┏┛  ╔■═══╝  ╭●──╚══╗┓   ╰──╮
+   +17% ┤    ╭───●────╮                    │       ┏┛╔══╝╮ ╭────╯      ╚═■═══════■═══════■
+        │●───╯╔══■═══╗━━━◆━━━┓┈┈┈┈┈┈┈┈┈┈┈┈╭╯┈┈┈┈┈┈┈╔═╝┈┈┈●─╯┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗━━◆┈┈
+        │■════╝━┛    ╚═══■═══════■═══════■═══════■═╝
+        │◆━┛                                  ┗━━◆┛
+  -101% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -13.8   +22.1   -15.5   -34.7   -29.2  +339.7   +3.7    +75.5  +103.7   +46.7   -16.3
+◆      -53.2   +2.4    -10.7   -43.9   -38.7   -68.8  +294.6  +142.4   +44.8   +42.4   +15.3
+■      -48.1   +2.1    -21.4   -45.4   -32.8   -39.0   +61.2  +112.7   +49.6   +39.0   +31.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ANANTRAJ_stock_to_index.md`](ANANTRAJ_stock_to_index.md), with the same graph as [`ANANTRAJ_stock_to_index.svg`](ANANTRAJ_stock_to_index.svg) and [`ANANTRAJ_stock_to_index.mmd`](ANANTRAJ_stock_to_index.mmd).
+
 ## What to watch
 
 - Cash return on capital: the headline check is -7% this year while capex runs hard toward 63MW by December 2026 and 117MW by FY28 - the verdict changes if operating cash turns positive as the paid-for megawatts fill, or gets worse if it does not.
@@ -447,5 +500,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

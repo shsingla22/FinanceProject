@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (58/100). Last one year: Decent (55/100). The last year looks WEAKER than the long-term picture (-3 points) — the company has declined in the recent period.
+Long-term view: Decent (57/100). Last one year: Decent (54/100). The last year looks WEAKER than the long-term picture (-3 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 72 | 70 | -2 |
 | Multibagger fit | 35 | 27 | -8 |
 | Risk safety | 60 | 60 | +0 |
+| Relative to the index | 50 | 50 | +0 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -92,6 +93,20 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 6 unchanged; 1 carried f
 *Not comparable: New Entrants (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Sound on the long view (the only stress check that could be computed is clean.) vs Sound on the one-year view (the only stress check that could be computed is clean.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **MOVED WITH the index** (50/100). Looking only at the latest year, it has **MOVED WITH the index** (50/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | — | — |
+| last 1 year | — | -5% · moved with | +4% · moved with |
+
 
 ## How this comparison was built
 

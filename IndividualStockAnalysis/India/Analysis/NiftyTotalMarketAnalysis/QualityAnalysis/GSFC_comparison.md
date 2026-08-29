@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Weak (24/100). Last one year: Weak (28/100). The last year looks STRONGER than the long-term picture (+4 points) — the company has improved in the recent period.
+Long-term view: Weak (24/100). Last one year: Weak (31/100). The last year looks STRONGER than the long-term picture (+7 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 41 | 42 | +1 |
 | Multibagger fit | 0 | 0 | +0 |
 | Risk safety | 24 | 36 | +12 |
+| Relative to the index | 16 | 62 | +46 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -95,6 +96,20 @@ Genuinely re-tested risk verdicts: 2 eased, 0 worsened, 3 unchanged; 3 carried f
 *Unchanged: Cyclicality (HIGH RISK); Government Dependency (HIGH RISK); Stakeholder Concentration (WATCH).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (16/100). Looking only at the latest year, it has **GAINED on the index** (62/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -55% · lagged badly | -58% · lagged badly |
+| last 5 years | — | -45% · lagged badly | -31% · lagged badly |
+| last 3 years | — | -66% · lagged badly | -59% · lagged badly |
+| last 1 year | — | +0% · moved with | +22% · gained |
+
 
 ## How this comparison was built
 

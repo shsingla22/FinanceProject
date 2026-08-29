@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Weak (28/100). Last one year: Mixed (36/100). The last year looks STRONGER than the long-term picture (+8 points) — the company has improved in the recent period.
+Long-term view: Mixed (35/100). Last one year: Mixed (42/100). The last year looks STRONGER than the long-term picture (+7 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 39 | 42 | +3 |
 | Multibagger fit | 10 | 26 | +16 |
 | Risk safety | 30 | 36 | +6 |
+| Relative to the index | 100 | 100 | +0 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -109,6 +110,20 @@ Genuinely re-tested risk verdicts: 3 eased, 1 worsened, 3 unchanged; 1 carried f
 *Unchanged: Government Dependency (HIGH RISK); Technological Innovation (WATCH); Shifting Consumer Preferences (LOW).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (100/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (100/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +748% · gained strongly | +726% · gained strongly |
+| last 3 years | — | +193% · gained strongly | +278% · gained strongly |
+| last 1 year | — | +38% · gained strongly | +67% · gained strongly |
+
 
 ## How this comparison was built
 

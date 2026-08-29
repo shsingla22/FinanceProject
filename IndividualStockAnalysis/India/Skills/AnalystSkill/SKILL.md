@@ -3,12 +3,13 @@ name: analyst-skill
 description: >
   The orchestrator: executes every sibling analysis skill in this folder —
   BusinessAnalysis (34-check quality framework), MultibaggerPattern (11
-  patterns long-term winners share) and QualityRisks (8 channels through
-  which quality companies fail) — on one company and composes their
-  explainable records into ONE coherent analyst's report: an AI-written
-  grounded summary that connects the three analyses, a combined 0–100
-  rating with every point earned or lost listed, the three evidence
-  sections, and a what-to-watch list. Use when asked for a complete,
+  patterns long-term winners share), QualityRisks (8 channels through
+  which quality companies fail) and StockToIndexPriceEarningsRatio (price,
+  profit after tax and operating profit measured against the Nifty 50) —
+  on one company and composes their explainable records into ONE coherent
+  analyst's report: an AI-written grounded summary that connects the
+  analyses, a combined 0–100 rating with every point earned or lost
+  listed, the evidence sections, and a what-to-watch list. Use when asked for a complete,
   single-document analysis of a company.
 license: internal
 ---
@@ -101,3 +102,49 @@ what evidence each skill ran on.
   UI layer (`UserInterface/build_data.py`) — one source of truth.
 - The summary can only connect what the records contain; it never adds
   outside knowledge, and the grounding gate enforces that mechanically.
+
+
+## The combined rating
+
+Four pillars, weighted:
+
+| Pillar | Weight | From |
+|---|---|---|
+| Business quality | 40.5% | BusinessAnalysis |
+| Multibagger fit | 27% | MultibaggerPattern |
+| Risk safety | 22.5% | QualityRisks |
+| Relative to the index | 10% | StockToIndexPriceEarningsRatio |
+
+The first three keep their historic 45/30/25 proportions, scaled to 90%
+so the index pillar takes exactly 10%. `compute_rating` re-normalises
+over whatever can actually be scored, so a company whose stored history
+is too short to compare with the index falls back to the original
+45/30/25 split rather than being marked down for missing data.
+
+The index pillar scores the change in the company-to-index ratio over
+the last 10, 5, 3 and 1 fiscal years, on the same −2..+2 scale the
+34-check framework uses, mapped onto 0–100. It reads stored data only —
+no AI call, no network.
+
+### Wiring
+
+It arrives through the extensibility contract in `scripts/registry.py`:
+`StockToIndexPriceEarningsRatio/analyst_interface.py` declares the
+pillar, its 10% weight and its report section, so the analyst picks it
+up automatically. Nothing in the orchestrator hard-codes it.
+
+### Back-filling the stored reports
+
+`scripts/add_relative_index.py` folds the new pillar into reports that
+already exist, instead of re-running thousands of judge calls for
+verdicts that have not changed. It rescores the headline, adds the
+fourth pillar bullet and Section 4 to `{SYM}_analysis.md`, and adds the
+pillar row and Bucket 4 to `{SYM}_comparison.md`. It is idempotent —
+running it twice gives the same file as running it once — and it only
+ever adds: every existing verdict, quote, chart and derivation is kept.
+
+```bash
+python3 scripts/add_relative_index.py            # all 742 companies
+python3 scripts/add_relative_index.py --symbols DIXON,TITAN
+python3 -m pytest tests/ -q                      # 56 tests
+```

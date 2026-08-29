@@ -18,13 +18,14 @@ Tamilnad Mercantile Bank (TMB) is a 105-year-old Indian private sector bank, hea
 
 ## The verdict: Decent — 51 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 51 out of 100 — decent.
+In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has moved with the index (54/100). Weighing those together gives 51 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 15 (multibagger fit) + 25% × 76 (risk safety) = 51 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 15 (multibagger fit) + 22.5% × 76 (risk safety) + 10% × 54 (relative to the index) = 51 out of 100 → Decent (3 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.45 on its −2 (poor) to +2 (excellent) scale, with 76% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (15/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Corporate Culture) (+15) → 15 of 100.
 - **Risk safety (76/100):** started from a clean 100; 6 worth watching (−24) → 76 of 100.
+- **Relative to the index (54/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
 
 ### The story in depth
 
@@ -353,6 +354,57 @@ The weak spots cluster where the quality framework scores zero: competitive adva
 - ⬜ Not enough margin history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 54 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -19% · lagged | +179% · gained strongly |
+| last 3 years | — | -18% · lagged | +3% · moved with |
+| last 1 year | — | -1% · moved with | +24% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +187% ┤
+        │        ■╗
+        │       ╔╝╚═╗
+  +132% ┤      ╔╝   ╚╗
+        │     ╔╝     ╚═╗
+        │    ╔╝        ╚═╗
+        │   ╔╝           ■═╗            ╔■╗
+   +77% ┤  ╔╝              ╚═╗        ╔═╝ ╚╗
+        │ ╔╝    ┏◆━━┓        ╚══╗  ╔══╝    ╚╗
+        │■╝   ┏━┛   ┗━━┓        ╚■═╝        ╚╗
+   +23% ┤  ┏━━┛        ┗━◆━━┓                ╚═╗               ╔═■
+        │◆━┛                ┗━━┓      ┏━━◆━┓   ╚╗           ╔══╝
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗━◆━━━━┛┈┈┈┈┗━━━━╚╗┈┈┈╔═══■══╝━━━━◆┈┈
+        │                                       ┗■═══╝
+   -32% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +8.0    +60.9   +22.9   -8.7    +7.9    -17.1   -0.0    -0.6
+■      +38.8  +171.9   +86.2   +40.4   +94.0   -11.1   -7.1    +24.1
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TMB_stock_to_index.md`](TMB_stock_to_index.md), with the same graph as [`TMB_stock_to_index.svg`](TMB_stock_to_index.svg) and [`TMB_stock_to_index.mmd`](TMB_stock_to_index.mmd).
+
 ## What to watch
 
 - Gold prices: gold loans are 46.44% of advances and the Cyclicality risk turns on a price management says may stall — test the stated ability to absorb a 20-25% fall.
@@ -369,5 +421,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

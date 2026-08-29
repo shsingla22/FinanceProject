@@ -71,7 +71,7 @@ def render(rated: list, unrated: list) -> str:
     A("")
     A(f"**{len(rated)} rated companies** (plus {len(unrated)} honestly not "
       f"rated), ranked by the AnalystSkill's combined rating out of 100 — "
-      f"business quality 45%, multibagger-pattern fit 30%, risk safety 25% "
+      f"business quality 40.5%, multibagger-pattern fit 27%, risk safety 22.5% and how the company has done against the Nifty 50 10% (a company the index comparison cannot reach keeps the original 45/30/25 split) "
       f"— with each company's one-year direction from its ComparisonSkill "
       f"report. Generated {stamp} from the report pairs stored in this "
       f"folder; every score and arrow traces to the company's own two "

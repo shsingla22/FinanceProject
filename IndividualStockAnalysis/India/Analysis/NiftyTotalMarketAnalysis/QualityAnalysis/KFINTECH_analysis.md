@@ -16,15 +16,16 @@ KFin Technologies is an Indian record-keeping and back-office services company �
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Outstanding — 80 out of 100 ★★★★★
+## The verdict: Strong — 79 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 5 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Weighing those together gives 80 out of 100 — outstanding.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 5 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Against the Nifty 50 it has gained on the index (68/100). Weighing those together gives 79 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 100 (multibagger fit) + 25% × 74 (risk safety) = 80 out of 100 → Outstanding (5 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 100 (multibagger fit) + 22.5% × 74 (risk safety) + 10% × 68 (relative to the index) = 79 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.80 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (100/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 5 patterns fit strongly (Toll Roads, Innovation Dominance, Market Share Gainers, Corporate Culture…) (+75); 2 likely (+16); 2 numbers-only hints (+6) → 100 of 100. (Capped at 100.)
 - **Risk safety (74/100):** started from a clean 100; 1 elevated (−10); 4 worth watching (−16) → 74 of 100.
+- **Relative to the index (68/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.71 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 68 points.
 
 ### The story in depth
 
@@ -421,6 +422,58 @@ FY2026  ████████                   76 days  ▲ 12 days vs prior
 - ✅ Operating margin held (about 40% then 43%) — no drift down under competition.
 - ✅ Growth is holding up: 45% a year earlier, 22% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 68 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.71 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 68 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | +25% · gained |
+| last 3 years | +135% · gained strongly | +11% · gained | +46% · gained strongly |
+| last 1 year | -14% · lagged | -9% · moved with | +9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +368% ┤
+        │                ◆━┓
+        │■════╗         ┏┛ ┗━━━━┓        ●────╮
+        │◆┓┈┈┈╚══■═══════■═══════■═══════■═══════■═══════■┈┈
+   -48% ┤ ┗┓           ┏┛
+        │  ┃           ┃
+        │  ┗┓         ┏┛
+  -464% ┤   ┗┓       ┏┛
+        │    ┗┓     ┏┛
+        │     ┗┓    ┃
+  -880% ┤      ┗┓  ┏┛
+        │       ┃  ┃
+        │       ┗┓┏┛
+        │        ◆┛
+-1,296% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     +75.0   +55.9   -13.7
+◆      -43.3  -1181.2 +253.6   +13.4   -0.1    +22.7   -9.2
+■     +133.6   +20.8   +0.9    -15.1   +7.8    +24.2   +9.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KFINTECH_stock_to_index.md`](KFINTECH_stock_to_index.md), with the same graph as [`KFINTECH_stock_to_index.svg`](KFINTECH_stock_to_index.svg) and [`KFINTECH_stock_to_index.mmd`](KFINTECH_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the revenue gap under 'Good Enough Goods' closes — assets grew ~21% in FY26 but revenue only ~11% after the April-2025 discounts; a repeat would mean share is being bought rather than won.
@@ -436,5 +489,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

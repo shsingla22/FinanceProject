@@ -15,15 +15,16 @@ Gallantt Ispat is an Indian integrated steel maker that turns iron ore into fini
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 46 out of 100 ★★☆☆☆
+## The verdict: Decent — 50 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 46 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained strongly on the index (92/100). Weighing those together gives 50 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 18 (multibagger fit) + 25% × 52 (risk safety) = 46 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 92 (relative to the index) = 50 out of 100 → Decent (3 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.43 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (52/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 1 worth watching (−4); 1 numbers-only flag (−4) → 52 of 100.
+- **Relative to the index (92/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 92 points.
 
 ### The story in depth
 
@@ -413,6 +414,58 @@ FY2026  ████████████████           58 days  ▲ 
 
 - ✅ Growth is holding up: 6% a year earlier, 34% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 92 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 92 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +565% · gained strongly | +194% · gained strongly | +281% · gained strongly |
+| last 5 years | +667% · gained strongly | +119% · gained strongly | +222% · gained strongly |
+| last 3 years | +642% · gained strongly | +118% · gained strongly | +61% · gained strongly |
+| last 1 year | +46% · gained strongly | +6% · moved with | +2% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +238% ┤
+        │                                        ■╗
+        │                                       ╔╝╚═╗
+        │                                       ║  ┗╚╗                   ●─╮
+  +153% ┤                                      ╔╝   ┗╚═╗                ╭╯ ╰──╮
+        │                                      ║      ┗╚═╗             ╭╯     ╰─╮
+        │                                     ╔╝       ┗┓■═╗         ╭─╯        ╰●──╮
+   +68% ┤                ■═╗━┓               ╔╝         ┗┓ ╚╗       ╭╯          ┏◆━┓╰──╮
+        │    ╭───●─╮  ╔══╝ ╚════╗◆┓         ╔╝  ╭●────╮  ◆━┓╚══╗   ╭╯      ┏━╔═══■══╗━┓╰─●
+        │◆━┓─╯     ╰─╔╝         ╚■╗━┓       ║  ╭╯     ╰──●─┗━┓ ╚╗ ╭╯  ╔══■═══╝      ╚══╗┓
+   -17% ┼■════╗━┓┈╔══╝──╮┈┈╭────╯┈╚══╗┓┈┈┈┈╔╝──╯┈┈┈┈┈┈┈┈┈┈┈┈┈┗━━╚■════╝━┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚═■┈┈
+        │     ╚══■╝     ╰●─╯         ╚╗┓╮  ║╯                   ┗◆━┛
+        │                             ╚══●╔╝
+        │                                ■╝
+  -102% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +18.2   +31.6   -17.1   +10.8   -52.4   +50.7   +18.2   -12.6  +175.7   +84.5   +45.9
+◆      +28.4   -22.1   +70.4   +52.9   -78.4  +206.2   +45.6   -30.9   +27.1   +61.5   +6.1
+■      -3.5    -21.8   +66.6   +16.3   -75.2  +214.2   +98.0   +0.9    +8.6    +46.2   +1.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GALLANTT_stock_to_index.md`](GALLANTT_stock_to_index.md), with the same graph as [`GALLANTT_stock_to_index.svg`](GALLANTT_stock_to_index.svg) and [`GALLANTT_stock_to_index.mmd`](GALLANTT_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the four captive mines actually reach production by the FY28 target and deliver the roughly INR 2,000 per tonne of extra profit claimed — this is the 'Government Dependency' high risk and the only real support under the 'Cost to Replicate' pattern.
@@ -428,5 +481,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

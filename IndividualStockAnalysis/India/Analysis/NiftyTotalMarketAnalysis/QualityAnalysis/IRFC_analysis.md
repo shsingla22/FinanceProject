@@ -14,15 +14,16 @@ IRFC (Indian Railway Finance Corporation) is a government-owned Indian finance c
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 38 out of 100 ★★☆☆☆
+## The verdict: Mixed — 39 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (48/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Government Dependency, Stakeholder Concentration). Weighing those together gives 38 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (48/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Government Dependency, Stakeholder Concentration). Against the Nifty 50 it has moved with the index (52/100). Weighing those together gives 39 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 48 (business quality) + 30% × 15 (multibagger fit) + 25% × 48 (risk safety) = 38 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 48 (business quality) + 27% × 15 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 52 (relative to the index) = 39 out of 100 → Mixed (2 stars).
 
 - **Business quality (48/100):** The 34-check quality framework scored the business -0.08 on its −2 (poor) to +2 (excellent) scale, with 74% of checks backed by evidence; mapped onto 0–100 that is 48 points.
 - **Multibagger fit (15/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Low Price Plus) (+15) → 15 of 100.
 - **Risk safety (48/100):** started from a clean 100; 2 high risks (Government Dependency, Stakeholder Concentration) (−40); 3 worth watching (−12) → 48 of 100.
+- **Relative to the index (52/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.09 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 52 points.
 
 ### The story in depth
 
@@ -345,6 +346,58 @@ Two things the records do not settle are worth naming. Resilience is marked UNKN
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 52 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.09 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 52 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +131% · gained strongly | +25% · gained strongly |
+| last 5 years | +132% · gained strongly | -42% · lagged badly | -21% · lagged |
+| last 3 years | +147% · gained strongly | -30% · lagged badly | -9% · moved with |
+| last 1 year | -29% · lagged badly | -5% · moved with | +5% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +356% ┤
+        │                                                                ●╮
+        │                                                               ╭╯╰╮
+        │                                                               │  │
+  +253% ┤                                                              ╭╯  ╰╮
+        │                                                             ╭╯    │
+        │                                                            ╭╯     ╰╮
+  +149% ┤                                                           ╭╯       ╰╮
+        │               ┏◆━┓                                       ╭╯         ╰╮
+        │              ┏┛  ┗┓                                      │           │
+   +46% ┤           ┏━━┛    ┗━━┓                                  ╭╯           ╰╮
+        │          ┏┛ ╔══■═══╗ ┗┓     ┏━━◆━━━┓╔══■═══╗          ╭●╯             │
+        │■═══════■════╝┈┈┈┈┈┈╚═══■═══════■════╝━━◆━━━╚═══■════╗━━◆━━━╔═══■═══════■═══════■┈┈
+        │                                                ●─╯  ╚══■═══╝┗━━◆━━━┛   ●───────●
+   -57% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·       ·     -19.9   +17.4  +327.7   -18.8   -28.9
+◆      +6.3    +3.7   +126.2   +1.6    +44.6   +15.1   -7.6    -10.3   -19.4   -8.1    -5.3
+■      -3.1    +8.5    +22.4   -10.4   +6.7    +25.4   +2.5    -15.1   -10.3   -4.3    +5.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`IRFC_stock_to_index.md`](IRFC_stock_to_index.md), with the same graph as [`IRFC_stock_to_index.svg`](IRFC_stock_to_index.svg) and [`IRFC_stock_to_index.mmd`](IRFC_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the 100-120bps spread on ecosystem lending holds — Low Price Plus and the Good Enough Goods risk both say IRFC wins by undercutting, and 7-15 bidders per deal can compress it back toward legacy levels.
@@ -360,5 +413,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

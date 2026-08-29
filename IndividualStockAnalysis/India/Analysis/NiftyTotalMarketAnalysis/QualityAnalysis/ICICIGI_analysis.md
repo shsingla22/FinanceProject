@@ -23,13 +23,14 @@ ICICI Lombard is an Indian general (non-life) insurance company — it sells pol
 
 ## The verdict: Strong — 65 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (71/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 65 out of 100 — strong.
+In one breath: the quality framework finds a good business today (71/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (57/100). Weighing those together gives 65 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 71 (business quality) + 30% × 63 (multibagger fit) + 25% × 58 (risk safety) = 65 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 71 (business quality) + 27% × 63 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 57 (relative to the index) = 65 out of 100 → Strong (4 stars).
 
 - **Business quality (71/100):** The 34-check quality framework scored the business +0.83 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 71 points.
 - **Multibagger fit (63/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Recurring Revenue (Product Upfront), Corporate Culture) (+30); 1 likely (+8) → 63 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12) → 58 of 100.
+- **Relative to the index (57/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 57 points.
 
 ### The story in depth
 
@@ -457,6 +458,58 @@ FY2026  █                           0 days  ▬ 0 days vs prior year
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±20 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 19% a year earlier, 17% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 57 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 57 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +53% · gained strongly | +72% · gained strongly |
+| last 5 years | -27% · lagged badly | -31% · lagged badly | -10% · moved with |
+| last 3 years | +20% · gained | +2% · moved with | +142% · gained strongly |
+| last 1 year | -3% · moved with | -3% · moved with | +8% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +669% ┤
+        │                        ■╗
+        │                       ╔╝╚╗
+        │                       ║  ║
+  +455% ┤■╗                    ╔╝  ╚╗
+        │ ╚╗                   ║    ╚╗
+        │  ╚╗                 ╔╝     ╚╗
+  +241% ┤   ╚╗               ╔╝       ╚╗
+        │    ╚═╗            ╔╝         ╚╗
+        │      ╚╗           ║           ║
+   +26% ┤    ┏━━╚◆━━━━┓    ╔╝        ╭──╚●────╮                      ╔═══■════╗
+        │◆━━━┛┈┈┈■═╗┈┈┗━━◆━║━━━━━◆━━━━━━━■═══════■═══╗───●────╔══■═══╝━━━◆━━━━╚══■═══════■┈┈
+        │          ╚════╗ ╔╝                         ╚═══■════╝
+        │               ╚■╝
+  -188% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     +15.8   +28.2   -10.7   -20.7   -23.8   +25.9   -1.1    -3.2
+◆      -17.8   +30.5   +26.2   +12.7   +16.2   +2.6    -42.2   +17.3   -11.6   +18.4   -2.9
+■     +428.7   +19.3  -128.7  +609.9   +3.0    +5.9    -63.6   +2.1    +85.3   +21.2   +7.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ICICIGI_stock_to_index.md`](ICICIGI_stock_to_index.md), with the same graph as [`ICICIGI_stock_to_index.svg`](ICICIGI_stock_to_index.svg) and [`ICICIGI_stock_to_index.mmd`](ICICIGI_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether retail health keeps compounding at the pace behind the Market Share Gainers pattern (3.3% → 4.5% share, 51.1% then 69.5% growth) — if it slows while headline premium still lags industry, the growth score of 0.4 stops being a deliberate choice and starts being a limitation.
@@ -472,5 +525,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

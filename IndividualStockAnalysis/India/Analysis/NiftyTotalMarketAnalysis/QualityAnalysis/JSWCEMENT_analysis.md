@@ -17,13 +17,14 @@ JSW Cement makes and sells building materials in India — mainly bagged/bulk ce
 
 ## The verdict: Decent — 51 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (65/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 51 out of 100 — decent.
+In one breath: the quality framework finds a good business today (65/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 51 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 65 (business quality) + 30% × 34 (multibagger fit) + 25% × 46 (risk safety) = 51 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 65 (business quality) + 27% × 34 (multibagger fit) + 22.5% × 46 (risk safety) + 10% × 50 (relative to the index) = 51 out of 100 → Decent (3 stars).
 
 - **Business quality (65/100):** The 34-check quality framework scored the business +0.61 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 65 points.
 - **Multibagger fit (34/100):** the foundation test partly passed (+10); 3 likely (+24) → 34 of 100.
 - **Risk safety (46/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 3 elevated (−30); 1 numbers-only flag (−4) → 46 of 100.
+- **Relative to the index (50/100):** Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -422,6 +423,57 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒      -136 days
 - ✅ Sales fell in only 1 of the last 6 years with swings of ±14 points — no pronounced boom-and-bust signature in revenue.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | -25% · lagged badly |
+| last 3 years | — | — | +54% · gained strongly |
+| last 1 year | — | -328% · lagged badly | +98% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +133% ┤
+        │                                        ■
+        │                                     ╔══╝
+        │■═╗                  ╔══■═╗         ╔╝
+    +6% ┼┈┈╚════╗┈┈┈┈╔═══■════╝┈┈┈┈╚════╗┈╔══╝┈┈┈┈┈┈
+        │       ╚■═══╝━━━◆━━━━━━━◆┓     ╚■╝
+        │                         ┗┓
+  -121% ┤                          ┗┓
+        │                           ┗┓
+        │                            ┗┓
+  -248% ┤                             ┗┓
+        │                              ┗┓
+        │                               ┗┓
+        │                                ◆━━━━━━━◆
+  -375% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬──
+       FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +35.0   -37.5   -61.5   -52.5  -339.7  -328.2
+■      +24.5   -32.3   -28.0   +13.5   -31.7   +98.3
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`JSWCEMENT_stock_to_index.md`](JSWCEMENT_stock_to_index.md), with the same graph as [`JSWCEMENT_stock_to_index.svg`](JSWCEMENT_stock_to_index.svg) and [`JSWCEMENT_stock_to_index.mmd`](JSWCEMENT_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the ₹2,000 crore-plus annual growth capex starts producing returns — the Return on Capital area is the only negative one, incremental returns are called unproven, and grinding utilisation is still 62%.
@@ -438,5 +490,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

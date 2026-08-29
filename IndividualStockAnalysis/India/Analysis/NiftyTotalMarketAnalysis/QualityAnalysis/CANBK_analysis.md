@@ -24,15 +24,16 @@ Canara Bank is an Indian government-linked (public sector) bank headquartered at
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 50 out of 100 ★★★☆☆
+## The verdict: Decent — 56 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (45/100); the risk review found 1 high risk (Government Dependency). Weighing those together gives 50 out of 100 — decent.
+In one breath: the quality framework finds an average business today (45/100); the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (89/100). Weighing those together gives 56 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 64% × 45 (business quality) + 36% × 60 (risk safety) = 50 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 55.5% × 45 (business quality) + 30.8% × 60 (risk safety) + 13.7% × 89 (relative to the index) = 56 out of 100 → Decent (3 stars).
 
 - **Business quality (45/100):** The 34-check quality framework scored the business -0.21 on its −2 (poor) to +2 (excellent) scale, with 74% of checks backed by evidence; mapped onto 0–100 that is 45 points.
 - **Multibagger fit (—):** The foundation test was essentially untestable (only 1 of its 3 checks had data) and no pattern shows any evidence — this pillar is left unscored rather than guessed.
 - **Risk safety (60/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 5 worth watching (−20) → 60 of 100.
+- **Relative to the index (89/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.55 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 89 points.
 
 ### The story in depth
 
@@ -357,6 +358,58 @@ The risks compound rather than offset the above, and several are the flip side o
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 89 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.55 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 89 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +9% · moved with | — | +95% · gained strongly |
+| last 5 years | +147% · gained strongly | +144% · gained strongly | +97% · gained strongly |
+| last 3 years | +63% · gained strongly | +10% · gained | +91% · gained strongly |
+| last 1 year | +41% · gained strongly | -2% · moved with | +85% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +336% ┤
+        │                                        ◆━┓
+        │       ┏◆━┓            ┏◆━┓           ┏━┛ ┗━━━━┓    ┏━━━◆━━━━┓──●────╮      ╔═══■
+        │●────┏━┛■═══╗───●────╔══■═══════■═══════■═══════■═══════■═══════■═══════■═══╝━━━◆┈┈
+   -56% ┤  ┏━━┛ ╔╝  ┗╚═══■════╝┛    ┗━━┓─●──┏━┛
+        │◆━┛    ║      ┗┓  ┏┛          ┗┓ ┏━┛
+        │      ╔╝       ┗◆━┛            ┗◆┛
+  -449% ┤     ╔╝
+        │    ╔╝
+        │   ╔╝
+  -842% ┤  ╔╝
+        │  ║
+        │ ╔╝
+        │■╝
+-1,234% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -46.1   +38.2   -24.5   +2.7    -63.6   +13.3   +28.0   +18.2   +63.2   -28.9   +40.7
+◆     -182.1  +152.5  -382.2  +116.6  -381.9  +228.0   +39.5   +58.9   +8.1    +4.1    -2.1
+■     -1126.1  +28.5  -132.9   +30.5   -7.7    -29.3   +44.8   +40.6   +30.8   +12.7   +84.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CANBK_stock_to_index.md`](CANBK_stock_to_index.md), with the same graph as [`CANBK_stock_to_index.svg`](CANBK_stock_to_index.svg) and [`CANBK_stock_to_index.mmd`](CANBK_stock_to_index.mmd).
+
 ## What to watch
 
 - Margin: whether the ~2.52% net interest margin and ~1.04% return on assets improve or drift further down — the 'Pricing, Mix and Volume' and 'Asset turn' checks and the Pricing Power no-fit all hinge on volume growth eventually turning profitable.
@@ -372,5 +425,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

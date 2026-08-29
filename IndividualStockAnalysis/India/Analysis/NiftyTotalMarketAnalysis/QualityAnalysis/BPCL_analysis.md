@@ -21,15 +21,16 @@ BPCL is an Indian state-run (PSU) oil company that buys crude oil from around th
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 44 out of 100 ★★☆☆☆
+## The verdict: Mixed — 45 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (49/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 44 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (49/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained on the index (58/100). Weighing those together gives 45 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 49 (business quality) + 30% × 36 (multibagger fit) + 25% × 44 (risk safety) = 44 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 49 (business quality) + 27% × 36 (multibagger fit) + 22.5% × 44 (risk safety) + 10% × 58 (relative to the index) = 45 out of 100 → Mixed (2 stars).
 
 - **Business quality (49/100):** The 34-check quality framework scored the business -0.04 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 49 points.
 - **Multibagger fit (36/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Forward Integrators) (+15); 1 likely (+8); 1 numbers-only hint (+3) → 36 of 100.
 - **Risk safety (44/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 4 worth watching (−16) → 44 of 100.
+- **Relative to the index (58/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 58 points.
 
 ### The story in depth
 
@@ -449,6 +450,58 @@ FY2026  █████████                  14 days  ▼ 8 days vs prio
 - ✅ Operating margin (9%) remains near its historical peak (10%) — no collapse in the premium.
 - ✅ Operating margin held (about 6% then 8%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 58 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 58 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -39% · lagged badly | -11% · lagged | +12% · gained |
+| last 5 years | -20% · lagged | -45% · lagged badly | -2% · moved with |
+| last 3 years | +23% · gained | +669% · gained strongly | +210% · gained strongly |
+| last 1 year | +2% · moved with | +70% · gained strongly | +60% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +983% ┤
+        │                                                                ◆┓
+        │                                                               ┏┛┗┓
+  +696% ┤                                                               ┃  ┃
+        │                                                              ┏┛  ┗┓
+        │                                                              ┃    ┃
+        │                                                             ┏┛    ┗┓
+  +410% ┤                                                            ┏┛      ┗┓
+        │                                        ◆┓                 ┏┛        ┗┓
+        │                                      ┏━┛┗━┓               ┃    ■╗    ┃
+  +123% ┤                                    ┏━┛    ┗━┓            ┏┛ ╔══╝╚══╗ ┗┓
+        │◆━━━┓                              ┏┛  ╔■═══╗┗┓           ┃ ╔╝      ╚╗ ┃       ╔■
+        │■═══════■═══════■═══════■════╗──●┏╔════╝●───╚═══■════╗──●╔══╝───●────╚══●─╔════╝●┈┈
+        │                             ╚══■═╝             ◆━━━━╚══■╝              ■═╝
+  -163% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +16.3   +21.3   -14.5   -17.5   -2.1    -9.0    -28.2   -9.3    +39.8   -14.1   +2.3
+◆      +51.0   +10.8   +5.9    -19.4   -56.1  +292.9   -54.8   -84.3  +903.5   -55.0   +70.3
+■      +26.1   +5.4    +12.0   -21.0   -42.4  +111.9   -32.3   -53.3  +256.9   -45.6   +59.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BPCL_stock_to_index.md`](BPCL_stock_to_index.md), with the same graph as [`BPCL_stock_to_index.svg`](BPCL_stock_to_index.svg) and [`BPCL_stock_to_index.mmd`](BPCL_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the roughly 12,319 crore LPG negative buffer is actually reimbursed — the single item behind the Government Dependency high risk and the Pricing Power no-fit
@@ -464,5 +517,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -19,15 +19,16 @@ CONCOR (Container Corporation of India Ltd.) is a government-owned ("Navratna CP
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 43 out of 100 ★★☆☆☆
+## The verdict: Mixed — 40 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (59/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 43 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (59/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has lagged the index badly (19/100). Weighing those together gives 40 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 59 (business quality) + 30% × 10 (multibagger fit) + 25% × 52 (risk safety) = 43 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 59 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 19 (relative to the index) = 40 out of 100 → Mixed (2 stars).
 
 - **Business quality (59/100):** The 34-check quality framework scored the business +0.36 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 59 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (52/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 2 worth watching (−8) → 52 of 100.
+- **Relative to the index (19/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 19 points.
 
 ### The story in depth
 
@@ -451,6 +452,58 @@ FY2026  ██████████████████████     2
 - ✅ Sales fell in only 2 of the last 11 years with swings of ±7 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 1% a year earlier, 7% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 19 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 19 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -65% · lagged badly | -64% · lagged badly | -49% · lagged badly |
+| last 5 years | -57% · lagged badly | -9% · moved with | -7% · moved with |
+| last 3 years | -45% · lagged badly | -33% · lagged badly | -14% · lagged |
+| last 1 year | -22% · lagged | -15% · lagged | -0% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +49% ┤
+        │                                                ◆┓
+        │                ◆━┓                          ┏━━┛┗━┓
+        │              ┏╔■═╗━┓                   ●─╮ ┏┛  ■╗ ┗┓           ●╮
+   +18% ┤            ╔══╝  ╚══╗━┓              ╭─╯┏━━┛╮ ╔╝╚══╗━┓       ╭─╯╰╮
+        │          ╔═╝  ╭●───╮╚═╗◆┓           ╭╯ ◆┛   ╰╔╝    ╚╗┗━┓    ╭╯   ╰╮
+        │┈┈┈┈╔═══■═╝┛───╯┈┈┈┈╰──╚■════╗┈┈┈┈┈╭─╯┈┏┛┈┈┈┈╔╝╰●──╮┈╚══◆━━━╔═══■═══════■═══════■┈┈
+   -13% ┤■═══╝━━━◆┛╯               ┗┓─╚══■╗─╯  ┏┛    ╔╝     ╰──╮ ■═══╝┗━━◆━━━┛╰╮      ┗━━◆
+        │●────╯                     ┗┓ ╰─●╚══╗┏┛    ╔╝         ╰─●╯            ╰╮      ╭─●
+        │                            ┗┓      ╚╗    ╔╝                           ╰╮  ╭──╯
+   -44% ┤                             ┗┓    ┏┛╚══╗╔╝                             ●──╯
+        │                              ┗┓  ┏┛    ■╝
+        │                               ┗┓┏┛
+        │                                ◆┛
+   -75% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -18.2   -13.6   +5.9    -6.2    -22.7   +21.5   -3.8    -18.3   +21.5   -41.7   -22.1
+◆      -13.1   -16.7   +27.6   +6.7    -66.1   +2.6    +40.7   -3.9    -14.3   -7.2    -15.2
+■      -8.5    -7.7    +20.5   -3.9    -8.3    -44.0   +24.0   -12.3   -7.5    -7.0    -0.5
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CONCOR_stock_to_index.md`](CONCOR_stock_to_index.md), with the same graph as [`CONCOR_stock_to_index.svg`](CONCOR_stock_to_index.svg) and [`CONCOR_stock_to_index.mmd`](CONCOR_stock_to_index.mmd).
+
 ## What to watch
 
 - Market share: whether the 54.35% total share stabilises or keeps sliding (the 'Gain in market share' check and the failed 'Market Share Gainers' pattern), with Mundra's 232 basis point drop the near-term tell.
@@ -466,5 +519,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

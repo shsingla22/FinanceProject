@@ -14,15 +14,16 @@ Orkla India is a packaged-food company that sells everyday Indian cooking staple
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 55 out of 100 ★★★☆☆
+## The verdict: Decent — 53 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (62/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Good Enough Goods). Weighing those together gives 55 out of 100 — decent.
+In one breath: the quality framework finds a good business today (62/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Good Enough Goods). Against the Nifty 50 it has lagged the index (38/100). Weighing those together gives 53 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 62 (business quality) + 30% × 26 (multibagger fit) + 25% × 78 (risk safety) = 55 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 62 (business quality) + 27% × 26 (multibagger fit) + 22.5% × 78 (risk safety) + 10% × 38 (relative to the index) = 53 out of 100 → Decent (3 stars).
 
 - **Business quality (62/100):** The 34-check quality framework scored the business +0.48 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 62 points.
 - **Multibagger fit (26/100):** the foundation test partly passed (+10); 2 likely (+16) → 26 of 100.
 - **Risk safety (78/100):** started from a clean 100; 1 elevated (−10); 3 worth watching (−12) → 78 of 100.
+- **Relative to the index (38/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
 
 ### The story in depth
 
@@ -428,6 +429,57 @@ FY2026  ████████                   37 days  ▲ 1 day vs prior y
 - ✅ Sales fell in only 0 of the last 6 years with swings of ±33 points — no pronounced boom-and-bust signature in revenue.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 38 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -15% · lagged | +9% · moved with |
+| last 3 years | — | -47% · lagged badly | +10% · moved with |
+| last 1 year | — | -2% · moved with | +4% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +166% ┤
+        │                ◆┓
+        │               ┏┛┗┓
+        │               ┃  ┃
+  +109% ┤              ┏┛  ┗┓
+        │             ┏┛    ┃
+        │            ┏┛     ┗┓
+   +51% ┤◆┓          ┃       ┗┓
+        │ ┗━┓       ┏┛        ┗┓
+        │■═╗┗┓     ┏┛          ┃
+        │┈┈╚════╗┈┈┃┈╔═══■═══════■═══════■═══════■┈┈
+    -6% ┤      ┗╚■═══╝          ┃     ┏━┛
+        │        ◆┛             ┗┓ ┏━━┛
+        │                        ◆━┛
+   -63% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬──
+       FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +48.3   -36.3  +149.8   -46.9   +2.6    -1.8
+■      +25.4   -7.5    +7.6    -3.5    +9.6    +4.0
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ORKLAINDIA_stock_to_index.md`](ORKLAINDIA_stock_to_index.md), with the same graph as [`ORKLAINDIA_stock_to_index.svg`](ORKLAINDIA_stock_to_index.svg) and [`ORKLAINDIA_stock_to_index.mmd`](ORKLAINDIA_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the pure-spice price premium holds near the stated 10-15% ceiling as the new inflationary cycle raises shelf prices — the core of the elevated Good Enough Goods risk and the cap on the Pricing Power pattern
@@ -443,5 +495,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

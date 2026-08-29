@@ -14,15 +14,16 @@ Religare Enterprises Limited (REL) is an Indian listed holding company — a "co
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 39 out of 100 ★★☆☆☆
+## The verdict: Mixed — 35 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (54/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 39 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (54/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has lagged the index badly (0/100). Weighing those together gives 35 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 54 (business quality) + 30% × 18 (multibagger fit) + 25% × 36 (risk safety) = 39 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 54 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 36 (risk safety) + 10% × 0 (relative to the index) = 35 out of 100 → Mixed (2 stars).
 
 - **Business quality (54/100):** The 34-check quality framework scored the business +0.16 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 54 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (36/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 4 elevated (−40); 1 worth watching (−4) → 36 of 100.
+- **Relative to the index (0/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 0 points.
 
 ### The story in depth
 
@@ -448,6 +449,57 @@ FY2026  ██                          5 days  ▲ 1 day vs prior year
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±23 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: -8% a year earlier, 27% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 0 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 0 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -67% · lagged badly | -96% · lagged badly |
+| last 5 years | — | — | -76% · lagged badly |
+| last 3 years | — | -99% · lagged badly | -77% · lagged badly |
+| last 1 year | — | -65% · lagged badly | -62% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +595% ┤
+        │                                       ╔■╗
+        │                                    ╔══╝ ╚═╗
+        │                                  ╔═╝      ╚╗          ┏■═╗
+  +199% ┤                               ╔■═╝         ╚╗      ┏╔══╝ ╚══╗
+        │┈┈┈┈┈╔══■═══╗┈┈┈┈┈┈┈┈┈┈┈◆━━━━╔═╝◆━━━━━━━◆━━━┓╚╗┈┈┈┏━╔╝┈┈┈┈┈┈┈╚═╗┈┈┈┈┈╔══■═══╗┈┈┈┈┈┈
+        │■════╝      ╚═══■════╗ ┏┛ ╔══╝              ┗━╚═◆╔══╝          ╚■════╝━━◆━━━╚═══■
+  -197% ┤   ┗━━┓              ╚══■═╝                     ■╝
+        │      ┗━◆┓           ┏┛
+        │         ┗━┓        ┏┛
+  -592% ┤           ┗━┓     ┏┛
+        │             ┗┓   ┏┛
+        │              ┗━┓┏┛
+        │                ◆┛
+  -988% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -82.0  -291.6  -879.0   -17.7   +29.4   +61.7  -115.7  +277.6   -91.3   -52.2   -64.9
+■      -46.9   +71.8  -108.2  -203.9  +106.6  +485.5  -197.2  +208.9   -32.8   -8.7    -62.4
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`RELIGARE_stock_to_index.md`](RELIGARE_stock_to_index.md), with the same graph as [`RELIGARE_stock_to_index.svg`](RELIGARE_stock_to_index.svg) and [`RELIGARE_stock_to_index.mmd`](RELIGARE_stock_to_index.mmd).
+
 ## What to watch
 
 - Care's retail health share: the 11.2% to 11.4% to 11.6% climb is the only 'likely fit' pattern in the whole screen — a stall would remove the main support for the growth case.
@@ -463,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (53/100). Last one year: Mixed (45/100). The last year looks WEAKER than the long-term picture (-8 points) — the company has declined in the recent period.
+Long-term view: Decent (56/100). Last one year: Mixed (47/100). The last year looks WEAKER than the long-term picture (-9 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 60 | 53 | -7 |
 | Multibagger fit | 30 | 15 | -15 |
 | Risk safety | 68 | 68 | +0 |
+| Relative to the index | 79 | 58 | -21 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -85,6 +86,20 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 8 unchanged. Financial r
 *Unchanged: Government Dependency (HIGH RISK); Cyclicality (WATCH); New Entrants (WATCH); Good Enough Goods (WATCH); Technological Innovation (LOW); Stakeholder Concentration (LOW); Shifting Consumer Preferences (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (79/100). Looking only at the latest year, it has **GAINED on the index** (58/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +18% · gained | +63% · gained strongly |
+| last 3 years | — | +28% · gained strongly | +62% · gained strongly |
+| last 1 year | +7% · moved with | +6% · moved with | +19% · gained |
+
 
 ## How this comparison was built
 

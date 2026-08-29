@@ -15,15 +15,16 @@ Engineers India Limited (EIL) is an Indian project-engineering company that desi
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 41 out of 100 ★★☆☆☆
+## The verdict: Mixed — 43 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 41 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained on the index (67/100). Weighing those together gives 43 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 18 (multibagger fit) + 25% × 32 (risk safety) = 41 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 32 (risk safety) + 10% × 67 (relative to the index) = 43 out of 100 → Mixed (2 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.45 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (32/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 2 elevated (−20); 1 worth watching (−4); 1 numbers-only flag (−4) → 32 of 100.
+- **Relative to the index (67/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 67 points.
 
 ### The story in depth
 
@@ -432,6 +433,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   -45
 - ✅ Operating margin (18%) remains near its historical peak (24%) — no collapse in the premium.
 - ✅ Operating margin held (about 16% then 15%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 67 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 67 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -30% · lagged badly | -30% · lagged badly | +16% · gained |
+| last 5 years | +44% · gained strongly | +2% · moved with | -1% · moved with |
+| last 3 years | +84% · gained strongly | +27% · gained strongly | +84% · gained strongly |
+| last 1 year | +15% · gained | +5% · moved with | +33% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +131% ┤
+        │                                                        ◆┓      ●╮
+        │                                                       ┏┛┗┓    ╭╯╰╮
+        │                                                       ┃  ┗┓  ╭╯  │
+   +79% ┤                                                      ┏┛   ┗┓─╯   ╰╮
+        │                                                      ┃    ╭┗┓     ╰╮   ■═╗
+        │       ╔■═══════■╗                                   ┏┛   ╭╯ ┗┓     ╰╮╔═╝ ╚════╗
+   +27% ┤     ╭╔╝  ╰─╮    ╚═╗                                ┏┛   ╭╯   ┗┓     ╔╝        ╚■
+        │  ╭╔══╝━◆━━━━━━━◆━━╚═╗        ┏╔■═╗                ┏┛  ╭●╯     ┗┓  ╔═╝━━◆━━━━┓ ╭●
+        │●─╔╝━━┛┈┈┈┈┈┈┈┈╰●─╮┗━╚╗┈┈┈┈┏━╔═╝┈┈╚═╗┈┈┈┈┈┈┈┈┈┈┈┈┈┈┃┈╭─╯┈┈┈┈┈┈┈┈◆╔═╝┛┈┈│┈┈┈┈┈┗━━◆┈┈
+   -25% ┤■═╝┛              ╰───╚═◆━╔══╝     ┗╚══╗●────╮    ┏┛─╯      ╔═══■╝     ╰╮ ╭──╯
+        │                       ╰■═╝─────●───╯ ┗╚■═══════■═══════■═══╝           ●─╯
+        │                                       ┗◆━━━━┓   ┏┛
+        │                                             ┗━━◆┛
+   -77% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -8.2    +42.8   -4.6    -33.3   -38.1   -13.6   -28.8   +10.0  +116.8   -26.1   +15.0
+◆      -15.7   +11.9   +19.3   -11.0   +17.7   -51.2   -62.3  +113.1   +2.4    +18.1   +4.9
+■      -14.7   +49.3   +36.8   -29.7   +17.0   -29.9   -27.0   -26.5   -14.9   +62.3   +33.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ENGINERSIN_stock_to_index.md`](ENGINERSIN_stock_to_index.md), with the same graph as [`ENGINERSIN_stock_to_index.svg`](ENGINERSIN_stock_to_index.svg) and [`ENGINERSIN_stock_to_index.mmd`](ENGINERSIN_stock_to_index.mmd).
+
 ## What to watch
 
 - Dangote concentration (Stakeholder Concentration risk): whether inflow after the roughly 40%-of-FY26 Dangote order can be replaced, or whether one client's timetable starts driving results.
@@ -448,5 +501,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -18,15 +18,16 @@ Lupin Limited is a Mumbai-headquartered pharmaceutical company that makes and se
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 52 out of 100 ★★★☆☆
+## The verdict: Decent — 54 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (62/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 2 high risks (New Entrants, Good Enough Goods). Weighing those together gives 52 out of 100 — decent.
+In one breath: the quality framework finds a good business today (62/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 2 high risks (New Entrants, Good Enough Goods). Against the Nifty 50 it has gained strongly on the index (75/100). Weighing those together gives 54 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 62 (business quality) + 30% × 48 (multibagger fit) + 25% × 38 (risk safety) = 52 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 62 (business quality) + 27% × 48 (multibagger fit) + 22.5% × 38 (risk safety) + 10% × 75 (relative to the index) = 54 out of 100 → Decent (3 stars).
 
 - **Business quality (62/100):** The 34-check quality framework scored the business +0.49 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 62 points.
 - **Multibagger fit (48/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Innovation Dominance, Corporate Culture) (+30); 1 likely (+8) → 48 of 100.
 - **Risk safety (38/100):** started from a clean 100; 2 high risks (New Entrants, Good Enough Goods) (−40); 1 elevated (−10); 3 worth watching (−12) → 38 of 100.
+- **Relative to the index (75/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -435,6 +436,58 @@ FY2026  ████████████████          181 days  ▼ 
 - ✅ Sales fell in only 2 of the last 11 years with swings of ±11 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 3% a year earlier, 13% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 75 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -49% · lagged badly | -34% · lagged badly | -22% · lagged |
+| last 5 years | +38% · gained strongly | +60% · gained strongly | +59% · gained strongly |
+| last 3 years | +169% · gained strongly | +658% · gained strongly | +289% · gained strongly |
+| last 1 year | +16% · gained | +42% · gained strongly | +52% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +603% ┤
+        │                                                        ■╗
+        │                                        ◆┓             ╔╝╚╗
+        │                                       ┏┛┗┓            ║  ╚╗
+  +392% ┤                                      ┏┛  ┃           ╔╝   ╚═╗
+        │                                      ┃   ┗┓         ╔╝      ╚╗
+        │                                     ┏┛    ┗┓       ╔╝        ╚╗◆━┓
+  +181% ┤                                    ┏┛      ┃       ║      ┏━━┛╚╗ ┗━┓
+        │                       ┏◆━┓        ┏┛       ┗┓     ╔╝   ◆━━┛  ╭─■════╗━┓
+        │                     ┏━┛  ┗┓       ┃         ┗┓   ╔╝  ┏━┛  ╭──╯    ╰─╚══■═══════■
+   -30% ┼■═══════■═══════■════╗──●──┗╔═══■═══════■══╗─╮┗┓┈┈║┈┏━┛─●──╯┈┈┈┈┈┈┈┈┈┈╰─●───────●┈┈
+        │             ┗━━◆━┛─╯╚══■═══╝ ┗┓ ┏┛        ╚══╗┃●╔╝┏┛
+        │                               ┗◆┛            ╚═■╝━┛
+        │                                                ◆┛
+  -242% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -23.2   -17.6   -55.9   -10.0   -3.1    +16.6   -37.4   -17.8   +99.3   +16.5   +15.7
+◆      -11.9   +6.5    -89.7  +120.7  -144.8  +478.3  -183.4  +125.3  +244.1   +54.7   +42.4
+■      -3.2    +21.0   -29.5   -34.9   -10.8   -1.3    -93.7  +544.9   +94.9   +31.1   +52.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`LUPIN_stock_to_index.md`](LUPIN_stock_to_index.md), with the same graph as [`LUPIN_stock_to_index.svg`](LUPIN_stock_to_index.svg) and [`LUPIN_stock_to_index.mmd`](LUPIN_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the New Entrants risk eases or deepens.
@@ -448,5 +501,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

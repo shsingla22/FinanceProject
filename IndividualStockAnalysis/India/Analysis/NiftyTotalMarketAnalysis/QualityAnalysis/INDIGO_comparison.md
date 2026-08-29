@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (49/100). Last one year: Decent (59/100). The last year looks STRONGER than the long-term picture (+10 points) — the company has improved in the recent period.
+Long-term view: Decent (51/100). Last one year: Decent (54/100). The last year looks STRONGER than the long-term picture (+3 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 65 | 65 | +0 |
 | Multibagger fit | 42 | 65 | +23 |
 | Risk safety | 28 | 40 | +12 |
+| Relative to the index | 69 | 12 | -57 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -104,6 +105,20 @@ Genuinely re-tested risk verdicts: 2 eased, 0 worsened, 5 unchanged; 1 carried f
 *Unchanged: Cyclicality (HIGH RISK); Government Dependency (HIGH RISK); Technological Innovation (LOW); Shifting Consumer Preferences (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED on the index** (69/100). Looking only at the latest year, it has **LAGGED the index badly** (12/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +48% · gained strongly | — | — |
+| last 5 years | +47% · gained strongly | +85% · gained strongly | +42884% · gained strongly |
+| last 3 years | +55% · gained strongly | -396% · lagged badly | +51% · gained strongly |
+| last 1 year | -22% · lagged | — | -35% · lagged badly |
+
 
 ## How this comparison was built
 

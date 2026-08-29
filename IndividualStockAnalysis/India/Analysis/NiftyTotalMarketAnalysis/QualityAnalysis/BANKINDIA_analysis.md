@@ -20,15 +20,16 @@ Bank of India is an Indian commercial bank that takes deposits from the public a
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 39 out of 100 ★★☆☆☆
+## The verdict: Mixed — 44 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (45/100); the risk review found 3 high risks (Cyclicality, Government Dependency…). Weighing those together gives 39 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (45/100); the risk review found 3 high risks (Cyclicality, Government Dependency…). Against the Nifty 50 it has gained strongly on the index (75/100). Weighing those together gives 44 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 64% × 45 (business quality) + 36% × 28 (risk safety) = 39 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 55.5% × 45 (business quality) + 30.8% × 28 (risk safety) + 13.7% × 75 (relative to the index) = 44 out of 100 → Mixed (2 stars).
 
 - **Business quality (45/100):** The 34-check quality framework scored the business -0.22 on its −2 (poor) to +2 (excellent) scale, with 85% of checks backed by evidence; mapped onto 0–100 that is 45 points.
 - **Multibagger fit (—):** The foundation test was essentially untestable (only 1 of its 3 checks had data) and no pattern shows any evidence — this pillar is left unscored rather than guessed.
 - **Risk safety (28/100):** started from a clean 100; 3 high risks (Cyclicality, Government Dependency, Good Enough Goods) (−60); 3 worth watching (−12) → 28 of 100.
+- **Relative to the index (75/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -364,6 +365,58 @@ In one breath: the quality framework finds an average business today (45/100); t
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 75 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -54% · lagged badly | — | — |
+| last 5 years | +23% · gained | +82% · gained strongly | — |
+| last 3 years | +38% · gained strongly | +70% · gained strongly | — |
+| last 1 year | +30% · gained strongly | -5% · moved with | +16% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +761% ┤
+        │                                                                ■╗
+        │                                                               ╔╝╚╗
+        │                                                              ╔╝  ╚╗
+  +450% ┤                                                            ╔═╝    ╚╗
+        │                                                           ╔╝       ╚╗
+        │                                                          ╔╝         ╚╗
+  +140% ┤                                     ┏━━◆━━━┓            ╔╝           ╚╗
+        │    ╭───◆━┓──╮      ╔═══■═══════■═══════■═══════■═══════■╝──┏━━━◆━━━━━━╚◆━━━╔═══■
+        │●───╯┈┏╔■═══════■═══╝─┏┛●───────●───╯┈┈┈┈┈┈┈┈╰──●───╯┗━━◆━━━┛┈┈┈┈┈┈┈┈╰──■═══╝┗━━◆┈┈
+  -171% ┤  ╔════╝   ┗━━┓    ┏━━┛
+        │■═╝┏┛         ┗┓  ┏┛
+        │ ┏━┛           ┗◆━┛
+        │◆┛
+  -481% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -48.4   +21.1   -35.6   -6.6    -63.7   +41.8   -42.2   +54.1   +46.7   -27.4   +29.7
+◆     -395.5   +77.6  -312.1   +16.0   +42.6  +156.7   +12.3   -5.1    +36.2   +31.8   -5.1
+■     -256.0   -14.7   -52.5   +25.2   +18.5   +73.3   +52.7   +72.7  +674.9   -14.3   +15.7
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BANKINDIA_stock_to_index.md`](BANKINDIA_stock_to_index.md), with the same graph as [`BANKINDIA_stock_to_index.svg`](BANKINDIA_stock_to_index.svg) and [`BANKINDIA_stock_to_index.mmd`](BANKINDIA_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Cyclicality risk eases or deepens.
@@ -377,5 +430,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

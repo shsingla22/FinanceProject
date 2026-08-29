@@ -17,13 +17,14 @@ Travel Food Services (TFS) runs food-and-drink outlets and passenger lounges ins
 
 ## The verdict: Outstanding — 81 out of 100 ★★★★★
 
-In one breath: the quality framework finds a good business today (77/100); it strongly fits 3 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Stakeholder Concentration). Weighing those together gives 81 out of 100 — outstanding.
+In one breath: the quality framework finds a good business today (77/100); it strongly fits 3 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Stakeholder Concentration). Against the Nifty 50 it has gained strongly on the index (83/100). Weighing those together gives 81 out of 100 — outstanding.
 
-**The exact arithmetic:** Overall = 45% × 77 (business quality) + 30% × 94 (multibagger fit) + 25% × 72 (risk safety) = 81 out of 100 → Outstanding (5 stars).
+**The exact arithmetic:** Overall = 40.5% × 77 (business quality) + 27% × 94 (multibagger fit) + 22.5% × 72 (risk safety) + 10% × 83 (relative to the index) = 81 out of 100 → Outstanding (5 stars).
 
 - **Business quality (77/100):** The 34-check quality framework scored the business +1.09 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 77 points.
 - **Multibagger fit (94/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 3 patterns fit strongly (Market Share Gainers, Corporate Culture, Cost to Replicate) (+45); 3 likely (+24) → 94 of 100.
 - **Risk safety (72/100):** started from a clean 100; 2 elevated (−20); 2 worth watching (−8) → 72 of 100.
+- **Relative to the index (83/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 83 points.
 
 ### The story in depth
 
@@ -435,6 +436,57 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   -43
 - ✅ Operating margin (39%) remains near its historical peak (39%) — no collapse in the premium.
 - ✅ Operating margin held (about 5% then 34%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 83 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 83 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +147% · gained strongly | +121% · gained strongly |
+| last 5 years | — | — | — |
+| last 3 years | — | +14% · gained | +42% · gained strongly |
+| last 1 year | — | +5% · moved with | +15% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++1,702% ┤
+        │                ◆┓
+        │               ┏┛┗┓
+        │               ┃  ┃
++1,205% ┤              ┏┛■╗┗┓
+        │             ┏┛╔╝╚╗┗┓
+        │            ┏┛╔╝  ╚╗┗┓
+  +708% ┤           ┏┛╔╝    ╚╗┃
+        │          ┏╔═╝      ╚╗┓
+        │          ╔╝         ╚╗┓
+  +212% ┤         ╔╝           ╚╗
+        │       ╔■╝             ╚╗
+        │┈┈╔════╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈■═══════■═══════■┈┈
+        │■═╝
+  -285% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬──
+       FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     -148.0  +114.5  +1564.9  -5.5    +15.5   +4.5
+■     -125.5  +149.5  +1178.9  -1.6    +25.4   +15.4
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TRAVELFOOD_stock_to_index.md`](TRAVELFOOD_stock_to_index.md), with the same graph as [`TRAVELFOOD_stock_to_index.svg`](TRAVELFOOD_stock_to_index.svg) and [`TRAVELFOOD_stock_to_index.mmd`](TRAVELFOOD_stock_to_index.mmd).
+
 ## What to watch
 
 - Delhi T3: the extension runs to 30 September and then goes to open tender — a loss there hits the Stakeholder Concentration risk and the 94% renewal record behind the Cost to Replicate pattern.
@@ -450,5 +502,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -17,15 +17,16 @@ Vodafone Idea Limited (brand name "Vi") is an Indian mobile phone network operat
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 29 out of 100 ★☆☆☆☆
+## The verdict: Weak — 30 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (30/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 29 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (30/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has lagged the index (42/100). Weighing those together gives 30 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 30 (business quality) + 30% × 10 (multibagger fit) + 25% × 50 (risk safety) = 29 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 30 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 50 (risk safety) + 10% × 42 (relative to the index) = 30 out of 100 → Weak (1 star).
 
 - **Business quality (30/100):** The 34-check quality framework scored the business -0.79 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 30 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (50/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12); the balance sheet shows one stress signal (−8) → 50 of 100.
+- **Relative to the index (42/100):** Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored -0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 42 points.
 
 ### The story in depth
 
@@ -447,6 +448,58 @@ FY2026  ███████████                16 days  ▼ 1 day vs p
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±14 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 5% a year earlier, 1% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 42 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored -0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 42 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -96% · lagged badly | +254% · gained strongly | -43% · lagged badly |
+| last 5 years | -44% · lagged badly | — | -44% · lagged badly |
+| last 3 years | +11% · gained | — | -7% · moved with |
+| last 1 year | +27% · gained strongly | — | +4% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +349% ┤
+        │                               ╔■═╗                                            ┏◆
+        │                            ╔══╝  ╚════╗●──╮                              ┏━━━━┛
+        │■═══╗┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╔═╝┈┈┈┈┈┈╭──╯╚■═══╗━━━◆━━━━━━━◆━━━━━━━◆━━━━╔══■═══════■┈┈
+    -5% ┤◆━━━╚═══■═══════■═══════■═╝─────●──╯  ┏━┛   ╚═══■═══════■═══════■════╝──●────╯
+        │     ┗━━◆┓                           ┏┛
+        │         ┗┓             ◆━━┓       ┏━┛
+  -360% ┤          ┗┓           ┏┛  ┗━━┓  ┏━┛
+        │           ┗┓         ┏┛      ┗━◆┛
+        │            ┗┓       ┏┛
+        │             ┗┓    ┏━┛
+  -714% ┤              ┗┓  ┏┛
+        │               ┗┓┏┛
+        │                ◆┛
+-1,069% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -37.6   -34.3   -23.4   -65.1   -78.9  +101.1   -10.8   -43.1   +82.6   -52.3   +27.2
+◆      -18.9  -113.8  -971.1  -224.4  -416.6   +50.2   +57.2   +10.5   +15.1   +20.6  +210.9
+■      +2.7    -13.0   -40.4   -45.6  +251.4   +2.9    -30.0   -13.9   -10.1   -0.2    +3.7
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`IDEA_stock_to_index.md`](IDEA_stock_to_index.md), with the same graph as [`IDEA_stock_to_index.svg`](IDEA_stock_to_index.svg) and [`IDEA_stock_to_index.mmd`](IDEA_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Q4FY26 stabilisation in subscribers (192.8mn) turns into actual gains — the Market Share Gainers pattern and the -2 'Gain in market share' check both hinge on this reversing rather than pausing.
@@ -462,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

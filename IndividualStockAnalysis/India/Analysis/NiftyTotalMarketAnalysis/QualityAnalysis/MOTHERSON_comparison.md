@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Decent (56/100). Last one year: Decent (62/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
+Long-term view: Decent (57/100). Last one year: Decent (62/100). The last year looks STRONGER than the long-term picture (+5 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 66 | 68 | +2 |
 | Multibagger fit | 36 | 59 | +23 |
 | Risk safety | 62 | 56 | -6 |
+| Relative to the index | 69 | 58 | -11 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -112,6 +113,20 @@ Genuinely re-tested risk verdicts: 1 eased, 1 worsened, 2 unchanged; 4 carried f
 *Unchanged: Technological Innovation (WATCH); Government Dependency (WATCH).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED on the index** (69/100). Looking only at the latest year, it has **GAINED on the index** (58/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +6% · moved with | -36% · lagged badly | +20% · gained |
+| last 5 years | +16% · gained | -5% · moved with | +39% · gained strongly |
+| last 3 years | +77% · gained strongly | +55% · gained strongly | +61% · gained strongly |
+| last 1 year | +22% · gained | -13% · lagged | +11% · gained |
+
 
 ## How this comparison was built
 

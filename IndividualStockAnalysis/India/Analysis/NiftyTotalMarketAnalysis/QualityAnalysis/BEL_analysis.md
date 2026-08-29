@@ -24,15 +24,16 @@ Bharat Electronics Limited (BEL) is an Indian government-owned company under the
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 62 out of 100 ★★★☆☆
+## The verdict: Strong — 65 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (67/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 62 out of 100 — decent.
+In one breath: the quality framework finds a good business today (67/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (90/100). Weighing those together gives 65 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 67 (business quality) + 30% × 67 (multibagger fit) + 25% × 46 (risk safety) = 62 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 67 (business quality) + 27% × 67 (multibagger fit) + 22.5% × 46 (risk safety) + 10% × 90 (relative to the index) = 65 out of 100 → Strong (4 stars).
 
 - **Business quality (67/100):** The 34-check quality framework scored the business +0.70 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 67 points.
 - **Multibagger fit (67/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Innovation Dominance, Corporate Culture) (+30); 3 likely (+24); 1 numbers-only hint (+3) → 67 of 100.
 - **Risk safety (46/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 4 worth watching (−16); the balance sheet shows one stress signal (−8) → 46 of 100.
+- **Relative to the index (90/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.58 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 90 points.
 
 ### The story in depth
 
@@ -440,6 +441,58 @@ FY2026  ████████████████          342 days  ▲ 
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±5 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 12% a year earlier, 14% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 90 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.58 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 90 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +253% · gained strongly | +27% · gained strongly | +103% · gained strongly |
+| last 5 years | +486% · gained strongly | +6% · moved with | +25% · gained strongly |
+| last 3 years | +209% · gained strongly | +29% · gained strongly | +61% · gained strongly |
+| last 1 year | +35% · gained strongly | +0% · moved with | +16% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +74% ┤
+        │                                                                ●─╮
+        │                                                             ╭──╯ ╰──╮
+        │                                                ●─╮         ╭╯       ╰─╮
+   +43% ┤                                             ╭──╯ ╰────╮ ╭──╯          ╰●───────●
+        │       ╔■═╗                                 ╭╯         ╰●╯             ╔■═╗
+        │  ╔════╝  ╚════╗       ┏◆━┓              ╭──╯                     ╔════╝◆━╚════╗
+   +12% ┤■═╝─╮          ╚■═══════■═╗━┓          ╭●╯                   ╔══■═╝┏━━┛    ┗━━┓╚■
+        │◆━━━━━━━◆━━━━┓┈┈┈┈┏━━┛┈┈┈┈╚════╗┈┈╭─╔═══■═╗┈┈┈┈┈┈┈┈┈┈┈┈╔■════╝━━◆━━┛┈┈┈┈┈┈┈┈┈┈┗━◆┈┈
+        │           ╰─┗━━◆━┛            ╚■═══╝━━━◆━╚═╗        ╔═╝
+   -18% ┤              ╰─●─╮          ╭──╯         ┗━╚══╗  ╔══╝
+        │                  ╰─╮       ╭╯                 ╚■═╝
+        │                    ╰──╮ ╭──╯
+        │                       ╰●╯
+   -49% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +14.3   +8.0    -14.0   -40.2   -4.0    +13.2   +44.2   +31.4   +65.1   +38.9   +34.8
+◆      +6.0    +7.4    -3.4    +22.1   -1.2    -4.3    -23.4   +7.3    +6.3    +21.0   +0.1
+■      +12.3   +27.6   +14.6   +14.2   -8.0    +5.5    -22.8   +0.4    +9.0    +27.8   +16.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BEL_stock_to_index.md`](BEL_stock_to_index.md), with the same graph as [`BEL_stock_to_index.svg`](BEL_stock_to_index.svg) and [`BEL_stock_to_index.mmd`](BEL_stock_to_index.mmd).
+
 ## What to watch
 
 - Order book direction — it has already fallen from ₹76,705 crore (Jul 2024) to ₹72,258 crore (Jul 2026); continued flattening would confirm the Cyclicality risk rather than leave it a watch item.
@@ -456,5 +509,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -14,15 +14,16 @@ Clean Science and Technology is an India-based specialty chemicals manufacturer 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 55 out of 100 ★★★☆☆
+## The verdict: Decent — 51 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (62/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Stakeholder Concentration). Weighing those together gives 55 out of 100 — decent.
+In one breath: the quality framework finds a good business today (62/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Stakeholder Concentration). Against the Nifty 50 it has lagged the index badly (9/100). Weighing those together gives 51 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 62 (business quality) + 30% × 56 (multibagger fit) + 25% × 42 (risk safety) = 55 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 62 (business quality) + 27% × 56 (multibagger fit) + 22.5% × 42 (risk safety) + 10% × 9 (relative to the index) = 51 out of 100 → Decent (3 stars).
 
 - **Business quality (62/100):** The 34-check quality framework scored the business +0.47 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 62 points.
 - **Multibagger fit (56/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Corporate Culture) (+15); 2 likely (+16) → 56 of 100.
 - **Risk safety (42/100):** started from a clean 100; 1 high risk (Stakeholder Concentration) (−20); 3 elevated (−30); 2 worth watching (−8) → 42 of 100.
+- **Relative to the index (9/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -1.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 9 points.
 
 ### The story in depth
 
@@ -418,6 +419,58 @@ FY2026  ████████████████████      118 da
 
 - ✅ Growth is holding up: 30% a year earlier, 9% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 9 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -1.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 9 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -57% · lagged badly | -32% · lagged badly |
+| last 3 years | -61% · lagged badly | -51% · lagged badly | -28% · lagged badly |
+| last 1 year | -43% · lagged badly | -23% · lagged | -10% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +95% ┤
+        │◆┓
+        │ ┗━━┓
+        │    ┗┓
+   +58% ┤■══╗ ┗━━┓
+        │   ╚══╗ ◆━┓
+        │      ╚═■═══════■═╗
+   +21% ┤               ┗◆┓╚╗
+        │                 ┗━╚══╗       ╔═■═╗            ╔■══╗
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗┓╚╗┈┈┈╔══╝┛┈┈╚╗┈┈┈┈┈┈┈┈┈┈╔╝◆━┓╚══╗┈┈┈┈
+   -16% ┤                     ┗━╚■══╝━┛     ╚══╗    ╔══╝┛  ┗━━━╚═■
+        │                        ◆━┛           ╚╗●─╔╝┛───●─╮    ┗◆
+        │                                  ╭────╚■═╝       ╰────╮
+        │                                ●─╯                    ╰●
+   -53% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     -39.8   -16.2   -18.4   -43.0
+◆      +85.2   +45.9   +17.6   -22.8   +11.6   -34.1   -2.0    -23.4
+■      +48.2   +31.7   +26.6   -14.3   +10.2   -27.3   +10.3   -9.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CLEAN_stock_to_index.md`](CLEAN_stock_to_index.md), with the same graph as [`CLEAN_stock_to_index.svg`](CLEAN_stock_to_index.svg) and [`CLEAN_stock_to_index.mmd`](CLEAN_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether HALS volume growth and the export mix shift (the 'Market Share Gainers' pattern) keep outrunning the share being conceded in the legacy base — if HALS stalls, the growth case goes with it.
@@ -434,5 +487,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

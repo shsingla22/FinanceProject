@@ -18,13 +18,14 @@ The Ramco Cements Limited (RAMCOCEM) makes and sells cement in India, mainly acr
 
 ## The verdict: Mixed — 45 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (60/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 45 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (60/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has lagged the index (38/100). Weighing those together gives 45 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 60 (business quality) + 30% × 26 (multibagger fit) + 25% × 42 (risk safety) = 45 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 60 (business quality) + 27% × 26 (multibagger fit) + 22.5% × 42 (risk safety) + 10% × 38 (relative to the index) = 45 out of 100 → Mixed (2 stars).
 
 - **Business quality (60/100):** The 34-check quality framework scored the business +0.42 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 60 points.
 - **Multibagger fit (26/100):** the foundation test partly passed (+10); 2 likely (+16) → 26 of 100.
 - **Risk safety (42/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 3 elevated (−30); the balance sheet shows one stress signal (−8) → 42 of 100.
+- **Relative to the index (38/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
 
 ### The story in depth
 
@@ -438,6 +439,58 @@ FY2026  █                          -0 days  ▼ 48 days vs prior year
 
 - ✅ Growth is holding up: 6% a year earlier, 11% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 38 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -25% · lagged | -64% · lagged badly | -53% · lagged badly |
+| last 5 years | -44% · lagged badly | -67% · lagged badly | -54% · lagged badly |
+| last 3 years | -8% · moved with | +41% · gained strongly | -1% · moved with |
+| last 1 year | +4% · moved with | +128% · gained strongly | +15% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +143% ┤
+        │                                                                                ◆
+        │◆┓                                                                             ┏┛
+        │ ┗┓                                                                            ┃
+   +86% ┤  ┗━┓                                                                         ┏┛
+        │    ┗┓                                                                       ┏┛
+        │■══╗╭┗━┓●─╮                                                                 ┏┛
+   +29% ┤●──╚══╗┗┓ ╰─╮                        ╔══■╗                                 ┏┛
+        │      ╚═■════╗─╮              ╔═■════╝━━◆╚══╗                 ╔═■══╗      ┏┛  ╔═■
+        │┈┈┈┈┈┈┈┈┈┈┈┗━╚══■═══╗───●──╔══╝┈┈┈╭─╯┈┈┈┈┈┈┗╚╗┓┈┈┈┈┈┈┈┈╭●──╔══╝┈◆━┓╚══╗─●─┃╔══╝─●┈┈
+        │              ┗━◆━━━╚═══■══╝╰───●─╯          ╚══◆━┓─╔═══■══╝╰┏━━●─┗━━━╚═■══╝
+   -28% ┤                                                ■═══╝       ┏┛         ┗◆┛
+        │                                                    ┗━━┓ ┏━━┛
+        │                                                       ┗◆┛
+   -85% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +36.6   +41.9   -6.8    -10.5   -13.7   +31.7   -34.5   -6.7    -14.4   +2.8    +4.0
+◆     +109.4   +14.9   -12.4   -16.4   +20.9   +7.8    -24.6   -69.2   -10.0   -31.3  +127.5
+■      +42.0   +11.3   -7.0    -24.9   +6.5    +22.8   -38.5   -24.6   +16.5   -25.6   +14.7
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`RAMCOCEM_stock_to_index.md`](RAMCOCEM_stock_to_index.md), with the same graph as [`RAMCOCEM_stock_to_index.svg`](RAMCOCEM_stock_to_index.svg) and [`RAMCOCEM_stock_to_index.mmd`](RAMCOCEM_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether profit per ton keeps climbing past ₹1,007 or stalls — the Cyclicality risk means the recovery so far rests on pet coke falling from $200, not on better pricing.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

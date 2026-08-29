@@ -103,3 +103,22 @@ render identically everywhere, so the chart is drawn with real strokes
 heavy line with `◆` for PAT and a double line with `■` for operating
 profit. Those pairings are pinned per measure, so `◆` means PAT in every
 report even when another measure has no line to draw.
+
+
+## Feeding the AnalystSkill
+
+`analyst_interface.py` plugs this skill into the AnalystSkill through its
+extensibility contract, contributing:
+
+- a **pillar**, "Relative to the index", worth **10%** of the combined
+  rating (`scripts/index_pillar.py` does the scoring),
+- a **report section** with the verdict, the 10 / 5 / 3 / 1-year window
+  table and the line graph,
+- **facts** for the analyst's written summary.
+
+Scoring, on the same −2..+2 scale the 34-check framework uses: a ratio
+up 25%+ over the window scores +2, up 10–25% +1, within ±10% 0, down
+10–25% −1, down 25%+ −2. Every measure × window pair the stored data can
+answer is one cell; the pillar is their mean mapped onto 0–100, with
+coverage reported. A ratio that crosses zero has no honest percentage
+change, so that pair is left out rather than guessed.

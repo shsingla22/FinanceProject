@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Decent (51/100). Last one year: Decent (55/100). The last year looks STRONGER than the long-term picture (+4 points) — the company has improved in the recent period.
+Long-term view: Decent (52/100). Last one year: Decent (58/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 46 | 50 | +4 |
 | Multibagger fit | — | — | — |
 | Risk safety | 60 | 64 | +4 |
+| Relative to the index | 55 | 75 | +20 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -89,6 +90,20 @@ Genuinely re-tested risk verdicts: 1 eased, 0 worsened, 5 unchanged; 1 carried f
 *Not comparable: Fashion Risk (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **MOVED WITH the index** (55/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (75/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -97% · lagged badly | -61% · lagged badly | — |
+| last 5 years | -33% · lagged badly | — | +88% · gained strongly |
+| last 3 years | -14% · lagged | +203% · gained strongly | +38% · gained strongly |
+| last 1 year | +4% · moved with | +26% · gained strongly | +25% · gained |
+
 
 ## How this comparison was built
 

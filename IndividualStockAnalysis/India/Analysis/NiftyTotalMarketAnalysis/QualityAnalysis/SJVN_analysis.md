@@ -20,15 +20,16 @@ SJVN Limited is an Indian government-owned power generator — a joint venture o
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 17 out of 100 ★☆☆☆☆
+## The verdict: Weak — 19 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (27/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 17 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (27/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has lagged the index (33/100). Weighing those together gives 19 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 27 (business quality) + 30% × 10 (multibagger fit) + 25% × 8 (risk safety) = 17 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 27 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 8 (risk safety) + 10% × 33 (relative to the index) = 19 out of 100 → Weak (1 star).
 
 - **Business quality (27/100):** The 34-check quality framework scored the business -0.91 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 27 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (8/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 4 elevated (−40); 2 worth watching (−8); 1 numbers-only flag (−4); the balance sheet shows multiple stress signals (−20) → 8 of 100.
+- **Relative to the index (33/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 33 points.
 
 ### The story in depth
 
@@ -438,6 +439,58 @@ FY2026  ██████████████████        162 days  
 - ⚠️ Sales actually FELL in 5 of the last 11 years — revenue moves in cycles, it does not compound steadily.
 - ✅ Growth is holding up: -2% a year earlier, 13% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 33 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 33 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -28% · lagged badly | -87% · lagged badly | -44% · lagged badly |
+| last 5 years | +48% · gained strongly | -86% · lagged badly | -12% · lagged |
+| last 3 years | +43% · gained strongly | -70% · lagged badly | +19% · gained |
+| last 1 year | -30% · lagged badly | -31% · lagged badly | +46% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +212% ┤
+        │                                                                ●╮
+        │                                                               ╭╯╰╮
+        │                                                              ╭╯  │
+  +139% ┤                                                             ╭╯   ╰╮
+        │                                                            ╭╯     ╰╮
+        │                                                           ╭╯       ╰╮
+   +66% ┤                                                          ╭╯         │
+        │                                                         ╭╯          ╰╮       ╔═■
+        │●───╮                        ┏━━◆━┓                    ╭◆━┓           ╰╮   ╔══╝
+    -7% ┼┈┈┈┈╔═══■════╗┈┈┈┈┈┈╔═══■═══════■════╗━┓┈┈┈┈┈┈┈┈┈┈╭──┏╔═■══╗━┓┈┈┈┈┈┈┈┈╔═■══╝┈┈┈┈┈┈┈
+        │■═══╝        ╚══■═══╝      ╭──╯      ╚══■═══╗───●─╯╔══╝    ╚══╗┓   ╔══╝━◆━━━┓
+        │                    ╰───●──╯              ┗━╚═══■══╝┛         ╚═■══╝━┛  ●───┗━━━◆
+        │                                               ┗◆┛
+   -80% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +22.1   -0.9    -14.8   -33.4   +2.6    -15.4   -9.9    +14.7  +191.8   -29.9   -29.9
+◆      -20.2   +3.2    -18.5   +3.3    +17.1   -12.6   -59.7   +18.4   -46.6   -18.6   -31.0
+■      -19.7   +5.7    -21.9   -4.3    +0.5    -19.9   -28.7   +4.0    -28.4   +13.9   +45.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SJVN_stock_to_index.md`](SJVN_stock_to_index.md), with the same graph as [`SJVN_stock_to_index.svg`](SJVN_stock_to_index.svg) and [`SJVN_stock_to_index.mmd`](SJVN_stock_to_index.mmd).
+
 ## What to watch
 
 - Conversion of the 16 GW awarded into signed power supply agreements — only about 6 GW signed by May 2026 is the core evidence behind both the Toll Roads no-fit and the elevated New Entrants risk.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

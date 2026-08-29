@@ -15,15 +15,16 @@ Greaves Cotton is an old Indian engineering company (it dates itself to 1859, in
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 29 out of 100 ★☆☆☆☆
+## The verdict: Weak — 31 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds an average business today (58/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Technological Innovation, Government Dependency…). Weighing those together gives 29 out of 100 — weak.
+In one breath: the quality framework finds an average business today (58/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Technological Innovation, Government Dependency…). Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 31 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 58 (business quality) + 30% × 10 (multibagger fit) + 25% × 0 (risk safety) = 29 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 58 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 0 (risk safety) + 10% × 50 (relative to the index) = 31 out of 100 → Weak (1 star).
 
 - **Business quality (58/100):** The 34-check quality framework scored the business +0.33 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 58 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (0/100):** started from a clean 100; 3 high risks (Technological Innovation, Government Dependency, New Entrants) (−60); 2 elevated (−20); 2 worth watching (−8); the balance sheet shows multiple stress signals (−20) → 0 of 100. (Floored at 0.)
+- **Relative to the index (50/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -454,6 +455,57 @@ FY2026  ▒▒▒▒                       -6 days  ▼ 14 days vs prior year
 - ⚠️ Sales actually FELL in 4 of the last 11 years — revenue moves in cycles, it does not compound steadily.
 - ✅ Growth is holding up: -2% a year earlier, 18% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -95% · lagged badly | -59% · lagged badly |
+| last 5 years | — | — | +49% · gained strongly |
+| last 3 years | — | -68% · lagged badly | +54% · gained strongly |
+| last 1 year | — | — | +72% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +703% ┤
+        │                                                                                ◆
+        │                                                                              ┏━┛
+        │                                                                             ┏┛
+  +375% ┤                                                       ╔■═╗                ┏━┛
+        │                                                      ╔╝◆┓╚╗             ┏━┛
+        │◆━━┓                                               ╔══╝┛ ┗┓╚══╗         ◆┛
+   +48% ┤   ┗━╔══■═══════■═══╗                             ╔╝┛     ┗┓  ╚╗     ╔══■═══════■
+        │■════╝┗━◆━━━━┛┈┈┈┈┈┈╚═══■═══════■═══════■═══════■═╝┈┈┈┈┈┈┈┈┗┓┈┈╚■════╝┏┛┈┈┈┈┈┈┈┈┈┈┈
+        │                                     ┗━━◆━━━┛               ┗┓       ┏┛
+  -280% ┤                                                             ┗┓    ┏━┛
+        │                                                              ┗┓  ┏┛
+        │                                                               ┗┓┏┛
+        │                                                                ◆┛
+  -608% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     +127.0   -15.1   +14.7   -25.3   -20.4  -112.4   -23.4  +272.5  -517.4   +98.5  +612.7
+■      +0.5    +17.3   +7.1    -14.6   -25.1   -65.5   -76.8  +316.9   -36.8   +42.1   +71.8
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GREAVESCOT_stock_to_index.md`](GREAVESCOT_stock_to_index.md), with the same graph as [`GREAVESCOT_stock_to_index.svg`](GREAVESCOT_stock_to_index.svg) and [`GREAVESCOT_stock_to_index.mmd`](GREAVESCOT_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital (headline) — the 2% cash return on capital is the binding constraint; a move toward the standalone segments' stated 30%+ ROCE at the group level is what would re-rate this, and nothing else substitutes for it.
@@ -469,5 +521,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

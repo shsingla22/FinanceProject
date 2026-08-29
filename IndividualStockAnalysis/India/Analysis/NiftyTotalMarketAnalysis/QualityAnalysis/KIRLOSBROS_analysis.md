@@ -19,13 +19,14 @@ Kirloskar Brothers Limited (KBL) is an old, family-run Indian engineering compan
 
 ## The verdict: Decent — 54 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (69/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 54 out of 100 — decent.
+In one breath: the quality framework finds a good business today (69/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has moved with the index (54/100). Weighing those together gives 54 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 69 (business quality) + 30% × 33 (multibagger fit) + 25% × 52 (risk safety) = 54 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 69 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 54 (relative to the index) = 54 out of 100 → Decent (3 stars).
 
 - **Business quality (69/100):** The 34-check quality framework scored the business +0.75 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 69 points.
 - **Multibagger fit (33/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 1 likely (+8) → 33 of 100.
 - **Risk safety (52/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 2 worth watching (−8) → 52 of 100.
+- **Relative to the index (54/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.14 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
 
 ### The story in depth
 
@@ -448,6 +449,57 @@ FY2026  ██████████████████         68 days  
 - ✅ Operating margin held (about 5% then 13%) — no drift down under competition.
 - ✅ Growth is holding up: 0% a year earlier, 11% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 54 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.14 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 54 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | +155% · gained strongly |
+| last 5 years | — | -14% · lagged | +13% · gained |
+| last 3 years | — | +1% · moved with | +12% · gained |
+| last 1 year | — | -21% · lagged | -12% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++2,551% ┤
+        │                                ◆┓
+        │                               ┏┛┗┓
+        │                               ┃  ┃
++1,826% ┤                              ┏┛  ┗┓
+        │                              ┃    ┗┓
+        │                             ┏┛     ┗┓
++1,101% ┤                ◆┓          ┏┛       ┃
+        │              ┏━┛┗━┓       ┏┛        ┗┓
+        │             ┏┛    ┗┓      ┃          ┗┓
+        │           ┏━┛      ┗┓    ┏┛           ┃
+  +376% ┤         ┏━┛         ┗┓   ┃            ┗┓
+        │┈┈┈┈╔═══■═══════■═══════■═══════■═══════■═══════■═══════■═══════■═══════■═══════■┈┈
+        │■═══╝                   ◆┛                   ┗━━◆━━━┛
+  -348% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     -148.5  +116.4  +1184.9  -94.4  +2350.9  +86.0   -60.9  +116.5   +18.1   +8.5    -20.9
+■      -63.1   +25.7   +60.1   -32.2   +56.8   +5.4    -36.5   +59.4   +14.7   +10.5   -11.9
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KIRLOSBROS_stock_to_index.md`](KIRLOSBROS_stock_to_index.md), with the same graph as [`KIRLOSBROS_stock_to_index.svg`](KIRLOSBROS_stock_to_index.svg) and [`KIRLOSBROS_stock_to_index.mmd`](KIRLOSBROS_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital scored zero and capital allocation 0.4 — the weakest checks in the whole framework; evidence that the operating strengths finally translate into better returns on invested money would lift the verdict most.
@@ -464,5 +516,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.
