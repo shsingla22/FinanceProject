@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 460" width="980" height="460" font-family="Helvetica,Arial,sans-serif">
+<rect width="980" height="460" fill="#ffffff"/>
+<text x="490" y="26" text-anchor="middle" font-size="17" font-weight="700" fill="#0b0b0b">Bank of Baroda (BANKBARODA) vs Nifty 50 — yearly change in each ratio</text>
+<text x="490" y="44" text-anchor="middle" font-size="12" fill="#52514e">Above 0 the company gained on the index that year; below 0 it lagged</text>
+<line x1="78" y1="54.0" x2="954" y2="54.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="68" y="58.0" text-anchor="end" font-size="12" fill="#52514e">+426%</text>
+<line x1="78" y1="131.5" x2="954" y2="131.5" stroke="#e4e3df" stroke-width="1"/>
+<text x="68" y="135.5" text-anchor="end" font-size="12" fill="#52514e">-54%</text>
+<line x1="78" y1="209.0" x2="954" y2="209.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="68" y="213.0" text-anchor="end" font-size="12" fill="#52514e">-534%</text>
+<line x1="78" y1="286.5" x2="954" y2="286.5" stroke="#e4e3df" stroke-width="1"/>
+<text x="68" y="290.5" text-anchor="end" font-size="12" fill="#52514e">-1,013%</text>
+<line x1="78" y1="364.0" x2="954" y2="364.0" stroke="#e4e3df" stroke-width="1"/>
+<text x="68" y="368.0" text-anchor="end" font-size="12" fill="#52514e">-1,493%</text>
+<line x1="78" y1="122.8" x2="954" y2="122.8" stroke="#9b9a94" stroke-width="1.5" stroke-dasharray="6 4"/>
+<line x1="78" y1="364.0" x2="954" y2="364.0" stroke="#52514e" stroke-width="1"/>
+<line x1="78.0" y1="364.0" x2="78.0" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="78.0" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2016</text>
+<line x1="165.6" y1="364.0" x2="165.6" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="165.6" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2017</text>
+<line x1="253.2" y1="364.0" x2="253.2" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="253.2" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2018</text>
+<line x1="340.8" y1="364.0" x2="340.8" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="340.8" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2019</text>
+<line x1="428.4" y1="364.0" x2="428.4" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="428.4" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2020</text>
+<line x1="516.0" y1="364.0" x2="516.0" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="516.0" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2021</text>
+<line x1="603.6" y1="364.0" x2="603.6" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="603.6" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2022</text>
+<line x1="691.2" y1="364.0" x2="691.2" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="691.2" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2023</text>
+<line x1="778.8" y1="364.0" x2="778.8" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="778.8" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2024</text>
+<line x1="866.4" y1="364.0" x2="866.4" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="866.4" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2025</text>
+<line x1="954.0" y1="364.0" x2="954.0" y2="369.0" stroke="#52514e" stroke-width="1"/>
+<text x="954.0" y="384" text-anchor="middle" font-size="12" fill="#52514e">FY2026</text>
+<polyline points="78.0,123.8 165.6,122.9 253.2,127.4 340.8,125.4 428.4,131.0 516.0,123.9 603.6,118.1 691.2,115.8 778.8,118.7 866.4,125.9 954.0,121.2" fill="none" stroke="#2a78d6" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="78.0" cy="123.8" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="78.0" y="112.8" text-anchor="middle" font-size="10.5" fill="#2a78d6">-6.3</text>
+<circle cx="165.6" cy="122.9" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="165.6" y="111.9" text-anchor="middle" font-size="10.5" fill="#2a78d6">-0.7</text>
+<circle cx="253.2" cy="127.4" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="253.2" y="116.4" text-anchor="middle" font-size="10.5" fill="#2a78d6">-28.7</text>
+<circle cx="340.8" cy="125.4" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="340.8" y="114.4" text-anchor="middle" font-size="10.5" fill="#2a78d6">-16.4</text>
+<circle cx="428.4" cy="131.0" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="428.4" y="120.0" text-anchor="middle" font-size="10.5" fill="#2a78d6">-51.0</text>
+<circle cx="516.0" cy="123.9" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="516.0" y="112.9" text-anchor="middle" font-size="10.5" fill="#2a78d6">-6.7</text>
+<circle cx="603.6" cy="118.1" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="603.6" y="107.1" text-anchor="middle" font-size="10.5" fill="#2a78d6">+28.8</text>
+<circle cx="691.2" cy="115.8" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="691.2" y="104.8" text-anchor="middle" font-size="10.5" fill="#2a78d6">+43.2</text>
+<circle cx="778.8" cy="118.7" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="778.8" y="107.7" text-anchor="middle" font-size="10.5" fill="#2a78d6">+25.0</text>
+<circle cx="866.4" cy="125.9" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="866.4" y="114.9" text-anchor="middle" font-size="10.5" fill="#2a78d6">-19.6</text>
+<circle cx="954.0" cy="121.2" r="4" fill="#ffffff" stroke="#2a78d6" stroke-width="2.4"/>
+<text x="954.0" y="110.2" text-anchor="middle" font-size="10.5" fill="#2a78d6">+9.9</text>
+<polyline points="78.0,158.5 165.6,101.0 253.2,155.4 340.8,97.1 428.4,125.1 516.0,116.7 603.6,85.9 691.2,112.6 778.8,122.8 866.4,122.7 954.0,125.3" fill="none" stroke="#1a9e5c" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="78.0" cy="158.5" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="78.0" y="175.5" text-anchor="middle" font-size="10.5" fill="#1a9e5c">-220.9</text>
+<circle cx="165.6" cy="101.0" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="165.6" y="118.0" text-anchor="middle" font-size="10.5" fill="#1a9e5c">+134.7</text>
+<circle cx="253.2" cy="155.4" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="253.2" y="172.4" text-anchor="middle" font-size="10.5" fill="#1a9e5c">-201.7</text>
+<circle cx="340.8" cy="97.1" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="340.8" y="114.1" text-anchor="middle" font-size="10.5" fill="#1a9e5c">+158.8</text>
+<circle cx="428.4" cy="125.1" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="428.4" y="142.1" text-anchor="middle" font-size="10.5" fill="#1a9e5c">-14.1</text>
+<circle cx="516.0" cy="116.7" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="516.0" y="133.7" text-anchor="middle" font-size="10.5" fill="#1a9e5c">+37.3</text>
+<circle cx="603.6" cy="85.9" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="603.6" y="102.9" text-anchor="middle" font-size="10.5" fill="#1a9e5c">+228.1</text>
+<circle cx="691.2" cy="112.6" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="691.2" y="129.6" text-anchor="middle" font-size="10.5" fill="#1a9e5c">+63.1</text>
+<circle cx="778.8" cy="122.8" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="778.8" y="139.8" text-anchor="middle" font-size="10.5" fill="#1a9e5c">+0.1</text>
+<circle cx="866.4" cy="122.7" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="866.4" y="139.7" text-anchor="middle" font-size="10.5" fill="#1a9e5c">+0.2</text>
+<circle cx="954.0" cy="125.3" r="4" fill="#ffffff" stroke="#1a9e5c" stroke-width="2.4"/>
+<text x="954.0" y="142.3" text-anchor="middle" font-size="10.5" fill="#1a9e5c">-15.5</text>
+<polyline points="78.0,338.2 165.6,112.6 253.2,140.9 340.8,114.2 428.4,140.6 516.0,116.0 603.6,111.3 691.2,79.8 778.8,129.1 866.4,123.5 954.0,122.1" fill="none" stroke="#e07b00" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="78.0" cy="338.2" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="78.0" y="327.2" text-anchor="middle" font-size="10.5" fill="#e07b00">-1333.3</text>
+<circle cx="165.6" cy="112.6" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="165.6" y="101.6" text-anchor="middle" font-size="10.5" fill="#e07b00">+62.9</text>
+<circle cx="253.2" cy="140.9" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="253.2" y="129.9" text-anchor="middle" font-size="10.5" fill="#e07b00">-112.0</text>
+<circle cx="340.8" cy="114.2" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="340.8" y="103.2" text-anchor="middle" font-size="10.5" fill="#e07b00">+52.9</text>
+<circle cx="428.4" cy="140.6" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="428.4" y="129.6" text-anchor="middle" font-size="10.5" fill="#e07b00">-110.1</text>
+<circle cx="516.0" cy="116.0" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="516.0" y="105.0" text-anchor="middle" font-size="10.5" fill="#e07b00">+41.9</text>
+<circle cx="603.6" cy="111.3" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="603.6" y="100.3" text-anchor="middle" font-size="10.5" fill="#e07b00">+70.9</text>
+<circle cx="691.2" cy="79.8" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="691.2" y="68.8" text-anchor="middle" font-size="10.5" fill="#e07b00">+265.8</text>
+<circle cx="778.8" cy="129.1" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="778.8" y="118.1" text-anchor="middle" font-size="10.5" fill="#e07b00">-39.4</text>
+<circle cx="866.4" cy="123.5" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="866.4" y="112.5" text-anchor="middle" font-size="10.5" fill="#e07b00">-4.4</text>
+<circle cx="954.0" cy="122.1" r="4" fill="#ffffff" stroke="#e07b00" stroke-width="2.4"/>
+<text x="954.0" y="111.1" text-anchor="middle" font-size="10.5" fill="#e07b00">+4.1</text>
+<rect x="78" y="426" width="13" height="13" rx="3" fill="#2a78d6"/>
+<text x="97" y="437" font-size="12.5" fill="#0b0b0b">Price ratio</text>
+<rect x="186" y="426" width="13" height="13" rx="3" fill="#1a9e5c"/>
+<text x="205" y="437" font-size="12.5" fill="#0b0b0b">PAT ratio</text>
+<rect x="279" y="426" width="13" height="13" rx="3" fill="#e07b00"/>
+<text x="298" y="437" font-size="12.5" fill="#0b0b0b">Operating-profit ratio</text>
+</svg>

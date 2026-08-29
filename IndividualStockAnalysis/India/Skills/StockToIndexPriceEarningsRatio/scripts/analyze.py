@@ -37,6 +37,10 @@ CONST = INDIA / "NiftyTotalMarket" / "niftytotalmarket_constituents.csv"
 MAX_YEARS = 15
 BAR_WIDTH = 26
 
+# ratio series of the most recent build_report call, per symbol, so the
+# batch runner can draw the same numbers as SVG and Mermaid
+_LAST_SERIES: dict[str, dict] = {}
+
 
 # ---------------------------------------------------------------- inputs
 
@@ -48,10 +52,31 @@ def fy_of(label: str) -> str:
     return f"Mar {int(yr) + 1}" if m >= 4 else f"Mar {yr}"
 
 
+_CACHE: dict[str, object] = {}
+
+
+def _cached(key: str, build):
+    """Read-once cache: a 742-company batch must not reparse the same CSVs."""
+    if key not in _CACHE:
+        _CACHE[key] = build()
+    return _CACHE[key]
+
+
 def load_index() -> tuple[pd.DataFrame, pd.DataFrame]:
-    monthly = pd.read_csv(DATA / "nifty50_price_monthly.csv")
-    earnings = pd.read_csv(DATA / "nifty50_earnings_yearly.csv")
+    monthly = _cached("monthly",
+                      lambda: pd.read_csv(DATA / "nifty50_price_monthly.csv"))
+    earnings = _cached("idx_earn",
+                       lambda: pd.read_csv(DATA / "nifty50_earnings_yearly.csv"))
     return monthly, earnings
+
+
+def _all_pl() -> pd.DataFrame:
+    return _cached("pl", lambda: pd.read_csv(PL_LONG))
+
+
+def company_names() -> dict[str, str]:
+    return _cached("names", lambda: {r["nse_symbol"]: r["company_name"]
+                                     for _, r in pd.read_csv(CONST).iterrows()})
 
 
 def company_prices(sym: str) -> dict[str, tuple[str, float]]:
@@ -75,7 +100,7 @@ def company_prices(sym: str) -> dict[str, tuple[str, float]]:
 
 def company_earnings(sym: str) -> dict[str, dict[str, float]]:
     """fy -> {'pat': .., 'op': ..} from the stored long profit-and-loss."""
-    pl = pd.read_csv(PL_LONG)
+    pl = _all_pl()
     pl = pl[pl.nse_symbol == sym]
     out: dict[str, dict[str, float]] = {}
     for _, r in pl.iterrows():
@@ -280,9 +305,7 @@ def build_report(sym: str) -> str:
     monthly, idx_earn = load_index()
     prices = company_prices(sym)
     earn = company_earnings(sym)
-    names = {r["nse_symbol"]: r["company_name"]
-             for _, r in pd.read_csv(CONST).iterrows()}
-    name = names.get(sym, sym)
+    name = company_names().get(sym, sym)
 
     idx_earn = idx_earn.set_index("fy")
     fys_all = sorted(set(prices) | set(earn) | set(idx_earn.index),
@@ -309,6 +332,9 @@ def build_report(sym: str) -> str:
                     missing.append(f"{fy}: company Net Profit not in stored data")
             if "op" in e and idx_earn.loc[fy, "index_op"]:
                 op_rows.append((fy, e["op"] / idx_earn.loc[fy, "index_op"] * 100))
+
+    _LAST_SERIES[sym] = {"price": price_rows, "pat": pat_rows, "op": op_rows,
+                         "name": name}
 
     idx_span = (f"{idx_earn.index[0]}..{idx_earn.index[-1]}"
                 if len(idx_earn) else "none")
@@ -348,6 +374,13 @@ def build_report(sym: str) -> str:
     md.append("One line per ratio, one point per fiscal year: how much the "
               "company gained (+) or lost (−) on the index that year.\n")
     md.append(yoy_line_graph(price_rows, pat_rows, op_rows))
+    if price_rows or pat_rows or op_rows:
+        md.append(
+            f"\nThe same graph in two other formats sits beside this file: "
+            f"[`{sym}_stock_to_index.svg`]({sym}_stock_to_index.svg) — a "
+            f"vector chart that opens in any browser — and "
+            f"[`{sym}_stock_to_index.mmd`]({sym}_stock_to_index.mmd) — "
+            f"Mermaid source, which draws itself when pasted into GitHub.\n")
 
     md.append("\n## 5. The raw yearly values behind every ratio\n")
     md.append("Company prices in rupees; profits in Rs crore. The index "

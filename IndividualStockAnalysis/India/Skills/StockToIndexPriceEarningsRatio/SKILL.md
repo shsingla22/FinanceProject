@@ -48,11 +48,31 @@ guessed.
 ```bash
 python3 fetch_index_data.py            # refresh the index series
 python3 analyze.py report SYM out.md   # one company's report
+python3 run_all.py                     # every company in the universe
+python3 run_all.py --force             # rebuild even what already exists
 python3 -m pytest test_skill.py -q     # the skill's test suite
 ```
 
-Stored outputs for the top-rated companies live under
-`Analysis/NiftyTotalMarketAnalysis/StockToIndexRatios/`.
+`run_all.py` covers all 742 NiftyTotalMarket companies in about half a
+minute — the skill reads only stored data, so there are no AI calls and
+no network. It is resumable (a company whose files all exist is skipped)
+and never aborts on one bad company; every outcome lands in
+`_stock_to_index_log.csv`.
+
+## Where the output goes
+
+Beside each company's other stored analysis, in
+`Analysis/NiftyTotalMarketAnalysis/QualityAnalysis/`:
+
+| File | What it is |
+|---|---|
+| `{SYM}_stock_to_index.md` | the report — self-contained, text charts |
+| `{SYM}_stock_to_index.svg` | the same line graph as a vector chart |
+| `{SYM}_stock_to_index.mmd` | the same line graph as Mermaid source |
+
+A company with fewer than two comparable fiscal years has no
+year-on-year change to draw, so it gets the report and no chart files
+rather than an empty chart.
 
 ## Known limits
 

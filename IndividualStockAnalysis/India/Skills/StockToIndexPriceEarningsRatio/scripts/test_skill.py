@@ -10,6 +10,7 @@ statements (COLPAL).
 Run from this folder:  python3 -m pytest test_skill.py -q
 """
 
+import csv
 from pathlib import Path
 
 import pandas as pd
@@ -17,9 +18,13 @@ import pytest
 
 import analyze
 import linechart
+import mermaidchart
+import svgchart
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE.parent / "data"
+BATCH_OUT = (HERE.parent.parent.parent / "Analysis" /
+             "NiftyTotalMarketAnalysis" / "QualityAnalysis")
 
 TOP10 = ["COLPAL", "APOLLOHOSP", "PIDILITIND", "CAPLIPOINT", "TRITURBINE",
          "VIJAYA", "CAMS", "LALPATHLAB", "THELEELA", "GILLETTE"]
@@ -317,3 +322,107 @@ def test_chart_never_exceeds_15_points():
         for chunk in md.split("```")[1::2]:      # inside code fences
             rows = [l for l in chunk.splitlines() if l.startswith("FY")]
             assert len(rows) <= 15
+
+
+# ------------------------------------------------- SVG and Mermaid output
+
+def _demo_series():
+    return [("Price ratio", {2023: -4.0, 2024: 12.5, 2025: 3.0}),
+            ("PAT ratio", {2023: 8.0, 2024: -2.5, 2025: 6.0})]
+
+
+def test_svg_is_well_formed_with_a_line_and_point_per_value():
+    import xml.etree.ElementTree as ET
+    svg = svgchart.render(_demo_series(), "T", subtitle="s")
+    root = ET.fromstring(svg)                      # raises if malformed
+    ns = "{http://www.w3.org/2000/svg}"
+    assert len(root.findall(f".//{ns}polyline")) == 2
+    assert len(root.findall(f".//{ns}circle")) == 6
+    for value in ("-4.0", "+12.5", "+3.0", "+8.0", "-2.5", "+6.0"):
+        assert value in svg, f"{value} missing from the svg"
+    for year in ("FY2023", "FY2024", "FY2025"):
+        assert year in svg
+
+
+def test_svg_empty_when_there_is_nothing_to_plot():
+    assert svgchart.render([], "T") == ""
+    assert svgchart.render([("A", {})], "T") == ""
+
+
+def test_mermaid_line_lengths_always_match_the_x_axis():
+    """Mermaid rejects a line whose point count differs from the axis."""
+    mmd = mermaidchart.render(_demo_series(), "T")
+    axis = mmd.split("x-axis [", 1)[1].split("]", 1)[0].split(",")
+    lines = [l for l in mmd.splitlines() if l.strip().startswith("line [")]
+    assert lines, "no line emitted"
+    for l in lines:
+        pts = l.split("[", 1)[1].split("]", 1)[0].split(",")
+        assert len(pts) == len(axis), f"{len(pts)} points vs {len(axis)} labels"
+
+
+def test_mermaid_plots_best_subset_when_series_do_not_overlap():
+    # a recent listing price against older statements shares no year
+    series = [("Price ratio", {2024: 1.0, 2025: 2.0, 2026: 3.0}),
+              ("PAT ratio", {2016: 4.0, 2017: 5.0})]
+    mmd = mermaidchart.render(series, "T")
+    assert "xychart-beta" in mmd, "should still plot the longer series"
+    assert "Left out" in mmd and "PAT ratio" in mmd.split("xychart")[0]
+    axis = mmd.split("x-axis [", 1)[1].split("]", 1)[0]
+    assert "FY2024" in axis and "FY2016" not in axis
+
+
+def test_mermaid_empty_when_no_series_has_two_points():
+    assert mermaidchart.render([("A", {2026: 1.0})], "T") == ""
+    assert mermaidchart.render([], "T") == ""
+
+
+# ------------------------------------------------ whole-universe coverage
+
+def _universe():
+    return [r["nse_symbol"] for r in
+            csv.DictReader(open(analyze.CONST))]
+
+
+def test_every_company_in_the_universe_has_a_report():
+    missing = [s for s in _universe()
+               if not (BATCH_OUT / f"{s}_stock_to_index.md").exists()]
+    assert not missing, f"{len(missing)} companies without a report: {missing[:10]}"
+
+
+def test_charts_exist_wherever_a_series_could_be_plotted():
+    log = {r["symbol"]: r["status"] for r in
+           csv.DictReader(open(BATCH_OUT / "_stock_to_index_log.csv"))}
+    for sym, status in log.items():
+        svg = BATCH_OUT / f"{sym}_stock_to_index.svg"
+        mmd = BATCH_OUT / f"{sym}_stock_to_index.mmd"
+        if status == "ok":
+            assert svg.exists(), f"{sym}: svg missing"
+            assert mmd.exists(), f"{sym}: mermaid missing"
+        elif status == "no-chart":
+            # honest: nothing plottable, so no chart files are written
+            assert not svg.exists() and not mmd.exists()
+    assert "failed" not in log.values()
+
+
+def test_batch_svgs_are_all_well_formed():
+    import xml.etree.ElementTree as ET
+    bad = []
+    for f in sorted(BATCH_OUT.glob("*_stock_to_index.svg")):
+        try:
+            ET.parse(f)
+        except Exception as exc:
+            bad.append((f.name, str(exc)[:60]))
+    assert not bad, f"malformed svgs: {bad[:5]}"
+
+
+def test_batch_mermaid_files_are_all_axis_consistent():
+    bad = []
+    for f in sorted(BATCH_OUT.glob("*_stock_to_index.mmd")):
+        mmd = f.read_text()
+        n_axis = len(mmd.split("x-axis [", 1)[1].split("]", 1)[0].split(","))
+        for l in mmd.splitlines():
+            if l.strip().startswith("line ["):
+                n = len(l.split("[", 1)[1].split("]", 1)[0].split(","))
+                if n != n_axis:
+                    bad.append((f.name, n, n_axis))
+    assert not bad, f"axis/point mismatch: {bad[:5]}"
