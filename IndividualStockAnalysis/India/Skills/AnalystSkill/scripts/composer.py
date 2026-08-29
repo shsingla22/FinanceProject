@@ -189,6 +189,8 @@ def compute_rating(ba: dict, mb: dict, qr: dict,
                         "points": max(0, min(100, round(p["points"]))),
                         "derivation": p.get("derivation",
                                             "No derivation provided.")}
+        if p.get("verdict"):
+            pillars[key]["verdict"] = p["verdict"]
         weights[key] = float(p.get("weight", 0.10))
         order.append(key)
     avail = {k: p for k, p in pillars.items() if p["points"] is not None}
@@ -466,8 +468,19 @@ def _verdict_plain(rt) -> str:
                         f"({', '.join(elev[:2])})")
         else:
             bits.append("the risk review found nothing severe")
-    return (f"In one breath: " + "; ".join(bits) +
-            f". Weighing those together gives {rt['score']} out of 100 — "
+    # Any extension pillar that scored gets its own closing sentence, so a
+    # freshly composed report reads exactly like the back-filled ones.
+    tail = ""
+    for key in rt.get("pillar_order", ()):
+        if not key.startswith("ext:"):
+            continue
+        e = rt["pillars"].get(key)
+        if e and e["points"] is not None and "index" in e["name"].lower():
+            tail = (f"Against the Nifty 50 it has "
+                    f"{e.get('verdict', e['name']).lower()} "
+                    f"({e['points']}/100). ")
+    return (f"In one breath: " + "; ".join(bits) + ". " + tail +
+            f"Weighing those together gives {rt['score']} out of 100 — "
             f"{rt['grade'].lower()}.")
 
 

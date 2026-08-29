@@ -5,7 +5,8 @@ instant**: instead of running the analysis skills live per request (minutes
 for a first-time company), every view is served from the stored, validated
 Markdown reports the batch analysis already produced in
 `IndividualStockAnalysis/India/Analysis/NiftyTotalMarketAnalysis/QualityAnalysis/`
-(`{SYM}_analysis.md` + `{SYM}_comparison.md` + `RANKING.md`/`_ranking.csv`).
+(`{SYM}_analysis.md` + `{SYM}_comparison.md` + `{SYM}_stock_to_index.md` +
+`RANKING.md`/`_ranking.csv`).
 
 ## What it does
 
@@ -21,6 +22,15 @@ Markdown reports the batch analysis already produced in
   margins, ROCE/ROE, EPS, operating & free cash flow, borrowings, reserves,
   cash-conversion cycle) render as SVG bar/line charts from the same
   statement CSVs the analyses judged.
+- **Against the Nifty 50** — a dedicated section per company: the verdict
+  and its 0-100 score, the 10 / 5 / 3 / 1-year table for the price, net
+  profit and operating-profit ratios, a line chart of how each ratio moved
+  year by year, and — folded away until you want them — how the pillar was
+  scored, each ratio in full, and the raw company-vs-index numbers behind
+  every one. This is 10% of the overall rating. All of it is **parsed out
+  of the stored reports**, never recomputed, so the page and the third
+  download button can never disagree. A measure the stored data cannot span
+  says so in the report's own words instead of being dropped.
 - **Explainability & Q&A** — the reports carry their own explainability
   (exact rating arithmetic, per-check rationales, management quotes). The
   Q&A box answers questions **grounded only in the two stored reports**:

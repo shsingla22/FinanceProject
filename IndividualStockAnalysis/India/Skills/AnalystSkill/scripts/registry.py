@@ -14,6 +14,7 @@ one env var, ANALYST_MODEL (default Opus 5 / claude-opus-5).
 from __future__ import annotations
 
 import importlib.util
+import inspect
 import json
 import os
 import re
@@ -125,14 +126,21 @@ def discover_extensions(skills_dir: Path | None = None) -> list[dict]:
 
 
 def run_extensions(sym: str, ai: bool = True,
-                   skills_dir: Path | None = None) -> list[dict]:
+                   skills_dir: Path | None = None,
+                   lens: str = "full") -> list[dict]:
     """Execute every discovered extension. Failures are captured as a
-    status, not raised — one broken extension must not sink the report."""
+    status, not raised — one broken extension must not sink the report.
+
+    `lens` is "full" (all history) or "recent" (the one-year window), and
+    is passed only to extensions whose run() accepts it, so extensions
+    written against the original two-argument contract keep working."""
     results = []
     for ext in discover_extensions(skills_dir):
         try:
             mod = _load(f"analyst_ext_{ext['skill']}", ext["path"])
-            res = mod.run(sym, ai=ai)
+            takes_lens = "lens" in inspect.signature(mod.run).parameters
+            res = mod.run(sym, ai=ai, lens=lens) if takes_lens \
+                else mod.run(sym, ai=ai)
             if not isinstance(res, dict) or "record" not in res:
                 raise ValueError("run() must return a dict with 'record'")
             res.setdefault("name", ext["skill"])

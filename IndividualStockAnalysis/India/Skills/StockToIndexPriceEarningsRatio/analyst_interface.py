@@ -43,14 +43,18 @@ def _load(name: str, filename: str):
     return mod
 
 
-def run(symbol: str, ai: bool = True) -> dict:
+def run(symbol: str, ai: bool = True, lens: str = "full") -> dict:
     """The analyst's extension entry point. `ai` is ignored: this skill
-    reads stored data and never calls a model."""
+    reads stored data and never calls a model.
+
+    `lens` selects the evidence window, matching the analyst family: "full"
+    scores 10 / 5 / 3 / 1 years, "recent" scores the last year only, so the
+    one-year view is judged on one year of evidence like every other pillar."""
     P = _load("stock_to_index_pillar", "index_pillar.py")
     linechart = _load("stock_to_index_linechart", "linechart.py")
 
-    p = P.pillar(symbol)
     recent = P.pillar(symbol, windows=[1])
+    p = recent if lens == "recent" else P.pillar(symbol)
     series = P.series_for(symbol)
 
     md = [f"## Section 4 — How has it done against the index? "
@@ -92,13 +96,27 @@ def run(symbol: str, ai: bool = True) -> dict:
             windows.setdefault(f"last_{c['window']}y", {})[c["measure"]] = \
                 f"{c['pct']:+.0f}% ({c['word']})"
 
+    # Levels and year-on-year changes for all three ratios, so a UI can draw
+    # the same graph the report prints without re-reading the stored data.
+    chart = {}
+    for key, label in P.MEASURES:
+        rows = series.get(key) or []
+        chart[key] = {
+            "label": label,
+            "levels": [{"fy": int(y.split()[1]), "value": v} for y, v in rows],
+            "yoy": [{"fy": y, "pct": v}
+                    for y, v in sorted(P.RATIO.yoy_series(rows).items())],
+        }
+
     return {
         "name": "Relative to the index",
         "skill": "StockToIndexPriceEarningsRatio",
         "status": "ok" if p["points"] is not None else "no comparable history",
         "order": SECTION_ORDER,
-        "record": {"pillar": p, "one_year": recent},
+        "record": {"pillar": p, "one_year": recent, "chart": chart,
+                   "index_name": "Nifty 50"},
         "pillar": {"name": "Relative to the index", "points": p["points"],
+                   "verdict": p["verdict"],
                    "derivation": p["derivation"], "weight": PILLAR_WEIGHT},
         "section_md": "\n".join(md),
         "facts": {

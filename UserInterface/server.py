@@ -372,8 +372,10 @@ def health():
             "ai_qualitative": backend is not None,
             "ai_backend": backend,
             "analysis_model": ANALYSIS_MODEL,
-            "skills": ["BusinessAnalysis", "MultibaggerPattern",
-                       "QualityRisks"],
+            # what the rating is built from, named the way the page names
+            # it — the engines behind it are not disclosed to the client
+            "pillars": ["Business quality", "Multibagger fit", "Risk safety",
+                        "Relative to the index"],
             "data_stamp": _data_stamp()}
 
 
@@ -992,10 +994,16 @@ def rating_endpoint(sym: str, quick: int = 0):
                             "to": tl["to"]}
     mb_rec, mb_status = R.patterns_analysis(sym, ai=ai)
     qr_rec, qr_status = R.risks_analysis(sym, ai=ai)
-    rt = R.compute_rating(sym, rec, mb_rec, qr_rec)
+    # the same extension pillars the full analysis uses, so /api/rating and
+    # /api/analysis can never quote two different numbers for one company
+    exts = AB.AR.run_extensions(sym, ai=ai)
+    rt = R.compute_rating(sym, rec, mb_rec, qr_rec, extensions=exts)
     return {"symbol": sym, "rating": rt, "record": rec,
             "patterns": {"status": mb_status, "record": mb_rec},
-            "risks": {"status": qr_status, "record": qr_rec}}
+            "risks": {"status": qr_status, "record": qr_rec},
+            "extensions": [{k: e.get(k) for k in
+                            ("skill", "name", "status", "order",
+                             "pillar", "record", "facts")} for e in exts]}
 
 
 

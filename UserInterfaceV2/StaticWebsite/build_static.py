@@ -5,10 +5,11 @@ Company website into ./site, from the SAME sources the live UI serves:
   frontend        ../index.html + ../app.js + ../style.css copied as-is
                   (index gets window.STATIC_MODE=true injected) — one UI,
                   two backends, so UI improvements flow to both versions
-  data/           companies.json, ranking.json, charts/{SYM}.json —
-                  produced by the live server's OWN functions (imported),
-                  so the two versions can never disagree
-  reports/        the stored {SYM}_analysis.md / {SYM}_comparison.md
+  data/           companies.json, ranking.json, charts/{SYM}.json,
+                  relative/{SYM}.json — produced by the live server's OWN
+                  functions (imported), so the two versions can never disagree
+  reports/        the stored {SYM}_analysis.md / {SYM}_comparison.md /
+                  {SYM}_stock_to_index.md
 
 Re-run after any report refresh (or let the GitHub Actions workflow in
 .github/workflows/pages.yml do it automatically on every push):
@@ -39,6 +40,7 @@ def main() -> None:
     if SITE.exists():
         shutil.rmtree(SITE)
     (SITE / "data" / "charts").mkdir(parents=True)
+    (SITE / "data" / "relative").mkdir(parents=True)
     (SITE / "reports").mkdir(parents=True)
 
     syms = S.analysed_symbols()
@@ -67,6 +69,13 @@ def main() -> None:
         a, c = S._report_paths(sym)
         shutil.copy2(a, SITE / "reports" / a.name)
         shutil.copy2(c, SITE / "reports" / c.name)
+        # the index comparison: parsed data for the page, plus the stored
+        # workup itself so the third download button has a file to hand over
+        (SITE / "data" / "relative" / f"{sym}.json").write_text(
+            json.dumps(S.RI.load(S.QA, sym, a.read_text(), c.read_text())))
+        w = S.RI.workup_path(S.QA, sym)
+        if w.exists():
+            shutil.copy2(w, SITE / "reports" / w.name)
 
     # the one shared frontend, flagged into static mode
     shutil.copy2(UIV2 / "style.css", SITE / "style.css")

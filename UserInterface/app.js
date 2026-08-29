@@ -419,7 +419,7 @@ async function renderCompany(sym) {
     `<div class="duo" data-sym="${sym}"><div class="col-main"></div>
      <aside class="col-cmp"><div class="card cmp-wait">
        <h2>Then vs now — the last one year</h2>
-       <p class="note">⏳ Building the one-year comparison: the same three engines re-run on
+       <p class="note">⏳ Building the one-year comparison: the same four analyses re-run on
        just the last year's evidence, then compared verdict-by-verdict with the long view${
          state.ai ? " <em>(first run of a company computes both views — this is the slowest step; cached afterwards)</em>" : ""}…</p>
        <p class="note cmp-tick"></p>
@@ -445,18 +445,17 @@ async function renderCompany(sym) {
   cardIn(main, `<h2>Section 2 — Does it look like a long-term winner?</h2>
     ${patternsSection(mb)}`);
   cardIn(main, `<h2>Section 3 — What could break it?</h2>
-    ${risksSection(qr)}
-    ${(out.extensions || []).filter(e => e.section_md).map(e =>
-       `<h3>${esc(e.name)}</h3><p class="note">Additional analysis from the ${esc(e.skill)} skill (${esc(e.status)}).</p>`).join("")}
-    ${state.ai ? `
-      <h3>Ask about this analysis</h3>
+    ${risksSection(qr)}`);
+  const relSection = relativeIndexSection(out.extensions);
+  if (relSection) cardIn(main, relSection);
+  if (state.ai) cardIn(main, `<h2>Ask about this analysis</h2>
       <form class="qa-form" data-sym="${sym}">
-        <input type="text" placeholder="e.g. Why this rating? What changed in the last year? Which risk worries you most?" aria-label="Ask about this analysis">
+        <input type="text" placeholder="e.g. Why this rating? Has it beaten the index? What changed in the last year?" aria-label="Ask about this analysis">
         <button type="submit">Ask</button>
       </form>
       <div class="qa-out"></div>
       <p class="note">Answers come strictly from the records on this page — including the
-      one-year comparison — and the call transcripts; never thin air.</p>` : ""}`);
+      one-year comparison and the index comparison — and the call transcripts; never thin air.</p>`);
   const qaForm = $out().querySelector(`.qa-form[data-sym="${sym}"]`);
   if (qaForm) qaForm.addEventListener("submit", e => {
     e.preventDefault();
@@ -501,7 +500,7 @@ function verdictCard(sym, out) {
     ${ratingCard(rt)}
     <p>${esc(out.verdict_plain || "")}</p>
     ${story ? `<details class="mod"><summary><strong>The story in depth</strong>
-        <span class="note">the grounded narrative connecting all three analyses</span></summary>
+        <span class="note">the grounded narrative connecting all four analyses</span></summary>
         ${story.map(pa => `<p>${esc(pa)}</p>`).join("")}
         <p class="note">Written strictly from the analyses below — names it could not ground were grounds to reject it.</p>
       </details>` : ""}
@@ -553,6 +552,30 @@ function cmpMoveRows(items, kind) {
       ${i.note ? `<p class="note">${esc(i.note)}</p>` : ""}
     </details>`;
   }).join("");
+}
+
+function cmpRelativeBucket(rel) {
+  if (!rel) return "";
+  const head = `<h4>Against the index (price and earnings vs the Nifty 50)</h4>`;
+  if (rel.full == null) {
+    return `${head}<p class="note">The stored history is too short to compare
+      this company with the index over any window.</p>`;
+  }
+  const recent = rel.recent == null
+    ? `<strong>no comparable year</strong>`
+    : `<span class="vbadge ${REL_VERDICT_CLS(rel.recent_verdict)}">${esc(rel.recent_verdict)}</span>
+       <strong>${rel.recent}/100</strong>`;
+  const cells = rel.windows || [];
+  const table = cells.length ? relWindowTable(cells) : "";
+  return `${head}
+    <p class="note">Over the long run:
+      <span class="vbadge ${REL_VERDICT_CLS(rel.full_verdict)}">${esc(rel.full_verdict)}</span>
+      <strong>${rel.full}/100</strong>. Looking only at the latest year: ${recent}.
+      ${rel.delta != null ? `That is ${rel.delta >= 0 ? "+" : ""}${rel.delta} points
+        on the index comparison.` : ""}</p>
+    <p class="note">Each cell is the change in the company-to-index ratio across
+      that window — a rise means the company outgrew the index.</p>
+    ${table}`;
 }
 
 function cmpBucket(title, t, verbs, extraTop) {
@@ -629,6 +652,7 @@ function comparisonPanel(sym, c) {
     ${cmpBucket("Business quality (34 checks)", rec.business, ["improved", "regressed"])}
     ${cmpBucket("Multibagger patterns (11 patterns)", rec.patterns, ["strengthened", "weakened"], gates)}
     ${cmpBucket("Risks (8 channels)", rec.risks, ["eased", "worsened"], frBlock)}
+    ${cmpRelativeBucket(rec.relative)}
     <p><a class="chip" id="dlc-${sym}" href="api/comparison_report/${sym}" download="${sym}_comparison.md">📄 Download the comparison (Markdown)</a>
       <span class="note">— generated together with this panel from the same comparison; panel and file can never disagree.</span></p>`;
 }
@@ -665,19 +689,157 @@ function ratingCard(rt) {
       <div class="note">${esc(p.derivation)}</div>
     </div>`;
   };
+  // Every pillar the rating actually used, in the order it weighted them —
+  // so a new pillar shows up here the moment the analysis produces one.
+  const keys = (rt.pillar_order && rt.pillar_order.length)
+    ? rt.pillar_order.filter(k => rt.pillars[k])
+    : Object.keys(rt.pillars);
+  const n = keys.length;
+  const word = { 2: "two", 3: "three", 4: "four", 5: "five" }[n] || n;
   return `<div class="rating">
     <div class="scoreline">
       <span class="big-score ${cls}">${esc(rt.grade)}</span>
       <span class="stars">${stars}</span>
-      <span class="cov">${rt.score} out of 100, combining all three analyses below</span>
+      <span class="cov">${rt.score} out of 100, combining all ${word} analyses below</span>
     </div>
     <details class="mod" open>
       <summary><strong>How this rating was built</strong>
         <span class="note">every point earned or lost is listed — nothing hidden</span></summary>
       <p class="note calc">${esc(rt.derivation)}</p>
-      ${pillarRow("quality")}${pillarRow("patterns")}${pillarRow("safety")}
+      ${keys.map(pillarRow).join("")}
     </details>
   </div>`;
+}
+
+/* ------------- Section 4: how the company did against the index -------------
+   Rendered from the structured record (window cells + yearly series), not
+   from Markdown, so every number on screen is the number the rating used. */
+
+const REL_CLS = pct =>
+  pct == null ? "mid" : pct >= 10 ? "pos" : pct <= -10 ? "neg" : "mid";
+const REL_VERDICT_CLS = v => {
+  const s = (v || "").toLowerCase();
+  if (s.includes("gained")) return "pos";
+  if (s.includes("lagged")) return "neg";
+  return "mid";
+};
+const REL_COLORS = ["#2a78d6", "#1a9e5c", "#e07b00"];
+
+function relLineChart(chart) {
+  const series = ["price", "pat", "op"]
+    .map((k, i) => ({ key: k, label: (chart[k] || {}).label || k,
+                      pts: ((chart[k] || {}).yoy || []), color: REL_COLORS[i] }))
+    .filter(s => s.pts.length > 1);
+  if (!series.length) return "";
+  const years = [...new Set(series.flatMap(s => s.pts.map(p => p.fy)))].sort();
+  const vals = series.flatMap(s => s.pts.map(p => p.pct)).concat([0]);
+  let lo = Math.min(...vals), hi = Math.max(...vals);
+  const pad = (hi - lo) * 0.12 || 1;
+  lo -= pad; hi += pad;
+  const W = 720, H = 300, L = 52, R = 14, T = 16, B = 42;
+  const x = fy => years.length < 2 ? L + (W - L - R) / 2
+    : L + years.indexOf(fy) * (W - L - R) / (years.length - 1);
+  const y = v => T + (hi - v) * (H - T - B) / (hi - lo);
+  const grid = [0, 1, 2, 3, 4].map(i => {
+    const v = hi - (hi - lo) * i / 4;
+    return `<line x1="${L}" y1="${y(v).toFixed(1)}" x2="${W - R}" y2="${y(v).toFixed(1)}"
+      stroke="currentColor" stroke-opacity=".12"/>
+      <text x="${L - 8}" y="${(y(v) + 4).toFixed(1)}" text-anchor="end"
+        font-size="11" fill="currentColor" fill-opacity=".6">${v >= 0 ? "+" : ""}${v.toFixed(0)}%</text>`;
+  }).join("");
+  const zero = (lo < 0 && hi > 0)
+    ? `<line x1="${L}" y1="${y(0).toFixed(1)}" x2="${W - R}" y2="${y(0).toFixed(1)}"
+        stroke="currentColor" stroke-opacity=".45" stroke-dasharray="5 4"/>` : "";
+  const xlab = years.map((fy, i) => (years.length > 9 && i % 2) ? "" :
+    `<text x="${x(fy).toFixed(1)}" y="${H - B + 18}" text-anchor="middle"
+       font-size="11" fill="currentColor" fill-opacity=".6">FY${String(fy).slice(2)}</text>`).join("");
+  const lines = series.map(s => {
+    const d = s.pts.map(p => `${x(p.fy).toFixed(1)},${y(p.pct).toFixed(1)}`).join(" ");
+    const dots = s.pts.map(p =>
+      `<circle cx="${x(p.fy).toFixed(1)}" cy="${y(p.pct).toFixed(1)}" r="3.4"
+         fill="var(--card,#fff)" stroke="${s.color}" stroke-width="2">
+         <title>${esc(s.label)} · FY${p.fy} · ${p.pct >= 0 ? "+" : ""}${p.pct.toFixed(1)}%</title>
+       </circle>`).join("");
+    return `<polyline points="${d}" fill="none" stroke="${s.color}"
+      stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>${dots}`;
+  }).join("");
+  const legend = series.map(s =>
+    `<span class="rel-key"><i style="background:${s.color}"></i>${esc(s.label)}</span>`).join("");
+  return `<figure class="rel-chart">
+    <svg viewBox="0 0 ${W} ${H}" role="img"
+      aria-label="Yearly change of each ratio against the index">
+      ${grid}${zero}<line x1="${L}" y1="${H - B}" x2="${W - R}" y2="${H - B}"
+        stroke="currentColor" stroke-opacity=".35"/>${xlab}${lines}
+    </svg>
+    <figcaption class="rel-legend">${legend}
+      <span class="note">above the dashed 0% line the company gained on the index that year</span>
+    </figcaption>
+  </figure>`;
+}
+
+function relWindowTable(cells) {
+  const measures = [...new Set(cells.map(c => c.measure))];
+  const windows = [...new Set(cells.map(c => c.window))].sort((a, b) => b - a);
+  const at = (w, m) => cells.find(c => c.window === w && c.measure === m);
+  return `<div class="tablewrap"><table class="rel-table">
+    <thead><tr><th>Window</th>${measures.map(m => `<th>${esc(m)}</th>`).join("")}</tr></thead>
+    <tbody>${windows.map(w => `<tr>
+      <th scope="row">last ${w} year${w > 1 ? "s" : ""}</th>
+      ${measures.map(m => {
+        const c = at(w, m);
+        if (!c || c.pct == null)
+          return `<td class="note">not comparable</td>`;
+        return `<td class="${REL_CLS(c.pct)}">${c.pct >= 0 ? "+" : ""}${c.pct.toFixed(0)}%
+          <span class="note">${esc(c.word)}</span></td>`;
+      }).join("")}</tr>`).join("")}</tbody>
+  </table></div>`;
+}
+
+function relativeIndexSection(extensions) {
+  const e = (extensions || []).find(x =>
+    x && x.pillar && /index/i.test(x.pillar.name || x.name || ""));
+  if (!e) return "";
+  const rec = e.record || {};
+  const p = rec.pillar || {};
+  // "Nifty 50" needs its article in prose; a generic fallback already has one
+  const raw = rec.index_name || "index";
+  const idx = /^the /i.test(raw) ? raw : `the ${raw}`;
+  const head = `<h2>Section 4 — How has it done against ${esc(idx)}?</h2>`;
+  if (p.points == null) {
+    return `${head}<p class="note">${esc(p.derivation ||
+      "The stored history is too short to compare this company with the index.")}</p>`;
+  }
+  const one = rec.one_year || {};
+  const cls = REL_VERDICT_CLS(p.verdict);
+  return `${head}
+    <p class="rel-verdict"><span class="vbadge ${cls}">${esc(p.verdict)}</span>
+      <strong>${p.points} / 100</strong></p>
+    <p class="note">The other three sections judge the business on its own terms.
+      This one asks whether it actually beat the market: each ratio is the company
+      divided by ${esc(idx)}, so a rise means the company outgrew the index and a
+      fall means it lagged.</p>
+    <h3>The verdict over each window</h3>
+    ${relWindowTable(p.cells || [])}
+    ${one.points != null ? `<p class="note">Looking only at the latest year, it has
+      <strong>${esc(one.verdict)}</strong> (${one.points}/100).</p>` : ""}
+    <h3>How the three ratios moved, year by year</h3>
+    ${relLineChart(rec.chart || {})}
+    <details class="mod">
+      <summary><strong>How this pillar was scored</strong>
+        <span class="note">every window, and what it was worth</span></summary>
+      <p class="note calc">${esc(p.derivation)}</p>
+      <p class="note">Each window scores −2 (lagged badly) to +2 (gained strongly):
+        a ratio change of +25% or more scores +2, +10% to +25% scores +1, inside
+        ±10% scores 0, −10% to −25% scores −1, and −25% or worse scores −2. The
+        mean of every window the stored data could answer is mapped onto 0–100.
+        A window whose ratio crosses zero has no honest percentage, so it is left
+        out rather than guessed.</p>
+      ${(p.cells || []).filter(c => c.pct != null).map(c =>
+        `<div class="ev">${c.score > 0 ? "▲" : c.score < 0 ? "▼" : "▬"}
+          ${esc(c.measure)}, last ${c.window} year${c.window > 1 ? "s" : ""}:
+          FY${c.from} → FY${c.to}, ${c.pct >= 0 ? "+" : ""}${c.pct.toFixed(1)}%
+          → ${c.score >= 0 ? "+" : ""}${c.score}</div>`).join("")}
+    </details>`;
 }
 
 const MB_VERDICT_CLS = { "STRONG FIT": "pos", "LIKELY FIT": "pos",

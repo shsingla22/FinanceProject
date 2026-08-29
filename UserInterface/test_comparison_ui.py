@@ -25,6 +25,7 @@ sys.path.insert(0, str(HERE.parent / "IndividualStockAnalysis" / "India"
 
 import server as SV                     # noqa: E402
 import comparison_bridge as CB          # noqa: E402
+CE = CB.CE                              # the ComparisonSkill's engine
 
 client = TestClient(SV.app)
 
@@ -34,6 +35,8 @@ MD_SECTIONS = ["— Then vs Now: The One-Year Comparison",
                "### Bucket 1 — Business quality (34-check framework)",
                "### Bucket 2 — Multibagger patterns (11 patterns)",
                "### Bucket 3 — Risks (8 channels)",
+               "### Bucket 4 — Against the index "
+               "(price and earnings vs the Nifty 50)",
                "## How this comparison was built"]
 JARGON = [r"\b(CAP|ROC|GRW|MGT|IND|CUS|MOAT)\.[a-z_]+", r"\bopm\b",
           r"\byoy\b", r"\b1 days\b", r"\bnan\b",
@@ -53,11 +56,15 @@ def test_comparison_payload_shape():
         assert key in out, f"payload missing {key}"
     rec = out["record"]
     for key in ("rating", "numbers", "pillars", "business", "patterns",
-                "risks", "statuses"):
+                "risks", "relative", "statuses"):
         assert key in rec, f"record missing {key}"
     assert rec["rating"]["direction"] in {"improved", "declined",
                                           "held steady", "not comparable"}
-    assert len(rec["pillars"]) == 3
+    # the three built-in pillars plus every extension pillar that scored
+    names = [p["pillar"] for p in rec["pillars"]]
+    assert names[:3] == ["Business quality", "Multibagger fit", "Risk safety"]
+    assert "Relative to the index" in names
+    assert len(rec["pillars"]) == 4
     # both sides' engine statuses disclosed — the methodology is inspectable
     assert set(rec["statuses"]) == {"full", "recent"}
 
@@ -215,3 +222,59 @@ def test_stratified_sweep_through_the_server_path():
         except Exception as e:
             failures.append((sym, f"EXC {str(e)[:120]}"))
     assert not failures, f"{len(failures)} failures: {failures}"
+
+
+# ------------------------- the index comparison (bucket 4) -------------------
+
+def test_relative_bucket_is_present_and_internally_consistent():
+    """The index pillar must appear on BOTH sides of the comparison, and the
+    numbers in the bucket must match the pillar row that summarises them."""
+    rec = _comparison("CRISIL")["record"]
+    rel = rec["relative"]
+    assert rel is not None, "no index comparison in the record"
+    assert rel["full"] is not None and 0 <= rel["full"] <= 100
+    row = next(p for p in rec["pillars"] if p["pillar"] == rel["name"])
+    assert row["full"] == rel["full"]
+    assert row["recent"] == rel["recent"]
+    if rel["delta"] is not None:
+        assert rel["delta"] == rel["recent"] - rel["full"]
+        assert row["delta"] == rel["delta"]
+
+
+def test_the_two_sides_use_different_evidence_windows():
+    """The long view scores 10/5/3/1-year windows; the one-year view scores
+    only the latest year. If both sides scored the same windows the 'recent'
+    column would be a copy, and the comparison would be meaningless."""
+    full = CE.run_analysis("CRISIL", "full", ai=False)
+    recent = CE.run_analysis("CRISIL", "recent", ai=False)
+
+    def cells(side):
+        for e in side.get("extensions") or []:
+            if "index" in (e.get("pillar", {}).get("name", "")).lower():
+                return (e["record"]["pillar"]["cells"])
+        return []
+
+    assert {c["window"] for c in cells(full)} == {10, 5, 3, 1}
+    assert {c["window"] for c in cells(recent)} == {1}
+
+
+def test_bucket4_table_matches_the_record():
+    """Every percentage printed in bucket 4 must come from the record —
+    the Markdown may not invent or round away a number."""
+    out = _comparison("CRISIL")
+    rel, md = out["record"]["relative"], out["md"]
+    block = md.split("### Bucket 4")[1].split("\n## ")[0]
+    assert rel["full_verdict"] in block
+    assert f"({rel['full']}/100)" in block
+    for c in rel["windows"]:
+        assert f"{c['pct']:+.0f}% · {c['word']}" in block, c
+
+
+def test_a_company_without_index_history_still_renders():
+    """ENRIN has one fiscal year of history: no pillar, no bucket table —
+    and the comparison must still compose rather than crash."""
+    out = _comparison("ENRIN")
+    assert out["md"].strip()
+    rel = out["record"]["relative"]
+    if rel is not None and rel["full"] is None:
+        assert "too short" in out["md"].split("### Bucket 4")[1][:400]

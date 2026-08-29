@@ -136,3 +136,59 @@ def test_full_universe_sweep_through_the_server_path():
         except Exception as e:
             failures.append((sym, f"EXC {str(e)[:80]}"))
     assert not failures, f"{len(failures)} failures: {failures[:10]}"
+
+
+# --------------------- the index comparison as a fourth pillar ---------------
+
+def test_analysis_payload_carries_the_index_pillar_and_its_numbers():
+    """The UI renders this pillar structurally, so the payload must carry
+    the window cells and the yearly series — not just a Markdown blob."""
+    out = client.get("/api/analysis/PIDILITIND?quick=1").json()
+    ext = next(e for e in out["extensions"]
+               if "index" in e["pillar"]["name"].lower())
+    assert ext["status"] == "ok"
+    p = ext["record"]["pillar"]
+    assert 0 <= p["points"] <= 100
+    assert p["verdict"] and "index" in p["verdict"].lower()
+    assert {c["window"] for c in p["cells"]} == {10, 5, 3, 1}
+    for c in p["cells"]:
+        if c["pct"] is not None:
+            assert c["score"] in (-2, -1, 0, 1, 2)
+            assert c["word"]
+    chart = ext["record"]["chart"]
+    assert set(chart) == {"price", "pat", "op"}
+    assert any(chart[k]["yoy"] for k in chart), "no yearly series to plot"
+
+
+def test_the_rating_uses_four_pillars_and_the_arithmetic_adds_up():
+    rt = client.get("/api/analysis/PIDILITIND?quick=1").json()["rating"]
+    assert rt["pillar_order"][:3] == ["quality", "patterns", "safety"]
+    ext_keys = [k for k in rt["pillar_order"] if k.startswith("ext:")]
+    assert ext_keys, "no extension pillar in the rating"
+    scored = {k: rt["pillars"][k] for k in rt["pillar_order"]
+              if rt["pillars"][k]["points"] is not None}
+    weights = {"quality": 0.405, "patterns": 0.27, "safety": 0.225}
+    for k in ext_keys:
+        weights[k] = 0.10
+    wsum = sum(weights[k] for k in scored)
+    expect = round(sum(weights[k] * p["points"] for k, p in scored.items())
+                   / wsum)
+    assert rt["score"] == expect, rt["derivation"]
+    assert "relative to the index" in rt["derivation"]
+
+
+def test_api_rating_and_api_analysis_never_quote_different_numbers():
+    """Two endpoints, one truth: both must fold in the same pillars."""
+    a = client.get("/api/analysis/PIDILITIND?quick=1").json()["rating"]
+    r = client.get("/api/rating/PIDILITIND?quick=1").json()["rating"]
+    a_rel = next(p for k, p in a["pillars"].items() if k.startswith("ext:"))
+    r_rel = next(p for k, p in r["pillars"].items() if k.startswith("ext:"))
+    assert a_rel["points"] == r_rel["points"]
+    assert "relative to the index" in r["derivation"]
+
+
+def test_the_report_markdown_explains_the_index_pillar():
+    md = client.get("/api/analysis/PIDILITIND?quick=1").json()["md"]
+    assert "## Section 4 — How has it done against the index?" in md
+    assert "Against the Nifty 50 it has" in md, "one-breath line missing it"
+    assert "- **Relative to the index (" in md, "pillar bullet missing"

@@ -71,9 +71,12 @@ def full_analysis(sym: str, ai: bool = True) -> dict:
             "verdict_plain": AC._verdict_plain(rt),
             "summary": synth,
             "business": ba, "patterns": mb, "risks": qr,
+            # `record` and `facts` carry the structured numbers behind an
+            # extension pillar (window cells, yearly series), so the UI can
+            # render and explain it natively instead of dumping Markdown.
             "extensions": [{k: e.get(k) for k in
                             ("skill", "name", "status", "order",
-                             "pillar", "section_md")}
+                             "pillar", "section_md", "record", "facts")}
                            for e in exts],
             "trends": trends,
             "statuses": statuses,

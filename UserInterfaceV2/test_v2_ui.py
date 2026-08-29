@@ -250,3 +250,140 @@ def test_interpret_candidates_ground_the_model():
     cands = S._candidates_for("analyse colgate palmolive")
     assert "COLPAL" in cands
     assert all(c in S._const_map for c in cands)
+
+
+# ------------------------- the index comparison (v2) -------------------------
+# Everything here must be PARSED OUT OF the stored reports, never recomputed:
+# if the page and the downloadable file could disagree, the guarantee is void.
+
+import re                                        # noqa: E402
+import relative_index as RI                      # noqa: E402
+
+
+def _rel(sym):
+    r = client.get(f"/api/relative/{sym}")
+    assert r.status_code == 200, r.text[:300]
+    return r.json()
+
+
+def test_relative_endpoint_shape():
+    d = _rel("PIDILITIND")
+    assert d["index"] == "Nifty 50"
+    s = d["section"]
+    assert s["scored"] and 0 <= s["points"] <= 100
+    assert "index" in s["verdict"].lower()
+    assert s["measures"] == ["Price ratio", "PAT ratio",
+                             "Operating-profit ratio"]
+    assert [r["window"] for r in s["windows"]] == [10, 5, 3, 1]
+    assert d["workup"]["raw"]["rows"], "raw yearly values missing"
+
+
+def test_every_number_shown_is_in_the_stored_report():
+    """The parsed windows must appear verbatim in the analysis Markdown."""
+    sym = "PIDILITIND"
+    md = client.get(f"/api/analysis/{sym}").json()["md"]
+    for row in _rel(sym)["section"]["windows"]:
+        for measure, c in row["cells"].items():
+            if c["pct"] is None:
+                continue
+            assert f"{c['pct']:+d}% · {c['word']}" in md, (measure, c)
+
+
+def test_relative_matches_the_headline_pillar_bullet():
+    """The pillar bullet in the report and the parsed points must agree."""
+    for sym in ("PIDILITIND", "COLPAL", "APOLLOHOSP", "CRISIL"):
+        md = client.get(f"/api/analysis/{sym}").json()["md"]
+        m = re.search(r"\*\*Relative to the index \((\d+)/100\):\*\*", md)
+        d = _rel(sym)
+        if m:
+            assert d["section"]["points"] == int(m.group(1)), sym
+        arith = re.search(r"10% × (\d+) \(relative to the index\)", md)
+        if arith:
+            assert d["section"]["points"] == int(arith.group(1)), sym
+
+
+def test_comparison_side_is_parsed_and_consistent():
+    d = _rel("PIDILITIND")
+    c = d["comparison"]
+    assert c["long_points"] == d["section"]["points"]
+    if c["delta"] is not None:
+        assert c["delta"] == c["recent_points"] - c["long_points"]
+
+
+def test_workup_download_is_the_exact_stored_bytes():
+    sym = "PIDILITIND"
+    stored = RI.workup_path(S.QA, sym).read_text()
+    r = client.get(f"/api/relative_report/{sym}")
+    assert r.status_code == 200
+    assert "text/markdown" in r.headers["content-type"]
+    assert "attachment" in r.headers.get("content-disposition", "")
+    assert r.text == stored, "download must be the stored file, byte for byte"
+
+
+def test_company_without_index_history_is_honest_not_broken():
+    """4 companies cannot be compared at any window. They must return a
+    parsed, unscored section rather than a 500 or an invented number."""
+    for sym in ("DBREALTY", "ENRIN", "SPARC", "TMCV"):
+        if sym not in SYMS:
+            continue
+        d = _rel(sym)
+        assert d["section"] is not None, sym
+        assert d["section"]["scored"] is False, sym
+        assert d["section"]["points"] is None, sym
+
+
+def test_unknown_symbol_is_a_clean_404():
+    assert client.get("/api/relative/NOTACOMPANY").status_code == 404
+    assert client.get("/api/relative_report/NOTACOMPANY").status_code == 404
+
+
+@pytest.mark.parametrize("chunk", range(10))
+def test_relative_sweep_every_company(chunk):
+    """Every analysed company must parse cleanly — no exceptions, no
+    half-parsed tables, and a scored company always has its windows."""
+    bad = []
+    for sym in SYMS[chunk::10]:
+        try:
+            d = _rel(sym)
+        except Exception as e:
+            bad.append((sym, str(e)[:90]))
+            continue
+        s = d["section"]
+        if s is None:
+            bad.append((sym, "no section 4"))
+        elif s["scored"]:
+            if not s["windows"]:
+                bad.append((sym, "scored but no window table"))
+            elif not (0 <= s["points"] <= 100):
+                bad.append((sym, f"points out of range: {s['points']}"))
+            for row in s["windows"]:
+                for measure, c in row["cells"].items():
+                    if c["pct"] is not None and not isinstance(c["pct"], int):
+                        bad.append((sym, f"bad pct {c}"))
+    assert not bad, f"{len(bad)} companies failed: {bad[:5]}"
+
+
+def test_all_three_measures_are_always_listed_never_silently_dropped():
+    """A measure the stored data cannot span still appears, carrying the
+    report's own words. Dropping it would hide that it was considered."""
+    d = _rel("COLPAL")
+    labels = [r["label"] for r in d["workup"]["ratios"]]
+    assert labels == ["Price ratio", "PAT ratio", "Operating-profit ratio"]
+    unavailable = [r for r in d["workup"]["ratios"] if r["unavailable"]]
+    assert unavailable, "COLPAL has no PAT/OP overlap; that must be stated"
+    for r in unavailable:
+        assert "too little" in r["unavailable"]
+        assert not r["levels"]
+    # and the window table marks them not-comparable rather than 0%
+    cells = d["section"]["windows"][0]["cells"]
+    assert cells["PAT ratio"]["pct"] is None
+
+
+def test_every_company_lists_exactly_the_three_measures():
+    bad = []
+    for sym in SYMS[::17]:
+        d = _rel(sym)
+        labels = [r["label"] for r in (d["workup"] or {}).get("ratios", [])]
+        if labels != ["Price ratio", "PAT ratio", "Operating-profit ratio"]:
+            bad.append((sym, labels))
+    assert not bad, f"measures missing or renamed: {bad[:5]}"
