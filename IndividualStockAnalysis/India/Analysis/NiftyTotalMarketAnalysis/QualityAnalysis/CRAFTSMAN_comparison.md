@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: HELD STEADY in the last year ➡️
 
-Long-term view: Mixed (45/100). Last one year: Mixed (47/100). The last year looks in line with the long-term picture (+2 points) — the company has held steady in the recent period.
+Long-term view: Decent (50/100). Last one year: Decent (52/100). The last year looks in line with the long-term picture (+2 points) — the company has held steady.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 61 | 60 | -1 |
 | Multibagger fit | 18 | 29 | +11 |
 | Risk safety | 48 | 44 | -4 |
+| Relative to the index | 94 | 100 | +6 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -109,6 +110,20 @@ Genuinely re-tested risk verdicts: 3 eased, 3 worsened, 2 unchanged. Financial r
 *Unchanged: New Entrants (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (94/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (100/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | +200% · gained strongly | +45% · gained strongly | +41% · gained strongly |
+| last 3 years | +61% · gained strongly | -3% · moved with | +48% · gained strongly |
+| last 1 year | +45% · gained strongly | +68% · gained strongly | +46% · gained strongly |
+
 
 ## How this comparison was built
 

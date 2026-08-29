@@ -2,15 +2,16 @@
 
 **What this compares:** the full-history AnalystSkill view ("what has this business been over the long run?") against the RecentAnalystSkill's one-year view ("what does it look like RIGHT NOW?") — same three analysis engines, same rules, different evidence windows. Only items assessed on BOTH views are compared; checks the one-year lens silences by design are listed separately and never counted as regressions.
 
-## Step 1 — The overall rating: HELD STEADY in the last year ➡️
+## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Outstanding (83/100). Last one year: Outstanding (82/100). The last year looks in line with the long-term picture (-1 points) — the company has held steady in the recent period.
+Long-term view: Outstanding (80/100). Last one year: Strong (77/100). The last year looks WEAKER than the long-term picture (-3 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 81 | 80 | -1 |
 | Multibagger fit | 100 | 100 | +0 |
 | Risk safety | 66 | 64 | -2 |
+| Relative to the index | 53 | 33 | -20 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -104,6 +105,20 @@ Genuinely re-tested risk verdicts: 2 eased, 1 worsened, 5 unchanged. Financial r
 *Unchanged: Cyclicality (WATCH); Government Dependency (WATCH); Shifting Consumer Preferences (WATCH); Good Enough Goods (WATCH); Fashion Risk (LOW).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **MOVED WITH the index** (53/100). Looking only at the latest year, it has **LAGGED the index** (33/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | +3% · moved with | -16% · lagged | +15% · gained |
+| last 3 years | +16% · gained | +5% · moved with | +33% · gained strongly |
+| last 1 year | -15% · lagged | -11% · lagged | +3% · moved with |
+
 
 ## How this comparison was built
 

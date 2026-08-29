@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (63/100). Last one year: Decent (58/100). The last year looks WEAKER than the long-term picture (-5 points) — the company has declined in the recent period.
+Long-term view: Strong (66/100). Last one year: Decent (61/100). The last year looks WEAKER than the long-term picture (-5 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 62 | 65 | +3 |
 | Multibagger fit | 48 | 26 | -22 |
 | Risk safety | 84 | 84 | +0 |
+| Relative to the index | 91 | 83 | -8 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -100,6 +101,20 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 8 unchanged. Financial r
 *Unchanged: Government Dependency (WATCH); Stakeholder Concentration (WATCH); New Entrants (WATCH); Good Enough Goods (WATCH); Cyclicality (LOW); Technological Innovation (LOW); Shifting Consumer Preferences (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (91/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (83/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +48% · gained strongly | +607% · gained strongly | +696% · gained strongly |
+| last 5 years | +143% · gained strongly | — | +158% · gained strongly |
+| last 3 years | +130% · gained strongly | +7% · moved with | +55% · gained strongly |
+| last 1 year | +15% · gained | +16% · gained | +29% · gained strongly |
+
 
 ## How this comparison was built
 

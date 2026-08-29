@@ -19,15 +19,16 @@ Godrej Consumer Products Limited (GCPL) is a Mumbai-headquartered, stock-exchang
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 79 out of 100 ★★★★☆
+## The verdict: Strong — 72 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 4 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Good Enough Goods). Weighing those together gives 79 out of 100 — strong.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 4 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Good Enough Goods). Against the Nifty 50 it has lagged the index badly (17/100). Weighing those together gives 72 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 92 (multibagger fit) + 25% × 78 (risk safety) = 79 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 92 (multibagger fit) + 22.5% × 78 (risk safety) + 10% × 17 (relative to the index) = 72 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.80 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (92/100):** the foundation test partly passed (+10); 4 patterns fit strongly (Pricing Power, Brand Strength, Innovation Dominance, Corporate Culture) (+60); 2 likely (+16); 2 numbers-only hints (+6) → 92 of 100.
 - **Risk safety (78/100):** started from a clean 100; 1 elevated (−10); 3 worth watching (−12) → 78 of 100.
+- **Relative to the index (17/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 17 points.
 
 ### The story in depth
 
@@ -444,6 +445,58 @@ FY2026  ████████                   12 days  ▲ 5 days vs prior 
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±5 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 5% a year earlier, 7% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 17 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 17 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -30% · lagged badly | -37% · lagged badly | -33% · lagged badly |
+| last 5 years | -18% · lagged | -60% · lagged badly | -34% · lagged badly |
+| last 3 years | -23% · lagged | -31% · lagged badly | +6% · moved with |
+| last 1 year | -14% · lagged | -12% · lagged | +4% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +441% ┤
+        │                                                                        ◆┓
+        │                                                                       ┏┛┗┓
+        │                                                                       ┃  ┗┓
+  +289% ┤                                                                      ┏┛   ┗┓
+        │                                                                      ┃     ┃
+        │                                                                     ┏┛     ┗┓
+  +136% ┤                                                                    ┏┛       ┗┓
+        │                                                                   ┏┛         ┗┓
+        │●───╮  ┏◆━━━━━━━◆━━━━━━━◆━┓                                        ┃           ┗┓
+   -16% ┼■═══════■═══════■════╗──●─┗━╔═══■═══════■════╗──●───────●───╔═══■═══════■═══════■┈┈
+        │◆━┛                  ╚══■═══╝  ┗◆━━━┛        ╚══■═══════■═══╝     ┃
+        │                                                          ┗━━━━┓ ┏┛
+        │                                                               ┗◆┛
+  -168% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +38.3   +2.1    +13.4   -13.1   -10.5   -5.6    -12.4   +22.7   +3.3    -14.0   -13.9
+◆      -19.2   +48.4   +28.4   +32.7   -34.7   -4.4    -30.6   -17.7  -126.2  +399.1   -11.7
+■      +14.2   +14.2   +10.1   -18.1   -2.0    +0.9    -25.4   -16.8   +6.8    -3.8    +3.5
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GODREJCP_stock_to_index.md`](GODREJCP_stock_to_index.md), with the same graph as [`GODREJCP_stock_to_index.svg`](GODREJCP_stock_to_index.svg) and [`GODREJCP_stock_to_index.mmd`](GODREJCP_stock_to_index.mmd).
+
 ## What to watch
 
 - Pricing power holding: if price increases like the 30% incense-stick move start costing volume, both the Pricing Power pattern and the silver lining offsetting the elevated Good Enough Goods risk weaken at once.
@@ -459,5 +512,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

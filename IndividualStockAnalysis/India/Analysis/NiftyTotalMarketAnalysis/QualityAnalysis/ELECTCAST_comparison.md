@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Weak (33/100). Last one year: Weak (30/100). The last year looks WEAKER than the long-term picture (-3 points) — the company has declined in the recent period.
+Long-term view: Weak (30/100). Last one year: Weak (27/100). The last year looks WEAKER than the long-term picture (-3 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 52 | 49 | -3 |
 | Multibagger fit | 10 | 18 | +8 |
 | Risk safety | 28 | 12 | -16 |
+| Relative to the index | 0 | 0 | +0 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -103,6 +104,20 @@ Genuinely re-tested risk verdicts: 0 eased, 1 worsened, 3 unchanged; 4 carried f
 *Unchanged: Cyclicality (HIGH RISK); Government Dependency (HIGH RISK); New Entrants (WATCH).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (0/100). Looking only at the latest year, it has **LAGGED the index badly** (0/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | -57% · lagged badly |
+| last 5 years | — | — | -59% · lagged badly |
+| last 3 years | — | -68% · lagged badly | -61% · lagged badly |
+| last 1 year | — | -80% · lagged badly | -66% · lagged badly |
+
 
 ## How this comparison was built
 

@@ -21,15 +21,16 @@ JK Tyre & Industries is an Indian company that manufactures and sells tyres — 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 44 out of 100 ★★☆☆☆
+## The verdict: Mixed — 47 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (52/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Good Enough Goods). Weighing those together gives 44 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (52/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Good Enough Goods). Against the Nifty 50 it has gained on the index (71/100). Weighing those together gives 47 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 52 (business quality) + 30% × 10 (multibagger fit) + 25% × 72 (risk safety) = 44 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 52 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 72 (risk safety) + 10% × 71 (relative to the index) = 47 out of 100 → Mixed (2 stars).
 
 - **Business quality (52/100):** The 34-check quality framework scored the business +0.09 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 52 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (72/100):** started from a clean 100; 2 elevated (−20); 2 worth watching (−8) → 72 of 100.
+- **Relative to the index (71/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.83 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 71 points.
 
 ### The story in depth
 
@@ -458,6 +459,58 @@ FY2026  █████████████████████      90 
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±14 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 4% a year earlier, 12% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 71 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.83 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 71 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +48% · gained strongly | -54% · lagged badly | -36% · lagged badly |
+| last 5 years | +113% · gained strongly | -14% · lagged | -22% · lagged |
+| last 3 years | +85% · gained strongly | +87% · gained strongly | +28% · gained strongly |
+| last 1 year | +39% · gained strongly | +34% · gained strongly | +25% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +170% ┤
+        │                        ◆┓                                      ◆┓
+        │                       ┏┛┗┓                                    ┏●┗┓
+        │                       ┃  ┗┓                                  ┏┛╯╰┃
+  +102% ┤                      ┏┛   ┗┓           ◆┓                  ┏━┛   ┗┓
+        │                      ┃     ┃          ┏●┗┓                ┏┛      ┗┓
+        │                     ┏┛     ┗┓       ┏━┛╯╰┗┓╮            ╭┏┛        ┗┓
+   +34% ┤◆━┓    ╭●───╮       ┏┛       ┗┓     ┏┛╯    ┗┓╮         ╭●┏┛    ╔■═╗  ┗┓        ╔■
+        │■════╗─╯    ╰───●─╮┏┛  ╔■════╗┗┓  ┏━╔═══■═╗ ┗┓──╮ ╭────┏◆┛╔════╝  ╚══╗┗┓    ╔══╝┛
+        │┈┈╭─╯╚══■═╗┈┈┈┈┈┈┈╰┃╮╔═╝┈┈┈┈┈╚══■═══╝┈┈┈┈┈╚═╗┗┓┈●─╯┈┈┈┏╔■═╝┈┈┈┈┈┈┈┈┈┈╚═╗┈┈╔═╝┛┈┈┈┈┈
+   -34% ┤●─╯    ┗◆━╚════╗  ╔══╝─╮        ◆┛─╯        ╚══╗  ╔════╝               ╚■═╝━┛
+        │          ┗━┓  ╚■═╝    ╰●───────●╯             ╚■═╝┛                    ◆┛
+        │            ┗━━┓ ┏┛                             ◆━┛
+        │               ┗◆┛
+  -102% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -16.5   +32.2   +7.0    -49.4   -46.3   +80.9   -7.9    +25.0  +122.8   -40.3   +39.2
+◆      +34.3   -23.1   -83.0  +151.3   -15.8   +95.2   -59.3   +12.8  +144.0   -42.8   +34.0
+■      +14.1   +0.5    -34.4   +20.8   -14.0   +20.0   -39.0   -0.7    +42.2   -27.8   +25.1
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`JKTYRE_stock_to_index.md`](JKTYRE_stock_to_index.md), with the same graph as [`JKTYRE_stock_to_index.svg`](JKTYRE_stock_to_index.svg) and [`JKTYRE_stock_to_index.mmd`](JKTYRE_stock_to_index.mmd).
+
 ## What to watch
 
 - Q1FY27 margin outcome against the 18-20% raw-material increase already flagged under the 'Cyclicality' risk — whether the pass-through gap widens beyond the 4-5% under-recovery admitted in Q3FY25.
@@ -474,5 +527,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

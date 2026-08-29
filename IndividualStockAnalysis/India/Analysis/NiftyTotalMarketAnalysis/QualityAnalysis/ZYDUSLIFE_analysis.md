@@ -18,15 +18,16 @@ Zydus Lifesciences is an India-based pharmaceutical company (listed in Mumbai as
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 79 out of 100 ★★★★☆
+## The verdict: Strong — 78 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (68/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 79 out of 100 — strong.
+In one breath: the quality framework finds a good business today (68/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (67/100). Weighing those together gives 78 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 68 (business quality) + 30% × 95 (multibagger fit) + 25% × 80 (risk safety) = 79 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 68 (business quality) + 27% × 95 (multibagger fit) + 22.5% × 80 (risk safety) + 10% × 67 (relative to the index) = 78 out of 100 → Strong (4 stars).
 
 - **Business quality (68/100):** The 34-check quality framework scored the business +0.74 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 68 points.
 - **Multibagger fit (95/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Innovation Dominance, Corporate Culture) (+30); 5 likely (+40) → 95 of 100.
 - **Risk safety (80/100):** started from a clean 100; 5 worth watching (−20) → 80 of 100.
+- **Relative to the index (67/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 67 points.
 
 ### The story in depth
 
@@ -451,6 +452,58 @@ FY2026  ██████████████████████    21
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±8 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 10% a year earlier, 12% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 67 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.67 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 67 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -10% · lagged | -27% · lagged badly | +28% · gained strongly |
+| last 5 years | +20% · gained | -14% · lagged | +27% · gained strongly |
+| last 3 years | +33% · gained strongly | +55% · gained strongly | +80% · gained strongly |
+| last 1 year | -0% · moved with | -4% · moved with | +18% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +74% ┤
+        │                                                               ╭●╮
+        │◆┓              ■╗                      ◆━━━━┓              ╭──╯◆┓╮
+        │ ┗┓            ╔╝╚╗                    ┏┛    ┗━━◆┓        ╭─╯  ┏┛┗━┓
+   +38% ┤  ┗┓          ╔╝  ╚╗                  ┏┛         ┗┓     ●─╯    ┃   ┗━┓
+        │■╗ ┗┓  ╭●╮   ╔╝ ◆━┓╚╗                ┏┛           ┃    ╭╯     ┏╔■═══════■═══════■
+        │ ╚══╗┓─╯ ╰─╔═╝┏━┛ ┗━╚═╗┓            ┏┛╔═■═╗       ┗┓ ╭─╯    ╔══╝     ╰┗━┓
+    +1% ┼┈┈╭─╚╗┓┈┈┈╔╝╮┏┛┈┈┈┈┈┈┈╚╗◆┓┈┈┈┈┈┈┈┈┈╔══╝┈┈┈╚╗┈┈┈┈┈┈┈┗┓╯┈┈┈┈╔═╝┃┈┈┈┈┈┈┈┈╰╮◆━━━━━━━◆┈┈
+        │●─╯  ╚══╗╔╝┏━┛╮        ╚╗┗━━╔═══■══╝┛      ╚══╗   ╭─┗┓╔═■═╝ ┏┛         ╰╮ ╭────╯
+        │       ┗■╝━┛  ╰─╮    ╭──■═══╝┓    ┏┛          ╚╗ ╭╯╔══╝    ┏┛           ●─╯
+   -35% ┤        ◆┛      ●────╯       ┗━━┓┏┛            ╚■══╝  ┗┓  ┏┛
+        │                                ◆┛                     ┃  ┃
+        │                                                       ┗┓┏┛
+        │                                                        ◆┛
+   -71% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -5.2    +17.7   -25.9   -18.7   -5.2    +11.2   -32.4   +33.5   +63.8   -18.3   -0.3
+◆      +56.9   -27.2   +22.6   -2.8    -35.3   +50.9   +41.6   -60.9   +51.2   +6.6    -3.6
+■      +26.3   -19.1   +50.0   -15.4   -9.3    +8.2    -25.8   -5.2    +23.1   +23.7   +18.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ZYDUSLIFE_stock_to_index.md`](ZYDUSLIFE_stock_to_index.md), with the same graph as [`ZYDUSLIFE_stock_to_index.svg`](ZYDUSLIFE_stock_to_index.svg) and [`ZYDUSLIFE_stock_to_index.mmd`](ZYDUSLIFE_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the FY27 margin guidance of 24%-plus holds or slips further, since the New Entrants risk already prices in Revlimid and Mirabegron competition
@@ -466,5 +519,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

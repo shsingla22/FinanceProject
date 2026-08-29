@@ -6,15 +6,16 @@
 
 *No conference-call transcripts were available to describe the business in management's own words — run the full analysis, or see the evidence sections below.*
 
-## The verdict: Mixed — 48 out of 100 ★★☆☆☆
+## The verdict: Decent — 53 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (47/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 48 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (47/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has gained strongly on the index (94/100). Weighing those together gives 53 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 47 (business quality) + 30% × 16 (multibagger fit) + 25% × 88 (risk safety) = 48 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 47 (business quality) + 27% × 16 (multibagger fit) + 22.5% × 88 (risk safety) + 10% × 94 (relative to the index) = 53 out of 100 → Decent (3 stars).
 
 - **Business quality (47/100):** The 34-check quality framework scored the business -0.11 on its −2 (poor) to +2 (excellent) scale, with 21% of checks backed by evidence; mapped onto 0–100 that is 47 points. Caution: only 21% of the 34 checks could be answered from this evidence — a thin base; the full analysis (with the conference calls) firms this up.
 - **Multibagger fit (16/100):** the foundation test partly passed (+10); 2 numbers-only hints (+6) → 16 of 100.
 - **Risk safety (88/100):** started from a clean 100; 1 numbers-only flag (−4); the balance sheet shows one stress signal (−8) → 88 of 100. Caution: only 1 of the 8 risk channels could be tested on this evidence — treat this as provisional, not a clean bill of health.
+- **Relative to the index (94/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 94 points.
 
 ### The story in depth
 
@@ -302,6 +303,58 @@ FY2026  ██████████████████████    23
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±16 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: -0% a year earlier, 20% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 94 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 94 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +55% · gained strongly | +151% · gained strongly | +72% · gained strongly |
+| last 5 years | +274% · gained strongly | +49% · gained strongly | +46% · gained strongly |
+| last 3 years | +133% · gained strongly | +40% · gained strongly | +62% · gained strongly |
+| last 1 year | -16% · lagged | +25% · gained strongly | +33% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +212% ┤
+        │●╮
+        │ ╰╮
+        │  │
+  +145% ┤  ╰╮
+        │   ╰╮
+        │    ╰╮                                                                 ╭●╮
+   +78% ┤     │                                                  ●─╮          ╭─╯ ╰╮
+        │     ╰╮               ┏━◆━━━━━━━◆━┓                  ╭──╯ ╰────╮  ╭──╯    ╰─╮
+        │      ╰╮           ┏━━┛      ╔══■═╗┓                ╭╯ ┏◆━┓    ╰●─╯         ╰╔══■
+   +11% ┤       │      ┏━◆━━┛╔═══■════╝    ╚══╗┓          ╭──┏━━┛  ┗━━━━┓    ╔═══■════╝━━◆
+        │┈┈┈┈┈┈┈╰╮┈┈┏━╔══■═══╝╭─╯┈┈┈┈┈╰──●─╮┈┈╚═╗┈┈┈┈┈┈┈╭●╯┏━┛╔══■═══════■═══╝━━━◆━━━┛┈┈╰╮┈┈
+        │■═══════■════╝    ╭──╯            ╰────╚■═══════■════╝                          ●
+        │             ╰──●─╯                    ╰●─╯
+   -56% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●     +193.9   -19.6   -37.2   +26.5   -1.4    -34.4   -5.7    +70.6   +35.7  +103.6   -15.8
+◆      -11.9   -24.0   +19.3   +51.4   +51.2   -18.8   -21.9   +35.8   +2.0    +9.9    +25.1
+■      -16.1   -22.2   +3.1    +24.1   +42.5   -17.2   -13.1   +4.2    -0.9    +23.0   +32.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GODFRYPHLP_stock_to_index.md`](GODFRYPHLP_stock_to_index.md), with the same graph as [`GODFRYPHLP_stock_to_index.svg`](GODFRYPHLP_stock_to_index.svg) and [`GODFRYPHLP_stock_to_index.mmd`](GODFRYPHLP_stock_to_index.mmd).
+
 ## What to watch
 
 - The 230-day cash cycle (Cost of working capital, -2) — shortening it is the single fastest route from a 25% operating margin to a better than 8% cash return on capital.
@@ -317,5 +370,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (no_concalls): the 34-check quality framework.
 - **MultibaggerPattern** (no_concalls): the 11 patterns long-term winners share.
 - **QualityRisks** (no_concalls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

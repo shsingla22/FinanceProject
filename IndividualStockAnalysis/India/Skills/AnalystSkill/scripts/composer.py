@@ -31,12 +31,25 @@ SYNTH_CACHE = HERE.parent / ".synth_cache.json"
 
 GRADE_BANDS = [(80, "Outstanding", 5), (65, "Strong", 4), (50, "Decent", 3),
                (35, "Mixed", 2), (0, "Weak", 1)]
-WEIGHTS = {"quality": 0.45, "patterns": 0.30, "safety": 0.25}
+# The three built-in pillars are held at 45/30/25 RELATIVE to each other
+# but scaled to 0.90, so the StockToIndexPriceEarningsRatio extension's
+# 0.10 makes the four sum to exactly 1.00 and print as 40.5/27/22.5/10.
+# When an extension cannot be scored, compute_rating re-normalises over
+# what is available and the original 45/30/25 split returns untouched.
+WEIGHTS = {"quality": 0.405, "patterns": 0.27, "safety": 0.225}
 MODULE_SHORT = {"CAP": "Capital Allocation", "ROC": "Return on Capital",
                 "GRW": "Growth", "MGT": "Management",
                 "IND": "Industry Structure", "CUS": "Customer Benefits",
                 "MOAT": "Competitive Advantage"}
 WORD = {2: "Excellent", 1: "Good", 0: "Neutral", -1: "Weak", -2: "Poor"}
+
+
+def _pct(w: float) -> str:
+    """A weight as a percentage, keeping a decimal only when it matters:
+    0.405 -> "40.5%", 0.27 -> "27%". Rounding 40.5 to 40 would make the
+    published arithmetic fail to add up."""
+    s = f"{w * 100:.1f}".rstrip("0").rstrip(".")
+    return f"{s}%"
 
 
 def _grade(score):
@@ -189,7 +202,7 @@ def compute_rating(ba: dict, mb: dict, qr: dict,
     wsum = sum(weights[k] for k in avail)
     score = round(sum(p["points"] * weights[k] for k, p in avail.items()) / wsum)
     grade, stars = _grade(score)
-    terms = " + ".join(f"{weights[k] / wsum:.0%} × {pillars[k]['points']} "
+    terms = " + ".join(f"{_pct(weights[k] / wsum)} × {pillars[k]['points']} "
                        f"({pillars[k]['name'].lower()})"
                        for k in order if k in avail)
     return {"score": score, "grade": grade, "stars": stars, "pillars": pillars,

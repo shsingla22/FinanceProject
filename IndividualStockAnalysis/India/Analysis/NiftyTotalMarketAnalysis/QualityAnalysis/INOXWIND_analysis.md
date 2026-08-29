@@ -17,15 +17,16 @@ Inox Wind makes large wind turbines in India and sells them to companies that bu
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 22 out of 100 ★☆☆☆☆
+## The verdict: Weak — 24 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds an average business today (45/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Weighing those together gives 22 out of 100 — weak.
+In one breath: the quality framework finds an average business today (45/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Against the Nifty 50 it has lagged the index (41/100). Weighing those together gives 24 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 45 (business quality) + 30% × 0 (multibagger fit) + 25% × 8 (risk safety) = 22 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 45 (business quality) + 27% × 0 (multibagger fit) + 22.5% × 8 (risk safety) + 10% × 41 (relative to the index) = 24 out of 100 → Weak (1 star).
 
 - **Business quality (45/100):** The 34-check quality framework scored the business -0.18 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 45 points.
 - **Multibagger fit (0/100):** the foundation test did not pass (+0); no pattern found meaningful support (+0) → 0 of 100.
 - **Risk safety (8/100):** started from a clean 100; 3 high risks (Cyclicality, Government Dependency, Stakeholder Concentration) (−60); 2 worth watching (−8); 1 numbers-only flag (−4); the balance sheet shows multiple stress signals (−20) → 8 of 100.
+- **Relative to the index (41/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 41 points.
 
 ### The story in depth
 
@@ -437,6 +438,58 @@ FY2026  ████                      443 days  ▲ 117 days vs prior year
 - ✅ Operating margin (20%) remains near its historical peak (21%) — no collapse in the premium.
 - ✅ Operating margin held (about 16% then 19%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 41 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 41 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -62% · lagged badly | -73% · lagged badly | -57% · lagged badly |
+| last 5 years | +164% · gained strongly | — | — |
+| last 3 years | +143% · gained strongly | — | — |
+| last 1 year | -53% · lagged badly | -10% · moved with | +16% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++1,050% ┤
+        │                                                                        ◆┓
+        │                                                                      ┏━┛┗┓
+        │                                                                     ┏┛   ┗┓
+  +604% ┤                                                                    ┏┛     ┗━┓
+        │                                                                   ┏┛        ┗┓
+        │                       ╔■═╗                                   ╭─●┏━┛          ┗┓
+  +157% ┤                     ╔═╝  ╚╗           ╭●───╮              ╭─╔══■═══════■═══╗  ┗┓
+        │■═══════■════╗┈┈┈┈╔══╝┏━◆┓┈╚══╗┈┈┈╭────╯◆━━━╔═══■═══════■════╝┈┈┈┈┈┈┈┈╰─●───╚═══■┈┈
+        │     ┗━━◆━━━┓╚══■═╝┏━━┛─●┗━┓──╚╗●─╯  ╔══■═══╝                                ╰──●
+        │            ┗━━━◆━━┛       ┗━┓ ╚■════╝┛
+  -289% ┤                             ┗┓    ┏┛
+        │                              ┗━┓┏━┛
+        │                                ◆┛
+  -735% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·     -44.5   -44.9   -44.1   -66.9  +155.6   +35.8   -20.2  +346.5   +16.1   -53.0
+◆      +47.8   -38.0  -163.8   +80.3  -612.3   +8.5    -5.4    -19.8   +94.3  +926.8   -9.9
+■      +64.2   -26.7  -115.4  +243.7  -175.5   -49.1   -16.6   +28.6  +188.6  +172.7   +15.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`INOXWIND_stock_to_index.md`](INOXWIND_stock_to_index.md), with the same graph as [`INOXWIND_stock_to_index.svg`](INOXWIND_stock_to_index.svg) and [`INOXWIND_stock_to_index.mmd`](INOXWIND_stock_to_index.mmd).
+
 ## What to watch
 
 - Cash return on capital turning positive — the 'Return on capital (headline)' check at -8% is the heaviest single drag; growth capex only earns its keep if operating cash follows the revenue.
@@ -452,5 +505,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

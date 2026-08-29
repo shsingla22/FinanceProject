@@ -18,15 +18,16 @@ Ujjivan Small Finance Bank is an Indian bank that lends mainly to low- and middl
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 49 out of 100 ★★☆☆☆
+## The verdict: Mixed — 43 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (49/100); the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 49 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (49/100); the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has lagged the index badly (6/100). Weighing those together gives 43 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 64% × 49 (business quality) + 36% × 48 (risk safety) = 49 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 55.5% × 49 (business quality) + 30.8% × 48 (risk safety) + 13.7% × 6 (relative to the index) = 43 out of 100 → Mixed (2 stars).
 
 - **Business quality (49/100):** The 34-check quality framework scored the business -0.04 on its −2 (poor) to +2 (excellent) scale, with 79% of checks backed by evidence; mapped onto 0–100 that is 49 points.
 - **Multibagger fit (—):** The foundation test was essentially untestable (only 1 of its 3 checks had data) and no pattern shows any evidence — this pillar is left unscored rather than guessed.
 - **Risk safety (48/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 3 worth watching (−12) → 48 of 100.
+- **Relative to the index (6/100):** Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored -1.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 6 points.
 
 ### The story in depth
 
@@ -351,6 +352,57 @@ On the funding and governance side the picture splits cleanly. Stakeholder conce
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 6 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored -1.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 6 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -24% · lagged | -47% · lagged badly |
+| last 3 years | — | — | — |
+| last 1 year | — | -50% · lagged badly | -78% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++3,393% ┤
+        │        ◆┓
+        │         ┗━━┓
+        │            ┗┓
++1,254% ┤             ┗━━┓
+        │       ╔■═══════■═══╗                ╔══■═══╗
+        │┈┈┈┈╔══╝┈┈┈┈┈┈┈┈┈┈┈┈╚═══■═══════■════╝┈┏┛┈┈┈╚═══■═══════■┈┈
+  -885% ┤  ╔═╝                    ┗┓           ┏┛
+        │■═╝                       ┗┓         ┏┛
+        │                           ┗┓       ┏┛
+-3,024% ┤                            ┗━┓    ┏┛
+        │                              ┗┓  ┏┛
+        │                               ┗┓┏┛
+        │                                ◆┛
+-5,163% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆        ·    +2803.2  +46.3   -98.5  -4573.1 +311.0   +5.5    -50.2
+■     -1527.5 +185.9  +264.0  -173.6  -216.8  +202.9   -1.1    -77.7
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`UJJIVANSFB_stock_to_index.md`](UJJIVANSFB_stock_to_index.md), with the same graph as [`UJJIVANSFB_stock_to_index.svg`](UJJIVANSFB_stock_to_index.svg) and [`UJJIVANSFB_stock_to_index.mmd`](UJJIVANSFB_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the microfinance upturn behind the 'Cyclical market growth' check holds — micro banking crossing INR20,000 crore and borrower growth after seven falling quarters need to continue, or the HIGH-RISK Cyclicality verdict reasserts itself.
@@ -367,5 +419,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

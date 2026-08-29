@@ -14,15 +14,16 @@ Raymond Lifestyle Limited is an India-based men's clothing company, roughly 100 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 50 out of 100 ★★★☆☆
+## The verdict: Decent — 53 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (55/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Shifting Consumer Preferences). Weighing those together gives 50 out of 100 — decent.
+In one breath: the quality framework finds an average business today (55/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Shifting Consumer Preferences). Against the Nifty 50 it has gained strongly on the index (75/100). Weighing those together gives 53 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 55 (business quality) + 30% × 39 (multibagger fit) + 25% × 56 (risk safety) = 50 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 55 (business quality) + 27% × 39 (multibagger fit) + 22.5% × 56 (risk safety) + 10% × 75 (relative to the index) = 53 out of 100 → Decent (3 stars).
 
 - **Business quality (55/100):** The 34-check quality framework scored the business +0.21 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 55 points.
 - **Multibagger fit (39/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Brand Strength) (+15); 3 likely (+24) → 39 of 100.
 - **Risk safety (56/100):** started from a clean 100; 1 high risk (Shifting Consumer Preferences) (−20); 6 worth watching (−24) → 56 of 100.
+- **Relative to the index (75/100):** Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
 
 ### The story in depth
 
@@ -405,6 +406,57 @@ FY2026  ████████████████████      102 da
 - ⬜ Insufficient sales history.
 - ⬜ Not enough margin history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 75 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | — | — |
+| last 1 year | — | +6% · moved with | +38% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +49% ┤
+        │        ■
+        │       ╔╝
+        │      ╔╝
+    +9% ┼┈┈┈┈┈╔╝┈◆┈┈
+        │    ╔╝ ┏┛
+        │   ╔╝ ┏┛
+   -30% ┤  ╔╝ ┏┛
+        │ ╔╝ ┏┛
+        │■╝  ┃
+   -70% ┤   ┏┛
+        │  ┏┛
+        │ ┏┛
+        │◆┛
+  -110% ┤
+        └┬───────┬──
+       FY25    FY26
+
+◆      -98.7   +6.4
+■      -51.2   +38.0
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`RAYMONDLSL_stock_to_index.md`](RAYMONDLSL_stock_to_index.md), with the same graph as [`RAYMONDLSL_stock_to_index.svg`](RAYMONDLSL_stock_to_index.svg) and [`RAYMONDLSL_stock_to_index.mmd`](RAYMONDLSL_stock_to_index.mmd).
+
 ## What to watch
 
 - Pricing Power pattern: the average selling price gain of about ₹26 a metre and margins held through the 25% wool price rise must persist — a repeat of the earlier reversal (revenue down 6.2%, branded textile margin 22.2% to 18.9%) would break the pattern back to a non-fit.
@@ -421,5 +473,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

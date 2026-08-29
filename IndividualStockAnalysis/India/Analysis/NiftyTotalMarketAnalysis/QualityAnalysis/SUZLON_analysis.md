@@ -18,15 +18,16 @@ Suzlon Energy Limited designs, manufactures and installs onshore wind turbines i
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 40 out of 100 ★★☆☆☆
+## The verdict: Mixed — 44 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (60/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 40 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (60/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained strongly on the index (77/100). Weighing those together gives 44 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 60 (business quality) + 30% × 18 (multibagger fit) + 25% × 30 (risk safety) = 40 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 60 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 30 (risk safety) + 10% × 77 (relative to the index) = 44 out of 100 → Mixed (2 stars).
 
 - **Business quality (60/100):** The 34-check quality framework scored the business +0.41 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 60 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (30/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 1 elevated (−10); 3 worth watching (−12); the balance sheet shows one stress signal (−8) → 30 of 100.
+- **Relative to the index (77/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.09 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 77 points.
 
 ### The story in depth
 
@@ -457,6 +458,58 @@ FY2026  ████████                  117 days  ▼ 28 days vs prior
 - ⚠️ Sales actually FELL in 5 of the last 11 years — revenue moves in cycles, it does not compound steadily.
 - ✅ Growth is holding up: -26% a year earlier, 38% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 77 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.09 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 77 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -1% · moved with | +51% · gained strongly | — |
+| last 5 years | +425% · gained strongly | +1014% · gained strongly | +181% · gained strongly |
+| last 3 years | +277% · gained strongly | -31% · lagged badly | +198% · gained strongly |
+| last 1 year | -29% · lagged badly | +34% · gained strongly | +60% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++1,908% ┤
+        │                                                        ◆┓
+        │      ╔═■═╗                                          ┏━━┛┗━━┓
+        │   ╔══╝   ╚═╗                                       ┏┛      ┗┓
+  +453% ┤■══╝━━━━◆━━━╚══╗                    ┏━━━■════╗──●┏━━┛╮      ╭┗━━●───╔═══■═══════■
+        │●───────●────┗━╚■═══════■╗━━━━━━◆━━━┛┈┈╔╝┈┈┈┈╚══■═══════■═══════■═══╝╰──●────┗━━◆┈┈
+        │                         ╚╗           ╔╝
+-1,001% ┤                          ╚╗         ╔╝
+        │                           ╚╗       ╔╝
+        │                            ╚╗      ║
+-2,456% ┤                             ╚╗    ╔╝
+        │                              ╚╗  ╔╝
+        │                               ╚╗╔╝
+        │                                ■╝
+-3,911% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -45.9   +13.5   -51.5   -44.4   -64.3   +72.8   +56.6   -11.0  +308.7   +30.3   -29.2
+◆     +106.1   +37.8  -146.3  -270.6   -78.9  +103.2  -214.0  +1506.4  -81.8  +184.5   +34.2
+■      +95.3  +969.0   -60.3  -101.9  -3509.4 +156.8   +24.4   -24.0   +9.9    +69.6   +59.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SUZLON_stock_to_index.md`](SUZLON_stock_to_index.md), with the same graph as [`SUZLON_stock_to_index.svg`](SUZLON_stock_to_index.svg) and [`SUZLON_stock_to_index.mmd`](SUZLON_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the recurring maintenance business keeps compounding — the fleet under service moving beyond 15.7 GW at around 40.5% margin is the single cushion the Cyclicality HIGH RISK verdict leans on.
@@ -473,5 +526,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

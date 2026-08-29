@@ -17,15 +17,16 @@ Tata Elxsi is an Indian outsourced engineering and design services firm — mana
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 57 out of 100 ★★★☆☆
+## The verdict: Decent — 56 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (69/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Weighing those together gives 57 out of 100 — decent.
+In one breath: the quality framework finds a good business today (69/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Against the Nifty 50 it has lagged the index (44/100). Weighing those together gives 56 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 69 (business quality) + 30% × 41 (multibagger fit) + 25% × 54 (risk safety) = 57 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 69 (business quality) + 27% × 41 (multibagger fit) + 22.5% × 54 (risk safety) + 10% × 44 (relative to the index) = 56 out of 100 → Decent (3 stars).
 
 - **Business quality (69/100):** The 34-check quality framework scored the business +0.75 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 69 points.
 - **Multibagger fit (41/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 likely (+16) → 41 of 100.
 - **Risk safety (54/100):** started from a clean 100; 3 elevated (−30); 4 worth watching (−16) → 54 of 100.
+- **Relative to the index (44/100):** Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored -0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 44 points.
 
 ### The story in depth
 
@@ -432,6 +433,56 @@ FY2015  ███                        66 days  ▼ 7 days vs prior year
 - ✅ Sales fell in only 1 of the last 7 years with swings of ±13 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 8% a year earlier, 16% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 44 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored -0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 44 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +38% · gained strongly | — | — |
+| last 5 years | -10% · moved with | — | — |
+| last 3 years | -50% · lagged badly | — | — |
+| last 1 year | -23% · lagged | — | — |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +207% ┤
+        │                                        ●───────●╮
+        │                                       ╭╯        ╰╮
+        │                                       │          │
+  +141% ┤                                      ╭╯          ╰╮
+        │                                     ╭╯            │
+        │                                    ╭╯             ╰╮
+   +75% ┤●╮                                  │               ╰╮
+        │ ╰─╮                               ╭╯                ╰╮
+        │   ╰╮                             ╭╯                  │
+   +10% ┤    ╰╮         ╭●──╮              │                   ╰╮
+        │┈┈┈┈┈╰╮┈┈┈┈┈┈╭─╯┈┈┈╰──╮┈┈┈┈┈┈┈┈┈┈╭╯┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈│┈┈┈┈┈┈┈╭●─╮┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        │      ╰─╮ ╭──╯        ╰─●───────●╯                     ╰╮ ╭────╯  ╰────╮    ╭───●
+        │        ●─╯                                             ●─╯            ╰●───╯
+   -56% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +69.7   -34.4   +16.5   -11.1   -21.8  +188.5  +180.8   -36.2   +4.4    -37.8   -22.7
+
+● Price ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TATAELXSI_stock_to_index.md`](TATAELXSI_stock_to_index.md), with the same graph as [`TATAELXSI_stock_to_index.svg`](TATAELXSI_stock_to_index.svg) and [`TATAELXSI_stock_to_index.mmd`](TATAELXSI_stock_to_index.mmd).
+
 ## What to watch
 
 - Growth re-acceleration from the roughly 6.5% year-on-year pace back toward the historic 10–15% band — the Market Share Gainers pattern and the Persistence of growth check both rest on it, and the Cyclicality risk is what has taken it down.
@@ -447,5 +498,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -16,15 +16,16 @@ Maharashtra Seamless makes steel pipes and tubes in India, mainly 'seamless' pip
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 34 out of 100 ★☆☆☆☆
+## The verdict: Mixed — 35 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (52/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 34 out of 100 — weak.
+In one breath: the quality framework finds an average business today (52/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has lagged the index (36/100). Weighing those together gives 35 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 52 (business quality) + 30% × 10 (multibagger fit) + 25% × 32 (risk safety) = 34 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 52 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 32 (risk safety) + 10% × 36 (relative to the index) = 35 out of 100 → Mixed (2 stars).
 
 - **Business quality (52/100):** The 34-check quality framework scored the business +0.09 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 52 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (32/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 2 elevated (−20); 1 worth watching (−4); 1 numbers-only flag (−4) → 32 of 100.
+- **Relative to the index (36/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -0.57 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 36 points.
 
 ### The story in depth
 
@@ -436,6 +437,57 @@ FY2026  ████████████              153 days  ▼ 23 days 
 
 - ✅ Growth is holding up: 9% a year earlier, 15% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 36 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored -0.57 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 36 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | +518% · gained strongly |
+| last 5 years | — | +112% · gained strongly | -24% · lagged |
+| last 3 years | — | -42% · lagged badly | -46% · lagged badly |
+| last 1 year | — | -21% · lagged | -28% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +610% ┤
+        │        ◆┓
+        │       ┏■╗┓
+        │       ╔╝╚╗┓
+  +414% ┤      ╔╝  ╚╗┓
+        │      ║    ╚╗
+        │     ╔╝     ╚╗                                  ◆┓
+  +218% ┤    ╔╝       ╚╗                               ┏━┛┗━┓
+        │   ╔╝         ╚╗                            ┏━┛    ┗━┓
+        │   ║           ╚╗                          ┏┛        ┗┓
+   +22% ┤  ╔╝            ■═══════■════╗           ┏━┛        ╔═══■════╗
+        │┈╔╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗━━◆━━━┓╚══■═══════■═══════■═══╝┈┈┈◆━━━━╚══■═══════■═══════■┈┈
+        │■╝┛                         ┗━━━◆━━━━┛
+        │◆┛
+  -173% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     -119.3  +555.6   +77.2   -6.5    -41.9   -12.5  +283.2   -4.3    -1.3    -26.0   -20.7
+■      -65.6  +487.4   +39.3   +72.2   -26.2   -21.5   -1.8    +42.3   +4.7    -28.5   -27.5
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`MAHSEAMLES_stock_to_index.md`](MAHSEAMLES_stock_to_index.md), with the same graph as [`MAHSEAMLES_stock_to_index.svg`](MAHSEAMLES_stock_to_index.svg) and [`MAHSEAMLES_stock_to_index.mmd`](MAHSEAMLES_stock_to_index.mmd).
+
 ## What to watch
 
 - Antidumping duty expiry in October 2026 — the Government Dependency risk names this as the main pricing protection, and the New Entrants risk notes it is already not prohibitive and excludes post-2016 value-added products.
@@ -452,5 +504,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

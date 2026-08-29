@@ -17,15 +17,16 @@ Syrma SGS is an Indian electronics manufacturing services (EMS) company: other c
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 47 out of 100 ★★☆☆☆
+## The verdict: Decent — 52 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (58/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 47 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (58/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (100/100). Weighing those together gives 52 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 58 (business quality) + 30% × 25 (multibagger fit) + 25% × 52 (risk safety) = 47 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 58 (business quality) + 27% × 25 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 100 (relative to the index) = 52 out of 100 → Decent (3 stars).
 
 - **Business quality (58/100):** The 34-check quality framework scored the business +0.31 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 58 points.
 - **Multibagger fit (25/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15) → 25 of 100.
 - **Risk safety (52/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 1 worth watching (−4); 1 numbers-only flag (−4) → 52 of 100.
+- **Relative to the index (100/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
 
 ### The story in depth
 
@@ -410,6 +411,58 @@ FY2026  ███████████                48 days  ▼ 1 day vs p
 
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 100 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +84% · gained strongly | +167% · gained strongly |
+| last 3 years | +122% · gained strongly | +78% · gained strongly | +133% · gained strongly |
+| last 1 year | +70% · gained strongly | +65% · gained strongly | +66% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +79% ┤
+        │                                       ╔■
+        │                                  ╔════╝◆
+        │                                ■═╝  ┏━┛
+   +48% ┤                        ●╮     ╔╝ ┏━━┛╯
+        │                ◆┓       ╰╮   ╔╝◆━┛  │
+        │              ┏╔■═╗┓      ╰─╔═╝━┛   ╭╯
+   +16% ┤             ┏╔╝  ╚╗┓      ╔╝┏┛    ╭╯
+        │           ╔══╝    ╚══╗   ╔╝┏┛─╮  ╭╯
+        │┈┈┈┈┈┈┈┈┈┈╔╝┛┈┈┈┈┈┈┈┈┗╚╗┈╔╝┏┛┈┈╰╮╭╯┈┈┈┈┈┈┈┈
+        │      ╔═■═╝┛          ┗╚■╝━┛    ●╯
+   -15% ┤   ╔══╝┏◆┛              ◆┛
+        │■══╝━━━┛
+        │◆━┛
+   -46% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬──
+       FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     +41.7   -8.2    +70.5
+◆      -37.6   -23.3   +34.3   -19.7   +34.5   +65.3
+■      -31.6   -6.1    +22.2   -6.7    +50.2   +66.2
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SYRMA_stock_to_index.md`](SYRMA_stock_to_index.md), with the same graph as [`SYRMA_stock_to_index.svg`](SYRMA_stock_to_index.svg) and [`SYRMA_stock_to_index.mmd`](SYRMA_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether ODM revenue keeps climbing past 17% of sales and gross margin above 25.6% — the only visible route from the partial-fit Innovation Dominance pattern toward a real edge rather than mix arithmetic.
@@ -426,5 +479,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

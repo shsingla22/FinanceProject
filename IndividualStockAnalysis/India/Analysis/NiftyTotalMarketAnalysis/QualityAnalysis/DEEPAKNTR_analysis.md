@@ -15,15 +15,16 @@ Deepak Nitrite is an Indian chemicals manufacturer that makes industrial and spe
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 44 out of 100 ★★☆☆☆
+## The verdict: Mixed — 42 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (53/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Weighing those together gives 44 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (53/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Against the Nifty 50 it has lagged the index (27/100). Weighing those together gives 42 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 53 (business quality) + 30% × 18 (multibagger fit) + 25% × 58 (risk safety) = 44 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 53 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 27 (relative to the index) = 42 out of 100 → Mixed (2 stars).
 
 - **Business quality (53/100):** The 34-check quality framework scored the business +0.12 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 53 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Cyclicality) (−20); 1 elevated (−10); 3 worth watching (−12) → 58 of 100.
+- **Relative to the index (27/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.92 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 27 points.
 
 ### The story in depth
 
@@ -439,6 +440,58 @@ FY2026  ██████████████████████     9
 - ✅ Sales fell in only 2 of the last 11 years with swings of ±26 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 22% a year earlier, 13% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 27 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.92 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 27 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +519% · gained strongly | +144% · gained strongly | +105% · gained strongly |
+| last 5 years | -53% · lagged badly | -74% · lagged badly | -61% · lagged badly |
+| last 3 years | -47% · lagged badly | -59% · lagged badly | -37% · lagged badly |
+| last 1 year | -34% · lagged badly | -31% · lagged badly | -11% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +282% ┤
+        │                                ◆┓
+        │                              ┏━┛┗┓
+        │                             ┏┛   ┃
+  +197% ┤                            ┏┛    ┗┓    ●╮
+        │                           ┏┛      ┗┓ ╭─╯╰╮
+        │                         ┏━┛   ╔■╗  ┗┓╯   ╰╮
+  +112% ┤                        ◆┛   ╔═╝ ╚═╗╯┗┓    ╰╮
+        │                      ┏━┛ ╔══╝   ╭─╚═╗┗┓    ╰─╮
+        │       ╭●───────●─╮  ╔══■═╝    ╭●╯   ╚╗┃      ╰╮
+   +27% ┤  ╭─┏━━━◆━━┓  ╔═■════╝      ╭──╯      ╚═╗      ╰╮
+        │■═══╗      ╔══╝  ┏━┛ ╰─╮  ╭─╯           ■═══╗   ●─╮
+        │┈┈┈┈╚═══■══╝┈┈┗━◆┛┈┈┈┈┈╰●─╯┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚═══■════╗─╮┈┈┈┈╭───●───╔═══■═══════■┈┈
+        │                                                     ╚══■═══════■═══╝━━━◆━━━━━━━◆
+   -58% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +3.5    +62.8   +63.6   +1.4    +66.9  +189.9   +15.9   -22.3   -7.8    -13.3   -34.2
+◆      +12.8   +43.7   -15.4  +103.9  +258.6   +5.6    -7.9    -31.1   -24.2   -22.1   -30.5
+■      +14.8   -18.4   +47.9   +65.2  +138.4   +9.6    -4.7    -34.0   -23.0   -8.3    -11.2
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`DEEPAKNTR_stock_to_index.md`](DEEPAKNTR_stock_to_index.md), with the same graph as [`DEEPAKNTR_stock_to_index.svg`](DEEPAKNTR_stock_to_index.svg) and [`DEEPAKNTR_stock_to_index.mmd`](DEEPAKNTR_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the margin recovery seen in Q4 FY26 holds for several quarters or proves to be one turn of the Cyclicality high risk — this is the single biggest swing factor in the rating.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

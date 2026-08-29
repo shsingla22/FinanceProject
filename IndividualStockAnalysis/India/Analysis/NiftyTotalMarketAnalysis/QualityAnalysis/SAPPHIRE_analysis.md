@@ -13,15 +13,16 @@ Sapphire Foods India Limited runs fast-food restaurants under franchised interna
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 54 out of 100 ★★★☆☆
+## The verdict: Decent — 53 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (60/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Stakeholder Concentration). Weighing those together gives 54 out of 100 — decent.
+In one breath: the quality framework finds an average business today (60/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Stakeholder Concentration). Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 53 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 60 (business quality) + 30% × 41 (multibagger fit) + 25% × 58 (risk safety) = 54 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 60 (business quality) + 27% × 41 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 50 (relative to the index) = 53 out of 100 → Decent (3 stars).
 
 - **Business quality (60/100):** The 34-check quality framework scored the business +0.39 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 60 points.
 - **Multibagger fit (41/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 2 likely (+16) → 41 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 elevated (−10); 6 worth watching (−24); the balance sheet shows one stress signal (−8) → 58 of 100.
+- **Relative to the index (50/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -432,6 +433,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒              -59 days  ▼ 5 days v
 - ✅ Growth is holding up: 16% a year earlier, 16% recently — no structural stall.
 - ✅ Operating margin (15%) remains near its historical peak (19%) — no collapse in the premium.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +88% · gained strongly | +90% · gained strongly |
+| last 3 years | -54% · lagged badly | — | -10% · moved with |
+| last 1 year | -48% · lagged badly | — | -2% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +413% ┤
+        │        ■╗                      ◆┓
+        │      ╔═╝╚╗                  ┏━━┛┗┓
+        │     ╔╝   ╚╗                ┏┛    ┗┓
+  +231% ┤   ╔═╝     ╚╗            ┏━━┛      ┗┓
+        │ ╔═╝        ╚╗         ┏◆┛          ┃
+        │■╝           ╚╗   ┏━━━━╔■══╗        ┗┓
+   +49% ┤              ╚╗◆━┛  ╔═╝   ╚══╗      ┗┓
+        │◆┓┈┈┈┈┈┈┈┈┈┈┈┈┏╚╗┈╔══╝┈┈┈┈┈┈┈┈╚═■═══════■═══════■═══════■┈┈
+        │ ┗━┓         ┏┛ ■═╝                    ┗┓    ┏━━◆┓   ╰──●
+  -134% ┤   ┗━┓      ┏┛                          ◆━━━━┛   ┗━━┓
+        │     ┗┓    ┏┛                                       ┗┓
+        │      ┗━┓┏━┛                                         ┗━━┓
+        │        ◆┛                                              ◆
+  -316% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     -22.2   +2.9    -12.8   -48.2
+◆      -1.6   -260.8   +47.7  +130.8  +336.8   -82.2   -70.4  -265.4
+■     +108.1  +362.5   -39.1   +81.2   +15.7   -5.2    -2.5    -2.1
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SAPPHIRE_stock_to_index.md`](SAPPHIRE_stock_to_index.md), with the same graph as [`SAPPHIRE_stock_to_index.svg`](SAPPHIRE_stock_to_index.svg) and [`SAPPHIRE_stock_to_index.mmd`](SAPPHIRE_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the KFC same-store sales recovery holds once the vendor subsidy lapses and the acknowledged 50-70bps gross-margin hit lands — the Good Enough Goods risk and the Low Price Plus pattern both hinge on this.
@@ -447,5 +500,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

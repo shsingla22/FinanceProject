@@ -16,15 +16,16 @@ Poly Medicure (Polymed) is an India-based manufacturer of single-use medical dev
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 74 out of 100 ★★★★☆
+## The verdict: Strong — 72 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (63/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (New Entrants, Good Enough Goods). Weighing those together gives 74 out of 100 — strong.
+In one breath: the quality framework finds a good business today (63/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (New Entrants, Good Enough Goods). Against the Nifty 50 it has gained on the index (58/100). Weighing those together gives 72 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 63 (business quality) + 30% × 95 (multibagger fit) + 25% × 68 (risk safety) = 74 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 63 (business quality) + 27% × 95 (multibagger fit) + 22.5% × 68 (risk safety) + 10% × 58 (relative to the index) = 72 out of 100 → Strong (4 stars).
 
 - **Business quality (63/100):** The 34-check quality framework scored the business +0.54 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 63 points.
 - **Multibagger fit (95/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Innovation Dominance, Corporate Culture) (+30); 5 likely (+40) → 95 of 100.
 - **Risk safety (68/100):** started from a clean 100; 2 elevated (−20); 3 worth watching (−12) → 68 of 100.
+- **Relative to the index (58/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 58 points.
 
 ### The story in depth
 
@@ -447,6 +448,58 @@ FY2026  ██████████████████████    29
 
 - ✅ Growth is holding up: 12% a year earlier, 19% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 58 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 58 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +174% · gained strongly | +87% · gained strongly | +76% · gained strongly |
+| last 5 years | -12% · lagged | -14% · lagged | +2% · moved with |
+| last 3 years | -6% · moved with | +14% · gained | +36% · gained strongly |
+| last 1 year | -46% · lagged badly | -17% · lagged | -4% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +153% ┤
+        │                                        ●╮
+        │                                       ╭╯╰╮
+   +99% ┤                                      ╭╯  ╰╮
+        │                                    ╭─╯    ╰╮
+        │                                   ╭╯       │
+        │        ●╮                        ╭╯        ╰╮
+   +46% ┤       ╭╯╰─╮                    ◆━┓          ╰╮
+        │      ╭╯   ╰┏━╔═■═╗          ┏━━●╯┗━━━━┓      ╰╮              ╭─●───────●╮
+        │     ╭╯┏◆━━╔══╝   ╚═╗       ┏┛─╔■═══════■═╗    ╰╮          ╭─╔══■═══════■═══╗
+    -8% ┼■═══════■══╝┈┈╰─╮┈┈┈╚══╗┈┏╔════╝┈┈┈┈┈┈┈┈┈┈╚══╗┈┈●─────╔═■════╝┈┈┈┈┈┈┈┈┈┈┈┈┗━╚═══■┈┈
+        │  ┏━┛           ●──────╚■═╝                  ╚═╗   ╔══╝                      ╰╮┗◆
+        │◆━┛                                            ╚■══╝                          ╰─╮
+        │●╯                                                                              ●
+   -61% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -41.4   +61.4   -19.9   -21.3   +28.4  +137.8   -1.2    -5.0    +33.3   +31.2   -46.2
+◆      -26.5   +8.0    +32.7   -15.2   +50.8   +17.8   -27.6   +5.0    +14.8   +19.1   -16.8
+■      -2.7    +4.8    +32.2   -14.1   +22.9   +17.8   -26.1   +1.9    +19.3   +19.0   -4.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`POLYMED_stock_to_index.md`](POLYMED_stock_to_index.md), with the same graph as [`POLYMED_stock_to_index.svg`](POLYMED_stock_to_index.svg) and [`POLYMED_stock_to_index.mmd`](POLYMED_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the heavy build-out converts into sales — capex for growth was flagged as unproven when standalone revenue grew only 4% in FY26 despite ₹296 crore of spending; another flat year would turn the negative Asset turn and 7% cash Return on capital into the main story.
@@ -463,5 +516,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

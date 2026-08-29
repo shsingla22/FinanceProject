@@ -20,15 +20,16 @@ Mphasis is an India-listed IT services company (traded on the BSE and NSE) that 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 61 out of 100 ★★★☆☆
+## The verdict: Decent — 59 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (64/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Technological Innovation, Stakeholder Concentration). Weighing those together gives 61 out of 100 — decent.
+In one breath: the quality framework finds a good business today (64/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Technological Innovation, Stakeholder Concentration). Against the Nifty 50 it has lagged the index (38/100). Weighing those together gives 59 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 64 (business quality) + 30% × 55 (multibagger fit) + 25% × 64 (risk safety) = 61 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 64 (business quality) + 27% × 55 (multibagger fit) + 22.5% × 64 (risk safety) + 10% × 38 (relative to the index) = 59 out of 100 → Decent (3 stars).
 
 - **Business quality (64/100):** The 34-check quality framework scored the business +0.55 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 64 points.
 - **Multibagger fit (55/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 3 likely (+24); 2 numbers-only hints (+6) → 55 of 100.
 - **Risk safety (64/100):** started from a clean 100; 2 elevated (−20); 4 worth watching (−16) → 64 of 100.
+- **Relative to the index (38/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
 
 ### The story in depth
 
@@ -438,6 +439,58 @@ FY2026  ██████████████████████     9
 
 **Why this verdict:** neither the calls nor the numbers offered usable evidence — left unassessed rather than guessed.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 38 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 38 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +37% · gained strongly | -18% · lagged | +21% · gained |
+| last 5 years | -30% · lagged badly | -44% · lagged badly | -17% · lagged |
+| last 3 years | -14% · lagged | -28% · lagged badly | +0% · moved with |
+| last 1 year | -17% · lagged | -4% · moved with | +11% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +91% ┤
+        │                                        ●─╮
+        │                                       ╭╯ ╰────╮
+        │                                      ╭╯       ╰●╮
+   +53% ┤                                     ╭╯          ╰╮
+        │●─╮                                  │            │
+        │  ╰──╮        ╭─●──╮          ╔═■═╗ ╭╯            ╰╮
+   +15% ┤     ╰─╔■═══════■═══╗┏━━◆━━╔══╝━◆━╚═╗              ╰╮                        ╔══■
+        │┈┈╔════╝●──╯┗━━━◆━━━╚═══■══╝┈┈┈┈┈┈┗━╚══╗┈┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈┈┈┈┈┈┈┈┈●────╮╔═■════╝┈┈┈┈┈
+        │■═╝                        ╰──╮  ╭╯  ┗━╚■═══╗        ╔══■═══╗ ╭─╯  ╔══╝┛●───╮┗━━◆
+   -22% ┤                              ╰─●╯     ┗◆━━━╚═══■════╝╰╮  ┗━╚═══■══╝━┛      ╰───●
+        │                                                       │   ╭╯  ┗◆━┛
+        │                                                       ╰╮╭─╯
+        │                                                        ●╯
+   -60% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +33.0   -0.5    +25.2   +5.3    -18.0   +80.2   +62.6   -49.7   +6.3    -2.7    -16.7
+◆      -11.2   +18.1   +8.8    +18.6   +12.8   -14.6   -21.2   -1.3    -24.4   -0.8    -3.8
+■      -5.7    +11.4   +10.4   -0.2    +20.9   -1.0    -12.8   -5.7    -12.2   +3.2    +10.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`MPHASIS_stock_to_index.md`](MPHASIS_stock_to_index.md), with the same graph as [`MPHASIS_stock_to_index.svg`](MPHASIS_stock_to_index.svg) and [`MPHASIS_stock_to_index.mmd`](MPHASIS_stock_to_index.mmd).
+
 ## What to watch
 
 - Recurring Revenue (partial fit): whether platform-attached ARR and the ~490bps rise in fixed-price share keep building, or the July 2026 commentary proves to be a one-off — this is the single hinge between a services company and a platform company.
@@ -453,5 +506,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

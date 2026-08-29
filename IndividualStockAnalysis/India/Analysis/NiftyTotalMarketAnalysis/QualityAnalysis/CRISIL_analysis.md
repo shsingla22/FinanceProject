@@ -19,15 +19,16 @@ Crisil sells credit ratings, research, benchmarking data, analytics and consulti
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Outstanding — 80 out of 100 ★★★★★
+## The verdict: Strong — 76 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (78/100); it strongly fits 5 of the 11 patterns long-term winners share; the risk review found 1 high risk (Stakeholder Concentration). Weighing those together gives 80 out of 100 — outstanding.
+In one breath: the quality framework finds a good business today (78/100); it strongly fits 5 of the 11 patterns long-term winners share; the risk review found 1 high risk (Stakeholder Concentration). Against the Nifty 50 it has lagged the index (44/100). Weighing those together gives 76 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 78 (business quality) + 30% × 100 (multibagger fit) + 25% × 58 (risk safety) = 80 out of 100 → Outstanding (5 stars).
+**The exact arithmetic:** Overall = 40.5% × 78 (business quality) + 27% × 100 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 44 (relative to the index) = 76 out of 100 → Strong (4 stars).
 
 - **Business quality (78/100):** The 34-check quality framework scored the business +1.12 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 78 points.
 - **Multibagger fit (100/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 5 patterns fit strongly (Recurring Revenue (Product Upfront), Toll Roads, Brand Strength, Corporate Culture…) (+75) → 100 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Stakeholder Concentration) (−20); 1 elevated (−10); 3 worth watching (−12) → 58 of 100.
+- **Relative to the index (44/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 44 points.
 
 ### The story in depth
 
@@ -448,6 +449,58 @@ FY2025  ███████████████            69 days  ▲ 7 
 - ✅ Operating margin held (about 30% then 29%) — no drift down under competition.
 - ✅ Growth is holding up: 8% a year earlier, 13% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 44 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 44 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -32% · lagged badly | -25% · lagged | -5% · moved with |
+| last 5 years | +25% · gained | -21% · lagged | +6% · moved with |
+| last 3 years | -12% · lagged | -14% · lagged | +22% · gained |
+| last 1 year | -9% · moved with | -2% · moved with | +17% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +60% ┤
+        │                                                ●╮
+        │                                               ╭╯╰╮
+        │                                              ╭╯  ╰╮
+   +36% ┤                                             ╭╯    ╰╮
+        │                                            ╭╯      │           ●╮
+        │                                           ╭╯       ╰╮        ╭─╯╰╮            ╔■
+   +12% ┤       ╔■═══╗        ┏━━◆━┓               ╭╯         ╰╮      ╭╯   ╰╮         ╔═╝
+        │  ╔════╝    ╚═══■═╗━━┛    ┗━━━━┓●────╮╔═■══╗          ┏━◆━━┓╔═══■════╗    ╔══╝
+        │■═╝━━━━━◆━━━┛┈┈┈┈┈╚═╗┈┈┈┈┈┈┈┈┈╭┗◆━┓╔══╝─●╯┈╚══╗┈┈┈┈┏━╔══■═══╝━┓┈┈┈┈┈┈╚══■═╝┈┈┏━━◆┈┈
+   -12% ┤●───────●────╮      ╚══╗    ╔═══■══╝━━━┓    ┏━╚═■════╝  ●╯    ┗━◆━━━━━━━◆━━━━┛╭─●
+        │             ╰──●─╮    ╚■═══╝          ┗◆━━━┛                          ╰╮  ╭──╯
+        │                  ╰────╮ ╭─╯                                            ●──╯
+        │                       ╰●╯
+   -36% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -6.7    -10.7   -14.3   -29.8   +3.2    -1.2    +53.4   -7.6    +25.8   -23.4   -8.7
+◆      +0.9    -2.8    +6.3    +10.6   -3.2    -14.2   -12.0   +4.4    -7.1    -5.8    -1.6
+■      -2.2    +9.9    +3.5    -17.1   -6.1    +1.5    -11.2   -1.9    +6.6    -2.5    +17.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CRISIL_stock_to_index.md`](CRISIL_stock_to_index.md), with the same graph as [`CRISIL_stock_to_index.svg`](CRISIL_stock_to_index.svg) and [`CRISIL_stock_to_index.mmd`](CRISIL_stock_to_index.mmd).
+
 ## What to watch
 
 - S&P Global delegation volumes (Stakeholder Concentration, high risk): the ratings segment's 32.5% and 20.2% growth leans on work from a party that is also the controlling shareholder — any slowdown there hits growth and independence at once.
@@ -463,5 +516,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

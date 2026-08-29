@@ -18,15 +18,16 @@ CDSL is an Indian 'depository' — a market infrastructure institution that hold
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 74 out of 100 ★★★★☆
+## The verdict: Strong — 73 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 4 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 74 out of 100 — strong.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 4 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained on the index (73/100). Weighing those together gives 73 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 100 (multibagger fit) + 25% × 48 (risk safety) = 74 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 100 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 73 (relative to the index) = 73 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.79 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (100/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 4 patterns fit strongly (Friendly Middleman, Market Share Gainers, Corporate Culture, Cost to Replicate) (+60); 2 likely (+16) → 100 of 100. (Capped at 100.)
 - **Risk safety (48/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 3 worth watching (−12) → 48 of 100.
+- **Relative to the index (73/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 73 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -442,6 +443,58 @@ FY2026  ███████████                21 days  ▲ 3 days vs 
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±20 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 22% a year earlier, 27% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 73 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 73 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +40% · gained strongly | +219% · gained strongly |
+| last 5 years | +108% · gained strongly | -17% · lagged | +37% · gained strongly |
+| last 3 years | +85% · gained strongly | +5% · moved with | +50% · gained strongly |
+| last 1 year | -7% · moved with | -24% · lagged | -8% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +128% ┤
+        │                                        ■╗
+        │◆┓                                     ╔●╚╗──╮
+        │ ┗┓                                    ║╯ ╚╗ ╰──●╮
+   +83% ┤  ┗┓                                  ╔╝   ╚═╗   ╰╮
+        │   ┗┓                                ╔╝      ╚╗   │
+        │    ┗┓                             ╭╔╝ ┏◆━┓   ╚╗  ╰╮            ●────╮
+   +37% ┤■═══╗┃       ╔══■╗                ╭╔╝ ┏┛  ┗┓   ╚╗  ╰╮          ╭■═══╗╰──●─╮
+        │    ╚═══■════╝ ┏◆╚══╗            ╭╔╝━━┛    ┗━━┓ ■═╗ ╰╮        ╔═◆━━━╚═══■══╗─╮
+        │      ┗┓     ┏━┛   ┗╚╗┓        ╭●╯║┛          ┗┓  ╚╗ ╰╮      ╔╝┛     ┗━━◆━┓╚══╗╮
+        │┈┈┈┈┈┈┈┗┓┈┏━━┛┈┈┈┈┈┈┈╚══◆━━━━━━━◆╔╝┈┈┈┈┈┈┈┈┈┈┈┈┗◆━━╚══╗╮┈┈┈╔═╝┛┈┈┈┈┈┈┈┈┈┈┈┗━━┓╚═■┈┈
+    -9% ┤        ◆━┛             ■═══════■╝                 ┗━━╚╗ ╔═╝                 ┗━┓
+        │                                                      ┗╚■╝┛                    ┗◆
+        │                                                        ●╯
+   -54% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     -21.8   +5.6   +106.2   +93.0   -41.9   +50.5   +32.4   -7.0
+◆     +100.8   -9.9    +22.9   +2.4    -5.0    +56.2   +4.0    -23.7   +21.2   +13.5   -24.0
+■      +35.2   +22.5   +40.3   -20.7   -20.8  +115.7   +27.8   -28.3   +35.0   +20.9   -8.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CDSL_stock_to_index.md`](CDSL_stock_to_index.md), with the same graph as [`CDSL_stock_to_index.svg`](CDSL_stock_to_index.svg) and [`CDSL_stock_to_index.mmd`](CDSL_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Cyclicality risk eases or deepens.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

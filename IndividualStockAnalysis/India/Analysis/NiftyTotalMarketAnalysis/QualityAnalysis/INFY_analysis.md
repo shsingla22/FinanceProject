@@ -20,15 +20,16 @@ Infosys is an India-headquartered IT services company (offices at Electronics Ci
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 58 out of 100 ★★★☆☆
+## The verdict: Decent — 54 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (65/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Technological Innovation, New Entrants). Weighing those together gives 58 out of 100 — decent.
+In one breath: the quality framework finds a good business today (65/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Technological Innovation, New Entrants). Against the Nifty 50 it has lagged the index badly (21/100). Weighing those together gives 54 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 65 (business quality) + 30% × 48 (multibagger fit) + 25% × 58 (risk safety) = 58 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 65 (business quality) + 27% × 48 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 21 (relative to the index) = 54 out of 100 → Decent (3 stars).
 
 - **Business quality (65/100):** The 34-check quality framework scored the business +0.62 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 65 points.
 - **Multibagger fit (48/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Corporate Culture) (+15); 1 likely (+8) → 48 of 100.
 - **Risk safety (58/100):** started from a clean 100; 3 elevated (−30); 3 worth watching (−12) → 58 of 100.
+- **Relative to the index (21/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 21 points.
 
 ### The story in depth
 
@@ -448,6 +449,58 @@ FY2026  █████████████████████      72 
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±6 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 11% a year earlier, 12% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 21 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.17 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 21 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -33% · lagged badly | -39% · lagged badly | -13% · lagged |
+| last 5 years | -44% · lagged badly | -44% · lagged badly | -24% · lagged |
+| last 3 years | -34% · lagged badly | -22% · lagged | -1% · moved with |
+| last 1 year | -19% · lagged | -3% · moved with | +6% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +50% ┤
+        │                                        ●╮
+        │                                       ╭╯╰──╮
+        │                                      ╭╯    ╰╮
+   +28% ┤                                    ╭─╯      ╰──╮
+        │                        ●─╮        ╭╯           ●╮
+        │●╮            ┏━◆━┓  ╭──╯ ╰──╮    ╭╯╔═══■╗       ╰╮
+    +7% ┤■═══════■═══╗━┛   ┗┓╭╯       ╰─┏■═══╝    ╚═╗      ╰╮                         ╔══■
+        │◆━━━━━━━◆━━┛╚═══■═╗┗━━┓┈┈┈┈┈┏╔══●╯┗━━━━┓┈┈┈╚═╗┈┈┈┈┈╰╮┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╔═■════╝┈┈┈┈┈
+        │   ╰╮           ●╯╚═╗ ┗┓  ┏━╔╝         ┗◆━┓  ╚╗     ╰╮ ┏◆━━━┓      ╔══╝━◆━━━━━━━◆
+   -14% ┤    ╰─╮      ╭──╯   ╚══╗◆╔══╝             ┗━━┓╚═╗   ╔═══■═══════■══╝━┛─╯  ╰────╮
+        │      ╰╮    ╭╯         ╚■╝                   ┗━┓■═══╝ ╰╮       ╭●─╯            ╰●
+        │       ╰╮╭──╯                                  ┗◆━┛    ╰╮ ╭────╯
+        │        ●╯                                              ●─╯
+   -35% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +14.5   -29.2   -4.1    +19.2   +3.6    +43.7   +19.2   -29.1   -16.2   -2.6    -19.3
+◆      +3.5    +0.3    +14.8   -11.0   +10.3   -2.9    -23.6   -6.1    -13.3   -7.7    -3.2
+■      +9.1    +8.1    +1.9    -14.2   +7.1    +13.4   -16.2   -8.4    -8.5    +1.7    +6.1
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`INFY_stock_to_index.md`](INFY_stock_to_index.md), with the same graph as [`INFY_stock_to_index.svg`](INFY_stock_to_index.svg) and [`INFY_stock_to_index.mmd`](INFY_stock_to_index.mmd).
+
 ## What to watch
 
 - AI revenue share (Innovation Dominance / Technological Innovation): whether it keeps climbing past 8.2% of revenue and starts replacing, not just adding to, the people-based delivery it threatens.
@@ -463,5 +516,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

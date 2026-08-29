@@ -21,15 +21,16 @@ Mastek is an Indian-listed IT services company that gets paid by large organisat
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 46 out of 100 ★★☆☆☆
+## The verdict: Mixed — 47 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (54/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 46 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (54/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 47 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 54 (business quality) + 30% × 33 (multibagger fit) + 25% × 48 (risk safety) = 46 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 54 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 50 (relative to the index) = 47 out of 100 → Mixed (2 stars).
 
 - **Business quality (54/100):** The 34-check quality framework scored the business +0.17 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 54 points.
 - **Multibagger fit (33/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 likely (+8) → 33 of 100.
 - **Risk safety (48/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 3 worth watching (−12) → 48 of 100.
+- **Relative to the index (50/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -442,6 +443,57 @@ FY2026  ████████████               57 days  ▼ 21 days 
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±28 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 9% a year earlier, 17% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +706% · gained strongly | +1044% · gained strongly |
+| last 5 years | — | -41% · lagged badly | -20% · lagged |
+| last 3 years | — | -17% · lagged | +5% · moved with |
+| last 1 year | — | -6% · moved with | +6% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +165% ┤
+        │        ■═══╗
+        │       ╔╝   ╚═══■╗
+        │       ║◆━━━┛    ╚╗┓                    ■╗
+  +104% ┤      ╔╝┛         ╚╗━┓                ╔═╝╚╗
+        │      ║┛           ╚╗┗┓              ╔╝ ◆┓╚╗
+        │     ╔╝             ╚═╗━┓           ╔╝━━┛┗━╚═╗
+   +42% ┤    ╔╝                ╚╗◆━┓        ╔╝┛     ┗┓╚╗
+        │   ╔╝                  ╚╗ ┗━━━━┓ ╔═╝┛       ┗━╚╗
+        │┈┈┏║┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈■═══════■╝┈┈┈┈┈┈┈┈┈┈┈┈┗╚╗┈┈┈┈┈┈┈┈┈┈┈┈┈┈╔■═══════■═══════■┈┈
+   -19% ┤ ┏╔╝                                            ■════╗    ╔════╝  ┏━━━━┛    ┗━━━◆
+        │◆┛║                                                  ╚══■═╝━━━━━◆━┛
+        │ ╔╝
+        │■╝
+   -81% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -26.2  +115.5  +124.9   +33.6   +15.3   +83.8   -11.5   -19.7   -20.1   +9.6    -5.6
+■      -63.6  +148.0  +123.9   +5.7    +14.6  +111.3   -5.6    -19.2   -1.5    +1.3    +5.7
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`MASTEK_stock_to_index.md`](MASTEK_stock_to_index.md), with the same graph as [`MASTEK_stock_to_index.svg`](MASTEK_stock_to_index.svg) and [`MASTEK_stock_to_index.mmd`](MASTEK_stock_to_index.mmd).
+
 ## What to watch
 
 - Government Dependency (HIGH RISK): any loss or non-renewal of a UK central government or NHS framework position — the same asset that makes Cost to Replicate the strongest pattern.
@@ -457,5 +509,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -16,15 +16,16 @@ Time Technoplast makes plastic-based packaging and containers, plus a growing li
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 48 out of 100 ★★☆☆☆
+## The verdict: Decent — 51 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (67/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 48 out of 100 — mixed.
+In one breath: the quality framework finds a good business today (67/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (75/100). Weighing those together gives 51 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 67 (business quality) + 30% × 10 (multibagger fit) + 25% × 60 (risk safety) = 48 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 67 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 60 (risk safety) + 10% × 75 (relative to the index) = 51 out of 100 → Decent (3 stars).
 
 - **Business quality (67/100):** The 34-check quality framework scored the business +0.67 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 67 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (60/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 3 worth watching (−12); the balance sheet shows one stress signal (−8) → 60 of 100.
+- **Relative to the index (75/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
 
 ### The story in depth
 
@@ -447,6 +448,57 @@ FY2026  ████████████████████      161 da
 - ✅ Operating margin held (about 15% then 14%) — no drift down under competition.
 - ✅ Growth is holding up: 3% a year earlier, 15% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 75 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -6% · moved with | -10% · moved with |
+| last 5 years | — | +65% · gained strongly | +15% · gained |
+| last 3 years | — | +35% · gained strongly | +27% · gained strongly |
+| last 1 year | — | +6% · moved with | +12% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +32% ┤
+        │                ◆━┓
+        │◆━┓         ╔═══■╗┗━━┓                          ◆━┓
+        │  ┗━┓  ╔■═══╝┛   ╚═╗ ┗━┓                       ┏┛ ┗━┓          ┏◆━━━━━━━◆━━━┓╔══■
+   +10% ┤  ╔════╝ ┏━━┛      ╚═╗ ┗◆━┓                    ┃    ┗━━┓  ┏━━━╔═■═══════■════╝━━◆
+        │■═╝┈┈┈┈┗◆┛┈┈┈┈┈┈┈┈┈┈┈╚╗┈┈┈┗━┓┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┏┛┈┈┈┈┈┈┈┗◆━┛╔══╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        │                      ╚═╗   ╔═══■═╗          ┏┛╔■═══════■══╝
+   -12% ┤                        ■═══╝  ┗◆┓╚╗         ┃╔╝
+        │                                 ┗━╚══╗    ╔══╝
+        │                                   ┗┓ ╚╗  ╔╝┛
+        │                                    ┗┓ ╚■═╝┛
+   -34% ┤                                     ┗┓   ┃
+        │                                      ┗━┓┏┛
+        │                                        ◆┛
+   -56% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +19.2   +0.2    +25.9   +4.6    -14.5   -49.6   +21.4   +0.6    +12.3   +13.0   +6.4
+■      -2.4    +15.2   +18.0   -11.3   -7.6    -29.8   -2.9    -6.4    +5.7    +7.2    +11.9
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TIMETECHNO_stock_to_index.md`](TIMETECHNO_stock_to_index.md), with the same graph as [`TIMETECHNO_stock_to_index.svg`](TIMETECHNO_stock_to_index.svg) and [`TIMETECHNO_stock_to_index.mmd`](TIMETECHNO_stock_to_index.mmd).
+
 ## What to watch
 
 - Flow of new LPG tenders from HPCL and BPCL, and whether the board-approved joint venture with private gas distributors actually starts — this is the direct test of the Government Dependency high risk and of the Forward Integrators partial verdict.
@@ -463,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

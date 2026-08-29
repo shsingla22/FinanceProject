@@ -17,15 +17,16 @@ P N Gadgil Jewellers (PNGJL), which trades under the PNG Jewellers brand, is an 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 63 out of 100 ★★★☆☆
+## The verdict: Strong — 67 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (62/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 63 out of 100 — decent.
+In one breath: the quality framework finds a good business today (62/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained strongly on the index (100/100). Weighing those together gives 67 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 62 (business quality) + 30% × 57 (multibagger fit) + 25% × 72 (risk safety) = 63 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 62 (business quality) + 27% × 57 (multibagger fit) + 22.5% × 72 (risk safety) + 10% × 100 (relative to the index) = 67 out of 100 → Strong (4 stars).
 
 - **Business quality (62/100):** The 34-check quality framework scored the business +0.50 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 62 points.
 - **Multibagger fit (57/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 4 likely (+32) → 57 of 100.
 - **Risk safety (72/100):** started from a clean 100; 5 worth watching (−20); the balance sheet shows one stress signal (−8) → 72 of 100.
+- **Relative to the index (100/100):** Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
 
 ### The story in depth
 
@@ -429,6 +430,57 @@ FY2026  █████████████████████     121 
 - ✅ Sales fell in only 1 of the last 6 years with swings of ±32 points — no pronounced boom-and-bust signature in revenue.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 100 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | +440% · gained strongly |
+| last 3 years | — | +177% · gained strongly | +311% · gained strongly |
+| last 1 year | — | +65% · gained strongly | +80% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +841% ┤
+        │        ◆┓
+        │       ┏┛┗┓
+        │       ┃  ┃
+  +583% ┤      ┏┛  ┗┓
+        │      ┃    ┗┓
+        │     ┏┛     ┗┓
+  +324% ┤    ┏┛       ┗┓
+        │   ┏┛         ┗┓
+        │   ┃           ┃
+   +66% ┤  ┏┛           ┗┓     ╔═■════╗      ╔═══■
+        │┈┈┃┈┈╔══■═══╗┈┈┈◆━━╔══╝━◆━━━━╚══■═══╝━━━◆┈┈
+        │■════╝      ╚═══■══╝
+        │◆┛
+  -193% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬──
+       FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     -121.6  +770.1   +15.8   +31.3   +27.4   +65.3
+■      -49.9   +44.6   -9.1    +94.4   +17.4   +80.0
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`PNGJL_stock_to_index.md`](PNGJL_stock_to_index.md), with the same graph as [`PNGJL_stock_to_index.svg`](PNGJL_stock_to_index.svg) and [`PNGJL_stock_to_index.mmd`](PNGJL_stock_to_index.mmd).
+
 ## What to watch
 
 - Cash returns versus headline returns — the Return on capital (headline) check is at -2 with a -19% cash return on capital while ROCE reads 30.5%; if operating cash turns positive as store additions slow, the Capital Allocation and Return on Capital areas re-rate upward.
@@ -444,5 +496,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

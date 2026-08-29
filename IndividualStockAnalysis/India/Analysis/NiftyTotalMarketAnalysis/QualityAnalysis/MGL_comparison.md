@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (63/100). Last one year: Decent (57/100). The last year looks WEAKER than the long-term picture (-6 points) — the company has declined in the recent period.
+Long-term view: Decent (58/100). Last one year: Decent (53/100). The last year looks WEAKER than the long-term picture (-5 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 63 | 67 | +4 |
 | Multibagger fit | 63 | 48 | -15 |
 | Risk safety | 64 | 48 | -16 |
+| Relative to the index | 14 | 17 | +3 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -102,6 +103,20 @@ Genuinely re-tested risk verdicts: 1 eased, 1 worsened, 3 unchanged; 3 could not
 *Not comparable: New Entrants (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Fashion Risk (NOT ASSESSED → LOW — could not be assessed on the long view); Good Enough Goods (NOT ASSESSED → WATCH — could not be assessed on the long view).*
 
 **Financial resilience:** Sound on the long view (the only stress check that could be computed is clean.) vs Sound on the one-year view (the only stress check that could be computed is clean.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (14/100). Looking only at the latest year, it has **LAGGED the index badly** (17/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | -52% · lagged badly | — | — |
+| last 3 years | -29% · lagged badly | -32% · lagged badly | +0% · moved with |
+| last 1 year | -32% · lagged badly | -29% · lagged badly | -9% · moved with |
+
 
 ## How this comparison was built
 

@@ -19,15 +19,16 @@ Piramal Finance Limited (formerly Piramal Capital & Housing Finance) is an India
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 47 out of 100 ★★☆☆☆
+## The verdict: Mixed — 48 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (54/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, New Entrants). Weighing those together gives 47 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (54/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, New Entrants). Against the Nifty 50 it has moved with the index (55/100). Weighing those together gives 48 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 54 (business quality) + 30% × 23 (multibagger fit) + 25% × 62 (risk safety) = 47 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 54 (business quality) + 27% × 23 (multibagger fit) + 22.5% × 62 (risk safety) + 10% × 55 (relative to the index) = 48 out of 100 → Mixed (2 stars).
 
 - **Business quality (54/100):** The 34-check quality framework scored the business +0.18 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 54 points.
 - **Multibagger fit (23/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Corporate Culture) (+15); 1 likely (+8) → 23 of 100.
 - **Risk safety (62/100):** started from a clean 100; 3 elevated (−30); 1 worth watching (−4); 1 numbers-only flag (−4) → 62 of 100.
+- **Relative to the index (55/100):** Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +0.20 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 55 points.
 
 ### The story in depth
 
@@ -434,6 +435,57 @@ FY2026  █                           0 days  ▬ 0 days vs prior year
 
 - ✅ Growth is holding up: 5% a year earlier, 6% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 55 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored +0.20 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 55 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -44% · lagged badly | -62% · lagged badly |
+| last 5 years | — | — | — |
+| last 3 years | — | — | +492% · gained strongly |
+| last 1 year | — | +173% · gained strongly | +21% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +379% ┤
+        │       ┏◆━┓                                                          ╔══■═╗
+        │  ┏━━━━┛  ┗━━━━┓                            ╔═══■══╗          ╔═■════╝━━◆━╚════╗◆
+        │■═══════■═══════■═══════■═╗┈┈┈┈┈┈┈┈┈┈┈┈╔■═══╝┈┈┈┈┗┓╚══╗┈┈┈┈╔══╝┏┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚■┈┈
+   -78% ┤                    ┗━━━◆┓╚════╗  ╔════╝┛         ┃   ╚═■══╝   ┃
+        │                         ┗┓    ╚■═╝    ┃          ┗┓          ┏┛
+        │                          ┗┓          ┏┛           ┗┓        ┏┛
+  -535% ┤                           ┗┓        ┏┛             ┃        ┃
+        │                            ┗┓      ┏┛              ┗┓      ┏┛
+        │                             ┃     ┏┛                ┗┓    ┏┛
+  -992% ┤                             ┗┓   ┏┛                  ┗┓  ┏┛
+        │                              ┗┓  ┃                    ┃  ┃
+        │                               ┗┓┏┛                    ┗┓┏┛
+        │                                ◆┛                      ◆┛
+-1,449% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +10.7  +253.2   -53.7  -170.8  -1322.5  +7.0   +102.4  -1281.8  +78.8  +122.3  +172.9
+■      +15.8   +49.3   -4.8    -28.9  -241.9   -46.6  +115.6   -80.7   +62.7  +200.1   +21.3
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`PIRAMALFIN_stock_to_index.md`](PIRAMALFIN_stock_to_index.md), with the same graph as [`PIRAMALFIN_stock_to_index.svg`](PIRAMALFIN_stock_to_index.svg) and [`PIRAMALFIN_stock_to_index.mmd`](PIRAMALFIN_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether personal-loan yields can stay above 17% with the retail lending rate uncut — if borrower attrition breaks above the sub-10% level, the Good Enough Goods risk (ELEVATED) has beaten the Pricing Power pattern.
@@ -449,5 +501,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

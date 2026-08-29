@@ -21,15 +21,16 @@ IRCON International Limited is an Indian government-owned (Navratna, awarded Oct
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 19 out of 100 ★☆☆☆☆
+## The verdict: Weak — 20 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (35/100); no winning pattern is strongly confirmed yet; the risk review found 4 high risks (Cyclicality, Government Dependency…). Weighing those together gives 19 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (35/100); no winning pattern is strongly confirmed yet; the risk review found 4 high risks (Cyclicality, Government Dependency…). Against the Nifty 50 it has lagged the index (30/100). Weighing those together gives 20 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 35 (business quality) + 30% × 10 (multibagger fit) + 25% × 0 (risk safety) = 19 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 35 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 0 (risk safety) + 10% × 30 (relative to the index) = 20 out of 100 → Weak (1 star).
 
 - **Business quality (35/100):** The 34-check quality framework scored the business -0.59 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 35 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (0/100):** started from a clean 100; 4 high risks (Cyclicality, Government Dependency, New Entrants) (−80); 1 elevated (−10); the balance sheet shows multiple stress signals (−20) → 0 of 100. (Floored at 0.)
+- **Relative to the index (30/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 30 points.
 
 ### The story in depth
 
@@ -437,6 +438,58 @@ FY2026  █                           2 days  ▲ 594 days vs prior year
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±21 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 10% a year earlier, 11% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 30 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 30 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -58% · lagged badly | +2% · moved with |
+| last 5 years | +59% · gained strongly | -45% · lagged badly | -23% · lagged |
+| last 3 years | +55% · gained strongly | -51% · lagged badly | -11% · lagged |
+| last 1 year | -25% · lagged badly | -29% · lagged badly | -11% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +236% ┤
+        │                                                                ●╮
+        │                                                               ╭╯╰╮
+        │                                                              ╭╯  │
+  +155% ┤                                                             ╭╯   ╰╮
+        │                                                            ╭╯     ╰╮
+        │                                                           ╭╯       ╰╮
+   +75% ┤                                                          ╭╯         │
+        │                                                         ╭╯          ╰╮
+        │        ■═══════■═╗            ╔■═╗                    ╭●╯   ╔══■═╗   ╰╮
+    -5% ┼┈┈┈┈┈╔══╝┈┈┈┏━━━◆━╚════╗◆━╔════╝◆━╚════╗┈┈┈┈┈┈┏━◆━━━╔═══■════╝━━◆━╚════╗┈┈┈┈┈┈┈┈┈┈┈
+        │    ╔╝━━◆━━━┛          ╚■═╝        ┗━━┓╚■═══════■═══╝              ┗━━┓╚■═══════■
+        │◆╔══╝┛                                ┗━◆━━┛                          ┗━◆━━━━━━━◆
+        │■╝
+   -86% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     +14.3   -21.9   -22.9   +33.2  +213.5   -33.8   -25.3
+◆      -36.0   -7.9    +9.5    +1.9    +10.1   -33.0   +1.5    +11.4   -3.2    -29.1   -28.5
+■      -63.5   +23.3   +37.6   -14.4   +22.3   -25.5   -12.6   -1.2    +38.9   -27.8   -10.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`IRCON_stock_to_index.md`](IRCON_stock_to_index.md), with the same graph as [`IRCON_stock_to_index.svg`](IRCON_stock_to_index.svg) and [`IRCON_stock_to_index.mmd`](IRCON_stock_to_index.mmd).
+
 ## What to watch
 
 - Order book direction — the 'Market Share Gainers' pattern and the cyclicality risk both hinge on whether the Rs.23,865-24,984 crore book stops falling and rebuilds toward the Rs.42,066 crore of June 2022, or keeps eroding.
@@ -453,5 +506,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

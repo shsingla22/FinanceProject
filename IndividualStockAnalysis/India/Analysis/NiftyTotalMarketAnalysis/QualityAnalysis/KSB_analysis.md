@@ -20,13 +20,14 @@ KSB Limited makes and sells pumps and valves in India — everything from small 
 
 ## The verdict: Decent — 64 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (75/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 2 high risks (Government Dependency, Stakeholder Concentration). Weighing those together gives 64 out of 100 — decent.
+In one breath: the quality framework finds a good business today (75/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 2 high risks (Government Dependency, Stakeholder Concentration). Against the Nifty 50 it has gained on the index (62/100). Weighing those together gives 64 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 75 (business quality) + 30% × 63 (multibagger fit) + 25% × 46 (risk safety) = 64 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 75 (business quality) + 27% × 63 (multibagger fit) + 22.5% × 46 (risk safety) + 10% × 62 (relative to the index) = 64 out of 100 → Decent (3 stars).
 
 - **Business quality (75/100):** The 34-check quality framework scored the business +0.99 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 75 points.
 - **Multibagger fit (63/100):** the foundation test partly passed (+10); 3 patterns fit strongly (Innovation Dominance, Corporate Culture, Cost to Replicate) (+45); 1 likely (+8) → 63 of 100.
 - **Risk safety (46/100):** started from a clean 100; 2 high risks (Government Dependency, Stakeholder Concentration) (−40); 1 elevated (−10); 1 worth watching (−4) → 46 of 100.
+- **Relative to the index (62/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -428,6 +429,57 @@ FY2025  ██████████████████████    20
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±10 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 7% a year earlier, 17% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 62 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +9% · moved with | +25% · gained |
+| last 5 years | — | +5% · moved with | +12% · gained |
+| last 3 years | — | -6% · moved with | +25% · gained strongly |
+| last 1 year | — | -4% · moved with | +9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +49% ┤
+        │                                ◆┓
+        │                               ┏┛┗┓
+        │                              ┏┛  ┃
+   +29% ┤                             ┏┛   ┗┓
+        │                             ┃     ┃
+        │                            ┏┛ ╔■═╗┗┓
+   +10% ┤                           ┏┛ ╔╝  ╚═╗┓                               ╔══■═══════■
+        │            ╔═══■══╗      ┏╔══╝     ╚══╗        ◆━━━━━━━◆━┓   ╔═■════╝ ┏◆━━┓
+        │■═══════■═══╝━┛┈┈┈┈╚══╗┈┈┏╔╝┈┈┈┈┈┈┈┈┈┈┃╚■═══╗┈┏━┛┈┈┈┈┈┈┈┈┈┗╔══╝┈┈┈┈┈┈┏━┛┈┈┈┗━━┓┈┈┈┈
+    -9% ┤◆━━━━━━━◆━━┛          ╚═■═╝           ┗┓    ╚═══■═══════■══╝┗━━┓  ┏━━┛        ┗━◆
+        │                                       ┃   ┏┛                  ┗◆━┛
+        │                                       ┗┓┏━┛
+        │                                        ◆┛
+   -28% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -3.7    -5.7    +5.8    -6.1    +43.3   -22.6   +6.2    +5.9    -9.1    +7.1    -3.9
+■      -0.2    -0.8    +2.7    -5.1    +15.2   +0.7    -7.7    -3.5    +5.0    +9.2    +9.2
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KSB_stock_to_index.md`](KSB_stock_to_index.md), with the same graph as [`KSB_stock_to_index.svg`](KSB_stock_to_index.svg) and [`KSB_stock_to_index.mmd`](KSB_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Government Dependency risk eases or deepens.
@@ -441,5 +493,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -17,15 +17,16 @@ Ajanta Pharma is an Indian drug maker that manufactures and sells prescription m
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 73 out of 100 ★★★★☆
+## The verdict: Strong — 71 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (71/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Stakeholder Concentration, Good Enough Goods). Weighing those together gives 73 out of 100 — strong.
+In one breath: the quality framework finds a good business today (71/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Stakeholder Concentration, Good Enough Goods). Against the Nifty 50 it has moved with the index (52/100). Weighing those together gives 71 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 71 (business quality) + 30% × 79 (multibagger fit) + 25% × 68 (risk safety) = 73 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 71 (business quality) + 27% × 79 (multibagger fit) + 22.5% × 68 (risk safety) + 10% × 52 (relative to the index) = 71 out of 100 → Strong (4 stars).
 
 - **Business quality (71/100):** The 34-check quality framework scored the business +0.83 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 71 points.
 - **Multibagger fit (79/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Friendly Middleman, Corporate Culture) (+30); 3 likely (+24) → 79 of 100.
 - **Risk safety (68/100):** started from a clean 100; 2 elevated (−20); 2 worth watching (−8); 1 numbers-only flag (−4) → 68 of 100.
+- **Relative to the index (52/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 52 points.
 
 ### The story in depth
 
@@ -439,6 +440,58 @@ FY2026  █████████████████         246 days  �
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±7 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 12% a year earlier, 14% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 52 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.08 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 52 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -2% · moved with | -29% · lagged badly | -11% · lagged |
+| last 5 years | +43% · gained strongly | -41% · lagged badly | -25% · lagged badly |
+| last 3 years | +75% · gained strongly | +14% · gained | +52% · gained strongly |
+| last 1 year | +8% · moved with | +1% · moved with | +16% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +66% ┤
+        │                                ●╮
+        │                               ╭╯╰╮                             ●╮
+        │                               │  ╰╮                           ╭╯╰╮
+   +40% ┤                              ╭╯   ╰╮  ╔■╗                    ╭╯  ╰─╮
+        │◆━┓                           │     │╔═╝ ╚╗                  ╭╯ ■═╗ ╰╮
+        │●─┗━━━━┓                     ╭╯ ◆━╔══╝    ╚╗               ╭─╯ ╔╝ ╚══╗─╮
+   +13% ┤■═══════■═╗                 ╭╯ ┏■═╝  ┗━━◆┓ ╚╗             ╭╯  ╔╝◆━━━┓╚═╗╮    ╔══■
+        │      ╰─●╮╚════╗           ╭╯┏╔═╝     ╰╮ ┗━┓╚╗           ╭╯  ╔╝━┛   ┗━━╚■════╝──●
+        │┈┈┈┈┈┈┈┈┈╰─╮┈┈┈╚■╗┓┈┈┈┈┈┈┈┈│┏╔╝┈┈┈┈┈┈┈┈╰╮┈┈┗┓║┈┈┈┈┈┈┈┈┈╭●╯┈┈╔╝┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗━━◆┈┈
+   -13% ┤           ╰─╮   ╚══╗┓    ┏━╔╝          ●───┗╚╗   ╭────╯   ╔╝┛
+        │             ╰╮     ╚╗━┓ ┏┛╔╝                ╰╚╗●─╯       ╔╝┛
+        │              ╰─╮    ╚══◆╔═╝                   ╚◆━━━━┓   ╔╝┛
+        │                ●───────■╝                      ■═══════■╝
+   -40% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +19.5   +5.4    -31.6   -32.6   +58.8   -11.6   -13.6   -5.2    +47.5   +9.2    +8.4
+◆      +27.3   +14.9   -4.9    -23.6   +23.5   +16.2   -26.9   -28.9   +10.5   +2.2    +0.9
+■      +11.8   +15.4   -4.1    -31.0   +16.8   +32.7   -30.8   -28.9   +28.0   +2.2    +16.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`AJANTPHARM_stock_to_index.md`](AJANTPHARM_stock_to_index.md), with the same graph as [`AJANTPHARM_stock_to_index.svg`](AJANTPHARM_stock_to_index.svg) and [`AJANTPHARM_stock_to_index.mmd`](AJANTPHARM_stock_to_index.mmd).
+
 ## What to watch
 
 - US price erosion returning: the 'Good Enough Goods' risk is already proven at 15-18% erosion; watch whether gross margin holds its 77-79% band as the US grows past 29% of revenue.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -21,15 +21,16 @@ Ashok Leyland is an Indian commercial-vehicle maker: it builds and sells trucks 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 41 out of 100 ★★☆☆☆
+## The verdict: Mixed — 43 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (58/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 41 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (58/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (57/100). Weighing those together gives 43 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 58 (business quality) + 30% × 25 (multibagger fit) + 25% × 30 (risk safety) = 41 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 58 (business quality) + 27% × 25 (multibagger fit) + 22.5% × 30 (risk safety) + 10% × 57 (relative to the index) = 43 out of 100 → Mixed (2 stars).
 
 - **Business quality (58/100):** The 34-check quality framework scored the business +0.32 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 58 points.
 - **Multibagger fit (25/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15) → 25 of 100.
 - **Risk safety (30/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 3 elevated (−30); the balance sheet shows multiple stress signals (−20) → 30 of 100.
+- **Relative to the index (57/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 57 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -436,6 +437,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒               -26 days  ▼ 5 days vs 
 
 - ✅ Growth is holding up: 4% a year earlier, 20% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 57 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 57 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -7% · moved with | +46% · gained strongly | -68% · lagged badly |
+| last 5 years | +66% · gained strongly | — | -45% · lagged badly |
+| last 3 years | +67% · gained strongly | +73% · gained strongly | -57% · lagged badly |
+| last 1 year | +53% · gained strongly | -3% · moved with | -12% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +567% ┤
+        │                                                        ◆┓
+        │◆┓                                                     ┏┛┗┓
+        │ ┗┓                                                    ┃  ┗┓
+  +368% ┤  ┗━┓                                                 ┏┛   ┗┓
+        │    ┗┓                                                ┃     ┗┓
+        │     ┗━┓                                             ┏┛      ┗┓
+  +170% ┤       ┗┓                                           ┏┛        ┗┓
+        │■══╗    ◆━━┓                                       ┏┛          ┗┓
+        │●─╮╚══╗    ┗━╔══■═══╗                  ╭●───╮      ┃ ╔══■═══════■═╗━┓        ╭──●
+   -29% ┼┈┈╰───╚═■════╝┗━◆━━━╚═══■════╗┈┈┈┈╭────╯┈┈┈┈╔═══■════╝──●───────●─╚════╗◆━━━╔═══■┈┈
+        │       ╰●─╯            ╰●────╚══■═══════■═══╝     ┃                    ╚■═══╝
+        │                                    ┗━━━◆━━━━┓   ┏┛
+        │                                             ┗━━◆┛
+  -228% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +54.4   -34.3   +49.0   -44.3   -42.1   +77.7   -11.6   +12.4   -1.7    +10.8   +53.1
+◆     +429.5  +116.2   +14.2   +12.0   -78.6  -112.7  -172.8  +512.1   +57.6   +13.7   -3.3
+■      +86.7   +1.4    +40.6   -7.5    -36.1   -31.0   -16.6   +51.2   +36.1   -63.9   -11.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ASHOKLEY_stock_to_index.md`](ASHOKLEY_stock_to_index.md), with the same graph as [`ASHOKLEY_stock_to_index.svg`](ASHOKLEY_stock_to_index.svg) and [`ASHOKLEY_stock_to_index.mmd`](ASHOKLEY_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Government Dependency risk eases or deepens.
@@ -450,5 +503,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

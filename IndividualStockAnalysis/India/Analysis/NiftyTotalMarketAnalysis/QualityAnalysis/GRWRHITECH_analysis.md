@@ -16,15 +16,16 @@ Garware Hi-Tech Films is an Indian manufacturer of specialty plastic films — t
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 77 out of 100 ★★★★☆
+## The verdict: Strong — 76 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (76/100); it strongly fits 5 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 77 out of 100 — strong.
+In one breath: the quality framework finds a good business today (76/100); it strongly fits 5 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (72/100). Weighing those together gives 76 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 76 (business quality) + 30% × 93 (multibagger fit) + 25% × 58 (risk safety) = 77 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 76 (business quality) + 27% × 93 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 72 (relative to the index) = 76 out of 100 → Strong (4 stars).
 
 - **Business quality (76/100):** The 34-check quality framework scored the business +1.02 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 76 points.
 - **Multibagger fit (93/100):** the foundation test partly passed (+10); 5 patterns fit strongly (Friendly Middleman, Brand Strength, Innovation Dominance, Forward Integrators…) (+75); 1 likely (+8) → 93 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12) → 58 of 100.
+- **Relative to the index (72/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.88 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 72 points.
 
 ### The story in depth
 
@@ -452,6 +453,57 @@ FY2026  ██████████████████████     8
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±12 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 2% a year earlier, 16% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 72 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.88 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 72 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +490% · gained strongly | +89% · gained strongly |
+| last 5 years | — | -2% · moved with | -1% · moved with |
+| last 3 years | — | +29% · gained strongly | +57% · gained strongly |
+| last 1 year | — | -10% · lagged | -3% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +142% ┤
+        │                        ◆┓
+        │                      ┏━┛┗┓
+   +98% ┤                     ┏┛   ┃
+        │                    ┏┛    ┗┓
+        │                   ┏┛      ┗┓
+        │                 ┏━┛        ┗┓
+   +54% ┤               ┏◆┛           ┗┓
+        │          ┏━━━━┛      ╔═■═╗   ┗┓                                       ╔■═╗
+        │■═╗     ◆━┛        ╔══╝   ╚═╗  ┃                                     ╔═╝  ╚╗
+   +10% ┤  ╚══╗━━┛     ╔═■══╝        ╚══╗┓   ╔═══■═╗┓                      ╔══╝┛    ╚══╗
+        │┈┈┈┈┏╚═╗┈┈┈╔══╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚■═══╝┈┈┈┈┈╚═╗━┓┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╔■═╝┛┈┈┈┈┈┈┈┈┈┈╚╗┈┈┈
+        │ ┏━━┛  ╚■══╝                                ╚══╗◆━━━━━━━◆━╔════╝◆━┛            ╚■
+        │◆┛                                             ╚■═══════■═╝
+   -34% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -15.7   +29.6   +54.2  +130.1   +7.1    +21.9   -11.2   -14.3   -2.6    +47.7   -10.2
+■      +28.4   -10.6   +14.6   +38.9   +9.1    +22.4   -19.3   -21.7   +9.6    +47.6   -2.8
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GRWRHITECH_stock_to_index.md`](GRWRHITECH_stock_to_index.md), with the same graph as [`GRWRHITECH_stock_to_index.svg`](GRWRHITECH_stock_to_index.svg) and [`GRWRHITECH_stock_to_index.mmd`](GRWRHITECH_stock_to_index.mmd).
+
 ## What to watch
 
 - US trade outcome (Government Dependency, high risk): whether the Supreme Court ruling or a trade deal removes the 50 percent tariff, and whether North America's 55 percent revenue share recovers its prior growth rate
@@ -467,5 +519,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

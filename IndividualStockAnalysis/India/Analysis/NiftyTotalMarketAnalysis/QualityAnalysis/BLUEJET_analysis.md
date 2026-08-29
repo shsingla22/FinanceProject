@@ -12,15 +12,16 @@ Blue Jet Healthcare is an India-based contract development and manufacturing com
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 56 out of 100 ★★★☆☆
+## The verdict: Decent — 52 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Stakeholder Concentration). Weighing those together gives 56 out of 100 — decent.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Stakeholder Concentration). Against the Nifty 50 it has lagged the index badly (17/100). Weighing those together gives 52 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 26 (multibagger fit) + 25% × 68 (risk safety) = 56 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 26 (multibagger fit) + 22.5% × 68 (risk safety) + 10% × 17 (relative to the index) = 52 out of 100 → Decent (3 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.81 on its −2 (poor) to +2 (excellent) scale, with 85% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (26/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Toll Roads) (+15); 1 likely (+8); 1 numbers-only hint (+3) → 26 of 100.
 - **Risk safety (68/100):** started from a clean 100; 1 high risk (Stakeholder Concentration) (−20); 3 worth watching (−12) → 68 of 100.
+- **Relative to the index (17/100):** Across 3 of 12 measure-and-window pairs the stored data could answer, the company scored -1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 17 points.
 
 ### The story in depth
 
@@ -365,6 +366,58 @@ The weaker side of the picture is where cash goes and how prices are set. Capita
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 17 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 3 of 12 measure-and-window pairs the stored data could answer, the company scored -1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 17 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | — | — |
+| last 1 year | -62% · lagged badly | -22% · lagged | -13% · lagged |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +129% ┤
+        │        ●╮
+        │         ╰╮
+        │          │
+   +77% ┤          ╰╮
+        │           │
+        │           ╰╮
+   +26% ┤            ╰╮
+        │             ╰╮
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈│┈┈┈┈
+   -25% ┤■             ╰╮
+        │               │
+        │               ╰╮
+        │                ●
+   -77% ┤
+        └┬───────┬───────┬──
+       FY21    FY25    FY26
+
+●        ·    +114.7   -62.5
+◆      -22.0     ·       ·
+■      -12.8     ·       ·
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BLUEJET_stock_to_index.md`](BLUEJET_stock_to_index.md), with the same graph as [`BLUEJET_stock_to_index.svg`](BLUEJET_stock_to_index.svg) and [`BLUEJET_stock_to_index.mmd`](BLUEJET_stock_to_index.mmd).
+
 ## What to watch
 
 - Stakeholder Concentration: whether the ~20 active RFPs, 3-4 planned contrast-media launches and two lateral-entry opportunities turn into real revenue from customers outside the four innovators.
@@ -380,5 +433,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

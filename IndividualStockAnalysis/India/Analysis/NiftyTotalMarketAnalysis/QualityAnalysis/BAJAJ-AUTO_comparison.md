@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Strong (75/100). Last one year: Decent (59/100). The last year looks WEAKER than the long-term picture (-16 points) — the company has declined in the recent period.
+Long-term view: Strong (75/100). Last one year: Decent (62/100). The last year looks WEAKER than the long-term picture (-13 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 79 | 76 | -3 |
 | Multibagger fit | 79 | 59 | -20 |
 | Risk safety | 64 | 28 | -36 |
+| Relative to the index | 75 | 92 | +17 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -99,6 +100,20 @@ Genuinely re-tested risk verdicts: 0 eased, 3 worsened, 5 unchanged. Financial r
 *Unchanged: Cyclicality (WATCH); Stakeholder Concentration (WATCH); New Entrants (WATCH); Fashion Risk (WATCH); Good Enough Goods (WATCH).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (75/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (92/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +19% · gained | -27% · lagged badly | -4% · moved with |
+| last 5 years | +46% · gained strongly | -20% · lagged | +33% · gained strongly |
+| last 3 years | +70% · gained strongly | +11% · gained | +66% · gained strongly |
+| last 1 year | +13% · gained | +27% · gained strongly | +35% · gained strongly |
+
 
 ## How this comparison was built
 

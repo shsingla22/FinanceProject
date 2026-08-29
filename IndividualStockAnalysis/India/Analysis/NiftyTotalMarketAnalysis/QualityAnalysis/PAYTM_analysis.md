@@ -15,15 +15,16 @@ One 97 Communications, which trades and operates under the brand name Paytm, run
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 44 out of 100 ★★☆☆☆
+## The verdict: Mixed — 47 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (50/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 44 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (50/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (75/100). Weighing those together gives 47 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 50 (business quality) + 30% × 26 (multibagger fit) + 25% × 54 (risk safety) = 44 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 50 (business quality) + 27% × 26 (multibagger fit) + 22.5% × 54 (risk safety) + 10% × 75 (relative to the index) = 47 out of 100 → Mixed (2 stars).
 
 - **Business quality (50/100):** The 34-check quality framework scored the business -0.00 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 50 points.
 - **Multibagger fit (26/100):** the foundation test partly passed (+10); 2 likely (+16) → 26 of 100.
 - **Risk safety (54/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 4 worth watching (−16) → 54 of 100.
+- **Relative to the index (75/100):** Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
 
 ### The story in depth
 
@@ -428,6 +429,58 @@ FY2026  ███████████                51 days  ▼ 18 days vs
 
 - ✅ Growth is holding up: 73% a year earlier, 14% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 75 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 75 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | +13% · gained | — | — |
+| last 1 year | +24% · gained | — | — |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +214% ┤
+        │                                                       ┏◆
+        │                                                    ┏━━╔■
+        │                                               ╭●─┏━┛ ╔╝
+   +65% ┤        ■═══════■════╗      ╔═══■═══════■══╗━━━━◆━┛╔══╝─●
+        │┈┈┈┈┈┈┈╔╝┈┈┈┈┈┈┈┈┈┈┈┈╚══■═══╝┈┈┈●───╮┈┈┈┈┈╭╚══╗┈┈┈╔╝┈┈┈┈┈┈┈
+        │      ╔╝                            ╰───●─╯   ╚═■═╝
+   -84% ┤     ╔╝
+        │    ╔╝
+        │   ┏║
+  -233% ┤  ┏╔╝
+        │ ┏╔╝
+        │◆╔╝
+        │■╝
+  -382% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     +14.1   -49.5   +80.7   +24.1
+◆     -291.5   +29.0   +51.9   +5.6    +36.1   +36.3   +57.8  +173.2
+■     -340.5   +40.4   +38.0   +3.7    +43.4   +49.4   -50.7  +132.7
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`PAYTM_stock_to_index.md`](PAYTM_stock_to_index.md), with the same graph as [`PAYTM_stock_to_index.svg`](PAYTM_stock_to_index.svg) and [`PAYTM_stock_to_index.mmd`](PAYTM_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether a quarter can be profitable without the government's year-end UPI incentive — the single fact behind the high-risk Government Dependency verdict.
@@ -443,5 +496,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Strong (65/100). Last one year: Decent (62/100). The last year looks WEAKER than the long-term picture (-3 points) — the company has declined in the recent period.
+Long-term view: Strong (68/100). Last one year: Decent (63/100). The last year looks WEAKER than the long-term picture (-5 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 69 | 73 | +4 |
 | Multibagger fit | 71 | 46 | -25 |
 | Risk safety | 52 | 60 | +8 |
+| Relative to the index | 89 | 75 | -14 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -109,6 +110,20 @@ Genuinely re-tested risk verdicts: 3 eased, 1 worsened, 2 unchanged; 2 carried f
 *Unchanged: Government Dependency (WATCH); Cyclicality (LOW).*
 
 **Financial resilience:** Sound on the long view (none of the 2 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 2 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (89/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (75/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +60% · gained strongly | +164% · gained strongly |
+| last 3 years | — | +50% · gained strongly | +126% · gained strongly |
+| last 1 year | -12% · lagged | +31% · gained strongly | +38% · gained strongly |
+
 
 ## How this comparison was built
 

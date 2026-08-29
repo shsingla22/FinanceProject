@@ -11,6 +11,7 @@ Long-term view: Decent (53/100). Last one year: Decent (50/100). The last year l
 | Business quality | 54 | 58 | +4 |
 | Multibagger fit | 33 | 25 | -8 |
 | Risk safety | 74 | 64 | -10 |
+| Relative to the index | 52 | 58 | +6 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -110,6 +111,20 @@ Genuinely re-tested risk verdicts: 1 eased, 3 worsened, 4 unchanged. Financial r
 *Unchanged: Cyclicality (WATCH); New Entrants (WATCH); Good Enough Goods (WATCH); Government Dependency (LOW).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **MOVED WITH the index** (52/100). Looking only at the latest year, it has **GAINED on the index** (58/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +66% · gained strongly | +158% · gained strongly |
+| last 5 years | -40% · lagged badly | -6% · moved with | +39% · gained strongly |
+| last 3 years | -37% · lagged badly | -28% · lagged badly | +1% · moved with |
+| last 1 year | -9% · moved with | -5% · moved with | +15% · gained |
+
 
 ## How this comparison was built
 

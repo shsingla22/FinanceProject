@@ -4,15 +4,16 @@
 
 *No conference-call transcripts were available to describe the business in management's own words — run the full analysis, or see the evidence sections below.*
 
-## The verdict: Decent — 53 out of 100 ★★★☆☆
+## The verdict: Decent — 55 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (50/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 53 out of 100 — decent.
+In one breath: the quality framework finds an average business today (50/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (72/100). Weighing those together gives 55 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 50 (business quality) + 30% × 19 (multibagger fit) + 25% × 100 (risk safety) = 53 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 50 (business quality) + 27% × 19 (multibagger fit) + 22.5% × 100 (risk safety) + 10% × 72 (relative to the index) = 55 out of 100 → Decent (3 stars).
 
 - **Business quality (50/100):** The 34-check quality framework scored the business +0.00 on its −2 (poor) to +2 (excellent) scale, with 21% of checks backed by evidence; mapped onto 0–100 that is 50 points. Caution: only 21% of the 34 checks could be answered from this evidence — a thin base; the full analysis (with the conference calls) firms this up.
 - **Multibagger fit (19/100):** the foundation test partly passed (+10); 3 numbers-only hints (+9) → 19 of 100.
 - **Risk safety (100/100):** started from a clean 100; no risk channel cost any points → 100 of 100. Caution: only 0 of the 8 risk channels could be tested on this evidence — treat this as provisional, not a clean bill of health.
+- **Relative to the index (72/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.88 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 72 points.
 
 ### The story in depth
 
@@ -300,6 +301,57 @@ FY2026  ██████████████████        169 days  
 - ✅ Operating margin (16%) remains near its historical peak (20%) — no collapse in the premium.
 - ✅ Operating margin held (about 7% then 18%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 72 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.88 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 72 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +94% · gained strongly | +237% · gained strongly |
+| last 5 years | — | -0% · moved with | +130% · gained strongly |
+| last 3 years | — | -3% · moved with | +26% · gained strongly |
+| last 1 year | — | -18% · lagged | -4% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +85% ┤
+        │■═╗
+        │  ╚════╗
+        │     ┏━╚■╗
+   +52% ┤◆━━━━┛   ╚═╗
+        │           ╚╗                                   ■═══════■═╗
+        │            ╚═╗                                ╔╝       ◆━╚════╗
+   +19% ┤             ┗╚═╗            ╔══■╗            ╔╝      ┏━┛    ┗━╚■═══╗
+        │              ┗━■═══════■════╝━━◆╚═╗━━━━◆━┓  ╔╝     ┏━┛           ┗━╚═══■════╗
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈◆━━━┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚╗┈┈┈┈┈┗━╔╝┈┈┈┈┈┏┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗◆━┓┈┈╚══■┈┈
+   -15% ┤                                    ╚╗     ╔╝━━┓ ┏━┛                      ┗━━━━┓
+        │                                     ╚╗   ╔╝   ┗◆┛                             ┗◆
+        │                                      ╚═╗╔╝
+        │                                        ■╝
+   -48% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +49.1   +54.3   +4.2    +7.8    +6.9    +4.7    -20.4   +29.7   +22.2   -4.1    -17.5
+■      +75.9   +60.9   +12.5   +12.3   +17.6   -38.8   +34.0   +36.4   +23.0   +7.3    -4.5
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`VOLTAMP_stock_to_index.md`](VOLTAMP_stock_to_index.md), with the same graph as [`VOLTAMP_stock_to_index.svg`](VOLTAMP_stock_to_index.svg) and [`VOLTAMP_stock_to_index.mmd`](VOLTAMP_stock_to_index.mmd).
+
 ## What to watch
 
 - Working capital cycle — the -2 'Cost of working capital' check: any move below the current ~169 days would flow straight into the 8% cash return on capital and lift the -2 Capital Allocation area.
@@ -315,5 +367,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (no_concalls): the 34-check quality framework.
 - **MultibaggerPattern** (no_concalls): the 11 patterns long-term winners share.
 - **QualityRisks** (no_concalls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

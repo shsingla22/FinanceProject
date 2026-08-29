@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Weak (31/100). Last one year: Weak (34/100). The last year looks STRONGER than the long-term picture (+3 points) — the company has improved in the recent period.
+Long-term view: Mixed (35/100). Last one year: Mixed (41/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 49 | 52 | +3 |
 | Multibagger fit | 0 | 22 | +22 |
 | Risk safety | 34 | 18 | -16 |
+| Relative to the index | 75 | 100 | +25 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -111,6 +112,20 @@ Genuinely re-tested risk verdicts: 2 eased, 2 worsened, 3 unchanged; 1 carried f
 *Unchanged: Cyclicality (HIGH RISK); Technological Innovation (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Strained on the one-year view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (75/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (100/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +30% · gained strongly | — | -84% · lagged badly |
+| last 5 years | +25% · gained strongly | — | -75% · lagged badly |
+| last 3 years | +40% · gained strongly | +66% · gained strongly | — |
+| last 1 year | +26% · gained strongly | +59% · gained strongly | — |
+
 
 ## How this comparison was built
 

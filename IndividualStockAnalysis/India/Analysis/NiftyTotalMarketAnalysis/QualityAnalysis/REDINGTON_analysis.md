@@ -19,15 +19,16 @@ Redington is a technology distributor: it buys hardware, software and cloud subs
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 56 out of 100 ★★★☆☆
+## The verdict: Decent — 54 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (63/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 56 out of 100 — decent.
+In one breath: the quality framework finds a good business today (63/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has lagged the index (35/100). Weighing those together gives 54 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 63 (business quality) + 30% × 40 (multibagger fit) + 25% × 64 (risk safety) = 56 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 63 (business quality) + 27% × 40 (multibagger fit) + 22.5% × 64 (risk safety) + 10% × 35 (relative to the index) = 54 out of 100 → Decent (3 stars).
 
 - **Business quality (63/100):** The 34-check quality framework scored the business +0.51 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 63 points.
 - **Multibagger fit (40/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Low Price Plus, Market Share Gainers) (+30) → 40 of 100.
 - **Risk safety (64/100):** started from a clean 100; 7 worth watching (−28); the balance sheet shows one stress signal (−8) → 64 of 100.
+- **Relative to the index (35/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.58 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 35 points.
 
 ### The story in depth
 
@@ -457,6 +458,58 @@ FY2026  ███████████████            34 days  ▼ 2 
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±6 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 10% a year earlier, 16% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 35 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -0.58 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 35 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +14% · gained | -19% · lagged | +2% · moved with |
+| last 5 years | +28% · gained strongly | -40% · lagged badly | -16% · lagged |
+| last 3 years | -10% · moved with | -43% · lagged badly | -13% · lagged |
+| last 1 year | -17% · lagged | -38% · lagged badly | +7% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +98% ┤
+        │                                        ●╮
+        │                                       ╭╯╰─╮
+        │                                       │   ╰╮
+   +61% ┤                                      ╭╯    ╰─╮
+        │                                     ╭╯       ╰─╮
+        │                                    ╭╯          ●──╮                    ◆┓
+   +24% ┤                                   ╭╯┏━━◆━━━┓      ╰──╮                ┏┛┗┓
+        │               ╭●╮            ╔═■═══════■════╗━━◆━━┓  ╰─●────╮      ╭┏━┛●─┗┓
+        │■═══════■═══════■═══╗┈┈┈┈┈┈╔══╝┈┈┈│┈┈┈┈┈┈┈┈┈┈╚══■═══════■═╗┈┈╰──●───┏┛┈╔■═══════■┈┈
+   -13% ┤●────╮    ╭──╯     ╰╚═══■══╝     ╭╯                   ┗━◆━╚════╗  ╔════╝    ┗━┓╮
+        │     ╰──●─╯          ╰╮        ╭●╯                         ┗━━┓╚■═╝           ┗┓●
+        │                      ╰─╮ ╭────╯                              ┗━◆┛             ┗┓
+        │                        ●─╯                                                     ◆
+   -50% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -8.9    -19.0   +15.6   -40.3   -14.8   +87.5   +29.9   +8.8    -0.0    +8.3    -16.5
+◆      +2.8    +1.3    +4.3    -7.4    +12.7   +22.7   +11.8   -5.6    -31.4   +33.2   -38.0
+■      +6.9    +4.7    +0.2    -8.6    +9.6    +15.5   -1.9    -1.7    -19.5   +1.2    +7.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`REDINGTON_stock_to_index.md`](REDINGTON_stock_to_index.md), with the same graph as [`REDINGTON_stock_to_index.svg`](REDINGTON_stock_to_index.svg) and [`REDINGTON_stock_to_index.mmd`](REDINGTON_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital (headline check): whether ₹2 of operating cash per ₹100 of capital was a one-year working-capital swing or the true earning power, given the 22% ROCE cited on the calls
@@ -472,5 +525,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

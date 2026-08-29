@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (50/100). Last one year: Mixed (42/100). The last year looks WEAKER than the long-term picture (-8 points) — the company has declined in the recent period.
+Long-term view: Mixed (48/100). Last one year: Mixed (40/100). The last year looks WEAKER than the long-term picture (-8 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 49 | 46 | -3 |
 | Multibagger fit | — | — | — |
 | Risk safety | 52 | 36 | -16 |
+| Relative to the index | 33 | 25 | -8 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -97,6 +98,20 @@ Genuinely re-tested risk verdicts: 1 eased, 2 worsened, 5 unchanged. Financial r
 *Unchanged: Government Dependency (HIGH RISK); Technological Innovation (LOW); Stakeholder Concentration (LOW); Shifting Consumer Preferences (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index** (33/100). Looking only at the latest year, it has **LAGGED the index badly** (25/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +135% · gained strongly | -22% · lagged | -9% · moved with |
+| last 5 years | +3% · moved with | -79% · lagged badly | -68% · lagged badly |
+| last 3 years | +53% · gained strongly | -58% · lagged badly | -42% · lagged badly |
+| last 1 year | +9% · moved with | -28% · lagged badly | -20% · lagged |
+
 
 ## How this comparison was built
 

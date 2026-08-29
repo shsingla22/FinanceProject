@@ -17,15 +17,16 @@ Sona Comstar (Sona BLW Precision Forgings) is an Indian auto-parts maker that de
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 67 out of 100 ★★★★☆
+## The verdict: Strong — 66 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (72/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 67 out of 100 — strong.
+In one breath: the quality framework finds a good business today (72/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (59/100). Weighing those together gives 66 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 72 (business quality) + 30% × 73 (multibagger fit) + 25% × 52 (risk safety) = 67 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 72 (business quality) + 27% × 73 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 59 (relative to the index) = 66 out of 100 → Strong (4 stars).
 
 - **Business quality (72/100):** The 34-check quality framework scored the business +0.86 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 72 points.
 - **Multibagger fit (73/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 3 patterns fit strongly (Innovation Dominance, Market Share Gainers, Corporate Culture) (+45); 1 numbers-only hint (+3) → 73 of 100.
 - **Risk safety (52/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 2 worth watching (−8) → 52 of 100.
+- **Relative to the index (59/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 59 points.
 
 ### The story in depth
 
@@ -423,6 +424,58 @@ FY2026  ██████████████████        121 days  
 - ✅ Operating margin held (about 26% then 26%) — no drift down under competition.
 - ✅ Growth is holding up: 37% a year earlier, 20% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 59 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 59 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +7% · moved with | +23% · gained |
+| last 3 years | -12% · lagged | +1% · moved with | +31% · gained strongly |
+| last 1 year | +6% · moved with | -8% · moved with | +10% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +126% ┤
+        │◆━━━━━━━◆┓
+        │         ┗┓
+        │          ┃
+   +78% ┤          ┗┓
+        │           ┃   ╔■╗
+        │           ┗╔══╝ ╚═╗
+   +31% ┤          ╔═╝┓     ╚╗                   ●╮
+        │    ╔═══■═╝  ┗┓     ╚═╗ ◆━━┓        ╔═══■════╗
+        │■═══╝┈┈┈┈┈┈┈┈┈┃┈┈┈┈┈┈┈╚═╗┈┈┗━╔══■═══╝┏━━◆━━━━╚══■═══════■┈┈
+   -16% ┤              ┗┓    ┏━┛ ■════╝┗━◆━━━━┛      ╰─╮     ┗━━━◆
+        │               ┃   ┏┛            ╭─╯          ╰─╮ ╭─╯
+        │               ┗┓┏━┛            ●╯              ●─╯
+        │                ◆┛
+   -63% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     -42.4   +36.4   -39.3   +5.9
+◆     +105.4  +112.5   -50.3   +12.8   -5.9    +4.4    +5.0    -7.9
+■      -1.2    +17.8   +64.4   -5.7    -1.1    +17.9   +1.2    +10.1
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SONACOMS_stock_to_index.md`](SONACOMS_stock_to_index.md), with the same graph as [`SONACOMS_stock_to_index.svg`](SONACOMS_stock_to_index.svg) and [`SONACOMS_stock_to_index.mmd`](SONACOMS_stock_to_index.mmd).
+
 ## What to watch
 
 - Government Dependency (High Risk): further subsidy withdrawals in the US, Europe or India hitting electric-vehicle demand, which would strike the same revenue that the Structural end-market growth check counts as a strength.
@@ -438,5 +491,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

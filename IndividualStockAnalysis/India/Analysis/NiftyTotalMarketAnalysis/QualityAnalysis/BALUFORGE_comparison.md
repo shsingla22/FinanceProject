@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (44/100). Last one year: Decent (50/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
+Long-term view: Mixed (49/100). Last one year: Decent (53/100). The last year looks STRONGER than the long-term picture (+4 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 34 | 48 | +14 |
 | Multibagger fit | 13 | 13 | +0 |
 | Risk safety | 100 | 100 | +0 |
+| Relative to the index | 92 | 75 | -17 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -82,6 +83,20 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 0 unchanged; 8 could not
 *Not comparable: Cyclicality (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Technological Innovation (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Government Dependency (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Stakeholder Concentration (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); New Entrants (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Shifting Consumer Preferences (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Fashion Risk (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Good Enough Goods (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Sound on the long view (none of the 2 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 2 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (92/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (75/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +1086% · gained strongly | +1150% · gained strongly |
+| last 3 years | — | +321% · gained strongly | +392% · gained strongly |
+| last 1 year | — | +12% · gained | +18% · gained |
+
 
 ## How this comparison was built
 

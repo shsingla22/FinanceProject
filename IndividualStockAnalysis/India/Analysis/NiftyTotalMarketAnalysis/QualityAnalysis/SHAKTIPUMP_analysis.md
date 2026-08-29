@@ -17,15 +17,16 @@ Shakti Pumps (India) Limited makes and sells water pumps — especially solar-po
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 30 out of 100 ★☆☆☆☆
+## The verdict: Weak — 34 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds an average business today (47/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Weighing those together gives 30 out of 100 — weak.
+In one breath: the quality framework finds an average business today (47/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Against the Nifty 50 it has gained on the index (72/100). Weighing those together gives 34 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 47 (business quality) + 30% × 18 (multibagger fit) + 25% × 14 (risk safety) = 30 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 47 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 14 (risk safety) + 10% × 72 (relative to the index) = 34 out of 100 → Weak (1 star).
 
 - **Business quality (47/100):** The 34-check quality framework scored the business -0.13 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 47 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (14/100):** started from a clean 100; 3 high risks (Cyclicality, Government Dependency, Stakeholder Concentration) (−60); 1 elevated (−10); 2 worth watching (−8); the balance sheet shows one stress signal (−8) → 14 of 100.
+- **Relative to the index (72/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.88 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 72 points.
 
 ### The story in depth
 
@@ -450,6 +451,57 @@ FY2026  █████████                 134 days  ▲ 10 days vs pri
 - ⚠️ Year-to-year sales growth swings by ±51 percentage points — boom-and-bust revenue, not a steady compounder.
 - ✅ Growth is holding up: 21% a year earlier, 24% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 72 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.88 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 72 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +7104% · gained strongly | +641% · gained strongly |
+| last 5 years | — | +24% · gained | +49% · gained strongly |
+| last 3 years | — | +582% · gained strongly | +417% · gained strongly |
+| last 1 year | — | -44% · lagged badly | -31% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++2,142% ┤
+        │        ◆┓
+        │       ┏┛┗┓
++1,532% ┤       ┃  ┃
+        │      ┏┛  ┗┓
+        │      ┃    ┗┓
+        │     ┏┛     ┗┓
+  +921% ┤    ┏┛       ┃                          ■╗
+        │   ┏┛        ┗┓                       ╔═╝╚═╗
+        │   ┃          ┗┓                     ╔╝ ◆┓ ╚╗
+  +310% ┤  ┏┛           ┃                    ╔╝━━┛┗━━╚╗                 ┏◆━━━━┓
+        │  ┃    ╔■═══╗  ┗┓                  ╔╝┛      ┗╚╗              ┏━╔■═══════■═══╗
+        │┈┏╔════╝┈┈┈┈╚═══■═══════■════╗┈┈┈╔═╝┛┈┈┈┈┈┈┈┈┗╚═╗┈┈┈┈┈┈┈┈┈╔════╝┈┈┈┈┈┈┈┈┈┈┗━╚═══■┈┈
+        │■═╝                          ╚══■╝              ■═══════■═╝                    ┗◆
+  -300% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -96.4  +1974.0  +63.5   +19.1  -131.8  +551.5   -42.7   -68.2  +371.1  +160.4   -44.4
+■      -59.5  +197.6   +31.0   -8.7    -86.9  +971.7   -42.5   -50.0  +196.4  +153.0   -31.1
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SHAKTIPUMP_stock_to_index.md`](SHAKTIPUMP_stock_to_index.md), with the same graph as [`SHAKTIPUMP_stock_to_index.svg`](SHAKTIPUMP_stock_to_index.svg) and [`SHAKTIPUMP_stock_to_index.mmd`](SHAKTIPUMP_stock_to_index.mmd).
+
 ## What to watch
 
 - Realisation per pump: it is flat sequentially and already down 3–4% on Magel Tyala tenders — a further fall would confirm the failed Pricing Power and Cost to Replicate patterns and undercut the Market Share Gainers fit, since share is being defended on price.
@@ -465,5 +517,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

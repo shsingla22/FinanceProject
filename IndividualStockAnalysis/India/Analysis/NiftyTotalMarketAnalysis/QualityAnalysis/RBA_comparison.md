@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (47/100). Last one year: Decent (55/100). The last year looks STRONGER than the long-term picture (+8 points) — the company has improved in the recent period.
+Long-term view: Decent (51/100). Last one year: Decent (57/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 48 | 53 | +5 |
 | Multibagger fit | 26 | 42 | +16 |
 | Risk safety | 70 | 76 | +6 |
+| Relative to the index | 92 | 75 | -17 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -99,6 +100,20 @@ Genuinely re-tested risk verdicts: 3 eased, 0 worsened, 3 unchanged; 2 carried f
 *Unchanged: Fashion Risk (WATCH); Good Enough Goods (WATCH); Technological Innovation (LOW).*
 
 **Financial resilience:** Sound on the long view (none of the 2 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Strained on the one-year view (1 of the 2 stress checks is flagged — one warning light, not yet a pattern.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (92/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (75/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +73% · gained strongly | +556% · gained strongly |
+| last 3 years | — | +47% · gained strongly | +140% · gained strongly |
+| last 1 year | — | +23% · gained | +21% · gained |
+
 
 ## How this comparison was built
 

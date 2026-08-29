@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: HELD STEADY in the last year ➡️
 
-Long-term view: Decent (50/100). Last one year: Decent (50/100). The last year looks in line with the long-term picture (+0 points) — the company has held steady in the recent period.
+Long-term view: Decent (54/100). Last one year: Decent (55/100). The last year looks in line with the long-term picture (+1 points) — the company has held steady.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 70 | 61 | -9 |
 | Multibagger fit | 30 | 45 | +15 |
 | Risk safety | 36 | 36 | +0 |
+| Relative to the index | 96 | 100 | +4 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -90,6 +91,20 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 7 unchanged; 1 could not
 *Not comparable: Technological Innovation (NOT ASSESSED → LOW — could not be assessed on the long view).*
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (96/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (100/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +478% · gained strongly | +262% · gained strongly | +266% · gained strongly |
+| last 5 years | +60% · gained strongly | +2% · moved with | +39% · gained strongly |
+| last 3 years | +143% · gained strongly | +83% · gained strongly | +140% · gained strongly |
+| last 1 year | +34% · gained strongly | +74% · gained strongly | +95% · gained strongly |
+
 
 ## How this comparison was built
 

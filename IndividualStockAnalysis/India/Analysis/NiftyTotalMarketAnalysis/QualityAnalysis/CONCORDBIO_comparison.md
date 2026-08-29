@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Decent (60/100). Last one year: Strong (65/100). The last year looks STRONGER than the long-term picture (+5 points) — the company has improved in the recent period.
+Long-term view: Decent (54/100). Last one year: Decent (58/100). The last year looks STRONGER than the long-term picture (+4 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 64 | 61 | -3 |
 | Multibagger fit | 56 | 64 | +8 |
 | Risk safety | 56 | 72 | +16 |
+| Relative to the index | 4 | 0 | -4 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -107,6 +108,20 @@ Genuinely re-tested risk verdicts: 3 eased, 1 worsened, 2 unchanged; 1 carried f
 *Not comparable: Shifting Consumer Preferences (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (4/100). Looking only at the latest year, it has **LAGGED the index badly** (0/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -60% · lagged badly | -44% · lagged badly |
+| last 3 years | — | -32% · lagged badly | -12% · lagged |
+| last 1 year | -39% · lagged badly | -39% · lagged badly | -28% · lagged badly |
+
 
 ## How this comparison was built
 

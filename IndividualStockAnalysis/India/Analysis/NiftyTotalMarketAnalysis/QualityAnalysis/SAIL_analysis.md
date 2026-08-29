@@ -18,15 +18,16 @@ Steel Authority of India Limited (SAIL) is a large, government-owned Indian stee
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 37 out of 100 ★★☆☆☆
+## The verdict: Mixed — 40 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (47/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Weighing those together gives 37 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (47/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (62/100). Weighing those together gives 40 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 47 (business quality) + 30% × 10 (multibagger fit) + 25% × 52 (risk safety) = 37 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 47 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 52 (risk safety) + 10% × 62 (relative to the index) = 40 out of 100 → Mixed (2 stars).
 
 - **Business quality (47/100):** The 34-check quality framework scored the business -0.13 on its −2 (poor) to +2 (excellent) scale, with 88% of checks backed by evidence; mapped onto 0–100 that is 47 points.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (52/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 2 worth watching (−8) → 52 of 100.
+- **Relative to the index (62/100):** Across 10 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
 
 ### The story in depth
 
@@ -423,6 +424,58 @@ FY2026  ███████                   105 days  ▼ 58 days vs prior y
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±18 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 7% a year earlier, 10% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 62 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 10 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +15% · gained | — | — |
+| last 5 years | +17% · gained | -70% · lagged badly | -53% · lagged badly |
+| last 3 years | +38% · gained strongly | -2% · moved with | +22% · gained |
+| last 1 year | +33% · gained strongly | +25% · gained | +11% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++4,371% ┤
+        │                ■╗
+        │               ╔╝╚╗
+        │               ║  ║
++3,116% ┤              ╔╝  ╚╗
+        │             ╔╝    ╚╗
+        │            ╔╝      ╚╗
++1,860% ┤            ║        ║
+        │           ╔╝        ╚╗
+        │          ╔╝          ╚╗
+  +605% ┤          ║           ┏║◆━━┓
+        │         ╔╝        ┏━━┛╚╗  ┗━━┓
+        │●───╔═══■╝━━━━━━◆━━┛────■═══════■═══════■═══════■═══════■═══════■═══════■═══════■┈┈
+        │■═══╝
+  -651% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -33.4   +20.0   -0.8    -34.0   -45.8  +130.4   +7.0    -20.6   +29.7   -20.3   +33.3
+◆     -304.3   +37.8   +89.5  +874.1   -7.8    +62.7   +97.8   -84.7   +12.2   -29.9   +25.0
+■     -156.0  +104.0  +4024.9  +66.7   +1.5    +12.7   +24.1   -69.1   +22.4   -9.5    +10.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SAIL_stock_to_index.md`](SAIL_stock_to_index.md), with the same graph as [`SAIL_stock_to_index.svg`](SAIL_stock_to_index.svg) and [`SAIL_stock_to_index.mmd`](SAIL_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the FY26 debt reduction holds — the 'disciplined stewards' check rests on borrowings falling ₹8,150 crore to a 0.36 debt-equity ratio; borrowings climbing back toward the ₹39,163 crore August 2024 peak would remove one of only two positive checks.
@@ -438,5 +491,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -17,15 +17,16 @@ MRPL is an Indian oil refinery company at Mangaluru on the west coast of Karnata
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 29 out of 100 ★☆☆☆☆
+## The verdict: Weak — 33 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (38/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 29 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (38/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained on the index (73/100). Weighing those together gives 33 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 38 (business quality) + 30% × 0 (multibagger fit) + 25% × 48 (risk safety) = 29 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 38 (business quality) + 27% × 0 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 73 (relative to the index) = 33 out of 100 → Weak (1 star).
 
 - **Business quality (38/100):** The 34-check quality framework scored the business -0.48 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 38 points.
 - **Multibagger fit (0/100):** the foundation test did not pass (+0); no pattern found meaningful support (+0) → 0 of 100.
 - **Risk safety (48/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 3 worth watching (−12) → 48 of 100.
+- **Relative to the index (73/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 73 points.
 
 ### The story in depth
 
@@ -447,6 +448,58 @@ FY2026  █████                      41 days  ▲ 20 days vs prior year
 - ⚠️ Sales actually FELL in 5 of the last 11 years — revenue moves in cycles, it does not compound steadily.
 - ✅ Growth is holding up: -9% a year earlier, 23% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 73 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 73 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -13% · lagged | +6% · moved with | +30% · gained strongly |
+| last 5 years | +182% · gained strongly | — | +347% · gained strongly |
+| last 3 years | +158% · gained strongly | -54% · lagged badly | -20% · lagged |
+| last 1 year | +36% · gained strongly | +2921% · gained strongly | +170% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++3,257% ┤
+        │                                                                                ◆
+        │                                                                               ┏┛
+        │                                                                              ┏┛
++2,040% ┤                                                                             ┏┛
+        │                                                                             ┃
+        │                                                                            ┏┛
+  +822% ┤                                                                           ┏┛
+        │    ┏━━━◆━━━━┓                              ╔═══■════╗                    ┏┛
+        │■═══════■═══════■═══╗───●───╮┈┈┈┈┈┈┈┈╔══■═══╝───●────╚══■═══════■═══╗───●┏┛──╔══■┈┈
+  -395% ┤                    ╚═══■═══════■════╝━━┛                           ╚═══■════╝
+        │                          ┗━┓       ┏┛
+        │                            ┗━━┓ ┏━━┛
+        │                               ┗◆┛
+-1,612% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +4.2    +33.5   -10.8   -38.2   -62.9   +13.1   -8.4    +19.6  +232.4   -42.9   +35.6
+◆     +125.9  +513.5   -44.6   -81.7  -1276.3  +84.3  +359.1   -22.6   +7.9    -98.6 +2921.3
+■     +175.0  +189.8   -8.6    -53.5  -215.7  +120.4  +418.5   +8.4    +6.2    -72.3  +170.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`MRPL_stock_to_index.md`](MRPL_stock_to_index.md), with the same graph as [`MRPL_stock_to_index.svg`](MRPL_stock_to_index.svg) and [`MRPL_stock_to_index.mmd`](MRPL_stock_to_index.mmd).
+
 ## What to watch
 
 - Capex for growth (-1): whether the ₹8,000 crore petrochemical programme and Phase-4 move off 'under review' into real spend, rather than the ~₹1,000 crore of largely routine outlay seen so far.
@@ -462,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

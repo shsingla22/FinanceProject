@@ -18,13 +18,14 @@ KNR Constructions (KNRCON) is a Hyderabad-headquartered civil construction contr
 
 ## The verdict: Weak — 20 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (35/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Weighing those together gives 20 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (35/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Against the Nifty 50 it has lagged the index badly (19/100). Weighing those together gives 20 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 35 (business quality) + 30% × 13 (multibagger fit) + 25% × 0 (risk safety) = 20 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 35 (business quality) + 27% × 13 (multibagger fit) + 22.5% × 0 (risk safety) + 10% × 19 (relative to the index) = 20 out of 100 → Weak (1 star).
 
 - **Business quality (35/100):** The 34-check quality framework scored the business -0.60 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 35 points.
 - **Multibagger fit (13/100):** the foundation test partly passed (+10); 1 numbers-only hint (+3) → 13 of 100.
 - **Risk safety (0/100):** started from a clean 100; 3 high risks (Cyclicality, Government Dependency, Stakeholder Concentration) (−60); 2 elevated (−20); 3 numbers-only flags (−12); the balance sheet shows one stress signal (−8) → 0 of 100.
+- **Relative to the index (19/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 19 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -415,6 +416,57 @@ FY2026  ███████████                39 days  ▲ 5 days vs 
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±21 points — no pronounced boom-and-bust signature in revenue.
 - ⚠️ Growth has stalled: sales compounded at 21% a year in the first half of the record but only -1% recently — demand may be structurally fading.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 19 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 19 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +9% · moved with | +45% · gained strongly |
+| last 5 years | — | -58% · lagged badly | -49% · lagged badly |
+| last 3 years | — | -37% · lagged badly | -36% · lagged badly |
+| last 1 year | — | -62% · lagged badly | -57% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +154% ┤
+        │                ◆┓
+        │               ┏┛┗┓
+        │              ┏┛  ┗┓
+   +96% ┤             ┏┛    ┗┓
+        │             ╔══■╗  ┗┓
+        │◆━┓   ╔═■════╝   ╚═╗ ┗┓
+   +38% ┤  ┗╔══╝    ┏┛      ╚╗ ┗┓                                       ┏◆━━━┓  ╔■╗
+        │■══╝━━┓   ┏┛        ╚═╗┗┓           ┏━━━◆━┓               ┏━━━━┛  ╔════╝◆╚═╗
+        │┈┈┈┈┈┈┗┓┈┏┛┈┈┈┈┈┈┈┈┈┈┈╚═◆━━━━╔══■═══════■═══╗┈┈┈┈┈┈┈┈┈┈┏◆━┛┈┈╔══■═╝┈┈┈┈┈┈┗━╚╗┈┈┈┈┈┈
+   -20% ┤       ┗◆┛              ■════╝              ╚═══■═══════■════╝             ┗╚╗
+        │                                               ┗◆━┛                          ╚╗
+        │                                                                              ╚═╗
+        │                                                                                ■
+   -78% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +51.8   -16.7  +137.8   +7.2    -1.3    +24.4   -36.0   +3.4    +36.4   +20.7   -61.7
+■      +28.8   +52.3   +71.4   -4.1    +12.3   +1.6    -14.8   -6.1    +0.8    +44.9   -56.5
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KNRCON_stock_to_index.md`](KNRCON_stock_to_index.md), with the same graph as [`KNRCON_stock_to_index.svg`](KNRCON_stock_to_index.svg) and [`KNRCON_stock_to_index.mmd`](KNRCON_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Cyclicality risk eases or deepens.
@@ -431,5 +483,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

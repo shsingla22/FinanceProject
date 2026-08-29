@@ -12,15 +12,16 @@ Craftsman Automation is an Indian contract manufacturer of machined metal parts,
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 45 out of 100 ★★☆☆☆
+## The verdict: Decent — 50 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Weighing those together gives 45 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the main risks are elevated but not severe (Cyclicality, Technological Innovation). Against the Nifty 50 it has gained strongly on the index (94/100). Weighing those together gives 50 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 18 (multibagger fit) + 25% × 48 (risk safety) = 45 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 18 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 94 (relative to the index) = 50 out of 100 → Decent (3 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.43 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (18/100):** the foundation test partly passed (+10); 1 likely (+8) → 18 of 100.
 - **Risk safety (48/100):** started from a clean 100; 4 elevated (−40); 1 worth watching (−4); the balance sheet shows one stress signal (−8) → 48 of 100.
+- **Relative to the index (94/100):** Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored +1.78 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 94 points.
 
 ### The story in depth
 
@@ -426,6 +427,58 @@ FY2026  ███████████████            74 days  ▲ 15
 
 - ✅ Growth is holding up: 15% a year earlier, 38% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 94 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored +1.78 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 94 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | +200% · gained strongly | +45% · gained strongly | +41% · gained strongly |
+| last 3 years | +61% · gained strongly | -3% · moved with | +48% · gained strongly |
+| last 1 year | +45% · gained strongly | +68% · gained strongly | +46% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +200% ┤
+        │        ◆┓
+        │       ┏┛┗┓
+        │       ┃  ┃
+  +130% ┤      ┏┛  ┗┓
+        │      ┃    ┃            ◆┓
+        │     ┏┛    ┗┓          ┏┛┗━━┓
+   +61% ┤    ┏┛      ┗┓        ┏┛    ┗┓                                  ◆
+        │   ┏┛        ┗┓      ┏┛      ┗━━●───┏━━━◆━━┓                  ┏╔■
+        │■═══════■═╗   ┃     ┏┛          ◆━━━┛╰──●──┗━╔══■═╗        ╭─╔═╝
+    -9% ┼┈┈┏┛┈┈┈┈┈┈╚════╗┈┈┈┏╔═══■════╗┈┈┈┈┈┈╔═══■════╝┗━◆━╚════╗●─╔══╝┈┈┈┈┈
+        │  ┃            ╚■═══╝        ╚══■═══╝              ┗━━┓╚■═╝┛
+        │ ┏┛            ┗┓┏┛                                   ┗━◆┛
+        │◆┛              ◆┛
+   -78% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     +42.1   +30.7   +5.9    +5.0    +45.1
+◆      -58.9  +180.7   -57.9  +101.7   +12.6   +32.8   +6.9    -46.0   +67.9
+■      +29.9   +20.6   -12.9   -0.3    -9.5    +5.1    +13.4   -10.5   +46.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`CRAFTSMAN_stock_to_index.md`](CRAFTSMAN_stock_to_index.md), with the same graph as [`CRAFTSMAN_stock_to_index.svg`](CRAFTSMAN_stock_to_index.svg) and [`CRAFTSMAN_stock_to_index.mmd`](CRAFTSMAN_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital (headline, score -1): whether the 8% cash return on capital rises as the ₹1,000–1,100cr FY26 capex at Kothavadi, Bhiwadi and Shoolagiri starts earning, or whether consolidated ROCE keeps slipping.
@@ -441,5 +494,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

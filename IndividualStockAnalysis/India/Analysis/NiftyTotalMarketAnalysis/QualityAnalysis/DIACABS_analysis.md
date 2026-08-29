@@ -4,15 +4,16 @@
 
 *No conference-call transcripts were available to describe the business in management's own words — run the full analysis, or see the evidence sections below.*
 
-## The verdict: Weak — 27 out of 100 ★☆☆☆☆
+## The verdict: Weak — 34 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds a weak business today (15/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 27 out of 100 — weak.
+In one breath: the quality framework finds a weak business today (15/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has gained strongly on the index (100/100). Weighing those together gives 34 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 15 (business quality) + 30% × 10 (multibagger fit) + 25% × 68 (risk safety) = 27 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 15 (business quality) + 27% × 10 (multibagger fit) + 22.5% × 68 (risk safety) + 10% × 100 (relative to the index) = 34 out of 100 → Weak (1 star).
 
 - **Business quality (15/100):** The 34-check quality framework scored the business -1.41 on its −2 (poor) to +2 (excellent) scale, with 21% of checks backed by evidence; mapped onto 0–100 that is 15 points. Caution: only 21% of the 34 checks could be answered from this evidence — a thin base; the full analysis (with the conference calls) firms this up.
 - **Multibagger fit (10/100):** the foundation test partly passed (+10); no pattern found meaningful support (+0) → 10 of 100.
 - **Risk safety (68/100):** started from a clean 100; 6 numbers-only flags (−24); the balance sheet shows one stress signal (−8) → 68 of 100.
+- **Relative to the index (100/100):** Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -288,6 +289,57 @@ FY2026  █████████                  93 days  ▲ 33 days vs pri
 
 - ✅ Customers pay in about 69 days (was 56) — no sign of weakening bargaining power in collection terms.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 100 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 2 of 12 measure-and-window pairs the stored data could answer, the company scored +2.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 100 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | — | — |
+| last 1 year | — | +308% · gained strongly | +229% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +967% ┤
+        │◆━━━┓┈┈┈┈┈┈┈┈┏━━■═══════■┈┈
+        │■╗  ┗━━━◆━━━━┛ ╔╝
+        │ ╚╗            ║
+-1,420% ┤  ║           ╔╝
+        │  ╚╗          ║
+        │   ╚╗        ╔╝
+-3,807% ┤    ║       ╔╝
+        │    ╚╗     ╔╝
+        │     ╚╗    ║
+-6,194% ┤      ╚╗  ╔╝
+        │       ║  ║
+        │       ╚╗╔╝
+        │        ■╝
+-8,581% ┤
+        └┬───────┬───────┬───────┬──
+       FY16    FY17    FY25    FY26
+
+◆      -40.8  -178.0   +81.2  +308.4
+■     -112.1  -7922.9  +47.1  +229.3
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`DIACABS_stock_to_index.md`](DIACABS_stock_to_index.md), with the same graph as [`DIACABS_stock_to_index.svg`](DIACABS_stock_to_index.svg) and [`DIACABS_stock_to_index.mmd`](DIACABS_stock_to_index.mmd).
+
 ## What to watch
 
 - No elevated risks today; watch that it stays that way.
@@ -299,5 +351,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (no_concalls): the 34-check quality framework.
 - **MultibaggerPattern** (no_concalls): the 11 patterns long-term winners share.
 - **QualityRisks** (no_concalls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

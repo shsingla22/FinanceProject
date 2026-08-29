@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: HELD STEADY in the last year ➡️
 
-Long-term view: Mixed (35/100). Last one year: Mixed (36/100). The last year looks in line with the long-term picture (+1 points) — the company has held steady in the recent period.
+Long-term view: Mixed (36/100). Last one year: Mixed (36/100). The last year looks in line with the long-term picture (+0 points) — the company has held steady.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 50 | 55 | +5 |
 | Multibagger fit | 10 | 13 | +3 |
 | Risk safety | 38 | 28 | -10 |
+| Relative to the index | 40 | 42 | +2 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -100,6 +101,20 @@ Genuinely re-tested risk verdicts: 2 eased, 2 worsened, 2 unchanged; 2 carried f
 *Unchanged: Government Dependency (HIGH RISK); Technological Innovation (WATCH).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index** (40/100). Looking only at the latest year, it has **LAGGED the index** (42/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -50% · lagged badly | -39% · lagged badly | -23% · lagged |
+| last 5 years | +111% · gained strongly | -10% · lagged | +11% · gained |
+| last 3 years | +59% · gained strongly | -38% · lagged badly | -24% · lagged |
+| last 1 year | +15% · gained | -23% · lagged | -14% · lagged |
+
 
 ## How this comparison was built
 

@@ -4,15 +4,16 @@
 
 *No conference-call transcripts were available to describe the business in management's own words — run the full analysis, or see the evidence sections below.*
 
-## The verdict: Decent — 58 out of 100 ★★★☆☆
+## The verdict: Decent — 57 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (62/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 58 out of 100 — decent.
+In one breath: the quality framework finds a good business today (62/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 57 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 62 (business quality) + 30% × 28 (multibagger fit) + 25% × 88 (risk safety) = 58 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 62 (business quality) + 27% × 28 (multibagger fit) + 22.5% × 88 (risk safety) + 10% × 50 (relative to the index) = 57 out of 100 → Decent (3 stars).
 
 - **Business quality (62/100):** The 34-check quality framework scored the business +0.47 on its −2 (poor) to +2 (excellent) scale, with 21% of checks backed by evidence; mapped onto 0–100 that is 62 points. Caution: only 21% of the 34 checks could be answered from this evidence — a thin base; the full analysis (with the conference calls) firms this up.
 - **Multibagger fit (28/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 numbers-only hint (+3) → 28 of 100.
 - **Risk safety (88/100):** started from a clean 100; 3 numbers-only flags (−12) → 88 of 100. Caution: only 3 of the 8 risk channels could be tested on this evidence — treat this as provisional, not a clean bill of health.
+- **Relative to the index (50/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -302,6 +303,57 @@ FY2026  █                            1 day  ▲ 1 day vs prior year
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±23 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 7% a year earlier, 26% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -20% · lagged | -9% · moved with |
+| last 5 years | — | -12% · lagged | +32% · gained strongly |
+| last 3 years | — | -10% · lagged | +10% · moved with |
+| last 1 year | — | -3% · moved with | +10% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +43% ┤
+        │                                                        ■╗
+        │■═╗                             ◆┓                     ╔◆╚═╗
+        │◆━╚═╗                          ┏┛┗┓                   ╔╝┛┗━╚╗
+   +21% ┤  ┗━╚══╗                     ┏━┛■╗┃                  ╔╝┛   ┗╚═╗
+        │       ╚■═══╗━━━◆━┓         ┏┛╔═╝╚╗┓                ╔╝┛      ┗╚═╗              ╔■
+        │            ╚═══■═╗━━┓    ┏━╔═╝   ╚╗┓              ╔╝┛        ┗━■════╗    ╔════╝
+    -1% ┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚═╗┗━┓┈┏┛╔╝┈┈┈┈┈┈╚╗┈┈┈┈┈┈┈┈┈┈┈┈┈╔╝┃┈┈┈┈┈┈┈┈┈┈┈◆━━━┓╚══■═╝┈┈┏━━◆┈┈
+        │                    ╚══╗◆╔═╝        ╚╗           ╔╝┏┛               ┗━━━◆━━━━┛
+        │                       ╚■╝           ║┓         ■╝┏┛
+   -23% ┤                                     ╚╗┓     ╔══╝┏┛
+        │                                      ╚╗    ╔╝ ┏◆┛
+        │                                       ╚╗╔══╝━━┛
+        │                                        ■╝┛
+   -46% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +22.0   +11.3   +8.2    -6.9    +32.8   -38.9   -26.4   +32.8   -0.7    -6.4    -3.2
+■      +30.2   +12.8   +2.2    -14.5   +15.7   -39.4   -12.2   +36.9   +2.4    -2.9    +10.2
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NESCO_stock_to_index.md`](NESCO_stock_to_index.md), with the same graph as [`NESCO_stock_to_index.svg`](NESCO_stock_to_index.svg) and [`NESCO_stock_to_index.mmd`](NESCO_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the ±5.1 point margin swing narrows or widens — it is the single number behind the Industry Structure score of 0 and both the Cyclicality and New Entrants flags.
@@ -317,5 +369,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (no_concalls): the 34-check quality framework.
 - **MultibaggerPattern** (no_concalls): the 11 patterns long-term winners share.
 - **QualityRisks** (no_concalls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

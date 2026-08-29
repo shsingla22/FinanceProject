@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (52/100). Last one year: Mixed (48/100). The last year looks WEAKER than the long-term picture (-4 points) — the company has declined in the recent period.
+Long-term view: Mixed (49/100). Last one year: Mixed (45/100). The last year looks WEAKER than the long-term picture (-4 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 55 | 50 | -5 |
 | Multibagger fit | 44 | 44 | +0 |
 | Risk safety | 58 | 48 | -10 |
+| Relative to the index | 19 | 25 | +6 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -105,6 +106,20 @@ Genuinely re-tested risk verdicts: 0 eased, 1 worsened, 7 unchanged. Financial r
 *Unchanged: Good Enough Goods (HIGH RISK); Technological Innovation (WATCH); Government Dependency (WATCH); New Entrants (WATCH); Cyclicality (LOW); Shifting Consumer Preferences (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (19/100). Looking only at the latest year, it has **LAGGED the index badly** (25/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -32% · lagged badly | -46% · lagged badly | -37% · lagged badly |
+| last 5 years | -15% · lagged | -22% · lagged | -17% · lagged |
+| last 3 years | +2% · moved with | -41% · lagged badly | -18% · lagged |
+| last 1 year | +11% · gained | -36% · lagged badly | -26% · lagged badly |
+
 
 ## How this comparison was built
 

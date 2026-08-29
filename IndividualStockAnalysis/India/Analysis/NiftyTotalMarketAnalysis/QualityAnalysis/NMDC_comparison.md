@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (36/100). Last one year: Mixed (41/100). The last year looks STRONGER than the long-term picture (+5 points) — the company has improved in the recent period.
+Long-term view: Mixed (38/100). Last one year: Mixed (44/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 50 | 57 | +7 |
 | Multibagger fit | 28 | 31 | +3 |
 | Risk safety | 20 | 26 | +6 |
+| Relative to the index | 56 | 67 | +11 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -99,6 +100,20 @@ Genuinely re-tested risk verdicts: 1 eased, 0 worsened, 3 unchanged; 4 carried f
 *Unchanged: Cyclicality (HIGH RISK); Government Dependency (HIGH RISK); Stakeholder Concentration (HIGH RISK).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED on the index** (56/100). Looking only at the latest year, it has **GAINED on the index** (67/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -1% · moved with | -18% · lagged | +21% · gained |
+| last 5 years | +34% · gained strongly | -57% · lagged badly | -47% · lagged badly |
+| last 3 years | +54% · gained strongly | -16% · lagged | +25% · gained strongly |
+| last 1 year | +12% · gained | +0% · moved with | +12% · gained |
+
 
 ## How this comparison was built
 

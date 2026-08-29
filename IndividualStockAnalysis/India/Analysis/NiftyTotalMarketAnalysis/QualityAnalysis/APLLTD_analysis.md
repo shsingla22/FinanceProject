@@ -18,13 +18,14 @@ Alembic Pharmaceuticals (NSE: APLLTD, BSE: 533573) is an India-based drug maker 
 
 ## The verdict: Mixed — 39 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds a weak business today (44/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (New Entrants, Good Enough Goods). Weighing those together gives 39 out of 100 — mixed.
+In one breath: the quality framework finds a weak business today (44/100); no winning pattern is strongly confirmed yet; the risk review found 2 high risks (New Entrants, Good Enough Goods). Against the Nifty 50 it has lagged the index (34/100). Weighing those together gives 39 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 44 (business quality) + 30% × 33 (multibagger fit) + 25% × 38 (risk safety) = 39 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 44 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 38 (risk safety) + 10% × 34 (relative to the index) = 39 out of 100 → Mixed (2 stars).
 
 - **Business quality (44/100):** The 34-check quality framework scored the business -0.22 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 44 points.
 - **Multibagger fit (33/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 likely (+8) → 33 of 100.
 - **Risk safety (38/100):** started from a clean 100; 2 high risks (New Entrants, Good Enough Goods) (−40); 1 elevated (−10); 1 worth watching (−4); the balance sheet shows one stress signal (−8) → 38 of 100.
+- **Relative to the index (34/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 34 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -440,6 +441,57 @@ FY2026  ██████████████████████    38
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±16 points — no pronounced boom-and-bust signature in revenue.
 - ⚠️ Growth has stalled: sales compounded at 17% a year in the first half of the record but only 6% recently — demand may be structurally fading.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 34 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 34 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -74% · lagged badly | -61% · lagged badly |
+| last 5 years | — | -79% · lagged badly | -62% · lagged badly |
+| last 3 years | — | +24% · gained | +35% · gained strongly |
+| last 1 year | — | +1% · moved with | +10% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +158% ┤
+        │■╗
+        │ ╚╗
+   +97% ┤  ║
+        │  ╚╗
+        │   ╚╗
+        │    ╚╗
+   +36% ┤     ╚╗                ┏◆━━━━━━╔■═╗━┓                           ◆━┓
+        │     ┗╚╗          ┏━━━━┛  ╔════╝  ╚════╗◆┓                    ┏╔■════╗
+        │┈┈┈┈┈┈┗║┈┈┈┈┈┈┈╔■═══════■═╝┈┈┈┈┈┈┈┈┈┈┈┈╚■═╗┓┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╔═╝┈┈┈┈┈╚══■═══════■┈┈
+   -25% ┤       ╚╗ ╔════╝                          ╚══╗            ╔══╝         ┗◆━━━━┛
+        │       ┗■═╝━┛                                ╚═╗     ╔══■═╝┛
+        │        ◆━┛                                   ┗╚■════╝━━◆┛
+        │                                                ◆━━━┛
+   -86% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     +141.4   -47.2   +5.3    +30.7   +40.3   +19.0   -69.5   -43.4   +43.4   -14.4   +1.3
+■     +137.6   -39.4   +5.3    +8.8    +35.7   +9.6    -56.2   -36.0   +20.6   +2.1    +9.5
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`APLLTD_stock_to_index.md`](APLLTD_stock_to_index.md), with the same graph as [`APLLTD_stock_to_index.svg`](APLLTD_stock_to_index.svg) and [`APLLTD_stock_to_index.mmd`](APLLTD_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the New Entrants risk eases or deepens.
@@ -453,5 +505,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

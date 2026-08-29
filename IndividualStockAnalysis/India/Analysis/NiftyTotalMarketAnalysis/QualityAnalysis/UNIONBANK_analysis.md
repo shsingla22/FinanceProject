@@ -19,15 +19,16 @@ Union Bank of India is an Indian public-sector commercial bank, listed in Mumbai
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 43 out of 100 ★★☆☆☆
+## The verdict: Mixed — 49 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (45/100); the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 43 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (45/100); the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained strongly on the index (83/100). Weighing those together gives 49 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 64% × 45 (business quality) + 36% × 40 (risk safety) = 43 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 55.5% × 45 (business quality) + 30.8% × 40 (risk safety) + 13.7% × 83 (relative to the index) = 49 out of 100 → Mixed (2 stars).
 
 - **Business quality (45/100):** The 34-check quality framework scored the business -0.20 on its −2 (poor) to +2 (excellent) scale, with 79% of checks backed by evidence; mapped onto 0–100 that is 45 points.
 - **Multibagger fit (—):** The foundation test was essentially untestable (only 1 of its 3 checks had data) and no pattern shows any evidence — this pillar is left unscored rather than guessed.
 - **Risk safety (40/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 5 worth watching (−20) → 40 of 100.
+- **Relative to the index (83/100):** Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored +1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 83 points.
 
 ### The story in depth
 
@@ -357,6 +358,58 @@ The risks are mostly the strengths viewed from the other side. Earnings are rate
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 83 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 9 of 12 measure-and-window pairs the stored data could answer, the company scored +1.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 83 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -59% · lagged badly | +303% · gained strongly | — |
+| last 5 years | +194% · gained strongly | +149% · gained strongly | — |
+| last 3 years | +86% · gained strongly | +45% · gained strongly | — |
+| last 1 year | +32% · gained strongly | -5% · moved with | +30% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +335% ┤
+        │                                                               ╔■═╗
+        │                                    ┏━━━◆━━━━┓            ╔════╝●─╚══╗
+        │◆━━━┓───●───╮┈┈┈┈┈┈┈┈╭─╔■═══════■═══════■═══════■═══════■═╝━━━━━◆━━━━╚═╗◆━━━━╔══■┈┈
+   -33% ┤■════╗━━◆┓  ╰───●─╔════╝┛   ╰───●────╯                                 ╚■════╝
+        │     ╚══■═══════■═╝    ┃
+        │          ┗┓          ┏┛
+  -401% ┤           ┗┓        ┏┛
+        │            ┗┓      ┏┛
+        │             ┃     ┏┛
+  -769% ┤             ┗┓   ┏┛
+        │              ┗┓  ┃
+        │               ┗┓┏┛
+        │                ◆┛
+-1,137% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -12.9   +0.6    -47.8   -5.7    -64.7   -20.0   -2.8    +62.8   +84.3   -23.6   +32.0
+◆      -27.8   -59.9  -1035.0  +48.1   -9.1   +176.3   +23.2   +39.4   +29.1   +18.4   -5.3
+■      -88.4  -148.5  -144.1   +41.2   -7.4    -5.3    +71.7   +41.1  +233.9   -39.4   +30.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`UNIONBANK_stock_to_index.md`](UNIONBANK_stock_to_index.md), with the same graph as [`UNIONBANK_stock_to_index.svg`](UNIONBANK_stock_to_index.svg) and [`UNIONBANK_stock_to_index.mmd`](UNIONBANK_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether margin stabilises or keeps sliding below 2.64% — the 'Pricing Power' NO FIT and the 'Pricing, Mix and Volume' check both rest on the bank being a price-taker to repo resets.
@@ -373,5 +426,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

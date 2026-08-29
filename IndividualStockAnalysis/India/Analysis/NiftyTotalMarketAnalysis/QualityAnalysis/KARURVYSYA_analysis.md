@@ -23,15 +23,16 @@ Karur Vysya Bank is an Indian commercial bank, headquartered in Karur, Tamil Nad
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 47 out of 100 ★★☆☆☆
+## The verdict: Decent — 52 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (59/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 47 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (59/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (95/100). Weighing those together gives 52 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 59 (business quality) + 30% × 15 (multibagger fit) + 25% × 64 (risk safety) = 47 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 59 (business quality) + 27% × 15 (multibagger fit) + 22.5% × 64 (risk safety) + 10% × 95 (relative to the index) = 52 out of 100 → Decent (3 stars).
 
 - **Business quality (59/100):** The 34-check quality framework scored the business +0.37 on its −2 (poor) to +2 (excellent) scale, with 82% of checks backed by evidence; mapped onto 0–100 that is 59 points.
 - **Multibagger fit (15/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Corporate Culture) (+15) → 15 of 100.
 - **Risk safety (64/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 4 worth watching (−16) → 64 of 100.
+- **Relative to the index (95/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 95 points.
 
 ### The story in depth
 
@@ -371,6 +372,58 @@ The risk review lines up point for point with those weaknesses rather than addin
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 95 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 95 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +54% · gained strongly | +23% · gained | +66% · gained strongly |
+| last 5 years | +281% · gained strongly | +156% · gained strongly | — |
+| last 3 years | +150% · gained strongly | +44% · gained strongly | +191% · gained strongly |
+| last 1 year | +68% · gained strongly | +14% · gained | +53% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +929% ┤
+        │■╗
+        │ ╚╗
+        │  ║
+  +607% ┤  ╚╗
+        │   ╚╗
+        │    ╚╗
+  +286% ┤     ╚╗
+        │      ╚╗                                    ╔═══■══╗
+        │       ║                               ╔■═══╝      ╚══╗─●───╮                ╭──●
+   -35% ┼◆━━━━━━╚◆━━━━┓──●───────●───┏━━━◆━╔════╝◆━━━━━━━◆━━━━━╚═■═══════■═══════■═══════■┈┈
+        │        ■═╗  ┗━━◆━━━━━━╔■═══════■═╝
+        │          ╚════╗  ╔════╝
+        │               ╚■═╝
+  -356% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -16.3   +8.2    -16.6   -29.0   -66.1   +85.5   -28.8  +113.5   +39.9   +6.4    +68.3
+◆      +16.2   +0.6    -41.3   -43.5   +13.7   +27.1   +25.6   +41.7   +15.5   +9.6    +13.6
+■     +840.1   -35.6  -267.6   -38.7   -37.5   +69.2  +180.2   +12.2   +26.6   +49.9   +53.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KARURVYSYA_stock_to_index.md`](KARURVYSYA_stock_to_index.md), with the same graph as [`KARURVYSYA_stock_to_index.svg`](KARURVYSYA_stock_to_index.svg) and [`KARURVYSYA_stock_to_index.mmd`](KARURVYSYA_stock_to_index.mmd).
+
 ## What to watch
 
 - Margin: FY27 guidance of 3.7–3.8% sits below the 4.26% exit level — if actual margin holds nearer the exit level rather than the guide, the Pricing Power NO FIT and the Government Dependency rate pass-through are less punishing than assumed.
@@ -386,5 +439,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

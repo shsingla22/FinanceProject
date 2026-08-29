@@ -18,13 +18,14 @@ Just Dial runs India's largest local search platform: consumers use its website 
 
 ## The verdict: Mixed — 43 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (47/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Technological Innovation). Weighing those together gives 43 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (47/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Technological Innovation). Against the Nifty 50 it has lagged the index (42/100). Weighing those together gives 43 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 47 (business quality) + 30% × 40 (multibagger fit) + 25% × 38 (risk safety) = 43 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 47 (business quality) + 27% × 40 (multibagger fit) + 22.5% × 38 (risk safety) + 10% × 42 (relative to the index) = 43 out of 100 → Mixed (2 stars).
 
 - **Business quality (47/100):** The 34-check quality framework scored the business -0.12 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 47 points.
 - **Multibagger fit (40/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Recurring Revenue (Product Upfront)) (+15) → 40 of 100.
 - **Risk safety (38/100):** started from a clean 100; 1 high risk (Technological Innovation) (−20); 3 elevated (−30); 1 worth watching (−4); the balance sheet shows one stress signal (−8) → 38 of 100.
+- **Relative to the index (42/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored -0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 42 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -440,6 +441,57 @@ FY2024  █                           0 days  ▬ 0 days vs prior year
 - ✅ Sales fell in only 2 of the last 11 years with swings of ±26 points — no pronounced boom-and-bust signature in revenue.
 - ⚠️ Growth has stalled: sales compounded at 23% a year in the first half of the record but only 3% recently — demand may be structurally fading.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 42 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored -0.33 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 42 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | -31% · lagged badly | -55% · lagged badly |
+| last 3 years | — | -22% · lagged | -25% · lagged |
+| last 1 year | — | +77% · gained strongly | +123% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++3,927% ┤
+        │                                                        ■╗
+        │                                                       ╔╝╚╗
+        │                                                       ║  ║
++2,846% ┤                                                      ╔╝  ╚╗
+        │                                                      ║    ╚╗
+        │                                                     ╔╝     ╚╗
++1,764% ┤                                                    ╔╝       ║
+        │                                                   ╔╝        ╚╗
+        │                                                   ║          ╚╗
+  +682% ┤                                                  ╔╝           ║
+        │                                                  ║            ╚╗
+        │                                                 ╔╝ ┏━━━◆━━━━━━━■
+        │■═══════■═══════■═══════■═══════■═══════■═══════■╝━━┛┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+  -399% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24
+
+◆      -2.4    -20.2   +21.5   +34.0   +34.2   -34.6   -77.8   +98.0   +77.3
+■      -17.5   -24.2   +50.2   +11.8   +15.6   -48.6  -101.0  +3629.0 +122.7
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`JUSTDIAL_stock_to_index.md`](JUSTDIAL_stock_to_index.md), with the same graph as [`JUSTDIAL_stock_to_index.svg`](JUSTDIAL_stock_to_index.svg) and [`JUSTDIAL_stock_to_index.mmd`](JUSTDIAL_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Technological Innovation risk eases or deepens.
@@ -454,5 +506,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

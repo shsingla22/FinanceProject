@@ -19,15 +19,16 @@ Kirloskar Oil Engines (KOEL) is an Indian engineering and manufacturing company 
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 61 out of 100 ★★★☆☆
+## The verdict: Decent — 63 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (66/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Weighing those together gives 61 out of 100 — decent.
+In one breath: the quality framework finds a good business today (66/100); it strongly fits 2 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality). Against the Nifty 50 it has gained strongly on the index (81/100). Weighing those together gives 63 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 66 (business quality) + 30% × 64 (multibagger fit) + 25% × 50 (risk safety) = 61 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 66 (business quality) + 27% × 64 (multibagger fit) + 22.5% × 50 (risk safety) + 10% × 81 (relative to the index) = 63 out of 100 → Decent (3 stars).
 
 - **Business quality (66/100):** The 34-check quality framework scored the business +0.66 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 66 points.
 - **Multibagger fit (64/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Market Share Gainers, Corporate Culture) (+30); 3 likely (+24) → 64 of 100.
 - **Risk safety (50/100):** started from a clean 100; 1 elevated (−10); 5 worth watching (−20); the balance sheet shows multiple stress signals (−20) → 50 of 100.
+- **Relative to the index (81/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 81 points.
 
 ### The story in depth
 
@@ -446,6 +447,58 @@ FY2026  ██████████████             28 days  ▬ 0 da
 - ✅ Sales fell in only 2 of the last 10 years with swings of ±11 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 6% a year earlier, 18% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 81 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 81 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +106% · gained strongly | -5% · moved with | +79% · gained strongly |
+| last 5 years | +395% · gained strongly | +5% · moved with | +83% · gained strongly |
+| last 3 years | +153% · gained strongly | +7% · moved with | +58% · gained strongly |
+| last 1 year | +87% · gained strongly | +4% · moved with | +18% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +203% ┤
+        │                                                        ●╮
+        │                                                       ╭╯╰─╮
+        │                                                       │   ╰╮
+  +135% ┤                                                      ╭╯    ╰╮
+        │                                                     ╭╯      ╰╮
+        │                                                    ╭╯        ╰─╮               ●
+   +67% ┤                                                    │   ◆━┓     ●╮             ╭╯
+        │       ╭●─╮            ┏◆━┓                        ╭╯ ┏╔■════╗   ╰─╮         ╭─╯
+        │     ╭─╯  ╰╮         ┏━┛  ┗━┓          ╔■═╗       ╭╯ ┏╔╝     ╚══■═══╗       ╭╯
+    -1% ┼┈┈╭──╯┈┈■════╗╮┈┈┈┏━╔═══■══╗┗━━┓┈┈┈┈╔══╝╯┈╚══╗┈┈┈┈│╔══╝┈┈┈┈┈┈┈┈┗◆━━━╚═══■═══════■┈┈
+        │●─╯          ╚══■═══╝      ╚══╗┗◆━╔═╝━━━◆━┓  ╚═╗ ╭╔╝┛                ┗━━◆━━━┛
+        │               ╰●────╮        ╚═■═╝─╯     ┗━━━━╚■═╝┛                    ●╯
+        │                     ╰──●───────●╯             ┗◆┛
+   -69% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -18.2   +55.3   -27.5   -50.3   -41.4   +26.9   -31.0  +184.2   +73.4   -22.2   +87.2
+◆        ·     -0.6    -19.7   +49.8   -12.7   -12.9   -41.8   +67.4   +5.5    -2.0    +3.8
+■        ·     +1.4    -5.7    +13.6   -23.9   +18.8   -21.0   +46.2   +23.5   +8.5    +17.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KIRLOSENG_stock_to_index.md`](KIRLOSENG_stock_to_index.md), with the same graph as [`KIRLOSENG_stock_to_index.svg`](KIRLOSENG_stock_to_index.svg) and [`KIRLOSENG_stock_to_index.mmd`](KIRLOSENG_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the 41%-versus-18% share gain behind the Market Share Gainers fit continues once the up-cycle flagged by the Cyclicality risk and the negative cyclical-market check turns down
@@ -462,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

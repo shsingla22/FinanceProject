@@ -23,13 +23,14 @@ Hindustan Aeronautics Limited (HAL) is an Indian state-owned ("CPSE", granted Ma
 
 ## The verdict: Decent — 62 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (65/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 62 out of 100 — decent.
+In one breath: the quality framework finds a good business today (65/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (68/100). Weighing those together gives 62 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 65 (business quality) + 30% × 56 (multibagger fit) + 25% × 62 (risk safety) = 62 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 65 (business quality) + 27% × 56 (multibagger fit) + 22.5% × 62 (risk safety) + 10% × 68 (relative to the index) = 62 out of 100 → Decent (3 stars).
 
 - **Business quality (65/100):** The 34-check quality framework scored the business +0.61 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 65 points.
 - **Multibagger fit (56/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Innovation Dominance, Cost to Replicate) (+30); 2 likely (+16) → 56 of 100.
 - **Risk safety (62/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 2 worth watching (−8) → 62 of 100.
+- **Relative to the index (68/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.73 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 68 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -425,6 +426,58 @@ FY2026  ██████████████            713 days  ▲ 79 d
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±3 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 6% a year earlier, 8% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 68 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.73 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 68 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +27% · gained strongly | +39% · gained strongly |
+| last 5 years | +327% · gained strongly | +3% · moved with | -9% · moved with |
+| last 3 years | +92% · gained strongly | -1% · moved with | +20% · gained |
+| last 1 year | -15% · lagged | -4% · moved with | +0% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +104% ┤
+        │                                                               ╭●╮
+        │                                                          ╭────╯ ╰╮
+        │                                                        ●─╯       ╰╮
+   +70% ┤                                                      ╭─╯          ╰╮
+        │                                                     ╭╯             ╰╮
+        │                                                   ╭─╯               ╰╮
+   +35% ┤                                                 ╭─╯                  ╰╮
+        │       ╔■══╗                  ┏━◆━┓    ╭●───────●╯            ╔═■═╗    ╰╮
+        │     ╔═╝┛┗━╚══╗            ┏━━┛   ┗━┓ ╭╯                   ╔══╝   ╚═╗   ●─╮
+    +0% ┤  ╔══╝┛    ┗━┓╚═■═══════■═══════■════╗━┓    ┏━━━◆━━━━┓ ╔■══╝┏━━━◆━━━╚══╗  ╰──╮
+        │■═╝┏┛┈┈┈┈┈┈┈┈┗┓┈┈┈┈┈┈┏━┛┈┈┈┈┈┈┈┈┈┈╭╯┈╚══■═╗━┛┈┈┈┈┈┈┈┈╔═╝◆━━━┛┈┈┈┈┈┈┈┈┗━╚■═══════■┈┈
+        │ ┏━┛          ┗━┓ ┏━━┛          ●─╯       ╚════╗  ╔══╝                         ╰●
+        │◆┛              ◆━┛                            ╚■═╝
+   -35% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     -14.0   +28.9   +27.7   +74.1   +94.7   +16.6   -15.4
+◆      -20.7   +23.5   -22.1   +8.3    +26.5   -6.6    +5.1    -1.1    +4.1    -0.6    -4.2
+■      -1.1    +29.6   +7.6    +5.6    +4.7    -1.3    -25.0   +1.3    +28.7   -6.9    +0.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`HAL_stock_to_index.md`](HAL_stock_to_index.md), with the same graph as [`HAL_stock_to_index.svg`](HAL_stock_to_index.svg) and [`HAL_stock_to_index.mmd`](HAL_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Government Dependency risk eases or deepens.
@@ -437,5 +490,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

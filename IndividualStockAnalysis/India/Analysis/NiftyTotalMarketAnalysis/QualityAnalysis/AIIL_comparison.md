@@ -42,6 +42,20 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 0 unchanged; 8 could not
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
 
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index** (40/100). Looking only at the latest year, it has **LAGGED the index** (33/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | — |
+| last 3 years | — | -72% · lagged badly | +2293% · gained strongly |
+| last 1 year | +26% · gained strongly | -60% · lagged badly | -49% · lagged badly |
+
+
 ## How this comparison was built
 
 Both sides ran the same three analysis engines (BusinessAnalysis, MultibaggerPattern, QualityRisks) through their respective orchestrators:

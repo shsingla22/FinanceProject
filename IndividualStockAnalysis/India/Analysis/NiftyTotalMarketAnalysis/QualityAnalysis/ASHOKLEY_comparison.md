@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (41/100). Last one year: Mixed (47/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
+Long-term view: Mixed (43/100). Last one year: Mixed (49/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 58 | 61 | +3 |
 | Multibagger fit | 25 | 40 | +15 |
 | Risk safety | 30 | 32 | +2 |
+| Relative to the index | 57 | 58 | +1 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -99,6 +100,20 @@ Genuinely re-tested risk verdicts: 2 eased, 2 worsened, 3 unchanged; 1 carried f
 *Unchanged: Government Dependency (HIGH RISK); Stakeholder Concentration (LOW); Fashion Risk (LOW).*
 
 **Financial resilience:** Stressed on the long view (2 of the 3 stress checks are flagged — multiple warning lights at once.) vs Stressed on the one-year view (2 of the 3 stress checks are flagged — multiple warning lights at once.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED on the index** (57/100). Looking only at the latest year, it has **GAINED on the index** (58/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -7% · moved with | +46% · gained strongly | -68% · lagged badly |
+| last 5 years | +66% · gained strongly | — | -45% · lagged badly |
+| last 3 years | +67% · gained strongly | +73% · gained strongly | -57% · lagged badly |
+| last 1 year | +53% · gained strongly | -3% · moved with | -12% · lagged |
+
 
 ## How this comparison was built
 

@@ -4,15 +4,16 @@
 
 *No conference-call transcripts were available to describe the business in management's own words — run the full analysis, or see the evidence sections below.*
 
-## The verdict: Mixed — 43 out of 100 ★★☆☆☆
+## The verdict: Mixed — 44 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds a weak business today (38/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 43 out of 100 — mixed.
+In one breath: the quality framework finds a weak business today (38/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has moved with the index (50/100). Weighing those together gives 44 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 38 (business quality) + 30% × 6 (multibagger fit) + 25% × 96 (risk safety) = 43 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 38 (business quality) + 27% × 6 (multibagger fit) + 22.5% × 96 (risk safety) + 10% × 50 (relative to the index) = 44 out of 100 → Mixed (2 stars).
 
 - **Business quality (38/100):** The 34-check quality framework scored the business -0.48 on its −2 (poor) to +2 (excellent) scale, with 18% of checks backed by evidence; mapped onto 0–100 that is 38 points. Caution: only 18% of the 34 checks could be answered from this evidence — a thin base; the full analysis (with the conference calls) firms this up.
 - **Multibagger fit (6/100):** the foundation test did not pass (+0); 2 numbers-only hints (+6) → 6 of 100.
 - **Risk safety (96/100):** started from a clean 100; 1 numbers-only flag (−4) → 96 of 100. Caution: only 1 of the 8 risk channels could be tested on this evidence — treat this as provisional, not a clean bill of health.
+- **Relative to the index (50/100):** Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
 
 ### The story in depth
 
@@ -255,6 +256,56 @@ FY2011  █████████████████████      48 
 - ⬜ Not enough margin history.
 - ⬜ Not enough margin history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 50 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored +0.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 50 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +62% · gained strongly | — | — |
+| last 5 years | +36% · gained strongly | — | — |
+| last 3 years | -57% · lagged badly | — | — |
+| last 1 year | -44% · lagged badly | — | — |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +990% ┤
+        │                                                ●╮
+        │                                              ╭─╯╰╮
+        │                                             ╭╯   │
+  +706% ┤                                            ╭╯    ╰╮
+        │                                           ╭╯      │
+        │                                         ╭─╯       ╰╮
+  +421% ┤                                        ●╯          ╰╮
+        │                                      ╭─╯            ╰╮
+        │                                     ╭╯               │
+  +137% ┤                                    ╭╯                ╰╮
+        │                                   ╭╯                  │
+        │●───────●────╮┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╭─╯┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰╮┈┈┈╭───●────╮┈┈┈┈┈┈┈┈┈┈┈┈┈
+        │             ╰──●───────●───────●╯                      ●───╯        ╰──●───────●
+  -147% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -12.3   -8.7    -32.7   -49.7   -26.6  +427.9  +911.4   -68.5   +6.7    -29.3   -43.5
+
+● Price ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TTML_stock_to_index.md`](TTML_stock_to_index.md), with the same graph as [`TTML_stock_to_index.svg`](TTML_stock_to_index.svg) and [`TTML_stock_to_index.mmd`](TTML_stock_to_index.mmd).
+
 ## What to watch
 
 - Profit margin check: operating profit is minus ₹28 per ₹100 of sales — a move toward breakeven, without new capital raised, would change the business-quality score materially.
@@ -270,5 +321,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (no_concalls): the 34-check quality framework.
 - **MultibaggerPattern** (no_concalls): the 11 patterns long-term winners share.
 - **QualityRisks** (no_concalls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

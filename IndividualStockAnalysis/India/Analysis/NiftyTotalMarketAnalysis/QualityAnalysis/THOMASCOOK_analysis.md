@@ -17,15 +17,16 @@ Thomas Cook (India) Limited is an India-listed travel and foreign-exchange group
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 44 out of 100 ★★☆☆☆
+## The verdict: Mixed — 43 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Cyclicality). Weighing those together gives 44 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Cyclicality). Against the Nifty 50 it has lagged the index (35/100). Weighing those together gives 43 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 33 (multibagger fit) + 25% × 28 (risk safety) = 44 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 28 (risk safety) + 10% × 35 (relative to the index) = 43 out of 100 → Mixed (2 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.44 on its −2 (poor) to +2 (excellent) scale, with 100% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (33/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 1 likely (+8) → 33 of 100.
 - **Risk safety (28/100):** started from a clean 100; 1 high risk (Cyclicality) (−20); 4 elevated (−40); 3 worth watching (−12) → 28 of 100.
+- **Relative to the index (35/100):** Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored -0.60 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 35 points.
 
 ### The story in depth
 
@@ -454,6 +455,57 @@ FY2026  █████████                  29 days  ▲ 1 day vs prior
 - ✅ Operating margin (6%) remains near its historical peak (7%) — no collapse in the premium.
 - ✅ Operating margin held (about 5% then 5%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 35 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored -0.60 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 35 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -36% · lagged badly | -31% · lagged badly |
+| last 5 years | — | — | +123% · gained strongly |
+| last 3 years | — | — | — |
+| last 1 year | — | -16% · lagged | +8% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
++7,101% ┤
+        │                ◆┓
+        │               ┏┛┗┓
+        │               ┃  ┃
++4,926% ┤              ┏┛  ┗┓
+        │             ┏┛    ┗┓
+        │            ┏┛      ┗┓
++2,752% ┤           ┏┛        ┃
+        │          ┏┛         ┗┓                                        ┏◆━┓
+        │          ┃           ┗┓                                     ┏━┛  ┗━┓
+  +577% ┤         ┏┛            ┃                                  ┏━━┛      ┗━━┓
+        │■═══════■═══════■═══╗┈┈┗┓┈┈┈┈╔══■═══╗┈┈┈┈┈┈┈┈╔══■═══════■═══════■═══════■┈┈
+        │◆━━━━┛              ╚═══■════╝━━◆━━━╚═══■════╝━┛
+        │                                     ┗━━◆━┛
+-1,598% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     -149.7  +249.8  +6501.3  -98.5  -116.8  -998.2   +25.8  +103.1  +2355.6  -16.3
+■      -24.9   +85.1   -11.9   -78.4   +16.8  -344.2   +56.4  +184.0  +131.7   +7.7
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`THOMASCOOK_stock_to_index.md`](THOMASCOOK_stock_to_index.md), with the same graph as [`THOMASCOOK_stock_to_index.svg`](THOMASCOOK_stock_to_index.svg) and [`THOMASCOOK_stock_to_index.mmd`](THOMASCOOK_stock_to_index.mmd).
+
 ## What to watch
 
 - Digital share of transactions breaking meaningfully above 21-23% — the Technological Innovation risk stays elevated until the owned-distribution build (Forward Integrators) actually shifts volume away from the legacy branch and agent model.
@@ -469,5 +521,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

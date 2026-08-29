@@ -1,769 +1,769 @@
 # NiftyTotalMarket — Companies Ranked Best to Worst
 
-**738 rated companies** (plus 4 honestly not rated), ranked by the AnalystSkill's combined rating out of 100 — business quality 45%, multibagger-pattern fit 30%, risk safety 25% — with each company's one-year direction from its ComparisonSkill report. Generated 2026-08-22 11:05 UTC from the report pairs stored in this folder; every score and arrow traces to the company's own two reports, where the full point-by-point derivation lives.
+**738 rated companies** (plus 4 honestly not rated), ranked by the AnalystSkill's combined rating out of 100 — business quality 40.5%, multibagger-pattern fit 27%, risk safety 22.5% and how the company has done against the Nifty 50 10% (a company the index comparison cannot reach keeps the original 45/30/25 split) — with each company's one-year direction from its ComparisonSkill report. Generated 2026-08-29 10:50 UTC from the report pairs stored in this folder; every score and arrow traces to the company's own two reports, where the full point-by-point derivation lives.
 
 ## Outstanding (80+)
 
 | # | Company | Symbol | Score | Grade | Last one year |
 |---|---|---|---|---|---|
-| 1 | Colgate Palmolive (India) Ltd. | COLPAL | 88/100 | Outstanding | ▬ held steady |
-| 2 | Apollo Hospitals Enterprise Ltd. | APOLLOHOSP | 86/100 | Outstanding | ▼ declined |
-| 3 | Pidilite Industries Ltd. | PIDILITIND | 86/100 | Outstanding | ▼ declined |
-| 4 | Caplin Point Laboratories Ltd. | CAPLIPOINT | 84/100 | Outstanding | ▬ held steady |
-| 5 | CORONA Remedies | CORONA | 84/100 | Outstanding | ▬ held steady |
-| 6 | Triveni Turbine Ltd. | TRITURBINE | 84/100 | Outstanding | ▼ declined |
-| 7 | Vijaya Diagnost. | VIJAYA | 84/100 | Outstanding | ▼ declined |
-| 8 | Cams Services | CAMS | 83/100 | Outstanding | ▬ held steady |
-| 9 | Dr. Lal Path Labs Ltd. | LALPATHLAB | 83/100 | Outstanding | ▬ held steady |
-| 10 | Metropolis Health. | METROPOLIS | 83/100 | Outstanding | ▼ declined |
-| 11 | Leela Palaces Hotels | THELEELA | 83/100 | Outstanding | ▼ declined |
-| 12 | Gillette India Ltd. | GILLETTE | 82/100 | Outstanding | ▼ declined |
-| 13 | Global Health | MEDANTA | 82/100 | Outstanding | ▼ declined |
-| 14 | Rainbow Child. | RAINBOW | 82/100 | Outstanding | ▼ declined |
-| 15 | Smartworks Coworking | SMARTWORKS | 82/100 | Outstanding | ▼ declined |
-| 16 | J.B. Chemicals & Pharmaceuticals Ltd. | JBCHEPHARM | 81/100 | Outstanding | ▼ declined |
-| 17 | Travel Food | TRAVELFOOD | 81/100 | Outstanding | ▲ improved |
-| 18 | Asian Paints Ltd. | ASIANPAINT | 80/100 | Outstanding | ▼ declined |
-| 19 | CRISIL Ltd. | CRISIL | 80/100 | Outstanding | ▼ declined |
-| 20 | KFin Technolog. | KFINTECH | 80/100 | Outstanding | ▼ declined |
-| 21 | Phoenix Mills Ltd. | PHOENIXLTD | 80/100 | Outstanding | ▬ held steady |
+| 1 | Apollo Hospitals Enterprise Ltd. | APOLLOHOSP | 87/100 | Outstanding | ▼ declined |
+| 2 | Smartworks Coworking | SMARTWORKS | 84/100 | Outstanding | ▼ declined |
+| 3 | Leela Palaces Hotels | THELEELA | 84/100 | Outstanding | ▼ declined |
+| 4 | Caplin Point Laboratories Ltd. | CAPLIPOINT | 83/100 | Outstanding | ▼ declined |
+| 5 | CORONA Remedies | CORONA | 83/100 | Outstanding | ▼ declined |
+| 6 | Pidilite Industries Ltd. | PIDILITIND | 83/100 | Outstanding | ▼ declined |
+| 7 | Triveni Turbine Ltd. | TRITURBINE | 83/100 | Outstanding | ▼ declined |
+| 8 | Vijaya Diagnost. | VIJAYA | 82/100 | Outstanding | ▼ declined |
+| 9 | Rainbow Child. | RAINBOW | 81/100 | Outstanding | ▼ declined |
+| 10 | Travel Food | TRAVELFOOD | 81/100 | Outstanding | ▬ held steady |
+| 11 | Dr. Agarwal's Health | AGARWALEYE | 80/100 | Outstanding | ▬ held steady |
+| 12 | Cams Services | CAMS | 80/100 | Outstanding | ▼ declined |
+| 13 | Colgate Palmolive (India) Ltd. | COLPAL | 80/100 | Outstanding | ▬ held steady |
+| 14 | J.B. Chemicals & Pharmaceuticals Ltd. | JBCHEPHARM | 80/100 | Outstanding | ▼ declined |
+| 15 | Dr. Lal Path Labs Ltd. | LALPATHLAB | 80/100 | Outstanding | ▲ improved |
+| 16 | Lenskart Solut. | LENSKART | 80/100 | Outstanding | ▲ improved |
+| 17 | Global Health | MEDANTA | 80/100 | Outstanding | ▼ declined |
+| 18 | Phoenix Mills Ltd. | PHOENIXLTD | 80/100 | Outstanding | ▬ held steady |
+| 19 | Solar Industries India Ltd. | SOLARINDS | 80/100 | Outstanding | ▼ declined |
 
 ## Strong (65–79)
 
 | # | Company | Symbol | Score | Grade | Last one year |
 |---|---|---|---|---|---|
-| 22 | Dr. Agarwal's Health | AGARWALEYE | 79/100 | Strong | ▲ improved |
-| 23 | Eicher Motors Ltd. | EICHERMOT | 79/100 | Strong | ▬ held steady |
-| 24 | Godrej Consumer Products Ltd. | GODREJCP | 79/100 | Strong | ▼ declined |
-| 25 | Jupiter Life Line | JLHL | 79/100 | Strong | ▬ held steady |
-| 26 | Marico Ltd. | MARICO | 79/100 | Strong | ▲ improved |
-| 27 | Zydus Lifesci. | ZYDUSLIFE | 79/100 | Strong | ▼ declined |
-| 28 | Cipla Ltd. | CIPLA | 78/100 | Strong | ▼ declined |
-| 29 | Glaxosmithkline Pharmaceuticals Ltd. | GLAXO | 78/100 | Strong | ▬ held steady |
-| 30 | Prudent | PRUDENT | 78/100 | Strong | ▼ declined |
-| 31 | Solar Industries India Ltd. | SOLARINDS | 78/100 | Strong | ▼ declined |
-| 32 | Astral Poly Technik Ltd. | ASTRAL | 77/100 | Strong | ▼ declined |
-| 33 | Bharti Hexacom | BHARTIHEXA | 77/100 | Strong | ▼ declined |
-| 34 | Garware Hi Tech | GRWRHITECH | 77/100 | Strong | ▼ declined |
-| 35 | Indian Hotels Co. Ltd. | INDHOTEL | 77/100 | Strong | ▲ improved |
-| 36 | Indigo Paints | INDIGOPNTS | 77/100 | Strong | ▼ declined |
-| 37 | Ipca Laboratories Ltd. | IPCALAB | 77/100 | Strong | ▲ improved |
-| 38 | Lenskart Solut. | LENSKART | 77/100 | Strong | ▲ improved |
-| 39 | Info Edge (India) Ltd. | NAUKRI | 77/100 | Strong | ▬ held steady |
-| 40 | Torrent Pharmaceuticals Ltd. | TORNTPHARM | 77/100 | Strong | ▼ declined |
-| 41 | Mankind Pharma | MANKIND | 76/100 | Strong | ▼ declined |
-| 42 | Manorama Inds | MANORAMA | 76/100 | Strong | ▼ declined |
-| 43 | UltraTech Cement Ltd. | ULTRACEMCO | 76/100 | Strong | ▼ declined |
-| 44 | Bajaj Auto Ltd. | BAJAJ-AUTO | 75/100 | Strong | ▼ declined |
-| 45 | Capillary Techno Ind | CAPILLARY | 75/100 | Strong | ▼ declined |
-| 46 | Emcure Pharma | EMCURE | 75/100 | Strong | ▼ declined |
-| 47 | Central Depository Services (India) Ltd. | CDSL | 74/100 | Strong | ▼ declined |
-| 48 | Polycab India | POLYCAB | 74/100 | Strong | ▼ declined |
-| 49 | Poly Medicure | POLYMED | 74/100 | Strong | ▼ declined |
-| 50 | Privi Speciality Che | PRIVISCL | 74/100 | Strong | ▼ declined |
-| 51 | Action Const.Eq. | ACE | 73/100 | Strong | ▼ declined |
-| 52 | Ajanta Pharmaceuticals Ltd. | AJANTPHARM | 73/100 | Strong | ▲ improved |
-| 53 | Elgi Equipments Ltd. | ELGIEQUIP | 73/100 | Strong | ▼ declined |
-| 54 | HDFC Asset Management Company Ltd. | HDFCAMC | 73/100 | Strong | ▼ declined |
-| 55 | Inox India | INOXINDIA | 73/100 | Strong | ▼ declined |
-| 56 | Lloyds Engr Works | LLOYDSENGG | 73/100 | Strong | ▬ held steady |
-| 57 | Lodha Developers | LODHA | 73/100 | Strong | ▬ held steady |
-| 58 | Nestle India | NESTLEIND | 73/100 | Strong | ▬ held steady |
-| 59 | FSN E-Commerce | NYKAA | 73/100 | Strong | ▬ held steady |
-| 60 | Rubicon Research | RUBICON | 73/100 | Strong | ▼ declined |
-| 61 | APL Apollo Tubes Ltd. | APLAPOLLO | 72/100 | Strong | ▬ held steady |
-| 62 | Hindustan Unilever Ltd. | HINDUNILVR | 72/100 | Strong | ▬ held steady |
-| 63 | International Ge | IGIL | 72/100 | Strong | ▼ declined |
-| 64 | Indegene | INDGN | 72/100 | Strong | ▼ declined |
-| 65 | BSE Ltd. | BSE | 71/100 | Strong | ▼ declined |
-| 66 | Coforge | COFORGE | 71/100 | Strong | ▼ declined |
-| 67 | Shaily | SHAILY | 71/100 | Strong | ▲ improved |
-| 68 | Abbott India | ABBOTINDIA | 70/100 | Strong | ▼ declined |
-| 69 | Alkem Laboratories Ltd. | ALKEM | 70/100 | Strong | ▬ held steady |
-| 70 | Anand Rathi Wea. | ANANDRATHI | 70/100 | Strong | ▬ held steady |
-| 71 | ASK Automotive | ASKAUTOLTD | 70/100 | Strong | ▬ held steady |
-| 72 | Canara HSBC | CANHLIFE | 70/100 | Strong | ▼ declined |
-| 73 | Cartrade Tech | CARTRADE | 70/100 | Strong | ▬ held steady |
-| 74 | Coromandel International Ltd. | COROMANDEL | 70/100 | Strong | ▼ declined |
-| 75 | Delhivery | DELHIVERY | 70/100 | Strong | ▼ declined |
-| 76 | Eris Lifesciences Ltd. | ERIS | 70/100 | Strong | ▬ held steady |
-| 77 | Granules India Ltd. | GRANULES | 70/100 | Strong | ▼ declined |
-| 78 | Meesho | MEESHO | 70/100 | Strong | ▼ declined |
-| 79 | Oberoi Realty Ltd. | OBEROIRLTY | 70/100 | Strong | ▼ declined |
-| 80 | Tata Consumer | TATACONSUM | 70/100 | Strong | ▼ declined |
-| 81 | Thyrocare Tech | THYROCARE | 70/100 | Strong | ▲ improved |
-| 82 | Tips Music | TIPSMUSIC | 70/100 | Strong | ▬ held steady |
-| 83 | Varun Beverages Ltd. | VBL | 70/100 | Strong | ▼ declined |
-| 84 | CMS Info Systems | CMSINFO | 69/100 | Strong | ▲ improved |
-| 85 | Cummins India Ltd. | CUMMINSIND | 69/100 | Strong | ▼ declined |
-| 86 | Eureka Forbes | EUREKAFORB | 69/100 | Strong | ▲ improved |
-| 87 | State Bank of India | SBIN | 69/100 | Strong | ▬ held steady |
-| 88 | SPR Auto Technologie | SHRIPISTON | 69/100 | Strong | ▼ declined |
-| 89 | Sudeep Pharma | SUDEEPPHRM | 69/100 | Strong | ▲ improved |
-| 90 | Sumitomo Chemi. | SUMICHEM | 69/100 | Strong | ▬ held steady |
-| 91 | Bharti Airtel Ltd. | BHARTIARTL | 68/100 | Strong | ▲ improved |
-| 92 | BLS Internat. | BLS | 68/100 | Strong | ▲ improved |
-| 93 | Intellect Design Arena Ltd. | INTELLECT | 68/100 | Strong | ▼ declined |
-| 94 | I R C T C | IRCTC | 68/100 | Strong | ▼ declined |
-| 95 | Kalyan Jewellers | KALYANKJIL | 68/100 | Strong | ▬ held steady |
-| 96 | Page Industries Ltd. | PAGEIND | 68/100 | Strong | ▼ declined |
-| 97 | TBO Tek | TBOTEK | 68/100 | Strong | ▼ declined |
-| 98 | Tata Consultancy Services Ltd. | TCS | 68/100 | Strong | ▬ held steady |
-| 99 | Tenneco Clean | TENNIND | 68/100 | Strong | ▬ held steady |
-| 100 | Aegis Vopak Term | AEGISVOPAK | 67/100 | Strong | ▼ declined |
-| 101 | Britannia Industries Ltd. | BRITANNIA | 67/100 | Strong | ▼ declined |
-| 102 | Dabur India Ltd. | DABUR | 67/100 | Strong | ▬ held steady |
-| 103 | Avenue Supermarts Ltd. | DMART | 67/100 | Strong | ▼ declined |
-| 104 | DOMS Industries | DOMS | 67/100 | Strong | ▼ declined |
-| 105 | Grasim Industries Ltd. | GRASIM | 67/100 | Strong | ▼ declined |
-| 106 | Healthcare Global | HCG | 67/100 | Strong | ▼ declined |
-| 107 | Indiamart Inter. | INDIAMART | 67/100 | Strong | ▼ declined |
-| 108 | Oracle Financial Services Software Ltd. | OFSS | 67/100 | Strong | ▲ improved |
-| 109 | Persistent Systems Ltd. | PERSISTENT | 67/100 | Strong | ▼ declined |
-| 110 | Prism Johnson | PRSMJOHNSN | 67/100 | Strong | ▲ improved |
-| 111 | Schaeffler India Ltd. | SCHAEFFLER | 67/100 | Strong | ▼ declined |
-| 112 | Sona BLW Precis. | SONACOMS | 67/100 | Strong | ▼ declined |
-| 113 | Sun Pharmaceutical Industries Ltd. | SUNPHARMA | 67/100 | Strong | ▬ held steady |
-| 114 | Wockhardt Ltd. | WOCKPHARMA | 67/100 | Strong | ▼ declined |
-| 115 | Yatharth Hospital | YATHARTH | 67/100 | Strong | ▼ declined |
-| 116 | Acutaas Chemical | ACUTAAS | 66/100 | Strong | ▬ held steady |
-| 117 | EIH Ltd. | EIHOTEL | 66/100 | Strong | ▲ improved |
-| 118 | Indian Energy Exchange Ltd. | IEX | 66/100 | Strong | ▼ declined |
-| 119 | Jubilant Foodworks Ltd. | JUBLFOOD | 66/100 | Strong | ▲ improved |
-| 120 | Newgen Software | NEWGEN | 66/100 | Strong | ▲ improved |
-| 121 | Narayana Hrudayalaya Ltd. | NH | 66/100 | Strong | ▲ improved |
-| 122 | Reliance Industries Ltd. | RELIANCE | 66/100 | Strong | ▼ declined |
-| 123 | TVS Motor Company Ltd. | TVSMOTOR | 66/100 | Strong | ▬ held steady |
-| 124 | Wework India Managem | WEWORK | 66/100 | Strong | ▼ declined |
-| 125 | Aster DM Healthcare Ltd. | ASTERDM | 65/100 | Strong | ▼ declined |
-| 126 | Azad Engineering | AZAD | 65/100 | Strong | ▲ improved |
-| 127 | HBL Engineering | HBLENGINE | 65/100 | Strong | ▼ declined |
-| 128 | HDB FINANC SER | HDBFS | 65/100 | Strong | ▼ declined |
-| 129 | ICICI Lombard General Insurance Company Ltd. | ICICIGI | 65/100 | Strong | ▼ declined |
-| 130 | Inventurus Knowl | IKS | 65/100 | Strong | ▼ declined |
-| 131 | Neuland Labs. | NEULANDLAB | 65/100 | Strong | ▬ held steady |
-| 132 | PB Fintech. | POLICYBZR | 65/100 | Strong | ▲ improved |
-| 133 | Quality Power Elect. | QPOWER | 65/100 | Strong | ▬ held steady |
-| 134 | Sanofi Cons. Health | SANOFICONR | 65/100 | Strong | ▬ held steady |
+| 20 | Eicher Motors Ltd. | EICHERMOT | 79/100 | Strong | ▼ declined |
+| 21 | Jupiter Life Line | JLHL | 79/100 | Strong | ▼ declined |
+| 22 | KFin Technolog. | KFINTECH | 79/100 | Strong | ▼ declined |
+| 23 | Manorama Inds | MANORAMA | 79/100 | Strong | ▼ declined |
+| 24 | Metropolis Health. | METROPOLIS | 79/100 | Strong | ▼ declined |
+| 25 | Capillary Techno Ind | CAPILLARY | 78/100 | Strong | ▼ declined |
+| 26 | Indian Hotels Co. Ltd. | INDHOTEL | 78/100 | Strong | ▲ improved |
+| 27 | Prudent | PRUDENT | 78/100 | Strong | ▼ declined |
+| 28 | Zydus Lifesci. | ZYDUSLIFE | 78/100 | Strong | ▼ declined |
+| 29 | Bharti Hexacom | BHARTIHEXA | 77/100 | Strong | ▼ declined |
+| 30 | Gillette India Ltd. | GILLETTE | 77/100 | Strong | ▼ declined |
+| 31 | Lloyds Engr Works | LLOYDSENGG | 77/100 | Strong | ▬ held steady |
+| 32 | CRISIL Ltd. | CRISIL | 76/100 | Strong | ▬ held steady |
+| 33 | Garware Hi Tech | GRWRHITECH | 76/100 | Strong | ▼ declined |
+| 34 | Ipca Laboratories Ltd. | IPCALAB | 76/100 | Strong | ▲ improved |
+| 35 | Info Edge (India) Ltd. | NAUKRI | 76/100 | Strong | ▬ held steady |
+| 36 | Polycab India | POLYCAB | 76/100 | Strong | ▼ declined |
+| 37 | Privi Speciality Che | PRIVISCL | 76/100 | Strong | ▼ declined |
+| 38 | Astral Poly Technik Ltd. | ASTRAL | 75/100 | Strong | ▼ declined |
+| 39 | Bajaj Auto Ltd. | BAJAJ-AUTO | 75/100 | Strong | ▼ declined |
+| 40 | Glaxosmithkline Pharmaceuticals Ltd. | GLAXO | 75/100 | Strong | ▲ improved |
+| 41 | Marico Ltd. | MARICO | 75/100 | Strong | ▲ improved |
+| 42 | FSN E-Commerce | NYKAA | 75/100 | Strong | ▬ held steady |
+| 43 | Rubicon Research | RUBICON | 75/100 | Strong | ▼ declined |
+| 44 | Torrent Pharmaceuticals Ltd. | TORNTPHARM | 75/100 | Strong | ▬ held steady |
+| 45 | Action Const.Eq. | ACE | 74/100 | Strong | ▼ declined |
+| 46 | APL Apollo Tubes Ltd. | APLAPOLLO | 74/100 | Strong | ▬ held steady |
+| 47 | Asian Paints Ltd. | ASIANPAINT | 74/100 | Strong | ▼ declined |
+| 48 | BSE Ltd. | BSE | 74/100 | Strong | ▼ declined |
+| 49 | Emcure Pharma | EMCURE | 74/100 | Strong | ▬ held steady |
+| 50 | Indigo Paints | INDIGOPNTS | 74/100 | Strong | ▼ declined |
+| 51 | Shaily | SHAILY | 74/100 | Strong | ▲ improved |
+| 52 | UltraTech Cement Ltd. | ULTRACEMCO | 74/100 | Strong | ▼ declined |
+| 53 | Anand Rathi Wea. | ANANDRATHI | 73/100 | Strong | ▼ declined |
+| 54 | Central Depository Services (India) Ltd. | CDSL | 73/100 | Strong | ▼ declined |
+| 55 | Coforge | COFORGE | 73/100 | Strong | ▼ declined |
+| 56 | HDFC Asset Management Company Ltd. | HDFCAMC | 73/100 | Strong | ▼ declined |
+| 57 | Inox India | INOXINDIA | 73/100 | Strong | ▼ declined |
+| 58 | Lodha Developers | LODHA | 73/100 | Strong | ▼ declined |
+| 59 | Mankind Pharma | MANKIND | 73/100 | Strong | ▼ declined |
+| 60 | Tips Music | TIPSMUSIC | 73/100 | Strong | ▼ declined |
+| 61 | Cipla Ltd. | CIPLA | 72/100 | Strong | ▼ declined |
+| 62 | Elgi Equipments Ltd. | ELGIEQUIP | 72/100 | Strong | ▼ declined |
+| 63 | Godrej Consumer Products Ltd. | GODREJCP | 72/100 | Strong | ▬ held steady |
+| 64 | Poly Medicure | POLYMED | 72/100 | Strong | ▼ declined |
+| 65 | Ajanta Pharmaceuticals Ltd. | AJANTPHARM | 71/100 | Strong | ▲ improved |
+| 66 | ASK Automotive | ASKAUTOLTD | 71/100 | Strong | ▬ held steady |
+| 67 | Cartrade Tech | CARTRADE | 71/100 | Strong | ▬ held steady |
+| 68 | Eris Lifesciences Ltd. | ERIS | 71/100 | Strong | ▬ held steady |
+| 69 | International Ge | IGIL | 71/100 | Strong | ▼ declined |
+| 70 | Indegene | INDGN | 71/100 | Strong | ▼ declined |
+| 71 | Kalyan Jewellers | KALYANKJIL | 71/100 | Strong | ▼ declined |
+| 72 | Meesho | MEESHO | 71/100 | Strong | ▼ declined |
+| 73 | SPR Auto Technologie | SHRIPISTON | 71/100 | Strong | ▼ declined |
+| 74 | Sudeep Pharma | SUDEEPPHRM | 71/100 | Strong | ▬ held steady |
+| 75 | Aegis Vopak Term | AEGISVOPAK | 70/100 | Strong | ▼ declined |
+| 76 | Alkem Laboratories Ltd. | ALKEM | 70/100 | Strong | ▬ held steady |
+| 77 | Bharti Airtel Ltd. | BHARTIARTL | 70/100 | Strong | ▲ improved |
+| 78 | Cummins India Ltd. | CUMMINSIND | 70/100 | Strong | ▼ declined |
+| 79 | Nestle India | NESTLEIND | 70/100 | Strong | ▬ held steady |
+| 80 | Oberoi Realty Ltd. | OBEROIRLTY | 70/100 | Strong | ▼ declined |
+| 81 | Persistent Systems Ltd. | PERSISTENT | 70/100 | Strong | ▼ declined |
+| 82 | State Bank of India | SBIN | 70/100 | Strong | ▬ held steady |
+| 83 | Thyrocare Tech | THYROCARE | 70/100 | Strong | ▲ improved |
+| 84 | Varun Beverages Ltd. | VBL | 70/100 | Strong | ▼ declined |
+| 85 | Yatharth Hospital | YATHARTH | 70/100 | Strong | ▼ declined |
+| 86 | Abbott India | ABBOTINDIA | 69/100 | Strong | ▼ declined |
+| 87 | Acutaas Chemical | ACUTAAS | 69/100 | Strong | ▬ held steady |
+| 88 | Azad Engineering | AZAD | 69/100 | Strong | ▲ improved |
+| 89 | BLS Internat. | BLS | 69/100 | Strong | ▬ held steady |
+| 90 | Coromandel International Ltd. | COROMANDEL | 69/100 | Strong | ▼ declined |
+| 91 | Delhivery | DELHIVERY | 69/100 | Strong | ▬ held steady |
+| 92 | Eureka Forbes | EUREKAFORB | 69/100 | Strong | ▬ held steady |
+| 93 | Granules India Ltd. | GRANULES | 69/100 | Strong | ▼ declined |
+| 94 | Quality Power Elect. | QPOWER | 69/100 | Strong | ▬ held steady |
+| 95 | Tata Consumer | TATACONSUM | 69/100 | Strong | ▼ declined |
+| 96 | TVS Motor Company Ltd. | TVSMOTOR | 69/100 | Strong | ▬ held steady |
+| 97 | DOMS Industries | DOMS | 68/100 | Strong | ▼ declined |
+| 98 | HBL Engineering | HBLENGINE | 68/100 | Strong | ▬ held steady |
+| 99 | Hindustan Unilever Ltd. | HINDUNILVR | 68/100 | Strong | ▲ improved |
+| 100 | Inventurus Knowl | IKS | 68/100 | Strong | ▼ declined |
+| 101 | Neuland Labs. | NEULANDLAB | 68/100 | Strong | ▬ held steady |
+| 102 | Physicswallah | PWL | 68/100 | Strong | ▲ improved |
+| 103 | Tenneco Clean | TENNIND | 68/100 | Strong | ▬ held steady |
+| 104 | Zaggle Prepaid Ocean | ZAGGLE | 68/100 | Strong | ▼ declined |
+| 105 | Arvind Fashions | ARVINDFASN | 67/100 | Strong | ▼ declined |
+| 106 | Aditya Infotech | CPPLUS | 67/100 | Strong | ▬ held steady |
+| 107 | Healthcare Global | HCG | 67/100 | Strong | ▼ declined |
+| 108 | Navin Fluorine International Ltd. | NAVINFLUOR | 67/100 | Strong | ▬ held steady |
+| 109 | Narayana Hrudayalaya Ltd. | NH | 67/100 | Strong | ▲ improved |
+| 110 | PN Gadgil Jewellers | PNGJL | 67/100 | Strong | ▼ declined |
+| 111 | PB Fintech. | POLICYBZR | 67/100 | Strong | ▲ improved |
+| 112 | Pricol | PRICOLLTD | 67/100 | Strong | ▼ declined |
+| 113 | Sai Life | SAILIFE | 67/100 | Strong | ▬ held steady |
+| 114 | Schaeffler India Ltd. | SCHAEFFLER | 67/100 | Strong | ▼ declined |
+| 115 | TBO Tek | TBOTEK | 67/100 | Strong | ▼ declined |
+| 116 | Uno Minda | UNOMINDA | 67/100 | Strong | ▼ declined |
+| 117 | Vishal Mega Mart | VMM | 67/100 | Strong | ▲ improved |
+| 118 | Wework India Managem | WEWORK | 67/100 | Strong | ▼ declined |
+| 119 | Aegis Logistics | AEGISLOG | 66/100 | Strong | ▲ improved |
+| 120 | Apar Inds. | APARINDS | 66/100 | Strong | ▼ declined |
+| 121 | Canara HSBC | CANHLIFE | 66/100 | Strong | ▼ declined |
+| 122 | Avenue Supermarts Ltd. | DMART | 66/100 | Strong | ▼ declined |
+| 123 | EIH Ltd. | EIHOTEL | 66/100 | Strong | ▬ held steady |
+| 124 | Fortis Healthcare Ltd. | FORTIS | 66/100 | Strong | ▼ declined |
+| 125 | Gokul Agro Resources | GOKULAGRO | 66/100 | Strong | ▬ held steady |
+| 126 | Grasim Industries Ltd. | GRASIM | 66/100 | Strong | ▼ declined |
+| 127 | Lumax Auto Tech | LUMAXTECH | 66/100 | Strong | ▬ held steady |
+| 128 | Newgen Software | NEWGEN | 66/100 | Strong | ▬ held steady |
+| 129 | Sanofi Cons. Health | SANOFICONR | 66/100 | Strong | ▬ held steady |
+| 130 | Sona BLW Precis. | SONACOMS | 66/100 | Strong | ▼ declined |
+| 131 | V-Mart Retail | VMART | 66/100 | Strong | ▼ declined |
+| 132 | Adani Ports and Special Economic Zone Ltd. | ADANIPORTS | 65/100 | Strong | ▲ improved |
+| 133 | Ather Energy | ATHERENERG | 65/100 | Strong | ▼ declined |
+| 134 | Bharat Electronics Ltd. | BEL | 65/100 | Strong | ▼ declined |
+| 135 | CMS Info Systems | CMSINFO | 65/100 | Strong | ▲ improved |
+| 136 | Data Pattern | DATAPATTNS | 65/100 | Strong | ▬ held steady |
+| 137 | ICICI Lombard General Insurance Company Ltd. | ICICIGI | 65/100 | Strong | ▼ declined |
+| 138 | I R C T C | IRCTC | 65/100 | Strong | ▼ declined |
+| 139 | Jubilant Foodworks Ltd. | JUBLFOOD | 65/100 | Strong | ▬ held steady |
+| 140 | Kirloskar Pneumatic | KIRLPNU | 65/100 | Strong | ▲ improved |
+| 141 | Lemon Tree Hotels Ltd. | LEMONTREE | 65/100 | Strong | ▼ declined |
+| 142 | Max Healthcare | MAXHEALTH | 65/100 | Strong | ▬ held steady |
+| 143 | Nippon Life Ind. | NAM-INDIA | 65/100 | Strong | ▬ held steady |
+| 144 | Oracle Financial Services Software Ltd. | OFSS | 65/100 | Strong | ▲ improved |
+| 145 | Page Industries Ltd. | PAGEIND | 65/100 | Strong | ▼ declined |
+| 146 | Reliance Industries Ltd. | RELIANCE | 65/100 | Strong | ▼ declined |
+| 147 | Sun Pharmaceutical Industries Ltd. | SUNPHARMA | 65/100 | Strong | ▬ held steady |
+| 148 | Urban Company | URBANCO | 65/100 | Strong | ▼ declined |
+| 149 | Wockhardt Ltd. | WOCKPHARMA | 65/100 | Strong | ▼ declined |
 
 ## Decent (50–64)
 
 | # | Company | Symbol | Score | Grade | Last one year |
 |---|---|---|---|---|---|
-| 135 | ABB India Ltd. | ABB | 64/100 | Decent | ▬ held steady |
-| 136 | Aegis Logistics | AEGISLOG | 64/100 | Decent | ▲ improved |
-| 137 | Arvind Fashions | ARVINDFASN | 64/100 | Decent | ▼ declined |
-| 138 | Berger Paints India Ltd. | BERGEPAINT | 64/100 | Decent | ▬ held steady |
-| 139 | Aditya Infotech | CPPLUS | 64/100 | Decent | ▬ held steady |
-| 140 | Crompton Greaves Consumer Electricals Ltd. | CROMPTON | 64/100 | Decent | ▼ declined |
-| 141 | KSB | KSB | 64/100 | Decent | ▲ improved |
-| 142 | Lemon Tree Hotels Ltd. | LEMONTREE | 64/100 | Decent | ▼ declined |
-| 143 | Max Healthcare | MAXHEALTH | 64/100 | Decent | ▬ held steady |
-| 144 | Motherson Wiring | MSUMI | 64/100 | Decent | ▼ declined |
-| 145 | Navin Fluorine International Ltd. | NAVINFLUOR | 64/100 | Decent | ▬ held steady |
-| 146 | Physicswallah | PWL | 64/100 | Decent | ▲ improved |
-| 147 | Uno Minda | UNOMINDA | 64/100 | Decent | ▼ declined |
-| 148 | Urban Company | URBANCO | 64/100 | Decent | ▬ held steady |
-| 149 | Vishal Mega Mart | VMM | 64/100 | Decent | ▲ improved |
-| 150 | ZF Commercial | ZFCVINDIA | 64/100 | Decent | ▬ held steady |
-| 151 | Alivus Life Sciences | ALIVUS | 63/100 | Decent | ▼ declined |
-| 152 | Apar Inds. | APARINDS | 63/100 | Decent | ▼ declined |
-| 153 | Ather Energy | ATHERENERG | 63/100 | Decent | ▼ declined |
-| 154 | Mrs Bectors Food | BECTORFOOD | 63/100 | Decent | ▬ held steady |
-| 155 | Fortis Healthcare Ltd. | FORTIS | 63/100 | Decent | ▼ declined |
-| 156 | ICICI AMC | ICICIAMC | 63/100 | Decent | ▬ held steady |
-| 157 | Krishna Institu. | KIMS | 63/100 | Decent | ▬ held steady |
-| 158 | Kirloskar Pneumatic | KIRLPNU | 63/100 | Decent | ▲ improved |
-| 159 | Maruti Suzuki India Ltd. | MARUTI | 63/100 | Decent | ▬ held steady |
-| 160 | Mahanagar Gas Ltd. | MGL | 63/100 | Decent | ▼ declined |
-| 161 | Nippon Life Ind. | NAM-INDIA | 63/100 | Decent | ▲ improved |
-| 162 | PN Gadgil Jewellers | PNGJL | 63/100 | Decent | ▼ declined |
-| 163 | Pricol | PRICOLLTD | 63/100 | Decent | ▼ declined |
-| 164 | Sai Life | SAILIFE | 63/100 | Decent | ▬ held steady |
-| 165 | Saregama India | SAREGAMA | 63/100 | Decent | ▬ held steady |
-| 166 | Zaggle Prepaid Ocean | ZAGGLE | 63/100 | Decent | ▼ declined |
-| 167 | Adani Ports and Special Economic Zone Ltd. | ADANIPORTS | 62/100 | Decent | ▲ improved |
-| 168 | Affle 3i | AFFLE | 62/100 | Decent | ▬ held steady |
-| 169 | AIA Engineering Ltd. | AIAENG | 62/100 | Decent | ▼ declined |
-| 170 | Anthem Bioscienc | ANTHEM | 62/100 | Decent | ▲ improved |
-| 171 | Bharat Electronics Ltd. | BEL | 62/100 | Decent | ▼ declined |
-| 172 | Castrol India Ltd. | CASTROLIND | 62/100 | Decent | ▲ improved |
-| 173 | Ceat Ltd. | CEATLTD | 62/100 | Decent | ▬ held steady |
-| 174 | Data Pattern | DATAPATTNS | 62/100 | Decent | ▬ held steady |
-| 175 | Gokul Agro Resources | GOKULAGRO | 62/100 | Decent | ▬ held steady |
-| 176 | Hindustan Aeronautics Ltd. | HAL | 62/100 | Decent | ▬ held steady |
-| 177 | Lumax Auto Tech | LUMAXTECH | 62/100 | Decent | ▬ held steady |
-| 178 | Vedant Fashions | MANYAVAR | 62/100 | Decent | ▬ held steady |
-| 179 | Minda Corporation Ltd. | MINDACORP | 62/100 | Decent | ▼ declined |
-| 180 | Niva Bupa Health | NIVABUPA | 62/100 | Decent | ▲ improved |
-| 181 | PI Industries Ltd. | PIIND | 62/100 | Decent | ▬ held steady |
-| 182 | SBI Life Insurance Company Ltd. | SBILIFE | 62/100 | Decent | ▼ declined |
-| 183 | Sheela Foam | SFL | 62/100 | Decent | ▲ improved |
-| 184 | Usha Martin | USHAMART | 62/100 | Decent | ▲ improved |
-| 185 | V-Mart Retail | VMART | 62/100 | Decent | ▼ declined |
-| 186 | Akums Drugs & Pharmaceuticals | AKUMS | 61/100 | Decent | ▬ held steady |
-| 187 | Asahi India Glas | ASAHIINDIA | 61/100 | Decent | ▲ improved |
-| 188 | Awfis Space Solution | AWFIS | 61/100 | Decent | ▬ held steady |
-| 189 | Balkrishna Industries Ltd. | BALKRISIND | 61/100 | Decent | ▲ improved |
-| 190 | Belrise Industri | BELRISE | 61/100 | Decent | ▼ declined |
-| 191 | Eternal | ETERNAL | 61/100 | Decent | ▬ held steady |
-| 192 | Five-Star Bus.Fi | FIVESTAR | 61/100 | Decent | ▲ improved |
-| 193 | Hero MotoCorp Ltd. | HEROMOTOCO | 61/100 | Decent | ▬ held steady |
-| 194 | KEI Industries Ltd. | KEI | 61/100 | Decent | ▲ improved |
-| 195 | Kirloskar Oil Eng Ltd. | KIRLOSENG | 61/100 | Decent | ▼ declined |
-| 196 | LG Electronics | LGEINDIA | 61/100 | Decent | ▼ declined |
-| 197 | MphasiS Ltd. | MPHASIS | 61/100 | Decent | ▬ held steady |
-| 198 | Hitachi Energy | POWERINDIA | 61/100 | Decent | ▼ declined |
-| 199 | PTC Industries | PTCIL | 61/100 | Decent | ▲ improved |
-| 200 | Westlife Development | WESTLIFE | 61/100 | Decent | ▲ improved |
-| 201 | Alkyl Amines Chem | ALKYLAMINE | 60/100 | Decent | ▼ declined |
-| 202 | Apollo Micro Systems | APOLLO | 60/100 | Decent | ▼ declined |
-| 203 | Atul Ltd. | ATUL | 60/100 | Decent | ▲ improved |
-| 204 | Bikaji Foods | BIKAJI | 60/100 | Decent | ▬ held steady |
-| 205 | Chalet Hotels | CHALET | 60/100 | Decent | ▬ held steady |
-| 206 | Concord Biotech | CONCORDBIO | 60/100 | Decent | ▲ improved |
-| 207 | Endurance Technologies Ltd. | ENDURANCE | 60/100 | Decent | ▬ held steady |
-| 208 | Gabriel India | GABRIEL | 60/100 | Decent | ▼ declined |
-| 209 | Glenmark Pharmaceuticals Ltd. | GLENMARK | 60/100 | Decent | ▲ improved |
-| 210 | Hyundai Motor I | HYUNDAI | 60/100 | Decent | ▼ declined |
-| 211 | Jamna Auto Inds | JAMNAAUTO | 60/100 | Decent | ▲ improved |
-| 212 | KPIT Technologi. | KPITTECH | 60/100 | Decent | ▼ declined |
-| 213 | Max Financial Services Ltd. | MFSL | 60/100 | Decent | ▲ improved |
-| 214 | PVR Inox | PVRINOX | 60/100 | Decent | ▼ declined |
-| 215 | Radico Khaitan Ltd | RADICO | 60/100 | Decent | ▲ improved |
-| 216 | R R Kabel | RRKABEL | 60/100 | Decent | ▼ declined |
-| 217 | Supriya Lifescience | SUPRIYA | 60/100 | Decent | ▲ improved |
-| 218 | Aavas Financiers Ltd. | AAVAS | 59/100 | Decent | ▲ improved |
-| 219 | A B Lifestyle | ABLBL | 59/100 | Decent | ▲ improved |
-| 220 | Birla Corporation | BIRLACORPN | 59/100 | Decent | ▼ declined |
-| 221 | Bosch Ltd. | BOSCHLTD | 59/100 | Decent | ▼ declined |
-| 222 | Crizac | CRIZAC | 59/100 | Decent | ▼ declined |
-| 223 | City Union Bank Ltd. | CUB | 59/100 | Decent | ▲ improved |
-| 224 | Dynamatic Tech | DYNAMATECH | 59/100 | Decent | ▼ declined |
-| 225 | HCL Technologies Ltd. | HCLTECH | 59/100 | Decent | ▲ improved |
-| 226 | ITC Ltd. | ITC | 59/100 | Decent | ▬ held steady |
-| 227 | Park Medi World | PARKHOSPS | 59/100 | Decent | ▲ improved |
-| 228 | Samhi Hotels | SAMHI | 59/100 | Decent | ▼ declined |
-| 229 | Sharda Cropchem | SHARDACROP | 59/100 | Decent | ▼ declined |
-| 230 | Supreme Industries Ltd. | SUPREMEIND | 59/100 | Decent | ▬ held steady |
-| 231 | Tata Capital | TATACAP | 59/100 | Decent | ▬ held steady |
-| 232 | Wakefit Innovations | WAKEFIT | 59/100 | Decent | ▬ held steady |
-| 233 | eClerx Services Ltd. | ECLERX | 58/100 | Decent | ▲ improved |
-| 234 | EPL | EPL | 58/100 | Decent | ▲ improved |
-| 235 | Godrej Agrovet | GODREJAGRO | 58/100 | Decent | ▲ improved |
-| 236 | Havells India Ltd. | HAVELLS | 58/100 | Decent | ▲ improved |
-| 237 | Hexaware Tech. | HEXT | 58/100 | Decent | ▼ declined |
-| 238 | Himadri Speciality Chemical Ltd. | HSCL | 58/100 | Decent | ▬ held steady |
-| 239 | ICICI Bank Ltd. | ICICIBANK | 58/100 | Decent | ▲ improved |
-| 240 | Infosys Ltd. | INFY | 58/100 | Decent | ▼ declined |
-| 241 | Le Travenues Techno | IXIGO | 58/100 | Decent | ▲ improved |
-| 242 | L T Foods | LTFOODS | 58/100 | Decent | ▼ declined |
-| 243 | Nesco | NESCO | 58/100 | Decent | ▬ held steady |
-| 244 | Nuvama Wealth | NUVAMA | 58/100 | Decent | ▲ improved |
-| 245 | Pearl Global Inds. | PGIL | 58/100 | Decent | ▼ declined |
-| 246 | Prestige Estates Projects Ltd. | PRESTIGE | 58/100 | Decent | ▬ held steady |
-| 247 | RateGain | RATEGAIN | 58/100 | Decent | ▬ held steady |
-| 248 | Star Health Insu | STARHEALTH | 58/100 | Decent | ▬ held steady |
-| 249 | Seshaasai Technologi | STYL | 58/100 | Decent | ▼ declined |
-| 250 | Tilaknagar Inds | TI | 58/100 | Decent | ▬ held steady |
-| 251 | Titan Company Ltd. | TITAN | 58/100 | Decent | ▼ declined |
-| 252 | Vaibhav Global | VAIBHAVGBL | 58/100 | Decent | ▲ improved |
-| 253 | V-Guard Inds. | VGUARD | 58/100 | Decent | ▬ held steady |
-| 254 | Aptus Value Hou. | APTUS | 57/100 | Decent | ▲ improved |
-| 255 | AWL Agri Busine. | AWL | 57/100 | Decent | ▼ declined |
-| 256 | Banco Products | BANCOINDIA | 57/100 | Decent | ▲ improved |
-| 257 | Blue Dart Express Ltd. | BLUEDART | 57/100 | Decent | ▬ held steady |
-| 258 | DCB Bank | DCBBANK | 57/100 | Decent | ▼ declined |
-| 259 | Dixon Technologies (India) Ltd. | DIXON | 57/100 | Decent | ▼ declined |
-| 260 | Emami Ltd. | EMAMILTD | 57/100 | Decent | ▲ improved |
-| 261 | Entero Healthcare | ENTERO | 57/100 | Decent | ▲ improved |
-| 262 | Hindustan Zinc Ltd. | HINDZINC | 57/100 | Decent | ▬ held steady |
-| 263 | Honasa Consumer | HONASA | 57/100 | Decent | ▲ improved |
-| 264 | JBM Auto | JBMA | 57/100 | Decent | ▬ held steady |
-| 265 | Jeena Sikho Life | JSLL | 57/100 | Decent | ▲ improved |
-| 266 | Kotak Mahindra Bank Ltd. | KOTAKBANK | 57/100 | Decent | ▬ held steady |
-| 267 | Laurus Labs Ltd. | LAURUSLABS | 57/100 | Decent | ▲ improved |
-| 268 | Sagility | SAGILITY | 57/100 | Decent | ▼ declined |
-| 269 | Sandur Manganese | SANDUMA | 57/100 | Decent | ▬ held steady |
-| 270 | Sonata Software Ltd. | SONATSOFTW | 57/100 | Decent | ▼ declined |
-| 271 | Tata Elxsi Ltd. | TATAELXSI | 57/100 | Decent | ▼ declined |
-| 272 | Avalon Technologies | AVALON | 56/100 | Decent | ▬ held steady |
-| 273 | Aditya Vision | AVL | 56/100 | Decent | ▲ improved |
-| 274 | Bajaj Finance Ltd. | BAJFINANCE | 56/100 | Decent | ▬ held steady |
-| 275 | Blue Jet Health | BLUEJET | 56/100 | Decent | ▼ declined |
-| 276 | Central Bank of India | CENTRALBK | 56/100 | Decent | ▬ held steady |
-| 277 | Datamatic Global Ser | DATAMATICS | 56/100 | Decent | ▼ declined |
-| 278 | Ellenbarrie Indl.Gas | ELLEN | 56/100 | Decent | ▬ held steady |
-| 279 | Federal Bank Ltd. | FEDERALBNK | 56/100 | Decent | ▲ improved |
-| 280 | GMM Pfaudler | GMMPFAUDLR | 56/100 | Decent | ▬ held steady |
-| 281 | GMR Airports | GMRAIRPORT | 56/100 | Decent | ▲ improved |
-| 282 | Go Digit General | GODIGIT | 56/100 | Decent | ▬ held steady |
-| 283 | Gravita India | GRAVITA | 56/100 | Decent | ▼ declined |
-| 284 | India Shelter Fin. | INDIASHLTR | 56/100 | Decent | ▼ declined |
-| 285 | Jubilant Pharmo | JUBLPHARMA | 56/100 | Decent | ▬ held steady |
-| 286 | Linde India Ltd. | LINDEINDIA | 56/100 | Decent | ▬ held steady |
-| 287 | L&T Technology Services Ltd. | LTTS | 56/100 | Decent | ▲ improved |
-| 288 | Samvardh. Mothe. | MOTHERSON | 56/100 | Decent | ▲ improved |
-| 289 | NTPC Green Ene. | NTPCGREEN | 56/100 | Decent | ▬ held steady |
-| 290 | Redington (India) Ltd. | REDINGTON | 56/100 | Decent | ▼ declined |
-| 291 | Shilpa Medicare | SHILPAMED | 56/100 | Decent | ▬ held steady |
-| 292 | Sky Gold & Diamonds | SKYGOLD | 56/100 | Decent | ▲ improved |
-| 293 | TD Power Systems | TDPOWERSYS | 56/100 | Decent | ▼ declined |
-| 294 | Tata Motors | TMCV | 56/100 | Decent | ▲ improved |
-| 295 | United Spirits | UNITDSPR | 56/100 | Decent | ▲ improved |
-| 296 | Aether Inds | AETHER | 55/100 | Decent | ▲ improved |
-| 297 | BlackBuck | BLACKBUCK | 55/100 | Decent | ▲ improved |
-| 298 | Clean Science | CLEAN | 55/100 | Decent | ▬ held steady |
-| 299 | HDFC Life Insurance Company Ltd. | HDFCLIFE | 55/100 | Decent | ▲ improved |
-| 300 | Heritage Foods | HERITGFOOD | 55/100 | Decent | ▲ improved |
-| 301 | Home First Finan | HOMEFIRST | 55/100 | Decent | ▬ held steady |
-| 302 | Indus Towers | INDUSTOWER | 55/100 | Decent | ▲ improved |
-| 303 | Lloyds Metals | LLOYDSME | 55/100 | Decent | ▲ improved |
-| 304 | Medplus Health Services | MEDPLUS | 55/100 | Decent | ▲ improved |
-| 305 | OneSource Speci. | ONESOURCE | 55/100 | Decent | ▬ held steady |
-| 306 | Orkla India | ORKLAINDIA | 55/100 | Decent | ▬ held steady |
-| 307 | Shree Cement Ltd. | SHREECEM | 55/100 | Decent | ▲ improved |
-| 308 | Shriram Finance | SHRIRAMFIN | 55/100 | Decent | ▲ improved |
-| 309 | Styrenix Performance | STYRENIX | 55/100 | Decent | ▲ improved |
-| 310 | Transrail Lighting | TRANSRAILL | 55/100 | Decent | ▼ declined |
-| 311 | Viyash Scientific | VIYASH | 55/100 | Decent | ▬ held steady |
-| 312 | Bajaj Finserv Ltd. | BAJAJFINSV | 54/100 | Decent | ▬ held steady |
-| 313 | Bombay Burmah Trading Corporation Ltd. | BBTC | 54/100 | Decent | ▼ declined |
-| 314 | Carborundum Universal Ltd. | CARBORUNIV | 54/100 | Decent | ▬ held steady |
-| 315 | Cera Sanitaryware | CERA | 54/100 | Decent | ▬ held steady |
-| 316 | Fedbank Financial | FEDFINA | 54/100 | Decent | ▼ declined |
-| 317 | Force Motors | FORCEMOT | 54/100 | Decent | ▲ improved |
-| 318 | Gujarat Ambuja Exp | GAEL | 54/100 | Decent | ▬ held steady |
-| 319 | IDFC First Bank Ltd. | IDFCFIRSTB | 54/100 | Decent | ▼ declined |
-| 320 | JSW Infrast | JSWINFRA | 54/100 | Decent | ▬ held steady |
-| 321 | Kirloskar Brothers | KIRLOSBROS | 54/100 | Decent | ▲ improved |
-| 322 | Kalpataru Proj. | KPIL | 54/100 | Decent | ▼ declined |
-| 323 | Life Insurance | LICI | 54/100 | Decent | ▬ held steady |
-| 324 | Marksans Pharma | MARKSANS | 54/100 | Decent | ▼ declined |
-| 325 | Sapphire Foods | SAPPHIRE | 54/100 | Decent | ▼ declined |
-| 326 | Syngene International Ltd. | SYNGENE | 54/100 | Decent | ▲ improved |
-| 327 | Trent Ltd. | TRENT | 54/100 | Decent | ▲ improved |
-| 328 | Aadhar Hsg. Fin. | AADHARHFC | 53/100 | Decent | ▼ declined |
-| 329 | Adani Total Gas | ATGL | 53/100 | Decent | ▬ held steady |
-| 330 | Bank of Baroda | BANKBARODA | 53/100 | Decent | ▬ held steady |
-| 331 | Bayer Crop Sci. | BAYERCROP | 53/100 | Decent | ▼ declined |
-| 332 | Blue Star Ltd. | BLUESTARCO | 53/100 | Decent | ▬ held steady |
-| 333 | CCL Products (I) Ltd. | CCL | 53/100 | Decent | ▲ improved |
-| 334 | Cemindia Project | CEMPRO | 53/100 | Decent | ▼ declined |
-| 335 | Century Plyboard | CENTURYPLY | 53/100 | Decent | ▲ improved |
-| 336 | Capri Global | CGCL | 53/100 | Decent | ▬ held steady |
-| 337 | DLF Ltd. | DLF | 53/100 | Decent | ▲ improved |
-| 338 | Firstsource Solutions Ltd. | FSL | 53/100 | Decent | ▬ held steady |
-| 339 | LTM | LTM | 53/100 | Decent | ▼ declined |
-| 340 | Multi Comm. Exc. | MCX | 53/100 | Decent | ▬ held steady |
-| 341 | MRF Ltd. | MRF | 53/100 | Decent | ▲ improved |
-| 342 | Sansera Engineering | SANSERA | 53/100 | Decent | ▲ improved |
-| 343 | Tata Comm | TATACOMM | 53/100 | Decent | ▼ declined |
-| 344 | Tega Inds. | TEGA | 53/100 | Decent | ▲ improved |
-| 345 | Thangamayil Jeweller | THANGAMAYL | 53/100 | Decent | ▬ held steady |
-| 346 | Voltamp Transformers | VOLTAMP | 53/100 | Decent | ▲ improved |
-| 347 | VA Tech Wabag | WABAG | 53/100 | Decent | ▲ improved |
-| 348 | Aequs | AEQUS | 52/100 | Decent | ▲ improved |
-| 349 | Ambuja Cements Ltd. | AMBUJACEM | 52/100 | Decent | ▲ improved |
-| 350 | Arvind | ARVIND | 52/100 | Decent | ▬ held steady |
-| 351 | Dr. Reddy's Laboratories Ltd. | DRREDDY | 52/100 | Decent | ▼ declined |
-| 352 | Jindal Stainless Ltd. | JSL | 52/100 | Decent | ▼ declined |
-| 353 | Lupin Ltd. | LUPIN | 52/100 | Decent | ▲ improved |
-| 354 | Paras Defence | PARAS | 52/100 | Decent | ▲ improved |
-| 355 | Petronet LNG Ltd. | PETRONET | 52/100 | Decent | ▬ held steady |
-| 356 | Pine Labs | PINELABS | 52/100 | Decent | ▲ improved |
-| 357 | Poonawalla Fin | POONAWALLA | 52/100 | Decent | ▲ improved |
-| 358 | UCO Bank | UCOBANK | 52/100 | Decent | ▼ declined |
-| 359 | V2 Retail | V2RETAIL | 52/100 | Decent | ▲ improved |
-| 360 | Varroc Engineering | VARROC | 52/100 | Decent | ▬ held steady |
-| 361 | Waaree Energies | WAAREEENER | 52/100 | Decent | ▼ declined |
-| 362 | Welspun Corp Ltd. | WELCORP | 52/100 | Decent | ▲ improved |
-| 363 | Zen Technologies | ZENTEC | 52/100 | Decent | ▼ declined |
-| 364 | Zydus Wellness Ltd. | ZYDUSWELL | 52/100 | Decent | ▬ held steady |
-| 365 | Astra Micro Wave | ASTRAMICRO | 51/100 | Decent | ▲ improved |
-| 366 | AU Small Finance Bank Ltd. | AUBANK | 51/100 | Decent | ▬ held steady |
-| 367 | Bajaj Holdings & Investment Ltd. | BAJAJHLDNG | 51/100 | Decent | ▲ improved |
-| 368 | Can Fin Homes Ltd. | CANFINHOME | 51/100 | Decent | ▼ declined |
-| 369 | CESC Ltd. | CESC | 51/100 | Decent | ▲ improved |
-| 370 | CG Power and Industrial Solutions Ltd. | CGPOWER | 51/100 | Decent | ▼ declined |
-| 371 | Cholamandalam Investment and Finance Company Ltd. | CHOLAFIN | 51/100 | Decent | ▬ held steady |
-| 372 | Divi's Laboratories Ltd. | DIVISLAB | 51/100 | Decent | ▲ improved |
-| 373 | Electronics Mart Ind | EMIL | 51/100 | Decent | ▬ held steady |
-| 374 | Ethos | ETHOSLTD | 51/100 | Decent | ▼ declined |
-| 375 | Jana Small Fin. Bank | JSFB | 51/100 | Decent | ▬ held steady |
-| 376 | JSW Cement | JSWCEMENT | 51/100 | Decent | ▬ held steady |
-| 377 | Jyothy Labs | JYOTHYLAB | 51/100 | Decent | ▬ held steady |
-| 378 | Sri Lotus Developers | LOTUSDEV | 51/100 | Decent | ▲ improved |
-| 379 | Larsen & Toubro Ltd. | LT | 51/100 | Decent | ▬ held steady |
-| 380 | Bank of Maharashtra. | MAHABANK | 51/100 | Decent | ▬ held steady |
-| 381 | Motilal Oswal Financial Services Ltd. | MOTILALOFS | 51/100 | Decent | ▲ improved |
-| 382 | Netweb Technol. | NETWEB | 51/100 | Decent | ▼ declined |
-| 383 | NTPC Ltd. | NTPC | 51/100 | Decent | ▼ declined |
-| 384 | Piccadily Agro | PICCADIL | 51/100 | Decent | ▲ improved |
-| 385 | Shyam Metalics | SHYAMMETL | 51/100 | Decent | ▼ declined |
-| 386 | SKF India | SKFINDIA | 51/100 | Decent | ▼ declined |
-| 387 | SML Mahindra | SMLMAH | 51/100 | Decent | ▬ held steady |
-| 388 | Star Cement | STARCEMENT | 51/100 | Decent | ▲ improved |
-| 389 | Tata Technolog. | TATATECH | 51/100 | Decent | ▼ declined |
-| 390 | Tamilnad Mercantile | TMB | 51/100 | Decent | ▬ held steady |
-| 391 | Fujiyama Power Syste | UTLSOLAR | 51/100 | Decent | ▲ improved |
-| 392 | Yes Bank Ltd. | YESBANK | 51/100 | Decent | ▲ improved |
-| 393 | Allied Blenders | ABDL | 50/100 | Decent | ▲ improved |
-| 394 | Anup Engineering | ANUP | 50/100 | Decent | ▲ improved |
-| 395 | Apollo Tyres Ltd. | APOLLOTYRE | 50/100 | Decent | ▲ improved |
-| 396 | Atlanta Electricals | ATLANTAELE | 50/100 | Decent | ▼ declined |
-| 397 | Aurionpro Solutions | AURIONPRO | 50/100 | Decent | ▲ improved |
-| 398 | Bluestone Jewellery | BLUESTONE | 50/100 | Decent | ▬ held steady |
-| 399 | Campus Active | CAMPUS | 50/100 | Decent | ▲ improved |
-| 400 | Canara Bank | CANBK | 50/100 | Decent | ▬ held steady |
-| 401 | Elecon Engg.Co | ELECON | 50/100 | Decent | ▲ improved |
-| 402 | Godrej Industries Ltd. | GODREJIND | 50/100 | Decent | ▲ improved |
-| 403 | Happiest Minds Tech. | HAPPSTMNDS | 50/100 | Decent | ▬ held steady |
-| 404 | ITC Hotels | ITCHOTELS | 50/100 | Decent | ▬ held steady |
-| 405 | J.K. Cement Ltd. | JKCEMENT | 50/100 | Decent | ▬ held steady |
-| 406 | JK Paper | JKPAPER | 50/100 | Decent | ▬ held steady |
-| 407 | Jubilant Ingrev. | JUBLINGREA | 50/100 | Decent | ▲ improved |
-| 408 | Kaveri Seed Co | KSCL | 50/100 | Decent | ▬ held steady |
-| 409 | L&T Finance Ltd | LTF | 50/100 | Decent | ▲ improved |
-| 410 | Manappuram Finance Ltd. | MANAPPURAM | 50/100 | Decent | ▼ declined |
-| 411 | C.E. Info System | MAPMYINDIA | 50/100 | Decent | ▲ improved |
-| 412 | Muthoot Finance Ltd. | MUTHOOTFIN | 50/100 | Decent | ▬ held steady |
-| 413 | Piramal Pharma | PPLPHARMA | 50/100 | Decent | ▲ improved |
-| 414 | Raymond Lifestyle | RAYMONDLSL | 50/100 | Decent | ▲ improved |
-| 415 | SBI Cards | SBICARD | 50/100 | Decent | ▲ improved |
-| 416 | Schneider Elect. | SCHNEIDER | 50/100 | Decent | ▼ declined |
-| 417 | Senco Gold | SENCO | 50/100 | Decent | ▬ held steady |
-| 418 | Siemens Ltd. | SIEMENS | 50/100 | Decent | ▬ held steady |
-| 419 | SRF Ltd. | SRF | 50/100 | Decent | ▼ declined |
-| 420 | Tata Power Co. Ltd. | TATAPOWER | 50/100 | Decent | ▬ held steady |
-| 421 | Timken India Ltd. | TIMKEN | 50/100 | Decent | ▲ improved |
+| 150 | ABB India Ltd. | ABB | 64/100 | Decent | ▼ declined |
+| 151 | Alkyl Amines Chem | ALKYLAMINE | 64/100 | Decent | ▼ declined |
+| 152 | Apollo Micro Systems | APOLLO | 64/100 | Decent | ▼ declined |
+| 153 | Aster DM Healthcare Ltd. | ASTERDM | 64/100 | Decent | ▼ declined |
+| 154 | Britannia Industries Ltd. | BRITANNIA | 64/100 | Decent | ▼ declined |
+| 155 | ICICI AMC | ICICIAMC | 64/100 | Decent | ▬ held steady |
+| 156 | Intellect Design Arena Ltd. | INTELLECT | 64/100 | Decent | ▼ declined |
+| 157 | KEI Industries Ltd. | KEI | 64/100 | Decent | ▲ improved |
+| 158 | KSB | KSB | 64/100 | Decent | ▲ improved |
+| 159 | Minda Corporation Ltd. | MINDACORP | 64/100 | Decent | ▼ declined |
+| 160 | Hitachi Energy | POWERINDIA | 64/100 | Decent | ▼ declined |
+| 161 | Prism Johnson | PRSMJOHNSN | 64/100 | Decent | ▲ improved |
+| 162 | PTC Industries | PTCIL | 64/100 | Decent | ▬ held steady |
+| 163 | R R Kabel | RRKABEL | 64/100 | Decent | ▼ declined |
+| 164 | Sumitomo Chemi. | SUMICHEM | 64/100 | Decent | ▲ improved |
+| 165 | Affle 3i | AFFLE | 63/100 | Decent | ▬ held steady |
+| 166 | Alivus Life Sciences | ALIVUS | 63/100 | Decent | ▼ declined |
+| 167 | Awfis Space Solution | AWFIS | 63/100 | Decent | ▬ held steady |
+| 168 | Ceat Ltd. | CEATLTD | 63/100 | Decent | ▲ improved |
+| 169 | Chalet Hotels | CHALET | 63/100 | Decent | ▼ declined |
+| 170 | Crizac | CRIZAC | 63/100 | Decent | ▼ declined |
+| 171 | Gabriel India | GABRIEL | 63/100 | Decent | ▼ declined |
+| 172 | Indian Energy Exchange Ltd. | IEX | 63/100 | Decent | ▼ declined |
+| 173 | Indiamart Inter. | INDIAMART | 63/100 | Decent | ▼ declined |
+| 174 | Kirloskar Oil Eng Ltd. | KIRLOSENG | 63/100 | Decent | ▼ declined |
+| 175 | Radico Khaitan Ltd | RADICO | 63/100 | Decent | ▲ improved |
+| 176 | Sandur Manganese | SANDUMA | 63/100 | Decent | ▬ held steady |
+| 177 | Saregama India | SAREGAMA | 63/100 | Decent | ▼ declined |
+| 178 | Tata Consultancy Services Ltd. | TCS | 63/100 | Decent | ▬ held steady |
+| 179 | Usha Martin | USHAMART | 63/100 | Decent | ▲ improved |
+| 180 | Wakefit Innovations | WAKEFIT | 63/100 | Decent | ▬ held steady |
+| 181 | ZF Commercial | ZFCVINDIA | 63/100 | Decent | ▼ declined |
+| 182 | A B Lifestyle | ABLBL | 62/100 | Decent | ▲ improved |
+| 183 | Akums Drugs & Pharmaceuticals | AKUMS | 62/100 | Decent | ▼ declined |
+| 184 | Anthem Bioscienc | ANTHEM | 62/100 | Decent | ▲ improved |
+| 185 | Bikaji Foods | BIKAJI | 62/100 | Decent | ▬ held steady |
+| 186 | Dabur India Ltd. | DABUR | 62/100 | Decent | ▲ improved |
+| 187 | Eternal | ETERNAL | 62/100 | Decent | ▼ declined |
+| 188 | Five-Star Bus.Fi | FIVESTAR | 62/100 | Decent | ▲ improved |
+| 189 | Hindustan Aeronautics Ltd. | HAL | 62/100 | Decent | ▬ held steady |
+| 190 | Krishna Institu. | KIMS | 62/100 | Decent | ▬ held steady |
+| 191 | KPIT Technologi. | KPITTECH | 62/100 | Decent | ▼ declined |
+| 192 | Vedant Fashions | MANYAVAR | 62/100 | Decent | ▬ held steady |
+| 193 | Maruti Suzuki India Ltd. | MARUTI | 62/100 | Decent | ▬ held steady |
+| 194 | Niva Bupa Health | NIVABUPA | 62/100 | Decent | ▬ held steady |
+| 195 | Samhi Hotels | SAMHI | 62/100 | Decent | ▼ declined |
+| 196 | Sharda Cropchem | SHARDACROP | 62/100 | Decent | ▼ declined |
+| 197 | Tata Capital | TATACAP | 62/100 | Decent | ▬ held steady |
+| 198 | Asahi India Glas | ASAHIINDIA | 61/100 | Decent | ▲ improved |
+| 199 | Belrise Industri | BELRISE | 61/100 | Decent | ▼ declined |
+| 200 | Entero Healthcare | ENTERO | 61/100 | Decent | ▬ held steady |
+| 201 | Honasa Consumer | HONASA | 61/100 | Decent | ▲ improved |
+| 202 | Himadri Speciality Chemical Ltd. | HSCL | 61/100 | Decent | ▼ declined |
+| 203 | Jeena Sikho Life | JSLL | 61/100 | Decent | ▲ improved |
+| 204 | Motherson Wiring | MSUMI | 61/100 | Decent | ▬ held steady |
+| 205 | Pearl Global Inds. | PGIL | 61/100 | Decent | ▼ declined |
+| 206 | RateGain | RATEGAIN | 61/100 | Decent | ▬ held steady |
+| 207 | Sky Gold & Diamonds | SKYGOLD | 61/100 | Decent | ▲ improved |
+| 208 | Titan Company Ltd. | TITAN | 61/100 | Decent | ▬ held steady |
+| 209 | Westlife Development | WESTLIFE | 61/100 | Decent | ▲ improved |
+| 210 | AIA Engineering Ltd. | AIAENG | 60/100 | Decent | ▼ declined |
+| 211 | Avalon Technologies | AVALON | 60/100 | Decent | ▬ held steady |
+| 212 | Banco Products | BANCOINDIA | 60/100 | Decent | ▬ held steady |
+| 213 | Mrs Bectors Food | BECTORFOOD | 60/100 | Decent | ▬ held steady |
+| 214 | Berger Paints India Ltd. | BERGEPAINT | 60/100 | Decent | ▬ held steady |
+| 215 | Birla Corporation | BIRLACORPN | 60/100 | Decent | ▼ declined |
+| 216 | BlackBuck | BLACKBUCK | 60/100 | Decent | ▲ improved |
+| 217 | Dixon Technologies (India) Ltd. | DIXON | 60/100 | Decent | ▼ declined |
+| 218 | Ellenbarrie Indl.Gas | ELLEN | 60/100 | Decent | ▼ declined |
+| 219 | Endurance Technologies Ltd. | ENDURANCE | 60/100 | Decent | ▬ held steady |
+| 220 | Fedbank Financial | FEDFINA | 60/100 | Decent | ▼ declined |
+| 221 | Glenmark Pharmaceuticals Ltd. | GLENMARK | 60/100 | Decent | ▲ improved |
+| 222 | GMR Airports | GMRAIRPORT | 60/100 | Decent | ▲ improved |
+| 223 | Go Digit General | GODIGIT | 60/100 | Decent | ▬ held steady |
+| 224 | HDB FINANC SER | HDBFS | 60/100 | Decent | ▼ declined |
+| 225 | Hero MotoCorp Ltd. | HEROMOTOCO | 60/100 | Decent | ▲ improved |
+| 226 | India Shelter Fin. | INDIASHLTR | 60/100 | Decent | ▼ declined |
+| 227 | Le Travenues Techno | IXIGO | 60/100 | Decent | ▲ improved |
+| 228 | Jamna Auto Inds | JAMNAAUTO | 60/100 | Decent | ▲ improved |
+| 229 | L T Foods | LTFOODS | 60/100 | Decent | ▼ declined |
+| 230 | Nuvama Wealth | NUVAMA | 60/100 | Decent | ▬ held steady |
+| 231 | Sagility | SAGILITY | 60/100 | Decent | ▼ declined |
+| 232 | Supriya Lifescience | SUPRIYA | 60/100 | Decent | ▲ improved |
+| 233 | TD Power Systems | TDPOWERSYS | 60/100 | Decent | ▼ declined |
+| 234 | Aditya Vision | AVL | 59/100 | Decent | ▬ held steady |
+| 235 | Bosch Ltd. | BOSCHLTD | 59/100 | Decent | ▼ declined |
+| 236 | Castrol India Ltd. | CASTROLIND | 59/100 | Decent | ▲ improved |
+| 237 | Crompton Greaves Consumer Electricals Ltd. | CROMPTON | 59/100 | Decent | ▬ held steady |
+| 238 | City Union Bank Ltd. | CUB | 59/100 | Decent | ▲ improved |
+| 239 | Gravita India | GRAVITA | 59/100 | Decent | ▼ declined |
+| 240 | ICICI Bank Ltd. | ICICIBANK | 59/100 | Decent | ▲ improved |
+| 241 | JBM Auto | JBMA | 59/100 | Decent | ▼ declined |
+| 242 | Lloyds Metals | LLOYDSME | 59/100 | Decent | ▲ improved |
+| 243 | Medplus Health Services | MEDPLUS | 59/100 | Decent | ▬ held steady |
+| 244 | MphasiS Ltd. | MPHASIS | 59/100 | Decent | ▬ held steady |
+| 245 | PI Industries Ltd. | PIIND | 59/100 | Decent | ▼ declined |
+| 246 | Prestige Estates Projects Ltd. | PRESTIGE | 59/100 | Decent | ▬ held steady |
+| 247 | PVR Inox | PVRINOX | 59/100 | Decent | ▬ held steady |
+| 248 | SBI Life Insurance Company Ltd. | SBILIFE | 59/100 | Decent | ▬ held steady |
+| 249 | Sheela Foam | SFL | 59/100 | Decent | ▲ improved |
+| 250 | Vaibhav Global | VAIBHAVGBL | 59/100 | Decent | ▲ improved |
+| 251 | Viyash Scientific | VIYASH | 59/100 | Decent | ▬ held steady |
+| 252 | Aether Inds | AETHER | 58/100 | Decent | ▲ improved |
+| 253 | Bajaj Finance Ltd. | BAJFINANCE | 58/100 | Decent | ▬ held steady |
+| 254 | Balkrishna Industries Ltd. | BALKRISIND | 58/100 | Decent | ▬ held steady |
+| 255 | eClerx Services Ltd. | ECLERX | 58/100 | Decent | ▲ improved |
+| 256 | Federal Bank Ltd. | FEDERALBNK | 58/100 | Decent | ▲ improved |
+| 257 | Force Motors | FORCEMOT | 58/100 | Decent | ▲ improved |
+| 258 | Home First Finan | HOMEFIRST | 58/100 | Decent | ▬ held steady |
+| 259 | Hyundai Motor I | HYUNDAI | 58/100 | Decent | ▼ declined |
+| 260 | Laurus Labs Ltd. | LAURUSLABS | 58/100 | Decent | ▲ improved |
+| 261 | Linde India Ltd. | LINDEINDIA | 58/100 | Decent | ▬ held steady |
+| 262 | Mahanagar Gas Ltd. | MGL | 58/100 | Decent | ▼ declined |
+| 263 | NTPC Green Ene. | NTPCGREEN | 58/100 | Decent | ▬ held steady |
+| 264 | Shriram Finance | SHRIRAMFIN | 58/100 | Decent | ▬ held steady |
+| 265 | Styrenix Performance | STYRENIX | 58/100 | Decent | ▲ improved |
+| 266 | Supreme Industries Ltd. | SUPREMEIND | 58/100 | Decent | ▬ held steady |
+| 267 | Thangamayil Jeweller | THANGAMAYL | 58/100 | Decent | ▬ held steady |
+| 268 | Tilaknagar Inds | TI | 58/100 | Decent | ▬ held steady |
+| 269 | Transrail Lighting | TRANSRAILL | 58/100 | Decent | ▼ declined |
+| 270 | Aptus Value Hou. | APTUS | 57/100 | Decent | ▲ improved |
+| 271 | Atul Ltd. | ATUL | 57/100 | Decent | ▲ improved |
+| 272 | Cemindia Project | CEMPRO | 57/100 | Decent | ▼ declined |
+| 273 | Datamatic Global Ser | DATAMATICS | 57/100 | Decent | ▼ declined |
+| 274 | Godrej Agrovet | GODREJAGRO | 57/100 | Decent | ▲ improved |
+| 275 | Hexaware Tech. | HEXT | 57/100 | Decent | ▼ declined |
+| 276 | Hindustan Zinc Ltd. | HINDZINC | 57/100 | Decent | ▬ held steady |
+| 277 | LG Electronics | LGEINDIA | 57/100 | Decent | ▼ declined |
+| 278 | Multi Comm. Exc. | MCX | 57/100 | Decent | ▬ held steady |
+| 279 | Max Financial Services Ltd. | MFSL | 57/100 | Decent | ▲ improved |
+| 280 | Samvardh. Mothe. | MOTHERSON | 57/100 | Decent | ▲ improved |
+| 281 | Nesco | NESCO | 57/100 | Decent | ▲ improved |
+| 282 | Park Medi World | PARKHOSPS | 57/100 | Decent | ▲ improved |
+| 283 | Pine Labs | PINELABS | 57/100 | Decent | ▲ improved |
+| 284 | Shilpa Medicare | SHILPAMED | 57/100 | Decent | ▲ improved |
+| 285 | Star Health Insu | STARHEALTH | 57/100 | Decent | ▬ held steady |
+| 286 | Seshaasai Technologi | STYL | 57/100 | Decent | ▼ declined |
+| 287 | Trent Ltd. | TRENT | 57/100 | Decent | ▬ held steady |
+| 288 | United Spirits | UNITDSPR | 57/100 | Decent | ▬ held steady |
+| 289 | V2 Retail | V2RETAIL | 57/100 | Decent | ▬ held steady |
+| 290 | V-Guard Inds. | VGUARD | 57/100 | Decent | ▬ held steady |
+| 291 | Aadhar Hsg. Fin. | AADHARHFC | 56/100 | Decent | ▼ declined |
+| 292 | Blue Star Ltd. | BLUESTARCO | 56/100 | Decent | ▼ declined |
+| 293 | Canara Bank | CANBK | 56/100 | Decent | ▬ held steady |
+| 294 | CCL Products (I) Ltd. | CCL | 56/100 | Decent | ▲ improved |
+| 295 | Capri Global | CGCL | 56/100 | Decent | ▬ held steady |
+| 296 | DCB Bank | DCBBANK | 56/100 | Decent | ▼ declined |
+| 297 | EPL | EPL | 56/100 | Decent | ▲ improved |
+| 298 | HCL Technologies Ltd. | HCLTECH | 56/100 | Decent | ▲ improved |
+| 299 | Jindal Stainless Ltd. | JSL | 56/100 | Decent | ▼ declined |
+| 300 | JSW Infrast | JSWINFRA | 56/100 | Decent | ▬ held steady |
+| 301 | Kalpataru Proj. | KPIL | 56/100 | Decent | ▬ held steady |
+| 302 | Netweb Technol. | NETWEB | 56/100 | Decent | ▼ declined |
+| 303 | Paras Defence | PARAS | 56/100 | Decent | ▬ held steady |
+| 304 | Piccadily Agro | PICCADIL | 56/100 | Decent | ▲ improved |
+| 305 | Sansera Engineering | SANSERA | 56/100 | Decent | ▲ improved |
+| 306 | Tata Elxsi Ltd. | TATAELXSI | 56/100 | Decent | ▼ declined |
+| 307 | Tata Motors | TMCV | 56/100 | Decent | ▲ improved |
+| 308 | Waaree Energies | WAAREEENER | 56/100 | Decent | ▼ declined |
+| 309 | Aavas Financiers Ltd. | AAVAS | 55/100 | Decent | ▲ improved |
+| 310 | Atlanta Electricals | ATLANTAELE | 55/100 | Decent | ▼ declined |
+| 311 | Bajaj Finserv Ltd. | BAJAJFINSV | 55/100 | Decent | ▼ declined |
+| 312 | Bluestone Jewellery | BLUESTONE | 55/100 | Decent | ▬ held steady |
+| 313 | Campus Active | CAMPUS | 55/100 | Decent | ▲ improved |
+| 314 | Central Bank of India | CENTRALBK | 55/100 | Decent | ▼ declined |
+| 315 | GMM Pfaudler | GMMPFAUDLR | 55/100 | Decent | ▬ held steady |
+| 316 | Havells India Ltd. | HAVELLS | 55/100 | Decent | ▲ improved |
+| 317 | Indus Towers | INDUSTOWER | 55/100 | Decent | ▲ improved |
+| 318 | Life Insurance | LICI | 55/100 | Decent | ▬ held steady |
+| 319 | Bank of Maharashtra. | MAHABANK | 55/100 | Decent | ▬ held steady |
+| 320 | Marksans Pharma | MARKSANS | 55/100 | Decent | ▼ declined |
+| 321 | Senco Gold | SENCO | 55/100 | Decent | ▬ held steady |
+| 322 | Sonata Software Ltd. | SONATSOFTW | 55/100 | Decent | ▼ declined |
+| 323 | Fujiyama Power Syste | UTLSOLAR | 55/100 | Decent | ▲ improved |
+| 324 | Voltamp Transformers | VOLTAMP | 55/100 | Decent | ▬ held steady |
+| 325 | VA Tech Wabag | WABAG | 55/100 | Decent | ▲ improved |
+| 326 | Welspun Corp Ltd. | WELCORP | 55/100 | Decent | ▬ held steady |
+| 327 | Aequs | AEQUS | 54/100 | Decent | ▲ improved |
+| 328 | Astra Micro Wave | ASTRAMICRO | 54/100 | Decent | ▲ improved |
+| 329 | AWL Agri Busine. | AWL | 54/100 | Decent | ▼ declined |
+| 330 | Can Fin Homes Ltd. | CANFINHOME | 54/100 | Decent | ▼ declined |
+| 331 | Cholamandalam Investment and Finance Company Ltd. | CHOLAFIN | 54/100 | Decent | ▼ declined |
+| 332 | Concord Biotech | CONCORDBIO | 54/100 | Decent | ▲ improved |
+| 333 | Dynamatic Tech | DYNAMATECH | 54/100 | Decent | ▬ held steady |
+| 334 | Infosys Ltd. | INFY | 54/100 | Decent | ▼ declined |
+| 335 | ITC Ltd. | ITC | 54/100 | Decent | ▬ held steady |
+| 336 | Kirloskar Brothers | KIRLOSBROS | 54/100 | Decent | ▲ improved |
+| 337 | Kotak Mahindra Bank Ltd. | KOTAKBANK | 54/100 | Decent | ▬ held steady |
+| 338 | Sri Lotus Developers | LOTUSDEV | 54/100 | Decent | ▬ held steady |
+| 339 | Lupin Ltd. | LUPIN | 54/100 | Decent | ▲ improved |
+| 340 | Muthoot Finance Ltd. | MUTHOOTFIN | 54/100 | Decent | ▬ held steady |
+| 341 | OneSource Speci. | ONESOURCE | 54/100 | Decent | ▼ declined |
+| 342 | Redington (India) Ltd. | REDINGTON | 54/100 | Decent | ▼ declined |
+| 343 | SML Mahindra | SMLMAH | 54/100 | Decent | ▬ held steady |
+| 344 | Zen Technologies | ZENTEC | 54/100 | Decent | ▼ declined |
+| 345 | Allied Blenders | ABDL | 53/100 | Decent | ▲ improved |
+| 346 | AU Small Finance Bank Ltd. | AUBANK | 53/100 | Decent | ▲ improved |
+| 347 | Aurionpro Solutions | AURIONPRO | 53/100 | Decent | ▲ improved |
+| 348 | Bajaj Holdings & Investment Ltd. | BAJAJHLDNG | 53/100 | Decent | ▲ improved |
+| 349 | Blue Dart Express Ltd. | BLUEDART | 53/100 | Decent | ▬ held steady |
+| 350 | Cera Sanitaryware | CERA | 53/100 | Decent | ▬ held steady |
+| 351 | CG Power and Industrial Solutions Ltd. | CGPOWER | 53/100 | Decent | ▼ declined |
+| 352 | Ethos | ETHOSLTD | 53/100 | Decent | ▼ declined |
+| 353 | Firstsource Solutions Ltd. | FSL | 53/100 | Decent | ▬ held steady |
+| 354 | Godfrey Phillips India Ltd. | GODFRYPHLP | 53/100 | Decent | ▬ held steady |
+| 355 | HDFC Life Insurance Company Ltd. | HDFCLIFE | 53/100 | Decent | ▲ improved |
+| 356 | Heritage Foods | HERITGFOOD | 53/100 | Decent | ▬ held steady |
+| 357 | Jain Resource | JAINREC | 53/100 | Decent | ▬ held steady |
+| 358 | Jubilant Pharmo | JUBLPHARMA | 53/100 | Decent | ▬ held steady |
+| 359 | L&T Finance Ltd | LTF | 53/100 | Decent | ▬ held steady |
+| 360 | LTM | LTM | 53/100 | Decent | ▼ declined |
+| 361 | L&T Technology Services Ltd. | LTTS | 53/100 | Decent | ▲ improved |
+| 362 | MRF Ltd. | MRF | 53/100 | Decent | ▲ improved |
+| 363 | Orkla India | ORKLAINDIA | 53/100 | Decent | ▬ held steady |
+| 364 | Raymond Lifestyle | RAYMONDLSL | 53/100 | Decent | ▲ improved |
+| 365 | Sapphire Foods | SAPPHIRE | 53/100 | Decent | ▼ declined |
+| 366 | Sarda Energy | SARDAEN | 53/100 | Decent | ▬ held steady |
+| 367 | Schneider Elect. | SCHNEIDER | 53/100 | Decent | ▼ declined |
+| 368 | SKF India (Indust.) | SKFINDUS | 53/100 | Decent | ▬ held steady |
+| 369 | Supreme Petroch. | SPLPETRO | 53/100 | Decent | ▼ declined |
+| 370 | Tata Power Co. Ltd. | TATAPOWER | 53/100 | Decent | ▼ declined |
+| 371 | UCO Bank | UCOBANK | 53/100 | Decent | ▼ declined |
+| 372 | Bank of Baroda | BANKBARODA | 52/100 | Decent | ▬ held steady |
+| 373 | Bombay Burmah Trading Corporation Ltd. | BBTC | 52/100 | Decent | ▼ declined |
+| 374 | Blue Jet Health | BLUEJET | 52/100 | Decent | ▼ declined |
+| 375 | Century Plyboard | CENTURYPLY | 52/100 | Decent | ▲ improved |
+| 376 | DLF Ltd. | DLF | 52/100 | Decent | ▲ improved |
+| 377 | Elecon Engg.Co | ELECON | 52/100 | Decent | ▬ held steady |
+| 378 | Emami Ltd. | EMAMILTD | 52/100 | Decent | ▲ improved |
+| 379 | Fiem Inds | FIEMIND | 52/100 | Decent | ▲ improved |
+| 380 | Godrej Industries Ltd. | GODREJIND | 52/100 | Decent | ▬ held steady |
+| 381 | J.K. Cement Ltd. | JKCEMENT | 52/100 | Decent | ▬ held steady |
+| 382 | Jyothy Labs | JYOTHYLAB | 52/100 | Decent | ▬ held steady |
+| 383 | Karur Vysya Bank Ltd. | KARURVYSYA | 52/100 | Decent | ▬ held steady |
+| 384 | Larsen & Toubro Ltd. | LT | 52/100 | Decent | ▬ held steady |
+| 385 | Siemens Ltd. | SIEMENS | 52/100 | Decent | ▼ declined |
+| 386 | Star Cement | STARCEMENT | 52/100 | Decent | ▲ improved |
+| 387 | Syrma SGS Tech. | SYRMA | 52/100 | Decent | ▲ improved |
+| 388 | Timken India Ltd. | TIMKEN | 52/100 | Decent | ▲ improved |
+| 389 | Varroc Engineering | VARROC | 52/100 | Decent | ▬ held steady |
+| 390 | Yes Bank Ltd. | YESBANK | 52/100 | Decent | ▲ improved |
+| 391 | Aditya Birla Capital Ltd. | ABCAPITAL | 51/100 | Decent | ▲ improved |
+| 392 | Ahluwalia Contracts | AHLUCONT | 51/100 | Decent | ▬ held steady |
+| 393 | Anup Engineering | ANUP | 51/100 | Decent | ▬ held steady |
+| 394 | Clean Science | CLEAN | 51/100 | Decent | ▬ held steady |
+| 395 | Brainbees Solut. | FIRSTCRY | 51/100 | Decent | ▬ held steady |
+| 396 | Gujarat Ambuja Exp | GAEL | 51/100 | Decent | ▲ improved |
+| 397 | Garden Reach Sh. | GRSE | 51/100 | Decent | ▬ held steady |
+| 398 | Hindalco Industries Ltd. | HINDALCO | 51/100 | Decent | ▼ declined |
+| 399 | InterGlobe Aviation Ltd. | INDIGO | 51/100 | Decent | ▲ improved |
+| 400 | JSW Cement | JSWCEMENT | 51/100 | Decent | ▬ held steady |
+| 401 | Mazagon Dock | MAZDOCK | 51/100 | Decent | ▼ declined |
+| 402 | NTPC Ltd. | NTPC | 51/100 | Decent | ▼ declined |
+| 403 | PNB Housing Finance Ltd. | PNBHOUSING | 51/100 | Decent | ▬ held steady |
+| 404 | Poonawalla Fin | POONAWALLA | 51/100 | Decent | ▲ improved |
+| 405 | Restaurant Brands | RBA | 51/100 | Decent | ▲ improved |
+| 406 | SBFC Finance | SBFC | 51/100 | Decent | ▬ held steady |
+| 407 | Shyam Metalics | SHYAMMETL | 51/100 | Decent | ▼ declined |
+| 408 | South Indian Bank | SOUTHBANK | 51/100 | Decent | ▲ improved |
+| 409 | Tata Comm | TATACOMM | 51/100 | Decent | ▼ declined |
+| 410 | Tega Inds. | TEGA | 51/100 | Decent | ▲ improved |
+| 411 | Time Technoplast | TIMETECHNO | 51/100 | Decent | ▲ improved |
+| 412 | Tamilnad Mercantile | TMB | 51/100 | Decent | ▬ held steady |
+| 413 | Welspun Enterprises | WELENT | 51/100 | Decent | ▲ improved |
+| 414 | Zydus Wellness Ltd. | ZYDUSWELL | 51/100 | Decent | ▲ improved |
+| 415 | Adani Power Ltd. | ADANIPOWER | 50/100 | Decent | ▬ held steady |
+| 416 | Ambuja Cements Ltd. | AMBUJACEM | 50/100 | Decent | ▲ improved |
+| 417 | Anupam Rasayan | ANURAS | 50/100 | Decent | ▼ declined |
+| 418 | Arvind | ARVIND | 50/100 | Decent | ▬ held steady |
+| 419 | Adani Total Gas | ATGL | 50/100 | Decent | ▬ held steady |
+| 420 | Avanti Feeds | AVANTIFEED | 50/100 | Decent | ▬ held steady |
+| 421 | Brigade Enterprises Ltd. | BRIGADE | 50/100 | Decent | ▼ declined |
+| 422 | Carborundum Universal Ltd. | CARBORUNIV | 50/100 | Decent | ▬ held steady |
+| 423 | CESC Ltd. | CESC | 50/100 | Decent | ▲ improved |
+| 424 | Craftsman Auto | CRAFTSMAN | 50/100 | Decent | ▬ held steady |
+| 425 | Canara Robeco Asset | CRAMC | 50/100 | Decent | ▼ declined |
+| 426 | Divi's Laboratories Ltd. | DIVISLAB | 50/100 | Decent | ▲ improved |
+| 427 | Gallantt Ispat L | GALLANTT | 50/100 | Decent | ▬ held steady |
+| 428 | Godrej Properties Ltd. | GODREJPROP | 50/100 | Decent | ▬ held steady |
+| 429 | Hindustan Copper Ltd. | HINDCOPPER | 50/100 | Decent | ▼ declined |
+| 430 | Housing & Urban Development Corporation Ltd. | HUDCO | 50/100 | Decent | ▲ improved |
+| 431 | IDFC First Bank Ltd. | IDFCFIRSTB | 50/100 | Decent | ▬ held steady |
+| 432 | India Glycols | INDIAGLYCO | 50/100 | Decent | ▲ improved |
+| 433 | Indian Overseas Bank  | IOB | 50/100 | Decent | ▬ held steady |
+| 434 | ITC Hotels | ITCHOTELS | 50/100 | Decent | ▬ held steady |
+| 435 | Jio Financial | JIOFIN | 50/100 | Decent | ▲ improved |
+| 436 | Jubilant Ingrev. | JUBLINGREA | 50/100 | Decent | ▲ improved |
+| 437 | Motilal Oswal Financial Services Ltd. | MOTILALOFS | 50/100 | Decent | ▲ improved |
+| 438 | Redtape | REDTAPE | 50/100 | Decent | ▬ held steady |
+| 439 | Refex Industries | REFEX | 50/100 | Decent | ▼ declined |
+| 440 | Safari Industries(I) | SAFARI | 50/100 | Decent | ▲ improved |
+| 441 | Shree Cement Ltd. | SHREECEM | 50/100 | Decent | ▲ improved |
+| 442 | Skipper | SKIPPER | 50/100 | Decent | ▼ declined |
+| 443 | SRF Ltd. | SRF | 50/100 | Decent | ▼ declined |
+| 444 | TVS Supply Chain Sol | TVSSCS | 50/100 | Decent | ▲ improved |
 
 ## Mixed (35–49)
 
 | # | Company | Symbol | Score | Grade | Last one year |
 |---|---|---|---|---|---|
-| 422 | Ahluwalia Contracts | AHLUCONT | 49/100 | Mixed | ▬ held steady |
-| 423 | Avanti Feeds | AVANTIFEED | 49/100 | Mixed | ▬ held steady |
-| 424 | CSB Bank | CSBBANK | 49/100 | Mixed | ▼ declined |
-| 425 | Godrej Properties Ltd. | GODREJPROP | 49/100 | Mixed | ▲ improved |
-| 426 | HDFC Bank Ltd. | HDFCBANK | 49/100 | Mixed | ▲ improved |
-| 427 | InterGlobe Aviation Ltd. | INDIGO | 49/100 | Mixed | ▲ improved |
-| 428 | Kajaria Ceramics Ltd. | KAJARIACER | 49/100 | Mixed | ▲ improved |
-| 429 | KRBL | KRBL | 49/100 | Mixed | ▼ declined |
-| 430 | Praj Industries | PRAJIND | 49/100 | Mixed | ▬ held steady |
-| 431 | RITES Ltd. | RITES | 49/100 | Mixed | ▲ improved |
-| 432 | Sarda Energy | SARDAEN | 49/100 | Mixed | ▬ held steady |
-| 433 | Ujjivan Small Fin | UJJIVANSFB | 49/100 | Mixed | ▬ held steady |
-| 434 | Aditya Birla Capital Ltd. | ABCAPITAL | 48/100 | Mixed | ▲ improved |
-| 435 | Adani Power Ltd. | ADANIPOWER | 48/100 | Mixed | ▬ held steady |
-| 436 | Dalmia BharatLtd | DALBHARAT | 48/100 | Mixed | ▲ improved |
-| 437 | Siemens Ener.Ind | ENRIN | 48/100 | Mixed | ▲ improved |
-| 438 | Exide Industries Ltd. | EXIDEIND | 48/100 | Mixed | ▬ held steady |
-| 439 | Fiem Inds | FIEMIND | 48/100 | Mixed | ▲ improved |
-| 440 | Brainbees Solut. | FIRSTCRY | 48/100 | Mixed | ▬ held steady |
-| 441 | Godfrey Phillips India Ltd. | GODFRYPHLP | 48/100 | Mixed | ▲ improved |
-| 442 | Hindalco Industries Ltd. | HINDALCO | 48/100 | Mixed | ▼ declined |
-| 443 | Housing & Urban Development Corporation Ltd. | HUDCO | 48/100 | Mixed | ▲ improved |
-| 444 | IIFL Finance | IIFL | 48/100 | Mixed | ▲ improved |
-| 445 | Indian Overseas Bank  | IOB | 48/100 | Mixed | ▬ held steady |
-| 446 | Jain Resource | JAINREC | 48/100 | Mixed | ▬ held steady |
-| 447 | Kansai Nerolac | KANSAINER | 48/100 | Mixed | ▼ declined |
-| 448 | National Fertilizers | NFL | 48/100 | Mixed | ▬ held steady |
-| 449 | Safari Industries(I) | SAFARI | 48/100 | Mixed | ▲ improved |
-| 450 | SKF India (Indust.) | SKFINDUS | 48/100 | Mixed | ▬ held steady |
-| 451 | South Indian Bank | SOUTHBANK | 48/100 | Mixed | ▬ held steady |
-| 452 | Supreme Petroch. | SPLPETRO | 48/100 | Mixed | ▼ declined |
-| 453 | Tech Mahindra Ltd. | TECHM | 48/100 | Mixed | ▲ improved |
-| 454 | Time Technoplast | TIMETECHNO | 48/100 | Mixed | ▲ improved |
-| 455 | Trident Ltd. | TRIDENT | 48/100 | Mixed | ▲ improved |
-| 456 | TVS Supply Chain Sol | TVSSCS | 48/100 | Mixed | ▲ improved |
-| 457 | Welspun Enterprises | WELENT | 48/100 | Mixed | ▲ improved |
-| 458 | Whirlpool of India Ltd. | WHIRLPOOL | 48/100 | Mixed | ▬ held steady |
-| 459 | Aarti Pharmalabs | AARTIPHARM | 47/100 | Mixed | ▬ held steady |
-| 460 | Anupam Rasayan | ANURAS | 47/100 | Mixed | ▼ declined |
-| 461 | Axis Bank Ltd. | AXISBANK | 47/100 | Mixed | ▲ improved |
-| 462 | Brigade Enterprises Ltd. | BRIGADE | 47/100 | Mixed | ▬ held steady |
-| 463 | Cello World | CELLO | 47/100 | Mixed | ▬ held steady |
-| 464 | Cochin Shipyard Ltd. | COCHINSHIP | 47/100 | Mixed | ▬ held steady |
-| 465 | CreditAccess Grameen Ltd. | CREDITACC | 47/100 | Mixed | ▼ declined |
-| 466 | Cyient Ltd. | CYIENT | 47/100 | Mixed | ▲ improved |
-| 467 | Deepak Fertilisers & Petrochemicals Corp. Ltd. | DEEPAKFERT | 47/100 | Mixed | ▬ held steady |
-| 468 | IFB Industries | IFBIND | 47/100 | Mixed | ▼ declined |
-| 469 | Jio Financial | JIOFIN | 47/100 | Mixed | ▲ improved |
-| 470 | Karur Vysya Bank Ltd. | KARURVYSYA | 47/100 | Mixed | ▲ improved |
-| 471 | Latent View | LATENTVIEW | 47/100 | Mixed | ▬ held steady |
-| 472 | Mazagon Dock | MAZDOCK | 47/100 | Mixed | ▬ held steady |
-| 473 | Nuvoco Vistas | NUVOCO | 47/100 | Mixed | ▲ improved |
-| 474 | PCBL Chemical | PCBL | 47/100 | Mixed | ▬ held steady |
-| 475 | Pfizer Ltd. | PFIZER | 47/100 | Mixed | ▲ improved |
-| 476 | Piramal Finance. | PIRAMALFIN | 47/100 | Mixed | ▲ improved |
-| 477 | Punjab National Bank | PNB | 47/100 | Mixed | ▲ improved |
-| 478 | PNB Housing Finance Ltd. | PNBHOUSING | 47/100 | Mixed | ▲ improved |
-| 479 | Restaurant Brands | RBA | 47/100 | Mixed | ▲ improved |
-| 480 | Redtape | REDTAPE | 47/100 | Mixed | ▲ improved |
-| 481 | SignatureGlobal | SIGNATURE | 47/100 | Mixed | ▼ declined |
-| 482 | Surya Roshni | SURYAROSNI | 47/100 | Mixed | ▼ declined |
-| 483 | Syrma SGS Tech. | SYRMA | 47/100 | Mixed | ▲ improved |
-| 484 | Advanced Enzyme | ADVENZYMES | 46/100 | Mixed | ▲ improved |
-| 485 | Bandhan Bank Ltd. | BANDHANBNK | 46/100 | Mixed | ▲ improved |
-| 486 | Bata India Ltd. | BATAINDIA | 46/100 | Mixed | ▲ improved |
-| 487 | Canara Robeco Asset | CRAMC | 46/100 | Mixed | ▬ held steady |
-| 488 | DCM Shriram Ltd. | DCMSHRIRAM | 46/100 | Mixed | ▲ improved |
-| 489 | Gallantt Ispat L | GALLANTT | 46/100 | Mixed | ▲ improved |
-| 490 | Billionbrains | GROWW | 46/100 | Mixed | ▲ improved |
-| 491 | Garden Reach Sh. | GRSE | 46/100 | Mixed | ▬ held steady |
-| 492 | Hindustan Petroleum Corporation Ltd. | HINDPETRO | 46/100 | Mixed | ▬ held steady |
-| 493 | IDBI Bank Ltd. | IDBI | 46/100 | Mixed | ▲ improved |
-| 494 | Indraprastha Gas Ltd. | IGL | 46/100 | Mixed | ▲ improved |
-| 495 | IMFA | IMFA | 46/100 | Mixed | ▲ improved |
-| 496 | India Glycols | INDIAGLYCO | 46/100 | Mixed | ▲ improved |
-| 497 | IRB Infrastructure Developers Ltd. | IRB | 46/100 | Mixed | ▼ declined |
-| 498 | Jyoti CNC Auto. | JYOTICNC | 46/100 | Mixed | ▲ improved |
-| 499 | Mastek | MASTEK | 46/100 | Mixed | ▬ held steady |
-| 500 | Oil & Natural Gas Corporation Ltd. | ONGC | 46/100 | Mixed | ▲ improved |
-| 501 | Power Grid Corporation of India Ltd. | POWERGRID | 46/100 | Mixed | ▲ improved |
-| 502 | Ramkrishna Forgings Ltd. | RKFORGE | 46/100 | Mixed | ▼ declined |
-| 503 | SBFC Finance | SBFC | 46/100 | Mixed | ▬ held steady |
-| 504 | Tata Investment Corporation Ltd. | TATAINVEST | 46/100 | Mixed | ▲ improved |
-| 505 | Zensar Technolgies Ltd. | ZENSARTECH | 46/100 | Mixed | ▬ held steady |
-| 506 | Amber Enterp. | AMBER | 45/100 | Mixed | ▼ declined |
-| 507 | Bajaj Housing | BAJAJHFL | 45/100 | Mixed | ▬ held steady |
-| 508 | Biocon Ltd. | BIOCON | 45/100 | Mixed | ▲ improved |
-| 509 | Craftsman Auto | CRAFTSMAN | 45/100 | Mixed | ▬ held steady |
-| 510 | Devyani Intl. | DEVYANI | 45/100 | Mixed | ▲ improved |
-| 511 | Equitas Small Fin | EQUITASBNK | 45/100 | Mixed | ▼ declined |
-| 512 | Gland Pharma | GLAND | 45/100 | Mixed | ▲ improved |
-| 513 | Jayaswal Neco Inds | JAYNECOIND | 45/100 | Mixed | ▬ held steady |
-| 514 | JP Power Ven. | JPPOWER | 45/100 | Mixed | ▲ improved |
-| 515 | K.P.R. Mill Ltd. | KPRMILL | 45/100 | Mixed | ▼ declined |
-| 516 | Maharashtra Scooters | MAHSCOOTER | 45/100 | Mixed | ▲ improved |
-| 517 | NATCO Pharma Ltd. | NATCOPHARM | 45/100 | Mixed | ▬ held steady |
-| 518 | Oil India Ltd. | OIL | 45/100 | Mixed | ▼ declined |
-| 519 | Paradeep Phosph. | PARADEEP | 45/100 | Mixed | ▼ declined |
-| 520 | Quess Corp | QUESS | 45/100 | Mixed | ▲ improved |
-| 521 | The Ramco Cements Ltd. | RAMCOCEM | 45/100 | Mixed | ▬ held steady |
-| 522 | Ratnamani Metals | RATNAMANI | 45/100 | Mixed | ▲ improved |
-| 523 | Rashtriya Chemical | RCF | 45/100 | Mixed | ▲ improved |
-| 524 | Refex Industries | REFEX | 45/100 | Mixed | ▼ declined |
-| 525 | Sun TV Network Ltd. | SUNTV | 45/100 | Mixed | ▲ improved |
-| 526 | Swiggy | SWIGGY | 45/100 | Mixed | ▲ improved |
-| 527 | Torrent Power Ltd. | TORNTPOWER | 45/100 | Mixed | ▬ held steady |
-| 528 | United Breweries Ltd. | UBL | 45/100 | Mixed | ▲ improved |
-| 529 | Aarti Industries | AARTIIND | 44/100 | Mixed | ▼ declined |
-| 530 | Adani Enterp. | ADANIENT | 44/100 | Mixed | ▬ held steady |
-| 531 | Angel One | ANGELONE | 44/100 | Mixed | ▬ held steady |
-| 532 | Balu Forge Inds | BALUFORGE | 44/100 | Mixed | ▲ improved |
-| 533 | Bharat Petroleum Corporation Ltd. | BPCL | 44/100 | Mixed | ▲ improved |
-| 534 | Deepak Nitrite Ltd. | DEEPAKNTR | 44/100 | Mixed | ▼ declined |
-| 535 | Finolex Cables Ltd. | FINCABLES | 44/100 | Mixed | ▼ declined |
-| 536 | GAIL (India) Ltd. | GAIL | 44/100 | Mixed | ▲ improved |
-| 537 | GHCL | GHCL | 44/100 | Mixed | ▼ declined |
-| 538 | Gujarat Pipavav Port | GPPL | 44/100 | Mixed | ▲ improved |
-| 539 | Hemisphere Prop | HEMIPROP | 44/100 | Mixed | ▬ held steady |
-| 540 | Hindustan Copper Ltd. | HINDCOPPER | 44/100 | Mixed | ▼ declined |
-| 541 | Ion Exchange | IONEXCHANG | 44/100 | Mixed | ▬ held steady |
-| 542 | JK Tyre & Industries Ltd. | JKTYRE | 44/100 | Mixed | ▲ improved |
-| 543 | One 97 | PAYTM | 44/100 | Mixed | ▲ improved |
-| 544 | Power Mech Projects | POWERMECH | 44/100 | Mixed | ▼ declined |
-| 545 | Skipper | SKIPPER | 44/100 | Mixed | ▼ declined |
-| 546 | Strides Pharma | STAR | 44/100 | Mixed | ▬ held steady |
-| 547 | Sudarshan Chemicals | SUDARSCHEM | 44/100 | Mixed | ▲ improved |
-| 548 | Tanla Platforms | TANLA | 44/100 | Mixed | ▬ held steady |
-| 549 | Thomas Cook India | THOMASCOOK | 44/100 | Mixed | ▲ improved |
-| 550 | Wipro Ltd. | WIPRO | 44/100 | Mixed | ▬ held steady |
-| 551 | Aditya AMC | ABSLAMC | 43/100 | Mixed | ▲ improved |
-| 552 | ACC Ltd. | ACC | 43/100 | Mixed | ▲ improved |
-| 553 | Chambal Fertilizers & Chemicals Ltd. | CHAMBLFERT | 43/100 | Mixed | ▲ improved |
-| 554 | Chennai Petroleum Corporation Ltd. | CHENNPETRO | 43/100 | Mixed | ▼ declined |
-| 555 | CIE Automotive | CIEINDIA | 43/100 | Mixed | ▼ declined |
-| 556 | Container Corporation of India Ltd. | CONCOR | 43/100 | Mixed | ▲ improved |
-| 557 | JSW Steel Ltd. | JSWSTEEL | 43/100 | Mixed | ▬ held steady |
-| 558 | Just Dial | JUSTDIAL | 43/100 | Mixed | ▲ improved |
-| 559 | KRN Heat Exch Refrig | KRN | 43/100 | Mixed | ▲ improved |
-| 560 | MOIL | MOIL | 43/100 | Mixed | ▼ declined |
-| 561 | Prime Focus | PFOCUS | 43/100 | Mixed | ▬ held steady |
-| 562 | Sunteck Realty | SUNTECK | 43/100 | Mixed | ▲ improved |
-| 563 | Tata Tele. Mah. | TTML | 43/100 | Mixed | ▬ held steady |
-| 564 | Union Bank of India | UNIONBANK | 43/100 | Mixed | ▲ improved |
-| 565 | UTI AMC | UTIAMC | 43/100 | Mixed | ▲ improved |
-| 566 | Afcons Infrastr. | AFCONS | 42/100 | Mixed | ▬ held steady |
-| 567 | Aurobindo Pharma Ltd. | AUROPHARMA | 42/100 | Mixed | ▲ improved |
-| 568 | Great Eastern Shipping Co. Ltd. | GESHIP | 42/100 | Mixed | ▬ held steady |
-| 569 | ICICI Prudential Life Insurance Company Ltd. | ICICIPRULI | 42/100 | Mixed | ▲ improved |
-| 570 | Jindal Steel & Power Ltd. | JINDALSTEL | 42/100 | Mixed | ▼ declined |
-| 571 | JSW Energy Ltd. | JSWENERGY | 42/100 | Mixed | ▬ held steady |
-| 572 | Karnataka Bank | KTKBANK | 42/100 | Mixed | ▲ improved |
-| 573 | Mishra Dhatu Nigam | MIDHANI | 42/100 | Mixed | ▲ improved |
-| 574 | MTAR Technologies | MTARTECH | 42/100 | Mixed | ▬ held steady |
-| 575 | NBCC (India) Ltd. | NBCC | 42/100 | Mixed | ▬ held steady |
-| 576 | REC Ltd. | RECLTD | 42/100 | Mixed | ▬ held steady |
-| 577 | Thermax Ltd. | THERMAX | 42/100 | Mixed | ▲ improved |
-| 578 | Vikram Solar | VIKRAMSOLR | 42/100 | Mixed | ▬ held steady |
-| 579 | Ashapura Minechem | ASHAPURMIN | 41/100 | Mixed | ▲ improved |
-| 580 | Ashok Leyland Ltd. | ASHOKLEY | 41/100 | Mixed | ▲ improved |
-| 581 | Black Bo | BBOX | 41/100 | Mixed | ▬ held steady |
-| 582 | Bharat Dynamics Ltd. | BDL | 41/100 | Mixed | ▲ improved |
-| 583 | Bharat Forge Ltd. | BHARATFORG | 41/100 | Mixed | ▲ improved |
-| 584 | E.I.D. Parry (India) Ltd. | EIDPARRY | 41/100 | Mixed | ▼ declined |
-| 585 | Engineers India Ltd. | ENGINERSIN | 41/100 | Mixed | ▬ held steady |
-| 586 | Escorts Ltd. | ESCORTS | 41/100 | Mixed | ▲ improved |
-| 587 | IndusInd Bank Ltd. | INDUSINDBK | 41/100 | Mixed | ▲ improved |
-| 588 | JK Lakshmi Cement | JKLAKSHMI | 41/100 | Mixed | ▲ improved |
-| 589 | JSW Dulux | JSWDULUX | 41/100 | Mixed | ▼ declined |
-| 590 | PG Electroplast | PGEL | 41/100 | Mixed | ▬ held steady |
-| 591 | Premier Energies | PREMIERENE | 41/100 | Mixed | ▼ declined |
-| 592 | Reliance Power Ltd. | RPOWER | 41/100 | Mixed | ▲ improved |
-| 593 | Sobha Ltd. | SOBHA | 41/100 | Mixed | ▲ improved |
-| 594 | Subros | SUBROS | 41/100 | Mixed | ▬ held steady |
-| 595 | Adani Energy Sol | ADANIENSOL | 40/100 | Mixed | ▲ improved |
-| 596 | Adani Green Energy Ltd. | ADANIGREEN | 40/100 | Mixed | ▬ held steady |
-| 597 | Bajaj Electricals | BAJAJELEC | 40/100 | Mixed | ▲ improved |
-| 598 | Edelweiss Financial Services | EDELWEISS | 40/100 | Mixed | ▲ improved |
-| 599 | Gokaldas Exports | GOKEX | 40/100 | Mixed | ▬ held steady |
-| 600 | Honeywell Automation India Ltd. | HONAUT | 40/100 | Mixed | ▲ improved |
-| 601 | Indian Oil Corporation Ltd. | IOC | 40/100 | Mixed | ▲ improved |
-| 602 | JM Financial Ltd. | JMFINANCIL | 40/100 | Mixed | ▲ improved |
-| 603 | Rallis India | RALLIS | 40/100 | Mixed | ▬ held steady |
-| 604 | Suzlon Energy Ltd. | SUZLON | 40/100 | Mixed | ▲ improved |
-| 605 | UPL Ltd. | UPL | 40/100 | Mixed | ▬ held steady |
-| 606 | Aarti Drugs | AARTIDRUGS | 39/100 | Mixed | ▬ held steady |
-| 607 | Alembic Pharma | APLLTD | 39/100 | Mixed | ▲ improved |
-| 608 | Bank of India | BANKINDIA | 39/100 | Mixed | ▲ improved |
-| 609 | Inox Green Energy Se | INOXGREEN | 39/100 | Mixed | ▬ held steady |
-| 610 | Jindal Saw Ltd. | JINDALSAW | 39/100 | Mixed | ▼ declined |
-| 611 | Kec International Ltd. | KEC | 39/100 | Mixed | ▲ improved |
-| 612 | Religare Enterprises | RELIGARE | 39/100 | Mixed | ▲ improved |
-| 613 | Sammaan Capital | SAMMAANCAP | 39/100 | Mixed | ▲ improved |
-| 614 | Sterlite Tech | STLTECH | 39/100 | Mixed | ▲ improved |
-| 615 | Triveni Engg | TRIVENI | 39/100 | Mixed | ▼ declined |
-| 616 | Vedanta Ltd. | VEDL | 39/100 | Mixed | ▬ held steady |
-| 617 | AvenuesAI | CCAVENUE | 38/100 | Mixed | ▬ held steady |
-| 618 | Choice Intl. | CHOICEIN | 38/100 | Mixed | ▲ improved |
-| 619 | Enviro Infra Engine. | EIEL | 38/100 | Mixed | ▬ held steady |
-| 620 | Godawari Power | GPIL | 38/100 | Mixed | ▲ improved |
-| 621 | Indo Count Inds | ICIL | 38/100 | Mixed | ▲ improved |
-| 622 | I R F C | IRFC | 38/100 | Mixed | ▲ improved |
-| 623 | Kaynes Tech | KAYNES | 38/100 | Mixed | ▬ held steady |
-| 624 | Laxmi Organic Inds. | LXCHEM | 38/100 | Mixed | ▬ held steady |
-| 625 | T R I L | TARIL | 38/100 | Mixed | ▼ declined |
-| 626 | Tata Steel Ltd. | TATASTEEL | 38/100 | Mixed | ▲ improved |
-| 627 | TSF Investments | TSFINV | 38/100 | Mixed | ▬ held steady |
-| 628 | Balrampur Chini Mills Ltd. | BALRAMCHIN | 37/100 | Mixed | ▬ held steady |
-| 629 | Cohance Life | COHANCE | 37/100 | Mixed | ▲ improved |
-| 630 | Cupid | CUPID | 37/100 | Mixed | ▲ improved |
-| 631 | F A C T | FACT | 37/100 | Mixed | ▲ improved |
-| 632 | Gujarat Fluoroch | FLUOROCHEM | 37/100 | Mixed | ▲ improved |
-| 633 | National Aluminium Co. Ltd. | NATIONALUM | 37/100 | Mixed | ▬ held steady |
-| 634 | NHPC Ltd. | NHPC | 37/100 | Mixed | ▲ improved |
-| 635 | Steel Authority of India Ltd. | SAIL | 37/100 | Mixed | ▬ held steady |
-| 636 | Techno Elec.Engg | TECHNOE | 37/100 | Mixed | ▲ improved |
-| 637 | Tube Investments of India Ltd. | TIINDIA | 37/100 | Mixed | ▲ improved |
-| 638 | Titagarh Rail | TITAGARH | 37/100 | Mixed | ▬ held steady |
-| 639 | BEML Ltd. | BEML | 36/100 | Mixed | ▲ improved |
-| 640 | Borosil Renewables | BORORENEW | 36/100 | Mixed | ▬ held steady |
-| 641 | Birlasoft Ltd | BSOFT | 36/100 | Mixed | ▬ held steady |
-| 642 | Jupiter Wagons | JWL | 36/100 | Mixed | ▬ held steady |
-| 643 | LIC Housing Finance Ltd. | LICHSGFIN | 36/100 | Mixed | ▼ declined |
-| 644 | NLC India Ltd. | NLCINDIA | 36/100 | Mixed | ▬ held steady |
-| 645 | NMDC Ltd. | NMDC | 36/100 | Mixed | ▲ improved |
-| 646 | Power Finance Corporation Ltd. | PFC | 36/100 | Mixed | ▬ held steady |
-| 647 | Saatvik Green Energy | SAATVIKGL | 36/100 | Mixed | ▲ improved |
-| 648 | Archean Chem Inds | ACI | 35/100 | Mixed | ▲ improved |
-| 649 | Coal India Ltd. | COALINDIA | 35/100 | Mixed | ▬ held steady |
-| 650 | Emmvee Photovol. | EMMVEE | 35/100 | Mixed | ▬ held steady |
-| 651 | MSTC | MSTCLTD | 35/100 | Mixed | ▲ improved |
-| 652 | Neogen Chemicals | NEOGEN | 35/100 | Mixed | ▲ improved |
-| 653 | Puravankara | PURVA | 35/100 | Mixed | ▲ improved |
-| 654 | Railtel Corpn. | RAILTEL | 35/100 | Mixed | ▲ improved |
-| 655 | RHI Magnesita | RHIM | 35/100 | Mixed | ▲ improved |
-| 656 | Share India | SHAREINDIA | 35/100 | Mixed | ▲ improved |
-| 657 | Vardhman Textiles Ltd. | VTL | 35/100 | Mixed | ▲ improved |
+| 445 | Apollo Tyres Ltd. | APOLLOTYRE | 49/100 | Mixed | ▲ improved |
+| 446 | Balu Forge Inds | BALUFORGE | 49/100 | Mixed | ▲ improved |
+| 447 | Bayer Crop Sci. | BAYERCROP | 49/100 | Mixed | ▬ held steady |
+| 448 | CreditAccess Grameen Ltd. | CREDITACC | 49/100 | Mixed | ▬ held steady |
+| 449 | Dr. Reddy's Laboratories Ltd. | DRREDDY | 49/100 | Mixed | ▼ declined |
+| 450 | Electronics Mart Ind | EMIL | 49/100 | Mixed | ▬ held steady |
+| 451 | Billionbrains | GROWW | 49/100 | Mixed | ▲ improved |
+| 452 | Happiest Minds Tech. | HAPPSTMNDS | 49/100 | Mixed | ▬ held steady |
+| 453 | IIFL Finance | IIFL | 49/100 | Mixed | ▲ improved |
+| 454 | KRN Heat Exch Refrig | KRN | 49/100 | Mixed | ▲ improved |
+| 455 | C.E. Info System | MAPMYINDIA | 49/100 | Mixed | ▲ improved |
+| 456 | Nuvoco Vistas | NUVOCO | 49/100 | Mixed | ▲ improved |
+| 457 | Paradeep Phosph. | PARADEEP | 49/100 | Mixed | ▬ held steady |
+| 458 | Petronet LNG Ltd. | PETRONET | 49/100 | Mixed | ▬ held steady |
+| 459 | Punjab National Bank | PNB | 49/100 | Mixed | ▲ improved |
+| 460 | Piramal Pharma | PPLPHARMA | 49/100 | Mixed | ▲ improved |
+| 461 | SignatureGlobal | SIGNATURE | 49/100 | Mixed | ▼ declined |
+| 462 | Syngene International Ltd. | SYNGENE | 49/100 | Mixed | ▲ improved |
+| 463 | Union Bank of India | UNIONBANK | 49/100 | Mixed | ▲ improved |
+| 464 | Amber Enterp. | AMBER | 48/100 | Mixed | ▼ declined |
+| 465 | Bajaj Housing | BAJAJHFL | 48/100 | Mixed | ▼ declined |
+| 466 | CSB Bank | CSBBANK | 48/100 | Mixed | ▼ declined |
+| 467 | Siemens Ener.Ind | ENRIN | 48/100 | Mixed | ▲ improved |
+| 468 | Hindustan Petroleum Corporation Ltd. | HINDPETRO | 48/100 | Mixed | ▬ held steady |
+| 469 | IDBI Bank Ltd. | IDBI | 48/100 | Mixed | ▲ improved |
+| 470 | IFB Industries | IFBIND | 48/100 | Mixed | ▬ held steady |
+| 471 | Jana Small Fin. Bank | JSFB | 48/100 | Mixed | ▼ declined |
+| 472 | Jyoti CNC Auto. | JYOTICNC | 48/100 | Mixed | ▬ held steady |
+| 473 | Kajaria Ceramics Ltd. | KAJARIACER | 48/100 | Mixed | ▲ improved |
+| 474 | Kaveri Seed Co | KSCL | 48/100 | Mixed | ▬ held steady |
+| 475 | Maharashtra Scooters | MAHSCOOTER | 48/100 | Mixed | ▲ improved |
+| 476 | Manappuram Finance Ltd. | MANAPPURAM | 48/100 | Mixed | ▼ declined |
+| 477 | Oil & Natural Gas Corporation Ltd. | ONGC | 48/100 | Mixed | ▲ improved |
+| 478 | PCBL Chemical | PCBL | 48/100 | Mixed | ▼ declined |
+| 479 | Piramal Finance. | PIRAMALFIN | 48/100 | Mixed | ▲ improved |
+| 480 | Power Mech Projects | POWERMECH | 48/100 | Mixed | ▼ declined |
+| 481 | SBI Cards | SBICARD | 48/100 | Mixed | ▲ improved |
+| 482 | Sunteck Realty | SUNTECK | 48/100 | Mixed | ▲ improved |
+| 483 | Tata Investment Corporation Ltd. | TATAINVEST | 48/100 | Mixed | ▲ improved |
+| 484 | Tata Technolog. | TATATECH | 48/100 | Mixed | ▼ declined |
+| 485 | Vikram Solar | VIKRAMSOLR | 48/100 | Mixed | ▬ held steady |
+| 486 | Adani Enterp. | ADANIENT | 47/100 | Mixed | ▬ held steady |
+| 487 | Chennai Petroleum Corporation Ltd. | CHENNPETRO | 47/100 | Mixed | ▬ held steady |
+| 488 | Cochin Shipyard Ltd. | COCHINSHIP | 47/100 | Mixed | ▬ held steady |
+| 489 | Deepak Fertilisers & Petrochemicals Corp. Ltd. | DEEPAKFERT | 47/100 | Mixed | ▼ declined |
+| 490 | HDFC Bank Ltd. | HDFCBANK | 47/100 | Mixed | ▲ improved |
+| 491 | Hemisphere Prop | HEMIPROP | 47/100 | Mixed | ▬ held steady |
+| 492 | IMFA | IMFA | 47/100 | Mixed | ▲ improved |
+| 493 | JK Paper | JKPAPER | 47/100 | Mixed | ▬ held steady |
+| 494 | JK Tyre & Industries Ltd. | JKTYRE | 47/100 | Mixed | ▲ improved |
+| 495 | KRBL | KRBL | 47/100 | Mixed | ▬ held steady |
+| 496 | Latent View | LATENTVIEW | 47/100 | Mixed | ▼ declined |
+| 497 | Mastek | MASTEK | 47/100 | Mixed | ▬ held steady |
+| 498 | One 97 | PAYTM | 47/100 | Mixed | ▲ improved |
+| 499 | Ramkrishna Forgings Ltd. | RKFORGE | 47/100 | Mixed | ▼ declined |
+| 500 | Angel One | ANGELONE | 46/100 | Mixed | ▼ declined |
+| 501 | Axis Bank Ltd. | AXISBANK | 46/100 | Mixed | ▲ improved |
+| 502 | Dalmia BharatLtd | DALBHARAT | 46/100 | Mixed | ▲ improved |
+| 503 | DCM Shriram Ltd. | DCMSHRIRAM | 46/100 | Mixed | ▲ improved |
+| 504 | Exide Industries Ltd. | EXIDEIND | 46/100 | Mixed | ▬ held steady |
+| 505 | IRB Infrastructure Developers Ltd. | IRB | 46/100 | Mixed | ▼ declined |
+| 506 | JSW Steel Ltd. | JSWSTEEL | 46/100 | Mixed | ▲ improved |
+| 507 | NATCO Pharma Ltd. | NATCOPHARM | 46/100 | Mixed | ▼ declined |
+| 508 | Oil India Ltd. | OIL | 46/100 | Mixed | ▼ declined |
+| 509 | Pfizer Ltd. | PFIZER | 46/100 | Mixed | ▲ improved |
+| 510 | Premier Energies | PREMIERENE | 46/100 | Mixed | ▼ declined |
+| 511 | RITES Ltd. | RITES | 46/100 | Mixed | ▲ improved |
+| 512 | SKF India | SKFINDIA | 46/100 | Mixed | ▼ declined |
+| 513 | Swiggy | SWIGGY | 46/100 | Mixed | ▬ held steady |
+| 514 | Tech Mahindra Ltd. | TECHM | 46/100 | Mixed | ▲ improved |
+| 515 | Trident Ltd. | TRIDENT | 46/100 | Mixed | ▲ improved |
+| 516 | Zensar Technolgies Ltd. | ZENSARTECH | 46/100 | Mixed | ▬ held steady |
+| 517 | Aditya AMC | ABSLAMC | 45/100 | Mixed | ▲ improved |
+| 518 | Advanced Enzyme | ADVENZYMES | 45/100 | Mixed | ▲ improved |
+| 519 | Bandhan Bank Ltd. | BANDHANBNK | 45/100 | Mixed | ▲ improved |
+| 520 | Biocon Ltd. | BIOCON | 45/100 | Mixed | ▬ held steady |
+| 521 | Bharat Petroleum Corporation Ltd. | BPCL | 45/100 | Mixed | ▲ improved |
+| 522 | Cello World | CELLO | 45/100 | Mixed | ▬ held steady |
+| 523 | Devyani Intl. | DEVYANI | 45/100 | Mixed | ▲ improved |
+| 524 | Escorts Ltd. | ESCORTS | 45/100 | Mixed | ▲ improved |
+| 525 | Gland Pharma | GLAND | 45/100 | Mixed | ▲ improved |
+| 526 | JSW Energy Ltd. | JSWENERGY | 45/100 | Mixed | ▬ held steady |
+| 527 | Kansai Nerolac | KANSAINER | 45/100 | Mixed | ▬ held steady |
+| 528 | K.P.R. Mill Ltd. | KPRMILL | 45/100 | Mixed | ▬ held steady |
+| 529 | National Fertilizers | NFL | 45/100 | Mixed | ▲ improved |
+| 530 | Power Grid Corporation of India Ltd. | POWERGRID | 45/100 | Mixed | ▲ improved |
+| 531 | The Ramco Cements Ltd. | RAMCOCEM | 45/100 | Mixed | ▲ improved |
+| 532 | Strides Pharma | STAR | 45/100 | Mixed | ▬ held steady |
+| 533 | Ashapura Minechem | ASHAPURMIN | 44/100 | Mixed | ▲ improved |
+| 534 | Bank of India | BANKINDIA | 44/100 | Mixed | ▲ improved |
+| 535 | Bata India Ltd. | BATAINDIA | 44/100 | Mixed | ▲ improved |
+| 536 | Black Bo | BBOX | 44/100 | Mixed | ▬ held steady |
+| 537 | Bharat Forge Ltd. | BHARATFORG | 44/100 | Mixed | ▲ improved |
+| 538 | Chambal Fertilizers & Chemicals Ltd. | CHAMBLFERT | 44/100 | Mixed | ▬ held steady |
+| 539 | Choice Intl. | CHOICEIN | 44/100 | Mixed | ▲ improved |
+| 540 | Cupid | CUPID | 44/100 | Mixed | ▲ improved |
+| 541 | Gujarat Pipavav Port | GPPL | 44/100 | Mixed | ▲ improved |
+| 542 | JP Power Ven. | JPPOWER | 44/100 | Mixed | ▲ improved |
+| 543 | NBCC (India) Ltd. | NBCC | 44/100 | Mixed | ▬ held steady |
+| 544 | Prime Focus | PFOCUS | 44/100 | Mixed | ▬ held steady |
+| 545 | PG Electroplast | PGEL | 44/100 | Mixed | ▼ declined |
+| 546 | Praj Industries | PRAJIND | 44/100 | Mixed | ▬ held steady |
+| 547 | Ratnamani Metals | RATNAMANI | 44/100 | Mixed | ▲ improved |
+| 548 | Subros | SUBROS | 44/100 | Mixed | ▼ declined |
+| 549 | Sudarshan Chemicals | SUDARSCHEM | 44/100 | Mixed | ▲ improved |
+| 550 | Suzlon Energy Ltd. | SUZLON | 44/100 | Mixed | ▲ improved |
+| 551 | Tanla Platforms | TANLA | 44/100 | Mixed | ▬ held steady |
+| 552 | Thermax Ltd. | THERMAX | 44/100 | Mixed | ▲ improved |
+| 553 | Torrent Power Ltd. | TORNTPOWER | 44/100 | Mixed | ▬ held steady |
+| 554 | Tata Tele. Mah. | TTML | 44/100 | Mixed | ▼ declined |
+| 555 | United Breweries Ltd. | UBL | 44/100 | Mixed | ▲ improved |
+| 556 | Whirlpool of India Ltd. | WHIRLPOOL | 44/100 | Mixed | ▬ held steady |
+| 557 | Aarti Pharmalabs | AARTIPHARM | 43/100 | Mixed | ▲ improved |
+| 558 | Ashok Leyland Ltd. | ASHOKLEY | 43/100 | Mixed | ▲ improved |
+| 559 | AvenuesAI | CCAVENUE | 43/100 | Mixed | ▼ declined |
+| 560 | CIE Automotive | CIEINDIA | 43/100 | Mixed | ▬ held steady |
+| 561 | Cyient Ltd. | CYIENT | 43/100 | Mixed | ▲ improved |
+| 562 | Enviro Infra Engine. | EIEL | 43/100 | Mixed | ▼ declined |
+| 563 | Engineers India Ltd. | ENGINERSIN | 43/100 | Mixed | ▲ improved |
+| 564 | GAIL (India) Ltd. | GAIL | 43/100 | Mixed | ▲ improved |
+| 565 | Great Eastern Shipping Co. Ltd. | GESHIP | 43/100 | Mixed | ▲ improved |
+| 566 | Indraprastha Gas Ltd. | IGL | 43/100 | Mixed | ▲ improved |
+| 567 | Indian Oil Corporation Ltd. | IOC | 43/100 | Mixed | ▲ improved |
+| 568 | Jindal Steel & Power Ltd. | JINDALSTEL | 43/100 | Mixed | ▼ declined |
+| 569 | Just Dial | JUSTDIAL | 43/100 | Mixed | ▲ improved |
+| 570 | Kaynes Tech | KAYNES | 43/100 | Mixed | ▼ declined |
+| 571 | MTAR Technologies | MTARTECH | 43/100 | Mixed | ▲ improved |
+| 572 | National Aluminium Co. Ltd. | NATIONALUM | 43/100 | Mixed | ▬ held steady |
+| 573 | Rashtriya Chemical | RCF | 43/100 | Mixed | ▲ improved |
+| 574 | REC Ltd. | RECLTD | 43/100 | Mixed | ▼ declined |
+| 575 | Saatvik Green Energy | SAATVIKGL | 43/100 | Mixed | ▬ held steady |
+| 576 | Sobha Ltd. | SOBHA | 43/100 | Mixed | ▲ improved |
+| 577 | Surya Roshni | SURYAROSNI | 43/100 | Mixed | ▼ declined |
+| 578 | T R I L | TARIL | 43/100 | Mixed | ▼ declined |
+| 579 | Thomas Cook India | THOMASCOOK | 43/100 | Mixed | ▲ improved |
+| 580 | TSF Investments | TSFINV | 43/100 | Mixed | ▬ held steady |
+| 581 | Ujjivan Small Fin | UJJIVANSFB | 43/100 | Mixed | ▬ held steady |
+| 582 | Aarti Industries | AARTIIND | 42/100 | Mixed | ▬ held steady |
+| 583 | Adani Energy Sol | ADANIENSOL | 42/100 | Mixed | ▲ improved |
+| 584 | Adani Green Energy Ltd. | ADANIGREEN | 42/100 | Mixed | ▬ held steady |
+| 585 | Aurobindo Pharma Ltd. | AUROPHARMA | 42/100 | Mixed | ▲ improved |
+| 586 | Borosil Renewables | BORORENEW | 42/100 | Mixed | ▬ held steady |
+| 587 | Deepak Nitrite Ltd. | DEEPAKNTR | 42/100 | Mixed | ▼ declined |
+| 588 | E.I.D. Parry (India) Ltd. | EIDPARRY | 42/100 | Mixed | ▼ declined |
+| 589 | Finolex Cables Ltd. | FINCABLES | 42/100 | Mixed | ▼ declined |
+| 590 | Ion Exchange | IONEXCHANG | 42/100 | Mixed | ▬ held steady |
+| 591 | JK Lakshmi Cement | JKLAKSHMI | 42/100 | Mixed | ▲ improved |
+| 592 | Emmvee Photovol. | EMMVEE | 41/100 | Mixed | ▬ held steady |
+| 593 | Gokaldas Exports | GOKEX | 41/100 | Mixed | ▬ held steady |
+| 594 | ICICI Prudential Life Insurance Company Ltd. | ICICIPRULI | 41/100 | Mixed | ▲ improved |
+| 595 | Jayaswal Neco Inds | JAYNECOIND | 41/100 | Mixed | ▬ held steady |
+| 596 | JM Financial Ltd. | JMFINANCIL | 41/100 | Mixed | ▲ improved |
+| 597 | JSW Dulux | JSWDULUX | 41/100 | Mixed | ▼ declined |
+| 598 | Quess Corp | QUESS | 41/100 | Mixed | ▲ improved |
+| 599 | Reliance Power Ltd. | RPOWER | 41/100 | Mixed | ▲ improved |
+| 600 | Sun TV Network Ltd. | SUNTV | 41/100 | Mixed | ▲ improved |
+| 601 | Tata Steel Ltd. | TATASTEEL | 41/100 | Mixed | ▲ improved |
+| 602 | Techno Elec.Engg | TECHNOE | 41/100 | Mixed | ▲ improved |
+| 603 | UTI AMC | UTIAMC | 41/100 | Mixed | ▲ improved |
+| 604 | Vedanta Ltd. | VEDL | 41/100 | Mixed | ▬ held steady |
+| 605 | Waaree Renewables | WAAREERTL | 41/100 | Mixed | ▲ improved |
+| 606 | Wipro Ltd. | WIPRO | 41/100 | Mixed | ▲ improved |
+| 607 | ACC Ltd. | ACC | 40/100 | Mixed | ▲ improved |
+| 608 | Container Corporation of India Ltd. | CONCOR | 40/100 | Mixed | ▲ improved |
+| 609 | GHCL | GHCL | 40/100 | Mixed | ▼ declined |
+| 610 | Honeywell Automation India Ltd. | HONAUT | 40/100 | Mixed | ▲ improved |
+| 611 | Jindal Saw Ltd. | JINDALSAW | 40/100 | Mixed | ▼ declined |
+| 612 | Kec International Ltd. | KEC | 40/100 | Mixed | ▬ held steady |
+| 613 | Mishra Dhatu Nigam | MIDHANI | 40/100 | Mixed | ▲ improved |
+| 614 | Power Finance Corporation Ltd. | PFC | 40/100 | Mixed | ▼ declined |
+| 615 | Steel Authority of India Ltd. | SAIL | 40/100 | Mixed | ▬ held steady |
+| 616 | ACME Solar Hold. | ACMESOLAR | 39/100 | Mixed | ▬ held steady |
+| 617 | Alembic Pharma | APLLTD | 39/100 | Mixed | ▲ improved |
+| 618 | Bharat Dynamics Ltd. | BDL | 39/100 | Mixed | ▬ held steady |
+| 619 | Bharat Heavy Electricals Ltd. | BHEL | 39/100 | Mixed | ▬ held steady |
+| 620 | Cholamandalam Financial Holdings Ltd. | CHOLAHLDNG | 39/100 | Mixed | ▼ declined |
+| 621 | Edelweiss Financial Services | EDELWEISS | 39/100 | Mixed | ▲ improved |
+| 622 | Equitas Small Fin | EQUITASBNK | 39/100 | Mixed | ▼ declined |
+| 623 | Indian Bank | INDIANB | 39/100 | Mixed | ▲ improved |
+| 624 | I R F C | IRFC | 39/100 | Mixed | ▬ held steady |
+| 625 | Karnataka Bank | KTKBANK | 39/100 | Mixed | ▲ improved |
+| 626 | MOIL | MOIL | 39/100 | Mixed | ▼ declined |
+| 627 | NLC India Ltd. | NLCINDIA | 39/100 | Mixed | ▲ improved |
+| 628 | Sammaan Capital | SAMMAANCAP | 39/100 | Mixed | ▲ improved |
+| 629 | Tube Investments of India Ltd. | TIINDIA | 39/100 | Mixed | ▲ improved |
+| 630 | Titagarh Rail | TITAGARH | 39/100 | Mixed | ▼ declined |
+| 631 | UPL Ltd. | UPL | 39/100 | Mixed | ▲ improved |
+| 632 | Websol Energy System | WEBELSOLAR | 39/100 | Mixed | ▬ held steady |
+| 633 | Afcons Infrastr. | AFCONS | 38/100 | Mixed | ▬ held steady |
+| 634 | Godawari Power | GPIL | 38/100 | Mixed | ▲ improved |
+| 635 | Inox Green Energy Se | INOXGREEN | 38/100 | Mixed | ▬ held steady |
+| 636 | Jupiter Wagons | JWL | 38/100 | Mixed | ▼ declined |
+| 637 | NMDC Ltd. | NMDC | 38/100 | Mixed | ▲ improved |
+| 638 | Share India | SHAREINDIA | 38/100 | Mixed | ▬ held steady |
+| 639 | Texmaco Rail | TEXRAIL | 38/100 | Mixed | ▼ declined |
+| 640 | Aarti Drugs | AARTIDRUGS | 37/100 | Mixed | ▲ improved |
+| 641 | Balrampur Chini Mills Ltd. | BALRAMCHIN | 37/100 | Mixed | ▬ held steady |
+| 642 | F A C T | FACT | 37/100 | Mixed | ▲ improved |
+| 643 | Gujarat Fluoroch | FLUOROCHEM | 37/100 | Mixed | ▲ improved |
+| 644 | General Insurance Corporation of India | GICRE | 37/100 | Mixed | ▬ held steady |
+| 645 | H.E.G. Ltd. | HEG | 37/100 | Mixed | ▲ improved |
+| 646 | Jai Balaji Inds | JAIBALAJI | 37/100 | Mixed | ▼ declined |
+| 647 | LIC Housing Finance Ltd. | LICHSGFIN | 37/100 | Mixed | ▼ declined |
+| 648 | Sterlite Tech | STLTECH | 37/100 | Mixed | ▲ improved |
+| 649 | Triveni Engg | TRIVENI | 37/100 | Mixed | ▬ held steady |
+| 650 | Alok Industries | ALOKINDS | 36/100 | Mixed | ▲ improved |
+| 651 | Bajaj Electricals | BAJAJELEC | 36/100 | Mixed | ▲ improved |
+| 652 | Birlasoft Ltd | BSOFT | 36/100 | Mixed | ▬ held steady |
+| 653 | Coal India Ltd. | COALINDIA | 36/100 | Mixed | ▬ held steady |
+| 654 | Hindustan Constr | HCC | 36/100 | Mixed | ▲ improved |
+| 655 | IndusInd Bank Ltd. | INDUSINDBK | 36/100 | Mixed | ▲ improved |
+| 656 | NHPC Ltd. | NHPC | 36/100 | Mixed | ▲ improved |
+| 657 | Puravankara | PURVA | 36/100 | Mixed | ▲ improved |
+| 658 | Rallis India | RALLIS | 36/100 | Mixed | ▬ held steady |
+| 659 | RHI Magnesita | RHIM | 36/100 | Mixed | ▲ improved |
+| 660 | Vardhman Textiles Ltd. | VTL | 36/100 | Mixed | ▲ improved |
+| 661 | Anant Raj | ANANTRAJ | 35/100 | Mixed | ▲ improved |
+| 662 | BEML Ltd. | BEML | 35/100 | Mixed | ▬ held steady |
+| 663 | India Cements Ltd. | INDIACEM | 35/100 | Mixed | ▲ improved |
+| 664 | KPI Green Energy | KPIGREEN | 35/100 | Mixed | ▲ improved |
+| 665 | Laxmi Organic Inds. | LXCHEM | 35/100 | Mixed | ▬ held steady |
+| 666 | Maharashtra Seamless | MAHSEAMLES | 35/100 | Mixed | ▼ declined |
+| 667 | Nava | NAVA | 35/100 | Mixed | ▬ held steady |
+| 668 | Nazara Technologies | NAZARA | 35/100 | Mixed | ▲ improved |
+| 669 | Neogen Chemicals | NEOGEN | 35/100 | Mixed | ▲ improved |
+| 670 | Religare Enterprises | RELIGARE | 35/100 | Mixed | ▲ improved |
+| 671 | Shipping Corporation of India Ltd. | SCI | 35/100 | Mixed | ▲ improved |
 
 ## Weak (below 35)
 
 | # | Company | Symbol | Score | Grade | Last one year |
 |---|---|---|---|---|---|
-| 658 | ACME Solar Hold. | ACMESOLAR | 34/100 | Weak | ▬ held steady |
-| 659 | Alok Industries | ALOKINDS | 34/100 | Weak | ▲ improved |
-| 660 | Balaji Amines | BALAMINES | 34/100 | Weak | ▲ improved |
-| 661 | Bharat Heavy Electricals Ltd. | BHEL | 34/100 | Weak | ▬ held steady |
-| 662 | Cholamandalam Financial Holdings Ltd. | CHOLAHLDNG | 34/100 | Weak | ▬ held steady |
-| 663 | Hindustan Constr | HCC | 34/100 | Weak | ▲ improved |
-| 664 | H.E.G. Ltd. | HEG | 34/100 | Weak | ▲ improved |
-| 665 | Jai Balaji Inds | JAIBALAJI | 34/100 | Weak | ▲ improved |
-| 666 | Maharashtra Seamless | MAHSEAMLES | 34/100 | Weak | ▼ declined |
-| 667 | Nava | NAVA | 34/100 | Weak | ▬ held steady |
-| 668 | The New India Assurance Company Ltd. | NIACL | 34/100 | Weak | ▲ improved |
-| 669 | Rain Industries | RAIN | 34/100 | Weak | ▲ improved |
-| 670 | Shree Renuka Sugars | RENUKA | 34/100 | Weak | ▲ improved |
-| 671 | Waaree Renewables | WAAREERTL | 34/100 | Weak | ▲ improved |
-| 672 | Valor Estate | DBREALTY | 33/100 | Weak | ▬ held steady |
-| 673 | Electrosteel Castings | ELECTCAST | 33/100 | Weak | ▼ declined |
-| 674 | Finolex Industries | FINPIPE | 33/100 | Weak | ▬ held steady |
-| 675 | General Insurance Corporation of India | GICRE | 33/100 | Weak | ▬ held steady |
-| 676 | Indian Bank | INDIANB | 33/100 | Weak | ▲ improved |
-| 677 | RBL Bank Ltd. | RBLBANK | 33/100 | Weak | ▲ improved |
-| 678 | Relaxo Footwears | RELAXO | 33/100 | Weak | ▲ improved |
-| 679 | Tata Chemicals Ltd. | TATACHEM | 33/100 | Weak | ▬ held steady |
-| 680 | Texmaco Rail | TEXRAIL | 33/100 | Weak | ▬ held steady |
-| 681 | Welspun Living | WELSPUNLIV | 33/100 | Weak | ▲ improved |
-| 682 | Ashoka Buildcon | ASHOKA | 32/100 | Weak | ▲ improved |
-| 683 | Axiscades Tech | AXISCADES | 32/100 | Weak | ▲ improved |
-| 684 | Himachal Fut Com Ltd. | HFCL | 32/100 | Weak | ▬ held steady |
-| 685 | Kitex Garments | KITEX | 32/100 | Weak | ▲ improved |
-| 686 | Nazara Technologies | NAZARA | 32/100 | Weak | ▲ improved |
-| 687 | Network18 Media | NETWORK18 | 32/100 | Weak | ▲ improved |
-| 688 | NMDC Steel | NSLNISP | 32/100 | Weak | ▬ held steady |
-| 689 | Patanjali Foods | PATANJALI | 32/100 | Weak | ▲ improved |
-| 690 | PTC India | PTC | 32/100 | Weak | ▲ improved |
-| 691 | Shipping Corporation of India Ltd. | SCI | 32/100 | Weak | ▲ improved |
-| 692 | Websol Energy System | WEBELSOLAR | 32/100 | Weak | ▬ held steady |
-| 693 | GNFC | GNFC | 31/100 | Weak | ▲ improved |
-| 694 | India Cements Ltd. | INDIACEM | 31/100 | Weak | ▲ improved |
-| 695 | Orient Cement | ORIENTCEM | 31/100 | Weak | ▲ improved |
-| 696 | Route Mobile | ROUTE | 31/100 | Weak | ▲ improved |
-| 697 | Voltas Ltd. | VOLTAS | 31/100 | Weak | ▲ improved |
-| 698 | Aditya Birla Fashion and Retail Ltd. | ABFRL | 30/100 | Weak | ▲ improved |
-| 699 | Gujarat Mineral Development Corporation Ltd. | GMDCLTD | 30/100 | Weak | ▲ improved |
-| 700 | Optiemus infracom | OPTIEMUS | 30/100 | Weak | ▲ improved |
-| 701 | Shakti Pumps | SHAKTIPUMP | 30/100 | Weak | ▼ declined |
-| 702 | A B Real Estate | ABREL | 29/100 | Weak | ▲ improved |
-| 703 | Dilip Buildcon | DBL | 29/100 | Weak | ▬ held steady |
-| 704 | Greaves Cotton | GREAVESCOT | 29/100 | Weak | ▲ improved |
-| 705 | HGIEL | HGINFRA | 29/100 | Weak | ▲ improved |
-| 706 | Vodafone Idea Ltd. | IDEA | 29/100 | Weak | ▲ improved |
-| 707 | ITI Ltd. | ITI | 29/100 | Weak | ▲ improved |
-| 708 | Mangalore Refinery & Petrochemicals Ltd. | MRPL | 29/100 | Weak | ▬ held steady |
-| 709 | Ola Electric | OLAELEC | 29/100 | Weak | ▬ held steady |
-| 710 | Sun Pharma Adv. Res | SPARC | 29/100 | Weak | ▬ held steady |
-| 711 | Anant Raj | ANANTRAJ | 28/100 | Weak | ▲ improved |
-| 712 | Graphite India Ltd. | GRAPHITE | 28/100 | Weak | ▲ improved |
-| 713 | KPI Green Energy | KPIGREEN | 28/100 | Weak | ▲ improved |
-| 714 | Lloyds enterprises limited | LLOYDSENT | 28/100 | Weak | ▲ improved |
-| 715 | MMTC Ltd. | MMTC | 28/100 | Weak | ▲ improved |
-| 716 | RattanIndia Entr | RTNINDIA | 28/100 | Weak | ▬ held steady |
-| 717 | Tata Motors PVeh | TMPV | 28/100 | Weak | ▬ held steady |
-| 718 | Diamond Power Infra | DIACABS | 27/100 | Weak | ▲ improved |
-| 719 | IIFL Securities | IIFLCAPS | 27/100 | Weak | ▲ improved |
-| 720 | NCC Ltd. | NCC | 27/100 | Weak | ▬ held steady |
-| 721 | Olectra Greentec | OLECTRA | 27/100 | Weak | ▲ improved |
-| 722 | Rail Vikas | RVNL | 27/100 | Weak | ▬ held steady |
-| 723 | Swan Corp | SWANCORP | 27/100 | Weak | ▲ improved |
-| 724 | TARC | TARC | 27/100 | Weak | ▲ improved |
-| 725 | Embassy Developments | EMBDL | 26/100 | Weak | ▲ improved |
-| 726 | GSFC | GSFC | 24/100 | Weak | ▲ improved |
-| 727 | Oswal Pumps | OSWALPUMPS | 24/100 | Weak | ▲ improved |
-| 728 | PNC Infratech | PNCINFRA | 24/100 | Weak | ▲ improved |
-| 729 | Sterling | SWSOLAR | 24/100 | Weak | ▲ improved |
-| 730 | Inox Wind Ltd. | INOXWIND | 22/100 | Weak | ▲ improved |
-| 731 | PC Jeweller | PCJEWELLER | 22/100 | Weak | ▲ improved |
-| 732 | RattanIndia Power | RTNPOWER | 22/100 | Weak | ▲ improved |
-| 733 | Zee Entertainment Enterprises Ltd. | ZEEL | 22/100 | Weak | ▲ improved |
-| 734 | KNR Constructions | KNRCON | 20/100 | Weak | ▲ improved |
-| 735 | IRCON International Ltd. | IRCON | 19/100 | Weak | ▬ held steady |
-| 736 | VIP Industries | VIPIND | 19/100 | Weak | ▲ improved |
-| 737 | Tejas Networks | TEJASNET | 18/100 | Weak | ▬ held steady |
-| 738 | SJVN Ltd. | SJVN | 17/100 | Weak | ▲ improved |
+| 672 | Axiscades Tech | AXISCADES | 34/100 | Weak | ▲ improved |
+| 673 | Cohance Life | COHANCE | 34/100 | Weak | ▲ improved |
+| 674 | Diamond Power Infra | DIACABS | 34/100 | Weak | ▲ improved |
+| 675 | Finolex Industries | FINPIPE | 34/100 | Weak | ▬ held steady |
+| 676 | Indo Count Inds | ICIL | 34/100 | Weak | ▲ improved |
+| 677 | Lloyds enterprises limited | LLOYDSENT | 34/100 | Weak | ▲ improved |
+| 678 | MSTC | MSTCLTD | 34/100 | Weak | ▲ improved |
+| 679 | Orient Cement | ORIENTCEM | 34/100 | Weak | ▲ improved |
+| 680 | Patanjali Foods | PATANJALI | 34/100 | Weak | ▲ improved |
+| 681 | Railtel Corpn. | RAILTEL | 34/100 | Weak | ▲ improved |
+| 682 | RBL Bank Ltd. | RBLBANK | 34/100 | Weak | ▲ improved |
+| 683 | Shakti Pumps | SHAKTIPUMP | 34/100 | Weak | ▼ declined |
+| 684 | Ashoka Buildcon | ASHOKA | 33/100 | Weak | ▲ improved |
+| 685 | Valor Estate | DBREALTY | 33/100 | Weak | ▬ held steady |
+| 686 | Gujarat Mineral Development Corporation Ltd. | GMDCLTD | 33/100 | Weak | ▲ improved |
+| 687 | Himachal Fut Com Ltd. | HFCL | 33/100 | Weak | ▲ improved |
+| 688 | ITI Ltd. | ITI | 33/100 | Weak | ▲ improved |
+| 689 | Mangalore Refinery & Petrochemicals Ltd. | MRPL | 33/100 | Weak | ▲ improved |
+| 690 | NMDC Steel | NSLNISP | 33/100 | Weak | ▬ held steady |
+| 691 | Olectra Greentec | OLECTRA | 33/100 | Weak | ▲ improved |
+| 692 | Route Mobile | ROUTE | 33/100 | Weak | ▲ improved |
+| 693 | A B Real Estate | ABREL | 32/100 | Weak | ▲ improved |
+| 694 | Archean Chem Inds | ACI | 32/100 | Weak | ▲ improved |
+| 695 | Balaji Amines | BALAMINES | 32/100 | Weak | ▲ improved |
+| 696 | Dilip Buildcon | DBL | 32/100 | Weak | ▬ held steady |
+| 697 | GNFC | GNFC | 32/100 | Weak | ▲ improved |
+| 698 | The New India Assurance Company Ltd. | NIACL | 32/100 | Weak | ▲ improved |
+| 699 | Ola Electric | OLAELEC | 32/100 | Weak | ▲ improved |
+| 700 | Optiemus infracom | OPTIEMUS | 32/100 | Weak | ▲ improved |
+| 701 | Rain Industries | RAIN | 32/100 | Weak | ▲ improved |
+| 702 | Shree Renuka Sugars | RENUKA | 32/100 | Weak | ▲ improved |
+| 703 | Greaves Cotton | GREAVESCOT | 31/100 | Weak | ▲ improved |
+| 704 | Oswal Pumps | OSWALPUMPS | 31/100 | Weak | ▲ improved |
+| 705 | Relaxo Footwears | RELAXO | 31/100 | Weak | ▲ improved |
+| 706 | Tata Chemicals Ltd. | TATACHEM | 31/100 | Weak | ▬ held steady |
+| 707 | Voltas Ltd. | VOLTAS | 31/100 | Weak | ▲ improved |
+| 708 | Welspun Living | WELSPUNLIV | 31/100 | Weak | ▲ improved |
+| 709 | Electrosteel Castings | ELECTCAST | 30/100 | Weak | ▼ declined |
+| 710 | HGIEL | HGINFRA | 30/100 | Weak | ▲ improved |
+| 711 | Vodafone Idea Ltd. | IDEA | 30/100 | Weak | ▲ improved |
+| 712 | IIFL Securities | IIFLCAPS | 30/100 | Weak | ▬ held steady |
+| 713 | PTC India | PTC | 30/100 | Weak | ▲ improved |
+| 714 | RattanIndia Entr | RTNINDIA | 30/100 | Weak | ▬ held steady |
+| 715 | Graphite India Ltd. | GRAPHITE | 29/100 | Weak | ▲ improved |
+| 716 | Kitex Garments | KITEX | 29/100 | Weak | ▲ improved |
+| 717 | Sun Pharma Adv. Res | SPARC | 29/100 | Weak | ▬ held steady |
+| 718 | Aditya Birla Fashion and Retail Ltd. | ABFRL | 28/100 | Weak | ▲ improved |
+| 719 | Embassy Developments | EMBDL | 28/100 | Weak | ▲ improved |
+| 720 | MMTC Ltd. | MMTC | 28/100 | Weak | ▲ improved |
+| 721 | Network18 Media | NETWORK18 | 28/100 | Weak | ▲ improved |
+| 722 | Swan Corp | SWANCORP | 28/100 | Weak | ▬ held steady |
+| 723 | Tata Motors PVeh | TMPV | 28/100 | Weak | ▬ held steady |
+| 724 | NCC Ltd. | NCC | 27/100 | Weak | ▬ held steady |
+| 725 | Rail Vikas | RVNL | 27/100 | Weak | ▼ declined |
+| 726 | TARC | TARC | 27/100 | Weak | ▲ improved |
+| 727 | PC Jeweller | PCJEWELLER | 25/100 | Weak | ▲ improved |
+| 728 | GSFC | GSFC | 24/100 | Weak | ▲ improved |
+| 729 | Inox Wind Ltd. | INOXWIND | 24/100 | Weak | ▲ improved |
+| 730 | PNC Infratech | PNCINFRA | 23/100 | Weak | ▲ improved |
+| 731 | Sterling | SWSOLAR | 21/100 | Weak | ▲ improved |
+| 732 | Zee Entertainment Enterprises Ltd. | ZEEL | 21/100 | Weak | ▲ improved |
+| 733 | IRCON International Ltd. | IRCON | 20/100 | Weak | ▬ held steady |
+| 734 | KNR Constructions | KNRCON | 20/100 | Weak | ▬ held steady |
+| 735 | RattanIndia Power | RTNPOWER | 20/100 | Weak | ▲ improved |
+| 736 | SJVN Ltd. | SJVN | 19/100 | Weak | ▲ improved |
+| 737 | Tejas Networks | TEJASNET | 19/100 | Weak | ▼ declined |
+| 738 | VIP Industries | VIPIND | 17/100 | Weak | ▲ improved |
 
 ## Not rated
 

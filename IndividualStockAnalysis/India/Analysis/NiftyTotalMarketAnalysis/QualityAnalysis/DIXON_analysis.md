@@ -19,15 +19,16 @@ Dixon Technologies is an Indian contract manufacturer of electronics and applian
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 57 out of 100 ★★★☆☆
+## The verdict: Decent — 60 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (65/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 3 high risks (Government Dependency, Stakeholder Concentration…). Weighing those together gives 57 out of 100 — decent.
+In one breath: the quality framework finds a good business today (65/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 3 high risks (Government Dependency, Stakeholder Concentration…). Against the Nifty 50 it has gained strongly on the index (86/100). Weighing those together gives 60 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 65 (business quality) + 30% × 70 (multibagger fit) + 25% × 28 (risk safety) = 57 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 65 (business quality) + 27% × 70 (multibagger fit) + 22.5% × 28 (risk safety) + 10% × 86 (relative to the index) = 60 out of 100 → Decent (3 stars).
 
 - **Business quality (65/100):** The 34-check quality framework scored the business +0.59 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 65 points.
 - **Multibagger fit (70/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 3 patterns fit strongly (Low Price Plus, Market Share Gainers, Corporate Culture) (+45) → 70 of 100.
 - **Risk safety (28/100):** started from a clean 100; 3 high risks (Government Dependency, Stakeholder Concentration, Good Enough Goods) (−60); 3 worth watching (−12) → 28 of 100.
+- **Relative to the index (86/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.45 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 86 points.
 
 ### The story in depth
 
@@ -464,6 +465,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒                  -7 days  ▼ 2 days vs prio
 - ✅ Sales fell in only 0 of the last 11 years with swings of ±34 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 32% a year earlier, 50% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 86 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.45 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 86 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +968% · gained strongly | +1239% · gained strongly |
+| last 5 years | +61% · gained strongly | +276% · gained strongly | +220% · gained strongly |
+| last 3 years | +154% · gained strongly | +309% · gained strongly | +195% · gained strongly |
+| last 1 year | -26% · lagged badly | +17% · gained | +21% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +268% ┤
+        │                                        ●╮
+        │◆┓                                     ╭╯╰╮
+  +186% ┤ ┗┓                                   ╭╯  │                             ◆┓
+        │  ┗┓                                ╭─╯   ╰╮                           ┏┛┗┓
+        │   ┗┓                              ╭╯      ╰╮                         ┏┛  ┗┓
+        │    ┗┓                            ╭╯        ╰╮                       ┏┛    ┗┓
+  +104% ┤     ┃                          ◆┓╯          ╰╮                 ●─╮ ┏┛  ■╗  ┗┓
+        │     ┗╔═■══╗                  ┏━●┗━━┓         ╰╮              ╭─╯ ╰┏┛╔══╝╚══╗┗┓
+        │   ╔══╝┓   ╚══╗              ┏┛╔■═╗ ┗┓         │             ╭╯   ┏┛╔╝ ╰●╮  ╚╗┗┓
+   +22% ┤■══╝   ┗┓   ┏━╚═■══╗       ┏╔══╝  ╚════╗┓      ╰╮           ╭╯   ╔══╝    ╰──╮╚══╗
+        │┈┈┈┈┈┈┈┈◆━━━┛┈┈┈┈┈┈╚══╗┈┈┏╔═╝┈┈┈┈┈┈┈┈┈┈╚■═══╗┈┈┈●─╮┈┈╔══■═══════■╝┈┈┈┈┈┈┈┈┈┈╰╮┈┈■┈┈
+        │                      ╚═■═╝╯                ╚═══■════╝─╮ ╭─╯                 ╰──╮
+        │                        ●╯                             ╰●╯                      ●
+   -60% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     -34.3   +80.4  +245.6   +0.4    -37.1  +108.9   +63.7   -25.6
+◆     +213.8   +5.2    +30.6   -4.4    +94.5   +10.9   -20.4   +15.7   +17.1  +197.9   +17.2
+■      +45.6   +86.3   +23.8   -3.7    +62.6   +16.0   -2.4    +10.9   +19.9  +102.8   +21.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`DIXON_stock_to_index.md`](DIXON_stock_to_index.md), with the same graph as [`DIXON_stock_to_index.svg`](DIXON_stock_to_index.svg) and [`DIXON_stock_to_index.mmd`](DIXON_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Government Dependency risk eases or deepens.
@@ -477,5 +530,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

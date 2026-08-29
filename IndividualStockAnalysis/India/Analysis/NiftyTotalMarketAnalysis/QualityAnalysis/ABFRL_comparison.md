@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Weak (30/100). Last one year: Mixed (47/100). The last year looks STRONGER than the long-term picture (+17 points) — the company has improved in the recent period.
+Long-term view: Weak (28/100). Last one year: Mixed (44/100). The last year looks STRONGER than the long-term picture (+16 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 39 | 48 | +9 |
 | Multibagger fit | 18 | 56 | +38 |
 | Risk safety | 28 | 36 | +8 |
+| Relative to the index | 15 | 17 | +2 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -123,6 +124,20 @@ Genuinely re-tested risk verdicts: 4 eased, 1 worsened, 3 unchanged. Financial r
 *Unchanged: Fashion Risk (HIGH RISK); Stakeholder Concentration (WATCH); Government Dependency (LOW).*
 
 **Financial resilience:** Strained on the long view (1 of the 3 stress checks is flagged — one warning light, not yet a pattern.) vs Stressed on the one-year view (2 of the 3 stress checks are flagged — multiple warning lights at once.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (15/100). Looking only at the latest year, it has **LAGGED the index badly** (17/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -88% · lagged badly | — | — |
+| last 5 years | -84% · lagged badly | +59% · gained strongly | -44% · lagged badly |
+| last 3 years | -81% · lagged badly | -792% · lagged badly | -65% · lagged badly |
+| last 1 year | -79% · lagged badly | -60% · lagged badly | -7% · moved with |
+
 
 ## How this comparison was built
 

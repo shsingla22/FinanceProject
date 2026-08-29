@@ -18,13 +18,14 @@ Aptus Value Housing Finance India Limited is an Indian lending company that give
 
 ## The verdict: Decent — 57 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (69/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 57 out of 100 — decent.
+In one breath: the quality framework finds a good business today (69/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (66/100). Weighing those together gives 57 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 69 (business quality) + 30% × 15 (multibagger fit) + 25% × 84 (risk safety) = 57 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 69 (business quality) + 27% × 15 (multibagger fit) + 22.5% × 84 (risk safety) + 10% × 66 (relative to the index) = 57 out of 100 → Decent (3 stars).
 
 - **Business quality (69/100):** The 34-check quality framework scored the business +0.74 on its −2 (poor) to +2 (excellent) scale, with 85% of checks backed by evidence; mapped onto 0–100 that is 69 points.
 - **Multibagger fit (15/100):** the foundation test did not pass (+0); 1 pattern fit strongly (Corporate Culture) (+15) → 15 of 100.
 - **Risk safety (84/100):** started from a clean 100; 4 worth watching (−16) → 84 of 100.
+- **Relative to the index (66/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
 
 ### The story in depth
 
@@ -372,6 +373,58 @@ The risk review is the most reassuring of the three at 84, with four channels ra
 - ⬜ Not enough sales history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 66 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +29% · gained strongly | +76% · gained strongly |
+| last 3 years | -40% · lagged badly | +19% · gained | +55% · gained strongly |
+| last 1 year | -33% · lagged badly | +10% · gained | +23% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +102% ┤
+        │                ◆┓
+        │◆━┓          ┏━━┛┗┓
+        │■╗┗━┓       ┏┛    ┗┓
+   +66% ┤ ╚═╗┗━━┓ ┏━━┛   ■═╗┗┓
+        │   ╚╗  ┗◆┛    ╔═╝ ╚═╗┓
+        │    ╚╗      ╔═╝     ╚══╗
+   +30% ┤     ╚╗    ╔╝         ┗╚■═╗
+        │      ╚═╗╔═╝           ┗┓ ╚══╗         ┏◆━━┓        ╔═══■═══════■
+        │        ■╝              ◆━┓  ╚═╗     ╔══■═══════■═══╝┏━━◆━━━━━━━◆
+    -7% ┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┗━━━━╚■════╝┈┈┈┈┈┈┈┈┗━◆━━━━┛┈┈┈┈┈┈┈┈┈┈┈┈┈
+        │                               ┗◆━┛          ╭─╯     ╰──●─╮
+        │                                          ╭──╯            ╰────╮
+        │                                        ●─╯                    ╰●
+   -43% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·       ·     -32.5   +1.7    -11.4   -33.1
+◆      +86.1   +54.8   +92.4   +5.2    -7.1    +17.2   -3.1    +11.2   +10.4
+■      +75.5   +13.3   +56.0   +30.7   +3.1    +10.6   +7.7    +16.9   +22.8
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`APTUS_stock_to_index.md`](APTUS_stock_to_index.md), with the same graph as [`APTUS_stock_to_index.svg`](APTUS_stock_to_index.svg) and [`APTUS_stock_to_index.mmd`](APTUS_stock_to_index.mmd).
+
 ## What to watch
 
 - Margin trend after the FY26 50-75 basis point home-loan rate cut — the Good Enough Goods risk and the PARTIAL Pricing Power verdict both hinge on whether the fall from 14.28% to about 12.8% keeps going and pulls return on assets below 8.2%.
@@ -387,5 +440,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

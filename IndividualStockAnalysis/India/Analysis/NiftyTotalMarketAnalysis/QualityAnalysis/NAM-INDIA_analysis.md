@@ -18,15 +18,16 @@ NAM-INDIA (Nippon Life India Asset Management) is an Indian asset manager — it
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 63 out of 100 ★★★☆☆
+## The verdict: Strong — 65 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Good Enough Goods). Weighing those together gives 63 out of 100 — decent.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Good Enough Goods). Against the Nifty 50 it has gained strongly on the index (77/100). Weighing those together gives 65 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 56 (multibagger fit) + 25% × 60 (risk safety) = 63 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 56 (multibagger fit) + 22.5% × 60 (risk safety) + 10% × 77 (relative to the index) = 65 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.78 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (56/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Corporate Culture) (+15); 2 likely (+16) → 56 of 100.
 - **Risk safety (60/100):** started from a clean 100; 2 elevated (−20); 5 worth watching (−20) → 60 of 100.
+- **Relative to the index (77/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.09 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 77 points.
 
 ### The story in depth
 
@@ -456,6 +457,58 @@ FY2026  ██████████                 10 days  ▬ 0 days vs pr
 
 - ✅ Customers pay in about 14 days (was 12) — no sign of weakening bargaining power in collection terms.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 77 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.09 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 77 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +8% · moved with | +35% · gained strongly |
+| last 5 years | +44% · gained strongly | -18% · lagged | +10% · moved with |
+| last 3 years | +187% · gained strongly | +34% · gained strongly | +72% · gained strongly |
+| last 1 year | +41% · gained strongly | +4% · moved with | +15% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +89% ┤
+        │                                                                ●╮
+        │                                                               ╭╯╰─╮
+        │                                                               │   ╰╮
+   +54% ┤                                ●╮                            ╭╯    ╰╮
+        │                               ╭╯╰╮     ■╗                    │      ╰╮        ╭●
+        │                              ╭╯  ╰─╮ ╔═╝╚═╗                 ╭╯ ■════╗╰─╮ ╭────╯
+   +18% ┤     ╔══■═══╗  ┏◆━┓          ╭╯     ╰╔╝    ╚╗               ╭╯╔═◆━━━┓╚══■═══════■
+        │■════╝    ┏━╚═══■══╗━━━┓   ╭─╯     ┏╔╝─╮    ╚╗             ╭╔═╝┛    ┗━━━◆━━━━━━━◆
+        │┈┈┈┈┈┗━━◆━┛┈┈┈┈┈┈┈┈╚══╗┗◆━━━┓┈┈┈┈┏━╔╝┈┈╰╮┈┈┈┈╚╗┈┈┈┈┈┈┈┈┈┈┈┏╔╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+   -17% ┤                      ╚═■════╗━━◆╔═╝    ●─────╚═●─╮ ┏━━━◆╔═╝
+        │                        ●╯   ╚══■╝              ■═══════■╝│
+        │                                                    ╰──╮ ╭╯
+        │                                                       ╰●╯
+   -53% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     -25.0   +46.3   -8.5    -12.1   -42.8   +79.3   +14.1   +40.5
+◆      +6.1    -4.3    +16.9   -1.3    -13.0   +36.3   -26.7   -16.2   +21.9   +5.3    +4.5
+■      +6.5    +13.2   +10.0   -13.3   -18.0   +38.4   -17.4   -22.8   +27.8   +17.8   +14.5
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NAM-INDIA_stock_to_index.md`](NAM-INDIA_stock_to_index.md), with the same graph as [`NAM-INDIA_stock_to_index.svg`](NAM-INDIA_stock_to_index.svg) and [`NAM-INDIA_stock_to_index.mmd`](NAM-INDIA_stock_to_index.mmd).
+
 ## What to watch
 
 - Fee realisation: yields have already fallen from about 37 basis points with guidance of a further 1-2 basis points per year (Pricing Power, NO FIT). Any acceleration beyond that guided pace would confirm the ELEVATED Good Enough Goods risk is outrunning growth in assets.
@@ -471,5 +524,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

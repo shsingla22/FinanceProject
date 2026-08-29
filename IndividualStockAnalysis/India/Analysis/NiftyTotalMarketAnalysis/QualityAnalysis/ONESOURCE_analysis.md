@@ -15,15 +15,16 @@ OneSource Specialty Pharma (formerly Stelis Biopharma, carved out of Strides and
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 55 out of 100 ★★★☆☆
+## The verdict: Decent — 54 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (63/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 55 out of 100 — decent.
+In one breath: the quality framework finds a good business today (63/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has moved with the index (45/100). Weighing those together gives 54 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 63 (business quality) + 30% × 41 (multibagger fit) + 25% × 56 (risk safety) = 55 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 63 (business quality) + 27% × 41 (multibagger fit) + 22.5% × 56 (risk safety) + 10% × 45 (relative to the index) = 54 out of 100 → Decent (3 stars).
 
 - **Business quality (63/100):** The 34-check quality framework scored the business +0.51 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 63 points.
 - **Multibagger fit (41/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Market Share Gainers) (+15); 2 likely (+16) → 41 of 100.
 - **Risk safety (56/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 1 worth watching (−4) → 56 of 100.
+- **Relative to the index (45/100):** Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored -0.20 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 45 points.
 
 ### The story in depth
 
@@ -417,6 +418,58 @@ FY2026  ███                       230 days  ▲ 50 days vs prior year
 - ✅ Operating margin (21%) remains near its historical peak (32%) — no collapse in the premium.
 - ✅ Operating margin held (about -274% then 2%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has MOVED WITH the index — 45 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 5 of 12 measure-and-window pairs the stored data could answer, the company scored -0.20 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 45 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +78% · gained strongly | — |
+| last 3 years | — | +94% · gained strongly | — |
+| last 1 year | -15% · lagged | -261% · lagged badly | -36% · lagged badly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +709% ┤
+        │                        ■╗
+        │                       ╔╝╚╗
+        │                      ╔╝  ╚╗
+  +449% ┤                     ╔╝    ╚╗
+        │                    ╔╝      ║
+        │                   ╔╝       ╚╗
+  +188% ┤                  ╔╝         ╚╗
+        │                 ╔╝ ┏━━━◆┓    ╚╗
+        │             ╔══■╝━━┛    ┗━┓   ╚╗
+   -73% ┼■═══════■════╝━┛┈┈┈┈┈┈┈┈┈┈┈┗━┓┈┈■┈┈
+        │   ┗━━┓   ┏━┛                ┗┓
+        │      ┗━◆━┛                   ┗━┓
+        │                                ◆
+  -333% ┤
+        └┬───────┬───────┬───────┬───────┬──
+       FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·       ·     -14.7
+◆      -27.9  -198.6   +61.1   +95.8  -261.3
+■      -1.4    -36.2   +55.1  +637.6   -35.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ONESOURCE_stock_to_index.md`](ONESOURCE_stock_to_index.md), with the same graph as [`ONESOURCE_stock_to_index.svg`](ONESOURCE_stock_to_index.svg) and [`ONESOURCE_stock_to_index.mmd`](ONESOURCE_stock_to_index.mmd).
+
 ## What to watch
 
 - Cash return on capital: the Return on Capital check is at 0% today; the test is whether the $100mn pen expansion (Capex for growth, scored +2) starts converting into operating cash as the 40mn-to-220mn unit capacity fills, or whether net debt keeps rising against flat revenue.
@@ -433,5 +486,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

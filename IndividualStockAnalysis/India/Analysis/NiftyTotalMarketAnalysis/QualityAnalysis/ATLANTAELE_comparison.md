@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: DECLINED in the last year 📉
 
-Long-term view: Decent (50/100). Last one year: Mixed (46/100). The last year looks WEAKER than the long-term picture (-4 points) — the company has declined in the recent period.
+Long-term view: Decent (55/100). Last one year: Decent (51/100). The last year looks WEAKER than the long-term picture (-4 points) — the company has declined in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 58 | 59 | +1 |
 | Multibagger fit | 33 | 25 | -8 |
 | Risk safety | 58 | 48 | -10 |
+| Relative to the index | 100 | 100 | +0 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -100,6 +101,20 @@ Genuinely re-tested risk verdicts: 0 eased, 2 worsened, 5 unchanged; 1 could not
 *Not comparable: Shifting Consumer Preferences (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Sound on the long view (none of the 2 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 2 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (100/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (100/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +957% · gained strongly | +437% · gained strongly |
+| last 3 years | — | +47% · gained strongly | +102% · gained strongly |
+| last 1 year | — | +49% · gained strongly | +75% · gained strongly |
+
 
 ## How this comparison was built
 

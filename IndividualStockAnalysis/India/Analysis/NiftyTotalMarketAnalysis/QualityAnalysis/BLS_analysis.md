@@ -14,15 +14,16 @@ BLS International is an Indian-listed outsourcing company that runs the paperwor
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 68 out of 100 ★★★★☆
+## The verdict: Strong — 69 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (67/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 68 out of 100 — strong.
+In one breath: the quality framework finds a good business today (67/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (82/100). Weighing those together gives 69 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 67 (business quality) + 30% × 78 (multibagger fit) + 25% × 58 (risk safety) = 68 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 67 (business quality) + 27% × 78 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 82 (relative to the index) = 69 out of 100 → Strong (4 stars).
 
 - **Business quality (67/100):** The 34-check quality framework scored the business +0.69 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 67 points.
 - **Multibagger fit (78/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 3 patterns fit strongly (Pricing Power, Forward Integrators, Market Share Gainers) (+45); 1 likely (+8) → 78 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 1 elevated (−10); 3 worth watching (−12) → 58 of 100.
+- **Relative to the index (82/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 82 points.
 
 ### The story in depth
 
@@ -444,6 +445,58 @@ FY2026  █████                      21 days  ▲ 1 day vs prior year
 - ✅ Operating margin held (about 9% then 26%) — no drift down under competition.
 - ✅ Growth is holding up: 1% a year earlier, 44% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 82 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +1.27 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 82 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +552% · gained strongly | +657% · gained strongly |
+| last 5 years | +523% · gained strongly | +431% · gained strongly | +899% · gained strongly |
+| last 3 years | +7% · moved with | +125% · gained strongly | +201% · gained strongly |
+| last 1 year | -40% · lagged badly | +18% · gained | +24% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +186% ┤
+        │                                                       ╭●╮
+        │                                                  ╭────╯ ╰─╮
+        │        ■═╗                                  ╭──●─╯        ╰╮
+  +117% ┤      ╔═╝ ╚════╗◆┓                      ●────╯              ╰╮
+        │     ╔╝      ┏━╚■╗━┓                   ╭╯       ■═══╗        ╰╮
+        │   ╔═╝    ┏━━┛   ╚╗┗━┓                ╭╯       ╔╝   ╚═══■════╗╰─╮   ╔═══■══╗
+   +48% ┤ ╔═╝ ┏━━◆━┛       ╚╗ ┗┓              ╭╯       ╔╝◆━━━┛      ┗━╚══■═══╝┏━━◆━┓╚══╗
+        │■╝━━━┛             ╚═╗┗━┓           ╭╯      ╔═╝┛              ┗━◆━━━━┛─╮  ┗━━━╚═■
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚╗┈◆━┓┈┈┈┈┈┈┈┈┈│┈┈┈┈┈┏╔╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╰●─╮┈┈┈┈┗◆┈┈
+   -20% ┤                      ╚╗●─┗━━┓     ╭╯ ┏━◆━╔╝                              ╰──╮
+        │                   ╭──╯╚╗ ╰─╮╔══■═══╗━┛  ╔╝                                  ╰─╮
+        │                ●──╯    ■════╝─┗◆━━┛╚═══■╝                                     ╰●
+        │                               ╰●╯
+   -89% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·     -41.2   -8.7    -70.0  +113.1  +118.4  +166.6   +50.9   +18.4   -40.1
+◆      +22.6   +52.0   +99.4   +0.2    -49.4   -20.0   +48.8   +58.5   +27.2   +50.1   +17.8
+■      +20.4  +119.3   +91.9   -44.5   -24.9   -56.8   +95.6   +69.5   +38.9   +74.5   +24.3
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BLS_stock_to_index.md`](BLS_stock_to_index.md), with the same graph as [`BLS_stock_to_index.svg`](BLS_stock_to_index.svg) and [`BLS_stock_to_index.mmd`](BLS_stock_to_index.mmd).
+
 ## What to watch
 
 - Contract re-tender outcomes on the named large mandates (State Bank of India correspondent work, Ministry of External Affairs, UIDAI) — the Government Dependency and Stakeholder Concentration risks turn on whether renewals hold at current terms.
@@ -459,5 +512,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

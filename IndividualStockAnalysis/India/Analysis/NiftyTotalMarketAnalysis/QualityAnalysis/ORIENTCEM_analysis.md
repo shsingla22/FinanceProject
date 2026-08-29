@@ -15,15 +15,16 @@ Orient Cement (ticker ORIENTCEM) is an Indian cement manufacturer: it mines lime
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Weak — 31 out of 100 ★☆☆☆☆
+## The verdict: Weak — 34 out of 100 ★☆☆☆☆
 
-In one breath: the quality framework finds an average business today (54/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Weighing those together gives 31 out of 100 — weak.
+In one breath: the quality framework finds an average business today (54/100); no winning pattern is strongly confirmed yet; the risk review found 3 high risks (Cyclicality, Government Dependency…). Against the Nifty 50 it has gained on the index (66/100). Weighing those together gives 34 out of 100 — weak.
 
-**The exact arithmetic:** Overall = 45% × 54 (business quality) + 30% × 11 (multibagger fit) + 25% × 12 (risk safety) = 31 out of 100 → Weak (1 star).
+**The exact arithmetic:** Overall = 40.5% × 54 (business quality) + 27% × 11 (multibagger fit) + 22.5% × 12 (risk safety) + 10% × 66 (relative to the index) = 34 out of 100 → Weak (1 star).
 
 - **Business quality (54/100):** The 34-check quality framework scored the business +0.14 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 54 points.
 - **Multibagger fit (11/100):** the foundation test did not pass (+0); 1 likely (+8); 1 numbers-only hint (+3) → 11 of 100.
 - **Risk safety (12/100):** started from a clean 100; 3 high risks (Cyclicality, Government Dependency, Good Enough Goods) (−60); 2 elevated (−20); the balance sheet shows one stress signal (−8) → 12 of 100.
+- **Relative to the index (66/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
 
 ### The story in depth
 
@@ -445,6 +446,57 @@ FY2026  ▒▒▒▒                      -24 days  ▼ 136 days vs prior year
 - ⚠️ Sales actually FELL in 4 of the last 11 years — revenue moves in cycles, it does not compound steadily.
 - ✅ Growth is holding up: 7% a year earlier, 4% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 66 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.62 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 66 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +52% · gained strongly | +3% · moved with |
+| last 5 years | — | -42% · lagged badly | -50% · lagged badly |
+| last 3 years | — | +74% · gained strongly | +23% · gained |
+| last 1 year | — | +226% · gained strongly | +78% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +273% ┤
+        │                ◆┓                                                              ◆
+        │               ┏┛┗┓                                                            ┏┛
+        │               ┃  ┗┓                                                          ┏┛
+  +159% ┤              ┏┛   ┗━┓                                                       ┏┛
+        │              ┃      ┗┓              ┏━━◆┓                                   ┃
+        │             ┏┛╔■═╗   ┗┓      ┏━◆━━━━┛   ┗━━┓                               ┏┛ ╔■
+   +46% ┤            ┏╔═╝  ╚═╗  ┗┓  ┏━━┛      ╔══■═╗ ┗┓                             ┏┛ ╔╝
+        │┈┈┈┈┈┈┈┈┈┈╔══╝┈┈┈┈┈┈╚══╗◆━━┛╔═══■════╝┈┈┈┈╚════╗┓┈┈┈┈┈┈┈┈┈┈┈┈┈╔═■══╗┈┈┈┈┈┈┏╔══╝┈┈┈┈
+        │     ╔══■═╝┃           ╚■═══╝                  ╚■═══╗      ╔══╝    ╚══╗  ┏╔╝
+   -67% ┤■════╝    ┏┛                                        ╚═══■══╝          ╚═■═╝
+        │◆━┓       ┃
+        │  ┗━━━━┓ ┏┛
+        │       ┗◆┛
+  -180% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -69.8  -148.7  +241.3   +1.0    +85.1  +104.6   -17.6   -59.7   +13.3   -52.9  +226.5
+■      -42.4   -4.5    +72.2   -18.4   +19.0   +30.3   -20.4   -49.3   +8.6    -36.5   +78.1
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ORIENTCEM_stock_to_index.md`](ORIENTCEM_stock_to_index.md), with the same graph as [`ORIENTCEM_stock_to_index.svg`](ORIENTCEM_stock_to_index.svg) and [`ORIENTCEM_stock_to_index.mmd`](ORIENTCEM_stock_to_index.mmd).
+
 ## What to watch
 
 - Cash return on capital turning positive from the current minus 2% — the single worst check, and the one that would most change the verdict.
@@ -460,5 +512,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

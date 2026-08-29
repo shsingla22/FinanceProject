@@ -13,15 +13,16 @@ JK Paper is an Indian paper manufacturer that makes and sells writing and printi
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 50 out of 100 ★★★☆☆
+## The verdict: Mixed — 47 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (53/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Cyclicality). Weighing those together gives 50 out of 100 — decent.
+In one breath: the quality framework finds an average business today (53/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Cyclicality). Against the Nifty 50 it has lagged the index badly (25/100). Weighing those together gives 47 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 53 (business quality) + 30% × 40 (multibagger fit) + 25% × 56 (risk safety) = 50 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 53 (business quality) + 27% × 40 (multibagger fit) + 22.5% × 56 (risk safety) + 10% × 25 (relative to the index) = 47 out of 100 → Mixed (2 stars).
 
 - **Business quality (53/100):** The 34-check quality framework scored the business +0.14 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 53 points.
 - **Multibagger fit (40/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Corporate Culture) (+15) → 40 of 100.
 - **Risk safety (56/100):** started from a clean 100; 1 high risk (Cyclicality) (−20); 2 elevated (−20); 1 worth watching (−4) → 56 of 100.
+- **Relative to the index (25/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 25 points.
 
 ### The story in depth
 
@@ -448,6 +449,57 @@ FY2026  ██████████████████████     6
 - ✅ Sales fell in only 2 of the last 11 years with swings of ±22 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 4% a year earlier, 21% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 25 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -1.00 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 25 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +37% · gained strongly | -18% · lagged |
+| last 5 years | — | -58% · lagged badly | -18% · lagged |
+| last 3 years | — | -86% · lagged badly | -62% · lagged badly |
+| last 1 year | — | -42% · lagged badly | -2% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +432% ┤
+        │◆┓
+        │ ┗━┓
+        │   ┗┓
+  +298% ┤    ┗━┓
+        │      ┗━┓
+        │        ◆━┓
+  +164% ┤          ┗┓
+        │           ┗━━┓
+        │              ┗┓                                     ┏━━◆━┓
+   +30% ┤■════╗         ┗◆━━━━━━━◆━━━━┓                ╔═■═══════■══╗━┓
+        │┈┈┈┈┈╚══■═══════■═══════■═══════■═══╗┈┈┈┈┈┈╔══╝┛┈┈┈┈┈┈┈┈┈┈┈╚══╗┓┈┈┈┈┈┈┈┈┈┈┈┈┈╔══■┈┈
+        │                                  ┗━╚═══■══╝━┛                ╚═■═══════■════╝━━◆
+        │                                       ┗◆━┛                          ┗━━◆━━━┛
+  -104% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     +395.2  +189.5   +56.0   +50.8   +12.5   -57.9   +53.8   +91.5   -25.3   -67.0   -41.5
+■      +45.4   +29.5   +20.4   +12.4   -2.7    -41.5   +31.5   +65.6   -29.1   -45.8   -1.9
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`JKPAPER_stock_to_index.md`](JKPAPER_stock_to_index.md), with the same graph as [`JKPAPER_stock_to_index.svg`](JKPAPER_stock_to_index.svg) and [`JKPAPER_stock_to_index.mmd`](JKPAPER_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the antidumping petitions against Indonesia, China and Chile succeed and the FTA review actually happens — the Government Dependency WATCH and the ELEVATED New Entrants risk both hinge on this, and management concedes the Indonesian cost advantage is otherwise permanent.
@@ -463,5 +515,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Weak (24/100). Last one year: Weak (34/100). The last year looks STRONGER than the long-term picture (+10 points) — the company has improved in the recent period.
+Long-term view: Weak (23/100). Last one year: Weak (32/100). The last year looks STRONGER than the long-term picture (+9 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 34 | 45 | +11 |
 | Multibagger fit | 10 | 10 | +0 |
 | Risk safety | 22 | 44 | +22 |
+| Relative to the index | 16 | 12 | -4 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -101,6 +102,20 @@ Genuinely re-tested risk verdicts: 3 eased, 0 worsened, 2 unchanged; 3 carried f
 *Unchanged: Cyclicality (HIGH RISK); Government Dependency (HIGH RISK).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index badly** (16/100). Looking only at the latest year, it has **LAGGED the index badly** (12/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +11% · gained | -36% · lagged badly |
+| last 5 years | — | -39% · lagged badly | -60% · lagged badly |
+| last 3 years | — | -20% · lagged | -42% · lagged badly |
+| last 1 year | — | -10% · lagged | -46% · lagged badly |
+
 
 ## How this comparison was built
 

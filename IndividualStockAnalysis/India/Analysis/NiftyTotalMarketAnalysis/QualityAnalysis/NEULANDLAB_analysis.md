@@ -14,15 +14,16 @@ Neuland Laboratories is an India-based maker of active pharmaceutical ingredient
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 65 out of 100 ★★★★☆
+## The verdict: Strong — 68 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (71/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Stakeholder Concentration). Weighing those together gives 65 out of 100 — strong.
+In one breath: the quality framework finds a good business today (71/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Cyclicality, Stakeholder Concentration). Against the Nifty 50 it has gained strongly on the index (94/100). Weighing those together gives 68 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 71 (business quality) + 30% × 56 (multibagger fit) + 25% × 64 (risk safety) = 65 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 71 (business quality) + 27% × 56 (multibagger fit) + 22.5% × 64 (risk safety) + 10% × 94 (relative to the index) = 68 out of 100 → Strong (4 stars).
 
 - **Business quality (71/100):** The 34-check quality framework scored the business +0.84 on its −2 (poor) to +2 (excellent) scale, with 85% of checks backed by evidence; mapped onto 0–100 that is 71 points.
 - **Multibagger fit (56/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Corporate Culture) (+15); 2 likely (+16) → 56 of 100.
 - **Risk safety (64/100):** started from a clean 100; 2 elevated (−20); 4 worth watching (−16) → 64 of 100.
+- **Relative to the index (94/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 94 points.
 
 ### The story in depth
 
@@ -425,6 +426,58 @@ FY2026  ██████████████████████    21
 - ✅ Sales fell in only 2 of the last 11 years with swings of ±15 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 12% a year earlier, 17% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 94 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 94 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +459% · gained strongly | +276% · gained strongly | +155% · gained strongly |
+| last 5 years | +251% · gained strongly | +65% · gained strongly | +97% · gained strongly |
+| last 3 years | +402% · gained strongly | +41% · gained strongly | +74% · gained strongly |
+| last 1 year | +1% · moved with | +23% · gained | +73% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +435% ┤
+        │                                        ●╮
+        │                                       ╭╯╰╮
+  +299% ┤                                       │◆┓│
+        │                                      ╭┏┛┗┓╮
+        │                                     ╭┏┛  ┗┓
+        │                                    ╭┏┛    ┗┓
+  +162% ┤                                    ┏┛      ┃╮                 ╭●─╮
+        │●────╮                             ┏┛       ┗┓╮        ┏◆━━┓───╯  ╰────╮
+        │     ╰──●╮                     ╔■═══╗        ┗┓       ┏┛●─╯┗━━┓        ╰●─╮    ╔■
+   +25% ┤◆━━━╔═══■══╗╮             ╔════╝ ┏┛ ╚═══■══╗  ┗┓   ┏━━╔═■═══════■══╗      ╰─╔══╝
+        │■═══╝┈┈┈┈┈┗╚══╗┈┈┈┈┈┈╔══■═╝━━━━━◆┛╯┈┈┈┈┈┈┈┈╚══╗┗┓┈┏╔══╝┈┈┈┈┈┈┈┈┈┈┈┈╚══╗┈┈┈╔═╝┏━━◆┈┈
+        │            ┗━╚═■════╝━┛●───────●╯            ╚═■══╝╯                 ╚═■═╝━━┛
+        │               ┗◆━┛─╯                           ●╯
+  -111% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●     +120.3   +79.3   -58.8   -20.9   -45.2  +397.6   -57.9   +66.0  +180.1   +77.4   +1.0
+◆      +60.1   +64.1   -73.8   +23.5   +2.1   +321.0   -47.1  +121.0   +45.6   -21.5   +23.0
+■      +13.5   +31.4   -51.5   -9.0    +70.6   +30.5   -27.3   +55.6   +49.7   -32.5   +72.6
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`NEULANDLAB_stock_to_index.md`](NEULANDLAB_stock_to_index.md), with the same graph as [`NEULANDLAB_stock_to_index.svg`](NEULANDLAB_stock_to_index.svg) and [`NEULANDLAB_stock_to_index.mmd`](NEULANDLAB_stock_to_index.mmd).
+
 ## What to watch
 
 - Customer and molecule concentration (Stakeholder Concentration, elevated): whether contract-manufacturing revenue stays dependent on a handful of molecules after running at over two-thirds of Q4FY26, or the widening project pipeline and 8-10 peptide programmes genuinely broaden the base.
@@ -440,5 +493,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

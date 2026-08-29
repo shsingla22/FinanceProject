@@ -17,15 +17,16 @@ Tata Capital is an Indian non-banking finance company (NBFC) that lends money �
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 59 out of 100 ★★★☆☆
+## The verdict: Decent — 62 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (55/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 59 out of 100 — decent.
+In one breath: the quality framework finds an average business today (55/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained strongly on the index (88/100). Weighing those together gives 62 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 55 (business quality) + 30% × 45 (multibagger fit) + 25% × 84 (risk safety) = 59 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 55 (business quality) + 27% × 45 (multibagger fit) + 22.5% × 84 (risk safety) + 10% × 88 (relative to the index) = 62 out of 100 → Decent (3 stars).
 
 - **Business quality (55/100):** The 34-check quality framework scored the business +0.20 on its −2 (poor) to +2 (excellent) scale, with 82% of checks backed by evidence; mapped onto 0–100 that is 55 points.
 - **Multibagger fit (45/100):** the foundation test did not pass (+0); 3 patterns fit strongly (Low Price Plus, Market Share Gainers, Corporate Culture) (+45) → 45 of 100.
 - **Risk safety (84/100):** started from a clean 100; 4 worth watching (−16) → 84 of 100.
+- **Relative to the index (88/100):** Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +1.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 88 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -354,6 +355,57 @@ In one breath: the quality framework finds an average business today (55/100); i
 - ⬜ Not enough margin history.
 - ⬜ Insufficient sales history.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 88 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 6 of 12 measure-and-window pairs the stored data could answer, the company scored +1.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 88 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | +44% · gained strongly | +98% · gained strongly |
+| last 3 years | — | +5% · moved with | +46% · gained strongly |
+| last 1 year | — | +18% · gained | +33% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +45% ┤
+        │        ■╗
+        │       ╔╝╚╗
+        │       ║  ╚╗                    ■
+   +30% ┤      ╔╝  ┗╚╗                 ╔═╝
+        │     ╔╝    ┃║                ╔╝
+        │    ╔╝     ┗╚╗              ╔╝  ◆
+   +15% ┤   ╔╝       ┗╚╗            ╔╝ ┏━┛
+        │  ╔╝         ┗╚╗         ╔═╝┏━┛
+        │  ║           ┃╚╗    ╔══■╝ ┏┛
+    +1% ┤ ╔╝           ┗┓■════╝   ┏━┛
+        │■╝┈┈┈┈┈┈┈┈┈┈┈┈┈┃┈┈┈┈┈┈┈┏◆┛┈┈┈┈┈┈┈┈┈
+        │               ┗┓ ┏━━━━┛
+        │                ◆━┛
+   -14% ┤
+        └┬───────┬───────┬───────┬───────┬──
+       FY22    FY23    FY24    FY25    FY26
+
+◆      -3.1    +41.0   -10.1   -0.5    +17.6
+■      -2.3    +39.3   +2.5    +6.6    +33.4
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`TATACAP_stock_to_index.md`](TATACAP_stock_to_index.md), with the same graph as [`TATACAP_stock_to_index.svg`](TATACAP_stock_to_index.svg) and [`TATACAP_stock_to_index.mmd`](TATACAP_stock_to_index.mmd).
+
 ## What to watch
 
 - No elevated risks today; watch that it stays that way.
@@ -365,5 +417,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

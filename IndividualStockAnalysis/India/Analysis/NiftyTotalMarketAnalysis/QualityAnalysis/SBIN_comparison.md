@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: HELD STEADY in the last year ➡️
 
-Long-term view: Strong (69/100). Last one year: Strong (70/100). The last year looks in line with the long-term picture (+1 points) — the company has held steady in the recent period.
+Long-term view: Strong (70/100). Last one year: Strong (69/100). The last year looks in line with the long-term picture (-1 points) — the company has held steady.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 61 | 65 | +4 |
 | Multibagger fit | 85 | 85 | +0 |
 | Risk safety | 64 | 60 | -4 |
+| Relative to the index | 75 | 58 | -17 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -85,6 +86,20 @@ Genuinely re-tested risk verdicts: 0 eased, 1 worsened, 6 unchanged; 1 could not
 *Not comparable: Fashion Risk (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED STRONGLY on the index** (75/100). Looking only at the latest year, it has **GAINED on the index** (58/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +65% · gained strongly | +86% · gained strongly | +15% · gained |
+| last 5 years | +64% · gained strongly | +33% · gained strongly | +44% · gained strongly |
+| last 3 years | +41% · gained strongly | -5% · moved with | -49% · lagged badly |
+| last 1 year | +29% · gained strongly | -5% · moved with | -24% · lagged |
+
 
 ## How this comparison was built
 

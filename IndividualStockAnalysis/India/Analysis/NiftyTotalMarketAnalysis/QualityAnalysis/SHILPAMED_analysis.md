@@ -16,15 +16,16 @@ Shilpa Medicare is an Indian pharmaceutical company, headquartered in Raichur, K
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 56 out of 100 ★★★☆☆
+## The verdict: Decent — 57 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Stakeholder Concentration). Weighing those together gives 56 out of 100 — decent.
+In one breath: the quality framework finds an average business today (61/100); it strongly fits 1 of the 11 patterns long-term winners share; the main risks are elevated but not severe (Stakeholder Concentration). Against the Nifty 50 it has gained on the index (61/100). Weighing those together gives 57 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 41 (multibagger fit) + 25% × 66 (risk safety) = 56 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 41 (multibagger fit) + 22.5% × 66 (risk safety) + 10% × 61 (relative to the index) = 57 out of 100 → Decent (3 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.44 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 61 points.
 - **Multibagger fit (41/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Innovation Dominance) (+15); 2 likely (+16) → 41 of 100.
 - **Risk safety (66/100):** started from a clean 100; 1 elevated (−10); 4 worth watching (−16); the balance sheet shows one stress signal (−8) → 66 of 100.
+- **Relative to the index (61/100):** Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.43 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 61 points.
 
 ### The story in depth
 
@@ -447,6 +448,57 @@ FY2026  ████████████████          301 days  ▼ 
 
 - ✅ Growth is holding up: 7% a year earlier, 11% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 61 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 7 of 12 measure-and-window pairs the stored data could answer, the company scored +0.43 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 61 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -31% · lagged badly | -0% · moved with |
+| last 5 years | — | -39% · lagged badly | +20% · gained |
+| last 3 years | — | — | +261% · gained strongly |
+| last 1 year | — | +174% · gained strongly | +36% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +208% ┤
+        │                                                                ◆━┓            ┏◆
+        │                                                               ┏┛ ┗━━━━┓  ┏━━━━┛
+        │                                                               ┃       ┗◆━┛
+  +114% ┤                                                              ┏┛■═╗
+        │                                                              ┃╔╝ ╚═╗
+        │                              ┏╔■═╗                          ╔═╝    ╚══╗    ╔═══■
+   +19% ┤■═══════■═══╗              ┏━╔═╝  ╚═╗                       ╔╝         ╚■═══╝
+        │┈┈┈┈┗━━━◆━━━╚═══■════╗━━◆━╔══╝┈┈┈┈┈┈╚══╗┈┈┈┈╔═══■══╗┈┈┈┈┈┈╔═╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+        │                     ╚══■═╝            ╚■═══╝      ╚══╗  ╔╝┃
+   -75% ┤                                            ┗━━━◆━┓   ╚═■╝┏┛
+        │                                                  ┗━┓     ┃
+        │                                                    ┗━━┓ ┏┛
+        │                                                       ┗◆┛
+  -170% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      +28.7   -1.0    +1.8    -1.1    +43.9   -21.7   -72.0  -143.8  +182.2  +120.9  +173.8
+■      +12.8   +7.0    -5.4    -23.6   +43.5   -25.1   -17.1   -59.8  +113.0   +24.8   +35.6
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`SHILPAMED_stock_to_index.md`](SHILPAMED_stock_to_index.md), with the same graph as [`SHILPAMED_stock_to_index.svg`](SHILPAMED_stock_to_index.svg) and [`SHILPAMED_stock_to_index.mmd`](SHILPAMED_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the 301-day cash cycle and 0.42 asset turn start shortening as the new peptide, ADC and albumin blocks fill up — the Cost of working capital and Asset turn checks are what hold Return on Capital and Capital Allocation at zero.
@@ -462,5 +514,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

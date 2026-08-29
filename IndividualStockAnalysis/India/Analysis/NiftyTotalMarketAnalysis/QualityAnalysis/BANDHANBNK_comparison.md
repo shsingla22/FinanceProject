@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (46/100). Last one year: Mixed (49/100). The last year looks STRONGER than the long-term picture (+3 points) — the company has improved in the recent period.
+Long-term view: Mixed (45/100). Last one year: Mixed (49/100). The last year looks STRONGER than the long-term picture (+4 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 45 | 50 | +5 |
 | Multibagger fit | — | — | — |
 | Risk safety | 48 | 48 | +0 |
+| Relative to the index | 39 | 50 | +11 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -89,6 +90,20 @@ Genuinely re-tested risk verdicts: 0 eased, 0 worsened, 4 unchanged; 2 carried f
 *Not comparable: New Entrants (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view); Fashion Risk (NOT ASSESSED → NOT ASSESSED — could not be assessed on either view).*
 
 **Financial resilience:** Unknown on the long view (none of the stress checks could be computed.) vs Unknown on the one-year view (none of the stress checks could be computed.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **LAGGED the index** (39/100). Looking only at the latest year, it has **MOVED WITH the index** (50/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +76551% · gained strongly | — |
+| last 5 years | -75% · lagged badly | -67% · lagged badly | -82% · lagged badly |
+| last 3 years | -46% · lagged badly | +1281% · gained strongly | — |
+| last 1 year | -2% · moved with | +8% · moved with | -9% · moved with |
+
 
 ## How this comparison was built
 

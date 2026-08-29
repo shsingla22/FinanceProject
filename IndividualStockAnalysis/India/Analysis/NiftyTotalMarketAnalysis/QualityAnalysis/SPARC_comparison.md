@@ -108,6 +108,10 @@ Genuinely re-tested risk verdicts: 1 eased, 1 worsened, 3 unchanged; 2 carried f
 
 **Financial resilience:** Sound on the long view (the only stress check that could be computed is clean.) vs Sound on the one-year view (the only stress check that could be computed is clean.)
 
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+The stored history is too short to compare this company with the index over any window.
+
 ## How this comparison was built
 
 Both sides ran the same three analysis engines (BusinessAnalysis, MultibaggerPattern, QualityRisks) through their respective orchestrators:

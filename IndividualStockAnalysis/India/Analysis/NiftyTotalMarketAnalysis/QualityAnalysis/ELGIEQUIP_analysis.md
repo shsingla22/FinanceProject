@@ -22,15 +22,16 @@ Elgi Equipments is an Indian engineering company, founded in 1960 and based in C
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Strong — 73 out of 100 ★★★★☆
+## The verdict: Strong — 72 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (72/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Weighing those together gives 73 out of 100 — strong.
+In one breath: the quality framework finds a good business today (72/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (69/100). Weighing those together gives 72 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 72 (business quality) + 30% × 64 (multibagger fit) + 25% × 84 (risk safety) = 73 out of 100 → Strong (4 stars).
+**The exact arithmetic:** Overall = 40.5% × 72 (business quality) + 27% × 64 (multibagger fit) + 22.5% × 84 (risk safety) + 10% × 69 (relative to the index) = 72 out of 100 → Strong (4 stars).
 
 - **Business quality (72/100):** The 34-check quality framework scored the business +0.88 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 72 points.
 - **Multibagger fit (64/100):** the foundation test partly passed (+10); 2 patterns fit strongly (Forward Integrators, Corporate Culture) (+30); 3 likely (+24) → 64 of 100.
 - **Risk safety (84/100):** started from a clean 100; 4 worth watching (−16) → 84 of 100.
+- **Relative to the index (69/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 69 points.
 
 ### The story in depth
 
@@ -459,6 +460,58 @@ FY2026  ███████████████████       114 days
 - ✅ Sales fell in only 1 of the last 11 years with swings of ±10 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 7% a year earlier, 15% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 69 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +0.75 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 69 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +135% · gained strongly | +135% · gained strongly | +61% · gained strongly |
+| last 5 years | +49% · gained strongly | +54% · gained strongly | +34% · gained strongly |
+| last 3 years | -20% · lagged | -27% · lagged badly | +9% · moved with |
+| last 1 year | -2% · moved with | +8% · moved with | +9% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +144% ┤
+        │                                        ●╮
+        │                                       ╭╯╰╮
+        │                                       │◆┓╰╮
+   +90% ┤                                      ╭┏┛┗━┓─╮         ┏◆┓
+        │                                     ╭╯┃   ┗┓╰╮       ┏┛ ┗┓
+        │                                    ╭╯┏┛    ┗━┓╮   ┏━━┛─●─┗┓
+   +36% ┤■═╗    ┏◆━━━━━━━◆━┓                 │┏┛ ■═╗   ┗━┓ ┏┛──╯   ╰┗┓
+        │  ╚════╗  ╰─╔═══■══╗━━━┓           ╭┏╔══╝ ╚════╗◆━┛╯╔═══■════╗┓╮
+        │◆━┛─╯┈┈╚■═══╝┈┈╰●──╚══╗┗◆┓┈┈┈┈┈┈┈┈╭┏╔╝┈┈┈┈┈┈┈┈┈╚■═══╝┈┈┈┈┈┈┈┈╚══■═══════■═══════■┈┈
+   -18% ┤●─╯                 ╰─╚═■════╗   ╔══╝                          ┗┓ ┏━━━━┛  ╭────╯
+        │                           ╰┗╚══■╝┃                             ◆━┛    ╰●─╯
+        │                             ┗━━●┏┛
+        │                                ◆┛
+   -72% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -8.6    +39.1   +1.9    -12.3   -44.9  +129.4   +25.4   +48.4   +9.7    -25.6   -1.7
+◆      +0.8    +36.8   +32.0   +0.4    -57.4   +97.3   +16.9   +79.7   -33.0   +1.6    +8.0
+■      +34.2   +10.1   +27.2   -12.8   -31.0   +42.4   +2.0    +20.4   -0.8    +1.7    +8.5
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`ELGIEQUIP_stock_to_index.md`](ELGIEQUIP_stock_to_index.md), with the same graph as [`ELGIEQUIP_stock_to_index.svg`](ELGIEQUIP_stock_to_index.svg) and [`ELGIEQUIP_stock_to_index.mmd`](ELGIEQUIP_stock_to_index.mmd).
+
 ## What to watch
 
 - The 114-day cash cycle and the 0.4 capital-allocation score — whether owning more distribution keeps absorbing cash, or whether the net-cash, 100%-cash-conversion discipline holds as the Forward Integrators strategy widens.
@@ -474,5 +527,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

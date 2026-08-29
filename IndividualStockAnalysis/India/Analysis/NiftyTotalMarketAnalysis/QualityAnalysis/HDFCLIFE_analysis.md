@@ -23,15 +23,16 @@ HDFC Life is an Indian life insurance company that sells long-term savings and p
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 55 out of 100 ★★★☆☆
+## The verdict: Decent — 53 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (67/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 55 out of 100 — decent.
+In one breath: the quality framework finds a good business today (67/100); it strongly fits 2 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has lagged the index (30/100). Weighing those together gives 53 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 67 (business quality) + 30% × 55 (multibagger fit) + 25% × 34 (risk safety) = 55 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 67 (business quality) + 27% × 55 (multibagger fit) + 22.5% × 34 (risk safety) + 10% × 30 (relative to the index) = 53 out of 100 → Decent (3 stars).
 
 - **Business quality (67/100):** The 34-check quality framework scored the business +0.69 on its −2 (poor) to +2 (excellent) scale, with 97% of checks backed by evidence; mapped onto 0–100 that is 67 points.
 - **Multibagger fit (55/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 patterns fit strongly (Recurring Revenue (Product Upfront), Corporate Culture) (+30) → 55 of 100.
 - **Risk safety (34/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 3 elevated (−30); 1 worth watching (−4); 1 numbers-only flag (−4); the balance sheet shows one stress signal (−8) → 34 of 100.
+- **Relative to the index (30/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 30 points.
 
 ## Section 1 — How good is the business? (34-check quality framework)
 
@@ -440,6 +441,58 @@ FY2026  █                           0 days  ▬ 0 days vs prior year
 
 - ⚠️ Growth has stalled: sales compounded at 17% a year in the first half of the record but only 7% recently — demand may be structurally fading.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 30 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored -0.82 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 30 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -35% · lagged badly | -35% · lagged badly |
+| last 5 years | -48% · lagged badly | -49% · lagged badly | -29% · lagged badly |
+| last 3 years | -11% · lagged | -11% · lagged | +1698% · gained strongly |
+| last 1 year | -13% · lagged | -7% · moved with | +68% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +669% ┤
+        │                                                                ■╗
+        │                                                               ╔╝╚╗
+        │                                                               ║  ║
+  +465% ┤                                                              ╔╝  ╚╗
+        │                                                              ║    ╚╗
+        │                                                             ╔╝     ╚╗
+  +261% ┤                                                            ╔╝       ╚╗
+        │                                                           ╔╝         ╚╗
+        │                                                           ║           ║
+   +56% ┤                                                          ╔╝           ╚╗   ╔═══■
+        │■═══════■═══════■═══╗━━━◆━━━━━━━◆━━━┓╔══■═══╗┈┈┈┈┈┈┈┈┈┈┈┈┈║┈┈╭──●────┏━━■═══╝┈┈┈┈┈┈
+        │                    ╚═══■═══════■════╝━━◆━━━╚═══■════╗━━◆╔╝━━━━━◆━━━━┛      ┗━━━◆
+        │                                                     ╚══■╝
+  -148% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     -25.3   +41.5   +6.3    -33.9   -12.2   +1.4    +0.6    -12.7
+◆      -1.4    +2.3    +28.3   +6.9    +3.6    -12.7   -34.7   -11.1   -8.4    +4.3    -7.2
+■      +3.7    +1.2    +11.3   -9.5    -8.9    -2.0    -53.2   -91.6  +612.6   +50.2   +68.0
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`HDFCLIFE_stock_to_index.md`](HDFCLIFE_stock_to_index.md), with the same graph as [`HDFCLIFE_stock_to_index.svg`](HDFCLIFE_stock_to_index.svg) and [`HDFCLIFE_stock_to_index.mmd`](HDFCLIFE_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the Government Dependency risk eases or deepens.
@@ -454,5 +507,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

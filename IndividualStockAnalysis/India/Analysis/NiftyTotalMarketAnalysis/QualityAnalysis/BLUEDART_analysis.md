@@ -17,15 +17,16 @@ Blue Dart Express is an Indian courier and express delivery company: it picks up
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 57 out of 100 ★★★☆☆
+## The verdict: Decent — 53 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (60/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 57 out of 100 — decent.
+In one breath: the quality framework finds an average business today (60/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has lagged the index badly (15/100). Weighing those together gives 53 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 60 (business quality) + 30% × 33 (multibagger fit) + 25% × 80 (risk safety) = 57 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 60 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 80 (risk safety) + 10% × 15 (relative to the index) = 53 out of 100 → Decent (3 stars).
 
 - **Business quality (60/100):** The 34-check quality framework scored the business +0.41 on its −2 (poor) to +2 (excellent) scale, with 82% of checks backed by evidence; mapped onto 0–100 that is 60 points.
 - **Multibagger fit (33/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 likely (+8) → 33 of 100.
 - **Risk safety (80/100):** started from a clean 100; 5 worth watching (−20) → 80 of 100.
+- **Relative to the index (15/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.42 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 15 points.
 
 ### The story in depth
 
@@ -425,6 +426,58 @@ FY2026  ████████████████████       55 da
 - ✅ Growth is holding up: 6% a year earlier, 13% recently — no structural stall.
 - ✅ Operating margin (15%) remains near its historical peak (23%) — no collapse in the premium.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index badly — 15 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored -1.42 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 15 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | -74% · lagged badly | -65% · lagged badly | -18% · lagged |
+| last 5 years | -48% · lagged badly | -11% · lagged | -31% · lagged badly |
+| last 3 years | -42% · lagged badly | -58% · lagged badly | -17% · lagged |
+| last 1 year | -22% · lagged | -14% · lagged | +7% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +338% ┤
+        │                                        ◆┓
+        │                                       ┏┛┗━━┓
+        │                                       ┃    ┗┓
+  +208% ┤                                      ┏┛     ┗━━┓
+        │                                      ┃         ◆┓
+        │                                     ┏┛          ┗━┓
+   +77% ┤■═╗                            ╔■═══╗┛ ╭●─╮        ┗┓
+        │◆━╚══╗                      ╔══╝   ┏╚═══■════╗─╮    ┗━┓
+        │●──┗━╚═╗┈┈┈┈┈╔══■═══╗╭──●─╔═╝┈┈┈┈┈╭┃╯┈┈┈┈┈┈┈┈╚══■═══╗─┗━●───╮┈┈┈┈┈┈┈┈╔══■═══════■┈┈
+   -53% ┤    ╰─┗╚■════╝──●───╚═══■═╝ ╰───●─┏┛                ╚═══■═══════■════╝━━◆━━━━┛──●
+        │                          ┗━┓     ┃
+        │                            ┗━━┓ ┏┛
+        │                               ┗◆┛
+  -184% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      -13.6   -27.4   -37.3   -12.8   -27.1   +70.8   +5.3    -14.3   -20.5   -7.8    -21.6
+◆      +44.9   -33.0   +6.5    -42.5  -147.7  +302.0  +151.0   -16.3   -35.4   -24.1   -13.9
+■      +72.3   -16.4   +3.7    -35.0   +61.1   +30.8   +8.2    -23.0   -19.7   -3.1    +6.9
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`BLUEDART_stock_to_index.md`](BLUEDART_stock_to_index.md), with the same graph as [`BLUEDART_stock_to_index.svg`](BLUEDART_stock_to_index.svg) and [`BLUEDART_stock_to_index.mmd`](BLUEDART_stock_to_index.mmd).
+
 ## What to watch
 
 - Realisation per kg: whether the January price increase plus ground mix stops leaving realisation flat — this is the single negative check (Pricing, Mix and Volume) and the ceiling on the Pricing Power pattern.
@@ -440,5 +493,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

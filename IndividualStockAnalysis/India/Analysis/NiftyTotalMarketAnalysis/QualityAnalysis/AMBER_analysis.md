@@ -13,15 +13,16 @@ Amber Enterprises India Limited is an Indian contract manufacturer that builds f
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Mixed — 45 out of 100 ★★☆☆☆
+## The verdict: Mixed — 48 out of 100 ★★☆☆☆
 
-In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 45 out of 100 — mixed.
+In one breath: the quality framework finds an average business today (52/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained on the index (73/100). Weighing those together gives 48 out of 100 — mixed.
 
-**The exact arithmetic:** Overall = 45% × 52 (business quality) + 30% × 33 (multibagger fit) + 25% × 48 (risk safety) = 45 out of 100 → Mixed (2 stars).
+**The exact arithmetic:** Overall = 40.5% × 52 (business quality) + 27% × 33 (multibagger fit) + 22.5% × 48 (risk safety) + 10% × 73 (relative to the index) = 48 out of 100 → Mixed (2 stars).
 
 - **Business quality (52/100):** The 34-check quality framework scored the business +0.08 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 52 points.
 - **Multibagger fit (33/100):** the foundation test partly passed (+10); 1 pattern fit strongly (Corporate Culture) (+15); 1 likely (+8) → 33 of 100.
 - **Risk safety (48/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 3 worth watching (−12) → 48 of 100.
+- **Relative to the index (73/100):** Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 73 points.
 
 ### The story in depth
 
@@ -448,6 +449,58 @@ FY2026  ██████████████████████     5
 - ✅ Sales fell in only 3 of the last 11 years with swings of ±28 points — no pronounced boom-and-bust signature in revenue.
 - ✅ Growth is holding up: 16% a year earlier, 32% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 73 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 11 of 12 measure-and-window pairs the stored data could answer, the company scored +0.91 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 73 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +163% · gained strongly | +166% · gained strongly |
+| last 5 years | +20% · gained | -0% · moved with | +91% · gained strongly |
+| last 3 years | +170% · gained strongly | -13% · lagged | +68% · gained strongly |
+| last 1 year | -8% · moved with | -21% · lagged | +15% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +210% ┤
+        │                ◆┓
+        │               ┏┛┗┓
+        │               ┃  ┗┓
+  +138% ┤              ┏┛   ┗━┓
+        │             ┏┛      ┗┓
+        │            ┏┛        ┗┓      ┏━◆┓──────●╮                          ╭───●╮
+   +66% ┤           ┏┛          ┗┓  ┏━━┛╭╯┗┓      ╰─╮                    ●───╯   ◆┓─╮
+        │          ┏┛  ╔═■═╗     ◆━━┛ ╭─╔■═╗┓       ╰─╮                ╭─╯     ╔═■════╗
+        │          ┃╔══╝   ╚═╗       ╭╔═╝  ╚╗┓        ╰╮        ╔■═══╗╭╯    ╔══╝     ┗╚══■
+    -6% ┼■═══════■══╝┈┈┈┈┈┈┈┈╚══╗┈┈╔══╝┈┈┈┈┈╚══╗┈┈┈┈┈┈┈╰─╮┈╔════╝┈┈┗━╚═══■══╝━┛┈┈┈┈┈┈┈┗━━┓┈┈
+        │◆━━━━━━━◆┛             ╚■═╝           ╚╗     ╔══■═╝        ╭╯┗━┓ ┏━┛            ◆
+        │                        ●╯             ╚■════╝━┛  ╰────╮ ╭─╯   ┗◆┛
+        │                                        ◆━┛            ╰●╯
+   -78% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●        ·       ·       ·     -31.2   +82.1   +81.6   -9.1    -51.0   +60.2   +83.1   -7.9
+◆      -21.5   -13.6  +189.7   +41.9   +76.3   -57.9   -10.4   +27.4   -32.5   +63.6   -20.9
+■      +6.3    +14.0   +41.5   -6.9    +41.8   -34.6   -8.7    +24.6   +2.7    +41.5   +15.4
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`AMBER_stock_to_index.md`](AMBER_stock_to_index.md), with the same graph as [`AMBER_stock_to_index.svg`](AMBER_stock_to_index.svg) and [`AMBER_stock_to_index.mmd`](AMBER_stock_to_index.mmd).
+
 ## What to watch
 
 - Return on capital: whether the heavy spend behind the 'Capex for growth' check finally lifts the 3% cash return and delivers the 19-21% ROCE that has been repeatedly deferred
@@ -463,5 +516,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

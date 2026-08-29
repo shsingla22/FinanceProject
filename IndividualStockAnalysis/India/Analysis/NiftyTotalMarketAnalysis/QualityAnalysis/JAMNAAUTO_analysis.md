@@ -6,13 +6,14 @@
 
 ## The verdict: Decent — 60 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Weighing those together gives 60 out of 100 — decent.
+In one breath: the quality framework finds an average business today (61/100); no winning pattern is strongly confirmed yet; the risk review found nothing severe. Against the Nifty 50 it has gained on the index (62/100). Weighing those together gives 60 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 61 (business quality) + 30% × 25 (multibagger fit) + 25% × 100 (risk safety) = 60 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 61 (business quality) + 27% × 25 (multibagger fit) + 22.5% × 100 (risk safety) + 10% × 62 (relative to the index) = 60 out of 100 → Decent (3 stars).
 
 - **Business quality (61/100):** The 34-check quality framework scored the business +0.42 on its −2 (poor) to +2 (excellent) scale, with 21% of checks backed by evidence; mapped onto 0–100 that is 61 points. Caution: only 21% of the 34 checks could be answered from this evidence — a thin base; the full analysis (with the conference calls) firms this up.
 - **Multibagger fit (25/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); no pattern found meaningful support (+0) → 25 of 100.
 - **Risk safety (100/100):** started from a clean 100; no risk channel cost any points → 100 of 100. Caution: only 0 of the 8 risk channels could be tested on this evidence — treat this as provisional, not a clean bill of health.
+- **Relative to the index (62/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
 
 ### The story in depth
 
@@ -300,6 +301,57 @@ FY2026  ████████                   37 days  ▼ 51 days vs prior
 - ✅ Operating margin (15%) remains near its historical peak (16%) — no collapse in the premium.
 - ✅ Operating margin held (about 13% then 14%) — no drift down under competition.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED on the index — 62 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored +0.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 62 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -10% · lagged | -15% · lagged |
+| last 5 years | — | +16% · gained | +48% · gained strongly |
+| last 3 years | — | -13% · lagged | +24% · gained |
+| last 1 year | — | +13% · gained | +28% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +152% ┤
+        │◆┓
+        │ ┗━┓
+        │   ┗┓
+   +94% ┤    ┗┓
+        │■═╗  ┗┓
+        │  ╚══╗┗━┓
+   +36% ┤     ╚═╗◆━━━┓                                ┏━━◆━┓                            ╔■
+        │       ╚■═══════■══╗━┓                  ◆━━━╔═══■════╗━┓                    ╔══╝◆
+        │┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚══╗━◆┓┈┈┈┈┈┈┈┈┈┈┈┈┏━■═══╝┈┈┈┈┈┈┈┈╚══■═══════■═══╗┈┈┈┈┈╔═╝━┛┈┈┈┈
+   -22% ┤                      ╚═■═╗━┓       ┏╔══╝                           ╚═══■═╝┛
+        │                          ╚═╗┓     ┏╔╝
+        │                            ╚══╗┓╔══╝
+        │                               ╚■╝
+   -80% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆     +135.6   +37.5   +22.4   +1.5    -64.2   +26.5   +29.4   +2.7    -2.8    -20.4   +12.8
+■      +64.1   +21.6   +19.8   -6.6    -59.7   +4.6    +25.8   -5.3    +10.8   -12.5   +27.9
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`JAMNAAUTO_stock_to_index.md`](JAMNAAUTO_stock_to_index.md), with the same graph as [`JAMNAAUTO_stock_to_index.svg`](JAMNAAUTO_stock_to_index.svg) and [`JAMNAAUTO_stock_to_index.mmd`](JAMNAAUTO_stock_to_index.mmd).
+
 ## What to watch
 
 - Conference-call commentary becoming available — every pattern verdict, plus the null scores on Competitive Advantage and Management, hangs on this missing evidence, and the 25/100 multibagger score could move sharply either way.
@@ -316,5 +368,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (no_concalls): the 34-check quality framework.
 - **MultibaggerPattern** (no_concalls): the 11 patterns long-term winners share.
 - **QualityRisks** (no_concalls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

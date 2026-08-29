@@ -16,15 +16,16 @@ Aegis Logistics is an Indian company that owns and operates port-side storage te
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 64 out of 100 ★★★☆☆
+## The verdict: Strong — 66 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (70/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Weighing those together gives 64 out of 100 — decent.
+In one breath: the quality framework finds a good business today (70/100); it strongly fits 3 of the 11 patterns long-term winners share; the risk review found 1 high risk (Government Dependency). Against the Nifty 50 it has gained strongly on the index (88/100). Weighing those together gives 66 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 70 (business quality) + 30% × 71 (multibagger fit) + 25% × 44 (risk safety) = 64 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 70 (business quality) + 27% × 71 (multibagger fit) + 22.5% × 44 (risk safety) + 10% × 88 (relative to the index) = 66 out of 100 → Strong (4 stars).
 
 - **Business quality (70/100):** The 34-check quality framework scored the business +0.81 on its −2 (poor) to +2 (excellent) scale, with 91% of checks backed by evidence; mapped onto 0–100 that is 70 points.
 - **Multibagger fit (71/100):** the foundation test partly passed (+10); 3 patterns fit strongly (Forward Integrators, Corporate Culture, Cost to Replicate) (+45); 2 likely (+16) → 71 of 100.
 - **Risk safety (44/100):** started from a clean 100; 1 high risk (Government Dependency) (−20); 2 elevated (−20); 2 worth watching (−8); the balance sheet shows one stress signal (−8) → 44 of 100.
+- **Relative to the index (88/100):** Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 88 points.
 
 ### The story in depth
 
@@ -437,6 +438,58 @@ FY2026  ▒▒▒▒▒▒▒▒▒▒▒▒▒             -12 days  ▼ 32 day
 - ✅ Operating margin held (about 6% then 15%) — no drift down under competition.
 - ✅ Growth is holding up: -0% a year earlier, 17% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 88 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 12 of 12 measure-and-window pairs the stored data could answer, the company scored +1.50 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 88 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | +102% · gained strongly | +145% · gained strongly | +176% · gained strongly |
+| last 5 years | +22% · gained | +63% · gained strongly | +87% · gained strongly |
+| last 3 years | +19% · gained | +37% · gained strongly | +77% · gained strongly |
+| last 1 year | -25% · lagged | +24% · gained | +30% · gained strongly |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+   +84% ┤
+        │     ╭──●╮                                              ●╮
+        │●────╯   ╰─╮    ◆┓                                     ╭╯╰╮             ●╮
+        │           ╰╮  ┏┛┗┓                     ◆┓             │  ╰╮           ╭╯╰╮
+   +49% ┤            ╰┏━┛  ┗━┓                  ┏●┗━┓          ╭╯   ╰╮         ╭╯  ╰╮
+        │            ┏┛╮╔■═╗ ┗┓                 ┃╯╰╮┗┓         │     ╰╮       ╭╯    ╰╮  ╔■
+        │■══╗      ┏━╔══╝╮ ╚════╗             ╭┏┛■══╗┗━┓      ╭╯      ╰╔═■════╗    ╔════╝◆
+   +14% ┤   ╚══╗  ┏╔═╝   ●╮     ╚■╗          ╭┏╔═╝  ╚══╗━┓   ╭┏━━◆━━╔══╝╮  ╭╯ ╚══■═╝┏━━┛
+        │◆━━━━━╚═■═╝┈┈┈┈┈┈╰──╮┈┈┈◆╚══╗┈┈┈┈┈╭─╔═╝┈┈┈┈┈╰╮╚═■═══════■══╝┗━━━◆━━━━━━━◆━━┛┈╰╮┈┈┈┈
+        │                    ╰╮   ┗━┓╚╗   ╭╯╔╝        │     │            ●╯            ╰╮
+   -20% ┤                     ╰──╮  ┗━╚══●╔═╝         ╰╮   ╭╯                           ╰╮
+        │                        ●───╯┗┓ ■╝┃           ╰╮  │                             ●
+        │                              ┗━┓┏┛            ╰╮╭╯
+        │                                ◆┛              ●╯
+   -55% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+●      +66.7   +69.3   +15.6   -29.3   -17.2   +44.3   -41.1   +74.5   -5.8    +67.5   -24.6
+◆      +6.7    -0.5    +65.4   +9.0    -45.7   +54.5   +3.6    +14.4   +4.7    +6.1    +23.6
+■      +22.2   +9.4    +31.4   +11.6   -27.6   +26.9   +2.4    +3.1    +21.2   +12.3   +30.2
+
+● Price ratio   ◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`AEGISLOG_stock_to_index.md`](AEGISLOG_stock_to_index.md), with the same graph as [`AEGISLOG_stock_to_index.svg`](AEGISLOG_stock_to_index.svg) and [`AEGISLOG_stock_to_index.mmd`](AEGISLOG_stock_to_index.mmd).
+
 ## What to watch
 
 - Distribution margin per ton holding near the FY26 level of about INR7,000 — the Cyclicality risk says this is a function of energy prices, not pricing power, and it is the main profit driver.
@@ -452,5 +505,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

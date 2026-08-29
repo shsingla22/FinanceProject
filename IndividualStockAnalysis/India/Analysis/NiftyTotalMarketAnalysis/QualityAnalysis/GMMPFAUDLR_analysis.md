@@ -17,15 +17,16 @@ GMM Pfaudler makes and sells heavy process equipment — most famously glass-lin
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 56 out of 100 ★★★☆☆
+## The verdict: Decent — 55 out of 100 ★★★☆☆
 
-In one breath: the quality framework finds a good business today (66/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Weighing those together gives 56 out of 100 — decent.
+In one breath: the quality framework finds a good business today (66/100); no winning pattern is strongly confirmed yet; the risk review found 1 high risk (Cyclicality). Against the Nifty 50 it has lagged the index (41/100). Weighing those together gives 55 out of 100 — decent.
 
-**The exact arithmetic:** Overall = 45% × 66 (business quality) + 30% × 41 (multibagger fit) + 25% × 58 (risk safety) = 56 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 66 (business quality) + 27% × 41 (multibagger fit) + 22.5% × 58 (risk safety) + 10% × 41 (relative to the index) = 55 out of 100 → Decent (3 stars).
 
 - **Business quality (66/100):** The 34-check quality framework scored the business +0.62 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 66 points.
 - **Multibagger fit (41/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 2 likely (+16) → 41 of 100.
 - **Risk safety (58/100):** started from a clean 100; 1 high risk (Cyclicality) (−20); 1 elevated (−10); 2 worth watching (−8); 1 numbers-only flag (−4) → 58 of 100.
+- **Relative to the index (41/100):** Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 41 points.
 
 ### The story in depth
 
@@ -434,6 +435,57 @@ FY2026  ██████                     92 days  ▲ 7 days vs prior year
 
 - ✅ Growth is holding up: 22% a year earlier, 29% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has LAGGED the index — 41 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 8 of 12 measure-and-window pairs the stored data could answer, the company scored -0.38 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 41 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | -27% · lagged badly | +304% · gained strongly |
+| last 5 years | — | -70% · lagged badly | +45% · gained strongly |
+| last 3 years | — | -85% · lagged badly | -23% · lagged |
+| last 1 year | — | -7% · moved with | +10% · moved with |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +164% ┤
+        │                                                        ◆┓
+        │                                                       ┏┛┗┓
+        │                                                      ┏┛  ┃
+  +100% ┤                                                     ┏┛   ┗┓
+        │                                                     ┃     ┗┓
+        │       ┏◆━━━━┓                                ╔═■══╗┏┛      ┗┓
+   +36% ┤     ┏━╔■═══════■═╗━┓        ┏━╔■═══╗      ╔══╝    ╚══╗      ┗┓
+        │  ╔════╝          ╚════╗◆━╔════╝  ┗━╚═══■══╝      ┏┛  ╚═■════╗┗┓               ╔■
+        │■═╝┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╚■═╝┈┈┈┈┈┈┈┈┈┈┗━┓┈┈┈┈┈┈┈┈┈┏┛┈┈┈┈┈┈┈┈┈┈╚══■═╗┈┈┈┈┈┈┈┈┈┈╔═╝◆┈┈
+        │                                       ┗◆━━━━━━━◆┛             ┗┓ ╚════╗  ╔══╝━━┛
+   -28% ┤                                                                ◆━┓    ╚■═╝ ┏┛
+        │                                                                  ┗━━━━┓ ┏━━┛
+        │                                                                       ┗◆┛
+   -92% ┤
+        └┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬───────┬──
+       FY16    FY17    FY18    FY19    FY20    FY21    FY22    FY23    FY24    FY25    FY26
+
+◆      -0.1    +46.1   +42.6   +9.8    +42.2   -25.0   -21.5  +146.0   -36.4   -74.0   -6.7
+■      -7.6    +36.0   +30.1   -0.6    +41.1   +12.4   +51.7   +24.5   -2.5    -28.4   +10.0
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`GMMPFAUDLR_stock_to_index.md`](GMMPFAUDLR_stock_to_index.md), with the same graph as [`GMMPFAUDLR_stock_to_index.svg`](GMMPFAUDLR_stock_to_index.svg) and [`GMMPFAUDLR_stock_to_index.mmd`](GMMPFAUDLR_stock_to_index.mmd).
+
 ## What to watch
 
 - Margin recovery from the 11–13% level back toward the ~20% ambition — the Cyclicality risk and the failed Pricing Power pattern both hinge on whether the chemical capex downturn is the cause or the mix shift is permanent.
@@ -449,5 +501,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

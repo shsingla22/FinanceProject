@@ -16,15 +16,16 @@ Kirloskar Pneumatic (KPCL) is a Pune-based Kirloskar Group engineering company t
 
 *Described strictly from management's own words on the earnings calls.*
 
-## The verdict: Decent — 63 out of 100 ★★★☆☆
+## The verdict: Strong — 65 out of 100 ★★★★☆
 
-In one breath: the quality framework finds a good business today (71/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Weighing those together gives 63 out of 100 — decent.
+In one breath: the quality framework finds a good business today (71/100); it strongly fits 1 of the 11 patterns long-term winners share; the risk review found 2 high risks (Cyclicality, Government Dependency). Against the Nifty 50 it has gained strongly on the index (81/100). Weighing those together gives 65 out of 100 — strong.
 
-**The exact arithmetic:** Overall = 45% × 71 (business quality) + 30% × 72 (multibagger fit) + 25% × 38 (risk safety) = 63 out of 100 → Decent (3 stars).
+**The exact arithmetic:** Overall = 40.5% × 71 (business quality) + 27% × 72 (multibagger fit) + 22.5% × 38 (risk safety) + 10% × 81 (relative to the index) = 65 out of 100 → Strong (4 stars).
 
 - **Business quality (71/100):** The 34-check quality framework scored the business +0.86 on its −2 (poor) to +2 (excellent) scale, with 94% of checks backed by evidence; mapped onto 0–100 that is 71 points.
 - **Multibagger fit (72/100):** the foundation test (steady cash + high returns on capital + growth) passed in full (+25); 1 pattern fit strongly (Innovation Dominance) (+15); 4 likely (+32) → 72 of 100.
 - **Risk safety (38/100):** started from a clean 100; 2 high risks (Cyclicality, Government Dependency) (−40); 1 elevated (−10); 3 worth watching (−12) → 38 of 100.
+- **Relative to the index (81/100):** Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored +1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 81 points.
 
 ### The story in depth
 
@@ -435,6 +436,57 @@ FY2026  ███████████████████        90 days
 - ⚠️ Year-to-year sales growth swings by ±85 percentage points — boom-and-bust revenue, not a steady compounder.
 - ✅ Growth is holding up: -3% a year earlier, 59% recently — no structural stall.
 
+## Section 4 — How has it done against the index? (price and earnings vs the Nifty 50)
+
+**Verdict: the company has GAINED STRONGLY on the index — 81 out of 100.**
+
+The other three sections judge the business on its own terms. This one asks a different question: measured against the Nifty 50, has the company been pulling ahead or falling behind? Each ratio below is the company divided by the index, so a rise means the company outgrew the index and a fall means it lagged.
+
+Across 4 of 12 measure-and-window pairs the stored data could answer, the company scored +1.25 on the −2 (lagged badly) to +2 (gained strongly) scale against the Nifty 50; mapped onto 0–100 that is 81 points.
+
+### The verdict over each window
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | +92% · gained strongly | +148% · gained strongly |
+| last 5 years | — | — | — |
+| last 3 years | — | — | — |
+| last 1 year | — | +6% · moved with | +21% · gained |
+
+
+### How the three ratios moved, year by year
+
+```
+Yearly change of each ratio against the Nifty 50 (%)
+
+  +103% ┤
+        │◆┓
+        │ ┗┓
+        │  ┃
+   +75% ┤■╗┗┓
+        │ ╚╗┗┓
+        │  ╚═╗┓
+   +48% ┤    ╚╗
+        │     ╚═╗
+        │      ┗╚╗
+   +20% ┤       ┃■
+        │       ┗┓
+        │        ◆
+        │┈┈┈┈┈┈┈┈┈┈┈
+    -8% ┤
+        └┬───────┬──
+       FY16    FY26
+
+◆      +95.0   +5.8
+■      +67.2   +20.6
+
+◆ PAT ratio   ■ Operating-profit ratio
+┈ the 0% line — above it the company gained on the index that year, below it the company lagged
+```
+
+
+The full index comparison for this company — including the level of each ratio year by year and the raw numbers behind it — is in [`KIRLPNU_stock_to_index.md`](KIRLPNU_stock_to_index.md), with the same graph as [`KIRLPNU_stock_to_index.svg`](KIRLPNU_stock_to_index.svg) and [`KIRLPNU_stock_to_index.mmd`](KIRLPNU_stock_to_index.mmd).
+
 ## What to watch
 
 - Whether the process-gas recovery flagged in the Cyclical market growth check actually arrives in FY27, or the Cyclicality risk repeats the first-half FY26 swing in orders and sales
@@ -450,5 +502,6 @@ This report was composed by the AnalystSkill, which executed the 3 sibling analy
 - **BusinessAnalysis** (with_calls): the 34-check quality framework.
 - **MultibaggerPattern** (with_calls): the 11 patterns long-term winners share.
 - **QualityRisks** (with_calls): the 8 channels through which quality companies fail.
+- **StockToIndexPriceEarningsRatio** (stored data): price, profit after tax and operating profit measured against the Nifty 50.
 
 Every verdict was produced with its evidence attached at the moment of analysis; checks the evidence could not answer are marked, never guessed. "with_calls" means the company's conference-call history was read by the judge model; "numbers_only" means only the financial statements could be used. The charts draw the same yearly figures the checks judged — nothing is computed twice. Research tooling; not investment advice.

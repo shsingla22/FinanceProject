@@ -4,13 +4,14 @@
 
 ## Step 1 — The overall rating: IMPROVED in the last year 📈
 
-Long-term view: Mixed (48/100). Last one year: Decent (54/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
+Long-term view: Decent (50/100). Last one year: Decent (56/100). The last year looks STRONGER than the long-term picture (+6 points) — the company has improved in the recent period.
 
 | Pillar | Long view | Last one year | Change |
 |---|---|---|---|
 | Business quality | 59 | 61 | +2 |
 | Multibagger fit | 18 | 37 | +19 |
 | Risk safety | 64 | 60 | -4 |
+| Relative to the index | 69 | 75 | +6 |
 
 *A pillar move can be partly lens-driven — the one-year view cannot test multi-year fingerprints (foundation gate, trend checks), which lowers its multibagger pillar mechanically. Step 2 separates genuine movement from window effects.*
 
@@ -102,6 +103,20 @@ Genuinely re-tested risk verdicts: 1 eased, 1 worsened, 3 unchanged; 3 carried f
 *Unchanged: Government Dependency (WATCH); Stakeholder Concentration (WATCH); Technological Innovation (LOW).*
 
 **Financial resilience:** Sound on the long view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.) vs Sound on the one-year view (none of the 3 stress checks (leverage, cash conversion, returns on capital) is flagged.)
+
+### Bucket 4 — Against the index (price and earnings vs the Nifty 50)
+
+Over the long run the company has **GAINED on the index** (69/100). Looking only at the latest year, it has **GAINED STRONGLY on the index** (75/100).
+
+Each cell is the change in the company-to-index ratio across that window — a rise means the company outgrew the index.
+
+| Window | Price ratio | PAT ratio | Operating-profit ratio |
+|---|---|---|---|
+| last 10 years | — | — | — |
+| last 5 years | — | — | -2% · moved with |
+| last 3 years | — | +77% · gained strongly | -5% · moved with |
+| last 1 year | — | — | +14% · gained |
+
 
 ## How this comparison was built
 
