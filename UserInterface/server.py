@@ -99,7 +99,78 @@ def _drop_caches():
     _cache["stamp"] = None
     _cache["concall_text"] = {}
     B._load_cache.clear()          # the skill's CSV cache
-    Q.load_statement.__wrapped__ if hasattr(Q.load_statement, "__wrapped__") else None
+
+
+# ------------------------------------------------ the stored analyst ratings
+# The batch analysis already judged every company in full — qualitative
+# pillars included — and wrote its verdict into the stored reports. The
+# list, ranking and compare views must use THAT rating: the live quant-only
+# score answers 7 of the 34 checks and would mis-rank the universe.
+QA_REPORTS = (INDIA / "Analysis" / "NiftyTotalMarketAnalysis"
+              / "QualityAnalysis")
+STORED_VERDICT_RE = re.compile(
+    r"^## The verdict: (?P<grade>.+?) — (?P<score>\d+) out of 100", re.M)
+STORED_NOT_RATED_RE = re.compile(r"^## The verdict: Not rated", re.M)
+STORED_DIRECTION_RE = re.compile(
+    r"^## Step 1 — The overall rating: (?P<dir>.+?) in the last year", re.M)
+# the verdict sits after the About-the-business intro; the deepest one in
+# the corpus starts ~6 KB in, so 32 KB is a comfortable ceiling
+_STORED_HEAD_BYTES = 32768
+
+_stored: dict = {"stamp": None, "ratings": {}}
+_stored_lock = threading.Lock()
+
+
+def _stored_stamp():
+    """Newest report mtime + count — cheap (one directory scan), and any
+    re-run of the batch or re-rank bumps it, so the cache self-refreshes."""
+    try:
+        files = list(QA_REPORTS.glob("*_analysis.md"))
+    except OSError:
+        return None
+    if not files:
+        return None
+    return (len(files), max(f.stat().st_mtime for f in files))
+
+
+def _read_head(path: Path) -> str:
+    try:
+        with open(path, encoding="utf-8", errors="replace") as fh:
+            return fh.read(_STORED_HEAD_BYTES)
+    except OSError:
+        return ""
+
+
+def stored_ratings() -> dict:
+    """{symbol: {score, grade, direction}} parsed straight from the stored
+    reports — the same files the download buttons serve, so the list view
+    and the reports can never quote two different ratings. A company whose
+    report says 'Not rated' comes back with score None, honestly."""
+    stamp = _stored_stamp()
+    with _stored_lock:
+        if stamp is not None and _stored["stamp"] == stamp:
+            return _stored["ratings"]
+    ratings: dict = {}
+    if stamp is not None:
+        for f in QA_REPORTS.glob("*_analysis.md"):
+            sym = f.name[:-len("_analysis.md")]
+            head = _read_head(f)
+            m = STORED_VERDICT_RE.search(head)
+            if m:
+                entry = {"score": int(m["score"]),
+                         "grade": m["grade"].strip()}
+            elif STORED_NOT_RATED_RE.search(head):
+                entry = {"score": None, "grade": "Not rated"}
+            else:
+                continue
+            d = STORED_DIRECTION_RE.search(
+                _read_head(QA_REPORTS / f"{sym}_comparison.md"))
+            entry["direction"] = d["dir"].strip().lower() if d else None
+            ratings[sym] = entry
+    with _stored_lock:
+        _stored["stamp"] = stamp
+        _stored["ratings"] = ratings
+    return ratings
 
 
 _fw = F.load_framework()
@@ -386,6 +457,7 @@ def framework():
 
 @app.get("/api/companies")
 def companies():
+    stored = stored_ratings()
     with _lock:
         stamp = _data_stamp()
         if _cache["companies"] is None or _cache["stamp"] != stamp:
@@ -401,9 +473,15 @@ def companies():
             _cache["stamp"] = stamp
             print(f"[dynamic] recomputed {len(recs)} companies "
                   f"in {time.time() - t0:.1f}s")
+        # The full analyst verdict from the stored reports rides on every
+        # record. Rankings and comparisons use THIS (qualitative pillars
+        # included); the live quant signals stay for the topic drill-downs.
+        recs = {sym: {**rec, "stored": stored.get(sym)}
+                for sym, rec in _cache["companies"].items()}
         return {"universe": UNIVERSE, "framework_version": _fw.version,
-                "n": len(_cache["companies"]),
-                "companies": _cache["companies"]}
+                "n": len(recs), "n_rated": sum(
+                    1 for r in stored.values() if r["score"] is not None),
+                "companies": recs}
 
 
 MAX_QUAL_PASSES = 3

@@ -963,10 +963,26 @@ function renderTopic(sym, topic) {
     <p class="note">Full picture: <span class="co-link" data-co="${sym}">open the complete ${sym} scorecard</span>.</p>`);
 }
 
+const DIR_ARROW = { improved: "▲ improved", declined: "▼ declined",
+                    "held steady": "▬ steady" };
+const GRADE_COLOR = { Outstanding: "var(--series-1)", Strong: "var(--series-1)",
+                      Decent: "var(--mid)", Mixed: "var(--mid)",
+                      Weak: "var(--neg)" };
+
 function renderRanking(n, moduleId, industry, asc) {
-  // Require >= 5 of the 34 parameters assessed (coverage >= ~15%): a single
-  // inflated signal (e.g. CFO-based CROCI for lenders) must not top a
-  // quality ranking. Honest-coverage discipline from the skill's rubric.
+  // Module-specific screens ("top 5 by growth") rank on the live numbers
+  // for that one module. The OVERALL ranking never does: it uses the full
+  // stored analyst rating — qualitative pillars included — because the
+  // numbers alone answer only 7 of the 34 checks and would mis-rank.
+  if (!moduleId) {
+    const rows = Object.entries(state.data.companies)
+      .map(([sym, c]) => ({ sym, c, st: c.stored }))
+      .filter(r => r.st && r.st.score != null &&
+                   (!industry || r.c.industry === industry));
+    if (rows.length) return renderStoredRanking(rows, n, industry, asc);
+    // no stored reports on disk at all — fall through to the honest
+    // numbers-only ranking rather than showing nothing
+  }
   const MIN_COV = 0.14;
   const rows = Object.entries(state.data.companies)
     .map(([sym, c]) => ({
@@ -979,7 +995,7 @@ function renderRanking(n, moduleId, industry, asc) {
   rows.sort((a, b) => asc ? (a.s - b.s || a.cov - b.cov) : (b.s - a.s || b.cov - a.cov));
   const top = rows.slice(0, n);
   const title = `${asc ? "Weakest" : "Best"} ${top.length} companies` +
-    (moduleId ? ` by ${modName(moduleId)}` : " by overall quality") +
+    (moduleId ? ` by ${modName(moduleId)}` : " by quantitative signals") +
     (industry ? ` in ${industry}` : "");
   const trs = top.map((r, i) => `<tr class="rowlink" data-co="${r.sym}">
       <td>${i + 1}</td><td><span class="co-link">${esc(r.c.name)}</span> <span class="sym">${r.sym}</span></td>
@@ -989,26 +1005,71 @@ function renderRanking(n, moduleId, industry, asc) {
       <td>${Math.round(r.cov * 100)}%</td>
       <td>₹${fmtCr(r.c.mcap)}</td><td>${r.c.pe ?? "—"}</td></tr>`).join("");
   card(`<h2>${esc(title)}</h2>
-    <p class="note">Ranked by score then coverage — a better-evidenced company outranks a
-    thinly-evidenced one, and companies with fewer than 5 of 34 parameters assessed are
-    excluded so one inflated signal can't top the list. Scores are quantitative-only;
-    click a row for the full explainable scorecard.</p>
+    <p class="note">Ranked by the live quantitative signals for this measure, score then
+    coverage; companies with fewer than 5 of 34 parameters assessed are excluded so one
+    inflated signal can't top the list. This is a numbers screen, not the full verdict —
+    click a row for the complete analysis.</p>
     <table class="rank"><thead><tr><th>#</th><th>Company</th><th>Industry</th>
       <th>Score</th><th>Coverage</th><th>Mcap</th><th>P/E</th></tr></thead>
+    <tbody>${trs}</tbody></table>`);
+}
+
+function renderStoredRanking(rows, n, industry, asc) {
+  // ranked on the STORED analyst rating: quality 40.5% + patterns 27% +
+  // safety 22.5% + against-the-index 10%, exactly as each report derives it
+  rows.sort((a, b) => asc ? (a.st.score - b.st.score)
+                          : (b.st.score - a.st.score));
+  const top = rows.slice(0, n);
+  const title = `${asc ? "Weakest" : "Best"} ${top.length} companies` +
+    (industry ? ` in ${industry}` : "");
+  const unrated = Object.values(state.data.companies)
+    .filter(c => c.stored && c.stored.score == null).length;
+  const trs = top.map((r, i) => `<tr class="rowlink" data-co="${r.sym}">
+      <td>${i + 1}</td>
+      <td><span class="co-link">${esc(r.c.name)}</span> <span class="sym">${r.sym}</span></td>
+      <td>${esc(r.c.industry || "—")}</td>
+      <td><strong style="color:${GRADE_COLOR[r.st.grade] || "var(--mid)"}">${esc(r.st.grade)}</strong>
+          <span class="note">${r.st.score} / 100</span></td>
+      <td>${DIR_ARROW[r.st.direction] || "—"}</td>
+      <td>₹${fmtCr(r.c.mcap)}</td><td>${r.c.pe ?? "—"}</td></tr>`).join("");
+  card(`<h2>${esc(title)}</h2>
+    <p class="note">Ranked by the full stored analyst rating out of 100 — business quality
+    (40.5%), multibagger fit (27%), risk safety (22.5%) and performance against the
+    Nifty 50 (10%), qualitative judgement included — read from the same stored reports
+    the download buttons serve.${unrated ? ` ${unrated} compan${unrated > 1 ? "ies" : "y"} whose
+    report says “Not rated” ${unrated > 1 ? "are" : "is"} excluded rather than guessed.` : ""}
+    Click a row for the full analysis.</p>
+    <table class="rank"><thead><tr><th>#</th><th>Company</th><th>Industry</th>
+      <th>Rating</th><th>Last 1 yr</th><th>Mcap</th><th>P/E</th></tr></thead>
     <tbody>${trs}</tbody></table>`);
 }
 
 function renderCompare(a, b) {
   const A = state.data.companies[a], B = state.data.companies[b];
   if (!A || !B) return card(`<p>Missing data for comparison.</p>`);
-  const half = (sym, co) => `<div>
+  // the headline of each side is the STORED analyst rating (qualitative
+  // pillars included); the quantitative module bars follow as detail
+  const half = (sym, co) => {
+    const st = co.stored;
+    const headline = st && st.score != null
+      ? `<div class="scoreline"><span class="big-score" style="font-size:22px;
+           color:${GRADE_COLOR[st.grade] || "var(--mid)"}">${esc(st.grade)}</span>
+         <span class="cov">${st.score} / 100 · ${DIR_ARROW[st.direction] || "no one-year read"}</span></div>`
+      : st
+      ? `<div class="scoreline"><span class="big-score mid" style="font-size:22px">Not rated</span>
+         <span class="cov">the stored report could not honestly score it</span></div>`
+      : `<div class="scoreline"><span class="big-score ${scoreCls(co.overall)}" style="font-size:22px">${verdictWord(co.overall)}</span>
+         <span class="cov">${fmtScore(co.overall)} · numbers only, no stored report</span></div>`;
+    return `<div>
       <div class="co-head"><span class="nm">${esc(co.name)}</span> <span class="sym">${sym}</span></div>
-      <div class="scoreline"><span class="big-score ${scoreCls(co.overall)}" style="font-size:22px">${verdictWord(co.overall)}</span>
-      <span class="cov">${fmtScore(co.overall)} · coverage ${Math.round(co.coverage * 100)}%</span></div>
+      ${headline}
       ${moduleBars(co)}
       <p class="note"><span class="co-link" data-co="${sym}">full ${sym} scorecard →</span></p>
     </div>`;
+  };
   card(`<h2>Compare: ${esc(A.name)} vs ${esc(B.name)}</h2>
+    <p class="note">Headlines are the full stored analyst ratings; the bars beneath are the
+    live quantitative signals by area.</p>
     <div class="grid2">${half(a, A)}${half(b, B)}</div>`);
 }
 

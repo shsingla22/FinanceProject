@@ -192,3 +192,64 @@ def test_the_report_markdown_explains_the_index_pillar():
     assert "## Section 4 — How has it done against the index?" in md
     assert "Against the Nifty 50 it has" in md, "one-breath line missing it"
     assert "- **Relative to the index (" in md, "pillar bullet missing"
+
+
+# ---------------- the list view runs on the STORED analyst ratings -----------
+# The numbers alone answer 7 of the 34 checks (~21% coverage); ranking the
+# universe on them would be wrong. Every list/rank/compare surface therefore
+# reads the full stored verdict — qualitative pillars included — parsed from
+# the same report files the download buttons serve.
+
+def test_companies_payload_carries_the_stored_rating():
+    out = client.get("/api/companies").json()
+    assert out["n_rated"] >= 700, "expected the batch's stored verdicts"
+    covered = [c for c in out["companies"].values() if c.get("stored")]
+    assert len(covered) >= 700
+    rated = [c for c in covered if c["stored"]["score"] is not None]
+    for c in rated[:20]:
+        st = c["stored"]
+        assert 0 <= st["score"] <= 100
+        assert st["grade"] in {"Outstanding", "Strong", "Decent",
+                               "Mixed", "Weak"}
+        assert st["direction"] in {"improved", "declined", "held steady",
+                                   None}
+
+
+def test_stored_rating_matches_the_report_the_ui_offers_for_download():
+    """List row and downloaded report must be the same verdict."""
+    import re as _re
+    for sym in ("PIDILITIND", "COLPAL", "APOLLOHOSP", "CRISIL"):
+        st = SV.stored_ratings()[sym]
+        md = (SV.QA_REPORTS / f"{sym}_analysis.md").read_text()
+        m = _re.search(r"^## The verdict: (.+?) — (\d+) out of 100",
+                       md, _re.M)
+        assert st["grade"] == m.group(1).strip()
+        assert st["score"] == int(m.group(2))
+
+
+def test_not_rated_companies_come_back_honest_not_scored():
+    st = SV.stored_ratings()
+    unrated = [s for s, v in st.items() if v["score"] is None]
+    for s in unrated:
+        assert st[s]["grade"] == "Not rated"
+        md = (SV.QA_REPORTS / f"{s}_analysis.md").read_text()
+        assert "## The verdict: Not rated" in md
+
+
+def test_stored_ratings_agree_with_the_generated_ranking_csv():
+    """Two derivations of the same reports must agree on every company."""
+    import csv as _csv
+    st = SV.stored_ratings()
+    path = SV.QA_REPORTS / "_ranking.csv"
+    if not path.exists():
+        pytest.skip("no _ranking.csv in this checkout")
+    bad = []
+    with open(path) as fh:
+        for row in _csv.DictReader(fh):
+            sym = row["symbol"]
+            if sym not in st:
+                continue
+            want = int(float(row["score"])) if row["score"] else None
+            if st[sym]["score"] != want:
+                bad.append((sym, st[sym]["score"], want))
+    assert not bad, f"stored parse disagrees with ranking csv: {bad[:5]}"
