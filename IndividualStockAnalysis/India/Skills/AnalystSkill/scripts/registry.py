@@ -205,7 +205,7 @@ def _ba_qual_scores(sym: str, allow_ai: bool = True) -> list | None:
     A cache hit is served whether or not an AI backend is available — the
     judgement already exists and hiding it would be dishonest. `allow_ai`
     only controls whether a MISS may invoke the judge."""
-    pdf = INDIA / "ConferenceCalls" / "NiftyTotalMarket" / f"{sym.replace('&', '_AND_')}.pdf"
+    pdf = MB_AZ._transcript_path(sym)
     if not pdf.exists():
         return None
     stamp = f"{pdf_content_stamp(pdf)}:ba1:{MODEL}"
