@@ -175,9 +175,21 @@ def _rating_delta(full: dict, recent: dict) -> dict:
                 f"in the recent period.")}
 
 
+def _pillar_keys(full: dict, recent: dict) -> list:
+    """Every pillar either side scored, in the order the full view weighted
+    them — so a pillar added to the analyst family shows up here with no
+    change to this skill."""
+    keys = list(full["rating"].get("pillar_order")
+                or ("quality", "patterns", "safety"))
+    for k in (recent["rating"].get("pillar_order") or ()):
+        if k not in keys:
+            keys.append(k)
+    return keys
+
+
 def _pillar_deltas(full: dict, recent: dict) -> list:
     out = []
-    for key in ("quality", "patterns", "safety"):
+    for key in _pillar_keys(full, recent):
         fp = full["rating"]["pillars"].get(key, {})
         rp = recent["rating"]["pillars"].get(key, {})
         fpts, rpts = fp.get("points"), rp.get("points")
@@ -339,6 +351,37 @@ def _compare_risks(full: dict, recent: dict) -> dict:
     return t
 
 
+def _ext_of(side: dict, needle: str) -> dict | None:
+    for e in (side.get("extensions") or []):
+        p = e.get("pillar") or {}
+        if needle in (p.get("name") or e.get("name") or "").lower():
+            return e
+    return None
+
+
+def _compare_relative(full: dict, recent: dict) -> dict | None:
+    """How the index comparison moved: the long run vs the latest year."""
+    fe, re_ = _ext_of(full, "index"), _ext_of(recent, "index")
+    if not fe:
+        return None
+    fp = (fe.get("pillar") or {})
+    rp = (re_.get("pillar") or {}) if re_ else {}
+    fpts, rpts = fp.get("points"), rp.get("points")
+    cells = ((fe.get("record") or {}).get("pillar") or {}).get("cells") or []
+    return {
+        "name": fp.get("name", "Relative to the index"),
+        "full": fpts, "recent": rpts,
+        "delta": (rpts - fpts) if None not in (fpts, rpts) else None,
+        "full_verdict": fp.get("verdict"),
+        "recent_verdict": rp.get("verdict"),
+        "full_why": fp.get("derivation", ""),
+        "recent_why": rp.get("derivation", ""),
+        "windows": [{"measure": c["measure"], "window": c["window"],
+                     "pct": c["pct"], "word": c["word"]}
+                    for c in cells if c.get("pct") is not None],
+    }
+
+
 def compare(sym: str, full: dict, recent: dict) -> dict:
     """The full explainable comparison record."""
     return {
@@ -349,6 +392,7 @@ def compare(sym: str, full: dict, recent: dict) -> dict:
         "business": _compare_business(full, recent),
         "patterns": _compare_patterns(full, recent),
         "risks": _compare_risks(full, recent),
+        "relative": _compare_relative(full, recent),
         "statuses": {"full": full["statuses"],
                      "recent": recent["statuses"]},
     }

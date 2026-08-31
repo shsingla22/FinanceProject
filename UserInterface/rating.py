@@ -124,7 +124,11 @@ def risks_analysis(sym: str, ai: bool = True) -> tuple[dict, str]:
 # ------------------------------------------------------------------ pillars
 GRADE_BANDS = [(80, "Outstanding", 5), (65, "Strong", 4), (50, "Decent", 3),
                (35, "Mixed", 2), (0, "Weak", 1)]
-WEIGHTS = {"quality": 0.45, "patterns": 0.30, "safety": 0.25}
+# The three built-in pillars hold their 45/30/25 proportions relative to each
+# other, but scaled to 0.90 so an extension pillar's 0.10 makes the four sum
+# to exactly 1.00. When no extension scores, re-normalising over these three
+# restores the original 45/30/25 split untouched.
+WEIGHTS = {"quality": 0.405, "patterns": 0.27, "safety": 0.225}
 
 
 def _grade(score: float) -> tuple[str, int]:
@@ -275,32 +279,54 @@ def safety_pillar(qr_rec: dict) -> dict:
     }
 
 
+def _pct(w: float) -> str:
+    s = f"{w * 100:.1f}".rstrip("0").rstrip(".")
+    return f"{s}%"
+
+
 def compute_rating(sym: str, business_rec: dict, mb_rec: dict,
-                   qr_rec: dict) -> dict:
-    """Combine the three pillars into one rating, with full arithmetic."""
+                   qr_rec: dict, extensions: list | None = None) -> dict:
+    """Combine the pillars into one rating, with full arithmetic. Extension
+    skills that declare a pillar are folded in and ALL weights are
+    re-normalised to sum to 1, matching the AnalystSkill's composer."""
     pillars = {
         "quality": quality_pillar(business_rec),
         "patterns": patterns_pillar(mb_rec),
         "safety": safety_pillar(qr_rec),
     }
+    weights = dict(WEIGHTS)
+    order = ["quality", "patterns", "safety"]
+    for ext in (extensions or []):
+        p = ext.get("pillar")
+        if not p or p.get("points") is None:
+            continue
+        key = f"ext:{ext['skill']}"
+        pillars[key] = {"name": p.get("name", ext["name"]),
+                        "points": max(0, min(100, round(p["points"]))),
+                        "derivation": p.get("derivation",
+                                            "No derivation provided.")}
+        if p.get("verdict"):
+            pillars[key]["verdict"] = p["verdict"]
+        weights[key] = float(p.get("weight", 0.10))
+        order.append(key)
     avail = {k: p for k, p in pillars.items() if p["points"] is not None}
     if len(avail) < 2:
-        why = ("None of the three pillars could be scored — not enough "
+        why = ("None of the pillars could be scored — not enough "
                "evidence to rate this company." if not avail else
                f"Only one pillar ({list(avail.values())[0]['name']}) could "
                f"be scored — one dimension is not enough to rate a whole "
                f"company, so no rating is given.")
         return {"symbol": sym, "score": None, "grade": "Not rated",
-                "stars": 0, "pillars": pillars, "derivation": why}
-    wsum = sum(WEIGHTS[k] for k in avail)
-    score = round(sum(pillars[k]["points"] * WEIGHTS[k] for k in avail)
+                "stars": 0, "pillars": pillars, "pillar_order": order,
+                "derivation": why}
+    wsum = sum(weights[k] for k in avail)
+    score = round(sum(pillars[k]["points"] * weights[k] for k in avail)
                   / wsum)
     grade, stars = _grade(score)
     terms = " + ".join(
-        f"{WEIGHTS[k] / wsum:.0%} × {pillars[k]['points']} "
-        f"({pillars[k]['name'].lower()})" for k in ("quality", "patterns",
-                                                    "safety") if k in avail)
-    note = ("" if len(avail) == 3 else
+        f"{_pct(weights[k] / wsum)} × {pillars[k]['points']} "
+        f"({pillars[k]['name'].lower()})" for k in order if k in avail)
+    note = ("" if len(avail) == len(pillars) else
             " (One or more pillars had no evidence, so the weights were "
             "re-spread over the pillars that could be scored.)")
     return {
@@ -309,6 +335,7 @@ def compute_rating(sym: str, business_rec: dict, mb_rec: dict,
         "grade": grade,
         "stars": stars,
         "pillars": pillars,
+        "pillar_order": order,
         "derivation": f"Overall rating = {terms} = {score} out of 100 → "
                       f"{grade} ({stars} star{'s' if stars > 1 else ''})."
                       + note,

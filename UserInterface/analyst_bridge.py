@@ -55,7 +55,9 @@ def full_analysis(sym: str, ai: bool = True) -> dict:
         exts = AR.run_extensions(sym, ai=ai)
         rt = AC.compute_rating(ba, mb, qr, extensions=exts)
         meta = AR.company_meta(sym)
-        overview = AC.business_overview(sym, meta["name"]) if ai else None
+        # cached overviews are served even with AI off — allow_ai only
+        # gates whether a cache miss may invoke the judge
+        overview = AC.business_overview(sym, meta["name"], allow_ai=ai)
         synth = (AC.synthesize(sym, meta["name"], ba, mb, qr, rt,
                                extensions=exts) if ai else None)
         trends = AR.trend_series(sym)
@@ -71,9 +73,12 @@ def full_analysis(sym: str, ai: bool = True) -> dict:
             "verdict_plain": AC._verdict_plain(rt),
             "summary": synth,
             "business": ba, "patterns": mb, "risks": qr,
+            # `record` and `facts` carry the structured numbers behind an
+            # extension pillar (window cells, yearly series), so the UI can
+            # render and explain it natively instead of dumping Markdown.
             "extensions": [{k: e.get(k) for k in
                             ("skill", "name", "status", "order",
-                             "pillar", "section_md")}
+                             "pillar", "section_md", "record", "facts")}
                            for e in exts],
             "trends": trends,
             "statuses": statuses,

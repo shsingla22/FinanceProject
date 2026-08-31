@@ -92,7 +92,7 @@ async function init() {
       ? "; qualitative analysis runs automatically on <strong>" + esc(h.analysis_model || "opus") +
         "</strong> via " + (h.ai_backend === "claude_code_cli" ? "your Claude subscription" : "the Claude API") +
         " — multi-pass over the whole concall timeline, so the FIRST analysis of a company can take several minutes; cached afterwards."
-      : ". ⚠️ Qualitative analysis is OFF — log in the Claude Code CLI (run <code>claude</code> once) or set ANTHROPIC_API_KEY, then restart the server."));
+      : ". ⚠️ AI is OFF — company pages still serve the complete stored analysis (qualitative judgement included), and re-runs reuse stored judgements; log in the Claude Code CLI (run <code>claude</code> once) or set ANTHROPIC_API_KEY and restart for fresh judgements and the Q&A box."));
 
   // 4. If the user asked something while we were warming up, run it now.
   if (state.pendingQ) { const q = state.pendingQ; state.pendingQ = null; safeHandle(q); }
@@ -382,6 +382,90 @@ function companyHeader(sym, co) {
 }
 
 async function renderCompany(sym) {
+  // DEFAULT: the STORED reports — the complete, qualitative-included
+  // analysis the batch already wrote (the same files the ranking uses).
+  // The live pipeline runs only when no stored pair exists, or when the
+  // user explicitly asks to re-run.
+  let st = null;
+  try {
+    const r = await fetch(`api/stored/${sym}`);
+    if (r.ok) st = await r.json();
+  } catch (_) { /* fall through to the live pipeline */ }
+  if (st && st.analysis_md) return renderStoredCompany(sym, st);
+  return renderCompanyLive(sym);
+}
+
+function renderStoredCompany(sym, st) {
+  $out().insertAdjacentHTML("beforeend",
+    `<div class="duo" data-sym="${sym}"><div class="col-main"></div>
+     <aside class="col-cmp"></aside></div>`);
+  const duo = $out().querySelector(`.duo[data-sym="${sym}"]`);
+  const main = duo.querySelector(".col-main");
+  const aside = duo.querySelector(".col-cmp");
+  const dir = DIR_ARROW[st.direction] || "";
+  const rated = st.score != null;
+  cardIn(main, `
+    <div class="co-head"><span class="nm">${esc(st.name)}</span>
+      <span class="sym">${sym}</span>
+      ${st.industry ? `<span class="tag">${esc(st.industry)}</span>` : ""}</div>
+    <div class="scoreline">
+      <span class="big-score" style="color:${GRADE_COLOR[st.grade] || "var(--mid)"}">${esc(st.grade || "Not rated")}</span>
+      ${rated ? `<span class="cov"><strong>${st.score} / 100</strong>${dir ? ` · ${dir} over the last year` : ""}</span>` : ""}
+    </div>
+    <div class="facts">
+      <div class="fact"><div class="v">₹${fmtCr(st.market.mcap)}</div><div class="k">Market cap</div></div>
+      <div class="fact"><div class="v">${st.market.pe ?? "—"}</div><div class="k">P/E</div></div>
+      <div class="fact"><div class="v">₹${st.market.price ? st.market.price.toLocaleString("en-IN") : "—"}</div><div class="k">Price</div></div>
+    </div>
+    <p class="note">
+      <a class="chip" href="api/stored_report/${sym}" download="${sym}_analysis.md">📄 Full report (Markdown)</a>
+      ${st.comparison_md ? `<a class="chip" href="api/stored_comparison_report/${sym}" download="${sym}_comparison.md">📄 One-year comparison (Markdown)</a>` : ""}
+      <button class="chip" id="rerun-${sym}">⚙️ Re-run this analysis live</button>
+    </p>
+    <p class="note">This page renders the stored analysis — the same complete report the
+    rankings use, qualitative judgement included; page and downloads are the same files.
+    Re-running recomputes everything from today's data${state.ai ? ""
+      : " (AI is off, so a re-run reuses stored judgements where they exist and recomputes the numbers)"}.</p>`);
+
+  cardIn(main, `<h2>The research</h2>
+    <p class="note">Every check, pattern and risk with its why — folded, verdicts in the
+    headlines. Click any headline to open it.</p>
+    <div class="mdreport">${mdToHtml(reorderReportMd(st.analysis_md), 2)}</div>`);
+
+  if (st.comparison_md) {
+    cardIn(aside, `<h2>Then vs now — the last one year</h2>
+      <div class="mdreport">${mdToHtml(dropPreamble(st.comparison_md), 2)}</div>`);
+  } else {
+    cardIn(aside, `<h2>Then vs now — the last one year</h2>
+      <p class="note">No stored one-year comparison for this company.</p>`);
+  }
+
+  if (state.ai) {
+    cardIn(aside, `<h3>Ask about this analysis</h3>
+      <form class="qa-form" data-sym="${sym}">
+        <input type="text" placeholder="e.g. Why this rating? Has it beaten the index? What changed last year?" aria-label="Ask about this analysis">
+        <button type="submit">Ask</button>
+      </form>
+      <div class="qa-out"></div>
+      <p class="note">Answers come strictly from the two stored reports on this page —
+      and the call transcripts; never thin air.</p>`);
+    const qaForm = duo.querySelector(`.qa-form[data-sym="${sym}"]`);
+    if (qaForm) qaForm.addEventListener("submit", e => {
+      e.preventDefault();
+      const inp = qaForm.querySelector("input");
+      if (inp.value.trim())
+        askVerdict(sym, inp.value.trim(), qaForm.nextElementSibling, "stored");
+    });
+  }
+  const rerun = duo.querySelector(`#rerun-${sym}`);
+  if (rerun) rerun.addEventListener("click", () => {
+    $out().innerHTML = "";
+    echo(`re-run ${sym} live`);
+    renderCompanyLive(sym);
+  });
+}
+
+async function renderCompanyLive(sym) {
   // THE analyst experience: one server call runs all three skills via the
   // AnalystSkill and returns the records AND the Markdown report together.
   // In PARALLEL, the ComparisonSkill builds the then-vs-now view (full
@@ -419,7 +503,7 @@ async function renderCompany(sym) {
     `<div class="duo" data-sym="${sym}"><div class="col-main"></div>
      <aside class="col-cmp"><div class="card cmp-wait">
        <h2>Then vs now — the last one year</h2>
-       <p class="note">⏳ Building the one-year comparison: the same three engines re-run on
+       <p class="note">⏳ Building the one-year comparison: the same four analyses re-run on
        just the last year's evidence, then compared verdict-by-verdict with the long view${
          state.ai ? " <em>(first run of a company computes both views — this is the slowest step; cached afterwards)</em>" : ""}…</p>
        <p class="note cmp-tick"></p>
@@ -445,18 +529,17 @@ async function renderCompany(sym) {
   cardIn(main, `<h2>Section 2 — Does it look like a long-term winner?</h2>
     ${patternsSection(mb)}`);
   cardIn(main, `<h2>Section 3 — What could break it?</h2>
-    ${risksSection(qr)}
-    ${(out.extensions || []).filter(e => e.section_md).map(e =>
-       `<h3>${esc(e.name)}</h3><p class="note">Additional analysis from the ${esc(e.skill)} skill (${esc(e.status)}).</p>`).join("")}
-    ${state.ai ? `
-      <h3>Ask about this analysis</h3>
+    ${risksSection(qr)}`);
+  const relSection = relativeIndexSection(out.extensions);
+  if (relSection) cardIn(main, relSection);
+  if (state.ai) cardIn(main, `<h2>Ask about this analysis</h2>
       <form class="qa-form" data-sym="${sym}">
-        <input type="text" placeholder="e.g. Why this rating? What changed in the last year? Which risk worries you most?" aria-label="Ask about this analysis">
+        <input type="text" placeholder="e.g. Why this rating? Has it beaten the index? What changed in the last year?" aria-label="Ask about this analysis">
         <button type="submit">Ask</button>
       </form>
       <div class="qa-out"></div>
       <p class="note">Answers come strictly from the records on this page — including the
-      one-year comparison — and the call transcripts; never thin air.</p>` : ""}`);
+      one-year comparison and the index comparison — and the call transcripts; never thin air.</p>`);
   const qaForm = $out().querySelector(`.qa-form[data-sym="${sym}"]`);
   if (qaForm) qaForm.addEventListener("submit", e => {
     e.preventDefault();
@@ -501,7 +584,7 @@ function verdictCard(sym, out) {
     ${ratingCard(rt)}
     <p>${esc(out.verdict_plain || "")}</p>
     ${story ? `<details class="mod"><summary><strong>The story in depth</strong>
-        <span class="note">the grounded narrative connecting all three analyses</span></summary>
+        <span class="note">the grounded narrative connecting all four analyses</span></summary>
         ${story.map(pa => `<p>${esc(pa)}</p>`).join("")}
         <p class="note">Written strictly from the analyses below — names it could not ground were grounds to reject it.</p>
       </details>` : ""}
@@ -553,6 +636,30 @@ function cmpMoveRows(items, kind) {
       ${i.note ? `<p class="note">${esc(i.note)}</p>` : ""}
     </details>`;
   }).join("");
+}
+
+function cmpRelativeBucket(rel) {
+  if (!rel) return "";
+  const head = `<h4>Against the index (price and earnings vs the Nifty 50)</h4>`;
+  if (rel.full == null) {
+    return `${head}<p class="note">The stored history is too short to compare
+      this company with the index over any window.</p>`;
+  }
+  const recent = rel.recent == null
+    ? `<strong>no comparable year</strong>`
+    : `<span class="vbadge ${REL_VERDICT_CLS(rel.recent_verdict)}">${esc(rel.recent_verdict)}</span>
+       <strong>${rel.recent}/100</strong>`;
+  const cells = rel.windows || [];
+  const table = cells.length ? relWindowTable(cells) : "";
+  return `${head}
+    <p class="note">Over the long run:
+      <span class="vbadge ${REL_VERDICT_CLS(rel.full_verdict)}">${esc(rel.full_verdict)}</span>
+      <strong>${rel.full}/100</strong>. Looking only at the latest year: ${recent}.
+      ${rel.delta != null ? `That is ${rel.delta >= 0 ? "+" : ""}${rel.delta} points
+        on the index comparison.` : ""}</p>
+    <p class="note">Each cell is the change in the company-to-index ratio across
+      that window — a rise means the company outgrew the index.</p>
+    ${table}`;
 }
 
 function cmpBucket(title, t, verbs, extraTop) {
@@ -629,6 +736,7 @@ function comparisonPanel(sym, c) {
     ${cmpBucket("Business quality (34 checks)", rec.business, ["improved", "regressed"])}
     ${cmpBucket("Multibagger patterns (11 patterns)", rec.patterns, ["strengthened", "weakened"], gates)}
     ${cmpBucket("Risks (8 channels)", rec.risks, ["eased", "worsened"], frBlock)}
+    ${cmpRelativeBucket(rec.relative)}
     <p><a class="chip" id="dlc-${sym}" href="api/comparison_report/${sym}" download="${sym}_comparison.md">📄 Download the comparison (Markdown)</a>
       <span class="note">— generated together with this panel from the same comparison; panel and file can never disagree.</span></p>`;
 }
@@ -665,19 +773,157 @@ function ratingCard(rt) {
       <div class="note">${esc(p.derivation)}</div>
     </div>`;
   };
+  // Every pillar the rating actually used, in the order it weighted them —
+  // so a new pillar shows up here the moment the analysis produces one.
+  const keys = (rt.pillar_order && rt.pillar_order.length)
+    ? rt.pillar_order.filter(k => rt.pillars[k])
+    : Object.keys(rt.pillars);
+  const n = keys.length;
+  const word = { 2: "two", 3: "three", 4: "four", 5: "five" }[n] || n;
   return `<div class="rating">
     <div class="scoreline">
       <span class="big-score ${cls}">${esc(rt.grade)}</span>
       <span class="stars">${stars}</span>
-      <span class="cov">${rt.score} out of 100, combining all three analyses below</span>
+      <span class="cov">${rt.score} out of 100, combining all ${word} analyses below</span>
     </div>
     <details class="mod" open>
       <summary><strong>How this rating was built</strong>
         <span class="note">every point earned or lost is listed — nothing hidden</span></summary>
       <p class="note calc">${esc(rt.derivation)}</p>
-      ${pillarRow("quality")}${pillarRow("patterns")}${pillarRow("safety")}
+      ${keys.map(pillarRow).join("")}
     </details>
   </div>`;
+}
+
+/* ------------- Section 4: how the company did against the index -------------
+   Rendered from the structured record (window cells + yearly series), not
+   from Markdown, so every number on screen is the number the rating used. */
+
+const REL_CLS = pct =>
+  pct == null ? "mid" : pct >= 10 ? "pos" : pct <= -10 ? "neg" : "mid";
+const REL_VERDICT_CLS = v => {
+  const s = (v || "").toLowerCase();
+  if (s.includes("gained")) return "pos";
+  if (s.includes("lagged")) return "neg";
+  return "mid";
+};
+const REL_COLORS = ["#2a78d6", "#1a9e5c", "#e07b00"];
+
+function relLineChart(chart) {
+  const series = ["price", "pat", "op"]
+    .map((k, i) => ({ key: k, label: (chart[k] || {}).label || k,
+                      pts: ((chart[k] || {}).yoy || []), color: REL_COLORS[i] }))
+    .filter(s => s.pts.length > 1);
+  if (!series.length) return "";
+  const years = [...new Set(series.flatMap(s => s.pts.map(p => p.fy)))].sort();
+  const vals = series.flatMap(s => s.pts.map(p => p.pct)).concat([0]);
+  let lo = Math.min(...vals), hi = Math.max(...vals);
+  const pad = (hi - lo) * 0.12 || 1;
+  lo -= pad; hi += pad;
+  const W = 720, H = 300, L = 52, R = 14, T = 16, B = 42;
+  const x = fy => years.length < 2 ? L + (W - L - R) / 2
+    : L + years.indexOf(fy) * (W - L - R) / (years.length - 1);
+  const y = v => T + (hi - v) * (H - T - B) / (hi - lo);
+  const grid = [0, 1, 2, 3, 4].map(i => {
+    const v = hi - (hi - lo) * i / 4;
+    return `<line x1="${L}" y1="${y(v).toFixed(1)}" x2="${W - R}" y2="${y(v).toFixed(1)}"
+      stroke="currentColor" stroke-opacity=".12"/>
+      <text x="${L - 8}" y="${(y(v) + 4).toFixed(1)}" text-anchor="end"
+        font-size="11" fill="currentColor" fill-opacity=".6">${v >= 0 ? "+" : ""}${v.toFixed(0)}%</text>`;
+  }).join("");
+  const zero = (lo < 0 && hi > 0)
+    ? `<line x1="${L}" y1="${y(0).toFixed(1)}" x2="${W - R}" y2="${y(0).toFixed(1)}"
+        stroke="currentColor" stroke-opacity=".45" stroke-dasharray="5 4"/>` : "";
+  const xlab = years.map((fy, i) => (years.length > 9 && i % 2) ? "" :
+    `<text x="${x(fy).toFixed(1)}" y="${H - B + 18}" text-anchor="middle"
+       font-size="11" fill="currentColor" fill-opacity=".6">FY${String(fy).slice(2)}</text>`).join("");
+  const lines = series.map(s => {
+    const d = s.pts.map(p => `${x(p.fy).toFixed(1)},${y(p.pct).toFixed(1)}`).join(" ");
+    const dots = s.pts.map(p =>
+      `<circle cx="${x(p.fy).toFixed(1)}" cy="${y(p.pct).toFixed(1)}" r="3.4"
+         fill="var(--card,#fff)" stroke="${s.color}" stroke-width="2">
+         <title>${esc(s.label)} · FY${p.fy} · ${p.pct >= 0 ? "+" : ""}${p.pct.toFixed(1)}%</title>
+       </circle>`).join("");
+    return `<polyline points="${d}" fill="none" stroke="${s.color}"
+      stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>${dots}`;
+  }).join("");
+  const legend = series.map(s =>
+    `<span class="rel-key"><i style="background:${s.color}"></i>${esc(s.label)}</span>`).join("");
+  return `<figure class="rel-chart">
+    <svg viewBox="0 0 ${W} ${H}" role="img"
+      aria-label="Yearly change of each ratio against the index">
+      ${grid}${zero}<line x1="${L}" y1="${H - B}" x2="${W - R}" y2="${H - B}"
+        stroke="currentColor" stroke-opacity=".35"/>${xlab}${lines}
+    </svg>
+    <figcaption class="rel-legend">${legend}
+      <span class="note">above the dashed 0% line the company gained on the index that year</span>
+    </figcaption>
+  </figure>`;
+}
+
+function relWindowTable(cells) {
+  const measures = [...new Set(cells.map(c => c.measure))];
+  const windows = [...new Set(cells.map(c => c.window))].sort((a, b) => b - a);
+  const at = (w, m) => cells.find(c => c.window === w && c.measure === m);
+  return `<div class="tablewrap"><table class="rel-table">
+    <thead><tr><th>Window</th>${measures.map(m => `<th>${esc(m)}</th>`).join("")}</tr></thead>
+    <tbody>${windows.map(w => `<tr>
+      <th scope="row">last ${w} year${w > 1 ? "s" : ""}</th>
+      ${measures.map(m => {
+        const c = at(w, m);
+        if (!c || c.pct == null)
+          return `<td class="note">not comparable</td>`;
+        return `<td class="${REL_CLS(c.pct)}">${c.pct >= 0 ? "+" : ""}${c.pct.toFixed(0)}%
+          <span class="note">${esc(c.word)}</span></td>`;
+      }).join("")}</tr>`).join("")}</tbody>
+  </table></div>`;
+}
+
+function relativeIndexSection(extensions) {
+  const e = (extensions || []).find(x =>
+    x && x.pillar && /index/i.test(x.pillar.name || x.name || ""));
+  if (!e) return "";
+  const rec = e.record || {};
+  const p = rec.pillar || {};
+  // "Nifty 50" needs its article in prose; a generic fallback already has one
+  const raw = rec.index_name || "index";
+  const idx = /^the /i.test(raw) ? raw : `the ${raw}`;
+  const head = `<h2>Section 4 — How has it done against ${esc(idx)}?</h2>`;
+  if (p.points == null) {
+    return `${head}<p class="note">${esc(p.derivation ||
+      "The stored history is too short to compare this company with the index.")}</p>`;
+  }
+  const one = rec.one_year || {};
+  const cls = REL_VERDICT_CLS(p.verdict);
+  return `${head}
+    <p class="rel-verdict"><span class="vbadge ${cls}">${esc(p.verdict)}</span>
+      <strong>${p.points} / 100</strong></p>
+    <p class="note">The other three sections judge the business on its own terms.
+      This one asks whether it actually beat the market: each ratio is the company
+      divided by ${esc(idx)}, so a rise means the company outgrew the index and a
+      fall means it lagged.</p>
+    <h3>The verdict over each window</h3>
+    ${relWindowTable(p.cells || [])}
+    ${one.points != null ? `<p class="note">Looking only at the latest year, it has
+      <strong>${esc(one.verdict)}</strong> (${one.points}/100).</p>` : ""}
+    <h3>How the three ratios moved, year by year</h3>
+    ${relLineChart(rec.chart || {})}
+    <details class="mod">
+      <summary><strong>How this pillar was scored</strong>
+        <span class="note">every window, and what it was worth</span></summary>
+      <p class="note calc">${esc(p.derivation)}</p>
+      <p class="note">Each window scores −2 (lagged badly) to +2 (gained strongly):
+        a ratio change of +25% or more scores +2, +10% to +25% scores +1, inside
+        ±10% scores 0, −10% to −25% scores −1, and −25% or worse scores −2. The
+        mean of every window the stored data could answer is mapped onto 0–100.
+        A window whose ratio crosses zero has no honest percentage, so it is left
+        out rather than guessed.</p>
+      ${(p.cells || []).filter(c => c.pct != null).map(c =>
+        `<div class="ev">${c.score > 0 ? "▲" : c.score < 0 ? "▼" : "▬"}
+          ${esc(c.measure)}, last ${c.window} year${c.window > 1 ? "s" : ""}:
+          FY${c.from} → FY${c.to}, ${c.pct >= 0 ? "+" : ""}${c.pct.toFixed(1)}%
+          → ${c.score >= 0 ? "+" : ""}${c.score}</div>`).join("")}
+    </details>`;
 }
 
 const MB_VERDICT_CLS = { "STRONG FIT": "pos", "LIKELY FIT": "pos",
@@ -745,7 +991,7 @@ function risksSection(qr) {
     ${rows}`;
 }
 
-async function askVerdict(sym, question, outEl) {
+async function askVerdict(sym, question, outEl, source) {
   outEl.insertAdjacentHTML("beforeend",
     `<div class="qa-q">Q: ${esc(question)}</div><div class="qa-a note">Thinking — answering from the stored analysis and the concalls…</div>`);
   const slot = outEl.lastElementChild;
@@ -753,7 +999,7 @@ async function askVerdict(sym, question, outEl) {
     // job + poll, so a slow answer can't hit proxy timeouts (Codespaces)
     const res = await fetch(`api/jobs/ask/${sym}`, {
       method: "POST", headers: { "content-type": "application/json" },
-      body: JSON.stringify({ question }),
+      body: JSON.stringify(source ? { question, source } : { question }),
     });
     if (!res.ok) throw new Error((await res.json()).detail || res.status);
     const { job } = await res.json();
@@ -801,10 +1047,26 @@ function renderTopic(sym, topic) {
     <p class="note">Full picture: <span class="co-link" data-co="${sym}">open the complete ${sym} scorecard</span>.</p>`);
 }
 
+const DIR_ARROW = { improved: "▲ improved", declined: "▼ declined",
+                    "held steady": "▬ steady" };
+const GRADE_COLOR = { Outstanding: "var(--series-1)", Strong: "var(--series-1)",
+                      Decent: "var(--mid)", Mixed: "var(--mid)",
+                      Weak: "var(--neg)" };
+
 function renderRanking(n, moduleId, industry, asc) {
-  // Require >= 5 of the 34 parameters assessed (coverage >= ~15%): a single
-  // inflated signal (e.g. CFO-based CROCI for lenders) must not top a
-  // quality ranking. Honest-coverage discipline from the skill's rubric.
+  // Module-specific screens ("top 5 by growth") rank on the live numbers
+  // for that one module. The OVERALL ranking never does: it uses the full
+  // stored analyst rating — qualitative pillars included — because the
+  // numbers alone answer only 7 of the 34 checks and would mis-rank.
+  if (!moduleId) {
+    const rows = Object.entries(state.data.companies)
+      .map(([sym, c]) => ({ sym, c, st: c.stored }))
+      .filter(r => r.st && r.st.score != null &&
+                   (!industry || r.c.industry === industry));
+    if (rows.length) return renderStoredRanking(rows, n, industry, asc);
+    // no stored reports on disk at all — fall through to the honest
+    // numbers-only ranking rather than showing nothing
+  }
   const MIN_COV = 0.14;
   const rows = Object.entries(state.data.companies)
     .map(([sym, c]) => ({
@@ -817,7 +1079,7 @@ function renderRanking(n, moduleId, industry, asc) {
   rows.sort((a, b) => asc ? (a.s - b.s || a.cov - b.cov) : (b.s - a.s || b.cov - a.cov));
   const top = rows.slice(0, n);
   const title = `${asc ? "Weakest" : "Best"} ${top.length} companies` +
-    (moduleId ? ` by ${modName(moduleId)}` : " by overall quality") +
+    (moduleId ? ` by ${modName(moduleId)}` : " by quantitative signals") +
     (industry ? ` in ${industry}` : "");
   const trs = top.map((r, i) => `<tr class="rowlink" data-co="${r.sym}">
       <td>${i + 1}</td><td><span class="co-link">${esc(r.c.name)}</span> <span class="sym">${r.sym}</span></td>
@@ -827,26 +1089,71 @@ function renderRanking(n, moduleId, industry, asc) {
       <td>${Math.round(r.cov * 100)}%</td>
       <td>₹${fmtCr(r.c.mcap)}</td><td>${r.c.pe ?? "—"}</td></tr>`).join("");
   card(`<h2>${esc(title)}</h2>
-    <p class="note">Ranked by score then coverage — a better-evidenced company outranks a
-    thinly-evidenced one, and companies with fewer than 5 of 34 parameters assessed are
-    excluded so one inflated signal can't top the list. Scores are quantitative-only;
-    click a row for the full explainable scorecard.</p>
+    <p class="note">Ranked by the live quantitative signals for this measure, score then
+    coverage; companies with fewer than 5 of 34 parameters assessed are excluded so one
+    inflated signal can't top the list. This is a numbers screen, not the full verdict —
+    click a row for the complete analysis.</p>
     <table class="rank"><thead><tr><th>#</th><th>Company</th><th>Industry</th>
       <th>Score</th><th>Coverage</th><th>Mcap</th><th>P/E</th></tr></thead>
+    <tbody>${trs}</tbody></table>`);
+}
+
+function renderStoredRanking(rows, n, industry, asc) {
+  // ranked on the STORED analyst rating: quality 40.5% + patterns 27% +
+  // safety 22.5% + against-the-index 10%, exactly as each report derives it
+  rows.sort((a, b) => asc ? (a.st.score - b.st.score)
+                          : (b.st.score - a.st.score));
+  const top = rows.slice(0, n);
+  const title = `${asc ? "Weakest" : "Best"} ${top.length} companies` +
+    (industry ? ` in ${industry}` : "");
+  const unrated = Object.values(state.data.companies)
+    .filter(c => c.stored && c.stored.score == null).length;
+  const trs = top.map((r, i) => `<tr class="rowlink" data-co="${r.sym}">
+      <td>${i + 1}</td>
+      <td><span class="co-link">${esc(r.c.name)}</span> <span class="sym">${r.sym}</span></td>
+      <td>${esc(r.c.industry || "—")}</td>
+      <td><strong style="color:${GRADE_COLOR[r.st.grade] || "var(--mid)"}">${esc(r.st.grade)}</strong>
+          <span class="note">${r.st.score} / 100</span></td>
+      <td>${DIR_ARROW[r.st.direction] || "—"}</td>
+      <td>₹${fmtCr(r.c.mcap)}</td><td>${r.c.pe ?? "—"}</td></tr>`).join("");
+  card(`<h2>${esc(title)}</h2>
+    <p class="note">Ranked by the full stored analyst rating out of 100 — business quality
+    (40.5%), multibagger fit (27%), risk safety (22.5%) and performance against the
+    Nifty 50 (10%), qualitative judgement included — read from the same stored reports
+    the download buttons serve.${unrated ? ` ${unrated} compan${unrated > 1 ? "ies" : "y"} whose
+    report says “Not rated” ${unrated > 1 ? "are" : "is"} excluded rather than guessed.` : ""}
+    Click a row for the full analysis.</p>
+    <table class="rank"><thead><tr><th>#</th><th>Company</th><th>Industry</th>
+      <th>Rating</th><th>Last 1 yr</th><th>Mcap</th><th>P/E</th></tr></thead>
     <tbody>${trs}</tbody></table>`);
 }
 
 function renderCompare(a, b) {
   const A = state.data.companies[a], B = state.data.companies[b];
   if (!A || !B) return card(`<p>Missing data for comparison.</p>`);
-  const half = (sym, co) => `<div>
+  // the headline of each side is the STORED analyst rating (qualitative
+  // pillars included); the quantitative module bars follow as detail
+  const half = (sym, co) => {
+    const st = co.stored;
+    const headline = st && st.score != null
+      ? `<div class="scoreline"><span class="big-score" style="font-size:22px;
+           color:${GRADE_COLOR[st.grade] || "var(--mid)"}">${esc(st.grade)}</span>
+         <span class="cov">${st.score} / 100 · ${DIR_ARROW[st.direction] || "no one-year read"}</span></div>`
+      : st
+      ? `<div class="scoreline"><span class="big-score mid" style="font-size:22px">Not rated</span>
+         <span class="cov">the stored report could not honestly score it</span></div>`
+      : `<div class="scoreline"><span class="big-score ${scoreCls(co.overall)}" style="font-size:22px">${verdictWord(co.overall)}</span>
+         <span class="cov">${fmtScore(co.overall)} · numbers only, no stored report</span></div>`;
+    return `<div>
       <div class="co-head"><span class="nm">${esc(co.name)}</span> <span class="sym">${sym}</span></div>
-      <div class="scoreline"><span class="big-score ${scoreCls(co.overall)}" style="font-size:22px">${verdictWord(co.overall)}</span>
-      <span class="cov">${fmtScore(co.overall)} · coverage ${Math.round(co.coverage * 100)}%</span></div>
+      ${headline}
       ${moduleBars(co)}
       <p class="note"><span class="co-link" data-co="${sym}">full ${sym} scorecard →</span></p>
     </div>`;
+  };
   card(`<h2>Compare: ${esc(A.name)} vs ${esc(B.name)}</h2>
+    <p class="note">Headlines are the full stored analyst ratings; the bars beneath are the
+    live quantitative signals by area.</p>
     <div class="grid2">${half(a, A)}${half(b, B)}</div>`);
 }
 
@@ -875,4 +1182,254 @@ function renderHelp() {
     <li>“compare TITAN and DMART” — side by side</li>
     <li>“working capital of IXIGO” / “margins of INFY” — topic deep-dive</li>
     <li>“explain the framework” / “explain return on capital” — methodology</li></ul>`);
+}
+
+/* ================== stored-report rendering (ported from the v2 UI) ==================
+   The DEFAULT company view renders the STORED analysis — the same complete,
+   qualitative-included reports the batch wrote and the ranking uses — so the
+   page can never show less than the report it offers for download. The live
+   pipeline stays available behind an explicit "re-run" action. */
+
+function inlineMd(s) {
+  return esc(s)
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, "$1<em>$2</em>")
+    .replace(/`([^`]+)`/g, "<code>$1</code>");
+}
+
+function mdToHtml(md, collapseFrom) {
+  const lines = md.split("\n");
+  const out = [];
+  let list = null, table = null, quote = null, para = [], fence = null;
+  const flushPara = () => {
+    if (!para.length) return;
+    out.push(`<p>${inlineMd(para.join(" "))}</p>`);
+    para = [];
+  };
+  const flushList = () => { if (list) { out.push(`<ul>${list.join("")}</ul>`); list = null; } };
+  const flushTable = () => {
+    if (!table) return;
+    const [head, ...body] = table;
+    out.push(`<div class="tblwrap"><table class="rank"><thead><tr>` +
+      head.map(c => `<th>${inlineMd(c)}</th>`).join("") + `</tr></thead><tbody>` +
+      body.map(r => `<tr>` + r.map(c => `<td>${inlineMd(c)}</td>`).join("") + `</tr>`).join("") +
+      `</tbody></table></div>`);
+    table = null;
+  };
+  const flushQuote = () => {
+    if (quote) { out.push(`<blockquote>${inlineMd(quote.join(" "))}</blockquote>`); quote = null; }
+  };
+  const flushAll = () => { flushPara(); flushList(); flushTable(); flushQuote(); };
+  for (const raw of lines) {
+    const line = raw.replace(/\s+$/, "");
+    if (fence !== null) {                       // inside a ``` code fence
+      if (/^```\s*$/.test(line)) { out.push(fencedBlock(fence)); fence = null; }
+      else fence.push(raw);
+      continue;
+    }
+    if (/^```/.test(line)) { flushAll(); fence = []; continue; }
+    const h = line.match(/^(#{1,4})\s+(.*)$/);
+    if (h) {
+      flushAll();
+      out.push({ heading: true, lvl: h[1].length, text: h[2], html: inlineMd(h[2]) });
+      continue;
+    }
+    if (/^(\s*)[-*]\s+/.test(line)) {
+      flushPara(); flushTable(); flushQuote();
+      list = list || [];
+      list.push(`<li>${inlineMd(line.replace(/^(\s*)[-*]\s+/, ""))}</li>`);
+      continue;
+    }
+    if (/^\|.*\|\s*$/.test(line)) {
+      flushPara(); flushList(); flushQuote();
+      const cells = line.slice(1, -1).split("|").map(c => c.trim());
+      if (cells.every(c => /^:?-{2,}:?$/.test(c))) continue;   // separator row
+      table = table || [];
+      table.push(cells);
+      continue;
+    }
+    if (/^>\s?/.test(line)) {
+      flushPara(); flushList(); flushTable();
+      quote = quote || [];
+      quote.push(line.replace(/^>\s?/, ""));
+      continue;
+    }
+    if (/^(---+|\*\*\*+)\s*$/.test(line)) { flushAll(); out.push("<hr>"); continue; }
+    if (line.trim() === "") { flushAll(); continue; }
+    flushTable(); flushList(); flushQuote();
+    para.push(line.trim());
+  }
+  flushAll();
+  if (fence !== null) out.push(fencedBlock(fence));   // unterminated fence
+  return foldSections(out, collapseFrom || 2);
+}
+
+// The stored reports draw their charts as text on purpose (they must render
+// on GitHub too) — keep them verbatim in a <pre> so nothing ever mushes.
+function fencedBlock(lines) {
+  return `<pre class="mdcode">${esc(lines.join("\n"))}</pre>`;
+}
+
+const MD_VERDICT_VOCAB = [
+  ["STRONG FIT", "pos"], ["LIKELY FIT", "pos"], ["QUANT SIGNAL", "mid"],
+  ["PARTIAL", "mid"], ["NO FIT", "neg"], ["NOT ASSESSED", "mid"],
+  ["HIGH RISK", "neg"], ["ELEVATED", "neg"], ["QUANT FLAG", "mid"],
+  ["WATCH", "warn"], ["NO SIGNAL", "pos"], ["LOW", "pos"],
+  ["Excellent", "pos"], ["Outstanding", "pos"], ["Strong", "pos"],
+  ["Good", "pos"], ["Decent", "mid"], ["Mixed", "mid"],
+  ["Weak", "neg"], ["Poor", "neg"], ["Not rated", "mid"],
+  ["IMPROVED", "pos"], ["DECLINED", "neg"], ["HELD STEADY", "mid"],
+  // the index comparison — longest phrases first, so "LAGGED the index
+  // badly" is never matched as the milder "LAGGED the index"
+  ["GAINED STRONGLY on the index", "pos"], ["GAINED on the index", "pos"],
+  ["MOVED WITH the index", "mid"],
+  ["LAGGED the index badly", "neg"], ["LAGGED the index", "neg"],
+];
+
+function verdictBadge(fragment) {
+  const t = fragment.trim().replace(/[★☆➡️📈📉⬜]/gu, "").trim();
+  for (const [word, cls] of MD_VERDICT_VOCAB) {
+    if (t === word || t.startsWith(word + " ") || t.startsWith(word + ",")
+        || t.endsWith(" " + word)) return { word, cls };
+  }
+  return null;
+}
+
+function classifyText(text) {
+  for (const [word, cls] of MD_VERDICT_VOCAB)
+    if (text.includes(word)) return cls;
+  return "mid";
+}
+
+const stripTags = s => String(s).replace(/<[^>]+>/g, "");
+const renameHeading = t => t.replace(/^(Section|Step|Bucket)\s+\d+\s+—\s+/, "");
+const HIDDEN_SECTION_RE = /^How this (report|comparison) was built/i;
+const badgeHtml = (word, cls) => `<span class="vbadge ${cls}">${esc(word)}</span>`;
+
+function childVerdictTally(nodes, i) {
+  const lvl = nodes[i].lvl;
+  const counts = new Map();
+  for (let j = i + 1; j < nodes.length; j++) {
+    const n = nodes[j];
+    if (!n || !n.heading) continue;
+    if (n.lvl <= lvl) break;
+    const parts = n.text.split(" — ");
+    if (parts.length < 2) continue;
+    const b = verdictBadge(parts[parts.length - 1]);
+    if (b) counts.set(b.word, { cls: b.cls, n: (counts.get(b.word) || { n: 0 }).n + 1 });
+  }
+  if (!counts.size) return "";
+  const sev = { neg: 0, warn: 1, mid: 2, pos: 3 };
+  return [...counts.entries()]
+    .sort((a, b) => sev[a[1].cls] - sev[b[1].cls])
+    .map(([word, v]) => badgeHtml(`${v.n} ${word}`, v.cls)).join("");
+}
+
+function firstParagraph(nodes, i) {
+  const lvl = nodes[i].lvl;
+  for (let j = i + 1; j < nodes.length; j++) {
+    const n = nodes[j];
+    if (n && n.heading) { if (n.lvl <= lvl) break; continue; }
+    if (typeof n === "string" && n.startsWith("<p>")) return stripTags(n).trim();
+  }
+  return "";
+}
+
+function summaryFor(nodes, i, titleText) {
+  const colon = titleText.match(/^([^:]{3,60}):\s+(.+)$/);
+  if (colon) {
+    const b = verdictBadge(colon[2]);
+    if (b) return { title: colon[1],
+                    badge: badgeHtml(colon[2].replace(/[★☆➡️📈📉⬜]/gu, "").trim(), b.cls),
+                    snippet: "" };
+  }
+  const parts = titleText.split(" — ");
+  if (parts.length >= 2) {
+    const b = verdictBadge(parts[parts.length - 1]);
+    if (b) return { title: parts.slice(0, -1).join(" — "),
+                    badge: badgeHtml(parts[parts.length - 1].trim(), b.cls),
+                    snippet: "" };
+  }
+  const para = firstParagraph(nodes, i);
+  let badge = childVerdictTally(nodes, i);
+  let text = para.replace(/^Overall:?\s*/i, "").trim();
+  if (text && !badge) {
+    const fits = text.match(/fits (\d+) of the (\d+) patterns/);
+    const moves = text.match(/(\d+) (improved|strengthened|eased), (\d+) (regressed|weakened|worsened)/);
+    if (fits) badge = badgeHtml(`fits ${fits[1]} of ${fits[2]} patterns`,
+                                +fits[1] > 0 ? "pos" : "neg");
+    else if (moves) badge = badgeHtml(`▲ ${moves[1]} ${moves[2]}`, +moves[1] ? "pos" : "mid") +
+                            badgeHtml(`▼ ${moves[3]} ${moves[4]}`, +moves[3] ? "neg" : "mid");
+    else {
+      // the index section states its verdict mid-sentence
+      const rel = text.match(/the company has ([A-Z][A-Za-z ]+?) — (\d+) out of 100/);
+      const b = verdictBadge(rel ? rel[1] : text);
+      if (b) badge = badgeHtml(rel ? `${rel[1]} · ${rel[2]}/100` : b.word, b.cls);
+    }
+  }
+  if (text) {
+    const cut = text.indexOf(". ");
+    if (cut > 40) text = text.slice(0, cut + 1);
+    if (text.length > 150) text = text.slice(0, 147) + "…";
+  }
+  return { title: titleText, badge,
+           snippet: text ? `<span class="sum-note ${classifyText(text)}-t">${esc(text)}</span>` : "" };
+}
+
+function foldSections(nodes, collapseFrom) {
+  let html = "", open = 0, hiddenBelow = null;
+  for (let i = 0; i < nodes.length; i++) {
+    const n = nodes[i];
+    if (n && n.heading) {
+      if (hiddenBelow !== null && n.lvl > hiddenBelow) continue;
+      hiddenBelow = null;
+      if (HIDDEN_SECTION_RE.test(n.text)) { hiddenBelow = n.lvl; continue; }
+      const title = renameHeading(n.text);
+      if (n.lvl >= collapseFrom) {
+        while (open > 0 && open >= n.lvl - collapseFrom + 1) { html += "</details>"; open--; }
+        const s = summaryFor(nodes, i, title);
+        html += `<details class="mdsec lvl${n.lvl}"><summary><span class="sum-title">${inlineMd(s.title)}</span>${s.badge}${s.snippet}</summary>`;
+        open++;
+      } else {
+        while (open > 0) { html += "</details>"; open--; }
+        html += `<h${n.lvl + 1} class="mdh">${inlineMd(title)}</h${n.lvl + 1}>`;
+      }
+    } else {
+      if (hiddenBelow !== null) continue;
+      html += n;
+    }
+  }
+  while (open > 0) { html += "</details>"; open--; }
+  return html;
+}
+
+function extractSection(md, headingRe) {
+  const lines = md.split("\n");
+  let start = -1, lvl = 0;
+  for (let i = 0; i < lines.length; i++) {
+    const h = lines[i].match(/^(#{1,4})\s+(.*)$/);
+    if (h && headingRe.test(h[2])) { start = i; lvl = h[1].length; break; }
+  }
+  if (start < 0) return "";
+  const out = [];
+  for (let i = start; i < lines.length; i++) {
+    if (i > start) {
+      const h = lines[i].match(/^(#{1,4})\s+/);
+      if (h && h[1].length <= lvl) break;
+    }
+    out.push(lines[i]);
+  }
+  return out.join("\n");
+}
+
+function reorderReportMd(md) {
+  const body = dropPreamble(md);
+  const verdict = extractSection(body, /^The verdict/);
+  if (!verdict) return body;
+  return verdict + "\n\n" + body.replace(verdict, "");
+}
+
+function dropPreamble(md) {
+  const i = md.search(/^## /m);
+  return i > 0 ? md.slice(i) : md.replace(/^#\s.*\n/, "");
 }

@@ -286,9 +286,15 @@ async function fetchRanking(n, order, industry) {
   return { order, n: rows.length, industry, rows };
 }
 
+async function fetchRelative(sym) {
+  return jget(STATIC ? `data/relative/${sym}.json` : `api/relative/${sym}`);
+}
+
+const REPORT_API = { analysis: "api/report", comparison: "api/comparison_report",
+                     stock_to_index: "api/relative_report" };
 const reportHref = (sym, kind) => STATIC
   ? `reports/${sym}_${kind}.md`
-  : (kind === "analysis" ? `api/report/${sym}` : `api/comparison_report/${sym}`);
+  : `${REPORT_API[kind]}/${sym}`;
 
 // Static-mode Q&A: quote the most relevant report passages, verbatim —
 // the same behaviour as the server's no-AI mode, entirely client-side.
@@ -444,6 +450,11 @@ const VERDICT_VOCAB = [
   ["Good", "pos"], ["Decent", "mid"], ["Mixed", "mid"],
   ["Weak", "neg"], ["Poor", "neg"], ["Not rated", "mid"],
   ["IMPROVED", "pos"], ["DECLINED", "neg"], ["HELD STEADY", "mid"],
+  // the index comparison — longest phrases first, so "LAGGED the index
+  // badly" is never matched as the milder "LAGGED the index"
+  ["GAINED STRONGLY on the index", "pos"], ["GAINED on the index", "pos"],
+  ["MOVED WITH the index", "mid"],
+  ["LAGGED the index badly", "neg"], ["LAGGED the index", "neg"],
 ];
 
 function verdictBadge(fragment) {
@@ -537,8 +548,14 @@ function summaryFor(nodes, i, titleText) {
     else if (moves) badge = badgeHtml(`▲ ${moves[1]} ${moves[2]}`, +moves[1] ? "pos" : "mid") +
                             badgeHtml(`▼ ${moves[3]} ${moves[4]}`, +moves[3] ? "neg" : "mid");
     else {
-      const b = verdictBadge(text);
-      if (b) badge = badgeHtml(b.word, b.cls);
+      // the index section states its verdict mid-sentence — "the company
+      // has MOVED WITH the index — 54 out of 100" — so it never anchors to
+      // the start or end of the paragraph the way the other verdicts do
+      const rel = text.match(
+        /the company has ([A-Z][A-Za-z ]+?) — (\d+) out of 100/);
+      const b = verdictBadge(rel ? rel[1] : text);
+      if (b) badge = badgeHtml(rel ? `${rel[1]} · ${rel[2]}/100` : b.word,
+                               b.cls);
     }
   }
   if (text) {
@@ -661,6 +678,148 @@ function chartsCard(data) {
 
 /* ---------------- company view: stored reports + charts + Q&A ---------------- */
 
+/* ---------- the index comparison, from the stored reports ----------
+   Everything here is parsed out of the same Markdown the download buttons
+   hand over, so the page and the file can never disagree. */
+
+const REL_COLORS = ["#2a78d6", "#1a9e5c", "#e07b00"];
+const relCls = pct => pct == null ? "mid" : pct >= 10 ? "pos"
+  : pct <= -10 ? "neg" : "mid";
+const relVerdictCls = v => {
+  const s = (v || "").toLowerCase();
+  return s.includes("gained") ? "pos" : s.includes("lagged") ? "neg" : "mid";
+};
+const relPct = p => `${p >= 0 ? "+" : ""}${p}%`;
+
+function relYoyChart(ratios) {
+  const series = ratios.map((r, i) => ({
+    label: r.label, color: REL_COLORS[i % REL_COLORS.length],
+    pts: (r.levels || []).filter(l => l.yoy != null)
+      .map(l => ({ fy: l.fy, v: l.yoy })),
+  })).filter(s => s.pts.length > 1);
+  if (!series.length) return "";
+  const years = [...new Set(series.flatMap(s => s.pts.map(p => p.fy)))].sort();
+  const vals = series.flatMap(s => s.pts.map(p => p.v)).concat([0]);
+  let lo = Math.min(...vals), hi = Math.max(...vals);
+  const pad = (hi - lo) * 0.12 || 1; lo -= pad; hi += pad;
+  const W = 740, H = 300, L = 54, R = 14, T = 16, B = 40;
+  const x = fy => years.length < 2 ? L + (W - L - R) / 2
+    : L + years.indexOf(fy) * (W - L - R) / (years.length - 1);
+  const y = v => T + (hi - v) * (H - T - B) / (hi - lo);
+  const grid = [0, 1, 2, 3, 4].map(i => {
+    const v = hi - (hi - lo) * i / 4;
+    return `<line x1="${L}" y1="${y(v).toFixed(1)}" x2="${W - R}" y2="${y(v).toFixed(1)}"
+      stroke="currentColor" stroke-opacity=".12"/>
+      <text x="${L - 8}" y="${(y(v) + 4).toFixed(1)}" text-anchor="end" font-size="11"
+        fill="currentColor" fill-opacity=".6">${v >= 0 ? "+" : ""}${v.toFixed(0)}%</text>`;
+  }).join("");
+  const zero = (lo < 0 && hi > 0)
+    ? `<line x1="${L}" y1="${y(0).toFixed(1)}" x2="${W - R}" y2="${y(0).toFixed(1)}"
+        stroke="currentColor" stroke-opacity=".45" stroke-dasharray="5 4"/>` : "";
+  const xlab = years.map((fy, i) => (years.length > 9 && i % 2) ? "" :
+    `<text x="${x(fy).toFixed(1)}" y="${H - B + 17}" text-anchor="middle" font-size="11"
+       fill="currentColor" fill-opacity=".6">FY${String(fy).slice(2)}</text>`).join("");
+  const lines = series.map(s =>
+    `<polyline points="${s.pts.map(p => `${x(p.fy).toFixed(1)},${y(p.v).toFixed(1)}`).join(" ")}"
+       fill="none" stroke="${s.color}" stroke-width="2.2"
+       stroke-linejoin="round" stroke-linecap="round"/>` +
+    s.pts.map(p => `<circle cx="${x(p.fy).toFixed(1)}" cy="${y(p.v).toFixed(1)}" r="3.4"
+        fill="var(--surface-1,#fff)" stroke="${s.color}" stroke-width="2"><title>${esc(s.label)} · FY${p.fy} · ${p.v >= 0 ? "+" : ""}${p.v.toFixed(1)}%</title></circle>`).join("")
+  ).join("");
+  return `<figure class="rel-chart">
+    <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Yearly change of each ratio against the index">
+      ${grid}${zero}<line x1="${L}" y1="${H - B}" x2="${W - R}" y2="${H - B}"
+        stroke="currentColor" stroke-opacity=".35"/>${xlab}${lines}</svg>
+    <figcaption class="rel-legend">
+      ${series.map(s => `<span class="rel-key"><i style="background:${s.color}"></i>${esc(s.label)}</span>`).join("")}
+      <span class="note">above the dashed 0% line the company gained on the index that year</span>
+    </figcaption></figure>`;
+}
+
+function relWindowTable(measures, rows) {
+  if (!measures.length || !rows.length) return "";
+  return `<div class="tblwrap"><table class="rel-table">
+    <thead><tr><th>Window</th>${measures.map(m => `<th>${esc(m)}</th>`).join("")}</tr></thead>
+    <tbody>${rows.map(r => `<tr>
+      <th scope="row">last ${r.window} year${r.window > 1 ? "s" : ""}</th>
+      ${measures.map(m => {
+        const c = r.cells[m];
+        if (!c || c.pct == null)
+          return `<td class="note">${esc((c && c.word) || "not comparable")}</td>`;
+        return `<td class="${relCls(c.pct)}">${relPct(c.pct)}<span class="note">${esc(c.word)}</span></td>`;
+      }).join("")}</tr>`).join("")}</tbody></table></div>`;
+}
+
+function relRawTable(raw) {
+  if (!raw || !raw.columns.length || !raw.rows.length) return "";
+  return `<div class="tblwrap"><table class="rel-table raw">
+    <thead><tr><th>Fiscal year</th>${raw.columns.map(c => `<th>${esc(c)}</th>`).join("")}</tr></thead>
+    <tbody>${raw.rows.map(r => `<tr><th scope="row">FY${r.fy}</th>${
+      r.values.map(v => `<td>${v == null ? "—" : esc(v)}</td>`).join("")}</tr>`).join("")}
+    </tbody></table></div>`;
+}
+
+function relativeCard(rel) {
+  const s = rel.section;
+  if (!s) return "";
+  // "Nifty 50" needs its article in prose; a generic fallback already has one
+  const raw = rel.index || "index";
+  const idx = /^the /i.test(raw) ? raw : `the ${raw}`;
+  const head = `<h2>Against ${esc(idx)} — price and earnings</h2>`;
+  if (!s.scored) {
+    return `${head}<p class="note">The stored history is too short to compare
+      this company with ${esc(idx)} over any window, so this pillar was left
+      out of the rating rather than guessed.</p>`;
+  }
+  const cmp = rel.comparison || {};
+  const w = rel.workup || {};
+  const cov = s.coverage;
+  return `${head}
+    <p class="rel-verdict"><span class="vbadge ${relVerdictCls(s.verdict)}">${esc(s.verdict)}</span>
+      <strong>${s.points} / 100</strong>
+      ${cmp.recent_points != null ? `<span class="note">latest year on its own:
+        ${esc(cmp.recent_verdict)} (${cmp.recent_points}/100)</span>` : ""}</p>
+    <p class="note">${esc(s.note)} This is 10% of the overall rating.</p>
+    <h3>The verdict over each window</h3>
+    ${relWindowTable(s.measures, s.windows)}
+    ${(w.ratios || []).length ? `<h3>How the three ratios moved, year by year</h3>
+      ${relYoyChart(w.ratios)}` : ""}
+    <details class="mod">
+      <summary><strong>How this pillar was scored</strong>
+        <span class="note">every window, and what it was worth</span></summary>
+      ${cov ? `<p class="note calc">Across ${cov.answered} of ${cov.possible}
+        measure-and-window pairs the stored data could answer, the company scored
+        ${cov.mean >= 0 ? "+" : ""}${cov.mean} on the −2 (lagged badly) to +2
+        (gained strongly) scale; mapped onto 0–100 that is ${s.points} points.</p>` : ""}
+      <p class="note">A ratio change of +25% or more scores +2, +10% to +25% scores
+        +1, inside ±10% scores 0, −10% to −25% scores −1, and −25% or worse scores −2.
+        A window whose ratio crosses zero has no honest percentage, so it is left out
+        rather than guessed.</p>
+    </details>
+    ${(w.ratios || []).length ? `<details class="mod">
+      <summary><strong>Each ratio in full</strong>
+        <span class="note">its level every year and the change over every window</span></summary>
+      ${w.ratios.map(r => `<h4>${esc(r.label)}</h4>
+        <p class="note">${esc(r.description)}${r.verdict
+          ? ` — <strong>${esc(r.verdict)}</strong>, ${r.change_pct >= 0 ? "+" : ""}${r.change_pct}%
+              from FY${r.from_fy} to FY${r.to_fy}.` : "."}</p>
+        ${r.unavailable
+          ? `<p class="note">${esc(r.unavailable)} — this measure was left out
+             of the score rather than guessed.</p>`
+          : `<div class="tblwrap"><table class="rel-table"><thead><tr>
+          <th>Window</th><th>From</th><th>To</th><th>Change</th></tr></thead>
+          <tbody>${r.windows.map(x => `<tr><th scope="row">last ${x.window} year${x.window > 1 ? "s" : ""}</th>
+            <td>${esc(x.from)}</td><td>${esc(x.to)}</td>
+            <td class="${relCls(x.pct)}">${esc(x.text)}</td></tr>`).join("")}</tbody>
+        </table></div>`}`).join("")}
+    </details>` : ""}
+    ${relRawTable(w.raw) ? `<details class="mod">
+      <summary><strong>The raw numbers behind every ratio</strong>
+        <span class="note">company and index, side by side, year by year</span></summary>
+      ${relRawTable(w.raw)}
+    </details>` : ""}`;
+}
+
 async function renderCompany(sym) {
   const co = state.data.companies[sym];
   if (co && !co.analysed) {
@@ -673,12 +832,13 @@ async function renderCompany(sym) {
   ph.className = "card";
   ph.innerHTML = `<p>⚡ Opening <strong>${esc(sym)}</strong>…</p>`;
   $out().appendChild(ph);
-  let a, c, ch;
+  let a, c, ch, rel;
   try {
-    [a, c, ch] = await Promise.all([
+    [a, c, ch, rel] = await Promise.all([
       fetchAnalysis(sym),
       fetchComparison(sym),
       fetchCharts(sym).catch(() => null),
+      fetchRelative(sym).catch(() => null),
     ]);
   } catch (e) {
     ph.remove();
@@ -715,10 +875,12 @@ async function renderCompany(sym) {
       <div class="fact"><div class="v">₹${a.market.price ? a.market.price.toLocaleString("en-IN") : "—"}</div><div class="k">Price</div></div>
     </div>
     <p class="note"><a class="chip" id="dl-${sym}" href="${reportHref(sym, "analysis")}" download="${sym}_analysis.md">📄 Full report (Markdown)</a>
-      <a class="chip" id="dlc-${sym}" href="${reportHref(sym, "comparison")}" download="${sym}_comparison.md">📄 One-year comparison (Markdown)</a></p>
+      <a class="chip" id="dlc-${sym}" href="${reportHref(sym, "comparison")}" download="${sym}_comparison.md">📄 One-year comparison (Markdown)</a>
+      ${rel && rel.has_workup ? `<a class="chip" id="dlr-${sym}" href="${reportHref(sym, "stock_to_index")}" download="${sym}_stock_to_index.md">📄 Index comparison (Markdown)</a>` : ""}</p>
     </div>`, "hero");
 
   if (ch) cardIn(main, chartsCard(ch));
+  if (rel) { const rc = relativeCard(rel); if (rc) cardIn(main, rc); }
 
   cardIn(main, `<h2>The research</h2>
     <p class="note">Every check, pattern and risk with its why — folded, verdicts in the
@@ -848,8 +1010,10 @@ async function renderRanking(n, order, industry) {
       <td>${(DIR_META[r.direction] || {}).icon || ""} ${esc(r.direction || "—")}</td>
       <td>₹${fmtCr(r.mcap)}</td><td>${r.pe ?? "—"}</td></tr>`).join("");
   card(`<h2>${esc(title)}</h2>
-    <p class="note">Ranked by the stored 0–100 rating (quality 45% + multibagger fit 30% +
-    risk safety 25%) over the ${state.data.n_analysed} analysed companies.
+    <p class="note">Ranked by the stored 0–100 rating (business quality 40.5% +
+    multibagger fit 27% + risk safety 22.5% + how it has done against the Nifty 50 10%;
+    a company the index comparison cannot reach keeps the original 45/30/25 split)
+    over the ${state.data.n_analysed} analysed companies.
     <strong>Click any row to drill down</strong> into that company's full stored reports.</p>
     <div class="tblwrap"><table class="rank"><thead><tr><th>#</th><th>Company</th><th>Industry</th>
       <th>Rating</th><th>Last 1 yr</th><th>Mcap</th><th>P/E</th></tr></thead>

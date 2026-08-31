@@ -49,6 +49,8 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import Response
 from fastapi.staticfiles import StaticFiles
 
+import relative_index as RI      # the stored index comparison, parsed
+
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
 INDIA = REPO / "IndividualStockAnalysis" / "India"
@@ -251,6 +253,28 @@ def comparison_report(sym: str):
                     media_type="text/markdown",
                     headers={"Content-Disposition":
                              f'attachment; filename="{sym}_comparison.md"'})
+
+
+@app.get("/api/relative/{sym}")
+def relative(sym: str):
+    """The index comparison, parsed out of the same stored reports the page
+    already serves: Section 4's verdict and windows, Bucket 4's then-vs-now,
+    and the full workup's yearly ratios and raw values."""
+    sym = _require_analysed(sym)
+    a, c = _report_paths(sym)
+    return RI.load(QA, sym, _read_md(a), _read_md(c))
+
+
+@app.get("/api/relative_report/{sym}")
+def relative_report(sym: str):
+    """The index workup as stored — the third downloadable report."""
+    sym = _require_analysed(sym)
+    path = RI.workup_path(QA, sym)
+    if not path.exists():
+        raise HTTPException(404, f"no index workup stored for {sym}")
+    return Response(content=_read_md(path), media_type="text/markdown",
+                    headers={"Content-Disposition":
+                             f'attachment; filename="{sym}_stock_to_index.md"'})
 
 
 @app.get("/api/ranking")

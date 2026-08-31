@@ -3,16 +3,26 @@
 A web UI where you ask questions in **natural language** ("analyse DIXON",
 "rate CRISIL", "best 10 companies", "risks of TATASTEEL") and get the
 **complete company analysis** back for all **742 Nifty Total Market
-companies** — one explainable rating out of 100 built from three engines
+companies** — one explainable rating out of 100 built from four analyses
 that all run live on the server:
 
-1. **Business quality (45%)** — the `Skills/BusinessAnalysis` 34-check
+1. **Business quality (40.5%)** — the `Skills/BusinessAnalysis` 34-check
    framework: quantitative signals recomputed at request time, fused with
    the qualitative playbook over the company's conference-call history.
-2. **Multibagger fit (30%)** — the `Skills/MultibaggerPattern` skill: which
+2. **Multibagger fit (27%)** — the `Skills/MultibaggerPattern` skill: which
    of the 11 patterns long-term winners share does it fit, and why.
-3. **Risk safety (25%)** — the `Skills/QualityRisks` skill: which of the 8
+3. **Risk safety (22.5%)** — the `Skills/QualityRisks` skill: which of the 8
    ways quality companies fail is it exposed to, at what severity.
+4. **Relative to the index (10%)** — the
+   `Skills/StockToIndexPriceEarningsRatio` skill: has the company's price,
+   net profit and operating profit pulled ahead of the Nifty 50 or fallen
+   behind, over 10 / 5 / 3 / 1 years. Reads stored data only — no AI call
+   and no network round-trip.
+
+The first three keep their 45 / 30 / 25 proportions exactly, scaled to 90%
+so the fourth's 10% makes them sum to 1. When a company's history is too
+short to compare against the index, the weights re-normalise and the
+original 45 / 30 / 25 split returns untouched.
 
 The quality judge for all three engines is **Opus 5** (`claude-opus-5`),
 via your Claude subscription (Claude Code CLI) or an API key. Judge
@@ -21,6 +31,20 @@ analysis takes several minutes (three deep reads of its call history) and
 is instant afterwards. Every verdict states *why* it landed where it did;
 anything the evidence can't answer stays *not assessed* — never guessed —
 and every qualitative judgement carries a verbatim quote from the calls.
+
+## How a company page is served
+
+Opening a company shows the **stored report pair** by default — the same
+complete, qualitative-included analysis the rankings use, rendered
+instantly; the download buttons hand over those exact files. The **"Re-run
+this analysis live"** button recomputes everything from today's data.
+
+Re-runs are fast and complete on any machine: every judge verdict from the
+batch is committed in the skills' caches, keyed by the **transcript's
+content** (never file mtime, which git does not preserve), so a fresh
+clone reuses them instead of re-judging. `ai` only gates NEW judge calls —
+with AI off, cached judgements still serve, and only a genuinely new
+transcript needs a login to be judged.
 
 ## Run it (GitHub Codespaces)
 

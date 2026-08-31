@@ -37,7 +37,9 @@ def run_all(sym: str, ai: bool) -> dict:
     ba, s1 = AR.run_business(sym, ai=ai)
     mb, s2 = AR.run_patterns(sym, ai=ai)
     qr, s3 = AR.run_risks(sym, ai=ai)
-    exts = AR.run_extensions(sym, ai=ai)
+    # the one-year lens: extensions judge the latest window only, so this
+    # side is scored on one year of evidence like every other pillar here
+    exts = AR.run_extensions(sym, ai=ai, lens="recent")
     rt = AC.compute_rating(ba, mb, qr, extensions=exts)
     windowed = {"symbol": sym, "window": "last_one_year",
                 "business": ba, "patterns": mb, "risks": qr,
@@ -61,11 +63,12 @@ def run_all(sym: str, ai: bool) -> dict:
 def compose_md(sym: str, out: dict, ai: bool) -> str:
     meta = AR.company_meta(sym)
     name = meta["name"]
-    synth = overview = None
+    synth = None
+    # a cached overview is served even with AI off; a miss stays None
+    overview = AC.business_overview(sym, name, allow_ai=ai)
     if ai:
         print("Composing the business overview and analyst's summary "
               "(one-year lens)…", file=sys.stderr)
-        overview = AC.business_overview(sym, name)
         synth = AC.synthesize(sym, name, out["business"], out["patterns"],
                               out["risks"], out["rating"],
                               extensions=out.get("extensions"))

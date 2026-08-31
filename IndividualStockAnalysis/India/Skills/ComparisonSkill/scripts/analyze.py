@@ -212,6 +212,47 @@ def render(sym: str, name: str, rec: dict) -> str:
               f"one-year view ({fr['recent_why']})")
             A("")
 
+    # bucket 4 — only when the index comparison could be made
+    rel = rec.get("relative")
+    if rel:
+        A("### Bucket 4 — Against the index "
+          "(price and earnings vs the Nifty 50)")
+        A("")
+        if rel["full"] is None:
+            A("The stored history is too short to compare this company "
+              "with the index over any window.")
+            A("")
+        else:
+            recent_txt = (f"**{rel['recent_verdict']}** ({rel['recent']}/100)"
+                          if rel["recent"] is not None
+                          else "**no comparable year**")
+            A(f"Over the long run the company has "
+              f"**{rel['full_verdict']}** ({rel['full']}/100). Looking only "
+              f"at the latest year, it has {recent_txt}.")
+            A("")
+            A("Each cell is the change in the company-to-index ratio across "
+              "that window — a rise means the company outgrew the index.")
+            A("")
+            measures, windows = [], []
+            for c in rel["windows"]:
+                if c["measure"] not in measures:
+                    measures.append(c["measure"])
+                if c["window"] not in windows:
+                    windows.append(c["window"])
+            if measures and windows:
+                at = {(c["window"], c["measure"]): c for c in rel["windows"]}
+                A("| Window | " + " | ".join(measures) + " |")
+                A("|---|" + "---|" * len(measures))
+                for w in sorted(windows, reverse=True):
+                    cells = []
+                    for m in measures:
+                        c = at.get((w, m))
+                        cells.append(f"{c['pct']:+.0f}% · {c['word']}"
+                                     if c else "n/a")
+                    A(f"| last {w} year{'s' if w > 1 else ''} | "
+                      + " | ".join(cells) + " |")
+                A("")
+
     # ---- methodology
     A("## How this comparison was built")
     A("")

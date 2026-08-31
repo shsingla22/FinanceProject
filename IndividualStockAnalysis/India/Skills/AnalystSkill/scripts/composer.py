@@ -189,6 +189,8 @@ def compute_rating(ba: dict, mb: dict, qr: dict,
                         "points": max(0, min(100, round(p["points"]))),
                         "derivation": p.get("derivation",
                                             "No derivation provided.")}
+        if p.get("verdict"):
+            pillars[key]["verdict"] = p["verdict"]
         weights[key] = float(p.get("weight", 0.10))
         order.append(key)
     avail = {k: p for k, p in pillars.items() if p["points"] is not None}
@@ -336,16 +338,19 @@ def _word(score):
     return WORD.get(int(max(-2, min(2, round(score)))), "Neutral")
 
 
-def business_overview(sym: str, name: str) -> dict | None:
+def business_overview(sym: str, name: str,
+                      allow_ai: bool = True) -> dict | None:
     """What the company does and its business segments, written by the
     judge model STRICTLY from the conference-call transcripts (cached per
-    transcript + model). None when no transcripts or the call fails."""
+    transcript content + model). None when no transcripts or the call
+    fails. A cache hit is served even with AI off; `allow_ai` only gates
+    whether a miss may invoke the judge."""
     excerpt, n_calls, rng = REG.MB_AZ._timeline_excerpt(sym, budget=45000)
     if not excerpt:
         return None
     pdf = (REG.INDIA / "ConferenceCalls" / "NiftyTotalMarket"
            / f"{sym.replace('&', '_AND_')}.pdf")
-    stamp = f"{pdf.stat().st_mtime}:ov1:{REG.MODEL}"
+    stamp = f"{REG.pdf_content_stamp(pdf)}:ov1:{REG.MODEL}"
     cache = {}
     if OVERVIEW_CACHE.exists():
         try:
@@ -355,6 +360,8 @@ def business_overview(sym: str, name: str) -> dict | None:
     hit = cache.get(sym)
     if hit and hit.get("stamp") == stamp:
         return hit["overview"]
+    if not allow_ai:
+        return None
     prompt = (
         f"From the conference-call excerpts below ({n_calls} calls, {rng}), "
         f"describe what {name} ({sym}) actually DOES, for a reader who has "
@@ -466,8 +473,19 @@ def _verdict_plain(rt) -> str:
                         f"({', '.join(elev[:2])})")
         else:
             bits.append("the risk review found nothing severe")
-    return (f"In one breath: " + "; ".join(bits) +
-            f". Weighing those together gives {rt['score']} out of 100 — "
+    # Any extension pillar that scored gets its own closing sentence, so a
+    # freshly composed report reads exactly like the back-filled ones.
+    tail = ""
+    for key in rt.get("pillar_order", ()):
+        if not key.startswith("ext:"):
+            continue
+        e = rt["pillars"].get(key)
+        if e and e["points"] is not None and "index" in e["name"].lower():
+            tail = (f"Against the Nifty 50 it has "
+                    f"{e.get('verdict', e['name']).lower()} "
+                    f"({e['points']}/100). ")
+    return (f"In one breath: " + "; ".join(bits) + ". " + tail +
+            f"Weighing those together gives {rt['score']} out of 100 — "
             f"{rt['grade'].lower()}.")
 
 

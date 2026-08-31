@@ -11,9 +11,10 @@
 <header class="app-header">
   <div class="wrap">
     <h1>📊 Company Analyst</h1>
-    <p class="sub">Ask in plain English. Every company gets a full workup from three
-    analysis engines — the 34-check quality framework, the 11 multibagger patterns,
-    and the 8-channel risk check — combined into one explainable rating out of 100.
+    <p class="sub">Ask in plain English. Every company gets a full workup from four
+    analyses — the 34-check quality framework, the 11 multibagger patterns,
+    the 8-channel risk check, and how its price and earnings have moved against
+    the Nifty 50 — combined into one explainable rating out of 100.
     742 Nifty Total Market companies: balance sheets, P&amp;L, cash flow, working
     capital, management &amp; concall data.</p>
   </div>
@@ -41,7 +42,8 @@
       <h2>How to use</h2>
       <ul>
         <li><strong>Analyse / rate a company</strong> — “analyse DIXON”, “rate CRISIL”, or just type a company name:
-          you get the rating, the quality scorecard, the multibagger patterns it fits, and the risk check, in one view —
+          you get the rating, the quality scorecard, the multibagger patterns it fits, the risk check, and
+          <strong>how it has done against the Nifty 50</strong> on price, profit and operating profit, in one view —
           plus a <strong>then-vs-now panel on the right</strong> showing how the last one year moved against the long-term picture.</li>
         <li><strong>Select / rank companies</strong> — “best 10 companies”, “top 5 by growth”, “select good businesses in PHARMA”.</li>
         <li><strong>Compare</strong> — “compare TITAN and DMART”.</li>
@@ -50,9 +52,11 @@
       </ul>
       <p class="note">Every company analysis now follows the analyst's flow: first
       <strong>what the business is</strong> and its parts (in management's own words), then
-      <strong>the verdict</strong> with its plain-English explanation, then all three analyses
-      in full — the 34-check quality framework, the 11 multibagger patterns and the 8 risk
-      channels — each verdict with its <em>why</em>, run live via Claude (Opus&nbsp;5).
+      <strong>the verdict</strong> with its plain-English explanation, then all four analyses
+      in full — the 34-check quality framework, the 11 multibagger patterns, the 8 risk
+      channels and the <strong>index comparison</strong> (price, net profit and operating
+      profit measured against the Nifty 50 over 10, 5, 3 and 1 years) — each verdict with
+      its <em>why</em>, run live via Claude (Opus&nbsp;5).
       Alongside it, the <strong>then-vs-now panel</strong> compares that long-term view against
       the same engines run on <em>just the last one year's evidence</em>, calling out where the
       company improved, where it regressed, and which checks the short window simply cannot
@@ -65,10 +69,10 @@
 </main>
 
 <footer class="wrap foot">
-  <p>Data: screener.in-derived statements (FY15–FY26), live market caps, concall transcripts, management history ·
-  Engines: <code>Skills/BusinessAnalysis</code> + <code>Skills/MultibaggerPattern</code> + <code>Skills/QualityRisks</code>,
-  orchestrated by <code>Skills/AnalystSkill</code>, with <code>Skills/RecentAnalystSkill</code> +
-  <code>Skills/ComparisonSkill</code> powering the then-vs-now panel ·
+  <p>Data: screener.in-derived statements (FY15–FY26), live market caps, concall transcripts,
+  management history, and Nifty 50 price and earnings history ·
+  Ratings combine business quality, multibagger-pattern fit, risk safety and index-relative
+  performance; the then-vs-now panel re-runs the same analyses on the last year alone ·
   This is research tooling, not investment advice.</p>
 </footer>
 
