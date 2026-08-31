@@ -39,6 +39,7 @@ import uuid
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
+from fastapi.responses import Response
 from fastapi.staticfiles import StaticFiles
 
 HERE = Path(__file__).resolve().parent
@@ -190,6 +191,13 @@ _const = pd.read_csv(INDIA / "NiftyTotalMarket" / "niftytotalmarket_constituents
 _const_map = {str(r.nse_symbol): {"name": r.company_name,
                                   "industry": (r.industry if isinstance(r.industry, str) else "") or ""}
               for r in _const.itertuples()}
+
+
+def _clean(v):
+    try:
+        return None if v is None or pd.isna(v) else v
+    except Exception:
+        return v
 
 
 def _live_map():
@@ -508,7 +516,10 @@ def _qual_scores_cached(sym: str) -> tuple[list | None, str]:
     pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
     if not pdf.exists():
         return None, "no_concalls"
-    stamp = f"{pdf.stat().st_mtime}:v{QUAL_PROMPT_VERSION}:{ANALYSIS_MODEL}"
+    # keyed by transcript CONTENT, not mtime — git does not preserve mtimes,
+    # so an mtime key silently invalidated the cache on every fresh clone
+    stamp = (f"{AB.AR.pdf_content_stamp(pdf)}"
+             f":v{QUAL_PROMPT_VERSION}:{ANALYSIS_MODEL}")
     with _qual_lock:
         hit = _qual_cache.get(sym)
         if hit and hit.get("stamp") == stamp:
@@ -767,10 +778,39 @@ def ask(sym: str, payload: dict):
         raise HTTPException(422, "missing 'question'")
     if sym not in _const_map:
         raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
-    return _answer_question(sym, question, backend)
+    return _answer_question(sym, question, backend,
+                            (payload or {}).get("source", "live"))
 
 
-def _answer_question(sym: str, question: str, backend: str) -> dict:
+def _answer_question(sym: str, question: str, backend: str,
+                     source: str = "live") -> dict:
+    # STORED view: ground strictly in the same stored reports the page is
+    # rendering (plus concall excerpts) — no live pipeline involved, so the
+    # answer can only ever cite what is on screen.
+    if source == "stored":
+        a = QA_REPORTS / f"{sym}_analysis.md"
+        c = QA_REPORTS / f"{sym}_comparison.md"
+        if a.exists():
+            timeline = concall_timeline(sym, budget=8000)
+            prompt = (
+                f"You are explaining a stored investment analysis for {sym}. "
+                "Answer the user's question USING ONLY the two stored "
+                "reports below (the full analysis and the one-year "
+                "comparison) and the concall excerpts. Rules: cite the "
+                "specific check names, pattern/risk names, numbers, or "
+                "verbatim quotes you rely on — plain display names, never "
+                "internal codes; plain everyday financial language; if the "
+                "reports don't contain the answer, say so plainly — never "
+                "invent. Be concise (<= 200 words).\n\n"
+                f"QUESTION: {question}\n\n"
+                f"STORED ANALYSIS REPORT:\n{a.read_text()[:16000]}\n\n"
+                f"STORED ONE-YEAR COMPARISON:\n"
+                + (c.read_text()[:8000] if c.exists() else "(none stored)")
+                + f"\n\nCONCALL EXCERPTS ({timeline['n_calls']} calls, "
+                f"{timeline['from']}–{timeline['to']}):"
+                f"\n{timeline['excerpt'][:5000]}"
+            )
+            return _deliver_answer(sym, question, backend, prompt)
 
     # Ground the answer in the SAME AnalystSkill records the page shows
     # (all cached at this point in the normal flow).
@@ -845,6 +885,11 @@ def _answer_question(sym: str, question: str, backend: str) -> dict:
         f"CONCALL EXCERPTS ({timeline['n_calls']} calls, "
         f"{timeline['from']}–{timeline['to']}):\n{timeline['excerpt'][:6000]}"
     )
+    return _deliver_answer(sym, question, backend, prompt)
+
+
+def _deliver_answer(sym: str, question: str, backend: str,
+                    prompt: str) -> dict:
     if backend == "api":
         body = json.dumps({"model": API_MODEL, "max_tokens": 700,
                            "messages": [{"role": "user", "content": prompt}]}).encode()
@@ -868,6 +913,54 @@ def _answer_question(sym: str, question: str, backend: str) -> dict:
                                 (proc.stderr or "")[-300:])
         answer = proc.stdout.strip()
     return {"symbol": sym, "question": question, "answer": answer}
+
+
+# ------------------------------------- the stored reports, served as-is
+@app.get("/api/stored/{sym}")
+def stored(sym: str):
+    """The DEFAULT company view: the batch's stored reports, complete and
+    instant — qualitative pillars included. 404 when a company has no
+    stored pair yet (the client then falls back to the live pipeline)."""
+    sym = sym.upper()
+    if sym not in _const_map:
+        raise HTTPException(404, f"{sym} is not in the {UNIVERSE} universe")
+    a = QA_REPORTS / f"{sym}_analysis.md"
+    c = QA_REPORTS / f"{sym}_comparison.md"
+    if not a.exists():
+        raise HTTPException(404, f"no stored analysis for {sym}")
+    st = stored_ratings().get(sym) or {}
+    live = _live_map().get(sym, {})
+    return {"symbol": sym, "source": "stored",
+            "name": _const_map[sym]["name"],
+            "industry": _const_map[sym]["industry"],
+            "grade": st.get("grade"), "score": st.get("score"),
+            "direction": st.get("direction"),
+            "market": {"mcap": _clean(live.get("market_cap_rs_cr")),
+                       "pe": _clean(live.get("stock_pe")),
+                       "price": _clean(live.get("current_price_rs"))},
+            "analysis_md": a.read_text(),
+            "comparison_md": c.read_text() if c.exists() else None}
+
+
+def _stored_file_response(sym: str, suffix: str):
+    sym = sym.upper()
+    path = QA_REPORTS / f"{sym}{suffix}"
+    if not path.exists():
+        raise HTTPException(404, f"no stored {suffix} for {sym}")
+    return Response(content=path.read_text(), media_type="text/markdown",
+                    headers={"Content-Disposition":
+                             f'attachment; filename="{sym}{suffix}"'})
+
+
+@app.get("/api/stored_report/{sym}")
+def stored_report(sym: str):
+    """The stored analysis, byte-for-byte — what the stored view renders."""
+    return _stored_file_response(sym, "_analysis.md")
+
+
+@app.get("/api/stored_comparison_report/{sym}")
+def stored_comparison_report(sym: str):
+    return _stored_file_response(sym, "_comparison.md")
 
 
 @app.post("/api/refresh")
@@ -987,9 +1080,11 @@ def job_start(kind: str, sym: str, quick: int = 0,
         question = (payload or {}).get("question", "").strip()
         if not question:
             raise HTTPException(422, "missing 'question'")
+        source = (payload or {}).get("source", "live")
         job_id = uuid.uuid4().hex.upper()
         return _job_start("ask", job_id,
-                          lambda: _answer_question(sym, question, backend))
+                          lambda: _answer_question(sym, question, backend,
+                                                   source))
     if kind not in JOB_KINDS:
         raise HTTPException(404, f"unknown job kind '{kind}'")
     ai = not quick and _ai_backend() is not None

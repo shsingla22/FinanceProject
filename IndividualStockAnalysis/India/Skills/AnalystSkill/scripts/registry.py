@@ -13,6 +13,7 @@ one env var, ANALYST_MODEL (default Opus 5 / claude-opus-5).
 
 from __future__ import annotations
 
+import hashlib
 import importlib.util
 import inspect
 import json
@@ -71,6 +72,23 @@ _qr_lock = threading.Lock()
 _ba_lock = threading.Lock()
 
 BA_CACHE = HERE.parent / ".qual_cache.json"
+
+# Judge-cache stamps are derived from the TRANSCRIPT'S CONTENT, never its
+# file mtime: git does not preserve mtimes, so mtime-keyed entries died on
+# every fresh checkout and the committed batch verdicts were never reused
+# off the machine that ran the batch. The md5 is memoised per (path, mtime,
+# size) so a transcript is only re-hashed when the file actually changes.
+_PDF_HASH_MEMO: dict = {}
+
+
+def pdf_content_stamp(pdf: Path) -> str:
+    st = pdf.stat()
+    memo = (str(pdf), st.st_mtime_ns, st.st_size)
+    h = _PDF_HASH_MEMO.get(memo)
+    if h is None:
+        h = hashlib.md5(pdf.read_bytes()).hexdigest()
+        _PDF_HASH_MEMO[memo] = h
+    return h
 
 
 def discover() -> dict:
@@ -180,13 +198,17 @@ def _ba_qual_prompt(sym: str) -> str | None:
     )
 
 
-def _ba_qual_scores(sym: str) -> list | None:
+def _ba_qual_scores(sym: str, allow_ai: bool = True) -> list | None:
     """AI concall scores for the framework's qualitative/hybrid parameters,
-    cached on disk keyed by transcript mtime + model. No timeout."""
+    cached on disk keyed by transcript content + model. No timeout.
+
+    A cache hit is served whether or not an AI backend is available — the
+    judgement already exists and hiding it would be dishonest. `allow_ai`
+    only controls whether a MISS may invoke the judge."""
     pdf = INDIA / "ConferenceCalls" / "NiftyTotalMarket" / f"{sym.replace('&', '_AND_')}.pdf"
     if not pdf.exists():
         return None
-    stamp = f"{pdf.stat().st_mtime}:ba1:{MODEL}"
+    stamp = f"{pdf_content_stamp(pdf)}:ba1:{MODEL}"
     cache = {}
     if BA_CACHE.exists():
         try:
@@ -196,6 +218,8 @@ def _ba_qual_scores(sym: str) -> list | None:
     hit = cache.get(sym)
     if hit and hit.get("stamp") == stamp:
         return _plain_speech(hit["scores"])
+    if not allow_ai:
+        return None
     prompt = _ba_qual_prompt(sym)
     if prompt is None:
         return None
@@ -239,13 +263,17 @@ def run_business(sym: str, ai: bool = True) -> tuple[dict, str]:
     pscores = BD.score_params(sig, FW)
     status = "numbers_only"
     qual = None
-    if ai:
-        try:
-            with _ba_lock:
-                qual = _ba_qual_scores(sym)
-            status = "with_calls" if qual else "no_concalls"
-        except Exception as e:
-            status = f"judge_failed: {str(e)[:120]}"
+    # the cache is consulted even with AI off: a judgement that already
+    # exists on disk is used, and `ai` only gates NEW judge invocations
+    try:
+        with _ba_lock:
+            qual = _ba_qual_scores(sym, allow_ai=ai)
+        if qual:
+            status = "with_calls"
+        elif ai:
+            status = "no_concalls"
+    except Exception as e:
+        status = f"judge_failed: {str(e)[:120]}"
     meta = {}
     if qual:
         valid = {p.id for p in FW.parameters}
@@ -288,26 +316,30 @@ def run_business(sym: str, ai: bool = True) -> tuple[dict, str]:
 def run_patterns(sym: str, ai: bool = True) -> tuple[dict, str]:
     checks = MB_QE.compute_checks(sym)
     qual, status = None, "numbers_only"
-    if ai:
-        try:
-            with _mb_lock:
-                qual = MB_AZ.qual_judge(sym, MB_PE.load_taxonomy())
-            status = "with_calls" if qual else "no_concalls"
-        except Exception as e:
-            status = f"judge_failed: {str(e)[:120]}"
+    try:
+        with _mb_lock:
+            qual = MB_AZ.qual_judge(sym, MB_PE.load_taxonomy(), allow_ai=ai)
+        if qual:
+            status = "with_calls"
+        elif ai:
+            status = "no_concalls"
+    except Exception as e:
+        status = f"judge_failed: {str(e)[:120]}"
     return MB_PE.analyse(sym, checks, qual), status
 
 
 def run_risks(sym: str, ai: bool = True) -> tuple[dict, str]:
     checks = QR_QE.compute_checks(sym)
     qual, status = None, "numbers_only"
-    if ai:
-        try:
-            with _qr_lock:
-                qual = QR_AZ.qual_judge(sym, QR_RE.load_taxonomy())
-            status = "with_calls" if qual else "no_concalls"
-        except Exception as e:
-            status = f"judge_failed: {str(e)[:120]}"
+    try:
+        with _qr_lock:
+            qual = QR_AZ.qual_judge(sym, QR_RE.load_taxonomy(), allow_ai=ai)
+        if qual:
+            status = "with_calls"
+        elif ai:
+            status = "no_concalls"
+    except Exception as e:
+        status = f"judge_failed: {str(e)[:120]}"
     return QR_RE.analyse(sym, checks, qual), status
 
 

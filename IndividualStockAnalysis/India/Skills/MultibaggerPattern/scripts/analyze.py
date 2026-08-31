@@ -21,6 +21,7 @@ is silent (never guessed).
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -113,13 +114,32 @@ def _qual_prompt(sym: str, tax: dict) -> str | None:
     )
 
 
-def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
+
+# Judge-cache stamps are derived from the TRANSCRIPT'S CONTENT, never its
+# file mtime: git does not preserve mtimes, so mtime-keyed entries died on
+# every fresh checkout and the committed batch verdicts were never reused
+# off the machine that ran the batch.
+_PDF_HASH_MEMO: dict = {}
+
+
+def _pdf_content_stamp(pdf) -> str:
+    st = pdf.stat()
+    memo = (str(pdf), st.st_mtime_ns, st.st_size)
+    h = _PDF_HASH_MEMO.get(memo)
+    if h is None:
+        h = hashlib.md5(pdf.read_bytes()).hexdigest()
+        _PDF_HASH_MEMO[memo] = h
+    return h
+
+
+def qual_judge(sym: str, tax: dict, use_cache: bool = True,
+               allow_ai: bool = True) -> dict | None:
     """Per-pattern qualitative fits via headless Claude Code (subscription).
     Cached on disk keyed by transcript mtime. No timeout — quality first."""
     pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
     if not pdf.exists():
         return None
-    stamp = f"{pdf.stat().st_mtime}:v1:{JUDGE_MODEL}"
+    stamp = f"{_pdf_content_stamp(pdf)}:v1:{JUDGE_MODEL}"
     cache = {}
     if CACHE.exists():
         try:
@@ -129,6 +149,9 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True) -> dict | None:
     hit = cache.get(sym)
     if use_cache and hit and hit.get("stamp") == stamp:
         return _plain_speech(hit["by_pattern"])
+    if not allow_ai:
+        return None      # a miss may not invoke the judge without AI
+
 
     prompt = _qual_prompt(sym, tax)
     if prompt is None:

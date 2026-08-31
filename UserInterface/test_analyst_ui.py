@@ -10,6 +10,7 @@ All standard tests run in numbers-only mode (no AI calls). The page view
 SAME composition — that consistency is asserted, not assumed.
 """
 
+import json
 import os
 import re
 import sys
@@ -97,17 +98,33 @@ def test_unknown_symbol_is_a_clean_404():
     assert client.get("/api/analysis/NOTACOMPANY").status_code == 404
 
 
-def test_untestable_company_is_honestly_not_rated():
-    out = _analysis("HDFCBANK")          # lender: frameworks can't read it
-    assert out["rating"]["grade"] == "Not rated"
-    assert "## The verdict: Not rated" in out["md"]
+def test_live_no_ai_run_agrees_with_the_stored_verdict():
+    """A lender the NUMBERS alone cannot rate (HDFCBANK) is still rated in
+    no-AI mode because the committed judge caches carry the qualitative
+    verdicts — and the grade must be the STORED report's grade, so the live
+    pipeline and the stored corpus can never disagree about a company."""
+    out = _analysis("HDFCBANK")
+    st = SV.stored_ratings().get("HDFCBANK")
+    assert st is not None
+    if st["score"] is None:
+        assert out["rating"]["grade"] == "Not rated"
+    else:
+        assert out["rating"]["grade"] == st["grade"]
+        assert out["rating"]["score"] == st["score"]
 
 
-def test_quick_mode_has_no_overview_and_says_so():
+def test_quick_mode_overview_comes_from_the_cache_never_a_live_call():
+    """With AI off, the About-the-business overview is served from the
+    committed cache when one exists — and is honestly absent otherwise.
+    Either way no model is invoked (UI_DISABLE_AI guarantees that)."""
     out = _analysis("CRISIL")
-    assert out["overview"] is None       # no AI in quick mode
-    assert "No conference-call transcripts were available" in out["md"] or \
-        "About the business" in out["md"]
+    cached = json.loads((AB.AR.HERE.parent / ".overview_cache.json")
+                        .read_text()).get("CRISIL")
+    if cached is None:
+        assert out["overview"] is None
+    else:
+        assert out["overview"] == cached["overview"]
+        assert "About the business" in out["md"]
 
 
 # ------------------------------------------------------- optional big sweep
@@ -253,3 +270,75 @@ def test_stored_ratings_agree_with_the_generated_ranking_csv():
             if st[sym]["score"] != want:
                 bad.append((sym, st[sym]["score"], want))
     assert not bad, f"stored parse disagrees with ranking csv: {bad[:5]}"
+
+
+# -------- the stored-first company view + clone-stable judge caches ----------
+
+def test_stored_endpoint_serves_the_complete_report():
+    r = client.get("/api/stored/IXIGO")
+    assert r.status_code == 200
+    d = r.json()
+    assert d["source"] == "stored"
+    assert d["score"] is not None and d["grade"]
+    assert "## The verdict:" in d["analysis_md"]
+    assert "## Section 4 — How has it done against the index?" in d["analysis_md"]
+    assert d["comparison_md"] and "### Bucket" in d["comparison_md"]
+    # the payload verdict and the report's verdict are the same line
+    assert f"{d['grade']} — {d['score']} out of 100" in d["analysis_md"]
+
+
+def test_stored_downloads_are_the_exact_stored_bytes():
+    for suffix, ep in (("_analysis.md", "stored_report"),
+                       ("_comparison.md", "stored_comparison_report")):
+        stored = (SV.QA_REPORTS / f"IXIGO{suffix}").read_text()
+        r = client.get(f"/api/{ep}/IXIGO")
+        assert r.status_code == 200
+        assert r.text == stored, f"{ep} must serve the stored file byte-for-byte"
+
+
+def test_stored_endpoint_404s_honestly():
+    assert client.get("/api/stored/NOTACOMPANY").status_code == 404
+    assert client.get("/api/stored_report/NOTACOMPANY").status_code == 404
+
+
+def test_judge_caches_survive_a_fresh_clone():
+    """The cache stamp must derive from the transcript's CONTENT: touching
+    the file (what a git clone effectively does to every mtime) must not
+    invalidate a single committed verdict."""
+    import json as _json, os as _os, time as _time
+    pdf = (SV.INDIA / "ConferenceCalls" / "NiftyTotalMarket" / "IXIGO.pdf")
+    stamp_before = AB.AR.pdf_content_stamp(pdf)
+    old = pdf.stat().st_mtime
+    _os.utime(pdf, (old + 1000, old + 1000))     # simulate a re-clone
+    try:
+        AB.AR._PDF_HASH_MEMO.clear()
+        assert AB.AR.pdf_content_stamp(pdf) == stamp_before
+        cached = _json.loads((AB.AR.HERE.parent / ".qual_cache.json")
+                             .read_text())["IXIGO"]["stamp"]
+        assert cached.startswith(stamp_before), \
+            "committed cache entry must match the content-derived stamp"
+    finally:
+        _os.utime(pdf, (old, old))
+        AB.AR._PDF_HASH_MEMO.clear()
+
+
+def test_live_rerun_without_ai_reuses_the_batch_judgement():
+    """The regression the user reported: with AI OFF, the live pipeline
+    must still produce the COMPLETE analysis by reading the committed
+    judge caches — never 'not assessed' walls at ~20% coverage."""
+    md = client.get("/api/analysis/IXIGO").json()["md"]
+    m = re.search(r"(\d+)% of the 34 checks had evidence", md)
+    assert m and int(m.group(1)) >= 90, f"coverage collapsed: {m}"
+    assert "NOT ASSESSED" not in md
+    stored_v = re.search(r"^## The verdict: (.+?) — (\d+) out of 100",
+                         (SV.QA_REPORTS / "IXIGO_analysis.md").read_text(),
+                         re.M)
+    live_v = re.search(r"^## The verdict: (.+?) — (\d+) out of 100", md, re.M)
+    assert live_v.group(2) == stored_v.group(2), \
+        "live no-AI re-run must reproduce the stored score from the caches"
+
+
+def test_run_business_status_says_with_calls_when_cache_hits():
+    ba, status = AB.AR.run_business("IXIGO", ai=False)
+    assert status == "with_calls", status
+    assert ba["coverage"] >= 0.9

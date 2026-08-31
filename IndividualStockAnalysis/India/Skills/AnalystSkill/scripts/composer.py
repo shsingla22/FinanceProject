@@ -338,16 +338,19 @@ def _word(score):
     return WORD.get(int(max(-2, min(2, round(score)))), "Neutral")
 
 
-def business_overview(sym: str, name: str) -> dict | None:
+def business_overview(sym: str, name: str,
+                      allow_ai: bool = True) -> dict | None:
     """What the company does and its business segments, written by the
     judge model STRICTLY from the conference-call transcripts (cached per
-    transcript + model). None when no transcripts or the call fails."""
+    transcript content + model). None when no transcripts or the call
+    fails. A cache hit is served even with AI off; `allow_ai` only gates
+    whether a miss may invoke the judge."""
     excerpt, n_calls, rng = REG.MB_AZ._timeline_excerpt(sym, budget=45000)
     if not excerpt:
         return None
     pdf = (REG.INDIA / "ConferenceCalls" / "NiftyTotalMarket"
            / f"{sym.replace('&', '_AND_')}.pdf")
-    stamp = f"{pdf.stat().st_mtime}:ov1:{REG.MODEL}"
+    stamp = f"{REG.pdf_content_stamp(pdf)}:ov1:{REG.MODEL}"
     cache = {}
     if OVERVIEW_CACHE.exists():
         try:
@@ -357,6 +360,8 @@ def business_overview(sym: str, name: str) -> dict | None:
     hit = cache.get(sym)
     if hit and hit.get("stamp") == stamp:
         return hit["overview"]
+    if not allow_ai:
+        return None
     prompt = (
         f"From the conference-call excerpts below ({n_calls} calls, {rng}), "
         f"describe what {name} ({sym}) actually DOES, for a reader who has "

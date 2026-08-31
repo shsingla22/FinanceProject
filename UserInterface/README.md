@@ -32,6 +32,20 @@ is instant afterwards. Every verdict states *why* it landed where it did;
 anything the evidence can't answer stays *not assessed* — never guessed —
 and every qualitative judgement carries a verbatim quote from the calls.
 
+## How a company page is served
+
+Opening a company shows the **stored report pair** by default — the same
+complete, qualitative-included analysis the rankings use, rendered
+instantly; the download buttons hand over those exact files. The **"Re-run
+this analysis live"** button recomputes everything from today's data.
+
+Re-runs are fast and complete on any machine: every judge verdict from the
+batch is committed in the skills' caches, keyed by the **transcript's
+content** (never file mtime, which git does not preserve), so a fresh
+clone reuses them instead of re-judging. `ai` only gates NEW judge calls —
+with AI off, cached judgements still serve, and only a genuinely new
+transcript needs a login to be judged.
+
 ## Run it (GitHub Codespaces)
 
 1. Repo page → **Code → Codespaces → Create codespace** on this branch

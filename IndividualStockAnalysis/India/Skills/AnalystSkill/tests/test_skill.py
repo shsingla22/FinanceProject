@@ -27,10 +27,14 @@ def test_discovers_all_three_sibling_skills():
 
 
 def test_executes_every_sibling_skill_on_real_data():
+    """With ai=False the skills still serve COMMITTED judge verdicts from
+    the caches (status "with_calls") — ai only gates NEW judge calls. A
+    cached company therefore reports full-quality output even offline."""
     ba, s1 = REG.run_business("CRISIL", ai=False)
     mb, s2 = REG.run_patterns("CRISIL", ai=False)
     qr, s3 = REG.run_risks("CRISIL", ai=False)
-    assert s1 == s2 == s3 == "numbers_only"
+    for s in (s1, s2, s3):
+        assert s in ("with_calls", "numbers_only"), s
     assert ba["overall"] is not None and 0 < ba["coverage"] <= 1
     assert len(mb["verdicts"]) == 11
     assert len(qr["verdicts"]) == 8
@@ -38,10 +42,35 @@ def test_executes_every_sibling_skill_on_real_data():
                                          "UNKNOWN")
 
 
-def test_quick_mode_is_honest_about_coverage():
-    ba, _ = REG.run_business("DIXON", ai=False)
-    assert ba["qualitative_included"] is False
-    assert ba["coverage"] < 0.6, "numbers-only run must not claim full coverage"
+def test_no_ai_serves_cached_judgement_and_says_so():
+    import json as _json
+    cached = "DIXON" in _json.loads(
+        (Path(REG.__file__).resolve().parent.parent
+         / ".qual_cache.json").read_text())
+    ba, status = REG.run_business("DIXON", ai=False)
+    if cached:
+        assert status == "with_calls"
+        assert ba["qualitative_included"] is True
+        assert ba["coverage"] > 0.6
+    else:
+        assert status == "numbers_only"
+        assert ba["qualitative_included"] is False
+        assert ba["coverage"] < 0.6
+
+
+def test_cache_stamp_survives_an_mtime_change():
+    """git clones reset every mtime; the stamp must not care."""
+    import os as _os
+    pdf = (REG.INDIA / "ConferenceCalls" / "NiftyTotalMarket" / "DIXON.pdf")
+    before = REG.pdf_content_stamp(pdf)
+    old = pdf.stat().st_mtime
+    _os.utime(pdf, (old + 999, old + 999))
+    try:
+        REG._PDF_HASH_MEMO.clear()
+        assert REG.pdf_content_stamp(pdf) == before
+    finally:
+        _os.utime(pdf, (old, old))
+        REG._PDF_HASH_MEMO.clear()
 
 
 # --------------------------------------------------------- rating

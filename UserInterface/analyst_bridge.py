@@ -55,7 +55,9 @@ def full_analysis(sym: str, ai: bool = True) -> dict:
         exts = AR.run_extensions(sym, ai=ai)
         rt = AC.compute_rating(ba, mb, qr, extensions=exts)
         meta = AR.company_meta(sym)
-        overview = AC.business_overview(sym, meta["name"]) if ai else None
+        # cached overviews are served even with AI off — allow_ai only
+        # gates whether a cache miss may invoke the judge
+        overview = AC.business_overview(sym, meta["name"], allow_ai=ai)
         synth = (AC.synthesize(sym, meta["name"], ba, mb, qr, rt,
                                extensions=exts) if ai else None)
         trends = AR.trend_series(sym)

@@ -69,11 +69,12 @@ def cmd_report(args):
 def compose_md(sym: str, out: dict, ai: bool) -> str:
     meta = REG.company_meta(sym)
     name = meta["name"]
-    synth = overview = None
+    synth = None
+    # a cached overview is served even with AI off; a miss stays None
+    overview = C.business_overview(sym, name, allow_ai=ai)
     if ai:
         print("Composing the business overview and analyst's summary…",
               file=sys.stderr)
-        overview = C.business_overview(sym, name)
         synth = C.synthesize(sym, name, out["business"], out["patterns"],
                              out["risks"], out["rating"],
                              extensions=out.get("extensions"))
