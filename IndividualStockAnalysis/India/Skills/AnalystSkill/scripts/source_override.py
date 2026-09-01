@@ -95,15 +95,31 @@ def activate(doc: str | Path, name: str | None = None) -> dict:
     REG.MB_AZ._transcript_path = lambda sym: doc
     REG.QR_AZ._transcript_path = lambda sym: doc
 
-    # 2. excerpting: a concall archive is sampled across its timeline; a
-    #    generic document is taken from the TOP (its tail is appendices).
-    #    A document that carries the archive's own "Call: Mon YYYY"
-    #    headers still gets the timeline treatment.
+    # 2. excerpting: a concall archive is sampled across its timeline. A
+    #    short document goes in whole. A LONG one (a prospectus, an annual
+    #    report) is sampled at spread offsets — its head is a cover page
+    #    and a table of contents, its tail annexures; the business,
+    #    risk-factor and management chapters live in between, and a head
+    #    slice alone would judge the company on its definitions section.
+    #    A document carrying the archive's own "Call: Mon YYYY" headers
+    #    still gets the original timeline treatment.
     def _doc_excerpt(orig, header_re):
         def wrapped(sym: str, budget: int = 90000):
             if header_re.search(text):
                 return orig(sym, budget)
-            return text[:budget], 1, "supplied document"
+            if len(text) <= budget:
+                return text, 1, "supplied document"
+            offs = (0.0, 0.20, 0.42, 0.63, 0.82)
+            per = budget // len(offs)
+            parts = []
+            for i, f in enumerate(offs):
+                o = int(len(text) * f)
+                parts.append(
+                    f"===== EXCERPT {i + 1} of {len(offs)} "
+                    f"(~{int(f * 100)}% into the document) =====\n"
+                    + text[o:o + per])
+            return ("\n\n".join(parts), 1,
+                    "supplied document, sampled at spread offsets")
         return wrapped
 
     saved["mb_excerpt"] = REG.MB_AZ._timeline_excerpt

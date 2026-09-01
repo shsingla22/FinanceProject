@@ -233,3 +233,24 @@ def test_normal_mode_is_untouched_after_a_source_run(doc):
     ba1, s1 = REG.run_business("IXIGO", ai=False)
     assert (s0, ba0["overall"], ba0["coverage"]) == \
            (s1, ba1["overall"], ba1["coverage"])
+
+
+def test_long_documents_are_sampled_across_not_head_sliced(tmp_path):
+    """A 450-page prospectus's first 90k chars are its cover page and
+    definitions; the judges must see the middle chapters too."""
+    long_doc = tmp_path / "prospectus.md"
+    body = "".join(f"<<MARK {i}>> " + ("filler words " * 40) + "\n"
+                   for i in range(4000))
+    long_doc.write_text(body)
+    try:
+        SO.activate(long_doc)
+        ex, _n, rng = REG.MB_AZ._timeline_excerpt("X", budget=90000)
+        assert "sampled at spread offsets" in rng
+        marks = [int(m) for m in
+                 __import__("re").findall(r"<<MARK (\d+)>>", ex)]
+        assert marks, "no content sampled"
+        spread = (max(marks) - min(marks)) / 4000
+        assert spread > 0.7, f"samples cover only {spread:.0%} of the doc"
+        assert len(ex) <= 91000
+    finally:
+        SO.deactivate()
