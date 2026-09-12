@@ -1,0 +1,332 @@
+"""
+darvas.py — the Darvas method's mechanical core.
+
+Three pieces, each deterministic and testable on synthetic series:
+
+  1. THE VOLUME TRIGGER (step 1). A stock qualifies when its last
+     COMPLETED week traded a multiple of its normal weekly volume AND the
+     price appreciated that week — volume without price appreciation is
+     distribution, price without volume is drift; Darvas required both.
+     Ranked by the volume multiple, numbers attached.
+
+  2. BOX DETECTION (step 3). Nicolas Darvas's own definition: a top is a
+     high that stands unbroken for the next three sessions; once the top
+     stands, the bottom is the subsequent low that stands undercut-free
+     for three sessions. Top + bottom seal a box. A close above the top
+     is an upward break (the stock "reaches for the higher box"); a close
+     below the bottom is a breakdown — the red flag. Every stock gets its
+     OWN box height from its own prices; nothing is assumed about range.
+
+  3. STOP LOSSES (step 5). stop = bottom − 0.3 × box height. This is the
+     rule the worked examples imply: a 50–55 box stops out around 48
+     (50 − 0.3×5 = 48.5) and a 70–85 box around 65 (70 − 0.3×15 = 65.5).
+     Stops only ever RATCHET UP: when a stock seals a new, higher box —
+     which by construction takes three quiet sessions on each edge, so
+     "decisively" is built into the definition — the stop moves up with
+     it; a computed stop below the standing one is ignored.
+"""
+
+from __future__ import annotations
+
+import csv
+import datetime as dt
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+INDIA = HERE.parent.parent.parent
+UNIVERSE = "NiftyTotalMarket"
+DATA_DIR = INDIA / "VolumeAndPricing" / UNIVERSE
+
+# volume trigger tuning — deliberately explicit so the report can cite it
+BASELINE_WEEKS = 12          # up to 12 prior completed weeks form "normal"
+MIN_BASELINE_WEEKS = 6       # fewer than this and the stock is not judged
+QUALIFY_MULTIPLE = 1.5       # last week must be at least 1.5x normal
+TIERS = [(3.0, "multifold"), (2.0, "strong"), (1.5, "elevated")]
+
+CONFIRM_DAYS = 3             # Darvas's three quiet sessions seal an edge
+STOP_FRACTION = 0.3          # stop sits 0.3 box-heights below the bottom
+
+
+# ---------------------------------------------------------------- loading
+
+def load_weekly(path: Path | None = None) -> dict[str, list[dict]]:
+    """{symbol: [week rows, oldest first]} — completed weeks only."""
+    path = path or DATA_DIR / "_all_weekly_long.csv"
+    out: dict[str, list[dict]] = {}
+    with open(path) as fh:
+        for r in csv.DictReader(fh):
+            if r["complete"] != "True":
+                continue
+            out.setdefault(r["symbol"], []).append({
+                "week_start": r["week_start"],
+                "open": float(r["open"]), "high": float(r["high"]),
+                "low": float(r["low"]), "close": float(r["close"]),
+                "volume": int(r["volume"]),
+            })
+    for rows in out.values():
+        rows.sort(key=lambda w: w["week_start"])
+    return out
+
+
+def load_daily(path: Path | None = None) -> dict[str, list[dict]]:
+    path = path or DATA_DIR / "_all_daily_long.csv"
+    out: dict[str, list[dict]] = {}
+    with open(path) as fh:
+        for r in csv.DictReader(fh):
+            out.setdefault(r["symbol"], []).append({
+                "date": r["date"],
+                "high": float(r["high"]) if r["high"] else None,
+                "low": float(r["low"]) if r["low"] else None,
+                "close": float(r["close"]),
+                "volume": int(r["volume"]),
+            })
+    for rows in out.values():
+        rows.sort(key=lambda d: d["date"])
+    return out
+
+
+# ---------------------------------------------------------- volume trigger
+
+def volume_signal(weeks: list[dict]) -> dict | None:
+    """The step-1 numbers for one stock, or None when history is too thin.
+
+    Baseline = mean weekly volume of up to BASELINE_WEEKS completed weeks
+    BEFORE the last one. The last completed week is the week under test."""
+    if len(weeks) < MIN_BASELINE_WEEKS + 1:
+        return None
+    last = weeks[-1]
+    prior = weeks[-(BASELINE_WEEKS + 1):-1]
+    base = [w["volume"] for w in prior]
+    avg = sum(base) / len(base)
+    if avg <= 0:
+        return None
+    prev_close = weeks[-2]["close"]
+    price_pct = (last["close"] - prev_close) / prev_close * 100
+    multiple = last["volume"] / avg
+    tier = next((name for cut, name in TIERS if multiple >= cut), None)
+    return {
+        "week_start": last["week_start"],
+        "last_week_volume": last["volume"],
+        "baseline_weeks": len(base),
+        "baseline_avg_volume": round(avg),
+        "volume_multiple": round(multiple, 2),
+        "price_change_pct": round(price_pct, 2),
+        "close": last["close"],
+        "tier": tier,
+        "qualifies": multiple >= QUALIFY_MULTIPLE and price_pct > 0,
+    }
+
+
+def scan_universe(weekly: dict[str, list[dict]]) -> list[dict]:
+    """Every stock's signal; qualifiers first, highest multiple first —
+    'the best stocks with highest volume reactions … in the same order'."""
+    out = []
+    for sym, weeks in weekly.items():
+        sig = volume_signal(weeks)
+        if sig is not None:
+            out.append({"symbol": sym, **sig})
+    out.sort(key=lambda s: (-s["qualifies"], -s["volume_multiple"]))
+    return out
+
+
+# -------------------------------------------------------------- box theory
+
+def find_boxes(daily: list[dict]) -> dict:
+    """Darvas boxes over one stock's daily bars.
+
+    Returns {"boxes": [...], "state": "IN_BOX"|"BREAKOUT"|"BREAKDOWN"|
+    "FORMING", "current": <last sealed box or None>}. Each box carries
+    top, bottom, the dates its edges were set, range_pct (the stock's own
+    box height), and how it resolved: "up", "down" or "open"."""
+    highs = [d["high"] for d in daily]
+    lows = [d["low"] for d in daily]
+    closes = [d["close"] for d in daily]
+    dates = [d["date"] for d in daily]
+    n = len(daily)
+    boxes: list[dict] = []
+    state = "FORMING"
+    i = 0
+    top = bottom = None
+    top_i = None
+    while i < n:
+        if top is None:
+            # seek a top: a high unbroken for the next CONFIRM_DAYS
+            cand, cand_i = highs[i], i
+            j = i + 1
+            while j < n and j - cand_i <= CONFIRM_DAYS:
+                if highs[j] is not None and highs[j] > cand:
+                    cand, cand_i = highs[j], j
+                    j = cand_i + 1
+                    continue
+                j += 1
+            if j - cand_i <= CONFIRM_DAYS:      # ran out of data unconfirmed
+                # a break that JUST happened stays a break — the next box
+                # simply has not had its three quiet sessions yet
+                if state not in ("BREAKOUT", "BREAKDOWN"):
+                    state = "FORMING"
+                break
+            top, top_i = cand, cand_i
+            i = cand_i + 1
+            bottom = None
+            continue
+        if bottom is None:
+            # seek a bottom after the top: a low undercut-free for 3 days
+            cand, cand_i = lows[top_i + 1] if top_i + 1 < n else None, top_i + 1
+            if cand is None:
+                state = "FORMING"
+                break
+            j = cand_i + 1
+            while j < n and j - cand_i <= CONFIRM_DAYS:
+                if lows[j] is not None and lows[j] < cand:
+                    cand, cand_i = lows[j], j
+                    j = cand_i + 1
+                    continue
+                j += 1
+            if j - cand_i <= CONFIRM_DAYS:
+                if state not in ("BREAKOUT", "BREAKDOWN"):
+                    state = "FORMING"
+                break
+            bottom = cand
+            boxes.append({
+                "top": top, "bottom": bottom,
+                "top_date": dates[top_i], "bottom_date": dates[cand_i],
+                "range_pct": round((top - bottom) / bottom * 100, 2),
+                "outcome": "open",
+            })
+            state = "IN_BOX"
+            i = cand_i + 1
+            continue
+        # a sealed box: watch the closes for a break of either edge
+        c = closes[i]
+        if c > top:
+            boxes[-1]["outcome"] = "up"
+            boxes[-1]["break_date"] = dates[i]
+            top = bottom = None                  # reach for the higher box
+            state = "BREAKOUT"
+            continue                             # re-seek from this same day
+        if c < bottom:
+            boxes[-1]["outcome"] = "down"
+            boxes[-1]["break_date"] = dates[i]
+            top = bottom = None
+            state = "BREAKDOWN"
+            i += 1
+            # after a breakdown, box-seeking starts fresh below
+            continue
+        i += 1
+    current = boxes[-1] if boxes else None
+    if boxes and boxes[-1]["outcome"] == "open":
+        state = "IN_BOX"
+    # a breakdown is only the standing verdict while the price honours it:
+    # a later CLOSE back above the broken box's TOP is a recovery — the
+    # stock is reaching upward again, but with no sealed box there is no
+    # honest stop yet, so it is watched, not bought and not sold
+    if (state == "BREAKDOWN" and boxes and closes
+            and closes[-1] > boxes[-1]["top"]):
+        state = "RECOVERY"
+    return {"boxes": boxes, "state": state, "current": current,
+            "last_close": closes[-1] if closes else None,
+            "last_date": dates[-1] if dates else None}
+
+
+def stop_loss(box: dict) -> float:
+    """stop = bottom − STOP_FRACTION × height, in the stock's own range."""
+    height = box["top"] - box["bottom"]
+    return round(box["bottom"] - STOP_FRACTION * height, 2)
+
+
+def recommend(box_state: dict, signal: dict) -> dict:
+    """Steps 4-5: what to do, from the boxes + the volume trigger.
+
+    BUY        broke above its box on the trigger volume — Darvas's entry
+    ACCUMULATE sealed a HIGHER box after an upward break and is holding it
+    WATCH      in a box; the entry is a close above the box top
+    SELL       closed below its box bottom — the red flag, exit
+    """
+    state = box_state["state"]
+    cur = box_state["current"]
+    if state == "RECOVERY":
+        action, why = "WATCH", (
+            "broke down through its box but has since CLOSED back above "
+            "the old box top on the trigger volume — a recovery, not a "
+            "standing breakdown; with no new box sealed there is no "
+            "honest stop yet, so wait for the next box before buying")
+    elif state == "BREAKDOWN":
+        action, why = "SELL", ("closed below its box bottom — Darvas's red "
+                               "flag; a stock dropping to a lower box is "
+                               "sold, not averaged")
+    elif state == "BREAKOUT":
+        action, why = "BUY", ("closed above its box top on trigger volume — "
+                              "reaching for the higher box; buy the break")
+    elif state == "IN_BOX" and cur is not None and _prior_break_up(box_state):
+        action, why = "ACCUMULATE", ("sealed a higher box after an upward "
+                                     "break and is holding it — add while "
+                                     "it stabilises in the higher box")
+    elif state == "IN_BOX":
+        action, why = "WATCH", ("moving inside its box on trigger volume — "
+                                "the entry is a close above the box top")
+    else:
+        action, why = "WATCH", ("box still forming — too few quiet sessions "
+                                "to seal both edges yet")
+    out = {"action": action, "why": why, "state": state}
+    if state == "RECOVERY":
+        return out          # the broken box's edges are history, not levels
+    if cur is not None:
+        out["box_top"] = cur["top"]
+        out["box_bottom"] = cur["bottom"]
+        out["box_range_pct"] = cur["range_pct"]
+        out["stop_loss"] = stop_loss(cur)
+        if action == "WATCH":
+            out["buy_above"] = cur["top"]
+    return out
+
+
+def _prior_break_up(box_state: dict) -> bool:
+    boxes = box_state["boxes"]
+    return len(boxes) >= 2 and boxes[-2]["outcome"] == "up"
+
+
+# ------------------------------------------------------------- the ledger
+
+LEDGER_FIELDS = ["symbol", "first_flagged", "action", "box_bottom",
+                 "box_top", "stop_loss", "last_close", "updated"]
+
+
+def update_ledger(path: Path, picks: list[dict],
+                  today: str | None = None) -> list[dict]:
+    """The stop-loss rhythm (step 5): the ledger is re-read on every run —
+    the rhythm IS the run, weekly after Friday's close — and each held
+    symbol's stop is recomputed from its CURRENT box. The new stop is
+    kept only if it is HIGHER: max(old, new). A SELL wipes the stop and
+    marks the row; a symbol newly flagged is added with its first stop."""
+    today = today or dt.date.today().isoformat()
+    rows: dict[str, dict] = {}
+    if path.exists():
+        with open(path) as fh:
+            for r in csv.DictReader(fh):
+                rows[r["symbol"]] = r
+    for p in picks:
+        sym = p["symbol"]
+        old = rows.get(sym)
+        stop = p.get("stop_loss")
+        if old and old.get("stop_loss") not in (None, "", "None") \
+                and stop is not None:
+            stop = max(float(old["stop_loss"]), float(stop))
+        rows[sym] = {
+            "symbol": sym,
+            "first_flagged": (old or {}).get("first_flagged") or today,
+            "action": p["action"],
+            "box_bottom": p.get("box_bottom", ""),
+            "box_top": p.get("box_top", ""),
+            "stop_loss": "" if p["action"] == "SELL" else
+                         ("" if stop is None else stop),
+            "last_close": p.get("last_close", ""),
+            "updated": today,
+        }
+    ordered = sorted(rows.values(), key=lambda r: r["symbol"])
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=LEDGER_FIELDS)
+        w.writeheader()
+        for r in ordered:
+            w.writerow({k: r.get(k, "") for k in LEDGER_FIELDS})
+    return ordered
