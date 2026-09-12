@@ -50,18 +50,20 @@ STOP_FRACTION = 0.3          # stop sits 0.3 box-heights below the bottom
 # ---------------------------------------------------------------- loading
 
 def load_weekly(path: Path | None = None) -> dict[str, list[dict]]:
-    """{symbol: [week rows, oldest first]} — completed weeks only."""
+    """{symbol: [week rows, oldest first]} — ALL weeks, the running
+    (partial) one included and flagged, so the trigger always sees the
+    LATEST volume and price rather than stopping a week behind."""
     path = path or DATA_DIR / "_all_weekly_long.csv"
     out: dict[str, list[dict]] = {}
     with open(path) as fh:
         for r in csv.DictReader(fh):
-            if r["complete"] != "True":
-                continue
             out.setdefault(r["symbol"], []).append({
                 "week_start": r["week_start"],
                 "open": float(r["open"]), "high": float(r["high"]),
                 "low": float(r["low"]), "close": float(r["close"]),
                 "volume": int(r["volume"]),
+                "days": int(r["days"]) if r.get("days") else 5,
+                "complete": r["complete"] == "True",
             })
     for rows in out.values():
         rows.sort(key=lambda w: w["week_start"])
@@ -90,28 +92,47 @@ def load_daily(path: Path | None = None) -> dict[str, list[dict]]:
 def volume_signal(weeks: list[dict]) -> dict | None:
     """The step-1 numbers for one stock, or None when history is too thin.
 
-    Baseline = mean weekly volume of up to BASELINE_WEEKS completed weeks
-    BEFORE the last one. The last completed week is the week under test."""
-    if len(weeks) < MIN_BASELINE_WEEKS + 1:
+    The week under test is the LATEST week in the data — the running
+    (partial) week when there is one, so a surge is caught the day it
+    happens, not a week later. A partial week's multiple is pro-rated to
+    a full five-day week (volume ÷ (average × days÷5)) and labelled so
+    the report can say exactly what was compared. Baseline = mean weekly
+    volume of up to BASELINE_WEEKS COMPLETED weeks before the test week."""
+    if not weeks:
         return None
-    last = weeks[-1]
-    prior = weeks[-(BASELINE_WEEKS + 1):-1]
-    base = [w["volume"] for w in prior]
+    test = weeks[-1]
+    prior = [w for w in weeks[:-1] if w.get("complete", True)]
+    if len(prior) < MIN_BASELINE_WEEKS:
+        return None
+    base = [w["volume"] for w in prior[-BASELINE_WEEKS:]]
     avg = sum(base) / len(base)
     if avg <= 0:
         return None
-    prev_close = weeks[-2]["close"]
-    price_pct = (last["close"] - prev_close) / prev_close * 100
-    multiple = last["volume"] / avg
+    partial = not test.get("complete", True)
+    days = min(5, test.get("days") or 5)
+    fraction = (days / 5) if partial else 1.0
+    if fraction <= 0:
+        return None
+    prev_close = prior[-1]["close"]
+    price_pct = (test["close"] - prev_close) / prev_close * 100
+    raw_multiple = test["volume"] / avg
+    multiple = raw_multiple / fraction
     tier = next((name for cut, name in TIERS if multiple >= cut), None)
+    recent = [{"week_start": w["week_start"], "volume": w["volume"],
+               "close": w["close"], "complete": w.get("complete", True),
+               "days": w.get("days", 5)} for w in weeks[-4:]]
     return {
-        "week_start": last["week_start"],
-        "last_week_volume": last["volume"],
+        "week_start": test["week_start"],
+        "partial_week": partial,
+        "days_traded": days if partial else 5,
+        "last_week_volume": test["volume"],
         "baseline_weeks": len(base),
         "baseline_avg_volume": round(avg),
         "volume_multiple": round(multiple, 2),
+        "raw_volume_multiple": round(raw_multiple, 2),
+        "recent_weeks": recent,
         "price_change_pct": round(price_pct, 2),
-        "close": last["close"],
+        "close": test["close"],
         "tier": tier,
         "qualifies": multiple >= QUALIFY_MULTIPLE and price_pct > 0,
     }

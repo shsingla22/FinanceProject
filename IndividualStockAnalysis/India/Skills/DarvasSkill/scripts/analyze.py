@@ -38,7 +38,7 @@ OUT_DIR = INDIA / "Analysis" / "NiftyTotalMarketAnalysis" / "DarvasAnalysis"
 REPORT = OUT_DIR / "DARVAS_REPORT.md"
 LEDGER = OUT_DIR / "_positions.csv"
 
-DEFAULT_TOP = 10
+DEFAULT_TOP = 25
 
 
 def _ai_available() -> bool:
@@ -108,21 +108,33 @@ def render_report(scan, dives, meta) -> str:
     # ---- step 1
     A.append("## Step 1 — The volume trigger")
     A.append("")
-    A.append(f"A stock qualifies when its last completed week traded at "
-             f"least {DV.QUALIFY_MULTIPLE}× its average weekly volume of "
-             f"the prior {DV.BASELINE_WEEKS} completed weeks AND the price "
-             f"rose that week. {len(q)} of {meta['scanned']} qualified; "
-             f"the best volume reactions, in order:")
+    A.append(f"A stock qualifies when its LATEST week — the running "
+             f"(partial) week when there is one, pro-rated to five days — "
+             f"traded at least {DV.QUALIFY_MULTIPLE}× its average weekly "
+             f"volume of the prior {DV.BASELINE_WEEKS} completed weeks AND "
+             f"the price rose. {len(q)} of {meta['scanned']} qualified; "
+             f"every qualifier, best volume reaction first, with the last "
+             f"four weeks of volume shown:")
     A.append("")
-    A.append("| # | Stock | Last-week volume | 12-wk avg volume | "
-             "Multiple | Price that week | Close |")
-    A.append("|---:|---|---:|---:|---:|---:|---:|")
-    for i, s in enumerate(q[:25], 1):
-        A.append(f"| {i} | {s['symbol']} | {s['last_week_volume']:,} | "
+    A.append("| # | Stock | Vol W−3 | Vol W−2 | Vol W−1 | Vol latest wk | "
+             "12-wk avg | Multiple | Price latest wk | Close |")
+    A.append("|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|")
+    for i, s in enumerate(q, 1):
+        rw = s.get("recent_weeks", [])
+        cells = ["—"] * (4 - len(rw)) + [f"{w['volume']:,}" for w in rw]
+        star = "*" if s.get("partial_week") else ""
+        A.append(f"| {i} | {s['symbol']} | {cells[0]} | {cells[1]} | "
+                 f"{cells[2]} | {cells[3]}{star} | "
                  f"{s['baseline_avg_volume']:,} | "
-                 f"**{s['volume_multiple']:.2f}×** | "
+                 f"**{s['volume_multiple']:.2f}×**{star} | "
                  f"{s['price_change_pct']:+.2f}% | ₹{s['close']:,.1f} |")
     A.append("")
+    if any(s.get("partial_week") for s in q):
+        A.append("\* the latest week is still running — its multiple is "
+                 "pro-rated to a full five-day week (volume ÷ (average × "
+                 "days traded ÷ 5)); the raw volume shown is what has "
+                 "actually traded so far.")
+        A.append("")
     A.append(f"The top {len(dives)} go on to the earnings and box steps "
              f"below.")
     A.append("")
@@ -153,11 +165,16 @@ def render_report(scan, dives, meta) -> str:
         A.append("")
         A.append(f"**Why:** {r['why']}.")
         A.append("")
+        part = (f" in {s['days_traded']} trading day"
+                f"{'s' if s['days_traded'] > 1 else ''} of a week still "
+                f"running — {s['raw_volume_multiple']:.2f}× the weekly "
+                f"average already, {s['volume_multiple']:.2f}× pro-rated "
+                f"to five days" if s.get("partial_week") else
+                f" — **{s['volume_multiple']:.2f}× normal**")
         A.append(f"**The trigger numbers:** {s['last_week_volume']:,} "
                  f"shares traded in the week of {s['week_start']} against "
                  f"a {s['baseline_weeks']}-week average of "
-                 f"{s['baseline_avg_volume']:,} — "
-                 f"**{s['volume_multiple']:.2f}× normal** "
+                 f"{s['baseline_avg_volume']:,}{part} "
                  f"({s['tier'] or 'below tier'}), with the price "
                  f"{s['price_change_pct']:+.2f}% on the week.")
         A.append("")

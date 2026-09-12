@@ -59,10 +59,15 @@ def test_the_running_week_is_flagged_incomplete_until_the_weekend():
 
 # --------------------------------------------------------- volume trigger
 
-def _weeks(vols, closes):
-    return [{"week_start": f"2026-{6 + i // 4:02d}-{1 + (i % 4) * 7:02d}",
-             "open": c, "high": c, "low": c, "close": c, "volume": v}
-            for i, (v, c) in enumerate(zip(vols, closes))]
+def _weeks(vols, closes, partial_last=False, last_days=5):
+    out = [{"week_start": f"2026-{6 + i // 4:02d}-{1 + (i % 4) * 7:02d}",
+            "open": c, "high": c, "low": c, "close": c, "volume": v,
+            "days": 5, "complete": True}
+           for i, (v, c) in enumerate(zip(vols, closes))]
+    if partial_last and out:
+        out[-1]["complete"] = False
+        out[-1]["days"] = last_days
+    return out
 
 
 def test_volume_trigger_flags_a_multifold_surge_on_a_price_rise():
@@ -321,10 +326,13 @@ def test_every_scan_row_traces_to_the_archive():
     for s in q[:10]:
         weeks = weekly[s["symbol"]]
         assert weeks[-1]["volume"] == s["last_week_volume"]
-        base = [w["volume"] for w in weeks[-(DV.BASELINE_WEEKS + 1):-1]]
+        prior = [w for w in weeks[:-1] if w["complete"]]
+        base = [w["volume"] for w in prior[-DV.BASELINE_WEEKS:]]
         assert round(sum(base) / len(base)) == s["baseline_avg_volume"]
-        assert s["volume_multiple"] == pytest.approx(
+        assert s["raw_volume_multiple"] == pytest.approx(
             s["last_week_volume"] / (sum(base) / len(base)), abs=0.01)
+        assert len(s["recent_weeks"]) == 4
+        assert s["recent_weeks"][-1]["volume"] == s["last_week_volume"]
 
 
 def test_a_recovered_breakdown_is_watched_not_sold():
@@ -348,3 +356,56 @@ def test_a_standing_breakdown_still_sells():
     st = DV.find_boxes(_bars(seq))
     assert st["state"] == "BREAKDOWN"
     assert DV.recommend(st, {})["action"] == "SELL"
+
+
+# ------------------------------------------- the latest (partial) week
+
+def test_the_running_week_is_the_week_under_test():
+    """The gap the first review caught: a surge happening THIS week must
+    be tested now, pro-rated to five days — not ignored until next week."""
+    # 12 quiet completed weeks, then 2 days of the running week carrying
+    # a full normal week's volume: 1.0x raw = 2.5x pro-rated
+    vols = [100_000] * 12 + [100_000]
+    closes = [50] * 12 + [53]
+    sig = DV.volume_signal(_weeks(vols, closes, partial_last=True,
+                                  last_days=2))
+    assert sig["partial_week"] is True and sig["days_traded"] == 2
+    assert sig["raw_volume_multiple"] == pytest.approx(1.0)
+    assert sig["volume_multiple"] == pytest.approx(2.5)
+    assert sig["qualifies"] is True
+    assert sig["week_start"] == _weeks(vols, closes)[-1]["week_start"]
+
+
+def test_a_quiet_partial_week_does_not_qualify():
+    vols = [100_000] * 12 + [30_000]        # 2 days at normal daily pace
+    closes = [50] * 12 + [51]
+    sig = DV.volume_signal(_weeks(vols, closes, partial_last=True,
+                                  last_days=2))
+    assert sig["volume_multiple"] == pytest.approx(0.75)
+    assert sig["qualifies"] is False
+
+
+def test_signal_always_carries_the_last_four_weeks():
+    vols = [100_000] * 12 + [400_000]
+    closes = [50] * 12 + [54]
+    sig = DV.volume_signal(_weeks(vols, closes))
+    assert len(sig["recent_weeks"]) == 4
+    assert [w["volume"] for w in sig["recent_weeks"]] == \
+        [100_000, 100_000, 100_000, 400_000]
+
+
+def test_incomplete_weeks_never_pollute_the_baseline():
+    """A partial week in the middle of history (halt/holiday edge) must
+    not drag the average down."""
+    weeks = _weeks([100_000] * 13, [50] * 13)
+    weeks[5]["complete"] = False
+    weeks[5]["volume"] = 1                  # would poison a naive mean
+    sig = DV.volume_signal(weeks)
+    assert sig["baseline_avg_volume"] == 100_000
+
+
+def test_weekly_chart_labels_a_partial_trigger_week():
+    weeks = _weeks([100_000] * 12 + [200_000], [50] * 12 + [54],
+                   partial_last=True, last_days=3)
+    ch = CH.weekly_chart(weeks)
+    assert "partial: 3 days so far" in ch

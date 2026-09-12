@@ -6,15 +6,17 @@ CURRENT data — so this fetcher runs every time the skill runs (step 1.6
 of the method). For every NiftyTotalMarket symbol it pulls the last six
 months of DAILY bars from Yahoo Finance (SYMBOL.NS), keeps the daily rows
 for box detection, and aggregates them into ISO weeks for the volume
-trigger — a "week" is Monday-to-Friday, and only COMPLETED weeks count
-(the running week would understate volume and fake a decline).
+trigger — a "week" is Monday-to-Friday. The running (partial) week is
+stored too, flagged incomplete with its traded-day count: the trigger
+tests THE LATEST week, pro-rating a partial one to five days, so a surge
+is caught the day it happens rather than a week later.
 
 Everything lands beside the other statement archives, as required:
 
     IndividualStockAnalysis/India/VolumeAndPricing/NiftyTotalMarket/
         _all_daily_long.csv    symbol, date, open, high, low, close, volume
         _all_weekly_long.csv   symbol, week_start, open, high, low, close,
-                               volume, complete
+                               volume, days, complete
         _fetch_log.csv         per-symbol status of the latest fetch
         _fetched_at.txt        UTC timestamp of the latest fetch
 
@@ -123,11 +125,12 @@ def aggregate_weeks(daily: list[dict],
                             "week_start": week_start(d).isoformat(),
                             "open": row["open"], "high": row["high"],
                             "low": row["low"], "close": row["close"],
-                            "volume": 0}
+                            "volume": 0, "days": 0}
         w["high"] = max(x for x in (w["high"], row["high"]) if x is not None)
         w["low"] = min(x for x in (w["low"], row["low"]) if x is not None)
         w["close"] = row["close"]
         w["volume"] += row["volume"]
+        w["days"] += 1
     out = [weeks[k] for k in sorted(weeks)]
     cur = week_key(today)
     for k, w in zip(sorted(weeks), out):
@@ -167,7 +170,7 @@ def fetch_universe(symbols: list[str] | None = None,
                ["symbol", "date", "open", "high", "low", "close", "volume"])
     _write_csv(OUT_DIR / "_all_weekly_long.csv", weekly_rows,
                ["symbol", "week_start", "open", "high", "low", "close",
-                "volume", "complete"])
+                "volume", "days", "complete"])
     _write_csv(OUT_DIR / "_fetch_log.csv", log,
                ["symbol", "status", "days", "note"])
     stamp = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")

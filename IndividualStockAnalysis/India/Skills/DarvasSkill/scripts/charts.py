@@ -45,7 +45,11 @@ def weekly_chart(weeks: list[dict], max_weeks: int = 13,
             pct = (w["close"] - prev["close"]) / prev["close"] * 100
             arrow = "▲" if pct > 0.2 else "▼" if pct < -0.2 else "▬"
             chg = f"{arrow} {pct:+.1f}%"
-        mark = "  ◀ trigger week" if i == len(rows) - 1 else ""
+        mark = ""
+        if i == len(rows) - 1:
+            mark = "  ◀ trigger week"
+            if not w.get("complete", True):
+                mark += f" (partial: {w.get('days', '?')} days so far)"
         out.append(f"{w['week_start']}  {bar:<{width + 2}}"
                    f"{_fmt_vol(w['volume']):>9}  "
                    f"₹{w['close']:>9,.1f}  {chg:>8}{mark}")

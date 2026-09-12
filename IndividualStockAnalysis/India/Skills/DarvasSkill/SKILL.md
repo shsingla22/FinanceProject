@@ -18,14 +18,17 @@ license: internal
 ## The five steps, as implemented
 
 1. **The volume trigger.** Fresh daily bars for the last six months are
-   fetched for every symbol ON EVERY RUN and aggregated into completed
-   Monday–Friday weeks. A stock qualifies when its last completed week
-   traded at least **1.5×** its average weekly volume of the prior 12
-   completed weeks (minimum 6) **and** the price rose that week — volume
-   without price appreciation is distribution, price without volume is
-   drift; Darvas required both. Tiers: ≥3× *multifold*, ≥2× *strong*,
-   ≥1.5× *elevated*. The report lists the best volume reactions in
-   order, with the exact volume numbers.
+   fetched for every symbol ON EVERY RUN and aggregated into
+   Monday–Friday weeks. The week under test is THE LATEST week — the
+   running (partial) week when there is one, pro-rated to five days
+   (volume ÷ (average × days÷5)) and labelled, so a surge is caught the
+   day it happens, never a week late. A stock qualifies at **1.5×** the
+   average weekly volume of the prior 12 completed weeks (minimum 6)
+   **and** a rising price — volume without price appreciation is
+   distribution, price without volume is drift; Darvas required both.
+   Tiers: ≥3× *multifold*, ≥2× *strong*, ≥1.5× *elevated*. The report
+   lists EVERY qualifier in order with the last four weeks of volume
+   beside the 12-week average, and deep-dives the top 25 by default.
 
 2. **Earnings power + new-age industries.** For each qualifier: EBITDA
    ("Operating Profit"; "Financing Profit" for lenders), EBITDA margin,
@@ -66,7 +69,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 25 tests
+python3 -m pytest scripts/test_skill.py -q     # 32 tests
 ```
 
 ## Data and outputs
@@ -74,7 +77,7 @@ python3 -m pytest scripts/test_skill.py -q     # 25 tests
 | Where | What |
 |---|---|
 | `India/VolumeAndPricing/NiftyTotalMarket/_all_daily_long.csv` | six months of daily OHLCV per symbol, refreshed every run |
-| `…/_all_weekly_long.csv` | ISO-week aggregates, with a `complete` flag — the trigger reads completed weeks only |
+| `…/_all_weekly_long.csv` | ISO-week aggregates with traded-day counts and a `complete` flag — the trigger tests the latest week, pro-rating a partial one |
 | `…/_fetch_log.csv`, `_fetched_at.txt` | per-symbol fetch status and the run stamp — failures are listed, never hidden |
 | `India/Analysis/NiftyTotalMarketAnalysis/DarvasAnalysis/DARVAS_REPORT.md` | the screen: ranked trigger table, per-pick deep dives with text charts, recommendations, the stop ledger, methodology |
 | `…/DarvasAnalysis/_positions.csv` | positions carried between runs; stops ratchet up only |
