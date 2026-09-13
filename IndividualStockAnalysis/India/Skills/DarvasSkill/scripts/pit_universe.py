@@ -116,46 +116,51 @@ def _parse(data: bytes, d: dt.date) -> list[dict]:
     return rows
 
 
+def _fetch_day(dest: Path, d: dt.date) -> str:
+    day_csv = dest / f"{d.isoformat()}.csv"
+    marker = dest / f"{d.isoformat()}.none"
+    if day_csv.exists() or marker.exists():
+        return "cached"
+    urls = ([_new_url(d), _old_url(d)] if d >= NEW_FORMAT_FROM
+            else [_old_url(d), _new_url(d)])
+    data = _get(urls[0]) or _get(urls[1])
+    if data is None:
+        marker.write_text("")             # holiday — never re-asked
+        return "holiday"
+    rows = _parse(data, d)
+    tmp = day_csv.with_suffix(".tmp")
+    with open(tmp, "w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=[
+            "symbol", "date", "open", "high", "low", "close",
+            "volume", "value"])
+        w.writeheader()
+        w.writerows(rows)
+    tmp.rename(day_csv)
+    return "fetched"
+
+
 def cmd_download(args) -> None:
+    from concurrent.futures import ThreadPoolExecutor
     dest = Path(args.dest)
     dest.mkdir(parents=True, exist_ok=True)
     d = dt.date.fromisoformat(args.start)
     end = dt.date.fromisoformat(args.end)
-    got = missed = skipped = 0
-    t0 = time.time()
+    days = []
     while d <= end:
-        if d.weekday() >= 5:
-            d += dt.timedelta(days=1)
-            continue
-        day_csv = dest / f"{d.isoformat()}.csv"
-        marker = dest / f"{d.isoformat()}.none"
-        if day_csv.exists() or marker.exists():
-            skipped += 1
-            d += dt.timedelta(days=1)
-            continue
-        urls = ([_new_url(d), _old_url(d)] if d >= NEW_FORMAT_FROM
-                else [_old_url(d), _new_url(d)])
-        data = _get(urls[0]) or _get(urls[1])
-        if data is None:
-            marker.write_text("")         # holiday — never re-asked
-            missed += 1
-        else:
-            rows = _parse(data, d)
-            with open(day_csv, "w", newline="") as fh:
-                w = csv.DictWriter(fh, fieldnames=[
-                    "symbol", "date", "open", "high", "low", "close",
-                    "volume", "value"])
-                w.writeheader()
-                w.writerows(rows)
-            got += 1
-        if (got + missed) % 100 == 0:
-            print(f"[bhav {d}] fetched={got} holidays={missed} "
-                  f"cached={skipped} ({time.time() - t0:.0f}s)",
-                  file=sys.stderr, flush=True)
-        time.sleep(args.sleep)
+        if d.weekday() < 5:
+            days.append(d)
         d += dt.timedelta(days=1)
-    print(f"done: fetched={got} holidays={missed} cached={skipped}",
-          file=sys.stderr)
+    counts = {"fetched": 0, "holiday": 0, "cached": 0}
+    t0 = time.time()
+    with ThreadPoolExecutor(max_workers=args.workers) as ex:
+        for i, res in enumerate(ex.map(lambda x: _fetch_day(dest, x),
+                                       days), 1):
+            counts[res] += 1
+            if i % 200 == 0:
+                print(f"[bhav {i}/{len(days)}] {counts} "
+                      f"({time.time() - t0:.0f}s)",
+                      file=sys.stderr, flush=True)
+    print(f"done: {counts}", file=sys.stderr)
 
 
 # ------------------------------------------------------------------ build
@@ -274,6 +279,7 @@ def main() -> None:
     d.add_argument("--end", required=True)
     d.add_argument("--dest", required=True)
     d.add_argument("--sleep", type=float, default=0.25)
+    d.add_argument("--workers", type=int, default=6)
     b = sub.add_parser("build")
     b.add_argument("--asof", required=True, help="universe month YYYY-MM")
     b.add_argument("--top", type=int, default=750)

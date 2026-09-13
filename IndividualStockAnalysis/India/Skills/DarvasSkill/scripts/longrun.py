@@ -306,12 +306,29 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
          f"ended on or before the last 31 March at each screen date; "
          f"the conference-call read is excluded. Both engines pay Angel "
          f"One charges on every order and settle capital-gains tax "
-         f"every 1 April in their net runs. **Two limits that cannot "
-         f"be engineered away:** the universe is TODAY'S "
-         f"NiftyTotalMarket constituents (survivorship bias flatters "
-         f"the early years), and Yahoo serves split-adjusted history. "
-         f"No slippage, stop exits at the stop price, fractional "
-         f"shares.{runway_note}", "",
+         f"every 1 April in their net runs. "
+         + (f"**The universe is POINT-IN-TIME:** the top symbols by "
+            f"actual traded value in the as-of month, from NSE's "
+            f"official bhavcopies (`constituents_asof.csv`) — "
+            f"companies that later died or delisted are IN, later "
+            f"IPOs are OUT, so survivorship bias is removed; the "
+            f"price of using raw exchange data is heuristic "
+            f"split/bonus adjustment (standard ratio against the "
+            f"prior close AND a matching volume step; every "
+            f"adjustment applied is listed in `_adjustments.csv`). "
+            if (archive / "constituents_asof.csv").exists() else
+            f"**Two limits that cannot be engineered away:** the "
+            f"universe is TODAY'S NiftyTotalMarket constituents "
+            f"(survivorship bias flatters the early years), and "
+            f"Yahoo serves split-adjusted history. ")
+         + f"No slippage, stop exits at the stop price, fractional "
+           f"shares.{runway_note}"
+         + (f" Stored fiscal statements exist for "
+            f"{args.stmt_coverage:.0f}% of this universe — a stock "
+            f"without statements cannot be blocked by the earnings "
+            f"gate (only a FALLING verdict blocks), which loosens that "
+            f"gate for the rest."
+            if getattr(args, "stmt_coverage", 100) < 90 else ""), "",
          "## The two engines", "",
          f"**Common rules.** ₹{args.capital:,.0f} starts all in cash. "
          f"Every Friday after the close the full three-gate screen "
@@ -561,6 +578,10 @@ def main() -> None:
 
     bars_by = load_bars(archive)
     print(f"{len(bars_by)} symbols loaded", file=sys.stderr)
+    import pandas as pd
+    pl_syms = set(pd.read_csv(EP.PL_LONG).nse_symbol.unique())
+    args.stmt_coverage = (100 * len(set(bars_by) & pl_syms)
+                          / max(len(bars_by), 1))
     dates = sorted({b["date"] for bars in bars_by.values() for b in bars})
     through = dates[-1]
     if args.screen_end:
