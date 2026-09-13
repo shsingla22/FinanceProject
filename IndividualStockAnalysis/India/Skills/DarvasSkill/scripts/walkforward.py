@@ -48,10 +48,12 @@ def _load_daily_csv(path: Path) -> dict[str, dict[str, dict]]:
     with open(path) as fh:
         for r in csv.DictReader(fh):
             out.setdefault(r["symbol"], {})[r["date"]] = {
-                "date": r["date"],
+                "symbol": r["symbol"], "date": r["date"],
+                "open": float(r["open"]) if r["open"] else None,
                 "high": float(r["high"]) if r["high"] else None,
                 "low": float(r["low"]) if r["low"] else None,
-                "close": float(r["close"])}
+                "close": float(r["close"]),
+                "volume": int(r["volume"]) if r.get("volume") else 0}
     return out
 
 
@@ -145,6 +147,69 @@ def watch_entry(bars: list[dict], after: str, buy_above: float,
     return None
 
 
+# -------------------------------------------------------------- re-entry
+
+def reentry_ready(bars: list[dict], i: int) -> dict | None:
+    """Is day i a valid RE-ENTRY day? Two conditions, both the skill's
+    own signals, both required:
+
+      PRICE  — boxes re-sealed on the trailing six months put the stock
+               in BREAKOUT (a close above its sealed box top) or
+               RECOVERY (a close back above a broken box's top);
+      VOLUME — the weekly volume trigger fires again as of this day:
+               the latest week (pro-rated if running) at >= 1.5x the
+               prior 12 completed weeks, with the weekly price up.
+
+    Returns {state, stop} on a ready day (stop None for RECOVERY — a
+    stale box gives no honest stop; the first weekly ratchet sets one)."""
+    import fetch_data as FD
+    st = DV.find_boxes(bars[max(0, i - BOX_LOOKBACK_BARS):i + 1])
+    if st["state"] not in ("BREAKOUT", "RECOVERY"):
+        return None
+    day = dt.date.fromisoformat(bars[i]["date"])
+    weeks = FD.aggregate_weeks(bars[max(0, i - BOX_LOOKBACK_BARS):i + 1],
+                               today=day)
+    sig = DV.volume_signal(weeks)
+    if not sig or not sig["qualifies"]:
+        return None
+    stop = (DV.stop_loss(st["current"])
+            if st["state"] == "BREAKOUT" and st["current"] else None)
+    return {"state": st["state"], "stop": stop, "signal": sig}
+
+
+def simulate_with_reentry(bars: list[dict], entry_date: str,
+                          entry_px: float, initial_stop: float | None,
+                          through: str) -> list[dict]:
+    """The full life of one symbol under the rhythm WITH re-entry: after
+    a stop-out or weekly SELL, the stock is re-bought on the first day
+    both signals say go, and the next leg lives under the same rules.
+    Returns the list of legs, each a simulate_position result plus its
+    entry."""
+    idx = {b["date"]: i for i, b in enumerate(bars)}
+    legs = []
+    date, px, stop = entry_date, entry_px, initial_stop
+    while True:
+        leg = simulate_position(bars, date, px, stop, through)
+        legs.append({"entry_date": date, "entry_px": px,
+                     "initial_stop": stop, **leg})
+        if "held" in leg["reason"]:
+            break
+        # scan forward from the day after the exit for the next go-day
+        nxt = None
+        for i in range(idx[leg["exit_date"]] + 1, idx.get(through,
+                       len(bars) - 1) + 1):
+            if bars[i]["date"] > through:
+                break
+            ready = reentry_ready(bars, i)
+            if ready:
+                nxt = (bars[i]["date"], bars[i]["close"], ready)
+                break
+        if nxt is None:
+            break
+        date, px, stop = nxt[0], nxt[1], nxt[2]["stop"]
+    return legs
+
+
 # ------------------------------------------------------------- the driver
 
 def _initial_only(bars, entry_date, entry_px, stop, through):
@@ -165,7 +230,12 @@ def main() -> None:
     ap.add_argument("--asof", default="2026-03-31")
     ap.add_argument("--through", default=None)
     ap.add_argument("--tag", default="2025-06-01_to_2026-03-31")
+    ap.add_argument("--reentry", action="store_true",
+                    help="replay with re-entry after stop-outs and append "
+                         "that section instead")
     args = ap.parse_args()
+    if args.reentry:
+        return main_reentry(args)
 
     bt_dir = INDIA / "VolumeAndPricingBacktest" / args.tag
     ledger = OUT_DIR / f"_positions_backtest_{args.tag}.csv"
@@ -305,6 +375,107 @@ def _append_report(report, args, through, core, watch_rows, blotter):
           "(no slippage), stop exits assume a fill at the stop price, no "
           "costs, one period is one sample.*", ""]
     report.write_text(report.read_text() + "\n".join(A))
+
+
+
+
+# ----------------------------------------------- the re-entry replay
+
+def main_reentry(args) -> None:
+    bt_dir = INDIA / "VolumeAndPricingBacktest" / args.tag
+    ledger = OUT_DIR / f"_positions_backtest_{args.tag}.csv"
+    report = OUT_DIR / f"DARVAS_BACKTEST_{args.tag}.md"
+    picks = list(csv.DictReader(open(ledger)))
+    bars_by = stitched_bars(bt_dir, [p["symbol"] for p in picks])
+    through = args.through or max(b["date"]
+                                  for bars in bars_by.values()
+                                  for b in bars)
+
+    stocks, blotter = [], []
+    for p in picks:
+        sym = p["symbol"]
+        bars = bars_by[sym]
+        asof_bar = [b for b in bars if b["date"] <= args.asof][-1]
+        stop0 = float(p["stop_loss"]) if p["stop_loss"] else None
+        if p["action"] in ("BUY", "ACCUMULATE"):
+            e_date, e_px = asof_bar["date"], asof_bar["close"]
+        elif p["action"] == "WATCH" and p["box_top"]:
+            hit = watch_entry(bars, asof_bar["date"],
+                              float(p["box_top"]), through)
+            if hit is None:
+                continue
+            e_date, e_px = hit["date"], hit["px"]
+        else:
+            continue
+        legs = simulate_with_reentry(bars, e_date, e_px, stop0, through)
+        growth = 1.0
+        for k, leg in enumerate(legs):
+            growth *= 1 + leg["ret_pct"] / 100
+            tagd = "BUY" if k == 0 else "RE-ENTER"
+            stop_txt = (f"; stop ₹{leg['initial_stop']:,.2f}"
+                        if leg["initial_stop"] is not None
+                        else "; no stop until the first box seals")
+            blotter.append((leg["entry_date"], sym,
+                            f"{tagd} at ₹{leg['entry_px']:,.2f}{stop_txt}"))
+            for e in leg["events"]:
+                frm = f"₹{e['from']:,.2f}" if e["from"] is not None else "—"
+                blotter.append((e["date"], sym,
+                                f"RAISE STOP {frm} → ₹{e['to']:,.2f}"))
+            verb = ("STILL HELD" if "held" in leg["reason"] else "SELL")
+            blotter.append((leg["exit_date"], sym,
+                            f"{verb} at ₹{leg['exit_px']:,.2f} — "
+                            f"{leg['reason']} ({leg['ret_pct']:+.1f}%)"))
+        stocks.append({"sym": sym, "legs": legs,
+                       "compound_pct": (growth - 1) * 100})
+    blotter.sort()
+
+    n = len(stocks)
+    final_100 = sum((100 / n) * (1 + s_["compound_pct"] / 100)
+                    for s_ in stocks)
+    import statistics as st
+    relegs = sum(len(s_["legs"]) - 1 for s_ in stocks)
+    re_rets = [leg["ret_pct"] for s_ in stocks
+               for leg in s_["legs"][1:]]
+
+    A = ["", f"## Re-entry after a stop-out ({args.asof} → {through})", "",
+         "*Same stocks, same rhythm, ONE new rule: after a stop-out or "
+         "weekly SELL, the stock is re-bought on the first day BOTH of "
+         "the skill's own signals say go — boxes re-sealed on the "
+         "trailing six months put it in BREAKOUT (or RECOVERY), AND the "
+         "weekly volume trigger fires again as of that day (latest week, "
+         "pro-rated if running, at ≥1.5× the prior 12 completed weeks "
+         "with the weekly price up). A RECOVERY re-entry starts with no "
+         "stop until its first box seals — a stale box gives no honest "
+         "stop. Each stock's slice of capital compounds through its own "
+         "legs and sits idle between them.*", ""]
+    A += ["### The complete trade blotter with re-entries", "", "```"]
+    for date, sym, what in blotter:
+        A.append(f"{date}  {sym:11s} {what}")
+    A += ["```", ""]
+    A += ["### Per stock: legs and the compounded result", "",
+          "| Stock | Legs | Leg returns | Compounded |",
+          "|---|---:|---|---:|"]
+    for s_ in sorted(stocks, key=lambda x: -x["compound_pct"]):
+        legs_txt = " → ".join(f"{leg['ret_pct']:+.1f}%"
+                              for leg in s_["legs"])
+        A.append(f"| {s_['sym']} | {len(s_['legs'])} | {legs_txt} | "
+                 f"**{s_['compound_pct']:+.1f}%** |")
+    A += ["",
+          f"**{relegs} re-entries were taken across {n} stocks; the "
+          f"re-entry legs alone averaged "
+          f"{st.mean(re_rets):+.1f}% ({sum(1 for r in re_rets if r > 0)} "
+          f"of {len(re_rets)} positive).**" if re_rets else
+          "**No re-entry signal fired.**",
+          "",
+          f"**₹100 outcome (equal 1/{n} slice per stock, each "
+          f"compounding through its own legs): ₹{final_100:,.2f} "
+          f"({final_100 - 100:+.2f}%) — against ₹105.18 with no "
+          f"re-entry and ₹104.80 in the Nifty 50.**", "",
+          "*Same limits as before: close-price entries, stop-price "
+          "fills, no costs, one period.*", ""]
+    report.write_text(report.read_text() + "\n".join(A))
+    print(f"re-entry replay appended to {report}")
+    print(f"₹100 → ₹{final_100:,.2f} | re-entries: {relegs}")
 
 
 if __name__ == "__main__":

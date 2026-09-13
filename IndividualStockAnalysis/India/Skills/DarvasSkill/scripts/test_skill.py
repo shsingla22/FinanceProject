@@ -615,3 +615,61 @@ def test_walkforward_refuses_a_mismatched_archive_seam(tmp_path):
             WF.stitched_bars(tmp_path, ["AAA"])
     finally:
         DV.DATA_DIR = old
+
+
+# ------------------------------------------------------- re-entry rules
+
+def _vol_bars(seq, start="2026-01-05", base_vol=100_000):
+    d = dt.date.fromisoformat(start)
+    out = []
+    for item in seq:
+        h, l, c = item[:3]
+        v = item[3] if len(item) > 3 else base_vol
+        while d.weekday() >= 5:
+            d += dt.timedelta(days=1)
+        out.append({"symbol": "T", "date": d.isoformat(), "open": float(c),
+                    "high": float(h), "low": float(l), "close": float(c),
+                    "volume": v})
+        d += dt.timedelta(days=1)
+    return out
+
+
+def test_reentry_needs_BOTH_price_break_and_volume():
+    """A breakout on quiet volume must NOT re-enter; the same breakout on
+    trigger volume must."""
+    quiet = (BOX_5055 * 5                       # long quiet history
+             + [(58, 54, 57)])                  # breakout, normal volume
+    bars = _vol_bars(quiet)
+    assert WF.reentry_ready(bars, len(bars) - 1) is None
+    loud = (BOX_5055 * 5
+            + [(58, 54, 57, 800_000)])          # breakout on 8x daily volume
+    bars = _vol_bars(loud)
+    ready = WF.reentry_ready(bars, len(bars) - 1)
+    assert ready is not None and ready["state"] == "BREAKOUT"
+    assert ready["stop"] == pytest.approx(48.5)
+
+
+def test_simulate_with_reentry_rebuys_after_a_stopout():
+    """Stop-out, drift, then a loud breakout: the second leg must open."""
+    seq = (BOX_5055 * 5
+           + [(52, 47, 47.5)]                       # leg 1 stopped at 48.5
+           + [(50, 47.5, 48.5), (50, 48, 49), (51, 48, 50),
+              (51, 48.5, 50), (51, 48.5, 50.5)]     # quiet drift, box seals
+           + [(56, 51, 55.5, 900_000)]              # loud break above
+           + [(57, 54, 56)] * 3)
+    bars = _vol_bars(seq)
+    legs = WF.simulate_with_reentry(bars, bars[0]["date"], 54.0, 48.5,
+                                    bars[-1]["date"])
+    assert len(legs) >= 2, "the stop-out must be followed by a re-entry"
+    assert legs[0]["reason"] == "stop hit"
+    assert legs[1]["entry_px"] == pytest.approx(55.5)
+
+
+def test_no_reentry_when_volume_never_returns():
+    seq = (BOX_5055 * 5
+           + [(52, 47, 47.5)]
+           + [(56, 51, 55.5)] + [(57, 54, 56)] * 5)   # breaks, quiet volume
+    bars = _vol_bars(seq)
+    legs = WF.simulate_with_reentry(bars, bars[0]["date"], 54.0, 48.5,
+                                    bars[-1]["date"])
+    assert len(legs) == 1, "price alone must never re-enter"

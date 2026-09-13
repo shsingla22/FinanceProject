@@ -78,7 +78,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 48 tests
+python3 -m pytest scripts/test_skill.py -q     # 51 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -116,6 +116,18 @@ stop vs the ratchet) to the backtest report. The two price archives are
 stitched with a verified seam (any overlapping day disagreeing by more
 than 0.5% aborts, so a corporate-action adjustment can never fabricate
 a move).
+
+### Re-entry replay
+
+```bash
+python3 scripts/walkforward.py --reentry
+```
+
+Same stocks, same rhythm, one added rule: after a stop-out or weekly
+SELL, re-buy on the first day BOTH of the skill's own signals say go —
+boxes in BREAKOUT/RECOVERY and the weekly volume trigger firing again.
+Appends the multi-leg blotter, per-stock compounding and the ₹100
+outcome to the backtest report.
 
 ## Data and outputs
 
