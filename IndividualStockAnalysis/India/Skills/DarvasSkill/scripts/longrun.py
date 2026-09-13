@@ -254,9 +254,15 @@ def write_report(res: dict, gross: dict, fr, args, through: str,
          f"refused, nothing below half a slice. Stops (box bottom − "
          f"max(0.3×height, 5% of bottom)) are checked daily and "
          f"ratcheted up weekly; the stabilisation grace applies — only "
-         f"the stop itself exits. A stopped symbol returns only by "
-         f"passing the full screen again. **When nothing qualifies, "
-         f"the cash stays cash.**", "",
+         f"the stop itself exits. **Pyramiding:** on every 2nd "
+         f"consecutive box jump upward without the stop being hit, the "
+         f"stake is DOUBLED — new capital equal to the position's "
+         f"market value goes in at the next day's open, from cash only "
+         f"(partial when cash runs short, never borrowed), each add-on "
+         f"a separate tax lot on its own holding clock, the ratcheted "
+         f"stop covering the whole enlarged position. A stopped symbol "
+         f"returns only by passing the full screen again. **When "
+         f"nothing qualifies, the cash stays cash.**", "",
          "## The headline", "",
          f"| | ₹100 became | CAGR |",
          f"|---|---:|---:|",

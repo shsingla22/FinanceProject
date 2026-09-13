@@ -1074,3 +1074,110 @@ def test_rolling_with_frictions_taxes_a_short_term_gain_at_20pct():
     assert f.total_tax == pytest.approx(0.20 * gain)
     tax_lines = [b for b in res["blotter"] if b[1] == "TAX"]
     assert len(tax_lines) == 1
+
+
+# ------------------------------------ pyramiding: double on the 2nd jump
+
+def _box_bars(seq, sym="AAA", start="2026-01-02"):
+    """[(high, low, close)] -> full weekday bars for the rolling engine."""
+    d = dt.date.fromisoformat(start)
+    out, prev = [], seq[0][2]
+    for h, l, c in seq:
+        while d.weekday() >= 5:
+            d += dt.timedelta(days=1)
+        out.append({"symbol": sym, "date": d.isoformat(), "open": prev,
+                    "high": float(h), "low": float(l), "close": float(c),
+                    "volume": 100_000})
+        prev = float(c)
+        d += dt.timedelta(days=1)
+    return out
+
+
+CLIMB_3_BOXES = (
+    [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+    + [(58, 54, 57), (62, 57, 60)]                       # jump to box 2
+    + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]         # seal 56-62
+    + [(66, 61, 65), (70, 64, 68)]                       # jump to box 3
+    + [(69, 64, 67), (68, 63, 66), (69, 64, 68)]         # seal 63-70
+    + [(69, 64, 68)] * 10)                               # hold box 3
+
+
+def test_second_consecutive_box_jump_doubles_the_stake():
+    bars = _box_bars(CLIMB_3_BOXES)
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=3)
+    text = [b for b in sorted(res["blotter"])]
+    raises = [b for b in text if "RAISE STOP" in b[2]]
+    pyramids = [b for b in text if "PYRAMID BUY" in b[2]]
+    assert len(raises) == 2, "box 1→2 and 2→3 are the two jumps"
+    assert len(pyramids) == 1, "the double fires on the 2nd jump only"
+    # the pyramid lands AFTER the second raise, at the next day's open
+    assert pyramids[0][0] > raises[1][0]
+    # the stake genuinely doubled: the add-on bought as many shares as
+    # were already held (add-on ₹ = position value at that morning)
+    book = res["book"][0]
+    lots = book["lots"]
+    assert len(lots) == 2
+    assert lots[1]["shares"] == pytest.approx(lots[0]["shares"])
+    assert book["shares"] == pytest.approx(2 * lots[0]["shares"])
+    # blended entry price sits between the two lot prices
+    assert lots[0]["px"] < book["entry_px"] < lots[1]["px"]
+    assert all(w["cash"] >= -1e-9 for w in res["equity_curve"])
+
+
+def test_first_jump_alone_never_pyramids():
+    seal_two_boxes_only = (
+        [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+        + [(58, 54, 57), (62, 57, 60)]
+        + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]
+        + [(61, 57, 60)] * 10)
+    bars = _box_bars(seal_two_boxes_only)
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=3)
+    assert [b for b in res["blotter"] if "RAISE STOP" in b[2]]
+    assert not [b for b in res["blotter"] if "PYRAMID" in b[2]]
+
+
+def test_pyramid_with_thin_cash_is_partial_and_never_borrows():
+    bars = _box_bars(CLIMB_3_BOXES)
+    # slots=2: the seed takes ₹50, leaving ₹50 — less than the position
+    # is worth by pyramid time, so the double is partial, never negative
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=2)
+    pyr = [b for b in res["blotter"] if "PYRAMID BUY" in b[2]]
+    assert len(pyr) == 1 and "partial: cash covered ₹50.00" in pyr[0][2]
+    assert all(w["cash"] >= -1e-9 for w in res["equity_curve"])
+    # and with NO cash at all (slots=1 eats everything) it is refused
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=1)
+    assert [b for b in res["blotter"] if "PYRAMID NOT FUNDED" in b[2]]
+    assert not [b for b in res["blotter"] if "PYRAMID BUY" in b[2]]
+
+
+def test_pyramid_lots_are_taxed_each_on_its_own_clock():
+    # after the double, the stock slides through the ratcheted stop:
+    # lot 1 (bought at 54) exits at a gain, lot 2 (bought higher) at a
+    # loss — the frictions engine must see BOTH, netted short-term
+    slide = CLIMB_3_BOXES + [(60, 58, 59), (59.5, 58, 59), (59, 55, 56)]
+    bars = _box_bars(slide)
+    f = FR.AngelOneFrictions()
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=3, frictions=f)
+    assert len(res["closed"]) == 1
+    c = res["closed"][0]
+    assert len(c["lots"]) == 2
+    expect = sum((c["exit_px"] - l["px"]) * l["shares"] for l in c["lots"])
+    assert sum(f.st_by_fy.values()) == pytest.approx(expect)
+    assert not f.lt_by_fy, "both lots were held under a year"
+    # the whole enlarged position sold in one order, books balance
+    assert res["final_equity"] == pytest.approx(res["cash"])

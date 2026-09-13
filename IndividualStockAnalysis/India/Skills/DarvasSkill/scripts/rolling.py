@@ -178,6 +178,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     cash = capital
     positions: dict[str, dict] = {}
     pending: list[dict] = []
+    pending_pyramids: list[str] = []
     blotter: list[tuple] = []
     equity_curve: list[dict] = []
     closed: list[dict] = []
@@ -203,10 +204,33 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             notional, charge = amt, 0.0
         positions[sym] = {"entry_date": d, "entry_px": px,
                           "shares": notional / px, "stop": stop,
-                          "cost": amt, "last_px": px, "ratchets": 0}
+                          "cost": amt, "last_px": px, "ratchets": 0,
+                          "lots": [{"date": d, "px": px,
+                                    "shares": notional / px}]}
         extra = f"; charges ₹{charge:,.4f}" if frictions else ""
         blotter.append((d, sym, f"BUY ₹{amt:,.2f} at ₹{px:,.2f} "
                                 f"({why}; stop ₹{stop:,.2f}{extra})"))
+
+    def add_to_position(sym, d, px, amt, why):
+        """The pyramid add-on: a NEW LOT with its own date and price —
+        the tax clock runs per lot. The blended entry price is kept for
+        the blotter and the return line."""
+        nonlocal cash
+        p = positions[sym]
+        cash -= amt
+        if frictions:
+            notional, charge = frictions.buy_split(amt, d)
+        else:
+            notional, charge = amt, 0.0
+        p["lots"].append({"date": d, "px": px, "shares": notional / px})
+        p["shares"] += notional / px
+        p["cost"] += amt
+        p["entry_px"] = (sum(l["px"] * l["shares"] for l in p["lots"])
+                         / p["shares"])
+        extra = f"; charges ₹{charge:,.4f}" if frictions else ""
+        blotter.append((d, sym, f"PYRAMID BUY ₹{amt:,.2f} at ₹{px:,.2f} "
+                                f"({why}; stop stays ₹{p['stop']:,.2f}"
+                                f"{extra})"))
 
     def close_position(sym, d, exit_px, reason):
         nonlocal cash
@@ -214,8 +238,9 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         gross = p["shares"] * exit_px
         if frictions:
             proceeds, charge = frictions.sell_split(gross, d)
-            frictions.on_sale(p["entry_date"], d, p["entry_px"],
-                              exit_px, p["shares"])
+            for lot in p["lots"]:                # each lot's own tax clock
+                frictions.on_sale(lot["date"], d, lot["px"],
+                                  exit_px, lot["shares"])
         else:
             proceeds, charge = gross, 0.0
         ret = (exit_px - p["entry_px"]) / p["entry_px"] * 100
@@ -253,8 +278,10 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 sold = p["shares"] * frac
                 gross = sold * px
                 proceeds, charge = frictions.sell_split(gross, d)
-                frictions.on_sale(p["entry_date"], d, p["entry_px"],
-                                  px, sold)
+                for lot in p["lots"]:            # trim every lot pro rata
+                    frictions.on_sale(lot["date"], d, lot["px"],
+                                      px, lot["shares"] * frac)
+                    lot["shares"] *= (1 - frac)
                 p["shares"] -= sold
                 p["cost"] *= (1 - frac)
                 cash += proceeds
@@ -283,6 +310,32 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         # 0. tax day: the fiscal year that ended 31 March settles
         if frictions and d >= next_tax:
             pay_tax(d)
+
+        # 1a. pyramid add-ons execute at TODAY'S OPEN — the doubling
+        # rule: every 2nd consecutive box jump doubles the stake, so
+        # the add-on equals the position's market value right now, new
+        # capital from cash, winners served before fresh signals
+        still_pyr = []
+        for sym in pending_pyramids:
+            if sym not in positions:
+                continue                     # stopped out in the meantime
+            bar = bar_of(sym, d)
+            if bar is None:
+                still_pyr.append(sym)
+                continue
+            px = bar["open"] or bar["close"]
+            value = positions[sym]["shares"] * px
+            amt = min(value, cash)
+            if amt <= 0 or amt < value * 0.01:
+                blotter.append((d, sym, "PYRAMID NOT FUNDED — no cash "
+                                        "to double the stake"))
+                continue
+            note = "2nd consecutive box jump — doubling the stake"
+            if amt < value - 1e-9:
+                note += (f" (partial: cash covered ₹{amt:,.2f} of "
+                         f"₹{value:,.2f})")
+            add_to_position(sym, d, px, amt, note)
+        pending_pyramids = still_pyr
 
         # 1. pending Friday signals execute at TODAY'S OPEN
         still_pending = []
@@ -337,6 +390,8 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                                     f"₹{st['current']['top']:,.2f} sealed)"))
                     p["stop"] = cand
                     p["ratchets"] += 1
+                    if p["ratchets"] % 2 == 0:   # every 2nd jump in a row
+                        pending_pyramids.append(sym)
 
         eq = equity(d)
         cur_slice = slice_size * (eq / capital)

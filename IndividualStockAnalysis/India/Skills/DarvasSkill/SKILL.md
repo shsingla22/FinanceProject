@@ -67,7 +67,14 @@ license: internal
    an upward break and is holding it = ACCUMULATE. Inside a box with no
    break yet = WATCH, with the exact buy-above price. A close below the
    box bottom = SELL — the red flag; a stock dropping to a lower box is
-   sold, never averaged.
+   sold, never averaged. **Pyramiding:** once invested, on every 2nd
+   consecutive box jump upward (box 1 → 2 → 3 without the stop being
+   hit) the stake is DOUBLED — new capital equal to the position's
+   current market value goes in at the next day's open (₹10 that has
+   grown to ₹13 gets ₹13 more), funded from cash only, partial when
+   cash runs short, never borrowed. Each add-on is its own tax lot with
+   its own holding clock, and the ratcheted stop covers the whole
+   enlarged position.
 
 5. **Stop losses, the grace, and the rhythm.** stop = box bottom −
    max(0.3 × box height, **5% of the bottom**): the stock's own range
