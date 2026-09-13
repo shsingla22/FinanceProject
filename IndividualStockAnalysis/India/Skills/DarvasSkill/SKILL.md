@@ -208,6 +208,22 @@ Two limits it states rather than hides: today's constituent list is
 used throughout (survivorship bias) and Yahoo serves split-adjusted
 history as it stands today.
 
+**The rolling radar (point-in-time membership).** A universe frozen at
+the window's start would blind the screens to exactly the stocks
+Darvas hunted — new listings and emerging names. `pit_universe.py
+build --rolling <first-screen-month>` recomputes membership EVERY
+MONTH from NSE's official bhavcopies: top 750 by the TRAILING month's
+traded value, with hysteresis (an incumbent leaves only after a full
+month past rank 900), so nothing later ever edits the past and the
+boundary cannot flap. Validated against reality: INDIGO (listed Nov
+2015) enters the radar 2015-12, DMART (Mar 2017) enters 2017-04,
+HDFCLIFE 2017-12, ZOMATO 2021-08, PAYTM 2021-12, LICI 2022-06, IREDA
+2023-12 — each the first month after its first full trailing month of
+turnover. Membership gates FRESH ENTRIES only; a held position runs
+to its ratcheted stop regardless. The archive carries the full
+month-by-month roster (`_membership_long.csv`) and the runner picks
+it up automatically (`longrun.py --archive <dir>`).
+
 The long run is simulated FOUR ways — both engines (A: no doubling;
 B: doubling on every box jump with new external capital, XIRR as the
 yardstick), each frictionless and NET of the real world

@@ -179,6 +179,62 @@ def _load_days(dest: Path, start: str, end: str) -> list[Path]:
                   if start <= p.stem <= end)
 
 
+# ------------------------------------------- rolling membership (PIT)
+
+ENTER_RANK = 750             # a stock ENTERS the radar at this rank …
+EXIT_RANK = 900              # … and leaves only after falling past this
+                             # for a full month — hysteresis, no flapping
+
+
+def next_month(month: str) -> str:
+    y, m = int(month[:4]), int(month[5:7])
+    return f"{y + (m == 12)}-{(m % 12) + 1:02d}"
+
+
+def rolling_membership(month_ranks: dict[str, dict[str, int]],
+                       first_month: str, last_month: str,
+                       enter: int = ENTER_RANK,
+                       exit_: int = EXIT_RANK) -> dict[str, dict]:
+    """month -> {"members": set, "entered": set, "left": set}.
+
+    A month's membership is decided ENTIRELY from the TRAILING month's
+    turnover ranks — nothing later can influence it, so there is no
+    lookahead. New names (IPOs, emerging small-caps) enter the first
+    month they rank inside `enter`; an incumbent stays until it has
+    spent a full month ranked past `exit_` (or stopped trading)."""
+    out: dict[str, dict] = {}
+    members: set[str] = set()
+    month = first_month
+    while month <= last_month:
+        prev = {y: m for y, m in month_ranks.items() if y < month}
+        if not prev:
+            raise ValueError(f"no trailing ranks before {month}")
+        ranks = prev[max(prev)]
+        fresh = {s for s, r in ranks.items() if r <= enter}
+        stay = {s for s in members if ranks.get(s, 10 ** 9) <= exit_}
+        new_members = fresh | stay
+        out[month] = {"members": new_members,
+                      "entered": new_members - members,
+                      "left": members - new_members}
+        members = new_members
+        month = next_month(month)
+    return out
+
+
+def month_turnover_ranks(dest: Path, months: list[str]) -> dict:
+    """month -> {symbol: rank} from that month's bhavcopies, rank 1 =
+    the month's highest total traded value."""
+    out = {}
+    for month in months:
+        turnover: dict[str, float] = defaultdict(float)
+        for p in sorted(dest.glob(f"{month}-*.csv")):
+            for r in csv.DictReader(open(p)):
+                turnover[r["symbol"]] += float(r["value"])
+        ranked = sorted(turnover, key=turnover.get, reverse=True)
+        out[month] = {s: i for i, s in enumerate(ranked, 1)}
+    return out
+
+
 def _detect_adjustments(bars: list[dict]) -> list[dict]:
     """Unadjusted history: a split/bonus shows as one overnight cliff.
     Three tests separate it from a crash, each calibrated on real
@@ -233,25 +289,57 @@ def cmd_build(args) -> None:
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
 
-    asof_days = sorted(p for p in dest.glob(f"{args.asof}-*.csv"))
-    if not asof_days:
-        sys.exit(f"no bhavcopies for as-of month {args.asof} in {dest}")
-    turnover: dict[str, float] = defaultdict(float)
-    for p in asof_days:
-        for r in csv.DictReader(open(p)):
-            turnover[r["symbol"]] += float(r["value"])
-    ranked = sorted(turnover, key=turnover.get, reverse=True)
-    universe = ranked[:args.top]
-    with open(out / "constituents_asof.csv", "w", newline="") as fh:
-        w = csv.writer(fh)
-        w.writerow(["rank", "symbol", "asof_month_traded_value"])
-        for i, s in enumerate(universe, 1):
-            w.writerow([i, s, round(turnover[s], 2)])
-    print(f"universe: top {len(universe)} of {len(ranked)} EQ symbols "
-          f"trading in {args.asof}, by that month's traded value",
-          file=sys.stderr)
-
-    keep = set(universe)
+    if args.rolling:
+        # ---- monthly point-in-time membership, trailing data only
+        months, m = [], args.start[:7]
+        while m <= args.end[:7]:
+            months.append(m)
+            m = next_month(m)
+        print(f"ranking {len(months)} months of turnover…",
+              file=sys.stderr)
+        ranks = month_turnover_ranks(dest, months)
+        memb = rolling_membership(ranks, args.rolling, args.end[:7],
+                                  enter=args.top, exit_=args.exit_rank)
+        keep = set().union(*(v["members"] for v in memb.values()))
+        with open(out / "_membership_long.csv", "w", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["month", "symbol"])
+            for month in sorted(memb):
+                for s in sorted(memb[month]["members"]):
+                    w.writerow([month, s])
+        entered = sum(len(v["entered"]) for v in list(memb.values())[1:])
+        left = sum(len(v["left"]) for v in memb.values())
+        first = memb[args.rolling]["members"]
+        trail = max(y for y in ranks if y < args.rolling)
+        with open(out / "constituents_asof.csv", "w", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["rank", "symbol", "trailing_month"])
+            for s in sorted(first, key=lambda x: ranks[trail].get(x, 0)):
+                w.writerow([ranks[trail].get(s, ""), s, trail])
+        universe = sorted(keep)
+        print(f"rolling membership {args.rolling} → {args.end[:7]}: "
+              f"{len(first)} at the start, {entered} admitted along the "
+              f"way, {left} dropped (exit past rank {args.exit_rank}); "
+              f"{len(keep)} symbols ever on the radar", file=sys.stderr)
+    else:
+        asof_days = sorted(p for p in dest.glob(f"{args.asof}-*.csv"))
+        if not asof_days:
+            sys.exit(f"no bhavcopies for as-of month {args.asof} in {dest}")
+        turnover: dict[str, float] = defaultdict(float)
+        for p in asof_days:
+            for r in csv.DictReader(open(p)):
+                turnover[r["symbol"]] += float(r["value"])
+        ranked = sorted(turnover, key=turnover.get, reverse=True)
+        universe = ranked[:args.top]
+        with open(out / "constituents_asof.csv", "w", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["rank", "symbol", "asof_month_traded_value"])
+            for i, s in enumerate(universe, 1):
+                w.writerow([i, s, round(turnover[s], 2)])
+        print(f"universe: top {len(universe)} of {len(ranked)} EQ "
+              f"symbols trading in {args.asof}, by that month's traded "
+              f"value", file=sys.stderr)
+        keep = set(universe)
     by_sym: dict[str, list[dict]] = defaultdict(list)
     for p in _load_days(dest, args.start, args.end):
         for r in csv.DictReader(open(p)):
@@ -272,12 +360,21 @@ def cmd_build(args) -> None:
                 b["volume"] = int(b["volume"] * ev["ratio"])
             adjustments.append({"symbol": sym, **ev})
 
-    with open(out / "_all_daily_long.csv", "w", newline="") as fh:
+    daily_path = out / "_all_daily_long.csv"
+    with open(daily_path, "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=[
             "symbol", "date", "open", "high", "low", "close", "volume"])
         w.writeheader()
         for sym in sorted(by_sym):
             w.writerows(by_sym[sym])
+    if daily_path.stat().st_size > 90_000_000:
+        import gzip
+        import shutil
+        with open(daily_path, "rb") as src, \
+                gzip.open(f"{daily_path}.gz", "wb") as dst:
+            shutil.copyfileobj(src, dst)
+        daily_path.unlink()
+        print("daily archive gzipped (over 90MB plain)", file=sys.stderr)
     with open(out / "_adjustments.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=[
             "symbol", "index", "date", "ratio", "implied", "volume_step", "level_hold"])
@@ -309,7 +406,13 @@ def main() -> None:
     d.add_argument("--sleep", type=float, default=0.25)
     d.add_argument("--workers", type=int, default=6)
     b = sub.add_parser("build")
-    b.add_argument("--asof", required=True, help="universe month YYYY-MM")
+    b.add_argument("--asof", default=None, help="universe month YYYY-MM "
+                   "(fixed-cohort mode)")
+    b.add_argument("--rolling", default=None, metavar="YYYY-MM",
+                   help="first SCREEN month — monthly PIT membership: "
+                   "top N by the trailing month's turnover, exit past "
+                   "--exit-rank, no lookahead")
+    b.add_argument("--exit-rank", type=int, default=EXIT_RANK)
     b.add_argument("--top", type=int, default=750)
     b.add_argument("--start", required=True)
     b.add_argument("--end", required=True)

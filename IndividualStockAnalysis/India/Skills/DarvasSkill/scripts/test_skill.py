@@ -1217,3 +1217,85 @@ def test_doubling_is_capped_at_three_per_position():
     # 3 doublings = 8× the original share count, and no more
     assert book["shares"] == pytest.approx(8 * book["lots"][0]["shares"])
     assert len(res["injections"]) == 3
+
+
+# ------------------------- rolling point-in-time membership (the radar)
+
+import pit_universe as PIT  # noqa: E402
+
+
+def test_membership_enters_at_rank_and_exits_only_past_hysteresis():
+    ranks = {
+        "2020-01": {"A": 1, "B": 2, "C": 5},
+        "2020-02": {"A": 1, "B": 4, "C": 2},   # B slips past enter, stays
+        "2020-03": {"A": 1, "B": 9, "C": 2},   # B past exit → leaves
+        "2020-04": {"A": 1, "B": 2, "C": 2},   # B earns re-entry
+    }
+    m = PIT.rolling_membership(ranks, "2020-02", "2020-05",
+                               enter=2, exit_=4)
+    assert m["2020-02"]["members"] == {"A", "B"}
+    # March judged on February: B ranked 4 — past enter(2) but within
+    # exit(4), so the incumbent STAYS (hysteresis, no flapping)
+    assert m["2020-03"]["members"] == {"A", "B", "C"}
+    # April judged on March: B ranked 9 — past exit → out
+    assert m["2020-04"]["members"] == {"A", "C"}
+    assert m["2020-04"]["left"] == {"B"}
+    # May judged on April: B back at rank 2 → re-enters
+    assert m["2020-05"]["members"] == {"A", "B", "C"}
+    assert m["2020-05"]["entered"] == {"B"}
+
+
+def test_membership_never_uses_the_month_being_decided():
+    # the month's OWN ranks must not matter — only trailing ones do
+    ranks = {"2020-01": {"A": 1}, "2020-02": {"Z": 1}}
+    m = PIT.rolling_membership(ranks, "2020-02", "2020-02",
+                               enter=1, exit_=2)
+    assert m["2020-02"]["members"] == {"A"}, \
+        "February must be decided by January's ranks, never February's"
+
+
+def test_a_symbol_that_stops_trading_drops_off_the_radar():
+    ranks = {"2020-01": {"A": 1, "B": 1},
+             "2020-02": {"A": 1}}              # B vanishes (suspended)
+    m = PIT.rolling_membership(ranks, "2020-02", "2020-03",
+                               enter=1, exit_=5)
+    assert "B" in m["2020-02"]["members"]
+    assert m["2020-03"]["members"] == {"A"}
+
+
+def test_membership_gates_fresh_entries_but_never_held_positions():
+    bars = _box_bars(CLIMB_3_BOXES)
+    bbb = _roll_bars("BBB", [50.0] * len(bars))
+    months = sorted({b["date"][:7] for b in bars})
+    # AAA is seeded, then drops OFF the radar after the first month;
+    # BBB is never a member at all
+    membership = {m: ({"AAA"} if i == 0 else set())
+                  for i, m in enumerate(months)}
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB":
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling({"AAA": bars, "BBB": bbb},
+                         [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=stub, slots=3,
+                         membership=membership)
+    # BBB's signal never fires — it was never on the radar
+    assert not [b for b in res["blotter"] if b[1] == "BBB"]
+    # AAA left the radar but the HELD position kept its full rhythm:
+    # ratchets continued and it is still held at the end
+    assert [b for b in res["blotter"] if "RAISE STOP" in b[2]]
+    assert [b["symbol"] for b in res["book"]] == ["AAA"]
+
+    # same world, BBB a member in month 2 → the signal trades
+    membership2 = {m: ({"AAA", "BBB"} if i <= 1 else set())
+                   for i, m in enumerate(months)}
+    res2 = RL.run_rolling({"AAA": bars, "BBB": bbb},
+                          [{"symbol": "AAA", "stop": 47.5}],
+                          "2026-01-02", bars[-1]["date"], 100.0,
+                          lambda s, d: True, screen=stub, slots=3,
+                          membership=membership2)
+    assert [b for b in res2["blotter"] if b[1] == "BBB" and "BUY" in b[2]]

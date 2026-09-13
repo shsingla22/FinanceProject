@@ -158,7 +158,8 @@ def plan_deployment(cash: float, slice_size: float,
 def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 start: str, through: str, capital: float,
                 earnings_ok, screen=None, slots: int | None = None,
-                frictions=None, pyramid: bool = False) -> dict:
+                frictions=None, pyramid: bool = False,
+                membership: dict | None = None) -> dict:
     """The portfolio day loop.
 
     seed rows: {"symbol", "stop"} — entered at `start`'s close, one
@@ -169,6 +170,12 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     fires the money simply stays in cash.
     earnings_ok(sym, day) -> bool blocks FALLING earnings power on NEW
     buys, judged from statements available on `day`.
+    `membership` (optional) is the rolling point-in-time radar:
+    {"YYYY-MM": set-of-symbols}. In a given month, only that month's
+    members can be SCREENED for fresh entries — new listings and
+    emerging names appear the month they earn their place, and nothing
+    later ever edits the past. Membership never touches a held
+    position: stops and ratchets run to the end regardless.
     `screen` defaults to screen_day (tests may inject one).
     `frictions` (an AngelOneFrictions, or None for the frictionless
     replay) charges every order and settles capital-gains tax out of
@@ -427,7 +434,11 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         cur_slice = slice_size * (eq / capital)
         signals = []
         if cash >= cur_slice * MIN_DEPLOY_FRACTION and d != through:
+            allowed = (None if membership is None
+                       else membership.get(d[:7], frozenset()))
             for sym, bars in bars_by.items():
+                if allowed is not None and sym not in allowed:
+                    continue             # not on this month's radar
                 if sym in positions:
                     continue
                 i = idx_by[sym].get(d)

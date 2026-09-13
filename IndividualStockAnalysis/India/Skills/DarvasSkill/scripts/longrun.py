@@ -93,10 +93,42 @@ def ensure_archive(start: dt.date, end: dt.date) -> Path:
     return adir
 
 
+def _daily_file(archive: Path) -> Path | None:
+    for name in ("_all_daily_long.csv", "_all_daily_long.csv.gz"):
+        if (archive / name).exists():
+            return archive / name
+    return None
+
+
 def load_bars(archive: Path) -> dict[str, list[dict]]:
-    by_date = WF._load_daily_csv(archive / "_all_daily_long.csv")
+    import gzip
+    path = _daily_file(archive)
+    fh = (gzip.open(path, "rt") if path.suffix == ".gz" else open(path))
+    by: dict[str, dict[str, dict]] = {}
+    with fh:
+        for r in csv.DictReader(fh):
+            by.setdefault(r["symbol"], {})[r["date"]] = {
+                "symbol": r["symbol"], "date": r["date"],
+                "open": float(r["open"]) if r["open"] else None,
+                "high": float(r["high"]) if r["high"] else None,
+                "low": float(r["low"]) if r["low"] else None,
+                "close": float(r["close"]),
+                "volume": int(r["volume"]) if r.get("volume") else 0}
     return {sym: [rows[d] for d in sorted(rows)]
-            for sym, rows in by_date.items()}
+            for sym, rows in by.items()}
+
+
+def load_membership(archive: Path) -> dict | None:
+    """The rolling radar, when the archive carries one:
+    {"YYYY-MM": set of that month's members}."""
+    p = archive / "_membership_long.csv"
+    if not p.exists():
+        return None
+    memb: dict[str, set] = {}
+    with open(p) as fh:
+        for r in csv.DictReader(fh):
+            memb.setdefault(r["month"], set()).add(r["symbol"])
+    return memb
 
 
 def fetch_nifty(start: dt.date, end: dt.date) -> list[tuple[str, float]]:
@@ -307,7 +339,20 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
          f"the conference-call read is excluded. Both engines pay Angel "
          f"One charges on every order and settle capital-gains tax "
          f"every 1 April in their net runs. "
-         + (f"**The universe is POINT-IN-TIME:** the top symbols by "
+         + (f"**The universe is POINT-IN-TIME with a ROLLING radar:** "
+            f"membership is recomputed EVERY MONTH as the top symbols "
+            f"by the TRAILING month's actual traded value from NSE's "
+            f"official bhavcopies, with hysteresis (leave only past "
+            f"rank 900) — companies that later died are IN while they "
+            f"traded, and new listings or emerging names ENTER the "
+            f"month they earn their place, so neither survivorship "
+            f"bias nor an emergence blind spot remains. Membership "
+            f"gates fresh entries only; a held position runs to its "
+            f"stop regardless (`_membership_long.csv`). Raw exchange "
+            f"data means heuristic split/bonus adjustment, every one "
+            f"listed in `_adjustments.csv`. "
+            if (archive / "_membership_long.csv").exists() else
+            f"**The universe is POINT-IN-TIME:** the top symbols by "
             f"actual traded value in the as-of month, from NSE's "
             f"official bhavcopies (`constituents_asof.csv`) — "
             f"companies that later died or delisted are IN, later "
@@ -562,13 +607,19 @@ def main() -> None:
                     help="last screen date (default: the archive's end)")
     ap.add_argument("--fetch-start", default=FETCH_START.isoformat(),
                     help="archive start date (default: 2019-06-01)")
+    ap.add_argument("--archive", default=None,
+                    help="explicit archive directory (overrides the "
+                         "date-derived path; implies no fetch)")
     args = ap.parse_args()
 
     fetch_start = dt.date.fromisoformat(args.fetch_start)
     end = (dt.date.fromisoformat(args.end) if args.end else dt.date.today())
-    archive = (BT.window_dir(fetch_start, end) if args.no_fetch
-               else ensure_archive(fetch_start, end))
-    if args.no_fetch and not (archive / "_all_daily_long.csv").exists():
+    if args.archive:
+        archive = Path(args.archive)
+    else:
+        archive = (BT.window_dir(fetch_start, end) if args.no_fetch
+                   else ensure_archive(fetch_start, end))
+    if args.no_fetch and not args.archive and _daily_file(archive) is None:
         cands = sorted((INDIA / "VolumeAndPricingBacktest").glob(
             f"{fetch_start}_to_*"))
         if not cands:
@@ -588,6 +639,10 @@ def main() -> None:
         through = max(d for d in dates if d <= args.screen_end)
     print(f"screens {args.screen_start} → {through}", file=sys.stderr)
 
+    membership = load_membership(archive)
+    if membership:
+        print(f"rolling membership loaded: {len(membership)} months",
+              file=sys.stderr)
     earnings_ok = make_earnings_ok()
     frs = {"plain": FR.AngelOneFrictions(), "pyr": FR.AngelOneFrictions()}
     runs = {}
@@ -598,7 +653,8 @@ def main() -> None:
         print(f"{key} replay…", file=sys.stderr)
         runs[key] = RL.run_rolling(bars_by, [], args.screen_start, through,
                                    args.capital, earnings_ok, slots=SLOTS,
-                                   frictions=fr, pyramid=pyramid)
+                                   frictions=fr, pyramid=pyramid,
+                                   membership=membership)
         r = runs[key]
         print(f"{key}: final ₹{r['final_equity']:,.2f}, injected "
               f"₹{r['total_injected']:,.2f}", file=sys.stderr)
