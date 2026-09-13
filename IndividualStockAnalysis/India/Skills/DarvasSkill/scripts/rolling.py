@@ -51,6 +51,7 @@ import backtest as BT        # noqa: E402
 import darvas as DV          # noqa: E402
 import earnings as EP        # noqa: E402
 import fetch_data as FD      # noqa: E402
+import frictions as FR       # noqa: E402
 import walkforward as WF     # noqa: E402
 
 INDIA = HERE.parent.parent.parent
@@ -139,7 +140,8 @@ def plan_deployment(cash: float, slice_size: float,
 
 def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 start: str, through: str, capital: float,
-                earnings_ok, screen=None, slots: int | None = None) -> dict:
+                earnings_ok, screen=None, slots: int | None = None,
+                frictions=None) -> dict:
     """The portfolio day loop.
 
     seed rows: {"symbol", "stop"} — entered at `start`'s close, one
@@ -151,9 +153,13 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     earnings_ok(sym, day) -> bool blocks FALLING earnings power on NEW
     buys, judged from statements available on `day`.
     `screen` defaults to screen_day (tests may inject one).
+    `frictions` (an AngelOneFrictions, or None for the frictionless
+    replay) charges every order and settles capital-gains tax out of
+    the portfolio on the first trading day of each April.
     Returns the blotter, the weekly equity curve and the final book."""
     probe = screen or screen_day
     denom = slots or len(seed)
+    next_tax = FR.next_april_first(start) if frictions else None
     all_dates = sorted({b["date"] for bars in bars_by.values()
                         for b in bars if start <= b["date"] <= through})
     idx_by = {sym: {b["date"]: i for i, b in enumerate(bars)}
@@ -191,11 +197,78 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     def open_position(sym, d, px, amt, stop, why):
         nonlocal cash
         cash -= amt
+        if frictions:
+            notional, charge = frictions.buy_split(amt, d)
+        else:
+            notional, charge = amt, 0.0
         positions[sym] = {"entry_date": d, "entry_px": px,
-                          "shares": amt / px, "stop": stop,
+                          "shares": notional / px, "stop": stop,
                           "cost": amt, "last_px": px, "ratchets": 0}
+        extra = f"; charges ₹{charge:,.4f}" if frictions else ""
         blotter.append((d, sym, f"BUY ₹{amt:,.2f} at ₹{px:,.2f} "
-                                f"({why}; stop ₹{stop:,.2f})"))
+                                f"({why}; stop ₹{stop:,.2f}{extra})"))
+
+    def close_position(sym, d, exit_px, reason):
+        nonlocal cash
+        p = positions[sym]
+        gross = p["shares"] * exit_px
+        if frictions:
+            proceeds, charge = frictions.sell_split(gross, d)
+            frictions.on_sale(p["entry_date"], d, p["entry_px"],
+                              exit_px, p["shares"])
+        else:
+            proceeds, charge = gross, 0.0
+        ret = (exit_px - p["entry_px"]) / p["entry_px"] * 100
+        cash += proceeds
+        closed.append({"symbol": sym, **p, "exit_date": d,
+                       "exit_px": exit_px, "proceeds": proceeds,
+                       "ret_pct": ret})
+        extra = f", charges ₹{charge:,.4f}" if frictions else ""
+        blotter.append((d, sym, f"SELL ₹{proceeds:,.2f} at {reason} "
+                                f"₹{exit_px:,.2f} ({ret:+.1f}%{extra}) — "
+                                f"the cash goes back to work at the next "
+                                f"Friday screen"))
+        del positions[sym]
+
+    def pay_tax(d):
+        """First trading day on/after 1 April: the fiscal year that
+        ended on 31 March settles, paid from cash — and if the cash is
+        short, positions are trimmed proportionally at today's prices
+        (those trims are next year's realised gains)."""
+        nonlocal cash, next_tax
+        fy = f"FY{int(next_tax[:4])}"
+        r = frictions.settle_fy(fy, d)
+        tax = r["tax"]
+        if tax > cash and positions:
+            total_val = sum(p["shares"] * ((bar_of(s, d) or
+                            {"close": p["last_px"]})["close"])
+                            for s, p in positions.items())
+            gross_needed = min((tax - cash) / (1 - frictions.sell_rate(d)),
+                               total_val)
+            frac = gross_needed / total_val if total_val else 0.0
+            for s in list(positions):
+                p = positions[s]
+                bar = bar_of(s, d)
+                px = (bar or {"close": p["last_px"]})["close"]
+                sold = p["shares"] * frac
+                gross = sold * px
+                proceeds, charge = frictions.sell_split(gross, d)
+                frictions.on_sale(p["entry_date"], d, p["entry_px"],
+                                  px, sold)
+                p["shares"] -= sold
+                p["cost"] *= (1 - frac)
+                cash += proceeds
+                blotter.append((d, s, f"TRIM {frac * 100:.1f}% "
+                                      f"(₹{proceeds:,.2f} at ₹{px:,.2f}) "
+                                      f"to pay the tax bill"))
+        paid = min(tax, cash)
+        cash -= paid
+        blotter.append((d, "TAX", f"{fy} settled: ₹{paid:,.4f} paid "
+                        f"(STCG ₹{r['st_taxable']:,.2f} @20%, LTCG "
+                        f"₹{r['lt_taxable']:,.2f} @12.5%; losses carried "
+                        f"forward ST ₹{r['cf_st']:,.2f} / LT "
+                        f"₹{r['cf_lt']:,.2f})"))
+        next_tax = FR.next_april_first(d)
 
     # ---- the seed book: same day, same prices as the frozen replay
     for row in seed:
@@ -207,6 +280,10 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                       row["stop"], "seed — the as-of book, one slice")
 
     for d in all_dates:
+        # 0. tax day: the fiscal year that ended 31 March settles
+        if frictions and d >= next_tax:
+            pay_tax(d)
+
         # 1. pending Friday signals execute at TODAY'S OPEN
         still_pending = []
         for sig in pending:
@@ -238,18 +315,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             p["last_px"] = bar["close"]
             if p["entry_date"] != d and bar["low"] is not None \
                     and bar["low"] <= p["stop"]:
-                proceeds = p["shares"] * p["stop"]
-                ret = (p["stop"] - p["entry_px"]) / p["entry_px"] * 100
-                cash += proceeds
-                closed.append({"symbol": sym, **p, "exit_date": d,
-                               "exit_px": p["stop"], "proceeds": proceeds,
-                               "ret_pct": ret})
-                blotter.append((d, sym,
-                                f"SELL ₹{proceeds:,.2f} at stop "
-                                f"₹{p['stop']:,.2f} ({ret:+.1f}%) — the "
-                                f"cash goes back to work at the next "
-                                f"Friday screen"))
-                del positions[sym]
+                close_position(sym, d, p["stop"], "stop")
 
         if d not in week_ends:
             continue

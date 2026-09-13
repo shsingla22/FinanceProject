@@ -951,3 +951,126 @@ def test_genesis_mode_deploys_equal_slices_from_the_first_screen():
     assert all("BUY ₹10.00" in b[2] for b in buys)
     assert res["cash"] == pytest.approx(80.0)
     assert all(w["cash"] >= 0 for w in res["equity_curve"])
+
+
+# --------------------------------- real-world frictions (frictions.py)
+
+import frictions as FR      # noqa: E402
+
+
+def test_angel_one_rates_switch_on_the_brokerage_date():
+    f = FR.AngelOneFrictions()
+    # before 1 Nov 2024: delivery brokerage was zero
+    pre_buy = f.buy_rate("2022-05-02")
+    assert pre_buy == pytest.approx(
+        0.0010 + 0.0000297 + 0.000001 + 0.00015
+        + 0.18 * (0.0000297 + 0.000001))
+    # after: 0.1% brokerage plus 18% GST on it joins every order
+    post_buy = f.buy_rate("2025-05-02")
+    assert post_buy == pytest.approx(pre_buy + 0.0010 * 1.18)
+    # sells carry no stamp duty
+    assert f.sell_rate("2022-05-02") == pytest.approx(
+        pre_buy - 0.00015)
+
+
+def test_buy_split_conserves_cash_to_the_paisa():
+    f = FR.AngelOneFrictions()
+    notional, cost = f.buy_split(100.0, "2025-05-02")
+    assert notional + cost == pytest.approx(100.0)
+    assert cost == pytest.approx(100.0 - 100.0 / (1 + f.buy_rate("2025-05-02")))
+    assert f.total_costs == pytest.approx(cost)
+
+
+def test_set_off_short_loss_absorbs_long_gain_but_never_the_reverse():
+    # ST loss 40 eats into LT gain 100 → LT taxable 60, no ST tax
+    r = FR.offset_and_tax(-40.0, 100.0, 0.0, 0.0)
+    assert r["tax"] == pytest.approx(0.125 * 60.0)
+    assert r["cf_st"] == 0.0 and r["cf_lt"] == 0.0
+    # LT loss NEVER offsets an ST gain — it only carries forward
+    r = FR.offset_and_tax(100.0, -40.0, 0.0, 0.0)
+    assert r["tax"] == pytest.approx(0.20 * 100.0)
+    assert r["cf_lt"] == pytest.approx(40.0)
+
+
+def test_carried_losses_absorb_later_years_gains():
+    r = FR.offset_and_tax(50.0, 20.0, 30.0, 10.0)
+    # b/f ST loss 30 eats ST gain to 20; b/f LT loss 10 eats LT to 10
+    assert r["tax"] == pytest.approx(0.20 * 20.0 + 0.125 * 10.0)
+    assert r["cf_st"] == 0.0 and r["cf_lt"] == 0.0
+
+
+def test_holding_over_a_year_is_long_term():
+    f = FR.AngelOneFrictions()
+    f.on_sale("2020-06-08", "2021-06-08", 100.0, 150.0, 1.0)   # 365 d: ST
+    f.on_sale("2020-06-08", "2021-06-09", 100.0, 150.0, 1.0)   # 366 d: LT
+    assert f.st_by_fy[FR.fy_label("2021-06-08")] == pytest.approx(50.0)
+    assert f.lt_by_fy[FR.fy_label("2021-06-09")] == pytest.approx(50.0)
+
+
+def test_rolling_with_frictions_charges_orders_and_settles_april_tax():
+    # AAA is bought at 100, stopped at 95 in January — a realised loss;
+    # BBB is bought at 50 and rides to 80 — unrealised, untaxed.
+    aaa = _roll_bars("AAA", [100.0] * 6 + [98.0, 94.0] + [93.0] * 60)
+    bbb = _roll_bars("BBB", [50.0] * 8 + [80.0] * 60)
+    # extend both series past 1 April so the tax day arrives
+    for sym, bars in (("AAA", aaa), ("BBB", bbb)):
+        d = dt.date.fromisoformat(bars[-1]["date"])
+        while d < dt.date(2026, 4, 10):
+            d += dt.timedelta(days=1)
+            if d.weekday() < 5:
+                c = bars[-1]["close"]
+                bars.append({"symbol": sym, "date": d.isoformat(),
+                             "open": c, "high": c + 0.5, "low": c - 0.5,
+                             "close": c, "volume": 100_000})
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB" \
+                and day.isoformat() == "2026-01-16":
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    f = FR.AngelOneFrictions()
+    res = RL.run_rolling({"AAA": aaa, "BBB": bbb},
+                         [{"symbol": "AAA", "stop": 95.0}],
+                         "2026-01-02", aaa[-1]["date"], 100.0,
+                         lambda s, d: True, screen=stub, slots=None,
+                         frictions=f)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in sorted(res["blotter"]))
+    # every order carries its charges
+    assert "charges ₹" in text
+    # the AAA loss is short-term and carries forward — no tax due
+    tax_lines = [b for b in res["blotter"] if b[1] == "TAX"]
+    assert len(tax_lines) == 1 and "FY2026 settled: ₹0.0000" in tax_lines[0][2]
+    assert f.cf_st > 0 and f.total_tax == 0.0
+    # charges genuinely shrank the position: fewer than 1 share of AAA
+    aaa_trade = [c for c in res["closed"] if c["symbol"] == "AAA"][0]
+    assert aaa_trade["shares"] < 1.0
+    # and the books still balance to the paisa
+    assert res["final_equity"] == pytest.approx(
+        res["cash"] + sum(b["value"] for b in res["book"]))
+    assert all(w["cash"] >= -1e-9 for w in res["equity_curve"])
+
+
+def test_rolling_with_frictions_taxes_a_short_term_gain_at_20pct():
+    # AAA bought at 100 (seed), ratchet-free, stopped at 130 in March
+    # via a spike through a raised... simpler: stop set above entry by
+    # the seed row, price falls to it after a run-up
+    aaa = _roll_bars("AAA", [100.0] * 5 + [140.0] * 30 + [129.0] * 20)
+    d = dt.date.fromisoformat(aaa[-1]["date"])
+    while d < dt.date(2026, 4, 10):
+        d += dt.timedelta(days=1)
+        if d.weekday() < 5:
+            aaa.append({"symbol": "AAA", "date": d.isoformat(),
+                        "open": 129.0, "high": 129.5, "low": 128.5,
+                        "close": 129.0, "volume": 100_000})
+    f = FR.AngelOneFrictions()
+    res = RL.run_rolling({"AAA": aaa}, [{"symbol": "AAA", "stop": 130.0}],
+                         "2026-01-02", aaa[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         frictions=f)
+    assert len(res["closed"]) == 1
+    gain = (130.0 - 100.0) * res["closed"][0]["shares"]
+    assert f.total_tax == pytest.approx(0.20 * gain)
+    tax_lines = [b for b in res["blotter"] if b[1] == "TAX"]
+    assert len(tax_lines) == 1
