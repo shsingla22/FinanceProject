@@ -67,14 +67,20 @@ license: internal
    an upward break and is holding it = ACCUMULATE. Inside a box with no
    break yet = WATCH, with the exact buy-above price. A close below the
    box bottom = SELL — the red flag; a stock dropping to a lower box is
-   sold, never averaged. **Pyramiding:** once invested, on every 2nd
-   consecutive box jump upward (box 1 → 2 → 3 without the stop being
-   hit) the stake is DOUBLED — new capital equal to the position's
-   current market value goes in at the next day's open (₹10 that has
-   grown to ₹13 gets ₹13 more), funded from cash only, partial when
-   cash runs short, never borrowed. Each add-on is its own tax lot with
-   its own holding clock, and the ratcheted stop covers the whole
-   enlarged position.
+   sold, never averaged. **Pyramiding (the doubling engine, optional):**
+   once invested, on EVERY box jump upward without the stop being hit,
+   the stake is DOUBLED with NEW EXTERNAL capital equal to the
+   position's current market value, at the next day's open (₹10 that
+   has grown to ₹13 gets ₹13 more of fresh money). The new money never
+   touches the portfolio's cash — entries into new stocks use only the
+   original capital and sale proceeds, each first entry capped at one
+   tenth of total capital — so doubling can never starve fresh
+   signals. Every injection is dated and logged, and performance is
+   judged by the money-weighted XIRR, never a naive multiple. Each
+   add-on is its own tax lot with its own holding clock, and the
+   ratcheted stop covers the whole enlarged position. The engine
+   WITHOUT doubling is kept alongside, and the long-run report shows
+   both.
 
 5. **Stop losses, the grace, and the rhythm.** stop = box bottom −
    max(0.3 × box height, **5% of the bottom**): the stock's own range
@@ -105,7 +111,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 77 tests
+python3 -m pytest scripts/test_skill.py -q     # 82 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -200,8 +206,10 @@ Two limits it states rather than hides: today's constituent list is
 used throughout (survivorship bias) and Yahoo serves split-adjusted
 history as it stands today.
 
-The long run is simulated TWICE — once frictionless and once NET of
-the real world (`scripts/frictions.py`): Angel One equity-delivery
+The long run is simulated FOUR ways — both engines (A: no doubling;
+B: doubling on every box jump with new external capital, XIRR as the
+yardstick), each frictionless and NET of the real world
+(`scripts/frictions.py`): Angel One equity-delivery
 charges on every order (STT 0.10% both sides, exchange and SEBI
 levies, GST, stamp duty on buys, delivery brokerage ₹0 until 31 Oct
 2024 then 0.1%) and capital-gains tax settled out of the portfolio on

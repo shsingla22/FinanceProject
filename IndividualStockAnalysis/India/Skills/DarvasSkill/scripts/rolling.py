@@ -141,7 +141,7 @@ def plan_deployment(cash: float, slice_size: float,
 def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 start: str, through: str, capital: float,
                 earnings_ok, screen=None, slots: int | None = None,
-                frictions=None) -> dict:
+                frictions=None, pyramid: bool = False) -> dict:
     """The portfolio day loop.
 
     seed rows: {"symbol", "stop"} — entered at `start`'s close, one
@@ -156,7 +156,17 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     `frictions` (an AngelOneFrictions, or None for the frictionless
     replay) charges every order and settles capital-gains tax out of
     the portfolio on the first trading day of each April.
-    Returns the blotter, the weekly equity curve and the final book."""
+    `pyramid` turns on the doubling engine: on EVERY box jump upward
+    (a weekly stop ratchet) the stake is doubled with NEW EXTERNAL
+    capital — money added from outside at the next day's open, equal
+    to the position's market value. It never touches the portfolio's
+    cash, so it cannot starve fresh entries; every injection is logged
+    (date, amount) so the caller can compute a money-weighted return
+    (XIRR). Entries into NEW stocks always use only the original
+    capital and sale proceeds, capped at one slice (equity ÷ slots —
+    10% of total capital with the default 10 slots).
+    Returns the blotter, the weekly equity curve, the final book and
+    the injection ledger."""
     probe = screen or screen_day
     denom = slots or len(seed)
     next_tax = FR.next_april_first(start) if frictions else None
@@ -179,6 +189,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     positions: dict[str, dict] = {}
     pending: list[dict] = []
     pending_pyramids: list[str] = []
+    injections: list[tuple[str, float]] = []
     blotter: list[tuple] = []
     equity_curve: list[dict] = []
     closed: list[dict] = []
@@ -212,12 +223,12 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                                 f"({why}; stop ₹{stop:,.2f}{extra})"))
 
     def add_to_position(sym, d, px, amt, why):
-        """The pyramid add-on: a NEW LOT with its own date and price —
-        the tax clock runs per lot. The blended entry price is kept for
-        the blotter and the return line."""
-        nonlocal cash
+        """The pyramid add-on: NEW EXTERNAL capital — the portfolio's
+        cash is never touched, the injection is logged for the XIRR —
+        as a NEW LOT with its own date, price and tax clock. The
+        blended entry price is kept for the blotter and returns."""
         p = positions[sym]
-        cash -= amt
+        injections.append((d, amt))
         if frictions:
             notional, charge = frictions.buy_split(amt, d)
         else:
@@ -312,9 +323,10 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             pay_tax(d)
 
         # 1a. pyramid add-ons execute at TODAY'S OPEN — the doubling
-        # rule: every 2nd consecutive box jump doubles the stake, so
-        # the add-on equals the position's market value right now, new
-        # capital from cash, winners served before fresh signals
+        # rule: EVERY box jump doubles the stake with NEW EXTERNAL
+        # capital equal to the position's market value right now; the
+        # portfolio's own cash is never touched, so fresh entries are
+        # never starved
         still_pyr = []
         for sym in pending_pyramids:
             if sym not in positions:
@@ -325,16 +337,9 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 continue
             px = bar["open"] or bar["close"]
             value = positions[sym]["shares"] * px
-            amt = min(value, cash)
-            if amt <= 0 or amt < value * 0.01:
-                blotter.append((d, sym, "PYRAMID NOT FUNDED — no cash "
-                                        "to double the stake"))
-                continue
-            note = "2nd consecutive box jump — doubling the stake"
-            if amt < value - 1e-9:
-                note += (f" (partial: cash covered ₹{amt:,.2f} of "
-                         f"₹{value:,.2f})")
-            add_to_position(sym, d, px, amt, note)
+            add_to_position(sym, d, px, value,
+                            "box jump — doubling the stake with NEW "
+                            "capital")
         pending_pyramids = still_pyr
 
         # 1. pending Friday signals execute at TODAY'S OPEN
@@ -390,7 +395,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                                     f"₹{st['current']['top']:,.2f} sealed)"))
                     p["stop"] = cand
                     p["ratchets"] += 1
-                    if p["ratchets"] % 2 == 0:   # every 2nd jump in a row
+                    if pyramid:                  # every box jump doubles
                         pending_pyramids.append(sym)
 
         eq = equity(d)
@@ -426,7 +431,9 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         equity_curve.append({"date": d, "equity": round(eq, 2),
                              "cash": round(cash, 2),
                              "positions": len(positions),
-                             "queued": len(pending)})
+                             "queued": len(pending),
+                             "injected": round(sum(a for _, a
+                                                   in injections), 2)})
 
     last = all_dates[-1]
     book = []
@@ -438,6 +445,8 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                      "ret_pct": (px - p["entry_px"]) / p["entry_px"] * 100})
     return {"blotter": blotter, "equity_curve": equity_curve,
             "cash": cash, "book": book, "closed": closed,
+            "injections": injections,
+            "total_injected": sum(a for _, a in injections),
             "final_equity": cash + sum(b["value"] for b in book)}
 
 
