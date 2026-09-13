@@ -767,3 +767,13 @@ def test_full_qualifiers_requires_all_three_gates():
     out = DV.full_qualifiers(scan, {"T": daily})
     assert len(out) == 1
     assert out[0]["fully_qualifies"] is False
+
+
+def test_only_a_genuine_in_box_watch_is_a_buy_instruction():
+    in_box = _wf_bars(BOX_5055 * 3)
+    assert WF.genuine_watch_buy_above(
+        in_box, in_box[-1]["date"]) == pytest.approx(55.0)
+    broken_out = _wf_bars(BOX_5055 * 3 + [(58, 54, 57)])
+    assert WF.genuine_watch_buy_above(
+        broken_out, broken_out[-1]["date"]) is None, \
+        "a downgraded BREAKOUT's stale box top must never become a trigger"

@@ -137,6 +137,20 @@ def _closed(entry, exit_px, date, reason, stop, events):
             "ret_pct": (exit_px - entry) / entry * 100}
 
 
+def genuine_watch_buy_above(bars: list[dict], asof: str) -> float | None:
+    """A WATCH row is a buy-above instruction ONLY when the stock was
+    genuinely inside its box at the as-of date. A WATCH that came from a
+    downgrade (falling earnings) or from the breakdown grace is advice
+    NOT to buy — its box top is stale, and treating it as a trigger
+    chases gaps (SUPRIYA entered 44% above a long-broken top in the
+    first May replay; that trade should never have existed)."""
+    upto = [x for x in bars if x["date"] <= asof]
+    st = DV.find_boxes(upto[-BOX_LOOKBACK_BARS:])
+    if st["state"] == "IN_BOX" and st["current"] is not None:
+        return st["current"]["top"]
+    return None
+
+
 def watch_entry(bars: list[dict], after: str, buy_above: float,
                 through: str) -> dict | None:
     """The WATCH instruction: enter on the first daily CLOSE above the
@@ -265,16 +279,23 @@ def main() -> None:
                             f"{args.asof}; initial stop ₹{stop0:,.2f})"))
             _blot(blotter, sym, C)
         elif p["action"] == "WATCH" and p["box_top"]:
-            hit = watch_entry(bars, asof_bar["date"],
-                              float(p["box_top"]), through)
+            top = genuine_watch_buy_above(bars, args.asof)
+            if top is None:
+                watch_rows.append({"sym": sym, "triggered": False,
+                                   "buy_above": float(p["box_top"]),
+                                   "skipped": "not a buy instruction — the "
+                                   "WATCH came from a downgrade or the "
+                                   "breakdown grace, not from a box"})
+                continue
+            hit = watch_entry(bars, asof_bar["date"], top, through)
             if hit is None:
                 watch_rows.append({"sym": sym, "triggered": False,
-                                   "buy_above": float(p["box_top"])})
+                                   "buy_above": top})
                 continue
             C = simulate_position(bars, hit["date"], hit["px"], stop0,
                                   through)
             watch_rows.append({"sym": sym, "triggered": True,
-                               "buy_above": float(p["box_top"]),
+                               "buy_above": top,
                                "entry_date": hit["date"],
                                "entry_px": hit["px"], "stop0": stop0,
                                "C": C})
@@ -356,6 +377,11 @@ def _append_report(report, args, through, core, watch_rows, blotter):
                  f"**{w['C']['ret_pct']:+.1f}%** | "
                  f"{len(w['C']['events'])} | {w['C']['reason']}, "
                  f"{w['C']['exit_date']} |")
+    skipped = [w for w in watch_rows if w.get("skipped")]
+    if skipped:
+        A += ["", "Not traded — their WATCH was a downgrade or the "
+              "breakdown grace, not a buy instruction: "
+              + ", ".join(w["sym"] for w in skipped) + ".", ""]
     if trig:
         A += ["", f"**Average over the {len(trig)} triggered WATCH "
                   f"trades: {st.mean(w['C']['ret_pct'] for w in trig):+.1f}%**"
