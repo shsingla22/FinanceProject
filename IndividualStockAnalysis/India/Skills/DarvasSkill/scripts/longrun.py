@@ -74,17 +74,17 @@ _MONTHS = {m: i + 1 for i, m in enumerate(
 
 # ------------------------------------------------------------------ data
 
-def ensure_archive(end: dt.date) -> Path:
+def ensure_archive(start: dt.date, end: dt.date) -> Path:
     """The continuous window archive, fetched once and reused."""
-    adir = BT.window_dir(FETCH_START, end)
+    adir = BT.window_dir(start, end)
     if (adir / "_all_daily_long.csv").exists():
         print(f"archive reused: {adir}", file=sys.stderr)
         return adir
-    print(f"fetching {FETCH_START} → {end} for the whole universe "
+    print(f"fetching {start} → {end} for the whole universe "
           f"into {adir} …", file=sys.stderr)
     old_dir, old_url = FD.OUT_DIR, FD._yahoo_url
     FD.OUT_DIR = adir
-    FD._yahoo_url = lambda sym: BT.window_url(sym, FETCH_START, end)
+    FD._yahoo_url = lambda sym: BT.window_url(sym, start, end)
     try:
         summary = FD.fetch_universe()
         print(json.dumps(summary), file=sys.stderr)
@@ -291,7 +291,7 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
               or b[1] == "TAX" or b[2].startswith("TRIM")]
 
     runway_days = (dt.date.fromisoformat(args.screen_start)
-                   - FETCH_START).days
+                   - dt.date.fromisoformat(args.fetch_start)).days
     runway_note = ("" if runway_days >= 360 else
                    f" The earliest screens run on ~{runway_days // 30} "
                    f"months of history instead of a full year — every "
@@ -300,7 +300,7 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
                    f"shorter norm at first.")
     A = [f"# The Darvas screen — {args.screen_start} → {through}", "",
          f"> **LONG-RUN BACKTEST, TWO ENGINES.** One continuous price "
-         f"archive ({FETCH_START} → {through}, {n_syms} symbols, in "
+         f"archive ({args.fetch_start} → {through}, {n_syms} symbols, in "
          f"`{archive.name}/`); every Friday screen sees only bars up to "
          f"its own Friday; the earnings gate reads only fiscal years "
          f"ended on or before the last 31 March at each screen date; "
@@ -540,14 +540,17 @@ def main() -> None:
                     help="first screen date (default: 2020-06-01)")
     ap.add_argument("--screen-end", default=None,
                     help="last screen date (default: the archive's end)")
+    ap.add_argument("--fetch-start", default=FETCH_START.isoformat(),
+                    help="archive start date (default: 2019-06-01)")
     args = ap.parse_args()
 
+    fetch_start = dt.date.fromisoformat(args.fetch_start)
     end = (dt.date.fromisoformat(args.end) if args.end else dt.date.today())
-    archive = (BT.window_dir(FETCH_START, end) if args.no_fetch
-               else ensure_archive(end))
+    archive = (BT.window_dir(fetch_start, end) if args.no_fetch
+               else ensure_archive(fetch_start, end))
     if args.no_fetch and not (archive / "_all_daily_long.csv").exists():
         cands = sorted((INDIA / "VolumeAndPricingBacktest").glob(
-            f"{FETCH_START}_to_*"))
+            f"{fetch_start}_to_*"))
         if not cands:
             sys.exit("no archive found and --no-fetch given")
         archive = cands[-1]
