@@ -837,7 +837,7 @@ def test_rolling_redeploys_stop_out_cash_into_the_next_fresh_signal():
 
     res = RL.run_rolling(bars_by, [{"symbol": "AAA", "stop": 95.0}],
                          "2026-01-02", bars_by["AAA"][-1]["date"],
-                         100.0, lambda s: True, screen=stub)
+                         100.0, lambda s, d: True, screen=stub)
     text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
     # the seed took the whole slice, the stop freed ₹95 …
     assert "AAA BUY ₹100.00 at ₹100.00" in text
@@ -858,7 +858,7 @@ def test_rolling_never_rebuys_a_stopout_without_a_fresh_screen_pass():
     bars_by = _rolling_world()
     res = RL.run_rolling(bars_by, [{"symbol": "AAA", "stop": 95.0}],
                          "2026-01-02", bars_by["AAA"][-1]["date"],
-                         100.0, lambda s: True, screen=lambda b, d: None)
+                         100.0, lambda s, d: True, screen=lambda b, d: None)
     buys = [b for b in res["blotter"] if "BUY" in b[2]]
     assert len(buys) == 1, "no screen pass, no re-entry — the cash waits"
     assert res["final_equity"] == pytest.approx(95.0)
@@ -877,7 +877,7 @@ def test_rolling_refuses_fresh_signals_on_falling_earnings():
 
     res = RL.run_rolling(bars_by, [{"symbol": "AAA", "stop": 95.0}],
                          "2026-01-02", bars_by["AAA"][-1]["date"],
-                         100.0, lambda s: s != "BBB", screen=stub)
+                         100.0, lambda s, d: s != "BBB", screen=stub)
     text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
     assert "BBB fresh signal REFUSED — falling earnings power" in text
     assert not [b for b in res["blotter"] if b[1] == "BBB" and "BUY" in b[2]]
@@ -890,8 +890,64 @@ def test_rolling_seed_book_gets_equal_slices():
                          [{"symbol": "AAA", "stop": 90.0},
                           {"symbol": "BBB", "stop": 45.0}],
                          "2026-01-02", aaa[-1]["date"],
-                         100.0, lambda s: True, screen=lambda b, d: None)
+                         100.0, lambda s, d: True, screen=lambda b, d: None)
     seeds = [b for b in res["blotter"] if "seed" in b[2]]
     assert len(seeds) == 2
     assert all("₹50.00" in b[2] for b in seeds)
     assert res["final_equity"] == pytest.approx(100.0)
+
+
+# ------------------------------------------- the six-year run (longrun.py)
+
+import longrun as LR        # noqa: E402
+
+
+def test_fy_end_dates_parse_by_real_calendar():
+    assert LR.fy_end_date("Mar 2020") == dt.date(2020, 3, 31)
+    assert LR.fy_end_date("Jun 2020") == dt.date(2020, 6, 30)
+    assert LR.fy_end_date("Dec 2019") == dt.date(2019, 12, 31)
+    assert LR.fy_end_date("TTM") is None
+
+
+def test_a_june_fiscal_year_never_leaks_into_a_june_screen():
+    # at a screen in June 2020 the cut is "Mar 2020" (2020-03-31):
+    # a 'Jun 2020' year ends 2020-06-30 — AFTER the cut — and must be
+    # excluded even though naive label sorting would let it through
+    cut = LR.fy_end_date("Mar 2020")
+    assert LR.fy_end_date("Jun 2020") > cut
+    assert LR.fy_end_date("Dec 2019") <= cut
+    assert LR.fy_end_date("Mar 2020") <= cut
+
+
+def test_genesis_mode_starts_all_cash_and_stays_cash_without_signals():
+    aaa = _roll_bars("AAA", [100.0] * 40)
+    res = RL.run_rolling({"AAA": aaa}, [], "2026-01-02",
+                         aaa[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=10)
+    assert res["final_equity"] == pytest.approx(100.0)
+    assert res["cash"] == pytest.approx(100.0)
+    assert not res["book"] and not res["closed"]
+    assert all(w["positions"] == 0 for w in res["equity_curve"])
+
+
+def test_genesis_mode_deploys_equal_slices_from_the_first_screen():
+    aaa = _roll_bars("AAA", [100.0] * 40)
+    bbb = _roll_bars("BBB", [50.0] * 40)
+
+    def stub(bars_upto, day):
+        if day.isoformat() == "2026-01-09":
+            return {"action": "BUY",
+                    "stop": bars_upto[-1]["close"] * 0.9,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling({"AAA": aaa, "BBB": bbb}, [], "2026-01-02",
+                         aaa[-1]["date"], 100.0,
+                         lambda s, d: True, screen=stub, slots=10)
+    buys = [b for b in res["blotter"] if "BUY ₹" in b[2]]
+    # both signals funded on the next trading day, one tenth each
+    assert len(buys) == 2 and all(b[0] == "2026-01-12" for b in buys)
+    assert all("BUY ₹10.00" in b[2] for b in buys)
+    assert res["cash"] == pytest.approx(80.0)
+    assert all(w["cash"] >= 0 for w in res["equity_curve"])

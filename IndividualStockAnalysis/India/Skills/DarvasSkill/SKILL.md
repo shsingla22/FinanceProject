@@ -98,7 +98,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 66 tests
+python3 -m pytest scripts/test_skill.py -q     # 70 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -169,6 +169,29 @@ lookahead: every screen sees only bars up to its own Friday, statements
 stay cut at the as-of fiscal year. Appends the complete dated blotter,
 the weekly equity curve, closed trades, the end book and the ₹100
 outcome to the backtest report.
+
+### The six-year long run — from nothing but cash
+
+```bash
+python3 scripts/longrun.py                 # fetch the window + replay
+python3 scripts/longrun.py --no-fetch      # reuse the stored archive
+```
+
+June 2020 → the present under the same rules, with NO seed book: ₹100
+starts all in cash, the first Friday screen builds the portfolio from
+nothing (equal slices of one tenth of equity), and when nothing
+qualifies the money simply stays in cash. One continuous price archive
+(June 2019 onward — the first screen already has its year of baseline)
+is fetched once, so there are no seams; the earnings cut ROLLS forward
+year by year (only fiscal years ended on or before the last 31 March
+at each screen date, non-March year-ends compared by real date). The
+report is standalone — `DARVAS_BACKTEST_LONGRUN_<tag>.md` — with the
+complete trade blotter, monthly equity curve, calendar-year returns
+against the Nifty 50, drawdown, trade statistics and **CAGR**, plus
+every event (ratchets, refusals, unfunded signals) in a companion CSV.
+Two limits it states rather than hides: today's constituent list is
+used throughout (survivorship bias) and Yahoo serves split-adjusted
+history as it stands today.
 
 ## Data and outputs
 

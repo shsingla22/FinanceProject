@@ -139,15 +139,21 @@ def plan_deployment(cash: float, slice_size: float,
 
 def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 start: str, through: str, capital: float,
-                earnings_ok, screen=None) -> dict:
+                earnings_ok, screen=None, slots: int | None = None) -> dict:
     """The portfolio day loop.
 
     seed rows: {"symbol", "stop"} — entered at `start`'s close, one
     equal slice of `capital` each (the frozen replay's exact book).
-    earnings_ok(sym) -> bool blocks FALLING earnings power on NEW buys.
+    With an EMPTY seed the portfolio starts all in cash and `slots`
+    sets the slice (equity ÷ slots) — the genesis mode: the first
+    Friday screen builds the book from nothing, and until a signal
+    fires the money simply stays in cash.
+    earnings_ok(sym, day) -> bool blocks FALLING earnings power on NEW
+    buys, judged from statements available on `day`.
     `screen` defaults to screen_day (tests may inject one).
     Returns the blotter, the weekly equity curve and the final book."""
     probe = screen or screen_day
+    denom = slots or len(seed)
     all_dates = sorted({b["date"] for bars in bars_by.values()
                         for b in bars if start <= b["date"] <= through})
     idx_by = {sym: {b["date"]: i for i, b in enumerate(bars)}
@@ -162,7 +168,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             if a != b:
                 week_ends.add(d)
 
-    slice_size = capital / len(seed)
+    slice_size = capital / denom
     cash = capital
     positions: dict[str, dict] = {}
     pending: list[dict] = []
@@ -279,7 +285,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 hit = probe(bars[:i + 1], day)
                 if hit is None:
                     continue
-                if not earnings_ok(sym):
+                if not earnings_ok(sym, day):
                     blotter.append((d, sym, "fresh signal REFUSED — "
                                             "falling earnings power"))
                     continue
@@ -351,7 +357,7 @@ def main() -> None:
     EP._PL_CACHE["df"] = df[df.year.isin(keep)]
     _memo: dict = {}
 
-    def earnings_ok(sym: str) -> bool:
+    def earnings_ok(sym: str, day) -> bool:
         if sym not in _memo:
             _memo[sym] = EP.earnings_power(sym)["verdict"] != "FALLING"
         return _memo[sym]
