@@ -58,6 +58,8 @@ INDIA = HERE.parent.parent.parent
 OUT_DIR = INDIA / "Analysis" / "NiftyTotalMarketAnalysis" / "DarvasAnalysis"
 
 MIN_DEPLOY_FRACTION = 0.5    # never open a position below half a slice
+MAX_DOUBLINGS = 3            # a position doubles at most 3 times (8×) —
+                             # the cap that keeps the rule fundable
 LOOKBACK = WF.BOX_LOOKBACK_BARS
 
 
@@ -231,6 +233,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         positions[sym] = {"entry_date": d, "entry_px": px,
                           "shares": notional / px, "stop": stop,
                           "cost": amt, "last_px": px, "ratchets": 0,
+                          "doubles": 0,
                           "lots": [{"date": d, "px": px,
                                     "shares": notional / px}]}
         extra = f"; charges {inr(charge)}" if frictions else ""
@@ -410,8 +413,15 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                                     f"₹{st['current']['top']:,.2f} sealed)"))
                     p["stop"] = cand
                     p["ratchets"] += 1
-                    if pyramid:                  # every box jump doubles
-                        pending_pyramids.append(sym)
+                    if pyramid:      # every box jump doubles — 3× max
+                        if p["doubles"] < MAX_DOUBLINGS:
+                            p["doubles"] += 1
+                            pending_pyramids.append(sym)
+                        else:
+                            blotter.append(
+                                (d, sym, f"box jump NOT doubled — the "
+                                         f"{MAX_DOUBLINGS}-doubling cap "
+                                         f"is already used"))
 
         eq = equity(d)
         cur_slice = slice_size * (eq / capital)

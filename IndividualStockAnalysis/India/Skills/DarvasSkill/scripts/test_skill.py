@@ -1189,3 +1189,31 @@ def test_inr_formats_in_lakhs_and_crores_when_the_numbers_grow():
     assert RL.inr(3.2e12) == "₹3.20 lakh crore"
     assert RL.inr(8.4e21) == "₹840.00 lakh crore crore"
     assert RL.inr(-150_000) == "-₹1.50 lakh"
+
+
+CLIMB_5_BOXES = (
+    CLIMB_3_BOXES[:-10]                                  # boxes 1-3 sealed
+    + [(73, 68, 72), (77, 71, 75)]                       # jump to box 4
+    + [(76, 71, 74), (75, 70, 73), (76, 71, 75)]         # seal 70-77
+    + [(80, 75, 79), (84, 78, 82)]                       # jump to box 5
+    + [(83, 78, 81), (82, 77, 80), (83, 78, 82)]         # seal 77-84
+    + [(83, 78, 82)] * 10)                               # hold box 5
+
+
+def test_doubling_is_capped_at_three_per_position():
+    bars = _box_bars(CLIMB_5_BOXES)
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=3, pyramid=True)
+    raises = [b for b in res["blotter"] if "RAISE STOP" in b[2]]
+    pyramids = [b for b in res["blotter"] if "PYRAMID BUY" in b[2]]
+    capped = [b for b in res["blotter"] if "NOT doubled" in b[2]]
+    assert len(raises) == 4, "four box jumps up the five-box ladder"
+    assert len(pyramids) == 3, "the 4th jump must NOT double — cap is 3"
+    assert len(capped) == 1 and "cap is already used" in capped[0][2]
+    book = res["book"][0]
+    assert len(book["lots"]) == 4                    # entry + 3 doublings
+    # 3 doublings = 8× the original share count, and no more
+    assert book["shares"] == pytest.approx(8 * book["lots"][0]["shares"])
+    assert len(res["injections"]) == 3

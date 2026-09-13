@@ -330,16 +330,19 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
          f"qualifies, the cash stays cash.", "",
          f"**Engine A — no doubling.** Exactly the rules above, "
          f"nothing else.", "",
-         f"**Engine B — doubling with NEW capital.** On EVERY box jump "
-         f"upward (each weekly stop ratchet), the stake is doubled "
-         f"with FRESH MONEY from outside the portfolio, equal to the "
-         f"position's market value, at the next day's open. The new "
+         f"**Engine B — doubling with NEW capital, 3× cap.** On EVERY "
+         f"box jump upward (each weekly stop ratchet), the stake is "
+         f"doubled with FRESH MONEY from outside the portfolio, equal "
+         f"to the position's market value, at the next day's open — "
+         f"but AT MOST THREE TIMES per position (8× the first slice), "
+         f"so the capital the rule demands stays realistic. The new "
          f"money never touches the portfolio's cash — fresh entries "
          f"are never starved — and every injection is dated and "
          f"logged, so the honest yardstick is the money-weighted "
          f"return (XIRR), not a naive multiple. Each add-on is its own "
          f"tax lot on its own holding clock; the ratcheted stop covers "
-         f"the whole enlarged position.", "",
+         f"the whole enlarged position; a jump past the cap is logged, "
+         f"never doubled.", "",
          "## The headline — XIRR is the honest yardstick", "",
          "| Engine | Money put in | Final value | XIRR (per year) |",
          "|---|---:|---:|---:|",

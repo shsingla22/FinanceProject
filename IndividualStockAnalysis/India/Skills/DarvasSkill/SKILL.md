@@ -71,7 +71,9 @@ license: internal
    once invested, on EVERY box jump upward without the stop being hit,
    the stake is DOUBLED with NEW EXTERNAL capital equal to the
    position's current market value, at the next day's open (₹10 that
-   has grown to ₹13 gets ₹13 more of fresh money). The new money never
+   has grown to ₹13 gets ₹13 more of fresh money) — **at most THREE
+   doublings per position** (8× the first slice), the cap that keeps
+   the rule fundable instead of exponential. The new money never
    touches the portfolio's cash — entries into new stocks use only the
    original capital and sale proceeds, each first entry capped at one
    tenth of total capital — so doubling can never starve fresh
