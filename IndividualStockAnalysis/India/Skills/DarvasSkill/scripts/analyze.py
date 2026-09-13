@@ -108,38 +108,48 @@ def render_report(scan, dives, meta) -> str:
              "stop; a drop to a lower box is the exit.")
     A.append("")
 
-    # ---- step 1
-    A.append("## Step 1 — The volume trigger")
+    # ---- step 1: three gates
+    gated = meta.get("gated") or []
+    full = [g for g in gated if g["fully_qualifies"]]
+    A.append("## Step 1 — The three qualification gates")
     A.append("")
-    A.append(f"A stock qualifies when its LATEST week — the running "
-             f"(partial) week when there is one, pro-rated to five days — "
-             f"traded at least {DV.QUALIFY_MULTIPLE}× its average weekly "
-             f"volume of the prior {DV.BASELINE_WEEKS} completed weeks AND "
-             f"the price rose. {len(q)} of {meta['scanned']} qualified; "
-             f"every qualifier, best volume reaction first, with the last "
-             f"four weeks of volume shown:")
+    A.append(f"A stock must pass ALL THREE, in order: **(a) the weekly "
+             f"trigger** — the latest week (pro-rated if running) at ≥"
+             f"{DV.QUALIFY_MULTIPLE}× its {DV.BASELINE_WEEKS}-week average "
+             f"volume with the price up; **(b) the month-vs-year gate** — "
+             f"the last {DV.MONTH_DAYS} trading days' average daily volume "
+             f"at ≥{DV.MONTH_VS_YEAR_MULTIPLE}× the average of the "
+             f"~11 months before them, so one loud week in a sleepy name "
+             f"cannot qualify alone; **(c) the rising ladder** — at least "
+             f"{DV.UPTREND_BOXES} sealed boxes with the last "
+             f"{DV.UPTREND_BOXES} midpoints stepping upward: the stock "
+             f"must have CLIMBED here. "
+             f"{len(q)} weekly qualifiers → **{len(full)} pass all three "
+             f"gates** out of {meta['scanned']} scanned.")
     A.append("")
-    A.append("| # | Stock | Vol W−3 | Vol W−2 | Vol W−1 | Vol latest wk | "
-             "12-wk avg | Multiple | Price latest wk | Close |")
-    A.append("|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|")
-    for i, s in enumerate(q, 1):
-        rw = s.get("recent_weeks", [])
-        cells = ["—"] * (4 - len(rw)) + [f"{w['volume']:,}" for w in rw]
-        star = "*" if s.get("partial_week") else ""
-        A.append(f"| {i} | {s['symbol']} | {cells[0]} | {cells[1]} | "
-                 f"{cells[2]} | {cells[3]}{star} | "
-                 f"{s['baseline_avg_volume']:,} | "
-                 f"**{s['volume_multiple']:.2f}×**{star} | "
-                 f"{s['price_change_pct']:+.2f}% | ₹{s['close']:,.1f} |")
+    A.append("| # | Stock | Wk multiple | Price wk | Month vs yr vol | "
+             "Ladder (last 3 midpoints) | Verdict |")
+    A.append("|---:|---|---:|---:|---:|---|---|")
+    for i, g in enumerate(gated, 1):
+        mv, up = g["month_gate"], g["ladder_gate"]
+        mv_txt = (f"{mv['month_vs_year_multiple']:.2f}×"
+                  + (" ✓" if mv["qualifies"] else " ✗")) if mv else "no data"
+        mids = up["midpoints"][-DV.UPTREND_BOXES:]
+        up_txt = (" → ".join(f"{m:,.0f}" for m in mids)
+                  + (" ✓" if up["qualifies"] else " ✗"))
+        verdict = "**QUALIFIED**" if g["fully_qualifies"] else             ("fails month gate" if mv and not mv["qualifies"]
+             else "fails ladder" if not up["qualifies"] else "no data")
+        star = "*" if g.get("partial_week") else ""
+        A.append(f"| {i} | {g['symbol']} | "
+                 f"{g['volume_multiple']:.2f}×{star} | "
+                 f"{g['price_change_pct']:+.2f}% | {mv_txt} | {up_txt} | "
+                 f"{verdict} |")
     A.append("")
-    if any(s.get("partial_week") for s in q):
-        A.append("\* the latest week is still running — its multiple is "
-                 "pro-rated to a full five-day week (volume ÷ (average × "
-                 "days traded ÷ 5)); the raw volume shown is what has "
-                 "actually traded so far.")
+    if any(g.get("partial_week") for g in gated):
+        A.append("\* pro-rated — the latest week is still running.")
         A.append("")
-    A.append(f"The top {len(dives)} go on to the earnings and box steps "
-             f"below.")
+    A.append(f"The top {len(dives)} fully-qualified go on to the earnings "
+             f"and box steps below.")
     A.append("")
 
     # ---- summary of recommendations
@@ -300,12 +310,13 @@ def cmd_run(args) -> None:
 
     weekly = DV.load_weekly()
     scan = DV.scan_universe(weekly)
-    q = [s for s in scan if s["qualifies"]]
-    top = q[:args.top]
-    print(f"{len(q)} qualifiers; deep-diving the top {len(top)}",
-          file=sys.stderr)
-
     daily = DV.load_daily()
+    gated = DV.full_qualifiers(scan, daily)
+    q = [g for g in gated if g["fully_qualifies"]]
+    top = q[:args.top]
+    print(f"{sum(1 for s in scan if s['qualifies'])} weekly qualifiers → "
+          f"{len(q)} pass all three gates; deep-diving the top {len(top)}",
+          file=sys.stderr)
     ai = _ai_available() and not args.quick
     dives = []
     for s in top:
@@ -330,6 +341,7 @@ def cmd_run(args) -> None:
         "fetch_failed": failed,
         "trigger_week": top[0]["week_start"] if top else "—",
         "ledger": ledger,
+        "gated": gated,
     }
     md = render_report(scan, dives, meta)
     REPORT.write_text(md)

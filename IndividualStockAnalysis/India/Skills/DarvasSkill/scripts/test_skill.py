@@ -176,19 +176,27 @@ def test_each_stock_gets_its_own_box_height():
 
 # -------------------------------------------------------------- stop losses
 
-def test_stop_loss_matches_the_50_55_worked_example():
-    assert DV.stop_loss({"top": 55, "bottom": 50}) == pytest.approx(48.5)
+def test_stop_loss_50_55_now_respects_the_5pct_floor():
+    """0.3×height would put the stop at 48.5 — only 3% below the bottom.
+    The 5% floor pulls it to 47.5, so ordinary noise inside a shallow box
+    cannot churn the position."""
+    assert DV.stop_loss({"top": 55, "bottom": 50}) == pytest.approx(47.5)
 
 
 def test_stop_loss_matches_the_70_85_worked_example():
+    """A wide box: 0.3×height (4.5) beats the 5% floor (3.5) — unchanged."""
     assert DV.stop_loss({"top": 85, "bottom": 70}) == pytest.approx(65.5)
+
+
+def test_stop_loss_is_never_closer_than_5pct_below_the_bottom():
+    assert DV.stop_loss({"top": 102, "bottom": 100}) == pytest.approx(95.0)
 
 
 def test_ledger_ratchets_stops_up_never_down(tmp_path):
     path = tmp_path / "_positions.csv"
     DV.update_ledger(path, [{"symbol": "AAA", "action": "BUY",
                              "box_bottom": 50, "box_top": 55,
-                             "stop_loss": 48.5, "last_close": 56}],
+                             "stop_loss": 47.5, "last_close": 56}],
                      today="2026-09-05")
     # the stock seals a higher box: stop moves UP
     rows = DV.update_ledger(path, [{"symbol": "AAA", "action": "ACCUMULATE",
@@ -197,14 +205,14 @@ def test_ledger_ratchets_stops_up_never_down(tmp_path):
                                         {"top": 62, "bottom": 56}),
                                     "last_close": 60}],
                             today="2026-09-12")
-    assert float(rows[0]["stop_loss"]) == pytest.approx(54.2)
+    assert float(rows[0]["stop_loss"]) == pytest.approx(53.2)
     assert rows[0]["first_flagged"] == "2026-09-05"
     # a LOWER computed stop must never lower the standing one
     rows = DV.update_ledger(path, [{"symbol": "AAA", "action": "WATCH",
                                     "box_bottom": 50, "box_top": 55,
-                                    "stop_loss": 48.5, "last_close": 54}],
+                                    "stop_loss": 47.5, "last_close": 54}],
                             today="2026-09-19")
-    assert float(rows[0]["stop_loss"]) == pytest.approx(54.2)
+    assert float(rows[0]["stop_loss"]) == pytest.approx(53.2)
 
 
 def test_ledger_marks_a_breakdown_as_exit(tmp_path):
@@ -220,16 +228,29 @@ def test_ledger_marks_a_breakdown_as_exit(tmp_path):
 
 # ---------------------------------------------------------- recommendations
 
-def test_breakout_is_a_buy_and_breakdown_is_a_sell():
+def test_breakout_is_a_buy_and_a_confirmed_breakdown_is_a_sell():
     up = DV.find_boxes(_bars(
         [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
         + [(58, 54, 57)]))
     assert DV.recommend(up, {})["action"] == "BUY"
+    # close 47 is through the 47.5 stop — the red flag CONFIRMED
     down = DV.find_boxes(_bars(
         [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
-        + [(51, 47, 48)]))
+        + [(50, 46.5, 47)]))
     r = DV.recommend(down, {})
     assert r["action"] == "SELL" and "red" in r["why"]
+
+
+def test_breakdown_inside_the_grace_is_watched_not_sold():
+    """Close 48.5: below the 50 bottom (a red flag) but ABOVE the 47.5
+    stop — the stabilisation grace holds it instead of churning."""
+    down = DV.find_boxes(_bars(
+        [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+        + [(51, 48, 48.5)]))
+    r = DV.recommend(down, {})
+    assert r["action"] == "WATCH"
+    assert "grace" in r["why"]
+    assert r["stop_loss"] == pytest.approx(47.5)
 
 
 def test_holding_the_higher_box_is_accumulate():
@@ -241,7 +262,7 @@ def test_holding_the_higher_box_is_accumulate():
     )
     r = DV.recommend(DV.find_boxes(_bars(seq)), {})
     assert r["action"] == "ACCUMULATE"
-    assert r["stop_loss"] == pytest.approx(54.2)   # 56 − 0.3×6
+    assert r["stop_loss"] == pytest.approx(53.2)   # 56 − max(0.3×6, 5%×56)
 
 
 def test_in_box_with_no_prior_break_is_watch_with_a_buy_point():
@@ -288,7 +309,7 @@ def test_box_picture_shows_edges_stop_and_buy_point():
     rec = DV.recommend(st, {})
     pic = CH.box_picture(st, rec)
     assert "55.00 ─ top" in pic and "50.00 ─ bottom" in pic
-    assert "48.50 ─ stop loss" in pic
+    assert "47.50 ─ stop loss" in pic
     assert "buy on a close above" in pic
 
 
@@ -350,9 +371,10 @@ def test_a_recovered_breakdown_is_watched_not_sold():
     assert "stop_loss" not in r, "a stale box must not supply a stop"
 
 
-def test_a_standing_breakdown_still_sells():
+def test_a_standing_breakdown_through_the_stop_still_sells():
+    """Closes at 47 — through the 47.5 stop, past the grace: SELL."""
     seq = ([(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
-           + [(51, 47, 48), (50, 47, 49)])
+           + [(50, 46.5, 47), (48, 46.5, 47)])
     st = DV.find_boxes(_bars(seq))
     assert st["state"] == "BREAKDOWN"
     assert DV.recommend(st, {})["action"] == "SELL"
@@ -562,7 +584,7 @@ def test_walkforward_ratchets_the_stop_on_a_new_higher_box():
     r = WF.simulate_position(bars, bars[0]["date"], 54.0, 48.5,
                              bars[-1]["date"])
     assert r["events"], "the higher box must ratchet the stop"
-    assert r["final_stop"] == pytest.approx(54.2)      # 56 − 0.3×6
+    assert r["final_stop"] == pytest.approx(53.2)      # 56 − max(1.8, 2.8)
     assert all(e["to"] > (e["from"] or 0) for e in r["events"])
     assert r["reason"] == "held through the period"
 
@@ -576,17 +598,25 @@ def test_walkforward_stop_hit_exits_at_the_stop_price():
     assert r["exit_px"] == pytest.approx(48.5)         # at the stop, not the low
 
 
-def test_walkforward_weekly_breakdown_sells_at_that_close():
-    # closes below the 50 bottom but lows never reach the 48.5 stop:
-    # only the WEEKLY run catches it, at that day's close
+def test_walkforward_breakdown_inside_the_grace_is_held_not_sold():
+    """Closes drift below the 50 bottom but never touch the 47.5 stop:
+    the stabilisation grace holds the position — no more instant weekly
+    sells the moment a box floor is closed under."""
     seq = BOX_5055 + [(51, 49.4, 49.5), (50.5, 49.4, 49.6),
                       (50.5, 49.4, 49.5), (50.5, 49.4, 49.6),
                       (50.5, 49.4, 49.5)]
     bars = _wf_bars(seq)
-    r = WF.simulate_position(bars, bars[0]["date"], 54.0, 48.5,
+    r = WF.simulate_position(bars, bars[0]["date"], 54.0, 47.5,
                              bars[-1]["date"])
-    assert "weekly SELL signal" in r["reason"]
-    assert r["exit_px"] == pytest.approx(49.5, abs=0.2)
+    assert r["reason"] == "held through the period"
+
+
+def test_walkforward_the_stop_still_ends_a_true_slide():
+    seq = BOX_5055 + [(51, 49.4, 49.5), (49.5, 47.2, 47.4)]
+    bars = _wf_bars(seq)
+    r = WF.simulate_position(bars, bars[0]["date"], 54.0, 47.5,
+                             bars[-1]["date"])
+    assert r["reason"] == "stop hit" and r["exit_px"] == pytest.approx(47.5)
 
 
 def test_walkforward_watch_enters_on_the_first_close_above_the_top():
@@ -646,7 +676,7 @@ def test_reentry_needs_BOTH_price_break_and_volume():
     bars = _vol_bars(loud)
     ready = WF.reentry_ready(bars, len(bars) - 1)
     assert ready is not None and ready["state"] == "BREAKOUT"
-    assert ready["stop"] == pytest.approx(48.5)
+    assert ready["stop"] == pytest.approx(47.5)
 
 
 def test_simulate_with_reentry_rebuys_after_a_stopout():
@@ -673,3 +703,67 @@ def test_no_reentry_when_volume_never_returns():
     legs = WF.simulate_with_reentry(bars, bars[0]["date"], 54.0, 48.5,
                                     bars[-1]["date"])
     assert len(legs) == 1, "price alone must never re-enter"
+
+
+# ---------------------------------- the three-gate qualification (v2)
+
+def _flat_days(n, vol, close=50.0, start="2025-01-06"):
+    d = dt.date.fromisoformat(start)
+    out = []
+    for _ in range(n):
+        while d.weekday() >= 5:
+            d += dt.timedelta(days=1)
+        out.append({"symbol": "T", "date": d.isoformat(), "open": close,
+                    "high": close + 1, "low": close - 1, "close": close,
+                    "volume": vol})
+        d += dt.timedelta(days=1)
+    return out
+
+
+def test_month_vs_year_gate_passes_a_genuinely_louder_month():
+    daily = _flat_days(231, 100_000) + _flat_days(21, 250_000,
+                                                  start="2025-12-01")
+    mv = DV.month_vs_year(daily)
+    assert mv["qualifies"] is True
+    assert mv["month_vs_year_multiple"] == pytest.approx(2.5)
+    assert mv["month_avg_daily"] == 250_000
+    assert mv["year_avg_daily"] == 100_000
+
+
+def test_month_vs_year_gate_fails_a_single_moderate_week():
+    """One 3x week inside an otherwise normal month lifts the month to
+    (16×100k + 5×300k)/21 ≈ 1.48x — under the 1.5x bar. A lone loud week
+    in a sleepy name cannot carry the month gate by itself."""
+    daily = (_flat_days(231, 100_000)
+             + _flat_days(16, 100_000, start="2025-12-01")
+             + _flat_days(5, 300_000, start="2025-12-23"))
+    mv = DV.month_vs_year(daily)
+    assert mv["qualifies"] is False
+    assert mv["month_vs_year_multiple"] == pytest.approx(1.48, abs=0.01)
+
+
+def test_month_vs_year_needs_a_real_baseline():
+    assert DV.month_vs_year(_flat_days(60, 100_000)) is None
+
+
+def test_ladder_gate_wants_three_rising_boxes():
+    def box(bottom, top):
+        return {"top": top, "bottom": bottom}
+    rising = [box(50, 55), box(56, 62), box(63, 70)]
+    assert DV.box_uptrend(rising)["qualifies"] is True
+    flat = [box(50, 55), box(49, 54), box(50, 56)]
+    assert DV.box_uptrend(flat)["qualifies"] is False
+    short = [box(50, 55), box(56, 62)]
+    up = DV.box_uptrend(short)
+    assert up["qualifies"] is False and "too short" in up["why"]
+
+
+def test_full_qualifiers_requires_all_three_gates():
+    # a stock passing the weekly trigger but with flat yearly volume and
+    # no ladder must NOT fully qualify
+    daily = _flat_days(252, 100_000)
+    scan = [{"symbol": "T", "qualifies": True, "volume_multiple": 3.0,
+             "price_change_pct": 5.0}]
+    out = DV.full_qualifiers(scan, {"T": daily})
+    assert len(out) == 1
+    assert out[0]["fully_qualifies"] is False

@@ -44,7 +44,21 @@ QUALIFY_MULTIPLE = 1.5       # last week must be at least 1.5x normal
 TIERS = [(3.0, "multifold"), (2.0, "strong"), (1.5, "elevated")]
 
 CONFIRM_DAYS = 3             # Darvas's three quiet sessions seal an edge
-STOP_FRACTION = 0.3          # stop sits 0.3 box-heights below the bottom
+STOP_FRACTION = 0.3          # stop sits 0.3 box-heights below the bottom …
+STOP_MIN_BELOW = 0.05        # … and NEVER less than 5% below it: room to
+                             # stabilise inside the box instead of churning
+
+# step 1b — the month-vs-year volume gate: the last month of trading must
+# run significantly above the stock's one-year norm, so a single loud week
+# in a sleepy name cannot qualify on its own
+MONTH_DAYS = 21              # ~ one month of trading days
+YEAR_BASELINE_DAYS = 231     # ~ the eleven months before that month
+MIN_BASELINE_DAYS = 120      # fewer prior days than this and it's not judged
+MONTH_VS_YEAR_MULTIPLE = 1.5
+
+# step 1c — the ladder gate: the stock must have CLIMBED here — at least
+# three sealed boxes with rising midpoints, the general trend up
+UPTREND_BOXES = 3
 
 
 # ---------------------------------------------------------------- loading
@@ -250,9 +264,13 @@ def find_boxes(daily: list[dict]) -> dict:
 
 
 def stop_loss(box: dict) -> float:
-    """stop = bottom − STOP_FRACTION × height, in the stock's own range."""
+    """stop = bottom − max(STOP_FRACTION × height, STOP_MIN_BELOW × bottom):
+    the stock's own range sets the distance, but the stop always sits AT
+    LEAST 5% below the box bottom — a shallow box must not put the stop a
+    rupee under the floor and churn the position on ordinary noise."""
     height = box["top"] - box["bottom"]
-    return round(box["bottom"] - STOP_FRACTION * height, 2)
+    gap = max(STOP_FRACTION * height, STOP_MIN_BELOW * box["bottom"])
+    return round(box["bottom"] - gap, 2)
 
 
 def recommend(box_state: dict, signal: dict) -> dict:
@@ -272,9 +290,19 @@ def recommend(box_state: dict, signal: dict) -> dict:
             "standing breakdown; with no new box sealed there is no "
             "honest stop yet, so wait for the next box before buying")
     elif state == "BREAKDOWN":
-        action, why = "SELL", ("closed below its box bottom — Darvas's red "
-                               "flag; a stock dropping to a lower box is "
-                               "sold, not averaged")
+        graced = (cur is not None and box_state.get("last_close") is not None
+                  and box_state["last_close"] > stop_loss(cur))
+        if graced:
+            action, why = "WATCH", (
+                "closed below its box bottom — a red flag, but still inside "
+                "the stabilisation grace (above the stop, which sits at "
+                "least 5% below the bottom); give it time rather than "
+                "churn, and sell only if the stop is taken out")
+        else:
+            action, why = "SELL", (
+                "closed below its box bottom AND through the stop — "
+                "Darvas's red flag confirmed; a stock dropping to a lower "
+                "box is sold, not averaged")
     elif state == "BREAKOUT":
         action, why = "BUY", ("closed above its box top on trigger volume — "
                               "reaching for the higher box; buy the break")
@@ -405,3 +433,70 @@ def monthly_trend(months: list[dict]) -> dict:
     return {"verdict": "SPIKE ONLY", "rising_months": streak,
             "why": "monthly volumes were flat before the trigger — the "
                    "surge is a one-week event so far, not a building trend"}
+
+
+# ------------------------------- step 1b: month vs year volume gate
+
+def month_vs_year(daily: list[dict]) -> dict | None:
+    """Is the LAST MONTH of trading significantly louder than the stock's
+    one-year norm? recent = the last MONTH_DAYS trading days' average daily
+    volume; baseline = the average of the up-to-YEAR_BASELINE_DAYS days
+    before them (at least MIN_BASELINE_DAYS, else not judged)."""
+    if len(daily) < MONTH_DAYS + MIN_BASELINE_DAYS:
+        return None
+    recent = [d["volume"] for d in daily[-MONTH_DAYS:]]
+    prior = [d["volume"] for d in
+             daily[-(MONTH_DAYS + YEAR_BASELINE_DAYS):-MONTH_DAYS]]
+    base = sum(prior) / len(prior)
+    if base <= 0:
+        return None
+    mult = (sum(recent) / len(recent)) / base
+    return {"month_avg_daily": round(sum(recent) / len(recent)),
+            "year_avg_daily": round(base),
+            "baseline_days": len(prior),
+            "month_vs_year_multiple": round(mult, 2),
+            "qualifies": mult >= MONTH_VS_YEAR_MULTIPLE}
+
+
+# ------------------------------------ step 1c: the rising-ladder gate
+
+def box_uptrend(boxes: list[dict]) -> dict:
+    """Has the stock CLIMBED here? At least UPTREND_BOXES sealed boxes,
+    with the midpoints of the last UPTREND_BOXES strictly rising — the
+    general trend up, box over box."""
+    mids = [round((b["top"] + b["bottom"]) / 2, 2) for b in boxes]
+    if len(boxes) < UPTREND_BOXES:
+        return {"qualifies": False, "boxes": len(boxes), "midpoints": mids,
+                "why": f"only {len(boxes)} sealed box"
+                       f"{'es' if len(boxes) != 1 else ''} — the ladder is "
+                       f"too short to call a trend"}
+    last = mids[-UPTREND_BOXES:]
+    rising = all(last[i] < last[i + 1] for i in range(len(last) - 1))
+    return {"qualifies": rising, "boxes": len(boxes), "midpoints": mids,
+            "why": (f"the last {UPTREND_BOXES} boxes step upward "
+                    f"({' → '.join(f'₹{m:,.1f}' for m in last)})" if rising
+                    else f"the last {UPTREND_BOXES} box midpoints do not "
+                         f"step upward ({' → '.join(f'₹{m:,.1f}' for m in last)})")}
+
+
+def full_qualifiers(scan: list[dict],
+                    daily: dict[str, list[dict]]) -> list[dict]:
+    """All three gates together, order preserved from the weekly scan:
+    weekly trigger AND month-vs-year volume AND the rising ladder. Each
+    row keeps every gate's numbers so the report can show WHY a stock
+    passed or fell out."""
+    out = []
+    for s in scan:
+        if not s["qualifies"]:
+            continue
+        bars = daily.get(s["symbol"])
+        if not bars:
+            continue
+        mv = month_vs_year(bars)
+        up = box_uptrend(find_boxes(bars)["boxes"])
+        out.append({**s,
+                    "month_gate": mv,
+                    "ladder_gate": up,
+                    "fully_qualifies": bool(mv and mv["qualifies"]
+                                            and up["qualifies"])})
+    return out

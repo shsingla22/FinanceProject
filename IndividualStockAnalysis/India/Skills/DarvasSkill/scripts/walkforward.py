@@ -114,10 +114,10 @@ def simulate_position(bars: list[dict], entry_date: str, entry_px: float,
                            stop, events)
         if i in ends:                        # the weekly run, after close
             st = DV.find_boxes(bars[max(0, i - BOX_LOOKBACK_BARS):i + 1])
-            if st["state"] == "BREAKDOWN":
-                return _closed(entry_px, bar["close"], bar["date"],
-                               "weekly SELL signal (closed below its box)",
-                               stop, events)
+            # a BREAKDOWN close is a red flag but NOT an instant sell:
+            # the stop already sits at least 5% below the box bottom —
+            # the stabilisation grace — and the daily stop check is the
+            # one and only exit
             cur = st["current"]
             if st["state"] in ("IN_BOX", "BREAKOUT") and cur is not None:
                 cand = DV.stop_loss(cur)

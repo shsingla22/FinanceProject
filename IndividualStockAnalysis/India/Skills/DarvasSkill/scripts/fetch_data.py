@@ -42,8 +42,8 @@ UNIVERSE = "NiftyTotalMarket"
 OUT_DIR = INDIA / "VolumeAndPricing" / UNIVERSE
 CONSTITUENTS = INDIA / UNIVERSE / "niftytotalmarket_constituents.csv"
 
-RANGE = "6mo"          # 3 months of completed weeks for the trigger,
-INTERVAL = "1d"        # with headroom for box detection on daily bars
+RANGE = "1y"           # a full year of daily bars: the weekly trigger,
+INTERVAL = "1d"        # the month-vs-year volume gate AND the box ladder
 RETRIES = 3
 UA = "Mozilla/5.0 (X11; Linux x86_64)"
 

@@ -18,7 +18,7 @@ license: internal
 ## The five steps, as implemented
 
 1. **The volume trigger.** Fresh daily bars for the last six months are
-   fetched for every symbol ON EVERY RUN and aggregated into
+   fetched (a FULL YEAR of daily bars) for every symbol ON EVERY RUN and aggregated into
    Monday–Friday weeks. The week under test is THE LATEST week — the
    running (partial) week when there is one, pro-rated to five days
    (volume ÷ (average × days÷5)) and labelled, so a surge is caught the
@@ -26,9 +26,16 @@ license: internal
    average weekly volume of the prior 12 completed weeks (minimum 6)
    **and** a rising price — volume without price appreciation is
    distribution, price without volume is drift; Darvas required both.
-   Tiers: ≥3× *multifold*, ≥2× *strong*, ≥1.5× *elevated*. The report
-   lists EVERY qualifier in order with the last four weeks of volume
-   beside the 12-week average, and deep-dives the top 25 by default.
+   Tiers: ≥3× *multifold*, ≥2× *strong*, ≥1.5× *elevated*. The weekly
+   trigger is GATE (a) of three — a stock fully qualifies only when it
+   also passes **(b) the month-vs-year volume gate**: the last 21
+   trading days' average daily volume at ≥1.5× the average of the ~11
+   months before them (one loud week in a sleepy name cannot qualify
+   alone), and **(c) the rising ladder**: at least 3 sealed boxes with
+   the last 3 midpoints stepping upward — the stock must have CLIMBED
+   here. The report lists every weekly qualifier with all three gates'
+   numbers and why it passed or fell out, and deep-dives the top 25
+   fully-qualified by default.
    Each deep dive also judges the MONTHLY volume trend from the same
    daily bars — **BUILDING** (rose month over month for ≥2 complete
    months: buying pressure accumulating), **STEPPED UP**, or **SPIKE
@@ -62,13 +69,18 @@ license: internal
    box bottom = SELL — the red flag; a stock dropping to a lower box is
    sold, never averaged.
 
-5. **Stop losses and the rhythm.** stop = box bottom − 0.3 × box height
-   (a 50–55 box stops near 48.5; a 70–85 box near 65.5 — the method's
-   worked examples). The rhythm: **run the skill weekly, after Friday's
-   close.** Each run re-fetches, re-ranks, re-seals boxes and recomputes
-   every held stop from the CURRENT box — the ledger ratchets stops UP
-   only, and "decisively" is built in: a higher box exists only after
-   three quiet sessions on each edge.
+5. **Stop losses, the grace, and the rhythm.** stop = box bottom −
+   max(0.3 × box height, **5% of the bottom**): the stock's own range
+   sets the distance but the stop never sits closer than 5% below the
+   floor, so ordinary noise inside a shallow box cannot churn the
+   position (a 50–55 box now stops at 47.5; a 70–85 box still at 65.5).
+   A close below the box bottom is a red flag but NOT an instant sell —
+   within the grace (above the stop) the stock is given time to
+   stabilise, and only the stop itself exits. Measured on the backtest
+   window: the old instant weekly sell threw CHENNPETRO out at +5.1%;
+   the grace held the identical entry to +62.6%. The rhythm: **run the
+   skill weekly, after Friday's close** — each run re-fetches, re-ranks,
+   re-seals boxes and ratchets every held stop UP only.
 
 ## Run it
 
@@ -78,7 +90,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 51 tests
+python3 -m pytest scripts/test_skill.py -q     # 59 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -133,7 +145,7 @@ outcome to the backtest report.
 
 | Where | What |
 |---|---|
-| `India/VolumeAndPricing/NiftyTotalMarket/_all_daily_long.csv` | six months of daily OHLCV per symbol, refreshed every run |
+| `India/VolumeAndPricing/NiftyTotalMarket/_all_daily_long.csv` | one year of daily OHLCV per symbol, refreshed every run |
 | `…/_all_weekly_long.csv` | ISO-week aggregates with traded-day counts and a `complete` flag — the trigger tests the latest week, pro-rating a partial one |
 | `…/_fetch_log.csv`, `_fetched_at.txt` | per-symbol fetch status and the run stamp — failures are listed, never hidden |
 | `India/Analysis/NiftyTotalMarketAnalysis/DarvasAnalysis/DARVAS_REPORT.md` | the screen: ranked trigger table, per-pick deep dives with text charts, recommendations, the stop ledger, methodology |
