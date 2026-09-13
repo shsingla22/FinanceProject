@@ -493,3 +493,39 @@ def test_box_picture_shows_the_full_ladder():
     pic = CH.box_picture(st, DV.recommend(st, {}))
     for b in st["boxes"]:                   # EVERY sealed box on the ladder
         assert f"{b['top']:,.2f}" in pic
+
+
+# ------------------------------------------------------------ the backtest
+
+import backtest as BT
+
+
+def test_backtest_window_url_pins_the_period():
+    import datetime as _dt
+    url = BT.window_url("PIDILITIND", _dt.date(2025, 6, 1),
+                        _dt.date(2026, 3, 31))
+    assert "period1=" in url and "period2=" in url and "range=" not in url
+    assert "PIDILITIND.NS" in url and "interval=1d" in url
+
+
+def test_backtest_asof_fiscal_year_cuts_correctly():
+    import datetime as _dt
+    assert BT.asof_fiscal_year(_dt.date(2026, 3, 31)) == "Mar 2026"
+    assert BT.asof_fiscal_year(_dt.date(2026, 3, 30)) == "Mar 2025"
+    assert BT.asof_fiscal_year(_dt.date(2025, 12, 31)) == "Mar 2025"
+    assert BT.asof_fiscal_year(_dt.date(2026, 6, 1)) == "Mar 2026"
+
+
+def test_backtest_archive_is_separate_from_the_live_one():
+    import datetime as _dt
+    d = BT.window_dir(_dt.date(2025, 6, 1), _dt.date(2026, 3, 31))
+    assert "VolumeAndPricingBacktest" in str(d)
+    assert str(FD.OUT_DIR) not in str(d) or "Backtest" in str(FD.OUT_DIR)
+
+
+def test_backtest_banner_discloses_the_cuts():
+    import datetime as _dt
+    b = BT.banner(_dt.date(2025, 6, 1), _dt.date(2026, 3, 31), "Mar 2026")
+    assert "as of 2026-03-31" in b
+    assert "Mar 2026" in b and "EXCLUDED" in b
+    assert "would not all have been published" in b   # the optimism, stated

@@ -78,8 +78,27 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 39 tests
+python3 -m pytest scripts/test_skill.py -q     # 43 tests
 ```
+
+## Backtesting — the same skill, as of a past date
+
+```bash
+python3 scripts/backtest.py --start 2025-06-01 --end 2026-03-31 --top 25
+```
+
+The runner re-points the unchanged skill at a frozen window: prices and
+volumes are fetched for [start, end] only into a SEPARATE archive
+(`India/VolumeAndPricingBacktest/<start>_to_<end>/`), week completeness
+is judged as of `end` (an unfinished final week is tested pro-rated,
+exactly as a live run that day would have), statements are cut at the
+as-of fiscal year, the conference-call read is EXCLUDED (the transcript
+archive contains calls after the window — excluded beats contaminated),
+and the backtest keeps its own report and ledger so the live
+`_positions.csv` is never touched. The report opens with a banner
+stating every one of these cuts, including the honest caveat that the
+as-of fiscal year's annuals would not all have been public on the as-of
+date.
 
 ## Data and outputs
 
