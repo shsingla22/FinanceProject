@@ -29,14 +29,15 @@ re-asked.
     runner already understands, plus the constituents file and a
     build log.
 
-Split/bonus handling for the archive is the CALLER's concern: raw
-bhavcopy prices are unadjusted, so the builder also back-adjusts
+Raw bhavcopy prices are unadjusted, so the builder back-adjusts
 (price ÷ r, volume × r before the ex-date) when one day's open
 implies a standard corporate-action ratio against the prior close
-(1.25, 1.5, 2, 2.5, 4, 5, 10 — within 4%) AND the volume regime
-agrees (the surrounding month's median volume jumps by a compatible
-factor); every adjustment applied is written to `_adjustments.csv`,
-none is silent.
+(1.25, 1.5, 2, 2.5, 4, 5, 10 — within 4%) AND the next month's
+median close HOLDS the rebased level (a crash recovers or keeps
+falling; only a changed share count holds it) AND the volume regime
+steps up AND the event day itself trades normally (no crash-rebound).
+Every adjustment applied is written to `_adjustments.csv`, none is
+silent.
 """
 
 from __future__ import annotations
@@ -179,11 +180,21 @@ def _load_days(dest: Path, start: str, end: str) -> list[Path]:
 
 
 def _detect_adjustments(bars: list[dict]) -> list[dict]:
-    """Unadjusted history: a split/bonus shows as one overnight cliff
-    whose ratio matches a standard factor and whose volume regime
-    steps up by a compatible factor. Detected events are returned
-    oldest first; prices before the ex-date are divided and volumes
-    multiplied by the ratio."""
+    """Unadjusted history: a split/bonus shows as one overnight cliff.
+    Three tests separate it from a crash, each calibrated on real
+    events (EICHERMOT 10:1 2020, RELIANCE 1:1 2024, IRCTC 1:5 2021 —
+    caught) and real non-events (the Jan-2016 crash gap that
+    V-recovered intraday — rejected):
+
+      RATIO        prev close ÷ next open lands on a standard factor;
+      PERSISTENCE  the next month's median close STAYS at the rebased
+                   level (a crash either recovers or keeps falling —
+                   only a changed share count holds the new level);
+      VOLUME       the next month's median volume steps up — shares
+                   multiplied — with a stricter bar for the small
+                   ratios a crash can fake.
+
+    Prices before the ex-date are divided and volumes multiplied."""
     events = []
     vols = [b["volume"] for b in bars]
     for i in range(1, len(bars)):
@@ -195,16 +206,25 @@ def _detect_adjustments(bars: list[dict]) -> list[dict]:
                       if abs(implied - r) / r <= RATIO_TOL), None)
         if ratio is None:
             continue
+        if abs(bars[i]["close"] / op - 1) > 0.15:
+            continue                      # crash-rebound day, not a split
         before = [v for v in vols[max(0, i - 21):i] if v > 0]
-        after = [v for v in vols[i:i + 21] if v > 0]
-        if len(before) < 5 or len(after) < 5:
+        after_bars = bars[i:i + 21]
+        after_v = [b["volume"] for b in after_bars if b["volume"] > 0]
+        if len(before) < 5 or len(after_v) < 5:
             continue
-        vr = statistics.median(after) / statistics.median(before)
-        if vr < ratio * 0.4:              # volume must step with shares
+        level = (statistics.median(b["close"] for b in after_bars)
+                 / prev_c) * ratio        # 1.0 = held the rebased level
+        lo, hi = (0.85, 1.18) if ratio < 2 else (0.75, 1.30)
+        if not lo <= level <= hi:
+            continue
+        vr = statistics.median(after_v) / statistics.median(before)
+        if vr < (1.5 if ratio < 2 else 1.15):
             continue
         events.append({"index": i, "date": bars[i]["date"],
                        "ratio": ratio, "implied": round(implied, 3),
-                       "volume_step": round(vr, 2)})
+                       "volume_step": round(vr, 2),
+                       "level_hold": round(level, 3)})
     return events
 
 
@@ -260,7 +280,7 @@ def cmd_build(args) -> None:
             w.writerows(by_sym[sym])
     with open(out / "_adjustments.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=[
-            "symbol", "index", "date", "ratio", "implied", "volume_step"])
+            "symbol", "index", "date", "ratio", "implied", "volume_step", "level_hold"])
         w.writeheader()
         w.writerows(adjustments)
     (out / "_fetched_at.txt").write_text(
