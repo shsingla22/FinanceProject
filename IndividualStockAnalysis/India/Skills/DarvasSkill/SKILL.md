@@ -98,7 +98,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 70 tests
+python3 -m pytest scripts/test_skill.py -q     # 77 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -192,6 +192,20 @@ every event (ratchets, refusals, unfunded signals) in a companion CSV.
 Two limits it states rather than hides: today's constituent list is
 used throughout (survivorship bias) and Yahoo serves split-adjusted
 history as it stands today.
+
+The long run is simulated TWICE — once frictionless and once NET of
+the real world (`scripts/frictions.py`): Angel One equity-delivery
+charges on every order (STT 0.10% both sides, exchange and SEBI
+levies, GST, stamp duty on buys, delivery brokerage ₹0 until 31 Oct
+2024 then 0.1%) and capital-gains tax settled out of the portfolio on
+the first trading day of each April — 20% short-term, 12.5% long-term,
+with lawful set-off (short-term losses absorb short- then long-term
+gains, long-term losses only long-term gains) and carry-forward of
+unabsorbed losses; if the cash cannot cover a tax bill, positions are
+trimmed proportionally to pay it. The net run is a full separate
+simulation — the smaller cash pile funds fewer fresh signals — and the
+report shows both, plus the tax ledger per fiscal year and the accrued
+liability of the final part-year.
 
 ## Data and outputs
 

@@ -54,6 +54,7 @@ sys.path.insert(0, str(HERE))
 import backtest as BT        # noqa: E402
 import earnings as EP        # noqa: E402
 import fetch_data as FD      # noqa: E402
+import frictions as FR       # noqa: E402
 import rolling as RL         # noqa: E402
 import walkforward as WF     # noqa: E402
 
@@ -186,8 +187,8 @@ def _cagr(final: float, initial: float, days: int) -> float:
     return ((final / initial) ** (365.25 / days) - 1) * 100
 
 
-def write_report(res: dict, args, through: str, nifty: list, archive: Path,
-                 n_syms: int) -> Path:
+def write_report(res: dict, gross: dict, fr, args, through: str,
+                 nifty: list, archive: Path, n_syms: int) -> Path:
     tag = f"{SCREEN_START}_to_{through}"
     report = OUT_DIR / f"DARVAS_BACKTEST_LONGRUN_{tag}.md"
     ledger_csv = OUT_DIR / f"_longrun_events_{tag}.csv"
@@ -202,6 +203,9 @@ def write_report(res: dict, args, through: str, nifty: list, archive: Path,
     days = (dt.date.fromisoformat(through)
             - dt.date.fromisoformat(curve[0]["date"])).days
     cagr = _cagr(res["final_equity"], args.capital, days)
+    gross_cagr = _cagr(gross["final_equity"], args.capital, days)
+    accrued = fr.accrued()
+    truly_net = res["final_equity"] - accrued["tax"]
 
     n0 = next((c for d0, c in nifty if d0 >= curve[0]["date"]), None)
     n1 = nifty[-1][1] if nifty else None
@@ -218,7 +222,8 @@ def write_report(res: dict, args, through: str, nifty: list, archive: Path,
     all_cash_weeks = sum(1 for w in curve if w["positions"] == 0)
 
     trades = [b for b in sorted(res["blotter"])
-              if "BUY ₹" in b[2] or "SELL ₹" in b[2]]
+              if "BUY ₹" in b[2] or "SELL ₹" in b[2]
+              or b[1] == "TAX" or b[2].startswith("TRIM")]
 
     A = [f"# The Darvas screen, run for six years — {SCREEN_START} → "
          f"{through}", "",
@@ -255,24 +260,80 @@ def write_report(res: dict, args, through: str, nifty: list, archive: Path,
          "## The headline", "",
          f"| | ₹100 became | CAGR |",
          f"|---|---:|---:|",
-         f"| **This system** | **₹{res['final_equity']:,.2f}** | "
-         f"**{cagr:+.2f}% a year** |"]
+         f"| **This system, NET of Angel One charges and capital-gains "
+         f"tax** | **₹{res['final_equity']:,.2f}** | **{cagr:+.2f}% a "
+         f"year** |",
+         f"| The same system before costs and taxes | "
+         f"₹{gross['final_equity']:,.2f} | {gross_cagr:+.2f}% a year |"]
     if nifty_100:
-        A.append(f"| Nifty 50 (same window) | ₹{nifty_100:,.2f} | "
-                 f"{nifty_cagr:+.2f}% a year |")
+        A.append(f"| Nifty 50 (same window, itself pre-cost, pre-tax) | "
+                 f"₹{nifty_100:,.2f} | {nifty_cagr:+.2f}% a year |")
+    A += ["",
+          f"*The net run is a full separate simulation, not a discount "
+          f"applied afterwards: charges shrink every position as it is "
+          f"opened, tax leaves the portfolio every 1 April, and the "
+          f"smaller cash pile funds fewer fresh signals along the way. "
+          f"₹{accrued['tax']:,.2f} of tax has additionally accrued on "
+          f"the final part-year's realised gains (due next April, not "
+          f"yet paid) — settling it today would leave "
+          f"**₹{truly_net:,.2f}** "
+          f"({_cagr(truly_net, args.capital, days):+.2f}% a year). "
+          f"Gains still unrealised in the end book carry a further "
+          f"deferred liability when eventually sold.*"]
     A += ["",
           f"{(dt.date.fromisoformat(through) - dt.date.fromisoformat(curve[0]['date'])).days / 365.25:.2f} "
-          f"years, {len(curve)} weekly screens, {len(trades)} trades "
-          f"printed in the blotter below.", ""]
+          f"years, {len(curve)} weekly screens, {len(trades)} dated "
+          f"entries (buys, sells, tax settlements) in the blotter "
+          f"below.", ""]
 
-    A += ["## Calendar-year equity", "",
-          "| Year (through) | Equity (₹) | Return |"
-          + (" Nifty 50 |" if nifty else ""),
-          "|---|---:|---:|" + ("---:|" if nifty else "")]
+    A += ["", "## What the frictions took", "",
+          f"- **Transaction charges: ₹{fr.total_costs:,.2f}** across "
+          f"every order of the whole run (Angel One equity delivery: "
+          f"STT 0.10% both sides, NSE transaction charge 0.00297%, "
+          f"SEBI fee 0.0001%, 18% GST on brokerage+levies, stamp duty "
+          f"0.015% on buys; delivery brokerage ₹0 until 31 Oct 2024 "
+          f"and min(0.1%, ₹20)/order from 1 Nov 2024 — at this "
+          f"normalised scale the ₹20 cap never binds, so 0.1% "
+          f"applies). Flat charges that cannot scale to a normalised "
+          f"₹100 — the ~₹20+GST DP charge per sell and the ₹2 "
+          f"brokerage minimum — are excluded; on a ₹1-lakh+ account "
+          f"they are under 0.03% of a trade.",
+          f"- **Capital-gains tax paid: ₹{fr.total_tax:,.2f}**, settled "
+          f"out of the portfolio on the first trading day of each "
+          f"April — 20% short-term (held ≤ 365 days), 12.5% long-term "
+          f"(> 365 days), with lawful set-off: short-term losses "
+          f"absorb short- then long-term gains, long-term losses only "
+          f"long-term gains, unabsorbed losses carried forward. Gains "
+          f"are computed on execution prices (charges not added to "
+          f"basis) and the LTCG exemption slab is ignored — both "
+          f"simplifications overstate the tax slightly, never "
+          f"understate it.", "",
+          "| Fiscal year | Settled on | STCG taxed @20% | LTCG taxed "
+          "@12.5% | Tax paid | Losses carried fwd (ST / LT) |",
+          "|---|---|---:|---:|---:|---:|"]
+    for t in fr.tax_rows:
+        A.append(f"| {t['fy']} | {t['paid_on']} | "
+                 f"₹{t['st_taxable']:,.2f} | ₹{t['lt_taxable']:,.2f} | "
+                 f"₹{t['tax']:,.4f} | ₹{t['cf_st']:,.2f} / "
+                 f"₹{t['cf_lt']:,.2f} |")
+    A += [f"| FY2027 (accrued, due next April) | — | "
+          f"₹{accrued['st_taxable']:,.2f} | "
+          f"₹{accrued['lt_taxable']:,.2f} | ₹{accrued['tax']:,.4f} | "
+          f"₹{accrued['cf_st']:,.2f} / ₹{accrued['cf_lt']:,.2f} |", ""]
+
+    gross_yearly = {r["year"]: r for r in _yearly(gross["equity_curve"])}
+    A += ["## Calendar-year equity — net of costs and taxes", "",
+          "| Year (through) | Net equity (₹) | Net return | "
+          "Gross return |" + (" Nifty 50 |" if nifty else ""),
+          "|---|---:|---:|---:|" + ("---:|" if nifty else "")]
     prev_n = n0
     for r in _yearly(curve):
+        g = gross_yearly.get(r["year"])
         line = (f"| {r['year']} ({r['through']}) | {r['equity']:,.2f} | "
-                f"{r['ret_pct']:+.1f}% |")
+                f"{r['ret_pct']:+.1f}% | "
+                f"{g['ret_pct']:+.1f}% |" if g else
+                f"| {r['year']} ({r['through']}) | {r['equity']:,.2f} | "
+                f"{r['ret_pct']:+.1f}% | — |")
         if nifty:
             n_now = nifty_by_date.get(r["through"]) or next(
                 (c for d0, c in reversed(nifty) if d0 <= r["through"]), None)
@@ -379,8 +440,16 @@ def main() -> None:
     print(f"{len(bars_by)} symbols loaded", file=sys.stderr)
     through = max(b[-1]["date"] for b in bars_by.values())
 
+    earnings_ok = make_earnings_ok()
+    print("gross replay (no costs, no taxes)…", file=sys.stderr)
+    gross = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
+                           earnings_ok, slots=SLOTS)
+    print(f"gross: ₹{gross['final_equity']:,.2f}", file=sys.stderr)
+    print("net replay (Angel One charges on every order, capital-gains "
+          "tax every 1 April)…", file=sys.stderr)
+    fr = FR.AngelOneFrictions()
     res = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
-                         make_earnings_ok(), slots=SLOTS)
+                         earnings_ok, slots=SLOTS, frictions=fr)
     try:
         nifty = fetch_nifty(dt.date.fromisoformat(SCREEN_START), end)
     except Exception as e:                # noqa: BLE001 — benchmark only
@@ -388,10 +457,13 @@ def main() -> None:
               f"benchmark", file=sys.stderr)
         nifty = []
 
-    report = write_report(res, args, through, nifty, archive, len(bars_by))
+    report = write_report(res, gross, fr, args, through, nifty, archive,
+                          len(bars_by))
     print(f"report: {report}")
-    print(f"final equity: ₹{res['final_equity']:,.2f} "
-          f"(cash ₹{res['cash']:,.2f} + {len(res['book'])} open positions)")
+    print(f"final equity NET of costs and taxes: "
+          f"₹{res['final_equity']:,.2f} (cash ₹{res['cash']:,.2f} + "
+          f"{len(res['book'])} open positions); gross was "
+          f"₹{gross['final_equity']:,.2f}")
 
 
 if __name__ == "__main__":
