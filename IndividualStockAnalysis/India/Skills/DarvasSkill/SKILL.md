@@ -29,6 +29,11 @@ license: internal
    Tiers: ≥3× *multifold*, ≥2× *strong*, ≥1.5× *elevated*. The report
    lists EVERY qualifier in order with the last four weeks of volume
    beside the 12-week average, and deep-dives the top 25 by default.
+   Each deep dive also judges the MONTHLY volume trend from the same
+   daily bars — **BUILDING** (rose month over month for ≥2 complete
+   months: buying pressure accumulating), **STEPPED UP**, or **SPIKE
+   ONLY** (flat months, one-week event); the running month is shown but
+   never argued from.
 
 2. **Earnings power + new-age industries.** For each qualifier: EBITDA
    ("Operating Profit"; "Financing Profit" for lenders), EBITDA margin,
@@ -39,12 +44,16 @@ license: internal
    cached per transcript content + model. A BUY on falling earnings is
    downgraded to WATCH, and says so.
 
-3. **Box theory.** Darvas's own definition on daily bars: a top is a
-   high that stands unbroken for three sessions; then a bottom is a low
-   undercut-free for three sessions; together they seal a box. Every
-   stock gets its **own box height** measured from its own prices —
-   nothing assumes a fixed 5/10/15% range; the report states each
-   stock's measured range.
+3. **Box theory.** Darvas's own definition on DAILY bars over the full
+   six months of fetched history: a top is a high that stands unbroken
+   for three sessions; then a bottom is a low undercut-free for three
+   sessions; together they seal a box. Every stock gets its **own box
+   height** measured from its own prices — nothing assumes a fixed
+   5/10/15% range — and the report draws the COMPLETE six-month ladder
+   of sealed boxes. (Measured on live picks: extending the window to 12
+   months left the current box — the buy point and the stop — identical
+   in 25 of 25 cases, so six months is the window; three months would
+   genuinely distort the edges.)
 
 4. **Accumulation.** A close above the box top on trigger volume = BUY
    (reaching for the higher box). A stock that sealed a higher box after
@@ -69,7 +78,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 32 tests
+python3 -m pytest scripts/test_skill.py -q     # 39 tests
 ```
 
 ## Data and outputs
@@ -85,11 +94,13 @@ python3 -m pytest scripts/test_skill.py -q     # 32 tests
 ## Pictures
 
 Text-drawn (GitHub strips inline SVG — established empirically in this
-repository), so they render everywhere: a weekly volume-bar chart with
-the close and week-on-week move beside every bar and the trigger week
-marked, and a box ladder showing each sealed box's edges with dates, the
-stock's own box height, the stop and the buy point — every picture
-carries its exact numbers.
+repository), so they render everywhere: a COMBINED chart per pick — the
+weekly close as a line over the weekly volume as bars on the same week
+axis, so a genuine surge shows as the price stepping up exactly where a
+volume bar towers — plus a month-wise volume table with the trend
+verdict, and the full six-month box ladder with each sealed box's edges
+and dates, the stock's own box height, the stop and the buy point.
+Every picture carries its exact numbers.
 
 ## Honest limitations
 

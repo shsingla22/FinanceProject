@@ -409,3 +409,87 @@ def test_weekly_chart_labels_a_partial_trigger_week():
                    partial_last=True, last_days=3)
     ch = CH.weekly_chart(weeks)
     assert "partial: 3 days so far" in ch
+
+
+# ------------------------------------ monthly trend + the combined picture
+
+def _daily_months(vol_by_month):
+    """[(month 1-12, per-day volume)] -> daily rows, ~20 bars per month."""
+    out = []
+    for m, v in vol_by_month:
+        for day in range(1, 21):
+            out.append({"date": f"2026-{m:02d}-{day:02d}", "high": 11.0,
+                        "low": 9.0, "close": 10.0, "volume": v})
+    return out
+
+
+def test_monthly_volumes_flag_the_running_month():
+    months = DV.monthly_volumes(_daily_months([(4, 100), (5, 100),
+                                               (6, 100), (7, 100)]))
+    assert [m["month"] for m in months] == ["2026-04", "2026-05",
+                                            "2026-06", "2026-07"]
+    assert months[-1]["complete"] is False and all(
+        m["complete"] for m in months[:-1])
+    assert months[0]["volume"] == 100 * 20
+
+
+def test_building_volume_is_called_building():
+    months = DV.monthly_volumes(_daily_months(
+        [(3, 100), (4, 100), (5, 120), (6, 150), (7, 200), (8, 260),
+         (9, 300)]))
+    t = DV.monthly_trend(months)
+    assert t["verdict"] == "BUILDING"
+    assert t["rising_months"] >= 3
+    assert "building" in t["why"]
+
+
+def test_flat_months_before_a_surge_are_spike_only():
+    months = DV.monthly_volumes(_daily_months(
+        [(3, 100), (4, 100), (5, 100), (6, 100), (7, 100), (8, 100),
+         (9, 900)]))                     # the surge sits in the RUNNING month
+    t = DV.monthly_trend(months)
+    assert t["verdict"] == "SPIKE ONLY"
+
+
+def test_the_running_month_never_drives_the_trend():
+    """A monster running month must not print BUILDING on its own."""
+    flat = DV.monthly_trend(DV.monthly_volumes(_daily_months(
+        [(4, 100), (5, 100), (6, 100), (7, 100), (8, 100), (9, 9000)])))
+    assert flat["verdict"] == "SPIKE ONLY"
+
+
+def test_price_volume_chart_carries_both_panels_and_exact_numbers():
+    weeks = _weeks([100_000] * 12 + [400_000],
+                   [50] * 10 + [52, 53, 58])
+    ch = CH.price_volume_chart(weeks)
+    assert "●" in ch and "█" in ch          # price line AND volume bars
+    assert "₹58" in ch                      # top price labelled
+    assert "₹50" in ch                      # bottom price labelled
+    assert "4.00 L" in ch                   # peak volume labelled
+    assert "close ₹58.0" in ch              # the exact latest numbers
+    price_part, vol_part = ch.split("┼")
+    assert "●" in price_part and "●" not in vol_part
+    assert "█" in vol_part and "█" not in price_part
+
+
+def test_price_volume_chart_labels_a_partial_latest_week():
+    weeks = _weeks([100_000] * 12 + [200_000], [50] * 13,
+                   partial_last=True, last_days=2)
+    assert "partial: 2 days so far" in CH.price_volume_chart(weeks)
+
+
+def test_box_picture_shows_the_full_ladder():
+    seq = (
+        [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+        + [(58, 54, 57)] + [(62, 57, 60)]
+        + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]
+        + [(60, 56, 58), (61, 57, 59), (60, 57, 59)]
+        + [(64, 61, 63)] + [(68, 63, 66)]
+        + [(67, 63, 65), (66, 62, 64), (67, 63, 66)]
+        + [(66, 62, 64), (67, 63, 65), (66, 63, 65)]
+    )
+    st = DV.find_boxes(_bars(seq))
+    assert len(st["boxes"]) >= 3
+    pic = CH.box_picture(st, DV.recommend(st, {}))
+    for b in st["boxes"]:                   # EVERY sealed box on the ladder
+        assert f"{b['top']:,.2f}" in pic

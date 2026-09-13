@@ -52,6 +52,8 @@ def deep_dive(sym: str, weekly, daily, signal, ai: bool) -> dict:
     rec["last_close"] = box_state.get("last_close")
     power = EP.earnings_power(sym)
     calls = EP.new_age_verdict(sym, allow_ai=ai)
+    months = DV.monthly_volumes(daily[sym])
+    mtrend = DV.monthly_trend(months)
     # Darvas demanded earnings power under the volume: a surge on falling
     # earnings is not his trade — the action is downgraded, and says so.
     if rec["action"] in ("BUY", "ACCUMULATE") and power["verdict"] == "FALLING":
@@ -60,7 +62,8 @@ def deep_dive(sym: str, weekly, daily, signal, ai: bool) -> dict:
                        "falling earnings power, and Darvas required rising "
                        "earnings under the volume")
     return {"signal": signal, "box_state": box_state, "rec": rec,
-            "power": power, "calls": calls}
+            "power": power, "calls": calls,
+            "months": months, "mtrend": mtrend}
 
 
 # --------------------------------------------------------------- rendering
@@ -143,10 +146,13 @@ def render_report(scan, dives, meta) -> str:
     A.append("## The recommendations")
     A.append("")
     A.append("| Stock | Action | Box (₹) | Own box height | Stop loss | "
-             "Earnings power | New-age |")
-    A.append("|---|---|---|---:|---:|---|---|")
+             "Volume trend | Earnings power | New-age |")
+    A.append("|---|---|---|---:|---:|---|---|---|")
     for d in dives:
         r, p, c = d["rec"], d["power"], d["calls"]
+        mt = d["mtrend"]["verdict"]
+        if d["mtrend"].get("rising_months", 0) >= 2:
+            mt += f" ({d['mtrend']['rising_months']} mo)"
         box = (f"{r['box_bottom']:,.1f}–{r['box_top']:,.1f}"
                if r.get("box_top") else "forming")
         rng = (f"{r['box_range_pct']:.1f}%" if r.get("box_range_pct")
@@ -154,7 +160,8 @@ def render_report(scan, dives, meta) -> str:
         stop = _md_money(r.get("stop_loss")) if r["action"] != "SELL" \
             else "exit"
         A.append(f"| {r['symbol']} | **{r['action']}** | {box} | {rng} | "
-                 f"{stop} | {p['verdict']} | {c.get('new_age', '—')} |")
+                 f"{stop} | {mt} | {p['verdict']} | "
+                 f"{c.get('new_age', '—')} |")
     A.append("")
 
     # ---- per-stock deep dives
@@ -178,9 +185,15 @@ def render_report(scan, dives, meta) -> str:
                  f"({s['tier'] or 'below tier'}), with the price "
                  f"{s['price_change_pct']:+.2f}% on the week.")
         A.append("")
-        A.append("### Volume and price, week by week")
+        A.append("### Price and volume together, week by week")
         A.append("")
-        A.append(CH.weekly_chart(d["weekly_rows"]))
+        A.append(CH.price_volume_chart(d["weekly_rows"]))
+        A.append("")
+        A.append("### Is the volume building, or a one-week event?")
+        A.append("")
+        A.append(f"**{d['mtrend']['verdict']}** — {d['mtrend']['why']}.")
+        A.append("")
+        A.append(CH.monthly_volume_table(d["months"]))
         A.append("")
         A.append("### The boxes")
         A.append("")
@@ -258,6 +271,10 @@ def render_report(scan, dives, meta) -> str:
     A.append(f"- **Stops:** bottom − {DV.STOP_FRACTION} × box height, "
              f"ratcheted up only (a 50–55 box stops near 48.5, a 70–85 "
              f"box near 65.5 — the worked examples of the method).")
+    A.append("- **Volume trend:** month-wise totals from the same daily "
+             "bars; BUILDING = volume rose month over month for at least "
+             "the last two complete months; the running month is shown "
+             "but never argued from.")
     A.append("- **Earnings power:** EBITDA, EBITDA margin, PAT and PAT "
              "margin from the stored statements; the new-age read comes "
              "from the conference calls via the judge model and is "

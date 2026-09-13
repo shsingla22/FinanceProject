@@ -1,6 +1,6 @@
 # The Darvas Screen — NiftyTotalMarket
 
-*Run 2026-09-12 on data fetched 2026-09-12T10:19:34+00:00 · 741 stocks scanned (741 fetched, 1 unavailable) · trigger week beginning 2026-09-07.*
+*Run 2026-09-13 on data fetched 2026-09-13T06:58:36+00:00 · 741 stocks scanned (741 fetched, 1 unavailable) · trigger week beginning 2026-09-07.*
 
 **The method, in one line:** a surge in weekly volume with the price appreciating is the trigger; rising earnings power (ideally in a new-age industry) is the confirmation; the stock's own boxes give the buy point, the add point and the stop; a drop to a lower box is the exit.
 
@@ -66,33 +66,33 @@ The top 25 go on to the earnings and box steps below.
 
 ## The recommendations
 
-| Stock | Action | Box (₹) | Own box height | Stop loss | Earnings power | New-age |
-|---|---|---|---:|---:|---|---|
-| AWFIS | **WATCH** | forming | — | — | FLAT | no |
-| SWANCORP | **SELL** | 304.0–317.2 | 4.3% | exit | FALLING | not assessed |
-| WESTLIFE | **WATCH** | 523.0–582.0 | 11.3% | ₹505.30 | FLAT | no |
-| MIDHANI | **BUY** | 413.1–456.6 | 10.5% | ₹399.99 | RISING | yes |
-| GRAPHITE | **WATCH** | 713.0–755.5 | 6.0% | ₹700.19 | FALLING | not assessed |
-| SHAREINDIA | **WATCH** | 167.2–178.8 | 7.0% | ₹163.70 | FALLING | no |
-| TATAINVEST | **SELL** | 624.9–656.4 | 5.0% | exit | RISING | not assessed |
-| TEGA | **WATCH** | 1,534.6–1,837.0 | 19.7% | ₹1,443.88 | FALLING | no |
-| RAYMONDLSL | **WATCH** | 628.2–711.6 | 13.3% | ₹603.23 | RISING | no |
-| ONESOURCE | **WATCH** | 1,504.1–1,551.0 | 3.1% | ₹1,490.03 | FALLING | yes |
-| PVRINOX | **SELL** | 1,192.4–1,284.5 | 7.7% | exit | RISING | no |
-| JSL | **BUY** | 726.0–741.5 | 2.1% | ₹721.35 | RISING | no |
-| CORONA | **SELL** | 2,035.0–2,270.1 | 11.6% | exit | RISING | no |
-| SAMHI | **WATCH** | 150.4–163.0 | 8.3% | ₹146.66 | FLAT | no |
-| PINELABS | **BUY** | 134.7–184.9 | 37.3% | ₹119.67 | RISING | yes |
-| ELLEN | **BUY** | 308.4–337.4 | 9.4% | ₹299.64 | FLAT | no |
-| SHAKTIPUMP | **WATCH** | 465.0–487.1 | 4.8% | ₹458.37 | FALLING | yes |
-| SFL | **WATCH** | 627.8–717.9 | 14.3% | ₹600.78 | RISING | no |
-| BLACKBUCK | **ACCUMULATE** | 570.1–641.9 | 12.6% | ₹548.56 | RISING | yes |
-| GRANULES | **ACCUMULATE** | 824.4–910.0 | 10.4% | ₹798.72 | RISING | entering |
-| HERITGFOOD | **WATCH** | 349.3–392.1 | 12.2% | ₹336.46 | FALLING | no |
-| STAR | **WATCH** | 931.3–1,019.7 | 9.5% | ₹904.78 | FALLING | no |
-| MAHSEAMLES | **WATCH** | 632.0–658.9 | 4.3% | ₹623.93 | FALLING | no |
-| ZYDUSWELL | **WATCH** | 518.1–541.5 | 4.5% | ₹511.13 | FALLING | no |
-| DBL | **WATCH** | 390.1–411.0 | 5.3% | ₹383.89 | FALLING | no |
+| Stock | Action | Box (₹) | Own box height | Stop loss | Volume trend | Earnings power | New-age |
+|---|---|---|---:|---:|---|---|---|
+| AWFIS | **WATCH** | forming | — | — | SPIKE ONLY | FLAT | no |
+| SWANCORP | **SELL** | 304.0–317.2 | 4.3% | exit | SPIKE ONLY | FALLING | not assessed |
+| WESTLIFE | **WATCH** | 523.0–582.0 | 11.3% | ₹505.30 | SPIKE ONLY | FLAT | no |
+| MIDHANI | **BUY** | 413.1–456.6 | 10.5% | ₹399.99 | STEPPED UP | RISING | yes |
+| GRAPHITE | **WATCH** | 713.0–755.5 | 6.0% | ₹700.19 | SPIKE ONLY | FALLING | not assessed |
+| SHAREINDIA | **WATCH** | 167.2–178.8 | 7.0% | ₹163.70 | SPIKE ONLY | FALLING | no |
+| TATAINVEST | **SELL** | 624.9–656.4 | 5.0% | exit | SPIKE ONLY | RISING | not assessed |
+| TEGA | **WATCH** | 1,534.6–1,837.0 | 19.7% | ₹1,443.88 | STEPPED UP | FALLING | no |
+| RAYMONDLSL | **WATCH** | 628.2–711.6 | 13.3% | ₹603.23 | SPIKE ONLY | RISING | no |
+| ONESOURCE | **WATCH** | 1,504.1–1,551.0 | 3.1% | ₹1,490.03 | SPIKE ONLY | FALLING | yes |
+| PVRINOX | **SELL** | 1,192.4–1,284.5 | 7.7% | exit | SPIKE ONLY | RISING | no |
+| JSL | **BUY** | 726.0–741.5 | 2.1% | ₹721.35 | SPIKE ONLY | RISING | no |
+| CORONA | **SELL** | 2,035.0–2,270.1 | 11.6% | exit | SPIKE ONLY | RISING | no |
+| SAMHI | **WATCH** | 150.4–163.0 | 8.3% | ₹146.66 | SPIKE ONLY | FLAT | no |
+| PINELABS | **BUY** | 134.7–184.9 | 37.3% | ₹119.67 | STEPPED UP | RISING | yes |
+| ELLEN | **BUY** | 308.4–337.4 | 9.4% | ₹299.64 | BUILDING (2 mo) | FLAT | no |
+| SHAKTIPUMP | **WATCH** | 465.0–487.1 | 4.8% | ₹458.37 | SPIKE ONLY | FALLING | yes |
+| SFL | **WATCH** | 627.8–717.9 | 14.3% | ₹600.78 | SPIKE ONLY | RISING | no |
+| BLACKBUCK | **ACCUMULATE** | 570.1–641.9 | 12.6% | ₹548.56 | BUILDING (2 mo) | RISING | yes |
+| GRANULES | **ACCUMULATE** | 824.4–910.0 | 10.4% | ₹798.72 | SPIKE ONLY | RISING | entering |
+| HERITGFOOD | **WATCH** | 349.3–392.1 | 12.2% | ₹336.46 | SPIKE ONLY | FALLING | no |
+| STAR | **WATCH** | 931.3–1,019.7 | 9.5% | ₹904.78 | BUILDING (2 mo) | FALLING | no |
+| MAHSEAMLES | **WATCH** | 632.0–658.9 | 4.3% | ₹623.93 | STEPPED UP | FALLING | no |
+| ZYDUSWELL | **WATCH** | 518.1–541.5 | 4.5% | ₹511.13 | SPIKE ONLY | FALLING | no |
+| DBL | **WATCH** | 390.1–411.0 | 5.3% | ₹383.89 | SPIKE ONLY | FALLING | no |
 
 ## AWFIS — WATCH
 
@@ -100,24 +100,41 @@ The top 25 go on to the earnings and box steps below.
 
 **The trigger numbers:** 24,863,776 shares traded in the week of 2026-09-07 against a 12-week average of 1,276,564 — **19.48× normal** (multifold), with the price +12.42% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  █                             12.48 L  ₹    304.1          
-2026-06-22  █                             10.34 L  ₹    304.9   ▲ +0.2%
-2026-06-29  ██                            15.94 L  ₹    301.4   ▼ -1.1%
-2026-07-06  █                             13.85 L  ₹    303.2   ▲ +0.6%
-2026-07-13  █                             12.58 L  ₹    288.3   ▼ -4.9%
-2026-07-20  █                              7.67 L  ₹    271.9   ▼ -5.7%
-2026-07-27  █                             13.09 L  ₹    278.1   ▲ +2.3%
-2026-08-03  █                              8.45 L  ₹    271.6   ▼ -2.3%
-2026-08-10  ██                            16.06 L  ₹    266.6   ▼ -1.9%
-2026-08-17  █                              7.26 L  ₹    268.2   ▲ +0.6%
-2026-08-24  ██                            23.83 L  ₹    253.2   ▼ -5.6%
-2026-08-31  █                             11.62 L  ₹    260.8   ▲ +3.0%
-2026-09-07  ██████████████████████████    2.49 Cr  ₹    293.2  ▲ +12.4%  ◀ trigger week
+         │ 
+    ₹305 │  ●  ●  ●  ●
+         │             ╲                        ●
+         │              ●                      ╱
+         │                ╲   ●                ╱
+         │                 ●     ●     ●       ╱
+         │                          ●    ╲   ●
+    ₹253 │                                ●
+         │ 
+         ┼───────────────────────────────────────
+ 2.49 Cr │                                      █
+         │                                      █
+         │                                      █
+         │                                      █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 2.49 Cr, close ₹293.2
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 10,910,680 |  |  |
+| 2026-04 | 10,389,709 | ▬ -5% |  |
+| 2026-05 | 10,476,774 | ▬ +1% |  |
+| 2026-06 | 5,942,049 | ▼ -43% |  |
+| 2026-07 | 5,842,472 | ▬ -2% |  |
+| 2026-08 | 5,993,287 | ▬ +3% |  |
+| 2026-09 | 25,593,111 | ▲ +327% | partial — 9 days |
 
 ### The boxes
 
@@ -134,6 +151,18 @@ Week of      volume                      close     w/w
 ┌ ₹   316.65 ─ top    (2026-06-15)
 │   box height 5.9%
 └ ₹   299.00 ─ bottom (2026-06-17)  broke DOWN — red flag
+┌ ₹   395.00 ─ top    (2026-05-11)
+│   box height 28.0%
+└ ₹   308.70 ─ bottom (2026-05-18)  broke DOWN — red flag
+┌ ₹   378.40 ─ top    (2026-04-15)
+│   box height 10.9%
+└ ₹   341.20 ─ bottom (2026-04-22)  broke UP
+┌ ₹   271.85 ─ top    (2026-03-25)
+│   box height 18.7%
+└ ₹   229.05 ─ bottom (2026-03-30)  broke UP
+┌ ₹   292.35 ─ top    (2026-03-12)
+│   box height 14.4%
+└ ₹   255.65 ─ bottom (2026-03-16)  broke DOWN — red flag
 ```
 
 ### Earnings power (step 2)
@@ -156,24 +185,41 @@ Week of      volume                      close     w/w
 
 **The trigger numbers:** 61,545,352 shares traded in the week of 2026-09-07 against a 12-week average of 4,872,261 — **12.63× normal** (multifold), with the price +5.31% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ██                            40.87 L  ₹    318.2          
-2026-06-22  █████                         1.07 Cr  ₹    318.2   ▬ +0.0%
-2026-06-29  █                             20.50 L  ₹    310.9   ▼ -2.3%
-2026-07-06  █████                         1.08 Cr  ₹    319.2   ▲ +2.7%
-2026-07-13  █                             24.74 L  ₹    310.6   ▼ -2.7%
-2026-07-20  █                             33.63 L  ₹    310.3   ▬ -0.1%
-2026-07-27  ██                            39.18 L  ₹    307.8   ▼ -0.8%
-2026-08-03  █                             35.34 L  ₹    308.1   ▬ +0.1%
-2026-08-10  ██                            56.96 L  ₹    304.6   ▼ -1.1%
-2026-08-17  ██                            37.11 L  ₹    303.9   ▼ -0.2%
-2026-08-24  ██                            41.19 L  ₹    298.1   ▼ -1.9%
-2026-08-31  ██                            40.87 L  ₹    281.5   ▼ -5.6%
-2026-09-07  ██████████████████████████    6.15 Cr  ₹    296.4   ▲ +5.3%  ◀ trigger week
+         │ 
+    ₹319 │  ●  ●     ●
+         │        ●     ●  ●
+         │                    ●  ●  ●  ●
+         │                                ●
+         │                                  ╲   ●
+         │                                  ╲  ╱
+    ₹282 │                                   ●
+         │ 
+         ┼───────────────────────────────────────
+ 6.15 Cr │                                      █
+         │                                      █
+         │                                      █
+         │     █     █                          █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 6.15 Cr, close ₹296.4
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 20,171,503 |  |  |
+| 2026-04 | 42,643,769 | ▲ +111% |  |
+| 2026-05 | 16,269,685 | ▼ -62% |  |
+| 2026-06 | 22,252,203 | ▲ +37% |  |
+| 2026-07 | 21,819,872 | ▬ -2% |  |
+| 2026-08 | 17,815,491 | ▼ -18% |  |
+| 2026-09 | 64,876,588 | ▲ +264% | partial — 9 days |
 
 ### The boxes
 
@@ -190,6 +236,12 @@ Week of      volume                      close     w/w
 ┌ ₹   382.15 ─ top    (2026-04-16)
 │   box height 16.9%
 └ ₹   327.00 ─ bottom (2026-04-24)  broke DOWN — red flag
+┌ ₹   326.00 ─ top    (2026-04-01)
+│   box height 8.3%
+└ ₹   300.95 ─ bottom (2026-04-02)  broke UP
+┌ ₹   368.95 ─ top    (2026-03-12)
+│   box height 21.5%
+└ ₹   303.75 ─ bottom (2026-03-23)  broke DOWN — red flag
   ✂ ₹   300.04 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -214,24 +266,41 @@ This stock's own box height is **4.3%** — box edges are taken from its actual 
 
 **The trigger numbers:** 7,832,472 shares traded in the week of 2026-09-07 against a 12-week average of 825,479 — **9.49× normal** (multifold), with the price +7.35% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ██                             6.00 L  ₹    467.1          
-2026-06-22  █                              4.14 L  ₹    486.3   ▲ +4.1%
-2026-06-29  █                              4.31 L  ₹    507.8   ▲ +4.4%
-2026-07-06  █                              1.76 L  ₹    507.6   ▬ -0.0%
-2026-07-13  █                              1.61 L  ₹    459.1   ▼ -9.6%
-2026-07-20  ████████████                  35.26 L  ₹    459.1   ▬ +0.0%
-2026-07-27  ████                          12.14 L  ₹    507.1  ▲ +10.4%
-2026-08-03  █████                         15.01 L  ₹    594.9  ▲ +17.3%
-2026-08-10  ██                             4.66 L  ₹    582.9   ▼ -2.0%
-2026-08-17  ███                            8.21 L  ₹    588.1   ▲ +0.9%
-2026-08-24  █                              3.14 L  ₹    555.8   ▼ -5.5%
-2026-08-31  █                              2.81 L  ₹    530.6   ▼ -4.5%
-2026-09-07  ██████████████████████████    78.32 L  ₹    569.6   ▲ +7.4%  ◀ trigger week
+         │ 
+    ₹595 │                       ●  ●  ●
+         │                      ╱        ╲      ●
+         │                      ╱         ●    ╱
+         │                      ╱            ●
+         │        ●  ●        ●
+         │     ●       ╲     ╱
+    ₹459 │  ●           ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 78.32 L │                                      █
+         │                                      █
+         │                 █                    █
+         │                 █  █  █              █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 78.32 L, close ₹569.6
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 2,918,878 |  |  |
+| 2026-04 | 2,816,919 | ▬ -3% |  |
+| 2026-05 | 2,446,503 | ▼ -13% |  |
+| 2026-06 | 1,766,228 | ▼ -28% |  |
+| 2026-07 | 5,278,672 | ▲ +199% |  |
+| 2026-08 | 3,214,438 | ▼ -39% |  |
+| 2026-09 | 8,001,623 | ▲ +149% | partial — 8 days |
 
 ### The boxes
 
@@ -248,6 +317,24 @@ Week of      volume                      close     w/w
 ┌ ₹   512.40 ─ top    (2026-07-08)
 │   box height 15.5%
 └ ₹   443.75 ─ bottom (2026-07-20)  broke UP
+┌ ₹   501.85 ─ top    (2026-06-23)
+│   box height 7.4%
+└ ₹   467.45 ─ bottom (2026-06-30)  broke UP
+┌ ₹   482.40 ─ top    (2026-06-16)
+│   box height 6.5%
+└ ₹   453.15 ─ bottom (2026-06-17)  broke UP
+┌ ₹   451.90 ─ top    (2026-06-01)
+│   box height 10.0%
+└ ₹   410.70 ─ bottom (2026-06-03)  broke UP
+┌ ₹   513.90 ─ top    (2026-05-12)
+│   box height 12.9%
+└ ₹   455.00 ─ bottom (2026-05-18)  broke DOWN — red flag
+┌ ₹   496.85 ─ top    (2026-03-30)
+│   box height 11.9%
+└ ₹   444.00 ─ bottom (2026-04-07)  broke UP
+┌ ₹   499.00 ─ top    (2026-03-11)
+│   box height 16.9%
+└ ₹   426.85 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   505.30 ─ stop loss (bottom − 0.3 × box height)
   ▲ ₹   582.00 ─ buy on a close above the box top
 ```
@@ -274,24 +361,41 @@ This stock's own box height is **11.3%** — box edges are taken from its actual
 
 **The trigger numbers:** 46,791,239 shares traded in the week of 2026-09-07 against a 12-week average of 5,119,190 — **9.14× normal** (multifold), with the price +6.83% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ███                           60.08 L  ₹    437.0          
-2026-06-22  ██                            34.30 L  ₹    413.1   ▼ -5.5%
-2026-06-29  ██                            30.69 L  ₹    427.9   ▲ +3.6%
-2026-07-06  ██                            33.07 L  ₹    415.9   ▼ -2.8%
-2026-07-13  █                             25.38 L  ₹    408.0   ▼ -1.9%
-2026-07-20  █                             18.85 L  ₹    392.7   ▼ -3.8%
-2026-07-27  █                             11.37 L  ₹    396.0   ▲ +0.8%
-2026-08-03  ███                           48.33 L  ₹    435.1   ▲ +9.9%
-2026-08-10  █████████████                 2.40 Cr  ₹    416.7   ▼ -4.2%
-2026-08-17  ███                           56.93 L  ₹    423.9   ▲ +1.7%
-2026-08-24  ██                            28.47 L  ₹    417.8   ▼ -1.5%
-2026-08-31  █                             26.38 L  ₹    418.8   ▲ +0.3%
-2026-09-07  ██████████████████████████    4.68 Cr  ₹    447.4   ▲ +6.8%  ◀ trigger week
+         │ 
+    ₹447 │                                      ●
+         │  ●                    ●             ╱
+         │    ╲   ●             ╱  ╲           ╱
+         │    ╲  ╱  ╲           ╱   ●  ●  ●  ●
+         │     ●     ●          ╱
+         │              ●       ╱
+    ₹393 │                 ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 4.68 Cr │                                      █
+         │                                      █
+         │                          █           █
+         │  █                       █           █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 4.68 Cr, close ₹447.4
 ```
+
+### Is the volume building, or a one-week event?
+
+**STEPPED UP** — the last complete month traded well above the months before it.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 7,906,961 |  |  |
+| 2026-04 | 23,612,756 | ▲ +199% |  |
+| 2026-05 | 27,235,223 | ▲ +15% |  |
+| 2026-06 | 32,158,565 | ▲ +18% |  |
+| 2026-07 | 10,503,345 | ▼ -67% |  |
+| 2026-08 | 37,838,863 | ▲ +260% |  |
+| 2026-09 | 49,008,811 | ▲ +30% | partial — 8 days |
 
 ### The boxes
 
@@ -308,6 +412,21 @@ Week of      volume                      close     w/w
 ┌ ₹   454.80 ─ top    (2026-06-10)
 │   box height 8.2%
 └ ₹   420.20 ─ bottom (2026-06-11)  broke DOWN — red flag
+┌ ₹   438.70 ─ top    (2026-05-08)
+│   box height 13.2%
+└ ₹   387.45 ─ bottom (2026-05-12)  broke UP
+┌ ₹   402.70 ─ top    (2026-04-29)
+│   box height 5.0%
+└ ₹   383.50 ─ bottom (2026-04-30)  broke UP
+┌ ₹   395.45 ─ top    (2026-04-20)
+│   box height 6.7%
+└ ₹   370.55 ─ bottom (2026-04-24)  broke UP
+┌ ₹   312.80 ─ top    (2026-03-25)
+│   box height 17.3%
+└ ₹   266.65 ─ bottom (2026-03-30)  broke UP
+┌ ₹   348.40 ─ top    (2026-03-11)
+│   box height 16.8%
+└ ₹   298.40 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   399.99 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -333,24 +452,41 @@ This stock's own box height is **10.5%** — box edges are taken from its actual
 
 **The trigger numbers:** 53,002,411 shares traded in the week of 2026-09-07 against a 12-week average of 6,207,663 — **8.54× normal** (multifold), with the price +12.57% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ██                            32.33 L  ₹    639.5          
-2026-06-22  ██                            34.78 L  ₹    605.8   ▼ -5.3%
-2026-06-29  █                             25.95 L  ₹    627.8   ▲ +3.6%
-2026-07-06  ███                           57.10 L  ₹    612.6   ▼ -2.4%
-2026-07-13  ███                           60.19 L  ₹    644.6   ▲ +5.2%
-2026-07-20  ██████                        1.22 Cr  ₹    672.8   ▲ +4.4%
-2026-07-27  ██                            38.75 L  ₹    656.4   ▼ -2.4%
-2026-08-03  ████████                      1.62 Cr  ₹    710.0   ▲ +8.2%
-2026-08-10  ██                            46.94 L  ₹    721.6   ▲ +1.6%
-2026-08-17  ██                            31.44 L  ₹    710.8   ▼ -1.5%
-2026-08-24  ██                            34.18 L  ₹    696.0   ▼ -2.1%
-2026-08-31  █████                         99.61 L  ₹    733.6   ▲ +5.4%
-2026-09-07  ██████████████████████████    5.30 Cr  ₹    825.8  ▲ +12.6%  ◀ trigger week
+         │ 
+    ₹826 │                                      ●
+         │                                     ╱
+         │                                   ●
+         │                       ●  ●  ●    ╱
+         │                 ●    ╱         ●
+         │  ●           ●     ●
+    ₹606 │     ●  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 5.30 Cr │                                      █
+         │                                      █
+         │                                      █
+         │                 █     █           █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 5.30 Cr, close ₹825.8
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 28,805,827 |  |  |
+| 2026-04 | 42,337,303 | ▲ +47% |  |
+| 2026-05 | 34,389,793 | ▼ -19% |  |
+| 2026-06 | 16,508,750 | ▼ -52% |  |
+| 2026-07 | 29,070,427 | ▲ +76% |  |
+| 2026-08 | 28,260,563 | ▬ -3% |  |
+| 2026-09 | 62,110,944 | ▲ +120% | partial — 8 days |
 
 ### The boxes
 
@@ -367,6 +503,27 @@ Week of      volume                      close     w/w
 ┌ ₹   665.90 ─ top    (2026-07-16)
 │   box height 7.7%
 └ ₹   618.60 ─ bottom (2026-07-23)  broke UP
+┌ ₹   645.00 ─ top    (2026-07-06)
+│   box height 13.2%
+└ ₹   570.00 ─ bottom (2026-07-09)  broke UP
+┌ ₹   739.40 ─ top    (2026-06-03)
+│   box height 19.1%
+└ ₹   620.60 ─ bottom (2026-06-11)  broke DOWN — red flag
+┌ ₹   802.40 ─ top    (2026-05-15)
+│   box height 10.3%
+└ ₹   727.45 ─ bottom (2026-05-20)  broke DOWN — red flag
+┌ ₹   764.70 ─ top    (2026-05-08)
+│   box height 7.4%
+└ ₹   712.05 ─ bottom (2026-05-12)  broke UP
+┌ ₹   760.00 ─ top    (2026-04-20)
+│   box height 6.9%
+└ ₹   711.20 ─ bottom (2026-04-21)  broke DOWN — red flag
+┌ ₹   659.85 ─ top    (2026-03-27)
+│   box height 8.0%
+└ ₹   611.20 ─ bottom (2026-03-30)  broke UP
+┌ ₹   673.65 ─ top    (2026-03-11)
+│   box height 13.9%
+└ ₹   591.50 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   700.19 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -391,24 +548,41 @@ This stock's own box height is **6.0%** — box edges are taken from its actual 
 
 **The trigger numbers:** 102,874,070 shares traded in the week of 2026-09-07 against a 12-week average of 16,216,599 — **6.34× normal** (multifold), with the price +16.67% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  █                             16.78 L  ₹    138.9          
-2026-06-22  █                             10.30 L  ₹    135.2   ▼ -2.7%
-2026-06-29  █                             16.20 L  ₹    138.6   ▲ +2.5%
-2026-07-06  ██████████████████████████   15.49 Cr  ₹    179.3  ▲ +29.4%
-2026-07-13  ██                            1.21 Cr  ₹    177.2   ▼ -1.2%
-2026-07-20  ██                            1.01 Cr  ₹    191.6   ▲ +8.1%
-2026-07-27  █                             46.41 L  ₹    178.5   ▼ -6.8%
-2026-08-03  █                             26.59 L  ₹    168.4   ▼ -5.6%
-2026-08-10  █                             18.19 L  ₹    174.5   ▲ +3.6%
-2026-08-17  █                             20.56 L  ₹    174.1   ▬ -0.2%
-2026-08-24  █                              7.71 L  ₹    167.9   ▼ -3.6%
-2026-08-31  █                             12.61 L  ₹    170.5   ▲ +1.5%
-2026-09-07  █████████████████            10.29 Cr  ₹    198.9  ▲ +16.7%  ◀ trigger week
+         │ 
+    ₹199 │                 ●                    ●
+         │                ╱  ╲                 ╱
+         │           ●  ●     ●     ●  ●       ╱
+         │          ╱            ●        ●  ●
+         │          ╱
+         │          ╱
+    ₹135 │  ●  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+15.49 Cr │           █
+         │           █                          █
+         │           █                          █
+         │           █                          █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 10.29 Cr, close ₹198.9
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 11,954,217 |  |  |
+| 2026-04 | 12,178,852 | ▬ +2% |  |
+| 2026-05 | 11,427,383 | ▼ -6% |  |
+| 2026-06 | 7,590,040 | ▼ -34% |  |
+| 2026-07 | 182,312,482 | ▲ +2302% |  |
+| 2026-08 | 7,803,097 | ▼ -96% |  |
+| 2026-09 | 103,637,038 | ▲ +1228% | partial — 8 days |
 
 ### The boxes
 
@@ -425,6 +599,9 @@ Week of      volume                      close     w/w
 ┌ ₹   152.74 ─ top    (2026-04-22)
 │   box height 12.1%
 └ ₹   136.20 ─ bottom (2026-04-30)  broke DOWN — red flag
+┌ ₹   139.50 ─ top    (2026-03-11)
+│   box height 19.2%
+└ ₹   117.01 ─ bottom (2026-03-23)  broke UP
   ✂ ₹   163.70 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -450,24 +627,41 @@ This stock's own box height is **7.0%** — box edges are taken from its actual 
 
 **The trigger numbers:** 9,087,061 shares traded in the week of 2026-09-07 against a 12-week average of 1,562,133 — **5.82× normal** (multifold), with the price +2.71% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ███████                       23.95 L  ₹    691.0          
-2026-06-22  ████                          14.56 L  ₹    678.9   ▼ -1.8%
-2026-06-29  ███                            9.76 L  ₹    667.3   ▼ -1.7%
-2026-07-06  ██████                        21.49 L  ₹    693.8   ▲ +4.0%
-2026-07-13  ███                            8.85 L  ₹    662.3   ▼ -4.5%
-2026-07-20  ██                             7.33 L  ₹    630.8   ▼ -4.8%
-2026-07-27  █████                         17.76 L  ₹    679.5   ▲ +7.7%
-2026-08-03  ████████████                  43.53 L  ₹    693.6   ▲ +2.1%
-2026-08-10  ████                          15.33 L  ₹    667.3   ▼ -3.8%
-2026-08-17  ███                            8.92 L  ₹    648.0   ▼ -2.9%
-2026-08-24  ██                             8.28 L  ₹    638.8   ▼ -1.4%
-2026-08-31  ██                             7.70 L  ₹    633.7   ▼ -0.8%
-2026-09-07  ██████████████████████████    90.87 L  ₹    650.9   ▲ +2.7%  ◀ trigger week
+         │ 
+    ₹694 │  ●        ●           ●
+         │     ●    ╱  ╲      ●    ╲
+         │        ●    ╲     ╱      ●
+         │              ●    ╱        ╲
+         │                ╲  ╱        ╲         ●
+         │                ╲  ╱         ●       ╱
+    ₹631 │                 ●              ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 90.87 L │                                      █
+         │                                      █
+         │                       █              █
+         │  █  █     █        █  █  █           █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 90.87 L, close ₹650.9
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 6,983,049 |  |  |
+| 2026-04 | 35,354,613 | ▲ +406% |  |
+| 2026-05 | 9,285,628 | ▼ -74% |  |
+| 2026-06 | 7,913,113 | ▼ -15% |  |
+| 2026-07 | 6,099,978 | ▼ -23% |  |
+| 2026-08 | 7,840,829 | ▲ +29% |  |
+| 2026-09 | 9,621,891 | ▲ +23% | partial — 9 days |
 
 ### The boxes
 
@@ -484,6 +678,18 @@ Week of      volume                      close     w/w
 ┌ ₹   657.45 ─ top    (2026-07-22)
 │   box height 5.8%
 └ ₹   621.15 ─ bottom (2026-07-24)  broke UP
+┌ ₹   704.90 ─ top    (2026-06-18)
+│   box height 6.9%
+└ ₹   659.15 ─ bottom (2026-07-08)  broke DOWN — red flag
+┌ ₹   696.75 ─ top    (2026-05-12)
+│   box height 6.8%
+└ ₹   652.15 ─ bottom (2026-05-20)  broke DOWN — red flag
+┌ ₹   737.95 ─ top    (2026-04-13)
+│   box height 5.0%
+└ ₹   702.95 ─ bottom (2026-04-16)  broke DOWN — red flag
+┌ ₹   648.20 ─ top    (2026-03-13)
+│   box height 20.3%
+└ ₹   538.85 ─ bottom (2026-03-30)  broke UP
   ✂ ₹   615.45 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -508,24 +714,41 @@ This stock's own box height is **5.0%** — box edges are taken from its actual 
 
 **The trigger numbers:** 3,099,178 shares traded in the week of 2026-09-07 against a 12-week average of 634,046 — **4.89× normal** (multifold), with the price +11.70% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ███                            3.19 L  ₹  1,794.9          
-2026-06-22  ██                             2.81 L  ₹  1,730.2   ▼ -3.6%
-2026-06-29  █                              1.72 L  ₹  1,643.8   ▼ -5.0%
-2026-07-06  ██                             2.26 L  ₹  1,669.0   ▲ +1.5%
-2026-07-13  ██                             2.43 L  ₹  1,622.2   ▼ -2.8%
-2026-07-20  ███                            3.01 L  ₹  1,560.3   ▼ -3.8%
-2026-07-27  ██████                         6.61 L  ₹  1,485.5   ▼ -4.8%
-2026-08-03  ████████                       9.99 L  ₹  1,625.7   ▲ +9.4%
-2026-08-10  ██████████████                16.77 L  ₹  1,703.8   ▲ +4.8%
-2026-08-17  ████████████                  14.79 L  ₹  1,743.2   ▲ +2.3%
-2026-08-24  ██████                         7.26 L  ₹  1,658.7   ▼ -4.8%
-2026-08-31  ████                           5.26 L  ₹  1,548.0   ▼ -6.7%
-2026-09-07  ██████████████████████████    30.99 L  ₹  1,729.1  ▲ +11.7%  ◀ trigger week
+         │ 
+  ₹1,795 │  ●
+         │     ●                       ●        ●
+         │       ╲   ●              ●    ╲     ╱
+         │        ●     ●        ●        ●    ╱
+         │                ╲     ╱           ╲  ╱
+         │                 ●    ╱            ●
+  ₹1,486 │                    ●
+         │ 
+         ┼───────────────────────────────────────
+ 30.99 L │                                      █
+         │                                      █
+         │                          █  █        █
+         │                    █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 30.99 L, close ₹1,729.1
 ```
+
+### Is the volume building, or a one-week event?
+
+**STEPPED UP** — the last complete month traded well above the months before it.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 3,072,479 |  |  |
+| 2026-04 | 847,527 | ▼ -72% |  |
+| 2026-05 | 3,049,053 | ▲ +260% |  |
+| 2026-06 | 2,959,914 | ▬ -3% |  |
+| 2026-07 | 1,541,791 | ▼ -48% |  |
+| 2026-08 | 5,064,399 | ▲ +228% |  |
+| 2026-09 | 3,441,540 | ▼ -32% | partial — 8 days |
 
 ### The boxes
 
@@ -542,6 +765,12 @@ Week of      volume                      close     w/w
 ┌ ₹ 1,894.00 ─ top    (2026-06-04)
 │   box height 12.7%
 └ ₹ 1,680.00 ─ bottom (2026-06-11)  broke DOWN — red flag
+┌ ₹ 1,642.00 ─ top    (2026-05-19)
+│   box height 4.7%
+└ ₹ 1,567.80 ─ bottom (2026-05-20)  broke UP
+┌ ₹ 1,826.40 ─ top    (2026-03-12)
+│   box height 17.0%
+└ ₹ 1,560.80 ─ bottom (2026-03-23)  broke DOWN — red flag
   ✂ ₹ 1,443.88 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -567,24 +796,41 @@ This stock's own box height is **19.7%** — box edges are taken from its actual
 
 **The trigger numbers:** 3,279,691 shares traded in the week of 2026-09-07 against a 12-week average of 773,774 — **4.24× normal** (multifold), with the price +4.27% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ███████                        9.40 L  ₹    810.6          
-2026-06-22  █████                          5.86 L  ₹    795.0   ▼ -1.9%
-2026-06-29  ███                            3.55 L  ₹    774.0   ▼ -2.6%
-2026-07-06  ████                           5.11 L  ₹    744.0   ▼ -3.9%
-2026-07-13  ███                            4.13 L  ₹    724.3   ▼ -2.6%
-2026-07-20  ███                            3.38 L  ₹    715.0   ▼ -1.3%
-2026-07-27  ████████                       9.63 L  ₹    710.5   ▼ -0.6%
-2026-08-03  ███████████                   13.84 L  ₹    731.8   ▲ +3.0%
-2026-08-10  ███████                        9.44 L  ₹    741.2   ▲ +1.3%
-2026-08-17  █████                          6.21 L  ₹    727.0   ▼ -1.9%
-2026-08-24  ██████                         7.33 L  ₹    691.4   ▼ -4.9%
-2026-08-31  ████████████                  14.99 L  ₹    663.6   ▼ -4.0%
-2026-09-07  ██████████████████████████    32.80 L  ₹    692.0   ▲ +4.3%  ◀ trigger week
+         │ 
+    ₹811 │  ●  ●
+         │        ●
+         │          ╲
+         │           ●           ●  ●  ●
+         │              ●  ●  ●          ╲
+         │                                ●     ●
+    ₹664 │                                   ●
+         │ 
+         ┼───────────────────────────────────────
+ 32.80 L │                                      █
+         │                                      █
+         │                       █           █  █
+         │  █  █     █  █     █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 32.80 L, close ₹692.0
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 3,251,255 |  |  |
+| 2026-04 | 2,527,602 | ▼ -22% |  |
+| 2026-05 | 5,323,483 | ▲ +111% |  |
+| 2026-06 | 4,622,418 | ▼ -13% |  |
+| 2026-07 | 2,415,655 | ▼ -48% |  |
+| 2026-08 | 3,963,628 | ▲ +64% |  |
+| 2026-09 | 4,496,129 | ▲ +13% | partial — 9 days |
 
 ### The boxes
 
@@ -601,6 +847,15 @@ Week of      volume                      close     w/w
 ┌ ₹   844.40 ─ top    (2026-06-22)
 │   box height 15.7%
 └ ₹   730.00 ─ bottom (2026-07-08)  broke DOWN — red flag
+┌ ₹   751.90 ─ top    (2026-05-26)
+│   box height 8.0%
+└ ₹   696.25 ─ bottom (2026-05-29)  broke UP
+┌ ₹   889.00 ─ top    (2026-03-20)
+│   box height 22.6%
+└ ₹   725.20 ─ bottom (2026-03-30)  broke DOWN — red flag
+┌ ₹   832.70 ─ top    (2026-03-11)
+│   box height 14.5%
+└ ₹   727.00 ─ bottom (2026-03-16)  broke UP
   ✂ ₹   603.23 ─ stop loss (bottom − 0.3 × box height)
   ▲ ₹   711.65 ─ buy on a close above the box top
 ```
@@ -627,24 +882,41 @@ This stock's own box height is **13.3%** — box edges are taken from its actual
 
 **The trigger numbers:** 4,425,083 shares traded in the week of 2026-09-07 against a 12-week average of 1,125,070 — **3.93× normal** (multifold), with the price +3.54% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  █████                          8.54 L  ₹  1,608.6          
-2026-06-22  █████                          7.86 L  ₹  1,556.0   ▼ -3.3%
-2026-06-29  ██████                        10.47 L  ₹  1,669.0   ▲ +7.3%
-2026-07-06  ███████████████               25.61 L  ₹  1,626.9   ▼ -2.5%
-2026-07-13  ████████                      14.03 L  ₹  1,653.2   ▲ +1.6%
-2026-07-20  ███████                       11.47 L  ₹  1,653.9   ▬ +0.0%
-2026-07-27  ███████████                   19.00 L  ₹  1,619.7   ▼ -2.1%
-2026-08-03  ██████                        10.60 L  ₹  1,576.0   ▼ -2.7%
-2026-08-10  ██████                        10.61 L  ₹  1,559.2   ▼ -1.1%
-2026-08-17  ███                            5.27 L  ₹  1,535.0   ▼ -1.6%
-2026-08-24  ████                           6.18 L  ₹  1,532.2   ▬ -0.2%
-2026-08-31  ███                            5.37 L  ₹  1,537.8   ▲ +0.4%
-2026-09-07  ██████████████████████████    44.25 L  ₹  1,592.2   ▲ +3.5%  ◀ trigger week
+         │ 
+  ₹1,669 │        ●     ●  ●
+         │       ╱  ╲  ╱     ╲
+         │       ╱   ●        ●
+         │  ●    ╱              ╲               ●
+         │    ╲  ╱               ●             ╱
+         │     ●                    ●          ╱
+  ₹1,532 │                             ●  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 44.25 L │                                      █
+         │                                      █
+         │           █        █                 █
+         │  █  █  █  █  █  █  █  █  █     █     █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 44.25 L, close ₹1,592.2
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 6,491,441 |  |  |
+| 2026-04 | 18,073,252 | ▲ +178% |  |
+| 2026-05 | 5,215,478 | ▼ -71% |  |
+| 2026-06 | 4,495,320 | ▼ -14% |  |
+| 2026-07 | 7,610,284 | ▲ +69% |  |
+| 2026-08 | 3,364,550 | ▼ -56% |  |
+| 2026-09 | 4,862,919 | ▲ +45% | partial — 9 days |
 
 ### The boxes
 
@@ -661,6 +933,15 @@ Week of      volume                      close     w/w
 ┌ ₹ 1,697.30 ─ top    (2026-06-11)
 │   box height 6.7%
 └ ₹ 1,590.10 ─ bottom (2026-06-15)  broke DOWN — red flag
+┌ ₹ 1,870.00 ─ top    (2026-04-27)
+│   box height 9.9%
+└ ₹ 1,701.50 ─ bottom (2026-04-30)  broke DOWN — red flag
+┌ ₹ 1,568.30 ─ top    (2026-04-15)
+│   box height 6.0%
+└ ₹ 1,479.10 ─ bottom (2026-04-16)  broke UP
+┌ ₹ 1,506.30 ─ top    (2026-03-16)
+│   box height 22.4%
+└ ₹ 1,231.00 ─ bottom (2026-03-25)  broke UP
   ✂ ₹ 1,490.03 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -686,24 +967,41 @@ This stock's own box height is **3.1%** — box edges are taken from its actual 
 
 **The trigger numbers:** 7,262,345 shares traded in the week of 2026-09-07 against a 12-week average of 1,958,963 — **3.71× normal** (multifold), with the price +0.81% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████                          10.71 L  ₹    948.9          
-2026-06-22  ███                            9.05 L  ₹    986.4   ▲ +4.0%
-2026-06-29  ███                            8.82 L  ₹  1,001.2   ▲ +1.5%
-2026-07-06  ███                            9.09 L  ₹  1,002.0   ▬ +0.1%
-2026-07-13  ███                            9.32 L  ₹    999.2   ▼ -0.3%
-2026-07-20  ████████████████              43.92 L  ₹  1,064.0   ▲ +6.5%
-2026-07-27  █████████████                 35.61 L  ₹  1,130.6   ▲ +6.3%
-2026-08-03  ██████                        16.57 L  ₹  1,156.0   ▲ +2.2%
-2026-08-10  █████                         13.85 L  ₹  1,174.0   ▲ +1.6%
-2026-08-17  ██████                        15.70 L  ₹  1,216.8   ▲ +3.6%
-2026-08-24  ██████████████                39.57 L  ₹  1,220.9   ▲ +0.3%
-2026-08-31  ████████                      22.87 L  ₹  1,227.2   ▲ +0.5%
-2026-09-07  ██████████████████████████    72.62 L  ₹  1,237.1   ▲ +0.8%  ◀ trigger week
+         │ 
+  ₹1,237 │                             ●  ●  ●  ●
+         │                       ●  ●
+         │                    ●
+         │                   ╱
+         │                 ●
+         │        ●  ●  ●
+    ₹949 │  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 72.62 L │                                      █
+         │                                      █
+         │                 █  █           █     █
+         │  █        █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 72.62 L, close ₹1,237.1
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 6,026,563 |  |  |
+| 2026-04 | 8,506,542 | ▲ +41% |  |
+| 2026-05 | 5,956,738 | ▼ -30% |  |
+| 2026-06 | 3,760,490 | ▼ -37% |  |
+| 2026-07 | 10,476,292 | ▲ +179% |  |
+| 2026-08 | 8,939,758 | ▼ -15% |  |
+| 2026-09 | 9,178,503 | ▬ +3% | partial — 9 days |
 
 ### The boxes
 
@@ -720,6 +1018,24 @@ Week of      volume                      close     w/w
 ┌ ₹ 1,032.30 ─ top    (2026-07-13)
 │   box height 5.2%
 └ ₹   981.10 ─ bottom (2026-07-23)  broke UP
+┌ ₹ 1,019.00 ─ top    (2026-07-06)
+│   box height 5.0%
+└ ₹   970.00 ─ bottom (2026-07-08)  broke UP
+┌ ₹ 1,003.45 ─ top    (2026-06-25)
+│   box height 4.7%
+└ ₹   958.80 ─ bottom (2026-06-29)  broke UP
+┌ ₹ 1,045.00 ─ top    (2026-05-12)
+│   box height 10.0%
+└ ₹   949.90 ─ bottom (2026-05-27)  broke DOWN — red flag
+┌ ₹ 1,099.00 ─ top    (2026-04-29)
+│   box height 4.3%
+└ ₹ 1,054.00 ─ bottom (2026-05-04)  broke DOWN — red flag
+┌ ₹   969.50 ─ top    (2026-03-25)
+│   box height 6.8%
+└ ₹   907.40 ─ bottom (2026-03-30)  broke UP
+┌ ₹ 1,057.70 ─ top    (2026-03-11)
+│   box height 10.6%
+└ ₹   956.00 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹ 1,164.77 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -745,24 +1061,41 @@ This stock's own box height is **7.7%** — box edges are taken from its actual 
 
 **The trigger numbers:** 9,359,745 shares traded in the week of 2026-09-07 against a 12-week average of 2,601,567 — **3.60× normal** (multifold), with the price +2.47% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ██████████                    37.76 L  ₹    696.7          
-2026-06-22  █████                         18.88 L  ₹    695.0   ▼ -0.2%
-2026-06-29  ███████████                   40.90 L  ₹    698.1   ▲ +0.4%
-2026-07-06  ████████                      30.11 L  ₹    716.4   ▲ +2.6%
-2026-07-13  ████████                      27.93 L  ₹    737.5   ▲ +2.9%
-2026-07-20  ██████                        20.12 L  ₹    714.2   ▼ -3.2%
-2026-07-27  █████                         18.13 L  ₹    734.8   ▲ +2.9%
-2026-08-03  ████████                      27.70 L  ₹    734.6   ▬ -0.0%
-2026-08-10  ████                          14.58 L  ₹    737.9   ▲ +0.4%
-2026-08-17  █████                         17.85 L  ₹    701.4   ▼ -4.9%
-2026-08-24  ████                          13.47 L  ₹    705.1   ▲ +0.5%
-2026-08-31  ████████████                  44.76 L  ₹    737.9   ▲ +4.6%
-2026-09-07  ██████████████████████████    93.60 L  ₹    756.1   ▲ +2.5%  ◀ trigger week
+         │ 
+    ₹756 │                                      ●
+         │                                     ╱
+         │              ●     ●  ●  ●        ●
+         │             ╱  ╲  ╱        ╲     ╱
+         │           ●     ●          ╲     ╱
+         │          ╱                 ╲   ●
+    ₹695 │  ●  ●  ●                    ●
+         │ 
+         ┼───────────────────────────────────────
+ 93.60 L │                                      █
+         │                                      █
+         │  █     █                          █  █
+         │  █  █  █  █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 93.60 L, close ₹756.1
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 11,151,952 |  |  |
+| 2026-04 | 13,986,119 | ▲ +25% |  |
+| 2026-05 | 12,434,893 | ▼ -11% |  |
+| 2026-06 | 14,567,932 | ▲ +17% |  |
+| 2026-07 | 11,368,327 | ▼ -22% |  |
+| 2026-08 | 8,353,970 | ▼ -27% |  |
+| 2026-09 | 12,841,319 | ▲ +54% | partial — 8 days |
 
 ### The boxes
 
@@ -779,6 +1112,18 @@ Week of      volume                      close     w/w
 ┌ ₹   732.40 ─ top    (2026-06-17)
 │   box height 8.6%
 └ ₹   674.35 ─ bottom (2026-06-29)  broke UP
+┌ ₹   727.20 ─ top    (2026-05-29)
+│   box height 11.5%
+└ ₹   652.25 ─ bottom (2026-06-11)  broke UP
+┌ ₹   757.00 ─ top    (2026-05-11)
+│   box height 4.8%
+└ ₹   722.45 ─ bottom (2026-05-13)  broke DOWN — red flag
+┌ ₹   801.80 ─ top    (2026-04-21)
+│   box height 5.0%
+└ ₹   763.55 ─ bottom (2026-04-24)  broke DOWN — red flag
+┌ ₹   755.80 ─ top    (2026-03-12)
+│   box height 12.1%
+└ ₹   674.15 ─ bottom (2026-03-16)  broke UP
   ✂ ₹   721.35 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -804,24 +1149,41 @@ This stock's own box height is **2.1%** — box edges are taken from its actual 
 
 **The trigger numbers:** 776,327 shares traded in the week of 2026-09-07 against a 12-week average of 217,542 — **3.57× normal** (multifold), with the price +6.48% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████████████████████           6.11 L  ₹  1,868.6          
-2026-06-22  ████████████                   3.48 L  ₹  1,893.3   ▲ +1.3%
-2026-06-29  ████████                       2.38 L  ₹  2,037.9   ▲ +7.6%
-2026-07-06  ██                             73,634  ₹  2,042.8   ▲ +0.2%
-2026-07-13  █████                          1.46 L  ₹  2,062.2   ▲ +0.9%
-2026-07-20  █████                          1.51 L  ₹  2,113.0   ▲ +2.5%
-2026-07-27  █████                          1.52 L  ₹  2,098.8   ▼ -0.7%
-2026-08-03  ███████████████                4.41 L  ₹  2,058.8   ▼ -1.9%
-2026-08-10  ██████                         1.79 L  ₹  2,137.1   ▲ +3.8%
-2026-08-17  ████                           1.28 L  ₹  2,142.6   ▲ +0.3%
-2026-08-24  ██                             54,835  ₹  2,079.5   ▼ -2.9%
-2026-08-31  ███                            87,615  ₹  2,100.1   ▲ +1.0%
-2026-09-07  ██████████████████████████     7.76 L  ₹  2,236.1   ▲ +6.5%  ◀ trigger week
+         │ 
+  ₹2,236 │                                      ●
+         │                          ●  ●       ╱
+         │                 ●  ●    ╱      ●  ●
+         │        ●  ●  ●        ●
+         │       ╱
+         │       ╱
+  ₹1,869 │  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+  7.76 L │                                      █
+         │  █                                   █
+         │  █  █                 █              █
+         │  █  █  █     █  █  █  █  █  █        █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 7.76 L, close ₹2,236.1
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 508,097 |  |  |
+| 2026-04 | 616,285 | ▲ +21% |  |
+| 2026-05 | 894,772 | ▲ +45% |  |
+| 2026-06 | 1,384,590 | ▲ +55% |  |
+| 2026-07 | 646,223 | ▼ -53% |  |
+| 2026-08 | 812,244 | ▲ +26% |  |
+| 2026-09 | 854,359 | ▲ +5% | partial — 9 days |
 
 ### The boxes
 
@@ -838,6 +1200,12 @@ Week of      volume                      close     w/w
 ┌ ₹ 1,949.40 ─ top    (2026-05-12)
 │   box height 18.8%
 └ ₹ 1,640.30 ─ bottom (2026-05-13)  broke UP
+┌ ₹ 1,724.00 ─ top    (2026-04-20)
+│   box height 25.6%
+└ ₹ 1,372.30 ─ bottom (2026-04-21)  broke UP
+┌ ₹ 1,685.00 ─ top    (2026-03-11)
+│   box height 12.0%
+└ ₹ 1,505.00 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹ 1,964.47 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -863,24 +1231,41 @@ This stock's own box height is **11.6%** — box edges are taken from its actual
 
 **The trigger numbers:** 16,915,986 shares traded in the week of 2026-09-07 against a 12-week average of 4,749,551 — **3.56× normal** (multifold), with the price +2.00% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████████                      50.47 L  ₹    175.8          
-2026-06-22  ██████████████████            1.14 Cr  ₹    179.8   ▲ +2.3%
-2026-06-29  █████                         32.68 L  ₹    177.9   ▼ -1.1%
-2026-07-06  ████                          27.49 L  ₹    173.1   ▼ -2.7%
-2026-07-13  ███████                       44.05 L  ₹    165.1   ▼ -4.6%
-2026-07-20  ██████                        39.46 L  ₹    177.7   ▲ +7.6%
-2026-07-27  ████████                      49.18 L  ₹    179.8   ▲ +1.2%
-2026-08-03  ████████████                  75.40 L  ₹    174.7   ▼ -2.9%
-2026-08-10  ██████                        38.24 L  ₹    163.4   ▼ -6.5%
-2026-08-17  ████                          25.59 L  ₹    159.6   ▼ -2.3%
-2026-08-24  ██████                        40.20 L  ₹    156.0   ▼ -2.2%
-2026-08-31  █████                         32.99 L  ₹    154.0   ▼ -1.3%
-2026-09-07  ██████████████████████████    1.69 Cr  ₹    157.1   ▲ +2.0%  ◀ trigger week
+         │ 
+    ₹180 │     ●  ●        ●  ●
+         │  ●        ●    ╱      ●
+         │             ╲  ╱        ╲
+         │              ●          ╲
+         │                          ●
+         │                             ●
+    ₹154 │                                ●  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 1.69 Cr │                                      █
+         │     █                                █
+         │     █                 █              █
+         │  █  █  █  █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 1.69 Cr, close ₹157.1
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 20,153,353 |  |  |
+| 2026-04 | 21,171,679 | ▲ +5% |  |
+| 2026-05 | 21,308,768 | ▬ +1% |  |
+| 2026-06 | 24,755,471 | ▲ +16% |  |
+| 2026-07 | 17,733,022 | ▼ -28% |  |
+| 2026-08 | 18,370,048 | ▬ +4% |  |
+| 2026-09 | 19,788,535 | ▲ +8% | partial — 8 days |
 
 ### The boxes
 
@@ -897,6 +1282,21 @@ Week of      volume                      close     w/w
 ┌ ₹   188.23 ─ top    (2026-06-25)
 │   box height 9.1%
 └ ₹   172.52 ─ bottom (2026-06-30)  broke DOWN — red flag
+┌ ₹   171.54 ─ top    (2026-05-26)
+│   box height 6.8%
+└ ₹   160.62 ─ bottom (2026-06-01)  broke DOWN — red flag
+┌ ₹   164.30 ─ top    (2026-05-04)
+│   box height 16.4%
+└ ₹   141.21 ─ bottom (2026-05-20)  broke UP
+┌ ₹   168.80 ─ top    (2026-04-16)
+│   box height 5.6%
+└ ₹   159.80 ─ bottom (2026-04-17)  broke DOWN — red flag
+┌ ₹   142.95 ─ top    (2026-03-25)
+│   box height 12.6%
+└ ₹   127.00 ─ bottom (2026-03-30)  broke UP
+┌ ₹   156.00 ─ top    (2026-03-11)
+│   box height 8.8%
+└ ₹   143.42 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   146.66 ─ stop loss (bottom − 0.3 × box height)
   ▲ ₹   162.99 ─ buy on a close above the box top
 ```
@@ -923,24 +1323,41 @@ This stock's own box height is **8.3%** — box edges are taken from its actual 
 
 **The trigger numbers:** 382,401,182 shares traded in the week of 2026-09-07 against a 12-week average of 109,092,906 — **3.51× normal** (multifold), with the price +21.52% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████████████                 17.34 Cr  ₹    152.3          
-2026-06-22  ████████████                 17.43 Cr  ₹    160.1   ▲ +5.1%
-2026-06-29  ████                          5.42 Cr  ₹    156.1   ▼ -2.5%
-2026-07-06  ███                           4.42 Cr  ₹    145.3   ▼ -6.9%
-2026-07-13  ████████                     11.36 Cr  ₹    153.2   ▲ +5.4%
-2026-07-20  ███                           4.43 Cr  ₹    145.7   ▼ -4.9%
-2026-07-27  █████████                    13.17 Cr  ₹    139.0   ▼ -4.6%
-2026-08-03  ████████████                 17.36 Cr  ₹    154.4  ▲ +11.1%
-2026-08-10  █████████                    12.55 Cr  ₹    164.9   ▲ +6.7%
-2026-08-17  █████                         6.94 Cr  ₹    156.9   ▼ -4.8%
-2026-08-24  ██████                        9.37 Cr  ₹    165.1   ▲ +5.2%
-2026-08-31  ████████                     11.12 Cr  ₹    166.4   ▲ +0.8%
-2026-09-07  ██████████████████████████   38.24 Cr  ₹    202.2  ▲ +21.5%  ◀ trigger week
+         │ 
+    ₹202 │                                      ●
+         │                                     ╱
+         │                                     ╱
+         │                                   ●
+         │     ●                    ●  ●  ●
+         │  ●     ●     ●        ●
+    ₹139 │           ●     ●  ●
+         │ 
+         ┼───────────────────────────────────────
+38.24 Cr │                                      █
+         │                                      █
+         │  █  █                 █              █
+         │  █  █  █     █     █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 38.24 Cr, close ₹202.2
 ```
+
+### Is the volume building, or a one-week event?
+
+**STEPPED UP** — the last complete month traded well above the months before it.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 14,391,944 |  |  |
+| 2026-04 | 68,758,826 | ▲ +378% |  |
+| 2026-05 | 410,757,828 | ▲ +497% |  |
+| 2026-06 | 667,437,415 | ▲ +62% |  |
+| 2026-07 | 365,340,422 | ▼ -45% |  |
+| 2026-08 | 482,432,696 | ▲ +32% |  |
+| 2026-09 | 473,335,824 | ▬ -2% | partial — 9 days |
 
 ### The boxes
 
@@ -957,6 +1374,9 @@ Week of      volume                      close     w/w
 ┌ ₹   166.06 ─ top    (2026-04-01)
 │   box height 9.4%
 └ ₹   151.75 ─ bottom (2026-04-06)  broke UP
+┌ ₹   174.22 ─ top    (2026-03-11)
+│   box height 10.0%
+└ ₹   158.42 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   119.67 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -982,24 +1402,41 @@ This stock's own box height is **37.3%** — box edges are taken from its actual
 
 **The trigger numbers:** 8,951,166 shares traded in the week of 2026-09-07 against a 12-week average of 2,628,987 — **3.40× normal** (multifold), with the price +14.57% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████                          15.06 L  ₹    281.6          
-2026-06-22  ██                             6.74 L  ₹    269.9   ▼ -4.2%
-2026-06-29  ███                           11.66 L  ₹    261.2   ▼ -3.2%
-2026-07-06  █████████                     29.55 L  ₹    294.2  ▲ +12.6%
-2026-07-13  ██████                        21.66 L  ₹    287.2   ▼ -2.4%
-2026-07-20  █████                         16.63 L  ₹    281.2   ▼ -2.1%
-2026-07-27  █████                         15.73 L  ₹    263.4   ▼ -6.3%
-2026-08-03  █████████████                 45.30 L  ₹    292.4  ▲ +11.0%
-2026-08-10  █████████████████████████     87.77 L  ₹    332.6  ▲ +13.8%
-2026-08-17  █████                         18.61 L  ₹    328.5   ▼ -1.2%
-2026-08-24  ███████                       25.30 L  ₹    319.8   ▼ -2.6%
-2026-08-31  ██████                        21.47 L  ₹    331.9   ▲ +3.8%
-2026-09-07  ██████████████████████████    89.51 L  ₹    380.2  ▲ +14.6%  ◀ trigger week
+         │ 
+    ₹380 │                                      ●
+         │                                     ╱
+         │                          ●        ●
+         │                         ╱   ●  ●
+         │                         ╱
+         │  ●        ●  ●  ●     ●
+    ₹261 │     ●  ●           ●
+         │ 
+         ┼───────────────────────────────────────
+ 89.51 L │                          █           █
+         │                          █           █
+         │                       █  █           █
+         │  █     █  █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 89.51 L, close ₹380.2
 ```
+
+### Is the volume building, or a one-week event?
+
+**BUILDING** — volume has risen month over month for the last 2 complete months — buying pressure has been building, not arriving in one week.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 12,926,833 |  |  |
+| 2026-04 | 13,969,565 | ▲ +8% |  |
+| 2026-05 | 8,890,421 | ▼ -36% |  |
+| 2026-06 | 7,340,346 | ▼ -17% |  |
+| 2026-07 | 9,077,554 | ▲ +24% |  |
+| 2026-08 | 18,079,495 | ▲ +99% |  |
+| 2026-09 | 10,716,318 | ▼ -41% | partial — 9 days |
 
 ### The boxes
 
@@ -1016,6 +1453,24 @@ Week of      volume                      close     w/w
 ┌ ₹   293.15 ─ top    (2026-06-23)
 │   box height 13.4%
 └ ₹   258.55 ─ bottom (2026-06-29)  broke DOWN — red flag
+┌ ₹   283.20 ─ top    (2026-06-05)
+│   box height 10.4%
+└ ₹   256.55 ─ bottom (2026-06-11)  broke UP
+┌ ₹   265.85 ─ top    (2026-05-27)
+│   box height 10.3%
+└ ₹   241.05 ─ bottom (2026-06-02)  broke UP
+┌ ₹   311.80 ─ top    (2026-05-11)
+│   box height 17.7%
+└ ₹   265.00 ─ bottom (2026-05-18)  broke DOWN — red flag
+┌ ₹   294.28 ─ top    (2026-04-27)
+│   box height 12.7%
+└ ₹   261.20 ─ bottom (2026-04-30)  broke UP
+┌ ₹   263.35 ─ top    (2026-04-17)
+│   box height 5.3%
+└ ₹   250.20 ─ bottom (2026-04-22)  broke UP
+┌ ₹   241.00 ─ top    (2026-03-12)
+│   box height 37.7%
+└ ₹   175.00 ─ bottom (2026-03-17)  broke UP
   ✂ ₹   299.64 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1041,24 +1496,41 @@ This stock's own box height is **9.4%** — box edges are taken from its actual 
 
 **The trigger numbers:** 16,053,148 shares traded in the week of 2026-09-07 against a 12-week average of 4,851,621 — **3.31× normal** (multifold), with the price +4.40% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████                          35.37 L  ₹    551.0          
-2026-06-22  █████████████                 1.17 Cr  ₹    580.9   ▲ +5.4%
-2026-06-29  █████                         48.23 L  ₹    574.1   ▼ -1.2%
-2026-07-06  ██████████████████████████    2.29 Cr  ₹    579.2   ▲ +0.9%
-2026-07-13  ███                           23.67 L  ₹    546.6   ▼ -5.6%
-2026-07-20  ██                            21.77 L  ₹    553.0   ▲ +1.2%
-2026-07-27  ███                           28.86 L  ₹    520.4   ▼ -5.9%
-2026-08-03  ██                            15.60 L  ₹    516.3   ▼ -0.8%
-2026-08-10  ██                            14.32 L  ₹    500.3   ▼ -3.1%
-2026-08-17  ██                            18.49 L  ₹    503.6   ▲ +0.6%
-2026-08-24  ██                            15.20 L  ₹    493.6   ▼ -2.0%
-2026-08-31  ██                            14.71 L  ₹    473.0   ▼ -4.2%
-2026-09-07  ██████████████████            1.61 Cr  ₹    493.8   ▲ +4.4%  ◀ trigger week
+         │ 
+    ₹581 │     ●  ●  ●
+         │  ●          ╲   ●
+         │              ●    ╲
+         │                    ●
+         │                       ●     ●
+         │                          ●     ●     ●
+    ₹473 │                                   ●
+         │ 
+         ┼───────────────────────────────────────
+ 2.29 Cr │           █
+         │           █                          █
+         │     █     █                          █
+         │  █  █  █  █        █                 █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 1.61 Cr, close ₹493.8
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 30,355,012 |  |  |
+| 2026-04 | 28,953,656 | ▬ -5% |  |
+| 2026-05 | 21,713,659 | ▼ -25% |  |
+| 2026-06 | 25,380,896 | ▲ +17% |  |
+| 2026-07 | 32,784,548 | ▲ +29% |  |
+| 2026-08 | 6,582,472 | ▼ -80% |  |
+| 2026-09 | 17,301,791 | ▲ +163% | partial — 9 days |
 
 ### The boxes
 
@@ -1075,6 +1547,12 @@ Week of      volume                      close     w/w
 ┌ ₹   534.50 ─ top    (2026-04-08)
 │   box height 9.2%
 └ ₹   489.50 ─ bottom (2026-04-13)  broke UP
+┌ ₹   505.70 ─ top    (2026-03-25)
+│   box height 10.8%
+└ ₹   456.35 ─ bottom (2026-03-30)  broke UP
+┌ ₹   583.30 ─ top    (2026-03-11)
+│   box height 20.3%
+└ ₹   484.95 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   458.37 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1100,24 +1578,41 @@ This stock's own box height is **4.8%** — box edges are taken from its actual 
 
 **The trigger numbers:** 3,892,988 shares traded in the week of 2026-09-07 against a 12-week average of 1,195,661 — **3.26× normal** (multifold), with the price +6.92% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ██████                         8.95 L  ₹    700.6          
-2026-06-22  ████████                      11.73 L  ₹    725.6   ▲ +3.6%
-2026-06-29  ██████                         8.33 L  ₹    766.5   ▲ +5.6%
-2026-07-06  ████████                      11.23 L  ₹    765.3   ▬ -0.2%
-2026-07-13  █████████████                 19.52 L  ₹    761.1   ▼ -0.5%
-2026-07-20  ██████                         8.43 L  ₹    762.0   ▬ +0.1%
-2026-07-27  █████                          7.07 L  ₹    783.8   ▲ +2.9%
-2026-08-03  ████████████████████████      36.32 L  ₹    677.4  ▼ -13.6%
-2026-08-10  ██████████                    14.40 L  ₹    700.0   ▲ +3.3%
-2026-08-17  ████                           6.07 L  ₹    665.0   ▼ -5.0%
-2026-08-24  ████                           5.90 L  ₹    637.0   ▼ -4.2%
-2026-08-31  ████                           5.52 L  ₹    646.8   ▲ +1.5%
-2026-09-07  ██████████████████████████    38.93 L  ₹    691.5   ▲ +6.9%  ◀ trigger week
+         │ 
+    ₹784 │        ●  ●        ●
+         │       ╱      ●  ●    ╲
+         │     ●                ╲
+         │  ●                   ╲   ●
+         │                      ╲  ╱  ╲         ●
+         │                       ●     ●       ╱
+    ₹637 │                                ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 38.93 L │                       █              █
+         │                       █              █
+         │              █        █              █
+         │  █  █  █  █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 38.93 L, close ₹691.5
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 2,153,367 |  |  |
+| 2026-04 | 2,067,626 | ▬ -4% |  |
+| 2026-05 | 12,193,465 | ▲ +490% |  |
+| 2026-06 | 6,815,317 | ▼ -44% |  |
+| 2026-07 | 5,182,023 | ▼ -24% |  |
+| 2026-08 | 6,406,252 | ▲ +24% |  |
+| 2026-09 | 4,307,815 | ▼ -33% | partial — 8 days |
 
 ### The boxes
 
@@ -1134,6 +1629,21 @@ Week of      volume                      close     w/w
 ┌ ₹   724.95 ─ top    (2026-06-15)
 │   box height 4.6%
 └ ₹   693.25 ─ bottom (2026-06-19)  broke UP
+┌ ₹   652.00 ─ top    (2026-05-15)
+│   box height 14.2%
+└ ₹   571.05 ─ bottom (2026-05-18)  broke UP
+┌ ₹   594.00 ─ top    (2026-05-08)
+│   box height 11.2%
+└ ₹   534.00 ─ bottom (2026-05-14)  broke UP
+┌ ₹   569.55 ─ top    (2026-04-22)
+│   box height 12.7%
+└ ₹   505.20 ─ bottom (2026-04-30)  broke UP
+┌ ₹   520.00 ─ top    (2026-03-25)
+│   box height 13.8%
+└ ₹   456.80 ─ bottom (2026-03-30)  broke UP
+┌ ₹   539.00 ─ top    (2026-03-12)
+│   box height 7.8%
+└ ₹   499.80 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   600.78 ─ stop loss (bottom − 0.3 × box height)
   ▲ ₹   717.85 ─ buy on a close above the box top
 ```
@@ -1160,24 +1670,41 @@ This stock's own box height is **14.3%** — box edges are taken from its actual
 
 **The trigger numbers:** 6,200,125 shares traded in the week of 2026-09-07 against a 12-week average of 2,227,078 — **2.78× normal** (strong), with the price +7.17% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ███████████                   26.38 L  ₹    574.0          
-2026-06-22  ███                            8.18 L  ₹    562.8   ▼ -2.0%
-2026-06-29  ████████                      19.39 L  ₹    549.0   ▼ -2.5%
-2026-07-06  ███████                       16.54 L  ₹    578.9   ▲ +5.4%
-2026-07-13  █████████                     22.63 L  ₹    579.6   ▬ +0.1%
-2026-07-20  █████                         11.55 L  ₹    539.4   ▼ -6.9%
-2026-07-27  ████████████████████          46.58 L  ₹    542.5   ▲ +0.6%
-2026-08-03  ██████                        14.25 L  ₹    577.6   ▲ +6.5%
-2026-08-10  ████                           9.54 L  ₹    571.1   ▼ -1.1%
-2026-08-17  ██████████████████████████    61.83 L  ₹    634.3  ▲ +11.1%
-2026-08-24  ████████                      19.91 L  ₹    588.1   ▼ -7.3%
-2026-08-31  ████                          10.48 L  ₹    586.1   ▼ -0.3%
-2026-09-07  ██████████████████████████    62.00 L  ₹    628.1   ▲ +7.2%  ◀ trigger week
+         │ 
+    ₹634 │                             ●        ●
+         │                            ╱  ╲     ╱
+         │                            ╱  ╲     ╱
+         │                            ╱   ●  ●
+         │  ●        ●  ●        ●  ●
+         │     ●    ╱     ╲     ╱
+    ₹539 │        ●        ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 62.00 L │                             █        █
+         │                    █        █        █
+         │  █                 █        █        █
+         │  █  █  █  █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 62.00 L, close ₹628.1
 ```
+
+### Is the volume building, or a one-week event?
+
+**BUILDING** — volume has risen month over month for the last 2 complete months — buying pressure has been building, not arriving in one week.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 10,656,297 |  |  |
+| 2026-04 | 15,943,197 | ▲ +50% |  |
+| 2026-05 | 17,410,196 | ▲ +9% |  |
+| 2026-06 | 8,904,687 | ▼ -49% |  |
+| 2026-07 | 10,738,913 | ▲ +21% |  |
+| 2026-08 | 10,867,339 | ▬ +1% |  |
+| 2026-09 | 6,933,590 | ▼ -36% | partial — 9 days |
 
 ### The boxes
 
@@ -1194,6 +1721,9 @@ Week of      volume                      close     w/w
 ┌ ₹   629.00 ─ top    (2026-03-20)
 │   box height 12.7%
 └ ₹   558.20 ─ bottom (2026-03-23)  broke DOWN — red flag
+┌ ₹   586.65 ─ top    (2026-03-11)
+│   box height 7.2%
+└ ₹   547.30 ─ bottom (2026-03-16)  broke UP
   ✂ ₹   548.56 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1219,24 +1749,41 @@ This stock's own box height is **12.6%** — box edges are taken from its actual
 
 **The trigger numbers:** 13,999,663 shares traded in the week of 2026-09-07 against a 12-week average of 5,031,485 — **2.78× normal** (strong), with the price +7.19% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ██████████████                74.50 L  ₹    786.9          
-2026-06-22  ██████                        33.85 L  ₹    764.2   ▼ -2.9%
-2026-06-29  ███████████████               79.31 L  ₹    833.8   ▲ +9.1%
-2026-07-06  ███████████████               83.43 L  ₹    889.9   ▲ +6.7%
-2026-07-13  ██████████                    52.20 L  ₹    880.8   ▼ -1.0%
-2026-07-20  █████████████                 68.03 L  ₹    833.5   ▼ -5.4%
-2026-07-27  ███████                       40.15 L  ₹    824.6   ▼ -1.1%
-2026-08-03  ███████                       39.20 L  ₹    873.9   ▲ +6.0%
-2026-08-10  █████                         24.89 L  ₹    858.4   ▼ -1.8%
-2026-08-17  ████                          19.27 L  ₹    858.1   ▬ -0.0%
-2026-08-24  ██████                        29.74 L  ₹    836.6   ▼ -2.5%
-2026-08-31  ███████████                   59.22 L  ₹    848.3   ▲ +1.4%
-2026-09-07  ██████████████████████████    1.40 Cr  ₹    909.3   ▲ +7.2%  ◀ trigger week
+         │ 
+    ₹909 │           ●                          ●
+         │          ╱   ●        ●             ╱
+         │          ╱     ╲     ╱   ●  ●     ●
+         │        ●        ●    ╱         ●
+         │       ╱            ●
+         │  ●    ╱
+    ₹764 │     ●
+         │ 
+         ┼───────────────────────────────────────
+ 1.40 Cr │                                      █
+         │                                      █
+         │  █     █  █     █                 █  █
+         │  █  █  █  █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 1.40 Cr, close ₹909.3
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 13,813,931 |  |  |
+| 2026-04 | 28,809,483 | ▲ +109% |  |
+| 2026-05 | 32,025,460 | ▲ +11% |  |
+| 2026-06 | 22,002,460 | ▼ -31% |  |
+| 2026-07 | 28,124,120 | ▲ +28% |  |
+| 2026-08 | 12,095,601 | ▼ -57% |  |
+| 2026-09 | 19,135,057 | ▲ +58% | partial — 9 days |
 
 ### The boxes
 
@@ -1253,6 +1800,24 @@ Week of      volume                      close     w/w
 ┌ ₹   804.30 ─ top    (2026-05-29)
 │   box height 4.6%
 └ ₹   768.75 ─ bottom (2026-06-02)  broke DOWN — red flag
+┌ ₹   773.20 ─ top    (2026-05-19)
+│   box height 3.1%
+└ ₹   750.00 ─ bottom (2026-05-22)  broke UP
+┌ ₹   761.40 ─ top    (2026-05-08)
+│   box height 5.6%
+└ ₹   721.15 ─ bottom (2026-05-18)  broke UP
+┌ ₹   730.80 ─ top    (2026-04-29)
+│   box height 5.9%
+└ ₹   690.00 ─ bottom (2026-04-30)  broke UP
+┌ ₹   650.00 ─ top    (2026-04-08)
+│   box height 5.5%
+└ ₹   616.05 ─ bottom (2026-04-13)  broke UP
+┌ ₹   640.00 ─ top    (2026-03-25)
+│   box height 6.3%
+└ ₹   602.20 ─ bottom (2026-04-02)  broke UP
+┌ ₹   595.00 ─ top    (2026-03-11)
+│   box height 7.2%
+└ ₹   554.95 ─ bottom (2026-03-13)  broke UP
   ✂ ₹   798.72 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1278,24 +1843,41 @@ This stock's own box height is **10.4%** — box edges are taken from its actual
 
 **The trigger numbers:** 6,239,582 shares traded in the week of 2026-09-07 against a 12-week average of 2,290,594 — **2.72× normal** (strong), with the price +9.17% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ██████                        15.15 L  ₹    330.0          
-2026-06-22  ████████████████              44.47 L  ₹    336.8   ▲ +2.1%
-2026-06-29  ████                          11.67 L  ₹    336.1   ▼ -0.2%
-2026-07-06  █████                         13.00 L  ₹    336.6   ▬ +0.2%
-2026-07-13  ████████                      22.94 L  ₹    331.3   ▼ -1.6%
-2026-07-20  ██████                        15.83 L  ₹    335.3   ▲ +1.2%
-2026-07-27  █████                         14.25 L  ₹    330.1   ▼ -1.5%
-2026-08-03  ███████████                   28.96 L  ₹    361.8   ▲ +9.6%
-2026-08-10  ████                          10.63 L  ₹    358.0   ▼ -1.1%
-2026-08-17  ██████                        15.04 L  ₹    380.9   ▲ +6.4%
-2026-08-24  ████                          11.96 L  ₹    370.6   ▼ -2.7%
-2026-08-31  ██████████████████████████    70.96 L  ₹    382.4   ▲ +3.2%
-2026-09-07  ███████████████████████       62.40 L  ₹    417.4   ▲ +9.2%  ◀ trigger week
+         │ 
+    ₹417 │                                      ●
+         │                                     ╱
+         │                             ●     ●
+         │                            ╱   ●
+         │                       ●  ●
+         │                      ╱
+    ₹330 │  ●  ●  ●  ●  ●  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 70.96 L │                                   █  █
+         │     █                             █  █
+         │     █                 █           █  █
+         │  █  █  █  █  █  █  █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 62.40 L, close ₹417.4
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 5,016,703 |  |  |
+| 2026-04 | 5,866,256 | ▲ +17% |  |
+| 2026-05 | 6,549,553 | ▲ +12% |  |
+| 2026-06 | 8,332,314 | ▲ +27% |  |
+| 2026-07 | 7,335,271 | ▼ -12% |  |
+| 2026-08 | 6,954,700 | ▼ -5% |  |
+| 2026-09 | 13,040,072 | ▲ +88% | partial — 8 days |
 
 ### The boxes
 
@@ -1312,6 +1894,15 @@ Week of      volume                      close     w/w
 ┌ ₹   327.75 ─ top    (2026-06-04)
 │   box height 5.2%
 └ ₹   311.60 ─ bottom (2026-06-11)  broke UP
+┌ ₹   381.20 ─ top    (2026-05-11)
+│   box height 19.1%
+└ ₹   320.05 ─ bottom (2026-05-18)  broke DOWN — red flag
+┌ ₹   373.85 ─ top    (2026-04-21)
+│   box height 6.2%
+└ ₹   352.10 ─ bottom (2026-04-24)  broke UP
+┌ ₹   324.85 ─ top    (2026-03-11)
+│   box height 8.3%
+└ ₹   300.05 ─ bottom (2026-03-13)  broke DOWN — red flag
   ✂ ₹   336.46 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1337,24 +1928,41 @@ This stock's own box height is **12.2%** — box edges are taken from its actual
 
 **The trigger numbers:** 3,951,075 shares traded in the week of 2026-09-07 against a 12-week average of 1,484,903 — **2.66× normal** (strong), with the price +11.68% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████                           9.08 L  ₹  1,110.9          
-2026-06-22  ██                             5.08 L  ₹  1,082.2   ▼ -2.6%
-2026-06-29  ████                           8.27 L  ₹  1,126.8   ▲ +4.1%
-2026-07-06  ███                            7.73 L  ₹  1,082.6   ▼ -3.9%
-2026-07-13  ███                            8.08 L  ₹  1,074.9   ▼ -0.7%
-2026-07-20  ███                            6.65 L  ₹  1,020.0   ▼ -5.1%
-2026-07-27  ██████████                    23.29 L  ₹  1,025.0   ▲ +0.5%
-2026-08-03  ████████                      17.45 L  ₹  1,003.8   ▼ -2.1%
-2026-08-10  ███                            7.94 L  ₹    967.8   ▼ -3.6%
-2026-08-17  ██████████████████████████    60.44 L  ₹    986.2   ▲ +1.9%
-2026-08-24  █████                         10.57 L  ₹  1,019.9   ▲ +3.4%
-2026-08-31  ██████                        13.61 L  ₹  1,059.6   ▲ +3.9%
-2026-09-07  █████████████████             39.51 L  ₹  1,183.4  ▲ +11.7%  ◀ trigger week
+         │ 
+  ₹1,183 │                                      ●
+         │        ●                            ╱
+         │  ●    ╱  ╲                          ╱
+         │     ●     ●  ●                      ╱
+         │                ╲                  ●
+         │                 ●  ●  ●        ●
+    ₹968 │                          ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 60.44 L │                             █
+         │                             █        █
+         │                    █        █        █
+         │  █     █  █  █     █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 39.51 L, close ₹1,183.4
 ```
+
+### Is the volume building, or a one-week event?
+
+**BUILDING** — volume has risen month over month for the last 2 complete months — buying pressure has been building, not arriving in one week.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 4,164,342 |  |  |
+| 2026-04 | 5,821,727 | ▲ +40% |  |
+| 2026-05 | 8,132,805 | ▲ +40% |  |
+| 2026-06 | 4,494,414 | ▼ -45% |  |
+| 2026-07 | 4,959,762 | ▲ +10% |  |
+| 2026-08 | 10,066,364 | ▲ +103% |  |
+| 2026-09 | 4,885,350 | ▼ -51% | partial — 9 days |
 
 ### The boxes
 
@@ -1371,6 +1979,15 @@ Week of      volume                      close     w/w
 ┌ ₹ 1,062.00 ─ top    (2026-06-08)
 │   box height 10.0%
 └ ₹   965.50 ─ bottom (2026-06-11)  broke UP
+┌ ₹ 1,231.00 ─ top    (2026-05-12)
+│   box height 18.9%
+└ ₹ 1,035.00 ─ bottom (2026-05-19)  broke DOWN — red flag
+┌ ₹ 1,110.00 ─ top    (2026-04-27)
+│   box height 9.1%
+└ ₹ 1,017.10 ─ bottom (2026-05-04)  broke UP
+┌ ₹   936.40 ─ top    (2026-03-13)
+│   box height 7.6%
+└ ₹   870.55 ─ bottom (2026-03-17)  broke UP
   ✂ ₹   904.78 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1396,24 +2013,41 @@ This stock's own box height is **9.5%** — box edges are taken from its actual 
 
 **The trigger numbers:** 2,678,167 shares traded in the week of 2026-09-07 against a 12-week average of 1,037,361 — **2.58× normal** (strong), with the price +5.93% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  ████                           4.51 L  ₹    630.6          
-2026-06-22  ███████                        7.28 L  ₹    628.4   ▼ -0.4%
-2026-06-29  ████████████████████████      25.85 L  ₹    610.0   ▼ -2.9%
-2026-07-06  ███                            3.61 L  ₹    598.4   ▼ -1.9%
-2026-07-13  ███                            3.00 L  ₹    580.5   ▼ -3.0%
-2026-07-20  ███                            2.97 L  ₹    571.5   ▼ -1.5%
-2026-07-27  ████                           3.77 L  ₹    565.4   ▼ -1.1%
-2026-08-03  █████                          4.85 L  ₹    589.7   ▲ +4.3%
-2026-08-10  █████████                      9.28 L  ₹    612.5   ▲ +3.9%
-2026-08-17  ███████████████               15.74 L  ₹    634.1   ▲ +3.5%
-2026-08-24  ███████████████               15.73 L  ₹    661.7   ▲ +4.3%
-2026-08-31  ██████████████████████████    27.89 L  ₹    688.1   ▲ +4.0%
-2026-09-07  █████████████████████████     26.78 L  ₹    728.9   ▲ +5.9%  ◀ trigger week
+         │ 
+    ₹729 │                                      ●
+         │                                   ●
+         │                                ●
+         │                               ╱
+         │  ●  ●                    ●  ●
+         │        ●  ●           ●
+    ₹565 │              ●  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 27.89 L │        █                          █  █
+         │        █                          █  █
+         │        █                    █  █  █  █
+         │  █  █  █  █        █  █  █  █  █  █  █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 26.78 L, close ₹728.9
 ```
+
+### Is the volume building, or a one-week event?
+
+**STEPPED UP** — the last complete month traded well above the months before it.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 3,607,766 |  |  |
+| 2026-04 | 3,814,365 | ▲ +6% |  |
+| 2026-05 | 2,512,767 | ▼ -34% |  |
+| 2026-06 | 4,343,587 | ▲ +73% |  |
+| 2026-07 | 1,648,380 | ▼ -62% |  |
+| 2026-08 | 4,953,718 | ▲ +201% |  |
+| 2026-09 | 5,074,600 | ▬ +2% | partial — 8 days |
 
 ### The boxes
 
@@ -1430,6 +2064,18 @@ Week of      volume                      close     w/w
 ┌ ₹   638.60 ─ top    (2026-06-16)
 │   box height 4.5%
 └ ₹   611.00 ─ bottom (2026-06-18)  broke UP
+┌ ₹   627.00 ─ top    (2026-06-02)
+│   box height 4.5%
+└ ₹   600.20 ─ bottom (2026-06-03)  broke DOWN — red flag
+┌ ₹   674.80 ─ top    (2026-05-12)
+│   box height 9.5%
+└ ₹   616.05 ─ bottom (2026-05-18)  broke DOWN — red flag
+┌ ₹   690.00 ─ top    (2026-04-23)
+│   box height 8.0%
+└ ₹   639.20 ─ bottom (2026-04-24)  broke DOWN — red flag
+┌ ₹   577.85 ─ top    (2026-03-11)
+│   box height 7.2%
+└ ₹   539.30 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   623.93 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1455,24 +2101,41 @@ This stock's own box height is **4.3%** — box edges are taken from its actual 
 
 **The trigger numbers:** 8,723,185 shares traded in the week of 2026-09-07 against a 12-week average of 3,506,576 — **2.49× normal** (strong), with the price +3.82% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  █                              9.71 L  ₹    512.4          
-2026-06-22  ████                          30.77 L  ₹    518.1   ▲ +1.1%
-2026-06-29  ██████████████████████████    2.16 Cr  ₹    598.3  ▲ +15.5%
-2026-07-06  ████                          31.76 L  ₹    592.5   ▼ -1.0%
-2026-07-13  ██                            16.67 L  ₹    586.5   ▼ -1.0%
-2026-07-20  ██                            20.32 L  ₹    563.0   ▼ -4.0%
-2026-07-27  ██                            14.56 L  ₹    577.5   ▲ +2.6%
-2026-08-03  ████                          33.34 L  ₹    533.9   ▼ -7.6%
-2026-08-10  ██                            12.96 L  ₹    510.3   ▼ -4.4%
-2026-08-17  █                              6.57 L  ₹    490.8   ▼ -3.8%
-2026-08-24  ██                            17.79 L  ₹    526.5   ▲ +7.3%
-2026-08-31  █                             10.54 L  ₹    531.7   ▲ +1.0%
-2026-09-07  ███████████                   87.23 L  ₹    552.0   ▲ +3.8%  ◀ trigger week
+         │ 
+    ₹598 │        ●  ●  ●
+         │       ╱        ╲   ●
+         │       ╱         ●    ╲
+         │       ╱              ╲               ●
+         │       ╱               ●        ●  ●
+         │  ●  ●                    ●    ╱
+    ₹491 │                             ●
+         │ 
+         ┼───────────────────────────────────────
+ 2.16 Cr │        █
+         │        █
+         │        █                             █
+         │     █  █  █           █              █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 87.23 L, close ₹552.0
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 80,814,615 |  |  |
+| 2026-04 | 75,529,141 | ▼ -7% |  |
+| 2026-05 | 9,912,203 | ▼ -87% |  |
+| 2026-06 | 25,832,924 | ▲ +161% |  |
+| 2026-07 | 11,937,152 | ▼ -54% |  |
+| 2026-08 | 7,468,467 | ▼ -37% |  |
+| 2026-09 | 9,375,384 | ▲ +26% | partial — 9 days |
 
 ### The boxes
 
@@ -1489,6 +2152,15 @@ Week of      volume                      close     w/w
 ┌ ₹   545.00 ─ top    (2026-06-23)
 │   box height 8.4%
 └ ₹   502.85 ─ bottom (2026-06-25)  broke UP
+┌ ₹   527.65 ─ top    (2026-04-06)
+│   box height 11.8%
+└ ₹   472.00 ─ bottom (2026-04-08)  broke UP
+┌ ₹   470.00 ─ top    (2026-03-25)
+│   box height 11.8%
+└ ₹   420.30 ─ bottom (2026-04-02)  broke UP
+┌ ₹   450.65 ─ top    (2026-03-13)
+│   box height 11.3%
+└ ₹   405.00 ─ bottom (2026-03-16)  broke UP
   ✂ ₹   511.13 ─ stop loss (bottom − 0.3 × box height)
 ```
 
@@ -1514,24 +2186,41 @@ This stock's own box height is **4.5%** — box edges are taken from its actual 
 
 **The trigger numbers:** 6,767,613 shares traded in the week of 2026-09-07 against a 12-week average of 2,726,535 — **2.48× normal** (strong), with the price +0.59% on the week.
 
-### Volume and price, week by week
+### Price and volume together, week by week
 
 ```
-Week of      volume                      close     w/w
-2026-06-15  █                              6.50 L  ₹    439.5          
-2026-06-22  █                              8.69 L  ₹    459.7   ▲ +4.6%
-2026-06-29  █                              5.01 L  ₹    441.6   ▼ -3.9%
-2026-07-06  █                              5.40 L  ₹    426.3   ▼ -3.5%
-2026-07-13  █                              3.45 L  ₹    408.4   ▼ -4.2%
-2026-07-20  ██████████████████████████    1.79 Cr  ₹    420.2   ▲ +2.9%
-2026-07-27  ██████                        40.99 L  ₹    429.2   ▲ +2.1%
-2026-08-03  █████                         34.86 L  ₹    448.9   ▲ +4.6%
-2026-08-10  █████                         30.97 L  ₹    412.4   ▼ -8.2%
-2026-08-17  █                              5.02 L  ₹    414.6   ▲ +0.5%
-2026-08-24  █                              4.17 L  ₹    406.9   ▼ -1.8%
-2026-08-31  █                              3.32 L  ₹    401.0   ▼ -1.5%
-2026-09-07  ██████████                    67.68 L  ₹    403.4   ▲ +0.6%  ◀ trigger week
+         │ 
+    ₹460 │     ●
+         │    ╱  ╲               ●
+         │  ●     ●             ╱  ╲
+         │           ●        ●    ╲
+         │             ╲   ●       ╲
+         │             ╲  ╱         ●  ●
+    ₹401 │              ●                 ●  ●  ●
+         │ 
+         ┼───────────────────────────────────────
+ 1.79 Cr │                 █
+         │                 █
+         │                 █                    █
+         │                 █  █  █  █           █
+         └───────────────────────────────────────
+          06-15 06-29 07-13 07-27 08-10 08-24 09-07
+           latest week: volume 67.68 L, close ₹403.4
 ```
+
+### Is the volume building, or a one-week event?
+
+**SPIKE ONLY** — monthly volumes were flat before the trigger — the surge is a one-week event so far, not a building trend.
+
+| Month | Volume | vs prior month | |
+|---|---:|---:|---|
+| 2026-03 | 4,199,599 |  |  |
+| 2026-04 | 3,137,585 | ▼ -25% |  |
+| 2026-05 | 2,342,663 | ▼ -25% |  |
+| 2026-06 | 2,777,234 | ▲ +19% |  |
+| 2026-07 | 23,115,207 | ▲ +732% |  |
+| 2026-08 | 7,557,213 | ▼ -67% |  |
+| 2026-09 | 7,044,791 | ▼ -7% | partial — 8 days |
 
 ### The boxes
 
@@ -1548,6 +2237,15 @@ Week of      volume                      close     w/w
 ┌ ₹   497.00 ─ top    (2026-05-11)
 │   box height 20.9%
 └ ₹   411.05 ─ bottom (2026-06-02)  broke DOWN — red flag
+┌ ₹   463.30 ─ top    (2026-04-16)
+│   box height 3.9%
+└ ₹   446.10 ─ bottom (2026-04-20)  broke UP
+┌ ₹   414.00 ─ top    (2026-03-27)
+│   box height 8.3%
+└ ₹   382.15 ─ bottom (2026-03-30)  broke UP
+┌ ₹   472.40 ─ top    (2026-03-11)
+│   box height 11.8%
+└ ₹   422.50 ─ bottom (2026-03-16)  broke DOWN — red flag
   ✂ ₹   383.89 ─ stop loss (bottom − 0.3 × box height)
   ▲ ₹   411.00 ─ buy on a close above the box top
 ```
@@ -1574,37 +2272,38 @@ Positions carried between runs. The rhythm: this skill runs weekly after Friday'
 
 | Stock | First flagged | Action | Box (₹) | Stop | Updated |
 |---|---|---|---|---:|---|
-| AWFIS | 2026-09-12 | WATCH | — | exit | 2026-09-12 |
-| BLACKBUCK | 2026-09-12 | ACCUMULATE | 570.1–641.9 | ₹548.56 | 2026-09-12 |
-| CORONA | 2026-09-12 | SELL | 2,035.0–2,270.1 | exit | 2026-09-12 |
-| DBL | 2026-09-12 | WATCH | 390.1–411.0 | ₹383.89 | 2026-09-12 |
-| ELLEN | 2026-09-12 | BUY | 308.4–337.4 | ₹299.64 | 2026-09-12 |
-| GRANULES | 2026-09-12 | ACCUMULATE | 824.4–910.0 | ₹798.72 | 2026-09-12 |
-| GRAPHITE | 2026-09-12 | WATCH | 713.0–755.5 | ₹700.19 | 2026-09-12 |
-| HERITGFOOD | 2026-09-12 | WATCH | 349.3–392.1 | ₹336.46 | 2026-09-12 |
-| JSL | 2026-09-12 | BUY | 726.0–741.5 | ₹721.35 | 2026-09-12 |
-| MAHSEAMLES | 2026-09-12 | WATCH | 632.0–658.9 | ₹623.93 | 2026-09-12 |
-| MIDHANI | 2026-09-12 | BUY | 413.1–456.6 | ₹399.99 | 2026-09-12 |
-| ONESOURCE | 2026-09-12 | WATCH | 1,504.1–1,551.0 | ₹1,490.03 | 2026-09-12 |
-| PINELABS | 2026-09-12 | BUY | 134.7–184.9 | ₹119.67 | 2026-09-12 |
-| PVRINOX | 2026-09-12 | SELL | 1,192.4–1,284.5 | exit | 2026-09-12 |
-| RAYMONDLSL | 2026-09-12 | WATCH | 628.2–711.6 | ₹603.23 | 2026-09-12 |
-| SAMHI | 2026-09-12 | WATCH | 150.4–163.0 | ₹146.66 | 2026-09-12 |
-| SFL | 2026-09-12 | WATCH | 627.8–717.9 | ₹600.78 | 2026-09-12 |
-| SHAKTIPUMP | 2026-09-12 | WATCH | 465.0–487.1 | ₹458.37 | 2026-09-12 |
-| SHAREINDIA | 2026-09-12 | WATCH | 167.2–178.8 | ₹163.70 | 2026-09-12 |
-| STAR | 2026-09-12 | WATCH | 931.3–1,019.7 | ₹904.78 | 2026-09-12 |
-| SWANCORP | 2026-09-12 | SELL | 304.0–317.2 | exit | 2026-09-12 |
-| TATAINVEST | 2026-09-12 | SELL | 624.9–656.4 | exit | 2026-09-12 |
-| TEGA | 2026-09-12 | WATCH | 1,534.6–1,837.0 | ₹1,443.88 | 2026-09-12 |
-| WESTLIFE | 2026-09-12 | WATCH | 523.0–582.0 | ₹505.30 | 2026-09-12 |
-| ZYDUSWELL | 2026-09-12 | WATCH | 518.1–541.5 | ₹511.13 | 2026-09-12 |
+| AWFIS | 2026-09-12 | WATCH | — | exit | 2026-09-13 |
+| BLACKBUCK | 2026-09-12 | ACCUMULATE | 570.1–641.9 | ₹548.56 | 2026-09-13 |
+| CORONA | 2026-09-12 | SELL | 2,035.0–2,270.1 | exit | 2026-09-13 |
+| DBL | 2026-09-12 | WATCH | 390.1–411.0 | ₹383.89 | 2026-09-13 |
+| ELLEN | 2026-09-12 | BUY | 308.4–337.4 | ₹299.64 | 2026-09-13 |
+| GRANULES | 2026-09-12 | ACCUMULATE | 824.4–910.0 | ₹798.72 | 2026-09-13 |
+| GRAPHITE | 2026-09-12 | WATCH | 713.0–755.5 | ₹700.19 | 2026-09-13 |
+| HERITGFOOD | 2026-09-12 | WATCH | 349.3–392.1 | ₹336.46 | 2026-09-13 |
+| JSL | 2026-09-12 | BUY | 726.0–741.5 | ₹721.35 | 2026-09-13 |
+| MAHSEAMLES | 2026-09-12 | WATCH | 632.0–658.9 | ₹623.93 | 2026-09-13 |
+| MIDHANI | 2026-09-12 | BUY | 413.1–456.6 | ₹399.99 | 2026-09-13 |
+| ONESOURCE | 2026-09-12 | WATCH | 1,504.1–1,551.0 | ₹1,490.03 | 2026-09-13 |
+| PINELABS | 2026-09-12 | BUY | 134.7–184.9 | ₹119.67 | 2026-09-13 |
+| PVRINOX | 2026-09-12 | SELL | 1,192.4–1,284.5 | exit | 2026-09-13 |
+| RAYMONDLSL | 2026-09-12 | WATCH | 628.2–711.6 | ₹603.23 | 2026-09-13 |
+| SAMHI | 2026-09-12 | WATCH | 150.4–163.0 | ₹146.66 | 2026-09-13 |
+| SFL | 2026-09-12 | WATCH | 627.8–717.9 | ₹600.78 | 2026-09-13 |
+| SHAKTIPUMP | 2026-09-12 | WATCH | 465.0–487.1 | ₹458.37 | 2026-09-13 |
+| SHAREINDIA | 2026-09-12 | WATCH | 167.2–178.8 | ₹163.70 | 2026-09-13 |
+| STAR | 2026-09-12 | WATCH | 931.3–1,019.7 | ₹904.78 | 2026-09-13 |
+| SWANCORP | 2026-09-12 | SELL | 304.0–317.2 | exit | 2026-09-13 |
+| TATAINVEST | 2026-09-12 | SELL | 624.9–656.4 | exit | 2026-09-13 |
+| TEGA | 2026-09-12 | WATCH | 1,534.6–1,837.0 | ₹1,443.88 | 2026-09-13 |
+| WESTLIFE | 2026-09-12 | WATCH | 523.0–582.0 | ₹505.30 | 2026-09-13 |
+| ZYDUSWELL | 2026-09-12 | WATCH | 518.1–541.5 | ₹511.13 | 2026-09-13 |
 
 ## How this screen was built
 
-- **Data:** daily bars for the last six months for every NiftyTotalMarket symbol, fetched fresh THIS run (2026-09-12T10:19:34+00:00) from Yahoo Finance into `IndividualStockAnalysis/India/VolumeAndPricing/NiftyTotalMarket/`, aggregated into completed Monday-Friday weeks. 1 symbols were unavailable and are listed in `_fetch_log.csv`, never silently skipped.
+- **Data:** daily bars for the last six months for every NiftyTotalMarket symbol, fetched fresh THIS run (2026-09-13T06:58:36+00:00) from Yahoo Finance into `IndividualStockAnalysis/India/VolumeAndPricing/NiftyTotalMarket/`, aggregated into completed Monday-Friday weeks. 1 symbols were unavailable and are listed in `_fetch_log.csv`, never silently skipped.
 - **Trigger:** last completed week's volume ÷ mean of up to 12 prior completed weeks (minimum 6); qualification needs ≥1.5× AND a positive week. Tiers: ≥3× multifold, ≥2× strong, ≥1.5× elevated.
 - **Boxes:** Darvas's own rule — a top stands after 3 sessions fail to exceed it, then a bottom stands after 3 sessions fail to undercut it; a close above the top reaches for the higher box, a close below the bottom is the red flag.
 - **Stops:** bottom − 0.3 × box height, ratcheted up only (a 50–55 box stops near 48.5, a 70–85 box near 65.5 — the worked examples of the method).
+- **Volume trend:** month-wise totals from the same daily bars; BUILDING = volume rose month over month for at least the last two complete months; the running month is shown but never argued from.
 - **Earnings power:** EBITDA, EBITDA margin, PAT and PAT margin from the stored statements; the new-age read comes from the conference calls via the judge model and is cached per transcript. Anything unassessable is marked, never guessed.
 - Research tooling — not investment advice.

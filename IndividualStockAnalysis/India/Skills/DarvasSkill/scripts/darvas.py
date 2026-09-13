@@ -351,3 +351,57 @@ def update_ledger(path: Path, picks: list[dict],
         for r in ordered:
             w.writerow({k: r.get(k, "") for k in LEDGER_FIELDS})
     return ordered
+
+
+# ------------------------------------------------------- monthly volumes
+
+def monthly_volumes(daily: list[dict],
+                    running_month: str | None = None) -> list[dict]:
+    """Calendar-month volume totals from daily bars, oldest first.
+    The running month (default: the month of the last bar) is flagged
+    partial so no trend conclusion ever leans on an unfinished month."""
+    if not daily:
+        return []
+    running_month = running_month or daily[-1]["date"][:7]
+    by_m: dict[str, dict] = {}
+    for r in daily:
+        m = r["date"][:7]
+        e = by_m.setdefault(m, {"month": m, "volume": 0, "days": 0,
+                                "close": r["close"]})
+        e["volume"] += r["volume"]
+        e["days"] += 1
+        e["close"] = r["close"]
+    out = [by_m[m] for m in sorted(by_m)]
+    for e in out:
+        e["complete"] = e["month"] != running_month
+    return out
+
+
+def monthly_trend(months: list[dict]) -> dict:
+    """Is the volume BUILDING month over month, or was the trigger a
+    one-week event? Judged on COMPLETE months only — the running month
+    is shown but never argued from."""
+    comp = [m for m in months if m["complete"]]
+    if len(comp) < 3:
+        return {"verdict": "TOO SHORT", "rising_months": 0,
+                "why": "fewer than three complete months of data"}
+    streak = 0
+    for i in range(len(comp) - 1, 0, -1):
+        if comp[i]["volume"] > comp[i - 1]["volume"]:
+            streak += 1
+        else:
+            break
+    if streak >= 2:
+        return {"verdict": "BUILDING", "rising_months": streak,
+                "why": f"volume has risen month over month for the last "
+                       f"{streak} complete months — buying pressure has "
+                       f"been building, not arriving in one week"}
+    prior = [m["volume"] for m in comp[:-1]]
+    last = comp[-1]["volume"]
+    if prior and last > 1.5 * (sum(prior) / len(prior)):
+        return {"verdict": "STEPPED UP", "rising_months": streak,
+                "why": "the last complete month traded well above the "
+                       "months before it"}
+    return {"verdict": "SPIKE ONLY", "rising_months": streak,
+            "why": "monthly volumes were flat before the trigger — the "
+                   "surge is a one-week event so far, not a building trend"}
