@@ -529,3 +529,89 @@ def test_backtest_banner_discloses_the_cuts():
     assert "as of 2026-03-31" in b
     assert "Mar 2026" in b and "EXCLUDED" in b
     assert "would not all have been published" in b   # the optimism, stated
+
+
+# ------------------------------------------------- the walk-forward rhythm
+
+import walkforward as WF
+
+
+def _wf_bars(seq, start="2026-01-05"):
+    """[(high, low, close)] -> consecutive WEEKDAY bars (Mon-Fri only)."""
+    d = dt.date.fromisoformat(start)
+    out = []
+    for h, l, c in seq:
+        while d.weekday() >= 5:
+            d += dt.timedelta(days=1)
+        out.append({"date": d.isoformat(), "high": float(h),
+                    "low": float(l), "close": float(c)})
+        d += dt.timedelta(days=1)
+    return out
+
+
+BOX_5055 = [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+
+
+def test_walkforward_ratchets_the_stop_on_a_new_higher_box():
+    seq = (BOX_5055
+           + [(58, 54, 57)] + [(62, 57, 60)]
+           + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]
+           + [(60, 56, 58), (61, 57, 59), (60, 57, 59)]
+           + [(61, 58, 60)] * 5)
+    bars = _wf_bars(seq)
+    r = WF.simulate_position(bars, bars[0]["date"], 54.0, 48.5,
+                             bars[-1]["date"])
+    assert r["events"], "the higher box must ratchet the stop"
+    assert r["final_stop"] == pytest.approx(54.2)      # 56 − 0.3×6
+    assert all(e["to"] > (e["from"] or 0) for e in r["events"])
+    assert r["reason"] == "held through the period"
+
+
+def test_walkforward_stop_hit_exits_at_the_stop_price():
+    seq = BOX_5055 + [(52, 47, 47.5)]      # low 47 pierces the 48.5 stop
+    bars = _wf_bars(seq)
+    r = WF.simulate_position(bars, bars[0]["date"], 54.0, 48.5,
+                             bars[-1]["date"])
+    assert r["reason"] == "stop hit"
+    assert r["exit_px"] == pytest.approx(48.5)         # at the stop, not the low
+
+
+def test_walkforward_weekly_breakdown_sells_at_that_close():
+    # closes below the 50 bottom but lows never reach the 48.5 stop:
+    # only the WEEKLY run catches it, at that day's close
+    seq = BOX_5055 + [(51, 49.4, 49.5), (50.5, 49.4, 49.6),
+                      (50.5, 49.4, 49.5), (50.5, 49.4, 49.6),
+                      (50.5, 49.4, 49.5)]
+    bars = _wf_bars(seq)
+    r = WF.simulate_position(bars, bars[0]["date"], 54.0, 48.5,
+                             bars[-1]["date"])
+    assert "weekly SELL signal" in r["reason"]
+    assert r["exit_px"] == pytest.approx(49.5, abs=0.2)
+
+
+def test_walkforward_watch_enters_on_the_first_close_above_the_top():
+    seq = BOX_5055 + [(55.5, 53, 54.8), (56.5, 54, 56.2), (57, 55, 56.5)]
+    bars = _wf_bars(seq)
+    hit = WF.watch_entry(bars, bars[0]["date"], 55.0, bars[-1]["date"])
+    assert hit is not None and hit["px"] == pytest.approx(56.2)
+    assert hit["date"] == bars[len(BOX_5055) + 1]["date"]
+    assert WF.watch_entry(bars, bars[0]["date"], 99.0,
+                          bars[-1]["date"]) is None
+
+
+def test_walkforward_refuses_a_mismatched_archive_seam(tmp_path):
+    import io
+    hdr = "symbol,date,open,high,low,close,volume\n"
+    (tmp_path / "_all_daily_long.csv").write_text(
+        hdr + "AAA,2026-03-20,10,11,9,100.0,5\n")
+    live_dir = tmp_path / "live"
+    live_dir.mkdir()
+    (live_dir / "_all_daily_long.csv").write_text(
+        hdr + "AAA,2026-03-20,10,11,9,50.0,5\n")   # a 2:1 adjustment
+    old = DV.DATA_DIR
+    DV.DATA_DIR = live_dir
+    try:
+        with pytest.raises(ValueError, match="corporate action"):
+            WF.stitched_bars(tmp_path, ["AAA"])
+    finally:
+        DV.DATA_DIR = old

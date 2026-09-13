@@ -78,7 +78,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 43 tests
+python3 -m pytest scripts/test_skill.py -q     # 48 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -99,6 +99,23 @@ and the backtest keeps its own report and ledger so the live
 stating every one of these cuts, including the honest caveat that the
 as-of fiscal year's annuals would not all have been public on the as-of
 date.
+
+### The walk-forward — the rhythm, replayed
+
+```bash
+python3 scripts/walkforward.py --asof 2026-03-31
+```
+
+Replays a backtest's picks (never re-chosen) under the real rhythm:
+daily standing stops, a weekly run that re-seals boxes and ratchets
+stops up, weekly BREAKDOWN sells, and WATCH picks entering on their own
+buy-above instruction. It appends the complete dated trade blotter —
+every buy, every stop raise with the box that justified it, every exit
+with its reason — plus a three-way comparison (buy & hold vs initial
+stop vs the ratchet) to the backtest report. The two price archives are
+stitched with a verified seam (any overlapping day disagreeing by more
+than 0.5% aborts, so a corporate-action adjustment can never fabricate
+a move).
 
 ## Data and outputs
 
