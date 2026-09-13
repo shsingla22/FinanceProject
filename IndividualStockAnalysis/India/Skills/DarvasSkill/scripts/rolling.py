@@ -61,6 +61,21 @@ MIN_DEPLOY_FRACTION = 0.5    # never open a position below half a slice
 LOOKBACK = WF.BOX_LOOKBACK_BARS
 
 
+def inr(x: float) -> str:
+    """Indian-system money: plain rupees below a lakh, then lakh,
+    crore, lakh crore, crore crore, lakh crore crore — so a blotter
+    or report line stays legible however big the doubling engine's
+    numbers grow. Prices are never fed through this — only amounts."""
+    sign = "-" if x < 0 else ""
+    a = abs(x)
+    for unit, name in ((1e19, "lakh crore crore"), (1e14, "crore crore"),
+                       (1e12, "lakh crore"), (1e7, "crore"),
+                       (1e5, "lakh")):
+        if a >= unit:
+            return f"{sign}₹{a / unit:,.2f} {name}"
+    return f"{sign}₹{a:,.2f}"
+
+
 # ------------------------------------------------------------------ data
 
 def stitch_universe(backtest_dir: Path,
@@ -218,8 +233,8 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                           "cost": amt, "last_px": px, "ratchets": 0,
                           "lots": [{"date": d, "px": px,
                                     "shares": notional / px}]}
-        extra = f"; charges ₹{charge:,.4f}" if frictions else ""
-        blotter.append((d, sym, f"BUY ₹{amt:,.2f} at ₹{px:,.2f} "
+        extra = f"; charges {inr(charge)}" if frictions else ""
+        blotter.append((d, sym, f"BUY {inr(amt)} at ₹{px:,.2f} "
                                 f"({why}; stop ₹{stop:,.2f}{extra})"))
 
     def add_to_position(sym, d, px, amt, why):
@@ -238,8 +253,8 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         p["cost"] += amt
         p["entry_px"] = (sum(l["px"] * l["shares"] for l in p["lots"])
                          / p["shares"])
-        extra = f"; charges ₹{charge:,.4f}" if frictions else ""
-        blotter.append((d, sym, f"PYRAMID BUY ₹{amt:,.2f} at ₹{px:,.2f} "
+        extra = f"; charges {inr(charge)}" if frictions else ""
+        blotter.append((d, sym, f"PYRAMID BUY {inr(amt)} at ₹{px:,.2f} "
                                 f"({why}; stop stays ₹{p['stop']:,.2f}"
                                 f"{extra})"))
 
@@ -259,8 +274,8 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         closed.append({"symbol": sym, **p, "exit_date": d,
                        "exit_px": exit_px, "proceeds": proceeds,
                        "ret_pct": ret})
-        extra = f", charges ₹{charge:,.4f}" if frictions else ""
-        blotter.append((d, sym, f"SELL ₹{proceeds:,.2f} at {reason} "
+        extra = f", charges {inr(charge)}" if frictions else ""
+        blotter.append((d, sym, f"SELL {inr(proceeds)} at {reason} "
                                 f"₹{exit_px:,.2f} ({ret:+.1f}%{extra}) — "
                                 f"the cash goes back to work at the next "
                                 f"Friday screen"))
@@ -297,15 +312,15 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 p["cost"] *= (1 - frac)
                 cash += proceeds
                 blotter.append((d, s, f"TRIM {frac * 100:.1f}% "
-                                      f"(₹{proceeds:,.2f} at ₹{px:,.2f}) "
+                                      f"({inr(proceeds)} at ₹{px:,.2f}) "
                                       f"to pay the tax bill"))
         paid = min(tax, cash)
         cash -= paid
-        blotter.append((d, "TAX", f"{fy} settled: ₹{paid:,.4f} paid "
-                        f"(STCG ₹{r['st_taxable']:,.2f} @20%, LTCG "
-                        f"₹{r['lt_taxable']:,.2f} @12.5%; losses carried "
-                        f"forward ST ₹{r['cf_st']:,.2f} / LT "
-                        f"₹{r['cf_lt']:,.2f})"))
+        blotter.append((d, "TAX", f"{fy} settled: {inr(paid)} paid "
+                        f"(STCG {inr(r['st_taxable'])} @20%, LTCG "
+                        f"{inr(r['lt_taxable'])} @12.5%; losses carried "
+                        f"forward ST {inr(r['cf_st'])} / LT "
+                        f"{inr(r['cf_lt'])})"))
         next_tax = FR.next_april_first(d)
 
     # ---- the seed book: same day, same prices as the frozen replay

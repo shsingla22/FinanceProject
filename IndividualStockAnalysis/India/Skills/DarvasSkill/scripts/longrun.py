@@ -65,6 +65,8 @@ FETCH_START = dt.date(2019, 6, 1)     # one year of runway before screening
 SCREEN_START = "2020-06-01"           # first Friday screen: 2020-06-05
 SLOTS = 10                            # equal slices: one tenth of equity
 
+inr = RL.inr                          # Indian-system money formatting
+
 _MONTHS = {m: i + 1 for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
      "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])}
@@ -252,7 +254,7 @@ def _write_events_csv(path: Path, res: dict) -> None:
 
 def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
                  archive: Path, n_syms: int) -> Path:
-    tag = f"{SCREEN_START}_to_{through}"
+    tag = f"{args.screen_start}_to_{through}"
     report = OUT_DIR / f"DARVAS_BACKTEST_LONGRUN_{tag}.md"
     pyr, plain = runs["pyr_net"], runs["plain_net"]
     _write_events_csv(OUT_DIR / f"_longrun_events_{tag}.csv", pyr)
@@ -288,8 +290,15 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
               if "BUY ₹" in b[2] or "SELL ₹" in b[2]
               or b[1] == "TAX" or b[2].startswith("TRIM")]
 
-    A = [f"# The Darvas screen, run for six years — {SCREEN_START} → "
-         f"{through}", "",
+    runway_days = (dt.date.fromisoformat(args.screen_start)
+                   - FETCH_START).days
+    runway_note = ("" if runway_days >= 360 else
+                   f" The earliest screens run on ~{runway_days // 30} "
+                   f"months of history instead of a full year — every "
+                   f"gate's own minimum (6 completed weeks, 120 baseline "
+                   f"days) is still enforced, screens simply judge a "
+                   f"shorter norm at first.")
+    A = [f"# The Darvas screen — {args.screen_start} → {through}", "",
          f"> **LONG-RUN BACKTEST, TWO ENGINES.** One continuous price "
          f"archive ({FETCH_START} → {through}, {n_syms} symbols, in "
          f"`{archive.name}/`); every Friday screen sees only bars up to "
@@ -302,7 +311,7 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
          f"NiftyTotalMarket constituents (survivorship bias flatters "
          f"the early years), and Yahoo serves split-adjusted history. "
          f"No slippage, stop exits at the stop price, fractional "
-         f"shares.", "",
+         f"shares.{runway_note}", "",
          "## The two engines", "",
          f"**Common rules.** ₹{args.capital:,.0f} starts all in cash. "
          f"Every Friday after the close the full three-gate screen "
@@ -332,35 +341,34 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
          f"tax lot on its own holding clock; the ratcheted stop covers "
          f"the whole enlarged position.", "",
          "## The headline — XIRR is the honest yardstick", "",
-         "| Engine | Money put in (₹) | Final value (₹) | "
-         "XIRR (per year) |",
+         "| Engine | Money put in | Final value | XIRR (per year) |",
          "|---|---:|---:|---:|",
          f"| **B: doubling, NET of charges and tax** | "
-         f"{args.capital + pyr['total_injected']:,.2f} "
-         f"(₹{args.capital:,.0f} + ₹{pyr['total_injected']:,.2f} "
-         f"injected) | **{pyr['final_equity']:,.2f}** | "
+         f"{inr(args.capital + pyr['total_injected'])} "
+         f"(₹{args.capital:,.0f} + {inr(pyr['total_injected'])} "
+         f"injected) | **{inr(pyr['final_equity'])}** | "
          f"**{X['pyr_net']:+.2f}%** |",
          f"| B: doubling, before charges and tax | "
-         f"{args.capital + runs['pyr_gross']['total_injected']:,.2f} | "
-         f"{runs['pyr_gross']['final_equity']:,.2f} | "
+         f"{inr(args.capital + runs['pyr_gross']['total_injected'])} | "
+         f"{inr(runs['pyr_gross']['final_equity'])} | "
          f"{X['pyr_gross']:+.2f}% |",
          f"| **A: no doubling, NET of charges and tax** | "
-         f"{args.capital:,.2f} | **{plain['final_equity']:,.2f}** | "
+         f"{inr(args.capital)} | **{inr(plain['final_equity'])}** | "
          f"**{X['plain_net']:+.2f}%** |",
          f"| A: no doubling, before charges and tax | "
-         f"{args.capital:,.2f} | "
-         f"{runs['plain_gross']['final_equity']:,.2f} | "
+         f"{inr(args.capital)} | "
+         f"{inr(runs['plain_gross']['final_equity'])} | "
          f"{X['plain_gross']:+.2f}% |"]
     if nifty_100:
-        A.append(f"| Nifty 50 (pre-cost, pre-tax) | 100.00 | "
-                 f"{nifty_100:,.2f} | {nifty_xirr:+.2f}% |")
+        A.append(f"| Nifty 50 (pre-cost, pre-tax) | ₹100.00 | "
+                 f"{inr(nifty_100)} | {nifty_xirr:+.2f}% |")
     A += ["",
           f"*With a single starting flow (engine A, the Nifty) the XIRR "
           f"IS the CAGR. Engine B's XIRR weighs every injection by how "
           f"long it was invested. Tax accrued on the final part-year, "
           f"due next April and not yet paid: engine B "
-          f"₹{acc['pyr']['tax']:,.2f}, engine A "
-          f"₹{acc['plain']['tax']:,.2f}; unrealised gains in both end "
+          f"{inr(acc['pyr']['tax'])}, engine A "
+          f"{inr(acc['plain']['tax'])}; unrealised gains in both end "
           f"books carry further deferred liabilities.*", "",
           f"{days / 365.25:.2f} years, {len(curve)} weekly screens. "
           f"Engine B injected new capital {len(pyr['injections'])} "
@@ -371,12 +379,12 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
     A += ["## What the frictions took (net runs)", "",
           "| | Engine A: no doubling | Engine B: doubling |",
           "|---|---:|---:|",
-          f"| Transaction charges | ₹{frs['plain'].total_costs:,.2f} | "
-          f"₹{frs['pyr'].total_costs:,.2f} |",
-          f"| Capital-gains tax paid | ₹{frs['plain'].total_tax:,.2f} | "
-          f"₹{frs['pyr'].total_tax:,.2f} |",
+          f"| Transaction charges | {inr(frs['plain'].total_costs)} | "
+          f"{inr(frs['pyr'].total_costs)} |",
+          f"| Capital-gains tax paid | {inr(frs['plain'].total_tax)} | "
+          f"{inr(frs['pyr'].total_tax)} |",
           f"| Tax accrued, final part-year | "
-          f"₹{acc['plain']['tax']:,.2f} | ₹{acc['pyr']['tax']:,.2f} |",
+          f"{inr(acc['plain']['tax'])} | {inr(acc['pyr']['tax'])} |",
           "",
           "*Angel One equity delivery: STT 0.10% both sides, NSE "
           "transaction charge 0.00297%, SEBI fee 0.0001%, 18% GST on "
@@ -396,13 +404,13 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
               "|---|---|---:|---:|---:|---:|"]
         for t in frs[key].tax_rows:
             A.append(f"| {t['fy']} | {t['paid_on']} | "
-                     f"₹{t['st_taxable']:,.2f} | ₹{t['lt_taxable']:,.2f} "
-                     f"| ₹{t['tax']:,.4f} | ₹{t['cf_st']:,.2f} / "
-                     f"₹{t['cf_lt']:,.2f} |")
+                     f"{inr(t['st_taxable'])} | {inr(t['lt_taxable'])} "
+                     f"| {inr(t['tax'])} | {inr(t['cf_st'])} / "
+                     f"{inr(t['cf_lt'])} |")
         a = acc[key]
-        A += [f"| FY2027 (accrued) | — | ₹{a['st_taxable']:,.2f} | "
-              f"₹{a['lt_taxable']:,.2f} | ₹{a['tax']:,.4f} | "
-              f"₹{a['cf_st']:,.2f} / ₹{a['cf_lt']:,.2f} |", ""]
+        A += [f"| Final part-year (accrued) | — | {inr(a['st_taxable'])} "
+              f"| {inr(a['lt_taxable'])} | {inr(a['tax'])} | "
+              f"{inr(a['cf_st'])} / {inr(a['cf_lt'])} |", ""]
 
     plain_yearly = {r["year"]: r for r in _yearly(plain["equity_curve"])}
     A += ["## Calendar-year returns (net runs)", "",
@@ -418,8 +426,8 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
     for r in dietz_yearly(curve, pyr["injections"]):
         pl = plain_yearly.get(r["year"])
         line = (f"| {r['year']} ({r['through']}) | "
-                f"{pl['equity']:,.2f} | {pl['ret_pct']:+.1f}% | "
-                f"{r['equity']:,.2f} | ₹{r['injected']:,.2f} | "
+                f"{inr(pl['equity'])} | {pl['ret_pct']:+.1f}% | "
+                f"{inr(r['equity'])} | {inr(r['injected'])} | "
                 f"{r['ret_pct']:+.1f}% |")
         if nifty:
             n_now = nifty_by_date.get(r["through"]) or next(
@@ -463,8 +471,8 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
           f"qualifies, the money waits.", ""]
 
     A += ["## Monthly equity curve (net runs)", "",
-          "| Month-end screen | B equity (₹) | B injected so far | "
-          "B cash | B positions | A equity (₹) |",
+          "| Month-end screen | B equity | B injected so far | "
+          "B cash | B positions | A equity |",
           "|---|---:|---:|---:|---:|---:|"]
     plain_by_month: dict[str, dict] = {}
     for w in plain["equity_curve"]:
@@ -474,10 +482,10 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
         last_in_month[w["date"][:7]] = w
     for m, w in sorted(last_in_month.items()):
         pw = plain_by_month.get(m)
-        A.append(f"| {w['date']} | {w['equity']:,.2f} | "
-                 f"{w['injected']:,.2f} | {w['cash']:,.2f} | "
+        A.append(f"| {w['date']} | {inr(w['equity'])} | "
+                 f"{inr(w['injected'])} | {inr(w['cash'])} | "
                  f"{w['positions']} | "
-                 f"{pw['equity'] if pw else float('nan'):,.2f} |")
+                 f"{inr(pw['equity']) if pw else '—'} |")
     A.append("")
 
     if pyr["book"]:
@@ -528,6 +536,10 @@ def main() -> None:
                     help="reuse the stored archive, never fetch")
     ap.add_argument("--end", default=None,
                     help="archive end date (default: today)")
+    ap.add_argument("--screen-start", default=SCREEN_START,
+                    help="first screen date (default: 2020-06-01)")
+    ap.add_argument("--screen-end", default=None,
+                    help="last screen date (default: the archive's end)")
     args = ap.parse_args()
 
     end = (dt.date.fromisoformat(args.end) if args.end else dt.date.today())
@@ -543,7 +555,11 @@ def main() -> None:
 
     bars_by = load_bars(archive)
     print(f"{len(bars_by)} symbols loaded", file=sys.stderr)
-    through = max(b[-1]["date"] for b in bars_by.values())
+    dates = sorted({b["date"] for bars in bars_by.values() for b in bars})
+    through = dates[-1]
+    if args.screen_end:
+        through = max(d for d in dates if d <= args.screen_end)
+    print(f"screens {args.screen_start} → {through}", file=sys.stderr)
 
     earnings_ok = make_earnings_ok()
     frs = {"plain": FR.AngelOneFrictions(), "pyr": FR.AngelOneFrictions()}
@@ -553,7 +569,7 @@ def main() -> None:
                              ("pyr_gross", True, None),
                              ("pyr_net", True, frs["pyr"])):
         print(f"{key} replay…", file=sys.stderr)
-        runs[key] = RL.run_rolling(bars_by, [], SCREEN_START, through,
+        runs[key] = RL.run_rolling(bars_by, [], args.screen_start, through,
                                    args.capital, earnings_ok, slots=SLOTS,
                                    frictions=fr, pyramid=pyramid)
         r = runs[key]
@@ -561,7 +577,8 @@ def main() -> None:
               f"₹{r['total_injected']:,.2f}", file=sys.stderr)
 
     try:
-        nifty = fetch_nifty(dt.date.fromisoformat(SCREEN_START), end)
+        nifty = fetch_nifty(dt.date.fromisoformat(args.screen_start),
+                            dt.date.fromisoformat(through))
     except Exception as e:                # noqa: BLE001 — benchmark only
         print(f"nifty fetch failed ({e}); report goes out without the "
               f"benchmark", file=sys.stderr)

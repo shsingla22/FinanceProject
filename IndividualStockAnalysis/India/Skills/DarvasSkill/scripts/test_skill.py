@@ -1041,7 +1041,7 @@ def test_rolling_with_frictions_charges_orders_and_settles_april_tax():
     assert "charges ₹" in text
     # the AAA loss is short-term and carries forward — no tax due
     tax_lines = [b for b in res["blotter"] if b[1] == "TAX"]
-    assert len(tax_lines) == 1 and "FY2026 settled: ₹0.0000" in tax_lines[0][2]
+    assert len(tax_lines) == 1 and "FY2026 settled: ₹0.00 paid" in tax_lines[0][2]
     assert f.cf_st > 0 and f.total_tax == 0.0
     # charges genuinely shrank the position: fewer than 1 share of AAA
     aaa_trade = [c for c in res["closed"] if c["symbol"] == "AAA"][0]
@@ -1179,3 +1179,13 @@ def test_xirr_accounts_for_money_added_along_the_way():
     flows = [("2020-01-01", -100.0), ("2021-01-01", -100.0),
              ("2022-01-01", 231.0)]
     assert LR.xirr(flows) == pytest.approx(10.0, abs=0.05)
+
+
+def test_inr_formats_in_lakhs_and_crores_when_the_numbers_grow():
+    assert RL.inr(788.82) == "₹788.82"
+    assert RL.inr(99_999.99) == "₹99,999.99"
+    assert RL.inr(123_456) == "₹1.23 lakh"
+    assert RL.inr(2.5e7) == "₹2.50 crore"
+    assert RL.inr(3.2e12) == "₹3.20 lakh crore"
+    assert RL.inr(8.4e21) == "₹840.00 lakh crore crore"
+    assert RL.inr(-150_000) == "-₹1.50 lakh"
