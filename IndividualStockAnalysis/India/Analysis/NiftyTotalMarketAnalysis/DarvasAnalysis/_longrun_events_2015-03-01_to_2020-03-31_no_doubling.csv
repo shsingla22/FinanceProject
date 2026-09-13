@@ -1,0 +1,1183 @@
+date,symbol,event
+2015-03-09,ECLERX,"BUY ₹9.98 at ₹1,550.00 (fresh Friday signal — BUY: 3.25× weekly, month 2.52×, ladder rising; stop ₹1,171.35; charges ₹0.01)"
+2015-03-09,GEOMETRIC,"BUY ₹10.00 at ₹157.60 (fresh Friday signal — BUY: 6.64× weekly, month 1.62×, ladder rising; stop ₹130.15; charges ₹0.01)"
+2015-03-09,HCC,"BUY ₹10.03 at ₹36.45 (fresh Friday signal — BUY: 3.01× weekly, month 1.69×, ladder rising; stop ₹28.57; charges ₹0.01)"
+2015-03-09,JBMA,"BUY ₹9.99 at ₹239.80 (fresh Friday signal — BUY: 2.78× weekly, month 2.63×, ladder rising; stop ₹188.60; charges ₹0.01)"
+2015-03-09,RAMCOSYS,"BUY ₹9.98 at ₹694.70 (fresh Friday signal — BUY: 2.12× weekly, month 5.40×, ladder rising; stop ₹532.00; charges ₹0.01)"
+2015-03-09,SMLISUZU,"BUY ₹10.03 at ₹1,200.00 (fresh Friday signal — BUY: 2.25× weekly, month 1.55×, ladder rising; stop ₹949.52; charges ₹0.01)"
+2015-03-09,SOMANYCERA,"BUY ₹10.01 at ₹405.00 (fresh Friday signal — BUY: 6.10× weekly, month 1.53×, ladder rising; stop ₹336.63; charges ₹0.01)"
+2015-03-09,SPARC,"BUY ₹10.09 at ₹476.00 (fresh Friday signal — BUY: 1.67× weekly, month 2.23×, ladder rising; stop ₹295.36; charges ₹0.01)"
+2015-03-09,TWL,"BUY ₹9.96 at ₹728.70 (fresh Friday signal — BUY: 2.00× weekly, month 9.35×, ladder rising; stop ₹479.92; charges ₹0.01)"
+2015-03-13,BFINVEST,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.04× weekly, month 4.28×, ladder rising)"
+2015-03-13,FORTIS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.22× weekly, month 8.74×, ladder rising)"
+2015-03-13,GEOMETRIC,RAISE STOP ₹130.15 → ₹145.35 (new box ₹153.00–₹177.80 sealed)
+2015-03-13,INFINITE,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.18× weekly, month 10.31×, ladder rising)"
+2015-03-13,JBMA,RAISE STOP ₹188.60 → ₹222.30 (new box ₹234.00–₹260.00 sealed)
+2015-03-13,LUPIN,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.76× weekly, month 2.27×, ladder rising)"
+2015-03-13,NCC,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.72× weekly, month 3.22×, ladder rising)"
+2015-03-13,PGEL,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.52× weekly, month 4.68×, ladder rising)"
+2015-03-16,AARTIIND,"BUY ₹9.80 at ₹360.80 (fresh Friday signal — BUY: 5.16× weekly, month 1.97×, ladder rising; stop ₹270.94; charges ₹0.01)"
+2015-03-20,ECLERX,"RAISE STOP ₹1,171.35 → ₹1,320.70 (new box ₹1,399.00–₹1,660.00 sealed)"
+2015-03-20,GEOMETRIC,RAISE STOP ₹145.35 → ₹158.22 (new box ₹166.55–₹184.40 sealed)
+2015-03-20,RAMCOSYS,RAISE STOP ₹532.00 → ₹597.69 (new box ₹629.15–₹719.90 sealed)
+2015-03-20,SOMANYCERA,RAISE STOP ₹336.63 → ₹341.63 (new box ₹361.00–₹425.55 sealed)
+2015-03-23,JBMA,"SELL ₹9.24 at stop ₹222.30 (-7.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-03-27,CENTURYTEX,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.02× weekly, month 1.53×, ladder rising)"
+2015-03-27,LUPIN,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.05× weekly, month 2.58×, ladder rising)"
+2015-03-27,SOLARINDS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 6.38× weekly, month 1.95×, ladder rising)"
+2015-03-27,SUVEN,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.82× weekly, month 2.46×, ladder rising)"
+2015-03-30,DYNAMATECH,"BUY ₹9.37 at ₹3,843.00 (fresh Friday signal — BUY: 10.44× weekly, month 3.95×, ladder rising; stop ₹3,081.75; charges ₹0.01)"
+2015-04-01,AARTIIND,RAISE STOP ₹270.94 → ₹300.44 (new box ₹318.20–₹377.40 sealed)
+2015-04-01,SMLISUZU,"RAISE STOP ₹949.52 → ₹983.70 (new box ₹1,053.00–₹1,284.00 sealed)"
+2015-04-01,SPARC,RAISE STOP ₹295.36 → ₹426.12 (new box ₹448.55–₹513.00 sealed)
+2015-04-01,TAX,"FY2015 settled: ₹0.00 paid (STCG ₹0.00 @20%, LTCG ₹0.00 @12.5%; losses carried forward ST ₹0.73 / LT ₹0.00)"
+2015-04-21,SPARC,"SELL ₹9.01 at stop ₹426.12 (-10.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-04-22,DYNAMATECH,"SELL ₹7.50 at stop ₹3,081.75 (-19.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-04-22,GEOMETRIC,"SELL ₹10.02 at stop ₹158.22 (+0.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-04-23,TWL,"SELL ₹6.55 at stop ₹479.92 (-34.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-04-24,HCC,RAISE STOP ₹28.57 → ₹31.21 (new box ₹32.85–₹36.80 sealed)
+2015-04-24,SOMANYCERA,RAISE STOP ₹341.63 → ₹418.24 (new box ₹440.25–₹459.95 sealed)
+2015-04-27,AARTIIND,"SELL ₹8.14 at stop ₹300.44 (-16.7%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-04-27,HCC,"SELL ₹8.57 at stop ₹31.21 (-14.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-04-27,PETRONENGG,"BUY ₹8.84 at ₹250.10 (fresh Friday signal — BUY: 5.67× weekly, month 3.79×, ladder rising; stop ₹207.41; charges ₹0.01)"
+2015-04-27,RAMCOSYS,"SELL ₹8.57 at stop ₹597.69 (-14.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-04-27,SOMANYCERA,"SELL ₹10.32 at stop ₹418.24 (+3.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-05-04,VADILALIND,"BUY ₹9.06 at ₹487.00 (fresh Friday signal — BUY: 10.46× weekly, month 4.23×, ladder rising; stop ₹323.00; charges ₹0.01)"
+2015-05-08,VADILALIND,RAISE STOP ₹323.00 → ₹451.91 (new box ₹475.70–₹519.00 sealed)
+2015-05-11,ABIRLANUVO,"BUY ₹8.99 at ₹945.00 (fresh Friday signal — BUY: 5.18× weekly, month 1.67×, ladder rising; stop ₹713.90; charges ₹0.01)"
+2015-05-18,MANINDS,"BUY ₹9.01 at ₹70.00 (fresh Friday signal — ACCUMULATE: 4.03× weekly, month 3.68×, ladder rising; stop ₹54.94; charges ₹0.01)"
+2015-05-18,NILKAMAL,"BUY ₹8.98 at ₹524.95 (fresh Friday signal — BUY: 5.24× weekly, month 2.21×, ladder rising; stop ₹413.10; charges ₹0.01)"
+2015-05-18,WELSPUNIND,"BUY ₹9.02 at ₹42.88 (fresh Friday signal — BUY: 1.85× weekly, month 1.82×, ladder rising; stop ₹37.14; charges ₹0.01)"
+2015-05-22,ABIRLANUVO,RAISE STOP ₹713.90 → ₹850.92 (new box ₹895.70–₹950.90 sealed)
+2015-05-22,VADILALIND,RAISE STOP ₹451.91 → ₹463.60 (new box ₹488.00–₹536.00 sealed)
+2015-05-29,WELSPUNIND,RAISE STOP ₹37.14 → ₹40.67 (new box ₹42.81–₹45.60 sealed)
+2015-06-01,IGARASHI,"BUY ₹5.81 at ₹516.80 (fresh Friday signal — BUY: 2.29× weekly, month 1.55×, ladder rising; stop ₹351.60; charges ₹0.01)"
+2015-06-01,INFRATEL,"BUY ₹8.96 at ₹462.10 (fresh Friday signal — BUY: 5.86× weekly, month 3.68×, ladder rising; stop ₹400.24; charges ₹0.01)"
+2015-06-03,ABIRLANUVO,"SELL ₹8.08 at stop ₹850.92 (-10.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-06-03,PETRONENGG,"SELL ₹7.31 at stop ₹207.41 (-17.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-06-08,TORNTPHARM,"BUY ₹8.58 at ₹1,244.00 (fresh Friday signal — ACCUMULATE: 1.79× weekly, month 1.51×, ladder rising; stop ₹1,107.70; charges ₹0.01)"
+2015-06-09,WELSPUNIND,"SELL ₹8.54 at stop ₹40.67 (-5.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-06-12,IGARASHI,RAISE STOP ₹351.60 → ₹398.82 (new box ₹431.15–₹538.90 sealed)
+2015-06-15,CHENNPETRO,"BUY ₹8.45 at ₹135.25 (fresh Friday signal — BUY: 3.80× weekly, month 3.78×, ladder rising; stop ₹94.03; charges ₹0.01)"
+2015-06-15,DISHTV,"BUY ₹6.89 at ₹107.40 (fresh Friday signal — BUY: 3.53× weekly, month 2.47×, ladder rising; stop ₹90.11; charges ₹0.01)"
+2015-06-19,MANINDS,RAISE STOP ₹54.94 → ₹67.54 (new box ₹71.10–₹80.90 sealed)
+2015-06-19,NILKAMAL,RAISE STOP ₹413.10 → ₹479.89 (new box ₹505.15–₹583.35 sealed)
+2015-06-19,SMLISUZU,"RAISE STOP ₹983.70 → ₹997.50 (new box ₹1,050.00–₹1,149.95 sealed)"
+2015-06-26,TORNTPHARM,"RAISE STOP ₹1,107.70 → ₹1,249.25 (new box ₹1,315.00–₹1,368.50 sealed)"
+2015-07-03,CHENNPETRO,RAISE STOP ₹94.03 → ₹141.50 (new box ₹152.20–₹187.85 sealed)
+2015-07-03,DISHTV,RAISE STOP ₹90.11 → ₹93.74 (new box ₹99.20–₹117.40 sealed)
+2015-07-03,MANINDS,RAISE STOP ₹67.54 → ₹81.13 (new box ₹85.40–₹93.75 sealed)
+2015-07-03,SMLISUZU,"RAISE STOP ₹997.50 → ₹1,053.55 (new box ₹1,109.00–₹1,185.00 sealed)"
+2015-07-17,NILKAMAL,RAISE STOP ₹479.89 → ₹547.82 (new box ₹576.65–₹625.95 sealed)
+2015-07-17,VADILALIND,RAISE STOP ₹463.60 → ₹637.45 (new box ₹671.00–₹767.90 sealed)
+2015-07-24,IGARASHI,RAISE STOP ₹398.82 → ₹599.45 (new box ₹631.00–₹708.80 sealed)
+2015-07-31,CHENNPETRO,RAISE STOP ₹141.50 → ₹161.50 (new box ₹170.00–₹192.40 sealed)
+2015-07-31,MANINDS,RAISE STOP ₹81.13 → ₹95.77 (new box ₹102.95–₹126.90 sealed)
+2015-07-31,VADILALIND,RAISE STOP ₹637.45 → ₹716.44 (new box ₹755.00–₹883.55 sealed)
+2015-08-07,DISHTV,RAISE STOP ₹93.74 → ₹102.60 (new box ₹108.00–₹120.60 sealed)
+2015-08-07,NILKAMAL,RAISE STOP ₹547.82 → ₹730.69 (new box ₹769.15–₹859.40 sealed)
+2015-08-07,TORNTPHARM,"RAISE STOP ₹1,249.25 → ₹1,330.00 (new box ₹1,400.00–₹1,515.00 sealed)"
+2015-08-13,VADILALIND,"SELL ₹13.29 at stop ₹716.44 (+47.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-08-14,AARTIIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.90× weekly, month 1.67×, ladder rising)"
+2015-08-14,BRITANNIA,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.91× weekly, month 1.78×, ladder rising)"
+2015-08-14,FDC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.02× weekly, month 1.59×, ladder rising)"
+2015-08-14,HIL,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.80× weekly, month 2.43×, ladder rising)"
+2015-08-14,INOXLEISUR,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.21× weekly, month 3.35×, ladder rising)"
+2015-08-14,JUBILANT,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.47× weekly, month 4.36×, ladder rising)"
+2015-08-14,NILKAMAL,"RAISE STOP ₹730.69 → ₹927.12 (new box ₹984.00–₹1,173.60 sealed)"
+2015-08-14,RAJESHEXPO,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.68× weekly, month 5.84×, ladder rising)"
+2015-08-17,GHCL,"BUY ₹11.75 at ₹120.50 (fresh Friday signal — BUY: 6.38× weekly, month 4.31×, ladder rising; stop ₹60.81; charges ₹0.01)"
+2015-08-19,INFRATEL,"SELL ₹7.74 at stop ₹400.24 (-13.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-08-21,ATUL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.65× weekly, month 1.74×, ladder rising)"
+2015-08-21,BANCOINDIA,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.64× weekly, month 3.09×, ladder rising)"
+2015-08-21,BANKBARODA,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.46× weekly, month 2.41×, ladder rising)"
+2015-08-21,CHENNPETRO,RAISE STOP ₹161.50 → ₹218.07 (new box ₹229.55–₹261.60 sealed)
+2015-08-21,DISHMAN,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.65× weekly, month 1.63×, ladder rising)"
+2015-08-21,DIVISLAB,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.56× weekly, month 1.58×, ladder rising)"
+2015-08-21,ECLERX,"RAISE STOP ₹1,320.70 → ₹1,531.40 (new box ₹1,612.00–₹1,777.00 sealed)"
+2015-08-21,ESCORTS,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.90× weekly, month 1.50×, ladder rising)"
+2015-08-21,FDC,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.33× weekly, month 2.25×, ladder rising)"
+2015-08-21,GHCL,RAISE STOP ₹60.81 → ₹100.88 (new box ₹110.30–₹141.70 sealed)
+2015-08-21,GLENMARK,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.03× weekly, month 1.64×, ladder rising)"
+2015-08-21,IGARASHI,RAISE STOP ₹599.45 → ₹602.62 (new box ₹642.10–₹773.70 sealed)
+2015-08-21,JINDALPOLY,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.44× weekly, month 1.91×, ladder rising)"
+2015-08-21,JUBILANT,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.19× weekly, month 4.44×, ladder rising)"
+2015-08-21,SCI,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.51× weekly, month 2.45×, ladder rising)"
+2015-08-21,SHILPAMED,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.97× weekly, month 1.56×, ladder rising)"
+2015-08-21,SMLISUZU,"RAISE STOP ₹1,053.55 → ₹1,110.20 (new box ₹1,223.00–₹1,599.00 sealed)"
+2015-08-21,TATAELXSI,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.25× weekly, month 2.49×, ladder rising)"
+2015-08-21,TVSSRICHAK,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.53× weekly, month 1.72×, ladder rising)"
+2015-08-24,CHENNPETRO,"SELL ₹13.60 at stop ₹218.07 (+61.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-08-24,DISHTV,"SELL ₹6.56 at stop ₹102.60 (-4.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-08-24,IGARASHI,"SELL ₹6.76 at stop ₹602.62 (+16.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-08-24,MANINDS,"SELL ₹12.30 at stop ₹95.77 (+36.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-08-24,MTEDUCARE,"BUY ₹9.29 at ₹137.00 (fresh Friday signal — BUY: 5.29× weekly, month 1.80×, ladder rising; stop ₹102.40; charges ₹0.01)"
+2015-08-24,NILKAMAL,"SELL ₹15.83 at stop ₹927.12 (+76.6%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2015-08-24,SMLISUZU,"SELL ₹9.26 at stop ₹1,110.20 (-7.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-08-28,MTEDUCARE,RAISE STOP ₹102.40 → ₹114.88 (new box ₹122.85–₹149.40 sealed)
+2015-09-07,ABBOTINDIA,"BUY ₹10.46 at ₹5,269.00 (fresh Friday signal — BUY: 5.86× weekly, month 1.67×, ladder rising; stop ₹4,181.09; charges ₹0.01)"
+2015-09-07,JINDALPOLY,"BUY ₹10.47 at ₹376.90 (fresh Friday signal — ACCUMULATE: 1.73× weekly, month 2.65×, ladder rising; stop ₹305.60; charges ₹0.01)"
+2015-09-14,CEATLTD,"BUY ₹10.69 at ₹1,219.00 (fresh Friday signal — BUY: 1.70× weekly, month 1.85×, ladder rising; stop ₹857.01; charges ₹0.01)"
+2015-09-14,SREINFRA,"BUY ₹10.68 at ₹46.00 (fresh Friday signal — ACCUMULATE: 1.51× weekly, month 1.57×, ladder rising; stop ₹32.22; charges ₹0.01)"
+2015-09-24,ABBOTINDIA,"RAISE STOP ₹4,181.09 → ₹5,365.17 (new box ₹5,647.55–₹6,177.70 sealed)"
+2015-09-24,CEATLTD,"RAISE STOP ₹857.01 → ₹1,123.90 (new box ₹1,183.05–₹1,262.80 sealed)"
+2015-09-28,FDC,"BUY ₹10.83 at ₹240.00 (fresh Friday signal — BUY: 5.35× weekly, month 2.52×, ladder rising; stop ₹165.06; charges ₹0.01)"
+2015-10-01,GODREJPROP,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.92× weekly, month 1.55×, ladder rising)"
+2015-10-01,MTEDUCARE,RAISE STOP ₹114.88 → ₹118.28 (new box ₹124.50–₹133.40 sealed)
+2015-10-05,UNICHEMLAB,"BUY ₹11.18 at ₹301.50 (fresh Friday signal — ACCUMULATE: 2.13× weekly, month 2.98×, ladder rising; stop ₹233.99; charges ₹0.01)"
+2015-10-09,JINDALPOLY,RAISE STOP ₹305.60 → ₹402.90 (new box ₹424.10–₹460.85 sealed)
+2015-10-16,CEATLTD,"RAISE STOP ₹1,123.90 → ₹1,131.45 (new box ₹1,191.00–₹1,319.90 sealed)"
+2015-10-16,ECLERX,"RAISE STOP ₹1,531.40 → ₹1,548.50 (new box ₹1,630.00–₹1,785.00 sealed)"
+2015-10-16,MTEDUCARE,RAISE STOP ₹118.28 → ₹125.59 (new box ₹132.20–₹142.00 sealed)
+2015-10-16,TORNTPHARM,"RAISE STOP ₹1,330.00 → ₹1,426.04 (new box ₹1,501.10–₹1,604.80 sealed)"
+2015-10-23,FDC,RAISE STOP ₹165.06 → ₹232.89 (new box ₹245.15–₹274.35 sealed)
+2015-10-23,JINDALPOLY,RAISE STOP ₹402.90 → ₹451.25 (new box ₹475.00–₹497.85 sealed)
+2015-10-29,CEATLTD,"SELL ₹9.90 at stop ₹1,131.45 (-7.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-10-30,BALLARPUR,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.61× weekly, month 2.08×, ladder rising)"
+2015-10-30,JINDALPOLY,RAISE STOP ₹451.25 → ₹494.38 (new box ₹520.40–₹564.85 sealed)
+2015-10-30,MTEDUCARE,RAISE STOP ₹125.59 → ₹128.39 (new box ₹135.15–₹150.95 sealed)
+2015-10-30,NECLIFE,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.33× weekly, month 3.48×, ladder rising)"
+2015-10-30,NIITTECH,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.88× weekly, month 5.06×, ladder rising)"
+2015-10-30,TRF,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.83× weekly, month 2.25×, ladder rising)"
+2015-11-02,FDC,"SELL ₹10.49 at stop ₹232.89 (-3.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-11-02,UCOBANK,"BUY ₹9.90 at ₹50.30 (fresh Friday signal — BUY: 4.92× weekly, month 2.00×, ladder rising; stop ₹45.79; charges ₹0.01)"
+2015-11-06,ABBOTINDIA,"SELL ₹10.63 at stop ₹5,365.17 (+1.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-11-06,BRFL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.71× weekly, month 8.47×, ladder rising)"
+2015-11-06,DCMSHRIRAM,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.51× weekly, month 2.06×, ladder rising)"
+2015-11-06,GHCL,RAISE STOP ₹100.88 → ₹129.53 (new box ₹136.35–₹149.75 sealed)
+2015-11-09,KOHINOOR,"BUY ₹10.97 at ₹45.00 (fresh Friday signal — BUY: 7.56× weekly, month 2.53×, ladder rising; stop ₹40.84; charges ₹0.01)"
+2015-11-09,MTEDUCARE,"SELL ₹8.69 at stop ₹128.39 (-6.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-11-09,NILKAMAL,"BUY ₹10.15 at ₹970.00 (fresh Friday signal — BUY: 5.23× weekly, month 1.58×, ladder rising; stop ₹902.50; charges ₹0.01)"
+2015-11-09,UCOBANK,"SELL ₹8.99 at stop ₹45.79 (-9.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-11-13,CADILAHC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.53× weekly, month 1.67×, ladder rising)"
+2015-11-13,JETAIRWAYS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.51× weekly, month 2.68×, ladder rising)"
+2015-11-13,SREINFRA,RAISE STOP ₹32.22 → ₹36.95 (new box ₹39.10–₹46.25 sealed)
+2015-11-13,UBHOLDINGS,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.13× weekly, month 2.09×, ladder rising)"
+2015-11-16,RADICO,"BUY ₹11.14 at ₹121.80 (fresh Friday signal — BUY: 3.01× weekly, month 2.77×, ladder rising; stop ₹93.88; charges ₹0.01)"
+2015-11-16,TRIVENI,"BUY ₹6.54 at ₹30.75 (fresh Friday signal — ACCUMULATE: 2.71× weekly, month 4.44×, ladder rising; stop ₹21.99; charges ₹0.01)"
+2015-11-20,ECLERX,"RAISE STOP ₹1,548.50 → ₹1,619.75 (new box ₹1,705.00–₹1,930.00 sealed)"
+2015-11-20,UNICHEMLAB,RAISE STOP ₹233.99 → ₹235.30 (new box ₹258.10–₹334.10 sealed)
+2015-11-26,JINDALPOLY,"SELL ₹13.71 at stop ₹494.38 (+31.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-11-27,AJMERA,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.77× weekly, month 1.55×, ladder rising)"
+2015-11-27,BALAJITELE,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.62× weekly, month 1.61×, ladder rising)"
+2015-11-27,FSL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.79× weekly, month 2.76×, ladder rising)"
+2015-11-27,GODFRYPHLP,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.71× weekly, month 7.91×, ladder rising)"
+2015-11-27,JETAIRWAYS,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.83× weekly, month 2.79×, ladder rising)"
+2015-11-27,KOPRAN,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.61× weekly, month 2.23×, ladder rising)"
+2015-11-27,NELCO,"fresh signal NOT FUNDED — cash exhausted (BUY: 11.41× weekly, month 3.77×, ladder rising)"
+2015-11-27,PETRONET,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.52× weekly, month 1.83×, ladder rising)"
+2015-11-27,RPGLIFE,"fresh signal NOT FUNDED — cash exhausted (BUY: 9.91× weekly, month 2.24×, ladder rising)"
+2015-11-27,SASKEN,"fresh signal NOT FUNDED — cash exhausted (BUY: 7.71× weekly, month 2.81×, ladder rising)"
+2015-11-30,GLOBUSSPR,"BUY ₹11.18 at ₹76.50 (fresh Friday signal — BUY: 29.71× weekly, month 8.18×, ladder rising; stop ₹48.23; charges ₹0.01)"
+2015-11-30,TORNTPHARM,"SELL ₹9.82 at stop ₹1,426.04 (+14.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-12-04,BBL,"fresh signal NOT FUNDED — cash exhausted (BUY: 11.16× weekly, month 1.64×, ladder rising)"
+2015-12-04,EMCO,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.42× weekly, month 2.00×, ladder rising)"
+2015-12-04,FEDDERLOYD,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.81× weekly, month 2.08×, ladder rising)"
+2015-12-04,GLOBUSSPR,RAISE STOP ₹48.23 → ₹65.41 (new box ₹71.50–₹91.80 sealed)
+2015-12-04,GODFRYPHLP,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.10× weekly, month 10.79×, ladder rising)"
+2015-12-04,JETAIRWAYS,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.19× weekly, month 2.72×, ladder rising)"
+2015-12-04,KOHINOOR,RAISE STOP ₹40.84 → ₹49.50 (new box ₹52.10–₹56.95 sealed)
+2015-12-04,KOPRAN,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.82× weekly, month 4.12×, ladder rising)"
+2015-12-04,NECLIFE,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.86× weekly, month 2.02×, ladder rising)"
+2015-12-04,ONELIFECAP,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.52× weekly, month 1.53×, ladder rising)"
+2015-12-04,PETRONET,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.06× weekly, month 2.15×, ladder rising)"
+2015-12-04,RADICO,RAISE STOP ₹93.88 → ₹100.09 (new box ₹107.15–₹130.70 sealed)
+2015-12-04,RPGLIFE,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.20× weekly, month 3.10×, ladder rising)"
+2015-12-04,SASKEN,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.15× weekly, month 2.73×, ladder rising)"
+2015-12-04,SHALPAINTS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.25× weekly, month 2.02×, ladder rising)"
+2015-12-04,TAJGVK,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.85× weekly, month 2.14×, ladder rising)"
+2015-12-07,EIHOTEL,"BUY ₹11.30 at ₹127.10 (fresh Friday signal — BUY: 18.40× weekly, month 2.70×, ladder rising; stop ₹101.65; charges ₹0.01)"
+2015-12-09,GHCL,"SELL ₹12.60 at stop ₹129.53 (+7.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-12-09,RADICO,"SELL ₹9.14 at stop ₹100.09 (-17.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-12-11,APARINDS,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.72× weekly, month 2.77×, ladder rising)"
+2015-12-11,EIHOTEL,RAISE STOP ₹101.65 → ₹113.05 (new box ₹119.00–₹136.00 sealed)
+2015-12-14,AJMERA,"BUY ₹10.66 at ₹124.80 (fresh Friday signal — BUY: 3.63× weekly, month 2.71×, ladder rising; stop ₹86.59; charges ₹0.01)"
+2015-12-14,KOHINOOR,"SELL ₹12.04 at stop ₹49.50 (+10.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-12-14,SHARONBIO,"BUY ₹10.73 at ₹30.80 (fresh Friday signal — BUY: 12.91× weekly, month 1.78×, ladder rising; stop ₹11.82; charges ₹0.01)"
+2015-12-17,ECLERX,"SELL ₹10.41 at stop ₹1,619.75 (+4.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2015-12-18,AJMERA,RAISE STOP ₹86.59 → ₹103.22 (new box ₹112.08–₹141.60 sealed)
+2015-12-18,ASAHISONG,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.33× weekly, month 3.35×, ladder rising)"
+2015-12-18,HERITGFOOD,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.05× weekly, month 2.26×, ladder rising)"
+2015-12-18,KSK,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.02× weekly, month 1.56×, ladder rising)"
+2015-12-18,MANAPPURAM,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.48× weekly, month 3.26×, ladder rising)"
+2015-12-18,MTNL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.70× weekly, month 2.05×, ladder rising)"
+2015-12-18,SHARONBIO,RAISE STOP ₹11.82 → ₹26.93 (new box ₹28.35–₹32.50 sealed)
+2015-12-18,SREINFRA,RAISE STOP ₹36.95 → ₹38.36 (new box ₹40.40–₹47.20 sealed)
+2015-12-18,TWL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.40× weekly, month 3.18×, ladder rising)"
+2015-12-18,ZUARIGLOB,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.88× weekly, month 4.32×, ladder rising)"
+2015-12-21,BBL,"BUY ₹11.11 at ₹798.35 (fresh Friday signal — ACCUMULATE: 2.90× weekly, month 2.99×, ladder rising; stop ₹631.79; charges ₹0.01)"
+2015-12-21,TV18BRDCST,"BUY ₹11.03 at ₹42.80 (fresh Friday signal — BUY: 3.95× weekly, month 2.19×, ladder rising; stop ₹33.68; charges ₹0.01)"
+2016-01-01,TRIVENI,RAISE STOP ₹21.99 → ₹37.15 (new box ₹39.10–₹43.75 sealed)
+2016-01-01,TV18BRDCST,RAISE STOP ₹33.68 → ₹44.46 (new box ₹46.80–₹48.90 sealed)
+2016-01-07,TV18BRDCST,"SELL ₹11.43 at stop ₹44.46 (+3.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-01-08,APLAPOLLO,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.11× weekly, month 6.79×, ladder rising)"
+2016-01-08,EASUNREYRL,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.04× weekly, month 2.18×, ladder rising)"
+2016-01-08,GIPCL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.98× weekly, month 2.16×, ladder rising)"
+2016-01-08,IGL,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.31× weekly, month 4.21×, ladder rising)"
+2016-01-08,KSL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.97× weekly, month 1.78×, ladder rising)"
+2016-01-08,NILKAMAL,"RAISE STOP ₹902.50 → ₹1,174.87 (new box ₹1,236.70–₹1,312.05 sealed)"
+2016-01-08,PETRONET,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.40× weekly, month 2.03×, ladder rising)"
+2016-01-08,PRAJIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.91× weekly, month 2.25×, ladder rising)"
+2016-01-08,SAKHTISUG,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.11× weekly, month 3.44×, ladder rising)"
+2016-01-08,SJVN,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.90× weekly, month 2.28×, ladder rising)"
+2016-01-08,SURYAROSNI,"fresh signal NOT FUNDED — cash exhausted (BUY: 7.12× weekly, month 1.83×, ladder rising)"
+2016-01-08,TUBEINVEST,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.73× weekly, month 2.13×, ladder rising)"
+2016-01-08,UJAAS,"fresh signal NOT FUNDED — cash exhausted (BUY: 8.35× weekly, month 3.66×, ladder rising)"
+2016-01-11,ZUARIGLOB,"BUY ₹12.07 at ₹120.10 (fresh Friday signal — BUY: 12.59× weekly, month 6.85×, ladder rising; stop ₹87.03; charges ₹0.01)"
+2016-01-12,SHARONBIO,"SELL ₹9.36 at stop ₹26.93 (-12.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-01-13,UNICHEMLAB,"SELL ₹8.71 at stop ₹235.30 (-22.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-01-15,TRIVENI,RAISE STOP ₹37.15 → ₹41.33 (new box ₹43.50–₹50.20 sealed)
+2016-01-18,EIHOTEL,"SELL ₹10.03 at stop ₹113.05 (-11.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-01-18,GLOBUSSPR,"SELL ₹9.53 at stop ₹65.41 (-14.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-01-18,NILKAMAL,"SELL ₹12.26 at stop ₹1,174.87 (+21.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-01-22,AJMERA,"SELL ₹8.80 at stop ₹103.22 (-17.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-01-22,SREINFRA,RAISE STOP ₹38.36 → ₹51.83 (new box ₹56.00–₹69.90 sealed)
+2016-01-25,SOMANYCERA,"BUY ₹10.59 at ₹377.00 (fresh Friday signal — ACCUMULATE: 1.72× weekly, month 2.16×, ladder rising; stop ₹317.01; charges ₹0.01)"
+2016-02-01,PRICOL,"BUY ₹10.63 at ₹47.90 (fresh Friday signal — BUY: 2.18× weekly, month 2.31×, ladder rising; stop ₹35.02; charges ₹0.01)"
+2016-02-04,TRIVENI,"SELL ₹8.76 at stop ₹41.33 (+34.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-02-10,SREINFRA,"SELL ₹12.00 at stop ₹51.83 (+12.7%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-02-11,ZUARIGLOB,"SELL ₹8.73 at stop ₹87.03 (-27.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-02-15,GOLDBEES,"BUY ₹10.01 at ₹2,614.80 (fresh Friday signal — BUY: 3.06× weekly, month 1.75×, ladder rising; stop ₹2,285.70; charges ₹0.01)"
+2016-02-15,HDFCMFGETF,"BUY ₹10.01 at ₹2,652.00 (fresh Friday signal — BUY: 2.25× weekly, month 1.69×, ladder rising; stop ₹2,357.00; charges ₹0.01)"
+2016-02-15,RELGOLD,"BUY ₹10.00 at ₹2,443.80 (fresh Friday signal — BUY: 2.86× weekly, month 1.79×, ladder rising; stop ₹2,139.40; charges ₹0.01)"
+2016-02-19,GOLDBEES,"RAISE STOP ₹2,285.70 → ₹2,424.21 (new box ₹2,551.80–₹2,640.00 sealed)"
+2016-02-19,HDFCMFGETF,"RAISE STOP ₹2,357.00 → ₹2,484.30 (new box ₹2,615.05–₹2,835.10 sealed)"
+2016-02-19,PRICOL,RAISE STOP ₹35.02 → ₹41.77 (new box ₹45.10–₹56.20 sealed)
+2016-02-19,RELGOLD,"RAISE STOP ₹2,139.40 → ₹2,321.61 (new box ₹2,443.80–₹2,540.00 sealed)"
+2016-02-29,PRICOL,"SELL ₹9.25 at stop ₹41.77 (-12.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-03-11,GOLDBEES,"RAISE STOP ₹2,424.21 → ₹2,476.18 (new box ₹2,606.50–₹2,679.00 sealed)"
+2016-03-18,RELGOLD,"RAISE STOP ₹2,321.61 → ₹2,421.55 (new box ₹2,549.00–₹2,600.00 sealed)"
+2016-03-18,SOMANYCERA,RAISE STOP ₹317.01 → ₹337.25 (new box ₹355.00–₹374.75 sealed)
+2016-03-23,JUSTDIAL,fresh signal REFUSED — falling earnings power
+2016-03-28,MCLEODRUSS,"BUY ₹9.96 at ₹184.00 (fresh Friday signal — ACCUMULATE: 3.85× weekly, month 1.53×, ladder rising; stop ₹166.63; charges ₹0.01)"
+2016-04-01,BBL,RAISE STOP ₹631.79 → ₹803.37 (new box ₹845.65–₹922.25 sealed)
+2016-04-01,CONCOR,fresh signal REFUSED — falling earnings power
+2016-04-01,TAX,"FY2016 settled: ₹0.00 paid (STCG ₹0.00 @20%, LTCG ₹0.00 @12.5%; losses carried forward ST ₹0.10 / LT ₹0.00)"
+2016-04-04,BAJAJHIND,"BUY ₹10.11 at ₹20.60 (fresh Friday signal — BUY: 1.60× weekly, month 2.27×, ladder rising; stop ₹17.15; charges ₹0.01)"
+2016-04-04,HEIDELBERG,"BUY ₹10.11 at ₹87.20 (fresh Friday signal — BUY: 1.53× weekly, month 2.01×, ladder rising; stop ₹73.24; charges ₹0.01)"
+2016-04-04,HINDZINC,"BUY ₹10.10 at ₹186.00 (fresh Friday signal — BUY: 5.26× weekly, month 2.44×, ladder rising; stop ₹158.46; charges ₹0.01)"
+2016-04-08,ASHAPURMIN,fresh signal REFUSED — falling earnings power
+2016-04-08,HINDZINC,"SELL ₹8.59 at stop ₹158.46 (-14.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-04-08,SOMANYCERA,RAISE STOP ₹337.25 → ₹351.50 (new box ₹370.00–₹395.00 sealed)
+2016-04-08,TATAPOWER,fresh signal REFUSED — falling earnings power
+2016-04-08,VENKEYS,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.71× weekly, month 2.59×, ladder rising)"
+2016-04-11,BAJAJELEC,"BUY ₹10.25 at ₹214.50 (fresh Friday signal — BUY: 3.17× weekly, month 1.60×, ladder rising; stop ₹175.84; charges ₹0.01)"
+2016-04-11,MANGLMCEM,"BUY ₹5.32 at ₹244.50 (fresh Friday signal — BUY: 2.70× weekly, month 2.77×, ladder rising; stop ₹199.93; charges ₹0.01)"
+2016-04-22,BAJAJELEC,RAISE STOP ₹175.84 → ₹198.55 (new box ₹209.00–₹222.00 sealed)
+2016-04-22,BAJAJHIND,RAISE STOP ₹17.15 → ₹17.95 (new box ₹18.90–₹21.40 sealed)
+2016-04-22,HEIDELBERG,RAISE STOP ₹73.24 → ₹91.15 (new box ₹95.95–₹100.95 sealed)
+2016-04-22,MANGLMCEM,RAISE STOP ₹199.93 → ₹224.77 (new box ₹236.60–₹251.80 sealed)
+2016-04-22,RELGOLD,"RAISE STOP ₹2,421.55 → ₹2,423.45 (new box ₹2,551.00–₹2,655.05 sealed)"
+2016-04-29,BBL,RAISE STOP ₹803.37 → ₹878.75 (new box ₹925.00–₹993.95 sealed)
+2016-04-29,GOLDBEES,"RAISE STOP ₹2,476.18 → ₹2,508.05 (new box ₹2,640.05–₹2,690.00 sealed)"
+2016-04-29,MANGLMCEM,RAISE STOP ₹224.77 → ₹244.15 (new box ₹257.00–₹284.50 sealed)
+2016-05-06,ADVANTA,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.68× weekly, month 2.02×, ladder rising)"
+2016-05-06,ANANTRAJ,fresh signal REFUSED — falling earnings power
+2016-05-06,ARIES,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.71× weekly, month 3.12×, ladder rising)"
+2016-05-06,ASHAPURMIN,fresh signal REFUSED — falling earnings power
+2016-05-06,BASF,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.18× weekly, month 1.55×, ladder rising)"
+2016-05-06,BGRENERGY,"fresh signal NOT FUNDED — cash exhausted (BUY: 8.42× weekly, month 1.80×, ladder rising)"
+2016-05-06,BIOCON,fresh signal REFUSED — falling earnings power
+2016-05-06,GNFC,"fresh signal NOT FUNDED — cash exhausted (BUY: 8.11× weekly, month 6.47×, ladder rising)"
+2016-05-06,HEIDELBERG,"SELL ₹10.55 at stop ₹91.15 (+4.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-05-06,IBREALEST,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.01× weekly, month 1.60×, ladder rising)"
+2016-05-06,L&TFH,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.39× weekly, month 2.08×, ladder rising)"
+2016-05-06,RAMCOCEM,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.98× weekly, month 1.79×, ladder rising)"
+2016-05-06,SOMANYCERA,RAISE STOP ₹351.50 → ₹382.85 (new box ₹403.00–₹450.85 sealed)
+2016-05-06,SUPREMEIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.55× weekly, month 1.60×, ladder rising)"
+2016-05-06,TRENT,fresh signal REFUSED — falling earnings power
+2016-05-09,VGUARD,"BUY ₹10.55 at ₹121.89 (fresh Friday signal — BUY: 52.80× weekly, month 10.91×, ladder rising; stop ₹88.35; charges ₹0.01)"
+2016-05-13,BAJAJELEC,RAISE STOP ₹198.55 → ₹212.80 (new box ₹224.00–₹236.00 sealed)
+2016-05-13,GOLDBEES,"RAISE STOP ₹2,508.05 → ₹2,562.15 (new box ₹2,697.00–₹2,753.20 sealed)"
+2016-05-13,HDFCMFGETF,"RAISE STOP ₹2,484.30 → ₹2,629.60 (new box ₹2,768.00–₹2,845.00 sealed)"
+2016-05-13,MCLEODRUSS,RAISE STOP ₹166.63 → ₹169.72 (new box ₹178.65–₹196.70 sealed)
+2016-05-20,BBL,"SELL ₹12.20 at stop ₹878.75 (+10.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-05-20,CAPF,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.78× weekly, month 2.19×, ladder rising)"
+2016-05-20,GNFC,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.99× weekly, month 8.35×, ladder rising)"
+2016-05-20,IBREALEST,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.43× weekly, month 2.73×, ladder rising)"
+2016-05-20,LIBERTSHOE,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.21× weekly, month 1.52×, ladder rising)"
+2016-05-20,MANGLMCEM,"SELL ₹5.30 at stop ₹244.15 (-0.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-05-20,MUTHOOTFIN,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.22× weekly, month 1.90×, ladder rising)"
+2016-05-20,ORIENTPPR,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.65× weekly, month 1.63×, ladder rising)"
+2016-05-20,SUPREMEIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.56× weekly, month 1.73×, ladder rising)"
+2016-05-20,TATAMETALI,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.08× weekly, month 3.07×, ladder rising)"
+2016-05-20,TATASPONGE,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.03× weekly, month 2.07×, ladder rising)"
+2016-05-20,VGUARD,RAISE STOP ₹88.35 → ₹109.36 (new box ₹115.12–₹129.90 sealed)
+2016-05-23,KOHINOOR,"BUY ₹10.27 at ₹57.65 (fresh Friday signal — BUY: 6.44× weekly, month 2.09×, ladder rising; stop ₹47.59; charges ₹0.01)"
+2016-05-23,PEL,"BUY ₹7.23 at ₹1,429.00 (fresh Friday signal — BUY: 3.50× weekly, month 1.91×, ladder rising; stop ₹1,117.29; charges ₹0.01)"
+2016-05-24,BAJAJHIND,"SELL ₹8.79 at stop ₹17.95 (-12.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-05-27,BAJAJELEC,RAISE STOP ₹212.80 → ₹213.99 (new box ₹225.25–₹241.45 sealed)
+2016-05-27,BIOCON,fresh signal REFUSED — falling earnings power
+2016-05-27,CAPF,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.91× weekly, month 2.65×, ladder rising)"
+2016-05-27,EDELWEISS,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.31× weekly, month 1.83×, ladder rising)"
+2016-05-27,IBREALEST,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.85× weekly, month 2.75×, ladder rising)"
+2016-05-27,JAGRAN,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.48× weekly, month 2.14×, ladder rising)"
+2016-05-27,KOHINOOR,RAISE STOP ₹47.59 → ₹54.15 (new box ₹57.00–₹64.40 sealed)
+2016-05-27,MANAPPURAM,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.07× weekly, month 2.01×, ladder rising)"
+2016-05-27,SOMANYCERA,RAISE STOP ₹382.85 → ₹428.59 (new box ₹451.15–₹496.35 sealed)
+2016-05-27,SRTRANSFIN,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.56× weekly, month 1.65×, ladder rising)"
+2016-05-27,SUPREMEIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.83× weekly, month 2.30×, ladder rising)"
+2016-05-27,TATAMETALI,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.79× weekly, month 3.86×, ladder rising)"
+2016-05-27,TRENT,fresh signal REFUSED — falling earnings power
+2016-05-27,UPL,fresh signal REFUSED — falling earnings power
+2016-05-27,ZYDUSWELL,fresh signal REFUSED — falling earnings power
+2016-05-30,AUTOAXLES,"BUY ₹8.79 at ₹615.25 (fresh Friday signal — ACCUMULATE: 8.20× weekly, month 3.03×, ladder rising; stop ₹566.77; charges ₹0.01)"
+2016-06-03,PEL,"RAISE STOP ₹1,117.29 → ₹1,273.00 (new box ₹1,340.00–₹1,536.00 sealed)"
+2016-06-10,KOHINOOR,RAISE STOP ₹54.15 → ₹64.03 (new box ₹67.40–₹76.80 sealed)
+2016-06-10,VGUARD,RAISE STOP ₹109.36 → ₹123.03 (new box ₹129.50–₹142.97 sealed)
+2016-06-24,BAJAJELEC,"SELL ₹10.20 at stop ₹213.99 (-0.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-06-24,CENTRALBK,fresh signal REFUSED — falling earnings power
+2016-06-24,COROMANDEL,fresh signal REFUSED — falling earnings power
+2016-06-24,ESCORTS,fresh signal REFUSED — falling earnings power
+2016-06-24,JSWHL,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.90× weekly, month 1.93×, ladder rising)"
+2016-06-24,KARURVYSYA,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.86× weekly, month 1.51×, ladder rising)"
+2016-06-24,MANAPPURAM,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.43× weekly, month 2.08×, ladder rising)"
+2016-06-24,PHILIPCARB,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.13× weekly, month 2.72×, ladder rising)"
+2016-06-27,INDIAGLYCO,"BUY ₹10.20 at ₹94.50 (fresh Friday signal — BUY: 10.89× weekly, month 2.22×, ladder rising; stop ₹82.89; charges ₹0.01)"
+2016-07-01,HDFCMFGETF,"RAISE STOP ₹2,629.60 → ₹2,691.35 (new box ₹2,833.00–₹2,895.00 sealed)"
+2016-07-01,INDIAGLYCO,RAISE STOP ₹82.89 → ₹83.06 (new box ₹88.65–₹107.30 sealed)
+2016-07-01,PEL,"RAISE STOP ₹1,273.00 → ₹1,303.49 (new box ₹1,372.10–₹1,430.00 sealed)"
+2016-07-08,GOLDBEES,"RAISE STOP ₹2,562.15 → ₹2,620.19 (new box ₹2,758.10–₹2,824.00 sealed)"
+2016-07-08,RELGOLD,"RAISE STOP ₹2,423.45 → ₹2,509.95 (new box ₹2,642.05–₹2,740.00 sealed)"
+2016-07-15,MCLEODRUSS,RAISE STOP ₹169.72 → ₹198.74 (new box ₹209.20–₹217.70 sealed)
+2016-07-15,PEL,"RAISE STOP ₹1,303.49 → ₹1,402.29 (new box ₹1,476.10–₹1,560.00 sealed)"
+2016-07-15,SOMANYCERA,RAISE STOP ₹428.59 → ₹532.00 (new box ₹560.00–₹604.25 sealed)
+2016-07-19,MCLEODRUSS,"SELL ₹10.73 at stop ₹198.74 (+8.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-07-22,ASTRAL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.81× weekly, month 1.60×, ladder rising)"
+2016-07-22,BAJAJFINSV,fresh signal REFUSED — falling earnings power
+2016-07-22,BANCOINDIA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.96× weekly, month 3.09×, ladder rising)"
+2016-07-22,BEML,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.75× weekly, month 1.70×, ladder rising)"
+2016-07-22,CAIRN,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.41× weekly, month 1.65×, ladder rising)"
+2016-07-22,CARBORUNIV,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.40× weekly, month 11.25×, ladder rising)"
+2016-07-22,DBCORP,"fresh signal NOT FUNDED — cash exhausted (BUY: 7.57× weekly, month 2.54×, ladder rising)"
+2016-07-22,EXIDEIND,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.50× weekly, month 1.95×, ladder rising)"
+2016-07-22,FSL,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.73× weekly, month 2.16×, ladder rising)"
+2016-07-22,GABRIEL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.62× weekly, month 1.83×, ladder rising)"
+2016-07-22,GOLDSHARE,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.66× weekly, month 2.16×, ladder rising)"
+2016-07-22,GRASIM,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.60× weekly, month 2.09×, ladder rising)"
+2016-07-22,HEIDELBERG,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.00× weekly, month 1.80×, ladder rising)"
+2016-07-22,JMFINANCIL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.68× weekly, month 2.21×, ladder rising)"
+2016-07-22,JPASSOCIAT,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.10× weekly, month 3.55×, ladder rising)"
+2016-07-22,LAKSHVILAS,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.86× weekly, month 2.80×, ladder rising)"
+2016-07-22,PRAJIND,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.00× weekly, month 1.69×, ladder rising)"
+2016-07-22,PVR,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.95× weekly, month 1.55×, ladder rising)"
+2016-07-22,RELGOLD,"RAISE STOP ₹2,509.95 → ₹2,556.50 (new box ₹2,691.05–₹2,764.40 sealed)"
+2016-07-22,SPARC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.56× weekly, month 2.06×, ladder rising)"
+2016-07-22,SUNTECK,fresh signal REFUSED — falling earnings power
+2016-07-22,TAJGVK,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.79× weekly, month 3.04×, ladder rising)"
+2016-07-22,TIMKEN,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.31× weekly, month 1.88×, ladder rising)"
+2016-07-25,TATAMETALI,"BUY ₹10.73 at ₹453.00 (fresh Friday signal — BUY: 7.99× weekly, month 6.02×, ladder rising; stop ₹304.18; charges ₹0.01)"
+2016-07-29,GOLDBEES,"RAISE STOP ₹2,620.19 → ₹2,624.85 (new box ₹2,763.00–₹2,849.95 sealed)"
+2016-07-29,HDFCMFGETF,"RAISE STOP ₹2,691.35 → ₹2,694.68 (new box ₹2,836.50–₹2,932.00 sealed)"
+2016-07-29,PEL,"RAISE STOP ₹1,402.29 → ₹1,486.75 (new box ₹1,565.00–₹1,672.80 sealed)"
+2016-07-29,SOMANYCERA,RAISE STOP ₹532.00 → ₹551.10 (new box ₹580.10–₹659.80 sealed)
+2016-08-05,TATAMETALI,RAISE STOP ₹304.18 → ₹366.19 (new box ₹400.00–₹512.70 sealed)
+2016-08-12,GOLDBEES,"RAISE STOP ₹2,624.85 → ₹2,689.64 (new box ₹2,831.20–₹2,918.80 sealed)"
+2016-08-16,KOHINOOR,"SELL ₹11.38 at stop ₹64.03 (+11.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-08-19,ABIRLANUVO,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.48× weekly, month 3.23×, ladder rising)"
+2016-08-19,APTECHT,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.30× weekly, month 4.47×, ladder rising)"
+2016-08-19,BALMLAWRIE,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.89× weekly, month 2.62×, ladder rising)"
+2016-08-19,BLUESTARCO,fresh signal REFUSED — falling earnings power
+2016-08-19,GABRIEL,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.52× weekly, month 2.71×, ladder rising)"
+2016-08-19,GLOBUSSPR,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.95× weekly, month 1.54×, ladder rising)"
+2016-08-19,JISLJALEQS,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.94× weekly, month 2.02×, ladder rising)"
+2016-08-19,KSL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.58× weekly, month 8.08×, ladder rising)"
+2016-08-19,POWERGRID,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.98× weekly, month 1.79×, ladder rising)"
+2016-08-19,PRAKASH,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.84× weekly, month 2.11×, ladder rising)"
+2016-08-19,RADICO,fresh signal REFUSED — falling earnings power
+2016-08-19,SONASTEER,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.37× weekly, month 3.32×, ladder rising)"
+2016-08-19,SUNDRMFAST,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.56× weekly, month 7.44×, ladder rising)"
+2016-08-19,TATACHEM,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.60× weekly, month 2.38×, ladder rising)"
+2016-08-22,BFINVEST,"BUY ₹11.38 at ₹164.00 (fresh Friday signal — BUY: 7.94× weekly, month 2.48×, ladder rising; stop ₹114.00; charges ₹0.01)"
+2016-08-26,VGUARD,RAISE STOP ₹123.03 → ₹157.70 (new box ₹166.00–₹177.50 sealed)
+2016-09-02,BFINVEST,RAISE STOP ₹114.00 → ₹152.98 (new box ₹161.65–₹190.55 sealed)
+2016-09-02,PEL,"RAISE STOP ₹1,486.75 → ₹1,686.46 (new box ₹1,781.20–₹2,097.00 sealed)"
+2016-09-09,HDFCMFGETF,"RAISE STOP ₹2,694.68 → ₹2,718.90 (new box ₹2,862.00–₹2,946.55 sealed)"
+2016-09-09,INDIAGLYCO,RAISE STOP ₹83.06 → ₹99.94 (new box ₹105.20–₹117.00 sealed)
+2016-09-16,AUTOAXLES,RAISE STOP ₹566.77 → ₹680.44 (new box ₹716.25–₹782.00 sealed)
+2016-09-16,VGUARD,RAISE STOP ₹157.70 → ₹169.57 (new box ₹178.50–₹197.70 sealed)
+2016-09-21,SOMANYCERA,"SELL ₹15.44 at stop ₹551.10 (+46.2%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2016-09-23,APOLLOTYRE,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.61× weekly, month 1.71×, ladder rising)"
+2016-09-23,BBTC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.58× weekly, month 4.85×, ladder rising)"
+2016-09-23,CASTROLIND,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 5.85× weekly, month 5.17×, ladder rising)"
+2016-09-23,CENTURYTEX,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.18× weekly, month 2.12×, ladder rising)"
+2016-09-23,GITANJALI,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.55× weekly, month 4.27×, ladder rising)"
+2016-09-23,GLOBUSSPR,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.11× weekly, month 1.55×, ladder rising)"
+2016-09-23,HERITGFOOD,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.51× weekly, month 2.75×, ladder rising)"
+2016-09-23,HINDOILEXP,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.27× weekly, month 2.84×, ladder rising)"
+2016-09-23,IL&FSTRANS,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.67× weekly, month 7.80×, ladder rising)"
+2016-09-23,IRB,fresh signal REFUSED — falling earnings power
+2016-09-23,NRBBEARING,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.64× weekly, month 1.94×, ladder rising)"
+2016-09-23,ORIENTREF,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.98× weekly, month 3.18×, ladder rising)"
+2016-09-23,PGHH,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.78× weekly, month 1.92×, ladder rising)"
+2016-09-23,RADICO,fresh signal REFUSED — falling earnings power
+2016-09-23,RML,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.44× weekly, month 26.24×, ladder rising)"
+2016-09-23,UBL,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.14× weekly, month 1.66×, ladder rising)"
+2016-09-23,UFLEX,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.64× weekly, month 1.59×, ladder rising)"
+2016-09-23,WHIRLPOOL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.49× weekly, month 1.70×, ladder rising)"
+2016-09-26,BANKBEES,"BUY ₹12.07 at ₹200.99 (fresh Friday signal — ACCUMULATE: 6.55× weekly, month 1.75×, ladder rising; stop ₹189.48; charges ₹0.01)"
+2016-09-29,AUTOAXLES,"SELL ₹9.70 at stop ₹680.44 (+10.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-09-29,TATAMETALI,"SELL ₹8.66 at stop ₹366.19 (-19.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-09-30,AKZOINDIA,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.67× weekly, month 1.52×, ladder rising)"
+2016-09-30,BAJAJHLDNG,fresh signal REFUSED — falling earnings power
+2016-09-30,BALKRISIND,fresh signal REFUSED — falling earnings power
+2016-09-30,CASTROLIND,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.59× weekly, month 4.96×, ladder rising)"
+2016-09-30,CENTURYTEX,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.78× weekly, month 2.24×, ladder rising)"
+2016-09-30,IMFA,fresh signal REFUSED — falling earnings power
+2016-09-30,JKPAPER,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.20× weekly, month 2.44×, ladder rising)"
+2016-09-30,LLOYDELENG,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.03× weekly, month 1.84×, ladder rising)"
+2016-09-30,PETRONENGG,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 9.06× weekly, month 13.04×, ladder rising)"
+2016-09-30,RADICO,fresh signal REFUSED — falling earnings power
+2016-09-30,TTKPRESTIG,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 5.04× weekly, month 1.84×, ladder rising)"
+2016-09-30,UBL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.36× weekly, month 2.07×, ladder rising)"
+2016-09-30,VESUVIUS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 4.73× weekly, month 2.77×, ladder rising)"
+2016-09-30,WSTCSTPAPR,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.07× weekly, month 2.37×, ladder rising)"
+2016-10-03,GLOBUSSPR,"BUY ₹9.85 at ₹108.10 (fresh Friday signal — BUY: 11.16× weekly, month 4.83×, ladder rising; stop ₹71.55; charges ₹0.01)"
+2016-10-03,TVSSRICHAK,"BUY ₹11.88 at ₹4,077.00 (fresh Friday signal — BUY: 15.60× weekly, month 4.39×, ladder rising; stop ₹2,467.20; charges ₹0.01)"
+2016-10-07,GLOBUSSPR,RAISE STOP ₹71.55 → ₹95.00 (new box ₹100.00–₹115.90 sealed)
+2016-10-07,INDIAGLYCO,RAISE STOP ₹99.94 → ₹102.72 (new box ₹111.25–₹139.70 sealed)
+2016-10-07,TVSSRICHAK,"RAISE STOP ₹2,467.20 → ₹3,633.84 (new box ₹3,825.10–₹4,248.00 sealed)"
+2016-11-02,PEL,"SELL ₹8.52 at stop ₹1,686.46 (+18.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-03,BFINVEST,"SELL ₹10.59 at stop ₹152.98 (-6.7%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-04,GLOBUSSPR,"SELL ₹8.64 at stop ₹95.00 (-12.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-04,IMFA,fresh signal REFUSED — falling earnings power
+2016-11-09,BANKBEES,"SELL ₹11.35 at stop ₹189.48 (-5.7%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-09,TVSSRICHAK,"SELL ₹10.57 at stop ₹3,633.84 (-10.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-15,HONDAPOWER,"BUY ₹10.95 at ₹1,556.00 (fresh Friday signal — ACCUMULATE: 2.24× weekly, month 1.89×, ladder rising; stop ₹1,438.87; charges ₹0.01)"
+2016-11-15,NAVNETEDUL,"BUY ₹10.95 at ₹105.85 (fresh Friday signal — BUY: 4.95× weekly, month 3.78×, ladder rising; stop ₹91.20; charges ₹0.01)"
+2016-11-15,SOTL,"BUY ₹10.89 at ₹745.05 (fresh Friday signal — BUY: 2.13× weekly, month 2.02×, ladder rising; stop ₹661.96; charges ₹0.01)"
+2016-11-15,VIJAYABANK,"BUY ₹10.97 at ₹49.55 (fresh Friday signal — BUY: 5.15× weekly, month 2.83×, ladder rising; stop ₹37.62; charges ₹0.01)"
+2016-11-17,GOLDBEES,"SELL ₹10.27 at stop ₹2,689.64 (+2.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-18,HDFCMFGETF,"SELL ₹10.24 at stop ₹2,718.90 (+2.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-18,HONDAPOWER,"SELL ₹10.10 at stop ₹1,438.87 (-7.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-11-18,SOTL,RAISE STOP ₹661.96 → ₹669.75 (new box ₹705.00–₹815.00 sealed)
+2016-11-18,VGUARD,"SELL ₹14.64 at stop ₹169.57 (+39.1%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2016-11-21,BALMLAWRIE,"BUY ₹10.61 at ₹849.00 (fresh Friday signal — ACCUMULATE: 1.75× weekly, month 2.76×, ladder rising; stop ₹768.17; charges ₹0.01)"
+2016-11-25,MOIL,fresh signal REFUSED — falling earnings power
+2016-12-02,MOIL,fresh signal REFUSED — falling earnings power
+2016-12-02,VIJAYABANK,RAISE STOP ₹37.62 → ₹39.32 (new box ₹42.80–₹54.40 sealed)
+2016-12-05,ESSELPACK,"BUY ₹11.02 at ₹126.50 (fresh Friday signal — BUY: 4.47× weekly, month 2.09×, ladder rising; stop ₹104.50; charges ₹0.01)"
+2016-12-05,MERCK,"BUY ₹10.99 at ₹962.00 (fresh Friday signal — BUY: 2.25× weekly, month 3.58×, ladder rising; stop ₹816.81; charges ₹0.01)"
+2016-12-05,UJAAS,"BUY ₹7.54 at ₹46.00 (fresh Friday signal — BUY: 2.01× weekly, month 3.61×, ladder rising; stop ₹32.04; charges ₹0.01)"
+2016-12-05,VOLTAMP,"BUY ₹10.99 at ₹934.90 (fresh Friday signal — BUY: 2.22× weekly, month 1.57×, ladder rising; stop ₹768.02; charges ₹0.01)"
+2016-12-09,ESSELPACK,RAISE STOP ₹104.50 → ₹114.95 (new box ₹121.00–₹131.95 sealed)
+2016-12-09,MERCK,"RAISE STOP ₹816.81 → ₹902.78 (new box ₹950.30–₹1,019.90 sealed)"
+2016-12-09,VOLTAMP,"RAISE STOP ₹768.02 → ₹866.64 (new box ₹912.25–₹1,003.00 sealed)"
+2016-12-16,UJAAS,RAISE STOP ₹32.04 → ₹40.27 (new box ₹42.60–₹50.35 sealed)
+2016-12-22,VOLTAMP,"SELL ₹10.16 at stop ₹866.64 (-7.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-12-23,BALMLAWRIE,"RAISE STOP ₹768.17 → ₹997.98 (new box ₹1,050.50–₹1,147.00 sealed)"
+2016-12-23,ENGINERSIN,fresh signal REFUSED — falling earnings power
+2016-12-23,MOTILALOFS,fresh signal REFUSED — falling earnings power
+2016-12-26,BALMLAWRIE,"SELL ₹12.45 at stop ₹997.98 (+17.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2016-12-26,STCINDIA,"BUY ₹9.86 at ₹152.20 (fresh Friday signal — BUY: 3.37× weekly, month 1.67×, ladder rising; stop ₹109.25; charges ₹0.01)"
+2017-01-02,KOHINOOR,"BUY ₹11.54 at ₹71.70 (fresh Friday signal — ACCUMULATE: 1.70× weekly, month 3.58×, ladder rising; stop ₹53.92; charges ₹0.01)"
+2017-01-06,SOTL,RAISE STOP ₹669.75 → ₹670.27 (new box ₹705.55–₹730.00 sealed)
+2017-01-13,SOTL,RAISE STOP ₹670.27 → ₹679.30 (new box ₹715.05–₹744.95 sealed)
+2017-01-13,STCINDIA,RAISE STOP ₹109.25 → ₹187.15 (new box ₹197.00–₹229.70 sealed)
+2017-01-20,KOHINOOR,RAISE STOP ₹53.92 → ₹77.53 (new box ₹81.65–₹95.40 sealed)
+2017-01-20,SOTL,RAISE STOP ₹679.30 → ₹693.64 (new box ₹730.15–₹760.05 sealed)
+2017-01-27,ESSELPACK,RAISE STOP ₹114.95 → ₹115.95 (new box ₹122.05–₹131.65 sealed)
+2017-01-27,INDIAGLYCO,RAISE STOP ₹102.72 → ₹150.48 (new box ₹158.40–₹173.20 sealed)
+2017-01-27,NAVNETEDUL,RAISE STOP ₹91.20 → ₹109.30 (new box ₹115.05–₹131.70 sealed)
+2017-01-30,STCINDIA,"SELL ₹12.10 at stop ₹187.15 (+23.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-02-03,GRASIM,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.04× weekly, month 1.94×, ladder rising)"
+2017-02-03,IOC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.28× weekly, month 2.38×, ladder rising)"
+2017-02-03,MTNL,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.04× weekly, month 2.44×, ladder rising)"
+2017-02-03,NFL,"fresh signal NOT FUNDED — cash exhausted (BUY: 10.55× weekly, month 8.16×, ladder rising)"
+2017-02-03,OFSS,fresh signal REFUSED — falling earnings power
+2017-02-03,ORIENTCEM,fresh signal REFUSED — falling earnings power
+2017-02-03,RAIN,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.52× weekly, month 3.56×, ladder rising)"
+2017-02-03,RCF,fresh signal REFUSED — falling earnings power
+2017-02-03,SJVN,fresh signal REFUSED — falling earnings power
+2017-02-03,SONASTEER,"fresh signal NOT FUNDED — cash exhausted (BUY: 11.92× weekly, month 8.48×, ladder rising)"
+2017-02-03,SOTL,RAISE STOP ₹693.64 → ₹783.75 (new box ₹825.00–₹870.00 sealed)
+2017-02-06,MONNETISPA,"BUY ₹12.78 at ₹34.85 (fresh Friday signal — BUY: 12.75× weekly, month 9.82×, ladder rising; stop ₹24.32; charges ₹0.02)"
+2017-02-10,MERCK,RAISE STOP ₹902.78 → ₹919.79 (new box ₹968.20–₹999.00 sealed)
+2017-02-10,MONNETISPA,RAISE STOP ₹24.32 → ₹31.54 (new box ₹33.20–₹36.80 sealed)
+2017-02-17,MONNETISPA,RAISE STOP ₹31.54 → ₹33.06 (new box ₹34.80–₹39.15 sealed)
+2017-02-17,SOTL,RAISE STOP ₹783.75 → ₹808.26 (new box ₹850.80–₹914.00 sealed)
+2017-02-17,VIJAYABANK,RAISE STOP ₹39.32 → ₹56.94 (new box ₹60.05–₹70.40 sealed)
+2017-02-21,ESSELPACK,"SELL ₹10.08 at stop ₹115.95 (-8.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-02-21,UJAAS,"SELL ₹6.59 at stop ₹40.27 (-12.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-02-23,DHANBANK,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.37× weekly, month 1.64×, ladder rising)"
+2017-02-23,FEDDERLOYD,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.68× weekly, month 1.78×, ladder rising)"
+2017-02-23,GMRINFRA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.39× weekly, month 1.86×, ladder rising)"
+2017-02-23,IFBIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.93× weekly, month 2.53×, ladder rising)"
+2017-02-23,JINDALSAW,fresh signal REFUSED — falling earnings power
+2017-02-23,JINDALSTEL,fresh signal REFUSED — falling earnings power
+2017-02-23,KTKBANK,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.28× weekly, month 1.63×, ladder rising)"
+2017-02-23,MAHSEAMLES,fresh signal REFUSED — falling earnings power
+2017-02-23,MANAKSIA,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.11× weekly, month 3.57×, ladder rising)"
+2017-02-23,NATCOPHARM,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.56× weekly, month 1.72×, ladder rising)"
+2017-02-23,PTC,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.34× weekly, month 1.99×, ladder rising)"
+2017-02-23,RADICO,fresh signal REFUSED — falling earnings power
+2017-02-23,RAIN,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.20× weekly, month 3.50×, ladder rising)"
+2017-02-23,TTML,fresh signal REFUSED — falling earnings power
+2017-02-23,VMART,fresh signal REFUSED — falling earnings power
+2017-02-27,KARURVYSYA,"BUY ₹12.65 at ₹99.65 (fresh Friday signal — BUY: 5.67× weekly, month 2.66×, ladder rising; stop ₹85.97; charges ₹0.01)"
+2017-02-27,MONNETISPA,"SELL ₹12.10 at stop ₹33.06 (-5.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-03-03,AJMERA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.05× weekly, month 2.30×, ladder rising)"
+2017-03-03,BRIGADE,fresh signal REFUSED — falling earnings power
+2017-03-03,CONCOR,fresh signal REFUSED — falling earnings power
+2017-03-03,DCBBANK,fresh signal REFUSED — falling earnings power
+2017-03-03,GMRINFRA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.56× weekly, month 2.02×, ladder rising)"
+2017-03-03,JINDALSAW,fresh signal REFUSED — falling earnings power
+2017-03-03,JINDALSTEL,fresh signal REFUSED — falling earnings power
+2017-03-03,JPASSOCIAT,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.57× weekly, month 2.33×, ladder rising)"
+2017-03-03,JUBLFOOD,fresh signal REFUSED — falling earnings power
+2017-03-03,KOHINOOR,"SELL ₹12.45 at stop ₹77.53 (+8.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-03-03,KTKBANK,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.16× weekly, month 2.19×, ladder rising)"
+2017-03-03,LITL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.66× weekly, month 1.64×, ladder rising)"
+2017-03-03,NAVNETEDUL,RAISE STOP ₹109.30 → ₹130.72 (new box ₹137.60–₹152.50 sealed)
+2017-03-03,RIIL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.64× weekly, month 1.95×, ladder rising)"
+2017-03-03,SINTEX,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.01× weekly, month 1.70×, ladder rising)"
+2017-03-03,SOTL,RAISE STOP ₹808.26 → ₹847.92 (new box ₹892.55–₹949.00 sealed)
+2017-03-03,TTML,fresh signal REFUSED — falling earnings power
+2017-03-06,DHANBANK,"BUY ₹12.44 at ₹29.45 (fresh Friday signal — BUY: 7.14× weekly, month 2.95×, ladder rising; stop ₹22.32; charges ₹0.01)"
+2017-03-06,RAIN,"BUY ₹12.45 at ₹99.80 (fresh Friday signal — BUY: 3.51× weekly, month 4.51×, ladder rising; stop ₹72.39; charges ₹0.01)"
+2017-03-10,KARURVYSYA,RAISE STOP ₹85.97 → ₹91.82 (new box ₹96.65–₹102.80 sealed)
+2017-03-10,MERCK,"RAISE STOP ₹919.79 → ₹941.26 (new box ₹991.05–₹1,157.00 sealed)"
+2017-03-17,RAIN,RAISE STOP ₹72.39 → ₹93.77 (new box ₹98.70–₹109.20 sealed)
+2017-03-17,VIJAYABANK,RAISE STOP ₹56.94 → ₹59.24 (new box ₹62.65–₹74.00 sealed)
+2017-03-20,INDIAGLYCO,"SELL ₹16.21 at stop ₹150.48 (+59.2%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-03-24,AJMERA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.28× weekly, month 2.01×, ladder rising)"
+2017-03-24,ASTRAL,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.53× weekly, month 3.72×, ladder rising)"
+2017-03-24,BLUEDART,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.84× weekly, month 1.96×, ladder rising)"
+2017-03-24,BOMDYEING,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.94× weekly, month 3.27×, ladder rising)"
+2017-03-24,CONCOR,fresh signal REFUSED — falling earnings power
+2017-03-24,DCBBANK,fresh signal REFUSED — falling earnings power
+2017-03-24,DREDGECORP,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.14× weekly, month 10.04×, ladder rising)"
+2017-03-24,ELECTCAST,fresh signal REFUSED — falling earnings power
+2017-03-24,GRAVITA,fresh signal REFUSED — falling earnings power
+2017-03-24,ITI,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.40× weekly, month 2.75×, ladder rising)"
+2017-03-24,KEC,fresh signal REFUSED — falling earnings power
+2017-03-24,KSCL,fresh signal REFUSED — falling earnings power
+2017-03-24,MAHABANK,fresh signal REFUSED — falling earnings power
+2017-03-24,MRF,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.92× weekly, month 1.72×, ladder rising)"
+2017-03-24,PURVA,fresh signal REFUSED — falling earnings power
+2017-03-24,VADILALIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.81× weekly, month 3.76×, ladder rising)"
+2017-03-24,WHIRLPOOL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.58× weekly, month 1.67×, ladder rising)"
+2017-03-27,CENTENKA,"BUY ₹12.25 at ₹415.00 (fresh Friday signal — BUY: 17.44× weekly, month 2.99×, ladder rising; stop ₹295.45; charges ₹0.01)"
+2017-03-27,EROSMEDIA,"BUY ₹8.16 at ₹268.80 (fresh Friday signal — BUY: 6.01× weekly, month 2.45×, ladder rising; stop ₹187.60; charges ₹0.01)"
+2017-03-31,CENTENKA,RAISE STOP ₹295.45 → ₹391.59 (new box ₹412.20–₹427.90 sealed)
+2017-03-31,DHANBANK,RAISE STOP ₹22.32 → ₹24.70 (new box ₹26.00–₹28.85 sealed)
+2017-03-31,VIJAYABANK,RAISE STOP ₹59.24 → ₹61.08 (new box ₹64.30–₹66.65 sealed)
+2017-04-03,CENTENKA,TRIM 2.0% (₹0.26 at ₹431.65) to pay the tax bill
+2017-04-03,DHANBANK,TRIM 2.0% (₹0.27 at ₹31.90) to pay the tax bill
+2017-04-03,EROSMEDIA,TRIM 2.0% (₹0.17 at ₹276.10) to pay the tax bill
+2017-04-03,KARURVYSYA,TRIM 2.0% (₹0.30 at ₹116.45) to pay the tax bill
+2017-04-03,MERCK,"TRIM 2.0% (₹0.24 at ₹1,062.15) to pay the tax bill"
+2017-04-03,NAVNETEDUL,TRIM 2.0% (₹0.35 at ₹166.85) to pay the tax bill
+2017-04-03,RAIN,TRIM 2.0% (₹0.28 at ₹110.75) to pay the tax bill
+2017-04-03,RELGOLD,"TRIM 2.0% (₹0.22 at ₹2,713.30) to pay the tax bill"
+2017-04-03,SOTL,TRIM 2.0% (₹0.27 at ₹931.50) to pay the tax bill
+2017-04-03,TAX,"FY2017 settled: ₹2.66 paid (STCG ₹13.32 @20%, LTCG ₹0.00 @12.5%; losses carried forward ST ₹0.00 / LT ₹0.00)"
+2017-04-03,VIJAYABANK,TRIM 2.0% (₹0.31 at ₹69.85) to pay the tax bill
+2017-04-07,NAVNETEDUL,RAISE STOP ₹130.72 → ₹152.95 (new box ₹161.00–₹174.90 sealed)
+2017-04-13,CENTENKA,RAISE STOP ₹391.59 → ₹398.05 (new box ₹419.00–₹439.45 sealed)
+2017-04-13,KARURVYSYA,RAISE STOP ₹91.82 → ₹107.54 (new box ₹113.20–₹119.00 sealed)
+2017-04-13,RAIN,RAISE STOP ₹93.77 → ₹96.95 (new box ₹102.05–₹114.70 sealed)
+2017-04-13,SOTL,RAISE STOP ₹847.92 → ₹865.45 (new box ₹911.00–₹955.00 sealed)
+2017-04-21,EROSMEDIA,RAISE STOP ₹187.60 → ₹225.15 (new box ₹237.00–₹261.90 sealed)
+2017-04-21,KARURVYSYA,RAISE STOP ₹107.54 → ₹110.29 (new box ₹116.10–₹122.85 sealed)
+2017-04-21,MERCK,"RAISE STOP ₹941.26 → ₹1,045.00 (new box ₹1,100.00–₹1,199.00 sealed)"
+2017-04-21,VIJAYABANK,RAISE STOP ₹61.08 → ₹64.79 (new box ₹68.20–₹72.45 sealed)
+2017-04-26,EROSMEDIA,"SELL ₹6.68 at stop ₹225.15 (-16.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-04-28,CENTENKA,RAISE STOP ₹398.05 → ₹399.00 (new box ₹420.00–₹454.40 sealed)
+2017-04-28,DHANBANK,RAISE STOP ₹24.70 → ₹30.50 (new box ₹32.60–₹39.60 sealed)
+2017-04-28,NAVNETEDUL,RAISE STOP ₹152.95 → ₹156.99 (new box ₹165.25–₹172.90 sealed)
+2017-05-05,SOTL,RAISE STOP ₹865.45 → ₹868.68 (new box ₹914.40–₹964.00 sealed)
+2017-05-12,DHANBANK,RAISE STOP ₹30.50 → ₹36.62 (new box ₹38.55–₹42.55 sealed)
+2017-05-18,CENTENKA,"SELL ₹11.52 at stop ₹399.00 (-3.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-05-19,BHUSANSTL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.88× weekly, month 5.05×, ladder rising)"
+2017-05-19,CEATLTD,fresh signal REFUSED — falling earnings power
+2017-05-19,EIHOTEL,fresh signal REFUSED — falling earnings power
+2017-05-19,IVC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.91× weekly, month 3.52×, ladder rising)"
+2017-05-19,JKCEMENT,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.65× weekly, month 1.62×, ladder rising)"
+2017-05-19,MERCK,"SELL ₹11.67 at stop ₹1,045.00 (+8.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-05-19,MIRZAINT,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.60× weekly, month 4.61×, ladder rising)"
+2017-05-19,MRPL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.26× weekly, month 1.90×, ladder rising)"
+2017-05-19,NAVNETEDUL,"SELL ₹15.87 at stop ₹156.99 (+48.3%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-05-19,SHALPAINTS,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.61× weekly, month 4.60×, ladder rising)"
+2017-05-19,TALWALKARS,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.88× weekly, month 1.68×, ladder rising)"
+2017-05-19,VIJAYABANK,RAISE STOP ₹64.79 → ₹78.29 (new box ₹82.70–₹97.40 sealed)
+2017-05-19,WELCORP,fresh signal REFUSED — falling earnings power
+2017-05-22,DHANBANK,"SELL ₹15.13 at stop ₹36.62 (+24.3%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-05-22,PEL,"BUY ₹13.02 at ₹2,869.00 (fresh Friday signal — BUY: 3.73× weekly, month 2.18×, ladder rising; stop ₹2,334.15; charges ₹0.02)"
+2017-05-22,SHAKTIPUMP,"BUY ₹12.84 at ₹334.00 (fresh Friday signal — BUY: 5.25× weekly, month 4.33×, ladder rising; stop ₹248.90; charges ₹0.02)"
+2017-05-22,SUMEETINDS,"BUY ₹12.93 at ₹38.35 (fresh Friday signal — BUY: 8.84× weekly, month 1.57×, ladder rising; stop ₹32.82; charges ₹0.02)"
+2017-05-23,RAIN,"SELL ₹11.83 at stop ₹96.95 (-2.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-05-23,VIJAYABANK,"SELL ₹16.95 at stop ₹78.29 (+58.0%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-05-24,SUMEETINDS,"SELL ₹11.04 at stop ₹32.82 (-14.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-05-29,BIL,"BUY ₹13.14 at ₹614.80 (fresh Friday signal — BUY: 1.54× weekly, month 1.92×, ladder rising; stop ₹527.49; charges ₹0.02)"
+2017-05-29,VOLTAS,"BUY ₹13.22 at ₹496.90 (fresh Friday signal — BUY: 4.55× weekly, month 1.70×, ladder rising; stop ₹383.23; charges ₹0.02)"
+2017-05-29,WALCHANNAG,"BUY ₹13.18 at ₹174.10 (fresh Friday signal — ACCUMULATE: 2.55× weekly, month 2.77×, ladder rising; stop ₹163.40; charges ₹0.02)"
+2017-06-02,PEL,"RAISE STOP ₹2,334.15 → ₹2,453.42 (new box ₹2,582.55–₹2,949.90 sealed)"
+2017-06-02,VOLTAS,RAISE STOP ₹383.23 → ₹453.86 (new box ₹477.75–₹501.75 sealed)
+2017-06-05,GRINDWELL,"BUY ₹13.15 at ₹400.00 (fresh Friday signal — BUY: 5.57× weekly, month 2.00×, ladder rising; stop ₹357.34; charges ₹0.02)"
+2017-06-05,TTKPRESTIG,"BUY ₹9.21 at ₹6,725.00 (fresh Friday signal — ACCUMULATE: 2.99× weekly, month 1.54×, ladder rising; stop ₹5,890.95; charges ₹0.01)"
+2017-06-09,BIL,RAISE STOP ₹527.49 → ₹551.00 (new box ₹580.00–₹670.00 sealed)
+2017-06-09,GRINDWELL,RAISE STOP ₹357.34 → ₹364.37 (new box ₹383.55–₹410.00 sealed)
+2017-06-09,SHAKTIPUMP,RAISE STOP ₹248.90 → ₹357.49 (new box ₹376.30–₹425.80 sealed)
+2017-06-16,SHAKTIPUMP,RAISE STOP ₹357.49 → ₹415.62 (new box ₹437.50–₹464.95 sealed)
+2017-06-16,SOTL,"RAISE STOP ₹868.68 → ₹971.60 (new box ₹1,040.00–₹1,268.00 sealed)"
+2017-06-16,VOLTAS,RAISE STOP ₹453.86 → ₹456.19 (new box ₹480.20–₹514.00 sealed)
+2017-06-23,BBL,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.07× weekly, month 3.38×, ladder rising)"
+2017-06-23,EVERESTIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 7.06× weekly, month 4.53×, ladder rising)"
+2017-06-23,SWELECTES,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.03× weekly, month 17.70×, ladder rising)"
+2017-06-23,VOLTAS,"SELL ₹12.11 at stop ₹456.19 (-8.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-06-27,GOACARBON,"BUY ₹12.11 at ₹248.70 (fresh Friday signal — BUY: 9.59× weekly, month 4.76×, ladder rising; stop ₹148.25; charges ₹0.01)"
+2017-06-27,WALCHANNAG,"SELL ₹12.35 at stop ₹163.40 (-6.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-06-28,SHAKTIPUMP,"SELL ₹15.95 at stop ₹415.62 (+24.4%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-06-30,BASF,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.91× weekly, month 1.96×, ladder rising)"
+2017-06-30,HEG,fresh signal REFUSED — falling earnings power
+2017-06-30,KARURVYSYA,RAISE STOP ₹110.29 → ₹128.39 (new box ₹135.15–₹153.00 sealed)
+2017-06-30,PGEL,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.71× weekly, month 3.80×, ladder rising)"
+2017-06-30,VENKEYS,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.61× weekly, month 1.67×, ladder rising)"
+2017-07-03,GVKPIL,"BUY ₹13.58 at ₹8.90 (fresh Friday signal — BUY: 4.75× weekly, month 2.80×, ladder rising; stop ₹5.83; charges ₹0.02)"
+2017-07-03,SEAMECLTD,"BUY ₹13.51 at ₹161.20 (fresh Friday signal — BUY: 4.52× weekly, month 1.56×, ladder rising; stop ₹128.25; charges ₹0.02)"
+2017-07-07,GOACARBON,RAISE STOP ₹148.25 → ₹212.73 (new box ₹225.60–₹268.50 sealed)
+2017-07-07,GVKPIL,RAISE STOP ₹5.83 → ₹7.32 (new box ₹7.75–₹9.20 sealed)
+2017-07-07,PEL,"RAISE STOP ₹2,453.42 → ₹2,605.19 (new box ₹2,742.30–₹3,088.95 sealed)"
+2017-07-13,GVKPIL,"SELL ₹11.15 at stop ₹7.32 (-17.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-07-14,BALAJITELE,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.65× weekly, month 3.72×, ladder rising)"
+2017-07-14,BANKBEES,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.82× weekly, month 1.86×, ladder rising)"
+2017-07-14,GRAPHITE,fresh signal REFUSED — falling earnings power
+2017-07-14,NETWORK18,fresh signal REFUSED — falling earnings power
+2017-07-14,NIITTECH,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.55× weekly, month 1.67×, ladder rising)"
+2017-07-14,PHOENIXLTD,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.09× weekly, month 2.05×, ladder rising)"
+2017-07-14,PURVA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.05× weekly, month 1.69×, ladder rising)"
+2017-07-14,SEAMECLTD,RAISE STOP ₹128.25 → ₹142.50 (new box ₹150.00–₹163.40 sealed)
+2017-07-14,TATAINVEST,fresh signal REFUSED — falling earnings power
+2017-07-17,RML,"BUY ₹12.34 at ₹522.00 (fresh Friday signal — BUY: 3.37× weekly, month 1.74×, ladder rising; stop ₹447.55; charges ₹0.01)"
+2017-07-21,GRINDWELL,RAISE STOP ₹364.37 → ₹389.45 (new box ₹409.95–₹437.20 sealed)
+2017-08-10,BIL,"SELL ₹11.75 at stop ₹551.00 (-10.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-08-10,GRINDWELL,"SELL ₹12.77 at stop ₹389.45 (-2.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-08-10,KARURVYSYA,"SELL ₹15.94 at stop ₹128.39 (+28.8%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-08-11,GRAPHITE,fresh signal REFUSED — falling earnings power
+2017-08-11,JUBLFOOD,fresh signal REFUSED — falling earnings power
+2017-08-14,INSECTICID,"BUY ₹12.79 at ₹771.85 (fresh Friday signal — BUY: 3.90× weekly, month 2.53×, ladder rising; stop ₹669.32; charges ₹0.02)"
+2017-08-18,GRAVITA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.35× weekly, month 1.91×, ladder rising)"
+2017-08-18,INSECTICID,RAISE STOP ₹669.32 → ₹682.10 (new box ₹718.00–₹818.00 sealed)
+2017-08-18,TORNTPOWER,fresh signal REFUSED — falling earnings power
+2017-08-21,BEML,"BUY ₹12.68 at ₹1,897.00 (fresh Friday signal — BUY: 3.75× weekly, month 2.60×, ladder rising; stop ₹1,325.12; charges ₹0.02)"
+2017-08-21,PEL,"SELL ₹11.80 at stop ₹2,605.19 (-9.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-08-21,SPARC,"BUY ₹12.64 at ₹397.00 (fresh Friday signal — BUY: 2.36× weekly, month 2.85×, ladder rising; stop ₹307.62; charges ₹0.01)"
+2017-08-24,GSPL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.32× weekly, month 1.58×, ladder rising)"
+2017-08-24,HEG,fresh signal REFUSED — falling earnings power
+2017-08-24,MRPL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.60× weekly, month 2.14×, ladder rising)"
+2017-08-24,TRENT,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.27× weekly, month 1.58×, ladder rising)"
+2017-08-28,GRAVITA,"BUY ₹12.69 at ₹113.85 (fresh Friday signal — BUY: 5.06× weekly, month 2.76×, ladder rising; stop ₹77.56; charges ₹0.02)"
+2017-09-01,GOACARBON,RAISE STOP ₹212.73 → ₹245.45 (new box ₹277.40–₹383.90 sealed)
+2017-09-01,GRAVITA,RAISE STOP ₹77.56 → ₹99.75 (new box ₹105.00–₹120.50 sealed)
+2017-09-01,SPARC,RAISE STOP ₹307.62 → ₹362.19 (new box ₹381.25–₹431.00 sealed)
+2017-09-08,GRAVITA,RAISE STOP ₹99.75 → ₹114.19 (new box ₹120.20–₹135.40 sealed)
+2017-09-08,INSECTICID,RAISE STOP ₹682.10 → ₹821.75 (new box ₹865.00–₹918.90 sealed)
+2017-09-11,SEAMECLTD,"SELL ₹11.92 at stop ₹142.50 (-11.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-09-15,ASAHIINDIA,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.07× weekly, month 3.83×, ladder rising)"
+2017-09-15,ATULAUTO,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.93× weekly, month 1.66×, ladder rising)"
+2017-09-15,BBTC,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.16× weekly, month 1.81×, ladder rising)"
+2017-09-15,FLFL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.45× weekly, month 1.74×, ladder rising)"
+2017-09-15,GRAPHITE,fresh signal REFUSED — falling earnings power
+2017-09-15,HFCL,fresh signal REFUSED — falling earnings power
+2017-09-15,JMFINANCIL,fresh signal REFUSED — falling earnings power
+2017-09-15,NIITLTD,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.84× weekly, month 2.02×, ladder rising)"
+2017-09-15,ONELIFECAP,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 4.29× weekly, month 1.66×, ladder rising)"
+2017-09-15,RAIN,fresh signal REFUSED — falling earnings power
+2017-09-15,SOTL,"RAISE STOP ₹971.60 → ₹1,192.30 (new box ₹1,255.05–₹1,299.90 sealed)"
+2017-09-18,TATACOFFEE,"BUY ₹13.38 at ₹162.55 (fresh Friday signal — BUY: 5.17× weekly, month 2.11×, ladder rising; stop ₹106.95; charges ₹0.02)"
+2017-09-21,INSECTICID,"SELL ₹13.58 at stop ₹821.75 (+6.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-09-22,AJMERA,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.93× weekly, month 2.09×, ladder rising)"
+2017-09-22,BBTC,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.24× weekly, month 2.62×, ladder rising)"
+2017-09-22,BEML,"RAISE STOP ₹1,325.12 → ₹1,744.63 (new box ₹1,836.45–₹1,912.10 sealed)"
+2017-09-22,FSL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.30× weekly, month 2.51×, ladder rising)"
+2017-09-22,GRAPHITE,fresh signal REFUSED — falling earnings power
+2017-09-22,HIKAL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 7.48× weekly, month 2.19×, ladder rising)"
+2017-09-22,HTMEDIA,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.15× weekly, month 2.85×, ladder rising)"
+2017-09-22,JAICORPLTD,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.62× weekly, month 5.39×, ladder rising)"
+2017-09-22,PUNJLLOYD,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.98× weekly, month 3.28×, ladder rising)"
+2017-09-22,RAIN,fresh signal REFUSED — falling earnings power
+2017-09-22,TINPLATE,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.79× weekly, month 6.94×, ladder rising)"
+2017-09-22,USHAMART,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.73× weekly, month 1.75×, ladder rising)"
+2017-09-25,BEML,"SELL ₹11.64 at stop ₹1,744.63 (-8.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-09-25,NELCO,"BUY ₹13.08 at ₹134.75 (fresh Friday signal — BUY: 7.97× weekly, month 4.45×, ladder rising; stop ₹74.89; charges ₹0.02)"
+2017-09-25,SOTL,"SELL ₹17.04 at stop ₹1,192.30 (+60.0%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-09-25,SPARC,"SELL ₹11.50 at stop ₹362.19 (-8.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-09-29,BBTC,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.83× weekly, month 2.74×, ladder rising)"
+2017-09-29,BFUTILITIE,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.65× weekly, month 2.30×, ladder rising)"
+2017-09-29,EDELWEISS,fresh signal REFUSED — falling earnings power
+2017-09-29,GOACARBON,RAISE STOP ₹245.45 → ₹378.80 (new box ₹401.00–₹475.00 sealed)
+2017-09-29,GRAPHITE,fresh signal REFUSED — falling earnings power
+2017-09-29,MAHSCOOTER,fresh signal REFUSED — falling earnings power
+2017-09-29,OIL,fresh signal REFUSED — falling earnings power
+2017-09-29,VAIBHAVGBL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.94× weekly, month 4.21×, ladder rising)"
+2017-10-03,BFINVEST,"BUY ₹13.42 at ₹228.00 (fresh Friday signal — ACCUMULATE: 3.24× weekly, month 5.43×, ladder rising; stop ₹158.40; charges ₹0.02)"
+2017-10-03,DEN,"BUY ₹13.46 at ₹89.40 (fresh Friday signal — ACCUMULATE: 5.36× weekly, month 1.96×, ladder rising; stop ₹78.80; charges ₹0.02)"
+2017-10-03,SHOPERSTOP,"BUY ₹13.51 at ₹486.40 (fresh Friday signal — BUY: 12.98× weekly, month 10.59×, ladder rising; stop ₹386.60; charges ₹0.02)"
+2017-10-06,SHOPERSTOP,RAISE STOP ₹386.60 → ₹412.79 (new box ₹442.10–₹539.80 sealed)
+2017-10-19,GRAVITA,RAISE STOP ₹114.19 → ₹147.96 (new box ₹155.75–₹171.00 sealed)
+2017-10-19,RML,RAISE STOP ₹447.55 → ₹475.00 (new box ₹500.00–₹533.00 sealed)
+2017-10-27,TATACOFFEE,RAISE STOP ₹106.95 → ₹141.41 (new box ₹148.85–₹160.60 sealed)
+2017-11-03,GOACARBON,RAISE STOP ₹378.80 → ₹579.52 (new box ₹637.05–₹828.80 sealed)
+2017-11-03,SHOPERSTOP,RAISE STOP ₹412.79 → ₹475.00 (new box ₹500.00–₹569.90 sealed)
+2017-11-03,TTKPRESTIG,"RAISE STOP ₹5,890.95 → ₹6,049.55 (new box ₹6,367.95–₹6,600.00 sealed)"
+2017-11-08,GRAVITA,"SELL ₹16.46 at stop ₹147.96 (+30.0%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-11-10,AJMERA,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.42× weekly, month 2.57×, ladder rising)"
+2017-11-10,DOLPHINOFF,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.48× weekly, month 1.74×, ladder rising)"
+2017-11-10,EXCELCROP,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.05× weekly, month 4.95×, ladder rising)"
+2017-11-10,GLOBUSSPR,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.33× weekly, month 3.84×, ladder rising)"
+2017-11-10,HAVELLS,fresh signal REFUSED — falling earnings power
+2017-11-10,IFBIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.68× weekly, month 3.51×, ladder rising)"
+2017-11-10,JUSTDIAL,fresh signal REFUSED — falling earnings power
+2017-11-10,KPIT,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.22× weekly, month 1.85×, ladder rising)"
+2017-11-10,MPHASIS,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.65× weekly, month 1.70×, ladder rising)"
+2017-11-10,NBCC,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.09× weekly, month 2.56×, ladder rising)"
+2017-11-10,ORIENTPPR,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.02× weekly, month 1.78×, ladder rising)"
+2017-11-10,PHILIPCARB,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.47× weekly, month 1.50×, ladder rising)"
+2017-11-10,PRAJIND,fresh signal REFUSED — falling earnings power
+2017-11-10,RAIN,fresh signal REFUSED — falling earnings power
+2017-11-10,TIRUMALCHM,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.54× weekly, month 2.07×, ladder rising)"
+2017-11-13,WHEELS,"BUY ₹16.57 at ₹1,771.20 (fresh Friday signal — BUY: 19.87× weekly, month 5.54×, ladder rising; stop ₹1,521.19; charges ₹0.02)"
+2017-11-14,TATACOFFEE,"SELL ₹11.61 at stop ₹141.41 (-13.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2017-11-17,ACE,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.34× weekly, month 4.07×, ladder rising)"
+2017-11-17,AJMERA,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.68× weekly, month 2.75×, ladder rising)"
+2017-11-17,AUTOAXLES,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.34× weekly, month 2.76×, ladder rising)"
+2017-11-17,BFINVEST,RAISE STOP ₹158.40 → ₹239.40 (new box ₹252.00–₹288.00 sealed)
+2017-11-17,EVEREADY,"fresh signal NOT FUNDED — cash exhausted (BUY: 5.70× weekly, month 1.87×, ladder rising)"
+2017-11-17,GLOBUSSPR,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.13× weekly, month 5.44×, ladder rising)"
+2017-11-17,HINDOILEXP,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.39× weekly, month 2.70×, ladder rising)"
+2017-11-17,IFBIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.12× weekly, month 2.34×, ladder rising)"
+2017-11-17,INDOCO,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.02× weekly, month 2.29×, ladder rising)"
+2017-11-17,INOXLEISUR,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.16× weekly, month 1.70×, ladder rising)"
+2017-11-17,JUSTDIAL,fresh signal REFUSED — falling earnings power
+2017-11-17,KPIT,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.67× weekly, month 2.17×, ladder rising)"
+2017-11-17,NELCO,RAISE STOP ₹74.89 → ₹92.76 (new box ₹105.00–₹145.80 sealed)
+2017-11-17,PAGEIND,fresh signal REFUSED — falling earnings power
+2017-11-17,POLARIS,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.09× weekly, month 2.41×, ladder rising)"
+2017-11-17,RADICO,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.13× weekly, month 2.99×, ladder rising)"
+2017-11-17,SHOPERSTOP,RAISE STOP ₹475.00 → ₹513.28 (new box ₹540.30–₹603.00 sealed)
+2017-11-17,TATAGLOBAL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.08× weekly, month 2.38×, ladder rising)"
+2017-11-17,TINPLATE,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.90× weekly, month 1.78×, ladder rising)"
+2017-11-17,VAKRANGEE,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.55× weekly, month 1.69×, ladder rising)"
+2017-11-17,ZUARIGLOB,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.85× weekly, month 9.94×, ladder rising)"
+2017-11-20,ABBOTINDIA,"BUY ₹11.79 at ₹4,948.20 (fresh Friday signal — BUY: 12.34× weekly, month 2.88×, ladder rising; stop ₹3,934.43; charges ₹0.01)"
+2017-11-24,ABBOTINDIA,"RAISE STOP ₹3,934.43 → ₹4,569.55 (new box ₹4,810.05–₹5,413.40 sealed)"
+2017-11-24,RML,RAISE STOP ₹475.00 → ₹492.20 (new box ₹518.10–₹592.40 sealed)
+2017-11-24,WHEELS,"RAISE STOP ₹1,521.19 → ₹1,588.26 (new box ₹1,680.05–₹1,986.00 sealed)"
+2017-12-01,GOACARBON,"RAISE STOP ₹579.52 → ₹760.87 (new box ₹823.10–₹1,030.55 sealed)"
+2017-12-08,BFINVEST,RAISE STOP ₹239.40 → ₹357.49 (new box ₹376.30–₹431.00 sealed)
+2017-12-08,RML,RAISE STOP ₹492.20 → ₹604.20 (new box ₹636.00–₹716.00 sealed)
+2017-12-08,TTKPRESTIG,"RAISE STOP ₹6,049.55 → ₹6,100.47 (new box ₹6,421.55–₹6,800.00 sealed)"
+2017-12-18,BFINVEST,"SELL ₹20.99 at stop ₹357.49 (+56.8%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2017-12-22,ABBOTINDIA,"RAISE STOP ₹4,569.55 → ₹5,083.45 (new box ₹5,351.00–₹5,698.95 sealed)"
+2017-12-22,ALEMBICLTD,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.75× weekly, month 2.73×, ladder rising)"
+2017-12-22,APLAPOLLO,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.81× weekly, month 1.82×, ladder rising)"
+2017-12-22,BOMDYEING,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.47× weekly, month 1.79×, ladder rising)"
+2017-12-22,DEN,RAISE STOP ₹78.80 → ₹93.62 (new box ₹98.55–₹113.20 sealed)
+2017-12-22,ELECON,fresh signal REFUSED — falling earnings power
+2017-12-22,ELGIEQUIP,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.95× weekly, month 2.41×, ladder rising)"
+2017-12-22,HCL-INSYS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.07× weekly, month 2.16×, ladder rising)"
+2017-12-22,RALLIS,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.57× weekly, month 3.72×, ladder rising)"
+2017-12-22,RML,RAISE STOP ₹604.20 → ₹649.20 (new box ₹690.00–₹826.00 sealed)
+2017-12-22,SREEL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.98× weekly, month 4.50×, ladder rising)"
+2017-12-22,TTKPRESTIG,"RAISE STOP ₹6,100.47 → ₹6,697.50 (new box ₹7,050.00–₹7,524.00 sealed)"
+2017-12-26,GPIL,"BUY ₹17.65 at ₹300.95 (fresh Friday signal — BUY: 6.72× weekly, month 4.60×, ladder rising; stop ₹141.76; charges ₹0.02)"
+2018-01-05,DEN,RAISE STOP ₹93.62 → ₹98.04 (new box ₹103.20–₹117.90 sealed)
+2018-01-05,GPIL,RAISE STOP ₹141.76 → ₹311.41 (new box ₹327.80–₹379.40 sealed)
+2018-01-05,TTKPRESTIG,"RAISE STOP ₹6,697.50 → ₹7,267.50 (new box ₹7,650.00–₹8,474.00 sealed)"
+2018-01-12,WHEELS,"RAISE STOP ₹1,588.26 → ₹1,957.00 (new box ₹2,060.00–₹2,346.65 sealed)"
+2018-01-17,SHOPERSTOP,"SELL ₹14.23 at stop ₹513.28 (+5.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2018-01-19,APLAPOLLO,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.79× weekly, month 4.94×, ladder rising)"
+2018-01-19,DEEPAKNTR,fresh signal REFUSED — falling earnings power
+2018-01-19,EXCELCROP,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.30× weekly, month 12.25×, ladder rising)"
+2018-01-19,GALLISPAT,"fresh signal NOT FUNDED — cash exhausted (BUY: 7.12× weekly, month 4.10×, ladder rising)"
+2018-01-19,GAYAPROJ,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.47× weekly, month 4.15×, ladder rising)"
+2018-01-19,JUBILANT,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.20× weekly, month 2.32×, ladder rising)"
+2018-01-19,MERCK,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.67× weekly, month 3.14×, ladder rising)"
+2018-01-19,MINDTREE,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.00× weekly, month 2.17×, ladder rising)"
+2018-01-19,MPHASIS,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.88× weekly, month 1.50×, ladder rising)"
+2018-01-19,PCJEWELLER,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.83× weekly, month 1.59×, ladder rising)"
+2018-01-19,PFIZER,fresh signal REFUSED — falling earnings power
+2018-01-19,PGHH,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.54× weekly, month 2.10×, ladder rising)"
+2018-01-19,PRAKASH,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.00× weekly, month 3.09×, ladder rising)"
+2018-01-19,PRISMCEM,"fresh signal NOT FUNDED — cash exhausted (BUY: 9.05× weekly, month 7.67×, ladder rising)"
+2018-01-19,RADICO,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.82× weekly, month 1.97×, ladder rising)"
+2018-01-19,RALLIS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.56× weekly, month 3.33×, ladder rising)"
+2018-01-19,STRTECH,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.58× weekly, month 1.53×, ladder rising)"
+2018-01-19,SUNTECK,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 7.60× weekly, month 1.99×, ladder rising)"
+2018-01-19,SWANENERGY,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.44× weekly, month 2.27×, ladder rising)"
+2018-01-19,TALWALKARS,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.65× weekly, month 2.67×, ladder rising)"
+2018-01-22,SEINV,"BUY ₹17.57 at ₹340.05 (fresh Friday signal — BUY: 19.93× weekly, month 2.87×, ladder rising; stop ₹153.56; charges ₹0.02)"
+2018-01-25,ABBOTINDIA,"RAISE STOP ₹5,083.45 → ₹5,111.00 (new box ₹5,380.00–₹5,550.00 sealed)"
+2018-01-25,DEN,RAISE STOP ₹98.04 → ₹107.61 (new box ₹117.25–₹149.40 sealed)
+2018-01-25,GOACARBON,"RAISE STOP ₹760.87 → ₹913.01 (new box ₹982.70–₹1,215.00 sealed)"
+2018-01-25,GPIL,RAISE STOP ₹311.41 → ₹463.12 (new box ₹487.50–₹559.85 sealed)
+2018-01-31,GOACARBON,"SELL ₹44.35 at stop ₹913.01 (+267.1%, charges ₹0.05) — the cash goes back to work at the next Friday screen"
+2018-01-31,TTKPRESTIG,"SELL ₹9.93 at stop ₹7,267.50 (+8.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2018-02-01,DEN,"SELL ₹16.17 at stop ₹107.61 (+20.4%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-02-05,ELGIEQUIP,"BUY ₹19.05 at ₹308.00 (fresh Friday signal — ACCUMULATE: 1.72× weekly, month 1.79×, ladder rising; stop ₹282.62; charges ₹0.02)"
+2018-02-05,GOLDSHARE,"BUY ₹19.05 at ₹2,702.50 (fresh Friday signal — BUY: 2.12× weekly, month 1.67×, ladder rising; stop ₹2,510.28; charges ₹0.02)"
+2018-02-05,MPHASIS,"BUY ₹19.04 at ₹851.10 (fresh Friday signal — BUY: 3.88× weekly, month 3.19×, ladder rising; stop ₹668.70; charges ₹0.02)"
+2018-02-06,GPIL,"SELL ₹27.10 at stop ₹463.12 (+53.9%, charges ₹0.03) — the cash goes back to work at the next Friday screen"
+2018-02-09,GOLDSHARE,"RAISE STOP ₹2,510.28 → ₹2,511.51 (new box ₹2,643.70–₹2,709.00 sealed)"
+2018-02-09,NOIDATOLL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.91× weekly, month 2.25×, ladder rising)"
+2018-02-09,POLARIS,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.89× weekly, month 2.24×, ladder rising)"
+2018-02-09,RML,RAISE STOP ₹649.20 → ₹664.89 (new box ₹735.30–₹970.00 sealed)
+2018-02-12,JUBILANT,"BUY ₹19.68 at ₹760.80 (fresh Friday signal — BUY: 1.99× weekly, month 3.28×, ladder rising; stop ₹647.52; charges ₹0.02)"
+2018-02-12,ZYDUSWELL,"BUY ₹19.75 at ₹1,170.00 (fresh Friday signal — ACCUMULATE: 3.31× weekly, month 2.12×, ladder rising; stop ₹840.61; charges ₹0.02)"
+2018-02-16,GOLDSHARE,"RAISE STOP ₹2,511.51 → ₹2,547.00 (new box ₹2,681.05–₹2,767.80 sealed)"
+2018-02-16,MPHASIS,RAISE STOP ₹668.70 → ₹771.50 (new box ₹812.10–₹925.00 sealed)
+2018-02-23,ABBOTINDIA,"RAISE STOP ₹5,111.00 → ₹5,196.55 (new box ₹5,470.05–₹6,159.00 sealed)"
+2018-02-23,ELGIEQUIP,RAISE STOP ₹282.62 → ₹287.85 (new box ₹303.00–₹349.90 sealed)
+2018-02-23,NELCO,RAISE STOP ₹92.76 → ₹145.64 (new box ₹153.30–₹178.80 sealed)
+2018-02-23,ZYDUSWELL,"RAISE STOP ₹840.61 → ₹1,087.75 (new box ₹1,145.00–₹1,220.00 sealed)"
+2018-03-06,JUBILANT,"SELL ₹16.71 at stop ₹647.52 (-14.9%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-03-08,ELGIEQUIP,"SELL ₹17.76 at stop ₹287.85 (-6.5%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-03-09,WHEELS,"RAISE STOP ₹1,957.00 → ₹1,985.50 (new box ₹2,090.00–₹2,288.95 sealed)"
+2018-03-16,IDBI,fresh signal REFUSED — falling earnings power
+2018-03-16,NIITTECH,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.76× weekly, month 2.68×, ladder rising)"
+2018-03-16,THOMASCOOK,fresh signal REFUSED — falling earnings power
+2018-03-19,HINDZINC,"BUY ₹16.15 at ₹314.95 (fresh Friday signal — ACCUMULATE: 2.11× weekly, month 1.57×, ladder rising; stop ₹286.95; charges ₹0.02)"
+2018-03-19,VENKEYS,"BUY ₹19.30 at ₹4,149.00 (fresh Friday signal — ACCUMULATE: 2.69× weekly, month 2.51×, ladder rising; stop ₹3,417.97; charges ₹0.02)"
+2018-03-23,NELCO,"SELL ₹14.11 at stop ₹145.64 (+8.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2018-03-28,IDBI,fresh signal REFUSED — falling earnings power
+2018-04-02,TAX,"FY2018 settled: ₹13.47 paid (STCG ₹67.35 @20%, LTCG ₹0.02 @12.5%; losses carried forward ST ₹0.00 / LT ₹0.00)"
+2018-04-13,ABBOTINDIA,"RAISE STOP ₹5,196.55 → ₹5,320.00 (new box ₹5,600.00–₹5,884.00 sealed)"
+2018-04-13,GOLDSHARE,"RAISE STOP ₹2,547.00 → ₹2,584.00 (new box ₹2,720.00–₹2,773.90 sealed)"
+2018-04-20,HINDZINC,RAISE STOP ₹286.95 → ₹293.45 (new box ₹308.90–₹320.50 sealed)
+2018-04-20,VENKEYS,"RAISE STOP ₹3,417.97 → ₹4,047.95 (new box ₹4,261.00–₹4,725.00 sealed)"
+2018-04-26,VENKEYS,"SELL ₹18.79 at stop ₹4,047.95 (-2.4%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-04-27,GOLDSHARE,"RAISE STOP ₹2,584.00 → ₹2,652.16 (new box ₹2,791.75–₹2,830.00 sealed)"
+2018-04-27,HINDZINC,RAISE STOP ₹293.45 → ₹301.48 (new box ₹317.35–₹336.50 sealed)
+2018-04-27,MAHINDCIE,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.54× weekly, month 2.30×, ladder rising)"
+2018-04-27,MINDTREE,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.63× weekly, month 3.87×, ladder rising)"
+2018-04-27,NIITTECH,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.94× weekly, month 3.59×, ladder rising)"
+2018-04-27,THOMASCOOK,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.95× weekly, month 2.10×, ladder rising)"
+2018-04-27,ZENSARTECH,fresh signal REFUSED — falling earnings power
+2018-04-30,HIL,"BUY ₹18.86 at ₹2,239.45 (fresh Friday signal — BUY: 6.62× weekly, month 1.77×, ladder rising; stop ₹1,790.75; charges ₹0.02)"
+2018-05-04,HINDZINC,"SELL ₹15.42 at stop ₹301.48 (-4.3%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-05-04,ZENSARTECH,fresh signal REFUSED — falling earnings power
+2018-05-11,ABBOTINDIA,"RAISE STOP ₹5,320.00 → ₹5,757.95 (new box ₹6,061.00–₹6,690.00 sealed)"
+2018-05-11,EXIDEIND,fresh signal REFUSED — falling earnings power
+2018-05-11,FSL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.75× weekly, month 2.12×, ladder rising)"
+2018-05-11,MPHASIS,"RAISE STOP ₹771.50 → ₹913.00 (new box ₹961.05–₹1,060.00 sealed)"
+2018-05-11,PFIZER,fresh signal REFUSED — falling earnings power
+2018-05-11,SASKEN,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.21× weekly, month 3.90×, ladder rising)"
+2018-05-14,GREAVESCOT,"BUY ₹15.98 at ₹139.00 (fresh Friday signal — BUY: 4.24× weekly, month 1.83×, ladder rising; stop ₹116.23; charges ₹0.02)"
+2018-05-15,WHEELS,"SELL ₹18.54 at stop ₹1,985.50 (+12.1%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-05-18,JYOTHYLAB,fresh signal REFUSED — falling earnings power
+2018-05-18,RML,RAISE STOP ₹664.89 → ₹732.64 (new box ₹771.20–₹866.80 sealed)
+2018-05-18,ZENSARTECH,fresh signal REFUSED — falling earnings power
+2018-05-18,ZYDUSWELL,"RAISE STOP ₹1,087.75 → ₹1,192.25 (new box ₹1,255.00–₹1,398.00 sealed)"
+2018-05-21,MAHLIFE,"BUY ₹17.86 at ₹527.00 (fresh Friday signal — ACCUMULATE: 1.77× weekly, month 1.91×, ladder rising; stop ₹484.50; charges ₹0.02)"
+2018-05-25,HIL,"RAISE STOP ₹1,790.75 → ₹1,939.95 (new box ₹2,042.05–₹2,374.75 sealed)"
+2018-05-25,MPHASIS,"RAISE STOP ₹913.00 → ₹978.50 (new box ₹1,030.00–₹1,149.90 sealed)"
+2018-05-31,ZYDUSWELL,"SELL ₹20.08 at stop ₹1,192.25 (+1.9%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-06-01,ABBOTINDIA,"RAISE STOP ₹5,757.95 → ₹6,184.50 (new box ₹6,510.00–₹6,900.25 sealed)"
+2018-06-01,GREAVESCOT,RAISE STOP ₹116.23 → ₹117.04 (new box ₹123.20–₹134.05 sealed)
+2018-06-05,HIL,"SELL ₹16.31 at stop ₹1,939.95 (-13.4%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-06-05,RML,"SELL ₹17.28 at stop ₹732.64 (+40.4%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-06-18,ASTRAZEN,"BUY ₹17.80 at ₹1,048.00 (fresh Friday signal — BUY: 7.17× weekly, month 3.61×, ladder rising; stop ₹842.73; charges ₹0.02)"
+2018-06-18,MMFL,"BUY ₹17.94 at ₹1,429.00 (fresh Friday signal — BUY: 6.00× weekly, month 2.27×, ladder rising; stop ₹972.06; charges ₹0.02)"
+2018-06-22,ASTRAZEN,"RAISE STOP ₹842.73 → ₹974.32 (new box ₹1,025.60–₹1,116.00 sealed)"
+2018-06-22,GLAXO,fresh signal REFUSED — falling earnings power
+2018-06-22,GREAVESCOT,RAISE STOP ₹117.04 → ₹121.79 (new box ₹128.20–₹139.00 sealed)
+2018-06-22,PAGEIND,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.77× weekly, month 1.55×, ladder rising)"
+2018-06-25,WHEELS,"BUY ₹18.28 at ₹2,500.00 (fresh Friday signal — BUY: 150.85× weekly, month 7.43×, ladder rising; stop ₹1,876.91; charges ₹0.02)"
+2018-06-29,ASTRAZEN,"RAISE STOP ₹974.32 → ₹1,019.92 (new box ₹1,073.60–₹1,211.92 sealed)"
+2018-06-29,MPHASIS,"RAISE STOP ₹978.50 → ₹999.02 (new box ₹1,051.60–₹1,140.00 sealed)"
+2018-07-06,ABBOTINDIA,"RAISE STOP ₹6,184.50 → ₹6,669.48 (new box ₹7,020.50–₹7,850.00 sealed)"
+2018-07-06,GREAVESCOT,RAISE STOP ₹121.79 → ₹126.02 (new box ₹132.65–₹146.45 sealed)
+2018-07-06,MMFL,"RAISE STOP ₹972.06 → ₹1,197.94 (new box ₹1,264.05–₹1,484.40 sealed)"
+2018-07-06,WHEELS,"RAISE STOP ₹1,876.91 → ₹2,006.50 (new box ₹2,165.15–₹2,694.00 sealed)"
+2018-07-18,MMFL,"SELL ₹15.01 at stop ₹1,197.94 (-16.2%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-07-20,MAHSCOOTER,fresh signal REFUSED — falling earnings power
+2018-07-23,BAJFINANCE,"BUY ₹15.32 at ₹2,720.00 (fresh Friday signal — BUY: 2.43× weekly, month 1.51×, ladder rising; stop ₹2,141.11; charges ₹0.02)"
+2018-07-27,MPHASIS,"RAISE STOP ₹999.02 → ₹1,045.76 (new box ₹1,100.80–₹1,234.25 sealed)"
+2018-08-01,GOLDSHARE,"SELL ₹18.65 at stop ₹2,652.16 (-1.9%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-08-03,ASTRAZEN,"RAISE STOP ₹1,019.92 → ₹1,124.80 (new box ₹1,184.00–₹1,259.96 sealed)"
+2018-08-03,BAJFINANCE,"RAISE STOP ₹2,141.11 → ₹2,522.06 (new box ₹2,654.80–₹2,797.00 sealed)"
+2018-08-03,BANKBEES,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.17× weekly, month 2.53×, ladder rising)"
+2018-08-03,PFIZER,fresh signal REFUSED — falling earnings power
+2018-08-03,SANOFI,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.92× weekly, month 1.52×, ladder rising)"
+2018-08-06,PEL,"BUY ₹18.20 at ₹2,824.90 (fresh Friday signal — BUY: 3.49× weekly, month 1.76×, ladder rising; stop ₹2,498.69; charges ₹0.02)"
+2018-08-07,MAHLIFE,"SELL ₹16.39 at stop ₹484.50 (-8.1%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-08-08,WHEELS,"SELL ₹14.64 at stop ₹2,006.50 (-19.7%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-08-10,ASTRAZEN,"RAISE STOP ₹1,124.80 → ₹1,255.52 (new box ₹1,321.60–₹1,457.60 sealed)"
+2018-08-10,BEL,fresh signal REFUSED — falling earnings power
+2018-08-10,GREAVESCOT,RAISE STOP ₹126.02 → ₹136.94 (new box ₹144.15–₹152.30 sealed)
+2018-08-10,PEL,"RAISE STOP ₹2,498.69 → ₹2,627.89 (new box ₹2,766.20–₹3,018.70 sealed)"
+2018-08-10,PFIZER,fresh signal REFUSED — falling earnings power
+2018-08-10,TORNTPHARM,fresh signal REFUSED — falling earnings power
+2018-08-13,EVERESTIND,"BUY ₹17.96 at ₹541.00 (fresh Friday signal — BUY: 1.87× weekly, month 2.03×, ladder rising; stop ₹457.95; charges ₹0.02)"
+2018-08-17,BAJFINANCE,"RAISE STOP ₹2,522.06 → ₹2,616.49 (new box ₹2,754.20–₹2,846.05 sealed)"
+2018-08-17,EVERESTIND,RAISE STOP ₹457.95 → ₹510.10 (new box ₹536.95–₹567.90 sealed)
+2018-08-17,PAGEIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.36× weekly, month 1.65×, ladder rising)"
+2018-08-17,PFIZER,fresh signal REFUSED — falling earnings power
+2018-08-17,SELAN,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.87× weekly, month 1.69×, ladder rising)"
+2018-08-20,TCI,"BUY ₹13.53 at ₹361.00 (fresh Friday signal — BUY: 4.36× weekly, month 3.76×, ladder rising; stop ₹286.24; charges ₹0.02)"
+2018-08-24,ABBOTINDIA,"RAISE STOP ₹6,669.48 → ₹7,130.70 (new box ₹7,506.00–₹8,200.00 sealed)"
+2018-08-31,ASTRAZEN,"RAISE STOP ₹1,255.52 → ₹1,345.20 (new box ₹1,416.00–₹1,537.12 sealed)"
+2018-08-31,BAJFINANCE,"RAISE STOP ₹2,616.49 → ₹2,683.56 (new box ₹2,824.80–₹2,908.00 sealed)"
+2018-08-31,MPHASIS,"RAISE STOP ₹1,045.76 → ₹1,173.72 (new box ₹1,235.50–₹1,278.80 sealed)"
+2018-08-31,TCI,RAISE STOP ₹286.24 → ₹328.70 (new box ₹346.00–₹371.30 sealed)
+2018-09-04,BAJFINANCE,"SELL ₹15.08 at stop ₹2,683.56 (-1.3%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-05,TCI,"SELL ₹12.29 at stop ₹328.70 (-8.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2018-09-07,ABBOTINDIA,"RAISE STOP ₹7,130.70 → ₹7,657.95 (new box ₹8,061.00–₹8,699.00 sealed)"
+2018-09-07,GLAXO,fresh signal REFUSED — falling earnings power
+2018-09-07,GLOBUSSPR,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 4.28× weekly, month 1.77×, ladder rising)"
+2018-09-07,HCC,fresh signal REFUSED — falling earnings power
+2018-09-07,JBCHEPHARM,fresh signal REFUSED — falling earnings power
+2018-09-07,MUTHOOTFIN,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.85× weekly, month 1.77×, ladder rising)"
+2018-09-07,OFSS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.02× weekly, month 2.10×, ladder rising)"
+2018-09-07,SANOFI,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.36× weekly, month 2.04×, ladder rising)"
+2018-09-07,SUNPHARMA,fresh signal REFUSED — falling earnings power
+2018-09-07,SUVEN,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.78× weekly, month 2.83×, ladder rising)"
+2018-09-07,USHAMART,fresh signal REFUSED — falling earnings power
+2018-09-07,WELCORP,fresh signal REFUSED — falling earnings power
+2018-09-07,WIPRO,fresh signal REFUSED — falling earnings power
+2018-09-07,ZYDUSWELL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.64× weekly, month 3.08×, ladder rising)"
+2018-09-10,BBL,"BUY ₹18.52 at ₹1,500.15 (fresh Friday signal — BUY: 9.73× weekly, month 1.54×, ladder rising; stop ₹1,217.66; charges ₹0.02)"
+2018-09-12,ASTRAZEN,"SELL ₹22.80 at stop ₹1,345.20 (+28.4%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-14,ABB,fresh signal REFUSED — falling earnings power
+2018-09-14,BALRAMCHIN,fresh signal REFUSED — falling earnings power
+2018-09-14,GREAVESCOT,RAISE STOP ₹136.94 → ₹143.78 (new box ₹151.35–₹165.00 sealed)
+2018-09-17,JSWHL,"BUY ₹13.47 at ₹2,358.85 (fresh Friday signal — ACCUMULATE: 2.15× weekly, month 2.26×, ladder rising; stop ₹2,044.64; charges ₹0.02)"
+2018-09-17,SUVEN,"BUY ₹18.17 at ₹310.80 (fresh Friday signal — BUY: 2.23× weekly, month 3.48×, ladder rising; stop ₹244.67; charges ₹0.02)"
+2018-09-21,ABBOTINDIA,"SELL ₹18.21 at stop ₹7,657.95 (+54.8%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-21,EVERESTIND,"SELL ₹16.90 at stop ₹510.10 (-5.7%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-21,GREAVESCOT,"SELL ₹16.50 at stop ₹143.78 (+3.4%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-21,PEL,"SELL ₹16.89 at stop ₹2,627.89 (-7.0%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-21,SUVEN,"SELL ₹14.27 at stop ₹244.67 (-21.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2018-09-24,GUJFLUORO,"BUY ₹16.82 at ₹854.00 (fresh Friday signal — ACCUMULATE: 2.91× weekly, month 1.88×, ladder rising; stop ₹775.25; charges ₹0.02)"
+2018-09-24,MUTHOOTFIN,"BUY ₹16.76 at ₹452.00 (fresh Friday signal — ACCUMULATE: 1.94× weekly, month 2.74×, ladder rising; stop ₹412.35; charges ₹0.02)"
+2018-09-25,MPHASIS,"SELL ₹26.20 at stop ₹1,173.72 (+37.9%, charges ₹0.03) — the cash goes back to work at the next Friday screen"
+2018-09-27,BBL,"SELL ₹15.00 at stop ₹1,217.66 (-18.8%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-27,MUTHOOTFIN,"SELL ₹15.26 at stop ₹412.35 (-8.8%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-09-28,GUJFLUORO,"SELL ₹15.23 at stop ₹775.25 (-9.2%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2018-10-09,JSWHL,"SELL ₹11.65 at stop ₹2,044.64 (-13.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2018-10-15,BAJAJHIND,"BUY ₹16.16 at ₹11.00 (fresh Friday signal — ACCUMULATE: 2.11× weekly, month 4.50×, ladder rising; stop ₹6.18; charges ₹0.02)"
+2018-10-22,HATHWAY,"BUY ₹15.99 at ₹30.60 (fresh Friday signal — BUY: 3.56× weekly, month 1.61×, ladder rising; stop ₹18.96; charges ₹0.02)"
+2018-10-26,HATHWAY,RAISE STOP ₹18.96 → ₹26.93 (new box ₹28.35–₹32.35 sealed)
+2018-11-09,LINDEINDIA,fresh signal REFUSED — falling earnings power
+2018-11-22,MAHABANK,fresh signal REFUSED — falling earnings power
+2018-11-30,LINDEINDIA,fresh signal REFUSED — falling earnings power
+2018-12-03,GODFRYPHLP,"BUY ₹16.06 at ₹928.40 (fresh Friday signal — BUY: 1.59× weekly, month 1.69×, ladder rising; stop ₹795.15; charges ₹0.02)"
+2018-12-03,KESORAMIND,"BUY ₹15.95 at ₹85.00 (fresh Friday signal — BUY: 4.55× weekly, month 1.54×, ladder rising; stop ₹71.39; charges ₹0.02)"
+2018-12-14,GODFRYPHLP,RAISE STOP ₹795.15 → ₹812.30 (new box ₹855.05–₹955.00 sealed)
+2018-12-14,GODREJPROP,fresh signal REFUSED — falling earnings power
+2018-12-17,BANKBEES,"BUY ₹15.75 at ₹274.00 (fresh Friday signal — ACCUMULATE: 1.75× weekly, month 4.65×, ladder rising; stop ₹248.08; charges ₹0.02)"
+2018-12-24,BEML,"BUY ₹15.74 at ₹890.10 (fresh Friday signal — BUY: 5.73× weekly, month 2.62×, ladder rising; stop ₹648.90; charges ₹0.02)"
+2018-12-26,GODFRYPHLP,"SELL ₹14.02 at stop ₹812.30 (-12.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-01-04,BANKBEES,RAISE STOP ₹248.08 → ₹255.55 (new box ₹269.00–₹278.65 sealed)
+2019-01-04,BEML,RAISE STOP ₹648.90 → ₹809.88 (new box ₹852.50–₹945.90 sealed)
+2019-01-04,GODREJPROP,fresh signal REFUSED — falling earnings power
+2019-01-11,BANKBEES,RAISE STOP ₹255.55 → ₹260.57 (new box ₹274.29–₹279.79 sealed)
+2019-01-11,GODREJPROP,fresh signal REFUSED — falling earnings power
+2019-01-11,LINDEINDIA,fresh signal REFUSED — falling earnings power
+2019-01-11,MAHSCOOTER,fresh signal REFUSED — falling earnings power
+2019-01-11,PRAJIND,fresh signal REFUSED — falling earnings power
+2019-01-14,SKFINDIA,"BUY ₹15.59 at ₹1,940.00 (fresh Friday signal — ACCUMULATE: 6.62× weekly, month 3.44×, ladder rising; stop ₹1,776.45; charges ₹0.02)"
+2019-01-14,SOMANYCERA,"BUY ₹15.57 at ₹369.90 (fresh Friday signal — ACCUMULATE: 1.65× weekly, month 2.26×, ladder rising; stop ₹335.82; charges ₹0.02)"
+2019-01-18,ANSALAPI,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 5.16× weekly, month 2.69×, ladder rising)"
+2019-01-18,BANKBEES,RAISE STOP ₹260.57 → ₹263.25 (new box ₹277.10–₹282.95 sealed)
+2019-01-18,RSYSTEMS,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 3.13× weekly, month 1.91×, ladder rising)"
+2019-01-18,UNITEDBNK,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.71× weekly, month 1.71×, ladder rising)"
+2019-01-21,SPECIALITY,"BUY ₹15.49 at ₹108.50 (fresh Friday signal — BUY: 26.29× weekly, month 3.83×, ladder rising; stop ₹73.15; charges ₹0.02)"
+2019-01-28,BEML,"SELL ₹14.29 at stop ₹809.88 (-9.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-01-28,SOMANYCERA,"SELL ₹14.10 at stop ₹335.82 (-9.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-01-29,KESORAMIND,"SELL ₹13.36 at stop ₹71.39 (-16.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-02-01,PRAJIND,fresh signal REFUSED — falling earnings power
+2019-02-01,SPECIALITY,RAISE STOP ₹73.15 → ₹78.76 (new box ₹87.10–₹114.90 sealed)
+2019-02-11,INFRATEL,"BUY ₹14.76 at ₹326.00 (fresh Friday signal — BUY: 1.56× weekly, month 1.65×, ladder rising; stop ₹270.75; charges ₹0.02)"
+2019-02-18,YESBANK,"BUY ₹14.43 at ₹201.00 (fresh Friday signal — BUY: 1.58× weekly, month 2.31×, ladder rising; stop ₹178.03; charges ₹0.02)"
+2019-02-19,HATHWAY,"SELL ₹14.04 at stop ₹26.93 (-12.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-02-22,INFRATEL,RAISE STOP ₹270.75 → ₹277.35 (new box ₹291.95–₹335.00 sealed)
+2019-03-05,DHAMPURSUG,"BUY ₹14.86 at ₹242.35 (fresh Friday signal — BUY: 3.72× weekly, month 1.52×, ladder rising; stop ₹198.55; charges ₹0.02)"
+2019-03-08,BAJAJHIND,RAISE STOP ₹6.18 → ₹7.69 (new box ₹8.10–₹9.10 sealed)
+2019-03-08,CCL,fresh signal REFUSED — falling earnings power
+2019-03-08,DHAMPURSUG,RAISE STOP ₹198.55 → ₹211.42 (new box ₹222.55–₹247.20 sealed)
+2019-03-08,SKFINDIA,"RAISE STOP ₹1,776.45 → ₹1,828.80 (new box ₹1,925.05–₹1,998.70 sealed)"
+2019-03-15,CANFINHOME,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.25× weekly, month 1.57×, ladder rising)"
+2019-03-18,MTEDUCARE,"BUY ₹15.01 at ₹73.05 (fresh Friday signal — ACCUMULATE: 2.98× weekly, month 1.60×, ladder rising; stop ₹62.94; charges ₹0.02)"
+2019-03-20,BAJAJHIND,"SELL ₹11.27 at stop ₹7.69 (-30.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-03-20,DHAMPURSUG,"SELL ₹12.94 at stop ₹211.42 (-12.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-03-22,ECLERX,fresh signal REFUSED — falling earnings power
+2019-03-22,YESBANK,RAISE STOP ₹178.03 → ₹229.71 (new box ₹241.80–₹254.00 sealed)
+2019-03-25,JUSTDIAL,"BUY ₹14.64 at ₹615.00 (fresh Friday signal — BUY: 3.82× weekly, month 1.70×, ladder rising; stop ₹467.69; charges ₹0.02)"
+2019-03-27,MTEDUCARE,"SELL ₹12.91 at stop ₹62.94 (-13.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-03-29,DYNAMATECH,fresh signal REFUSED — falling earnings power
+2019-03-29,IDFC,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.87× weekly, month 1.71×, ladder rising)"
+2019-03-29,IOC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.79× weekly, month 2.01×, ladder rising)"
+2019-03-29,JUSTDIAL,RAISE STOP ₹467.69 → ₹565.25 (new box ₹595.00–₹677.30 sealed)
+2019-03-29,OIL,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.87× weekly, month 1.74×, ladder rising)"
+2019-03-29,ONGC,fresh signal REFUSED — falling earnings power
+2019-04-01,HEIDELBERG,"BUY ₹14.96 at ₹184.35 (fresh Friday signal — ACCUMULATE: 2.71× weekly, month 1.87×, ladder rising; stop ₹159.93; charges ₹0.02)"
+2019-04-01,NIFTYBEES,"BUY ₹8.51 at ₹122.40 (fresh Friday signal — ACCUMULATE: 2.36× weekly, month 1.60×, ladder rising; stop ₹112.29; charges ₹0.01)"
+2019-04-01,TAX,"FY2019 settled: ₹0.00 paid (STCG ₹0.00 @20%, LTCG ₹0.00 @12.5%; losses carried forward ST ₹19.38 / LT ₹0.00)"
+2019-04-05,BANKBEES,RAISE STOP ₹263.25 → ₹278.16 (new box ₹292.80–₹305.13 sealed)
+2019-04-05,SKFINDIA,"RAISE STOP ₹1,828.80 → ₹1,891.83 (new box ₹1,991.40–₹2,097.70 sealed)"
+2019-04-12,YESBANK,RAISE STOP ₹229.71 → ₹245.34 (new box ₹258.25–₹286.00 sealed)
+2019-04-18,BANKBEES,RAISE STOP ₹278.16 → ₹287.04 (new box ₹302.15–₹314.00 sealed)
+2019-04-22,JUSTDIAL,"SELL ₹13.42 at stop ₹565.25 (-8.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-04-22,YESBANK,"SELL ₹17.58 at stop ₹245.34 (+22.1%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2019-04-25,INFRATEL,"SELL ₹12.53 at stop ₹277.35 (-14.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-04-26,FLFL,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.61× weekly, month 1.89×, ladder rising)"
+2019-04-26,JKCEMENT,fresh signal REFUSED — falling earnings power
+2019-04-26,MAHABANK,fresh signal REFUSED — falling earnings power
+2019-04-26,ULTRACEMCO,fresh signal REFUSED — falling earnings power
+2019-04-30,IBREALEST,"BUY ₹14.21 at ₹125.40 (fresh Friday signal — ACCUMULATE: 3.85× weekly, month 3.02×, ladder rising; stop ₹91.19; charges ₹0.02)"
+2019-04-30,MTEDUCARE,"BUY ₹14.10 at ₹85.85 (fresh Friday signal — BUY: 2.57× weekly, month 7.09×, ladder rising; stop ₹73.96; charges ₹0.02)"
+2019-04-30,ONGC,"BUY ₹14.09 at ₹168.00 (fresh Friday signal — BUY: 2.93× weekly, month 1.91×, ladder rising; stop ₹147.44; charges ₹0.02)"
+2019-05-03,MTEDUCARE,"SELL ₹12.12 at stop ₹73.96 (-13.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-05-06,RUCHISOYA,"BUY ₹13.25 at ₹9.10 (fresh Friday signal — BUY: 2.65× weekly, month 1.62×, ladder rising; stop ₹5.61; charges ₹0.02)"
+2019-05-08,SKFINDIA,"SELL ₹15.16 at stop ₹1,891.83 (-2.5%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2019-05-13,MTEDUCARE,"BUY ₹13.25 at ₹94.20 (fresh Friday signal — BUY: 1.93× weekly, month 4.89×, ladder rising; stop ₹73.96; charges ₹0.02)"
+2019-05-14,IBREALEST,"SELL ₹10.31 at stop ₹91.19 (-27.3%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-05-17,HEIDELBERG,RAISE STOP ₹159.93 → ₹162.93 (new box ₹171.50–₹187.00 sealed)
+2019-05-17,MTEDUCARE,"SELL ₹10.38 at stop ₹73.96 (-21.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-05-17,ONGC,RAISE STOP ₹147.44 → ₹152.81 (new box ₹160.85–₹172.50 sealed)
+2019-05-24,JKCEMENT,fresh signal REFUSED — falling earnings power
+2019-05-24,ULTRACEMCO,fresh signal REFUSED — falling earnings power
+2019-05-27,GRUH,"BUY ₹13.52 at ₹313.00 (fresh Friday signal — ACCUMULATE: 6.22× weekly, month 1.85×, ladder rising; stop ₹265.98; charges ₹0.02)"
+2019-05-27,INOXLEISUR,"BUY ₹9.09 at ₹349.40 (fresh Friday signal — BUY: 2.36× weekly, month 1.76×, ladder rising; stop ₹282.15; charges ₹0.01)"
+2019-05-31,BANKBEES,RAISE STOP ₹287.04 → ₹295.55 (new box ₹311.11–₹323.10 sealed)
+2019-05-31,NIFTYBEES,RAISE STOP ₹112.29 → ₹116.39 (new box ₹122.51–₹126.30 sealed)
+2019-05-31,ONGC,RAISE STOP ₹152.81 → ₹160.36 (new box ₹168.80–₹178.90 sealed)
+2019-06-10,SPECIALITY,"SELL ₹11.22 at stop ₹78.76 (-27.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-06-14,NIFTYBEES,RAISE STOP ₹116.39 → ₹117.39 (new box ₹123.56–₹127.90 sealed)
+2019-06-17,MAHSCOOTER,"BUY ₹11.22 at ₹4,654.10 (fresh Friday signal — BUY: 1.74× weekly, month 1.81×, ladder rising; stop ₹3,952.00; charges ₹0.01)"
+2019-06-21,INOXLEISUR,RAISE STOP ₹282.15 → ₹291.23 (new box ₹312.50–₹383.40 sealed)
+2019-06-25,RUCHISOYA,"SELL ₹8.15 at stop ₹5.61 (-38.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-06-28,HEIDELBERG,RAISE STOP ₹162.93 → ₹172.09 (new box ₹181.15–₹200.70 sealed)
+2019-06-28,MAHSCOOTER,"RAISE STOP ₹3,952.00 → ₹4,157.82 (new box ₹4,376.65–₹4,786.00 sealed)"
+2019-07-01,ONGC,"SELL ₹13.42 at stop ₹160.36 (-4.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-07-01,TRENT,"BUY ₹8.15 at ₹448.00 (fresh Friday signal — BUY: 2.03× weekly, month 1.51×, ladder rising; stop ₹364.32; charges ₹0.01)"
+2019-07-08,HDFCMFGETF,"BUY ₹12.26 at ₹3,110.00 (fresh Friday signal — ACCUMULATE: 2.16× weekly, month 1.57×, ladder rising; stop ₹2,862.02; charges ₹0.01)"
+2019-07-08,MAHSCOOTER,"SELL ₹10.00 at stop ₹4,157.82 (-10.7%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-07-12,HEIDELBERG,RAISE STOP ₹172.09 → ₹177.65 (new box ₹187.00–₹210.50 sealed)
+2019-07-12,TRENT,RAISE STOP ₹364.32 → ₹393.30 (new box ₹414.00–₹464.70 sealed)
+2019-07-15,KOTAKGOLD,"BUY ₹11.16 at ₹301.80 (fresh Friday signal — ACCUMULATE: 1.58× weekly, month 1.61×, ladder rising; stop ₹275.74; charges ₹0.01)"
+2019-07-22,BANKBEES,"SELL ₹16.95 at stop ₹295.55 (+7.9%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2019-07-23,GRUH,"SELL ₹11.46 at stop ₹265.98 (-15.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-07-26,TORNTPHARM,fresh signal REFUSED — falling earnings power
+2019-07-30,NIFTYBEES,"SELL ₹8.14 at stop ₹117.39 (-4.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-07-30,TRENT,"SELL ₹7.14 at stop ₹393.30 (-12.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-07-31,INOXLEISUR,"SELL ₹7.56 at stop ₹291.23 (-16.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-08-02,KOTAKGOLD,RAISE STOP ₹275.74 → ₹287.42 (new box ₹302.55–₹312.00 sealed)
+2019-08-09,HDFCMFGETF,"RAISE STOP ₹2,862.02 → ₹2,961.24 (new box ₹3,117.10–₹3,220.00 sealed)"
+2019-08-09,KOTAKGOLD,RAISE STOP ₹287.42 → ₹305.90 (new box ₹322.00–₹335.50 sealed)
+2019-08-13,BERGEPAINT,"BUY ₹12.18 at ₹359.00 (fresh Friday signal — BUY: 2.99× weekly, month 1.66×, ladder rising; stop ₹311.22; charges ₹0.01)"
+2019-08-13,GOLDBEES,"BUY ₹12.20 at ₹3,290.05 (fresh Friday signal — BUY: 2.88× weekly, month 1.71×, ladder rising; stop ₹2,888.00; charges ₹0.01)"
+2019-08-13,GOLDSHARE,"BUY ₹12.17 at ₹3,311.00 (fresh Friday signal — BUY: 3.55× weekly, month 1.54×, ladder rising; stop ₹2,916.55; charges ₹0.01)"
+2019-08-23,GOLDBEES,"RAISE STOP ₹2,888.00 → ₹3,116.95 (new box ₹3,281.00–₹3,350.00 sealed)"
+2019-08-23,GOLDSHARE,"RAISE STOP ₹2,916.55 → ₹3,124.26 (new box ₹3,288.70–₹3,358.00 sealed)"
+2019-08-23,HDFCMFGETF,"RAISE STOP ₹2,961.24 → ₹3,204.40 (new box ₹3,373.05–₹3,484.00 sealed)"
+2019-08-23,KOTAKGOLD,RAISE STOP ₹305.90 → ₹310.46 (new box ₹326.80–₹352.00 sealed)
+2019-08-26,TRENT,"BUY ₹12.31 at ₹480.00 (fresh Friday signal — BUY: 2.69× weekly, month 2.05×, ladder rising; stop ₹408.55; charges ₹0.01)"
+2019-08-30,BERGEPAINT,RAISE STOP ₹311.22 → ₹339.44 (new box ₹357.30–₹368.00 sealed)
+2019-08-30,TRENT,RAISE STOP ₹408.55 → ₹439.04 (new box ₹462.15–₹489.25 sealed)
+2019-09-06,GOLDSHARE,"RAISE STOP ₹3,124.26 → ₹3,263.34 (new box ₹3,435.10–₹3,500.00 sealed)"
+2019-09-17,TRENT,"SELL ₹11.23 at stop ₹439.04 (-8.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-09-20,ORIENTPPR,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.31× weekly, month 1.71×, ladder rising)"
+2019-09-20,VADILALIND,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.60× weekly, month 2.32×, ladder rising)"
+2019-09-20,WHIRLPOOL,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.10× weekly, month 1.60×, ladder rising)"
+2019-09-23,JKPAPER,"BUY ₹12.36 at ₹137.85 (fresh Friday signal — ACCUMULATE: 3.84× weekly, month 2.27×, ladder rising; stop ₹118.84; charges ₹0.01)"
+2019-09-27,KOTAKGOLD,RAISE STOP ₹310.46 → ₹311.60 (new box ₹328.00–₹367.00 sealed)
+2019-10-07,JKPAPER,"SELL ₹10.63 at stop ₹118.84 (-13.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-10-11,BERGEPAINT,RAISE STOP ₹339.44 → ₹401.04 (new box ₹422.15–₹444.80 sealed)
+2019-10-11,SCI,fresh signal REFUSED — falling earnings power
+2019-10-11,WHIRLPOOL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.18× weekly, month 2.12×, ladder rising)"
+2019-10-14,JBMA,"BUY ₹11.90 at ₹239.00 (fresh Friday signal — BUY: 9.76× weekly, month 9.94×, ladder rising; stop ₹146.20; charges ₹0.01)"
+2019-10-18,HDFCMFGETF,"RAISE STOP ₹3,204.40 → ₹3,260.49 (new box ₹3,432.10–₹3,534.00 sealed)"
+2019-10-18,JBMA,RAISE STOP ₹146.20 → ₹207.67 (new box ₹218.60–₹245.90 sealed)
+2019-10-23,JBMA,"SELL ₹10.32 at stop ₹207.67 (-13.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-10-25,ASAHISONG,"fresh signal NOT FUNDED — cash exhausted (BUY: 3.44× weekly, month 2.12×, ladder rising)"
+2019-10-25,CASTROLIND,fresh signal REFUSED — falling earnings power
+2019-10-25,GOLDBEES,"RAISE STOP ₹3,116.95 → ₹3,189.29 (new box ₹3,357.15–₹3,415.00 sealed)"
+2019-10-25,NAVINFLUOR,fresh signal REFUSED — falling earnings power
+2019-10-25,SCI,fresh signal REFUSED — falling earnings power
+2019-10-29,TVTODAY,"BUY ₹10.32 at ₹333.00 (fresh Friday signal — BUY: 3.77× weekly, month 2.07×, ladder rising; stop ₹275.74; charges ₹0.01)"
+2019-11-01,BERGEPAINT,RAISE STOP ₹401.04 → ₹451.25 (new box ₹475.00–₹506.00 sealed)
+2019-12-02,TVTODAY,"SELL ₹8.52 at stop ₹275.74 (-17.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-12-06,BHARTIARTL,fresh signal REFUSED — falling earnings power
+2019-12-06,FDC,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.08× weekly, month 4.31×, ladder rising)"
+2019-12-06,KESORAMIND,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.11× weekly, month 1.75×, ladder rising)"
+2019-12-06,PFIZER,fresh signal REFUSED — falling earnings power
+2019-12-09,ASTRAZEN,"BUY ₹8.52 at ₹2,124.00 (fresh Friday signal — BUY: 2.54× weekly, month 1.99×, ladder rising; stop ₹1,862.00; charges ₹0.01)"
+2019-12-09,HEIDELBERG,"SELL ₹14.38 at stop ₹177.65 (-3.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-12-13,ASTRAZEN,"RAISE STOP ₹1,862.00 → ₹2,006.40 (new box ₹2,112.00–₹2,292.72 sealed)"
+2019-12-13,EIDPARRY,fresh signal REFUSED — falling earnings power
+2019-12-13,FINCABLES,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.78× weekly, month 1.59×, ladder rising)"
+2019-12-13,INGERRAND,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.54× weekly, month 8.49×, ladder rising)"
+2019-12-13,MAHINDCIE,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.93× weekly, month 3.53×, ladder rising)"
+2019-12-13,MOTILALOFS,fresh signal REFUSED — falling earnings power
+2019-12-13,NAVINFLUOR,fresh signal REFUSED — falling earnings power
+2019-12-16,JBCHEPHARM,"BUY ₹11.99 at ₹424.60 (fresh Friday signal — BUY: 3.02× weekly, month 1.82×, ladder rising; stop ₹374.30; charges ₹0.01)"
+2019-12-19,GOLDBEES,"SELL ₹11.80 at stop ₹3,189.29 (-3.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2019-12-20,JBCHEPHARM,RAISE STOP ₹374.30 → ₹391.64 (new box ₹412.25–₹434.90 sealed)
+2019-12-20,LOVABLE,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.52× weekly, month 2.70×, ladder rising)"
+2019-12-20,MMTC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.92× weekly, month 1.58×, ladder rising)"
+2019-12-20,RSYSTEMS,"fresh signal NOT FUNDED — cash exhausted (BUY: 6.78× weekly, month 3.59×, ladder rising)"
+2019-12-20,TATASTEEL,fresh signal REFUSED — falling earnings power
+2019-12-23,GPIL,"BUY ₹12.04 at ₹218.00 (fresh Friday signal — BUY: 7.46× weekly, month 1.91×, ladder rising; stop ₹142.34; charges ₹0.01)"
+2020-01-03,BERGEPAINT,RAISE STOP ₹451.25 → ₹484.17 (new box ₹509.65–₹525.00 sealed)
+2020-01-03,GPIL,RAISE STOP ₹142.34 → ₹201.88 (new box ₹212.50–₹233.70 sealed)
+2020-01-03,HDFCMFGETF,"RAISE STOP ₹3,260.49 → ₹3,325.05 (new box ₹3,500.05–₹3,544.95 sealed)"
+2020-01-06,ASTRAZEN,"SELL ₹8.03 at stop ₹2,006.40 (-5.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-01-08,BERGEPAINT,"SELL ₹16.39 at stop ₹484.17 (+34.9%, charges ₹0.02) — the cash goes back to work at the next Friday screen"
+2020-01-10,ASAHISONG,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 5.09× weekly, month 3.88×, ladder rising)"
+2020-01-10,BAYERCROP,fresh signal REFUSED — falling earnings power
+2020-01-10,GPIL,RAISE STOP ₹201.88 → ₹223.25 (new box ₹235.00–₹267.10 sealed)
+2020-01-10,IIFL,fresh signal REFUSED — falling earnings power
+2020-01-10,JMFINANCIL,fresh signal REFUSED — falling earnings power
+2020-01-10,KOKUYOCMLN,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.50× weekly, month 4.26×, ladder rising)"
+2020-01-10,MMTC,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 2.34× weekly, month 2.00×, ladder rising)"
+2020-01-10,NAVINFLUOR,fresh signal REFUSED — falling earnings power
+2020-01-10,RATNAMANI,"fresh signal NOT FUNDED — cash exhausted (BUY: 1.88× weekly, month 1.67×, ladder rising)"
+2020-01-10,RUPA,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.64× weekly, month 1.82×, ladder rising)"
+2020-01-10,SMLISUZU,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 4.80× weekly, month 5.17×, ladder rising)"
+2020-01-10,TIRUMALCHM,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.84× weekly, month 2.43×, ladder rising)"
+2020-01-13,HARITASEAT,"BUY ₹12.23 at ₹505.00 (fresh Friday signal — BUY: 23.75× weekly, month 4.43×, ladder rising; stop ₹402.04; charges ₹0.01)"
+2020-01-13,INDRAMEDCO,"BUY ₹12.22 at ₹46.00 (fresh Friday signal — ACCUMULATE: 9.74× weekly, month 6.46×, ladder rising; stop ₹34.49; charges ₹0.01)"
+2020-01-17,GOLDSHARE,"RAISE STOP ₹3,263.34 → ₹3,348.80 (new box ₹3,525.05–₹3,798.00 sealed)"
+2020-01-17,HDFCMFGETF,"RAISE STOP ₹3,325.05 → ₹3,362.05 (new box ₹3,539.00–₹3,739.80 sealed)"
+2020-01-17,JBCHEPHARM,RAISE STOP ₹391.64 → ₹407.31 (new box ₹428.75–₹443.80 sealed)
+2020-01-22,GPIL,"SELL ₹12.30 at stop ₹223.25 (+2.4%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-01-24,BHARTIARTL,fresh signal REFUSED — falling earnings power
+2020-01-24,BLUEDART,fresh signal REFUSED — falling earnings power
+2020-01-24,CARERATING,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 1.61× weekly, month 18.39×, ladder rising)"
+2020-01-24,GIPCL,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.05× weekly, month 3.34×, ladder rising)"
+2020-01-24,GRANULES,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.69× weekly, month 2.63×, ladder rising)"
+2020-01-24,IIFL,fresh signal REFUSED — falling earnings power
+2020-01-24,INDOCO,"fresh signal NOT FUNDED — cash exhausted (ACCUMULATE: 7.37× weekly, month 4.15×, ladder rising)"
+2020-01-24,JKCEMENT,fresh signal REFUSED — falling earnings power
+2020-01-24,ORISSAMINE,"fresh signal NOT FUNDED — cash exhausted (BUY: 2.02× weekly, month 1.69×, ladder rising)"
+2020-01-24,PFS,"fresh signal NOT FUNDED — cash exhausted (BUY: 4.01× weekly, month 2.09×, ladder rising)"
+2020-01-27,ATULAUTO,"BUY ₹12.31 at ₹265.75 (fresh Friday signal — BUY: 12.30× weekly, month 4.64×, ladder rising; stop ₹216.60; charges ₹0.01)"
+2020-01-31,JBCHEPHARM,RAISE STOP ₹407.31 → ₹463.08 (new box ₹487.45–₹513.00 sealed)
+2020-02-07,ATULAUTO,RAISE STOP ₹216.60 → ₹217.66 (new box ₹236.30–₹298.45 sealed)
+2020-02-07,INDRAMEDCO,RAISE STOP ₹34.49 → ₹40.23 (new box ₹42.65–₹50.70 sealed)
+2020-02-27,INDRAMEDCO,"SELL ₹10.66 at stop ₹40.23 (-12.5%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-02-28,AARTIDRUGS,fresh signal REFUSED — falling earnings power
+2020-02-28,BAYERCROP,fresh signal REFUSED — falling earnings power
+2020-02-28,GOLDSHARE,"RAISE STOP ₹3,348.80 → ₹3,562.50 (new box ₹3,750.00–₹3,937.60 sealed)"
+2020-02-28,JBCHEPHARM,RAISE STOP ₹463.08 → ₹497.61 (new box ₹523.80–₹599.90 sealed)
+2020-02-28,KOTAKGOLD,RAISE STOP ₹311.60 → ₹352.69 (new box ₹371.25–₹385.90 sealed)
+2020-02-28,NAVINFLUOR,fresh signal REFUSED — falling earnings power
+2020-03-03,ATULAUTO,"SELL ₹10.06 at stop ₹217.66 (-18.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-03-06,HARITASEAT,RAISE STOP ₹402.04 → ₹404.35 (new box ₹431.05–₹520.05 sealed)
+2020-03-06,HDFCMFGETF,"RAISE STOP ₹3,362.05 → ₹3,540.65 (new box ₹3,727.00–₹4,070.20 sealed)"
+2020-03-06,NAVINFLUOR,fresh signal REFUSED — falling earnings power
+2020-03-06,PFIZER,fresh signal REFUSED — falling earnings power
+2020-03-06,POLYMED,fresh signal REFUSED — falling earnings power
+2020-03-06,RELAXO,fresh signal REFUSED — falling earnings power
+2020-03-09,DEEPAKNTR,"BUY ₹12.20 at ₹508.80 (fresh Friday signal — BUY: 2.89× weekly, month 3.36×, ladder rising; stop ₹356.25; charges ₹0.01)"
+2020-03-09,INDOCO,"BUY ₹10.64 at ₹228.20 (fresh Friday signal — ACCUMULATE: 2.23× weekly, month 2.83×, ladder rising; stop ₹164.08; charges ₹0.01)"
+2020-03-12,HARITASEAT,"SELL ₹9.77 at stop ₹404.35 (-19.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-03-12,JBCHEPHARM,"SELL ₹14.02 at stop ₹497.61 (+17.2%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-03-13,HDFCMFGETF,"SELL ₹13.93 at stop ₹3,540.65 (+13.8%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-03-13,INDOCO,"SELL ₹7.64 at stop ₹164.08 (-28.1%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-03-17,GOLDSHARE,"SELL ₹13.07 at stop ₹3,562.50 (+7.6%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-03-17,KOTAKGOLD,"SELL ₹13.01 at stop ₹352.69 (+16.9%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
+2020-03-19,DEEPAKNTR,"SELL ₹8.52 at stop ₹356.25 (-30.0%, charges ₹0.01) — the cash goes back to work at the next Friday screen"
