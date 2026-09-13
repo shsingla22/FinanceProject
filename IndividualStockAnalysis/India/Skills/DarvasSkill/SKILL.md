@@ -80,7 +80,15 @@ license: internal
    window: the old instant weekly sell threw CHENNPETRO out at +5.1%;
    the grace held the identical entry to +62.6%. The rhythm: **run the
    skill weekly, after Friday's close** — each run re-fetches, re-ranks,
-   re-seals boxes and ratchets every held stop UP only.
+   re-seals boxes and ratchets every held stop UP only. **Cash never
+   sleeps:** money freed by a stop is deployed into that week's fresh
+   fully-qualified BUY/ACCUMULATE signals — best volume reaction first,
+   one equal slice per position, entered at the next day's open, a
+   falling earnings power refused, nothing below half a slice. A
+   stopped symbol may return only by passing the full three-gate screen
+   again. (Measured on the May-2026 backtest window: the frozen book
+   left 25% of capital-time idle and made ₹113.34 per ₹100; the same
+   book with freed cash redeployed made ₹117.28.)
 
 ## Run it
 
@@ -90,7 +98,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 59 tests
+python3 -m pytest scripts/test_skill.py -q     # 66 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -139,6 +147,27 @@ Same stocks, same rhythm, one added rule: after a stop-out or weekly
 SELL, re-buy on the first day BOTH of the skill's own signals say go —
 boxes in BREAKOUT/RECOVERY and the weekly volume trigger firing again.
 Appends the multi-leg blotter, per-stock compounding and the ₹100
+outcome to the backtest report.
+
+### The rolling rhythm — freed cash redeployed every Friday
+
+```bash
+python3 scripts/rolling.py --asof 2026-05-31 --through 2026-09-11 \
+                           --tag 2025-06-01_to_2026-05-31
+```
+
+The rhythm as an operating portfolio. It starts with the SAME book as
+the frozen walk-forward (the as-of ledger's buys, same day, same
+closes, equal slices), then re-runs the FULL three-gate screen over the
+whole universe every Friday after the close and deploys cash freed by
+stops into that week's fresh BUY/ACCUMULATE signals — best volume
+reaction first, one slice each, entries at the next trading day's open,
+falling earnings power refused, nothing below half a slice, no borrowed
+money. Stops are checked daily and ratcheted weekly exactly as before;
+a stopped symbol returns only by passing the full screen again. No
+lookahead: every screen sees only bars up to its own Friday, statements
+stay cut at the as-of fiscal year. Appends the complete dated blotter,
+the weekly equity curve, closed trades, the end book and the ₹100
 outcome to the backtest report.
 
 ## Data and outputs

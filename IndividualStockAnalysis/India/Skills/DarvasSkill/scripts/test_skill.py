@@ -777,3 +777,121 @@ def test_only_a_genuine_in_box_watch_is_a_buy_instruction():
     assert WF.genuine_watch_buy_above(
         broken_out, broken_out[-1]["date"]) is None, \
         "a downgraded BREAKOUT's stale box top must never become a trigger"
+
+
+# --------------------------------------- the rolling rhythm (rolling.py)
+
+import rolling as RL       # noqa: E402
+
+
+def _roll_bars(sym, closes, start="2026-01-02", vol=100_000):
+    """Consecutive weekday bars, close-driven, open = previous close."""
+    d = dt.date.fromisoformat(start)
+    out, prev = [], closes[0]
+    for c in closes:
+        while d.weekday() >= 5:
+            d += dt.timedelta(days=1)
+        out.append({"symbol": sym, "date": d.isoformat(), "open": prev,
+                    "high": max(prev, c) + 0.5, "low": min(prev, c) - 0.5,
+                    "close": c, "volume": vol})
+        prev = c
+        d += dt.timedelta(days=1)
+    return out
+
+
+def test_plan_deployment_slices_the_cash_and_refuses_crumbs():
+    # three signals, cash for 2.4 slices: two full slices, then the
+    # 0.4-slice remainder is refused (below half a slice)
+    assert RL.plan_deployment(24.0, 10.0, 3) == [10.0, 10.0]
+    # the remainder IS deployed when it clears half a slice
+    assert RL.plan_deployment(26.0, 10.0, 3) == [10.0, 10.0, 6.0]
+    # no cash, no entries — and never a negative amount
+    assert RL.plan_deployment(0.0, 10.0, 2) == []
+    assert RL.plan_deployment(4.9, 10.0, 1) == []
+
+
+def test_screen_day_refuses_thin_history():
+    bars = _roll_bars("T", [50.0] * 30)
+    day = dt.date.fromisoformat(bars[-1]["date"])
+    assert RL.screen_day(bars, day) is None
+
+
+def _rolling_world():
+    """AAA is seeded and slides through its stop; BBB is flat and waits
+    for the injected Friday signal. 2026-01-02 is a Friday."""
+    aaa = _roll_bars("AAA", [100.0] * 6 + [98.0, 94.0] + [93.0] * 32)
+    bbb = _roll_bars("BBB", [50.0] * 40)
+    return {"AAA": aaa, "BBB": bbb}
+
+
+def test_rolling_redeploys_stop_out_cash_into_the_next_fresh_signal():
+    bars_by = _rolling_world()
+    signal_friday = "2026-01-16"
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB" \
+                and day.isoformat() == signal_friday:
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling(bars_by, [{"symbol": "AAA", "stop": 95.0}],
+                         "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s: True, screen=stub)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    # the seed took the whole slice, the stop freed ₹95 …
+    assert "AAA BUY ₹100.00 at ₹100.00" in text
+    assert "AAA SELL ₹95.00 at stop ₹95.00" in text
+    # … and the freed cash entered BBB at the NEXT trading day's open,
+    # never on the signal Friday itself
+    bbb_buy = [b for b in res["blotter"] if b[1] == "BBB" and "BUY" in b[2]]
+    assert bbb_buy and bbb_buy[0][0] == "2026-01-19"
+    assert "at ₹50.00" in bbb_buy[0][2]
+    # cash never went negative anywhere along the curve
+    assert all(w["cash"] >= 0 for w in res["equity_curve"])
+    # the books balance: everything rides in BBB at the end
+    assert res["final_equity"] == pytest.approx(95.0)
+    assert [b["symbol"] for b in res["book"]] == ["BBB"]
+
+
+def test_rolling_never_rebuys_a_stopout_without_a_fresh_screen_pass():
+    bars_by = _rolling_world()
+    res = RL.run_rolling(bars_by, [{"symbol": "AAA", "stop": 95.0}],
+                         "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s: True, screen=lambda b, d: None)
+    buys = [b for b in res["blotter"] if "BUY" in b[2]]
+    assert len(buys) == 1, "no screen pass, no re-entry — the cash waits"
+    assert res["final_equity"] == pytest.approx(95.0)
+    assert res["cash"] == pytest.approx(95.0)
+
+
+def test_rolling_refuses_fresh_signals_on_falling_earnings():
+    bars_by = _rolling_world()
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB" \
+                and day.isoformat() == "2026-01-16":
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling(bars_by, [{"symbol": "AAA", "stop": 95.0}],
+                         "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s: s != "BBB", screen=stub)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    assert "BBB fresh signal REFUSED — falling earnings power" in text
+    assert not [b for b in res["blotter"] if b[1] == "BBB" and "BUY" in b[2]]
+
+
+def test_rolling_seed_book_gets_equal_slices():
+    aaa = _roll_bars("AAA", [100.0] * 40)
+    bbb = _roll_bars("BBB", [50.0] * 40)
+    res = RL.run_rolling({"AAA": aaa, "BBB": bbb},
+                         [{"symbol": "AAA", "stop": 90.0},
+                          {"symbol": "BBB", "stop": 45.0}],
+                         "2026-01-02", aaa[-1]["date"],
+                         100.0, lambda s: True, screen=lambda b, d: None)
+    seeds = [b for b in res["blotter"] if "seed" in b[2]]
+    assert len(seeds) == 2
+    assert all("₹50.00" in b[2] for b in seeds)
+    assert res["final_equity"] == pytest.approx(100.0)
