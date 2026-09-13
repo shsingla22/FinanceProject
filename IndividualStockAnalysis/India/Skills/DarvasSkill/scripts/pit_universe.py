@@ -71,13 +71,21 @@ def _new_url(d: dt.date) -> str:
             f"BhavCopy_NSE_CM_0_0_0_{d.strftime('%Y%m%d')}_F_0000.csv.zip")
 
 
-def _get(url: str) -> bytes | None:
+def _get(url: str, retries: int = 3) -> bytes | None:
+    """A holiday is a REPEATED miss, never a single one — a throttled
+    or dropped request must not poison the holiday cache."""
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return resp.read()
-    except Exception:                     # noqa: BLE001 — 404 = holiday
-        return None
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return resp.read()
+        except urllib.error.HTTPError as e:
+            if e.code == 404:             # genuinely absent
+                return None
+        except Exception:                 # noqa: BLE001 — retried
+            pass
+        time.sleep(1.5 * (attempt + 1))
+    return None
 
 
 def _parse(data: bytes, d: dt.date) -> list[dict]:
