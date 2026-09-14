@@ -98,7 +98,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 77 tests
+python3 -m pytest scripts/test_skill.py -q     # 94 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -238,3 +238,16 @@ Every picture carries its exact numbers.
 - The new-age read needs the judge model; without it the verdict is
   "not assessed", never guessed.
 - Research tooling — not investment advice.
+
+## In the user interfaces
+
+Both UIs carry a **Darvas weekly screen** section, served through one door
+(`scripts/ui_bridge.py`): every run writes `darvas_latest.json` from the
+SAME objects that render the report, so the page and the downloadable
+Markdown can never disagree; each run is archived under
+`DarvasAnalysis/history/<run_date>/` and `scripts/darvas_history.py`
+turns that archive into the month's trace (per-run verbs, per-symbol
+BUY / RAISE STOP / SELL / WATCH timeline; older runs reconstructed from
+git with `backfill`, marked as such). The page's run button launches
+`analyze.py run` in the background and polls a status file — the
+Saturday-morning rhythm, one click.

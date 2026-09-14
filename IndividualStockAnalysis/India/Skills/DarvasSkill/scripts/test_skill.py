@@ -1238,3 +1238,150 @@ def test_actions_section_speaks_in_four_verbs():
     assert "- BROKE" in md                              # sell
     assert "close above ₹55.00" in md                   # radar
     assert "DOWNG — downgraded" in md                   # never a buy
+
+
+# ----------------- the structured run record, the history, the UI door
+
+import json as _json                    # noqa: E402
+import darvas_history as DH             # noqa: E402
+import ui_bridge as UB                  # noqa: E402
+
+
+def _dives():
+    return [
+        {"rec": {"symbol": "GOODBUY", "action": "BUY", "stop_loss": 90.0,
+                 "last_close": 100.0, "box_bottom": 95.0, "box_top": 105.0,
+                 "box_range_pct": 10.5, "why": "broke out"},
+         "power": {"verdict": "RISING"}, "calls": {"new_age": "yes"},
+         "mtrend": {"verdict": "BUILDING", "rising_months": 2},
+         "signal": {"volume_multiple": 2.3}},
+        {"rec": {"symbol": "RADAR1", "action": "WATCH", "buy_above": 55.0,
+                 "box_bottom": 50.0, "box_top": 55.0, "stop_loss": 47.5,
+                 "box_range_pct": 10.0, "why": "in box"},
+         "power": {"verdict": "FLAT"}, "calls": {"new_age": "no"},
+         "mtrend": {"verdict": "SPIKE ONLY"},
+         "signal": {"volume_multiple": 1.7}},
+    ]
+
+
+def test_actions_section_is_rendered_from_the_same_data_the_ui_gets():
+    dives = _dives()
+    ledger = [{"symbol": "HELDUP", "stop_loss": "120.0", "action": "BUY"},
+              {"symbol": "BROKE", "stop_loss": "", "action": "SELL"}]
+    data = AZ.actions_data(dives, ledger, {"HELDUP": "100.0"})
+    assert AZ.actions_section(dives, ledger, {"HELDUP": "100.0"}) \
+        == AZ.render_actions(data)
+    assert [b["symbol"] for b in data["buys"]] == ["GOODBUY"]
+    assert data["buys"][0]["risk_pct"] == pytest.approx(-10.0)
+    assert data["raises"] == [{"symbol": "HELDUP", "old": 100.0,
+                               "new": 120.0}]
+    assert data["sells"] == [{"symbol": "BROKE"}]
+    assert data["radar"] == [{"symbol": "RADAR1", "buy_above": 55.0}]
+
+
+def test_recommendation_rows_mirror_the_markdown_table():
+    rows = AZ.recommendation_rows(_dives())
+    assert rows[0]["symbol"] == "GOODBUY" and rows[0]["action"] == "BUY"
+    assert rows[0]["volume_trend"] == "BUILDING (2 mo)"
+    assert rows[0]["earnings_power"] == "RISING" and rows[0]["new_age"] == "yes"
+    assert rows[1]["buy_above"] == 55.0 and rows[1]["stop_loss"] == 47.5
+
+
+def test_history_timeline_orders_and_detects_raises(tmp_path):
+    (tmp_path / "2026-09-05").mkdir()
+    (tmp_path / "2026-09-12").mkdir()
+    r1 = {"run_date": "2026-09-05", "actions": {
+        "buys": [{"symbol": "AAA", "action": "BUY", "stop_loss": 90.0}],
+        "raises": [], "sells": [],
+        "radar": [{"symbol": "WWW", "buy_above": 10.0}], "downgraded": []}}
+    r2 = {"run_date": "2026-09-12", "actions": {
+        "buys": [], "raises": [{"symbol": "AAA", "old": 90.0, "new": 97.0}],
+        "sells": [{"symbol": "ZZZ"}],
+        "radar": [{"symbol": "WWW", "buy_above": 10.0}], "downgraded": []}}
+    (tmp_path / "2026-09-05" / "run.json").write_text(_json.dumps(r1))
+    (tmp_path / "2026-09-12" / "run.json").write_text(_json.dumps(r2))
+    tr = DH.trace(days=None, history=tmp_path)
+    ev = [(e["date"], e["symbol"], e["event"]) for e in tr["timeline"]]
+    assert ev == [("2026-09-05", "AAA", "BUY"), ("2026-09-05", "WWW", "WATCH"),
+                  ("2026-09-12", "AAA", "RAISE STOP"),
+                  ("2026-09-12", "ZZZ", "SELL")]
+    assert "₹90.00 → ₹97.00" in tr["by_symbol"]["AAA"][1]["detail"]
+    # the radar entry is not repeated for an unchanged buy-above
+    assert len(tr["by_symbol"]["WWW"]) == 1
+
+
+def test_backfill_parser_reads_a_report_and_derives_the_verbs():
+    md = ("*Run 2026-09-12 on data fetched 2026-09-12T09:00:02+00:00 · "
+          "741 stocks scanned*\n\n## The recommendations\n\n"
+          "| Stock | Action | Box (₹) | Own box height | Stop loss | "
+          "Earnings power | New-age |\n|---|---|---|---:|---:|---|---|\n"
+          "| AAA | **BUY** | 95.0–105.0 | 10.5% | ₹90.00 | RISING | yes |\n"
+          "| WWW | **WATCH** | 50.0–55.0 | 10.0% | ₹47.50 | FLAT | no |\n\n"
+          "## AAA — BUY\n")
+    parsed = DH.parse_report(md)
+    assert parsed["run_date"] == "2026-09-12"
+    assert [r["symbol"] for r in parsed["recommendations"]] == ["AAA", "WWW"]
+    assert parsed["recommendations"][0]["stop_loss"] == 90.0
+    assert parsed["recommendations"][1]["buy_above"] == 55.0
+    ledger = [{"symbol": "AAA", "stop_loss": "90.0", "action": "BUY"},
+              {"symbol": "OLD", "stop_loss": "77.0", "action": "BUY"},
+              {"symbol": "GONE", "stop_loss": "", "action": "SELL"}]
+    a = DH.derive_actions(parsed["recommendations"], ledger, {"OLD": "70.0"})
+    assert [b["symbol"] for b in a["buys"]] == ["AAA"]
+    assert a["raises"] == [{"symbol": "OLD", "old": 70.0, "new": 77.0}]
+    assert a["sells"] == [{"symbol": "GONE"}]
+    assert a["radar"] == [{"symbol": "WWW", "buy_above": 55.0}]
+
+
+def test_ui_bridge_runs_the_engine_in_the_background(tmp_path, monkeypatch):
+    import time
+    monkeypatch.setattr(UB, "STATUS", tmp_path / "status.json")
+    monkeypatch.setattr(UB, "RUN_LOG", tmp_path / "run.log")
+    gate = {"go": False}
+
+    def slow_runner():
+        while not gate["go"]:
+            time.sleep(0.02)
+        return 0
+
+    first = UB.start_run(quick=True, runner=slow_runner)
+    assert first["started"] and first["quick"] is True
+    assert UB.run_status()["state"] == "running"
+    # a second start while running is refused, not queued
+    second = UB.start_run(quick=True, runner=slow_runner)
+    assert second["started"] is False and "already" in second["note"]
+    gate["go"] = True
+    for _ in range(100):
+        if UB.run_status()["state"] != "running":
+            break
+        time.sleep(0.02)
+    st = UB.run_status()
+    assert st["state"] == "done" and st["exit_code"] == 0
+    # a failing engine is reported, never hidden
+    assert UB.start_run(quick=False, runner=lambda: 3)["started"]
+    for _ in range(100):
+        if UB.run_status()["state"] != "running":
+            break
+        time.sleep(0.02)
+    assert UB.run_status()["state"] == "error"
+
+
+def test_latest_record_agrees_with_the_stored_report():
+    """The record the UIs render and the Markdown the user downloads come
+    from one run: the recommendations table in the report must list the
+    same symbols, actions and stops the JSON carries."""
+    if not AZ.LATEST.exists() or not AZ.REPORT.exists():
+        pytest.skip("no stored run")
+    rec = _json.loads(AZ.LATEST.read_text())
+    parsed = DH.parse_report(AZ.REPORT.read_text())
+    assert parsed["run_date"] == rec["run_date"]
+    md_rows = [(r["symbol"], r["action"]) for r in parsed["recommendations"]]
+    js_rows = [(r["symbol"], r["action"]) for r in rec["recommendations"]]
+    assert md_rows == js_rows
+    for m, j in zip(parsed["recommendations"], rec["recommendations"]):
+        if j["action"] != "SELL":
+            assert m["stop_loss"] == pytest.approx(j["stop_loss"], abs=0.01)
+    # and the closing section's buys are the record's buys
+    md = AZ.REPORT.read_text()
+    for b in rec["actions"]["buys"]:
+        assert f"| **{b['symbol']}** | buy at next open |" in md

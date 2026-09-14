@@ -1,0 +1,445 @@
+{
+ "run_date": "2026-09-14",
+ "fetched_at": "2026-09-14T06:17:23+00:00",
+ "trigger_week": "2026-09-07",
+ "scanned": 750,
+ "fetch_ok": 750,
+ "fetch_failed": 0,
+ "weekly_qualifiers": 51,
+ "fully_qualified": 51,
+ "ai_used": true,
+ "recommendations": [
+  {
+   "symbol": "GRAPHITE",
+   "action": "WATCH",
+   "downgraded": true,
+   "box_bottom": 712.95,
+   "box_top": 755.5,
+   "box_range_pct": 5.97,
+   "stop_loss": 677.3,
+   "buy_above": null,
+   "last_close": 825.8,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "FALLING",
+   "new_age": "not assessed",
+   "volume_multiple": 8.54,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break; DOWNGRADED to WATCH \u2014 the latest statements show falling earnings power, and Darvas required rising earnings under the volume"
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 1192.4,
+   "box_top": 1284.5,
+   "box_range_pct": 7.72,
+   "stop_loss": 1132.78,
+   "buy_above": 1284.5,
+   "last_close": 1237.1,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "RISING",
+   "new_age": "no",
+   "volume_multiple": 3.71,
+   "why": "closed below its box bottom \u2014 a red flag, but still inside the stabilisation grace (above the stop, which sits at least 5% below the bottom); give it time rather than churn, and sell only if the stop is taken out"
+  },
+  {
+   "symbol": "HERITGFOOD",
+   "action": "WATCH",
+   "downgraded": true,
+   "box_bottom": 349.3,
+   "box_top": 392.1,
+   "box_range_pct": 12.25,
+   "stop_loss": 331.84,
+   "buy_above": null,
+   "last_close": 417.4,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "FALLING",
+   "new_age": "no",
+   "volume_multiple": 2.72,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break; DOWNGRADED to WATCH \u2014 the latest statements show falling earnings power, and Darvas required rising earnings under the volume"
+  },
+  {
+   "symbol": "GMMPFAUDLR",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 981.0,
+   "box_top": 1079.4,
+   "box_range_pct": 10.03,
+   "stop_loss": 931.95,
+   "buy_above": null,
+   "last_close": 1307.9,
+   "volume_trend": "BUILDING (2 mo)",
+   "earnings_power": "FLAT",
+   "new_age": "entering",
+   "volume_multiple": 2.21,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "SARDAEN",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 503.15,
+   "box_top": 542.5,
+   "box_range_pct": 7.82,
+   "stop_loss": 477.99,
+   "buy_above": 542.5,
+   "last_close": 524.15,
+   "volume_trend": "STEPPED UP",
+   "earnings_power": "RISING",
+   "new_age": "no",
+   "volume_multiple": 2.11,
+   "why": "closed below its box bottom \u2014 a red flag, but still inside the stabilisation grace (above the stop, which sits at least 5% below the bottom); give it time rather than churn, and sell only if the stop is taken out"
+  },
+  {
+   "symbol": "SAILIFE",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 1409.0,
+   "box_top": 1475.0,
+   "box_range_pct": 4.68,
+   "stop_loss": 1338.55,
+   "buy_above": null,
+   "last_close": 1585.0,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "RISING",
+   "new_age": "yes",
+   "volume_multiple": 2.01,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  }
+ ],
+ "actions": {
+  "buys": [
+   {
+    "symbol": "GMMPFAUDLR",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 931.95,
+    "last_close": 1307.9,
+    "risk_pct": -28.7,
+    "wide": true
+   },
+   {
+    "symbol": "SAILIFE",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 1338.55,
+    "last_close": 1585.0,
+    "risk_pct": -15.5,
+    "wide": false
+   }
+  ],
+  "raises": [],
+  "sells": [
+   {
+    "symbol": "CORONA"
+   },
+   {
+    "symbol": "SWANCORP"
+   },
+   {
+    "symbol": "TATAINVEST"
+   }
+  ],
+  "radar": [
+   {
+    "symbol": "PVRINOX",
+    "buy_above": 1284.5
+   },
+   {
+    "symbol": "SARDAEN",
+    "buy_above": 542.5
+   }
+  ],
+  "downgraded": [
+   {
+    "symbol": "GRAPHITE",
+    "why": "downgraded (falling earnings power): never a buy"
+   },
+   {
+    "symbol": "HERITGFOOD",
+    "why": "downgraded (falling earnings power): never a buy"
+   }
+  ]
+ },
+ "ledger": [
+  {
+   "symbol": "AWFIS",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "",
+   "box_top": "",
+   "stop_loss": "",
+   "last_close": "293.2",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "BLACKBUCK",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": "570.1",
+   "box_top": "641.9",
+   "stop_loss": "548.56",
+   "last_close": "628.15",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "CORONA",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "2035.0",
+   "box_top": "2270.1001",
+   "stop_loss": "",
+   "last_close": "2236.1001",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "DBL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "390.15",
+   "box_top": "411.0",
+   "stop_loss": "383.89",
+   "last_close": "403.35",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "ELLEN",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "308.35",
+   "box_top": "337.4",
+   "stop_loss": "299.64",
+   "last_close": "380.2",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "GMMPFAUDLR",
+   "first_flagged": "2026-09-14",
+   "action": "BUY",
+   "box_bottom": 981.0,
+   "box_top": 1079.4,
+   "stop_loss": 931.95,
+   "last_close": 1307.9,
+   "updated": "2026-09-14"
+  },
+  {
+   "symbol": "GRANULES",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": "824.4",
+   "box_top": "910.0",
+   "stop_loss": "798.72",
+   "last_close": "909.3",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "GRAPHITE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 712.95,
+   "box_top": 755.5,
+   "stop_loss": 700.19,
+   "last_close": 825.8,
+   "updated": "2026-09-14"
+  },
+  {
+   "symbol": "HERITGFOOD",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 349.3,
+   "box_top": 392.1,
+   "stop_loss": 336.46,
+   "last_close": 417.4,
+   "updated": "2026-09-14"
+  },
+  {
+   "symbol": "JSL",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "726.0",
+   "box_top": "741.5",
+   "stop_loss": "721.35",
+   "last_close": "756.1",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "MAHSEAMLES",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "632.0",
+   "box_top": "658.9",
+   "stop_loss": "623.93",
+   "last_close": "728.9",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "MIDHANI",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "413.05",
+   "box_top": "456.6",
+   "stop_loss": "399.99",
+   "last_close": "447.4",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "ONESOURCE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "1504.1",
+   "box_top": "1551.0",
+   "stop_loss": "1490.03",
+   "last_close": "1592.2",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "PINELABS",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "134.73",
+   "box_top": "184.94",
+   "stop_loss": "119.67",
+   "last_close": "202.17",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "PVRINOX",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1192.4,
+   "box_top": 1284.5,
+   "stop_loss": 1132.78,
+   "last_close": 1237.1,
+   "updated": "2026-09-14"
+  },
+  {
+   "symbol": "RAYMONDLSL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "628.25",
+   "box_top": "711.65",
+   "stop_loss": "603.23",
+   "last_close": "692.0",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "SAILIFE",
+   "first_flagged": "2026-09-14",
+   "action": "BUY",
+   "box_bottom": 1409.0,
+   "box_top": 1475.0,
+   "stop_loss": 1338.55,
+   "last_close": 1585.0,
+   "updated": "2026-09-14"
+  },
+  {
+   "symbol": "SAMHI",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "150.43",
+   "box_top": "162.99",
+   "stop_loss": "146.66",
+   "last_close": "157.07",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "SARDAEN",
+   "first_flagged": "2026-09-14",
+   "action": "WATCH",
+   "box_bottom": 503.15,
+   "box_top": 542.5,
+   "stop_loss": 477.99,
+   "last_close": 524.15,
+   "updated": "2026-09-14"
+  },
+  {
+   "symbol": "SFL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "627.8",
+   "box_top": "717.85",
+   "stop_loss": "600.78",
+   "last_close": "691.55",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "SHAKTIPUMP",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "465.0",
+   "box_top": "487.1",
+   "stop_loss": "458.37",
+   "last_close": "493.8",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "SHAREINDIA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "167.2",
+   "box_top": "178.85",
+   "stop_loss": "163.7",
+   "last_close": "198.93",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "STAR",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "931.3",
+   "box_top": "1019.7",
+   "stop_loss": "904.78",
+   "last_close": "1183.4",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "SWANCORP",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "304.0",
+   "box_top": "317.2",
+   "stop_loss": "",
+   "last_close": "296.45",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "TATAINVEST",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "624.9",
+   "box_top": "656.4",
+   "stop_loss": "",
+   "last_close": "650.9",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "TEGA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "1534.6",
+   "box_top": "1837.0",
+   "stop_loss": "1443.88",
+   "last_close": "1729.1",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "WESTLIFE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "523.0",
+   "box_top": "582.0",
+   "stop_loss": "505.3",
+   "last_close": "569.6",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "ZYDUSWELL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "518.15",
+   "box_top": "541.55",
+   "stop_loss": "511.13",
+   "last_close": "552.0",
+   "updated": "2026-09-13"
+  }
+ ]
+}

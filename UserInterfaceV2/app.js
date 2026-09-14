@@ -117,6 +117,7 @@ function handle(q) {
   echo(q);
 
   if (/\b(help|how (do|to)|what can)\b/.test(low)) return renderHelp();
+  if (/\b(darvas|box screen|weekly screen|breakout screen|box method)\b/.test(low)) return renderDarvas();
 
   const cos = findCompanies(q);
   const compareMode = /\b(compare|vs\.?|versus)\b/.test(low) && cos.length >= 2;
@@ -1086,3 +1087,143 @@ function renderHelp() {
     <li>“compare DMART and APOLLOHOSP” — stored verdicts side by side</li>
     <li>On any company page: ask the Q&amp;A box — answers are grounded in the stored reports</li></ul>`);
 }
+
+
+/* ---------------- Darvas weekly screen (the box method) ----------------
+   Rendered from api/darvas/latest — the SAME machine-readable record the
+   Markdown report was written from, so this page and the downloadable
+   report can never disagree. The trace comes from the archived runs; the
+   "run" button starts the real engine on the server and polls a status
+   endpoint (every request returns in milliseconds, so a long fetch can
+   never time out at a proxy). */
+const DARVAS_QUICK = 1;   // this UI's run mode (1 = no AI call-read)
+const inrFmt = v => (v === null || v === undefined || v === "")
+  ? "—" : "₹" + Number(v).toLocaleString("en-IN", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const verbTag = (v) => {
+  const cls = { BUY: "buy", ACCUMULATE: "buy", SELL: "sell", "RAISE STOP": "raise", WATCH: "watch" }[v] || "watch";
+  return `<span class="verb ${cls}">${esc(v)}</span>`;
+};
+
+async function renderDarvas() {
+  const holder = document.createElement("div");
+  $out().appendChild(holder);
+  cardIn(holder, `<h2>📦 Darvas weekly screen</h2><p class="note">Loading the latest run…</p>`);
+  let rec = null, tr = null, st = null;
+  try {
+    const r = await fetch("api/darvas/latest");
+    rec = r.ok ? await r.json() : null;
+    tr = await fetch("api/darvas/trace?days=31").then(x => x.json());
+    st = await fetch("api/darvas/run/status").then(x => x.json());
+  } catch (e) {
+    holder.innerHTML = "";
+    cardIn(holder, `<h2>📦 Darvas weekly screen</h2><p class="note">Could not load the screen: ${esc(e.message)}</p>`);
+    return;
+  }
+  holder.innerHTML = "";
+  darvasRender(holder, rec, tr, st);
+}
+
+function darvasRender(holder, rec, tr, st) {
+  // ---- header + the run button
+  const running = st && st.state === "running";
+  cardIn(holder, `
+    <h2>📦 Darvas weekly screen</h2>
+    <p>The box method, run mechanically over the NiftyTotalMarket universe: a weekly
+    volume surge with the price rising is the trigger, the stock's own boxes give the
+    entry and the stop, and every held stop only ever moves up. The universe is
+    checked against the official constituent list every month.</p>
+    ${rec ? `<p class="note">Latest run <b>${esc(rec.run_date)}</b> on data fetched ${esc(rec.fetched_at)} ·
+      ${rec.scanned} stocks scanned (${rec.fetch_ok} fetched, ${rec.fetch_failed} unavailable) ·
+      ${rec.weekly_qualifiers ?? "—"} weekly qualifiers → ${rec.fully_qualified ?? "—"} through all three gates
+      ${rec.ai_used ? "· conference-call read by the judge model" : "· no AI call in this run"}</p>`
+      : `<p class="note">No run stored yet — press the button to run the screen.</p>`}
+    <p><button class="chip" id="darvas-run" ${running ? "disabled" : ""}>▶ Run this week's screen now</button>
+       <a class="chip" href="api/darvas/report" download="DARVAS_REPORT.md">📄 Download the full report (Markdown)</a></p>
+    <p class="note darvas-status" id="darvas-status">${running ? "A run is in progress…" : ""}</p>`);
+  const btn = holder.querySelector("#darvas-run");
+  btn.addEventListener("click", () => darvasStartRun(holder));
+  if (running) darvasPoll(holder);
+  if (!rec) return;
+
+  // ---- the week in four verbs
+  const a = rec.actions || {};
+  const buyRows = (a.buys || []).map(b => `<tr><td>${verbTag(b.action || "BUY")} <b>${esc(b.symbol)}</b></td>
+      <td>${esc(b.entry)}</td><td>${inrFmt(b.stop_loss)}</td>
+      <td>${b.risk_pct == null ? "—" : (b.risk_pct.toFixed(1) + "%")}${b.wide ? ' <span class="verb sell">WIDE — half slice or wait for the next box</span>' : ""}</td></tr>`).join("");
+  cardIn(holder, `
+    <h2>Today's actions — plain and simple</h2>
+    <h3>BUY <span class="note">(stop as a GTT order right after the fill; one equal slice — a tenth of capital)</span></h3>
+    ${buyRows ? `<div class="tblwrap tablewrap"><table class="rank"><thead><tr><th>Stock</th><th>Entry</th><th>Stop loss</th><th>Risk from last close</th></tr></thead><tbody>${buyRows}</tbody></table></div>`
+              : `<p class="note">Nothing to buy today.</p>`}
+    <h3>RAISE STOP LOSS <span class="note">(replace the standing GTT — stops only move up)</span></h3>
+    ${(a.raises || []).length ? `<ul>${a.raises.map(r => `<li>${verbTag("RAISE STOP")} <b>${esc(r.symbol)}</b>: ${inrFmt(r.old)} → <b>${inrFmt(r.new)}</b></li>`).join("")}</ul>` : `<p class="note">None this run.</p>`}
+    <h3>SELL <span class="note">(closed below its box bottom — the red flag; only if you hold it)</span></h3>
+    ${(a.sells || []).length ? `<ul>${a.sells.map(s => `<li>${verbTag("SELL")} <b>${esc(s.symbol)}</b></li>`).join("")}</ul>` : `<p class="note">Nothing flagged.</p>`}
+    <h3>NOTHING TO DO — the radar <span class="note">(converts to BUY by itself in a coming week if the break comes; unbought old signals expire)</span></h3>
+    <ul>${(a.radar || []).map(w => `<li>${verbTag("WATCH")} <b>${esc(w.symbol)}</b>${w.buy_above ? ` — turns into BUY on a daily close above ${inrFmt(w.buy_above)}` : ""}</li>`).join("")}
+        ${(a.downgraded || []).map(d => `<li>${verbTag("WATCH")} <b>${esc(d.symbol)}</b> — ${esc(d.why)}</li>`).join("")}
+        ${!(a.radar || []).length && !(a.downgraded || []).length ? "<li>(empty)</li>" : ""}</ul>`);
+
+  // ---- the recommendations table (mirrors the report's)
+  const recRows = (rec.recommendations || []).map(r => `<tr>
+      <td><b>${esc(r.symbol)}</b></td><td>${verbTag(r.action)}${r.downgraded ? ' <span class="note">downgraded</span>' : ""}</td>
+      <td>${r.box_top ? `${inrFmt(r.box_bottom)} – ${inrFmt(r.box_top)}` : "forming"}</td>
+      <td>${r.box_range_pct != null ? r.box_range_pct.toFixed(1) + "%" : "—"}</td>
+      <td>${r.action === "SELL" ? "exit" : inrFmt(r.stop_loss)}</td>
+      <td>${esc(r.volume_trend || "—")}</td><td>${esc(r.earnings_power || "—")}</td><td>${esc(r.new_age || "—")}</td></tr>`).join("");
+  cardIn(holder, `<h2>The recommendations</h2>
+    <div class="tblwrap tablewrap"><table class="rank"><thead><tr><th>Stock</th><th>Action</th><th>Box (₹)</th><th>Own box height</th><th>Stop loss</th><th>Volume trend</th><th>Earnings power</th><th>New-age</th></tr></thead>
+    <tbody>${recRows}</tbody></table></div>
+    <p class="note">Every row has its full deep dive — price-and-volume chart, the complete box ladder, earnings power, the monthly volume trend — in the downloadable report.</p>`);
+
+  // ---- the trace: every run's verbs, and every symbol's timeline
+  const ev = (tr && tr.timeline) || [];
+  const runs = (tr && tr.runs) || [];
+  const evRows = ev.slice().reverse().map(e => `<tr><td>${esc(e.date)}</td><td><b>${esc(e.symbol)}</b></td><td>${verbTag(e.event)}</td><td>${esc(e.detail)}</td></tr>`).join("");
+  cardIn(holder, `<h2>The trace — the last ${tr ? tr.days : 31} days, run by run</h2>
+    <p class="note">${runs.length} run${runs.length === 1 ? "" : "s"} archived: ${runs.map(r => esc(r.run_date) + (r.source === "backfill" ? " (reconstructed)" : "")).join(" · ") || "none yet"}.
+      Every BUY with its stop, every RAISE STOP with the old and new level, every SELL, and each symbol's first appearance on the radar — newest first.</p>
+    ${evRows ? `<div class="tblwrap tablewrap"><table class="rank"><thead><tr><th>Date</th><th>Stock</th><th>Event</th><th>Detail</th></tr></thead><tbody>${evRows}</tbody></table></div>` : `<p class="note">No events yet.</p>`}`);
+}
+
+async function darvasStartRun(holder) {
+  const status = holder.querySelector("#darvas-status");
+  const btn = holder.querySelector("#darvas-run");
+  btn.disabled = true;
+  status.textContent = "Starting the weekly engine…";
+  try {
+    const r = await fetch(`api/darvas/run?quick=${DARVAS_QUICK}`, { method: "POST" });
+    const j = await r.json();
+    if (!j.started && j.state !== "running") { status.textContent = j.note || "Could not start"; btn.disabled = false; return; }
+  } catch (e) { status.textContent = "Could not start: " + e.message; btn.disabled = false; return; }
+  darvasPoll(holder);
+}
+
+async function darvasPoll(holder) {
+  const status = holder.querySelector("#darvas-status");
+  const t0 = Date.now();
+  const tick = async () => {
+    let st;
+    try { st = await fetch("api/darvas/run/status").then(r => r.json()); }
+    catch (_) { setTimeout(tick, 5000); return; }
+    const secs = Math.round((Date.now() - t0) / 1000);
+    if (st.state === "running") {
+      const tail = (st.log_tail || "").split("\n").filter(Boolean).slice(-1)[0] || "";
+      status.textContent = `Running the full engine — fresh universe check, price fetch, three gates, boxes, stops… ${fmtElapsedD(secs)} elapsed. ${tail}`;
+      setTimeout(tick, 5000);
+      return;
+    }
+    if (st.state === "done") {
+      status.textContent = "Done — reloading the new recommendations…";
+      holder.innerHTML = "";
+      const rec = await fetch("api/darvas/latest").then(r => r.ok ? r.json() : null);
+      const tr = await fetch("api/darvas/trace?days=31").then(r => r.json());
+      darvasRender(holder, rec, tr, st);
+      return;
+    }
+    status.textContent = "The run failed: " + (st.error || "unknown") + (st.log_tail ? " — " + st.log_tail.split("\n").slice(-1)[0] : "");
+    const btn = holder.querySelector("#darvas-run"); if (btn) btn.disabled = false;
+  };
+  tick();
+}
+const fmtElapsedD = s => s < 60 ? `${s}s` : `${Math.floor(s / 60)}m ${String(s % 60).padStart(2, "0")}s`;

@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import csv
 import datetime as dt
+import json
 import shutil
 import sys
 from pathlib import Path
@@ -38,6 +39,8 @@ INDIA = HERE.parent.parent.parent
 OUT_DIR = INDIA / "Analysis" / "NiftyTotalMarketAnalysis" / "DarvasAnalysis"
 REPORT = OUT_DIR / "DARVAS_REPORT.md"
 LEDGER = OUT_DIR / "_positions.csv"
+LATEST = OUT_DIR / "darvas_latest.json"      # the run, machine-readable
+HISTORY = OUT_DIR / "history"                # one folder per run date
 
 DEFAULT_TOP = 25
 
@@ -82,69 +85,129 @@ def detect_raised(old_stops: dict, ledger: list) -> list:
     return out
 
 
-def actions_section(dives: list, ledger: list, old_stops: dict) -> str:
-    """The report's closing section: the week in FOUR verbs — buy,
-    sell, raise stop, do nothing — so acting on the skill never needs
-    interpretation. WATCH is the radar, not an instruction: a genuine
-    in-box WATCH converts to BUY by ITSELF in a coming week if the
-    breakout arrives on qualifying volume; a downgraded WATCH is a
-    do-not-buy, and unbought old signals expire."""
+def actions_data(dives: list, ledger: list, old_stops: dict) -> dict:
+    """The week in FOUR verbs, as DATA — the single source both the
+    report's closing section and the UIs render from, so they can never
+    disagree. WATCH is the radar, not an instruction: a genuine in-box
+    WATCH converts to BUY by ITSELF in a coming week if the breakout
+    arrives on qualifying volume; a downgraded WATCH is a do-not-buy;
+    unbought old signals expire."""
     buys, radar, downs = [], [], []
     for d in dives:
         r = d["rec"]
         if r["action"] in ("BUY", "ACCUMULATE"):
-            risk = ""
+            risk = None
             if r.get("last_close") and r.get("stop_loss"):
-                pct = (r["stop_loss"] - r["last_close"]) / r["last_close"] * 100
-                risk = f" (risk {pct:+.1f}% from the last close"
-                risk += " — WIDE; consider a half slice or waiting for "\
-                        "the next box)" if pct < -25 else ")"
-            buys.append(f"| **{r['symbol']}** | buy at next open | "
-                        f"₹{r.get('stop_loss', 0):,.2f}{risk} |")
+                risk = round((r["stop_loss"] - r["last_close"])
+                             / r["last_close"] * 100, 1)
+            buys.append({"symbol": r["symbol"], "action": r["action"],
+                         "entry": "buy at next open",
+                         "stop_loss": r.get("stop_loss"),
+                         "last_close": r.get("last_close"),
+                         "risk_pct": risk,
+                         "wide": risk is not None and risk < -25})
         elif r.get("downgraded"):
-            downs.append(r["symbol"])
-        elif r.get("buy_above"):
-            radar.append(f"{r['symbol']} (turns into BUY on a daily "
-                         f"close above ₹{r['buy_above']:,.2f})")
+            downs.append({"symbol": r["symbol"],
+                          "why": "downgraded (falling earnings power): "
+                                 "never a buy"})
         else:
-            radar.append(r["symbol"])
-    sells = [row["symbol"] for row in ledger
+            radar.append({"symbol": r["symbol"],
+                          "buy_above": r.get("buy_above")})
+    sells = [{"symbol": row["symbol"]} for row in ledger
              if row.get("action") == "SELL"]
-    raised = detect_raised(old_stops, ledger)
+    raises = [{"symbol": s, "old": o, "new": n}
+              for s, o, n in detect_raised(old_stops, ledger)]
+    return {"buys": buys, "raises": raises, "sells": sells,
+            "radar": radar, "downgraded": downs}
 
+
+def render_actions(a: dict) -> str:
     A = ["", "---", "", "## Today's actions — plain and simple", ""]
-    if buys:
+    if a["buys"]:
         A += ["**BUY** (place the stop as a GTT order right after the "
               "fill; one equal slice each — a tenth of capital):", "",
               "| Stock | Entry | Stop loss |", "|---|---|---:|"]
-        A += buys + [""]
+        for b in a["buys"]:
+            risk = ""
+            if b["risk_pct"] is not None:
+                risk = f" (risk {b['risk_pct']:+.1f}% from the last close"
+                risk += (" — WIDE; consider a half slice or waiting for "
+                         "the next box)" if b["wide"] else ")")
+            A.append(f"| **{b['symbol']}** | {b['entry']} | "
+                     f"₹{b['stop_loss'] or 0:,.2f}{risk} |")
+        A.append("")
     else:
         A += ["**BUY:** nothing today.", ""]
-    if raised:
+    if a["raises"]:
         A += ["**RAISE STOP LOSS** (replace the standing GTT — stops "
               "only ever move up):", ""]
-        A += [f"- {s}: ₹{o:,.2f} → **₹{n:,.2f}**" for s, o, n in raised]
-        A += [""]
+        A += [f"- {r['symbol']}: ₹{r['old']:,.2f} → **₹{r['new']:,.2f}**"
+              for r in a["raises"]] + [""]
     else:
         A += ["**RAISE STOP LOSS:** none this run.", ""]
-    if sells:
+    if a["sells"]:
         A += ["**SELL** (closed below its box bottom — the red flag; "
               "applies only if you hold it):", ""]
-        A += [f"- {s}" for s in sells] + [""]
+        A += [f"- {s['symbol']}" for s in a["sells"]] + [""]
     else:
         A += ["**SELL:** nothing flagged.", ""]
     A += ["**NOTHING TO DO** — the radar (the skill converts these to "
           "BUY by itself in a coming week if the break comes; unbought "
           "old signals expire):", ""]
-    if radar:
-        A += [f"- {x}" for x in radar]
-    if downs:
-        A += [f"- {s} — downgraded (falling earnings power): never a buy"
-              for s in downs]
-    if not radar and not downs:
+    for x in a["radar"]:
+        A.append(f"- {x['symbol']} (turns into BUY on a daily close "
+                 f"above ₹{x['buy_above']:,.2f})" if x.get("buy_above")
+                 else f"- {x['symbol']}")
+    for x in a["downgraded"]:
+        A.append(f"- {x['symbol']} — {x['why']}")
+    if not a["radar"] and not a["downgraded"]:
         A += ["- (empty)"]
     A += [""]
     return "\n".join(A)
+
+
+def actions_section(dives: list, ledger: list, old_stops: dict) -> str:
+    return render_actions(actions_data(dives, ledger, old_stops))
+
+
+def recommendation_rows(dives: list) -> list[dict]:
+    """The recommendations table, as data — one row per deep dive, the
+    same fields the Markdown table prints."""
+    rows = []
+    for d in dives:
+        r, p, c = d["rec"], d["power"], d["calls"]
+        mt = d["mtrend"]["verdict"]
+        if d["mtrend"].get("rising_months", 0) >= 2:
+            mt += f" ({d['mtrend']['rising_months']} mo)"
+        rows.append({
+            "symbol": r["symbol"], "action": r["action"],
+            "downgraded": bool(r.get("downgraded")),
+            "box_bottom": r.get("box_bottom"), "box_top": r.get("box_top"),
+            "box_range_pct": r.get("box_range_pct"),
+            "stop_loss": (None if r["action"] == "SELL"
+                          else r.get("stop_loss")),
+            "buy_above": r.get("buy_above"),
+            "last_close": r.get("last_close"),
+            "volume_trend": mt, "earnings_power": p["verdict"],
+            "new_age": c.get("new_age", "—"),
+            "volume_multiple": d["signal"].get("volume_multiple"),
+            "why": r.get("why", "")})
+    return rows
+
+
+def run_record(dives: list, meta: dict, actions: dict, ledger: list,
+               quick: bool) -> dict:
+    """Everything a UI needs to show EXACTLY what the report shows."""
+    return {"run_date": meta["run_date"], "fetched_at": meta["fetched_at"],
+            "trigger_week": meta["trigger_week"],
+            "scanned": meta["scanned"], "fetch_ok": meta["fetch_ok"],
+            "fetch_failed": meta["fetch_failed"],
+            "weekly_qualifiers": meta.get("weekly_qualifiers"),
+            "fully_qualified": meta.get("fully_qualified"),
+            "ai_used": not quick and _ai_available(),
+            "recommendations": recommendation_rows(dives),
+            "actions": actions,
+            "ledger": [dict(row) for row in ledger]}
 
 
 # --------------------------------------------------------------- rendering
@@ -442,10 +505,21 @@ def cmd_run(args) -> None:
         "ledger": ledger,
         "gated": gated,
     }
-    md = render_report(scan, dives, meta)
-    md += actions_section(dives, ledger, old_stops)
+    meta["weekly_qualifiers"] = sum(1 for s in scan if s["qualifies"])
+    meta["fully_qualified"] = len(gated)
+    actions = actions_data(dives, ledger, old_stops)
+    md = render_report(scan, dives, meta) + render_actions(actions)
     REPORT.write_text(md)
-    print(f"wrote {REPORT} ({len(md.splitlines())} lines)")
+    record = run_record(dives, meta, actions, ledger, args.quick)
+    LATEST.write_text(json.dumps(record, indent=1, default=str))
+    snap = HISTORY / meta["run_date"]
+    snap.mkdir(parents=True, exist_ok=True)
+    (snap / "DARVAS_REPORT.md").write_text(md)
+    (snap / "run.json").write_text(json.dumps(record, indent=1,
+                                              default=str))
+    shutil.copy(LEDGER, snap / "_positions.csv")
+    print(f"wrote {REPORT} ({len(md.splitlines())} lines); "
+          f"{LATEST.name}; history/{meta['run_date']}/")
 
 
 def main():

@@ -269,3 +269,11 @@ details.mdsec.lvl4 { border-style: dashed; }
   flex: 1 1 220px; min-width: 0; }
 .sum-note.pos-t { color: var(--series-1); }
 .sum-note.neg-t { color: var(--neg); }
+
+/* ---- Darvas weekly screen: the four verbs ---- */
+.verb { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 12px; font-weight: 700; letter-spacing: .02em; }
+.verb.buy { background: #e6f7ec; color: #137333; }
+.verb.sell { background: #fde8e8; color: #b3261e; }
+.verb.raise { background: #e8f0fe; color: #1a56db; }
+.verb.watch { background: #f1f3f4; color: #5f6368; }
+.darvas-status { min-height: 1.4em; }

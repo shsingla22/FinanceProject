@@ -120,3 +120,18 @@ Local machine: same two commands after `pip install -r requirements.txt`
 - Subscription AI calls share your Claude Code usage limits — fine for
   interactive use; don't batch-run all 742.
 - Research tooling over screener.in-derived data; not investment advice.
+
+## The Darvas weekly screen (new section)
+
+The **📦 Darvas weekly screen** chip (or typing "darvas") opens the box-method
+screen built by `Skills/DarvasSkill`: the week in four verbs — BUY (entry and
+stop), RAISE STOP LOSS (old → new), SELL, and the radar — the recommendations
+table, and a run-by-run trace of the last month (every buy, stop raise, sell
+and first radar appearance). The page renders the **same machine-readable
+record** (`DarvasAnalysis/darvas_latest.json`) the Markdown report was
+written from, and the report downloads as exact bytes, so page and file can
+never disagree — `test_darvas_ui.py` asserts it. **▶ Run this week's screen
+now** starts the real engine on the server (the monthly constituents check, a
+fresh price fetch, the three gates, boxes and stops) and the page polls its
+status until the new recommendations load; run it Saturday morning for the
+Friday close. This UI runs the engine in full: the conference-call new-age read uses the judge model when the Claude CLI is available (everything else needs no AI).
