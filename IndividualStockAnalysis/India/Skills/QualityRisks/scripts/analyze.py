@@ -45,16 +45,34 @@ JUDGE_MODEL = os.environ.get("RISK_JUDGE_MODEL", "opus")
 
 
 # ------------------------------------------------------------- qualitative
-def _concall_text(sym: str) -> str:
-    pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
-    if not pdf.exists():
-        return ""
+def _transcript_path(sym: str):
+    """The evidence document for a symbol. ONE seam: a source override
+    (a user-supplied PDF or Markdown file) repoints this function, and
+    everything downstream — text, existence gates, cache stamps — follows."""
+    return INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
+
+
+def _read_doc(path) -> str:
+    """Text of an evidence document: PDF via PyPDF2, anything else
+    (Markdown, plain text) read as-is."""
+    if path.suffix.lower() != ".pdf":
+        try:
+            return path.read_text(encoding="utf-8", errors="replace")
+        except Exception:
+            return ""
     import PyPDF2
     try:
-        reader = PyPDF2.PdfReader(str(pdf), strict=False)
+        reader = PyPDF2.PdfReader(str(path), strict=False)
         return "\n".join((p.extract_text() or "") for p in reader.pages)
     except Exception:
         return ""
+
+
+def _concall_text(sym: str) -> str:
+    pdf = _transcript_path(sym)
+    if not pdf.exists():
+        return ""
+    return _read_doc(pdf)
 
 
 def _timeline_excerpt(sym: str, budget: int = 90000) -> tuple[str, int, str]:
@@ -142,7 +160,7 @@ def qual_judge(sym: str, tax: dict, use_cache: bool = True,
                allow_ai: bool = True) -> dict | None:
     """Per-risk qualitative exposure via headless Claude (subscription).
     Cached on disk keyed by transcript mtime + model. No timeout."""
-    pdf = INDIA / "ConferenceCalls" / UNIVERSE / f"{sym.replace('&', '_AND_')}.pdf"
+    pdf = _transcript_path(sym)
     if not pdf.exists():
         return None
     stamp = f"{_pdf_content_stamp(pdf)}:v1:{JUDGE_MODEL}"

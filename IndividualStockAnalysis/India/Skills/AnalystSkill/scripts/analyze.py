@@ -48,13 +48,27 @@ def run_all(sym: str, ai: bool) -> dict:
             "statuses": {"business": s1, "patterns": s2, "risks": s3}}
 
 
+def _maybe_activate_source(args):
+    """--source DOC points every qualitative read at a supplied PDF /
+    Markdown / text file instead of the concall archive; --name labels a
+    company that is not in the universe. See source_override.py."""
+    if getattr(args, "source", None):
+        import source_override as SO
+        d = SO.activate(args.source, name=getattr(args, "name", None))
+        print(f"Evidence source: {d['name']} ({d['kind']}, "
+              f"{d['chars']:,} chars, md5 {d['hash'][:12]}…) — the "
+              f"conference-call archive will NOT be used.", file=sys.stderr)
+
+
 def cmd_company(args):
+    _maybe_activate_source(args)
     ai = _ai_available() and not args.quick
     out = run_all(args.symbol, ai)
     print(json.dumps(out, indent=2, default=str))
 
 
 def cmd_report(args):
+    _maybe_activate_source(args)
     ai = _ai_available() and not args.quick
     if ai:
         print(f"Running all three skills over {args.symbol} "
@@ -62,6 +76,9 @@ def cmd_report(args):
               f"minutes)…", file=sys.stderr)
     out = run_all(args.symbol, ai)
     md = compose_md(args.symbol, out, ai)
+    if getattr(args, "source", None):
+        import source_override as SO
+        md = SO.annotate_md(md)
     Path(args.out).write_text(md)
     print(f"wrote {args.out} ({len(md.splitlines())} lines)")
 
@@ -116,10 +133,18 @@ def main():
     c = sub.add_parser("company")
     c.add_argument("symbol")
     c.add_argument("--quick", action="store_true")
+    c.add_argument("--source", help="analyse over THIS document (.pdf/.md/"
+                   ".txt) instead of the concall archive")
+    c.add_argument("--name", help="display name for a company that is not "
+                   "in the universe (used with --source)")
     r = sub.add_parser("report")
     r.add_argument("symbol")
     r.add_argument("out")
     r.add_argument("--quick", action="store_true")
+    r.add_argument("--source", help="analyse over THIS document (.pdf/.md/"
+                   ".txt) instead of the concall archive")
+    r.add_argument("--name", help="display name for a company that is not "
+                   "in the universe (used with --source)")
     b = sub.add_parser("batch")
     b.add_argument("symbols", nargs="+")
     b.add_argument("--out-dir", required=True)
