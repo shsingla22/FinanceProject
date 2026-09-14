@@ -75,6 +75,50 @@ The top 6 fully-qualified go on to the earnings and box steps below.
 | SARDAEN | **WATCH** | 503.1–542.5 | 7.8% | ₹477.99 | STEPPED UP | RISING | no |
 | SAILIFE | **BUY** | 1,409.0–1,475.0 | 4.7% | ₹1,338.55 | SPIKE ONLY | RISING | yes |
 
+## The buy sheet — for a fresh start on Tuesday 15 September 2026
+
+*For a buyer holding NOTHING today. Prices reference Friday 11 Sep's
+close (Yahoo serves NSE end-of-day only); Tuesday's opening fills
+will differ, which widens the risk percentages — the STOP LEVELS
+themselves are structural (box bottom − max(0.3×height, 5% of
+bottom)) and move only when a new box seals. Place every stop as a
+GTT order immediately after the fill. Equal slices: at most a tenth
+of capital per name; this sheet uses at most 4 slices — the rest
+stays in cash for future Fridays.*
+
+### Buy at Tuesday's open (state BREAKOUT)
+
+| Stock | Entry | Stop loss | Risk from Fri close | Why |
+|---|---|---:|---:|---|
+| **SAILIFE** | at open | ₹1,338.55 | −15.5% (from ₹1,585.00) | 2.01× volume, RISING earnings, new-age YES, tight 4.7% box — every column agrees |
+| **GMMPFAUDLR** | at open — see caveat | ₹931.95 | **−28.7%** (from ₹1,307.90) | 2.21× volume, BUILDING months, entering new-age — but it has run 21% past its last sealed box, so the stop is far away. Prudent variants: a half slice, or wait for a new box to seal and enter on the ratchet |
+
+### Buy ONLY on a daily CLOSE above the box top (genuine in-box WATCH)
+
+| Stock | Buy trigger (daily close above) | Then stop | Risk from trigger |
+|---|---:|---:|---:|
+| **PVRINOX** | ₹1,284.50 | ₹1,132.78 | −11.8% |
+| **SARDAEN** | ₹542.50 | ₹477.99 | −11.9% |
+
+### Not buys, despite trading above their box tops
+
+- **GRAPHITE** and **HERITGFOOD** — their WATCH is a DOWNGRADE for
+  FALLING earnings power, never an entry instruction. Volume without
+  earnings is the half of Darvas this skill refuses.
+
+### The carried ledger names (ELLEN, PINELABS, BLACKBUCK, GRANULES, DBL…) — not today
+
+Those were the 12 September signals. Unbought signals EXPIRE: today
+ELLEN and PINELABS fire the volume trigger but FAIL the rising-ladder
+gate (midpoints 280→331→323 and 178→203→160 — the last step down),
+BLACKBUCK and GRANULES fail the month-vs-year gate — and all sit far
+past their entry points with distant stops (PINELABS ₹202.17 against
+a ₹119.67 stop is 41% of risk; ELLEN ₹380.20 vs ₹299.64 is 21%).
+If they deserve owning again, a coming Friday will re-qualify them
+at a proper entry. Chasing an old signal is how SUPRIYA was bought
+44% above its box in backtesting — the rule exists because it was
+paid for.
+
 ## GRAPHITE — WATCH
 
 **Why:** closed above its box top on trigger volume — reaching for the higher box; buy the break; DOWNGRADED to WATCH — the latest statements show falling earnings power, and Darvas required rising earnings under the volume.
