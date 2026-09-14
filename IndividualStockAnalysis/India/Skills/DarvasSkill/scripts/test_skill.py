@@ -1136,3 +1136,29 @@ def test_membership_gates_fresh_entries_but_never_held_positions():
         "B was never a member — its signal must never trade"
     assert [b["symbol"] for b in res["book"]] == ["A"], \
         "A left the radar but the HELD position stays managed"
+
+
+def test_share_count_walks_back_through_splits_to_the_anchor():
+    # anchored at 1,000 shares in Feb 2024; a 1:5 split in Oct 2022
+    # means Sep-2022 had 200 shares; after the split (and before the
+    # anchor) the count is already 1,000
+    events = [("2022-10-28", 5.0)]
+    assert PIT.shares_before(1000, events, "2022-09-30",
+                             "2024-02-29") == pytest.approx(200.0)
+    assert PIT.shares_before(1000, events, "2022-11-30",
+                             "2024-02-29") == pytest.approx(1000.0)
+    # an event AFTER the anchor never touches pre-anchor months
+    events = [("2025-01-10", 2.0)]
+    assert PIT.shares_before(1000, events, "2022-09-30",
+                             "2024-02-29") == pytest.approx(1000.0)
+
+
+def test_earliest_official_file_anchors_each_symbol(tmp_path):
+    (tmp_path / "2024-02.csv").write_text(
+        "symbol,issue_size,close,mcap\nAAA,100,10,1000\n")
+    (tmp_path / "2024-03.csv").write_text(
+        "symbol,issue_size,close,mcap\nAAA,500,2,1000\nNEWKID,50,4,200\n")
+    anchors, official = PIT.load_share_anchors(tmp_path)
+    assert anchors["AAA"] == ("2024-02", 100)      # earliest wins
+    assert anchors["NEWKID"] == ("2024-03", 50)    # listed later
+    assert official["2024-03"]["NEWKID"] == 200.0

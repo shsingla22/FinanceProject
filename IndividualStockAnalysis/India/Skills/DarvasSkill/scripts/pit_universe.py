@@ -333,6 +333,115 @@ def eligible_month(first_day: str,
     return m if e.day == 1 else next_month(m)
 
 
+# ---------------------- market-cap ranking (index-faithful universe)
+
+def load_share_anchors(mcap_dir: Path):
+    """NSE's official month-end market-cap files (in the daily PR
+    bundle since Feb 2024). Returns (anchors, official):
+      anchors[sym]  = (earliest month containing sym, issue_size then)
+      official[m]   = {sym: market cap} straight from that month's file
+    """
+    anchors: dict[str, tuple[str, int]] = {}
+    official: dict[str, dict[str, float]] = {}
+    for p in sorted(mcap_dir.glob("*.csv")):
+        m = p.stem
+        official[m] = {}
+        for r in csv.DictReader(open(p)):
+            s = r["symbol"]
+            official[m][s] = float(r["mcap"])
+            if s not in anchors:
+                anchors[s] = (m, int(r["issue_size"]))
+    return anchors, official
+
+
+def shares_before(anchor_shares: int, events: list[tuple[str, float]],
+                  month_last_day: str, anchor_day: str) -> float:
+    """Share count at an earlier month-end: the anchor count divided
+    by every split/bonus ratio dated AFTER that month-end and on or
+    before the anchor — a 1:5 split multiplied shares by 5, so before
+    it there were a fifth as many."""
+    sh = float(anchor_shares)
+    for d, r in events:
+        if month_last_day < d <= anchor_day:
+            sh /= r
+    return sh
+
+
+def month_mcap_ranks(dest: Path, months: list[str],
+                     mcap_dir: Path, bars_start: str) -> dict:
+    """month -> {symbol: rank}, rank 1 = the LARGEST market cap.
+
+    From Feb 2024 the rank comes straight from NSE's official file.
+    Earlier months are RECONSTRUCTED point-in-time: each company's
+    share count is anchored at its earliest official Issue Size and
+    walked backwards through the detected splits/bonuses, then
+    multiplied by that month-end's actual close. Companies that
+    delisted before any anchor exists keep their monthly TURNOVER
+    rank as a disclosed fallback — casualties stay in the universe,
+    never fabricated, never dropped."""
+    anchors, official = load_share_anchors(mcap_dir)
+    anchor_files = sorted(official)
+    pre_months = [m for m in months if m not in official]
+    post_months = [m for m in months if m in official]
+    ranks: dict[str, dict[str, int]] = {}
+    for m in post_months:
+        ordered = sorted(official[m], key=official[m].get, reverse=True)
+        ranks[m] = {s: i for i, s in enumerate(ordered, 1)}
+    if not pre_months:
+        return ranks
+
+    # one pass over the store: per-symbol daily series through the
+    # last anchor month (adjustment detection needs the whole path)
+    anchor_day_of = {}
+    day_files = sorted(p_.stem for p_ in dest.glob("*.csv"))
+    last_day = {}
+    for d in day_files:
+        last_day[d[:7]] = d
+    stop_month = max(anchors[s][0] for s in anchors) if anchors else "0"
+    series: dict[str, list] = {}
+    for d in day_files:
+        if d < bars_start or d[:7] > stop_month:
+            continue
+        for r in csv.DictReader(open(dest / f"{d}.csv")):
+            series.setdefault(r["symbol"], []).append(
+                (d, float(r["open"]) if r["open"] else None,
+                 float(r["close"]), int(r["volume"])))
+
+    fallback = month_turnover_ranks(dest, pre_months)
+    close_idx: dict[str, dict[str, float]] = {}
+    events_of: dict[str, list] = {}
+    for s, (am, _) in anchors.items():
+        rows = series.get(s)
+        if not rows:
+            continue
+        anchor_day_of[s] = last_day.get(am, am + "-31")
+        bars = [{"date": d, "open": o, "high": None, "low": None,
+                 "close": c, "volume": v} for d, o, c, v in rows]
+        events_of[s] = [(e["date"], e["ratio"])
+                        for e in _detect_adjustments(bars)]
+        close_idx[s] = {}
+        for d, _, c, _ in rows:
+            close_idx[s][d[:7]] = c          # last write wins = month end
+
+    for m in pre_months:
+        mday = last_day.get(m, m + "-31")
+        mcap = {}
+        for s, (am, ish) in anchors.items():
+            c = close_idx.get(s, {}).get(m)
+            if c is None:
+                continue
+            sh = shares_before(ish, events_of.get(s, []), mday,
+                               anchor_day_of.get(s, am + "-31"))
+            mcap[s] = c * sh
+        ordered = sorted(mcap, key=mcap.get, reverse=True)
+        rk = {s: i for i, s in enumerate(ordered, 1)}
+        for s, r in fallback.get(m, {}).items():
+            if s not in anchors:             # died before any anchor —
+                rk.setdefault(s, r)          # turnover rank, disclosed
+        ranks[m] = rk
+    return ranks
+
+
 def month_turnover_ranks(dest: Path, months: list[str]) -> dict:
     """month -> {symbol: rank} from that month's bhavcopies, rank 1 =
     the month's highest total traded value."""
@@ -409,7 +518,14 @@ def cmd_build(args) -> None:
             m = next_month(m)
         print(f"ranking {len(months)} months of turnover…",
               file=sys.stderr)
-        ranks = month_turnover_ranks(dest, months)
+        if args.rank == "mcap":
+            print("ranking by point-in-time MARKET CAP (official from "
+                  "Feb 2024; reconstructed via anchored share counts "
+                  "before)…", file=sys.stderr)
+            ranks = month_mcap_ranks(dest, months, Path(args.mcap_dir),
+                                     args.start)
+        else:
+            ranks = month_turnover_ranks(dest, months)
         print("scanning listing dates for the IPO seasoning gate…",
               file=sys.stderr)
         first = first_seen_dates(dest)
@@ -530,6 +646,12 @@ def main() -> None:
                    "top N by the trailing month's turnover, exit past "
                    "--exit-rank, no lookahead")
     b.add_argument("--exit-rank", type=int, default=EXIT_RANK)
+    b.add_argument("--rank", choices=("turnover", "mcap"),
+                   default="mcap", help="membership ranking basis — "
+                   "mcap aligns with the NiftyTotalMarket index")
+    b.add_argument("--mcap-dir", default=None,
+                   help="folder of month-end official mcap CSVs "
+                   "(symbol,issue_size,close,mcap)")
     b.add_argument("--top", type=int, default=750)
     b.add_argument("--start", required=True)
     b.add_argument("--end", required=True)
