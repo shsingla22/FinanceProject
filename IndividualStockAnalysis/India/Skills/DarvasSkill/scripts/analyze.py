@@ -299,6 +299,19 @@ def render_report(scan, dives, meta) -> str:
 
 def cmd_run(args) -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    # the universe first: the stored NiftyTotalMarket list is checked
+    # against NSE Indices' OFFICIAL current list at most once a month,
+    # and rewritten only when membership really changed — a failed
+    # pull warns and the stored list stands, never blocking the screen
+    import refresh_constituents as RC
+    r = RC.refresh()
+    if r.get("changed"):
+        print(f"universe refreshed: {r['count']} members — added "
+              f"{', '.join(r['added']) or '—'}; removed "
+              f"{', '.join(r['removed']) or '—'}", file=sys.stderr)
+    else:
+        print(f"universe: {r.get('note', 'unchanged this month')}",
+              file=sys.stderr)
     if args.no_fetch and (FD.OUT_DIR / "_all_weekly_long.csv").exists():
         print("using the stored fetch (--no-fetch)", file=sys.stderr)
     else:

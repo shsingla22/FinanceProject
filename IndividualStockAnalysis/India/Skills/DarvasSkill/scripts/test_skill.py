@@ -1162,3 +1162,42 @@ def test_earliest_official_file_anchors_each_symbol(tmp_path):
     assert anchors["AAA"] == ("2024-02", 100)      # earliest wins
     assert anchors["NEWKID"] == ("2024-03", 50)    # listed later
     assert official["2024-03"]["NEWKID"] == 200.0
+
+
+# ------------------- the live universe, refreshed monthly
+
+import refresh_constituents as RC   # noqa: E402
+
+
+def test_official_list_parses_into_the_stored_schema():
+    text = ("Company Name,Industry,Symbol,Series,ISIN Code\n"
+            "Zeta Ltd.,IT,ZETA,EQ,INE000Z\n"
+            "Alpha Ltd.,Autos,ALPHA,EQ,INE000A\n")
+    rows = RC.parse_official(text)
+    assert [r["nse_symbol"] for r in rows] == ["ALPHA", "ZETA"]
+    assert rows[0] == {"nse_symbol": "ALPHA", "company_name": "Alpha Ltd.",
+                       "industry": "Autos", "series": "EQ",
+                       "isin": "INE000A"}
+
+
+def test_membership_diff_reports_exact_adds_and_removes():
+    stored = [{"nse_symbol": s} for s in ("AAA", "BBB", "CCC")]
+    official = [{"nse_symbol": s} for s in ("BBB", "CCC", "DDD")]
+    d = RC.diff_membership(stored, official)
+    assert d == {"added": ["DDD"], "removed": ["AAA"], "changed": True}
+    same = RC.diff_membership(stored, stored)
+    assert same["changed"] is False and not same["added"]
+
+
+def test_refresh_respects_the_monthly_stamp(tmp_path, monkeypatch):
+    monkeypatch.setattr(RC, "STAMP", tmp_path / "stamp.txt")
+    RC.STAMP.write_text(dt.date.today().isoformat())
+    r = RC.refresh()
+    assert r["checked"] is False and "within the last month" in r["note"]
+
+
+def test_nse_dummy_placeholder_rows_are_never_stocks():
+    text = ("Company Name,Industry,Symbol,Series,ISIN Code\n"
+            "Real Ltd.,IT,REAL,EQ,INE1\n"
+            "Dummy HEG,IT,DUMMYHEG,EQ,INE2\n")
+    assert [r["nse_symbol"] for r in RC.parse_official(text)] == ["REAL"]
