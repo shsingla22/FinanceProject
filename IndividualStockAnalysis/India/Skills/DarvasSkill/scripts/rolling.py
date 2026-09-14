@@ -232,6 +232,12 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     pocket_used = 0.0
     pyr_spend = 0.0
     starve: dict[str, int] = {}  # times a qualified signal went unfunded
+    units = capital              # unit-value sizing (funded mode): a
+                                 # slice is a tenth of the ORIGINAL
+                                 # capital grown by the portfolio's own
+                                 # performance (NAV = equity/units) —
+                                 # added capital mints MORE units, it
+                                 # never inflates the slice itself
     pfr = FR.AngelOneFrictions() if (frictions and pyramid) else None
     blotter: list[tuple] = []
     equity_curve: list[dict] = []
@@ -443,14 +449,17 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             cur_slice = slice_size * (eq / capital)
             if funded:
                 # never starved: cash first, fresh capital tops up the
-                # shortfall — logged for the money-weighted IRR
-                fresh = max(0.0, cur_slice - cash)
+                # shortfall — logged for the money-weighted IRR. The
+                # slice is NAV-based, so top-ups can never balloon it.
+                nonlocal_nav = eq / units
+                amt = slice_size * nonlocal_nav
+                fresh = max(0.0, amt - cash)
                 note = f"fresh Friday signal — {sig['note']}"
                 if fresh > 1e-9:
                     injections.append((d, fresh))
+                    units += fresh / nonlocal_nav
                     cash += fresh
                     note += f"; {inr(fresh)} fresh capital added"
-                amt = cur_slice
             else:
                 plan = plan_deployment(cash, cur_slice, 1)
                 if not plan:

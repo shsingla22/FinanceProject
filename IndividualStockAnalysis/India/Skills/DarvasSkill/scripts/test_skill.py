@@ -1540,3 +1540,30 @@ def test_a_box_advance_resets_the_dead_money_clock():
     sold = dt.date.fromisoformat(sells[0][0])
     assert sold >= last_raise + dt.timedelta(days=183), \
         "the clock must restart at the last box advance"
+
+
+def test_funded_slices_never_balloon_with_added_capital():
+    # flat prices, a new signal every week: under unit-value sizing
+    # every slice is EXACTLY capital/slots forever — added capital
+    # buys more slices, never bigger ones (the ₹10^68 bug, pinned)
+    world = {s: _roll_bars(s, [50.0] * 25) for s in ("A", "B", "C", "D")}
+    fridays = {s: (dt.date(2026, 1, 2)
+                   + dt.timedelta(days=7 * i)).isoformat()
+               for i, s in enumerate(("A", "B", "C", "D"))}
+
+    def stub(bars_upto, day):
+        sym = bars_upto[-1]["symbol"]
+        if day.isoformat() == fridays[sym]:
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling(world, [], "2026-01-02", world["A"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=2,
+                         funded=True)
+    buys = [b for b in res["blotter"] if "BUY ₹" in b[2]]
+    assert len(buys) == 4
+    assert all("BUY ₹50.00 at" in b[2] for b in buys), buys
+    # first two from the ₹100; the next two fully fresh
+    assert res["total_injected"] == pytest.approx(100.0)
+    assert res["final_equity"] == pytest.approx(200.0)
