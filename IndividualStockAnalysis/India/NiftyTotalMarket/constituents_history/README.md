@@ -1,0 +1,1 @@
+Official NiftyTotalMarket monthly constituent lists go here as <YYYY-MM>.csv with an nse_symbol column. When a month's file exists the rolling radar uses it verbatim (minus ETFs); otherwise the NSE-bhavcopy turnover proxy applies. No public archive of historical membership exists (the index launched Oct 2021), so this folder starts empty.

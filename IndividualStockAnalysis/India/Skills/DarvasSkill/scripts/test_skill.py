@@ -1419,32 +1419,36 @@ def test_funded_mode_tops_up_only_the_shortfall_and_logs_it():
     assert all(w["cash"] >= -1e-9 for w in res["equity_curve"])
 
 
-def test_funded_mode_screens_even_when_the_book_is_full():
-    # slots=1 and the slot is taken: the old engine went BLIND on such
-    # weeks; funded mode still screens, logs the signal and raises the
-    # symbol's priority for the next free slot
-    world = {"A": _roll_bars("A", [50.0] * 20),
-             "B": _roll_bars("B", [50.0] * 20)}
+def test_funded_mode_never_starves_any_qualified_signal():
+    # even with the book already holding as many names as `slots`,
+    # a new qualified signal is FUNDED with fresh capital — slots is
+    # a slice-size denominator, never a position cap
+    world = {s: _roll_bars(s, [50.0] * 20) for s in ("A", "B", "C")}
 
     def stub(bars_upto, day):
         sym = bars_upto[-1]["symbol"]
         di = day.isoformat()
-        if sym == "A" and di == "2026-01-02":
+        if di == "2026-01-02" and sym in ("A", "B"):
             return {"action": "BUY", "stop": 45.0,
                     "volume_multiple": 2.0, "month_multiple": 2.0}
-        if sym == "B" and di == "2026-01-09":
+        if di == "2026-01-09" and sym == "C":
             return {"action": "BUY", "stop": 45.0,
                     "volume_multiple": 2.0, "month_multiple": 2.0}
         return None
 
     res = RL.run_rolling(world, [], "2026-01-02", world["A"][-1]["date"],
-                         100.0, lambda s, d: True, screen=stub, slots=1,
+                         100.0, lambda s, d: True, screen=stub, slots=2,
                          funded=True)
-    full = [b for b in res["blotter"]
-            if b[1] == "B" and "no free slot" in b[2]]
-    assert full and "funding priority now 1" in full[0][2]
-    assert not [b for b in res["blotter"]
-                if b[1] == "B" and "BUY ₹" in b[2]]
+    # all three funded — the third with a top-up, holding 3 > slots
+    for s in ("A", "B", "C"):
+        assert [b for b in res["blotter"]
+                if b[1] == s and "BUY ₹" in b[2]], s
+    assert len(res["book"]) == 3
+    assert not [b for b in res["blotter"] if "NOT FUNDED" in b[2]]
+    assert not [b for b in res["blotter"] if "SKIPPED" in b[2]]
+    c_buy = [b for b in res["blotter"]
+             if b[1] == "C" and "BUY ₹" in b[2]][0]
+    assert "fresh capital added" in c_buy[2]
 
 
 def test_a_stop_more_than_25pct_away_is_refused_outright():
@@ -1466,3 +1470,73 @@ def test_a_stop_more_than_25pct_away_is_refused_outright():
     assert len(refused) == 1 and "beyond the 25% cap" in refused[0][2]
     assert "40.0% below" in refused[0][2]
     assert [b for b in res["blotter"] if b[1] == "NEAR" and "BUY ₹" in b[2]]
+
+
+# ---------------- stocks only, official lists first, dead-money exit
+
+def test_etf_classifier_knows_funds_from_lookalike_companies():
+    for fund in ("GOLDBEES", "SETFGOLD", "LIQUID1", "LIQUIDBEES",
+                 "ICICIB22", "CPSEETF", "EBBETF0433", "SILVERIETF",
+                 "HDFCMFGETF", "NIFTYBEES", "MAFANG", "AXISGOLD"):
+        assert PIT.is_etf(fund), fund
+    for company in ("RELIANCE", "SKYGOLD", "GOLDIAM", "DECNGOLD",
+                    "SILVERTUC", "ALPHAGEO", "TDPOWERSYS"):
+        assert not PIT.is_etf(company), company
+
+
+def test_official_constituents_win_over_the_proxy(tmp_path, monkeypatch):
+    monkeypatch.setattr(PIT, "OFFICIAL_DIR", tmp_path)
+    (tmp_path / "2020-02.csv").write_text(
+        "nse_symbol\nAAA\nBBB\nGOLDBEES\n")
+    ranks = {"2020-01": {"AAA": 1, "CCC": 2},
+             "2020-02": {"AAA": 1, "CCC": 2}}
+    m = PIT.rolling_membership(ranks, "2020-02", "2020-03",
+                               enter=2, exit_=3)
+    # February: the official list verbatim — minus the ETF
+    assert m["2020-02"]["members"] == {"AAA", "BBB"}
+    assert m["2020-02"]["source"] == "official"
+    # March: no official file — back to the proxy (CCC enters on
+    # rank; BBB, absent from February's ranks, drops out)
+    assert m["2020-03"]["source"] == "proxy"
+    assert m["2020-03"]["members"] == {"AAA", "CCC"}
+
+
+def test_etfs_never_enter_proxy_membership():
+    ranks = {"2020-01": {"GOLDBEES": 1, "AAA": 2}}
+    m = PIT.rolling_membership(ranks, "2020-02", "2020-02",
+                               enter=2, exit_=3)
+    assert m["2020-02"]["members"] == {"AAA"}
+
+
+def test_dead_money_is_sold_after_six_months_without_a_higher_box():
+    bars = _roll_bars("AAA", [50.0] * 140)      # flat forever
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 45.0}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=2)
+    sells = [b for b in res["blotter"] if "SELL" in b[2]]
+    assert len(sells) == 1 and "dead-money exit" in sells[0][2]
+    # sold on the first Friday at least 183 days after entry
+    sold = dt.date.fromisoformat(sells[0][0])
+    assert sold >= dt.date(2026, 1, 2) + dt.timedelta(days=183)
+    assert sold <= dt.date(2026, 1, 2) + dt.timedelta(days=195)
+    assert not res["book"]
+
+
+def test_a_box_advance_resets_the_dead_money_clock():
+    # two ratchets land in late January; the six-month clock must run
+    # from the LAST advance, not from entry
+    # the drift tail sits low in the box so any re-sealed box yields
+    # a LOWER stop — no further ratchet, the clock stays at January
+    bars = _box_bars(CLIMB_3_BOXES[:-10] + [(66, 61, 64)] * 165)
+    res = RL.run_rolling({"AAA": bars}, [{"symbol": "AAA", "stop": 47.5}],
+                         "2026-01-02", bars[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=2)
+    raises = [b for b in res["blotter"] if "RAISE STOP" in b[2]]
+    sells = [b for b in res["blotter"] if "dead-money exit" in b[2]]
+    assert raises and len(sells) == 1
+    last_raise = dt.date.fromisoformat(raises[-1][0])
+    sold = dt.date.fromisoformat(sells[0][0])
+    assert sold >= last_raise + dt.timedelta(days=183), \
+        "the clock must restart at the last box advance"

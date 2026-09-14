@@ -179,11 +179,73 @@ def _load_days(dest: Path, start: str, end: str) -> list[Path]:
                   if start <= p.stem <= end)
 
 
+# ----------------------------------------- ETFs and funds: not stocks
+
+# The skill picks STOCKS — an ETF has no earnings power, no conference
+# calls, and a liquid fund is cash wearing a costume. NSE lists ETFs in
+# the same EQ series as equities, so they are excluded by name:
+# conservative generic tokens plus an explicit roster, with an explicit
+# whitelist for real companies whose names merely look fund-like.
+FUND_TOKENS = ("ETF", "BEES", "LIQUID", "GILT", "GSEC", "NIFTY",
+               "SENSEX", "MOM50", "MOM100", "MON100", "MOM30",
+               "LOWVOL", "NV20", "QUAL30", "ALPHL", "EQUAL")
+FUND_EXACT = {
+    "ICICIB22", "MAFANG", "MASPTOP50", "MAHKTECH", "CPSEETF",
+    "GOLD1", "SILVER1", "EGOLD", "ESILVER", "GOLDCASE", "GOLDSHARE",
+    "QGOLDHALF", "GOLDADD", "SILVERADD", "AXISGOLD", "AXISILVER",
+    "GOLDAXIS", "HDFCGOLD", "HDFCSILVER", "ICICIGOLD", "ICICISILVE",
+    "KOTAKGOLD", "KOTAKSILVE", "SBIGOLD", "SBISILVER", "SETFGOLD",
+    "BSLGOLDETF", "IDBIGOLD", "TATAGOLD", "TATSILV", "GOLDIETF",
+    "SILVERIETF", "GOLDTECH", "UTIGOLDETF", "LIQUIDPLUS", "LIQUID1",
+    "LIQUIDCASE", "CASHIETF", "HDFCMFGETF", "ABSLBANETF", "AUTOBEES",
+    "BANKNIFTY1", "MID150", "TOP100", "MOGSEC", "LICNFNHGP",
+}
+NOT_FUNDS = {"SKYGOLD", "GOLDIAM", "DECNGOLD", "SILVERTUC", "MANAKSILV",
+             "SILVERLINE", "GOLDENTOBC", "ALPHAGEO", "GOLDKART"}
+
+
+def is_etf(symbol: str) -> bool:
+    """True for ETF/fund instruments that must never enter the buy
+    universe. Explicit whitelist beats every pattern."""
+    s = symbol.upper()
+    if s in NOT_FUNDS:
+        return False
+    if s in FUND_EXACT:
+        return True
+    if s.startswith("SETF") or s.startswith("EBBETF") \
+            or s.startswith("BBETF") or s.startswith("BBNPP"):
+        return True
+    return any(tok in s for tok in FUND_TOKENS)
+
+
 # ------------------------------------------- rolling membership (PIT)
 
 ENTER_RANK = 750             # a stock ENTERS the radar at this rank …
-EXIT_RANK = 900              # … and leaves only after falling past this
-                             # for a full month — hysteresis, no flapping
+EXIT_RANK = 900              # … and leaves only past this for a full
+                             # month — hysteresis, no flapping
+
+# Official NiftyTotalMarket monthly constituent lists, WHEN THEY EXIST:
+# drop a CSV named <YYYY-MM>.csv with an nse_symbol (or symbol) column
+# into this folder and that month's membership uses it verbatim (minus
+# ETFs) instead of the bhavcopy turnover proxy. The index only launched
+# in October 2021 and NSE publishes no public archive of historical
+# monthly membership, so this stays a hook: official first, proxy as
+# the fallback — never today's list projected into the past.
+OFFICIAL_DIR = Path(__file__).resolve().parents[3] \
+    / "NiftyTotalMarket" / "constituents_history"
+
+
+def official_members(month: str) -> set[str] | None:
+    p = OFFICIAL_DIR / f"{month}.csv"
+    if not p.exists():
+        return None
+    out = set()
+    with open(p) as fh:
+        for r in csv.DictReader(fh):
+            sym = (r.get("nse_symbol") or r.get("symbol") or "").strip()
+            if sym:
+                out.add(sym)
+    return out or None
 
 
 def next_month(month: str) -> str:
@@ -201,21 +263,36 @@ def rolling_membership(month_ranks: dict[str, dict[str, int]],
     turnover ranks — nothing later can influence it, so there is no
     lookahead. New names (IPOs, emerging small-caps) enter the first
     month they rank inside `enter`; an incumbent stays until it has
-    spent a full month ranked past `exit_` (or stopped trading)."""
+    spent a full month ranked past `exit_` (or stopped trading).
+    When an OFFICIAL NiftyTotalMarket list exists for a month
+    (official_members), it is used verbatim instead of the proxy.
+    ETFs and funds are excluded in every case — stocks only."""
     out: dict[str, dict] = {}
     members: set[str] = set()
     month = first_month
     while month <= last_month:
+        official = official_members(month)
+        if official is not None:
+            new_members = {s for s in official if not is_etf(s)}
+            out[month] = {"members": new_members,
+                          "entered": new_members - members,
+                          "left": members - new_members,
+                          "source": "official"}
+            members = new_members
+            month = next_month(month)
+            continue
         prev = {y: m for y, m in month_ranks.items() if y < month}
         if not prev:
             raise ValueError(f"no trailing ranks before {month}")
-        ranks = prev[max(prev)]
+        ranks = {s: r for s, r in prev[max(prev)].items()
+                 if not is_etf(s)}
         fresh = {s for s, r in ranks.items() if r <= enter}
         stay = {s for s in members if ranks.get(s, 10 ** 9) <= exit_}
         new_members = fresh | stay
         out[month] = {"members": new_members,
                       "entered": new_members - members,
-                      "left": members - new_members}
+                      "left": members - new_members,
+                      "source": "proxy"}
         members = new_members
         month = next_month(month)
     return out

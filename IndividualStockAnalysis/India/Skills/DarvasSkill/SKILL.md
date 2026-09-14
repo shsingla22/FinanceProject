@@ -105,11 +105,18 @@ license: internal
    fully-qualified signal is funded from the portfolio's cash first,
    and NEW CAPITAL tops up any shortfall — each top-up dated and
    logged, with performance judged by the money-weighted IRR so added
-   capital is never booked as return. At most ten positions, one equal
-   slice (a tenth of equity) each, entries at the next day's open,
-   falling earnings power refused; the screen runs every Friday even
-   when the book is full, so signals are logged and their funding
-   priority accrues instead of the book going blind. **The 25% risk
+   capital is never booked as return. **There is NO ceiling on the
+   number of positions** — ten is only the sizing denominator (each
+   fresh entry is one tenth of the book at entry); the screen runs
+   every Friday and no qualified signal is ever refused for room or
+   money. **Stocks only:** ETFs and funds are excluded from the
+   universe outright (`pit_universe.is_etf` — generic fund tokens
+   plus an explicit roster, with a whitelist for companies whose
+   names merely look fund-like). **The dead-money exit:** a stock
+   that seals no higher box for SIX MONTHS is sold at that Friday's
+   close — measured on the funded run, one such squatter held a slot
+   for five years to earn +2.4%; the box-age clock restarts on every
+   ratchet. **The 25% risk
    cap:** a signal whose box puts the stop more than 25% below the
    price is REFUSED outright — measured on six years of trades, the
    median entry risked 21% and a third risked over 25% (worst −59%),
@@ -234,7 +241,14 @@ HDFCLIFE 2017-12, ZOMATO 2021-08, PAYTM 2021-12, LICI 2022-06, IREDA
 turnover. Membership gates FRESH ENTRIES only; a held position runs
 to its ratcheted stop regardless. The archive carries the full
 month-by-month roster (`_membership_long.csv`) and the runner picks
-it up automatically (`longrun.py --archive <dir>`).
+it up automatically (`longrun.py --archive <dir>`). **Official lists
+first:** when an official NiftyTotalMarket monthly constituents file
+exists (`India/NiftyTotalMarket/constituents_history/<YYYY-MM>.csv`),
+that month uses it verbatim instead of the turnover proxy — the
+index launched in Oct 2021 and NSE publishes no public archive of
+historical membership, so the proxy remains the fallback; today's
+list is NEVER projected into the past. ETFs are excluded from
+membership in every case.
 
 The long run is simulated TWICE — frictionless, and NET of the real
 world (`scripts/frictions.py`): Angel One equity-delivery

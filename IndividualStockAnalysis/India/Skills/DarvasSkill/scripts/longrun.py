@@ -359,28 +359,31 @@ def write_report(runs: dict, fr, args, through: str, nifty: list,
             f"gate."
             if getattr(args, "stmt_coverage", 100) < 90 else ""), "",
          "## The rules — the skill, kept simple", "",
-         f"₹{args.capital:,.0f} starts ALL IN CASH and nothing is ever "
-         f"added: the portfolio compounds only what it makes. Every "
-         f"Friday after the close, the full three-gate screen (weekly "
-         f"volume ≥1.5× the 12-week average WITH a rising price; last "
+         f"₹{args.capital:,.0f} starts the book, and **no qualified "
+         f"signal is EVER starved**: entries are funded from the "
+         f"portfolio's cash first, with fresh capital topping up any "
+         f"shortfall (every top-up dated and logged — the yardstick "
+         f"is the money-weighted IRR). There is **NO ceiling on the "
+         f"number of positions**: ten is only the sizing denominator "
+         f"— each fresh entry is one tenth of the book at entry. "
+         f"**Stocks only:** ETFs and funds are excluded from the "
+         f"universe outright ({getattr(args, 'etf_excluded', 0)} "
+         f"instruments filtered from this archive). Every Friday "
+         f"after the close, the full three-gate screen (weekly volume "
+         f"≥1.5× the 12-week average WITH a rising price; last "
          f"month's volume ≥1.5× the year's norm; ≥3 boxes with the "
-         f"last 3 midpoints rising) runs over the whole universe. "
-         f"**At most {SLOTS} positions at any time**, each fresh entry "
-         f"one equal slice (a tenth of equity), entries at the next "
-         f"trading day's open, falling earnings power refused, nothing "
-         f"below half a slice. **Cash never sleeps:** money freed by a "
-         f"stop goes into that week's fresh qualifiers, and a "
-         f"fully-qualified signal the cash never reached climbs the "
-         f"funding queue each time it is starved — front of the line "
-         f"ahead of louder newcomers, reset once funded. Stops (box "
-         f"bottom − max(0.3×height, 5% of bottom)) are checked daily "
-         f"and ratcheted up weekly; only the stop itself exits; a "
-         f"stopped symbol returns only by passing the full screen "
-         f"again. When nothing qualifies, the cash stays cash. NO "
-         f"pyramiding — doubling was built, measured and retired: on "
-         f"every configuration tested the add-on bought the top of "
-         f"the newest box with the stop a whole box lower, and the "
-         f"marginal rupee underperformed the base system.", "",
+         f"last 3 midpoints rising) runs over the whole universe; "
+         f"entries at the next trading day's open; falling earnings "
+         f"power refused; a box whose stop sits more than 25% below "
+         f"the price refused. Stops (box bottom − max(0.3×height, 5% "
+         f"of bottom)) are checked daily and ratcheted up weekly. "
+         f"**Two exits, never more:** the stop itself, and the "
+         f"DEAD-MONEY rule — a stock that seals no higher box for six "
+         f"months is sold at that Friday's close, freeing capital and "
+         f"attention. A sold symbol returns only by passing the full "
+         f"screen again. NO pyramiding — doubling was built, measured "
+         f"and retired: the add-on structurally bought the newest box "
+         f"top with the stop a whole box lower.", "",
          "## The headline — IRR, since capital is added when signals call",
          "",
          f"| | Money put in | Final value | IRR (money-weighted, "
@@ -570,8 +573,16 @@ def main() -> None:
         through = max(d for d in dates if d <= args.screen_end)
     print(f"screens {args.screen_start} → {through}", file=sys.stderr)
 
+    import pit_universe as PIT
+    etfs = {s for s in bars_by if PIT.is_etf(s)}
+    bars_by = {s: b for s, b in bars_by.items() if s not in etfs}
+    args.etf_excluded = len(etfs)
+    print(f"{len(etfs)} ETF/fund instruments excluded — stocks only",
+          file=sys.stderr)
     membership = load_membership(archive)
     if membership:
+        membership = {m: {s for s in ss if s not in etfs}
+                      for m, ss in membership.items()}
         print(f"rolling membership loaded: {len(membership)} months",
               file=sys.stderr)
     earnings_ok = make_earnings_ok()

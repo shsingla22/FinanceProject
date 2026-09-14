@@ -62,6 +62,8 @@ MAX_DOUBLINGS = 3            # a position doubles at most 3 times (8×) —
                              # the cap that keeps the rule fundable
 MAX_INITIAL_RISK = 0.25      # never enter a box whose stop sits more
                              # than 25% below the price
+DEAD_BOX_DAYS = 183          # a stock that seals no higher box for six
+                             # months is DEAD MONEY — sold, slot freed
 LOOKBACK = WF.BOX_LOOKBACK_BARS
 
 
@@ -179,15 +181,15 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     emerging names appear the month they earn their place, and nothing
     later ever edits the past. Membership never touches a held
     position: stops and ratchets run to the end regardless.
-    `funded` is the NEVER-STARVED mode: every qualified signal with a
-    free slot is funded — from the portfolio's cash first, with FRESH
-    OUTSIDE CAPITAL for any shortfall (each top-up dated and logged
-    for the money-weighted IRR). The position cap (`slots`) is the
-    only limit, the Friday screen runs even when fully invested (so
-    signals are logged and priority accrues instead of the book going
-    blind), and no signal is ever skipped for lack of cash. In every
-    mode, a signal whose box puts the stop more than 25% below the
-    price is REFUSED outright.
+    `funded` is the NEVER-STARVED mode: EVERY qualified signal is
+    funded, with no cap on the number of positions — from the
+    portfolio's cash first, with FRESH OUTSIDE CAPITAL for any
+    shortfall (each top-up dated and logged for the money-weighted
+    IRR). `slots` only sets the slice size — each new entry is one
+    tenth of the book at entry — never a position count. The Friday
+    screen always runs, and the only refusals are the skill's own
+    gates: falling earnings power, and a box whose stop sits more
+    than 25% below the price (refused outright in every mode).
     `screen` defaults to screen_day (tests may inject one).
     `frictions` (an AngelOneFrictions, or None for the frictionless
     replay) charges every order and settles capital-gains tax out of
@@ -258,7 +260,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         positions[sym] = {"entry_date": d, "entry_px": px,
                           "shares": notional / px, "stop": stop,
                           "cost": amt, "last_px": px, "ratchets": 0,
-                          "doubles": 0,
+                          "doubles": 0, "last_advance": d,
                           "lots": [{"date": d, "px": px,
                                     "shares": notional / px}]}
         extra = f"; charges {inr(charge)}" if frictions else ""
@@ -495,6 +497,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                                     f"₹{st['current']['top']:,.2f} sealed)"))
                     p["stop"] = cand
                     p["ratchets"] += 1
+                    p["last_advance"] = d      # the box-age clock resets
                     if pyramid:      # every box jump doubles — 3× max
                         if p["doubles"] < MAX_DOUBLINGS:
                             p["doubles"] += 1
@@ -504,6 +507,20 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                                 (d, sym, f"box jump NOT doubled — the "
                                          f"{MAX_DOUBLINGS}-doubling cap "
                                          f"is already used"))
+
+        # the dead-money exit: a stock that has sealed no higher box
+        # for six months is sold at this Friday's close — the capital
+        # and the attention go back to work
+        for sym in list(positions):
+            p = positions[sym]
+            aged = (dt.date.fromisoformat(d)
+                    - dt.date.fromisoformat(p["last_advance"])).days
+            if aged >= DEAD_BOX_DAYS:
+                bar = bar_of(sym, d)
+                px = (bar or {"close": p["last_px"]})["close"]
+                close_position(sym, d, px,
+                               f"close ({aged} days without a higher "
+                               f"box — the dead-money exit)")
 
         eq = equity(d)
         cur_slice = slice_size * (eq / capital)
@@ -550,8 +567,11 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             # and drops back to normal the moment it is funded
             signals.sort(key=lambda s: (-s["prio"], -s["mult"]))
             if funded:
-                n_fundable = max(0, denom - len(positions))
-                why_not = "no free slot — the book is full"
+                # never starved, never capped: EVERY qualified signal
+                # is funded — `slots` only sets the slice size (a
+                # tenth of the book per entry), never a position count
+                n_fundable = len(signals)
+                why_not = "unreachable"
             else:
                 n_fundable = len(plan_deployment(cash, cur_slice,
                                                  len(signals)))
