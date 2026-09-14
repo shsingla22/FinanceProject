@@ -1201,3 +1201,40 @@ def test_nse_dummy_placeholder_rows_are_never_stocks():
             "Real Ltd.,IT,REAL,EQ,INE1\n"
             "Dummy HEG,IT,DUMMYHEG,EQ,INE2\n")
     assert [r["nse_symbol"] for r in RC.parse_official(text)] == ["REAL"]
+
+
+# ---------------- the plain-language weekly actions section
+
+import analyze as AZ        # noqa: E402
+
+
+def test_raised_stops_are_detected_and_only_upward_moves_count():
+    old = {"AAA": "100.0", "BBB": "50.0", "CCC": "80.0"}
+    ledger = [{"symbol": "AAA", "stop_loss": "110.0"},
+              {"symbol": "BBB", "stop_loss": "50.0"},
+              {"symbol": "CCC", "stop_loss": ""},      # SELL wipes it
+              {"symbol": "NEW", "stop_loss": "30.0"}]  # no old — a buy
+    assert AZ.detect_raised(old, ledger) == [("AAA", 100.0, 110.0)]
+
+
+def test_actions_section_speaks_in_four_verbs():
+    dives = [
+        {"rec": {"symbol": "GOODBUY", "action": "BUY", "stop_loss": 90.0,
+                 "last_close": 100.0}},
+        {"rec": {"symbol": "TOOWIDE", "action": "BUY", "stop_loss": 60.0,
+                 "last_close": 100.0}},
+        {"rec": {"symbol": "RADAR1", "action": "WATCH",
+                 "buy_above": 55.0}},
+        {"rec": {"symbol": "DOWNG", "action": "WATCH",
+                 "downgraded": True}},
+    ]
+    ledger = [{"symbol": "HELDUP", "stop_loss": "120.0", "action": "BUY"},
+              {"symbol": "BROKE", "stop_loss": "", "action": "SELL"}]
+    md = AZ.actions_section(dives, ledger, {"HELDUP": "100.0"})
+    assert "Today's actions" in md
+    assert "**GOODBUY**" in md and "₹90.00 (risk -10.0%" in md
+    assert "WIDE; consider a half slice" in md          # -40% risk flagged
+    assert "HELDUP: ₹100.00 → **₹120.00**" in md        # raise stop
+    assert "- BROKE" in md                              # sell
+    assert "close above ₹55.00" in md                   # radar
+    assert "DOWNG — downgraded" in md                   # never a buy

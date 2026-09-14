@@ -20,6 +20,7 @@ Output:
 from __future__ import annotations
 
 import argparse
+import csv
 import datetime as dt
 import shutil
 import sys
@@ -58,12 +59,92 @@ def deep_dive(sym: str, weekly, daily, signal, ai: bool) -> dict:
     # earnings is not his trade — the action is downgraded, and says so.
     if rec["action"] in ("BUY", "ACCUMULATE") and power["verdict"] == "FALLING":
         rec["action"] = "WATCH"
+        rec["downgraded"] = True
         rec["why"] += ("; DOWNGRADED to WATCH — the latest statements show "
                        "falling earnings power, and Darvas required rising "
                        "earnings under the volume")
     return {"signal": signal, "box_state": box_state, "rec": rec,
             "power": power, "calls": calls,
             "months": months, "mtrend": mtrend}
+
+
+def detect_raised(old_stops: dict, ledger: list) -> list:
+    """[(symbol, old, new)] for every held stop that moved UP this run."""
+    out = []
+    for row in ledger:
+        new = row.get("stop_loss")
+        old = old_stops.get(row["symbol"], "")
+        try:
+            if old and new and float(new) > float(old) + 1e-9:
+                out.append((row["symbol"], float(old), float(new)))
+        except ValueError:
+            continue
+    return out
+
+
+def actions_section(dives: list, ledger: list, old_stops: dict) -> str:
+    """The report's closing section: the week in FOUR verbs — buy,
+    sell, raise stop, do nothing — so acting on the skill never needs
+    interpretation. WATCH is the radar, not an instruction: a genuine
+    in-box WATCH converts to BUY by ITSELF in a coming week if the
+    breakout arrives on qualifying volume; a downgraded WATCH is a
+    do-not-buy, and unbought old signals expire."""
+    buys, radar, downs = [], [], []
+    for d in dives:
+        r = d["rec"]
+        if r["action"] in ("BUY", "ACCUMULATE"):
+            risk = ""
+            if r.get("last_close") and r.get("stop_loss"):
+                pct = (r["stop_loss"] - r["last_close"]) / r["last_close"] * 100
+                risk = f" (risk {pct:+.1f}% from the last close"
+                risk += " — WIDE; consider a half slice or waiting for "\
+                        "the next box)" if pct < -25 else ")"
+            buys.append(f"| **{r['symbol']}** | buy at next open | "
+                        f"₹{r.get('stop_loss', 0):,.2f}{risk} |")
+        elif r.get("downgraded"):
+            downs.append(r["symbol"])
+        elif r.get("buy_above"):
+            radar.append(f"{r['symbol']} (turns into BUY on a daily "
+                         f"close above ₹{r['buy_above']:,.2f})")
+        else:
+            radar.append(r["symbol"])
+    sells = [row["symbol"] for row in ledger
+             if row.get("action") == "SELL"]
+    raised = detect_raised(old_stops, ledger)
+
+    A = ["", "---", "", "## Today's actions — plain and simple", ""]
+    if buys:
+        A += ["**BUY** (place the stop as a GTT order right after the "
+              "fill; one equal slice each — a tenth of capital):", "",
+              "| Stock | Entry | Stop loss |", "|---|---|---:|"]
+        A += buys + [""]
+    else:
+        A += ["**BUY:** nothing today.", ""]
+    if raised:
+        A += ["**RAISE STOP LOSS** (replace the standing GTT — stops "
+              "only ever move up):", ""]
+        A += [f"- {s}: ₹{o:,.2f} → **₹{n:,.2f}**" for s, o, n in raised]
+        A += [""]
+    else:
+        A += ["**RAISE STOP LOSS:** none this run.", ""]
+    if sells:
+        A += ["**SELL** (closed below its box bottom — the red flag; "
+              "applies only if you hold it):", ""]
+        A += [f"- {s}" for s in sells] + [""]
+    else:
+        A += ["**SELL:** nothing flagged.", ""]
+    A += ["**NOTHING TO DO** — the radar (the skill converts these to "
+          "BUY by itself in a coming week if the break comes; unbought "
+          "old signals expire):", ""]
+    if radar:
+        A += [f"- {x}" for x in radar]
+    if downs:
+        A += [f"- {s} — downgraded (falling earnings power): never a buy"
+              for s in downs]
+    if not radar and not downs:
+        A += ["- (empty)"]
+    A += [""]
+    return "\n".join(A)
 
 
 # --------------------------------------------------------------- rendering
@@ -339,6 +420,11 @@ def cmd_run(args) -> None:
         print(f"  {s['symbol']}: {d['rec']['action']} "
               f"({s['volume_multiple']:.2f}×)", file=sys.stderr)
 
+    old_stops = {}
+    if LEDGER.exists():
+        with open(LEDGER) as fh:
+            for r in csv.DictReader(fh):
+                old_stops[r["symbol"]] = r.get("stop_loss", "")
     ledger = DV.update_ledger(
         LEDGER, [{**d["rec"]} for d in dives])
     fetched_at = (FD.OUT_DIR / "_fetched_at.txt").read_text().strip() \
@@ -357,6 +443,7 @@ def cmd_run(args) -> None:
         "gated": gated,
     }
     md = render_report(scan, dives, meta)
+    md += actions_section(dives, ledger, old_stops)
     REPORT.write_text(md)
     print(f"wrote {REPORT} ({len(md.splitlines())} lines)")
 
