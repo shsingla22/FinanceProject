@@ -60,6 +60,8 @@ OUT_DIR = INDIA / "Analysis" / "NiftyTotalMarketAnalysis" / "DarvasAnalysis"
 MIN_DEPLOY_FRACTION = 0.5    # never open a position below half a slice
 MAX_DOUBLINGS = 3            # a position doubles at most 3 times (8×) —
                              # the cap that keeps the rule fundable
+MAX_INITIAL_RISK = 0.25      # never enter a box whose stop sits more
+                             # than 25% below the price
 LOOKBACK = WF.BOX_LOOKBACK_BARS
 
 
@@ -159,7 +161,8 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 start: str, through: str, capital: float,
                 earnings_ok, screen=None, slots: int | None = None,
                 frictions=None, pyramid: bool = False,
-                membership: dict | None = None) -> dict:
+                membership: dict | None = None,
+                funded: bool = False) -> dict:
     """The portfolio day loop.
 
     seed rows: {"symbol", "stop"} — entered at `start`'s close, one
@@ -176,6 +179,15 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     emerging names appear the month they earn their place, and nothing
     later ever edits the past. Membership never touches a held
     position: stops and ratchets run to the end regardless.
+    `funded` is the NEVER-STARVED mode: every qualified signal with a
+    free slot is funded — from the portfolio's cash first, with FRESH
+    OUTSIDE CAPITAL for any shortfall (each top-up dated and logged
+    for the money-weighted IRR). The position cap (`slots`) is the
+    only limit, the Friday screen runs even when fully invested (so
+    signals are logged and priority accrues instead of the book going
+    blind), and no signal is ever skipped for lack of cash. In every
+    mode, a signal whose box puts the stop more than 25% below the
+    price is REFUSED outright.
     `screen` defaults to screen_day (tests may inject one).
     `frictions` (an AngelOneFrictions, or None for the frictionless
     replay) charges every order and settles capital-gains tax out of
@@ -427,16 +439,29 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 continue
             eq = equity(d)
             cur_slice = slice_size * (eq / capital)
-            plan = plan_deployment(cash, cur_slice, 1)
-            if not plan:
-                starve[sym] = starve.get(sym, 0) + 1
-                blotter.append((d, sym, f"signal SKIPPED — cash below "
-                                        f"half a slice (funding priority "
-                                        f"now {starve[sym]})"))
-                continue
+            if funded:
+                # never starved: cash first, fresh capital tops up the
+                # shortfall — logged for the money-weighted IRR
+                fresh = max(0.0, cur_slice - cash)
+                note = f"fresh Friday signal — {sig['note']}"
+                if fresh > 1e-9:
+                    injections.append((d, fresh))
+                    cash += fresh
+                    note += f"; {inr(fresh)} fresh capital added"
+                amt = cur_slice
+            else:
+                plan = plan_deployment(cash, cur_slice, 1)
+                if not plan:
+                    starve[sym] = starve.get(sym, 0) + 1
+                    blotter.append((d, sym, f"signal SKIPPED — cash "
+                                            f"below half a slice "
+                                            f"(funding priority now "
+                                            f"{starve[sym]})"))
+                    continue
+                amt = plan[0]
+                note = f"fresh Friday signal — {sig['note']}"
             px = bar["open"] or bar["close"]
-            open_position(sym, d, px, plan[0], sig["stop"],
-                          f"fresh Friday signal — {sig['note']}")
+            open_position(sym, d, px, amt, sig["stop"], note)
         pending = still_pending
 
         # 2. the standing stop, checked daily
@@ -483,7 +508,8 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         eq = equity(d)
         cur_slice = slice_size * (eq / capital)
         signals = []
-        if cash >= cur_slice * MIN_DEPLOY_FRACTION and d != through:
+        if d != through and (funded
+                             or cash >= cur_slice * MIN_DEPLOY_FRACTION):
             allowed = (None if membership is None
                        else membership.get(d[:7], frozenset()))
             for sym, bars in bars_by.items():
@@ -501,6 +527,14 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                     blotter.append((d, sym, "fresh signal REFUSED — "
                                             "falling earnings power"))
                     continue
+                risk = (bars[i]["close"] - hit["stop"]) / bars[i]["close"]
+                if risk > MAX_INITIAL_RISK:
+                    blotter.append((d, sym,
+                                    f"fresh signal REFUSED — the box "
+                                    f"puts the stop {risk * 100:.1f}% "
+                                    f"below the price, beyond the "
+                                    f"{MAX_INITIAL_RISK * 100:.0f}% cap"))
+                    continue
                 prio = starve.get(sym, 0)
                 signals.append({
                     "symbol": sym, "stop": hit["stop"], "prio": prio,
@@ -515,12 +549,18 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             # but the cash never reaches climbs the queue each time,
             # and drops back to normal the moment it is funded
             signals.sort(key=lambda s: (-s["prio"], -s["mult"]))
-            n_fundable = len(plan_deployment(cash, cur_slice, len(signals)))
+            if funded:
+                n_fundable = max(0, denom - len(positions))
+                why_not = "no free slot — the book is full"
+            else:
+                n_fundable = len(plan_deployment(cash, cur_slice,
+                                                 len(signals)))
+                why_not = "cash exhausted"
             pending = signals[:n_fundable]
             for s in signals[n_fundable:]:
                 starve[s["symbol"]] = starve.get(s["symbol"], 0) + 1
                 blotter.append((d, s["symbol"],
-                                f"fresh signal NOT FUNDED — cash exhausted "
+                                f"fresh signal NOT FUNDED — {why_not} "
                                 f"({s['note']}; funding priority now "
                                 f"{starve[s['symbol']]})"))
         # the curve records the WHOLE system's value — portfolio plus

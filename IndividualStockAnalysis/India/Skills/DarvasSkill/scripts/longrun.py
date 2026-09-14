@@ -295,8 +295,14 @@ def write_report(runs: dict, fr, args, through: str, nifty: list,
     start_d = curve[0]["date"]
     days = (dt.date.fromisoformat(through)
             - dt.date.fromisoformat(start_d)).days
-    cagr = _cagr(res["final_equity"], args.capital, days)
-    gross_cagr = _cagr(gross["final_equity"], args.capital, days)
+    def irr_of(r):
+        flows = ([(start_d, -args.capital)]
+                 + [(dd, -a) for dd, a in r["injections"]]
+                 + [(through, r["final_equity"])])
+        return xirr(sorted(flows))
+
+    irr = irr_of(res)
+    gross_irr = irr_of(gross)
     accrued = fr.accrued()
     truly_net = res["final_equity"] - accrued["tax"]
 
@@ -315,6 +321,7 @@ def write_report(runs: dict, fr, args, through: str, nifty: list,
     all_cash_weeks = sum(1 for w in curve if w["positions"] == 0)
     trades = [b for b in sorted(res["blotter"])
               if "BUY ₹" in b[2] or "SELL ₹" in b[2]
+              or "RAISE STOP" in b[2]
               or b[1] == "TAX" or b[2].startswith("TRIM")]
 
     runway_days = (dt.date.fromisoformat(args.screen_start)
@@ -374,21 +381,26 @@ def write_report(runs: dict, fr, args, through: str, nifty: list,
          f"every configuration tested the add-on bought the top of "
          f"the newest box with the stop a whole box lower, and the "
          f"marginal rupee underperformed the base system.", "",
-         "## The headline", "",
-         f"| | ₹100 became | CAGR |",
-         f"|---|---:|---:|",
+         "## The headline — IRR, since capital is added when signals call",
+         "",
+         f"| | Money put in | Final value | IRR (money-weighted, "
+         f"per year) |",
+         f"|---|---:|---:|---:|",
          f"| **This system, NET of charges and capital-gains tax** | "
-         f"**{inr(res['final_equity'])}** | **{cagr:+.2f}% a year** |",
-         f"| Before charges and taxes | {inr(gross['final_equity'])} | "
-         f"{gross_cagr:+.2f}% a year |"]
+         f"{inr(args.capital + res['total_injected'])} "
+         f"(₹{args.capital:,.0f} + {inr(res['total_injected'])} added "
+         f"across {len(res['injections'])} top-ups) | "
+         f"**{inr(res['final_equity'])}** | **{irr:+.2f}%** |",
+         f"| Before charges and taxes | "
+         f"{inr(args.capital + gross['total_injected'])} | "
+         f"{inr(gross['final_equity'])} | {gross_irr:+.2f}% |"]
     if nifty_100:
         A.append(f"| Nifty 50 (same window, pre-cost, pre-tax) | "
-                 f"{inr(nifty_100)} | {nifty_cagr:+.2f}% a year |")
+                 f"₹100.00 | {inr(nifty_100)} | {nifty_cagr:+.2f}% |")
     A += ["",
           f"*{inr(accrued['tax'])} of tax has accrued on the final "
           f"part-year's realised gains (due next April) — settling it "
-          f"today would leave {inr(truly_net)} "
-          f"({_cagr(truly_net, args.capital, days):+.2f}% a year); "
+          f"today would leave {inr(truly_net)}; "
           f"unrealised gains in the end book carry a further deferred "
           f"liability. {days / 365.25:.2f} years, {len(curve)} weekly "
           f"screens.*", ""]
@@ -414,15 +426,19 @@ def write_report(runs: dict, fr, args, through: str, nifty: list,
           f"| {inr(accrued['tax'])} | {inr(accrued['cf_st'])} / "
           f"{inr(accrued['cf_lt'])} |", ""]
 
-    gross_yearly = {r["year"]: r for r in _yearly(gross["equity_curve"])}
-    A += ["## Calendar-year returns", "",
-          "| Year (through) | Net equity | Net return | Gross return |"
-          + (" Nifty 50 |" if nifty else ""),
-          "|---|---:|---:|---:|" + ("---:|" if nifty else "")]
+    gross_yearly = {r["year"]: r for r in dietz_yearly(
+        gross["equity_curve"], gross["injections"])}
+    A += ["## Calendar-year returns (Modified Dietz — money-weighted "
+          "for the top-ups, so added capital is never booked as "
+          "return)", "",
+          "| Year (through) | Net equity | Added in year | Net return |"
+          " Gross return |" + (" Nifty 50 |" if nifty else ""),
+          "|---|---:|---:|---:|---:|" + ("---:|" if nifty else "")]
     prev_n = n0
-    for r in _yearly(curve):
+    for r in dietz_yearly(curve, res["injections"]):
         g = gross_yearly.get(r["year"])
         line = (f"| {r['year']} ({r['through']}) | {inr(r['equity'])} | "
+                f"{inr(r['injected'])} | "
                 f"{r['ret_pct']:+.1f}% | "
                 + (f"{g['ret_pct']:+.1f}% |" if g else "— |"))
         if nifty:
@@ -565,8 +581,10 @@ def main() -> None:
         print(f"{key} replay…", file=sys.stderr)
         runs[key] = RL.run_rolling(bars_by, [], args.screen_start, through,
                                    args.capital, earnings_ok, slots=SLOTS,
-                                   frictions=f, membership=membership)
-        print(f"{key}: final ₹{runs[key]['final_equity']:,.2f}",
+                                   frictions=f, membership=membership,
+                                   funded=True)
+        print(f"{key}: final ₹{runs[key]['final_equity']:,.2f}, "
+              f"added ₹{runs[key]['total_injected']:,.2f}",
               file=sys.stderr)
 
     try:

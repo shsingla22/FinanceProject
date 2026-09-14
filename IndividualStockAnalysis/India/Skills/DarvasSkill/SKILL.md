@@ -98,15 +98,24 @@ license: internal
    window: the old instant weekly sell threw CHENNPETRO out at +5.1%;
    the grace held the identical entry to +62.6%. The rhythm: **run the
    skill weekly, after Friday's close** — each run re-fetches, re-ranks,
-   re-seals boxes and ratchets every held stop UP only. **Cash never
-   sleeps:** money freed by a stop is deployed into that week's fresh
-   fully-qualified BUY/ACCUMULATE signals — best volume reaction first,
-   one equal slice per position, entered at the next day's open, a
-   falling earnings power refused, nothing below half a slice. A
-   stopped symbol may return only by passing the full three-gate screen
-   again. (Measured on the May-2026 backtest window: the frozen book
-   left 25% of capital-time idle and made ₹113.34 per ₹100; the same
-   book with freed cash redeployed made ₹117.28.)
+   re-seals boxes and ratchets every held stop UP only — and **every
+   stop raise is called out in the blotter alongside the buys and
+   sells**, with the box that justified it, so the picture stays
+   complete. **The signals are never starved:** a fresh
+   fully-qualified signal is funded from the portfolio's cash first,
+   and NEW CAPITAL tops up any shortfall — each top-up dated and
+   logged, with performance judged by the money-weighted IRR so added
+   capital is never booked as return. At most ten positions, one equal
+   slice (a tenth of equity) each, entries at the next day's open,
+   falling earnings power refused; the screen runs every Friday even
+   when the book is full, so signals are logged and their funding
+   priority accrues instead of the book going blind. **The 25% risk
+   cap:** a signal whose box puts the stop more than 25% below the
+   price is REFUSED outright — measured on six years of trades, the
+   median entry risked 21% and a third risked over 25% (worst −59%),
+   because a stock that qualifies through a violent run-up carries a
+   tall box; the cap removes exactly those. A stopped symbol may
+   return only by passing the full three-gate screen again.
 
 ## Run it
 

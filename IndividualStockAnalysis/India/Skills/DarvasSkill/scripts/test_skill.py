@@ -1384,3 +1384,85 @@ def test_starved_signals_climb_the_queue_and_reset_when_funded():
     t_buy = [b for b in text if b[1] == "T" and "BUY ₹" in b[2]]
     assert t_buy and "starved 1×, front of the queue" in t_buy[0][2]
     assert any(b[1] == "L2" and "NOT FUNDED" in b[2] for b in text)
+
+
+# --------------- never-starved funding, the 25% cap, IRR bookkeeping
+
+def test_funded_mode_tops_up_only_the_shortfall_and_logs_it():
+    # A is bought with own cash, then doubles in price; B's slice now
+    # exceeds the remaining cash — the difference arrives as a dated
+    # top-up, never more than needed
+    a = [50.0] * 5 + [100.0] * 15
+    world = {"A": _roll_bars("A", a), "B": _roll_bars("B", [50.0] * 20)}
+
+    def stub(bars_upto, day):
+        sym = bars_upto[-1]["symbol"]
+        di = day.isoformat()
+        if (sym == "A" and di == "2026-01-02") or \
+           (sym == "B" and di == "2026-01-09"):
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling(world, [], "2026-01-02", world["A"][-1]["date"],
+                         20.0, lambda s, d: True, screen=stub, slots=2,
+                         funded=True)
+    # A took ₹10 of the ₹20; A then doubled, so B's slice is
+    # (10 cash + 20 position)/2 = 15 — cash covers 10, top-up 5
+    assert len(res["injections"]) == 1
+    d_inj, amt = res["injections"][0]
+    assert amt == pytest.approx(5.0)
+    b_buy = [b for b in res["blotter"] if b[1] == "B" and "BUY ₹" in b[2]]
+    assert b_buy and "₹5.00 fresh capital added" in b_buy[0][2]
+    assert b_buy[0][0] == d_inj
+    assert res["cash"] == pytest.approx(0.0)
+    assert all(w["cash"] >= -1e-9 for w in res["equity_curve"])
+
+
+def test_funded_mode_screens_even_when_the_book_is_full():
+    # slots=1 and the slot is taken: the old engine went BLIND on such
+    # weeks; funded mode still screens, logs the signal and raises the
+    # symbol's priority for the next free slot
+    world = {"A": _roll_bars("A", [50.0] * 20),
+             "B": _roll_bars("B", [50.0] * 20)}
+
+    def stub(bars_upto, day):
+        sym = bars_upto[-1]["symbol"]
+        di = day.isoformat()
+        if sym == "A" and di == "2026-01-02":
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        if sym == "B" and di == "2026-01-09":
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling(world, [], "2026-01-02", world["A"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=1,
+                         funded=True)
+    full = [b for b in res["blotter"]
+            if b[1] == "B" and "no free slot" in b[2]]
+    assert full and "funding priority now 1" in full[0][2]
+    assert not [b for b in res["blotter"]
+                if b[1] == "B" and "BUY ₹" in b[2]]
+
+
+def test_a_stop_more_than_25pct_away_is_refused_outright():
+    world = {"FAR": _roll_bars("FAR", [50.0] * 20),
+             "NEAR": _roll_bars("NEAR", [50.0] * 20)}
+
+    def stub(bars_upto, day):
+        sym = bars_upto[-1]["symbol"]
+        if day.isoformat() != "2026-01-02":
+            return None
+        stop = 30.0 if sym == "FAR" else 40.0   # 40% vs 20% below 50
+        return {"action": "BUY", "stop": stop,
+                "volume_multiple": 2.0, "month_multiple": 2.0}
+
+    res = RL.run_rolling(world, [], "2026-01-02", world["FAR"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=4,
+                         funded=True)
+    refused = [b for b in res["blotter"] if b[1] == "FAR"]
+    assert len(refused) == 1 and "beyond the 25% cap" in refused[0][2]
+    assert "40.0% below" in refused[0][2]
+    assert [b for b in res["blotter"] if b[1] == "NEAR" and "BUY ₹" in b[2]]
