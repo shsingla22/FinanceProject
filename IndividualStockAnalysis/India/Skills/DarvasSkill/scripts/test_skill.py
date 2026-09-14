@@ -1074,3 +1074,65 @@ def test_rolling_with_frictions_taxes_a_short_term_gain_at_20pct():
     assert f.total_tax == pytest.approx(0.20 * gain)
     tax_lines = [b for b in res["blotter"] if b[1] == "TAX"]
     assert len(tax_lines) == 1
+
+
+# ------------- the rolling PIT radar with the IPO seasoning gate
+
+import pit_universe as PIT  # noqa: E402
+
+
+def test_etf_classifier_knows_funds_from_lookalike_companies():
+    for fund in ("GOLDBEES", "SETFGOLD", "LIQUID1", "ICICIB22",
+                 "CPSEETF", "SILVERIETF", "NIFTYBEES"):
+        assert PIT.is_etf(fund), fund
+    for company in ("RELIANCE", "SKYGOLD", "GOLDIAM", "DECNGOLD",
+                    "SILVERTUC", "TDPOWERSYS"):
+        assert not PIT.is_etf(company), company
+
+
+def test_new_listings_stay_off_the_radar_for_three_months():
+    # ZOMATO listed 2021-07-23: +92 days lands 2021-10-23, so the
+    # first month whose 1st is past that is 2021-11
+    assert PIT.eligible_month("2021-07-23") == "2021-11"
+    assert PIT.eligible_month("2020-01-01") == "2020-05"
+    ranks = {"2021-09": {"NEWIPO": 1, "OLD": 2}}
+    elig = {"NEWIPO": "2021-12", "OLD": "2014-04"}
+    m = PIT.rolling_membership(ranks, "2021-10", "2021-10",
+                               enter=2, exit_=3, eligible=elig)
+    assert m["2021-10"]["members"] == {"OLD"}, \
+        "an unseasoned listing must not enter, whatever its rank"
+
+
+def test_membership_gates_fresh_entries_but_never_held_positions():
+    def _mk(sym, closes):
+        d = dt.date(2026, 1, 2)
+        out, prev = [], closes[0]
+        for c in closes:
+            while d.weekday() >= 5:
+                d += dt.timedelta(days=1)
+            out.append({"symbol": sym, "date": d.isoformat(), "open": prev,
+                        "high": max(prev, c) + 0.5,
+                        "low": min(prev, c) - 0.5,
+                        "close": c, "volume": 100_000})
+            prev = c
+            d += dt.timedelta(days=1)
+        return out
+    world = {"A": _mk("A", [50.0] * 40), "B": _mk("B", [50.0] * 40)}
+    months = sorted({b["date"][:7] for b in world["A"]})
+    membership = {m: ({"A"} if i == 0 else set())
+                  for i, m in enumerate(months)}
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "B":
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 2.0, "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling(world, [{"symbol": "A", "stop": 45.0}],
+                         "2026-01-02", world["A"][-1]["date"], 100.0,
+                         lambda s, d: True, screen=stub, slots=2,
+                         membership=membership)
+    assert not [b for b in res["blotter"] if b[1] == "B"], \
+        "B was never a member — its signal must never trade"
+    assert [b["symbol"] for b in res["book"]] == ["A"], \
+        "A left the radar but the HELD position stays managed"

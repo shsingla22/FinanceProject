@@ -92,9 +92,36 @@ def ensure_archive(end: dt.date) -> Path:
 
 
 def load_bars(archive: Path) -> dict[str, list[dict]]:
-    by_date = WF._load_daily_csv(archive / "_all_daily_long.csv")
+    import gzip
+    plain = archive / "_all_daily_long.csv"
+    gz = archive / "_all_daily_long.csv.gz"
+    fh = (gzip.open(gz, "rt") if not plain.exists() and gz.exists()
+          else open(plain))
+    by: dict[str, dict[str, dict]] = {}
+    with fh:
+        for r in csv.DictReader(fh):
+            by.setdefault(r["symbol"], {})[r["date"]] = {
+                "symbol": r["symbol"], "date": r["date"],
+                "open": float(r["open"]) if r["open"] else None,
+                "high": float(r["high"]) if r["high"] else None,
+                "low": float(r["low"]) if r["low"] else None,
+                "close": float(r["close"]),
+                "volume": int(r["volume"]) if r.get("volume") else 0}
     return {sym: [rows[d] for d in sorted(rows)]
-            for sym, rows in by_date.items()}
+            for sym, rows in by.items()}
+
+
+def load_membership(archive: Path) -> dict | None:
+    """The rolling point-in-time radar, when the archive carries one:
+    {"YYYY-MM": set of that month's members}."""
+    p = archive / "_membership_long.csv"
+    if not p.exists():
+        return None
+    memb: dict[str, set] = {}
+    with open(p) as fh:
+        for r in csv.DictReader(fh):
+            memb.setdefault(r["month"], set()).add(r["symbol"])
+    return memb
 
 
 def fetch_nifty(start: dt.date, end: dt.date) -> list[tuple[str, float]]:
@@ -234,13 +261,29 @@ def write_report(res: dict, gross: dict, fr, args, through: str,
          f"sees only bars up to its own Friday. The earnings gate reads "
          f"only fiscal years ended on or before the last 31 March at "
          f"each screen date — the cut rolls forward with the replay — "
-         f"and the conference-call read is excluded. **Two limits that "
-         f"cannot be engineered away:** the universe is TODAY'S "
-         f"NiftyTotalMarket constituents (survivorship bias — companies "
-         f"that later failed or left the index are missing from the "
-         f"early years, which flatters results), and Yahoo serves "
-         f"split-adjusted history as it stands today. No costs, no "
-         f"slippage, stop exits at the stop price, fractional shares.",
+         f"and the conference-call read is excluded. "
+         + (f"**SURVIVORSHIP BIAS REMOVED — the universe is "
+            f"POINT-IN-TIME with a rolling radar:** membership is "
+            f"recomputed EVERY MONTH as the top 750 stocks by the "
+            f"TRAILING month's actual traded value from NSE's official "
+            f"bhavcopies, with hysteresis (leave only past rank 900) — "
+            f"companies that later died are IN while they traded, and "
+            f"a NEW LISTING is excluded for its FIRST THREE MONTHS, "
+            f"entering only once seasoned. ETFs and funds are excluded "
+            f"outright — stocks only. Membership gates fresh entries; "
+            f"a held position runs to its stop regardless "
+            f"(`_membership_long.csv`). Split/bonus adjustments on raw "
+            f"exchange data are heuristic, every one listed in "
+            f"`_adjustments.csv`. "
+            if (archive / "_membership_long.csv").exists() else
+            f"**Two limits that cannot be engineered away:** the "
+            f"universe is TODAY'S NiftyTotalMarket constituents "
+            f"(survivorship bias — companies that later failed or "
+            f"left the index are missing from the early years, which "
+            f"flatters results), and Yahoo serves split-adjusted "
+            f"history as it stands today. ")
+         + f"No costs where the gross run is shown, stop exits at the "
+           f"stop price, fractional shares.",
          "",
          "## The rules, exactly as the live skill prescribes", "",
          f"₹{args.capital:,.0f} starts ALL IN CASH. Every Friday after "
@@ -423,12 +466,21 @@ def main() -> None:
                     help="reuse the stored archive, never fetch")
     ap.add_argument("--end", default=None,
                     help="archive end date (default: today)")
+    ap.add_argument("--archive", default=None,
+                    help="explicit archive directory (implies no fetch); "
+                         "a _membership_long.csv inside it activates the "
+                         "rolling point-in-time radar")
     args = ap.parse_args()
 
     end = (dt.date.fromisoformat(args.end) if args.end else dt.date.today())
-    archive = (BT.window_dir(FETCH_START, end) if args.no_fetch
-               else ensure_archive(end))
-    if args.no_fetch and not (archive / "_all_daily_long.csv").exists():
+    if args.archive:
+        archive = Path(args.archive)
+    elif args.no_fetch:
+        archive = BT.window_dir(FETCH_START, end)
+    else:
+        archive = ensure_archive(end)
+    if args.no_fetch and not args.archive \
+            and not (archive / "_all_daily_long.csv").exists():
         cands = sorted((INDIA / "VolumeAndPricingBacktest").glob(
             f"{FETCH_START}_to_*"))
         if not cands:
@@ -440,16 +492,21 @@ def main() -> None:
     print(f"{len(bars_by)} symbols loaded", file=sys.stderr)
     through = max(b[-1]["date"] for b in bars_by.values())
 
+    membership = load_membership(archive)
+    if membership:
+        print(f"rolling PIT membership loaded: {len(membership)} months "
+              f"(ETFs excluded, IPOs seasoned 3 months)", file=sys.stderr)
     earnings_ok = make_earnings_ok()
     print("gross replay (no costs, no taxes)…", file=sys.stderr)
     gross = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
-                           earnings_ok, slots=SLOTS)
+                           earnings_ok, slots=SLOTS, membership=membership)
     print(f"gross: ₹{gross['final_equity']:,.2f}", file=sys.stderr)
     print("net replay (Angel One charges on every order, capital-gains "
           "tax every 1 April)…", file=sys.stderr)
     fr = FR.AngelOneFrictions()
     res = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
-                         earnings_ok, slots=SLOTS, frictions=fr)
+                         earnings_ok, slots=SLOTS, frictions=fr,
+                         membership=membership)
     try:
         nifty = fetch_nifty(dt.date.fromisoformat(SCREEN_START), end)
     except Exception as e:                # noqa: BLE001 — benchmark only

@@ -141,7 +141,7 @@ def plan_deployment(cash: float, slice_size: float,
 def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 start: str, through: str, capital: float,
                 earnings_ok, screen=None, slots: int | None = None,
-                frictions=None) -> dict:
+                frictions=None, membership: dict | None = None) -> dict:
     """The portfolio day loop.
 
     seed rows: {"symbol", "stop"} — entered at `start`'s close, one
@@ -342,7 +342,14 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         cur_slice = slice_size * (eq / capital)
         signals = []
         if cash >= cur_slice * MIN_DEPLOY_FRACTION and d != through:
+            # membership is the rolling point-in-time radar: only this
+            # month's members can be screened for fresh entries — held
+            # positions run to their stops regardless
+            allowed = (None if membership is None
+                       else membership.get(d[:7], frozenset()))
             for sym, bars in bars_by.items():
+                if allowed is not None and sym not in allowed:
+                    continue
                 if sym in positions:
                     continue
                 i = idx_by[sym].get(d)
