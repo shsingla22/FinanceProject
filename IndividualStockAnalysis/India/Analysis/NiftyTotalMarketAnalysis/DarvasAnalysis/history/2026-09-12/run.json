@@ -1,0 +1,670 @@
+{
+ "run_date": "2026-09-12",
+ "fetched_at": "2026-09-12T10:19:34+00:00",
+ "source": "backfill",
+ "recommendations": [
+  {
+   "symbol": "AWFIS",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": null,
+   "box_top": null,
+   "stop_loss": null,
+   "buy_above": null,
+   "earnings_power": "FLAT",
+   "new_age": "no"
+  },
+  {
+   "symbol": "SWANCORP",
+   "action": "SELL",
+   "downgraded": false,
+   "box_bottom": 304.0,
+   "box_top": 317.2,
+   "stop_loss": null,
+   "buy_above": null,
+   "earnings_power": "FALLING",
+   "new_age": "not assessed"
+  },
+  {
+   "symbol": "WESTLIFE",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 523.0,
+   "box_top": 582.0,
+   "stop_loss": 505.3,
+   "buy_above": 582.0,
+   "earnings_power": "FLAT",
+   "new_age": "no"
+  },
+  {
+   "symbol": "MIDHANI",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 413.1,
+   "box_top": 456.6,
+   "stop_loss": 399.99,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "yes"
+  },
+  {
+   "symbol": "GRAPHITE",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 713.0,
+   "box_top": 755.5,
+   "stop_loss": 700.19,
+   "buy_above": 755.5,
+   "earnings_power": "FALLING",
+   "new_age": "not assessed"
+  },
+  {
+   "symbol": "SHAREINDIA",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 167.2,
+   "box_top": 178.8,
+   "stop_loss": 163.7,
+   "buy_above": 178.8,
+   "earnings_power": "FALLING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "TATAINVEST",
+   "action": "SELL",
+   "downgraded": false,
+   "box_bottom": 624.9,
+   "box_top": 656.4,
+   "stop_loss": null,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "not assessed"
+  },
+  {
+   "symbol": "TEGA",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 1534.6,
+   "box_top": 1837.0,
+   "stop_loss": 1443.88,
+   "buy_above": 1837.0,
+   "earnings_power": "FALLING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "RAYMONDLSL",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 628.2,
+   "box_top": 711.6,
+   "stop_loss": 603.23,
+   "buy_above": 711.6,
+   "earnings_power": "RISING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "ONESOURCE",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 1504.1,
+   "box_top": 1551.0,
+   "stop_loss": 1490.03,
+   "buy_above": 1551.0,
+   "earnings_power": "FALLING",
+   "new_age": "yes"
+  },
+  {
+   "symbol": "PVRINOX",
+   "action": "SELL",
+   "downgraded": false,
+   "box_bottom": 1192.4,
+   "box_top": 1284.5,
+   "stop_loss": null,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "JSL",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 726.0,
+   "box_top": 741.5,
+   "stop_loss": 721.35,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "CORONA",
+   "action": "SELL",
+   "downgraded": false,
+   "box_bottom": 2035.0,
+   "box_top": 2270.1,
+   "stop_loss": null,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "SAMHI",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 150.4,
+   "box_top": 163.0,
+   "stop_loss": 146.66,
+   "buy_above": 163.0,
+   "earnings_power": "FLAT",
+   "new_age": "no"
+  },
+  {
+   "symbol": "PINELABS",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 134.7,
+   "box_top": 184.9,
+   "stop_loss": 119.67,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "yes"
+  },
+  {
+   "symbol": "ELLEN",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 308.4,
+   "box_top": 337.4,
+   "stop_loss": 299.64,
+   "buy_above": null,
+   "earnings_power": "FLAT",
+   "new_age": "no"
+  },
+  {
+   "symbol": "SHAKTIPUMP",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 465.0,
+   "box_top": 487.1,
+   "stop_loss": 458.37,
+   "buy_above": 487.1,
+   "earnings_power": "FALLING",
+   "new_age": "yes"
+  },
+  {
+   "symbol": "SFL",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 627.8,
+   "box_top": 717.9,
+   "stop_loss": 600.78,
+   "buy_above": 717.9,
+   "earnings_power": "RISING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "BLACKBUCK",
+   "action": "ACCUMULATE",
+   "downgraded": false,
+   "box_bottom": 570.1,
+   "box_top": 641.9,
+   "stop_loss": 548.56,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "yes"
+  },
+  {
+   "symbol": "GRANULES",
+   "action": "ACCUMULATE",
+   "downgraded": false,
+   "box_bottom": 824.4,
+   "box_top": 910.0,
+   "stop_loss": 798.72,
+   "buy_above": null,
+   "earnings_power": "RISING",
+   "new_age": "entering"
+  },
+  {
+   "symbol": "HERITGFOOD",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 349.3,
+   "box_top": 392.1,
+   "stop_loss": 336.46,
+   "buy_above": 392.1,
+   "earnings_power": "FALLING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "STAR",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 931.3,
+   "box_top": 1019.7,
+   "stop_loss": 904.78,
+   "buy_above": 1019.7,
+   "earnings_power": "FALLING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "MAHSEAMLES",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 632.0,
+   "box_top": 658.9,
+   "stop_loss": 623.93,
+   "buy_above": 658.9,
+   "earnings_power": "FALLING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "ZYDUSWELL",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 518.1,
+   "box_top": 541.5,
+   "stop_loss": 511.13,
+   "buy_above": 541.5,
+   "earnings_power": "FALLING",
+   "new_age": "no"
+  },
+  {
+   "symbol": "DBL",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 390.1,
+   "box_top": 411.0,
+   "stop_loss": 383.89,
+   "buy_above": 411.0,
+   "earnings_power": "FALLING",
+   "new_age": "no"
+  }
+ ],
+ "actions": {
+  "buys": [
+   {
+    "symbol": "MIDHANI",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 399.99,
+    "last_close": null,
+    "risk_pct": null,
+    "wide": false
+   },
+   {
+    "symbol": "JSL",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 721.35,
+    "last_close": null,
+    "risk_pct": null,
+    "wide": false
+   },
+   {
+    "symbol": "PINELABS",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 119.67,
+    "last_close": null,
+    "risk_pct": null,
+    "wide": false
+   },
+   {
+    "symbol": "ELLEN",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 299.64,
+    "last_close": null,
+    "risk_pct": null,
+    "wide": false
+   },
+   {
+    "symbol": "BLACKBUCK",
+    "action": "ACCUMULATE",
+    "entry": "buy at next open",
+    "stop_loss": 548.56,
+    "last_close": null,
+    "risk_pct": null,
+    "wide": false
+   },
+   {
+    "symbol": "GRANULES",
+    "action": "ACCUMULATE",
+    "entry": "buy at next open",
+    "stop_loss": 798.72,
+    "last_close": null,
+    "risk_pct": null,
+    "wide": false
+   }
+  ],
+  "raises": [],
+  "sells": [
+   {
+    "symbol": "CORONA"
+   },
+   {
+    "symbol": "PVRINOX"
+   },
+   {
+    "symbol": "SWANCORP"
+   },
+   {
+    "symbol": "TATAINVEST"
+   }
+  ],
+  "radar": [
+   {
+    "symbol": "AWFIS",
+    "buy_above": null
+   },
+   {
+    "symbol": "WESTLIFE",
+    "buy_above": 582.0
+   },
+   {
+    "symbol": "GRAPHITE",
+    "buy_above": 755.5
+   },
+   {
+    "symbol": "SHAREINDIA",
+    "buy_above": 178.8
+   },
+   {
+    "symbol": "TEGA",
+    "buy_above": 1837.0
+   },
+   {
+    "symbol": "RAYMONDLSL",
+    "buy_above": 711.6
+   },
+   {
+    "symbol": "ONESOURCE",
+    "buy_above": 1551.0
+   },
+   {
+    "symbol": "SAMHI",
+    "buy_above": 163.0
+   },
+   {
+    "symbol": "SHAKTIPUMP",
+    "buy_above": 487.1
+   },
+   {
+    "symbol": "SFL",
+    "buy_above": 717.9
+   },
+   {
+    "symbol": "HERITGFOOD",
+    "buy_above": 392.1
+   },
+   {
+    "symbol": "STAR",
+    "buy_above": 1019.7
+   },
+   {
+    "symbol": "MAHSEAMLES",
+    "buy_above": 658.9
+   },
+   {
+    "symbol": "ZYDUSWELL",
+    "buy_above": 541.5
+   },
+   {
+    "symbol": "DBL",
+    "buy_above": 411.0
+   }
+  ],
+  "downgraded": []
+ },
+ "ledger": [
+  {
+   "symbol": "AWFIS",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "",
+   "box_top": "",
+   "stop_loss": "",
+   "last_close": "293.2",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "BLACKBUCK",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": "570.1",
+   "box_top": "641.9",
+   "stop_loss": "548.56",
+   "last_close": "628.15",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "CORONA",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "2035.0",
+   "box_top": "2270.1001",
+   "stop_loss": "",
+   "last_close": "2236.1001",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "DBL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "390.15",
+   "box_top": "411.0",
+   "stop_loss": "383.89",
+   "last_close": "403.35",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "ELLEN",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "308.35",
+   "box_top": "337.4",
+   "stop_loss": "299.64",
+   "last_close": "380.2",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "GRANULES",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": "824.4",
+   "box_top": "910.0",
+   "stop_loss": "798.72",
+   "last_close": "909.3",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "GRAPHITE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "712.95",
+   "box_top": "755.5",
+   "stop_loss": "700.19",
+   "last_close": "825.8",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "HERITGFOOD",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "349.3",
+   "box_top": "392.1",
+   "stop_loss": "336.46",
+   "last_close": "417.4",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "JSL",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "726.0",
+   "box_top": "741.5",
+   "stop_loss": "721.35",
+   "last_close": "756.1",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "MAHSEAMLES",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "632.0",
+   "box_top": "658.9",
+   "stop_loss": "623.93",
+   "last_close": "728.9",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "MIDHANI",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "413.05",
+   "box_top": "456.6",
+   "stop_loss": "399.99",
+   "last_close": "447.4",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "ONESOURCE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "1504.1",
+   "box_top": "1551.0",
+   "stop_loss": "1490.03",
+   "last_close": "1592.2",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "PINELABS",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": "134.73",
+   "box_top": "184.94",
+   "stop_loss": "119.67",
+   "last_close": "202.17",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "PVRINOX",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "1192.4",
+   "box_top": "1284.5",
+   "stop_loss": "",
+   "last_close": "1237.1",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "RAYMONDLSL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "628.25",
+   "box_top": "711.65",
+   "stop_loss": "603.23",
+   "last_close": "692.0",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "SAMHI",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "150.43",
+   "box_top": "162.99",
+   "stop_loss": "146.66",
+   "last_close": "157.07",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "SFL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "627.8",
+   "box_top": "717.85",
+   "stop_loss": "600.78",
+   "last_close": "691.55",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "SHAKTIPUMP",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "465.0",
+   "box_top": "487.1",
+   "stop_loss": "458.37",
+   "last_close": "493.8",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "SHAREINDIA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "167.2",
+   "box_top": "178.85",
+   "stop_loss": "163.7",
+   "last_close": "198.93",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "STAR",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "931.3",
+   "box_top": "1019.7",
+   "stop_loss": "904.78",
+   "last_close": "1183.4",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "SWANCORP",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "304.0",
+   "box_top": "317.2",
+   "stop_loss": "",
+   "last_close": "296.45",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "TATAINVEST",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "624.9",
+   "box_top": "656.4",
+   "stop_loss": "",
+   "last_close": "650.9",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "TEGA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "1534.6",
+   "box_top": "1837.0",
+   "stop_loss": "1443.88",
+   "last_close": "1729.1",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "WESTLIFE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "523.0",
+   "box_top": "582.0",
+   "stop_loss": "505.3",
+   "last_close": "569.6",
+   "updated": "2026-09-12"
+  },
+  {
+   "symbol": "ZYDUSWELL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "518.15",
+   "box_top": "541.55",
+   "stop_loss": "511.13",
+   "last_close": "552.0",
+   "updated": "2026-09-12"
+  }
+ ]
+}

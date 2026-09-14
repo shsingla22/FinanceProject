@@ -316,3 +316,11 @@ a.chip { line-height: 1.4; }
 .rel-key { display: inline-flex; align-items: center; gap: 6px; font-size: 13px;
   color: var(--text-secondary); }
 .rel-key i { width: 12px; height: 3px; border-radius: 2px; display: inline-block; }
+
+/* ---- Darvas weekly screen: the four verbs ---- */
+.verb { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 12px; font-weight: 700; letter-spacing: .02em; }
+.verb.buy { background: #e6f7ec; color: #137333; }
+.verb.sell { background: #fde8e8; color: #b3261e; }
+.verb.raise { background: #e8f0fe; color: #1a56db; }
+.verb.watch { background: #f1f3f4; color: #5f6368; }
+.darvas-status { min-height: 1.4em; }

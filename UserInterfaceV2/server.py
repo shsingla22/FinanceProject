@@ -37,6 +37,7 @@ import os
 import re
 import shutil
 import subprocess
+import sys
 import threading
 import time
 import urllib.request
@@ -684,4 +685,50 @@ def job_status(kind: str, job_id: str):
 
 
 # static frontend last, so /api/* wins
+
+# ---------------------------------------------------------- Darvas screen
+# The weekly box-method screen (the DarvasSkill) — one door, ui_bridge:
+# the page renders the SAME machine-readable record the report was
+# written from, the report downloads as exact bytes, the trace comes
+# from the archived runs, and "run" starts the real engine in the
+# background with a status the page polls (no long request to time out).
+sys.path.insert(0, str(INDIA / "Skills" / "DarvasSkill" / "scripts"))
+import ui_bridge as DB                       # noqa: E402
+
+DARVAS_QUICK_DEFAULT = 1
+
+
+@app.get("/api/darvas/latest")
+def darvas_latest():
+    rec = DB.latest()
+    if rec is None:
+        raise HTTPException(404, "no Darvas run stored yet — run the screen")
+    return rec
+
+
+@app.get("/api/darvas/report")
+def darvas_report():
+    md = DB.report_md()
+    if md is None:
+        raise HTTPException(404, "no Darvas report stored yet")
+    return Response(md, media_type="text/markdown; charset=utf-8",
+                    headers={"Content-Disposition":
+                             'attachment; filename="DARVAS_REPORT.md"'})
+
+
+@app.get("/api/darvas/trace")
+def darvas_trace(days: int = 31):
+    return DB.trace(max(1, min(int(days), 400)))
+
+
+@app.post("/api/darvas/run")
+def darvas_run(quick: int = DARVAS_QUICK_DEFAULT):
+    return DB.start_run(quick=bool(quick))
+
+
+@app.get("/api/darvas/run/status")
+def darvas_run_status():
+    return DB.run_status()
+
+
 app.mount("/", StaticFiles(directory=str(HERE), html=True), name="ui")
