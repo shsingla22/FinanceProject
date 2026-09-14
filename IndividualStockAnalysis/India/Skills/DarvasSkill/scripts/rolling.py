@@ -214,6 +214,11 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     pending: list[dict] = []
     pending_pyramids: list[str] = []
     injections: list[tuple[str, float]] = []
+    pocket = 0.0                 # recycled doubling capital, held idle
+    pocket_used = 0.0
+    pyr_spend = 0.0
+    starve: dict[str, int] = {}  # times a qualified signal went unfunded
+    pfr = FR.AngelOneFrictions() if (frictions and pyramid) else None
     blotter: list[tuple] = []
     equity_curve: list[dict] = []
     closed: list[dict] = []
@@ -233,6 +238,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     def open_position(sym, d, px, amt, stop, why):
         nonlocal cash
         cash -= amt
+        starve.pop(sym, None)        # funded — priority resets to normal
         if frictions:
             notional, charge = frictions.buy_split(amt, d)
         else:
@@ -248,14 +254,23 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                                 f"({why}; stop ₹{stop:,.2f}{extra})"))
 
     def add_to_position(sym, d, px, amt, why):
-        """The pyramid add-on: NEW EXTERNAL capital — the portfolio's
-        cash is never touched, the injection is logged for the XIRR —
-        as a NEW LOT with its own date, price and tax clock. The
-        blended entry price is kept for the blotter and returns."""
+        """The pyramid add-on: funded from the DOUBLING POCKET first
+        (capital recycled from earlier pyramid exits and its returns),
+        with fresh external money only for the shortfall — that fresh
+        part alone is an injection for the XIRR. A NEW LOT with its
+        own date, price and tax clock; the blended entry price is kept
+        for the blotter and returns."""
+        nonlocal pocket, pocket_used, pyr_spend
         p = positions[sym]
-        injections.append((d, amt))
-        if frictions:
-            notional, charge = frictions.buy_split(amt, d)
+        draw = min(pocket, amt)
+        fresh = amt - draw
+        pocket -= draw
+        pocket_used += draw
+        pyr_spend += amt
+        if fresh > 1e-9:
+            injections.append((d, fresh))
+        if pfr:
+            notional, charge = pfr.buy_split(amt, d)
         else:
             notional, charge = amt, 0.0
         p["lots"].append({"date": d, "px": px, "shares": notional / px})
@@ -263,32 +278,52 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         p["cost"] += amt
         p["entry_px"] = (sum(l["px"] * l["shares"] for l in p["lots"])
                          / p["shares"])
-        extra = f"; charges {inr(charge)}" if frictions else ""
+        extra = f"; charges {inr(charge)}" if pfr else ""
+        src = (f"; funded {inr(draw)} from the pocket + {inr(fresh)} "
+               f"fresh" if draw > 1e-9 else "")
         blotter.append((d, sym, f"PYRAMID BUY {inr(amt)} at ₹{px:,.2f} "
                                 f"({why}; stop stays ₹{p['stop']:,.2f}"
-                                f"{extra})"))
+                                f"{src}{extra})"))
 
     def close_position(sym, d, exit_px, reason):
-        nonlocal cash
+        """A sale splits by lot provenance: the INITIAL lot's proceeds
+        (the original capital and ITS returns) go back to the
+        portfolio's cash; every PYRAMID lot's proceeds (the doubled
+        capital and ITS returns) go OUT to the doubling pocket, ready
+        to fund later doubles — the extra capital never balloons the
+        trading book. Charges and tax follow the same split."""
+        nonlocal cash, pocket
         p = positions[sym]
-        gross = p["shares"] * exit_px
-        if frictions:
-            proceeds, charge = frictions.sell_split(gross, d)
-            for lot in p["lots"]:                # each lot's own tax clock
-                frictions.on_sale(lot["date"], d, lot["px"],
-                                  exit_px, lot["shares"])
-        else:
-            proceeds, charge = gross, 0.0
+        to_cash = to_pocket = charge_tot = 0.0
+        for k, lot in enumerate(p["lots"]):
+            gross = lot["shares"] * exit_px
+            fr_o = frictions if k == 0 else pfr
+            if fr_o:
+                proceeds, charge = fr_o.sell_split(gross, d)
+                fr_o.on_sale(lot["date"], d, lot["px"], exit_px,
+                             lot["shares"])
+                charge_tot += charge
+            else:
+                proceeds = gross
+            if k == 0:
+                cash += proceeds
+                to_cash = proceeds
+            else:
+                pocket += proceeds
+                to_pocket += proceeds
         ret = (exit_px - p["entry_px"]) / p["entry_px"] * 100
-        cash += proceeds
         closed.append({"symbol": sym, **p, "exit_date": d,
-                       "exit_px": exit_px, "proceeds": proceeds,
+                       "exit_px": exit_px,
+                       "proceeds": to_cash + to_pocket,
                        "ret_pct": ret})
-        extra = f", charges {inr(charge)}" if frictions else ""
-        blotter.append((d, sym, f"SELL {inr(proceeds)} at {reason} "
-                                f"₹{exit_px:,.2f} ({ret:+.1f}%{extra}) — "
-                                f"the cash goes back to work at the next "
-                                f"Friday screen"))
+        extra = f", charges {inr(charge_tot)}" if frictions else ""
+        split = (f"; {inr(to_pocket)} of doubled capital and its "
+                 f"returns OUT to the pocket" if to_pocket > 1e-9 else "")
+        blotter.append((d, sym, f"SELL {inr(to_cash + to_pocket)} at "
+                                f"{reason} ₹{exit_px:,.2f} "
+                                f"({ret:+.1f}%{extra}) — the cash goes "
+                                f"back to work at the next Friday screen"
+                                f"{split}"))
         del positions[sym]
 
     def pay_tax(d):
@@ -296,7 +331,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         ended on 31 March settles, paid from cash — and if the cash is
         short, positions are trimmed proportionally at today's prices
         (those trims are next year's realised gains)."""
-        nonlocal cash, next_tax
+        nonlocal cash, next_tax, pocket
         fy = f"FY{int(next_tax[:4])}"
         r = frictions.settle_fy(fy, d)
         tax = r["tax"]
@@ -331,6 +366,19 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                         f"{inr(r['lt_taxable'])} @12.5%; losses carried "
                         f"forward ST {inr(r['cf_st'])} / LT "
                         f"{inr(r['cf_lt'])})"))
+        if pfr is not None:
+            rp = pfr.settle_fy(fy, d)
+            if rp["tax"] > 0:
+                short = max(0.0, rp["tax"] - pocket)
+                if short > 1e-9:         # topped up from outside — XIRR
+                    injections.append((d, short))
+                    pocket += short
+                pocket -= rp["tax"]
+                blotter.append((d, "TAX",
+                                f"{fy} pocket settled: {inr(rp['tax'])} "
+                                f"paid from the doubling pocket (STCG "
+                                f"{inr(rp['st_taxable'])} @20%, LTCG "
+                                f"{inr(rp['lt_taxable'])} @12.5%)"))
         next_tax = FR.next_april_first(d)
 
     # ---- the seed book: same day, same prices as the frozen replay
@@ -381,8 +429,10 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             cur_slice = slice_size * (eq / capital)
             plan = plan_deployment(cash, cur_slice, 1)
             if not plan:
-                blotter.append((d, sym, "signal SKIPPED — cash below half "
-                                        "a slice"))
+                starve[sym] = starve.get(sym, 0) + 1
+                blotter.append((d, sym, f"signal SKIPPED — cash below "
+                                        f"half a slice (funding priority "
+                                        f"now {starve[sym]})"))
                 continue
             px = bar["open"] or bar["close"]
             open_position(sym, d, px, plan[0], sig["stop"],
@@ -451,23 +501,36 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                     blotter.append((d, sym, "fresh signal REFUSED — "
                                             "falling earnings power"))
                     continue
+                prio = starve.get(sym, 0)
                 signals.append({
-                    "symbol": sym, "stop": hit["stop"],
-                    "mult": hit["volume_multiple"],
-                    "note": f"{hit['action']}: {hit['volume_multiple']:.2f}× "
-                            f"weekly, month {hit['month_multiple']:.2f}×, "
-                            f"ladder rising"})
-            signals.sort(key=lambda s: -s["mult"])
+                    "symbol": sym, "stop": hit["stop"], "prio": prio,
+                    "note": (f"starved {prio}×, front of the queue — "
+                             if prio else "")
+                            + f"{hit['action']}: "
+                              f"{hit['volume_multiple']:.2f}× weekly, "
+                              f"month {hit['month_multiple']:.2f}×, "
+                              f"ladder rising",
+                    "mult": hit["volume_multiple"]})
+            # the starvation queue: a stock the screens keep flagging
+            # but the cash never reaches climbs the queue each time,
+            # and drops back to normal the moment it is funded
+            signals.sort(key=lambda s: (-s["prio"], -s["mult"]))
             n_fundable = len(plan_deployment(cash, cur_slice, len(signals)))
             pending = signals[:n_fundable]
             for s in signals[n_fundable:]:
+                starve[s["symbol"]] = starve.get(s["symbol"], 0) + 1
                 blotter.append((d, s["symbol"],
                                 f"fresh signal NOT FUNDED — cash exhausted "
-                                f"({s['note']})"))
-        equity_curve.append({"date": d, "equity": round(eq, 2),
+                                f"({s['note']}; funding priority now "
+                                f"{starve[s['symbol']]})"))
+        # the curve records the WHOLE system's value — portfolio plus
+        # the idle doubling pocket — so a sale that routes capital out
+        # to the pocket never reads as a loss
+        equity_curve.append({"date": d, "equity": round(eq + pocket, 2),
                              "cash": round(cash, 2),
                              "positions": len(positions),
                              "queued": len(pending),
+                             "pocket": round(pocket, 2),
                              "injected": round(sum(a for _, a
                                                    in injections), 2)})
 
@@ -483,7 +546,9 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             "cash": cash, "book": book, "closed": closed,
             "injections": injections,
             "total_injected": sum(a for _, a in injections),
-            "final_equity": cash + sum(b["value"] for b in book)}
+            "pocket_cash": pocket, "pocket_used": pocket_used,
+            "pyr_spend": pyr_spend, "pocket_frictions": pfr,
+            "final_equity": cash + pocket + sum(b["value"] for b in book)}
 
 
 # ------------------------------------------------------------------ main

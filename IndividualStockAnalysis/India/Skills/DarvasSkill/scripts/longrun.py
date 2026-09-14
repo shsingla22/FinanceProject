@@ -384,27 +384,36 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
          f"capital and money freed by sales — **never more than one "
          f"tenth of total capital per first entry** (sell a stock "
          f"worth 40% of the book and it takes four fresh names to "
-         f"redeploy it), best volume reaction first, at the next "
-         f"trading day's open, falling earnings power refused, "
-         f"nothing below half a slice. Stops (box bottom − "
+         f"redeploy it), at the next trading day's open, falling "
+         f"earnings power refused, nothing below half a slice. "
+         f"**Funding order:** a fully-qualified signal the cash never "
+         f"reached climbs the queue each time it is starved and goes "
+         f"to the FRONT ahead of louder newcomers, resetting to normal "
+         f"once funded — so a steady climber flagged week after week "
+         f"can no longer be outbid forever by one-week volume spikes; "
+         f"fresh names rank by volume reaction. Stops (box bottom − "
          f"max(0.3×height, 5% of bottom)) are checked daily, ratcheted "
          f"up weekly, and only the stop itself exits. When nothing "
          f"qualifies, the cash stays cash.", "",
          f"**Engine A — no doubling.** Exactly the rules above, "
          f"nothing else.", "",
-         f"**Engine B — doubling with NEW capital, 3× cap.** On EVERY "
-         f"box jump upward (each weekly stop ratchet), the stake is "
-         f"doubled with FRESH MONEY from outside the portfolio, equal "
-         f"to the position's market value, at the next day's open — "
-         f"but AT MOST THREE TIMES per position (8× the first slice), "
-         f"so the capital the rule demands stays realistic. The new "
-         f"money never touches the portfolio's cash — fresh entries "
-         f"are never starved — and every injection is dated and "
-         f"logged, so the honest yardstick is the money-weighted "
-         f"return (XIRR), not a naive multiple. Each add-on is its own "
-         f"tax lot on its own holding clock; the ratcheted stop covers "
-         f"the whole enlarged position; a jump past the cap is logged, "
-         f"never doubled.", "",
+         f"**Engine B — doubling with a RECYCLING POCKET, 3× cap.** On "
+         f"EVERY box jump upward (each weekly stop ratchet), the stake "
+         f"is doubled at the next day's open — at most THREE times per "
+         f"position (8× the first slice). The doubling money lives in "
+         f"its own POCKET, outside the trading book: when a doubled "
+         f"position sells, the pyramid lots' capital AND their returns "
+         f"go OUT to the pocket (only the initial slice and its "
+         f"returns stay in the portfolio, so the trading book can "
+         f"never balloon), and later doubles draw the pocket FIRST — "
+         f"fresh outside money enters only for the shortfall, each "
+         f"such injection dated and logged, so the honest yardstick "
+         f"is the money-weighted return (XIRR) and the capital "
+         f"requirement stays bounded. Each add-on is its own tax lot "
+         f"on its own holding clock (the pocket pays tax on its own "
+         f"gains); the ratcheted stop covers the whole enlarged "
+         f"position; a jump past the cap is logged, never doubled.",
+         "",
          "## The headline — XIRR is the honest yardstick", "",
          "| Engine | Money put in | Final value | XIRR (per year) |",
          "|---|---:|---:|---:|",
@@ -436,10 +445,14 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
           f"{inr(acc['plain']['tax'])}; unrealised gains in both end "
           f"books carry further deferred liabilities.*", "",
           f"{days / 365.25:.2f} years, {len(curve)} weekly screens. "
-          f"Engine B injected new capital {len(pyr['injections'])} "
-          f"times (gross run: {len(runs['pyr_gross']['injections'])}); "
-          f"the complete dated injection list is in the blotter and "
-          f"the events CSV.", ""]
+          f"Engine B's total doubling spend was "
+          f"{inr(pyr['pyr_spend'])}: the pocket recycled "
+          f"{inr(pyr['pocket_used'])} of it, and only "
+          f"{inr(pyr['total_injected'])} was fresh outside money "
+          f"across {len(pyr['injections'])} dated injections (all in "
+          f"the blotter and events CSV). The pocket holds "
+          f"{inr(pyr['pocket_cash'])} at the end, counted in the "
+          f"final value.", ""]
 
     A += ["## What the frictions took (net runs)", "",
           "| | Engine A: no doubling | Engine B: doubling |",
@@ -461,18 +474,22 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
           "cannot scale to a normalised ₹100 and are excluded "
           "(under 0.03% of a trade on a ₹1-lakh+ account).*", ""]
 
-    for label, key in (("Engine B (doubling)", "pyr"),
-                       ("Engine A (no doubling)", "plain")):
+    ledgers = [("Engine B (doubling) — portfolio book", frs["pyr"]),
+               ("Engine A (no doubling)", frs["plain"])]
+    if pyr.get("pocket_frictions") is not None:
+        ledgers.insert(1, ("Engine B — the doubling pocket's own book",
+                           pyr["pocket_frictions"]))
+    for label, fr_o in ledgers:
         A += [f"### Tax ledger — {label}", "",
               "| Fiscal year | Settled on | STCG @20% | LTCG @12.5% | "
               "Tax paid | Losses c/f (ST / LT) |",
               "|---|---|---:|---:|---:|---:|"]
-        for t in frs[key].tax_rows:
+        for t in fr_o.tax_rows:
             A.append(f"| {t['fy']} | {t['paid_on']} | "
                      f"{inr(t['st_taxable'])} | {inr(t['lt_taxable'])} "
                      f"| {inr(t['tax'])} | {inr(t['cf_st'])} / "
                      f"{inr(t['cf_lt'])} |")
-        a = acc[key]
+        a = fr_o.accrued()
         A += [f"| Final part-year (accrued) | — | {inr(a['st_taxable'])} "
               f"| {inr(a['lt_taxable'])} | {inr(a['tax'])} | "
               f"{inr(a['cf_st'])} / {inr(a['cf_lt'])} |", ""]
@@ -536,9 +553,11 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
           f"qualifies, the money waits.", ""]
 
     A += ["## Monthly equity curve (net runs)", "",
-          "| Month-end screen | B equity | B injected so far | "
-          "B cash | B positions | A equity |",
-          "|---|---:|---:|---:|---:|---:|"]
+          "*B equity counts the whole system — trading book plus the "
+          "idle doubling pocket (shown separately).*", "",
+          "| Month-end screen | B equity | B pocket | B injected so "
+          "far | B cash | B positions | A equity |",
+          "|---|---:|---:|---:|---:|---:|---:|"]
     plain_by_month: dict[str, dict] = {}
     for w in plain["equity_curve"]:
         plain_by_month[w["date"][:7]] = w
@@ -548,6 +567,7 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
     for m, w in sorted(last_in_month.items()):
         pw = plain_by_month.get(m)
         A.append(f"| {w['date']} | {inr(w['equity'])} | "
+                 f"{inr(w.get('pocket', 0))} | "
                  f"{inr(w['injected'])} | {inr(w['cash'])} | "
                  f"{w['positions']} | "
                  f"{inr(pw['equity']) if pw else '—'} |")

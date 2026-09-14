@@ -1161,10 +1161,21 @@ def test_pyramid_lots_are_taxed_each_on_its_own_clock():
     assert len(res["closed"]) == 1
     c = res["closed"][0]
     assert len(c["lots"]) == 3
-    expect = sum((c["exit_px"] - l["px"]) * l["shares"] for l in c["lots"])
-    assert sum(f.st_by_fy.values()) == pytest.approx(expect)
-    assert not f.lt_by_fy, "every lot was held under a year"
-    assert res["final_equity"] == pytest.approx(res["cash"])
+    # provenance split: the INITIAL lot's gain is the portfolio's tax
+    # affair; the PYRAMID lots' gains belong to the doubling pocket
+    lot0, pyr_lots = c["lots"][0], c["lots"][1:]
+    expect0 = (c["exit_px"] - lot0["px"]) * lot0["shares"]
+    expect_p = sum((c["exit_px"] - l["px"]) * l["shares"]
+                   for l in pyr_lots)
+    assert sum(f.st_by_fy.values()) == pytest.approx(expect0)
+    pfr = res["pocket_frictions"]
+    assert sum(pfr.st_by_fy.values()) == pytest.approx(expect_p)
+    assert not f.lt_by_fy and not pfr.lt_by_fy
+    # the sale routed the doubled capital OUT: proceeds split between
+    # the portfolio's cash and the pocket, and the books still balance
+    assert res["pocket_cash"] > 0
+    assert res["final_equity"] == pytest.approx(
+        res["cash"] + res["pocket_cash"])
 
 
 def test_xirr_matches_cagr_when_there_are_no_injections():
@@ -1299,3 +1310,77 @@ def test_membership_gates_fresh_entries_but_never_held_positions():
                           lambda s, d: True, screen=stub, slots=3,
                           membership=membership2)
     assert [b for b in res2["blotter"] if b[1] == "BBB" and "BUY" in b[2]]
+
+
+# ------------------- the doubling pocket and the starvation queue
+
+def test_pocket_recycles_sold_pyramid_capital_into_later_doubles():
+    # AAA climbs, doubles twice, then slides out — its pyramid capital
+    # and returns land in the pocket; BBB climbs LATER, and its doubles
+    # draw the pocket before any fresh rupee comes in
+    aaa = _box_bars(CLIMB_3_BOXES[:-10]
+                    + [(69, 64, 68)] * 3
+                    + [(60, 55, 56), (56, 52, 53), (53, 50, 51)]
+                    + [(52, 50, 51)] * 4, sym="AAA")
+    flat = [(51.0, 49.0, 50.0)] * 35
+    bbb = _box_bars(flat + CLIMB_3_BOXES, sym="BBB")
+    res = RL.run_rolling({"AAA": aaa, "BBB": bbb},
+                         [{"symbol": "AAA", "stop": 47.5},
+                          {"symbol": "BBB", "stop": 47.5}],
+                         "2026-01-02", bbb[-1]["date"], 100.0,
+                         lambda s, d: True, screen=lambda b, d: None,
+                         slots=4, pyramid=True)
+    text = [b[2] for b in sorted(res["blotter"])]
+    # AAA's exit sent its doubled capital OUT to the pocket
+    assert any("OUT to the pocket" in w for w in text)
+    # BBB's later doublings drew the pocket first
+    assert any("funded" in w and "from the pocket" in w for w in text)
+    # fresh money = total doubling spend − what the pocket covered
+    assert res["pocket_used"] > 0
+    assert res["total_injected"] == pytest.approx(
+        res["pyr_spend"] - res["pocket_used"])
+    # and the final value counts portfolio AND pocket, to the paisa
+    assert res["final_equity"] == pytest.approx(
+        res["cash"] + res["pocket_cash"]
+        + sum(b["value"] for b in res["book"]))
+
+
+def test_starved_signals_climb_the_queue_and_reset_when_funded():
+    # cash for ONE slice; every Friday a NEW loud one-off spiker
+    # competes with the same quiet stock T (1.6x). Loudest-first would
+    # starve T forever; the priority queue funds it on its second try.
+    days = 40
+    world = {s: _roll_bars(s, [50.0] * days)
+             for s in ("T", "L2", "L3")}
+    # L1 wins week 1 then stops out midweek, freeing the cash
+    world["L1"] = _roll_bars("L1", [50.0] * 3 + [44.0] * (days - 3))
+    fridays = []
+    d0 = dt.date(2026, 1, 2)
+    for i in range(4):
+        fridays.append((d0 + dt.timedelta(days=7 * i)).isoformat())
+
+    def stub(bars_upto, day):
+        sym = bars_upto[-1]["symbol"]
+        di = day.isoformat()
+        if di == fridays[0] and sym in ("T", "L1"):
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 9.0 if sym == "L1" else 1.6,
+                    "month_multiple": 2.0}
+        if di == fridays[1] and sym in ("T", "L2"):
+            return {"action": "BUY", "stop": 45.0,
+                    "volume_multiple": 9.0 if sym == "L2" else 1.6,
+                    "month_multiple": 2.0}
+        return None
+
+    res = RL.run_rolling(world, [], "2026-01-02", world["T"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub,
+                         slots=1, membership=None)
+    text = sorted(res["blotter"])
+    # week 1: the spiker wins, T is starved and its priority rises
+    assert any(b[1] == "L1" and "BUY ₹" in b[2] for b in text)
+    starved = [b for b in text if b[1] == "T" and "NOT FUNDED" in b[2]]
+    assert len(starved) == 1 and "funding priority now 1" in starved[0][2]
+    # week 2: T outranks the louder L2 BECAUSE it was starved
+    t_buy = [b for b in text if b[1] == "T" and "BUY ₹" in b[2]]
+    assert t_buy and "starved 1×, front of the queue" in t_buy[0][2]
+    assert any(b[1] == "L2" and "NOT FUNDED" in b[2] for b in text)

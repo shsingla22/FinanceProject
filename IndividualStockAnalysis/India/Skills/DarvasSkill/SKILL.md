@@ -69,20 +69,27 @@ license: internal
    box bottom = SELL — the red flag; a stock dropping to a lower box is
    sold, never averaged. **Pyramiding (the doubling engine, optional):**
    once invested, on EVERY box jump upward without the stop being hit,
-   the stake is DOUBLED with NEW EXTERNAL capital equal to the
-   position's current market value, at the next day's open (₹10 that
-   has grown to ₹13 gets ₹13 more of fresh money) — **at most THREE
-   doublings per position** (8× the first slice), the cap that keeps
-   the rule fundable instead of exponential. The new money never
-   touches the portfolio's cash — entries into new stocks use only the
-   original capital and sale proceeds, each first entry capped at one
-   tenth of total capital — so doubling can never starve fresh
-   signals. Every injection is dated and logged, and performance is
-   judged by the money-weighted XIRR, never a naive multiple. Each
-   add-on is its own tax lot with its own holding clock, and the
-   ratcheted stop covers the whole enlarged position. The engine
-   WITHOUT doubling is kept alongside, and the long-run report shows
-   both.
+   the stake is DOUBLED at the next day's open (₹10 that has grown to
+   ₹13 gets ₹13 more) — **at most THREE doublings per position** (8×
+   the first slice). The doubling money lives in its own POCKET,
+   outside the trading book: when a doubled position sells, the
+   pyramid lots' capital AND their returns go OUT to the pocket (only
+   the initial slice and its returns stay in the portfolio — the
+   trading book can never balloon), and later doubles draw the pocket
+   FIRST, with fresh outside money only for the shortfall. Every fresh
+   injection is dated and logged and performance is judged by the
+   money-weighted XIRR, never a naive multiple. Each add-on is its own
+   tax lot with its own holding clock and the pocket pays tax on its
+   own gains; the ratcheted stop covers the whole enlarged position.
+   The engine WITHOUT doubling is kept alongside, and the long-run
+   report shows both.
+   **The funding queue:** when several fully-qualified signals compete
+   for limited cash, fresh names rank by volume reaction — but a
+   signal the cash never reached climbs the queue each time it is
+   starved and goes to the FRONT ahead of louder newcomers, resetting
+   the moment it is funded. A steady climber the screens flag week
+   after week (a TD Power) can no longer be outbid forever by
+   one-week volume spikes.
 
 5. **Stop losses, the grace, and the rhythm.** stop = box bottom −
    max(0.3 × box height, **5% of the bottom**): the stock's own range
