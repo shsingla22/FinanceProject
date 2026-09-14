@@ -284,41 +284,36 @@ def _write_events_csv(path: Path, res: dict) -> None:
             w.writerow([d, sym, what])
 
 
-def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
+def write_report(runs: dict, fr, args, through: str, nifty: list,
                  archive: Path, n_syms: int) -> Path:
     tag = f"{args.screen_start}_to_{through}"
     report = OUT_DIR / f"DARVAS_BACKTEST_LONGRUN_{tag}.md"
-    pyr, plain = runs["pyr_net"], runs["plain_net"]
-    _write_events_csv(OUT_DIR / f"_longrun_events_{tag}.csv", pyr)
-    _write_events_csv(OUT_DIR / f"_longrun_events_{tag}_no_doubling.csv",
-                      plain)
+    res, gross = runs["net"], runs["gross"]
+    _write_events_csv(OUT_DIR / f"_longrun_events_{tag}.csv", res)
 
-    curve = pyr["equity_curve"]
+    curve = res["equity_curve"]
     start_d = curve[0]["date"]
     days = (dt.date.fromisoformat(through)
             - dt.date.fromisoformat(start_d)).days
-
-    def flows_of(res):
-        return ([(start_d, -args.capital)]
-                + [(d, -a) for d, a in res["injections"]]
-                + [(through, res["final_equity"])])
-
-    X = {k: xirr(flows_of(r)) for k, r in runs.items()}
-    acc = {k: frs[k].accrued() for k in frs}
+    cagr = _cagr(res["final_equity"], args.capital, days)
+    gross_cagr = _cagr(gross["final_equity"], args.capital, days)
+    accrued = fr.accrued()
+    truly_net = res["final_equity"] - accrued["tax"]
 
     n0 = next((c for d0, c in nifty if d0 >= start_d), None)
     n1 = nifty[-1][1] if nifty else None
     nifty_100 = 100 * n1 / n0 if n0 else None
-    nifty_xirr = xirr([(start_d, -100.0), (through, nifty_100)]) \
-        if n0 else None
+    nifty_cagr = _cagr(n1, n0, days) if n0 else None
     nifty_by_date = dict(nifty)
 
-    closed = pyr["closed"]
+    closed = res["closed"]
     wins = [c for c in closed if c["ret_pct"] > 0]
     hold_days = [(dt.date.fromisoformat(c["exit_date"])
                   - dt.date.fromisoformat(c["entry_date"])).days
                  for c in closed]
-    trades = [b for b in sorted(pyr["blotter"])
+    cash_share = [w["cash"] / w["equity"] * 100 for w in curve]
+    all_cash_weeks = sum(1 for w in curve if w["positions"] == 0)
+    trades = [b for b in sorted(res["blotter"])
               if "BUY ₹" in b[2] or "SELL ₹" in b[2]
               or b[1] == "TAX" or b[2].startswith("TRIM")]
 
@@ -328,189 +323,108 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
                    f" The earliest screens run on ~{runway_days // 30} "
                    f"months of history instead of a full year — every "
                    f"gate's own minimum (6 completed weeks, 120 baseline "
-                   f"days) is still enforced, screens simply judge a "
-                   f"shorter norm at first.")
+                   f"days) is still enforced.")
+
     A = [f"# The Darvas screen — {args.screen_start} → {through}", "",
-         f"> **LONG-RUN BACKTEST, TWO ENGINES.** One continuous price "
-         f"archive ({args.fetch_start} → {through}, {n_syms} symbols, in "
+         f"> **LONG-RUN BACKTEST.** One continuous price archive "
+         f"({args.fetch_start} → {through}, {n_syms} symbols, in "
          f"`{archive.name}/`); every Friday screen sees only bars up to "
          f"its own Friday; the earnings gate reads only fiscal years "
          f"ended on or before the last 31 March at each screen date; "
-         f"the conference-call read is excluded. Both engines pay Angel "
-         f"One charges on every order and settle capital-gains tax "
-         f"every 1 April in their net runs. "
+         f"the conference-call read is excluded. The net run pays Angel "
+         f"One charges on every order and settles capital-gains tax "
+         f"every 1 April. "
          + (f"**The universe is POINT-IN-TIME with a ROLLING radar:** "
             f"membership is recomputed EVERY MONTH as the top symbols "
-            f"by the TRAILING month's actual traded value from NSE's "
-            f"official bhavcopies, with hysteresis (leave only past "
-            f"rank 900) — companies that later died are IN while they "
-            f"traded, and new listings or emerging names ENTER the "
-            f"month they earn their place, so neither survivorship "
-            f"bias nor an emergence blind spot remains. Membership "
-            f"gates fresh entries only; a held position runs to its "
-            f"stop regardless (`_membership_long.csv`). Raw exchange "
-            f"data means heuristic split/bonus adjustment, every one "
-            f"listed in `_adjustments.csv`. "
-            if (archive / "_membership_long.csv").exists() else
-            f"**The universe is POINT-IN-TIME:** the top symbols by "
-            f"actual traded value in the as-of month, from NSE's "
-            f"official bhavcopies (`constituents_asof.csv`) — "
-            f"companies that later died or delisted are IN, later "
-            f"IPOs are OUT, so survivorship bias is removed; the "
-            f"price of using raw exchange data is heuristic "
-            f"split/bonus adjustment (standard ratio against the "
-            f"prior close AND a matching volume step; every "
-            f"adjustment applied is listed in `_adjustments.csv`). "
-            if (archive / "constituents_asof.csv").exists() else
-            f"**Two limits that cannot be engineered away:** the "
-            f"universe is TODAY'S NiftyTotalMarket constituents "
-            f"(survivorship bias flatters the early years), and "
-            f"Yahoo serves split-adjusted history. ")
+            f"by the TRAILING month's traded value from NSE's official "
+            f"bhavcopies, with hysteresis (leave only past rank 900) — "
+            f"casualties are IN while they traded, new listings enter "
+            f"the month they earn their place; membership gates fresh "
+            f"entries only (`_membership_long.csv`); split/bonus "
+            f"adjustments are heuristic, all listed in "
+            f"`_adjustments.csv`. "
+            if (archive / "_membership_long.csv").exists() else "")
          + f"No slippage, stop exits at the stop price, fractional "
            f"shares.{runway_note}"
          + (f" Stored fiscal statements exist for "
             f"{args.stmt_coverage:.0f}% of this universe — a stock "
             f"without statements cannot be blocked by the earnings "
-            f"gate (only a FALLING verdict blocks), which loosens that "
-            f"gate for the rest."
+            f"gate."
             if getattr(args, "stmt_coverage", 100) < 90 else ""), "",
-         "## The two engines", "",
-         f"**Common rules.** ₹{args.capital:,.0f} starts all in cash. "
-         f"Every Friday after the close the full three-gate screen "
-         f"(weekly volume ≥1.5× the 12-week average WITH a rising "
-         f"price; last month's volume ≥1.5× the year's norm; ≥3 boxes "
-         f"with the last 3 midpoints rising) runs over the whole "
-         f"universe. Entries into NEW stocks use ONLY the original "
-         f"capital and money freed by sales — **never more than one "
-         f"tenth of total capital per first entry** (sell a stock "
-         f"worth 40% of the book and it takes four fresh names to "
-         f"redeploy it), at the next trading day's open, falling "
-         f"earnings power refused, nothing below half a slice. "
-         f"**Funding order:** a fully-qualified signal the cash never "
-         f"reached climbs the queue each time it is starved and goes "
-         f"to the FRONT ahead of louder newcomers, resetting to normal "
-         f"once funded — so a steady climber flagged week after week "
-         f"can no longer be outbid forever by one-week volume spikes; "
-         f"fresh names rank by volume reaction. Stops (box bottom − "
-         f"max(0.3×height, 5% of bottom)) are checked daily, ratcheted "
-         f"up weekly, and only the stop itself exits. When nothing "
-         f"qualifies, the cash stays cash.", "",
-         f"**Engine A — no doubling.** Exactly the rules above, "
-         f"nothing else.", "",
-         f"**Engine B — doubling with a RECYCLING POCKET, 3× cap.** On "
-         f"EVERY box jump upward (each weekly stop ratchet), the stake "
-         f"is doubled at the next day's open — at most THREE times per "
-         f"position (8× the first slice). The doubling money lives in "
-         f"its own POCKET, outside the trading book: when a doubled "
-         f"position sells, the pyramid lots' capital AND their returns "
-         f"go OUT to the pocket (only the initial slice and its "
-         f"returns stay in the portfolio, so the trading book can "
-         f"never balloon), and later doubles draw the pocket FIRST — "
-         f"fresh outside money enters only for the shortfall, each "
-         f"such injection dated and logged, so the honest yardstick "
-         f"is the money-weighted return (XIRR) and the capital "
-         f"requirement stays bounded. Each add-on is its own tax lot "
-         f"on its own holding clock (the pocket pays tax on its own "
-         f"gains); the ratcheted stop covers the whole enlarged "
-         f"position; a jump past the cap is logged, never doubled.",
-         "",
-         "## The headline — XIRR is the honest yardstick", "",
-         "| Engine | Money put in | Final value | XIRR (per year) |",
-         "|---|---:|---:|---:|",
-         f"| **B: doubling, NET of charges and tax** | "
-         f"{inr(args.capital + pyr['total_injected'])} "
-         f"(₹{args.capital:,.0f} + {inr(pyr['total_injected'])} "
-         f"injected) | **{inr(pyr['final_equity'])}** | "
-         f"**{X['pyr_net']:+.2f}%** |",
-         f"| B: doubling, before charges and tax | "
-         f"{inr(args.capital + runs['pyr_gross']['total_injected'])} | "
-         f"{inr(runs['pyr_gross']['final_equity'])} | "
-         f"{X['pyr_gross']:+.2f}% |",
-         f"| **A: no doubling, NET of charges and tax** | "
-         f"{inr(args.capital)} | **{inr(plain['final_equity'])}** | "
-         f"**{X['plain_net']:+.2f}%** |",
-         f"| A: no doubling, before charges and tax | "
-         f"{inr(args.capital)} | "
-         f"{inr(runs['plain_gross']['final_equity'])} | "
-         f"{X['plain_gross']:+.2f}% |"]
+         "## The rules — the skill, kept simple", "",
+         f"₹{args.capital:,.0f} starts ALL IN CASH and nothing is ever "
+         f"added: the portfolio compounds only what it makes. Every "
+         f"Friday after the close, the full three-gate screen (weekly "
+         f"volume ≥1.5× the 12-week average WITH a rising price; last "
+         f"month's volume ≥1.5× the year's norm; ≥3 boxes with the "
+         f"last 3 midpoints rising) runs over the whole universe. "
+         f"**At most {SLOTS} positions at any time**, each fresh entry "
+         f"one equal slice (a tenth of equity), entries at the next "
+         f"trading day's open, falling earnings power refused, nothing "
+         f"below half a slice. **Cash never sleeps:** money freed by a "
+         f"stop goes into that week's fresh qualifiers, and a "
+         f"fully-qualified signal the cash never reached climbs the "
+         f"funding queue each time it is starved — front of the line "
+         f"ahead of louder newcomers, reset once funded. Stops (box "
+         f"bottom − max(0.3×height, 5% of bottom)) are checked daily "
+         f"and ratcheted up weekly; only the stop itself exits; a "
+         f"stopped symbol returns only by passing the full screen "
+         f"again. When nothing qualifies, the cash stays cash. NO "
+         f"pyramiding — doubling was built, measured and retired: on "
+         f"every configuration tested the add-on bought the top of "
+         f"the newest box with the stop a whole box lower, and the "
+         f"marginal rupee underperformed the base system.", "",
+         "## The headline", "",
+         f"| | ₹100 became | CAGR |",
+         f"|---|---:|---:|",
+         f"| **This system, NET of charges and capital-gains tax** | "
+         f"**{inr(res['final_equity'])}** | **{cagr:+.2f}% a year** |",
+         f"| Before charges and taxes | {inr(gross['final_equity'])} | "
+         f"{gross_cagr:+.2f}% a year |"]
     if nifty_100:
-        A.append(f"| Nifty 50 (pre-cost, pre-tax) | ₹100.00 | "
-                 f"{inr(nifty_100)} | {nifty_xirr:+.2f}% |")
+        A.append(f"| Nifty 50 (same window, pre-cost, pre-tax) | "
+                 f"{inr(nifty_100)} | {nifty_cagr:+.2f}% a year |")
     A += ["",
-          f"*With a single starting flow (engine A, the Nifty) the XIRR "
-          f"IS the CAGR. Engine B's XIRR weighs every injection by how "
-          f"long it was invested. Tax accrued on the final part-year, "
-          f"due next April and not yet paid: engine B "
-          f"{inr(acc['pyr']['tax'])}, engine A "
-          f"{inr(acc['plain']['tax'])}; unrealised gains in both end "
-          f"books carry further deferred liabilities.*", "",
-          f"{days / 365.25:.2f} years, {len(curve)} weekly screens. "
-          f"Engine B's total doubling spend was "
-          f"{inr(pyr['pyr_spend'])}: the pocket recycled "
-          f"{inr(pyr['pocket_used'])} of it, and only "
-          f"{inr(pyr['total_injected'])} was fresh outside money "
-          f"across {len(pyr['injections'])} dated injections (all in "
-          f"the blotter and events CSV). The pocket holds "
-          f"{inr(pyr['pocket_cash'])} at the end, counted in the "
-          f"final value.", ""]
+          f"*{inr(accrued['tax'])} of tax has accrued on the final "
+          f"part-year's realised gains (due next April) — settling it "
+          f"today would leave {inr(truly_net)} "
+          f"({_cagr(truly_net, args.capital, days):+.2f}% a year); "
+          f"unrealised gains in the end book carry a further deferred "
+          f"liability. {days / 365.25:.2f} years, {len(curve)} weekly "
+          f"screens.*", ""]
 
-    A += ["## What the frictions took (net runs)", "",
-          "| | Engine A: no doubling | Engine B: doubling |",
-          "|---|---:|---:|",
-          f"| Transaction charges | {inr(frs['plain'].total_costs)} | "
-          f"{inr(frs['pyr'].total_costs)} |",
-          f"| Capital-gains tax paid | {inr(frs['plain'].total_tax)} | "
-          f"{inr(frs['pyr'].total_tax)} |",
-          f"| Tax accrued, final part-year | "
-          f"{inr(acc['plain']['tax'])} | {inr(acc['pyr']['tax'])} |",
-          "",
-          "*Angel One equity delivery: STT 0.10% both sides, NSE "
-          "transaction charge 0.00297%, SEBI fee 0.0001%, 18% GST on "
-          "brokerage+levies, stamp duty 0.015% on buys; delivery "
-          "brokerage ₹0 until 31 Oct 2024, then 0.1% (the ₹20/order "
-          "cap never binds at this scale). Tax: 20% short-term (≤365 "
-          "days), 12.5% long-term, settled each 1 April with lawful "
-          "set-off and loss carry-forward; flat DP/minimum charges "
-          "cannot scale to a normalised ₹100 and are excluded "
-          "(under 0.03% of a trade on a ₹1-lakh+ account).*", ""]
+    A += ["## What the frictions took (net run)", "",
+          f"- **Transaction charges: {inr(fr.total_costs)}** (Angel One "
+          f"equity delivery: STT 0.10% both sides, exchange and SEBI "
+          f"levies, 18% GST, stamp duty 0.015% on buys, delivery "
+          f"brokerage ₹0 until 31 Oct 2024 then 0.1%).",
+          f"- **Capital-gains tax paid: {inr(fr.total_tax)}** — 20% "
+          f"short-term (≤365 days), 12.5% long-term, settled each "
+          f"1 April with lawful set-off and loss carry-forward.", "",
+          "| Fiscal year | Settled on | STCG @20% | LTCG @12.5% | "
+          "Tax paid | Losses c/f (ST / LT) |",
+          "|---|---|---:|---:|---:|---:|"]
+    for t in fr.tax_rows:
+        A.append(f"| {t['fy']} | {t['paid_on']} | "
+                 f"{inr(t['st_taxable'])} | {inr(t['lt_taxable'])} | "
+                 f"{inr(t['tax'])} | {inr(t['cf_st'])} / "
+                 f"{inr(t['cf_lt'])} |")
+    A += [f"| Final part-year (accrued) | — | "
+          f"{inr(accrued['st_taxable'])} | {inr(accrued['lt_taxable'])} "
+          f"| {inr(accrued['tax'])} | {inr(accrued['cf_st'])} / "
+          f"{inr(accrued['cf_lt'])} |", ""]
 
-    ledgers = [("Engine B (doubling) — portfolio book", frs["pyr"]),
-               ("Engine A (no doubling)", frs["plain"])]
-    if pyr.get("pocket_frictions") is not None:
-        ledgers.insert(1, ("Engine B — the doubling pocket's own book",
-                           pyr["pocket_frictions"]))
-    for label, fr_o in ledgers:
-        A += [f"### Tax ledger — {label}", "",
-              "| Fiscal year | Settled on | STCG @20% | LTCG @12.5% | "
-              "Tax paid | Losses c/f (ST / LT) |",
-              "|---|---|---:|---:|---:|---:|"]
-        for t in fr_o.tax_rows:
-            A.append(f"| {t['fy']} | {t['paid_on']} | "
-                     f"{inr(t['st_taxable'])} | {inr(t['lt_taxable'])} "
-                     f"| {inr(t['tax'])} | {inr(t['cf_st'])} / "
-                     f"{inr(t['cf_lt'])} |")
-        a = fr_o.accrued()
-        A += [f"| Final part-year (accrued) | — | {inr(a['st_taxable'])} "
-              f"| {inr(a['lt_taxable'])} | {inr(a['tax'])} | "
-              f"{inr(a['cf_st'])} / {inr(a['cf_lt'])} |", ""]
-
-    plain_yearly = {r["year"]: r for r in _yearly(plain["equity_curve"])}
-    A += ["## Calendar-year returns (net runs)", "",
-          "*Engine B's yearly figure is Modified Dietz — money-weighted "
-          "for the injections, so new capital is never booked as "
-          "'return'. Engine A's is the plain yearly return (no "
-          "injections).*", "",
-          "| Year (through) | A equity (₹) | A return | B equity (₹) | "
-          "B injected in year | B return (Dietz) |"
+    gross_yearly = {r["year"]: r for r in _yearly(gross["equity_curve"])}
+    A += ["## Calendar-year returns", "",
+          "| Year (through) | Net equity | Net return | Gross return |"
           + (" Nifty 50 |" if nifty else ""),
-          "|---|---:|---:|---:|---:|---:|" + ("---:|" if nifty else "")]
+          "|---|---:|---:|---:|" + ("---:|" if nifty else "")]
     prev_n = n0
-    for r in dietz_yearly(curve, pyr["injections"]):
-        pl = plain_yearly.get(r["year"])
-        line = (f"| {r['year']} ({r['through']}) | "
-                f"{inr(pl['equity'])} | {pl['ret_pct']:+.1f}% | "
-                f"{inr(r['equity'])} | {inr(r['injected'])} | "
-                f"{r['ret_pct']:+.1f}% |")
+    for r in _yearly(curve):
+        g = gross_yearly.get(r["year"])
+        line = (f"| {r['year']} ({r['through']}) | {inr(r['equity'])} | "
+                f"{r['ret_pct']:+.1f}% | "
+                + (f"{g['ret_pct']:+.1f}% |" if g else "— |"))
         if nifty:
             n_now = nifty_by_date.get(r["through"]) or next(
                 (c for d0, c in reversed(nifty) if d0 <= r["through"]),
@@ -523,19 +437,15 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
         A.append(line)
     A.append("")
 
-    dd_a, dd_b = _max_drawdown(plain["equity_curve"]), _max_drawdown(curve)
-    cash_share = [w["cash"] / w["equity"] * 100 for w in curve]
-    all_cash_weeks = sum(1 for w in curve if w["positions"] == 0)
-    A += ["## What it took to earn it (engine B net; A in brackets)", "",
-          f"- Maximum drawdown **{dd_b['dd_pct']:.1f}%** (A: "
-          f"{dd_a['dd_pct']:.1f}%), on weekly closes — B's is softened "
-          f"by injections landing mid-decline, so read it with care.",
+    dd = _max_drawdown(curve)
+    A += ["## What it took to earn it", "",
+          f"- **Maximum drawdown: {dd['dd_pct']:.1f}%** (peak "
+          f"{dd['from']} → trough {dd['to']}, weekly closes).",
           (f"- **{len(closed)} closed trades**: {len(wins)} winners "
            f"({len(wins) / len(closed) * 100:.0f}%), average winner "
            f"{statistics.mean([c['ret_pct'] for c in wins]):+.1f}%, "
            f"average loser "
-           f"{statistics.mean([c['ret_pct'] for c in closed if c['ret_pct'] <= 0]):+.1f}% "
-           f"(returns per blended entry price)."
+           f"{statistics.mean([c['ret_pct'] for c in closed if c['ret_pct'] <= 0]):+.1f}%."
            if closed and wins and len(wins) < len(closed) else
            f"- **{len(closed)} closed trades.**"),
           (f"- Best closed trade "
@@ -548,62 +458,47 @@ def write_report(runs: dict, frs: dict, args, through: str, nifty: list,
            f"{statistics.median(hold_days):.0f} days."
            if hold_days else ""),
           f"- Cash share of equity averaged "
-          f"{statistics.mean(cash_share):.0f}%; fully in cash "
+          f"{statistics.mean(cash_share):.0f}% (median "
+          f"{statistics.median(cash_share):.0f}%); fully in cash "
           f"{all_cash_weeks} of {len(curve)} weeks — when nothing "
           f"qualifies, the money waits.", ""]
 
-    A += ["## Monthly equity curve (net runs)", "",
-          "*B equity counts the whole system — trading book plus the "
-          "idle doubling pocket (shown separately).*", "",
-          "| Month-end screen | B equity | B pocket | B injected so "
-          "far | B cash | B positions | A equity |",
-          "|---|---:|---:|---:|---:|---:|---:|"]
-    plain_by_month: dict[str, dict] = {}
-    for w in plain["equity_curve"]:
-        plain_by_month[w["date"][:7]] = w
+    A += ["## Monthly equity curve (net run)", "",
+          "| Month-end screen | Equity | Cash | Positions |",
+          "|---|---:|---:|---:|"]
     last_in_month: dict[str, dict] = {}
     for w in curve:
         last_in_month[w["date"][:7]] = w
-    for m, w in sorted(last_in_month.items()):
-        pw = plain_by_month.get(m)
+    for _, w in sorted(last_in_month.items()):
         A.append(f"| {w['date']} | {inr(w['equity'])} | "
-                 f"{inr(w.get('pocket', 0))} | "
-                 f"{inr(w['injected'])} | {inr(w['cash'])} | "
-                 f"{w['positions']} | "
-                 f"{inr(pw['equity']) if pw else '—'} |")
+                 f"{inr(w['cash'])} | {w['positions']} |")
     A.append("")
 
-    if pyr["book"]:
-        A += ["## Engine B — still held at the end", "",
-              "| Stock | First entry | Blended entry ₹ | Lots | Mark ₹ "
-              "| Stop | Return |",
-              "|---|---|---:|---:|---:|---:|---:|"]
-        for b in pyr["book"]:
+    if res["book"]:
+        A += ["## Still held at the end", "",
+              "| Stock | Entry | Entry ₹ | Mark ₹ | Stop | Return |",
+              "|---|---|---:|---:|---:|---:|"]
+        for b in res["book"]:
             A.append(f"| {b['symbol']} | {b['entry_date']} | "
-                     f"{b['entry_px']:,.2f} | {len(b['lots'])} | "
-                     f"{b['mark_px']:,.2f} | {b['stop']:,.2f} | "
-                     f"{b['ret_pct']:+.1f}% |")
+                     f"{b['entry_px']:,.2f} | {b['mark_px']:,.2f} | "
+                     f"{b['stop']:,.2f} | {b['ret_pct']:+.1f}% |")
         A.append("")
 
     if closed:
-        A += ["## Engine B — every closed trade", "",
-              "*Returns are on the blended entry price across lots.*",
-              "",
-              "| Stock | First entry | Blended ₹ | Lots | Exit | "
-              "Exit ₹ | Return |",
-              "|---|---|---:|---:|---|---:|---:|"]
+        A += ["## Every closed trade", "",
+              "| Stock | Entry | Entry ₹ | Exit | Exit ₹ | Return |",
+              "|---|---|---:|---|---:|---:|"]
         for c in closed:
             A.append(f"| {c['symbol']} | {c['entry_date']} | "
-                     f"{c['entry_px']:,.2f} | {len(c['lots'])} | "
-                     f"{c['exit_date']} | {c['exit_px']:,.2f} | "
-                     f"{c['ret_pct']:+.1f}% |")
+                     f"{c['entry_px']:,.2f} | {c['exit_date']} | "
+                     f"{c['exit_px']:,.2f} | {c['ret_pct']:+.1f}% |")
         A.append("")
 
-    A += ["## Engine B — the complete trade blotter", "",
-          f"*Buys, pyramid injections, sells and tax settlements; "
-          f"every stop raise and refused signal is in "
-          f"`_longrun_events_{tag}.csv`, and engine A's full ledger in "
-          f"`_longrun_events_{tag}_no_doubling.csv`.*", "", "```"]
+    A += ["## The complete trade blotter", "",
+          f"*Buys, sells and tax settlements; every stop raise, "
+          f"starved signal and refused signal is in "
+          f"`_longrun_events_{tag}.csv` ({len(res['blotter'])} events "
+          f"in all).*", "", "```"]
     for d, sym, what in trades:
         A.append(f"{d}  {sym:11s} {what}")
     A += ["```", ""]
@@ -664,20 +559,15 @@ def main() -> None:
         print(f"rolling membership loaded: {len(membership)} months",
               file=sys.stderr)
     earnings_ok = make_earnings_ok()
-    frs = {"plain": FR.AngelOneFrictions(), "pyr": FR.AngelOneFrictions()}
+    fr = FR.AngelOneFrictions()
     runs = {}
-    for key, pyramid, fr in (("plain_gross", False, None),
-                             ("plain_net", False, frs["plain"]),
-                             ("pyr_gross", True, None),
-                             ("pyr_net", True, frs["pyr"])):
+    for key, f in (("gross", None), ("net", fr)):
         print(f"{key} replay…", file=sys.stderr)
         runs[key] = RL.run_rolling(bars_by, [], args.screen_start, through,
                                    args.capital, earnings_ok, slots=SLOTS,
-                                   frictions=fr, pyramid=pyramid,
-                                   membership=membership)
-        r = runs[key]
-        print(f"{key}: final ₹{r['final_equity']:,.2f}, injected "
-              f"₹{r['total_injected']:,.2f}", file=sys.stderr)
+                                   frictions=f, membership=membership)
+        print(f"{key}: final ₹{runs[key]['final_equity']:,.2f}",
+              file=sys.stderr)
 
     try:
         nifty = fetch_nifty(dt.date.fromisoformat(args.screen_start),
@@ -687,7 +577,7 @@ def main() -> None:
               f"benchmark", file=sys.stderr)
         nifty = []
 
-    report = write_report(runs, frs, args, through, nifty, archive,
+    report = write_report(runs, fr, args, through, nifty, archive,
                           len(bars_by))
     print(f"report: {report}")
 

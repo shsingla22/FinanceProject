@@ -67,22 +67,18 @@ license: internal
    an upward break and is holding it = ACCUMULATE. Inside a box with no
    break yet = WATCH, with the exact buy-above price. A close below the
    box bottom = SELL — the red flag; a stock dropping to a lower box is
-   sold, never averaged. **Pyramiding (the doubling engine, optional):**
-   once invested, on EVERY box jump upward without the stop being hit,
-   the stake is DOUBLED at the next day's open (₹10 that has grown to
-   ₹13 gets ₹13 more) — **at most THREE doublings per position** (8×
-   the first slice). The doubling money lives in its own POCKET,
-   outside the trading book: when a doubled position sells, the
-   pyramid lots' capital AND their returns go OUT to the pocket (only
-   the initial slice and its returns stay in the portfolio — the
-   trading book can never balloon), and later doubles draw the pocket
-   FIRST, with fresh outside money only for the shortfall. Every fresh
-   injection is dated and logged and performance is judged by the
-   money-weighted XIRR, never a naive multiple. Each add-on is its own
-   tax lot with its own holding clock and the pocket pays tax on its
-   own gains; the ratcheted stop covers the whole enlarged position.
-   The engine WITHOUT doubling is kept alongside, and the long-run
-   report shows both.
+   sold, never averaged. **No pyramiding.** Doubling into box jumps
+   was built, tested and RETIRED after measurement: in every
+   configuration tried (every-2nd-jump from cash, every-jump with
+   external capital, capped at three, with a recycling pocket), the
+   add-on structurally bought the top of the newest box while the stop
+   sat below its bottom, and the marginal rupee underperformed the
+   simple system — 42 of 72 add-ons in one window stopped out below
+   their own buy price. The skill compounds ONE pot: the starting
+   capital plus whatever it earns, equal slices, at most ten positions,
+   and the RATCHET does the concentrating by simply not selling
+   winners. (The engine still accepts `pyramid=True` for research;
+   the measurements live in this repository's history.)
    **The funding queue:** when several fully-qualified signals compete
    for limited cash, fresh names rank by volume reaction — but a
    signal the cash never reached climbs the queue each time it is
@@ -231,10 +227,8 @@ to its ratcheted stop regardless. The archive carries the full
 month-by-month roster (`_membership_long.csv`) and the runner picks
 it up automatically (`longrun.py --archive <dir>`).
 
-The long run is simulated FOUR ways — both engines (A: no doubling;
-B: doubling on every box jump with new external capital, XIRR as the
-yardstick), each frictionless and NET of the real world
-(`scripts/frictions.py`): Angel One equity-delivery
+The long run is simulated TWICE — frictionless, and NET of the real
+world (`scripts/frictions.py`): Angel One equity-delivery
 charges on every order (STT 0.10% both sides, exchange and SEBI
 levies, GST, stamp duty on buys, delivery brokerage ₹0 until 31 Oct
 2024 then 0.1%) and capital-gains tax settled out of the portfolio on
