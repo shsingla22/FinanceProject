@@ -36,6 +36,32 @@ import server as S                                # noqa: E402  (the live UI)
 SITE = HERE / "site"
 
 
+def export_darvas(site: Path) -> dict:
+    """The Darvas weekly screen, as static files at the SAME paths the
+    page fetches from the live server — api/darvas/latest, /trace,
+    /report, /run/status — straight from the skill's ui_bridge, so the
+    published page shows exactly the stored run. On Pages the engine
+    cannot run (no server): the status says so and the UI hides the
+    run button in static mode; the scheduled workflow does the running."""
+    d = site / "api" / "darvas"
+    (d / "run").mkdir(parents=True, exist_ok=True)
+    rec = S.DB.latest()
+    md = S.DB.report_md()
+    n = 0
+    if rec is not None:
+        (d / "latest").write_text(json.dumps(rec, default=str))
+        n += 1
+    if md is not None:
+        (d / "report").write_text(md)
+        n += 1
+    (d / "trace").write_text(json.dumps(S.DB.trace(31), default=str))
+    (d / "run" / "status").write_text(json.dumps(
+        {"state": "idle", "static": True,
+         "note": "published page — the engine runs on the weekly "
+                 "workflow or from a Codespace"}))
+    return {"files": n + 2, "run_date": rec["run_date"] if rec else None}
+
+
 def main() -> None:
     if SITE.exists():
         shutil.rmtree(SITE)
@@ -86,6 +112,8 @@ def main() -> None:
     assert "STATIC_MODE" in html, "index.html no longer references app.js?"
     (SITE / "index.html").write_text(html)
     (SITE / ".nojekyll").write_text("")            # serve files starting with _
+    dv = export_darvas(SITE)
+    print(f"darvas screen exported: run {dv['run_date']}")
 
     n_files = sum(1 for _ in SITE.rglob("*") if _.is_file())
     print(f"site built: {len(syms)} companies, {len(rows)} ranked, "

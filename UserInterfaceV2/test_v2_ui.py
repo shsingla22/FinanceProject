@@ -387,3 +387,23 @@ def test_every_company_lists_exactly_the_three_measures():
         if labels != ["Price ratio", "PAT ratio", "Operating-profit ratio"]:
             bad.append((sym, labels))
     assert not bad, f"measures missing or renamed: {bad[:5]}"
+
+
+# ---------------- the static (GitHub Pages) export of the Darvas screen
+
+def test_static_export_serves_the_darvas_screen_from_files(tmp_path):
+    sys.path.insert(0, str(Path(__file__).resolve().parent / "StaticWebsite"))
+    import build_static as BS
+    if S.DB.latest() is None:
+        pytest.skip("no stored Darvas run")
+    info = BS.export_darvas(tmp_path)
+    d = tmp_path / "api" / "darvas"
+    import json as _json
+    assert _json.loads((d / "latest").read_text()) == \
+        _json.loads(_json.dumps(S.DB.latest(), default=str))
+    assert (d / "report").read_text() == S.DB.report_md()
+    tr = _json.loads((d / "trace").read_text())
+    assert tr["days"] == 31 and tr["runs"]
+    st = _json.loads((d / "run" / "status").read_text())
+    assert st["state"] == "idle" and st["static"] is True
+    assert info["run_date"] == S.DB.latest()["run_date"]
