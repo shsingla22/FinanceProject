@@ -1385,3 +1385,44 @@ def test_latest_record_agrees_with_the_stored_report():
     md = AZ.REPORT.read_text()
     for b in rec["actions"]["buys"]:
         assert f"| **{b['symbol']}** | buy at next open |" in md
+
+
+
+# --------------- the live ledger ratchets EVERY held position weekly
+
+def test_carried_positions_ratchet_and_sell_without_being_reflagged(tmp_path):
+    ledger = tmp_path / "_positions.csv"
+    ledger.write_text(
+        "symbol,first_flagged,action,box_bottom,box_top,stop_loss,last_close,updated\n"
+        "CLIMBER,2026-01-02,BUY,50.0,55.0,47.5,54.0,2026-01-02\n"
+        "SLIDER,2026-01-02,BUY,50.0,55.0,47.5,54.0,2026-01-02\n"
+        "GONE,2026-01-02,SELL,,,,40.0,2026-01-02\n")
+    box = [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+    climber = _bars(box + [(58, 54, 57), (62, 57, 60)]
+                    + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]
+                    + [(60, 56, 58), (61, 57, 59), (60, 57, 59)])   # 56-62
+    slider = _bars(box + [(51, 47, 48), (49, 45, 46), (47, 44, 45)])  # < 47.5
+    daily = {"CLIMBER": climber, "SLIDER": slider}
+    # neither symbol is among today's picks — the old engine left them
+    # a picked symbol is left to its own deep dive
+    only = AZ.carried_updates(ledger, picked={"CLIMBER"}, daily=daily)
+    assert [u["symbol"] for u in only] == ["SLIDER"]
+    upd = AZ.carried_updates(ledger, picked=set(), daily=daily)
+    by = {u["symbol"]: u for u in upd}
+    assert "GONE" not in by                        # already sold: untouched
+    assert by["CLIMBER"]["stop_loss"] == pytest.approx(DV.stop_loss(
+        {"top": 62, "bottom": 56}))
+    assert by["CLIMBER"]["stop_loss"] > 47.5
+    assert by["SLIDER"]["action"] == "SELL"
+    rows = {r["symbol"]: r for r in DV.update_ledger(ledger, upd,
+                                                     today="2026-02-20")}
+    assert float(rows["CLIMBER"]["stop_loss"]) == pytest.approx(
+        by["CLIMBER"]["stop_loss"])
+    assert rows["CLIMBER"]["updated"] == "2026-02-20"
+    assert rows["CLIMBER"]["first_flagged"] == "2026-01-02"   # memory kept
+    assert rows["SLIDER"]["action"] == "SELL"
+    assert rows["SLIDER"]["stop_loss"] == ""
+    assert rows["GONE"]["action"] == "SELL"
+    # once sold, a row is never re-judged — the ledger is its memory
+    again = AZ.carried_updates(ledger, picked=set(), daily=daily)
+    assert [u["symbol"] for u in again] == ["CLIMBER"]

@@ -71,6 +71,35 @@ def deep_dive(sym: str, weekly, daily, signal, ai: bool) -> dict:
             "months": months, "mtrend": mtrend}
 
 
+def carried_updates(ledger_path: Path, picked: set, daily: dict,
+                    signals: dict | None = None) -> list[dict]:
+    """The rhythm for EVERY held position, not only the re-flagged ones:
+    each ledger symbol that is not among today's picks is re-judged
+    from its CURRENT bars — a higher sealed box ratchets its stop up
+    (update_ledger keeps max(old, new)), a close through the stop
+    marks it SELL, and a breakdown still inside the grace stays WATCH
+    with its stop standing. Rows already sold, or without bars, are
+    left untouched."""
+    if not ledger_path.exists():
+        return []
+    out = []
+    with open(ledger_path) as fh:
+        rows = list(csv.DictReader(fh))
+    for r in rows:
+        sym = r["symbol"]
+        if sym in picked or r.get("action") == "SELL":
+            continue
+        bars = daily.get(sym)
+        if not bars:
+            continue
+        st = DV.find_boxes(bars)
+        rec = DV.recommend(st, (signals or {}).get(sym, {}))
+        rec["symbol"] = sym
+        rec["last_close"] = st.get("last_close")
+        out.append(rec)
+    return out
+
+
 def detect_raised(old_stops: dict, ledger: list) -> list:
     """[(symbol, old, new)] for every held stop that moved UP this run."""
     out = []
@@ -488,8 +517,11 @@ def cmd_run(args) -> None:
         with open(LEDGER) as fh:
             for r in csv.DictReader(fh):
                 old_stops[r["symbol"]] = r.get("stop_loss", "")
+    picked = {d["rec"]["symbol"] for d in dives}
+    carried = carried_updates(LEDGER, picked, daily,
+                              {s["symbol"]: s for s in scan})
     ledger = DV.update_ledger(
-        LEDGER, [{**d["rec"]} for d in dives])
+        LEDGER, [{**d["rec"]} for d in dives] + carried)
     fetched_at = (FD.OUT_DIR / "_fetched_at.txt").read_text().strip() \
         if (FD.OUT_DIR / "_fetched_at.txt").exists() else "unknown"
     log_rows = list((FD.OUT_DIR / "_fetch_log.csv").read_text()

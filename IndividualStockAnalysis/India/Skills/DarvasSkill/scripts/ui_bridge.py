@@ -81,7 +81,11 @@ def run_status() -> dict:
 
 
 def _write_status(st: dict) -> None:
-    STATUS.write_text(json.dumps(st))
+    # written whole, then renamed: a poll can never read a half-written
+    # file and mistake a running engine for an idle one
+    tmp = STATUS.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(st))
+    os.replace(tmp, STATUS)
 
 
 def start_run(quick: bool = False, runner=None) -> dict:

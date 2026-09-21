@@ -80,7 +80,11 @@ license: internal
    window: the old instant weekly sell threw CHENNPETRO out at +5.1%;
    the grace held the identical entry to +62.6%. The rhythm: **run the
    skill weekly, after Friday's close** — each run re-fetches, re-ranks,
-   re-seals boxes and ratchets every held stop UP only. **Cash never
+   re-seals boxes and ratchets every held stop UP only — every ledger
+   position, not just the ones re-flagged by the screen: a carried
+   stock that sealed a higher box gets a higher stop (RAISE STOP LOSS
+   in the closing section), one that closed through its stop is marked
+   SELL, and a sold row is never re-judged. **Cash never
    sleeps:** money freed by a stop is deployed into that week's fresh
    fully-qualified BUY/ACCUMULATE signals — best volume reaction first,
    one equal slice per position, entered at the next day's open, a
