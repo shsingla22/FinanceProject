@@ -220,6 +220,7 @@ liability of the final part-year.
 | `…/_fetch_log.csv`, `_fetched_at.txt` | per-symbol fetch status and the run stamp — failures are listed, never hidden |
 | `India/Analysis/NiftyTotalMarketAnalysis/DarvasAnalysis/DARVAS_REPORT.md` | the screen: ranked trigger table, per-pick deep dives with text charts, recommendations, the stop ledger, methodology |
 | `…/DarvasAnalysis/_positions.csv` | positions carried between runs; stops ratchet up only |
+| `…/DarvasAnalysis/_events.csv` | the trade trace, preserved: every BUY (with its stop), RAISE STOP, SELL and first WATCH, one row per event; also rendered in the report's "The trade trace" section |
 
 ## Pictures
 

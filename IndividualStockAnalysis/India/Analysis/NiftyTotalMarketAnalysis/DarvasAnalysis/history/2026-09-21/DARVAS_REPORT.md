@@ -680,6 +680,100 @@ Positions carried between runs. The rhythm: this skill runs weekly after Friday'
 
 ---
 
+## The trade trace
+
+Every recommendation this screen has ever made, carried run to run: when a stock was first flagged BUY and at what stop, each time its stop was raised, and when it was sold. The journal is preserved beside this report in `_events.csv` and in the dated `history/` snapshots; a re-flagged BUY on an open position is noted, not counted as a second entry.
+
+| Stock | Bought | Stop at entry | Stop raises | Stop now | Sold | Status |
+|---|---|---:|---|---:|---|---|
+| ACMESOLAR | 2026-09-21 | ₹370.12 | — | ₹370.12 | — | held |
+| AWFIS | — | — | — | ₹231.89 | — | on watch (never a buy) |
+| BLACKBUCK | 2026-09-12 | ₹548.56 | — | ₹548.56 | — | held |
+| CORONA | — | — | — | — | 2026-09-12 | sold |
+| DBL | — | — | — | ₹383.89 | — | on watch (never a buy) |
+| ELLEN | 2026-09-12 | ₹299.64 | — | ₹299.64 | — | held |
+| GMMPFAUDLR | 2026-09-14 | ₹931.95 | 2026-09-21: ₹931.95 → ₹1,226.07 | ₹1,226.07 | — | held |
+| GRANULES | 2026-09-12 | ₹798.72 | — | ₹798.72 | — | held |
+| GRAPHITE | — | — | 2026-09-21: ₹700.19 → ₹735.87 | ₹735.87 | — | on watch (never a buy) |
+| HERITGFOOD | — | — | 2026-09-21: ₹336.46 → ₹365.09 | ₹365.09 | — | on watch (never a buy) |
+| JSL | 2026-09-12 | ₹721.35 | — | ₹721.35 | — | held |
+| LICHSGFIN | 2026-09-21 | ₹503.12 | — | ₹503.12 | — | held |
+| MAHSEAMLES | — | — | 2026-09-21: ₹623.93 → ₹640.44 | ₹640.44 | — | on watch (never a buy) |
+| MIDHANI | 2026-09-12 | ₹399.99 | — | ₹399.99 | — | held |
+| ONESOURCE | — | — | — | ₹1,490.03 | — | on watch (never a buy) |
+| PINELABS | 2026-09-12 | ₹119.67 | 2026-09-21: ₹119.67 → ₹165.98 | ₹165.98 | — | held |
+| PVRINOX | — | — | — | ₹1,132.78 | 2026-09-12 | on watch (never a buy) |
+| RAYMONDLSL | — | — | — | ₹603.23 | — | on watch (never a buy) |
+| SAILIFE | 2026-09-14 | ₹1,338.55 | 2026-09-21: ₹1,338.55 → ₹1,419.68 | ₹1,419.68 | — | held |
+| SAMHI | — | — | — | ₹146.66 | — | on watch (never a buy) |
+| SARDAEN | — | — | — | ₹477.99 | — | on watch (never a buy) |
+| SFL | — | — | — | ₹600.78 | — | on watch (never a buy) |
+| SHAKTIPUMP | — | — | — | ₹458.37 | — | on watch (never a buy) |
+| SHAREINDIA | — | — | 2026-09-21: ₹163.70 → ₹178.65 | ₹178.65 | — | on watch (never a buy) |
+| STAR | — | — | 2026-09-21: ₹904.78 → ₹1,046.90 | ₹1,046.90 | — | on watch (never a buy) |
+| SWANCORP | — | — | — | — | 2026-09-12 | sold |
+| TATAINVEST | — | — | — | — | 2026-09-12 | sold |
+| TEGA | — | — | — | ₹1,443.88 | — | on watch (never a buy) |
+| WESTLIFE | — | — | — | ₹505.30 | — | on watch (never a buy) |
+| ZYDUSWELL | — | — | — | ₹511.13 | — | on watch (never a buy) |
+
+### The journal
+
+*Every event in date order — the same trace the interfaces show.*
+
+```
+2026-09-12  BLACKBUCK   BUY        ACCUMULATE at next open; stop ₹548.56
+2026-09-12  ELLEN       BUY        BUY at next open; stop ₹299.64
+2026-09-12  GRANULES    BUY        ACCUMULATE at next open; stop ₹798.72
+2026-09-12  JSL         BUY        BUY at next open; stop ₹721.35
+2026-09-12  MIDHANI     BUY        BUY at next open; stop ₹399.99
+2026-09-12  PINELABS    BUY        BUY at next open; stop ₹119.67
+2026-09-12  CORONA      SELL       closed below its box bottom — exit
+2026-09-12  PVRINOX     SELL       closed below its box bottom — exit
+2026-09-12  SWANCORP    SELL       closed below its box bottom — exit
+2026-09-12  TATAINVEST  SELL       closed below its box bottom — exit
+2026-09-12  AWFIS       WATCH      on the radar
+2026-09-12  DBL         WATCH      on the radar — becomes BUY on a daily close above ₹411.00
+2026-09-12  GRAPHITE    WATCH      on the radar — becomes BUY on a daily close above ₹755.50
+2026-09-12  HERITGFOOD  WATCH      on the radar — becomes BUY on a daily close above ₹392.10
+2026-09-12  MAHSEAMLES  WATCH      on the radar — becomes BUY on a daily close above ₹658.90
+2026-09-12  ONESOURCE   WATCH      on the radar — becomes BUY on a daily close above ₹1,551.00
+2026-09-12  RAYMONDLSL  WATCH      on the radar — becomes BUY on a daily close above ₹711.60
+2026-09-12  SAMHI       WATCH      on the radar — becomes BUY on a daily close above ₹163.00
+2026-09-12  SFL         WATCH      on the radar — becomes BUY on a daily close above ₹717.90
+2026-09-12  SHAKTIPUMP  WATCH      on the radar — becomes BUY on a daily close above ₹487.10
+2026-09-12  SHAREINDIA  WATCH      on the radar — becomes BUY on a daily close above ₹178.80
+2026-09-12  STAR        WATCH      on the radar — becomes BUY on a daily close above ₹1,019.70
+2026-09-12  TEGA        WATCH      on the radar — becomes BUY on a daily close above ₹1,837.00
+2026-09-12  WESTLIFE    WATCH      on the radar — becomes BUY on a daily close above ₹582.00
+2026-09-12  ZYDUSWELL   WATCH      on the radar — becomes BUY on a daily close above ₹541.50
+2026-09-13  BLACKBUCK   BUY        still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹548.56
+2026-09-13  ELLEN       BUY        still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹299.64
+2026-09-13  GRANULES    BUY        still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹798.72
+2026-09-13  JSL         BUY        still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹721.35
+2026-09-13  MIDHANI     BUY        still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹399.99
+2026-09-13  PINELABS    BUY        still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹119.67
+2026-09-14  GMMPFAUDLR  BUY        BUY at next open; stop ₹931.95
+2026-09-14  SAILIFE     BUY        BUY at next open; stop ₹1,338.55
+2026-09-14  PVRINOX     WATCH      on the radar — becomes BUY on a daily close above ₹1,284.50
+2026-09-14  SARDAEN     WATCH      on the radar — becomes BUY on a daily close above ₹542.50
+2026-09-17  GMMPFAUDLR  BUY        still a BUY — re-flagged by the screen; first entry 2026-09-14; stop now ₹931.95
+2026-09-21  ACMESOLAR   BUY        BUY at next open; stop ₹370.12
+2026-09-21  GMMPFAUDLR  BUY        still a BUY — re-flagged by the screen; first entry 2026-09-14; stop now ₹1,226.07
+2026-09-21  JSL         BUY        still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹679.25
+2026-09-21  LICHSGFIN   BUY        ACCUMULATE at next open; stop ₹503.12
+2026-09-21  GMMPFAUDLR  RAISE STOP ₹931.95 → ₹1,226.07
+2026-09-21  GRAPHITE    RAISE STOP ₹700.19 → ₹735.87
+2026-09-21  HERITGFOOD  RAISE STOP ₹336.46 → ₹365.09
+2026-09-21  MAHSEAMLES  RAISE STOP ₹623.93 → ₹640.44
+2026-09-21  PINELABS    RAISE STOP ₹119.67 → ₹165.98
+2026-09-21  SAILIFE     RAISE STOP ₹1,338.55 → ₹1,419.68
+2026-09-21  SHAREINDIA  RAISE STOP ₹163.70 → ₹178.65
+2026-09-21  STAR        RAISE STOP ₹904.78 → ₹1,046.90
+```
+
+---
+
 ## Today's actions — plain and simple
 
 **BUY** (place the stop as a GTT order right after the fill; one equal slice each — a tenth of capital):

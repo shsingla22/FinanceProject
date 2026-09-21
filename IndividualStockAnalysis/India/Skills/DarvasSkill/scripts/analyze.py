@@ -32,6 +32,7 @@ sys.path.insert(0, str(HERE))
 
 import charts as CH          # noqa: E402
 import darvas as DV          # noqa: E402
+import darvas_history as DH  # noqa: E402
 import earnings as EP        # noqa: E402
 import fetch_data as FD      # noqa: E402
 
@@ -566,9 +567,12 @@ def cmd_run(args) -> None:
     meta["weekly_qualifiers"] = sum(1 for s in scan if s["qualifies"])
     meta["fully_qualified"] = len(gated)
     actions = actions_data(dives, ledger, old_stops, meta["run_date"])
-    md = render_report(scan, dives, meta) + render_actions(actions)
-    REPORT.write_text(md)
     record = run_record(dives, meta, actions, ledger, args.quick)
+    events = DH.full_journal(HISTORY, current=record)
+    DH.save_events(events)
+    md = (render_report(scan, dives, meta)
+          + DH.render_trace_md(events, ledger) + render_actions(actions))
+    REPORT.write_text(md)
     LATEST.write_text(json.dumps(record, indent=1, default=str))
     snap = HISTORY / meta["run_date"]
     snap.mkdir(parents=True, exist_ok=True)

@@ -1473,3 +1473,69 @@ def test_sell_lists_only_this_runs_sales_and_a_buy_carries_a_holders_stop():
     # a fresh box whose stop is already the highest carries nothing
     dives[0]["rec"]["stop_loss"] = 730.0
     assert AZ.actions_data(dives, ledger, {})["buys"][0]["held_stop"] is None
+
+
+def test_journal_sells_once_and_marks_reflagged_buys_and_renders_the_trace(tmp_path):
+    raw = [
+        {"date": "2026-09-05", "symbol": "AAA", "event": "BUY",
+         "detail": "BUY at next open; stop ₹90.00", "stop_loss": 90.0},
+        {"date": "2026-09-05", "symbol": "ZZZ", "event": "SELL",
+         "detail": "closed below its box bottom — exit", "stop_loss": None},
+        {"date": "2026-09-12", "symbol": "AAA", "event": "BUY",
+         "detail": "BUY at next open; stop ₹97.00", "stop_loss": 97.0},
+        {"date": "2026-09-12", "symbol": "AAA", "event": "RAISE STOP",
+         "detail": "₹90.00 → ₹97.00", "stop_loss": 97.0},
+        {"date": "2026-09-12", "symbol": "ZZZ", "event": "SELL",
+         "detail": "closed below its box bottom — exit", "stop_loss": None},
+        {"date": "2026-09-19", "symbol": "AAA", "event": "SELL",
+         "detail": "closed below its box bottom — exit", "stop_loss": None},
+    ]
+    j = DH.journal(raw)
+    kinds = [(e["date"], e["symbol"], e["event"], bool(e.get("repeat")))
+             for e in j]
+    assert kinds == [("2026-09-05", "AAA", "BUY", False),
+                     ("2026-09-05", "ZZZ", "SELL", False),
+                     ("2026-09-12", "AAA", "BUY", True),      # still a BUY
+                     ("2026-09-12", "AAA", "RAISE STOP", False),
+                     ("2026-09-19", "AAA", "SELL", False)]    # ZZZ sold once
+    assert "first entry 2026-09-05" in j[2]["detail"]
+    ledger = [{"symbol": "AAA", "action": "SELL", "stop_loss": ""},
+              {"symbol": "ZZZ", "action": "SELL", "stop_loss": ""}]
+    md = DH.render_trace_md(j, ledger)
+    assert "## The trade trace" in md
+    assert "| AAA | 2026-09-05 | ₹90.00 | 2026-09-12: ₹90.00 → ₹97.00 | — " \
+           "| 2026-09-19 | sold |" in md
+    assert "| ZZZ | — | — | — | — | 2026-09-05 | sold |" in md
+    assert md.count("AAA         BUY") == 2 and "AAA         SELL" in md
+    out = tmp_path / "_events.csv"
+    DH.save_events(j, out)
+    rows = list(csv.DictReader(open(out)))
+    assert [r["event"] for r in rows] == ["BUY", "SELL", "BUY", "RAISE STOP",
+                                          "SELL"]
+    assert rows[2]["repeat"] == "yes" and rows[0]["stop_loss"] == "90.0"
+
+
+def test_full_journal_replaces_the_archived_run_of_the_same_date(tmp_path):
+    (tmp_path / "2026-09-05").mkdir()
+    old = {"run_date": "2026-09-05", "actions": {
+        "buys": [{"symbol": "AAA", "action": "BUY", "stop_loss": 90.0}],
+        "raises": [], "sells": [], "radar": [], "downgraded": []}}
+    (tmp_path / "2026-09-05" / "run.json").write_text(_json.dumps(old))
+    current = {"run_date": "2026-09-05", "actions": {
+        "buys": [{"symbol": "BBB", "action": "BUY", "stop_loss": 10.0}],
+        "raises": [], "sells": [], "radar": [], "downgraded": []}}
+    ev = DH.full_journal(tmp_path, current=current)
+    assert [e["symbol"] for e in ev] == ["BBB"]
+    # the UI window still sees a SELL only once even when the sold row
+    # is carried through later runs
+    (tmp_path / "2026-09-12").mkdir()
+    r2 = {"run_date": "2026-09-12", "actions": {
+        "buys": [], "raises": [], "sells": [{"symbol": "AAA"}],
+        "radar": [], "downgraded": []}}
+    (tmp_path / "2026-09-19").mkdir()
+    r3 = {**r2, "run_date": "2026-09-19"}
+    (tmp_path / "2026-09-12" / "run.json").write_text(_json.dumps(r2))
+    (tmp_path / "2026-09-19" / "run.json").write_text(_json.dumps(r3))
+    tl = DH.trace(days=None, history=tmp_path)["timeline"]
+    assert [(e["date"], e["event"]) for e in tl if e["symbol"] == "AAA"] \
+        == [("2026-09-05", "BUY"), ("2026-09-12", "SELL")]
