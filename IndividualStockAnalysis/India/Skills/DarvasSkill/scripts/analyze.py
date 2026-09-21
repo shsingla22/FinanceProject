@@ -94,6 +94,13 @@ def carried_updates(ledger_path: Path, picked: set, daily: dict,
             continue
         st = DV.find_boxes(bars)
         rec = DV.recommend(st, (signals or {}).get(sym, {}))
+        if rec["action"] in ("BUY", "ACCUMULATE") \
+                and r.get("action") not in ("BUY", "ACCUMULATE"):
+            # a fresh entry needs the full three-gate screen — a watched
+            # name that merely climbed out of its box is still only watched
+            rec["action"] = "WATCH"
+            rec["why"] += ("; stays WATCH — not re-qualified by this "
+                           "week's volume screen")
         rec["symbol"] = sym
         rec["last_close"] = st.get("last_close")
         out.append(rec)
@@ -114,14 +121,24 @@ def detect_raised(old_stops: dict, ledger: list) -> list:
     return out
 
 
-def actions_data(dives: list, ledger: list, old_stops: dict) -> dict:
+def actions_data(dives: list, ledger: list, old_stops: dict,
+                 today: str | None = None) -> dict:
     """The week in FOUR verbs, as DATA — the single source both the
     report's closing section and the UIs render from, so they can never
     disagree. WATCH is the radar, not an instruction: a genuine in-box
     WATCH converts to BUY by ITSELF in a coming week if the breakout
     arrives on qualifying volume; a downgraded WATCH is a do-not-buy;
-    unbought old signals expire."""
+    unbought old signals expire. SELL lists only the rows that turned
+    SELL in THIS run (`today`) — a stock sold last week is not sold
+    again. A BUY whose ledger stop already stands higher (a holder's
+    ratchet from an earlier box) carries that standing stop too."""
     buys, radar, downs = [], [], []
+    standing = {}
+    for row in ledger:
+        try:
+            standing[row["symbol"]] = float(row.get("stop_loss") or 0)
+        except ValueError:
+            pass
     for d in dives:
         r = d["rec"]
         if r["action"] in ("BUY", "ACCUMULATE"):
@@ -129,12 +146,16 @@ def actions_data(dives: list, ledger: list, old_stops: dict) -> dict:
             if r.get("last_close") and r.get("stop_loss"):
                 risk = round((r["stop_loss"] - r["last_close"])
                              / r["last_close"] * 100, 1)
+            held = standing.get(r["symbol"])
+            held = (held if held and r.get("stop_loss")
+                    and held > r["stop_loss"] + 1e-9 else None)
             buys.append({"symbol": r["symbol"], "action": r["action"],
                          "entry": "buy at next open",
                          "stop_loss": r.get("stop_loss"),
                          "last_close": r.get("last_close"),
                          "risk_pct": risk,
-                         "wide": risk is not None and risk < -25})
+                         "wide": risk is not None and risk < -25,
+                         "held_stop": held})
         elif r.get("downgraded"):
             downs.append({"symbol": r["symbol"],
                           "why": "downgraded (falling earnings power): "
@@ -143,7 +164,8 @@ def actions_data(dives: list, ledger: list, old_stops: dict) -> dict:
             radar.append({"symbol": r["symbol"],
                           "buy_above": r.get("buy_above")})
     sells = [{"symbol": row["symbol"]} for row in ledger
-             if row.get("action") == "SELL"]
+             if row.get("action") == "SELL"
+             and (today is None or row.get("updated") == today)]
     raises = [{"symbol": s, "old": o, "new": n}
               for s, o, n in detect_raised(old_stops, ledger)]
     return {"buys": buys, "raises": raises, "sells": sells,
@@ -162,6 +184,9 @@ def render_actions(a: dict) -> str:
                 risk = f" (risk {b['risk_pct']:+.1f}% from the last close"
                 risk += (" — WIDE; consider a half slice or waiting for "
                          "the next box)" if b["wide"] else ")")
+            if b.get("held_stop"):
+                risk += (f"; already holding it? keep your standing "
+                         f"₹{b['held_stop']:,.2f} — a stop never moves down")
             A.append(f"| **{b['symbol']}** | {b['entry']} | "
                      f"₹{b['stop_loss'] or 0:,.2f}{risk} |")
         A.append("")
@@ -169,7 +194,7 @@ def render_actions(a: dict) -> str:
         A += ["**BUY:** nothing today.", ""]
     if a["raises"]:
         A += ["**RAISE STOP LOSS** (replace the standing GTT — stops "
-              "only ever move up):", ""]
+              "only ever move up; applies only if you hold it):", ""]
         A += [f"- {r['symbol']}: ₹{r['old']:,.2f} → **₹{r['new']:,.2f}**"
               for r in a["raises"]] + [""]
     else:
@@ -195,8 +220,9 @@ def render_actions(a: dict) -> str:
     return "\n".join(A)
 
 
-def actions_section(dives: list, ledger: list, old_stops: dict) -> str:
-    return render_actions(actions_data(dives, ledger, old_stops))
+def actions_section(dives: list, ledger: list, old_stops: dict,
+                    today: str | None = None) -> str:
+    return render_actions(actions_data(dives, ledger, old_stops, today))
 
 
 def recommendation_rows(dives: list) -> list[dict]:
@@ -539,7 +565,7 @@ def cmd_run(args) -> None:
     }
     meta["weekly_qualifiers"] = sum(1 for s in scan if s["qualifies"])
     meta["fully_qualified"] = len(gated)
-    actions = actions_data(dives, ledger, old_stops)
+    actions = actions_data(dives, ledger, old_stops, meta["run_date"])
     md = render_report(scan, dives, meta) + render_actions(actions)
     REPORT.write_text(md)
     record = run_record(dives, meta, actions, ledger, args.quick)

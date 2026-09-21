@@ -1426,3 +1426,50 @@ def test_carried_positions_ratchet_and_sell_without_being_reflagged(tmp_path):
     # once sold, a row is never re-judged — the ledger is its memory
     again = AZ.carried_updates(ledger, picked=set(), daily=daily)
     assert [u["symbol"] for u in again] == ["CLIMBER"]
+
+
+def test_carried_watch_never_promotes_itself_and_a_forming_box_keeps_the_stop(tmp_path):
+    ledger = tmp_path / "_positions.csv"
+    ledger.write_text(
+        "symbol,first_flagged,action,box_bottom,box_top,stop_loss,last_close,updated\n"
+        "WATCHED,2026-09-12,WATCH,50.0,55.0,47.5,54.0,2026-09-13\n"
+        "HELD,2026-09-12,BUY,50.0,55.0,47.5,54.0,2026-09-13\n")
+    box = [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+    breakout = _bars(box + [(58, 54, 57), (62, 57, 60)])   # above 55, no box yet
+    daily = {"WATCHED": breakout, "HELD": breakout}
+    upd = {u["symbol"]: u for u in
+           AZ.carried_updates(ledger, picked=set(), daily=daily)}
+    # only the screen can turn a watched name into a BUY
+    assert upd["WATCHED"]["action"] == "WATCH"
+    assert "not re-qualified" in upd["WATCHED"]["why"]
+    # a held name in breakout is simply held
+    assert upd["HELD"]["action"] == "BUY"
+    rows = {r["symbol"]: r for r in
+            DV.update_ledger(ledger, list(upd.values()), today="2026-09-21")}
+    # the new box is still forming, so no new stop — the old one STANDS
+    for sym in ("WATCHED", "HELD"):
+        assert float(rows[sym]["stop_loss"]) == pytest.approx(47.5)
+
+
+def test_sell_lists_only_this_runs_sales_and_a_buy_carries_a_holders_stop():
+    ledger = [
+        {"symbol": "OLDSALE", "action": "SELL", "stop_loss": "",
+         "updated": "2026-09-13"},
+        {"symbol": "NEWSALE", "action": "SELL", "stop_loss": "",
+         "updated": "2026-09-21"},
+        {"symbol": "JSL", "action": "ACCUMULATE", "stop_loss": "721.35",
+         "updated": "2026-09-21"},
+    ]
+    dives = [{"rec": {"symbol": "JSL", "action": "ACCUMULATE",
+                      "stop_loss": 679.25, "last_close": 751.45}}]
+    a = AZ.actions_data(dives, ledger, {}, today="2026-09-21")
+    assert [s["symbol"] for s in a["sells"]] == ["NEWSALE"]
+    assert a["buys"][0]["held_stop"] == pytest.approx(721.35)
+    md = AZ.render_actions(a)
+    assert "keep your standing ₹721.35" in md
+    assert "OLDSALE" not in md and "- NEWSALE" in md
+    # without a run date every SELL row is listed (the backfill path)
+    assert len(AZ.actions_data(dives, ledger, {})["sells"]) == 2
+    # a fresh box whose stop is already the highest carries nothing
+    dives[0]["rec"]["stop_loss"] = 730.0
+    assert AZ.actions_data(dives, ledger, {})["buys"][0]["held_stop"] is None

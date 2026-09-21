@@ -357,9 +357,11 @@ def update_ledger(path: Path, picks: list[dict],
         sym = p["symbol"]
         old = rows.get(sym)
         stop = p.get("stop_loss")
-        if old and old.get("stop_loss") not in (None, "", "None") \
-                and stop is not None:
-            stop = max(float(old["stop_loss"]), float(stop))
+        if old and old.get("stop_loss") not in (None, "", "None"):
+            # a standing stop never falls and never vanishes: a box still
+            # forming (no new stop yet) leaves the old GTT exactly where it is
+            stop = (float(old["stop_loss"]) if stop is None
+                    else max(float(old["stop_loss"]), float(stop)))
         rows[sym] = {
             "symbol": sym,
             "first_flagged": (old or {}).get("first_flagged") or today,
