@@ -257,6 +257,7 @@ def run_record(dives: list, meta: dict, actions: dict, ledger: list,
     return {"run_date": meta["run_date"], "fetched_at": meta["fetched_at"],
             "trigger_week": meta["trigger_week"],
             "scanned": meta["scanned"], "fetch_ok": meta["fetch_ok"],
+            "universe_sources": meta.get("universe_sources", {}),
             "fetch_failed": meta["fetch_failed"],
             "weekly_qualifiers": meta.get("weekly_qualifiers"),
             "fully_qualified": meta.get("fully_qualified"),
@@ -461,8 +462,14 @@ def render_report(scan, dives, meta) -> str:
 
     A.append("## How this screen was built")
     A.append("")
-    A.append(f"- **Data:** daily bars for the last six months for every "
-             f"NiftyTotalMarket symbol, fetched fresh THIS run "
+    A.append(f"- **Universe:** the official NiftyTotalMarket constituents "
+             f"∪ the 750 largest listed companies by market capitalisation "
+             f"(NSE's daily market-cap file; ETFs and funds excluded), "
+             f"both re-pulled monthly — a company just outside the index "
+             f"but inside the top 750 by size is screened too. "
+             f"{meta.get('universe_note', '')}")
+    A.append(f"- **Data:** daily bars for the last year for every "
+             f"symbol in that universe, fetched fresh THIS run "
              f"({meta['fetched_at']}) from Yahoo Finance into "
              f"`IndividualStockAnalysis/India/VolumeAndPricing/"
              f"{FD.UNIVERSE}/`, aggregated into completed Monday-Friday "
@@ -564,6 +571,16 @@ def cmd_run(args) -> None:
         "ledger": ledger,
         "gated": gated,
     }
+    src = {}
+    with open(FD.CONSTITUENTS) as fh:
+        for r in csv.DictReader(fh):
+            k = r.get("source") or "official"
+            src[k] = src.get(k, 0) + 1
+    meta["universe_sources"] = src
+    meta["universe_note"] = (
+        f"This run: {src.get('both', 0)} in both lists, "
+        f"{src.get('official', 0)} only in the index, "
+        f"{src.get('mcap750', 0)} only in the top 750 by size.")
     meta["weekly_qualifiers"] = sum(1 for s in scan if s["qualifies"])
     meta["fully_qualified"] = len(gated)
     actions = actions_data(dives, ledger, old_stops, meta["run_date"])

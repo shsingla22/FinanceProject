@@ -1539,3 +1539,107 @@ def test_full_journal_replaces_the_archived_run_of_the_same_date(tmp_path):
     tl = DH.trace(days=None, history=tmp_path)["timeline"]
     assert [(e["date"], e["event"]) for e in tl if e["symbol"] == "AAA"] \
         == [("2026-09-05", "BUY"), ("2026-09-12", "SELL")]
+
+
+# ---------------- the live universe: official ∪ top 750 by market cap
+
+MCAP_CSV = (
+    "Trade Date,Symbol,Series,Security Name,Category,Last Trade Date,"
+    "Face Value(Rs.),Issue Size,Close Price/Paid up value(Rs.),Market Cap(Rs.)\n"
+    "18 SEP 2026,BIG,EQ,BIG LTD           ,Listed    ,18 SEP 2026,10,100,10,9000\n"
+    "18 SEP 2026,MID,BE,MID LTD,Listed,18 SEP 2026,10,100,10,8000\n"
+    "18 SEP 2026,SMALL,EQ,SMALL LTD,Listed,18 SEP 2026,10,100,10,7000\n"
+    "18 SEP 2026,SMEONE,SM,SME LTD,Listed,18 SEP 2026,10,100,10,9500\n"
+    "18 SEP 2026,FOREIGN,EQ,PERMITTED LTD,Permitted,18 SEP 2026,10,100,10,9600\n"
+    "18 SEP 2026,NIFTYBEES,EQ,NIPPON ETF,Listed,18 SEP 2026,10,100,10,9700\n"
+    "18 SEP 2026,ZEROCAP,EQ,ZERO LTD,Listed,18 SEP 2026,10,100,10,0\n")
+
+
+def test_mcap_file_keeps_only_listed_tradeable_companies():
+    rows = RC.parse_mcap(MCAP_CSV)
+    assert [r["symbol"] for r in rows] == ["BIG", "MID", "SMALL"]
+    assert rows[0]["name"] == "BIG LTD" and rows[1]["series"] == "BE"
+    top = RC.top_by_mcap(rows, n=2)
+    assert [r["nse_symbol"] for r in top] == ["BIG", "MID"]
+    assert top[0]["industry"] == "" and top[0]["isin"] == ""
+
+
+def _zip_with(name: str, text: str) -> bytes:
+    import io as _io, zipfile as _zf
+    buf = _io.BytesIO()
+    with _zf.ZipFile(buf, "w") as z:
+        z.writestr(name, text)
+    return buf.getvalue()
+
+
+def test_latest_mcap_walks_back_over_weekends_and_missing_bundles(monkeypatch):
+    monkeypatch.setattr(RC, "PR_LOOKBACK_DAYS", 10)
+    big = MCAP_CSV + "".join(
+        f"18 SEP 2026,S{i},EQ,S{i} LTD,Listed,18 SEP 2026,10,100,10,{i}\n"
+        for i in range(1, 1600))
+    asked = []
+
+    def fetch(url):
+        asked.append(url)
+        if "PR180926" in url:                 # Friday 18 Sep — present
+            return _zip_with("mcap18092026.csv", big)
+        raise OSError("404")
+
+    # Tuesday 22 Sep: Monday missing, weekend skipped, Friday found
+    date, rows = RC.latest_mcap(dt.date(2026, 9, 22), fetch)
+    assert date == "2026-09-18" and asked[0].endswith("PR210926.zip")
+    assert not any("PR200926" in u or "PR190926" in u for u in asked)
+    assert rows[0]["symbol"] == "BIG"
+
+
+def test_union_universe_tags_every_row_by_source():
+    official = [{"nse_symbol": "AAA", "company_name": "A", "industry": "IT",
+                 "series": "EQ", "isin": "INE1"},
+                {"nse_symbol": "BBB", "company_name": "B", "industry": "",
+                 "series": "EQ", "isin": "INE2"}]
+    top = [{"nse_symbol": "BBB", "company_name": "B LTD", "industry": "",
+            "series": "EQ", "isin": ""},
+           {"nse_symbol": "CCC", "company_name": "C LTD", "industry": "",
+            "series": "EQ", "isin": ""}]
+    u = RC.union_universe(official, top)
+    assert [(r["nse_symbol"], r["source"]) for r in u] == \
+        [("AAA", "official"), ("BBB", "both"), ("CCC", "mcap750")]
+    assert u[1]["isin"] == "INE2"           # the official row's fields win
+
+
+def test_refresh_writes_the_union_and_survives_one_failed_pull(tmp_path,
+                                                                 monkeypatch):
+    stored = tmp_path / "c.csv"
+    stored.write_text("nse_symbol,company_name,industry,series,isin\n"
+                      "AAA,A,IT,EQ,INE1\nOLD,O,IT,EQ,INE9\n")
+    monkeypatch.setattr(RC, "STORED", stored)
+    monkeypatch.setattr(RC, "STAMP", tmp_path / "stamp.txt")
+    monkeypatch.setattr(RC, "MCAP_TOP", 2)
+    official = "Company Name,Industry,Symbol,Series,ISIN Code\n" + "".join(
+        f"Co{i},IT,AAA{i},EQ,INE{i}\n" for i in range(650)) + "A,IT,AAA,EQ,INE1\n"
+    big = MCAP_CSV + "".join(
+        f"18 SEP 2026,S{i},EQ,S{i} LTD,Listed,18 SEP 2026,10,100,10,{i}\n"
+        for i in range(1, 1600))
+
+    def fetch(url):
+        if url == RC.URL:
+            return official.encode()
+        if "PR180926" in url:
+            return _zip_with("mcap18092026.csv", big)
+        raise OSError("404")
+
+    r = RC.refresh(force=True, fetch=fetch, today=dt.date(2026, 9, 22))
+    assert r["checked"] and r["changed"]
+    assert "BIG" in r["added"] and "MID" in r["added"] and "OLD" in r["removed"]
+    rows = {x["nse_symbol"]: x for x in csv.DictReader(open(stored))}
+    assert rows["BIG"]["source"] == "mcap750" and rows["AAA"]["source"] == "official"
+    assert r["sources"] == {"official": 651, "mcap750": 2}
+    # the market-cap source goes down next month: its rows STAND
+    def fetch2(url):
+        if url == RC.URL:
+            return official.encode()
+        raise OSError("503")
+    r2 = RC.refresh(force=True, fetch=fetch2, today=dt.date(2026, 10, 22))
+    assert r2["changed"] is False and "market-cap pull failed" in r2["note"]
+    rows = {x["nse_symbol"]: x for x in csv.DictReader(open(stored))}
+    assert rows["BIG"]["source"] == "mcap750"
