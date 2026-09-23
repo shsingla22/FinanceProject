@@ -92,6 +92,10 @@ def stitch_universe(backtest_dir: Path,
 # ------------------------------------------------------------- screening
 
 LADDER_WATCH_DAYS = DV.LADDER_WATCH_DAYS   # a ladder-failed surge is watched a month
+LADDER_WATCH_PROMOTE = ("BUY", "ACCUMULATE")   # box verdicts that promote a watched stock
+LADDER_WATCH_PRIORITY = "surge"     # "surge": promoted and fresh signals ranked
+                                    # together by surge multiple; "after_fresh":
+                                    # fresh full qualifiers are funded first
 
 
 def screen_day(bars_upto: list[dict], day: dt.date) -> dict | None:
@@ -140,7 +144,7 @@ def retest_ladder(bars_upto: list[dict], watch: dict) -> dict:
     if not up["qualifies"]:
         return {"verdict": "keep", "why": up["why"]}
     rec = DV.recommend(st, watch["signal"])
-    if rec["action"] in ("BUY", "ACCUMULATE") and "stop_loss" in rec:
+    if rec["action"] in LADDER_WATCH_PROMOTE and "stop_loss" in rec:
         return {"verdict": "promote", "action": rec["action"],
                 "stop": rec["stop_loss"], "why": up["why"]}
     if rec["action"] == "SELL" or st["state"] == "BREAKDOWN":
@@ -452,7 +456,11 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                     "note": f"{hit['action']}: {hit['volume_multiple']:.2f}× "
                             f"weekly, month {hit['month_multiple']:.2f}×, "
                             f"ladder rising"})
-            signals.sort(key=lambda s: -s["mult"])
+            if LADDER_WATCH_PRIORITY == "after_fresh":
+                signals.sort(key=lambda s: (bool(s.get("from_watch")),
+                                            -s["mult"]))
+            else:
+                signals.sort(key=lambda s: -s["mult"])
             if cash >= cur_slice * MIN_DEPLOY_FRACTION:
                 n_fundable = len(plan_deployment(cash, cur_slice,
                                                  len(signals)))

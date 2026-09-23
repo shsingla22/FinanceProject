@@ -472,6 +472,12 @@ def main() -> None:
                     default=DV.LADDER_WATCH_DAYS,
                     help="days a ladder-failed surge stays on watch; "
                          "0 switches the watch off (the older rules)")
+    ap.add_argument("--watch-promote", choices=("both", "buy"),
+                    default="both", help="box verdicts that promote a "
+                    "watched stock: BUY and ACCUMULATE, or BUY only")
+    ap.add_argument("--watch-priority", choices=("surge", "after-fresh"),
+                    default="surge", help="rank promoted signals with the "
+                    "fresh ones by surge multiple, or fund fresh first")
     ap.add_argument("--no-fetch", action="store_true",
                     help="reuse the stored archive, never fetch")
     ap.add_argument("--end", default=None,
@@ -509,6 +515,9 @@ def main() -> None:
     earnings_ok = make_earnings_ok()
     print("gross replay (no costs, no taxes)…", file=sys.stderr)
     RL.LADDER_WATCH_DAYS = args.ladder_watch_days
+    RL.LADDER_WATCH_PROMOTE = (("BUY",) if args.watch_promote == "buy"
+                               else ("BUY", "ACCUMULATE"))
+    RL.LADDER_WATCH_PRIORITY = args.watch_priority.replace("-", "_")
     print(f"ladder watch: {args.ladder_watch_days} days"
           + (" (OFF — the pre-watch rules)" if args.ladder_watch_days <= 0
              else ""), file=sys.stderr)
