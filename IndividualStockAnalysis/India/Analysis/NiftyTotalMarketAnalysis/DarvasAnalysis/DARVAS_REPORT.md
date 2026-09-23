@@ -90,7 +90,7 @@ The top 9 fully-qualified go on to the earnings and box steps below.
 
 ### The ladder watch
 
-A stock that passes both VOLUME gates but fails the ladder is not thrown away: it is watched for 30 days and its ladder re-tested from fresh boxes on every run. The moment the ladder rises and the boxes say BUY or ACCUMULATE, it is promoted into the picks below, carrying its original surge numbers. Darvas listed a stock when the volume came, then waited for the boxes — this is that wait, mechanised.
+A stock that passes both VOLUME gates but fails the ladder is not thrown away: it is watched for 30 days and its ladder re-tested from fresh boxes on every run. The moment the ladder rises AND the stock closes above its box top (a breakout — BUY), it is promoted into the picks below, listed after the week's fresh qualifiers and carrying its original surge numbers. Darvas listed a stock when the volume came, then waited for the boxes — this is that wait, mechanised. (Measured April 2020 → Sep 2026 net of costs and taxes: ₹461 per ₹100 with this rule against ₹343 without the watch; promoting on ACCUMULATE too, or ranking promoted names ahead of fresh ones, did worse.)
 
 **On watch:**
 

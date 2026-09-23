@@ -92,10 +92,11 @@ def stitch_universe(backtest_dir: Path,
 # ------------------------------------------------------------- screening
 
 LADDER_WATCH_DAYS = DV.LADDER_WATCH_DAYS   # a ladder-failed surge is watched a month
-LADDER_WATCH_PROMOTE = ("BUY", "ACCUMULATE")   # box verdicts that promote a watched stock
-LADDER_WATCH_PRIORITY = "surge"     # "surge": promoted and fresh signals ranked
-                                    # together by surge multiple; "after_fresh":
-                                    # fresh full qualifiers are funded first
+LADDER_WATCH_PROMOTE = DV.LADDER_WATCH_PROMOTE   # box verdicts that promote
+LADDER_WATCH_PRIORITY = "after_fresh"   # fresh full qualifiers are funded
+                                        # first; "surge" ranks promoted and
+                                        # fresh together by surge multiple
+                                        # (measured: ₹201 vs ₹461 per ₹100)
 
 
 def screen_day(bars_upto: list[dict], day: dt.date) -> dict | None:

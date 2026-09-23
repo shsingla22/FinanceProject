@@ -109,10 +109,11 @@ def ladder_watch_update(gated: list[dict], daily: dict, today: str,
     STARTED: every stock that passed both volume gates today but failed
     the ladder joins the watch (a repeat surge restarts its month).
     Every stock already on the watch is re-judged from TODAY'S boxes:
-    ladder rising and the boxes say BUY/ACCUMULATE → PROMOTED (it goes
-    through the deep dive like any fully-qualified pick, carrying its
-    ORIGINAL surge numbers); ladder rising but still in its box → kept,
-    noted; broke down → DROPPED; past its month → EXPIRED. A stock that
+    ladder rising and a BREAKOUT close above its box top (BUY) →
+    PROMOTED (it goes through the deep dive like any fully-qualified
+    pick, carrying its ORIGINAL surge numbers); ladder rising but still
+    inside its box → kept, noted with the entry price; broke down →
+    DROPPED; past its month → EXPIRED. A stock that
     fully qualifies afresh today leaves the watch — it is a normal pick.
     Returns {"promoted": [signal…], "watching": [row…], "started",
     "expired", "dropped": [row…]} and rewrites the watch file."""
@@ -175,7 +176,7 @@ def ladder_watch_update(gated: list[dict], daily: dict, today: str,
                                       "watched_since": r["watched_since"],
                                       "volume_multiple": r["volume_multiple"]}
         rec = DV.recommend(st, sig)
-        if rec["action"] in ("BUY", "ACCUMULATE") and "stop_loss" in rec:
+        if rec["action"] in DV.LADDER_WATCH_PROMOTE and "stop_loss" in rec:
             r["status"] = f"promoted {today} — ladder rising, {rec['action']}"
             out["promoted"].append(sig)
             del rows[sym]
@@ -431,10 +432,15 @@ def render_ladder_watch(lw: dict) -> list[str]:
          f"A stock that passes both VOLUME gates but fails the ladder is "
          f"not thrown away: it is watched for {DV.LADDER_WATCH_DAYS} days "
          f"and its ladder re-tested from fresh boxes on every run. The "
-         f"moment the ladder rises and the boxes say BUY or ACCUMULATE, it "
-         f"is promoted into the picks below, carrying its original surge "
-         f"numbers. Darvas listed a stock when the volume came, then "
-         f"waited for the boxes — this is that wait, mechanised.", ""]
+         f"moment the ladder rises AND the stock closes above its box top "
+         f"(a breakout — BUY), it is promoted into the picks below, "
+         f"listed after the week's fresh qualifiers and carrying its "
+         f"original surge numbers. Darvas listed a stock when the volume "
+         f"came, then waited for the boxes — this is that wait, "
+         f"mechanised. (Measured April 2020 → Sep 2026 net of costs and "
+         f"taxes: ₹461 per ₹100 with this rule against ₹343 without the "
+         f"watch; promoting on ACCUMULATE too, or ranking promoted names "
+         f"ahead of fresh ones, did worse.)", ""]
     def row(r, extra=""):
         return (f"| {r['symbol']} | {r['surge_week']} | "
                 f"{float(r['volume_multiple']):.2f}× | "

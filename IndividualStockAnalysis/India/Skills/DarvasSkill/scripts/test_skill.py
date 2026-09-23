@@ -1672,11 +1672,10 @@ def test_retest_ladder_promotes_once_three_rising_boxes_seal_and_break():
     r = RL.retest_ladder(_bars(box1 + up1 + up2 + brk), watch)
     assert r["verdict"] == "promote" and r["action"] == "BUY"
     assert r["stop"] == pytest.approx(DV.stop_loss({"top": 70, "bottom": 64}))
-    # three rising boxes, still inside the third: ladder fine, no entry
+    # three rising boxes, still inside the third: ladder fine, but no
+    # breakout yet — kept on watch (ACCUMULATE does not promote)
     r = RL.retest_ladder(_bars(box1 + up1 + up2), watch)
-    assert r["verdict"] in ("keep", "promote")
-    if r["verdict"] == "promote":
-        assert r["action"] == "ACCUMULATE"
+    assert r["verdict"] == "keep" and "ACCUMULATE" in r["why"]
 
 
 def test_rolling_watches_a_ladder_failed_surge_and_buys_when_it_rises(monkeypatch):

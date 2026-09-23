@@ -40,17 +40,25 @@ license: internal
    **The ladder watch.** A stock that passes both VOLUME gates but
    fails the ladder is not thrown away: it goes on the ladder watch
    (`_ladder_watch.csv`) for 30 days and every later run re-tests the
-   ladder from FRESH boxes. The moment the ladder rises and the boxes
-   say BUY or ACCUMULATE it is promoted into that run's picks — deep-
-   dived like any fully-qualified stock, carrying its original surge
-   numbers, and marked "promoted from the ladder watch" in the report.
-   Ladder rising but still inside its box → it keeps being watched
-   (the entry price is shown); a breakdown drops it; the month's end
-   expires it; a fresh full qualification simply makes it a normal
-   pick. Darvas listed a stock when the volume came and then waited for
-   the boxes — this is that wait, mechanised. The backtest engine
-   (`rolling.py`) applies the identical rule; `longrun.py
-   --ladder-watch-days 0` replays the older drop-it rule for comparison.
+   ladder from FRESH boxes. The moment the ladder rises AND the stock
+   closes above its box top (a breakout — BUY) it is promoted into that
+   run's picks — listed after the week's fresh qualifiers, deep-dived
+   like any fully-qualified stock, carrying its original surge numbers,
+   and marked "promoted from the ladder watch" in the report. Ladder
+   rising but still inside its box (ACCUMULATE) → it keeps being
+   watched with the entry price shown; a breakdown drops it; the
+   month's end expires it; a fresh full qualification simply makes it a
+   normal pick. Darvas listed a stock when the volume came and then
+   waited for the boxes — this is that wait, mechanised. Measured April
+   2020 → Sep 2026 on the top 750 by market cap, net of costs and
+   taxes (`DARVAS_LADDERWATCH_COMPARISON_2020-04-01_to_2026-09-22.md`):
+   old rules ₹342.79 (+20.98% a year); this rule ₹461.09 (+26.65%);
+   promoting on ACCUMULATE too ₹388.18; ranking promoted names ahead of
+   fresh ones ₹200.80 — the promoted names crowded out the fresh
+   signals. The backtest engine (`rolling.py`) applies the identical
+   rule; `longrun.py --ladder-watch-days 0` replays the older drop-it
+   rule, `--watch-promote both` / `--watch-priority surge` the two
+   rejected variants.
    Each deep dive also judges the MONTHLY volume trend from the same
    daily bars — **BUILDING** (rose month over month for ≥2 complete
    months: buying pressure accumulating), **STEPPED UP**, or **SPIKE

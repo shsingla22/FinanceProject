@@ -64,6 +64,11 @@ UPTREND_BOXES = 3
 # from fresh boxes on every later run — Darvas listed the stock when the
 # volume came, then waited for the boxes
 LADDER_WATCH_DAYS = 30
+# what promotes a watched stock once its ladder rises: a BREAKOUT close
+# above its box top (BUY) only. Measured April 2020 → Sep 2026, top 750 by
+# market cap, net of costs and taxes: promoting on ACCUMULATE as well made
+# ₹388 per ₹100; BUY only made ₹461 (old rules without the watch: ₹343).
+LADDER_WATCH_PROMOTE = ("BUY",)
 
 
 # ---------------------------------------------------------------- loading

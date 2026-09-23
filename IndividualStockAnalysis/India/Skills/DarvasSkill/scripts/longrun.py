@@ -473,10 +473,10 @@ def main() -> None:
                     help="days a ladder-failed surge stays on watch; "
                          "0 switches the watch off (the older rules)")
     ap.add_argument("--watch-promote", choices=("both", "buy"),
-                    default="both", help="box verdicts that promote a "
+                    default="buy", help="box verdicts that promote a "
                     "watched stock: BUY and ACCUMULATE, or BUY only")
     ap.add_argument("--watch-priority", choices=("surge", "after-fresh"),
-                    default="surge", help="rank promoted signals with the "
+                    default="after-fresh", help="rank promoted signals with the "
                     "fresh ones by surge multiple, or fund fresh first")
     ap.add_argument("--no-fetch", action="store_true",
                     help="reuse the stored archive, never fetch")
