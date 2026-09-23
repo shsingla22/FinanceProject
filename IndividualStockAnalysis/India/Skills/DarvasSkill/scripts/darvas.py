@@ -59,6 +59,11 @@ MONTH_VS_YEAR_MULTIPLE = 1.5
 # step 1c — the ladder gate: the stock must have CLIMBED here — at least
 # three sealed boxes with rising midpoints, the general trend up
 UPTREND_BOXES = 3
+# a surge that passes both volume gates but fails the ladder is not
+# dropped: it is WATCHED for this many days and the ladder re-tested
+# from fresh boxes on every later run — Darvas listed the stock when the
+# volume came, then waited for the boxes
+LADDER_WATCH_DAYS = 30
 
 
 # ---------------------------------------------------------------- loading

@@ -37,6 +37,20 @@ license: internal
    here. The report lists every weekly qualifier with all three gates'
    numbers and why it passed or fell out, and deep-dives the top 25
    fully-qualified by default.
+   **The ladder watch.** A stock that passes both VOLUME gates but
+   fails the ladder is not thrown away: it goes on the ladder watch
+   (`_ladder_watch.csv`) for 30 days and every later run re-tests the
+   ladder from FRESH boxes. The moment the ladder rises and the boxes
+   say BUY or ACCUMULATE it is promoted into that run's picks — deep-
+   dived like any fully-qualified stock, carrying its original surge
+   numbers, and marked "promoted from the ladder watch" in the report.
+   Ladder rising but still inside its box → it keeps being watched
+   (the entry price is shown); a breakdown drops it; the month's end
+   expires it; a fresh full qualification simply makes it a normal
+   pick. Darvas listed a stock when the volume came and then waited for
+   the boxes — this is that wait, mechanised. The backtest engine
+   (`rolling.py`) applies the identical rule; `longrun.py
+   --ladder-watch-days 0` replays the older drop-it rule for comparison.
    Each deep dive also judges the MONTHLY volume trend from the same
    daily bars — **BUILDING** (rose month over month for ≥2 complete
    months: buying pressure accumulating), **STEPPED UP**, or **SPIKE
@@ -103,7 +117,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 94 tests
+python3 -m pytest scripts/test_skill.py -q     # 108 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -222,6 +236,7 @@ liability of the final part-year.
 | `…/_fetch_log.csv`, `_fetched_at.txt` | per-symbol fetch status and the run stamp — failures are listed, never hidden |
 | `India/Analysis/NiftyTotalMarketAnalysis/DarvasAnalysis/DARVAS_REPORT.md` | the screen: ranked trigger table, per-pick deep dives with text charts, recommendations, the stop ledger, methodology |
 | `…/DarvasAnalysis/_positions.csv` | positions carried between runs; stops ratchet up only |
+| `…/DarvasAnalysis/_ladder_watch.csv` | the ladder watch: surges that passed both volume gates but not the ladder, watched 30 days and re-tested from fresh boxes every run (surge week, multiples, expiry, current status, the surge signal) |
 | `…/DarvasAnalysis/_events.csv` | the trade trace, preserved: every BUY (with its stop), RAISE STOP, SELL and first WATCH, one row per event; also rendered in the report's "The trade trace" section |
 
 ## Pictures

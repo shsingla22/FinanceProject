@@ -1643,3 +1643,160 @@ def test_refresh_writes_the_union_and_survives_one_failed_pull(tmp_path,
     assert r2["changed"] is False and "market-cap pull failed" in r2["note"]
     rows = {x["nse_symbol"]: x for x in csv.DictReader(open(stored))}
     assert rows["BIG"]["source"] == "mcap750"
+
+
+# ---------------- the ladder watch: a surge that failed the ladder is
+# watched a month and re-tested from fresh boxes on every later run
+
+def _climb_seq():
+    """50-55 box → 56-62 box → 64-70 box → breakout above 70: three
+    sealed boxes with rising midpoints, then the break."""
+    box1 = [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+    up1 = ([(58, 54, 57), (62, 57, 60)]
+           + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]
+           + [(60, 56, 58), (61, 57, 59), (60, 57, 59)])
+    up2 = ([(65, 61, 64), (70, 65, 68)]
+           + [(69, 65, 67), (68, 64, 66), (69, 65, 68)]
+           + [(68, 64, 66), (69, 65, 67), (68, 65, 67)])
+    return box1, up1, up2, [(73, 69, 72)]
+
+
+def test_retest_ladder_promotes_once_three_rising_boxes_seal_and_break():
+    box1, up1, up2, brk = _climb_seq()
+    watch = {"signal": {"volume_multiple": 3.0, "qualifies": True}}
+    # two boxes only: the ladder is too short — keep watching
+    r = RL.retest_ladder(_bars(box1 + up1), watch)
+    assert r["verdict"] == "keep"
+    # three rising boxes and a breakout: promoted as a BUY with the stop
+    # under the box it broke out of
+    r = RL.retest_ladder(_bars(box1 + up1 + up2 + brk), watch)
+    assert r["verdict"] == "promote" and r["action"] == "BUY"
+    assert r["stop"] == pytest.approx(DV.stop_loss({"top": 70, "bottom": 64}))
+    # three rising boxes, still inside the third: ladder fine, no entry
+    r = RL.retest_ladder(_bars(box1 + up1 + up2), watch)
+    assert r["verdict"] in ("keep", "promote")
+    if r["verdict"] == "promote":
+        assert r["action"] == "ACCUMULATE"
+
+
+def test_rolling_watches_a_ladder_failed_surge_and_buys_when_it_rises(monkeypatch):
+    bars_by = _rolling_world()
+    verdicts = {"2026-01-16": {"verdict": "keep", "why": "not yet"},
+                "2026-01-23": {"verdict": "promote", "action": "BUY",
+                               "stop": 45.0, "why": "rising"}}
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB" and day.isoformat() == "2026-01-09":
+            return {"stage": "ladder_fail", "signal": {"volume_multiple": 2.5},
+                    "volume_multiple": 2.5, "month_multiple": 2.0,
+                    "why": "the last 3 box midpoints do not step upward"}
+        return None
+
+    def fake_retest(bars_upto, watch):
+        return verdicts[bars_upto[-1]["date"]]
+
+    monkeypatch.setattr(RL, "retest_ladder", fake_retest)
+    res = RL.run_rolling(bars_by, [], "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=10)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    assert "2026-01-09 BBB ladder watch STARTED — 2.50× weekly" in text
+    buys = [b for b in res["blotter"] if b[1] == "BBB" and "BUY ₹" in b[2]]
+    assert buys and buys[0][0] == "2026-01-26"       # Monday after the 23rd
+    assert "promoted from the ladder watch" in buys[0][2]
+    assert "surged 2.50× weekly on 2026-01-09" in buys[0][2]
+    assert "stop ₹45.00" in buys[0][2]          # entered on the watch's stop
+    assert res["book"][0]["stop"] >= 45.0        # then ratcheted like any hold
+
+
+def test_rolling_ladder_watch_expires_after_its_month(monkeypatch):
+    bars_by = _rolling_world()
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB" and day.isoformat() == "2026-01-09":
+            return {"stage": "ladder_fail", "signal": {}, "volume_multiple": 2.5,
+                    "month_multiple": 2.0, "why": "flat ladder"}
+        return None
+
+    monkeypatch.setattr(RL, "retest_ladder",
+                        lambda b, w: {"verdict": "keep", "why": "flat"})
+    monkeypatch.setattr(RL, "LADDER_WATCH_DAYS", 7)
+    res = RL.run_rolling(bars_by, [], "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=10)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    assert "2026-01-23 BBB ladder watch EXPIRED" in text
+    assert not [b for b in res["blotter"] if "BUY ₹" in b[2]]
+    # and with the watch OFF (0 days) the surge is simply dropped
+    monkeypatch.setattr(RL, "LADDER_WATCH_DAYS", 0)
+    res = RL.run_rolling(bars_by, [], "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=10)
+    assert not [b for b in res["blotter"] if "BUY ₹" in b[2]]
+
+
+def _gated_row(sym, week, ladder_ok, month_ok=True, mult=2.4):
+    return {"symbol": sym, "week_start": week, "volume_multiple": mult,
+            "tier": "strong", "price_change_pct": 8.0, "qualifies": True,
+            "last_week_volume": 240_000, "baseline_weeks": 12,
+            "baseline_avg_volume": 100_000, "days_traded": 5,
+            "raw_volume_multiple": mult, "partial_week": False,
+            "month_gate": {"month_vs_year_multiple": 1.9 if month_ok else 0.9,
+                           "qualifies": month_ok},
+            "ladder_gate": {"qualifies": ladder_ok, "boxes": 3,
+                            "midpoints": [52.5, 59.0, 57.0],
+                            "why": "the last 3 box midpoints do not step upward"},
+            "fully_qualifies": ladder_ok and month_ok}
+
+
+def test_live_ladder_watch_starts_promotes_and_expires(tmp_path):
+    path = tmp_path / "_ladder_watch.csv"
+    box1, up1, up2, brk = _climb_seq()
+    daily = {"LAD": _bars(box1 + up1)}
+    gated = [_gated_row("LAD", "2026-09-07", ladder_ok=False),
+             _gated_row("FULL", "2026-09-07", ladder_ok=True),
+             _gated_row("NOMONTH", "2026-09-07", ladder_ok=False, month_ok=False)]
+    lw = AZ.ladder_watch_update(gated, daily, "2026-09-12", path)
+    assert [r["symbol"] for r in lw["started"]] == ["LAD"]   # not FULL, not NOMONTH
+    rows = AZ.load_ladder_watch(path)
+    assert rows["LAD"]["expires"] == "2026-10-12"
+    assert rows["LAD"]["surge_week"] == "2026-09-07"
+    # next run: ladder still short — kept, nothing promoted
+    lw = AZ.ladder_watch_update([], daily, "2026-09-19", path)
+    assert lw["promoted"] == [] and [r["symbol"] for r in lw["watching"]] == ["LAD"]
+    assert "not rising" in AZ.load_ladder_watch(path)["LAD"]["status"]
+    # a run later: three rising boxes and the break — promoted, carrying
+    # the ORIGINAL surge numbers, and off the watch
+    daily = {"LAD": _bars(box1 + up1 + up2 + brk)}
+    lw = AZ.ladder_watch_update([], daily, "2026-09-26", path)
+    assert [s["symbol"] for s in lw["promoted"]] == ["LAD"]
+    sig = lw["promoted"][0]
+    assert sig["volume_multiple"] == 2.4 and sig["week_start"] == "2026-09-07"
+    assert sig["promoted_from_watch"]["surge_week"] == "2026-09-07"
+    assert AZ.load_ladder_watch(path) == {}
+    # the promoted signal deep-dives like any pick, and says where it came from
+    rec = DV.recommend(DV.find_boxes(daily["LAD"]), sig)
+    assert rec["action"] == "BUY"
+    # expiry: a fresh watch left alone past its month leaves the file
+    lw = AZ.ladder_watch_update([_gated_row("OLD", "2026-09-21", False)],
+                                {"OLD": _bars(box1)}, "2026-09-26", path)
+    lw = AZ.ladder_watch_update([], {"OLD": _bars(box1)}, "2026-10-27", path)
+    assert [r["symbol"] for r in lw["expired"]] == ["OLD"]
+    assert AZ.load_ladder_watch(path) == {}
+    # a stock that fully qualifies afresh simply leaves the watch
+    AZ.ladder_watch_update([_gated_row("AGAIN", "2026-10-19", False)],
+                           {"AGAIN": _bars(box1)}, "2026-10-24", path)
+    AZ.ladder_watch_update([_gated_row("AGAIN", "2026-10-26", True)],
+                           {"AGAIN": _bars(box1)}, "2026-10-31", path)
+    assert AZ.load_ladder_watch(path) == {}
+
+
+def test_ladder_watch_names_sit_on_the_radar_not_in_the_buys():
+    lw = {"watching": [{"symbol": "LAD", "expires": "2026-10-12",
+                        "volume_multiple": "2.4", "surge_week": "2026-09-07",
+                        "status": "watching — ladder not rising yet"}]}
+    a = AZ.actions_data([], [], {}, "2026-09-19", lw)
+    assert a["buys"] == [] and a["radar"][0]["symbol"] == "LAD"
+    md = AZ.render_actions(a)
+    assert "LAD — on the ladder watch until 2026-10-12" in md
+    sec = "\n".join(AZ.render_ladder_watch({
+        "watching": [{**lw["watching"][0], "month_multiple": "1.9"}],
+        "promoted": [], "expired": [], "dropped": []}))
+    assert "| LAD | 2026-09-07 | 2.40× | 1.90× | 2026-10-12 |" in sec

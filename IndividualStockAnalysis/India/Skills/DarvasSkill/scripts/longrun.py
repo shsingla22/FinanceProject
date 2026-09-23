@@ -55,6 +55,7 @@ import backtest as BT        # noqa: E402
 import earnings as EP        # noqa: E402
 import fetch_data as FD      # noqa: E402
 import frictions as FR       # noqa: E402
+import darvas as DV          # noqa: E402
 import rolling as RL         # noqa: E402
 import walkforward as WF     # noqa: E402
 
@@ -216,7 +217,7 @@ def _cagr(final: float, initial: float, days: int) -> float:
 
 def write_report(res: dict, gross: dict, fr, args, through: str,
                  nifty: list, archive: Path, n_syms: int) -> Path:
-    tag = f"{SCREEN_START}_to_{through}"
+    tag = f"{args.start}_to_{through}" + (f"_{args.tag}" if args.tag else "")
     report = OUT_DIR / f"DARVAS_BACKTEST_LONGRUN_{tag}.md"
     ledger_csv = OUT_DIR / f"_longrun_events_{tag}.csv"
 
@@ -252,7 +253,8 @@ def write_report(res: dict, gross: dict, fr, args, through: str,
               if "BUY ₹" in b[2] or "SELL ₹" in b[2]
               or b[1] == "TAX" or b[2].startswith("TRIM")]
 
-    A = [f"# The Darvas screen, run for six years — {SCREEN_START} → "
+    years = days / 365.25
+    A = [f"# The Darvas screen, run for {years:.1f} years — {args.start} → "
          f"{through}", "",
          f"> **LONG-RUN BACKTEST.** One continuous price archive "
          f"({FETCH_START} → {through}, {n_syms} symbols, fetched once "
@@ -462,6 +464,14 @@ def write_report(res: dict, gross: dict, fr, args, through: str,
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--capital", type=float, default=100.0)
+    ap.add_argument("--start", default=SCREEN_START,
+                    help="first screen date (default 2020-06-01)")
+    ap.add_argument("--tag", default="",
+                    help="suffix for the report/events file names")
+    ap.add_argument("--ladder-watch-days", type=int,
+                    default=DV.LADDER_WATCH_DAYS,
+                    help="days a ladder-failed surge stays on watch; "
+                         "0 switches the watch off (the older rules)")
     ap.add_argument("--no-fetch", action="store_true",
                     help="reuse the stored archive, never fetch")
     ap.add_argument("--end", default=None,
@@ -498,17 +508,21 @@ def main() -> None:
               f"(ETFs excluded, IPOs seasoned 3 months)", file=sys.stderr)
     earnings_ok = make_earnings_ok()
     print("gross replay (no costs, no taxes)…", file=sys.stderr)
-    gross = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
+    RL.LADDER_WATCH_DAYS = args.ladder_watch_days
+    print(f"ladder watch: {args.ladder_watch_days} days"
+          + (" (OFF — the pre-watch rules)" if args.ladder_watch_days <= 0
+             else ""), file=sys.stderr)
+    gross = RL.run_rolling(bars_by, [], args.start, through, args.capital,
                            earnings_ok, slots=SLOTS, membership=membership)
     print(f"gross: ₹{gross['final_equity']:,.2f}", file=sys.stderr)
     print("net replay (Angel One charges on every order, capital-gains "
           "tax every 1 April)…", file=sys.stderr)
     fr = FR.AngelOneFrictions()
-    res = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
+    res = RL.run_rolling(bars_by, [], args.start, through, args.capital,
                          earnings_ok, slots=SLOTS, frictions=fr,
                          membership=membership)
     try:
-        nifty = fetch_nifty(dt.date.fromisoformat(SCREEN_START), end)
+        nifty = fetch_nifty(dt.date.fromisoformat(args.start), end)
     except Exception as e:                # noqa: BLE001 — benchmark only
         print(f"nifty fetch failed ({e}); report goes out without the "
               f"benchmark", file=sys.stderr)

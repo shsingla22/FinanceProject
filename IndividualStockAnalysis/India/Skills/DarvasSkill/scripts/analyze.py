@@ -41,6 +41,7 @@ OUT_DIR = INDIA / "Analysis" / "NiftyTotalMarketAnalysis" / "DarvasAnalysis"
 REPORT = OUT_DIR / "DARVAS_REPORT.md"
 LEDGER = OUT_DIR / "_positions.csv"
 LATEST = OUT_DIR / "darvas_latest.json"      # the run, machine-readable
+LADDER_WATCH = OUT_DIR / "_ladder_watch.csv"  # surges awaiting a rising ladder
 HISTORY = OUT_DIR / "history"                # one folder per run date
 
 DEFAULT_TOP = 25
@@ -55,6 +56,13 @@ def deep_dive(sym: str, weekly, daily, signal, ai: bool) -> dict:
     rec = DV.recommend(box_state, signal)
     rec["symbol"] = sym
     rec["last_close"] = box_state.get("last_close")
+    pw = signal.get("promoted_from_watch")
+    if pw:
+        rec["promoted_from_watch"] = pw
+        rec["why"] += (f"; PROMOTED from the ladder watch — it surged "
+                       f"{float(pw['volume_multiple']):.2f}× in the week of "
+                       f"{pw['surge_week']} but its ladder was not rising "
+                       f"then; the boxes sealed since have made it rise")
     power = EP.earnings_power(sym)
     calls = EP.new_age_verdict(sym, allow_ai=ai)
     months = DV.monthly_volumes(daily[sym])
@@ -70,6 +78,119 @@ def deep_dive(sym: str, weekly, daily, signal, ai: bool) -> dict:
     return {"signal": signal, "box_state": box_state, "rec": rec,
             "power": power, "calls": calls,
             "months": months, "mtrend": mtrend}
+
+
+WATCH_FIELDS = ["symbol", "surge_week", "watched_since", "expires",
+                "volume_multiple", "month_multiple", "tier", "ladder_why",
+                "last_checked", "status", "signal_json"]
+
+
+def load_ladder_watch(path: Path = LADDER_WATCH) -> dict[str, dict]:
+    if not path.exists():
+        return {}
+    with open(path) as fh:
+        return {r["symbol"]: r for r in csv.DictReader(fh)}
+
+
+def save_ladder_watch(rows: dict[str, dict], path: Path = LADDER_WATCH) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=WATCH_FIELDS)
+        w.writeheader()
+        for sym in sorted(rows):
+            w.writerow({k: rows[sym].get(k, "") for k in WATCH_FIELDS})
+
+
+def ladder_watch_update(gated: list[dict], daily: dict, today: str,
+                        path: Path = LADDER_WATCH,
+                        days: int = DV.LADDER_WATCH_DAYS) -> dict:
+    """The ladder watch, one run forward.
+
+    STARTED: every stock that passed both volume gates today but failed
+    the ladder joins the watch (a repeat surge restarts its month).
+    Every stock already on the watch is re-judged from TODAY'S boxes:
+    ladder rising and the boxes say BUY/ACCUMULATE → PROMOTED (it goes
+    through the deep dive like any fully-qualified pick, carrying its
+    ORIGINAL surge numbers); ladder rising but still in its box → kept,
+    noted; broke down → DROPPED; past its month → EXPIRED. A stock that
+    fully qualifies afresh today leaves the watch — it is a normal pick.
+    Returns {"promoted": [signal…], "watching": [row…], "started",
+    "expired", "dropped": [row…]} and rewrites the watch file."""
+    rows = load_ladder_watch(path)
+    fresh = {g["symbol"] for g in gated if g["fully_qualifies"]}
+    out = {"promoted": [], "watching": [], "started": [], "expired": [],
+           "dropped": []}
+    started = set()
+    for g in gated:
+        mv, up = g.get("month_gate"), g.get("ladder_gate")
+        if g["fully_qualifies"] or not mv or not mv["qualifies"] \
+                or up["qualifies"]:
+            continue
+        sig = {k: v for k, v in g.items()
+               if k not in ("month_gate", "ladder_gate", "fully_qualifies")}
+        exp = (dt.date.fromisoformat(today)
+               + dt.timedelta(days=days)).isoformat()
+        rows[g["symbol"]] = {
+            "symbol": g["symbol"], "surge_week": g["week_start"],
+            "watched_since": today, "expires": exp,
+            "volume_multiple": g["volume_multiple"],
+            "month_multiple": mv["month_vs_year_multiple"],
+            "tier": g.get("tier") or "", "ladder_why": up["why"],
+            "last_checked": today, "status": "started — ladder not rising",
+            "signal_json": json.dumps(sig, default=str)}
+        started.add(g["symbol"])
+        out["started"].append(rows[g["symbol"]])
+    for sym in sorted(rows):
+        r = rows[sym]
+        if sym in started:
+            out["watching"].append(r)
+            continue
+        if sym in fresh:                      # qualified afresh: a pick
+            del rows[sym]
+            continue
+        if today > r["expires"]:
+            r["status"] = f"expired {today} — no rising ladder in {days} days"
+            out["expired"].append(r)
+            del rows[sym]
+            continue
+        bars = daily.get(sym)
+        if not bars:
+            out["watching"].append(r)
+            continue
+        st = DV.find_boxes(bars)
+        up = DV.box_uptrend(st["boxes"])
+        r["last_checked"] = today
+        r["ladder_why"] = up["why"]
+        if not up["qualifies"]:
+            r["status"] = "watching — ladder not rising yet"
+            out["watching"].append(r)
+            continue
+        try:
+            sig = json.loads(r.get("signal_json") or "{}")
+        except json.JSONDecodeError:
+            sig = {}
+        sig.setdefault("symbol", sym)
+        sig["qualifies"] = True
+        sig["promoted_from_watch"] = {"surge_week": r["surge_week"],
+                                      "watched_since": r["watched_since"],
+                                      "volume_multiple": r["volume_multiple"]}
+        rec = DV.recommend(st, sig)
+        if rec["action"] in ("BUY", "ACCUMULATE") and "stop_loss" in rec:
+            r["status"] = f"promoted {today} — ladder rising, {rec['action']}"
+            out["promoted"].append(sig)
+            del rows[sym]
+        elif rec["action"] == "SELL" or st["state"] == "BREAKDOWN":
+            r["status"] = f"dropped {today} — broke down while on watch"
+            out["dropped"].append(r)
+            del rows[sym]
+        else:
+            r["status"] = (f"watching — ladder rising, {rec['action']} "
+                           f"(entry above ₹{rec.get('buy_above', 0):,.2f})"
+                           if rec.get("buy_above") else
+                           f"watching — ladder rising, {rec['action']}")
+            out["watching"].append(r)
+    save_ladder_watch(rows, path)
+    return out
 
 
 def carried_updates(ledger_path: Path, picked: set, daily: dict,
@@ -123,7 +244,8 @@ def detect_raised(old_stops: dict, ledger: list) -> list:
 
 
 def actions_data(dives: list, ledger: list, old_stops: dict,
-                 today: str | None = None) -> dict:
+                 today: str | None = None,
+                 ladder_watch: dict | None = None) -> dict:
     """The week in FOUR verbs, as DATA — the single source both the
     report's closing section and the UIs render from, so they can never
     disagree. WATCH is the radar, not an instruction: a genuine in-box
@@ -167,6 +289,13 @@ def actions_data(dives: list, ledger: list, old_stops: dict,
     sells = [{"symbol": row["symbol"]} for row in ledger
              if row.get("action") == "SELL"
              and (today is None or row.get("updated") == today)]
+    for r in (ladder_watch or {}).get("watching", []):
+        radar.append({"symbol": r["symbol"], "buy_above": None,
+                      "ladder_watch": f"on the ladder watch until "
+                                      f"{r['expires']} — surged "
+                                      f"{float(r['volume_multiple']):.2f}× "
+                                      f"in the week of {r['surge_week']}; "
+                                      f"{r.get('status', '')}"})
     raises = [{"symbol": s, "old": o, "new": n}
               for s, o, n in detect_raised(old_stops, ledger)]
     return {"buys": buys, "raises": raises, "sells": sells,
@@ -210,6 +339,9 @@ def render_actions(a: dict) -> str:
           "BUY by itself in a coming week if the break comes; unbought "
           "old signals expire):", ""]
     for x in a["radar"]:
+        if x.get("ladder_watch"):
+            A.append(f"- {x['symbol']} — {x['ladder_watch']}")
+            continue
         A.append(f"- {x['symbol']} (turns into BUY on a daily close "
                  f"above ₹{x['buy_above']:,.2f})" if x.get("buy_above")
                  else f"- {x['symbol']}")
@@ -291,6 +423,47 @@ def _power_table(p: dict) -> str:
     return "\n".join(out)
 
 
+def render_ladder_watch(lw: dict) -> list[str]:
+    """The ladder watch as a report section: who joined today, who is
+    being watched (and how their ladder looks now), who was promoted,
+    who expired or broke down."""
+    A = ["### The ladder watch", "",
+         f"A stock that passes both VOLUME gates but fails the ladder is "
+         f"not thrown away: it is watched for {DV.LADDER_WATCH_DAYS} days "
+         f"and its ladder re-tested from fresh boxes on every run. The "
+         f"moment the ladder rises and the boxes say BUY or ACCUMULATE, it "
+         f"is promoted into the picks below, carrying its original surge "
+         f"numbers. Darvas listed a stock when the volume came, then "
+         f"waited for the boxes — this is that wait, mechanised.", ""]
+    def row(r, extra=""):
+        return (f"| {r['symbol']} | {r['surge_week']} | "
+                f"{float(r['volume_multiple']):.2f}× | "
+                f"{float(r['month_multiple']):.2f}× | {r['expires']} | "
+                f"{extra or r.get('status', '')} |")
+    hdr = ["| Stock | Surge week | Wk multiple | Month vs yr | Watch until "
+           "| Status |", "|---|---|---:|---:|---|---|"]
+    prom = lw.get("promoted") or []
+    if prom:
+        A += ["**Promoted today** (deep-dived below):", ""] + hdr
+        for s in prom:
+            pw = s["promoted_from_watch"]
+            A.append(f"| {s['symbol']} | {pw['surge_week']} | "
+                     f"{float(pw['volume_multiple']):.2f}× | — | — | "
+                     f"ladder rising now — promoted |")
+        A.append("")
+    watching = lw.get("watching") or []
+    if watching:
+        A += ["**On watch:**", ""] + hdr
+        A += [row(r) for r in watching] + [""]
+    else:
+        A += ["**On watch:** nobody.", ""]
+    gone = (lw.get("expired") or []) + (lw.get("dropped") or [])
+    if gone:
+        A += ["**Left the watch today:**", ""] + hdr
+        A += [row(r) for r in gone] + [""]
+    return A
+
+
 def render_report(scan, dives, meta) -> str:
     A = []
     q = [s for s in scan if s["qualifies"]]
@@ -352,6 +525,7 @@ def render_report(scan, dives, meta) -> str:
     A.append(f"The top {len(dives)} fully-qualified go on to the earnings "
              f"and box steps below.")
     A.append("")
+    A += render_ladder_watch(meta.get("ladder_watch") or {})
 
     # ---- summary of recommendations
     A.append("## The recommendations")
@@ -533,9 +707,14 @@ def cmd_run(args) -> None:
     daily = DV.load_daily()
     gated = DV.full_qualifiers(scan, daily)
     q = [g for g in gated if g["fully_qualifies"]]
-    top = q[:args.top]
+    run_date = dt.date.today().isoformat()
+    lw = ladder_watch_update(gated, daily, run_date)
+    top = q[:args.top] + lw["promoted"]
     print(f"{sum(1 for s in scan if s['qualifies'])} weekly qualifiers → "
-          f"{len(q)} pass all three gates; deep-diving the top {len(top)}",
+          f"{len(q)} pass all three gates; ladder watch: "
+          f"{len(lw['started'])} started, {len(lw['promoted'])} promoted, "
+          f"{len(lw['watching'])} watching, {len(lw['expired'])} expired, "
+          f"{len(lw['dropped'])} dropped; deep-diving {len(top)}",
           file=sys.stderr)
     ai = _ai_available() and not args.quick
     dives = []
@@ -562,7 +741,8 @@ def cmd_run(args) -> None:
                     .splitlines())[1:]
     failed = sum(1 for r in log_rows if ",failed," in r)
     meta = {
-        "run_date": dt.date.today().isoformat(),
+        "run_date": run_date,
+        "ladder_watch": lw,
         "fetched_at": fetched_at,
         "scanned": len(scan),
         "fetch_ok": len(log_rows) - failed,
@@ -583,7 +763,7 @@ def cmd_run(args) -> None:
         f"{src.get('mcap750', 0)} only in the top 750 by size.")
     meta["weekly_qualifiers"] = sum(1 for s in scan if s["qualifies"])
     meta["fully_qualified"] = len(gated)
-    actions = actions_data(dives, ledger, old_stops, meta["run_date"])
+    actions = actions_data(dives, ledger, old_stops, meta["run_date"], lw)
     record = run_record(dives, meta, actions, ledger, args.quick)
     events = DH.full_journal(HISTORY, current=record)
     DH.save_events(events)
@@ -597,6 +777,8 @@ def cmd_run(args) -> None:
     (snap / "run.json").write_text(json.dumps(record, indent=1,
                                               default=str))
     shutil.copy(LEDGER, snap / "_positions.csv")
+    if LADDER_WATCH.exists():
+        shutil.copy(LADDER_WATCH, snap / "_ladder_watch.csv")
     print(f"wrote {REPORT} ({len(md.splitlines())} lines); "
           f"{LATEST.name}; history/{meta['run_date']}/")
 

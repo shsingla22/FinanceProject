@@ -91,13 +91,21 @@ def stitch_universe(backtest_dir: Path,
 
 # ------------------------------------------------------------- screening
 
+LADDER_WATCH_DAYS = DV.LADDER_WATCH_DAYS   # a ladder-failed surge is watched a month
+
+
 def screen_day(bars_upto: list[dict], day: dt.date) -> dict | None:
     """The full three-gate screen + recommend() for ONE symbol as of
     `day` (bars_upto must end on or before day, the day's close known).
     Returns the buy signal when every gate passes AND the action is BUY
     or ACCUMULATE — the skill's direct buy instructions. WATCH is not
     an entry; a genuine in-box WATCH becomes a BREAKOUT buy on a later
-    Friday if the break comes on volume."""
+    Friday if the break comes on volume.
+
+    A stock that passes the two VOLUME gates but fails the ladder is
+    returned with stage "ladder_fail" (never a buy by itself): the
+    caller puts it on the ladder watch and re-tests the ladder on the
+    following Fridays for LADDER_WATCH_DAYS — see retest_ladder()."""
     if len(bars_upto) < DV.MONTH_DAYS + DV.MIN_BASELINE_DAYS:
         return None
     weeks = FD.aggregate_weeks(bars_upto[-LOOKBACK:],
@@ -111,13 +119,33 @@ def screen_day(bars_upto: list[dict], day: dt.date) -> dict | None:
     st = DV.find_boxes(bars_upto[-LOOKBACK:])
     up = DV.box_uptrend(st["boxes"])
     if not up["qualifies"]:
-        return None
+        return {"stage": "ladder_fail", "signal": sig,
+                "volume_multiple": sig["volume_multiple"],
+                "month_multiple": mv["month_vs_year_multiple"],
+                "why": up["why"]}
     rec = DV.recommend(st, sig)
     if rec["action"] not in ("BUY", "ACCUMULATE") or "stop_loss" not in rec:
         return None
-    return {"action": rec["action"], "stop": rec["stop_loss"],
+    return {"stage": "full", "action": rec["action"], "stop": rec["stop_loss"],
             "volume_multiple": sig["volume_multiple"],
             "month_multiple": mv["month_vs_year_multiple"]}
+
+
+def retest_ladder(bars_upto: list[dict], watch: dict) -> dict:
+    """A watched surge, re-judged from TODAY'S boxes: the ladder gate
+    again, and if it now rises, recommend() with the ORIGINAL surge
+    signal. Returns {"verdict": "promote"|"keep"|"drop", ...}."""
+    st = DV.find_boxes(bars_upto[-LOOKBACK:])
+    up = DV.box_uptrend(st["boxes"])
+    if not up["qualifies"]:
+        return {"verdict": "keep", "why": up["why"]}
+    rec = DV.recommend(st, watch["signal"])
+    if rec["action"] in ("BUY", "ACCUMULATE") and "stop_loss" in rec:
+        return {"verdict": "promote", "action": rec["action"],
+                "stop": rec["stop_loss"], "why": up["why"]}
+    if rec["action"] == "SELL" or st["state"] == "BREAKDOWN":
+        return {"verdict": "drop", "why": "broke down while on watch"}
+    return {"verdict": "keep", "why": f"ladder rising but {rec['action']}"}
 
 
 def plan_deployment(cash: float, slice_size: float,
@@ -177,6 +205,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     slice_size = capital / denom
     cash = capital
     positions: dict[str, dict] = {}
+    ladder_watch: dict[str, dict] = {}
     pending: list[dict] = []
     blotter: list[tuple] = []
     equity_curve: list[dict] = []
@@ -341,12 +370,50 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
         eq = equity(d)
         cur_slice = slice_size * (eq / capital)
         signals = []
-        if cash >= cur_slice * MIN_DEPLOY_FRACTION and d != through:
+        if d != through:
             # membership is the rolling point-in-time radar: only this
             # month's members can be screened for fresh entries — held
             # positions run to their stops regardless
             allowed = (None if membership is None
                        else membership.get(d[:7], frozenset()))
+            # the ladder watch: surges that failed the ladder are re-judged
+            # from today's boxes for a month; a rising ladder now is a
+            # signal, a breakdown or the month's end drops it
+            for sym in list(ladder_watch):
+                w = ladder_watch[sym]
+                if sym in positions:
+                    del ladder_watch[sym]
+                    continue
+                if d > w["expires"]:
+                    blotter.append((d, sym, f"ladder watch EXPIRED — surged "
+                                            f"{w['mult']:.2f}× on {w['since']}, "
+                                            f"no rising ladder within "
+                                            f"{LADDER_WATCH_DAYS} days"))
+                    del ladder_watch[sym]
+                    continue
+                i = idx_by[sym].get(d)
+                if i is None:
+                    continue
+                r = retest_ladder(bars_by[sym][:i + 1], w)
+                if r["verdict"] == "drop":
+                    blotter.append((d, sym, f"ladder watch DROPPED — "
+                                            f"{r['why']}"))
+                    del ladder_watch[sym]
+                elif r["verdict"] == "promote":
+                    if allowed is not None and sym not in allowed:
+                        continue
+                    if not earnings_ok(sym, day):
+                        blotter.append((d, sym, "ladder-watch signal REFUSED "
+                                                "— falling earnings power"))
+                        del ladder_watch[sym]
+                        continue
+                    signals.append({
+                        "symbol": sym, "stop": r["stop"], "mult": w["mult"],
+                        "from_watch": True,
+                        "note": f"{r['action']}: surged {w['mult']:.2f}× "
+                                f"weekly on {w['since']} (month "
+                                f"{w['month_mult']:.2f}×), ladder rising "
+                                f"NOW — promoted from the ladder watch"})
             for sym, bars in bars_by.items():
                 if allowed is not None and sym not in allowed:
                     continue
@@ -357,6 +424,23 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                     continue
                 hit = probe(bars[:i + 1], day)
                 if hit is None:
+                    continue
+                if hit.get("stage") == "ladder_fail":
+                    if sym not in ladder_watch:
+                        blotter.append((d, sym, f"ladder watch STARTED — "
+                                                f"{hit['volume_multiple']:.2f}× "
+                                                f"weekly, month "
+                                                f"{hit['month_multiple']:.2f}×, "
+                                                f"but {hit['why']}; watched "
+                                                f"{LADDER_WATCH_DAYS} days"))
+                    ladder_watch[sym] = {
+                        "since": d, "mult": hit["volume_multiple"],
+                        "month_mult": hit["month_multiple"],
+                        "signal": hit["signal"],
+                        "expires": (day + dt.timedelta(
+                            days=LADDER_WATCH_DAYS)).isoformat()}
+                    continue
+                if any(s["symbol"] == sym for s in signals):
                     continue
                 if not earnings_ok(sym, day):
                     blotter.append((d, sym, "fresh signal REFUSED — "
@@ -369,8 +453,14 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                             f"weekly, month {hit['month_multiple']:.2f}×, "
                             f"ladder rising"})
             signals.sort(key=lambda s: -s["mult"])
-            n_fundable = len(plan_deployment(cash, cur_slice, len(signals)))
+            if cash >= cur_slice * MIN_DEPLOY_FRACTION:
+                n_fundable = len(plan_deployment(cash, cur_slice,
+                                                 len(signals)))
+            else:
+                n_fundable = 0
             pending = signals[:n_fundable]
+            for s in pending:
+                ladder_watch.pop(s["symbol"], None)
             for s in signals[n_fundable:]:
                 blotter.append((d, s["symbol"],
                                 f"fresh signal NOT FUNDED — cash exhausted "
