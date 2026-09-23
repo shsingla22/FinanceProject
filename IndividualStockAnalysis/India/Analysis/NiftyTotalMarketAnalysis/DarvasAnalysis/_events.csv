@@ -49,3 +49,31 @@ date,symbol,event,stop_loss,repeat,detail
 2026-09-21,STAR,RAISE STOP,1046.9,,"₹904.78 → ₹1,046.90"
 2026-09-22,RAYMOND,BUY,881.89,,BUY at next open; stop ₹881.89
 2026-09-22,UNIMECH,BUY,1358.59,,"BUY at next open; stop ₹1,358.59"
+2026-09-23,ACMESOLAR,BUY,370.12,yes,still a BUY — re-flagged by the screen; first entry 2026-09-21; stop now ₹370.12
+2026-09-23,ENGINERSIN,BUY,240.92,,BUY at next open; stop ₹240.92
+2026-09-23,INNOVACAP,BUY,1026.19,,"BUY at next open; stop ₹1,026.19"
+2026-09-23,MANINDS,BUY,685.3,,BUY at next open; stop ₹685.30
+2026-09-23,RAYMOND,BUY,881.89,yes,still a BUY — re-flagged by the screen; first entry 2026-09-22; stop now ₹881.89
+2026-09-23,SOLARINDS,BUY,17236.5,,"ACCUMULATE at next open; stop ₹17,236.50"
+2026-09-23,UNIMECH,BUY,1358.59,yes,"still a BUY — re-flagged by the screen; first entry 2026-09-22; stop now ₹1,358.59"
+2026-09-23,AWFIS,RAISE STOP,249.95,,₹231.89 → ₹249.95
+2026-09-23,AARTIPHARM,WATCH,,,on the radar
+2026-09-23,BIKAJI,WATCH,,,on the radar
+2026-09-23,CARBORUNIV,WATCH,,,on the radar
+2026-09-23,CENTUM,WATCH,,,on the radar
+2026-09-23,ELECON,WATCH,,,on the radar
+2026-09-23,EMAMILTD,WATCH,,,on the radar
+2026-09-23,FIRSTCRY,WATCH,,,on the radar
+2026-09-23,GABRIEL,WATCH,,,on the radar
+2026-09-23,GNFC,WATCH,,,on the radar
+2026-09-23,JSWINFRA,WATCH,,,on the radar
+2026-09-23,OPTIEMUS,WATCH,,,on the radar
+2026-09-23,PATANJALI,WATCH,,,on the radar
+2026-09-23,RAYMONDLSL,WATCH,,,on the radar
+2026-09-23,SHYAMMETL,WATCH,,,on the radar
+2026-09-23,SUNTV,WATCH,,,on the radar
+2026-09-23,TEGA,WATCH,,,on the radar
+2026-09-23,TRANSRAILL,WATCH,,,on the radar
+2026-09-23,USHAMART,WATCH,,,on the radar
+2026-09-23,WESTLIFE,WATCH,,,on the radar
+2026-09-23,WHIRLPOOL,WATCH,,,on the radar
