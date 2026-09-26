@@ -7,15 +7,16 @@ refresh_constituents.py — the live universe, kept honest MONTHLY.
 The live universe is the UNION of two lists, each pulled monthly:
 
   1. the OFFICIAL NiftyTotalMarket constituents from NSE Indices;
-  2. the 750 largest listed companies by market capitalisation, from
+  2. the MCAP_TOP (1,250) largest listed companies by market
+     capitalisation, from
      the market-cap file inside NSE's daily PR bundle (the same
      official source the point-in-time backtests ranked on) — EQ/BE
      series, listed (not merely permitted), ETFs and funds excluded.
 
-A company just outside the index but inside the top 750 by size (the
-index rebalances only twice a year) is therefore screened, and every
-stored row says which list(s) it came from (`source`: official,
-mcap750, both). Only when the membership actually differs from the
+A company outside the index but inside the top 1,250 by size (the
+index rebalances only twice a year, and its microcap slice stops well
+above the 1,250th company) is therefore screened, and every stored row
+says which list(s) it came from (`source`: official, mcap<N>, both). Only when the membership actually differs from the
 stored file is it rewritten — every added and removed symbol is
 printed, never silent. A stamp file remembers the last check so the
 live screen re-pulls at most once a month; a failure of either pull
@@ -44,7 +45,8 @@ URL = ("https://niftyindices.com/IndexConstituent/"
 PR_URL = ("https://nsearchives.nseindia.com/archives/equities/bhavcopy/"
           "pr/PR{ddmmyy}.zip")
 MAX_AGE_DAYS = 30
-MCAP_TOP = 750
+MCAP_TOP = 1250
+MCAP_TAG = f"mcap{MCAP_TOP}"      # the source tag on size-list rows
 PR_LOOKBACK_DAYS = 10
 FIELDS = ["nse_symbol", "company_name", "industry", "series", "isin",
           "source"]
@@ -142,7 +144,7 @@ def union_universe(official: list[dict], mcap_top: list[dict]) -> list[dict]:
         if s in rows:
             rows[s]["source"] = "both"
         else:
-            rows[s] = {**r, "source": "mcap750"}
+            rows[s] = {**r, "source": MCAP_TAG}
     return sorted(rows.values(), key=lambda x: x["nse_symbol"])
 
 
@@ -191,9 +193,10 @@ def refresh(force: bool = False, fetch=_fetch,
         mcap_top = top_by_mcap(mcap_rows, MCAP_TOP)
         notes.append(f"top {MCAP_TOP} by market cap as of {mcap_date}")
     except Exception as e:                # noqa: BLE001 — never block
-        notes.append(f"market-cap pull failed ({e}); the stored mcap750 "
+        notes.append(f"market-cap pull failed ({e}); the stored size-list "
                      f"rows stand")
-        mcap_top = [r for r in stored if r["source"] in ("mcap750", "both")]
+        mcap_top = [r for r in stored
+                    if r["source"] == "both" or r["source"].startswith("mcap")]
     union = union_universe(official, mcap_top)
     d = diff_membership(stored, union)
     if d["changed"] or not had_source:

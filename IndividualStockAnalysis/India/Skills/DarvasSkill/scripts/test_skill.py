@@ -1603,7 +1603,7 @@ def test_union_universe_tags_every_row_by_source():
             "series": "EQ", "isin": ""}]
     u = RC.union_universe(official, top)
     assert [(r["nse_symbol"], r["source"]) for r in u] == \
-        [("AAA", "official"), ("BBB", "both"), ("CCC", "mcap750")]
+        [("AAA", "official"), ("BBB", "both"), ("CCC", RC.MCAP_TAG)]
     assert u[1]["isin"] == "INE2"           # the official row's fields win
 
 
@@ -1615,6 +1615,7 @@ def test_refresh_writes_the_union_and_survives_one_failed_pull(tmp_path,
     monkeypatch.setattr(RC, "STORED", stored)
     monkeypatch.setattr(RC, "STAMP", tmp_path / "stamp.txt")
     monkeypatch.setattr(RC, "MCAP_TOP", 2)
+    monkeypatch.setattr(RC, "MCAP_TAG", "mcap2")
     official = "Company Name,Industry,Symbol,Series,ISIN Code\n" + "".join(
         f"Co{i},IT,AAA{i},EQ,INE{i}\n" for i in range(650)) + "A,IT,AAA,EQ,INE1\n"
     big = MCAP_CSV + "".join(
@@ -1632,8 +1633,8 @@ def test_refresh_writes_the_union_and_survives_one_failed_pull(tmp_path,
     assert r["checked"] and r["changed"]
     assert "BIG" in r["added"] and "MID" in r["added"] and "OLD" in r["removed"]
     rows = {x["nse_symbol"]: x for x in csv.DictReader(open(stored))}
-    assert rows["BIG"]["source"] == "mcap750" and rows["AAA"]["source"] == "official"
-    assert r["sources"] == {"official": 651, "mcap750": 2}
+    assert rows["BIG"]["source"] == "mcap2" and rows["AAA"]["source"] == "official"
+    assert r["sources"] == {"official": 651, "mcap2": 2}
     # the market-cap source goes down next month: its rows STAND
     def fetch2(url):
         if url == RC.URL:
@@ -1642,7 +1643,7 @@ def test_refresh_writes_the_union_and_survives_one_failed_pull(tmp_path,
     r2 = RC.refresh(force=True, fetch=fetch2, today=dt.date(2026, 10, 22))
     assert r2["changed"] is False and "market-cap pull failed" in r2["note"]
     rows = {x["nse_symbol"]: x for x in csv.DictReader(open(stored))}
-    assert rows["BIG"]["source"] == "mcap750"
+    assert rows["BIG"]["source"] == "mcap2"
 
 
 # ---------------- the ladder watch: a surge that failed the ladder is

@@ -33,6 +33,7 @@ sys.path.insert(0, str(HERE))
 import charts as CH          # noqa: E402
 import darvas as DV          # noqa: E402
 import darvas_history as DH  # noqa: E402
+import refresh_constituents as RC  # noqa: E402
 import earnings as EP        # noqa: E402
 import fetch_data as FD      # noqa: E402
 
@@ -643,11 +644,11 @@ def render_report(scan, dives, meta) -> str:
     A.append("## How this screen was built")
     A.append("")
     A.append(f"- **Universe:** the official NiftyTotalMarket constituents "
-             f"∪ the 750 largest listed companies by market capitalisation "
-             f"(NSE's daily market-cap file; ETFs and funds excluded), "
-             f"both re-pulled monthly — a company just outside the index "
-             f"but inside the top 750 by size is screened too. "
-             f"{meta.get('universe_note', '')}")
+             f"∪ the {RC.MCAP_TOP:,} largest listed companies by market "
+             f"capitalisation (NSE's daily market-cap file; ETFs and funds "
+             f"excluded), both re-pulled monthly — a company outside the "
+             f"index but inside the top {RC.MCAP_TOP:,} by size is screened "
+             f"too. {meta.get('universe_note', '')}")
     A.append(f"- **Data:** daily bars for the last year for every "
              f"symbol in that universe, fetched fresh THIS run "
              f"({meta['fetched_at']}) from Yahoo Finance into "
@@ -690,7 +691,6 @@ def cmd_run(args) -> None:
     # against NSE Indices' OFFICIAL current list at most once a month,
     # and rewritten only when membership really changed — a failed
     # pull warns and the stored list stands, never blocking the screen
-    import refresh_constituents as RC
     r = RC.refresh()
     if r.get("changed"):
         print(f"universe refreshed: {r['count']} members — added "
@@ -763,10 +763,11 @@ def cmd_run(args) -> None:
             k = r.get("source") or "official"
             src[k] = src.get(k, 0) + 1
     meta["universe_sources"] = src
+    size_only = sum(v for k, v in src.items() if k.startswith("mcap"))
     meta["universe_note"] = (
         f"This run: {src.get('both', 0)} in both lists, "
         f"{src.get('official', 0)} only in the index, "
-        f"{src.get('mcap750', 0)} only in the top 750 by size.")
+        f"{size_only} only in the top {RC.MCAP_TOP:,} by size.")
     meta["weekly_qualifiers"] = sum(1 for s in scan if s["qualifies"])
     meta["fully_qualified"] = len(gated)
     actions = actions_data(dives, ledger, old_stops, meta["run_date"], lw)

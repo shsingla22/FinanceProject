@@ -2,7 +2,7 @@
 name: darvas-skill
 description: >
   Nicolas Darvas's method, run mechanically over the NiftyTotalMarket
-  constituents ∪ the 750 largest NSE companies by market cap (both
+  constituents ∪ the 1,250 largest NSE companies by market cap (both
   re-pulled monthly): a weekly volume surge with the price appreciating is the
   trigger; rising earnings power (EBITDA, EBITDA margin, PAT, PAT margin
   from the stored statements) and a new-age-industry read from the
@@ -238,7 +238,7 @@ liability of the final part-year.
 
 | Where | What |
 |---|---|
-| `India/NiftyTotalMarket/niftytotalmarket_constituents.csv` | the live universe: official NiftyTotalMarket constituents ∪ the 750 largest listed companies by market cap (from NSE's daily PR-bundle market-cap file; EQ/BE, listed, ETFs and funds excluded), each row tagged `source` = official / mcap750 / both; both lists re-pulled monthly by `scripts/refresh_constituents.py` (`--force` to pull now), rewritten only on a real membership change with every add and remove printed |
+| `India/NiftyTotalMarket/niftytotalmarket_constituents.csv` | the live universe: official NiftyTotalMarket constituents ∪ the 1,250 largest listed companies by market cap (the 750 cutoff, about ₹6,150 crore, left out companies such as Macpower at ₹1,844 crore that fully qualified; 1,250 reaches down to about ₹1,680 crore) (from NSE's daily PR-bundle market-cap file; EQ/BE, listed, ETFs and funds excluded), each row tagged `source` = official / mcap1250 / both; both lists re-pulled monthly by `scripts/refresh_constituents.py` (`--force` to pull now), rewritten only on a real membership change with every add and remove printed |
 | `India/VolumeAndPricing/NiftyTotalMarket/_all_daily_long.csv` | one year of daily OHLCV per symbol, refreshed every run |
 | `…/_all_weekly_long.csv` | ISO-week aggregates with traded-day counts and a `complete` flag — the trigger tests the latest week, pro-rating a partial one |
 | `…/_fetch_log.csv`, `_fetched_at.txt` | per-symbol fetch status and the run stamp — failures are listed, never hidden |
