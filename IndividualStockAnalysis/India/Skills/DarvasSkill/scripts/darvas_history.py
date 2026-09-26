@@ -100,7 +100,8 @@ def timeline(runs: list[dict]) -> list[dict]:
             seen_radar.add(key)
             events.append({"date": d, "symbol": w["symbol"],
                            "event": "WATCH",
-                           "detail": (f"on the radar — becomes BUY on a "
+                           "detail": (w["ladder_watch"] if w.get("ladder_watch")
+                                      else f"on the radar — becomes BUY on a "
                                       f"daily close above "
                                       f"₹{w['buy_above']:,.2f}"
                                       if w.get("buy_above")

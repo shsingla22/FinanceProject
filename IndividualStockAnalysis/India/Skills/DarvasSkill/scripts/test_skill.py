@@ -1795,6 +1795,9 @@ def test_ladder_watch_names_sit_on_the_radar_not_in_the_buys():
     assert a["buys"] == [] and a["radar"][0]["symbol"] == "LAD"
     md = AZ.render_actions(a)
     assert "LAD — on the ladder watch until 2026-10-12" in md
+    # and the journal names the watch, not a bare "on the radar"
+    ev = DH.timeline([{"run_date": "2026-09-19", "actions": a}])
+    assert ev[0]["event"] == "WATCH" and "ladder watch" in ev[0]["detail"]
     sec = "\n".join(AZ.render_ladder_watch({
         "watching": [{**lw["watching"][0], "month_multiple": "1.9"}],
         "promoted": [], "expired": [], "dropped": []}))
