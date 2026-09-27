@@ -478,6 +478,10 @@ def main() -> None:
     ap.add_argument("--watch-priority", choices=("surge", "after-fresh"),
                     default="after-fresh", help="rank promoted signals with the "
                     "fresh ones by surge multiple, or fund fresh first")
+    ap.add_argument("--month-multiple", type=float,
+                    default=DV.MONTH_VS_YEAR_MULTIPLE,
+                    help="month-vs-year volume gate threshold for THIS "
+                         "replay only (the skill's own rule is unchanged)")
     ap.add_argument("--no-fetch", action="store_true",
                     help="reuse the stored archive, never fetch")
     ap.add_argument("--end", default=None,
@@ -515,6 +519,8 @@ def main() -> None:
     earnings_ok = make_earnings_ok()
     print("gross replay (no costs, no taxes)…", file=sys.stderr)
     RL.LADDER_WATCH_DAYS = args.ladder_watch_days
+    DV.MONTH_VS_YEAR_MULTIPLE = args.month_multiple
+    print(f"month-vs-year gate: {args.month_multiple}×", file=sys.stderr)
     RL.LADDER_WATCH_PROMOTE = (("BUY",) if args.watch_promote == "buy"
                                else ("BUY", "ACCUMULATE"))
     RL.LADDER_WATCH_PRIORITY = args.watch_priority.replace("-", "_")
