@@ -49,7 +49,8 @@ def test_page_payload_agrees_with_the_downloadable_report():
         if j["action"] != "SELL":
             assert m["stop_loss"] == pytest.approx(j["stop_loss"], abs=0.01)
     for b in rec["actions"]["buys"]:
-        assert f"| **{b['symbol']}** | buy at next open |" in md
+        dag = "" if b.get("core", True) else " †"     # smaller names are marked
+        assert f"| **{b['symbol']}**{dag} | buy at next open |" in md
     for s in rec["actions"]["sells"]:
         assert f"- {s['symbol']}" in md.split("## Today's actions")[1]
 
