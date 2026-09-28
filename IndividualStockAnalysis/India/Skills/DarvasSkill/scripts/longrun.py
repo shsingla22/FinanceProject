@@ -482,6 +482,11 @@ def main() -> None:
                     default=DV.MONTH_VS_YEAR_MULTIPLE,
                     help="month-vs-year volume gate threshold for THIS "
                          "replay only (the skill's own rule is unchanged)")
+    ap.add_argument("--core-membership", default=None,
+                    help="a _membership_long.csv (or archive dir) naming "
+                         "each month's LARGE companies — their signals are "
+                         "funded first; default: the top-750 archive of "
+                         "the same window when it exists")
     ap.add_argument("--no-fetch", action="store_true",
                     help="reuse the stored archive, never fetch")
     ap.add_argument("--end", default=None,
@@ -516,6 +521,19 @@ def main() -> None:
     if membership:
         print(f"rolling PIT membership loaded: {len(membership)} months "
               f"(ETFs excluded, IPOs seasoned 3 months)", file=sys.stderr)
+    core = None
+    core_src = args.core_membership
+    if core_src is None and archive.name.startswith("ROLLING_MCAP") \
+            and "MCAP750" not in archive.name:
+        cand = archive.parent / archive.name.replace(
+            archive.name.split("_")[1], "MCAP750")
+        core_src = str(cand) if cand.exists() else None
+    if core_src:
+        cp = Path(core_src)
+        core = load_membership(cp if cp.is_dir() else cp.parent) \
+            if cp.is_dir() or cp.name == "_membership_long.csv" else None
+        print(f"core (funded first): {core_src} — "
+              f"{len(core) if core else 0} months", file=sys.stderr)
     earnings_ok = make_earnings_ok()
     print("gross replay (no costs, no taxes)…", file=sys.stderr)
     RL.LADDER_WATCH_DAYS = args.ladder_watch_days
@@ -528,14 +546,15 @@ def main() -> None:
           + (" (OFF — the pre-watch rules)" if args.ladder_watch_days <= 0
              else ""), file=sys.stderr)
     gross = RL.run_rolling(bars_by, [], args.start, through, args.capital,
-                           earnings_ok, slots=SLOTS, membership=membership)
+                           earnings_ok, slots=SLOTS, membership=membership,
+                           core=core)
     print(f"gross: ₹{gross['final_equity']:,.2f}", file=sys.stderr)
     print("net replay (Angel One charges on every order, capital-gains "
           "tax every 1 April)…", file=sys.stderr)
     fr = FR.AngelOneFrictions()
     res = RL.run_rolling(bars_by, [], args.start, through, args.capital,
                          earnings_ok, slots=SLOTS, frictions=fr,
-                         membership=membership)
+                         membership=membership, core=core)
     try:
         nifty = fetch_nifty(dt.date.fromisoformat(args.start), end)
     except Exception as e:                # noqa: BLE001 — benchmark only

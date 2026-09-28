@@ -109,7 +109,14 @@ license: internal
    in the closing section), one that closed through its stop is marked
    SELL, and a sold row is never re-judged. **Cash never
    sleeps:** money freed by a stop is deployed into that week's fresh
-   fully-qualified BUY/ACCUMULATE signals — best volume reaction first,
+   fully-qualified BUY/ACCUMULATE signals — **the large names first**
+   (index constituents or the top 750 by market cap; `mcap_rank` in the
+   constituents file), then within a size tier fresh qualifiers before
+   ladder-watch promotions, then the best volume reaction (measured on
+   the top-1,250 universe, April 2020 → Sep 2026: funding loud small
+   caps first made ₹181 per ₹100 against ₹461 on the top 750 alone —
+   smaller names, marked † in the closing section, take a slice only if
+   one is left),
    one equal slice per position, entered at the next day's open, a
    falling earnings power refused, nothing below half a slice. A
    stopped symbol may return only by passing the full three-gate screen

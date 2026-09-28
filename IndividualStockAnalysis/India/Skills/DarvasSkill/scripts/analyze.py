@@ -195,6 +195,20 @@ def ladder_watch_update(gated: list[dict], daily: dict, today: str,
     return out
 
 
+def order_picks(fresh: list[dict], promoted: list[dict],
+                core: set) -> list[dict]:
+    """The funding order of the week's picks: LARGE names (index
+    members or top 750 by market cap) before smaller ones; within a size
+    tier fresh full qualifiers before ladder-watch promotions; then the
+    loudest volume reaction. Measured on the top-1,250 universe: funding
+    loud small caps first halved the six-year return."""
+    def key(s):
+        return (s["symbol"] not in core,
+                bool(s.get("promoted_from_watch")),
+                -float(s.get("volume_multiple") or 0))
+    return sorted(fresh + promoted, key=key)
+
+
 def carried_updates(ledger_path: Path, picked: set, daily: dict,
                     signals: dict | None = None) -> list[dict]:
     """The rhythm for EVERY held position, not only the re-flagged ones:
@@ -280,7 +294,8 @@ def actions_data(dives: list, ledger: list, old_stops: dict,
                          "last_close": r.get("last_close"),
                          "risk_pct": risk,
                          "wide": risk is not None and risk < -25,
-                         "held_stop": held})
+                         "held_stop": held,
+                         "core": d.get("signal", {}).get("core", True)})
         elif r.get("downgraded"):
             downs.append({"symbol": r["symbol"],
                           "why": "downgraded (falling earnings power): "
@@ -308,7 +323,9 @@ def render_actions(a: dict) -> str:
     A = ["", "---", "", "## Today's actions — plain and simple", ""]
     if a["buys"]:
         A += ["**BUY** (place the stop as a GTT order right after the "
-              "fill; one equal slice each — a tenth of capital):", "",
+              "fill; one equal slice each — a tenth of capital; in THIS "
+              "order — the large names first, smaller ones marked † are "
+              "funded only if slices remain):", "",
               "| Stock | Entry | Stop loss |", "|---|---|---:|"]
         for b in a["buys"]:
             risk = ""
@@ -319,7 +336,8 @@ def render_actions(a: dict) -> str:
             if b.get("held_stop"):
                 risk += (f"; already holding it? keep your standing "
                          f"₹{b['held_stop']:,.2f} — a stop never moves down")
-            A.append(f"| **{b['symbol']}** | {b['entry']} | "
+            dag = "" if b.get("core", True) else " †"
+            A.append(f"| **{b['symbol']}**{dag} | {b['entry']} | "
                      f"₹{b['stop_loss'] or 0:,.2f}{risk} |")
         A.append("")
     else:
@@ -715,7 +733,10 @@ def cmd_run(args) -> None:
     q = [g for g in gated if g["fully_qualifies"]]
     run_date = dt.date.today().isoformat()
     lw = ladder_watch_update(gated, daily, run_date)
-    top = q[:args.top] + lw["promoted"]
+    core = RC.core_symbols()
+    top = order_picks(q, lw["promoted"], core)[:args.top + len(lw["promoted"])]
+    for s in top:
+        s["core"] = s["symbol"] in core
     print(f"{sum(1 for s in scan if s['qualifies'])} weekly qualifiers → "
           f"{len(q)} pass all three gates; ladder watch: "
           f"{len(lw['started'])} started, {len(lw['promoted'])} promoted, "

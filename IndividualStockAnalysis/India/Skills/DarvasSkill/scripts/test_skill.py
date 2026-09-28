@@ -1803,3 +1803,65 @@ def test_ladder_watch_names_sit_on_the_radar_not_in_the_buys():
         "watching": [{**lw["watching"][0], "month_multiple": "1.9"}],
         "promoted": [], "expired": [], "dropped": []}))
     assert "| LAD | 2026-09-07 | 2.40× | 1.90× | 2026-10-12 |" in sec
+
+
+# ---------------- large names first: the top 750 are funded before the rest
+
+def test_rolling_funds_core_names_before_louder_small_caps():
+    aaa = _roll_bars("AAA", [100.0] * 40)          # a top-750 name
+    bbb = _roll_bars("BBB", [50.0] * 40)           # a louder small cap
+    bars_by = {"AAA": aaa, "BBB": bbb}
+
+    def stub(bars_upto, day):
+        if day.isoformat() != "2026-01-09":
+            return None
+        sym = bars_upto[-1]["symbol"]
+        return {"stage": "full", "action": "BUY", "stop": 40.0,
+                "volume_multiple": 9.0 if sym == "BBB" else 2.0,
+                "month_multiple": 2.0}
+
+    core = {"2026-01": {"AAA"}}
+    # one slot's worth of cash: only the first-ranked signal is funded
+    res = RL.run_rolling(bars_by, [], "2026-01-02", aaa[-1]["date"], 10.0,
+                         lambda s, d: True, screen=stub, slots=1, core=core)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    assert [b["symbol"] for b in res["book"]] == ["AAA"]
+    assert "BBB fresh signal NOT FUNDED" in text
+    assert "outside the top 750 by size — funded after the large names" in text
+    # without a core list the loudest signal wins, as before
+    res = RL.run_rolling(bars_by, [], "2026-01-02", aaa[-1]["date"], 10.0,
+                         lambda s, d: True, screen=stub, slots=1)
+    assert [b["symbol"] for b in res["book"]] == ["BBB"]
+
+
+def test_refresher_records_market_cap_rank_and_names_the_core():
+    rows = RC.parse_mcap(MCAP_CSV)
+    top = RC.top_by_mcap(rows, n=3)
+    assert [(r["nse_symbol"], r["mcap_rank"]) for r in top] == \
+        [("BIG", 1), ("MID", 2), ("SMALL", 3)]
+    official = [{"nse_symbol": "IDX", "company_name": "I", "industry": "",
+                 "series": "EQ", "isin": "INE9"}]
+    u = {r["nse_symbol"]: r for r in RC.union_universe(official, top)}
+    assert u["BIG"]["mcap_rank"] == 1 and u["IDX"]["mcap_rank"] == ""
+    assert RC.is_core(u["IDX"]) and RC.is_core(u["BIG"], top=2)
+    assert not RC.is_core(u["SMALL"], top=2)
+    assert not RC.is_core({"source": "mcap1250", "mcap_rank": ""})
+
+
+def test_live_picks_put_large_names_first_then_fresh_before_promoted():
+    fresh = [{"symbol": "SMALLLOUD", "volume_multiple": 30.0},
+             {"symbol": "BIGQUIET", "volume_multiple": 1.6},
+             {"symbol": "BIGLOUD", "volume_multiple": 4.0}]
+    promoted = [{"symbol": "BIGPROMO", "volume_multiple": 9.0,
+                 "promoted_from_watch": {"surge_week": "2026-09-07"}}]
+    core = {"BIGQUIET", "BIGLOUD", "BIGPROMO"}
+    order = [s["symbol"] for s in AZ.order_picks(fresh, promoted, core)]
+    assert order == ["BIGLOUD", "BIGQUIET", "BIGPROMO", "SMALLLOUD"]
+    # the closing section marks the small name and states the order
+    dives = [{"rec": {"symbol": "SMALLLOUD", "action": "BUY", "stop_loss": 9.0,
+                      "last_close": 10.0}, "signal": {"core": False}},
+             {"rec": {"symbol": "BIGLOUD", "action": "BUY", "stop_loss": 90.0,
+                      "last_close": 100.0}, "signal": {"core": True}}]
+    md = AZ.render_actions(AZ.actions_data(dives, [], {}))
+    assert "| **SMALLLOUD** † |" in md and "| **BIGLOUD** |" in md
+    assert "the large names first" in md

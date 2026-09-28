@@ -174,7 +174,8 @@ def plan_deployment(cash: float, slice_size: float,
 def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                 start: str, through: str, capital: float,
                 earnings_ok, screen=None, slots: int | None = None,
-                frictions=None, membership: dict | None = None) -> dict:
+                frictions=None, membership: dict | None = None,
+                core: dict | None = None) -> dict:
     """The portfolio day loop.
 
     seed rows: {"symbol", "stop"} — entered at `start`'s close, one
@@ -189,6 +190,10 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
     `frictions` (an AngelOneFrictions, or None for the frictionless
     replay) charges every order and settles capital-gains tax out of
     the portfolio on the first trading day of each April.
+    `core` ({"YYYY-MM": set}) names the month's LARGE companies (the top
+    750 by market cap): their signals are funded before any smaller
+    name's — measured on the top-1,250 universe, loud small caps
+    otherwise take the slots and halve the return.
     Returns the blotter, the weekly equity curve and the final book."""
     probe = screen or screen_day
     denom = slots or len(seed)
@@ -381,6 +386,10 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
             # positions run to their stops regardless
             allowed = (None if membership is None
                        else membership.get(d[:7], frozenset()))
+            big = (None if core is None else core.get(d[:7], frozenset()))
+
+            def is_core(sym):
+                return True if big is None else sym in big
             # the ladder watch: surges that failed the ladder are re-judged
             # from today's boxes for a month; a rising ladder now is a
             # signal, a breakdown or the month's end drops it
@@ -414,7 +423,7 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                         continue
                     signals.append({
                         "symbol": sym, "stop": r["stop"], "mult": w["mult"],
-                        "from_watch": True,
+                        "from_watch": True, "core": is_core(sym),
                         "note": f"{r['action']}: surged {w['mult']:.2f}× "
                                 f"weekly on {w['since']} (month "
                                 f"{w['month_mult']:.2f}×), ladder rising "
@@ -453,15 +462,24 @@ def run_rolling(bars_by: dict[str, list[dict]], seed: list[dict],
                     continue
                 signals.append({
                     "symbol": sym, "stop": hit["stop"],
-                    "mult": hit["volume_multiple"],
+                    "mult": hit["volume_multiple"], "core": is_core(sym),
                     "note": f"{hit['action']}: {hit['volume_multiple']:.2f}× "
                             f"weekly, month {hit['month_multiple']:.2f}×, "
                             f"ladder rising"})
+            # funding order: the large (core) names first, then within
+            # each size tier fresh full qualifiers before promoted ones,
+            # then the loudest volume reaction
             if LADDER_WATCH_PRIORITY == "after_fresh":
-                signals.sort(key=lambda s: (bool(s.get("from_watch")),
+                signals.sort(key=lambda s: (not s.get("core", True),
+                                            bool(s.get("from_watch")),
                                             -s["mult"]))
             else:
-                signals.sort(key=lambda s: -s["mult"])
+                signals.sort(key=lambda s: (not s.get("core", True),
+                                            -s["mult"]))
+            for s in signals:
+                if not s.get("core", True):
+                    s["note"] += "; outside the top 750 by size — funded "
+                    s["note"] += "after the large names"
             if cash >= cur_slice * MIN_DEPLOY_FRACTION:
                 n_fundable = len(plan_deployment(cash, cur_slice,
                                                  len(signals)))

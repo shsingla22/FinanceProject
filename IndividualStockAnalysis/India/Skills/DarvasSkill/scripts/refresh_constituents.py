@@ -48,8 +48,9 @@ MAX_AGE_DAYS = 30
 MCAP_TOP = 1250
 MCAP_TAG = f"mcap{MCAP_TOP}"      # the source tag on size-list rows
 PR_LOOKBACK_DAYS = 10
+CORE_TOP = 750               # the LARGE names: funded before smaller ones
 FIELDS = ["nse_symbol", "company_name", "industry", "series", "isin",
-          "source"]
+          "source", "mcap_rank"]
 HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64)",
            "Referer": "https://www.nseindia.com/"}
 
@@ -98,8 +99,9 @@ def top_by_mcap(rows: list[dict], n: int = MCAP_TOP) -> list[dict]:
     """The n largest, in the stored schema."""
     best = sorted(rows, key=lambda r: -r["mcap"])[:n]
     return [{"nse_symbol": r["symbol"], "company_name": r["name"],
-             "industry": "", "series": r["series"], "isin": ""}
-            for r in best]
+             "industry": "", "series": r["series"], "isin": "",
+             "mcap_rank": i}
+            for i, r in enumerate(best, 1)]
 
 
 def _fetch(url: str, timeout: int = 30) -> bytes:
@@ -138,14 +140,32 @@ def union_universe(official: list[dict], mcap_top: list[dict]) -> list[dict]:
     The official row's richer fields (industry, ISIN) win."""
     rows = {}
     for r in official:
-        rows[r["nse_symbol"]] = {**r, "source": "official"}
+        rows[r["nse_symbol"]] = {**r, "source": "official",
+                                 "mcap_rank": r.get("mcap_rank", "")}
     for r in mcap_top:
         s = r["nse_symbol"]
         if s in rows:
             rows[s]["source"] = "both"
+            rows[s]["mcap_rank"] = r.get("mcap_rank", "")
         else:
             rows[s] = {**r, "source": MCAP_TAG}
     return sorted(rows.values(), key=lambda x: x["nse_symbol"])
+
+
+def is_core(row: dict, top: int = CORE_TOP) -> bool:
+    """A LARGE name: an official index constituent, or inside the top
+    `top` by market cap. Core names are funded before smaller ones."""
+    if row.get("source") in ("official", "both"):
+        return True
+    try:
+        return 0 < int(float(row.get("mcap_rank") or 0)) <= top
+    except ValueError:
+        return False
+
+
+def core_symbols(path: Path = STORED) -> set[str]:
+    with open(path) as fh:
+        return {r["nse_symbol"] for r in csv.DictReader(fh) if is_core(r)}
 
 
 def diff_membership(stored_rows: list[dict],
@@ -175,7 +195,7 @@ def refresh(force: bool = False, fetch=_fetch,
     with open(STORED) as fh:
         rd = csv.DictReader(fh)
         stored = list(rd)
-        had_source = "source" in (rd.fieldnames or [])
+        had_source = all(f in (rd.fieldnames or []) for f in FIELDS)
     for r in stored:                        # files written before `source`
         r.setdefault("source", "official")
     notes = []
@@ -197,6 +217,8 @@ def refresh(force: bool = False, fetch=_fetch,
                      f"rows stand")
         mcap_top = [r for r in stored
                     if r["source"] == "both" or r["source"].startswith("mcap")]
+    for r in mcap_top:
+        r.setdefault("mcap_rank", "")
     union = union_universe(official, mcap_top)
     d = diff_membership(stored, union)
     if d["changed"] or not had_source:
