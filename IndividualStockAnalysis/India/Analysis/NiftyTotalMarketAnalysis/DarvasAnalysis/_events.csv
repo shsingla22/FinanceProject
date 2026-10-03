@@ -138,3 +138,21 @@ date,symbol,event,stop_loss,repeat,detail
 2026-09-28,PFS,WATCH,,,on the ladder watch until 2026-10-28 — surged 83.28× in the week of 2026-09-28; started — ladder not rising
 2026-09-28,RSYSTEMS,WATCH,,,on the radar — becomes BUY on a daily close above ₹283.40
 2026-09-28,SUNFLAG,WATCH,,,on the ladder watch until 2026-10-28 — surged 17.37× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,BOSCH-HCIL,BUY,1550.02,,"BUY at next open; stop ₹1,550.02"
+2026-10-03,GALAXYSURF,BUY,1969.4,,"ACCUMULATE at next open; stop ₹1,969.40"
+2026-10-03,SMCGLOBAL,BUY,73.98,yes,still a BUY — re-flagged by the screen; first entry 2026-09-28; stop now ₹73.98
+2026-10-03,SYNCOMF,BUY,14.82,yes,still a BUY — re-flagged by the screen; first entry 2026-09-28; stop now ₹14.82
+2026-10-03,GMMPFAUDLR,RAISE STOP,1344.25,,"₹1,226.07 → ₹1,344.25"
+2026-10-03,SAMBHV,RAISE STOP,141.9,,₹116.85 → ₹141.90
+2026-10-03,WESTLIFE,RAISE STOP,533.95,,₹505.30 → ₹533.95
+2026-10-03,AWFIS,SELL,,,closed below its box bottom — exit
+2026-10-03,AZAD,WATCH,,,on the ladder watch until 2026-11-02 — surged 4.45× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,DPABHUSHAN,WATCH,,,on the ladder watch until 2026-11-02 — surged 5.80× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,ELECTCAST,WATCH,,,on the ladder watch until 2026-11-02 — surged 6.76× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,IRCON,WATCH,,,on the ladder watch until 2026-11-02 — surged 15.11× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,JSWHL,WATCH,,,on the ladder watch until 2026-11-02 — surged 2.40× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,KAJARIACER,WATCH,,,on the ladder watch until 2026-11-02 — surged 5.40× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,PIXTRANS,WATCH,,,on the ladder watch until 2026-11-02 — surged 6.89× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,RITES,WATCH,,,on the ladder watch until 2026-11-02 — surged 6.02× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,TCIEXP,WATCH,,,on the ladder watch until 2026-11-02 — surged 9.99× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,VESUVIUS,WATCH,,,on the ladder watch until 2026-11-02 — surged 31.40× in the week of 2026-09-28; started — ladder not rising
