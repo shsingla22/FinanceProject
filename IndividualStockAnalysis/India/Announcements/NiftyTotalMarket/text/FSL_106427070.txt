@@ -1,0 +1,945 @@
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+ 
+    4th November 2025 
+ To: 
+National Stock Exchange of India Limited  Exchange Plaza,
+ 
+Plot no. C/1, G 
+Block, Bandra-
+Kurla Complex Bandra (East),
+ 
+Mumbai - 400 051 
+ 
+(Scrip Code: FSL )                     BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai - 400 001 
+ 
+(Scrip Code: 532809)  
+ 
+ 
+Dear Madam/Sir,  Sub: Audited Standalone and Consolidated Financial Results for the Quarter & Half 
+year ended 30th September 2025 (Q2 FY2025-26) and Outcome of the Board 
+Meeting 
+ We hereby inform you that the Board of Dir ectors of the Company at its meeting held 
+today i.e. 4
+th November 2025, has inter-alia approved and noted the following: 
+ 
+1. The Audited Standalone and Consolidated Financial Results for the Quarter & Half 
+year ended 30th September 2025, copy of which is enclosed herewith along with copy 
+of the Auditors' Reports thereon and a copy of Press release relating to the said Financial Results.  
+2. Company made a strategic minority investment in Applied AI, an AI Company, during 
+the quarter under review. 
+ 
+3. The appointment of Ms. Jagriti Bhattacharya as Executive Vice President and 
+General Counsel, based on the recommendation of the Nomination and Remuneration Committee, who will be a Senior Management Personnel of the Company in terms of Regulation16(1)(d) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), with effect from the date of the Board Meeting.   The requisite details with respect to the said appointment pursuant to the requirement of Regulation 30 and other relevant provisions of the SEBI Listing Regulations read with SEBI Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 November 11, 2024, as amended, are enclosed as Annexure “A.”  
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+ (CIN: L64202MH2001PLC134147)  
+4.A Scheme of Merger through Amalgamation, between Firstsource Process
+Management Services Limited (FPMSL) (Transferor Company 1) and Accunai IndiaServices Private Limited (Accunai) (Transferor Company 2), Wholly OwnedSubsidiaries of Firstsource Solutions Limited (FSL), with FSL (Transferee Company),and their respective Shareholders and Creditors subject to: (i) approval of theShareholders of the respective companies; (ii) sanction of Hon’ble National CompanyLaw Tribunal; and (iii) other statutory/regulatory approvals, as may be required.
+The requisite details with respect to the said Scheme pursuant to the requirement of
+Regulation 30 and other relevant provisions of the SEBI Listing Regulations readalong with SEBI Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 November 11, 2024,
+as amended, are enclosed as Annexure “B.”
+The Meeting commenced at 3:00 p.m. and concluded at 3.55 p.m. 
+We request you to take the above on record. 
+Thanking you, 
+For Firstsource Solutions Limited 
+Pooja Nambiar 
+Company Secretary  Encl.: A/a  POOJA 
+SURESH 
+NAMBIARDigitally signed by POOJA SURESH 
+NAMBIAR
+
+
+
+
+25108262BMNTMM7627
+(₹ in millions, except per share data and per equity data)
+Year ended
+September 30 June 30 September 30 September 30 September 30 March 31
+2025 2025 2024 2025 2024 2025
+(Audited) (Audited) (Audited) (Audited) (Audited) (Audited)
+Income
+ Revenue from operations 23,146.95           22,209.34           19,326.12           45,356.29           37,164.82           79,721.00           
+ Other operating income, net (24.83)                 (32.83)                 (72.31)                 (57.66)                 (0.02)                  82.14                  
+ Other income, net (12.86)                 68.27                  (27.26)                 55.41                  (8.90)                  (8.67)                  
+Total income 23,109.26           22,244.78           19,226.55           45,354.04           37,155.90           79,794.47           
+Expenses
+ Employee benefits expense 13,617.67           13,207.01           12,104.39           26,824.68           23,372.43           49,957.80           
+ Depreciation and amortization 1,095.56             972.47                791.87                2,068.03             1,520.37             3,270.35             
+ Finance costs 427.60                434.37                343.32                861.97                659.32                1,478.76             
+ Other expenses 5,744.20             5,498.64             4,276.69             11,242.84           8,220.94             17,769.14           
+Total expenses 20,885.03           20,112.49           17,516.27           40,997.52           33,773.06           72,476.05           
+Profit before exceptional items, share in net profit of associate and tax 2,224.23             2,132.29             1,710.28             4,356.52             3,382.84             7,318.42             
+Exceptional items, net (income) (19.11)                 -                     -                     (19.11)                 -                     (88.09)                 
+Profit before tax and share in net profit of associate 2,243.34             2,132.29             1,710.28             4,375.63             3,382.84             7,406.51             
+Share in net profit of associate -                     -                     -                     -                     -                     -                     
+Profit before tax 2,243.34             2,132.29             1,710.28             4,375.63             3,382.84             7,406.51             
+Tax expense
+ Current tax 473.70                483.93                283.69                957.63                571.73                1,294.64             
+ Deferred tax (25.49)                 (44.89)                 44.48                  (70.38)                 76.51                  167.36                
+Net profit after tax 1,795.13             1,693.25             1,382.11             3,488.38             2,734.60             5,944.51             
+Other comprehensive income, net of taxes 216.42                (1,212.65)            (1,025.47)            (996.23)               (941.65)               432.57                
+Total comprehensive income 2,011.55             480.60                356.64                2,492.15             1,792.95             6,377.08             
+Profit attributable to:
+Owners of the equity 1,795.15             1,693.32             1,382.16             3,488.47             2,734.66             5,944.55             
+Non - controlling interest (0.02)                  (0.07)                  (0.05)                  (0.09)                  (0.06)                  (0.04)                  
+1,795.13             1,693.25             1,382.11             3,488.38             2,734.60             5,944.51             
+Total comprehensive income attributable to:
+Owners of the equity 2,011.47             480.71                356.77                2,492.18             1,793.00             6,376.96             
+Non - controlling interest 0.08                    (0.11)                  (0.13)                  (0.03)                  (0.05)                  0.12                    
+2,011.55             480.60                356.64                2,492.15             1,792.95             6,377.08             
+ Paid-up equity share capital (Face value per share of ₹ 10) 6,969.91             6,969.91             6,969.91             6,969.91             6,969.91             6,969.91             
+ Other Equity 34,006.39           
+ Earning per share ( ₹) : (Face value per share of ₹ 10)
+-Basic 2.60                    2.45                    2.01                    5.05                    3.97                    8.63                    
+-Diluted 2.54                    2.40                    1.96                    4.95                    3.88                    8.42                    
+Notes to financial results :
+(₹ in millions)
+Year ended
+September 30 June 30 September 30 September 30 September 30 March 31
+2025 2025 2024 2025 2024 2025
+Total income 6,850.37             6,942.09             5,503.89             13,792.46           10,736.70           23,468.43           
+Net profit before tax and after exceptional items 1,177.83             1,663.95             1,123.00             2,841.78             2,303.40             5,338.96             
+980.45                1,352.18             918.60                2,332.63             1,867.12             4,270.44             Particulars Six months ended4. Standalone Information (Audited)
+Quarter ended 2. Exceptional items, net (income) of ₹19.11 million comprise of fair value adjustment on the contingent consideration payable resulting in a credit of ₹243.64 million and an impairment charge of ₹
+224.53 million of intangible assets (net of tax), both on account of an earlier business combination.Firstsource Solutions Limited
+1. The audited consolidated financial results for the quarter and six months ended September 30, 2025 have been approved by the Board of Directors at it s meeting held on November 4, 2025. The
+statutory auditors have expressed an unmodified audit opinion. The financial results presented above is extracted from the audited condensed inter im consolidated financial statements for the quarter
+and six months ended September 30, 2025. These condensed interim consolidated financial statements are prepared in accordance with the Indian Accou nting Standards 34 ('Ind AS 34') 'Interim
+Financial Reporting', as prescribed under Section 133 of the Companies Act, 2013 read with Rule 3 of the Companies (Indian Accounting Standards) Rule s, 2015 and relevant amendment rules issued
+thereunder.
+3. Consolidated statement of cash flows is attached in Annexure I.Quarter ended 
+ParticularsSix months endedCIN: L64202MH2001PLC134147
+Registered office: 1st Floor, Athena Towers, Mindspace Malad, Goregaon West, Mumbai, Maharashtra, India, 400063
+Tel: + 91 22 66660888, web: www.firstsource.com, email:complianceofficer@firstsource.comAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2025
+Net profit after tax and before other comprehensive income
+Page 1
+5. Statement of assets and liab ilities (Audited)
+As at As at 
+Particulars September 30 March 31
+2025 2025
+ASSETS
+Non-current assets
+Property, plant and equipment 3,107.78             2,762.90             
+Capital work-in-progress 91.48                  491.41                
+Right-of-use assets 8,709.86             9,125.76             
+Goodwill on consolidation 38,242.85           36,799.24           
+Other Intangible assets 788.06                1,247.60             
+Intangible assets under development 95.47                  -                     
+0.07                    0.07                    
+Financial assets
+    Investments 337.10                115.21                
+    Other financial assets 899.38                1,026.46             
+Deferred tax assets 3,201.59             2,734.63             
+Income tax assets (net) 907.25                713.93                
+Others non-current assets 2,482.71             1,964.65             
+Total non-current assets 58,863.60           56,981.86           
+Current assets
+Financial assets
+     Investments 694.07                615.63                
+     Trade receivables
+     - Billed 11,130.58           11,677.13           
+     - Unbilled 6,613.03             5,183.18             
+     Cash and cash equivalents 2,254.90             1,542.12             
+     Other balances with banks 72.94                  127.81                
+     Other financial assets 319.05                206.32                
+Other current assets 3,263.13             2,888.28             
+Total current assets 24,347.70           22,240.47           
+Total assets 83,211.30           79,222.33           
+EQUITY AND LIABILITIES
+Equity
+Equity share capital 6,969.91             6,969.91             
+Other equity 36,686.54           34,006.39           
+Total equity attributable to equity holders of the Company 43,656.45           40,976.30           
+Non - controlling interest 3.93                    3.96                    
+Total equity 43,660.38           40,980.26           
+LIABILITIES
+Non-current liabilities
+Financial liabilities
+     Long term borrowings 3,551.70             3,419.00             
+     Lease liabilities 7,378.37             8,069.81             
+     Other financial liabilities 1,591.73             580.48                
+Provisions 297.32                240.82                
+Deferred tax liabilities 1,708.34             1,645.11             
+Total non-current liabilities 14,527.46           13,955.22           
+Current liabilities
+Financial liabilities
+     Short-term and other borrowings 10,217.08           11,907.95           
+     Trade payables 4,586.26             3,976.20             
+     Lease liabilities 2,542.25             2,295.86             
+     Other financial liabilities 5,132.74             4,208.59             
+Other current liabilities 1,182.63             1,105.52             
+Provisions 749.77                643.34                
+Provision for income tax (net) 612.73                149.39                
+Total current liabilities 25,023.46           24,286.85           
+Total equity and liabilities 83,211.30           79,222.33           Firstsource Solutions Limited
+AUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2025
+Investment in associates accounted for using the equity method
+Page 2
+6. Segment Reporting - Consolidated audited (₹ in millions)
+Year ended
+September 30 June 30 September 30 September 30 September 30 March 31
+2025 2025 2024 2025 2024 2025
+(Audited) (Audited) (Audited) (Audited) (Audited) (Audited)
+Segment revenue
+a) Banking and Financial Services 7,678.87             7,224.89             6,641.56             14,903.76           13,126.95           27,119.16           
+b) Healthcare 7,766.15             7,418.43             7,025.18             15,184.58           13,397.69           27,823.87           
+c) Communication, Media and Technology 5,017.89             4,970.00             4,117.11             9,987.89             8,092.41             16,897.74           
+d) Diverse Industries 2,684.04             2,596.02             1,542.27             5,280.06             2,547.77             7,880.23             
+Total 23,146.95           22,209.34           19,326.12           45,356.29           37,164.82           79,721.00           
+Less: Inter-segment revenue -                     -                     -                     -                     -                     
+Net segment revenue 23,146.95           22,209.34           19,326.12           45,356.29           37,164.82           79,721.00           
+Segment results before tax and finance costs
+a) Banking and Financial Services 1,469.58             1,499.02             1,013.00             2,968.60             1,975.06             4,482.28             
+b) Healthcare 1,037.24             905.69                863.93                1,942.93             1,597.38             3,701.40             
+c) Communication, Media and Technology 897.08                801.47                726.82                1,698.55             1,427.34             2,839.61             
+d) Diverse Industries 282.51                232.33                175.21                514.84                389.81                918.10                
+Total 3,686.41             3,438.51             2,778.96             7,124.92             5,389.59             11,941.39           
+          i)  Finance costs (427.60)               (434.37)               (343.32)               (861.97)               (659.32)               (1,478.76)            
+(1,034.58)            (871.85)               (725.36)               (1,906.43)            (1,347.43)            (3,144.21)            
+Profit before exceptional items, share in net profit of associate and tax 2,224.23             2,132.29             1,710.28             4,356.52             3,382.84             7,318.42             
+          i)  Exceptional items, net (income) 19.11                  -                     -                     19.11                  -                     88.09                  
+          ii) Share in net profit of associate -                     -                     -                     -                     -                     -                     
+Profit before tax and other comprehensive income 2,243.34             2,132.29             1,710.28             4,375.63             3,382.84             7,406.51             
+Note on segment information
+Business segments
+By order of the Board
+For Firstsource Solutions Limited
+Mumbai, India Ritesh Mohan Idnani
+November 4, 2025 Managing Director and CEOQuarter ended 
+          ii) Other unallocable expenditure net of
+              unallocable income
+Assets and liabilities used in the Group’s business are not directly identified to any of the operating segments, as these are used interchangeably be tween segments. Allocation of such assets and
+liabilities is not practicable and any forced allocation would not result in any meaningful segregation. Hence assets and liabi lities have not been identified to any of the reportable segments by the Group.Revenues and expenses directly attributable to the segments are reported under each reportable segment. The accounting principles used in the prepa ration of the segment information are consistently
+applied to record revenue and expenditure in individual business segments.Operating segments are defined as components of an enterprise for which discrete financial information is available that is evaluated regularly by t he Chief Operating Decision Maker (‘CODM’), in
+deciding how to allocate resources and in assessing performance. Operating segments are identified based on the internal organization at the Balanc e Sheet date. With the objective of internal financial
+reporting and decision making of the Group, the CODM has reviewed the manner in which the Group views the business risks and returns and monitors its ope rations. Accordingly, the group has
+identified business segment which comprises of Banking and Financial Services, Healthcare, Communication, Media and Technology and Diverse Industries.AUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2025
+ParticularsSix months endedFirstsource Solutions Limited
+Page 3Ritesh Mohan 
+IdnaniDigitally signed by Ritesh Mohan Idnani Date: 2025.11.04 15:50:26 
++05'30'
+Consolidated statement of cash flows (Audited) Annexure I
+(₹ in millions)
+September 30 September 30
+2025 2024
+                    4,375.63                    3,382.84 
+                    2,068.03                    1,520.37 
+                         69.57                         68.62 
+                         22.01                         29.81 
+                       (38.35)                         72.64 
+                       861.97                       659.32 
+                       (15.28)                          (4.75)
+                       (19.11)                               -   
+                       (28.73)                        (37.64)
+                       322.23 340.57                       
+                    7,617.97                    6,031.78 
+(952.87)                                        (1,827.48)
+(892.25)                                           (334.99)
+841.59                                         (1,057.17)
+                  (1,003.53)                   (3,219.64)
+(687.61)                      (601.31)                     
+                    5,926.83                    2,210.83 
+                (14,149.29)                 (11,724.41)
+                  14,099.58                  11,914.68 
+                               -                     (5,018.38)
+                         15.28                           4.75 
+                     (712.71)                   (1,529.42)
+                       209.69                       116.74 
+                         (3.50)                               -   
+                         58.37                           4.23 
+                     (221.30)                               -   
+                       (26.93)                               -   
+                     (730.81)                   (6,231.81)
+                  (2,232.47)                    3,608.29 
+                               -                      3,378.93 
+                               -                        (798.76)
+                     (851.05)                      (764.39)
+                     (134.26)                      (152.37)
+                               -                        (224.82)
+                  (1,298.20)                      (755.37)
+                  (4,515.98)                    4,291.51 
+                       680.04                       270.53 
+                    1,542.12                    1,747.74 
+                         32.74                           5.35 
+                    2,254.90                    2,023.62  Allowance for expected credit loss/ bad debts written-off, net Cash flow from operating activities
+ Changes in working capital 
+ Purchase of Non-controlling Interest in a subsidiary  Payment towards acquisition of businesses  Increase in trade receivables 
+ Increase in loans and advances and other assets 
+ Increase / (decrease) in liabilities and provisions  
+ Net changes in working capital Six Months ended
+Particulars
+ Net profit before tax and non controlling interest 
+ Adjustments for 
+ Depreciation and amortization  
+ Income taxes paid  Loss on sale of property,plant and equipment,net 
+ Foreign exchange (gain) / loss, net unrealized 
+ Finance costs  
+ Profit on sale / redemption of investments 
+ Interest income received 
+ Purchase of property, plant and equipment 
+ Proceeds from sale of property, plant and equipment 
+ Investment in short term fixed deposits  Employee stock compensation expense 
+ Operating cash flow before changes in working capital 
+ Purchase of non-current investment 
+ Repayment of long term borrowings  Earmarked balances with banks 
+ Payment of contingent consideration towards acquisition 
+ Cash and cash equivalents at the end of the period  Net cash (used in) / generated from financing activities (C)  
+ Net increase in cash and cash equivalents (A+B+C) 
+ Cash and cash equivalents at the beginning of the period  Net cash used in investing activities (B) 
+Cash flow from financing activities
+ Foreign exchange gain on translating Cash and cash equivalents Firstsource Solutions Limited
+ Purchase of treasury shares, net 
+ Repayment of lease liab ilities  (Repayment of) / Proceeds from short term borrowings 
+ Proceeds from long term borrowings  Net cash generated from operating activities (A) 
+ Interest paid Cash flow from investing activities Interest income  
+ Exceptional items, net (income) 
+ Purchase of current investments 
+ Proceeds from sale of current investments 
+Page 4
+
+
+
+25108262BMNTMN1089
+(₹ in millions, except per share data and per equity data)
+Particulars Year ended
+September 30 June 30 September 30 September 30 September 30 March 31
+2025 2025 2024 2025 2024 2025 
+(Audited) (Audited) (Audited) (Audited) (Audited) (Audited)
+Income
+ Revenue from operations 6,915.85            6,926.74             5,523.68             13,842.59           10,582.04           23,121.29           
+ Other operating income, net (165.54)              (105.19)              (103.34)               (270.73)               (32.67)                 (55.58)                 
+ Other income, net 100.06               120.54                83.55                  220.60                187.33                402.72                
+Total income 6,850.37            6,942.09             5,503.89             13,792.46           10,736.70           23,468.43           
+Expenses
+Employee benefits expense 3,643.60            3,436.86             3,004.70             7,080.46             5,733.94             12,455.98           
+Depreciation and amortization 542.35               437.82                262.72                980.17                520.60                1,257.45             
+Finance costs 148.39               142.67                99.76                  291.06                183.46                429.16                
+Other expenses 1,338.20            1,260.79             1,013.71             2,598.99             1,995.30             4,538.32             
+Total expenses 5,672.54            5,278.14             4,380.89             10,950.68           8,433.30             18,680.91           
+Profit before except ional items and tax 1,177.83            1,663.95             1,123.00             2,841.78             2,303.40             4,787.52             
+ Exceptional items, net (income) -                     -                     -                      -                      -                      (551.44)               
+Profit from ordinary activities before tax 1,177.83            1,663.95             1,123.00             2,841.78             2,303.40             5,338.96             
+Tax expense
+    Current tax 208.43               290.73                196.34                499.16                402.47                949.84                
+    Deferred tax (11.05)                21.04                  8.06                    9.99                    33.81                  118.68                
+Net profit after tax 980.45               1,352.18             918.60                2,332.63             1,867.12             4,270.44             
+Other comprehensive income, net of taxes (769.24)              (1,229.36)           (1,135.96)            (1,998.60)            (1,057.63)            (214.57)               
+Total comprehensive income 211.21               122.82                (217.36)               334.03                809.49                4,055.87             
+ Paid-up equity share capital (Face value per share of ₹10) 6,969.91            6,969.91             6,969.91             6,969.91             6,969.91             6,969.91             
+ Other equity 18,788.54           
+ Earning per share ( ₹): (Face value per share of ₹10)
+-Basic 1.42                   1.96                   1.34                    3.38                    2.71                    6.20                    
+-Diluted 1.39                   1.92                   1.31                    3.31                    2.65                    6.05                    
+Notes to financial results :
+3. Standalone statement of cash flows is attached in Annexure I.2. As per Ind AS 108 - Operating Segment ('Ind AS 108'), if a financial report contains both consolidated financial statements of a parent that is within the scope of this Ind AS as
+well as the parent's separate financial statements, segment information is required only in the consolidated financial statements. Accordingly, i nformation required to be presented
+under Ind AS 108 - Operating Segment has been given in the consolidated financial results.1. The audited standalone financial results for the quarter and six months ended September 30, 2025 have been approved by the Board of Directors at its m eeting held on
+November 4, 2025. The statutory auditors have expressed an unmodified audit opinion. The financial results presented above is extracted from the aud ited condensed interim
+standalone financial statements for the quarter and six months ended September 30, 2025. These condensed interim standalone financial statements a re prepared in accordance
+with the Indian Accounting Standards 34 (' Ind AS 34') 'Interim Financial Repo rting', as prescribed under Section 133 of the Companies Act, 2013 read w ith Rule 3 of the Companies
+(Indian Accounting Standards) Rules, 2015 and rele vant amendment rules issued thereunder.AUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2025
+CIN: L64202MH2001PLC134147
+Registered office: 1st Floor, Athena Towers, Mindspace Malad, Goregaon West, Mumbai, Maharashtra, India, 400063
+Tel: + 91 22 66660888 web: www.firstsource.com, email:complianceofficer@firstsource.com
+Six months ended Quarter ended Firstsource Solutions Limited
+Page 1
+4. Statement of Assets and liabilities (Audited)
+(₹ in millions)
+Particulars As at As at 
+September 30 March 31
+2025 2025 
+ASSETS
+Non-current assets
+Property, plant and equipment 1,527.29             1,435.96             
+Capital work-in-progress 64.62                  418.25                
+Right-of-use assets 5,661.36             5,097.08             
+Goodwill 40.14                  40.14                  
+Other Intangible assets 51.12                  57.63                  
+Intangible assets under development 95.47                  -                      
+Financial assets
+    Investments 16,118.63           15,951.24           
+    Other financial assets 656.31                763.05                
+Other non-current assets 58.53                  47.74                  
+Deferred tax assets (net) 3,091.01             2,787.44             
+Income tax assets (net) 853.79                747.18                
+Total non- cu rrent assets 28,218.27           27,345.71           
+Current assets
+Financial assets
+     Investments 345.34                375.01                
+     Trade receivables
+     - Billed 10,938.20           8,677.06             
+     - Unbilled 257.14                268.62                
+     Cash and cash equivalents 366.91                193.59                
+     Other balances with banks 36.94                  95.31                  
+     Other financial assets 135.95                47.24                  
+Other current assets 1,016.84             1,002.48             
+Total current assets 13,097.32           10,659.31           
+Total assets 41,315.59           38,005.02           
+EQUITY AND LIABILITIES
+Equity
+Equity share capital 6,969.91             6,969.91             
+Other equity 19,310.54           18,788.54           
+Total equity 26,280.45           25,758.45           
+LIABILITIES
+Non-current liab ilities
+Financial liabilities
+     Lease liabilities 4,990.36             4,522.29             
+     Other financial liabilities 1,215.09             231.77                
+Provisions for employee benefits 253.81                205.81                
+Total non-current liabilities 6,459.26             4,959.87             
+Current liab ilities
+Financial liabilities
+     Short-term borrowings 2,022.13             2,458.35             
+     Trade payables 1,229.08             1,133.78             
+     Lease liabilities 1,367.46             1,149.47             
+     Other financial liabilities 3,190.91             2,075.70             
+Provisions for employee benefits 235.72                176.33                
+Other current liabilities 193.83                213.15                
+Provision for income tax (net) 336.75                79.92                  
+Total current liab ilities 8,575.88             7,286.70             
+Total equity and liabilities 41,315.59           38,005.02           
+By order of the Board
+For Firstsource Solutions Limited
+Mumbai, India Ritesh Mohan Idnani
+November 4, 2025 Managing Director and CEOAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2025Firstsource Solutions Limited
+Page 2Ritesh Mohan 
+IdnaniDigitally signed by Ritesh Mohan Idnani 
+Date: 2025.11.04 15:50:50 
++05'30'
+Standalone Statement of cash flows (Audited) Annexure I
+(₹ in millions)
+September 30 September 30
+2025 2024
+Cash flow from operating activities
+Net Profit before tax                        2,841.78                     2,303.40 
+Adjustments for
+Depreciation and amortization                           980.17                        520.60 
+Allowance for expected credit loss / bad debt written off, net                             (0.16)                           (0.17)
+(Gain) / Loss on sale of Property Plant and Equipment                             (5.78)                          24.04 
+Foreign exchange gain / (loss), net unrealised                             97.29                         (35.60)
+Finance costs                           291.06                        183.46 
+Interest income                             (7.92)                           (2.10)
+Profit on sale / redemption of investments                           (18.16)                         (21.29)
+Employee stock compensation expense                             93.14                          89.07 
+Operating cash flow before changes in working capital                        4,271.42                     3,061.41 
+Changes in working capital
+Increase in tr ade receivables                      (2,249.50)                    (1,641.45)
+Increase in loans and ad vances and other assets                         (126.50)                       (260.70)
+Increase / (decrease) in liabilities and provisions                           141.29                         (58.84)
+Net changes in working capital                      (2,234.71)                    (1,960.99)
+Income taxes paid                         (348.94)                       (329.66)
+Net cash generated from operating activities (A)                        1,687.77                        770.76 
+Cash flow from investing activities
+Purchase of current investments                    (13,244.34)                  (11,509.42)
+Proceeds from sale of current investments                      13,292.17                   11,616.93 
+Interest income received                               7.92                            2.10 
+Purchase of property  plant and equipment                         (289.82)                       (972.76)
+Proceeds from sale of prop erty plant and equipment                           209.68                        115.39 
+Earmarked funds placed with banks                             58.37                            4.23 
+Payment of contingent consid eration towards acquisition                           (26.93)                                -   
+Payment towards acquis ition of subsidiary                                  -                      (2,004.97)
+Investment in subsidiary                                  -                             (2.78)
+Net cash generated from / (used in) investing activities (B)                               7.05                    (2,751.28)
+Cash flow from financing activities
+Proceeds from long term borrowings                                  -                            35.23 
+Repayment of long term borrowings                                  -                           (17.36)
+(Repayment of) / Proceeds from short term borrowings                         (511.77)                     2,331.97 
+Interest paid                         (288.62)                       (180.22)
+Purchase of treasury shares, net (134.26)                                               (152.37)
+Repayment of lease liabilities                         (588.08)                       (282.83)
+Net cash (used in) / generated from financing activities (C)                      (1,522.73)                     1,734.42 
+Net increase / (decrease) in cash and cash equivalents at the end of the period (A+B+C)                           172.09                       (246.10)
+Cash and cash equivalents at the beginning of the period                           193.59                        414.14 
+Foreign exchange gain on translating cash and cash equivalents                               1.23                            0.61 
+Cash and cash equivalents at the end of the period                           366.91                        168.65 Firstsource Solutions Limited
+Particulars Six months ended
+Page 3
+PRESS RELEASE  
+ © Firstsource Solutions Limited  1  
+Firstsource Solutions Reports Second  Quarter Fiscal 202 6 Results  
+Adds 1,500 + net headcount;  Four large  deal wins ; Deal pipeline crosses US$1bn  ACV  
+Reiterates 13 -15% FY26 constant currency revenue growth guidance  
+ 
+Mumbai, November  04, 202 5: Firstsource Solutions Limited (NSE: FSL, BSE:532809), a leading global provider of specialist 
+domain -led Business Process Services (BPS) and an RP -Sanjiv Goenka Group company , reported its consolidated financial 
+results for the quarter ended September  30, 202 5, according to IndAS.  
+ 
+Financial highlights for Quarter ended September  30, 2025  
+• Revenues at ₹ 23,122  million (US$ 2 65 million), up 20.1 % YoY  
+• EBIT at ₹ 2,665 million or 11. 5% of revenues, up 2 8.1% YoY  
+• Profit After Tax (PAT) at ₹ 1, 795 million or 7. 8% of revenue  
+• Diluted Earnings Per Share (EPS) of ₹ 2.54 
+• FCF/PAT at 117% 
+ 
+Financial highlights for half year ended September 30, 202 5 
+• Revenues at ₹ 45,299 million (US$ 524 million), up 21.9 % YoY  
+• EBIT at ₹ 5,163 million or 11. 4% of revenues, up 2 7.4% YoY  
+• Profit After Tax (PAT) at ₹ 3,488 million or 7. 7% of revenue  
+• Diluted Earnings Per Share (EPS) of ₹ 4.95  
+• FCF/PAT at 155%  
+ 
+Dr. Sanjiv  Goenka,  Chairman  - RPSG  Group  and Firstsource  Solutions,  commented,  “Our Q2 performance reflects a strong 
+balance of growth, resilience, and disciplined execution. We continued to win the right kind of business — large, strategic, 
+and transformation -led engagements — while deepening client relationships across industries an d geographies. The 
+success of our OneFirstsource strategy is evident in our ability to diversify our client base, secure major deals, and drive 
+growth across key sectors and region s. We are investing strategically in innovation, talent, and sustainability to build a 
+high -performing, trusted organization that delivers lasting impact. Our UnBPO ᵀᴹ approach continues to generate strong 
+client interest and tangible value by combining AI, innovation, and deep -domain expertise to create outcomes that matter. 
+Looking ahead, our focus, execution discipline, and strong values will continue to keep us at t he forefront of the industry 
+— delivering sustainable growth and long -term value for all s takeholders.”  
+ 
+Key Business Highlights:                     
+• Signed four large deals  in Q2FY26, continuing the multi -quarter streak of consistent large  deal wins.  
+• Added 10 new logos during the quarter, including four strategic logos . 
+• Notable new deal wins in Q 2 included:  
+o Expanded  in collection services with a large  UK-based retail bank . This is our largest deal for collection services 
+in the UK  
+o Selected by a leading US loan subservicing provider for first -party collections  
+o Partnered with a Top 10 US healthcare payer for claims data capture services leveraging Sympraxis , Firstsource’s 
+proprietary digital intake platform  
+o Expanded relationship with one of the Top10 national health plan in the US  for provider network operations, 
+automation, and data management  
+o Selected by a leading health insurer in the US  for benefits configuration and downstream documentation 
+generation  
+o Selected by one of the leading BCBS plans in the US  to improve claims and customer experience  
+o Awarded additional business from one of the largest communications and media companies  in the UK  
+o Selected by one of the largest global consumer tech companies  for customer support and content moderation 
+services  
+• In Q2FY26, Firstsource made notable progress across verticals. Banking and Financial Services  added  three new logos, 
+driven by a much wider capabilities portfolio and leverage from consulting -led engagements . Healthcare added three 
+new logos  while progressing well on large deal  ramp -ups. Communications, Media & Technology  added four new 
+logos , fuelled by demand for CX and AI -led solutions from digital -native brands .  
+PRESS RELEASE  
+ © Firstsource Solutions Limited  2  
+• Employee strength at the end of Q2FY26 stood at 35,997 , an addition of 1,502 over Q1 . Offshore  and nearshore hires 
+accounted for 80% of gross additions.  The attrition rate declined further to 28.0% , a 12ppt improvement over the last 
+eight quarters.  
+• Recognition s:  
+o Named  a Horizon 3 Market Leader  among the Best Service Providers  for Mortgage Reinvention by HFS Research  
+o Recognized as a Major Contender and Star Performer in Everest Group’s Financial Crime and Compliance 
+Operations Services  PEAK Matrix 2025  
+o Rated as a Leader in Avasant’s Mortgage Business Process Transformation RadarView 2025  
+o Recognized among India’s Best Workplaces for Women 2025, by Great Place to Work®  
+o Recognized with Gold in the 'Use of Tech & Analytics in Talent Acquisition – Visionary Organisations' category at 
+the People Matters Infini -T Awards 2025.  
+o Recogniz ed at the 3rd Prithvi Award s by the ESG Research Foundation . 
+o Recognized with two Gold and two Silver awards at the prestigious Brandon Hall Group ™ HCM Excellence Awards® 
+2025 for innovation and impact in learning and development . 
+FY26 outlook:  
+For FY26, we expect our revenue to grow in the range of 13% to 15% in constant currency terms. This does not include any 
+contribution from Pastdue Credit Solutions since the transaction is yet to close pending regulatory approvals. We see our 
+FY26 EBIT margin in 11.25% to 12%  band.  
+___ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Firstsource  
+Firstsource Solutions Limited, an RP -Sanjiv Goenka Group company (NSE: FSL, BSE: 532809, Reuters: FISO.BO, Bloomberg: FSOL:IN), is a 
+global leader providing business process solutions and services spanning the customer lifecycle across Healthcare, Banking and Financia l 
+Services, Communications, Media and Technology, Retail, and other diverse industries. With a global footprint across US, UK, India , 
+Philippines, Mexico, Romania, Turkey, Trinidad & Tobago, South Africa, and Australia, we ‘make it happen’ for our clients, solving their 
+biggest challenges with hyper -focused, domain -centered teams and cutting -edge tech, data, and analytics. Our inch -wide, mile -deep 
+practitioners work collaboratively, leveraging UnBPO ™ - our differentiated approach to reimagining traditional outsourcing - to deliver 
+real-world, future -focused solutions that drive speed, scale, and smarter decision s, turning transformation into tangible results for our 
+clients. ( www.firstsource.com ) 
+ 
+Media Contact  
+Madhavi.Behl@firstsource.com  Investors Contact  
+Pankaj.Kapoor@firstsource.com  
+ 
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+ 
+ 
+Annexure A 
+ 
+Sr. 
+No Particulars Details of Ms. Jagriti Bhattacharya 
+1. Reason for Change  Appointment 
+2. Date of Appointment & Terms 
+of Appointment as a Senior Management Personnel 4
+th November 2025 (Approved by the Board) 
+ Terms of Appointment: Full Time Employment  
+3. Brief Profile Ms. Jagriti Bhattacharya is an experienced 
+professional with over 20 years of experience working across industry, having worked with reputed organizations like Pine Labs, Citibank and ICICI Bank and skilled in Legal advice, Corporate Law and a trusted partner to Business leaders. She is a law graduate from the National Law School of India. 
+4. Disclosure of relationships 
+between directors (in case of appointment of a Director) 
+ Not Applicable 
+ 
+  
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+Annexure B 
+ 
+Sr. 
+No Particulars Details  
+1 Name of the entity(ies) forming part of 
+the amalgamation/merger, details in 
+brief such as, size, turnover etc. Transferor Companies: 
+1. Firstsource Process Management Services 
+Limited (FPMSL): 
+x Turnover (as on March 31, 2025): Nil 
+x Authorized Share Capital: Rs.15.00 million 
+x Paid up Share Capital: Rs.10.5 million  
+ 2. Accunai India Services Private Limited 
+(Accunai): 
+x Turnover (as on March 31, 2025):  Rs. 15.52 
+million 
+x Authorized Share Capital: Rs. 0.1 million 
+x Paid up Share Capital: Rs. 0.1 million  
+ 
+Transferee Company: 
+ 
+Firstsource Solutions Limited (Listed Entity/ 
+FSL): 
+x Turnover (as on March 31, 2025): Rs. 
+231,21.29 million 
+x Authorized Share Capital:  Rs. 8,720 million 
+x Paid up Share Capital: Rs. 6969.91 million  
+ 
+2 Whether the transaction would fall 
+within related party transactions? If 
+yes, whether the same is done at 
+“arm’s length” 
+ The Transferor Companies (FPMSL and Accunai) 
+are Wholly Owned Subsidiaries of the Transferee 
+Company (FSL). Therefore, the proposed merger is 
+amongst related parties. However, the Ministry of 
+Corporate Affairs has clarified vide its General 
+Circular No. 30/2014 dated July 17, 2014, that 
+transactions arising out of Compromise, 
+Arrangements and Amalgamations dealt with 
+under specific provisions of the Companies Act, 
+2013 will not fall within the purview of related 
+party transaction in terms of Section 188 of the 
+Companies Act, 2013. 
+ 
+Also, as transactions entered into between a  
+holding company and its wholly owned 
+subsidiaries  whose accounts are consolidated with
+such holding company and placed before the share
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+holders at the general meeting for approval, are 
+exempt pursuant to Regulation 23(5)(b) of the SEBI 
+Listing Regulations, the provisions pertaining to 
+related party transactions are not applicable to the 
+proposed Scheme of Merger through Amalgamation 
+between the Transferor Company with the 
+Transferee Company. 
+ 
+3 Area of business of the entity(ies);  
+ Transferor Companies: 
+1. Firstsource Process Management Services 
+Limited (FPMSL):  
+ 
+ The main objective of the Company is: 
+To design, plan, develop, make, establish, install, 
+operate, provide, manage, maintain, implement, 
+execute, promote, market, buy, sell, re-sell, trade, 
+deal, import, export, distribute and facilitate in 
+any manner the entire range of Information 
+Technology (IT) and IT enabled computing 
+solutions & services, consultancy services, 
+delivering technology-driven business solutions 
+including but not limited to IT infrastructure 
+deployment and management services, network 
+infrastructure deployment and management 
+services, application d evelopment, application 
+management and operations, application portfolio 
+optimization, enterprise content management, 
+enterprise resource plan ning, full services co-
+sourcing, mainframe services, network 
+infrastructure, business applications and 
+information security, remote IT infrastructure 
+management services, turnkey IT services, 
+implement customer interaction management 
+services, cloud computi ng, computer hardware 
+and software systems and all kinds of communications, software development, software 
+engineering, database and data processing 
+services, web technology, web-page hosting, 
+website designing, web enabled services, electronic 
+commerce services in various forms including but 
+not restricted to voice, email, chat and 
+collaborative browsing value added services 
+including all services related to access, storage, 
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+distribution and transmission of internet and all 
+other IT enabled value added services in use or 
+may be developed in future with an intention of 
+moving upstream in the value chain in India and 
+in foreign countries. 
+ 
+2. Accunai India Services Private Limited 
+(Accunai):  
+ 
+    The main objectives of the Company are: 
+ 
+1. To carry on the business of software designing, 
+development, customisation, implementation, 
+maintenance, testing and benchmarking; 
+designing, developing and dealing in computer 
+software and Artificial Intelligence solutions, 
+Natural Language Processing and Deep 
+Learning models, targeted at revolutionizing 
+and transforming the healthcare sector; and to 
+import, export, sell, purchase, distribute, host 
+(in data centres or over the web) or otherwise 
+deal in own and third-pa rty computer software 
+packages, programs and solutions; and to 
+provide internet/web- based applications, 
+services and solutions; provide or take up 
+information technology related assignments on 
+sub-contracting basis, offering services on 
+site/off-site or through development centres using owned/hired or third-party 
+infrastructure and equipment; and to provide 
+solutions, packages, and services through 
+application service providers mode via internet 
+or otherwise, to undertake IT enabled services 
+like call Centre Management, Medical and legal 
+transcription, data processing, Back office 
+processing, data warehousing and database 
+management. 
+2. To carry on the business of dealing and 
+maintenance of computer hardware, computer 
+systems and assemble data processors, 
+program designs and to buy, sell or otherwise 
+deal in such hardware and software packages 
+and all types of tabulating machine, 
+accounting machines, calculators, 
+computerized tele comm unication systems and 
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+network, their components, spare parts, 
+equipments and devices and to carry on the 
+business of establishing, running and 
+managing institutions, school, and academics 
+for imparting  education  in  computer  
+technology, offering  equipment,  solutions  
+and  services  for networking and network 
+management, data centre management and in 
+providing consultancy services in all above 
+mentioned areas. 
+3. To develop, provide, undertake, design, import, 
+export, distribute and deal in Systems and 
+application software for microprocessor based 
+information systems, off shore software 
+development projects, internet service 
+provider, and solutions in all areas of 
+application including those in Emerging niche 
+segments like Internet and Intranet website applications solutions software enterprise, 
+resource planning, e-commerce, value added 
+products and other business applications 
+either for its own use for sale in India or for 
+export outside India and to design and develop 
+such systems and application software for and 
+on behalf of manufacturers owners and users 
+of computer, telecom, digital, electronic 
+equipment’s in India or elsewhere in the world. 
+4. To carry on in India the business of marketing, 
+promoting, advertising franchising or dealing 
+in any of the above activities both in internal 
+and external markets, on digital media or any 
+other online or digital means, on its own or 
+through any sort or nature and to appoint 
+sub-franchisers etc., for any of the above 
+purposes, in India or elsewhere and marketing 
+through online marketing, digital marketing in 
+various sites. 
+ 
+Transferee Company: 
+ 
+Firstsource Solutions Limited (Listed Entity/ 
+FSL):  
+ 
+    The main objectives of the Company are: 
+1. To design, plan, develop, make, establish, 
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+install, operate, provide, manage, maintain, 
+promote, execute, implement customer 
+interaction management services, consultancy 
+services, or otherwise deal in, operate and 
+facilitate in any manner the entire range of IT 
+enabled  services,  web  enabled  services,  
+value added services including all services 
+related to access, storag e, distribution and 
+transmission of Internet, web page hosting 
+website designing, electronic commerce 
+services in various forms including but not 
+restricted to voice, e-mail, chat and 
+collaborative browsing, data base and data 
+processing services, computer hardware and 
+software systems, and all kinds of 
+communication as are in use or may be 
+developed in future with an intention of 
+moving upstream in the value chain. 
+2. To provide information, undertake marketing 
+of various services either directly or through 
+the internet and related media. To gather 
+information, act as a trader, importer, 
+indentor, agent, distributor and to do E-
+commerce. To perform every act and provide 
+all services relating to advertisement and 
+marketing of various services throughout the 
+world through websites, online shops and 
+other communication media. 
+4 Rationale for amalgamation/ merger; Firstsou rce Solutions Limited is a part of the RP-
+Sanjiv Goenka Group Company and  Firstsource 
+Process Management Services Limited, Accunai 
+India Services Private Limited, the Transferor 
+Companies are wholly-owned subsidiaries of the 
+Transferee Company . The Scheme is expected to 
+achieve the following: 
+ 
+1. Simplify the group structure by integrating the 
+wholly-owned subsidiaries into the listed 
+holding company. 
+ 
+2. Eliminate duplication of functions and 
+overlapping costs, thereby reducing 
+operational and administrative expenses and 
+improving efficiency. 
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+ 
+ 
+3. Minimise multiplicity of legal and regulatory 
+compliances through streamlined reporting 
+and statutory requirements. 
+ 
+4. Enable greater focus on core business 
+operations, improve governance and 
+transparency, and enhance long-term 
+shareholder value. 
+ 
+5 In case of cash consideration – 
+amount or otherwise share exchange 
+ratio;  
+ The entire share capital of the Transferor 
+Companies is held by the Transferee Company 
+and its Nominee(s). As the Transferee Company is 
+the ultimate holding company of the Transferor 
+Companies, there shall not be any issue of shares 
+as consideration to the shareholders of the 
+Transferor Companies. The Scheme of Merger 
+through Amalgamation does not involve any fresh 
+issue of shares or paymen t of consideration to 
+any of the shareholders. 
+6 Brief details of change in shareholding 
+pattern (if any) of listed entity.  
+ There will be no change in the shareholding 
+pattern of the Transferee Company (FSL) as no 
+shares are being issued pursuant to the Scheme. 
+ 
+ 
+ 
+Firstsource Solutions Ltd 
+1st Floor, Athena Towers, Mindspace Malad,  Goregaon (W), Mumbai – 400 063 India 
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 08887 | Web: www.firstsource.com 
+  
+                                                      (CIN: L64202MH2001PLC134147)  
+ 
+4th November 2025 
+ 
+ 
+To: National Stock Exchange of India 
+Limited (Scrip Code: FSL)  Exchange Plaza,  Plot no. C/1, G Block, Bandra-Kurla Complex Bandra (East), Mumbai - 400 051 BSE Limited (Scrip Code: 
+532809)  Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai - 400 001  
+ 
+ 
+Sub: Declaration under Regulation 33 of the SEBI (Listing Obligations and 
+Disclosures Requirements) Regulations 2015 read with SEBI circular 
+CIR/CFD/CMD/56/2016 dated 27th May 2016 
+ 
+We hereby declare that as mentioned under the Independent Auditor’s Report dated        
+4th November 2025 for Standalone and Consolidated Financial Results respectively for the 
+quarter & half year ended 30th September 2025 are with unmodified opinion. 
+ 
+Please take the same on your record. 
+ 
+Thanking you, 
+ 
+For Firstsource Solutions Limited 
+ 
+ 
+ Pooja Nambiar 
+Company Secretary  
+ 
+ POOJA 
+SURESH 
+NAMBIARDigitally signed by POOJA SURESH NAMBIAR

@@ -1,0 +1,20 @@
+stage,detail,at
+nse,"2025-10-08→2025-10-31: 9073 filings, 35 restructuring rows for the universe",2026-10-08T04:30:39+00:00
+nse,"2025-11-01→2025-11-30: 16557 filings, 78 restructuring rows for the universe",2026-10-08T04:30:44+00:00
+nse,"2025-12-01→2025-12-31: 10341 filings, 68 restructuring rows for the universe",2026-10-08T04:30:49+00:00
+nse,"2026-01-01→2026-01-31: 12702 filings, 57 restructuring rows for the universe",2026-10-08T04:30:53+00:00
+nse,"2026-02-01→2026-02-28: 16377 filings, 62 restructuring rows for the universe",2026-10-08T04:30:58+00:00
+nse,"2026-03-01→2026-03-31: 11043 filings, 88 restructuring rows for the universe",2026-10-08T04:31:02+00:00
+nse,"2026-04-01→2026-04-30: 12513 filings, 73 restructuring rows for the universe",2026-10-08T04:31:07+00:00
+nse,"2026-05-01→2026-05-31: 20735 filings, 106 restructuring rows for the universe",2026-10-08T04:31:39+00:00
+nse,"2026-06-01→2026-06-30: 14545 filings, 80 restructuring rows for the universe",2026-10-08T04:31:43+00:00
+nse,"2026-07-01→2026-07-31: 16954 filings, 108 restructuring rows for the universe",2026-10-08T04:31:49+00:00
+nse,"2026-08-01→2026-08-31: 21026 filings, 83 restructuring rows for the universe",2026-10-08T04:31:54+00:00
+nse,"2026-09-01→2026-09-30: 17127 filings, 86 restructuring rows for the universe",2026-10-08T04:31:55+00:00
+nse,"2026-10-01→2026-10-08: 2923 filings, 20 restructuring rows for the universe",2026-10-08T04:31:58+00:00
+nse,"total 181916 filings read, 944 kept",2026-10-08T04:31:59+00:00
+bse,resolving BSE codes for 746 companies,2026-10-08T04:31:59+00:00
+bse,"RSS snapshot: 578 items today, 13 new (store 578)",2026-10-08T04:38:24+00:00
+bse,screener BSE-sourced lists for 750 companies,2026-10-08T04:38:24+00:00
+text,fetching text for 1023 attachments,2026-10-08T04:43:48+00:00
+text,988 attachments with text on file,2026-10-08T04:59:43+00:00

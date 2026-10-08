@@ -219,7 +219,7 @@ def test_build_situations_groups_walks_stages_and_gathers_facts():
     s = sits[0]
     assert s["n_filings"] == 4 and s["first_filing"] == "2026-01-10"
     assert list(s["stage_dates"]) == ["announced", "exchange_noc", "nclt_sanction", "record_date"]
-    assert s["stage"] == "record_date" and s["listed_on"] == "2026-09-01"
+    assert s["stage"] == "record_date" and s["listed_on"] == "2026-09-15"   # the record date itself
     assert s["facts"]["resulting_company"] == "Alpha Energy Limited"
     assert s["facts"]["entitlement_ratio"] == "1 for every 1"
     assert {r["reason"] for r in s["reasons"]} >= {"value unlocking for shareholders"}
@@ -245,7 +245,10 @@ def test_checklist_and_verdict_follow_the_notes():
     assert items["Timing (first year sells, second year gains)"]["status"] == "partly"
     assert items["Management discussing it on the calls"]["status"] == "yes"
     v = SO.verdict(s, list(items.values()))
-    assert v["label"].startswith("LISTED <1Y") and 7 <= v["score"] <= 10
+    assert v["label"].startswith("SPINNING") and 7 <= v["score"] <= 10   # record date 23 days ago
+    later = dt.date(2026, 11, 1)
+    s2 = SO.build_situations(_rows(), {"3": SCHEME}, later)[0]
+    assert SO.verdict(s2, SO.checklist(s2, fin, mentions, later))["label"].startswith("LISTED <1Y")
     # a pre-spin situation points at the parent
     pre = SO.build_situations(_rows()[:2], {}, TODAY)[0]
     assert pre["stage"] == "exchange_noc"
@@ -355,7 +358,7 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     assert "# Spin-offs and demergers" in md
     assert "| **ALPHA** | spin-off | record_date |" in md
     assert "Alpha Energy Limited" in md and "1 for every 1" in md
-    assert "LISTED <1Y" in md and "On the calls" in md
+    assert "SPINNING" in md and "On the calls" in md
     assert "Other restructurings on file" in md and "| ALPHA | merger |" in md
     assert "mechanical read only" in md
     rec = json.loads((out / "spinoff_latest.json").read_text())
@@ -375,3 +378,36 @@ def test_call_only_scan_finds_indications_without_filings(monkeypatch):
     assert [x["symbol"] for x in c] == ["GAMMA"] and c[0]["n"] >= 2
     assert c[0]["latest"] == "May 2026" and c[0]["example"]
     assert AZ.call_only_scan(["GAMMA"], exclude={"GAMMA"}, today=TODAY) == []
+
+
+def test_boilerplate_does_not_read_as_stages_facts_or_reasons():
+    boiler = ("Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure "
+              "Requirements) Regulations, 2015 — Listing Regulations. The scheme is subject to "
+              "receipt of regulatory approvals. Details of pending actions against the Company, "
+              "its promoters: nil. Pursuant to the above, equity shares were credited. Announcement.")
+    assert SO.stage_of(boiler) is None
+    f = SO.facts_in(boiler)
+    assert "esop_pricing" not in f and "insider_continuity" not in f
+    assert "insider_oversubscribe" not in SO.facts_in(boiler, rights=False)
+    assert SO.reasons_in(boiler) == []
+    assert SO.stage_of("Listing and commencement of trading of the equity shares of SKF "
+                       "Industrial Limited (resulting company)") == "listed"
+    assert SO.stage_of("Board approved the Scheme of Arrangement for demerger") == "announced"
+    g = SO.facts_in('between Alpha Ltd and JSW Energy Limited ("Resulting Company")')
+    assert g["resulting_company"] == "JSW Energy Limited"
+    assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" as defined in the Scheme;')
+
+
+def test_news_only_filings_are_a_rumoured_situation():
+    rows = [{"date": "2026-09-30", "symbol": "SUNTV", "company": "Sun TV", "source": "NSE",
+             "category": "News Verification", "kind": "demerger", "tags": "demerger",
+             "headline": "The Exchange has sought clarification w.r.t. news item captioned "
+                         "Possible sports division demerger", "attachment": "", "ann_id": "9",
+             "file_size": "", "text_file": ""},
+            {**{"date": "2026-09-30", "symbol": "SUNTV", "company": "Sun TV", "source": "NSE",
+                "category": "Clarification", "kind": "demerger", "tags": "demerger",
+                "headline": "Sun TV denies CNBC-TV18 rumor of possible sports division demerger",
+                "attachment": "", "ann_id": "10", "file_size": "", "text_file": ""}}]
+    s = SO.build_situations(rows, {}, TODAY)[0]
+    assert s["stage"] == "rumoured" and s["facts"].get("news_only") is True
+    assert SO.verdict(s, SO.checklist(s, {}, [], TODAY))["label"].startswith("RUMOURED")

@@ -61,15 +61,21 @@ _MONTHS = {m: i + 1 for i, m in enumerate(
 # ------------------------------------------------------------ the stages
 
 STAGES = [
-    ("announced",   re.compile(r"board.{0,40}(approv|consider|propos)|propos\w* (demerger|scheme|spin)|in[- ]principle|announce", re.I)),
+    ("announced",   re.compile(r"board.{0,40}(approv|consider|propos)\w*.{0,80}(de-?merg|scheme|spin|arrangement|hive|list)|"
+                               r"propos\w* (de-?merger|scheme|spin|arrangement)|in[- ]principle approval|"
+                               r"(announc|intimat)\w* .{0,40}(de-?merger|spin|scheme of arrangement)", re.I)),
     ("exchange_noc", re.compile(r"no[- ]objection|no observation|observation letter", re.I)),
     ("meetings",    re.compile(r"(shareholders?|creditors?|equity shareholders).{0,40}meeting|nclt[- ]convened|postal ballot.{0,60}scheme", re.I)),
     ("nclt_sanction", re.compile(r"(sanction|approv\w*|order).{0,40}(nclt|national company law tribunal)|(nclt|tribunal).{0,60}(sanction|approv|order)", re.I)),
     ("effective",   re.compile(r"scheme.{0,40}(effective|become effective|came into effect)|effective date|certified copy.{0,40}order.{0,40}filed", re.I)),
     ("record_date", re.compile(r"record date", re.I)),
-    ("listed",      re.compile(r"(listing|listed|trading approval|commencement of trading|admitted to dealings).{0,80}(resulting|demerged|new|equity shares)|allotment of (equity )?shares.{0,60}(scheme|demerger|resulting)", re.I)),
+    ("listed",      re.compile(r"listing (and|&) (commencement of )?trading|commencement of trading|trading approval|"
+                               r"admitted to dealings|listed (on|with) the (stock )?exchange|"
+                               r"listing(?! regulations?| obligations?) .{0,60}(resulting|demerged) compan|"
+                               r"allotment of (equity )?shares.{0,60}(scheme|de-?merger|resulting)", re.I)),
 ]
 STAGE_ORDER = [s for s, _ in STAGES]
+PRE_STAGES = ("rumoured", "announced", "exchange_noc", "meetings", "nclt_sanction")
 
 
 def stage_of(text: str) -> str | None:
@@ -93,10 +99,11 @@ REASONS = [
      re.compile(r"capital[- ]intensive|debt[- ]laden|loss[- ]making|turnaround|"
                 r"legacy|non[- ]core|de[- ]?leverag|ring[- ]fenc", re.I)),
     ("regulatory / strategic knot",
-     re.compile(r"regulatory (requirement|approval|framework|reason|constraint|"
-                r"restriction|compliance)|licen[cs]e (condition|requirement)|"
+     re.compile(r"(regulatory|statutory) (constraint|restriction|reason|hurdle)s?\b|"
+                r"licen[cs]e (condition|requirement)|(mandated|required|directed) by "
+                r"(the )?(regulator|rbi|sebi|irdai|dot|cci)\b|"
                 r"anti[- ]?trust|competition commission|\bcci\b|"
-                r"\brbi\b.{0,40}(requir|direct|mandate)|statutory requirement|"
+                r"\brbi\b.{0,40}(requir|direct|mandate)|"
                 r"strategic (partner|investor|alliance)", re.I)),
     ("attracting different investors / capital",
      re.compile(r"attract\w* (a |an )?(different|distinct|new|specific|appropriate|separate) (set of |class of )?investor|"
@@ -142,10 +149,14 @@ UNDERTAKING_RX = re.compile(
     r"demerged undertaking[\"'”’\s]*[,:(]?\s*(?:i\.e\.|means|being|namely|shall mean)?\s*(.{10,200}?)[.;\n]",
     re.I | re.S)
 PROFORMA_RX = re.compile(r"pro[- ]?forma", re.I)
-ESOP_RX = re.compile(r"(stock option|esop|esos|restricted stock|rsu)\w*.{0,160}?"
-                     r"(exercise price|grant|pric\w+|adjust)", re.I | re.S)
+NEWS_RX = re.compile(r"news verification|sought clarification|news item|rumou?r|denie[sd]|"
+                     r"clarification on (news|media)", re.I)
+ESOP_RX = re.compile(r"\b(stock options?|esops?|esos|restricted stock|rsus?)\b.{0,160}?"
+                     r"\b(exercise price|grant|pric\w+|adjust\w*)\b", re.I | re.S)
 INSIDER_RX = re.compile(
-    r"promoter\w*.{0,80}?(continue|retain|hold|shareholding|stake|same)|"
+    r"promoter\w*.{0,60}?(shall |will |to )?(continue to (hold|own|remain)|retain|"
+    r"same (percentage|proportion)|mirror(ed)? shareholding|identical shareholding)|"
+    r"shareholding (pattern )?(of|in) the resulting compan.{0,80}?(mirror|same|identical)|"
     r"(managing director|chief executive|ceo|whole[- ]time director).{0,80}?"
     r"(resulting|demerged|new) compan", re.I | re.S)
 OVERSUB_RX = re.compile(r"additional (rights )?(equity )?shares|over[- ]?subscri\w+|"
@@ -166,7 +177,7 @@ def _to_date(m) -> str | None:
         return None
 
 
-def facts_in(text: str) -> dict:
+def facts_in(text: str, rights: bool = True) -> dict:
     """What a scheme filing states: entitlement ratio, resulting company,
     demerged undertaking, record / appointed dates, pro-forma mention,
     ESOP pricing mention, insider continuity, size hints."""
@@ -178,10 +189,17 @@ def facts_in(text: str) -> dict:
         out["entitlement_quote"] = _snippet(t, m.start(), m.end(), 60)
     m = RESULTING_BEFORE_RX.search(t) or RESULTING_RX.search(t)
     if m:
-        out["resulting_company"] = re.sub(r"\s+", " ", m.group(1)).strip()
+        name = re.sub(r"\s+", " ", m.group(1)).strip()
+        name = re.split(r"\b(?:and|between|with|amongst|among|into)\b", name, flags=re.I)[-1].strip()
+        name = re.sub(r"^(of|by|the)\s+", "", name, flags=re.I)
+        if len(name) > 6:
+            out["resulting_company"] = name
     m = UNDERTAKING_RX.search(t)
     if m:
-        out["demerged_undertaking"] = re.sub(r"\s+", " ", m.group(1)).strip()[:200]
+        u = re.sub(r"\s+", " ", m.group(1)).strip()
+        if not re.match(r"(as defined|as on|from the|to the|into the|of the demerged|in the|shall have)", u, re.I) \
+                and len(u) > 12:
+            out["demerged_undertaking"] = u[:200]
     for key, rx in (("record_date", re.compile(r"record date", re.I)),
                     ("appointed_date", re.compile(r"appointed date", re.I))):
         for hit in rx.finditer(t):
@@ -202,9 +220,9 @@ def facts_in(text: str) -> dict:
     small = [(v, w) for v, w, _ in sizes if v < 25]
     if small:
         out["small_share"] = f"{small[0][0]:g}% of {small[0][1]}"
-    if OVERSUB_RX.search(t):
+    if rights and OVERSUB_RX.search(t):
         out["oversubscription_clause"] = True
-    m = INSIDER_OVERSUB_RX.search(t)
+    m = INSIDER_OVERSUB_RX.search(t) if rights else None
     if m:
         out["insider_oversubscribe"] = _snippet(t, m.start(), m.end(), 80)
     return out
@@ -277,13 +295,16 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         reasons: list[dict] = []
         seen_reasons = set()
         rights_rows = []
+        news_only = 0
         for r in fl:
             blob = f"{r['category']} {r['headline']} {r['_text'][:120_000]}"
             st = stage_of(f"{r['category']} {r['headline']}") or stage_of(r["_text"][:20_000])
             if st and (st not in stage_dates or r["date"] < stage_dates[st]):
                 stage_dates[st] = r["date"]
-            for k, v in facts_in(blob).items():
+            for k, v in facts_in(blob, rights=(r["kind"] == "rights_issue")).items():
                 facts.setdefault(k, v)
+            if NEWS_RX.search(f"{r['category']} {r['headline']}"):
+                news_only += 1
             for rr in reasons_in(r["_text"] or r["headline"]):
                 if rr["reason"] not in seen_reasons:
                     seen_reasons.add(rr["reason"])
@@ -293,7 +314,12 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         stage = (max(stage_dates, key=STAGE_ORDER.index) if stage_dates else "announced")
         first, last = fl[0]["date"], fl[-1]["date"]
         days = (today - dt.date.fromisoformat(first)).days
-        listed_on = stage_dates.get("listed") or stage_dates.get("record_date")
+        if news_only == len(fl):
+            facts["news_only"] = True        # rumour / clarification / denial only
+            stage = "rumoured"
+        listed_on = (facts.get("record_date") if stage in ("record_date", "listed")
+                     and facts.get("record_date") and facts["record_date"] <= today.isoformat()
+                     else None) or stage_dates.get("listed") or stage_dates.get("record_date")
         age_listed = ((today - dt.date.fromisoformat(listed_on)).days
                       if listed_on else None)
         out.append({
@@ -539,11 +565,11 @@ def checklist(sit: dict, fin: dict, mentions: list[dict],
 
     # 5. the parent as the trade
     items.append({"item": "Parent before the spin (clean parent, takeover prelude)",
-                  "status": "partly" if sit["stage"] in ("announced", "exchange_noc", "meetings", "nclt_sanction")
+                  "status": "partly" if sit["stage"] in PRE_STAGES
                   else "no" if sit["stage"] in ("effective", "record_date", "listed") else "unknown",
                   "evidence": f"stage {sit['stage']}" + (
                       " — the spin has not happened; the parent can still be bought whole"
-                      if sit["stage"] in ("announced", "exchange_noc", "meetings", "nclt_sanction")
+                      if sit["stage"] in PRE_STAGES
                       else " — the pieces trade separately now")})
 
     # 6. partial spin-off / rights
@@ -590,6 +616,8 @@ def verdict(sit: dict, items: list[dict]) -> dict:
                  "slump_sale": "SLUMP SALE — cash deal, no new listing",
                  "rights_issue": "RIGHTS OFFERING — check the oversubscription clause",
                  "capital_reduction": "CAPITAL ACTION — not a spin-off"}.get(k, k.upper())
+    elif st == "rumoured":
+        label = "RUMOURED — news verification / denial only; no scheme filed"
     elif st in ("announced", "exchange_noc", "meetings", "nclt_sanction"):
         label = "PRE-SPIN — study the parent; the pieces do not trade yet"
     elif st in ("effective", "record_date") and (sit.get("days_since_listing") or 0) < LISTING_LAG_DAYS:
