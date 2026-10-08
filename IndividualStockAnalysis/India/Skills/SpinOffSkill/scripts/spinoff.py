@@ -90,7 +90,7 @@ REASONS = [
     ("unrelated businesses separated",
      re.compile(r"unrelated|distinct (business|nature)|different (business|risk|growth) profile|"
                 r"separate (and )?(distinct|focused)|focus(ed)? (management|strateg)|"
-                r"independent (growth|strateg|management)|standalone", re.I)),
+                r"independent (growth|strateg|management)", re.I)),
     ("value unlocking for shareholders",
      re.compile(r"unlock\w* (shareholder )?value|value unlocking|value creation|"
                 r"better (appreciat|valuation)|appropriate valuation|"
@@ -298,7 +298,9 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         news_only = 0
         for r in fl:
             blob = f"{r['category']} {r['headline']} {r['_text'][:120_000]}"
-            st = stage_of(f"{r['category']} {r['headline']}") or stage_of(r["_text"][:20_000])
+            st = stage_of(f"{r['category']} {r['headline']}")
+            if st is None and r["_text"] and STAGES[0][1].search(r["_text"][:3_000]):
+                st = "announced"            # a board-approval letter with a bare headline
             if st and (st not in stage_dates or r["date"] < stage_dates[st]):
                 stage_dates[st] = r["date"]
             for k, v in facts_in(blob, rights=(r["kind"] == "rights_issue")).items():
@@ -367,6 +369,30 @@ def _label_date(label: str) -> dt.date | None:
     return dt.date(int(m.group(2)), _MONTHS[m.group(1)], 1)
 
 
+FORWARD_RX = re.compile(
+    r"\b(plan|planning|propos\w*|evaluat\w*|consider\w*|explor\w*|intend\w*|option|"
+    r"will|would|going to|potential|possible|likely|expect\w*|target\w*|update on|"
+    r"timeline|in due course|board (has )?approved|filed|announce\w*|next (step|year|quarter)|"
+    r"around the corner|unlock\w* value|value unlock\w*)\b", re.I)
+BACKWARD_RX = re.compile(
+    r"\b(post|after|since|completed|complete|concluded|was|were|had|last year|earlier|"
+    r"predecessor|erstwhile|no plan|not planning|no intention|deni\w*|rule[sd]? out)\b", re.I)
+
+
+def tone(quote: str) -> str:
+    """forward (a spin being planned or in motion), backward (one that
+    already happened, or a denial), or neutral."""
+    f = len(FORWARD_RX.findall(quote or ""))
+    b = len(BACKWARD_RX.findall(quote or ""))
+    if re.search(r"no plan|not planning|no intention|deni\w*|rule[sd]? out", quote or "", re.I):
+        return "backward"
+    if f > b:
+        return "forward"
+    if b > f:
+        return "backward"
+    return "neutral"
+
+
 def concall_mentions(text: str, today: dt.date | None = None,
                      months: int = CONCALL_MONTHS, max_per_call: int = 6) -> list[dict]:
     """Spin-off / demerger language in the calls of the last `months`
@@ -380,8 +406,9 @@ def concall_mentions(text: str, today: dt.date | None = None,
             continue
         n = 0
         for m in MENTION_RX.finditer(body):
-            out.append({"call": label.replace("Call: ", ""),
-                        "term": m.group(0), "quote": _snippet(body, m.start(), m.end(), 160)})
+            q = _snippet(body, m.start(), m.end(), 160)
+            out.append({"call": label.replace("Call: ", ""), "term": m.group(0),
+                        "quote": q, "tone": tone(q)})
             n += 1
             if n >= max_per_call:
                 break

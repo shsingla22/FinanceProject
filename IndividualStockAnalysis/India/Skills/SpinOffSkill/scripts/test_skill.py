@@ -376,8 +376,20 @@ def test_call_only_scan_finds_indications_without_filings(monkeypatch):
     monkeypatch.setattr(SO, "concall_text", lambda sym: CALLS if sym == "GAMMA" else "")
     c = AZ.call_only_scan(["GAMMA", "DELTA"], exclude=set(), today=TODAY)
     assert [x["symbol"] for x in c] == ["GAMMA"] and c[0]["n"] >= 2
-    assert c[0]["latest"] == "May 2026" and c[0]["example"]
+    assert c[0]["latest"] == "May 2026" and c[0]["example"] and c[0]["forward"] >= 1
     assert AZ.call_only_scan(["GAMMA"], exclude={"GAMMA"}, today=TODAY) == []
+    # a company only describing a past demerger, or denying one, is not an indication
+    past = "Call: May 2026\nOne year post our demerger we completed the integration. We have no plan to demerge further."
+    monkeypatch.setattr(SO, "concall_text", lambda sym: past)
+    assert AZ.call_only_scan(["OLD"], exclude=set(), today=TODAY) == []
+
+
+def test_tone_separates_plans_from_history_and_denials():
+    assert SO.tone("we are evaluating a demerger of the energy business; the board will consider it next quarter") == "forward"
+    assert SO.tone("one year post our demerger, the integration was completed") == "backward"
+    assert SO.tone("there is no plan to demerge, as you said, at the moment") == "backward"
+    ms = SO.concall_mentions(CALLS, today=TODAY)
+    assert all("tone" in m for m in ms) and any(m["tone"] == "forward" for m in ms)
 
 
 def test_boilerplate_does_not_read_as_stages_facts_or_reasons():
@@ -393,6 +405,12 @@ def test_boilerplate_does_not_read_as_stages_facts_or_reasons():
     assert SO.stage_of("Listing and commencement of trading of the equity shares of SKF "
                        "Industrial Limited (resulting company)") == "listed"
     assert SO.stage_of("Board approved the Scheme of Arrangement for demerger") == "announced"
+    # a scheme's text that PROMISES a listing is not a listing event: stages come from headlines
+    row = {"date": "2026-02-20", "symbol": "U", "company": "U", "source": "NSE", "category": "Scheme of Arrangement",
+           "kind": "demerger", "tags": "demerger", "headline": "UPL has informed the Exchange about Scheme of Arrangement",
+           "attachment": "", "ann_id": "77", "file_size": "", "text_file": ""}
+    s = SO.build_situations([row], {"77": "the equity shares of the Resulting Company shall be listed on the stock exchanges"}, TODAY)[0]
+    assert s["stage"] == "announced" and "listed" not in s["stage_dates"]
     g = SO.facts_in('between Alpha Ltd and JSW Energy Limited ("Resulting Company")')
     assert g["resulting_company"] == "JSW Energy Limited"
     assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" as defined in the Scheme;')

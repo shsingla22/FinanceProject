@@ -189,7 +189,7 @@ def render_report(record: dict) -> str:
     A += ["## The situations", "",
           "| Company | What | Stage | First filing | Listed on | Score | Verdict |",
           "|---|---|---|---|---|---:|---|"]
-    for s in spins:
+    for s in sorted(spins, key=lambda s: -s["verdict"]["score"]):
         A.append(f"| **{s['symbol']}** | {s['family']} | {s['stage']} | {s['first_filing']} | "
                  f"{s.get('listed_on') or '—'} | {s['verdict']['score']} | {s['verdict']['label']} |")
     if not spins:
@@ -269,9 +269,9 @@ def render_report(record: dict) -> str:
           f"in the last {SO.CONCALL_MONTHS} months of calls but have no restructuring "
           "filing on file — the earliest signal the notes describe.", ""]
     if only_calls:
-        A += ["| Company | Mentions | Latest call | Example |", "|---|---:|---|---|"]
+        A += ["| Company | Forward-looking / all mentions | Latest forward call | Example |", "|---|---:|---|---|"]
         for c in only_calls:
-            A.append(f"| **{c['symbol']}** | {c['n']} | {c['latest']} | “{c['example'][:200]}” |")
+            A.append(f"| **{c['symbol']}** | {c['forward']} / {c['n']} | {c['latest']} | “{c['example'][:200]}” |")
     else:
         A.append("- (none)")
     A.append("")
@@ -329,10 +329,14 @@ def call_only_scan(symbols: list[str], exclude: set[str], today: dt.date) -> lis
         if sym in exclude:
             continue
         ms = SO.concall_mentions(SO.concall_text(sym), today)
-        if len(ms) >= 2:
-            out.append({"symbol": sym, "n": len(ms), "latest": ms[-1]["call"],
-                        "example": ms[-1]["quote"], "mentions": ms})
-    out.sort(key=lambda c: -c["n"])
+        fwd = [m for m in ms if m["tone"] == "forward"]
+        # an indication needs at least one FORWARD-looking mention; a company
+        # merely describing a past demerger, or denying one, is not a signal
+        if fwd and len(ms) >= 2:
+            out.append({"symbol": sym, "n": len(ms), "forward": len(fwd),
+                        "latest": fwd[-1]["call"], "example": fwd[-1]["quote"],
+                        "mentions": ms})
+    out.sort(key=lambda c: (-c["forward"], -c["n"]))
     return out
 
 
@@ -372,7 +376,7 @@ def cmd_run(args) -> None:
                  if sits else ["symbol"])
     mrows = [{"symbol": s["symbol"], **mm} for s in sits for mm in s["concall_mentions"]]
     mrows += [{"symbol": c["symbol"], **mm} for c in call_only for mm in c["mentions"]]
-    FA.write_csv(MENTIONS, mrows, ["symbol", "call", "term", "quote"])
+    FA.write_csv(MENTIONS, mrows, ["symbol", "call", "term", "tone", "quote"])
     snap = HISTORY / today.isoformat()
     snap.mkdir(parents=True, exist_ok=True)
     for p in (REPORT, SITUATIONS, MENTIONS):
