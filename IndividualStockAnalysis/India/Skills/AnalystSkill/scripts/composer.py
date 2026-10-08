@@ -348,8 +348,9 @@ def business_overview(sym: str, name: str,
     excerpt, n_calls, rng = REG.MB_AZ._timeline_excerpt(sym, budget=45000)
     if not excerpt:
         return None
-    pdf = (REG.INDIA / "ConferenceCalls" / "NiftyTotalMarket"
-           / f"{sym.replace('&', '_AND_')}.pdf")
+    pdf = REG.MB_AZ._transcript_path(sym)
+    if not pdf.exists():
+        return None
     stamp = f"{REG.pdf_content_stamp(pdf)}:ov1:{REG.MODEL}"
     cache = {}
     if OVERVIEW_CACHE.exists():

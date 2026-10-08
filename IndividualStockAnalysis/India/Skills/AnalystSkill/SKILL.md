@@ -51,6 +51,39 @@ python3 scripts/analyze.py batch DIXON CRISIL TITAN --out-dir reports/
                                                           # one MD per company
 ```
 
+## Run it over YOUR OWN document (`--source`)
+
+The analysis normally reads the repository's stored data — statements from
+the CSV archives, qualitative evidence from the company's conference-call
+PDF. `--source` swaps the qualitative evidence for a document YOU supply
+(a PDF, a Markdown file, or plain text), judged by the same skills under
+the same honesty rules:
+
+```bash
+# a universe company, judged against a supplied document instead of its calls
+python3 scripts/analyze.py report DIXON out.md --source ~/annual_report.pdf
+
+# a company that is NOT in the universe at all — notes, a prospectus, a memo
+python3 scripts/analyze.py report ACME out.md --source notes.md --name "Acme Ltd"
+```
+
+What holds, by design (`scripts/source_override.py`):
+
+- **The quantitative side is untouched.** A symbol in the universe keeps
+  its statements, trends and index comparison; an unknown company honestly
+  has none, and the rating re-normalises over what could be scored — a
+  document alone with no judged evidence composes a **Not rated** report,
+  never an invented number.
+- **No mixing of evidence.** The concall archive is not read in a source
+  run, and supplied-document judgements are cached in separate,
+  gitignored files (`.source_*_cache.json`) keyed by the document's
+  content hash — re-running the same document is free, an edited document
+  is honestly a fresh judgement, and the committed archive caches are
+  never touched.
+- **Provenance in the report itself.** The generated Markdown names the
+  supplied document (file, kind, size, hash) under "How this report was
+  built", so the file alone tells a reader what evidence produced it.
+
 ## Extensibility — future skills join automatically
 
 The three current skills run natively, in a fixed, deliberate order:
