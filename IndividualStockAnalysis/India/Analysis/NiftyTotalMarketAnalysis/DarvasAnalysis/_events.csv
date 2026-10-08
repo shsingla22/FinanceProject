@@ -1,0 +1,158 @@
+date,symbol,event,stop_loss,repeat,detail
+2026-09-12,BLACKBUCK,BUY,548.56,,ACCUMULATE at next open; stop ₹548.56
+2026-09-12,ELLEN,BUY,299.64,,BUY at next open; stop ₹299.64
+2026-09-12,GRANULES,BUY,798.72,,ACCUMULATE at next open; stop ₹798.72
+2026-09-12,JSL,BUY,721.35,,BUY at next open; stop ₹721.35
+2026-09-12,MIDHANI,BUY,399.99,,BUY at next open; stop ₹399.99
+2026-09-12,PINELABS,BUY,119.67,,BUY at next open; stop ₹119.67
+2026-09-12,CORONA,SELL,,,closed below its box bottom — exit
+2026-09-12,PVRINOX,SELL,,,closed below its box bottom — exit
+2026-09-12,SWANCORP,SELL,,,closed below its box bottom — exit
+2026-09-12,TATAINVEST,SELL,,,closed below its box bottom — exit
+2026-09-12,AWFIS,WATCH,,,on the radar
+2026-09-12,DBL,WATCH,,,on the radar — becomes BUY on a daily close above ₹411.00
+2026-09-12,GRAPHITE,WATCH,,,on the radar — becomes BUY on a daily close above ₹755.50
+2026-09-12,HERITGFOOD,WATCH,,,on the radar — becomes BUY on a daily close above ₹392.10
+2026-09-12,MAHSEAMLES,WATCH,,,on the radar — becomes BUY on a daily close above ₹658.90
+2026-09-12,ONESOURCE,WATCH,,,"on the radar — becomes BUY on a daily close above ₹1,551.00"
+2026-09-12,RAYMONDLSL,WATCH,,,on the radar — becomes BUY on a daily close above ₹711.60
+2026-09-12,SAMHI,WATCH,,,on the radar — becomes BUY on a daily close above ₹163.00
+2026-09-12,SFL,WATCH,,,on the radar — becomes BUY on a daily close above ₹717.90
+2026-09-12,SHAKTIPUMP,WATCH,,,on the radar — becomes BUY on a daily close above ₹487.10
+2026-09-12,SHAREINDIA,WATCH,,,on the radar — becomes BUY on a daily close above ₹178.80
+2026-09-12,STAR,WATCH,,,"on the radar — becomes BUY on a daily close above ₹1,019.70"
+2026-09-12,TEGA,WATCH,,,"on the radar — becomes BUY on a daily close above ₹1,837.00"
+2026-09-12,WESTLIFE,WATCH,,,on the radar — becomes BUY on a daily close above ₹582.00
+2026-09-12,ZYDUSWELL,WATCH,,,on the radar — becomes BUY on a daily close above ₹541.50
+2026-09-13,BLACKBUCK,BUY,548.56,yes,still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹548.56
+2026-09-13,ELLEN,BUY,299.64,yes,still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹299.64
+2026-09-13,GRANULES,BUY,798.72,yes,still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹798.72
+2026-09-13,JSL,BUY,721.35,yes,still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹721.35
+2026-09-13,MIDHANI,BUY,399.99,yes,still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹399.99
+2026-09-13,PINELABS,BUY,119.67,yes,still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹119.67
+2026-09-14,GMMPFAUDLR,BUY,931.95,,BUY at next open; stop ₹931.95
+2026-09-14,SAILIFE,BUY,1338.55,,"BUY at next open; stop ₹1,338.55"
+2026-09-14,PVRINOX,WATCH,,,"on the radar — becomes BUY on a daily close above ₹1,284.50"
+2026-09-14,SARDAEN,WATCH,,,on the radar — becomes BUY on a daily close above ₹542.50
+2026-09-17,GMMPFAUDLR,BUY,931.95,yes,still a BUY — re-flagged by the screen; first entry 2026-09-14; stop now ₹931.95
+2026-09-21,ACMESOLAR,BUY,370.12,,BUY at next open; stop ₹370.12
+2026-09-21,GMMPFAUDLR,BUY,1226.07,yes,"still a BUY — re-flagged by the screen; first entry 2026-09-14; stop now ₹1,226.07"
+2026-09-21,JSL,BUY,679.25,yes,still a BUY — re-flagged by the screen; first entry 2026-09-12; stop now ₹679.25
+2026-09-21,LICHSGFIN,BUY,503.12,,ACCUMULATE at next open; stop ₹503.12
+2026-09-21,GMMPFAUDLR,RAISE STOP,1226.07,,"₹931.95 → ₹1,226.07"
+2026-09-21,GRAPHITE,RAISE STOP,735.87,,₹700.19 → ₹735.87
+2026-09-21,HERITGFOOD,RAISE STOP,365.09,,₹336.46 → ₹365.09
+2026-09-21,MAHSEAMLES,RAISE STOP,640.44,,₹623.93 → ₹640.44
+2026-09-21,PINELABS,RAISE STOP,165.98,,₹119.67 → ₹165.98
+2026-09-21,SAILIFE,RAISE STOP,1419.68,,"₹1,338.55 → ₹1,419.68"
+2026-09-21,SHAREINDIA,RAISE STOP,178.65,,₹163.70 → ₹178.65
+2026-09-21,STAR,RAISE STOP,1046.9,,"₹904.78 → ₹1,046.90"
+2026-09-22,RAYMOND,BUY,881.89,,BUY at next open; stop ₹881.89
+2026-09-22,UNIMECH,BUY,1358.59,,"BUY at next open; stop ₹1,358.59"
+2026-09-23,ACMESOLAR,BUY,370.12,yes,still a BUY — re-flagged by the screen; first entry 2026-09-21; stop now ₹370.12
+2026-09-23,ENGINERSIN,BUY,240.92,,BUY at next open; stop ₹240.92
+2026-09-23,INNOVACAP,BUY,1026.19,,"BUY at next open; stop ₹1,026.19"
+2026-09-23,MANINDS,BUY,685.3,,BUY at next open; stop ₹685.30
+2026-09-23,RAYMOND,BUY,881.89,yes,still a BUY — re-flagged by the screen; first entry 2026-09-22; stop now ₹881.89
+2026-09-23,SOLARINDS,BUY,17236.5,,"ACCUMULATE at next open; stop ₹17,236.50"
+2026-09-23,UNIMECH,BUY,1358.59,yes,"still a BUY — re-flagged by the screen; first entry 2026-09-22; stop now ₹1,358.59"
+2026-09-23,AWFIS,RAISE STOP,249.95,,₹231.89 → ₹249.95
+2026-09-23,AARTIPHARM,WATCH,,,on the ladder watch until 2026-10-23 — surged 4.11× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,BIKAJI,WATCH,,,on the ladder watch until 2026-10-23 — surged 11.06× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,CARBORUNIV,WATCH,,,on the ladder watch until 2026-10-23 — surged 9.32× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,CENTUM,WATCH,,,on the ladder watch until 2026-10-23 — surged 3.93× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,ELECON,WATCH,,,on the ladder watch until 2026-10-23 — surged 27.99× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,EMAMILTD,WATCH,,,on the ladder watch until 2026-10-23 — surged 2.23× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,FIRSTCRY,WATCH,,,on the ladder watch until 2026-10-23 — surged 2.21× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,GABRIEL,WATCH,,,on the ladder watch until 2026-10-23 — surged 6.48× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,GNFC,WATCH,,,on the ladder watch until 2026-10-23 — surged 2.32× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,JSWINFRA,WATCH,,,on the ladder watch until 2026-10-23 — surged 2.38× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,OPTIEMUS,WATCH,,,on the ladder watch until 2026-10-23 — surged 17.04× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,PATANJALI,WATCH,,,on the ladder watch until 2026-10-23 — surged 2.70× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,RAYMONDLSL,WATCH,,,on the ladder watch until 2026-10-23 — surged 1.63× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,SHYAMMETL,WATCH,,,on the ladder watch until 2026-10-23 — surged 3.16× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,SUNTV,WATCH,,,on the ladder watch until 2026-10-23 — surged 4.49× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,TEGA,WATCH,,,on the ladder watch until 2026-10-23 — surged 9.75× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,TRANSRAILL,WATCH,,,on the ladder watch until 2026-10-23 — surged 31.36× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,USHAMART,WATCH,,,on the ladder watch until 2026-10-23 — surged 3.93× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,WESTLIFE,WATCH,,,on the ladder watch until 2026-10-23 — surged 1.90× in the week of 2026-09-21; started — ladder not rising
+2026-09-23,WHIRLPOOL,WATCH,,,on the ladder watch until 2026-10-23 — surged 8.90× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,ACMESOLAR,BUY,370.12,yes,still a BUY — re-flagged by the screen; first entry 2026-09-21; stop now ₹370.12
+2026-09-26,AHCL,BUY,11.62,,BUY at next open; stop ₹11.62
+2026-09-26,ANTELOPUS,BUY,929.44,,BUY at next open; stop ₹929.44
+2026-09-26,ARTEMISMED,BUY,289.98,,ACCUMULATE at next open; stop ₹289.98
+2026-09-26,ENGINERSIN,BUY,240.92,yes,still a BUY — re-flagged by the screen; first entry 2026-09-23; stop now ₹240.92
+2026-09-26,GNA,BUY,450.33,,BUY at next open; stop ₹450.33
+2026-09-26,IGPL,BUY,483.22,,BUY at next open; stop ₹483.22
+2026-09-26,INDORAMA,BUY,76.48,,BUY at next open; stop ₹76.48
+2026-09-26,INNOVACAP,BUY,1026.19,yes,"still a BUY — re-flagged by the screen; first entry 2026-09-23; stop now ₹1,026.19"
+2026-09-26,KROSS,BUY,177.84,,BUY at next open; stop ₹177.84
+2026-09-26,KSL,BUY,856.09,,BUY at next open; stop ₹856.09
+2026-09-26,MANINDS,BUY,685.3,yes,still a BUY — re-flagged by the screen; first entry 2026-09-23; stop now ₹685.30
+2026-09-26,MARINE,BUY,323.44,,ACCUMULATE at next open; stop ₹323.44
+2026-09-26,RAYMOND,BUY,881.89,yes,still a BUY — re-flagged by the screen; first entry 2026-09-22; stop now ₹881.89
+2026-09-26,SAMBHV,BUY,116.85,,BUY at next open; stop ₹116.85
+2026-09-26,SHANTIGOLD,BUY,219.21,,BUY at next open; stop ₹219.21
+2026-09-26,SMSPHARMA,BUY,366.62,,BUY at next open; stop ₹366.62
+2026-09-26,STLNETWORK,BUY,25.37,,BUY at next open; stop ₹25.37
+2026-09-26,UNIMECH,BUY,1358.59,yes,"still a BUY — re-flagged by the screen; first entry 2026-09-22; stop now ₹1,358.59"
+2026-09-26,ELLEN,RAISE STOP,325.75,,₹299.64 → ₹325.75
+2026-09-26,ABDL,WATCH,,,on the ladder watch until 2026-10-26 — surged 6.25× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,AJAXENGG,WATCH,,,on the ladder watch until 2026-10-26 — surged 6.16× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,APLLTD,WATCH,,,on the ladder watch until 2026-10-26 — surged 1.59× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,ARVSMART,WATCH,,,on the ladder watch until 2026-10-26 — surged 7.37× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,CAPLIPOINT,WATCH,,,on the ladder watch until 2026-10-26 — surged 2.03× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,CASTROLIND,WATCH,,,on the ladder watch until 2026-10-26 — surged 2.31× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,CHEMPLASTS,WATCH,,,on the ladder watch until 2026-10-26 — surged 2.91× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,DELTACORP,WATCH,,,on the ladder watch until 2026-10-26 — surged 11.13× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,FILATEX,WATCH,,,on the ladder watch until 2026-10-26 — surged 1.91× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,HARSHA,WATCH,,,on the ladder watch until 2026-10-26 — surged 1.78× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,HGINFRA,WATCH,,,on the ladder watch until 2026-10-26 — surged 18.82× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,INDIAGLYCO,WATCH,,,on the ladder watch until 2026-10-26 — surged 5.96× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,JASH,WATCH,,,on the ladder watch until 2026-10-26 — surged 22.82× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,JAYKAY,WATCH,,,on the ladder watch until 2026-10-26 — surged 10.20× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,KPIGREEN,WATCH,,,on the ladder watch until 2026-10-26 — surged 7.87× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,KSCL,WATCH,,,on the ladder watch until 2026-10-26 — surged 57.26× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,MAXESTATES,WATCH,,,on the ladder watch until 2026-10-26 — surged 1.88× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,MUKANDLTD,WATCH,,,on the ladder watch until 2026-10-26 — surged 6.35× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,ONEPOINT,WATCH,,,on the ladder watch until 2026-10-26 — surged 7.67× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,PARAGMILK,WATCH,,,on the ladder watch until 2026-10-26 — surged 2.65× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,PROTEAN,WATCH,,,on the ladder watch until 2026-10-26 — surged 24.76× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,RAYMONDREL,WATCH,,,on the ladder watch until 2026-10-26 — surged 13.63× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,SANATHAN,WATCH,,,on the ladder watch until 2026-10-26 — surged 4.40× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,SHOPERSTOP,WATCH,,,on the ladder watch until 2026-10-26 — surged 3.84× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,STARHEALTH,WATCH,,,on the radar — becomes BUY on a daily close above ₹624.90
+2026-09-26,STEELCAS,WATCH,,,on the ladder watch until 2026-10-26 — surged 5.53× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,SUNDROP,WATCH,,,on the ladder watch until 2026-10-26 — surged 5.20× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,TCI,WATCH,,,on the ladder watch until 2026-10-26 — surged 38.82× in the week of 2026-09-21; started — ladder not rising
+2026-09-26,ZOTA,WATCH,,,on the ladder watch until 2026-10-26 — surged 4.81× in the week of 2026-09-21; started — ladder not rising
+2026-09-28,ARTEMISMED,BUY,289.98,yes,still a BUY — re-flagged by the screen; first entry 2026-09-26; stop now ₹289.98
+2026-09-28,BOROLTD,BUY,214.48,,BUY at next open; stop ₹214.48
+2026-09-28,KABRAEXTRU,BUY,538.97,,BUY at next open; stop ₹538.97
+2026-09-28,MACPOWER,BUY,1847.94,,"BUY at next open; stop ₹1,847.94"
+2026-09-28,MARINE,BUY,323.44,yes,still a BUY — re-flagged by the screen; first entry 2026-09-26; stop now ₹323.44
+2026-09-28,NRBBEARING,BUY,430.82,,BUY at next open; stop ₹430.82
+2026-09-28,SMCGLOBAL,BUY,73.98,,BUY at next open; stop ₹73.98
+2026-09-28,SYNCOMF,BUY,14.82,,ACCUMULATE at next open; stop ₹14.82
+2026-09-28,GODIGIT,WATCH,,,on the ladder watch until 2026-10-28 — surged 5.78× in the week of 2026-09-28; started — ladder not rising
+2026-09-28,PFS,WATCH,,,on the ladder watch until 2026-10-28 — surged 83.28× in the week of 2026-09-28; started — ladder not rising
+2026-09-28,RSYSTEMS,WATCH,,,on the radar — becomes BUY on a daily close above ₹283.40
+2026-09-28,SUNFLAG,WATCH,,,on the ladder watch until 2026-10-28 — surged 17.37× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,BOSCH-HCIL,BUY,1550.02,,"BUY at next open; stop ₹1,550.02"
+2026-10-03,GALAXYSURF,BUY,1969.4,,"ACCUMULATE at next open; stop ₹1,969.40"
+2026-10-03,SMCGLOBAL,BUY,73.98,yes,still a BUY — re-flagged by the screen; first entry 2026-09-28; stop now ₹73.98
+2026-10-03,SYNCOMF,BUY,14.82,yes,still a BUY — re-flagged by the screen; first entry 2026-09-28; stop now ₹14.82
+2026-10-03,GMMPFAUDLR,RAISE STOP,1344.25,,"₹1,226.07 → ₹1,344.25"
+2026-10-03,SAMBHV,RAISE STOP,141.9,,₹116.85 → ₹141.90
+2026-10-03,WESTLIFE,RAISE STOP,533.95,,₹505.30 → ₹533.95
+2026-10-03,AWFIS,SELL,,,closed below its box bottom — exit
+2026-10-03,AZAD,WATCH,,,on the ladder watch until 2026-11-02 — surged 4.45× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,DPABHUSHAN,WATCH,,,on the ladder watch until 2026-11-02 — surged 5.80× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,ELECTCAST,WATCH,,,on the ladder watch until 2026-11-02 — surged 6.76× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,IRCON,WATCH,,,on the ladder watch until 2026-11-02 — surged 15.11× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,JSWHL,WATCH,,,on the ladder watch until 2026-11-02 — surged 2.40× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,KAJARIACER,WATCH,,,on the ladder watch until 2026-11-02 — surged 5.40× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,PIXTRANS,WATCH,,,on the ladder watch until 2026-11-02 — surged 6.89× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,RITES,WATCH,,,on the ladder watch until 2026-11-02 — surged 6.02× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,TCIEXP,WATCH,,,on the ladder watch until 2026-11-02 — surged 9.99× in the week of 2026-09-28; started — ladder not rising
+2026-10-03,VESUVIUS,WATCH,,,on the ladder watch until 2026-11-02 — surged 31.40× in the week of 2026-09-28; started — ladder not rising

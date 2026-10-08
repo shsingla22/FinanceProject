@@ -1137,12 +1137,14 @@ function darvasRender(holder, rec, tr, st) {
       ${rec.weekly_qualifiers ?? "—"} weekly qualifiers → ${rec.fully_qualified ?? "—"} through all three gates
       ${rec.ai_used ? "· conference-call read by the judge model" : "· no AI call in this run"}</p>`
       : `<p class="note">No run stored yet — press the button to run the screen.</p>`}
-    <p><button class="chip" id="darvas-run" ${running ? "disabled" : ""}>▶ Run this week's screen now</button>
+    <p>${STATIC
+        ? `<span class="note">This published page shows the latest run; the engine itself runs on the scheduled Saturday workflow (or from a Codespace) and republishes here.</span> `
+        : `<button class="chip" id="darvas-run" ${running ? "disabled" : ""}>▶ Run this week's screen now</button> `}
        <a class="chip" href="api/darvas/report" download="DARVAS_REPORT.md">📄 Download the full report (Markdown)</a></p>
     <p class="note darvas-status" id="darvas-status">${running ? "A run is in progress…" : ""}</p>`);
   const btn = holder.querySelector("#darvas-run");
-  btn.addEventListener("click", () => darvasStartRun(holder));
-  if (running) darvasPoll(holder);
+  if (btn) btn.addEventListener("click", () => darvasStartRun(holder));
+  if (running && !STATIC) darvasPoll(holder);
   if (!rec) return;
 
   // ---- the week in four verbs

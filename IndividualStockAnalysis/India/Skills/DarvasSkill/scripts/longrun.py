@@ -55,6 +55,7 @@ import backtest as BT        # noqa: E402
 import earnings as EP        # noqa: E402
 import fetch_data as FD      # noqa: E402
 import frictions as FR       # noqa: E402
+import darvas as DV          # noqa: E402
 import rolling as RL         # noqa: E402
 import walkforward as WF     # noqa: E402
 
@@ -216,7 +217,7 @@ def _cagr(final: float, initial: float, days: int) -> float:
 
 def write_report(res: dict, gross: dict, fr, args, through: str,
                  nifty: list, archive: Path, n_syms: int) -> Path:
-    tag = f"{SCREEN_START}_to_{through}"
+    tag = f"{args.start}_to_{through}" + (f"_{args.tag}" if args.tag else "")
     report = OUT_DIR / f"DARVAS_BACKTEST_LONGRUN_{tag}.md"
     ledger_csv = OUT_DIR / f"_longrun_events_{tag}.csv"
 
@@ -252,7 +253,8 @@ def write_report(res: dict, gross: dict, fr, args, through: str,
               if "BUY ₹" in b[2] or "SELL ₹" in b[2]
               or b[1] == "TAX" or b[2].startswith("TRIM")]
 
-    A = [f"# The Darvas screen, run for six years — {SCREEN_START} → "
+    years = days / 365.25
+    A = [f"# The Darvas screen, run for {years:.1f} years — {args.start} → "
          f"{through}", "",
          f"> **LONG-RUN BACKTEST.** One continuous price archive "
          f"({FETCH_START} → {through}, {n_syms} symbols, fetched once "
@@ -462,6 +464,29 @@ def write_report(res: dict, gross: dict, fr, args, through: str,
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--capital", type=float, default=100.0)
+    ap.add_argument("--start", default=SCREEN_START,
+                    help="first screen date (default 2020-06-01)")
+    ap.add_argument("--tag", default="",
+                    help="suffix for the report/events file names")
+    ap.add_argument("--ladder-watch-days", type=int,
+                    default=DV.LADDER_WATCH_DAYS,
+                    help="days a ladder-failed surge stays on watch; "
+                         "0 switches the watch off (the older rules)")
+    ap.add_argument("--watch-promote", choices=("both", "buy"),
+                    default="buy", help="box verdicts that promote a "
+                    "watched stock: BUY and ACCUMULATE, or BUY only")
+    ap.add_argument("--watch-priority", choices=("surge", "after-fresh"),
+                    default="after-fresh", help="rank promoted signals with the "
+                    "fresh ones by surge multiple, or fund fresh first")
+    ap.add_argument("--month-multiple", type=float,
+                    default=DV.MONTH_VS_YEAR_MULTIPLE,
+                    help="month-vs-year volume gate threshold for THIS "
+                         "replay only (the skill's own rule is unchanged)")
+    ap.add_argument("--core-membership", default=None,
+                    help="a _membership_long.csv (or archive dir) naming "
+                         "each month's LARGE companies — their signals are "
+                         "funded first; default: the top-750 archive of "
+                         "the same window when it exists")
     ap.add_argument("--no-fetch", action="store_true",
                     help="reuse the stored archive, never fetch")
     ap.add_argument("--end", default=None,
@@ -496,19 +521,42 @@ def main() -> None:
     if membership:
         print(f"rolling PIT membership loaded: {len(membership)} months "
               f"(ETFs excluded, IPOs seasoned 3 months)", file=sys.stderr)
+    core = None
+    core_src = args.core_membership
+    if core_src is None and archive.name.startswith("ROLLING_MCAP") \
+            and "MCAP750" not in archive.name:
+        cand = archive.parent / archive.name.replace(
+            archive.name.split("_")[1], "MCAP750")
+        core_src = str(cand) if cand.exists() else None
+    if core_src:
+        cp = Path(core_src)
+        core = load_membership(cp if cp.is_dir() else cp.parent) \
+            if cp.is_dir() or cp.name == "_membership_long.csv" else None
+        print(f"core (funded first): {core_src} — "
+              f"{len(core) if core else 0} months", file=sys.stderr)
     earnings_ok = make_earnings_ok()
     print("gross replay (no costs, no taxes)…", file=sys.stderr)
-    gross = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
-                           earnings_ok, slots=SLOTS, membership=membership)
+    RL.LADDER_WATCH_DAYS = args.ladder_watch_days
+    DV.MONTH_VS_YEAR_MULTIPLE = args.month_multiple
+    print(f"month-vs-year gate: {args.month_multiple}×", file=sys.stderr)
+    RL.LADDER_WATCH_PROMOTE = (("BUY",) if args.watch_promote == "buy"
+                               else ("BUY", "ACCUMULATE"))
+    RL.LADDER_WATCH_PRIORITY = args.watch_priority.replace("-", "_")
+    print(f"ladder watch: {args.ladder_watch_days} days"
+          + (" (OFF — the pre-watch rules)" if args.ladder_watch_days <= 0
+             else ""), file=sys.stderr)
+    gross = RL.run_rolling(bars_by, [], args.start, through, args.capital,
+                           earnings_ok, slots=SLOTS, membership=membership,
+                           core=core)
     print(f"gross: ₹{gross['final_equity']:,.2f}", file=sys.stderr)
     print("net replay (Angel One charges on every order, capital-gains "
           "tax every 1 April)…", file=sys.stderr)
     fr = FR.AngelOneFrictions()
-    res = RL.run_rolling(bars_by, [], SCREEN_START, through, args.capital,
+    res = RL.run_rolling(bars_by, [], args.start, through, args.capital,
                          earnings_ok, slots=SLOTS, frictions=fr,
-                         membership=membership)
+                         membership=membership, core=core)
     try:
-        nifty = fetch_nifty(dt.date.fromisoformat(SCREEN_START), end)
+        nifty = fetch_nifty(dt.date.fromisoformat(args.start), end)
     except Exception as e:                # noqa: BLE001 — benchmark only
         print(f"nifty fetch failed ({e}); report goes out without the "
               f"benchmark", file=sys.stderr)

@@ -100,7 +100,8 @@ def timeline(runs: list[dict]) -> list[dict]:
             seen_radar.add(key)
             events.append({"date": d, "symbol": w["symbol"],
                            "event": "WATCH",
-                           "detail": (f"on the radar — becomes BUY on a "
+                           "detail": (w["ladder_watch"] if w.get("ladder_watch")
+                                      else f"on the radar — becomes BUY on a "
                                       f"daily close above "
                                       f"₹{w['buy_above']:,.2f}"
                                       if w.get("buy_above")
@@ -111,9 +112,129 @@ def timeline(runs: list[dict]) -> list[dict]:
     return events
 
 
+def journal(events: list[dict]) -> list[dict]:
+    """The trace as a TRADER keeps it, from the raw per-run events: a
+    SELL is recorded once — the runs after it (which still carry the
+    row) do not sell the stock again; a BUY re-flagged while the
+    position is open stays a BUY (the UIs and tests read it so) but is
+    marked `repeat` and points back to the first entry. Everything else
+    passes through in date order."""
+    out, open_since, last = [], {}, {}
+    for e in events:
+        sym, kind = e["symbol"], e["event"]
+        if kind == "SELL":
+            if last.get(sym) == "SELL":
+                continue
+            open_since.pop(sym, None)
+        elif kind == "BUY":
+            if sym in open_since:
+                e = {**e, "repeat": True,
+                     "detail": (f"still a BUY — re-flagged by the screen; "
+                                f"first entry {open_since[sym]}"
+                                + (f"; stop now ₹{e['stop_loss']:,.2f}"
+                                   if e.get("stop_loss") else ""))}
+            else:
+                open_since[sym] = e["date"]
+        out.append(e)
+        last[sym] = kind
+    return out
+
+
+def full_journal(history: Path = HISTORY,
+                 current: dict | None = None) -> list[dict]:
+    """Every run ever archived (plus `current`, the run in progress,
+    replacing an archived run of the same date) → the cleaned trace."""
+    runs = load_runs(None, history)
+    if current is not None:
+        runs = [r for r in runs if r["run_date"] != current["run_date"]]
+        runs.append(current)
+        runs.sort(key=lambda r: r["run_date"])
+    return journal(timeline(runs))
+
+
+EVENTS = OUT_DIR / "_events.csv"
+EVENT_FIELDS = ["date", "symbol", "event", "stop_loss", "repeat", "detail"]
+
+
+def save_events(events: list[dict], path: Path = EVENTS) -> None:
+    """The trace preserved beside the report, one row per event, exactly
+    as the backtests keep theirs."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=EVENT_FIELDS)
+        w.writeheader()
+        for e in events:
+            w.writerow({"date": e["date"], "symbol": e["symbol"],
+                        "event": e["event"],
+                        "stop_loss": "" if e.get("stop_loss") is None
+                        else e["stop_loss"],
+                        "repeat": "yes" if e.get("repeat") else "",
+                        "detail": e.get("detail", "")})
+
+
+def _inr(x) -> str:
+    return f"₹{float(x):,.2f}"
+
+
+def render_trace_md(events: list[dict], ledger: list[dict]) -> str:
+    """The trade trace section of the report: one line per stock (bought
+    when, at what stop, every raise, sold when, where it stands), then
+    the complete dated journal. Symbols never bought but carried on the
+    ledger (WATCH rows with a stop) are shown too — a raise on them
+    applies only to someone who holds them."""
+    by: dict[str, list] = {}
+    for e in events:
+        by.setdefault(e["symbol"], []).append(e)
+    status = {r["symbol"]: r for r in ledger}
+    A = ["", "---", "", "## The trade trace", "",
+         "Every recommendation this screen has ever made, carried run to "
+         "run: when a stock was first flagged BUY and at what stop, each "
+         "time its stop was raised, and when it was sold. The journal "
+         "is preserved beside this report in `_events.csv` and in the "
+         "dated `history/` snapshots; a re-flagged BUY on an open "
+         "position is noted, not counted as a second entry.", "",
+         "| Stock | Bought | Stop at entry | Stop raises | Stop now "
+         "| Sold | Status |", "|---|---|---:|---|---:|---|---|"]
+    for sym in sorted(by):
+        ev = by[sym]
+        buys = [e for e in ev if e["event"] == "BUY" and not e.get("repeat")]
+        raises = [e for e in ev if e["event"] == "RAISE STOP"]
+        sells = [e for e in ev if e["event"] == "SELL"]
+        row = status.get(sym, {})
+        act = row.get("action", "")
+        bought = buys[0]["date"] if buys else "—"
+        entry_stop = (_inr(buys[0]["stop_loss"])
+                      if buys and buys[0].get("stop_loss") else "—")
+        rs = "<br>".join(f"{e['date']}: {e['detail']}" for e in raises) or "—"
+        now = _inr(row["stop_loss"]) if row.get("stop_loss") not in \
+            (None, "", "None") else "—"
+        sold = sells[-1]["date"] if sells and (
+            not buys or sells[-1]["date"] >= buys[-1]["date"]) else "—"
+        if act == "SELL":
+            st = "sold"
+        elif act in ("BUY", "ACCUMULATE"):
+            st = "held"
+        elif act == "WATCH":
+            st = "on watch (never a buy)"
+        else:
+            st = "expired"
+        A.append(f"| {sym} | {bought} | {entry_stop} | {rs} | {now} | "
+                 f"{sold} | {st} |")
+    A += ["", "### The journal", "",
+          "*Every event in date order — the same trace the interfaces "
+          "show.*", "", "```"]
+    for e in events:
+        A.append(f"{e['date']}  {e['symbol']:11s} {e['event']:10s} "
+                 f"{e.get('detail', '')}")
+    A += ["```", ""]
+    return "\n".join(A)
+
+
 def trace(days: int | None = 31, history: Path = HISTORY) -> dict:
     runs = load_runs(days, history)
-    ev = timeline(runs)
+    cutoff = runs[0]["run_date"] if runs else "9999-99-99"
+    ev = [e for e in journal(timeline(load_runs(None, history)))
+          if e["date"] >= cutoff]
     by_symbol: dict[str, list] = {}
     for e in ev:
         by_symbol.setdefault(e["symbol"], []).append(e)

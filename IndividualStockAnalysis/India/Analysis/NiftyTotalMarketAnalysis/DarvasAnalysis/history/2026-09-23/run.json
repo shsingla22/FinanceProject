@@ -1,0 +1,738 @@
+{
+ "run_date": "2026-09-23",
+ "fetched_at": "2026-09-23T10:00:35+00:00",
+ "trigger_week": "2026-09-21",
+ "scanned": 839,
+ "fetch_ok": 845,
+ "universe_sources": {
+  "both": 649,
+  "official": 101,
+  "mcap750": 101
+ },
+ "fetch_failed": 6,
+ "weekly_qualifiers": 73,
+ "fully_qualified": 73,
+ "ai_used": true,
+ "recommendations": [
+  {
+   "symbol": "MANINDS",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 745.0,
+   "box_top": 944.0,
+   "box_range_pct": 26.71,
+   "stop_loss": 685.3,
+   "buy_above": null,
+   "last_close": 995.35,
+   "volume_trend": "STEPPED UP",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 6.22,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 253.6,
+   "box_top": 289.65,
+   "box_range_pct": 14.22,
+   "stop_loss": 240.92,
+   "buy_above": null,
+   "last_close": 306.35,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "RISING",
+   "new_age": "no",
+   "volume_multiple": 4.52,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "INNOVACAP",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 1080.2,
+   "box_top": 1200.0,
+   "box_range_pct": 11.09,
+   "stop_loss": 1026.19,
+   "buy_above": null,
+   "last_close": 1292.9,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 3.68,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "UNIMECH",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 1430.1,
+   "box_top": 1652.8,
+   "box_range_pct": 15.57,
+   "stop_loss": 1358.59,
+   "buy_above": null,
+   "last_close": 1721.0,
+   "volume_trend": "STEPPED UP",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 2.79,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "EDELWEISS",
+   "action": "WATCH",
+   "downgraded": true,
+   "box_bottom": 123.87,
+   "box_top": 140.9,
+   "box_range_pct": 13.75,
+   "stop_loss": 117.68,
+   "buy_above": null,
+   "last_close": 141.79,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "FALLING",
+   "new_age": "not assessed",
+   "volume_multiple": 2.58,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break; DOWNGRADED to WATCH \u2014 the latest statements show falling earnings power, and Darvas required rising earnings under the volume"
+  },
+  {
+   "symbol": "RAYMOND",
+   "action": "ACCUMULATE",
+   "downgraded": false,
+   "box_bottom": 937.3,
+   "box_top": 1122.0,
+   "box_range_pct": 19.71,
+   "stop_loss": 881.89,
+   "buy_above": null,
+   "last_close": 1121.9,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 2.52,
+   "why": "sealed a higher box after an upward break and is holding it \u2014 add while it stabilises in the higher box"
+  },
+  {
+   "symbol": "ACMESOLAR",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 389.6,
+   "box_top": 430.5,
+   "box_range_pct": 10.5,
+   "stop_loss": 370.12,
+   "buy_above": null,
+   "last_close": 455.0,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "RISING",
+   "new_age": "yes",
+   "volume_multiple": 2.19,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "PCJEWELLER",
+   "action": "WATCH",
+   "downgraded": true,
+   "box_bottom": 11.81,
+   "box_top": 14.44,
+   "box_range_pct": 22.27,
+   "stop_loss": 11.02,
+   "buy_above": null,
+   "last_close": 14.45,
+   "volume_trend": "STEPPED UP",
+   "earnings_power": "FALLING",
+   "new_age": "not assessed",
+   "volume_multiple": 1.87,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break; DOWNGRADED to WATCH \u2014 the latest statements show falling earnings power, and Darvas required rising earnings under the volume"
+  },
+  {
+   "symbol": "SOLARINDS",
+   "action": "ACCUMULATE",
+   "downgraded": false,
+   "box_bottom": 18480.0,
+   "box_top": 22625.0,
+   "box_range_pct": 22.43,
+   "stop_loss": 17236.5,
+   "buy_above": null,
+   "last_close": 19675.0,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "RISING",
+   "new_age": "yes",
+   "volume_multiple": 1.79,
+   "why": "sealed a higher box after an upward break and is holding it \u2014 add while it stabilises in the higher box"
+  }
+ ],
+ "actions": {
+  "buys": [
+   {
+    "symbol": "MANINDS",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 685.3,
+    "last_close": 995.35,
+    "risk_pct": -31.1,
+    "wide": true,
+    "held_stop": null
+   },
+   {
+    "symbol": "ENGINERSIN",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 240.92,
+    "last_close": 306.35,
+    "risk_pct": -21.4,
+    "wide": false,
+    "held_stop": null
+   },
+   {
+    "symbol": "INNOVACAP",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 1026.19,
+    "last_close": 1292.9,
+    "risk_pct": -20.6,
+    "wide": false,
+    "held_stop": null
+   },
+   {
+    "symbol": "UNIMECH",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 1358.59,
+    "last_close": 1721.0,
+    "risk_pct": -21.1,
+    "wide": false,
+    "held_stop": null
+   },
+   {
+    "symbol": "RAYMOND",
+    "action": "ACCUMULATE",
+    "entry": "buy at next open",
+    "stop_loss": 881.89,
+    "last_close": 1121.9,
+    "risk_pct": -21.4,
+    "wide": false,
+    "held_stop": null
+   },
+   {
+    "symbol": "ACMESOLAR",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 370.12,
+    "last_close": 455.0,
+    "risk_pct": -18.7,
+    "wide": false,
+    "held_stop": null
+   },
+   {
+    "symbol": "SOLARINDS",
+    "action": "ACCUMULATE",
+    "entry": "buy at next open",
+    "stop_loss": 17236.5,
+    "last_close": 19675.0,
+    "risk_pct": -12.4,
+    "wide": false,
+    "held_stop": null
+   }
+  ],
+  "raises": [
+   {
+    "symbol": "AWFIS",
+    "old": 231.89,
+    "new": 249.95
+   }
+  ],
+  "sells": [],
+  "radar": [
+   {
+    "symbol": "AARTIPHARM",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 4.11\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "BIKAJI",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 11.06\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "CARBORUNIV",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 9.32\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "CENTUM",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 3.93\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "ELECON",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 27.99\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "EMAMILTD",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 2.23\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "FIRSTCRY",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 2.21\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "GABRIEL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 6.48\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "GNFC",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 2.32\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "JSWINFRA",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 2.38\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "OPTIEMUS",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 17.04\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "PATANJALI",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 2.70\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "RAYMONDLSL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 1.63\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "SHYAMMETL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 3.16\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "SUNTV",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 4.49\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "TEGA",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 9.75\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "TRANSRAILL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 31.36\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "USHAMART",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 3.93\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "WESTLIFE",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 1.90\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "WHIRLPOOL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 8.90\u00d7 in the week of 2026-09-21; started \u2014 ladder not rising"
+   }
+  ],
+  "downgraded": [
+   {
+    "symbol": "EDELWEISS",
+    "why": "downgraded (falling earnings power): never a buy"
+   },
+   {
+    "symbol": "PCJEWELLER",
+    "why": "downgraded (falling earnings power): never a buy"
+   }
+  ]
+ },
+ "ledger": [
+  {
+   "symbol": "ACMESOLAR",
+   "first_flagged": "2026-09-21",
+   "action": "BUY",
+   "box_bottom": 389.6,
+   "box_top": 430.5,
+   "stop_loss": 370.12,
+   "last_close": 455.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "AWFIS",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 263.1,
+   "box_top": 304.5,
+   "stop_loss": 249.95,
+   "last_close": 268.95,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "BLACKBUCK",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 570.1,
+   "box_top": 641.9,
+   "stop_loss": 548.56,
+   "last_close": 614.2,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "CORONA",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "2035.0",
+   "box_top": "2270.1001",
+   "stop_loss": "",
+   "last_close": "2236.1001",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "DBL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 390.0,
+   "box_top": 411.0,
+   "stop_loss": 383.89,
+   "last_close": 413.25,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "EDELWEISS",
+   "first_flagged": "2026-09-21",
+   "action": "WATCH",
+   "box_bottom": 123.87,
+   "box_top": 140.9,
+   "stop_loss": 117.68,
+   "last_close": 141.79,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "ELLEN",
+   "first_flagged": "2026-09-12",
+   "action": "BUY",
+   "box_bottom": 308.35,
+   "box_top": 337.4,
+   "stop_loss": 299.64,
+   "last_close": 371.7,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "first_flagged": "2026-09-23",
+   "action": "BUY",
+   "box_bottom": 253.6,
+   "box_top": 289.65,
+   "stop_loss": 240.92,
+   "last_close": 306.35,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "GMMPFAUDLR",
+   "first_flagged": "2026-09-14",
+   "action": "BUY",
+   "box_bottom": 1290.6,
+   "box_top": 1352.0,
+   "stop_loss": 1226.07,
+   "last_close": 1431.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "GRANULES",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 824.4,
+   "box_top": 910.0,
+   "stop_loss": 798.72,
+   "last_close": 860.45,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "GRAPHITE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 774.6,
+   "box_top": 874.35,
+   "stop_loss": 735.87,
+   "last_close": 817.75,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "HERITGFOOD",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 384.3,
+   "box_top": 425.0,
+   "stop_loss": 365.09,
+   "last_close": 424.65,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "INNOVACAP",
+   "first_flagged": "2026-09-23",
+   "action": "BUY",
+   "box_bottom": 1080.2,
+   "box_top": 1200.0,
+   "stop_loss": 1026.19,
+   "last_close": 1292.9,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "JSL",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 715.0,
+   "box_top": 794.0,
+   "stop_loss": 721.35,
+   "last_close": 758.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "LICHSGFIN",
+   "first_flagged": "2026-09-21",
+   "action": "ACCUMULATE",
+   "box_bottom": 529.6,
+   "box_top": 579.4,
+   "stop_loss": 503.12,
+   "last_close": 572.5,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "MAHSEAMLES",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 674.15,
+   "box_top": 738.6,
+   "stop_loss": 640.44,
+   "last_close": 704.05,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "MANINDS",
+   "first_flagged": "2026-09-23",
+   "action": "BUY",
+   "box_bottom": 745.0,
+   "box_top": 944.0,
+   "stop_loss": 685.3,
+   "last_close": 995.35,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "MIDHANI",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 387.45,
+   "box_top": 482.4,
+   "stop_loss": 399.99,
+   "last_close": 416.2,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "ONESOURCE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1510.1,
+   "box_top": 1645.7,
+   "stop_loss": 1490.03,
+   "last_close": 1596.2,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "PCJEWELLER",
+   "first_flagged": "2026-09-23",
+   "action": "WATCH",
+   "box_bottom": 11.81,
+   "box_top": 14.44,
+   "stop_loss": 11.02,
+   "last_close": 14.45,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "PINELABS",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 175.3,
+   "box_top": 206.38,
+   "stop_loss": 165.98,
+   "last_close": 188.6,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "PVRINOX",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": "",
+   "box_top": "",
+   "stop_loss": 1132.78,
+   "last_close": 1319.9,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "RAYMOND",
+   "first_flagged": "2026-09-22",
+   "action": "ACCUMULATE",
+   "box_bottom": 937.3,
+   "box_top": 1122.0,
+   "stop_loss": 881.89,
+   "last_close": 1121.9,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "RAYMONDLSL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 628.25,
+   "box_top": 711.65,
+   "stop_loss": 603.23,
+   "last_close": 676.9,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SAILIFE",
+   "first_flagged": "2026-09-14",
+   "action": "ACCUMULATE",
+   "box_bottom": 1494.4,
+   "box_top": 1697.0,
+   "stop_loss": 1419.68,
+   "last_close": 1608.5,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SAMHI",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 148.92,
+   "box_top": 162.99,
+   "stop_loss": 146.66,
+   "last_close": 160.13,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SARDAEN",
+   "first_flagged": "2026-09-14",
+   "action": "WATCH",
+   "box_bottom": 491.6,
+   "box_top": 555.0,
+   "stop_loss": 477.99,
+   "last_close": 506.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SFL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 627.8,
+   "box_top": 717.85,
+   "stop_loss": 600.78,
+   "last_close": 644.15,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SHAKTIPUMP",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 455.0,
+   "box_top": 524.45,
+   "stop_loss": 458.37,
+   "last_close": 476.1,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SHAREINDIA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 188.05,
+   "box_top": 212.33,
+   "stop_loss": 178.65,
+   "last_close": 219.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SOLARINDS",
+   "first_flagged": "2026-09-23",
+   "action": "ACCUMULATE",
+   "box_bottom": 18480.0,
+   "box_top": 22625.0,
+   "stop_loss": 17236.5,
+   "last_close": 19675.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "STAR",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1102.0,
+   "box_top": 1223.0,
+   "stop_loss": 1046.9,
+   "last_close": 1226.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "SWANCORP",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "304.0",
+   "box_top": "317.2",
+   "stop_loss": "",
+   "last_close": "296.45",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "TATAINVEST",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "624.9",
+   "box_top": "656.4",
+   "stop_loss": "",
+   "last_close": "650.9",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "TEGA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1534.6,
+   "box_top": 1837.0,
+   "stop_loss": 1443.88,
+   "last_close": 2074.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "UNIMECH",
+   "first_flagged": "2026-09-22",
+   "action": "BUY",
+   "box_bottom": 1430.1,
+   "box_top": 1652.8,
+   "stop_loss": 1358.59,
+   "last_close": 1721.0,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "WESTLIFE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 520.2,
+   "box_top": 582.0,
+   "stop_loss": 505.3,
+   "last_close": 602.05,
+   "updated": "2026-09-23"
+  },
+  {
+   "symbol": "ZYDUSWELL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 512.0,
+   "box_top": 581.0,
+   "stop_loss": 511.13,
+   "last_close": 532.0,
+   "updated": "2026-09-23"
+  }
+ ]
+}

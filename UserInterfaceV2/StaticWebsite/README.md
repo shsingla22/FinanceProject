@@ -37,3 +37,14 @@ Differences from the live version: the Q&A box always answers by quoting
 the most relevant report passages (no server = no AI call); everything
 else — search, rankings, drill-down, verdicts, charts, downloads — is
 identical.
+
+## The Darvas weekly screen on the published site
+
+The static build also exports the Darvas section's data at the very paths
+the page fetches from the live server (`api/darvas/latest`, `trace`,
+`report`, `run/status`), so the published page shows exactly the stored
+run — the week in four verbs, the recommendations, the month's trace, and
+the report download. The run button is hidden in static mode: a static
+site cannot run the engine. Run the screen locally or in a Codespace
+(`UserInterfaceV2` → ▶ Run this week's screen now), commit the results,
+and the push to `main` republishes this site with the new recommendations.

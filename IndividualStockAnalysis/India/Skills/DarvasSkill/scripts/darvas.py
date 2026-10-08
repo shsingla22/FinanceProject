@@ -59,6 +59,16 @@ MONTH_VS_YEAR_MULTIPLE = 1.5
 # step 1c — the ladder gate: the stock must have CLIMBED here — at least
 # three sealed boxes with rising midpoints, the general trend up
 UPTREND_BOXES = 3
+# a surge that passes both volume gates but fails the ladder is not
+# dropped: it is WATCHED for this many days and the ladder re-tested
+# from fresh boxes on every later run — Darvas listed the stock when the
+# volume came, then waited for the boxes
+LADDER_WATCH_DAYS = 30
+# what promotes a watched stock once its ladder rises: a BREAKOUT close
+# above its box top (BUY) only. Measured April 2020 → Sep 2026, top 750 by
+# market cap, net of costs and taxes: promoting on ACCUMULATE as well made
+# ₹388 per ₹100; BUY only made ₹461 (old rules without the watch: ₹343).
+LADDER_WATCH_PROMOTE = ("BUY",)
 
 
 # ---------------------------------------------------------------- loading
@@ -357,9 +367,11 @@ def update_ledger(path: Path, picks: list[dict],
         sym = p["symbol"]
         old = rows.get(sym)
         stop = p.get("stop_loss")
-        if old and old.get("stop_loss") not in (None, "", "None") \
-                and stop is not None:
-            stop = max(float(old["stop_loss"]), float(stop))
+        if old and old.get("stop_loss") not in (None, "", "None"):
+            # a standing stop never falls and never vanishes: a box still
+            # forming (no new stop yet) leaves the old GTT exactly where it is
+            stop = (float(old["stop_loss"]) if stop is None
+                    else max(float(old["stop_loss"]), float(stop)))
         rows[sym] = {
             "symbol": sym,
             "first_flagged": (old or {}).get("first_flagged") or today,

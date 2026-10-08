@@ -2,7 +2,8 @@
 name: darvas-skill
 description: >
   Nicolas Darvas's method, run mechanically over the NiftyTotalMarket
-  universe: a weekly volume surge with the price appreciating is the
+  constituents ∪ the 1,250 largest NSE companies by market cap (both
+  re-pulled monthly): a weekly volume surge with the price appreciating is the
   trigger; rising earnings power (EBITDA, EBITDA margin, PAT, PAT margin
   from the stored statements) and a new-age-industry read from the
   conference calls are the confirmation; the stock's own Darvas boxes give
@@ -36,6 +37,28 @@ license: internal
    here. The report lists every weekly qualifier with all three gates'
    numbers and why it passed or fell out, and deep-dives the top 25
    fully-qualified by default.
+   **The ladder watch.** A stock that passes both VOLUME gates but
+   fails the ladder is not thrown away: it goes on the ladder watch
+   (`_ladder_watch.csv`) for 30 days and every later run re-tests the
+   ladder from FRESH boxes. The moment the ladder rises AND the stock
+   closes above its box top (a breakout — BUY) it is promoted into that
+   run's picks — listed after the week's fresh qualifiers, deep-dived
+   like any fully-qualified stock, carrying its original surge numbers,
+   and marked "promoted from the ladder watch" in the report. Ladder
+   rising but still inside its box (ACCUMULATE) → it keeps being
+   watched with the entry price shown; a breakdown drops it; the
+   month's end expires it; a fresh full qualification simply makes it a
+   normal pick. Darvas listed a stock when the volume came and then
+   waited for the boxes — this is that wait, mechanised. Measured April
+   2020 → Sep 2026 on the top 750 by market cap, net of costs and
+   taxes (`DARVAS_LADDERWATCH_COMPARISON_2020-04-01_to_2026-09-22.md`):
+   old rules ₹342.79 (+20.98% a year); this rule ₹461.09 (+26.65%);
+   promoting on ACCUMULATE too ₹388.18; ranking promoted names ahead of
+   fresh ones ₹200.80 — the promoted names crowded out the fresh
+   signals. The backtest engine (`rolling.py`) applies the identical
+   rule; `longrun.py --ladder-watch-days 0` replays the older drop-it
+   rule, `--watch-promote both` / `--watch-priority surge` the two
+   rejected variants.
    Each deep dive also judges the MONTHLY volume trend from the same
    daily bars — **BUILDING** (rose month over month for ≥2 complete
    months: buying pressure accumulating), **STEPPED UP**, or **SPIKE
@@ -80,9 +103,20 @@ license: internal
    window: the old instant weekly sell threw CHENNPETRO out at +5.1%;
    the grace held the identical entry to +62.6%. The rhythm: **run the
    skill weekly, after Friday's close** — each run re-fetches, re-ranks,
-   re-seals boxes and ratchets every held stop UP only. **Cash never
+   re-seals boxes and ratchets every held stop UP only — every ledger
+   position, not just the ones re-flagged by the screen: a carried
+   stock that sealed a higher box gets a higher stop (RAISE STOP LOSS
+   in the closing section), one that closed through its stop is marked
+   SELL, and a sold row is never re-judged. **Cash never
    sleeps:** money freed by a stop is deployed into that week's fresh
-   fully-qualified BUY/ACCUMULATE signals — best volume reaction first,
+   fully-qualified BUY/ACCUMULATE signals — **the large names first**
+   (index constituents or the top 750 by market cap; `mcap_rank` in the
+   constituents file), then within a size tier fresh qualifiers before
+   ladder-watch promotions, then the best volume reaction (measured on
+   the top-1,250 universe, April 2020 → Sep 2026: funding loud small
+   caps first made ₹181 per ₹100 against ₹461 on the top 750 alone —
+   smaller names, marked † in the closing section, take a slice only if
+   one is left),
    one equal slice per position, entered at the next day's open, a
    falling earnings power refused, nothing below half a slice. A
    stopped symbol may return only by passing the full three-gate screen
@@ -98,7 +132,7 @@ python3 scripts/analyze.py run                 # fetch fresh + full report
 python3 scripts/analyze.py run --top 15        # deep-dive the top 15
 python3 scripts/analyze.py run --no-fetch      # reuse the stored fetch
 python3 scripts/analyze.py run --quick         # skip the AI call-read
-python3 -m pytest scripts/test_skill.py -q     # 94 tests
+python3 -m pytest scripts/test_skill.py -q     # 108 tests
 ```
 
 ## Backtesting — the same skill, as of a past date
@@ -211,11 +245,14 @@ liability of the final part-year.
 
 | Where | What |
 |---|---|
+| `India/NiftyTotalMarket/niftytotalmarket_constituents.csv` | the live universe: official NiftyTotalMarket constituents ∪ the 1,250 largest listed companies by market cap (the 750 cutoff, about ₹6,150 crore, left out companies such as Macpower at ₹1,844 crore that fully qualified; 1,250 reaches down to about ₹1,680 crore) (from NSE's daily PR-bundle market-cap file; EQ/BE, listed, ETFs and funds excluded), each row tagged `source` = official / mcap1250 / both; both lists re-pulled monthly by `scripts/refresh_constituents.py` (`--force` to pull now), rewritten only on a real membership change with every add and remove printed |
 | `India/VolumeAndPricing/NiftyTotalMarket/_all_daily_long.csv` | one year of daily OHLCV per symbol, refreshed every run |
 | `…/_all_weekly_long.csv` | ISO-week aggregates with traded-day counts and a `complete` flag — the trigger tests the latest week, pro-rating a partial one |
 | `…/_fetch_log.csv`, `_fetched_at.txt` | per-symbol fetch status and the run stamp — failures are listed, never hidden |
 | `India/Analysis/NiftyTotalMarketAnalysis/DarvasAnalysis/DARVAS_REPORT.md` | the screen: ranked trigger table, per-pick deep dives with text charts, recommendations, the stop ledger, methodology |
 | `…/DarvasAnalysis/_positions.csv` | positions carried between runs; stops ratchet up only |
+| `…/DarvasAnalysis/_ladder_watch.csv` | the ladder watch: surges that passed both volume gates but not the ladder, watched 30 days and re-tested from fresh boxes every run (surge week, multiples, expiry, current status, the surge signal) |
+| `…/DarvasAnalysis/_events.csv` | the trade trace, preserved: every BUY (with its stop), RAISE STOP, SELL and first WATCH, one row per event; also rendered in the report's "The trade trace" section |
 
 ## Pictures
 

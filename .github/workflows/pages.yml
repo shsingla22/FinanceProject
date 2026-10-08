@@ -10,6 +10,8 @@ on:
     paths:
       - "IndividualStockAnalysis/India/Analysis/NiftyTotalMarketAnalysis/QualityAnalysis/**"
       - "IndividualStockAnalysis/India/NiftyTotalMarket/**"
+      - "IndividualStockAnalysis/India/Analysis/NiftyTotalMarketAnalysis/DarvasAnalysis/**"
+      - "IndividualStockAnalysis/India/Skills/DarvasSkill/scripts/**"
       - "IndividualStockAnalysis/India/StockInfo/**"
       - "IndividualStockAnalysis/India/ProfitStatement/**"
       - "IndividualStockAnalysis/India/BalanceSheet/**"

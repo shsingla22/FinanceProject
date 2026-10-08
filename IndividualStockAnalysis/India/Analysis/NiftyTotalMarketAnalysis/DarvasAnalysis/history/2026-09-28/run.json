@@ -1,0 +1,1105 @@
+{
+ "run_date": "2026-09-28",
+ "fetched_at": "2026-09-28T16:52:49+00:00",
+ "trigger_week": "2026-09-28",
+ "scanned": 1231,
+ "fetch_ok": 1238,
+ "universe_sources": {
+  "both": 747,
+  "mcap1250": 503,
+  "official": 3
+ },
+ "fetch_failed": 15,
+ "weekly_qualifiers": 54,
+ "fully_qualified": 54,
+ "ai_used": true,
+ "recommendations": [
+  {
+   "symbol": "RSYSTEMS",
+   "action": "WATCH",
+   "downgraded": false,
+   "box_bottom": 236.8,
+   "box_top": 283.4,
+   "box_range_pct": 19.68,
+   "stop_loss": 222.82,
+   "buy_above": 283.4,
+   "last_close": 275.21,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 149.5,
+   "why": "closed below its box bottom \u2014 a red flag, but still inside the stabilisation grace (above the stop, which sits at least 5% below the bottom); give it time rather than churn, and sell only if the stop is taken out"
+  },
+  {
+   "symbol": "SMCGLOBAL",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 78.83,
+   "box_top": 95.0,
+   "box_range_pct": 20.51,
+   "stop_loss": 73.98,
+   "buy_above": null,
+   "last_close": 97.23,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 19.33,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "SYNCOMF",
+   "action": "ACCUMULATE",
+   "downgraded": false,
+   "box_bottom": 16.61,
+   "box_top": 22.59,
+   "box_range_pct": 36.0,
+   "stop_loss": 14.82,
+   "buy_above": null,
+   "last_close": 22.2,
+   "volume_trend": "STEPPED UP",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 10.62,
+   "why": "sealed a higher box after an upward break and is holding it \u2014 add while it stabilises in the higher box"
+  },
+  {
+   "symbol": "ARTEMISMED",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 306.6,
+   "box_top": 362.0,
+   "box_range_pct": 18.07,
+   "stop_loss": 289.98,
+   "buy_above": null,
+   "last_close": 365.9,
+   "volume_trend": "BUILDING (2 mo)",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 3.0,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "BOROLTD",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 226.37,
+   "box_top": 266.0,
+   "box_range_pct": 17.51,
+   "stop_loss": 214.48,
+   "buy_above": null,
+   "last_close": 280.8,
+   "volume_trend": "BUILDING (2 mo)",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 2.84,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "MACPOWER",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 1945.2,
+   "box_top": 2175.0,
+   "box_range_pct": 11.81,
+   "stop_loss": 1847.94,
+   "buy_above": null,
+   "last_close": 2194.6001,
+   "volume_trend": "STEPPED UP",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 2.73,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "NRBBEARING",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 453.5,
+   "box_top": 519.0,
+   "box_range_pct": 14.44,
+   "stop_loss": 430.82,
+   "buy_above": null,
+   "last_close": 541.5,
+   "volume_trend": "SPIKE ONLY",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 2.27,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  },
+  {
+   "symbol": "MARINE",
+   "action": "ACCUMULATE",
+   "downgraded": false,
+   "box_bottom": 352.65,
+   "box_top": 450.0,
+   "box_range_pct": 27.61,
+   "stop_loss": 323.44,
+   "buy_above": null,
+   "last_close": 428.2,
+   "volume_trend": "STEPPED UP",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 1.82,
+   "why": "sealed a higher box after an upward break and is holding it \u2014 add while it stabilises in the higher box"
+  },
+  {
+   "symbol": "KABRAEXTRU",
+   "action": "BUY",
+   "downgraded": false,
+   "box_bottom": 585.8,
+   "box_top": 741.9,
+   "box_range_pct": 26.65,
+   "stop_loss": 538.97,
+   "buy_above": null,
+   "last_close": 863.15,
+   "volume_trend": "BUILDING (3 mo)",
+   "earnings_power": "NO DATA",
+   "new_age": "not assessed",
+   "volume_multiple": 1.6,
+   "why": "closed above its box top on trigger volume \u2014 reaching for the higher box; buy the break"
+  }
+ ],
+ "actions": {
+  "buys": [
+   {
+    "symbol": "SMCGLOBAL",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 73.98,
+    "last_close": 97.23,
+    "risk_pct": -23.9,
+    "wide": false,
+    "held_stop": null,
+    "core": false
+   },
+   {
+    "symbol": "SYNCOMF",
+    "action": "ACCUMULATE",
+    "entry": "buy at next open",
+    "stop_loss": 14.82,
+    "last_close": 22.2,
+    "risk_pct": -33.2,
+    "wide": true,
+    "held_stop": null,
+    "core": false
+   },
+   {
+    "symbol": "ARTEMISMED",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 289.98,
+    "last_close": 365.9,
+    "risk_pct": -20.7,
+    "wide": false,
+    "held_stop": null,
+    "core": false
+   },
+   {
+    "symbol": "BOROLTD",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 214.48,
+    "last_close": 280.8,
+    "risk_pct": -23.6,
+    "wide": false,
+    "held_stop": null,
+    "core": false
+   },
+   {
+    "symbol": "MACPOWER",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 1847.94,
+    "last_close": 2194.6001,
+    "risk_pct": -15.8,
+    "wide": false,
+    "held_stop": null,
+    "core": false
+   },
+   {
+    "symbol": "NRBBEARING",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 430.82,
+    "last_close": 541.5,
+    "risk_pct": -20.4,
+    "wide": false,
+    "held_stop": null,
+    "core": false
+   },
+   {
+    "symbol": "MARINE",
+    "action": "ACCUMULATE",
+    "entry": "buy at next open",
+    "stop_loss": 323.44,
+    "last_close": 428.2,
+    "risk_pct": -24.5,
+    "wide": false,
+    "held_stop": null,
+    "core": false
+   },
+   {
+    "symbol": "KABRAEXTRU",
+    "action": "BUY",
+    "entry": "buy at next open",
+    "stop_loss": 538.97,
+    "last_close": 863.15,
+    "risk_pct": -37.6,
+    "wide": true,
+    "held_stop": null,
+    "core": false
+   }
+  ],
+  "raises": [],
+  "sells": [],
+  "radar": [
+   {
+    "symbol": "RSYSTEMS",
+    "buy_above": 283.4
+   },
+   {
+    "symbol": "AARTIPHARM",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 2.54\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "ABDL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 2.82\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "AJAXENGG",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 6.16\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "APLLTD",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 1.59\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "ARVSMART",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 7.37\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "BIKAJI",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 11.06\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "CAPLIPOINT",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 2.03\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "CARBORUNIV",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 9.68\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "CENTUM",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 2.43\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "CHEMPLASTS",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 2.91\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "DELTACORP",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 11.13\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "ELECON",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 6.15\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "EMAMILTD",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 1.98\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "FILATEX",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 1.91\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "FIRSTCRY",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 12.50\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "GABRIEL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 4.08\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "GNFC",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 2.28\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "GODIGIT",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 5.78\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "HARSHA",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 1.78\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "HGINFRA",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 18.82\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "INDIAGLYCO",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 5.96\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "JASH",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 22.82\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "JAYKAY",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 10.20\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "JSWINFRA",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 1.91\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "KPIGREEN",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 6.31\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "KSCL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 57.26\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "MAXESTATES",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 1.88\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "MUKANDLTD",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 7.24\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "ONEPOINT",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 7.67\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "OPTIEMUS",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 4.83\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "PARAGMILK",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 2.04\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "PATANJALI",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 1.80\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "PFS",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 83.28\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "PROTEAN",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 3.58\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "RAYMONDLSL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 2.05\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "RAYMONDREL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 13.63\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "SANATHAN",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 4.40\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "SHOPERSTOP",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 3.84\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "SHYAMMETL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 3.16\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "STEELCAS",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 5.53\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "SUNDROP",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 5.20\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "SUNFLAG",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 17.37\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "SUNTV",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-28 \u2014 surged 2.33\u00d7 in the week of 2026-09-28; started \u2014 ladder not rising"
+   },
+   {
+    "symbol": "TCI",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 38.82\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "TEGA",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 5.34\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "TRANSRAILL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 19.89\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "USHAMART",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 2.67\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "WESTLIFE",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-23 \u2014 surged 1.90\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "WHIRLPOOL",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 22.27\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   },
+   {
+    "symbol": "ZOTA",
+    "buy_above": null,
+    "ladder_watch": "on the ladder watch until 2026-10-26 \u2014 surged 4.81\u00d7 in the week of 2026-09-21; watching \u2014 ladder not rising yet"
+   }
+  ],
+  "downgraded": []
+ },
+ "ledger": [
+  {
+   "symbol": "ACMESOLAR",
+   "first_flagged": "2026-09-21",
+   "action": "BUY",
+   "box_bottom": 389.6,
+   "box_top": 430.5,
+   "stop_loss": 370.12,
+   "last_close": 437.9,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "AHCL",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 12.91,
+   "box_top": 17.2,
+   "stop_loss": 11.62,
+   "last_close": 34.66,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "ANTELOPUS",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 996.1,
+   "box_top": 1218.3,
+   "stop_loss": 929.44,
+   "last_close": 1159.45,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "ARTEMISMED",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 306.6,
+   "box_top": 362.0,
+   "stop_loss": 289.98,
+   "last_close": 365.9,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "AWFIS",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 263.1,
+   "box_top": 304.5,
+   "stop_loss": 249.95,
+   "last_close": 250.2,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "BLACKBUCK",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 570.1,
+   "box_top": 641.9,
+   "stop_loss": 548.56,
+   "last_close": 601.2,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "BOROLTD",
+   "first_flagged": "2026-09-28",
+   "action": "BUY",
+   "box_bottom": 226.37,
+   "box_top": 266.0,
+   "stop_loss": 214.48,
+   "last_close": 280.8,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "CORONA",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "2035.0",
+   "box_top": "2270.1001",
+   "stop_loss": "",
+   "last_close": "2236.1001",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "DBL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 390.0,
+   "box_top": 411.0,
+   "stop_loss": 383.89,
+   "last_close": 406.9,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "EDELWEISS",
+   "first_flagged": "2026-09-21",
+   "action": "WATCH",
+   "box_bottom": 123.87,
+   "box_top": 140.9,
+   "stop_loss": 117.68,
+   "last_close": 135.45,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "ELLEN",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 342.9,
+   "box_top": 390.6,
+   "stop_loss": 325.75,
+   "last_close": 359.05,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "ENGINERSIN",
+   "first_flagged": "2026-09-23",
+   "action": "BUY",
+   "box_bottom": 253.6,
+   "box_top": 289.65,
+   "stop_loss": 240.92,
+   "last_close": 313.9,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "GMMPFAUDLR",
+   "first_flagged": "2026-09-14",
+   "action": "BUY",
+   "box_bottom": 1290.6,
+   "box_top": 1352.0,
+   "stop_loss": 1226.07,
+   "last_close": 1480.1,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "GNA",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 485.25,
+   "box_top": 601.65,
+   "stop_loss": 450.33,
+   "last_close": 594.7,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "GRANULES",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 824.4,
+   "box_top": 910.0,
+   "stop_loss": 798.72,
+   "last_close": 851.4,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "GRAPHITE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 774.6,
+   "box_top": 874.35,
+   "stop_loss": 735.87,
+   "last_close": 799.0,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "HERITGFOOD",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 384.3,
+   "box_top": 425.0,
+   "stop_loss": 365.09,
+   "last_close": 402.05,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "IGPL",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 508.65,
+   "box_top": 590.0,
+   "stop_loss": 483.22,
+   "last_close": 581.55,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "INDORAMA",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 81.1,
+   "box_top": 96.5,
+   "stop_loss": 76.48,
+   "last_close": 100.8,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "INNOVACAP",
+   "first_flagged": "2026-09-23",
+   "action": "BUY",
+   "box_bottom": 1080.2,
+   "box_top": 1200.0,
+   "stop_loss": 1026.19,
+   "last_close": 1271.2,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "JSL",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 715.0,
+   "box_top": 794.0,
+   "stop_loss": 721.35,
+   "last_close": 745.7,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "KABRAEXTRU",
+   "first_flagged": "2026-09-28",
+   "action": "BUY",
+   "box_bottom": 585.8,
+   "box_top": 741.9,
+   "stop_loss": 538.97,
+   "last_close": 863.15,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "KROSS",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 188.49,
+   "box_top": 224.0,
+   "stop_loss": 177.84,
+   "last_close": 260.23,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "KSL",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 901.15,
+   "box_top": 992.6,
+   "stop_loss": 856.09,
+   "last_close": 952.35,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "LICHSGFIN",
+   "first_flagged": "2026-09-21",
+   "action": "ACCUMULATE",
+   "box_bottom": 529.6,
+   "box_top": 579.4,
+   "stop_loss": 503.12,
+   "last_close": 564.15,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "MACPOWER",
+   "first_flagged": "2026-09-28",
+   "action": "BUY",
+   "box_bottom": 1945.2,
+   "box_top": 2175.0,
+   "stop_loss": 1847.94,
+   "last_close": 2194.6001,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "MAHSEAMLES",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 674.15,
+   "box_top": 738.6,
+   "stop_loss": 640.44,
+   "last_close": 714.35,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "MANINDS",
+   "first_flagged": "2026-09-23",
+   "action": "BUY",
+   "box_bottom": 745.0,
+   "box_top": 944.0,
+   "stop_loss": 685.3,
+   "last_close": 953.35,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "MARINE",
+   "first_flagged": "2026-09-26",
+   "action": "ACCUMULATE",
+   "box_bottom": 352.65,
+   "box_top": 450.0,
+   "stop_loss": 323.44,
+   "last_close": 428.2,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "MIDHANI",
+   "first_flagged": "2026-09-12",
+   "action": "ACCUMULATE",
+   "box_bottom": 387.45,
+   "box_top": 482.4,
+   "stop_loss": 399.99,
+   "last_close": 416.0,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "NRBBEARING",
+   "first_flagged": "2026-09-28",
+   "action": "BUY",
+   "box_bottom": 453.5,
+   "box_top": 519.0,
+   "stop_loss": 430.82,
+   "last_close": 541.5,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "ONESOURCE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1510.1,
+   "box_top": 1645.7,
+   "stop_loss": 1490.03,
+   "last_close": 1565.8,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "PCJEWELLER",
+   "first_flagged": "2026-09-23",
+   "action": "WATCH",
+   "box_bottom": 11.81,
+   "box_top": 14.44,
+   "stop_loss": 11.02,
+   "last_close": 13.52,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "PINELABS",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 175.3,
+   "box_top": 206.38,
+   "stop_loss": 165.98,
+   "last_close": 173.02,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "PVRINOX",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1192.4,
+   "box_top": 1284.5,
+   "stop_loss": 1132.78,
+   "last_close": 1225.0,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "RAYMOND",
+   "first_flagged": "2026-09-22",
+   "action": "BUY",
+   "box_bottom": 937.3,
+   "box_top": 1122.0,
+   "stop_loss": 881.89,
+   "last_close": 1179.95,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "RAYMONDLSL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 628.25,
+   "box_top": 711.65,
+   "stop_loss": 603.23,
+   "last_close": 672.0,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "RSYSTEMS",
+   "first_flagged": "2026-09-28",
+   "action": "WATCH",
+   "box_bottom": 236.8,
+   "box_top": 283.4,
+   "stop_loss": 222.82,
+   "last_close": 275.21,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SAILIFE",
+   "first_flagged": "2026-09-14",
+   "action": "ACCUMULATE",
+   "box_bottom": 1494.4,
+   "box_top": 1697.0,
+   "stop_loss": 1419.68,
+   "last_close": 1582.8,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SAMBHV",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 123.0,
+   "box_top": 133.8,
+   "stop_loss": 116.85,
+   "last_close": 154.0,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SAMHI",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 148.92,
+   "box_top": 162.99,
+   "stop_loss": 146.66,
+   "last_close": 150.16,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SARDAEN",
+   "first_flagged": "2026-09-14",
+   "action": "WATCH",
+   "box_bottom": 491.6,
+   "box_top": 555.0,
+   "stop_loss": 477.99,
+   "last_close": 501.3,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SFL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 627.8,
+   "box_top": 717.85,
+   "stop_loss": 600.78,
+   "last_close": 629.3,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SHAKTIPUMP",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 455.0,
+   "box_top": 524.45,
+   "stop_loss": 458.37,
+   "last_close": 465.15,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SHANTIGOLD",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 233.41,
+   "box_top": 280.75,
+   "stop_loss": 219.21,
+   "last_close": 308.77,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SHAREINDIA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 188.05,
+   "box_top": 212.33,
+   "stop_loss": 178.65,
+   "last_close": 206.1,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SMCGLOBAL",
+   "first_flagged": "2026-09-28",
+   "action": "BUY",
+   "box_bottom": 78.83,
+   "box_top": 95.0,
+   "stop_loss": 73.98,
+   "last_close": 97.23,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SMSPHARMA",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 393.25,
+   "box_top": 482.0,
+   "stop_loss": 366.62,
+   "last_close": 462.15,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SOLARINDS",
+   "first_flagged": "2026-09-23",
+   "action": "ACCUMULATE",
+   "box_bottom": 18480.0,
+   "box_top": 22625.0,
+   "stop_loss": 17236.5,
+   "last_close": 19150.0,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "STAR",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1102.0,
+   "box_top": 1223.0,
+   "stop_loss": 1046.9,
+   "last_close": 1151.4,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "STARHEALTH",
+   "first_flagged": "2026-09-26",
+   "action": "WATCH",
+   "box_bottom": 553.35,
+   "box_top": 624.9,
+   "stop_loss": 525.68,
+   "last_close": 552.5,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "STLNETWORK",
+   "first_flagged": "2026-09-26",
+   "action": "BUY",
+   "box_bottom": 26.71,
+   "box_top": 28.64,
+   "stop_loss": 25.37,
+   "last_close": 52.06,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "SWANCORP",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "304.0",
+   "box_top": "317.2",
+   "stop_loss": "",
+   "last_close": "296.45",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "SYNCOMF",
+   "first_flagged": "2026-09-28",
+   "action": "ACCUMULATE",
+   "box_bottom": 16.61,
+   "box_top": 22.59,
+   "stop_loss": 14.82,
+   "last_close": 22.2,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "TATAINVEST",
+   "first_flagged": "2026-09-12",
+   "action": "SELL",
+   "box_bottom": "624.9",
+   "box_top": "656.4",
+   "stop_loss": "",
+   "last_close": "650.9",
+   "updated": "2026-09-13"
+  },
+  {
+   "symbol": "TEGA",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 1534.6,
+   "box_top": 1837.0,
+   "stop_loss": 1443.88,
+   "last_close": 2011.5,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "UNIMECH",
+   "first_flagged": "2026-09-22",
+   "action": "BUY",
+   "box_bottom": 1430.1,
+   "box_top": 1652.8,
+   "stop_loss": 1358.59,
+   "last_close": 1616.2,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "WESTLIFE",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 520.2,
+   "box_top": 582.0,
+   "stop_loss": 505.3,
+   "last_close": 579.85,
+   "updated": "2026-09-28"
+  },
+  {
+   "symbol": "ZYDUSWELL",
+   "first_flagged": "2026-09-12",
+   "action": "WATCH",
+   "box_bottom": 512.0,
+   "box_top": 581.0,
+   "stop_loss": 511.13,
+   "last_close": 524.4,
+   "updated": "2026-09-28"
+  }
+ ]
+}

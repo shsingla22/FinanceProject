@@ -1385,3 +1385,483 @@ def test_latest_record_agrees_with_the_stored_report():
     md = AZ.REPORT.read_text()
     for b in rec["actions"]["buys"]:
         assert f"| **{b['symbol']}** | buy at next open |" in md
+
+
+
+# --------------- the live ledger ratchets EVERY held position weekly
+
+def test_carried_positions_ratchet_and_sell_without_being_reflagged(tmp_path):
+    ledger = tmp_path / "_positions.csv"
+    ledger.write_text(
+        "symbol,first_flagged,action,box_bottom,box_top,stop_loss,last_close,updated\n"
+        "CLIMBER,2026-01-02,BUY,50.0,55.0,47.5,54.0,2026-01-02\n"
+        "SLIDER,2026-01-02,BUY,50.0,55.0,47.5,54.0,2026-01-02\n"
+        "GONE,2026-01-02,SELL,,,,40.0,2026-01-02\n")
+    box = [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+    climber = _bars(box + [(58, 54, 57), (62, 57, 60)]
+                    + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]
+                    + [(60, 56, 58), (61, 57, 59), (60, 57, 59)])   # 56-62
+    slider = _bars(box + [(51, 47, 48), (49, 45, 46), (47, 44, 45)])  # < 47.5
+    daily = {"CLIMBER": climber, "SLIDER": slider}
+    # neither symbol is among today's picks — the old engine left them
+    # a picked symbol is left to its own deep dive
+    only = AZ.carried_updates(ledger, picked={"CLIMBER"}, daily=daily)
+    assert [u["symbol"] for u in only] == ["SLIDER"]
+    upd = AZ.carried_updates(ledger, picked=set(), daily=daily)
+    by = {u["symbol"]: u for u in upd}
+    assert "GONE" not in by                        # already sold: untouched
+    assert by["CLIMBER"]["stop_loss"] == pytest.approx(DV.stop_loss(
+        {"top": 62, "bottom": 56}))
+    assert by["CLIMBER"]["stop_loss"] > 47.5
+    assert by["SLIDER"]["action"] == "SELL"
+    rows = {r["symbol"]: r for r in DV.update_ledger(ledger, upd,
+                                                     today="2026-02-20")}
+    assert float(rows["CLIMBER"]["stop_loss"]) == pytest.approx(
+        by["CLIMBER"]["stop_loss"])
+    assert rows["CLIMBER"]["updated"] == "2026-02-20"
+    assert rows["CLIMBER"]["first_flagged"] == "2026-01-02"   # memory kept
+    assert rows["SLIDER"]["action"] == "SELL"
+    assert rows["SLIDER"]["stop_loss"] == ""
+    assert rows["GONE"]["action"] == "SELL"
+    # once sold, a row is never re-judged — the ledger is its memory
+    again = AZ.carried_updates(ledger, picked=set(), daily=daily)
+    assert [u["symbol"] for u in again] == ["CLIMBER"]
+
+
+def test_carried_watch_never_promotes_itself_and_a_forming_box_keeps_the_stop(tmp_path):
+    ledger = tmp_path / "_positions.csv"
+    ledger.write_text(
+        "symbol,first_flagged,action,box_bottom,box_top,stop_loss,last_close,updated\n"
+        "WATCHED,2026-09-12,WATCH,50.0,55.0,47.5,54.0,2026-09-13\n"
+        "HELD,2026-09-12,BUY,50.0,55.0,47.5,54.0,2026-09-13\n")
+    box = [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+    breakout = _bars(box + [(58, 54, 57), (62, 57, 60)])   # above 55, no box yet
+    daily = {"WATCHED": breakout, "HELD": breakout}
+    upd = {u["symbol"]: u for u in
+           AZ.carried_updates(ledger, picked=set(), daily=daily)}
+    # only the screen can turn a watched name into a BUY
+    assert upd["WATCHED"]["action"] == "WATCH"
+    assert "not re-qualified" in upd["WATCHED"]["why"]
+    # a held name in breakout is simply held
+    assert upd["HELD"]["action"] == "BUY"
+    rows = {r["symbol"]: r for r in
+            DV.update_ledger(ledger, list(upd.values()), today="2026-09-21")}
+    # the new box is still forming, so no new stop — the old one STANDS
+    for sym in ("WATCHED", "HELD"):
+        assert float(rows[sym]["stop_loss"]) == pytest.approx(47.5)
+
+
+def test_sell_lists_only_this_runs_sales_and_a_buy_carries_a_holders_stop():
+    ledger = [
+        {"symbol": "OLDSALE", "action": "SELL", "stop_loss": "",
+         "updated": "2026-09-13"},
+        {"symbol": "NEWSALE", "action": "SELL", "stop_loss": "",
+         "updated": "2026-09-21"},
+        {"symbol": "JSL", "action": "ACCUMULATE", "stop_loss": "721.35",
+         "updated": "2026-09-21"},
+    ]
+    dives = [{"rec": {"symbol": "JSL", "action": "ACCUMULATE",
+                      "stop_loss": 679.25, "last_close": 751.45}}]
+    a = AZ.actions_data(dives, ledger, {}, today="2026-09-21")
+    assert [s["symbol"] for s in a["sells"]] == ["NEWSALE"]
+    assert a["buys"][0]["held_stop"] == pytest.approx(721.35)
+    md = AZ.render_actions(a)
+    assert "keep your standing ₹721.35" in md
+    assert "OLDSALE" not in md and "- NEWSALE" in md
+    # without a run date every SELL row is listed (the backfill path)
+    assert len(AZ.actions_data(dives, ledger, {})["sells"]) == 2
+    # a fresh box whose stop is already the highest carries nothing
+    dives[0]["rec"]["stop_loss"] = 730.0
+    assert AZ.actions_data(dives, ledger, {})["buys"][0]["held_stop"] is None
+
+
+def test_journal_sells_once_and_marks_reflagged_buys_and_renders_the_trace(tmp_path):
+    raw = [
+        {"date": "2026-09-05", "symbol": "AAA", "event": "BUY",
+         "detail": "BUY at next open; stop ₹90.00", "stop_loss": 90.0},
+        {"date": "2026-09-05", "symbol": "ZZZ", "event": "SELL",
+         "detail": "closed below its box bottom — exit", "stop_loss": None},
+        {"date": "2026-09-12", "symbol": "AAA", "event": "BUY",
+         "detail": "BUY at next open; stop ₹97.00", "stop_loss": 97.0},
+        {"date": "2026-09-12", "symbol": "AAA", "event": "RAISE STOP",
+         "detail": "₹90.00 → ₹97.00", "stop_loss": 97.0},
+        {"date": "2026-09-12", "symbol": "ZZZ", "event": "SELL",
+         "detail": "closed below its box bottom — exit", "stop_loss": None},
+        {"date": "2026-09-19", "symbol": "AAA", "event": "SELL",
+         "detail": "closed below its box bottom — exit", "stop_loss": None},
+    ]
+    j = DH.journal(raw)
+    kinds = [(e["date"], e["symbol"], e["event"], bool(e.get("repeat")))
+             for e in j]
+    assert kinds == [("2026-09-05", "AAA", "BUY", False),
+                     ("2026-09-05", "ZZZ", "SELL", False),
+                     ("2026-09-12", "AAA", "BUY", True),      # still a BUY
+                     ("2026-09-12", "AAA", "RAISE STOP", False),
+                     ("2026-09-19", "AAA", "SELL", False)]    # ZZZ sold once
+    assert "first entry 2026-09-05" in j[2]["detail"]
+    ledger = [{"symbol": "AAA", "action": "SELL", "stop_loss": ""},
+              {"symbol": "ZZZ", "action": "SELL", "stop_loss": ""}]
+    md = DH.render_trace_md(j, ledger)
+    assert "## The trade trace" in md
+    assert "| AAA | 2026-09-05 | ₹90.00 | 2026-09-12: ₹90.00 → ₹97.00 | — " \
+           "| 2026-09-19 | sold |" in md
+    assert "| ZZZ | — | — | — | — | 2026-09-05 | sold |" in md
+    assert md.count("AAA         BUY") == 2 and "AAA         SELL" in md
+    out = tmp_path / "_events.csv"
+    DH.save_events(j, out)
+    rows = list(csv.DictReader(open(out)))
+    assert [r["event"] for r in rows] == ["BUY", "SELL", "BUY", "RAISE STOP",
+                                          "SELL"]
+    assert rows[2]["repeat"] == "yes" and rows[0]["stop_loss"] == "90.0"
+
+
+def test_full_journal_replaces_the_archived_run_of_the_same_date(tmp_path):
+    (tmp_path / "2026-09-05").mkdir()
+    old = {"run_date": "2026-09-05", "actions": {
+        "buys": [{"symbol": "AAA", "action": "BUY", "stop_loss": 90.0}],
+        "raises": [], "sells": [], "radar": [], "downgraded": []}}
+    (tmp_path / "2026-09-05" / "run.json").write_text(_json.dumps(old))
+    current = {"run_date": "2026-09-05", "actions": {
+        "buys": [{"symbol": "BBB", "action": "BUY", "stop_loss": 10.0}],
+        "raises": [], "sells": [], "radar": [], "downgraded": []}}
+    ev = DH.full_journal(tmp_path, current=current)
+    assert [e["symbol"] for e in ev] == ["BBB"]
+    # the UI window still sees a SELL only once even when the sold row
+    # is carried through later runs
+    (tmp_path / "2026-09-12").mkdir()
+    r2 = {"run_date": "2026-09-12", "actions": {
+        "buys": [], "raises": [], "sells": [{"symbol": "AAA"}],
+        "radar": [], "downgraded": []}}
+    (tmp_path / "2026-09-19").mkdir()
+    r3 = {**r2, "run_date": "2026-09-19"}
+    (tmp_path / "2026-09-12" / "run.json").write_text(_json.dumps(r2))
+    (tmp_path / "2026-09-19" / "run.json").write_text(_json.dumps(r3))
+    tl = DH.trace(days=None, history=tmp_path)["timeline"]
+    assert [(e["date"], e["event"]) for e in tl if e["symbol"] == "AAA"] \
+        == [("2026-09-05", "BUY"), ("2026-09-12", "SELL")]
+
+
+# ---------------- the live universe: official ∪ top 750 by market cap
+
+MCAP_CSV = (
+    "Trade Date,Symbol,Series,Security Name,Category,Last Trade Date,"
+    "Face Value(Rs.),Issue Size,Close Price/Paid up value(Rs.),Market Cap(Rs.)\n"
+    "18 SEP 2026,BIG,EQ,BIG LTD           ,Listed    ,18 SEP 2026,10,100,10,9000\n"
+    "18 SEP 2026,MID,BE,MID LTD,Listed,18 SEP 2026,10,100,10,8000\n"
+    "18 SEP 2026,SMALL,EQ,SMALL LTD,Listed,18 SEP 2026,10,100,10,7000\n"
+    "18 SEP 2026,SMEONE,SM,SME LTD,Listed,18 SEP 2026,10,100,10,9500\n"
+    "18 SEP 2026,FOREIGN,EQ,PERMITTED LTD,Permitted,18 SEP 2026,10,100,10,9600\n"
+    "18 SEP 2026,NIFTYBEES,EQ,NIPPON ETF,Listed,18 SEP 2026,10,100,10,9700\n"
+    "18 SEP 2026,ZEROCAP,EQ,ZERO LTD,Listed,18 SEP 2026,10,100,10,0\n")
+
+
+def test_mcap_file_keeps_only_listed_tradeable_companies():
+    rows = RC.parse_mcap(MCAP_CSV)
+    assert [r["symbol"] for r in rows] == ["BIG", "MID", "SMALL"]
+    assert rows[0]["name"] == "BIG LTD" and rows[1]["series"] == "BE"
+    top = RC.top_by_mcap(rows, n=2)
+    assert [r["nse_symbol"] for r in top] == ["BIG", "MID"]
+    assert top[0]["industry"] == "" and top[0]["isin"] == ""
+
+
+def _zip_with(name: str, text: str) -> bytes:
+    import io as _io, zipfile as _zf
+    buf = _io.BytesIO()
+    with _zf.ZipFile(buf, "w") as z:
+        z.writestr(name, text)
+    return buf.getvalue()
+
+
+def test_latest_mcap_walks_back_over_weekends_and_missing_bundles(monkeypatch):
+    monkeypatch.setattr(RC, "PR_LOOKBACK_DAYS", 10)
+    big = MCAP_CSV + "".join(
+        f"18 SEP 2026,S{i},EQ,S{i} LTD,Listed,18 SEP 2026,10,100,10,{i}\n"
+        for i in range(1, 1600))
+    asked = []
+
+    def fetch(url):
+        asked.append(url)
+        if "PR180926" in url:                 # Friday 18 Sep — present
+            return _zip_with("mcap18092026.csv", big)
+        raise OSError("404")
+
+    # Tuesday 22 Sep: Monday missing, weekend skipped, Friday found
+    date, rows = RC.latest_mcap(dt.date(2026, 9, 22), fetch)
+    assert date == "2026-09-18" and asked[0].endswith("PR210926.zip")
+    assert not any("PR200926" in u or "PR190926" in u for u in asked)
+    assert rows[0]["symbol"] == "BIG"
+
+
+def test_union_universe_tags_every_row_by_source():
+    official = [{"nse_symbol": "AAA", "company_name": "A", "industry": "IT",
+                 "series": "EQ", "isin": "INE1"},
+                {"nse_symbol": "BBB", "company_name": "B", "industry": "",
+                 "series": "EQ", "isin": "INE2"}]
+    top = [{"nse_symbol": "BBB", "company_name": "B LTD", "industry": "",
+            "series": "EQ", "isin": ""},
+           {"nse_symbol": "CCC", "company_name": "C LTD", "industry": "",
+            "series": "EQ", "isin": ""}]
+    u = RC.union_universe(official, top)
+    assert [(r["nse_symbol"], r["source"]) for r in u] == \
+        [("AAA", "official"), ("BBB", "both"), ("CCC", RC.MCAP_TAG)]
+    assert u[1]["isin"] == "INE2"           # the official row's fields win
+
+
+def test_refresh_writes_the_union_and_survives_one_failed_pull(tmp_path,
+                                                                 monkeypatch):
+    stored = tmp_path / "c.csv"
+    stored.write_text("nse_symbol,company_name,industry,series,isin\n"
+                      "AAA,A,IT,EQ,INE1\nOLD,O,IT,EQ,INE9\n")
+    monkeypatch.setattr(RC, "STORED", stored)
+    monkeypatch.setattr(RC, "STAMP", tmp_path / "stamp.txt")
+    monkeypatch.setattr(RC, "MCAP_TOP", 2)
+    monkeypatch.setattr(RC, "MCAP_TAG", "mcap2")
+    official = "Company Name,Industry,Symbol,Series,ISIN Code\n" + "".join(
+        f"Co{i},IT,AAA{i},EQ,INE{i}\n" for i in range(650)) + "A,IT,AAA,EQ,INE1\n"
+    big = MCAP_CSV + "".join(
+        f"18 SEP 2026,S{i},EQ,S{i} LTD,Listed,18 SEP 2026,10,100,10,{i}\n"
+        for i in range(1, 1600))
+
+    def fetch(url):
+        if url == RC.URL:
+            return official.encode()
+        if "PR180926" in url:
+            return _zip_with("mcap18092026.csv", big)
+        raise OSError("404")
+
+    r = RC.refresh(force=True, fetch=fetch, today=dt.date(2026, 9, 22))
+    assert r["checked"] and r["changed"]
+    assert "BIG" in r["added"] and "MID" in r["added"] and "OLD" in r["removed"]
+    rows = {x["nse_symbol"]: x for x in csv.DictReader(open(stored))}
+    assert rows["BIG"]["source"] == "mcap2" and rows["AAA"]["source"] == "official"
+    assert r["sources"] == {"official": 651, "mcap2": 2}
+    # the market-cap source goes down next month: its rows STAND
+    def fetch2(url):
+        if url == RC.URL:
+            return official.encode()
+        raise OSError("503")
+    r2 = RC.refresh(force=True, fetch=fetch2, today=dt.date(2026, 10, 22))
+    assert r2["changed"] is False and "market-cap pull failed" in r2["note"]
+    rows = {x["nse_symbol"]: x for x in csv.DictReader(open(stored))}
+    assert rows["BIG"]["source"] == "mcap2"
+
+
+# ---------------- the ladder watch: a surge that failed the ladder is
+# watched a month and re-tested from fresh boxes on every later run
+
+def _climb_seq():
+    """50-55 box → 56-62 box → 64-70 box → breakout above 70: three
+    sealed boxes with rising midpoints, then the break."""
+    box1 = [(55, 52, 54)] + [(54, 51, 52), (53, 50, 51), (54, 51, 53)] * 2
+    up1 = ([(58, 54, 57), (62, 57, 60)]
+           + [(61, 57, 59), (60, 56, 58), (61, 57, 60)]
+           + [(60, 56, 58), (61, 57, 59), (60, 57, 59)])
+    up2 = ([(65, 61, 64), (70, 65, 68)]
+           + [(69, 65, 67), (68, 64, 66), (69, 65, 68)]
+           + [(68, 64, 66), (69, 65, 67), (68, 65, 67)])
+    return box1, up1, up2, [(73, 69, 72)]
+
+
+def test_retest_ladder_promotes_once_three_rising_boxes_seal_and_break():
+    box1, up1, up2, brk = _climb_seq()
+    watch = {"signal": {"volume_multiple": 3.0, "qualifies": True}}
+    # two boxes only: the ladder is too short — keep watching
+    r = RL.retest_ladder(_bars(box1 + up1), watch)
+    assert r["verdict"] == "keep"
+    # three rising boxes and a breakout: promoted as a BUY with the stop
+    # under the box it broke out of
+    r = RL.retest_ladder(_bars(box1 + up1 + up2 + brk), watch)
+    assert r["verdict"] == "promote" and r["action"] == "BUY"
+    assert r["stop"] == pytest.approx(DV.stop_loss({"top": 70, "bottom": 64}))
+    # three rising boxes, still inside the third: ladder fine, but no
+    # breakout yet — kept on watch (ACCUMULATE does not promote)
+    r = RL.retest_ladder(_bars(box1 + up1 + up2), watch)
+    assert r["verdict"] == "keep" and "ACCUMULATE" in r["why"]
+
+
+def test_rolling_watches_a_ladder_failed_surge_and_buys_when_it_rises(monkeypatch):
+    bars_by = _rolling_world()
+    verdicts = {"2026-01-16": {"verdict": "keep", "why": "not yet"},
+                "2026-01-23": {"verdict": "promote", "action": "BUY",
+                               "stop": 45.0, "why": "rising"}}
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB" and day.isoformat() == "2026-01-09":
+            return {"stage": "ladder_fail", "signal": {"volume_multiple": 2.5},
+                    "volume_multiple": 2.5, "month_multiple": 2.0,
+                    "why": "the last 3 box midpoints do not step upward"}
+        return None
+
+    def fake_retest(bars_upto, watch):
+        return verdicts[bars_upto[-1]["date"]]
+
+    monkeypatch.setattr(RL, "retest_ladder", fake_retest)
+    res = RL.run_rolling(bars_by, [], "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=10)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    assert "2026-01-09 BBB ladder watch STARTED — 2.50× weekly" in text
+    buys = [b for b in res["blotter"] if b[1] == "BBB" and "BUY ₹" in b[2]]
+    assert buys and buys[0][0] == "2026-01-26"       # Monday after the 23rd
+    assert "promoted from the ladder watch" in buys[0][2]
+    assert "surged 2.50× weekly on 2026-01-09" in buys[0][2]
+    assert "stop ₹45.00" in buys[0][2]          # entered on the watch's stop
+    assert res["book"][0]["stop"] >= 45.0        # then ratcheted like any hold
+
+
+def test_rolling_ladder_watch_expires_after_its_month(monkeypatch):
+    bars_by = _rolling_world()
+
+    def stub(bars_upto, day):
+        if bars_upto[-1]["symbol"] == "BBB" and day.isoformat() == "2026-01-09":
+            return {"stage": "ladder_fail", "signal": {}, "volume_multiple": 2.5,
+                    "month_multiple": 2.0, "why": "flat ladder"}
+        return None
+
+    monkeypatch.setattr(RL, "retest_ladder",
+                        lambda b, w: {"verdict": "keep", "why": "flat"})
+    monkeypatch.setattr(RL, "LADDER_WATCH_DAYS", 7)
+    res = RL.run_rolling(bars_by, [], "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=10)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    assert "2026-01-23 BBB ladder watch EXPIRED" in text
+    assert not [b for b in res["blotter"] if "BUY ₹" in b[2]]
+    # and with the watch OFF (0 days) the surge is simply dropped
+    monkeypatch.setattr(RL, "LADDER_WATCH_DAYS", 0)
+    res = RL.run_rolling(bars_by, [], "2026-01-02", bars_by["AAA"][-1]["date"],
+                         100.0, lambda s, d: True, screen=stub, slots=10)
+    assert not [b for b in res["blotter"] if "BUY ₹" in b[2]]
+
+
+def _gated_row(sym, week, ladder_ok, month_ok=True, mult=2.4):
+    return {"symbol": sym, "week_start": week, "volume_multiple": mult,
+            "tier": "strong", "price_change_pct": 8.0, "qualifies": True,
+            "last_week_volume": 240_000, "baseline_weeks": 12,
+            "baseline_avg_volume": 100_000, "days_traded": 5,
+            "raw_volume_multiple": mult, "partial_week": False,
+            "month_gate": {"month_vs_year_multiple": 1.9 if month_ok else 0.9,
+                           "qualifies": month_ok},
+            "ladder_gate": {"qualifies": ladder_ok, "boxes": 3,
+                            "midpoints": [52.5, 59.0, 57.0],
+                            "why": "the last 3 box midpoints do not step upward"},
+            "fully_qualifies": ladder_ok and month_ok}
+
+
+def test_live_ladder_watch_starts_promotes_and_expires(tmp_path):
+    path = tmp_path / "_ladder_watch.csv"
+    box1, up1, up2, brk = _climb_seq()
+    daily = {"LAD": _bars(box1 + up1)}
+    gated = [_gated_row("LAD", "2026-09-07", ladder_ok=False),
+             _gated_row("FULL", "2026-09-07", ladder_ok=True),
+             _gated_row("NOMONTH", "2026-09-07", ladder_ok=False, month_ok=False)]
+    lw = AZ.ladder_watch_update(gated, daily, "2026-09-12", path)
+    assert [r["symbol"] for r in lw["started"]] == ["LAD"]   # not FULL, not NOMONTH
+    rows = AZ.load_ladder_watch(path)
+    assert rows["LAD"]["expires"] == "2026-10-12"
+    assert rows["LAD"]["surge_week"] == "2026-09-07"
+    # next run: ladder still short — kept, nothing promoted
+    lw = AZ.ladder_watch_update([], daily, "2026-09-19", path)
+    assert lw["promoted"] == [] and [r["symbol"] for r in lw["watching"]] == ["LAD"]
+    assert "not rising" in AZ.load_ladder_watch(path)["LAD"]["status"]
+    # a run later: three rising boxes and the break — promoted, carrying
+    # the ORIGINAL surge numbers, and off the watch
+    daily = {"LAD": _bars(box1 + up1 + up2 + brk)}
+    lw = AZ.ladder_watch_update([], daily, "2026-09-26", path)
+    assert [s["symbol"] for s in lw["promoted"]] == ["LAD"]
+    sig = lw["promoted"][0]
+    assert sig["volume_multiple"] == 2.4 and sig["week_start"] == "2026-09-07"
+    assert sig["promoted_from_watch"]["surge_week"] == "2026-09-07"
+    assert AZ.load_ladder_watch(path) == {}
+    # the promoted signal deep-dives like any pick, and says where it came from
+    rec = DV.recommend(DV.find_boxes(daily["LAD"]), sig)
+    assert rec["action"] == "BUY"
+    # expiry: a fresh watch left alone past its month leaves the file
+    lw = AZ.ladder_watch_update([_gated_row("OLD", "2026-09-21", False)],
+                                {"OLD": _bars(box1)}, "2026-09-26", path)
+    lw = AZ.ladder_watch_update([], {"OLD": _bars(box1)}, "2026-10-27", path)
+    assert [r["symbol"] for r in lw["expired"]] == ["OLD"]
+    assert AZ.load_ladder_watch(path) == {}
+    # a stock that fully qualifies afresh simply leaves the watch
+    AZ.ladder_watch_update([_gated_row("AGAIN", "2026-10-19", False)],
+                           {"AGAIN": _bars(box1)}, "2026-10-24", path)
+    AZ.ladder_watch_update([_gated_row("AGAIN", "2026-10-26", True)],
+                           {"AGAIN": _bars(box1)}, "2026-10-31", path)
+    assert AZ.load_ladder_watch(path) == {}
+
+
+def test_ladder_watch_names_sit_on_the_radar_not_in_the_buys():
+    lw = {"watching": [{"symbol": "LAD", "expires": "2026-10-12",
+                        "volume_multiple": "2.4", "surge_week": "2026-09-07",
+                        "status": "watching — ladder not rising yet"}]}
+    a = AZ.actions_data([], [], {}, "2026-09-19", lw)
+    assert a["buys"] == [] and a["radar"][0]["symbol"] == "LAD"
+    md = AZ.render_actions(a)
+    assert "LAD — on the ladder watch until 2026-10-12" in md
+    # and the journal names the watch, not a bare "on the radar"
+    ev = DH.timeline([{"run_date": "2026-09-19", "actions": a}])
+    assert ev[0]["event"] == "WATCH" and "ladder watch" in ev[0]["detail"]
+    sec = "\n".join(AZ.render_ladder_watch({
+        "watching": [{**lw["watching"][0], "month_multiple": "1.9"}],
+        "promoted": [], "expired": [], "dropped": []}))
+    assert "| LAD | 2026-09-07 | 2.40× | 1.90× | 2026-10-12 |" in sec
+
+
+# ---------------- large names first: the top 750 are funded before the rest
+
+def test_rolling_funds_core_names_before_louder_small_caps():
+    aaa = _roll_bars("AAA", [100.0] * 40)          # a top-750 name
+    bbb = _roll_bars("BBB", [50.0] * 40)           # a louder small cap
+    bars_by = {"AAA": aaa, "BBB": bbb}
+
+    def stub(bars_upto, day):
+        if day.isoformat() != "2026-01-09":
+            return None
+        sym = bars_upto[-1]["symbol"]
+        return {"stage": "full", "action": "BUY", "stop": 40.0,
+                "volume_multiple": 9.0 if sym == "BBB" else 2.0,
+                "month_multiple": 2.0}
+
+    core = {"2026-01": {"AAA"}}
+    # one slot's worth of cash: only the first-ranked signal is funded
+    res = RL.run_rolling(bars_by, [], "2026-01-02", aaa[-1]["date"], 10.0,
+                         lambda s, d: True, screen=stub, slots=1, core=core)
+    text = "\n".join(f"{d} {s} {w}" for d, s, w in res["blotter"])
+    assert [b["symbol"] for b in res["book"]] == ["AAA"]
+    assert "BBB fresh signal NOT FUNDED" in text
+    assert "outside the top 750 by size — funded after the large names" in text
+    # without a core list the loudest signal wins, as before
+    res = RL.run_rolling(bars_by, [], "2026-01-02", aaa[-1]["date"], 10.0,
+                         lambda s, d: True, screen=stub, slots=1)
+    assert [b["symbol"] for b in res["book"]] == ["BBB"]
+
+
+def test_refresher_records_market_cap_rank_and_names_the_core():
+    rows = RC.parse_mcap(MCAP_CSV)
+    top = RC.top_by_mcap(rows, n=3)
+    assert [(r["nse_symbol"], r["mcap_rank"]) for r in top] == \
+        [("BIG", 1), ("MID", 2), ("SMALL", 3)]
+    official = [{"nse_symbol": "IDX", "company_name": "I", "industry": "",
+                 "series": "EQ", "isin": "INE9"}]
+    u = {r["nse_symbol"]: r for r in RC.union_universe(official, top)}
+    assert u["BIG"]["mcap_rank"] == 1 and u["IDX"]["mcap_rank"] == ""
+    assert RC.is_core(u["IDX"]) and RC.is_core(u["BIG"], top=2)
+    assert not RC.is_core(u["SMALL"], top=2)
+    assert not RC.is_core({"source": "mcap1250", "mcap_rank": ""})
+
+
+def test_live_picks_put_large_names_first_then_fresh_before_promoted():
+    fresh = [{"symbol": "SMALLLOUD", "volume_multiple": 30.0},
+             {"symbol": "BIGQUIET", "volume_multiple": 1.6},
+             {"symbol": "BIGLOUD", "volume_multiple": 4.0}]
+    promoted = [{"symbol": "BIGPROMO", "volume_multiple": 9.0,
+                 "promoted_from_watch": {"surge_week": "2026-09-07"}}]
+    core = {"BIGQUIET", "BIGLOUD", "BIGPROMO"}
+    order = [s["symbol"] for s in AZ.order_picks(fresh, promoted, core)]
+    assert order == ["BIGLOUD", "BIGQUIET", "BIGPROMO", "SMALLLOUD"]
+    # the closing section marks the small name and states the order
+    dives = [{"rec": {"symbol": "SMALLLOUD", "action": "BUY", "stop_loss": 9.0,
+                      "last_close": 10.0}, "signal": {"core": False}},
+             {"rec": {"symbol": "BIGLOUD", "action": "BUY", "stop_loss": 90.0,
+                      "last_close": 100.0}, "signal": {"core": True}}]
+    md = AZ.render_actions(AZ.actions_data(dives, [], {}))
+    assert "| **SMALLLOUD** † |" in md and "| **BIGLOUD** |" in md
+    assert "the large names first" in md
