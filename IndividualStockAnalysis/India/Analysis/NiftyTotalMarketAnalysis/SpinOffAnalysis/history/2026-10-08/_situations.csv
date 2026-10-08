@@ -1,0 +1,322 @@
+symbol,company,kind,family,stage,first_filing,latest_filing,listed_on,n_filings,score,verdict,resulting_company,entitlement_ratio,record_date,reasons,concall_mentions,judge_status
+HEGAM,HEG Advanced Materials Ltd.,demerger,spin-off,listed,2026-01-09,2026-09-29,2026-07-29,23,3.3,LISTED <1Y — selling-pressure window; the bargain forms here,HEG Graphite Limited,1 for every 1,,value unlocking for shareholders; a weak or capital-heavy business carved away; regulatory / strategic knot; attracting different investors / capital,0,judged
+INDIAGLYCO,India Glycols Ltd.,demerger,spin-off,record_date,2025-11-20,2026-10-06,2026-08-21,18,4.3,LISTED <1Y — selling-pressure window; the bargain forms here,No. 1 is a public limited,1 for every 3,2026-08-21,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot; a weak or capital-heavy business carved away,8,judged
+NH,Narayana Hrudayalaya Ltd.,demerger,spin-off,nclt_sanction,2025-12-12,2026-04-06,,18,5.7,PRE-SPIN — study the parent; the pieces do not trade yet,Narayana Hrudayalaya Limited,,,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot,2,judged
+VEDL,Vedanta Ltd.,demerger,spin-off,record_date,2025-10-18,2026-07-30,2026-04-20,16,5.7,LISTED <1Y — selling-pressure window; the bargain forms here,Talwandi Sabo Power Limited,,,unrelated businesses separated; regulatory / strategic knot; attracting different investors / capital; value unlocking for shareholders; a weak or capital-heavy business carved away,18,judged
+JSWENERGY,JSW Energy Ltd.,demerger,spin-off,nclt_sanction,2026-04-02,2026-10-01,,14,3.6,PRE-SPIN — study the parent; the pieces do not trade yet,JSW Energy Limited,,,,1,judged
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,demerger,spin-off,nclt_sanction,2026-04-03,2026-06-26,,13,5.7,PRE-SPIN — study the parent; the pieces do not trade yet,is a Public Limited,,,regulatory / strategic knot; attracting different investors / capital; value unlocking for shareholders,5,judged
+HINDUNILVR,Hindustan Unilever Ltd.,demerger,spin-off,listed,2025-10-30,2026-02-13,2025-12-05,13,5.7,LISTED <1Y — selling-pressure window; the bargain forms here,,1 for every 1,2025-12-05,value unlocking for shareholders; regulatory / strategic knot; a weak or capital-heavy business carved away; unrelated businesses separated,13,judged
+TRIVENI,Triveni Engineering & Industries Ltd.,demerger,spin-off,record_date,2026-05-07,2026-08-03,2026-07-11,11,3.6,LISTED <1Y — selling-pressure window; the bargain forms here,Triveni Power Transmission Limited,,,regulatory / strategic knot,9,judged
+AMBUJACEM,Ambuja Cements Ltd.,demerger,spin-off,listed,2025-10-09,2026-04-10,2026-04-10,9,3.6,LISTED <1Y — selling-pressure window; the bargain forms here,Ambuja Cements Limited,,,,2,judged
+GABRIEL,Gabriel India Ltd.,demerger,spin-off,listed,2025-11-18,2026-06-09,2026-06-09,9,2.9,LISTED <1Y — selling-pressure window; the bargain forms here,Asia Investments Private Limited,,,,2,judged
+INOXGREEN,Inox Green Energy Services Ltd.,demerger,spin-off,listed,2025-11-01,2026-08-24,2026-08-01,9,4.3,LISTED <1Y — selling-pressure window; the bargain forms here,Inox Renewable Solutions Limited,"122 for every 2,000",2026-08-01,unrelated businesses separated; value unlocking for shareholders; attracting different investors / capital,14,judged
+SAMMAANCAP,Sammaan Capital Ltd.,demerger,spin-off,nclt_sanction,2026-04-22,2026-09-25,,7,3.3,PRE-SPIN — study the parent; the pieces do not trade yet,Sammaan Capi tal Limited,,,value unlocking for shareholders; regulatory / strategic knot,0,judged
+THOMASCOOK,Thomas Cook (India) Ltd.,demerger,spin-off,exchange_noc,2026-03-20,2026-09-02,,7,4.3,PRE-SPIN — study the parent; the pieces do not trade yet,Sterling Holiday Resorts Limited,,,value unlocking for shareholders; a weak or capital-heavy business carved away,5,judged
+REFEX,Refex Industries Ltd.,demerger,spin-off,nclt_sanction,2026-03-17,2026-08-07,,6,5.0,PRE-SPIN — study the parent; the pieces do not trade yet,Ref ex Industries Limited,,2025-04-01,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot; attracting different investors / capital,18,judged
+RELIGARE,Religare Enterprises Ltd.,demerger,spin-off,exchange_noc,2026-02-03,2026-08-07,,6,5.0,PRE-SPIN — study the parent; the pieces do not trade yet,Religare Finvest Limited,,,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot; attracting different investors / capital,16,judged
+ASTRAL,Astral Ltd.,demerger,spin-off,announced,2026-06-25,2026-07-29,,5,5.8,PRE-SPIN — study the parent; the pieces do not trade yet,,1 for every 1,,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot,0,judged
+GODIGIT,Go Digit General Insurance Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-04-23,2026-09-30,,5,4.2,PRE-SPIN — study the parent; the pieces do not trade yet,Go Digit General Insurance Limited,,,regulatory / strategic knot,0,judged
+KITEX,Kitex Garments Ltd.,demerger,spin-off,nclt_sanction,2026-06-23,2026-09-17,,5,4.2,PRE-SPIN — study the parent; the pieces do not trade yet,Kitex Garments Limited,,,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot,0,judged
+LT,Larsen & Toubro Ltd.,scheme_other,scheme (nature unclear),meetings,2025-12-08,2026-08-04,,5,5.7,PRE-SPIN — study the parent; the pieces do not trade yet,vested in L&T Realty Properties Limited,,,value unlocking for shareholders; regulatory / strategic knot,3,judged
+ADANIENT,Adani Enterprises Ltd.,scheme_other,scheme (nature unclear),listed,2025-11-26,2026-04-01,2026-04-01,4,2.9,LISTED <1Y — selling-pressure window; the bargain forms here,,,,,6,judged
+JKPAPER,JK Paper Ltd.,demerger,spin-off,nclt_sanction,2025-11-02,2026-03-20,,4,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,JK Paper Limited,,,,0,judged
+MAHSEAMLES,Maharashtra Seamless Ltd.,demerger,spin-off,announced,2026-05-22,2026-10-07,,4,4.2,PRE-SPIN — study the parent; the pieces do not trade yet,MSL Seamless Tubes Limited,1 for every 5,,unrelated businesses separated; value unlocking for shareholders,0,judged
+SUNTECK,Sunteck Realty Ltd.,demerger,spin-off,announced,2026-10-01,2026-10-01,,4,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,Sunteck Realty Limited,,,,0,judged
+TMPV,Tata Motors Passenger Vehicles Ltd.,scheme_other,scheme (nature unclear),listed,2025-10-09,2025-11-10,2025-10-15,4,3.6,LISTED <1Y — selling-pressure window; the bargain forms here,,,,,6,judged
+UPL,UPL Ltd.,demerger,spin-off,exchange_noc,2026-01-19,2026-07-29,,4,7.1,PRE-SPIN — study the parent; the pieces do not trade yet,UPL Global Sustainable Agri Solutions Limited,1 for every 1,,unrelated businesses separated; value unlocking for shareholders; a weak or capital-heavy business carved away; regulatory / strategic knot; attracting different investors / capital,3,cached
+ASTRAMICRO,Astra Microwave Products Ltd.,demerger,spin-off,announced,2026-02-27,2026-06-10,,3,5.7,PRE-SPIN — study the parent; the pieces do not trade yet,,,,unrelated businesses separated; value unlocking for shareholders; a weak or capital-heavy business carved away; attracting different investors / capital,2,judged
+EMBDL,Embassy Developments Ltd.,demerger,spin-off,nclt_sanction,2025-12-11,2026-05-04,,3,5.0,PRE-SPIN — study the parent; the pieces do not trade yet,,,,unrelated businesses separated,4,judged
+HSCL,Himadri Speciality Chemical Ltd.,demerger,spin-off,announced,2026-09-18,2026-09-21,,3,5.0,PRE-SPIN — study the parent; the pieces do not trade yet,Himadri Speciality Chemical Ltd,,,value unlocking for shareholders,0,judged
+LEMONTREE,Lemon Tree Hotels Ltd.,demerger,spin-off,exchange_noc,2026-01-10,2026-09-22,,3,5.7,PRE-SPIN — study the parent; the pieces do not trade yet,Fleur Hotels Limited,,,regulatory / strategic knot; attracting different investors / capital,19,judged
+PFOCUS,Prime Focus Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-05-07,2026-05-12,,3,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+SKFINDIA,SKF India Ltd.,demerger,spin-off,listed,2025-10-17,2025-11-28,2025-10-15,3,2.1,LISTED <1Y — selling-pressure window; the bargain forms here,,,2025-10-15,,6,judged
+SUNTV,Sun TV Network Ltd.,demerger,spin-off,rumoured,2026-09-30,2026-09-30,,3,3.3,RUMOURED — news verification / denial only; no scheme filed,,,,,0,judged
+THERMAX,Thermax Ltd.,demerger,spin-off,announced,2026-07-30,2026-07-30,,3,4.2,PRE-SPIN — study the parent; the pieces do not trade yet,Thermax Limited,,,regulatory / strategic knot,0,judged
+VIYASH,Viyash Scientific Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2025-11-20,2025-12-16,,3,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+AGARWALEYE,Dr. Agarwal's Health Care Ltd.,scheme_other,scheme (nature unclear),meetings,2026-07-02,2026-07-02,,2,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+AIIL,Authum Investment & Infrastructure Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-07-12,2026-07-28,,2,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+ANANTRAJ,Anant Raj Ltd.,demerger,spin-off,announced,2026-07-21,2026-07-21,,2,5.0,PRE-SPIN — study the parent; the pieces do not trade yet,,,,value unlocking for shareholders; unrelated businesses separated; regulatory / strategic knot; attracting different investors / capital,0,judged
+CELLO,Cello World Ltd.,demerger,spin-off,announced,2026-05-15,2026-05-27,,2,2.9,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,1,judged
+COFORGE,Coforge Ltd.,scheme_other,scheme (nature unclear),announced,2025-12-16,2026-03-27,,2,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,Coforge Limited,,,,0,judged
+HAPPSTMNDS,Happiest Minds Technologies Ltd.,scheme_other,scheme (nature unclear),announced,2026-06-05,2026-08-18,,2,2.9,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,1,judged
+JPPOWER,Jaiprakash Power Ventures Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-02-27,2026-03-17,,2,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+LAURUSLABS,Laurus Labs Ltd.,demerger,spin-off,announced,2026-04-07,2026-07-25,,2,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,Sriam Labs Private Limited,,,,0,judged
+LLOYDSENT,Lloyds Enterprises Ltd.,demerger,spin-off,exchange_noc,2025-12-22,2026-05-16,,2,4.2,PRE-SPIN — study the parent; the pieces do not trade yet,Lloyds Enterprises Limited,1 for every 2,,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot,0,judged
+MAXHEALTH,Max Healthcare Institute Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-03-25,2026-09-29,,2,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+OLAELEC,Ola Electric Mobility Ltd.,scheme_other,scheme (nature unclear),rumoured,2026-07-07,2026-07-08,,2,2.5,RUMOURED — news verification / denial only; no scheme filed,,,,,0,judged
+PARADEEP,Paradeep Phosphates Ltd.,scheme_other,scheme (nature unclear),listed,2025-10-13,2025-12-03,2025-12-03,2,2.5,LISTED <1Y — selling-pressure window; the bargain forms here,Paradeep Phosphates Limited,,,,0,judged
+PICCADIL,Piccadily Agro Industries Ltd.,demerger,spin-off,exchange_noc,2026-04-28,2026-08-17,,2,4.3,PRE-SPIN — study the parent; the pieces do not trade yet,Piccadily Food & Essentials Limited,,,value unlocking for shareholders; attracting different investors / capital,3,judged
+POLYCAB,Polycab India Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-10-07,2026-10-07,,2,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+PRICOLLTD,Pricol Ltd.,demerger,spin-off,announced,2026-06-27,2026-06-27,,2,5.0,PRE-SPIN — study the parent; the pieces do not trade yet,In the case of Pricol Autotech Limited,1 for every 1,,unrelated businesses separated; value unlocking for shareholders; attracting different investors / capital,0,judged
+STAR,Strides Pharma Science Ltd.,demerger,spin-off,effective,2026-05-20,2026-06-01,,2,2.1,SPINNING — record date set; the new entity lists soon,,,,,1,judged
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,scheme_other,scheme (nature unclear),effective,2025-10-08,2025-11-22,,2,2.5,SPINNING — record date set; the new entity lists soon,Sun Pharmaceutical Industries Limited,,,,0,judged
+VIKRAMSOLR,Vikram Solar Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-06-19,2026-06-30,,2,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+ASTERDM,Aster DM Quality Care Ltd.,scheme_other,scheme (nature unclear),meetings,2026-02-04,2026-02-04,,1,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+CCAVENUE,AvenuesAI Ltd.,subsidiary_listing,partial spin-off / listing,announced,2026-03-31,2026-03-31,,1,2.1,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+COALINDIA,Coal India Ltd.,subsidiary_listing,partial spin-off / listing,announced,2026-09-02,2026-09-02,,1,3.6,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+DABUR,Dabur India Ltd.,demerger,spin-off,exchange_noc,2025-12-05,2025-12-05,,1,3.3,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+DEVYANI,Devyani International Ltd.,scheme_other,scheme (nature unclear),announced,2026-06-15,2026-06-15,,1,5.0,PRE-SPIN — study the parent; the pieces do not trade yet,,,,regulatory / strategic knot,1,judged
+DIACABS,Diamond Power Infrastructure Ltd.,scheme_other,scheme (nature unclear),announced,2026-09-11,2026-09-11,,1,3.3,PRE-SPIN — study the parent; the pieces do not trade yet,,,,a weak or capital-heavy business carved away,0,judged
+FLUOROCHEM,Gujarat Fluorochemicals Ltd.,demerger,spin-off,exchange_noc,2026-07-10,2026-07-10,,1,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,Investments Limited,,,,0,judged
+GODREJPROP,Godrej Properties Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-08-25,2026-08-25,,1,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+IEX,Indian Energy Exchange Ltd.,subsidiary_listing,partial spin-off / listing,announced,2026-07-15,2026-07-15,,1,2.9,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+INTELLECT,Intellect Design Arena Ltd.,demerger,spin-off,announced,2026-06-08,2026-06-08,,1,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+LALPATHLAB,Dr. Lal Path Labs Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-03-10,2026-03-10,,1,3.3,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+LICHSGFIN,LIC Housing Finance Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-08-27,2026-08-27,,1,3.3,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+LUMAXTECH,Lumax Auto Technologies Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2025-12-15,2025-12-15,,1,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,Technologies Limited,,,,0,judged
+NAUKRI,Info Edge (India) Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-05-19,2026-05-19,,1,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+NTPC,NTPC Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2025-11-28,2025-11-28,,1,4.3,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,1,judged
+PRESTIGE,Prestige Estates Projects Ltd.,subsidiary_listing,partial spin-off / listing,announced,2026-09-25,2026-09-25,,1,2.9,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+PRIVISCL,Privi Speciality Chemicals Ltd.,scheme_other,scheme (nature unclear),exchange_noc,2026-05-06,2026-05-06,,1,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,Privi Speciality Chemicals Limited,,,,0,judged
+RELIANCE,Reliance Industries Ltd.,scheme_other,scheme (nature unclear),nclt_sanction,2026-01-29,2026-01-29,,1,3.6,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,13,judged
+SAPPHIRE,Sapphire Foods India Ltd.,scheme_other,scheme (nature unclear),announced,2026-06-15,2026-06-15,,1,4.2,PRE-SPIN — study the parent; the pieces do not trade yet,Devyani International Limited,,,regulatory / strategic knot,0,judged
+SFL,Sheela Foam Ltd.,scheme_other,scheme (nature unclear),announced,2026-01-16,2026-01-16,,1,1.7,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+SKFINDUS,SKF India (Industrial) Ltd.,demerger,spin-off,nclt_sanction,2026-02-09,2026-02-09,,1,2.9,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,6,judged
+SUZLON,Suzlon Energy Ltd.,scheme_other,scheme (nature unclear),announced,2026-04-30,2026-04-30,,1,3.3,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+TATACOMM,Tata Communications Ltd.,scheme_other,scheme (nature unclear),announced,2026-01-22,2026-01-22,,1,2.5,PRE-SPIN — study the parent; the pieces do not trade yet,,,,,0,judged
+TVSMOTOR,TVS Motor Company Ltd.,scheme_other,scheme (nature unclear),listed,2026-03-06,2026-03-06,2026-03-06,1,1.7,LISTED <1Y — selling-pressure window; the bargain forms here,,,,,0,judged
+AMBUJACEM,Ambuja Cements Ltd.,merger,merger,nclt_sanction,2025-10-14,2026-09-30,,16,6.4,MERGER — not a spin-off; noted for the record,Ambuja Cements Limited,328 for every 100,,value unlocking for shareholders; regulatory / strategic knot; unrelated businesses separated,2,
+DABUR,Dabur India Ltd.,merger,merger,nclt_sanction,2025-12-05,2026-09-26,,13,5.0,MERGER — not a spin-off; noted for the record,Dabur India Limited,,,a weak or capital-heavy business carved away,0,
+LUMAXTECH,Lumax Auto Technologies Ltd.,merger,merger,nclt_sanction,2025-11-08,2026-05-18,,13,4.2,MERGER — not a spin-off; noted for the record,Lumax Auto Technologies Limited,,,regulatory / strategic knot; unrelated businesses separated,0,
+ADANIENT,Adani Enterprises Ltd.,rights_issue,rights offering,announced,2025-11-11,2026-09-30,,12,6.9,RIGHTS OFFERING — check the oversubscription clause,,3 for every 25,,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot; attracting different investors / capital,6,
+ASTERDM,Aster DM Quality Care Ltd.,merger,merger,listed,2026-01-22,2026-08-29,2026-06-25,11,3.3,MERGER — not a spin-off; noted for the record,Transferor Company will have limited,,2026-06-25,regulatory / strategic knot; a weak or capital-heavy business carved away,0,
+AGARWALEYE,Dr. Agarwal's Health Care Ltd.,merger,merger,effective,2026-02-17,2026-10-05,,10,2.5,MERGER — not a spin-off; noted for the record,s Health Care Limited,,,value unlocking for shareholders,0,
+CCAVENUE,AvenuesAI Ltd.,rights_issue,rights offering,record_date,2025-11-10,2026-09-11,2025-11-10,10,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+CYIENT,Cyient Ltd.,capital_reduction,capital reduction,record_date,2026-04-23,2026-07-23,2026-04-23,10,4.2,CAPITAL ACTION — not a spin-off,,2 for every 19,2026-04-23,value unlocking for shareholders; regulatory / strategic knot,0,
+GODIGIT,Go Digit General Insurance Ltd.,merger,merger,nclt_sanction,2025-12-19,2026-09-28,,10,4.2,MERGER — not a spin-off; noted for the record,Go Digit General Insurance Limited,,2026-10-29,regulatory / strategic knot; attracting different investors / capital,0,
+KAJARIACER,Kajaria Ceramics Ltd.,capital_reduction,capital reduction,record_date,2026-04-30,2026-07-22,2026-06-16,10,4.2,CAPITAL ACTION — not a spin-off,,16 for every 127,,regulatory / strategic knot,0,
+PVRINOX,PVR INOX Ltd.,capital_reduction,capital reduction,record_date,2026-08-31,2026-10-05,2026-09-04,10,3.3,CAPITAL ACTION — not a spin-off,,9 for every 157,2026-09-04,regulatory / strategic knot,0,
+SAMMAANCAP,Sammaan Capital Ltd.,rights_issue,rights offering,announced,2025-10-17,2026-08-14,,10,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,regulatory / strategic knot,0,
+HCG,Healthcare Global Enterprises Ltd.,rights_issue,rights offering,record_date,2026-02-17,2026-08-06,2026-02-17,9,5.0,RIGHTS OFFERING — check the oversubscription clause,,,,unrelated businesses separated; value unlocking for shareholders; regulatory / strategic knot; attracting different investors / capital,0,
+PRIVISCL,Privi Speciality Chemicals Ltd.,merger,merger,nclt_sanction,2025-11-15,2026-10-06,,9,3.3,MERGER — not a spin-off; noted for the record,Privi Speciality Chemicals Limited,,,value unlocking for shareholders; a weak or capital-heavy business carved away,0,
+TIPSMUSIC,Tips Music Ltd.,capital_reduction,capital reduction,announced,2026-07-22,2026-10-01,,9,1.7,CAPITAL ACTION — not a spin-off,,,,,0,
+TRIVENI,Triveni Engineering & Industries Ltd.,merger,merger,record_date,2025-10-29,2026-09-16,2026-05-20,9,3.6,MERGER — not a spin-off; noted for the record,is a publ ic limited,,,regulatory / strategic knot,9,
+ZYDUSLIFE,Zydus Lifesciences Ltd.,capital_reduction,capital reduction,record_date,2026-05-19,2026-06-01,2026-05-19,9,4.2,CAPITAL ACTION — not a spin-off,,5 for every 49,,regulatory / strategic knot,0,
+OLAELEC,Ola Electric Mobility Ltd.,rights_issue,rights offering,record_date,2026-10-06,2026-10-07,2026-10-07,8,6.4,RIGHTS OFFERING — check the oversubscription clause,,2 for every 25,,unrelated businesses separated; a weak or capital-heavy business carved away; regulatory / strategic knot,0,
+ADVENZYMES,Advanced Enzyme Tech Ltd.,capital_reduction,capital reduction,announced,2026-08-11,2026-10-07,,7,2.5,CAPITAL ACTION — not a spin-off,,,,,0,
+AMBER,Amber Enterprises India Ltd.,merger,merger,nclt_sanction,2026-04-17,2026-10-01,,7,4.2,MERGER — not a spin-off; noted for the record,is a public limited,,,regulatory / strategic knot,0,
+BAJAJ-AUTO,Bajaj Auto Ltd.,capital_reduction,capital reduction,record_date,2026-05-06,2026-07-24,2026-05-06,7,4.2,CAPITAL ACTION — not a spin-off,,17 for every 61,2026-05-06,regulatory / strategic knot,0,
+CMSINFO,CMS Info Systems Ltd.,capital_reduction,capital reduction,record_date,2026-05-14,2026-06-19,2026-05-14,7,3.3,CAPITAL ACTION — not a spin-off,,1 for every 18,,regulatory / strategic knot,0,
+ECLERX,eClerx Services Ltd.,capital_reduction,capital reduction,record_date,2025-10-24,2026-01-05,2025-12-05,7,3.3,CAPITAL ACTION — not a spin-off,,,,regulatory / strategic knot,0,
+GESHIP,Great Eastern Shipping Co. Ltd.,capital_reduction,capital reduction,announced,2026-08-31,2026-10-07,,7,5.0,CAPITAL ACTION — not a spin-off,,,,regulatory / strategic knot,0,
+WELSPUNLIV,Welspun Living Ltd.,capital_reduction,capital reduction,record_date,2026-05-15,2026-06-19,2026-05-15,7,4.2,CAPITAL ACTION — not a spin-off,,43 for every 676,,value unlocking for shareholders; regulatory / strategic knot,0,
+EMAMILTD,Emami Ltd.,capital_reduction,capital reduction,announced,2026-09-19,2026-10-07,,6,3.3,CAPITAL ACTION — not a spin-off,,,,,0,
+JKTYRE,JK Tyre & Industries Ltd.,merger,merger,nclt_sanction,2025-11-20,2026-03-23,,6,5.0,MERGER — not a spin-off; noted for the record,JK TYRE & INDUSTRIES LIMITED,92 for every 100,2025-12-24,a weak or capital-heavy business carved away,0,
+ORIENTCEM,Orient Cement Ltd.,merger,merger,meetings,2025-12-22,2026-09-28,,6,1.7,MERGER — not a spin-off; noted for the record,Ambuja Cements Limited,,,,0,
+VIJAYA,Vijaya Diagnostic Centre Ltd.,merger,merger,listed,2025-10-16,2026-01-08,2025-11-04,6,3.3,MERGER — not a spin-off; noted for the record,Vijaya Diagnostic Centre Ltd,,2025-11-04,a weak or capital-heavy business carved away,0,
+WIPRO,Wipro Ltd.,capital_reduction,capital reduction,record_date,2026-05-22,2026-06-30,2026-05-22,6,4.2,CAPITAL ACTION — not a spin-off,,11 for every 56,,regulatory / strategic knot,0,
+ACC,ACC Ltd.,merger,merger,nclt_sanction,2025-12-22,2026-09-29,,5,5.0,MERGER — not a spin-off; noted for the record,Ambuja Cements Limited,,,regulatory / strategic knot; value unlocking for shareholders,0,
+COFORGE,Coforge Ltd.,merger,merger,record_date,2025-10-18,2026-06-04,2026-05-05,5,3.3,MERGER — not a spin-off; noted for the record,Coforge Limited,,,value unlocking for shareholders; regulatory / strategic knot,0,
+GODREJPROP,Godrej Properties Ltd.,merger,merger,nclt_sanction,2025-11-06,2026-08-10,,5,2.5,MERGER — not a spin-off; noted for the record,Godrej Properties Limited,,,,0,
+HAPPSTMNDS,Happiest Minds Technologies Ltd.,merger,merger,announced,2025-10-16,2026-08-31,,5,5.0,MERGER — not a spin-off; noted for the record,Infotech India Limited,,,value unlocking for shareholders; regulatory / strategic knot; attracting different investors / capital,1,
+INFY,Infosys Ltd.,capital_reduction,capital reduction,record_date,2025-10-22,2025-12-05,2025-11-06,5,5.0,CAPITAL ACTION — not a spin-off,,2 for every 11,,regulatory / strategic knot,0,
+JSWSTEEL,JSW Steel Ltd.,merger,merger,nclt_sanction,2025-10-17,2026-08-01,,5,3.3,MERGER — not a spin-off; noted for the record,Board of Directors of JSW Steel Limited,,,,0,
+LLOYDSENGG,Lloyds Engineering Works Ltd.,rights_issue,rights offering,announced,2026-01-15,2026-08-06,,5,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+NATCOPHARM,NATCO Pharma Ltd.,rights_issue,rights offering,announced,2026-09-09,2026-09-28,,5,5.7,RIGHTS OFFERING — check the oversubscription clause,,2 for every 21,,unrelated businesses separated; regulatory / strategic knot; attracting different investors / capital,0,
+PIRAMALFIN,Piramal Finance Ltd.,merger,merger,nclt_sanction,2026-03-27,2026-07-05,,5,2.5,MERGER — not a spin-off; noted for the record,Piramal Finance Limited,,,,0,
+RUBICON,Rubicon Research Ltd.,merger,merger,record_date,2026-02-03,2026-08-26,2026-07-20,5,2.5,MERGER — not a spin-off; noted for the record,RUBICON RESEARCH LIMITED,,,value unlocking for shareholders,0,
+TIMETECHNO,Time Technoplast Ltd.,merger,merger,announced,2026-08-26,2026-09-29,,5,1.7,MERGER — not a spin-off; noted for the record,Technoplast Limited,,,,0,
+VIYASH,Viyash Scientific Ltd.,merger,merger,record_date,2025-11-18,2026-01-17,2025-11-26,5,4.2,MERGER — not a spin-off; noted for the record,,,,a weak or capital-heavy business carved away,0,
+AMBER,Amber Enterprises India Ltd.,rights_issue,rights offering,announced,2026-03-19,2026-04-21,,4,2.9,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+BELRISE,Belrise Industries Ltd.,merger,merger,exchange_noc,2025-11-11,2026-07-04,,4,4.2,MERGER — not a spin-off; noted for the record,Belrise Industries Limited,,,value unlocking for shareholders; regulatory / strategic knot,0,
+EPL,EPL Ltd.,merger,merger,announced,2026-03-29,2026-03-29,,4,3.3,MERGER — not a spin-off; noted for the record,EPL Limited,,,regulatory / strategic knot,0,
+HEXT,Hexaware Technologies Ltd.,merger,merger,announced,2025-11-06,2026-05-05,,4,2.5,MERGER — not a spin-off; noted for the record,Details of Hexaware Technologies Limited,,,,0,
+JSWCEMENT,JSW Cement Ltd.,merger,merger,nclt_sanction,2026-09-29,2026-09-29,,4,4.2,MERGER — not a spin-off; noted for the record,JSW Cement Limited,,,attracting different investors / capital,0,
+KANSAINER,Kansai Nerolac Paints Ltd.,merger,merger,nclt_sanction,2026-01-23,2026-09-25,,4,1.7,MERGER — not a spin-off; noted for the record,are listed on the BSE Limited,,,,0,
+LUPIN,Lupin Ltd.,capital_reduction,capital reduction,announced,2026-03-30,2026-10-01,,4,3.3,CAPITAL ACTION — not a spin-off,,,,,0,
+NHPC,NHPC Ltd.,merger,merger,announced,2026-08-07,2026-09-22,,4,3.3,MERGER — not a spin-off; noted for the record,NHPC Limited,,,,0,
+ONESOURCE,Onesource Specialty Pharma Ltd.,merger,merger,exchange_noc,2026-01-14,2026-05-13,,4,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+PFC,Power Finance Corporation Ltd.,merger,merger,announced,2026-02-03,2026-06-28,,4,3.3,MERGER — not a spin-off; noted for the record,,88 for every 100,,,0,
+RAMCOCEM,The Ramco Cements Ltd.,merger,merger,announced,2025-11-05,2026-06-20,,4,4.2,MERGER — not a spin-off; noted for the record,company. The Ramco Cements Limited,,,regulatory / strategic knot,0,
+RBLBANK,RBL Bank Ltd.,rights_issue,rights offering,announced,2025-11-05,2026-06-01,,4,4.2,RIGHTS OFFERING — check the oversubscription clause,,,,value unlocking for shareholders; regulatory / strategic knot,0,
+SAMMAANCAP,Sammaan Capital Ltd.,capital_reduction,capital reduction,announced,2025-11-11,2026-07-15,,4,1.7,CAPITAL ACTION — not a spin-off,,,,,0,
+SHAREINDIA,Share India Securities Ltd.,merger,merger,nclt_sanction,2026-02-05,2026-09-08,,4,1.7,MERGER — not a spin-off; noted for the record,Description of resolution considered Securities Limited,,,,0,
+SOBHA,Sobha Ltd.,rights_issue,rights offering,announced,2025-10-17,2026-07-20,,4,2.5,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+TATASTEEL,Tata Steel Ltd.,merger,merger,nclt_sanction,2026-03-17,2026-10-01,,4,4.2,MERGER — not a spin-off; noted for the record,turnover etc. Tata Steel Limited,,,regulatory / strategic knot,0,
+THERMAX,Thermax Ltd.,merger,merger,nclt_sanction,2025-10-17,2026-06-03,,4,4.2,MERGER — not a spin-off; noted for the record,Thermax Limited,,,regulatory / strategic knot,0,
+TIMKEN,Timken India Ltd.,merger,merger,nclt_sanction,2026-05-13,2026-07-24,,4,2.5,MERGER — not a spin-off; noted for the record,subsidiary of Timken India Limited,,,,0,
+TVSSCS,TVS Supply Chain Solutions Ltd.,merger,merger,effective,2025-10-17,2026-10-01,,4,2.5,MERGER — not a spin-off; noted for the record,TVS Supply Chain Solutions Limited,,,regulatory / strategic knot,0,
+WIPRO,Wipro Ltd.,merger,merger,announced,2025-12-02,2026-10-03,,4,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+ABDL,Allied Blenders and Distillers Ltd.,merger,merger,announced,2025-11-04,2026-08-03,,3,2.5,MERGER — not a spin-off; noted for the record,Distillers Limited,,,,0,
+ABFRL,Aditya Birla Fashion and Retail Ltd.,merger,merger,nclt_sanction,2026-02-05,2026-07-10,,3,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+ADANIENT,Adani Enterprises Ltd.,merger,merger,listed,2025-11-17,2026-04-15,2026-04-15,3,4.3,MERGER — not a spin-off; noted for the record,Industries Limited,,,regulatory / strategic knot,6,
+ADANIPOWER,Adani Power Ltd.,merger,merger,announced,2026-08-05,2026-09-25,,3,2.5,MERGER — not a spin-off; noted for the record,Adani Power Limited,,,,0,
+ASIANPAINT,Asian Paints Ltd.,merger,merger,effective,2026-03-10,2026-03-31,,3,1.7,MERGER — not a spin-off; noted for the record,Asian Paints Limited,,,,0,
+AUROPHARMA,Aurobindo Pharma Ltd.,capital_reduction,capital reduction,record_date,2026-04-06,2026-05-15,2026-04-06,3,4.2,CAPITAL ACTION — not a spin-off,,7 for every 61,,regulatory / strategic knot,0,
+CIEINDIA,CIE Automotive India Ltd.,merger,merger,announced,2026-04-23,2026-09-25,,3,5.0,MERGER — not a spin-off; noted for the record,CIE Automotive India Limited,,,value unlocking for shareholders; regulatory / strategic knot,0,
+CIPLA,Cipla Ltd.,merger,merger,nclt_sanction,2026-03-19,2026-09-03,,3,3.3,MERGER — not a spin-off; noted for the record,Cipla Limited,,,,0,
+DEVYANI,Devyani International Ltd.,merger,merger,announced,2026-01-01,2026-08-26,,3,5.0,MERGER — not a spin-off; noted for the record,Devyani International Limited,,,regulatory / strategic knot; value unlocking for shareholders,1,
+DLF,DLF Ltd.,merger,merger,announced,2026-01-14,2026-02-18,,3,2.5,MERGER — not a spin-off; noted for the record,DLF Home Developers Limited,,,,0,
+ETHOSLTD,Ethos Ltd.,rights_issue,rights offering,announced,2025-11-11,2026-08-03,,3,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+FORTIS,Fortis Healthcare Ltd.,merger,merger,effective,2026-01-16,2026-03-02,,3,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+GHCL,GHCL Ltd.,capital_reduction,capital reduction,record_date,2025-11-01,2025-11-17,2025-11-01,3,2.5,CAPITAL ACTION — not a spin-off,,78 for every 893,,regulatory / strategic knot,0,
+GPIL,Godawari Power & Ispat Ltd.,rights_issue,rights offering,announced,2025-12-04,2025-12-31,,3,3.6,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+GREAVESCOT,Greaves Cotton Ltd.,rights_issue,rights offering,announced,2026-07-10,2026-08-03,,3,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,a weak or capital-heavy business carved away,0,
+HCC,Hindustan Construction Co. Ltd.,rights_issue,rights offering,announced,2025-12-22,2026-08-18,,3,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,a weak or capital-heavy business carved away,0,
+INDHOTEL,Indian Hotels Co. Ltd.,merger,merger,announced,2026-08-24,2026-08-24,,3,5.0,MERGER — not a spin-off; noted for the record,,,,value unlocking for shareholders; a weak or capital-heavy business carved away,0,
+KOTAKBANK,Kotak Mahindra Bank Ltd.,merger,merger,announced,2025-10-11,2026-09-25,,3,2.5,MERGER — not a spin-off; noted for the record,,7 for every 6,,,0,
+LLOYDSENGG,Lloyds Engineering Works Ltd.,merger,merger,nclt_sanction,2026-05-13,2026-09-11,,3,4.2,MERGER — not a spin-off; noted for the record,Lloyds Engineering Works Limited,,,regulatory / strategic knot; unrelated businesses separated; value unlocking for shareholders,0,
+LT,Larsen & Toubro Ltd.,slump_sale,slump sale,announced,2026-02-24,2026-08-11,,3,3.6,"SLUMP SALE — cash deal, no new listing",,,,,3,
+LT,Larsen & Toubro Ltd.,merger,merger,announced,2026-03-24,2026-09-01,,3,5.7,MERGER — not a spin-off; noted for the record,,,,regulatory / strategic knot,3,
+MOTHERSON,Samvardhana Motherson International Ltd.,merger,merger,announced,2026-04-15,2026-05-22,,3,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+PARADEEP,Paradeep Phosphates Ltd.,merger,merger,announced,2025-10-17,2026-05-11,,3,3.3,MERGER — not a spin-off; noted for the record,Paradeep Phosphates Limited,187 for every 100,,,0,
+PERSISTENT,Persistent Systems Ltd.,merger,merger,announced,2026-03-03,2026-06-08,,3,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+RADICO,Radico Khaitan Ltd,merger,merger,announced,2025-10-29,2026-06-05,,3,4.2,MERGER — not a spin-off; noted for the record,,,,value unlocking for shareholders,0,
+RECLTD,REC Ltd.,merger,merger,announced,2026-02-03,2026-06-10,,3,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+RHIM,RHI MAGNESITA INDIA LTD.,merger,merger,announced,2026-01-30,2026-08-18,,3,2.5,MERGER — not a spin-off; noted for the record,respect to merger of RHI Magnesita Seven Refractories Limited,,,,0,
+RKFORGE,Ramkrishna Forgings Ltd.,merger,merger,nclt_sanction,2025-11-07,2026-03-26,,3,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+SFL,Sheela Foam Ltd.,merger,merger,announced,2025-10-31,2026-01-20,,3,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+SIEMENS,Siemens Ltd.,merger,merger,announced,2026-05-26,2026-09-12,,3,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+TECHM,Tech Mahindra Ltd.,merger,merger,announced,2025-12-01,2026-07-20,,3,2.5,MERGER — not a spin-off; noted for the record,Tech Mahindra Limited,,,,0,
+UNOMINDA,UNO Minda Ltd.,merger,merger,announced,2025-11-03,2026-08-04,,3,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+USHAMART,Usha Martin Ltd.,slump_sale,slump sale,announced,2026-09-24,2026-09-25,,3,5.8,"SLUMP SALE — cash deal, no new listing",,,,unrelated businesses separated,0,
+ZENSARTECH,Zensar Technolgies Ltd.,merger,merger,announced,2026-07-29,2026-08-14,,3,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+ABB,ABB India Ltd.,capital_reduction,capital reduction,rumoured,2026-01-29,2026-01-30,,2,2.5,CAPITAL ACTION — not a spin-off,,,,,0,
+ABCAPITAL,Aditya Birla Capital Ltd.,merger,merger,announced,2025-11-14,2026-04-01,,2,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+ACE,Action Construction Equipment Ltd.,slump_sale,slump sale,announced,2026-04-30,2026-04-30,,2,3.3,"SLUMP SALE — cash deal, no new listing",,,,,0,
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,merger,merger,effective,2026-04-01,2026-04-21,,2,1.7,MERGER — not a spin-off; noted for the record,Special Economic Zone Limited,,,,0,
+AHLUCONT,Ahluwalia Contracts (India) Ltd.,merger,merger,announced,2026-02-14,2026-02-16,,2,3.3,MERGER — not a spin-off; noted for the record,is a public limited,,,value unlocking for shareholders,0,
+ALKEM,Alkem Laboratories Ltd.,merger,merger,announced,2026-02-06,2026-02-13,,2,5.0,MERGER — not a spin-off; noted for the record,,,,regulatory / strategic knot; value unlocking for shareholders,0,
+ANURAS,Anupam Rasayan India Ltd.,rights_issue,rights offering,announced,2026-06-09,2026-07-21,,2,4.2,RIGHTS OFFERING — check the oversubscription clause,,,,regulatory / strategic knot,0,
+ASHOKA,Ashoka Buildcon Ltd.,rights_issue,rights offering,announced,2026-03-25,2026-03-30,,2,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+AUROPHARMA,Aurobindo Pharma Ltd.,merger,merger,announced,2026-02-09,2026-08-05,,2,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+BHARATFORG,Bharat Forge Ltd.,merger,merger,announced,2026-02-12,2026-09-10,,2,3.3,MERGER — not a spin-off; noted for the record,BF Infrastructure Limited,,,,0,
+BIOCON,Biocon Ltd.,capital_reduction,capital reduction,record_date,2026-01-28,2026-01-28,2026-01-28,2,1.7,CAPITAL ACTION — not a spin-off,,,,,0,
+BLACKBUCK,Blackbuck Ltd.,rights_issue,rights offering,announced,2026-09-28,2026-09-28,,2,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+CCAVENUE,AvenuesAI Ltd.,merger,merger,announced,2026-08-11,2026-08-11,,2,2.5,MERGER — not a spin-off; noted for the record,AvenuesAI Limited,,,,0,
+CELLO,Cello World Ltd.,merger,merger,announced,2026-09-17,2026-09-17,,2,2.9,MERGER — not a spin-off; noted for the record,,,,,1,
+CGCL,Capri Global Capital Ltd.,rights_issue,rights offering,announced,2026-01-29,2026-03-23,,2,2.9,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+CRISIL,CRISIL Ltd.,merger,merger,announced,2026-07-21,2026-08-05,,2,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+DBREALTY,VALOR ESTATE Ltd.,merger,merger,effective,2026-01-30,2026-03-12,,2,0.8,MERGER — not a spin-off; noted for the record,Horizontal Ventures Private Limited,,,,0,
+ETERNAL,Eternal Ltd.,slump_sale,slump sale,announced,2025-10-16,2026-07-22,,2,3.3,"SLUMP SALE — cash deal, no new listing",,,,,0,
+INDGN,Indegene Ltd.,merger,merger,announced,2026-01-01,2026-09-10,,2,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+INDIACEM,India Cements Ltd.,merger,merger,announced,2026-03-13,2026-03-28,,2,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+INOXGREEN,Inox Green Energy Services Ltd.,slump_sale,slump sale,announced,2026-10-07,2026-10-07,,2,4.3,"SLUMP SALE — cash deal, no new listing",,,,value unlocking for shareholders; a weak or capital-heavy business carved away,14,
+IRCON,IRCON International Ltd.,merger,merger,rumoured,2026-03-06,2026-03-06,,2,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+ITC,ITC Ltd.,merger,merger,announced,2026-05-07,2026-09-01,,2,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+JSFB,Jana Small Finance Bank Ltd.,merger,merger,rumoured,2026-08-25,2026-08-25,,2,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+JSWDULUX,JSW Dulux Ltd.,rights_issue,rights offering,announced,2025-10-14,2025-10-14,,2,5.0,RIGHTS OFFERING — check the oversubscription clause,,,,value unlocking for shareholders; regulatory / strategic knot,0,
+LENSKART,Lenskart Solutions Ltd.,merger,merger,announced,2026-05-20,2026-07-02,,2,4.2,MERGER — not a spin-off; noted for the record,Lenskart Solutions Limited,,,a weak or capital-heavy business carved away; regulatory / strategic knot,0,
+LTTS,L&T Technology Services Ltd.,slump_sale,slump sale,announced,2026-03-25,2026-09-01,,2,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+M&M,Mahindra & Mahindra Ltd.,slump_sale,slump sale,announced,2026-07-29,2026-07-29,,2,1.7,"SLUMP SALE — cash deal, no new listing",,,,,0,
+MANAPPURAM,Manappuram Finance Ltd.,rights_issue,rights offering,announced,2026-03-25,2026-04-02,,2,2.5,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+MARUTI,Maruti Suzuki India Ltd.,merger,merger,nclt_sanction,2025-11-06,2025-12-01,,2,5.0,MERGER — not a spin-off; noted for the record,Maruti Suzuki India Limited,,,regulatory / strategic knot,0,
+MUTHOOTFIN,Muthoot Finance Ltd.,merger,merger,meetings,2026-08-31,2026-08-31,,2,5.0,MERGER — not a spin-off; noted for the record,,,,a weak or capital-heavy business carved away,0,
+NAUKRI,Info Edge (India) Ltd.,merger,merger,nclt_sanction,2026-04-08,2026-07-28,,2,2.5,MERGER — not a spin-off; noted for the record,a public limited,,,,0,
+NAZARA,Nazara Technologies Ltd.,merger,merger,announced,2026-05-12,2026-07-07,,2,3.3,MERGER — not a spin-off; noted for the record,,,,a weak or capital-heavy business carved away,0,
+NBCC,NBCC (India) Ltd.,merger,merger,announced,2026-07-14,2026-07-18,,2,2.5,MERGER — not a spin-off; noted for the record,is a public limited,,,,0,
+NH,Narayana Hrudayalaya Ltd.,merger,merger,nclt_sanction,2026-01-21,2026-01-21,,2,3.6,MERGER — not a spin-off; noted for the record,Narayana Hrudayalaya Limited,,,,2,
+OBEROIRLTY,Oberoi Realty Ltd.,merger,merger,effective,2026-04-07,2026-04-14,,2,2.5,MERGER — not a spin-off; noted for the record,a public limited,,,,0,
+PHOENIXLTD,Phoenix Mills Ltd.,merger,merger,effective,2026-09-05,2026-09-10,,2,1.7,MERGER — not a spin-off; noted for the record,Developers Private Limited,,,,0,
+POLYCAB,Polycab India Ltd.,merger,merger,effective,2026-02-28,2026-03-27,,2,1.7,MERGER — not a spin-off; noted for the record,Polycab India Limited,,,,0,
+PURVA,Puravankara Ltd.,merger,merger,announced,2026-02-12,2026-02-12,,2,1.7,MERGER — not a spin-off; noted for the record,Purva Woodworks Private Limited,,,,0,
+REFEX,Refex Industries Ltd.,merger,merger,nclt_sanction,2026-03-27,2026-06-24,,2,2.9,MERGER — not a spin-off; noted for the record,Refex Industries Limited,,,,18,
+RELIANCE,Reliance Industries Ltd.,merger,merger,announced,2025-12-01,2026-08-01,,2,3.6,MERGER — not a spin-off; noted for the record,,,,,13,
+RRKABEL,R R Kabel Ltd.,slump_sale,slump sale,announced,2026-09-25,2026-09-25,,2,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+RVNL,Rail Vikas Nigam Ltd.,merger,merger,rumoured,2026-03-06,2026-03-06,,2,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+SAPPHIRE,Sapphire Foods India Ltd.,merger,merger,announced,2026-01-01,2026-08-26,,2,4.2,MERGER — not a spin-off; noted for the record,Devyani International Limited,,,value unlocking for shareholders; regulatory / strategic knot,0,
+SHILPAMED,Shilpa Medicare Ltd.,merger,merger,nclt_sanction,2026-03-05,2026-03-17,,2,3.3,MERGER — not a spin-off; noted for the record,Medicare Limited,,,a weak or capital-heavy business carved away,0,
+SIEMENS,Siemens Ltd.,capital_reduction,capital reduction,nclt_sanction,2026-09-25,2026-09-25,,2,2.5,CAPITAL ACTION — not a spin-off,,,,,0,
+SMLMAH,SML Mahindra Ltd.,slump_sale,slump sale,announced,2026-07-29,2026-07-29,,2,1.7,"SLUMP SALE — cash deal, no new listing",,,,,0,
+SONATSOFTW,Sonata Software Ltd.,merger,merger,effective,2026-06-11,2026-08-25,,2,2.5,MERGER — not a spin-off; noted for the record,Sonata Software Limited,,,,0,
+TMCV,Tata Motors Ltd.,merger,merger,announced,2026-01-29,2026-09-09,,2,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+TRENT,Trent Ltd.,merger,merger,announced,2025-12-01,2026-02-01,,2,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+TVSMOTOR,TVS Motor Company Ltd.,merger,merger,nclt_sanction,2026-05-08,2026-08-05,,2,4.2,MERGER — not a spin-off; noted for the record,Home Credit India Finance Private Limited,,,regulatory / strategic knot,0,
+VIPIND,V.I.P. Industries Ltd.,rights_issue,rights offering,announced,2025-10-23,2026-09-18,,2,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,value unlocking for shareholders,0,
+WAAREEENER,Waaree Energies Ltd.,merger,merger,announced,2026-09-23,2026-09-24,,2,3.3,MERGER — not a spin-off; noted for the record,Waaree Energies Limited,1 for every 11,,,0,
+WEWORK,WeWork India Management Ltd.,capital_reduction,capital reduction,announced,2026-07-16,2026-09-12,,2,1.7,CAPITAL ACTION — not a spin-off,,,,,0,
+ZEEL,Zee Entertainment Enterprises Ltd.,merger,merger,rumoured,2025-12-02,2025-12-03,,2,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+AADHARHFC,Aadhar Housing Finance Ltd.,rights_issue,rights offering,announced,2026-01-27,2026-01-27,,1,5.0,RIGHTS OFFERING — check the oversubscription clause,,,,value unlocking for shareholders; regulatory / strategic knot,0,
+ABREL,Aditya Birla Real Estate Ltd.,slump_sale,slump sale,announced,2026-09-16,2026-09-16,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+ACI,Archean Chemical Industries Ltd.,merger,merger,announced,2026-03-19,2026-03-19,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+ACI,Archean Chemical Industries Ltd.,rights_issue,rights offering,announced,2026-05-30,2026-05-30,,1,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+ACMESOLAR,ACME Solar Holdings Ltd.,merger,merger,announced,2026-09-18,2026-09-18,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+ADANIENT,Adani Enterprises Ltd.,slump_sale,slump sale,announced,2026-03-01,2026-03-01,,1,3.6,"SLUMP SALE — cash deal, no new listing",,,,,6,
+ADVENZYMES,Advanced Enzyme Tech Ltd.,rights_issue,rights offering,announced,2026-06-06,2026-06-06,,1,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+AEGISLOG,Aegis Logistics Ltd.,slump_sale,slump sale,announced,2026-08-24,2026-08-24,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+AEGISVOPAK,Aegis Vopak Terminals Ltd.,slump_sale,slump sale,announced,2026-08-24,2026-08-24,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+AEQUS,Aequs Ltd.,merger,merger,announced,2026-04-23,2026-04-23,,1,1.7,MERGER — not a spin-off; noted for the record,Aequs Limited,,,,0,
+AIIL,Authum Investment & Infrastructure Ltd.,rights_issue,rights offering,announced,2026-08-18,2026-08-18,,1,2.5,RIGHTS OFFERING — check the oversubscription clause,,2 for every 1,,,0,
+ANANDRATHI,Anand Rathi Wealth Ltd.,rights_issue,rights offering,announced,2026-09-02,2026-09-02,,1,2.5,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+APOLLO,Apollo Micro Systems Ltd.,rights_issue,rights offering,announced,2026-10-05,2026-10-05,,1,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,merger,merger,announced,2026-05-20,2026-05-20,,1,3.6,MERGER — not a spin-off; noted for the record,,,,,5,
+AUROPHARMA,Aurobindo Pharma Ltd.,slump_sale,slump sale,announced,2026-01-01,2026-01-01,,1,3.3,"SLUMP SALE — cash deal, no new listing",,,,,0,
+BELRISE,Belrise Industries Ltd.,slump_sale,slump sale,announced,2026-08-04,2026-08-04,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+BERGEPAINT,Berger Paints India Ltd.,merger,merger,announced,2026-05-13,2026-05-13,,1,2.5,MERGER — not a spin-off; noted for the record,MUFG Intime India Private Limited,,,,0,
+BLS,BLS International Services Ltd.,merger,merger,announced,2026-08-18,2026-08-18,,1,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+BLS,BLS International Services Ltd.,slump_sale,slump sale,announced,2026-09-29,2026-09-29,,1,4.2,"SLUMP SALE — cash deal, no new listing",,,,,0,
+BLUESTARCO,Blue Star Ltd.,slump_sale,slump sale,announced,2026-08-14,2026-08-14,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+BPCL,Bharat Petroleum Corporation Ltd.,merger,merger,announced,2026-09-11,2026-09-11,,1,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+BSE,BSE Ltd.,merger,merger,announced,2026-04-23,2026-04-23,,1,2.5,MERGER — not a spin-off; noted for the record,Wholly owned subsidiary of BSE Limited,,,,0,
+CAMS,Computer Age Management Services Ltd.,slump_sale,slump sale,announced,2025-12-17,2025-12-17,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+CHOICEIN,Choice International Ltd.,merger,merger,nclt_sanction,2026-05-12,2026-05-12,,1,2.5,MERGER — not a spin-off; noted for the record,,92 for every 100,,,0,
+COALINDIA,Coal India Ltd.,rights_issue,rights offering,announced,2026-07-27,2026-07-27,,1,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+CRAFTSMAN,Craftsman Automation Ltd.,merger,merger,announced,2026-03-11,2026-03-11,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+DALBHARAT,Dalmia Bharat Ltd.,slump_sale,slump sale,announced,2026-05-22,2026-05-22,,1,3.3,"SLUMP SALE — cash deal, no new listing",,,,,0,
+DATAMATICS,Datamatics Global Services Ltd.,merger,merger,announced,2026-05-21,2026-05-21,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+DELHIVERY,Delhivery Ltd.,merger,merger,nclt_sanction,2026-03-21,2026-03-21,,1,5.0,MERGER — not a spin-off; noted for the record,,,,unrelated businesses separated,0,
+ECLERX,eClerx Services Ltd.,merger,merger,announced,2025-11-04,2025-11-04,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+ENDURANCE,Endurance Technologies Ltd.,merger,merger,announced,2025-12-29,2025-12-29,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+ENTERO,Entero Healthcare Solutions Ltd.,merger,merger,announced,2026-05-06,2026-05-06,,1,1.7,MERGER — not a spin-off; noted for the record,Rada Medisolutions Private Limited,,,,0,
+EXIDEIND,Exide Industries Ltd.,merger,merger,announced,2026-05-13,2026-05-13,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+FORTIS,Fortis Healthcare Ltd.,rights_issue,rights offering,announced,2025-10-09,2025-10-09,,1,2.5,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+FSL,Firstsource Solutions Ltd.,merger,merger,announced,2025-11-04,2025-11-04,,1,3.3,MERGER — not a spin-off; noted for the record,Firstsource Solutions Limited,,,,0,
+GAIL,GAIL (India) Ltd.,merger,merger,announced,2026-07-31,2026-07-31,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+GPIL,Godawari Power & Ispat Ltd.,merger,merger,announced,2026-03-23,2026-03-23,,1,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+GRASIM,Grasim Industries Ltd.,merger,merger,announced,2025-12-29,2025-12-29,,1,5.0,MERGER — not a spin-off; noted for the record,,,,value unlocking for shareholders,0,
+GRAVITA,Gravita India Ltd.,rights_issue,rights offering,announced,2026-09-30,2026-09-30,,1,2.9,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+GVT&D,GE Vernova T&D India Ltd.,merger,merger,announced,2026-05-13,2026-05-13,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+HFCL,HFCL Ltd.,slump_sale,slump sale,announced,2026-06-03,2026-06-03,,1,3.3,"SLUMP SALE — cash deal, no new listing",,,,,0,
+IFBIND,IFB Industries Ltd.,merger,merger,announced,2026-05-14,2026-05-14,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+INOXWIND,Inox Wind Ltd.,rights_issue,rights offering,announced,2025-11-14,2025-11-14,,1,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+IPCALAB,Ipca Laboratories Ltd.,slump_sale,slump sale,announced,2025-10-17,2025-10-17,,1,4.2,"SLUMP SALE — cash deal, no new listing",,,,,0,
+IPCALAB,Ipca Laboratories Ltd.,merger,merger,announced,2026-06-26,2026-06-26,,1,3.3,MERGER — not a spin-off; noted for the record,Ipca Laboratories Limited,,,,0,
+IRB,IRB Infrastructure Developers Ltd.,merger,merger,announced,2026-08-26,2026-08-26,,1,2.5,MERGER — not a spin-off; noted for the record,IRB Infrastructure Developers Limited,,,,0,
+JKCEMENT,J.K. Cement Ltd.,merger,merger,announced,2025-10-15,2025-10-15,,1,4.2,MERGER — not a spin-off; noted for the record,,,,value unlocking for shareholders,0,
+JLHL,Jupiter Life Line Hospitals Ltd.,merger,merger,nclt_sanction,2025-11-18,2025-11-18,,1,1.7,MERGER — not a spin-off; noted for the record,Hospitals Limited,,,,0,
+JMFINANCIL,JM Financial Ltd.,rights_issue,rights offering,announced,2026-09-28,2026-09-28,,1,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+KEC,Kec International Ltd.,merger,merger,announced,2026-05-16,2026-05-16,,1,2.5,MERGER — not a spin-off; noted for the record,KEC International Limited,,,,0,
+KFINTECH,Kfin Technologies Ltd.,merger,merger,announced,2026-09-01,2026-09-01,,1,4.2,MERGER — not a spin-off; noted for the record,KFin Technologies Limited,,,attracting different investors / capital,0,
+KIMS,Krishna Institute of Medical Sciences Ltd.,merger,merger,announced,2025-11-07,2025-11-07,,1,5.0,MERGER — not a spin-off; noted for the record,its Holding Company i.e. Krishna Institute of Medical Sciences Limited,,,unrelated businesses separated,0,
+KIRLOSBROS,Kirloskar Brothers Ltd.,merger,merger,announced,2025-11-04,2025-11-04,,1,4.2,MERGER — not a spin-off; noted for the record,MOTORS LIMITED,,,unrelated businesses separated,0,
+LAURUSLABS,Laurus Labs Ltd.,rights_issue,rights offering,announced,2026-10-06,2026-10-06,,1,2.5,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+LLOYDSENT,Lloyds Enterprises Ltd.,rights_issue,rights offering,announced,2026-01-08,2026-01-08,,1,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+LLOYDSENT,Lloyds Enterprises Ltd.,merger,merger,exchange_noc,2026-05-19,2026-05-19,,1,1.7,MERGER — not a spin-off; noted for the record,Lloyds Engineering Works Limited,,,,0,
+LOTUSDEV,SRI LOTUS DEVELOPERS AND REALTY Ltd.,rights_issue,rights offering,announced,2026-07-04,2026-07-04,,1,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+M&M,Mahindra & Mahindra Ltd.,merger,merger,announced,2026-07-30,2026-07-30,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,merger,merger,announced,2026-08-05,2026-08-05,,1,3.3,MERGER — not a spin-off; noted for the record,,,,value unlocking for shareholders,0,
+MAXHEALTH,Max Healthcare Institute Ltd.,merger,merger,announced,2025-11-07,2025-11-07,,1,2.5,MERGER — not a spin-off; noted for the record,Jaypee Healthcare Limited,,,,0,
+MEESHO,Meesho Ltd.,rights_issue,rights offering,announced,2026-05-09,2026-05-09,,1,2.5,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+MINDACORP,Minda Corporation Ltd.,rights_issue,rights offering,announced,2026-07-20,2026-07-20,,1,2.9,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+MOTHERSON,Samvardhana Motherson International Ltd.,capital_reduction,capital reduction,announced,2026-08-18,2026-08-18,,1,2.5,CAPITAL ACTION — not a spin-off,,,,,0,
+MUTHOOTFIN,Muthoot Finance Ltd.,rights_issue,rights offering,announced,2026-09-09,2026-09-09,,1,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+NCC,NCC Ltd.,merger,merger,announced,2026-01-31,2026-01-31,,1,5.8,MERGER — not a spin-off; noted for the record,NCC Limited,,,unrelated businesses separated,0,
+NETWORK18,Network18 Media & Investments Ltd.,merger,merger,announced,2026-03-25,2026-03-25,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+OLAELEC,Ola Electric Mobility Ltd.,capital_reduction,capital reduction,announced,2026-03-26,2026-03-26,,1,2.5,CAPITAL ACTION — not a spin-off,,,,,0,
+PATANJALI,Patanjali Foods Ltd.,rights_issue,rights offering,announced,2026-06-19,2026-06-19,,1,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+PAYTM,One 97 Communications Ltd.,slump_sale,slump sale,announced,2025-11-28,2025-11-28,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,
+PETRONET,Petronet LNG Ltd.,rights_issue,rights offering,announced,2026-02-12,2026-02-12,,1,2.5,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+POLICYBZR,PB Fintech Ltd.,merger,merger,announced,2025-12-06,2025-12-06,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+RBA,Restaurant Brands Asia Ltd.,rights_issue,rights offering,announced,2026-05-26,2026-05-26,,1,4.2,RIGHTS OFFERING — check the oversubscription clause,,,,value unlocking for shareholders; regulatory / strategic knot,0,
+RCF,Rashtriya Chemicals & Fertilizers Ltd.,rights_issue,rights offering,announced,2025-11-14,2025-11-14,,1,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+REFEX,Refex Industries Ltd.,rights_issue,rights offering,announced,2026-04-26,2026-04-26,,1,2.9,RIGHTS OFFERING — check the oversubscription clause,,,,,18,
+RENUKA,Shree Renuka Sugars Ltd.,rights_issue,rights offering,announced,2025-11-06,2025-11-06,,1,3.3,RIGHTS OFFERING — check the oversubscription clause,,,,a weak or capital-heavy business carved away,0,
+ROUTE,Route Mobile Ltd.,slump_sale,slump sale,announced,2026-07-13,2026-07-13,,1,1.7,"SLUMP SALE — cash deal, no new listing",,,,,0,
+SANDUMA,Sandur Manganese & Iron Ores Ltd.,merger,merger,announced,2025-11-20,2025-11-20,,1,1.7,MERGER — not a spin-off; noted for the record,Lohagiri Industrials Private Limited,,,,0,
+SCHNEIDER,Schneider Electric Infrastructure Ltd.,merger,merger,announced,2026-05-13,2026-05-13,,1,2.5,MERGER — not a spin-off; noted for the record,MUFG Intime India Private Limited,,,,0,
+SHAREINDIA,Share India Securities Ltd.,rights_issue,rights offering,announced,2026-09-15,2026-09-15,,1,2.1,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+SHRIRAMFIN,Shriram Finance Ltd.,merger,merger,announced,2025-11-14,2025-11-14,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+SHRIRAMFIN,Shriram Finance Ltd.,capital_reduction,capital reduction,announced,2026-09-16,2026-09-16,,1,2.5,CAPITAL ACTION — not a spin-off,,,,,0,
+SUNDARMFIN,Sundaram Finance Ltd.,merger,merger,announced,2026-04-17,2026-04-17,,1,2.5,MERGER — not a spin-off; noted for the record,s. Sund3ram Alternate Assets Limited,,,,0,
+TANLA,Tanla Platforms Ltd.,merger,merger,announced,2025-11-27,2025-11-27,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+TATACAP,Tata Capital Ltd.,merger,merger,announced,2025-12-23,2025-12-23,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+TCS,Tata Consultancy Services Ltd.,merger,merger,announced,2026-01-14,2026-01-14,,1,3.3,MERGER — not a spin-off; noted for the record,,,,,0,
+THANGAMAYL,Thangamayil Jewellery Ltd.,rights_issue,rights offering,announced,2025-11-03,2025-11-03,,1,1.7,RIGHTS OFFERING — check the oversubscription clause,,,,,0,
+THOMASCOOK,Thomas Cook (India) Ltd.,capital_reduction,capital reduction,announced,2026-03-20,2026-03-20,,1,4.3,CAPITAL ACTION — not a spin-off,Sterling Holiday Resorts Limited,,,value unlocking for shareholders; a weak or capital-heavy business carved away,5,
+THYROCARE,Thyrocare Technologies Ltd.,merger,merger,announced,2026-09-01,2026-09-01,,1,1.7,MERGER — not a spin-off; noted for the record,Holdings Limited,,,,0,
+TI,Tilaknagar Industries Ltd.,merger,merger,announced,2026-05-29,2026-05-29,,1,1.7,MERGER — not a spin-off; noted for the record,Tilaknagar Industries Limited,,,,0,
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,merger,merger,record_date,2026-07-20,2026-07-20,2026-07-17,1,1.7,MERGER — not a spin-off; noted for the record,,,2026-07-17,,0,
+TRITURBINE,Triveni Turbine Ltd.,merger,merger,announced,2026-04-15,2026-04-15,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+TSFINV,TSF Investments Ltd.,merger,merger,nclt_sanction,2026-09-09,2026-09-09,,1,1.7,MERGER — not a spin-off; noted for the record,,,,,0,
+VBL,Varun Beverages Ltd.,merger,merger,announced,2026-08-17,2026-08-17,,1,2.5,MERGER — not a spin-off; noted for the record,,,,,0,
+VIJAYA,Vijaya Diagnostic Centre Ltd.,slump_sale,slump sale,announced,2026-09-11,2026-09-11,,1,2.5,"SLUMP SALE — cash deal, no new listing",,,,,0,

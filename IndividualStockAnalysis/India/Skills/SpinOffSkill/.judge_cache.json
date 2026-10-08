@@ -14,5 +14,1205 @@
    "read_next": "Valuation Report and the abridged-prospectus disclosures for UPL 2 \u2014 revenue, PAT, EBITDA and transferred assets/liabilities",
    "quote": "The Scheme proposes to consolidate the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure-play crop protection platform."
   }
+ },
+ "HEGAM": {
+  "stamp": "047a9f526c98cc6ee4976667f88b9247",
+  "verdict": {
+   "what_is_spun": "HEG's graphite electrodes business (including other carbon products) demerged into HEG Graphite Limited; parent retains thermal/hydel power plus amalgamated Bhilwara Energy.",
+   "reason": "Core businesses (graphite electrodes, thermal/hydel power) acquired critical mass and need flexibility, independence and focused management; segregation unlocks value, attracts different investors, matches different risk-return profiles and growth trajectories.",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoter/Promoter Group holds 100% (50,000 shares) of HEG Graphite pre-Scheme, 56.28% post-Scheme on mirror basis; in parent HEG promoter stake rises 56.28% to 60.72% via BEL amalgamation. Other incentives not stated.",
+   "hidden_value": "Valuer puts the demerged Graphite Business at Rs 393.4/share versus Rs 124.0 for post-demerger HEG; the spin takes Rs 4,329.30 crore assets, Rs 3,810.32 crore net worth and all Rs 1,309.63 crore revenue.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents state no index treatment or listing mechanics; spin is large (1:1 mirror, entire graphite revenue), not a small stub.",
+   "parent_or_spin": "spin",
+   "option_pricing_date": "not stated",
+   "read_next": "PwC valuation report (Annexure J) and ICICI Securities fairness opinion (Annexure K) for graphite standalone basis.",
+   "quote": "Each of the said businesses required flexibility and independence to grow faster in the fast-changing technology and innovation driven environment."
+  }
+ },
+ "INDIAGLYCO": {
+  "stamp": "2b4b23dbfc0edcb1c805e0f5d6d2147f",
+  "verdict": {
+   "what_is_spun": "Bio Pharma undertaking into Ennature Bio Pharma Ltd; Spirits and Biofuel undertaking into IGL Spirits Ltd",
+   "reason": "not stated \u2014 the NCLT order says rationale of the scheme was discussed in the first motion order dated 15.01.2026, which is not in these documents",
+   "reason_class": "not stated",
+   "insiders": "Promoter and Promoter Group voted 3,99,67,854 shares, 100% in favour; entitlement is pro rata to all shareholders, so promoter stake mirrors into both resulting companies",
+   "hidden_value": "Cost-of-acquisition split prices IGL Spirits at 47.62% of the whole and Ennature Bio Pharma at 20.61%, leaving only 31.77% in the parent; INR 467 crores earmarked to prepay debt against ~INR 1,100 crores term loan",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Two newly listed entities distributed pro rata; Ennature only 1 share per 3 held, so small, unindexed positions in different industries",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The promised debt profile of all three units, and listing dates for Ennature Bio Pharma and IGL Spirits",
+   "quote": "Upon the Scheme becoming effective, the Bio Pharma and the Spirits and Biofuel Undertaking(s) will be transferred to and vested in EBL and ISL, respectively."
+  }
+ },
+ "NH": {
+  "stamp": "88cfbfe231da3349125d9d309e91c023",
+  "verdict": {
+   "what_is_spun": "Clinical Services undertaking of NH Integrated Care \u2014 10 Bengaluru clinics \u2014 demerged into listed Narayana Hrudayalaya Ltd",
+   "reason": "Separation lets NHIC exclusively pursue the Aarogyam preventive healthcare business; transfer to NHL enables unified patient pathways, optimised specialists, consolidated admin functions and resource efficiency, ending duplicate functions",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Not stated. Documents say only that there is no change in NHL's shareholding pattern and NHL continues to hold 100% of NHIC's equity capital",
+   "hidden_value": "Clinics are tiny \u2014 Rs 39.94 crore turnover, 1.11% of NHL standalone \u2014 and were dependent on hospital consultants, diagnostics and tertiary pathways while carrying duplicate admin costs; Aarogyam is retained as the asset-light growth platform",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares issued, no cash consideration, no new listing, no change in shareholding pattern; demerged division is 1.11% of turnover",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The Meridian Medical Research & Hospital amalgamation scheme filed with NCLT Bengaluru on September 27, 2025",
+   "quote": "The Clinical Services undertaking of NHIC, comprising 10 clinics located in Bengaluru, shall be demerged to NHL."
+  }
+ },
+ "VEDL": {
+  "stamp": "9d5d125094f6c4f2b19928f458a9b128",
+  "verdict": {
+   "what_is_spun": "Vedanta's independent power generation assets, demerged into Talwandi Sabo Power Limited (\"Vedanta Power\"), a pure-play power company",
+   "reason": "To unlock long-term shareholder value through sharper strategic focus, independent capital allocation and governance, simplify the corporate structure, and give investors direct exposure to pure-play, sector-leading businesses",
+   "reason_class": "value_unlocking",
+   "insiders": "Not stated; documents only say Vedanta Limited shareholders receive shares in each resulting entity in proportion to existing holdings. Chairman Anil Agarwal cites \"empowering leadership\"; no stake or incentive details given.",
+   "hidden_value": "Separation exposes a large standalone private power generator previously buried in a conglomerate; management notes high-cost debt retired at VRL with 4-5% dividend payout, and residual Vedanta Limited keeps its Hindustan Zinc stake plus incubation businesses.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Pro-rata distribution to all VEDL holders of a newly listed, different-industry power entity; index exclusion not stated in documents.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The Scheme's share entitlement ratio and TSPL's net worth/debt certificate, plus the separate pending NCLT merchant power order",
+   "quote": "Vedanta Power, one of the largest private sector power generators in India, will house the existing independent power generation assets and pursue opportunities in India's evolving power market."
+  }
+ },
+ "JSWENERGY": {
+  "stamp": "19160feb7e84aaf968825f66a5b35ee5",
+  "verdict": {
+   "what_is_spun": "GE Power India Limited's boiler manufacturing business, demerged into JSW Energy Limited as resulting company",
+   "reason": "Acquisition significantly enhances JSW Energy's in-house capabilities, with technology (conference-call text truncated); no further rationale stated in the filings.",
+   "reason_class": "regulatory_strategic",
+   "insiders": "not stated \u2014 filings note only that JSW Energy is \"Part of O. P. Jindal Group\"; no promoter or management stake or incentive disclosed",
+   "hidden_value": "Separation moves a boiler manufacturing (equipment/EPC) business into a power generation utility, implying vertical integration of in-house technology and manufacturing; no financials, valuation or leverage disclosed in documents.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents disclose no share exchange ratio, consideration, size or index treatment for the demerged business.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The scheme and Section 230/102 explanatory statement with share exchange ratio and valuation report",
+   "quote": "We have entered into a Scheme of Arrangement with GE Power India Ltd. to acquire its boiler manufacturing business."
+  }
+ },
+ "APOLLOHOSP": {
+  "stamp": "503b0af4c4e802d5844ffd43b6e010b2",
+  "verdict": {
+   "what_is_spun": "Identified Business Undertaking of Apollo Hospitals demerged into Apollo Healthtech, with Apollo Healthco and Keimed amalgamated into it",
+   "reason": "To \"enhance long-term shareholder value\" and \"capture the full benefits of scale with the combined entity to achieve a run rate of INR 25,000 crore in combined\" revenues; filing text states no separate rationale",
+   "reason_class": "value_unlocking",
+   "insiders": "Prathap Reddy 10,43,915 shares (0.73%), Suneeta Reddy 29,37,066 (2.04%) in Demerged Company; AHL Promoter becomes Resultant Company executive chairperson; Rasmeli upside shared with Shobana Kamineni; ESOP to be formulated",
+   "hidden_value": "Separation combines Apollo Healthco and Keimed distribution into one listed vehicle targeting INR 25,000 crore combined run rate, with Rasmeli Limited as outside investor and a board seat, plus promoter upside-sharing economics",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Shares issued to all AHEL holders in a newly listed pharmacy/distribution entity, different industry from hospitals, not yet index-included",
+   "parent_or_spin": "spin",
+   "option_pricing_date": "not stated",
+   "read_next": "Annexure 17: revenue and net-worth of Identified Business Undertaking versus Demerged Company, last three financial years",
+   "quote": "Further, the Scheme shall be acted upon only if the votes cast by the public shareholders in favour of the Scheme are more than the number of votes cast by the public shareholders against it as per the SEBI Master Circular."
+  }
+ },
+ "HINDUNILVR": {
+  "stamp": "e8647177704bffdd73cc4ff9489c0a5c",
+  "verdict": {
+   "what_is_spun": "HUL's Ice Cream Business Undertaking (Kwality Wall's) demerged into Kwality Wall's (India) Limited, a pure-play ice cream company",
+   "reason": "Separation beneficial for both companies: tailoring the operating model to ice cream's cold chain, and focusing the investment algorithm and incentives on ice cream",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoter stake not stated; HUL holders get 1 KWIL share per HUL share. HUL CFO Ritesh Tiwari non-executive director; Prashant Premrajka executive director/CFO; Chitrank Goel deputy MD",
+   "hidden_value": "A #2 player in a market compounding ~10-11% is leaving at depressed economics: FY24-25 EBITDA margin 7.1%, H1 FY25-26 0.0%, against top-tier gross margins and a cost gap to global ice cream benchmarks \u2014 suppressed earnings, not a bad business",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Small, low-margin unit (HUL margin improves 50-60 bps without it), different cold-chain industry, index holders receive unwanted 1:1 shares",
+   "parent_or_spin": "spin",
+   "option_pricing_date": "not stated",
+   "read_next": "KWIL Information Memorandum \u2014 Risk Factors and standalone financials explaining H1 FY25-26 EBITDA falling to 0.0%",
+   "quote": "Ice Cream demerger is expected to result in an improvement of 50-60 bps to the reported margin as Ice Cream business operates at a margin lower than HUL average."
+  }
+ },
+ "TRIVENI": {
+  "stamp": "59905662212979bf04821a69f5951eb8",
+  "verdict": {
+   "what_is_spun": "The power transmission business undertaking of Triveni Engineering, vested into Triveni Power Transmission Limited (TPTL)",
+   "reason": "Management states the amalgamation of SSEL and demerger of the Power Transmission business are \"to unlock value and to drive operational efficiencies\"; TPTL to pursue independent listing.",
+   "reason_class": "value_unlocking",
+   "insiders": "Not stated: no promoter shareholding or incentive detail for TPTL in these documents. Every Triveni shareholder, promoters included, receives 1 TPTL share (face value INR 2) per 3 Triveni shares, mirroring existing stakes.",
+   "hidden_value": "Separation reveals a standalone transmission-gear business with \"its own dynamics\", an ongoing capex programme, expected near-term orders and export exposure; no revenue, EBITDA or debt split is given in these documents, so economics remain unquantified.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Documents do not state; ratio 1:3 implies a small stub in a different industry from sugar, with no index membership.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "Demerger Record Date: Wednesday, July 22, 2026 (Scheme effective May 19, 2026; demerger appointed date April 1, 2026)",
+   "read_next": "Annexure-21: TPTL abridged prospectus (Part E, Schedule VI, SEBI ICDR) plus its FY25 audited and H1 interim accounts",
+   "quote": "In consideration of demerger, the shareholders of the Company are entitled to receive equity shares of TPTL as per share exchange ratio specified in the Scheme and mentioned below:"
+  }
+ },
+ "AMBUJACEM": {
+  "stamp": "a0eb1393ccc97344d92417dbcb250dc4",
+  "verdict": {
+   "what_is_spun": "Nothing; Sanghi Industries Limited amalgamated into Ambuja Cements \u2014 documents describe absorption, not a separation",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Documents reveal only that Sanghi is absorbed with Appointed Date April 1, 2024 and its shareholders get Ambuja shares; no business quality, cheapness or leverage disclosed.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Sanghi holders receive Ambuja shares per April 6, 2026 record date; documents state no size or index effect",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Valuation Reports dated December 17, 2024 (Annexures 2 and 4) for the share exchange ratio",
+   "quote": "Accordingly, the Scheme has become effective today, i.e. March 12, 2026 (\"Effective Date\") and consequently, Transferor Company stands amalgamated with the Company and dissolved without being wound up."
+  }
+ },
+ "GABRIEL": {
+  "stamp": "4138ccba1c8aa3ef8b20cdb59a801410",
+  "verdict": {
+   "what_is_spun": "Automotive Undertaking of Asia Investments Private Limited (incl. amalgamated Anchemco India), demerged into listed Gabriel India",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "Promoter group held 7,90,04,167 shares and voted 100% in favour; SEBI required disclosure that the scheme increases Promoter/Promoter Group shareholding, with new shares issued to AIPL shareholders",
+   "hidden_value": "Group automotive/chemicals assets (Anchemco India) move into the listed company rather than out; promoter stake rises, so value accrues inside Gabriel \u2014 quantum not stated (valuation, swap ratio, AIPL revenue/PAT/EBITDA disclosures pending in notice)",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new listed entity created; Gabriel issues shares to AIPL's promoter shareholders, who stay inside the group",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "May 29, 2026 (Record Date); scheme effective May 22, 2026",
+   "read_next": "Feb 10, 2026 shareholder notice: valuation report, share-swap ratio, and AIPL 3-year revenue/PAT/EBITDA",
+   "quote": "The Board of Directors of the Company at their meeting held on 30th June, 2025, have approved the Scheme, subject to the approval of requisite majority of shareholders of the Company as may be required, and subject to the sanction of the Hon'ble NCLT and such other authorities as may be necessary."
+  }
+ },
+ "INOXGREEN": {
+  "stamp": "d474dc3720d46e9a88068eec601d144d",
+  "verdict": {
+   "what_is_spun": "The Power Evacuation Business (substation/evacuation infrastructure) of Inox Green, demerged into Inox Renewable Solutions Limited",
+   "reason": "Segregation of distinct business verticals with separate risks, rewards and investors; consolidation of Power Evacuation into IRSL to unlock value; establish IGESL as pure-play O&M player; two focused listed entities",
+   "reason_class": "value_unlocking",
+   "insiders": "not stated (documents state only that no promoter shareholder of the Demerged Company is a non-resident)",
+   "hidden_value": "Parent becomes pure-play O&M with depreciation on demerged asset blocks eliminated \u2014 management says PBT would equal EBITDA, possibly north of INR 600 crores; resulting company carries losses and a Rs 96,80,78,940 tax demand under appeal",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Tiny entitlement of 122 shares per 2,000 held; separate EPC/evacuation industry; newly listed entity outside indices",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "2026-08-01 (record date)",
+   "read_next": "Inox Renewable Solutions' standalone financials and status of the Rs 96.80 crore AY2023-24 tax demand",
+   "quote": "Further, the Power Evacuation Business is capable of attracting different set of investors, strategic partners, lenders and other stakeholders."
+  }
+ },
+ "SAMMAANCAP": {
+  "stamp": "08718e538433e681fb8e05d244347a2c",
+  "verdict": {
+   "what_is_spun": "Sammaan Finserve's NBFC lending business (retail mortgage, home loans, LAP), demerged from the wholly owned subsidiary into listed parent Sammaan Capital",
+   "reason": "RBI, while granting SCL its NBFC-ICC licence, directed that no other group entity hold an NBFC-ICC/HFC licence; the demerger consolidates all NBFC business in one entity, leaving SFL for insurance broking/insurtech",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Promoter stake not stated. Of demerged-company directors, only Naveen Uppal (678 shares) and Rajiv Gandhi (2,50,000 shares) hold equity in SCL; no shares issued as consideration",
+   "hidden_value": "Not a share-issuing spin-off: SFL is already 100% owned, so SCL's book absorbs SFL's loans and liabilities with no dilution; SFL is left as an unencumbered fintech/insurance-broking vehicle inside the group",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new shares allotted, no new listing; only NCDs swap one-for-one into SCL paper on identical terms",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Valuation Report (Annexure A-14) and the Demerged Undertaking's assets, liabilities and net worth as on Appointed Date",
+   "quote": "The primary purpose and object of the Scheme, as submitted by the Applicant  Companies, is the consolidation of the NBFC Business (defined in the scheme) activities of the Applicant Companies under a single entity."
+  }
+ },
+ "THOMASCOOK": {
+  "stamp": "f8d55bcbcc273689e865da59d4ce5a85",
+  "verdict": {
+   "what_is_spun": "TCIL's resorts and resort management business (6 Nature Trails resorts) into Sterling Holiday Resorts Limited",
+   "reason": "Unlock value by separating resorts into SHRL, which has hotel-operating expertise; attract differentiated investor cohorts, sharper focus per vertical, and pave way for SHRL's listing in fast-growing hospitality industry",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoters hold 100% of SHRL pre-scheme, 65.55% post (includes 7% held by TCIL); ESOP Trust 2.16% after 65,70,000 ESOP Options 2024 are accelerated; public 32.30%",
+   "hidden_value": "The transferred undertaking is tiny (INR 70 crores, ~0.4% of standalone turnover), but SHRL itself holds over 72 resorts across 62 locations \u2014 a large hospitality asset base getting its own listing; TCIL also gets improved EPS from capital reduction",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Newly listed hospitality entity in a different industry from TCIL's travel services, 32.30% public float, 0.81 shares per TCIL share",
+   "parent_or_spin": "both",
+   "option_pricing_date": "not stated; ESOP Options 2024 accelerate 7 working days before Record Date 1",
+   "read_next": "The Scheme itself \u2014 SHRL standalone financials, debt and the share entitlement ratio valuation report behind 81:100",
+   "quote": "The turnover of the Demerged  Undertaking for the year ended 31st December  2025 was INR 70 Crores representing ~0.4% of the total standalone turnover  of the Company for the year ended 31st December  2025."
+  }
+ },
+ "REFEX": {
+  "stamp": "326650dcba21714835321b4dd5574bad",
+  "verdict": {
+   "what_is_spun": "The Mobility Undertaking \u2014 Refex Green Mobility's EV fleet business \u2014 into separately listed Refex Mobility Limited",
+   "reason": "\"in line with our strategy to unlock focused value creation for all our stakeholders\"; post-demerger mobility pursues its growth plan independently with strategic and financial flexibility",
+   "reason_class": "value_unlocking",
+   "insiders": "Not stated in filings; management says RGML is a 100% subsidiary so \"a mirror shareholding will happen\" \u2014 no stake percentages or new-entity incentives disclosed",
+   "hidden_value": "No valuation was done (\"no valuations requirement... since the company holds 100\"), so mobility is unpriced; RML takes its own debt, while RIL carries Rs.158.90 cr secured and Rs.347.68 cr unsecured creditors",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Mirror shareholding hands 92,973 holders a small, newly listed EV-fleet entity in a different industry from parent",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The Composite Scheme annexed to the July 03, 2026 notice \u2014 share entitlement and debt allocated to RML",
+   "quote": "Post-demerger, the mobility vertical will pursue its growth plan independently with strategic and financial flexibility."
+  }
+ },
+ "RELIGARE": {
+  "stamp": "ad55aa82a6911bb2c25d69bc8296ecf1",
+  "verdict": {
+   "what_is_spun": "REL's financial services business \u2014 lending, broking, investment activities and ancillary support services \u2014 into Religare Finvest Limited",
+   "reason": "Financial services needs differentiated strategy for its industry-specific risks and attracts a different investor set; separate listing to unlock shareholder value, sharpen management focus, and tailor risk management and compliance",
+   "reason_class": "value_unlocking",
+   "insiders": "No change in REL's shareholding; RFL shares issued 1:1 so RFL's pattern mirrors REL's on record date. Dedicated leadership teams being hired, rewards mapped to each business's outcomes.",
+   "hidden_value": "The demerged financial services undertaking is only INR 457.29 crore turnover, 6.2% of consolidated revenue \u2014 REL retains the dominant insurance asset, its Care Health Insurance stake. RFL is an unlisted RBI middle-layer NBFC carrying the transferred liabilities.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Small spin (6.2% of turnover), unlisted NBFC in a different industry from insurance-focused parent, mirror shareholding handed to all holders",
+   "parent_or_spin": "spin",
+   "option_pricing_date": "not stated",
+   "read_next": "RFL Information Memorandum / abridged prospectus: 3-year revenue, PAT, EBITDA and post-demerger balance sheet of the resulting company",
+   "quote": "The turnover of the Demerged Undertaking for the year ended 31 March, 2025 was INR 457.29 Crores on a consolidated basis representing 6.2% of the total consolidated turnover of the Company for the year ended 31 March, 2025."
+  }
+ },
+ "ASTRAL": {
+  "stamp": "17a14b3aaa973d07223a5f762d599cef",
+  "verdict": {
+   "what_is_spun": "Chemicals/Adhesive Business \u2014 adhesives, PVA, cyanoacrylates, solvent cements, sealants, construction chemicals \u2014 into Astral Chemie",
+   "reason": "Dedicated leadership and sector expertise, consolidation with Astral Chemie's paints and coatings, focused capital deployment, specialised board oversight, shared R&D, and unlocking shareholder value by eliminating conglomerate discount",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoters hold 100% of Resulting Company pre-scheme, 54.22% post-scheme indicative, mirroring parent; no stated ESOPs, options or separate incentives for new entity",
+   "hidden_value": "Chemicals turnover \u20b912,663 million, 21% of Astral's \u20b959,076 million, combined with paints/coatings into one chemicals platform; separation would unbundle each vertical's metrics for lenders and analysts, but Board later judged chemicals lacked scale",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Small \u2014 21% of turnover; 1:1 mirror allotment to all holders; chemicals/paints differs from core plumbing industry",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Chemicals Business standalone scale and financial strength \u2014 the reason cited for withdrawing the scheme",
+   "quote": "Accordingly, the Board has decided to withdraw the Composite Scheme of Arrangement now, and no further steps will be undertaken in relation to the proposed the Composite Scheme of Arrangement."
+  }
+ },
+ "GODIGIT": {
+  "stamp": "c76b2bf235a0a45d4b39e775c3540930",
+  "verdict": {
+   "what_is_spun": "Nothing; amalgamation of Go Digit Infoworks Services Private Limited into listed Go Digit General Insurance Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; pre and post Scheme shareholding pattern including Promoter and Promoter Group is given only in Annexure H1 and H2, not in this text",
+   "hidden_value": "Not a separation but a promoter-holdco merger into the listed insurer; a share exchange ratio was set by RBSA valuation with E&Y fairness opinion, but no amounts or net worth figures are stated here",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "not stated; share exchange ratio and post-Scheme shareholding figures are not disclosed in the text provided",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "19th December 2025 (valuation report and fairness opinion on the Share Exchange Ratio)",
+   "read_next": "Annexure C valuation report share exchange ratio, with Annexure H1/H2 pre and post Scheme shareholding pattern",
+   "quote": "The above-mentioned Scheme, if approved at the meeting, will be subject to the subsequent approval of the Hon\u2019ble Tribunal."
+  }
+ },
+ "KITEX": {
+  "stamp": "a4ce6ad0a33f3d8f2e968830806a62d2",
+  "verdict": {
+   "what_is_spun": "An undertaking of Kitex Childrenswear Limited (Demerged Company) transferred to Kitex Garments Limited (Resulting Company); business not described.",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; only that MD Sabu M Jacob, WTD Sindhu Chandrasekharan, CFO Boby Michael and CS Dayana Joseph are authorised to implement the Scheme.",
+   "hidden_value": "Documents reveal nothing about the undertaking's assets, earnings or leverage; they show only that listed Kitex Garments is the recipient, so value enters the listed entity rather than being spun out to shareholders.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents give no share entitlement ratio, new-entity size, listing or index detail; only voting and hearing notices.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Scheme/Notice dated June 10, 2026 \u2014 share entitlement ratio and demerged undertaking's financials.",
+   "quote": "The proposed resolution approving the Scheme was passed by the majority of equity shareholders representing three -fourth in value of the equity shareholders who voted."
+  }
+ },
+ "LT": {
+  "stamp": "184abcf582a99309337597d30c490b7b",
+  "verdict": {
+   "what_is_spun": "L&T's Realty Undertaking \u2014 residential, commercial and mixed-use real estate development business \u2014 transferred to wholly-owned L&T Realty Properties Limited",
+   "reason": "Business has grown in scale and complexity; a dedicated platform gives sharper strategic focus, operating agility, managerial accountability, flexibility to access growth capital, attract strategic partners, and improve valuation visibility",
+   "reason_class": "value_unlocking",
+   "insiders": "Voting table shows Promoter and Promoter Group holding nil shares and 'Not Applicable' interest; LTRPL stays wholly-owned, no dilution of shareholding; management incentives in new entity not stated",
+   "hidden_value": "A realty platform with ~71 million sq ft development potential and FY26 pre-sales of ~Rs 10,000 Crs, yet only 0.59% of consolidated revenue; transferred at an enterprise value of Rs 6300 Crs",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares distributed to shareholders \u2014 slump sale into a wholly-owned subsidiary, consideration paid in LTRPL shares to L&T; no new listing",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The Scheme's valuation report supporting the Rs 6300 Crs enterprise value of the Realty Undertaking",
+   "quote": "L&T Realty Properties Limited will continue to remain a wholly -owned subsidiary of the Company and there will be no change in ownership, voting rights, or shareholder interests as a consequence of this transaction."
+  }
+ },
+ "ADANIENT": {
+  "stamp": "00e0407f3f911b5cc4b4f3363b24696f",
+  "verdict": {
+   "what_is_spun": "Core infrastructure platforms \u2014 Airports, Roads, ANIL ecosystem and long-term contracted MDOs \u2014 via demergers from AEL",
+   "reason": "Value unlock: incubation playbook of build, stabilize, scale and unlock has passed its first three phases; these are independent, sector-leading, large core infra platforms ready for separation",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoters are Gautam S. Adani and Rajesh S. Adani; Gautam S. Adani is Executive Chairman. Promoter stake or incentives in any new entity: not stated",
+   "hidden_value": "80% of EBITDA now comes from core infrastructure and services businesses, with primary capex phase reaching maturity and EBITDA mix shifted to mature scalable platforms \u2014 mature cash-generating infra hidden inside an incubator holding company",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents state no demerger size, share-entitlement ratio, index treatment or industry mismatch for the proposed entities",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The scheme of arrangement for the Airports/Roads/ANIL demergers \u2014 segment EBITDA, debt allocation and entitlement ratio",
+   "quote": "AEL is now getting ready for value unlock through demergers."
+  }
+ },
+ "JKPAPER": {
+  "stamp": "0793d8625947fcea53406c1811e11039",
+  "verdict": {
+   "what_is_spun": "Demerged Undertaking of Enviro Tech Ventures Limited, transferred to PSV Agro Products Private Limited; its business is not described",
+   "reason": "Not stated for the demerger itself; after it, Enviro Tech 'would be left with paper and packaging business', enabling consolidation of all paper and packaging entities under JK Paper, rationalising structure, compliances and costs",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Not stated. Resulting company PSV Agro Products is unlisted private with paid-up capital Rs.1,00,000; no promoter stake, management or incentive detail, and the share entitlement ratio basis is not reproduced",
+   "hidden_value": "JK Paper absorbs the paper/packaging entities while a non-core undertaking exits to a Rs.1,00,000 paid-up private company; order discloses Rs.12,59,53,27,508 of secured creditors, consolidated goodwill/intangibles carried into standalone books, and a debit Credit Reserve set off to 'right-size the balance sheet'",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "Resulting company is an unlisted private company; no distribution of its shares to JK Paper's listed public shareholders is stated",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Scheme Exhibit-21 Part E: management's basis of share entitlement ratio and value of assets/liabilities transferred on appointed date",
+   "quote": "Upon effectiveness of Part E of the Scheme, Transferor Company 4 would be left with paper and packaging business and management of Transferor Company 4 and Transferee Company are engaged in the same line of business, and so, the Board of the respective companies have decided to consolidate all paper and packaging business, manufacturing, and trading entities under the Transferee Company"
+  }
+ },
+ "MAHSEAMLES": {
+  "stamp": "3d8f458fab4f0c3369e8414d2192d7fc",
+  "verdict": {
+   "what_is_spun": "Mangaon (125,000 MTPA) pipe plant plus Beed solar into MSTL; Telangana plant, solar, rig into USL",
+   "reason": "Undertakings have distinct geographies, products, technologies, customers and capital needs; demerger gives focused management, operational efficiency, efficient capital allocation, transparency and long-term stakeholder value, kept value-neutral via mirror shareholding",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoter & Promoter Group hold 70.3008% of each resulting company post-scheme, mirroring the parent; no cash consideration; no ESOP or separate incentive disclosed",
+   "hidden_value": "Three separately listed pipe businesses by technology (CPE Nagothane retained, MPM Mangaon, FQM Telangana), plus standalone rig Jindal Explorer and 35 MW solar; demerged units are only 16.98% and 14.84% of FY2025-26 turnover",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Each resulting entity is small (~15-17% of turnover), 1 share per 5 held, newly listed, rig business differs from pipes",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The full Scheme filed with NCLT: asset, liability and debt allocation per undertaking, and the Record Date",
+   "quote": "The rig business has distinct operational and commercial characteristics as compared to the pipe manufacturing business."
+  }
+ },
+ "SUNTECK": {
+  "stamp": "582a26b207833d5f3dfa08cbecbcfe54",
+  "verdict": {
+   "what_is_spun": "Satguru's residential real estate project \"Sunteck City 4th Avenue Undertaking\", demerged into listed parent Sunteck Realty",
+   "reason": "Consolidation of the Demerged Business Undertaking; administrative and operational efficiencies; efficient pooling of financial and managerial resources, facilitating project-specific capital allocation and funding strategies",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Not stated. Satguru is a wholly owned subsidiary, no shares are issued, and there is no change in the shareholding patterns of Sunteck and Satguru",
+   "hidden_value": "The transferred project alone generated ~Rs 869 Crs, ~77% of Sunteck's FY26 consolidated turnover \u2014 the group's dominant revenue source moves from a subsidiary directly into the listed entity",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares issued, no new listing, no consideration, no change in shareholding pattern; internal reorganisation only",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The full Scheme filed with NCLT \u2014 appointed date, and debt/assets of the 4th Avenue Undertaking transferred",
+   "quote": "The turnover of the Demerged Business Undertaking of Satguru for the year ended 31 March 2026 was Rs. ~869 Crs representing ~77% of the total consolidated turnover of Sunteck for the year ended 31st March 2026."
+  }
+ },
+ "TMPV": {
+  "stamp": "f2409254fb370f9bb646d9bdaf811864",
+  "verdict": {
+   "what_is_spun": "The Commercial Vehicles business undertaking of Tata Motors, demerged into TMLCV, since renamed Tata Motors Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Demerger accounting recorded ~Rs. 83,000 Cr profit on disposal of the CV undertaking, being fair value of CV assets less book value; TMPV retains passenger vehicles, the EV business, JLR, and Rs. 30,000 Cr net debt (March 2026)",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "1:1 shares pushed to all TML holders; 45-60 day non-trading gap before listing; separate CV industry",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Cost of Acquisition guidance for TML and TMLCV shares, plus the Rs. 83,000 Cr fair-value entry",
+   "quote": "In terms of the Scheme, the Commercial Vehicles business undertaking of TML has been demerged into TMLCV and TMPV stands amalgamated with TML."
+  }
+ },
+ "ASTRAMICRO": {
+  "stamp": "eddb603fc3650a579759377030f6e53f",
+  "verdict": {
+   "what_is_spun": "Space, Meteorology and Hydrology business of AMPL into Astra Space Technologies Private Limited (ASTPL)",
+   "reason": "Strategic re-alignment to create two sector-focused listed entities, enable focused management attention, tailored growth strategies and capital allocation, attract sector-specific investors, and unlock the Demerged Undertaking's value for shareholders.",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoters hold 100% of ASTPL pre-scheme; that capital is cancelled and post-scheme promoters hold 6.45%, public 93.55%, mirroring AMPL. No management incentives stated.",
+   "hidden_value": "A \u20b9157 Cr revenue unit (13.58% of turnover) described as scaled-up, profitable, high-growth: 20 years of certified space hardware capability, \u20b9250 Cr ISRO plus \u20b9285 Cr met/hydrology order book to FY28; capital intensive.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Small 13.58%-of-turnover spin, mirror shareholding, separate space/weather industry versus pure-play defence parent, likely index exclusion.",
+   "parent_or_spin": "spin",
+   "option_pricing_date": "not stated",
+   "read_next": "The Scheme of Arrangement and registered valuer report \u2014 ASTPL standalone assets, liabilities and profitability split.",
+   "quote": "The proposed demerger is aimed at unlocking shareholder value and enhancing strategic focus across business verticals."
+  }
+ },
+ "EMBDL": {
+  "stamp": "c62d71dc68676a1c8b4999c6b3973ae8",
+  "verdict": {
+   "what_is_spun": "The power business undertaking of the answering Respondent (Indiabulls Real Estate, now EMBDL), demerged to RattanIndia Enterprises Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Separation did not cleanly remove liabilities: lenders claim the 2010 corporate guarantee and cost-overrun undertakings survived the demerger, exposing the parent to a Rs 3,72,35,67,407.77 claim on Sinnar Thermal Power's debt.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents describe only the 2011 demerger's residual guarantee litigation; no share entitlement, size or index-exclusion details stated.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Deed of Corporate Guarantee dated 11.01.2012 \u2014 whether lenders executed a written unconditional release of IBREL.",
+   "quote": "Demerger of power business undertaking of the answering Respondent to the Rattanlndia Enterprises Limited."
+  }
+ },
+ "HSCL": {
+  "stamp": "cd459952c9da4b09920d61b6fff32c50",
+  "verdict": {
+   "what_is_spun": "DBRL's Tyre Business \u2014 designing, manufacturing and development of all types of tyre and tyre products",
+   "reason": "Forward-integration: integrate the Tyre Business with HSCL's carbon black and advanced carbon materials business, strengthening presence across the tyre value chain, realising sourcing/manufacturing/distribution synergies, giving focused ownership and direct control",
+   "reason_class": "regulatory_strategic",
+   "insiders": "HSCL promoter & promoter group 52.49% pre, 52.47% post (26,48,59,302 shares unchanged); 53,896 exercisable ESOPs outstanding; DBRL promoters stay 74.99%, no cash consideration",
+   "hidden_value": "HSCL absorbs a tyre business of INR 149.31 crore turnover (3.39% of HSCL's) for only ~1,76,462 new shares \u2014 roughly 0.03% dilution and no cash; profitability, assets and liabilities assumed are not disclosed",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "Only ~1,76,462 new HSCL shares to DBRL holders (public float rises 47.51%\u219247.53%); HSCL already listed on BSE/NSE",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated; Appointed Date is 1 October 2026 and Record Date is only 'as defined in the Scheme'",
+   "read_next": "The Scheme and 20 September 2026 valuation report on www.himadri.com \u2014 Tyre Business profitability, assets and liabilities transferred",
+   "quote": "The Demerger will enable the Resulting Company to integrate the Tyre Business with its existing carbon black and advanced carbon materials business, thereby strengthening its presence across the tyre value chain."
+  }
+ },
+ "LEMONTREE": {
+  "stamp": "5b611292a13de2fe2d4bb5a5b8ca8dd4",
+  "verdict": {
+   "what_is_spun": "Asset-heavy hotel ownership and development: 11 operating hotels, 1 under construction, Arum investment, plus development capabilities",
+   "reason": "Segregate the asset-heavy hotel-ownership and development undertaking from the asset-light hotel-management and brand platform to achieve operational focus, greater flexibility for capital deployment, clearer alignment of business objectives, and enable a separate listing with market-driven valuation",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoters Keswani and Spank Management Services are parties to the SHA and Implementation Agreement; Keswani to be Fleur's non-retiring executive chairman with up to 3 LTHL directors; LTHL retains ~41.03%",
+   "hidden_value": "All group debt, including Lemon Tree's, moves to Fleur (~Rs 1,300 crore), leaving the parent debt-free and asset-light; demerged division was 59.90% of turnover; Coastal Cedar buys APG's 41.09% and may inject up to Rs 960 crore",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Odd 20:311 entitlement creates small holdings in a newly listed, leveraged asset-heavy entity with no index membership",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Scheme document's Demerged Undertaking financials and the valuation report plus Regulation 37 no-objection letter behind the 20:311 ratio",
+   "quote": "Firstly, when this demerger happens, all the debt, including the Lemon Tree's debt, after adjustment is being transferred to Fleur."
+  }
+ },
+ "PFOCUS": {
+  "stamp": "607fafb98a700adb29d5b33aaa0e3241",
+  "verdict": {
+   "what_is_spun": "No spin-off; only RMWL's film and media services business transferred to Prime Focus on slump-sale basis (2014 BTA)",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "Namit Malhotra, promoter of the Corporate Debtor, executed a Personal Guarantee dated 25.05.2021 unconditionally guaranteeing repayment of all sums under the Loan Agreement",
+   "hidden_value": "Not a separation: NCLT admitted a Section 7 IBC petition, default Rs. 353.79 crore on Rs. 200 crore principal; company claims viability and wealth above Rs. 20,000 crore; studio booked at Rs. 200.14 crore fair value without occupation certificates",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents cover insolvency admission only; no share distribution, size, index exclusion or industry detail stated",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "NCLAT order from the 11.05.2026 hearing, and Commercial Suit (L) No. 21566 of 2023 before Bombay High Court",
+   "quote": "The Corporate Debtor herein has filed Commercial Suit being Commercial Suit (L) No. 21566 of 2023 before the Hon'ble Bombay High Court seeking an order and decree declaring that the Corporate Debtor is not liable to pay any amounts under the BTA, Loan Agreement or any sums demanded by the Applicant."
+  }
+ },
+ "SKFINDIA": {
+  "stamp": "fbe078555c08e01a8d7a776b15c77e4c",
+  "verdict": {
+   "what_is_spun": "SKF India's Industrial Business (Demerged Undertaking) transferred on going-concern basis to SKF India (Industrial) Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "Mirror-image demerger: shareholding pattern of Resulting Company mirrors the Demerged Company on Record Date; promoter percentage and management incentives not stated",
+   "hidden_value": "Cost-of-acquisition split assigns 53.12% of value to SKF Industrial versus 46.88% to SKF India, implying the industrial business is the larger piece; no valuation was carried out by the registered valuer",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Every parent holder receives 1:1 shares in an unlisted, newly listed entity outside indices; shares frozen till trading permission",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Information Memorandum of SKF India (Industrial) Limited and paragraph 3 rationale in the shareholders' notice",
+   "quote": "Accordingly, the proposed demerger will not impact the economic and beneficial interest of shareholders of the Demerged Company."
+  }
+ },
+ "SUNTV": {
+  "stamp": "3b0edd880dded991bd248da10286faba",
+  "verdict": {
+   "what_is_spun": "Sun TV's sports division, per the referenced news item (company calls it a rumour)",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "not stated",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "No scheme, entity size, or index details disclosed; company denies any impending announcement.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Next Regulation 30 disclosure or board meeting outcome confirming or denying a sports-division demerger.",
+   "quote": "The aforesaid news item is a rumour and the Company cannot comment on market rumours."
+  }
+ },
+ "THERMAX": {
+  "stamp": "9d64b29d198ad28f28207dc73c0a5950",
+  "verdict": {
+   "what_is_spun": "Bio-CNG Technology/EPC business of Thermax Bioenergy Solutions, demerged into Thermax Ltd; Thermax Cooling Solutions merged in too",
+   "reason": "Demerged undertaking is in line with the Company's business; consolidate similar businesses, simplify group structure, cut administrative overheads and costs, let TBSPL focus on remaining O&M segment",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Not stated. No consideration paid and no shares issued; both entities are wholly owned subsidiaries, so there is no change in shareholding pattern or control structure",
+   "hidden_value": "Not a value-unlock spin: the demerged undertaking (Rs 239.35 cr revenue, 3.67% of turnover) sits in a subsidiary with negative net worth of Rs (106.9) cr, already written down by Rs 30 cr in FY26; Green Solutions segment lost Rs 16.85 cr in Q1",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares issued, no new listing; demerged company stays an unlisted wholly owned subsidiary, shareholding pattern unchanged",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Exhibit I net worth of TBSPL Rs (106.9) cr and Green Solutions segment results trend",
+   "quote": "The equity shares of the Resulting Company are already listed on the Stock exchanges."
+  }
+ },
+ "VIYASH": {
+  "stamp": "ab7593c3076badfec4d6c3f986d12cb0",
+  "verdict": {
+   "what_is_spun": "Nothing; eight Viyash-group pharma entities amalgamate into listed SeQuent Scientific Limited, effective April 01, 2025",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; order lists only share capitals, e.g. Viyash Life Sciences 315,773,941 equity shares plus 18,615,406 Class B/C1/C2 shares",
+   "hidden_value": "Absorbed entities are mixed: Symed Labs other equity Rs 72,083.62 lakhs, but S.V. Labs negative Rs 7,635.87 lakhs and Vandana negative Rs 680.49 lakhs, with heavy current liabilities",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "not stated; no new listed entity is created and no shareholding or index detail appears in the order",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Scheme's rationale clause and share exchange ratio / valuation report for the amalgamating companies",
+   "quote": "In the resul t, this CP (CAA) No.39/230/2025  is allowed ."
+  }
+ },
+ "AGARWALEYE": {
+  "stamp": "ef38f069df2f73221ace8cc45882c960",
+  "verdict": {
+   "what_is_spun": "Nothing; AEHL (Dr. Agarwal's Eye Hospital) amalgamates into AHCL \u2014 a merger, not a separation",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "not stated",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "not stated",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Annexure II share valuation cum share exchange ratio report dated August 26, 2025",
+   "quote": "Further, the Scheme shall be acted upon only if the votes cast by the public shareholders in favour of the Scheme are more than the number of votes cast by the public shareholders against it as per the SEBI Master Circular."
+  }
+ },
+ "AIIL": {
+  "stamp": "c8dfe92c9369fc8c0c746fb35b0b5fe3",
+  "verdict": {
+   "what_is_spun": "Wind World (India) Ltd split: IPP/power-sale and O&M businesses to INEL; identified real estate assets to Authum",
+   "reason": "Implementation of the resolution plan submitted by the INEL-Authum consortium under the Insolvency and Bankruptcy Code, 2016 for acquisition of Wind World (India) Limited; no further rationale stated",
+   "reason_class": "regulatory_strategic",
+   "insiders": "not stated",
+   "hidden_value": "Authum's commitment is approx. INR 350 crore for identified real estate/assets of WWIL, while the operating wind IPP and O&M businesses go to INEL; asset values not stated",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "No distribution of shares to AIIL shareholders stated; documents describe an acquisition, not a share-based spin-off",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Resolution plan's identified real estate asset list and valuation backing Authum's INR 350 crore commitment",
+   "quote": "The Resolution Plan submitted by the consortium of INEL and the Company inter alia envisaged that INEL as the Lead Member and/or its affiliates shall acquire (i) the IPP and power sale undertaking ; and (ii) the operations and maintenance (O&M ) business of WWIL, while the Company and/or its affiliates shall acquire certain identified real estate / assets from WWIL."
+  }
+ },
+ "ANANTRAJ": {
+  "stamp": "d0df685070692aa62e60d51c4f7db505",
+  "verdict": {
+   "what_is_spun": "Data Centre & Cloud Services business of ARL and ARCPL, into Ashok Cloud Private Limited",
+   "reason": "Two distinct verticals with different growth drivers, capital needs and operating models; consolidate data centre business in one entity, enable focused growth, independent market recognition and valuation, unlock shareholder value",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoters hold 57.42% of ARL pre and post; post-scheme they hold 28.14% directly in ACPL, ARL holds 51%; ARL shareholders hold 100% ultimate economic interest",
+   "hidden_value": "Data Centre Business is only 8.96% of FY26 turnover (\u20b9145.90 cr of \u20b91,627.72 cr) yet is called rapidly growing and AI-ready; separate listing seeks pure-play digital-infrastructure valuation while ARL retains 51% of ACPL",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Data centre/cloud spin lands in a different industry from real estate; only 49% directly distributed, small float",
+   "parent_or_spin": "both",
+   "option_pricing_date": "not stated",
+   "read_next": "Composite Scheme's Demerged Undertaking asset/liability and debt allocation, plus ACPL net worth (\u20b90.04 cr) build-up",
+   "quote": "The Scheme will not result in the cancellation of Anant Raj Limited's existing shareholding in Ashok Cloud Private Limited, and ACPL will continue to remain a subsidiary of Anant Raj Limited."
+  }
+ },
+ "CELLO": {
+  "stamp": "1356ca62264b0aa51171356e9aa98f9d",
+  "verdict": {
+   "what_is_spun": "Wim Plast Limited's Manufacturing Business, demerged into Cello Consumer Products Private Limited, a wholly owned CWL subsidiary",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "No separately listed spin: WPL's manufacturing business sits inside a wholly owned subsidiary and WPL's remaining business merges into CWL, which is dissolved; CWL standalone investments in subsidiaries rose from INR 52,479 to 1,10,031 lakhs.",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "Only 46,53,239 new CWL shares to WPL minorities versus 11,044.25 lakh capital; no new listed entity, same consumer-products industry.",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "June 09, 2026 (Record Date for allotment)",
+   "read_next": "Scheme Clauses 8.1 and 16.1 and the consolidated results' detail on the demerged WPL Manufacturing Business",
+   "quote": "The scheme has become effective from the Appointed Date i.e. April 1, 2025, upon filing of the certified true copy of the order passed by NCLT with relevant Registrar of Companies on May 27, 2026."
+  }
+ },
+ "COFORGE": {
+  "stamp": "c113d3b921a597ac38f1b9894f40c587",
+  "verdict": {
+   "what_is_spun": "Nothing separated; Cigniti's digital assurance and engineering (software testing) business amalgamated into Coforge, Cigniti dissolved",
+   "reason": "Coforge acquired Cigniti to gain access to its tenured relationships, expand its Healthcare business, and grow its presence in the Midwest and Western US regions",
+   "reason_class": "regulatory_strategic",
+   "insiders": "not stated",
+   "hidden_value": "Acquired business EBITDA margin rose ~11% to ~19% in five-six quarters, top two accounts $25m to $75m, reported PAT 14-15%; offset by Coforge income-tax demands of Rs 3,04,77,45,392 plus GAAR risk",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Coforge already held 54%; ~1.27 crore new shares to minority versus 33.49 crore outstanding; documents discuss no index or flow effects",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Annexure P-14 litigation disclosures and the Rs 304.77 crore Coforge income-tax demand and GAAR exposure",
+   "quote": "Coforge acquired Cigniti to gain access to its tenured relationships, expand its Healthcare business, and grow its presence in the Midwest and Western regions of the US."
+  }
+ },
+ "HAPPSTMNDS": {
+  "stamp": "bc592d87611fbc7a74cbf196823a2877",
+  "verdict": {
+   "what_is_spun": "Nothing is spun off; entire Happiest Minds IT-services business amalgamates by absorption into ITC Infotech India Limited",
+   "reason": "Creation of a single globally credible platform combining complementary capabilities, customers and talent; greater synergies, scale, cross-selling, cash-management efficiency and capital-raising ability, maximising long-term stakeholder value",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Promoters Ashok Soota and Ashok Soota Medical Research LLP sell 22.106% to ITC Infotech at ~\u20b9395/share (\u20b91,330 Cr), with non-compete; ITC Limited becomes promoter at ~73.4%",
+   "hidden_value": "Promoter cash exit at \u20b9390/\u20b9400 per share values the business the swap also prices at 25:81; transferee has higher turnover (\u20b91,31,682 lakhs) and net worth (\u20b92,31,567 lakhs) than Happiest Minds (\u20b962,851 / \u20b91,77,550 lakhs)",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "HAPPSTMNDS dissolved; holders get newly listed ITC Infotech shares with ~73.4% promoter stake and small float",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The draft Scheme and the August 31, 2026 PwC/GT valuation report and ICICI fairness opinion on the 25:81 ratio",
+   "quote": "The management or control of the Company will not be impacted consequent to the SPA."
+  }
+ },
+ "JPPOWER": {
+  "stamp": "27715d2e9acce1b2bc296ac2103c6782",
+  "verdict": {
+   "what_is_spun": "Not stated \u2014 no demerger; promoter Jaiprakash Associates' insolvency resolution transfers it to Adani Enterprises Limited",
+   "reason": "Not stated as a separation; the documents describe NCLT approval under Section 31 of the Insolvency and Bankruptcy Code, 2016 of Adani Enterprises' resolution plan for the promoter company",
+   "reason_class": "not stated",
+   "insiders": "Promoter company's pre-CIRP equity, preference shares, convertibles and warrants entirely cancelled and extinguished for zero consideration on the Effective Date; Adani Enterprises is Successful Resolution Applicant",
+   "hidden_value": "Liquidation value insufficient to satisfy secured creditors in full, so promoter shareholders get NIL exit price; JPPOWER itself faces a Section 7 CIRP petition over a Rs. 511,72,82,207 corporate guarantee given to JAL",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents do not address share overhang; they cover JAL's delisting at nil and the pending Section 7 petition",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Written NCLT Section 31 order and detailed disclosure on treatment of JAL-held JPPOWER shares",
+   "quote": "In the assessment of the Successful Resolution Applicant, the liquidation value is insufficient to even satisfy the claims of secured creditors in full, therefore, NIL consideration is being offered to the shareholders of the Corporate Debtor as part of the delisting process under the Approved Resolution Plan, and the exit price for the existing shareholders is therefore NIL."
+  }
+ },
+ "LAURUSLABS": {
+  "stamp": "3c9552c333ff82cfb2b425c87e40fe4f",
+  "verdict": {
+   "what_is_spun": "Identified Business Undertaking, i.e. Unit-1 of Laurus Synthesis Private Limited, demerged into Sriam Labs Private Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "Not stated; documents only note Laurus Synthesis and Sriam Labs are both wholly-owned subsidiaries of Laurus Labs Limited. Promoter stake and incentives not stated.",
+   "hidden_value": "not stated",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "Intra-group scheme among wholly-owned subsidiaries; no distribution of listed shares disclosed in documents",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The Composite Scheme of Arrangement itself, for Unit-1 financials and consideration/share-exchange terms",
+   "quote": "The unsecured creditors of both the Transferor Company and the Resulting Company have approved the Composite Scheme of Arrangement."
+  }
+ },
+ "LLOYDSENT": {
+  "stamp": "d850a8f4668955f1d891a415d1b9ba00",
+  "verdict": {
+   "what_is_spun": "The Demerged Undertaking (as defined in the Scheme) of Lloyds Enterprises Limited, transferring to Lloyds Realty Limited; business itself not described",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Separation creates a separately listed Lloyds Realty Limited, with realty entities (Lloyds Realty Developers, Indrajit Properties) merging into the parent; no financials or valuation disclosed in these documents.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents give no size, shareholding or index data; allotted shares stay frozen until exchange listing permission.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Explanatory statement/NCLT notice with valuation report, scheme rationale and 3-year revenue, PAT, EBITDA of each entity",
+   "quote": "The shares allotted pursuant to the Scheme shall remain frozen in the depositories system till listing/trading permission is given by the designated stock exchange."
+  }
+ },
+ "MAXHEALTH": {
+  "stamp": "58750129608737b1d133b38f52640de8",
+  "verdict": {
+   "what_is_spun": "Nothing separated; Crosslay Remedies merged into fellow wholly-owned subsidiary Jaypee Healthcare; ET Planners voluntarily liquidated and dissolved",
+   "reason": "Scheme rationale not stated here (referred to First Motion Order dated 17.07.2025); petitioners said transferring Crosslay's profitable, cash-generating business would set off Jaypee's cash losses and fund facility expansion and upgradation",
+   "reason_class": "not stated",
+   "insiders": "No equity shares issued; both companies are wholly owned subsidiaries of Max Healthcare Institute Limited and no change in ownership or control occurs. Promoter or management incentives not stated.",
+   "hidden_value": "Jaypee Healthcare had cash losses of Rs 614.71 lakhs (FY25) and Rs 6,270.73 lakhs (FY24) plus loan defaults, against profitable Crosslay; Jaypee held Rs 3,392 lakhs cash; disputed claims Rs 2,523 lakhs and GDA demand Rs 139 lakhs",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new listed entity and no shares issued; intra-group merger of wholly owned subsidiaries, so no index or shareholder change",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "First Motion Order dated 17.07.2025, which states the Scheme's rationale; also Jaypee's FY25 audited financials",
+   "quote": "Upon the Scheme becoming effective, no equity shares shall be issued or allotted by the Transferee Company, as the Transferor Company and the Transferee Company are wholly owned subsidiaries of the Holding Company, and no change in ownership or control will occur."
+  }
+ },
+ "OLAELEC": {
+  "stamp": "dc2f41f30a80d3fd25775803dd435af5",
+  "verdict": {
+   "what_is_spun": "not stated",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "Promoter is Mr. Bhavish Aggarwal; no promoter or management stake, subscription intent or incentive in any new entity is stated in the documents.",
+   "hidden_value": "No separation is disclosed; the documents instead reveal a capital need \u2014 \u20b9999.74 crore rights issue at \u20b927 per share (\u20b917 premium), partly paid, 60% on application and 40% call by October 31, 2027, against net worth of \u20b93,769 crore.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "No spun entity, size or index treatment stated; only rights-entitlement renunciation trading until October 26, 2026 is described.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "\"Objects of the Issue\", page 78 \u2014 use of the \u20b9999.74 crore Net Proceeds.",
+   "quote": "The existing Equity Shares are listed on BSE Limited (\"BSE\") and National Stock Exchange of India Limited (\"NSE\", and together with BSE, the \"Stock Exchanges\")."
+  }
+ },
+ "PARADEEP": {
+  "stamp": "ad5d7f56a0b66a453c1e76eb099a0bf9",
+  "verdict": {
+   "what_is_spun": "Nothing separated; Mangalore Chemicals & Fertilizers merged into Paradeep Phosphates (amalgamation, not spin-off)",
+   "reason": "Merger makes PPL one of largest private-sector fertilizer producers, lifting capacity over 23% from 3.0 to 3.7 million MT, strengthening southern India presence and pan-India coverage, supply-chain and scale efficiencies",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Not stated post-merger; documents note only that after the May 2022 IPO, Zuari Maroc Phosphates (ZMPPL) became majority owner with 56.08% stake",
+   "hidden_value": "Reveals consolidation of the Adventz/Zuari fertilizer assets into one listed vehicle: capacity 3.0 to 3.7 million MT, backward integration in phosphoric/sulphuric acid and ammonia, 9.5 million farmers, 95,000 retail points, captive Paradeep berth",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "22,16,23,331 new shares (~21% of enlarged 103.8 crore capital) issued to former MCFL holders; fractional and physical-holder shares sold in open market",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Post-merger shareholding pattern and first consolidated quarterly results of enlarged Paradeep Phosphates",
+   "quote": "The combined entity enhances PPL's manufacturing scale and market reach, increasing total fertilizer production capacity by over 23% \u2014 from 3.0 million to 3.7 million metric tonnes per annum."
+  }
+ },
+ "PICCADIL": {
+  "stamp": "46f36b8da8b4bc16bef9f35ea89873fd",
+  "verdict": {
+   "what_is_spun": "The Sugar Business of Piccadily Agro, demerged into Piccadily Food & Essential Limited; parent retains Distillery Business.",
+   "reason": "To focus on the core brand portfolio and the main Alco-Bev business; demerger of the sugar business into a new entity, filed with SEBI with KPMG as partner.",
+   "reason_class": "unrelated",
+   "insiders": "Not stated; scheme only says two listed companies with proportionate shareholding. Board approved a Section 232(2)(c) report on effects on promoters and KMP.",
+   "hidden_value": "Segment data shows the separation leaves the parent as a pure distillery: distillery assets Rs.1,53,410 lakhs vs sugar Rs.10,554 lakhs, while sugar carries Rs.22,167 lakhs of liabilities \u2014 a small, negative-net-asset, seasonal commodity unit exiting a 60-70% growth Alco-Bev story.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Sugar is tiny versus distillery assets, loss-making in Q4 segment results, seasonal commodity industry unrelated to branded Alco-Bev holders.",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The Scheme and Annexure B on piccadily.com for share entitlement ratio and sugar assets/liabilities transferred.",
+   "quote": "The effectiveness of the Scheme would result in the creation of two listed companies with proportionate shareholding with the Resulting Company housing the Sugar Business and the Company housing the Distillery Business."
+  }
+ },
+ "POLYCAB": {
+  "stamp": "d23bcc6eade3a7ae544907ad69fdd437",
+  "verdict": {
+   "what_is_spun": "Nothing separated; scheme is amalgamation of wholly-owned Uniglobus Electricals and Electronics into Polycab",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "No separation disclosed; filings assert zero-debt position, net cash above Rs.4,000 crores and net-worth of Rs.11,682 crores as per audited FY ended 31 March 2026.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "No spin-off or new listed entity disclosed; documents say nothing about index or shareholder flows.",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "NCLAT appeal outcome on the Section 9 CIRP admission order of October 07, 2026",
+   "quote": "The Company does not expect any adverse / material impact on its financial or business operations arising from the said order."
+  }
+ },
+ "PRICOLLTD": {
+  "stamp": "f9e251d315bb4ae97471ef400cd48eb6",
+  "verdict": {
+   "what_is_spun": "Driver Information & Connected Vehicle Solutions (DICVS) business \u2014 clusters, infotainment, e-cockpit, telematics, BMS, sensors \u2014 into Pricol Autotech Limited",
+   "reason": "Clear segregation so each business concentrates on core activities; DICVS has differing customer needs, competitive dynamics, capital allocation and risk profiles; creates simpler, sharper, agile entities and unlocks shareholder value",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoters hold 38.51% of Pricol Autotech post-scheme, mirroring Pricol (public 61.49%); Vikram Mohan, Chairman & MD, champions it; new entity to get dedicated leadership and aligned incentive structures",
+   "hidden_value": "DICVS is the larger half \u2014 INR 2,424.63 crores, 61.17% of FY26 consolidated turnover \u2014 an innovation-led automotive electronics platform in a USD 12bn+ market growing ~20% CAGR, previously buried inside a scale-led precision engineering conglomerate",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "Spin is 61.17% of turnover, same automotive sector, 1:1 mirrored shareholding; index treatment not stated",
+   "parent_or_spin": "spin",
+   "option_pricing_date": "not stated",
+   "read_next": "Full Scheme on pricol.com for DICVS asset, liability and debt allocation; Share Entitlement Ratio Report dated 27 June 2026",
+   "quote": "The turnover of the DICVS Business for the financial year ending March 31, 2026, stood at INR 2,424.63 crores."
+  }
+ },
+ "STAR": {
+  "stamp": "f6c84b18b7044a4a6f589b4d8f0c2df7",
+  "verdict": {
+   "what_is_spun": "Arco Lab's Life Sciences business and Digital Innovation business, demerged into Pivot Path Private Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "Not stated; documents say only that Pivot Path becomes a wholly owned subsidiary of Strides, which receives Pivot Path shares per the Scheme's entitlement ratio, Arco Lab's shares extinguished",
+   "hidden_value": "An intra-group restructuring, not a shareholder spin-off: Life Sciences and Digital Innovation are carved out of Arco Lab into a direct Strides subsidiary, vesting retrospectively from April 10, 2025; no value or financials disclosed",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares go to Strides shareholders; Pivot Path stays a wholly owned, unlisted subsidiary, so no distribution or index exclusion",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The Scheme document itself \u2014 share entitlement ratio and the Demerged Undertaking's financials; then the record-date intimation",
+   "quote": "Pivot Path shall become a wholly owned subsidiary of Strides."
+  }
+ },
+ "SUNPHARMA": {
+  "stamp": "d4618765bf677912d587dfddb1323f02",
+  "verdict": {
+   "what_is_spun": "Nothing is spun off; five wholly-owned subsidiaries amalgamate into Sun Pharmaceutical Industries Limited itself",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "No separation occurs, so no hidden business is revealed; the only balance-sheet effect disclosed is reclassification of General Reserve to Retained Earnings, which can enlarge distributable reserves.",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new listed entity or share issuance disclosed; subsidiaries were already wholly owned, so no index or shareholder churn.",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Post-effective standalone balance sheet: retained earnings versus general reserve after the 22 November 2025 reclassification.",
+   "quote": "Accordingly, the Scheme shall become effective from today, i.e., 22 November 2025."
+  }
+ },
+ "VIKRAMSOLR": {
+  "stamp": "e1f45ff25dd0f635d5923f83cea69222",
+  "verdict": {
+   "what_is_spun": "not stated \u2014 documents concern a Section 9 insolvency petition, not any business separation",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; Sameer Nagpal is named as Suspended Director of Vikram Solar Ltd. and appellant, who deposited Rs. 91,98,556/- pursuant to the 24.06.2026 order",
+   "hidden_value": "No separation. Filings reveal an operational default dating to 07.12.2019 on sub-contract dues, CIRP admitted 12.06.2026 with moratorium, then set aside 29.06.2026 because the admitted debt was below Rs. 1 crore.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "No spin-off, index change or new entity is described in the documents",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Company's disclosure on any settlement with Isitva Steels and refund verification of Rs. 91,98,556/-",
+   "quote": "Taking the submission s of both the Ld. Counsel s on record , and since it is admitted case that the due amount was less than Rs. 1 crore ; the admission order dated 12.06.2026,  stands  set aside."
+  }
+ },
+ "ASTERDM": {
+  "stamp": "17832b87fdad13b4a5b9f27818a6ce90",
+  "verdict": {
+   "what_is_spun": "Nothing is spun off; Quality Care India Limited amalgamated into Aster DM Healthcare (renamed Aster DM Quality Care)",
+   "reason": "To consolidate the parties' business interests: scale and financial resilience, top-3 Indian hospital chain, EPS and EBITDA-margin accretion, diversification across 9 states and 25 cities, revenue, supply-chain, doctor-model and overhead synergies",
+   "reason_class": "value_unlocking",
+   "insiders": "Dr. Azad Moopen continues as Executive Chairman; Varun Khanna as MD and Group CEO. QCIL holders got 977 shares per 1,000; promoter stake not stated",
+   "hidden_value": "Merger reveals scale, not separation: 39 hospitals, 28 cities, 10,600 beds growing to 15,000+, 45,000 staff, expected top-3 India chain, accretive to EPS and EBITDA margin; combined secured creditors about Rs 825 crore",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "35,35,51,410 new shares (vs 51,81,21,029 existing) issued to QCIL's 84 holders, tradable from 17 August 2026",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Share Exchange Ratio Report and Fairness Opinion (Annexures 28 & 29) against QCIL's FY25 audited financials",
+   "quote": "The combined platform is expected to unlock significant synergies across clinical collaboration, technology adoption, procurement, digital health and operational excellence."
+  }
+ },
+ "CCAVENUE": {
+  "stamp": "0086924ac67ddeb33fdbbbc5e5465d2e",
+  "verdict": {
+   "what_is_spun": "Rediff.com India Limited, AvenuesAI's subsidiary holding the e-commerce platform, content and email digital ecosystem, via main-board IPO",
+   "reason": "To unlock the strategic value of Rediff.com by combining its consumer and enterprise digital ecosystem with AvenuesAI's payments, AI and digital commerce capabilities; listed as an FY27 strategic priority.",
+   "reason_class": "value_unlocking",
+   "insiders": "Not stated \u2014 no promoter or management shareholding, ESOP or incentive in Rediff disclosed; Rediff remains a subsidiary of AvenuesAI, whose Chairman & MD is Vishal Mehta.",
+   "hidden_value": "The E-commerce Platform Business, slump-sold into Rediff, earned Rs 244.5mn segment profit on Rs 544.6mn Q1 revenue versus Rs 434.1mn on Rs 26,259.4mn payments revenue \u2014 a small, far higher-margin business hidden inside low-margin payments consolidation.",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "IPO under Chapter IIA, not a demerger; no shares distributed to parent shareholders, so no forced index or sector selling.",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Rediff's Pre-DRHP \u2014 Rediff standalone financials, offer size and AvenuesAI's post-IPO shareholding.",
+   "quote": "The filing of the Pre-filed Draft Red Herring Prospectus shall not necessarily mean that Rediff will undertake the initial public offering."
+  }
+ },
+ "COALINDIA": {
+  "stamp": "b345d7e272739cd8d1cdde8415ceb7d0",
+  "verdict": {
+   "what_is_spun": "Mahanadi Coalfields Limited (MCL), a wholly owned coal subsidiary of Coal India Limited, via IPO",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "CIL is sole promoter; IPO is purely an Offer for Sale of up to 661,836,300 shares of INR 2 face value held by CIL. Management incentives not stated.",
+   "hidden_value": "Listing would put a market price on one unlisted CIL subsidiary, implying value for the rest; documents disclose no MCL financials, reserves or valuation.",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "IPO/offer-for-sale to new investors, not a pro-rata distribution to CIL holders; no forced index-driven selling",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "MCL DRHP dated 1 September 2026: financials, dividend history to CIL, offer size and valuation",
+   "quote": "The DRHP filing pertains to the proposed Initial Public Offering (\"IPO\") of MCL, comprising an Offer for Sale of up to 661,836,300 equity shares having a face value of INR 2 each, held by Coal India Limited."
+  }
+ },
+ "DABUR": {
+  "stamp": "143de0a5baedf565ed9ac351fd4beced",
+  "verdict": {
+   "what_is_spun": "Nothing; documents describe Sesa Care Private Limited amalgamating into Dabur India, not a separation",
+   "reason": "Amalgamation brings premium ayurvedic hair oil brand Sesa into Dabur's portfolio, filling a whitespace, strengthening hair care presence and pooling financial, managerial, distribution and marketing resources for synergies",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Directors of either petitioner company have no interest in the Scheme except as shareholders, per the extent appearing in the registers of directors' shareholdings",
+   "hidden_value": "not stated",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new listed entity; only a tiny number of Dabur shares issued (10 shares per 146,779 Sesa Class A shares)",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Finvox Analytics valuation report dated 24.05.2025 supporting the share exchange ratio",
+   "quote": "The Transferor Company is primarily engaged in business of manufacturing, purchasing and selling of ayurvedic personal care and wellness products for personal/household use."
+  }
+ },
+ "DEVYANI": {
+  "stamp": "5298cc227cb0476610ea23cc403acae3",
+  "verdict": {
+   "what_is_spun": "Not a spin-off: Sapphire Foods India (KFC/Pizza Hut QSR) amalgamates into Devyani International",
+   "reason": "Same line of business; consolidation of KFC and Pizza Hut QSR under one entity for economies of scale, unified strategy, enlarged footprint, bargaining power and a larger, more liquid equity base",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Devyani promoter group falls 61.37% to 47.83%; 17 promoter-group entities seek public reclassification; Sapphire promoters will not become Devyani promoters; SFML sells 18.5% to group company Arctic",
+   "hidden_value": "Sapphire's standalone net worth (Rs 13,269.93mn) exceeds Devyani's (Rs 10,381.02mn) on lower turnover (Rs 24,510.76mn vs 33,493.33mn); Devyani pays Rs 320 crore for merger/territory rights plus Rs 90 crore for 19 KFC stores",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Large issuance to Sapphire's 73.93% public base plus promoter reclassification lifts Devyani public float to 52.17%",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Explanatory statement: valuation reports, fairness opinions and basis of the 177:100 share exchange ratio",
+   "quote": "The Transferor Company and the Transferee Company are under the same line of business, this amalgamation will enable the Transferee Company to absorb the business of Transferor Company completely for carrying on more effectively and beneficially."
+  }
+ },
+ "DIACABS": {
+  "stamp": "26097d539e153d83eeec3142f97b04b4",
+  "verdict": {
+   "what_is_spun": "not stated \u2014 no business is being separated; filing announces full exit from the NCLT/IBC resolution framework",
+   "reason": "not stated \u2014 no separation proposed. The filing's stated purpose is prepayment of the \u20b92,401 crore Resolution Plan consideration one year ahead of schedule, completing exit from the NCLT mechanism",
+   "reason_class": "not stated",
+   "insiders": "No new entity. Company acquired under NCLT by consortium of Mr. Rakesh Shah, GSEC and Monarch Group; promoters' obligations under the Approved Resolution Plan now fully discharged. Stakes not stated",
+   "hidden_value": "Reveals a cleaned-up parent: debt-light balance sheet, entire gross block free of resolution-era charges and available as bank security, now ratings-eligible, CBI/ED matters cleared, profitable since FY2023-26, captive aluminium rod mills and wind power",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No share distribution or new listing occurs; nothing is demerged, so no index exclusion or forced-seller flow arises",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "FY2026 audited financials: carrying value of the \u20b91,900 crore 30-year 0.001% bonds discounted at 16% NPV",
+   "quote": "Diamond Power is now a clean, rateable, bankable and profitable company \u2014 and this is where its real growth story begins."
+  }
+ },
+ "FLUOROCHEM": {
+  "stamp": "187446eb7a8758db9089cc1ea493afb3",
+  "verdict": {
+   "what_is_spun": "ILFL's demerged undertaking, including mutual fund distribution activities and brokerage income, transferred to Inox Holdings and Investments Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; scheme notice must disclose promoter-wise and aggregate promoter group shareholding in GFL, IHIL, ILFL before and after, plus proposed promoter reclassification in GFL",
+   "hidden_value": "Separation moves ILFL's mutual fund distribution and brokerage income into IHIL while ILFL surrenders its NBFC registration and its assets and liabilities pass to GFL; amounts and valuations not stated",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "not stated; documents contain no size, index or shareholder-base details",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "Explanatory statement to shareholders: rationale, valuation report, share exchange ratio, and GFL post-scheme balance sheet",
+   "quote": "The entity shall ensure that it is disclosed in the explanatory statement, that the ILFL shall surrender its NBFC Certificate of Registration to RBI within fifteen days of the Effective Date of the Scheme."
+  }
+ },
+ "GODREJPROP": {
+  "stamp": "da58644e94490b12989f805a626c7896",
+  "verdict": {
+   "what_is_spun": "Nothing; Embellish Houses Pvt Ltd, a wholly owned real-estate subsidiary, is merged INTO Godrej Properties",
+   "reason": "Consolidation of real estate business for operational efficiency, streamlined group structure with fewer legal entities, pooling of resources, lower administrative costs, faster financial consolidation",
+   "reason_class": "regulatory_strategic",
+   "insiders": "No shares issued; EHPL shares cancelled as GPL (with Godrej Projects Development as nominee) held 100%. Godrej Industries Ltd holds 44.77% of GPL",
+   "hidden_value": "Absorbed entity carried accumulated losses of Rs 2,479.94 lakhs (Embellish Houses LLP, FY ended 31.03.2025) and development rights/approvals; GPL securities premium stands at Rs 14,355.52 crores",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new shares allotted, no listed entity created; wholly owned subsidiary absorbed, same real estate industry",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "EHPL/Embellish Houses LLP balance sheet as on 31.10.2025 (Annexure A-3) for assets absorbed",
+   "quote": "As the Transferor Company is a wholly owned subsidiary of the Transferee Company, no shares of the Transferee Company shall be allotted towards discharge of consideration or in lieu or exchange of the equity shareholding in the Transferor Company."
+  }
+ },
+ "IEX": {
+  "stamp": "28807c7cac51883d7ce0d43bc912ecde",
+  "verdict": {
+   "what_is_spun": "Indian Gas Exchange Limited (IGX), IEX's associate company, listed via IPO offer for sale by IEX",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; document only says IGX is an associate company of IEX and IEX is the selling shareholder of up to 16,710,000 equity shares",
+   "hidden_value": "Listing would put a public market price on IEX's associate-stake gas exchange, which is currently carried inside IEX; no IGX financials, stake percentage or valuation are stated in the document",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "IPO is an offer for sale to willing investors, not a distribution of IGX shares to IEX shareholders",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "IGX DRHP dated July 14, 2026: IEX pre/post-offer shareholding in IGX plus IGX financials",
+   "quote": "The Offer comprises of an offer for sale of up to 16,710,000 equity shares by IEX, and remains subject to receipt of applicable approvals, market conditions, and other relevant considerations."
+  }
+ },
+ "INTELLECT": {
+  "stamp": "4c7f6722cdc21b262061c6ee9e9ffc51",
+  "verdict": {
+   "what_is_spun": "Purple Fabric, Intellect's Business Impact AI / Enterprise Intelligence platform, carved into an independent Line of Business",
+   "reason": "The intrinsic DNAs of eMACH.ai and Purple Fabric are completely different; independent LoB status gives Purple Fabric dedicated resources, freedom and agility to accelerate growth at the AI deployment inflection point.",
+   "reason_class": "unrelated",
+   "insiders": "Deepak Dastrala appointed CEO of Purple Fabric, reporting to CMD Arun Jain, who continues mentoring; Deepak joins Management Council as Senior Management Personnel. No stake or equity incentive stated.",
+   "hidden_value": "Reveals a scaled AI platform inside Intellect: 45+ clients live, 95%+ accuracy SLA, 18-layer architecture, 550 domain-aware agents, called a massive long-term value-creation opportunity. No separate revenue, profit or leverage figures disclosed.",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No separate shares, listing or distribution \u2014 Purple Fabric stays an internal Line of Business within Intellect.",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Purple Fabric segment revenue disclosure in Intellect's next quarterly results",
+   "quote": "As the market approaches an inflection point, moving rapidly from AI experimentation to scaled, enterprise-wide deployment, Intellect has determined that it is the optimal time to give Purple Fabric its independent identity."
+  }
+ },
+ "LALPATHLAB": {
+  "stamp": "715142e4c92f000f4a6e0465271b424c",
+  "verdict": {
+   "what_is_spun": "Nothing separated \u2014 Suburban Diagnostics' Maharashtra pathology and diagnostics business was dissolved and absorbed into the parent",
+   "reason": "not stated \u2014 documents record only that the Board on February 6, 2025 approved the proposal for voluntary liquidation of the solvent wholly owned subsidiary",
+   "reason_class": "not stated",
+   "insiders": "not stated \u2014 no new entity, no buyers; disclosure marks promoter/promoter-group involvement and related-party questions 'Not Applicable'",
+   "hidden_value": "Reverse of a spin-off: a solvent, debt-free subsidiary with INR 164.03 Cr turnover (7.37%) and INR 126.62 Cr net worth (7.05%) folded into the parent on a going-concern basis, simplifying structure",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new listed entity and no share distribution; the subsidiary was dissolved, not spun off to shareholders",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "FY26 consolidated results \u2014 whether absorbed Suburban revenue and margins show up in the parent's standalone numbers",
+   "quote": "The Corporate Person shall stand dissolved from the date of this Order."
+  }
+ },
+ "LICHSGFIN": {
+  "stamp": "ebbb4ac4f3785b75aca52621ce3c6d12",
+  "verdict": {
+   "what_is_spun": "not stated \u2014 filing is a clarification on NCLT personal insolvency order, no business separation",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Admitted claim of Rs 1,322.39 crore against Dr. Subhash Chandra as personal guarantor recovers only Rs 38.09 lakh under the approved repayment plan; company still holds security over charged assets.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "not stated \u2014 no demerger, listing or share distribution described in the document",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "The two loan accounts' principal borrower exposure and provisioning on the secured assets held by LICHFL",
+   "quote": "The media reports state that LICHFL has an admitted claim of U,322.39 crore in the said proceedings, against which the repayment plan provides for payment of z38.09 lakh to LICHFL."
+  }
+ },
+ "LUMAXTECH": {
+  "stamp": "4372468587def940c288423da5571494",
+  "verdict": {
+   "what_is_spun": "Nothing separated; IAC International Automotive India Private Limited, a wholly owned subsidiary, amalgamates into the listed parent",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; transferor is already a wholly owned subsidiary, so no new entity shareholding is disclosed. Promoters Dhanesh Kumar Jain and Anmol Jain re-appointed as Executive Chairman and MD w.e.f. May 28, 2026",
+   "hidden_value": "Reverse of a spin-off: parent bought IAC India's remaining 25% for Rs 22,095.75 lakhs in May 2025; consolidated non-controlling interest fell from Rs 35,852.95 to Rs 21,496.82 lakhs; IAC paid Rs 2,523.33 lakhs dividend upstream",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares distributed or new listing; a wholly owned subsidiary merges upward, so shareholding and index membership are unchanged",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Annexure-B scheme disclosure for IAC India's standalone financials, valuation and share-exchange/cancellation terms",
+   "quote": "Scheme of Arrangement for Amalgamation of IAC International Automotive India Private Limited ('Transferor Company') with Lumax Auto Technologies Limited ('Transferee Company') on a going concern basis under Section 230 -232 of the Companies Act, 2013."
+  }
+ },
+ "NAUKRI": {
+  "stamp": "bad9865cf8769a203b5f89b9fb9140b9",
+  "verdict": {
+   "what_is_spun": "Nothing spun off \u2014 four wholly owned subsidiaries amalgamated into listed parent Info Edge (India) Limited",
+   "reason": "Simplification and streamlining of corporate structure by reducing group legal entities, eliminating duplicate administration and compliance costs, pooling resources, greater efficiency in cash management and management focus",
+   "reason_class": "regulatory_strategic",
+   "insiders": "not stated",
+   "hidden_value": "Audited 31.03.2025 net worths disclosed: Diphda \u20b926,21,41,92,595, Axilly \u20b958,78,11,171, Zwayam \u20b918,26,10,221, Allcheckdeals \u20b913,07,92,820, parent \u20b92,77,01,31,45,853 \u2014 Diphda holds \u20b9348 crore CCPS capital",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares issued, no new listed entity created, no change in parent shareholding or index membership",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Diphda Internet Services' standalone accounts \u2014 what assets underpin its \u20b92,621 crore net worth",
+   "quote": "All the Transferor Companies are wholly owned subsidiaries of the Transferee Company."
+  }
+ },
+ "NTPC": {
+  "stamp": "3f5ab8326ef0bca71eb75c8499c644c4",
+  "verdict": {
+   "what_is_spun": "Coal mining business: coal mines transferred from NTPC to NTPC Mining Limited (Chatti Bariatu, Badam already transferred)",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Coal mining business hived off at an estimated value of Rs 10,503 crore, a figure not separately visible inside NTPC's consolidated generation business.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents describe a business transfer agreement, not a share distribution or listing; no size or index detail stated.",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The business transfer agreement for the coal mines and the Rs 10,503 crore valuation basis",
+   "quote": "Some of the other key developments include business transfer agreement for transfer of coal mines from NTPC to NTPC Mining Limited was signed for hiving off coal mining business at an estimated value of \u25a010,503 crore and Chatti Bariatu and Badam mines have been transferred."
+  }
+ },
+ "PRESTIGE": {
+  "stamp": "839f7b08baed00e719a1e97eb23ec9bf",
+  "verdict": {
+   "what_is_spun": "Prestige Hospitality Ventures Limited, a subsidiary, to be listed via IPO of its equity shares",
+   "reason": "No reason stated for the separation itself; the DRHP withdrawal is attributed to \"strategic considerations and uncertain market conditions\", with a fresh DRHP possible subject to suitable market conditions.",
+   "reason_class": "regulatory_strategic",
+   "insiders": "not stated",
+   "hidden_value": "not stated \u2014 the filing gives no financials, valuation or leverage detail for PHVL; it only reveals the hospitality subsidiary's listing has been shelved pending better market conditions.",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "IPO route, not a share distribution to parent holders; DRHP withdrawn, so no listing or index event occurs.",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "The withdrawn PHVL DRHP dated April 24, 2025 \u2014 its hospitality financials, offer size and promoter shareholding.",
+   "quote": "However, the board  of directors  of PHVL  has decided to withdraw the DRHP on account of strategic considerations and uncertain market conditions, pursuant to its resolution dated  September  25, 2026  and corresponding communication dated September 25 , 2026  made to the book running lead managers to the Offer ."
+  }
+ },
+ "PRIVISCL": {
+  "stamp": "021782e758cec4780df098ff140d7a09",
+  "verdict": {
+   "what_is_spun": "Nothing separated; amalgamation of Privi Fine Sciences and Privi Biotechnologies into listed Privi Speciality Chemicals",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated (promoter-wise pre/post shareholding of PSCL, PFSPL, PBPL is in Annexure F, not reproduced in filing text)",
+   "hidden_value": "not stated; documents disclose only that valuation (RBSA), fairness opinion (Vivro), and 3-year Revenue/PAT/EBITDA of all three entities exist as Annexures B, C and G",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "No new listed entity or share distribution described; share exchange ratio and shareholding change not stated in text",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Annexure B, RBSA valuation report (pages 95-117), for the share exchange ratio and implied dilution",
+   "quote": "The Scheme, if approved by the equity shareholders, will be subject to the subsequent approval of NCLT and such other approvals, permissions and sanctions of regulatory or other authorities, as may be necessary."
+  }
+ },
+ "RELIANCE": {
+  "stamp": "bae04f3178601444f22c08c58ddd633b",
+  "verdict": {
+   "what_is_spun": "FMCG business (Reliance Consumer Products Ltd) demerged from retail; January filing instead covers SevenHills insolvency resolution",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Call discloses the demerged FMCG arm at over 5,000 crore turnover, up 60% year-on-year, with its revenue now removed from retail's reported revenue and EBITDA base",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents state no share allotment, listing, size relative to parent, or index treatment for the demerged entity",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The RCPL demerger scheme of arrangement and RCPL standalone revenue/EBITDA disclosed in the next quarter",
+   "quote": "On the FMCG side, the demerger happened on 1st December."
+  }
+ },
+ "SAPPHIRE": {
+  "stamp": "700c6e83d25e0a1cd055e427a4202eb2",
+  "verdict": {
+   "what_is_spun": "Nothing separated: entire Sapphire KFC/Pizza Hut QSR business amalgamated into Devyani International; Sapphire dissolved",
+   "reason": "Same line of business; consolidation of KFC and Pizza Hut QSR under one entity for economies of scale, unified strategy, overhead reduction, enlarged geographic footprint and larger, more liquid equity base",
+   "reason_class": "regulatory_strategic",
+   "insiders": "SFML, QMT and Sapphire promoter group to be reclassified to 'public category' in Devyani; RJ Corp stays Devyani promoter; SFML\u2013Arctic 18.5% SPA terminated",
+   "hidden_value": "Sapphire standalone net worth INR 13,269.93mn exceeds Devyani's INR 10,381.02mn on lower revenue (24,510.76mn vs 33,493.33mn); swap is 177 Devyani shares per 100 Sapphire shares",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Sapphire promoters reclassified as public holders in Devyani; ~18.5% block sale terminated but may still be explored",
+   "parent_or_spin": "spin",
+   "option_pricing_date": "not stated",
+   "read_next": "Valuation reports and fairness opinions behind the 177:100 share exchange ratio in the NCLT explanatory statement",
+   "quote": "SFML and the other promoters and members of the promoter group of the Transferor Company will be classified in the \u2018public category\u2019 of shareholders of the Transferee Company after the Scheme is effective."
+  }
+ },
+ "SFL": {
+  "stamp": "6ec4af5e800cc81be9d216cb58711e5d",
+  "verdict": {
+   "what_is_spun": "Nothing separated; Kurlon Enterprise Limited and five transferor companies amalgamate into Sheela Foam Limited",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Documents give only the 52:100 share exchange ratio and NCLT approval; no financials, valuation rationale, synergies or leverage disclosed",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Merger, not spin-off; KEL holders receive new SFL shares, but float size and index impact not stated",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Scheme and NCLT order annexure for the valuation report and KEL financials behind the 52:100 ratio",
+   "quote": "Further, the shareholders of Kurlon Enterprise Limited holding equity share as on Friday, 30th January, 2026, being the Record Date, shall be allotted 52 (Fifty-Two) equity shares of Sheela Foam Limited for every 100 (One Hundred) equity shares held in Kurlon Enterprise Limited, in accordance with the provisions of the Scheme."
+  }
+ },
+ "SKFINDUS": {
+  "stamp": "56bf9198c67ebe2ba63651383602bcd7",
+  "verdict": {
+   "what_is_spun": "SKF India's demerged industrial undertaking, transferred to SKF India (Industrial) Limited as the resulting company",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Separated industrial entity shows 1,731 bps PBT improvement to 9.5% of sales, 11.5% excluding demerger one-offs, with net working capital cut 2.8% QoQ to 18.7% of sales",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents give only Main Board listing on December 05, 2025; no size, index or shareholder data stated",
+   "parent_or_spin": "unclear",
+   "option_pricing_date": "not stated",
+   "read_next": "The Scheme of Arrangement sanctioned September 26, 2025, for share entitlement ratio and resulting shareholding pattern",
+   "quote": "In compliance with the NCLT Order, the equity shares of the Company were listed on the Main Board of BSE Limited (\"BSE\") and National Stock Exchange of India Limited (\"NSE\") with effect from December 05, 2025."
+  }
+ },
+ "SUZLON": {
+  "stamp": "bcadb8c3887126b750a188f35fcd1fc9",
+  "verdict": {
+   "what_is_spun": "Nothing; scheme only reorganises and reclassifies reserves of Suzlon Energy Limited \u2014 no business separated",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Company carries a negative Retained Earnings balance large enough to be written off chronologically against Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium and General Reserve, effective from appointed date 30th September 2024",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new entity or shares created; only accounting reclassification of reserves within the listed company",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "Audited financial statements for year ended 31st March 2026 for actual accounting impact and notes",
+   "quote": "In terms of the Scheme, negative balance in the Retained Earnings of the Company as on the Appointed Date shall be adjusted chronologically against the following reserves, viz., Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium, and General Reserve."
+  }
+ },
+ "TATACOMM": {
+  "stamp": "1e7827fa3d6f36c7f01541e8467bb418",
+  "verdict": {
+   "what_is_spun": "Solutions Infini Technologies (India) Private Limited's Non-licensed Business undertaking, demerged into Novamesh Limited",
+   "reason": "Operational synergies, centralisation, simplification, lower administrative costs, higher revenues and profits, and removal of multiplicity of legal and regulatory compliances across the three subsidiaries",
+   "reason_class": "regulatory_strategic",
+   "insiders": "Promoter / promoter group benefit stated as \"Not Applicable\"; all three entities are and remain wholly-owned subsidiaries of Tata Communications Limited",
+   "hidden_value": "Nothing revealed at listed-company level: an internal reshuffle of wholly-owned subsidiaries, splitting licensed from non-licensed CPaaS/messaging operations; no financials, valuations or segment numbers disclosed in the filing",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No new listed security, no change in Tata Communications' shareholding pattern, no index event \u2014 intra-group subsidiary restructuring only",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "read_next": "The Scheme filed with Mumbai NCLT, plus Solutions Infini / Novamesh standalone financials in the annual report",
+   "quote": "All the three entities involved in the Scheme are wholly-owned subsidiaries of Tata Communications Limited."
+  }
+ },
+ "TVSMOTOR": {
+  "stamp": "6a0f7c633e1fef20a2ea1ac25b664eb0",
+  "verdict": {
+   "what_is_spun": "No spin-off: wholly owned subsidiary Sundaram Auto Components Ltd amalgamated into parent TVS Motor Company Ltd",
+   "reason": "Simplifying group structure by consolidating the subsidiary's assets and liabilities into the holding company for operational synergies, fewer legal and regulatory compliances, cost savings, and efficient capital utilisation",
+   "reason_class": "regulatory_strategic",
+   "insiders": "not stated",
+   "hidden_value": "Absorbed subsidiary had Rs.157.35 crores distributable reserves, paid Rs.100.27 crores dividend on Rs.6.98 crores PBT, nil secured creditors, and roughly Rs.71 crores of disputed tax/GST claims now moving to TVS Motor",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No consideration shares issued and no new listing; transferor's capital is cancelled and company dissolved",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "read_next": "Note 36(i) of FY2024-25 financials on pending GST and income-tax disputes transferring to TVS Motor",
+   "quote": "Since the Transferor Company is wholly owned subsidiary of the Transferee Company, upon amalgamation of the Transferor Company with the Transferee Company, no consideration shall be issued by the Transferee Company."
+  }
  }
 }
