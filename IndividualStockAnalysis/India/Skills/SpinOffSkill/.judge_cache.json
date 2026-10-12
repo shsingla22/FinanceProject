@@ -1802,50 +1802,67 @@
   }
  },
  "SUZLON": {
-  "stamp": "bcadb8c3887126b750a188f35fcd1fc9",
+  "stamp": "691830a4980d088fdabc24b897834d79",
   "verdict": {
-   "what_is_spun": "Nothing; scheme only reorganises and reclassifies reserves of Suzlon Energy Limited \u2014 no business separated",
-   "reason": "not stated",
+   "what_is_spun": "Nothing; no business separated \u2014 scheme only reorganises and reclassifies the Company's reserves",
+   "demerged_business_names": [
+    "not stated"
+   ],
+   "reason": "Not stated beyond the scheme's own purpose: adjusting the negative Retained Earnings balance as on the appointed date chronologically against Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium and General Reserve",
    "reason_class": "not stated",
    "insiders": "not stated",
-   "hidden_value": "Company carries a negative Retained Earnings balance large enough to be written off chronologically against Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium and General Reserve, effective from appointed date 30th September 2024",
+   "hidden_value": "No business value separated; the scheme reveals accumulated losses \u2014 a negative Retained Earnings balance at 30th September 2024 being written off against capital and premium reserves, with General Reserve then reclassified to Retained Earnings",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new entity or shares created; only accounting reclassification of reserves within the listed company",
+   "selling_pressure_why": "Documents describe no demerged entity, no new shares and no distribution to shareholders; only accounting reserve adjustments",
    "parent_or_spin": "neither",
    "option_pricing_date": "not stated",
-   "read_next": "Audited financial statements for year ended 31st March 2026 for actual accounting impact and notes",
+   "listing_timeline": "not stated",
+   "read_next": "Audited financial statements for year ended 31st March 2026 for the actual accounting impact and notes",
    "quote": "In terms of the Scheme, negative balance in the Retained Earnings of the Company as on the Appointed Date shall be adjusted chronologically against the following reserves, viz., Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium, and General Reserve."
   }
  },
  "TATACOMM": {
-  "stamp": "1e7827fa3d6f36c7f01541e8467bb418",
+  "stamp": "1e833d16574adc532430683868d1134a",
   "verdict": {
-   "what_is_spun": "Solutions Infini Technologies (India) Private Limited's Non-licensed Business undertaking, demerged into Novamesh Limited",
-   "reason": "Operational synergies, centralisation, simplification, lower administrative costs, higher revenues and profits, and removal of multiplicity of legal and regulatory compliances across the three subsidiaries",
+   "what_is_spun": "Non-licensed Business undertaking of Solutions Infini Technologies (India) Private Limited, a wholly-owned subsidiary",
+   "demerged_business_names": [
+    "Non-licensed Business undertaking",
+    "Solutions Infini Technologies (India) Private Limited (Transferor Company)",
+    "Novamesh Limited (Transferee Company)",
+    "Tata Communications Collaboration Services Private Limited (Surviving Company)"
+   ],
+   "reason": "Operational synergies, centralisation, simplification, lower administrative costs, pooling of resources; enhanced revenues and profits; removal of multiplicity of legal and regulatory compliances across separate entities",
    "reason_class": "regulatory_strategic",
-   "insiders": "Promoter / promoter group benefit stated as \"Not Applicable\"; all three entities are and remain wholly-owned subsidiaries of Tata Communications Limited",
-   "hidden_value": "Nothing revealed at listed-company level: an internal reshuffle of wholly-owned subsidiaries, splitting licensed from non-licensed CPaaS/messaging operations; no financials, valuations or segment numbers disclosed in the filing",
+   "insiders": "Not Applicable \u2014 documents state no benefit to promoter / promoter group / group companies; all three entities are and remain wholly-owned subsidiaries of Tata Communications Limited",
+   "hidden_value": "Nothing revealed to public shareholders: purely intra-group reorganisation, no change in Tata Communications' shareholding pattern, no quantitative effect, valuation, swap ratio or financials of the Non-licensed Business disclosed",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new listed security, no change in Tata Communications' shareholding pattern, no index event \u2014 intra-group subsidiary restructuring only",
-   "parent_or_spin": "neither",
+   "selling_pressure_why": "No shares issued to listed-company shareholders; no new listing or index change; entities stay wholly-owned subsidiaries",
+   "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "read_next": "The Scheme filed with Mumbai NCLT, plus Solutions Infini / Novamesh standalone financials in the annual report",
-   "quote": "All the three entities involved in the Scheme are wholly-owned subsidiaries of Tata Communications Limited."
+   "listing_timeline": "not stated",
+   "read_next": "The composite Scheme filed with Mumbai NCLT, for the Non-licensed Business undertaking's assets, revenue and profits",
+   "quote": "Upon effectiveness of the Scheme: (a) the Transferee Company and the Surviving Company would continue to be wholly-owned subsidiaries of Tata Communications Limited; and (b) the Transferor Company will be amalgamated into the Surviving Company and shall cease to exist."
   }
  },
  "TVSMOTOR": {
-  "stamp": "6a0f7c633e1fef20a2ea1ac25b664eb0",
+  "stamp": "8a0651fd41cb26d13f3393b2fe118fa2",
   "verdict": {
-   "what_is_spun": "No spin-off: wholly owned subsidiary Sundaram Auto Components Ltd amalgamated into parent TVS Motor Company Ltd",
-   "reason": "Simplifying group structure by consolidating the subsidiary's assets and liabilities into the holding company for operational synergies, fewer legal and regulatory compliances, cost savings, and efficient capital utilisation",
+   "what_is_spun": "Nothing separated; wholly owned subsidiary Sundaram Auto Components Limited amalgamated into parent TVS Motor Company Limited",
+   "demerged_business_names": [
+    "Sundaram Auto Components Limited",
+    "Transferor Company",
+    "TVS Motor Company Limited (Transferee Company)"
+   ],
+   "reason": "Simplifying group structure by consolidating the subsidiary's assets and liabilities with its holding company: operational synergies, fewer legal/regulatory compliances, lower administrative cost, optimal capital utilisation and enhanced stakeholder value",
    "reason_class": "regulatory_strategic",
-   "insiders": "not stated",
-   "hidden_value": "Absorbed subsidiary had Rs.157.35 crores distributable reserves, paid Rs.100.27 crores dividend on Rs.6.98 crores PBT, nil secured creditors, and roughly Rs.71 crores of disputed tax/GST claims now moving to TVS Motor",
+   "insiders": "not stated; no consideration issued as transferor is a wholly owned subsidiary, and its entire share capital held by TVS Motor and nominees stands cancelled",
+   "hidden_value": "Transferor is small and cash-rich: FY25 income Rs 0.97 cr, PBT Rs 6.98 cr, yet paid Rs 100.27 cr interim dividend from Rs 157.35 cr distributable reserves, leaving Rs 57.08 cr; disputed tax/GST dues pending",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No consideration shares issued and no new listing; transferor's capital is cancelled and company dissolved",
+   "selling_pressure_why": "No shares issued, no new listing; transferor dissolved without winding up, so no distributed stock to be sold",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "read_next": "Note 36(i) of FY2024-25 financials on pending GST and income-tax disputes transferring to TVS Motor",
+   "listing_timeline": "not stated",
+   "read_next": "Scheme clause 9 accounting treatment and TVS Motor standalone accounts for capital reserve and absorbed tax/GST contingencies",
    "quote": "Since the Transferor Company is wholly owned subsidiary of the Transferee Company, upon amalgamation of the Transferor Company with the Transferee Company, no consideration shall be issued by the Transferee Company."
   }
  },
@@ -2095,11 +2112,11 @@
   }
  },
  "APOLLOHOSP::segments": {
-  "stamp": "4eef07eda21452d235176cb354cc0a55",
+  "stamp": "9bb4f384b5b6a2211776dc1cf5e67458",
   "verdict": {
-   "segment_name": "Digital Health & Pharmacy Distribution (Apollo HealthCo \u2014 offline pharmacy distribution + Apollo 24|7 digital health)",
+   "segment_name": "Digital Health & Pharmacy Distribution (Apollo HealthCo \u2014 offline pharmacy distribution + online pharmacy/Apollo 24|7)",
    "unit": "\u20b9 million",
-   "measure_notes": "operating_profit = 'Segment Profit/(loss)' from the Ind AS 108 segment note, defined there as profit before tax earned by the segment without allocation of finance costs; it equals the 'EBIT' line for Digital Health & Pharmacy Distribution in the investor presentations (FY25 1,127 / FY26 3,987). Revenue is segment revenue BEFORE elimination of inter-segment revenue (group-level inter-segment eliminations of 759 / 774 / 2,002 mio are deducted only at total level, not split by segment). PAT is the segment PAT (Reported) line from the quarterly/annual presentations, not from the audited segment note. Segment EBITDA (presentation, after 24|7 cost and ESOP) was 1,676 mio in FY25 and 4,875 mio in FY26.",
+   "measure_notes": "operating_profit = 'Segment Profit/(loss)' from the Ind AS 108 segment note, which the reports define as profit before tax earned by each segment without allocation of finance costs; these figures tie exactly to the 'EBIT' line for Digital Health & Pharmacy Distribution in the investor presentations (FY25 1,127; FY26 3,987), so the line is effectively segment EBIT, not EBITDA or PBT. Revenue is gross segment revenue including inter-segment amounts (inter-segment revenue of 759 / 774 / 2,002 million for FY24/FY25/FY26 is eliminated only at group sub-total level, not shown per segment). PAT is 'PAT (Reported)' for the segment from the quarterly/annual presentation tables. Segment EBITDA (post 24|7 cost and ESOP) per presentation: FY25 1,676; FY26 4,875.",
    "years": [
     {
      "fy": "FY2024",
@@ -2113,14 +2130,14 @@
      "revenue": 90930,
      "operating_profit": 1127,
      "pat": 469,
-     "source": "Annual Report 2026 \u2014 page 225 (revenue, segment profit); Presentation May 2026 \u2014 page 13 (PAT)"
+     "source": "Annual Report 2025 \u2014 page 227; Presentation May 2026 \u2014 page 13"
     },
     {
      "fy": "FY2026",
      "revenue": 108081,
      "operating_profit": 3987,
      "pat": 3238,
-     "source": "Annual Report 2026 \u2014 page 225 (revenue, segment profit); Presentation May 2026 \u2014 page 13 (PAT)"
+     "source": "Annual Report 2026 \u2014 page 225; Presentation May 2026 \u2014 page 13"
     }
    ],
    "latest_quarter": {
@@ -2129,7 +2146,7 @@
     "operating_profit": 1357,
     "source": "Presentation May 2026 \u2014 page 12"
    },
-   "not_found": "FY2024 segment PAT/EBITDA; any Q1 FY27 segment financials (Aug 2026 deck page shown carries only bed-expansion data)."
+   "not_found": "FY2024 segment PAT and EBITDA absent. Q1 FY27 financials absent (Aug 2026 deck page shows only bed count). No standalone Apollo Healthco/Keimed entity statements on these pages."
   }
  },
  "AMBUJACEM::rationale": {
@@ -2189,41 +2206,41 @@
   }
  },
  "AMBUJACEM::segments": {
-  "stamp": "cc1bd8023f6a5b899412fadd9d9fdccb",
+  "stamp": "bf752732344bd231bdf3255478d7ae9c",
   "verdict": {
-   "segment_name": "Cement (reportable segment in Ambuja Cements Ltd. consolidated segment reporting; no separate segment or standalone financials are reported for Sanghi Industries Limited, which was amalgamated into Ambuja w.e.f. April 1, 2024)",
+   "segment_name": "Sanghi Industries Limited",
    "unit": "\u20b9 crore",
-   "measure_notes": "Revenue FY2024/FY2025 = 'Total revenue' per Note 60 (AR2025) = external sales + other operating revenue, net of inter-segment elimination; FY2026/FY2025 figures in AR2026 Note 61 are 'Revenue from operations (including Government Grants, inter-segment revenue)' and are restated post Sanghi/Penna merger, so FY2025 appears as 33,644.00 in AR2025 vs 33,935.68 in AR2026. Operating profit FY2024/FY2025 = 'Segment result' (EBIT-type, pre finance cost, unallocated items and tax); FY2026 = segment 'Profit before share of profit of joint ventures and associate, exceptional items and tax' \u2014 AR2026 segment expenses include finance cost and depreciation, so it is not on the same basis as segment result. PAT by segment is disclosed only in AR2026 (FY2026 and FY2025) and excludes the unallocable tax credit/charge. Latest-quarter line is whole-company Ambuja Consolidated, not the Cement segment.",
+   "measure_notes": "No separate revenue or profit line for Sanghi Industries Limited appears on the tagged pages. Sanghi was amalgamated into Ambuja Cements Limited (w.e.f. April 1, 2024); the only Sanghi-specific figures are purchase-accounting entries \u2014 goodwill addition of 540.64 crore and intangible-asset additions of 2,094.53 crore (mining reserves 2,044.53, dealer network rights 50.00) plus 10.69 crore accumulated amortisation on amalgamation (Annual Report 2026 \u2014 pages 240, 241). Consolidated segment reporting on these pages is split only into Cement and Ready Mix Concrete, with 'Segment result' (pre-finance-cost, pre-tax EBIT) for FY2024/FY2025 and a full revenue-to-PBT segment P&L for FY2025/FY2026 \u2014 none of it identifies Sanghi as a segment or business unit.",
    "years": [
     {
      "fy": "FY2024",
-     "revenue": 31871.77,
-     "operating_profit": 4896.69,
+     "revenue": null,
+     "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 299"
+     "source": null
     },
     {
      "fy": "FY2025",
-     "revenue": 33935.68,
-     "operating_profit": 3545.14,
-     "pat": 3351.08,
-     "source": "Annual Report 2026 \u2014 pages 373-374"
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
     },
     {
      "fy": "FY2026",
-     "revenue": 38690.51,
-     "operating_profit": 2724.28,
-     "pat": 2443.79,
-     "source": "Annual Report 2026 \u2014 pages 373-374"
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
     }
    ],
    "latest_quarter": {
-    "period": "Q1 FY27 (quarter ended June 30, 2026) \u2014 Ambuja Consolidated total, not segment-level",
-    "revenue": 9500,
-    "operating_profit": 1589,
-    "source": "Presentation Aug 2026 \u2014 page 23"
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
    },
-   "not_found": "No standalone Sanghi/separated-entity financials on these pages; FY2024 segment PAT absent; no segment-level quarterly data \u2014 Q1 FY27 figures are whole-company consolidated EBITDA/revenue."
+   "not_found": "No Sanghi-specific revenue, EBITDA/segment result or PAT for any year or quarter; only amalgamation goodwill and intangible-asset additions are disclosed."
   }
  },
  "ASTRAL::rationale": {
@@ -2992,18 +3009,18 @@
   }
  },
  "NH::segments": {
-  "stamp": "58d60f1c8882e7b390be4d5e86dd5261",
+  "stamp": "9f60d17db1724e024ed74f683580635e",
   "verdict": {
-   "segment_name": "Integrated Care / Clinics business (NH Integrated Care \u2013 NHIC; shown as \"C \u2013 Clinics\" within India Operations revenue)",
-   "unit": "\u20b9 million",
-   "measure_notes": "Revenue is the clinic (NHIC) component of India domestic operating revenue in the investor presentations, stated after inter-company eliminations and excluding ATHMA and Medha; it is not a reported Ind AS 108 segment (the annual reports show only 'Medical and Healthcare related Services' and 'Others \u2013 Insurance'). No profit line is disclosed for the clinic business on its own: the only related profit datapoint is combined EBITDA of NHIC + NH Insurance (NHIL) of \u20b9 -674 Mn for FY26 (Presentation Jun 2026 \u2014 page 16), and India-Hospitals-plus-NHIC-clinics EBITDA margins of 19.2% (Q1 FY26), 23.9% (Q4 FY26) and 23.4% (Q1 FY27) (Presentation Aug 2026 \u2014 page 11). So operating_profit and PAT are left null rather than derived.",
+   "segment_name": "Integrated Care Clinics \u2014 \"NH Integrated Care\" (NHIC); shown in presentations as \"Clinics (C)\" within India Operations and as \"Revenue \u2013 Integrated Care (Clinics only)\"",
+   "unit": "\u20b9 million (\u20b9 Mn)",
+   "measure_notes": "No profit line is disclosed for the clinic business on its own. The annual reports carry only one operating segment, 'Medical and Healthcare related Services', plus 'Others (Insurance)', so segment result/EBIT for the clinic business is not reportable from these pages. Revenue figures are the India-operations clinic revenue split in the investor presentations (domestic, excluding ATHMA and Medha, adjusted for inter-company eliminations); FY26 arithmetic checks: 45,233 hospitals + 609 clinics = 45,842 total, FY25: 40,675 + 407 = 41,082. The only profitability datum touching the clinics is combined: 'EBITDA for NHIC and NHIL stood at INR -674 Mn for FY26' (clinics plus insurance together), and Q1 FY27 shows only a blended 'EBITDA% of India Hospitals and NHIC Clinics together'. Neither is a clinic-only figure, so operating_profit is left null. Note also that the 'discontinued operations' in the FY25/FY26 consolidated accounts (revenue \u20b91,342.25 Mn FY25, \u20b91,377.37 Mn FY26) is the Jammu unit, not the clinic business.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not disclosed in the supplied pages"
+     "source": "Annual Report 2024 \u2014 page 270 (single 'Medical and Healthcare related Services' segment; no clinic-level split on any supplied page)"
     },
     {
      "fy": "FY2025",
@@ -3017,16 +3034,16 @@
      "revenue": 609,
      "operating_profit": null,
      "pat": null,
-     "source": "Presentation Jun 2026 \u2014 page 8"
+     "source": "Presentation Jun 2026 \u2014 page 8 (revenue); page 16 gives only combined NHIC+NHIL EBITDA of -674)"
     }
    ],
    "latest_quarter": {
     "period": "Q1 FY27",
     "revenue": 171,
     "operating_profit": null,
-    "source": "Presentation Aug 2026 \u2014 page 7"
+    "source": "Presentation Jul 2026 \u2014 page 7 (identical in Presentation Aug 2026 \u2014 page 7)"
    },
-   "not_found": "No FY2024 clinic revenue; no standalone clinic EBITDA, PBT or PAT for any year or quarter; only combined NHIC+NHIL EBITDA (FY26) and blended hospital+clinic margins exist."
+   "not_found": "Clinic-only EBITDA/segment result and PAT for every year and quarter; all FY2024 clinic figures; clinic assets, liabilities and capital employed. Only combined NHIC+NHIL EBITDA (-674, FY26) exists."
   }
  },
  "VEDL::rationale": {
@@ -3514,11 +3531,11 @@
   }
  },
  "SAMMAANCAP::segments": {
-  "stamp": "406d0a16c0d7e542c9a8db0f0ce9f4d0",
+  "stamp": "b5223e6e5ab02cf251a69c5c8b830d0d",
   "verdict": {
-   "segment_name": "Sammaan Finserve Limited (formerly Indiabulls Commercial Credit Limited) \u2014 the NBFC/Demerged Undertaking entity; documents disclose no separate reportable segment",
-   "unit": "Rs. in Crore",
-   "measure_notes": "No segment P&L exists: both annual reports state the Group/Company has a single reportable segment under Ind AS 108, so no segment revenue or segment result is disclosed. The only entity-level profit line available is 'Share in profit or loss' for Sammaan Finserve Limited in the consolidated 'additional information' table (Sec 129(3) / Schedule III para 2 disclosure) \u2014 i.e. net profit/(loss) after tax as consolidated, not PBT or EBIT. No revenue or operating-profit line is given for this entity on any tagged page.",
+   "segment_name": "Sammaan Finserve Limited (Formerly Indiabulls Commercial Credit Limited) \u2014 no separate reportable segment is disclosed; documents state the Group/Company is engaged in a single finance and mortgage-backed lending business",
+   "unit": "\u20b9 crore",
+   "measure_notes": "No segment revenue or segment result/EBIT/EBITDA is disclosed anywhere on these pages \u2014 all Segment Reporting notes (AR2024 pp. 258/372, AR2025 pp. 250/368, AR2026 pp. 274/405) state there is no separate reportable segment under Ind AS 108. The only entity-level figure available for the demerging/resulting entity is Sammaan Finserve Limited's 'Share in profit or loss' from the consolidated-schedule table (AR2025 p. 252), i.e. a PAT-equivalent amount as consolidated, not a segment result and not inter-segment adjusted.",
    "years": [
     {
      "fy": "FY2024",
@@ -3548,7 +3565,7 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "No revenue or operating profit for the NBFC entity in any year; no FY2026 figures; no quarterly data. Only FY25 non-P&L metrics (AUM 6,017; net worth 3,071; RoA 1.7%, RoE 4.1% annualised H2FY25) on Presentation May 2025 page 8."
+   "not_found": "No segment/standalone revenue, operating profit or EBITDA for the demerged NBFC-Home Loans business; no FY2026 or quarterly figures for it. Only SFL's consolidated profit share (FY2024, FY2025) and net assets appear."
   }
  },
  "REFEX::rationale": {
@@ -3648,42 +3665,41 @@
   }
  },
  "REFEX::segments": {
-  "stamp": "bd8299446405492d4a7349bd3d7d2be6",
+  "stamp": "4a0a3879e4b8febc11855e4985ba3f2b",
   "verdict": {
-   "segment_name": "Green Mobility / Electric Vehicle (Refex Green Mobility Limited \u2014 RGML; consolidated segment, labelled \"Electric Vehicle\" in FY24\u2013FY25 and \"Green mobility\" in FY26)",
-   "unit": "\u20b9 lakh (Rs. In Lakhs)",
-   "measure_notes": "Profit line is the Ind AS 108 'Segment Results' = segment EBIT before other income, finance cost and exceptional items (pre-tax, pre-interest); not EBITDA and not PBT. Revenue is 'Segment Revenue (Net Sales/Income)' from the consolidated segment note; no inter-segment revenue is separately disclosed. Figures are consolidated only \u2014 the standalone segment notes exclude this vertical because it sits in subsidiary RGML. In FY2026 the segment is classified as a discontinued operation under Ind AS 105 pursuant to the Composite Scheme (RGML \u2192 Refex Industries \u2192 Refex Mobility Limited).",
+   "segment_name": "Green Mobility (reported as \"Electric Vehicle\" in FY2024\u2013FY2025 and \"Green mobility\" in FY2026) \u2014 the Refex Green Mobility Limited / Refex Mobility Limited vertical",
+   "unit": "\u20b9 lakh",
+   "measure_notes": "Profit line is the Ind AS 108 'Segment Results' = EBIT before other income, finance cost and exceptional items (pre-tax, pre-interest); not EBITDA and not PBT. Revenue is segment revenue (net sales/income) from the consolidated segment note \u2014 the vertical sits in the subsidiary RGML, so it appears only in the consolidated disclosure (standalone notes omit it). No inter-segment revenue is separately disclosed. In FY2026 Green Mobility is classified as a discontinued operation and is excluded from continuing-operation revenue/EBIT. Latest quarter is in \u20b9 crore, as the presentation reports it.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 1231.25,
      "operating_profit": -737.15,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 317"
+     "source": "Annual Report 2024 \u2014 page 317 (consolidated segment note; same figures repeated in Annual Report 2025 \u2014 page 324)"
     },
     {
      "fy": "FY2025",
      "revenue": 3764.69,
      "operating_profit": -2683.55,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 324"
+     "source": "Annual Report 2025 \u2014 page 324 (consolidated); also Annual Report 2025 \u2014 page 82"
     },
     {
      "fy": "FY2026",
      "revenue": 9951.53,
      "operating_profit": -3823.51,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 361"
+     "source": "Annual Report 2026 \u2014 page 361 (consolidated segment note; revenue also at Annual Report 2026 \u2014 page 79)"
     }
    ],
    "latest_quarter": {
     "period": "Q1 FY26",
     "revenue": 17.24,
     "operating_profit": null,
-    "source": "Presentation Aug 2025 \u2014 page 7 (stated in \u20b9 crore, not \u20b9 lakh)"
+    "source": "Presentation Aug 2025 \u2014 page 7 (figure in \u20b9 crore)"
    },
-   "latest_quarter_notes": "No mobility-segment figures appear on the Q1 FY27 pages (Presentation Jul/Aug 2026), which report standalone continuing operations only; Q1 FY26 is the most recent quarter carrying a Green Mobility revenue figure.",
-   "not_found": "Segment PAT, tax, depreciation and EBITDA for all years; no quarterly mobility revenue after Q1 FY26 and no quarterly segment profit at all."
+   "not_found": "Segment PAT/tax, EBITDA, depreciation and finance cost for mobility in all years; Q1 FY27 and FY26 quarterly mobility revenue/profit (Aug 2026 deck shows standalone continuing operations only)."
   }
  },
  "RELIGARE::rationale": {
@@ -4001,32 +4017,32 @@
   }
  },
  "SUNTECK::segments": {
-  "stamp": "035f96e00fd39160676f86708f978d00",
+  "stamp": "4cf4ccfac60bcae7f381a15c8280d0bf",
   "verdict": {
-   "segment_name": "Satguru Corporate Services Private Limited (wholly owned subsidiary holding the Sunteck City 4th Avenue Undertaking / Demerged Business Undertaking)",
+   "segment_name": "Satguru Corporate Services Private Limited (subsidiary holding the Sunteck City 4th Avenue Undertaking / Demerged Business Undertaking)",
    "unit": "\u20b9 lakh",
-   "measure_notes": "Figures are the subsidiary's own standalone entity financials as disclosed in Form AOC-I, not a reported business segment: SRL discloses only one reportable segment ('Construction and Development of Real Estate projects and allied activities'), so no segment revenue/result is published for the demerged undertaking. Revenue = 'Turnover (including other income)' (entity-level, includes any inter-company income). Profit line is PBT (Profit before Tax) \u2014 no EBITDA/EBIT/segment-result line is given. PAT = Profit after Tax. No carve-out of the Sunteck City 4th Avenue Undertaking alone appears on these pages.",
+   "measure_notes": "No segment-level disclosure exists for the Demerged Business Undertaking \u2014 both Sunteck Realty's standalone and consolidated accounts report a single reportable segment ('Construction and Development of Real Estate projects and allied activities'), so no segment revenue/result is published. The only entity-level figures on these pages come from the FY2026 Form AOC-I statement of subsidiaries: 'Turnover (including other income)' \u2014 i.e. gross revenue inclusive of other income, not external-only segment revenue \u2014 and 'Profit/(Loss) before Tax', i.e. PBT (not segment result, EBIT or EBITDA), plus 'Profit/(Loss) after Tax'.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 378 (single-segment disclosure only; no Satguru/undertaking figures on the supplied pages)"
+     "source": null
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 pages 287, 392 (single-segment disclosure only; no Satguru/undertaking figures on the supplied pages)"
+     "source": null
     },
     {
      "fy": "FY2026",
      "revenue": 87258.6,
      "operating_profit": 30720.83,
      "pat": 22968.05,
-     "source": "Annual Report 2026 \u2014 page 176 (Form AOC-I, Sr. No. 2, Satguru Corporate Services Private Limited)"
+     "source": "Annual Report 2026 \u2014 page 176"
     }
    ],
    "latest_quarter": {
@@ -4035,7 +4051,7 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "FY2024/FY2025 Satguru figures; any segment revenue/EBITDA for the 4th Avenue Undertaking; quarterly data \u2014 Q1 FY27 (rev 191, EBITDA 67, PAT 42 cr) is SRL consolidated, not the demerged business."
+   "not_found": "FY2024 and FY2025 figures for Satguru; any segment-wise revenue/profit for the 4th Avenue Undertaking (single-segment reporting); quarterly data \u2014 presentations show only consolidated Sunteck totals."
   }
  },
  "UPL::rationale": {
@@ -4130,18 +4146,18 @@
   }
  },
  "UPL::segments": {
-  "stamp": "582c1f612b246ab55df8f0af89679987",
+  "stamp": "d982cb3adcb52789bf14e649fbde176b",
   "verdict": {
-   "segment_name": "UPL SAS (UPL Sustainable Agri Solutions) \u2014 India Crop Protection business, proforma \"pure-play\" platform, excluding Nurture",
+   "segment_name": "UPL SAS (UPL Sustainable Agri Solutions) \u2014 India Crop Protection business, one of four \"pure-play\" platforms",
    "unit": "\u20b9 crore",
-   "measure_notes": "Operating profit = EBITDA as reported in the platform performance summary (Revenue \u2212 Contribution \u2212 SG&A build-up; Contribution margin and EBITDA margin disclosed). Revenue is platform-level proforma revenue 'without considering group elimination', i.e. not strictly external-only. PAT/PBT is not disclosed for this platform; the only entity-level profit numbers on these pages are the Schedule III 'Share in Profit and Loss' of UPL Sustainable Agri Solutions Limited (legal entity, not the proforma platform): FY2024 147, FY2025 263 (restated 206 in AR2026), FY2026 235.",
+   "measure_notes": "Operating profit = EBITDA as reported in the platform-wise presentation disclosures (after SG&A, before depreciation/finance costs/tax); contribution margin also given (FY26 contribution \u20b91,033 cr, FY25 \u20b9866 cr). Revenue is platform revenue on proforma adjustments, excludes group elimination and excludes 'Nurture'. No PAT/PBT line is disclosed for the platform.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not in pages (segment reporting shows only Crop protection / Seeds / Non-Agro)"
+     "source": "not in pages provided"
     },
     {
      "fy": "FY2025",
@@ -4164,7 +4180,7 @@
     "operating_profit": 340,
     "source": "Presentation Aug 2026 \u2014 page 24"
    },
-   "not_found": "FY2024 revenue/EBITDA for UPL SAS; PAT, PBT, depreciation, finance cost and tax for the platform in any year; FY2026 balance-sheet/net-debt detail for UPL SAS alone."
+   "not_found": "FY2024 platform figures; PAT/PBT for the platform at any period. Only legal-entity profit shares for UPL Sustainable Agri Solutions Ltd appear (FY24 147, FY25 263/206 restated, FY26 235) \u2014 different basis, not used."
   }
  },
  "SKFINDIA::rationale": {
@@ -4443,41 +4459,41 @@
   }
  },
  "THERMAX::segments": {
-  "stamp": "4827dc0fad0e0463d82c4ca119befc22",
+  "stamp": "bb328106b85eca28139a97e7fad7391a",
   "verdict": {
-   "segment_name": "Green Solutions",
+   "segment_name": "Industrial Infra (the EPC segment \u2014 EPC of power plants, boiler & heater high-capacity plants, infra projects, Bio-CNG projects, FGD; includes the Bio-CNG EPC business)",
    "unit": "\u20b9 crore",
-   "measure_notes": "Operating profit = 'Segment Results \u2014 Profit/(loss) before tax and interest from each segment' per Ind AS 108 consolidated segment note. For Green Solutions the CODM reviews segment result AFTER allocable interest cost, so it is effectively a PBT figure (confirmed by investor decks, which label Green Solutions numbers 'PBT' while other segments are 'PBIT'). Revenue is gross segment revenue including inter-segment sales (group inter-segment revenue is eliminated only at total level: \u20b9357.37 cr FY24, \u20b9307.57 cr FY25, \u20b9239.82 cr FY26 \u2014 not split by segment). FY2024 segment result was originally reported as \u20b944.94 cr in AR2024 (before interest allocation) and restated to \u20b9(7.17) cr in AR2025 after the CODM change; the restated figure is used here for comparability. No segment-level PAT is disclosed.",
+   "measure_notes": "Profit line is 'Segment Results \u2014 profit/(loss) before tax and interest from each segment' (segment PBIT, before interest, unallocable expenditure/income and exceptional items). Segment revenue is gross and includes inter-segment revenue (elimination is disclosed only at total level: FY2024 (357.37), FY2025 (307.57), FY2026 (239.82)). AR2026 restates FY2025 Industrial Infra revenue to 4,694.45 (result unchanged at 110.08); FY2024 exceptional items of 50.63 relate to this segment and sit outside segment result. Quarterly figures are presentation 'Sales' and 'PBIT before exceptional and unallocated overheads'.",
    "years": [
     {
      "fy": "FY2024",
-     "revenue": 507.06,
-     "operating_profit": -7.17,
+     "revenue": 4455.21,
+     "operating_profit": 208.91,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 165 (restated segment result; revenue also in Annual Report 2024 \u2014 page 158, where FY24 segment result was reported as 44.94)"
+     "source": "Annual Report 2024 \u2014 pages 158, 159"
     },
     {
      "fy": "FY2025",
-     "revenue": 689.88,
-     "operating_profit": -0.86,
+     "revenue": 4714.56,
+     "operating_profit": 110.08,
      "pat": null,
      "source": "Annual Report 2025 \u2014 page 165"
     },
     {
      "fy": "FY2026",
-     "revenue": 732.24,
-     "operating_profit": 0.17,
+     "revenue": 4348.05,
+     "operating_profit": 217.51,
      "pat": null,
      "source": "Annual Report 2026 \u2014 page 172"
     }
    ],
    "latest_quarter": {
     "period": "Q1 FY27",
-    "revenue": 245,
-    "operating_profit": -17,
-    "source": "Presentation Jul 2026 \u2014 page 14 (Green Solutions: Sales 245, PBT (17), -6.9%)"
+    "revenue": 814,
+    "operating_profit": -71,
+    "source": "Presentation Jul 2026 \u2014 pages 14, 15"
    },
-   "not_found": "No segment-level PAT, tax, EBITDA or standalone Green Solutions revenue split; external vs inter-segment revenue not disclosed per segment."
+   "not_found": "No segment-level PAT, tax or EBITDA; no standalone carve-out financials for the EPC/Bio-CNG undertaking itself. Only Thermax Bioenergy Solutions entity P&L exists (FY2024 income 265.14, PAT (17.24); FY2025 571.51, (95.35))."
   }
  },
  "PICCADIL::rationale": {
@@ -4577,41 +4593,41 @@
   }
  },
  "PICCADIL::segments": {
-  "stamp": "ab290cee8a905531f13477aba9ec49fd",
+  "stamp": "051a3db71dda67b5e67bc781441c245f",
   "verdict": {
-   "segment_name": "Sugar (reportable business segment \"Sugar\" \u2014 Sugar, Molasses, Power and Bagasse); the resulting company is referred to in the documents as Piccadily Food & Essentials Limited / PFEL",
-   "unit": "\u20b9 lakh (Amount in Lakhs INR) for the annual segment-reporting figures; the quarterly presentation figure is in \u20b9 crore as labelled in that deck",
-   "measure_notes": "Operating profit = segment \"Profit/(loss) before unallocated expenditure, finance cost and tax\" per Ind AS 108 segment note (i.e. segment result / PBIT before unallocated items) \u2014 finance cost, other unallocable expenditure, exceptional items and tax are not allocated to segments. Revenue is external: segment note shows 'Less: Inter Segment Revenue \u2014 NIL' in all three years. Figures taken from the STANDALONE segment note; consolidated note gives same Sugar revenue and near-identical Sugar result (FY2024 389.59; FY2026 -904.94). No segment-level PAT is disclosed because tax is unallocated. AR2025 (p.53) separately states consolidated Sugar PBIT margin of 1.4% in FY2024 moving to (-)1.3% in FY2025.",
+   "segment_name": "Sugar (reportable business segment per Ind AS 108; products: Sugar, Molasses, Power and Bagasse)",
+   "unit": "\u20b9 lakh (annual report segment notes); the quarterly presentation figure is in \u20b9 crore",
+   "measure_notes": "Profit line is the segment result as disclosed: 'Profit/(loss) before unallocated expenditure, finance cost and tax' \u2014 i.e. segment PBIT, before finance costs, unallocable expenditure, exceptional items and tax. Revenue is external: the note shows 'Less: Inter Segment Revenue \u2014 nil' in every year, so segment revenue = total revenue. Figures taken from the STANDALONE segment note; consolidated notes show the same Sugar revenue and a near-identical Sugar result (FY2024 389.59; FY2026 -904.94). No segment-level EBITDA, tax or PAT is disclosed. The pages carry no separate financials for 'Essentials Limited' / 'Piccadily Food & Essentials Limited' (PFEL) as an entity \u2014 only the Sugar segment of Piccadily Agro.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 27534.36,
      "operating_profit": 389.59,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 121 (standalone Note 37; same figures in MD&A page 38 and consolidated Note 38 page 158)"
+     "source": "Annual Report 2024 \u2014 page 121 (standalone Note 37; same figures in consolidated Note 38, page 158, and MD&A page 38)"
     },
     {
      "fy": "FY2025",
      "revenue": 24950.1,
      "operating_profit": -327.13,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 205 (standalone Note 38 segment reporting)"
+     "source": "Annual Report 2025 \u2014 page 205 (standalone Note 38)"
     },
     {
      "fy": "FY2026",
      "revenue": 23305.03,
      "operating_profit": -904.62,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 142 (standalone Note 38; consolidated Note 39 page 190 shows -904.94)"
+     "source": "Annual Report 2026 \u2014 page 142 (standalone Note 38; consolidated Note 39, page 190, shows revenue 23,305.03 and loss -904.94)"
     }
    ],
    "latest_quarter": {
     "period": "Q1 FY27 (quarter ended 30 June 2026)",
     "revenue": 64.8,
     "operating_profit": null,
-    "source": "Presentation Aug 2026 \u2014 page 8 (\"Revenue from Sugar Vertical\"; deck column is printed \"Q1 FY26\" but page 5 and the cover letter identify the period as Q1 FY2026-27, quarter ended 30 June 2026)"
+    "source": "Presentation Aug 2026 \u2014 page 8 ('Revenue from Sugar Vertical', \u20b9 crore; the column is printed 'Q1 FY26' but the deck covers the quarter ended 30 June 2026, i.e. Q1 FY2026-27, with 66.2 as the prior-year quarter)"
    },
-   "not_found": "Sugar-segment PAT (tax unallocated) for all years; segment-level EBITDA/depreciation-inclusive operating profit and any Sugar profit figure for Q1 FY27 \u2014 quarterly decks give only company-level EBITDA/PBT/PAT."
+   "not_found": "No Sugar-segment PAT, tax, EBITDA, depreciation-adjusted operating profit or quarterly segment profit; only segment revenue is given quarterly. No standalone PFEL entity financials."
   }
  },
  "PRICOLLTD::rationale": {
@@ -4686,41 +4702,41 @@
   }
  },
  "PRICOLLTD::segments": {
-  "stamp": "653c015f6d89c0f976e4c98a7230be89",
+  "stamp": "eeae08c8b51361d0a963ed12f30f445b",
   "verdict": {
-   "segment_name": "Driver Information & Connected Vehicle Solutions (DICVS) / Demerged Undertaking transferred to Pricol Autotech Limited (Resulting Company)",
-   "unit": "not applicable \u2014 no figures disclosed on the supplied pages (annual reports use ` Lakhs for FY2024/FY2025 and ` Crores for FY2026)",
-   "measure_notes": "No segment result, EBIT, EBITDA or PBT line exists for DICVS on these pages. Both the standalone notes (AR2024 p.153, AR2025 p.159, AR2026 p.184-185) defer segment information to the consolidated notes, and the consolidated segment notes (AR2024 p.203, AR2025 p.210, AR2026 p.248) state the Group operates as a single automotive segment with no reportable segment under Ind AS 108. Only geographical revenue splits (within/outside India) are given, which are company-wide, not DICVS-specific. DICVS appears only as a product vertical in presentations (Presentation May 2025 p.6) and in an award mention (Presentation Feb 2026 p.15), with no financials.",
+   "segment_name": "Driver Information and Connected Vehicle Solutions (DICVS) \u2014 Demerged Undertaking transferring to Pricol Autotech Limited",
+   "unit": "as in the document (\u20b9 Lakhs for AR2024/AR2025, \u20b9 Crores for AR2026; INR Million/Crores in presentations) \u2014 no DICVS-specific figures disclosed",
+   "measure_notes": "No profit or revenue line is disclosed for DICVS on these pages. Pricol reports NO reportable operating segment: AR2024 p.203, AR2025 p.210 and AR2026 p.248 all state the Group operates in a single automotive segment under Ind AS 108, with only geographical revenue (within/outside India) and non-current asset splits. Standalone notes (AR2024 p.153, AR2025 p.159, AR2026 p.184) merely cross-refer to the consolidated notes. Presentation May 2025 p.6 names 'Driver Information and Connected Vehicle Solutions' only as a product vertical with no financials; presentation financial pages (e.g. May 2025 p.16) give consolidated-only revenue/EBITDA/PAT.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 203 (no reportable segment); Annual Report 2024 \u2014 page 153"
+     "source": "Annual Report 2024 \u2014 page 203 (no reportable segment; single automotive segment)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 210 (no reportable segment); Annual Report 2025 \u2014 page 159"
+     "source": "Annual Report 2025 \u2014 page 210 (no reportable segment; single automotive segment)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 248 (no reportable segment); Annual Report 2026 \u2014 page 184"
+     "source": "Annual Report 2026 \u2014 page 248 (no reportable segment; single automotive segment)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Aug 2026 \u2014 pages 1, 10, 21, 22 (quarter ended 30 June 2026 deck pages supplied carry no DICVS financials)"
+    "source": "Presentation Aug 2026 \u2014 pages 1, 4, 7, 21, 22 (Q1 FY27 pages carry only consolidated/company-wide data; no DICVS split)"
    },
-   "not_found": "All DICVS/Pricol Autotech revenue, operating profit and PAT figures \u2014 annual and quarterly. Pages carry only consolidated/geographic revenue and whole-company EBITDA/PAT, never the demerged undertaking separately."
+   "not_found": "All DICVS-specific figures: revenue, EBITDA/segment result, PBT and PAT for FY2024\u2013FY2026 and any quarter. Pages carry only consolidated totals and geographic splits, never business-wise financials."
   }
  },
  "STAR::rationale": {
@@ -5375,41 +5391,41 @@
   }
  },
  "JSWENERGY::segments": {
-  "stamp": "ef38ffdd1f0a5f2f6229fae9c0c44d51",
+  "stamp": "12005d38f6ace29b93e015741034c3e9",
   "verdict": {
-   "segment_name": "Boiler Manufacturing Business (GE Power India's boiler manufacturing unit, Durgapur, West Bengal)",
+   "segment_name": "Boiler Manufacturing Business (GE Power India's boiler manufacturing unit, Durgapur, West Bengal) \u2014 acquisition by JSW Energy Limited",
    "unit": "\u20b9 crore",
-   "measure_notes": "No profit or revenue line is disclosed for this business anywhere in the supplied pages. The only reference (Annual Report 2026 \u2014 page 117) is a narrative note that JSW Energy entered into an agreement with GE Power India to acquire its Durgapur boiler manufacturing unit and that the acquisition is 'currently underway'. JSW Energy's own segment reporting (Ind AS 108) splits only into Thermal (Grey), Renewables and Unallocated \u2014 segment results there are 'profit/(loss) before tax and finance costs' (EBIT) and segment revenue is total revenue from operations; neither carries a boiler-manufacturing or equipment-manufacturing segment. No consideration, enterprise value, revenue, EBITDA or PAT for the boiler unit is given.",
+   "measure_notes": "No profit or revenue line exists for this business in the supplied pages. JSW Energy's reportable segments under Ind AS 108 are only Thermal (Grey) and Renewables (Green); there is no boiler-manufacturing or equipment-manufacturing segment, and the entity-wise revenue/EBITDA tables in the quarterly presentations list only power generation/transmission entities. The acquisition of GE Power India's boiler unit is described as 'currently underway' (Annual Report 2026 \u2014 page 117), so it is not yet consolidated and carries no segment disclosure, standalone revenue, EBITDA/segment result, or PAT on these pages.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": null
+     "source": "Not disclosed on supplied pages (segment note: Annual Report 2024 \u2014 page 515 shows only Thermal/Renewables/Unallocated)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": null
+     "source": "Not disclosed on supplied pages (segment note: Annual Report 2026 \u2014 page 320 shows only Thermal/Renewables/Unallocated)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 117 (narrative disclosure of the acquisition only; no financials)"
+     "source": "Annual Report 2026 \u2014 page 117 (acquisition of GE Power's boiler manufacturing business described as 'currently underway'; no financials given)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": null
+    "source": "Not disclosed (Presentation Jul 2026 \u2014 page 38 and Presentation Jan 2026 \u2014 page 36 entity-wise tables carry no boiler-manufacturing entity)"
    },
-   "not_found": "All figures. Pages carry only a narrative note on the GE Power India boiler unit acquisition (AR2026 p117) \u2014 no revenue, EBITDA/EBIT, PAT, consideration or segment line for the boiler business."
+   "not_found": "All figures. Pages carry no revenue, operating profit/EBITDA, segment result or PAT for the boiler manufacturing business \u2014 only a qualitative description of the pending acquisition."
   }
  },
  "HINDUNILVR::rationale": {
@@ -6172,32 +6188,32 @@
   }
  },
  "KITEX::segments": {
-  "stamp": "aa622c3b727be8f524af7d11a9d9b8c9",
+  "stamp": "a96a1f35cd759e449de22acbb353f0ce",
   "verdict": {
-   "segment_name": "Kitex Childrenswear Limited (KCL) \u2014 Demerged/Transferor Company, shown as the unlisted entity merging into KGL",
-   "unit": "INR Cr",
-   "measure_notes": "No profit line of any kind is disclosed for KCL on these pages. The only KCL figure is a single revenue number ('Revenue: INR 425 Cr') on the pre-merger structure chart in the April 2025 investor presentation; it carries no period label, no statement of whether it is external or inter-segment, and no audited basis. Both annual reports and the quarterly/AGM presentations state KGL and the Group operate as ONE segment (Textile \u2013 Infant/Kids Apparel manufacturing), so no segment result, EBIT, EBITDA, PBT or PAT is furnished for the business being separated.",
+   "segment_name": "Kitex Childrenswear Limited (KCL) \u2014 the Transferor/Demerged entity being merged into Kitex Garments Limited; the reports disclose only one operating segment, 'Textile \u2013 Infant / Kids Apparel manufacturing'",
+   "unit": "\u20b9 crore (only KCL figure given); annual report tables are in \u20b9 lakhs",
+   "measure_notes": "No profit line is disclosed for KCL anywhere in these pages. The only KCL-specific figure is a revenue label on the pre-merger structure chart: 'KCL Revenue: INR 425 Cr' (Presentation Apr 2025 \u2014 page 7), undated \u2014 no fiscal year is stated, so it is not assigned to any FY below. Annual Report segment notes for FY2024, FY2025 and FY2026 (standalone and consolidated) state the Company/Group has one operating segment and that no separate segment information is furnished; only geographical revenue and customer-concentration splits are given, which do not isolate KCL. Revenue in those tables is 'Sale of products' to external customers.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 203 (single-segment disclosure; no KCL figures)"
+     "source": "Annual Report 2024 \u2014 page 203 (single-segment note; no KCL figures)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 189 (single-segment disclosure; no KCL figures)"
+     "source": "Annual Report 2025 \u2014 page 189 (single-segment note; no KCL figures)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 207 (single-segment disclosure; no KCL figures)"
+     "source": "Annual Report 2026 \u2014 page 207 (single-segment note; no KCL figures)"
     }
    ],
    "latest_quarter": {
@@ -6206,7 +6222,7 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "All KCL fiscal-year revenue, operating profit and PAT; no segment data (single-segment reporting). Only undated 'Revenue: INR 425 Cr' for KCL appears \u2014 Presentation Apr 2025, page 7."
+   "not_found": "No KCL revenue by fiscal year, no KCL operating profit/EBITDA or PAT, no KCL quarterly data. Only an undated 'INR 425 Cr' KCL revenue label (Presentation Apr 2025 \u2014 page 7)."
   }
  },
  "LT::rationale": {
@@ -6473,11 +6489,11 @@
   }
  },
  "JKPAPER::segments": {
-  "stamp": "f04e99a6495c6f30e1eb82d3041c8c74",
+  "stamp": "4f9fd2cbb35f3e387f16d2c47cf00f82",
   "verdict": {
-   "segment_name": "Enviro Tech Ventures Limited (the Demerged Undertaking / Transferor Company 4); in FY2026 shown as associate \"Enviro Tech Ventures Pvt Ltd. (Formerly named as PSV Agro Products Pvt Ltd.)\" \u2014 not a reported business segment",
-   "unit": "\u20b9 crore (10 Million)",
-   "measure_notes": "No revenue or profit line is disclosed for this business anywhere in the tagged pages. The only entity-level figure is 'Share in Profit/(Loss)' from the consolidation note (Note 38f) \u2014 i.e. the entity's share of consolidated profit after tax, reported here as PAT; it is a post-tax figure, not segment result/EBIT/EBITDA/PBT. Segment reporting (Note 39/60) splits only 'Paper & Packaging' and 'Others' (housing, embedded systems/electro-optics, animal nutrition) and carries no Enviro Tech line, so no revenue (external or inter-segment) and no operating profit can be attributed to the demerged undertaking.",
+   "segment_name": "Enviro Tech Ventures Limited (Demerged Company; FY2026 shown as Associate \"Enviro Tech Ventures Pvt Ltd, formerly named as PSV Agro Products Pvt Ltd\" \u2014 the Resulting Company)",
+   "unit": "\u20b9 crore (10 million)",
+   "measure_notes": "No revenue or profit line is disclosed for this business anywhere on these pages. The segment note (Note 39 in all three annual reports) reports only two segments \u2014 'Paper & Packaging' and 'Others' \u2014 so Enviro Tech is not a reportable segment and has no segment revenue or segment result (PBIT). The only entity-level figures available are from the consolidation schedule (Note 38f, 'share of Net Assets and Profit/(Loss) of Subsidiaries and Joint Venture'): the amount shown is the group's share of that entity's profit/(loss) after tax as consolidated, which I have put in 'pat'. These are standalone-entity shares in consolidated profit, not segment results, and carry no revenue or operating-profit counterpart. Note also that the FY2024 and FY2025 lines are Enviro Tech Ventures Limited excluding its own subsidiary The Sirpur Paper Mills Limited (listed separately), while the FY2026 line is a differently-constituted entity (the Resulting Company, held as an associate), so the three years are not comparable.",
    "years": [
     {
      "fy": "FY2024",
@@ -6507,7 +6523,7 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "Revenue and operating profit/EBITDA for Enviro Tech in all years; any quarterly data (presentations cover only FY21\u2013FY23 group/standalone paper financials). Only consolidation-note share of profit and net assets available."
+   "not_found": "Revenue and operating profit/EBIT/EBITDA for Enviro Tech / PSV Agro in all years; no quarterly figures \u2014 the investor presentations supplied carry only history and market-share slides, no financials."
   }
  },
  "TMPV::rationale": {
@@ -6762,41 +6778,41 @@
   }
  },
  "HSCL::segments": {
-  "stamp": "9da78a6d7eaa66fc7eb92410f6841282",
+  "stamp": "f31b3da9e2fd0c81a4226e2b3f7e5e4c",
   "verdict": {
-   "segment_name": "Tyres Business (Birla Tyres, acquired Oct 2023 by the DBRL\u2013Himadri consortium) \u2014 not a reportable segment in HSCL's segment note",
-   "unit": "\u20b9 lakhs (unit of HSCL's segment note; no tyre-specific figures disclosed)",
-   "measure_notes": "No separate financials for the tyre business appear on the tagged pages. HSCL's consolidated segment note reports two segments in FY2024/FY2025 (Carbon materials and chemicals; Power) and three in FY2026 (adding 'Others' = Mining and Other business, \u20b927,446.09 lakhs external revenue, segment result \u20b92,780.71 lakhs) \u2014 none labelled Tyres, so the Others line cannot be attributed to the tyre business. Where disclosed, 'Segment results' = earnings before other income, finance cost, foreign exchange gain/(loss) net and tax; revenue is split into external and inter-segment. Quarterly presentation figures (EBITDA/PBT/PAT, FY26 revenue \u20b94,660.7 crore) are whole-company standalone/consolidated, not tyre-only.",
+   "segment_name": "Tyre Business of DBRL / Birla Tyres (Demerged Undertaking) \u2014 described in HSCL's reports as \"Our Tyres Business\" but NOT a reportable segment in HSCL's segment note",
+   "unit": "\u20b9 lakhs (annual report segment notes); \u20b9 crore (investor presentations)",
+   "measure_notes": "No profit line is disclosed for the tyre business. HSCL's reportable segments are only Carbon materials and chemicals, Power, and (FY2026 onwards) Others = Mining and Other business \u2014 the Others segment is explicitly mining/other, not tyres. Where HSCL does report segment profit it is 'Segment results' = earnings before other income, finance cost, foreign exchange gain/(loss) (net) and tax, with revenue shown separately as external and inter-segment. Tyre/Birla Tyres mentions are qualitative only (acquisition in Oct 2023 with DBRL, commencement in Q1FY26, ramp-up, \u20b9306 Cr capex) \u2014 no revenue, EBITDA or PAT.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 381 (segments: Carbon materials and chemicals, Power only)"
+     "source": "Annual Report 2024 \u2014 page 381 (segments: Carbon materials and chemicals, Power only; no tyre segment)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 433 (segments: Carbon materials and chemicals, Power only)"
+     "source": "Annual Report 2025 \u2014 page 433 (segments: Carbon materials and chemicals, Power only; no tyre segment)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 504 (segments: Carbon materials and chemicals, Power, Others = Mining and Other business)"
+     "source": "Annual Report 2026 \u2014 page 504 (segments: Carbon materials and chemicals, Power, Others = Mining and Other business; no tyre segment); qualitative tyre discussion on Annual Report 2026 \u2014 page 69"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Jul 2026 \u2014 pages 12-15 (tyre business discussed qualitatively: ramp-up in OHT/CV, PCR by FY29; no financials)"
+    "source": "Presentation Jul 2026 \u2014 pages 12-15 (tyre ramp-up noted, no tyre financials); Presentation May 2026 \u2014 page 7 (consolidated only)"
    },
-   "not_found": "All tyre-business revenue, operating profit and PAT, annual and quarterly. Tyres are not a reportable segment; only qualitative commentary and \u20b9306 crore acquisition capex appear."
+   "not_found": "Pages carry no tyre-business revenue, EBITDA/segment result, or PAT for any year or quarter. Tyres are not a reportable segment; only consolidated/standalone and carbon, power, mining figures appear."
   }
  },
  "LEMONTREE::rationale": {
@@ -7386,11 +7402,11 @@
   }
  },
  "LLOYDSENT::segments": {
-  "stamp": "9ae9531d4ae142faa728365af0da9398",
+  "stamp": "279b7466d5084dc54e86b94416656852",
   "verdict": {
-   "segment_name": "Real Estate (the Real Estate segment of LEL consolidated, i.e. Lloyds Realty Developers Limited / the Demerged Undertaking to be housed in Lloyds Realty Limited)",
-   "unit": "\u20b9 in lakhs for FY2024 and FY2025 (Annual Report 2024 p.169, Annual Report 2025 p.230); \u20b9 in Crore for FY2026 (Annual Report 2026 p.300) \u2014 as printed in each document",
-   "measure_notes": "operating_profit = the segment-reporting line 'Segment Results: Operating Net Profit' (before finance cost, before unallocable corporate income and before exceptional items), i.e. a segment result / EBIT-type measure, not EBITDA. Revenue is 'Segment Revenue: External' \u2014 for Real Estate there is no inter-division/inter-company transfer in any of the three years, so external = total. Segment PBT is also disclosed: FY2024 (130.98) lakhs loss, FY2025 1,330.14 lakhs, FY2026 0.83 crore (FY2026 PBT is after an exceptional item of (4.09) crore). Segment PAT is not disclosed \u2014 no tax allocation by segment. FY2024 figures come from the consolidated segment note, which that year had two segments (Real Estate; Steel and Engineering Products); FY2025 and FY2026 notes have four segments (Real Estate, Steel, Engineering, Electrical).",
+   "segment_name": "Real Estate (Demerged Undertaking \u2014 real estate business of Lloyds Realty Developers Limited, to be demerged into Lloyds Realty Limited)",
+   "unit": "\u20b9 lakhs for FY2024 and FY2025; \u20b9 crore for FY2026 (as printed in the respective consolidated segment notes)",
+   "measure_notes": "Operating profit = 'Segment Results: Operating Net Profit' from the consolidated Ind AS 108 segment note \u2014 a segment result stated before finance cost (EBIT-like, after depreciation), not EBITDA. Segment PBT is also disclosed: FY2024 (130.98) lakhs, FY2025 1,330.14 lakhs, FY2026 0.83 crore (FY2026 PBT includes an exceptional item of (4.09) crore). Revenue shown is External segment revenue; the real-estate segment had no inter-company transfers in any of the three years, so external = total. Segment PAT is not disclosed \u2014 the note stops at profit before tax. FY2024 is the Real Estate column of a two-segment note (Real Estate / Steel and Engineering Products); FY2025 and FY2026 are the Real Estate column of a four-segment note (Real Estate / Steel / Engineering / Electrical). FY2023 comparatives in the FY2024 note are blank (LRDL acquired 31 January 2024).",
    "years": [
     {
      "fy": "FY2024",
@@ -7420,7 +7436,7 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "No segment PAT any year; no real-estate/LRDL quarterly revenue or profit in the Q1 FY27, Feb 2026, May 2026 or Nov 2025 presentations \u2014 only land-bank and MoU commentary."
+   "not_found": "Segment PAT for all years; any Q1 FY27 or other quarterly real-estate / LRDL revenue and profit \u2014 the Aug 2026 presentation gives only group and LEWL figures."
   }
  },
  "MAXHEALTH::rationale": {
@@ -8604,6 +8620,159 @@
    ],
    "what_management_expects": "Nothing is stated. Management gave no expectations for margins, capital allocation, valuation or focus for any entity. The only forward-looking words are Gautam's deferral \u2014 avoid 'disruption,' let things 'stabilize and then we will move on' \u2014 plus the untruncated hint that mattress and other foam businesses are fundamentally different. The filings express expectations only as the 52:100 share entitlement.",
    "gaps": "Everything: no separation rationale, no business to be separated, no financials, synergies, debt, capital or valuation logic, no lender/partner/investor demands, no timeline, no post-separation plan."
+  }
+ },
+ "SUZLON::rationale": {
+  "stamp": "a274a7f7f12c931b7851bd9f61603c89",
+  "verdict": {
+   "rationale": "The supplied texts do not document the separation of any business by Suzlon Energy Ltd. The 'CALL PASSAGES' section was delivered empty, so no earnings-call commentary on a demerger, carve-out, or spin-off is available, and no businesses, segments, subsidiaries, margins, capital-allocation targets, or requests from investors, lenders or partners are named anywhere in the material. The only document provided is a 30th April 2026 Regulation 30 disclosure to NSE and BSE about a 'Scheme of Arrangement in the nature of Reorganisation and Reclassification of Reserves of Suzlon Energy Limited' \u2014 a balance-sheet and reserves restructuring at a single legal entity, not a separation of a business. Its operative content is purely accounting: the negative balance in Retained Earnings as on the Appointed Date is to be adjusted chronologically against Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium and General Reserve, after which the balance in the General Reserve Account is reclassified to the Retained Earnings Account. The NCLT, Ahmedabad Bench, sanctioned this Scheme by order dated 29th April 2026, and it becomes effective from the Appointed Date of 30th September 2024 upon filing the certified order copy with the Registrar of Companies, Gujarat. The filing explicitly defers substance: the actual accounting impact with detailed disclosures and notes will appear in the audited FY-ended 31st March 2026 financial statements after Board approval. No rationale section \u2014 no stated problem solved, no benefit claimed, no requesting stakeholder \u2014 is present in the truncated text provided, so any 'why' for a business separation would have to be imported from memory, which the instructions forbid.",
+   "evolution": "No call-by-call evolution can be reconstructed, because no call passages with dates or labels were supplied. The only chronology visible is procedural, from the filing's own cross-references: an initial letter on the subject dated 28th October 2024, a further letter dated 12th December 2025, the NCLT sanction order dated 29th April 2026, and this disclosure dated 30th April 2026, all running against an Appointed Date of 30th September 2024. That sequence shows a roughly 18-month regulatory approval process for a reserves reorganisation, not the emergence or reshaping of a separation plan.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The Scheme is characterised not as a demerger or business transfer but as a reorganisation and reclassification of reserves within Suzlon Energy Limited itself, approved by the NCLT Ahmedabad Bench.",
+     "quote": "Sub.: Order passed by the National Company Law Tribunal, Ahmedabad Bench (the \u2018NCLT\u2019) approving the Scheme of Arrangement in the nature of Reorganisation and Reclassification of Reserves of Suzlon Energy Limited (the \u2018Scheme\u2019)."
+    },
+    {
+     "call": "Scheme",
+     "point": "The operative mechanic is writing off accumulated losses: the negative Retained Earnings balance at the Appointed Date is set off chronologically against five named reserves.",
+     "quote": "In terms of the Scheme, negative balance in the Retained Earnings of the Company as on the Appointed Date shall be adjusted chronologically against the following reserves, viz., Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium, and General Reserve."
+    },
+    {
+     "call": "Scheme",
+     "point": "After that set-off, whatever remains in General Reserve is moved into Retained Earnings \u2014 the step that would restore a distributable/positive retained earnings line.",
+     "quote": "Further, the Company shall reclassify the balance, in the General Reserve Account to the Retained Earnings Account."
+    },
+    {
+     "call": "Scheme",
+     "point": "Sanction was obtained on 29th April 2026, with retrospective effect from the Appointed Date of 30th September 2024 once the certified order is filed with the RoC, Gujarat.",
+     "quote": "On filing of the certified copy of the Order with the Registrar of Companies, Gujarat, the Scheme would become effective from 30th September 2024, being the appointed date (\u201cAppointed Date\u201d), in terms of the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "No quantification is given in the filing; the company defers all numbers and notes to the FY2026 audited accounts, subject to Board approval.",
+     "quote": "This is to further clarify that the actual accounting impact, together with detailed disclosures and notes, will be presented in the audited financial statements of the Company for the year ended 31st March 2026, following due consideration and approval by the Board of Directors of the Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "The disclosure is a continuation of earlier intimations on the same subject, dated 28th October 2024 and most recently 12th December 2025, indicating a long-running approval process.",
+     "quote": "This is in continuation to our letter dated 28th October 2024 and other letters in the subject matter and lastly dated 12th December 2025."
+    }
+   ],
+   "what_management_expects": "Nothing is stated about any separated entity's margins, capital, valuation or focus \u2014 no such entity appears in these texts. The only expectation expressed is mechanical and accounting-level: accumulated losses in Retained Earnings are extinguished against Capital, Capital Contribution, Capital Redemption, Securities Premium and General Reserves, with residual General Reserve reclassified to Retained Earnings; the quantified impact is deferred to the audited FY2026 statements.",
+   "gaps": "Everything: no call passages were supplied, and the filing gives no separation, no businesses, no numbers, no stated benefit, no requesting investors, lenders or partners, and no rationale text."
+  }
+ },
+ "TATACOMM::rationale": {
+  "stamp": "873e6558f3e84b83c5f75a9bf11d0a31",
+  "verdict": {
+   "rationale": "The texts describe not a listed-entity spin-off but a composite scheme of arrangement among three wholly-owned subsidiaries of Tata Communications Limited, disclosed to NSE/BSE under Regulation 30 on January 22, 2026. Mechanically, the Non-licensed Business undertaking of Solutions Infini Technologies (India) Private Limited (the Transferor Company) is demerged into Novamesh Limited (the Transferee Company), and the residual Solutions Infini entity \u2014 which is what retains the licensed business \u2014 is then amalgamated into Tata Communications Collaboration Services Private Limited (the Surviving Company), after which the Transferor Company ceases to exist. The Appointed Date is April 1, 2025, with the scheme to be filed before the Mumbai bench of the NCLT under Sections 230\u2013232 of the Companies Act, 2013. The stated reasons are purely structural and cost-driven: operational synergies, centralisation, simplification, streamlining, efficient administration, reduction of administrative costs, and productivity gains from pooling financial, managerial and technical resources, personnel capabilities, skills, expertise and technologies. Management also claims enhanced potential for higher revenues and profits for Novamesh and TC Collaboration Services via synergistic linkages, economies of scale from combining businesses, and rationalisation of the management and administrative structure. A third reason is regulatory: the scheme removes the multiplicity of legal and other regulatory compliances each entity must otherwise carry out separately \u2014 the split of licensed versus non-licensed activity being the evident driver \u2014 and cuts the running costs and overheads of operating in separate entities. The filing explicitly states no benefit accrues to the promoter/promoter group (marked 'Not Applicable'), no shareholding-pattern change results since all three entities remain wholly-owned subsidiaries, and the scheme is not prejudicial to members, creditors, employees or the general public. No quantitative or qualitative effect was furnished \u2014 that row of Annexure A was left blank, merged into the reasons row.",
+   "evolution": "Only one call passage was supplied (Oct 2024), and it does not mention this demerger at all; it discusses M&A ambition, the Digital Platforms and Services (DPS) focus area, openness to complementary capacity in core connectivity, and funding inorganic growth through 'monetisation opportunities and value unlocking opportunities' \u2014 framing value unlock generally rather than announcing a separation. The separation itself appears only in the January 22, 2026 scheme intimation, roughly fifteen months later, with a backdated Appointed Date of April 1, 2025, implying the restructuring was in motion well before disclosure. The prompt's premise of three years of calls is not borne out by the passages given, so no call-by-call progression of the idea can be traced from these texts.",
+   "points": [
+    {
+     "call": "Oct 2024",
+     "point": "Management framed funding of inorganic growth around existing monetisation and value-unlocking opportunities, with M&A targeted at Digital Platforms and Services plus complementary capacity in core connectivity \u2014 but said nothing about demerging any business.",
+     "quote": "I think Kabir talked about the several monetisation opportunities and value unlocking opportunities that we have."
+    },
+    {
+     "call": "Oct 2024",
+     "point": "CFO Kabir Ahmed Shakir stated the three governing M&A criteria \u2014 responsible, strategic, value-creating for everyone \u2014 and confirmed an active M&A funnel, indicating portfolio reshaping intent without reference to a separation.",
+     "quote": "It has to be responsible, it has to be strategic, and it has to create value for everyone."
+    },
+    {
+     "call": "Scheme",
+     "point": "The structure is a two-step composite arrangement: Solutions Infini's Non-licensed Business demerges into Novamesh Limited, then Solutions Infini amalgamates into Tata Communications Collaboration Services and ceases to exist.",
+     "quote": "a composite scheme of arrangement for the demerger of Solutions Infini Technologies (India) Private Limited's ('Transferor Company') Non-licensed Business undertaking into Novamesh Limited ('Transferee Company') and the subsequent amalgamation of the Transferor Company into Tata Communications Collaboration Services Private Limited ('Surviving Company') ('Scheme') has been approved by the respective board of directors of all the entities involved in the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "Primary rationale is administrative consolidation \u2014 synergies, centralisation and cost reduction through pooling of financial, managerial and technical resources and capabilities.",
+     "quote": "operational synergies, centralisation, simplification, streamlining and facilitation of efficient administration and reduction of administrative costs and productivity gains by pooling of financial, managerial and technical resources, personnel capabilities, skills, expertise and technologies of the entities;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Second rationale is earnings-led: synergistic linkages and economies of scale are expected to raise revenues and profits at both Novamesh and TC Collaboration Services, partly via management-structure rationalisation.",
+     "quote": "enhanced potential for higher revenues and profits for the Transferee Company, the Surviving Company and their shareholders."
+    },
+    {
+     "call": "Scheme",
+     "point": "Third rationale is compliance relief \u2014 eliminating duplicated legal and regulatory obligations across three entities and the overheads of running separate entities, consistent with segregating licensed from non-licensed telecom activity.",
+     "quote": "the Scheme would remove the multiplicity of legal and other regulatory compliances, required to be carried out by the Transferor Company, Transferee Company, and the Surviving Company separately and significantly reduce the various running costs and overheads involved in running the businesses in separate entities; and"
+    },
+    {
+     "call": "Scheme",
+     "point": "No shareholding or promoter consequence: all three entities are and remain wholly-owned subsidiaries of Tata Communications, so there is no listed-level share issuance or dilution.",
+     "quote": "All the three entities involved in the Scheme are wholly-owned subsidiaries of Tata Communications Limited."
+    },
+    {
+     "call": "Scheme",
+     "point": "Promoter/group benefit is explicitly disclaimed, and the scheme is asserted to be non-prejudicial to members, creditors, employees and the public.",
+     "quote": "The Scheme shall not be in any manner prejudicial to the interest of the concerned members, creditors, employees or general public at large."
+    },
+    {
+     "call": "Scheme",
+     "point": "Timing and process: NCLT Mumbai filing under Sections 230\u2013232, with a retrospective Appointed Date of April 1, 2025, subject to tribunal direction.",
+     "quote": "The Appointed Date of the Scheme shall be April 1, 2025 or such other date as may be determined in accordance with the terms of the said Scheme or directed or allowed by the jurisdictional NCLT."
+    }
+   ],
+   "what_management_expects": "For Novamesh (receiving the non-licensed business) and TC Collaboration Services (absorbing the residual licensed entity): higher revenues and profits, economies of scale, synergistic linkages, lower administrative costs and overheads, productivity gains from pooled resources, a rationalised management structure, and fewer duplicated legal and regulatory compliances. No margin, capital, valuation or focus figures were quantified; Tata Communications' consolidated ownership is unchanged.",
+   "gaps": "No quantification (Annexure A rows 2 blank), no revenue/EBITDA/cost-saving figures, no definition of licensed versus non-licensed scope, no investor, lender or partner demand, no management commentary on any call."
+  }
+ },
+ "TVSMOTOR::rationale": {
+  "stamp": "afcddffa26e92a86d3d3168e2376f008",
+  "verdict": {
+   "rationale": "The supplied texts do not support the premise of a separation/demerger: the CALL PASSAGES section is empty (no earnings-call text was provided), and the only rationale text given is for an amalgamation \u2014 the opposite transaction. Per Clause C of the Scheme, Sundaram Auto Components Limited (the Transferor Company, a wholly owned subsidiary) is being consolidated INTO its holding company (the Transferee Company, named only as 'Anr' in this extract, so the texts do not confirm which entity it is), 'with the objective of simplifying the group structure.' Four benefits are cited: (i) streamlining the corporate structure and consolidating assets and liabilities to create 'synergies of operations' and 'expansion and long-term sustainable growth' enhancing value for the Transferee Company's stakeholders; (ii) reducing 'the multiplicity of legal and regulatory compliances through rationalization'; (iii) reducing administrative responsibilities and multiplicity of records, with 'cost savings and elimination of duplicate expenses'; and (iv) achieving 'optimal and efficient utilization of capital' plus operational and management efficiencies. Mechanics confirm it is a wholly-internal consolidation, not a separation: no consideration is issued because the Transferor is a wholly owned subsidiary (Clause 8), the Transferor's entire share capital held by the Transferee is cancelled, the Transferor is dissolved without winding up and struck off the RoC records (Clause 11), its authorised share capital is combined into the Transferee's (Clause 12), and accounting follows the Pooling of Interest Method under Appendix C of Ind AS 103 (common-control combination) at carrying values from the Transferee's consolidated financials. The Appointed Date is the opening hours of 01.04.2025, which the Regional Director asked be fixed as 1 April 2025 under Section 232(6). No figures of any kind \u2014 revenue, margins, capital employed, valuation \u2014 appear anywhere in the supplied text, and no investor, lender or partner is identified as having asked for the transaction.",
+   "evolution": "No earnings-call passages were supplied, so the idea's emergence and evolution across calls cannot be reconstructed at all, and no call dates exist in the material. The only datable sequence is procedural, from the NCLT Chennai filing CP(CAA)/95(CHE)2025 in CA(CAA)/79(CHE)2025: statutory notices to the Regional Director (Southern Region), Registrar of Companies Chennai, the Income Tax Department and the Official Liquidator all dated 14.01.2026, a Tamil newspaper publication on 17.01.2026, and the Regional Director's report filed 02.03.2026 under S.R. No. 897 \u2014 all against an Appointed Date of 01.04.2025. The RD also flagged that the Transferor has 7 equity shareholders and had filed MGT-6 but not BEN-2, and raised an observation on the Transferor's audited balance sheet for the year ended 31.03.2024 (text truncated).",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The stated object is group-structure simplification via consolidation of a wholly owned subsidiary (Sundaram Auto Components Limited) into its holding company \u2014 an amalgamation, not a separation of a business.",
+     "quote": "With the objective of simplifying the group structure, it is proposed to consolidate the  assets and liabilities of the Transferor Company with the Transferee Company, its holding  company."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (i): streamlining the corporate structure and pooling assets and liabilities is said to create operating synergies, expansion and long-term sustainable growth, enhancing value for the holding company's stakeholders.",
+     "quote": "Streamlining of the corporate structure and consolidation of assets and liabilities of the Transferor Company with the Transferee Company, leading to synergies of  operations and resulting in the expansion and long -term sustainable growth, which  will enhance value for various stakeholders of the Transferee Company;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (ii): the compliance burden of maintaining a separate legal entity is cut by rationalising duplicated legal and regulatory obligations.",
+     "quote": "Simplification of corporate structure by reducing the multiplicity of legal and  regulatory compliances through rationalization;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (iii): administrative load, duplicate record-keeping and duplicate expenses are removed, producing cost savings \u2014 no quantification of those savings is given.",
+     "quote": "Reduction of administrative responsibilities, multiplicity of records and legal and  regulatory compliances, cost savings and elimination of duplicate expenses; and"
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (iv): capital is to be deployed more efficiently once held in one entity, with better operational and management efficiency.",
+     "quote": "Achieve optimal and efficient utilization of capital, enhance operational and  management efficiencies."
+    },
+    {
+     "call": "Scheme",
+     "point": "No shares or cash change hands because the target is already 100% owned; the Transferee's investment and the Transferor's share capital are simply cancelled \u2014 confirming this is an internal clean-up, with no value transfer to outside shareholders.",
+     "quote": "8.1 Since the Transferor Company is wholly owned subsidiary of the Transferee Company, upon amalgamation of the Transferor Company with the Transferee Company, no consideration shall be issued by the Transferee Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "The subsidiary ceases to exist entirely \u2014 dissolved without winding up and struck off the RoC register from the Effective Date \u2014 which is incompatible with a spin-off or demerger where a business continues in a separate listed vehicle.",
+     "quote": "On the Scheme becoming effective, the Transferor Company shall stand dissolved without being wound up and the Board and any committees thereof shall without any further act, instrument or deed be and stand discharged."
+    },
+    {
+     "call": "Scheme",
+     "point": "Accounting is common-control pooling of interests at carrying values from the Transferee's consolidated accounts, with intercompany balances cancelled and any surplus/deficit to Capital Reserve \u2014 so no fair-value step-up or P&L gain arises.",
+     "quote": "The Transferee Company shall record the assets and liabilities, if any, of the Transferor Company vested in it pursuant to this Scheme, at the carrying values as appearing in the consolidated financial statements of the Transferee Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "Employees transfer on terms no less favourable with continuity of service and transfer of PF, gratuity, superannuation and NPS balances; the Transferor's authorised capital is combined into the Transferee's without fresh stamp duty or RoC fees.",
+     "quote": "For this purpose, the filing fees and stamp duty already paid by the Transferor Company on its authorized share capital shall be utilized and applied to the increased share capital of the Transferee Company, and shall be deemed to have been so paid by the Transferee Company on such combined authorised share capital and accordingly, the Transferee Company shall not be required to pay any fees/ stamp duty on the authorised share capital so increased."
+    }
+   ],
+   "what_management_expects": "Only for the combined (Transferee) entity, and only qualitatively: operating synergies, expansion and long-term sustainable growth, enhanced stakeholder value, simpler structure with fewer legal/regulatory compliances, lower administrative cost from eliminating duplicate records and expenses, and optimal, efficient capital utilisation with better operational and management efficiency. No margin, capital or valuation figures are stated, and nothing is said about a second standalone entity because none survives.",
+   "gaps": "Everything: no earnings-call text was supplied; no numbers, no named businesses beyond the Transferor, no Transferee identity, no requesting investors, lenders or partners, and no separation at all \u2014 the filing describes an amalgamation."
   }
  }
 }
