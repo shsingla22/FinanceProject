@@ -208,19 +208,31 @@
   }
  },
  "THOMASCOOK": {
-  "stamp": "f8d55bcbcc273689e865da59d4ce5a85",
+  "stamp": "751f929d0946db4cbcb66573d99039b6",
   "verdict": {
-   "what_is_spun": "TCIL's resorts and resort management business (6 Nature Trails resorts) into Sterling Holiday Resorts Limited",
-   "reason": "Unlock value by separating resorts into SHRL, which has hotel-operating expertise; attract differentiated investor cohorts, sharper focus per vertical, and pave way for SHRL's listing in fast-growing hospitality industry",
+   "what_is_spun": "TCIL's Resorts and Resort Management business \u2014 6 resorts under the Nature Trails brand \u2014 into Sterling Holiday Resorts Limited",
+   "demerged_business_names": [
+    "Resorts and Resort Management business",
+    "Resorts and Resort Management Business of TCIL",
+    "Demerged Undertaking",
+    "resorts and resort management business",
+    "Nature Trails",
+    "Sterling Holiday Resorts Limited",
+    "SHRL",
+    "Resulting Company",
+    "resort business"
+   ],
+   "reason": "Unlock value for TCIL shareholders, attract differentiated investor cohorts per segment, streamline capital structure for improved EPS, sharper strategic/operational focus; SHRL has expertise in similar hospitality business and can chart its own growth.",
    "reason_class": "value_unlocking",
-   "insiders": "Promoters hold 100% of SHRL pre-scheme, 65.55% post (includes 7% held by TCIL); ESOP Trust 2.16% after 65,70,000 ESOP Options 2024 are accelerated; public 32.30%",
-   "hidden_value": "The transferred undertaking is tiny (INR 70 crores, ~0.4% of standalone turnover), but SHRL itself holds over 72 resorts across 62 locations \u2014 a large hospitality asset base getting its own listing; TCIL also gets improved EPS from capital reduction",
+   "insiders": "Promoters hold 100% of SHRL pre-scheme, 65.55% post (incl. 7% held by TCIL); ESOP Trust 2.16% after 65,70,000 ESOP Options 2024 accelerate. Fairbridge Capital (Mauritius)/Fairfax holds 63.83% of TCIL.",
+   "hidden_value": "The demerged undertaking is tiny \u2014 INR 70 Crores turnover, ~0.4% of TCIL standalone \u2014 yet shareholders receive 0.81 shares of SHRL, a leisure hospitality company with over 72 resorts, hotels and retreats across 62 locations in India.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Newly listed hospitality entity in a different industry from TCIL's travel services, 32.30% public float, 0.81 shares per TCIL share",
+   "selling_pressure_why": "Newly listed hospitality entity distributed to TCIL holders; public gets 32.30%; different industry from TCIL's travel services. Index status not stated.",
    "parent_or_spin": "both",
-   "option_pricing_date": "not stated; ESOP Options 2024 accelerate 7 working days before Record Date 1",
-   "read_next": "The Scheme itself \u2014 SHRL standalone financials, debt and the share entitlement ratio valuation report behind 81:100",
-   "quote": "The turnover of the Demerged  Undertaking for the year ended 31st December  2025 was INR 70 Crores representing ~0.4% of the total standalone turnover  of the Company for the year ended 31st December  2025."
+   "option_pricing_date": "not stated",
+   "listing_timeline": "Not dated; filing says listing sought on BSE and NSE \"upon receipt of requisite approvals\". On the May 2026 call Debasis Nandy said at Board approval \"it will take us 12 to 15 months. The project is currently on track\"; consolidation expected within 15 to 18 months from the March 20, 2026 Board approval.",
+   "read_next": "The Scheme's definition of Demerged Undertaking and SHRL's standalone financials \u2014 what assets, debt and earnings actually move.",
+   "quote": "Further, SHRL's Board is of the view that SHRL matured over the years and is well poised to chart its own growth path and operate as a separate listed entity in the fast -growing hospitality industry."
   }
  },
  "REFEX": {
@@ -1213,6 +1225,155 @@
    "option_pricing_date": "not stated",
    "read_next": "Note 36(i) of FY2024-25 financials on pending GST and income-tax disputes transferring to TVS Motor",
    "quote": "Since the Transferor Company is wholly owned subsidiary of the Transferee Company, upon amalgamation of the Transferor Company with the Transferee Company, no consideration shall be issued by the Transferee Company."
+  }
+ },
+ "THOMASCOOK::rationale": {
+  "stamp": "c1e202c77913ef91f2cd7ceac3c95e76",
+  "verdict": {
+   "rationale": "Thomas Cook (India) Ltd. (TCIL) is carving out its Resorts and Resort Management Business and demerging it into Sterling Holiday Resorts Ltd. (SHRL), its wholly owned hospitality subsidiary, which will then be listed separately on BSE and NSE. The Board's stated logic is a split by industry dynamics: TCIL is a travel company (Travel Services and Financial Services/foreign exchange) that happens to own and operate resorts across India \u2014 including curated segments like Adventure Holidays (trekking, kayaking, rafting, zip lining), Educational trips (survival skills, self-defence, nature appreciation) and Corporate Getaways (team building, wellness, leadership) \u2014 while SHRL already has deep experience running hotels for a different demographic, so TCIL and SHRL's Boards believe the resort assets 'would reap more benefits on account of expertise of SHRL in similar kind of business.' SHRL's Board separately says SHRL has 'matured over the years' and is 'well poised to chart its own growth path' as a standalone listed company in the fast-growing hospitality industry. The demerged undertaking is small in TCIL's revenue terms \u2014 INR 70 crore of turnover for the year ended 31 December 2025, about 0.4% of standalone turnover \u2014 so the move is about focus, structure and value rather than size: management (Mahesh Iyer) said the restructuring lets TCIL 'streamline our capital structure and concentrate our resources on our core Travel and Financial Services business,' and that the scheme will 'unlock value for our shareholders.' The demerger rides inside a composite scheme that also (a) merges three dormant, non-operative wholly owned subsidiaries \u2014 TC Visa Services (India), Jardin Travel Solutions and Borderless Travel Services \u2014 which are 'incurring unnecessary compliance and administrative costs,' and (b) consolidates TCIL's face value 4 Re-1 shares into 1 Rs-4 share, followed by a reduction of face value from Rs 4 to Rs 3 with no payment to shareholders; management said the face-value consolidation plus the dormant-subsidiary merger 'further simplifies our corporate structure and improves our Earnings Per Share.' The scheme says the consolidation should improve key financial ratios so the share price better reflects intrinsic value and conveys 'stronger financial stability and valuation metrics.' No cash changes hands: TCIL shareholders get 81 SHRL shares of Rs 10 each for every 100 TCIL shares of Re 1 each, leaving SHRL at an indicative 65.55% promoter (including 7% retained by TCIL), 2.16% ESOP trust and 32.30% public, with 65,70,000 ESOP 2024 options accelerated; TCIL's own shareholding pattern is unchanged. Timing context matters: FY26 consolidated income rose 3% to INR 83,982 million but EBT fell 14% to INR 3,268 million on the Middle East geopolitical crisis (hitting Desert Adventures, the Middle East destination management unit, and DEI, with ~50% of revenue from UAE), while TCIL sits on roughly INR 16 billion (INR 1,600 crore) of forex float against INR 277 crore debt, i.e. ~INR 730-740 crore net cash.",
+   "evolution": "The idea first surfaced from the sell side, not management: on the May 2024 call Dhaval Desai asked whether Sterling's margin profile would hold and whether 'at any point in time in future, would we think of demerging Sterling and listing it separately' \u2014 Vikram Lalvani answered only the margin half (hospitality margins run 30-35%, Sterling is already there and should stay at 34-36%) and the passage shows no commitment on the demerger. Nothing further appears until March 2026, when the Board granted in-principle approval for the demerger of the resort business into Sterling Holiday Resorts, announced as a 'strategic divestment.' By the May 2026 call it had become live execution: Mahesh Iyer framed it as capital-structure streamlining and value unlock, Vikram Lalvani confirmed 'the demerger process from Thomas Cook has also been initiated' alongside Sterling's own brand re-architecture over the next 2-4 quarters, and after Ananya Khanna (Alpha Alternatives) asked for timeline clarity, Debasis Nandy said the Board-approved 12-15 month plan is on track, applications are filed with NSE and BSE with queries being answered, and completion is still expected by Q1 FY28 \u2014 the original guided timeline.",
+   "points": [
+    {
+     "call": "May 2024",
+     "point": "An analyst, not management, raised the separation idea \u2014 asking whether Thomas Cook would ever demerge Sterling and list it separately; the passage shows no management answer to that part.",
+     "quote": "And also, at any point in time in future, would we think of demerging Sterling and listing it separately?"
+    },
+    {
+     "call": "May 2024",
+     "point": "Vikram Lalvani answered only the margin question, positioning Sterling as already at best-in-class hospitality margins (industry 30-35%, several brands still aspiring to 35%) and guiding 34-36% going forward \u2014 the profitability case that later underpins a standalone listing.",
+     "quote": "Now even going forward, it will be in this range of 34% to 36%."
+    },
+    {
+     "call": "May 2026",
+     "point": "Mahesh Iyer disclosed that the Board granted in-principle approval in March 2026 for demerging the resort business into Sterling Holiday Resorts, describing it as a strategic divestment that will unlock shareholder value.",
+     "quote": "Before we move on to the segmental analysis, I will discuss the strategic divestment announcement that was made in March 2026, where the Board has granted in -principle approval for the demerger of our resort business into Sterling Holiday Resorts."
+    },
+    {
+     "call": "May 2026",
+     "point": "For TCIL specifically, the stated benefit is a cleaner capital structure and undivided resource focus on the two core engines \u2014 Travel and Financial Services.",
+     "quote": "For Thomas Cook (India) Limited, this restructuring allows us to streamline our capital structure and concentrate our resources on our core Travel and Financial Services business."
+    },
+    {
+     "call": "May 2026",
+     "point": "Management bundled the demerger with a face-value consolidation and the absorption of three dormant subsidiaries, citing a simpler corporate structure and higher EPS as direct shareholder benefits.",
+     "quote": "The consolidation of our face value per share, along with the merger of the three dormant subsidiaries , further simplifies our corporate structure and improves our Earnings Per Share, directly benefiting our shareholders."
+    },
+    {
+     "call": "May 2026",
+     "point": "Vikram Lalvani said Sterling has attained meaningful scale (Sterling ONE on distributed ledger technology, direct access to 7,000 travel partners and 360 corporates), is planning a full brand re-architecture over the next 2-4 quarters, and that the demerger from Thomas Cook has been initiated in parallel.",
+     "quote": "In parallel, as you are aware, the demerger process from Thomas Cook has also been initiated."
+    },
+    {
+     "call": "May 2026",
+     "point": "Lalvani framed Sterling's post-transformation phase as accelerated value creation \u2014 faster and better growth with stronger operating leverage, cash generation and disciplined capital allocation \u2014 the standalone-entity pitch.",
+     "quote": "Sterling is now just not growing faster: it is growing better with greater predictability, stronger operating leverag e, increasing cash generation and disciplined capital allocation."
+    },
+    {
+     "call": "May 2026",
+     "point": "An institutional investor, Ananya Khanna of Alpha Alternatives, pressed management for demerger timeline clarity alongside questions on the weak financial services segment and monsoon risk to resorts.",
+     "quote": "And third thing, if we could get some clarity on the timeline for the demerger, that would be great."
+    },
+    {
+     "call": "May 2026",
+     "point": "Debasis Nandy confirmed the process is on track against the 12-15 month plan approved by the Board, with NSE and BSE applications filed and exchange queries being answered, and completion expected by Q1 FY28 per the original timeline.",
+     "quote": "We expect this process to get completed by Q1 of FY '28, which was the original timeline that we had intimated."
+    },
+    {
+     "call": "May 2026",
+     "point": "Context for the restructuring: FY26 income rose 3% to INR 83,982 million but EBT fell 14% to INR 3,268 million on the Middle East war, which hit Desert Adventures and DEI (~50% of DEI revenue from UAE).",
+     "quote": "On a full year basis, while our income increased to INR 83,982 million, a 3% increase on a consolidated basis, our EBT was impacted by the geopolitical crisis and was 14% lower than last year at INR 3,268 million."
+    },
+    {
+     "call": "May 2026",
+     "point": "Balance-sheet backdrop confirmed on the call: roughly INR 1,600 crore of forex float against INR 277 crore of debt, implying about INR 730-740 crore of net cash; float balances are flat versus December because customers are not travelling and money is sitting on cards.",
+     "quote": "1,600 crores of float minus the debt of INR 277 crores. So net cash with the company as of now should be closer to about INR 730 crores - INR740 crores."
+    },
+    {
+     "call": "Scheme",
+     "point": "The demerged undertaking is tiny relative to TCIL's standalone revenue base, sizing the transaction as a focus/structure move rather than a disposal of material revenue.",
+     "quote": "The turnover of the Demerged Undertaking for the year ended 31st December 2025 was INR 70 Crores representing ~0.4% of the total standalone turnover of the Company for the year ended 31st December 2025."
+    },
+    {
+     "call": "Scheme",
+     "point": "The core operating argument is capability fit: TCIL's resorts and resort-management business (Adventure Holidays, Educational trips, Corporate Getaways) should sit with SHRL, which already runs hotels for a different demographic.",
+     "quote": "TCIL and SHRL's Board believes that the Resorts and Resort Management Business of TCIL would reap more benefits on account of expertise of SHRL in similar kind of business."
+    },
+    {
+     "call": "Scheme",
+     "point": "SHRL's Board argues the subsidiary has matured enough to set its own strategy and be valued as a standalone hospitality listing.",
+     "quote": "Further, SHRL's Board is of the view that SHRL matured over the years and is well poised to chart its own growth path and operate as a separate listed entity in the fast -growing hospitality industry."
+    },
+    {
+     "call": "Scheme",
+     "point": "The overarching objective is to segregate business verticals so each listed entity chases opportunities matched to its own industry dynamics, improving operational efficiency and profitability.",
+     "quote": "In this manner, the two listed entities can each pursue growth opportunities that are more aligned with their own industry dynamics, leading to improved operational efficiencies and profitability."
+    },
+    {
+     "call": "Scheme",
+     "point": "Consideration is all-stock and no cash: 81 SHRL shares of Rs 10 face value for every 100 TCIL shares of Re 1, with SHRL to be listed on BSE and NSE; TCIL's own shareholding pattern is unchanged except for accelerated ESOP shares.",
+     "quote": "SHRL shall issue and allot 81 (Eighty One) fully paid up equity shares of face value of Rs. 10 each for every 100 (One Hundred) fully paid up equity shares of Re. 1 each to the equity shareholders of TCIL ,"
+    },
+    {
+     "call": "Scheme",
+     "point": "Indicative post-scheme SHRL ownership mirrors TCIL: 65.55% promoters (including 7% retained by TCIL), 2.16% ESOP trust and 32.30% public, with 65,70,000 ESOP 2024 options accelerated before Record Date 1.",
+     "quote": "SHRL is presently a wholly owned subsidiary of TCIL . Pursuant to the effectiveness of the Demerger , each shareholder of TCIL , subject to applicable law, will be issued equity shares of SHRL in the ratio of 81 shares for every 100 shares held in TCIL ."
+    },
+    {
+     "call": "Scheme",
+     "point": "The share-capital consolidation (4 Re-1 shares into 1 Rs-4 share, 47,69,50,562 shares becoming 11,92,37,641) is justified as improving key financial ratios so the market price better reflects intrinsic value and signals financial stability \u2014 expected within 15-18 months of Board approval.",
+     "quote": "The Board of TCIL believes that the proposed consolidation of the face value of its equity shares will result in an improvement in certain key financial ratios."
+    },
+    {
+     "call": "Scheme",
+     "point": "The merger leg removes three shell entities \u2014 TC Visa Services (India), Jardin Travel Solutions and Borderless Travel Services, all with nil or negligible turnover (TCVSL Rs 1.2 crore, the others nil, versus TCIL's Rs 2,243.97 crore) \u2014 purely to cut compliance and overhead.",
+     "quote": "TCVSL , JTSL and BTSL are dormant and non -operative companies, incurring unnecessary compliance and administrative costs."
+    },
+    {
+     "call": "Scheme",
+     "point": "A further capital reduction cuts TCIL's face value from Rs 4 to Rs 3 per share with no payment to shareholders and no change in share count, so proportionate holdings stay intact.",
+     "quote": "The face value of paid -up equity shares of TCIL will be reduced from Rs. 4/- (Indian Rupees Four Only) per equity share to Rs. 3/- (Indian Rupees Three Only) per equity share , without any payment to the shareholders of TCIL."
+    }
+   ],
+   "what_management_expects": "TCIL: streamlined capital structure, resources concentrated on core Travel and Financial Services, simpler corporate structure and higher EPS from face-value consolidation plus dormant-subsidiary merger, and ratios that better reflect intrinsic value. Sterling/SHRL: own growth path as a listed hospitality player, 34-36% EBITDA margins, stronger operating leverage, rising cash generation, disciplined capital allocation. Both: better focus, improved operational efficiencies and profitability, and unlocked shareholder value.",
+   "gaps": "No basis for the 81:100 ratio or Sterling's standalone financials/valuation; no debt, float or asset allocation between entities; no reason for the Rs 4-to-Rs 3 reduction, lender or partner consents, or why 2026 not 2024."
+  }
+ },
+ "THOMASCOOK::segments": {
+  "stamp": "849a478e2d08e1487415db3d21933dc6",
+  "verdict": {
+   "segment_name": "Leisure Hospitality & Resorts business (Sterling Holiday Resorts Limited / vacation ownership and resorts business) \u2014 consolidated reportable segment",
+   "unit": "Rs. Millions",
+   "measure_notes": "Operating profit = reported 'Segment result', i.e. segment EBIT before unallocated corporate expenditure, finance costs/interest and exceptional items; quarterly figure is labelled EBIT. Revenue is segment revenue from external customers (consolidated segment note; no inter-segment amounts disclosed for this segment). Standalone 'Leisure hospitality & resorts business' line (Rs. 92.2 Mn in FY2026) is TCIL's own Nature Trails resort business, not the SHRL segment, so consolidated segment figures are used. No segment-level PAT is disclosed.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 4556.6,
+     "operating_profit": 1367.5,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 179 (revenue, 'Vacation ownership and resorts business'); Annual Report 2024 \u2014 page 178 (segment result)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 5006.4,
+     "operating_profit": 1290.9,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 212 (prior-year comparatives)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 5336.0,
+     "operating_profit": 1291.9,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 212"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q1 FY27",
+    "revenue": 1614,
+    "operating_profit": 523,
+    "source": "Presentation Aug 2026 \u2014 page 8 (also page 17)"
+   },
+   "not_found": "Segment PAT/net profit for any year; segment EBITDA for FY24-FY26; standalone SHRL entity financials (revenue, PBT, PAT, assets) are not disclosed on these pages."
   }
  }
 }

@@ -680,3 +680,69 @@ def analyse(rows: list[dict], texts: dict[str, str] | None = None,
         out.append({**sit, "financials": fin, "concall_mentions": mentions,
                     "checklist": items, "verdict": verdict(sit, items)})
     return out
+
+
+# ------------------------------------------------- confidence and listing
+
+SCHEME_CATEGORIES = ("Demerger", "Scheme of Arrangement", "Outcome of Board Meeting",
+                     "Record Date", "Amalgamation/Merger")
+
+
+def confidence(sit: dict) -> tuple[str, str]:
+    """How sure the filings are: 'confirmed' when the exchange record
+    itself says demerger (a Demerger / Scheme filing, or a scheme text
+    that demerges); 'probable' for a subsidiary listing in motion (DRHP)
+    or a scheme whose attachment is unread; 'indicated' for rumour, news
+    verification or calls alone."""
+    if sit["facts"].get("news_only") or sit["stage"] == "rumoured":
+        return "indicated", "news verification / denial only — no scheme filed"
+    heads = sit.get("headlines", [])
+    scheme_filed = any(h["category"] in SCHEME_CATEGORIES or h["kind"] == "demerger"
+                       for h in heads)
+    if sit["kind"] == "demerger" and scheme_filed:
+        return "confirmed", "a demerger scheme is on the exchange record"
+    if sit["kind"] == "demerger":
+        return "probable", "demerger named in a filing, scheme document not yet on file"
+    if sit["kind"] == "subsidiary_listing":
+        return "probable", "a subsidiary's listing is in motion (DRHP / board approval)"
+    if sit["kind"] == "scheme_other":
+        return "probable" if sit.get("has_text") else "indicated", \
+            "a scheme of arrangement whose nature the documents on file do not settle"
+    return "other", family_of(sit["kind"])
+
+
+CONFIDENCE_ORDER = {"confirmed": 0, "probable": 1, "indicated": 2, "other": 3}
+LISTING_LAG_NOTE = "resulting companies have typically listed 4–10 weeks after the record date"
+
+
+def listing_status(sit: dict, judge: dict | None = None,
+                   today: dt.date | None = None) -> dict:
+    """When — and whether — the demerged entity trades: {'state', 'text'}.
+    state ∈ listed | pending_record_date_set | not_yet | subsidiary_ipo |
+    no_scheme | not_a_spin."""
+    today = today or dt.date.today()
+    f, st = sit["facts"], sit["stage"]
+    tl = (judge or {}).get("listing_timeline") or ""
+    tl = "" if tl.lower().startswith("not stated") else tl
+    rc = f.get("resulting_company") or "the resulting company"
+    if sit["kind"] not in SPIN_KINDS:
+        return {"state": "not_a_spin", "text": "no new listing — " + family_of(sit["kind"])}
+    if st == "rumoured":
+        return {"state": "no_scheme", "text": "no scheme filed; listing not in prospect"
+                + (f" — on the calls: {tl}" if tl else "")}
+    if sit["kind"] == "subsidiary_listing":
+        return {"state": "subsidiary_ipo", "text": f"IPO / listing of the subsidiary in motion "
+                f"since {sit['first_filing']}; date not fixed" + (f" — {tl}" if tl else "")}
+    if st == "listed" or (st in ("record_date", "effective") and sit.get("days_since_listing")
+                          and sit["days_since_listing"] >= LISTING_LAG_DAYS):
+        when = sit.get("listed_on") or "—"
+        rd = f" (record date {f['record_date']})" if f.get("record_date") else ""
+        return {"state": "listed", "text": f"LISTED — {rc} trades since about {when}{rd}"}
+    if st in ("record_date", "effective"):
+        rd = f.get("record_date") or sit.get("listed_on") or "set"
+        return {"state": "pending_record_date_set",
+                "text": f"RECORD DATE {rd}; {rc} not yet listed — {LISTING_LAG_NOTE}"
+                + (f"; filings/calls say: {tl}" if tl else "")}
+    return {"state": "not_yet", "text": f"NOT YET — scheme at '{st}' stage; {rc} will list only "
+            f"after NCLT sanction, effectiveness and a record date"
+            + (f"; indicated timeline: {tl}" if tl else "; no listing timeline stated")}

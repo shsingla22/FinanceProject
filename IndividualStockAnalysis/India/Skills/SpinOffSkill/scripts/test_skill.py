@@ -28,6 +28,7 @@ sys.path.insert(0, str(HERE.parent.parent.parent / "Announcements"))
 import fetch_announcements as FA     # noqa: E402
 import spinoff as SO                 # noqa: E402
 import analyze as AZ                 # noqa: E402
+import financials as FN              # noqa: E402
 
 TODAY = dt.date(2026, 10, 8)
 
@@ -344,6 +345,7 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     monkeypatch.setattr(AZ, "SITUATIONS", out / "_situations.csv")
     monkeypatch.setattr(AZ, "MENTIONS", out / "_concall_mentions.csv")
     monkeypatch.setattr(AZ, "HISTORY", out / "history")
+    monkeypatch.setattr(AZ, "COVERAGE", out / "_coverage.csv")
     monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
     monkeypatch.setattr(SO, "load_filings", lambda path=None: rows)
     monkeypatch.setattr(SO, "load_text", lambda r: texts.get(r["ann_id"], ""))
@@ -351,21 +353,37 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     monkeypatch.setattr(FA, "universe", lambda: {"ALPHA": "Alpha Industries Ltd.", "BETA": "Beta"})
     monkeypatch.setattr(AZ, "_ai_available", lambda: False)
 
+    monkeypatch.setattr(FN, "PNL", tmp_path / "pnl")
+    monkeypatch.setattr(FN, "CASH", tmp_path / "cash")
+    monkeypatch.setattr(FN, "PPT_DIR", tmp_path / "ppt")
+    monkeypatch.setattr(FN, "AR_DIR", tmp_path / "ar")
+    monkeypatch.setattr(FN, "LINKS", tmp_path / "ppt" / "_concall_links.csv")
+    monkeypatch.setattr(FN, "CONCALLS", tmp_path / "cc")
+    _write_pnl(tmp_path / "pnl" / "ALPHA.csv")
+
     class A:
         refresh = False; days = 365; no_bse = True; quick = True; no_calls = False; only = ""
+        fetch_docs = False
     AZ.cmd_run(A())
     md = (out / "SPINOFF_REPORT.md").read_text()
     assert "# Spin-offs and demergers" in md
-    assert "| **ALPHA** | spin-off | record_date |" in md
+    assert "## Confirmed demergers" in md and "| **ALPHA** | Alpha Energy Limited | record_date | RECORD DATE 2026-09-15" in md
+    assert "> **Listing:** RECORD DATE 2026-09-15; Alpha Energy Limited not yet listed" in md
+    assert "### The parent, last three fiscal years" in md and "| Sales (₹ cr) | 100 | 120 | 150 |" in md
+    assert "| Sales growth (%) | +25.0% | +20.0% | +25.0% |" in md and "```mermaid" in md
+    assert "**P/E:**" in md and "### The business being separated" in md
     assert "Alpha Energy Limited" in md and "1 for every 1" in md
     assert "SPINNING" in md and "On the calls" in md
     assert "Other restructurings on file" in md and "| ALPHA | merger |" in md
     assert "mechanical read only" in md
     rec = json.loads((out / "spinoff_latest.json").read_text())
     assert rec["meta"]["filings"] == 5 and rec["situations"][0]["judge"]["status"] == "not assessed"
+    assert rec["situations"][0]["confidence"][0] == "confirmed"
     sits = list(csv.DictReader(open(out / "_situations.csv")))
     assert [s["kind"] for s in sits] == ["demerger", "merger"]
-    assert sits[0]["resulting_company"] == "Alpha Energy Limited"
+    assert sits[0]["resulting_company"] == "Alpha Energy Limited" and sits[0]["listing"] == "pending_record_date_set"
+    cov = list(csv.DictReader(open(out / "_coverage.csv")))
+    assert cov[0]["symbol"] == "ALPHA" and cov[0]["parent_pnl"] == "yes" and cov[0]["cash_flow"] == "no"
     ms = list(csv.DictReader(open(out / "_concall_mentions.csv")))
     assert {m["symbol"] for m in ms} == {"ALPHA"} and all(m["quote"] for m in ms)
     snap = out / "history" / dt.date.today().isoformat()
@@ -429,3 +447,104 @@ def test_news_only_filings_are_a_rumoured_situation():
     s = SO.build_situations(rows, {}, TODAY)[0]
     assert s["stage"] == "rumoured" and s["facts"].get("news_only") is True
     assert SO.verdict(s, SO.checklist(s, {}, [], TODAY))["label"].startswith("RUMOURED")
+
+
+
+# ============================================================= financials
+
+def _write_pnl(path: Path) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(",parent_line_item,Mar 2023,Mar 2024,Mar 2025,Mar 2026\n"
+                    "Sales,,80,100,120,150\nOperating Profit,,8,12,18,30\nOPM %,,10,12,15,20\n"
+                    "Net Profit,,4,5,9,15\nEPS in Rs,,2,2.5,4.5,7.5\n")
+
+
+def test_parent_financials_three_years_with_growth_and_margins(tmp_path, monkeypatch):
+    monkeypatch.setattr(FN, "PNL", tmp_path)
+    _write_pnl(tmp_path / "X.csv")
+    f = FN.parent_financials("X")
+    assert f["available"] and f["years"] == ["Mar 2024", "Mar 2025", "Mar 2026"]
+    rows = {r["metric"]: r["values"] for r in f["rows"]}
+    assert rows["Sales (₹ cr)"] == [100, 120, 150]
+    assert rows["Sales growth (%)"] == [25.0, 20.0, 25.0]          # 80→100 uses the fourth year
+    assert rows["Operating margin (%)"] == [12.0, 15.0, 20.0]
+    assert rows["PAT growth (%)"] == [25.0, 80.0, 66.7] and rows["PAT margin (%)"] == [5.0, 7.5, 10.0]
+    assert not FN.parent_financials("NOPE")["available"]
+    charts = FN.charts_for(f)
+    assert len(charts) == 2 and 'x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]' in charts[0]
+    assert "bar [100, 120, 150]" in charts[0] and "line [12, 15, 20]" in charts[1]
+
+
+def test_mermaid_chart_leaves_out_series_with_gaps():
+    c = FN.mermaid_chart("t", ["a", "b"], {"ok": [1, 2], "gap": [1, None]}, "y")
+    assert "bar [1, 2]" in c and "gap" in c and "Not plotted" in c
+    assert FN.mermaid_chart("t", ["a", "b"], {"gap": [1, None]}, "y") == ""
+
+
+def test_cash_flows_and_pe_fallback(tmp_path, monkeypatch):
+    monkeypatch.setattr(FN, "CASH", tmp_path)
+    (tmp_path / "X.csv").write_text(",parent_line_item,Mar 2024,Mar 2025,Mar 2026\n"
+                                    "Cash from Operating Activity,,10,20,30\nFree Cash Flow,,5,8,12\n")
+    cf = FN.cash_flows("X")
+    assert cf["available"] and cf["years"] == ["Mar 2024", "Mar 2025", "Mar 2026"]
+    assert {r["metric"]: r["values"] for r in cf["rows"]}["Free cash flow (₹ cr)"] == [5, 8, 12]
+    # P/E: live file first, else close ÷ EPS with the method stated
+    assert FN.pe_ratio("X", {"X": {"stock_pe": "22.5", "current_price_rs": "100", "fetched_at": "2026-08-02"}})["pe"] == 22.5
+    monkeypatch.setattr(FN, "PNL", tmp_path)
+    _write_pnl(tmp_path / "X.csv")
+    monkeypatch.setattr(FN, "_CLOSE_CACHE", {"X": ("2026-10-01", 150.0)})
+    pe = FN.pe_ratio("X", {})
+    assert pe["pe"] == 20.0 and "EPS 7.5" in pe["method"] and pe["as_of"] == "2026-10-01"
+    assert FN.pe_ratio("NONE", {})["pe"] is None
+
+
+def test_segment_excerpts_pick_number_dense_pages_with_the_business_name(tmp_path, monkeypatch):
+    monkeypatch.setattr(FN, "AR_DIR", tmp_path / "ar")
+    monkeypatch.setattr(FN, "PPT_DIR", tmp_path / "ppt")
+    monkeypatch.setattr(FN, "LINKS", tmp_path / "ppt" / "_concall_links.csv")
+    d = tmp_path / "ar" / "X"; d.mkdir(parents=True)
+    (d / "_index.csv").write_text("symbol,kind,label,url,file,text_file,pages,status,fetched\n"
+                                  "X,annual_report,Annual Report 2026,https://b/ar.pdf,a.pdf,a.txt,3,ok,2026-10-12\n")
+    (d / "a.txt").write_text("\n=== page 1 ===\nSterling is our hospitality arm. Segment information follows later.\n"
+                             "\n=== page 2 ===\nSegment revenue: Travel 5,000 Sterling 450 Forex 1,200; Segment results Sterling 85\n"
+                             "\n=== page 3 ===\nNothing here\n")
+    ex = FN.segment_excerpts("X", ["Sterling Holiday Resorts Limited"])
+    # page 3 rides along as the continuation of the segment table on page 2
+    assert [e["page"] for e in ex] == [1, 2, 3] and ex[1]["numbers"] > ex[0]["numbers"]
+    # the segment note is wanted even when it never names the brand
+    (d / "a.txt").write_text("\n=== page 1 ===\nSegment revenue " + " ".join(f"{i*113:,}" for i in range(30)) + "\n")
+    assert [e["page"] for e in FN.segment_excerpts("X", ["Sterling"])] == [1]
+    assert ex[0]["doc"] == "Annual Report 2026" and ex[0]["url"] == "https://b/ar.pdf"
+    assert FN.pages_of("\n=== page 7 ===\nabc") == [(7, "abc")]
+    assert FN.segment_excerpts("X", []) == []
+
+
+def test_segment_table_computes_growth_from_extracted_numbers():
+    seg = {"unit": "₹ crore", "years": [
+        {"fy": "FY2024", "revenue": 400, "operating_profit": 80, "pat": None, "source": "AR 2024 — page 150"},
+        {"fy": "FY2025", "revenue": 450, "operating_profit": 90, "pat": 40, "source": "AR 2025 — page 161"},
+        {"fy": "FY2026", "revenue": 540, "operating_profit": 99, "pat": 50, "source": "AR 2026 — page 170"}]}
+    st = AZ.segment_table(seg)
+    rows = {r["metric"]: r["values"] for r in st["rows"]}
+    assert st["available"] and st["years"] == ["FY2024", "FY2025", "FY2026"]
+    assert rows["Revenue growth (%)"] == [None, 12.5, 20.0] and rows["Operating margin (%)"] == [20.0, 20.0, 18.3]
+    assert rows["PAT growth (%)"] == [None, None, 25.0] and st["found_numbers"] == 8
+    assert not AZ.segment_table({"years": []})["available"]
+
+
+def test_confidence_and_listing_status_follow_the_record():
+    sits = SO.build_situations(_rows(), {"3": SCHEME}, TODAY)
+    s = sits[0]
+    assert SO.confidence(s) == ("confirmed", "a demerger scheme is on the exchange record")
+    L = SO.listing_status(s, {}, TODAY)
+    assert L["state"] == "pending_record_date_set" and "RECORD DATE 2026-09-15" in L["text"]
+    later = SO.build_situations(_rows(), {"3": SCHEME}, dt.date(2026, 11, 20))[0]
+    assert SO.listing_status(later, {}, dt.date(2026, 11, 20))["state"] == "listed"
+    pre = SO.build_situations(_rows()[:2], {}, TODAY)[0]
+    L = SO.listing_status(pre, {"listing_timeline": "listing expected by Q4 FY27 (Feb 2026 call)"}, TODAY)
+    assert L["state"] == "not_yet" and "Q4 FY27" in L["text"]
+    assert SO.listing_status(sits[1], {}, TODAY)["state"] == "not_a_spin"
+    rum = {**pre, "stage": "rumoured", "facts": {"news_only": True}, "headlines": []}
+    assert SO.confidence(rum)[0] == "indicated" and SO.listing_status(rum, {}, TODAY)["state"] == "no_scheme"
+    ipo = {**pre, "kind": "subsidiary_listing"}
+    assert SO.confidence(ipo)[0] == "probable" and SO.listing_status(ipo, {}, TODAY)["state"] == "subsidiary_ipo"
