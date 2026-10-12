@@ -2112,11 +2112,11 @@
   }
  },
  "APOLLOHOSP::segments": {
-  "stamp": "9bb4f384b5b6a2211776dc1cf5e67458",
+  "stamp": "d38e457df03f655b17bf866f25be520c",
   "verdict": {
-   "segment_name": "Digital Health & Pharmacy Distribution (Apollo HealthCo \u2014 offline pharmacy distribution + online pharmacy/Apollo 24|7)",
+   "segment_name": "Digital Health & Pharmacy Distribution (Apollo HealthCo / \"Total HealthCo\" in the quarterly presentations)",
    "unit": "\u20b9 million",
-   "measure_notes": "operating_profit = 'Segment Profit/(loss)' from the Ind AS 108 segment note, which the reports define as profit before tax earned by each segment without allocation of finance costs; these figures tie exactly to the 'EBIT' line for Digital Health & Pharmacy Distribution in the investor presentations (FY25 1,127; FY26 3,987), so the line is effectively segment EBIT, not EBITDA or PBT. Revenue is gross segment revenue including inter-segment amounts (inter-segment revenue of 759 / 774 / 2,002 million for FY24/FY25/FY26 is eliminated only at group sub-total level, not shown per segment). PAT is 'PAT (Reported)' for the segment from the quarterly/annual presentation tables. Segment EBITDA (post 24|7 cost and ESOP) per presentation: FY25 1,676; FY26 4,875.",
+   "measure_notes": "operating_profit = reported 'Segment Profit/(loss)', defined in the annual reports as profit before tax earned by the segment without allocation of finance costs \u2014 i.e. an EBIT-level measure (the May 2026 presentation shows the same figures on its 'EBIT' line: FY26 3,987 / FY25 1,127). EBITDA is separately disclosed only in the presentations (FY26 4,875; FY25 1,676 \u2014 Presentation May 2026 p13). Revenue is segment revenue BEFORE elimination of inter-segment revenue (group-level inter-segment eliminations were 2,002 in FY26, 774 in FY25, 759 in FY24, not split by segment). PAT is the 'PAT (Reported)' line for the segment in the results presentations, not an annual-report disclosure. Latest-quarter operating profit shown is the presentation's EBIT line (Q4FY26 EBITDA was 1,556).",
    "years": [
     {
      "fy": "FY2024",
@@ -2130,14 +2130,14 @@
      "revenue": 90930,
      "operating_profit": 1127,
      "pat": 469,
-     "source": "Annual Report 2025 \u2014 page 227; Presentation May 2026 \u2014 page 13"
+     "source": "Annual Report 2025 \u2014 page 227 (revenue, segment profit); Presentation May 2026 \u2014 page 13 (PAT)"
     },
     {
      "fy": "FY2026",
      "revenue": 108081,
      "operating_profit": 3987,
      "pat": 3238,
-     "source": "Annual Report 2026 \u2014 page 225; Presentation May 2026 \u2014 page 13"
+     "source": "Annual Report 2026 \u2014 page 225 (revenue, segment profit); Presentation May 2026 \u2014 page 13 (PAT)"
     }
    ],
    "latest_quarter": {
@@ -2146,7 +2146,7 @@
     "operating_profit": 1357,
     "source": "Presentation May 2026 \u2014 page 12"
    },
-   "not_found": "FY2024 segment PAT and EBITDA absent. Q1 FY27 financials absent (Aug 2026 deck page shows only bed count). No standalone Apollo Healthco/Keimed entity statements on these pages."
+   "not_found": "FY2024 segment PAT; FY2024 segment EBITDA; any Q1 FY27 segment financials (Aug 2026 presentation page carries only bed-expansion data)."
   }
  },
  "AMBUJACEM::rationale": {
@@ -4593,18 +4593,18 @@
   }
  },
  "PICCADIL::segments": {
-  "stamp": "051a3db71dda67b5e67bc781441c245f",
+  "stamp": "da7dfeaf6e44b3530ef20af18880fedd",
   "verdict": {
-   "segment_name": "Sugar (reportable business segment per Ind AS 108; products: Sugar, Molasses, Power and Bagasse)",
-   "unit": "\u20b9 lakh (annual report segment notes); the quarterly presentation figure is in \u20b9 crore",
-   "measure_notes": "Profit line is the segment result as disclosed: 'Profit/(loss) before unallocated expenditure, finance cost and tax' \u2014 i.e. segment PBIT, before finance costs, unallocable expenditure, exceptional items and tax. Revenue is external: the note shows 'Less: Inter Segment Revenue \u2014 nil' in every year, so segment revenue = total revenue. Figures taken from the STANDALONE segment note; consolidated notes show the same Sugar revenue and a near-identical Sugar result (FY2024 389.59; FY2026 -904.94). No segment-level EBITDA, tax or PAT is disclosed. The pages carry no separate financials for 'Essentials Limited' / 'Piccadily Food & Essentials Limited' (PFEL) as an entity \u2014 only the Sugar segment of Piccadily Agro.",
+   "segment_name": "Sugar",
+   "unit": "\u20b9 lakh (annual report segment note, 'Amount in lakhs (INR)'); latest-quarter figures are \u20b9 crore as in the earnings presentation",
+   "measure_notes": "Operating profit = segment 'Profit/(loss) before unallocated expenditure, finance cost and tax' (segment result / PBIT) per Ind AS 108 note, standalone. Revenue is external: segment note shows 'Less: Inter Segment Revenue - ' (nil), so no inter-segment revenue is included. No segment-level PAT is disclosed (tax, finance cost and unallocable items are reported only at company level).",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 27534.36,
      "operating_profit": 389.59,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 121 (standalone Note 37; same figures in consolidated Note 38, page 158, and MD&A page 38)"
+     "source": "Annual Report 2024 \u2014 page 121 (standalone Note 37; consolidated Note 38 on page 158 shows same Sugar revenue 27,534.36 and result 389.59)"
     },
     {
      "fy": "FY2025",
@@ -4618,16 +4618,16 @@
      "revenue": 23305.03,
      "operating_profit": -904.62,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 142 (standalone Note 38; consolidated Note 39, page 190, shows revenue 23,305.03 and loss -904.94)"
+     "source": "Annual Report 2026 \u2014 page 142 (standalone Note 38); consolidated page 190 shows Sugar revenue 23,305.03 and loss -904.94"
     }
    ],
    "latest_quarter": {
     "period": "Q1 FY27 (quarter ended 30 June 2026)",
     "revenue": 64.8,
     "operating_profit": null,
-    "source": "Presentation Aug 2026 \u2014 page 8 ('Revenue from Sugar Vertical', \u20b9 crore; the column is printed 'Q1 FY26' but the deck covers the quarter ended 30 June 2026, i.e. Q1 FY2026-27, with 66.2 as the prior-year quarter)"
+    "source": "Presentation Aug 2026 \u2014 page 8 ('Revenue from Sugar Vertical', \u20b9 Cr; column header printed as 'Q1 FY26' but the deck covers the quarter ended 30 June 2026 per pages 1 and 5, and the adjacent column 66.2 is Q1 FY26)"
    },
-   "not_found": "No Sugar-segment PAT, tax, EBITDA, depreciation-adjusted operating profit or quarterly segment profit; only segment revenue is given quarterly. No standalone PFEL entity financials."
+   "not_found": "No segment PAT or EBITDA any year; no segment result/margin in \u20b9 for Q1 FY27 (only company EBITDA); FY2025 PBIT margin shown only as % (-1.3%) on AR2025 p53; no PFEL/demerger-specific financials on these pages."
   }
  },
  "PRICOLLTD::rationale": {
@@ -5282,41 +5282,41 @@
   }
  },
  "INDIAGLYCO::segments": {
-  "stamp": "4c5d9505a7806e61f884698404ecf5a7",
+  "stamp": "5fd5d36576bb95c7f2d5280c7eee2966",
   "verdict": {
-   "segment_name": "Ennature Biopharma (Bio Pharma Undertaking, demerging into Ennature Bio Pharma Limited \u2014 Resulting Company 1)",
-   "unit": "\u20b9 lakh (annual segment tables); quarterly presentation figures are \u20b9 crore",
-   "measure_notes": "Revenue = Gross Segment Revenue (External Customers), standalone Ind AS 108 segment table; no inter-segment revenue reported (inter-segment line is nil/blank). Operating profit = 'Segment Result (PBIT)' i.e. segment EBIT before interest, tax and exceptional items. Consolidated segment tables show identical Ennature Biopharma figures. Segment PAT is not disclosed; interest and tax are reported only at company level. Note the demerged entity Ennature Bio Pharma Limited also carries the Bio Polymers business, so entity-level sales in the presentation structure slides (\u20b9258 Cr FY25, \u20b9247 Cr FY26) exceed the Ennature Biopharma segment alone (\u20b9219 Cr FY25, \u20b9208 Cr FY26).",
+   "segment_name": "IGL Spirits Limited (Spirits and Biofuel Undertaking \u2014 Potable Spirits + Bio-Fuel businesses demerged from India Glycols Ltd.)",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Revenue = Net Revenue (net of State Excise Duty) of the carved-out IGL Spirits entity, external customers; operating_profit = EBITDA as labelled in the demerger deck (FY26 margin 17.6%, FY25 15.8%, FY24 15.4%). Gross Sales for the same entity are higher: \u20b98,416 Cr FY26 and \u20b97,477 Cr FY25 (Presentation Jun 2026 p23 / Aug 2025 p20; that FY25 page shows net \u20b92,207 Cr vs \u20b92,219 Cr in the Sep 2026 series). Underlying segment disclosures give EBIT (segment result PBIT) separately for Potable Spirits (FY26 \u20b9285 Cr on \u20b91,331 Cr net rev; FY25 \u20b9256 Cr on \u20b91,163 Cr) and Bio-Fuel (FY26 \u20b9115 Cr on \u20b91,470 Cr; FY25 \u20b957 Cr on \u20b91,044 Cr). No PAT is disclosed for the entity.",
    "years": [
     {
      "fy": "FY2024",
-     "revenue": 20514.85,
-     "operating_profit": 3860.16,
+     "revenue": 1460,
+     "operating_profit": 224,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 146"
+     "source": "Presentation Sep 2026 \u2014 page 8"
     },
     {
      "fy": "FY2025",
-     "revenue": 21937.15,
-     "operating_profit": 2076.48,
+     "revenue": 2219,
+     "operating_profit": 350,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 150"
+     "source": "Presentation Sep 2026 \u2014 page 8"
     },
     {
      "fy": "FY2026",
-     "revenue": 20777.15,
-     "operating_profit": 723.43,
+     "revenue": 2801,
+     "operating_profit": 492,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 152"
+     "source": "Presentation Sep 2026 \u2014 page 8 (net sales \u20b92,801 Cr / gross \u20b98,416 Cr also in Presentation Jun 2026 \u2014 page 23)"
     }
    ],
    "latest_quarter": {
-    "period": "Q3 FY26",
-    "revenue": 50,
-    "operating_profit": null,
-    "source": "Presentation Feb 2026 \u2014 page 14 (net revenue \u20b950 Cr, EBIT margin 4.1%; EBIT amount not stated)"
+    "period": "Q1 FY27",
+    "revenue": 694,
+    "operating_profit": 120,
+    "source": "Presentation Aug 2026 \u2014 page 8"
    },
-   "not_found": "No segment-level PAT, tax, interest or EBITDA for Ennature Biopharma; no Q1 FY27 or Q4 FY26 segment numbers; quarterly EBIT amounts given only as margin percentages."
+   "not_found": "No PAT for IGL Spirits in any year (only consolidated IGL PAT); no entity-level balance sheet, debt, tax or depreciation split; Q1FY27 PAT also absent."
   }
  },
  "JSWENERGY::rationale": {
@@ -7165,59 +7165,84 @@
   }
  },
  "HAPPSTMNDS::rationale": {
-  "stamp": "53cda4eac0ccedee88da11df6ec406bb",
+  "stamp": "5f0e00077e1699253b1718f0843564d7",
   "verdict": {
-   "rationale": "The texts do not describe a separation or spin-off at all: they describe the opposite \u2014 the amalgamation of Happiest Minds Technologies Ltd (the Transferor, NSE: HAPPSTMNDS) into ITC Infotech India Limited (the Transferee), under a merger framework agreement dated August 31, 2026 among Happiest Minds, ITC Infotech, Mr Ashok Soota and Ashok Soota Medical Research LLP, with Happiest Minds to be dissolved without being wound up and ITC Infotech's shares to be listed and admitted to trading by virtue of the Scheme. Management's stated logic is complementarity and scale: Happiest Minds' strengths in AI, digital engineering, cloud, data, analytics and cybersecurity combined with ITC Infotech's enterprise transformation, SAP, Product Lifecycle Management (PLM), cloud, Industry 4.0 and industry-specific solutions, to create an 'AI First' global technology services enterprise with US$1 billion of annual revenue by FY28, 19,000+ employees, 800+ customers and operations in 30+ countries. The filing's rationale clauses (a)\u2013(h) list: a single globally credible platform with greater operational efficiency and stronger governance; synergies from shared financial, managerial, technical and marketing resources; increased scale, focus, cross-selling to a larger customer base, stronger partner-ecosystem relationships and augmented intellectual capital; wider professional opportunities and better employee retention; a stronger competitive position domestically and globally; greater efficiency in cash management with 'unfettered access' to combined cash flow; and augmentation of the Transferee's ability to raise capital from equity and debt markets to fund growth. Consideration is all-stock: 25 ITC Infotech shares of INR 10 each for every 81 Happiest Minds shares of INR 2 each, based on a valuation report dated August 31, 2026 issued jointly by PwC Business Consulting Services LLP and GT Valuation Advisors Private Limited, with a fairness opinion of the same date from ICICI Securities Limited (SEBI Category-I merchant banker). The parties are stated not to be related parties, so the transaction is not a related-party transaction, though two promoter-group parties (Mr Ashok Soota and Ashok Soota Medical Research LLP) are signatories to the MFA. Pre-scheme shareholding as on August 31, 2026 was promoters 6,73,23,400 shares (44.21%) and non-promoters 8,49,51,411 shares (55.79%), total 15,22,74,811 shares; ITC Infotech is also stated to acquire an aggregate minority stake (figure truncated in the text provided).",
-   "evolution": "Only one call passage is supplied, tagged [Jul 2026], and it does not mention any separation, demerger or merger \u2014 it is about measurement, not structure: management said AI is spread across the company rather than sitting inside the GBS bucket, that forcing AI inside GBS 'will stymie growth', and that they were therefore going project-by-project across the entire revenue stream to carve out 'AI-led revenues' as a share of the INR625 crore quarter, with the exercise to be completed by end-September and disclosed with Q2. The deal itself appears only in the August 31, 2026 filings \u2014 the MFA, Scheme rationale, valuation and fairness opinions all dated that day \u2014 so from these texts the transaction surfaces fully formed on August 31, 2026 with no prior call-level build-up. There is therefore no call-by-call evolution to reconstruct beyond the Jul 2026 AI-revenue-disclosure thread, which plausibly foreshadows the 'AI First' positioning used in the merger press release but is never linked to it in the texts.",
+   "rationale": "The documents do not describe a separation: the only corporate action in these texts is the opposite \u2014 an amalgamation in which Happiest Minds Technologies Ltd (Transferor) is absorbed into ITC Infotech India Ltd (Transferee) and then dissolved without being wound up, under definitive agreements and a Merger Framework Agreement dated August 31, 2026 among Happiest Minds, ITC Infotech, Mr Ashok Soota and Ashok Soota Medical Research LLP. Management's stated reasoning is complementarity and scale: Happiest Minds' AI, digital engineering, cloud, data, analytics and cybersecurity capabilities combined with ITC Infotech's enterprise transformation, SAP, PLM, cloud, Industry 4.0 and industry-specific solutions, to create 'a scaled, AI First Global Technology Services Enterprise' targeting US$1 billion of annual revenue by FY28, with 19,000+ employees, 800+ customers and operations in 30+ countries. The scheme rationale lists: a single globally credible platform from combined capabilities, customer relationships and talent pools; greater synergies via shared financial, managerial, technical and marketing resources; increased scale, focus, cross-selling to a larger customer base, productivity and operational efficiencies, stronger partner-ecosystem relationships and augmented intellectual capital; wider professional opportunities and better employee retention; and an enhanced competitive position in domestic and global markets. Two explicitly financial motives are named: greater efficiency in cash management with 'unfettered access' to combined cash flows for funding growth, and augmentation of the Transferee's ability to raise equity and debt capital. Consideration is share-based \u2014 25 ITC Infotech shares of INR 10 each for every 81 Happiest Minds shares of INR 2 each (other than those held by ITC Infotech itself), based on a joint valuation report of August 31, 2026 by PwC Business Consulting Services LLP and GT Valuation Advisors, with a fairness opinion of the same date from ICICI Securities; ITC Infotech's shares are to be listed by virtue of the scheme, and ITC Infotech separately acquires an aggregate minority stake (amount truncated in the text supplied). Happiest Minds' pre-scheme shareholding as on August 31, 2026 was 6,73,23,400 promoter shares (44.21%) and 8,49,51,411 non-promoter shares (55.79%) of 15,22,74,811 total. The only 'carve-out' discussed on the calls is a measurement exercise, not a business separation: management said AI is spread across the company rather than sitting inside the GBS bucket, so they would go project by project across the whole revenue stream and carve out AI-led revenue \u2014 not by technology but by the impact or relevance of AI \u2014 to disclose what portion of the quarter's INR 625 crores is AI-led, with the exercise to be completed by end-September and reported at the end of Q2. The texts name no investor, lender or partner as having asked for the transaction.",
+   "evolution": "Only one call passage is supplied (Jul 2026), and it contains no reference to any merger, demerger or separation of a business \u2014 it addresses only how AI-led revenue will be identified and reported, citing SecAIGenie in security as AI work sitting outside GBS, and committing to a carved-out AI-led revenue number by end-September/end-Q2. The corporate action appears for the first time in the August 31, 2026 filings: the press release announcing the ITC Infotech combination, the Merger Framework Agreement of the same date, and the scheme rationale. So on this evidence the idea cannot be traced call by call; there is no three-year arc in the passages given, and no earlier-call foreshadowing to compare against the final structure.",
    "points": [
     {
      "call": "Jul 2026",
-     "point": "Management said AI is not confined to the GBS reporting bucket but spread across the company (e.g. the SecAIGenie platform inside security delivery), and that confining AI initiatives to GBS would hold back growth in the rest of the organisation.",
+     "point": "Management said AI is not confined to the GBS reporting bucket but spread across the company \u2014 e.g. the SecAIGenie platform inside the security delivery and offerings \u2014 so restricting AI work to GBS would hurt growth.",
      "quote": "So, AI has taken over many parts of, just to take an example, security."
     },
     {
      "call": "Jul 2026",
-     "point": "Rather than reorganise by technology, they chose to re-measure: go project by project across the whole revenue stream and carve out AI-led revenue by relevance of AI, not by technology bucket.",
-     "quote": "Which is why we said that we have to look at our entire revenue stream, go by project, carve out not by technology but what is the impact or relevance of AI, carve it out and then give you this number which is called AI-led revenues of the total."
+     "point": "The only carve-out described on the call is analytical: review the entire revenue stream project by project, classify by AI impact/relevance rather than technology, and disclose AI-led revenue as a share of the quarter's INR 625 crores.",
+     "quote": "So, if we are if we are INR625 crores this quarter, how many crores is led by AI?"
     },
     {
      "call": "Jul 2026",
-     "point": "The quantification was framed against the quarter's revenue of INR625 crores, with a committed timeline: exercise finished by end-September and the number disclosed with Q2.",
-     "quote": "So, if we are if we are INR625 crores this quarter, how many crores is led by AI? So that's the attempt that we have started, we have a plan that by end of September we will finish that exercise and give you in end of Q2."
+     "point": "A timeline was given for that disclosure: the exercise finishes by end-September, with the number published at the end of Q2.",
+     "quote": "So that's the attempt that we have started, we have a plan that by end of September we will finish that exercise and give you in end of Q2."
     },
     {
      "call": "Scheme",
-     "point": "The transaction is an amalgamation, not a separation: Happiest Minds is absorbed into ITC Infotech India Limited under an MFA dated August 31, 2026 signed also by Mr Ashok Soota and Ashok Soota Medical Research LLP, after which Happiest Minds is dissolved without being wound up.",
-     "quote": "The merger framework agreement by and amongst the Transferor Company, the Transferee Company, Mr Ashok Soota and Ashok Soota Medical Research LLP dated August 31, 2026 (\"MFA\") sets out the manner of effecting the Scheme of Amalgamation (whereby the Transferor Company shall stand amalgamated with and absorbed into the Transferee Company), including customary representations, warranties, rights and obligations of the respective parties."
+     "point": "The transaction is an amalgamation, not a separation: Happiest Minds is absorbed into ITC Infotech India Limited and dissolved without winding up, under an MFA dated August 31, 2026 also signed by Mr Ashok Soota and Ashok Soota Medical Research LLP.",
+     "quote": "Post the Scheme becoming effective, the Transferor Company shall be dissolved without being wound up."
     },
     {
      "call": "Scheme",
-     "point": "Rationale clause (a): combine complementary capabilities, customer relationships and talent pools into one globally credible platform, citing operational efficiency and stronger governance.",
-     "quote": "Creation of a single, globally credible platform by combining complementary capabilities, customer relationships and talent pools of the Companies, leading to greater operational efficiency, stronger governance and long-term value creation."
+     "point": "First stated benefit is a single global platform built from complementary capabilities, customers and talent, yielding efficiency, governance and long-term value.",
+     "quote": "Creation of a single, globally credible platform by combining complementary capabilities, customer relationships and talent pools of the Companies, leading to greater operational efficiency, stronger governance and long -term value creation."
     },
     {
      "call": "Scheme",
-     "point": "Rationale clause (c): scale, cross-selling to a larger customer base, stronger partner-ecosystem relationships and augmented intellectual capital, with value creation named for shareholders, customers, lenders and employees \u2014 these are listed as beneficiaries, not as parties who requested the deal.",
-     "quote": "Increase in scale, focus, innovations in technology and expanded reach with increased growth opportunities, higher cross-selling opportunities to a larger base of customers, enhanced customer experience through integrated capabilities, improvement in productivity and operational efficiencies, development of stronger relationships across the partner ecosystem, usage of augmented intellectual capital and stronger implementation capabilities resulting from the Amalgamation, thereby leading to value creation for the shareholders, customers, lenders, employees, etc."
+     "point": "Synergies are to come from pooling shared financial, managerial, technical and marketing resources into a unified technology platform and service offering.",
+     "quote": "Realisation of greater synergies between the businesses of the Transferor Company and Transferee Company and creation of a unified technology platform and service offering, through the use of shared financial, managerial, technical,"
     },
     {
      "call": "Scheme",
-     "point": "Rationale clauses (f) and (g) are the capital-structure argument: pooled cash with 'unfettered access' to combined cash flow for growth, and a stronger ability for the Transferee to raise equity and debt.",
+     "point": "Scale, cross-selling to a larger customer base, productivity, partner-ecosystem relationships and intellectual capital are cited as creating value for shareholders, customers, lenders and employees \u2014 the only place lenders are mentioned, as beneficiaries rather than requesters.",
+     "quote": "Increase in scale, focus, innovations in technology and expanded reach with increased growth opportunities, higher cross -selling opportunities to a larger base of customers, enhanced customer experience through integrated capabilities, improvement in produ ctivity and operational efficiencies, development of stronger relationships across the partner ecosystem, usage of augmented intellectual capital and stronger implementation capabilities resulting from the Amalgamation, thereby leading to value creation fo r the shareholders, customers, lenders, employees, etc."
+    },
+    {
+     "call": "Scheme",
+     "point": "Cash-management efficiency and unrestricted access to the combined cash flows for funding growth is an explicit motive.",
+     "quote": "Achievement of greater efficiency in cash management of the combined entity, and unfettered access to cash flow generated from the combined businesses which can be deployed more efficiently to fund growth opportunities, in order to maximise shareholder\u2019s v alue."
+    },
+    {
+     "call": "Scheme",
+     "point": "Improving the Transferee's access to equity and debt capital markets is separately listed as a benefit.",
      "quote": "Augmentation of the ability of the Transferee Company to raise capital from equity and debt markets to fund its growth requirements."
     },
     {
      "call": "Scheme",
-     "point": "All-stock consideration of 25 ITC Infotech shares (INR 10 each) for every 81 Happiest Minds shares (INR 2 each), supported by a joint PwC Business Consulting Services LLP / GT Valuation Advisors valuation dated August 31, 2026 and an ICICI Securities fairness opinion of the same date.",
-     "quote": "The Transferee Company shall issue and allot 25 fully paid-up equity shares of INR 10 (Indian Rupees Ten only) each of the Transferee Company for every 81 fully paid up equity shares of INR 2 (Indian Rupees Two only) each held by the shareholders of the Transferor Company (other than Transferee Company itself), as on the Record Date."
+     "point": "Consideration ratio is 25 ITC Infotech shares of INR 10 for every 81 Happiest Minds shares of INR 2, with ITC Infotech shares to be listed by virtue of the scheme.",
+     "quote": "The Transferee Company shall issue and allot 25 fully paid -up equity shares of INR 10 (Indian Rupees Ten only) each of the Transferee Company for every 81 fully paid up equity shares of INR 2 (Indian Rupees Two only) each held by the shareholders of the Transferor Company  (other than Transferee Company itself) , as on the Record Date ."
     },
     {
      "call": "Scheme",
-     "point": "The press release sets the headline target and the capability split: an AI First enterprise at US$1 billion revenue by FY28, 19,000+ employees, 800+ customers, 30+ countries, pairing Happiest Minds' AI/digital engineering/cloud/data/cybersecurity with ITC Infotech's enterprise transformation, SAP, PLM, cloud and Industry 4.0.",
-     "quote": "The combined company will unite Happiest Minds' strengths in AI, digital engineering, cloud, data, analytics and cybersecurity with ITC Infotech's deep expertise in enterprise transformation, SAP, Product Lifecycle Management (PLM), cloud, Industry 4.0 and industry-specific technology solutions."
+     "point": "The ratio rests on a joint valuation report of August 31, 2026 from PwC Business Consulting Services LLP and GT Valuation Advisors, with ICICI Securities providing the fairness opinion; the parties are not related parties.",
+     "quote": "The share exchange ratio  for the amalgamation is based on the valuation report dated August  31, 2026 , issued jointly by PwC Business Consulting Services LLP (Registration No. IBBI/RV -E/02/2022/158) and GT Valuation Advisors Private Limited (Registration No. IBBI/RV -E/05/2020/134), Registered Valuers ."
+    },
+    {
+     "call": "Scheme",
+     "point": "The press release sets the headline target and scale: US$1 billion revenue by FY28, 19,000+ employees, 800+ customers, 30+ countries, with ITC Infotech also acquiring an aggregate minority stake (figure truncated).",
+     "quote": "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise  with US$ 1 billion Revenue by FY281"
+    },
+    {
+     "call": "Scheme",
+     "point": "Complementarity is spelled out by capability: Happiest Minds brings AI, digital engineering, cloud, data, analytics and cybersecurity; ITC Infotech brings enterprise transformation, SAP, PLM, cloud, Industry 4.0 and industry-specific solutions.",
+     "quote": "The combined  company  will unite  Happiest  Minds'  strengths  in AI, digital  engineering,  cloud,  data,  analytics  and cybersecurity  with ITC Infotech's  deep  expertise  in enterprise  transformation,  SAP, Product  Lifecycle  Management  (PLM),  cloud, Industry 4.0 and industry -specific  technology  solutions."
+    },
+    {
+     "call": "Scheme",
+     "point": "Employee retention and depth of human capital, plus a stronger competitive position as a unified digital solutions provider, round out the stated case.",
+     "quote": "Creation of wider growth and professional opportunities for the employees of the Companies, thereby improving employee retention and the overall quality and depth of human capital available to the combined entity."
     }
    ],
-   "what_management_expects": "Not two entities \u2014 one. Happiest Minds ceases to exist; ITC Infotech becomes a listed, unified AI First platform targeting US$1bn revenue by FY28 with operational efficiency, productivity gains, cross-selling across 800+ customers, stronger governance and competitive position, efficient cash management with unfettered access to combined cash flow, better equity and debt market access, and improved employee retention. No margin or valuation figures were given.",
-   "gaps": "No separation exists \u2014 this is a merger, so the premise fails. Calls never discuss it; no margin, synergy or cost numbers, no minority-stake size, no named investor, lender or partner request."
+   "what_management_expects": "Not a separation, so no per-entity outcomes are given; Happiest Minds is dissolved into ITC Infotech. The combined entity is expected to gain scale, focus, cross-selling across a larger customer base, productivity and operational efficiencies, stronger governance and partner relationships, more efficient cash management with unfettered access to combined cash flows, better equity and debt market access, and employee retention, targeting US$1 billion revenue by FY28. No margin or valuation figures.",
+   "gaps": "No call discusses the merger at all: no synergy quantification, margin, valuation or timeline detail, no party shown asking for it, and ITC Infotech's minority stake is truncated."
   }
  },
  "JPPOWER::rationale": {
@@ -7842,117 +7867,102 @@
   }
  },
  "FLUOROCHEM::segments": {
-  "stamp": "2165f0d2cc184af3cee8a39d2f17232f",
+  "stamp": "5bb7f2722594876e3e9c0fdd69605eb8",
   "verdict": {
-   "segment_name": "Inox Holdings and Investments Limited (IHIL) \u2014 Demerged Undertaking (investments / mutual fund distribution)",
-   "unit": "\u20b9 Crores (as used in Annual Report 2025/2026; Annual Report 2024 uses \u20b9 Lakhs)",
-   "measure_notes": "No profit or revenue line exists for this business on the tagged pages. The only segment disclosures are: FY2024/FY2025 standalone and consolidated 'single reportable segment of Chemicals' with a product-wise revenue breakup (Annual Report 2024 p.141-142, 189; Annual Report 2025 p.147-148, 192), and FY2026 consolidated two-segment reporting of 'Chemicals' and 'EV Products' only (Annual Report 2026 p.221), where segment result is EBITDA, with Other income, Finance costs, PBDT, Depreciation, PBT and PAT shown; segment revenue is gross with inter-segment revenue deducted to reach total external revenue. Quarterly presentations split only 'Chemical Segment', 'Battery Materials' and 'Consolidated' (revenue, EBITDA, PAT). Mutual fund distribution / investments is not a reported segment in any tagged page.",
+   "segment_name": "Demerged Undertaking (mutual fund / mutual fund distribution business) of ILFL, to be transferred to Inox Holdings and Investments Limited (IHIL), the Resulting Company \u2014 not labelled or reported in any of the tagged pages",
+   "unit": "\u20b9 crore (unit used by the tagged pages; no figures for this undertaking appear on them)",
+   "measure_notes": "No profit line exists for the Demerged Undertaking on these pages. The tagged pages carry only GFL's chemicals/EV disclosures: annual reports give product-wise and geographic revenue breakups of total revenue from operations (external, single 'Chemicals' segment in FY24/FY25; two segments 'Chemicals' and 'EV Products' in FY26 with segment EBITDA, PBDT, PBT and PAT, inter-segment revenue shown separately and excluded from external revenue). Quarterly presentations give Chemical segment / Battery Materials / Consolidated revenue, EBITDA and PAT. None of these relate to the mutual fund distribution Demerged Undertaking or IHIL.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not disclosed \u2014 Annual Report 2024 pages 141, 189 state a single 'Chemicals' segment only"
+     "source": "not present \u2014 Annual Report 2024 pages 141-143, 189-191 cover only the single 'Chemicals' segment"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not disclosed \u2014 Annual Report 2025 pages 147, 192 state a single 'Chemicals' segment only"
+     "source": "not present \u2014 Annual Report 2025 pages 147-148, 192-193 cover only the single 'Chemicals' segment"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not disclosed \u2014 Annual Report 2026 page 221 reports only 'Chemicals' and 'EV Products' segments"
+     "source": "not present \u2014 Annual Report 2026 pages 172-173, 221-222 report only 'Chemicals' and 'EV Products' segments"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "not disclosed \u2014 Presentation Aug 2026 page 4 (Q1FY27) shows only Chemical Segment, Battery Materials and Consolidated"
+    "source": "not present \u2014 Presentation Aug 2026 page 4 (Q1FY27) reports only Chemical Segment, Battery Materials and Consolidated"
    },
-   "not_found": "All figures. No page names Inox Holdings and Investments Limited, IHIL, the Demerged Undertaking or mutual fund distribution; no revenue, EBITDA/segment result or PAT for it exists in the tagged pages."
+   "not_found": "All figures. No tagged page names the Demerged Undertaking, IHIL, ILFL or any mutual fund / mutual fund distribution business; pages carry only GFL Chemicals and EV/Battery Materials data."
   }
  },
  "GODREJPROP::rationale": {
-  "stamp": "7a3250dc62384c3a281bd1ba786b20ab",
+  "stamp": "7b8d327d6bf0c69cbd9b671e477475d5",
   "verdict": {
-   "rationale": "The supplied texts do not support the premise of a separation: nothing in them describes Godrej Properties separating, demerging, spinning off or hiving down any business. The only transaction document provided is a scheme of AMALGAMATION (merger) before the NCLT Mumbai Bench C-IV, CP(CAA)/25/MB/2026 c/w CA(CAA)/268/MB/2025, in which a wholly owned subsidiary (the Transferor Company, Embellish Houses Private Limited, CIN U11681OOMH2025PTC460029, incorporated 31 October 2025 on conversion of Embellish Houses LLP) is absorbed into Godrej Properties Limited, the listed Transferee Company (BSE and NSE), with an Appointed Date of 1 November 2025. Both applicant companies are described as 'engaged in the business of real estate development and other related activities,' and the stated rationale is consolidation, not separation: commonalities and synergistic linkages producing operational efficiency; a streamlined group structure with fewer legal entities and less multiplicity of legal and regulatory compliance; pooling of technical resources, personnel, capabilities, skills and expertise for optimum use of infrastructure, cost reduction and efficiencies, and lower administrative and operational costs; administrative and operational convenience with no duplicated communication and coordination; rationalised costs from eliminating multiple record-keeping and administrative functions; and less time and effort to consolidate financials at group level. Because the Transferor is a wholly owned subsidiary, no shares are issued as consideration and its shares are simply cancelled, so there is no swap ratio, no shareholder-level value split and no new listed entity \u2014 the opposite of a spin-off structure. The single earnings-call passage supplied, from May 2025, is about operating guidance and capital deployment, not about any separation: management cited an absolute net debt cap as the outer limit, Rs. 21,000 crores of collections guidance (40% above the prior year's guidance and 20% above actuals), 'extremely healthy' operating cash flows whose post-business-development positivity depends on how much BD is done, high imputed returns on equity and capital, and a willingness to deploy further capital for good deals; the only 'value unlocking' referenced is from sustaining rapid growth, not from a corporate restructuring. No business being separated, no investor, lender or partner demanding it, and no problem it solves are named anywhere in these texts, so the 'why' of a separation cannot be reconstructed from them.",
-   "evolution": "No evolution of any separation idea can be traced from these materials. Only one call passage is tagged (May 2025), and it discusses collections guidance of Rs. 21,000 crores, the net debt cap and BD-driven cash flows, with no mention of a separation, demerger or spin-off; passages for the other two years referenced in the request are not present. The only dated corporate-action trail is the merger's: the Transferor Company was incorporated on 31 October 2025 (on conversion of Embellish Houses LLP), the Appointed Date is 1 November 2025, the ROC Mumbai report is dated 22 April 2026 and the Regional Director's report 29 April 2026 \u2014 a wholly owned subsidiary absorption whose rationale, as filed, is consolidation rather than separation.",
+   "rationale": "The supplied texts do not describe a separation at all \u2014 they describe the opposite: an amalgamation (merger) of a wholly owned subsidiary into Godrej Properties Limited, and no demerger, spin-off, carve-out or business separation appears anywhere in them. In the NCLT Mumbai filing (CP(CAA)/25/MB/2026 c/w CA(CAA)/268/MB/2025), the Transferee Company is Godrej Properties Limited, listed on BSE and NSE, and the Transferor Company is Embellish Houses Private Limited (CIN U116810OMH2025PTC460029), incorporated on 31 October 2025 upon conversion of Embellish Houses LLP; both are stated to be 'engaged in the business of real estate development and other related activities.' The stated rationale is purely consolidation and housekeeping: consolidation of the real estate business because of 'several commonalities and synergistic linkages' yielding operational efficiency; a streamlined group structure with fewer legal entities and less multiplicity of legal and regulatory compliances; pooling of technical resources, personnel, capabilities, skills and expertise for optimum use of infrastructure and cost reduction; administrative and operational convenience with elimination of duplicated communication and coordination; rationalising costs by eliminating multiple record-keeping and administrative functions; and reduced time and effort to consolidate financials at group level. Because the Transferor is a wholly owned subsidiary, no shares are issued as consideration and its shares are cancelled, so there is no swap ratio, no value unlocking for shareholders and no new listed entity \u2014 mechanically incompatible with a separation thesis. The filing gives an Appointed Date of 1 November 2025 (the text also garbles this once as '07sf November 2025'), an Effective Date tied to filing the certified NCLT order with the ROC Mumbai, and records the Regional Director (WR) report dated 29.04.2026 with routine observations only (creditor and employee protection, Section 232(3)(i) fees, Ind AS 103/AS 14 accounting entries, income tax and GST compliance, stock exchange filing for disclosure since the subsidiary is wholly owned, and two ROC complaints against GPL \u2014 SRN J00036911, closed, and Anil Kumar Poddar's SRN 100057751 \u2014 both stated not to pertain to the Scheme). The only earnings-call passage provided, from May 2025, contains no separation discussion whatsoever: it is a capital-deployment and guidance answer in which management cites an absolute net debt cap, FY26 collections guidance of Rs. 21,000 crores ('40% higher than our last year's guidance and 20% higher than actuals'), expected healthy operating cash flows whose post-business-development positivity depends on how much business development is done, and Pirojsha Godrej's comment that 'a lot of value unlocking can happen for the business by sustaining the kind of rapid growth we have seen' alongside high imputed returns on equity and capital \u2014 i.e., value unlocking through organic growth, not through separating a business.",
+   "evolution": "Only one call excerpt was supplied (May 2025), and in it the separation idea never surfaces: the discussion is confined to the net debt cap, Rs. 21,000 crores of FY26 collections guidance, business-development pace and 'value unlocking' via sustained growth, with analyst questions from Pritesh Sheth and Parvez Qazi on cash flows and FY25 sales mix. There is therefore no call-by-call arc to trace, and no earlier or later call in which the proposal is first floated, debated or refined. The only corporate-action document is the amalgamation Scheme, whose timeline runs from the Transferor's incorporation on 31 October 2025 and Appointed Date of 1 November 2025 through the Regional Director's report of 29.04.2026 and the pending NCLT Mumbai petition. On these texts alone, the plan did not evolve from a separation into anything \u2014 the separation premise is unsupported and the actual transaction is a consolidation.",
    "points": [
     {
-     "call": "May 2025",
-     "point": "Management framed capital deployment against an absolute net debt cap, saying how much they use within it depends on the scale and quality of deals they see \u2014 no mention of any business separation.",
-     "quote": "So, I think we can use that for the maximum that we will go to."
-    },
-    {
-     "call": "May 2025",
-     "point": "The only hard numbers given: FY26 collections guidance of Rs. 21,000 crores, 40% above the prior year's guidance and 20% above prior-year actuals, implying 'extremely healthy' operating cash flows.",
-     "quote": "We have guided to Rs. 21,000 crores collections which is 40% higher than our last year's guidance and 20% higher than actuals."
-    },
-    {
-     "call": "May 2025",
-     "point": "Whether operating cash flows are positive after business development depends on how much BD the company does; management hoped to keep finding deals to sustain the growth trajectory.",
-     "quote": "The question of whe ther they are post -BD positive or not is a question of the amount of BD w e do."
-    },
-    {
-     "call": "May 2025",
-     "point": "The sole reference to 'value unlocking' is attributed to sustaining rapid growth, not to any restructuring, separation or listing of a business.",
-     "quote": "I think a lot of value unlocking can happen for the business by sustaining the kind of rapid growth we have seen."
-    },
-    {
-     "call": "May 2025",
-     "point": "High imputed returns justify more capital deployment into the existing business \u2014 the opposite of releasing capital via a separation.",
-     "quote": "So, we are quite happy to deploy further capital if we see good opportunities on an ongoing basis."
-    },
-    {
      "call": "Scheme",
-     "point": "The filing is a scheme of amalgamation, not a separation: both applicant companies are in real estate development, and the Transferee (Godrej Properties Limited) is listed on BSE and NSE.",
-     "quote": "The Applicant Companies submitted that the Applicant Companies are engaged in the business of real estate development and other related activities."
-    },
-    {
-     "call": "Scheme",
-     "point": "The first stated benefit is consolidation of the real estate business, on grounds of commonalities and synergistic linkages yielding operational efficiency.",
+     "point": "The transaction is an amalgamation of a wholly owned subsidiary into Godrej Properties Limited, not a separation; both companies are in real estate development, and the lead benefit cited is consolidating the real estate business to capture commonalities and synergistic linkages for operational efficiency.",
      "quote": "Consolidation of real estate bus,ness. There are several commonalities and synergistic linkages, and the consolidation of real estate busrness will result in ope ration al effi ciency;"
     },
     {
      "call": "Scheme",
-     "point": "A second benefit is a simpler group structure: fewer legal entities and reduced multiplicity of legal and regulatory compliances.",
+     "point": "A second stated benefit is structural simplification \u2014 fewer legal entities in the group and reduced duplication of legal and regulatory compliance obligations.",
      "quote": "Ensuring a streamlined group structure by reducing the number of legal entities in the group and reducing the multiplicity of legal and regulatory compliances required;"
     },
     {
      "call": "Scheme",
-     "point": "Pooling of technical resources, personnel, capabilities, skills and expertise is cited for optimum infrastructure use, cost reduction and lower administrative and operational costs.",
+     "point": "Cost and capability benefits are framed as pooling people and technical resources for better infrastructure utilisation and lower administrative and operating costs.",
      "quote": "Pooling of the technical resources, personnel, capabilities, skills and expeftise leading to optimum use of infrastructure, cost reduction and efficiencies, reduction of administrative and operational costs;"
     },
     {
      "call": "Scheme",
-     "point": "Further benefits claimed are administrative and operational convenience, cost rationalisation from eliminating duplicate record keeping, and faster group-level financial consolidation.",
-     "quote": "Reducing time and efforts for consolidation of financials at the group level."
+     "point": "Remaining benefits are back-office in nature: eliminating duplicated communication and coordination, removing multiple record-keeping and administrative functions, and shortening group financial consolidation.",
+     "quote": "Rationalizing cosrs by eliminating multiple record keeping and administrative functions; and Reducing time and efforts for consolidation of financials at the group level."
     },
     {
      "call": "Scheme",
-     "point": "Structurally this cannot be a spin-off: the Transferor is a wholly owned subsidiary, no consideration shares are issued, and its shares are cancelled \u2014 so there is no swap ratio and no shareholder-level separation.",
+     "point": "Because the Transferor is a wholly owned subsidiary, no consideration shares are issued and its shares are simply cancelled \u2014 there is no swap ratio, no shareholder-level value unlock and no separately listed entity, which rules out a spin-off reading.",
      "quote": "As the Transferor Company is a wholly owned subsidiary of the Transferee Company, no shares of the Transferee Company shall be allotted towards discharge of consideration or in lieu or exchange of the equity shareholding in the Transferor Company."
     },
     {
      "call": "Scheme",
-     "point": "The entity being absorbed is Embellish Houses Private Limited, incorporated 31 October 2025 on conversion of Embellish Houses LLP, with an Appointed Date of 1 November 2025; Godrej Properties continues to exist post-scheme.",
-     "quote": "'Appointed Date' means the 1st November,2025"
+     "point": "The entity being merged in is newly formed: Embellish Houses Private Limited was incorporated on 31 October 2025 on conversion of Embellish Houses LLP, with an Appointed Date of 1 November 2025, indicating a tidy-up of a recently converted vehicle rather than the separation of an operating business.",
+     "quote": "EMBELLISH HOUSES PRIVATE LIMITED, (C I N : U 1 1 68 1 00 MH 2025PTC460029) incorporated on 31st October 2025 upon conversion of Embellish Houses LLP, under the provisions of the Companies Act, 2013."
     },
     {
      "call": "Scheme",
-     "point": "Employees transfer to Godrej Properties without break in service and creditors' rights are unaffected; there is no compromise or arrangement with either.",
-     "quote": "the Petitioner Companies submit that there is no compromise or arrangement with creditors under the Scheme; rights and claims of all creditors remain unaffected and will continue to be protected in the ordinary course of bus,ness under the Scheme and applicable law."
+     "point": "Creditors and employees are expressly unaffected \u2014 no compromise or arrangement with either, and Transferor employees move across without break in service on terms no less favourable, so no lender or employee demand drove the structure.",
+     "quote": "So far as the interests of the creditors and employees are concerned, the Petitioner Companies submit that there is no compromise or arrangement with creditors under the Scheme; rights and claims of all creditors remain unaffected and will continue to be protected in the ordinary course of bus,ness under the Scheme and applicable law."
+    },
+    {
+     "call": "May 2025",
+     "point": "Management's capital discussion is about deployment limits and deal quality under an absolute net debt cap, with willingness to deploy more capital where returns justify it \u2014 no mention of separating any business.",
+     "quote": "So, we are quite happy to deploy further capital if we see good opportunities on an ongoing basis."
+    },
+    {
+     "call": "May 2025",
+     "point": "The only quantified guidance given is FY26 collections of Rs. 21,000 crores, 40% above the prior year's guidance and 20% above actuals, with operating cash flows expected to be 'extremely healthy' and post-business-development positivity contingent on the quantum of business development done.",
+     "quote": "We have guided to Rs. 21,000 crores collections which is 40% higher than our last year's guidance and 20% higher than actuals."
+    },
+    {
+     "call": "May 2025",
+     "point": "Pirojsha Godrej attributes 'value unlocking' to sustaining rapid organic growth and high imputed returns on equity and capital \u2014 not to any structural separation.",
+     "quote": "I think a lot of value unlocking can happen for the business by sustaining the kind of rapid growth we have seen."
     }
    ],
-   "what_management_expects": "Nothing about a separation is stated. The scheme expects one consolidated real estate business: operational efficiency from synergistic linkages, a streamlined group with fewer entities and lighter compliance, pooled resources and skills cutting administrative and operational costs, no duplicated record keeping or coordination, and faster group financial consolidation. The call expects Rs. 21,000 crores collections, healthy operating cash flows and high returns on capital \u2014 no margin, valuation or capital-release claims tied to a separation.",
-   "gaps": "Everything about a separation: no business separated, no rationale, no demerger terms, no investor, lender or partner demand, no margin, capital, valuation or focus claims, and no FY24/FY25 call passages."
+   "what_management_expects": "Nothing is said about a separation's effects, because no separation is proposed. For the amalgamation the filing claims only operational efficiency from consolidating the real estate business, a leaner group structure, pooled technical and personnel resources, lower administrative and record-keeping costs, and faster group financial consolidation. No margin, capital-allocation or valuation benefit is quantified; the May 2025 call ties value unlocking to sustained growth and high imputed ROE/ROCE instead.",
+   "gaps": "Everything a separation thesis needs: no demerger, no businesses separated, no investor, lender or partner demand, no financials, valuation, debt allocation or timeline \u2014 and only one call excerpt, which never mentions it."
   }
  },
  "IEX::rationale": {
@@ -8900,6 +8910,120 @@
     "source": "Presentation Aug 2026 \u2014 page 6 (consolidated/brand-level only; no separated business)"
    },
    "not_found": "No spun-off business exists: this is an inbound merger of SFIL into DIL. Pages carry no segment revenue, operating profit or PAT for any separated unit; SFIL's own PAT is absent too."
+  }
+ },
+ "HAPPSTMNDS::segments": {
+  "stamp": "e6c5e1e277feb68935e23379fc5841fa",
+  "verdict": {
+   "segment_name": "Happiest Minds Technologies Limited (whole company, consolidated \u2014 Transferor Company being merged into ITC Infotech India Limited; no segment is being spun off)",
+   "unit": "\u20b9 Lakhs",
+   "measure_notes": "Revenue = consolidated operating revenue (external customers only; inter-segment nil). Operating_profit = 'Operating Margin' as the company defines it = EBITDA excluding other income. EBITDA incl. other income was 42,122 (FY24), 46,223 (FY25), 48,836 (FY26), 14,129 (Q1FY27). PAT = reported consolidated profit after tax (not adjusted PAT). Company's own reportable segments are IMSS / PDES / GBS and only 'segment results' (EBIT-like, pre-unallocables) are disclosed per segment; the figures here are the entity-level totals for the business being merged.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 162466,
+     "operating_profit": 34042,
+     "pat": 24839,
+     "source": "Presentation Jul 2026 \u2014 page 22 (revenue corroborated by Annual Report 2024 \u2014 page 178 and Annual Report 2025 \u2014 page 195; PAT 24,839 per Annual Report 2024 \u2014 page 178)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 206084,
+     "operating_profit": 35972,
+     "pat": 18465,
+     "source": "Presentation Jul 2026 \u2014 page 22 (revenue 206,084 and PAT 18,466 per Annual Report 2025 \u2014 page 195)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 231511,
+     "operating_profit": 40162,
+     "pat": 21262,
+     "source": "Presentation Jul 2026 \u2014 page 22 (revenue 231,511 and PAT 21,262 per Annual Report 2026 \u2014 page 206)"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q1 FY27",
+    "revenue": 62851,
+    "operating_profit": 10869,
+    "source": "Presentation Jul 2026 \u2014 page 22 (page 11 shows 62,851 revenue and 10,868 operating margin; Q1 FY27 PAT 6,760)"
+   },
+   "not_found": "No separate ITC Infotech financials, no merged/combined-company pro forma, and no per-segment PAT or EBITDA \u2014 segments carry only revenue and segment results."
+  }
+ },
+ "GODREJPROP::segments": {
+  "stamp": "a6d4da62c36146b58f624469117dd54b",
+  "verdict": {
+   "segment_name": "Embellish Houses Private Limited (EHPL) \u2014 wholly-owned subsidiary being amalgamated into Godrej Properties Limited; not a reported segment or separated business",
+   "unit": "\u20b9 crore",
+   "measure_notes": "No profit or revenue line of any kind is disclosed for EHPL on the tagged pages. EHPL appears only as a narrative note on the scheme of amalgamation (Annual Report 2026 \u2014 pages 197 and 243). The only segment disclosures available are the Group's two reportable segments, Real Estate and Hospitality, where 'Segment Results' = profit before tax and Segment Revenue equals Net Income from Operations (no inter-segment reconciliation shown); neither segment corresponds to EHPL. EHPL is also absent from the AOC-1 subsidiary statements on the tagged pages (Annual Report 2024 \u2014 page 250; Annual Report 2026 \u2014 page 243), so no standalone turnover / PBT / PAT is available. Note also that this is an inward merger (EHPL merges into GPL), not a separation \u2014 nothing is being spun off.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Not disclosed \u2014 EHPL does not appear on any tagged page for FY2024"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Not disclosed \u2014 EHPL does not appear on any tagged page for FY2025"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 197 and page 243 (narrative only: scheme of amalgamation approved November 06, 2025; no financials)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 (Q1 FY27) carries only consolidated balance sheet and project-level data \u2014 no EHPL figures"
+   },
+   "not_found": "All EHPL figures: revenue, operating profit/EBITDA, PBT and PAT, for every year and quarter. Pages carry only the amalgamation note, not EHPL's own financials."
+  }
+ },
+ "LUMAXTECH::segments": {
+  "stamp": "7d2bc032c20a5f375fe49514770f0ae4",
+  "verdict": {
+   "segment_name": "IAC India (IAC International Automotive / 'Intelligent Ambient Comfort') \u2014 not a reported segment; its operations sit inside the Advanced Plastics & Interior Systems business, and the Company/Group report a single reportable segment",
+   "unit": "\u20b9 Lakhs (presentation unit of the financial statements; no segment figures given)",
+   "measure_notes": "No profit or revenue line is available for this business. Ind AS 108 disclosures are expressly omitted: Annual Report 2024 notes 56 (standalone, p.267) and 57 (consolidated, p.369), Annual Report 2025 notes 39 (p.281) and 42 (p.377), and Annual Report 2026 note 43 (standalone p.298, consolidated p.396) all state a single reportable segment \u2014 manufacturing and trading of automotive components \u2014 so no segment revenue, segment result, EBIT, EBITDA, PBT or PAT is disclosed. The AR2024 AOC-1 (p.370) gives subsidiary-level revenue/PBT/PAT but lists no IAC entity. AR2026 p.75 describes the business qualitatively only.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 267 (standalone note 56) and page 369 (consolidated note 57): single reportable segment, no segment disclosures"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 281 (standalone note 39) and page 377 (consolidated note 42): single reportable segment, no segment disclosures"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 298 (standalone note 43) and page 396 (consolidated note 43): single reportable segment, no segment disclosures"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "All of it: no revenue, operating profit/EBITDA/EBIT, PBT or PAT for IAC India in any year or quarter. Pages carry only single-segment non-disclosure notes and a qualitative business description; no quarterly presentation pages supplied."
   }
  }
 }

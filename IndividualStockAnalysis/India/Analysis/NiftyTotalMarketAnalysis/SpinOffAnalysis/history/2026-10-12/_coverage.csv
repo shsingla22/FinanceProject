@@ -1,0 +1,57 @@
+symbol,confidence,listing,parent_pnl,cash_flow,pe,annual_reports,presentations,segment_numbers_found,segment_status,rationale_points,rationale_status,calls_read_36m
+ASTRAL,confirmed,not_yet,yes,yes,yes,3,4,6,cached,10,cached,1
+APOLLOHOSP,confirmed,not_yet,yes,yes,yes,3,11,8,judged,17,cached,3
+ASTRAMICRO,confirmed,not_yet,yes,yes,yes,3,12,2,cached,15,cached,1
+HINDUNILVR,confirmed,listed,yes,yes,yes,3,10,6,cached,21,cached,6
+LEMONTREE,confirmed,not_yet,yes,yes,yes,3,11,0,cached,14,cached,5
+NH,confirmed,not_yet,yes,yes,yes,3,9,2,cached,14,cached,2
+VEDL,confirmed,listed,yes,yes,yes,3,11,6,cached,27,cached,8
+ANANTRAJ,confirmed,not_yet,yes,yes,yes,3,11,0,cached,14,cached,0
+EMBDL,confirmed,not_yet,yes,yes,no,3,11,0,cached,8,cached,2
+HSCL,confirmed,not_yet,yes,yes,yes,3,12,0,cached,12,cached,0
+PRICOLLTD,confirmed,not_yet,yes,yes,yes,3,12,0,cached,12,cached,0
+REFEX,confirmed,not_yet,yes,yes,yes,3,12,6,cached,17,cached,3
+RELIGARE,confirmed,not_yet,yes,yes,yes,3,8,6,cached,16,cached,3
+INDIAGLYCO,confirmed,listed,yes,yes,yes,3,8,6,judged,17,cached,6
+INOXGREEN,confirmed,listed,yes,yes,yes,3,12,5,cached,30,cached,8
+PICCADIL,confirmed,not_yet,yes,yes,yes,3,8,6,judged,17,cached,1
+THOMASCOOK,confirmed,not_yet,yes,yes,yes,3,12,6,cached,20,cached,2
+KITEX,confirmed,not_yet,yes,yes,yes,3,6,0,cached,18,cached,0
+LLOYDSENT,confirmed,not_yet,yes,yes,yes,3,4,6,cached,10,cached,0
+MAHSEAMLES,confirmed,not_yet,yes,yes,yes,3,11,6,cached,15,cached,2
+THERMAX,confirmed,not_yet,yes,yes,yes,3,11,6,cached,14,cached,0
+JSWENERGY,confirmed,not_yet,yes,yes,yes,3,11,0,cached,12,cached,1
+TRIVENI,confirmed,listed,yes,yes,yes,3,11,6,cached,26,cached,6
+HEGAM,confirmed,listed,no,no,no,3,11,6,cached,11,cached,0
+SAMMAANCAP,confirmed,not_yet,yes,yes,no,3,10,2,cached,22,cached,0
+GABRIEL,confirmed,listed,yes,yes,yes,3,12,6,cached,34,cached,3
+SKFINDUS,confirmed,not_yet,yes,yes,yes,1,2,6,cached,12,cached,1
+FLUOROCHEM,confirmed,not_yet,yes,yes,yes,3,12,0,judged,14,cached,1
+INTELLECT,confirmed,not_yet,yes,yes,yes,3,11,0,cached,10,cached,0
+LAURUSLABS,confirmed,not_yet,yes,yes,yes,3,11,0,cached,6,cached,0
+SKFINDIA,confirmed,listed,yes,yes,yes,3,9,6,cached,29,cached,5
+STAR,confirmed,pending_record_date_set,yes,yes,yes,3,11,0,cached,17,cached,8
+JKPAPER,confirmed,not_yet,yes,yes,yes,3,9,3,cached,12,cached,0
+SUNTECK,confirmed,not_yet,yes,yes,yes,3,11,3,cached,10,cached,0
+LT,probable,not_yet,yes,yes,yes,0,0,0,no documents,13,cached,2
+DEVYANI,probable,not_yet,yes,yes,no,3,12,0,cached,8,cached,2
+UPL,probable,subsidiary_ipo,yes,yes,yes,3,11,4,cached,16,cached,1
+NTPC,probable,not_yet,yes,yes,yes,0,0,0,no documents,7,cached,2
+SAPPHIRE,probable,not_yet,yes,yes,yes,0,0,0,no documents,7,cached,0
+COALINDIA,probable,subsidiary_ipo,yes,yes,yes,3,11,0,cached,8,cached,1
+RELIANCE,probable,not_yet,yes,yes,yes,0,0,0,no documents,11,cached,4
+TMPV,probable,listed,yes,yes,yes,0,0,0,no documents,16,cached,8
+ADANIENT,probable,listed,yes,yes,yes,3,10,6,cached,18,cached,2
+HAPPSTMNDS,probable,not_yet,yes,yes,yes,3,12,9,judged,14,judged,1
+IEX,probable,subsidiary_ipo,yes,yes,yes,3,11,3,cached,3,cached,0
+AIIL,probable,not_yet,yes,yes,yes,3,5,0,cached,3,cached,0
+COFORGE,probable,not_yet,yes,yes,yes,3,12,2,cached,8,cached,0
+GODREJPROP,probable,not_yet,yes,yes,yes,3,12,0,judged,10,judged,1
+NAUKRI,probable,not_yet,yes,yes,yes,0,0,0,no documents,9,cached,0
+PARADEEP,probable,listed,yes,yes,yes,0,0,0,no documents,4,cached,0
+SUNPHARMA,probable,pending_record_date_set,yes,yes,yes,0,0,0,no documents,4,cached,0
+TATACOMM,probable,not_yet,yes,yes,yes,0,0,0,no documents,9,cached,1
+CCAVENUE,probable,subsidiary_ipo,yes,yes,yes,3,12,6,cached,15,cached,4
+LUMAXTECH,probable,not_yet,yes,yes,yes,3,0,0,judged,10,cached,0
+PRIVISCL,probable,not_yet,yes,yes,yes,0,0,0,no documents,14,cached,0
+TVSMOTOR,probable,listed,yes,yes,yes,0,0,0,no documents,9,cached,0
