@@ -202,8 +202,9 @@ def facts_in(text: str, rights: bool = True) -> dict:
     m = UNDERTAKING_RX.search(t)
     if m:
         u = re.sub(r"\s+", " ", m.group(1)).strip()
-        if not re.match(r"(as defined|as on|from the|to the|into the|of the demerged|in the|shall have)", u, re.I) \
-                and len(u) > 12:
+        if not re.match(r"(as defined|as on|from the|to the|into the|of the demerged|in the|shall have|"
+                        r"with|and|or|which|that|for|by|at|on)\b", u, re.I) \
+                and len(u) > 12 and re.search(r"[A-Za-z]{4,}", u):
             out["demerged_undertaking"] = u[:200]
     for key, rx in (("record_date", re.compile(r"record date", re.I)),
                     ("appointed_date", re.compile(r"appointed date", re.I))):
@@ -259,7 +260,9 @@ def refine_kind(row: dict, text: str) -> str:
     amalg = len(re.findall(r"amalgamat|\bmerger\b", head))
     listing = bool(FA.PATTERNS["subsidiary_listing"].search(head))
     if kind in ("scheme_other", "merger", "demerger"):
-        if demerg >= 3 and demerg >= amalg * 0.5:
+        # a scheme that demerges says so more often than it amalgamates;
+        # an amalgamation order that mentions "demerger" in passing does not
+        if demerg >= 3 and demerg >= amalg:
             return "demerger"
         if kind == "scheme_other" and amalg >= 3:
             return "merger"
@@ -773,3 +776,26 @@ def listing_status(sit: dict, judge: dict | None = None,
             "text": f"NOT YET — scheme at '{st}' stage; {rc} will list only "
             f"after NCLT sanction, effectiveness and a record date"
             + (f"; indicated timeline: {tl}" if tl else "; no listing timeline stated")}
+
+
+NOT_A_DEMERGER_RX = re.compile(
+    r"\b(not|no|nothing|neither)\b.{0,40}\b(de-?merger|spin|separat)|"
+    r"amalgamat\w+ (of .{0,80} )?into|merg\w+ (of .{0,80} )?into|"
+    r"describes? (an? )?(amalgamation|merger)", re.I)
+DEMERGER_WORDS_RX = re.compile(r"de-?merg|spin|carve|hiv\w+ off|separate (listing|entity|company)|list(ing|ed)", re.I)
+
+
+def judge_override(sit: dict, judge: dict) -> dict | None:
+    """When the judge, having read the scheme, says the filing is an
+    amalgamation and nothing is being separated, the situation is a
+    merger whatever the keyword count said. Returns the new kind or None."""
+    if sit["kind"] not in SPIN_KINDS or judge.get("status") not in ("judged", "cached"):
+        return None
+    what = f"{judge.get('what_is_spun', '')} {judge.get('reason', '')}"
+    spun = re.sub(r"\b(not|no|nothing|neither)\b.{0,40}\b(de-?merger|spin-?off|separation)\b", " ",
+                  judge.get("what_is_spun", ""), flags=re.I)
+    if NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) \
+            and judge.get("parent_or_spin") in ("neither", "unclear", None) \
+            and judge.get("selling_pressure") != "likely":
+        return "merger"
+    return None

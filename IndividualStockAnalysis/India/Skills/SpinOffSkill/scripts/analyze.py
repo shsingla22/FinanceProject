@@ -610,6 +610,11 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     scheme = scheme_text_for(s, rows)
     s["judge"] = judge(s, scheme, s["concall_mentions"], allow_ai=ai, runner=runner) \
         if s["kind"] in SO.SPIN_KINDS else {}
+    new_kind = SO.judge_override(s, s["judge"])
+    if new_kind:
+        s["kind"], s["family"] = new_kind, SO.family_of(new_kind)
+        s["confidence"] = ("other", "the scheme read by the judge amalgamates; nothing is separated")
+        s["verdict"] = SO.verdict(s, s["checklist"])
     s["listing"] = SO.listing_status(s, s["judge"], today)
     if s["confidence"][0] not in ("confirmed", "probable"):
         return

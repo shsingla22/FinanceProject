@@ -563,3 +563,20 @@ def test_resulting_company_never_the_parent_and_listing_has_a_short_form():
     assert SO.listing_status(full, {}, TODAY)["short"] == "RECORD DATE 2026-09-15; listing pending"
     assert AZ.entity_cell({"facts": {}, "judge": {"what_is_spun": "the ice-cream business"}}) == "the ice-cream business"
     assert AZ.entity_cell({"facts": {}, "judge": {"what_is_spun": "not stated"}}) == "—"
+
+
+
+def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
+    text = "amalgamation amalgamation amalgamation merger of Sesa into Dabur; " + "demerger " * 3
+    assert SO.refine_kind({"kind": "merger"}, text) == "merger"
+    assert SO.refine_kind({"kind": "scheme_other"}, "demerger " * 6 + "amalgamation " * 2) == "demerger"
+    sit = {"kind": "demerger", "stage": "exchange_noc", "facts": {}, "days_since_first": 10,
+           "listed_on": None, "days_since_listing": None, "reasons": [], "headlines": []}
+    j = {"status": "judged", "what_is_spun": "Nothing; documents describe amalgamation of Sesa Care "
+         "Private Limited into Dabur India, not a demerger", "parent_or_spin": "neither",
+         "selling_pressure": "unlikely", "reason": "brand acquisition"}
+    assert SO.judge_override(sit, j) == "merger"
+    j2 = {"status": "judged", "what_is_spun": "Ice cream business demerged into Kwality Wall's",
+          "parent_or_spin": "spin", "selling_pressure": "likely", "reason": "focus"}
+    assert SO.judge_override(sit, j2) is None
+    assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" means with the total revenue and net.')
