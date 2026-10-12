@@ -1,0 +1,4 @@
+symbol,kind,label,url,file,text_file,pages,status,fetched
+IEX,annual_report,Annual Report 2026,https://www.bseindia.com/xml-data/corpfiling/AttachHis/6b4c0801-5233-47fc-8d66-7de6795f88a4.pdf,Annual_Report_2026.pdf,Annual_Report_2026.txt,310,ok,2026-10-12
+IEX,annual_report,Annual Report 2025,https://www.bseindia.com/xml-data/corpfiling/AttachHis/fbcd5640-0d48-4015-8674-c43757686dbb.pdf,Annual_Report_2025.pdf,Annual_Report_2025.txt,302,ok,2026-10-12
+IEX,annual_report,Annual Report 2024,https://www.bseindia.com/xml-data/corpfiling/AttachHis/35754ce2-aaee-4f63-9a72-564a21605a94.pdf,Annual_Report_2024.pdf,Annual_Report_2024.txt,299,ok,2026-10-12
