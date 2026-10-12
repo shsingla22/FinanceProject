@@ -580,3 +580,13 @@ def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
           "parent_or_spin": "spin", "selling_pressure": "likely", "reason": "focus"}
     assert SO.judge_override(sit, j2) is None
     assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" means with the total revenue and net.')
+
+
+
+def test_resulting_company_must_look_like_a_company_name():
+    good = 'the Resulting Company, i.e. Talwandi Sabo Power Limited'
+    assert SO.facts_in(good)["resulting_company"] == "Talwandi Sabo Power Limited"
+    assert SO.facts_in('Sriam Labs Private Limited ("Resulting Company")')["resulting_company"] == "Sriam Labs Private Limited"
+    for bad in ('No. 1 is a public limited ("Resulting Company")', 'Essentials Limited ("Resulting Company")',
+                'the Resulting Company, i.e. Public Limited', 'Investments Limited ("Resulting Company")'):
+        assert "resulting_company" not in SO.facts_in(bad), bad

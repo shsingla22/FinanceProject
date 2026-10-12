@@ -197,7 +197,13 @@ def facts_in(text: str, rights: bool = True) -> dict:
         tail = re.search(r"((?:[A-Z][A-Za-z0-9&.\-]*\s+){1,7}(?:Limited|Ltd\.?))\s*$", name)
         if tail:
             name = tail.group(1).strip()
-        if len(name) > 6:
+        # a real company name: at least two capitalised words before
+        # Limited, none of them a bare legal-form or generic word
+        words = name.split()
+        body = [w for w in words[:-1] if w.lower() not in ("private", "pvt", "pvt.")]
+        if (len(body) >= 2 and all(w[:1].isupper() for w in body)
+                and body[0].lower().rstrip(".") not in ("public", "no", "essentials", "investments",
+                                                        "the", "a", "an", "new", "resulting")):
             out["resulting_company"] = name
     m = UNDERTAKING_RX.search(t)
     if m:
