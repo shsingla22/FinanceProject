@@ -52,127 +52,159 @@
   }
  },
  "INDIAGLYCO": {
-  "stamp": "2b4b23dbfc0edcb1c805e0f5d6d2147f",
+  "stamp": "7c5d44b663345192e25a292e0e6834f7",
   "verdict": {
-   "what_is_spun": "Bio Pharma undertaking into Ennature Bio Pharma Ltd; Spirits and Biofuel undertaking into IGL Spirits Ltd",
-   "reason": "not stated \u2014 the NCLT order says rationale of the scheme was discussed in the first motion order dated 15.01.2026, which is not in these documents",
+   "what_is_spun": "Bio Pharma undertaking and Spirits & Biofuel undertaking demerged from India Glycols into two new companies",
+   "demerged_business_names": [
+    "Bio Pharma",
+    "Biopharma Undertaking",
+    "Spirits and Biofuel Undertaking(s)",
+    "Ennature Bio Pharma Limited",
+    "EBL",
+    "Resulting Company 1",
+    "IGL Spirits Limited",
+    "ISL",
+    "IGSL",
+    "Resulting Company 2",
+    "India Glycols Limited (Demerged Company)"
+   ],
+   "reason": "not stated \u2014 the NCLT order says the \"rationale of the scheme\" was discussed in the first motion order dated 15.01.2026, which is not in these documents",
    "reason_class": "not stated",
-   "insiders": "Promoter and Promoter Group voted 3,99,67,854 shares, 100% in favour; entitlement is pro rata to all shareholders, so promoter stake mirrors into both resulting companies",
-   "hidden_value": "Cost-of-acquisition split prices IGL Spirits at 47.62% of the whole and Ennature Bio Pharma at 20.61%, leaving only 31.77% in the parent; INR 467 crores earmarked to prepay debt against ~INR 1,100 crores term loan",
+   "insiders": "Not stated beyond voting: Promoter and Promoter Group cast 3,99,67,854 of 4,42,48,626 votes, 100% in favour; shares allotted pro rata to all holders, so promoter holding mirrors across both resulting companies. No incentive detail.",
+   "hidden_value": "Cost-of-acquisition split prices Spirits & Biofuel highest at 47.62%, Bio Pharma 20.61%, residual India Glycols 31.77%. Parent carries roughly INR1,100 crore term loan at 31 March 2026, with INR467 crore for prepayment; rating on watch list until demerger completes.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Two newly listed entities distributed pro rata; Ennature only 1 share per 3 held, so small, unindexed positions in different industries",
-   "parent_or_spin": "unclear",
+   "selling_pressure_why": "Two new entities handed to every holder (1-for-3 EBL, 1-for-1 IGSL); no index membership or trading history stated.",
+   "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "read_next": "The promised debt profile of all three units, and listing dates for Ennature Bio Pharma and IGL Spirits",
-   "quote": "Upon the Scheme becoming effective, the Bio Pharma and the Spirits and Biofuel Undertaking(s) will be transferred to and vested in EBL and ISL, respectively."
+   "listing_timeline": "Said 21st August, 2026: shares allotted on Record Date 2nd September, 2026 \"shall, in terms of the Scheme, be listed on the bourses of the National Stock Exchange of India Limited and the BSE Limited subject to the applicable regulations and the necessary regulatory approvals\" \u2014 no listing date given; allotment was intimated 8th September, 2026 and the Scheme became effective 1st September, 2026",
+   "read_next": "First motion NCLT order dated 15.01.2026 for the scheme rationale, plus the per-unit debt profile promised on the call",
+   "quote": "The Scheme became effective from 1st September, 2026."
   }
  },
  "NH": {
-  "stamp": "27775e5524fd992c61151ddef5620dc8",
+  "stamp": "c666cac85d561648b543d79a9924195b",
   "verdict": {
-   "what_is_spun": "Clinical Services undertaking of NHIC \u2014 10 primary/secondary care clinics in Bengaluru \u2014 demerged into listed parent NHL",
+   "what_is_spun": "Clinical Services undertaking of NHIC \u2014 10 Bengaluru clinics \u2014 demerged into listed parent NHL",
    "demerged_business_names": [
     "Clinical Services",
     "Demerged Undertaking",
-    "NH Integrated Care Private Limited",
-    "NHIC",
-    "Demerged Company",
-    "Narayana Hrudayalaya Limited",
-    "NHL",
-    "Resulting Company"
+    "clinic business",
+    "Practice Plus",
+    "NH Integrated Care Private Limited (NHIC)",
+    "Narayana Hrudayalaya Limited (NHL) / Resulting Company"
    ],
-   "reason": "Clinics depend on hospital infrastructure and duplicate admin functions; transfer gives unified patient pathways and cost savings, while NHIC focuses exclusively on the Narayana Aarogyam preventive healthcare platform",
+   "reason": "Clinics had developed dependencies on hospital infrastructure and duplicated admin functions; separation lets NHIC pursue the Aarogyam preventive healthcare business exclusively while NHL integrates clinics for unified patient pathways and cost savings.",
    "reason_class": "regulatory_strategic",
-   "insiders": "Not stated for promoters or management; NHIC stays a wholly owned subsidiary of NHL, no change in NHL's shareholding pattern, no shares or cash consideration issued",
-   "hidden_value": "Clinical Services turnover was only Rs. 39.94 crore, 1.11% of NHL standalone FY25 turnover; the separation isolates Narayana Aarogyam \u2014 asset-light, digital-first preventive healthcare with \"demonstrated investor interest\" \u2014 inside an unlisted 100% subsidiary",
+   "insiders": "Not stated. No change in shareholding pattern; NHIC remains a 100% wholly owned subsidiary of NHL, with no cash consideration and no shares issued.",
+   "hidden_value": "Clinical Services is tiny \u2014 Rs 39.94 crore, 1.11% of NHL standalone FY25 turnover \u2014 and was a cost-duplicating dependency; the retained asset-light Aarogyam preventive platform is where NHIC claims growth and 'demonstrated investor interest'.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new shares issued, no new listing, no shareholding-pattern change; demerged business is 1.11% of turnover",
+   "selling_pressure_why": "No shares issued, no new listing, no index change; demerged business is 1.11% of turnover and stays inside listed NHL.",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "listing_timeline": "Per the December 12, 2025 filing: \"The Resulting Entity is a listed entity. There is no requirement of any new listing of shares as there is no consideration involved in the Demerger in view of the Demerged Company being a wholly owned subsidiary of the Resulting Company.\"",
-   "read_next": "NHIC financials splitting Aarogyam from Clinical Services; also the Meridian Medical Research & Hospital amalgamation scheme filed September 27, 2025",
-   "quote": "The separation of the Demerged Undertaking (as defined in the Scheme) will allow the Demerged Company exclusively pursue the preventive healthcare business, enabling sharper focus and growth in this niche segment, thereby enhancing shareholder value."
+   "listing_timeline": "Per the December 12, 2025 filing: 'The Resulting Entity is a listed entity. There is no requirement of any new listing of shares as there is no consideration involved in the Demerger in view of the Demerged Company being a wholly owned subsidiary of the Resulting Company.'",
+   "read_next": "NHIC standalone financials \u2014 Clinical Services profitability; and the Meridian Medical Research & Hospital amalgamation scheme filed September 27, 2025.",
+   "quote": "The Clinical Services undertaking of NHIC, comprising 10 clinics located in Bengaluru, shall be demerged to NHL."
   }
  },
  "VEDL": {
-  "stamp": "9c1eee8057bc86eb34411eaf4618c238",
+  "stamp": "d88d67cb8012de272467e3230f7e7013",
   "verdict": {
-   "what_is_spun": "The power business \u2014 existing independent power generation assets \u2014 into Talwandi Sabo Power Limited (\"Vedanta Power\")",
+   "what_is_spun": "Vedanta's power generation assets into Talwandi Sabo Power Ltd (\"Vedanta Power\"), alongside aluminium, oil & gas, iron & steel demergers",
    "demerged_business_names": [
-    "Vedanta Power",
     "Talwandi Sabo Power Limited",
     "TSPL",
     "Resulting Company 2",
-    "merchant power business"
+    "Vedanta Power",
+    "merchant power business of Vedanta Limited",
+    "existing independent power generation assets"
    ],
-   "reason": "Demerger into four independent, pure-play, sector-specific companies to unlock long-term value through sharper strategic focus, independent capital allocation and governance, simplifying Vedanta's corporate structure and giving investors direct exposure to sector-leading assets.",
+   "reason": "To create focused, pure-play sector companies that unlock long-term value through sharper strategic focus, independent capital allocation and governance, simplifying Vedanta's structure and giving investors direct exposure to sector-leading assets.",
    "reason_class": "value_unlocking",
-   "insiders": "Promoter stake and incentives in the new entity not stated; documents say Vedanta Limited shareholders receive shares in each resulting entity in proportion to existing holdings, ensuring continuity of ownership.",
-   "hidden_value": "Separation isolates one of India's largest private sector power generators as a pure-play with its own capital structure; residual Vedanta Limited keeps the Hindustan Zinc stake. Documents also reveal undisclosed, uncrystallised MoPNG/DGH claims sitting in the oil and gas entity.",
-   "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents do not discuss entity size, index exclusion or shareholder base; only that each entity is a separate sector-specific business.",
+   "insiders": "Promoter/management stake in the new entity not stated; shareholders of Vedanta Limited receive shares in each of the four resulting listed entities in proportion to existing holdings, ensuring continuity of ownership.",
+   "hidden_value": "Oil & gas entity MEL's net worth is projected to rise from negative INR 178 crores to positive INR 13,507 crores upon demerger, while that entity also absorbs large uncrystallised GoI claims (counterclaim of 8,596.80 crores).",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Four new sector-specific entities distributed pro-rata to all VEDL holders; index treatment and float size not stated in documents.",
    "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "listing_timeline": "Per the December 16, 2025 release: listing of the resulting companies is \"subject to completion of requisite implementation steps under the approved Scheme of Arrangement, compliance with applicable securities laws, and receipt of such further regulatory, stock exchange, and other customary approvals\"; the merchant power demerger approval was still pending before NCLT in a separate proceeding as of that date.",
-   "read_next": "The separate NCLT proceeding on the merchant power business demerger, and the Scheme's share entitlement ratio for TSPL.",
-   "quote": "(*The approval for demerger of merchant power business of Vedanta Limited is currently pending before the Hon\u2019ble NCLT under a separate proceeding. )"
+   "listing_timeline": "Nov 2025 call: \"This will set the stage for the listing of all five demerged entities by the end of FY '26\"; Jan 2026 call: NCLT approved the scheme on 16 December 2025, certified copy received 21 January 2026, \"targeting 1st of April\"; power demerger approval still pending in a separate NCLT proceeding, and listing is subject to further regulatory and stock exchange approvals.",
+   "read_next": "The separate NCLT proceeding on the merchant power demerger, plus TSPL's share-entitlement ratio and net-worth certificate in the Scheme.",
+   "quote": "Shareholders of Vedanta Limited will receive equity shares in each of the four resulting listed entities (in addition to their shareholding in Vedanta Limited) in proportion to their existing holdings, ensuring continuity of ownership while enabling direct participation in the growth trajectories of individual businesses."
   }
  },
  "JSWENERGY": {
-  "stamp": "19160feb7e84aaf968825f66a5b35ee5",
+  "stamp": "3f8fb4959a458348383dba2d88a8e3cc",
   "verdict": {
-   "what_is_spun": "GE Power India Limited's boiler manufacturing business, demerged into JSW Energy Limited as resulting company",
-   "reason": "Acquisition significantly enhances JSW Energy's in-house capabilities, with technology (conference-call text truncated); no further rationale stated in the filings.",
+   "what_is_spun": "GE Power India Limited's boiler manufacturing business, demerged into JSW Energy Limited",
+   "demerged_business_names": [
+    "Boiler Manufacturing Business",
+    "GE Power India Ltd.'s Boiler Manufacturing Business",
+    "GE Power India Limited (\"Demerged Company\")",
+    "JSW Energy Limited (\"Company\" or \"Resulting Company\")"
+   ],
+   "reason": "Acquisition of the boiler manufacturing business \"significantly enhances our in-house capabilities\" with technology; described as one of three strategic developments during the quarter.",
    "reason_class": "regulatory_strategic",
-   "insiders": "not stated \u2014 filings note only that JSW Energy is \"Part of O. P. Jindal Group\"; no promoter or management stake or incentive disclosed",
-   "hidden_value": "Separation moves a boiler manufacturing (equipment/EPC) business into a power generation utility, implying vertical integration of in-house technology and manufacturing; no financials, valuation or leverage disclosed in documents.",
+   "insiders": "not stated",
+   "hidden_value": "Not stated; documents disclose only that the boiler manufacturing business moves into JSW Energy, adding in-house boiler technology and manufacturing capability. No financials, valuation or share-exchange terms given.",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents disclose no share exchange ratio, consideration, size or index treatment for the demerged business.",
+   "selling_pressure_why": "No share-exchange ratio, consideration, size or index treatment stated; JSW Energy is already listed and no new entity lists.",
    "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "read_next": "The scheme and Section 230/102 explanatory statement with share exchange ratio and valuation report",
+   "listing_timeline": "not stated",
+   "read_next": "The Scheme and explanatory statement on www.jswenergy.in \u2014 share exchange ratio and boiler business financials.",
    "quote": "We have entered into a Scheme of Arrangement with GE Power India Ltd. to acquire its boiler manufacturing business."
   }
  },
  "APOLLOHOSP": {
-  "stamp": "473f6719b5746fdf5507e738ddaf666e",
+  "stamp": "94db24eb75e37207e9037d801592d05e",
   "verdict": {
-   "what_is_spun": "The Identified Business Undertaking of Apollo Hospitals, demerged into Apollo Healthtech Limited, to be renamed 'Apollo Healthco Limited'",
+   "what_is_spun": "The \"Identified Business Undertaking\" of Apollo Hospitals, demerged into Apollo Healthtech Limited, with Apollo Healthco and Keimed merged in",
    "demerged_business_names": [
     "Identified Business Undertaking",
-    "Apollo Healthtech Limited",
-    "Resultant Company",
-    "Apollo Healthco Limited",
-    "Apollo Healthco Limited (Transferor Company 1)",
-    "Keimed Private Limited (Transferor Company 2)"
+    "Apollo Healthtech Limited (\"Resultant Company\")",
+    "Apollo Healthco Limited (\"Transferor Company 1\", also the name Resultant Company will take)",
+    "Keimed Private Limited (\"Transferor Company 2\")",
+    "HealthCo",
+    "AHL"
    ],
-   "reason": "not stated",
-   "reason_class": "not stated",
-   "insiders": "Promoter-directors hold AHEL stakes (Chairperson 10,43,915 shares/0.73%; Suneeta Reddy 29,37,066/2.04%; Shobana Kamineni). Resultant Company to create ESOP scheme; AHL Promoter becomes executive chairperson; Rasmeli upside shared with Shobana Kamineni and identified employees.",
-   "hidden_value": "Composite scheme folds Apollo Healthco and Keimed into the demerged undertaking, creating one separately listed entity with its own board (3 Resultant Company Promoter nominees, 1 AHEL, 1 Rasmeli, 6 independents) and management upside economics.",
-   "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents give no size, index or industry-classification data; shares go pro-rata to AHEL holders on Record Date 1.",
-   "parent_or_spin": "unclear",
+   "reason": "Calls cite enhancing \"long-term shareholder value\" and being \"well positioned to capture the full benefits of scale with the combined entity to achieve a run rate of INR 25,000 crore\"; scheme text's rationale not in excerpt.",
+   "reason_class": "value_unlocking",
+   "insiders": "Demerged Company holdings: Suneeta Reddy (MD) 29,37,066 shares (2.04%), Chairperson 10,43,915 (0.73%), Shobana Kamineni non-executive director. AHL Promoter becomes executive chairperson of Resultant Company; new ESOP scheme; Rasmeli upside-share agreement with Shobana Kamineni and identified employees.",
+   "hidden_value": "Separation collects Healthco plus Keimed distribution into one listed vehicle targeting a ~INR 25,000 crore run rate, with promoter as executive chairperson, fresh ESOPs, and Rasmeli's upside-sharing \u2014 incentives loaded into the new entity, not the parent.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Resultant Company shares issued to all AHEL shareholders on Record Date 1 and newly listed; healthtech/distribution business distinct from hospitals.",
+   "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated \u2014 the May 21, 2026 notice only provides for 'listing of equity shares of Resultant Company on the Stock Exchanges in accordance with the Scheme'; shareholder meeting June 24, 2026, Tribunal sanction still pending",
-   "read_next": "Annexure 17 (page 756): revenue and net-worth of Identified Business Undertaking versus Demerged Company, last three years.",
+   "listing_timeline": "May 2026 call: \"hopeful the demerger process is completed by Q4 FY27 as planned earlier\" and \"by Q4 FY27, end of December or early Q4 FY27 is when Apollo Healthtech should get demerged and listed\"; shareholder meeting June 24, 2026, then NCLT \"some 3, 4 months to close\".",
+   "read_next": "Annexure 17 and 33-34: revenue and net-worth of the Identified Business Undertaking versus AHEL; then Annexure 31 valuation report.",
    "quote": "The Demerged Company has filed the Scheme with the Registrar of Companies on April 15, 2026 in form GNL-1."
   }
  },
  "HINDUNILVR": {
-  "stamp": "e8647177704bffdd73cc4ff9489c0a5c",
+  "stamp": "4f7cf665b65ee2d9864fbdd9c841bb7c",
   "verdict": {
-   "what_is_spun": "HUL's Ice Cream Business Undertaking (Kwality Wall's) demerged into Kwality Wall's (India) Limited, a pure-play ice cream company",
-   "reason": "Separation beneficial for both companies: tailoring the operating model to ice cream's cold chain, and focusing the investment algorithm and incentives on ice cream",
+   "what_is_spun": "HUL's Ice Cream Business Undertaking, demerged into Kwality Wall's (India) Limited, a pure-play India ice cream company",
+   "demerged_business_names": [
+    "Ice Cream Business Undertaking",
+    "Ice Cream business",
+    "Kwality Wall's (India) Limited",
+    "KWIL",
+    "Kwality Walls",
+    "Kwality",
+    "Wall's",
+    "Magnum",
+    "Cornetto"
+   ],
+   "reason": "\"Separation beneficial for both Companies\" \u2014 tailoring the operating model for ice cream cold chain, and focusing investment algorithm and incentives to ice cream.",
    "reason_class": "value_unlocking",
-   "insiders": "Promoter stake not stated; HUL holders get 1 KWIL share per HUL share. HUL CFO Ritesh Tiwari non-executive director; Prashant Premrajka executive director/CFO; Chitrank Goel deputy MD",
-   "hidden_value": "A #2 player in a market compounding ~10-11% is leaving at depressed economics: FY24-25 EBITDA margin 7.1%, H1 FY25-26 0.0%, against top-tier gross margins and a cost gap to global ice cream benchmarks \u2014 suppressed earnings, not a bad business",
+   "insiders": "Promoter/management stake not stated. HUL holders get 1 KWIL share per HUL share. HUL CFO Ritesh Tiwari is non-executive director; Prashant Premrajka executive director & CFO, Chitrank Goel deputy MD.",
+   "hidden_value": "A #2 India ice cream player with top-tier gross margins whose EBITDA collapsed from 7.1% (FY24-25) to 0.0% (H1 FY25-26) on cocoa, GST and standalone costs \u2014 with a margin-recovery roadmap in an 11%-growth market; parent gains 50-60bps margin.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Small, low-margin unit (HUL margin improves 50-60 bps without it), different cold-chain industry, index holders receive unwanted 1:1 shares",
+   "selling_pressure_why": "1-for-1 shares to every HUL holder of a small, currently zero-EBITDA pure-play cold-chain ice cream company; different industry from FMCG parent.",
    "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "read_next": "KWIL Information Memorandum \u2014 Risk Factors and standalone financials explaining H1 FY25-26 EBITDA falling to 0.0%",
-   "quote": "Ice Cream demerger is expected to result in an improvement of 50-60 bps to the reported margin as Ice Cream business operates at a margin lower than HUL average."
+   "listing_timeline": "Oct 2025 call: \"We expect to complete the demerger by December, with the listing anticipated in Quarter 4 of Financial Year 2026, subject to necessary regulatory approvals\"; Feb 2026 call: \"we have completed the demerger of the Ice Cream business this quarter\".",
+   "read_next": "KWIL's information memorandum filed with the Stock Exchanges, especially its \"Risk Factors\" and the Unilever brand/technology royalty agreement.",
+   "quote": "We expect to complete the demerger by December, with the listing anticipated in Quarter 4 of Financial Year 2026, subject to necessary regulatory approvals"
   }
  },
  "TRIVENI": {
@@ -1720,11 +1752,11 @@
   }
  },
  "APOLLOHOSP::segments": {
-  "stamp": "e4e0c305112005d3db7d09e55555e610",
+  "stamp": "4eef07eda21452d235176cb354cc0a55",
   "verdict": {
-   "segment_name": "Digital Health & Pharmacy Distribution (Apollo HealthCo Limited \u2014 the business being demerged into Apollo Healthtech Limited)",
+   "segment_name": "Digital Health & Pharmacy Distribution (Apollo HealthCo \u2014 offline pharmacy distribution + Apollo 24|7 digital health)",
    "unit": "\u20b9 million",
-   "measure_notes": "operating_profit = 'Segment Profit/(loss)' per Ind AS 108 segment note, defined by the company as profit before tax earned by each segment without allocation of finance costs (i.e. an EBIT-type measure); the quarterly deck labels the same figure 'EBIT'. Segment revenue is gross/before elimination of inter-segment revenue (eliminated only at group total level). PAT is 'PAT (Reported)' for the Digital Health & Pharmacy Distribution column in the investor deck. For reference, segment EBITDA (post-24|7 cost and ESOP) per deck: FY2025 1,676; FY2026 4,875.",
+   "measure_notes": "operating_profit = 'Segment Profit/(loss)' from the Ind AS 108 segment note, defined there as profit before tax earned by the segment without allocation of finance costs; it equals the 'EBIT' line for Digital Health & Pharmacy Distribution in the investor presentations (FY25 1,127 / FY26 3,987). Revenue is segment revenue BEFORE elimination of inter-segment revenue (group-level inter-segment eliminations of 759 / 774 / 2,002 mio are deducted only at total level, not split by segment). PAT is the segment PAT (Reported) line from the quarterly/annual presentations, not from the audited segment note. Segment EBITDA (presentation, after 24|7 cost and ESOP) was 1,676 mio in FY25 and 4,875 mio in FY26.",
    "years": [
     {
      "fy": "FY2024",
@@ -1738,7 +1770,7 @@
      "revenue": 90930,
      "operating_profit": 1127,
      "pat": 469,
-     "source": "Annual Report 2025 \u2014 page 227 (revenue, segment profit); Presentation May 2026 \u2014 page 13 (PAT)"
+     "source": "Annual Report 2026 \u2014 page 225 (revenue, segment profit); Presentation May 2026 \u2014 page 13 (PAT)"
     },
     {
      "fy": "FY2026",
@@ -1754,7 +1786,7 @@
     "operating_profit": 1357,
     "source": "Presentation May 2026 \u2014 page 12"
    },
-   "not_found": "FY2024 PAT absent. No Q1 FY27 financials: Presentation Aug 2026 page carries only bed-expansion data. Segment EBITDA not disclosed in annual reports."
+   "not_found": "FY2024 segment PAT/EBITDA; any Q1 FY27 segment financials (Aug 2026 deck page shown carries only bed-expansion data)."
   }
  },
  "AMBUJACEM::rationale": {
@@ -2617,41 +2649,41 @@
   }
  },
  "NH::segments": {
-  "stamp": "d6d167fdd484669d8010550e72463b12",
+  "stamp": "58d60f1c8882e7b390be4d5e86dd5261",
   "verdict": {
-   "segment_name": "Integrated Care \u2013 NHIC (NH Integrated Care Private Limited), shown in presentations as \"Integrated Care - NHIC and NHIL\" / \"Integrated Care Clinics\"; no separate reportable segment \u2014 subsumed in \"Medical and Healthcare related Services\"",
-   "unit": "\u20b9 million (\u20b9 Mn)",
-   "measure_notes": "The annual-report segment notes (AR2024 p.270, AR2025 p.290, AR2026 p.308) disclose only two segments \u2014 'Medical and Healthcare related Services' and 'Others (Insurance)' \u2014 with segment result = EBIT-type figure reconciling to PBT; neither carries a Clinical Services / NHIC line, and the discontinued operations shown there are the Jammu unit, not NHIC. The only NHIC-specific numbers on these pages are in the investor presentations: (a) operating profit = EBITDA, disclosed for 'NHIC and NHIL' combined, i.e. it also includes Narayana Health Insurance Ltd and is therefore not the undertaking alone, and (b) revenue = 'Integrated Care - NHIC and NHIL' revenue on the India Operations slide, quarterly only and net of inter-company eliminations: Q2 FY25 \u20b999 Mn, Q3 FY25 \u20b9107 Mn, Q1 FY26 \u20b9144 Mn, Q2 FY26 \u20b9190 Mn (Presentation Nov 2025 \u2014 page 7), Q3 FY26 \u20b9232 Mn (Presentation Feb 2026 \u2014 page 7). Quarterly NHIC+NHIL EBITDA: Q2 FY26 \u20b9-164 Mn (Presentation Nov 2025 \u2014 page 11), Q3 FY26 \u20b9-134 Mn (Presentation Feb 2026 \u2014 page 11), Q4 FY26 \u20b9-181 Mn (Presentation Jun 2026 \u2014 page 15). No PAT line for this business anywhere on the pages.",
+   "segment_name": "Integrated Care / Clinics business (NH Integrated Care \u2013 NHIC; shown as \"C \u2013 Clinics\" within India Operations revenue)",
+   "unit": "\u20b9 million",
+   "measure_notes": "Revenue is the clinic (NHIC) component of India domestic operating revenue in the investor presentations, stated after inter-company eliminations and excluding ATHMA and Medha; it is not a reported Ind AS 108 segment (the annual reports show only 'Medical and Healthcare related Services' and 'Others \u2013 Insurance'). No profit line is disclosed for the clinic business on its own: the only related profit datapoint is combined EBITDA of NHIC + NH Insurance (NHIL) of \u20b9 -674 Mn for FY26 (Presentation Jun 2026 \u2014 page 16), and India-Hospitals-plus-NHIC-clinics EBITDA margins of 19.2% (Q1 FY26), 23.9% (Q4 FY26) and 23.4% (Q1 FY27) (Presentation Aug 2026 \u2014 page 11). So operating_profit and PAT are left null rather than derived.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 270 (no NHIC / Clinical Services breakout)"
+     "source": "not disclosed in the supplied pages"
     },
     {
      "fy": "FY2025",
-     "revenue": null,
+     "revenue": 407,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 290 (no NHIC / Clinical Services breakout)"
+     "source": "Presentation Jun 2026 \u2014 page 8"
     },
     {
      "fy": "FY2026",
-     "revenue": null,
-     "operating_profit": -674,
+     "revenue": 609,
+     "operating_profit": null,
      "pat": null,
-     "source": "Presentation Jun 2026 \u2014 page 16 (EBITDA for NHIC and NHIL combined, FY26)"
+     "source": "Presentation Jun 2026 \u2014 page 8"
     }
    ],
    "latest_quarter": {
-    "period": "Q4 FY26",
-    "revenue": null,
-    "operating_profit": -181,
-    "source": "Presentation Jun 2026 \u2014 page 15 (EBITDA for NHIC and NHIL combined, Q4 FY26)"
+    "period": "Q1 FY27",
+    "revenue": 171,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 \u2014 page 7"
    },
-   "not_found": "No standalone Clinical Services/NHIC segment, revenue or PAT in any annual report; FY24/FY25 NHIC figures and FY26 NHIC revenue absent; Q1 FY27 slides give no NHIC-only revenue or EBITDA."
+   "not_found": "No FY2024 clinic revenue; no standalone clinic EBITDA, PBT or PAT for any year or quarter; only combined NHIC+NHIL EBITDA (FY26) and blended hospital+clinic margins exist."
   }
  },
  "VEDL::rationale": {
@@ -2801,18 +2833,18 @@
   }
  },
  "VEDL::segments": {
-  "stamp": "055b3cf3b660c6c5bd1ac5fa7d58f1e1",
+  "stamp": "d8da826046ca89bff12cd7402e044108",
   "verdict": {
-   "segment_name": "Power (merchant / commercial power; from FY2026 reported as the Power segment under Discontinued Operations \u2014 thermal power facilities generating and selling commercial power, excluding captive power, incl. TSPL)",
+   "segment_name": "Power segment \u2014 merchant power (reported from FY2026 under 'Discontinued Operations: Power \u2014 thermal power facilities predominantly engaged in generation and sale of commercial power, excluding captive power'; demerger of the Merchant Power Undertaking into Talwandi Sabo Power Limited, TSPL)",
    "unit": "\u20b9 crore",
-   "measure_notes": "Revenue = external segment revenue (third-party), excluding inter-segment revenue and excluding 'other operating income'. Operating profit = 'Segment results (EBITDA)' as defined by the company (non-GAAP, before depreciation/depletion/amortisation, finance costs, exceptionals and tax). No segment-level PAT is disclosed \u2014 finance costs and tax are reviewed only on an overall Group basis. FY2024 is the whole consolidated Power segment as then reported (6,153 revenue / 971 EBITDA). From FY2026 the Power segment is split into Continuing (wind + Mettur plant; FY26 135 revenue / 89 EBITDA) and Discontinued (merchant thermal power \u2014 the business being demerged); figures below for FY2025 and FY2026 use the Discontinued Operations Power column from the FY2026 annual report, which restates FY2025 to 6,022 / 650 versus 6,159 / 737 as originally reported in the FY2025 annual report (which did not split continuing/discontinued).",
+   "measure_notes": "Operating profit = 'Segment results (EBITDA)' as disclosed in consolidated segment reporting (non-GAAP, before depreciation/depletion/amortisation, finance costs, exceptional items and tax). Revenue = external revenue (excludes inter-segment revenue, which was nil for Power in FY2024/FY2025 and \u20b9170 crore for discontinued Power in FY2026; segment revenue incl. inter-segment = \u20b98,891 crore in FY2026) and excludes 'other operating income' (\u20b939 crore FY2026, \u20b919 crore FY2025 for discontinued Power). FY2024 figure is the undivided consolidated Power segment (\u20b96,153 crore revenue, \u20b9971 crore EBITDA) \u2014 the 2024 report gives no continuing/discontinued split, so it also includes the wind/Mettur power retained by Vedanta. FY2025 and FY2026 use the 'Discontinued Operations \u2014 Power' column (the merchant/thermal power business being separated), restated in the FY2026 report; the FY2025 total Power segment as originally reported was \u20b96,159 crore revenue / \u20b9737 crore EBITDA, of which continuing (wind + Mettur) was \u20b9137 crore / \u20b987 crore. No segment-level PAT is disclosed; profit is reported only down to EBITDA per segment, with finance costs and taxes unallocated.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 6153,
      "operating_profit": 971,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 234"
+     "source": "Annual Report 2024 \u2014 page 234 (also Annual Report 2025 \u2014 page 253)"
     },
     {
      "fy": "FY2025",
@@ -2835,7 +2867,7 @@
     "operating_profit": 566,
     "source": "Presentation Apr 2026 \u2014 page 49"
    },
-   "not_found": "No segment PAT, depreciation-only-based PBT, or quarterly power revenue. Q4FY26 EBITDA \u20b9566 crore covers all power (Jharsuguda, TSPL, HZL wind, Meenakshi, Athena), not merchant/TSPL alone. No standalone TSPL-entity P&L."
+   "not_found": "Segment PAT/net profit any year; standalone TSPL entity financials (only debt/cash given); Power segment quarterly revenue; Q4FY26 EBITDA of \u20b9566 crore covers all power (incl. retained wind/Mettur), not merchant alone."
   }
  },
  "TRIVENI::rationale": {
@@ -4687,6 +4719,353 @@
     "source": "Presentation Aug 2026 \u2014 page 17 (stated as 'Revenue from Operations 9.7 BINR' = 9,700 INR Million; PBT margin 9.0%, cash conversion 63%; no absolute profit figure given)"
    },
    "not_found": "FY2024 and full-year FY2025 figures; any EBIT/EBITDA/operating-profit line for any period; absolute Q1 FY27 profit (only 9.0% PBT margin)."
+  }
+ },
+ "HEGAM::rationale": {
+  "stamp": "64c72669967dcf48cdbd572fc6fa2222",
+  "verdict": {
+   "rationale": "Per the scheme's own rationale, HEG Advanced Materials Ltd. (the First Petitioner / Demerged Company, CIN L23109MP1972PLC008290, incorporated 27 October 1972, registered office at Mandideep near Bhopal, Dist. Raisen, M.P.) says its two core businesses \u2014 manufacturing graphite electrodes (including other carbon products) and generation of thermal and hydel power \u2014 have each 'acquired critical mass' and now each need flexibility and independence to grow faster in a fast-changing, technology- and innovation-driven environment. The filing argues the two have differentiated strategies, different industry-specific risks, different market dynamics and different growth trajectories, and that the nature of competition in each is distinct, so each is capable of attracting a different set of investors, strategic partners, lenders and other stakeholders; a structure 'amenable for future growth' is therefore required. The claimed benefits of segregation are unlocking value of each business for shareholders of the Demerged Company, better flexibility in accessing capital, separating businesses with different risk/return profiles so investors can choose what suits their strategy, focused growth strategy and focused management per business, greater visibility on each business's performance, enhanced operational efficiency, and de-risking the businesses from each other. Alongside the demerger into the Resulting Company (Second Petitioner, CIN U23994MP2024PLC071568, incorporated 4 June 2024, registered office c/o HEG Limited, NH-12, Mandideep), there is an amalgamation leg: the Transferee Company (the same First Petitioner) wants to consolidate the assets and liabilities of the Transferor Company (Third Petitioner) to streamline the corporate structure by consolidating multiple entities and gain efficiency through fewer legal and regulatory compliances and lower administrative costs. The amalgamation is further justified as establishing an 'independent brand identity of future oriented and new age business', combining resources to create synergies, optimally utilise resources, achieve greater economies of scale, and derive operating efficiencies from adopting the Transferor Company's existing technology-enabled processes. The filing concludes the Scheme is in the interests of all stakeholders of the Demerged/Transferee, Transferor and Resulting Companies. Important limitation: no earnings-call passages were supplied in this prompt \u2014 the 'CALL PASSAGES' section is empty \u2014 so no management commentary, operating or financial figures, segment margins, debt levels, capex, or named investor/lender/partner requests can be attributed, and none are present in the filing text provided (the only quantities given are share capital: authorised Rs 70,00,00,000 and paid-up Rs 38,59,58,810 across 19,29,77,530 equity shares of Rs 2 each for the First Petitioner, with 1,150 forfeited shares aggregating Rs 3,750; Rs 1,00,000 authorised and paid-up across 50,000 shares of Rs 2 each for the Resulting Company).",
+   "evolution": "Cannot be reconstructed call by call: the prompt's 'CALL PASSAGES' section was delivered empty, so there are no tagged calls, no dates and no sequence of management statements to trace. The only chronology available is procedural, from the filing: a first-motion joint application CA(CAA) No. 01/MP/2026 was allowed by the NCLT Indore Bench by order dated 26 March 2026 (shareholder and creditor meetings directed for the First and Third Petitioners, dispensed with where there were no such classes or where consent affidavits existed); the second-motion Company Petition CP(CAA) 3 of 2026 was filed on 12 May 2026 and admitted on 14 May 2026, with the order in hand dated 13 August 2026. Whether the plan changed in scope, structure or timing is not shown by any text provided.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "Identifies the two core businesses being separated and states both have reached scale, each needing independence to grow in a fast-changing technology/innovation environment.",
+     "quote": "Over the course of time, core businesses of the demerged Company viz. manufacturing graphite electrodes (including other carbon products) and generation of thermal and hydel power have acquired critical mass. Each of the said businesses required flexibility and independence to grow faster in the fast-changing technology and innovation driven environment."
+    },
+    {
+     "call": "Scheme",
+     "point": "Argues the businesses differ in strategy, industry-specific risk, market dynamics and growth trajectory \u2014 the conglomerate-mismatch justification.",
+     "quote": "Each of the core businesses mentioned above has a differentiated strategy, different industry specific risks and operate inter alia under different market dynamics and growth trajectory."
+    },
+    {
+     "call": "Scheme",
+     "point": "Says each business can attract its own distinct capital providers \u2014 investors, strategic partners and lenders \u2014 and that a structure amenable to future growth must be created; it does not say any of them requested the separation.",
+     "quote": "The nature and competition involved in each of the businesses is distinct from others and consequently each business or undertaking is capable of attracting a different set of investors, strategic partners, lenders and other stakeholders."
+    },
+    {
+     "call": "Scheme",
+     "point": "States the value-unlocking and capital-access benefit for shareholders of the Demerged Company as the lead expected outcome.",
+     "quote": "unlocking the value of each of the businesses for the shareholders of the Demerged Company, attracting different sets of investors, strategic partners, lenders and other stakeholders having a specific interest in the respective businesses and providing better flexibility in accessing capital;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Frames separation as letting investors self-select by risk/return profile across the two businesses.",
+     "quote": "segregating different businesses having different risk and return profiles, and providing investors with better flexibility to select investments which best suit their investment strategies and risk profile;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Lists focus, disclosure-visibility, dedicated management and efficiency gains as further benefits.",
+     "quote": "enabling focused growth strategy for each of the businesses for opportunities specific to each business; (d) creating greater visibility on performance of each of the businesses; (e) providing a separate growth path and focussed management for each of the businesses; (f) enhancing operational efficiency;"
+    },
+    {
+     "call": "Scheme",
+     "point": "The de-risking rationale: each vertical should no longer carry the other's risk.",
+     "quote": "pursuing growth in the respective business verticals with focused management approach and de-risking the businesses from each other."
+    },
+    {
+     "call": "Scheme",
+     "point": "Second leg of the composite scheme: the Transferee Company (the same listed entity) absorbs the Transferor Company to cut entity count, compliance burden and administrative cost.",
+     "quote": "Consolidating the assets and liabilities of the Transferor Company and the Transferee Company would streamline the corporate structure by consolidating multiple entities and enable efficiency in operations and processes through reduction in legal and regulatory compliances and related administrative costs."
+    },
+    {
+     "call": "Scheme",
+     "point": "The amalgamation is also pitched on branding, synergies, scale and technology adoption from the Transferor Company.",
+     "quote": "establishing independent brand identity of future oriented and new age business; (b) combining resources, creating synergies, optimally utilising resources and greater economies of scale and deriving operating efficiencies from adoption of existing technology-enabled processes of the Transferor Company;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Structure and parties: the listed 1972-incorporated Demerged Company is also the Transferee; the Resulting Company is a shell incorporated 4 June 2024 with Rs 1,00,000 paid-up capital, registered c/o HEG Limited.",
+     "quote": "Second Petitioner Company / Resulting Company \u2013 (CIN: U23994MP2024PLC071568) was incorporated on June 4, 2024, under the provisions of the Companies Act, 2013, having its registered office at C/o HEG Limited, NH-12, Dist. Raisen, Near Bhopal, Mandideep, Bhopal, Huzur, Madhya Pradesh - 462 046, India."
+    },
+    {
+     "call": "Scheme",
+     "point": "Procedural timeline and approvals: first motion allowed 26 March 2026 with meetings held or dispensed with on consent affidavits; second motion filed 12 May 2026, admitted 14 May 2026, order 13 August 2026 at NCLT Indore.",
+     "quote": "The present Company Petition (second motion) was filed on 12th May, 2026 and the same was admitted by this Tribunal by order dated 14th May, 2026."
+    }
+   ],
+   "what_management_expects": "Per the filing only, and with no figures: each business gets a separate growth path, focused management, focused strategy and enhanced operational efficiency; shareholders get value unlocked, greater per-business performance visibility, and investor self-selection by risk/return; each entity gets better capital access from its own investors, strategic partners and lenders. The amalgamation leg adds synergies, scale, technology-enabled processes and lower compliance and administrative cost. No margin, valuation or capital-structure targets are quantified.",
+   "gaps": "No call passages were supplied at all; the filing gives no segment financials, margins, debt allocation, capex, management commentary, named investor or lender demands, swap ratio, or listing timeline."
+  }
+ },
+ "HEGAM::segments": {
+  "stamp": "553966fa5e0109a1bf5798da84069c94",
+  "verdict": {
+   "segment_name": "Graphite (including other carbon products) \u2014 segment comprising manufacturing of graphite electrodes",
+   "unit": "\u20b9 Lakhs",
+   "measure_notes": "operating_profit = 'Segment result before interest & taxes' (segment EBIT, i.e. after depreciation and amortisation, before interest income/finance cost/tax). Revenue = segment Turnover, which equals External turnover since inter-segment turnover is nil. Figures are from HEG Limited standalone segment reporting (consolidated graphite figures are identical). Note: from FY2025 the two 63 MW thermal power plants were reclassified from 'Power' into the 'Graphite Segment', and FY2024 graphite comparatives were regrouped to \u20b931,775.98 lakhs segment result (AR2025 p.107) versus \u20b933,089.71 lakhs as originally reported (AR2024 p.94); FY2024 turnover unchanged. Graphite segment depreciation: FY2024 16,394.67 (as reported) / 17,187.50 (regrouped); FY2025 19,754.39; FY2026 21,079.82.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 236106.98,
+     "operating_profit": 33089.71,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 94"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 212004.91,
+     "operating_profit": 21661.06,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 107"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 253955.71,
+     "operating_profit": 27034.27,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 111"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "No segment-level PAT (tax/interest unallocated), no segment EBITDA line, and no quarterly or half-year graphite figures; the quarterly presentation pages supplied carry only industry and capacity commentary."
+  }
+ },
+ "INDIAGLYCO::rationale": {
+  "stamp": "55ef1344e828b6ce1865eb2627124c42",
+  "verdict": {
+   "rationale": "Management says IGL is being split because its three businesses \u2014 the chemicals/green-chemistry business (retained in India Glycols), the Liquor plus Bio-Fuel business (going to IGL Spirits), and the herbal/biopharma business plus the small Bio Polymers (guar gum) business carved out of chemicals (going to Ennature Bio Pharma) \u2014 have, in Rupark Sarswat's words, \"slightly different priorities, different markets, different drivers,\" and so should be run and grown independently. The board approved the scheme on 4 February 2025 along with the merger of promoter holding company Kashipur Holdings Limited into IGL, which is intended so that \"the promoters will have the direct shareholding of IGL in their names.\" Anand Singhal sized the three entities on 9MFY25 numbers: India Glycols (chemicals) Rs. 1,079 crores turnover at 13.6% EBITDA margin; IGL Spirits (liquor + biofuel) Rs. 1,628 crores net turnover at 14.4%; Ennature Bio Pharma (biopharma + biopolymer) Rs. 178 crores at 14.9%. The stated benefits are four: independent growth for each business, reduced risk of one business affecting the others, potential value unlock \"by drawing focused investors,\" and clear focus leading to improved management and resource allocation. Mechanically it is an NCLT-route demerger effective 1 April 2026 with all three companies to be listed, requiring SEBI, lender and NCLT approvals over a 12\u201315 month timeline, and the consortium lead State Bank of India is being engaged on splitting working capital and term debt. The debt split was progressively disclosed: Rs. 1,200 crores long-term debt in May 2025 (Rs. 500 crores chemicals / Rs. 700 crores liquor), then Rs. 1,400 crores in November 2025 split Rs. 600 crores India Glycols / Rs. 800 crores IGL Spirits, against which a Rs. 467 crores raise plus Rs. 180 crores of scheduled repayment was being applied. The demerger has also become the gating item for capital allocation and credit: capex is deferred until after it, and the credit rating sits on watch list with no upgrade possible until completion. Spirits was shown as the higher-return leg (ROCE of 17\u201318% per May 2025), while an investor challenged the logic of demerging Ennature given its margin collapse, which management conceded as a \"margin squeeze\" rather than degrowth.",
+   "evolution": "The idea surfaced fully formed on the Feb 2025 call, where Sarswat opened with \"the initiation of the scheme, which proposes to restructure IGL into three de-merged identities\" following the 4 February 2025 board approval, with Singhal giving segment P&Ls, the Kashipur Holdings merger, the 1 April 2026 effective date and a 12\u201315 month approval runway. Through May 2025, Aug 2025 and Nov 2025 the discussion shifted from rationale to plumbing \u2014 allocating long-term debt between the entities (Rs. 500/700 crores, later Rs. 600/800 crores), deferring all large capex until after the split, and defending Ennature's economics against an investor who called its margins trading-like. By Feb 2026 the demerger had become a constraint as well as a plan: the credit rating was frozen on watch list until completion and capex explicitly postponed, and by the Jun 2026 call (transcript dated 18 May 2026) attention was on the NCLT second-motion hearing of 21 May 2026 and hopes of an order in the first ten days of June, after which ROC filing would follow.",
+   "points": [
+    {
+     "call": "Feb 2025",
+     "point": "Sarswat framed the restructuring as splitting IGL into three de-merged identities, including moving the small Bio Polymers (guar gum) business out of chemicals into Ennature Bio Pharma, because the businesses have different markets and drivers.",
+     "quote": "They have slightly different priorities, different markets, different drivers, and therefore grow these businesses independently to create more value."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Singhal listed the four stated benefits of the scheme: independent growth, risk insulation between businesses, value unlock via focused investors, and better management and resource allocation.",
+     "quote": "Separating the business will reduce the risk of one business affecting the others."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Segment-level 9MFY25 sizing was given for each proposed entity: chemicals Rs. 1,079 crores at 13.6% EBITDA, Spirits Rs. 1,628 crores net at 14.4%, Ennature Rs. 178 crores at 14.9%.",
+     "quote": "So, now for the new companies, the India Glycols, which is the Chemical business largely, for 9MFY25 this Company has a turnover of Rs. 1,079 crores with an EBITDA margin of 13.6%."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "The second limb of the scheme \u2014 merging promoter holding company Kashipur Holdings Limited into IGL \u2014 is to give promoters direct shareholding rather than holding through a vehicle.",
+     "quote": "The merger of Kashipur Holdings, holding Company with India Glycols, is largely keeping in mind that the promoters will have the direct shareholding of IGL in their names."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Mechanics and timeline: NCLT route, effective 1 April 2026, 12\u201315 months of formalities including SEBI, lender and NCLT approvals, with all three companies to be listed.",
+     "quote": "So this demerger will be effective from 1st April, 26 and all the three companies will be listed on the stock exchange."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Near-term aim is to run the three as independent P&Ls to drive focus and growth, with listing and potential partners framed as later options for unlocking value.",
+     "quote": "Of course, these will be different companies, you know, the options after that are obviously listing them and also looking at potentially partners etc. are all there."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Working capital and term loan allocation across the three entities was still being negotiated with the consortium lead bank, State Bank of India.",
+     "quote": "Rohit, regarding the working capital allocation to each Company and the term loan allocation, we are talking to the term lender, mainly the State Bank of India, who is the leader in our consortium banking."
+    },
+    {
+     "call": "May 2025",
+     "point": "First concrete debt allocation: of Rs. 1,200 crores long-term debt, Rs. 500 crores to chemicals and Rs. 700 crores to liquor, including unit-specific expansion debt; Spirits ROCE was cited at 17\u201318%.",
+     "quote": "Just to brief you as of now position, we are having about INR 1,200 crores long-term debt in the books of the company, out of which about INR 500 crores will go to the Chemical division and INR 700 crores will go to the liquor division."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Capital allocation was put on hold pending the split \u2014 only rollover and maintenance capex of Rs. 40\u201350 crores, with the successor companies to decide capex themselves.",
+     "quote": "And after the demerger, the separate companies will think over the CapEx."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Investor Jaswinder Singh attacked the Ennature leg of the demerger, citing net margin falling from about 33% in 2021 to 2.38%; Sarswat conceded a margin squeeze but denied degrowth, pointing to four-year topline growth.",
+     "quote": "We are planning to unlock shareholder value by demerging our business units when there is extreme degrowth in that business."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "Debt had risen to about Rs. 1,400 crores and was re-split Rs. 600 crores to India Glycols and Rs. 800 crores to IGL Spirits, with a Rs. 467 crores raise plus Rs. 180 crores of scheduled repayment to be applied against it.",
+     "quote": "INR 600 crores in India Glycols and INR 800 crores in IGL Spirits."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "The pending demerger froze the credit rating on watch list, so no rating upgrade \u2014 and hence no rating-driven funding-cost relief \u2014 until completion; cost savings were instead coming from swapping Rs. 125 crores of debt for 150\u2013200 bps.",
+     "quote": "So, you will not find the rating improvement till our demerger happens."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "After Rs. 582 crores of repayment (Rs. 288 crores working capital, Rs. 200 crores term, Rs. 87 crores unsecured) and a target of ~Rs. 1,100 crores term loan at 31 March 2026, all new capex remained contingent on the demerger.",
+     "quote": "And any capex will be undertaken only after the demerger."
+    },
+    {
+     "call": "Jun 2026",
+     "point": "Process status: NCLT second-motion hearing set for 21 May 2026, with management hoping for the order by the first ten days of June and then ROC filing; FY27 debt liability of Rs. 268 crores, with per-entity debt profile still only promised, not disclosed.",
+     "quote": "21st May, we are hopeful that we will get the order for the demerger of the division."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing confirms the structure as two demerged undertakings moving out of India Glycols \u2014 the Biopharma Undertaking to Ennature Bio Pharma Limited and the Spirits and Biofuel Undertakings to IGL Spirits Limited \u2014 with liabilities following each undertaking under Clauses 4.2.7 and 10.2.7.",
+     "quote": "The Scheme expressly provides, under Clauses 4.2.7 and 10.2.7, that liabilities of the Biopharma Undertaking and the Spirits and Biofuel Undertakings shall become liabilities of the respective Resulting Companies."
+    },
+    {
+     "call": "Scheme",
+     "point": "Stakeholder consent was effectively unanimous: equity shareholders voted 4,42,48,625 of 4,42,48,626 in favour (one vote against), and all 36 participating unsecured creditors (Rs. 64,266.50 lakh of Rs. 1,12,010.63 lakh entitled) voted in favour; Reg 37 NOCs from BSE and NSE were obtained.",
+     "quote": "Votes cast in FAVOUR of the Resolution  36 64,266.50 (100%)"
+    },
+    {
+     "call": "Scheme",
+     "point": "The rationale itself is not set out in this portion of the petition \u2014 it is recorded as having been dealt with in the earlier first motion order of 15 January 2026, so the investor-facing reasoning comes only from the calls.",
+     "quote": "The main objects, date of incorporation, and authorized and paid -up share capital of the Demerged Company  and Resulting Companies , rationale of the scheme and required statutory compliances have been discussed in the first motion  order dated 15.01.2026 ."
+    }
+   ],
+   "what_management_expects": "Independent growth and focused management for each entity; insulation so one business cannot drag the others; value unlock by attracting focused investors; three separately listed companies effective 1 April 2026, each setting its own capex. Debt splits roughly Rs. 600 crores (chemicals) and Rs. 800 crores (Spirits, the 17\u201318% ROCE leg), with a rating upgrade expected only once the demerger completes.",
+   "gaps": "No share entitlement ratio, no per-entity valuation, no fix for Ennature's margin squeeze, no final working capital split, overhead allocation, Ennature's debt, or listing date."
+  }
+ },
+ "INDIAGLYCO::segments": {
+  "stamp": "4c5d9505a7806e61f884698404ecf5a7",
+  "verdict": {
+   "segment_name": "Ennature Biopharma (Bio Pharma Undertaking, demerging into Ennature Bio Pharma Limited \u2014 Resulting Company 1)",
+   "unit": "\u20b9 lakh (annual segment tables); quarterly presentation figures are \u20b9 crore",
+   "measure_notes": "Revenue = Gross Segment Revenue (External Customers), standalone Ind AS 108 segment table; no inter-segment revenue reported (inter-segment line is nil/blank). Operating profit = 'Segment Result (PBIT)' i.e. segment EBIT before interest, tax and exceptional items. Consolidated segment tables show identical Ennature Biopharma figures. Segment PAT is not disclosed; interest and tax are reported only at company level. Note the demerged entity Ennature Bio Pharma Limited also carries the Bio Polymers business, so entity-level sales in the presentation structure slides (\u20b9258 Cr FY25, \u20b9247 Cr FY26) exceed the Ennature Biopharma segment alone (\u20b9219 Cr FY25, \u20b9208 Cr FY26).",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 20514.85,
+     "operating_profit": 3860.16,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 146"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 21937.15,
+     "operating_profit": 2076.48,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 150"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 20777.15,
+     "operating_profit": 723.43,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 152"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q3 FY26",
+    "revenue": 50,
+    "operating_profit": null,
+    "source": "Presentation Feb 2026 \u2014 page 14 (net revenue \u20b950 Cr, EBIT margin 4.1%; EBIT amount not stated)"
+   },
+   "not_found": "No segment-level PAT, tax, interest or EBITDA for Ennature Biopharma; no Q1 FY27 or Q4 FY26 segment numbers; quarterly EBIT amounts given only as margin percentages."
+  }
+ },
+ "JSWENERGY::rationale": {
+  "stamp": "ccf9af417147c7e88569847d05f055b9",
+  "verdict": {
+   "rationale": "On the texts supplied, the separation is not JSW Energy carving out one of its own businesses: it is GE Power India Limited (GEPIL) demerging its boiler manufacturing business into JSW Energy Limited (JSWEL), with GEPIL as Transferor/Demerged Company and JSWEL as Transferee/Resulting Company under Sections 230 to 232 of the Companies Act 2013. The only rationale management actually gives is on the October 2025 call, and it is an acquisition/vertical-integration rationale rather than a separation-of-conglomerate rationale: \"This acquisition significantly enhances our in -house capabilities wit h both technology and people which is very critical for equipment manufacturing and supports our thermal power expansion plan.\" It sits inside a stated growth ambition of \"capacity of 30 GW and 40 GWh of energy storage,\" pursued \"in a calibrated and strategic manner\" to \"ensure predictability in execution.\" It is explicitly one of a bundle of three same-quarter moves: the GEPIL boiler scheme, completion of a majority stake in KSK Water Infrastructure (which supplies raw water to the 1,800 MW KSK Mahanadi plant and is equipped for a further 1,800 MW), and a battery assembly plant in Pune. Management frames it alongside the SANY wind-turbine manufacturing partnership and the decision to pause its own solar module manufacturing plans \u2014 i.e. buying in equipment capability where a partner or an acquisition is available, and dropping in-house build where it is not. The scheme filing text provided contains no rationale section at all: it is BSE/NSE observation-letter language that merely *requires* the company to disclose \"Need for the demerger, Rationale of the scheme and swap ratio, Synergies of business of the entities involved in the scheme.\" Consideration appears to be JSWEL shares to GEPIL shareholders, since the exchanges require a table of GEPIL shareholders, the share exchange ratio, and their \"Classification in JSWEL post scheme.\"",
+   "evolution": "Only one call passage was supplied, so no multi-call evolution is observable: on the Oct 2025 call the boiler-business scheme is announced as already signed, listed first of three strategic developments for the quarter, with no prior-call build-up in the provided text. The filing trail then runs NSE's reference letter to SEBI dated December 31, 2025, SEBI's comments dated March 30, 2026, and the NSE observation letter dated April 01, 2026, which gives JSW Energy six months to file the scheme with the NCLT. Nothing in the supplied texts shows the plan's terms changing between those dates; SEBI explicitly bars changes to the draft scheme after filing except those mandated by regulators.",
+   "points": [
+    {
+     "call": "Oct 2025",
+     "point": "The scheme is announced as an inbound acquisition of GE Power India's boiler manufacturing business via a Scheme of Arrangement, the first of three strategic developments for the quarter.",
+     "quote": "We have entered into a Scheme of Arrangement with GE Power India Ltd. to acquire its boiler manufacturing business."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "The stated reason is in-house equipment capability \u2014 technology and people \u2014 to support thermal expansion; this is the only rationale management gives anywhere in the supplied texts.",
+     "quote": "This acquisition significantly enhances our in -house capabilities wit h both technology and people which is very critical for equipment manufacturing and supports our thermal power expansion plan."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "The move is framed as part of a selective manufacturing strategy: partner with SANY for wind turbines, acquire boilers, and stop the in-house solar module plan.",
+     "quote": "This approach aligns with our recent partnership wit h SANY for wind turbine manufacturing and our decision to pause our solar module manufacturing plans ."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "The growth frame cited is a 30 GW / 40 GWh storage ambition, to be pursued with execution predictability for all stakeholders.",
+     "quote": "The opportunity for growth in this sector is immense, and we are committed to pursuing it in a calibrated and strategic manner ."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "A parallel vertical-integration step: completed majority stake in KSK Water Infrastructure, sized for 1,800 MW of existing and 1,800 MW of future thermal capacity.",
+     "quote": "This entity currently supplies raw water to our 1,800 MW KSK Mahanadi Thermal Power Plant and is equipped to support an additional 1,800 MW, ensuring readiness for our future expansion."
+    },
+    {
+     "call": "Scheme",
+     "point": "The legal structure confirms the direction of the separation: GEPIL is the Demerged Company and JSW Energy the Resulting Company, under Sections 230-232.",
+     "quote": "Sub: Observation Letter for draft scheme of arrangement amongst GE Power India Limited (Transferor/ Demerged Company ) and JSW Energy Limited (Transferee/ Resulting Company ) and their respective shareholders under Sections 230 to 232 and other applicable provisions of the Companies Act 2013 ."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing text supplied contains no rationale; the exchanges only mandate that the rationale, swap ratio, synergies and cost-benefit analysis be disclosed to shareholders later.",
+     "quote": "Need for the demerger, Rationale of the scheme and swap ratio, Synergies of business of the entities involved in the scheme, Impact of the scheme on the shareholders and cost benefit analysis of the scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "Lenders are a gating party: NOCs from banks, financial institutions and debenture trustees are required, as is disclosure of any lender-imposed conditions and their impact.",
+     "quote": "No Objection Certificate (NOC) from the lending scheduled commercial banks/ financial institutions/ debenture trustees as per para A(2)(k) of Part-I of SEBI Master Circular."
+    },
+    {
+     "call": "Scheme",
+     "point": "Consideration is implied to be JSWEL shares issued to GEPIL shareholders, with promoter/public classification of those holders in JSWEL to be justified.",
+     "quote": "Details of shareholders of GEPIL and their classification as Promoters and Public shareholders in JSWEL post scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "SEBI requires disclosure of all ongoing adjudication, recovery, prosecution and enforcement action against the company, promoters and directors before the NCLT and shareholders.",
+     "quote": "The Company shall ensure to disclose all details of ongoing adjudication & recovery proceedings, prosecution initiated and all other enforcement action taken, if any, against the Company, its promoters, and directors, before Hon'ble NCLT and shareholders, while seeking approval of the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "All liabilities of the Transferor Company must transfer to the Transferee, and valuation financials must be no more than six months old.",
+     "quote": "The Company shall ensure that t he entities involved in the Scheme shall duly comply with various provisions of the Circular and ensure that all the liabilities of the Transferor Company are transferred to the Transferee Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "Timing constraint: the NSE observation letter of April 01, 2026 is valid for six months, within which the scheme must reach the NCLT.",
+     "quote": "Kindly note that as required under Regulation 37 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the validity of this Observation Letter shall be six months from the date of this Letter, within which the scheme shall be submitted to the NCLT."
+    }
+   ],
+   "what_management_expects": "For JSW Energy: in-house boiler technology and people, strengthening equipment manufacturing capability and supporting thermal expansion toward 30 GW and 40 GWh of storage, with greater execution predictability; KSK water secured for 1,800 MW plus 1,800 MW more. For GE Power India: the texts say nothing. No margin, capital-allocation, valuation or re-rating expectation is stated anywhere in the supplied passages.",
+   "gaps": "No stated rationale from GEPIL's side, no swap ratio, valuation, revenue/EBITDA/PAT of the boiler business, synergy quantum, investor or lender demand for it, timeline, or any analyst Q&A."
+  }
+ },
+ "JSWENERGY::segments": {
+  "stamp": "ef38ffdd1f0a5f2f6229fae9c0c44d51",
+  "verdict": {
+   "segment_name": "Boiler Manufacturing Business (GE Power India's boiler manufacturing unit, Durgapur, West Bengal)",
+   "unit": "\u20b9 crore",
+   "measure_notes": "No profit or revenue line is disclosed for this business anywhere in the supplied pages. The only reference (Annual Report 2026 \u2014 page 117) is a narrative note that JSW Energy entered into an agreement with GE Power India to acquire its Durgapur boiler manufacturing unit and that the acquisition is 'currently underway'. JSW Energy's own segment reporting (Ind AS 108) splits only into Thermal (Grey), Renewables and Unallocated \u2014 segment results there are 'profit/(loss) before tax and finance costs' (EBIT) and segment revenue is total revenue from operations; neither carries a boiler-manufacturing or equipment-manufacturing segment. No consideration, enterprise value, revenue, EBITDA or PAT for the boiler unit is given.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 117 (narrative disclosure of the acquisition only; no financials)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "All figures. Pages carry only a narrative note on the GE Power India boiler unit acquisition (AR2026 p117) \u2014 no revenue, EBITDA/EBIT, PAT, consideration or segment line for the boiler business."
   }
  }
 }
