@@ -192,6 +192,11 @@ def facts_in(text: str, rights: bool = True) -> dict:
         name = re.sub(r"\s+", " ", m.group(1)).strip()
         name = re.split(r"\b(?:and|between|with|amongst|among|into)\b", name, flags=re.I)[-1].strip()
         name = re.sub(r"^(of|by|the)\s+", "", name, flags=re.I)
+        # a company name is a run of capitalised words ending in Limited:
+        # keep only that tail (the match can start mid-sentence)
+        tail = re.search(r"((?:[A-Z][A-Za-z0-9&.\-]*\s+){1,7}(?:Limited|Ltd\.?))\s*$", name)
+        if tail:
+            name = tail.group(1).strip()
         if len(name) > 6:
             out["resulting_company"] = name
     m = UNDERTAKING_RX.search(t)
@@ -263,6 +268,16 @@ def refine_kind(row: dict, text: str) -> str:
     return kind
 
 
+def _norm_name(n: str) -> str:
+    n = re.sub(r"\b(limited|ltd\.?|private|pvt\.?|india|the)\b", " ", n or "", flags=re.I)
+    return re.sub(r"[^a-z0-9]", "", n.lower())
+
+
+def _same_company(a: str, b: str) -> bool:
+    x, y = _norm_name(a), _norm_name(b)
+    return bool(x) and bool(y) and (x == y or x in y or y in x)
+
+
 def family_of(kind: str) -> str:
     return {"demerger": "spin-off", "subsidiary_listing": "partial spin-off / listing",
             "scheme_other": "scheme (nature unclear)", "merger": "merger",
@@ -319,6 +334,14 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         if news_only == len(fl):
             facts["news_only"] = True        # rumour / clarification / denial only
             stage = "rumoured"
+        rc = facts.get("resulting_company")
+        if rc:
+            rc = re.sub(r"^(in the case of|the case of|case of)\s+", "", rc, flags=re.I).strip()
+            # the pattern sometimes catches the PARENT's own name
+            if _same_company(rc, fl[0]["company"]):
+                facts.pop("resulting_company")
+            else:
+                facts["resulting_company"] = rc
         listed_on = (facts.get("record_date") if stage in ("record_date", "listed")
                      and facts.get("record_date") and facts["record_date"] <= today.isoformat()
                      else None) or stage_dates.get("listed") or stage_dates.get("record_date")
@@ -726,23 +749,27 @@ def listing_status(sit: dict, judge: dict | None = None,
     tl = "" if tl.lower().startswith("not stated") else tl
     rc = f.get("resulting_company") or "the resulting company"
     if sit["kind"] not in SPIN_KINDS:
-        return {"state": "not_a_spin", "text": "no new listing — " + family_of(sit["kind"])}
+        return {"state": "not_a_spin", "short": "no new listing",
+                "text": "no new listing — " + family_of(sit["kind"])}
     if st == "rumoured":
-        return {"state": "no_scheme", "text": "no scheme filed; listing not in prospect"
-                + (f" — on the calls: {tl}" if tl else "")}
+        return {"state": "no_scheme", "short": "no scheme filed",
+                "text": "no scheme filed; listing not in prospect" + (f" — on the calls: {tl}" if tl else "")}
     if sit["kind"] == "subsidiary_listing":
-        return {"state": "subsidiary_ipo", "text": f"IPO / listing of the subsidiary in motion "
-                f"since {sit['first_filing']}; date not fixed" + (f" — {tl}" if tl else "")}
+        return {"state": "subsidiary_ipo", "short": f"IPO in motion since {sit['first_filing']}",
+                "text": f"IPO / listing of the subsidiary in motion since {sit['first_filing']}; "
+                        f"date not fixed" + (f" — {tl}" if tl else "")}
     if st == "listed" or (st in ("record_date", "effective") and sit.get("days_since_listing")
                           and sit["days_since_listing"] >= LISTING_LAG_DAYS):
         when = sit.get("listed_on") or "—"
         rd = f" (record date {f['record_date']})" if f.get("record_date") else ""
-        return {"state": "listed", "text": f"LISTED — {rc} trades since about {when}{rd}"}
+        return {"state": "listed", "short": f"LISTED since ~{when}",
+                "text": f"LISTED — {rc} trades since about {when}{rd}"}
     if st in ("record_date", "effective"):
         rd = f.get("record_date") or sit.get("listed_on") or "set"
-        return {"state": "pending_record_date_set",
+        return {"state": "pending_record_date_set", "short": f"RECORD DATE {rd}; listing pending",
                 "text": f"RECORD DATE {rd}; {rc} not yet listed — {LISTING_LAG_NOTE}"
                 + (f"; filings/calls say: {tl}" if tl else "")}
-    return {"state": "not_yet", "text": f"NOT YET — scheme at '{st}' stage; {rc} will list only "
+    return {"state": "not_yet", "short": f"NOT YET ({st})" + ("; timeline stated" if tl else ""),
+            "text": f"NOT YET — scheme at '{st}' stage; {rc} will list only "
             f"after NCLT sanction, effectiveness and a record date"
             + (f"; indicated timeline: {tl}" if tl else "; no listing timeline stated")}

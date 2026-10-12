@@ -303,6 +303,16 @@ def table_md(fin: dict, pct_rows: tuple[str, ...] = ("growth", "margin")) -> lis
     return A
 
 
+def entity_cell(s: dict) -> str:
+    """The separated entity for the summary table: the filings' resulting
+    company when the pattern found a real one, else the judge's words."""
+    rc = s["facts"].get("resulting_company")
+    if rc:
+        return rc[:70]
+    w = (s.get("judge") or {}).get("what_is_spun") or ""
+    return (w[:70] + ("…" if len(w) > 70 else "")) if w and not w.lower().startswith("not stated") else "—"
+
+
 def render_company(s: dict, heavy: bool) -> list[str]:
     conf, why = s["confidence"]
     L = s["listing"]
@@ -461,15 +471,15 @@ def render_report(record: dict) -> str:
     A += ["## Confirmed demergers", "",
           "| Company | Resulting entity | Stage | Listing | Score | Verdict |", "|---|---|---|---|---:|---|"]
     for s in confirmed:
-        A.append(f"| **{s['symbol']}** | {s['facts'].get('resulting_company') or (s.get('judge') or {}).get('what_is_spun', '—')[:60]} | "
-                 f"{s['stage']} | {s['listing']['text'][:110]} | {s['verdict']['score']} | {s['verdict']['label'].split(' — ')[0]} |")
+        A.append(f"| **{s['symbol']}** | {entity_cell(s)} | "
+                 f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} | {s['verdict']['label'].split(' — ')[0]} |")
     if not confirmed:
         A.append("| — | | | | | |")
     A += ["", "## Probable and indicated", "",
           "| Company | What | Confidence | Stage | Listing | Score |", "|---|---|---|---|---|---:|"]
     for s in probable + indicated:
         A.append(f"| **{s['symbol']}** | {s['family']} | {s['confidence'][0]} — {s['confidence'][1][:60]} | "
-                 f"{s['stage']} | {s['listing']['text'][:90]} | {s['verdict']['score']} |")
+                 f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} |")
     if not probable and not indicated:
         A.append("| — | | | | | |")
     A.append("")

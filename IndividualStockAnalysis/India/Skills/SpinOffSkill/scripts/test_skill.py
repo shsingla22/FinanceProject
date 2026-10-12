@@ -548,3 +548,18 @@ def test_confidence_and_listing_status_follow_the_record():
     assert SO.confidence(rum)[0] == "indicated" and SO.listing_status(rum, {}, TODAY)["state"] == "no_scheme"
     ipo = {**pre, "kind": "subsidiary_listing"}
     assert SO.confidence(ipo)[0] == "probable" and SO.listing_status(ipo, {}, TODAY)["state"] == "subsidiary_ipo"
+
+
+
+def test_resulting_company_never_the_parent_and_listing_has_a_short_form():
+    rows = _rows()[:1]
+    s = SO.build_situations(rows, {"1": 'Alpha Industries Limited ("Resulting Company")'}, TODAY)[0]
+    assert "resulting_company" not in s["facts"]                     # the parent itself
+    s = SO.build_situations(rows, {"1": 'In the case of Alpha Energy Limited ("Resulting Company")'}, TODAY)[0]
+    assert s["facts"]["resulting_company"] == "Alpha Energy Limited"
+    L = SO.listing_status(s, {}, TODAY)
+    assert L["short"].startswith("NOT YET (announced)")
+    full = SO.build_situations(_rows()[:4], {"3": SCHEME}, TODAY)[0]
+    assert SO.listing_status(full, {}, TODAY)["short"] == "RECORD DATE 2026-09-15; listing pending"
+    assert AZ.entity_cell({"facts": {}, "judge": {"what_is_spun": "the ice-cream business"}}) == "the ice-cream business"
+    assert AZ.entity_cell({"facts": {}, "judge": {"what_is_spun": "not stated"}}) == "—"
