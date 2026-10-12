@@ -5,13 +5,16 @@ description: >
   the NiftyTotalMarket universe: pulls the last year of NSE and BSE
   filings, keeps every scheme of arrangement, demerger, subsidiary
   listing, slump sale, merger, rights offering and capital action, reads
-  the attachments and the last twelve months of conference calls, and
-  judges each situation against the spin-off checklist in the source
-  notes (Greenblatt) — why the spin, who sells, who gains, what is
-  revealed, the parent as the trade, partial spin-offs and the stub,
-  rights offerings and oversubscription, and the first-year / second-year
-  timing. Use when asked for announced or indicated spin-offs,
-  demergers, value-unlocking schemes, or a Greenblatt-style read of one.
+  the attachments, three years of conference calls, annual reports and
+  quarterly presentations, and judges each situation against the
+  spin-off checklist in the source notes (Greenblatt) — why the spin,
+  who sells, who gains, what is revealed, the parent as the trade,
+  partial spin-offs and the stub, rights offerings, and first-year /
+  second-year timing — with the demerged entity's listing status, the
+  parent's three-year financials, P/E and cash flows, and the separated
+  business's own numbers, page-cited. Use when asked for announced or
+  indicated spin-offs, demergers, value-unlocking schemes, or a
+  Greenblatt-style read of one.
 license: internal
 ---
 
@@ -38,88 +41,107 @@ largest gains came not in the first year but in the second.
 
 1. **Pulls the filings** — `Announcements/fetch_announcements.py` reads
    NSE's corporate-announcements feed month by month for the last year
-   (the whole exchange, ~180k filings) and keeps the rows of the 750
-   official NiftyTotalMarket constituents that classify as restructuring
-   — `demerger`, `subsidiary_listing`, `slump_sale`, `merger`,
-   `capital_reduction`, `rights_issue`, `scheme_other` — by category
-   and headline. BSE's announcement API refuses this environment (Akamai),
-   so BSE is covered honestly by its daily RSS feed (snapshotted every
-   run and accumulated) and the BSE-sourced per-company lists on
-   screener.in; BSE attachment PDFs download normally. Every attachment
-   is reduced to text. Stored in
-   `IndividualStockAnalysis/India/Announcements/NiftyTotalMarket/`,
-   beside `BalanceSheet/`, `ProfitStatement/` and `ConferenceCalls/`.
+   and keeps the rows of the 750 official NiftyTotalMarket constituents
+   that classify as restructuring — `demerger`, `subsidiary_listing`,
+   `slump_sale`, `merger`, `capital_reduction`, `rights_issue`,
+   `scheme_other`. BSE's announcement API refuses this environment
+   (Akamai), so BSE is covered by its daily RSS feed (snapshotted and
+   accumulated) and the BSE-sourced per-company lists on screener.in;
+   BSE attachment PDFs download normally. Every attachment is reduced to
+   text. Stored in `IndividualStockAnalysis/India/Announcements/`.
 2. **Builds situations** (`scripts/spinoff.py`) — one per company per
    kind family. A bare "Scheme of Arrangement" is re-classified from its
-   attachment text (a scheme that demerges is a demerger; one that only
-   amalgamates is a merger). Stages are walked from the filings' words:
-   announced → exchange NOC → meetings → NCLT sanction → effective →
-   record date → listed. Facts are extracted by pattern with the quote:
-   entitlement ratio, resulting company, demerged undertaking, record and
-   appointed dates, pro-forma mention, option-pricing language, promoter
-   continuity, size of the piece. Stated reasons are classified into the
-   notes' five (unrelated businesses, value unlocking, a weak or
-   capital-heavy business carved away, a regulatory / strategic knot,
-   attracting different investors).
-3. **Reads the calls** — the stored consolidated transcripts, last twelve
-   months, scanned for demerger / spin-off / hive-off / separate-listing
-   / value-unlocking language with verbatim snippets; companies whose
-   management talks this way with no filing yet are listed as
-   *indicated, not yet filed* — the earliest signal.
-4. **Pulls the numbers** — borrowings (stored balance sheets), net
-   profit and sales (stored P&L), market cap / price / P/E (the live
-   Nifty 500 market file, date stated), the industry median P/E from the
-   same file; `stub_value()` and `leverage_doubling()` carry the Sears
-   and Host Marriott arithmetic for when the pieces trade.
-5. **Answers the checklist**, item by item, each with status
-   (yes / partly / no / unknown), evidence and — when unknown — what to
-   read next. A verdict line places the situation in the cycle:
-   PRE-SPIN (study the parent) → SPINNING (record date set) → LISTED <1Y
-   (the selling-pressure window) → LISTED 1–2Y (the second-year window)
-   → MATURE. The score (0–10) is the share of checklist items the
-   documents answer; it measures visibility of the pattern, not quality.
-6. **The judge** (`claude -p`, model `SPINOFF_JUDGE_MODEL` →
-   `ANALYST_MODEL` → `claude-opus-5`) reads each spin-off's scheme text
-   and call excerpts and fills what a pattern cannot — the real reason,
-   who gains, what is hidden or revealed, the option-pricing date, what
-   to read next — strictly from the documents, with a verbatim quote,
-   cached per document hash (`.judge_cache.json`). `--quick` skips it;
-   the mechanical read stands alone and says so.
+   attachment text. Stages are walked from the filing HEADLINES
+   (announced → exchange NOC → meetings → NCLT sanction → effective →
+   record date → listed); a scheme body that merely promises a listing
+   is not a listing event. Facts are extracted by pattern with the
+   quote: entitlement ratio, resulting company, demerged undertaking,
+   record and appointed dates, pro-forma mention, option-pricing
+   language, promoter continuity, size of the piece. Stated reasons are
+   classified into the notes' five.
+3. **Confidence and order** — `confirmed` when a demerger scheme is on
+   the exchange record (a Demerger / Scheme filing or a scheme text that
+   demerges); `probable` for a subsidiary listing in motion or a scheme
+   whose nature the documents do not settle; `indicated` for news
+   verification, denial or calls alone. The report puts confirmed
+   demergers first and gives them the full treatment.
+4. **Listing status** — for every spin-off: LISTED since (record date),
+   RECORD DATE set and listing pending (with the typical 4–10 week gap
+   stated as typical, not forecast), NOT YET with the timeline the
+   filings or calls state, subsidiary IPO in motion, or no scheme filed.
+5. **Rationale from three years of calls** — every passage in the last
+   36 months of the stored transcripts where the separation was
+   discussed (wide windows), plus the scheme's rationale section, read
+   by the judge into a detailed account: the reasoning with the
+   specifics management gave, how the idea evolved call by call, what
+   management expects for each entity, what the calls did not explain —
+   point by point, each linked to its transcript
+   (`InvestorPresentations/NiftyTotalMarket/_concall_links.csv`).
+6. **The parent's numbers** (`scripts/financials.py`) — sales, operating
+   profit, PAT with growth and margins, and EPS, for the last three
+   fiscal years from the stored P&L; two Mermaid charts (₹ crore lines
+   and margins; they render on GitHub); P/E from the live Nifty 500
+   market file or latest stored close ÷ latest fiscal-year EPS, method
+   stated; three years of cash flows (operating, investing, financing,
+   net, free) from the stored cash-flow statements. Growth and margins
+   are computed here, never by a model.
+7. **The separated business's own numbers** —
+   `InvestorPresentations/fetch_presentations.py` pulls, per
+   highlighted company, the last three annual reports (to
+   `AnnualReports/NiftyTotalMarket/{SYMBOL}/`) and twelve quarterly
+   presentations (to `InvestorPresentations/NiftyTotalMarket/{SYMBOL}/`)
+   from the BSE links screener lists, as PDFs on disk plus page-marked
+   text and an index with source URLs. The segment-reporting pages
+   (always the note itself, plus pages naming the business or its
+   words) go to the judge, which returns revenue, operating profit and
+   PAT per fiscal year with document and page for every number, the
+   latest quarter from the presentations, what the profit line is, and
+   what the pages do not carry. Growth and margins are computed here.
+8. **Checklist, verdict, score** — the notes' questions answered item by
+   item with evidence and what to read next; the verdict places the
+   situation in the cycle (RUMOURED → PRE-SPIN → SPINNING → LISTED <1Y →
+   LISTED 1–2Y → MATURE); the score is the share of items the documents
+   answer.
+9. **The judge** (`claude -p`, model `SPINOFF_JUDGE_MODEL` →
+   `ANALYST_MODEL` → `claude-opus-5`) reads only the documents shown to
+   it, must quote, writes "not stated" rather than fill a gap, and is
+   cached per document hash (`.judge_cache.json`). `--quick` skips it.
+10. **Coverage** — `_coverage.csv` records, per confirmed / probable
+    company, whether the parent P&L, cash flow, P/E, annual reports,
+    presentations, segment numbers and rationale were found.
 
 ## Run it
 
 ```bash
 cd IndividualStockAnalysis/India/Skills/SpinOffSkill
-python3 ../../Announcements/fetch_announcements.py          # the last year of filings
-python3 scripts/analyze.py run                              # report, with the judge
-python3 scripts/analyze.py run --quick                      # no AI
-python3 scripts/analyze.py run --refresh                    # re-pull, then report
-python3 scripts/analyze.py company TMPV                     # one company, JSON
-python3 -m pytest scripts/test_skill.py -q                  # 21 tests, offline
+python3 ../../Announcements/fetch_announcements.py                 # the last year of filings
+python3 ../../InvestorPresentations/fetch_presentations.py --only THOMASCOOK,UPL
+python3 scripts/analyze.py run                                     # report, with the judge
+python3 scripts/analyze.py run --fetch-docs                        # pull reports for highlighted companies first
+python3 scripts/analyze.py run --quick                             # no AI
+python3 scripts/analyze.py company THOMASCOOK                      # one company, JSON
+python3 -m pytest scripts/test_skill.py -q                         # 30 tests, offline
 ```
 
 ## Outputs
 
 | Where | What |
 |---|---|
-| `Analysis/NiftyTotalMarketAnalysis/SpinOffAnalysis/SPINOFF_REPORT.md` | the report: situations table, each spin-off with stages, facts, the judge's read, the checklist, the numbers, the calls, the filings; other restructurings folded; call-only indications; method |
-| `…/spinoff_latest.json` | the run, machine-readable |
-| `…/_situations.csv`, `…/_concall_mentions.csv` | one row per situation; every call mention with its quote |
-| `…/history/<run_date>/` | snapshot per run |
-| `Announcements/NiftyTotalMarket/_announcements_restructuring.csv` | every matched filing (NSE, BSE-RSS, BSE-screener), with `kind`, `tags`, attachment and text file |
-| `Announcements/NiftyTotalMarket/text/` | attachment texts |
-| `Announcements/NiftyTotalMarket/_bse_codes.csv`, `_bse_rss_snapshots.csv`, `_fetch_log.csv`, `_README.md` | BSE codes, the accumulating BSE RSS store, the run log |
+| `Analysis/NiftyTotalMarketAnalysis/SpinOffAnalysis/SPINOFF_REPORT.md` | confirmed demergers table (entity, stage, listing, score), probable / indicated table, other restructurings; per confirmed company: listing callout, stages, facts, the judge's read, the rationale from three years of calls with transcript links, the parent's three years with charts, P/E and cash flows, the separated business's own numbers with page citations, checklist, calls, filings |
+| `…/spinoff_latest.json`, `…/_situations.csv`, `…/_coverage.csv`, `…/_concall_mentions.csv`, `…/history/<run_date>/` | the run, machine-readable; one row per situation; what was found for whom; every call mention with tone and quote; snapshots |
+| `Announcements/NiftyTotalMarket/` | every matched filing with kind, tags, attachment and text; BSE codes; BSE RSS store; log; README |
+| `AnnualReports/NiftyTotalMarket/{SYMBOL}/`, `InvestorPresentations/NiftyTotalMarket/{SYMBOL}/` | annual reports and presentations: PDFs on disk (git-ignored), page-marked `.txt`, `_index.csv` with source URLs; `_concall_links.csv` maps every call to its transcript and presentation |
 
 ## Limits, stated
 
 - BSE's historical announcement list cannot be pulled from this
   environment; the NSE feed is the complete one-year record for these
-  dual-listed companies, and the BSE RSS store only grows forward from
-  the first run.
-- Market cap and P/E exist for the Nifty 500 members only (the live
-  market file); for the other 250 the numbers section says so.
-- Pattern extraction reads what a filing states; a scheme whose
-  attachment is a scanned image yields no text and the checklist says
-  "unknown" with what to read. The judge never fills a gap from memory.
+  dual-listed companies, and the BSE RSS store only grows forward.
+- Market cap and trailing P/E from the live file exist for the Nifty 500
+  members; others get close ÷ EPS, with the method stated.
+- Segment numbers come from what the annual reports and presentations
+  print. Where a business is not a reportable segment, or the pages are
+  scanned images, the report says what was searched and what was not
+  found rather than estimating.
 - The score counts answered items; a high score means the documents
   show the pattern clearly, not that the stock is cheap.
