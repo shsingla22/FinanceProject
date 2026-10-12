@@ -1,0 +1,962 @@
+
+=== page 1 ===
+ 
+ 
+Regd. Office: 3rd Floor, Maker Chambers IV, 222, Nariman Point, Mumbai - 400 021, India  
+Phone #: +91- 22-3555 5000, Telefax: +91- 22-2204 2268. E -mail: investor.relations@ril.com , Website: www.ril.com  
+CIN- L17110MH1973PLC019786  
+October  14, 2024  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street , 
+Mumbai 400 001 National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, G Block , 
+Bandra- Kurla Complex , 
+Bandra (East) , Mumbai 400 051  
+ 
+Scrip Code: 500325  
+  
+Trading Symbol: RELIANCE  
+ 
+Dear Sirs,  
+ 
+Sub:  Presentation made to analysts on the Unaudited Financial R esults (Consolidated 
+and Standalone ) for the quarter and half  year ended September 30, 2024 
+ 
+Pursuant to Regulation 30 of the S ecurities and E xchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, t he presentation,  made today to the analysts , on 
+the Unaudited Financial Results (Consolidated and Standalone) for the quarter and half  year 
+ended September 30, 2024 is attached and also available on the website of the Company at 
+https://www.ril.com/investors/financial -reporting .  
+ The presentation concluded at 9:02 p.m. (IST) . 
+ 
+This is for information and record.  
+ 
+Thanking you  
+ Yours faithfully,  
+For Reliance Industries Limited  
+   
+Savithri Parekh  
+Company Secretary and  
+Compliance Officer  
+ 
+Encl.:  as above 
+ 
+Copy to:  
+Luxembourg Stock Exchange  
+35A B oulevard Joseph II ,  
+L-1840 Luxembourg  
+ 
+ 
+ 
+Singapore Exchange Limited  
+4 Shenton Way, #02- 01 SGX Centre 2, 
+Singapore 068807  
+ 
+=== page 2 ===
+2Q FY25 Financial Results Presentation
+14 October 2024
+1
+=== page 3 ===
+Forward Looking Statement
+2This presentation  contains  forward -looking  statements  which  may be identified  by their use of words  like 
+“plans,”  “expects,”  “will,”  “anticipates,”  “believes,”  “intends,”  “projects,”  “estimates”  or other  words  of similar  
+meaning . All statements  that address  expectations  or projections  about  the future,  including,  but not limited  
+to, statements  about  the strategy  for growth,  product  development,  market  position,  expenditures,  and 
+financial  results,  are forward -looking  statements . 
+Forward -looking  statements  are based  on certain  assumptions  and expectations  of future  events . The 
+companies  referred  to in this presentation  cannot  guarantee  that these  assumptions  and expectations  are 
+accurate  or will be realized . The actual  results,  performance  or achievements,  could  thus differ  materially  
+from those  projected  in any such  forward -looking  statements . These  companies  assume  no responsibility  to 
+publicly  amend,  modify  or revise  any forward  looking  statements,  on the basis  of any subsequent  
+developments,  information  or events,  or otherwise .
+=== page 4 ===
+3Consolidated 
+Financial Results
+
+=== page 5 ===
+2Q FY25 – Consolidated Highlights
+Weak O2C weighed on strong growth in Digital Services and Upstream segment
+41.Consolidated performance – Robust growth in digital services 
+and upstream segment, weak O2C
+2.Steady quarter for Retail with focus on enhancing customer 
+proposition and strengthening capabilities
+3.Strong growth in Digital Services with improved ARPU and 
+positive momentum in FTTH
+4.O2C performance impacted by unfavourable demand -supply 
+fundamentals , leading to sharp decline in fuel cracks and 
+downstream margins
+5.Improved Oil & Gas performance with sustained volume 
+growth; 2Q FY24 included Tapti field decommissioning cost
+  EBITDA
+  PAT₹ 43,934  crore
+(US$ 5.2 bn)
+₹ 19,323  crore
+(US$ 2.3 bn)2.0% YoY
+2.8% YoY
+ REVENUE₹ 258,027  crore
+(US$ 30.8 bn)0.8% YoY
+=== page 6 ===
+2Q FY25 – Retail Segment Highlights
+51.Revenue growth impacted by weak F&L demand, 
+continued focus on streamlining of operations and 
+calibrated approach in B2B to enhance margins
+✓EBITDA margin from operations at 8.5%, up 40 bps
+2.Scaling up Digital Commerce capabilities and reach 
+✓Scaling up fast hyperlocal deliveries through our 
+extensive, pan -India store network
+✓AJIO strengthening its portfolio through new brand 
+launches – ASOS, H&M, Timberland
+3.Youth focused fashion format “Yousta” scaled to 50 stores 
+within a year of launch
+4.Consistent momentum in B2C operating metrics and 
+broad -based expansion supports future growth and 
+market leadership
+Retail (RRVL)
+Strengthening of tech platforms and infrastructure, streamlining of operations to drive future 
+growth and profitability
+US$ Mn ₹ crore % YoY
+Revenue 9,106    76,302 -1.1%
+EBITDA 698       5,850 0.3%
+PAT 350       2,935 5.2%
+% YoY
+Stores (No.) 18,946 1.6%
+Footfalls (Mn) 297 14.2%
+Regi. customer base (Mn) 327 16.4%
+Area (Mn sq.ft.) 79.4 11.0%
+No. of Transactions (Mn) 343 8.9%
+=== page 7 ===
+2Q FY25 – Digital Services Segment Highlights
+61.Strong revenue growth led by scaling up of digital 
+services and partial impact of tariff hike
+2.EBITDA expansion driven by healthy revenue 
+growth 
+3.Continuing strength in gross subscribers' addition
+✓SIM consolidation led to higher churn during 2Q
+4.Data traffic up 24% YoY at 45 Bn GB – higher mix 
+of 5G and home subscribers
+✓148 Mn subscribers migrated to Jio True5G
+5.Strong quarter for home connects – fastest growing 
+Fixed Wireless operator globally with 2.8 Mn 
+JioAirFiber connections
+Robust performance led by higher ARPU and improving subscriber mix
+US$ Mn ₹ crore % YoY
+Revenue 4,430    37,119    17.7%
+EBITDA 1,901    15,931    17.8%
+PAT 780       6,536      23.4%
+Digital Services (JPL)
+% YoY
+ARPU (₹ ) 195.1      7.4%
+Subscribers (Mn) 478.8      4.2%
+=== page 8 ===
+2Q FY25 – O2C Segment Highlights
+71.EBITDA impacted by unfavorable global demand -
+supply balance
+✓Deep ~50% correction in fuel cracks
+✓9-24% decline in downstream chemical deltas
+✓Soft domestic demand – Oil up 2.2%, Polymer 
+(-5%), Polyester ( -7%)
+2.RIL’s operational flexibility helped reduce the impact
+✓47% YoY decline in ethane price further 
+strengthened cracking economics
+✓Improved economics led to 28% higher product 
+placement through fuel retailing
+✓Focus on optimizing yields and costs
+3.Global demand pick -up and capacity rationalisation 
+likely to support margin recovery
+Quarter demonstrated inherent strength of O2C operating model
+US$ Mn ₹ crore % YoY
+Revenue 18,566 155,580  5.1%
+EBITDA 1,481    12,413     -23.7%
+O2C
+% YoY
+Throughput (MMT) 20.2           1.0%
+Prod. meant for Sale (MMT) 17.7           3.5%
+=== page 9 ===
+2Q FY25 – Oil & Gas Segment Highlights
+81.Robust EBITDA supported by sustained production 
+from KG D6 block and improved CBM output
+✓KG D6 volume growth led by 8.2% higher 
+condensate/oil production  
+✓2Q FY24 included decommissioning related 
+costs for Tapti field
+2.EBITDA growth partially impacted by lower gas 
+price realization
+✓8.7% decrease in KGD6 gas price realization
+3.KG D6 average production during 2Q
+✓Gas – 28.5 MMSCMD vs. 28.3 MMSCMD
+✓Oil/Condensate – 20,800 bbl / day
+Robust performance led by higher volumes despite lower price realization
+US$ Mn ₹ crore % YoY
+Revenue 743       6,222      -6.0%
+EBITDA 631       5,290      11.0%
+Oil & Gas
+Note: Production figures for RIL share
+% YoY
+KG D6 price (GCV - $/MMBTU) 9.55         -8.7%
+KG D6 Production (BCFe) 69.3         1.5%
+CBM Production (BCF) 2.6            23.8%
+=== page 10 ===
+Consolidated Financial Results : 2Q FY25
+Best -in-class operating model, execution and talented teams help deliver resilient performance
+91.Stable YoY Revenue – strong growth in Digital 
+Services
+2.Strong contribution from upstream and digital 
+services business supported EBITDA growth
+✓Decline in O2C with sharp correction in margins 
+led by incremental supplies amid weak demand
+3.YoY PAT impacted by higher interest and 
+depreciation charges
+4.QoQ PAT higher largely led by improved ARPU in 
+Digital Services
+US$ Mn ₹ crore % QoQ % YoY
+Revenue 30,792  258,027 0.1% 0.8%
+EBITDA 5,243    43,934    2.8% -2.0%
+   Finance Cost 718        6,017      1.7% 5.0%
+   Depreciation 1,537    12,880    -5.3% 2.3%
+PBT 2,988    25,037    7.8% -5.5%
+   Tax 708        5,936      2.6% -11.0%
+PAT 2,306    19,323    10.8% -2.8%Note: PAT after share of Profit/(Loss) of ₹ 222 crore  from Joint Ventures / Associates
+1.RIL standalone PAT at ₹ 7,713 crore (US$ 920 Mn), 
+down 31.2% YoY 
+=== page 11 ===
+EBITDA Contribution (2Q FY25 vs 2Q FY24)
+Traction in consumer business and upstream segment driving YoY growth
+10 Note: Based on Consolidated segment EBITDA1.O2C – Weakness across fuels and chemical products 
+with subdued demand in key markets (China, US)
+✓Fuel cracks down 48 -53%, downstream chemicals 
+deltas down 9 -24%
+2.Oil & Gas – sustained production supported growth
+✓2Q FY24 included decommissioning related costs for 
+Tapti field
+3.Retail – strong growth in B2C operating metrics, aiding 
+margin expansion
+4.Digital Services – higher ARPU (+7.4%), subscriber base 
+(+4.2%), data consumption (+24%) driving strong double -
+digit growth44,809 3,864
+524 202,08436143,934
+2Q
+FY24O2C Oil &
+GasRetail Digital
+ServicesOthers 2Q
+FY252Q FY25 vs 2Q FY24 - ₹ crore (YoY)
+=== page 12 ===
+EBITDA Contribution (2Q FY25 vs 1Q FY25)
+Sharp decline in O2C earnings dragged overall performance on QoQ
+11 Note: Based on Consolidated segment EBITDA1.O2C – EBITDA marginally lower with moderation in 
+product margins
+✓Favorable feedstock sourcing and improved fuel 
+retailing economics aided profitability
+2.Oil & Gas – higher CBM volumes and stable KG D6 
+volumes supported earnings
+3.Retail – stable performance with continuing focus on 
+store profitability
+4.Digital Services – healthy revenue growth along with 
+strong traction in 5G migration and JioAirFiber home 
+connects42,748 680
+80 1891,19540243,934
+1Q
+FY25O2C Oil &
+GasRetail Digital
+ServicesOthers 2Q
+FY252Q FY25 vs 1Q FY25 - ₹ crore (QoQ)
+=== page 13 ===
+Robust Balance Sheet
+Focus on maintaining conservative financial framework through investment cycle
+1.Maintaining balance sheet strength and flexibility
+2.Focus on prudent capital allocation; robust cash flows support growth initiatives
+3.Capex of ₹ 34,022 crore (US$ 4.0 bn), continue to be covered by cash profits
+✓FYTD capex higher for O2C and New Energy, significant decline in Jio capex
+12
+Mar-24 Change
+US$ Mn ₹ crore ₹ crore ₹ crore
+Gross Debt  40,137  336,337  324,622      11,715 
+Cash & cash equi.  26,242  219,899  208,341      11,558 
+Net Debt  13,895  116,438  116,281            157 Sep-24
+=== page 14 ===
+Digital Services
+=== page 15 ===
+Innovations for unmatched service and user experience
+14Jio Has Decisive Tech Leadership In 5G (1/2)
+“Default” VoNR on 
+for top OEM devices
+Innovation along with 
+Global partners: 
+➢No capacity impact
+➢No Jio 5G customer will 
+be impacted by TDD 
+Interference TDD interference 
+mitigation
+Premium Jio 5G customers 
+enjoy: 
+➢Superior voice quality
+➢Lower call set up time
+➢Higher securityDedicated n etwork  
+slicing
+Six slices defined to deliver 
+superior exp: 
+➢AirFiber, Mobility
+➢Secure voice, Mission 
+critical
+➢Gaming, collaborationInnovative layer 
+management
+Layer management based 
+on User Equipment (UE) 
+capability: 
+➢Improved carrier 
+aggregation experience 
+for Jio 5G customers
+
+=== page 16 ===
+State of the art services by leveraging 5G SA network
+15Jio Has Decisive Tech Leadership In 5G (2/2)
+20-40% improvement in 
+battery life of device
+Location calculated using 
+angle of arrival of each 
+beam : 
+➢Positioning accuracy up 
+to 10 meters on Jio 5G 
+networkState of the art 
+location accuracy
+Spectrum bandwidth 
+assigned as per application 
+requirement : 
+➢Device battery life 
+improvement by 20% to 
+40%.Programmable 
+networks
+Innovative f eatures : 
+➢Beam management
+➢Traffic steering
+➢AI / ML based energy 
+efficiencyCustomer experience 
+management
+E2E automated customer 
+experience platform : 
+➢Advance analytics use 
+cases such as 
+automated RCA, RCF
+➢Grid level experience
+
+=== page 17 ===
+Jio iActivate – Self KYC For Premium Users 
+16Innovative customer acquisition initiatives
+Customer can activate new Jio SIM 
+from comfort of  home using MyJio 
+app in few simple steps 
+Seamless 4 -step journey for instant 
+activation
+1Aadhar  based  
+identity  verification2Free Home 
+delivery of SIMCapture live photo 
+and video3 4Select plan & 
+make payment
+=== page 18 ===
+JioAirFiber Further Accelerates Home Connects
+Gearing up for 100 million connected homes
+17
+Pace of home connect for Jio has grown 3x 
+over the past four quarters
+Jio is the fastest growing fixed wireless 
+operator globally  with over 2.8 million 
+JioAirFiber connections as of Sep’24
+Scale up of distribution, optimized onboarding 
+process and technology edge would enable Jio 
+to connect over 1 million homes every monthQuarterly Wireline Connects (in million)
+0.61.01.21.8
+Dec-23 Mar-24 Jun-24 Sep-24
+=== page 19 ===
+Jio Continues To Augment And Innovate Home Offering
+Superior service quality and value offering driving adoption
+18
+JioTV+ app is now available for free download on all 
+leading Smart TVs without Set Top Box or additional 
+JioAirFiber/JioFiber connection
+This allows users to connect multiple TVs with one 
+connection and access 800+ Digital TV channels and 13+ 
+OTT apps
+Cross leverage Reliance Ecosystem to further enhance 
+the value offering  for JioAirFiber subscribers
+
+=== page 20 ===
+Focused account management and scalable products to drive growth
+19Enterprise Business – Gaining Market Share
+Positioning Jio as a managed services 
+partner with enhanced product portfolio
+New account penetration with 
+scalable horizontal products like 
+Managed Wi -Fi and usage -based SIP01
+02
+03Continued deal wins across key 
+institutional accounts for multi -location 
+connectivityDigital portfolio (CPaaS, IoT and 
+Managed Wi -Fi) added marquee 
+logos during the quarter
+High bandwidth links contribute 
+50%+ of SMB segment as Jio 
+becomes operator of critical links04
+05
+06Target account management with full 
+Jio portfolio and 1Gbps AirFiber to 
+grow SMB segment
+=== page 21 ===
+Empowering every Indian with 100GB of free storage
+20JioAICloud: India's Own Customer Data Platform
+JioAICloud delivers Connected Intelligence
+➢Where everyone, regardless of socio -economic background
+➢Can securely store all their data and digital content in the cloud
+➢And access powerful, personalized, data-powered AI services
+➢Seamlessly delivered over low -latency broadband networks
+JioAICloud
+Store, Share, Sync, Stream, Secure
+AI-Powered Features & Use CasesSeamless Jio Ecosystem Integration
+Made for India, Stored in India
+
+=== page 22 ===
+Versatile ML platform for seamless integration into daily operations
+21JioBrain - AI Everywhere for Everyone
+Content Creation, Market 
+Research and AnalysisMarketing & Advertising  New Energy 
+Energy Optimization, Compliance and 
+Billing & SupportRetail & E -commerce 
+Product Description, Chatbots,
+Review Analysis
+Manufacturing  
+Technical Documentation, 
+Quality Control & TrainingFinance  
+Fraud Detection, Sentiment Analysis, 
+Customer Service Chatbots
+Agriculture  
+Crop Recommendations, Information Retrieval,
+Pest and Disease DiagnosisReport Generation, Patient 
+Communication and EducationHealthcare  Telecom  
+Network Operations, Business Applications
+& AI on the Edge
+Education  
+Content Generation, Language 
+Learning and Translation
+Industry Agnostic AI PlatformLLMsTrainingFeature EngineeringWorkflowsML Outcome Algorithms
+Multi Modal APIs AI Agent as Service AI Decision Hub
+AI Everywhere for Everyone
+Connected Intelligence Zero Touch Operations Superior Services Actionable Insights and more..
+Tangible benefits to customers, services and business operations.
+=== page 23 ===
+Quarterly Highlights
+5G, AirFiber and tariff hike drive growth momentumTariff hike drives strong revenue growth and margin expansion
+➢JPL consolidated Revenue  at Rs 31,709 Crore , growth of 18.0% YoY
+➢JPL consolidated  EBITDA at Rs 15,931 Crore , growth of 17.8% YoY
+Subscriber base at 478.8 million in Q2 FY’25
+➢Limited SIM consolidation post tariff hike offsets continued strength in gross addition
+➢ARPU for the quarter at Rs 195.1/month
+Jio continues to build on its market leadership with pan India 5G services
+➢~148 million mobility subscribers transitioned to 5G and contributing ~34% of wireless data traffic
+➢Total data traffic was ~45 Exabytes in Q2’FY25 with higher mix of 5G and home users
+Jio is the fastest growing fixed wireless operator globally with over 2.8 million AirFiber connections1
+2
+3
+4
+22
+=== page 24 ===
+Strong Customer Engagement 
+Higher ARPU driven by recent tariff increase and subscriber mix
+23
+2,300 2,823 3,628 4,500 
+Sep'21 Sep'22 Sep'23 Sep'24144 177 182 195 
+Sep'21 Sep'22 Sep'23 Sep'24Quarterly Data Traffic (Crore GBs) ARPU (Rs/sub/month)
+➢Strong uptake of 5G and home broadband is driving robust data traffic growth of 24% YoY
+➢Improved customer engagement has resulted in near 2x growth in data traffic over past three years
+➢Partial flow through of recent tariff hike drives ARPU growth of 7.4% YoY
+=== page 25 ===
+RJIL: Key Operating Metrics
+Healthy trends in operating parameters➢ARPU at Rs 195.1 in Q2’FY25 due to 
+partial flow through of tariff hike
+➢Rapid uptake of 5G and AirFiber drives  per 
+capita usage to 31 GB per month
+➢Data and voice traffic in Q2’FY25 
+increased 24% and 6.4% YoY, respectivelyQ2’FY25 Q1’FY25 Q2’FY24
+Total Customer base 
+(million)478.8 489.7 459.7
+Net Customer addition 
+(million)(10.9) 8.0 11.1 
+ARPU 
+(Rs/ month)195.1 181.7 181.7 
+Total Data Consumption
+(crore GBs) 4,500 4,408 3,628
+Per Capita Data Consumption
+(GB/ month)31.0 30.3 26.6 
+Voice on Network
+(crore mins per day)1,543 1,565 1,450
+Per Capita Voice Consumption
+(mins/ month)977 977 979 
+24
+=== page 26 ===
+RJIL: Q2’FY25 Financials
+Tariff hike, 5G and AirFiber drive growthOperating Revenue (in Rs crore) EBITDA (in Rs crore)
+➢RJIL Operating Revenue growth of 14.5% YoY driven by partial impact of tariff hike in mobility and strong 
+home additions
+➢RJIL EBITDA growth of 16.6% YoY led by higher revenues and margin at 53.7%
+2524,750 25,368 25,959 26,478 28,338 
+Sep-23 Dec-23 Mar-24 Jun-24 Sep-2413,059 13,422 13,734 14,022 15,225 
+Sep-23 Dec-23 Mar-24 Jun-24 Sep-24
+=== page 27 ===
+Jio Platforms Limited: Key Financials
+Growth driven by improved monetization in connectivity and digital
+26*Gross Revenue is value of Services
+figures in Rs. crore, unless otherwise statedParticularsJPL Consolidated
+Q2 FY25 Q1 FY25 Q2 FY24
+Gross Revenue* 37,119 34,548 31,537
+Operating Revenue 31,709 29,449 26,875
+EBITDA 15,931 14,638 13,528
+EBITDA Margin 50.2% 49.7% 50.3%
+D&A 5,989 5,851 5,415
+EBIT 9,942 8,787 8,113
+Finance Costs 1,144 1,115 1,020
+Profit before Tax 8,795 7,667 7,091
+Profit after tax 6,536 5,693 5,297➢Q2 FY25 Revenue from operations at Rs 31,709 
+Crore;  18.0% YoY growth
+➢EBITDA increased to Rs 15,931 Crore in Q2 
+FY25
+➢Profit after Tax increased to Rs 6,536 Crore in 
+Q2 FY25, growth of 23.4% YoY
+=== page 28 ===
+Reliance Retail
+
+=== page 29 ===
+28Q2 FY25 Performance Highlights
+Streamlining of operations to improve margins while continuing investments in building strong 
+foundation for long term growth•Reliance Retail registered revenue of Rs. 76,302 crore; growth impacted by weak F&L demand, continued 
+focus on streamlining of operations and calibrated approach to B2B business to improve margins
+•Reported EBITDA at Rs 5,850 crore; EBITDA margin at 8.8% up 30 bps YoY 
+•Continues to serve customers at scale: 327 mn registered customer base (up 16% YoY), 297 mn footfalls (up 
+14% YoY) & 343 mn transactions (up 9% YoY)
+•Digital Commerce & New Commerce contributed 17% of total revenue
+•Opened 464 new stores with gross area addition of 1.9 mn sq. ft.; total store count of 18,946 with 79.4 mn sq. 
+ft. retail area
+•Enhancing technology platform and strengthening supply chain & distribution capabilities to sustain growth 
+momentum in near and medium term
+•Entered into exclusive partnerships with Delta Galil to expand presence in lingerie and active wear categories; 
+launched ASOS in India
+=== page 30 ===
+29Financial Performance
+In Rs. crore
+Q1 FY25% Change 
+QoQParameter Q2 FY25 Q2 FY24% Change
+YoY
+75,615 1% Gross Revenue 76,302 77,148 -1%
+66,260 0.40% Net Revenue 66,502 68,937 -4%
+5,448 4% EBITDA from Operations 5,675 5,617 1%
+8.2% 30 bps EBITDA Margin from Operations (%) 8.5% 8.1% 40 bps
+216 -19% Investment Income 175 213 -18%
+5,664 3% Total EBITDA 5,850 5,830 0.3%
+8.5% 30 bps Total EBITDA Margin (%) 8.8% 8.5% 30 bps
+2,453 20% Profit After Tax 2,935 2,790 5%
+=== page 31 ===
+Performance Highlights: Consumer Electronics
+•Digital stores maintain growth momentum led by ABV growth; crosses 650 store mark
+•“Digital India”  campaign delivered 60% YoY growth; Independence Day sales up 11% YoY 
+•New launches, category promotions & festivals (Ganesh Chaturthi / Onam & start of Durga 
+Puja) drive category sales: Aircare (+54% YoY), washers (+22% YoY) , SDA# (+40% YoY)
+•resQ delivers steady growth with service volume up 28% YoY; on -demand services 
+operational in 150 cities
+•PBG launches new products across categories; merchant base up 2X YoY
+•JMD business delivers growth across categories led by addition in merchant partners and 
+increasing wallet share
+Consumer Electronics delivers steady growth
+TV CampaignDigital Chill Fest
+*ABV: Average Bill Value  #SDA: Small Domestic Appliances30
+=== page 32 ===
+•Focused on maintaining fashion newness which is helping engagement with customers
+•Leveraged Independence Day sale and regional festivals like Onam, Ganesh Chaturthi 
+and Pujo to drive footfalls and transactions
+•New formats continue to scale up; Yousta crosses milestone of 50 storesPerformance Highlights: Fashion & Lifestyle (1/2)
+Apparel & Footwear
+Continued focus on innovation and technology to improve customer experience
+Pujo  Campaign
+•Delivers steady performance led by ABV growth and new customer addition of 1.8 mn
+•Expands catalogue with options crossing a milestone of 2 mn, up 25% YoY 
+•Strengthening portfolio through new brands launches like ASOS, H&M, Timberland; 
+share of external brands continues to grow
+Ajio B2C
+All Star Sale Campaign
+31
+=== page 33 ===
+Performance Highlights: Fashion & Lifestyle (2/2)
+•Delivered steady performance led by higher ABV
+•Continues to augment product range through launch of 9 new collections
+•Leveraged regional festivals like Hariyali  Teej in north & Varhalaxmi  in south to 
+drive customer engagement 
+•Strengthened F&B portfolio with launch of first Armani Café 
+•Focused international expansion for Hamleys underway with presence across 
+14 countries; launched its first ever International in -door playground in Dubai
+•AjioLuxe  delivers steady growth, options up 28% YoY; portfolio crosses 725 
+brands; launched several new brands including Tissot and VersaceArmani Cafe
+Premium Brands
+Jewels
+Continues to serve customers with wide product offering 
+Aabhar  Campaign
+32
+=== page 34 ===
+Performance Highlights: Grocery
+•Delivers steady growth led by big box formats
+•Successful execution of Full Paisa Vasool  Sale
+•Registered highest ever single day sales on Independence day
+•Broad based growth across categories led by Confectioneries & Snacks (30% 
+YoY), fruits (26% YoY), apparel (49% YoY)
+•Expanding premium formats Freshpik  / Fresh Signature to new markets; Tier II 
+cities like Indore and Gwalior also showing strong traction
+•Metro continues its growth trajectory across Trader and HoReCa segments; 
+multiple campaigns like Freedom Sales, Mehangai  Se Azadi, Metro Aayein  
+Tyohaar  Manayein  drive growthFull Paisa Vasool  Sale campaign
+Continues to focus on premiumization and growth across categories
+Metro Aayein  Tyohaar  Manayein  
+campaign
+33
+=== page 35 ===
+Performance Highlights 
+•Scaling up fast hyperlocal deliveries through our extensive, pan -India store network
+•Non-grocery categories continue to do well; AOV up 2X YoY led by electronics uptick
+•Expanding product range with Seller base up 46% YoY and options count up 13% YoY
+•Milkbasket delivers steady growth led by growth in AOV & customer visits
+*AOV: Average Order ValueDeepening market presence and product portfolio 
+•Continues growth across categories, General Trade growing 250%+ YoY 
+•New product / market launches across brands including Campa, Independence, 
+Maliban, Ravalgaon etc. 
+•Undertook several marketing campaigns for promoting Campa, Independence, Raskik 
+brands during regional festive period 
+JioMart
+Consumer Brands
+JioUtsav Campaign
+Participated in World Food India 
+event
+34
+=== page 36 ===
+35
+Oil & Gas
+=== page 37 ===
+Oil and Gas Segment Performance – 2Q FY25
+361.YoY revenue  decline  on lower  gas price  realization
+2.YoY EBITDA  growth  of 11% driven  by 
+✓Base  impact  of one-time provisioning  towards  
+decommission  cost for Tapti  field in 2Q FY24
+✓1.5% increase  in KG D6 production  volume
+▪Condensate  volumes  from MJ field up 8%
+3.KG D6 average  production  for the quarter  
+✓Gas at 28.5 MMSCMD
+✓Oil / Condensate  ~20,800 bbl / day 
+4.CBM  production  improved  with implementation  of 40 
+multi -lateral  well campaign
+✓28 wells  completed,  27 wells  under  production  
+ramp  up
+Sustained production from KG D6 and improved CBM volumes helped deliver robust performance 
+US$ Mn ₹ crore % QoQ % YoY
+  Revenue 743 6,222 0.7% -6.0%
+  EBITDA 631 5,290 1.5% 11.0%
+  EBITDA Margin (%) 85.0% +70 bps  +1300 bps
+Production (RIL share in BCFe)
+   KG D6 69.3 -0.1% 1.5%
+   CBM 2.6 13.0% 23.8%
+Price Realisation 
+   KG D6 (GCV - $/MMBTU) 9.55 3.0% -8.7%
+   CBM (GCV - $/MMBTU) 11.40 -1.6% -16.9%
+   Condensate ($/barrel) 80.93 -2.5% -4.2%2Q FY25
+36
+=== page 38 ===
+KG D6 – Fueling India’s Energy Transition
+37RIL continues to be a material contributor to India’s gas economy 
+6.517.419.327.128.7 28.5
+051015202530
+FY21 FY22 FY23 FY24 1Q FY25 2Q FY25Average Gas Production (MMSCMD)
+
+=== page 39 ===
+Global Gas / LNG Markets
+Global gas prices likely to remain supported in the near term 1.Gas/LNG  prices  remain  elevated  with strong  summer  demand,  
+geopolitical  tensions  and supply  disruptions
+✓Spot LNG prices  up 16% QoQ  to ~$13 vs ~$11.25 in 1Q FY25
+✓LNG Terminals  outages,  project  maintenance  supported  prices
+2.Weaker  European  demand  and ample  EU storages  kept prices  
+range -bound  
+3.Short -term prices  likely  to remain  elevated
+✓Delay  in startup  of new LNG Terminals
+✓Expectation  of harsher  winter  with high probability  of La Nina
+✓Uncertainty  of Russian  pipeline  supplies  through  Ukraine
+380.05.010.015.020.025.0Historical Prices ($/mmbtu)
+JKM NBP TTF HH$/ MMBtu JKM NBP TTF HH
+2Q FY25 Avg 13.00 11.06 11.46 2.23
+=== page 40 ===
+India Gas Market
+Rising power demand and robust pipeline infrastructure to drive India gas market growth1.India  gas demand  growth  resilient  to elevated  global  
+prices
+2.LNG imports  increased  28% in 2Q FY25
+✓Higher  demand  from CGD  & gas-based  power  
+generation
+3.Ceiling  price  applicable  for KGD 6 revised  upward  to 
+~$10.16/MMBtu  for H2FY25
+# Average Settled Prices for assessment period for the relevant months2.3932.59
+10.53
+5.6112.469.87 10.16
+010203040
+Avg DES West India LNG # Domestic Ceiling Price$/MMBtu
+39 Source : PPAC, 2Q  FY25 data pertains to July and August
+=== page 41 ===
+40
+Oil to Chemicals 
+(O2C)
+=== page 42 ===
+O2C Financial Performance
+2Q performance impacted by weak margins and muted demand environment
+41YoY
+1.EBITDA lower due to sharp correction in margins across 
+key products
+✓Fuel cracks fell sharply from elevated levels in 2Q 
+FY24 due to supply disruptions
+✓Lower global demand and adequate product supply 
+from new refineries in AG & W. Africa
+✓Downstream chemical deltas continue to remain under 
+pressure with weak recovery in global demand in a 
+well-supplied market
+2.RIL maintained edge with favorable ethane cracking 
+economics
+3.Improved domestic fuel marketing economics supported 
+profitability; fuel retailing volumes up 28% 
+QoQ
+1.EBITDA declined in line with weak margin environment
+US$ Mn (₹ crore) % QoQ % YoY
+Revenue 18,566 155,580 -1.0% 5.1%
+EBITDA 1,481 12,413 -5.2% -23.7%
+EBITDA Margin (%) 8.0% -30 bps -300 bpsMargin movement QoQ YoY
+Fuels
+Gasoil -8% -53%
+Gasoline -20% -48%
+ATF -1% -50%
+Downstream Chemicals
+PE -8% -9%
+PP -8% -1%
+PVC -6% -24%
+Polyester Chain -3% -9%
+=== page 43 ===
+O2C Operating Performance
+Product mix optimization while enhancing manufacturing capabilities helped navigate volatile market
+421.FCC debottlenecking  for incremental  throughput  and high 
+severity  operation  completed,  benefiting  margins
+2.Ensured  dynamic  optimization  of PX vs. Gasoline  to capture  
+the market  opportunity  in the volatile  market
+3.Optimized  primary  and secondary  units  yields  while  
+maximizing  throughputs
+4.Enhanced  arbitrage  barrels  sourcing  minimized  feedstock  cost
+5.Fuel cost minimized  with improved  gasifier  availability  and 
+reliability  at higher  throughput,  largely  eliminating  LNG 
+sourcing
+6.JMD Supersite  won 3 prestigious  “The GEEF  Global  Water  
+Tech  Award  2024 ” for smart  water,  water  conservation  and 
+waste  water  project  
+2Q FY25 1Q FY25
+Throughput 20.2 19.8
+Transportation fuels 11.2 11.6
+Polymers 1.5 1.4
+Fibre Intermediates 0.8 0.7
+Polyesters 0.7 0.7
+Chemicals and others 3.5 3.3
+Total 17.7 17.7Feedstock(Vol in MMT)
+Production meant for sale
+=== page 44 ===
+Energy  Market Environment
+Weak demand and increased supply impacted energy markets
+4379.2%
+ 177 bps  YoY
+Global Refinery 
+Operating Rate
+80.0%
+ 135 bps  YoY
+Global Cracker 
+Operating Rate020406080100
+Brent Crude ($/ bbl)1.Avg. Brent  crude  prices  fell 7.6% YoY & 5.6% QoQ  to 
+$80.2/bbl
+✓Lower  oil demand  growth  coupled  with rising   
+supply  from non-OPEC  suppliers
+2.US Ethane  price  averaged  at 16 cpg for 2QFY25, 
+down  47% YoY in line with decline  in US gas price  and 
+higher  Ethane  availability
+3.Sharp  decline  in benchmark  regional  refining  margins
+✓Weak  demand  and adequate  supply  of products
+✓Higher  product  inventory  levels
+2Q FY25 Avg - $80.2
+1Q FY25 Avg - $84.9
+Source : IEA, S&P Global , ESAI , Energy Aspects, CMA/ICIS
+=== page 45 ===
+Global  Oil Demand
+Normalized demand growth across crude and fuel markets 
+441.Global  oil demand  in 2Q FY25 up 0.8 mb/d  YoY (vs 2.5 
+mb/d  in 2Q FY24)
+✓Asia ex-China  ( 0.4 mb/d),  OECD  Americas  ( 0.2 
+mb/d)
+2.Transportation  fuel demand  growth  remained  firm
+✓Gasoline  up 0.35 mb/d  – led by Middle  East and North  
+America
+✓Gasoil  flat YoY – growth  in Latin  America,  Europe  and 
+ME offset  by weakness  mainly  across  North  America  & 
+China
+✓Jet/kero up 0.3 mb/d  – led by Asia-Pacific  ( 0.2 mb/d)
+Source : IEA, S&P Global , Energy Aspects .
+27.128.7
+7.727.228.5
+7.627.4 28.7
+8.0
+010203040
+Gasoline Diesel ATFmb/d
+2QFY24
+ 1QFY25
+ 2QFY25
+103.2 102.9 103.9
+0306090120
+2QFY24 1QFY25 2QFY25mb/d
+=== page 46 ===
+Domestic Environment – Oil Demand
+Continuing growth trend for personal mobility and air travel leading to higher oil demand
+45
+9.1 20.0 
+2.0 10.0 24.3 
+2.2 9.8 20.1 
+2.2 
+0481216202428
+Gasoline Diesel ATF
+2QFY24
+ 1QFY25
+ 2QFY25In MMT1.Oil demand  at 56.6 MMT,  up 2.2% YoY and down  by 7.5% 
+QoQ
+2.Gasoline  demand  up 7.3% YoY
+✓Growth  in personal  mobility  along  with 2W sales
+3.HSD  demand  marginally  up YoY
+✓Economic  and agriculture  activities  remain  supportive
+4.ATF demand  up 9.4% YoY
+✓Domestic  air passenger  traffic  at 26.1 Mn for July and 
+Aug, up 6.5% YoY
+Source : PPAC
+Domestic Oil Demand
+=== page 47 ===
+Domestic Polymers and Polyester Demand  
+46Subdued Polymer and Polyester demand amidst price volatility1.Polymer  demand  down  5% YoY, at 5.0 MMT
+✓PVC demand  up 3% led by agriculture  and 
+infrastructure  schemes
+✓PE demand  down  12% due to high base  effect  as 
+2Q FY24 witnessed  higher  imports
+✓PP demand  remained  stable1.Polyester  demand  down  7% YoY, at 1.7 MMT
+✓PET demand  down  10% due to low demand  from 
+beverage  sector  led by extended  monsoon
+✓PSF and PFY demand  down  9% and 5% due to 
+lower  activity  in fabric  market
+-12%0%3%
+-5%
+-15%-10%-5%0%5%
+PE PP PVC Polymer
+-9% -5% -10%-7%-10%-5%0%5%
+PSF PFY PET Polyester
+Polymer Demand YoY (2Q FY25) 
+ Polyester Demand YoY (2Q FY25) 
+Source : RIL internal estimates
+=== page 48 ===
+Regional Transportation Fuels Cracks
+47Decline in cracks on weaker demand growth amid adequate supplyGasoil
+1.YoY cracks  declined  from elevated  levels  due to subdued  
+global  demand  amid  weak  economic  conditions  in China  and 
+the US
+2.QoQ  decline  largely  led by seasonal  factors  and lower  
+industrial  activity  in China
+Source: S&P Global, Energy Aspects ,
+28.8 
+26.1 
+13.1 14.8 13.2 
+8.5 13.6 13.1 
+6.8 
+05101520253035
+Gasoil Jet/Kero Gasoline 92R$/bbl
+2Q FY24
+ 1Q FY25
+ 2Q FY25Gasoline
+1.YoY cracks  declined  on weak  global  demand  and rising  EV 
+penetration  in China
+2.QoQ  decline  is due to significantly  high refinery  runs in the US 
+leading  to higher  global  suppliesATF/ Kero
+1.YoY cracks  declined  tracking  lower  gasoil  cracks
+2.Cracks  stable  QoQ  with continued  rise in air travel
+Product Cracks
+=== page 49 ===
+Regional Polymer Deltas  
+48Excess supply and firm feedstock prices pressured polymer deltas1.YoY Polymer  deltas  down  on weak  global  demand  and firm 
+feedstock  naphtha  (+5%) prices
+✓PE and PP deltas  down  9% and 1% respectively  as producers  
+were  unable  to pass  on high feedstock  prices
+✓PVC delta  down  24% with higher  EDC  prices  and drop in PVC 
+prices
+2.QoQ  Polymer  deltas  decreased  with weakness  in product  prices  
+in well-supplied  markets
+✓PE and PP deltas  decreased  8%, while  PVC delta  declined  6% 
+3.Favorable  ethane  cracking  economics  vs Naphtha
+✓Ethane  price  declined  sharply  18%, while  Naphtha  price  
+declined  1% QoQ
+335
+297460
+330318371
+304293347
+0200400
+HDPE-Naphtha PP-Naphtha PVC-Naphtha/EDC
+2QFY24
+ 1QFY25
+ 2QFY25
+Polymer Deltas ($/MT) – 2Q FY25
+Source : Platts, RIL internal Estimates 
+=== page 50 ===
+Regional Polyester Chain Delta  
+49Sharp decline in PX margins weighed on Polyester Chain margins1.YoY polyester  chain  delta  down  9% with sharp  37% decline  in 
+PX deltas
+✓Drop  in PX delta  due to firm Naphtha  prices  and slow 
+recovery  in downstream  demand
+✓Recovery  in downstream  polyester  deltas  supported  chain  
+margins
+2.QoQ  polyester  chain  delta  decreased  3%
+✓PX margins  decreased  substantially  due to higher  
+availability  on weak  gasoline  blending  demand
+✓MEG  margins  improved  from lower  base  with firm prices  
+led by decline  in China  port inventory   
+✓Polyester  margins  improved  with fall in PTA prices
+524489475
+0200400600
+2QFY24 1QFY25 2QFY25
+Polyester Chain Delta ($/MT) – 2Q FY25
+Source : Platts, ICIS, CCF, RIL internal Estimates 
+=== page 51 ===
+O2C Business Dynamics
+501.Escalation  in geopolitical  conflicts  and a possible  change  in OPEC+  cuts policy  will keep  crude  oil market  volatile
+2.New capacity  additions  and refineries  returning  from maintenance  may result  in higher  supply  and suppressed  margins
+3.India  downstream  exports  likely  to be affected  by lower  demand  from developed  markets  like US and EU1.Global  oil demand  growth  expected  to be less than 1 mb/d  YoY in 2024  and 2025  after strong  growth  of 2.1 mb/d  in 2023
+2.Fuel markets  could  tighten  in near term 
+✓Refinery  run cuts expected  in Europe  and Asia in 3Q FY25 amid  weak  margins
+✓Global  jet demand  to see robust  growth  of 0.45 mb/d  YoY in 3Q FY25, with Asia accounting  for 70% of the growth
+✓Expected  surge  in Heating  demand  in 3Q FY25 during  the winter  months
+3.Downstream  margins  likely  to improve  with interest  rates  reduction  and stimulus  package  in China
+4.Indian  downstream  chemicals  demand  to benefit  from upcoming  festive  season  and high Cotton –PSF deltas
+Source: IEA, S&P Global .
+Demand  and Margin  Environment
+Challenges  / Volatility
+Fiscal and monetary policy action could support fuel and downstream product markets
+=== page 52 ===
+51Summary
+
+=== page 53 ===
+Summary
+521.Resilient earnings delivery at consolidated level
+✓Strong upstream and digital services business largely offset muted O2C earnings
+2.Strength in operational cash -flow generation underpin robust balance sheet and liquidity
+3.Energy business
+✓Elevated  price and margin volatility with escalating geopolitical tensions 
+✓Potential boost to global demand and sentiment with easing monetary policy and economic stimuli
+✓Downstream segment to benefit from healthy domestic demand and flexible integrated O2C operations 
+4.Consumer business
+✓Retail – Upcoming festive season demand and focused strengthening of operations to support accelerated 
+growth momentum
+✓Jio – Compelling value and quality of services across mobility and homes to drive subscriber growth and 
+profitability
+=== page 54 ===
+Thank You
+53
