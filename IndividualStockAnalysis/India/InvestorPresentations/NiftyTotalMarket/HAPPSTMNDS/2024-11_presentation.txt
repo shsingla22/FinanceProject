@@ -1,0 +1,530 @@
+
+=== page 1 ===
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala,  
+Bengaluru -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com  
+   N
+ovember 1 3, 2024 
+Listing  Compliance  & Legal  Regulatory  
+BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street,  Mumbai  400 001 
+Stock  Code:  543227 , 974728 , 974820  & 975101  Listing  & Compliance  
+National Stock  Exchange  of India  Limited  
+ Exchange Plaza, Bandra Kurla Complex , 
+Bandra East,  Mumbai 400  051 
+Stock  Code:  HAPPSTMNDS  
+D
+ear Sir/Madam,  
+S
+ub: Earnings Presentation on the financial results of Q 2 for FY’2 5 
+P
+ursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed a copy of the Earnings Presentation of the financial results of the Company for the 
+quarter  and half year ended September 30 , 2024,  that will be circulated to the Investors/ Analysts for 
+the Earnings Call scheduled on November 14 , 2024, at 09:00 A.M . (IST).  
+T
+his is for your information and records.  
+T
+hanking you,  
+Yours faithfully,  
+For Happiest Minds Technologies Limited  
+P
+raveen Kumar Darshankar  
+Company Secretary & Compliance Officer Membership No. F6706  
+
+=== page 2 ===
+Investor 
+Presentation
+Q2 FY 25
+=== page 3 ===
+About
+Happiest Minds
+Next -Gen Digital Transformation, Infrastructure, Security and Product Engineering Services Company 
+IPO - In September 2020
+•Completed 13 years in August 2024
+•770,000 shareholders 
+•Experienced and diverse board of eight
+•Professional management led by the Executive Board97% Digital
+Born Digital95% Agile
+Born Agile82 Fortune2000 / Forbes200
+Billion $ Corporations281 Active Clients
+95% Repeat Business
+Mission Statement
+Happiest People 
+Happiest Customers
+SMILES Values 
+Sharing, Mindful, Integrity, Learning,
+ Excellence, Social Responsibility
+Disclaimer: All logos are the property of their respective owners.across 12 Countries6,580
+Happiest Minds
+27.6% Gender Diversity 
+3.9 rating on Glassdoor
+Note 1 : RoCE / RoE  is annualized . Great Place To Work®
+Top 100 India’s Best Workplaces
+  in IT & IT -BPM for 
+202 3
+Top 50  India’s Best Workplaces
+  for Building a 
+Culture of Innovation 2023
+Top 100  India’s Best Workplaces
+  for Women 2024
+Top 50 India’s Best Workplaces
+  in Health & 
+Wellness 2024
+Golden Peacock 
+Corporate Governance Award 2022
+Business Excellence Award 2021
+23.1% RoCE1
+13.5% RoE
+Constant Currency 
+growth of 28.2% y-o-y 
+EBITDA margin 21.7%
+In Q2 FY25
+www.happiestminds.com
+Promoter
+Ashok Soota
+2
+=== page 4 ===
+Mission, Vision and Values
+Our Mission
+Happiest People 
+Happiest Customers
+DELiGHT
+Design for Perpetuity
+ESG Excellence
+Thought Leadership
+Profitable Growth
+Ambassador for Happiness
+World Class TeamOur 2021 -31 Vision - 
+Social ResponsibilitySharing
+Mindful
+Integrity
+Learning
+ExcellenceOur SMILES Values
+3www.happiestminds.com
+=== page 5 ===
+Our Business
+BFSI EdTech Hi-Tech and 
+Media & EntertainmentIndustrial, Manufacturing and 
+Energy & UtilitiesIoT
+DevOps & 
+RPA 
+Software Defined 
+Networking / NFV
+Big Data & Advanced 
+AnalyticsBlockchain
+Cloud
+SecurityBPM & 
+Integration
+Product & Digital 
+Engineering Services 
+Generative AI Business 
+Services
+Agile and Secure 
+Infrastructure Services
+Healthcare & Life 
+Sciences
+Industry Groups (IG)
+Retail, CPG & 
+Logistics
+4 www.happiestminds.com
+=== page 6 ===
+Born Digital . Born Agile     The Mindful IT Company 
+Business
+Transformation
+Business
+Insights
+Platformize  & 
+Modernize
+Reimagining
+Customer ExperienceEngineering & Operational ExcellenceAgile 
+DeliveryAgile 
+BusinessAgile OrganizationCREATING
+DIGITAL CAPITALMINDFULLY
+AGILE
+5 www.happiestminds.com
+=== page 7 ===
+Key  Project Wins
+For a European Health Research Institute , Happiest Minds is 
+building their AI/ML data platform.
+For a leading ANZ retailer , Happiest Minds is providing 
+Data Engineering and BI services (Snowflake & Power BI) for 
+their Product Lifecycle Management project.
+© Confidential – www.happiestminds.comFor anAustralia based healthcare training provider , 
+Happiest Minds has been chosen to design and build their 
+learning platform.
+For a leading FinTech trading platform in the Middle East , 
+Happiest Minds was chosen as a partner to secure its critical 
+IT infrastructure and business applications.
+For an Africa -based market leader in logistics and supply chain , 
+Happiest Minds has been chosen to implement core banking and 
+Buy Now Pay Later (BNPL) modules from its award -winning Arttha ® 
+Platform.
+For a large public sector bank based out of India , Happiest 
+Minds has been chosen as their strategic cybersecurity partner to 
+oversee the end-to-end design and implementation of their cyber 
+security program.For a US semiconductor company , Happiest Minds was chosen to 
+design and develop their reference hardware platforms.
+For a global leader in Electronic Design Automation , 
+Happiest Minds is building its prototype SoC designs on FPGA 
+platforms.
+For a North America -based health -tech company  offering 
+practice management solutions for professionals, Aureus 
+business of Happiest Minds has been chosen to transform 
+their entire reporting system to a Microsoft stack.
+For the world's leading digital twin platform  for the 
+energy sector , Happiest Minds was chosen to drive their 
+Gen AI Innovation aimed at field data collection and 
+retrieval.
+For one of the largest brewers in the world , Happiest Minds 
+has been chosen as a strategic partner to drive their Analytics 
+and AI initiatives for demand forecasting.For a  USA-based energy tech company , this new win entails 
+Happiest Minds providing consulting -led solution to develop 
+their unified IoT platform for the combined heat and power 
+solution.
+
+=== page 8 ===
+Awards
+‘Top 100 India’s Best 
+Workplaces
+ for Women 
+2024’by Great Place To Work®‘Best Organizational 
+Development & 
+Transformation Initiative ’ 
+at the Future of L&D 
+Summit and Awards 2024‘WAW –Wellbeing at 
+Workplaces Award 2024 ’ at 
+the HR Anexi  Conclave‘Gold for Talent 
+Acquisition and Silver for 
+Future of Work ’ at the 
+Brandon Hall Group HCM 
+Excellence Awards 2024
+© Confidential – www.happiestminds.com
+
+=== page 9 ===
+Analyst  Mentions
+‘Established & 
+Expansive ’ in Digital 
+Engineering and ER&D 
+Services 
+‘Leadership Zone 
+& Recognized as a 
+Noteworthy 
+Player ’ in the 
+Consumer Software 
+‘Leadership Zone ’ in 
+Enterprise Software 
+2024
+‘Leadership Zone ’ in 
+Software Platform 
+Engineering 
+‘Noteworthy Player ’ in 
+the Overall Data & AI 
+Engineering ServicesZINNOV 
+ZONES
+‘Major Contender ’ in 
+BFSI, Retail, Healthcare, 
+ISV & Internet, Media & 
+Entertainment - Everest 
+PEAK Matrix for Software 
+Product Engineering 
+ServicesEVERESTZINNOV 
+ZONESZINNOV 
+ZONESZINNOV 
+ZONESZINNOV 
+ZONES
+‘Leadership Zone ’ in 
+Experience Engineering ZINNOV 
+ZONES
+‘Major Contender ’ in 
+Everest PEAK Matrix for 
+Software Product 
+Engineering ServicesEVEREST
+‘Major Contender ’ in 
+Everest Group's 
+Cybersecurity Services 
+PEAK Matrix® 
+Assessment 2024 - North 
+AmericaEVEREST
+=== page 10 ===
+Operational 
+and Financial 
+Metrics
+Q2 FY 25
+9
+=== page 11 ===
+Results  Q2 FY 25
+All amounts in  ₹  Lakhs unless stated otherwise
+10 www.happiestminds.comNote 1 – Operating Margin – EBITDA excluding other income
+Note 2 -  Amortization and unwinding interest are non cash  items from the acquisition  
+ 
+Particulars Q2 FY25 Q1 FY25 QoQ Q2 FY24 YoY HY25 HY24 YoY
+Revenues 52,164 46,382 12.5% 40,662 28.3% 98,546 79,749 23.6%
+Other Income 2,702 2,544 2,221 5,246 3,587
+Total Income 54,867 48,926 12.1% 42,883 27.9% 103,793 83,336 24.5%
+EBITDA 11,882 11,671 1.8% 10,482 13.4% 23,553 20,781 13.3%
+% 21.7% 23.9% 24.4% 22.7% 24.9%
+Operating Margin19,352 9,196 1.7% 8,443 10.8% 18,548 17,422 6.5%
+% 17.9% 19.8% 20.8% 18.8% 21.8%
+Finance Cost             2,551          1,741          1,055                 4,291             2,002 
+Depreciation             1,154          1,029              846                 2,183             1,887 
+Profit before Non Cash/Exceptional 8,178 8,902 (8.1)% 8,581 (4.7)% 17,080 16,892 1.1%
+% 14.9% 18.2% 20.0% 16.5% 20.3%
+Amortization/Unwinding Interest2            1,406          1,419              668                 2,825             1,110 
+Exceptional Item                       -                643                   -                       643                       -   
+PBT 6,771 6,841 (1.0)% 7,912 (14.4)% 13,612 15,780 (13.7)%
+% 12.3% 14.0% 18.5% 13.1% 18.9%
+Tax 1,820 1,738 2,066 3,558 4,101
+% 3.3% 3.6% 4.8% 3.4% 4.9%
+PAT 4,951 5,103 (3.0)% 5,846 (15.3)% 10,054 11,679 (13.9)%
+% 9.0% 10.4% 13.6% 9.7% 14.0%
+Revenues ($’000) 62,385 55,547 12.3% 49,121 27.0% 117,932 96,687 22.0%
+Growth in CC 12.7% 28.2% 23.1%
+=== page 12 ===
+Born  Digital  . Born  Agile
+79.2%14.4%1.5% 4.9%
+PDES IMSS GBS Oth Inc% of Revenue% of Revenue
+Total Income (₹ Lakhs)Revenue by Business Unit
+PDES : Product & Digital Engineering Services; GBS : Generative AI Business Solutions; IMSS : Infrastructure Management and S ecu rity Services 11 www.happiestminds.com96.5%96.4%
+95.9%
+95.3%96.2%96.8%97.4% 97.3%
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 25Digital
+93.4%93.6%94.5%
+94.3%94.4%95.2%
+94.0%94.9%
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 25Agile
+1,13,0751,45,0401,71,003
+42,883 43,417 44,250 48,926 54,867 
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 25
+=== page 13 ===
+Operational & Financial Metrics
+Note: 1. FCF = Free Cash Flow Conversion = FCF/EBITDA and FCF = EBITDA – Capex. (Non -GAAP Measure)(₹ Lakhs )                       Margin (₹ Lakhs )                       High FCF Conversion EBITDA
+12 www.happiestminds.com29,477 37,997 42,122 
+10,482 10,519 10,822 11,671 11,882 
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 2524.4% 24.2% 24.5% 23.9%26.2 % 24.6% 26.1 %
+21.7%29,064 36,480 41,067 
+10,296 9,894 10,744 11,569 11,612 
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 2597.5% 96.0 % 98.6 %
+98.2% 94.1% 99.3 % 99.1% 97.7%
+=== page 14 ===
+Operational & Financial Metrics
+Happiest Minds & Utilization
+Note 1: Trailing 12 MonthsOffshore / OnsiteBy Number of Employees Voluntary Attrition % 1
+13 www.happiestminds.com4,168 4,917 5,168 5,285 5,246 5,168 6,599 6,580 80.5%78.5% 75.5% 75.6%76.7%
+75.1%78.2% 76.3%
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 25
+22.7%
+19.8%
+13.0%14.4% 14.1%13.0% 13.5%14.4%
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 254.1% 4.6% 4.1% 4.4% 4.3% 4.1% 6.2% 4.2%95.9% 95.4% 95.9% 95.6% 95.7% 95.9% 93.8% 95.8%
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 25
+Onsite Offshore
+=== page 15 ===
+Operational & Financial Metrics
+Notes: 1. TME: Travel, Media & Entertainment, 2. Based on quarterly revenues annualized. 3. Top 20 includes Top 1, 5 & 10
+ROW* Includes – ANZ, ME,APAC, Africa & OthersQ2 25
+Model Geography Digital  Revenue Verticals1
+Q2 25 (% Revenue)(#)Revenue Model
+Revenue Concentration3 Million $ Customers2% revenue from Clients
+50% 47% 52%50% 53% 48%
+FY 22 FY 23 FY24Tenure of Customer
+0-5 yrs > 5 yrs
+14 www.happiestminds.com9.4%26.0%39.4%54.4%
+Top 1 Top 5 Top 10 Top 2065.3%8.5%15.0%5.6%5.6%
+Americas Europe India
+APAC ROW52.6%
+23.8%6.6%11.1%3.2% 2.7%
+Digital Infra / Cloud SAAS
+Security Analytics / AI
+IoT Others22.5%
+19.3%
+14.3%8.1%16.4%8.6%7.2%3.0% 0.6%
+Edu Tech HiTech (others) Retail / CPG
+TME Healthcare BFSI
+38434844 454858 59
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 2578.3%21.7%
+T&M FP
+=== page 16 ===
+Operational & Financial Metrics
+(USD ‘000)Onsite/Offshore Average Revenue / Active Customer
+15 www.happiestminds.com15.5% 15.2% 14.4% 14.9% 13.8% 12.8% 11.4% 11.4%84.5% 84.8% 85.6% 85.1% 86.2% 87.2% 88.6% 88.6%
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 25
+Onsite Offshore774 803 794 804 808 794 840 842 
+FY 22 FY 23 FY 24 Q2 24 Q3 24 Q4 24 Q1 25 Q2 25
+=== page 17 ===
+Operational & Financial Metrics
+Note : All metrics are reported as % of operating revenues: 
+*Healthcare carved out as a separate vertical from Q1FY24 onwards. Some customers which were earlier part of HiTech  / MFG / Others have been regrouped  16 www.happiestminds.com
+FY 22 FY 23 FY24 Q2 FY24 Q3 FY24 Q4 FY 24 FY25 Q1 FY25 Q2
+BFSI 13.2% 12.2% 10.3% 10.9% 11.4% 10.9% 16.8% 22.5%
+Edutech 23.2% 23.2% 25.0% 24.0% 22.3% 23.9% 21.5% 19.3%
+Healthcare* - - 13.8% 14.8% 16.1% 14.4% 16.4% 16.4%
+Hitech 15.8% 16.9% 14.2% 14.3% 14.7% 14.5% 14.8% 14.3%
+Travel, Media and Entertainment (TME) 13.2% 12.9% 11.6% 11.7% 12.2% 11.9% 10.7% 8.6%
+Retail / CPG 10.3% 9.2% 7.2% 7.6% 7.8% 7.4% 7.8% 8.1%
+Industrial 6.9% 8.4% 7.6% 6.8% 7.4% 7.5% 7.3% 7.2%
+Manufacturing 8.6% 10.3% 6.3% 7.4% 6.3% 6.3% 4.0% 3.0%
+Others 8.8% 6.9% 4.0% 2.5% 1.6% 3.1% 0.9% 0.6%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Digital infrastructure / cloud 43.6% 45.8% 42.3% 43.3% 41.8% 42.9% 47.5% 52.6%
+SaaS 20.3% 20.7% 27.1% 26.8% 26.5% 25.7% 25.1% 23.8%
+Security Solutions 11.9% 12.3% 9.3% 9.3% 9.6% 9.6% 8.5% 6.6%
+Analytics / AI 12.1% 12.2% 12.9% 12.4% 13.8% 13.3% 12.1% 11.1%
+IoT 8.6% 5.4% 3.7% 4.3% 5.0% 4.4% 4.2% 3.2%
+Total 96.5% 96.4% 95.3% 96.2% 96.8% 95.9% 97.4% 97.3%
+IP Led 10.3% 10.1% 10.2% 10.0% 11.4% 10.2% 10.7% 9.8%
+Automation 25.4% 26.6% 29.6% 29.1% 26.9% 28.1% 23.9% 24.1%Verticals
+Digital Service Offerings
+=== page 18 ===
+Operational & Financial Metrics
+ Note: 1: Based on quarter revenue annualized 2: Offshore: Revenues from customers served from India; 17 www.happiestminds.com
+FY 22 FY 23 FY24 Q2 FY24 Q3 FY24 Q4 FY 24 FY25 Q1 FY25 Q2
+USA 66.4% 68.1% 71.5% 70.3% 69.0% 70.7% 66.5% 65.3%
+India 14.1% 15.6% 15.7% 16.4% 17.7% 16.3% 16.9% 15.0%
+Europe 10.4% 9.7% 9.0% 9.0% 9.0% 8.9% 8.7% 8.5%
+APAC3                    -                       -                       -                       -                       -                       -   2.4% 5.6%
+ROW 9.0% 6.6% 3.8% 4.4% 4.4% 4.1% 5.5% 5.6%
+$ 20 M + - 1 1 1 1 1 1 1
+$ 10 M + 1 - 1 1 2 2 2 2
+$ 5M to $ 10M 4 6 7 7 6 6 9 8
+$ 3M to $ 5M 8 6 4 4 2 2 2 6
+$ 1M to $ 3M 25 30 31 32 37 37 44 42
+Total 38 43 44 45 48 48 58 59
+0 - 5 Years 50.0% 47.0% - - - 52.0% - -
+> 5 Years 50.0% 53.0% - - - 48.0% - -
+Onsite 15.5% 15.2% 14.9% 13.8% 12.8% 14.4% 11.4% 11.4%
+Offshore 284.5% 84.8% 85.1% 86.2% 87.2% 85.6% 88.6% 88.6%
+Fixed Price 25.1% 25.3% 25.1% 27.1% 27.7% 26.1% 26.1% 21.7%
+Time and Material 74.9% 74.7% 74.9% 72.9% 72.3% 73.9% 73.9% 78.3%
+# Active Customers 206 237 244 245 250 250 279 281
+# Billion $ Corporation 54 55 57 59 61 61 80 82Revenue Mix Revenue by Geo
+Tenure of customers 
+Revenue by contracting ModelMillion $ Customers1
+=== page 19 ===
+Operational & Financial Metrics
+ Note: 1: Capital Return Ratios are YTD Annualized, Note:2  Cash EPS & EPS  has been annualized
+Note:3 Cash EPS – Cash Flow from Operating Activities divided by number of Outstanding Shares18 www.happiestminds.com
+FY 22 FY 23 FY24 Q2 FY24 Q3 FY24 Q4 FY 24 FY25 Q1 FY25 Q2
+Onsite 172 227 231 224 211 211 412 274
+Offshore 3,996 4,690 5,054 5,022 4,957 4,957 6,187 6,306
+Onsite % 4.1% 4.6% 4.4% 4.3% 4.1% 4.1% 6.2% 4.2%
+Offshore % 95.9% 95.4% 95.6% 95.7% 95.9% 95.9% 93.8% 95.8%
+Utilization 80.5% 78.5% 75.6% 76.7% 75.1% 75.5% 78.2% 76.3%
+Diversity 26.4% 27.4% 28.1% 27.9% 27.7% 27.7% 27.7% 27.6%
+Billed 55 54 53 57 57 57 58 46
+Unbilled 35 31 30 28 29 29 26 37
+Total 90 86 83 85 87 87 84 83
+EPS 12.55 16.01 3.90 3.96 4.79 16.73 3.39 3.29
+Annualized212.55 16.01 16.73 13.36
+Cash EPS317.87 24.88 5.64 5.47 5.58 22.93 6.11 6.18
+Annualized217.87 24.88 22.93 24.58
+RoCE 34.8% 32.8% 22.9% 22.9% 22.3% 22.3% 22.4% 23.1%
+RoE 27.3% 27.8% 16.9% 16.7% 16.9% 16.9% 13.9% 13.5%Capital Ratios 1Happiest Minds
+DSO
+Earnings Per Share (EPS) ₹
+=== page 20 ===
+Operational & Financial Metrics
+IMSS: Infrastructure Management & Security Services. |. PDES : Product & Digital Engineering Services. |. GBS: Generative AI Bus iness Services
+*GBS started its operations from Q1FY25 onwards.All figures in ₹ Lakhs
+19 www.happiestminds.com
+IMSS 24,168 21.4% 30,694 21.2% 7,381 17.2% 7,299 16.8% 7,551 17.1% 29,746 17.4% 7,992 16.3% 7,876 14.4%
+PDES 85,199 75.4% 1,12,236 77.4% 33,281 77.6% 33,689 77.6% 34,178 77.2% 1,32,719 77.6% 37,677 77.0% 43,442 79.2%
+GBS             -               -               -               -               -               -               -               -               -               -               -   713 1.5% 846 1.5%
+Total Revenue 1,09,367 96.8% 1,42,930 98.6% 40,662 94.8% 40,988 94.4% 41,729 94.3% 1,62,466 95.0% 46,382 94.8% 52,164 95.1%
+Other Income 3,708 3.2% 2,110 1.4% 2,221 5.2% 2,429 5.6% 2,521 5.7% 8,537 5.0% 2,544 5.2% 2,702 4.9%
+Total Income 1,13,075 100.0% 1,45,040 100.0% 42,883 100.0% 43,417 100.0% 44,250 100.0% 1,71,003 100.0% 48,926 100.0% 54,867 100.0%Revenue by BUFY25 Q2 FY25 Q1 FY24 Q4 FY 24 FY 22 FY 23 FY24 Q2 FY 24 Q3
+=== page 21 ===
+Profit & Loss Statement
+All figures in ₹ Lakhs
+‘+Exceptional items for FY22 & FY23 refers to Loss on Fair Valuation of Warrant Liability. For Q3FY24  & Q4FY24 is Gain on  fair valuation of contingent consideration,  For Q1 FY25 is Expense on acquisitions. 20 www.happiestminds.com
+FY 22 FY 23 FY24 Q2 FY24 Q3 FY24 Q4 FY 24 FY25 Q1 FY25 Q2
+Operating revenue 109,365 142,929 40,662 40,988 41,729 162,466 46,382 52,164
+Other Income 3,710 2,111 2,221 2,429 2,521 8,537 2,544 2,702
+Total income 113,075 145,040 42,883 43,417 44,250 171,003 48,926 54,867
+Cost of revenue 64,404 82,827 24,980 25,213 25,607 99,204 28,614 33,567
+Gross Margin 44,961 60,101 15,682 15,775 16,122 63,262 17,768 18,597
+% 41.1% 42.0% 38.6% 38.5% 38.6% 38.9% 38.3% 35.7%
+SG&A 19,193 24,215 7,421 7,685 7,821 29,677 8,642 9,417
+% 17.5% 16.9% 18.3% 18.7% 18.7% 18.3% 18.6% 18.1%
+EBITDA 29,477 37,997 10,482 10,519 10,822 42,122 11,671 11,882
+% 26.1% 26.2% 24.4% 24.2% 24.5% 24.6% 23.9% 21.7%
+Operating Margin 26,553 34,453 8,442 8,233 8,390 34,044 9,196 9,352
+% 24.3% 24.1% 20.8% 20.1% 20.1% 21.0% 19.8% 17.9%
+Finance cost 830 2,102 1,057 1,010 1,008 4,024 1,741 2,551
+Depreciation 2,423 3,057 916 942 973 3,716 1,027 1,154
+Profit  before acquistion related 
+non-cash items26,224 32,838 8,509 8,567 8,841 34,382 8,903 8,177
+% 23.2% 22.6% 19.8% 19.7% 20.0% 20.1% 18.2% 14.9%
+Amortization/Unwinding Interest              1,030              1,218                 597                 601                 521              2,316              1,419                1,406 
+PBT before exceptional item* 25,194 31,620 7,912 7,966 8,320 32,066 7,484 6,771
+% 22.3% 21.8% 18.5% 18.3% 18.8% 18.8% 15.3% 12.3%
+Exceptional items*                 609                 634                     -                  -107            -1,295            -1,402                 643                       -   
+PBT * 24,585 30,986 7,912 8,073 9,615 33,468 6,841 6,771
+% 21.7% 21.4% 18.5% 18.6% 21.7% 19.6% 14.0% 12.3%
+Current tax 6,310 8,508 2,237 2,192 2,809 9,518 2,114 2,179
+Deferred tax 155 -621 -171 -81 -392 -889 -376                  -359 
+Total Tax 6,465 7,887 2,066 2,111 2,417 8,629 1,738 1,820
+% 5.7% 5.4% 4.8% 4.9% 5.5% 5.0% 3.6% 3.3%
+PAT * 18,120 23,099 5,846 5,962 7,198 24,839 5,103 4,951
+% 16.0% 15.9% 13.6% 13.7% 16.3% 14.5% 10.4% 9.0%Income
+=== page 22 ===
+Condensed Balance Sheet
+All figures in ₹ Lakhs
+21 www.happiestminds.com
+FY 2022 FY 2023 Q2 FY24 Q3 FY24 FY 2024 Q1 FY25 Q2 FY25
+Property, plant and equipment 78 13,278 13,386 13,856 13,778 14,062 13,978
+Goodwill 7,896 13,913 13,997 14,013 14,032 70,773 75,329
+Financial & Other assets 11,788 29,594 35,841 36,903 19,192 65,379 42,125
+Total non-current assets (A) 19,762 56,785 63,224 64,772 47,002 150,214 131,431
+Financial & Other assets
+i. Trade receivable 16,738 21,319 23,308 25,336 25,444 35,516 25,441
+ii. Cash & Cash equivalents, Investments & Other financial 
+assets72,609 81,484 127,619 126,953 147,540 166,203 166,196
+iii. Other assets 3,392 4,495 6,184 5,242 4,793 4,430 6,980
+Total current assets (B) 92,739 107,298 157,111 157,531 177,777 206,149 198,616
+Total assets (A + B) 112,501 164,083 220,335 222,303 224,779 356,363 330,047
+Total equity (A) 66,580 83,882 139,403 141,465 148,024 148,268 152,444
+Financial liabilities 7,134 18,035 17,957 16,174 15,416 28,015 22,202
+Provisions & Deferred tax liability 2,086 4,526 4,631 4,975 4,641 14,031 8,989
+Total non-current liabilities (B) 9,220 22,561 22,588 21,149 20,057 42,046 31,191
+Financial & Contract liabilities
+i. Trade payable 6,072 7,052 7,804 7,558 7,915 9,844 11,008
+ii. Others 26,266 45,921 45,710 47,474 43,839 150,036 128,412
+Provisions & Other current liabilities 4,363 4,667 4,830 4,656 4,944 6,169 6,991
+Total current liabilities (C) 36,701 57,640 58,344 59,688 56,698 166,049 146,412
+Total liabilities (D = B + C) 45,921 80,201 80,932 80,837 76,755 208,095 177,603
+Total equity and liabilities (A + D) 112,501 164,083 220,335 222,303 224,779 356,363 330,047Assets
+Current liabilitiesEquity and Liabilities Non-current assets
+Current Assets
+Non-current liabilities
+=== page 23 ===
+Key Ratios
+22 www.happiestminds.com*As per the guidance note from ICAI
+Q2 FY24 FY24 Q1 FY25 Q2 FY25
+Additional Balance Sheet Ratios
+Debt-Equity ratio 0.38 0.35 0.90 0.82
+Debt Service Coverage ratio (DSCR) 5.00 5.25 7.39 6.68
+Interest Service Coverage ratio (ISCR) 8.50 8.97 4.93 3.65
+Current ratio 2.69 3.14 1.24 1.36
+Long-term Debt to Working Capital ratio 0.12 0.09 0.27 0.20
+Bad debts to Trade receivable ratio 0.00 0.02 0.01                   0.01 
+Current liability ratio 0.72 0.74 0.80 0.82
+Total Debt to total Assets ratio 0.24 0.23 0.38 0.38
+Trade Receivable Turnover Ratio 7.29 6.95 6.09 8.20
+Operating margin (%) 20% 21% 18% 18%
+Net profit margin (%) 14% 15% 11% 9%
+=== page 24 ===
+Global Presence
+Headquarters – Bengaluru
+India   |   USA & Canada   |   Europe & UK    |    UAE    |    Australia
+23 www.happiestminds.com
+=== page 25 ===
+Happiest People · Happiest Customers
+India   |   United States   |   United Kingdom   |  Canada  |  Australia   |   Dubai
+Thank You
+24 www.happiestminds.com

@@ -6302,119 +6302,104 @@
   }
  },
  "ADANIENT::rationale": {
-  "stamp": "cd3ac5fba7099f026be16c2db1cdab03",
+  "stamp": "70f0fd8a70f6250762d3f24e9859b533",
   "verdict": {
-   "rationale": "Management framed the separations as the final stage of AEL's incubator model rather than a fix for distress. On the Aug 1, 2024 call, the Board had approved the demerger of AEL's Food FMCG business into Adani Wilmar together with its strategic investments in Adani Commodities LLP, on the stated ground that the Food FMCG business \"has become self-sustained, performing well and poised for future growth\" \u2014 i.e. it no longer needed AEL's incubation and could sit with the listed FMCG platform, continuing AEL's \"journey to unlock value for its shareholders\" and its track record of incubating businesses that became sector leaders delivering substantial shareholder returns. By the Apr 30, 2026 call, the argument had been generalized into a portfolio thesis: AEL's EBITDA mix had \"once again transformed into an Infra-Utility portfolio-style,\" with 80% of EBITDA from core infrastructure and services, the initial/primary capex phase reaching maturity, and AEL therefore \"getting ready for value unlock through demergers.\" The candidate businesses were named as independent, sector-leading large core-infra platforms \u2014 Airports, Roads, the ANIL new-energy ecosystem, and long-term contracted MDO (mining) services \u2014 each described as ready to move into \"value creation mode\": Airports a sector-leading platform with robust EBITDA growth and visibility, ANIL a cash-flow-generating new energy ecosystem expanding capacity 2.5x, and Roads and mining services stable cash-flow assets on long-term contracts, supported by operating proof points such as completing India's largest greenfield Ganga Expressway (27-year concession) in under 3.5 years and 96% YoY growth in domestic solar module sales. The logic was summarized as a repeatable four-phase playbook \u2014 \"build, stabilize, scale and unlock\" \u2014 with the first three phases already complete and the roadmap aimed at compounded growth \"over decades\" rather than the next quarter. The only timing given was for Airports, where Robbie Singh said the airport management would be comfortable around FY27-28. The NCLT filing text supplied, however, is the rationale for a different, consolidating arrangement \u2014 amalgamations under Adani Green Technology Ltd to bring the green hydrogen ecosystem (solar/wind supply-chain manufacturing, green hydrogen generation, downstream products) under one entity \u2014 justified by reduced dependency on external factors across the supply chain, cost optimization, operational/administrative efficiencies, economies of scale, lower overheads, fewer duplicate legal and regulatory compliances, expanded business pre-qualifications, capacity to build larger and more complex projects, better access to growth funding, combined management skills, and a simplified corporate structure.",
-   "evolution": "On the Aug 1, 2024 call the idea appeared as a single, specific board-approved transaction \u2014 Food FMCG (plus the Adani Commodities LLP investments) out to Adani Wilmar \u2014 presented as the natural graduation of an incubated business that had become self-sustaining. By the Apr 30, 2026 call it had broadened from one asset to a stated programme of \"demergers\" across Airports, Roads, ANIL and MDO services, now justified by a changed EBITDA profile (80% core infra/services) and the end of the primary capex phase, and codified as the \"build, stabilize, scale and unlock\" playbook. Analyst questioning on that call pushed management from thesis to timetable, yielding the only date given \u2014 Airports management \"comfortable around, say, '27, '28\" \u2014 while Copper was still at the stage of first-time segment reporting. The supplied scheme rationale moves in the opposite direction, consolidating the green hydrogen ecosystem under one entity rather than separating anything out of AEL.",
+   "rationale": "Management frames the separation as the final phase of AEL's incubator playbook: AEL builds, stabilizes and scales businesses and then separates them so each can be valued and funded on its own. In the Aug 2024 call the Board had already approved the first such step \u2014 the demerger of the Food FMCG business of Adani Enterprises into Adani Wilmar together with its strategic investments in Adani Commodities LLP \u2014 on the stated ground that Food FMCG 'has become self-sustained, performing well and poised for future growth', i.e. it no longer needs the incubator and separating it 'unlocks value for shareholders'. By Apr 2026 the same logic is applied to the infrastructure core: AEL closed FY26 with 80% of EBITDA share from core infrastructure and services businesses, its EBITDA profile 'once again transformed into an Infra-Utility portfolio-style', and management said AEL 'is now getting ready for value unlock through demergers' of Airports, Roads, the ANIL (new energy) ecosystem and long-term contracted MDO/mining services \u2014 described as independent, sector-leading, large core infra platforms that are 'ready to turn into value creation mode'. The problem the separation solves, as they put it, is that the initial and primary capex phase is reaching maturity across these businesses and the EBITDA mix has shifted to mature, scalable platforms, so holding them inside an incubator no longer reflects their standalone profile; supporting specifics cited were ANIL expanding capacity by 2.5x, solar module domestic sales up 96% YoY, completion of India's largest greenfield Ganga Expressway in under 3.5 years with a 27-year concession, and (Aug 2024) 730 lane km of road built in the quarter with 3 of 10 under-construction projects over 80% complete. Timing is sequenced by business readiness rather than a fixed date: asked specifically about the Airports demerger, Robbie Singh said airport management is 'comfortable around, say, '27, '28'. Separately, the attached scheme filing text covers a different Adani transaction \u2014 a composite scheme amalgamating companies under Adani Green Technology Ltd. to consolidate the green hydrogen ecosystem (solar/wind supply-chain manufacturing, green hydrogen generation, downstream products) under one entity \u2014 justified by consolidation of resources, operational and administrative efficiencies, economies of scale, lower overheads, fewer duplicated legal and regulatory compliances, expanded business pre-qualifications and capacity for larger/more complex projects, better access to growth funding, combined management skills, a simpler corporate structure, reduced dependency on external factors across the supply chain and cost optimization. No passage here states that investors, lenders or partners requested any of the separations; the only outside prompting visible is a sell-side analyst (Prateek Kumar) pressing on Airports demerger timing.",
+   "evolution": "Aug 2024: the idea surfaces as a concrete first step \u2014 the Board approves demerging Food FMCG into Adani Wilmar along with the Adani Commodities LLP strategic investments, justified by that business having become self-sustained, and framed inside AEL's incubation track record. By the Apr 2026 call (quarter and year ended March 31, 2026) it has widened from one consumer business into a programme of demergers across the infrastructure core \u2014 Airports, Roads, ANIL and contracted MDO \u2014 with management stating 80% of FY26 EBITDA now comes from core infrastructure and services and that AEL is 'getting ready for value unlock through demergers'. In the same Apr 2026 Q&A the plan is explicitly sequenced rather than dated: Airports is deferred to management readiness 'around, say, '27, '28', and Copper is still pre-separation, only crossing the revenue threshold for segment disclosure and to be reported as a separate line item from the next quarter.",
    "points": [
     {
      "call": "Aug 2024",
-     "point": "The Board had already approved a specific demerger: AEL's Food FMCG business, plus its strategic investments in Adani Commodities LLP, moving to Adani Wilmar.",
+     "point": "The Board approved the first separation \u2014 demerging AEL's Food FMCG business into Adani Wilmar, together with AEL's strategic investments in Adani Commodities LLP.",
      "quote": "In line with this, the Board of D irectors of Adani Enterprises have approved the demerger of F ood FMCG business o f Adani Enterprise s to Adani Wilm ar, along with its strategic investments in Adani Commodities LLP ."
     },
     {
      "call": "Aug 2024",
-     "point": "The stated trigger for separating Food FMCG was business maturity \u2014 it had stopped needing incubation and was growing on its own.",
+     "point": "The stated test for separating a business is that it has outgrown incubation \u2014 Food FMCG was self-sustaining and growing on its own.",
      "quote": "The Food FMCG business has become self-sustained , performing well and poised for future growth."
     },
     {
      "call": "Aug 2024",
-     "point": "The separation was positioned inside AEL's incubator track record, where past incubations became sector leaders delivering shareholder returns.",
+     "point": "The separation is positioned as a continuation of AEL's incubation record of creating sector-leading listed companies and shareholder returns.",
      "quote": "Over the years , we have a track record of successfully incubating businesses which are currently leading companies in their respective sectors and delivering substantial returns to their shareholders."
     },
     {
      "call": "Aug 2024",
-     "point": "Management explicitly labelled the transaction as shareholder value unlocking, not a disposal or de-risking.",
-     "quote": "With this, Adani Enterprise s continues its journey to unlock value for its shareholders."
+     "point": "Operating evidence cited for the maturing infra businesses: record quarterly road construction and schedule-compliant Ganga Expressway progress.",
+     "quote": "arter, we have constructed 730 lane kilometer roads, which is the highest for any quarter since its inception."
     },
     {
      "call": "Apr 2026",
-     "point": "The portfolio precondition management cited: 80% of FY26 EBITDA now comes from core infrastructure and services, reshaping AEL into an infra-utility profile.",
+     "point": "The portfolio mix has shifted decisively to infrastructure \u2014 80% of FY26 EBITDA share from core infrastructure and services \u2014 which management uses as the precondition for demerging.",
      "quote": "AEL's EBITDA profile has once again transformed into an Infra-Utility portfolio -style as we close this financial year with 80% of the EBITDA share coming from core infrastructure and services businesses."
     },
     {
      "call": "Apr 2026",
-     "point": "Management declared the demerger programme itself, naming the four platforms \u2014 Airports, Roads, ANIL ecosystem and long-term contracted MDO services \u2014 as ready for value creation.",
+     "point": "AEL states outright that it is preparing value unlock through demergers.",
      "quote": "AEL is now getting ready for value unlock through demergers."
     },
     {
      "call": "Apr 2026",
-     "point": "Each candidate was characterized as independent and sector-leading at large scale, which is the qualification management used for separability.",
+     "point": "The businesses named for separation are Airports, Roads, the ANIL new-energy ecosystem and long-term contracted MDO services, each described as independent and sector-leading.",
      "quote": "These businesses are independent, sector -leading , large core infra platform , spread across Airports, Roads, ANIL ecosystem and long -term contract ed MDO services, which are ready to turn into value creation mode."
     },
     {
      "call": "Apr 2026",
-     "point": "Specifics per platform: Airports with robust EBITDA growth and visibility; ANIL cash-generating and expanding capacity 2.5x; Roads and mining services stable cash flows on long-term contracts.",
-     "quote": "- ANIL, cash flow -generating new energy ecosystem, expanding its capacity by 2.5x."
-    },
-    {
-     "call": "Apr 2026",
-     "point": "The capital-cycle argument: initial and primary capex is maturing and EBITDA has shifted to mature, scalable platforms, so value unlock becomes the logical next step.",
-     "quote": "So what I want to highlight here is that when you take a broader view of an incubator entity like AEL, what emerges is a clear picture where initial and primary capex phase is reaching maturity across businesses and EBITDA mix has shifted to mature scalable platforms and path for value unlock i s taking shape."
-    },
-    {
-     "call": "Apr 2026",
-     "point": "The separation logic was formalized as a four-phase, repeatable incubation playbook, with the first three phases said to be complete.",
+     "point": "Separation is the fourth and final step of an explicit repeatable incubation sequence, with the first three already completed.",
      "quote": "Incubation journey is a repeatable playbook for us: build, stabilize, scale and unlock."
     },
     {
      "call": "Apr 2026",
-     "point": "Management stressed a multi-decade horizon rather than near-term quarters as the frame for the unlock roadmap.",
-     "quote": "It is designed to deliver compounded gr owth and strength over decades."
+     "point": "The trigger is capex maturity: the heavy build phase is ending and EBITDA now comes from mature, scalable platforms, so value unlock is the next step.",
+     "quote": "So what I want to highlight here is that when you take a broader view of an incubator entity like AEL, what emerges is a clear picture where initial and primary capex phase is reaching maturity across businesses and EBITDA mix has shifted to mature scalable platforms and path for value unlock i s taking shape."
     },
     {
      "call": "Apr 2026",
-     "point": "Operating proof points offered for the to-be-separated assets: Ganga Expressway finished in under 3.5 years with a 27-year concession, and solar module domestic sales up 96% YoY.",
+     "point": "Readiness evidence per platform: Airports with robust EBITDA growth and visibility, ANIL cash-flow generating and expanding capacity 2.5x, Roads and mining services with stable long-term contracted cash flows.",
+     "quote": "- ANIL, cash flow -generating new energy ecosystem, expanding its capacity by 2.5x."
+    },
+    {
+     "call": "Apr 2026",
+     "point": "Asset-level proof points offered: India's largest greenfield expressway finished in under 3.5 years on a 27-year concession, and 96% growth in domestic solar module sales.",
      "quote": "We are pleased to inform you that we have completed India's largest greenfield Ganga Expressway project in a record time of less than 3.5 years."
     },
     {
      "call": "Apr 2026",
-     "point": "The only external pressure visible in the texts is analyst Prateek Kumar pressing twice on when the Airport demerger previously discussed would happen.",
-     "quote": "Yes, I was asking regarding the Airport segment, you have exited this year on a strong note. When should we look at demerger of this business, which you have talked about in the past?"
-    },
-    {
-     "call": "Apr 2026",
-     "point": "Robbie Singh gave the sole timing guidance, tied to the Airports management team's own readiness rather than to a market or regulatory deadline.",
+     "point": "An analyst (Prateek Kumar) pushed for the Airports demerger timetable after a strong year-exit; management tied it to business-plan readiness around FY27\u2013FY28 rather than a committed date.",
      "quote": "I think from Airports business plan point of view, Prateek, I think the airport team -- airport management would be ready by -- they are comfortable around, say, '27, '28."
     },
     {
      "call": "Apr 2026",
-     "point": "Copper is still at an earlier disclosure stage \u2014 revenue reported only because it crossed the threshold, with segment EBITDA to be reported from next quarter.",
+     "point": "Copper is still an earlier-stage incubated business: it only crossed the revenue disclosure threshold and full segment reporting (including EBITDA) starts next quarter.",
      "quote": "We have to report that from the coming quarter, we'll report first time as a separate line item."
     },
     {
      "call": "Scheme",
-     "point": "The filed scheme's rationale is consolidation, not separation: the Transferee Company was created to incubate and build an end-to-end green hydrogen platform spanning solar/wind manufacturing, hydrogen generation and downstream products.",
-     "quote": "The Transferee Company was incorporated as vehicle to incubate, develop and build the largest integrated platform for production of green hydrogen through an end-to-end supply value chain."
-    },
-    {
-     "call": "Scheme",
-     "point": "The stated objective is to bring the three green hydrogen business streams under one entity that can work independently on renewable components and hydrogen.",
+     "point": "The filing's rationale concerns a different arrangement \u2014 consolidating the green hydrogen ecosystem (solar/wind supply-chain manufacturing, hydrogen generation, downstream products) under one entity, Adani Green Technology Ltd. as Transferee Company.",
      "quote": "It is the objective of the Amalgamated Company to consolidate, over a period of time, the green hydrogen ecosystem as mentioned above under one entity i.e. the Transferee Company, which will diligently and independently work for development and production of various renewable energy components and green hydrogen."
     },
     {
      "call": "Scheme",
-     "point": "The economic aim given is self-sufficiency across the supply chain and cost optimization, achieved stepwise through this consolidation.",
-     "quote": "In a step towards achieving this larger objective, it is proposed to presently consolidate such businesses under the Amalgamated Company and the Transferee Company, with an ultimate aim of reduction of dependency on external factors for entire supply chain process and achieving cost optimization."
+     "point": "The stated commercial aim is end-to-end supply chain control \u2014 cutting dependency on external parties and optimizing cost.",
+     "quote": "In a step towards achieving this larger objective, it is proposed to \npresently consolidate such businesses under the Amalgamated \nCompany and the Transferee Company, with an ultimate aim of \nreduction of dependency on external factors for entire supply chain \nprocess and achieving cost optimization."
     },
     {
      "call": "Scheme",
-     "point": "Benefit list cited: pooled resources, operational and administrative efficiencies, economies of scale, lower overheads, fewer duplicated compliances and greater stakeholder value.",
-     "quote": "consolidation of green hydrogen ecosystem, productive utilization of combined resources, operational and administrative efficiencies, economics of scale, reduction in overheads and other expenses, reduction in the multiplicity of legal and regulatory compliances, and consequential creation of greater value for shareholders and all other stakeholders;"
+     "point": "Claimed benefits are scale and administrative: combined resources, economies of scale, lower overheads, fewer duplicated compliances and greater shareholder value.",
+     "quote": "consolidation of green hydrogen ecosystem, productive\nutilization of combined resources, operational and\nadministrative efficiencies, economics of scale, reduction in\noverheads and other expenses, reduction in the multiplicity of\nlegal and regulatory compliances, and consequential creation of\ngreater value for shareholders and all other stakeholders;"
     },
     {
      "call": "Scheme",
-     "point": "A funding and bidding rationale is also claimed \u2014 wider pre-qualifications, capacity for larger and more complex projects, and better access to growth capital.",
-     "quote": "availability of expanded business pre-qualifications, increased business capacity to enable to build larger and more complex projects and provide better access to the funds for growth opportunities;"
+     "point": "Funding and bidding capacity are explicit motives \u2014 bigger pre-qualifications, capacity for more complex projects and better access to growth funds.",
+     "quote": "availability of expanded business pre-qualifications, increased\nbusiness capacity to enable to build larger and more complex\nprojects and provide better access to the funds for growth\nopportunities;"
     },
     {
      "call": "Scheme",
-     "point": "The Regional Director challenged the structure's framing, noting it reads as two separate amalgamations rather than a composite scheme; the companies replied all petitioners are within a single Adani group chain of wholly owned subsidiaries.",
-     "quote": "In this regard, it 1s observed that the title of the scheme is Composite Scheme of Arrangement, but on perusal of aforesaid para, this scheme IS amalgamation of two separate groups of companies belong to Adani Group and not appears as Composite Scheme of Arrangement."
+     "point": "The scheme also seeks a simpler corporate structure, and confirms the parties are wholly owned entities within a single Adani group chain (Amalgamating Co. 1 under the Transferor Company; Transferor and Transferee under the Amalgamated Company).",
+     "quote": "simplification of corporate structure and reducing the\nmultiplicity of legal and regulatory compliances."
     }
    ],
-   "what_management_expects": "Management said the Food FMCG business, now self-sustained and poised for growth, would unlock shareholder value under Adani Wilmar. For AEL, demergers would turn mature, cash-flow-generating platforms\u2014Airports, ANIL (capacity up 2.5x), Roads, long-term MDO\u2014into independent, sector-leading entities in value-creation mode, compounding growth over decades. The scheme promised scale economies, lower overheads and better funding access.",
-   "gaps": "No swap ratios, valuations, debt or capex allocation, listing timelines beyond Airports' '27-'28; no lender, investor or partner demand cited; scheme text addresses green hydrogen, not AEL's demergers."
+   "what_management_expects": "AEL retains the incubator role, recycling capital into new businesses (Copper next) while separated platforms \u2014 Airports, Roads, ANIL, MDO \u2014 become independent, sector-leading entities valued on their own mature, contracted, cash-generating EBITDA rather than inside a conglomerate; Food FMCG grows self-sustained inside Adani Wilmar. The green hydrogen scheme expects scale economies, lower overheads, bigger pre-qualifications, cheaper growth funding and cost optimization.",
+   "gaps": "No swap ratios, debt allocation, listing dates, holding-company structure, residual AEL profile, tax/regulatory steps, or any stated investor, lender or partner demand driving the demergers."
   }
  },
  "JKPAPER::rationale": {
@@ -6897,41 +6882,41 @@
   }
  },
  "LEMONTREE::segments": {
-  "stamp": "7cebcb79550b14b6a5cbf400a307acaf",
+  "stamp": "b1741d4ae5c152d2b55adacfb9057507",
   "verdict": {
-   "segment_name": "Fleur Hotels Limited (formerly Fleur Hotels Private Limited) \u2014 material subsidiary holding the asset-heavy owned-hotel portfolio; the Demerged Undertaking / Transferee Company in the Composite Scheme of Arrangement",
-   "unit": "\u20b9 lakhs (annual report notes) / \u20b9 crore (quarterly presentations)",
-   "measure_notes": "No segment P&L exists for Fleur. Lemon Tree reports NO reportable segment under Ind AS 108 in FY2024, FY2025 and FY2026 (consolidated and standalone) \u2014 the Group is managed as a single hoteliering unit. The tagged pages therefore carry no revenue, EBITDA/segment result, PBT or PAT for Fleur Hotels Limited. The only Fleur-specific amounts disclosed are (a) fees Lemon Tree EARNS FROM Fleur (an LTHL income line, i.e. a cost to Fleur, not Fleur's revenue): \u20b921.3 Cr in Q1 FY26 (Presentation Aug 2025 \u2014 page 4), \u20b995.8 Cr in FY26 (Presentation Jun 2026 \u2014 page 5), \u20b922.6 Cr in Q1 FY27 (Presentation Aug 2026 \u2014 page 5); and (b) non-P&L items \u2014 stamp-duty provision \u20b91,525.03 lakhs, SGST subsidy entitlements, goodwill of \u20b98,832.41 lakhs at Berggruen (a Fleur subsidiary), and APG's 41.09% stake sold to Coastal Cedar Investments B.V. on 22 May 2026. All P&L figures in the presentations (e.g. FY26 total revenue \u20b91,452.7 Cr, Net EBITDA \u20b9699.3 Cr, PAT \u20b9288.3 Cr) are Lemon Tree CONSOLIDATED, not Fleur.",
+   "segment_name": "Fleur Hotels Limited (formerly Fleur Hotels Private Limited) \u2014 material subsidiary / proposed Demerged Undertaking",
+   "unit": "\u20b9 lakhs (annual reports) / \u20b9 Cr (presentations) \u2014 no Fleur-specific amounts on these pages",
+   "measure_notes": "No profit line is available for Fleur. All three annual reports (Note 42 consolidated, Note 39/40 standalone) state the Group/Company is a single Hoteliering business with no reportable segment under Ind AS 108, and only domestic operations, so no segment revenue, segment result, EBITDA or PAT is disclosed for Fleur or for any asset-heavy hotel-ownership business. Presentation P&L pages give only Lemon Tree Consolidated and Keys Hotels splits (total revenue, EBITDA, PBT), not Fleur. The only Fleur-linked figures are Lemon Tree's fee income earned FROM Fleur (Q1 FY26 \u20b921.3 Cr, Q1 FY27 \u20b922.6 Cr, FY26 \u20b995.8 Cr) \u2014 that is the parent's management-fee revenue, not Fleur's own revenue, so it is excluded.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 162 (note 42 Segment Reporting: no reportable segment); Annual Report 2024 \u2014 page 200 (note 39, standalone)"
+     "source": "Annual Report 2024 \u2014 page 162 (Note 42 Segment Reporting: no reportable segment)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 200 (note 42 Segment Reporting: no reportable segment); Annual Report 2025 \u2014 page 240 (note 39, standalone)"
+     "source": "Annual Report 2025 \u2014 page 200 (Note 42 Segment Reporting: no reportable segment)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 192 (note 42 Segment Reporting: no reportable segment); Annual Report 2026 \u2014 page 235 (note 40, standalone)"
+     "source": "Annual Report 2026 \u2014 page 192 (Note 42 Segment Reporting: no reportable segment)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Aug 2026 \u2014 page 17 (Q1 FY27 P&L is Lemon Tree Consolidated / Keys split only; no Fleur line). Fleur appears on Presentation Aug 2026 \u2014 page 5 solely as \u20b922.6 Cr of management fees paid to LTHL."
+    "source": "Presentation Aug 2026 \u2014 page 17 (consolidated and Keys-only splits; no Fleur line)"
    },
-   "not_found": "No Fleur-specific revenue, EBITDA/operating profit, PBT or PAT on any tagged page, annual or quarterly; the Group reports no segments. Only fees LTHL earns from Fleur are disclosed."
+   "not_found": "Fleur's own revenue, EBITDA/operating profit and PAT \u2014 annual and quarterly. Pages carry no segment or subsidiary-level P&L for Fleur; only parent fees received from Fleur."
   }
  },
  "PFOCUS::rationale": {
@@ -7699,64 +7684,54 @@
   }
  },
  "DEVYANI::rationale": {
-  "stamp": "afd6e24e7101475038c78b3647fc4ef0",
+  "stamp": "d1d0cce9b289ddefb78e661c929c6870",
   "verdict": {
-   "rationale": "These texts do not support the premise: nothing in them describes Devyani separating, demerging or spinning off a business. The only corporate action documented is the reverse \u2014 an amalgamation in which Sapphire Foods India Limited is the 'Transferor Company' and Devyani International Limited the 'Transferee Company', announced to investors on January 6, 2026 under sections 230\u2013232 of the Companies Act, 2013. The passage labelled 'SCHEME RATIONALE' contains no rationale at all; it is the NSE observation letter (Ref: NSE/LIST/53151/53153, June 12, 2026) and the BSE letter (DCS/AMAL/RD/R37/116/2026-27) conveying 'No objection' under Regulation 37, which merely *instruct* the companies to disclose 'The rationale and objectives underlying the proposed scheme', a cost-benefit analysis, three years of Revenue/PAT/EBITDA, pre- and post-scheme shareholding, and the value of 'Assets and liabilities of Sapphire being transferred to Devyani' \u2014 i.e. the regulator asking for a rationale that is not in this text. The only separation-adjacent commentary is operational, from the May 2025 call, where CFO Manish Dawar said Devyani is carving physical space out of existing KFC stores for 'newer brands, which are very small kiosk type of formats' that 'will be independent', framed as a response to cannibalisation from new KFC openings; the margin discussion there is about holding roughly 20% restaurant operating margin at an ADS of about Rs.105k through smaller store formats, labour and overhead synergies, and landlord renegotiation. Two structural facts around the Sapphire/Devyani scheme are disclosed but unexplained: an 'SFIL Secondary Sale' of up to 5,94,55,837 equity shares, up to 18.5% of Sapphire's share capital as of December 31, 2025, from Sapphire Foods Mauritius Limited to Arctic International Limited; and certain Sapphire/Devyani promoter and promoter-group entities 'intending to be reclassified in the Public Category in Devyani'. No investor, lender or franchisor (Yum) request for a separation appears anywhere in these passages.",
-   "evolution": "May 2025: no separation is mentioned; management discusses carving kiosk space for independent newer brands inside KFC stores and protecting ~20% ROM at ~Rs.105k ADS. January 6, 2026 (transcript filed January 13, 2026): Devyani and Sapphire hold a joint call announcing a merger \u2014 Sapphire into Devyani \u2014 but the supplied extract stops at the moderator's opening, so none of the stated reasoning is present. June 12, 2026: SEBI, NSE and BSE issue observation/no-objection letters requiring the companies to disclose the scheme's rationale, cost-benefit analysis and CCI approval, confirming the rationale was still to be published rather than visible here.",
+   "rationale": "On these texts alone, there is no stated rationale for separating a business \u2014 the documents describe the opposite transaction plus one unrelated operational 'carve-out'. The Jan 2026 filing is a cover letter for a joint call on 'announcement of merger through a Scheme of Arrangement involving Sapphire Foods India Limited (\"Transferor Company\"), Devyani International Limited (\"Transferee Company\")' \u2014 an amalgamation of Sapphire into Devyani, not a demerger, and the transcript body itself is truncated before any management reasoning is given. The only 'carve out' language anywhere is operational, from the May 2025 call, where CFO Manish Dawar explained how KFC can still earn roughly 20% restaurant operating margin at about Rs.105k ADS: new KFC openings had cannibalised existing stores, so Devyani is resizing formats, carving physical space inside KFC stores for 'newer brands, which are very small kiosk type of formats', and saying 'These brands will be independent' \u2014 independence of brand/format within a store, with no mention of a legal entity, scheme, or shareholder event. Supporting margin levers he cited were format change, labour and overhead synergies if ADS stays soft, and continuous landlord rent negotiation. The so-called scheme rationale text supplied is not a rationale at all: it is the NSE observation letter and BSE letter of June 12, 2026 conveying SEBI's comments and 'No objection' under Regulation 37, which merely *require* the companies to disclose 'The rationale and objectives underlying the proposed scheme' to shareholders \u2014 the rationale is demanded, never stated. The only shareholder-structure specifics given are a separate SFIL Secondary Sale of up to 5,94,55,837 equity shares, up to 18.5% of Sapphire's share capital as of December 31, 2025, from Sapphire Foods Mauritius Limited to Arctic International Limited, promoter/promoter-group entities of Sapphire and Devyani 'intending to be reclassified in the Public Category in Devyani', and a condition that the scheme be expressly subject to Competition Commission of India approval before NCLT filing.",
+   "evolution": "May 2025: carve-out appears only as a store-level idea \u2014 space inside cannibalised KFC stores for small kiosk-format 'independent' brands, as one lever to defend ~20% ROM at ~Rs.105k ADS. January 6, 2026 (transcript filed January 13, 2026): the corporate action announced is a merger, Sapphire Foods as transferor into Devyani as transferee, with the SFIL Secondary Sale of up to 18.5% of Sapphire measured as of December 31, 2025 sitting alongside it. June 12, 2026: NSE and BSE issue Regulation 37 observation/no-objection letters adding CCI approval as a pre-NCLT condition and ordering disclosure of the rationale, cost-benefit analysis, valuation methods and promoter reclassification. Across the three documents the direction of travel is consolidation plus promoter reclassification, not separation.",
    "points": [
     {
      "call": "May 2025",
-     "point": "Management confirmed cannibalisation of existing KFC stores by new openings and said space inside them is being carved out for small kiosk-format newer brands that will operate as independent brands.",
+     "point": "Dawar said new KFC openings cannibalised existing stores, so Devyani will carve physical space out of KFC boxes for small kiosk-format newer brands, which he described as independent brands \u2014 not an independent company.",
      "quote": "We are also planning to carve out the space for our newer brands, which are very small kiosk type of formats ."
     },
     {
      "call": "May 2025",
-     "point": "The carved-out brands are described as independent while still sharing Devyani's existing store footprint.",
+     "point": "The independence referred to is brand/format independence operating inside existing KFC real estate; no entity, scheme or listing is mentioned.",
      "quote": "These brands will be independent, but we will be able to carve out some space for them ."
     },
     {
      "call": "May 2025",
-     "point": "The margin defence at lower ADS rests on smaller store format plus labour and overhead synergies, not on any separation of a business.",
+     "point": "The margin question framing the discussion was holding close to 20% restaurant operating margin at roughly Rs.105k ADS, with levers being format, labour and overhead synergies, and landlord negotiations.",
      "quote": "Regarding your earlier question in terms of where these margins are going to be coming from, one is obviously the format that we discussed earlier , and the other one is in case the ADS is a little down, we would have synergies and opportunities from a labor and overheads perspective."
     },
     {
-     "call": "May 2025",
-     "point": "The analyst's framing supplies the only operating numbers cited: roughly 20% restaurant operating margin at an ADS of about Rs.105k, plus ongoing landlord negotiations as a further lever.",
-     "quote": "You earlier mentioned that you are basically making it such that at Rs.105k sort of ADS you would still make close to about 20% ROM."
-    },
-    {
      "call": "Jan 2026",
-     "point": "The filing identifies the transaction as a merger of Sapphire into Devyani, with Sapphire as transferor and Devyani as transferee \u2014 the opposite of a separation; the transcript body with the reasoning is not included in the passage.",
+     "point": "The January 6, 2026 joint call announced a merger, with Sapphire Foods as transferor company and Devyani as transferee company \u2014 a combination, not a separation.",
      "quote": "transcript of the Investors & Analysts Conference Call held on January 6, 2026, w.r.t. announcement of merger through a Scheme of Arrangement involving Sapphire Foods India Limited (\u2018Transferor Company\u2019), Devyani International Limited (\u2018Transferee Company\u2019) and their respective shareholders is enclosed."
     },
     {
      "call": "Scheme",
-     "point": "The 'rationale' text is regulatory correspondence that directs the companies to disclose a rationale to shareholders; it does not state one.",
+     "point": "The filing text supplied contains no rationale; SEBI/NSE instead order the companies to disclose the rationale, a cost-benefit analysis and valuation methods to shareholders so they can decide.",
      "quote": "b) The rationale and objectives underlying the proposed scheme."
     },
     {
      "call": "Scheme",
-     "point": "Regulators require disclosure of the assets and liabilities moving from Sapphire to Devyani and the post-scheme Devyani balance sheet, again confirming direction of transfer into Devyani.",
-     "quote": "j) The value of Assets and liabilities of Sapphire being transferred to Devyani and post -\nscheme balance sheet of Devyani."
+     "point": "A separate secondary sale of up to 18.5% of Sapphire must be disclosed, and shareholding must be shown both with and without it.",
+     "quote": "Disclose details of SFIL Secondary Sale i .e. Sal e of up to 5,94,55,837 Equity Shares of the Sapphire representing up to 18.5% of the share capital of the Sapphire as of December 31, 2025, by Sapphire Foods Mauritius Limited to Arctic International Limited."
     },
     {
      "call": "Scheme",
-     "point": "A concurrent secondary sale of up to 18.5% of Sapphire is to be disclosed, with the scheme's shareholding to be shown both with and without it.",
-     "quote": "l) Disclose details of SFIL Secondary Sale i .e. Sal e of up to 5,94,55,837 Equity Shares \nof the Sapphire representing up to 18.5% of the share capital of the Sapphire as of December 31, 2025, by Sapphire Foods Mauritius Limited to Arctic International Limited."
+     "point": "Certain promoter and promoter-group entities of both companies intend to be reclassified into the public category in Devyani, with reasons to be disclosed.",
+     "quote": "Disclose details of Promoters and Promoter Group entities of Sapphire and Devyani intending to be reclassified in the Public Category in Devyani, and the reasons thereof."
     },
     {
      "call": "Scheme",
-     "point": "Some Sapphire and Devyani promoter-group entities intend to be reclassified as public shareholders in Devyani, and must give reasons.",
-     "quote": "m) Disclose details of Promoters and Promoter Group entities of Sapphire and Devyani intending to be reclassified in the Public Category in Devyani, and the reasons thereof."
-    },
-    {
-     "call": "Scheme",
-     "point": "SEBI made the scheme expressly conditional on Competition Commission of India approval before any NCLT filing, indicating a combination of overlapping businesses rather than a carve-out.",
-     "quote": "\u201cThe entities are advised to ensure that the captioned Scheme of Arrangement is made \nexpressly subject to receipt of approval from the Competition Commission of India \n(CCl), as applicable; and that the company shall not file the Scheme before the Hon'ble \nNational Company Law Tribunal (NCLT) unless and until the requisite approval from CCI \nis obtained.\u201d"
+     "point": "The regulator made the scheme conditional on Competition Commission of India approval before any NCLT filing \u2014 a gating item for timeline risk.",
+     "quote": "\u201cThe entities are advised to ensure that the captioned Scheme of Arrangement is made expressly subject to receipt of approval from the Competition Commission of India (CCl), as applicable; and that the company shall not file the Scheme before the Hon'ble National Company Law Tribunal (NCLT) unless and until the requisite approval from CCI is obtained.\u201d"
     }
    ],
-   "what_management_expects": "No separation expectations are stated in these texts. The only forward-looking claims are operational (May 2025): holding roughly 20% restaurant operating margin even at about Rs.105k ADS via smaller KFC formats, labour and overhead synergies, landlord renegotiation, and space carved inside existing KFC stores for independent kiosk-format newer brands. For the Sapphire\u2013Devyani merger, no margin, capital, valuation or focus benefit is quantified or described.",
-   "gaps": "Nothing: no rationale, synergies, exchange ratio, valuation or capital impact, cost-benefit, or requesting party. The merger call transcript's substance is absent; no separation is described anywhere."
+   "what_management_expects": "Not stated for any separated entity. The only expectation management quantified is operational: KFC holding close to 20% ROM at about Rs.105k ADS via smaller formats, kiosk-brand space inside cannibalised stores, labour and overhead synergies, and landlord rent negotiation. No margin, capital, valuation or focus claims are made for the Sapphire merger in the supplied text.",
+   "gaps": "Everything: no demerger rationale, no entity or financials split, no synergy or valuation numbers, no investor, lender or Yum partner demand, and the Jan 2026 transcript body is truncated."
   }
  },
  "DIACABS::rationale": {
@@ -8773,6 +8748,158 @@
    ],
    "what_management_expects": "Only for the combined (Transferee) entity, and only qualitatively: operating synergies, expansion and long-term sustainable growth, enhanced stakeholder value, simpler structure with fewer legal/regulatory compliances, lower administrative cost from eliminating duplicate records and expenses, and optimal, efficient capital utilisation with better operational and management efficiency. No margin, capital or valuation figures are stated, and nothing is said about a second standalone entity because none survives.",
    "gaps": "Everything: no earnings-call text was supplied; no numbers, no named businesses beyond the Transferor, no Transferee identity, no requesting investors, lenders or partners, and no separation at all \u2014 the filing describes an amalgamation."
+  }
+ },
+ "ADANIENT::segments": {
+  "stamp": "10986d289515d3ad36672224c0c42cdf",
+  "verdict": {
+   "segment_name": "Core infrastructure business being separated \u2014 reported in the documents as four separate operating segments: Airport, Road, New Energy Ecosystem (ANIL), Mining Services (long-term contracted MDOs). No combined 'core infrastructure' line is reported.",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Figures are the arithmetic sum of the four reportable segments as printed in the Ind AS 108 segment note. Revenue = 'Revenue from Operations' per segment, i.e. gross/including inter-segment (the inter-segment elimination is given only as a single consolidated line, not by segment). Operating_profit = 'Profit Before Finance Costs, Tax Expense & Other Income (including Exceptional Items)', i.e. segment result / EBIT after depreciation \u2014 not EBITDA and not PBT. PAT is not disclosed by segment (finance cost, other income and tax are unallocated), so it is null. FY2024 components (AR2024 p485): revenue Airport 7,905.11, Road 7,177.11, New Energy 8,570.96, Mining Services 2,252.41; result 371.34 / 760.39 / 1,802.34 / 580.35. FY2025 (AR2025 p500): revenue 10,015.71 / 9,694.13 / 13,965.39 / 3,736.21; result 1,434.62 / 1,265.56 / 4,082.07 / 1,453.02. FY2026 (AR2026 p339): revenue 13,215.43 / 6,347.18 / 15,399.00 / 4,445.86; result 2,770.30 / 679.45 / 3,609.00 / 1,709.53. Separately, presentations give EBITDA (not comparable to the above) for Airports FY25 3,480 / FY26 5,394 and ANIL/New Energy FY25 4,776 / FY26 4,532, and state H1 FY26 'emerging core infra' EBITDA of 5,470 cr (Presentation Nov 2025 \u2014 page 2).",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 25905.59,
+     "operating_profit": 3514.42,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 485"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 37411.44,
+     "operating_profit": 8235.27,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 500"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 39407.47,
+     "operating_profit": 8768.28,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 339"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q1 FY27",
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Jul 2026 \u2014 page 3"
+   },
+   "not_found": "No combined core-infrastructure line; segment PAT, tax, finance cost not disclosed. Quarterly data covers only Airports and New Energy (Q1 FY27 income 3,763 and 3,937; EBITDA 1,633 and 972) \u2014 Roads and MDOs absent."
+  }
+ },
+ "AIIL::segments": {
+  "stamp": "9a5544a97e676dfa8582e7d6725dd591",
+  "verdict": {
+   "segment_name": "not stated",
+   "unit": "\u20b9 crore",
+   "measure_notes": "The tagged pages carry only AIIL's consolidated Ind AS 108 segment disclosure for four segments \u2014 Investment Activity, Lending Activity, Rental Business and ARC (ARC appears first in FY2026) \u2014 reported as 'Segment Revenue' and 'Segment Result', where the segment results sum to consolidated Profit/(Loss) before tax (i.e. a PBT-level measure, before tax, with no inter-segment/external split disclosed). No page identifies which business is being separated/demerged, so no segment can be attributed to the separating entity; no segment-level PAT is disclosed anywhere.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "Separating business unnamed in pages; no segment identifiable as it. Pages show only AIIL segment revenue/result (Investment, Lending, Rental, ARC). No segment PAT, no quarterly presentation pages."
+  }
+ },
+ "COFORGE::segments": {
+  "stamp": "b650fa930ea2e05f26a52661e8b92ebf",
+  "verdict": {
+   "segment_name": "Cigniti Technologies Limited (acquired subsidiary, subsequently merged into Coforge Limited; not a reportable segment \u2014 its goodwill is allocated to the Americas segment)",
+   "unit": "\u20b9 million (INR Mn)",
+   "measure_notes": "No segment result/EBIT/EBITDA is disclosed for Cigniti anywhere in the tagged pages \u2014 the Group's reportable segments are geographic (Americas/EMEA/APAC/India, later Americas/EMEA/ROW), and Cigniti is only disclosed as (i) a material non-controlling-interest subsidiary and (ii) a business combination. Revenue of 15,459 is Cigniti's revenue as consolidated by the Group (NCI note states amounts are before inter-company eliminations). 'pat' 1,897 is 'Profit for the year' in the NCI summarised P&L (AR2025 p.152); the business-combination note (AR2025 p.153) gives PAT of 1,356 for the same revenue of 15,459, stated net of amortisation on intangibles arising out of the acquisition. Both cover only the post-acquisition period (control obtained 5 July 2024), i.e. roughly 9 months, not a full fiscal year. Pro-forma note: had the acquisition occurred on 1 April 2024, Group revenue and PAT would have been higher by 4,685 and 105 respectively.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "not disclosed in tagged pages"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 15459,
+     "operating_profit": null,
+     "pat": 1897,
+     "source": "Annual Report 2025 \u2014 page 152 (revenue 15,459; profit for the year 1,897); Annual Report 2025 \u2014 page 153 (same revenue 15,459 with PAT 1,356 net of acquisition-intangible amortisation)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "not disclosed in tagged pages"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "not disclosed in tagged pages \u2014 quarterly presentations give consolidated Coforge only"
+   },
+   "not_found": "Cigniti operating profit/EBIT/EBITDA for all years; FY2024 and FY2026 revenue/profit; any quarterly Cigniti figures. FY2025 figures cover only the post-5-July-2024 post-acquisition period, not a full year."
+  }
+ },
+ "DEVYANI::segments": {
+  "stamp": "2359606a353d44cf7b82828368a19060",
+  "verdict": {
+   "segment_name": "None \u2014 nothing is being spun off. DIL is the Transferee Company in a merger that absorbs Sapphire Foods India Limited (SFIL / Transferor Company); DIL itself reports a single segment, 'Food and Beverages' (Pizza Hut, Taco Bell, KFC all inside it)",
+   "unit": "\u20b9 million",
+   "measure_notes": "No separable unit exists in these pages: every annual-report segment note (AR2024 p295, AR2025 p214/p307, AR2026 p224/p317) states a single business segment, Food and Beverages, with only geographic splits (India/Thailand/Rest of world; Domestic/International) and no Pizza Hut, Taco Bell or brand-level segment result, EBIT, EBITDA, PBT or PAT. Brand-level data in the quarterly decks is revenue and 'Brand Contribution' only, not a separated entity. The only standalone figures for the counterparty entity (SFIL, the incoming Transferor, not a spun-off business) are FY2025 pro-forma disclosures reproduced 'on a best effort basis': revenue \u20b928,754 mn, Operating EBITDA \u20b92,616 mn (9.1%), reported EBITDA \u20b94,925 mn (17.1%), gross profit \u20b919,750 mn (68.7%), net worth \u20b913,962 mn, borrowings \u20b9199 mn, 963 stores [Presentation Jan 2026 \u2014 page 10]; and by geography: India revenue \u20b924,489 mn / brand contribution \u20b93,428 mn (14.0%), Sri Lanka \u20b94,228 mn / \u20b9652 mn (15.4%) [Presentation Jan 2026 \u2014 page 15]. No PAT for SFIL anywhere.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 295 (single segment; no separated business disclosed)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 214 and page 307 (single segment; no separated business disclosed)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 224 and page 317 (single segment; no separated business disclosed)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 \u2014 page 6 (consolidated/brand-level only; no separated business)"
+   },
+   "not_found": "No spun-off business exists: this is an inbound merger of SFIL into DIL. Pages carry no segment revenue, operating profit or PAT for any separated unit; SFIL's own PAT is absent too."
   }
  }
 }

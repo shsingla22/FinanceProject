@@ -1,0 +1,1122 @@
+
+=== page 1 ===
+ 
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +91 120 4592 301                                         T: 0124- 4627837                 CIN: L72100HR1992PLC128382                    
+ 
+July 28, 2026  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai –  400 001  
+BSE Scrip code – 532541  
+Equity ISIN INE591G01025 
+ The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Symbol  – COFORGE  
+ 
+Dear Sir/Ma’am,  
+ 
+Sub: Update on Investor Presentation  
+ In pursuant to the applicable provision of SEBI (Listing Obligations & Disclosure Requirements) 
+Regulations, 2015, please find enclosed update  of Investor  Presentation on the Financial Results of the 
+Company for the quarter ended June 30, 2026.  
+ You are requested to take note of the same.  
+ Thanking you.  
+Yours faithfully,  
+ For Coforge Limited  
+   
+Barkha  Sharma  
+Company Secretary & Compliance Officer  
+ 
+Encl: as above  
+=== page 2 ===
+Investor Presentation
+Q1 FY27
+Q U A R T E R L Y  R E P O R T
+J u l y  2 7 ,  2 0 2 6
+=== page 3 ===
+•To color fill 
+any shapes 
+including text 
+boxes, pick 
+any of the 
+below colors 
+using 
+“Eyedropper”.
+•© Coforge, 2025 •2Safe Harbor and Disclaimer
+F O R W A R D -L O O K I N G  S TAT E M E N T S
+This presentation  contains  forward -looking  statements . In some  cases,  you can identify  these  
+forward -looking  statements  by the use of words  such  as "outlook,"  "believes,"  "expects,"  
+"potential,"  "continues,"  "may,"  "will,"  "should,"  "could,"  "seeks,"  "predicts,"  "intends,"  "trends,"  
+"plans,"  "estimates,"  "anticipates"  or the negative  version  of these  words  or other  comparable  
+words . Among  other  things,  the outlook  for the full fiscal  year  2027 , the business  outlook  and 
+quotations  from  management  in this announcement,  as well as Coforge’s  strategic  and operational  
+plans,  contain  forward -looking  statements . Coforge  may  also make  written  or oral forward -looking  
+statements  in its periodic  reports  to regulators,  in its annual  report  to shareholders,  in press  
+releases  and other  written  materials  and in oral statements  made  by its officers,  directors  or 
+employees  to third  parties . Statements  that are not historical  facts,  including  statements  about  
+Coforge’s  beliefs  and expectations,  are forward -looking  statements . Forward -looking  statements  
+involve  inherent  risks  and uncertainties . A number  of factors  could  cause  actual  results  to differ  
+materially  from  those  contained  in any forward -looking  statement,  including  but not limited  to: the 
+performance  of Coforge’s  clients ; the successful  implementation  of its business  strategy ; its ability  
+to compete  effectively ; its ability  to maintain  its pricing,  control  costs  or continue  to grow  its 
+business ; the continued  service  of certain  of its key employees  and management ; its ability  to 
+attract  and retain  enough  highly  trained  employees ; and its involvement  in any disputes,  legal,  
+regulatory,  and other  proceedings  arising  out of its business  operations . All information  provided  in 
+this presentation  is as of the date  of this presentation,  and Coforge  undertakes  no obligation  to 
+update  any forward -looking  statement,  except  as required  under  applicable  law.D I S C L A I M E R
+This communication  and the information  contained  herein  is not an offer  to sell securities  in 
+the United  States  or elsewhere . The securities  of Coforge  or any of its subsidiaries  and affiliates  
+may  not be offered  or sold in the United  States  or to, or for the account  or benefit  of U.S. 
+persons  (as defined  in Regulation  S under  the U.S. Securities  Act of 1933 , as amended)  absent  
+registration  pursuant  to the Securities  Act, or an exemption  from  registration . Any public  
+offering  of securities  to be made  in the United  States  will be made  by means  of a prospectus  
+that may  be obtained  from  the issuer  or selling  security  holder  and that will contain  detailed  
+information  about  the issuer  and management,  as well as financial  statements . A Registration  
+Statement  on Form  F-1 relating  to certain  securities  of Coforge  has been  filed  with  the U.S. 
+Securities  and Exchange  Commission  but has not yet become  effective . Such  securities  may  
+not be sold nor may  offers  to buy be accepted  prior  to the time  the registration  statement  
+becomes  effective  under  the Securities  Act.
+C O N V E N T I O N S  U S E D
+Except  as otherwise  noted,  the following  conventions  have  been  used . All references  to "YoY"  
+are comparisons  between  the first quarter  of fiscal  year  ended  Mar 31, 2027  ("Q1 FY27") and 
+the first quarter  of fiscal  year  ended  Mar 31, 2026 ("Q1 FY26"). All references  to "QoQ"  are 
+comparisons  between  the first quarter  of the fiscal  year  ended  Mar 31, 2027  ("Q1 FY27") and 
+the fourth  quarter  of fiscal  year  ended  Mar 31, 2026  ("Q4 FY26").
+=== page 4 ===
+3 Mar26_Coforge AI strategy_Mast ...
+Q1 FY27 — A New Chapter of Scale and Profitability
+R e ve n u e
+$592.2  Mn
++33.3% YoY  /  + 21.1% 
+QoQ
+Organic CC growth 
+excluding exited 
+businesses: 5.2% QoQE B I T  M a r g i n
+16.0%
++414 bps YoY
+Organic EBIT 
+Margin: 16.7%; 
++486bps YoYE B I T
+$94.5 Mn
++80.0% YoY; + 16.7% 
+QoQ
+PAT
+$55.6 Mn
++45.9% YoYEPS
+₹12.34
++67.3% YoYFCF
+$52.9 Mn
+FCF/PAT 95. 3% in 
+Q1FY27  vs -56.5% 
+in Q1FY26
+7Note: Unless otherwise specified, all Q1 FY27 metrics include two months of contribution from Encora following consolidation effect ive 1 May 2026.Highlights
+Revenue reached US$592.2 million, 
+including US$100.7 million from two 
+months of Encora, with organic CC 
+growth of 5.2% QoQ excluding exited 
+businesses.
+Combined EBIT margin reached 
+16.0%, ahead of the 15.5% FY27 
+guidance, with organic EBIT margin at 
+16.7%.
+Profitability grew materially ahead of 
+revenue, with EBIT increasing 80.0% 
+YoY, PAT 45.9% and EPS 67.3%, 
+while FCF remained healthy at 95.3% 
+of PAT
+=== page 5 ===
+4 Mar26_Coforge AI strategy_Mast ...
+Revenue Mix & Delivery Profile
+Vertical, horizontal, and geography and location -mix view — Q1 FY27
+38Location Mix (IT Revenues Only)By Vertical By Service Offering By Geography
+52.3% 52.3% 52.8% 52.4% 51.0%47.7% 47.7% 47.2% 47.6% 49.0%
+Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q1FY27Onsite24.7%
+13.6%
+21.3%17.3%6.0%17.1%
+Banking and Financial Services
+Insurance
+Travel, Transportation and HospitalityHealthcare & HiTech
+Government Overseas
+Others50.4%
+7.0%20.9%14.8%7.0%
+AI-led Engineering
+Intelligent Automation
+Data and IntegrationCloud
+Business Process Management (BPM)61.8%27.0%11.2%
+Americas EMEA Rest of World
+Note: Unless otherwise specified, all Q1 FY27 metrics include two months of contribution from Encora following consolidation effect ive 1 May 2026.Offshore
+=== page 6 ===
+5 Mar26_Coforge AI strategy_Mast ...
+40OVERALL ORGANIC PERFORM ANCE
+1.1%Organic CC growth 
+QoQ 5.2%Organic CC growth QoQ
+excluding exited businesses*Ahead of broadly flat
+revenue guidance
+VERTICAL PERFORMANCE
+Organic CC growth QoQ
+Healthcare & Hi -Tech 11.6%
+Insurance 4.6%
+Banking & Financial Services 2.9%
+Travel, Transportation & 
+Hospitality1.7%
+Others* -8.0%
+* Planned discontinuation of a US$15 million low -margin India Government portfolio and a US$4 million revenue impact from the d ivestment of a data -center asset during the quarter
+Note: Unless otherwise specified, all Q1 FY27 metrics include two months of contribution from Encora following consolidation effect ive 1 May 2026.Q1 FY27 Organic Performance
+Organic CC growth QoQ
+EMEA 8.40%
+Americas 3.50%
+Others* -22.0%GEOGRAPHY PERFORMANCE
+=== page 7 ===
+6 Mar26_Coforge AI strategy_Mast ...
+Order Intake, Pipeline & Client Quality
+Q1 FY27 fresh intake $ 691M; executable book $ 2,228 M
+$691M
+Q1FY27Fresh Intake
+vs Q4FY26 $648M; Up 6.5 % QoQ$2,228 M
+Executable Book
+YoY Up 44.2 %52.7%
+Americas Share (Q 1FY27 )
+Geographic diversification
+364
+260
+67272
+140
+95
+Americas EMEA Rest of WorldOrder Intake by Geography ($ Mn)
+Q1FY27 ($M) Q1FY26 ($M)Highlights
+Q1FY27fresh intake $6 91M led by Americas
+EMEA $ 260M vs $1 56M last quarter
+12-month executable book at$2,228 M
+Top 5 clients contributes 18.0% of Q1 revenue. Top 5 
+accounts grew by 16.4% YoY .
+Repeat -business ratio steady at 95.7%
+39Top 10 clients contributes 26.1% of Q1 revenue. Top 10 
+clients grew by 18.7% YoY.
+Note: Unless otherwise specified, all Q1 FY27 metrics include two months of contribution from Encora following consolidation effect ive 1 May 2026.
+=== page 8 ===
+7 Mar26_Coforge AI strategy_Mast ...
+Other Key Metrics
+4046,228
+Total Headcount10.4%
+Attrition (LTM, ex -BPS)
+Lowest in the industry82.5%
+Utilization (incl. trainees)$70.6K
+Revenue per headcount / IT Billable
+Annual basis
+Headcount Composition
+By role mix, Q1FY27 vs Q4FY26 (Billable + Support)
+Q1FY27 34,061 9,360 46,228
+Q4FY26 25,062 8,581 35,777
+IT Billable BPS Billable
+S&M G&A / Other
+Net adds YoY
++10,451
+IT Billable Δ
++8,999BPS Billable Δ
++77952
+42 4029
+232114
+993
+321
+1
+280
+Q1 FY27167
+Q1 FY26
+> 100 Mn 50-100 Mn 20-50 Mn 10-20 Mn 5-10 Mn 1-5 MnMillion $ Accounts
+Q4 FY26167 170
+Note: Unless otherwise specified, all Q1 FY27 metrics include two months of contribution from Encora following consolidation effect ive 1 May 2026.379
+245
+242
+Organic Addition QoQ
++1,195687 2,120
+577 1,557
+=== page 9 ===
+8 Mar26_Coforge AI strategy_Mast ...
+Repayment Schedule of $550mn debt
+404.8 6.5 6.4 5.9 5.7 5.1 4.5 3.8 3.1 1.6 1.9 1.1 0.510.025.0 25.055.0 55.0 55.0 55.065.0 65.0 65.075.0
+4.86.516.430.9 30.760.1 59.5 58.8 58.166.6 66.9 66.175.5
+Q1FY27 Q2FY27 Q3FY27 Q4FY27 Q1FY28 Q2FY28 Q3FY28 Q4FY28 Q1FY29 Q2FY29 Q3FY29 Q4FY29 Q1FY30
+Interest Payment Principal RepaymentUS $
+CurrencyUS$ 550mn
+Principal4.60% p.a.
+Interest (pre -tax)3 Years
+Tenure
+(US$ mn)
+=== page 10 ===
+9 Mar26_Coforge AI strategy_Mast ...
+Encora Acquisition – Purchase Price Allocation 
+40Description INR Mn USD Mn Remarks
+Consideration paid via share swap 114,488 1,220 Share swap at acquisition -date fair value of ₹1,220.60 per share
+Consideration paid via equity infusion 25,327 270
+Total Purchase Consideration (A) 139,815 1,490
+Net assets acquired (11,467) (124) Book value of net assets, excl. goodwill & intangible assets
+Liabilities per due -diligence report (3,377) (36) Interest on outstanding receivables & advances (TP issue); transfer pricing margins
+Customer relationships (intangible) 45,026 480 Amortised over 12 years; based on projected cash flows from existing customer relationships
+Deferred tax liability on intangibles (11,257) (120) DTL on intangibles @ 25% (global ETR)
+Total identified net assets (B) 18,925 200
+Goodwill (A – B) 120,890 1,290Total Purchase Consideration (A)
+$1,490 Mn
+₹139,815 MnTotal Identified Net Assets (B)
+$200 Mn
+₹18,925  MnGoodwill (A – B)
+$1,290  Mn
+₹120,890  Mn– =
+
+=== page 11 ===
+Compounding Growth and 
+expanding margins with AI
+=== page 12 ===
+2|  © Coforge, 2026  | Confidential
+2|  © Coforge, 2026  | Confidential
+AI is fundamentally redefining the tech services industry at an 
+unprecedented pace 
+ —
+six key themes are shaping the next revolution
+Enterprise AI spends are 
+increasing non
+ -
+linearly
+Buyer mindset shifts from 
+headcount to 
+ RoI
+Talent mix evolves 
+ – 
+FDEs, 
+AI specialists critical
+Partnerships (with 
+frontier models, hyper
+ -
+scalers) are essential
+Commercial & delivery 
+models evolve  (hybrid 
+pods, outcome/ 
+subscription based  
+pricing)
+New competitive moats 
+emerge (e.g., hybrid 
+talent, deep AI 
+engineering capabilities)
+1
+ 2
+ 3
+4
+ 5
+ 6
+Six forces 
+redefining 
+tech 
+services 
+=== page 13 ===
+3|  © Coforge, 2026  | Confidential
+3|  © Coforge, 2026  | Confidential
+We believe the AI
+ -
+led opportunity for Coforge will be spread across 
+multiple services lines 
+ – 
+including both existing and new value pools
+Digital product engineering
+AI enablement of applications, driven by enterprise demand to 
+modernize systems to be AI
+ -
+native
+Data and analytics
+Data engineering incl. ETL and data preparation, driven by 
+demand for AI
+ -
+ready data foundations and architectures
+Cloud modernization
+AI
+-
+ready infra, driven by enterprise need for scalable compute, 
+model hosting, and MLOps capabilities
+Security
+Cybersecurity and AI risk mgmt., driven by the need to secure, 
+govern, and manage AI adoption across the enterprise
+Data labeling
+Data annotation services, driven by the need for 
+high
+ -
+quality labeled datasets to train and fine
+ -
+tune AI models
+Model development and deployment
+AI model lifecycle management, driven by growing 
+adoption of AI models across business functions
+Development of custom agentic solutions 
+Workflow
+ -
+embedded agents, driven by rapidly 
+rising demand for business process automation
+Advisory services
+AI strategy services, driven by enterprises seeking 
+support to accelerate AI adoption and value 
+realization
+AI tailwinds in existing services
+ 1
+ AI
+-
+driven new services
+ 2
+a.
+b.
+c.
+d.
+a.
+b.
+c.
+d.
+=== page 14 ===
+4|  © Coforge, 2026  | Confidential
+4|  © Coforge, 2026  | Confidential
+At Coforge, we have reimagined every dimension of our business to 
+win in this next phase of AI
+ -
+led growth
+AI platform and pre
+ -
+built verticalized solutions
+Coforge’s  
+AI strategy
+Our AI Operationalization Platform:  
+Coforge 
+ Nuuron
+An integrated  AI platform that unifies enterprise data, context, decision intelligence
+ 
+and AI agents to enable enterprise autonomy with built
+ -
+in trust and control
+Sales, marketing and partnerships
+Delivery and commercial models, talent and organization
+Curated pre
+ -
+built verticalized solutions
+Nexa, 
+ Aeronova
+ , TravelCore.AI, Voyager.AI, Acumen, Lexicon, 
+AxiomLend
+ , Praxis AI
+Developed AI partnerships
+Invested in sales enablement
+ Materially boosted analyst recognitions
+Restructured org
+for AI
+Invested in internal 
+AI adoption
+Developed AI talent 
+pool
+Deployed 
+ ModSquad  
+AI delivery, 
+commercial models 
+Developed AI
+ -
+led large deal archetypes
+1
+ 2
+4
+9
+ 10
+Sharpened AI marketing
+Created AI
+ -
+linked 
+career tracks
+Developed proactive AI proposals
+ 3
+ 5
+7
+ 6
+ 8
+11
+ 12
+ 13
+=== page 15 ===
+5|  © Coforge, 2026  | Confidential
+5|  © Coforge, 2026  | Confidential
+We are built for agility, and are well
+ -
+positioned to ride each wave of the 
+agentic AI evolution 
+NEAR
+ -
+TERM
+ MEDIUM
+ -
+TERM
+ LONG
+ -
+TERM
+EVOLUTION OF AGENTIC AI
+Modernization surge
+Enterprises racing to 
+ upgrade  
+legacy infrastructure 
+ ahead of AI 
+adoption
+Agentic deployment
+ 
+Structural, permanent need for 
+ AI
+-
+layer integration, 
+re
+-
+architecture & maintenance
+ , 
+not just project
+ -
+based
+Autonomous enterprise
+Enterprises shifting to 
+ lights
+ -
+out 
+agentic factories 
+ and 
+ self
+-
+driving 
+codebases 
+ - 
+where AI agents run 
+end
+-
+to
+-
+end workflows 
+Experience of 50+ scaled 
+transformations 
+ backed by 
+ deep 
+vertical experience
+ , strong 
+ AI 
+solutions 
+ purpose
+ -
+built to 
+accelerate modernization
+Robust foundation platform 
+ with 
+enterprise
+ -
+grade features 
+(governance, observability), 60+ 
+pre
+-
+built verticalized agents
+ , and 
+domain
+ -
+grounded 
+ knowledge 
+graphs
+No bloated delivery pyramid to 
+unwind 
+ as opposed to incumbents 
+paying for talent they cannot 
+redeploy
+COFORGE’S EDGE
+=== page 16 ===
+Coforge 
+ Nuuron
+Operationalizing the Autonomous Enterprise
+=== page 17 ===
+7|  © Coforge, 2026  | Confidential
+7|  © Coforge, 2026  | Confidential
+Operationalizing The Autonomous Enterprise: The Category We Will Lead
+The winners of the next decade won’t be those with the most AI pilots
+ , 
+they’ll be those that reach full autonomy, fastest.
+The Challenge
+The hard problem is no longer creating 
+intelligence
+ , 
+it’s operationalizing it, across 
+every decision and workflow.
+The Bet: 
+ Operationalizing 
+Autonomous Enterprise
+An operating model where decisions run 
+continuously and autonomously at scale
+ , 
+with trust, compliance and control intact.
+Why We Can Lead
+Coforge 
+ Nuuron  
+- 
+Our Operating System 
+for an Autonomous Enterprise, our 
+Industry Focused Execution team (FDEs & 
+ModSquad
+ ), and our Outcome Acceleration 
+Framework.
+Four connected capabilities power every level of autonomy
+Data Flow · Enterprise Context · Decision Intelligence · Autonomous Actions
+ , 
+under Trust & Control throughout.
+=== page 18 ===
+8|  © Coforge, 2026  | Confidential
+8|  © Coforge, 2026  | Confidential
+Nuuron  
+– 
+Coforge’s  
+AI Operationalization Platform
+01
+DATA FLOW
+Unified, real
+ -
+time data drawn from 
+wherever it already lives
+02
+ENTERPRISE CONTEXT
+Business context, ontology and the 
+knowledge graph agents reason 
+over
+03
+DECISION INTELLIGENCE
+Models that decide and 
+recommend, trained on the 
+enterprise’s own history
+04
+AUTONOMOUS ACTIONS
+Agents execute and coordinate the 
+work, end to end
+TRUST & CONTROL
+Governance, safety and oversight running as a current beneath every stage
+Coforge 
+ Nuuron  
+is designed to deliver enterprise outcomes by orchestrating knowledge, decision intelligence, AI 
+agents, and execution systems into a unified autonomous operating model
+=== page 19 ===
+9|  © Coforge, 2026  | Confidential
+9|  © Coforge, 2026  | Confidential
+Archetypes, FDEs, Outcomes 
+ - 
+All Running on Coforge 
+ Nuuron
+O
+utcomes  
+enabled 
+ : 
+higher revenue; margin improvement, 
+ faster delivery, better 
+ customer 
+ service
+ , ….
+How We Sell
+Two archetype categories: Revenue 
+Acceleration (CFO/CMO/CRO) and Efficiency 
+Optimization (COO/CIO/CTO).
+How We Build
+Forward Deployed Engineers configure 
+Nuuron to each client; proven archetypes 
+then scale through dedicated ModSquads.
+How We Price
+A platform fee plus a share of value 
+delivered, under a formal EULA
+ , priced by 
+outcome 
+ every archetype owned and run 
+like a product.
+One platform. One delivery engine. Two archetype categories.
+Every investment must move a client up the autonomy curve
+ , 
+or it doesn’t belong in our AI GTM strategy.
+=== page 20 ===
+10|  © Coforge, 2026  | Confidential10|  © Coforge, 2026  | Confidential
+The First Set of Solution Archetypes that we are leading with has been 
+rolled out
+REVENUE ACCELERATION
+ EFFICIENCY OPTIMIZATION
+Grow revenue through autonomous, real
+ -
+time decisions.
+ Reinvent how the enterprise runs 
+ —
+process, tech and people.
+Revenue Leakage Guardian
+Agents watch and recover what would otherwise be lost
+Pricing & Yield Optimizer
+Consistent, optimized pricing and yield decisions
+Customer Lifetime Value Engine
+Retention, expansion and cross
+ -
+sell, autonomously
+Distribution & Channel Optimizer
+Channel allocation, incentives and performance
+AI Enterprise Operations
+Finance, HR, procurement and shared services
+AI Technology Operations Utility
+Digital workplace, infrastructure, network, service desk
+AI Engineering Studio
+Software engineering as a service
+Autonomous Enterprise
+End
+-
+to
+-
+end operating model powered by agentic AI
+Enterprise Reinvention & Legacy Modernization
+Reinvent how the whole enterprise runs; modernize the core
+BUYER   CFO • CMO • CRO
+ BUYER   COO • CIO • CTO
+Both run on  
+Coforge
+ Nuuron
+ · built & deployed by Forward Deployed Engineers · priced for outcomes
+=== page 21 ===
+11|  © Coforge, 2026  | Confidential11|  © Coforge, 2026  | Confidential
+The Mod Squad (Human
+ -
+Agent Pods) Coforge construct has been 
+operationalized
+40+
+Accounts in structured
+Mod Squad rollout
+50+
+Programs with active
+30
+-
+60
+-
+90 days transition plans
+150+
+Agents live or in build
+across client stacks
+22
+–
+50%
+Measured productivity gains
+by SDLC stage (actuals)
+Current Adoption funnel
+Where our accounts sit on the journey
+Assessing / transitioning
+to AI
+ -
+assisted
+ ~18
+Agents in build, client
+workshops underway
+ ~15
+Agents live in
+production delivery
+ ~25
+Priced at agent level
+(commercial construct)
+ 4
+Commercial validation
+First proposals priced at agent level (in negotiation)
+Specialty insurer
+QA Mod Squad, agent
+ -
+level 
+pricing, 30% agentic workforce
+34% cost saving
+$4.4M → 
+$2.9M
+P&C insurer
+7
+-
+member pod, 9
+ -
+month phased 
+transition
+30% agentic 
+workforce
+at steady state
+Retail account
+API QE Mod Squad 
+ — 
+6 FTE + 5 
+agents
+20% price reduction
+vs incumbent baseline
+Retail account
+eCommerce QE Mod Squad 
+ — 
+12 
+FTE + 8 agents
+35% sprint velocity
+increase
+Proof in production
+Measured productivity in delivery today (actuals)
+Client 1
+Squad restructured 5 
+ devs  → 
+4 
+devs  
++ 1 agent
+22% productivity
+Agent ~$3K/
+ mo 
+vs ~$19K/
+ mo 
+dev
+-
+equivalent
+Client 
+ 2
+Test
+ -
+design agents released to 
+claims adjusters via DevOps pipeline
+50% productivity
+Test
+ -
+design cycle in 
+production
+Client 
+ 3
+Incident
+ -
+diagnosis agents on 
+AWS telemetry stack
+80%+ diagnosis accuracy
+150 
+hrs
+/
+mo 
+saved
+Client 
+ 4
+Java migration engine, upgrade 
+paths Java 8 → 
+11 → 
+17 → 
+21
+Days → 
+hours
+Upgrade cycle time
+=== page 22 ===
+12|  © Coforge, 2026  | Confidential
+12|  © Coforge, 2026  | Confidential
+We are realizing real business outcomes, with AI acting as a lever for 
+both revenue growth and margin expansion
+AI is acting as a lever 
+for revenue 
+acceleration
+AI is delivering 
+measurable productivity
+ -
+led margin uptick
+1
+ 2
+
+=== page 23 ===
+13|  © Coforge, 2026  | Confidential
+13|  © Coforge, 2026  | Confidential
+We are already seeing results of this meaningful momentum we have achieved 
+on AI, across multiple marquee client engagements and analyst recognitions 
+The market is taking notice. 25+ AI recognitions, including 7 “Leader” recognitions
+Leader in AI 
+services
+Innovator using AI
+AI
+-
+first services 
+firm
+Disruptor in AI 
+services
+Rising Star in AI 
+deployment
+Leader in AI 
+capabilities
+Shortlist of AI -First Service FirmsGenerative AI Services
+Gen AI services: Strategy and 
+Consulting & Development and 
+Deployment ServicesData and AI Services for Mid -
+market EnterprisesAI Capabilities: Cognitive & Self -
+Healing IT Infrastructure Management
+Generative Enterprise Services - 
+Innovation and Value Potential 
+using AI and GenAI
+=== page 24 ===
+The market is shifting. The characteristics of a winning firm are being redefined.
+Coforge is a clear winner in this market  – and we are proving it everyday.Coforge  is an AI -native 
+engineering services firm 
+
+=== page 25 ===
+Coforge Limited
+Consolidated Profit and Loss Statement
+June 30, 2026
+Particulars (INR Mn) Q1 FY27 Q4 FY26 QoQ% Q1FY26 YoY%
+Gross Revenues 55,277 44,504 24.2% 37,044 49.2%
+Direct People Cost 26,208 19,592 33.8% 17,266 51.8%
+Sub-contractor cost 5,921 5,017 18.0% 3,887 52.4%
+Other Direct Cost 4,214 4,595 -8.3% 3,302 27.6%
+Direct Costs 36,343 29,204 24.4% 24,455 48.6%
+Gross Profit 18,934 15,300 23.8% 12,590 50.4%
+GM% 34.3% 34.4% -13 Bps 34.0% 27 Bps
+Sales People Cost 3,331 2,630 26.7% 2,505 33.0%
+Marketing Cost 227 98 131.1% 117 94.7%
+Provision for Bad Debts 295 276 7.1% 40 635.8%
+Other S&M Cost 193 139 39.3% 137 41.5%
+Sales & Marketing 4,047 3,143 28.8% 2,799 44.6%
+G&A People Cost 1,977 1,527 29.5% 1,511 30.8%
+ESOPS 457 381 19.8% 593 -23.0%
+Other G&A Cost 1,220 1,081 12.9% 1,215 0.4%
+General & Administration 3,654 2,989 22.3% 3,319 10.1%
+Selling / General And Administration 7,701 6,132 25.6% 6,118 25.9%
+SG&A to Revenue % 13.9% 13.8% 15 Bps 16.5% -258 Bps
+EBITDA 11,233 9,168 22.5% 6,472 73.6%
+EBITDA% 20.3% 20.6% -28 Bps 17.5% 285 Bps
+Depreciation and Amortization 1,294 1,308 -1.1% 1,104 17.2%
+Amoritization of Intangibles (acquired assets) 1,117 492 127.0% 488 128.9%
+Acquisition related Expenses 0 0 NA 43 NA
+One Time Bonus 0 0 NA 458 NA
+EBIT 8,822 7,368 19.7% 4,380 101.4%
+EBIT% 16.0% 16.6% -60 Bps 11.8% 414 Bps
+Fx Gain/Loss (Net) -653 -403 62.1% -201 224.9%
+Net Interest Income/(Expense) -598 -179 234.1% -276 116.4%
+Profit Before Tax (Before exceptional items) 7,571 6,786 11.6% 3,902 94.0%
+PBT % (Before exceptional items) 13.7% 15.2% -155 Bps 10.5% 316 Bps
+Exceptional items* 550 536 2.6% 248 NA
+Profit Before Tax 7,021 6,250 12.3% 3,654 92.1%
+PBT % 12.7% 14.0% -134 Bps 9.9% 284 Bps
+Provision for Tax 1,704 -412 -513.6% 792 115.3%
+Minority Interest 131 539 -75.7% 390 -66.4%
+PAT (Continuing Business) 5,186 6,123 -15.3% 2,472 109.8%
+PAT% 9.4% 13.8% -438 Bps 6.7% 271 Bps
+Income from discontinued operations 0 0 NA 702 NA
+PAT 5,186 6,123 -15.3% 3,174 63.4%
+PAT% 9.4% 13.8% -438 Bps 8.6% 81 Bps
+Basic EPS (INR) - Continued operations 12.3 18.2 -32.3% 7.4 67.3%
+Basic EPS (INR) 12.3 18.2 -32.3% 9.5 30.3%
+ETR for the quarter is 25%
+
+=== page 26 ===
+Coforge Limited
+Consolidated Balance Sheet
+June 30, 2026
+(INR Mn)
+ParticularsAs at Jun 30 
+2026As at Mar 31 
+2026As at Jun 30 
+2025ParticularsAs at Jun 30 
+2026As at Mar 31 
+2026As at Jun 30 
+2025
+NET Worth 218,766 96,806 85,806 Fixed Assets 15,467 13,776 17,430
+Equity 885 672 669 Goodwill 163,729 41,671 41,048
+Reserves & Surplus 216,306 94,704 65,394 Intangible Assets related to acquired business 56,869 12,181 13,178
+Non Controlling Interest 1,575 1,430 19,743 Cash and Cash Equivalent 13,883 10,936 5,223
+Borrowings 53,803 3,997 7,426 Other Bank Balance 4,030 638 1,686
+Deferred Revenue 5,191 4,854 5,734 Debtors 40,979 32,927 24,409
+Deferred Tax Liability 9,627 353 2,251 Unbilled Revenue (Net) 20,969 14,156 9,099
+Future Acquisition Liability 2,518 3,247 3,423 Short Term 14,778 10,112 8,071
+Lease Liabilities 3,967 3,281 3,782 Long Term 10,654 8,477 4,923
+Employee Benefit Obligations 6,292 4,176 2,620 Liability related to unbilled revenue (4,463) (4,433) (3,895)
+Trade payables and Other Liabilities 35,241 25,286 16,290 Contract Cost (Net) 5,554 5,257 4,947
+Contract Cost 7,234 7,638 7,596
+Corresponding Liability (1,680) (2,381) (2,649)
+Deferred Tax Assets 8,394 6,870 5,997
+Other Assets 5,531 3,588 4,315
+335,405 142,000 127,332 335,405 142,000 127,332
+
+=== page 27 ===
+Coforge Limited
+Consolidated Balance Sheet
+June 30, 2026
+(USD Mn)
+ParticularsAs at Jun 30 
+2026As at Mar 31 
+2026As at Jun 30 
+2025ParticularsAs at Jun 30 
+2026As at Mar 31 
+2026As at Jun 30 
+2025
+NET Worth 2,311 1,032 1,000 Fixed Assets 163 147 203
+Equity 9 7 8 Goodwill 1,730 444 478
+Reserves & Surplus 2,285 1,009 762 Intangible Assets related to acquired business 601 130 154
+Non Controlling Interest 17 15 230 Cash and Cash Equivalent 147 117 61
+Borrowings 568 43 87 Other Bank Balance 43 7 20
+Deferred Revenue 55 52 67 Debtors 433 351 284
+Deferred Tax Liability 102 4 26 Unbilled Revenue (Net) 222 151 106
+Future Acquisition Liability 27 35 40 Short Term 156 108 94
+Lease Liabilities 42 35 44 Long Term 113 90 57
+Employee Benefit Obligation 66 45 31 Liability related to unbilled revenue (47) (47) (45)
+Trade payables and Other Liabilities 372 270 190 Contract Cost (Net) 59 56 58
+Contract Cost 76 81 89
+Corresponding Liability (18) (25) (31)
+Deferred Tax Assets 89 73 70
+Other Assets 58 38 50
+3,543 1,513 1,484 3,543 1,513 1,484
+
+=== page 28 ===
+Coforge Limited
+Consolidated Cash Flow Statement
+June 30, 2026
+(USD Mn)
+Particulars Q1FY27 Q4FY26 Q1FY26
+Operating Activities
+PBT 75.2 68.7 43.8
+Add: Depreciation / Amortization 25.5 19.7 19.1
+Other Non Cash Items 14.2 4.8 10.4
+(Increase) / Decrease in NWC (47.9) (18.2) (15.8)
+Tax (9.4) (11.9) (13.7)
+Total (17.6) (5.6) (0.0)
+OCF 57.6 63.1 43.8
+Investing Activities
+Capital Expenditure (Net) (4.6) 10.7 (65.3)
+Acquisition/Sale of Subsidiary (503.1) 0.0 (0.2)
+Proceed from sales of current investments 0.0 (0.2) 5.5
+Others 1.2 (1.9) 1.0
+Total (506.5) 8.6 (58.9)
+FCF 52.9 73.7 (21.5)
+Financing Activities
+Credit Line / Term Loan 498.9 (31.2) 5.7
+Purchase of additional stake in Subsidiaries (8.0) 0.0 -
+Interest (7.8) (2.8) (3.9)
+Dividends paid to shareholders / NCI holders (0.1) (14.7) (14.9)
+Lease payment (3.4) (3.2) (2.8)
+QIP Proceeds - - -
+Others - 0.0 (0.8)
+Total 479.7 (51.8) (16.7)
+Net Change in Cash 30.8 19.9 (31.8)
+Foreign exchange fluctuation (0.7) 2.9 0.9
+Opening Cash Balance 116.6 93.8 91.8
+Closing Cash Balance 146.7 116.6 60.9
+
+=== page 29 ===
+Coforge Limited
+Factsheet
+June 30, 2026
+Revenue and Revenue Growth Q1FY27 Q4FY26 Q1FY26
+Q-o-Q CC Revenue Growth 22.3% 2.0% 8.0%
+Revenue (USD Mn) 592.2 489.1 444.2
+Q-o-Q Growth 21.1% 1.7% 9.7%
+Y-o-Y Growth 33.3% 21.2% 55.1%
+Revenue (INR Mn) 55,277 44,504 37,044
+Q-o-Q Growth 24.2% 5.2% 8.2%
+Y-o-Y Growth 49.2% 30.0% 56.5%
+Hedge Gain/(Loss) - INR Mn (968) (743) (158)
+Profitability Q1FY27 Q4FY26 Q1FY26
+EBITDA Margin 20.3% 20.6% 17.5%
+Cash Flow Q1FY27 Q4FY26 Q1FY26
+OCF ($ Mn) 57.6 63.1 43.8
+FCF ($ Mn) 52.9 73.7 -21.5
+FCF / PAT % 95.3% 109.5% -56.5%
+Other Income Q1FY27 Q4FY26 Q1FY26
+Interest Income 99 54 59
+Discounting income on long term customer contracts 108 99 97
+Income from Mortgage Business 39 59 31
+Interest Income 246 212 187
+Interest Expense -650 -174 -251
+Lease discounting and Other expenses (Incl Bank charges) -194 -217 -211
+Interest Expense -844 -391 -462
+Net Other Income (598) (179) (275)
+Order Book (USD Mn) Q1FY27 Q4FY26 Q1FY26
+Fresh Order Intake 691 648 507
+Americas 364 437 272
+EMEA 260 156 140
+Rest of World 67 55 95
+Executable Order Book over Next 12 Months 2,228 1,752 1,545
+Vertical Q1FY27 Q4FY26 Q1FY26
+Banking and Financial Services (BFS) 24.7% 24.9% 27.7%
+Insurance 13.6% 14.8% 15.5%
+Travel, Transportation and Hospitality (TTH) 21.3% 23.4% 22.9%
+Healthcare & HiTech 17.3% 11.5% 10.9%
+Government outside India 6.0% 7.5% 7.2%
+Others(1)17.1% 17.9% 15.8%
+(1) Others primarily include Retail, Energy & Utilities and Manufacturing
+Horizontal Q1FY27 Q4FY26 Q1FY26
+AI-led Engineering 50.4% 45.1% 45.9%
+Intelligent Automation 7.0% 8.4% 8.4%
+Data and Integration 20.9% 20.9% 20.4%
+Cloud 14.8% 17.7% 17.9%
+Business Process Management (BPM) 7.0% 8.0% 7.5%
+Geography Q1FY27 Q4FY26 Q1FY26
+Americas 61.8% 56.7% 56.7%
+EMEA 27.0% 28.3% 29.8%
+Rest of World 11.2% 15.0% 13.5%
+Onsite vs. Offshore (IT Revenue Only) Q1FY27 Q4FY26 Q1FY26
+Onsite 49.0% 47.6% 47.7%
+Offshore 51.0% 52.4% 52.3%
+Project Type Q1FY27 Q4FY26 Q1FY26
+Fixed Price 43.0% 46.3% 46.7%
+Time & Materials 57.0% 53.7% 53.3%Financial Business Mix (% of Revenue)
+
+=== page 30 ===
+Coforge Limited
+Factsheet
+June 30, 2026
+Vertical Growth QoQ YoY
+Banking and Financial Services (BFS) 23.2% 48.0%
+Insurance 14.6% 37.6%
+Travel, Transportation and Hospitality (TTH) 12.9% 35.6%
+Healthcare & HiTech 86.0% 123.5%
+Government outside India -0.2% 19.9%
+Others(1)18.7% 42.7%
+(1) Others primarily include Retail, Energy & Utilities and Manufacturing
+Horizontal Growth QoQ YoY
+AI-led Engineering 38.9% 1.4%
+Intelligent Automation 3.4% 7.6%
+Data and Integration 24.1% -6.1%
+Cloud 3.9% -0.2%
+Business Process Management (BPM) 8.3% 2.0%
+Geography Growth QoQ YoY
+Americas 35.4% 35.4%
+EMEA 18.6% 12.5%
+Rest of World -7.5% 3.2%
+New Clients Added Q1FY27 Q4FY26 Q1FY26
+Americas 6 3 3
+EMEA - 1 2
+Rest of World 2 3 1
+Total 8 7 6
+Repeat Business % 95.7% 95.5% 94.5%
+Client Concentration (% of Revenue) Q1FY27 Q4FY26 Q1FY26
+Top 5 18.0% 21.8% 20.7%
+Top 10 26.1% 31.4% 29.3%
+No. of Clients (by Client Engagement Size) Q1FY27 Q4FY26 Q1FY26
+USD > 100 Mn 1 1 -
+USD 50-100 Mn 3 3 2
+USD 20-50 Mn 14 9 9
+USD 10-20 Mn 29 23 21
+USD 5-10 Mn 52 42 40
+USD 1-5 Mn 280 167 170
+379 245 242
+By Role Q1FY27 Q4FY26 Q1FY26
+Billable Personnel
+IT 34,061 25,062 24,097
+BPS 9,360 8,581 7,916
+Total Billable 43,421 33,643 32,013
+Sales and Marketing 687 577 594
+Others 2,120 1,557 1,580
+Grand Total 46,228 35,777 34,187
+Q1FY27 Q4FY26 Q1FY26
+IT Revenue per Billable Headcount ($ / Annnum) 70,557 71,795 67,907
+Utilization/Attrition (Excl BPS) Q1FY27 Q4FY26 Q1FY26
+Utilization (incl. Trainees) 82.5% 82.5% 82.1%
+Attrition Rate 10.4% 10.8% 11.3%
+No of Days Q1FY27 Q4FY26 Q1FY26
+Days Sales Outstanding (DSO) 63 69 64
+DSO Unbilled* 24 25 24
+DSO Contract Asset* 15 13 13
+Total 102 107 101
+* Net of corresponding liability
+INR / USD Rate Q1FY27 Q4FY26 Q1FY26
+Period Closing Rate 94.7 93.8 85.8
+Period Average Rate 93.3 91.1 85.6
+Hedge Position Q1FY27 Q4FY26 Q1FY26
+USD 226 317 301
+GBP 42 66 129
+Euro 3 4 8
+Average Rates for Outstanding Hedges as on: Q1FY27 Q4FY26 Q1FY26
+USD 90.9 90.1 86.8
+GBP 121.6 120.3 113.3
+Euro 108.0 106.3 96.1Other Data % Growth Client Data People Data
+=== page 31 ===
+End of Document

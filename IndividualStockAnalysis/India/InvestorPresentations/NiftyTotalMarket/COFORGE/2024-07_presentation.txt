@@ -1,0 +1,236 @@
+
+=== page 1 ===
+Investor Presentation  
+Q1FY25
+July 22, 2024
+=== page 2 ===
+© Coforge, 20242Safe Harbor and Disclaimer2
+Forward  Looking  Statements  Safe Harbor
+This presentation  contains  forward -looking  statements . In some  cases,  you can identify  these  forward -looking  statements  by the use of words  such as “outlook,”  “believes,”  
+“expects,”  “potential,”  “continues,”  “may,”  “will,”  “should,”  “could,”  “seeks,”  “predicts,”  “intends,”  “trends,”  “plans,”  “estimates,”  “anticipates”  or the negative  version  of these  
+words  or other comparable  words . Among  other things,  the outlook  for the full fiscal year 2025, the business  outlook  and quotations  from management  in this announcement,  
+as well as Coforge’s  strategic  and operational  plans,  contain  forward -looking  statements . Coforge  may also make  written  or oral forward -looking  statements  in its periodic  reports  
+to regulators,  in its annual  report  to shareholders,  in press releases  and other written  materials  and in oral statements  made  by its officers,  directors  or employees  to third 
+parties . Statements  that are not historical  facts,  including  statements  about  Coforge’s  beliefs  and expectations,  are forward -looking  statements . Forward -looking  statements  
+involve  inherent  risks and uncertainties . A number  of factors  could  cause  actual  results  to differ materially  from those  contained  in any forward -looking  statement,  including  but 
+not limited  to the following : the performance  of the Coforge's  clients ; the successful  implementation  of its business  strategy ; its ability  to compete  effectively ; its ability  to 
+maintain  its pricing,  control  costs or continue  to grow its business ; the effects  of the novel  coronavirus  (COVID -19) on its business ; the continued  service  of certain  of its key 
+employees  and management ; its ability  to attract  and retain  enough  highly  trained  employees ; and its involvement  in any disputes,  legal,  regulatory,  and other proceedings  
+arising  out of its business  operations . All information  provided  in this presentation  is as of the date of this presentation,  and Coforge  undertakes  no obligation  to update  any 
+forward -looking  statement,  except  as required  under  applicable  law.
+Disclaimer
+This communication  and the information  contained  herein  is not an offer to sell securities  in the United  States  or elsewhere . The securities  of Coforge  or any of its subsidiaries  
+and affiliates  may not be offered  or sold in the United  States  or to, or for the account  or benefit  of U.S. person  (as such term in defined  in Regulation  S under  the U.S. Securities  
+Act of 1933, as amended  (the “Securities  Act”))  absent  registration  pursuant  to the Securities  Act, or an exemption  from registration .  Any public  offering  of securities  to be 
+made  in the United  States  will be made  by means  of a prospectus  that may be obtained  from the issuer  or selling  security  holder  and that will contain  detailed  information  about  
+the issuer  and management,  as well as financial  statements . A Registration  Statement  on Form F-1 relating  to certain  securities  of Coforge  has been filed with the U.S. Securities  
+and Exchange  Commission  but has not yet become  effective . The Form F-1 Registration  Statement  and all subsequent  amendments  may be accessed  through  the SEC’s  website  
+at www.sec.gov.  Such securities  not be sold nor may offers  to buy be accepted  prior to the time the registration  statement  becomes  effective  under  the Securities  Act. Nothing  
+in this communication  shall constitute  an offer to sell or the solicitation  of an offer to buy securities  in any jurisdiction  in which  such offer or sale would  be unlawful .
+Conventions  Used  Herein
+Except  as otherwise  noted  in this presentation,  the following  conventions  have been used.  All references  to “Y-o-Y” are comparisons  between  the first quarter  of fiscal year 
+ended  March  31, 2025 (“Q1 FY2025”) and the first quarter  of fiscal year ended  March  31, 2024 (“Q1 FY2024”). All references  to “Q-on-Q” are comparison  between  the first 
+quarter  of the fiscal year ended  March  31, 2025 (“Q1 FY2025”) and the fourth  quarter  of fiscal year ended  March  31, 2024 (“Q4 FY2024”). 
+=== page 3 ===
+© Coforge, 20243Coforge Q1 revenue up 8.1% YoY 
+▪On consolidated basis, Q1FY25 revenues were up 1.6% QoQ 
+and 7.8% YoY on a constant currency basis. 
+▪Revenue for the quarter at INR 24,008 Mn & $291.4 
+Mn
+▪Up 1.8% in INR terms and 1.6% in USD terms QoQ 
+▪Up 8.1% in INR terms and 7.2% in USD terms YoY
+▪Adj. EBITDA Margin of 17.9%; up 20.9% YoY
+▪Consolidated Reported PAT for the quarter at INR 1,332 Mn
+▪Consolidated Normalized PAT for the quarter at INR 2,285 
+Mn, up 28.2% YoY.   ▪Robust total order intake of $314 Mn during the quarter
+▪Tenth consecutive quarter of $300+ Mn order intake
+▪Two large deals signed during the quarter
+▪Order book executable over next 12 months stood at $1,070 
+Mn at the end of the quarter, a 19.3% YoY growth
+▪10 new logos opened during the quarter
+▪IT Attrition (LTM) stood at 11.4%. Continues to be amongst 
+the lowest in the IT services industry
+▪Global headcount at 26,612 as of June 30, 2024. 
+▪Net addition of 1,886 people and up 7.6% sequentiallyFinancial Highlights Business Highlights
+
+=== page 4 ===
+© Coforge, 20244Revenue up 8.1% Y -o-Y; PAT* up 28.2% Y -o-Y in INR terms
+Revenue ($Mn) 1.6% QoQ        7.2% YoYRevenue (INR Mn)  1.8% QoQ     8.1% YoY
+Adj. EBITDA ($Mn)                  19.9% YoYAdj. EBITDA (INR Mn)              20.9% YoY
+PAT* ($Mn)    -2.3% QoQ      26.9% YoYPAT* ( INR Mn)    -2.1% QoQ       28.2% YoY
+16.0% 17.9%
+8.0%9.5%Margin % 19.0% 9.9%
+Note: Adj. EBITDA excl. ESOPs. 
+PAT* reflects Profit after Tax (after Minority interest and excluding one -time transaction expenses)22,21023,585 24,008
+Q1FY24 Q4FY24 Q1FY253,5454,4734,286
+Q1FY24 Q4FY24 Q1FY251,7822,334 2,285
+Q1FY24 Q4FY24 Q1FY25
+271.8286.8291.4
+Q1FY24 Q4FY24 Q1FY2543.454.452.0
+Q1FY24 Q4FY24 Q1FY25Margin %
+21.928.427.7
+Q1FY24 Q4FY24 Q1FY25
+=== page 5 ===
+© Coforge, 20245By Vertical
+Location Mix  (IT Revenues Only)
+31.8%
+21.4%18.1%7.8%21.0%
+Banking & Financial Services (BFS)
+Insurance
+Travel, Transportation & Hospitality (TTH)
+Government (Overseas)
+Others
+32.1%
+11.7%
+27.4%19.2%9.4%
+Engineering
+Intelligent Automation
+Data and Integration
+Cloud and Infrastructure Management (CIMS)
+Business Process Management (BPM)
+49.9%
+38.7%11.4%
+Americas
+EMEA
+Rest of WorldBy Service Offering By Geography
+49.0% 48.0% 47.8% 47.5% 48.0%51.0% 52.0% 52.2% 52.5% 52.0%
+Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25Onsite
+OffshoreQ1 FY25 Revenues MixWell Diversified Business Portfolio with Increasing Offshoring 
+Revenues
+=== page 6 ===
+© Coforge, 20246Very Significant Business Momentum Driving Robust 
+Growth
+FRESH ORDER INTAKE TCV ($ MN)
+$457 $507$646$748 $781$1,151$1,265$1,973$1,755
+FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 Q1FY25*FRESH ORDER INTAKE TCV ($ MN)
+10FRESH ORDER INTAKE TCV ($ MN)
+15 31 40 41 45 47New 
+Clients 
+Added
+ 44
+*Q1FY24 TTM intake44
+=== page 7 ===
+© Coforge, 20247High Degree of Visibility Through Contracted Revenues and Repeat 
+Business
+ORDER BOOK EXECUTABLE OVER NEXT 12 MONTHS ($MN)  
+$897$1,07096% 97%
+0%10%20%30%40%50%60%70%80%90%100%
+$0$200$400$600$800$1,000$1,200
+Q1FY24 Q1FY25$320 $339$390$468$520$720$869$1,07091%89% 90% 89% 89%93% 92% 92%
+0%10%20%30%40%50%60%70%80%90%100%
+$0$200$400$600$800$1,000$1,200
+FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24
+Repeat Business %ORDER BOOK EXECUTABLE OVER NEXT 12 MONTHS ($MN)  
+=== page 8 ===
+© Coforge, 20248Clients by Size
+8 7 8 11 1118 21 24 23 10 131615 16192324 255560668088100101114118
+738090106115137145
+>$10 Mn $5 - $10 Mn $1 - $5 Mn32.8%30.4%28.3% 27.9%
+24.3%22.9% 23.2% 23.5%21.0%45.3%
+42.4%
+39.0% 38.3%
+34.4%34.0%35.5% 34.5%
+32.9%
+Top 10 Top 5De-Risked Operating Profile with Declining Client Concentration 
+While Increasing Large Account Relationships
+Top Clients Revenue Contribution 166160
+=== page 9 ===
+© Coforge, 20249Best -in-Industry Attrition Levels Testament to Coforge Culture
+Total Global Headcount LTM Attrition %  (Excl. BPS)
+13.3% 13.0%12.1%11.5% 11.4%
+Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY2522,762 23,131 23,107 23,24325,037363 360 368 388442
+1,0991,147 1,132 1,0951,133
+Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY2524,22424,638 24,607 24,72626,612
+Billable (IT+BPS) Sales & Marketing Others
+=== page 10 ===
+© Coforge, 2024 10Key Tenets of Coforge Growth Strategy
+•FY24 total revenue at $ 1119 million, grew 13.3% YoY in CC terms
+•Q1FY25 revenue growth of 1.6% QoQ and 7.8% YoY in constant currency 
+(CC)Robust
+•FY24 Adj. EBITDA margin of 17.6%
+•Q1FY25 Adj. EBITDA margin of 17.9%Profitable
+•Strong executable order book for next 12 months ($1,070 Mn as of Jun 
+30, 2024)
+•High degree of repeat business ( 96.5% in Q1FY25)Predictable
+•FY24 order intake of $1.97 billion, including 11 large deals
+•61+ Forbes Global 1000 clientsSustainable
+=== page 11 ===
+© Coforge, 2024 11Appendix
+=== page 12 ===
+© Coforge, 2024 12Consolidated Income Statement – Q1FY25 (USD Mn)
+USD Mn Ratios as a %age of Revenue
+Particulars Q1 FY25 Q4 FY24 QoQ% Q1FY24 YoY% Q1 FY25 Q4 FY24 Q1FY24
+Reported Reported Reported Reported Reported
+Gross Revenues 291.4 286.8 1.6% 271.8 7.2%
+Gross Profit 96.0 97.7 -1.7% 83.3 15.2% 33.0% 34.1% 30.7%
+SG&A Expenses 44.0 43.3 1.6% 39.9 10.2% 15.1% 15.1% 14.7%
+Adj EBITDA 52.0 54.4 -4.4% 43.4 19.9% 17.9% 19.0% 16.0%
+Cost of ESOPS 2.4 2.7 -10.7% 2.6 -8.7% 0.8% 0.9% 1.0%
+EBITDA 49.6 51.7 -4.0% 40.6 22.2% 17.0% 18.0% 14.9%
+Depreciation and Amortization 9.9 10.3 -3.9% 9.2 7.2% 3.4% 3.6% 3.4%
+Other Income (net) -3.3 -5.5 -39.9% -1.9 78.2% -1.1% -1.9% -0.7%
+PBT (excl. Transaction related expenses) 36.4 35.9 1.4% 29.5 23.4% 12.5% 12.5% 10.9%
+Transaction Related expenses 11.6 1.2 887.1% 0.0 NA 4.0% 0.4% 0.0%
+$1 Bn Milestone celebration cost 0.0 0.0 NA 2.0 NA 0.0% 0.0% 0.7%
+Profit Before Tax 24.8 34.7 -28.5% 27.5 -9.6% 8.5% 12.1% 10.1%
+Provision for Tax 7.9 6.9 15.7% 5.9 33.7% 2.7% 2.4% 2.2%
+Minority Interest 0.7 0.7 10.3% 1.3 -41.8% 0.3% 0.2% 0.5%
+Profit After Tax 16.2 27.2 -40.6% 20.3 -20.6% 5.5% 9.5% 7.5%
+Adj. Profit After Tax* 27.7 28.4 -2.3% 21.9 26.9% 9.5% 9.9% 8.0%
+Basic EPS (INR) 20.9 36.2 -42.2% 27.0 -22.6%
+Adj Basic EPS (INR)* 35.9 38.1 -5.9% 29.2 23.1%
+* Adjusted for Transaction Related Exp
+=== page 13 ===
+© Coforge, 2024 13Consolidated Income Statement – Q1FY25 (INR Mn)
+INR Mn Ratios as a %age of Revenue
+ParticularsQ1 FY25 Q4 FY24 QoQ% Q1FY24 YoY% Q1 FY25 Q4 FY24 Q1FY24
+Reported Reported Reported Reported Reported
+Gross Revenues 24,008 23,585 1.8% 22,210 8.1%
+Gross Profit 7,911 8,034 -1.5% 6,808 16.2% 33.0% 34.1% 30.7%
+Selling / General And Administration 3,625 3,561 1.8% 3,264 11.1% 15.1% 15.1% 14.7%
+Adj. EBITDA 4,286 4,473 -4.2% 3,545 20.9% 17.9% 19.0% 16.0%
+Cost of ESOPS 199 222 -10.5% 216 -8.0% 0.8% 0.9% 1.0%
+EBITDA 4,087 4,251 -3.8% 3,316 23.3% 17.0% 18.0% 14.9%
+Depreciation and Amortization 815 846 -3.7% 757 7.7% 3.4% 3.6% 3.4%
+Other Income (net) -272 -452 -39.8% -152 78.9% -1.1% -1.9% -0.7%
+PBT (excl. Transaction related expenses) 3,000 2,953 1.6% 2,407 24.7% 12.5% 12.5% 10.8%
+Transaction Related expenses 953 96 889.0% 0 NA 4.0% 0.4% 0.0%
+$1 Bn Milestone celebration cost 0 NA 165 -100.0% 0.0% 0.0% 0.7%
+Profit Before Tax 2,047 2,856 -28.3% 2,242 -8.7% 8.5% 12.1% 10.1%
+Provision for Tax 654 564 16.0% 485 34.8% 2.7% 2.4% 2.2%
+Minority Interest 61 55 10.5% 104 -41.3% 0.3% 0.2% 0.5%
+Profit After Tax 1,332 2,237 -40.5% 1,653 -19.4% 5.5% 9.5% 7.4%
+Adj. Profit After Tax* 2,285 2,334 -2.1% 1,782 28.2% 9.5% 9.9% 8.0%
+Basic EPS (INR) 20.9 36.2 -42.2% 27.0 -22.6%
+Adj Basic EPS (INR)* 35.9 38.1 -5.9% 29.2 23.1%
+* Adjusted for Transaction Related Exp
+=== page 14 ===
+© Coforge, 2024 14Other Key Metrics
+Rupee 
+Dollar 
+RateQ1FY25 Q4FY24 Q1FY24
+Period Closing Rate 83.37 83.37 82.10
+Period Average Rate 83.42 83.05 82.15DSOQ1FY25 Q4FY24 Q1FY24
+59 57 61
+Hedge 
+Position 
+(in Million)Q1FY25 Q4FY24 Q1FY24
+USD 212.2 203.4 218.34
+GBP 102.4 98.4 89.03
+EUR 8.9 8.6 8.50Average 
+Rates 
+Outstandin
+g HedgesQ1FY25 Q4FY24 Q1FY24
+USD 84.3 84.06 83.31
+GBP 106.2 105.78 101.80
+EUR 92.5 92.57 89.79
+=== page 15 ===
+Icon
+Description automatically generated
+Icon
+Description automatically generated
+A white circle with a black background
+Description automatically generated with low confidence
+Logo, icon
+Description automatically generated
+© Coforge, 2024 15Let’s engage!
