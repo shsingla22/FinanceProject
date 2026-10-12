@@ -299,7 +299,7 @@ def segment_excerpts(symbol: str, names: list[str], cap: int = 110_000) -> list[
             continue
         pages = pages_of(path.read_text(errors="replace"))
         by_page = dict(pages)
-        picked = set()
+        scores: dict[int, int] = {}
         for page, txt in pages:
             nums = len(re.findall(r"\d[\d,]{2,}", txt))
             segs = len(seg_rx.findall(txt))
@@ -307,14 +307,15 @@ def segment_excerpts(symbol: str, names: list[str], cap: int = 110_000) -> list[
             if segs and (named or nums >= 25):
                 # a segment TABLE is dense with numbers; prose pages are not.
                 # The segment-reporting note itself (all segments, no brand
-                # name) is always wanted — the judge picks the column — and
-                # its tables run onto the next page, so that page comes too.
-                score = nums + 20 * segs + (15 if named else 0)
-                for pg, bonus in ((page, 0), (page + 1, -5)):
-                    if pg in by_page and pg not in picked:
-                        picked.add(pg)
-                        cands.append((score + bonus, label, url, pg,
-                                      re.sub(r"[ \t]+", " ", by_page[pg]).strip()[:AR_PAGE_CHARS]))
+                # name) is always wanted — the judge picks the column.
+                scores[page] = nums + 20 * segs + (15 if named else 0)
+        # a note's tables run onto the next page, so that page comes too
+        for page, score in list(scores.items()):
+            if page + 1 in by_page and page + 1 not in scores:
+                scores[page + 1] = score - 5
+        for pg, score in scores.items():
+            cands.append((score, label, url, pg,
+                          re.sub(r"[ \t]+", " ", by_page[pg]).strip()[:AR_PAGE_CHARS]))
     for label, url, path in links["presentations"][:6]:
         if not path.exists():
             continue
