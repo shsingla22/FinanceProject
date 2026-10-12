@@ -1,0 +1,463 @@
+
+=== page 1 ===
+ 
+ Intellect/SEC/2025 -26                                                                            June 12, 2025  
+ 
+1. National Stock Exchange of India Limited,  
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block, Bandra Kurla 
+Complex,  
+Bandra (E), Mumbai – 400 051.  
+ Scrip Symbol :  
+INTELLECT  
+2. BSE Limited,  
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers,  
+Dalal Street, Fort, Mumbai – 400 001.  
+ Scrip Code :  
+538835  
+Dear Sir/Madam,  
+  
+Sub: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 – Presentation to the Analyst / Institutional Investors  
+ 
+In pursuance of Regulation 30 of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, we are enclosing herewith the presentation on 
+“Reimagining AI for Business Impact ” for Analysts / Instituti onal Investor call scheduled today, i.e., 
+June 12, 2025, as intimated by the Company on June 09, 2025.  
+ 
+Please find enclosed herewith the “Reimagining AI for Business Impact ” presentation, which will 
+be showcased in the session today.  
+ 
+Kindly take the above information on record.  
+ 
+Yours truly,  
+for Intellect Design Arena Limited,  
+ 
+ 
+V V Naresh  
+Company Secretary and Compliance Officer  
+Membership No.: F8248  
+ 
+Encl: As above  
+=== page 2 ===
+REIMAGINING AI FOR 
+BUSINESS IMPACT 
+Arun Jain 
+Chairman & Managing Director, Intellect Design Arena Limited 
+
+=== page 3 ===
+PERSPECTIVE 
+EXPERTISE BEHAVIOUR & 
+TRAITS HUMAN 
+KNOWLEDGE Beliefs 
+Experiences 
+Empathy 
+Purpose Courage 
+Curiosity 
+Listening 
+Observation 
+Dialogue 
+Self-organisation 
+Energy 
+Goals 
+Attention 
+to detail 
+Practise 
+Reasoning What is human intelligence? 
+First Principles Thinking 
+
+=== page 4 ===
+Gen AI and it’s Origins 
+Initially developed for 
+language translation Natural Language 
+Models 2010 
+Could ascertain 
+meaning of words 
+based on context Advanced 
+NLP 2014 
+aka Foundation Models Large Language 
+Models 2018 
+ChatGPT!! Conversational 
+LLMs 2022 Generative AI comprises of  Foundation Models  which are trained on a broad set of 
+unlabeled data that can be used for different tasks with additional fine-tuning.  An 
+LLM is a type of Foundation Model. 
+=== page 5 ===
+The current AI landscape based on how 
+the models are trained 
+Model Type Scope of Training Strengths Limitations Best For Best Used When Example Models 
+Foundation Models Trained on large, diverse, 
+multi-domain datasets - Highly versatile 
+- Transferable to many 
+tasks - Hallucinations 
+- May lack factual grounding 
+- Needs fine-tuning for niche 
+areas General AI, Chatbots, 
+Assistant APIs General-purpose 
+reasoning GPT-4, Claude 3, 
+Gemini 1.5, LLaMA 3 
+Domain-Specific 
+Models Trained or fine-tuned on 
+domain-specific datasets 
+(e.g., medicine, finance, law) - Deep knowledge in 
+domain 
+- Higher factual accuracy 
+within scope - Poor generalization outside 
+domain 
+- Costly to collect domain data Industry-specific tools 
+and advisors Deep expertise is 
+needed BioGPT, BloombergGPT, 
+Med-PaLM, Legal-BERT 
+Task-Specific Models Trained on narrow, 
+well-defined tasks (e.g., 
+summarization, sentiment) - Efficient and lightweight 
+- High task-specific 
+accuracy - Inflexible for new tasks 
+- Requires retraining for other 
+use cases Focused NLP or speech 
+tools You need speed + 
+accuracy T5, Whisper, DistilBERT, 
+BART 
+ Multimodal Models Trained on multiple modalities 
+(text, images, audio, video) - Cross-modal 
+understanding - Expensive to train 
+- May underperform in some 
+modalities Human-computer 
+interaction, Accessibility You need input/output 
+variety GPT-4o, Gemini 1.5, 
+CLIP, Kosmos 
+Retrieval Augmented 
+Models (RAG / LRM) Combine pretrained LMs with 
+live retrieval from external 
+sources (e.g., web, 
+documents) - More accurate and 
+up-to-date - Slower due to retrieval 
+- Relies on relevance of retrieved 
+infoLive Q&A, assistants You need real-time 
+facts RAG, RETRO, 
+Perplexity.ai, Bing 
+Copilot 
+AI has been solving various individual problems, without driving business impact. 
+Until now… 
+=== page 6 ===
+The human relationship with AI is different. 
+It goes beyond what we 
+have historically expected 
+of technology. 
+
+=== page 7 ===
+Anxious to not 
+fall behind Fuelled by AI everywhere, 
+and all at once 
+No strategic direction 
+conversation without AI 
+Enterprise adoption of AI has been 
+hampered by ambiguity around AI 
+
+=== page 8 ===
+It’s been a rush to do something AI 
+To be seen to be doing something AI 
+
+=== page 9 ===
+The results have been anything but 
+impressive… 
+It's resulted in ad-hoc AI 
+pilots that can't scale In-house AI capability 
+build attempts doomed 
+to be written off Frustrating attempts 
+at agents that remain 
+in tight silos 
+If it does not drive business impact, it is not enterprise AI 
+=== page 10 ===
+The boulders to blast to get enterprise AI 
+right 
+Blast those rocks. Unblock the potential of enterprise AI 
+Technology (CIO) 
+Infrastructure 
+Integration 
+Unpredictable LLM Cost 
+=== page 11 ===
+The boulders to blast to get enterprise AI 
+right 
+Blast those rocks. Unblock the potential of enterprise AI 
+Organisation (CEO / COO) 
+Siloed Operations 
+Entitlements 
+Enterprise Wide AI Strategy 
+=== page 12 ===
+The boulders to blast to get enterprise AI 
+right 
+Blast those rocks. Unblock the potential of enterprise AI 
+Financial (CFO) 
+High Initial Investment 
+Unclear Business Case 
+Pilot Trap 
+=== page 13 ===
+The boulders to blast to get enterprise AI 
+right 
+Blast those rocks. Unblock the potential of enterprise AI 
+Ethical & Legal (CRO / CLO) 
+Bias & Fairness 
+Explainability 
+Data privacy & Governance 
+=== page 14 ===
+The Journey from Technology Innovations 
+(AI) to Business impact requires 
+REIMAGINATION 
+=== page 15 ===
+1. Reimagine Customer Experience 
+Enhancing the existing sales channels 
+Creating efficient up / cross-sell channels 
+Transforming experience across the touch-points 
+2. Reimagine Products 
+Enhanced design and innovation of next-gen products 
+Benchmarking of the products with the competition 
+3. Reimagine Operations  
+Transitioning to Human in the Loop from AI in the Loop 
+Improving the overall operational efficiency (KYC, AML, Credit 
+Approval/UW etc) 
+4. Reimagine Compliance 
+Being up to date with the latest regulations 
+Enabling monitoring and alerts to track all changes 
+Reimagine 
+Business 
+Impact Customers Products 
+Compliance Operations Reimagine enterprises with business 
+impact AI 
+Driving real outcomes at scale and in alignment with enterprise priorities 
+=== page 16 ===
+The only way to get AI for enterprises 
+RIGHT 
+RIGHT KNOWLEDGE 
+RIGHT DIGITAL EXPERTS 
+RIGHT LLMs FOR RIGHT TASK 
+RIGHT GOVERNANCE 
+
+=== page 17 ===
+Introducing  
+Purple Fabric 
+Getting AI for enterprises RIGHT 
+=== page 18 ===
+Purple Fabric is the Open Business Impact 
+AI Platform 
+Enterprise  
+Knowledge Garden Enterprise  
+Digital Experts Enterprise  
+Governance 
+Make all my enterprise-relevant 
+data available to AI Create and orchestrate AI 
+agents to help me do my work 
+and handle my function’s 
+operations Govern and monitor my agents 
+and data for safety, auditability, 
+accuracy, and economics at 
+scale LLM Model 
+Optimisation Hub 
+Swap in or bring your own best-fit 
+models at any time, giving 
+real-time accuracy-speed-cost 
+benchmarks and eliminating 
+vendor lock-in. 
+=== page 19 ===
+Enterprise Knowledge Garden (EKG) 
+EKG connects, transforms, and stages  your trusted unstructured and structured data for AI. 
+Enterprise 
+Unstructured Data Enterprise Structured 
+Data 
+Enterprise Policies 
+and Practices 
+Market and Public 
+Data 
+Regulation and 
+Compliance Data 
+Ingest Knowledge 
+Banks from Any Source in Any Data Format 
+Actionable 
+Insights & AI 
+Ready Data 
+Library 
+Year
+at Configurable 
+Frequencies Quarter 
+Month
+Day
+Hour
+Minute 
+Second 
+On Demand 
+=== page 20 ===
+Enterprise Digital Experts (EDE) not Agents 
+Advanced RAG 
+Information retrieval 
+Self-query 
+Multi-step query 
+Smart Retrieval 
+Re-ranking Flow design  
+Drag-and-drop 
+intelligence flow 
+orchestration 
+Benchmarking 
+Optimize for accuracy ,
+cost , and latency 
+Publish to API 
+Integrate  intelligence 
+into core operations 
+Trusted and 
+Auditable 
+Citations 
+TRACES Agents 
+Operating autonomously with 
+human-in-the-loop 
+Plan Reason 
+Decide Act
+Tools 
+Allow agents to interact 
+with external systems, 
+solve complex tasks, 
+and take action 
+The Expert Agent Designer & Composer  allows you to build and orchestrate end-to-end multi-agent 
+solutions  for business impact. 
+=== page 21 ===
+Enterprise Governance (EG) 
+PF Governance provides enterprise-grade security & governance  for multi-agent networks and 
+unstructured data management. 
+Data is never shared or used for model training 
+Proprietary enterprise LLMs on call 
+No public models allowed 
+Zero tolerance policy to external access 
+Built in PII masking 
+Prompt defense 
+Toxicity defense 
+Traceability and Auditability of all responses 
+generated Built-in DevOps, MLOps, LLMOps 
+Continued monitoring and optimizing of published 
+assets 
+Everything is an API, with SDK’s available 
+Flexibility to integrate with existing upstream and 
+downstream workflows 
+Granular permission & access controls 
+Single view of all enterprise AI assets 
+CIO & CRO can control cost and entitlements 
+systematically 
+Focus on your business problems – Flexibility and 
+enterprise governance built-in as standard 
+Your data and knowledge remain truly yours - Protected 
+by Purple Fabric’s AI shield within your own VPC 
+Focus on your business problems – Flexibility and 
+enterprise governance built-in as standard 
+=== page 22 ===
+LLM Model Optimisation Hub (MOH) 
+The PF LLM Model Optimization Model Hub allows you to choose the most optimal model for a specific use 
+case .
+Foundation Models Embedding Models 
+Over 100 new models being introduced each day 
+Reranking Models 
+Cost of using LLMs are falling every month Enterprise models from AWS, Google Cloud, Azure Latency Accuracy 
+Cost 
+60% cost savings  can be achieved through the right Selection, Metering & Benchmarking Benchmark each model for the triple AI constraint 
+=== page 23 ===
+Purple Fabric powered solutions are 
+already delivering Business Impact 
+
+=== page 24 ===
+How would a AI reimagined operations for 
+wealth management cycle run? 
+Prospect 
+Management 
+Due Diligence 
+Intelligent Product 
+Recommendation 
+Onboarding 
+Assistant 
+Retention Compliance 
+ChecksClaims Assistant 
+Sentiment Analysis Financial 
+Planning Customer 
+SupportUpsell & 
+Cross-sell 
+Collects all pieces of 
+information Credit Approval/UW Account Opening 
+LoA, Yield 
+Calculations… 
+Sends welcome 
+emails and FAQs 
+Churn Prediction Analyses customer 
+reviews Regulatory 
+compliance 
+Personalized 
+Updates 
+Product Renewal 
+Comms to clients Answers queries 
+related to claims 
+Acquire Onboard Nurture Servicing 
+Advisor and RM 
+management Intelligent  prioritisation of 
+l engagement of leads 
+Provides support 
+and assistance 
+And 
+Suitability 
+Product renewal Campaign 
+Management 
+Analyses campaign 
+performance and 
+recommends strategies 
+GRC checks KYC/AML Triage
+Commissions & Txn 
+processing Triangulate & Validate Complaints 
+Management 
+Investigation & 
+Redressal 
+AND MORE… 
+=== page 25 ===
+How are we positioned in a world full of “AI” 
+solutions? 
+Source: www.cobusgreyling.com 
+=== page 26 ===
+Market Opportunities for 
+Monetising Purple Fabric 
+=== page 27 ===
+Opportunity #1 
+1.Purple Fabric as Enterprise 
+Platform for Financial 
+Institutions 
+2.Purple Fabric as Enterprise 
+Platform for IT Services 
+=== page 28 ===
+Opportunity #2 
+Purple Fabric as Enterprise GPT 
+built on Enterprise Knowledge 
+Garden 
+●Banks 
+●NBFC 
+●Insurance 
+●Asset Management 
+●Wealth Management 
+●Investment Managers 
+=== page 29 ===
+Opportunity #3 
+Purple Fabric as Digital Experts 
+●AI based Insurance Underwriting Digital Expert 
+●AI based Invoice and Payment Processing (APX) Digital Expert 
+●Global Risk and compliance Digital Expert 
+●Loan Origination Digital Expert 
+=== page 30 ===
+Opportunity #4 
+Purple Fabric as Custom-built 
+Digital Experts  for very large 
+financial institutions 
+●Direct customers of Intellect 
+●Global SI organisations 
+=== page 31 ===
+What business area in 
+your organization is 
+most ready for GenAI? 
+Think about where GenAI could drive measurable impact across 
+different areas of the business. 
+
+=== page 32 ===
+THANK YOU! © 2025, Intellect Design Arena Limited. 
+All rights reserved. These materials are confidential and proprietary to 
+Intellect and no part of these materials should be reproduced, published in 
+any form by any means, electronic or mechanical including photocopy or 
+any information storage or retrieval system nor should the materials be 
+disclosed to third parties without the express written authorization of 
+Intellect Design Arena Limited. 

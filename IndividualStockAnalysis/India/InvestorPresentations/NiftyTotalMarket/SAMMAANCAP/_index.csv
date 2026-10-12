@@ -1,13 +1,13 @@
 symbol,kind,label,url,file,text_file,pages,status,fetched
-SAMMAANCAP,presentation,Aug 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=25de6c80-e886-445c-a653-67b786ff6d7e.pdf,2026-08_presentation.pdf,2026-08_presentation.txt,17,ok,2026-10-12
-SAMMAANCAP,presentation,May 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01aebd13-5c8a-427a-acfb-69856403afa5.pdf,2026-05_presentation.pdf,2026-05_presentation.txt,27,ok,2026-10-12
-SAMMAANCAP,presentation,Feb 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ecd3a34-244f-47e4-b693-a94f7a2cde0d.pdf,2026-02_presentation.pdf,2026-02_presentation.txt,33,ok,2026-10-12
-SAMMAANCAP,presentation,Oct 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a05f6663-2e17-4216-a425-99111d25565d.pdf,2025-10_presentation.pdf,2025-10_presentation.txt,10,ok,2026-10-12
-SAMMAANCAP,presentation,Aug 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3a886dfa-4ccd-432b-b432-ae2e50719dbc.pdf,2025-08_presentation.pdf,2025-08_presentation.txt,32,ok,2026-10-12
-SAMMAANCAP,presentation,May 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a388a19-0d24-473f-bee2-4aea899e3d73.pdf,2025-05_presentation.pdf,2025-05_presentation.txt,36,ok,2026-10-12
-SAMMAANCAP,presentation,Mar 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=613739c1-7a8c-47fd-857a-f25106f2193a.pdf,2025-03_presentation.pdf,2025-03_presentation.txt,42,ok,2026-10-12
+SAMMAANCAP,presentation,Aug 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=25de6c80-e886-445c-a653-67b786ff6d7e.pdf,2026-08_presentation.pdf,2026-08_presentation.txt,,cached,2026-10-12
+SAMMAANCAP,presentation,May 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01aebd13-5c8a-427a-acfb-69856403afa5.pdf,2026-05_presentation.pdf,2026-05_presentation.txt,,cached,2026-10-12
+SAMMAANCAP,presentation,Feb 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ecd3a34-244f-47e4-b693-a94f7a2cde0d.pdf,2026-02_presentation.pdf,2026-02_presentation.txt,,cached,2026-10-12
+SAMMAANCAP,presentation,Oct 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a05f6663-2e17-4216-a425-99111d25565d.pdf,2025-10_presentation.pdf,2025-10_presentation.txt,,cached,2026-10-12
+SAMMAANCAP,presentation,Aug 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3a886dfa-4ccd-432b-b432-ae2e50719dbc.pdf,2025-08_presentation.pdf,2025-08_presentation.txt,,cached,2026-10-12
+SAMMAANCAP,presentation,May 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a388a19-0d24-473f-bee2-4aea899e3d73.pdf,2025-05_presentation.pdf,2025-05_presentation.txt,,cached,2026-10-12
+SAMMAANCAP,presentation,Mar 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=613739c1-7a8c-47fd-857a-f25106f2193a.pdf,2025-03_presentation.pdf,2025-03_presentation.txt,,cached,2026-10-12
 SAMMAANCAP,presentation,Feb 2025,https://cdn.sammaancapital.com/sclearningsupdateq3fy2024-25-39ac1c.pdf,,,,failed:http0,2026-10-12
-SAMMAANCAP,presentation,Nov 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97f3af78-fecf-488f-9220-55644daccf8c.pdf,2024-11_presentation.pdf,2024-11_presentation.txt,56,ok,2026-10-12
-SAMMAANCAP,presentation,Aug 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c752e048-74ef-4061-bc0a-62ada393be19.pdf,2024-08_presentation.pdf,2024-08_presentation.txt,46,ok,2026-10-12
+SAMMAANCAP,presentation,Nov 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97f3af78-fecf-488f-9220-55644daccf8c.pdf,2024-11_presentation.pdf,2024-11_presentation.txt,,cached,2026-10-12
+SAMMAANCAP,presentation,Aug 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c752e048-74ef-4061-bc0a-62ada393be19.pdf,2024-08_presentation.pdf,2024-08_presentation.txt,,cached,2026-10-12
 SAMMAANCAP,presentation,May 2024,https://www.indiabullshomeloans.com/uploads/investors/ibh-earnings-update-q4fy2023-24-0931807001716551686.pdf,,,,failed:http0,2026-10-12
-SAMMAANCAP,presentation,Mar 2024,https://sc-website-staging.b-cdn.net/uploads/news/indiabulls-investor-roadshow-presentation-vff-0019551001710858281.pdf,2024-03_presentation.pdf,2024-03_presentation.txt,24,ok,2026-10-12
+SAMMAANCAP,presentation,Mar 2024,https://sc-website-staging.b-cdn.net/uploads/news/indiabulls-investor-roadshow-presentation-vff-0019551001710858281.pdf,2024-03_presentation.pdf,2024-03_presentation.txt,,cached,2026-10-12

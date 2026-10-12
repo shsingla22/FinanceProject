@@ -1,4 +1,4 @@
 symbol,kind,label,url,file,text_file,pages,status,fetched
-REFEX,annual_report,Annual Report 2026,https://www.bseindia.com/xml-data/corpfiling/AttachHis/c6083eca-a123-45b4-b4dd-24dc352859a5.pdf,Annual_Report_2026.pdf,Annual_Report_2026.txt,395,ok,2026-10-12
-REFEX,annual_report,Annual Report 2025,https://www.bseindia.com/xml-data/corpfiling/AttachHis/1aba5966-a06b-4bb4-8cf6-1825cf642b14.pdf,Annual_Report_2025.pdf,Annual_Report_2025.txt,356,ok,2026-10-12
-REFEX,annual_report,Annual Report 2024,https://www.bseindia.com/xml-data/corpfiling/AttachHis/b113d399-4e15-4ee7-911a-4466f7610d51.pdf,Annual_Report_2024.pdf,Annual_Report_2024.txt,327,ok,2026-10-12
+REFEX,annual_report,Annual Report 2026,https://www.bseindia.com/xml-data/corpfiling/AttachHis/c6083eca-a123-45b4-b4dd-24dc352859a5.pdf,Annual_Report_2026.pdf,Annual_Report_2026.txt,,cached,2026-10-12
+REFEX,annual_report,Annual Report 2025,https://www.bseindia.com/xml-data/corpfiling/AttachHis/1aba5966-a06b-4bb4-8cf6-1825cf642b14.pdf,Annual_Report_2025.pdf,Annual_Report_2025.txt,,cached,2026-10-12
+REFEX,annual_report,Annual Report 2024,https://www.bseindia.com/xml-data/corpfiling/AttachHis/b113d399-4e15-4ee7-911a-4466f7610d51.pdf,Annual_Report_2024.pdf,Annual_Report_2024.txt,,cached,2026-10-12

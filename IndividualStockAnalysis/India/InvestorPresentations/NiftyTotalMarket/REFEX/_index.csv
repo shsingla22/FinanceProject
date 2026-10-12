@@ -1,13 +1,13 @@
 symbol,kind,label,url,file,text_file,pages,status,fetched
-REFEX,presentation,Aug 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=076b9ce7-8b98-43a1-9378-84d5d3f9688e.pdf,2026-08_presentation.pdf,2026-08_presentation.txt,45,ok,2026-10-12
-REFEX,presentation,Jul 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09ab570a-f96a-42ed-aefe-d519bc0afad8.pdf,2026-07_presentation.pdf,2026-07_presentation.txt,45,ok,2026-10-12
-REFEX,presentation,Jun 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d256b9a2-f2cd-4003-a843-567340b7479c.pdf,2026-06_presentation.pdf,2026-06_presentation.txt,47,ok,2026-10-12
-REFEX,presentation,Jan 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0d14eec4-d516-4bc2-98a1-c3fa8ded30b1.pdf,2026-01_presentation.pdf,2026-01_presentation.txt,41,ok,2026-10-12
-REFEX,presentation,Nov 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a11a425-08c1-4ba7-a788-92ef7bbd6239.pdf,2025-11_presentation.pdf,2025-11_presentation.txt,44,ok,2026-10-12
-REFEX,presentation,Aug 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bbda6291-7c92-477b-bad8-118a20febcb9.pdf,2025-08_presentation.pdf,2025-08_presentation.txt,49,ok,2026-10-12
-REFEX,presentation,Apr 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7197d1f9-a04a-4f8c-8f63-f72abfc4f5cb.pdf,2025-04_presentation.pdf,2025-04_presentation.txt,51,ok,2026-10-12
-REFEX,presentation,Feb 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48dcab58-50c6-48b4-99fc-09a2b7535654.pdf,2025-02_presentation.pdf,2025-02_presentation.txt,31,ok,2026-10-12
-REFEX,presentation,Jan 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82609f2a-0813-4665-83d9-9d9da99d2295.pdf,2025-01_presentation.pdf,2025-01_presentation.txt,54,ok,2026-10-12
-REFEX,presentation,Nov 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d75f9ff8-6bc2-41a8-ac0a-6c3f5382c0c8.pdf,2024-11_presentation.pdf,2024-11_presentation.txt,54,ok,2026-10-12
-REFEX,presentation,Aug 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=654b30e7-224f-47ff-87ad-cf91291d2251.pdf,2024-08_presentation.pdf,2024-08_presentation.txt,53,ok,2026-10-12
-REFEX,presentation,May 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7859a6e-efa4-4267-b57a-2d9314f7cf9f.pdf,2024-05_presentation.pdf,2024-05_presentation.txt,55,ok,2026-10-12
+REFEX,presentation,Aug 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=076b9ce7-8b98-43a1-9378-84d5d3f9688e.pdf,2026-08_presentation.pdf,2026-08_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Jul 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09ab570a-f96a-42ed-aefe-d519bc0afad8.pdf,2026-07_presentation.pdf,2026-07_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Jun 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d256b9a2-f2cd-4003-a843-567340b7479c.pdf,2026-06_presentation.pdf,2026-06_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Jan 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0d14eec4-d516-4bc2-98a1-c3fa8ded30b1.pdf,2026-01_presentation.pdf,2026-01_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Nov 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a11a425-08c1-4ba7-a788-92ef7bbd6239.pdf,2025-11_presentation.pdf,2025-11_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Aug 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bbda6291-7c92-477b-bad8-118a20febcb9.pdf,2025-08_presentation.pdf,2025-08_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Apr 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7197d1f9-a04a-4f8c-8f63-f72abfc4f5cb.pdf,2025-04_presentation.pdf,2025-04_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Feb 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48dcab58-50c6-48b4-99fc-09a2b7535654.pdf,2025-02_presentation.pdf,2025-02_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Jan 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82609f2a-0813-4665-83d9-9d9da99d2295.pdf,2025-01_presentation.pdf,2025-01_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Nov 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d75f9ff8-6bc2-41a8-ac0a-6c3f5382c0c8.pdf,2024-11_presentation.pdf,2024-11_presentation.txt,,cached,2026-10-12
+REFEX,presentation,Aug 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=654b30e7-224f-47ff-87ad-cf91291d2251.pdf,2024-08_presentation.pdf,2024-08_presentation.txt,,cached,2026-10-12
+REFEX,presentation,May 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7859a6e-efa4-4267-b57a-2d9314f7cf9f.pdf,2024-05_presentation.pdf,2024-05_presentation.txt,,cached,2026-10-12

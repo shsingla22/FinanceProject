@@ -1,0 +1,928 @@
+
+=== page 1 ===
+ 
+ Intellect/SEC/ 202 4-25                                                                           January  24, 2025  
+ 
+1. Natio nal Stock Exchange of India Limited , 
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block, Bandra Kurla 
+Complex,  
+Bandra (E), Mumbai – 400 051.  
+ Scrip Symbol  : 
+INTELLECT  
+2. BSE Limited , 
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers,  
+Dalal Street, Fort, Mumbai – 400 001.  
+ Scrip Code :  
+538835  
+Dear Sir/Madam,  
+  
+Sub: Intimation under Regulation 30 of SEBI (Listing Obligations and Disc losure Requirements) 
+Regulations, 2015 – Presentation to the Analyst / Institutional Investors  
+ 
+In pursuance of Regulation 30 of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, we are enclosin g herew ith the presentation to 
+the analysts and institutional investor on Unaudited Financial Results of the Company for the 
+quarter  ended December 31, 2024 . 
+ 
+Kindly take the above information on record .  
+ 
+Thanking you , 
+for Intellect Design Arena Limite d, 
+ 
+ 
+V V Naresh  
+Company Secretary and Compliance Officer  
+ 
+ 
+Encl: As above  
+=== page 2 ===
+‘First Principle’ Based Composable and 
+Intelligent Open Finance PlatformQ3FY25 Results 
+Earnings Announcement
+
+=== page 3 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+2
+Safe Harbour Statement
+Certain statements inthis release concerning ourfuture prospects areforward -looking statements .Forward -looking statements by
+their nature involve anumber ofrisks anduncertainties that could cause actual results todiffer materially from market expectations .
+These risks and uncertainties include, butarenotlimited toourability tomanage growth, intense competition among Indian and
+overseas ITProducts companies, various factors which may affect ourcost advantage, such aswage increases oranappreciating
+Rupee, ourability toattract andretain highly skilled professionals, time andcost overruns onfixed -price, fixed -time frame contracts,
+client concentration, restrictions onimmigration, ourability tomanage ourinternational operations, reduced demand fortechnology
+inourkey focus areas, disruptions intelecommunication networks, ourability tosuccessfully complete and integrate potential
+acquisitions, liability fordamages onourservice contracts, thesuccess ofthecompanies inwhich Intellect Design Arena hasmade
+strategic investments, withdrawal ofgovernmental fiscal incentives, political instability, legal restrictions onraising capital or
+acquiring companies outside India, unauthorised use ofourintellectual property and general economic conditions affecting our
+industry .
+Intellect Design Arena may, from time totime, make additional written and oral forward -looking statements, including ourreports to
+shareholders .These forward -looking statements represent only theCompany’s current intentions, beliefs orexpectations, and any
+forward -looking statement speaks only asofthedate onwhich itwas made .TheCompany assumes noobligation torevise orupdate
+anyforward -looking statements .
+=== page 4 ===
+Intellect Fact Sheet
+A Global FinTech Product Company Since 1993
+Enterprise Grade Financial Technology Leader in Composable and Intelligent 
+solutions for progressive Global Financial Institutions across 57 countriesENTERPRISE CONNECTED 
+INTELLIGENCE
+Powered by Intellect
+Intellect Promise
+•Drive FI Business Growth
+•Enhanced Operational 
+Efficiency
+•Implementation Certainty
+•30% lower TCO
+Core of What We Do
+•Complexity Reduction
+•Transformation Design
+Our Specialisation
+•Financial Technology
+•Open Finance DesignContinuous Innovation
+INVESTMENT IN OUR CRAFT
+Intellect Applied Research teams 
+across Products & Technology –2 
+million hours of annual research 
+investment
+Active collaboration and pooling of 
+perspectives
+34+ Nationalities
+Transformation Design Centres -
+commitment to a first -principles 
+design approachLeadership Grounded 
+in Relevance
+iGTB Oxford School of 
+Transaction Banking
+Analyst top quadrant citations -
+Gartner, Forrester, IBS 
+Intelligence, Celent, Aite
+High performance technology 
+design by a guiding principle of 
+minimal code / maximum 
+integration in a high self -driven 
+composability constructSustainability at Scale
+Certification of Sustainability 
+under ‘GRI -In Accordance’
+Ullas Trust  Nurturing young 
+minds
+Mission Samriddhi  Holistic rural 
+development
+Financial Stability
+INR 25,064 million
+Consolidated Revenues FY 24
+INR 7,550 million
+Cash in hand
+Zero Debt CompanyPartnerships
+SHARED VALUES
+GLOBAL RELATIONSHIPSCLOUD PARTNERS
+MS AZURE, AWS,
+ORACLE CLOUD
+IBM CLOUD, GOOGLE CLOUDCONSULTING PARTNERS
+ACCENTURE, KPMG,
+DELOITTE,
+EY, PWCSIPARTNERS
+IBM, WIPRO, 
+TECH M, COFORGE,
+LTI MINDTREE, HEXAWARE
+=== page 5 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+4
+Design Thinking is in our DNA
+The single most powerful competitive differentiator for financial institutions to drive Digital Leadership 
+Business, 
+Technology & 
+Operations Space at 
+FinTech 8012
+World’s first design 
+center for financial 
+Institutions 
+inaugurated in 2013. 
+8012 FinTech Design 
+Center, Chennai.8012 FinTech Design 
+Center, Mumbai 
+inaugurated in 2014 
+for digital design 
+sessionsInnovative, customer centric banking 
+products are conceptualised here!
+150+ 
+Banks60+ 
+Nationalities
+600+ 
+Walkthroughs6000+ 
+Visitors8012 FinTech Design Center
+ is the place where 
+game -changing transaction banking products and 
+operational solutions for the global markets were 
+designed in partnership with our marquee clients. 
+
+=== page 6 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+5
+The ‘First Principles Thinking’ based Most Comprehensive,
+Composable & Intelligent Open Finance Platform
+Experience Design with
+iTurmericDecision Grade Intelligence with 
+Purple Fabric386
+ready -to-use 
+Microservices on Cloud2015
+APIs650
+Events
+
+=== page 7 ===
+Open Finance Platforms
+Transform 
+Experience
+Connected ComposabilityTransform 
+Operations
+Human in the Loop
+AI-Inside with Near 
+Autonomous OperationsTransform 
+Enterprise
+The Most Comprehensive, 
+Composable & Intelligent 
+Open Finance Platform
+
+=== page 8 ===
+7
+Strategic Initiatives
+=== page 9 ===
+8
+Intellect to assume digital banking operations of Central 1, Canada
+Asastrategy toexpand Intellect’s first principle
+based eMACH .aiOpen Finance Platform footprints
+inNorth America, Intellect hassigned anagreement
+toassume digital banking operations ofCentral 1
+Credit Union inCanada
+•Under this agreement, Intellect willtake over contractual
+responsibilities ofdigital banking offerings forasignificantly
+large number ofCredit Unions ofCanada who arecurrently
+using Central 1’sForge, MemberDirect, Public Website and
+Mobile Applications and products while Central 1will
+continue toprovide thetechnology infrastructure andrelated
+services
+•Select members ofCentral 1’steam willalso transition to
+Intellect forensuring knowledge retention andcontinuity
+•The Intellect team willoperate Central 1’sdigital banking
+software and support clients asthey transition toanew
+eMACH .aiDigital banking platform .The transaction is
+expected toclose inthenext few weeks and willgive
+Intellect direct market access tothe Credit Unions in
+Canada
+
+=== page 10 ===
+9
+Intellect to assume digital banking operations of Central 1, Canada
+“We are confident that Intellect and the transferring Central 1 team members will provide 
+a strong and stable path for our clients as they transition to new digital banking 
+platforms. Our discussions and work with the Intellect team through this process have 
+demonstrated their deep care for clients and commitment to serving our members and 
+clients long into the future. We look forward to continued collaboration with the Intellect 
+team in the months ahead.”
+Sheila Vokey, 
+President & CEO, Central 1
+“Intellect has partnered with leading 
+financial institutions in Canada and globally 
+for more than three decades. This strategic 
+agreement reinforces Intellect’s commitment 
+to Canadian credit unions and banks. We 
+take the responsibility of ensuring a 
+seamless and reliable wind down of Forge 
+and MemberDirect with utmost seriousness 
+and look forward to welcoming the talented 
+team members -Rajesh Saxena,  
+CEO of Intellect 
+Global Consumer Banking
+-from Central 1, who we know will bring invaluable expertise in serving Canadian credit 
+unions and banks. Beyond this agreement, our eMACH.ai Digital Engagement platform, 
+built on First Principles Thinking, provides further opportunities to collaborate with credit 
+unions and banks, and reimagine digital banking experiences. This agreement 
+symbolises Intellect’s vision to strengthen its presence further in Canada and North 
+America. With our eMACH.ai Digital Engagement Platform, a composable and Open 
+finance platform, we aim to empower them with unparalleled agility and innovation. We 
+are excited to collaborate with credit unions to transform digital banking experiences and 
+meet the evolving expectations of their members through innovation, growth, and 
+meaningful engagement.”
+=== page 11 ===
+10
+Intellect Board Approves ₹20 Crore Investment in 
+GlobalLinker to Enhance SME Global Trade Opportunities
+Intellect Board has approved an investment 
+of Rs. 20 crore as a primary equity infusion 
+in DigiVation Digital Solutions Pvt. Ltd., 
+an India -headquartered international 
+e-commerce company operating under the 
+brand GlobalLinker. Founded in 2010, 
+GlobalLinker’s user -friendly platform enables 
+small and medium enterprises (SMEs) to 
+connect and trade globally, effectively 
+streamlining cross -border business and 
+driving growth.•By fostering collaboration with GlobalLinker, 
+Intellect aims to accelerate its expansion in the 
+corporate and government e -procurement space 
+and further strengthen its leadership position in 
+wholesale banking, supply chain, and trade 
+financing
+•The convergence of GlobalLinker's offerings 
+along with Intellect’s eMACH.ai Wholesale 
+Banking suite will create global market access 
+for SMEs along with financing options through 
+banks and financial institutions
+=== page 12 ===
+11
+Performance Overview
+=== page 13 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+12
+607 Cr
+Total Revenue
+(INR)
+118 Cr
+License (INR)50 Cr
+Platform 
+Revenue (INR)
+124 Cr
+AMC (INR)344 Cr
+Gross Margin 
+(INR)
+121 Cr
+EBITDA  (INR)
+553 Cr
+Collections (INR)804 Cr
+Cash And Cash
+Equivalent  (INR)57%
+Gross 
+Margin%
+20%
+EBITDA %292 Cr
+Licence Linked  Revenue (INR)
+(License + Platform + AMC Revenues)
+16
+Go Lives New Digital transformations 695 Cr
+Annual Recurring Revenue (ARR)
+(On Annualised Basis)
+Deal Wins11
+70 Cr
+PAT (INR)93 Cr
+PBT (INR)
+DSO (as at 31st Dec 2024) 
+excluding Contractually Not Due120
+Global Excl. India253
+India146
+TotalQ3FY25 -Financial Highlights
+=== page 14 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+13
+YTD Q3FY25 -Financial Highlights
+1768 Cr
+Total Revenue
+(INR)
+329 Cr
+License (INR)162 Cr
+Platform 
+Revenue (INR)
+365 Cr
+AMC (INR)985 Cr
+Gross Margin 
+(INR)
+320 Cr
+EBITDA  (INR)
+1659 Cr
+Collections (INR)804 Cr
+Cash And Cash
+Equivalent  (INR)56%
+Gross 
+Margin%
+18%
+EBITDA %855 Cr
+Licence Linked  Revenue (INR)
+(License + Platform + AMC Revenues)
+37
+Go Lives New Digital transformations 702 Cr
+Annual Recurring Revenue (ARR)
+(On Annualised Basis)
+Deal Wins34
+197 Cr
+PAT (INR)261 Cr
+PBT (INR)
+DSO (as at 31st Dec 2024) 
+excluding Contractually Not Due120
+Global Excl. India253
+India146
+Total
+=== page 15 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+14
+LTM Q3FY25 -Financial Highlights
+2380 Cr
+Total Revenue
+(INR)
+462 Cr
+License (INR)218 Cr
+Platform 
+Revenue (INR)
+482 Cr
+AMC (INR)457 Cr
+EBITDA  (INR)
+2229 Cr
+Collections (INR)19 %
+EBITDA %
+804 Cr
+Cash And Cash
+Equivalent  (INR)1163 Cr
+Licence Linked  Revenue (INR)
+(License + Platform + AMC Revenues)
+55
+Go Lives New Digital transformations 700 Cr
+Annual Recurring Revenue (ARR)
+(On Annualised Basis)
+Deal Wins50
+383 Cr
+PBT (INR)
+DSO (as at 31st Dec 2024) 
+excluding Contractually Not Due 146
+=== page 16 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+15
+Revenue Mix: Currency Wise Q3FY25
+USD 43%EURO 11%OTHERS 10%
+INR 18%
+GBP 14%
+CAD 4%USD 43%EURO 11%OTHERS 10%
+INR 18%
+GBP 14% CAD 4%
+=== page 17 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+16
+22Unaudited Financial Results for the Third Quarter Ended –December 31, 2024
+INR Cr
+Note 2:Hedge Impact isshown below EBITDA intheP&L aboveParticularsQuarter  Ended
+Dec 31, 2024                                                                                    
+(Q3FY25)Sep 30, 2024
+(Q2FY25)Dec 31, 2023
+(Q3FY24)
+Total Income 607.45 555.89 635.20
+Like-to-Like 
+Total Revenue607.45 555.89 571.14
+Expenditure
+Software Development 
+Expenses263.61 257.71 288.47
+Gross Margin 343.84 298.18 346.73
+SG & A Expenses 171.34 167.95 165.22
+R & E Expenses 51.72 51.46 49.73
+Total Expenditure 486.67 477.12 503.42
+EBITDA 120.78 78.77 131.79
+Depreciation & Amortisation (39.64) (38.80) (34.25)
+Hedge Impact 2.18 2.24 (0.86)
+Fx Reins. (Loss)/Gain (4.20) 11.02 2.47
+Other Income / Expense 13.99 16.88 15.99
+Profit / (Loss) Before Tax 93.11 70.10 115.13
+Provision For Taxation (22.92) (17.29) (30.82)
+Profit / (Loss)  After Tax 70.19 52.81 84.31Full Year Ended
+Mar 31, 2024                                                                                            
+(FY24)Mar 31, 2023                                                                                              
+(FY23)
+2,513.13 2,245.97
+2,268.78 1,990.78
+1,108.80 1,018.00
+1,404.33 1,227.97
+657.64 605.45
+198.16 172.40
+1,964.60 1,795.85
+548.53 450.12
+(137.22) (121.51)
+(6.69) (14.72)
+(2.50) 12.91
+57.54 35.18
+459.67 361.98
+(125.97) (94.75)
+333.69 267.23
+Note 1:PAT above iswithout considering one-offexceptional item ofMAT credit write -offofINR12.51CrinQ424YTD Ended
+Dec 31, 2024                                                                                              
+(YTD FY25)Dec 31, 2023                                                                                              
+(YTD FY24)
+1,768.15 1,900.99
+1,768.15 1,656.63
+783.25 850.33
+984.91 1,050.66
+510.12 491.26
+154.41 147.45
+1,447.77 1,489.03
+320.38 411.95
+(114.97) (101.96)
+5.95 (8.21)
+5.16 (0.84)
+44.48 36.69
+261.00 337.63
+(63.55) (89.41)
+197.45 248.22Additional Information on function wise classification of the statement of Profit and Loss of the Group (Consolidated Unaudit ed)
+=== page 18 ===
+17
+Accelerating growth with eMACH.ai
+eMACH.ai accelerates growth with 11 Deal Wins 
+and 16 Digital Transformations in Q3FY25
+
+=== page 19 ===
+18
+eMACH.ai, the First Principles 
+Thinking -based Most 
+Comprehensive, Composable, and 
+Intelligent Open Finance Platform, 
+has been selected by 11 
+customers worldwide in Q3FY25Driving Transformation with eMACH.ai
+2 Deals in 
+Americas4 Deals in 
+Europe3 Deals in 
+Africa2 Deals in 
+Middle 
+East
+=== page 20 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+19
+One of the largest and oldest U.S. banking 
+institutions, with a strong focus on asset and 
+wealth management, has selected 
+eMACH.ai’s Corporate Treasury eXchange 
+(CTX) to optimise cash management for its 
+corporate clients. This decision reflects the 
+institution’s dedication to innovation, digital 
+transformation, and delivering advanced, 
+scalable solutions. CTX’s capabilities in 
+liquidity management and automation further 
+support its commitment to operational 
+efficiency and exceptional client serviceR.E. Chaix, a US -based trusted wholesale 
+insurance brokerage, has enhanced its 
+operations by adopting the cutting -edge 
+eMACH.ai Magic Submission, eMACH.ai 
+Xponent, and eMACH.ai Risk Analyst 
+platforms. These advanced solutions empower 
+R.E.Chaix to make faster, more informed 
+decisions while delivering a superior customer 
+experience. By leveraging AI -powered tools for 
+automated submissions, advanced analytics, 
+and intelligent risk assessment, the brokerage 
+has streamlined workflows and reinforced its 
+commitment to innovation in risk management. 
+This strategic adoption highlights the 
+brokerage’s position as a forward -thinking 
+leader in the insurance sector, delivering 
+exceptional value to both underwriters 
+and customers2 Deal Wins in Americas
+1 2
+=== page 21 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+20
+4 Deal Wins in Europe
+A major Turkish bank has selected the 
+eMACH.ai Digital Engagement Platform to 
+enhance its operations in Austria. This 
+strategic move is aimed at delivering 
+seamless and personalised experiences to 
+customers across all channels and stages of 
+their banking journey. By leveraging 
+eMACH.ai’s advanced capabilities in real -time 
+engagement, AI -drive personalisation, and 
+omnichannel support, the bank aims to 
+provide meaningful and consistent 
+interactions, improving customer satisfaction 
+and loyalty. This adoption underscores the 
+bank’s commitment to innovation and its 
+dedication to meeting the dynamic needs of 
+customers in the Austrian market while 
+reinforcing its global presence 
+in the financial sectorA prominent Spanish banking and financial 
+services company, recognised as one of the 
+world’s largest banks by market 
+capitalisation, has announced a pivotal step 
+in its strategic expansion into Asia by 
+leveraging its longstanding 15 -year 
+partnership with the cutting -edge eMACH.ai 
+Payments Platform. This transformative 
+initiative underscores the bank’s steadfast 
+commitment to driving digital innovation, 
+operational excellence, and delivering 
+seamless, next -generation payment 
+experiences across Asia —one of the 
+fastest -growing and most dynamic financial 
+markets globally 1 2
+=== page 22 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+21
+4 Deal Wins in Europe (Contd) 
+A greenfield Electronic Money Institution (EMI) 
+based in Malta has significantly upgraded its 
+payment and transfer services across Malta and the 
+entire European Economic Area by adopting the 
+cutting -edge eMACH.ai Core Banking, Cards and 
+Digital Engagement Platform along with iTurmeric. 
+These innovative products enable the institution to 
+provide a highly contextual and personalised 
+experience for its customers at every stage of their 
+financial journey. The institution streamlined and 
+automated the entire card lifecycle, ensuring that 
+processes are more efficient and user -friendly, 
+ultimately enriching the overall customer 
+experience. In addition, the composable platform 
+iTurmeric enabled them to create applications with 
+minimal coding, dramatically reducing development 
+time and making the process more accessible to a 
+broader range of professionalsA leading Nordic wholesale bank, integral to the 
+financial ecosystems of the Nordic and Baltic 
+regions, has reinforced its commitment to 
+innovation and customer -centricity by renewing its 
+partnership with Intellect Wholesale Banking. This 
+contract renewal marks the adoption of the latest 
+version of eMACH.ai’s Corporate Treasury 
+eXchange (CTX) platform, a transformative 
+solution designed to elevate cash management 
+for corporate clients. The platform delivers 
+optimised liquidity management, streamlined 
+operations, and seamless treasury experiences, 
+aligning with the bank’s mission to provide 
+sustainable financial solutions. This partnership 
+highlights the bank’s leadership in wholesale 
+banking innovation, further empowering its 
+corporate clients to navigate and thrive in an 
+increasingly dynamic financial environment3 4
+=== page 23 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+22
+3 Deal Wins in Africa
+A prominent Southern African financial 
+services provider, with decades of industry 
+expertise, has implemented the eMACH.ai 
+Core Banking Platform to deliver signature 
+banking experiences tailored to its evolving 
+customer base. This strategic initiative 
+empowers the institution to provide a 
+contextual and personalised banking 
+journey, ensuring seamless engagement 
+and meaningful interactions at every stage 
+of the customer lifecycle. By leveraging 
+eMACH.ai’s advanced capabilities, the 
+provider aims to redefine the banking 
+experience, aligning with its commitment to 
+innovation and customer -centricity. The 
+adoption of eMACH.ai Core Banking marks 
+a significant milestone, enabling the delivery 
+of cutting -edge financial services that meet 
+the dynamic needs of modern customers 
+while solidifying the provider’s position as a 
+leader in the Southern African 
+financial landscapePartnering with Africa’s largest financial 
+institution marks a significant 
+achievement for eMACH.ai. Spanning 
+22 countries, this collaboration highlights 
+our capability to replace legacy systems 
+and position eMACH.ai as the backbone 
+of Corporate Treasury Management 
+(CTX) across Africa. Leveraging our deep 
+industry expertise in sectors like natural 
+resources, transportation, and financial 
+services, we will deliver tailored, scalable, 
+and future -ready solutions that align with 
+the client’s enterprise architecture. This 
+win solidifies our leadership in CTX 
+platforms for emerging and developed 
+markets, showcasing our resilience, 
+precision, and strategic value in driving 
+complex, multi -country implementations 
+for global financial giantsA multinational banking and financial services 
+conglomerate headquartered in 
+Johannesburg, South Africa, has selected the 
+eMACH.ai Digital Engagement Platform to 
+revolutionise its customer experience. This 
+strategic adoption empowers the bank to 
+deliver a superior banking experience by 
+addressing both stated and unstated 
+customer needs while ensuring seamless 
+integration across every touchpoint in the 
+customer journey. The platform’s cutting -
+edge capabilities in AI -driven personalisation, 
+real-time engagement, and omnichannel 
+support enable the bank to enhance 
+customer satisfaction and loyalty. This move 
+underscores the bank’s commitment to 
+leveraging advanced digital technologies to 
+redefine customer engagement and solidify 
+its position as a leader in the 
+global banking sector1 2 3
+=== page 24 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+23
+2 Deal Wins in Middle East
+One of the largest financial institutions in 
+Saudi has renewed its trust with Intellect by 
+choosing eMACH.ai TRADE for building 
+CBX for Trade Corporates, enabling a 
+seamless & unified omnichannel experience 
+across the Transaction Banking platformA leading full -service corporate bank in 
+UAE that offers corporate and commercial 
+banking, treasury and trade finance 
+services, personal banking options, and 
+Shari'a -compliant services, has renewed its 
+trust with Intellect by choosing eMACH.ai 
+TRADE for a seamless & unified 
+omnichannel experience across 
+Transaction Banking platform, hosted on 
+eMACH.ai cloud 1 2
+=== page 25 ===
+24
+Digital Transformations:Driving Operational Excellence
+eMACH.ai has played a 
+pivotal role in driving the 
+digital transformation 
+of sixteen leading 
+financial institutions 
+worldwideBy integrating platforms such as 
+eMACH.ai Liquidity Management 
+Solution, Corporate Treasury 
+Exchange (CTX),  eMACH.ai 
+Core Banking, eMACH.ai 
+Lending, eMACH.ai Collection, 
+and eMACH.ai Treasury, these 
+institutions have been 
+empowered to scale their 
+operations efficiently This suite of products and 
+platforms streamlines 
+processes, significantly reduces 
+costs, enhances risk 
+management strategies, and 
+promotes sustainable practices
+=== page 26 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+25
+3 Go Lives in Americas
+A leading wholesale distributor of speciality insurance 
+products and services headquartered in Chicago went live 
+with eMACH.ai Magic Submission to extract Loss Runs 
+from documents in any format, all without manual 
+intervention and in minutes
+A wholesale insurance brokerage with a specialisation in the 
+transportation industry headquartered in California went live 
+with eMACH.ai Magic Submission for Loss Runs extraction 
+and analysis32One of the largest wholesalers in the US went live with 
+eMACH.ai Magic Submission powered by Purple Fabric for 
+extraction and comparison of Binder and Policy document1
+=== page 27 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+26
+5 Go Lives in India
+An NBFC subsidiary of NABARD, which promotes the non -
+agri sector with an ESG focus primarily through wholesale 
+finance has gone live with eMACH.ai Digital Core, loan 
+management system, FAMS and treasury
+A subsidiary of NABARD is registered as Non -. Banking 
+Finance Company has gone live with eMACH.ai FAMS and 
+TreasuryOne of the leading public sector banks in India, with a 
+network of 8,700+ domestic branches, serving over 150 
+million customers and USD 130 Billion worth of assets has 
+gone live with eMACH.ai Cash Management System to 
+improve its cash management operationsOne of the biggest lending government organisations in India 
+engaged in housing finance and infrastructure project finance 
+has gone live with eMACH.ai HRMX, RLO, COLLECT, BI / MIS, 
+TREASURY & ALM1
+32
+4
+One of the Top 5 banks in India has gone live with eMACH.ai 
+Wealthforce with advanced analytics for managing their 
+customer portfolios 5
+=== page 28 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+27
+4 Go Lives in Middle East & Africa
+A central bank based in Africa has gone live with eMACH.ai 
+Quantum Central Banking to progressively modernise, 
+transform and reduce complexities 
+A large bank in Zimbabwe, serving customers has gone live 
+with eMACH.ai Core Banking to power its banking operations, 
+improve efficiency and reduce cost of operations. The bank will 
+leverage microservices and API based architecture to launch 
+new products and services to its customers and elevate 
+customer experience The largest bank in Africa in terms of customer base with 
+operations spread across six countries has continued its trust 
+in Intellect and went live with eMACH.ai DTB cloud -native 
+platform for its cash management businessA leading Islamic bank based in Kuwait, renowned for its 
+excellence and dedication to customer service and its market 
+leadership in innovation went live with eMACH.ai 
+DTB cloud -native platform1
+32
+4
+=== page 29 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+28
+1 Go Live in ANZ
+A leading global bank, with one of the largest customer 
+bases in Japan, and a global network of financial and 
+business centers went live with eMACH.ai Liquidity 
+Management System 
+A major player in the European economy for over 150 years, 
+supporting 29 million clients every day with 138,000 staff in 62 
+countries has gone live with eMACH.ai Corporate Treasury 
+eXchange (CTX) platform to provide corporate clients with the 
+optimal cash pooling experienceOne of the top commercial Vietnam Banks established in 
+1963 and one of the top 100 largest banks in Asia has gone 
+live with eMACH.ai DTB platformA large financial institution with over 2 decades of experience 
+serving customers in Papua New Guinea went live with 
+eMACH.ai Core Banking Platform. The institution will leverage 
+the platform to drive comprehensive financial growth and 
+stability, innovative products, improved customer experience 
+and better compliance1
+12 1 Go Live in Europe2 Go Lives in Asia
+1
+=== page 30 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+29
+eMACH.ai Acknowledged as a Transformative Open Finance Platform by Industry
+Intellect has been recognised as a "STRONG PERFORMER" globally in 
+The Forrester Wave
+ : Digital Banking Processing Platforms, Q4 2024: 
+The 12 Providers That Matter Most And How They Stack Up report
+Gartner
+Intellect is mentioned as a Representative Vendor in Gartner®'s 
+Market Guide for Wealth Management All -in-One Advisor Desktop 
+Platforms, Core Banking Systems, Middle East and Africa, Latin 
+America and APAC and Commercial Banking Cash Management 
+and Trade Finance SolutionsIntellect Cash Management is recognised as a Contender in 
+Datos Matrix: U.S. Providers of Cash Management, 2024Intellect is identified as "Category Leader" in Chartis RiskTech 
+Quadrant® for Regulatory Reporting Solutions, 2024
+Intellect has been ranked 28  in Chartis RiskTech 100 
+Rankings 2024
+Datos InsightChartis
+Forrester
+Intellect’s Global Payments Platform is ranked as LEADER in 
+Omdia Universe: Payment Hubs, 2024 –25 & BEST IN 
+CLASS in Solution Breadth & Vendor ExecutionOmdia
+=== page 31 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+30
+Strong Funnel Progression for the Year
+Q3FY25The current funnel of Intellect 
+Destiny
+DealsQ2FY25 Q3FY24
+# Of Deals
+Avg Deal 
+Size
+INR Cr 
+As % of 
+total Out of INR 8,889 Cr 
+funnel value,        
+INR 6,920  Cr is 
+accounted by 206 
+OpportunitiesOut of INR 8,020 Cr 
+funnel value,        
+INR 6,514 Cr is 
+accounted by 183 
+OpportunitiesINR 8889 Cr
+INR 8020 Cr
+Q3FY25 Q2FY25 Q3FY2489
+50
+64%79
+62%5391
+65%54
+Out of INR 9,996 Cr 
+funnel value,        
+INR 7,757 Cr is 
+accounted by 213 
+OpportunitiesINR 9996 Cr
+Q3FY25 Q2FY25 Q3FY24
+=== page 32 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+31
+Total High Value 
+Active PursuitsINR 30 Cr –
+INR 50 Cr
+INR 20 Cr –
+INR 30 CrDestiny Deals -Consistent Growth in Big Ticket Deals
+363025
+8930
+3524● 2 Won
+● 1 Lost
+● 21 from previous qtr
+● 4 added
+● 2 Won
+● 2 Lost
+● 31 from previous qtr
+● 5 added● 2 Won
+● 1 Lost
+● 27 from previous qtr
+● 3 added
+● 6 Won
+● 4 Lost
+● 79 from previous qtr
+● 12 addedQ3FY24 Q2FY25 Q3FY25 
+917925
+3519> INR 50 Cr
+=== page 33 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+32
+Stock Information
+Market Cap ₹ 13268 Cr.
+52 Week (High / Low) ₹ 1199/693
+NSE / BSE -Symbol INTELLECT / 538835
+No. of Shares Outstanding 138642026Stock Data (As on 31st December 2024)
+Stock Price ₹ 957Shareholding Pattern 
+(As on 31st December 2024)
+Mutual FundsFPIOthers 
+6.68%
+Average Daily Volume (3 Months) –NSE 13.77 LakhsPromoters
+37.18%29.95%
+=== page 34 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+33
+Contacts
+Vasudha Subramaniam
+Chief Financial Officer
+vasudha.s@intellectdesign.comPraveen Mal ik
+Investor Relations
++91 8939782837
+praveen.malik@intellectdesign.comNachu Nagappan
+Corporate Communications
++91 8939619676
+nachu.nagappan@intellectdesign.com
+=== page 35 ===
+© 2025, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authori sation of Intellect Design Arena Limited.
