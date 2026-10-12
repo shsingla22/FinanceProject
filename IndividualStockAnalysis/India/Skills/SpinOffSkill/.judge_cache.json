@@ -208,82 +208,110 @@
   }
  },
  "TRIVENI": {
-  "stamp": "e8b44012d3f7bb46030ff0ed054d94c9",
+  "stamp": "4096900df4bf6cf58c472e28583b5339",
   "verdict": {
-   "what_is_spun": "The power transmission business undertaking of Triveni Engineering & Industries, vested into Triveni Power Transmission Limited",
+   "what_is_spun": "The power transmission business undertaking of Triveni Engineering, vested into Triveni Power Transmission Limited",
    "demerged_business_names": [
     "power transmission business undertaking",
+    "Power Transmission business",
+    "Power Transmission Business",
+    "PTB business",
     "Triveni Power Transmission Limited",
     "TPTL",
     "Resulting Company",
     "Applicant Company 3"
    ],
-   "reason": "not stated",
-   "reason_class": "not stated",
-   "insiders": "not stated",
-   "hidden_value": "Documents reveal only the mechanics: power transmission separated from the parent at a 3:1 ratio (INR 1 face value parent share to INR 2 TPTL share), alongside amalgamation of Sir Shadi Lal Enterprises; no financials or valuation reproduced.",
+   "reason": "Management: the amalgamation of SSEL and demerger of the Power Transmission business are \"to unlock value and to drive operational efficiencies\"; strategic push towards the independent listing of TPTL.",
+   "reason_class": "value_unlocking",
+   "insiders": "Not stated as a stake or incentive. Every equity shareholder gets 1 TPTL share (face value INR 2) per 3 Triveni shares (INR 1), so holdings mirror the parent.",
+   "hidden_value": "Separation exposes Power Transmission as a standalone with \"its own dynamics\": capex programmes \"progressing very smoothly\", continuing export market, more orders expected near-term. EBITDA-margin impact post-demerger was asked about but not quantified.",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents state no size, index treatment or shareholder-base detail for TPTL; only the 1-for-3 share entitlement.",
+   "selling_pressure_why": "Documents state only the 1-for-3 ratio and small INR 2 face value; no size, index-exclusion or shareholder-base detail given.",
    "parent_or_spin": "unclear",
-   "option_pricing_date": "Wednesday, July 22, 2026 (Demerger Record Date)",
-   "listing_timeline": "not stated",
-   "read_next": "Annexure-21: abridged prospectus information for Triveni Power Transmission Ltd; then Annexure-7 Joint Valuation Report dated 09.12.2024.",
-   "quote": "In compliance with Regulations 30 and 42 of the SEBI (LODR) Regulations, 2015, this is to inform you that the Board of Directors of the Company has, in consultation with TPTL, fixed Wednesday, July 22, 2026 as the Record Date for determining the eligibility of the equity shareholders of the Company to receive equity shares of TPTL as per share exchange ratio mentioned above."
+   "option_pricing_date": "not stated",
+   "listing_timeline": "Not stated as a date. Jun 2026 call: \"strategic push to clearly move towards, of course, the independent listing of TPTL\"; demerger record date fixed as Wednesday, July 22, 2026 (filing dated July 11, 2026); scheme effective May 19, 2026, demerger appointed date April 1, 2026.",
+   "read_next": "Annexure-21: TPTL abridged-prospectus information (SEBI ICDR Part E) at page 500 of the NCLT notice",
+   "quote": "Consequent upon the Scheme becoming effective, the power transmission business undertaking of the Company stood transferred to and vested into TPTL with effect from the Dernerger Appointed Date i.e. April 1,2026."
   }
  },
  "AMBUJACEM": {
-  "stamp": "6fe5fdfa196720753d9346d1e5af2c97",
+  "stamp": "5dab8d5037722c0c2a1ef4605aa505fc",
   "verdict": {
-   "what_is_spun": "Nothing separated \u2014 Sanghi Industries Limited amalgamated into Ambuja Cements Limited; no business carved out",
+   "what_is_spun": "not stated - documents describe amalgamation of Sanghi Industries Limited into Ambuja Cements, no business separated",
    "demerged_business_names": [
-    "Sanghi Industries Limited",
-    "Transferor Company",
-    "Ambuja Cements Limited",
-    "Transferee Company"
+    "Sanghi Industries Limited (\"Transferor Company\")",
+    "Ambuja Cements Limited (\"Transferee Company\")"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
    "insiders": "not stated",
-   "hidden_value": "not stated",
+   "hidden_value": "not stated; documents disclose only that the Appointed Date is April 1, 2024 and Sanghi shareholders on record April 6, 2026 receive Ambuja equity shares",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Sanghi shareholders as on April 6, 2026 get Ambuja shares; size and ratio not stated in documents",
-   "parent_or_spin": "unclear",
+   "selling_pressure_why": "not stated; documents give no share exchange ratio, issue size or index treatment",
+   "parent_or_spin": "neither",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated \u2014 no new listing; documents say Scheme became effective March 12, 2026 and Sanghi \"stands amalgamated with the Company and dissolved without being wound up\", with Sanghi holders on the register as on April 6, 2026 entitled to Ambuja shares",
-   "read_next": "Annexure 6 summary of Valuation Reports 1 and 2 \u2014 the share exchange ratio",
+   "listing_timeline": "not stated; Scheme effective March 12, 2026, Transferor Company dissolved without winding up, no new entity listing mentioned",
+   "read_next": "Annexure 1 Scheme and the valuation reports dated December 17, 2024 for the share exchange ratio",
    "quote": "Accordingly, the Scheme has become effective today, i.e. March 12, 2026 (\"Effective Date\") and consequently, Transferor Company stands amalgamated with the Company and dissolved without being wound up."
   }
  },
  "GABRIEL": {
-  "stamp": "4138ccba1c8aa3ef8b20cdb59a801410",
+  "stamp": "b4c65c93dacada91776f8d36e0da8377",
   "verdict": {
-   "what_is_spun": "Automotive Undertaking of Asia Investments Private Limited (incl. amalgamated Anchemco India), demerged into listed Gabriel India",
+   "what_is_spun": "Automotive Undertaking of Asia Investments Private Limited, demerged into Gabriel India Limited, the Resulting Company",
+   "demerged_business_names": [
+    "Automotive Undertaking",
+    "Demerged Undertaking",
+    "Asia Investments Private Limited",
+    "AIPL",
+    "Transferee Company",
+    "Demerged Company",
+    "Anchemco India Private Limited",
+    "Andasia Private Limited",
+    "AnIPL",
+    "Gabriel India Limited",
+    "Resulting Company",
+    "GIL"
+   ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "Promoter group held 7,90,04,167 shares and voted 100% in favour; SEBI required disclosure that the scheme increases Promoter/Promoter Group shareholding, with new shares issued to AIPL shareholders",
-   "hidden_value": "Group automotive/chemicals assets (Anchemco India) move into the listed company rather than out; promoter stake rises, so value accrues inside Gabriel \u2014 quantum not stated (valuation, swap ratio, AIPL revenue/PAT/EBITDA disclosures pending in notice)",
-   "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new listed entity created; Gabriel issues shares to AIPL's promoter shareholders, who stay inside the group",
+   "insiders": "Promoters held 7,90,04,167 shares and voted 100% in favour; NSE required disclosure that the scheme increases Promoter/Promoter Group shareholding. Voting form states promoters not interested in the resolution.",
+   "hidden_value": "Gabriel absorbs the automotive undertaking (after Anchemco India amalgamates into AIPL), adding assets into the listed vehicle while promoter shareholding rises; no revenue, PAT, EBITDA, swap ratio or transferred asset values are given in these documents.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Shares issued to Asia Investments' shareholders on record date May 29, 2026; documents state no size, index or industry details.",
    "parent_or_spin": "parent",
-   "option_pricing_date": "May 29, 2026 (Record Date); scheme effective May 22, 2026",
-   "read_next": "Feb 10, 2026 shareholder notice: valuation report, share-swap ratio, and AIPL 3-year revenue/PAT/EBITDA",
-   "quote": "The Board of Directors of the Company at their meeting held on 30th June, 2025, have approved the Scheme, subject to the approval of requisite majority of shareholders of the Company as may be required, and subject to the sanction of the Hon'ble NCLT and such other authorities as may be necessary."
+   "option_pricing_date": "not stated",
+   "listing_timeline": "Not a new listing: scheme effective 22nd May 2026 (May 2026 call), record date May 29, 2026; NSE letter dated November 17, 2025 required trading in the shares to commence within sixty days of the NCLT order.",
+   "read_next": "February 10, 2026 shareholders' notice explanatory statement \u2014 share-swap ratio, AIPL/GIL revenue-PAT-EBITDA, assets and liabilities transferred.",
+   "quote": "The Company shall ensure that the steps for listing of specified securities are completed and trading in securities commences within sixty days of receipt of the order of the Hon'ble High Court/NCLT, simultaneously on all the stock exchanges where the equity shares of the listed entity (or transfer entity) are/were listed."
   }
  },
  "INOXGREEN": {
-  "stamp": "d474dc3720d46e9a88068eec601d144d",
+  "stamp": "4203f49583fc628efaeeffce88748503",
   "verdict": {
-   "what_is_spun": "The Power Evacuation Business (substation/evacuation infrastructure) of Inox Green, demerged into Inox Renewable Solutions Limited",
-   "reason": "Segregation of distinct business verticals with separate risks, rewards and investors; consolidation of Power Evacuation into IRSL to unlock value; establish IGESL as pure-play O&M player; two focused listed entities",
+   "what_is_spun": "The Power Evacuation Business (substation / evacuation infrastructure) of Inox Green Energy Services Limited",
+   "demerged_business_names": [
+    "Power Evacuation Business",
+    "Demerged Undertaking",
+    "substation business",
+    "evacuation infrastructure business",
+    "Inox Renewable Solutions Limited",
+    "IRSL",
+    "Inox Renewable",
+    "formerly known as Resco Global Wind Services Private Limited",
+    "EPC arm of Inox Wind"
+   ],
+   "reason": "Segregation of business verticals with separate risks, rewards and investors; consolidation of Power Evacuation Business into IRSL to unlock value; establish IGESL as a pure-play O&M player; two independently focused listed entities.",
    "reason_class": "value_unlocking",
-   "insiders": "not stated (documents state only that no promoter shareholder of the Demerged Company is a non-resident)",
-   "hidden_value": "Parent becomes pure-play O&M with depreciation on demerged asset blocks eliminated \u2014 management says PBT would equal EBITDA, possibly north of INR 600 crores; resulting company carries losses and a Rs 96,80,78,940 tax demand under appeal",
+   "insiders": "Not stated for promoter/management stake in IRSL; documents only state \"no promoter shareholder of the Demerged Company is a non-resident\" and Inox Green shareholders get 122 IRSL shares per 2,000.",
+   "hidden_value": "Parent becomes pure-play O&M with depreciation eliminated on demerged asset blocks, so \"our PBT would be equivalent to EBITDA\"; only ~INR 10 crore revenue leaves. IRSL carries large losses, INR 96.80 crore tax demand and heavy secured/unsecured debt.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Tiny entitlement of 122 shares per 2,000 held; separate EPC/evacuation industry; newly listed entity outside indices",
-   "parent_or_spin": "parent",
-   "option_pricing_date": "2026-08-01 (record date)",
-   "read_next": "Inox Renewable Solutions' standalone financials and status of the Rs 96.80 crore AY2023-24 tax demand",
-   "quote": "Further, the Power Evacuation Business is capable of attracting different set of investors, strategic partners, lenders and other stakeholders."
+   "selling_pressure_why": "Tiny entitlement (122 shares per 2,000 held) creates small odd-lot positions in a differently-focused EPC/evacuation business newly listed on BSE and NSE.",
+   "parent_or_spin": "both",
+   "option_pricing_date": "not stated",
+   "listing_timeline": "No listing date stated. Affidavit of 20.01.2026: the Resulting Company \"shall continue to remain in existence after sanction of the Scheme and its shares shall be listed on the BSE and NSE\"; NCLT order pronounced 13.03.2026, certified copy received 27th April 2026; Nov 2025 call referred to \"subsequent listing of Inox Renewable solution as an EPC arm of Inox Wind\".",
+   "read_next": "Annexure-A Scheme clauses 8.1(b)/8.2(g) and IRSL's standalone financials behind the INR 96.80 crore AY 2023-24 demand.",
+   "quote": "The effectiveness of the proposed Scheme will lead to two listed entities with one entity continuing with the O&M business and other entity carrging on the EPC and Power Evacuation business."
   }
  },
  "SAMMAANCAP": {
@@ -317,79 +345,86 @@
   }
  },
  "THOMASCOOK": {
-  "stamp": "326f099363d3094aeedab5c89647397b",
+  "stamp": "751f929d0946db4cbcb66573d99039b6",
   "verdict": {
-   "what_is_spun": "TCIL's resorts and resort management business \u2014 6 Nature Trails resorts \u2014 into subsidiary Sterling Holiday Resorts Limited",
+   "what_is_spun": "TCIL's resorts and resort management business \u2014 6 resorts under the Nature Trails brand \u2014 into SHRL",
    "demerged_business_names": [
     "Demerged Undertaking",
     "Resorts and Resort Management business",
+    "Resorts and Resort Management Business of TCIL",
+    "resort business",
     "resorts and resort management business of Demerged Company",
     "Nature Trails",
     "Sterling Holiday Resorts Limited",
     "SHRL",
     "Resulting Company"
    ],
-   "reason": "Unlock value for TCIL shareholders, attract differentiated investor cohorts, leverage SHRL's hotel expertise, sharper strategic/operational focus per vertical, and streamline capital structure to improve EPS.",
+   "reason": "Unlock value for TCIL shareholders, attract differentiated investor cohorts, sharper strategic and operational focus per vertical; SHRL's hotel expertise suits the business and SHRL is poised to list separately.",
    "reason_class": "value_unlocking",
-   "insiders": "SHRL promoters go 100% pre-scheme to 65.55% post (includes 7% held by TCIL); ESOP Trust 2.16% from 65,70,000 accelerated ESOP Options 2024. Fairbridge Capital (Mauritius) holds 63.83% of TCIL.",
-   "hidden_value": "The demerged undertaking is tiny \u2014 INR 70 Crores turnover, ~0.4% of standalone revenue \u2014 yet the scheme lists SHRL, a leisure hospitality company with over 72 resorts, hotels and retreats across 62 locations, previously buried as a TCIL subsidiary.",
-   "selling_pressure": "likely",
-   "selling_pressure_why": "Small hospitality entity (0.4% of parent turnover) handed to travel-services shareholders; documents do not state any index treatment.",
+   "insiders": "Promoters hold 100% of SHRL pre-scheme, 65.55% post (including 7% held by TCIL); ESOP Trust 2.16% via 65,70,000 accelerated ESOP Options 2024. Fairbridge Capital (Mauritius)/Fairfax promotes TCIL with 63.83%.",
+   "hidden_value": "The demerged undertaking is tiny \u2014 INR 70 Crores, ~0.4% of standalone turnover \u2014 yet SHRL, the receiving company, is \"a leading leisure hospitality company with over 72 resorts, hotels and retreats across 62 locations\" that will now be separately listed and valued.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents state 32.30% indicative public float in a hospitality entity spun from a travel company; nothing stated on index exclusion.",
    "parent_or_spin": "both",
-   "option_pricing_date": "not stated; ESOP Options 2024 stand accelerated 7 working days before Record Date 1",
-   "listing_timeline": "Per March 20, 2026 filings: \"the Resulting Company is proposed to be listed on BSE and NSE pursuant to the Scheme upon receipt of requisite approvals from the Stock Exchanges\"; press release says it \"paves the way for a future listing of SHRL\"; the share consolidation step is \"expected to be completed, subject to securing necessary approvals, within 15 to 18 months from the date of approval of the Scheme by the Board\"; no listing date stated.",
-   "read_next": "The Scheme's definition of Demerged Undertaking plus SHRL standalone financials \u2014 profitability and debt behind its 72 resorts.",
-   "quote": "Accordingly, the Board of TCIL is of the view that for better focus and maximum result, it is better to divest the Resorts and Resort Management Business into SHRL and subsequently list SHRL."
+   "option_pricing_date": "not stated",
+   "listing_timeline": "No listing date given. Filing (March 20, 2026): \"Yes, the Resulting Company is proposed to be listed on BSE and NSE pursuant to the Scheme upon receipt of requisite approvals from the Stock Exchanges\"; consolidation \"expected to be completed... within 15 to 18 months from the date of approval of the Scheme by the Board.\" May 2026 call, Debasis Nandy: \"when we took the Board approval for this particular demerger project, we said that it will take us 12 to 15 months. The project is currently on track. We have applied to the NSE and the BSE for relevant approvals.\"",
+   "read_next": "SHRL standalone financials and the Scheme's share entitlement ratio report behind 81-for-100.",
+   "quote": "The turnover of the Demerged Undertaking for the year ended 31st December 2025 was INR 70 Crores representing ~0.4% of the total standalone turnover of the Company for the year ended 31st December 2025."
   }
  },
  "REFEX": {
-  "stamp": "4f286e8af5d52b9b7d0a125e23703f67",
+  "stamp": "3a4adf043304193232b71382578820cf",
   "verdict": {
-   "what_is_spun": "not stated",
+   "what_is_spun": "The Mobility Undertaking \u2014 Refex's EV fleet mobility vertical serving B2B and B2B2C platforms",
    "demerged_business_names": [
-    "Refex Mobility Limited",
-    "RML",
-    "Resulting Company",
     "Refex Green Mobility Limited",
     "RGML",
-    "Transferor Company"
+    "Refex Mobility Limited",
+    "RML",
+    "Mobility Undertaking",
+    "mobility vertical",
+    "Refex Mobility Vertical",
+    "Resulting Company"
    ],
-   "reason": "not stated",
-   "reason_class": "not stated",
-   "insiders": "not stated",
-   "hidden_value": "Only leverage is disclosed: 10 secured creditors owed Rs.1,58,90,59,414 and 379 unsecured creditors owed Rs.3,47,67,69,639 as on March 31, 2026; no financials of the demerged undertaking are given.",
-   "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents give no share entitlement ratio, size of the resulting company, industry or index treatment.",
+   "reason": "\"in line with our strategy to unlock focused value creation for all our stakeholders\"; post-demerger mobility pursues its growth plan independently with strategic and financial flexibility, running its own debt",
+   "reason_class": "value_unlocking",
+   "insiders": "Mirror shareholding: RGML is a 100% subsidiary so no valuation was required and all shareholders get matching RML shares. Promoter stake or incentives in RML not stated.",
+   "hidden_value": "No valuation was ever ascertained for the mobility vertical (management said none was required). RML takes its own debt; RIL carries Rs 158.90 cr secured and Rs 347.67 cr unsecured creditors as on March 31, 2026.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Mirror shareholding hands 92,973 RIL holders a small, newly listed EV-mobility entity in a different industry with no set valuation.",
    "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated",
-   "read_next": "The Scheme annexed to the July 03, 2026 notice: demerged undertaking definition and share entitlement ratio.",
-   "quote": "The Cut-off Date for the purpose of identifying the shareholders who were entitled to vote on the resolutions set out in the Notice was Friday, July 31,2026."
+   "listing_timeline": "No listing date stated. Jan 2026 call: \"we currently are waiting for some final NOCs from the lenders. As soon as it comes, the scheme is ready to be filed and we are trying our best to ensure that this can happen as soon as possible.\" Nov 2025 call: asked \"at what point do we see that company getting listed completely as a separate unit?\" \u2014 no timeline given in reply. Process dates on file: BSE/NSE observation letters March 16, 2026; NCLT order June 18, 2026; shareholder and creditor meetings August 5, 2026, all approving.",
+   "read_next": "The Composite Scheme annexed to the Notice dated July 03, 2026 \u2014 share entitlement ratio and debt split to RML",
+   "quote": "Post-demerger, the mobility vertical will pursue its growth plan independently with strategic and financial flexibility."
   }
  },
  "RELIGARE": {
-  "stamp": "bcfb0b51f99aecbab32f05b2d9f07f76",
+  "stamp": "b27a98b20a967294e91b0218cb1385be",
   "verdict": {
-   "what_is_spun": "REL's financial services business \u2014 lending, broking, investment and ancillary/support activities \u2014 into Religare Finvest Limited",
+   "what_is_spun": "REL's financial services business \u2014 lending, broking, investment activities and ancillary and support services",
    "demerged_business_names": [
-    "Demerged Undertaking",
-    "financial services business",
-    "Financial services business comprising lending activities, broking activities, investment activities and ancillary and support services",
     "Religare Finvest Limited",
     "RFL",
-    "Religare"
+    "Resulting Company",
+    "Demerged Undertaking",
+    "financial services business",
+    "lending activities",
+    "broking activities",
+    "investment activities",
+    "ancillary and support services"
    ],
-   "reason": "Demerged business needs differentiated strategy for its industry-specific risks and growth; distinct competition; can attract different investors, partners, lenders; focused regulatory compliance and risk management; and unlock value for shareholders.",
+   "reason": "Separate financial services from insurance into two focused independent listed entities, enabling differentiated strategy, distinct investor sets, sharper management focus, tailored risk/compliance frameworks, and unlocking value for REL shareholders.",
    "reason_class": "value_unlocking",
-   "insiders": "Not stated as promoter stake or incentives; documents say no change in REL shareholding, RFL post-scheme pattern mirrors REL 1:1, and employee rewards mapped to respective business outcomes.",
-   "hidden_value": "Separation reveals the financial services arm is small \u2014 INR 457.29 crore turnover, 6.2% of FY25 consolidated turnover \u2014 while REL retains the insurance business via its Care Health Insurance shareholding; no RFL financials given.",
+   "insiders": "No change in REL's shareholding pattern; RFL's post-scheme pattern mirrors REL's 1:1, promoter stake carried over. Post-demerger each entity gets dedicated leadership, already hiring; rewards mapped to business outcomes.",
+   "hidden_value": "Demerged financial services turnover was only INR 457.29 crore, 6.2% of REL's consolidated turnover \u2014 the parent keeps Care Health Insurance, i.e. the bulk. RFL is an unlisted RBI middle-layer NBFC entering public markets with mirror shareholding.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Mirror 1:1 shareholding in a small entity (6.2% of turnover) in a different sector from REL's retained insurance business; index status not stated.",
-   "parent_or_spin": "spin",
+   "selling_pressure_why": "Small relative business (6.2% of turnover), mirror 1:1 distribution to all REL holders, NBFC in different sector from insurance parent.",
+   "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "listing_timeline": "Press release dated February 14, 2026: \"The company endeavours to complete the process and list RFL in Q1 of FY28\"; NSE observation letter dated July 07, 2026 requires listing/trading to commence \"within sixty days of receipt of the order of the Hon'ble High Court/NCLT\"",
-   "read_next": "RFL's Information Memorandum / abridged-prospectus disclosures: RFL revenue, PAT, EBITDA, and assets-liabilities transferred with post-demerger balance sheet.",
-   "quote": "The company endeavour s to complete the process and list RFL in Q1 of FY28."
+   "listing_timeline": "Press release dated February 14, 2026: \"The company endeavours to complete the process and list RFL in Q1 of FY28\"; NSE letter dated July 07, 2026 requires listing and trading to commence within sixty days of receipt of the NCLT order.",
+   "read_next": "RFL's Information Memorandum / abridged prospectus disclosures \u2014 revenue, PAT, EBITDA and post-demerger balance sheet.",
+   "quote": "Post-demerger, RFL will be listed on BSE and NSE with mirror image shareholding as REL."
   }
  },
  "ASTRAL": {
@@ -421,66 +456,97 @@
   }
  },
  "GODIGIT": {
-  "stamp": "c76b2bf235a0a45d4b39e775c3540930",
+  "stamp": "26909e0c8f53362633cff2c456dc76ff",
   "verdict": {
-   "what_is_spun": "Nothing; amalgamation of Go Digit Infoworks Services Private Limited into listed Go Digit General Insurance Limited",
+   "what_is_spun": "Nothing is separated; the Scheme is an amalgamation of Go Digit Infoworks Services Private Limited into Go Digit General Insurance Limited",
+   "demerged_business_names": [
+    "Go Digit Infoworks Services Private Limited (First Applicant Company / Transferor Company)",
+    "Go Digit General Insurance Limited (Second Applicant Company / Transferee Company)"
+   ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "not stated; pre and post Scheme shareholding pattern including Promoter and Promoter Group is given only in Annexure H1 and H2, not in this text",
-   "hidden_value": "Not a separation but a promoter-holdco merger into the listed insurer; a share exchange ratio was set by RBSA valuation with E&Y fairness opinion, but no amounts or net worth figures are stated here",
+   "insiders": "not stated; documents only list Annexure H1/H2 'pre and post scheme shareholding pattern (including Promoter and Promoter Group)' without figures",
+   "hidden_value": "not stated; documents reference a Share Exchange Ratio valuation report by RBSA Valuation Advisors LLP dated 19th December 2025 and E&Y fairness opinion, but no values are given in the text",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "not stated; share exchange ratio and post-Scheme shareholding figures are not disclosed in the text provided",
+   "selling_pressure_why": "not stated; no shareholding sizes, index treatment or new listing disclosed in the documents",
    "parent_or_spin": "neither",
-   "option_pricing_date": "19th December 2025 (valuation report and fairness opinion on the Share Exchange Ratio)",
-   "read_next": "Annexure C valuation report share exchange ratio, with Annexure H1/H2 pre and post Scheme shareholding pattern",
-   "quote": "The above-mentioned Scheme, if approved at the meeting, will be subject to the subsequent approval of the Hon\u2019ble Tribunal."
+   "option_pricing_date": "not stated",
+   "listing_timeline": "not stated",
+   "read_next": "Annexure C valuation report (Share Exchange Ratio) and Annexure H1/H2 pre and post scheme shareholding pattern",
+   "quote": "The Scheme, if approved by the equity shareholders, will be subject to the subsequent approval of the Hon\u2019ble Tribunal and such other approvals, permissions and sanctions of regulatory or other authorities, as may be necessary."
   }
  },
  "KITEX": {
-  "stamp": "a4ce6ad0a33f3d8f2e968830806a62d2",
+  "stamp": "14ca8dcc042cf707a1bab005b55ca787",
   "verdict": {
-   "what_is_spun": "An undertaking of Kitex Childrenswear Limited (Demerged Company) transferred to Kitex Garments Limited (Resulting Company); business not described.",
+   "what_is_spun": "Not stated; documents name only an undertaking demerged from Kitex Childrenswear Limited into Kitex Garments Limited",
+   "demerged_business_names": [
+    "Kitex Childrenswear Limited",
+    "Demerged Company",
+    "Kitex Garments Limited",
+    "Resulting Company"
+   ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "not stated; only that MD Sabu M Jacob, WTD Sindhu Chandrasekharan, CFO Boby Michael and CS Dayana Joseph are authorised to implement the Scheme.",
-   "hidden_value": "Documents reveal nothing about the undertaking's assets, earnings or leverage; they show only that listed Kitex Garments is the recipient, so value enters the listed entity rather than being spun out to shareholders.",
+   "insiders": "Sabu M Jacob (Managing Director), Sindhu Chandrasekharan (Whole-Time Director), Boby Michael (CFO), Dayana Joseph (CS) authorised to implement; promoter stake not stated",
+   "hidden_value": "not stated",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents give no share entitlement ratio, new-entity size, listing or index detail; only voting and hearing notices.",
-   "parent_or_spin": "unclear",
+   "selling_pressure_why": "Documents state no share entitlement ratio, issue size, index treatment or industry of the demerged undertaking",
+   "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "read_next": "Scheme/Notice dated June 10, 2026 \u2014 share entitlement ratio and demerged undertaking's financials.",
-   "quote": "The proposed resolution approving the Scheme was passed by the majority of equity shareholders representing three -fourth in value of the equity shareholders who voted."
+   "listing_timeline": "not stated",
+   "read_next": "The Scheme of Arrangement itself with BSE/NSE observation letters dated December 04 and 05, 2025",
+   "quote": "The proposed resolution approving the Scheme was passed by the majority of equity shareholders representing three-fourth in value of the equity shareholders who voted."
   }
  },
  "LT": {
-  "stamp": "184abcf582a99309337597d30c490b7b",
+  "stamp": "53509619d55fa1ce00f0a171aed4e109",
   "verdict": {
-   "what_is_spun": "L&T's Realty Undertaking \u2014 residential, commercial and mixed-use real estate development business \u2014 transferred to wholly-owned L&T Realty Properties Limited",
-   "reason": "Business has grown in scale and complexity; a dedicated platform gives sharper strategic focus, operating agility, managerial accountability, flexibility to access growth capital, attract strategic partners, and improve valuation visibility",
+   "what_is_spun": "L&T's Realty Undertaking \u2014 residential, commercial and mixed-use real estate development business",
+   "demerged_business_names": [
+    "Realty Undertaking",
+    "Realty business undertaking",
+    "Realty business",
+    "L&T Realty",
+    "L&T Realty Business Unit",
+    "L&T Realty Properties Limited",
+    "LTRPL",
+    "Transferee Company"
+   ],
+   "reason": "House the Realty business under a dedicated platform for sharper strategic focus, operating agility and managerial accountability, with greater flexibility to access growth capital, attract strategic partners and improve valuation visibility",
    "reason_class": "value_unlocking",
-   "insiders": "Voting table shows Promoter and Promoter Group holding nil shares and 'Not Applicable' interest; LTRPL stays wholly-owned, no dilution of shareholding; management incentives in new entity not stated",
-   "hidden_value": "A realty platform with ~71 million sq ft development potential and FY26 pre-sales of ~Rs 10,000 Crs, yet only 0.59% of consolidated revenue; transferred at an enterprise value of Rs 6300 Crs",
+   "insiders": "Promoter/promoter group interest in resolution stated 'Not Applicable'; no dilution of shareholding \u2014 LTRPL remains a wholly-owned subsidiary with no change in ownership or voting rights; management incentives not stated",
+   "hidden_value": "Realty is only 0.59% of consolidated revenue yet has ~71 million sq ft development potential across Mumbai, Navi Mumbai, Bengaluru, NCR, Chennai, FY26 pre-sales ~\u20b910,000 Crs (doubled to Rs 94 billion), and is transferred at an enterprise value of \u20b96300 Crs",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No shares distributed to shareholders \u2014 slump sale into a wholly-owned subsidiary, consideration paid in LTRPL shares to L&T; no new listing",
+   "selling_pressure_why": "No shares distributed to L&T shareholders; LTRPL stays a wholly-owned subsidiary, so no separate listing or index exclusion",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "read_next": "The Scheme's valuation report supporting the Rs 6300 Crs enterprise value of the Realty Undertaking",
-   "quote": "L&T Realty Properties Limited will continue to remain a wholly -owned subsidiary of the Company and there will be no change in ownership, voting rights, or shareholder interests as a consequence of this transaction."
+   "listing_timeline": "not stated",
+   "read_next": "The Notice dated June 27, 2026 explanatory statement and valuation basis for the \u20b96300 Crs enterprise value",
+   "quote": "The transfer is proposed as a slump sale of the Realty Undertaking on a going -concern basis at an enterprise value of  \u20b96300 Cr s. and the consideration will be discharged through the issuance of fully paid up equity shares by L&T Realty Properties Limited to the Company ."
   }
  },
  "ADANIENT": {
-  "stamp": "00e0407f3f911b5cc4b4f3363b24696f",
+  "stamp": "ac8590331fac6baebcbbbc1519ac031d",
   "verdict": {
-   "what_is_spun": "Core infrastructure platforms \u2014 Airports, Roads, ANIL ecosystem and long-term contracted MDOs \u2014 via demergers from AEL",
-   "reason": "Value unlock: incubation playbook of build, stabilize, scale and unlock has passed its first three phases; these are independent, sector-leading, large core infra platforms ready for separation",
+   "what_is_spun": "Core infrastructure and services platforms \u2014 Airports, Roads, ANIL ecosystem and long-term contracted MDOs",
+   "demerged_business_names": [
+    "Airports",
+    "Roads",
+    "ANIL ecosystem",
+    "long-term contracted MDOs",
+    "Adani Enterprises Limited (AEL) core infrastructure and services businesses"
+   ],
+   "reason": "Value unlock through demergers: these businesses are independent, sector-leading, large core infra platforms whose initial capex phase is reaching maturity, with EBITDA mix shifted to mature scalable platforms",
    "reason_class": "value_unlocking",
-   "insiders": "Promoters are Gautam S. Adani and Rajesh S. Adani; Gautam S. Adani is Executive Chairman. Promoter stake or incentives in any new entity: not stated",
-   "hidden_value": "80% of EBITDA now comes from core infrastructure and services businesses, with primary capex phase reaching maturity and EBITDA mix shifted to mature scalable platforms \u2014 mature cash-generating infra hidden inside an incubator holding company",
+   "insiders": "Promoters of the Company are Gautam S. Adani and Rajesh S. Adani; Gautam S. Adani is Executive Chairman. Stake or incentives in any demerged entity not stated.",
+   "hidden_value": "80% of EBITDA share now comes from core infrastructure and services businesses; primary capex phase reaching maturity across businesses, so mature scalable platforms sit inside a holding-company-style parent awaiting unlock.",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents state no demerger size, share-entitlement ratio, index treatment or industry mismatch for the proposed entities",
+   "selling_pressure_why": "not stated",
    "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "read_next": "The scheme of arrangement for the Airports/Roads/ANIL demergers \u2014 segment EBITDA, debt allocation and entitlement ratio",
+   "listing_timeline": "not stated \u2014 on April 30, 2026 management was asked when to expect the Airport demerger and no date was given in the excerpt",
+   "read_next": "The scheme of arrangement / board approval document for the Airports demerger, with entity-wise EBITDA split",
    "quote": "AEL is now getting ready for value unlock through demergers."
   }
  },
@@ -1618,11 +1684,11 @@
   }
  },
  "THOMASCOOK::segments": {
-  "stamp": "8fbd8a1d5117e943426fde3a84f841bc",
+  "stamp": "356bd45211210e81d4803fdce4a4134c",
   "verdict": {
-   "segment_name": "Leisure Hospitality & Resorts business (Sterling Holiday Resorts; also labelled \"Vacation ownership and resorts business\" in the revenue tables)",
+   "segment_name": "Leisure Hospitality & Resorts business (Sterling Holiday Resorts; labelled \"Vacation ownership and resorts business\" in the FY24/FY25 revenue break-up tables)",
    "unit": "\u20b9 million",
-   "measure_notes": "Operating profit = consolidated 'Segment result' (EBIT), stated before unallocated corporate expenditure, finance costs and exceptional items. Revenue is segment revenue from external customers (consolidated segment reporting); no inter-segment revenue is shown for this segment. Segment-level PAT is not disclosed. Quarterly figures from investor presentations are the same EBIT basis.",
+   "measure_notes": "Operating profit = consolidated 'Segment result' (EBIT) as reported in the consolidated segment information note \u2014 before unallocated corporate expenditure, interest/finance costs and exceptional items; the quarterly presentations label the same line 'Segment Results (EBIT)'. Revenue is consolidated segment revenue from external customers (the group's segment revenue table carries no inter-segment column for this segment; inter-segment elimination is shown only within Travel & Related Services). Segment PAT is not disclosed.",
    "years": [
     {
      "fy": "FY2024",
@@ -1636,23 +1702,23 @@
      "revenue": 5006.4,
      "operating_profit": 1290.9,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 187"
+     "source": "Annual Report 2025 \u2014 page 187 (segment revenue and segment result)"
     },
     {
      "fy": "FY2026",
      "revenue": 5336.0,
      "operating_profit": 1291.9,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 212"
+     "source": "Annual Report 2026 \u2014 page 212 (segment revenue and segment result)"
     }
    ],
    "latest_quarter": {
     "period": "Q1 FY27",
     "revenue": 1614,
     "operating_profit": 523,
-    "source": "Presentation Aug 2026 \u2014 page 8 (also page 17)"
+    "source": "Presentation Aug 2026 \u2014 page 8 (income from operations and EBIT); corroborated on Presentation Aug 2026 \u2014 page 17"
    },
-   "not_found": "No segment-level PAT, tax, depreciation or standalone Sterling/Demerged Undertaking entity financials; segment EBITDA given only for quarters/9M, not full years."
+   "not_found": "Segment-level PAT, tax, depreciation and EBITDA for all years; segment net worth and standalone-level resort PAT. Standalone pages cover only room rentals, not the full resort business."
   }
  },
  "APOLLOHOSP::rationale": {
@@ -1846,41 +1912,41 @@
   }
  },
  "AMBUJACEM::segments": {
-  "stamp": "ebc818da31e7335ddc40ae960413baf5",
+  "stamp": "cc1bd8023f6a5b899412fadd9d9fdccb",
   "verdict": {
-   "segment_name": "Nothing separated",
+   "segment_name": "Cement (reportable segment in Ambuja Cements Ltd. consolidated segment reporting; no separate segment or standalone financials are reported for Sanghi Industries Limited, which was amalgamated into Ambuja w.e.f. April 1, 2024)",
    "unit": "\u20b9 crore",
-   "measure_notes": "No separated/demerged business exists in these pages. Sanghi Industries Limited and Penna Cement were amalgamated INTO Ambuja Cements (Ambuja = Transferee), i.e. inward mergers, not a separation. Segment reporting discloses only Cement and Ready Mix Concrete; profit line there is 'Segment result' (EBIT-type, pre-finance-cost/tax) in FY2025 report and 'Profit before tax' per segment in FY2026 report; revenue shown as external sales plus inter-segment, with elimination.",
+   "measure_notes": "Revenue FY2024/FY2025 = 'Total revenue' per Note 60 (AR2025) = external sales + other operating revenue, net of inter-segment elimination; FY2026/FY2025 figures in AR2026 Note 61 are 'Revenue from operations (including Government Grants, inter-segment revenue)' and are restated post Sanghi/Penna merger, so FY2025 appears as 33,644.00 in AR2025 vs 33,935.68 in AR2026. Operating profit FY2024/FY2025 = 'Segment result' (EBIT-type, pre finance cost, unallocated items and tax); FY2026 = segment 'Profit before share of profit of joint ventures and associate, exceptional items and tax' \u2014 AR2026 segment expenses include finance cost and depreciation, so it is not on the same basis as segment result. PAT by segment is disclosed only in AR2026 (FY2026 and FY2025) and excludes the unallocable tax credit/charge. Latest-quarter line is whole-company Ambuja Consolidated, not the Cement segment.",
    "years": [
     {
      "fy": "FY2024",
-     "revenue": null,
-     "operating_profit": null,
+     "revenue": 31871.77,
+     "operating_profit": 4896.69,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 268 (single segment: Cement and Cement Related Products; no separated business)"
+     "source": "Annual Report 2025 \u2014 page 299"
     },
     {
      "fy": "FY2025",
-     "revenue": null,
-     "operating_profit": null,
-     "pat": null,
-     "source": "Annual Report 2025 \u2014 page 299 (segments: Cement, Ready Mix Concrete only)"
+     "revenue": 33935.68,
+     "operating_profit": 3545.14,
+     "pat": 3351.08,
+     "source": "Annual Report 2026 \u2014 pages 373-374"
     },
     {
      "fy": "FY2026",
-     "revenue": null,
-     "operating_profit": null,
-     "pat": null,
-     "source": "Annual Report 2026 \u2014 pages 373-374 (segments: Cement, Ready Mix Concrete only)"
+     "revenue": 38690.51,
+     "operating_profit": 2724.28,
+     "pat": 2443.79,
+     "source": "Annual Report 2026 \u2014 pages 373-374"
     }
    ],
    "latest_quarter": {
-    "period": null,
-    "revenue": null,
-    "operating_profit": null,
-    "source": "Presentation Aug 2026 \u2014 page 23 (Q1 FY27 consolidated only; no separated-business disclosure)"
+    "period": "Q1 FY27 (quarter ended June 30, 2026) \u2014 Ambuja Consolidated total, not segment-level",
+    "revenue": 9500,
+    "operating_profit": 1589,
+    "source": "Presentation Aug 2026 \u2014 page 23"
    },
-   "not_found": "All figures. Pages disclose no separated/demerged business; Sanghi and Penna were merged into Ambuja, with no standalone segment, revenue, EBITDA or PAT reported for them."
+   "not_found": "No standalone Sanghi/separated-entity financials on these pages; FY2024 segment PAT absent; no segment-level quarterly data \u2014 Q1 FY27 figures are whole-company consolidated EBITDA/revenue."
   }
  },
  "ASTRAL::rationale": {
@@ -3012,25 +3078,25 @@
   }
  },
  "TRIVENI::segments": {
-  "stamp": "5cf25861521b3ce017e4da14ec80e4ea",
+  "stamp": "0fcb8ad980bf69fd97fd1f0f879242f5",
   "verdict": {
-   "segment_name": "Power transmission (Power Transmission Business / PTB) \u2014 Engineering Businesses segment",
+   "segment_name": "Power transmission (Power Transmission Business / PTB), Engineering Businesses \u2014 standalone segment reporting of Triveni Engineering & Industries Ltd.",
    "unit": "\u20b9 crore",
-   "measure_notes": "Operating profit = 'Segment Profit/(loss)', described by the company as PBIT (Segment revenue less Segment expenses); finance cost, interest income, unallocated expenses and tax are not allocated to segments. Revenue reported here is 'Total revenue from operations' (external + inter-segment); inter-segment sales are negligible (FY24 3.10, FY25 3.00, FY26 1.04), external-customer revenue was 288.71 (FY24), 366.89 (FY25), 338.90 (FY26). Figures are standalone segment disclosures; FY2024 was originally reported in \u20b9 lakhs (revenue 29,180.90; segment profit 10,708.88 \u2014 Annual Report 2024 p.146) and restated in \u20b9 crore in later reports. No segment-level PAT is disclosed.",
+   "measure_notes": "Operating profit = 'Segment Profit/(loss)' i.e. PBIT (segment revenue less segment expenses; excludes finance cost, interest income, unallocated expenses and tax \u2014 MD&A labels it 'PBIT (Segment Profit)'). Revenue shown is total segment revenue from operations including inter-segment sales (inter-segment is tiny: FY24 3.10, FY25 0.69, FY26 1.04; external-only revenue was 288.71 / 369.20 / 338.90). Standalone figures; consolidated PT figures are identical. No segment-level PAT is disclosed.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 291.81,
      "operating_profit": 107.09,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 145 (comparative); also Annual Report 2025 \u2014 page 89 (PTB turnover 291.81, PBIT 107.09)"
+     "source": "Annual Report 2025 \u2014 page 145 (comparative year ended 31-Mar-24; same figures in \u20b9 lakhs \u2014 revenue 29180.90, segment profit 10708.88 \u2014 at Annual Report 2024 \u2014 page 146)"
     },
     {
      "fy": "FY2025",
      "revenue": 369.89,
      "operating_profit": 126.8,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 145; confirmed Annual Report 2026 \u2014 page 162"
+     "source": "Annual Report 2025 \u2014 page 145 (also MD&A table, Annual Report 2025 \u2014 page 89: Turnover 369.89, PBIT 126.80)"
     },
     {
      "fy": "FY2026",
@@ -3044,9 +3110,9 @@
     "period": "Q3 FY26 (3 months ended 31-Dec-2025)",
     "revenue": 79.86,
     "operating_profit": 28.69,
-    "source": "Presentation Feb 2026 \u2014 page 15 (standalone segment results; same figures consolidated, page 18)"
+    "source": "Presentation Feb 2026 \u2014 page 15"
    },
-   "not_found": "No segment PAT, tax, EBITDA or standalone TPTL accounts. Q1 FY27 (Aug 2026 deck) drops power transmission \u2014 shown only as discontinued operations, with no revenue/profit split."
+   "not_found": "No segment PAT, tax, depreciation-based EBITDA or standalone TPTL accounts. Q1 FY27 (Aug 2026 presentation) omits Power transmission \u2014 reported within discontinued operations, no revenue/result given."
   }
  },
  "SAMMAANCAP::rationale": {
@@ -3305,41 +3371,42 @@
   }
  },
  "REFEX::segments": {
-  "stamp": "8b0d15123fc800d9a85fa8a0a79aae1c",
+  "stamp": "bd8299446405492d4a7349bd3d7d2be6",
   "verdict": {
-   "segment_name": "Green Mobility (labelled \"Electric Vehicle\" in FY24\u2013FY25 segment notes; business housed in Refex Green Mobility Limited / RGML, to be transferred to Refex Mobility Limited)",
-   "unit": "\u20b9 lakh (annual segment tables); quarterly figure is \u20b9 crore as in the presentation",
-   "measure_notes": "operating_profit = \"Segment Results\" i.e. segment EBIT before other income, finance cost and exceptional items, taken from the CONSOLIDATED Ind AS 108 note (the standalone note excludes this segment, which sits in subsidiary RGML). Revenue is segment revenue (net sales/income) as reported, no inter-segment split disclosed. No segment-level PAT is disclosed; in FY2026 Green Mobility is classified as a discontinued operation but the detailed discontinued-operations P&L given (standalone) covers only Refrigerants and Power Trading.",
+   "segment_name": "Green Mobility / Electric Vehicle (Refex Green Mobility Limited \u2014 RGML; consolidated segment, labelled \"Electric Vehicle\" in FY24\u2013FY25 and \"Green mobility\" in FY26)",
+   "unit": "\u20b9 lakh (Rs. In Lakhs)",
+   "measure_notes": "Profit line is the Ind AS 108 'Segment Results' = segment EBIT before other income, finance cost and exceptional items (pre-tax, pre-interest); not EBITDA and not PBT. Revenue is 'Segment Revenue (Net Sales/Income)' from the consolidated segment note; no inter-segment revenue is separately disclosed. Figures are consolidated only \u2014 the standalone segment notes exclude this vertical because it sits in subsidiary RGML. In FY2026 the segment is classified as a discontinued operation under Ind AS 105 pursuant to the Composite Scheme (RGML \u2192 Refex Industries \u2192 Refex Mobility Limited).",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 1231.25,
      "operating_profit": -737.15,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 317 (consolidated segment note); also Annual Report 2025 \u2014 page 324"
+     "source": "Annual Report 2024 \u2014 page 317"
     },
     {
      "fy": "FY2025",
      "revenue": 3764.69,
      "operating_profit": -2683.55,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 324 (consolidated segment note); also page 82"
+     "source": "Annual Report 2025 \u2014 page 324"
     },
     {
      "fy": "FY2026",
      "revenue": 9951.53,
      "operating_profit": -3823.51,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 361 (consolidated segment note); also page 79"
+     "source": "Annual Report 2026 \u2014 page 361"
     }
    ],
    "latest_quarter": {
-    "period": "Q1 FY26 (quarter ended June 30, 2025) \u2014 latest quarter for which a Green Mobility segment figure is given; the Q1 FY27 decks carry no segment split",
+    "period": "Q1 FY26",
     "revenue": 17.24,
     "operating_profit": null,
-    "source": "Presentation Aug 2025 \u2014 page 7 (\u20b9 crore)"
+    "source": "Presentation Aug 2025 \u2014 page 7 (stated in \u20b9 crore, not \u20b9 lakh)"
    },
-   "not_found": "No segment PAT, EBITDA, tax or depreciation for Green Mobility in any year; no quarterly segment profit; no Q1 FY27 segment revenue; no RGML standalone financials."
+   "latest_quarter_notes": "No mobility-segment figures appear on the Q1 FY27 pages (Presentation Jul/Aug 2026), which report standalone continuing operations only; Q1 FY26 is the most recent quarter carrying a Green Mobility revenue figure.",
+   "not_found": "Segment PAT, tax, depreciation and EBITDA for all years; no quarterly mobility revenue after Q1 FY26 and no quarterly segment profit at all."
   }
  },
  "RELIGARE::rationale": {
@@ -3434,41 +3501,41 @@
   }
  },
  "RELIGARE::segments": {
-  "stamp": "48bd6534f7817528611effb887415ae0",
+  "stamp": "e4ff036d52a8d19efc06747f48cb0898",
   "verdict": {
-   "segment_name": "Financial Services (REL consolidated segment reporting; the financial services business being demerged, excluding Insurance)",
-   "unit": "\u20b9 crore",
-   "measure_notes": "Operating profit = 'Segment Performance', which the slide footnote defines as Profit/(Loss) before Tax (PBT). Revenue is segment revenue 'before inter-segment revenue adjustments' per slide footnote 1, i.e. it includes inter-segment amounts. No segment-level PAT is disclosed.",
+   "segment_name": "Financial Services business of REL (demerged undertaking: lending / investment and financing activities, broking activities, investment others, ancillary and support services) \u2014 reported in the annual reports as the consolidated segment \"Investment and Financing Activities\" (figures below) alongside a separate \"Broking Related Activities\" segment, and in the Feb-2026 investor presentation as a single consolidated segment labelled \"Financial Services\"",
+   "unit": "\u20b9 lakhs for the fiscal-year rows (annual report consolidated segment note); \u20b9 crore for the quarterly row (investor presentation)",
+   "measure_notes": "Revenue = External Revenue (excludes inter-segment; inter-segmental revenue printed separately: FY2024 884.40, FY2025 1,236.91, FY2026 947.98 lakhs). Operating profit = 'Segment Results' per Ind AS 108, i.e. segment profit before tax (taxes are disclosed only at total-group level, so segment PAT is not available). Figures are for the 'Investment and Financing Activities' consolidated segment ONLY; the companion 'Broking Related Activities' segment is printed separately and the pages carry NO combined financial-services annual total: Broking external revenue / segment result = FY2024 32,162.30 / 3,999.65; FY2025 31,975.44 / 2,334.85 (restated in AR2026 to 32,169.55 / 2,725.26); FY2026 30,596.56 / 1,799.90 (\u20b9 lakhs). AR2026 also restates FY2025 Investment and Financing to external revenue 10,940.17, total revenue 12,177.08, segment result 149.88 (\u20b9 lakhs), after reclassifying Support Services into Investment & Financing Activities (AR2026 p.154 note (d)). Entity-level P&Ls on the presentation pages, in \u20b9 crore: Religare Finvest Ltd total income/PBT/PAT = FY2023 275/2,925/2,925, FY2024 127/63/67, FY2025 68/24/24 (Feb 2026 p.46); Religare Broking (incl. subsidiaries) total income/PBT/PAT = FY2024 369.8/53.4/39.7, FY2025 382.7/42.9/31.3, FY2026 373.4/29.6/23.1 (May 2026 p.44).",
    "years": [
     {
      "fy": "FY2024",
-     "revenue": null,
-     "operating_profit": null,
+     "revenue": 17285.65,
+     "operating_profit": -641.86,
      "pat": null,
-     "source": "not disclosed on the supplied pages as a 'Financial Services' segment"
+     "source": "Annual Report 2024 \u2014 page 270"
     },
     {
      "fy": "FY2025",
-     "revenue": null,
-     "operating_profit": null,
+     "revenue": 10000.61,
+     "operating_profit": -470.18,
      "pat": null,
-     "source": "not disclosed on the supplied pages as a 'Financial Services' segment"
+     "source": "Annual Report 2025 \u2014 page 146"
     },
     {
      "fy": "FY2026",
-     "revenue": 537.7,
-     "operating_profit": 152.3,
+     "revenue": 15148.18,
+     "operating_profit": 13143.3,
      "pat": null,
-     "source": "Presentation May 2026 \u2014 page 10"
+     "source": "Annual Report 2026 \u2014 page 153"
     }
    ],
    "latest_quarter": {
-    "period": "Q4FY26",
-    "revenue": 166.4,
-    "operating_profit": 127.5,
-    "source": "Presentation May 2026 \u2014 page 10"
+    "period": "Q3 FY26",
+    "revenue": 143.1,
+    "operating_profit": 8.5,
+    "source": "Presentation Feb 2026 \u2014 page 10"
    },
-   "not_found": "No segment PAT any year; no 'Financial Services' segment for FY2024/FY2025 (annual reports split Investment & Financing, Broking, E-Governance, Insurance in \u20b9 lakhs); Q1FY27 deck shows no segment split."
+   "not_found": "No segment PAT any year; no combined annual lending+broking \"Financial Services\" total; no Q4 FY26 or Q1 FY27 financial-services segment split (Q1 FY27 is consolidated-only)."
   }
  },
  "MAHSEAMLES::rationale": {
@@ -5066,6 +5133,879 @@
     "source": null
    },
    "not_found": "All figures. Pages carry only a narrative note on the GE Power India boiler unit acquisition (AR2026 p117) \u2014 no revenue, EBITDA/EBIT, PAT, consideration or segment line for the boiler business."
+  }
+ },
+ "HINDUNILVR::rationale": {
+  "stamp": "5732164e4a0016f96d8dd34cb538bb7b",
+  "verdict": {
+   "rationale": "The trigger was external to India: after parent Unilever PLC announced its intention to separate its ice cream business globally, HUL's Board ran a comprehensive review through an independent committee and decided to separate its own Ice Cream Business Undertaking. The stated business reason is structural mismatch \u2014 the scheme cites ice cream's \"different operating model,\" including differentiated infrastructure for supply and distribution (cold chain), distinct capital allocation needs, and a distinct channel landscape and go-to-market strategy, which do not fit the rest of HUL's FMCG machine. Two routes were weighed on the Oct 2024 call \u2014 outright sale, or demerge and list \u2014 with the decision criteria explicitly stated as maximising shareholder value while minimising business disruption; HUL chose the demerger into Kwality Wall's (India) Limited (KWIL) on a 1:1 share entitlement ratio (Deloitte India Valuation LLP as registered valuer, Kotak Mahindra Capital fairness opinion), so every HUL shareholder directly owns the new listed ice cream company and can stay invested in its growth. Management sized the business as roughly 3% of HUL's turnover earning low single-digit EBITDA margins versus HUL's ~23%, so the carve-out mechanically lifts HUL's reported EBITDA margin by 50-60 bps (guidance 22-23% becomes an implied 22.5-23.5%), while Ritesh Tiwari argued the loss of 3% of turnover does not change HUL's scale at a kirana store. For the ice cream entity, the case is a focused, experienced, dedicated management team with flexibility to run a distinctive operating model, iconic brands (Kwality Wall's, Cornetto, Magnum) in an attractive high-growth category, and continued access to the portfolio, brand, innovation and technical expertise of the largest global ice cream business. For HUL, it is one of a sequence of portfolio-sharpening moves \u2014 divestment of atta and salt, divestment of the water business (Pureit, completed 1 Nov, unlocking circa Rs. 600 crores), and redeployment into high-growth demand spaces via Minimalist (turnover over Rs. 500 crores in FY25) and OZiva (Rs. 100 crores to Rs. 400 crores run rate; remaining 49% bought for Rs. 824 crores) \u2014 framed as 'fewer, bigger bets'. The scheme also claims a smoother transition for ice cream's people, and ring-fences ice cream creditors' claims onto the Resulting Company (with NCLT directing HUL to ensure KWIL can meet those obligations). Notably, no investor, lender, partner or regulator is named anywhere as having demanded the separation \u2014 the parent's global decision plus the Board's own review are the only sources given.",
+   "evolution": "Oct 2024: following Unilever's global announcement, HUL confirms separation in principle but not the mode \u2014 an independent committee is weighing sale versus demerger-and-listing, with a route decision targeted by end of the calendar year, and ice cream sized at ~3% of business. Jan 2025: the Board approves the scheme of arrangement to demerge into Kwality Wall's (India) Limited at 1:1, with the detailed business rationale having been laid out at the Capital Markets Day, alongside the Pureit divestment and Minimalist acquisition. Apr 2025 and Oct 2025: execution-only updates \u2014 on track with regulatory requirements, completion by end-FY2026, then a specified two-step sequence (demerger in the December quarter with ice cream reported as discontinued, listing in Q4 FY26) plus the first explicit margin arithmetic of 50-60 bps. Feb 2026: demerger completed in the December quarter, with one-time non-cash demerger gain inside reported PAT of Rs. 6,603 crores (+121%), continuing-business EBITDA margin of 23.3%, KWIL listing on 16 February; by May 2026 it is cited retrospectively as a completed portfolio-rotation action already improving the growth mix.",
+   "points": [
+    {
+     "call": "Oct 2024",
+     "point": "The mode of separation was still open: sale versus demerge-and-list, with an independent committee and then the Board to decide, judged on shareholder value maximisation and minimal business disruption, with a conclusion targeted by end of the year.",
+     "quote": "And of course, the key objective that the independent committee and hence, Board going forward, will end up making a decision on is -what's the best route in which we can maximize shareholder value and minimize business disruption."
+    },
+    {
+     "call": "Oct 2024",
+     "point": "Ritesh Tiwari pre-empted the dis-synergy worry on distribution: ice cream is only ~3% of the business, so HUL's scale at a typical kirana store is not materially changed, and normal growth accretion more than replaces it.",
+     "quote": "So, for typical kirana store, it does not change anywhere materially - the scale at which we operate in the kirana store, it does not impact to start with."
+    },
+    {
+     "call": "Oct 2024",
+     "point": "The process was explicitly framed as a consequence of the parent's decision, with HUL giving sequential quarterly updates on where it stood.",
+     "quote": "And the way we have done -- last quarter we communicated where we were in the process after Unilever globally announced its decision to separate."
+    },
+    {
+     "call": "Jan 2025",
+     "point": "Board approved the scheme to demerge into Kwality Wall's (India) Limited at a 1:1 entitlement, so the entire shareholding sits directly with HUL shareholders and they participate in the new company's value creation.",
+     "quote": "Pursuant to the scheme, 1 equity share of the new entity will be allotted for every 1 equity share held in HUL."
+    },
+    {
+     "call": "Jan 2025",
+     "point": "The stated benefit for the ice cream entity was management focus and strategic flexibility suited to a business model different from HUL's, in a high-growth category with iconic brands.",
+     "quote": "The demerger will equip an experienced management with greater focus and flexibility to deploy strategies suited to its distinctive business"
+    },
+    {
+     "call": "Jan 2025",
+     "point": "The demerger was positioned as part of a run of portfolio choices \u2014 after the atta and salt divestment, the water (Pureit) divestment, and alongside the Minimalist acquisition \u2014 all aimed at sharper focus and higher-growth demand spaces.",
+     "quote": "After the divestment of our atta and salt business, we have continued to drive sharper focus in the business this year by making strategic portfolio choices, including divestment of water business and decision to demerge Ice Cream business."
+    },
+    {
+     "call": "Jan 2025",
+     "point": "Context for the decision: ice cream revenue was flat year-on-year while HUL held EBITDA at 23.7%, PAT BEI flat at INR7,723 crores and PAT up 6% to INR8,151 crores, with near-term EBITDA guided to the lower end of 23-24%.",
+     "quote": "Ice Cream revenue remained flat year -on-year."
+    },
+    {
+     "call": "Apr 2025",
+     "point": "Execution update placing the demerger among value-unlocking portfolio actions (Pureit circa Rs. 600 crores, Minimalist over Rs. 500 crores turnover, OZiva Rs. 100 crores to Rs. 400 crores), with completion guided to end-FY2026.",
+     "quote": "The demerger of Ice cream business Is progressing on track with regulatory requirements, and we expect It to be completed by the end of financial year 2026."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "First explicit margin quantification: ice cream runs below HUL's average margin, so its removal adds 50-60 bps to reported EBITDA margin on top of the unchanged 22-23% guidance (which management stressed was not an upgrade).",
+     "quote": "Coming to EBITDA margin, Ice Cream demerger is expected to result in an improvement of 50-60 bps to the reported margin as Ice Cream business operates at a margin lower than HUL average."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "Size and profitability of the carved-out business restated \u2014 roughly 3% of turnover at low single-digit margin, running even below that this year because of monsoon impact and investments.",
+     "quote": "Ice Cream, as we had called out even earlier, it's roughly 3-odd percentage of our business. and the business makes low single-digit margin."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "Mechanics spelled out as two steps: demerger in the December quarter with ice cream reported as discontinued business, then listing in the March quarter, subject to regulatory approvals.",
+     "quote": "Second, in March quarter at the end of the financial year, we'll end up listing the company."
+    },
+    {
+     "call": "Oct 2025",
+     "point": "The separated business was deteriorating at the point of exit, hit by an extended monsoon on top of the GST transition.",
+     "quote": "Ice Cream business declined year on year, impacted by extended monsoon in addition to GST transition."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Demerger completed in the December quarter; reported numbers now exclude ice cream, with continuing-business EBITDA of Rs. 3,788 crores (23.3% margin) and reported PAT of Rs. 6,603 crores up 121%, inflated by a one-time non-cash demerger gain and OZiva/Minimalist fair valuation.",
+     "quote": "And the second item is one- time non -cash gain arising from Ice Cream demerger accounted for in accordance with the approved scheme of demerger and applicable accounting standards."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "The forward case for the standalone entity rests on dedicated management and singular focus capturing India's growing ice cream opportunity; listing date set for 16 February.",
+     "quote": "With a dedicated management team and singular focus, we are confident that KWIL is well positioned to capitalise on the growing market opportunity in India and deliver sustained performance."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Niranjan Gupta confirmed the post-demerger margin framing: the 22-23% guidance stands with the ~50 bps ice cream benefit on top, i.e. an implied 22.5-23.5%.",
+     "quote": "We also outlined that the range, therefore, you will see a benefit of the ice cream demerger to the extent of 50 basis points."
+    },
+    {
+     "call": "May 2026",
+     "point": "Retrospective framing: the demerger plus OZiva and Minimalist are described as portfolio rotation that is already improving the quality and growth profile of the remaining business, alongside Rs. 2,000 crores of premium Beauty and Home Care capex and a Unified India reorganisation.",
+     "quote": "Strategic actions such as the demerger of Ice Cream, along with the investments at OZiva and Minimalist, are already enhancing the growth mix of the portfolio."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing names the parent's global announcement as the trigger and lists the structural reasons: a different operating model with differentiated supply and distribution infrastructure, separate capital allocation needs, and a distinct channel landscape and go-to-market strategy.",
+     "quote": "Following the announcement by the Demerged Company\u2019s parent entity, Unilever PLC, of its intention to separate its ice cream business globally, the Board of the Demerged Company had undertaken a comprehensive review and had decided to separate the Ice Cream Business Undertaking in view of its different operating model, including differentiated infrastructure for supply and distribution, capital allocation needs, distinct channel landscape and go-to- market strategy."
+    },
+    {
+     "call": "Scheme",
+     "point": "Objective is an independent listed ice cream company \u2014 a leading listed player in India built on Kwality Wall's, Cornetto and Magnum, with focused management and flexibility for its distinctive operating model and market dynamics.",
+     "quote": "the Ice Cream Business Undertaking (as defined in the Scheme) operates in an attractive high-growth category and has built iconic brands such as \u2018Kwality Wall\u2019s\u2019, \u2018Cornetto\u2019 and \u2018Magnum\u2019 and the Demerger would create a leading listed ice cream company in India, which will have a focused management with greater flexibility to deploy strategies suited to its distinctive operating model and market dynamics, to realise its full potential;"
+    },
+    {
+     "call": "Scheme",
+     "point": "The new entity is to retain access to the global ice cream organisation's portfolio, brands, innovation and technical expertise \u2014 the implicit answer to why a standalone Indian entity is not disadvantaged.",
+     "quote": "the Resulting Company will have ability to benefit from the portfolio, brand and innovation resources and technical expertise from the largest global ice cream business enabling it to keep winning in the market space;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefits claimed for the remaining HUL are sharper focus and acceleration in high-growth demand spaces to strengthen a future-fit portfolio, plus value unlock and optionality for shareholders to stay invested in ice cream, and a smoother transition for ice cream's people.",
+     "quote": "the Demerger will enable the Demerged Company to drive sharper focus in the business as it further accelerates its play in high- growth demand spaces, strengthening its future fit portfolio;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Consideration is a straight 1:1 share entitlement, valued by Deloitte India Valuation LLP with a Kotak Mahindra Capital fairness opinion; ice cream creditors' claims pass entirely to the Resulting Company, with NCLT directing HUL to ensure KWIL can meet those obligations.",
+     "quote": "for every 1 (one) equity share of face value of Re. 1/- fully paid up held in the Demerged Company, 1 (one) equity share(s) of face value of Re. 1/- credited as fully paid up in the Resulting Company"
+    }
+   ],
+   "what_management_expects": "For HUL: ~50-60 bps higher reported EBITDA margin (22-23% guidance becoming an implied 22.5-23.5%), sharper focus and capital redeployed into high-growth spaces (Beauty & Wellbeing, Foods, OZiva, Minimalist), with an improved growth mix and no material loss of kirana-level scale. For KWIL: a leading listed Indian ice cream company with dedicated management, flexibility for its own cold-chain and channel model, continued global brand/innovation/technical support, and value unlock via direct 1:1 shareholding.",
+   "gaps": "No standalone KWIL financials, royalty/brand-licence, supply or transition-services terms, no capex or capital-structure plan, no valuation, and no stated reason demerger beat a sale."
+  }
+ },
+ "HINDUNILVR::segments": {
+  "stamp": "f628caed5958979bc4dc6d720c7c1a06",
+  "verdict": {
+   "segment_name": "Ice Cream Business (Discontinued Operations) \u2014 demerged into Kwality Wall's (India) Limited (KWIL)",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Revenue = 'Segment Revenue from Discontinued Operations'; operating_profit = 'Segment Results from Discontinued Operations' (segment result = profit before other income, finance costs, exceptional items and tax, i.e. EBIT-type); no intersegment transactions, so revenue is external. PAT = 'Profit/(Loss) for the year from Discontinued Operations'; FY2026 PAT of 4,407 includes the large one-off gain recognised on the Ice Cream demerger and is therefore not an operating earnings figure (PBT before exceptional items from discontinued ops was -135). FY2026 discontinued-operations figures cover only the period to the demerger (KWIL demerger completed 30th November 2025), not a full twelve months; FY2025 is a full year, restated as discontinued operations. FY2024 reports ice cream only inside 'Foods & Refreshment' with no separate line.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 213 (ice-cream not separately disclosed; included in Foods & Refreshment)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 1793,
+     "operating_profit": 43,
+     "pat": -9,
+     "source": "Annual Report 2026 \u2014 page 229"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 1257,
+     "operating_profit": -122,
+     "pat": 4407,
+     "source": "Annual Report 2026 \u2014 page 229"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "No standalone Ice Cream revenue/profit for FY2024; no quarterly Ice Cream revenue, EBIT or PAT in any presentation page; no Ice Cream assets, capex or depreciation split."
+  }
+ },
+ "GABRIEL::rationale": {
+  "stamp": "c59b9d5a57525c77ed4538bb2fc48d5c",
+  "verdict": {
+   "rationale": "Despite the framing of a \"separation,\" what the texts describe is an inbound restructuring: Gabriel India is not carving out one of its own businesses but receiving one. On 1 July 2025 the Board approved a composite scheme in which Anchemco India Private Limited (formerly Andasia Private Limited) first amalgamates into the promoter holding vehicle Asia Investments Private Limited (AIPL), after which AIPL's \"Automotive Undertaking\" is demerged into Gabriel India as the Resulting Company \u2014 bringing four promoter-held entities and JVs (Anchemco, Dana Anand, Henkel ANAND and ANAND CY Myutec) under the listed company. Management's stated reasons were threefold: convert Gabriel from a single-product company (suspension/ride-control) into a diversified product company; deepen collaboration with foreign strategic partners (Dana, Henkel, CY Myutec; Inalfa was cited separately on technology) and capture economies of scale, shared resources, a wider customer base, supply-chain synergies and a bigger aftermarket portfolio; and simplify the group structure so that Gabriel becomes \"the growth engine for the automotive business.\" Chairperson Anjali Singh tied it to a group revenue ambition of INR50,000 crores by 2030 and positioned Gabriel as the group's vehicle for future growth and long-term value creation. The explicit investor angle was named by management itself: the deal \"addresses the repeated queries of investors on product diversification, M&A\" by folding mature JVs into Gabriel. The financial argument was that Gabriel scales up with no leverage and no cash outlay, with roughly 40% EPS accretion on a current-scale basis and an enhanced ability to raise funds for future organic and inorganic growth. Costs/risks flagged in the filing rather than the calls: promoter shareholding rises on implementation, with NSE requiring the company to explain that increase and its impact on public shareholders' rights and value; approvals needed were creditors, SEBI/stock exchanges, NCLT and majority-of-minority shareholders over a 10\u201312 month timeline.",
+   "evolution": "The idea surfaced fully formed on the 1 July 2025 transaction call, held a day after Board approval and restricted by the moderator to the announced transaction, where management said it had been \"actively evaluating organic and inorganic opportunities\" and named the four target entities, the two-step merger-then-demerger mechanics, a 10\u201312 month approval timeline and ~40% EPS accretion. By the 10 February 2026 call the plan had not changed in substance, only advanced procedurally: NSE no-objection (observation letter dated 17 November 2025), NCLT application filed, first motion heard in early January 2026 and the scheme admitted by order dated 29 January 2026, with management stressing it was \"very much on track\" against the original timeline; the NCLT-directed shareholder meeting was convened for 18 March 2026. On the 28 May 2026 call, management confirmed shareholder and NCLT approvals and an effective date of 22 May 2026, i.e. roughly the 10\u201312 months originally guided, alongside an FY26 dividend of INR5 per share versus INR4.7 in FY25. Across the three calls no change in scope, consideration or entity list is disclosed in these passages.",
+   "points": [
+    {
+     "call": "Jul 2025",
+     "point": "Chairperson Anjali Singh framed the composite scheme as a corporate-structure realignment to unlock synergies and sharpen competitiveness, with Gabriel as the group's growth vehicle and platform for long-term value creation.",
+     "quote": "This scheme of arrangement marks a meaningful step forward in realizing our group's strategic vision, realigning the corporate structure to unlock synergies and enhance our competitive edge."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "The group-level ambition behind the restructuring was quantified as INR50,000 crores of group revenue by 2030, with Gabriel leading it.",
+     "quote": "With an ambitious group revenue target of INR50,000 crores by 2030, Gabriel India is poised to lead the charge, redefining its legacy and setting new benchm"
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Management said it had been evaluating organic and inorganic options and had identified promoter-held businesses and investments to acquire through a scheme rather than a cash purchase.",
+     "quote": "Also, we have identified a few businesses and investments for potential acquisition through a scheme of arrangements, which have been held by the promoters of Gabriel."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Four target entities were named on the call: Anchemco, Dana Anand, Henkel ANAND and ANAND CY Myutec.",
+     "quote": "S o right now, we are looking at four entities An chemco, Dana Anand, Henkel ANAND and A NAND CY Myutec."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Mechanics were two-step (Slide 7): Anchemco merges into AIPL first, then the automotive undertaking is demerged out of AIPL into Gabriel.",
+     "quote": "So as a first step, the merger of Anchemco into AIPL happens, then deme"
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Approvals required were creditors, NCLT, stock exchanges, shareholders including majority of minority, over a guided 10\u201312 month timeline.",
+     "quote": "This is obviously subject to the key approvals from the creditors, NCLT, stock exchanges, shareholders, majority of minority and the time lines that we are looking at is 10 to 12 months subject to the regulatory approvals."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Rationale one: move Gabriel from a single-product company to a diversified product company, with closer work with the foreign strategic partners and scale/shared-resource synergies.",
+     "quote": "We are looking at enhanced collaboration with the foreign strategic partners and obviously, achieving synergies through economies of scale and shared resources."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Rationale two: domestic dominance plus global presence \u2014 a wider customer base, supply-chain synergies, use of global relationships and a larger portfolio that also lifts aftermarket presence.",
+     "quote": "So we look at expanding the customer base, we are looking at better supply chain synergies, leveraging the global relationships and obviously the larger product portfolio, wherein we are also able to enhance our aftermarket presence."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Rationale three: simplify the group structure by consolidating AIPL's demerged automotive undertaking into Gabriel, making Gabriel the group's automotive growth engine.",
+     "quote": "So this will consolidate the business of demerged undertaking of AIPL into automotive components making Gabriel the growth engine for the automotive business in the future."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Management explicitly said the deal answers investors' repeated questions about product diversification and M&A by bringing the group's mature JVs inside the listed entity.",
+     "quote": "And this also add resses the repeated queries of investors on product diversification, M&A by br inging the existing mature JVs under Gabriel fold."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Financially, Gabriel gains scale with no debt and no cash payout, with ~40% EPS accretion on current scale and better capacity to fund future growth.",
+     "quote": "This helps Gabriel scale up without any leverage or cash outlay, accretion of EPS has been already explained by the Chairperson."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "The 40% figure and the fundraising argument were stated on a current-scale basis as part of the same rationale slide.",
+     "quote": "We are looking at a 40% on a current scale basis and the enhanced ability to raise the funds for future organic and inorganic growth."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Dana Anand, one of the demerged JVs, was described as dating back to 1993 \u2014 management's point that these are mature, established businesses rather than start-ups.",
+     "quote": "If you look at Dana Anand was established in 1993."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Management said it remains open to opportunities outside India and had explored a couple that did not clear its value-for-stakeholders test.",
+     "quote": "A couple of them, to be honest, we have explored."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Investor Viraj Kacharia (Q&A) pressed for near-term and medium-term synergy quantification, noting existing sales interlinks between Gabriel and the target entities.",
+     "quote": "So I'm just trying to ask is, are there any low -hanging fruits either in terms of synergies you think, be it sales or costs, which can play out in the near term for you?"
+    },
+    {
+     "call": "Jul 2025",
+     "point": "CEO Atul Jaggi answered with examples rather than numbers, deferring quantification to later as the integration unfolds.",
+     "quote": "So I can give you a couple of examples, again of the synergies that we see in the, I would say, in the short run."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Asked by Ananya Khanna (Alpha Alternatives) when approvals would come, Mohit Srivastava confirmed the stock-exchange NOC and the NCLT filing.",
+     "quote": "So on the scheme of arrangement, we received the NOC from st ock exchange and post that, we filed our application to NCLT."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "First motion was heard in early January 2026 and the scheme admitted with the order announced by end-January, available on the NCLT website.",
+     "quote": "I'm happy to share that the first motion hearing happened in early January."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Management insisted the scheme was running to the originally guided timetable, i.e. no change to the plan.",
+     "quote": "So we are very much on track what original time we had planned for this scheme and we've been p rogressing very well on this front."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "On product mix, management said partner technology (Inalfa) would let Gabriel sell newer-technology products with a different margin profile, long term rather than immediately.",
+     "quote": "There, definitely, I think Inalfa being very strong in technology, we are also trying to offer some newer technology products to customers."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "The portfolio was framed as a mix of standard and new-technology products with differing margins, the stated aim being to bring in more technology.",
+     "quote": "The idea is to bring more technology."
+    },
+    {
+     "call": "May 2026",
+     "point": "Management confirmed completion: Anchemco into AIPL, then demerger of the automotive undertaking into Gabriel, with shareholder and NCLT approvals received.",
+     "quote": "So, I would like to update you all that the composite scheme involving the amalgamation of Anchemco India Private Limited into Asia Investment Private Limited followed by the demerger of automotive undertaking into Gabriel India has now received key shareholder and NCLT approvals."
+    },
+    {
+     "call": "May 2026",
+     "point": "The scheme's effective date was 22 May 2026, roughly within the 10\u201312 months guided in July 2025.",
+     "quote": "The scheme is becoming effective from 2 2 nd May 2026."
+    },
+    {
+     "call": "May 2026",
+     "point": "Alongside the restructuring, FY26 dividend rose to INR5 per share (INR3.1 final plus INR1.9 interim) from INR4.7 in FY25, and management called the Indian auto outlook positive on policy, infrastructure, localization and consumer demand.",
+     "quote": "The total dividend for FY26 stands at INR5 per equity share compared to INR4.7 per equity share declared in FY25."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing text supplied is NSE's Regulation 37 observation letter (17 November 2025), which conveys no-objection but disclaims any view on the scheme's financial soundness or the statements in it.",
+     "quote": "SEBI and NSE does not take any responsibility either for the financial soundness of any scheme or for the correctness of the statements made or opinions expressed in the documents submitted."
+    },
+    {
+     "call": "Scheme",
+     "point": "NSE required Gabriel to disclose the need for the merger and demerger, the rationale, the synergies, shareholder impact and a cost-benefit analysis \u2014 meaning the rationale itself sits in the shareholder explanatory statement, not in this letter.",
+     "quote": "Need for the merger and demerger, Rationale of the scheme, Synergies of business of the entities involved in the scheme, Impact of the scheme on the shareholders and cost benefit analysis of the scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "A key investor-protection point: promoter shareholding increases on implementation, and NSE told shareholders to read the scheme documents before voting.",
+     "quote": "Therefore, investors should read all the scheme related documents before exercising their voting rights."
+    },
+    {
+     "call": "Scheme",
+     "point": "NSE also demanded a specific explanation of why promoter/promoter-group holding rises and what it does to public shareholders' rights and the value of their holding.",
+     "quote": "The above disclosure shall also be accompanied by a brief explanation regarding the reasons for the increase in shareholding of Promoter/Promoter Group and its impact on the public shareholders in terms of their rights and value of their holding in the Com pany."
+    },
+    {
+     "call": "Scheme",
+     "point": "The exchange required disclosure of the registered valuer, the merchant banker's fairness opinion and the methods and rationale behind the share-swap ratio \u2014 none of which appears in the supplied text or on the calls.",
+     "quote": "Details of Registered Valuer issuing Valuation Report and Merchant Banker issuing Fairness opinion, Summary of methods considered for arriving at the Share -Swap Ratio and Rationale for using above methods."
+    },
+    {
+     "call": "Scheme",
+     "point": "Three years of revenue, PAT and EBITDA for both GIL and AIPL, plus assets/liabilities transferred and the post-merger balance sheet, were required disclosures.",
+     "quote": "Details of Revenue, PAT and EBIDTA of GIL and AIPL for last 3 years."
+    },
+    {
+     "call": "Scheme",
+     "point": "NSE required disclosure of integration challenges, market conditions and financial uncertainties \u2014 the risk side that the calls did not address.",
+     "quote": "Details of potential benefits and risks associated with the merger demerger, including integration challenges, market conditions and financial uncertaintie s."
+    },
+    {
+     "call": "Scheme",
+     "point": "The structure is defined precisely: Anchemco India Private Limited (formerly Andasia Private Limited) amalgamates into Asia Investments Private Limited, whose Automotive Undertaking is then demerged into Gabriel India as Resulting Company under Sections 230\u2013232.",
+     "quote": "Sub.: Notice of meeting of the Equity Shareholders of Gabriel India Limited to be convened as per directions of Hon\u2019ble National Company Law Tribunal , Mumbai Bench (\u201cNCLT\u201d) in the matter of Composite Scheme of Arrangement for Amalgamation of Anchemco  India Private Limited (formerly known as Andasia Private Limited) (the \u201cTransferor Company\u201d) with and into Asia Investments Private Limited (the \u201cTransferee Company\u201d for Part C of the Scheme and the \u201cDemerged Company\u201d for Part D of the Scheme); and Demerg er of Automotive Undertaking (as defined in the proposed scheme) of Asia Investments Private Limited (the \u201cTransferee Company\u201d for Part C of the Scheme and the \u201cDemerged Company\u201d for Part D of the Scheme) into Gabriel India Limited (the \u201cResulting Company\u201d ) and their respective Shareholders , under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013  (\u201cScheme\")."
+    },
+    {
+     "call": "Scheme",
+     "point": "The NCLT ordered the shareholder meeting on 29 January 2026; it was convened for 18 March 2026 by video conference, with e-voting 15\u201317 March and an 11 March cut-off.",
+     "quote": "The notice is being circulated pursuant to the directions issued by the Hon'ble National Company Law Tribunal, Mumbai bench vide its order dated January 29, 2026, for the purpose of considering and, if deemed appropriate, approving the proposed Scheme, with or without modification(s), under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013."
+    },
+    {
+     "call": "Scheme",
+     "point": "The observation letter was valid six months from 17 November 2025 for filing with NCLT, and listing/trading of the new shares must start within 60 days of the NCLT order.",
+     "quote": "The validity of this \u201cObservation Letter\u201d shall be six months from November 17, 2025 , within which the Scheme shall be submitted to NCLT."
+    }
+   ],
+   "what_management_expects": "For Gabriel: diversification from single-product to multi-product, ~40% EPS accretion on current scale, scale with zero leverage or cash outlay, stronger fundraising capacity, wider customer base, supply-chain and aftermarket synergies, and new-technology products (via partners like Inalfa) carrying a different margin profile. For the group: a simplified structure, Gabriel as the automotive growth engine, and INR50,000 crores group revenue by 2030.",
+   "gaps": "No swap ratio, valuation, target-entity revenue/EBITDA, quantified synergies, promoter-stake-increase justification, integration risks, dis-synergies, or why partners/lenders consented."
+  }
+ },
+ "GABRIEL::segments": {
+  "stamp": "f2975391d466ca75170d7573082dae04",
+  "verdict": {
+   "segment_name": "Automotive (Demerged) Undertaking of Asia Investments Private Limited \u2014 business of Anchemco India Private Limited (brake fluids, radiator coolants, DEF/Ad-blue, PU/PVC adhesives) plus investments in Dana Anand, Henkel Anand and ANAND CY Myutec",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Only the operating business of the undertaking (Anchemco India) is disclosed with its own P&L; figures are proforma consolidated numbers derived from audited financials of Anchemco India Pvt Ltd, Ansysco LLP and Anchemco Anand LLP (Presentation Jun 2025 \u2014 page 16, note 2). Revenue = 'Revenue from operations' (external, standalone-entity basis, not inter-segment). operating_profit = EBITDA as labelled (FY2024 margin 12.1%, FY2025 11.6%). pat = PAT as labelled. No combined undertaking-level P&L (Anchemco business + the three JV investments) is given anywhere in the pages; the JVs are separate equity holdings reported individually (Dana Anand, Henkel Anand, ACYM) and are not consolidated into the undertaking's revenue/EBITDA/PAT. Note: the documents' column headings '2023 / 2024 / 2025' are fiscal years ended March.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 311,
+     "operating_profit": 38,
+     "pat": 18,
+     "source": "Presentation Jun 2025 \u2014 page 16"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 329,
+     "operating_profit": 38,
+     "pat": 14,
+     "source": "Presentation Jun 2025 \u2014 page 16"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": null
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "No FY2026 Anchemco figures, no quarterly/half-year figures for the undertaking, and no combined undertaking P&L including the Dana Anand, Henkel Anand and ACYM investments."
+  }
+ },
+ "INOXGREEN::rationale": {
+  "stamp": "7e8f8248ec0158aa2a20dd4ee6ceb0d8",
+  "verdict": {
+   "rationale": "Inox Green Energy Services (IGESL) is hiving off its Power Evacuation / substation, connectivity and common-infrastructure business into Inox Renewable Solutions Ltd (IRSL, the renamed Resco Global, which already runs the evacuation and EPC business), so that IGESL becomes a pure-play, zero-capex, annuity wind/solar O&M company and IRSL consolidates all evacuation plus EPC into one entity. The scheme's stated logic is that O&M and power evacuation have separate and distinct risks, rewards, financial profiles, competition and opportunities, and that the evacuation business can attract a different set of investors, strategic partners, lenders and other stakeholders, so consolidating it in IRSL unlocks value and gives each business independent focus; the scheme ends in two listed entities, one O&M and one EPC+evacuation. Management's central operating argument is accounting distortion: roughly INR1,000 crores of gross block sits on IGESL's balance sheet for substations on which it is, in Devansh Jain's words, only a trustee \u2014 already paid for by customers \u2014 and that block drags about INR50-55 crores of annual depreciation that masks true profitability, so EBITDA has had to be used as a proxy for PAT. Removing it makes the balance sheet 'cleaner and asset light', eliminates the depreciation, raises PBT by that amount (PBT becomes roughly equal to EBITDA and to cash profit, against FY27 EBITDA guidance of upwards of INR600 crores), and significantly improves ROE and ROCE, while only INR4-5 crores (later described as about INR10 crores) of revenue leaves and interest cost is unaffected. The transfer could not be done earlier because moving the historical substations would have required consent from over 200 O&M customers, who management said would have used it to renegotiate contracts and damage the O&M business; all new substations and transmission lines are already being built under Resco, so there is no future evacuation capex in IGESL. Shareholders also get paper: IGESL shareholders receive IRSL shares (management cited broadly 20% of Resco) with automatic listing of IRSL, which had raised INR175 crores at about a INR7,400 crores valuation, and the INR700 odd crores of accumulated tax losses stay with IGESL because they sit at company level, not asset level. The pressure came mainly from analysts and investors who could not isolate O&M EBITDA (Jatin Chawla, Nov 2023) and who repeatedly asked what the demerger does to revenue, depreciation, tax losses and value unlocking; debenture holders representing 100% in value voted unanimously in favour, and shareholders and creditors approved before NCLT sanction.",
+   "evolution": "The seed appears in the [Nov 2023] call, where management could not show clean O&M EBITDA because traded-goods margins of INR7-8 crores, IPO charges and the fact that the entity 'had not been demerged from the EPC perspective' were mixed in. By [Aug 2024] the board had appointed consultants and registered valuers for the demerger of the power evacuation business, with a 6-9 month timeline, consequential listing of Resco, and the trustee/200-customer explanation of why it had not happened earlier; [Nov 2024] repeated that status verbatim. In [Feb 2025] the scheme was drafted with BSE/NSE approvals expected in early February and NCLT taking a further 6-9 months, Resco renamed Inox Renewable Solutions, and sizing added (20% of Resco to IGESL holders, INR700 crores tax losses retained); by [Sep 2025] exchange no-objections were in and the scheme filed at NCLT Ahmedabad with the INR1,000 crores gross block / INR50-55 crores depreciation framing, [Nov 2025] added shareholder and creditor approval and recast IRSL as Inox Wind's EPC arm, [Feb 2026] had it in final NCLT hearings, and [Jun 2026] reported NCLT approval with the depreciation already eliminated and IRSL listing pending administrative approvals.",
+   "points": [
+    {
+     "call": "Nov 2023",
+     "point": "Analysts could not extract O&M EBITDA because traded-goods margins (INR7-8 crores, under related-party compliance), one-time charges and IPO expenses were mixed in, and because the entity had not been separated from the EPC side \u2014 the earliest signal of the structural muddle the demerger later fixes.",
+     "quote": "Plus, there were various other charges given that this entity had not been demerged from the EPC perspective plus the charges for the IPO."
+    },
+    {
+     "call": "Nov 2023",
+     "point": "Management admitted the disclosed segment numbers could not be unpicked by investors and offered a separate call with the finance team on one-time and IPO items.",
+     "quote": "No, you won't be able to find that out because we could not apportion the profit margin on the traded goods in that."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "The board formally appointed consultants and registered valuers to evaluate the demerger of the power evacuation business from Inox Green, with initiation subject to valuation reports and board approval.",
+     "quote": "The board of Inox Green has appointed consultants and registered valuers for evaluating the demerger of power evacuation business from Inox Green."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "The stated benefit was a cleaner, asset-light balance sheet plus value added through elimination of depreciation.",
+     "quote": "Demerger of power infrastructure facilities currently on the balance sheet of Inox Green will result in a cleaner and asset light balance sheet."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "Devansh Jain gave a 6-9 month timeline from board approval and said the outcome would be the consequential listing of Resco carrying Inox Green's power evacuation infrastructure.",
+     "quote": "And post evaluation of reports and subject to the Board approval, the demerger would take place, which would lead to consequential listing of Resco, along with the power evacuation infrastructure of Inox Green."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "The core problem: Inox Green is only a trustee of historical substations already paid for by customers, and they could not be moved to Resco earlier without consent from over 200 O&M customers who would have renegotiated contracts; all new evacuation assets are already built under Resco.",
+     "quote": "We could not shunt it out from this balance sheet into Resco because that would have entailed taking approval from over 200 customers and then arm twisting us in terms of renegotiating contracts and screwing the entire O&M business."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "Management framed residual Inox Green as a zero-capex annuity O&M business with no land banks and no future power evacuation, its balance sheet 'unnecessarily inflated' by the legacy substations.",
+     "quote": "Inox Green's balance sheet is unnecessarily inflated thanks to these historical substations which are lying on its balance sheet of which we are actually the trustee."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "Answering investor Bhavya Shah, CFO Manish Garg quantified the P&L impact: no interest-cost effect and only about INR4-5 crores of annual revenue leaving with the demerged assets.",
+     "quote": "So Bhavya, to be very precise, there would be no impact on the interest cost as such, but a little bit of the revenue will go away, which is a very miniscule number."
+    },
+    {
+     "call": "Nov 2024",
+     "point": "Status repeated unchanged a quarter later \u2014 valuers and consultants appointed, process to start after valuation reports and board approval, with the same asset-light and depreciation-elimination rationale.",
+     "quote": "The demerger of power infra facilities currently on the balance sheet of INOX Green will result in a cleaner and asset -light balance sheet."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Akhil Jindal told investors to treat EBITDA as the benchmark for PAT because the heavy depreciation now in Inox Green's numbers will transfer to Resco with the assets \u2014 an explicit admission that reported profit understates the business.",
+     "quote": "There is a significant amount of depreciation charges that is being reflected in our current numbers, which would be transferred to Resco as assets get transferred."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Process detail: BSE/NSE approvals expected in the first week to 15 days of February, then NCLT taking another 6-9 months, with hopes of completion within calendar 2025 and Resco renamed Inox Renewable Solutions Limited being listed.",
+     "quote": "Once the regulatory approval comes in, the demerger will be done through NCLT and that would take, say, another 6 to 9 months as the case may be."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Answering investor Deepak Sharma, S.K. Mathusudhana said Inox Green shareholders benefit twice \u2014 they receive Resco shares (he cited broadly 10%, then broadly 20% of Resco) and the full depreciation disappears so EBITDA converts to PBT and PAT.",
+     "quote": "Secondly, after this merger, demerger will get completed, the complete depreciation will be go away from the financial numbers, and our EBITDA would be as Mr. Akhil has said will translate to PAT and P BT."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Asked by analyst Akhilesh whether the demerger removes accumulated tax losses, management confirmed the INR700 odd crores of losses sit at company level, not asset level, and stay with Inox Green.",
+     "quote": "So the tax losses would be on a company level, not on an asset level."
+    },
+    {
+     "call": "Sep 2025",
+     "point": "Scheme received no-objection from the stock exchanges and was filed at NCLT Ahmedabad; management sized the effect as roughly INR1,000 crores of gross block off the balance sheet and INR50-55 crores of annual depreciation eliminated, lifting PBT and improving ROE and ROCE, with approval expected in 2-3 quarters.",
+     "quote": "Once the scheme is approved by the NCLT, the gross block of around INR1,000 crores will be off our balance sheet and subsequently the depreciation of approximately INR50 crores to INR55 crores annually will be eliminated , thereby increasing the PBT by that amount."
+    },
+    {
+     "call": "Sep 2025",
+     "point": "IRSL's standalone value was already being established: INR175 crores raised at roughly INR7,400 crores valuation, with EPC, blade and transformer manufacturing housed there and margin guidance raised to 18-19% for FY26.",
+     "quote": "We have recently raised INR175 crores at Inox Renewable Solutions at a valuation of approximately INR7,400 crores."
+    },
+    {
+     "call": "Sep 2025",
+     "point": "Investor Hansal Thakkar pushed further, asking whether IGESL and IRSL would eventually be demerged into the hands of Inox Wind shareholders; Akhil Jindal restated that the scheme covers only the substation, connectivity and common infrastructure, with automatic listing of Resco giving Inox Green holders its shares.",
+     "quote": "As I mentioned to you last time, the attempt was to de -merge the substation business and the connectivity and common infrastructure from INOX Green into Inox Resco."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "Shareholders and creditors approved the scheme; management framed it as value-accretive for both parents \u2014 IRSL listing as Inox Wind's EPC arm, Inox Green losing the depreciation on the demerged asset blocks.",
+     "quote": "This will add value for both Inox Wind, with subsequent listing of Inox Renewable solution as an EPC arm of Inox Wind, and Inox Green with elimination of depreciation on demergers of the asset blocks"
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Scheme in final stages of hearing at NCLT Ahmedabad; management reiterated INR1,000 crores gross block and INR50-55 crores depreciation elimination, expecting NCLT approval in about a month and listing 1 to 1.5 months after, i.e. roughly 2-3 months in all, while refusing to commit to dates.",
+     "quote": "Finally, I would like to inform our investors that the scheme of demerger of substation business from Inox Green and its subsequent merger into Inox Renewable Solutions is in the final stages of hearing at Hon \u2019ble NCLT Ahmedabad."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "With zero depreciation post demerger and virtually nil finance cost, management confirmed to analyst Utkarsh Somaiya that PBT equals EBITDA and equals cash profit on FY27 EBITDA of upwards of INR600 crores, with a 25% deferred tax book entry (accounting PAT ~INR450 crores) but no cash tax outgo because of the tax shield.",
+     "quote": "So, our PBT would be equivalent to EBITDA."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Revenue leakage was re-quantified for investor Prit Nagersheth as only about INR10 crores leaving against roughly INR50 crores of depreciation \u2014 no material impact on the earnings math.",
+     "quote": "So post the demerger, as we have clarified on the multiple cores, there would be a very limited amount of revenue in the range of INR 10 odd crore will get out of the balance sheet."
+    },
+    {
+     "call": "Jun 2026",
+     "point": "NCLT Ahmedabad sanctioned the scheme; the INR1,000 crores gross block and INR50-55 crores of annual depreciation have been eliminated, ROE and ROCE have improved, and IRSL will be automatically listed once remaining approvals are received (Devansh Jain put completion at 1-2 months of administrative process).",
+     "quote": "With this gross block of approximately INR1,000 crores has been elimin ated from Inox Green's balance sheet."
+    },
+    {
+     "call": "Jun 2026",
+     "point": "Asked by investor Pradeep Motwani whether it unlocks value for minority shareholders, Devansh Jain cast both separations as the group's value-creation engine, pointing to Inox Green's own spin-off as precedent amid complaints about recent share-price destruction.",
+     "quote": "We've spun off Inox Green, which has created tremendous value."
+    },
+    {
+     "call": "Scheme",
+     "point": "Rationale (a): the two verticals \u2014 WTG O&M services and the Power Evacuation Business \u2014 both have growth and profitability potential but separate and distinct risks, rewards, financial profile, competition and opportunities, and evacuation can attract a different investor, partner and lender base.",
+     "quote": "The nature of rislcs, rewards, financial profile, competition and opportunities are separate and distinct for the O&M services business and the Power Evacuation Business."
+    },
+    {
+     "call": "Scheme",
+     "point": "Rationale (a) continued: the evacuation business is explicitly said to appeal to a different set of capital providers and strategic partners than the O&M business.",
+     "quote": "Further, the Power Evacuation Business is capable of attracting different set of investors, strategic partners, lenders and other stakeholders."
+    },
+    {
+     "call": "Scheme",
+     "point": "Rationale (b): IRSL already undertakes the Power Evacuation Business, so the arrangement consolidates the same line of business in one entity, unlocking value and lending enhanced focus.",
+     "quote": "The proposed arrangement would enable ccnsolidation of same line of business into IRSL, which uiill result in unlocking value for the Power EvacuatiorL business."
+    },
+    {
+     "call": "Scheme",
+     "point": "Rationale (c): the explicit objective is to make IGESL a pure-play O&M player by hiving off power evacuation.",
+     "quote": "The Demerger aims to establish IGESL as a pure-play O&M player, and as a result, is considering hiving off the %wer Evacuation Business:"
+    },
+    {
+     "call": "Scheme",
+     "point": "Rationale (d): the end state is two listed entities \u2014 O&M in one, EPC plus power evacuation in the other \u2014 each free to pursue its own strategy with independent focus for higher stakeholder growth.",
+     "quote": "This will enable both the entities pursue their respective strategies to deliver higher growth for all stakeholders with specific independent focus on the respective businesses."
+    },
+    {
+     "call": "Scheme",
+     "point": "Creditor support was unanimous: debenture holders representing 100% in value of outstanding debentures (1,25,29,45,205 debentures) voted in favour, with none against.",
+     "quote": "As per the Scrutinizer's Report, all the debenture holders who participated in the voting process voted in favour of the resolution approving the proposed Scheme and none voted against the same."
+    },
+    {
+     "call": "Scheme",
+     "point": "Regulatory friction, not strategic objection: the Regional Director asked for clarification of the accounting treatment of excess/deficit of net assets under Clause 8.1(b), goodwill treatment under Clause 8.2(g), FEMA/RBI compliance for foreign holders, Section 61 compliance for IRSL's authorised capital increase, and exchange-compliance undertakings; ROC reported no pending inquiry or prosecution.",
+     "quote": "It is submitted that upon examination of the Scheme, the Regional Director has observed that the accounting treatment in respect of excess or deficit of net assets of the demerged undertaking, as referred to in Clause 8.l(b) of the Scheme, has not been clearly specified and therefore the Petitioner Companies may be directed to clarify the accounting treatment to be adopted in accordance with the applicable Indian Accounting Standards (Ind AS)."
+    },
+    {
+     "call": "Scheme",
+     "point": "The Income Tax Department flagged that the resulting company IRSL carries an outstanding demand of Rs 96,80,78,940 for AY2023-24 from a Section 143(3) order dated 25.03.2025, with AY2024-25 assessment and AY2023-24 CIT(A) appeal pending, and reported losses of Rs 8.11 crores (AY2025-26), Rs 57.49 crores (AY2024-25) and Rs 78.96 crores (AY2023-24).",
+     "quote": "It is further submitted that upon verification through the ITBA/CPC system, it has been noted that an outstanding Income Tax demand of Rs. 96,80,78,940/- for Assessment Year 2023-24 is reflected in the case of Inox Renewable Solutions Limited, which demand arises pursuant to an assessment order passed under Section 143(3) of the Income Tax Act, 1961 dated 25.03.2025."
+    }
+   ],
+   "what_management_expects": "Inox Green: asset-light, zero-capex annuity O&M pure-play; ~INR1,000 crores gross block and INR50-55 crores annual depreciation gone; only ~INR4-10 crores revenue lost, interest cost unchanged; PBT equal to EBITDA (FY27 upwards of INR600 crores) and to cash profit, no cash tax (INR700 crores losses retained); materially better ROE/ROCE. IRSL: consolidated evacuation plus EPC, enhanced focus, unlocked value, automatic listing (INR175 crores raised at ~INR7,400 crores), shares to IGESL holders.",
+   "gaps": "No share-entitlement ratio (10% vs 20% inconsistent), no IRSL standalone revenue/EBITDA, no explanation of IRSL's Rs 96.8 crore tax demand, debt/net-asset allocation, or customer-trustee legal mechanics."
+  }
+ },
+ "INOXGREEN::segments": {
+  "stamp": "173d3924190800a2e5a7882888ce682f",
+  "verdict": {
+   "segment_name": "Power Evacuation (Demerged Undertaking / power evacuation division transferred to Inox Renewable Solutions Limited)",
+   "unit": "\u20b9 lakh",
+   "measure_notes": "Operating profit line is 'Segment Result' per Ind AS 108 (EBIT-level: after segment depreciation, before unallocable other income, finance cost and tax). Segment revenue is external revenue \u2014 inter-segment revenue shown as nil for FY2025/FY2026 in this table, and the power evacuation line equals 'External Revenue - Discontinuing Operations-Power Evacuation'. FY2026 PAT is the consolidated discontinued-operations PAT, which for FY2026 relates only to power evacuation (power generation revenue nil); FY2025 discontinued PAT of (1,413.41) mixes power evacuation and power generation, so not attributable. No separate segment PAT is disclosed.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 285-286 (segments were O&M, EPC, Trading, Power generation; no Power Evacuation segment disclosed)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 1535.72,
+     "operating_profit": -3691.14,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 344"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 1455.78,
+     "operating_profit": -2396.67,
+     "pat": -90.97,
+     "source": "Annual Report 2026 \u2014 page 344 (revenue, segment result); page 345 (discontinued-operations PAT)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "No FY2024 power-evacuation split; no segment PAT or EBITDA; no FY2025 standalone discontinued PAT for evacuation alone; no quarterly power-evacuation figures in any presentation."
+  }
+ },
+ "GODIGIT::rationale": {
+  "stamp": "82a79b1cdbef3a6e549e712a47530e9b",
+  "verdict": {
+   "rationale": "The texts describe an amalgamation, not a separation: no business is being carved out, spun off or demerged. Under the Scheme, Go Digit Infoworks Services Private Limited (the Transferor Company, the holding company) merges into Go Digit General Insurance Limited (the Transferee Company, IRDAI Registration No. 158, CIN L66010PN2016PLC167410), under Sections 230 to 232 of the Companies Act, 2013 and Section 2(1B) of the IT Act, with the Transferor dissolved without being wound up, its shareholders issued shares of the Transferee directly (Clause 16) and the Transferor's holding in the Transferee cancelled (Clause 18, with Section 66 stated not to apply). The stated reasons are: simplification of structure and reduction of shareholding tiers; letting shareholders hold directly so they can contribute to the Transferee's capital infusion needs and growth objectives, creating a stronger entity with greater access to capital and resources for expansion and larger scale; lower administrative overheads, formalities, compliance requirements and operational costs from not maintaining multiple companies, plus streamlined decision-making; demonstrating the Transferor shareholders' direct commitment and engagement; strengthening the ownership structure and enhancing investor confidence; and eliminating holding-company complexity in line with the regulatory intent toward leaner holding structures with fewer layers in insurance. The only cited numbers are statutory and registration references (Sections 230-232, Section 35, Section 2(1B), Section 66; Reg. No. 158); no financial figures, margins, capital amounts or valuation numbers appear. The filing also records a plan change: pursuant to an observation raised by IRDAI, the Scheme was modified to expressly reflect Section 35 and other provisions of the Insurance Act, 1938 and its rules and regulations across the cover page, the overview, the transfer and vesting clause (4.1), the share-cancellation clause (18.2), the NCLT application clause (20.2) and the conditionality clause (23.1.6), with the filing stating these changes are clarificatory only and all other terms unchanged; the objects clause of the Second Applicant has not changed in five years, and the Appointed Date is the Effective Date.",
+   "evolution": "No earnings call passages were supplied with this prompt \u2014 the 'CALL PASSAGES' section is empty, so nothing can be reconstructed call by call and no call dates exist in the source. The only documented evolution is within the filing itself: an original draft Scheme, then a 'Modified Scheme' revised after IRDAI raised an observation, adding Insurance Act, 1938 Section 35 references to six places and described as clarificatory with all other terms unchanged. Applications are to be made to the Mumbai Bench of the NCLT.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The transaction is an amalgamation of the holding company Go Digit Infoworks Services Private Limited into Go Digit General Insurance Limited under Sections 230 to 232, not a separation of any business.",
+     "quote": "The Scheme is a Scheme of Amalgamation amongst Go Digit Infoworks Services Private Limited (\"Transferor Company\") and Go Digit General Insurance Limited (\"Transferee Company\") and their respective shareholders under Sections 230 to 232 of the Companies Act, 2013 as may be applicable and the rules framed thereunder."
+    },
+    {
+     "call": "Scheme",
+     "point": "Primary stated rationale: fewer shareholding tiers and a simpler structure, said to foster shareholder interests and enhance overall value.",
+     "quote": "The Amalgamation would lead to simplification of the structure and reduction of shareholding tiers."
+    },
+    {
+     "call": "Scheme",
+     "point": "Direct shareholding is meant to let the Transferor's shareholders fund the insurer's capital needs and growth directly, giving better access to capital, scale and coverage.",
+     "quote": "The holding of shares directly in the Transferee Company will enable the shareholders of the Transferor Company to contribute to the Transferee Company's capital infusion needs, and growth objectives, thereby creating a much stronger entity with greater access to capital and resources for expansion."
+    },
+    {
+     "call": "Scheme",
+     "point": "Scale argument: the simplified structure is said to let the business reach larger scale and realise its potential.",
+     "quote": "It will enable the business to achieve much larger scale and coverage and enable it to harness its true potential."
+    },
+    {
+     "call": "Scheme",
+     "point": "Cost and governance argument: running one company instead of several cuts overheads, formalities and compliance, lowering operating costs and speeding decisions.",
+     "quote": "Simplifies the corporate structure, reducing administrative overheads, formalities and compliance requirements associated with maintaining multiple companies."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing claims a direct operating-cost and decision-making benefit from the collapse of the two-company structure.",
+     "quote": "This can lead to lower operational costs and streamlined decision-making processes."
+    },
+    {
+     "call": "Scheme",
+     "point": "Signalling rationale: the merger is framed as evidence of the holding company's shareholders committing directly to the insurer.",
+     "quote": "The Amalgamation pursuant to this Scheme would also demonstrate the Transferor Company's shareholders' direct commitment to and engagement with the Transferee Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "Investor-facing rationale: a stronger ownership structure intended to raise investor confidence (no investor, lender or partner is named as having asked for it).",
+     "quote": "The Amalgamation will further strengthen the Transferee Company's ownership structure and serve to enhance investor confidence."
+    },
+    {
+     "call": "Scheme",
+     "point": "Regulatory rationale: removing the holding-company layer is aligned with the regulator's push for leaner, fewer-layer holding structures in insurance.",
+     "quote": "Eliminate the complexity of the holding company structure, and result in a simplified structure of holdings, which will also be in line with the regulatory intent to move towards leaner holding structures in the insurance business, with fewer layers."
+    },
+    {
+     "call": "Scheme",
+     "point": "The plan was changed on the regulator's intervention: IRDAI's observation forced Insurance Act, 1938 Section 35 language into the Scheme.",
+     "quote": "Modified Scheme: Pursuant to the observation raised by IRDAI, the following modifications have been incorporated in order to expressly reflect the applicability of Section 35 and other relevant provisions of the Insurance Act, 1938, together with the applicable rules made and regulations framed thereunder:"
+    },
+    {
+     "call": "Scheme",
+     "point": "The company characterises those IRDAI-driven edits as clarificatory, leaving economics and terms untouched.",
+     "quote": "The aforesaid modifications are clarificatory in nature and have been incorporated solely to address the observation of IRDAI, and that all other terms and conditions of the Scheme shall remain unchanged and continue to be in full force and effect."
+    },
+    {
+     "call": "Scheme",
+     "point": "Mechanics: the Transferor's assets and liabilities vest in the insurer as a going concern and the Transferor is dissolved without winding up, with Transferee shares issued as consideration.",
+     "quote": "the Transferor Company shall stand amalgamated with the Transferee Company as a going concern and all its assets and liabilities shall, without any further act, instrument or deed, stand transferred to and vested in or be deemed to have been transferred to and vested in the Transferee Company, so as to become on and from the Effective Date, the assets and liabilities of the Transferee Company by virtue of operation of law or otherwise, and in consideration the Transferee Company shall issue and allot its equity shares in accordance with Clause 16 below, and in the manner provided in this Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "The Transferor's stake in the insurer is cancelled inside the Scheme, with Section 66 capital-reduction procedure stated to be inapplicable.",
+     "quote": "Further, since the aforesaid cancellation is an integral part of the Scheme in accordance with Sections 230 to 232 of the Act read with Section 35 and other applicable provisions of the Insurance Act, 1938 and the rules and regulations framed thereunder, the provisions of Section 66 of the Act are not applicable."
+    },
+    {
+     "call": "Scheme",
+     "point": "Approval path and timing peg: Mumbai Bench of the NCLT, with the Appointed Date equal to the Effective Date.",
+     "quote": "Appointed Date shall mean the Effective Date (as defined under Clause 1.4 of the Scheme)"
+    },
+    {
+     "call": "Scheme",
+     "point": "The entity receiving the merger is the licensed general and health insurer, IRDAI Registration No. 158, whose objects clause has not changed in five years.",
+     "quote": "The Second Applicant Company is engaged in the business of providing all kinds of general and health insurance business and holds a certificate of registration bearing Registration No. 158 issued by the Insurance Regulatory and Development Authority of India."
+    }
+   ],
+   "what_management_expects": "Not a two-entity outcome: the Transferor is dissolved and only Go Digit General Insurance survives. For it, management expects greater access to capital and resources, direct shareholder participation in capital infusion and growth, much larger scale and coverage, lower administrative overheads and operational costs, streamlined decision-making, a stronger ownership structure, enhanced investor confidence and value. No margin, capital or valuation figures are given.",
+   "gaps": "No earnings call passages were provided at all, so no management commentary, dates, financials, swap ratio, timeline, tax or who requested it."
+  }
+ },
+ "KITEX::rationale": {
+  "stamp": "e6459b8ca05c4e3f7bb0d07e3e3d6917",
+  "verdict": {
+   "rationale": "No earnings-call passages were supplied \u2014 the \"CALL PASSAGES\" section arrived empty \u2014 so the reasoning below comes solely from the scheme filing and the July 24, 2026 NCLT-convened meeting notice. The transaction is a demerger of the Textile Business Division of Kitex Childrenswear Limited (KCL, the Demerged Company) into Kitex Garments Limited (KGL, the Resulting Company, listed as KITEX), under Sections 230\u2013232 of the Companies Act, 2013, Section 2(19AA) of the IT Act and the SEBI Scheme Circular. The filing's stated objective is \"consolidation of Textile business division of KCL in KGL for better growth so that Kitex Childrenswear Limited can concentrate on its other core activities.\" The operational trigger given is the existing arrangement in which KCL's textile work was done \"as job work with final revenue booked in KGL,\" while \"Considering the huge demand for capacity, KCL has decided to use its full capacity for its own revenue\" \u2014 i.e. the job-work-into-KGL structure was no longer workable once KCL needed its own capacity. The filing says KCL houses two verticals, Textile Business Division and Remaining Business, whose \"nature of risks, returns, growth and competition... are distinct and requires attribution of dissimilar technical and managerial focus\"; the textile division employs around 4,900 people and spends on CSR above the statutory limit. The claimed benefits are focused growth, operational efficiencies, business synergies and increased customer focus for textiles; economies of scale and a \"common pool of production\" by combining similar activities under one entity (KGL being \"engaged in the similar business and a pioneer in the said field\"); the ability of each business to attract a \"different set of investors, strategic partners, lenders and other stakeholders\"; insulation and de-risking of the two businesses from one another; and value unlocking through \"better price discovery of individual platforms,\" explicitly to \"open-up windows to unlock value through potential divestments and acquisitions.\" Consideration is new KGL equity shares issued to KCL's shareholders of record on a proportionate basis per the Share Entitlement Ratio, with the undertaking transferring on a going-concern basis at book values, liabilities included. Procedurally, the NCLT Kochi Bench ordered meetings on January 22, 2026 (CA(CAA)/01/KOB/2026), and shareholder and unsecured-creditor meetings were held by video conference on July 24, 2026, with remote e-voting from July 20 to July 23, 2026.",
+   "evolution": "The evolution cannot be reconstructed: no earnings-call passages were provided in the prompt, so there are no call dates, no first mention of the idea, and no record of how the structure or perimeter changed over time. The only datable steps visible in the supplied documents are the NCLT Kochi order dated January 22, 2026 directing the meetings, and the equity-shareholder (11:00 A.M.) and unsecured-creditor (2:30 P.M.) meetings held July 24, 2026 after e-voting that ran July 20\u201323, 2026. At that meeting no shareholder registered to ask a question, so the Q&A was dispensed with and only a chat box was offered \u2014 meaning even the meeting record adds no management commentary on rationale.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The stated objective is to consolidate KCL's Textile Business Division into KGL so that KCL can focus on its other core activities.",
+     "quote": "The main objective of the scheme is for consolidation of Textile business division of KCL in KGL for better growth so that Kitex Childrenswear Limited can concentrate on its other core activities"
+    },
+    {
+     "call": "Scheme",
+     "point": "The operational trigger: textile work was being done as job work with revenue booked in KGL, and KCL now wants its full capacity for its own revenue given demand.",
+     "quote": "Considering the huge demand for capacity, KCL has decided to use its full capacity for its own revenue"
+    },
+    {
+     "call": "Scheme",
+     "point": "KCL's two verticals are said to differ fundamentally in risk, return, growth and competition, needing different technical and managerial attention.",
+     "quote": "The nature of risks, returns, growth and competition involved in each such undertaking are distinct and requires attribution of dissimilar technical and managerial focus."
+    },
+    {
+     "call": "Scheme",
+     "point": "Segregating the textile division is argued to let management pursue independent organic and inorganic growth with greater resources.",
+     "quote": "The segregation of Textile Business Division of the Demerged Company would allow the management to effectively cater to the independent growth plans (both through organic and inorganic means) by enabling access to availability of increased resources."
+    },
+    {
+     "call": "Scheme",
+     "point": "KGL is positioned as the natural home because it already runs the same business and is described as a pioneer in it.",
+     "quote": "Moreover, the Resulting Company is engaged in the similar business and a pioneer in the said field."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit claimed for the textile vertical specifically: sharper growth, efficiency, synergies and customer focus.",
+     "quote": "facilitate focused growth, operational efficiencies, business synergies and increased customer focus in relation to the Textile Business Division"
+    },
+    {
+     "call": "Scheme",
+     "point": "Separation is justified as letting each business court its own capital providers and counterparties \u2014 investors, strategic partners and lenders \u2014 and allocate capital efficiently.",
+     "quote": "Enable each business to address independent business opportunities, pursue efficient capital allocation and attract different set of investors, strategic partners, lenders and other stakeholders."
+    },
+    {
+     "call": "Scheme",
+     "point": "Combining the like businesses under one roof is expected to deliver scale economies, a shared production pool and better asset utilisation.",
+     "quote": "By Combining similar business activities under a single entity optimize business operations, achieve economies of scale, create operational efficiency, common pool of production and better utilisation of resources"
+    },
+    {
+     "call": "Scheme",
+     "point": "Shareholder-facing rationale: scale, independent growth plans, more focused management, flexibility and liquidity.",
+     "quote": "facilitate pursuit of scale and independent growth plans (organically and inorganically) with more focused management, flexibility and liquidity for the shareholders;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Each business is to be ring-fenced from the other's risks.",
+     "quote": "insulating and de-risking the businesses from one another;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Value-unlock argument rests on separate market pricing of each platform.",
+     "quote": "unlocking value for the over-all business portfolio through better price discovery of individual platforms."
+    },
+    {
+     "call": "Scheme",
+     "point": "The restructuring is explicitly framed as enabling future M&A and sell-downs at the subsidiary level.",
+     "quote": "Consequently, the proposed restructuring is expected to open-up windows to unlock value through potential divestments and acquisitions to achieve the scale of business in respective subsidiaries as well;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Duplicated/overlapping services between the two undertakings are to be reduced.",
+     "quote": "providing scope for mitigation of overlapping services and enhancing the focus on independent business growth strategies and expansion for each of the business undertakings."
+    },
+    {
+     "call": "Scheme",
+     "point": "Scale of the demerged undertaking: roughly 4,900 employees, with CSR spending above the statutory requirement.",
+     "quote": "It also employs around 4900 employees. As sustainability, it spends funds on CSR more than the statutory limit."
+    },
+    {
+     "call": "Scheme",
+     "point": "Consideration mechanics: KGL issues new equity shares directly to KCL's shareholders pro rata per the Share Entitlement Ratio (no cash), so KCL holders become KGL holders.",
+     "quote": "As consideration for the demerger of Demerged Undertaking, Resulting Company shall issue and allot New Equity Shares to the equity shareholders of the Demerged Company based on Share Entitlement Ratio as mentioned in the Scheme in proportion to their shareholding in the Demerged Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "The transfer is a going-concern transfer at carrying book values, with all related assets and liabilities moving to KGL as of the Appointed Date.",
+     "quote": "All the properties and the liabilities relating to the Demerged Undertaking shall be transferred to Resulting Company, at the value appearing in the books of accounts of the Demerged Company immediately before the demerger"
+    },
+    {
+     "call": "Scheme",
+     "point": "Procedural status: NCLT Kochi ordered the meetings on January 22, 2026, and shareholders and unsecured creditors met by VC on July 24, 2026 (e-voting July 20\u201323, 2026).",
+     "quote": "This is to inform that pursuant to the order dated January 22, 2026 passed by the Hon\u2019ble National Compa ny Law Tribunal, Kochi Bench (\u201c Hon\u2019ble  NCLT\u201d) in CA(CAA)/01/KOB/2026 and in compliance with applicable provisions of the Companies Act, 2013 (\u201cAct\u201d) and the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulation s, 2015 (\u201cSEBI Listing Regulations\u201d), each as amended from time to time, the applicable circulars issued by the Ministry of Corporate Affairs and Securities and Exchange Board of India, the meeting of the Equity Shareholders and Unsecured Creditors of the Company were held on Friday, July 24 , 2026, as per the details given hereunder, through Video Conference (\u201cVC\u201d)"
+    },
+    {
+     "call": "Scheme",
+     "point": "At the shareholder meeting no questions were registered, so the Q&A was dispensed with \u2014 no management elaboration on rationale was given there.",
+     "quote": "Since no shareholders were reg istered to ask questions on the above said resolution, the Q&A session has dispensed with."
+    }
+   ],
+   "what_management_expects": "KGL: all textile operations consolidated under one roof \u2014 focused growth, operational efficiency, synergies, economies of scale, a common production pool and better asset utilisation, plus greater customer focus. KCL: freed to concentrate on its other core activities and to use its full capacity for its own revenue. Both: independent capital allocation, their own investors/partners/lenders, mutual de-risking, better price discovery and value unlock, and room for divestments or acquisitions.",
+   "gaps": "No earnings calls were supplied, so nothing on timing, who pushed for it, share entitlement ratio, revenue/margin/capex figures, debt allocation, KCL's retained businesses, or listing plans."
+  }
+ },
+ "KITEX::segments": {
+  "stamp": "aa622c3b727be8f524af7d11a9d9b8c9",
+  "verdict": {
+   "segment_name": "Kitex Childrenswear Limited (KCL) \u2014 Demerged/Transferor Company, shown as the unlisted entity merging into KGL",
+   "unit": "INR Cr",
+   "measure_notes": "No profit line of any kind is disclosed for KCL on these pages. The only KCL figure is a single revenue number ('Revenue: INR 425 Cr') on the pre-merger structure chart in the April 2025 investor presentation; it carries no period label, no statement of whether it is external or inter-segment, and no audited basis. Both annual reports and the quarterly/AGM presentations state KGL and the Group operate as ONE segment (Textile \u2013 Infant/Kids Apparel manufacturing), so no segment result, EBIT, EBITDA, PBT or PAT is furnished for the business being separated.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 203 (single-segment disclosure; no KCL figures)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 189 (single-segment disclosure; no KCL figures)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 207 (single-segment disclosure; no KCL figures)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "All KCL fiscal-year revenue, operating profit and PAT; no segment data (single-segment reporting). Only undated 'Revenue: INR 425 Cr' for KCL appears \u2014 Presentation Apr 2025, page 7."
+  }
+ },
+ "LT::rationale": {
+  "stamp": "0ad9aafa0983a728739d174541951127",
+  "verdict": {
+   "rationale": "L&T is carving out \u2014 not selling \u2014 its Realty business: the Realty Undertaking transfers as a going concern to L&T Realty Properties Limited (LTRPL), a wholly owned subsidiary, by slump sale at an enterprise value of \u20b96,300 Cr under a Sections 230\u2013232 Scheme of Arrangement, with consideration discharged in fully paid-up LTRPL equity shares issued to L&T, so there is no dilution of L&T shareholders and no change in ownership or voting rights. The first stated reason is scale and complexity: the business now carries an estimated development potential of ~71 million sq ft across Mumbai, Navi Mumbai, Bengaluru, NCR and Chennai, and the Board judged it time to house it under a dedicated platform offering sharper strategic focus, greater operating agility and enhanced managerial accountability while still drawing on the L&T brand, governance standards and institutional strengths. The second is structural simplification \u2014 consolidating all group real estate undertakings onto one unified platform, which the Jan 2026 call described as the start of a phased consolidation and the May 2026 call as creating a 'simplified and scalable structure.' The third is capital and visibility: the structure is meant to provide greater flexibility to access growth capital, attract strategic partners and engage sector-focused investors, enhance capital-allocation flexibility and improve valuation visibility for a unit that did FY26 pre-sales of ~\u20b910,000 Cr (Rs 94 billion per the May 2026 call, more than double, aided by Noida and Panvel launches) yet contributed only about 0.59% of consolidated revenue. The growth plan cited is accelerated pre-sales growth over the next five years via land acquisitions, joint developments and selective expansion of the commercial portfolio. Management explicitly ring-fenced the rest of the group, saying there is no material impact on L&T's engineering, manufacturing, technology and infrastructure businesses, and that all assets, liabilities, contracts, approvals, licences, employees, customer relationships and ongoing projects move across without interruption or loss of benefits. The step is framed as part of disciplined portfolio management, sitting alongside the concession exits reported in the May 2026 call \u2014 SPAs executed to divest 100% of Nabha Power and L&T's entire Hyderabad Metro stake, both expected to close in Q1 FY27.",
+   "evolution": "The idea first surfaces in the Jan 2026 call, where management announces it has 'initiated' the slump-sale transfer of the Realty undertaking to L&T Realty Properties Limited under a Scheme of Arrangement subject to regulatory approvals, and frames it as the start of a phased consolidation of all real estate assets into a unified platform. By the May 2026 (FY26 results) call the scheme is described as an approved NCLT scheme of arrangement and the rationale has shifted from 'scale, agility, financial strength' to a simplified, scalable single-platform structure, now backed by operating proof \u2014 pre-sales more than doubled to Rs 94 billion. The filing trail then shows the NCLT-convened shareholder meeting on August 4, 2026 passing the scheme with the requisite majority (116 members attended), where the CMD's address adds the hard terms: \u20b96,300 Cr enterprise value, 71 million sq ft potential, 0.59% of consolidated revenue, and no shareholder dilution. Only these two calls appear in the material, so earlier-year discussion of the plan is not visible here.",
+   "points": [
+    {
+     "call": "Jan 2026",
+     "point": "First disclosure: L&T has initiated transfer of the Realty business undertaking to wholly owned subsidiary L&T Realty Properties Limited by slump sale under a Scheme of Arrangement, pending regulatory approvals, and calls it the beginning of a phased consolidation of all group real estate assets.",
+     "quote": "This marks the start of a phased consolidation of all real estate assets into a unified platform, positioning L&T Realty for greater scale, agility and financial strength to capitalize on India's real estate growth."
+    },
+    {
+     "call": "May 2026",
+     "point": "The stated FY26 priority for Realty was structural: creating a simplified, scalable single platform by consolidating all group real estate undertakings, executed through the now-approved NCLT scheme of arrangement.",
+     "quote": "For the year, the primary focus of the Realty business was to create a simplified and scalable structure through consolidation of all the group Real Estate undertakings under a single platform."
+    },
+    {
+     "call": "May 2026",
+     "point": "Operating momentum cited as justification for the separate platform: FY26 pre-sales more than doubled to Rs 94 billion, driven by launches in Noida and Panvel \u2014 i.e. growth beyond Mumbai/MMR.",
+     "quote": "In addition, the Realty business has also more than doubled its pre-sales to Rs 94 billion in FY26, aided by successful launches in Noida and Panvel."
+    },
+    {
+     "call": "May 2026",
+     "point": "The Realty carve-out is placed inside a wider portfolio clean-up: SPAs executed to divest 100% of Nabha Power and the entire Hyderabad Metro stake, with closure expected in Q1 FY27.",
+     "quote": "The company has executed Share Purchase Agreement (SPA) to divest its 100% stake in Nabha Power and its entire stake in Hyderabad Metro."
+    },
+    {
+     "call": "Scheme",
+     "point": "Pre-empts the dilution fear: LTRPL stays a wholly owned subsidiary, consideration is paid in LTRPL equity shares to L&T, and there is no change in ownership, voting rights or shareholder interest.",
+     "quote": "At the outset, let me reassure you that this proposal does not involve any dilution of your shareholding in L&T."
+    },
+    {
+     "call": "Scheme",
+     "point": "The core problem named is that scale and complexity have outgrown the in-house structure; the fix is a dedicated platform with sharper focus, more agility and clearer managerial accountability while keeping L&T brand and governance.",
+     "quote": "As the business has grown in scale and complexity, the Board believes that the time is right to house the Realty business under a dedicated platform that can provide sharper strategic focus, greater operating agility and enhanced managerial accountability, while continuing to benefit from the L&T brand, governance standards and institutional strengths built over decades."
+    },
+    {
+     "call": "Scheme",
+     "point": "Scale of the asset base quantified: roughly 71 million sq ft of development potential across Mumbai, Navi Mumbai, Bengaluru, NCR and Chennai, spanning residential, commercial and mixed-use.",
+     "quote": "Today, the business has an estimated development potential of approximately 71 million square feet across key markets including Mumbai, Navi Mumbai, Bengaluru, NCR and Chennai."
+    },
+    {
+     "call": "Scheme",
+     "point": "The valuation-visibility argument: FY26 pre-sales of ~\u20b910,000 Cr but only ~0.59% of consolidated revenue, i.e. a business too small in the group P&L to be priced properly, targeting accelerated pre-sales growth over five years via land acquisitions, joint developments and selective commercial expansion.",
+     "quote": "During FY 2025-26, L&T Realty Business Unit achieved pre-sales of approximately \u20b910,000 Crs and contributed about 0.59% of the consolidated revenue."
+    },
+    {
+     "call": "Scheme",
+     "point": "Capital and partnership access is an explicit aim \u2014 third-party growth capital, strategic partners and sector-focused (real-estate specialist) investors \u2014 while retaining group synergies.",
+     "quote": "The proposed structure will also provide greater flexibility to access growth capital, attract strategic partners and engage with sector -focused investors."
+    },
+    {
+     "call": "Scheme",
+     "point": "Transaction mechanics: slump sale of the Realty Undertaking on a going-concern basis at an enterprise value of \u20b96,300 Cr, with consideration discharged in fully paid-up LTRPL equity shares to L&T.",
+     "quote": "The transfer is proposed as a slump sale of the Realty Undertaking on a going -concern basis at an enterprise value of \u20b96300 Crs. and the consideration will be discharged through the issuance of fully paid up equity shares by L&T Realty Properties Limited to the Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "Continuity assurances: all assets, liabilities, contracts, approvals, licences and employees move across, with service and benefits protected and customer relationships and ongoing projects uninterrupted.",
+     "quote": "All assets, liabilities, contracts, approvals, licences, employees and business operations associated with the Realty business will move to the subsidiary in accordance with the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "Ring-fences the core: no material impact on L&T's engineering, manufacturing, technology and infrastructure businesses, positioning the move as disciplined portfolio management rather than a change in group strategy.",
+     "quote": "The proposed reorganisation does not have any material impact on the Company's broader engineering, manufacturing, technology and infrastructure businesses, while enabling the Realty business to pursue its growth ambitions through a more focused and agile framework."
+    },
+    {
+     "call": "Scheme",
+     "point": "Summary of expected outcomes as stated to shareholders at the NCLT-convened meeting of August 4, 2026, which approved the scheme by special majority.",
+     "quote": "It will create a stronger platform for growth, enhance capital allocation flexibility, improve valuation visibility and position the Realty business to capitalize on the significant opportunities emerging in India's real estate sector."
+    }
+   ],
+   "what_management_expects": "For Realty (LTRPL): a dedicated, consolidated platform with sharper focus, operating agility, managerial accountability, easier access to growth capital, strategic partners and sector-focused investors, better valuation visibility, and accelerated pre-sales growth over five years off ~\u20b910,000 Cr FY26 pre-sales and 71 mn sq ft. For L&T: unchanged ownership, no dilution, no material impact on core engineering businesses, better capital-allocation flexibility.",
+   "gaps": "No valuation basis for the \u20b96,300 Cr EV, no named investor, lender or partner demand, no margin, debt or ROCE figures, no listing/IPO intent, no timeline for consolidating remaining realty entities."
   }
  }
 }
