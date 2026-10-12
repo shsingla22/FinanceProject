@@ -1,34 +1,54 @@
 {
  "UPL": {
-  "stamp": "adf0dd187b44ce7a9226abea6be79e7c",
+  "stamp": "3aebb935f2a32acf86a9397f2825b8e4",
   "verdict": {
-   "what_is_spun": "India plus international crop protection businesses, consolidated into UPL Global Sustainable Agri Solutions Limited",
-   "reason": "Unlock shareholder value by creating a focused pure-play crop protection platform, simplify group structure, enable independent capital raising, deleveraging and clearer value discovery for investors",
+   "what_is_spun": "UPL's India and international crop protection business, consolidated into a separately listed pure-play crop protection platform",
+   "demerged_business_names": [
+    "India Crop Protection Business",
+    "Demerged Undertaking",
+    "Global Crop Protection Business",
+    "UPL Global Sustainable Agri Solutions Limited",
+    "UPL 2",
+    "UPL Global",
+    "UPL Sustainable Agri Solutions Limited (UPL SAS)",
+    "UPL Crop Protection Holdings Limited (UPL Cayman / UPL Corp)"
+   ],
+   "reason": "Unlock shareholder value by creating an independent, pure-play crop protection platform; simplify group structure, enable clearer value discovery, independent capital raising and sharper managerial focus.",
    "reason_class": "value_unlocking",
-   "insiders": "UPL 2 promoters hold 71.56% post-scheme and voluntarily lock their entire stake for eighteen months from listing; Mike Frank to be CEO of UPL Global",
-   "hidden_value": "UPL 2 holds the far larger asset: UPL Cayman alone had USD 4,187 Mn turnover and USD 1,599 Mn net worth versus UPL 1 standalone INR 53,313 Mn; world's second largest listed pure-play crop protection platform; parent deleverages",
+   "insiders": "UPL 2 Promoters (Shroff family and entities) hold 71.56% post-scheme and voluntarily lock their entire stake for eighteen months from Listing Date; Mike Frank to be CEO.",
+   "hidden_value": "Crop protection is the bulk of the group: UPL Cayman turnover USD 4,187 Mn and India business INR 24,120 Mn (31.15% of UPL 1) versus UPL 1 standalone INR 53,313 Mn; CFO cites deleveraging and improving return metrics.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "1:1 entitlement distributes UPL 2 shares to every UPL holder; newly listed entity with 28.44% public float",
+   "selling_pressure_why": "Every UPL 1 holder receives 1 UPL 2 share free; newly listed entity with 28.44% public float, promoters locked eighteen months.",
    "parent_or_spin": "spin",
-   "option_pricing_date": "February 20, 2026 (valuation report and fairness opinion date)",
-   "read_next": "Valuation Report and the abridged-prospectus disclosures for UPL 2 \u2014 revenue, PAT, EBITDA and transferred assets/liabilities",
+   "option_pricing_date": "not stated",
+   "listing_timeline": "Press release of February 20, 2026: \"The transaction is expected to be completed within 12\u201315 months, subject to the timely receipt of regulatory and other required approvals\"; BSE \"no adverse observations\" and NSE \"No Objection\" letters dated July 29, 2026; UPL 2 shares to be listed pursuant to the Scheme.",
+   "read_next": "The Scheme / abridged prospectus for UPL 2: assets, liabilities and debt transferred, and UPL 2's three-year revenue, EBITDA, PAT.",
    "quote": "The Scheme proposes to consolidate the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure-play crop protection platform."
   }
  },
  "HEGAM": {
-  "stamp": "047a9f526c98cc6ee4976667f88b9247",
+  "stamp": "be80e2fd6504d4f577d08a556edeb67f",
   "verdict": {
-   "what_is_spun": "HEG's graphite electrodes business (including other carbon products) demerged into HEG Graphite Limited; parent retains thermal/hydel power plus amalgamated Bhilwara Energy.",
-   "reason": "Core businesses (graphite electrodes, thermal/hydel power) acquired critical mass and need flexibility, independence and focused management; segregation unlocks value, attracts different investors, matches different risk-return profiles and growth trajectories.",
+   "what_is_spun": "HEG's graphite business \u2014 graphite electrodes and other carbon products \u2014 demerged into HEG Graphite Limited",
+   "demerged_business_names": [
+    "Graphite Business",
+    "Demerged Undertaking",
+    "HEG Graphite Limited",
+    "Resulting Company",
+    "Second Petitioner Company",
+    "manufacturing graphite electrodes (including other carbon products)"
+   ],
+   "reason": "Core businesses (graphite electrodes; thermal and hydel power) acquired critical mass and need flexibility, independence, focused management; segregation to unlock value and attract different investors, lenders and strategic partners.",
    "reason_class": "value_unlocking",
-   "insiders": "Promoter/Promoter Group holds 100% (50,000 shares) of HEG Graphite pre-Scheme, 56.28% post-Scheme on mirror basis; in parent HEG promoter stake rises 56.28% to 60.72% via BEL amalgamation. Other incentives not stated.",
-   "hidden_value": "Valuer puts the demerged Graphite Business at Rs 393.4/share versus Rs 124.0 for post-demerger HEG; the spin takes Rs 4,329.30 crore assets, Rs 3,810.32 crore net worth and all Rs 1,309.63 crore revenue.",
+   "insiders": "Promoter/Promoter Group holds 50,000 shares (100%) of HEG Graphite pre-Scheme, 56.28% post-Scheme on mirror basis; in HEG Limited promoter stake rises 56.28% to 60.72% via BEL amalgamation.",
+   "hidden_value": "Registered Valuer puts the Graphite Business at Rs. 393.4 per share versus Rs. 124.0 for HEG post-demerger; HEG Graphite post-Scheme holds Rs. 4,329.30 cr assets, Rs. 3,810.32 cr net worth and all Rs. 1,309.63 cr revenue.",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents state no index treatment or listing mechanics; spin is large (1:1 mirror, entire graphite revenue), not a small stub.",
+   "selling_pressure_why": "Documents do not discuss index treatment, shareholder size or listing mechanics; entitlement is 1:1 mirror of existing holders.",
    "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "read_next": "PwC valuation report (Annexure J) and ICICI Securities fairness opinion (Annexure K) for graphite standalone basis.",
-   "quote": "Each of the said businesses required flexibility and independence to grow faster in the fast-changing technology and innovation driven environment."
+   "listing_timeline": "not stated; the August 18, 2026 disclosure says only that 'The Scheme shall become effective upon receipt of the certified copy of the Order passed by the Hon'ble Tribunal and fiting of the same with the Registrar of Companies', with certified copies awaited",
+   "read_next": "Valuation Report dated 10 March 2025 (Annexure J) behind the Rs. 393.4 per share Graphite Business value.",
+   "quote": "unlocking the value of each of the businesses for the shareholders of the Demerged Company, attracting different sets of investors, strategic partners, lenders and other stakeholders having a specific interest in the respective businesses and providing better flexibility in accessing capital;"
   }
  },
  "INDIAGLYCO": {
@@ -481,18 +501,29 @@
   }
  },
  "SUNTECK": {
-  "stamp": "582a26b207833d5f3dfa08cbecbcfe54",
+  "stamp": "e125e6f734e0783f21d72e729fd27af9",
   "verdict": {
-   "what_is_spun": "Satguru's residential real estate project \"Sunteck City 4th Avenue Undertaking\", demerged into listed parent Sunteck Realty",
-   "reason": "Consolidation of the Demerged Business Undertaking; administrative and operational efficiencies; efficient pooling of financial and managerial resources, facilitating project-specific capital allocation and funding strategies",
+   "what_is_spun": "Satguru's residential real estate project under \"Sunteck City 4th Avenue Undertaking\", demerged into listed parent Sunteck Realty Limited",
+   "demerged_business_names": [
+    "Demerged Business Undertaking",
+    "Sunteck City 4th Avenue Undertaking",
+    "Satguru Corporate Services Private Limited",
+    "Satguru",
+    "Demerged Company",
+    "Sunteck Realty Limited",
+    "Sunteck",
+    "Resulting Company"
+   ],
+   "reason": "Consolidation of the Demerged Business Undertaking; administrative and operational efficiencies; efficient pooling and deployment of financial and managerial resources, facilitating project-specific capital allocation and funding strategies",
    "reason_class": "regulatory_strategic",
-   "insiders": "Not stated. Satguru is a wholly owned subsidiary, no shares are issued, and there is no change in the shareholding patterns of Sunteck and Satguru",
-   "hidden_value": "The transferred project alone generated ~Rs 869 Crs, ~77% of Sunteck's FY26 consolidated turnover \u2014 the group's dominant revenue source moves from a subsidiary directly into the listed entity",
+   "insiders": "Not stated. Documents only say no shares are issued since Satguru is a wholly owned subsidiary and there is no change in shareholding patterns of Sunteck and Satguru",
+   "hidden_value": "The demerged undertaking's turnover was Rs. ~869 Crs, ~77% of Sunteck's FY26 consolidated turnover \u2014 a single residential project carries most of the listed entity's revenue and now sits directly in Sunteck",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No shares issued, no new listing, no consideration, no change in shareholding pattern; internal reorganisation only",
+   "selling_pressure_why": "No shares issued, no new listing, no consideration; Sunteck's equity already listed and shareholding pattern unchanged",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "read_next": "The full Scheme filed with NCLT \u2014 appointed date, and debt/assets of the 4th Avenue Undertaking transferred",
+   "listing_timeline": "Per the 1st October, 2026 disclosure: \"The equity shares of the Resulting Company are already listed on the Stock Exchanges. There is no requirement of any new listing of shares as there is no consideration involved in the Scheme.\"",
+   "read_next": "The Scheme itself, for the definition of \"Sunteck City 4th Avenue Undertaking\" and Satguru's assets, liabilities and debt transferred",
    "quote": "The turnover of the Demerged Business Undertaking of Satguru for the year ended 31 March 2026 was Rs. ~869 Crs representing ~77% of the total consolidated turnover of Sunteck for the year ended 31st March 2026."
   }
  },
@@ -604,50 +635,75 @@
   }
  },
  "SKFINDIA": {
-  "stamp": "fbe078555c08e01a8d7a776b15c77e4c",
+  "stamp": "f92abc79dadcdf0b990f22f148b3dcc4",
   "verdict": {
-   "what_is_spun": "SKF India's Industrial Business (Demerged Undertaking) transferred on going-concern basis to SKF India (Industrial) Limited",
+   "what_is_spun": "SKF India's Industrial Business (the 'Demerged Undertaking') transferred on a going concern basis to a new company",
+   "demerged_business_names": [
+    "Industrial Business",
+    "Demerged Undertaking",
+    "SKF India (Industrial) Limited",
+    "SKF Industrial",
+    "Resulting Company",
+    "SIIL"
+   ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "Mirror-image demerger: shareholding pattern of Resulting Company mirrors the Demerged Company on Record Date; promoter percentage and management incentives not stated",
-   "hidden_value": "Cost-of-acquisition split assigns 53.12% of value to SKF Industrial versus 46.88% to SKF India, implying the industrial business is the larger piece; no valuation was carried out by the registered valuer",
-   "selling_pressure": "likely",
-   "selling_pressure_why": "Every parent holder receives 1:1 shares in an unlisted, newly listed entity outside indices; shares frozen till trading permission",
+   "insiders": "not stated; documents only say it is a 'mirror image' demerger so the Resulting Company's shareholding pattern mirrors SKF India's on the Record Date, 1:1 shares",
+   "hidden_value": "Tax cost apportionment splits pre-demerger cost 46.88% SKF India / 53.12% SKF Industrial, implying the demerged Industrial Business is the larger part; no valuation was done since economic interest is unchanged.",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "Documents state only 1:1 mirror allotment of 4,94,37,963 shares, frozen till listing; no index or holder-mix detail given.",
    "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "read_next": "Information Memorandum of SKF India (Industrial) Limited and paragraph 3 rationale in the shareholders' notice",
-   "quote": "Accordingly, the proposed demerger will not impact the economic and beneficial interest of shareholders of the Demerged Company."
+   "listing_timeline": "NSE observation (compliance letter dated November 28, 2025) requires listing steps completed and trading commenced 'within sixty days of receipt of the order of the Hon'ble High Court/NCLT' (NCLT order dated 26th September, 2025); the Resulting Company 'shall endeavour to comply'; as of 17th October 2025 shares 'will remain frozen till the time listing / trading permission is granted'",
+   "read_next": "Information Memorandum of SKF India (Industrial) Limited on NSE/company website, plus paragraph 3 rationale in shareholder notice",
+   "quote": "The Hon'ble National Company Law Tribunal, Mumbai Bench, vide its Order dated 26th September, 2025, sanctioned the Scheme of Arrangement between SKF India Limited (\"the Company\" or \"Demerged Company\") and SKF India (Industrial) Limited (\"SKF Industrial\" or \"Resulting Company\") and their respective shareholders and creditors under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013 (\"Scheme\"), providing for the demerger of the Company's Industrial Business (Demerged Undertaking as defined in the Scheme) into SKF Industrial on a going concern basis and issuance of equity shares by SKF Industrial to the shareholders of the Company, in consideration thereof, in accordance with the provisions of Section 2(19AA) of the Income Tax Act (\"the Act\")."
   }
  },
  "SUNTV": {
-  "stamp": "3b0edd880dded991bd248da10286faba",
+  "stamp": "85debf3e24607dae3207afcfb347ba2f",
   "verdict": {
-   "what_is_spun": "Sun TV's sports division, per the referenced news item (company calls it a rumour)",
+   "what_is_spun": "Sun TV's sports division, per a CNBC TV18 news rumour the company says it cannot comment on",
+   "demerged_business_names": [
+    "SUN TVs sports division",
+    "sports division"
+   ],
    "reason": "not stated",
    "reason_class": "not stated",
    "insiders": "not stated",
    "hidden_value": "not stated",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "No scheme, entity size, or index details disclosed; company denies any impending announcement.",
+   "selling_pressure_why": "not stated; documents describe only an unconfirmed rumour, with no size, entity or index details",
    "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "read_next": "Next Regulation 30 disclosure or board meeting outcome confirming or denying a sports-division demerger.",
+   "listing_timeline": "not stated",
+   "read_next": "Segment disclosures for sports revenue and margin in the latest annual report; any Regulation 30 board announcement",
    "quote": "The aforesaid news item is a rumour and the Company cannot comment on market rumours."
   }
  },
  "THERMAX": {
-  "stamp": "9d64b29d198ad28f28207dc73c0a5950",
+  "stamp": "8e558f85067b6ac672fe0fe5e87de05b",
   "verdict": {
-   "what_is_spun": "Bio-CNG Technology/EPC business of Thermax Bioenergy Solutions, demerged into Thermax Ltd; Thermax Cooling Solutions merged in too",
-   "reason": "Demerged undertaking is in line with the Company's business; consolidate similar businesses, simplify group structure, cut administrative overheads and costs, let TBSPL focus on remaining O&M segment",
+   "what_is_spun": "Bio-CNG EPC (technology, engineering, procurement, construction) business of Thermax Bioenergy Solutions, merged into listed Thermax Ltd",
+   "demerged_business_names": [
+    "EPC business undertaking",
+    "Bio-CNG EPC business",
+    "Technology, Engineering, Procurement and Construction scope for Bio-Compressed Natural Gas (Bio CNG) projects",
+    "EPC segment",
+    "Thermax Bioenergy Solutions Private Limited (TBSPL) / Demerged Company",
+    "Thermax Limited (TL) / Resulting Company / Transferee Company",
+    "Green Solutions (segment TBSPL was realigned into)",
+    "Thermax Cooling Solutions Limited (TCSL) / Transferor Company (merging arm of same scheme)"
+   ],
+   "reason": "Demerged undertaking is in line with the Company's business; consolidate similar businesses, let TBSPL focus on remaining O&M segment, simplify group structure, cut overheads, enhance long-term shareholder value",
    "reason_class": "regulatory_strategic",
-   "insiders": "Not stated. No consideration paid and no shares issued; both entities are wholly owned subsidiaries, so there is no change in shareholding pattern or control structure",
-   "hidden_value": "Not a value-unlock spin: the demerged undertaking (Rs 239.35 cr revenue, 3.67% of turnover) sits in a subsidiary with negative net worth of Rs (106.9) cr, already written down by Rs 30 cr in FY26; Green Solutions segment lost Rs 16.85 cr in Q1",
+   "insiders": "not stated \u2014 documents say only that there will be no change in the Company's shareholding pattern or control structure and no shares will be issued",
+   "hidden_value": "Reveals a loss-making bioenergy arm: demerged company net worth negative Rs 106.9 crore on Rs 260.9 crore income; Rs 30 crore impairment of TBSPL investment in FY26; Green Solutions segment loss Rs 16.85 crore in Q1 FY27. EPC turnover only 3.67% of parent",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No shares issued, no new listing; demerged company stays an unlisted wholly owned subsidiary, shareholding pattern unchanged",
+   "selling_pressure_why": "No shares issued, no new listing, no shareholding-pattern change; demerged entity stays an unlisted wholly-owned subsidiary",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "read_next": "Exhibit I net worth of TBSPL Rs (106.9) cr and Green Solutions segment results trend",
+   "listing_timeline": "Per the July 30, 2026 disclosure: \"The equity shares of the Resulting Company are already listed on the Stock exchanges\"; the Demerged Company \"shall continue as an unlisted company & will remain a wholly-owned subsidiary of the Resulting Company\". Appointed Date April 1, 2026; effective on NCLT approval, no date given",
+   "read_next": "Green Solutions segment economics and TBSPL standalone financials \u2014 negative net worth Rs 106.9 crore and Rs 30 crore impairment",
    "quote": "The equity shares of the Resulting Company are already listed on the Stock exchanges."
   }
  },
@@ -881,18 +937,29 @@
   }
  },
  "PICCADIL": {
-  "stamp": "46f36b8da8b4bc16bef9f35ea89873fd",
+  "stamp": "51a6cddfcb82191f12c175754e61f6b0",
   "verdict": {
-   "what_is_spun": "The Sugar Business of Piccadily Agro, demerged into Piccadily Food & Essential Limited; parent retains Distillery Business.",
-   "reason": "To focus on the core brand portfolio and the main Alco-Bev business; demerger of the sugar business into a new entity, filed with SEBI with KPMG as partner.",
-   "reason_class": "unrelated",
-   "insiders": "Not stated; scheme only says two listed companies with proportionate shareholding. Board approved a Section 232(2)(c) report on effects on promoters and KMP.",
-   "hidden_value": "Segment data shows the separation leaves the parent as a pure distillery: distillery assets Rs.1,53,410 lakhs vs sugar Rs.10,554 lakhs, while sugar carries Rs.22,167 lakhs of liabilities \u2014 a small, negative-net-asset, seasonal commodity unit exiting a 60-70% growth Alco-Bev story.",
+   "what_is_spun": "The Company's Sugar Business, demerged into Piccadily Food & Essential Limited, a wholly owned subsidiary",
+   "demerged_business_names": [
+    "Sugar Business",
+    "Sugar (reporting segment)",
+    "Piccadily Food & Essential Limited",
+    "PFEL",
+    "Resulting Company",
+    "Piccadily Food and Essential Limited",
+    "Piccadily Food & Essentials Limited",
+    "Piccadily Food and Essentials Ltd"
+   ],
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "not stated; documents say only that the Scheme creates two listed companies with proportionate shareholding, and that a Section 232(2)(c) report on the effect on promoters was approved",
+   "hidden_value": "Segment data separate the businesses: FY26 Sugar revenue Rs 23,305 lakhs with a segment loss of Rs 327 lakhs, assets Rs 10,554 lakhs against liabilities Rs 22,167 lakhs; Distillery revenue Rs 90,201 lakhs, segment profit Rs 23,872 lakhs.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Sugar is tiny versus distillery assets, loss-making in Q4 segment results, seasonal commodity industry unrelated to branded Alco-Bev holders.",
+   "selling_pressure_why": "Sugar segment is small and loss-making with negative net assets, a different industry from the retained distillery business",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "read_next": "The Scheme and Annexure B on piccadily.com for share entitlement ratio and sugar assets/liabilities transferred.",
+   "listing_timeline": "not stated; the April 28, 2026 disclosure says only that \"The effectiveness of the Scheme would result in the creation of two listed companies\", subject to NCLT, BSE, NSE, SEBI, shareholder and creditor approvals",
+   "read_next": "The Scheme and Annexure B on piccadily.com/investor-relations for share entitlement ratio and Sugar assets/liabilities transferred",
    "quote": "The effectiveness of the Scheme would result in the creation of two listed companies with proportionate shareholding with the Resulting Company housing the Sugar Business and the Company housing the Distillery Business."
   }
  },
@@ -913,34 +980,55 @@
   }
  },
  "PRICOLLTD": {
-  "stamp": "f9e251d315bb4ae97471ef400cd48eb6",
+  "stamp": "79f928b748bcb03d5c896e5446ac93a9",
   "verdict": {
-   "what_is_spun": "Driver Information & Connected Vehicle Solutions (DICVS) business \u2014 clusters, infotainment, e-cockpit, telematics, BMS, sensors \u2014 into Pricol Autotech Limited",
-   "reason": "Clear segregation so each business concentrates on core activities; DICVS has differing customer needs, competitive dynamics, capital allocation and risk profiles; creates simpler, sharper, agile entities and unlocks shareholder value",
+   "what_is_spun": "Driver Information & Connected Vehicle Solutions (DICVS) business \u2014 smart mobility and integrated automotive electronics \u2014 into Pricol Autotech Limited",
+   "demerged_business_names": [
+    "Driver Information & Connected Vehicle Solutions Business",
+    "DICVS",
+    "DICVS Undertaking",
+    "Demerged Undertaking",
+    "Pricol Autotech Limited",
+    "Pricol AutoTech Limited (Resulting Co)",
+    "Resulting Company",
+    "Automotive Technology Entity",
+    "Premium Mobility Tech Platform"
+   ],
+   "reason": "Strategic decision to create a simpler, sharper, more agile structure; businesses have differing customer needs, competitive dynamics, capital allocation and risk profiles, enabling focused standalone platforms and unlocking shareholder value",
    "reason_class": "value_unlocking",
-   "insiders": "Promoters hold 38.51% of Pricol Autotech post-scheme, mirroring Pricol (public 61.49%); Vikram Mohan, Chairman & MD, champions it; new entity to get dedicated leadership and aligned incentive structures",
-   "hidden_value": "DICVS is the larger half \u2014 INR 2,424.63 crores, 61.17% of FY26 consolidated turnover \u2014 an innovation-led automotive electronics platform in a USD 12bn+ market growing ~20% CAGR, previously buried inside a scale-led precision engineering conglomerate",
-   "selling_pressure": "unlikely",
-   "selling_pressure_why": "Spin is 61.17% of turnover, same automotive sector, 1:1 mirrored shareholding; index treatment not stated",
+   "insiders": "Promoters hold 100% of Resulting Company pre-Scheme, 38.51% post-Scheme, mirroring Pricol. Vikram Mohan is Chairman & MD. Plan cites dedicated leadership and \"incentive structures fully aligned\" to the tech business",
+   "hidden_value": "DICVS is the larger half \u2014 INR 2,424.63 crores, 61.17% of consolidated turnover \u2014 and an innovation-led electronics platform valued separately \"free from conglomerate discount\"; remainder (ACFMS, P3L) is scale-led precision engineering",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Newly listed entity absent from indices; different industry (automotive electronics/software) from the precision-engineering parent holders own",
    "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "read_next": "Full Scheme on pricol.com for DICVS asset, liability and debt allocation; Share Entitlement Ratio Report dated 27 June 2026",
+   "listing_timeline": "Not dated. 27-Jun-2026 filing: \"Yes. The equity shares of the Resulting Company shall be listed and admitted to trading on the Stock Exchanges pursuant to the Scheme subject to receipt of requisite approvals\"; presentation lists \"Listing and trading of new entities on stock exchange\" as final milestone after NCLT approval",
+   "read_next": "Full Scheme of Arrangement on pricol.com/investors \u2014 DICVS asset, liability and debt allocation plus standalone segment margins",
    "quote": "The turnover of the DICVS Business for the financial year ending March 31, 2026, stood at INR 2,424.63 crores."
   }
  },
  "STAR": {
-  "stamp": "f6c84b18b7044a4a6f589b4d8f0c2df7",
+  "stamp": "0d8d82b8eaadb0c38b7a7b5a4445a74b",
   "verdict": {
    "what_is_spun": "Arco Lab's Life Sciences business and Digital Innovation business, demerged into Pivot Path Private Limited",
+   "demerged_business_names": [
+    "Life Sciences business",
+    "Digital Innovation business",
+    "Demerged Undertaking",
+    "Identified Business",
+    "Arco Lab Private Limited",
+    "Pivot Path Private Limited"
+   ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "Not stated; documents say only that Pivot Path becomes a wholly owned subsidiary of Strides, which receives Pivot Path shares per the Scheme's entitlement ratio, Arco Lab's shares extinguished",
-   "hidden_value": "An intra-group restructuring, not a shareholder spin-off: Life Sciences and Digital Innovation are carved out of Arco Lab into a direct Strides subsidiary, vesting retrospectively from April 10, 2025; no value or financials disclosed",
+   "insiders": "not stated; documents say only that Pivot Path becomes a wholly owned subsidiary of Strides and will allot equity shares to Strides per the scheme's entitlement ratio",
+   "hidden_value": "Documents reveal only structure: Life Sciences and Digital Innovation businesses are carved into a separate Strides-owned vehicle effective April 10, 2025 (Appointed Date); no financials, valuation or rationale disclosed.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No shares go to Strides shareholders; Pivot Path stays a wholly owned, unlisted subsidiary, so no distribution or index exclusion",
-   "parent_or_spin": "parent",
+   "selling_pressure_why": "Shares go to Strides, not public shareholders; Pivot Path stays a wholly owned subsidiary, so no listed spin stock to sell",
+   "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "read_next": "The Scheme document itself \u2014 share entitlement ratio and the Demerged Undertaking's financials; then the record-date intimation",
+   "listing_timeline": "not stated",
+   "read_next": "The Scheme of Arrangement itself \u2014 share entitlement ratio and Demerged Undertaking financials; plus the Record Date intimation",
    "quote": "Pivot Path shall become a wholly owned subsidiary of Strides."
   }
  },
@@ -1230,19 +1318,24 @@
   }
  },
  "PRESTIGE": {
-  "stamp": "839f7b08baed00e719a1e97eb23ec9bf",
+  "stamp": "f6305c84a925ee62eae2c60d496bbee6",
   "verdict": {
-   "what_is_spun": "Prestige Hospitality Ventures Limited, a subsidiary, to be listed via IPO of its equity shares",
-   "reason": "No reason stated for the separation itself; the DRHP withdrawal is attributed to \"strategic considerations and uncertain market conditions\", with a fresh DRHP possible subject to suitable market conditions.",
-   "reason_class": "regulatory_strategic",
+   "what_is_spun": "Subsidiary Prestige Hospitality Ventures Limited (hospitality arm) via IPO of its equity shares; DRHP now withdrawn",
+   "demerged_business_names": [
+    "Prestige Hospitality Ventures Limited",
+    "PHVL"
+   ],
+   "reason": "Not stated for the separation itself; the DRHP was withdrawn by PHVL's board \"on account of strategic considerations and uncertain market conditions\"",
+   "reason_class": "not stated",
    "insiders": "not stated",
-   "hidden_value": "not stated \u2014 the filing gives no financials, valuation or leverage detail for PHVL; it only reveals the hospitality subsidiary's listing has been shelved pending better market conditions.",
-   "selling_pressure": "unlikely",
-   "selling_pressure_why": "IPO route, not a share distribution to parent holders; DRHP withdrawn, so no listing or index event occurs.",
-   "parent_or_spin": "parent",
+   "hidden_value": "not stated \u2014 documents disclose no financials, segment size or leverage; they reveal only that the hospitality arm is housed in a separate subsidiary, PHVL, that Prestige had intended to list",
+   "selling_pressure": "unclear",
+   "selling_pressure_why": "No share distribution occurs; the IPO was withdrawn and documents give no size or index detail",
+   "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "read_next": "The withdrawn PHVL DRHP dated April 24, 2025 \u2014 its hospitality financials, offer size and promoter shareholding.",
-   "quote": "However, the board  of directors  of PHVL  has decided to withdraw the DRHP on account of strategic considerations and uncertain market conditions, pursuant to its resolution dated  September  25, 2026  and corresponding communication dated September 25 , 2026  made to the book running lead managers to the Offer ."
+   "listing_timeline": "Per the September 25, 2026 disclosure, PHVL withdrew its April 24, 2025 DRHP and \"may consider filing a fresh draft red herring prospectus with SEBI in the future for an initial public offering of its equity shares... subject to suitable market conditions, receipt of requisite approvals and other considerations\" \u2014 no date given",
+   "read_next": "The withdrawn PHVL DRHP dated April 24, 2025, for hospitality revenue, EBITDA and debt",
+   "quote": "However, the board of directors of PHVL has decided to withdraw the DRHP on account of strategic considerations and uncertain market conditions, pursuant to its resolution dated September 25, 2026 and corresponding communication dated September 25, 2026 made to the book running lead managers to the Offer."
   }
  },
  "PRIVISCL": {
@@ -1310,19 +1403,27 @@
   }
  },
  "SKFINDUS": {
-  "stamp": "56bf9198c67ebe2ba63651383602bcd7",
+  "stamp": "524bf5528e49cd1d9520f39ec6ed1fb6",
   "verdict": {
-   "what_is_spun": "SKF India's demerged industrial undertaking, transferred to SKF India (Industrial) Limited as the resulting company",
+   "what_is_spun": "Not stated; only that a business of SKF India Limited vested in SKF India (Industrial) Limited",
+   "demerged_business_names": [
+    "SKF India (Industrial) Limited",
+    "SKF Industrial",
+    "Resulting Company",
+    "the Company",
+    "SKF INDIA (INDUSTRIAL) LIMITED"
+   ],
    "reason": "not stated",
    "reason_class": "not stated",
    "insiders": "not stated",
-   "hidden_value": "Separated industrial entity shows 1,731 bps PBT improvement to 9.5% of sales, 11.5% excluding demerger one-offs, with net working capital cut 2.8% QoQ to 18.7% of sales",
+   "hidden_value": "not stated; documents disclose only authorised capital Rs 50,00,00,000 and paid-up capital Rs 49,43,79,630, incorporation 17/12/2024, balance sheet date 31/03/2025",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents give only Main Board listing on December 05, 2025; no size, index or shareholder data stated",
+   "selling_pressure_why": "Documents state only listing date and CIN change; no size, shareholding, index or industry detail",
    "parent_or_spin": "unclear",
    "option_pricing_date": "not stated",
-   "read_next": "The Scheme of Arrangement sanctioned September 26, 2025, for share entitlement ratio and resulting shareholding pattern",
-   "quote": "In compliance with the NCLT Order, the equity shares of the Company were listed on the Main Board of BSE Limited (\"BSE\") and National Stock Exchange of India Limited (\"NSE\") with effect from December 05, 2025."
+   "listing_timeline": "Per the February 09, 2026 intimation: \"the equity shares of the Company were listed on the Main Board of BSE Limited (\u201cBSE\u201d) and National Stock Exchange of India Limited (\u201cNSE\u201d) with effect from December 05, 2025\"",
+   "read_next": "The Scheme of Arrangement sanctioned by NCLT order dated September 26, 2025, for assets, rationale and share entitlement",
+   "quote": "In compliance with the NCLT Order, the equity shares of the Company were listed on the Main Board of BSE Limited (\u201cBSE\u201d) and National Stock Exchange of India Limited (\u201cNSE\u201d) with effect from December 05, 2025."
   }
  },
  "SUZLON": {
@@ -3336,6 +3437,1256 @@
     "source": "Presentation May 2026 \u2014 page 10"
    },
    "not_found": "No segment PAT any year; no 'Financial Services' segment for FY2024/FY2025 (annual reports split Investment & Financing, Broking, E-Governance, Insurance in \u20b9 lakhs); Q1FY27 deck shows no segment split."
+  }
+ },
+ "MAHSEAMLES::rationale": {
+  "stamp": "cc589f7e5ade8c12875b62799fb60132",
+  "verdict": {
+   "rationale": "Maharashtra Seamless Limited (MSL) is splitting into three listed entities: a composite scheme approved by the Board on 07 October 2026 (appointed date 01 October 2026) demerges Demerged Undertaking 1 into MSL Seamless Tubes Limited (MSTL) and Demerged Undertaking 2 into United Seamless Limited (USL), both currently wholly owned subsidiaries whose \u20b91,00,000-share pre-scheme capital is cancelled and reissued to MSL shareholders. On FY2025-26 operational turnover, DU1 is \u20b9793 crore (16.98%), DU2 \u20b9693 crore (14.84%) and the remainder staying with MSL \u20b93,185 crore (68.18%) of \u20b94,671 crore total. The Board's stated reason is that MSL runs multiple undertakings with distinct geographies, product profiles, technologies, customer bases, logistics, capital requirements and growth trajectories \u2014 specifically three manufacturing plants on three different technology platforms (CPE at Nagothane, MPM at Mangaon, FQM at Telangana) serving different industry segments, plus a drilling/rig business and renewable power assets. The scheme says manufacturing, drilling and renewable energy have different capital intensity and funding needs, so separation permits better assessment of capital needs, focused deployment and flexibility for expansion; renewable assets move with the undertaking they power, for energy-management efficiency and sustainability support. The rig business is called out as having distinct operational and commercial characteristics versus pipe manufacturing, warranting focused management and operational planning. The Board also expects improved transparency through independent financial and operational reporting, better performance evaluation and long-term value creation. It is structured to be value-neutral \u2014 1 share of each resulting company (INR 5) for every 5 MSL shares (INR 5), keeping the same proportionate holding (promoters 70.3008%, public 29.6992%), with no cash consideration, no creditor compromise and listing of MSTL and USL on BSE and NSE. The trigger on the calls was investor pressure on what MSL would do with the rig and its surplus cash.",
+   "evolution": "The idea first surfaces on the Nov 2023 call as a rig disposal, not a demerger: analyst Vikash Singh asks whether the plan to sell the single rig has been dropped given strong oil prices and cash flows, and D.P. Jindal says it has not been dropped but they are 'looking for the right time to hive off', adding they already have a plan for \u20b9852 crore of cash and want investors to benefit from it. By the Nov 2024 call the option set has widened and acquired a date \u2014 analyst Rishabh describes it as a plan to 'demerge or sell' the rig business post May 2025 \u2014 but Kaushal Bengani declines to give any realisation expectation because the matter had not yet reached the Board. By the scheme filing of 07 October 2026 the plan has changed shape entirely: no sale, and far wider scope than the rig \u2014 a two-way demerger of whole operational undertakings (manufacturing plants on different technology platforms, drilling and renewable power assets) into two separately listed companies, with the rig segregation now only one of seven stated benefits.",
+   "points": [
+    {
+     "call": "Nov 2023",
+     "point": "An analyst asks whether the long-stated plan to sell MSL's single rig has been abandoned given good oil prices and strong free cash flow; the Chairman says the plan stands but is waiting on timing.",
+     "quote": "No, we have not dropped, but we are looking for the right time to hive off."
+    },
+    {
+     "call": "Nov 2023",
+     "point": "Pressed on what MSL would do with surplus cash it has no avenues to deploy, D.P. Jindal cites an existing plan for \u20b9852 crore, openness to opportunities in the same line of business, and a commitment that investors benefit from the cash.",
+     "quote": "First, we have a plan for these 852 crores, and then we are also open for any new opportunity in the same field of business."
+    },
+    {
+     "call": "Nov 2024",
+     "point": "An analyst frames the rig plan as demerger-or-sale with a post-May 2025 timeline, asking what realisation and how long the process takes \u2014 showing the demerger route was already in investors' understanding two years before the scheme.",
+     "quote": "Also on the rig business that you have, I understand that you are planning to demerge or sell it post May '25."
+    },
+    {
+     "call": "Nov 2024",
+     "point": "Kaushal Bengani refuses any valuation or realisation figure, saying the rig separation is an intention not yet taken to the Board, and that communication will follow Board approval.",
+     "quote": "We don't have an expectation figure right now because that matter has not yet been discussed at Board level."
+    },
+    {
+     "call": "Nov 2024",
+     "point": "Capex discussion is confined to the ongoing Telangana debottlenecking and what is already in the presentation; no restructuring or separate-capital-pool argument is offered on the call.",
+     "quote": "We have that. That is why we are doing the debottlenecking at Telangana."
+    },
+    {
+     "call": "Scheme",
+     "point": "The Board's threshold finding is that MSL houses several undertakings that differ on nearly every operating dimension, justifying reorganisation into separate focused companies with identical proportionate shareholding.",
+     "quote": "The said undertakings having distinct geographies, product profiles, technologies used, operational requirements, customer profile and base, market focus, logistics consideration, commercial considerations and growth opportunities."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (a): the three manufacturing sites \u2014 Nagothane, Mangaon and Telangana \u2014 serve different industry segments and are to become independent verticals with dedicated management.",
+     "quote": "The manufacturing undertakings at Nagothane, Mangaon and Telangana cater to different industry segments and operate with distinct product portfolios, customer profiles and market dynamics."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (b): the plants run three different pipe-making technologies, each needing its own specialised management, modernisation path and technical expertise.",
+     "quote": "The manufacturing facilities operate on different technological platforms, including CPE technology at Nagothane, MPM technology at Mangaon and FQM technology at Telangana, each requiring specialized operational management, modernization initiatives and technical expertise."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (d) \u2014 the capital-allocation argument: pipe manufacturing, drilling and renewable energy have unlike capital intensity and funding profiles, so separation sharpens assessment of capital needs and expansion flexibility.",
+     "quote": "The manufacturing, drilling and renewable energy businesses have different capital intensity and funding requirements."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (e): renewable power assets are not pooled centrally but ride along with the undertaking they serve, for energy-management efficiency and sustainability support.",
+     "quote": "The renewable power assets proposed to be transferred along with the respective undertakings are expected to provide better operational alignment, energy management efficiencies and support sustainability initiatives of the corresponding businesses."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (f) carries forward the rig question raised on both calls, now as segregation rather than sale, justified by the rig business being commercially unlike pipe making.",
+     "quote": "The rig business has distinct operational and commercial characteristics as compared to the pipe manufacturing business."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit (g): independent reporting for each entity is expected to improve transparency and performance evaluation and create long-term value \u2014 the closest the filing comes to a valuation-rerating argument.",
+     "quote": "The proposed demerger would result in creation of focused business entities with independent financial and operational reporting, thereby enhancing transparency, improving performance evaluation and facilitating long-term value creation for stakeholders."
+    },
+    {
+     "call": "Scheme",
+     "point": "Scale of what leaves MSL: DU1 \u20b9793 crore (16.98%) and DU2 \u20b9693 crore (14.84%) of FY2025-26 operational turnover, against \u20b93,185 crore (68.18%) retained, on a \u20b94,671 crore total.",
+     "quote": "Demerged Undertaking 1 793 16.98% Demerged Undertaking 2 693 14.84% Remaining 3185 68.18% Total 4671 100.00%"
+    },
+    {
+     "call": "Scheme",
+     "point": "Consideration is paper, not cash: a 1-for-5 share entitlement in each resulting company, expressly engineered to leave shareholder economics unchanged (promoters 70.3008%, public 29.6992% in both MSTL and USL).",
+     "quote": "The above share exchange ratios shall ensure same proportionate shareholding structure of Resulting Company 1 and Resulting Company 2 with Demerged Company and hence Scheme shall be value neutral to the Demerged Company's shareholders."
+    },
+    {
+     "call": "Scheme",
+     "point": "Both resulting companies are to be listed, making this a three-way listed split rather than an internal reorganisation; creditors are untouched, with no compromise offered and liabilities following their undertakings.",
+     "quote": "The equity shares of MSTL and USL shall be listed and admitted to trading on BSE and NSE pursuant to the Scheme subject to receipt of requisite approvals from statutory and regulatory authorities."
+    }
+   ],
+   "what_management_expects": "Three focused, separately listed entities: each undertaking pursuing an independent growth strategy with dedicated management, technology-specific operational focus and strategies tailored to its end-user sectors; operational efficiencies and optimum resource utilisation; better assessment of capital needs, focused deployment and expansion flexibility across manufacturing, drilling and renewables; renewable assets aligned to the businesses they power; independent reporting improving transparency, performance evaluation and long-term stakeholder value. Value-neutral to shareholders.",
+   "gaps": "No margin, EBITDA, valuation or rerating figures; no asset-to-undertaking mapping; no mention of lenders, partners, investor demands for demerger, timelines, costs, or why sale became demerger."
+  }
+ },
+ "MAHSEAMLES::segments": {
+  "stamp": "1f05222559d15cf3b56667730c283d5d",
+  "verdict": {
+   "segment_name": "Steel Pipes & Tubes (the seamless + ERW pipe business; presentations break out the 'Seamless' line within it)",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Operating_profit = 'Segment Results' from standalone segment reporting (segment revenue less segment expense, before finance costs; PBT for the segment is slightly lower \u2014 FY24 1,034.89, FY25 740.88, FY26 520.44 after finance cost and FY26 exceptional items of 3.04). Revenue is external: Steel Pipes & Tubes reports nil inter-segment sales in all three years (inter-segment sales arise only in Power-Electricity). Segment-level PAT is not disclosed. Presentations give Seamless-only EBITDA (not revenue): FY24 1,035; FY25 720; FY26 527 (Presentation Aug 2026 \u2014 page 9), versus total-company EBITDA of 1,223 / 922 / 684 (Presentation Aug 2026 \u2014 page 8).",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 5305.99,
+     "operating_profit": 1037.11,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 108"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 5167.62,
+     "operating_profit": 743.87,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 110"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 4615.46,
+     "operating_profit": 526.01,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 112"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q1 FY27",
+    "revenue": null,
+    "operating_profit": 151,
+    "source": "Presentation Aug 2026 \u2014 page 9"
+   },
+   "not_found": "No segment-level PAT in any year; no quarterly revenue for the pipes/seamless business (quarterly pages give only company-wide revenue); Q1 FY27 figure is Seamless-only EBITDA, not the full segment."
+  }
+ },
+ "SUNTECK::rationale": {
+  "stamp": "b3c9a081e98c88842ed0ba9586444f77",
+  "verdict": {
+   "rationale": "No earnings-call passages were supplied with this request \u2014 the \"CALL PASSAGES\" section is empty \u2014 so everything below comes solely from the Regulation 30 filings dated 1st October, 2026 and the scheme rationale section. The transaction is not a spin-off of a business out of the listed company but the reverse: a demerger of the \"Sunteck City 4th Avenue Undertaking\", a residential real estate project, out of Satguru Corporate Services Private Limited (the Demerged Company, a wholly owned subsidiary) and into Sunteck Realty Limited (the Resulting Company, the listed entity), on a going concern basis under Sections 230-232 of the Companies Act, 2013. Management characterises it twice in the filing as \"essentially an internal reorganisation between Sunteck and its wholly owned subsidiary - Satguru.\" The stated benefits are three: consolidation of the Demerged Business Undertaking; achieving administrative and operational efficiencies; and efficient pooling and deployment of financial and managerial resources so as to \"facilitate project-specific capital allocation and funding strategies.\" The only quantification given is scale: the Demerged Business Undertaking's turnover for the year ended 31 March 2026 was Rs. ~869 Crs, representing ~77% of Sunteck's total consolidated turnover for FY ended 31st March 2026 \u2014 i.e. the group's dominant revenue stream currently sits one level below the listed entity, which is the structural anomaly the scheme removes. Because Satguru is wholly owned, no shares are issued, there is no cash consideration and no share exchange ratio, there is no change in the shareholding patterns of either company, and no fresh listing is required since Sunteck's equity shares are already listed on the Stock Exchanges. The scheme remains subject to requisite statutory and regulatory approvals including the approval of the National Company Law Tribunal. The same board meeting (6.45 p.m. to 7.05 p.m. on Thursday, 1st October, 2026) also approved, on the Audit Committee's recommendation, the appointment of Ernst & Young LLP as Internal Auditor up to 31st March, 2027.",
+   "evolution": "No call-by-call evolution can be reconstructed: no earnings-call passages were provided, so there is no dated record of how or when the idea surfaced or changed. The only dated evidence is 1st October, 2026, when the Board of Directors approved the Scheme of Arrangement and the company disclosed it to NSE (Symbol: SUNTECK) and BSE (Scrip Code: 512179) under Regulation 30 read with the SEBI Master Circular dated 30th January, 2026. The filing presents the rationale as settled and final, with no reference to prior discussion, to investor, lender or partner requests, or to any earlier version of the plan.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "Direction of the transaction: the project moves up from the wholly owned subsidiary Satguru into the listed parent Sunteck on a going concern basis, not out of the listed company.",
+     "quote": "The Scheme provides for the demerger and consolidation of the Demerged Business Undertaking (as defined in the Scheme) of Satguru into Sunteck, on a going concern basis."
+    },
+    {
+     "call": "Scheme",
+     "point": "The business being separated is a single named residential project, the Sunteck City 4th Avenue Undertaking \u2014 not a segment or a services arm.",
+     "quote": "The Demerged Business Undertaking of the Demerged Company comprises of the residential real estate project under \u201cSunteck City 4th Avenue Undertaking\u201d (as defined in the Scheme)."
+    },
+    {
+     "call": "Scheme",
+     "point": "The only number management cites is the undertaking's scale: Rs. ~869 Crs of turnover, ~77% of Sunteck's consolidated turnover in FY26 \u2014 the group's dominant revenue line sitting below the listed entity.",
+     "quote": "The turnover of the Demerged Business Undertaking of Satguru for the year ended 31 March 2026 was Rs. ~869 Crs representing ~77% of the total consolidated turnover of Sunteck for the year ended 31st March 2026."
+    },
+    {
+     "call": "Scheme",
+     "point": "Stated benefit one is simply consolidation of the undertaking, with administrative and operational efficiency given as a separate, second benefit.",
+     "quote": "1. Consolidation of Demerged Business Undertaking  \n2. To achieve administrative and operational efficiencies"
+    },
+    {
+     "call": "Scheme",
+     "point": "The capital-structure argument: pooling financial and managerial resources to enable funding and allocation decisions at the level of individual projects.",
+     "quote": "Efficient pooling and deployment of financial resources, managerial resources and facilitate project-specific capital allocation and funding strategies."
+    },
+    {
+     "call": "Scheme",
+     "point": "Framed as an internal reorganisation rather than a value-unlocking separation; the characterisation is repeated in both the division description and the shareholding section.",
+     "quote": "The Scheme is essentially an internal reorganisation between Sunteck and its wholly owned subsidiary - Satguru."
+    },
+    {
+     "call": "Scheme",
+     "point": "No securities are issued and no shareholder economics change, because the demerged company is already 100% owned.",
+     "quote": "Since, Satguru is a wholly owned subsidiary of Sunteck, hence, no shares are proposed to be issued pursuant to the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "No consideration, no exchange ratio and no new listing event for investors to trade around \u2014 Sunteck's shares are already listed.",
+     "quote": "The equity shares of the Resulting Company are already listed on the Stock Exchanges. There is no requirement of any new listing of shares as there is no consideration involved in the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "Completion risk is regulatory and timing-related: NCLT and other statutory approvals are still outstanding as of the 1st October, 2026 board approval.",
+     "quote": "The Scheme is subject to the requisite statutory / regulatory approvals including the approval of National Company Law Tribunal."
+    },
+    {
+     "call": "Scheme",
+     "point": "The approving body and date, disclosed under Regulation 30 to both exchanges; the same short board meeting also appointed EY as Internal Auditor up to 31st March, 2027.",
+     "quote": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\u201cListing Regulations\u201d), we wish to inform you that Board of Directors at their meeting held today i.e. Thursday, 1st October, 2026 has approved:"
+    }
+   ],
+   "what_management_expects": "For Sunteck (Resulting Company): consolidation of the 4th Avenue undertaking into the listed entity, administrative and operational efficiencies, and efficient pooling of financial and managerial resources enabling project-specific capital allocation and funding strategies. For Satguru (Demerged Company): nothing stated. No margin, cost-saving, debt, NAV or valuation-unlocking expectation is quantified anywhere; the only figures given are the undertaking's Rs. ~869 Crs turnover and ~77% share of FY26 consolidated turnover.",
+   "gaps": "No earnings calls supplied, so no management colour, no requester (investors, lenders, partners), no margin, debt, tax, NAV or valuation impact, no timeline, no record date, no Satguru-side effect."
+  }
+ },
+ "SUNTECK::segments": {
+  "stamp": "035f96e00fd39160676f86708f978d00",
+  "verdict": {
+   "segment_name": "Satguru Corporate Services Private Limited (wholly owned subsidiary holding the Sunteck City 4th Avenue Undertaking / Demerged Business Undertaking)",
+   "unit": "\u20b9 lakh",
+   "measure_notes": "Figures are the subsidiary's own standalone entity financials as disclosed in Form AOC-I, not a reported business segment: SRL discloses only one reportable segment ('Construction and Development of Real Estate projects and allied activities'), so no segment revenue/result is published for the demerged undertaking. Revenue = 'Turnover (including other income)' (entity-level, includes any inter-company income). Profit line is PBT (Profit before Tax) \u2014 no EBITDA/EBIT/segment-result line is given. PAT = Profit after Tax. No carve-out of the Sunteck City 4th Avenue Undertaking alone appears on these pages.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 378 (single-segment disclosure only; no Satguru/undertaking figures on the supplied pages)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 pages 287, 392 (single-segment disclosure only; no Satguru/undertaking figures on the supplied pages)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 87258.6,
+     "operating_profit": 30720.83,
+     "pat": 22968.05,
+     "source": "Annual Report 2026 \u2014 page 176 (Form AOC-I, Sr. No. 2, Satguru Corporate Services Private Limited)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "FY2024/FY2025 Satguru figures; any segment revenue/EBITDA for the 4th Avenue Undertaking; quarterly data \u2014 Q1 FY27 (rev 191, EBITDA 67, PAT 42 cr) is SRL consolidated, not the demerged business."
+  }
+ },
+ "UPL::rationale": {
+  "stamp": "f793e3e055464d5605a142a3e0297fa5",
+  "verdict": {
+   "rationale": "Management frames the separation as two linked moves to unwind a conglomerate structure in which crop protection and seeds compete for the same capital. On the Feb 2, 2026 call, Toshan Tamhane gave three objectives for the Advanta (seeds) IPO: (a) deleveraging of UPL Ltd's balance sheet, (b) value unlock for KKR, which put in a cheque of '$300-plus million' into Advanta more than three years earlier, and (c) the argument that 'the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business,' citing Corteva's own announced split of crop protection and seeds as validation, and describing Advanta as the eighth largest seeds player globally with 'a journey and destiny of its own.' Bikash Prasad stressed the Advanta listing is an offer for sale, not a primary raise \u2014 Advanta is cash-surplus and does not need the money \u2014 with proceeds going to the group 'largely for deleveraging of the group balance sheet,' and valuation to be set by a book-building price discovery process under applicable law. The separately filed Scheme (board-approved February 20, 2026) then consolidates the India crop protection business held in UPL SAS (UPL holds 90.91%) and the international crop protection business held via UPL Corp / UPL Cayman (UPL holds 77.78%) into UPL Global ('UPL 2'), to be listed \u2014 billed as the 'World's Second Largest Listed Pure-Play Crop Protection Platform' \u2014 via amalgamation of UPL SAS into UPL, a vertical demerger of India crop protection into UPL Global, and amalgamation of UPL Corp into UPL Global, with no cash consideration. The stated problems it solves: a complicated group structure with misaligned shareholder interests across layered subsidiaries, blurred value discovery for investors, constrained independent capital-raising, and split managerial and board focus; the demerged India crop protection undertaking was INR 24,120 Mn of turnover in FY25, 31.15% of combined UPL 1 turnover. Ratios: 1,000 UPL 1 shares (INR 2) for every 48 UPL SAS shares (INR 10); 1,000 UPL 2 shares for every 213 UPL Cayman shares (USD 1); and 1:1 UPL 2 for UPL 1 on the demerger, leaving UPL 1 promoters at 33.09% (from 33.51%) and UPL 2 at 71.56% promoter / 28.44% public. On the call an analyst (Tarang) pushed back hard that deleveraging and an exit for an external shareholder make sense but value creation for a UPL minority shareholder does not, given how the entities are stacked \u2014 a challenge management did not rebut.",
+   "evolution": "The passages supplied are all tagged [Feb 2026], so the three-year arc is not visible in them; within that window the sequence is a Q3 FY26 earnings call where the Advanta seeds IPO was raised only in Q&A, under analyst questioning, and was defended as an offer for sale for group deleveraging plus a KKR exit, with the crop-protection-versus-seeds capital allocation logic offered last ('And lastly, third...'). Management there pointed outward to Corteva's announced crop protection/seeds split rather than to a UPL plan of its own, and declined to discuss Advanta's valuation beyond saying the Board would assess market conditions at the time. Weeks later, on February 20, 2026, the Board formalised the far larger step in a composite scheme of arrangement creating a separately listed pure-play crop protection entity (UPL Global), where the rationale shifts from deleveraging and partner exit to structural simplification, clearer value discovery and independent capital raising. So the idea moves from a cash-raising/partner-exit transaction at the seeds subsidiary to a full two-listed-entity reorganisation of the parent.",
+   "points": [
+    {
+     "call": "Feb 2026",
+     "point": "An analyst challenged the premise of the Advanta listing, noting the seeds business is cash-surplus and does not need capital, asking who the value is actually unlocked for.",
+     "quote": "I'm just trying to understand that it's a business which is cash surplus. It's a business that has been doing exceedingly well. The entity doesn't need cash. So what's the thought process behind listing the entity given the structure of the entity, given the structure of the holding, so to say?"
+    },
+    {
+     "call": "Feb 2026",
+     "point": "CFO Bikash Prasad confirmed the Advanta IPO is secondary, not a primary raise \u2014 no new money into Advanta.",
+     "quote": "So this transaction is offer for sale. It's not a primary transaction."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Proceeds are earmarked for the group's balance sheet rather than business investment.",
+     "quote": "he group largely for deleveraging of the group balance sheet."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Asked whether it is essentially deleveraging plus an exit for external shareholders, management conceded that is how it looks as of now, subject to market conditions and a final Board assessment.",
+     "quote": "But yes, largely, we can say as we think now, it looks like more for deleveraging."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Toshan Tamhane set out three objectives, the first two being UPL deleveraging and value unlock for KKR, which invested over $300 million into Advanta more than three years earlier.",
+     "quote": "There is b ) value unlock for KKR. If you recollect KKR partnered with Advanta more than 3 years back when they put in a check of $300 -plus million into Advanta."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "The third objective is the structural argument: seeds and crop protection have fundamentally different cash flow and capital allocation needs.",
+     "quote": "And lastly, third, we believe that the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Management cited Corteva's announced crop protection/seeds split as external validation and positioned Advanta as the eighth largest global seeds player deserving its own path.",
+     "quote": "As you would have seen globally, Corteva has also announced a split between crop protection and seeds because just those two businesses are fundamentally different, and we believe Advanta as the eighth largest seeds player globally has a journey and destiny of its own."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Management said the unlocked value reaches UPL both as shareholder and through restructuring/deleveraging, with price discovery happening via the IPO.",
+     "quote": "And that value does flow through to UPL, both as a shareholder and from a restructuring deleveraging standpoint."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "The analyst's unresolved objection: the logic works for deleveraging and for the external shareholder's exit, but not evidently for a UPL minority holder given the holding structure; management did not quantify a rebuttal.",
+     "quote": "But from being a shareholder at UPL, given the structure of how these entities are placed, I'm not too sure how much of value creation will it help for a shareholder of UPL ."
+    },
+    {
+     "call": "Scheme",
+     "point": "The Scheme consolidates the India crop protection business in UPL SAS and the global crop protection business in UPL Cayman into one focused, pure-play platform with independent management.",
+     "quote": "The Scheme proposes to consolidate  the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure-play crop protection platform."
+    },
+    {
+     "call": "Scheme",
+     "point": "Two listed entities result: UPL 1 as a diversified agriculture and specialty chemicals platform that also incubates new verticals, and UPL 2 as a dedicated crop protection platform, so investors can self-select by strategy and risk profile.",
+     "quote": "This will enable clearer value discovery by providing flexibility to the investors to select investments which best suit their investment strategies and risk profile."
+    },
+    {
+     "call": "Scheme",
+     "point": "Each entity gains independent access to capital and can optimise its own capital structure, aligning capital allocation to focused strategies.",
+     "quote": "The Scheme will allow UPL 1 and UPL 2 to raise capital independently, allowing each entity to optimize its capital structure and pursue business opportunities more efficiently and effectively."
+    },
+    {
+     "call": "Scheme",
+     "point": "Structural simplification is an explicit goal \u2014 aligning operations and the interests of different shareholder groups across the layered holding chain \u2014 plus manufacturing and market-access synergies and cost efficiencies.",
+     "quote": "The Scheme will simplify the group structure by aligning business operations and interests of various shareholders."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing names the constituencies being courted: a different set of investors, strategic partners and lenders, alongside sharper managerial and board focus.",
+     "quote": "The Scheme will e nhance managerial and board focus and enable UPL 2 to build a wider capital and financial base, by attracting a different set of investors, strategic partners, lenders and stakeholders, as well as promoting overall business growth ."
+    },
+    {
+     "call": "Scheme",
+     "point": "Scale framing: the press release headlines the creation of the world's second largest listed pure-play crop protection platform, approved by the Board on February 20, 2026.",
+     "quote": "UPL Announces the Creation of  World's Second Largest Listed Pure -Play Crop Protection Platform"
+    },
+    {
+     "call": "Scheme",
+     "point": "Sizing of the demerged piece: the India crop protection undertaking had FY25 turnover of INR 24,120 Mn, 31.15% of combined UPL 1 turnover; no cash consideration is payable and UPL SAS and UPL Cayman are both dissolved.",
+     "quote": "No cash consideration shall be payable under the Scheme."
+    }
+   ],
+   "what_management_expects": "For UPL 1: a diversified agri and specialty chemicals platform incubating new verticals, de-levered by Advanta IPO proceeds. For UPL 2/UPL Global: a pure-play, independently managed crop protection platform with research, manufacturing and market-access synergies, cost efficiencies, its own optimised capital structure, and a wider base of investors, strategic partners and lenders. Across both: clearer value discovery, sharper board focus, sustainable growth.",
+   "gaps": "No debt quantum or leverage target, no segment margins or synergy figures, no debt split between entities, no Advanta IPO size/valuation, timeline, tax or cost detail."
+  }
+ },
+ "UPL::segments": {
+  "stamp": "6b043ddac35c272c28810cbc902f7ec3",
+  "verdict": {
+   "segment_name": "Crop protection (UPL's global crop protection business \u2014 the reportable 'Crop protection' operating segment; branded UPL Global / UPL Corp in presentations)",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Operating profit = 'Total Segment Results' per Ind AS 108 segment reporting, i.e. segment EBIT before finance costs, unallocable expenditure/income, share of associates/JV and exceptional items (depreciation/amortisation already charged, so it is not EBITDA). Revenue shown is EXTERNAL segment revenue (line 1a); segment revenue net of intersegment is 36,567 (FY24), 38,629 (FY25 restated) and 42,206 (FY26). FY2025 is taken on the FY2026 restated basis (post-harvest/Decco reclassified from Crop protection to the Seeds & Post-Harvest segment); as originally reported in AR2025 p205, FY2025 crop protection external revenue was 39,796 and segment result 4,992. Segment-level PAT is not disclosed \u2014 only group PAT. Feb 2026 presentation (p26) separately cites UPL Global FY25 pro-forma crop protection revenue of \u20b938,500 cr.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 36896,
+     "operating_profit": 1794,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 203"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 38865,
+     "operating_profit": 4900,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 202"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 42399,
+     "operating_profit": 5738,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 202"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
+   },
+   "not_found": "No segment-level PAT any year. No quarterly crop-protection segment data: Q1FY27 pages give only UPL Limited consolidated (rev 10,181, EBITDA 1,500) and UPL SAS India CP sub-platform (rev 1,140, EBITDA 340)."
+  }
+ },
+ "SKFINDIA::rationale": {
+  "stamp": "d78fba2eb7a84e93ade26e40cbdf3a39",
+  "verdict": {
+   "rationale": "Management says SKF India is demerging its Industrial business into a new entity, SKF India (Industrial) Limited, leaving Automotive in the listed SKF India Limited, not to fix a problem but because the two businesses have diverged: 'external' drivers differ (Industrial is driven by infrastructure spend and China Plus One; Automotive by EVs and CAFE norms), customer needs differ (Industrial serves many verticals such as steel, heavy, metals, railways, wind; Automotive serves a few large OEMs plus aftermarket), and manufacturing philosophy differs (one needs large-batch processing, the other shorter cycle times, smaller batches and more innovative products). The stated purpose is 'two fit-for-purpose independent companies' that can each accelerate growth and profitability, with independent management focus (separate board, leadership, sales and manufacturing teams), tailored innovation, tailored capital deployment, higher manufacturing efficiency, more agility, and better standalone visibility for investors. Management repeatedly stressed the split is not driven by weakness: FY25 revenue was about Rs 5,000 crore with 17.2% EBITDA, 11.5% PBT, ROCE 28%-29% and ROE 21%-22%, and a five-year CAGR of 16.4% in revenue, 17.4% in PBT and 17.5% in EPS. On economics, carve-out financials submitted to SEBI showed FY23-24 margins of roughly 14%-15% for both sides, similar despite very different mixes because Automotive is 95% localized while Industrial is only about 40% localized and carries more traded product; management expects Industrial margins to normalize upward as localization rises (overall over 80% of components now sourced locally, with a further ~5 percentage point gain targeted in 3-4 years). The split also reclassifies the tractor business (agriculture and electricals), today reported under Automotive, into Industrial, which is why the scheme shows Industrial at 63% of FY24 revenue versus the ~50%-54% quoted in quarterly commentary. Asset allocation was disclosed progressively: Haridwar 100% Automotive (4 lines), Bangalore 7 of 10 lines and ~85% of land to Automotive, Pune 12 of 22 lines Automotive and 10 Industrial with land split 52:48 and a new Industrial factory to be built next to the existing Automotive plant, and manpower 55%-60% Automotive versus 40%-45% Industrial. Costs of the split are real and visible: Q1 FY26 margins fell 530 basis points, partly from one-time demerger IT and consultant costs that management said will continue for the next year to year and a half.",
+   "evolution": "By the Feb 13, 2025 Q3 FY25 call the scheme was already filed with the exchanges and three years of carve-out financials were with SEBI, so the discussion was defensive and definitional - reconciling 63% versus 54% Industrial revenue, auto-versus-industrial margins and localization - with investors (Mukesh Saraf, Viraj Kacharia, Ravi Purohit) pressing for pro forma segment numbers ahead of a shareholder vote. Management then held a dedicated Demerger Update Call on April 09, 2025 devoted to rationale, pro forma financials and timeline, and the May 19, 2025 Q4 call formalized the 'two fit-for-purpose independent companies' language and first disclosed the plant-level split (Haridwar to Automotive, Bangalore 80%-85% Automotive, Pune split with a new Industrial factory). The June 30, 2025 investor meet went deeper: it named the external drivers (infrastructure and China Plus One versus EVs and CAFE norms), gave the first forward split guidance (Automotive 10%-12%, Industrial 8%-10% growth to FY28, Industrial faster thereafter, 17%-19% EBITDA maintained), and confirmed separate boards and leadership before the effective date. By the Aug 07, 2025 Q1 FY26 call the rationale was unchanged but execution detail and cost arrived - line-by-line, land and manpower splits, shareholder approval obtained July 14, 2025, NCLT decision expected September - and the scheme documents then record the NSE observation letter of March 28, 2025, the NCLT filing of April 09, 2025, the October 15, 2025 record date and the October 17, 2025 allotment of 4,94,37,963 shares.",
+   "points": [
+    {
+     "call": "Feb 2025",
+     "point": "Management framed the separation as enabling more industry-specific product development and innovation rather than as a fix for a problem.",
+     "quote": "I would say this gives us the opportunity to actually innovate more and add more products specific to the industries we want to serve"
+    },
+    {
+     "call": "Feb 2025",
+     "point": "CFO Ashish Saraf said the carve-out financials submitted to SEBI show near-identical margins for both entities despite Automotive being 95% localized versus Industrial at ~40%, which carries more traded product.",
+     "quote": "So because of a different mix, the margin based on the carve-out financials, which we recently submitted is going to be very similar for both the companies."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Vasudevan explained that globally industrial margins are higher, but in India Industrial is dragged by traded product and should normalize as localization increases.",
+     "quote": "In India because of traded products being higher in industrial, it's a bit lower."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "On a direct question, Saraf put FY23-24 carve-out margins at roughly 14%-15% for each of Automotive and Industrial, while noting no statutory segment accounts exist.",
+     "quote": "It kind of stood around 14%, 15% each for both of them."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "The 63% Industrial share in the scheme versus ~54% in quarterly commentary is explained by the tractor business (agriculture and electricals), reported today under Automotive, moving to Industrial on separation.",
+     "quote": "So currently, if you look at our automotive business, we have the tractor business, which is predominantly around agriculture and electricals."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "Investor Ravi Purohit pushed management for 2-3 years of pro forma segment numbers before the shareholder vote, saying he could not locate them; Saraf pointed him to the SEBI-filed carve-out accounts of SKF India.",
+     "quote": "Just one request. Will it be possible for you to kind of give us at least 2-year or a 3-year pro forma numbers between industrial and automotive, just to get -- see because the thing is it's a big event that is happening and it will be useful if shareholders have all the information before."
+    },
+    {
+     "call": "Apr 2025",
+     "point": "The company convened a separate 45-minute Demerger Update Call on April 9, 2025 dedicated solely to rationale, pro forma financials for the two entities and timeline, barring questions on routine results.",
+     "quote": "The purpose of today's call is to provide a comprehensive update on the demerger process, its strategic rationale, expected benefits and next steps."
+    },
+    {
+     "call": "Apr 2025",
+     "point": "Vasudevan said keeping investors informed on the logic of segregating Automotive from Industrial was itself a priority of the exercise.",
+     "quote": "And as Ranjan said, we thought it's very important as we are going through this demerger process where we are segregating the Automotive and Industrial business to keep all our valued investors informed around the rationale, the process and the logic behind why we're doing this."
+    },
+    {
+     "call": "May 2025",
+     "point": "The core stated reason: two fit-for-purpose independent companies to accelerate growth and profitability, because the businesses have different macros, customer needs and manufacturing focus.",
+     "quote": "As you remember, the overall -- the reason for the demerger is we are creating 2 fit-for-purpose independent company, which will accelerate both growth and profitability in both companies."
+    },
+    {
+     "call": "May 2025",
+     "point": "Manufacturing philosophy is cited as a concrete operational conflict inside one company: large-batch production for one business versus short-cycle, small-batch, more innovative production for the other.",
+     "quote": "The 2 entities will have different kind of manufacturing philosophy, 1 more batch processing, large batch processing; 1 more shorter cycle times, shorter cycles, smaller batches but more innovative products."
+    },
+    {
+     "call": "May 2025",
+     "point": "Benefits listed were independent management focus, better customer value proposition, segment-specific innovation, agility, manufacturing efficiency, tailored capital deployment and standalone investor visibility.",
+     "quote": "Tailored capital deployment, which is very important also between the 2 SKF India Limited May 19, 2025 Page 5 of 14 entities; and finally, just more visibility for the -- our investors, all of you, to be able to see the performance of the 2 entities independently."
+    },
+    {
+     "call": "May 2025",
+     "point": "First plant-level disclosure: Haridwar fully to Automotive, Bangalore 80%-85% to Automotive, Pune split, with a brand-new Industrial factory to be built next to the existing Automotive plant at Pune.",
+     "quote": "And Pune: So there will actually be a new factory setup for just industrial, next to the current automotive one."
+    },
+    {
+     "call": "May 2025",
+     "point": "Process status: filed with NCLT in Q2 CY25, with shareholder and creditor meetings to follow and listing targeted for Q4 CY25 or Q3 FY25-26.",
+     "quote": "So broadly on track to finish the listing by Q4 calendar year of this year or Q3 calendar year 25-26, okay."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "At the June 30, 2025 investor meet, management pre-empted the obvious objection - the company is growing with good margins and ROCE - and said the drivers of the split are external rather than remedial.",
+     "quote": "The key drivers are external, different macros."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "The divergent macro drivers were named specifically: infrastructure spend and China Plus One for Industrial versus EVs and CAFE norms for Automotive, plus very different customer bases.",
+     "quote": "Customer needs are also very different."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "FY25 baseline cited to show the split is from a position of strength: about Rs 5,000 crore revenue, 17.2% EBITDA, 11.5% PBT, ROCE 28%-29%, ROE 21%-22%, with low-margin wind customers deliberately dropped.",
+     "quote": "We are on Rs. 5,000 crores with delivering 17.2% EBITDA and 11.5% PBT."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Forward split guidance: Automotive 10%-12% and Industrial 8%-10% growth near term, with Industrial faster beyond FY28 once the new plant is built and products are more localized, and 17%-19% EBITDA maintained.",
+     "quote": "But beyond '28, we expect to see as we have finished the new plant construction and we are seeing more localized product , we expect to see faster growth in industrial ."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Separation is total at the organizational level and must be complete before listing/the effective date.",
+     "quote": "Yes, definitely separate focus, starting from a separate board to a separate leadership, separate sales team, separate manufacturing team ."
+    },
+    {
+     "call": "Jul 2025",
+     "point": "Timeline tightened: NCLT ordered the shareholders meeting for July 14, approval targeted October-November and listing of the new entity by December, with NCLT timing flagged as outside management control.",
+     "quote": "NCLT has ordered to convene the shareholders meeting which is on the 14th of July."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "The demerger carries a visible P&L cost: Q1 FY26 margins fell about 530 basis points, with one-time demerger IT and consultant costs a primary driver alongside employee costs, depreciation and FX.",
+     "quote": "The reasons for this are related to, one, demerger -related costs, onetime costs, both IT as well as IT -related costs as well as consultants."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Management said demerger and employee costs will persist rather than reverse immediately.",
+     "quote": "The demerger costs and the employee -related costs, which is the annual appraisal, will continue for the next year and a half ."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Asset allocation finalized at line level: Bangalore 7 of 10 lines to Automotive, Pune 12 of 22 to Automotive and 10 to Industrial, Haridwar all 4 to Automotive; land 85:15 Bangalore, 52:48 Pune; manpower 55%-60% Automotive.",
+     "quote": "In Pune, where we have 22 lines, 12 will remain with Automotive and 10 will go to Industrial."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Shareholders approved the scheme on July 14, 2025, with the NCLT decision expected in September and listing/trading as two entities in Q4 CY25.",
+     "quote": "The shareholder meeting for the demerger is \u2013 has -- was done on 14th July, and they have approved the scheme as the demerger scheme."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "In the AGM remarks the Chairman positioned the split as strategic repositioning aimed at focus, agility and customer alignment, calling it the year's significant milestone.",
+     "quote": "This move is designed to sharpen our business focus, improve execution agility and enable deeper customer alignment across both the segments."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Vasudevan's 'unlocking the power of two' framing spelled out entity-specific agendas: e-mobility leadership, faster OEM/end-customer innovation and quicker capacity decisions for Automotive; vertical-tailored solutions and faster growth for Industrial.",
+     "quote": "What it means for the automotive business is that we will enhance our position in e-mobility where we are a market leader, we will accelerate OEM as well as end customer innovation, we will also make faster decisions and quicker launches in taking -- to taking products to market, not to mention quicker decisions in expanding capacity for the Indian and export market."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Localization is the stated lever behind the Industrial margin normalization thesis: over 80% of components now sourced locally.",
+     "quote": "Over 80% of the components for SKF India are now sourced locally."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing text supplied does not reproduce the rationale itself - need, rationale, synergies, shareholder impact and cost-benefit are all cross-referenced to paragraphs 3, 12, 10 and 13 of the explanatory statement, which is not included.",
+     "quote": "The details have been disclosed in paragraph 3 , paragraph 12 , paragraph 10  and paragraph 13 , respectively, of the explanatory statement to the notice of the meeting of shareholders"
+    },
+    {
+     "call": "Scheme",
+     "point": "Regulatory sequence confirmed: NSE observation letter March 28, 2025 and NCLT application April 9, 2025, with listing of SKF India (Industrial) Limited at the exchange's discretion and required within 60 days of the NCLT order.",
+     "quote": "We further confirm that the application was filed with the Hon\u2019ble NCLT on April 9, 2025, i.e., within six months from the date of receipt of the observation letter from NSE on March 28, 2025."
+    },
+    {
+     "call": "Scheme",
+     "point": "Execution completed on allotment: 4,94,37,963 equity shares of Rs 10 face value of SKF India (Industrial) Limited were allotted on October 17, 2025 to SKF India shareholders of the October 15, 2025 record date, with the pre-scheme 10,000 shares cancelled and new shares frozen until listing permission.",
+     "quote": "Such equity shares will remain frozen till the time listing / trading permission is granted to the Resulting Company by the Stock Exchanges."
+    }
+   ],
+   "what_management_expects": "Two fit-for-purpose listed companies, each with its own board, leadership, sales and plants: Automotive to press e-mobility leadership, faster launches and capacity calls; Industrial to grow faster per vertical, build a new Pune plant and lift margins as localization rises from ~40%. Both maintain 17%-19% EBITDA, with tailored capital deployment and standalone investor visibility. Carve-out margins start near-identical at 14%-15%.",
+   "gaps": "No rationale paragraph text, no debt/cash, royalty or related-party split, no quantified demerger cost, no valuation or share-entitlement basis, no stated lender, partner or parent-level driver."
+  }
+ },
+ "SKFINDIA::segments": {
+  "stamp": "afea18898a23e4ddde89e54608cb3afc",
+  "verdict": {
+   "segment_name": "Industrial Business (demerged into SKF India (Industrial) Limited)",
+   "unit": "\u20b9 million (MINR)",
+   "measure_notes": "Operating profit = EBITDA as labelled in the investor presentation's indicative/un-audited pro-forma demerger split (not an Ind AS segment disclosure \u2014 the company reports a single segment, 'Bearings'); PAT is the presentation's 'PAT (\u20b9 Mn)' line. Revenue is business revenue including exports allocated to the business (Industrial 28,979 + Automotive 16,722 = 45,701.3 total revenue from operations FY24; 31,909 + 17,290 = 49,199.2 FY25), so it is external revenue, not an inter-segment-inclusive figure.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 28979,
+     "operating_profit": 4987,
+     "pat": 3524,
+     "source": "Presentation Jul 2025 \u2014 page 8"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 31909,
+     "operating_profit": 5173,
+     "pat": 3607,
+     "source": "Presentation Jul 2025 \u2014 page 8"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "not on the tagged pages"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "not on the tagged pages"
+   },
+   "not_found": "No FY2026 Industrial revenue/EBITDA/PAT and no Industrial-only quarterly figures. FY26/FY25 discontinued-operations profit (1,487.9 / 3,024.9; AR2026 p288) covers only Apr\u2013Sep 2025 pre-demerger, on a different basis."
+  }
+ },
+ "THERMAX::rationale": {
+  "stamp": "d3592a1205faf10a2cf425bd96509979",
+  "verdict": {
+   "rationale": "The filing is not a classic value-unlocking spin-off: Thermax is pulling businesses INTO the listed parent and leaving only a residual activity outside. Two linked steps sit in one Scheme of Arrangement and Amalgamation. (1) Amalgamation: a wholly-owned subsidiary engaged in 'setting up Energy Projects, Energy Exchange Platform and providing Energy Services including provision of electrostatic precipitators, regenerative air preheaters and related services' \u2014 a shell-sized entity with Rs 10.0 cr paid-up capital, Rs 0.6 cr net worth and Rs 0.8 cr total income as on March 31, 2026 \u2014 is merged into Thermax Ltd. (net worth Rs 4,427.09 cr, total income Rs 6,518.2 cr) to 'simplify overall group structure and reduce administrative overheads,' with management claiming 'a significant improvement in certain key financial ratios,' annual group cost savings, and 'stronger financial stability and valuation metrics' that present 'a more accurate picture of the Company's financial strength.' (2) Demerger: the Technology/EPC undertaking of Thermax Bioenergy Solutions Private Limited (incorporated August 12, 2022; CIN U40107PN2022PTC213848; WOS), covering Engineering, Procurement and Construction scope for Bio-CNG projects, is carved out and transferred into Thermax Ltd. because it is 'in line with the business of the Company' \u2014 turnover Rs 239.35 cr, or 3.67% of Thermax's FY26 revenue. The stated problem it solves is focus and vertical segregation: once EPC leaves, Bioenergy Solutions is meant to concentrate on its remaining O&M segment, while each entity 'pursue[s] growth opportunities that are more aligned with their own industry dynamics.' Notably, Bioenergy Solutions carries negative net worth of Rs (106.9) cr against Rs 38.0 cr paid-up capital and Rs 260.9 cr total income, which the rationale text never addresses. Both steps are cashless and cosmetically neutral to owners: all transferor/demerged shares are already held by Thermax and its nominees, the transferor's shares 'stand cancelled,' no new shares are issued, and there is no change in the shareholding pattern; Bioenergy Solutions stays an unlisted wholly-owned subsidiary.",
+   "evolution": "No earnings-call passages were supplied \u2014 the 'CALL PASSAGES:' section of the prompt was empty, so no call-by-call development of the idea can be traced and no call dates exist in the source. The only datable evidence is the scheme filing itself, dated against financials as on March 31, 2026, alongside unaudited standalone and consolidated results for the quarter ended June 30, 2026. Within the filing, the sequencing is logical rather than chronological: Annexure A sets out the amalgamation of the energy-projects/energy-exchange subsidiary, and Annexure B the demerger of the Bio-CNG EPC undertaking into the same listed entity.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "Step one is an upstream amalgamation of a wholly-owned energy subsidiary \u2014 energy projects, an energy exchange platform, electrostatic precipitators and regenerative air preheaters \u2014 into listed Thermax Ltd.",
+     "quote": "business of setting up Energy Projects, Energy Exchange Platform and providing Energy Services including provision of electrostatic precipitators, regenerative air preheaters and related services etc."
+    },
+    {
+     "call": "Scheme",
+     "point": "The merger rationale is structural simplification, lower administrative overhead and better financial ratios, not operational separation.",
+     "quote": "In order to simplify overall group structure and reduce administrative overheads, Management has proposed consolidation of Transferor Company with the Company which is expected to result in a significant improvement in certain key financial ratios."
+    },
+    {
+     "call": "Scheme",
+     "point": "Management also claims recurring group-level cost savings and long-term shareholder value from the merger.",
+     "quote": "The proposed merger is also expected to result in annual cost savings for the Thermax Group, thereby enhancing long- term shareholder value"
+    },
+    {
+     "call": "Scheme",
+     "point": "A valuation/perception argument is made explicitly: consolidating resources is meant to signal financial stability and better represent Thermax's balance-sheet strength.",
+     "quote": "Such consolidation of resources is also anticipated to convey stronger financial stability and valuation metrics, thereby presenting a more accurate picture of the Company's financial strength and long -term prospects."
+    },
+    {
+     "call": "Scheme",
+     "point": "Step two demerges the EPC undertaking of Thermax Bioenergy Solutions Private Limited \u2014 the Technology, Engineering, Procurement and Construction scope for Bio-CNG projects \u2014 into Thermax Ltd.",
+     "quote": "The Scheme of Arrangement and Amalgamation provides for demerger of EPC business undertaking of the Demerged Company which is involved in business of Technology, Engineering, Procurement and Construction scope for Bio-Compressed Natural Gas (Bio CNG) projects."
+    },
+    {
+     "call": "Scheme",
+     "point": "The EPC carve-out is justified as consolidating like with like, since the demerged activity duplicates the parent's own business.",
+     "quote": "The demerged undertaking business is in line with the business of the Company and thus the management has decided to consolidate the similar businesses by demerging the EPC segment into the Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "What is left behind at Bioenergy Solutions is the O&M business, which management says can now be the entity's focus.",
+     "quote": "The management of Demerged Company believes that the demerger of EPC will help them focus on the remaining segment O&M, wherein they can undertake various operation and maintenance services for projects."
+    },
+    {
+     "call": "Scheme",
+     "point": "The broader objective is stated as segregating business verticals so each entity follows its own industry dynamics, improving efficiency and profitability.",
+     "quote": "The main objective of the proposed restructuring, by way of a scheme, is to re- organiz e and segregate the different business verticals and focus on core businesses, in compliance with relevant regulations."
+    },
+    {
+     "call": "Scheme",
+     "point": "Each entity is expected to chase differently-shaped growth, with margin and efficiency gains cited as the payoff.",
+     "quote": "In this manner, the two entities can each pursue growth opportunities that are more aligned with their own industry dynamics, leading to improved operational efficiencies and profitability."
+    },
+    {
+     "call": "Scheme",
+     "point": "The demerged EPC undertaking is sized at Rs 239.35 crore of revenue, a modest 3.67% of Thermax's FY26 consolidated turnover.",
+     "quote": "The turnover of demerged undertaking as on March 31, 2026 was Rs. 239.35 Crores which consti tutes 3.67% of total turnover of Resulting Company in the immediately preceding financial year / based on financials of last financial year (year ended March 31, 2026)."
+    },
+    {
+     "call": "Scheme",
+     "point": "Both legs are intra-group and cashless \u2014 no shares issued, no consideration, and the transferor's shares held by Thermax are simply cancelled.",
+     "quote": "Further, the shares of the Transferor Company held by the Transferee Company directly, shall stand cancelled with out any further act/instrument or deed."
+    },
+    {
+     "call": "Scheme",
+     "point": "Public shareholders are unaffected on paper: there is no change in Thermax's shareholding pattern from either step.",
+     "quote": "There will be no change in the shareholding pattern of the Company pursuant to the Scheme, as no shares are being issued by the Transferee Company in connection with the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "No separate listing results \u2014 Bioenergy Solutions stays an unlisted wholly-owned subsidiary holding only O&M, so there is no demerger-listing value event for investors.",
+     "quote": "Further, the Demerged Company is a wholly- owned subsidiary of the Resulting Company. Accordingly, upon the proposed Scheme coming into effect, the Demerged Company shall continue as an unlisted company & will remain a wholly -owned subsidiary of the Resulting Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "The financial exhibit shows why the EPC business is being absorbed upward: Bioenergy Solutions has negative net worth of Rs (106.9) cr on Rs 38.0 cr paid-up capital and Rs 260.9 cr total income, against Thermax's Rs 4,427.09 cr net worth; the transferor is a near-dormant Rs 0.8 cr-income entity.",
+     "quote": "Paid-up Equity Share Capital  38.0 10.0 23.8 Net Worth*  (106.9)  0.6 4,427.09  Total Income **  260.9  0.8 6,518.2"
+    }
+   ],
+   "what_management_expects": "For Thermax Ltd.: simpler structure, lower administrative overhead, annual group cost savings, 'significant improvement in certain key financial ratios,' stronger financial-stability and valuation metrics truer to its Rs 4,427 cr net worth, and consolidation of similar EPC work. For Thermax Bioenergy Solutions: an undivided focus on O&M services, with each entity chasing growth suited to its own industry dynamics, yielding better operational efficiency and profitability.",
+   "gaps": "No earnings-call text was provided, so nothing on who asked for it, lenders/partners, valuation targets, timelines, the Rs (106.9) cr negative net worth, or Bio-CNG strategy."
+  }
+ },
+ "THERMAX::segments": {
+  "stamp": "4827dc0fad0e0463d82c4ca119befc22",
+  "verdict": {
+   "segment_name": "Green Solutions",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Operating profit = 'Segment Results \u2014 Profit/(loss) before tax and interest from each segment' per Ind AS 108 consolidated segment note. For Green Solutions the CODM reviews segment result AFTER allocable interest cost, so it is effectively a PBT figure (confirmed by investor decks, which label Green Solutions numbers 'PBT' while other segments are 'PBIT'). Revenue is gross segment revenue including inter-segment sales (group inter-segment revenue is eliminated only at total level: \u20b9357.37 cr FY24, \u20b9307.57 cr FY25, \u20b9239.82 cr FY26 \u2014 not split by segment). FY2024 segment result was originally reported as \u20b944.94 cr in AR2024 (before interest allocation) and restated to \u20b9(7.17) cr in AR2025 after the CODM change; the restated figure is used here for comparability. No segment-level PAT is disclosed.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 507.06,
+     "operating_profit": -7.17,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 165 (restated segment result; revenue also in Annual Report 2024 \u2014 page 158, where FY24 segment result was reported as 44.94)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 689.88,
+     "operating_profit": -0.86,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 165"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 732.24,
+     "operating_profit": 0.17,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 172"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q1 FY27",
+    "revenue": 245,
+    "operating_profit": -17,
+    "source": "Presentation Jul 2026 \u2014 page 14 (Green Solutions: Sales 245, PBT (17), -6.9%)"
+   },
+   "not_found": "No segment-level PAT, tax, EBITDA or standalone Green Solutions revenue split; external vs inter-segment revenue not disclosed per segment."
+  }
+ },
+ "PICCADIL::rationale": {
+  "stamp": "46842fd2d02b0ea9a834797611e3c46e",
+  "verdict": {
+   "rationale": "Management frames the demerger as a strategic refocusing: Piccadily wants to be a global alco-bev company, so on the April 29, 2026 call (tagged May 2026) it announced that, with management and Board approval granted the prior day, it had filed a scheme of demerger of the sugar business into a new entity, with KPMG as advisor on the exercise and the scheme filed with SEBI; the next steps are SEBI go-ahead then NCLT, with completion envisaged by FY'27. The stated intent is to 'pool our human and capital resources just for the Alco-Bev business' and focus only on the Alco-Bev brand portfolio, while sugar \u2014 described as a 'traditional heritage business' \u2014 is separated and listed as its own entity rather than sold (management did not say sale was the plan when asked). The backdrop is an alco-bev business carrying the group: FY26 consolidated PBT up 79% from INR35 crores to INR63 crores on premiumisation (Indri, Cashmir Vodka), standalone revenue up 33% from INR270 crores to INR364 crores, standalone PBT up 17% to INR63 crores and PAT up 14% from INR40 crores to INR46 crores, with the distillery/Alco-Bev business growing 42% in FY26; FY27 is expected to be 'exceptional' at 60%\u201370% growth, helped by the Indri plant adding INR250\u2013300 crores and the 200 KLPD Chhattisgarh greenfield adding INR300\u2013400 crores, with 3x\u20134x revenue in 3\u20134 years and a Scotland malt distillery in the works (land, licences and approvals in place, construction starting). The scheme filing quantifies the demerged sugar division at 20.53% of the listed entity's FY26 turnover and sets a 1-for-9 share entitlement ratio (one PFEL share of INR10 for every nine PAIL shares of INR10), fixed on the sugar undertaking's turnover and assets, with no cash consideration and no change in PAIL's shareholding pattern. The filing's rationale is that separating the businesses lets each give 'focused attention for growth of their core businesses and attract required investments', brings greater business focus and shareholder value, unlocks value through price discovery of the individual entities, creates the right operating architecture with sharper individual strategies and 'clear capital allocation', and lets two separately listed companies attract their own specific investor sets and achieve financial flexibility. Resulting company Piccadily Food & Essentials Limited (PFEL) is currently a wholly owned subsidiary whose pre-scheme capital will be cancelled, and its new shares will be listed on BSE and NSE; the stock exchanges issued No Adverse Observation Letters dated August 14, 2026, intimated August 17, 2026.",
+   "evolution": "The supplied material contains only one call \u2014 April 29, 2026 (tagged May 2026) \u2014 so the idea cannot be traced across the three years claimed; on that call management said only that 'we've been discussing this' before Board approval on April 28, 2026, giving no earlier dated discussion. Within that call it appears three times: first as a formal announcement of the filed scheme with SEBI/KPMG and an FY'27 completion target, then restated in the growth outlook as a demerger 'just to focus on the main Alco-Bev business', and finally in Q&A, where analyst Himanshu Shah asked whether the sugar business would be sold or separately listed and management clarified the intent is separate listing and pooling resources into Alco-Bev, not a sale. The only later step evidenced is procedural: BSE and NSE No Adverse Observation Letters dated August 14, 2026, intimated to the exchanges on August 17, 2026.",
+   "points": [
+    {
+     "call": "May 2026",
+     "point": "Management announced the demerger of the sugar business into a new entity, filed with SEBI with KPMG as advisor, following Board approval the previous day (April 28, 2026), framed as part of becoming a global alco-bev company focused on its core brand portfolio.",
+     "quote": "And we've been discussing this and with management approval and Board approval yesterday, now we have filed our scheme of demerger of our sugar business, into a new entity."
+    },
+    {
+     "call": "May 2026",
+     "point": "The stated purpose of the announcement block was the global alco-bev ambition and concentration on the core brands.",
+     "quote": "A couple of announcements also, we want to be a global alco-bev company and in that pursuit we want to focus on our core brand portfolio."
+    },
+    {
+     "call": "May 2026",
+     "point": "KPMG is the partner on the exercise and the scheme was filed with SEBI.",
+     "quote": "So the entire scheme has been filed with SEBI KPMG is our partner for this exercise."
+    },
+    {
+     "call": "May 2026",
+     "point": "Process and timeline: SEBI clearance, then NCLT, with completion targeted within FY'27.",
+     "quote": "Once we get go-ahead from SEBI, we will follow the due process of filing it to NCLT and we envisage to complete this process by FY '27 this year."
+    },
+    {
+     "call": "May 2026",
+     "point": "In the outlook section the demerger is restated purely as a focus measure, alongside guidance of 60%\u201370% growth in FY'27, Indri adding INR250\u2013300 crores, Chhattisgarh (200 KLPD) adding INR300\u2013400 crores, and 3x\u20134x revenue in 3\u20134 years.",
+     "quote": "As mentioned earlier, we also in a process of demerger just to focus on the main Alco-Bev business."
+    },
+    {
+     "call": "May 2026",
+     "point": "Asked by analyst Himanshu Shah whether the sugar business would eventually be sold or separately listed, management said the intent is to pool human and capital resources into Alco-Bev.",
+     "quote": "Yes, intent is very clear that we want to be a global Alco-Bev company. We want to pool our human and capital resources just for the Alco-Bev business."
+    },
+    {
+     "call": "May 2026",
+     "point": "Sugar is characterised as a legacy/heritage business to be separated and separately listed \u2014 not sold \u2014 so the parent can focus only on the Alco-Bev portfolio.",
+     "quote": "So sugar business is like a traditional heritage business for us. So we want to separate it and list it as a separate entity than our Alco- Bev company and focus only on the Alco-Bev portfolio."
+    },
+    {
+     "call": "May 2026",
+     "point": "Financial backdrop cited alongside the announcement: consolidated PBT up 79% from INR35 crores to INR63 crores on premiumisation (Indri, Cashmir Vodka), with standalone revenue up 33% to INR364 crores and the distillery/Alco-Bev business growing 42% in FY26.",
+     "quote": "Similarly, our profitability also grew by 79%, which is PBT from INR35 crores to INR63 crores."
+    },
+    {
+     "call": "May 2026",
+     "point": "Global brand aspiration used to justify single-business focus: Indri is a top-15 world single malt, targeting top 10 in a year or two and top 5 in 3\u20135 years, with a Scotland distillery in progress (land, licences and approvals in place).",
+     "quote": "So currently with Indri we are a top 15 brand in the world in single malts."
+    },
+    {
+     "call": "Scheme",
+     "point": "The Board's stated core objective is separating the Sugar Business into the Resulting Company (PFEL) in the interests of both companies and their shareholders, employees, creditors and other stakeholders, so each can focus on its core business and attract the investment that business needs.",
+     "quote": "Demerger of the Demerged Business and Undertaking and transferrmg it to a separate company would enable both the Demerg\u00e9d Company and. the Resulting Company to provide focused attention for growth of their core businesses and attract required investments for growing that business;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Each entity is to benefit from the portfolio, brand and resources of its own business \u2014 Distillery for PAIL, Sugar for PFEL \u2014 to sustain growth in its respective industry, with greater business focus and enhanced shareholder value.",
+     "quote": "Implementation of the Scheme is expected to help bring in greater business focus and enhance shareholder value;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Valuation argument: separate listing creates price discovery for each entity and unlocks value for existing shareholders.",
+     "quote": "The Scheme would unlock value for the overall-business portfolio through price-discovery of the individual entities for existing shareholders;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Structural/capital argument: the right operating architecture, sharper individual business strategies and clear capital allocation aligned to each company's value-creation journey, plus more efficient use of financial resources, managerial talent, technical skills and marketing resources.",
+     "quote": "The Scheme could lead to the right operating architecture for both companies with sharper focus on, their individual business strategies and clear capital allocation, in alignment with the respective value creation journeys;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Investor-base argument: two separately listed companies can attract the specific investors suited to each business profile and gain financial flexibility.",
+     "quote": "Separately listed companies to attract specific set of investors for their\u2019 business profile, achieve financial flexibility and consequently, encourage stronger capital market outcomes."
+    },
+    {
+     "call": "Scheme",
+     "point": "Sizing: the demerged sugar division accounted for 20.53% of the listed entity's total turnover for the financial year ended 31 March 2026 (turnover figure shown as Rs. 233.05 lakh in the garbled filing table).",
+     "quote": "The turnover of the Demerged Undertaking of the Company for the financial year ended 31% March 2026 is as follows:"
+    },
+    {
+     "call": "Scheme",
+     "point": "Mechanics: PFEL is an existing wholly owned subsidiary whose pre-scheme paid-up capital is cancelled; no cash consideration; shareholders receive 1 PFEL share of INR10 for every 9 PAIL shares of INR10, fixed on the sugar undertaking's turnover and assets; PAIL's shareholding pattern is unchanged.",
+     "quote": "for every 9 (Nine) equity shares of face value of Rs. 10/- fully paid up held in the Demerged Company, | (One) equity share of face value of Rs. 10/- credited as fully paid up in the Resulting Company."
+    },
+    {
+     "call": "Scheme",
+     "point": "PFEL's new shares are to be listed and admitted to trading on BSE and NSE, subject to approvals; the company later confirmed No Adverse Observation Letters dated August 14, 2026 from both exchanges (intimated August 17, 2026).",
+     "quote": "Yes, all the new shares of PFEL will be listed and will be admitted for trading on BSE Limited and National Stock Exchange of India Limited, having nationwide trading terminals, pursuant to the Scheme, subject to receipt of requisite approvals from the stock Exchanges."
+    }
+   ],
+   "what_management_expects": "PAIL (Alco-Bev): all human and capital resources pooled into one global brand portfolio, enabling 60%\u201370% FY27 growth and 3x\u20134x revenue in 3\u20134 years. PFEL (Sugar): a separately listed heritage business with its own focus, brand and resources. Both: focused attention, ability to attract required investment and business-specific investors, clear capital allocation, financial flexibility, greater shareholder value and value unlock via price discovery.",
+   "gaps": "No sugar P&L, debt or asset split, PFEL leadership or capital needs; no stated investor, lender or partner demand; no margin or valuation figures; no pre-2026 calls showing earlier discussion."
+  }
+ },
+ "PICCADIL::segments": {
+  "stamp": "012cbba5ab8320be0db9289410ddc392",
+  "verdict": {
+   "segment_name": "Sugar (reportable business segment of Piccadily Agro Industries Ltd.; the business being hived off into Piccadily Food & Essentials Limited is not named or separately reported in these pages)",
+   "unit": "\u20b9 lakh (annual report segment notes); quarterly/presentation figures are \u20b9 crore as labelled in the decks",
+   "measure_notes": "Revenue = segment revenue; 'Less: Inter Segment Revenue' is nil in all three years, so Sugar revenue is entirely external. Profit line = segment 'Profit/(loss) before unallocated expenditure, finance cost and tax' i.e. segment result / PBIT \u2014 finance costs, other unallocable expenditure and exceptional items are reported only at company level, and tax is only at company level, so no segment PAT exists. Figures taken from the STANDALONE segment note; FY2024 consolidated note (AR2024 p158) shows the same Sugar revenue 27,534.36 and same Sugar result 389.59, and FY2026 consolidated (AR2026 p190) shows Sugar result (904.94) vs standalone (904.62). Quarterly decks give only 'Revenue from Sugar Vertical' in \u20b9 crore \u2014 no segment-level EBITDA/profit.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 27534.36,
+     "operating_profit": 389.59,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 121 (standalone Note 37 segment reporting); same figures in Annual Report 2024 \u2014 page 158 (consolidated) and page 38 (MD&A segment-wise performance)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 24950.1,
+     "operating_profit": -327.13,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 205 (Note 38 segment reporting)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 23305.03,
+     "operating_profit": -904.62,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 142 (standalone Note 38 segment reporting); consolidated equivalent -904.94 on page 190"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q1 FY27 (quarter ended 30 June 2026)",
+    "revenue": 64.8,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 \u2014 page 8 (Revenue from Sugar Vertical, \u20b9 crore; the column is headed 'Q1 FY26' but the deck covers the quarter ended 30 June 2026, with 162.8 \u2014 the actual Q1 FY26 figure \u2014 shown as the comparative)"
+   },
+   "not_found": "No segment PAT, EBITDA, depreciation-inclusive operating profit or quarterly segment profit; no standalone PFEL/Resulting Company financials, scheme asset-liability split or demerger details on these pages."
+  }
+ },
+ "PRICOLLTD::rationale": {
+  "stamp": "e75fb1053ea12c7475a4cec4b5581436",
+  "verdict": {
+   "rationale": "Pricol's board (approval announced June 27, 2026) is demerging its Driver Information & Connected Vehicle Solutions ('DICVS') undertaking \u2014 driver information systems including connected, electronic, mechanical and electro-mechanical instrument clusters, integrated infotainment, advanced e-cockpit solutions, telematics, battery management systems and a few sensors \u2014 into Pricol Autotech Limited, leaving Pricol Limited with the Actuation, Control & Fluid Management Systems ('ACFMS') and Precision Products ('P3L') businesses. The scale cited is material: DICVS turnover of INR 2,424.63 crores for FY ending March 31, 2026, or 61.17% of consolidated turnover, with management stating both halves have 'acquired sufficient scale and maturity to function more effectively as focused standalone businesses.' The stated problem is that the two sides operate with differing customer needs, competitive dynamics, capital allocation and risk profiles inside one structure, which creates operational complexity, slow decision-making, and shared processes, policies, systems and governance that fit neither business. The fix is two focused platforms \u2014 an automotive technology entity and an automotive & industrial precision engineering entity \u2014 each with dedicated management, independent capital allocation, and its own governance, described as 'simpler, sharper and more agile' to meet fast-changing technology needs and dynamic market realities. Capital-markets reasoning is explicit: clearer visibility of each business's stakeholder value, growth prospects and investment merits, improved ability to attract strategic and financial investors, greater flexibility to access capital, and unlocking shareholder value. Mechanically it is value-neutral at the shareholder level \u2014 no cash consideration, 1:1 share entitlement (1 Pricol Autotech share of INR 1 face value per Pricol share), no change in Pricol's shareholding pattern, and Pricol Autotech's register mirroring Pricol's at 38.51% promoter / 61.49% public, with listing sought on NSE and BSE. Valuation rests on SSPA & Co's Share Entitlement Ratio Report dated 27th June 2026, with a fairness opinion from Saffron Capital Advisors.",
+   "evolution": "No earnings call passages were supplied in this prompt \u2014 the 'CALL PASSAGES' section is empty, so the call-by-call emergence of the idea cannot be reconstructed from these texts. The only dated evidence here is the scheme filing itself: board approval of the scheme of arrangement announced Coimbatore, June 27th, 2026, with the share entitlement ratio report of the same date (27th June 2026). The filing's own framing \u2014 'Over the years' the DICVS business 'has evolved into a differentiated platform,' and 'Over time with a well thoughtout and clear strategic intent' both businesses reached standalone scale \u2014 implies a multi-year build-up to the decision, but the filing does not date those earlier steps.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The demerged undertaking is the DICVS business, and the filing quantifies it as the majority of the group: INR 2,424.63 crores of turnover in FY ending March 31, 2026, equal to 61.17% of consolidated turnover.",
+     "quote": "The turnover of the DICVS Business for the financial year ending March 31, 2026, stood at INR 2,424.63 crores. This represents 61.17% of the total consolidated turnover of the Company for the financial year ending March 31, 2026."
+    },
+    {
+     "call": "Scheme",
+     "point": "Stated strategic motive: build a simpler, sharper, more agile entity able to keep pace with the technology cycle and market conditions specific to DICVS.",
+     "quote": "The demerger of the DICVS Business is a strategic decision to create a simpler, sharper and more agile corporate entity, to meet the fast changing needs and technologies related to this business and its dynamic market realities."
+    },
+    {
+     "call": "Scheme",
+     "point": "The core problem named is mismatch inside one company \u2014 the two businesses differ on customers, competition, capital allocation and risk, and each has now reached standalone scale.",
+     "quote": "The Demerged Undertaking and the Remaining Business of the Demerged Company currently operates with differing customer needs, competitive dynamics, capital allocation and risk profiles."
+    },
+    {
+     "call": "Scheme",
+     "point": "Both halves are said to have outgrown the combined structure, which is the filing's justification for separating now rather than earlier.",
+     "quote": "Over time with a well thoughtout and clear strategic intent, both the Demerged Undertaking and the Remaining Business of the Demerged Company have acquired sufficient scale and maturity to function more effectively as focused standalone businesses ."
+    },
+    {
+     "call": "Scheme",
+     "point": "Benefit list includes independent capital allocation and faster decision-making via reduced complexity, plus dedicated management teams for each business.",
+     "quote": "Financial flexibility for each entity to pursue investment decisions aligned with their respective business portfolios and market requirements ;"
+    },
+    {
+     "call": "Scheme",
+     "point": "Explicit investor-facing rationale: separate platforms should make each business's value and growth visible and make it easier to attract strategic and financial investors and access capital.",
+     "quote": "Creation of focused and independent business platforms for the Demerged Undertaking and the Remaining Business of the Demerged Company, with clear and enhanced visibility of their respective stakeholder value, growth prospects and investment merits, improved abilit y to attract strategic and financial investors to meet the needs of the respective business, greater flexibility to access capital, pursue growth and technology opportunities and implement their respective long -term strategies ."
+    },
+    {
+     "call": "Scheme",
+     "point": "The structure created is two named platforms \u2014 an automotive technology entity (Pricol Autotech, DICVS) and an automotive & industrial precision engineering entity (Pricol Limited, holding ACFMS and P3L).",
+     "quote": "Strategic demerger to create two focused  business platform s \u2013 an Automotive Technology Entity and an Automotive  & Industrial  Precision Engineering Entity, for a simpler, sharper and more agile structure meeting the fast -changing technological needs and the dynamic market realities"
+    },
+    {
+     "call": "Scheme",
+     "point": "DICVS is characterised as having evolved into a differentiated platform needing its own long-term strategy, technology capabilities and partnerships for integrated solutions.",
+     "quote": "The proposed demerger  recognises this evolution and enables the business to pursue independent long -term strategies, strengthen technology capabilities , partnerships for integrated solution offerings  and respond more effectively to changing industry dynamics."
+    },
+    {
+     "call": "Scheme",
+     "point": "Retained-business case: ACFMS is backed by growing domestic and export footprints in fluid management and control, and P3L is positioned for expanding precision components demand.",
+     "quote": "The ACFMS and P3L businesses will continue to remain part of Pricol  Limited, with the ACFMS business being supported by growing domestic and export footprint s and opportunities in fluid management and control  solutions , and the P3L business being strategically positioned to capitali se on the expanding opportunity in precision  components."
+    },
+    {
+     "call": "Scheme",
+     "point": "Consideration is a value-neutral mirror split: no cash, 1:1 entitlement, Pricol Autotech's shareholding mirroring Pricol's (promoters 38.51%, public 61.49% post-scheme), with listing sought on NSE and BSE.",
+     "quote": "Shareholders of Pricol Limited will receive one fully paid -up equity share of Pricol Autotech Limited for every one fully paid -up equity share held in Pricol Limited (1:1 share entitlement ratio) , resulting in the shareholding of Pricol Autotech Limited mirroring the shareholding of Pricol Limited , subject to the Scheme becoming effective."
+    },
+    {
+     "call": "Scheme",
+     "point": "CMD Vikram Mohan frames timing as businesses having diverged on customers, technology priorities, capital requirements and growth, making independent operation right now.",
+     "quote": "Over the years, our businesses have evolved into strong and differentiated platforms with distinct customer needs, technology priorities , capital requirements  and growth opportunities."
+    },
+    {
+     "call": "Scheme",
+     "point": "Valuation and fairness are documented: SSPA & Co's share entitlement ratio report dated 27th June 2026 with a fairness opinion from SEBI-registered merchant banker Saffron Capital Advisors.",
+     "quote": "The share entitlement ratio has been arrived basis the Share Entitlement  Ratio Report dated 27th June 2026 issued by SSPA & Co, Chartered Accountants , Registered  Valuer."
+    }
+   ],
+   "what_management_expects": "Pricol Autotech (DICVS): independent strategy, stronger technology capability and integrated-solution partnerships, dedicated leadership. Pricol (ACFMS + P3L): growth from domestic/export fluid management, control and precision components. For both: dedicated management, independent capital allocation, financial flexibility, lower complexity and faster decisions, tailored governance, better visibility of value and growth, easier access to strategic and financial investors and capital, unlocking shareholder value. No margin or return numbers given.",
+   "gaps": "No earnings call passages were provided, so no management commentary on timing, debt/asset allocation, margins, capex, who requested the split, or lender, partner and investor pressure."
+  }
+ },
+ "PRICOLLTD::segments": {
+  "stamp": "653c015f6d89c0f976e4c98a7230be89",
+  "verdict": {
+   "segment_name": "Driver Information & Connected Vehicle Solutions (DICVS) / Demerged Undertaking transferred to Pricol Autotech Limited (Resulting Company)",
+   "unit": "not applicable \u2014 no figures disclosed on the supplied pages (annual reports use ` Lakhs for FY2024/FY2025 and ` Crores for FY2026)",
+   "measure_notes": "No segment result, EBIT, EBITDA or PBT line exists for DICVS on these pages. Both the standalone notes (AR2024 p.153, AR2025 p.159, AR2026 p.184-185) defer segment information to the consolidated notes, and the consolidated segment notes (AR2024 p.203, AR2025 p.210, AR2026 p.248) state the Group operates as a single automotive segment with no reportable segment under Ind AS 108. Only geographical revenue splits (within/outside India) are given, which are company-wide, not DICVS-specific. DICVS appears only as a product vertical in presentations (Presentation May 2025 p.6) and in an award mention (Presentation Feb 2026 p.15), with no financials.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 203 (no reportable segment); Annual Report 2024 \u2014 page 153"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 210 (no reportable segment); Annual Report 2025 \u2014 page 159"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 248 (no reportable segment); Annual Report 2026 \u2014 page 184"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 \u2014 pages 1, 10, 21, 22 (quarter ended 30 June 2026 deck pages supplied carry no DICVS financials)"
+   },
+   "not_found": "All DICVS/Pricol Autotech revenue, operating profit and PAT figures \u2014 annual and quarterly. Pages carry only consolidated/geographic revenue and whole-company EBITDA/PAT, never the demerged undertaking separately."
+  }
+ },
+ "STAR::rationale": {
+  "stamp": "d0922047ff4b21aee90b4eba89a241e7",
+  "verdict": {
+   "rationale": "The separation management actually explains on these calls is the carve-out and demerger of the Softgel business and Stelis Biopharma (biologics/CDMO) into OneSource Specialty Pharma, announced in the quarter ended Sept 2023 and valued, as the analyst's number was confirmed by Arun Kumar, at around 17x FY24 EBITDA for both softgel and Steriscience. The stated purpose was to combine a very high-margin soft gelatin business with the biologics/drug-device platform to create a 'unique specialty CDMO platform' with a large GLP-1-led contract manufacturing order book (about 15 customers; patents partially off in FY25, main patents only in 2030, so revenue was development/R&D income today and commercial later), and to let Strides shareholders 'participate in value discovery' by holding 44% of OneSource (61% total public shareholding across the three companies). The second, equally explicit driver was balance-sheet repair: against roughly INR3,000 crores of debt, management said the announcement 'solves for the debt to EBITDA ratio' because the combined EBITDA of the two demerged companies was about INR1,200 crores, and INR283 crores of debt moved with the demerger. Third, it ended Strides' contingent exposure to Stelis \u2014 corporate guarantees were cut by almost INR600 crores by Feb 2024, with Arun Kumar saying all guarantees 'will go off the book' once listed; by Jan 2025 all guarantees were fully released and by May 2025 the entire INR705 crores of guarantees to Stelis had been closed. Lenders were a direct constituency: all significant NOCs from lenders were obtained, and lenders were accepting because 'there will also be that much less loans in OneSource'; OneSource also gained the ability to raise up to $100 million at relisting, with a bridge facility only until then. Post-demerger the retained Strides business was restated from an April 1, 2024 appointed date and reframed as a focused, bottom-line-led generics business (12%-15% revenue CAGR but much faster EBITDA CAGR), with Q3 FY25 EBITDA margin 18.2%, gross margins held at 58%-59%, ROCE 14.9% vs 9.7% comparable, net debt/EBITDA down to 1.9x, and a INR3,188 crores accounting gain on demerger; management quantified the shareholder outcome as INR78.8 billion distributed 'in the form of demerger and listing'. Note that the filing text supplied here is a different, later transaction \u2014 the demerger of Arco Lab's Life Sciences and Digital Innovation business into Pivot Path (appointed date April 10, 2025; NCLT Bengaluru approval May 18/20, 2026; effective June 1, 2026) \u2014 and these documents are procedural intimations that contain no rationale section at all.",
+   "evolution": "The idea surfaces as an already-announced carve-out in the Sept 25, 2023 call ([Oct 2023]), where valuation (~17x FY24 EBITDA), the 44%/61% shareholding slides and the debt-to-EBITDA fix are debated; the Oct 30, 2023 call ([Nov 2023]) fleshes out the industrial logic (GLP-1 drug-device order book, ~15 customers, patents opening 2025-2030). By the Feb 2024 call it is an execution story \u2014 exchange queries, NOCs from lenders, guarantees down INR600 crores, NCLT filing targeted that quarter \u2014 and in May 2024 SEBI approval arrives as 'the last step' before a 3-4 quarter court process plus ~60 days to list. The Jan 30, 2025 call ([Feb 2025]) reports it done: OneSource listed, appointed date April 1, 2024, financials restated, all guarantees released; May 2025 and July 2025 ([Aug 2025]) use it as the proof point (INR705 crores guarantees closed, INR78.8 billion distributed, OneSource stake retained as 'a great strategic outcome'), and by May 2026 the softgel exit is only a footnote to resetting the US aspiration to $375-$400 million for FY28.",
+   "points": [
+    {
+     "call": "Oct 2023",
+     "point": "Management confirmed the analyst's valuation framing: both the softgel business and Steriscience were being valued at about 17x FY24 EBITDA in the scheme.",
+     "quote": "So the valuation for soft gel as well as the Steriscience is around 17x FY \u201824 EBITDA."
+    },
+    {
+     "call": "Oct 2023",
+     "point": "Arun Kumar insisted the structure was a full demerger-cum-merger, not a partial one, when asked why it was not a 100% merger.",
+     "quote": "Well, from what I know, it's a clean 100% demerger, merger into the scheme."
+    },
+    {
+     "call": "Oct 2023",
+     "point": "The presentation's own rationale, read back by an analyst, was value discovery for Strides shareholders through a 44% holding in OneSource, with 61% being total public shareholding across the merging companies.",
+     "quote": "In presentation, at one slide you wrote that Strides shareholders to participate in value discovery by holding 44% in OneSource."
+    },
+    {
+     "call": "Oct 2023",
+     "point": "Asked how INR3,000 crores of debt would be cut, Arun Kumar said the demerger itself fixes leverage because the two demerged businesses carry about INR1,200 crores of combined EBITDA.",
+     "quote": "So firstly, the announcements we made today solves for the debt to EBITDA ratio, because you'll also appreciate that the combined EBITDA of the two companies are now INR1,200 crores"
+    },
+    {
+     "call": "Nov 2023",
+     "point": "The industrial logic: OneSource was carved out to house the GLP-1/drug-device contract manufacturing order book with ~15 customers, where patents open partially in FY25 and mainly only in 2030, so near-term income is R&D and development batches.",
+     "quote": "But having said that, we do get a lot of R&D income and we do hold a very large order book for our contract manufacturing opportunities led by GLP in OneSource which in a company that we just announced is a carve-out in the last quarter."
+    },
+    {
+     "call": "Feb 2024",
+     "point": "De-risking Strides was quantified: corporate guarantees issued by Strides to Stelis were cut by almost INR600 crores and net debt was heading to about INR450 crores including DSRA deposits, with Stelis guided to turn PAT-positive.",
+     "quote": "We have also reduced our corporate guarantees issued by Strides by almost INR 600 crores and debt -- including new debt that is just being in the process of being secured, will mean that the net debt will come down quite significantly to about INR 450 crores, including DSRA deposits that we have."
+    },
+    {
+     "call": "Feb 2024",
+     "point": "Lenders were an explicit party to the separation \u2014 all significant lender NOCs were secured, and lenders accepted release of Strides' guarantees because the new company would carry correspondingly less debt.",
+     "quote": "We have received all the significant NOCs from lenders, which has now been secured, and we look positively forward to a great outcome from OneSource."
+    },
+    {
+     "call": "Feb 2024",
+     "point": "A funding motive: OneSource could raise up to $100 million at relisting, with the new facility taken only as a bridge to the listing, after which Strides' guarantees go off the balance sheet within 12 months.",
+     "quote": "At th is time, what we have now taken a new facility is only a bridge to the listing."
+    },
+    {
+     "call": "Feb 2024",
+     "point": "Asked whether Strides was giving up value, Arun Kumar framed Strides shareholders as the principal beneficiaries of OneSource, compensating them for having sustained the business.",
+     "quote": "Don't forget that the Strides shareholders are the biggest beneficiaries of OneSource."
+    },
+    {
+     "call": "May 2024",
+     "point": "Process milestone: SEBI and stock exchange approvals were received, described as the last step before the NCLT court process, which management expected to take 3-4 quarters plus ~60 days to list.",
+     "quote": "So we got last night, the demerger approvals from SEBI, which was the last step , prior to the court process of the demerger, which is called the NCLT process."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "CFO stated the purpose plainly on completion \u2014 a very high-margin softgel business was given up specifically to create a specialty CDMO platform and deliver value through OneSource's listing; appointed date April 1, 2024 and all financials restated.",
+     "quote": "As Arun mentioned earlier, we demerged a very high -margin soft gelatin business to help create a unique speci alty CDMO platform."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "The balance-sheet outcome: INR283 crores of debt transferred to OneSource, INR464 crores of further debt reduction in 9M FY25, net debt INR1,571 crores, net debt/EBITDA at 2x a quarter early, ROCE up to 14.7% from 12.8%, and a INR3,188 crores demerger gain in discontinued operations.",
+     "quote": "As an update on the guarantees further to the release, all the guarantees that were given to OneSource from Stri des are now fully released, and we do not have any outstanding guarantees as of date."
+    },
+    {
+     "call": "May 2025",
+     "point": "Full-year proof: the entire INR705 crores of guarantees to Stelis closed, net debt down INR513 crores to INR1,522 crores, gross debt down INR619 crores, finance costs 27% better Q1 to Q4, net debt/EBITDA 1.9x, ROCE 14.9% vs 9.7% comparable, and gross margins held at 58%-59% for a second post-demerger quarter.",
+     "quote": "All the INR705 crores of guarantees that were issued have been closed during this year."
+    },
+    {
+     "call": "May 2025",
+     "point": "Strides deliberately retains its INR305 crores stake in OneSource rather than selling it to prepay debt, rejecting an investor's suggestion.",
+     "quote": "We don't need to reduce debt, and we think our investment in OneSource is a great strategic outcome."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Management's own scorecard for the separation is quantified as shareholder distribution via the demerger and listing.",
+     "quote": "And the recent one being we distributed INR 78.8 billion back to shareholders in the form of demerger and listing."
+    },
+    {
+     "call": "May 2026",
+     "point": "The softgel demerger is cited as the reason the standing $400 million US aspiration was held rather than raised, and is now guided at $375-$400 million for FY28.",
+     "quote": "This $400 million is there for the last 2 to 3 years, right? And post that, we had a demerger of our soft -gel business."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filed documents describe a different, later separation: Arco Lab's Life Sciences and Digital Innovation business demerged into Pivot Path under Sections 230-232, appointed date April 10, 2025, NCLT Bengaluru approving on May 18, 2026 (order on the portal May 20, 2026) and effective June 1, 2026, after which Pivot Path becomes a wholly owned subsidiary of Strides with shares allotted to Strides per the entitlement ratio.",
+     "quote": "The Scheme provides for the demerger of Arco Lab\u2019s Life Sciences business and Digital Innovation business (the \u201cDemerged Undertaking\u201d) into Pivot Path, pursuant to Sections 230\u2013232 of the Companies Act, 2013"
+    }
+   ],
+   "what_management_expects": "OneSource: a listed specialty CDMO (softgel plus Stelis biologics, GLP-1 drug-device order book) valued near 17x FY24 EBITDA, able to raise up to $100 million. Retained Strides: INR283 crores debt transferred, INR705 crores guarantees released, net debt/EBITDA 2x then 1.9x, ROCE 14.9% versus 9.7% comparable, gross margins 58%-59%, bottom-line-led 12%-15% growth with faster EBITDA CAGR.",
+   "gaps": "No rationale text for the Arco Lab-to-Pivot Path demerger; no call mentions Arco Lab, Life Sciences or Digital Innovation, nor any share entitlement ratio, valuation or listing plan."
+  }
+ },
+ "STAR::segments": {
+  "stamp": "105b57c49b66acc5fa171a96ab393c27",
+  "verdict": {
+   "segment_name": "Arco Lab's Life Sciences and Digital Innovation business (Demerged Undertaking of Arcolab Private Limited / Pivot Path Private Limited)",
+   "unit": "\u20b9 million",
+   "measure_notes": "No profit line exists for this business on the tagged pages. The only segment disclosures are 'Pharmaceutical' and 'Bio-pharmaceutical' (AR2024, external revenue from operations; segment result = profit/(loss) before exceptional items and tax, then PBT and PAT). From FY2025 onward (AR2025 p.316, AR2026 p.377) the CODM reports a single 'Pharmaceutical' segment, so no separate line for the Life Sciences / Digital Innovation business is given. Quarterly presentations report only consolidated and US-business figures, never this business.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 294 and page 404 (segments are Pharmaceutical / Bio-pharmaceutical only; no Arco Lab or Life Sciences segment)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 316 (single 'Pharmaceutical' segment; no separate disclosure)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 377 (single 'Pharmaceutical' segment; no separate disclosure)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 \u2014 page 4 and page 12 (Q1FY27 consolidated only; Pivot Path mentioned solely as \u20b91,000m value unlocked on divestment of majority stake, with tax of \u20b9208m on the sale)"
+   },
+   "not_found": "Pages carry no revenue, operating profit or PAT for the demerged undertaking; segment notes show only 'Pharmaceutical'. Only \u20b91,000m Pivot Path stake-sale value and Arcolab's \u20b91,339.27m investment cost appear."
+  }
+ },
+ "PRESTIGE::rationale": {
+  "stamp": "d9888f10ef3c0d40bca0ae303db2cde3",
+  "verdict": {
+   "rationale": "The business being separated is the hospitality business of Prestige Estates Projects Ltd., housed in subsidiary Prestige Hospitality Ventures Limited (PHVL), out of the listed real-estate development parent. Management's stated reason is capital, not distress: Irfan Razack said hospitality is where \"a lot of capex will be required,\" that the currently trading hotel assets are already \"booming\" and throwing \"positive numbers from all the assets,\" and that there is \"a huge pipeline of new assets which are either under planning or under construction or approval\" that \"will definitely require fresh spending\" \u2014 \"hence an IPO will be the need of the day.\" The demerger-plus-IPO is therefore framed as giving \"additional bandwidth to grow the hospitality business,\" i.e. a dedicated capital pool for a capex-hungry annuity business instead of funding it from the developer's balance sheet. The only parent-side numbers given are balance-sheet ones: management guided that by end-FY2025 cash flows would be \"pretty robust\" and debt would fall \u2014 clarified as debt-to-equity, not absolute debt \u2014 helped by land already paid for at Indirapuram, Prestige City Hyderabad and Budvel turning into positive cash flows. The push came from the sell side and retail holders asking for updates and for a shareholder quota in the IPO (Kunal Lakhan, Rajeev Venkatesh); no lender or JV-partner demand was cited. A related theme is staying within core competence \u2014 on data centres, Zayd Noaman said operations are \"completely different, and it's not our expertise,\" preferring build-to-suit (NTT) and partnerships. The structure ultimately executed was a subsidiary IPO: PHVL filed a DRHP on April 24, 2025, then withdrew it on September 25, 2026 \"on account of strategic considerations and uncertain market conditions,\" with a fresh DRHP possible later.",
+   "evolution": "On the May 2024 call the hospitality demerger was already \"a work in progress\" and management committed to the direction \u2014 demerger then IPO \u2014 on capex and growth-bandwidth grounds. By the October 2024 call it had moved only to the structuring stage: \"too early,\" with Board approval and the appointment of bankers still ahead, and the retail-quota question deferred. The filings then show execution and reversal: a PHVL DRHP dated April 24, 2025, withdrawn on September 25, 2026 for strategic considerations and uncertain market conditions, with a possible refiling subject to market conditions and approvals.",
+   "points": [
+    {
+     "call": "May 2024",
+     "point": "Asked for an update on the hospitality demerger, Irfan Razack confirmed it was under way and endorsed the direction as the right one.",
+     "quote": "That's a work in progress and I believe that that's the way to go."
+    },
+    {
+     "call": "May 2024",
+     "point": "The core driver given is the capital intensity of hospitality \u2014 the demerger plus IPO is meant to create headroom to grow it, since trading assets are performing and a large pipeline is in planning, construction or approval.",
+     "quote": "And once we do the demerger and we do an IPO that will give us additional bandwidth to grow the hospitality business because currently the hospitality business is booming and we're getting positive numbers from all the assets, current assets which are trading and we do have a huge pipeline of new assets which are either under planning or under construction or approval."
+    },
+    {
+     "call": "May 2024",
+     "point": "The new pipeline needs fresh money, which management said makes the IPO necessary rather than optional.",
+     "quote": "So all this will definitely require fresh spending and hence an IPO will be the need of the day."
+    },
+    {
+     "call": "May 2024",
+     "point": "Parent-side context: land already funded at Indirapuram, Prestige City Hyderabad and Budvel turns into cash inflows, supporting deleveraging through FY2025 \u2014 clarified as debt-to-equity, not absolute debt.",
+     "quote": "So we believ e that the debt levels for the end of financial year 2025 of course there'll be blips up and down quarter -on-quarter, but the cash flows will be pretty robust, and we will try and bring down the debt level from what it is today."
+    },
+    {
+     "call": "Oct 2024",
+     "point": "Five months later the transaction was still only being structured, with Board approval and banker appointments yet to come \u2014 so no terms, ratio or timeline were available.",
+     "quote": "It is too early right now. We are in the structuring process."
+    },
+    {
+     "call": "Oct 2024",
+     "point": "A retail shareholder asked for a reserved shareholder quota in the hospitality IPO; management deferred the decision to a later stage.",
+     "quote": "So maybe how much will be the retail quota for the existing shareholders, we'll figure at that point of time once we -- more advanced."
+    },
+    {
+     "call": "Oct 2024",
+     "point": "On data centres, management drew a competence boundary \u2014 it will sell land and build to suit (NTT) but not operate \u2014 consistent with housing operating-intensive businesses separately or with partners.",
+     "quote": "So with that, we'll build some expertise, but the operations of a data center are completely different, and it's not our expertise."
+    },
+    {
+     "call": "Scheme",
+     "point": "The separation was executed as a subsidiary IPO: Prestige Hospitality Ventures Limited filed a DRHP dated April 24, 2025 with SEBI, NSE and BSE.",
+     "quote": "We wish to inform you that our subsidiary, Prestige Hospitality Ventures Limited ( \u201cPHVL \u201d), filed a Draft Red Herring Prospectus dated April 24, 2025 (\u201cDRHP \u201d) with the Securities and Exchange Board of India (\u201cSEBI \u201d), the National Stock Exchange of India Limited and BSE Limited (\u201cStock Exchanges \u201d)."
+    },
+    {
+     "call": "Scheme",
+     "point": "On September 25, 2026 the PHVL board withdrew the DRHP, citing strategic considerations and uncertain market conditions \u2014 no further rationale was disclosed.",
+     "quote": "However, the board of directors of PHVL has decided to withdraw the DRHP on account of strategic considerations and uncertain market conditions, pursuant to its resolution dated September 25, 2026 and corresponding communication dated September 25 , 2026 made to the book running lead managers to the Offer ."
+    },
+    {
+     "call": "Scheme",
+     "point": "The listing is deferred, not abandoned: PHVL may refile a DRHP later, conditional on markets, approvals and other considerations.",
+     "quote": "Additionally, PHVL may consider filing a fresh draft red herring prospectus with SEBI in the future for an initial public offering of its equity shares in accordance with the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, subject to suitable market conditions, receipt of requisite approvals and other considerations."
+    }
+   ],
+   "what_management_expects": "Hospitality: demerger plus IPO gives bandwidth and fresh equity for heavy capex on its pipeline under planning, construction and approval, while trading assets already give positive numbers. Parent: cash flows from Indirapuram, Prestige City Hyderabad and Budvel land bring debt-to-equity down by FY2025. No margin or valuation targets stated.",
+   "gaps": "No hospitality revenue, EBITDA, keys or capex numbers; no debt quantum, scheme rationale text, entitlement ratio, asset-debt split, lender or partner consent, valuation, timeline, or what \"strategic considerations\" meant."
+  }
+ },
+ "PRESTIGE::segments": {
+  "stamp": "245bde6940f983ac7155619f648cfd30",
+  "verdict": {
+   "segment_name": "Hospitality (business of Prestige Hospitality Ventures Limited, PHVL)",
+   "unit": "\u20b9 million",
+   "measure_notes": "Presentation 'Segment Wise Results' tables report Revenue, EBITDA (excluding other income), Depreciation, EBIT, PBT and PAT by segment, but only for Residential, Office/Commercial, Retail and Services \u2014 Hospitality is not a column in any of them (May 2025 FY25, Aug 2025 Q1FY26, Nov 2025 H1FY26, Jan 2026 9MFY26, May 2026 FY26, Jul 2026 Q1FY27 carries only capital employed). Annual Report segment notes (AR2024 pp.161/217, AR2025 pp.165/225, AR2026 pp.146/202) state real estate development is the only reportable segment under Ind-AS 108, so no Hospitality revenue/profit disclosure. AR2025 p.73 describes Hospitality qualitatively with no figures; AR2025 segment-revenue callouts exist for Residential (\u20b947,733 Mn), Commercial (\u20b93,164 Mn), Retail (\u20b92,767 Mn), Property Management (\u20b95,070 Mn) only. PHVL is named only in employee-benefit notes (AR2024 p.218, AR2025 p.225) and a partnership-capital table (AR2026 p.203).",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "No Hospitality figures on the provided pages (Annual Report 2024 \u2014 pages 161, 217 state single reportable segment)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "No Hospitality figures on the provided pages (Presentation May 2025 \u2014 page 17 segment results omit Hospitality; Annual Report 2025 \u2014 pages 73, 165, 225)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "No Hospitality figures on the provided pages (Presentation May 2026 \u2014 page 17 segment results omit Hospitality; Annual Report 2026 \u2014 pages 146, 202)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Jul 2026 \u2014 page 13 carries only Q1 FY27 segment capital employed (Residential, Commercial, Retail, Services); no Hospitality and no Q1 FY27 segment P&L on the provided pages"
+   },
+   "not_found": "All Hospitality/PHVL revenue, EBITDA, EBIT, PBT and PAT figures \u2014 annual and quarterly. Segment tables cover only Residential, Office/Commercial, Retail, Services; annual reports disclose one reportable segment."
+  }
+ },
+ "SKFINDUS::rationale": {
+  "stamp": "2570a7d782b03c4e26354bf81081fdb1",
+  "verdict": {
+   "rationale": "The texts supplied do not contain any statement of why SKF India is separating the business \u2014 neither call passage nor filing gives a rationale, a strategic motive, or a requesting party. What they do establish is the mechanical fact pattern: SKF India Limited (the Demerged Company) demerged its industrial undertaking into SKF India (Industrial) Limited (the Resulting Company), incorporated 17 December 2024, under a Scheme of Arrangement between the two companies and their respective shareholders and creditors, sanctioned by the NCLT on 26 September 2025, with the Resulting Company's shares listed on the Main Board of BSE and NSE from 5 December 2025 and its CIN changed from U28140PN2024PLC236396 to L28140PN2024PLC236396. The separation created a standalone industrial entity whose history is not comparable: management reports quarter-on-quarter because year-on-year figures required extraction from SKF India Limited's books for 17 Dec 2024\u201331 Mar 2025 and 1 Apr 2025\u201330 Sep 2025 under Appendix C of Ind AS 103, with management assumptions. The only costs attributed to the separation are one-time: roughly INR 1.8 billion in Q3 FY26 (demerger IT costs, professional services and a large stamp duty on the land transfer from SKF India to SKF India (Industrial) Limited) and INR 183 million in Q4 FY26, mainly demerger-related IT. Q4 FY26 (Jan\u2013Mar) sales were INR 9.5 billion, up 9.8% QoQ, with PBT of 9.5% \u2014 a 1,731 bps QoQ improvement \u2014 or 11.5% excluding one-offs versus 13.1% in Q3 on the same basis; net working capital fell 2.8% QoQ to 18.7% of sales. The standalone entity's FY mix was roughly 35% distribution, 51% OEM, 6% exports, 4% sales to SKF India and 3% other income, with OEM up 31% YoY (general machinery 7%, wind and defence 7%, heavy 7%, railway 11%, metals 6%) \u2014 and management framed OEM as lower-margin business that builds long-term aftermarket. No problem to be solved, no investor, lender or partner request, and no valuation or capital-structure argument appears anywhere in these texts.",
+   "evolution": "No evolution can be reconstructed: only one call is supplied (13 May 2026), which discusses the demerger purely as a completed event affecting comparability, one-time costs and margin optics. The document labelled 'scheme rationale' is in fact a 9 February 2026 stock-exchange intimation about the CIN change and listed status, which records the NCLT sanction (26 September 2025) and the 5 December 2025 listing but contains no rationale section. The earlier calls that would show how the idea surfaced and changed are absent from the material provided.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "Records the Scheme of Arrangement between SKF India Limited (Demerged Company) and SKF India (Industrial) Limited (Resulting Company) and their shareholders and creditors, sanctioned by NCLT on 26 September 2025. No rationale, motive or requesting party is stated anywhere in the filing text supplied.",
+     "quote": "We hereby inform you that pursuant to the Order passed by the Hon\u2019ble National Company Law Tribunal (\u201cNCLT\u201d) dated September 26, 2025 sanctioning the Scheme of Arrangement between SKF India Limited (\u201cSKF India\u201d or the \u201cDemerged Company\u201d) and SKF India (Industrial) Limited (\u201cSKF Industrial\u201d or the \u201cResulting Company\u201d or the \u201cCompany\u201d) and their respective shareholders and creditors ( \u201cScheme\u201d)"
+    },
+    {
+     "call": "Scheme",
+     "point": "The Resulting Company's equity shares were listed on BSE and NSE Main Board effective 5 December 2025 (NSE: SKFINDUS, BSE: 544572), and its CIN and MCA status changed from unlisted to listed.",
+     "quote": "In compliance with the NCLT Order, the equity shares of the Company were listed on the Main Board of BSE Limited (\u201cBSE\u201d) and National Stock Exchange of India Limited (\u201cNSE\u201d) with effect from December 05, 2025."
+    },
+    {
+     "call": "May 2026",
+     "point": "Pre-demerger financials for 17 Dec 2024\u201331 Mar 2025 and 1 Apr 2025\u201330 Sep 2025 were extracted from SKF India Limited's records for the demerged industrial undertaking under Appendix C of Ind AS 103, involving management assumptions.",
+     "quote": "Please note that financial information from 17th December 2024 to 31st March 2025 and from 1st April 2025 to 30th September 2025 as reported in the presentation shared has been extracted and may involve some assumptions by the management from the financial information of SKF India Limited pertaining to the demerged industrial undertaking."
+    },
+    {
+     "call": "May 2026",
+     "point": "Because of that extraction, management reports quarter-on-quarter rather than year-on-year, comparing Jan\u2013Mar 2026 with Oct\u2013Dec 2025.",
+     "quote": "So, we are reporting quarter -on-quarter , which is we are comparing here Q3 of the financial year to Q4 of the financial year."
+    },
+    {
+     "call": "May 2026",
+     "point": "Q4 FY26 standalone performance: INR 9.5 billion of sales, up 9.8% QoQ, with PBT at 9.5% \u2014 a 1,731 bps QoQ improvement \u2014 and net working capital down 2.8% QoQ to 18.7% of sales.",
+     "quote": "We had a sales growth of 9.8% with INR 9.5 billion of sales."
+    },
+    {
+     "call": "May 2026",
+     "point": "Stripping demerger one-offs, Q4 PBT was 11.5% versus 13.1% in Q3 FY26 \u2014 i.e. the headline swing from negative 7.8% to positive 9.5% is largely a one-off artefact of the separation.",
+     "quote": "If we remove that, remove the impact of that, this quarter we delivered a margin of 11.5% -- or profit before tax of 11.5%."
+    },
+    {
+     "call": "May 2026",
+     "point": "Q3 FY26 one-time demerger charges of about INR 1.8 billion comprised demerger IT costs, professional services and a large stamp duty on the land transfer from SKF India to SKF India (Industrial) Limited.",
+     "quote": "The one -time charges which happened in the previous quarter and in this quarter included, in the previous quarter, it included some IT -related costs related to the demerger, professional services, and a large stamp duty which was paid related to the land transfer from SKF India to SKF India (Industrial ) Limited."
+    },
+    {
+     "call": "May 2026",
+     "point": "Q4 FY26 carried a further INR 183 million of demerger-related costs, primarily IT.",
+     "quote": "In this quarter, we again had demerger -related IT costs, primarily that, totalling up to INR 183 million."
+    },
+    {
+     "call": "May 2026",
+     "point": "The underlying 13.1% to 11.5% margin decline was attributed to mix, not to the separation: fast-growing lower-margin OEM against higher-margin distribution, with OEM up 31% YoY.",
+     "quote": "Our OEM business grew significantly and as a result, the mix of lower margin OEM business compared to higher margin distribution business accounted for most of this drop."
+    },
+    {
+     "call": "May 2026",
+     "point": "Full-year mix of the separated entity: distribution ~35%, OEM ~51%, exports ~6%, sales to SKF India ~4%, other income ~3%; within OEM, railway 11%, general machinery 7%, wind and defence 7%, heavy 7%, metals 6%.",
+     "quote": "full financial year, our distribution was at around 35% and OEM business was around 51%."
+    },
+    {
+     "call": "May 2026",
+     "point": "A residual related-party link remains post-separation: about 4% of full-year revenue is sale to SKF India.",
+     "quote": "Exports were at around 6 % and sale to SKF India was at around 4 % and other income was around 3 %."
+    },
+    {
+     "call": "May 2026",
+     "point": "Guidance ties margin normalisation to demerger costs rolling off by end of calendar 2026 plus a mix shift back toward distribution, targeting a little above 13%.",
+     "quote": "So given the recent demerger expenses, right, by we would say towards the end of this calendar year, we see that mostly normalizing. We should get back to a little more around 13%."
+    }
+   ],
+   "what_management_expects": "For the separated industrial entity only: demerger costs (INR 1.8bn in Q3, INR 183mn in Q4) mostly ending by end of calendar 2026, PBT margin recovering from 11.5% to a little above 13% as distribution mix normalises against lower-margin OEM, continued working-capital discipline at 18.7% of sales, and OEM wins feeding higher-margin aftermarket. Nothing stated about the retained SKF India entity, capital allocation or valuation.",
+   "gaps": "Everything about motive: why separate, who asked, strategic or governance logic, capital and valuation case, what the retained SKF India entity keeps. Earlier calls and the actual rationale text absent."
+  }
+ },
+ "SKFINDUS::segments": {
+  "stamp": "67bd4651121ca2d832d17d7989c429b7",
+  "verdict": {
+   "segment_name": "SKF India (Industrial) Limited \u2014 Industrial business (demerged from SKF India Ltd; single reported business segment viz. 'Bearings')",
+   "unit": "INR Million (\u20b9 million)",
+   "measure_notes": "Standalone company financials, not segment-reporting splits: the Company operates in only one business segment ('Bearings'), so revenue is total external Revenue from Operations (no inter-segment line). No EBIT/EBITDA/operating-profit line is disclosed on these pages; the only profit lines are Profit before Tax and Profit after Tax, so operating_profit is left null. FY2026 (year ended 31-Mar-2026) is the first full year: revenue 34,403.6, PBT 2,212.7, PAT 2,176.7. The comparative is NOT a full FY2025: it is the stub period 17-Dec-2024 (incorporation) to 31-Mar-2025 \u2014 revenue 7,206.1, PBT 1,644.0, PAT 1,213.1 (Annual Report 2026 \u2014 pages 83, 279) \u2014 extracted by management from SKF India Ltd's records for the demerged Industrial undertaking per Appendix C of Ind AS 103; hence FY2025 is reported null. Appointed/Effective Date of the demerger was 1-Oct-2025; listed on BSE/NSE 5-Dec-2025.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "not in pages \u2014 company incorporated 17th December 2024 (Annual Report 2026 \u2014 page 83)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 83 (only stub period 17-Dec-2024 to 31-Mar-2025 available: revenue 7,206.1; PBT 1,644.0; PAT 1,213.1 \u2014 not a full fiscal year)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 34403.6,
+     "operating_profit": null,
+     "pat": 2176.7,
+     "source": "Annual Report 2026 \u2014 page 83 (revenue and PAT; revenue also page 279); PBT 2,212.7 on page 83"
+    }
+   ],
+   "latest_quarter": {
+    "period": "Q1 FY27 (quarter ended 30th June 2026)",
+    "revenue": 9700,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 \u2014 page 17 (stated as 'Revenue from Operations 9.7 BINR' = 9,700 INR Million; PBT margin 9.0%, cash conversion 63%; no absolute profit figure given)"
+   },
+   "not_found": "FY2024 and full-year FY2025 figures; any EBIT/EBITDA/operating-profit line for any period; absolute Q1 FY27 profit (only 9.0% PBT margin)."
   }
  }
 }
