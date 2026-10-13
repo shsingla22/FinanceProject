@@ -1,6 +1,6 @@
 # Spin-offs and demergers — NiftyTotalMarket
 
-*Run 2026-10-12 · filings window 2025-10-08 → 2026-10-07 · 1023 restructuring filings across 256 companies · 34 confirmed demergers, 22 probable, 3 indicated, 264 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
+*Run 2026-10-13 · filings window 2025-10-08 → 2026-10-12 · 1494 restructuring filings across 343 companies · 42 confirmed demergers, 27 probable, 4 indicated, 164 rights / preferential offerings, 248 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
 
 **The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: the new stock is sold by holders who never chose it for about a year, the parent is often the better buy before the split, insiders tell you what they think through the stock and options they take in the new entity, and a pro-forma statement plus the peer P/E prices what the market is ignoring. This report puts the CONFIRMED demergers first — a demerger scheme on the exchange record — each with when the new entity lists, why management is doing it (three years of calls, with the transcript each point came from), the parent's last three years with charts, P/E and cash flows, and the separated business's own numbers from the annual reports and presentations, page-cited. Probable and indicated cases follow, then every other restructuring on file.
 
@@ -8,16 +8,19 @@
 
 | Company | Resulting entity | Stage | Listing | Score | Verdict |
 |---|---|---|---|---:|---|
-| **ASTRAL** | The Chemicals / Adhesive Business Undertaking of Astral Limited, veste… | announced | NOT YET (announced); timeline stated | 5.8 | PRE-SPIN |
+| **UPL** | UPL's India and international crop protection businesses, combined int… | exchange_noc | NOT YET (exchange_noc); timeline stated | 7.1 | PRE-SPIN |
+| **NATCOPHARM** | Natco Crop Health Sciences Limited | announced | NOT YET (announced); timeline stated | 6.4 | PRE-SPIN |
+| **ASTRAL** | Astral's Chemicals/Adhesive Business — adhesives, sealants, constructi… | announced | NOT YET (announced) | 5.8 | PRE-SPIN |
 | **APOLLOHOSP** | The "Identified Business Undertaking" of Apollo Hospitals, demerged in… | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 5.7 | PRE-SPIN |
 | **ASTRAMICRO** | Astra's Space, Meteorology and Hydrology business, hived off into whol… | announced | NOT YET (announced); timeline stated | 5.7 | PRE-SPIN |
 | **HINDUNILVR** | HUL's Ice Cream Business Undertaking, demerged into Kwality Wall's (In… | listed | LISTED since ~2025-12-05 | 5.7 | LISTED <1Y |
 | **LEMONTREE** | Fleur Hotels Limited | exchange_noc | NOT YET (exchange_noc); timeline stated | 5.7 | PRE-SPIN |
 | **NH** | Clinical Services undertaking of NHIC — 10 Bengaluru clinics — demerge… | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 5.7 | PRE-SPIN |
 | **VEDL** | Talwandi Sabo Power Limited | record_date | LISTED since ~2026-04-20 | 5.7 | LISTED <1Y |
-| **ANANTRAJ** | The Data Centre & Cloud Services business (data centres, co-location, … | announced | NOT YET (announced) | 5.0 | PRE-SPIN |
-| **EMBDL** | The power business undertaking of Indiabulls Real Estate Limited, deme… | nclt_sanction | NOT YET (nclt_sanction) | 5.0 | PRE-SPIN |
-| **HSCL** | DBRL's Tyre Business — designing, manufacturing and development of all… | announced | NOT YET (announced); timeline stated | 5.0 | PRE-SPIN |
+| **ANANTRAJ** | The Data Centre and Cloud Services business of ARL and ARCPL, vested i… | announced | NOT YET (announced) | 5.0 | PRE-SPIN |
+| **EMBDL** | The power business undertaking of Indiabulls Real Estate (now Embassy … | nclt_sanction | NOT YET (nclt_sanction) | 5.0 | PRE-SPIN |
+| **HSCL** | The Tyre Business of Dalmia Bharat Refractories Ltd — designing, manuf… | announced | NOT YET (announced); timeline stated | 5.0 | PRE-SPIN |
+| **LENSKART** | Nothing; documents cover amalgamation of two wholly-owned subsidiaries… | announced | NOT YET (announced) | 5.0 | PRE-SPIN |
 | **PRICOLLTD** | Driver Information & Connected Vehicle Solutions (DICVS) business — sm… | announced | NOT YET (announced); timeline stated | 5.0 | PRE-SPIN |
 | **REFEX** | The Mobility Undertaking — Refex's EV fleet mobility vertical serving … | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 5.0 | PRE-SPIN |
 | **RELIGARE** | Religare Finvest Limited | exchange_noc | NOT YET (exchange_noc); timeline stated | 5.0 | PRE-SPIN |
@@ -26,15 +29,20 @@
 | **PICCADIL** | The Sugar Business of Piccadily Agro Industries, demerged into wholly … | exchange_noc | NOT YET (exchange_noc) | 4.3 | PRE-SPIN |
 | **THOMASCOOK** | Sterling Holiday Resorts Limited | exchange_noc | NOT YET (exchange_noc); timeline stated | 4.3 | PRE-SPIN |
 | **KITEX** | — | nclt_sanction | NOT YET (nclt_sanction) | 4.2 | PRE-SPIN |
-| **LLOYDSENT** | The Demerged Undertaking of Lloyds Enterprises Limited (as defined in … | exchange_noc | NOT YET (exchange_noc); timeline stated | 4.2 | PRE-SPIN |
+| **LLOYDSENT** | Real Estate Business Undertaking of Lloyds Enterprises Limited, demerg… | exchange_noc | NOT YET (exchange_noc) | 4.2 | PRE-SPIN |
 | **MAHSEAMLES** | MSL Seamless Tubes Limited | announced | NOT YET (announced); timeline stated | 4.2 | PRE-SPIN |
 | **THERMAX** | Bio-CNG EPC (technology, engineering, procurement, construction) busin… | announced | NOT YET (announced); timeline stated | 4.2 | PRE-SPIN |
 | **JSWENERGY** | GE Power India Limited's boiler manufacturing business, demerged into … | nclt_sanction | NOT YET (nclt_sanction) | 3.6 | PRE-SPIN |
-| **TRIVENI** | Triveni Power Transmission Limited | record_date | LISTED since ~2026-07-11 | 3.6 | LISTED <1Y |
+| **TRIVENI** | Triveni Power Transmission Limited | listed | LISTED since ~2026-10-09 | 3.6 | LISTED <1Y |
+| **DIACABS** | — | announced | NOT YET (announced) | 3.3 | PRE-SPIN |
+| **ERIS** | — | announced | NOT YET (announced) | 3.3 | PRE-SPIN |
 | **HEGAM** | HEG Graphite Limited | listed | LISTED since ~2026-07-29 | 3.3 | LISTED <1Y |
 | **SAMMAANCAP** | The NBFC Business (retail mortgage lending: home loans and LAP) of Sam… | nclt_sanction | NOT YET (nclt_sanction) | 3.3 | PRE-SPIN |
+| **BAJAJELEC** | The EPC (engineering, procurement and construction) business/vertical … | announced | NOT YET (announced) | 2.9 | PRE-SPIN |
+| **CELLO** | Wim Plast Limited's Manufacturing Business, demerged into Cello Consum… | announced | NOT YET (announced); timeline stated | 2.9 | PRE-SPIN |
 | **GABRIEL** | Asia Investments Private Limited | listed | LISTED since ~2026-06-09 | 2.9 | LISTED <1Y |
 | **SKFINDUS** | SKF India's demerged industrial undertaking, transferred to SKF India … | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 2.9 | PRE-SPIN |
+| **AEGISLOG** | 36,000 MT specialized Ammonia storage terminal at Pipavav Port, transf… | announced | NOT YET (announced) | 2.5 | PRE-SPIN |
 | **FLUOROCHEM** | ILFL's Demerged Undertaking, including mutual fund distribution activi… | exchange_noc | NOT YET (exchange_noc) | 2.5 | PRE-SPIN |
 | **INTELLECT** | Purple Fabric, Intellect's Enterprise Intelligence Operating System / … | announced | NOT YET (announced) | 2.5 | PRE-SPIN |
 | **LAURUSLABS** | Sriam Labs Private Limited | announced | NOT YET (announced) | 2.5 | PRE-SPIN |
@@ -48,11 +56,13 @@
 | Company | What | Confidence | Stage | Listing | Score |
 |---|---|---|---|---|---:|
 | **LT** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | meetings | NOT YET (meetings) | 5.7 |
+| **CYIENT** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-03-03 | 5.6 |
 | **DEVYANI** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 5.0 |
-| **UPL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-01-19 | 4.4 |
 | **NTPC** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction) | 4.3 |
-| **SAPPHIRE** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced); timeline stated | 4.2 |
-| **COALINDIA** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-09-02 | 3.6 |
+| **BAJAJ-AUTO** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2025-12-02 | 3.6 |
+| **COALINDIA** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2025-12-23 | 3.6 |
+| **CRAFTSMAN** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.6 |
+| **MANKIND** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.6 |
 | **RELIANCE** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction) | 3.6 |
 | **TMPV** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | listed | LISTED since ~2025-10-15 | 3.6 |
 | **ADANIENT** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | listed | LISTED since ~2026-04-01 | 2.9 |
@@ -67,189 +77,185 @@
 | **TATACOMM** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 2.5 |
 | **CCAVENUE** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-03-31 | 2.1 |
 | **LUMAXTECH** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction) | 1.7 |
+| **MTARTECH** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 1.7 |
+| **PFOCUS** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction) | 1.7 |
 | **PRIVISCL** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | exchange_noc | NOT YET (exchange_noc) | 1.7 |
 | **TVSMOTOR** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | listed | LISTED since ~2026-03-06 | 1.7 |
+| **VIYASH** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction) | 1.7 |
 | **SUNTV** | spin-off | indicated — news verification / denial only — no scheme filed | rumoured | no scheme filed | 3.3 |
+| **PRESTIGE** | partial spin-off / listing | indicated — proposal withdrawn on 2026-09-25 | withdrawn | WITHDRAWN 2026-09-25 | 2.9 |
 | **ASTERDM** | scheme (nature unclear) | indicated — a scheme of arrangement whose nature the documents on file d | meetings | NOT YET (meetings); timeline stated | 2.5 |
 | **OLAELEC** | scheme (nature unclear) | indicated — news verification / denial only — no scheme filed | rumoured | no scheme filed | 2.5 |
 
-<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 264</summary>
+<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 248</summary>
 
 | Company | What | Stage | First filing | Filings |
 |---|---|---|---|---:|
 | IRCON | merger | rumoured | 2026-03-06 | 2 |
+| NAZARA | merger | withdrawn | 2026-05-12 | 2 |
 | ABB | capital reduction | rumoured | 2026-01-29 | 2 |
 | RVNL | merger | rumoured | 2026-03-06 | 2 |
 | ZEEL | merger | rumoured | 2025-12-02 | 2 |
 | JSFB | merger | rumoured | 2026-08-25 | 2 |
-| UPL | merger | exchange_noc | 2026-02-20 | 2 |
-| ADANIENT | rights offering | announced | 2025-11-11 | 12 |
+| IPCALAB | slump sale | announced | 2025-10-17 | 3 |
 | AMBUJACEM | merger | nclt_sanction | 2025-10-14 | 16 |
-| OLAELEC | rights offering | record_date | 2026-10-06 | 8 |
+| JKTYRE | merger | nclt_sanction | 2025-11-20 | 7 |
+| LLOYDSENGG | merger | nclt_sanction | 2025-12-29 | 4 |
 | NCC | merger | announced | 2026-01-31 | 1 |
 | USHAMART | slump sale | announced | 2026-09-24 | 3 |
 | LT | merger | announced | 2026-03-24 | 3 |
-| NATCOPHARM | rights offering | announced | 2026-09-09 | 5 |
-| AADHARHFC | rights offering | announced | 2026-01-27 | 1 |
 | ACC | merger | nclt_sanction | 2025-12-22 | 5 |
 | ALKEM | merger | announced | 2026-02-06 | 2 |
 | CIEINDIA | merger | announced | 2026-04-23 | 3 |
+| CYIENT | capital reduction | record_date | 2026-04-23 | 12 |
 | DABUR | merger | nclt_sanction | 2025-12-05 | 13 |
 | DELHIVERY | merger | nclt_sanction | 2026-03-21 | 1 |
-| DEVYANI | merger | announced | 2026-01-01 | 3 |
-| GESHIP | capital reduction | announced | 2026-08-31 | 7 |
+| DEVYANI | merger | announced | 2026-01-01 | 5 |
+| GESHIP | capital reduction | announced | 2026-08-27 | 10 |
 | GRASIM | merger | announced | 2025-12-29 | 1 |
 | HAPPSTMNDS | merger | announced | 2025-10-16 | 5 |
-| HCG | rights offering | record_date | 2026-02-17 | 9 |
 | INDHOTEL | merger | announced | 2026-08-24 | 3 |
 | INFY | capital reduction | record_date | 2025-10-22 | 5 |
-| JKTYRE | merger | nclt_sanction | 2025-11-20 | 6 |
-| JSWDULUX | rights offering | announced | 2025-10-14 | 2 |
 | KIMS | merger | announced | 2025-11-07 | 1 |
+| MANKIND | slump sale | announced | 2026-07-11 | 1 |
 | MARUTI | merger | nclt_sanction | 2025-11-06 | 2 |
 | MUTHOOTFIN | merger | meetings | 2026-08-31 | 2 |
-| REFEX | merger | nclt_sanction | 2026-03-27 | 4 |
+| TCS | merger | announced | 2025-12-10 | 2 |
 | ADANIENT | merger | listed | 2025-11-17 | 3 |
 | INOXGREEN | slump sale | announced | 2026-10-07 | 2 |
 | THOMASCOOK | capital reduction | announced | 2026-03-20 | 1 |
 | AMBER | merger | nclt_sanction | 2026-04-17 | 7 |
-| ANURAS | rights offering | announced | 2026-06-09 | 2 |
-| AUROPHARMA | capital reduction | record_date | 2026-04-06 | 3 |
-| BAJAJ-AUTO | capital reduction | record_date | 2026-05-06 | 7 |
+| AUROPHARMA | capital reduction | record_date | 2026-04-06 | 6 |
+| BAJAJ-AUTO | capital reduction | record_date | 2026-05-06 | 10 |
 | BELRISE | merger | exchange_noc | 2025-11-11 | 4 |
 | BLS | slump sale | announced | 2026-09-29 | 1 |
-| CYIENT | capital reduction | record_date | 2026-04-23 | 10 |
 | GODIGIT | merger | nclt_sanction | 2026-04-23 | 5 |
 | GODIGIT | merger | nclt_sanction | 2025-12-19 | 10 |
-| IPCALAB | slump sale | announced | 2025-10-17 | 1 |
+| ICICIBANK | capital reduction | announced | 2026-04-18 | 2 |
 | JKCEMENT | merger | announced | 2025-10-15 | 1 |
-| JSWCEMENT | merger | nclt_sanction | 2026-09-29 | 4 |
-| KAJARIACER | capital reduction | record_date | 2026-04-30 | 10 |
+| JSWCEMENT | merger | nclt_sanction | 2026-09-29 | 5 |
+| KAJARIACER | capital reduction | record_date | 2026-04-30 | 12 |
 | KFINTECH | merger | announced | 2026-09-01 | 1 |
 | KIRLOSBROS | merger | announced | 2025-11-04 | 1 |
-| LENSKART | merger | announced | 2026-05-20 | 2 |
-| LLOYDSENGG | merger | nclt_sanction | 2026-05-13 | 3 |
+| LENSKART | merger | announced | 2026-05-20 | 5 |
 | LUMAXTECH | merger | nclt_sanction | 2025-11-08 | 13 |
+| NAM-INDIA | slump sale | announced | 2026-03-14 | 1 |
 | RADICO | merger | announced | 2025-10-29 | 3 |
-| RAMCOCEM | merger | announced | 2025-11-05 | 4 |
-| RBA | rights offering | announced | 2026-05-26 | 1 |
-| RBLBANK | rights offering | announced | 2025-11-05 | 4 |
-| SAPPHIRE | merger | announced | 2026-01-01 | 2 |
-| TATASTEEL | merger | nclt_sanction | 2026-03-17 | 4 |
-| THERMAX | merger | nclt_sanction | 2025-10-17 | 4 |
+| RAMCOCEM | merger | announced | 2025-11-05 | 6 |
+| SAPPHIRE | merger | announced | 2026-06-15 | 1 |
+| SAPPHIRE | merger | announced | 2026-01-01 | 6 |
+| TATASTEEL | merger | nclt_sanction | 2026-03-17 | 5 |
+| TECHM | merger | announced | 2025-12-01 | 4 |
+| THERMAX | merger | nclt_sanction | 2025-10-17 | 5 |
+| TITAGARH | slump sale | announced | 2025-12-31 | 2 |
 | TVSMOTOR | merger | nclt_sanction | 2026-05-08 | 2 |
 | VIYASH | merger | record_date | 2025-11-18 | 5 |
-| WELSPUNLIV | capital reduction | record_date | 2026-05-15 | 7 |
-| WIPRO | capital reduction | record_date | 2026-05-22 | 6 |
-| ZYDUSLIFE | capital reduction | record_date | 2026-05-19 | 9 |
+| WELSPUNLIV | capital reduction | record_date | 2026-05-15 | 10 |
+| WIPRO | capital reduction | record_date | 2026-04-16 | 9 |
+| ZYDUSLIFE | capital reduction | record_date | 2026-05-19 | 12 |
 | ADANIENT | slump sale | announced | 2026-03-01 | 1 |
 | AMBUJACEM | merger | listed | 2025-10-09 | 9 |
 | APOLLOHOSP | merger | announced | 2026-05-20 | 1 |
-| GPIL | rights offering | announced | 2025-12-04 | 3 |
+| CRAFTSMAN | merger | announced | 2026-03-11 | 1 |
 | LT | slump sale | announced | 2026-02-24 | 3 |
 | NH | merger | nclt_sanction | 2026-01-21 | 2 |
 | RELIANCE | merger | announced | 2025-12-01 | 2 |
 | TRIVENI | merger | record_date | 2025-10-29 | 9 |
 | ACE | slump sale | announced | 2026-04-30 | 2 |
+| AEGISLOG | slump sale | announced | 2025-10-29 | 2 |
 | AHLUCONT | merger | announced | 2026-02-14 | 2 |
+| APLAPOLLO | slump sale | announced | 2026-06-27 | 1 |
 | ASTERDM | merger | listed | 2026-01-22 | 11 |
 | AUROPHARMA | merger | announced | 2026-02-09 | 2 |
 | AUROPHARMA | slump sale | announced | 2026-01-01 | 1 |
+| BBTC | slump sale | announced | 2026-03-26 | 1 |
 | BHARATFORG | merger | announced | 2026-02-12 | 2 |
 | BLS | merger | announced | 2026-08-18 | 1 |
 | BPCL | merger | announced | 2026-09-11 | 1 |
-| CIPLA | merger | nclt_sanction | 2026-03-19 | 3 |
-| CMSINFO | capital reduction | record_date | 2026-05-14 | 7 |
-| COALINDIA | rights offering | announced | 2026-07-27 | 1 |
-| COFORGE | merger | record_date | 2025-10-18 | 5 |
+| CAMPUS | merger | announced | 2026-08-17 | 1 |
+| CIPLA | merger | nclt_sanction | 2026-03-19 | 5 |
+| CMSINFO | capital reduction | record_date | 2026-05-14 | 11 |
+| COFORGE | merger | record_date | 2025-10-18 | 6 |
 | DABUR | merger | exchange_noc | 2025-12-05 | 1 |
 | DALBHARAT | slump sale | announced | 2026-05-22 | 1 |
-| DIACABS | merger | announced | 2026-09-11 | 1 |
-| ECLERX | capital reduction | record_date | 2025-10-24 | 7 |
-| EMAMILTD | capital reduction | announced | 2026-09-19 | 6 |
+| ECLERX | capital reduction | record_date | 2025-10-24 | 10 |
+| EMAMILTD | capital reduction | announced | 2026-09-17 | 11 |
+| EMCURE | merger | announced | 2026-10-12 | 1 |
 | EPL | merger | announced | 2026-03-29 | 4 |
+| ERIS | slump sale | announced | 2026-03-20 | 1 |
 | ETERNAL | slump sale | announced | 2025-10-16 | 2 |
 | FSL | merger | announced | 2025-11-04 | 1 |
 | GPIL | merger | announced | 2026-03-23 | 1 |
-| GREAVESCOT | rights offering | announced | 2026-07-10 | 3 |
-| HCC | rights offering | announced | 2025-12-22 | 3 |
-| HFCL | slump sale | announced | 2026-06-03 | 1 |
+| HFCL | slump sale | announced | 2026-06-03 | 2 |
 | INDGN | merger | announced | 2026-01-01 | 2 |
-| INOXWIND | rights offering | announced | 2025-11-14 | 1 |
-| IPCALAB | merger | announced | 2026-06-26 | 1 |
+| IOB | merger | announced | 2026-02-27 | 1 |
+| IPCALAB | merger | announced | 2026-06-26 | 2 |
 | ITC | merger | announced | 2026-05-07 | 2 |
-| JMFINANCIL | rights offering | announced | 2026-09-28 | 1 |
 | JSWSTEEL | merger | nclt_sanction | 2025-10-17 | 5 |
 | LALPATHLAB | merger | nclt_sanction | 2026-03-10 | 1 |
 | LICHSGFIN | merger | nclt_sanction | 2026-08-27 | 1 |
 | LUPIN | capital reduction | announced | 2026-03-30 | 4 |
 | M&MFIN | merger | announced | 2026-08-05 | 1 |
-| MUTHOOTFIN | rights offering | announced | 2026-09-09 | 1 |
-| NAZARA | merger | announced | 2026-05-12 | 2 |
 | NHPC | merger | announced | 2026-08-07 | 4 |
+| ONGC | merger | announced | 2026-04-25 | 1 |
 | PARADEEP | merger | announced | 2025-10-17 | 3 |
-| PATANJALI | rights offering | announced | 2026-06-19 | 1 |
-| PFC | merger | announced | 2026-02-03 | 4 |
+| PFC | merger | announced | 2026-06-28 | 1 |
+| PFC | merger | announced | 2026-02-03 | 5 |
 | PRIVISCL | merger | nclt_sanction | 2025-11-15 | 9 |
-| PVRINOX | capital reduction | record_date | 2026-08-31 | 10 |
-| RECLTD | merger | announced | 2026-02-03 | 3 |
-| RENUKA | rights offering | announced | 2025-11-06 | 1 |
-| SAMMAANCAP | rights offering | announced | 2025-10-17 | 10 |
+| PVRINOX | capital reduction | record_date | 2026-08-31 | 12 |
+| RECLTD | merger | announced | 2026-02-03 | 7 |
 | SHILPAMED | merger | nclt_sanction | 2026-03-05 | 2 |
 | SUZLON | merger | announced | 2026-04-30 | 1 |
-| TCS | merger | announced | 2026-01-14 | 1 |
 | VIJAYA | merger | listed | 2025-10-16 | 6 |
-| VIPIND | rights offering | announced | 2025-10-23 | 2 |
-| WAAREEENER | merger | announced | 2026-09-23 | 2 |
+| WAAREEENER | merger | announced | 2026-09-23 | 3 |
+| WELCORP | merger | announced | 2026-03-19 | 1 |
 | WIPRO | merger | announced | 2025-12-02 | 4 |
 | ZENSARTECH | merger | announced | 2026-07-29 | 3 |
-| AMBER | rights offering | announced | 2026-03-19 | 4 |
-| CGCL | rights offering | announced | 2026-01-29 | 2 |
-| GRAVITA | rights offering | announced | 2026-09-30 | 1 |
-| MINDACORP | rights offering | announced | 2026-07-20 | 1 |
-| PRESTIGE | merger | announced | 2026-09-25 | 1 |
-| REFEX | rights offering | announced | 2026-04-26 | 1 |
+| CELLO | merger | announced | 2026-09-17 | 2 |
+| REFEX | merger | nclt_sanction | 2026-03-27 | 2 |
 | ABCAPITAL | merger | announced | 2025-11-14 | 2 |
 | ABDL | merger | announced | 2025-11-04 | 3 |
 | ABFRL | merger | nclt_sanction | 2026-02-05 | 3 |
 | ABREL | slump sale | announced | 2026-09-16 | 1 |
 | ACMESOLAR | merger | announced | 2026-09-18 | 1 |
 | ADANIPOWER | merger | announced | 2026-08-05 | 3 |
-| ADVENZYMES | capital reduction | announced | 2026-08-11 | 7 |
-| AEGISLOG | slump sale | announced | 2026-08-24 | 1 |
-| AEGISVOPAK | slump sale | announced | 2026-08-24 | 1 |
+| ADVENZYMES | capital reduction | announced | 2026-08-08 | 10 |
+| AEGISVOPAK | slump sale | announced | 2026-03-26 | 2 |
 | AGARWALEYE | merger | effective | 2026-02-17 | 10 |
-| AIIL | rights offering | announced | 2026-08-18 | 1 |
-| ANANDRATHI | rights offering | announced | 2026-09-02 | 1 |
 | BELRISE | slump sale | announced | 2026-08-04 | 1 |
 | BERGEPAINT | merger | announced | 2026-05-13 | 1 |
+| BHEL | merger | announced | 2026-03-19 | 1 |
+| BLACKBUCK | slump sale | announced | 2026-10-12 | 1 |
+| BLUESTARCO | merger | announced | 2026-08-06 | 1 |
 | BLUESTARCO | slump sale | announced | 2026-08-14 | 1 |
+| BOSCHLTD | merger | announced | 2026-02-17 | 1 |
 | BSE | merger | announced | 2026-04-23 | 1 |
 | CAMS | slump sale | announced | 2025-12-17 | 1 |
 | CCAVENUE | merger | announced | 2026-08-11 | 2 |
 | CHOICEIN | merger | nclt_sanction | 2026-05-12 | 1 |
-| CRAFTSMAN | merger | announced | 2026-03-11 | 1 |
 | CRISIL | merger | announced | 2026-07-21 | 2 |
+| DCMSHRIRAM | slump sale | announced | 2026-04-16 | 1 |
 | DLF | merger | announced | 2026-01-14 | 3 |
 | ECLERX | merger | announced | 2025-11-04 | 1 |
+| EIEL | merger | announced | 2025-11-25 | 1 |
 | ENDURANCE | merger | announced | 2025-12-29 | 1 |
 | EXIDEIND | merger | announced | 2026-05-13 | 1 |
-| FORTIS | rights offering | announced | 2025-10-09 | 1 |
 | GAIL | merger | announced | 2026-07-31 | 1 |
-| GHCL | capital reduction | record_date | 2025-11-01 | 3 |
-| GODREJPROP | merger | nclt_sanction | 2025-11-06 | 5 |
+| GHCL | capital reduction | record_date | 2025-11-01 | 5 |
+| GODREJPROP | merger | nclt_sanction | 2025-11-06 | 7 |
+| HCG | slump sale | announced | 2025-11-12 | 1 |
 | HEXT | merger | announced | 2025-11-06 | 4 |
+| ICICIAMC | slump sale | announced | 2026-08-10 | 1 |
+| ICICIPRULI | merger | announced | 2026-07-06 | 1 |
 | INDIACEM | merger | announced | 2026-03-13 | 2 |
 | IRB | merger | announced | 2026-08-26 | 1 |
 | JPPOWER | merger | nclt_sanction | 2026-02-27 | 2 |
 | KEC | merger | announced | 2026-05-16 | 1 |
 | KOTAKBANK | merger | announced | 2025-10-11 | 3 |
-| LAURUSLABS | rights offering | announced | 2026-10-06 | 1 |
 | LTTS | slump sale | announced | 2026-03-25 | 2 |
-| MANAPPURAM | rights offering | announced | 2026-03-25 | 2 |
 | MAXHEALTH | merger | nclt_sanction | 2026-03-25 | 2 |
 | MAXHEALTH | merger | announced | 2025-11-07 | 1 |
-| MEESHO | rights offering | announced | 2026-05-09 | 1 |
+| MEDANTA | slump sale | announced | 2026-04-27 | 1 |
 | MOTHERSON | merger | announced | 2026-04-15 | 3 |
 | MOTHERSON | capital reduction | announced | 2026-08-18 | 1 |
 | NAUKRI | merger | nclt_sanction | 2026-04-08 | 2 |
@@ -259,10 +265,10 @@
 | ONESOURCE | merger | exchange_noc | 2026-01-14 | 4 |
 | PAYTM | slump sale | announced | 2025-11-28 | 1 |
 | PERSISTENT | merger | announced | 2026-03-03 | 3 |
-| PETRONET | rights offering | announced | 2026-02-12 | 1 |
-| PIRAMALFIN | merger | nclt_sanction | 2026-03-27 | 5 |
+| PIRAMALFIN | merger | nclt_sanction | 2026-03-27 | 6 |
 | POLICYBZR | merger | announced | 2025-12-06 | 1 |
 | POLYCAB | merger | nclt_sanction | 2026-10-07 | 2 |
+| RBLBANK | merger | announced | 2026-06-12 | 1 |
 | RHIM | merger | announced | 2026-01-30 | 3 |
 | RKFORGE | merger | nclt_sanction | 2025-11-07 | 3 |
 | RRKABEL | slump sale | announced | 2026-09-25 | 2 |
@@ -272,73 +278,65 @@
 | SHRIRAMFIN | capital reduction | announced | 2026-09-16 | 1 |
 | SIEMENS | merger | announced | 2026-05-26 | 3 |
 | SIEMENS | capital reduction | nclt_sanction | 2026-09-25 | 2 |
-| SOBHA | rights offering | announced | 2025-10-17 | 4 |
 | SONATSOFTW | merger | effective | 2026-06-11 | 2 |
 | SUNDARMFIN | merger | announced | 2026-04-17 | 1 |
 | TATACAP | merger | announced | 2025-12-23 | 1 |
-| TECHM | merger | announced | 2025-12-01 | 3 |
 | TIMKEN | merger | nclt_sanction | 2026-05-13 | 4 |
-| TMCV | merger | announced | 2026-01-29 | 2 |
+| TMCV | merger | announced | 2026-01-29 | 3 |
 | TRENT | merger | announced | 2025-12-01 | 2 |
 | TRITURBINE | merger | announced | 2026-04-15 | 1 |
 | TVSSCS | merger | effective | 2025-10-17 | 4 |
-| UNOMINDA | merger | announced | 2025-11-03 | 3 |
+| UNOMINDA | merger | announced | 2025-11-03 | 6 |
 | VBL | merger | announced | 2026-08-17 | 1 |
+| VIJAYA | merger | announced | 2026-07-09 | 1 |
 | VIJAYA | slump sale | announced | 2026-09-11 | 1 |
-| SHAREINDIA | rights offering | announced | 2026-09-15 | 1 |
+| WELSPUNLIV | merger | announced | 2026-03-19 | 1 |
+| WELSPUNLIV | slump sale | announced | 2026-07-24 | 1 |
 | ACI | merger | announced | 2026-03-19 | 1 |
-| ACI | rights offering | announced | 2026-05-30 | 1 |
 | ADANIPORTS | merger | effective | 2026-04-01 | 2 |
-| ADVENZYMES | rights offering | announced | 2026-06-06 | 1 |
 | AEQUS | merger | announced | 2026-04-23 | 1 |
 | AGARWALEYE | merger | meetings | 2026-07-02 | 2 |
-| APOLLO | rights offering | announced | 2026-10-05 | 1 |
-| ASHOKA | rights offering | announced | 2026-03-25 | 2 |
 | ASIANPAINT | merger | effective | 2026-03-10 | 3 |
+| AWFIS | slump sale | announced | 2025-12-23 | 2 |
 | BIOCON | capital reduction | record_date | 2026-01-28 | 2 |
-| BLACKBUCK | rights offering | announced | 2026-09-28 | 2 |
-| CCAVENUE | rights offering | record_date | 2025-11-10 | 10 |
-| CELLO | merger | announced | 2026-05-15 | 4 |
+| CSBBANK | merger | announced | 2026-09-25 | 1 |
 | DATAMATICS | merger | announced | 2026-05-21 | 1 |
 | ENTERO | merger | announced | 2026-05-06 | 1 |
-| ETHOSLTD | rights offering | announced | 2025-11-11 | 3 |
+| ENTERO | slump sale | announced | 2026-05-25 | 1 |
 | FORTIS | merger | effective | 2026-01-16 | 3 |
 | GVT&D | merger | announced | 2026-05-13 | 1 |
 | IFBIND | merger | announced | 2026-05-14 | 1 |
-| JKPAPER | merger | announced | 2026-03-15 | 1 |
 | JLHL | merger | nclt_sanction | 2025-11-18 | 1 |
+| JYOTHYLAB | merger | announced | 2026-05-09 | 2 |
 | KANSAINER | merger | nclt_sanction | 2026-01-23 | 4 |
-| KITEX | merger | meetings | 2026-07-27 | 1 |
-| LLOYDSENGG | rights offering | announced | 2026-01-15 | 5 |
-| LLOYDSENT | rights offering | announced | 2026-01-08 | 1 |
 | LLOYDSENT | merger | exchange_noc | 2026-05-19 | 1 |
-| LOTUSDEV | rights offering | announced | 2026-07-04 | 1 |
 | M&M | slump sale | announced | 2026-07-29 | 2 |
 | M&M | merger | announced | 2026-07-30 | 1 |
 | NETWORK18 | merger | announced | 2026-03-25 | 1 |
 | ORIENTCEM | merger | meetings | 2025-12-22 | 6 |
-| PFOCUS | merger | nclt_sanction | 2026-05-07 | 3 |
+| PFOCUS | capital reduction | announced | 2026-09-04 | 2 |
 | PHOENIXLTD | merger | effective | 2026-09-05 | 2 |
+| PNGJL | slump sale | announced | 2026-08-20 | 1 |
 | POLYCAB | merger | effective | 2026-02-28 | 2 |
 | PURVA | merger | announced | 2026-02-12 | 2 |
-| RCF | rights offering | announced | 2025-11-14 | 1 |
-| ROUTE | slump sale | announced | 2026-07-13 | 1 |
+| ROUTE | slump sale | announced | 2026-07-13 | 2 |
 | SAMMAANCAP | capital reduction | announced | 2025-11-11 | 4 |
 | SANDUMA | merger | announced | 2025-11-20 | 1 |
 | SFL | merger | announced | 2026-01-16 | 1 |
 | SFL | merger | announced | 2025-10-31 | 3 |
 | SHAREINDIA | merger | nclt_sanction | 2026-02-05 | 4 |
+| SMARTWORKS | capital reduction | announced | 2026-08-24 | 1 |
 | SMLMAH | slump sale | announced | 2026-07-29 | 2 |
 | TANLA | merger | announced | 2025-11-27 | 1 |
-| THANGAMAYL | rights offering | announced | 2025-11-03 | 1 |
 | THYROCARE | merger | announced | 2026-09-01 | 1 |
 | TI | merger | announced | 2026-05-29 | 1 |
-| TIMETECHNO | merger | announced | 2026-08-26 | 5 |
-| TIPSMUSIC | capital reduction | announced | 2026-07-22 | 9 |
+| TIMETECHNO | merger | announced | 2026-08-26 | 9 |
+| TIPSMUSIC | capital reduction | announced | 2026-07-22 | 14 |
 | TORNTPHARM | merger | record_date | 2026-07-20 | 1 |
 | TSFINV | merger | nclt_sanction | 2026-09-09 | 1 |
 | VIKRAMSOLR | merger | nclt_sanction | 2026-06-19 | 2 |
-| VIYASH | merger | nclt_sanction | 2025-11-20 | 3 |
+| WAAREERTL | slump sale | announced | 2026-08-27 | 1 |
+| WELENT | merger | announced | 2026-03-19 | 1 |
 | WEWORK | capital reduction | announced | 2026-07-16 | 2 |
 | DBREALTY | merger | effective | 2026-01-30 | 2 |
 
@@ -348,24 +346,323 @@
 
 # Confirmed demergers — in full
 
+## UPL — UPL Ltd.
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 7.1/10 · spin-off · 4 filing(s) from NSE · first 2026-01-19, latest 2026-07-29
+
+> **Listing:** NOT YET — scheme at 'exchange_noc' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Press release dated February 20, 2026: "The transaction is expected to be completed within 12–15 months, subject to the timely receipt of regulatory and other required approvals"; BSE "no adverse observations" and NSE "No Objection" letters dated July 29, 2026; "Subsequently, UPL 2 will be listed on Indian stock exchanges pursuant to the Scheme"
+
+**The stages, as filed:** announced (2026-03-04) → exchange_noc (2026-07-29)
+
+**Stated in the filings:** entitlement **1 for every 1**.
+
+**What is being separated, as the documents put it:** UPL's India and international crop protection businesses, combined into a single listed pure-play crop protection platform — class `value_unlocking`.
+
+- *Insiders:* Promoters go 100% to 71.56% of UPL 2; UPL 2 Promoters (Shroff family, UPL Corp Mauritius, etc.) voluntarily locked for eighteen months from Listing Date; Mike Frank CEO of UPL Global
+- *What it reveals:* The spin holds the bulk of earnings: UPL Cayman turnover USD 4,187 Mn vs UPL 1's INR 53,313 Mn, demerged India undertaking 31.15% of turnover; "world's second largest listed pure-play crop protection platform", 140+ countries. Parent keeps diversified residual; scheme drives deleveraging
+- *Selling pressure:* likely — 1 for every 1 entitlement puts UPL 2 shares with every UPL holder at a fresh listing; promoter lock-in leaves only 28.44% public float
+- *Parent or spin:* spin · *option pricing date:* not stated
+- *Read next:* Scheme/abridged prospectus for UPL 2: assets and liabilities transferred, debt allocation, and 3-year revenue, EBITDA, PAT
+- *In their words:* “Bringing our crop protection businesses under one platform creates the world's second largest listed pure-play crop protection platform.”
+
+### Why the demerger — three years of calls and the scheme
+
+Management frames the separation as two linked moves to unwind a conglomerate structure in which crop protection and seeds compete for the same capital. On the Feb 2, 2026 call, Toshan Tamhane gave three objectives for the Advanta (seeds) IPO: (a) deleveraging of UPL Ltd's balance sheet, (b) value unlock for KKR, which put in a cheque of '$300-plus million' into Advanta more than three years earlier, and (c) the argument that 'the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business,' citing Corteva's own announced split of crop protection and seeds as validation, and describing Advanta as the eighth largest seeds player globally with 'a journey and destiny of its own.' Bikash Prasad stressed the Advanta listing is an offer for sale, not a primary raise — Advanta is cash-surplus and does not need the money — with proceeds going to the group 'largely for deleveraging of the group balance sheet,' and valuation to be set by a book-building price discovery process under applicable law. The separately filed Scheme (board-approved February 20, 2026) then consolidates the India crop protection business held in UPL SAS (UPL holds 90.91%) and the international crop protection business held via UPL Corp / UPL Cayman (UPL holds 77.78%) into UPL Global ('UPL 2'), to be listed — billed as the 'World's Second Largest Listed Pure-Play Crop Protection Platform' — via amalgamation of UPL SAS into UPL, a vertical demerger of India crop protection into UPL Global, and amalgamation of UPL Corp into UPL Global, with no cash consideration. The stated problems it solves: a complicated group structure with misaligned shareholder interests across layered subsidiaries, blurred value discovery for investors, constrained independent capital-raising, and split managerial and board focus; the demerged India crop protection undertaking was INR 24,120 Mn of turnover in FY25, 31.15% of combined UPL 1 turnover. Ratios: 1,000 UPL 1 shares (INR 2) for every 48 UPL SAS shares (INR 10); 1,000 UPL 2 shares for every 213 UPL Cayman shares (USD 1); and 1:1 UPL 2 for UPL 1 on the demerger, leaving UPL 1 promoters at 33.09% (from 33.51%) and UPL 2 at 71.56% promoter / 28.44% public. On the call an analyst (Tarang) pushed back hard that deleveraging and an exit for an external shareholder make sense but value creation for a UPL minority shareholder does not, given how the entities are stacked — a challenge management did not rebut.
+
+**How it evolved:** The passages supplied are all tagged [Feb 2026], so the three-year arc is not visible in them; within that window the sequence is a Q3 FY26 earnings call where the Advanta seeds IPO was raised only in Q&A, under analyst questioning, and was defended as an offer for sale for group deleveraging plus a KKR exit, with the crop-protection-versus-seeds capital allocation logic offered last ('And lastly, third...'). Management there pointed outward to Corteva's announced crop protection/seeds split rather than to a UPL plan of its own, and declined to discuss Advanta's valuation beyond saying the Board would assess market conditions at the time. Weeks later, on February 20, 2026, the Board formalised the far larger step in a composite scheme of arrangement creating a separately listed pure-play crop protection entity (UPL Global), where the rationale shifts from deleveraging and partner exit to structural simplification, clearer value discovery and independent capital raising. So the idea moves from a cash-raising/partner-exit transaction at the seeds subsidiary to a full two-listed-entity reorganisation of the parent.
+
+**What management expects from it:** For UPL 1: a diversified agri and specialty chemicals platform incubating new verticals, de-levered by Advanta IPO proceeds. For UPL 2/UPL Global: a pure-play, independently managed crop protection platform with research, manufacturing and market-access synergies, cost efficiencies, its own optimised capital structure, and a wider base of investors, strategic partners and lenders. Across both: clearer value discovery, sharper board focus, sustainable growth.
+
+**Point by point, with the source:**
+
+- *Feb 2026* — An analyst challenged the premise of the Advanta listing, noting the seeds business is cash-surplus and does not need capital, asking who the value is actually unlocked for. “I'm just trying to understand that it's a business which is cash surplus. It's a business that has been doing exceedingly well. The entity doesn't need cash. So what's the thought process behind listing the entity given the structure of the entity, given the structure of the holding, so to say?”
+- *Feb 2026* — CFO Bikash Prasad confirmed the Advanta IPO is secondary, not a primary raise — no new money into Advanta. “So this transaction is offer for sale. It's not a primary transaction.”
+- *Feb 2026* — Proceeds are earmarked for the group's balance sheet rather than business investment. “he group largely for deleveraging of the group balance sheet.”
+- *Feb 2026* — Asked whether it is essentially deleveraging plus an exit for external shareholders, management conceded that is how it looks as of now, subject to market conditions and a final Board assessment. “But yes, largely, we can say as we think now, it looks like more for deleveraging.”
+- *Feb 2026* — Toshan Tamhane set out three objectives, the first two being UPL deleveraging and value unlock for KKR, which invested over $300 million into Advanta more than three years earlier. “There is b ) value unlock for KKR. If you recollect KKR partnered with Advanta more than 3 years back when they put in a check of $300 -plus million into Advanta.”
+- *Feb 2026* — The third objective is the structural argument: seeds and crop protection have fundamentally different cash flow and capital allocation needs. “And lastly, third, we believe that the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business.”
+- *Feb 2026* — Management cited Corteva's announced crop protection/seeds split as external validation and positioned Advanta as the eighth largest global seeds player deserving its own path. “As you would have seen globally, Corteva has also announced a split between crop protection and seeds because just those two businesses are fundamentally different, and we believe Advanta as the eighth largest seeds player globally has a journey and destiny of its own.”
+- *Feb 2026* — Management said the unlocked value reaches UPL both as shareholder and through restructuring/deleveraging, with price discovery happening via the IPO. “And that value does flow through to UPL, both as a shareholder and from a restructuring deleveraging standpoint.”
+- *Feb 2026* — The analyst's unresolved objection: the logic works for deleveraging and for the external shareholder's exit, but not evidently for a UPL minority holder given the holding structure; management did not quantify a rebuttal. “But from being a shareholder at UPL, given the structure of how these entities are placed, I'm not too sure how much of value creation will it help for a shareholder of UPL .”
+- *Scheme* — The Scheme consolidates the India crop protection business in UPL SAS and the global crop protection business in UPL Cayman into one focused, pure-play platform with independent management. “The Scheme proposes to consolidate  the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure-play crop protection platform.”
+- *Scheme* — Two listed entities result: UPL 1 as a diversified agriculture and specialty chemicals platform that also incubates new verticals, and UPL 2 as a dedicated crop protection platform, so investors can self-select by strategy and risk profile. “This will enable clearer value discovery by providing flexibility to the investors to select investments which best suit their investment strategies and risk profile.”
+- *Scheme* — Each entity gains independent access to capital and can optimise its own capital structure, aligning capital allocation to focused strategies. “The Scheme will allow UPL 1 and UPL 2 to raise capital independently, allowing each entity to optimize its capital structure and pursue business opportunities more efficiently and effectively.”
+
+*Not explained on the calls:* No debt quantum or leverage target, no segment margins or synergy figures, no debt split between entities, no Advanta IPO size/valuation, timeline, tax or cost detail.
+
+*Calls read (36 months):* Feb 2026
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 43,098 | 46,637 | 51,839 |
+| Sales growth (%) | -19.6% | +8.2% | +11.2% |
+| Operating profit (₹ cr) | 4,297 | 7,128 | 9,078 |
+| Operating profit growth (%) | -57.9% | +65.9% | +27.4% |
+| Operating margin (%) | 10.0 | 15.3 | 17.5 |
+| PAT (₹ cr) | -1,878 | 820 | 2,220 |
+| PAT growth (%) | -142.5% | +143.7% | +170.7% |
+| PAT margin (%) | -4.4 | 1.8 | 4.3 |
+| EPS (₹) | -14.2 | 10.6 | 22.8 |
+
+*Source: ProfitStatement/NiftyTotalMarket/UPL.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [43098, 46637, 51839]
+    bar [4297, 7128, 9078]
+    bar [-1878, 820, 2220]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [10, 15.3, 17.5]
+    line [-4.4, 1.8, 4.3]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 28.3 — live market file (screener.in), trailing (price ₹604.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 2,321 | 10,151 | 7,855 |
+| Cash from investing (₹ cr) | -2,509 | -1,823 | -1,475 |
+| Cash from financing (₹ cr) | 164 | -4,793 | -9,883 |
+| Net cash flow (₹ cr) | -24.0 | 3,535 | -3,503 |
+| Free cash flow (₹ cr) | 367 | 8,896 | 5,502 |
+
+*Source: CashFlow/NiftyTotalMarket/UPL.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+**UPL SAS (UPL Sustainable Agri Solutions) — India Crop Protection business, one of four "pure-play" platforms** · unit ₹ crore · Operating profit = EBITDA as reported in the platform-wise presentation disclosures (after SG&A, before depreciation/finance costs/tax); contribution margin also given (FY26 contribution ₹1,033 cr, FY25 ₹866 cr). Revenue is platform revenue on proforma adjustments, excludes group elimination and excludes 'Nurture'. No PAT/PBT line is disclosed for the platform.
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ crore) | — | 3,229 | 3,212 |
+| Revenue growth (%) | — | — | -0.5% |
+| Operating profit (₹ crore) | — | 441 | 548 |
+| Operating profit growth (%) | — | — | +24.3% |
+| Operating margin (%) | — | 13.7 | 17.1 |
+| PAT (₹ crore) | — | — | — |
+| PAT growth (%) | — | — | — |
+
+*Sources:* not in pages provided; Presentation May 2026 — page 45
+
+*Latest quarter (Q1 FY27):* revenue 1140, operating profit 340 — Presentation Aug 2026 — page 24
+
+*Not in the pages read:* FY2024 platform figures; PAT/PBT for the platform at any period. Only legal-entity profit shares for UPL Sustainable Agri Solutions Ltd appear (FY24 147, FY25 263/206 restated, FY26 235) — different basis, not used.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb12d677-50d7-4495-9f5f-1921ef482847.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/16ebc6c3-a363-4437-b10d-8e0dfedb9483.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ee29f18-2108-4736-a8f1-7e012f32ce56.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f0f3bf4-eb2a-4b8e-85a4-fa1b252aa4f1.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=423093cb-ab1a-4288-abdc-894653fabf37.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6bcd0819-5ddb-4516-a762-f7a1141762db.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f944762-33b2-41d9-9bc3-aab7d950cfc9.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=199792f5-db4d-43f8-bca8-9fc46e15e9b3.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a2270a-8a9a-4206-8333-bc732990299c.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | unrelated businesses separated; value unlocking for shareholders; a weak or capital-heavy business carved away; regulatory / strategic knot; attracting different investors / capital — “…research capabilities, a broad portfolio of registered products and brands across multiple geo graphies and independent management. • The Scheme will create two separate listed entities . UPL 1 , an existing listed comp” |
+| Institutional selling likely (small / different business) | partly | the businesses are described as distinct |
+| Insider ownership and incentives aligned | partly | …as members of the promoter and promoter group of UPL 2 (collectively, “ UPL 2 Promoters ”), have agreed to voluntarily retain their entire shareholding respectively in UPL 2 and undertake to not transfer,… *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 23,576 cr (Mar 2026) = 0.46× market cap; P/E 23.0 on Mar 2026 profit vs industry median 36.0 (22 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 267 days since the first filing, stage exchange_noc |
+| Management discussing it on the calls | yes | 3 mention(s) in the last 12 months of calls — “…are fundamentally different, and we believe Advanta as the eighth largest seeds player globally has a journey and destiny of its own. Obviously, a lot of that value unlock finding the right price will happen through the” |
+
+**On the calls (last 12 months):**
+
+- *Feb 2026* (forward) — “…ing this decision to list the entity? Because as t hings stand today, it's a business which is cash surplus. It's doing exceedingly well. So if at all, there's value unlocking, how is value getting unlocked and for who is the value getting unlocked? Bikash Prasad: So I think as a first the valuation of Advanta is expected to be final…”
+- *Feb 2026* (forward) — “…I think the Advanta IPO has, as Bikash said, three objectives. Th ere is, a ) deleve raging for UPL. UPL Limited February 02, 202 6 Page 14 of 17 There is b ) value unlock for KKR. If you recollect KKR partnered with Advanta more than 3 years back when they put in a check of $300 -plus million into Advanta. By the way, the cash t…”
+- *Feb 2026* (forward) — “…are fundamentally different, and we believe Advanta as the eighth largest seeds player globally has a journey and destiny of its own. Obviously, a lot of that value unlock finding the right price will happen through the IPO process. And that value does flow through to UPL, both as a shareholder and from a restructuring deleveragi…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-01-19 | Updates | UPL Limited has informed the Exchange regarding 'Filing of Draft Red Herring Prospectus (DRHP) by Advanta Enterprises Limited, a Subsidiary of the Company.'. | [pdf](https://nsearchives.nseindia.com/corporate/UPL_19012026211323_UPL_Limited_SE_Intimation.pdf) |
+| 2026-02-20 | Scheme of Arrangement | UPL Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/UPL_20022026153902_Draft_Reg_30_Disclosure__Feb_19__Clean.pdf) |
+| 2026-03-04 | Updates | UPL Limited has informed the Exchange regarding 'Uploading of Composite Scheme of Arrangement and certain other documents on the website of the Company'. | [pdf](https://nsearchives.nseindia.com/corporate/UPL_04032026180016_FAQsintimation.pdf) |
+| 2026-07-29 | Scheme of Arrangement | UPL Limited has informed the Exchange about receipt of Observation Letters from BSE Limited and National Stock Exchange of India Limited in relation to Composit | [pdf](https://nsearchives.nseindia.com/corporate/UPL_29072026205347_Reg_30_Scheme_of_Arrangement.pdf) |
+
+</details>
+
+## NATCOPHARM — NATCO Pharma Ltd.
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 6.4/10 · spin-off · 5 filing(s) from NSE-BM, NSE-deep · first 2025-11-14, latest 2026-09-09
+
+> **Listing:** NOT YET — scheme at 'announced' stage; Natco Crop Health Sciences Limited will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Nov 2025 call: "we will list that entity maybe sometime in 2026 once all the clearances come through"; incorporation of Resulting Company indicated for December 31, 2025 (14 Nov 2025 filing)
+
+**The stages, as filed:** announced (2025-11-14)
+
+**Stated in the filings:** resulting company **Natco Crop Health Sciences Limited**.
+
+**What is being separated, as the documents put it:** The Crop Health Sciences (Agro Chemicals) Division — crop protection products business — into a separate legal entity — class `value_unlocking`.
+
+- *Insiders:* Resulting Company is a wholly-owned subsidiary, 100% held, initial capital Rs.1,00,000; filing answers "No" to promoter/promoter group interest in the entity being acquired. Promoter stake/incentives in new entity not stated.
+- *What it reveals:* Agro Chemicals is tiny and barely profitable: H1FY26 revenue Rs.872mn vs pharma Rs.26,047mn, segment loss Rs.(98)mn, FY25 loss Rs.(1,458)mn, segment assets Rs.3,415mn; management says business "is about breaking even now". Parent holds Rs.25,867mn bank balances.
+- *Selling pressure:* likely — Very small relative to parent (2% of revenue), different industry (agro-chemicals vs pharma), near-breakeven; index exclusion not stated
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* The 24 March 2026 scheme of arrangement filing — share entitlement ratio, valuation report and assets/liabilities transferred to CHS
+- *In their words:* “To demerge the Agro business of the Company into a separate entity , the move shall enable value unlocking of the core business (pharmaceuticals) and enhance long -term growth.”
+
+### Why the demerger — three years of calls and the scheme
+
+NATCO Pharma is demerging its Agrochemicals / Crop Health Sciences business (the 'Demerged Undertaking') out of the listed pharma company into Natco Crop Health Sciences Limited (the 'Resulting Company'), to be listed on BSE and NSE. The scheme's stated core reason is that the risk and reward profiles of the two verticals — Pharmaceutical and Agrochemicals — are different, so segregating them gives management better and more efficient control and a concentrated approach to each. On the calls management gave the commercial version of this: the crop business is tiny inside Natco (turnover of ₹60,62,03,918 as on 31st March 2025, just 1.48% of company turnover) and therefore 'not being valued in our system' next to a very large pharma business, so a separate listing creates visibility and value unlocking plus a 'complete see-through' into crop and pharma separately. Management said the crop business is only now about breaking even, and that as a standalone listed entity it can raise its own capital and grow by itself. In the May/Jun 2026 call the operating logic was added: the customers of the two businesses are quite different, so the demerger gives a more focused approach, and crop sales had grown to ~₹140 crore from ~₹60 crore declared the prior year, with growth to come from products, channel partners (still fewer than peers) and people additions — 'one of the main reasons for demerging and having more focus on the business.' Natco will retain about 20% of the post-listing shareholding to keep supporting a business still at early growth stages and to monitor progress and provide strategic support, with shareholders getting 1 share of ₹2 in the Resulting Company for every 1 share of ₹2 held, so they hold ~80% directly and 100% of the ultimate economic interest. The scheme also cites operational rationalization, ability to leverage each business's financial and operational resources, and letting each attract different sets of investors, strategic partners and lenders. The plan was then deferred: after the Board approved a rights issue of up to ₹1,300 crore on September 9, 2026, the Company said the resulting change to capital structure requires consequential changes to the Scheme, which has received exchange Observation Letters but has not yet been filed with the NCLT.
+
+**How it evolved:** On the Nov 14, 2025 call the demerger surfaced in answer to investor 'Guru', who asked about value unlocking in the ROW business / agro diversification; Rajeev Nannapaneni confirmed the demerger was already announced, that the entity would list 'maybe sometime in 2026 once all the clearances come through', and that shareholders would be 'duly rewarded'. By the May 29, 2026 call (Jun 2026 tag) it had moved from announcement to execution — Rajesh Chebiyam, answering individual investor Neeraj Kayal, said the business was 'in the process of demerging', framing it around different customers, a differentiated/patent-controlled product approach, and scale-up from ~₹60 crore to ~₹140 crore of sales. The Scheme filing then formalised the rationale (different risk-reward, 1.48% of turnover, 1:1 swap, 20% retained stake, BSE/NSE listing), and the September 9, 2026 board outcome pushed the timetable back: the ₹1,300 crore rights issue will change the capital structure, so a revised Scheme — keeping the same swap ratio — will be filed with the exchanges after the rights issue, and nothing has yet gone to the NCLT.
+
+**What management expects from it:** Crop/agrochemicals: dedicated focus on a differentiated, patent-controlled portfolio, its own capital raising, growth from ₹140 crore sales, plus Natco's 20% stake and strategic support while early-stage. Pharma: a clean large-cap pharma entity. Both: better management control, operational efficiencies, efficient capital allocation, own investors/partners/lenders, and value unlocking via a separate BSE/NSE listing giving shareholders see-through value.
+
+**Point by point, with the source:**
+
+- *[Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf)* — The demerger was raised by an investor asking specifically about shareholder value unlocking in the ROW/agro diversification; Rajeev confirmed it was announced and planned, with listing targeted for sometime in 2026 after clearances. “So, we will list that entity maybe sometime in 2026 once all the clearances come through.”
+- *[Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf)* — Management's stated mechanism for value unlocking: a separate listing gives the crop business special focus and the ability to raise its own capital independently of Natco. “So, we will list it separately and then we will have special focus on this and it can raise its own capital and grow by itself.”
+- *[Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf)* — The problem being solved is that the crop business is too small inside Natco to be valued, sitting next to a very large pharma business; demerger is meant to get it attention and a visible valuation. “I think you will get another business which is not being valued in our system because it is of a very tiny business and a very large business in pharma.”
+- *[Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf)* — Management characterised the crop business's current financial state as only around break-even, and said shareholders would get separate visibility into crop and pharma, with real value visible in 2026 though numbers were unpredictable. “Value unlocking means I think what we see is this business now is about breaking even now.”
+- *[Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf)* — Asked directly whether the demerger is a shareholder value-unlocking opportunity, Rajeev answered unequivocally yes and said shareholders would be rewarded for the demerger. “So, this business will get more attention and I think shareholders will be duly rewarded for the fact that it has been demerged.”
+- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf)* — Rajesh Chebiyam, answering individual investor Neeraj Kayal, said the business is in the process of being demerged and gave the primary reason as a more focused approach because the two businesses' customers are quite different. “And one of the primary reasons we felt also it gives a more focused approach because the business, ultimately, the customers are quite different.”
+- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf)* — The crop business is being built on a pharma-like strategy of differentiated, unique, patent-controlled, limited-competition molecules rather than commodity agrochemicals. “So products which could be unique, which could be patent controlled, limited competition.”
+- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf)* — Scale cited: crop sales of close to ₹140 crore for the year versus about ₹60 crore declared the previous year, with growth from product launches, channel penetration (fewer channel partners than peers) and people additions. “So in terms of sale, let's say, this year, we ended up close to INR140 crores, right? And as opposed to a declared number for last year was about INR60 crores.”
+- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf)* — Management tied the growth confidence directly to the demerger, naming focus on the business as a main reason for separating it. “And that's also one of the main reasons for demerging and having more focus on the business.”
+- *Scheme* — The formal rationale is that the Board believes the risk and reward of the Pharmaceutical and Agrochemicals verticals are different, so the Agrochemicals Undertaking is being demerged on a going-concern basis into the Resulting Company. “The Board of Directors of the Demerged Company believe that the risk and reward associated with each of the aforesaid business verticals are different.”
+- *Scheme* — Size of the demerged business is quantified: Agrochemicals turnover of ₹60,62,03,918 as on 31st March 2025, equal to 1.48% of the listed company's total turnover. “The turnover of the Demerged Undertaking is 1.48% to the total turnover of the Company in the financial year ending 31st March, 2025.”
+- *Scheme* — Natco will keep a 20% post-listing stake because the agrochemicals business is still at early growth stages, to continue supporting it, monitor progress and provide strategic support. “Further, the Demerged Company intends to retain the current shareholding in the Resulting Company (20% of post listing shareholding) in order to continue to offer support to the Agrochemicals Business which is still at its early growth stages and help in monitoring the progress and providing strategic support.”
+
+*Not explained on the calls:* No margins, profitability, debt, net worth or valuation for the crop entity; no board/management, NCLT timeline, rights-issue use of proceeds, or revised-scheme details.
+
+*Calls read (36 months):* [Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf), [Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf)
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 3,999 | 4,430 | 4,078 |
+| Sales growth (%) | +47.7% | +10.8% | -7.9% |
+| Operating profit (₹ cr) | 1,754 | 2,196 | 1,436 |
+| Operating profit growth (%) | +87.4% | +25.2% | -34.6% |
+| Operating margin (%) | 43.9 | 49.6 | 35.2 |
+| PAT (₹ cr) | 1,388 | 1,883 | 1,418 |
+| PAT growth (%) | +94.1% | +35.7% | -24.7% |
+| PAT margin (%) | 34.7 | 42.5 | 34.8 |
+| EPS (₹) | 77.5 | 105 | 79.2 |
+
+*Source: ProfitStatement/NiftyTotalMarket/NATCOPHARM.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [3999, 4430, 4078]
+    bar [1754, 2196, 1436]
+    bar [1388, 1883, 1418]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [43.9, 49.6, 35.2]
+    line [34.7, 42.5, 34.8]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 11.6 — live market file (screener.in), trailing (price ₹917.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 1,212 | 1,697 | 1,768 |
+| Cash from investing (₹ cr) | -1,026 | -1,436 | -2,082 |
+| Cash from financing (₹ cr) | -247 | -211 | 298 |
+| Net cash flow (₹ cr) | -62.0 | 50.0 | -16.0 |
+| Free cash flow (₹ cr) | 855 | 1,300 | 1,379 |
+
+*Source: CashFlow/NiftyTotalMarket/NATCOPHARM.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+**Agro Chemicals (Crop Health Sciences division / CHS)** · unit ₹ million · Operating profit = 'Segment results' from Ind AS 108 consolidated segment reporting — an EBIT-level measure before finance cost and tax (FY2025 segment result includes a ₹500 mn PPE impairment loss). Segment revenue ties exactly to total revenue from operations, i.e. external revenue with no inter-segment revenue disclosed. No segment-level PAT is disclosed. Note: quarterly presentations report 'Crop Health Sciences' revenue on a slightly different basis (FY25 598, FY26 1,382 vs segment 606, 1,382).
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ million) | 1,083 | 606 | 1,382 |
+| Revenue growth (%) | — | -44.0% | +128.1% |
+| Operating profit (₹ million) | -596 | -1,458 | -198 |
+| Operating profit growth (%) | — | -144.6% | +86.4% |
+| Operating margin (%) | -55.0 | -241 | -14.3 |
+| PAT (₹ million) | — | — | — |
+| PAT growth (%) | — | — | — |
+
+*Sources:* Annual Report 2024 — page 329; Annual Report 2025 — pages 302 and 303; Annual Report 2026 — page 316
+
+*Latest quarter (Q1 FY27):* revenue 408, operating profit None — Presentation Aug 2026 — page 26
+
+*Not in the pages read:* Segment PAT/tax for all years; segment EBITDA, depreciation and finance cost; quarterly CHS profit — presentations give CHS revenue only, with P&L reported consolidated.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/0d25dc00-4a7e-4acc-b5a8-d747c870ab2f.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/08737473-9fef-496b-881b-746b8ab600b1.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d5a992a3-1b5a-44b4-8e5b-343b600e56fc.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=02c8ef3b-6c4b-470e-83f0-69e880a97e9d.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f192f32c-197f-430f-b27f-7338ba5ee9a8.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=236bc8c2-778b-4af2-a104-b4e902651e29.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c5fe60cd-6aa5-4ff4-9fd3-1e93a3014e6e.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c755548f-c325-46ba-8d7a-8c2108a36a18.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5c9d7cd0-d102-42c5-89b3-f91787622f9d.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | value unlocking for shareholders; unrelated businesses separated; regulatory / strategic knot — “…listed entity) To demerge the Agro business of the Company into a separate entity , the move shall enable value unlocking of the core business (pharmaceuticals) and enhance long -term growth. Further, it also provides o” |
+| Institutional selling likely (small / different business) | partly | the businesses are described as distinct |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 714 cr (Mar 2026) = 0.04× market cap; P/E 11.6 on Mar 2026 profit vs industry median 52.7 (45 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 333 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 9 mention(s) in the last 12 months of calls — “…a lso the people additions. So all these activities are going on. So I think we're fairly confident going forward. And that's also one of the main reasons for demerging and having more focus on the business. Moderator: ” |
+
+**On the calls (last 12 months):**
+
+- *Nov 2025* (forward) — “…ill see. So, I think that is how we want to look at it. Guru: Thank you for that. The other question part of it is like real value. Is there any opportunity of value unlocking for the shareholders when it comes to the ROW business , what would be the value unlocking that we can expect , not accurately, but at least some kind of an in…”
+- *Nov 2025* (forward) — “…question part of it is like real value. Is there any opportunity of value unlocking for the shareholders when it comes to the ROW business , what would be the value unlocking that we can expect , not accurately, but at least some kind of an indicative thing on the value unlock that you probably plan for the agro diversification or w…”
+- *Nov 2025* (forward) — “…when it comes to the ROW business , what would be the value unlocking that we can expect , not accurately, but at least some kind of an indicative thing on the value unlock that you probably plan for the agro diversification or whatever is in the pipeline ? Rajeev Nannapaneni: I think the idea here is that we will demerge the comp…”
+- *Nov 2025* (forward) — “…the value unlock that you probably plan for the agro diversification or whatever is in the pipeline ? Rajeev Nannapaneni: I think the idea here is that we will demerge the company , I think we are planning the demerger , I think we have announced it. So, we will list that entity maybe sometime in 2026 once all the clearances…”
+- *Nov 2025* (forward) — “…ro diversification or whatever is in the pipeline ? Rajeev Nannapaneni: I think the idea here is that we will demerge the company , I think we are planning the demerger , I think we have announced it. So, we will list that entity maybe sometime in 2026 once all the clearances come through. Value unlocking means I think what we…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-11-14 | Outcome of Board Meeting | Outcome of Board Meeting | [pdf](https://nsearchives.nseindia.com/corporate/NATCOPHARM_14112025132546_Outcome14112025.pdf) |
+| 2026-03-24 | Outcome of Board Meeting | Outcome of Board Meeting | [pdf](https://nsearchives.nseindia.com/corporate/NATCOPHARM_24032026171413_OutcomeOfBoardMeeting_24032026.pdf) |
+| 2026-03-24 | Board Meeting (purpose) | Other business matters To consider Scheme of arrangement (demerger) | [pdf](https://nsearchives.nseindia.com/corporate/NATCOPHARM_18032026155941_BMnotice.pdf) |
+| 2026-03-24 | Board Meeting (purpose) | Board Meeting Intimation NATCO PHARMA LIMITED has informed the Exchange about Board Meeting to be held on 24-Mar-2026 to consider Scheme of arrangement. | [pdf](https://nsearchives.nseindia.com/corporate/xbrl/BMintimation_18032026_PRIOR_INTIMATION_WebXMLFile_20260318_160706696.xml) |
+| 2026-09-09 | Outcome of Board Meeting | Outcome of Board Meeting pursuant to Regulation 30 read with Schedule III | [pdf](https://nsearchives.nseindia.com/corporate/NATCOPHARM_09092026115332_BoardOutcome09092026.pdf) |
+
+</details>
+
 ## ASTRAL — Astral Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.8/10 · spin-off · 5 filing(s) from NSE · first 2026-06-25, latest 2026-07-29
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.8/10 · spin-off · 6 filing(s) from NSE, NSE-deep · first 2026-06-25, latest 2026-07-29
 
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: "Upon the effectiveness of the Scheme and subject to receipt of regulatory approvals, the New Shares will be listed on the Stock Exchanges" (June 25, 2026); no date given, and on July 29, 2026 the Board withdrew the Scheme so no listing will occur.
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
 
 **The stages, as filed:** announced (2026-07-05)
 
 **Stated in the filings:** entitlement **1 for every 1**; size hint: 21% of turnover.
 
-**What is being separated, as the documents put it:** The Chemicals / Adhesive Business Undertaking of Astral Limited, vested into Astral Chemie Limited (paints & coatings subsidiary) — class `value_unlocking`.
+**What is being separated, as the documents put it:** Astral's Chemicals/Adhesive Business — adhesives, sealants, construction chemicals — merged into paints-and-coatings subsidiary Astral Chemie — class `value_unlocking`.
 
-- *Insiders:* Promoters hold 100% of Resulting Company pre-scheme, 54.22% post-scheme (indicative); mirror 1:1 shareholding, no cash consideration; a specialised Board for the Resulting Company. No incentive terms stated.
-- *What it reveals:* Chemicals turnover ₹12,663 million (21% of Astral's total) would combine with the paints and coatings business under one platform; documents claim conglomerate discount removal. The independent consultant found the Chemical Business lacked current scale.
-- *Selling pressure:* unclear — Scheme withdrawn July 29, 2026, so no shares were issued; chemicals was 21% of turnover and a different industry.
+- *Insiders:* Promoters and Promoter Group hold 54.22% of Resulting Company post-Scheme (mirroring parent), public 45.78%; MD Sandeep Engineer champions it. No incentive terms stated.
+- *What it reveals:* Reveals a chemicals/specialty platform (₹12,663mn turnover, 21% of Astral's ₹59,076mn standalone) combined with the paints and coatings subsidiary, which management says markets currently value at a conglomerate discount.
+- *Selling pressure:* likely — Resulting entity is small (21% of turnover), a different industry (chemicals/paints vs plumbing), and newly listed to all holders 1:1.
 - *Parent or spin:* — · *option pricing date:* not stated
-- *Read next:* Astral's future disclosures and segment financials on the Chemical Business reaching "scale and financial strength" for a revived demerger.
-- *In their words:* “Accordingly, the Board has decided to withdraw the Composite Scheme of Arrangement now, and no further steps will be undertaken in relation to the proposed the Composite Scheme of Arrangement.”
+- *Read next:* The Scheme's definition of Chemicals Business and the demerged undertaking's profit, net worth and debt allocation — not disclosed here.
+- *In their words:* “The Scheme eliminates any conglomerate discount and allows the capital markets to distinctively value each independent vertical.”
 
 ### Why the demerger — three years of calls and the scheme
 
@@ -457,7 +754,7 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-**Paints and Adhesives (reportable segment; the demerging Chemicals/Adhesive Business Undertaking — Astral Chemie Limited — is not reported separately in these pages)** · unit ₹ Million · Operating profit = 'Segment profit' from the consolidated segment note (Note 37/37): segment revenue less directly attributable/allocated segment expenses, BEFORE finance cost, depreciation & amortisation, tax and share of JV results, and excluding other income — i.e. an EBITDA-type measure, not EBIT or PBT. Segment revenue is wholly external (documents state there were no inter-segment sales in any year). Segment depreciation is disclosed separately (Paints and Adhesives: FY2024 590, FY2025 801, FY2026 933). Investor presentations label this business's EBITDA as 2,031 (FY24) and 1,948 (FY25) and PBT before exceptional items as 1,334 (FY24) and 1,005 (FY25) [Presentation May 2025 — page 60]; these differ from the segment-note figures because of definitional/allocation differences. No segment-level PAT is disclosed.
+**Paints and Adhesives (reportable segment; separating entity named Astral Chemie Limited, formerly Astral Coatings Private Limited)** · unit ₹ Million · Operating profit = 'Segment profit' per Ind AS 108 note (segment revenue less identified segment expenses; excludes finance cost, tax and share of JV loss; stated to exclude depreciation, though the FY24 figure reconciles to presentation EBITDA less segment depreciation). Segment revenue is external only — the notes state there were no inter-segment sales in any year. Segment PAT is not disclosed; no segment-level balance of tax exists. Investor presentations give the same business as 'Paints and Adhesives Business' EBITDA (FY24 2,031; FY25 1,948) and PBT before exceptional item (FY24 1,334; FY25 1,005) — Presentation May 2025 page 60. Pages do not isolate the chemicals/adhesives undertaking alone; paints are combined with adhesives in every disclosure.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -469,11 +766,11 @@ xychart-beta
 | PAT (₹ Million) | — | — | — |
 | PAT growth (%) | — | — | — |
 
-*Sources:* Annual Report 2024 — page 220 (also Annual Report 2025 — page 208); Annual Report 2025 — page 208; Annual Report 2026 — page 218
+*Sources:* Annual Report 2024 — page 220; Annual Report 2025 — page 208; Annual Report 2026 — page 218
 
-*Latest quarter (Q4 FY23):* revenue 3827, operating profit 579 — Presentation May 2023 — page 55 (adhesives business, including Adhesive Products Weld-on business; EBIDTA margin 15.13%)
+*Latest quarter (Q4 FY23 (only quarterly figure on the pages; not a recent quarter)):* revenue 3827, operating profit 579 — Presentation May 2023 — page 55
 
-*Not in the pages read:* No standalone Chemicals/Adhesive Business Undertaking or Astral Chemie financials; no segment PAT; no adhesives-only revenue/profit (paints and UK/US sealants included); no quarterly data after Q4 FY23.
+*Not in the pages read:* Segment-level PAT, tax and finance cost for all years; FY2026 segment EBITDA and PBT; any quarterly segment figures after Q4 FY23; standalone chemicals/adhesives financials separate from paints.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/5772a6ee-bd33-47d5-bbd1-85b269bd26c3.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/78a2a99f-5d2e-4692-b054-43192a2fc329.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/455e935e-98ba-4ef9-bd54-c293a46bab7c.pdf); [Presentation May 2026](https://www.astralltd.com/wp-content/uploads/2026/05/Investor-Presentation-May-2026.pdf); [Presentation May 2025](https://www.astralltd.com/wp-content/uploads/2025/05/Astral-Analysts-Meet-PPT-R-1.pdf); [Presentation May 2024](https://astralltd.com/wp-content/uploads/2024/Astral%20Pipes_%20PPWithout%20Video%20for%20TIL.pdf); [Presentation May 2023](https://astralltd.com/wp-content/uploads/2023/05/Astral_2023.pdf)
 
@@ -486,12 +783,13 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 250 cr (Mar 2026) = 0.01× market cap; P/E 72.7 on Mar 2026 profit vs industry median 47.9 (59 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 109 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 110 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
+| 2026-06-25 | Outcome of Board Meeting | Outcome of the Board M eeting held on June 25, 2026 , pursuant to Regulations | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAL_25062026190630_Outcome_of_BM_Astral_25062026.pdf) |
 | 2026-06-25 | Scheme of Arrangement | Astral Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAL_25062026191121_Outcome_of_BM_Astral_25062026.pdf) |
 | 2026-07-05 | Outcome of Board Meeting | Astral Limited has informed the Exchange regarding Outcome of Board Meeting held on July 05, 2026 - Update on Composite scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAL_05072026145557_Reg30Astral05072026.pdf) |
 | 2026-07-05 | Scheme of Arrangement | Astral Limited has informed the Exchange about Update on Composite Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAL_05072026150046_Reg30Astral05072026.pdf) |
@@ -626,7 +924,7 @@ xychart-beta
 | Insider ownership and incentives aligned | partly | …rperson Demerged Company – 10,43,915 equity shares (0.73%) 3. Suneeta Reddy Managing Director, KMP Demerged Company – 29,37,066 equity shares (2.04%) 4. Shobana Kamineni Non Executive Direc… | option pricing mentioned: …ecoming effective, Resultant Company shall formulate and establish an employee stock option plan or other stock incentive scheme or benefit programme, in accordance with the applicable laws, and grant such options or securities in Resultant Company similar to or substantially si… *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 8,493 cr (Mar 2026) = 0.07× market cap; P/E 64.3 on Mar 2026 profit vs industry median 52.6 (45 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 192 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 193 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 5 mention(s) in the last 12 months of calls — “…en the NCLT process should ta ke it some 3, 4 months to close. And hopefully, by Q4 FY27, end of December or early Q4 FY27 is when Apollo Healthtech should get demerged and listed. That is the plan. And that Transcript ” |
 
 **On the calls (last 12 months):**
@@ -659,22 +957,22 @@ xychart-beta
 
 ## ASTRAMICRO — Astra Microwave Products Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.7/10 · spin-off · 3 filing(s) from NSE · first 2026-02-27, latest 2026-06-10
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.7/10 · spin-off · 6 filing(s) from NSE, NSE-BM, NSE-deep · first 2026-02-27, latest 2026-06-10
 
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Press release dated 27th February 2026: "he Company aims to complete the demerger and list ASTPL by Q1 of FY28, subject to the timely receipt of all approvals."
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Press release dated 27th February 2026: "he Company aims to complete the demerger and list ASTPL by Q1 of FY28, subject to the timely receipt of all approvals."; 10.06.2026 disclosure says shares will be listed on BSE and NSE subject to approvals, no date
 
 **The stages, as filed:** announced (2026-02-27)
 
 **Stated in the filings:** demerged undertaking: ) is proposed to be demerged into.
 
-**What is being separated, as the documents put it:** Astra's Space, Meteorology and Hydrology business, hived off into wholly owned subsidiary Astra Space Technologies Private Limited — class `value_unlocking`.
+**What is being separated, as the documents put it:** Astra's Space, Meteorology and Hydrology business, hived off into wholly owned subsidiary ASTPL — class `value_unlocking`.
 
-- *Insiders:* Mirror shareholding: promoters hold 6.45% of ASTPL post-scheme (public 93.55%), same as AMPL; 1:1 share entitlement, no cash consideration. No management incentive terms stated.
-- *What it reveals:* A small but reportedly profitable, high-growth segment: INR 157 Crores turnover, only 13.58% of total, with 20 years of certified ISRO space hardware heritage, INR 250 Crores space and INR 285 Crores met/hydrology order book to execute by FY28.
-- *Selling pressure:* likely — Only 13.58% of turnover, 93.55% public float mirrored, different sector from pure-play defence parent; capital intensive.
+- *Insiders:* Promoters hold 100% of ASTPL pre-scheme, cancelled on effectiveness; post-scheme ASTPL mirrors AMPL — promoters 6.45%, public 93.55%. No other incentives stated.
+- *What it reveals:* Space/Met/Hydrology did ~INR 157 Cr FY26 revenue, only 13.58% of turnover; press release calls it scaled-up, profitable, high-growth, with >750 Cr ISRO orders executed, 250 Cr ISRO plus 285 Cr met order book to FY28.
+- *Selling pressure:* likely — Small (13.58% of turnover), distinct sector from parent's pure-play defence; mirror shareholding distributes to all AMPL holders.
 - *Parent or spin:* spin · *option pricing date:* not stated
-- *Read next:* The Scheme of Arrangement itself — Appointed Date, asset/liability split and segment profitability of the Demerged Undertaking.
-- *In their words:* “The turnover of the Demerged Undertaking of the Company for the financial year ended 31st March 2026 was approximately INR. 157 Crores , representing 13.58% of the total turnover of the Demerged Company for the said year.”
+- *Read next:* The Scheme of Arrangement — ASTPL's asset/liability split and standalone financials behind the INR 157 Crores.
+- *In their words:* “The Space, Meteorology and Hydrology business operates in a sector with distinct industry characteristics, competitive dynamics, regulatory environment, and risk profile, necessitating a differentiated growth strategy aligned with its specific market opportunities.”
 
 ### Why the demerger — three years of calls and the scheme
 
@@ -756,21 +1054,21 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-**Space (Space, Meteorology and Hydrology business proposed to be demerged into Astra Space Technologies Private Limited)** · unit Rs. Lakhs · No profit line is disclosed for this business — the Company reports a single product segment under Ind AS 108, so there is no segment result/EBIT/EBITDA/PBT/PAT split. Revenue shown is the 'Space' line of the standalone sector-wise sales table (external sales, no inter-segment element). Meteorology/hydrology is not separately labelled: it sits inside 'Metrology/Civil Telecom/Others' (FY2026: 4,584; FY2025: 3,437), and export sales are a separate line (FY2026: 16,228; FY2025: 10,959), so space/met export revenue is not inside the Space figure. Figures not summed, as the documents do not present a combined demerged-undertaking total.
+**Space (demerged undertaking: Space, Meteorology and Hydrology business)** · unit ₹ lakh · No profit line is disclosed for this business. The company reports a single operating segment under Ind AS 108, so there is no segment result/EBIT/EBITDA/PAT for Space. Revenue shown is external sector-wise sales of 'Space' from the MD&A sector-wise sales table (gross, by sector, excluding exports which are reported as a separate line). Meteorology-related revenue is not separable: it is reported combined as 'Metrology/Civil Telecom/Others' (FY2026 Rs. 4,584 lakhs; FY2025 Rs. 3,437 lakhs), which includes non-demerged civil telecom/others, so it was not added to Space.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (Rs. Lakhs) | — | 5,848 | 10,975 |
+| Revenue (₹ lakh) | — | 5,848 | 10,975 |
 | Revenue growth (%) | — | — | +87.7% |
-| Operating profit (Rs. Lakhs) | — | — | — |
+| Operating profit (₹ lakh) | — | — | — |
 | Operating profit growth (%) | — | — | — |
 | Operating margin (%) | — | — | — |
-| PAT (Rs. Lakhs) | — | — | — |
+| PAT (₹ lakh) | — | — | — |
 | PAT growth (%) | — | — | — |
 
-*Sources:* Annual Report 2024 — pages 191-192, 270 (geographical segment only; no sector-wise or Space split); Annual Report 2026 — page 191
+*Sources:* Annual Report 2024 — pages 191-193, 270-271 (single segment; no sector-wise split on these pages); Annual Report 2026 — page 191
 
-*Not in the pages read:* No profit, EBITDA or PAT for Space/Meteorology/Hydrology; no FY2024 sector-wise split; no separate meteorology/hydrology revenue; no segment assets, capital employed or quarterly segment revenue.
+*Not in the pages read:* No Space/Meteorology/Hydrology profit, EBITDA or PAT anywhere; no FY2024 sector split; no quarterly segment revenue (presentations give only order book, e.g. Space 26.3% at 30-06-2026).
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/006109cf-3709-427d-8b15-87513e040708.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/10122c22-40d6-4556-9b87-34a0ab677b28.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/c307696a-1240-438e-907b-8c9a7c2401de.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4b03964-affd-4c16-a7e2-384c4ab877f4.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=03c484ea-f8f7-4cee-9b9d-ab2696cf9a5d.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=261d1e80-99bc-4c41-a6d1-d71577988dc1.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f02a1760-94f0-4f9a-9111-3a1f0f1d9b2b.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29ae7a47-5b97-4717-9a51-89fcde383fae.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=33e6e259-7539-40e1-ba9f-ec37761eae32.pdf)
 
@@ -778,12 +1076,12 @@ xychart-beta
 
 | Item | Status | Evidence |
 |---|---|---|
-| Why the spin-off | yes | unrelated businesses separated; value unlocking for shareholders; a weak or capital-heavy business carved away; attracting different investors / capital — “…DOWNSTREAM DATA APPLICATIONS. However, THE BUSINESS IS capital intensive and execution -dependent REQUIRNG FOCUSED MANAGEMENT ATTENTION TO ITS SIGNIFICANT GROWTH PROSPECTS. T he success of AST PL will depend on its abil” |
+| Why the spin-off | yes | unrelated businesses separated; value unlocking for shareholders; a weak or capital-heavy business carved away; attracting different investors / capital — “…ndertaking s of the Company into a separate entity. The management believes that this move shall enable a focused management attention and operational efficiency by creating an independent company exclusively dedicated ” |
 | Institutional selling likely (small / different business) | partly | the businesses are described as distinct |
 | Insider ownership and incentives aligned | partly | …res shall be listed on BSE and NSE. Upon the effectiveness of the Scheme, the shareholding of the Resulting Company will mirror the shareholding of the Demerged Company. Brief details of change in sharehol… *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 227 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 228 days since the first filing, stage announced |
 | Management discussing it on the calls | yes | 2 mention(s) in the last 12 months of calls — “…ter capital allocation, and improved operational e fficiency. We will share the detailed Astra Microwave Products Limited May 27 , 202 6 Page 4 of 19 scheme of demerger once it is formally approved by board, which is ex” |
 
 **On the calls (last 12 months):**
@@ -795,9 +1093,12 @@ xychart-beta
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
+| 2026-02-27 | Outcome of Board Meeting | Plot No. 51(P), Bangalore Aerospace Park, Singanahalli Village, Budigere Post, Bangalore North Taluk, Karnataka - 562149 February 27, 202 6 | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_27022026125251_outcomeofBM.pdf) |
 | 2026-02-27 | Press Release | Demerger of Space, Meteorology and Hydrology Business into a Separate Listed Entity. | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_27022026131954_PressRelease.pdf) |
 | 2026-06-10 | Demerger | Announcement of approval of the Scheme of Arrangement by the Board of Directors of Astra Microwave Products Limited ( AMPL / Demerged Company ) pursuant the Reg | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_10062026123059_Letter.pdf) |
 | 2026-06-10 | Outcome of Board Meeting | Announcement of approval of the Scheme of Arrangement by the Board of Directors of Astra Microwave Products Limited ( AMPL / Demerged Company ) pursuant the Reg | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_10062026123601_Letter.pdf) |
+| 2026-06-10 | Board Meeting (purpose) | Board Meeting Intimation ASTRA MICROWAVE PRODUCTS LIMITED has informed the Exchange about Board Meeting to be held on 10-Jun-2026 to consider Scheme of arrangem | [pdf](https://nsearchives.nseindia.com/corporate/xbrl/PIBM_532493_162026175623_PRIOR_INTIMATION_WebXMLFile_20260601_175626465.xml) |
+| 2026-06-10 | Board Meeting (purpose) | Other business matters Intimation of Board Meeting for consideration of Scheme of Arrangement, as per Regulation 29 of the SEBI (Listing Obligations and Disclos | [pdf](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_01062026175859_Boardmeetingintimation.pdf) |
 
 </details>
 
@@ -927,7 +1228,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 1,478 cr (Mar 2026) = 0.00× market cap; P/E 32.8 on Mar 2026 profit vs industry median 51.5 (27 peers) |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 311 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 312 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 13 mention(s) in the last 12 months of calls — “…ormats of Beauty and Home Care. We have actively rotated our portfolio to sharpen the quality and growth profile of the business. Strategic actions such as the demerger of I ce Cream, along with the investments at O Ziv” |
 
 **On the calls (last 12 months):**
@@ -1070,7 +1371,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | pro-forma statements are referenced in the filings; borrowings 2,004 cr (Mar 2026) = 0.23× market cap; P/E 30.1 on Mar 2026 profit vs industry median 54.1 (17 peers) |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 275 days since the first filing, stage exchange_noc |
+| Timing (first year sells, second year gains) | partly | not yet listed — 276 days since the first filing, stage exchange_noc |
 | Management discussing it on the calls | yes | 19 mention(s) in the last 12 months of calls — “…s that you may have. Moderator: The first question is from the line of Achal Kumar with HSBC. Achal Kumar: I have 2 simple questions . So first, tomorrow after demerger, if Fleur believes that its inventory can be manag” |
 
 **On the calls (last 12 months):**
@@ -1217,7 +1518,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 5,858 cr (Mar 2026) = 0.14× market cap; P/E 51.5 on Mar 2026 profit vs industry median 52.7 (45 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 304 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 305 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 2 mention(s) in the last 12 months of calls — “…we are doing is a little bit of consolidation and a few of the corporate overheads can be worked in a way that we share resources with the parent and we'll be demerging the clinic business into the core that should help” |
 
 **On the calls (last 12 months):**
@@ -1378,7 +1679,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 32,947 cr (Mar 2026) = 0.32× market cap; P/E 4.1 on Mar 2026 profit vs industry median 22.9 (16 peers) |
 | Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 175 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 176 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 18 mention(s) in the last 12 months of calls — “…in an unbundled fashion, so each of the new companies' benchmarking is different. In summary, the 3% rate continues and the only change that will be done post -de-merger is in the copper brand fee. So the brand fee for ” |
 
 **On the calls (last 12 months):**
@@ -1414,45 +1715,45 @@ xychart-beta
 
 ## ANANTRAJ — Anant Raj Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 2 filing(s) from NSE · first 2026-07-21, latest 2026-07-21
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 3 filing(s) from NSE, NSE-deep · first 2026-07-21, latest 2026-07-21
 
 > **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
 
 **The stages, as filed:** announced (2026-07-21)
 
-**What is being separated, as the documents put it:** The Data Centre & Cloud Services business (data centres, co-location, sovereign cloud, AI-ready cloud infrastructure) of ARL and ARCPL — class `value_unlocking`.
+**What is being separated, as the documents put it:** The Data Centre and Cloud Services business of ARL and ARCPL, vested in Ashok Cloud Private Limited — class `value_unlocking`.
 
-- *Insiders:* Promoters keep 57.42% of ARL unchanged; in ACPL post-scheme promoters of ARL hold 28.14% directly, ARL 51%, public 20.86%; ARL shareholders retain 100% ultimate economic interest.
-- *What it reveals:* Data Centre Business did ₹145.90 cr turnover, only 8.96% of ₹1,627.72 cr total, yet is called "rapidly growing"; ARL keeps 51% of ACPL plus ₹4,471.64 cr net worth real estate, so value sits in both legs.
-- *Selling pressure:* likely — Small (8.96% of turnover), different industry from real estate, and only 49% distributed — public float just 20.86%.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The Composite Scheme itself — asset, debt and capex allocation to the Demerged Undertaking, since ACPL turnover is ₹0.00 cr.
+- *Insiders:* Post-arrangement ACPL: ARL 51%, ARL promoters 28.14% directly, public 20.86%; promoters' ARL holding unchanged at 57.42% (20,66,57,823 shares). No management incentive or ESOP terms stated.
+- *What it reveals:* Data Centre Business is only 8.96% of turnover (Rs 145.90 cr of Rs 1,627.72 cr) yet is the 'rapidly growing' AI-ready cloud asset inside a Rs 4,471.64 cr net-worth real estate company; ARL retains 51%, so only 49% is distributed.
+- *Selling pressure:* likely — Small relative size (8.96% of turnover), different industry from real estate, and only 49% distributed directly to ARL shareholders
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* The Composite Scheme itself — asset, liability and debt split of the Demerged Undertaking, and the appointed date
 - *In their words:* “The Data Centre Business has evolved significantly over the years and is well poised to chart its own growth path and operate as a separate listed entity focused on the rapidly growing Data Centre Business whilst continuing to leverage ARL's institutional strengths, strong brand equity and goodwill.”
 
 ### Why the demerger — three years of calls and the scheme
 
-Anant Raj Limited says it today runs two distinct verticals — a real estate business and a data centre and cloud services business (the "Data Centre Business") — and that the Data Centre Business is currently split across two entities, ARL itself and its wholly owned subsidiary Anant Raj Cloud Private Limited (ARCPL), with assets, employees, investments and operations housed across both. That fragmentation is the specific problem the composite scheme fixes: step one merges ARCPL into ARL, step two demerges the resulting Demerged Undertaking into Ashok Cloud Private Limited (ACPL), so the entire data centre and cloud business sits in a single dedicated corporate entity and becomes a separate listed company. Management's stated reason is that the two businesses now have different growth drivers, capital requirements and operating models, and that the Data Centre Business 'has evolved significantly' and is ready to chart its own growth path while still leveraging ARL's institutional strengths, brand equity and goodwill. The filing's financials frame the asymmetry: for FY ended 31 March 2026, ARL turnover ₹1,491.52 crore and net worth ₹4,471.64 crore; ARCPL turnover ₹136.20 crore and net worth ₹49.45 crore; ACPL, the resultant company, turnover ₹0.00 crore and net worth ₹0.04 crore, with paid-up capital of ₹71.98 crore (ARL), ₹2.50 crore (ARCPL) and ₹74.91 crore (ACPL). The claimed benefits are five: two focused businesses with dedicated management teams; unlocking value via independent market recognition of the cloud business as a pure-play digital infrastructure company; direct shareholder participation through a 1:1 share entitlement (one ₹2 ACPL share per ₹2 ARL share held); a simplified structure with streamlined governance, greater transparency and faster decision-making; and greater flexibility for the cloud business to attract sector-focused investors, strategic partnerships, acquisitions and growth capital. Post-restructuring ARL stays focused on real estate and infrastructure while Ashok Cloud builds data centre, colocation, sovereign public cloud and AI-ready cloud infrastructure. Notably, ARL's existing shareholding in ACPL is not cancelled, so ACPL remains a subsidiary of ARL even after the demerger.
+Management's stated reason is structural: Anant Raj Limited (ARL) today runs two unrelated verticals — a real estate and infrastructure business, and a data centre and cloud services business — and the Data Centre Business is currently split across two entities (ARL itself and its wholly owned subsidiary ARCPL), with assets, employees, investments and operations housed in both. The Composite Scheme therefore does two things in sequence: first amalgamates ARCPL into ARL (no shares issued, since ARCPL is a 100% subsidiary with 25,00,000 shares held by ARL), then demerges the consolidated Data Centre Business out of ARL into Ashok Cloud Private Limited (ACPL), whose business is described as data centre and co-location services, sovereign public cloud, AI-ready cloud infrastructure, DC & DR services, cloud migration and data backup. The problems management says this solves are: (a) a fragmented, intra-group ownership structure, which consolidation simplifies and lets intra-group arrangements be cancelled or rationalised; (b) the data centre business being valued inside a real estate company despite a 'distinct operating profile, growth trajectory, risk-return characteristics and funding requirements', which a separate listing is meant to fix through independent, market-driven recognition and valuation; (c) inability to raise sector-specific capital and pursue data-centre-specific strategic investments and partnerships while buried inside ARL; and (d) divided management attention, which the Scheme replaces with dedicated management focus and decision-making per vertical. The scale disclosure supports the 'hidden inside real estate' argument: for the year to March 31, 2026, the demerged undertaking's turnover is ₹145.90 crore against total turnover of ₹1,627.72 crore, i.e. 8.96% (computed after aggregating ARCPL and ARL post-merger). ARL shareholders are kept whole economically — 1 ACPL share of ₹2 face value for every ARL share of ₹2, giving them 49% directly while ARL retains 51%, so post-scheme ACPL is 79.14% promoter-held (ARL 51% plus ARL promoters 28.14%) and 20.86% public, and ARL's own shareholding pattern is unchanged at 57.42% promoter / 42.58% public across 35,98,76,930 shares. ACPL is to be listed on BSE and NSE via a Rule 19(7) exemption under the SEBI Scheme of Arrangement master circular dated June 20, 2023, with the Board approving on July 21, 2026 and NCLT approval sought under Sections 230–232 of the Companies Act, 2013.
 
-**How it evolved:** No earnings call passages were supplied with this prompt — the 'CALL PASSAGES' section is empty, so there is no call-by-call trail to reconstruct and nothing can be said about how the idea surfaced or changed across three years of calls without going outside the texts given. The only dated evidence here is the board meeting of July 21, 2026 (commenced 4:30 P.M., concluded 6:15 P.M.), at which the Board, on the recommendation of the Independent Directors and the Audit Committee, approved the Composite Scheme of Arrangement under sections 230-232 of the Companies Act, 2013. Within that single document the plan is already a two-step composite structure (ARCPL merged up into ARL, then the data centre undertaking demerged down into ACPL) rather than a simple spin-off, which is itself the response to the business being housed across two entities.
+**How it evolved:** No evolution can be reconstructed from the material supplied: the 'CALL PASSAGES' section of the prompt was empty, so there are no earnings-call passages (and no call dates or labels) in the record. The only dated points available are the financial reference date of March 31, 2026 for the turnover split (₹145.90 crore of ₹1,627.72 crore) and the Board's approval of the Composite Scheme on July 21, 2026, announced the same day by press release as creating 'Two Focused Independent Listed Companies'. Within the filing itself the plan is already in final two-step form — ARCPL merged into ARL, then the Data Centre Business demerged into Ashok Cloud — with no earlier variant described.
 
-**What management expects from it:** ARL: sharpened focus on real estate and infrastructure. Ashok Cloud: a pure-play digital infrastructure company with independent market recognition and valuation, dedicated leadership, and greater flexibility to attract sector-focused investors, partnerships, acquisitions and growth capital. Both: operational agility, streamlined governance, transparency, faster decision-making, focused growth strategies, and sustainable long-term shareholder value, with shareholders participating directly via 1:1 shares.
+**What management expects from it:** ARL: a pure real estate and infrastructure developer with its own tailored strategy and unchanged shareholding. Ashok Cloud: a dedicated listed data centre, cloud and AI-workload entity with independent market-driven valuation, sector-specific capital and partnerships, a simpler post-consolidation structure, and dedicated management focus. Shareholders: 100% of ACPL's economic interest (49% direct, 51% via ARL) and unlocked shareholder value. No margin or return targets are given.
 
 **Point by point, with the source:**
 
-- *Scheme* — The stated starting problem: ARL runs two unlike businesses side by side — real estate, and data centre plus cloud services. “The Anant Raj Limited presently operates two distinct business verticals, namely: (i) a real estate business; and (ii) a data centre and cloud services business ("Data Centre Business").”
-- *Scheme* — The data centre business is fragmented across ARL and its subsidiary ARCPL — assets, employees, investments and operations sit in both, which is what the merger step consolidates. “The Data Centre Business is presently conducted through ARL and ARCPL, with various assets, employees, investments and business operations pertaining to the Data Centre Business being housed across both entities.”
-- *Scheme* — The maturity argument: the data centre business is said to be ready to stand alone as a listed entity while still drawing on ARL's brand and institutional strengths. “The Data Centre Business has evolved significantly over the years and is well poised to chart its own growth path and operate as a separate listed entity focused on the rapidly growing Data Centre Business whilst continuing to leverage ARL's institutional strengths, strong brand equity and goodwill.”
-- *Scheme* — The objective is explicitly consolidation into one entity plus creation of two dedicated listed companies. “Therefore, the Scheme is being proposed with the objective of consolidating the entire Data Centre Business within a single dedicated corporate entity and facilitating the creation of two dedicated listed companies focused on separate business verticals.”
-- *Scheme* — The economic justification: the two businesses differ in growth drivers, capital needs and operating models. “The proposed restructuring reflects the evolution of Anant Raj into two distinct businesses with different growth drivers, capital requirements and operating models.”
-- *Scheme* — An investor-valuation rationale: separation lets the market value real estate and digital infrastructure independently. “The demerger will enable each business to pursue focused growth strategies while allowing investors to independently evaluate and value the real estate and digital infrastructure businesses.”
-- *Scheme* — The value-unlock claim is specifically a pure-play re-rating of the data centre and cloud business. “Unlocking Shareholder Value: Independent market recognition and valuation of the Data Centre & Cloud Services business as a pure-play digital infrastructure company.”
-- *Scheme* — Capital-access rationale: a standalone cloud entity can court sector-specific capital and do deals, alongside streamlined governance and faster decisions. “Greater flexibility for the cloud business to attract sector-focused investors, strategic partnerships, acquisitions and growth capital.”
-- *Scheme* — Post-split focus is spelled out: ARL to real estate and infrastructure, Ashok Cloud to data centre and AI-ready cloud infrastructure. “Following the restructuring, Anant Raj Ltd will continue to strengthen its focus in real estate and infrastructure, while Ashok Cloud will focus on building a robust data centre and cloud services (including AI ready cloud infra) business.”
-- *Scheme* — Mechanics: a two-step composite scheme — ARCPL merges into ARL, then the Demerged Undertaking vests in ACPL; both are wholly owned subsidiaries of ARL. “(i) Merger of Anant Raj Cloud Private Limited ("ARCPL" or "Amalgamating Company") into Anant Raj Limited ("ARL" or "Amalgamated Company");”
-- *Scheme* — Shareholder entitlement is 1:1 at ₹2 face value, giving ARL holders direct participation in the digital infrastructure entity. “Upon the Scheme becoming effective, eligible shareholders of Anant Raj Limited will receive one fully paid-up equity share of face value of ₹2 each in Ashok Cloud Private Limited for every one fully paid-up equity share of face value of ₹2 each held in Anant Raj Limited.”
-- *Scheme* — A structural detail a special-situation investor should note: ARL's stake in ACPL is not cancelled, so ACPL stays a subsidiary of ARL post-scheme. “The Scheme will not result in the cancellation of Anant Raj Limited's existing shareholding in Ashok Cloud Private Limited, and ACPL will continue to remain a subsidiary of Anant Raj Limited.”
+- *Scheme* — The starting problem: two unrelated verticals inside one listed company, with the data centre business itself split across ARL and its subsidiary ARCPL (assets, employees, investments and operations in both). “The Anant Raj Limited presently operates two distinct business verticals, namely: (i) a real estate business; and (ii) a data centre and cloud services business ("Data Centre Business").”
+- *Scheme* — Management says the data centre business has outgrown its position inside ARL and can run its own growth path as a separate listed entity, while still trading on ARL's brand and goodwill. “The Data Centre Business has evolved significantly over the years and is well poised to chart its own growth path and operate as a separate listed entity focused on the rapidly growing Data Centre Business whilst continuing to leverage ARL's institutional strengths, strong brand equity and goodwill.”
+- *Scheme* — Valuation rationale: a separate listing is meant to get the data centre business recognised and valued on its own operating profile, growth, risk-return profile and funding needs rather than as part of a real estate company. “the segregation of the Data Centre Business into a separately listed company would facilitate independent market recognition and valuation of the Data Centre Business, having regard to its distinct operating profile, growth trajectory, risk-return characteristics and funding requirements”
+- *Scheme* — Structural cleanup rationale: consolidating the business out of two entities into one simplifies ownership and allows intra-group arrangements to be cancelled or rationalised. “consolidation of the Data Centre Business, resulting in a simpler ownership structure, streamlined operations and cancellation or rationalization of intra-group arrangements”
+- *Scheme* — Capital and partnership rationale: as a standalone legal entity, Ashok Cloud can raise sector-specific capital and resources and pursue data-centre-specific strategic investments and partnerships. “the separation of the Data Centre Business into a distinct legal entity will enable Ashok Cloud to effectively attract sector specific resources for its growth requirements and pursue strategic investments, partnerships, thereby unlocking greater value for its shareholders”
+- *Scheme* — Focus rationale: each management team gets to set strategy for its own vertical instead of sharing decision-making across real estate and data centres. “the Scheme will enable dedicated management focus and decision-making for each business vertical, allowing the management teams of ARL and Ashok Cloud to pursue business strategies and growth initiatives tailored to their respective operational and market requirements.”
+- *Scheme* — The size disclosure: the demerged data centre undertaking is ₹145.90 crore of turnover against ₹1,627.72 crore total, 8.96%, for the year to March 31, 2026 (after aggregating ARCPL with ARL). “Turnover* (in Crores) Demerged Undertaking 145.90 Total 1627.72 Percentage 8.96%”
+- *Scheme* — What the demerged business actually is: colocation, sovereign public cloud, AI-ready cloud infrastructure, DC & DR, cloud migration and backup — i.e. operating services, not property. “ACPL is inter alia engaged in the business of providing data centre and Co-Location services, sovereign public cloud services and AI ready Cloud Infrastructure, DC & DR services, including cloud migration, data backup solutions and other allied activities.”
+- *Scheme* — Step one is a no-consideration internal merger: ARCPL, a wholly owned subsidiary (25,00,000 shares, 100% held by ARL), folds into ARL with no shares issued. “Since, the Amalgamating Company is a wholly owned subsidiary of Amalgamated Company, no shares of the Amalgamated Company shall be issued or allotted in consideration of Part II of the Composite Scheme i.e. the merger of ARCPL with and into ARL.”
+- *Scheme* — Shareholders are made direct owners of 49% of ACPL on a 1:1 share basis, with ARL retaining 51%; post-scheme ACPL is 79.14% promoter (ARL 51% + ARL promoters 28.14%) and 20.86% public, while ARL's 57.42/42.58 pattern is unchanged. “the existing shareholders of ARL shall receive shares in Ashok Cloud (ACPL) pursuant to the demerger, thereby enabling them to directly participate in the future growth and value creation potential of the Data Centre business through a dedicated and focused listed entity, while benefiting from independent market-driven valuation”
+- *Scheme* — ACPL's shares are to be listed on BSE and NSE without an IPO, using a Rule 19(7) exemption under the SEBI Scheme of Arrangement master circular of June 20, 2023; ACPL also stays an ARL subsidiary. “the existing shares of ARL in ACPL shall be listed on BSE Limited and the National Stock Exchange of India Limited by seeking exemption under Rule 19(7) of the Securities Contracts (Regulation) Rules, 1957”
+- *Scheme* — The July 21, 2026 press release frames the outcome as two focused listed companies — ARL in real estate and infrastructure, Ashok Cloud in next-generation data centre and cloud services including AI workloads. “The restructuring will  enable each business to pursue focused growth strategies  and will unlock shareholder value.”
 
-*Not explained on the calls:* No earnings call passages were provided at all. The filing gives no margins, debt or capex split, capital-allocation plan, valuation, timeline, named management teams, or any investor, lender or partner request.
+*Not explained on the calls:* No earnings-call passages were supplied at all. The filing gives no margins, capex, MW capacity, debt or asset allocation, timeline, or any investor, lender or partner request driving it.
 
 ### The parent, last three fiscal years (consolidated)
 
@@ -1507,7 +1808,7 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-The segment pages read (3 annual report(s) and 11 presentation(s) on file) do not carry this business's own revenue or profit: All data centre operating profit/EBITDA and PAT, for every period; all full-year data centre revenue (FY24, FY25, FY26); any Q4 FY26 or Q1 FY27 data-centre-only revenue.
+The segment pages read (3 annual report(s) and 11 presentation(s) on file) do not carry this business's own revenue or profit: No full-year, operating-profit or PAT figures for the data centre business. Only part-year revenue: Q2 FY26 ₹35.47 Cr, Q3 FY26 ₹43.57 Cr, H1 FY26 ₹58.42 Cr, 9M FY26 ₹101.99 Cr.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/443e6268-09d2-4ba3-a3a9-4c478098b164.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8698030a-7d1b-4cfb-987b-9571f7d1a989.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8bf6dcbb-f722-4625-a066-66563b63e047.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b3cf886-7a1d-4250-80fa-57d49521f681.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f24273e2-ebcf-475f-a448-64ffb3febd4e.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1ea76a5-c69c-459a-9c84-75607719fb96.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b3c7361-183e-4598-a569-dff8a843418b.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b6452a4f-1cd4-41f2-a11d-8eaea6ba62b1.pdf); [Presentation Apr 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b79edae8-4090-479d-80be-1a8b4a4fe463.pdf)
 
@@ -1520,13 +1821,14 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 681 cr (Mar 2026) = 0.03× market cap; P/E 40.2 on Mar 2026 profit vs industry median 39.2 (8 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 83 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 84 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-07-21 | Scheme of Arrangement | Anant Raj Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/ANANTRAJ_21072026184608_Outcome_21072026.pdf) |
+| 2026-07-21 | Outcome of Board Meeting | Outcome of the Board Meeting of Anant Raj Limited (''Amalgamated Company" I "Demerged | [pdf](https://nsearchives.nseindia.com/corporate/ANANTRAJ_21072026184858_Outcome_21072026.pdf) |
 | 2026-07-21 | Press Release | Anant Raj Limited has informed the Exchange regarding a press release dated July 21, 2026, titled "Anant Raj Board Approves Strategic Demerger to Create Two Foc | [pdf](https://nsearchives.nseindia.com/corporate/ANANTRAJ_21072026190031_Intimation_Press_Release_21072026.pdf) |
 
 </details>
@@ -1541,14 +1843,14 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 
 **Stated in the filings:** demerged undertaking: of the answering Respondent.
 
-**What is being separated, as the documents put it:** The power business undertaking of Indiabulls Real Estate Limited, demerged in 2011 to RattanIndia Enterprises Limited — class `not stated`.
+**What is being separated, as the documents put it:** The power business undertaking of Indiabulls Real Estate (now Embassy Developments), demerged into RattanIndia Enterprises Limited — class `not stated`.
 
-- *Insiders:* not stated
-- *What it reveals:* Separation left the parent holding residual contingent exposure: a 30.06.2010 corporate guarantee and cost-overrun undertakings for Sinnar Thermal Power's Rs.372.35 crore debt, which creditors argue were never released.
-- *Selling pressure:* unclear — Demerger completed 2011; documents state no deal size, shareholding or index-exclusion details.
+- *Insiders:* not stated for the demerged entity; documents name Rattan India Power Limited as promoter of the borrower and Bellanza, Worldpart, Aalidhra as warrant-converting allottees in the parent
+- *What it reveals:* The separation left a retained contingent liability, not value: NCLT held a restructuring scheme does not ipso facto extinguish guarantees, admitting a Rs 3,72,35,67,407.77 Section 7 petition against the parent (stayed by NCLAT).
+- *Selling pressure:* unclear — Documents cover a 2011 court-approved demerger only; no size, shareholding, index or industry-difference details are given
 - *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* The 11.01.2012 Deed of Corporate Guarantee and the NCLAT order dated May 4, 2026
-- *In their words:* “Demerger of power business undertaking of the answering Respondent to the Rattanlndia Enterprises Limited.”
+- *Read next:* The 2012 Corporate Guarantee dated 11.01.2012 and the awaited NCLAT stay order fixing who holds the Rs 372.36 crore guarantee
+- *In their words:* “In addition, a restructuring scheme does not ipso facto extinguish existing guarantees unless the creditor expressly executes a written and unconditional release in favour of the guarantor.”
 
 ### Why the demerger — three years of calls and the scheme
 
@@ -1626,7 +1928,7 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-The segment pages read (3 annual report(s) and 11 presentation(s) on file) do not carry this business's own revenue or profit: No revenue, operating profit/EBITDA or PAT for the power business in any year or quarter; the demerger predates these reports (FY2010-11) and all segment notes disclose a single real-estate segment.
+The segment pages read (3 annual report(s) and 11 presentation(s) on file) do not carry this business's own revenue or profit: All power-business figures: revenue, operating profit/EBITDA and PAT for FY2024, FY2025, FY2026 and any quarter. The power business was demerged in FY2010-11 and is not a reportable segment in any of these reports.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8de6e6b7-d73c-4404-82c0-7455222d2fcb.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/1eaeaac9-9aae-4653-b5c7-af8115f29d44.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/6e9fd5ba-80a4-4e7e-ad38-aae2d23cf373.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5f29d27-5399-4eaf-b024-a0f8faec115f.pdf); [Presentation May 2026](https://embassyindia.com/wp-content/uploads/2025/12/EDL_Investor-Update_20052026.pdf); [Presentation Feb 2026](https://embassyindia.com/wp-content/uploads/2025/12/EDL_Investor-Update_09.02.2026.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=473ab6f7-60e4-4498-84fa-23f2bf26af23.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=33b936a7-263b-42a6-9835-3a65768fd5e3.pdf); [Presentation Jun 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7489a6e2-7dbb-432e-88b6-037a4cec4579.pdf)
 
@@ -1639,7 +1941,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 305 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 306 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 4 mention(s) in the last 12 months of calls — “…was separated from the erstwhile Indiabulls Group and certain historical corporate guarantee arrangements linked to equity infusion obligations. Following the demerger, STPL has been part of the Ratan India Group since ” |
 
 **On the calls (last 12 months):**
@@ -1663,19 +1965,19 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 
 **CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 3 filing(s) from NSE · first 2026-09-18, latest 2026-09-21
 
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Stated 21 September 2026: "The equity shares of the Resulting Company are already listed on BSE Limited and National Stock Exchange of India Limited"; the new shares "shall be listed and/or admitted to trading on BSE Limited and National Stock Exchange of India Limited, subject to the Resulting Company obtaining the requisite approvals" — no date given. Appointed Date is 1 October 2026 or as NCLT approves.
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Stated 21 September 2026: "The equity shares of the Resulting Company are already listed on BSE Limited and National Stock Exchange of India Limited" and the new shares "shall be listed and/or admitted to trading on BSE Limited and National Stock Exchange of India Limited, subject to the Resulting Company obtaining the requisite approvals from all the relevant authorities"; Appointed Date 1 October 2026; no date for listing of the new shares stated
 
 **The stages, as filed:** announced (2026-09-18)
 
 **Stated in the filings:** demerged undertaking: ) from DBRL to HSCL as a going concern, on an as is where is basis,; size hint: 3.39% of turnover.
 
-**What is being separated, as the documents put it:** DBRL's Tyre Business — designing, manufacturing and development of all types of tyre and tyre products — class `regulatory_strategic`.
+**What is being separated, as the documents put it:** The Tyre Business of Dalmia Bharat Refractories Ltd — designing, manufacturing and development of all types of tyre and tyre products — class `regulatory_strategic`.
 
-- *Insiders:* HSCL Promoter & Promoter Group hold 26,48,59,302 shares, 52.49% pre-Scheme to 52.47% post; DBRL promoters stay 74.99%, unchanged. HSCL has 53,896 outstanding exercisable employee stock options.
-- *What it reveals:* HSCL buys a tyre business turning over INR 149.31 crores (3.39% of its turnover) for only 1,76,462 new shares — roughly 0.03% dilution, no cash — gaining forward integration across the tyre value chain.
-- *Selling pressure:* unlikely — Only 1,76,462 new HSCL shares issued (1 per 260 DBRL shares); fractional entitlements consolidated and held by a trustee.
-- *Parent or spin:* spin · *option pricing date:* not stated
-- *Read next:* The Scheme on www.himadri.com, plus the 20 September 2026 valuation report — Tyre Business assets, liabilities and profitability.
+- *Insiders:* HSCL Promoter & Promoter Group stays 26,48,59,302 shares, 52.49% to 52.47%; DBRL promoters unchanged at 74.99%; HSCL has 53,896 outstanding exercisable employee stock options
+- *What it reveals:* HSCL takes in a going-concern tyre business with INR 149.31 crore turnover (3.39% of HSCL turnover) for only 1,76,462 new shares — about 0.035% dilution; profitability, assets and liabilities of the undertaking not stated
+- *Selling pressure:* unlikely — New shares are only 1,76,462 of 50,47,50,637 (~0.035%); DBRL holders get 1 share per 260, fractions pooled with a trustee
+- *Parent or spin:* spin · *option pricing date:* Valuation report and fairness opinion dated 20 September 2026; ESOP option pricing date not stated (preferential warrants were allotted 14 May 2024 at Rs. 316)
+- *Read next:* The Scheme on www.himadri.com — Tyre Business assets, liabilities and profitability behind the INR 149.31 crore turnover
 - *In their words:* “The Demerger will enable the Resulting Company to integrate the Tyre Business with its existing carbon black and advanced carbon materials business, thereby strengthening its presence across the tyre value chain.”
 
 ### Why the demerger — three years of calls and the scheme
@@ -1756,7 +2058,7 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-The segment pages read (3 annual report(s) and 12 presentation(s) on file) do not carry this business's own revenue or profit: Pages carry no tyre-business revenue, EBITDA/segment result, or PAT for any year or quarter. Tyres are not a reportable segment; only consolidated/standalone and carbon, power, mining figures appear.
+The segment pages read (3 annual report(s) and 12 presentation(s) on file) do not carry this business's own revenue or profit: All tyre-business revenue, operating profit and PAT. Pages carry only qualitative tyre commentary (Birla Tyres acquired Oct 2023, commenced Q1FY26, Rs. 306 Cr capex) plus group-level and non-tyre segment numbers.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8cbe5c4e-369b-466b-8197-fbebde03cb8c.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/f1782c89-a24f-4983-a98f-aaeaede88f97.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/51cc71ca-f3f9-4d49-b49e-57a1ca4d2541.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4e3e907e-5b52-459d-8ad8-156b1c852014.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa980d82-dd43-4cf9-8449-a3e68e21ff61.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44f06ba4-8d58-4ca2-826f-d371126765c6.pdf); [Presentation Oct 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2cfc8af2-8a36-4513-9728-17d718efc0ea.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=819ccae4-5d3e-42ad-be90-ad4d31f6ee37.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cda3f878-ed7c-4dbb-8fb5-1bcdee62cf79.pdf)
 
@@ -1769,7 +2071,7 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 770 cr (Mar 2026) = 0.02× market cap; P/E 50.2 on Mar 2026 profit vs industry median 35.0 (22 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 24 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 25 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -1781,9 +2083,121 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 
 </details>
 
+## LENSKART — Lenskart Solutions Ltd.
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 1 filing(s) from NSE-deep · first 2026-02-11, latest 2026-02-11
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** Nothing; documents cover amalgamation of two wholly-owned subsidiaries into Lenskart, not a separation — class `regulatory_strategic`.
+
+- *Insiders:* not stated
+- *What it reveals:* Transferors are wholly-owned, so no new entity emerges; separate disclosures reveal loss-making overseas subsidiaries Lenskart Singapore and NESO Brands unable to service loan principal and interest, with loans converted to equity.
+- *Selling pressure:* unlikely — Transferor companies are wholly-owned subsidiaries being absorbed; documents describe no new shares or separate listing.
+- *Parent or spin:* parent · *option pricing date:* not stated; exercise price equals average closing price for 30 days prior to the Grant, with Plans approved by the Board on February 11, 2026
+- *Read next:* Scheme Part D — consideration, accounting treatment and dissolution clauses; also the Company's letter dated May 20, 2026.
+- *In their words:* “In order to simplify and rationalize the group's corporate structure, the companies have undertaken the present Scheme with a view to streamlining the group's legal framework by eliminating multiple entities and consolidating the business operations under a single corporate entity.”
+
+### Why the demerger — three years of calls and the scheme
+
+The texts provided do not support a separation narrative: the CALL PASSAGES section was supplied empty (no earnings-call text at all), and the filing excerpt is a Scheme of Amalgamation, i.e. a combination rather than a separation, demerger or spin-off. In it, two wholly-owned subsidiaries of the listed parent are being merged into their holding company and dissolved: Dealskart Online Services Private Limited (incorporated 8 September 2011, CIN U74140DL2011PTC224819, PAN AADCD9571D), which provides operations and maintenance (O&M) services to the parent's omni-channel stores PAN India, and Lenskart Eyetech Private Limited (incorporated 2 July 2015, CIN U74110DL2015PTC282327, PAN AACCL8854C), which operates training centres for retail staff. The Transferee Company is Lenskart Solutions Limited (originally incorporated 19 May 2008 as Valyoo Technologies Private Limited, renamed on conversion to a public company on 16 June 2025, CIN L33100DL2008PLC178355), a listed entity on NSE and BSE, engaged in designing, manufacturing, branding and retailing eyewear, and the holding company of both transferors. The only stated motive visible in the excerpt is tax and legal form: the scheme is drawn to comply with the conditions for an 'amalgamation' under Section 2(6) of the Income Tax Act, 2025 and other applicable provisions. The structural plumbing is set out as Parts A–E, covering introduction and rationale, share capital, amalgamation of the transferors into the transferee, consideration, accounting treatment and dissolution of the transferors, and general terms. Beyond this, the substantive 'Purpose and Rationale' clauses of Part A are cut off by the truncation, so no synergy, margin, capital, focus, valuation, investor, lender or partner rationale is stated anywhere in the supplied material. No businesses are identified as being separated, and no numbers, demands from investors/lenders/partners, or management commentary of any kind appear in these texts.
+
+**How it evolved:** No evolution can be traced: the prompt's CALL PASSAGES block contains no passages, so there are no call labels or call dates in evidence, and nothing can be attributed to management across three years of calls. The only dated markers in the supplied text are corporate-history dates in the filing — incorporation on 19 May 2008 as Valyoo Technologies Private Limited, the subsidiaries' incorporations on 8 September 2011 and 2 July 2015, and conversion to a public limited company renamed Lenskart Solutions Limited on 16 June 2025. Within the filing itself the proposal appears only in its final form, as an amalgamation of the two wholly-owned subsidiaries into the listed parent.
+
+**What management expects from it:** Nothing is stated. The supplied excerpt is truncated before Part A's purpose-and-rationale clauses, and no earnings-call text was provided, so there is no management statement on margins, capital, valuation, focus or synergies for any entity. The only articulated expectation is qualifying as a tax-neutral amalgamation under Section 2(6) of the Income Tax Act, 2025.
+
+**Point by point, with the source:**
+
+- *Scheme* — The filing is a scheme of amalgamation (two subsidiaries merging into the parent), not a separation, demerger or spin-off; its structure is laid out in five parts, A through E. “This Scheme of Amalgamation is divided into the following parts:”
+- *Scheme* — The only motive stated in the visible text is tax/legal form — the scheme is structured to qualify as an 'amalgamation' under Section 2(6) of the Income Tax Act, 2025. “in compliance with the conditions relating to “amalgamation” as specified under Section 2( 6) of the Income Tax Act, 2025 and other applicable provisions, if any, of the Income Tax Act, 2025 (the “ IT Act ”).”
+- *Scheme* — Transferor Company No. 1, Dealskart Online Services Private Limited, runs operations and maintenance for the parent's omni-channel store network across India — a captive service function being absorbed upward. “The Transferor Company No. 1 is engaged in the business of operations and maintenance (O&M) services to Transferee Company omni -channel stores PAN India.”
+- *Scheme* — Transferor Company No. 2, Lenskart Eyetech Private Limited, is the retail staff training arm — likewise an internal support function rather than a separable business. “Transferor Company No. 2 is engaged in the business of operating training centers for the retail staff.”
+- *Scheme* — Both transferors are wholly owned by the transferee, so the merger involves no minority shareholders and, on an inter-se basis, no change in ultimate ownership. “Transferor Company No. 2 is a wholly -owned subsidiary of the Transferee Company.”
+- *Scheme* — The receiving entity is the listed parent, Lenskart Solutions Limited, listed on NSE and BSE and engaged in designing, manufacturing, branding and retailing eyewear. “The Transferee Company is a listed entity on the nationwide Stock Exchanges of India i.e National Stock Exchange of India Ltd. and BSE Limited.”
+- *Scheme* — The end state is dissolution of both transferors, with consideration and accounting treatment addressed in Part D — consistent with consolidation, not with creating a separate entity. “Consideration, Accounting Treatment, Dissolution of the Transferor Companies, and Other Relevant Clauses.”
+- *Scheme* — The transferee's own objects clause already spans the subsidiaries' activities — online/wholesale eyewear trading, technology for facilitating sales, and manufacture of optical and ophthalmic lenses and frames — so the parent can legally carry on both businesses post-merger. “To carry on the business of designing, engineering, manufacturing, producing, assembling, fabricating, altering, repairing, buying, selling, trading, acquiring, storing, packing, transporting, forwarding, distributing, importing, exporting and disposing of optical and ophthalmic lenses, both glass and plastic, blanks, bifocal blanks, frames, spectacles, spectacle cases, hinges, microscopes, lensometers, telescope, and camera lenses of every description and kind and all component parts, spare parts, accessories, eye and lens testing equipments including gauges, meters, measuring instruments and apparatus for use in connection therewith.”
+
+*Not explained on the calls:* Everything: no call passages were supplied, and the rationale clauses are truncated. No separation is described — only an amalgamation — so no business, number, demand from investors/lenders/partners, benefit or timeline is explained.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 5,428 | 6,653 | 8,814 |
+| Sales growth (%) | +43.3% | +22.6% | +32.5% |
+| Operating profit (₹ cr) | 680 | 977 | 1,754 |
+| Operating profit growth (%) | +157.6% | +43.7% | +79.5% |
+| Operating margin (%) | 12.5 | 14.7 | 19.9 |
+| PAT (₹ cr) | -10.0 | 297 | 501 |
+| PAT growth (%) | +84.4% | +3070.0% | +68.7% |
+| PAT margin (%) | -0.2 | 4.5 | 5.7 |
+| EPS (₹) | -2.3 | 3.8 | 2.8 |
+
+*Source: ProfitStatement/NiftyTotalMarket/LENSKART.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [5428, 6653, 8814]
+    bar [680, 977, 1754]
+    bar [-10, 297, 501]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [12.5, 14.7, 19.9]
+    line [-0.2, 4.5, 5.7]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 210.0 — live market file (screener.in), trailing (price ₹561.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 487 | 1,231 | 1,670 |
+| Cash from investing (₹ cr) | 163 | -262 | -2,551 |
+| Cash from financing (₹ cr) | -722 | -535 | 1,201 |
+| Net cash flow (₹ cr) | -72.0 | 434 | 319 |
+| Free cash flow (₹ cr) | 55.0 | 805 | 846 |
+
+*Source: CashFlow/NiftyTotalMarket/LENSKART.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 3 presentation(s) on file) do not carry this business's own revenue or profit: No separating/demerged business is named or quantified. Revenue, operating profit and PAT for it are absent in all years and quarters; only geographic India/International segment data exists.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e2ed7da-009b-445a-a327-2b18794d0b02.pdf); [Annual Report 2025](https://static.lenskart.com/media/desktop/corporate/Annual_Report_FY_24-25.pdf); [Annual Report 2024](https://static.lenskart.com/media/desktop/corporate/Annual_Report_FY_23-24.pdf); [Presentation May 2026](https://assets.lenskart.com/documents/2026/05/20/ShareholderResult-Q4-2026.pdf?_gl=1*1yzp1fn*_gcl_au*OTAwMTc0NDIzLjE3Nzk1MzQwODU.*_ga*MjExODQzODY0My4xNzc5NTM0MDg1*_ga_0E9YGQ78DV*czE3Nzk1MzQwODUkbzEkZzEkdDE3Nzk1MzQxNjUkajU0JGwwJGgw); [Presentation Feb 2026](https://assets.lenskart.com/documents/2026/02/11/Reg30-ShareholderLetter.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e20f6bb-aa75-4b9b-855d-9ed07a616e3b.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | a weak or capital-heavy business carved away — “…of the listed entity) Object of converting pre-existing loans into equity: LK Singapore continues to be a loss-making entity. As it is unable to service the principal and interest obligations, it is proposed to convert ” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | partly | option pricing mentioned: …g businesses: 1. To consider and approve the ratification of Lenskart Employee Stock Option Plan, 2021 (“ Plan”), as per SEBI (Share Based Employee Benefit and Sweat Equity) Regulations, 2021. 1.1. To grant, issue and allot Employee Stock Options (or such other adjusted figure for any… *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 3,097 cr (Mar 2026) = 0.03× market cap; P/E 194.8 on Mar 2026 profit vs industry median 46.5 (18 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 244 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-02-11 | Outcome of Board Meeting | Lenskart Solutions Limited (Earlier known as Lenskart Solutions Private Limited) Corporate Office: Ground Floor, Vipul Tech Square, Golf Course Road, Sector- 43 | [pdf](https://nsearchives.nseindia.com/corporate/LENSKART_11022026154512_Reg30_-_Outcome_BM_-_SE_Intimation_ESOP_Acquisition.pdf) |
+
+</details>
+
 ## PRICOLLTD — Pricol Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 2 filing(s) from NSE · first 2026-06-27, latest 2026-06-27
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 3 filing(s) from NSE, NSE-deep · first 2026-06-27, latest 2026-06-27
 
 > **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Not dated. 27-Jun-2026 filing: "Yes. The equity shares of the Resulting Company shall be listed and admitted to trading on the Stock Exchanges pursuant to the Scheme subject to receipt of requisite approvals"; presentation lists "Listing and trading of new entities on stock exchange" as final milestone after NCLT approval
 
@@ -1889,12 +2303,13 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 107 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 108 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
+| 2026-06-27 | Outcome of Board Meeting | Intimation of the outcome of the meeting of the Board of Directors of Pricol Limited | [pdf](https://nsearchives.nseindia.com/corporate/PRICOLLTD_27062026152948_sedisclosure.pdf) |
 | 2026-06-27 | Demerger | Pricol Limited has informed the Exchange about Demerger | [pdf](https://nsearchives.nseindia.com/corporate/PRICOLLTD_27062026153350_sedisclosure.pdf) |
 | 2026-06-27 | Press Release | Pricol Limited submitted the copy of media note with respect to Scheme of Demerger | [pdf](https://nsearchives.nseindia.com/corporate/PRICOLLTD_27062026153703_sedisclosure.pdf) |
 
@@ -1902,11 +2317,11 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 
 ## REFEX — Refex Industries Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 4 filing(s) from NSE · first 2026-03-17, latest 2026-08-07
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · spin-off · 6 filing(s) from NSE · first 2026-03-17, latest 2026-08-07
 
 > **Listing:** NOT YET — scheme at 'nclt_sanction' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: No listing date stated. Jan 2026 call: "we currently are waiting for some final NOCs from the lenders. As soon as it comes, the scheme is ready to be filed and we are trying our best to ensure that this can happen as soon as possible." Nov 2025 call: asked "at what point do we see that company getting listed completely as a separate unit?" — no timeline given in reply. Process dates on file: BSE/NSE observation letters March 16, 2026; NCLT order June 18, 2026; shareholder and creditor meetings August 5, 2026, all approving.
 
-**The stages, as filed:** exchange_noc (2026-03-17) → meetings (2026-08-07) → nclt_sanction (2026-07-03)
+**The stages, as filed:** exchange_noc (2026-03-17) → meetings (2026-08-05) → nclt_sanction (2026-07-03)
 
 **Stated in the filings:** demerged undertaking: are transferred to the Resulting Company and all the liabilities of Transferor Company; record date 2025-04-01; appointed date 2025-04-01.
 
@@ -2028,7 +2443,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 209 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 210 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 18 mention(s) in the last 12 months of calls — “…have any other questions because everything else is quite sticking for us. Dinesh Agarwal: Yes. This is, I mean, ongoing. I mean, there is no challenge in the demerger process. It is a part of NCLT process. We expect ve” |
 
 **On the calls (last 12 months):**
@@ -2044,8 +2459,10 @@ xychart-beta
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-03-17 | General Updates | Disclosure under Regulation 30 and other applicable regulations of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)  | [pdf](https://nsearchives.nseindia.com/corporate/REFEX2002_17032026111030_RIL_STX_Observation_Letter_sd.pdf) |
+| 2026-07-03 | Shareholders meeting | Notice of court convened meeting of equity shareholders of Refex Industries Limited to be held on Wednesday, August 05, 2026 at 11:00 AM as per the order of Hon | [pdf](https://nsearchives.nseindia.com/corporate/REFEX2002_03072026161907_RIL_SH_STX_sd.pdf) |
 | 2026-07-03 | General Updates | Notice of Court Convened meeting of Secured Creditors of Refex Industries Limited to be held on Wednesday, August 05, 2026 at 11:30 AM as per the order of Hon'b | [pdf](https://nsearchives.nseindia.com/corporate/REFEX2002_03072026164248_RIL_SC_STX_sd.pdf) |
 | 2026-07-03 | General Updates | Notice of Court Convened meeting of Unsecured Creditors of Refex Industries Limited to be held on Wednesday, August 05, 2026 at 12:00 PM as per the order of Hon | [pdf](https://nsearchives.nseindia.com/corporate/REFEX2002_03072026164405_RIL_USC_STX_sd.pdf) |
+| 2026-08-05 | Shareholders meeting | Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 - Proceedings of NCLT convened Equity Shareholders, Se | [pdf](https://nsearchives.nseindia.com/corporate/REFEX2002_05082026230439_RIL.pdf) |
 | 2026-08-07 | Shareholders meeting | Submission of Voting Results along with the Consolidated Scrutinizer's Report for the Court Convened meetings of Equity Shareholders, Secured Creditors and Unse | [pdf](https://nsearchives.nseindia.com/corporate/REFEX2002_07082026175813_RIL-NCLT_Convened_meeting_Scrutinizers_Report.pdf) |
 
 </details>
@@ -2178,7 +2595,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 251 days since the first filing, stage exchange_noc |
+| Timing (first year sells, second year gains) | partly | not yet listed — 252 days since the first filing, stage exchange_noc |
 | Management discussing it on the calls | yes | 16 mention(s) in the last 12 months of calls — “…his. If Kedaara is a long term -- as there are some legal issues, which the previous person asked, can we amend -- is it possible legal ly to amend the current demerger in case you are able, for example, to either get A” |
 
 **On the calls (last 12 months):**
@@ -2330,7 +2747,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 52 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 53 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 8 mention(s) in the last 12 months of calls — “…xpected, 21st of May. Is there any expected timeline for the completion of demerger? Anand Singhal: 21st May, we are hopeful that we will get the order for the demerger of the division. And another hope is that in first” |
 
 **On the calls (last 12 months):**
@@ -2368,11 +2785,11 @@ xychart-beta
 
 ## INOXGREEN — Inox Green Energy Services Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 4.3/10 · spin-off · 9 filing(s) from NSE · first 2025-11-01, latest 2026-08-24
+**CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 4.3/10 · spin-off · 7 filing(s) from NSE · first 2026-03-14, latest 2026-08-24
 
 > **Listing:** LISTED — Inox Renewable Solutions Limited trades since about 2026-08-01 (record date 2026-08-01)
 
-**The stages, as filed:** meetings (2025-11-03) → nclt_sanction (2026-04-28) → effective (2026-05-04) → record_date (2026-07-22) → listed (2026-08-24)
+**The stages, as filed:** nclt_sanction (2026-04-28) → effective (2026-05-04) → record_date (2026-07-22) → listed (2026-08-24)
 
 **Stated in the filings:** resulting company **Inox Renewable Solutions Limited**; demerged undertaking: ) of Inox Green Energy Services; entitlement **122 for every 2,000**; record date 2026-08-01.
 
@@ -2492,7 +2909,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 72 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 73 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 14 mention(s) in the last 12 months of calls — “…e past 4 years, we've got a virtually zero value company to massive value. We've spun off Inox Green, which has created tremendous value. We're on the verge of demerging Inox Renewable Solutions, which we hope will crea” |
 
 **On the calls (last 12 months):**
@@ -2507,8 +2924,6 @@ xychart-beta
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
-| 2025-11-01 | Scheme of Arrangement | Inox Green Energy Services Limited has informed the Exchange about Scheme of Arrangement - Summary of Proceedings of the Meeting of the Equity Shareholders, War | [pdf](https://nsearchives.nseindia.com/corporate/IGESL_01112025183430_IGESL_CCM_Proceedings.pdf) |
-| 2025-11-03 | Scheme of Arrangement | Inox Green Energy Services Limited has informed the Exchange about Scheme of Arrangement- Details of voting results along with scrutinizer reports with respect  | [pdf](https://nsearchives.nseindia.com/corporate/IGESL_03112025193704_IGESL_Scrutinizer_Report_VR_F_DSC.pdf) |
 | 2026-03-14 | Scheme of Arrangement | Update on the Scheme of Arrangement between Inox Green Energy Services Limited and Inox Renewable Solutions Limited and their respective shareholders ( Scheme ) | [pdf](https://nsearchives.nseindia.com/corporate/IGESL_14032026182453_IGESL_SE_intimation_regarding_NCLT_order.pdf) |
 | 2026-04-28 | Demerger | Inox Green Energy Services Limited has informed the Exchange about the Certified true copy of the final order of Hon'ble NCLT, Ahmedabad Bench. | [pdf](https://nsearchives.nseindia.com/corporate/IGESL_28042026183435_IGESL_SE_Intimation_NCLT_CTC_28042026.pdf) |
 | 2026-05-04 | Scheme of Arrangement | Inox Green Energy Services Limited has informed the Exchange about Scheme of Arrangement-Intimation of effective date of Scheme of Arrangement/ Demerger. | [pdf](https://nsearchives.nseindia.com/corporate/IGESL_04052026182821_IGESL_SE_intimation_regarding_NCLT_effective_date_dsc.pdf) |
@@ -2645,7 +3060,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 167 days since the first filing, stage exchange_noc |
+| Timing (first year sells, second year gains) | partly | not yet listed — 168 days since the first filing, stage exchange_noc |
 | Management discussing it on the calls | yes | 3 mention(s) in the last 12 months of calls — “…to building that distillery over the next couple of years. Himanshu Shah: Over the next couple of years? Management: Yes. Himanshu Shah: Okay. And lastly this demerger of sugar business into a separate I think so a subs” |
 
 **On the calls (last 12 months):**
@@ -2665,7 +3080,7 @@ xychart-beta
 
 ## THOMASCOOK — Thomas Cook (India) Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · spin-off · 7 filing(s) from NSE · first 2026-03-20, latest 2026-09-02
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · spin-off · 8 filing(s) from NSE, NSE-BM · first 2026-03-20, latest 2026-09-02
 
 > **Listing:** NOT YET — scheme at 'exchange_noc' stage; Sterling Holiday Resorts Limited will list only after NCLT sanction, effectiveness and a record date; indicated timeline: No listing date given. Filing (March 20, 2026): "Yes, the Resulting Company is proposed to be listed on BSE and NSE pursuant to the Scheme upon receipt of requisite approvals from the Stock Exchanges"; consolidation "expected to be completed... within 15 to 18 months from the date of approval of the Scheme by the Board." May 2026 call, Debasis Nandy: "when we took the Board approval for this particular demerger project, we said that it will take us 12 to 15 months. The project is currently on track. We have applied to the NSE and the BSE for relevant approvals."
 
@@ -2791,7 +3206,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 206 days since the first filing, stage exchange_noc |
+| Timing (first year sells, second year gains) | partly | not yet listed — 207 days since the first filing, stage exchange_noc |
 | Management discussing it on the calls | yes | 5 mention(s) in the last 12 months of calls — “…ment has been weak. I think despite that, the quarterly performance has been strong. Debasis Nandy: Yes. So when we took the Board approval for this particular demerger project, we said that it will take us 12 to 15 mon” |
 
 **On the calls (last 12 months):**
@@ -2811,6 +3226,7 @@ xychart-beta
 | 2026-03-20 | Demerger | Thomas Cook (India) Limited has informed the Exchange about Composite Scheme of Arrangement. | [pdf](https://nsearchives.nseindia.com/corporate/THOMASCOOK_20032026193336_SEBI_Intimation_Post_Board_meeting.pdf) |
 | 2026-03-20 | Press Release | Thomas Cook (India) Limited has informed the Exchange regarding a press release dated March 20, 2026, titled "Thomas Cook (India) Limited announces the demerger | [pdf](https://nsearchives.nseindia.com/corporate/THOMASCOOK_20032026195128_Stock_Exchange_Intimation_-Press_Release.pdf) |
 | 2026-03-20 | General Updates | Thomas Cook (India) Limited has informed the Exchange about approval of Composite Scheme of Arrangement by Board of Directors of Sterling Holiday Resorts Limite | [pdf](https://nsearchives.nseindia.com/corporate/THOMASCOOK_20032026211611_TCIL_SHRL_intimation_200326.pdf) |
+| 2026-03-20 | Board Meeting (purpose) | Board Meeting Intimation THOMAS COOK (INDIA) LIMITED has informed the Exchange about Board Meeting to be held on 20-Mar-2026 to consider and approve Scheme of a | [pdf](https://nsearchives.nseindia.com/corporate/xbrl/500413_17032026-prior_intimation_PRIOR_INTIMATION_WebXMLFile_20260317_230812671.xml) |
 | 2026-09-01 | General Updates | Thomas Cook (India) Limited has informed the Exchange about receipt of Observation Letter from BSE Limited in relation to Composite Scheme of Arrangement. | [pdf](https://nsearchives.nseindia.com/corporate/THOMASCOOK_01092026160534_Stock_Exchange_Intimation-_SE_Observation_Letter.pdf) |
 | 2026-09-02 | General Updates | Thomas Cook (India) Limited has informed the Exchange about receipt of Observation Letter from National Stock Exchange of India Limited in relation to Composite | [pdf](https://nsearchives.nseindia.com/corporate/THOMASCOOK_02092026135158_Stock_Exchange_Intimation-_NSE_Observation_Letter.pdf) |
 
@@ -2818,7 +3234,7 @@ xychart-beta
 
 ## KITEX — Kitex Garments Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.2/10 · spin-off · 4 filing(s) from BSE-screener, NSE · first 2026-06-23, latest 2026-09-17
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.2/10 · spin-off · 5 filing(s) from BSE-screener, NSE · first 2026-06-23, latest 2026-09-17
 
 > **Listing:** NOT YET — scheme at 'nclt_sanction' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
 
@@ -2926,7 +3342,7 @@ The segment pages read (3 annual report(s) and 6 presentation(s) on file) do not
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 111 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 112 days since the first filing, stage nclt_sanction |
 
 <details><summary>The filings</summary>
 
@@ -2935,6 +3351,7 @@ The segment pages read (3 annual report(s) and 6 presentation(s) on file) do not
 | 2026-06-23 | Scheme of Arrangement | Kitex Garments Limited has informed the Exchange about update on Scheme of Arrangement between Kitex Childrenswear Limited and Kitex Garments Limited and their  | [pdf](https://nsearchives.nseindia.com/corporate/KITEX_23062026123857_KGL_Notice_of_court-convened_meetings_signed.pdf) |
 | 2026-07-10 | Scheme of Arrangement | Kitex Garments Limited has informed the Exchange about update on Scheme of Arrangement between Kitex Childrenswear Limited and Kitex Garments Limited and their  | [pdf](https://nsearchives.nseindia.com/corporate/KITEX_10072026191902_Addendum_to_notice_of_meeting_to_shareholders.pdf) |
 | 2026-07-24 | Scheme of Arrangement | Kitex Garments Limited has informed the Exchange about Update on Scheme of Arrangement being the proceedings of meetings convened on July 24, 2026 pursuant to t | [pdf](https://nsearchives.nseindia.com/corporate/KITEX_24072026235531_KGL_Proceedings_of_meetings_240726s.pdf) |
+| 2026-07-27 | Scheme of Arrangement | Kitex Garments Limited has informed the Exchange about update on Scheme of Arrangement being the voting results along with scrutinizers report with respect to e | [pdf](https://nsearchives.nseindia.com/corporate/KITEX_27072026203249_KGL_VR_CCMs.pdf) |
 | 2026-09-17 | Announcement under Regulation 30 (LODR)- | Newspaper publication of notice of hearing as per the direction of Honorable NCLT, Kochi Bench in the matter of Scheme of Arrangement between Kitex Childrenswea | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d860400d-13d2-4f7d-aa6e-dd59546c90cb.pdf) |
 
 </details>
@@ -2943,20 +3360,20 @@ The segment pages read (3 annual report(s) and 6 presentation(s) on file) do not
 
 **CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.2/10 · spin-off · 2 filing(s) from NSE · first 2025-12-22, latest 2026-05-16
 
-> **Listing:** NOT YET — scheme at 'exchange_noc' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: NSE letter dated May 15, 2026: "Lloyds Realty Limited shall ensure that steps for listing of specified securities are completed and trading in securities commences within sixty days of receipt of the order of the Hon'ble High Court/NCLT"; listing "is at the discretion of the Exchange" and subject to SEBI approval. No NCLT order date stated.
+> **Listing:** NOT YET — scheme at 'exchange_noc' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
 
 **The stages, as filed:** exchange_noc (2026-05-16)
 
 **Stated in the filings:** demerged undertaking: as deﬁned in the Scheme) of the; entitlement **1 for every 2**.
 
-**What is being separated, as the documents put it:** The Demerged Undertaking of Lloyds Enterprises Limited (as defined in the Scheme) into Lloyds Realty Limited; business itself not described — class `not stated`.
+**What is being separated, as the documents put it:** Real Estate Business Undertaking of Lloyds Enterprises Limited, demerged into Lloyds Realty Limited — class `not stated`.
 
-- *Insiders:* not stated; SEBI only directs disclosure of an "Undertaking with respect to the association of the promoter and promoter group of the entities involved in the scheme with the public shareholders"
-- *What it reveals:* Not quantified in these documents. Shareholders get 1 Lloyds Realty share of Rs. 1 for every 2 Lloyds Enterprises shares; revenue, PAT, EBITDA, valuation report and assets/liabilities transferred are still to be disclosed in the explanatory statement.
-- *Selling pressure:* unclear — Documents give no size, index or industry data for Lloyds Realty Limited; shares stay frozen in depositories until trading permission
+- *Insiders:* not stated
+- *What it reveals:* Real Estate segment is asset-heavy but barely profitable: 9M sales Rs 53.30 cr, segment result Rs 0.88 cr, segment assets Rs 993.09 cr against segment liabilities Rs 553.40 cr; parent keeps Steel, Engineering, Electrical.
+- *Selling pressure:* likely — Small real-estate segment (9M sales Rs 53.30 cr of Rs 1,393.28 cr group) separating into a different industry; newly listed entity.
 - *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* The Information Memorandum / NCLT explanatory statement: valuation report plus Lloyds Realty's 3-year revenue, PAT, EBITDA and transferred assets
-- *In their words:* “However, the listing of shares of Lloyds Realty Limited  is at the discretion of the Exchange.”
+- *Read next:* The Composite Scheme itself plus Lloyds Realty Limited's abridged-prospectus disclosure and valuation report in the NCLT shareholder notice.
+- *In their words:* “The Board approved the Composite Scheme of Arrangement on December 22, 2025 under Sections 230-232 read with Section 66 of the Companies Act, 2013 for merger of Lloyds Realty Developers Limited ("LRDL" or “Transferor Company 1") and Indrajit Properties Private Limited ("IPPL” or “Transferor Company 2") into Lloyds Enterprises Limited ("LEL” or “Transferee Company” or “Demerged Company” or “Company”) and demerger of Real Estate Business Undertaking of Lloyds Enterprises Limited into Lloyds Realty Limited ("LRL" or “Resulting Company”) ("Scheme").”
 
 ### Why the demerger — three years of calls and the scheme
 
@@ -3034,21 +3451,21 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-**Real Estate (Demerged Undertaking — real estate business of Lloyds Realty Developers Limited, to be demerged into Lloyds Realty Limited)** · unit ₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in the respective consolidated segment notes) · Operating profit = 'Segment Results: Operating Net Profit' from the consolidated Ind AS 108 segment note — a segment result stated before finance cost (EBIT-like, after depreciation), not EBITDA. Segment PBT is also disclosed: FY2024 (130.98) lakhs, FY2025 1,330.14 lakhs, FY2026 0.83 crore (FY2026 PBT includes an exceptional item of (4.09) crore). Revenue shown is External segment revenue; the real-estate segment had no inter-company transfers in any of the three years, so external = total. Segment PAT is not disclosed — the note stops at profit before tax. FY2024 is the Real Estate column of a two-segment note (Real Estate / Steel and Engineering Products); FY2025 and FY2026 are the Real Estate column of a four-segment note (Real Estate / Steel / Engineering / Electrical). FY2023 comparatives in the FY2024 note are blank (LRDL acquired 31 January 2024).
+**Real Estate (reportable segment under Ind AS-108, consolidated) — the Real Estate Business Undertaking to be demerged into Lloyds Realty Limited** · unit ₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in each annual report) · Revenue is 'Segment Revenue: External' (no inter-company transfer allocated to Real Estate in any year, so external = total). Operating profit is the segment result line labelled 'Operating Net Profit' — before finance cost, i.e. segment EBIT excluding interest; segment PBT (after finance cost) is 'Profit Before Tax': FY2024 (130.98) lakhs, FY2025 1,330.14 lakhs, FY2026 0.83 crore (FY2026 includes an exceptional item of (4.09) crore). No PAT is disclosed at segment level — tax is not allocated by segment.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in the respective consolidated segment notes)) | 1,748 | 8,388 | 66.9 |
+| Revenue (₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in each annual report)) | 1,748 | 8,388 | 66.9 |
 | Revenue growth (%) | — | +379.7% | -99.2% |
-| Operating profit (₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in the respective consolidated segment notes)) | -169 | 1,535 | 5.7 |
+| Operating profit (₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in each annual report)) | -169 | 1,535 | 5.7 |
 | Operating profit growth (%) | — | +1009.8% | -99.6% |
 | Operating margin (%) | -9.7 | 18.3 | 8.5 |
-| PAT (₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in the respective consolidated segment notes)) | — | — | — |
+| PAT (₹ lakhs for FY2024 and FY2025; ₹ crore for FY2026 (as printed in each annual report)) | — | — | — |
 | PAT growth (%) | — | — | — |
 
 *Sources:* Annual Report 2024 — page 169; Annual Report 2025 — page 230; Annual Report 2026 — page 300
 
-*Not in the pages read:* Segment PAT for all years; any Q1 FY27 or other quarterly real-estate / LRDL revenue and profit — the Aug 2026 presentation gives only group and LEWL figures.
+*Not in the pages read:* Segment PAT/tax for all years; any quarterly real-estate segment revenue or profit — Q1 FY27 presentation gives only group and LEWL figures, no real estate numbers.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/82f67229-7245-4268-a22b-49994f6ffe86.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/5408c4f6-594d-400d-aadf-28e17b39561e.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/a7a8ca2e-3583-4f27-aebb-5b7d1f551745.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f5d58a2-e1d3-465f-adc5-9ae67e65228e.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ab3a8e5-a800-4b69-b625-35fe1fc04a32.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ab99cba-2335-421f-95ed-9aed16902edd.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=66a44a24-9f87-4f73-b5b6-0a3bbb213a59.pdf)
 
@@ -3061,7 +3478,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 294 days since the first filing, stage exchange_noc |
+| Timing (first year sells, second year gains) | partly | not yet listed — 295 days since the first filing, stage exchange_noc |
 
 <details><summary>The filings</summary>
 
@@ -3200,7 +3617,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 143 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 144 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -3337,7 +3754,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 2,353 cr (Mar 2026) = 0.05× market cap; P/E 71.3 on Mar 2026 profit vs industry median 47.9 (59 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 74 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 75 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -3461,7 +3878,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 76,946 cr (Mar 2026) = 0.76× market cap; P/E 36.8 on Mar 2026 profit vs industry median 28.6 (15 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 193 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 194 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…am pleased to share 3 strategic developments during the quarter : 1. Acquisition of GE Power India Ltd.’s Boiler Manufacturing Business: We have entered into a Scheme of Arrangement with GE Power India Ltd. to acquire i” |
 
 **On the calls (last 12 months):**
@@ -3491,11 +3908,11 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 
 ## TRIVENI — Triveni Engineering & Industries Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 3.6/10 · spin-off · 11 filing(s) from NSE · first 2026-05-07, latest 2026-08-03
+**CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 3.6/10 · spin-off · 12 filing(s) from NSE · first 2026-05-07, latest 2026-10-09
 
-> **Listing:** LISTED — Triveni Power Transmission Limited trades since about 2026-07-11
+> **Listing:** LISTED — Triveni Power Transmission Limited trades since about 2026-10-09
 
-**The stages, as filed:** nclt_sanction (2026-05-19) → record_date (2026-07-11)
+**The stages, as filed:** nclt_sanction (2026-05-19) → record_date (2026-07-11) → listed (2026-10-09)
 
 **Stated in the filings:** resulting company **Triveni Power Transmission Limited**.
 
@@ -3616,8 +4033,8 @@ xychart-beta
 | Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 93 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
+| Timing (first year sells, second year gains) | partly | 4 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 9 mention(s) in the last 12 months of calls — “…anuj Na ngalia from SKP Securities. Please go ahead. Tanuj Na ngalia : Thanks for the opportunity. Can I get to know what is the EBITDA margin impact after the demerger? Do we see any positive side or negative side in t” |
 
 **On the calls (last 12 months):**
@@ -3643,12 +4060,234 @@ xychart-beta
 | 2026-07-14 | Record Date | Triveni Engineering & Industries Limited has informed the Exchange that Record date for the purpose of Merger/HiveOff is 22-Jul-2026. | [pdf](https://nsearchives.nseindia.com/corporate/TRIVENI_14072026105638_TEIL_RECORD_DATE.pdf) |
 | 2026-07-29 | General Updates | Material update in connection with the Composite Scheme of Arrangement amongst Triveni Engineering & Industries Ltd. (TEIL) and Sir Shadi Lal Enterprises Limite | [pdf](https://nsearchives.nseindia.com/corporate/TRIVENI_29072026171231_TPTL_Disclosure_28_07_2026.pdf) |
 | 2026-08-03 | Scheme of Arrangement | Allocation of cost of acquisition of Equity Shares of Triveni Engineering & Industries Ltd. and Triveni Power Transmission Ltd. | [pdf](https://nsearchives.nseindia.com/corporate/TRIVENI_03082026144221_COST_OF_ACQUISITION_TPTL.pdf) |
+| 2026-10-09 | Scheme of Arrangement | Triveni Engineering & Industries Limited has informed the Exchange about Scheme of Arrangement -Receipt of Listing and Trading Approvals of TPTL from BSE and NS | [pdf](https://nsearchives.nseindia.com/corporate/TRIVENI_09102026133634_INTIMATION__TPTL_LISTING.pdf) |
+
+</details>
+
+## DIACABS — Diamond Power Infrastructure Ltd.
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.3/10 · spin-off · 2 filing(s) from NSE, NSE-deep · first 2026-06-06, latest 2026-09-11
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** not stated — class `not stated`.
+
+- *Insiders:* not stated
+- *What it reveals:* not stated
+- *Selling pressure:* unclear — Documents describe no demerger scheme, entity size, or index treatment
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* Board resolution or scheme of arrangement approving the demerger; none appears in these filings
+- *In their words:* “He possesses extensive experience in SEBI regulations, Companies Act compliances, corporate restructuring, amalgamation/demerger schemes and corporate governance matters.”
+
+### Why the demerger — three years of calls and the scheme
+
+The materials supplied do not contain any separation, demerger, spin-off or scheme rationale, so no reasoning can be reconstructed from them. The 'CALL PASSAGES' section is empty — no earnings-call text was included at all. What is labelled 'SCHEME RATIONALE' is not a scheme document: it is (a) a 6 June 2026 Regulation 30 board-outcome filing recording that Mrs. Diksha Sharma stepped down as Company Secretary/Compliance Officer on health and maternity grounds and that Mr. Jayesh Patel was appointed from 7 June 2026, and (b) an 11 September 2026 press release announcing full exit from the NCLT/IBC resolution framework one year early. The only business facts available concern the NCLT exit: the ₹2,401 crore resolution-plan consideration (₹501 crore cash payable over five years to 30 September 2027, plus ₹1,900 crore 30-year bonds at a 0.001% coupon redeemable at an NPV of 16% per annum) prepaid in full in September 2026, availing lender pre-payment discounts; the acquiring consortium of Mr. Rakesh Shah, GSEC and the Monarch Group; clearance of all CBI and ED proceedings predating the IBC acquisition; and eligibility for credit ratings with the entire gross block (Vadodara plant, machinery, rod mills, captive power) freed for bank financing. None of this is framed as, or connected to, a separation of a business. No businesses proposed for separation are named, no demerged undertaking is identified, no swap ratio or record date appears, and no investor, lender or partner is cited as having asked for a separation. Answering the question as posed would require inventing content these texts do not contain.
+
+**How it evolved:** No evolution can be traced: zero earnings-call passages were provided, so there are no call dates to anchor to. The only dated documents are the 6 June 2026 Company Secretary change filing and the 11 September 2026 NCLT-exit press release, neither of which mentions a separation at any stage. The single word in all the material touching restructuring is a line in the incoming Company Secretary's biography referring to prior experience with amalgamation/demerger schemes at other companies.
+
+**What management expects from it:** Nothing is stated about any separation or about resulting entities. The only expectations expressed are for the single existing company post-NCLT exit: eligibility for credit ratings, access to bank and debt-capital-market funding, the entire gross block available as security, no legacy legal overhang, a debt-light balance sheet, and a growth phase scaling MV/EHV cable capacity.
+
+**Point by point, with the source:**
+
+- *Scheme* — The document supplied as the scheme rationale is in fact a Regulation 30 board-outcome filing dated 6 June 2026 about a Company Secretary resignation and appointment; it contains no scheme of arrangement and no separation rationale. “Noted that Mrs. Diksha Sharma, Company Secretary and Compliance Officer, Key Managerial Personnel (ACS:56317) has step down from her said position with effect from close of business hours of June 6, 2026 with a view of health issues and availing maternity leave.”
+- *Scheme* — The only reference to demerger anywhere in the material is generic prior-employer experience in the incoming Company Secretary's profile — not a statement about any DICABS transaction. “He possesses extensive experience in SEBI regulations, Companies Act compliances, corporate restructuring, amalgamation/demerger schemes and corporate governance matters.”
+- *Scheme* — The 11 September 2026 press release describes a full prepayment of the NCLT resolution-plan consideration, not a business separation: ₹501 crore cash plus ₹1,900 crore of 30-year bonds, ₹2,401 crore in total, settled a year before the 30 September 2027 deadline. “The Company has prepaid, in full, the entire ₹501 crore cash Plus 30 years Bonds aggregating Rs 1900 cr consideration payable to its erstwhile lenders under the NCLT-approved Resolution Plan.”
+- *Scheme* — Strategic direction is stated as consolidation and scale-up within one entity — MV/EHV cable capacity, backward integration, customer expansion — with no mention of splitting or housing any business separately. “The Company returned to sustained profitability in FY 2023-26, and its strategic focus now shifts wholly to scaling MV/EHV cable capacity, deepening backward integration, and expanding its customer base as India undertakes the largest grid build-out in its history & the company will not carry its NCLT Tag in large Projects.”
+- *Scheme* — Benefits claimed in the press release are attributed solely to exiting the resolution framework — rating eligibility, unencumbered gross block, no legacy CBI/ED overhang — and are not attributed to any separation of a business. “With the Resolution Plan fully implemented and no obligation outstanding towards the erstwhile lenders, the Company is now eligible to obtain credit ratings from recognised rating agencies in the ordinary course — opening access to bank credit, the debt capital markets and institutional investors on standard commercial terms.”
+
+*Not explained on the calls:* Everything: no call passages supplied, no scheme rationale, no businesses named, no demerged undertaking, ratio, requesting stakeholders, financials or timeline for any separation.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 343 | 1,115 | 1,910 |
+| Sales growth (%) | -69.7% | +225.1% | +71.3% |
+| Operating profit (₹ cr) | 43.0 | 67.0 | 224 |
+| Operating profit growth (%) | +106.6% | +55.8% | +234.3% |
+| Operating margin (%) | 12.5 | 6.0 | 11.7 |
+| PAT (₹ cr) | 17.0 | 34.0 | 158 |
+| PAT growth (%) | +102.1% | +100.0% | +364.7% |
+| PAT margin (%) | 5.0 | 3.0 | 8.3 |
+| EPS (₹) | 3.0 | — | — |
+
+*Source: ProfitStatement/NiftyTotalMarket/DIACABS.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [343, 1115, 1910]
+    bar [43, 67, 224]
+    bar [17, 34, 158]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [12.5, 6, 11.7]
+    line [5, 3, 8.3]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 115.0 — close 2026-10-01 ÷ EPS 3.0 (Mar 2024) (price ₹345.00 as of 2026-10-01).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 16.0 | 77.0 | -80.0 |
+| Cash from investing (₹ cr) | -19.0 | -69.0 | -143 |
+| Cash from financing (₹ cr) | 4.0 | -6.0 | 136 |
+| Net cash flow (₹ cr) | 1.0 | 3.0 | -88.0 |
+| Free cash flow (₹ cr) | -1.0 | 10.0 | -162 |
+
+*Source: CashFlow/NiftyTotalMarket/DIACABS.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 7 presentation(s) on file) do not carry this business's own revenue or profit: All figures. The only page given is a safe harbour disclaimer with no segment name, unit, revenue, operating profit, PAT, or quarterly data.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/e85b813c-d946-4105-994f-aacf3804d754.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/b20c0ca9-ca2a-45cd-a62f-775fba79062f.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/16ca69dd-265e-4773-b944-0073d4ad9bbf.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d10717b6-4d6f-413f-ad96-d52e5560c59a.pdf); [Presentation May 2026](https://nsearchives.nseindia.com/corporate/DIACABS_26052026152852_Investorsupdate26052026.pdf); [Presentation Mar 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=718fc110-1e48-4ef3-9544-798193eac9e3.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cee814ce-6dbc-45ae-9975-c622fa6ab9af.pdf); [Presentation Jun 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2cfdd875-a7f0-42f8-805b-9fb633329d43.pdf); [Presentation Feb 2024](https://dicabs.com/wp-content/uploads/2024/06/INVESTOR-PPT-WEBSITE-2023-2024-DICABS.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | a weak or capital-heavy business carved away — “…CLT Framework a Full Year Ahead of Schedule ₹2401 crore Resolution Plan consideration prepaid in full; all legacy legal matters cleared; Company now eligible for credit ratings with its entire gross block free for bank ” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 129 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-06-06 | Outcome of Board Meeting | ISIN -INE989C01038 | [pdf](https://nsearchives.nseindia.com/corporate/DIACABS_06062026172834_OutcomeofBM06062026.pdf) |
+| 2026-09-11 | Press Release | Diamond Power Infrastructure Limited has informed the Exchange regarding a press release dated September 11, 2026, titled "Diamond Power Exits the NCLT Framewor | [pdf](https://nsearchives.nseindia.com/corporate/DIACABS_11092026104334_Regulation30PressRelease.pdf) |
+
+</details>
+
+## ERIS — Eris Lifesciences Ltd.
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.3/10 · spin-off · 1 filing(s) from NSE-deep · first 2025-11-24, latest 2025-11-24
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** not stated — the documents describe acquisitions (Swiss Parenterals 30% stake, Velbiom probiotics business), not a demerger — class `not stated`.
+
+- *Insiders:* No new entity disclosed. Mr. Naishadh Shah, Director of Swiss, allotted 23,06,372 Eris shares (1.69% fully diluted), locked in; no promoter/promoter group interest in the transaction
+- *What it reveals:* not stated. Documents disclose Swiss group turnover of Rs 220.80cr (FY23), Rs 282.97cr (FY24), Rs 351.11cr (FY25), presence in ~80+ countries, valued at Rs 423.30cr for 30%
+- *Selling pressure:* unclear — No demerger or share distribution in documents; only a locked-in preferential allotment of 1.69% to one acquiree
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* Valuation report of Rashmi Shah dated 24 November 2025 supporting the Rs 423.30 crore Swiss consideration
+- *In their words:* “Pursuant to the said acquisition, Swiss will become a wholly owned subsidiary of the Company.”
+
+### Why the demerger — three years of calls and the scheme
+
+These texts do not describe a separation, demerger or spin-off at all — they describe the opposite, a buy-in and full consolidation, so no separation rationale can be reconstructed from them. The only transaction explained is Eris Lifesciences' acquisition of the remaining 30% of Swiss Parenterals Limited (parenterals, incorporated 4 February 1997, presence in ~80+ countries) from Mr. Naishadh Shah, a Director of Swiss, taking Eris from 70% to 100% so that Swiss becomes a wholly owned subsidiary. The stated objects are 'fully consolidating its position, enhancing operational synergy, and strengthening its long-term strategic presence', with expected benefits of complete managerial control, full financial consolidation, improved cost efficiencies, streamlined governance and enhanced shareholder value. Consideration is INR 423.30 crore, discharged not in cash but by a preferential issue of up to 23,06,372 equity shares of face value Re. 1 at INR 1,835.35 each (premium INR 1,834.35), taking Mr. Shah from nil to 1.69% on a fully diluted basis, priced per Chapter V of the SEBI ICDR Regulations and a valuation report of 24 November 2025 by Rashmi Shah, Independent Registered Valuer (IBBI/RV/06/2018/10240). It is disclosed as a related party transaction (a transaction with a related party of a subsidiary under Regulation 2(zc) of SEBI LODR), stated to be at arm's length, with no promoter/promoter group/group company interest, no governmental or regulatory approvals required, and completion expected before 31 March 2026. The scale cited for Swiss is group-level turnover of INR 220.80 crore (FY2022-23), INR 282.97 crore (FY2023-24) and INR 351.11 crore (FY2024-25). No business is being carved out, no resulting entity is named, no demerger scheme or rationale clause is present, and no party (investor, lender or partner) is identified as having asked for anything.
+
+**How it evolved:** No earnings call passages were supplied — the 'CALL PASSAGES' section is empty, so there is no call-by-call history to trace. The documentary trail runs only across two Regulation 30 intimations: the Board meeting of 24 November 2025 (2:45 PM to 5:30 PM) approving the 30% Swiss acquisition, the share-swap consideration and a postal ballot with a 21 November 2025 cut-off date; and the intimation of 16 January 2026 recording that shareholders approved by postal ballot on 24 December 2025 and that the Board's Executive Committee approved the allotment of the 23,06,372 shares that day. The plan therefore did not change over time in these texts — it moved from board approval to shareholder approval to allotment without alteration, and the filing explicitly records 'None' against any cancellation or termination of the issuance proposal.
+
+**What management expects from it:** Nothing is said about any separated entity, because none exists here. For Eris post-consolidation they expect complete managerial control, full financial consolidation of Swiss, improved cost efficiencies, streamlined governance, greater operational synergy, a stronger long-term strategic presence and enhanced shareholder value. No margin, capital-structure, leverage or valuation-multiple expectation is quantified, and no guidance is given on dilution impact from the 1.69% share issuance.
+
+**Point by point, with the source:**
+
+- *Scheme* — The transaction is a consolidation, not a separation: Eris proposes to move from its existing 70% holding to 100% ownership of Swiss Parenterals, the stated purpose being consolidation of position, operational synergy and long-term strategic presence. “With the objective of fully consolidating its position, enhancing operational synergy, and strengthening its long-term strategic presence, the Company now proposes to acquire 100% ownership of Swiss.”
+- *Scheme* — The benefits management lists are control, accounting and governance benefits rather than the focus/valuation arguments typical of a demerger rationale. “This consolidation is expected to provide complete managerial control, enable full financial consolidation, improve cost efficiencies, streamline governance, and contribute to enhanced shareholder value.”
+- *Scheme* — End state of the deal: 16,74,493 Swiss shares (30% of its capital) are acquired and Swiss ceases to have a minority partner. “Pursuant to the said acquisition, Swiss will become a wholly owned subsidiary of the Company.”
+- *Scheme* — Consideration of INR 423.30 crore is paid in Eris paper rather than cash, via a preferential allotment to the selling Swiss director Mr. Naishadh Shah at INR 1,835.35 per Re. 1 face value share, giving him 1.69% of Eris on a fully diluted basis. “The acquisition of 30% stake in Swiss by the Company from Mr. Naishadh Shah is proposed to be undertaken for a total purchase consideration of INR 423,30,00,000 (Indian Rupees Four Hundred and Twenty Three Crores and Thirty Lakhs Only), which will be discharged by the Company by way of issuance of up to 23,06,372 (twenty three lakh six thousand three hundred and seventy two) equity shares of the Company on a preferential basis to Mr. Naishadh Shah”
+- *Scheme* — The deal is flagged as a material related party transaction because Mr. Shah is a Director of the subsidiary Swiss, requiring postal ballot approval; it is asserted to be at arm's length with no promoter interest. “The transaction is being undertaken at arms' length.”
+- *Scheme* — Swiss's cited scale and reach: parenterals sold in roughly 80-plus countries, with group-level turnover rising from INR 220.80 crore in FY2022-23 to INR 282.97 crore in FY2023-24 and INR 351.11 crore in FY2024-25; no regulatory approval is needed and closing is targeted before 31 March 2026. “Country in which the acquired entity has presence : ~80+ countries”
+- *Scheme* — The second filing (16 January 2026) confirms execution: shareholder consent by postal ballot on 24 December 2025 and allotment of the full 23,06,372 shares at a premium of INR 1,834.35 approved by the Executive Committee of the Board. “the Executive Committee of the Board of the Directors of the Company at its meeting held today i.e., January 16, 2026 has approved the allotment of 23,06,372 (Twenty-Three Lakh Six Thousand Three Hundred and Seventy-Two) fully paid-up equity shares of face value of Re. 1 (Indian Rupee One) each”
+
+*Not explained on the calls:* No earnings call text was provided and no separation/demerger is described: no carved-out business, resulting entity, swap ratio rationale, requesting investors/lenders/partners, Swiss margins, debt treatment, or dilution/EPS effect.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 2,009 | 2,894 | 3,129 |
+| Sales growth (%) | +19.2% | +44.1% | +8.1% |
+| Operating profit (₹ cr) | 677 | 1,018 | 1,120 |
+| Operating profit growth (%) | +25.6% | +50.4% | +10.0% |
+| Operating margin (%) | 33.7 | 35.2 | 35.8 |
+| PAT (₹ cr) | 397 | 375 | 648 |
+| PAT growth (%) | +6.1% | -5.5% | +72.8% |
+| PAT margin (%) | 19.8 | 13.0 | 20.7 |
+| EPS (₹) | 28.8 | 25.8 | 44.7 |
+
+*Source: ProfitStatement/NiftyTotalMarket/ERIS.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [2009, 2894, 3129]
+    bar [677, 1018, 1120]
+    bar [397, 375, 648]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [33.7, 35.2, 35.8]
+    line [19.8, 13, 20.7]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 28.6 — live market file (screener.in), trailing (price ₹1,355.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 486 | 1,065 | 538 |
+| Cash from investing (₹ cr) | -1,828 | -78.0 | -369 |
+| Cash from financing (₹ cr) | 1,380 | -881 | -314 |
+| Net cash flow (₹ cr) | 38.0 | 105 | -145 |
+| Free cash flow (₹ cr) | 357 | 910 | 241 |
+
+*Source: CashFlow/NiftyTotalMarket/ERIS.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 10 presentation(s) on file) do not carry this business's own revenue or profit: No revenue, operating profit/EBITDA or PAT for EOHPL's Domestic Business in any year or quarter; single-segment reporting and the demerger notes disclose no financials for the business being separated.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/dd6b6273-5f56-493a-85f8-324a5eea3c82.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/15cd9453-3801-4719-b033-bcec14b26fdd.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/22a2491c-a188-41d3-9b38-cf59ea6d198b.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4e16e31-9436-4e64-af1c-aee43dc3134d.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72b59bc9-f080-4758-a1b5-011cba783b2f.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bf3953dd-4192-4e75-bb18-ef12c6218972.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=43898fb3-5cce-4a07-a7c3-23a5d48ec076.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48d5ff7a-2fcc-4fb8-8145-41787223363b.pdf); [Presentation Feb 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72908deb-fb0d-4e8f-8d34-bc1eea5aecab.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 2,359 cr (Mar 2026) = 0.13× market cap; P/E 29.0 on Mar 2026 profit vs industry median 52.7 (45 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 323 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-11-24 | Outcome of Board Meeting | OUTCOME OF THE BOARD MEETING HELD TODAY, i.e. , MONDAY , NOVEMBER 24, 202 5 | [pdf](https://nsearchives.nseindia.com/corporate/ERIS_24112025180340_Intimationsigned.pdf) |
 
 </details>
 
 ## HEGAM — HEG Advanced Materials Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 3.3/10 · spin-off · 23 filing(s) from BSE-screener, NSE · first 2026-01-09, latest 2026-09-29
+**CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 3.3/10 · spin-off · 24 filing(s) from BSE-screener, NSE · first 2026-01-09, latest 2026-09-29
 
 > **Listing:** LISTED — HEG Graphite Limited trades since about 2026-07-29
 
@@ -3726,7 +4365,7 @@ No stored cash-flow statement for this symbol.
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 75 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 76 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 
 <details><summary>The filings</summary>
 
@@ -3753,6 +4392,7 @@ No stored cash-flow statement for this symbol.
 | 2026-08-24 | Outcome of Board Meeting | HEG Limited has informed the Exchange regarding Outcome of Board Meeting held on August 24, 2026 related to Effective Date of Scheme, Record Date for Scheme, Re | [pdf](https://nsearchives.nseindia.com/corporate/HEG_24082026182755_FinalOutcome24082026.pdf) |
 | 2026-08-24 | General Updates | HEG Limited has informed the Exchange about Relinquishment of Shri Ravi Jhunjhunwala from the office of Chairman, Managing Director & Chief Executive Officer an | [pdf](https://nsearchives.nseindia.com/corporate/HEG_24082026185355_FinalOutcome24082026.pdf) |
 | 2026-08-24 | Change in Management | HEG Limited has informed the Exchange about Cessation of Senior Management Personnel of the Company consequent upon transfer of their employment to HEG Graphite | [pdf](https://nsearchives.nseindia.com/corporate/HEG_24082026191652_FinalOutcome24082026.pdf) |
+| 2026-08-24 | Record Date | HEG Limited has informed the Exchange that Record date has been fixed in consultation with the Resulting Company i.e. HEG Graphite Limited as 07-Sep-2026 for de | [pdf](https://nsearchives.nseindia.com/corporate/HEG_24082026194638_FinalOutcome24082026.pdf) |
 | 2026-08-25 | Press Release | HEG Limited has informed the Exchange regarding a press release dated August 25, 2026, titled "HEG Demerger to Take Effect from September 1, 2026; Record Date F | [pdf](https://nsearchives.nseindia.com/corporate/HEG_25082026170347_HEG_Final_Press_Realease_Intimation.pdf) |
 | 2026-09-29 | Apportionment Of The Cost Of Acquisition | NCLT-approved demerger executed; shareholders receive HEG Graphite shares, with 27.60%/72.40% cost apportionment. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b6a9a434-753d-4da2-8de3-3658d5b3fb76.pdf) |
 
@@ -3870,7 +4510,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 173 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 174 days since the first filing, stage nclt_sanction |
 
 <details><summary>The filings</summary>
 
@@ -3886,6 +4526,269 @@ xychart-beta
 
 </details>
 
+## BAJAJELEC — Bajaj Electricals Ltd
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · spin-off · 1 filing(s) from NSE-deep · first 2026-03-16, latest 2026-03-16
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** The EPC (engineering, procurement and construction) business/vertical of Bajaj Electricals — class `not stated`.
+
+- *Insiders:* not stated
+- *What it reveals:* Documents state the EPC demerger accompanied Bajaj Electricals becoming a debt-free company and a carve-out of a Lighting Solution vertical, implying the retained consumer/lighting business is cleaner and unlevered; no financials given.
+- *Selling pressure:* unclear — Documents give no size, shareholding, index or industry details for the demerged entity.
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* The scheme of arrangement / board approval for the EPC demerger and the resulting entity's share-entitlement ratio.
+- *In their words:* “Under his leadership, he led the demerger of the EPC vertical, transformed BEL into a debt-free company, carved out a Lighting Solution vertical, and streamlined our overall business model.”
+
+### Why the demerger — three years of calls and the scheme
+
+On these texts alone, the separation management actually explains is the demerger of the EPC (Engineering, Procurement & Construction) projects business out of Bajaj Electricals Limited (BEL) into a separately listed entity, Bajel Projects Limited, completed in September 2023; the only other separation mentioned is a Lighting Solutions vertical that was 'carved out' under CFO E.C. Prasad, which the texts never justify. The stated logic for the EPC split was that the two businesses were structurally unalike and were dragging on each other: five years before July 2024 the company was 'burdened with over 2,000 crores in debt' with 'numerous pending EPC orders', a period the Chairman called one 'of uncertainty and significant pressure', and the fix sequence was de-leveraging (debt-free as of March 2022) followed by the September 2023 demerger. Management's post-facto framing in the August 2024 call was that the demerger delivered 'data identity and focus for the 2 distinct businesses' and had shown up in market capitalization, i.e. the separation was pitched as identity, focus and re-rating rather than as a cash-raising or deleveraging event in itself. The cleanest problem it was said to solve was margin opacity in the consumer business: investors argued the EPC business inside BEL made 'the allocation of costs ... an issue', so a stand-alone consumer company would expose the true cost structure and be judged on its own margins. The pressure for clarity came from investors, not lenders or partners — Anuj Sehgal of Manas Asian Equities (Value Fund) pushed in both August and November 2024 that consumer durables had last done double-digit margins in FY12, twelve years earlier, sat at 'low single-digit margins' while smaller peers earned high single-digit to low double-digit EBIT, and asked whether there was a structural issue such as a bloated cost structure or distribution inefficiency. Management's answer (E.C. Prasad, November 2024) was that the double-digit margin guidance stays intact over the long term, that overheads already 'support a turnover of more than INR 6,000 crores' which current revenue does not fill, and that roughly 3-4% of margin would come from operating leverage as turnover returns. Supporting financial markers cited post-separation were Q1 FY25 cash from operations of Rs. 155 crores, surplus cash of Rs. 442 crores as on 30 June 2024, double-digit EBIT margins in the Lighting installations vertical, and a strategy of premiumization, digital transformation and cost competitiveness. The separation also required splitting shared legacy assets: the 1981 Employee Welfare Trust was bifurcated 67:33, described as the net worth ratio of Bajel and BEL at the time of the demerger, with trustees in the same ratio and the holding treated as jointly controlled.
+
+**How it evolved:** In the July 2024 call the demerger is presented retrospectively, as part of Anuj Poddar's exit scorecard — debt-free by March 2022, EPC demerged in September 2023 into Bajel Projects Limited — rather than as a forward-looking plan. In August 2024 management upgraded the claim to a verdict: the demerger was 'a great success' in identity, focus and market capitalization, while the same call (and again in November 2024) saw investor Anuj Sehgal press that the removed cost-allocation excuse had not yet produced double-digit consumer margins, prompting Prasad's 'levers' answer about the INR 6,000 crore-capable cost base and 3-4% operating leverage. By May 2025 the story had moved to mechanics and clean-up — the Employee Welfare Trust finally split 67:33 on the demerger-date net worth ratio — and in the call reported for Nov 2025 (dated October 31, 2025) the frame widened from one demerger to a sequence, crediting the departing CFO with the EPC demerger plus a newly 'carved out' Lighting Solution vertical. The March 16, 2026 filing text supplied here adds nothing on rationale, mentioning the EPC demerger only as a line in an incoming interim CFO's profile.
+
+**What management expects from it:** Two distinct businesses each with its own identity and focus, with value recognised in market capitalization. For BEL: a debt-free, cash-surplus consumer and lighting company (Rs 442 crore surplus cash, Rs 155 crore quarterly operating cash), free of EPC cost-allocation distortion, reaching long-term double-digit margins as returning turnover fills a Rs 6,000 crore-capable cost base (3-4% from operating leverage), with Lighting installations already at double-digit EBIT.
+
+**Point by point, with the source:**
+
+- *[Jul 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f33035e6-57df-47aa-9eeb-8c2493fbdc94.pdf)* — The Chairman frames the EPC demerger as the completion of a turnaround from a highly levered, order-clogged position: debt of over Rs 2,000 crore five years earlier, debt-free by March 2022, EPC separated in September 2023 into Bajel Projects Limited. “At that time our Company was burdened with over 2,000 crores in debt, and we had numerous pending EPC orders.”
+- *[Jul 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f33035e6-57df-47aa-9eeb-8c2493fbdc94.pdf)* — The demerger is named as one of the three achievements of the outgoing MD & CEO Anuj Poddar, alongside making the company debt-free and executing major projects — i.e. presented as leadership legacy, not as a response to distress at the time of the split. “Additionally in September '23, we successfully demerged our EPC business creating Bajel Projects Limited, which means BEL is no”
+- *[Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82bfb72f-77fc-4e64-8503-08d91cea48e0.pdf)* — Management's explicit rationale-in-hindsight: separation gave each of the two businesses its own identity and focus, and the benefit showed up in market capitalization. “The recent demerger of EPC Projects business, as you will appreciate, has been a great success both in terms of data identity and focus for the 2 distinct businesses and has resulted in fact, on market capitalization.”
+- *[Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82bfb72f-77fc-4e64-8503-08d91cea48e0.pdf)* — Post-demerger BEL is positioned as a cash-generative, liquid standalone consumer and lighting company — Q1 cash from operations of Rs. 155 crores and Rs. 442 crores of surplus cash at 30 June 2024 — pursuing premiumization, digital transformation and cost competitiveness. “Strong balance sheet with surplus cash as on 30th June 2024, is Rs. 442 crores, which reflects a strong liquidity position.”
+- *[Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82bfb72f-77fc-4e64-8503-08d91cea48e0.pdf)* — Lighting installations is flagged as the one vertical already earning double-digit EBIT margins, the same vertical later described as having been carved out. “The Lighting installations vertical continues to do well and has delivered double-digit EBIT margins with promise to continue to do better in succeeding quarters.”
+- *[Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82bfb72f-77fc-4e64-8503-08d91cea48e0.pdf)* — Investor Anuj Sehgal (Manas Asian Equities Value Fund) applies the post-demerger test directly: consumer durables last earned double-digit margins in FY12, twelve years ago, and still runs below smaller peers — is the problem structural (bloated costs, distribution inefficiency)? “What I want to understand is that why is it that the consumer durable business has low single-digit margins, whereas other companies in the similar space with a lesser scale than Bajaj Electricals are able to do high single-digit to low double-digit EBIT margins.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bb0e9da-f7c3-4180-be20-430c663a93a7.pdf)* — The clearest statement of the problem the separation was meant to solve comes from an investor, not management: EPC sitting inside BEL made cost allocation to the consumer business an issue, and that excuse is now gone. “Earlier, the reason was that the EPC business was part of the company and the allocation of costs was an issue. Now, of course, that also has been demerged.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bb0e9da-f7c3-4180-be20-430c663a93a7.pdf)* — CFO E.C. Prasad holds the long-term double-digit margin guidance and quantifies the gap as under-utilised overhead, with about 3-4% of margin to come from operating leverage as revenue fills a cost base built for over Rs 6,000 crore of turnover. “Actually, we have made a structure or an overhead that can support a turnover of more than INR 6,000 crores, but we are not delivering to that extent today because of the various reasons that we have mentioned earlier.”
+- *[May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=838af522-ba54-43ad-9f3d-ebcd1c2087d7.pdf)* — Mechanics of unwinding shared legacy assets: the 1981 Employee Welfare Trust, left undivided at the time of the demerger, was split 67:33 on what management called the Bajel/BEL net worth ratio at that date, with trustees in the same ratio, producing a jointly controlled JV line in the balance sheet. “But now after that thing has settled down, we have decided that the trust would also be bifurcated in the ratio of 67% to 33%, which was the net worth ratio of the Bajel and BEL at that point in time.”
+- *[Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9d87e6a-b11a-4d7f-9b1d-4c8842ae228f.pdf)* — The Chairman's farewell to CFO E.C. Prasad (joined November 2019, call dated October 31, 2025) widens the restructuring story from one demerger to a programme: EPC demerger, debt-free balance sheet, a carved-out Lighting Solution vertical and a streamlined business model — the only mention of the Lighting separation in these texts, with no rationale attached. “Under his leadership, he led the demerger of the EPC vertical, transformed BEL into a debt-free company, carved out a Lighting Solution vertical, and streamlined our overall business model.”
+- *Scheme* — The filing text supplied is not a scheme rationale: it is the March 16, 2026 board outcome appointing Suketu Shah interim CFO and designating Rahul Pundir as senior management personnel. The EPC demerger appears only as a credential in Shah's profile, alongside a Rs 350 crore rights issue and 'evaluation of strategic investments and brand acquisitions' — no reasoning for any separation is given. “During his tenure with the Company, he has played a key role in several strategic and transformational initiatives, including the successful execution of a ₹350 crore rights issue, the demerger of the EPC business into a separately listed entity, the institutionalization of key financial and governance policies, and the evaluation of strategic investments and brand acquisitions.”
+
+*Not explained on the calls:* The filing excerpt gives no rationale — only CFO appointments. Nothing explains the Lighting Solutions carve-out: structure, swap ratio, timeline, capital allocation, lost synergies, or lender and partner consents.
+
+*Calls read (36 months):* [Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82bfb72f-77fc-4e64-8503-08d91cea48e0.pdf), [Jul 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f33035e6-57df-47aa-9eeb-8c2493fbdc94.pdf), [May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=838af522-ba54-43ad-9f3d-ebcd1c2087d7.pdf), [Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bb0e9da-f7c3-4180-be20-430c663a93a7.pdf), [Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9d87e6a-b11a-4d7f-9b1d-4c8842ae228f.pdf)
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 4,639 | 4,826 | 4,461 |
+| Sales growth (%) | -5.1% | +4.0% | -7.6% |
+| Operating profit (₹ cr) | 260 | 307 | 138 |
+| Operating profit growth (%) | -30.7% | +18.1% | -55.0% |
+| Operating margin (%) | 5.6 | 6.4 | 3.1 |
+| PAT (₹ cr) | 131 | 133 | -91.0 |
+| PAT growth (%) | -39.4% | +1.5% | -168.4% |
+| PAT margin (%) | 2.8 | 2.8 | -2.0 |
+| EPS (₹) | 11.4 | 11.6 | -7.9 |
+
+*Source: ProfitStatement/NiftyTotalMarket/BAJAJELEC.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [4639, 4826, 4461]
+    bar [260, 307, 138]
+    bar [131, 133, -91]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [5.6, 6.4, 3.1]
+    line [2.8, 2.8, -2]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** — — EPS -7.87 for Mar 2026 is not positive (price ₹299.80 as of 2026-10-01).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 354 | 347 | 619 |
+| Cash from investing (₹ cr) | -449 | -195 | -380 |
+| Cash from financing (₹ cr) | -133 | -146 | -137 |
+| Net cash flow (₹ cr) | -227 | 6.0 | 103 |
+| Free cash flow (₹ cr) | 223 | 318 | 534 |
+
+*Source: CashFlow/NiftyTotalMarket/BAJAJELEC.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+**EPC segment of the Company (Power Transmission & Power Distribution business demerged to Bajel Projects Limited) — reported only as "discontinued operations"** · unit ₹ lakhs · The only EPC-specific profit line on these pages is "Profit / (loss) before tax for the year from discontinued operations" i.e. PBT (not a segment result/EBIT/EBITDA), disclosed in the segment-reporting reconciliation (Note 37). FY2024 covers only the stub period to the Aug 31, 2023 demerger effective date (scheme effective Sep 1, 2023), not a full year. No EPC revenue line is given — from FY2024 the reportable segments are only Consumer Products and Lighting Solutions, whose revenue is external with nil inter-segment. Standalone figure shown; consolidated PBT from discontinued operations is (681.26) lakhs (AR2024 p.294).
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ lakhs) | — | — | — |
+| Revenue growth (%) | — | — | — |
+| Operating profit (₹ lakhs) | -553 | — | — |
+| Operating profit growth (%) | — | — | — |
+| Operating margin (%) | — | — | — |
+| PAT (₹ lakhs) | — | — | — |
+| PAT growth (%) | — | — | — |
+
+*Sources:* Annual Report 2024 — page 202 (standalone Note 37); consolidated (681.26) on page 294; Annual Report 2025 — pages 260-261, 353-354 (no discontinued-operations/EPC figures; FY2025 line is nil); Annual Report 2026 — pages 257, 353 (no EPC/discontinued-operations line at all)
+
+*Not in the pages read:* EPC revenue, EBIT/EBITDA, PAT and assets/liabilities for all years; any FY2025/FY2026 or quarterly EPC figures — business was demerged effective Sep 1, 2023.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/01f274b6-0397-4906-9682-0bb124b60857.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/87b5c9b5-1129-455c-9d55-82827d24c2af.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/118f9fa7-7717-46a1-8cd4-9f7188c56380.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f6a2d4d5-c347-4985-8935-455396b485e9.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0d52ab06-bef7-4db2-80bd-47bbbc199d50.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6b88f70-71b5-45d1-a22b-9dda0c581e30.pdf); [Presentation Feb 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b99e9ed9-ef13-4865-af45-46fca1a261b3.pdf); [Presentation Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b733df3-8d5e-4e80-90cf-3123f831d03d.pdf); [Presentation Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=75f80a47-9010-42e1-be44-f8cf6fb70410.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 211 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…2019 and has played a pivotal role in transforming Bajaj El ectrical. Bajaj Electricals Limited October 31, 202 5 Page 3 of 15 Under his leadership, he led the demerger of the EPC vertical, transformed B EL into a debt ” |
+
+**On the calls (last 12 months):**
+
+- *Nov 2025* (neutral) — “…2019 and has played a pivotal role in transforming Bajaj El ectrical. Bajaj Electricals Limited October 31, 202 5 Page 3 of 15 Under his leadership, he led the demerger of the EPC vertical, transformed B EL into a debt -free company, carved out a Lighting Solution vertical, and streamlined our overall business model. His contr…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-03-16 | Outcome of Board Meeting | Bajaj Electricals Limited | CIN: L31500MH1938PLC009887 Registered Office: Mulla House, 2nd Floor, 51 Mahatma Gandhi Road, Fort, Mumbai 400 001 Tel: 022 6149 700 | [pdf](https://nsearchives.nseindia.com/corporate/BAJAJELEC_16032026124552_SignedSEIntimationOutcomeoftheBM16032026.pdf) |
+
+</details>
+
+## CELLO — Cello World Ltd.
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · spin-off · 3 filing(s) from NSE, NSE-BM · first 2026-05-15, latest 2026-05-27
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: No separate listing: per May 27, 2026 filing, scheme effective May 27, 2026 (appointed date April 1, 2025); record date June 9, 2026 for allotting CWL shares to WPL shareholders; the demerged Manufacturing Business sits in wholly owned CCPPL and WPL stands dissolved without winding up
+
+**Stated in the filings:** appointed date 2025-04-01.
+
+**What is being separated, as the documents put it:** Wim Plast Limited's Manufacturing Business, demerged into Cello Consumer Products Private Limited; WPL's Remaining Business amalgamated into Cello World — class `not stated`.
+
+- *Insiders:* not stated
+- *What it reveals:* The demerged manufacturing business goes to a wholly owned subsidiary, not to shareholders; CWL instead absorbs listed WPL, issuing only 29,75,909 plus 16,77,330 shares against 2,208.85 lakh existing shares — roughly 2% dilution. Standalone subsidiary investments INR 1,10,031.06 lakhs.
+- *Selling pressure:* unlikely — Only 46,53,239 new shares issued to WPL's non-CWL shareholders versus 2,208.85 lakh outstanding; no index exclusion stated.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* Consolidated FY26 results — segment and WPL/CCPPL manufacturing-business numbers behind the 'Share pending issuance' INR 40,929.89 lakhs.
+- *In their words:* “Pursuant to the scheme: (a) the Manufacturing Business of WPL has been demerged into CCPPL, a wholly owned subsidiary of the Company, and (b) the Remaining Business of WPL has been amalgamated with the Company, and WPL stands dissolved without winding up.”
+
+### Why the demerger — three years of calls and the scheme
+
+Across these texts the "separation" is really one composite scheme with two legs: a demerger out of Wim Plast Limited (WPL) and the amalgamation of WimPlast into Cello World Limited (CWL), with Cello Consumer Products Private Limited (CCPPL) as the third party to the scheme — per the filing, WPL shareholders receive CWL equity "pursuant to the demerger and the amalgamation, in accordance with Clause 8.1 and Clause 16.1 of the Scheme, respectively." On the November 13, 2024 call, Gaurav Rathod gave exactly two rationales for folding WimPlast back in: first, "we do not see any point in running 2 separate listed entities as the business is not very different"; second, WimPlast's manufacturing footprint "in different parts of the country" can be shared with Cello's other plastic product lines. Management framed the standalone listing as the problem being solved — "standing outside was not making sense, and that's the reason that the merger is happening" — and explicitly ruled out any further break-up of Cello's three verticals, arguing furniture manufacturing "is very, very similar to our other plastic manufactured products." Housekeeping consequences management confirmed: WimPlast first becomes a 100% subsidiary of CWL, WimPlast's ~8% loan to Cello World is extinguished in the merger, and WimPlast shareholders get 86 CWL shares (per the analyst's restatement, which Rathod confirmed). The filing adds the mechanics: NCLT Ahmedabad sanctioned the scheme on May 14, 2026, the Board set May 27, 2026 as Effective Date with Appointed Date April 1, 2025 and June 09, 2026 as Record Date, and WPL's authorised capital combines into CWL's, reclassified to INR 140 crore (28 crore shares of INR 5). On the call tagged Jun 2026 (held May 29, 2026), management reported the scheme effective and FY26 comparatives restated from the beginning of the prior year, alongside FY26 revenue growth of 8.8%, EBITDA of INR526.4 crores (22.7% margin), PAT of INR331.5 crores (14.3% margin), CFO of INR255.1 crores, debt-to-equity of 0.01, capex of INR219 crores (steel bottle line, select consumerware, writing instruments, maintenance) and FY27 capex guidance of ~INR100 crores. No investor, lender or partner is named anywhere as having demanded the restructuring — the only pressure visible is analyst questioning, including Karan's observation that WimPlast traded at 10–12 PE against Cello World's ~60 PE, which management did not engage with as a rationale.
+
+**How it evolved:** By the November 13, 2024 call the merger was already announced and management said it had "previously mentioned this as well," so the origin pre-dates these passages; that call is where the two rationales, the 100% subsidiary step, the 8% intercompany loan and the 86-share entitlement were spelled out under questioning from Deepesh Sancheti (Manya Financial Services) and Karan. Also in Nov 2024, management closed the door on the logical extension — demerging the three unrelated-looking verticals — on synergy grounds, so the direction of travel was consolidation, not separation. The plan then executes rather than changes: NCLT Ahmedabad sanctions it May 14, 2026, the Board declares it effective May 27, 2026 (Appointed Date April 1, 2025; Record Date June 09, 2026), and on the May 29, 2026 call (tagged Jun 2026) management reports completion plus restated comparatives and pending EPS impact. Nothing in these texts shows the rationale itself being revised, re-scoped or re-priced between 2024 and 2026.
+
+**What management expects from it:** No per-entity margin, capital or valuation targets were given. For Cello World: one listed vehicle instead of two, shared use of WimPlast's plants across geographies with other plastic lines, the ~8% WimPlast loan extinguished, WimPlast as 100% subsidiary then amalgamated, and restated comparatives. Management said nothing about what the demerged business or Cello Consumer Products gains.
+
+**Point by point, with the source:**
+
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Asked directly for the rationale, Rathod gave two: running two separate listed entities made no sense given similar businesses, and WimPlast's plants across the country can be shared with Cello's other plastic lines. “So, I think, we previously mentioned this as well, there are 2 rationales, one is that there s - we do not see any point in running 2 separate listed entities as the business is not very different.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — The second rationale was explicitly manufacturing-asset sharing across geographies, not cost savings quantified in rupees. “Secondly, there is a lot of manufacturing facilities that WimPlast has, so in different parts of the country wherein we can share manufacturing facilities with our other plastic product lines.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Management ruled out demerging Cello's three verticals, saying the merger itself proves the opposite intent and that furniture shares manufacturing with other plastic products. “No, I think - I don't think we arc looking at that because ofherwise, we would have not merged this back into Cello World.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — The problem being solved was stated as WimPlast sitting outside the group; synergy on the manufacturing side, not product-line overlap, was the justification. “Because I feel though they have different produet lines, there is a lot of synergy between these product lines because on the manufacturing side, our furniture s very, very similar to our other plastic manufactured products.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Share entitlement confirmed: WimPlast shareholders receive 86 Cello World shares (ratio basis not given), after WimPlast first becomes a 100% subsidiary of CWL. “Okay. So cffectively, a WimPlast sharcholder will get 86 shares for - of Cello World.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — An analyst noted the valuation arbitrage — WimPlast at 10–12 PE versus Cello World at ~60 PE — calling it "a very good deal for Cello World"; management did not cite valuation as a rationale. “Now I wanted to understand in terms of Cello World because it's a very good deal for Cello World.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — The intercompany ~8% loan from WimPlast to Cello World is extinguished on merger, which management confirmed without elaboration. “Okay. And also with this merger, the entire money which WimPlast had given to Cello World as a loan for about 8% that also gets merged, right?”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Capex for the new plant under discussion was put at about INR250 crores; management also argued no cannibalisation since glass tumblers and plastic tumblers serve different end uses and channels. “Capex is about INR250 crores.”
+- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42de0942-a266-4ad3-80e5-708476185d0f.pdf)* — Management confirmed the composite scheme among Wimplast, Cello Consumer Products and Cello World became effective 27 May 2026 with appointed date 1 April 2025. “Lastly, Iwould like to inform that composite scheme of arrangement among Wimplast, Cello Consumer Products Limited and the company has become cffective from 27th May 2026, with an appointed date of 1st April 2025 as defined under the scheme.”
+- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42de0942-a266-4ad3-80e5-708476185d0f.pdf)* — Comparatives were restated from the start of the prior year, with EPS impact pending share issuance — so reported FY26 numbers already reflect the combined entity. “Accordingly, our financial comparative has been restated to give cffect to the scheme from the be ginning of the previous year.”
+- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42de0942-a266-4ad3-80e5-708476185d0f.pdf)* — Post-scheme FY26 metrics cited: 8.8% revenue growth, INR526.4 crores EBITDA at 22.7% margin, INR331.5 crores PAT at 14.3% margin, INR255.1 crores CFO, debt-to-equity 0.01, capex INR219 crores, FY27 capex guided to ~INR100 crores. “EBITDA came in at INR526.4 crores, translating into EBITDA margin of 22.7%.”
+- *Scheme* — The transaction is a composite scheme among Wim Plast, Cello Consumer Products Private Limited and Cello World under Sections 230–232, sanctioned by NCLT Ahmedabad on May 14, 2026. “The Composite Scheme of Arrangement amongst Wim Plast Limited (“WPL”) and Cello Consumer Products Private Limited (“CCPPL”) and Cello World Limited (“CWL”) and their respective shareholders and creditors under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013 (“Scheme”), as sanctioned by the National Company Law Tribunal, Ahmedabad Bench (“Tribunal") vide its order dated May 14, 2026.”
+
+*Not explained on the calls:* No rationale clause in the filing excerpt; what the demerger transfers to Cello Consumer Products, swap-ratio basis, synergy/cost quantification, promoter-holding effect and any investor or lender demand all unexplained.
+
+*Calls read (36 months):* [Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42de0942-a266-4ad3-80e5-708476185d0f.pdf), [Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 2,000 | 2,136 | 2,324 |
+| Sales growth (%) | +11.3% | +6.8% | +8.8% |
+| Operating profit (₹ cr) | 509 | 510 | 471 |
+| Operating profit growth (%) | +20.9% | +0.2% | -7.6% |
+| Operating margin (%) | 25.4 | 23.9 | 20.3 |
+| PAT (₹ cr) | 356 | 365 | 332 |
+| PAT growth (%) | +24.9% | +2.5% | -9.0% |
+| PAT margin (%) | 17.8 | 17.1 | 14.3 |
+| EPS (₹) | 15.6 | 16.5 | 15.0 |
+
+*Source: ProfitStatement/NiftyTotalMarket/CELLO.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [2000, 2136, 2324]
+    bar [509, 510, 471]
+    bar [356, 365, 332]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [25.4, 23.9, 20.3]
+    line [17.8, 17.1, 14.3]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 21.5 — close 2026-10-01 ÷ EPS 15.01 (Mar 2026) (price ₹323.10 as of 2026-10-01).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 231 | 262 | 255 |
+| Cash from investing (₹ cr) | -256 | -553 | -176 |
+| Cash from financing (₹ cr) | 26.0 | 311 | -5.0 |
+| Net cash flow (₹ cr) | 2.0 | 20.0 | 75.0 |
+| Free cash flow (₹ cr) | -22.0 | 98.0 | 37.0 |
+
+*Source: CashFlow/NiftyTotalMarket/CELLO.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 11 presentation(s) on file) do not carry this business's own revenue or profit: All WPL / Cello Consumer Products own revenue, operating profit and PAT — annual and quarterly. Pages carry only consolidated Cello World results and one 'Consumer Products' segment; no demerged-business or WPL standalone P&L.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ae8aa36e-3c4a-4385-8830-e5fa73b36c3e.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/6a3e08d5-587d-4eea-b071-f08e07d9e60e.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/1dda2d36-084f-4cc0-8e49-3a96765355a2.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a2aafae6-e724-4d2d-80c3-136b93ced33a.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c3d0e64-9b0a-4f4d-ae22-1eea21065cd0.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e533968b-115f-417d-ad0e-f62fd6c89c77.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1c2bc2a-1be9-464c-a2f2-2176237bbf88.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fd9681ad-7dde-4f0a-adeb-dedb4d4c67a0.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=db5fca3f-c490-4075-95d8-7eec427174b0.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 151 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…t for the maintenance capex. Going ahead for financial year FY27, we expect to do a capex of around INR100 crores. Lastly, Iwould like to inform that composite scheme of arrangement among Wimplast, Cello Consumer Produc” |
+
+**On the calls (last 12 months):**
+
+- *Jun 2026* (forward) — “…t for the maintenance capex. Going ahead for financial year FY27, we expect to do a capex of around INR100 crores. Lastly, Iwould like to inform that composite scheme of arrangement among Wimplast, Cello Consumer Products Limited and the company has become cffective from 27th May 2026, with an appointed date of 1st April 2025 as defined un…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-05-15 | Scheme of Arrangement | Cello World Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_15052026192852_CWL_Upload_Signed.pdf) |
+| 2026-05-27 | Amalgamation/Merger | Cello World Limited has informed the Exchange about Amalgamation/Merger | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_27052026225115_BMOutcome.pdf) |
+| 2026-05-27 | Board Meeting (purpose) | Board Meeting Intimation CELLO WORLD LIMITED has informed the Exchange about Board Meeting to be held on 27-May-2026 to consider and approve the Yearly Audited  | [pdf](https://nsearchives.nseindia.com/corporate/xbrl/PIBM_544012_225202621228_PRIOR_INTIMATION_WebXMLFile_20260522_212210419.xml) |
+
+</details>
+
 ## GABRIEL — Gabriel India Ltd.
 
 **CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 2.9/10 · spin-off · 9 filing(s) from NSE · first 2025-11-18, latest 2026-06-09
@@ -3896,39 +4799,39 @@ xychart-beta
 
 **Stated in the filings:** resulting company **Asia Investments Private Limited**; demerged undertaking: of Asia Investments Private Limited (“Transferee Company”.
 
-**What is being separated, as the documents put it:** Automotive Undertaking of Asia Investments Private Limited, demerged into Gabriel India Limited, the Resulting Company — class `not stated`.
+**What is being separated, as the documents put it:** Automotive Undertaking of Asia Investments Private Limited (promoter/holding company), demerged into listed Gabriel India Limited — class `regulatory_strategic`.
 
-- *Insiders:* Promoters held 7,90,04,167 shares and voted 100% in favour; NSE required disclosure that the scheme increases Promoter/Promoter Group shareholding. Voting form states promoters not interested in the resolution.
-- *What it reveals:* Gabriel absorbs the automotive undertaking (after Anchemco India amalgamates into AIPL), adding assets into the listed vehicle while promoter shareholding rises; no revenue, PAT, EBITDA, swap ratio or transferred asset values are given in these documents.
-- *Selling pressure:* unclear — Shares issued to Asia Investments' shareholders on record date May 29, 2026; documents state no size, index or industry details.
+- *Insiders:* Asia Investments Private Limited is promoter and holding company; its shareholders receive Gabriel shares (record date May 29, 2026), and AIPL is to get 1,44,04,204 shares, 7.52% post-issue, at INR 1,305.89
+- *What it reveals:* Restatement lifts FY26 consolidated EPS from 17.55 to 24.29 and standalone from 14.75 to 14.59; adds Anchemco (FY26 revenue Rs 3,512.88 mn, PAT Rs 153.16 mn) plus associates contributing Rs 1,576.33 mn share of profit FY26
+- *Selling pressure:* unclear — Documents state only that AIPL shareholders receive Gabriel shares on record date May 29, 2026; no size, float or index detail
 - *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* February 10, 2026 shareholders' notice explanatory statement — share-swap ratio, AIPL/GIL revenue-PAT-EBITDA, assets and liabilities transferred.
-- *In their words:* “The Company shall ensure that the steps for listing of specified securities are completed and trading in securities commences within sixty days of receipt of the order of the Hon'ble High Court/NCLT, simultaneously on all the stock exchanges where the equity shares of the listed entity (or transfer entity) are/were listed.”
+- *Read next:* Independent valuation supporting INR 463.50 per HMAI share and INR 1,305.89 preferential issue price to promoter AIPL
+- *In their words:* “This is a strategic step towards positioning Gabriel India Limited as the ANAND Group's growth vehicle and business consolidation platform for the automotive components sector, thereby enhancing long-term stakeholder value.”
 
 ### Why the demerger — three years of calls and the scheme
 
-Despite the framing of a "separation," what the texts describe is an inbound restructuring: Gabriel India is not carving out one of its own businesses but receiving one. On 1 July 2025 the Board approved a composite scheme in which Anchemco India Private Limited (formerly Andasia Private Limited) first amalgamates into the promoter holding vehicle Asia Investments Private Limited (AIPL), after which AIPL's "Automotive Undertaking" is demerged into Gabriel India as the Resulting Company — bringing four promoter-held entities and JVs (Anchemco, Dana Anand, Henkel ANAND and ANAND CY Myutec) under the listed company. Management's stated reasons were threefold: convert Gabriel from a single-product company (suspension/ride-control) into a diversified product company; deepen collaboration with foreign strategic partners (Dana, Henkel, CY Myutec; Inalfa was cited separately on technology) and capture economies of scale, shared resources, a wider customer base, supply-chain synergies and a bigger aftermarket portfolio; and simplify the group structure so that Gabriel becomes "the growth engine for the automotive business." Chairperson Anjali Singh tied it to a group revenue ambition of INR50,000 crores by 2030 and positioned Gabriel as the group's vehicle for future growth and long-term value creation. The explicit investor angle was named by management itself: the deal "addresses the repeated queries of investors on product diversification, M&A" by folding mature JVs into Gabriel. The financial argument was that Gabriel scales up with no leverage and no cash outlay, with roughly 40% EPS accretion on a current-scale basis and an enhanced ability to raise funds for future organic and inorganic growth. Costs/risks flagged in the filing rather than the calls: promoter shareholding rises on implementation, with NSE requiring the company to explain that increase and its impact on public shareholders' rights and value; approvals needed were creditors, SEBI/stock exchanges, NCLT and majority-of-minority shareholders over a 10–12 month timeline.
+This is not a carve-out of an existing Gabriel business but a composite scheme that moves promoter-held automotive assets into Gabriel: first the amalgamation of Anchemco India Private Limited into Asia Investment Private Limited (AIPL), then the demerger of AIPL's automotive undertaking into Gabriel India, bringing four promoter-held entities — Anchemco, Dana Anand, Henkel ANAND and ANAND CY Myutec (Dana Anand established 1993) — under the listed company. Management framed three rationales. First, product diversification: Gabriel moves "from a single product company into a diversified product company," with enhanced collaboration with its foreign strategic partners and synergies from economies of scale and shared resources, a wider customer base, supply-chain synergies, a larger product portfolio and a stronger aftermarket presence. Second, simplification of the group structure: consolidating AIPL's demerged automotive undertaking into Gabriel makes Gabriel "the growth engine for the automotive business," the group's vehicle for future growth against a group revenue target of INR50,000 crores by 2030. Third, it answers an explicit investor demand — management said it "addresses the repeated queries of investors on product diversification, M&A" by bringing existing mature JVs under the Gabriel fold. The financing argument was that Gabriel scales up "without any leverage or cash outlay," with roughly 40% EPS accretion on a current-scale basis and enhanced ability to raise funds for future organic and inorganic growth. Execution was made conditional on creditors, NCLT, stock exchanges, shareholders and majority-of-minority approval over a 10-12 month timeline; the NSE observation letter flags that promoter shareholding increases on implementation and tells investors to read all scheme documents before voting.
 
-**How it evolved:** The idea surfaced fully formed on the 1 July 2025 transaction call, held a day after Board approval and restricted by the moderator to the announced transaction, where management said it had been "actively evaluating organic and inorganic opportunities" and named the four target entities, the two-step merger-then-demerger mechanics, a 10–12 month approval timeline and ~40% EPS accretion. By the 10 February 2026 call the plan had not changed in substance, only advanced procedurally: NSE no-objection (observation letter dated 17 November 2025), NCLT application filed, first motion heard in early January 2026 and the scheme admitted by order dated 29 January 2026, with management stressing it was "very much on track" against the original timeline; the NCLT-directed shareholder meeting was convened for 18 March 2026. On the 28 May 2026 call, management confirmed shareholder and NCLT approvals and an effective date of 22 May 2026, i.e. roughly the 10–12 months originally guided, alongside an FY26 dividend of INR5 per share versus INR4.7 in FY25. Across the three calls no change in scope, consideration or entity list is disclosed in these passages.
+**How it evolved:** The transaction was announced at a dedicated call on 1 July 2025, where Chairperson Anjali Singh said the Board had approved the composite scheme and management walked through the slides, the four target entities, the two-step merger-then-demerger mechanics, the 40% EPS accretion and a 10-12 month approval timeline, noting the group had been "actively evaluating organic and inorganic opportunities" discussed in prior forums and calls. By the Feb 2026 call the discussion had shifted from rationale to process: NSE NOC received, application filed with NCLT, first-motion hearing in early January, scheme admitted and order pronounced by end-January, with management saying it was on the originally planned timeline. On the May 2026 call the scheme was reported as having received shareholder and NCLT approvals and becoming effective from 22 May 2026, and the conversation moved on to operating matters such as bringing Inalfa technology products to customers. The scheme filing text available (the 17 November 2025 NSE observation letter) contains only disclosure conditions, not management's rationale.
 
-**What management expects from it:** For Gabriel: diversification from single-product to multi-product, ~40% EPS accretion on current scale, scale with zero leverage or cash outlay, stronger fundraising capacity, wider customer base, supply-chain and aftermarket synergies, and new-technology products (via partners like Inalfa) carrying a different margin profile. For the group: a simplified structure, Gabriel as the automotive growth engine, and INR50,000 crores group revenue by 2030.
+**What management expects from it:** Gabriel becomes a diversified multi-product automotive platform and the group's growth engine toward INR50,000 crores group revenue by 2030: about 40% EPS accretion on current scale, achieved with no leverage or cash outlay, deeper foreign-partner collaboration, wider customers, supply-chain and scale synergies, stronger aftermarket, simplified structure and better capacity to fund future organic and inorganic growth. Promoter shareholding rises.
 
 **Point by point, with the source:**
 
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Chairperson Anjali Singh framed the composite scheme as a corporate-structure realignment to unlock synergies and sharpen competitiveness, with Gabriel as the group's growth vehicle and platform for long-term value creation. “This scheme of arrangement marks a meaningful step forward in realizing our group's strategic vision, realigning the corporate structure to unlock synergies and enhance our competitive edge.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — The group-level ambition behind the restructuring was quantified as INR50,000 crores of group revenue by 2030, with Gabriel leading it. “With an ambitious group revenue target of INR50,000 crores by 2030, Gabriel India is poised to lead the charge, redefining its legacy and setting new benchm”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Management said it had been evaluating organic and inorganic options and had identified promoter-held businesses and investments to acquire through a scheme rather than a cash purchase. “Also, we have identified a few businesses and investments for potential acquisition through a scheme of arrangements, which have been held by the promoters of Gabriel.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Four target entities were named on the call: Anchemco, Dana Anand, Henkel ANAND and ANAND CY Myutec. “S o right now, we are looking at four entities An chemco, Dana Anand, Henkel ANAND and A NAND CY Myutec.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Mechanics were two-step (Slide 7): Anchemco merges into AIPL first, then the automotive undertaking is demerged out of AIPL into Gabriel. “So as a first step, the merger of Anchemco into AIPL happens, then deme”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Approvals required were creditors, NCLT, stock exchanges, shareholders including majority of minority, over a guided 10–12 month timeline. “This is obviously subject to the key approvals from the creditors, NCLT, stock exchanges, shareholders, majority of minority and the time lines that we are looking at is 10 to 12 months subject to the regulatory approvals.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Rationale one: move Gabriel from a single-product company to a diversified product company, with closer work with the foreign strategic partners and scale/shared-resource synergies. “We are looking at enhanced collaboration with the foreign strategic partners and obviously, achieving synergies through economies of scale and shared resources.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Rationale two: domestic dominance plus global presence — a wider customer base, supply-chain synergies, use of global relationships and a larger portfolio that also lifts aftermarket presence. “So we look at expanding the customer base, we are looking at better supply chain synergies, leveraging the global relationships and obviously the larger product portfolio, wherein we are also able to enhance our aftermarket presence.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Rationale three: simplify the group structure by consolidating AIPL's demerged automotive undertaking into Gabriel, making Gabriel the group's automotive growth engine. “So this will consolidate the business of demerged undertaking of AIPL into automotive components making Gabriel the growth engine for the automotive business in the future.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Management explicitly said the deal answers investors' repeated questions about product diversification and M&A by bringing the group's mature JVs inside the listed entity. “And this also add resses the repeated queries of investors on product diversification, M&A by br inging the existing mature JVs under Gabriel fold.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Financially, Gabriel gains scale with no debt and no cash payout, with ~40% EPS accretion on current scale and better capacity to fund future growth. “This helps Gabriel scale up without any leverage or cash outlay, accretion of EPS has been already explained by the Chairperson.”
-- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — The 40% figure and the fundraising argument were stated on a current-scale basis as part of the same rationale slide. “We are looking at a 40% on a current scale basis and the enhanced ability to raise the funds for future organic and inorganic growth.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Chairperson Anjali Singh opened a transaction-only call saying the Board had approved a composite scheme of arrangement intended to realign the corporate structure, unlock synergies and sharpen competitiveness. “This scheme of arrangement marks a meaningful step forward in realizing our group's strategic vision, realigning the corporate structure to unlock synergies and enhance our competitive edge.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Gabriel India is positioned as the group's growth vehicle and value-creation platform, against a stated group revenue ambition of INR50,000 crores by 2030. “Gabriel India is set to play a pivotal role in this transformation, serving as our group's vehicle for future growth and the platform for long -term value creation.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Management identified four promoter-held businesses/investments to be acquired through the scheme, having been actively evaluating organic and inorganic opportunities. “S o right now, we are looking at four entities An chemco, Dana Anand, Henkel ANAND and A NAND CY Myutec.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — The mechanics are a two-step composite scheme — Anchemco merges into AIPL, followed by a demerger into Gabriel — subject to multiple approvals over 10-12 months. “This is obviously subject to the key approvals from the creditors, NCLT, stock exchanges, shareholders, majority of minority and the time lines that we are looking at is 10 to 12 months subject to the regulatory approvals.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — First rationale: diversification away from a single-product (shock absorber) profile, with deeper collaboration with foreign strategic partners and scale/shared-resource synergies, a wider customer base, supply-chain synergies and a bigger aftermarket presence. “We are looking at enhanced collaboration with the foreign strategic partners and obviously, achieving synergies through economies of scale and shared resources.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Third rationale: group-structure simplification, consolidating AIPL's demerged automotive undertaking into Gabriel so Gabriel becomes the group's automotive growth engine. “So this will consolidate the business of demerged undertaking of AIPL into automotive components making Gabriel the growth engine for the automotive business in the future.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Management said the scheme directly answers investors' repeated demands for product diversification and M&A, by bringing the group's existing mature JVs inside the listed company. “And this also add resses the repeated queries of investors on product diversification, M&A by br inging the existing mature JVs under Gabriel fold.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — The financial case: scale-up with no debt and no cash outflow, plus EPS accretion quantified at about 40% on a current-scale basis and improved fund-raising capacity. “This helps Gabriel scale up without any leverage or cash outlay, accretion of EPS has been already explained by the Chairperson.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — The quantified accretion and the funding benefit for future growth were stated together as 40% on the current scale. “We are looking at a 40% on a current scale basis and the enhanced ability to raise the funds for future organic and inorganic growth.”
+- *[Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf)* — Asked by Viraj Kacharia about quantified synergies, management offered only short-run examples, saying more would emerge as time unfolds; it also said overseas opportunities were explored but did not qualify. “So I can give you a couple of examples, again of the synergies that we see in the, I would say, in the short run.”
+- *[Feb 2026](https://www.anandgroupindia.com/wp-content/uploads/2026/02/Written-Transcript-Q3-FY26.pdf)* — Mohit Srivastava gave a process update: stock exchange NOC received, NCLT application filed, first-motion hearing in early January and the scheme admitted with the order pronounced by end-January. “So on the scheme of arrangement, we received the NOC from st ock exchange and post that, we filed our application to NCLT.”
+- *[Feb 2026](https://www.anandgroupindia.com/wp-content/uploads/2026/02/Written-Transcript-Q3-FY26.pdf)* — Management reaffirmed the original 10-12 month timeline was being met, answering Ananya Khanna's question on when statutory approvals would start rolling in. “So we are very much on track what original time we had planned for this scheme and we've been p rogressing very well on this front.”
 
-*Not explained on the calls:* No swap ratio, valuation, target-entity revenue/EBITDA, quantified synergies, promoter-stake-increase justification, integration risks, dis-synergies, or why partners/lenders consented.
+*Not explained on the calls:* No standalone revenue, margins or EBITDA for the four entities; no swap ratio, valuation basis or quantified synergies; no justification of the promoter stake increase; no AIPL residual-business detail.
 
 *Calls read (36 months):* [Feb 2026](https://www.anandgroupindia.com/wp-content/uploads/2026/02/Written-Transcript-Q3-FY26.pdf), [Jul 2025](https://www.anandgroupindia.com/wp-content/uploads/2025/07/written-transcript_Business-Update-Call.pdf), [May 2026](https://www.anandgroupindia.com/wp-content/uploads/2026/06/Gabriel-India_Q4FY26-Earnings-Call-Transcript.pdf)
 
@@ -3985,21 +4888,21 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-**Automotive (Demerged) Undertaking of Asia Investments Private Limited — business of Anchemco India Private Limited (brake fluids, radiator coolants, DEF/Ad-blue, PU/PVC adhesives) plus investments in Dana Anand, Henkel Anand and ANAND CY Myutec** · unit ₹ crore · Only the operating business of the undertaking (Anchemco India) is disclosed with its own P&L; figures are proforma consolidated numbers derived from audited financials of Anchemco India Pvt Ltd, Ansysco LLP and Anchemco Anand LLP (Presentation Jun 2025 — page 16, note 2). Revenue = 'Revenue from operations' (external, standalone-entity basis, not inter-segment). operating_profit = EBITDA as labelled (FY2024 margin 12.1%, FY2025 11.6%). pat = PAT as labelled. No combined undertaking-level P&L (Anchemco business + the three JV investments) is given anywhere in the pages; the JVs are separate equity holdings reported individually (Dana Anand, Henkel Anand, ACYM) and are not consolidated into the undertaking's revenue/EBITDA/PAT. Note: the documents' column headings '2023 / 2024 / 2025' are fiscal years ended March.
+**Automotive Undertaking of Asia Investments Private Limited (demerged into Gabriel India) — the pages carry no combined P&L for the Undertaking itself; figures below are its largest named constituent, Dana Anand / Dana India Pvt Ltd (JV: Dana World Trade Corp USA 74.9%, GIL/AIPL 25.1%)** · unit ₹ crore · Entity-level (not segment) standalone-company financials of Dana Anand as presented by Gabriel: 'Revenue from Operations' (external, company revenue), operating profit line is EBITDA as the company reports it, and PAT is net profit. Column headings are calendar-style years (2023/2024/2025/2026) in a presentation dated July 2026, read as fiscal years ended March. Other constituents of the Undertaking are disclosed separately in the same deck and are NOT included here: Henkel Anand (FY2024 rev 805, EBITDA 176, PAT 121; FY2025 890/227/161; FY2026 956/205/142 — Presentation Jul 2026 page 22), Anand CY Myutec (FY2024 172/20/11; FY2025 204/25/12; FY2026 235/24/7 — Presentation Jul 2026 page 23), and Anchemco India (FY2024 311/38/18; FY2025 329/38/14 — Presentation Jun 2025 page 16, proforma consolidated).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ crore) | 311 | 329 | — |
-| Revenue growth (%) | — | +5.8% | — |
-| Operating profit (₹ crore) | 38.0 | 38.0 | — |
-| Operating profit growth (%) | — | +0.0% | — |
-| Operating margin (%) | 12.2 | 11.6 | — |
-| PAT (₹ crore) | 18.0 | 14.0 | — |
-| PAT growth (%) | — | -22.2% | — |
+| Revenue (₹ crore) | 2,590 | 2,670 | 2,987 |
+| Revenue growth (%) | — | +3.1% | +11.9% |
+| Operating profit (₹ crore) | 402 | 428 | 481 |
+| Operating profit growth (%) | — | +6.5% | +12.4% |
+| Operating margin (%) | 15.5 | 16.0 | 16.1 |
+| PAT (₹ crore) | 319 | 319 | 352 |
+| PAT growth (%) | — | +0.0% | +10.3% |
 
-*Sources:* Presentation Jun 2025 — page 16
+*Sources:* Presentation Jul 2026 — page 21
 
-*Not in the pages read:* No FY2026 Anchemco figures, no quarterly/half-year figures for the undertaking, and no combined undertaking P&L including the Dana Anand, Henkel Anand and ACYM investments.
+*Not in the pages read:* No combined revenue/EBITDA/PAT for AIPL's Automotive Undertaking as a whole, and no quarterly figures for it or any constituent; Q1 FY27 data shown is post-merger Gabriel only.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/58a2e8cd-b465-4227-9659-5c3a871e7f8f.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/6d1392a1-7396-4f6f-854b-ba628b36a429.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aac302c-9677-459c-b47b-6089c42a949b.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5ce09434-9e16-4d59-a69b-cb73206f465c.pdf); [Presentation May 2026](https://www.anandgroupindia.com/wp-content/uploads/2026/05/Q4-FY26-Investor-Presentation.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7492e28e-761c-45a7-8ef1-476912ec9f26.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1c1b3ed4-448e-4609-9983-d45ccfde9471.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=708f4098-9990-474b-9151-b5a1b08345a4.pdf); [Presentation Jun 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dfddf5f7-991f-4c43-9790-dc8680b35dc9.pdf)
 
@@ -4012,7 +4915,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 148 cr (Mar 2026) = 0.01× market cap; P/E 82.2 on Mar 2026 profit vs industry median 40.7 (35 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 125 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 126 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 2 mention(s) in the last 12 months of calls — “…e to update you all that the composite scheme involving the amalgamation of Anchemco India Private Limited into Asia Investment Private Limited followed by the demerger of automotive undertaking into Gabriel India has n” |
 
 **On the calls (last 12 months):**
@@ -4162,7 +5065,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 245 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 246 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 6 mention(s) in the last 12 months of calls — “…e land transfer from SKF India to SKF India (Industrial ) Limited. That was a total of around INR1.8 billion in the last quarter. In this quarter, we again had demerger -related IT costs, primarily that, totalling up to” |
 
 **On the calls (last 12 months):**
@@ -4178,6 +5081,119 @@ xychart-beta
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-02-09 | Updates | We hereby inform you that pursuant to the Order passed by the Hon ble National Company Law Tribunal ( NCLT ) dated September 26, 2025 sanctioning the Scheme of  | [pdf](https://nsearchives.nseindia.com/corporate/SKFINDUS25_09022026164721_NSE.pdf) |
+
+</details>
+
+## AEGISLOG — Aegis Logistics Ltd.
+
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.5/10 · spin-off · 1 filing(s) from NSE-deep · first 2026-03-26, latest 2026-03-26
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** 36,000 MT specialized Ammonia storage terminal at Pipavav Port, transferred via slump sale to step-down subsidiary ATPL — class `regulatory_strategic`.
+
+- *Insiders:* Not stated for promoters; buyer ATPL is a step-down subsidiary and AVTL an associate company of the Company; no change in the Company's shareholding pattern.
+- *What it reveals:* Newly commissioned (August 10, 2026) ammonia terminal valued at INR 525 crores in an arm's-length intra-group sale; earlier 51% HALPG stake (2.49% of turnover, 10.07% of net worth) fetched INR 701.60 crores.
+- *Selling pressure:* unlikely — No shares distributed to shareholders; cash consideration with "No change in the shareholding pattern of the Company."
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* The Business Transfer Agreement and arm's-length valuation behind the INR 525 crore consideration; EGM notice on Rs 6,000 crore fund raise.
+- *In their words:* “The Transfer of storage terminal for Ammonia to ATPL will consolidate the terminalling services under the Group, enabling operational synergy.”
+
+### Why the demerger — three years of calls and the scheme
+
+The supplied texts do not describe a separation/demerger of a business out of Aegis Logistics Ltd. (AEGISLOG, BSE 500003); they describe two intra-group transfers that consolidate storage/terminalling assets into the Group's terminalling vehicles. First, the scheme rationale section covers the transfer of an Ammonia storage terminal from Aegis Logistics Ltd. (ALL — described as engaged in developing, owning and operating a network of shore-based tank farm installations in India providing logistics solutions for oil, gas, chemicals and petrochemical industries) to ATPL, whose primary business is 'Storage, terminalling facilities of Oil, chemicals and petroleum products.' Management's stated reasoning is threefold: the Ammonia terminal strengthens the Group's position in specialized chemicals and gas logistics and supplies critical infrastructure for growing demand from the fertilizer, industrial and emerging clean-energy value chains; moving it to ATPL consolidates terminalling services under the Group and enables operational synergy; and it can create a new growth platform by leveraging Group expertise in sourcing, logistics and distribution while expanding into a strategically important product segment. The transfer is for cash consideration, is a related-party transaction done at arm's length, and causes no change in the listed company's shareholding pattern. Second, a Board intimation dated October 29, 2025 approves (subject to shareholder approval) the sale by wholly owned subsidiary Aegis Gas (LPG) Private Limited (AGPL) of 51% — 6,21,146 equity shares of INR 10 each — in Hindustan Aegis LPG Limited (HALPG) to associate company Aegis Vopak Terminal Limited (AVTL) for INR 7,01,60,71,920, after which HALPG ceases to be AGPL's subsidiary and the Company's step-down subsidiary; HALPG contributed FY25 turnover of INR 1,68,13,01,000 (2.49%) and net worth of INR 4,47,24,05,330 (10.07%), and completion is set for on or before January 15, 2026. No rationale at all is given in the provided text for the HALPG stake sale beyond the disclosure mechanics, and no investor, lender or partner is named as having asked for either step.
+
+**How it evolved:** No earnings call passages were supplied — the 'CALL PASSAGES' section of the prompt is empty, so there are no call labels or call dates from which to trace how the idea surfaced or changed. The only dated item in the texts is the October 29, 2025 Board meeting (held 11:21 a.m. to 11:48 a.m.) approving the HALPG 51% sale to AVTL, with completion targeted on or before January 15, 2026. The scheme rationale extract is undated and truncated (it begins mid-sentence at disclosure point (j)/(k)), so the sequencing between the Ammonia terminal transfer and the HALPG sale cannot be established from these texts.
+
+**What management expects from it:** Only for the Ammonia terminal transfer: ATPL gains consolidated terminalling operations and operational synergy; the Group gains a stronger position in specialized chemicals/gas logistics, critical fertilizer, industrial and clean-energy infrastructure, and a new growth platform in a strategically important segment. ALL receives cash, unchanged shareholding. No margin, capital-allocation or valuation expectations are stated anywhere; none given for HALPG/AVTL.
+
+**Point by point, with the source:**
+
+- *Scheme* — The stated strategic logic for the Ammonia terminal transfer is positioning in specialized chemicals and gas logistics, serving fertilizer, industrial and emerging clean-energy demand. “The storage terminal for Ammonia strengthens Group’s position in the specialized chemicals and gas logistics sector and provides critical infrastructure to support the growing demand from the fertilizer, industrial and emerging clean energy value chains.”
+- *Scheme* — The operational reason given is consolidation of all terminalling services under one Group entity (ATPL) to capture synergy. “The Transfer of storage terminal for Ammonia to ATPL will consolidate the terminalling services under the Group, enabling operational synergy.”
+- *Scheme* — Management frames Ammonia as a new growth platform built on existing sourcing, logistics and distribution capability, not merely an asset reshuffle. “It has the potential to create a new growth platform for Group by leveraging the expertise in sourcing, logistics and distribution, while expanding the Group’s presence into a strategically important product segment.”
+- *Scheme* — The receiving entity ATPL is defined as a pure storage/terminalling business, versus ALL's broader shore-based tank farm network for oil, gas, chemicals and petrochemicals. “The primary business of ATPL is Storage, terminalling facilities of Oil, chemicals and petroleum products.”
+- *Scheme* — Consideration is cash, and the listed entity's shareholder base is unaffected — i.e. no demerger shares are issued to AEGISLOG shareholders. “No change in the shareholding pattern of the Company.”
+- *Scheme* — Board intimation of October 29, 2025: AGPL sells 51% (6,21,146 shares of INR 10 each) of HALPG to associate AVTL for INR 7,01,60,71,920, deconsolidating HALPG from the Company. “Pursuant to the completion of this transaction, HALPG will cease as the subsidiary of AGPL and step-down subsidiary of the Company.”
+- *Scheme* — Materiality disclosed for HALPG as of March 31, 2025: turnover INR 1,68,13,01,000 (2.49% of the Company) and net worth INR 4,47,24,05,330 (10.07%); no sale agreement was executed because the parties are within the Aegis Group. “No agreement for sale has been entered into as the Companies involved are part of Aegis Group Structure.”
+- *Scheme* — The HALPG transaction is acknowledged as a related-party transaction at arm's length, is outside any scheme of arrangement, and is not a slump sale. “Yes, transaction between AGPL and AVTL falls under related party transaction and is done on arms length basis.”
+- *Scheme* — Timetable: the HALPG stake sale is to close by mid-January 2026, subject to shareholders' approval. “The transaction will be completed on or before 15th January, 2026.”
+
+*Not explained on the calls:* No earnings call passages were provided. Texts omit any rationale for the HALPG 51% sale, ATPL's full name, valuation basis, capital, margin, debt, leverage or valuation effects, and who requested the restructuring.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 7,046 | 6,764 | 8,333 |
+| Sales growth (%) | -18.3% | -4.0% | +23.2% |
+| Operating profit (₹ cr) | 923 | 1,098 | 1,452 |
+| Operating profit growth (%) | +37.4% | +19.0% | +32.2% |
+| Operating margin (%) | 13.1 | 16.2 | 17.4 |
+| PAT (₹ cr) | 672 | 787 | 1,107 |
+| PAT growth (%) | +31.5% | +17.1% | +40.7% |
+| PAT margin (%) | 9.5 | 11.6 | 13.3 |
+| EPS (₹) | 16.2 | 18.9 | 25.6 |
+
+*Source: ProfitStatement/NiftyTotalMarket/AEGISLOG.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [7046, 6764, 8333]
+    bar [923, 1098, 1452]
+    bar [672, 787, 1107]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [13.1, 16.2, 17.4]
+    line [9.5, 11.6, 13.3]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 51.7 — live market file (screener.in), trailing (price ₹1,281.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 656 | 558 | 2,028 |
+| Cash from investing (₹ cr) | -712 | -1,463 | -2,533 |
+| Cash from financing (₹ cr) | 256 | 1,283 | 1,606 |
+| Net cash flow (₹ cr) | 200 | 378 | 1,101 |
+| Free cash flow (₹ cr) | 42.0 | -386 | 1,212 |
+
+*Source: CashFlow/NiftyTotalMarket/AEGISLOG.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 12 presentation(s) on file) do not carry this business's own revenue or profit: No standalone revenue, EBITDA/EBIT or PAT for AVTL, HALPG, AGPL, the Pipavav specialized storage or 36,000 MT ammonia terminal. Pages disclose only Liquid and Gas Terminal Division segments plus capacity/commissioning dates.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/f5fba98c-ac6c-449d-ae61-6399e84b41dc.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d83c9c0d-6933-48dc-b76b-4372a940e8a4.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/6afcd465-a751-44f6-8136-a57303a96b13.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1e4aab73-75ac-412f-86b9-99e186c722ca.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d49bc953-4ed0-4a72-9a0d-085525fe2916.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=595c3a8b-4f39-471b-9655-4d3033aa7286.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d67e3f51-6869-44fc-980f-5416d7375772.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1e02fd9e-15bd-4798-8568-4565a9d2b17b.pdf); [Presentation Jun 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=363280d4-eece-404c-aafe-698e1d2f203a.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 4,150 cr (Mar 2026) = 0.09× market cap; P/E 40.6 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 201 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-03-26 | Outcome of Board Meeting | March 26, 2026 To, The Secretary, Market Operations Department, The BSE Ltd. Phiroze Jeejeebhoy Towers, Dalal Street, Fort, Mumbai – 400 001. Capital Market Ope | [pdf](https://nsearchives.nseindia.com/corporate/AEGISCHEM_26032026182718_ALL_OUTCOME_26032026_Signed.pdf) |
 
 </details>
 
@@ -4293,7 +5309,7 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 2,290 cr (Mar 2026) = 0.05× market cap; P/E 83.6 on Mar 2026 profit vs industry median 35.0 (22 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 94 days since the first filing, stage exchange_noc |
+| Timing (first year sells, second year gains) | partly | not yet listed — 95 days since the first filing, stage exchange_noc |
 
 <details><summary>The filings</summary>
 
@@ -4407,7 +5423,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 159 cr (Mar 2026) = 0.02× market cap; P/E 29.4 on Mar 2026 profit vs industry median 24.2 (25 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 126 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 127 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -4519,7 +5535,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 2,518 cr (Mar 2026) = 0.03× market cap; P/E 110.3 on Mar 2026 profit vs industry median 52.6 (45 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 188 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 189 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -4656,7 +5672,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 362 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 363 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 6 mention(s) in the last 12 months of calls — “…Mandlesha from Anand Rathi Institutional Equities. Mumuksh Mandlesha : Thank you. Sir for the opportunity , firstly, on the cost side. In Q4, how much was the demerger - related impact in the other expenses? And going a” |
 
 **On the calls (last 12 months):**
@@ -4789,7 +5805,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | not yet listed — 145 days since the first filing, stage effective |
+| Timing (first year sells, second year gains) | partly | not yet listed — 146 days since the first filing, stage effective |
 | Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…Komandur: Yes. I just want to give you a perspective of this $400 million. This $400 million is there for the last 2 to 3 years, right? And post that, we had a demerger of our soft -gel business. That's number one. But ” |
 
 **On the calls (last 12 months):**
@@ -4807,13 +5823,13 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 
 ## JKPAPER — JK Paper Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 1.7/10 · spin-off · 3 filing(s) from NSE · first 2025-11-02, latest 2026-03-20
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 1.7/10 · spin-off · 4 filing(s) from NSE · first 2025-11-02, latest 2026-03-20
 
 > **Listing:** NOT YET — scheme at 'nclt_sanction' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
 
 **The stages, as filed:** nclt_sanction (2026-02-03)
 
-**Stated in the filings:** demerged undertaking: of Enviro Tech Ventures Limited into PSV Agro Products Private.
+**Stated in the filings:** demerged undertaking: of Enviro Tech Ventures Limited into PSV Agro Products Private; appointed date 2024-04-01.
 
 **What is being separated, as the documents put it:** The 'Demerged Undertaking' of Enviro Tech Ventures Ltd transferred to PSV Agro Products Pvt Ltd; its business is not described — class `regulatory_strategic`.
 
@@ -4929,7 +5945,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 344 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 345 days since the first filing, stage nclt_sanction |
 
 <details><summary>The filings</summary>
 
@@ -4937,13 +5953,14 @@ xychart-beta
 |---|---|---|---|
 | 2025-11-02 | General Updates | JK Paper Limited has informed the Exchange about Update on the Meetings of Equity Shareholders, Secured Creditors (including Non-Convertible Debentures) and Uns | [pdf](https://nsearchives.nseindia.com/corporate/JKPAPER_02112025191154_STX_Proceedings_2025_NCLT_Meetings.pdf) |
 | 2026-02-03 | Scheme of Arrangement | JK Paper Limited has informed the Exchange about Order of Hon'ble National Company Law Tribunal, Ahmedabad Bench dated 3rd February 2026 sanctioning the Scheme. | [pdf](https://nsearchives.nseindia.com/corporate/JKPAPER_03022026170402_STX_Order_scheme_Update.pdf) |
+| 2026-03-15 | Scheme of Arrangement | JK Paper Limited has informed the Exchange about Effectiveness of Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/JKPAPER_15032026112113_STX_Scheme_Effectiveness_15032026.pdf) |
 | 2026-03-20 | Allotment of Securities | JK Paper Limited has informed the Exchange regarding allotment of 1,19,16,427 equity shares pursuant to Scheme of Arrangement/Amalgamation at its meeting held o | [pdf](https://nsearchives.nseindia.com/corporate/JKPAPER_20032026163711_STX_intimation_allotment_20032026.pdf) |
 
 </details>
 
 ## SUNTECK — Sunteck Realty Ltd.
 
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 1.7/10 · spin-off · 4 filing(s) from BSE-screener, NSE · first 2026-10-01, latest 2026-10-01
+**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 1.7/10 · spin-off · 5 filing(s) from BSE-screener, NSE, NSE-deep · first 2026-10-01, latest 2026-10-01
 
 > **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Per the 1st October, 2026 disclosure: "The equity shares of the Resulting Company are already listed on the Stock Exchanges. There is no requirement of any new listing of shares as there is no consideration involved in the Scheme."
 
@@ -5062,13 +6079,14 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 11 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 12 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-10-01 | Board Meeting Outcome for Outcome Of Boa | Board approved demerger scheme with Satguru Corporate Services; EY appointed internal auditor till 31 March 2027. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/03d03a6a-631f-4802-bce5-25b5c8f80566.pdf) |
+| 2026-10-01 | Outcome of Board Meeting | Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing | [pdf](https://nsearchives.nseindia.com/corporate/SUNTECK_01102026201717_SRL.pdf) |
 | 2026-10-01 | Demerger | Sunteck Realty Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/SUNTECK_01102026202518_SRL.pdf) |
 | 2026-10-01 | Announcement under Regulation 30 (LODR)- | On 1 Oct 2026, board approved scheme of arrangement with Satguru Corporate Services and appointed EY as internal auditor. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3dd2c599-9d90-4988-a216-cab5441c90dd.pdf) |
 | 2026-10-01 | Announcement under Regulation 30 (LODR)- | Board approved scheme demerging Sunteck City 4th Avenue undertaking from Satguru into Sunteck, subject to approvals. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/da241c15-8b05-4df4-b056-3d11d6ed9a55.pdf) |
@@ -5207,7 +6225,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 125,497 cr (Mar 2026) = 0.23× market cap; P/E 28.6 on Mar 2026 profit vs industry median 24.9 (12 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 308 days since the first filing, stage meetings |
+| Timing (first year sells, second year gains) | partly | not yet listed — 309 days since the first filing, stage meetings |
 | Management discussing it on the calls | yes | 3 mention(s) in the last 12 months of calls — “…any initiated the transfer of its Realty business undertaking to L&T Realty Properties, a wholly -owned subsidiary, through a slump sale under an approved NCLT scheme of arrangement. In addition, the Realty business has” |
 
 **On the calls (last 12 months):**
@@ -5225,6 +6243,150 @@ xychart-beta
 | 2026-06-24 | Scheme of Arrangement | Larsen & Toubro Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/PAM_24062026190028_Reg3024062026signed1.pdf) |
 | 2026-08-04 | Shareholders meeting | Larsen & Toubro Limited has informed the Exchange regarding Proceedings of NCLT Convened Meeting held on August 04, 2026. Further, the company has submitted the | [pdf](https://nsearchives.nseindia.com/corporate/PAM_04082026194655_OutcomeNCLTConvenedMeeting04082026_1.pdf) |
 | 2026-08-04 | Scheme of Arrangement | Larsen & Toubro Limited has informed the Exchange about Scheme of Arrangement - Summary of Proceedings, Voting Results and Scrutinizer's Report of the NCLT conv | [pdf](https://nsearchives.nseindia.com/corporate/PAM_04082026195008_OutcomeNCLTConvenedMeeting04082026_1.pdf) |
+
+</details>
+
+## CYIENT — Cyient Ltd.
+
+**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.6/10 · partial spin-off / listing · 1 filing(s) from NSE-deep · first 2026-03-03, latest 2026-03-03
+
+> **Listing:** IPO / listing of the subsidiary in motion since 2026-03-03; date not fixed
+
+**What is being separated, as the documents put it:** Cyient Semiconductor — the semiconductor business, to be given an independent capital structure and value — class `value_unlocking`.
+
+- *Insiders:* not stated for the new entity; in the parent buyback, promoters, promoter group and persons in control declared their intention not to participate, so their stake rises
+- *What it reveals:* Management says significant value unlock is available in Cyient Semiconductor that the parent price does not reflect; separately Cyient is buying back 5.76% at INR 1,125 (INR 720 crore), and DLM's established value accrues to Cyient holders indirectly
+- *Selling pressure:* unclear — Documents describe raising capital to establish independent value, not a share distribution; no size, listing or index detail stated
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* The Cyient Semiconductor capital-raise disclosure: valuation, stake sold, and whether a listing or demerger scheme follows
+- *In their words:* “Now for Cyient Semiconductor, I think we want to establish an independent value because we believe there is a huge value unlock in Cyient Semiconductor.”
+
+### Why the demerger — three years of calls and the scheme
+
+The separation in question is the carve-out of Cyient's Semiconductor business (turnkey ASIC) out of the parent into a dedicated entity, Cyient Semiconductor — not a demerger of Cyient DLM, which management explicitly declined to separate further. Management's stated logic (July 25, 2024 call, tagged Aug 2024) was that Cyient already had a rare end-to-end semiconductor capability — it can "design these chips, ... fabricate these chips, test these chips, prototype these chips and sell these chips" by leveraging design, FAB, OSAT and testing — and that in a market shifting to analog/sensory-to-digital chips, this deserved a business that could "exclusively and dedicatedly focus on turnkey ASIC" rather than sit inside a services P&L. The explicit template was Cyient DLM: the opportunity was framed "along the lines with the value unlock of Cyient DLM," i.e. a separate structure with its own capital and its own independently established value. The Board approved the spin-off into a different entity (May 2025 call), a dedicated CEO was hired (Suman Narayan for Cyient Semiconductor; Sukamal Banerjee became CEO for the DET business), and by the Jul 2025 call the carve-out was "completed as planned," with the group moving to four reported segments — DET, Semiconductor (a separate subsidiary "with its own leaders, with its own management and with its own structure"), DLM and Others — and DET numbers restated to exclude Semiconductor so the core services business could be judged like-for-like. The problem being solved is structural mismatch: Semiconductor is to be "run as a start-up investment positioned for accelerated growth," which needs capital and risk tolerance that would otherwise dilute the parent's margin and growth optics. The demand side was cited as external pull — "significant interest in the business from our customers, our partners and investors" — with order intake in the first post-carve-out quarter exceeding budget by about 10%. By Apr 2026 the financing was explicitly bifurcated: a buyback at the Cyient level (the Board judging it the right time given capital requirements and where the share price "is and has been") versus a separate fundraise at Cyient Semiconductor to "establish an independent value," sized not large but enough to carry it to breakeven, expected towards the end of a period the transcript cuts off. In Jul 2026, asked by ChrysCapital for a clean DLM demerger, Krishna Bodanapu refused on operating grounds — DLM and Cyient are mutually dependent, engineering deals are won because of the manufacturing capability — confirming that separation is applied only where there is no such interdependence.
+
+**How it evolved:** The idea surfaced on the Aug 2024 (July 25, 2024) call as an intention to create a separate turnkey-ASIC business, pitched explicitly as a repeat of the Cyient DLM value unlock. The Feb 2025 call did not advance the separation — it was about internal sales/performance re-engineering (a new large-deal function, a performance framework rewarding revenue and margin growth, 13 large deals in Q3). By May 2025 Board approval for the spin-off was in hand and Suman Narayan was named CEO of Cyient Semiconductor alongside Sukamal Banerjee taking over DET; the Jul 2025 call declared the carve-out complete, introduced four-segment reporting with DET restated ex-Semiconductor, and reported order intake ~10% above budget. Apr 2026 moved it to the capital stage — a Cyient-level buyback alongside a separate Cyient Semiconductor fundraise to establish independent value and fund the path to breakeven — while Jul 2026 drew the boundary by ruling out a DLM demerger for now.
+
+**What management expects from it:** Cyient Semiconductor: a dedicated start-up entity with its own CEO, management and structure, accelerated growth in turnkey ASIC, its own fundraise to reach breakeven, and an independently established value — a 'huge value unlock' mirroring Cyient DLM. Cyient/DET: a clean like-for-like services P&L free of semiconductor investment drag, diversified across industries and geographies, with capital returned via the INR 720 crore buyback.
+
+**Point by point, with the source:**
+
+- *[Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed316a53-ed1f-43d1-a1da-9bfd34ba741f.pdf)* — First articulation of the separation: Cyient already has end-to-end turnkey ASIC capability (design, fabricate, test, prototype, sell) and wants a dedicated business for it, explicitly modelled on the Cyient DLM value unlock. “We already have this ability within Cyient to provide an end to end service offering for these turnkey chip design and now we believe that there is a significant opportunity along the lines with the value unlock of Cyient DLM to actually create a separate business that can exclusively and dedicatedly focus on turnkey ASIC .”
+- *[Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed316a53-ed1f-43d1-a1da-9bfd34ba741f.pdf)* — Differentiation argument for a standalone semiconductor entity: amid India's FAB and OSAT announcements, Cyient claims to be one of few players spanning design, FAB, OSAT and testing, serving chips that convert real-world analog/sensory signals to digital. “You may have also seen a number of announcements that have been made in the last couple of months on va rious elements of Cyient Limited July 25, 2024 Page 3 of 18 semiconductor, be it semiconductor FABs or semiconductor OSATs , but we believe that we are one of the few and unique companies that are able to provide an end to end solution by leveraging various capabilities including design FAB, OSAT, testing etc.”
+- *[Feb 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a27009a9-8bb7-4a12-818d-3ac6d0ed1a94.pdf)* — No separation update on this call; the structural change discussed was internal — a new dedicated large-deal function supporting sales leaders, plus a performance framework rewarding revenue and margin growth over status quo. “We now have a large steel team working supporting the current sales leaders and sales managers to construct a deal from what we were doing previously , especially as we move towards the selling of technology in a cons ultative model.”
+- *[Feb 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a27009a9-8bb7-4a12-818d-3ac6d0ed1a94.pdf)* — Management framed the gap as 'what we are selling' rather than portfolio structure — the market wanted more technology-driven solutions — and cited 13 large deals signed in Q3 as early evidence of the new discipline. “And the 13 large deals that we have signed in Q3 is also probably it is a little bit early to take it as a trend but also is a good reflection of the focus that we were able to bring into that discipline and to carve out larger deals than what we were doing before.”
+- *[May 2025](https://www.cyient.com/hubfs/2025/Investors/Financial%20Information/Q4/Q4_FY25_Earnings_Conference_Call_Transcript.pdf)* — Board approval obtained to spin off Semiconductor as a separate entity, with Suman Narayan appointed CEO of Cyient Semiconductor for his track record of scaling semiconductor organizations. “As you know, we got the permission or we got the approval from the Board to spin off the semiconductor business as a different entity.”
+- *[May 2025](https://www.cyient.com/hubfs/2025/Investors/Financial%20Information/Q4/Q4_FY25_Earnings_Conference_Call_Transcript.pdf)* — Parallel leadership separation on the core side: Sukamal Banerjee takes over as CEO with DET presented as a diversified platform not dependent on any single industry, geography or capability. “We are not dependent on any single industry, any single geography, any single capability.”
+- *[Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b58e7631-45d3-4ab1-ac4d-d6dd0ab69ac1.pdf)* — Carve-out declared complete as planned, with Semiconductor to be run as a start-up investment positioned for accelerated growth on the strength of IP, domain expertise, global talent and customer relationships. “Coming to the highlights for this quarter , It is my pleasure to announce that the Semiconductor business carve out process is completed as planned.”
+- *[Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b58e7631-45d3-4ab1-ac4d-d6dd0ab69ac1.pdf)* — Reporting consequence: four segments — DET, Semiconductor as a separate subsidiary with its own leadership and structure, DLM, and Others — with DET restated like-for-like excluding Semiconductor; Semiconductor order intake beat budget by ~10% and drew customer, partner and investor interest. “The focus of this call will remain the DET segment, and to that extent, all numbers for the DET segment are like -for-like to the previous period, which means that the numbers have been restated to exclude our Semiconductor business.”
+- *[Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f1ef641b-69c2-4bef-aeff-abf27149536d.pdf)* — Asked to reconcile a buyback with a simultaneous fundraise, Krishna Bodanapu separated the two: the buyback sits at Cyient (given its capital requirements and the share price level), while the fundraise sits at Cyient Semiconductor to establish an independent value and fund it to breakeven. “So the buyback is for Cyient. The fundraise is for Cyient Semiconductor.”
+- *[Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f1ef641b-69c2-4bef-aeff-abf27149536d.pdf)* — The explicit purpose of raising outside capital in the carved-out entity is price discovery on a value management believes is trapped — a modest raise sized to reach breakeven, timed toward the end of a period the transcript cuts off. “Now for Cyient Semiconductor, I think we want to establish an independent value because we believe there is a huge value unlock in Cyient Semiconductor.”
+- *Jul 2026* — Rajas Joshi of ChrysCapital pushed for a clean DLM demerger as a shareholder value unlock for the main Cyient entity — investor pressure for a second separation. “So, as things stand, DLM is a partly owned subsidiary for us and is there a plan for a clean demerger given how things have shaped up over the past few quarters now because that would help with regards to significant value unlock for shareholders in the main Cyient entity ?”
+- *Jul 2026* — Management declined a DLM demerger on operating-interdependence grounds: engineering deals are won on the back of DLM's manufacturing capability and vice versa, and a separate capital structure was already the intended route to value unlock. “Right now, we are still not considering that because there is quite a dependence between DLM and Cyient .”
+
+*Not explained on the calls:* No scheme rationale, swap ratio, shareholder entitlement, listing plan, semiconductor revenue/losses, fundraise size or valuation, breakeven date, or tax and related-party treatment.
+
+*Calls read (36 months):* [Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f1ef641b-69c2-4bef-aeff-abf27149536d.pdf), [Aug 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed316a53-ed1f-43d1-a1da-9bfd34ba741f.pdf), [Feb 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a27009a9-8bb7-4a12-818d-3ac6d0ed1a94.pdf), [Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b58e7631-45d3-4ab1-ac4d-d6dd0ab69ac1.pdf), Jul 2026, [May 2025](https://www.cyient.com/hubfs/2025/Investors/Financial%20Information/Q4/Q4_FY25_Earnings_Conference_Call_Transcript.pdf)
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 7,147 | 7,360 | 7,268 |
+| Sales growth (%) | +18.8% | +3.0% | -1.2% |
+| Operating profit (₹ cr) | 1,303 | 1,138 | 899 |
+| Operating profit growth (%) | +29.9% | -12.7% | -21.0% |
+| Operating margin (%) | 18.2 | 15.5 | 12.4 |
+| PAT (₹ cr) | 703 | 648 | 463 |
+| PAT growth (%) | +36.8% | -7.8% | -28.5% |
+| PAT margin (%) | 9.8 | 8.8 | 6.4 |
+| EPS (₹) | 61.6 | 55.5 | 38.5 |
+
+*Source: ProfitStatement/NiftyTotalMarket/CYIENT.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [7147, 7360, 7268]
+    bar [1303, 1138, 899]
+    bar [703, 648, 463]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [18.2, 15.5, 12.4]
+    line [9.8, 8.8, 6.4]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 23.1 — live market file (screener.in), trailing (price ₹848.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 726 | 790 | 787 |
+| Cash from investing (₹ cr) | -537 | -134 | 158 |
+| Cash from financing (₹ cr) | -266 | -58.0 | -569 |
+| Net cash flow (₹ cr) | -77.0 | 598 | 376 |
+| Free cash flow (₹ cr) | 648 | 688 | 693 |
+
+*Source: CashFlow/NiftyTotalMarket/CYIENT.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+**Semiconductors (Cyient Semiconductors Private Limited and its subsidiaries; labelled "Cyient Semiconductor" in investor presentations)** · unit ₹ million · Annual profit line is 'Segment results' per Ind AS 108 — a pre-tax, pre-finance-cost EBIT-type measure (revenue less employee benefits, materials, depreciation/amortisation and other expenses, plus allocable other income). Annual revenue is 'Revenue from contracts with customers' as reported per segment, i.e. before the inter-segment elimination, which the Group shows only at total level (₹748 Mn in FY26, ₹110 Mn in FY25) and does not allocate by segment. Segment became a separate reportable segment effective April 1, 2025; FY2025 is the re-presented comparative. No segment-level PAT is disclosed in the annual reports. For the latest quarter the presentation gives EBITDA, EBIT and PAT for the Semiconductor business: Q1FY27 EBITDA -176, EBIT -284 (operating_profit below = EBIT), PAT -362 (PAT after MI and share of associate -342).
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ million) | — | 3,008 | 2,283 |
+| Revenue growth (%) | — | — | -24.1% |
+| Operating profit (₹ million) | — | 468 | -1,078 |
+| Operating profit growth (%) | — | — | -330.3% |
+| Operating margin (%) | — | 15.6 | -47.2 |
+| PAT (₹ million) | — | — | — |
+| PAT growth (%) | — | — | — |
+
+*Sources:* Not disclosed — semiconductor business was reported within the DET segment in FY2024 (Annual Report 2024 — pages 399, 400; Annual Report 2026 — page 403); Annual Report 2026 — page 405; Annual Report 2026 — page 404
+
+*Latest quarter (Q1 FY27):* revenue 1697, operating profit -284 — Presentation Jul 2026 — page 25
+
+*Not in the pages read:* No segment PAT, assets-only capital employed aside, for FY25/FY26; no FY2024 semiconductor figures (then inside DET); no standalone semiconductor balance sheet, cash flow or geography split.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/4aba8880-795f-4d0e-996a-db2b186e5b71.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/3733c731-3f21-4ee2-9652-f58c88c3fc8f.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/2958fd40-2356-4972-901e-27c551df63b6.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38e6f110-5627-428f-b3dd-f3144c103907.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3bc91597-22ed-44e5-891c-a326419f3b68.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0901e693-da5c-454f-a85a-dbb4895aded8.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=62da7ef8-93ba-4c88-bbc6-0a866ba92de0.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=75529bc5-14f7-4e32-9ce4-e140b8cc3a2b.pdf); [Presentation Oct 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de9b5c50-e779-4afc-9c57-fe5084be007d.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | a weak or capital-heavy business carved away — “…on Technology and Engineering. With a bias towards working in high performance global teams, execution of turnaround scenarios and custodianship of sustainable business performance. E xpertise across multiple industry s” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 431 cr (Mar 2026) = 0.05× market cap; P/E 20.3 on Mar 2026 profit vs industry median 26.3 (25 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 224 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 5 mention(s) in the last 12 months of calls — “…differentiator compared to anybody else in the market. So we believe that the intent of establishing its own capital structure was to provide an avenue towards value unlock. So obviously that value has been established ” |
+
+**On the calls (last 12 months):**
+
+- *Apr 2026* (forward) — “…s for Cyient Semiconductor. I think it's a good opportunity for us to establish the value of Cyient Semiconductor because we believe that there's a significant value unlock tha t is available. So these are two disconnected actions in the sense that the buyback is really - because in Cyient, looking at our capital requirements, lo…”
+- *Apr 2026* (forward) — “…elt that it was a good time to do a buyback. Now for Cyient Semiconductor, I think we want to establish an independent value because we believe there is a huge value unlock in Cyient Semiconductor. That's why we're going to raise , again, it doesn't need a huge amount of money, but we're going to raise the money that Cyient Semico…”
+- *Jul 2026* (forward) — “…portunity. I had a question regarding our current group structure. So, as things stand, DLM is a partly owned subsidiary for us and is there a plan for a clean demerger given how things have shaped up over the past few quarters now because that would help with regards to significant value unlock for shareholders in the main Cy…”
+- *Jul 2026* (forward) — “…us and is there a plan for a clean demerger given how things have shaped up over the past few quarters now because that would help with regards to significant value unlock for shareholders in the main Cyient entity ? Krishna Bodanapu : Right now, we are still not considering that because there is quite a dependence between DLM an…”
+- *Jul 2026* (forward) — “…differentiator compared to anybody else in the market. So we believe that the intent of establishing its own capital structure was to provide an avenue towards value unlock. So obviously that value has been established a nd that value is available to the Cyient shareholders, of course indirectly, and will continue with this struct…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-03-03 | Outcome of Board Meeting | Outcome of Board Meeting | [pdf](https://nsearchives.nseindia.com/corporate/CYIENT_03032026212031_ChangeinManagementSigned.pdf) |
 
 </details>
 
@@ -5334,7 +6496,7 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 3,833 cr (Mar 2026) = 0.27× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 119 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 120 days since the first filing, stage announced |
 | Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…losure Requirements) Regulations, 2015, transcript of the Investors & Analysts Conference Call held on January 6, 2026, w.r.t. announcement of merger through a Scheme of Arrangement involving Sapphire Foods India Limite” |
 
 **On the calls (last 12 months):**
@@ -5346,151 +6508,6 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-06-15 | Scheme of Arrangement | Devyani International Limited has informed the Exchange about update on Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/DEVYANI_15062026174347_SE_Intimation_-_ObserationLetter_merged_DSC.pdf) |
-
-</details>
-
-## UPL — UPL Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.4/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2026-01-19, latest 2026-03-04
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-01-19; date not fixed — Press release dated February 20, 2026: "The transaction is expected to be completed within 12–15 months, subject to the timely receipt of regulatory and other required approvals"; BSE "no adverse observations" and NSE "No Objection" letters dated July 29, 2026; "Subsequently, UPL 2 will be listed on Indian stock exchanges pursuant to the Scheme"
-
-**The stages, as filed:** announced (2026-03-04)
-
-**What is being separated, as the documents put it:** UPL's India and international crop protection businesses, combined into a single listed pure-play crop protection platform — class `value_unlocking`.
-
-- *Insiders:* Promoters go 100% to 71.56% of UPL 2; UPL 2 Promoters (Shroff family, UPL Corp Mauritius, etc.) voluntarily locked for eighteen months from Listing Date; Mike Frank CEO of UPL Global
-- *What it reveals:* The spin holds the bulk of earnings: UPL Cayman turnover USD 4,187 Mn vs UPL 1's INR 53,313 Mn, demerged India undertaking 31.15% of turnover; "world's second largest listed pure-play crop protection platform", 140+ countries. Parent keeps diversified residual; scheme drives deleveraging
-- *Selling pressure:* likely — 1 for every 1 entitlement puts UPL 2 shares with every UPL holder at a fresh listing; promoter lock-in leaves only 28.44% public float
-- *Parent or spin:* spin · *option pricing date:* not stated
-- *Read next:* Scheme/abridged prospectus for UPL 2: assets and liabilities transferred, debt allocation, and 3-year revenue, EBITDA, PAT
-- *In their words:* “Bringing our crop protection businesses under one platform creates the world's second largest listed pure-play crop protection platform.”
-
-### Why the demerger — three years of calls and the scheme
-
-Management frames the separation as two linked moves to unwind a conglomerate structure in which crop protection and seeds compete for the same capital. On the Feb 2, 2026 call, Toshan Tamhane gave three objectives for the Advanta (seeds) IPO: (a) deleveraging of UPL Ltd's balance sheet, (b) value unlock for KKR, which put in a cheque of '$300-plus million' into Advanta more than three years earlier, and (c) the argument that 'the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business,' citing Corteva's own announced split of crop protection and seeds as validation, and describing Advanta as the eighth largest seeds player globally with 'a journey and destiny of its own.' Bikash Prasad stressed the Advanta listing is an offer for sale, not a primary raise — Advanta is cash-surplus and does not need the money — with proceeds going to the group 'largely for deleveraging of the group balance sheet,' and valuation to be set by a book-building price discovery process under applicable law. The separately filed Scheme (board-approved February 20, 2026) then consolidates the India crop protection business held in UPL SAS (UPL holds 90.91%) and the international crop protection business held via UPL Corp / UPL Cayman (UPL holds 77.78%) into UPL Global ('UPL 2'), to be listed — billed as the 'World's Second Largest Listed Pure-Play Crop Protection Platform' — via amalgamation of UPL SAS into UPL, a vertical demerger of India crop protection into UPL Global, and amalgamation of UPL Corp into UPL Global, with no cash consideration. The stated problems it solves: a complicated group structure with misaligned shareholder interests across layered subsidiaries, blurred value discovery for investors, constrained independent capital-raising, and split managerial and board focus; the demerged India crop protection undertaking was INR 24,120 Mn of turnover in FY25, 31.15% of combined UPL 1 turnover. Ratios: 1,000 UPL 1 shares (INR 2) for every 48 UPL SAS shares (INR 10); 1,000 UPL 2 shares for every 213 UPL Cayman shares (USD 1); and 1:1 UPL 2 for UPL 1 on the demerger, leaving UPL 1 promoters at 33.09% (from 33.51%) and UPL 2 at 71.56% promoter / 28.44% public. On the call an analyst (Tarang) pushed back hard that deleveraging and an exit for an external shareholder make sense but value creation for a UPL minority shareholder does not, given how the entities are stacked — a challenge management did not rebut.
-
-**How it evolved:** The passages supplied are all tagged [Feb 2026], so the three-year arc is not visible in them; within that window the sequence is a Q3 FY26 earnings call where the Advanta seeds IPO was raised only in Q&A, under analyst questioning, and was defended as an offer for sale for group deleveraging plus a KKR exit, with the crop-protection-versus-seeds capital allocation logic offered last ('And lastly, third...'). Management there pointed outward to Corteva's announced crop protection/seeds split rather than to a UPL plan of its own, and declined to discuss Advanta's valuation beyond saying the Board would assess market conditions at the time. Weeks later, on February 20, 2026, the Board formalised the far larger step in a composite scheme of arrangement creating a separately listed pure-play crop protection entity (UPL Global), where the rationale shifts from deleveraging and partner exit to structural simplification, clearer value discovery and independent capital raising. So the idea moves from a cash-raising/partner-exit transaction at the seeds subsidiary to a full two-listed-entity reorganisation of the parent.
-
-**What management expects from it:** For UPL 1: a diversified agri and specialty chemicals platform incubating new verticals, de-levered by Advanta IPO proceeds. For UPL 2/UPL Global: a pure-play, independently managed crop protection platform with research, manufacturing and market-access synergies, cost efficiencies, its own optimised capital structure, and a wider base of investors, strategic partners and lenders. Across both: clearer value discovery, sharper board focus, sustainable growth.
-
-**Point by point, with the source:**
-
-- *Feb 2026* — An analyst challenged the premise of the Advanta listing, noting the seeds business is cash-surplus and does not need capital, asking who the value is actually unlocked for. “I'm just trying to understand that it's a business which is cash surplus. It's a business that has been doing exceedingly well. The entity doesn't need cash. So what's the thought process behind listing the entity given the structure of the entity, given the structure of the holding, so to say?”
-- *Feb 2026* — CFO Bikash Prasad confirmed the Advanta IPO is secondary, not a primary raise — no new money into Advanta. “So this transaction is offer for sale. It's not a primary transaction.”
-- *Feb 2026* — Proceeds are earmarked for the group's balance sheet rather than business investment. “he group largely for deleveraging of the group balance sheet.”
-- *Feb 2026* — Asked whether it is essentially deleveraging plus an exit for external shareholders, management conceded that is how it looks as of now, subject to market conditions and a final Board assessment. “But yes, largely, we can say as we think now, it looks like more for deleveraging.”
-- *Feb 2026* — Toshan Tamhane set out three objectives, the first two being UPL deleveraging and value unlock for KKR, which invested over $300 million into Advanta more than three years earlier. “There is b ) value unlock for KKR. If you recollect KKR partnered with Advanta more than 3 years back when they put in a check of $300 -plus million into Advanta.”
-- *Feb 2026* — The third objective is the structural argument: seeds and crop protection have fundamentally different cash flow and capital allocation needs. “And lastly, third, we believe that the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business.”
-- *Feb 2026* — Management cited Corteva's announced crop protection/seeds split as external validation and positioned Advanta as the eighth largest global seeds player deserving its own path. “As you would have seen globally, Corteva has also announced a split between crop protection and seeds because just those two businesses are fundamentally different, and we believe Advanta as the eighth largest seeds player globally has a journey and destiny of its own.”
-- *Feb 2026* — Management said the unlocked value reaches UPL both as shareholder and through restructuring/deleveraging, with price discovery happening via the IPO. “And that value does flow through to UPL, both as a shareholder and from a restructuring deleveraging standpoint.”
-- *Feb 2026* — The analyst's unresolved objection: the logic works for deleveraging and for the external shareholder's exit, but not evidently for a UPL minority holder given the holding structure; management did not quantify a rebuttal. “But from being a shareholder at UPL, given the structure of how these entities are placed, I'm not too sure how much of value creation will it help for a shareholder of UPL .”
-- *Scheme* — The Scheme consolidates the India crop protection business in UPL SAS and the global crop protection business in UPL Cayman into one focused, pure-play platform with independent management. “The Scheme proposes to consolidate  the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure-play crop protection platform.”
-- *Scheme* — Two listed entities result: UPL 1 as a diversified agriculture and specialty chemicals platform that also incubates new verticals, and UPL 2 as a dedicated crop protection platform, so investors can self-select by strategy and risk profile. “This will enable clearer value discovery by providing flexibility to the investors to select investments which best suit their investment strategies and risk profile.”
-- *Scheme* — Each entity gains independent access to capital and can optimise its own capital structure, aligning capital allocation to focused strategies. “The Scheme will allow UPL 1 and UPL 2 to raise capital independently, allowing each entity to optimize its capital structure and pursue business opportunities more efficiently and effectively.”
-
-*Not explained on the calls:* No debt quantum or leverage target, no segment margins or synergy figures, no debt split between entities, no Advanta IPO size/valuation, timeline, tax or cost detail.
-
-*Calls read (36 months):* Feb 2026
-
-### The parent, last three fiscal years (consolidated)
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 43,098 | 46,637 | 51,839 |
-| Sales growth (%) | -19.6% | +8.2% | +11.2% |
-| Operating profit (₹ cr) | 4,297 | 7,128 | 9,078 |
-| Operating profit growth (%) | -57.9% | +65.9% | +27.4% |
-| Operating margin (%) | 10.0 | 15.3 | 17.5 |
-| PAT (₹ cr) | -1,878 | 820 | 2,220 |
-| PAT growth (%) | -142.5% | +143.7% | +170.7% |
-| PAT margin (%) | -4.4 | 1.8 | 4.3 |
-| EPS (₹) | -14.2 | 10.6 | 22.8 |
-
-*Source: ProfitStatement/NiftyTotalMarket/UPL.csv (consolidated, screener.in); growth and margins computed here.*
-
-```mermaid
-xychart-beta
-    title "Sales, operating profit and PAT (₹ cr)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "₹ crore"
-    bar [43098, 46637, 51839]
-    bar [4297, 7128, 9078]
-    bar [-1878, 820, 2220]
-```
-*Series in order: Sales, Operating profit, PAT.*
-
-```mermaid
-xychart-beta
-    title "Margins (%)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "%"
-    line [10, 15.3, 17.5]
-    line [-4.4, 1.8, 4.3]
-```
-*Series in order: Operating margin, PAT margin.*
-
-**P/E:** 28.3 — live market file (screener.in), trailing (price ₹604.00 as of 2026-08-02).
-
-**Cash flows (₹ cr):**
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Cash from operations (₹ cr) | 2,321 | 10,151 | 7,855 |
-| Cash from investing (₹ cr) | -2,509 | -1,823 | -1,475 |
-| Cash from financing (₹ cr) | 164 | -4,793 | -9,883 |
-| Net cash flow (₹ cr) | -24.0 | 3,535 | -3,503 |
-| Free cash flow (₹ cr) | 367 | 8,896 | 5,502 |
-
-*Source: CashFlow/NiftyTotalMarket/UPL.csv (consolidated, screener.in).*
-
-### The business being separated — its own numbers
-
-**UPL SAS (UPL Sustainable Agri Solutions) — India Crop Protection business, one of four "pure-play" platforms** · unit ₹ crore · Operating profit = EBITDA as reported in the platform-wise presentation disclosures (after SG&A, before depreciation/finance costs/tax); contribution margin also given (FY26 contribution ₹1,033 cr, FY25 ₹866 cr). Revenue is platform revenue on proforma adjustments, excludes group elimination and excludes 'Nurture'. No PAT/PBT line is disclosed for the platform.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ crore) | — | 3,229 | 3,212 |
-| Revenue growth (%) | — | — | -0.5% |
-| Operating profit (₹ crore) | — | 441 | 548 |
-| Operating profit growth (%) | — | — | +24.3% |
-| Operating margin (%) | — | 13.7 | 17.1 |
-| PAT (₹ crore) | — | — | — |
-| PAT growth (%) | — | — | — |
-
-*Sources:* not in pages provided; Presentation May 2026 — page 45
-
-*Latest quarter (Q1 FY27):* revenue 1140, operating profit 340 — Presentation Aug 2026 — page 24
-
-*Not in the pages read:* FY2024 platform figures; PAT/PBT for the platform at any period. Only legal-entity profit shares for UPL Sustainable Agri Solutions Ltd appear (FY24 147, FY25 263/206 restated, FY26 235) — different basis, not used.
-
-*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb12d677-50d7-4495-9f5f-1921ef482847.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/16ebc6c3-a363-4437-b10d-8e0dfedb9483.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ee29f18-2108-4736-a8f1-7e012f32ce56.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f0f3bf4-eb2a-4b8e-85a4-fa1b252aa4f1.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=423093cb-ab1a-4288-abdc-894653fabf37.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6bcd0819-5ddb-4516-a762-f7a1141762db.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f944762-33b2-41d9-9bc3-aab7d950cfc9.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=199792f5-db4d-43f8-bca8-9fc46e15e9b3.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a2270a-8a9a-4206-8333-bc732990299c.pdf)
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 23,576 cr (Mar 2026) = 0.46× market cap; P/E 23.0 on Mar 2026 profit vs industry median 36.0 (22 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 266 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 3 mention(s) in the last 12 months of calls — “…are fundamentally different, and we believe Advanta as the eighth largest seeds player globally has a journey and destiny of its own. Obviously, a lot of that value unlock finding the right price will happen through the” |
-
-**On the calls (last 12 months):**
-
-- *Feb 2026* (forward) — “…ing this decision to list the entity? Because as t hings stand today, it's a business which is cash surplus. It's doing exceedingly well. So if at all, there's value unlocking, how is value getting unlocked and for who is the value getting unlocked? Bikash Prasad: So I think as a first the valuation of Advanta is expected to be final…”
-- *Feb 2026* (forward) — “…I think the Advanta IPO has, as Bikash said, three objectives. Th ere is, a ) deleve raging for UPL. UPL Limited February 02, 202 6 Page 14 of 17 There is b ) value unlock for KKR. If you recollect KKR partnered with Advanta more than 3 years back when they put in a check of $300 -plus million into Advanta. By the way, the cash t…”
-- *Feb 2026* (forward) — “…are fundamentally different, and we believe Advanta as the eighth largest seeds player globally has a journey and destiny of its own. Obviously, a lot of that value unlock finding the right price will happen through the IPO process. And that value does flow through to UPL, both as a shareholder and from a restructuring deleveragi…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-01-19 | Updates | UPL Limited has informed the Exchange regarding 'Filing of Draft Red Herring Prospectus (DRHP) by Advanta Enterprises Limited, a Subsidiary of the Company.'. | [pdf](https://nsearchives.nseindia.com/corporate/UPL_19012026211323_UPL_Limited_SE_Intimation.pdf) |
-| 2026-03-04 | Updates | UPL Limited has informed the Exchange regarding 'Uploading of Composite Scheme of Arrangement and certain other documents on the website of the Company'. | [pdf](https://nsearchives.nseindia.com/corporate/UPL_04032026180016_FAQsintimation.pdf) |
 
 </details>
 
@@ -5615,7 +6632,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 271,005 cr (Mar 2026) = 0.80× market cap; P/E 12.2 on Mar 2026 profit vs industry median 31.1 (15 peers) |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 318 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 319 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…s, Mauritius. Some of the other key developments include business transfer agreement for transfer of coal mines from NTPC to NTPC Mining Limited was signed for hiving off coal mining business at an estimated value of ■1” |
 
 **On the calls (last 12 months):**
@@ -5630,69 +6647,62 @@ xychart-beta
 
 </details>
 
-## SAPPHIRE — Sapphire Foods India Ltd.
+## BAJAJ-AUTO — Bajaj Auto Ltd.
 
-**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.2/10 · scheme (nature unclear) · 1 filing(s) from NSE · first 2026-06-15, latest 2026-06-15
+**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2025-12-02, latest 2026-06-23
 
-> **Listing:** NOT YET — scheme at 'announced' stage; Devyani International Limited will list only after NCLT sanction, effectiveness and a record date; indicated timeline: Devyani described (August 26, 2026) as already 'a company listed on BSE Limited and the National Stock Exchange of India Limited'; Sapphire to be dissolved without winding up on effectiveness; exchange observation letters valid six months from June 12, 2026 to file with NCLT
+> **Listing:** IPO / listing of the subsidiary in motion since 2025-12-02; date not fixed
 
-**The stages, as filed:** announced (2026-06-15)
+**What is being separated, as the documents put it:** not stated — class `not stated`.
 
-**Stated in the filings:** resulting company **Devyani International Limited**.
-
-**What is being separated, as the documents put it:** Not a separation: all of Sapphire Foods' KFC/Pizza Hut QSR business amalgamated into Devyani International — class `regulatory_strategic`.
-
-- *Insiders:* SFML and other Sapphire promoters, including QSR Management Trust, to be reclassified in 'public category' of Devyani; RJ Corp remains Devyani's promoter
-- *What it reveals:* Swap 177 Devyani shares per 100 Sapphire; Sapphire net worth INR 13,269.93mn exceeds Devyani's 10,381.02mn on lower revenue (24,510.76mn vs 33,493.33mn), implying asset-heavy, less-levered Sapphire
-- *Selling pressure:* likely — Promoters reclassified as public in Devyani; SFML's terminated 18.5% block sale to Arctic may be revived as secondary transaction
+- *Insiders:* Not stated for any new entity; documents only say Promoters and Promoter Group declared their intention not to participate in the Company's buyback.
+- *What it reveals:* not stated; documents show only BACL raising Rs. 500 crore of secured NCDs twice (listed 01 December 2025 and 23 June 2026) and a Rs. 5,632.80 crore parent buyback at INR 12,000 per share.
+- *Selling pressure:* unclear — not stated — documents contain no equity separation, size of spun entity, or index-inclusion detail.
 - *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Explanatory statement to shareholders: valuation reports, fairness opinions and share exchange ratio basis; Sapphire assets transferred
-- *In their words:* “SFML and the other promoters and members of the promoter group of the Transferor Company will be classified in the ‘public category’ of shareholders of the Transferee Company after the Scheme is effective.”
+- *Read next:* A scheme of arrangement or Regulation 30 announcement of the subsidiary listing — absent here; also BACL's standalone financials.
+- *In their words:* “Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Debenture Issuance and Allotment Committee of the Board of Directors of BACL, a wholly owned subsidiary of Bajaj Auto Limited, at its meeting held on 27 November 2025 has approved the allotment of 50,000 (Fifty Thousand) Secured, Rated, Listed, Redeemable, Non-convertible Debentures (NCDs) of face value of INR 1,00,000/- (Rupees One Lakh Only) each for an Issue Size of INR 500,00,00,000 (Rupees Five Hundred Crores Only) on a private placement basis.”
 
 ### Why the demerger — three years of calls and the scheme
 
-The supplied texts do not contain management's rationale, and none can be reconstructed from them without inventing content. The "CALL PASSAGES" section of the prompt is empty — no earnings call extracts from any year were included — and the material labelled "SCHEME RATIONALE" is not the scheme's rationale section: it is the NSE and BSE observation/No-Objection letters dated June 12, 2026, relaying SEBI's comments on the draft scheme. Those letters only describe the transaction's legal shape and what must later be disclosed; the rationale is listed as a future disclosure obligation ("The rationale and objectives underlying the proposed scheme") rather than stated. What the letters do establish is that this is a composite Scheme of Arrangement under sections 230–232 of the Companies Act, 2013 between Sapphire Foods India Limited as Transferor Company and Devyani International Limited as Transferee Company, filed under Regulation 37 of SEBI LODR, with assets and liabilities of Sapphire being transferred to Devyani, a share exchange ratio supported by registered valuer reports and merchant banker fairness opinions, promoter and promoter group entities of Sapphire and Devyani intending reclassification into the Public Category in Devyani, and a linked "SFIL Secondary Sale" of up to 5,94,55,837 equity shares — up to 18.5% of Sapphire's share capital as of December 31, 2025 — by Sapphire Foods Mauritius Limited to Arctic International Limited. The structure described is a transfer/amalgamation of Sapphire into Devyani rather than a separation of a business out of Sapphire, so even the premise of the question (which business is being separated, and why) is not supported by these documents. SEBI also required the scheme to be expressly subject to Competition Commission of India approval before NCLT filing, which is consistent with a combination of two operators rather than a carve-out. No numbers cited by management, no named business line being separated, no problems the separation would solve, and no requesting party (investors, lenders or brand partners) appear anywhere in the provided text.
+The materials supplied do not contain any separation, demerger, spin-off or scheme-of-arrangement rationale for Bajaj Auto Ltd., so no reasoning can be reconstructed from them. The 'CALL PASSAGES' section is empty — no earnings-call transcript text was provided for any of the three years, and therefore no management commentary, no named businesses, no cited numbers and no stated problems-to-be-solved are available. The section labelled 'SCHEME RATIONALE' is not a scheme filing at all: it consists of three unrelated Regulation 30 / buyback disclosures. The first (23 June 2026) and second (02 December 2025) are intimations that Bajaj Auto Credit Limited (BACL), a wholly owned subsidiary, allotted 50,000 secured, rated, listed, redeemable non-convertible debentures of INR 1,00,000 face value each — INR 500,19,55,000 in the June 2026 issue and INR 500,00,00,000 in the November 2025 issue — listed on the NSE. The third (29 June 2026) is the Letter of Offer for a buyback of up to 46,94,000 equity shares of INR 10 face value at INR 12,000 per share, aggregating up to INR 5,632.80 crore, representing up to 1.68% of paid-up equity capital, on a proportionate tender-offer basis, with a record date of 24 June 2026 and a buyback window of 1–7 July 2026; the size is 16.93% of standalone and 15.59% of consolidated paid-up capital plus free reserves as at 31 March 2026. None of these documents mentions separating, hiving off, demerging or listing any business, and none states a rationale, a beneficiary entity, a consideration ratio or an affected segment. Since the instruction is to answer from these texts alone and not from memory, the honest answer is that the rationale is absent from the record provided; the texts would need to be re-supplied with the actual call transcripts and the scheme's rationale clauses.
 
-**How it evolved:** No evolution can be traced: zero earnings call passages were provided, so there are no call dates, no first mention, and no change in plan to report. The only dated item in the material is June 12, 2026 — the date of SEBI's comment letter and of the NSE and BSE observation letters, whose validity runs six months from that date for filing the scheme with NCLT. The only sequencing visible is procedural: draft scheme filed with the exchanges, SEBI comments, exchange NOC, CCI approval, then NCLT petition and shareholder approval.
+**How it evolved:** No evolution can be traced: the call-passage block was delivered empty, so there are no call dates, no first mention of a separation and no subsequent refinement to report. The only dated documents are a BACL NCD listing intimation of 02 December 2025 (allotment approved 27 November 2025), a further BACL NCD listing intimation of 23 June 2026 (allotment approved 19 June 2026), and a buyback Letter of Offer dated 29 June 2026 following a public announcement dated 19 June 2026. These three are financing and capital-return actions at the parent and its captive-finance subsidiary, not stages of a separation plan.
 
-**What management expects from it:** Nothing is stated. The provided texts contain no management commentary on margins, capital allocation, valuation, focus, or standalone prospects for either entity. SEBI merely requires that such effects — impact on shareholders including dilution or change in rights, a cost-benefit analysis, three years of Revenue, PAT and EBITDA for both companies, and Devyani's post-scheme balance sheet — be disclosed later in the explanatory statement to shareholders.
+**What management expects from it:** Nothing is stated. The provided texts carry no management expectation for any separated entity — no margin, capital-allocation, valuation-unlocking or management-focus claim appears, because no separation is described. The only forward-looking content is the buyback's procedural timetable (opening 1 July 2026, closing 7 July 2026, settlement by 14 July 2026) and the NCD listing confirmations.
 
 **Point by point, with the source:**
 
-- *Scheme* — The filing is a Scheme of Arrangement under sections 230–232 of the Companies Act, 2013 in which Sapphire Foods India Limited is the Transferor Company and Devyani International Limited is the Transferee Company — a combination of the two listed operators, not a carve-out of a business unit from Sapphire. “We refer to your application for Scheme of Arrangement by Sapphire Foods India Limited ("Sapphire"/"Transferor Company") and Devyani International Limited ("Devyani"/"Transferee Company") and their respective shareholders under sections 230 to 232 and other applicable provisions of the Companies Act, 2013 filed with the Exchange under Regulation 37 of SEBI LODR Regulations, 2015, read with SEBI Master circular no. SEBI/HO/CFD/POD-2/P/CIR/2023/93 dated June 20, 2023.”
-- *Scheme* — The rationale itself is absent from this document — SEBI treats it as something the companies must still explain to shareholders in the explanatory statement, alongside a cost-benefit analysis. “b) The rationale and objectives underlying the proposed scheme.”
-- *Scheme* — Assets and liabilities move from Sapphire to Devyani, which must be quantified along with Devyani's post-scheme balance sheet — confirming the direction of transfer. “The value of Assets and liabilities of Sapphire being transferred to Devyani and post-scheme balance sheet of Devyani.”
-- *Scheme* — A concurrent secondary sale is attached to the scheme: up to 5,94,55,837 Sapphire shares, up to 18.5% of share capital as of December 31, 2025, sold by Sapphire Foods Mauritius Limited to Arctic International Limited; shareholding patterns must be shown both with and without it. “Disclose details of SFIL Secondary Sale i.e. Sale of up to 5,94,55,837 Equity Shares of the Sapphire representing up to 18.5% of the share capital of the Sapphire as of December 31, 2025, by Sapphire Foods Mauritius Limited to Arctic International Limited.”
-- *Scheme* — Certain promoter and promoter group entities of both companies intend to be reclassified into the public category in Devyani, implying a change in control composition of the combined entity. “Disclose details of Promoters and Promoter Group entities of Sapphire and Devyani intending to be reclassified in the Public Category in Devyani, and the reasons thereof.”
-- *Scheme* — SEBI conditioned the scheme on Competition Commission of India approval before any NCLT filing, and on share exchange ratio support from registered valuers and merchant bankers. “The entities are advised to ensure that the captioned Scheme of Arrangement is made expressly subject to receipt of approval from the Competition Commission of India (CCI), as applicable; and that the company shall not file the Scheme before the Hon'ble National Company Law Tribunal (NCLT) unless and until the requisite approval from CCI is obtained.”
-- *Scheme* — NSE conveyed No Objection under Regulation 37, valid six months from June 12, 2026, while disclaiming any view on the scheme's financial soundness or the correctness of statements made. “The validity of this "Observation Letter" shall be six months from June 12, 2026, within which the Scheme shall be submitted to NCLT.”
+- *Scheme* — The document tagged as the scheme rationale is in fact a Regulation 30 intimation dated 23 June 2026 about a INR 500.19 crore private-placement NCD issue by Bajaj Auto Credit Limited, a wholly owned subsidiary; it contains no separation rationale. “Sub: Regulation 30 - Intimation regarding issuance , allotment  and listing of Non -convertible Debent ures amounting to Rs. 500Crores  on Private Placement basis by Bajaj Auto Credit Limited (BACL ), a wholly owned subsidiary of Bajaj Auto Limited”
+- *Scheme* — A second, earlier intimation dated 02 December 2025 records an identical INR 500 crore NCD allotment by BACL approved on 27 November 2025 and listed on the NSE on 01 December 2025 — again purely a debt-financing disclosure. “at its meeting held on 27 November 2025 has approved the allotment of 50,000 (Fifty Thousand) Secured, Rated, Listed, Redeemable, Non- convertible Debentures (NCDs) of face value of INR 1,00,000/ - (Rupees One Lakh Only) each for an Issue Size of INR 500,00,00,000 (Rupees Five Hundred Crores Only) on a private placement basi s.”
+- *Scheme* — The third document is the 29 June 2026 Letter of Offer for a tender-route buyback of up to 46,94,000 shares at INR 12,000 each (up to INR 5,632.80 crore, 1.68% of equity) — a capital-return action, with no reference to any business separation. “OFFER TO BUYBACK UP TO 46,94,000  (FORTY SIX LAKH NINETY FOUR THOUSAND ) FULLY PAID -UP EQUITY SHARES OF THE COMPANY HAVING FACE VALUE OF  INR 10/ - (INDIAN RUPEES TEN ONLY) EACH”
+- *Scheme* — The buyback's sizing disclosure is the only place the filings quantify the parent's balance sheet, and it is framed against statutory limits rather than any restructuring need. “The Buyback Size constitutes 16.93 % and 15.59% of the aggregate of the fully paid -up equity share capital and free reserves of the Company as per the latest audited standalone financial statements and audited consolidated financial statements of the Company as on March 31, 2026, respectively, which i s within the statutory limit of 25% of the aggregate of the fully paid -up equity share capital and free reserves of the Company”
 
-*Not explained on the calls:* Everything substantive: no earnings call passages were supplied, and the scheme text given is only the exchanges' observation letters. No stated rationale, business identified, numbers, requesting party, or timeline.
+*Not explained on the calls:* Everything: call transcripts were empty and the scheme text supplied was NCD and buyback filings, so no separated business, rationale, numbers, requesters, ratio or timeline is explained.
 
 ### The parent, last three fiscal years (consolidated)
 
 | | Mar 2024 | Mar 2025 | Mar 2026 |
 |---|---:|---:|---:|
-| Sales (₹ cr) | 2,594 | 2,882 | 3,125 |
-| Sales growth (%) | +14.5% | +11.1% | +8.4% |
-| Operating profit (₹ cr) | 462 | 477 | 474 |
-| Operating profit growth (%) | +7.4% | +3.2% | -0.6% |
-| Operating margin (%) | 17.8 | 16.6 | 15.2 |
-| PAT (₹ cr) | 52.0 | 17.0 | -32.0 |
-| PAT growth (%) | -77.7% | -67.3% | -288.2% |
-| PAT margin (%) | 2.0 | 0.6 | -1.0 |
-| EPS (₹) | 1.7 | 0.6 | -1.0 |
+| Sales (₹ cr) | 44,870 | 50,995 | 62,905 |
+| Sales growth (%) | +23.1% | +13.7% | +23.4% |
+| Operating profit (₹ cr) | 8,765 | 9,555 | 13,097 |
+| Operating profit growth (%) | +35.6% | +9.0% | +37.1% |
+| Operating margin (%) | 19.5 | 18.7 | 20.8 |
+| PAT (₹ cr) | 7,708 | 7,325 | 10,574 |
+| PAT growth (%) | +27.2% | -5.0% | +44.4% |
+| PAT margin (%) | 17.2 | 14.4 | 16.8 |
+| EPS (₹) | 276 | 262 | 384 |
 
-*Source: ProfitStatement/NiftyTotalMarket/SAPPHIRE.csv (consolidated, screener.in); growth and margins computed here.*
+*Source: ProfitStatement/NiftyTotalMarket/BAJAJ-AUTO.csv (consolidated, screener.in); growth and margins computed here.*
 
 ```mermaid
 xychart-beta
     title "Sales, operating profit and PAT (₹ cr)"
     x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
     y-axis "₹ crore"
-    bar [2594, 2882, 3125]
-    bar [462, 477, 474]
-    bar [52, 17, -32]
+    bar [44870, 50995, 62905]
+    bar [8765, 9555, 13097]
+    bar [7708, 7325, 10574]
 ```
 *Series in order: Sales, Operating profit, PAT.*
 
@@ -5701,101 +6711,88 @@ xychart-beta
     title "Margins (%)"
     x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
     y-axis "%"
-    line [17.8, 16.6, 15.2]
-    line [2, 0.6, -1]
+    line [19.5, 18.7, 20.8]
+    line [17.2, 14.4, 16.8]
 ```
 *Series in order: Operating margin, PAT margin.*
 
-**P/E:** 2417.0 — live market file (screener.in), trailing (price ₹185.00 as of 2026-08-02).
+**P/E:** 26.9 — live market file (screener.in), trailing (price ₹11,520.00 as of 2026-08-02).
 
 **Cash flows (₹ cr):**
 
 | | Mar 2024 | Mar 2025 | Mar 2026 |
 |---|---:|---:|---:|
-| Cash from operations (₹ cr) | 449 | 508 | 507 |
-| Cash from investing (₹ cr) | -187 | -337 | -233 |
-| Cash from financing (₹ cr) | -213 | -211 | -260 |
-| Net cash flow (₹ cr) | 49.0 | -39.0 | 14.0 |
-| Free cash flow (₹ cr) | 64.0 | 245 | 189 |
+| Cash from operations (₹ cr) | 6,558 | -1,406 | 2,597 |
+| Cash from investing (₹ cr) | -72.0 | -1,053 | -7,018 |
+| Cash from financing (₹ cr) | -6,167 | 4,230 | 5,079 |
+| Net cash flow (₹ cr) | 319 | 1,771 | 658 |
+| Free cash flow (₹ cr) | 5,847 | -2,273 | 1,885 |
 
-*Source: CashFlow/NiftyTotalMarket/SAPPHIRE.csv (consolidated, screener.in).*
+*Source: CashFlow/NiftyTotalMarket/BAJAJ-AUTO.csv (consolidated, screener.in).*
 
 ### The business being separated — its own numbers
 
-**Food and Beverages — single reportable segment covering the entire Sapphire Foods QSR business (KFC, Pizza Hut India, Sri Lanka/Maldives). Not a separation: SFIL merges with and into Devyani International Limited via share swap (177 DIL : 100 SFIL), appointed date proposed April 1, 2026, so the 'separating business' is the whole company (Transferor Company).** · unit ₹ million · Revenue = external revenue from customers of the single reportable segment (consolidated, India + outside India; no inter-segment revenue disclosed) per the Ind AS 108 segment note. Annual reports carry NO segment-level profit line (single segment, so no segment result/EBIT disclosed). Operating profit shown is consolidated EBITDA as reported in the investor presentations (post Ind AS 116, incl. Sri Lanka); FY2024 reported EBITDA is not on these pages — only Adj. EBITDA (pre Ind AS 116) of ₹2,717 Mn for FY24 and ₹2,616 Mn for FY25 (Presentation Feb 2026 — page 9). PAT shown is 'Adj. PAT' from the 4-year scorecard, not reported PAT; FY2026 PAT/Adj. PAT is absent (FY26 presentation gives only Consol PBT lines for Q4 FY26). Presentation 'Restaurant Sales' (FY24 25,880; FY25 28,754; Q4 FY26 7,898; Q1 FY27 8,882) is a narrower measure than segment external revenue.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ million) | 26,277 | 29,191 | 31,534 |
-| Revenue growth (%) | — | +11.1% | +8.0% |
-| Operating profit (₹ million) | — | 4,925 | 4,804 |
-| Operating profit growth (%) | — | — | -2.5% |
-| Operating margin (%) | — | 16.9 | 15.2 |
-| PAT (₹ million) | 786 | 557 | — |
-| PAT growth (%) | — | -29.1% | — |
-
-*Sources:* Annual Report 2024 — page 134 (revenue); Presentation Feb 2026 — page 9 (Adj. PAT); Annual Report 2025 — page 130 (revenue); Presentation May 2026 — page 5 (FY26 EBITDA bracket figure for FY25); Presentation Feb 2026 — page 9 (Adj. PAT); Annual Report 2026 — page 133 (revenue); Presentation May 2026 — page 5 (FY26 EBITDA ₹4,804 Mn, 15.4%)
-
-*Latest quarter (Q1 FY27):* revenue 8882, operating profit 1406 — Presentation Jul 2026 — page 8 (revenue ₹8,882 Mn; Consol EBITDA ₹1,406 Mn, 15.8%; Consol Adj. EBITDA ₹749 Mn); Presentation Aug 2026 — page 5
-
-*Not in the pages read:* No segment-level profit or PAT in annual reports (single segment). FY2024 reported EBITDA and FY2026 PAT/Adj. PAT absent; no standalone financials for any carved-out business, as this is a whole-company merger.
-
-*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/3b5de723-2325-4502-8546-bb0395d16c0d.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8c0dba9b-fd15-4836-8777-ee772e51bddd.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d3560f76-6be4-4965-bbd4-66aa3548fc3b.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9d03fb4e-85d5-45f0-bd03-59380652e7a7.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d856696d-c0d0-4269-9e4a-94b08111d006.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca0baed9-d623-450b-ab1a-825506c5a6eb.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=834c1266-4ed4-4ce2-9c79-52868bdee2e8.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a50bd933-f12b-4c85-9cba-8a8529fc8c92.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcf44c88-40ae-4045-a0f2-45fb8b47e0ae.pdf)
+Not extracted — no segment pages found in the stored reports (0 annual report(s) and 0 presentation(s) on file).
 
 **The checklist:**
 
 | Item | Status | Evidence |
 |---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…to ensure that the captioned Scheme of Arrangement is made expressly subject to receipt of approval from the Competition Commission of India (CCI), as applicable; and that the company shall not file the Scheme before th” |
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
 | Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 1,417 cr (Mar 2026) = 0.24× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 22,713 cr (Mar 2026) = 0.07× market cap; P/E 29.9 on Mar 2026 profit vs industry median 41.6 (35 peers) |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 119 days since the first filing, stage announced |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 315 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
-| 2026-06-15 | Scheme of Arrangement | Sapphire Foods India Limited has informed the Exchange about update on Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/SAPPHIRE_15062026201824_NSE.pdf) |
+| 2025-12-02 | General Updates | Bajaj Auto Limited has informed the Exchange about issuance, allotment and listing of Non-convertible Debentures by Bajaj Auto Credit Limited, a wholly owned su | [pdf](https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_02122025114217_SE_-_BACL_NCD_Listing.pdf) |
+| 2026-06-23 | Updates | Bajaj Auto Limited has informed the Exchange regarding ' issuance, allotment and listing of Non-convertible Debentures by Bajaj Auto Credit Limited, a wholly ow | [pdf](https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_23062026174005_NCD_Listing_500cr_BACL.pdf) |
 
 </details>
 
 ## COALINDIA — Coal India Ltd.
 
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-09-02, latest 2026-09-02
+**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 4 filing(s) from NSE · first 2025-12-23, latest 2026-09-02
 
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-09-02; date not fixed — As disclosed 02.09.2026: "the draft red herring prospectus dated 1st September, 2026 of Mahanadi Coalfields Limited (MCL)... was filed with SEBI, BSE and NSE"; the IPO "remains subject to receipt of applicable approvals, prevailing market conditions, and other relevant considerations". No listing date stated.
+> **Listing:** IPO / listing of the subsidiary in motion since 2025-12-23; date not fixed — BCCL: "has been listed on BSE Limited and National Stock Exchange of India Limited effective January 19, 2026" (stated 19.01.2026). MCL and SECL: listing "in the upcoming financial year" per MoC memorandum dated 16.12.2025 (stated 23.12.2025); MCL DRHP dated 1st September 2026 filed with SEBI, BSE and NSE, IPO "subject to receipt of applicable approvals, prevailing market conditions" (stated 02.09.2026).
 
-**What is being separated, as the documents put it:** Mahanadi Coalfields Limited (MCL), a wholly owned coal subsidiary of Coal India, via IPO offer for sale — class `not stated`.
+**The stages, as filed:** announced (2025-12-23)
 
-- *Insiders:* MCL is a wholly owned subsidiary of Coal India; the IPO is an offer for sale of up to 661,836,300 equity shares of face value INR 2 each held by Coal India Limited. Management incentives not stated.
-- *What it reveals:* A wholly owned coal subsidiary large enough to be separately listed gets a standalone market price; the documents disclose no MCL financials, reserves, or valuation, so the implied value of CIL's retained stake is not stated.
-- *Selling pressure:* unlikely — Shares are sold by CIL through an offer for sale, not distributed free to CIL shareholders; no index exclusion stated.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* MCL's DRHP dated 1 September 2026 — financials, reserves, dividends, and OFS size as % of MCL equity
-- *In their words:* “The proposed IPO remains subject to receipt of applicable approvals, prevailing market conditions, and other relevant considerations.”
+**What is being separated, as the documents put it:** Minority stakes in Coal India's coal-producing subsidiaries, sold via IPO offer-for-sale by the parent — class `regulatory_strategic`.
+
+- *Insiders:* CIL holding in BCCL reduced from 100% to 90% (4,191,300,000 shares); BCCL remains a subsidiary. MCL wholly owned; OFS of up to 661,836,300 shares held by CIL. Incentives not stated.
+- *What it reveals:* Separate listings put a market price on subsidiary assets previously buried in the parent: BCCL's 465,700,000 shares sold at Rs 23 each, with CIL retaining 90%. MCL and SECL still unpriced.
+- *Selling pressure:* unlikely — Shares are sold through IPO offer-for-sale to willing buyers, not distributed to parent shareholders; documents mention no index or industry mismatch.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* MCL draft red herring prospectus dated 1 September 2026 — financials and offer-for-sale valuation
+- *In their words:* “Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year.”
 
 ### Why the demerger — three years of calls and the scheme
 
-These texts do not contain a stated rationale for separating a business, and no scheme of arrangement/demerger rationale section is present — the document labelled "Scheme Rationale" is in fact two SEBI LODR Regulation 30 disclosures by Coal India Ltd., neither of which gives reasons. The first (Ref. CIL:XI(D):4157/4156:2026:35185, dated 02.09.2026) discloses that the draft red herring prospectus dated 1st September 2026 of Mahanadi Coalfields Limited (MCL), a wholly owned subsidiary of CIL, was filed with SEBI, BSE and NSE, for a proposed IPO structured purely as an Offer for Sale of up to 661,836,300 equity shares of face value INR 2 each held by Coal India Limited — i.e. a partial monetisation/listing of a producing coal subsidiary by the parent, not a demerger, and explicitly "subject to receipt of applicable approvals, prevailing market conditions, and other relevant considerations." No objects-of-the-issue, value-unlocking, focus, margin or capital-allocation reasoning is given, and no investor, lender or partner is named as having asked for it. The second (Ref. CIL:XID:04156/157:35043, dated 27.07.2026) is the opposite of a separation: CIL's Board approved investing in the rights issue of CIL Rajasthan Akshay Urja Limited (CRAUL), a renewable-energy JV with Rajasthan Rajya Vidyut Urja Nigam Limited (RVUNL) incorporated 09.06.2025, with CIL subscribing 2,22,000 shares at Rs. 10 each (Rs. 22,20,000) and RVUNL 78,000 shares (Rs. 7,80,000), holding 74%/26%; paid-up capital Rs. 10,00,000 and size/turnover NIL, to develop solar, PSP and wind projects selling power to RVUNL under Section 62 of the Electricity Act, 2003 and to DISCOMs/third parties/C&I customers. The only call passage supplied (Feb 2024) runs directly against a separation thesis: asked whether renewables/alternative energy would be held as a separate demerged entity, management said the verticals already sit in existing subsidiaries and joint ventures, that no new subsidiary would be created, and that it "is not in our discussion right now"; the only numbers-adjacent remarks are that coal mine capex will be met from internal accruals, with little debt in FY25 but rising debt in the following year for renewal and gasification projects. On this evidence the correct answer is that CIL is not documented here as separating a business — it is listing a minority stake in MCL by Offer for Sale while continuing to fund renewables inside CIL's own subsidiary/JV structure.
+These texts do not contain a demerger or spin-off rationale for Coal India — there is no scheme of arrangement and no rationale section in the filings supplied. What the filings actually document is partial monetisation of wholly-owned coal subsidiaries through minority IPOs structured as Offers for Sale by CIL, not a separation of a business line. The trigger stated is governmental, not strategic: the Ministry of Coal, via Office Memorandum I/37811/2025 dated 16.12.2025, 'advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year,' after which the CIL Board gave in-principle approval by circular resolution on 23.12.2025 for both Mahanadi Coalfields Limited (MCL) and South Eastern Coalfields Limited (SECL), to be routed to MoC for onward submission to DIPAM. The executed transaction is Bharat Coking Coal Limited (BCCL): 465,700,000 equity shares of face value ₹10 offered for sale by CIL at ₹23 per share, listed on BSE and NSE effective 19.01.2026, cutting CIL's holding from 100% to 90% (4,657,000,000 to 4,191,300,000 shares), so BCCL ceased to be a wholly-owned subsidiary but remains a subsidiary. The next step is MCL's DRHP dated 1 September 2026, filed with SEBI, BSE and NSE, for an OFS of up to 661,836,300 equity shares of face value ₹2 held by CIL, subject to approvals and market conditions. The only earnings-call passage provided (Feb 2024) runs the other way: asked directly whether renewables/CIL energy would be put into a demerged entity, management said existing subsidiaries and JVs already cover those verticals and that no new entity was under discussion. The sole capital-structure specifics management gave in that call were that coal mine capex would be met from internal accruals, with little debt in FY25 but rising debt in the following year for the renewal and gasification projects. On this evidence the separation is a state-directed stake sale/listing programme for coal-producing subsidiaries (BCCL done, MCL filed, SECL approved in principle), with no management-stated operating or valuation argument on record here.
 
-**How it evolved:** Feb 2024 call: an investor (Venkatesh Subramanian) raised the idea unprompted, asking whether renewables/alternative energy would be carved out as a separate demerged entity; management rejected it, saying subsidiaries and JVs already exist, no new subsidiary would be created, and it was not under discussion. No 2025 or later call passages were provided, so there is no call-by-call progression toward a separation. The only later developments in these texts are corporate actions without commentary: the 27.07.2026 CRAUL rights-issue investment (keeping renewables in-house) and the 02.09.2026 disclosure of MCL's DRHP for an Offer-for-Sale IPO of CIL-held shares.
+**How it evolved:** Feb 2024 call: an analyst (Venkatesh Subramanian) raised a demerger of the energy/renewables verticals and management rejected it — subsidiaries and JVs already exist, 'It is not in our discussion right now.' The impetus then came from outside the company: MoC's OM of 16.12.2025 directed further listing of MCL and SECL, and CIL's Board passed in-principle approvals for both on 23.12.2025 for onward submission to DIPAM. Execution followed quickly on a different subsidiary — BCCL disclosures on 03.01.2026 and 14.01.2026, pricing at ₹23 and listing on 19.01.2026 taking CIL to 90%. The programme then advanced to MCL with a DRHP dated 01.09.2026, disclosed 02.09.2026, for an OFS of up to 661,836,300 shares; SECL remains at in-principle stage in these texts.
 
-**What management expects from it:** Nothing is stated. Management gave no expected effect on margins, capital, valuation or focus for any entity; in Feb 2024 they said existing subsidiaries and JVs already serve the purpose and no separation was under discussion. The MCL DRHP disclosure gives only deal mechanics — an Offer for Sale of CIL-held shares, so no primary proceeds to MCL — with no articulated benefit.
+**What management expects from it:** Nothing is stated. No filing or call passage here claims any benefit — no margin, capital-allocation, capex-funding, focus, re-rating or value-unlocking argument for CIL or for BCCL/MCL/SECL. The only expectations expressed are procedural: listings subject to regulatory approvals, DIPAM routing, and prevailing market conditions. The one capital comment (Feb 2024) concerns internal accruals and project debt, unrelated to any separation.
 
 **Point by point, with the source:**
 
-- *[Feb 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06da4b0a-5420-4ecc-aa42-737719710147.pdf)* — The separation idea came from an investor, not management — Venkatesh Subramanian asked whether the alternative/renewable energy business, alongside coal and CIL energy, would eventually be held as a separate demerged entity. “And do you have any plans going forward once we have coal, we have CIL energy and then we have -- we're investing a lot in terms of alternative energy as well. Would you have that as a separate demerged entity or something in the future?”
-- *[Feb 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06da4b0a-5420-4ecc-aa42-737719710147.pdf)* — Management declined the demerger idea, saying renewable and other non-coal verticals are already housed in existing subsidiaries and joint ventures and that no new subsidiary was planned. “We had already -- some verticals are there for the renewable energy and other projects, for that we had already subsidiaries companies are there.”
-- *[Feb 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06da4b0a-5420-4ecc-aa42-737719710147.pdf)* — Management stated explicitly that a separate demerged entity was not on the agenda at that time. “We are not going to create any new subsidy. It is not in our discussion right now.”
-- *[Feb 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06da4b0a-5420-4ecc-aa42-737719710147.pdf)* — On funding, management confirmed coal mine capex would come from internal accruals with minimal debt in FY25, but flagged rising debt from the following year for mine renewal and coal gasification projects — the only capital-structure specifics given. “Yes, you are right because we had just started the renewal, so not much debt will come in the '25. But in the coming year, debt will increase in the renewal and gasification projects.”
-- *Scheme* — The filing dated 02.09.2026 is a Regulation 30 disclosure, not a scheme of arrangement: it reports that MCL's DRHP dated 1 September 2026 was filed with SEBI, BSE and NSE for an IPO that is entirely an Offer for Sale of up to 661,836,300 shares of INR 2 face value held by CIL, with no rationale, objects of the issue or value-unlocking argument stated. “The DRHP filing pertains to the proposed Initial Public Offering (“IPO”) of MCL, comprising an Offer for Sale of up to 661,836,300 equity shares having a face value of INR 2 each, held by Coal India Limited.”
-- *Scheme* — The IPO is conditional and unscheduled in these texts, dependent on approvals and market conditions. “The proposed IPO remains subject to receipt of applicable approvals, prevailing market conditions, and other relevant considerations.”
-- *Scheme* — The second disclosure (27.07.2026) shows renewables being funded inside the group rather than separated: CIL's Board approved participating in CRAUL's rights issue, subscribing 2,22,000 shares at Rs. 10 each (Rs. 22,20,000) versus RVUNL's 78,000 shares (Rs. 7,80,000), retaining the 74:26 split in an entity with Rs. 10,00,000 paid-up capital and NIL turnover, incorporated 09.06.2025. “CIL Board at its meeting held on date has inter -alia, accorded approval for investment in Right s Issue of CIL Rajasthan Akshay Urja Limited ( CRAUL ) by Coal India Limited , details as per Annexure.”
-- *Scheme* — CRAUL's stated business purpose is solar, pumped-storage and wind generation with power sold to RVUNL under Section 62 of the Electricity Act, 2003, or to DISCOMs, third parties, the open market and C&I customers anywhere in India. “To develop, construct and operate the solar power projects, PSP projects and wind power projects or such other projects as may be mutually agreed between the Parties in writing through a suitable model, and the Company will undertake the business of sellin g the power generated from the Projects to RVUNL under Section 62 of Electricity Act, 2003 or such other entities as may be mutually agreed between Parties in accordance with the applicable Laws”
+- *[Feb 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06da4b0a-5420-4ecc-aa42-737719710147.pdf)* — An analyst explicitly asked whether coal, CIL energy and the alternative-energy investments would be split into a separate demerged entity; management declined, saying the verticals already sit in existing subsidiaries and JVs and no new entity was being considered. “We had already -- some verticals are there for the renewable energy and other projects, for that we had already subsidiaries companies are there. We had already formed the joint ventures and the new companies, so those we'll pursue that. We are not going to create any new subsidy. It is not in our discussion right now.”
+- *[Feb 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06da4b0a-5420-4ecc-aa42-737719710147.pdf)* — On funding, management confirmed coal mine capex comes from internal accruals with minimal FY25 debt, but flagged rising debt in the following year for the renewal and gasification projects. “Yes, you are right because we had just started the renewal, so not much debt will come in the '25. But in the coming year, debt will increase in the renewal and gasification projects.”
+- *Scheme* — The listing push is a Ministry of Coal directive, not a company-initiated scheme: MoC's Office Memorandum I/37811/2025 of 16.12.2025 told CIL to progress listings of MCL and SECL in the upcoming financial year. “Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year.”
+- *Scheme* — CIL's Board granted in-principle listing approval for MCL on 23.12.2025 by circular resolution, for communication to MoC and onward submission to DIPAM, subject to regulatory approvals. “Accordingly, CIL Board through circular resolution has accorded in –principle approval for listing of Mahanadi Coalfields Limited (MCL) and the same shall be communicated to MoC for onward submission to DIPAM.”
+- *Scheme* — An identical in-principle approval was passed the same day for South Eastern Coalfields Limited (SECL), also wholly owned, also subject to regulatory approvals — so two subsidiaries were cleared in principle simultaneously. “Accordingly, CIL Board through circular resolution has accorded in –principle approval for listing of South Eastern Coalfields Limited (SECL) and the same shall be communicated to MoC for onward submission to DIPAM.”
+- *Scheme* — BCCL's IPO was pure Offer for Sale by CIL — 465,700,000 shares of ₹10 face value at ₹23 per share — i.e. cash to the parent, no primary issuance disclosed here. “Bharat Coking Coal Limited, pursuant to its IPO, has sold 465,700,000 Equity Shares at an issue price of ₹ 23 per share which were offered for sale by the Company .”
+- *Scheme* — BCCL listed on BSE and NSE effective 19.01.2026 and CIL's stake fell from 100% to 90% (4,657,000,000 to 4,191,300,000 shares), following earlier disclosures of 3 and 14 January 2026. “As a result of the above, the Company 's shareholding in Bharat Coking Coal Limited stands reduced f rom 100% to 90% (i.e., from 4,657,000,000 Equity Shares to 4,191,300,000 Equity Shares) of the issued and paid -up Equity Share capital of Bharat Coking Coal Limited.”
+- *Scheme* — Control is explicitly retained — BCCL stops being wholly owned but stays a subsidiary, confirming this is a minority sell-down rather than a separation or loss of consolidation. “Consequent to the above, Bharat Coking Coal ceases to be a wholly -owned subsidiary of the Company. However, it continues to remain a subsidiary of the Company.”
+- *Scheme* — MCL's DRHP dated 1 September 2026 was filed with SEBI, BSE and NSE for an OFS of up to 661,836,300 shares of ₹2 face value held by CIL, conditional on approvals and market conditions. “The DRHP filing pertains to the proposed Initial Public Offering (“IPO”) of MCL, comprising an Offer for Sale of up to 661,836,300 equity shares having a face value of INR 2 each, held by Coal India Limited.”
 
-*Not explained on the calls:* Everything substantive: no scheme rationale, no MCL financials, valuation, use of proceeds or OFS reasoning, no investor/lender/partner demand, no post-listing control or capital-allocation plan, and no 2025–2026 call commentary.
+*Not explained on the calls:* No rationale section, no use of proceeds, no valuation/margin/capital logic, no SECL timeline or size, no investor/lender/partner demand cited, no call discussion of these listings.
 
 *Calls read (36 months):* [Feb 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=06da4b0a-5420-4ecc-aa42-737719710147.pdf)
 
@@ -5852,7 +6849,7 @@ xychart-beta
 
 ### The business being separated — its own numbers
 
-The segment pages read (3 annual report(s) and 11 presentation(s) on file) do not carry this business's own revenue or profit: All MCL figures: revenue, operating profit/segment result, PAT, and any quarterly data. Pages state no reportable segments; MCL appears only in a railway-evacuation slide (Presentation May 2025 — page 27), with no financials.
+The segment pages read (3 annual report(s) and 11 presentation(s) on file) do not carry this business's own revenue or profit: All of them. Pages carry no revenue, operating profit or PAT for BCCL, MCL or SECL; CIL reports no separate segments. Presentation May 2025 pages show only coal resources, rail projects, gasification JVs and CSR — no quarterly financials.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/5690e342-8065-42d0-b598-274aa8ef4fa9.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ecb5c7db-530d-4a07-a38f-392f0007f2a1.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32b8c85f-6bdb-47dc-9aef-728e526ec886.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eaca51fa-e009-4738-a3dc-5fbc54257fcf.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74fd3fb9-d128-435b-9071-2b419b92f44a.pdf); [Presentation Oct 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26b8819a-3526-4bc9-a999-6d1237473181.pdf); [Presentation Jul 2025](https://d3u7ubx0okog7j.cloudfront.net/documents/presentation310725.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b6730fa-bcc5-4bd4-99e2-1d8494d61acd.pdf)
 
@@ -5866,13 +6863,277 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 14,072 cr (Mar 2026) = 0.06× market cap; P/E 8.2 on Mar 2026 profit vs industry median 12.9 (16 peers) |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
 | Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 40 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 294 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
+| 2025-12-23 | General Updates | Coal India Limited has informed the Exchange about General Updates-In-principle approval of Listing of Mahanadi Coalfields Limited (MCL) a Wholly owned subsidia | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_23122025170458_MCLsigned.pdf) |
+| 2025-12-23 | General Updates | Coal India Limited has informed the Exchange about General Updates-In-principle approval of Listing of South Eastern Coalfields Limited (SECL), a Wholly owned s | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_23122025170609_SECLsigned.pdf) |
+| 2026-01-19 | General Updates | Listing of Bharat Coking Coal Limited, a subsidiary of Coal India Limited | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_19012026111242_listingbccl.pdf) |
 | 2026-09-02 | General Updates | Disclosure under Regulation 30 of SEBI LODR, 2015 Filing of DRHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL. | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_02092026103250_Draft_letter_to_stock_exchange_DRHP_MCL_signed.pdf) |
+
+</details>
+
+## CRAFTSMAN — Craftsman Automation Ltd.
+
+**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · scheme (nature unclear) · 1 filing(s) from NSE-deep · first 2026-02-13, latest 2026-02-13
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** Nothing leaves the listed company; the Aluminium Products business is consolidated into one wholly owned subsidiary, Sunbeam — class `regulatory_strategic`.
+
+- *Insiders:* Not stated. Documents only say the subsidiaries are direct and indirect wholly owned subsidiaries of the Company and the Company's shareholding pattern will not be affected
+- *What it reveals:* Scale of the aluminium arm: DRA turnover INR 1,298.52 cr, net worth INR 511.34 cr; Sunbeam turnover INR 1,237.46 cr, net worth only INR 107.43 cr; plus recently acquired step-down land parcels leased to DRA for an approved new aluminium facility
+- *Selling pressure:* unlikely — No distribution to listed shareholders; Sunbeam shares issue only to the Company; shareholding pattern of listed entity unaffected
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* The draft Composite Scheme of Arrangement and the share-capital reorganization of Sunbeam (face value changed to INR 1, premium INR 9)
+- *In their words:* “Not applicable. The Company is not a party to the proposed Scheme, and the shareholding pattern of the Company will not be affected by the proposed Scheme.”
+
+### Why the demerger — three years of calls and the scheme
+
+The texts describe a consolidation rather than a separation: Craftsman Automation Ltd. (BSE 543276 / NSE CRAFTSMAN) is pulling its aluminium products business together inside one wholly owned subsidiary, not carving a business out. Per the scheme rationale, the Amalgamating Company 3 ("DRA") manufactures precision-engineered aluminium die-cast components, sub-assemblies and products primarily for the automotive sector in India, while the Amalgamated Company ("Sunbeam") is also engaged in manufacturing of aluminium components and related activities — so two entities hold the same business. Separately, Amalgamating Company 2 is in development, ownership and leasing of industrial, logistics and warehousing projects and related infrastructure, and owns land parcels leased to DRA; Amalgamating Company 1 is a wholly owned subsidiary of DRA, and these recently acquired step-down subsidiaries hold land parcels leased to DRA for the development and expansion of its aluminium manufacturing facilities. Management's stated problem is fragmentation: "the Aluminium business and the land and infrastructure required for its expansion are housed in different entities, resulting in the fragmentation of operations and asset ownership." Their stated opportunity is that the aluminium components industry "is poised for substantial growth," which can be "better capitalized" by one focused operating entity with a stronger balance sheet, a broader product and manufacturing base, unified asset ownership and a streamlined organisational structure. The immediate operational trigger is that DRA's board has approved setting up a new aluminium facility on the land parcels leased from the step-down subsidiaries, so consolidation is expected to deliver efficient implementation of the approved expansion plans, seamless development of manufacturing facilities, and alignment of land, infrastructure and operations under a single entity. Mechanically, Companies 1 and 2 merge into DRA with no shares issued (wholly owned), then DRA merges into Sunbeam, whose equity is re-denominated to INR 1 face value and which issues 1 share of INR 1 at a premium of INR 9 for each INR 10 face-value DRA share; the listed company is not a party and its shareholding pattern is unaffected.
+
+**How it evolved:** No earnings call passages were supplied with this prompt, so the idea cannot be traced call by call and no call dates are available. The only dated step in these texts is the board meeting of Friday, 13th February 2026 (5:00–5:15 P.M.), at which the board approved only the initiation of an evaluation process for a potential internal restructuring/consolidation of the aluminium products business at a single wholly owned subsidiary level, plus consolidation of other wholly owned subsidiaries, expressly leaving the mode open (including a scheme of arrangement under Sections 230–232 of the Companies Act, 2013) and the final decision to a later board. The scheme rationale filing is the later stage, where that open-ended evaluation has crystallised into a specific three-step amalgamation of Companies 1 and 2 into DRA and of DRA into Sunbeam, with a stated share exchange ratio.
+
+**What management expects from it:** Merged aluminium entity: stronger balance sheet, broader product and manufacturing base, unified land/asset ownership, streamlined structure, efficient execution of the board-approved new facility, better capture of expected industry growth. Group: simpler structure, improved managerial focus and operational efficiency. No margin, capital or valuation figures given; the listed company's shareholding pattern is unaffected.
+
+**Point by point, with the source:**
+
+- *Scheme* — The core stated problem is structural fragmentation: the aluminium manufacturing business sits in one set of entities while the land and infrastructure needed for its expansion sit in others, splitting operations from asset ownership. “At present, the Aluminium business and the land and infrastructure required for its expansion are housed in different entities, resulting in the fragmentation of operations and asset ownership.”
+- *Scheme* — Duplication is explicit — DRA and Sunbeam are both in the same aluminium components business, which is why they are being merged into one. “DRA and Sunbeam are both engaged in manufacturing of Aluminium Components and related activities.”
+- *Scheme* — The growth case: management says the aluminium components industry is set for substantial growth, framing the restructuring as positioning for that growth rather than as a fix for weakness. “The Management of the Companies are of the view that the Aluminium Components Industry is poised for substantial growth.”
+- *Scheme* — The four claimed benefits of a single focused operating entity are named precisely: stronger balance sheet, broader product and manufacturing base, unified asset ownership, streamlined organisation. “This opportunity can be better capitalized by consolidating the Aluminium business under a single focused operating entity having a stronger balance sheet, a broader product and manufacturing base, unified asset ownership, and a streamlined organizational structure.”
+- *Scheme* — The concrete trigger is an already-approved greenfield project: DRA's board has sanctioned a new aluminium plant on land it currently only leases from the recently acquired step-down subsidiaries. “The Board of DRA has approved the setting up of a new Aluminium facility on the land parcels leased from the Step Down Subsidiaries.”
+- *Scheme* — Merging the landholding step-down subsidiaries into DRA is justified on execution grounds — faster build-out and ownership of land, infrastructure and operations in one entity instead of an intra-group lease. “It is expected that consolidation of the Step-Down Subsidiaries with DRA will lead to efficient implementation of the approved expansion plans, seamless development of manufacturing facilities, and align ownership of land, infrastructure, and operations under a single entity.”
+- *Scheme* — The final leg (DRA into Sunbeam) is justified on holding-structure grounds rather than operational ones. “The proposed consolidation of DRA with Sunbeam is also expected to simplify the corporate structure and improve managerial focus and operational efficiency.”
+- *Scheme* — The lessor entity's business is broader than auto components — it is an industrial/logistics/warehousing property vehicle whose land is leased to the aluminium manufacturer. “Amalgamating Company 2 owns land parcels which it has leased to Amalgamating Company 3 for its use.”
+- *Scheme* — The business being consolidated is precision aluminium die-casting for Indian automotive customers. “The Amalgamating Company 3 is engaged in the manufacturing of precision-engineered Aluminium die-cast components, sub-assemblies, and products primarily for the automotive sector in India.”
+- *Scheme* — Consideration: the two wholly owned legs are share-less, and DRA's shareholders get a 1:1 swap into Sunbeam after Sunbeam's face value is reset from INR 10 to INR 1, with INR 9 of each new share booked as premium. “After reorganization of the equity capital of the Amalgamated Company such that the face value of its equity shares is changed to INR 1/- each, issuance of 1 (One) fully paid-up equity share of the Amalgamated Company having face value of INR 1/- (Indian Rupees One) each at a premium of INR 9/- (Indian Rupees Nine) each, for every 1 (One) fully paid-up equity share of face value INR 10 (Indian Rupees Ten) each held in the Amalgamating Company 3.”
+- *Scheme* — This is below-the-line for listed shareholders — the listed parent is not a scheme party and no dilution or shareholding change occurs at CRAFTSMAN level. “Not applicable. The Company is not a party to the proposed Scheme, and the shareholding pattern of the Company will not be affected by the proposed Scheme.”
+- *Scheme* — Board disclosure of 13th February 2026: only the evaluation was approved, targeting a single wholly owned subsidiary as the home for the aluminium products business, with the mode and final decision left open. “The Board of Directors of the Company considered and approved the initiation of the evaluation process for a potential internal restructuring/consolidation of the aluminium products business.”
+
+*Not explained on the calls:* No earnings-call passages were supplied, so no management numbers, margin/capex figures, timelines, investor, lender or customer requests, valuation logic, Sunbeam's own business description, or named entities behind DRA/Companies 1-2.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 4,452 | 5,690 | 8,069 |
+| Sales growth (%) | +39.9% | +27.8% | +41.8% |
+| Operating profit (₹ cr) | 879 | 833 | 1,238 |
+| Operating profit growth (%) | +28.5% | -5.2% | +48.6% |
+| Operating margin (%) | 19.7 | 14.6 | 15.3 |
+| PAT (₹ cr) | 337 | 201 | 384 |
+| PAT growth (%) | +34.3% | -40.4% | +91.0% |
+| PAT margin (%) | 7.6 | 3.5 | 4.8 |
+| EPS (₹) | 144 | 81.6 | 161 |
+
+*Source: ProfitStatement/NiftyTotalMarket/CRAFTSMAN.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [4452, 5690, 8069]
+    bar [879, 833, 1238]
+    bar [337, 201, 384]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [19.7, 14.6, 15.3]
+    line [7.6, 3.5, 4.8]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 55.1 — live market file (screener.in), trailing (price ₹9,874.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 513 | 283 | 522 |
+| Cash from investing (₹ cr) | -625 | -1,643 | -1,302 |
+| Cash from financing (₹ cr) | 148 | 1,393 | 827 |
+| Net cash flow (₹ cr) | 36.0 | 34.0 | 47.0 |
+| Free cash flow (₹ cr) | -115 | -706 | -647 |
+
+*Source: CashFlow/NiftyTotalMarket/CRAFTSMAN.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+**Aluminium Products (consolidated reportable segment)** · unit ₹ lakh (annual report segment tables); quarterly presentation figures are ₹ crore · Operating profit = 'Segment Profit or Loss' per Ind AS 108 segment disclosure, i.e. segment result before unallocable corporate expenditure, other income and finance costs — it is the segment's contribution to Earnings Before Interest & Tax, not EBITDA or PBT. Revenue is segment revenue reconciling to 'Total revenue as per Statement of Profit and Loss' (sales and operational income allocable to the segment; no inter-segment elimination is separately disclosed). Figures taken from CONSOLIDATED segment reporting, which captures the full aluminium business including DR Axion India and Sunbeam Lightweighting Solutions; standalone Craftsman-only Aluminium Products was ₹91,746 lakh revenue / ₹12,902 lakh result in FY2024, ₹1,15,957 / ₹11,600 in FY2025 and ₹1,80,072 / ₹24,202 in FY2026. Quarterly figure is consolidated segment EBIT in ₹ crore.
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh (annual report segment tables); quarterly presentation figures are ₹ crore) | 215,361 | 303,275 | 478,875 |
+| Revenue growth (%) | — | +40.8% | +57.9% |
+| Operating profit (₹ lakh (annual report segment tables); quarterly presentation figures are ₹ crore) | 32,203 | 31,170 | 49,424 |
+| Operating profit growth (%) | — | -3.2% | +58.6% |
+| Operating margin (%) | 15.0 | 10.3 | 10.3 |
+| PAT (₹ lakh (annual report segment tables); quarterly presentation figures are ₹ crore) | — | — | — |
+| PAT growth (%) | — | — | — |
+
+*Sources:* Annual Report 2024 — page 125 (revenue); Annual Report 2024 — page 126 (segment profit); Annual Report 2025 — page 239; Annual Report 2026 — page 226 (revenue); Annual Report 2026 — page 227 (segment profit)
+
+*Latest quarter (Q1 FY27):* revenue 1479, operating profit 150 — Presentation Aug 2026 — page 10 (also page 12)
+
+*Not in the pages read:* No segment-level PAT, tax, interest, depreciation or EBITDA for any year — segment disclosure stops at segment result/EBIT; tax and finance costs are only entity-level.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9b43f718-4050-481b-a648-e7f07b984381.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/e4ccaa35-5d39-4fac-a952-83b11ad83c53.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/163520c2-efc1-4bbe-9a84-f710a54c1baf.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f63e98f7-6609-4017-a52e-91032cf32c76.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c42326a2-0b18-423e-8e99-eda74d20dc80.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b6dbb7b-8cab-45fd-a654-2c348b98452e.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51c69dd7-8e80-4447-bde6-a774ec817478.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7f0db29-cb60-4631-8df0-bb72f95585e4.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32b10f49-66d5-4b6c-b2a6-4a9f7b48598b.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 3,623 cr (Mar 2026) = 0.14× market cap; P/E 67.2 on Mar 2026 profit vs industry median 40.7 (35 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 242 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…this one? Srinivasan Ravi: Currently, in the next 18 months, we are not looking at any large inorganic subjects. It may be a few crores here and there for some slump sale for taking over some technological area somewher” |
+
+**On the calls (last 12 months):**
+
+- *Nov 2025* (backward) — “…this one? Srinivasan Ravi: Currently, in the next 18 months, we are not looking at any large inorganic subjects. It may be a few crores here and there for some slump sale for taking over some technological area somewhere, it can be possible, but I would rule out any M&A in a big way in the next 18 months. And I do not see any me…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-02-13 | Outcome of Board Meeting | Outcome of Board Meeting held on Friday, 13th February, 2026, pursuant to | [pdf](https://nsearchives.nseindia.com/corporate/CRAFTSMAN_13022026172312_Craftsmanintimationoutcome.pdf) |
+
+</details>
+
+## MANKIND — Mankind Pharma Ltd.
+
+**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · scheme (nature unclear) · 1 filing(s) from NSE-deep · first 2026-04-13, latest 2026-04-13
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** 100% stake in Broadway Hospitality Services Private Limited, a wholly owned subsidiary, sold for cash to outside buyers — class `unrelated`.
+
+- *Insiders:* Buyers AKRK Projects LLP and its Partners "do not belong to the Promoter or Promoter Group of the Company"; no promoter or management stake in the divested entity stated.
+- *What it reveals:* Broadway is immaterial to the parent: turnover ₹9.63 cr (0.07%), total income ₹9.90 cr (0.07%), net worth ₹38.99 cr (0.24%), yet sold for ₹49.00 cr — above book net worth, bringing cash to the parent.
+- *Selling pressure:* unlikely — Cash sale of a tiny wholly owned subsidiary (0.07% of revenue); no shares distributed to shareholders, so no new listing to be sold.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* Share Purchase Agreement and any closing adjustment to the ₹49.00 crore consideration; also BSV branded generic slump-sale accounting.
+- *In their words:* “As part of the Company’s strategy to divest it’s non-core assets, the Board of Directors of the Company at its meeting held today i.e. July 11, 2026, has approved the divestment of 100% stake in Broadway, to AKRK Projects LLP and Partners and authorised for execution of Share Purchase Agreement.”
+
+### Why the demerger — three years of calls and the scheme
+
+On these texts alone, there is no demerger or spin-off of a pharmaceutical business being explained — the only 'separation' documented is a non-core asset exit: at its July 11, 2026 board meeting Mankind approved divesting 100% of Broadway Hospitality Services Private Limited, a wholly owned subsidiary, to AKRK Projects LLP and Partners for ₹49.00 crore (subject to closing adjustment), to be completed within 90 days, with the stated reason being 'the Company's strategy to divest it's non-core assets'. The size disclosures make the logic plain: Broadway contributed FY26 revenue of ₹9.63 crore (0.07% of the company), total income ₹9.90 crore (0.07%) and net worth ₹38.99 crore (0.24%) — a hospitality business immaterial to a pharma company, sold to a non-promoter, non-related party. The same board approved the opposite leg of the reshaping: a new Netherlands wholly owned subsidiary as an SPV to hold R&D assets and do business development in niche therapies, through joint ventures or strategic interests, with investment of up to EUR 5 million in tranches — i.e. cash out of non-core hospitality, capital into focused R&D/in-licensing. A third, earlier step in the same clean-up was the April 13, 2026 approval to wind up Mankind Pharma Lanka (Private) Limited, a non-operating, non-material Sri Lankan WOS, because 'changed regulatory requirements' made the anticipated business objectives no longer viable. The earnings calls supply the cultural/structural argument rather than any scheme rationale: on Jan 2025 management cited the OTC business as precedent, where they corrected practices by 'hiving off', cutting the number of distributors and bringing in outside talent so one leader no longer ran OTC and pharma together, after which growth improved, and said 80–90% of the analogous changes in the Mankind Pharma Delhi division were complete with one quarter to go. The Nov 2024 call frames the productivity problem behind that focus push: the chronic-focused specialty division has productivity below the company average, newer specialty divisions (MD/DM/KOL-facing, launched in the last 3–4 years) run at about ₹3 lakh PCPM against ₹8–10 lakh in the legacy multi-specialty divisions carrying brands like Telmikind and Amlokind (₹400–500 crore each), and acute versus chronic cannot be carved out because divisions were launched as multi-specialty; chronic was ~28% of the mix five years ago. On BSV, management argued the acquired business is 'a totally different ball game' — super-specialty, critical care, gynec, IVF — with only 5–10% overlap, the exception being the TTK portfolio's 3–4 branded-prescription divisions that move to the Delhi side for optimisation; BSV's PCPM averaged 6.5 last year, but excluding TTK (under 3) the rest is upwards of ₹8 lakh.
+
+**How it evolved:** Nov 05, 2024: the groundwork is diagnostic rather than structural — low-productivity chronic/specialty divisions (~₹3 lakh PCPM vs ₹8–10 lakh legacy), an admission that acute and chronic cannot be carved out of multi-specialty divisions, and BSV described as near-zero overlap except the TTK divisions to be re-homed to Delhi. Jan 2025: the method is named, with OTC as the template — 'hiving off', separate leadership for OTC versus pharma, distributor rationalisation and outside hires — and management says 80–90% of the same changes in the Delhi division are done, one quarter remaining. Then a gap in the supplied record until April 13, 2026, when the board winds up the dormant Sri Lanka WOS, and July 11, 2026, when it converts the 'focus' theme into balance-sheet action: sell Broadway for ₹49 crore as non-core, and seed a Netherlands R&D/niche-therapy SPV with up to EUR 5 million. No call passage here ever discusses the Broadway sale, the Netherlands SPV, or any demerger of a listed business.
+
+**What management expects from it:** Scheme cites only non-core divestment: ₹49 crore cash for a unit at 0.07% of revenue and 0.24% of net worth; up to EUR 5 million goes into a Netherlands R&D/niche-therapy SPV. Calls expect focus gains — split OTC/pharma leadership lifted growth; new specialty divisions at ~3 lakh PCPM versus 8–10 lakh legacy. No margin or valuation targets given.
+
+**Point by point, with the source:**
+
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fde1a79-c646-4353-b99b-69b0f12d9383.pdf)* — Management conceded that the chronic-focused specialty division runs at productivity below the company average, while legacy divisions mix acute and chronic so chronic PCPM cannot be isolated at company level. “That's w hat we highlighted that only the specia lty division, which is chronic focus ed, the productivity is less than company average.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fde1a79-c646-4353-b99b-69b0f12d9383.pdf)* — The productivity gap was quantified: newer specialty divisions sit around ₹3 lakh PCPM, versus ₹8–10 lakh in the multi-specialty divisions carrying ₹400–500 crore brands like Telmikind and Amlokind. “But if you see the brands like Telmikind, Amlokind, these are more than INR400 crores, INR500 crores brand today and the PCPM sitting in the multi -specialty division wou ld be in the region of INR8 lakhs to INR10 lakhs.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fde1a79-c646-4353-b99b-69b0f12d9383.pdf)* — Chronic mix had been built up from a low base — about 28% of sales five years earlier — which is why newer chronic/specialty divisions are still immature on productivity. “But to add to Prakash point, around 5 years ago, our chronic contribution was ~28%.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fde1a79-c646-4353-b99b-69b0f12d9383.pdf)* — BSV is positioned as a structurally separate super-specialty business (critical care, gynec, IVF) with almost no field overlap with base Mankind — only 5–10%. “BSV is a totally different ball game .”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fde1a79-c646-4353-b99b-69b0f12d9383.pdf)* — The one integration/reorganisation item is the TTK portfolio: 3–4 branded prescription divisions move to the Delhi side, where optimisation will take place; overlap is otherwise 5–10%. “We see 5 - 10% overlapping that's all, nothing more.”
+- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fde1a79-c646-4353-b99b-69b0f12d9383.pdf)* — TTK is the drag on acquired productivity: BSV's average PCPM was 6.5 last year, but excluding TTK (under 3) the remainder is upwards of ₹8 lakh. “So BSV PCPM on an average last year was 6.5 .”
+- *[Jan 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09cab4ef-bf88-40b1-be1e-cabdff929690.pdf)* — Management offered the OTC business as the explicit precedent for separation: hiving off, rationalising distributors, bringing in different talent, and ending a mixed culture where one leader ran both OTC and pharma — after which growth improved. “We took the same kind of steps last year in OTC side, where we just accepted that these are certain practices, which need s to be corrected, whether it was number of distributors, whether hiving off, bringing different talent, making sure that it's not a mixed kind of a culture where one guy, one leader is taking care of OTC and pharma both.”
+- *[Jan 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09cab4ef-bf88-40b1-be1e-cabdff929690.pdf)* — The analogous restructuring of the Mankind Pharma Delhi division was said to be 80–90% complete, with roughly one more quarter to finish, led by new leaders hired from outside, and with 'bumps' acknowledged along the way. “80%, 90% changes are complete and the rest would take maybe next 1 quarter I'll say.”
+- *[Jan 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09cab4ef-bf88-40b1-be1e-cabdff929690.pdf)* — Because BSV was consolidated for the first year, management said organic EBITDA growth could not be given as the numbers were not strictly comparable. “Since this is the first year and the numbers are strictly not comparable, because BSV has been”
+- *Scheme* — The only separation actually approved is a non-core divestment: 100% of Broadway Hospitality Services Private Limited sold to AKRK Projects LLP and Partners, a non-promoter, non-related party, with completion targeted within 90 days. “As part of the Company’s strategy to divest it’s non-core assets, the Board of Directors of the Company at its meeting held today i.e. July 11, 2026, has approved the divestment of 100% stake in Broadway, to AKRK Projects LLP and Partners and authorised for execution of Share Purchase Agreement.”
+- *Scheme* — Consideration is ₹49.00 crore subject to closing adjustment, against Broadway's net worth of ₹38.99 crore — i.e. a premium to book for an immaterial unit. “Total consideration agreed is ₹ 49.00 Crores subject to closing adjustment, if any.”
+- *Scheme* — Materiality disclosures show how small the divested business is: FY26 turnover ₹9.63 crore (0.07% of the company), total income ₹9.90 crore (0.07%) and net worth ₹38.99 crore (0.24%). “Turnover/ 
+Revenue  9.63   0.07”
+
+*Not explained on the calls:* No demerger scheme, swap ratio, listed-entity structure, timeline, or BSV separation is described; no investor, lender, or partner request, no margin, debt, or valuation targets, and FY25–FY26 calls are missing.
+
+*Calls read (36 months):* [Jan 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09cab4ef-bf88-40b1-be1e-cabdff929690.pdf), [Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fde1a79-c646-4353-b99b-69b0f12d9383.pdf)
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 10,260 | 12,207 | 14,278 |
+| Sales growth (%) | +17.3% | +19.0% | +17.0% |
+| Operating profit (₹ cr) | 2,517 | 3,026 | 3,625 |
+| Operating profit growth (%) | +32.3% | +20.2% | +19.8% |
+| Operating margin (%) | 24.5 | 24.8 | 25.4 |
+| PAT (₹ cr) | 1,942 | 2,011 | 1,938 |
+| PAT growth (%) | +48.2% | +3.6% | -3.6% |
+| PAT margin (%) | 18.9 | 16.5 | 13.6 |
+| EPS (₹) | 47.8 | 48.3 | 46.3 |
+
+*Source: ProfitStatement/NiftyTotalMarket/MANKIND.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [10260, 12207, 14278]
+    bar [2517, 3026, 3625]
+    bar [1942, 2011, 1938]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [24.5, 24.8, 25.4]
+    line [18.9, 16.5, 13.6]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 47.8 — live market file (screener.in), trailing (price ₹2,470.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2023 | Mar 2024 | Mar 2025 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 2,152 | 2,413 | 3,121 |
+| Cash from investing (₹ cr) | -2,081 | -12,624 | -181 |
+| Cash from financing (₹ cr) | 5.0 | 10,233 | -2,953 |
+| Net cash flow (₹ cr) | 77.0 | 22.0 | -12.0 |
+| Free cash flow (₹ cr) | 1,771 | 1,895 | 2,387 |
+
+*Source: CashFlow/NiftyTotalMarket/MANKIND.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 10 presentation(s) on file) do not carry this business's own revenue or profit: Pages carry no Broadway revenue, EBITDA/EBIT, PBT or PAT for any year or quarter — only its name in related-party lists and ₹5.46 crore consolidation goodwill.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8d06aceb-5f6d-4492-bac3-ad6b6d063172.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/f4249a79-2986-44b0-b7d4-a24ec3409ba9.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/b6f4cbc2-fac4-4ed6-9738-115aa45b2eb7.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f52efb65-7205-4441-8091-ac2e8c35dbe9.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2d685134-1920-4e18-8f60-6d476c81457a.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa7f58c8-bb30-43c8-8184-df124142ee0b.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7951849a-2f16-43f2-a94b-a1740f7d2ca1.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9390a370-5720-4b96-8d2c-d1065a2ab458.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e768a11-e3f8-46fe-be52-d95b8ea90c41.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 6,312 cr (Mar 2026) = 0.06× market cap; P/E 52.6 on Mar 2026 profit vs industry median 52.7 (45 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 183 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…red to the adjusted EBITDA margin of 25.9% in Q3 '26. This decrease is attributable to exceptional items comprising of New Labo ur Code adoption, stamp duty on slump sale of BSV branded generic business w ithin the grou” |
+
+**On the calls (last 12 months):**
+
+- *Feb 2026* (backward) — “…red to the adjusted EBITDA margin of 25.9% in Q3 '26. This decrease is attributable to exceptional items comprising of New Labo ur Code adoption, stamp duty on slump sale of BSV branded generic business w ithin the group, and impairment of some noncurrent surplus assets. The R&D expenses for the quarter was INR102 crores, which…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-04-13 | Outcome of Board Meeting | Outcome of the Board Meeting | [pdf](https://nsearchives.nseindia.com/corporate/MANKIND4_13042026152326_Outcome.pdf) |
 
 </details>
 
@@ -6002,7 +7263,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 402,962 cr (Mar 2026) = 0.23× market cap; P/E 18.5 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 256 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 257 days since the first filing, stage nclt_sanction |
 | Management discussing it on the calls | yes | 13 mention(s) in the last 12 months of calls — “…etail platform. So, these are customers who shopped across at least one of the platforms. In terms of topline growth, as you would recollect, RCPL business was demerged out on 1 st of December. So Q1 had the full revenu” |
 
 **On the calls (last 12 months):**
@@ -6147,7 +7408,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 79,109 cr (Mar 2026) = 0.63× market cap; P/E 1.5 on Mar 2026 profit vs industry median 41.6 (35 peers) |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 362 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 363 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 6 mention(s) in the last 12 months of calls — “…o years. The TMLCV has announced Rs. 4 of dividend in the results meeting yesterday. So this actually represents a total dividend of Rs. 7 in the year when the demerger was undertaken and an increase over the Rs. 6 that” |
 
 **On the calls (last 12 months):**
@@ -6295,7 +7556,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 106,622 cr (Mar 2026) = 0.26× market cap; P/E 40.9 on Mar 2026 profit vs industry median 19.4 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 194 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 195 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 | Management discussing it on the calls | yes | 6 mention(s) in the last 12 months of calls — “…question for the management. Prateek Kumar: Yes, I was asking regarding the Airport segment, you have exited this year on a strong note. When should we look at demerger of this business, which you have talked about in t” |
 
 **On the calls (last 12 months):**
@@ -6441,7 +7702,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 129 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 130 days since the first filing, stage announced |
 | Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…our security offerings. It has AI. Now this does not form part of GBS. Which is why we said that we have t o look at our entire revenue stream, go by project, carve out not by technology but what is the impact or releva” |
 
 **On the calls (last 12 months):**
@@ -6569,7 +7830,7 @@ xychart-beta
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 11 cr (Mar 2026) = 0.00× market cap; P/E 23.9 on Mar 2026 profit vs industry median 24.6 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
 | Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 89 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 90 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -6589,28 +7850,32 @@ xychart-beta
 
 **What is being separated, as the documents put it:** not stated — class `not stated`.
 
-- *Insiders:* not stated
+- *Insiders:* not stated; documents state only that promoter Mentor Capital Limited is to subscribe up to Rs. 2,450 crores of NCRPS in Authum itself
 - *What it reveals:* not stated
-- *Selling pressure:* unclear — not stated
-- *Parent or spin:* neither · *option pricing date:* not stated
-- *Read next:* ISARC rights issue call letters and net worth of Rs. 353.29 Crores as of March 31, 2026
-- *In their words:* “AIIL currently holds 20,32,50,000 equity shares of the ISARC agg. to 88.37% of the total issued and paid-up share capital of ISARC.”
+- *Selling pressure:* unclear — not stated; no demerged or resulting entity described in these documents
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* The February 20, 2026 announcement and the NCLT Ahmedabad order dated July 27, 2026 on the Wind World resolution plan
+- *In their words:* “The financial commitment of the Company under the Resolution Plan is approx. INR 350,00,00,000 (Indian Rupees Three Hundred and Fifty Crore).”
 
 ### Why the demerger — three years of calls and the scheme
 
-The materials supplied do not contain any separation, demerger, spin-off or scheme-of-arrangement rationale for Authum Investment & Infrastructure Ltd. (AIIL), so no management reasoning for separating a business can be reconstructed from them. The 'CALL PASSAGES' section is empty — no earnings call text of any year was provided — and the section labelled 'SCHEME RATIONALE' is in fact three unrelated Regulation 30 / LODR intimations signed by Company Secretary Dipyanti Jaiswar: (1) an 18 August 2026 intimation of a rights-issue subscription in subsidiary India SME Asset Reconstruction Company Ltd. (ISARC), where AIIL holds 20,32,50,000 shares (88.37%), ISARC had net worth of Rs. 353.29 crore and turnover of Rs. 17.42 crore as of 31 March 2026 (Rs. 21.21 crore FY2024-25, Rs. 2.47 crore FY2023-24), and AIIL agreed to take 40,65,00,000 shares in a 2-for-1 rights issue at Rs. 10 face value, paying 25% (Rs. 2.50/share, Rs. 101,62,50,000) as application money; (2) a 28 July 2026 intimation that NCLT Ahmedabad approved on 27 July 2026 the IBC resolution plan of the Inox Neo Energies Ltd. (INEL, lead member) and AIIL consortium for Wind World (India) Ltd., with AIIL's financial commitment approx. Rs. 350 crore; and (3) an 11 July 2026 intimation that NCLT rejected on 7 July 2026 the Vas Infrastructure Ltd. resolution plan in which AIIL was Successful Resolution Applicant. The only business-splitting element anywhere in these texts is internal to the Wind World acquisition, not to AIIL: the plan allocates WWIL's IPP and power-sale undertaking and its O&M business to INEL and/or its affiliates, while AIIL and/or its affiliates take certain identified real estate/assets — a carve-up of an acquisition target between consortium members, with no stated rationale, no margin, capital or valuation argument, and no party identified as having asked for it. These filings state the opposite of a separation in AIIL's own portfolio: AIIL is adding capital to ISARC and acquiring assets, and the Vas rejection is stated to have 'no impact on the business operations of the Company.' Answering the question as asked would require inventing management commentary that is not in the supplied material, which I will not do.
+The supplied texts do not contain any separation, demerger, spin-off or scheme-of-arrangement rationale for Authum Investment & Infrastructure Ltd. (AIIL), so no reasoning can be reconstructed from them without drawing on outside knowledge. The 'CALL PASSAGES' section was delivered empty — there are no earnings-call extracts from any year, and therefore no management commentary, no investor or lender requests, and no evolving plan to trace. The document labelled 'Scheme Rationale' is in fact not a scheme filing: it is AIIL's Regulation 30 outcome of the Board Meeting of October 16, 2025, which covers three unrelated items — approval of up to 2,45,00,000 Non-Cumulative Non-Convertible Redeemable Preference Shares of Rs. 10 face value issued at Rs. 1,000 (Rs. 990 premium), aggregating up to Rs. 2,450 crores, on private placement to promoter Mentor Capital Limited; the resignation of Non-Executive Director Ms. Alpana Dangi (DIN 01506529) for personal commitments; and a postal-ballot notice (e-voting October 19 to November 17, 2025) seeking approval for Mr. Rajeev RA as Independent Director, the material related-party transaction with Mentor Capital, and the NCRPS issue. The second attachment is a separate Regulation 30 intimation dated August 18, 2026 about AIIL subscribing to a rights issue in its 88.37%-owned subsidiary India SME Asset Reconstruction Company Limited (ISARC), an ARC registered under the SARFAESI Act, 2002. Neither document identifies a business being carved out, a resulting entity, a share-entitlement ratio, or any problem a separation would solve. The only businesses named anywhere are AIIL itself, promoter Mentor Capital Limited, and the ISARC subsidiary — and ISARC is being funded into, not separated out. Answering the question as asked would require inventing facts, so the specifics requested (named businesses, cited numbers, problems solved, who asked for it) are reported as absent rather than supplied.
 
-**How it evolved:** No evolution can be traced: there are no tagged earnings calls and no dated management commentary on a separation. The only chronology available from the filings is of acquisitions and insolvency outcomes — 2 April 2025 (AIIL emerges as Successful Resolution Applicant for Vas Infrastructure), 17 June 2025 (AIIL acquires majority of ISARC), 20 February 2026 (Wind World consortium announcement), 7 July 2026 (NCLT rejects the Vas plan), 27 July 2026 (NCLT approves the Wind World plan), 18 August 2026 (ISARC rights-issue subscription). Nothing in this sequence is presented by the company as leading toward, or arising from, a separation of a business.
+**How it evolved:** No call-by-call evolution can be shown because no call passages were provided — the transcript section is empty and no call labels or dates exist to cite. The only datable events in the texts are the Board Meeting of October 16, 2025 (NCRPS to the promoter, director resignation, postal ballot) and the intimation of August 18, 2026 (rights-issue subscription in subsidiary ISARC, with ISARC's March 31, 2026 net worth of Rs. 353.29 crores and turnover of Rs. 17.42 crores). Between those two dates the direction visible in the documents is capital being raised from the promoter and pushed down into a subsidiary, which is consolidation of funding rather than separation.
 
-**What management expects from it:** Not stated. The texts contain no management expectation for a separation — no commentary on margins, capital allocation, valuation re-rating or management focus for any resulting entity. The only forward-looking statements are that AIIL will make further rights-issue call payments to ISARC and update the exchanges, and that the Vas rejection leaves operations unaffected.
+**What management expects from it:** Nothing is stated — the texts contain no expectation for any separated entity: no margin, capital-allocation, valuation or focus benefit, and no post-separation structure. The only forward-looking economics disclosed are the NCRPS terms (15-year tenure, 0.01% p.a. non-cumulative dividend, redemption premium giving a 6.5% IRR) and further equity funding into the 88.37%-held subsidiary ISARC.
 
 **Point by point, with the source:**
 
-- *Scheme* — Within the Wind World (India) Ltd. insolvency acquisition, the consortium plan splits WWIL's businesses between members — INEL and/or affiliates take the IPP/power-sale undertaking and the O&M business, AIIL and/or affiliates take identified real estate/assets. This is the only separation of any business described in the supplied texts, and the filing gives no reason for the split. “The Resolution Plan submitted by the consortium of INEL and the Company inter alia envisaged that INEL as the Lead Member and/or its affiliates shall acquire (i) the IPP and power sale undertaking; and (ii) the operations and maintenance (O&M) business of WWIL, while the Company and/or its affiliates shall acquire certain identified real estate / assets from WWIL.”
-- *Scheme* — The 18 August 2026 filing is a capital infusion into a subsidiary, not a separation: AIIL subscribes to a 2:1 rights issue in ISARC (88.37%-held) purely to fund the subsidiary's general business requirements, paying Rs. 101.625 crore as 25% application money on 40,65,00,000 shares. “Currently, Authum Investment & Infrastructure Limited is holding 88.37% share capital of ISARC and on account of Rights Issues offered by ISARC, the Company has accepted to invest further serving the subsidiary to meet its capital requirement for general business operations.”
-- *Scheme* — The 11 July 2026 filing records NCLT's 7 July 2026 rejection of the Vas Infrastructure resolution plan in which AIIL was the Successful Resolution Applicant, and expressly states the rejection does not affect AIIL's operations — again no mention of separating any business. “We would further like to state that on account of the aforesaid rejection of the resolution plan there is no impact on the business operations of the Company.”
+- *Scheme* — The document presented as the scheme rationale is actually the Regulation 30 outcome of AIIL's October 16, 2025 board meeting; its first item is a Rs. 2,450 crore NCRPS private placement to promoter Mentor Capital Limited, not a demerger. “Approved the proposal to issue of upto 2,45,00,000 (Two Crores Forty -Five Lakh) Non -Cumulative Non-Convertible Redeemable Preference Shares ("NCRPS") of face value of Rs. 10/ - (Rupees Ten Only) each fully paid -up at a price of Rs. 1000/ - (Rupees One Thousand Only) including premium of Rs. 990/ - (Rupees Nine Hundred and Ninety Only), in one or more tranches, aggregating up to Rs. 2,450 Crores (Rupees Two Thousand Four Hundred and Fifty Crores) to Mentor Capital Limited, Promoter of the Company, on private placement basis, subject to the approval of Shareholders.”
+- *Scheme* — The NCRPS terms are the only economics disclosed: 15-year tenure, 0.01% p.a. non-cumulative dividend, unlisted, unsecured, redeemed at a premium sized to a 6.5% IRR — i.e. cheap long-dated promoter capital, with no linkage to any separation. “NCRPS shall be redeemed at premium at the end of the tenure to provide IRR of 6.5% on the issue price.”
+- *Scheme* — The same board meeting approved a postal ballot covering the NCRPS issue, a material related-party transaction with Mentor Capital Limited, and an independent director appointment; no scheme of arrangement is put to shareholders. “The Board has approved the draft notice of Postal Ballot to seek shareholders' approval for the appointments of Mr. Rajeev RA (DIN: 03125952) as the Independent Director of the Company Approval of Material Related Party Transaction with Mentor Capital Limited and Issuance of Non -Cumulative Non -Convertible Redeemable Preference Shares.”
+- *Scheme* — The only other corporate change disclosed is a director exit attributed to personal commitments, with no reference to restructuring. “Noted the resignation of Ms. Alpana Dangi (DIN: 01506529) as the Non - Executive Director of the Company w.e.f. close of business hours on October 16, 2025 due to her personal commitments.”
+- *Scheme* — The August 18, 2026 intimation shows AIIL increasing its commitment to subsidiary ISARC via a 2-for-1 rights issue, paying 25% application money of Rs. 101.625 crores — the opposite direction from a separation. “Pursuant to the Rights Issue offered by ISARC, AIIL has agreed to subscribe 40,65,00,000 equity shares offered to the Company by the Subsidiary Company i.e. India SME Asset Reconstruction Company Limited (ISARC) and have made payment of 25% of the issue price of Rs 10 per Equity Share, i.e., Rs. 2.50/- per Equity Share agg. to Rs. 1,01,62,50,000 /- (Rupees One Hundred and One Crore Sixty-Two Lakhs and Fifty Thousand) as application money on August 18, 2026 offered to the Company pursuant to the Rights Issue offered by ISARC in the ratio of 2 (Two) Equity Shares for every 1 (One) Equity Share held.”
+- *Scheme* — AIIL's pre-rights holding in ISARC is stated at 88.37%, confirming ISARC is a consolidated subsidiary being further funded rather than a unit identified for demerger. “AIIL currently holds 20,32,50,000 equity shares of the ISARC agg. to 88.37% of the total issued and paid-up share capital of ISARC.”
+- *Scheme* — The only operating metrics given anywhere in the texts are ISARC's balance-sheet and revenue figures as of March 31, 2026, disclosed for the related-party acquisition annexure, not in support of any separation. “Net Worth of ISARC (as of March 31, 2026): Rs. 353.29 Crores.”
 
-*Not explained on the calls:* Everything: no earnings call passages were supplied, no scheme rationale, no demerged undertaking, ratio, record date, appointed date, listing plan, or any reason, requester or benefit for a separation.
+*Not explained on the calls:* Everything about the separation: no demerger rationale, no business named, no entity structure, ratio, timeline, or investor/lender asks. No earnings-call passages were supplied.
 
 ### The parent, last three fiscal years (consolidated)
 
@@ -6666,7 +7931,7 @@ The segment pages read (3 annual report(s) and 5 presentation(s) on file) do not
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | P/E 23.7 on Mar 2026 profit vs industry median 24.6 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 92 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 93 days since the first filing, stage nclt_sanction |
 
 <details><summary>The filings</summary>
 
@@ -6795,7 +8060,7 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 728 cr (Mar 2026) = 0.01× market cap; P/E 43.7 on Mar 2026 profit vs industry median 24.2 (25 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 300 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 301 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -6914,7 +8179,7 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 15,894 cr (Mar 2026) = 0.25× market cap; P/E 34.5 on Mar 2026 profit vs industry median 39.8 (8 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 48 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 49 days since the first filing, stage nclt_sanction |
 
 <details><summary>The filings</summary>
 
@@ -7029,7 +8294,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 259 cr (Mar 2026) = 0.00× market cap; P/E 45.1 on Mar 2026 profit vs industry median 38.9 (17 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 146 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 147 days since the first filing, stage nclt_sanction |
 
 <details><summary>The filings</summary>
 
@@ -7139,7 +8404,7 @@ The segment pages read (3 annual report(s) and 11 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 6,906 cr (Mar 2026) = 0.45× market cap; P/E 15.4 on Mar 2026 profit vs industry median 36.0 (22 peers) |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 313 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 314 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 
 <details><summary>The filings</summary>
 
@@ -7250,7 +8515,7 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 4,627 cr (Mar 2026) = 0.01× market cap; P/E 41.5 on Mar 2026 profit vs industry median 52.7 (45 peers) |
 | Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | not yet listed — 369 days since the first filing, stage effective |
+| Timing (first year sells, second year gains) | partly | not yet listed — 370 days since the first filing, stage effective |
 
 <details><summary>The filings</summary>
 
@@ -7364,7 +8629,7 @@ Not extracted — no segment pages found in the stored reports (0 annual report(
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 12,249 cr (Mar 2026) = 0.24× market cap; P/E 50.2 on Mar 2026 profit vs industry median 47.3 (5 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 263 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 264 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -7497,7 +8762,7 @@ xychart-beta
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
 | Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 195 days since the first filing, stage announced |
+| Timing (first year sells, second year gains) | partly | not yet listed — 196 days since the first filing, stage announced |
 
 <details><summary>The filings</summary>
 
@@ -7613,13 +8878,238 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 301 days since the first filing, stage nclt_sanction |
+| Timing (first year sells, second year gains) | partly | not yet listed — 302 days since the first filing, stage nclt_sanction |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2025-12-15 | Scheme of Arrangement | Lumax Auto Technologies Limited has informed the Exchange about Intimation under Regulation 30 of Securities and Exchange Board of India (Listing Obligations an | [pdf](https://nsearchives.nseindia.com/corporate/LUMAXTECH_15122025182347_LATLIntimationIACorder15122025.pdf) |
+
+</details>
+
+## MTARTECH — MTAR Technologies Ltd.
+
+**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 1.7/10 · scheme (nature unclear) · 2 filing(s) from NSE-BM · first 2025-11-05, latest 2025-11-05
+
+> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**What is being separated, as the documents put it:** not stated — class `not stated`.
+
+- *Insiders:* not stated
+- *What it reveals:* not stated
+- *Selling pressure:* unclear — Documents disclose only that a scheme of arrangement would be considered; no size, entity or industry details.
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* Board outcome of the 5th November 2025 meeting setting out the scheme of arrangement terms.
+- *In their words:* “Pursuant to Regulation 29 read with Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform the Exchanges that the Board Meeting of the Company will be held on Wednesday, 5th November 2025 at 3:30 p.m. at the registered office of the Company to consider and approve inter alia the following:”
+
+### Why the demerger — three years of calls and the scheme
+
+The texts supplied do not contain any separation rationale, and none can be reconstructed from them. The "CALL PASSAGES" section is empty — no earnings-call passages from any of the three years were included, so there is no management commentary to draw on. The document labelled "SCHEME RATIONALE (filing text, truncated)" is not a rationale section at all: it is a Regulation 29/33 board-meeting intimation to BSE (scrip code 543270) and NSE (symbol MTARTECH), dated 30th October 2025 and signed by Company Secretary & Compliance Officer Naina Singh. It states only that the Board would meet on Wednesday, 5th November 2025 at 3:30 p.m. at the registered office to consider and approve, inter alia, the unaudited standalone and consolidated financial results and limited review report for the quarter and half year ended 30th September 2025, item 3 "Scheme of arrangement," and any other business with the Chair's permission. It also notes that the trading window closed per the letter dated 25th September 2025 remains shut until 48 hours after declaration of the results. The only fact about the separation that these texts establish is that a scheme of arrangement was placed before the MTAR Technologies board on 5th November 2025. No business or undertaking is named, no demerged/resulting entity is identified, no financials, segment revenues, margins, capital-allocation or valuation figures are cited, no requesting party (investor, lender or partner) is mentioned, and no stated problem is said to be solved. Supplying the actual call transcripts and the scheme's rationale clauses would be required to answer as asked.
+
+**How it evolved:** No evolution can be traced: zero earnings-call passages were provided, so there are no call dates, no first mention of a separation, and no record of the idea being raised, deferred or reshaped. The single dated data point in the texts is the intimation letter of 30th October 2025 flagging "Scheme of arrangement" as an agenda item for the board meeting of 5th November 2025, with results for the quarter and half year ended 30th September 2025 taken up at the same meeting. Whether the scheme was discussed on earlier calls, and in what form, is not determinable from these documents.
+
+**What management expects from it:** Not stated anywhere in the supplied texts. Management makes no claim about margins, capital allocation, funding, valuation re-rating, management focus, customer or partner alignment, or debt allocation for either entity, because no call commentary and no scheme rationale clauses were provided — only a board-meeting agenda naming a scheme of arrangement.
+
+**Point by point, with the source:**
+
+- *Scheme* — The 30th October 2025 exchange intimation lists a scheme of arrangement as agenda item 3 for the board meeting of 5th November 2025, alongside the Q2/H1 FY26 unaudited results — the only confirmation in these texts that a separation was formally before the board, with no description of it. “3. Scheme of arrangement.”
+- *Scheme* — The filing is a Regulation 29 read with Regulation 33 board-meeting intimation, not a rationale document; it conveys only the date, time, venue and agenda of the meeting at which the scheme would be considered. “Pursuant to Regulation 29 read with Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform the Exchanges that the Board Meeting of the Company will be held on Wednesday, 5th November 2025 at 3:30 p.m.  at the registered office of the Company to consider and approve inter alia  the following:”
+- *Scheme* — Insider-trading restrictions were kept in force until 48 hours after the results were declared, per the earlier letter of 25th September 2025 — context around the meeting, but silent on the scheme's purpose. “Further, with reference to our letter dated 25th September 2025 regarding closure of trading window for dealing in shares of the Company, we hereby inform you that pursuant to the Code of Conduct to Regulate, Monitor and Report Trading in Securities of the Company, the trading window for dealing in shares of the Company shall continue to remain closed till 48 hours after declaration of Unaudited financial results, for all the Designated Persons of the Company and their Immediate Relatives on account of consideration of Un-audited Financial results (Consolidated and Standalone) for the quarter and half year ended 30th September 2025.”
+
+*Not explained on the calls:* Everything: which business is being separated, into what entity, the share-entitlement ratio, segment financials, who asked for it, timelines, approvals, and any stated benefit.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 581 | 676 | 876 |
+| Sales growth (%) | +1.2% | +16.4% | +29.6% |
+| Operating profit (₹ cr) | 113 | 121 | 171 |
+| Operating profit growth (%) | -26.6% | +7.1% | +41.3% |
+| Operating margin (%) | 19.4 | 17.9 | 19.5 |
+| PAT (₹ cr) | 56.0 | 53.0 | 94.0 |
+| PAT growth (%) | -45.6% | -5.4% | +77.4% |
+| PAT margin (%) | 9.6 | 7.8 | 10.7 |
+| EPS (₹) | 18.2 | 17.2 | 30.6 |
+
+*Source: ProfitStatement/NiftyTotalMarket/MTARTECH.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [581, 676, 876]
+    bar [113, 121, 171]
+    bar [56, 53, 94]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [19.4, 17.9, 19.5]
+    line [9.6, 7.8, 10.7]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 255.1 — close 2026-10-01 ÷ EPS 30.57 (Mar 2026) (price ₹7,797.00 as of 2026-10-01).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 57.0 | 101 | 197 |
+| Cash from investing (₹ cr) | -56.0 | -103 | -353 |
+| Cash from financing (₹ cr) | 25.0 | -36.0 | 155 |
+| Net cash flow (₹ cr) | 27.0 | -37.0 | -1.0 |
+| Free cash flow (₹ cr) | -36.0 | 2.0 | 64.0 |
+
+*Source: CashFlow/NiftyTotalMarket/MTARTECH.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 12 presentation(s) on file) do not carry this business's own revenue or profit: All figures. The separating business is unnamed and undisclosed; MTAR reports one single segment. Quarterly pages carry only order book, no segment revenue or profit.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/99b4f1ca-070a-4ee0-b54e-37e99d14d78b.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/7c8ea8be-5bcc-400f-a604-800a8ecbc201.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/a00799cd-2a2a-4252-bf88-3b9521419bbe.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1cb7bb8-13fd-41c8-9b7d-5e2cb401512f.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77922309-9b2b-4534-a660-cf8fee4a2d51.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70495349-6ab6-4445-80c5-779e3031f1cf.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d23a1412-cfdb-4bb4-ba71-ea5690b8f41c.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11fdc227-6d0e-4b9e-91bb-e2b0da74c964.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0cf36b5c-4457-47e1-9ecc-7c1f3cdecd96.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 342 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-11-05 | Board Meeting (purpose) | Financial Results/Other business matters To consider and approve the financial results for the period ended September 30, 2025, Scheme of Arrangement and other  | [pdf](https://nsearchives.nseindia.com/corporate/MTARTECH_30102025152729_Intimation.pdf) |
+| 2025-11-05 | Board Meeting (purpose) | Board Meeting Intimation MTAR TECHNOLOGIES LIMITED has informed the Exchange about Board Meeting to be held on 05-Nov-2025 to consider and approve the Half Year | [pdf](https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_69721_1561311_30102025032925_WEB.xml) |
+
+</details>
+
+## PFOCUS — Prime Focus Ltd.
+
+**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 1.7/10 · scheme (nature unclear) · 3 filing(s) from NSE · first 2026-05-07, latest 2026-05-12
+
+> **Listing:** NOT YET — scheme at 'nclt_sanction' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**The stages, as filed:** nclt_sanction (2026-05-08)
+
+**What is being separated, as the documents put it:** Not a spin-off; documents describe RMWL's film and media services business transferred to Prime Focus under a 2014 BTA — class `not stated`.
+
+- *Insiders:* Mr. Namit Malhotra, promoter of the Corporate Debtor, executed a Personal Guarantee dated 25.05.2021 unconditionally guaranteeing repayment of all sums due under the Loan Agreement.
+- *What it reveals:* Company claims it is financially viable with wealth of more than Rs. 20,000 crores, yet faces admitted CIRP over Rs. 353.79 crores default; Studio booked at fair value Rs. 200.14 crores without occupation certificates.
+- *Selling pressure:* unclear — No demerger, record date or listing in documents; filing concerns Section 7 CIRP admission and NCLAT stay.
+- *Parent or spin:* neither · *option pricing date:* not stated
+- *Read next:* NCLAT order from the 11.05.2026 hearing, and Commercial Suit (L) No. 21566 of 2023 pending in Bombay High Court.
+- *In their words:* “It is stated that the CD is a financially viable company and the initiation of CIRP would hinder the company's wealth of more than Rs. 20,000 Crores.”
+
+### Why the demerger — three years of calls and the scheme
+
+The material supplied does not support an answer to the question as asked: there is no separation, demerger, or spin-off rationale anywhere in it. The 'CALL PASSAGES' section is empty — no earnings call passages from any year were included, so there is no management commentary, no cited numbers, no named businesses being separated, and no party (investor, lender or partner) asking for a separation. The text labelled 'SCHEME RATIONALE' is not a scheme rationale section at all; it is a Regulation 30 disclosure by Prime Focus Limited dated May 8, 2026 plus the enclosed NCLT and NCLAT orders, concerning the admission of an insolvency petition. Those documents state that on 6 May 2026 the NCLT Mumbai Bench admitted a Section 7 IBC petition in CP (IB)/845/MB/2023 filed by Reliance Alpha Services Private Limited against the Company, appointed NPV Insolvency Professionals Private Limited (formerly Mantrah Insolvency Professional Private Limited) as IRP, and recorded a default of Rs. 353,79,74,505 (approx. Rs. 353.79 crores, inclusive of interest on a Rs. 200 crores principal), with the date of default given as 01.12.2021; on 8 May 2026 the NCLAT directed that the IRP take no further steps until 11.05.2026. The only business transfer described is inbound and historical, not a separation: a Business Transfer Agreement dated 19.11.2014 under which assets and liabilities of Reliance Mediaworks Limited — including a 'Definitive Debt Amount' not exceeding Rs. 200 crores and three assigned BOT studio agreements (Studio Types VII, VIII and IX) — were transferred to Prime Focus, followed by an Inter-Corporate Deposit agreement dated 07.04.2015 for up to Rs. 900 crores and a Loan Agreement dated 25.02.2019. Answering why a business is being separated would require inventing content these texts do not contain, so no rationale is asserted here.
+
+**How it evolved:** No call-by-call evolution can be traced: zero earnings call passages were provided and none are tagged, so there are no call dates to attribute anything to. The only dated sequence in the material is litigation, not strategy: a Section 7 petition with default dated 01.12.2021, a loan recall notice dated 06.07.2023, the petition CP (IB)/845/MB/2023, the NCLT admission order pronounced 06.05.2026, the Company's disclosures of May 7 and May 8, 2026, and the NCLAT interim direction of 08.05.2026 staying IRP action until 11.05.2026. Nothing in that sequence describes a separation idea surfacing or changing.
+
+**What management expects from it:** Nothing. The supplied texts contain no management statements of any kind — no earnings call content was provided, and the filing excerpt is a tribunal-order disclosure with no expectations stated for margins, capital, valuation or focus for any entity, separated or otherwise.
+
+**Point by point, with the source:**
+
+- *Scheme* — The filing text is an insolvency disclosure, not a scheme rationale: the NCLT admitted a Section 7 IBC petition against Prime Focus Limited on 6 May 2026 and appointed an IRP. “NCLT Oral Order:  The oral pronouncement dated 6th May 2026 by the Hon’ble National Company Law Tribunal (“ NCLT ”), Mumbai Bench, in CP (IB)/845/MB/2023, admitting a petition filed under Section 7 of the Insolvency and Bankruptcy Code, 2016 (“ IBC”) against Prime Focus Limited (“ Company ”)”
+- *Scheme* — The admitted default is Rs. 353.79 crores including interest on a Rs. 200 crores principal; the financial creditor is Reliance Alpha Services Private Limited. “amount of default is Rs. 353,79,74,505/ - (approximately Rs. 353.79 crores, inclusive of interest on principal amount of Rs. 20 0 crores) .”
+- *Scheme* — An NCLAT interim direction obtained on a director's appeal froze the IRP's actions until 11 May 2026. “the Interim Resolution Professional (“IRP”) shall not take any 
+further steps in pursuance of the impugned NCLT order .”
+- *Scheme* — The only business transfer in the text is inbound and dated 2014 — assets and liabilities moving from Reliance Mediaworks into Prime Focus, including debt of up to Rs. 200 crores and three BOT studio assignments — not a separation of a business out of Prime Focus. “It is stated that the Corporate Debtor and one Reliance Mediaworks  Limited 
+executed a Business Transfer Agreement dated 19.11. 2014 (the “ BTA”).”
+- *Scheme* — The default date and the loan recall are specified, with the Company disputing default and claiming ongoing commercial discussions, which the creditor denied. “The date of default is mentioned as 01.12.2021.”
+- *Scheme* — A personal guarantee from promoter Namit Malhotra backs the facility. “It is stated that the Applicant  is holding Personal Guarantee dated 25.05. 2021 
+of Mr. Namit Malhotra, a promotor of the Corporate Debtor.”
+
+*Not explained on the calls:* Everything: no call passages supplied, no scheme rationale text, no businesses named for separation, no drivers, no requesting parties, no financial or valuation expectations.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 4,644 | 3,951 | 3,599 |
+| Sales growth (%) | +37.2% | -14.9% | -8.9% |
+| Operating profit (₹ cr) | 975 | 253 | 787 |
+| Operating profit growth (%) | +22.3% | -74.1% | +211.1% |
+| Operating margin (%) | 21.0 | 6.4 | 21.9 |
+| PAT (₹ cr) | 194 | -488 | -458 |
+| PAT growth (%) | +211.5% | -351.5% | +6.1% |
+| PAT margin (%) | 4.2 | -12.4 | -12.7 |
+| EPS (₹) | 4.9 | -13.5 | -12.6 |
+
+*Source: ProfitStatement/NiftyTotalMarket/PFOCUS.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [4644, 3951, 3599]
+    bar [975, 253, 787]
+    bar [194, -488, -458]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [21, 6.4, 21.9]
+    line [4.2, -12.4, -12.7]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** — — EPS -12.57 for Mar 2026 is not positive (price ₹301.55 as of 2026-10-01).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | -32.0 | 295 | 1,024 |
+| Cash from investing (₹ cr) | -317 | -352 | -590 |
+| Cash from financing (₹ cr) | 335 | 133 | 43.0 |
+| Net cash flow (₹ cr) | -15.0 | 76.0 | 478 |
+| Free cash flow (₹ cr) | -337 | -68.0 | 495 |
+
+*Source: CashFlow/NiftyTotalMarket/PFOCUS.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 9 presentation(s) on file) do not carry this business's own revenue or profit: All figures. Pages carry only single-segment consolidated and geographic data; no standalone revenue, EBITDA or PAT for the film/media services (RMWL) undertaking, and no quarterly split for it.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/1d244089-f442-4686-b713-03847588ed3b.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/2150ab67-cc8d-4769-beb6-2ba251a8e59f.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/383dc9d8-3b8a-4b46-bef2-a51223452c9c.pdf); [Presentation Sep 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2fdb2208-b794-4932-8383-5906f39f0ad2.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=865e45df-504a-4d66-9433-93b4e73aa3e8.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d8a33581-15e7-4d1a-b015-fb62680d1feb.pdf); [Presentation Jul 2021](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59b1062e-100f-4e4f-b1ef-10390f633edd.pdf); [Presentation Nov 2020](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bea8fabc-8af1-4046-a07c-fa2dfe8cb79f.pdf); [Presentation Sep 2020](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f56a06a8-ca18-4913-a991-13f6a4a2eb59.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 159 days since the first filing, stage nclt_sanction |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-05-07 | General Updates | Prime Focus Limited has informed the Exchange about Intimation regarding oral pronouncement by NCLT, Mumbai Bench filed under Section 7 of the Insolvency and Ba | [pdf](https://nsearchives.nseindia.com/corporate/PFOCUS_07052026164959_PrimeFocusLtd_Regulation30_CIRP_Disclosure.pdf) |
+| 2026-05-08 | General Updates | Prime Focus Limited has informed the Exchange about updates on orders of NCLT and NCLAT. | [pdf](https://nsearchives.nseindia.com/corporate/PFOCUS_08052026213645_Reg30DisclosureforNCLTNCLATOrderssigned.pdf) |
+| 2026-05-12 | General Updates | Prime Focus Limited has informed the Exchange about Stay of NCLT order for CIRP - Update on appellate proceedings before the Hon ble NCLAT in Comp. App. (AT) (I | [pdf](https://nsearchives.nseindia.com/corporate/PFOCUS_12052026203220_PFLNCLATReg30signed.pdf) |
 
 </details>
 
@@ -7731,7 +9221,7 @@ The segment pages read (3 annual report(s) and 12 presentation(s) on file) do no
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 159 days since the first filing, stage exchange_noc |
+| Timing (first year sells, second year gains) | partly | not yet listed — 160 days since the first filing, stage exchange_noc |
 
 <details><summary>The filings</summary>
 
@@ -7860,13 +9350,130 @@ xychart-beta
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 32,791 cr (Mar 2026) = 0.16× market cap; P/E 64.3 on Mar 2026 profit vs industry median 40.7 (35 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | no | stage listed — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | 220 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+| Timing (first year sells, second year gains) | partly | 221 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
 
 <details><summary>The filings</summary>
 
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-03-06 | General Updates | TVS Motor Company Limited has informed the Exchange about receipt of listing and trading approval from National Stock Exchange of India Limited and BSE Limited  | [pdf](https://nsearchives.nseindia.com/corporate/TVSMOTOR_06032026213826_BSENSEIntimationListingofNCRPSSD.pdf) |
+
+</details>
+
+## VIYASH — Viyash Scientific Ltd.
+
+**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 1.7/10 · scheme (nature unclear) · 3 filing(s) from NSE · first 2025-11-20, latest 2025-12-16
+
+> **Listing:** NOT YET — scheme at 'nclt_sanction' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
+
+**The stages, as filed:** nclt_sanction (2025-11-20)
+
+**What is being separated, as the documents put it:** not stated — the documents describe a composite scheme of amalgamation, not a separation of any business — class `not stated`.
+
+- *Insiders:* not stated
+- *What it reveals:* Documents consolidate nine Viyash-group entities into listed Sequent Scientific effective April 01, 2025; some transferors carry negative other equity (S.V. Labs (7,635.87) lakh; Vandana (680.49) lakh) while Symed shows 72,083.62 lakh other equity.
+- *Selling pressure:* unclear — not stated — no share exchange ratio, shareholding pattern or index treatment appears in the text provided
+- *Parent or spin:* neither · *option pricing date:* not stated
+- *Read next:* The Scheme document itself — its rationale clause and share exchange ratio/valuation report
+- *In their words:* “The Registered Offices of the Amalgamated Company, Transferor Companies, Amalgamating Companies and Transferee Companies are situated in the State of Telangana.”
+
+### Why the demerger — three years of calls and the scheme
+
+The materials supplied do not support a reconstruction of a separation rationale, and I will not supply one from memory. No earnings call passages were included — the "CALL PASSAGES" section is empty — so there is no management commentary, no cited numbers, and no statement of who asked for a separation. The one document provided is not a scheme rationale section either: it is a Viyash Scientific Limited (formerly SeQuent Scientific Limited) stock-exchange letter enclosing a Crisil Ratings press release dated January 16, 2026 withdrawing the ratings on Symed Labs Limited's bank facilities. Crucially, the corporate action it documents is the opposite of a separation: it is a two-step consolidation — Symed Labs amalgamated into Viyash Lifesciences Pvt Ltd (deemed effective for Symed on November 27, 2025), and then Viyash amalgamated into SeQuent Scientific Ltd (deemed effective for Viyash on December 16, 2025), under an NCLT Hyderabad Bench order dated November 18, 2025. The only stated reason for any action in the text is procedural: Crisil withdrew the ratings because Symed ceased to exist post-amalgamation, in accordance with its withdrawal policy. The text does describe the businesses now under one roof — SeQuent, incorporated 1985, an animal health pharmaceuticals company with seven manufacturing facilities globally, five R&D centres and presence in over 100 countries; Viyash, incorporated 2019, a mid-tier API and formulations player with nine Indian plants (~2,000 kilolitre) and one US formulation facility; and Symed, incorporated 1998, with ~50 APIs, four API plants and one R&D centre around Hyderabad, all USFDA-approved and catering exclusively to overseas markets — plus Carlyle's ~53% stake in SeQuent as of March 31, 2025 and its 74% (July 2021) to 100% (July 2024) buildup in Symed. None of that is offered as a reason to separate anything. To answer the actual question, I need the earnings call transcripts and the demerger scheme's rationale clauses.
+
+**How it evolved:** No evolution can be traced: zero call passages were provided, so there are no call dates to sequence. The only dated sequence in the text is the consolidation itself — NCLT Hyderabad order November 18, 2025; Symed into Viyash deemed effective November 27, 2025; Viyash into SeQuent deemed effective December 16, 2025; Crisil rating withdrawal published January 16, 2026. Rating history shows Symed on Crisil A/Watch Developing from October 29, 2024 through October 20, 2025 (previously Crisil A/Stable on August 4, 2023), which is consistent with a pending merger, but no document here explains it.
+
+**What management expects from it:** Not stated anywhere in the supplied texts. No management expectation for margins, capital allocation, valuation re-rating, focus, debt placement, or shareholder entitlement appears, because no earnings call passages were provided and the only filing text is a rating-withdrawal notice whose sole rationale is Crisil's own withdrawal policy.
+
+**Point by point, with the source:**
+
+- *Scheme* — The document is a Crisil rating withdrawal, and the stated trigger is a two-step amalgamation (consolidation), not a separation of any business. “Crisil Ratings has withdrawn its ratings on the bank facilities of Symed Labs Ltd (Symed), following the amalgamation of Symed with Viyash Lifesciences Pvt Ltd (Viyash) and, subsequently, Viyash's amalgamation with Sequent Scientific Ltd (Sequent).”
+- *Scheme* — The scheme of arrangement referenced was sanctioned by NCLT Hyderabad on November 18, 2025, with effectiveness dates of November 27, 2025 (Symed into Viyash) and December 16, 2025 (Viyash into SeQuent). “On November 27, 2025, the amalgamation of Symed with Viyash is deemed effective for Symed, and subsequently , on December 16, 2025, the amalgamation of Viyash with Sequent is deemed effective for Viyash-following the filing of the National Company Law Tribunal order dated November 18, 2025, Hyderabad Bench, sanctioning the scheme of arrangement , with the Registrar of Companies by Symed and Viyash respectively.”
+- *Scheme* — The only rationale articulated anywhere in the text is procedural and belongs to the rating agency, not management: Symed ceased to exist, so the ratings lapsed under policy. “Consequent to the amalgamation, Symed has ceased to exist.”
+- *Scheme* — Crisil explicitly frames its action as policy-driven, with no commercial or strategic reasoning given. “Crisil Ratings has applied its policy on withdrawal of ratings.”
+- *Scheme* — The businesses now combined are described: SeQuent is the animal health platform, while Viyash and Symed are human-health API/formulations assets — a possible later separation axis, but the text never proposes one. “Incorporated in 1985, SeQuent is a leading animal health pharmaceuticals company with a global footprint, presence in formulations and API segments across multiple markets and customers .”
+- *Scheme* — Viyash is characterised as a mid-tier API and formulations player with nine Indian plants (~2,000 kilolitre capacity) and one US formulation facility, mostly USFDA-approved. “It has nine manufacturing facilities in India with a combined capacity of ~2,000 kilolitre and one formulation facility in the US.”
+- *Scheme* — Symed's API business was export-only with four USFDA-approved plants and roughly 50 APIs around Hyderabad. “All the plants are approved by the United States Food and Drug Administration (USFDA) and cater exclusively to the overseas markets.”
+- *Scheme* — Ownership context: Carlyle-backed Viyash went from 74% of Symed in July 2021 to 100% in July 2024 by buying out the founders; Carlyle held ~53% of SeQuent at March 31, 2025. “Global private equity firm, Carlyle-backed pharmaceutical company, Viyash, took a majority stake (74%) in Symed in July 2021 and subsequently increased it to 100% in July 2024, post the acquisition of the balance stake held by Dr G Mohan Rao and Dr Parthasaradi Reddy, founders of Symed.”
+- *Scheme* — The only financials in the text are Symed's Crisil-adjusted standalone numbers — revenue Rs 785 crore (FY2025) vs Rs 709 crore (FY2024), PAT Rs 120 crore vs Rs 101 crore, PAT margin 15.4% vs 14.2%, adjusted debt/networth 0.03x vs 0.18x, interest coverage 36.66x vs 20.81x — none of them tied to any separation argument. “PAT Margin % 15.4 14.2”
+
+*Not explained on the calls:* Everything: no earnings call passages were supplied, no demerger rationale, no business being separated, no management commentary, numbers, investor/lender/partner requests, timelines, synergies, or valuation reasoning.
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 1,370 | 3,007 | 3,420 |
+| Sales growth (%) | -3.6% | +119.5% | +13.7% |
+| Operating profit (₹ cr) | 61.0 | 387 | 653 |
+| Operating profit growth (%) | +408.3% | +534.4% | +68.7% |
+| Operating margin (%) | 4.5 | 12.9 | 19.1 |
+| PAT (₹ cr) | -30.0 | 16.0 | 225 |
+| PAT growth (%) | +75.4% | +153.3% | +1306.2% |
+| PAT margin (%) | -2.2 | 0.5 | 6.6 |
+| EPS (₹) | -1.4 | 0.9 | 4.1 |
+
+*Source: ProfitStatement/NiftyTotalMarket/VIYASH.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [1370, 3007, 3420]
+    bar [61, 387, 653]
+    bar [-30, 16, 225]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [4.5, 12.9, 19.1]
+    line [-2.2, 0.5, 6.6]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 57.1 — close 2026-10-01 ÷ EPS 4.06 (Mar 2026) (price ₹231.75 as of 2026-10-01).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 31.0 | 345 | 323 |
+| Cash from investing (₹ cr) | -6.0 | -448 | -84.0 |
+| Cash from financing (₹ cr) | -1.0 | 87.0 | -123 |
+| Net cash flow (₹ cr) | 23.0 | -16.0 | 115 |
+| Free cash flow (₹ cr) | 19.0 | 258 | 225 |
+
+*Source: CashFlow/NiftyTotalMarket/VIYASH.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+The segment pages read (3 annual report(s) and 10 presentation(s) on file) do not carry this business's own revenue or profit: Separating business not named; no segment revenue, EBITDA/EBIT or PAT for it in any year or quarter. Only single-segment geographic revenue and Formulations/APIs revenue exist.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/17cd6a28-1b10-49f6-becb-ec659003ffc6.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/79ef1252-b695-4b03-b5ef-c853705fdca0.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/b8423de9-79fe-4ffb-ab9a-482725ba162f.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24c9c8ae-50fd-4b39-8752-ebf166a14c42.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44f1a1ac-18e6-4b29-af83-69b6569bfba5.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aa67a964-c0c4-457c-9c54-532ec458ca4b.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faecb00c-1f79-4dd2-a81d-d3fb6336fbae.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f0d6e338-4de1-429c-aac2-a94682a694ed.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=58080066-33d3-49be-8c38-e66df62f1330.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 327 days since the first filing, stage nclt_sanction |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-11-20 | Scheme of Arrangement | Certified order passed by NCLT Hyderabad Bench | [pdf](https://nsearchives.nseindia.com/corporate/SEQUENT1_20112025184524_CO.pdf) |
+| 2025-11-28 | Scheme of Arrangement | Sequent Scientific Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/SEQUENT1_28112025103648_Effective_Date_1_Disclosure.pdf) |
+| 2025-12-16 | Scheme of Arrangement | Sequent Scientific Limited has informed the Exchange about Scheme of Arrangement-Update | [pdf](https://nsearchives.nseindia.com/corporate/SEQUENT1_16122025190249_Outcome_BM_Dec_16_2025.pdf) |
 
 </details>
 
@@ -7902,7 +9509,7 @@ No rationale on file: no call passages and no scheme rationale text.
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 106 cr (Mar 2026) = 0.01× market cap; P/E 13.9 on Mar 2026 profit vs industry median 39.4 (3 peers) |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage rumoured — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 12 days since the first filing, stage rumoured |
+| Timing (first year sells, second year gains) | partly | not yet listed — 13 days since the first filing, stage rumoured |
 
 <details><summary>The filings</summary>
 
@@ -7911,6 +9518,45 @@ No rationale on file: no call passages and no scheme rationale text.
 | 2026-09-30 | News Verification | The Exchange has sought clarification from Sun TV Network Limited with respect to recent news item captioned Possible Demerger of SUN TV's sports division.. The | [pdf](-) |
 | 2026-09-30 | News Verification | The Exchange has sought clarification from Sun TV Network Limited with respect to recent news item captioned Possible Demerger of SUN TV's sports division.. The | [pdf](https://nsearchives.nseindia.com/corporate/SUNTV1_30092026141339_SunTVreply30092026.pdf) |
 | 2026-09-30 | Rumour verification - Regulation 30(11) | Sun TV denies CNBC-TV18 rumor of possible sports division demerger. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ba24309-c89e-4952-8d1d-9370bfcfa599.pdf) |
+
+</details>
+
+## PRESTIGE — Prestige Estates Projects Ltd.
+
+**INDICATED** (proposal withdrawn on 2026-09-25) · **WITHDRAWN — the proposal was pulled; watch for a return** · score 2.9/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-09-25, latest 2026-09-25
+
+> **Listing:** WITHDRAWN on 2026-09-25 — the proposal was pulled; no listing
+
+**What is being separated, as the documents put it:** Subsidiary Prestige Hospitality Ventures Limited (hospitality arm) via IPO of its equity shares; DRHP now withdrawn — class `not stated`.
+
+- *Insiders:* not stated
+- *What it reveals:* not stated — documents disclose no financials, segment size or leverage; they reveal only that the hospitality arm is housed in a separate subsidiary, PHVL, that Prestige had intended to list
+- *Selling pressure:* unclear — No share distribution occurs; the IPO was withdrawn and documents give no size or index detail
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* The withdrawn PHVL DRHP dated April 24, 2025, for hospitality revenue, EBITDA and debt
+- *In their words:* “However, the board of directors of PHVL has decided to withdraw the DRHP on account of strategic considerations and uncertain market conditions, pursuant to its resolution dated September 25, 2026 and corresponding communication dated September 25, 2026 made to the book running lead managers to the Offer.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 17,659 cr (Mar 2026) = 0.25× market cap; P/E 53.3 on Mar 2026 profit vs industry median 39.2 (8 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage withdrawn — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 18 days since the first filing, stage withdrawn |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-09-25 | General Updates | Prestige Estates Projects Limited has informed the Exchange about the withdrawal of DRHP by Subsidiary | [pdf](https://nsearchives.nseindia.com/corporate/PRESTIGE_25092026182037_Emerald_-_PEPL_DRHP_Withdrawal_Intimaiton.pdf) |
 
 </details>
 
@@ -7944,7 +9590,7 @@ No rationale on file: no call passages and no scheme rationale text.
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 2,220 cr (Mar 2026) = 0.03× market cap; P/E 167.8 on Mar 2026 profit vs industry median 52.6 (45 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 250 days since the first filing, stage meetings |
+| Timing (first year sells, second year gains) | partly | not yet listed — 251 days since the first filing, stage meetings |
 
 <details><summary>The filings</summary>
 
@@ -7982,7 +9628,7 @@ No rationale on file: no call passages and no scheme rationale text.
 | Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
 | A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 2,763 cr (Mar 2026) = 0.15× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
 | Parent before the spin (clean parent, takeover prelude) | partly | stage rumoured — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 97 days since the first filing, stage rumoured |
+| Timing (first year sells, second year gains) | partly | not yet listed — 98 days since the first filing, stage rumoured |
 
 <details><summary>The filings</summary>
 
@@ -7993,6 +9639,970 @@ No rationale on file: no call passages and no scheme rationale text.
 
 </details>
 
+## Rights and preferential offerings — who is buying
+
+A rights issue hands the paper to existing holders; a preferential issue of equity or warrants hands it to named buyers at a fixed price. The notes' question is the same for both: are the insiders putting money in? Promoters taking warrants (25% upfront, 18 months to convert) is insiders betting on the stock; paper placed with outsiders is dilution. Each row names the buyers the filings name.
+
+| Company | Instrument | Size | Price | Who is buying | Promoters in? | Stage | Latest filing |
+|---|---|---|---|---|---|---|---|
+| **ABCAPITAL** | equity shares | Rs. 4,000 crore (Rupees Four Thousand crore only); on allotment, Rs. … | Rs. 356.02 per Equity Share (including a premium of Rs. 346.02 per Eq… | **Grasim Industries Limited** (promoter); **Suryaja Investments Pte. Ltd., Singapore (an Aditya Birla Group entity and promoter group of the Company)** (promoter group); **International Finance Corporation ("Investor" or "IFC")** (non-promoter) | yes (Not stated as a percentage; filing states "Rs 3,080 Cr… | allotted | 2026-06-23 |
+| **AEQUS** | warrants | INR 6,499,999,819.50/- (approximately ₹650 crore) | 231.55 | **Mellwood Trustee Services Private Limited (Trustee of Melligeri Private Family Foundation)** (promoter) | yes (100% (sole investor is the Promoter; 1 investor)) | board approved | 2026-09-25 |
+| **AFFLE** | warrants | Rs. 275,09,50,000 received as Warrant Subscription Price @ 25% of the… | Rs. 1,487 per warrant (including a premium of Rs. 1,485 per warrant) | **Affle Holdings Pte. Ltd.** (promoter) | yes (100% — all 74,00,000 warrants allotted to Affle Holdin… | converted | 2026-08-14 |
+| **AIIL** | equity shares | Rs. 131,62,23,000/- (One thirty-one Crore Sixty-two lakhs twenty-thre… | Rs. 16.81 (Rupees Sixteen and Eighty One Paise only) including a prem… | **Authum Investment & Infrastructure Limited (allottee of MIRC Electronics Limited's preferential allotment)** (non-promoter) | yes | allotted | 2025-10-09 |
+| **ANURAS** | equity shares | ₹ 829,03,27,552.00 (Indian Rupees Eight Hundred Twenty-Nine Crore Thr… | ₹ 299.00 (Indian Rupees Two Hundred Ninety-Nine only) per Offer Share | **Anupam Rasayan India Limited (Acquirer)** (non-promoter); **Mates Visa Consultancy Private Limited (Person Acting in Concert)** (non-promoter) | yes | announced | 2026-09-09 |
+| **ATHERENERG** | warrants | INR 1,99,99,99,680 for the Equity Shares (INR 199.99 crore) and INR 9… | INR 1,230 per Equity Share (including a premium of INR 1,229 each); I… | India-Japan Fund ("IJF"), registered with SEBI as a Category II Alternative Investment Fund (registration number IN/AIF2/23-24/1324), represented by and acting through its investment manager, National Investment and Infrastructure Fund Limited (institution); **Hero MotoCorp Limited** (promoter); **Mr. Tarun Sanjay Mehta** (promoter); **Mr. Swapnil Babanlal Jain** (promoter) | yes (not stated as a percentage; all 79,36,507 Warrants agg… | allotted | 2026-08-25 |
+| **BAJAJFINSV** | warrants | not exceeding Rs. 5,800 Crore (Rupees Five Thousand Eight Hundred Cro… | not stated — to be determined by the Board of Bajaj Finance Limited i… | **Bajaj Finserv Limited (the Company; promoter of Bajaj Finance Limited, holding 51.30% of its paid-up equity share capital)** (promoter) | yes | board approved | 2026-10-01 |
+| **BAJFINANCE** | warrants | aggregate amount not exceeding Rs. 5,800 Crore (Rupees Five Thousand … | not stated — "Issue price will be determined at a later stage in acco… | **Bajaj Finserv Limited ("Proposed Allottee"), promoter and holding company** (promoter) | yes (100% of the preferential issue — sole proposed allotte… | board approved | 2026-10-01 |
+| **BALRAMCHIN** | equity shares | Rs. 450,00,00,393/- (Rupees Four Hundred Fifty Crore Three Hundred Ni… | Rs. 483/- per Equity Share (including a premium of Rs. 482/-) | **Vivek Saraogi** (promoter); **Sumedha Saraogi** (promoter); **Meenakshi Mercantiles Limited** (promoter group); **TATA Small Cap Fund (Scheme of TATA Mutual Fund)** (non-promoter); **IKIGAI Emerging Equity Fund (Scheme of IKIGAI Asset Holdings Investment Trust, Category III AIF)** (non-promoter) +6 more | yes (not stated as a percentage; computed from the table, p… | completed | 2026-06-30 |
+| **BALUFORGE** | equity shares | Rs. 46,17,00,000 (stated as 'Total Consideration Received (75%)'; the… | Rs. 360/- per share (including a premium of Rs. 350 per share) | **Trimaan Jaspalsingh Chandock** (promoter group); **Rakesh Hasmukhlal Kanabar** (non-promoter); **Harish Vasudevan** (non-promoter) | yes (not stated as a percentage; 15,00,000 of 17,10,000 sha… | converted | 2026-03-09 |
+| **BBOX** | warrants | Rs. 2,13,07,08,204 total consideration received for the 51,09,612 Equ… | Rs. 417/- per Warrant / per Equity Share (face value Rs. 2/- plus pre… | **Essar Telecom Limited** (promoter); **Sanjeev Verma** (non-promoter); **Deepak Kumar Bansal** (non-promoter); **Ushma Mehta** (non-promoter); **Eva Vaidya** (non-promoter) | yes (not stated as a percentage; promoter Essar Telecom Lim… | converted | 2026-03-30 |
+| **BELRISE** | other | ₹20,000.00 Million | — | **Shrikant Shankar Badve** (promoter); **Supriya Shrikant Badve** (promoter); **Sumedh Shrikant Badve** (promoter); **Promoter Group** (promoter group) | yes | in-principle approval | 2026-05-24 |
+| **BIOCON** | equity shares | 17,12,79,553 securities | Rs. 405.78 per equity share | **Mylan Inc.** (non-promoter); **Serum Institute Life Sciences Private Limited** (non-promoter); **Tata Capital Growth Fund II** (non-promoter); **Activ Pine LLP** (non-promoter) | yes (not stated (all four allottees shown as Non-Promoter)) | allotted | 2026-06-29 |
+| **BORORENEW** | equity shares | Rs. 371.49 crores | 535 | **Niveshaay Hedgehogs Fund** (non-promoter); **Abakkus Diversified Alpha Fund-2** (non-promoter); **Dharmapal Satyapal Limited** (non-promoter); **Nuvama Enhanced Dynamic Growth Equity (Edge) Fund** (non-promoter); **Niveshaay Sambhav Fund** (non-promoter) +73 more | yes (nil — all 78 allottees belong to the Non-Promoter cate… | allotted | 2026-08-14 |
+| **BOSCHLTD** | equity shares | — | not stated (only face value of Rs. 10/- each is stated) | **promoters (not individually named in the filing)** (promoter) | yes (100% (entire issue of 2460 equity shares is to promote… | in-principle approval | 2026-06-03 |
+| **CHOICEIN** | warrants | INR 130,50,00,000 (Rupees One Hundred Thirty Crore and Fifty Lakh Onl… | INR. 300/- Per Warrant (face value INR 10/- each) | **M/s. Plutus Wealth Management LLP** (non-promoter); **M/s. Soansrishti Properties Private Limited (Formerly known as M/s. Rupang Properties Private Limited)** (promoter group) | yes (Not stated as a percentage; the filing shows 31,21,000… | converted | 2025-12-05 |
+| **COFORGE** | equity shares | 38,50,00,000 securities | ₹1,815.91 | **Shareholders of Cigniti Technologies Limited (Transferor Company)** (non-promoter) | yes | completed | 2026-05-23 |
+| **CUPID** | warrants | not stated (25% upfront paid: Rs. 82,88,31,250; approx. Rs. 73.86 Cro… | Rs. 328.25 per warrant convertible into equity share | **Cupid Limited (acquirer/subscriber of warrants issued by Baazar Style Retail Limited)** (non-promoter) | yes (not stated (filing states "the promoter / promoter gro… | converted | 2026-09-26 |
+| **DCBBANK** | equity shares | INR 82,99,99,978/- (Indian Rupees Eighty-Two Crores Ninety-Nine Lakhs… | INR 137/- per Subscription Share (including a premium of INR 127/- pe… | **Aga Khan Fund for Economic Development S.A.** (promoter) | yes (100% — the sole allottee is described as "one of the p… | allotted | 2025-10-10 |
+| **EMBDL** | warrants | INR 87,36,30,698.38/- (Indian Rupees Eighty Seven Crore Thirty Six La… | INR 111.51 (including the premium of INR 109.51) per Equity Share | Bellanza Developers Private Limited (not stated); Worldpart Limited (not stated); Aalidhra Textool Engineers Private Limited (not stated) | yes | converted | 2026-10-12 |
+| **ERIS** | equity shares | INR 423,30,00,000 (Indian Rupees Four Hundred and Twenty Three Crores… | 1,835.35 | **Mr. Naishadh Shah (Director, Swiss Parenterals Limited)** (non-promoter) | yes (not stated (filing states: "No promoter/ promoter grou… | allotted | 2026-01-16 |
+| **FEDERALBNK** | warrants | Rs. 6,196,51,07,761 (Rupees Six thousand one hundred ninety-six crore… | 227 | **Asia II Topco XIII Pte. Ltd. (described by the Bank as funds managed by Blackstone)** (non-promoter) | yes (Nil - "The Bank does not have any promoters.") | allotted | 2026-02-16 |
+| **FIVESTAR** | equity shares | not stated as an aggregate; per allottee total consideration of INR 2… | 770.00 | **Lakshmipathy Deenadayalan, Promoter, Chairman & Managing Director** (promoter); **Srikanth Gopalakrishnan, Joint Managing Director & CFO** (non-promoter) | yes (not stated as a % of the issue; 2,60,000 of the 3,10,0… | converted | 2026-04-24 |
+| **GABRIEL** | equity shares | INR 18,81,03,05,962/- (Indian Rupees One Thousand Eight Hundred and E… | INR 1,305.89 per equity share | **Asia Investments Private Limited (Promoter and holding company of the Company)** (promoter) | yes (100% - sole proposed allottee is Asia Investments Priv… | board approved | 2026-09-11 |
+| **GMRP&UI** | warrants | Warrants: "aggregating to an amount upto Rs. 400 crore"; Equity Share… | Rs. 120.88 each per Convertible Warrant (including premium of Rs. 115… | **Hyderabad Jabilli Properties Private Limited** (promoter group); **Synergy Industrials, Metals and Power Holdings Limited** (non-promoter); **Credit Solutions India Trust** (non-promoter) | yes (not stated as a percentage; the filing states the enti… | allotted | 2026-01-28 |
+| **GPIL** | warrants | not stated (filing states only receipt of Rs.1,25,00,03,475/-, being … | Rs.245/- (Rupees Two Hundred Forty Five only) per Warrant | **Mrs. Sarita Devi Agrawal** (promoter group); **Mr. Dinesh Agrawal** (promoter); **Mr. Kumar Agrawal** (promoter group); **Hanuman Prasad Agrawal (HUF)** (promoter group); **Mrs. Meena Gupta** (non-promoter) +2 more | yes (not stated as a percentage; per the allottee table 97,… | allotted | 2026-10-08 |
+| **GRANULES** | warrants | not stated for the warrants as an aggregate — filing states only that… | Rs. 585/- per warrant (and Rs. 585/- per equity share) | **Mrs. Chigurupati Uma Devi** (promoter group); **Mrs. Chigurupati Priyanka** (promoter group); **Mrs. Pragnya Chigurupati** (promoter group); **Mr. Harsha Chigurupati** (promoter group); **Dr. Venkata Srinivas Pullela** (non-promoter) +8 more | yes (not stated as a percentage; per Annexure I(A) the Prom… | allotted | 2026-02-23 |
+| **GRASIM** | equity shares | Rs. 28,79,99,99,722.62 (Rupees Two Thousand Eight Hundred and Seventy… | 356.02 | **Grasim Industries Limited** (promoter) | yes (not stated (total issue size not disclosed; Grasim's h… | allotted | 2026-06-23 |
+| **HDFCLIFE** | equity shares | 1,45,23,906 securities | — | **HDFC Bank Limited** (promoter) | yes (100% (entire issue to promoter HDFC Bank Limited; its … | in-principle approval | 2026-04-23 |
+| **HFCL** | equity shares | ₹175 Crore | 10 (face value ₹10 each) | **HFCL Limited** (non-promoter); **Mr. Anant Nahata** (non-promoter); **Mr. Sushant Mohan Gupta** (non-promoter); **Mrs. Shubhra Gupta** (non-promoter); **BAS Engineering Private Limited** (non-promoter) +1 more | yes (not stated; filing states promoters/promoter group of … | board approved | 2026-05-25 |
+| **HSCL** | warrants | Rs. 7,29,48,600/- (Rupees Seven Crore Twenty-Nine Lakh Forty-Eight Th… | Rs. 316/- (Rupees Three Hundred Sixteen only) per warrant [warrant su… | **Avijit Sasmal** (non-promoter); **Rajesh Kumar Chokhani** (non-promoter); **Arindam Mahata** (non-promoter); **Mukund Choudhary** (non-promoter); **Dinesh Kumar Verma** (non-promoter) +9 more | yes (not stated (all 14 exercising allottees are listed und… | converted | 2025-11-10 |
+| **IDEA** | warrants | aggregating upto Rs. 4,730 Crore | Rs. 11/- per Warrant (face value Rs. 10/- at a premium of Re. 1/-) | **Suryaja Investments Pte. Ltd., Singapore (an Aditya Birla Group entity and a member of the Promoter Group)** (promoter group) | yes (100% — the sole investor (1 (One) investor) is a Promo… | allotted | 2026-06-22 |
+| **INDIAGLYCO** | other | ₹466.99 Crore | ₹915 | Shareholders of India Glycols Limited (Demerged Company) on the Record Date, 2nd September, 2026 (public) | yes | allotted | 2025-11-26 |
+| **INOXGREEN** | equity shares | 49,04,520 securities | ₹1451 | not named in the filings on file | yes | shareholders approved | 2026-01-28 |
+| **IRB** | other | ₹20,000 million (Twenty Thousands Million) for the institutional plac… | ₹63/- per Unit (institutional placement); Rs. 65 per unit (preferenti… | Anahera Investment PTE LTD (FPI) (institution); Arvesta Financial Services Private Limited (NBFC) (institution); Prazim Trading And Investment Company Private Limited (DII) (institution); NPS TR A/C ICICI Pension Fund Scheme C TIER I / NPS TR AC ICICI Pension Fund Scheme C - Tier II (Pension Fund) (institution); NEO Alternatives Investment Trust - Neo Treasury Plus Fund (AIF) (institution) +2 more | yes (not stated as a percentage; the Sponsor's Rs.351 crore… | allotted | 2026-09-29 |
+| **JIOFIN** | warrants | 50,00,00,000 securities | equity shares of face value of Rs. 10/- each at a premium of Rs. 306.… | **Sikka Ports & Terminals Limited** (promoter group); **Jamnagar Utilities & Power Private Limited** (promoter group) | yes (100% - both allottees are members of the promoter grou… | converted | 2026-04-21 |
+| **JSFB** | warrants | not stated (aggregate not given; INR 102,76,00,818.00 received as of … | — | **2i Capital PCC** (non-promoter); **Capri Global Ventures Private Limited** (non-promoter); **ICM Finance Private Limited** (non-promoter); **Singularity Large Value Fund III** (non-promoter); **Utpal Hemendra Sheth** (non-promoter) +1 more | yes | allotted | 2026-06-24 |
+| **JSWENERGY** | other | ₹10,000 crore | ₹525 | JTPM Metal Traders Limited; the JTPM Metal Traders Limited | yes | listed | 2026-02-26 |
+| **KIMS** | warrants | Rs. 1,499,999,944.50 (Rupees One hundred forty-nine crore ninety-nine… | not stated (implied ₹779.00 per warrant from the 25% subscription mon… | **Dr. Abhinay Bollineni** (promoter); **Mr. Adwik Bollineni** (promoter); **Bharas Ventures LLP (a limited liability partnership with Dr. Bhaskara Rao Bollineni and Ms. Rajyasri Bollineni, both Promoters of the Company, having made the entire capital contribution)** (promoter group) | yes (100% (all 77,02,182 warrants to promoters/promoter gro… | allotted | 2026-08-20 |
+| **KPIGREEN** | warrants | ₹4,75,00,30,000/- (Rupees Four Hundred Seventy-Five Crores and Thirty… | ₹470.30 (Rupees Four Hundred Seventy and Paise Thirty) per Warrant, i… | **Quyosh Energia Private Limited** (promoter group) | yes (100% — "Number of Investors: 1 (One)", the sole allott… | allotted | 2026-02-18 |
+| **LLOYDSENGG** | equity shares | 3,57,80,117 securities | ₹71 | Promoters | yes | board approved | 2026-08-17 |
+| **LLOYDSME** | equity shares | Rs. 38,74,45,500 (balance 65% subscription amount received on this co… | Rs. 740 per warrant (face value Rs. 1 + premium of Rs. 739 per share)… | **C Vasudevaan** (non-promoter); **Vidhya Shree C** (non-promoter); **M Indira** (non-promoter); **V Kamala** (non-promoter); **Ravindranath N K** (non-promoter) +3 more | yes (nil for this tranche — all 8,05,500 shares allotted to… | converted | 2026-03-13 |
+| **MFSL** | equity shares | up to Rs. 389 crores | INR 151.90 per equity share including a share premium of INR 141.90 p… | **Axis Bank Limited** (promoter); **Axis Capital Limited** (promoter); **Axis Securities Limited** (promoter) | yes (100% — the sole subscriber, Axis Bank Limited, is cate… | board approved | 2026-04-02 |
+| **NAZARA** | warrants | ₹500 crores | 260 | **…nvestment and Holding Private Limited (name truncated in source)** (promoter group); **Classic Enterprises** (non-promoter); **Founders Collective** (non-promoter) | yes | board approved | 2026-10-12 |
+| **NEOGEN** | equity shares | Rs. 1,61,00,00,000 (Rupees One Hundred and Sixty One Crores only) | Rs. 1,610 per Equity Share (including a premium of Rs. 1,600 per Equi… | **Cadamba Solutions Private Limited** (promoter group) | yes (100% (the sole proposed allottee, Cadamba Solutions Pr… | board approved | 2026-09-26 |
+| **OPTIEMUS** | warrants | Rs. 11,22,65,750/- | 672.25 | **Arunima Mittal** (non-promoter) | yes (0% (sole allottee is Non-Promoter)) | converted | 2026-08-11 |
+| **PCBL** | warrants | Rs. 336,00,00,000 (Rupees Three hundred and thirty six crores only) | Rs. 280/- (Rupees two hundred and eighty only) per Warrant (including… | **Rainbow Investments Limited** (promoter); **Quest Capital Markets Limited** (promoter group); **STEL Holdings Limited** (promoter group) | yes (100% (all 1,60,00,000 warrants to promoter / promoter … | converted | 2025-11-03 |
+| **PCJEWELLER** | warrants | ₹ 447,60,42,031.20 (balance amount received on this conversion, being… | ₹ 5.62 per equity share (including a premium of ₹ 4.62 per share) pos… | **Pooja Garg** (promoter group); **Eminence Global Fund PCC-Eubilia Capital Partners Fund I** (non-promoter); **Hello Money Advisors LLP** (non-promoter); **Griebs Commosales LLP** (non-promoter); **Manju Poddar** (non-promoter) +36 more | yes (not stated as a % of the issue; in the April 10, 2026 … | converted | 2026-04-10 |
+| **PFOCUS** | other | 46,26,68,572 securities | — | Promoter | yes | listed | 2025-12-10 |
+| **PICCADIL** | other | 6,36,942 securities | — | Promoter | yes | announced | 2025-11-29 |
+| **PIRAMALFIN** | not stated | ₹1750.03 crore | ₹2,110 | promoter; Nithyam Realty Private Limited | yes | announced | 2026-10-05 |
+| **QPOWER** | other | — | — | **Shareholders of Winwin Speciality Insulators Limited** (non-promoter) | yes | announced | 2026-09-23 |
+| **RBA** | equity shares | up to INR 14,64,54,64,260 | INR 70 (Indian Rupees Seventy) per fully paid-up equity share of face… | **Lenexis Foodworks Private Limited (Acquirer 1)** (non-promoter); **Aayush Agrawal Trust (Acquirer 2)** (non-promoter); **Inspira Foodworks Private Limited (formerly Inspira Realty 1 Private Limited) (Acquirer 3)** (non-promoter); **Mr. Aayush Madhusudan Agrawal (Acquirer 4)** (non-promoter); **Inspira Agro Trading LLC (person acting in concert with the Acquirers)** (non-promoter) | yes | in-principle approval | 2026-06-02 |
+| **RBLBANK** | equity shares | INR 117,353,299,774.34 (One hundred seventeen billion, three hundred … | ₹280.00 per equity share (Offer Price), plus Applicable Interest of ₹… | **Emirates NBD Bank (P.J.S.C.), a public joint stock company incorporated under the laws of Dubai, United Arab Emirates** (non-promoter) | yes | in-principle approval | 2026-06-18 |
+| **REFEX** | other | 1,11,70,000 securities | ₹468 | non-promoter | yes | announced | 2026-05-07 |
+| **RELIGARE** | equity shares | 1985816 securities | — | All the members (shareholders) of Religare Enterprises Limited holding fully paid-up equity shares on the Record Date — to be allotted equity shares of Religare Finvest Limited (public) | yes (not stated; "RFL's post-scheme equity shareholding pat… | in-principle approval | 2026-08-06 |
+| **RKFORGE** | warrants | not stated (balance amount received on this conversion: Rs. 52,76,25,… | Rs. 2,100/- per warrant [warrant subscription price Rs. 525/- + warra… | **Riddhi Portfolio Private Limited** (non-promoter) | yes | converted | 2026-09-24 |
+| **SAMMAANCAP** | other | 33,00,00,111 securities | ₹139 | **Non-convertible debenture holders of Sammaan Finserve Limited (Demerged Company) — to receive NCDs of Sammaan Capital Limited; no equity shares are being issued to anyone** (non-promoter) | yes | in-principle approval | 2026-03-31 |
+| **SPARC** | warrants | INR 5,99,98,58,000/- (Indian Rupees Five Hundred Ninety Nine Crores N… | 155.80 | **Shanghvi Finance Private Limited** (promoter group) | yes (100% - the entire issue is to Shanghvi Finance Private… | allotted | 2026-05-19 |
+| **STLTECH** | warrants | Rs. 498,30,00,000 (Rupees Four Hundred Ninety Eight Crores Thirty Lak… | Rs. 110 (Rupees One Hundred Ten only) per Warrant (including the warr… | **Twin Star Overseas Limited** (promoter) | yes (100% (sole allottee is the promoter; 4,53,00,000 of 4,… | board approved | 2026-03-30 |
+| **SUDARSCHEM** | warrants | Rs. 24,98,41,200/- (25% upfront) + Rs. 74,95,13,800/- (balance 75%); … | 1,019.75 | **Mr. Rajesh Balkrishna Rathi (Global Chairman and Managing Director and Promoter)** (promoter) | yes (100% — sole investor, "No. of Investor (s): 1 (One)", … | converted | 2026-06-16 |
+| **SUNTECK** | other | 11764705 securities | ₹425 | Promoter | yes | announced | 2026-01-23 |
+| **TDPOWERSYS** | equity shares | ₹75,00,00,000/- (Rupees Seventy-Five Crore only) | ₹600 per Equity Share (including a premium of ₹599 per Equity Share) | **Nikhil Kumar** (promoter); **Mohib Nomanbhai Khericha** (promoter) | yes (100% (both allottees categorised as Promoter; 12,50,00… | completed | 2026-10-07 |
+| **TEGA** | equity shares | Rs. 17,13,28,58,764 | 1,994 (including premium of Rs. 1,984) per equity share, face value R… | **NIHAL FISCAL SERVICES PRIVATE LIMITED** (promoter); **MEHUL MOHANKA** (promoter); **MADAN MOHAN MOHANKA** (promoter); **MANJU MOHANKA** (promoter); **ARVAN MOHANKA FAMILY TRUST** (promoter group) +63 more | yes (approx. 8.99% (7,72,313 of 85,92,206 shares to Promote… | allotted | 2025-11-29 |
+| **TEXRAIL** | warrants | Rs. 107,07,54,832.50/- (balance subscription amount @ Rs. 144.75/- pe… | Rs. 193/- per warrant | **M/s Adventz Finance Private Limited ('Adventz')** (promoter group); **M/s Samena Green Limited ('Samena')** (non-promoter) | yes | converted | 2025-10-09 |
+| **TI** | equity shares | Rs. 1,080.53 Crores | Rs. 286.50/- per Warrant (being an amount equivalent to the 75% of th… | **Axana Estates LLP** (non-promoter); **TIMF Holdings** (non-promoter); **Arpit Khandelwal** (non-promoter); **QRG Investments and Holdings Limited** (non-promoter); **Param Capital** (non-promoter) +29 more | yes (not stated (no allottee in this allotment is identifie… | allotted | 2025-11-24 |
+| **WELENT** | warrants | Rs. 9,99,99,99,975 [not exceeding Rs. 1,000 Crore] | 525 | **Welspun Group Master Trust, through its Trustee Balkrishan Goenka** (promoter); **Authum Investment and Infrastructure Limited** (non-promoter); **Aryavardhan Trading LLP** (non-promoter); **Garnet Shelters Private Limited** (non-promoter); **Winro Commercial (India) Limited** (non-promoter) +8 more | yes (not stated as a percentage; promoter allotment is 71,2… | allotted | 2025-12-01 |
+| **YATHARTH** | other | INR 31,50,00,02,910.60 (Indian Rupees Three Thousand One Hundred and … | INR 985.17 per Subscription Security (equity share and per warrant al… | **Rasmalai Limited, a company incorporated under the laws of Cyprus (PAN AANCD0341F, registered address Kennedy 23, Globe House, Ground & 1st Floors, 1075, Nicosia, Cyprus)** (non-promoter) | yes (Nil — the entire issue goes to one non-promoter invest… | board approved | 2026-09-17 |
+| **ZAGGLE** | warrants | Rs. 14,99,99,991.75 received being 25% of issue price (aggregate issu… | Rs. 567/- per Warrant (face value Re. 1/- plus premium of Rs. 566/-) | **RAN Ventures Private Limited** (promoter group); **Bennett Coleman and Company Limited (BCCL)** (non-promoter) | yes (not stated as a percentage (Promoter Group allottee RA… | allotted | 2025-12-16 |
+| **ZEEL** | warrants | aggregating upto ₹ 31,43,51,80,938/- (Rupees Three Thousand One Hundr… | Rs. 126/- per warrant (inclusive of Warrant Subscription Price of Rs.… | **Sunbright Mauritius Investments Limited** (promoter group) | yes (100% – 1 (One) investor, Sunbright Mauritius Investmen… | allotted | 2026-08-27 |
+| **AADHARHFC** | equity shares | ₹ 53,66,13,56,710 (Maximum Consideration: ₹ 53,35,37,01,898 assuming … | 469.97 per Equity Share (plus Applicable Interest of ₹ 2.71 per Equit… | **BCP Asia II Holdco VII Pte. Ltd. (Acquirer), a Singapore private limited company** (non-promoter); **Blackstone Capital Partners (CYM) IX AIV – F L.P. (PAC 1)** (non-promoter); **Blackstone Capital Partners Asia II L.P. (PAC 2)** (non-promoter) | yes (not stated — the offer is made to and the shares are b… | in-principle approval | 2026-01-27 |
+| **ACI** | rights equity shares | Upto Rs. 170,00,00,000 (Rupees One Hundred Seventy Crores only) | ₹10 (face value of Rs. 10 (Rupees Ten) per share) | **Archean Chemical Industries Limited (subscribing to the rights issue of its wholly owned subsidiary Acume Chemicals Private Limited)** (promoter) | yes (100% — "The Company presently holds 100% of the equity… | board approved | 2026-05-30 |
+| **ADANIENT** | rights equity shares | aggregating up to ₹ 24,930.30 crores | ₹ 1,800.00 per Rights Equity Share (including a premium of ₹ 1,799.00… | Eligible Equity Shareholders of the Company as on the Record Date (Monday, November 17, 2025), and Renouncees (public) | yes | in-principle approval | 2026-09-30 |
+| **AEQUS** | warrants | INR 6,499,999,819.50/- (Indian Rupees Six Billion Four Hundred Ninety… | INR 231.55/- per warrant (including a premium of INR 221.55/- each) | **Mellwood Trustee Services Private Limited (Trustee of Melligeri Private Family Foundation)** (promoter) | yes (100% — the sole investor (Number of Investor: 1 (One))… | board approved | 2026-09-25 |
+| **AIIL** | equity shares | Rs. 1,01,62,50,000/- (Rupees One Hundred and One Crore Sixty-Two Lakh… | Rs. 10 per Equity Share (face value Rs. 10 each), of which 25% i.e. R… | **Authum Investment & Infrastructure Limited (AIIL)** (promoter) | yes | announced | 2026-08-18 |
+| **AMBER** | rights equity shares | approx. Rs. 296.02 Crore | — | **Amber Enterprises India Limited** (promoter) | yes | board approved | 2026-04-21 |
+| **ANANDRATHI** | equity shares | ₹5,49,00,000 | ₹10 each (being the face value) | **Anand Rathi Wealth Limited (holding company of the issuer, Anand Rathi FME (IFSC) Private Limited)** (promoter) | yes (100% — the rights issue is subscribed entirely by Anan… | allotted | 2026-09-02 |
+| **ANURAS** | equity shares | ₹ 829,03,27,552.00 (Indian Rupees Eight Hundred Twenty-Nine Crore Thr… | ₹ 299.00 (Indian Rupees Two Hundred Ninety-Nine only) per Offer Share | **Anupam Rasayan India Limited (Acquirer)** (non-promoter); **Mates Visa Consultancy Private Limited (Person Acting in Concert)** (non-promoter) | yes | announced | 2026-07-21 |
+| **ASHOKA** | equity shares | Rs.4.00 Crore (cost of acquisition stated as Rs.4,00,22,500/-) | ₹10 per share (equity shares of Rs.10/- each, fully paid) | **Ashoka Buildcon Limited (the Company), holding company of Viva Infrastructure Limited** (promoter) | yes (100% — entire allotment to the holding company; VIL co… | allotted | 2026-03-30 |
+| **ATHERENERG** | other | up to INR 1,200 Crores in aggregate — INR 1,99,99,99,680 (INR 199.99 … | INR 1,230 per Equity Share (including a premium of INR 1,229) and INR… | **India-Japan Fund (IJF), SEBI-registered Category II Alternative Investment Fund (IN/AIF2/23-24/1324), represented by and acting through its investment manager, National Investment and Infrastructure Fund Limited** (non-promoter); **Hero MotoCorp Limited** (promoter); **Mr. Tarun Sanjay Mehta** (promoter); **Mr. Swapnil Babanlal Jain** (promoter) | yes (not stated as a percentage; promoters (Hero MotoCorp, … | allotted | 2026-07-15 |
+| **AXISCADES** | other | aggregating upto Rs. 200 Crores (size of issue: not exceeding Rs. 200… | ₹1,00,000 face value per NCD | **not stated — described only as "eligible investor(s)" in a private placement** (non-promoter) | yes | board approved | 2026-09-05 |
+| **BAJFINANCE** | warrants | an aggregate amount not exceeding Rs. 5,800 Crore (Rupees Five Thousa… | not stated — "Issue price will be determined at a later stage in acco… | **Bajaj Finserv Limited ("Proposed Allottee"), promoter and holding company** (promoter) | yes (100% of the preferential issue — "number of investors:… | board approved | 2026-04-29 |
+| **BLACKBUCK** | equity shares | ₹ 21,99,99,956/- (Rupees Twenty-One Crore Ninety-Nine Lakh Ninety-Nin… | ₹64.55 per equity share (face value ₹10 each at a premium of ₹54.55 p… | **BlackBuck Limited (formerly Zinka Logistics Solutions Limited) — the listed parent, subscribing to the rights issue of its wholly owned subsidiary TZF Logistics Solutions Private Limited** (promoter) | yes (100% — the entire rights issue was subscribed by the h… | allotted | 2026-09-28 |
+| **BRIGADE** | warrants | Rs. 180,04,98,000/- (Rupees One Hundred Eighty Crores Four Lakhs Nine… | ₹526/- per Warrant (Face Value ₹10/- at a premium of ₹516/-) | **M/s. Mysore Holdings Private Limited** (promoter group) | yes (100% (sole allottee is a Promoter Group Entity; "Numbe… | board approved | 2026-07-15 |
+| **CGCL** | equity shares | Rs. 200/- crore (Rupees Two Hundred Crore only) | ₹274 | **Capri Global Capital Limited (subscribing to the rights issue of its wholly owned subsidiary Capri Global Housing Finance Limited)** (promoter) | yes | board approved | 2026-03-23 |
+| **COROMANDEL** | rights equity shares | not exceeding Rs. 250 Crores (Rupees Two Hundred and Fifty Crores) | — | **Coromandel International Limited** (promoter) | yes | board approved | 2025-12-01 |
+| **GMRP&UI** | other | upto Rs. 800 crore (Equity Shares) + upto Rs. 400 crore (Warrants); t… | Rs. 120.88 each (including premium of Rs. 115.88), same for Equity Sh… | **Synergy Industrials, Metals and Power Holdings Limited (named "Synergy Industrial and Power Metals Limited" in the superseded December 17, 2025 version)** (non-promoter); **Credit Solutions India Trust** (non-promoter); **Hyderabad Jabilli Properties Private Limited** (promoter group) | yes (not stated as a percentage; the promoter group entity … | allotted | 2025-12-17 |
+| **GPIL** | warrants | not stated (Rs.1,25,00,03,475 received, being 25% of the total issue … | 245 | **Mrs. Sarita Devi Agrawal** (promoter group); **Mr. Dinesh Agrawal** (promoter); **Mr. Kumar Agrawal** (promoter group); **Hanuman Prasad Agrawal (HUF)** (promoter group); **Mrs. Meena Gupta** (non-promoter) +2 more | yes (not stated as a percentage; 97,96,200 of 2,04,08,220 w… | allotted | 2025-12-31 |
+| **GREAVESCOT** | rights equity shares | INR 530 Crore | — | **Greaves Cotton Limited (GCL)** (promoter); **Abdul Latif Jameel Green Mobility Solutions (ALJ)** (non-promoter) | yes (approximately 62.48% (INR 331.12 crore of the INR 530 … | completed | 2026-08-03 |
+| **HCG** | rights equity shares | aggregating up to ₹42,468.18 lakhs | ₹ 512.00 per Rights Equity Share (including a premium of ₹ 502.00 per… | Eligible Equity Shareholders as on the Record Date (Monday, March 2, 2026) and Renouncees, in the ratio of 1 Rights Equity Share for every 17 Equity Shares held (public); **Hector Asia Holdings II Pte. Ltd.** (promoter); **Catalyst Trusteeship Limited** (promoter); **Dr. B.S Ajaikumar** (promoter) | yes | in-principle approval | 2026-08-06 |
+| **INOXWIND** | rights equity shares | Rs. 1249.33 crore | — | the Promoter | yes | completed | 2025-11-14 |
+| **IOB** | equity shares | Rs. 5000 Crores (including premium, if any) equity capital; Ten crore… | — | **Permanent employees of the Bank, whether working in India or outside India (under Employees Share Purchase Scheme, IOB-ESPS 2026-27)** (non-promoter) | yes | board approved | 2026-05-21 |
+| **JMFINANCIL** | equity shares | ₹ 162.59 crore | ₹10/- per share (stated as "equity shares of face value of ₹ 10/- eac… | **JM Financial Credit Solutions Limited (JMFCSL), wholly owned subsidiary of JM Financial Limited and holding company of the issuer JMFARC** (promoter) | yes (not stated (JMFCSL's holding in JMFARC increased from … | allotted | 2026-09-28 |
+| **JSWDULUX** | equity shares | up to INR 2997,11,18,266.54 (Indian Rupees Two Thousand Nine Hundred … | 3,231.77 | **JSW Paints Limited (Acquirer)** (non-promoter); **JTPM Metal Traders Limited (PAC 1)** (non-promoter); **JSW EduInfra Private Limited (PAC 2)** (non-promoter) | yes | in-principle approval | 2026-08-11 |
+| **KIMS** | warrants | Rs. 1,499,999,944.50 (Rupees One hundred forty-nine crore ninety-nine… | — | **Dr. Abhinay Bollineni** (promoter); **Mr. Adwik Bollineni** (promoter); **Bharas Ventures LLP, a limited liability partnership with Dr. Bhaskara Rao Bollineni (being Promoter of the Company) and Ms. Rajyasri Bollineni (being Promoter of the Company) having made the entire capital contribution** (promoter group) | yes (100% — all allottees are Promoters or Promoter Group; … | allotted | 2026-03-11 |
+| **LAURUSLABS** | equity shares | INR 12,09,60,500/- (Indian Rupees Twelve Crores Nine Lakhs Sixty Thou… | INR 10/- each (face value) | **Laurus Labs Limited** (non-promoter) | yes | completed | 2026-10-06 |
+| **LLOYDSENGG** | equity shares | — | ₹32 | **Equity shareholders of Lloyds Infrastructure & Construction Limited (LICL) (individual names not stated)** (non-promoter); **Equity shareholders of Metalfab Hightech Private Limited (MHPL) (individual names not stated)** (non-promoter) | yes | in-principle approval | 2026-08-06 |
+| **LOTUSDEV** | rights equity shares | Rs. 99,00,000/- + Rs. 2,96,00,000/- + Rs. 96,00,000/-; aggregate not … | ₹10/- per share (each of the three subsidiaries) | **Sri Lotus Developers and Realty Limited (the Company) — as subscriber/allottee in the rights issue of Veera Desai Projects Private Limited** (promoter); **Sri Lotus Developers and Realty Limited (the Company) — as subscriber/allottee in the rights issue of Dhiti Projects Private Limited** (promoter); **Sri Lotus Developers and Realty Limited (the Company) — as subscriber/allottee in the rights issue of Prasati Projects Private Limited** (promoter) | yes (not stated as a percentage; the three issuers are desc… | completed | 2026-07-04 |
+| **MEESHO** | equity shares | Up to Rs. 100 Crores (in one or more tranches) | ₹111 | **Meesho Limited** (promoter) | yes | board approved | 2026-07-23 |
+| **MFSL** | equity shares | aggregate investment of up to Rs. 389 crores | ₹151.90 per equity share (including share premium of ₹141.90 per equi… | **Axis Bank Limited** (promoter); **Axis Capital Limited** (promoter); **Axis Securities Limited** (promoter) | yes (100% — the entire 2,50,56,200 shares go to Axis Bank L… | board approved | 2026-03-12 |
+| **MUTHOOTFIN** | rights equity shares | LKR 1,09,65,84,451 (approximately ₹31,80,09,491 / INR 31.80 Crores) | LKR 33.30 per share | **Muthoot Finance Limited** (promoter) | yes | allotted | 2026-09-09 |
+| **OLAELEC** | rights equity shares | up to ₹999.74 crore | 27 | Eligible Equity Shareholders of Ola Electric Mobility Limited as on the Record Date, October 13, 2026 (and Renouncees who acquire Rights Entitlements from them) (public) | yes | in-principle approval | 2026-10-07 |
+| **PATANJALI** | other | INR 5,00,00,000/- (Rupees Five Crore Only) | ₹10 per preference share (Rs. 10/- each) | **Patanjali Foods Limited (subscriber; issuer is its wholly-owned subsidiary Contemporary Agro Private Limited)** (promoter) | yes | allotted | 2026-06-19 |
+| **PAYTM** | rights equity shares | upto INR 2,250 Crores (Indian Rupees Two Thousand two Hundred and Fif… | — | **One 97 Communications Limited (subscribing to the rights issue of its wholly owned subsidiary Paytm Payments Services Limited)** (promoter) | yes | board approved | 2025-11-04 |
+| **PIRAMALFIN** | not stated | ₹1,750.03 crore | ₹2,110 | Nithyam Realty Private Limited; promoter | yes | announced | 2026-08-24 |
+| **RBA** | equity shares | up to INR 14,64,54,64,260 (total consideration), representing 26.00% … | 70.00 per Equity Share of face value INR 10 each, plus Applicable Int… | **Lenexis Foodworks Private Limited (Acquirer 1)** (non-promoter); **Aayush Agrawal Trust (Acquirer 2), represented by sole trustee Mr. Aayush Madhusudan Agrawal** (non-promoter); **Inspira Foodworks Private Limited (formerly Inspira Realty 1 Private Limited) (Acquirer 3)** (non-promoter); **Mr. Aayush Madhusudan Agrawal (Acquirer 4)** (non-promoter); **Inspira Agro Trading LLC (PAC, UAE)** (non-promoter) | yes | in-principle approval | 2026-05-26 |
+| **RBLBANK** | equity shares | INR 117,353,299,774.34 (One hundred seventeen billion, three hundred … | ₹280.00 per Equity Share (Offer Price), plus Applicable Interest of ₹… | **Emirates NBD Bank (P.J.S.C.)** (non-promoter) | yes | in-principle approval | 2026-06-01 |
+| **RENUKA** | rights equity shares | Rs. 573.65 Mn. (as on 31st October 2025) | not stated (shares are fully paid-up equity shares of KBK at Face Val… | **Shree Renuka Sugars Limited (the Company, parent of KBK Chem-Engineering Private Limited)** (promoter) | yes (100% — 'Percentage of shareholding / control acquired:… | board approved | 2025-11-06 |
+| **SAMMAANCAP** | other | ₹5,652.75 crore | ₹139 | **Non-convertible debenture holders of Sammaan Finserve Limited (Demerged Company)** (non-promoter) | yes | in-principle approval | 2026-08-14 |
+| **SHAILY** | equity shares | 2,416 securities | — | **eligible employees (under the Company's ESOP Plan 2019)** (non-promoter) | yes | allotted | 2026-05-19 |
+| **SPARC** | warrants | INR 5,99,98,58,000/- (Indian Rupees Five Hundred Ninety Nine Crores N… | 155.80 | **Shanghvi Finance Private Limited** (promoter group) | yes (100% (sole allottee is a member of the promoter group;… | allotted | 2026-01-14 |
+| **THANGAMAYL** | rights equity shares | Rs. 510 crore | — | **Balarama Govinda Das** (promoter); **BA Ramesh** (promoter); **N.B. Kumar** (promoter); **Promoters (aggregate, via conversion of unsecured loans)** (promoter) | yes (not stated as a %; Rs.178.50 crore of the Rs.510 crore… | completed | 2025-11-03 |
+| **ZEEL** | warrants | aggregating upto ₹ 31,43,51,80,938/- (Rupees Three Thousand One Hundr… | Rs. 126/- per warrant (Warrant Subscription Price Rs. 31.50 + Warrant… | **Sunbright Mauritius Investments Limited** (promoter group); **Sunbright Mauritius Investments Limited** (promoter group) | yes (100% — sole allottee is Promoter Group entity Sunbrigh… | allotted | 2026-07-01 |
+| **AUBANK** | other | — | — | not named in the filings on file | unknown | announced | 2026-04-27 |
+| **BHARTIARTL** | equity shares | 146,761,335 securities | — | Indian Continent Investment Limited ('ICIL') (not stated) | no | allotted | 2026-06-23 |
+| **IIFLCAPS** | other | — | — | not named in the filings on file | unknown | rumoured | 2026-04-22 |
+| **JAYNECOIND** | warrants | INR 200,00,00,013.42 (Indian Rupees Two Hundred Crore and Thirteen an… | INR 89.13 per Subscription Warrant | M/s. Vibrant Enterprises (partnership firm) — the "Investor" (not stated); Smt. Nisha Jayaswal (partner of Vibrant Enterprises) (not stated); Smt. Rita Jayaswal (partner of Vibrant Enterprises) (not stated); Smt. Karishma Jayaswal (partner of Vibrant Enterprises) (not stated); Smt. Hargunn Jayaswal (partner of Vibrant Enterprises) (not stated) +3 more | no | allotted | 2026-10-01 |
+| **MINDACORP** | warrants | INR 420.75 Crores | INR 550/- per Warrant | not named in the filings on file | unknown | allotted | 2026-02-05 |
+| **RPOWER** | warrants | — | — | not named in the filings on file | unknown | announced | 2026-04-28 |
+| **SHRIRAMFIN** | equity shares | Rs.3,96,17,98,28,781.15 (Rupees Thirty Nine Thousand Six Hundred and … | 840.93 | MUFG Bank Ltd., a company incorporated under the laws of Japan, having its registered office at 1-4-5, Marunouchi, Chiyoda-ku, Tokyo, Japan (institution) | no | allotted | 2026-04-10 |
+| **TITAGARH** | warrants | Rs. 199.99 Crores | — | not named in the filings on file | unknown | allotted | 2026-05-14 |
+| **WOCKPHARMA** | other | ₹10 Crores | — | not named in the filings on file | unknown | board approved | 2026-05-04 |
+| **YESBANK** | other | — | — | not named in the filings on file | unknown | announced | 2026-06-29 |
+| **ADANIENSOL** | equity shares | an aggregate amount not exceeding ₹ 10,000 crore (Rupees Ten Thousand… | — | not named in the filings on file | unknown | board approved | 2026-07-01 |
+| **ADVENZYMES** | equity shares | not exceeding ₹697,000,000 (Rupees Six Hundred and Ninety Seven Milli… | not exceeding ₹500/- (Rupees Five Hundred only) per Equity Share (Max… | not named in the filings on file | unknown (nil — the Buyback shall not be made from the Promo… | board approved | 2026-06-06 |
+| **AEGISLOG** | other | An amount aggregating up to Rs.6,000 Crores | — | not named in the filings on file | unknown | board approved | 2026-09-28 |
+| **APARINDS** | other | Up to an aggregate amount not exceeding INR 2,500 crores or an equiva… | — | not named in the filings on file | unknown | board approved | 2026-06-30 |
+| **APOLLO** | — | — | — | not named in the filings on file | unknown | announced | 2026-10-05 |
+| **ARVIND** | other | Upto an aggregate amount not exceeding Rs.600 Crores (Rupees Six Hund… | — | not named in the filings on file | unknown | board approved | 2026-07-03 |
+| **BHARATFORG** | equity shares | aggregating ₹16,500.00 million | ₹1,320/- per share (including a securities premium of ₹1,318/- per sh… | not stated (issued through Qualified Institutional Placement to qualified institutional buyers) (institution) | no | completed | 2026-08-10 |
+| **CCAVENUE** | rights equity shares | Rs. 3,499.93 Million (share application money of Rs. 5/- per share); … | Rs.10/- per share (including Rs. 9/- premium), of which Rs. 5/- per s… | Eligible Equity Shareholders (not individually named) (public) | no | converted | 2026-09-11 |
+| **CEMPRO** | equity shares | an aggregate amount not exceeding ₹ 5,000 Crore (Rupees Five Thousand… | — | not named in the filings on file | unknown | board approved | 2026-07-23 |
+| **COALINDIA** | equity shares | 2,22,000 securities | ₹ 23 per share | not stated (public) | no | completed | 2026-07-27 |
+| **DALBHARAT** | other | up to an aggregate amount of Rs.4,000 Crore | — | not named in the filings on file | unknown | board approved | 2026-05-23 |
+| **EMBDL** | warrants | balance consideration aggregating to INR 87,36,30,698.38/- (Indian Ru… | INR 111.51 (including the premium of INR 109.51) per Equity Share | Bellanza Developers Private Limited (not stated); Worldpart Limited (not stated); Aalidhra Textool Engineers Private Limited (not stated) | no | converted | 2026-07-07 |
+| **EQUITASBNK** | other | Up to Rs. 500,00,00,000/- (Rupees Five Hundred Crores only) | face value of Rs.1,00,000/- (Rupees One Lakh only) each | not named in the filings on file | unknown | board approved | 2026-09-16 |
+| **ETHOSLTD** | rights equity shares | Upto Rs 40,990.50 lakh | — | not named in the filings on file | unknown | completed | 2026-08-03 |
+| **FEDFINA** | other | upto Rs. 500,00,00,000/- (Rupees Five Hundred Crores Only) | face value of Rs. 1,00,000/- (Rupees One Lakh only) each | not named in the filings on file | unknown | board approved | 2026-08-25 |
+| **FORTIS** | other | — | — | not named in the filings on file | unknown | announced | 2025-10-09 |
+| **GRAVITA** | rights equity shares | approximately Rs. 94.81/- Crores only | — | not named in the filings on file | unknown | board approved | 2026-09-30 |
+| **HCC** | rights equity shares | ₹999.99 Crore | — | Eligible applicants in the Rights Issue (basis of allotment finalised with BSE Limited) (public) | no | completed | 2026-08-18 |
+| **HINDZINC** | other | up to ₹ 1400 Crore, comprising of (i) STRPP 1 – up to ₹ 420 Crore, an… | — | not named in the filings on file | unknown | board approved | 2026-01-23 |
+| **IIFL** | other | An aggregate amount of up to and not exceeding ₹10,000 Crore (Rupees … | — | not named in the filings on file | unknown | board approved | 2026-06-27 |
+| **JKCEMENT** | other | — | — | the Scheme of amalgamation of Toshali Cements Private Limited | unknown | completed | 2026-07-18 |
+| **JSWINFRA** | equity shares | 25,00,00,000 securities | — | not named in the filings on file | unknown | board approved | 2026-02-20 |
+| **KITEX** | other | — | — | not named in the filings on file | unknown | announced | 2026-08-14 |
+| **KRN** | equity shares | up to ₹ 500 Crore (Rupees Five Hundred Crore only) | — | not stated (qualified institutional investors under QIP; filing states "names of the investors" disclosure is "Not applicable" as it is not a preferential issue) (institution) | no | board approved | 2026-03-13 |
+| **LLOYDSENT** | rights equity shares | — | ₹39 per share (First and Final Call of ₹19.50 per Equity Share, being… | not named in the filings on file | unknown | board approved | 2026-02-09 |
+| **MANAPPURAM** | — | — | — | not named in the filings on file | unknown | announced | 2026-04-02 |
+| **MINDACORP** | warrants | INR 420.75 Crores | INR 550/- per Warrant | not named in the filings on file | unknown | allotted | 2026-09-24 |
+| **NATCOPHARM** | rights equity shares | ₹13,000 million | ₹750 per share (including premium) | Eligible equity shareholders as on the record date (entitlement 2 Equity Shares for every 21 Equity Shares held); renunciation of rights entitlement permitted (public) | no | board approved | 2026-09-28 |
+| **NETWEB** | other | up to and not exceeding ₹ 1200.00 Crore (Rupees One Thousand Two Hund… | — | not named in the filings on file | unknown | board approved | 2026-07-01 |
+| **PETRONET** | other | — | — | not named in the filings on file | unknown | announced | 2026-02-12 |
+| **PRSMJOHNSN** | other | up to an aggregate amount not exceeding ₹ 500 Crores (equity/equity-l… | — | not named in the filings on file | unknown | board approved | 2026-05-14 |
+| **RCF** | other | ₹ 395.00 crore | — | SBICAP Trust | unknown | completed | 2026-08-13 |
+| **REFEX** | other | 1,64379 securities | — | inform you that Venwind Refex Power Limited | unknown | announced | 2026-04-26 |
+| **SHAREINDIA** | other | — | — | meet its capital | unknown | announced | 2026-09-15 |
+| **SHRIPISTON** | other | — | — | not named in the filings on file | unknown | announced | 2026-05-11 |
+| **SOBHA** | rights equity shares | Issue Size (Rs. Crore) : 1999.028 Crore | — | not named in the filings on file | unknown | completed | 2026-07-20 |
+| **STARCEMENT** | other | — | — | not named in the filings on file | unknown | announced | 2025-10-14 |
+| **TEGA** | equity shares | Rs. 95,39,99,390/- i.e. upto approximately Rs. 95.40 Crores | 1,994 | AP Jupiter Holdings II, Ltd. (public) | no (not stated (sole proposed allottee is categorised as Pu… | board approved | 2026-08-22 |
+| **UNIONBANK** | equity shares | capital raising not exceeding ₹ 8,000 crore, of which equity capital … | — | not named in the filings on file | unknown | board approved | 2026-05-26 |
+| **VIPIND** | other | Upto an aggregate amount not exceeding ₹ 500 crores (Rupees Five Hund… | — | not named in the filings on file | unknown | board approved | 2026-09-18 |
+| **ZYDUSLIFE** | equity shares | not exceeding INR 1100,00,00,000/- (Indian Rupees One Thousand One Hu… | INR 1,260/- per Equity Share (buyback price, payable in cash; revised… | not named in the filings on file | unknown | board approved | 2025-11-06 |
+
+<details><summary>Each offering, with the filing's own words</summary>
+
+**ABCAPITAL — Aditya Birla Capital Ltd.** · preferential issue / warrants · 3 filing(s), 2026-05-20 → 2026-06-23
+- purpose: Meeting growth objectives including augmentation of the capital base, funding requirements for lending business and other general corporate purposes such as investment in subsidiaries/joint ventures/associates.; pricing: Preferential issue in accordance with Chapter V of the SEBI ICDR Regulations, 2018 — "undertaken at the price of Rs. 356.02 per equity share, as per SEBI ICDR Regulations"; no explicit floor price, discount or premium to market stated; warrants: not applicable — fully paid-up equity shares, not convertibles; "In case of convertibles... Not Applicable"; promoters' intent: not applicable (preferential allotment, not a rights issue); Grasim subscribes 8,08,94,331 shares taking its stake from 52.27% to 52.30% on a fully diluted basis, and Suryaja Investments Pte. Ltd. (promoter group) takes 56,17,661 shares (0.20%)
+- “The Board of Directors of Aditya Birla Capital Limited (“ABCL”) approved preferential issuance of Rs. 2,880 crores to Grasim Industries Limited (Promoter), Rs. 200 crores to Suryaja Investment Pte Limited, Singapore (an Aditya Birla Group entity) and Rs. 920 crores to International Finance Corporation (IFC), aimed at strengthening the capital base and meeting the requirement for its next phase of growth.”
+- filing: [Aditya Birla Capital Limited has informed the Exchange regarding allotment of 112353236 securities pursuant to Preferent](https://nsearchives.nseindia.com/corporate/ABCAPITAL_23062026094529_Allotment_preferential_issuesigned.pdf)
+
+**AEQUS — Aequs Ltd.** · preferential issue / warrants · 3 filing(s), 2026-09-25 → 2026-09-25
+- purpose: Fund capacity expansion across aerospace and consumer businesses, including Hosur facility development, investment in subsidiaries and joint ventures, general corporate purposes, and support borrowing program; pricing: Floor price determined under Regulation 164 of SEBI (ICDR) Regulations, 2018 — the higher of the 90-trading-day and the 10-trading-day VWAP preceding the relevant date of September 22, 2026; includes a premium of INR 221.55/- per warrant; warrants: 50 per cent payable upfront (INR 3,250,000,000/- / ₹325 crore at subscription and allotment, twice the regulatory minimum); warrants exercisable within 18 months from allotment, conversion on or before December 31, 2027, else ₹325 crore forfeited
+- “The Board of Directors of Aequs Limited (“Aequs” or the “Company”) , has approved the preferential issue of up to 2,80,71,690 warrants, each convertible into one fully paid-up equity share of face value ₹10 , to Mellwood Trustee Services Private Limited (Trustee of the Melligeri Private Family Foundation) (“Promoter”), a member of the Promoter Group, aggregating to approximately ₹650 crore.”
+- filing: [Fund Raising Prior Intimation of Board Meeting scheduled to be held on September 25, 2026, Inter alia 1. To consider and](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_21092026215124_Prior_intimation_of_BM.pdf)
+
+**AFFLE — Affle 3i Ltd.** · preferential issue / warrants · 2 filing(s), 2026-06-18 → 2026-08-14
+- warrants: 25% of the warrant issue price paid upfront; balance 75% (Rs. 1,115.25 per warrant) on conversion; tenure shall not exceed 18 months from the date of allotment, exercisable in one or more tranches, unexercised warrants lapse and amount paid stands forfeited
+- “Further to our intimation dated June 18, 2026, regarding allotment of 74,00,000 (Seventy Four Lakhs) convertible warrants to Affle Holdings Pte. Ltd., the Promoter of the Company ("allottee"), we would like to inform that the Company has allotted 34,964 (Thirty Four Thousand Nine Hundred and Sixty Four) equity shares of face value of Rs. 2 (Rupees Two) each to the allottee.”
+- filing: [Affle 3i Limited has informed the Exchange regarding allotment of 34964 equity shares pursuant to conversion of warrants](https://nsearchives.nseindia.com/corporate/AFFLE_14082026165716_Allotment_intimation_warrants_conversion.pdf)
+
+**AIIL — Authum Investment & Infrastructure Ltd.** · preferential issue / warrants · 1 filing(s), 2025-10-09 → 2025-10-09
+- purpose: To provide working capital to MIRC and sustain its growth trajectory; Authum to acquire and maintain 21.25% stake throughout the term of the Share Purchase and Shareholders' Agreement.
+- “This is to inform that pursuant to allotment of 7,83,00,000 Equity shares of face value Re. 1/- issued at Rs. 16.81/- by MIRC Electronics Limited (MIRC) (CIN: L32300MH1981PLC023637) a Company listed on BSE and NSE on account of preferential allotment, Authum holds 21.25 % (Including Pre-holding of 0.07%) of equity shares of MIRC Electronics Limited with an overall investment of the Company in MIRC aggregating to Rs. 131,62,23,000/- (One thirty-one Crore Sixty-two lakhs twenty-three thousand Only) for allotment of 7,83,00,000 Equity shares.”
+- filing: [Authum Investment & Infrastructure Limited has informed regarding Disclosure of material issue pertaining to acquisition](https://nsearchives.nseindia.com/corporate/Authum123_09102025231538_AuthumDisclosure30MIRC.pdf)
+
+**ANURAS — Anupam Rasayan India Ltd.** · preferential issue / warrants · 2 filing(s), 2026-09-07 → 2026-09-09
+- purpose: Mandatory open offer to acquire 26.00% of the Expanded Voting Share Capital of Bliss GVS Pharma Limited from Public Shareholders, pursuant to the Share Purchase Agreement / Underlying Transaction; pricing: not stated (open offer price determined under the SEBI (SAST) Regulations, 2011; Relevant Period 1 May 2025 to 30 April 2026 — no SEBI ICDR floor or market discount/premium stated in the text provided)
+- “Submission of a copy of the Letter of Offer sent to the Public Shareholders of Bliss GVS Pharma Limited ("Target Company") regarding the Open Offer for acquisition of fully paid-up equity shares of face value of ₹ 1/- (Rupee One only) each, representing 26.00% (twenty six percent) of the Expanded Voting Share Capital of the Target Company from the Public Shareholders, by Anupam Rasayan India Limited ("Acquirer") together with Mates Visa Consultancy Private Limited, in its capacity as person acting in concert ("PAC") with the Acquirer for the purpose of the Open Offer, pursuant to and in compliance with the requirements of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, as amended.”
+- filing: [Anupam Rasayan India Limited has informed the Exchange about acquisition of equity shares in Tanfac Industries Limited p](https://nsearchives.nseindia.com/corporate/ANURAS_09092026183541_ARILSLDSTX20260909058Reg30DisclosureTanfacAcquisitionUpdate.pdf)
+
+**ATHERENERG — Ather Energy Ltd.** · preferential issue / warrants · 2 filing(s), 2026-07-15 → 2026-08-25
+- pricing: Floor price under Regulation 164(4) of SEBI ICDR Regulations for the Equity Shares to India-Japan Fund (a QIB) is INR 1,175.74 per Equity Share; approved issue price of INR 1,230 is INR 54.26 higher than the floor price. Floor price under Regulation 164(1) for the warrants to the promoters is INR 1,175.74 per Equity Share (upon conversion); approved issue price of INR 1,260 is INR 84.26 higher than the floor price. Relevant Date: July 15, 2026; warrants: An amount equivalent to 25% of the Warrant Issue Price payable at the time of subscription and allotment; remaining 75% payable upon exercise/conversion. Tenure shall not exceed 18 months from the date of allotment, convertible in one or more tranches at the warrant holder's option; unconverted warrants lapse and amounts paid stand forfeited; promoters' intent: not stated (not a rights issue; promoters are subscribing to the warrant leg of the preferential issue — post-preferential fully diluted holding of Hero MotoCorp Limited rises from 28.69% to 29.88%, Mr. Tarun Sanjay Mehta 4.80% to 4.73%, Mr. Swapnil Babanlal Jain 4.80% to 4.73%)
+- “A. Number of investors : 4 (four) allottees , namely, India -Japan Fund (represented by and acting through its investment manager, National Investment and Infrastructure Fund Limited), Hero MotoCorp Limited, Mr. Tarun Sanjay Mehta and Mr. Swapnil Babanlal Jain.”
+- filing: [Ather Energy Limited has informed the Exchange regarding allotment of 1626016 fully paid-up equity shares and 7936507 co](https://nsearchives.nseindia.com/corporate/ATHERENERGY_25082026193729_SEIntimationAllotmentFINAL1signed.pdf)
+
+**BAJAJFINSV — Bajaj Finserv Ltd.** · preferential issue / warrants · 1 filing(s), 2026-10-01 → 2026-10-01
+- purpose: Promoter participation in Bajaj Finance's capital raise to signify support and commitment, lending confidence to prospective investors; not driven by immediate capital needs.; pricing: SEBI ICDR floor price: "shall not be less than the floor price as per Regulation 164(1) under Chapter V of the SEBI ICDR Regulations, subject to necessary adjustment in pricing in terms of Regulation 166(1)&(2) of SEBI ICDR Regulations, if required or applicable"; promoters' intent: not stated (not a rights issue); on its own participation the filing states: "the Company has expressed its interest to participate in a manner that will signify its support and commitment to Bajaj Finance Limited, which in turn would lend confidence to the prospective investors. The intention of the Promoter to participate is not driven on the immediate capital needs of Bajaj Finance Limited."
+- “The Board at its meeting held on 1 October 2026 has approved subscription to Warrants convertible into equivalent number of Equity Shares for an aggregate cash consideration not exceeding Rs. 5,800 Crore (Rupees Five Thousand Eight Hundred Crore only), in accordance with Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended ("SEBI ICDR Regulations") and other applicable laws, by way of preferential allotment on a private placement basis to be issued by Bajaj Finance Limited, a subsidiary of the Company.”
+- filing: [Bajaj Finserv Limited has informed the Exchange about subscription of warrants convertible into equivalent number of Equ](https://nsearchives.nseindia.com/corporate/walimbelk_01102026233519_BFS_SEIntimationletter_Final.pdf)
+
+**BAJFINANCE — Bajaj Finance Ltd.** · preferential issue / warrants · 3 filing(s), 2026-10-01 → 2026-10-01
+- pricing: not stated (only that pricing will be in accordance with Chapter V of SEBI ICDR Regulations, 2018 / applicable law); warrants: "a minimum of 25% of the consideration shall be payable on the date of allotment and balance 75% shall be payable at the time of allotment of Equity Shares pursuant to the exercise of options against the warrants"; tenure to convert: eighteen months from the date of allotment, failing which the consideration paid stands forfeited; promoters' intent: not stated (not a rights issue)
+- “Name of the investors — Bajaj Finserv Limited ("Proposed Allottee"), promoter and holding company”
+- filing: [Fund Raising To consider, inter alia, proposal for raising of funds through any or all of various methods including by w](https://nsearchives.nseindia.com/corporate/BAJFINANCE_23092026203115_BSENSE_Prior_intimation.pdf)
+
+**BALRAMCHIN — Balrampur Chini Mills Ltd.** · preferential issue / warrants · 6 filing(s), 2026-04-23 → 2026-06-30
+- purpose: Fund revised PLA project capex (Rs. 2,850 cr to Rs. 3,080 cr) and up to Rs. 160 crores for a new Lactogypsum/gypsum board plant at Kumbhi, Uttar Pradesh.; pricing: Issued "in accordance with the Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018"; no floor price figure or discount/premium to market is stated; warrants: not applicable — fully paid-up equity shares, not warrants; "the Company has received the share application / allotment money along with Application Form from all the 11 (Eleven) allottees"; promoters' intent: not applicable (preferential issue, not a rights issue); promoters Vivek Saraogi, Sumedha Saraogi and promoter group Meenakshi Mercantiles Limited subscribed and were allotted their full stated amounts, raising Vivek Saraogi from 2.66% to 3.68%, Sumedha Saraogi from 2.66% to 2.71% and Meenakshi Mercantiles from 3.21% to 3.66%
+- “Issue, offer and allot up to 93,16,771 (Ninety-Three Lakhs Sixteen Thousand Seven Hundred Seventy-One) fully paid-up equity shares of face value Re. 1/- (Rupee One only) each (" Equity Shares") for cash at a price of Rs. 483/- (Rupees Four Hundred Eighty-Three only) per Equity Share ... to the below mentioned Promoters, member of Promoter Group and Non-Promoters proposed allottee(s), (" Investors" or "Proposed A1lottees "), on a preferential basis (" Preferential Issue ")”
+- filing: [Balrampur Chini Mills Limited has informed the Exchange regarding 'Intimation of receipt of Trading Approval for 93,16,7](https://nsearchives.nseindia.com/corporate/SUNILBCML_30062026184825_BCML_Intiimation_Trading_Approval.pdf)
+
+**BALUFORGE — Balu Forge Industries Ltd.** · preferential issue / warrants · 5 filing(s), 2025-12-30 → 2026-03-09
+- warrants: 25% of the consideration was received on allotment of warrants, balance 75% received on exercise/conversion; tenure to convert not stated
+- “Name of the Investor (Non-Promoter and Promoter Group) Trimaan Jaspalsingh Chandock Rakesh Hasmukhlal Kanabar Harish Vasudevan”
+- filing: [Balu Forge Industries Limited has informed the Exchange regarding allotment of 1710000 securities pursuant to Preferenti](https://nsearchives.nseindia.com/corporate/BALUFORGE_09032026192301_Intimation.pdf)
+
+**BBOX — Black Box Ltd.** · preferential issue / warrants · 9 filing(s), 2025-10-18 → 2026-03-30
+- pricing: not stated (only stated as "Preferential allotment in accordance with the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 and other applicable laws" - no floor price, discount or premium to market disclosed); warrants: 25% of the issue price received upfront at subscription/allotment of each Warrant; balance 75% on exercise; convertible within 18 (Eighteen) months from the date of allotment of the Warrants (allotted September 27, 2024); promoters' intent: not stated (not a rights issue)
+- “We refer to our intimation no. BBOX/SD/SE/2024/75 dated September 27, 2024 regarding allotment of 92,65,215 Convertible Warrants at a price of Rs. 417/- per Warrant to 25 allottees (Promoter & Non-Promoter category) with a right to the Warrant holders to apply for and be allotted 1 (One) Equity Share of the face value of Rs. 2/- each of the Company at a Premium of Rs. 415/- per share for each Warrant within a period of 18 (Eighteen) months from the date of allotment of the Warrants against the receipt of initial subscription amount (25% of the issue price).”
+- filing: [Black Box Limited has informed the Exchange regarding a press release dated March 30, 2026, titled "Black Box Completes ](https://nsearchives.nseindia.com/corporate/BBOX_30032026105006_SE_Intimation_PR_WarrantsCompletion.pdf)
+
+**BELRISE — Belrise Industries Ltd.** · preferential issue / warrants · 1 filing(s), 2026-05-24 → 2026-05-24
+- “One Hundred and Forty ('140') fully paid-up Equity shares of INR 5 (Indian Rupees five only) each of Transferee Company shall be issued and allotted for every One ('1') fully paid-up Equity Share of INR 10 (Indian Rupees Ten only) each held in Transferor Company 1”
+- filing: [Annexure BDetails under Regulation 30 of the SEBI Listing Regulations read with the master circular dated January 30, 20](https://nsearchives.nseindia.com/corporate/BELRISE_24052026204604_BELRISE_Intimation_of_Fund_Raising_24052026.pdf)
+
+**BIOCON — Biocon Ltd.** · preferential issue / warrants · 3 filing(s), 2025-12-06 → 2026-06-29
+- purpose: Consideration (share swap) for acquisition of 26,19,17,480 equity shares of Biocon Biologics Limited from the four allottees; no cash proceeds.; pricing: not stated (issue made in accordance with Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018; no floor price or discount/premium to market disclosed)
+- “completed acquisition of 26,19,17,480 equity shares of BBL from (a) Mylan Inc. ("Mylan"); (b) Serum Institute Life Sciences Private Limited; (c) Tata Capital Growth Fund II; and (d) Activ Pine LLP (collectively referred as "Allotees")”
+- filing: [Biocon Limited has informed the Exchange regarding allotment of 8786362 securities pursuant to Preferential Issue at its](https://nsearchives.nseindia.com/corporate/Bioconlimited_29062026232036_SEIntimation.pdf)
+
+**BORORENEW — Borosil Renewables Ltd.** · preferential issue / warrants · 8 filing(s), 2025-10-17 → 2026-08-14
+- warrants: not applicable — fully paid equity shares, not warrants
+- “Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), as amended, we would like to inform you that the Management Committee of Board of Directors of Borosil Renewables Limited (the "Company") at its meeting held today, i.e. October 17, 2025, has approved the allotment of 69,43,691 equity shares of face value of Re. 1 each at the price of Rs. 535 (including a premium of Rs. 534) per equity share, to the persons belonging to Non-Promoter category, on a preferential basis, as per the details set forth in Annexure A.”
+- filing: [BOROSIL RENEWABLES LIMITED has informed the Exchange about Forfeiture of 1,12,578 warrants pursuant to non-receipt of ba](https://nsearchives.nseindia.com/corporate/BORORENEW12_14082026124746_INTIMATIONUPLOAD.pdf)
+
+**BOSCHLTD — Bosch Ltd.** · preferential issue / warrants · 2 filing(s), 2026-04-08 → 2026-06-03
+- warrants: not applicable
+- “Issue of 2460 Equity Shares of Rs. 10/- each to promoters on Preferential Basis.”
+- filing: [Bosch Limited has informed the Exchange about receipt of in-principle approval from the Stock Exchanges for allotment of](https://nsearchives.nseindia.com/corporate/BOSCHLTD2025_03062026142740_Letter2SE03062026.pdf)
+
+**CHOICEIN — Choice International Ltd.** · preferential issue / warrants · 3 filing(s), 2025-11-12 → 2025-12-05
+- pricing: "Preferential allotment of Warrants Convertible in to Equity Shares in accordance with Chapter V of the SEBI ICDR Regulations and other applicable law." No discount/premium to market stated; warrants: "25 % of the Consideration amount i.e INR. 75/- Per Warrant had been received by the Company at the time of allotment of Warrant & the Balance 75 % of the Consideration amounting to INR.225/- Per Warrant has been received by the Company on the Exercise of the Warrants"; tenure: to be exercised within 18 Months of the date of allotment of Warrant i.e. June 06, 2024; promoters' intent: not stated (not a rights issue)
+- “Out of the above, 40,00,000 Equity Shares have been allotted to M/s. Plutus Wealth Management LLP against a consideration amount of INR 90 Crores, and 18,00,000 Equity Shares have been allotted to M/s. Soansrishti Properties Private Limited (Formerly known as M/s. Rupang Properties Private Limited) against a consideration amount of INR 40.50 Crores.”
+- filing: [Allotment of 79,87,667 Equity Shares by Securities Allotment Committee of the Company on exercise of Warrants.](https://nsearchives.nseindia.com/corporate/CHOICE_05122025160621_upload.pdf)
+
+**COFORGE — Coforge Ltd.** · preferential issue / warrants · 5 filing(s), 2025-12-26 → 2026-05-23
+- purpose: Amalgamation of Cigniti Technologies Limited into Coforge Limited; no issue proceeds stated — shares issued as consideration under the Scheme; pricing: Share Exchange Ratio of 1:1 per Joint Valuation Report dated 27 December 2024 read with Clarification Note dated 13 June 2025 by PwC Business Consulting Services LLP and KPMG Valuation Services LLP; fairness confirmed by JM Financial Limited and Axis Capital Limited
+- “The share exchange ratio, based on the Joint Valuation Report dated 27 December 2024 read with the Clarification Note dated 13 June 2025 issued by PwC and KPMG and approved by the Boards, provides that shareholders of the Transferor Company (Cigniti Technologies Limited) shall receive 1 (one) equity share of INR 2 each in the Transferee Company (Coforge Limited) for every 1 (one) equity share of INR 10 held by them.”
+- filing: [Coforge Limited has informed the Exchange about Receipt of in-principle approval for listing from Stock Exchanges for pr](https://nsearchives.nseindia.com/corporate/COFORGE_23052026180101_Intimation_for_listing_approval.pdf)
+
+**CUPID — Cupid Ltd.** · preferential issue / warrants · 4 filing(s), 2026-01-21 → 2026-09-26
+- purpose: Strategic investment strengthening Cupid's retail presence and consumer reach; scaling Cupid's FMCG product portfolio across Style Baazar's 283+ (expanding to 500+) stores; pricing: not stated (described only as the "predetermined price of ₹328.25/- per Equity Share"; conversion "as per timelines specified under the provisions of SEBI (ICDR) Regulations, 2018"); warrants: 25% i.e. Rs. 82,88,31,250 paid upfront towards allotment of warrants; balance 75% payable at the time of exercise of right of conversion; warrants to be converted within the timelines specified under SEBI (ICDR) Regulations, 2018 (15,00,000 converted on May 15, 2026; 86,00,000 outstanding; upto 30,00,000 now approved for conversion in one or more tranches)
+- “The Board of Directors, at its meeting held on January 21, 2026, had already approved investment in 1,01,00,000 Warrants of Baazar Style at ₹328.25/- per Warrant, out of which 15,00,000 Warrants were converted into Equity Shares on May 15, 2026.”
+- filing: [Cupid Limited has informed the Exchange about Conversion of upto 30,00,000Warrants, in or more tranches, of Baazar Style](https://nsearchives.nseindia.com/corporate/CUPID_26092026170609_SE_Intimation_Conversion_of_Warrants.pdf)
+
+**DCBBANK — DCB Bank Ltd.** · preferential issue / warrants · 1 filing(s), 2025-10-10 → 2025-10-10
+- pricing: not stated (only that the Preferential Allotment is in accordance with the SEBI ICDR Regulations, 2018; no floor price or market discount/premium disclosed); warrants: not stated (equity shares, not warrants; "equity shares allotted shall be fully paid up")
+- “Sub: Intimation of allotment of equity shares to Aga Khan Fund for Economic Development S.A. ("Allottee") pursuant to preferential issue of equity shares.”
+- filing: [DCB Bank Limited has informed the Exchange regarding allotment of 6058394 securities pursuant to Preferential Issue at i](https://nsearchives.nseindia.com/corporate/ujwal727_10102025175908_BSENSEDisclosureAllotmentOfEquitySharesToAKFED.pdf)
+
+**EMBDL — Embassy Developments Ltd.** · preferential issue / warrants · 4 filing(s), 2025-10-13 → 2026-10-12
+- pricing: Issued under preferential offer in terms of Chapter V of SEBI ICDR Regulations at INR 111.51 per Equity Share (face value INR 2 plus premium INR 109.51); no ICDR floor price or discount/premium to market stated; warrants: 25% of the Issue Price paid upfront at allotment of Warrants on May 21, 2024; balance 75% payable, and each Warrant convertible into 1 Equity Share, within 18 (eighteen) months from the date of allotment of Warrants, in one or more tranches
+- “Pursuant to (a) exercise of such right for conversion by Bellanza (for entire 80,96,067 outstanding Warrants held by it), by Worldpart (for entire 8,50,000 outstanding Warrants held by it) & by Aalidhra (for entire 15,00,000 outstanding Warrants held by it) aggregating to 1,04,46,067 Warrants ("Exercised Warrants")”
+- filing: [Allotment of 3,25,18,900 Convertible Warrants on Preferential Basis.](https://nsearchives.nseindia.com/corporate/EMBDL_12102026114201_EDL_SE_Intimation_Warrants_Allotment_s.pdf)
+
+**ERIS — Eris Lifesciences Ltd.** · preferential issue / warrants · 2 filing(s), 2025-11-24 → 2026-01-16
+- purpose: Consideration other than cash: to discharge INR 423.30 crore consideration for acquiring the remaining 30% stake in Swiss Parenterals Limited, making it a wholly owned subsidiary.; pricing: Price determined in accordance with Chapter V of the SEBI ICDR Regulations, for a consideration other than cash; swap ratio determined based on valuation report of Ms. Rashmi Shah, Independent Registered Valuer (Reg. No. IBBI/RV/06/2018/10240) dated 24 November 2025
+- “Notice of Postal Ballot to the shareholders of the Company to, inter alia, obtain their consent for the issuance of 23,06,372 (twenty three lakhs six thousand three hundred and seventy two) equity shares of the Company to Mr. Naishadh Shah (Director, Swiss Parenterals Limited) on a preferential basis, for consideration other than cash, and to approve a material related party transaction related to the acquisition of shares in Swiss Parenterals Limited from Mr. Naishadh Shah.”
+- filing: [Eris Lifesciences Limited has informed the Exchange regarding allotment of 2306372 securities pursuant to Preferential I](https://nsearchives.nseindia.com/corporate/ERIS_16012026204831_intimationsigned.pdf)
+
+**FEDERALBNK — Federal Bank Ltd.** · preferential issue / warrants · 5 filing(s), 2025-10-20 → 2026-02-16
+- pricing: In accordance with Chapter V of the SEBI ICDR Regulations, 2018; Rs. 227 per warrant comprising face value Rs. 2 and premium of Rs. 225 per equity share; no floor price or discount/premium to market stated; warrants: 25% of the Warrant Issue Price payable at subscription (Rs. 1,549,12,76,941 received), balance 75% payable at allotment of equity shares on exercise; tenor 18 months from date of allotment (may be reduced per the Investment Agreement), convertible in one or more tranches, unconverted warrants lapse and amounts paid stand forfeited
+- “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Bank will be hosting an Investor / Analyst conference call to discuss the proposed preferential issue of warrants to funds managed by Blackstone, as approved by the Board of Directors at its meeting held on October 24, 2025.”
+- filing: [The Federal Bank Limited has informed the Exchange about Allotment of warrants of the Federal Bank Limited to Asia II To](https://nsearchives.nseindia.com/corporate/FEDERALBNK_16022026115718_FBL_Reg_30__Allotment_of_warrants_1600226_SIGNED.pdf)
+
+**FIVESTAR — Five-Star Business Finance Ltd.** · preferential issue / warrants · 2 filing(s), 2026-03-24 → 2026-04-24
+- pricing: Warrant price of INR 770.00 (face value of INR 1.00 and premium of INR 769.00); preferential allotment under Chapter V of SEBI ICDR Regulations; warrants: 25% of the total issue price paid upfront (INR 192.50 per share), balance 75% (INR 577.50 per share) paid on conversion; warrants valid for 18 months from allotment i.e. upto April 24, 2026
+- “Mr Lakshmipathy Deenadayalan – Promoter, Chairman & Managing Director 2,60,000 2,60,000 10.36% 10.44%”
+- filing: [Five-Star Business Finance Limited has informed the Exchange about Forfeiture of upfront consideration and lapse of Shar](https://nsearchives.nseindia.com/corporate/FIVESTAR_24042026164636_Stock_exchange_intimation.pdf)
+
+**GABRIEL — Gabriel India Ltd.** · preferential issue / warrants · 4 filing(s), 2026-07-21 → 2026-09-11
+- purpose: Issued for consideration other than cash as part consideration for acquiring 4,81,34,427 shares (28.99%) of HL Mando Anand India Private Limited from Asia Investments Private Limited; pricing: not stated (no SEBI ICDR floor price or market discount/premium disclosed; the acquisition consideration is stated to be 'determined based on an independent valuation'); warrants: not stated (equity shares issued fully paid-up; no warrants, no convertibles - 'In case of convertibles... NA')
+- “The Company has approved issuance and allotment of equity shares of the Company on a preferential basis, for consideration other than cash, to Asia Investments Private Limited (Promoter and holding company of the Company), as part consideration for the acquisition by the Company, from Asia Investments Private Limited , of equity shares of HL Mando ANAND India Private Limited (formerly known as Mando Automotive India Private Limited ).”
+- filing: [Gabriel India Limited has informed the Exchange regarding allotment of 1,44,04,204 equity shares to Asia Investments pri](https://nsearchives.nseindia.com/corporate/GABRIEL_11092026221007_Stock_exchange_intimation_signed.pdf)
+
+**GMRP&UI — GMR Power and Urban Infra Ltd.** · preferential issue / warrants · 4 filing(s), 2025-12-17 → 2026-01-28
+- purpose: not stated — the filings describe it only as "raising of funds by way of issuance of Equity shares & Convertible Warrants ... on a preferential basis"; no specific use of proceeds given; pricing: "The floor price as per the provisions of Regulation 164 of Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 (SEBI ICDR Regulations) is Rs. 120.88 per Warrant." — issue price is set at the ICDR floor price; no discount or premium to market stated; warrants: 25% of the consideration paid upfront ("after receipt of 25% of the consideration amount"); convertible into an equal number of Equity Shares within 18 months from the date of allotment i.e. January 28, 2026, on payment of the balance 75% at conversion; "the unexercised Warrants shall lapse and the amount paid by the Warrant Allottee shall stand forfeited"; promoters' intent: not stated — this is a preferential issue on private placement basis, not a rights issue; the only promoter-side statement is that the Warrants go "to the proposed allottee as indicated in Annexure belonging to the promoter group entity"
+- “"…also considering 3,30,90,668 Warrants which have been approved for issuance and allotment to Hyderabad Jabilli Properties Private Limited have been fully subscribed by the Warrant Allottee and have been allotted all the Equity Shares of Rs. 5 each upon conversion of Warrants."”
+- filing: [GMR Power and Urban Infra Limited has informed the Exchange about allotment of equity shares and warrants on preferentia](https://nsearchives.nseindia.com/corporate/GPUIL_28012026112315_FinalReg30Allotment.pdf)
+
+**GPIL — Godawari Power & Ispat Ltd.** · preferential issue / warrants · 5 filing(s), 2025-10-29 → 2026-10-08
+- pricing: not stated as a floor price or discount/premium to market; issue made as "Preferential Issue under Chapter V of the SEBI (Issue of Capital and Disclosure Requirement) Regulations, 2018 and other applicable law"; Re.1/- face value at a premium of Rs.244/- per share; warrants: 25% of the total issue price paid upfront (Rs.1,25,00,03,475/- received); remaining 75% (conversion price) payable on conversion, exercisable in one or more tranches within 18 months from the date of allotment (14.11.2025), failing which unconverted warrants lapse and the amount paid stands forfeited; promoters' intent: not stated (not a rights issue; promoters/promoter group are themselves allottees of 97,96,200 warrants)
+- “a) Names of the investors 1. Mrs. Sarita Devi Agrawal 2. Mr. Dinesh Agrawal 3. Mr. Kumar Agrawal 4. Hanuman Prasad Agrawal (HUF) 5. Mrs. Meena Gupta 6. Shree Nakoda Pipe Impex Private Limited 7. Meridien Realtech Private Limited”
+- filing: [Godawari Power And Ispat limited has informed the Exchange regarding allotment of 2,72,000 Equity Shares of Re 1/- each,](https://nsearchives.nseindia.com/corporate/GPIL_08102026152112_GPILNSEBSEWARRANTCONVERSION08102026.pdf)
+
+**GRANULES — Granules India Ltd.** · preferential issue / warrants · 2 filing(s), 2026-02-23 → 2026-02-23
+- pricing: Rs. 585/- per warrant / per equity share "as per the provisions of Regulation 164 of Chapter V of the SEBI ICDR Regulations"; no discount or premium to market stated; warrants: "An amount equivalent to 25% of the consideration of the warrants ie., Rs. 365.625 crores were received from the investors and the balance 75% of the total consideration shall be payable at the time of conversion"; exercisable in one or more tranches within 18 (eighteen) months from allotment, after which unexercised warrants lapse and the 25% paid is forfeited; promoters' intent: not stated (not a rights issue)
+- “The Company allotted 2,50,00,000 (Two crores & fifty lakhs warrants, convertible into an equivalent number of fully paid-up equity shares having a face value of Rs. 1/- each at a price of Rs. 585/- per warrant to members of the Promoter Group & Non-Promoter Group Category.”
+- filing: [Granules India Limited has informed the Exchange regarding allotment of 2,50,00,000 Convertible warrants pursuant to Pre](https://nsearchives.nseindia.com/corporate/GRANULES_23022026165828_NSEBSEOUTCOME.pdf)
+
+**GRASIM — Grasim Industries Ltd.** · preferential issue / warrants · 1 filing(s), 2026-06-23 → 2026-06-23
+- purpose: Meeting ABCL's growth objectives: augmentation of capital base, repayment of loans, funding the lending business, general corporate purposes including investment in subsidiaries/JVs/associates; pricing: Issue price of Rs. 356.02 including a premium of Rs. 346.02 per Equity Share over face value of Rs. 10; determination of the price pursuant to the preferential issue stated to be strictly in compliance with Chapter V of the SEBI (ICDR) Regulations, 2018 (no discount/premium to market price stated)
+- “With regard to the above, this is to inform that ABCL has allotted today, i.e. on 23rd June 2026, 8,08,94,331 Equity Shares to the Company, at a price of Rs. 356.02 (Rupees Three Hundred Fifty-Six and Paise Two only) per Equity Share of face value of Rs 10 each, that is at a premium of Rs. 346.02 (Rupees Three Hundred Forty-Six and Paise Two only) per Equity Share, for an aggregate consideration of Rs. 28,79,99,99,722.62.”
+- filing: [Acquisition of additional stake through participation in Preferential Issue of equity shares of Aditya Birla Capital Lim](https://nsearchives.nseindia.com/corporate/GRASIM_23062026121629_SEIntimation.pdf)
+
+**HDFCLIFE — HDFC Life Insurance Company Ltd.** · preferential issue / warrants · 1 filing(s), 2026-04-23 → 2026-04-23
+- “This is with reference to the Notice of Postal Ballot ("Notice") issued to the Members of HDFC Life Insurance Company Limited ("the Company") on April 16, 2026 in relation to the proposed issue of 1,45,23,906 equity shares on preferential and private placement basis to its promoter, HDFC Bank Limited, which, inter alia, contains disclosures relating to the shareholding pattern of the Company before and after the proposed issue.”
+- filing: [HDFC Life Insurance Company Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the Securitie](https://nsearchives.nseindia.com/corporate/PRASAD_23042026224451_SE_IntimationPrefUpdate.pdf)
+
+**HFCL — HFCL Ltd.** · preferential issue / warrants · 2 filing(s), 2026-03-25 → 2026-05-25
+- purpose: Not a preferential issue by HFCL; shares issued by unlisted subsidiary HASPL to consolidate HFCL's defence, aerostructure, radar and thermal weapon sight businesses
+- “Pursuant to the transaction contemplated under the share subscription agreement executed amongst the parties mentioned in point (a) above (“SSA”), HASPL will issue 17,50,00,000 equity shares having face value of ₹10 each, aggregating to ₹175 Crore to the identified investors/shareholders, in accordance with the terms of the SSA and applicable law.”
+- filing: [HFCL Limited has informed the Exchange regarding Outcome of the Committee Meeting of the Board of Directors of the Compa](https://nsearchives.nseindia.com/corporate/AHMED_25052026170332_HFCL_STX_Announcement_Warrant_25052026.pdf)
+
+**HSCL — Himadri Speciality Chemical Ltd.** · preferential issue / warrants · 3 filing(s), 2025-10-16 → 2025-11-10
+- warrants: 25% of the issue price (Rs. 79/- per warrant) paid on allotment of warrants on 14 May 2024; balance 75% (Rs. 237/- per warrant) paid on exercise; tenure to convert not stated
+- “This is in furtherance to the intimation given by the Himadri Speciality Chemical Ltd ("Company") on 14 May 2024 w.r.t. allotment of 1,08,17,000 (One Crore Eight Lakh Seventeen Thousand) warrants, each exchangeable into one equity share of face value of Re. 1/- each, ("Warrants") at an issue price ("Warrant Issue Price") of Rs. 316/- (Rupees Three Hundred Sixteen only) [including the warrant subscription price (Rs. 79/- per warrant) and the warrant exercise price (Rs. 237/- per warrant)] on preferential basis to 28 allottees ("Warrant Holders"), as per the list forming part of the said letter.”
+- filing: [Himadri Speciality Chemical Limited has informed the Exchange regarding allotment of 24000 equity shares pursuant to exe](https://nsearchives.nseindia.com/corporate/HSCL_10112025164016_SEIntimation_Allotmentofshares_10112025.pdf)
+
+**IDEA — Vodafone Idea Ltd.** · preferential issue / warrants · 3 filing(s), 2026-05-16 → 2026-06-22
+- pricing: Preferential issue under Chapter V of SEBI ICDR Regulations, 2018; relevant date for determining the minimum price is Tuesday, 12 May 2026 (no discount/premium to market stated); warrants: 25% of the Warrant Exercise Price payable on subscription, balance 75% on exercise; exercisable in one or more tranches within 18 months from allotment, failing which the warrant lapses and the 25% is forfeited
+- “Pursuant to the approval granted by the Board of Directors of the Company at its meeting held on 16 May 2026 and special resolution passed by the members of the Company at Extra-Ordinary General Meeting held on 11 June 2026 approving issuance of warrants on preferential basis, the Capital Raising Committee of the Board of Directors of the Company at its meeting held today i.e. 22 June 2026, considered and approved the allotment of 430 Crore warrants to Suryaja Investments Pte. Ltd. (an Aditya Birla Group entity and a member of the Promoter Group) for cash at an issue price of Rs. 11/- per warrant, against receipt of 25% of the issue price i.e. Rs. 2.75 per warrant aggregating to Rs.1,182.50 Crore.”
+- filing: [Vodafone Idea Limited has informed the Exchange regarding allotment of 430 Crore warrants to Suryaja Investments Pte. Lt](https://nsearchives.nseindia.com/corporate/IDEA_22062026194854_SEAllotmentintimationsigned.pdf)
+
+**INDIAGLYCO — India Glycols Ltd.** · preferential issue / warrants · 2 filing(s), 2025-11-24 → 2025-11-26
+- purpose: Demerger: transfer and vesting of Bio Pharma and Spirits & Biofuel Undertakings into Resulting Companies; shares issued as consideration to shareholders
+- “In accordance with the provisions of the Scheme, Resulting Company 1 and Resulting Company 2 have allotted Equity Shares of Rs. 5/- each to the shareholders of the Demerged Company whose names appeared in the Register of Members maintained by the Depositories as on the Record Date, i.e., Wednesday, 2nd September, 2026.”
+- filing: [India Glycols Limited has informed the Exchange regarding 'Successful allotment of Equity Shares on Preferential Basis.'](https://nsearchives.nseindia.com/corporate/INDIAGLYCO_26112025173802_SuccessfulallotmentofEquitySharesonPreferentialBasis.pdf)
+
+**INOXGREEN — Inox Green Energy Services Ltd.** · preferential issue / warrants · 8 filing(s), 2025-10-27 → 2026-01-28
+- purpose: No fund-raising; shares issued by Inox Renewable Solutions as consideration for demerger of Inox Green's Power Evacuation Business to shareholders of the Demerged Company
+- “It is submitted that the Scheme contemplates increase in the authorised share capital of the Resulting Company for issuance and allotment of shares to the shareholders of the Demerged Company, and therefore the Petitioner Compmies may be directed to comply with the provisions of Section 61 of the Companies Act, 2013 and to pay the applicable stamp duty and registration fees while filing the relevant forms with the Registrar of Companies.”
+- filing: [Inox Green Energy Services Limited has informed the Exchange regarding allotment of 19890000 securities pursuant to Pref](https://nsearchives.nseindia.com/corporate/IGESL_28012026173413_IGESL_Intimation_28012026.pdf)
+
+**IRB — IRB Infrastructure Developers Ltd.** · preferential issue / warrants · 3 filing(s), 2025-10-08 → 2026-09-29
+- purpose: To partly fund acquisition of two BOT highway assets - Solapur Yedeshi NH211 and Chittorgarh Gulabpura NH79 - from IRB Infrastructure Trust, and general purposes.; pricing: Issue Price of ₹63/- per Unit "which includes a discount of ₹1.26/- per Unit (1.96% of the Floor Price, as determined in terms of the SEBI InvIT Regulations and Master Circular) to the Floor Price"; warrants: not stated (no warrants; units allotted and paid in full in cash); promoters' intent: not applicable (not a rights issue); the Sponsor states it invested "Rs.351Crs in IRB InvIT Fund through preferential issue of units, to maintain its (approx.) 16% stake in IRB InvIT Fund"
+- “The Sponsors IRB Infrastructure Developers Ltd has also invested Rs.351Crs in IRB InvIT Fund through preferential issue of units, to maintain its (approx.) 16% stake in IRB InvIT Fund.”
+- filing: [IRB Infrastructure Developers Limited has informed the Exchange regarding 'Company sponsored IRB InvIT Fund completes Fu](https://nsearchives.nseindia.com/corporate/IRB_29092026090259_SE_Discl_InvIT_QIP.pdf)
+
+**JIOFIN — Jio Financial Services Ltd.** · preferential issue / warrants · 1 filing(s), 2026-04-21 → 2026-04-21
+- warrants: not stated (percentage paid upfront and tenure to convert not disclosed in this filing); warrants were allotted on September 3, 2025 and 25,00,00,000 converted on April 21, 2026
+- “This is further to our disclosure dated September 3, 2025, intimating the allotment of 50,00,00,000 (Fifty crore) warrants to Sikka Ports & Terminals Limited and Jamnagar Utilities & Power Private Limited, members of the promoter group of the Company on preferential basis.”
+- filing: [Allotment of 25,00,00,000 equity shares upon conversion of warrants allotted on Preferential basis](https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_21042026112820_JFSL.pdf)
+
+**JSFB — Jana Small Finance Bank Ltd.** · preferential issue / warrants · 1 filing(s), 2026-06-24 → 2026-06-24
+- pricing: not stated (issue made under Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018; no floor price or market discount/premium disclosed); warrants: not stated as a percentage; "As of the date of allotment of the Subscription Warrants, the Investors have paid an amount of INR 102,76,00,818.00 to the Company, and the balance amount will be paid upon exercise and conversion of the Subscription Warrants"; tenure to convert not stated (only "within the timelines prescribed under the ICDR Regulations" for the GWC allotment)
+- “Further to our disclosure made to the stock exchanges on May 18, 2026 (Ref: JSFB/SEC/2026-27/20), we wish to inform that the Board of directors ("Board") of Jana Small Finance Bank Limited ("Company"), have considered and approved the allotment of 88,43,000 warrants, each carrying a right to subscribe to 1 (one) fully paid-up equity share of the Company ("Subscription Warrants") to Singularity Large Value Fund III, ICM Finance Private Limited, 2i Capital PCC, Capri Global Ventures Private Limited and Utpal Hemendra Sheth (collectively referred to as "Investors").”
+- filing: [Jana Small Finance Bank Limited has informed the Exchange regarding allotment of 8843000 securities pursuant to Preferen](https://nsearchives.nseindia.com/corporate/rashmi_m_jana_bank_in_24062026201229_Allotment-24June2026.pdf)
+
+**JSWENERGY — JSW Energy Ltd.** · preferential issue / warrants · 8 filing(s), 2025-12-12 → 2026-02-26
+- “not stated”
+- filing: [JSW Energy Limited has informed the Exchange about disclosure under Regulation 30 of the Securities and Exchange Board o](https://nsearchives.nseindia.com/corporate/KRUTIKAJSWEL_26022026211212_JSWEL_INtimationOfTradingApproval26022026.pdf)
+
+**KIMS — Krishna Institute of Medical Sciences Ltd.** · preferential issue / warrants · 3 filing(s), 2026-06-13 → 2026-08-20
+- warrants: 25% of the issue price paid upfront as warrant subscription money; convertible into equity shares within 18 months from the date of allotment, balance 75% payable at the time of exercise
+- “Further we wish to inform you that upon receipt of 25 % of the issue price of the said Warrants (i.e., warrant subscription money), the Finance and Investment Committee of the Board has by way of a resolution passed by circulation on 19 August 2026 (Wednesday) at 18:45 hrs (IST), approved the allotment of 77,02,182 (seventy-seven lakh two thousand one hundred and eighty-two) warrants on a preferential basis by the Company to the Allottees (namely Dr. Abhinay Bollineni (Promoter), Mr. Adwik Bollineni (Promoter) and Bharas Ventures LLP (a Promoter Group entity)), in dematerialized form”
+- filing: [Krishna Institute of Medical Sciences Limited has informed the Exchange regarding allotment of 7702182 fully convertible](https://nsearchives.nseindia.com/corporate/KIMS_20082026005000_Allotment_warrants.pdf)
+
+**KPIGREEN — KPI Green Energy Ltd.** · preferential issue / warrants · 4 filing(s), 2025-12-17 → 2026-02-18
+- pricing: Issue price "not being less than the price as determined in accordance with the provisions of Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018" i.e. the SEBI ICDR floor price; Relevant Date fixed as Wednesday, December 17, 2025. No discount/premium to market stated.; warrants: 25% of the Warrant Price paid by the allottee at the time of allotment, balance 75% payable on exercise; tenor 18 months from the date of allotment, convertible in one or more tranches
+- “Allotment of 1,01,00,000 (One Crore One Lakh) fully convertible equity warrants ("Warrants") at an exercise price of ₹470.30 (Rupees Four Hundred Seventy and Paise Thirty) (including a premium of ₹465.30 (Rupees Four Hundred Sixty Five and Paise Thirty) per Warrant on a preferential basis to "Quyosh Energia Private Limited", an entity belonging to the promoter group category.”
+- filing: [KPI Green Energy Limited has informed the Exchange regarding allotment of 1,01,00,000 fully convertible equity warrants ](https://nsearchives.nseindia.com/corporate/KPIGLOBAL_18022026123013_KPI_Allotment_Outcome_BM_18022026_Signed.pdf)
+
+**LLOYDSENGG — Lloyds Engineering Works Ltd.** · preferential issue / warrants · 4 filing(s), 2026-06-18 → 2026-08-17
+- purpose: Not a fund raise; merger by absorption of LICL, MHPL and TIPL into LEWL to create a unified engineering and infrastructure company with combined scale and synergies.; pricing: Share Entitlement Ratio Report dated December 29, 2025 issued by Bansi S. Mehta Valuers LLP, Registered Valuer- Securities & Financial Assets, with Fairness Opinion dated December 29, 2025 by Mark Corporate Advisors; 1798 equity shares of INR 1 each of LEWL for every 1,500 equity shares of INR 1 each of LICL, and 94 equity shares of INR 1 each of LEWL for every 5 equity shares of INR 10 each of MHPL
+- “Issuance of shares to the shareholders of LICL and MHPL pursuant to the merger and cancellation of existing equity shares in the LICL, MHPL and TIPL held by LEWL.”
+- filing: [LLOYDS ENGINEERING WORKS LIMITED has informed the Exchange about the Acquisition of Shares through Preferential Issue](https://nsearchives.nseindia.com/corporate/LSIL_17082026213442_OutcomeIntimation.pdf)
+
+**LLOYDSME — Lloyds Metals And Energy Ltd.** · preferential issue / warrants · 6 filing(s), 2025-10-21 → 2026-03-13
+- pricing: in compliance with the provisions of Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations 2018 and the terms of allotment of the warrants; warrants: Rs. 259 per warrant (35% of issue price) received as initial subscription amount at allotment; balance Rs. 481 (65%) received now on exercise; 0 warrants pending conversion for these allottees
+- “The Board of Directors have considered and approved the allotment of 8,05,500 equity shares of the Company with a face value of Rs. 1 (Rupees One) each, at a premium of Rs. 739 (Rupees Seven Hundred and Thirty-Nine) per share, pursuant to the exercise and conversion of 8,05,500 convertible warrants against receipt of the balance subscription amount of Rs. 481 (Rupees Four Hundred and Eighty-One) per warrant (i.e. 65% of the issue price), to the following Allottees:”
+- filing: [Lloyds Metals And Energy Limited has informed the Exchange regarding allotment of 17620550 securities pursuant to Prefer](https://nsearchives.nseindia.com/corporate/LLOYDSME_13032026185121_20260313_Outcome_of_Board_Meeting_13032026.pdf)
+
+**MFSL — Max Financial Services Ltd.** · preferential issue / warrants · 1 filing(s), 2026-04-02 → 2026-04-02
+- purpose: To meet Axis Max Life's funding requirements to support its future growth initiatives; pricing: Fair market value of shares determined by Registered Valuers and Category 1 Merchant Bankers using the discounted cash flow method as arrived at as per extant regulations (not a SEBI ICDR floor — Axis Max Life is unlisted); issue made 'at fair market value'
+- “the Board of Directors of Axis Max Life Insurance Limited ("Axis Max Life"), considered a proposal for raising of funds to meet its funding requirements by way of issuance of equity shares of Rs. 10/- each of Axis Max Life to Axis Bank Limited for an aggregate investment of up to Rs. 389 crores in Axis Max Life.”
+- filing: [Max Financial Services Limited has informed the Exchange regarding 'Disclosure under the Regulation 30 of SEBI (Listing ](https://nsearchives.nseindia.com/corporate/Max_02042026232614_SEDMFSL02042026.pdf)
+
+**NAZARA — Nazara Technologies Ltd.** · preferential issue / warrants · 8 filing(s), 2026-03-30 → 2026-10-12
+- “…nvestment and Holding Private Limited (Promoter Group), Classic Enterprises, and Founders Collective. The participation from the Promoter Group at the issue price further reinforces alignment and long-term confidence in the Company's growth strategy.”
+- filing: [Nazara Technologies Limited informs the Exchange regarding allotment of 2,38,81,711 Equity Shares by way of Preferential](https://nsearchives.nseindia.com/corporate/NAZARA_12102026184557_BMOutcomeFinal.pdf)
+
+**NEOGEN — NEOGEN CHEMICALS LTD.** · preferential issue / warrants · 7 filing(s), 2026-02-11 → 2026-09-26
+- purpose: not stated in this text; proceeds to be kept in a separate bank account and used for objects specified in the explanatory statement, which is not included here; pricing: Determined in accordance with the pricing guidelines prescribed under Regulation 164 of Chapter V of SEBI ICDR Regulations; Relevant Date under Regulation 161 fixed as Friday, February 27, 2026 (30 days prior to the EGM); price is not less than the price arrived at as per Chapter V of SEBI ICDR Regulations. No discount/premium to market price stated.; warrants: not applicable (equity shares, not warrants); allottee must bring in entire 100% of the consideration on or prior to the date of allotment, and shares to be allotted within 15 days of shareholder approval or of receipt of pending SEBI/Stock Exchange approval; promoters' intent: not stated (not a rights issue; preferential issue to a Promoter Group member only)
+- “1. Cadamba Solutions Private Limited Promoter Group 10,00,000”
+- filing: [Neogen Chemicals Limited has informed regarding Disclosure pertaining to approval by the Board of Neogen Morita New Mate](https://nsearchives.nseindia.com/corporate/NEOGEN_26092026195328_NMLPI.pdf)
+
+**OPTIEMUS — Optiemus Infracom Ltd.** · preferential issue / warrants · 4 filing(s), 2025-12-16 → 2026-08-11
+- warrants: not stated; Warrants were allotted on February 08, 2025 and converted on December 16, 2025
+- “Preferential Allotment Committee of the Board of Directors of Optiemus Infracom Limited ("the Company") at its meeting held today i.e., Tuesday, December 16, 2025, has, inter alia, considered and approved the allotment of 1,67,000 Equity Shares of face value of Rs. 10/- each pursuant to the conversion of 1,67,000 Fully Convertible Warrants ("Warrants"), allotted on February 08, 2025, at an issue price of Rs. 672.25/- each aggregating to Rs. 11,22,65,750/- to the following allottee belonging to "Non-Promoter" Category by way of preferential allotment on a private placement basis: 1 Arunima Mittal Non-Promoter 1,67,000”
+- filing: [Optiemus Infracom Limited has informed the Exchange regarding allotment of 167250 equity shares pursuant to conversion o](https://nsearchives.nseindia.com/corporate/OPTIEMUS_11082026115808_OILOutcomeOfPACMeeting11082026.pdf)
+
+**PCBL — PCBL Chemical Ltd.** · preferential issue / warrants · 1 filing(s), 2025-11-03 → 2025-11-03
+- warrants: 25% (Rs. 70/- per warrant) paid on allotment of warrants on 7th May, 2024; balance 75% (Rs. 210/- per warrant) paid on exercise, converted into equity shares on 3rd November, 2025; tenure not stated
+- “1. Rainbow Investments Limited Promoter 1,36,00,000 2. Quest Capital Markets Limited Promoter Group 12,00,000 3. STEL Holdings Limited Promoter Group 12,00,000”
+- filing: [PCBL Chemical Limited has informed the Exchange regarding allotment of 16000000 securities pursuant to Preferential Issu](https://nsearchives.nseindia.com/corporate/PCBL_03112025182805_AllotmentofEquityShares.pdf)
+
+**PCJEWELLER — PC Jeweller Ltd.** · preferential issue / warrants · 3 filing(s), 2026-01-22 → 2026-04-10
+- pricing: not stated — only that conversion/allotment is "in accordance with the provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018"; price of ₹5.62 includes premium of ₹4.62 per share; warrants: balance 75% of the Issue Price (₹ 42.15 per Warrant) received on conversion, implying 25% paid upfront; tenure to convert not stated (Warrants allotted per intimations dated September 30, 2024 and October 11, 2024)
+- “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and in continuation to our earlier intimations dated September 30, 2024 and October 11, 2024 regarding allotment of total 48,08,02,500 Fully Convertible Warrants ("Warrants") by way of preferential allotment on private placement basis to the persons belonging to 'Promoter Group' and 'Non-Promoter, Public Category', we would like to further inform that the Board of Directors of the Company vide a resolution passed by Circulation on April 10, 2026 has allotted 106,19,31,680 (One Hundred Six Crore Nineteen Lakh Thirty One Thousand Six Hundred Eighty) equity shares having face value of ₹ 1/- (Rupee One Only) each, on conversion of 10,61,93,168 (Ten Crore Sixty One Lakh Ninety Three Thousand One Hundred Sixty Eight) Warrants, to 32 Allottees belonging to 'Promoter Group' and 'Non-Promoter, Public Category'.”
+- filing: [PC Jeweller Limited has informed regarding Allotment of 106,19,31,680 equity shares on conversion of Fully Convertible W](https://nsearchives.nseindia.com/corporate/PCJEWELLER_10042026193130_WarrantsConverionIntimation100426.pdf)
+
+**PFOCUS — Prime Focus Ltd.** · preferential issue / warrants · 4 filing(s), 2025-11-04 → 2025-12-10
+- “not stated”
+- filing: [The Exchange has sought clarification from Prime Focus Limited with respect to recent news item captioned ELP advises Pr](https://nsearchives.nseindia.com/corporate/PFOCUS_10122025161646_Regulation_30-clarification_price_movement_PFL_signed.pdf)
+
+**PICCADIL — Piccadily Agro Industries Ltd.** · preferential issue / warrants · 1 filing(s), 2025-11-29 → 2025-11-29
+- “not stated”
+- filing: [Piccadily Agro Industries Limited has informed the Exchange about BSE granted listing approval to 6,36,942 Equity shares](https://nsearchives.nseindia.com/corporate/CSPICCADILY_29112025125126_BSE_Listing_636942.pdf)
+
+**PIRAMALFIN — Piramal Finance Ltd.** · preferential issue / warrants · 4 filing(s), 2026-08-24 → 2026-10-05
+- “not stated”
+- filing: [Piramal Finance Limited has informed the Exchange regarding allotment of 8294000 warrants on a preferential basis to Pro](https://nsearchives.nseindia.com/corporate/Piramalcapital_05102026115714_SEintimation_Allotment_final_sd.pdf)
+
+**QPOWER — QUALITY POWER ELECTRICAL EQUIPMENTS Ltd.** · preferential issue / warrants · 2 filing(s), 2026-09-02 → 2026-09-23
+- purpose: Preferential issue to shareholders of Winwin Speciality Insulators Limited as part of closure of transaction; pricing: Chapter V of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended
+- “To approve the proposal for preferential issue of equity shares and/or convertible warrants to shareholders of Winwin Speciality Insulators Limited as part of closure of transaction, in accordance with the provisions of Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended, the Companies Act, 2013 and the rules made thereunder, and other applicable laws, as amended subject to receipt of all requisite approvals, consents and permissions, including the approval of the members of the Company, National Stock Exchange of Limited, BSE Limited and any other regulatory authority.”
+- filing: [Fund Raising/Other business matters To consider the issue of Shares through Preferential Issue/Allotment, for cash and/o](https://nsearchives.nseindia.com/corporate/QPOWER1234_20092026211753_BoardMeetingIntimation20092026Sign.pdf)
+
+**RBA — Restaurant Brands Asia Ltd.** · preferential issue / warrants · 3 filing(s), 2026-01-20 → 2026-06-02
+- purpose: Mandatory open offer under Regulations 3(1) and 4 of SEBI (SAST) Regulations to acquire up to 26% of Expanded Voting Share Capital from public shareholders; no use of proceeds stated; pricing: not stated (open offer price under Regulation 18(11) and 18(11A) of SEBI (SAST) Regulations, 2011; no SEBI ICDR floor or premium/discount to market stated)
+- “Open Offer by Lenexis Foodworks Private Limited ("Acquirer 1"), Aayush Agrawal Trust ("Acquirer 2"), Inspira Foodworks Private Limited (formerly Inspira Realty 1 Private Limited) ("Acquirer 3") and Mr. Aayush Madhusudan Agrawal ("Acquirer 4" and collectively the Acquirer 1, Acquirer 2, Acquirer 3 and Acquirer 4 are referred to as "Acquirers") together with Inspira Agro Trading LLC ("PAC") in its capacity as a person acting in concert with the Acquirers, to acquire upto 20,80,61,717 Equity shares of ₹ 10/- each for cash at a price of ₹ 70.00/- per Equity Share.”
+- filing: [Restaurant Brands Asia Limited has informed the Exchange regarding allotment of 85714285 securities pursuant to Preferen](https://nsearchives.nseindia.com/corporate/RBA_02062026214221_FinalUpload.pdf)
+
+**RBLBANK — RBL Bank Ltd.** · preferential issue / warrants · 1 filing(s), 2026-06-18 → 2026-06-18
+- purpose: not stated; acquisition of control of RBL Bank by Emirates NBD, with resulting shareholding capped at 75.00% of Expanded Voting Share Capital; pricing: Offer Price determined under the SEBI (SAST) Regulations, 2011 (open offer under Regulations 3(1) and 4); interest of 10.00% per annum for 31 days' delay added per Regulation 18(11)/18(11A) as directed by SEBI. No SEBI ICDR floor or discount/premium to market stated in this text
+- “Emirates NBD Bank (P.J.S.C.)(the "Acquirer") has announced an Open Offer to acquire up to 415,586,443 fully-paid-up equity shares of face value INR 10/- each ("Equity Shares") from the Public Shareholders of the Target Company, representing 26.00% of the Expanded Voting Share Capital of the Target Company, at a price of INR 282.38, being the aggregate of (a) the Offer Price of INR 280 and the Applicable Interest of INR 2.38 per Equity Share, aggregating to a total consideration of INR 117,353,299,774.34.”
+- filing: [RBL Bank Limited has informed the Exchange about Allotment of equity shares by way of a preferential issue on a private ](https://nsearchives.nseindia.com/corporate/RBLBANK_18062026110911_RBLReg30SEIntimation18062026Signed.pdf)
+
+**REFEX — Refex Industries Ltd.** · preferential issue / warrants · 1 filing(s), 2026-05-07 → 2026-05-07
+- “not stated”
+- filing: [Intimation of Lapse & Forfeiture of Convertible Warrants Issued Under SEBI (Issue Of Capital And Disclosure Requirements](https://nsearchives.nseindia.com/corporate/REFEX2002_07052026164930_RIL_Reg30_Forfeit_warrant_May26.pdf)
+
+**RELIGARE — Religare Enterprises Ltd.** · preferential issue / warrants · 4 filing(s), 2025-12-05 → 2026-08-06
+- purpose: Not a capital raise; demerger of REL's financial services undertaking into RFL to create two focused listed entities and unlock shareholder value.; pricing: not stated; share exchange ratio of "1 fully paid-up equity share of the Resulting Company having face value of INR 10 (Indian Rupee Ten) each for every 1 (One) fully paid-up equity share of INR 10 (Indian Rupee Ten) each of the Demerged Company"
+- “Upon the Scheme becoming effective and in consideration of the transfer and vesting of the Demerged Undertaking from REL to RFL in terms of this Scheme, RFL shall, issue and allot equity shares to all the members of REL, holding fully paid-up equity shares on the Record Date (as defined in the Scheme).”
+- filing: [Religare Enterprises Limited has informed the Exchange regarding allotment of 3500000 Equity Shares pursuant to Conversi](https://nsearchives.nseindia.com/corporate/RELIGARE_06082026110703_RELANNOUNCEMENT06082026.pdf)
+
+**RKFORGE — Ramkrishna Forgings Ltd.** · preferential issue / warrants · 5 filing(s), 2025-11-12 → 2026-09-24
+- pricing: not stated beyond "in accordance with the provisions of the SEBI ICDR Regulations"; warrants: warrant subscription price Rs. 525/- per warrant (25%) paid upfront; balance Rs. 1,575/- (75% of Warrant Issue price) on exercise; tenure to convert not stated
+- “This is in furtherance to the intimation given by the Company on 14 August 2025 w.r.t. allotment of 9,75,000 (Nine Lakh Seventy Five Thousand) warrants, each convertible into one equity share of face value of Rs. 2/- each, ("Warrants") at an issue price ("Warrant Issue Price") of Rs. 2,100/- (Rupees Two Thousand One Hundred only) each [including the warrant subscription price (Rs. 525/- per warrant) and the warrant exercise price (Rs. 1,575/- per warrant)] on preferential basis to Riddhi Portfolio Private Limited ("warrant holder").”
+- filing: [Ramkrishna Forgings Limited has informed the Exchange regarding allotment of 3400000 equity shares pursuant to exercise ](https://nsearchives.nseindia.com/corporate/RKFORGE_24092026135858_STExchCMCOutcome24Sep26.pdf)
+
+**SAMMAANCAP — Sammaan Capital Ltd.** · preferential issue / warrants · 4 filing(s), 2025-11-07 → 2026-03-31
+- purpose: Consolidation of the NBFC business activities of both companies under a single entity, to comply with RBI's direction that no other group entity hold NBFC-ICC/HFC registration.
+- “Upon the scheme of arrangement becoming effective, no shares of the Resulting Company are being allotted as consideration for the demerger from the Demerged Company under the Scheme of Arrangement .”
+- filing: [Sammaan Capital Limited has informed the Exchange that In terms of Regulations 30, 51 and other applicable provisions of](https://nsearchives.nseindia.com/corporate/IHFL_31032026105753_SCL_Allotment_Intimation_31Mar26.pdf)
+
+**SPARC — Sun Pharma Advanced Research Company Ltd.** · preferential issue / warrants · 2 filing(s), 2026-01-14 → 2026-05-19
+- purpose: not stated beyond 'raising funds by the Company through a preferential issue of securities, including convertible warrants'; no specific use of proceeds disclosed; pricing: not stated (issue made under Chapter V of SEBI ICDR Regulations, 2018; no floor price or discount/premium to market disclosed); warrants: 25% upfront - INR 38.95 per Warrant (being at least 25% of the issue price) paid on allotment, balance INR 116.85 on exercise; convertible into one equity share each within 18 months from allotment, failing which Warrants lapse and the subscription price is forfeited
+- “the Securities Allotment Committee of the Company, has approved and allotted 3,85,10,000 (Three Crores Eighty Five Lakh Ten Thousand) warrants ("Warrants") to Shanghvi Finance Private Limited ("Allottee") at an issue price of INR 155.80/- (Indian Rupees One Hundred and Fifty Five and Eighty paisa only) per Warrant ("Warrant Issue Price") on preferential basis”
+- filing: [Sun Pharma Advanced Research Company Limited has informed the Exchange regarding allotment of 3,85,10,000 Warrants pursu](https://nsearchives.nseindia.com/corporate/SPARC_19052026123138_Outcome19052026.pdf)
+
+**STLTECH — Sterlite Technologies Ltd.** · preferential issue / warrants · 4 filing(s), 2026-02-07 → 2026-03-30
+- pricing: SEBI ICDR floor price: "the Warrant Issue Price for the preferential issue is not less than the floor price arrived at in accordance with Regulation 164 of Chapter V of the SEBI ICDR Regulations"; Relevant Date February 2, 2026 (30 days prior to EGM) under Regulation 161; warrants: 25% of the Warrant Issue Price payable at allotment, balance 75% at exercise; tenure not exceeding 18 months from date of allotment, exercisable in one or more tranches, unexercised warrants lapse and amount paid stands forfeited
+- “Approval for the issuance of warrants convertible into Equity Shares to Twin Star Overseas Limited, Promoter of the Company on a Preferential basis:”
+- filing: [Sterlite Technologies Limited has informed the Exchange regarding allotment of convertible warrants pursuant to Preferen](https://nsearchives.nseindia.com/corporate/STLTECH_30032026122441_SEIntimationallotmentsigned.pdf)
+
+**SUDARSCHEM — Sudarshan Chemical Industries Ltd.** · preferential issue / warrants · 2 filing(s), 2026-06-10 → 2026-06-16
+- pricing: Priced under Chapter V of SEBI ICDR Regulations, 2018; issue price of Rs. 1,019.75 (face value Rs. 2 + premium Rs. 1,017.75) described as "a premium of about 16 percent to the market price on June 10, 2026"; warrants: 25% of the Warrants Issue Price (Rs. 254.94 per Warrant) received at the time of subscription (allotment 13th December, 2024); remaining 75% (Rs. 764.81 per Warrant) remitted on exercise, with conversion/allotment of equity shares on 10th June, 2026; tenure not stated
+- “PUNE, India, June 16, 2026: Sudarshan Chemical Industries Limited (Sudarshan) today confirmed that Mr. Rajesh Rathi, Global Chairman and Managing Director and Promoter, has exercised the 9,80,000 convertible warrants allotted to him in December 2024 and converted them into equity shares of the company.”
+- filing: [Sudarshan Chemical Industries Limited has informed the Exchange regarding a press release dated Jun 16, 2026, titled "Ch](https://nsearchives.nseindia.com/corporate/SUDARSCHEM_16062026162706_SEintimationPressReleaseSigned.pdf)
+
+**SUNTECK — Sunteck Realty Ltd.** · preferential issue / warrants · 2 filing(s), 2025-12-05 → 2026-01-23
+- “not stated”
+- filing: [Sunteck Realty Limited has informed the Exchange regarding allotment of 352941 Equity shares pursuant to conversion of w](https://nsearchives.nseindia.com/corporate/SUNTECK_23012026165703_SRL.pdf)
+
+**TDPOWERSYS — TD Power Systems Ltd.** · preferential issue / warrants · 4 filing(s), 2026-09-12 → 2026-10-07
+- pricing: Preferential issue in accordance with Chapter V of SEBI (ICDR) Regulations, 2018; in-principle approvals were for an issue price of "not less than Rs. 600/- per Equity Share" — no explicit floor price computation or discount/premium to market stated
+- “We hereby inform you that, the Company has received trading approvals from BSE Ltd vide its letter bearing reference no. 20261006-15 dated October 06, 2026 and from the National Stock Exchange of India Limited vide its letter bearing reference no. NSE/LIST/57849 dated October 06, 2026 for trading of 12,50,000 Equity Shares of face value of Rs.1 each, allotted to the Promoters on a preferential basis at an issue price of Rs. 600/- per Equity Share.”
+- filing: [TD Power Systems Limited has informed the Exchange regarding 'Receipt of Trading Approval For 12,50,000 Equity Shares Al](https://nsearchives.nseindia.com/corporate/TDPOWERSYS_07102026114016_Trading_Approval-_sg.pdf)
+
+**TEGA — Tega Industries Ltd.** · preferential issue / warrants · 1 filing(s), 2025-11-29 → 2025-11-29
+- warrants: not stated (fully paid-up equity shares, not warrants)
+- “1 NIHAL FISCAL SERVICES PRIVATE LIMITED Promoter 2,20,661 43,99,98,034”
+- filing: [Tega Industries Limited has informed the Exchange regarding allotment of 8592206 securities pursuant to Preferential Iss](https://nsearchives.nseindia.com/corporate/TEGA_29112025000403_Intimation_of_Allotment_sd.pdf)
+
+**TEXRAIL — Texmaco Rail & Eng. Ltd.** · preferential issue / warrants · 1 filing(s), 2025-10-09 → 2025-10-09
+- warrants: Balance payment of 75% of the consideration (Rs. 144.75/- per warrant) received on conversion, implying 25% paid upfront at allotment on 12th April 2024; warrants issued 12th April 2024 and remaining 3,74,750 unexercised warrants would lapse on 12th October 2025
+- “This is in furtherance of the intimation given by the Company on 12th April, 2024, wherein we informed you that the Company had allotted 38,86,010 convertible warrants each to M/s Adventz Finance Private Limited ('Adventz'), Promoter Group and M/s Samena Green Limited ('Samena'), Non-Promoter (Public) on 12th April, 2024, by way of a preferential allotment on a private placement basis.”
+- filing: [Texmaco Rail & Engineering Limited has informed the Exchange regarding allotment of 7397270 securities pursuant to Prefe](https://nsearchives.nseindia.com/corporate/TEXRAIL_09102025174240_Finaloutcome.pdf)
+
+**TI — Tilaknagar Industries Ltd.** · preferential issue / warrants · 2 filing(s), 2025-11-20 → 2025-11-24
+- pricing: not stated (only that allotment was made in accordance with Chapter V of the SEBI ICDR Regulations, 2018 and the terms of allotment of the warrants); warrants: Rs. 286.50/- per warrant, equal to 75% of the exercise price of Rs. 382/-, was the remaining amount received at conversion (implying 25% paid earlier on warrant allotment); tenure to convert not stated
+- “The Finance Committee of the Board of Directors of the Company, at its meeting held today i.e. November 20, 2025, has, inter alia, considered and approved allotment of 3,77,15,000 (Three Crores Seventy Seven Lacs Fifteen Thousand Only) equity shares having face value of Rs. 10/- fully paid up to the warrant holders as per Annexure A consequent to the Warrant holders having exercised their right for conversion of Warrants into equity shares.”
+- filing: [Tilaknagar Industries Limited has informed the Exchange regarding allotment of 930000 securities pursuant to Preferentia](https://nsearchives.nseindia.com/corporate/gthakur_24112025180034_TIOutcomewarrantsconversion.pdf)
+
+**WELENT — Welspun Enterprises Ltd.** · preferential issue / warrants · 2 filing(s), 2025-10-15 → 2025-12-01
+- pricing: not stated (issue price of Rs. 525/- comprises face value Rs. 10/- plus premium of Rs. 515/-; issued 'in terms of the provisions of the Companies Act, 2013, the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018'; no floor price or market discount/premium disclosed); warrants: 25% of the warrant issue price paid upfront (Rs. 2,49,99,99,994 received in aggregate); convertible into 1 equity share each at any time on or before expiry of 18 months from allotment i.e. December 01, 2025, in one or more tranches; unconverted warrants lapse and amounts paid stand forfeited
+- “In this re gard, kindly note that the Allotment Committee of the Board of Directors, at its meeting held today, i.e., Monday, December 01, 2025, has, pursuant to the receipt of Rs. 2,49,99,99,994/ - (Rupees Two Hundred Forty -Nine Crore Ninety -Nine Lakh Ninety -Nine Tho usand Nine Hundred Ninety -Four Only), being 25% of the aggregate consideration payable towards subscription of the warrants by all allottees, considered and approved the allotment of 1,90,47,619 (One Crore Ninety Lakh Forty -Seven Thousand Six Hundred Ninet een) convertible warrants to persons belonging to the Promoter and Non -Promoter Category as detailed in "Annexure -A1".”
+- filing: [Welspun Enterprises Limited has informed the Exchange regarding allotment of 19047619 securities pursuant to Preferentia](https://nsearchives.nseindia.com/corporate/WELENT_01122025191122_Intimation.pdf)
+
+**YATHARTH — Yatharth Hospital & Trauma Care Services Ltd.** · preferential issue / warrants · 1 filing(s), 2026-09-17 → 2026-09-17
+- purpose: not stated — the filing describes it only as a minority investment for cash consideration; no use of proceeds is disclosed; pricing: Chapter V SEBI ICDR; Relevant Date 15th September 2026; floor price determined under Chapter V is INR 984.70 per Subscription Security, and the Subscription Price of INR 985.17 "is not lower than the floor price determined in accordance with Regulation 164(1) read with Regulation 166A of Chapter V of SEBI ICDR Regulations" (a marginal premium of INR 0.47 to floor); warrants: 25% of the warrant price, being INR 246.29 per warrant, payable upfront at subscription; balance 75%, INR 738.88, payable on exercise. Tenure "shall not exceed 15 (fifteen) months or 18 (eighteen) months, from the date of their issue and allotment as per the terms of the Subscription Warrants", exercisable in full or part in one or more tranches; upfront amount forfeited if unexercised. Warrants carry no dividend or voting rights.; promoters' intent: not stated (not a rights issue)
+- “Name of the investors: Rasmalai Limited, a company/entity incorporated under the laws of Cyprus.”
+- filing: [We hereby submit Issuance and allotment of equity shares and warrants of the Company by way of preferential issue on a p](https://nsearchives.nseindia.com/corporate/YATHARTH_17092026144932_Outcome_Final.pdf)
+
+**ZAGGLE — Zaggle Prepaid Ocean Services Ltd.** · preferential issue / warrants · 2 filing(s), 2025-12-15 → 2025-12-16
+- pricing: Issue price of Rs. 567 per warrant determined 'in accordance with provisions of Chapter V of Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018'; no discount or premium to market price stated; warrants: 25% of the issue price paid upfront; balance 75% payable within 18 months from the date of allotment, warrants locked in for specified period under Chapter V of SEBI ICDR Regulations, 2018
+- “1 RAN Ventures Private Limited 3,52,734 5,00,00,044.50 Promoter Group 2 Bennett Coleman and Company Limited 7,05,467 9,99,99,947.25 Non Promoter”
+- filing: [Zaggle Prepaid Ocean Services Limited has informed the Exchange regarding allotment of 1058201 Warrants pursuant to Pref](https://nsearchives.nseindia.com/corporate/ZAGGLE_16122025132213_Outcome_of_Board_Meeting-_Dec_16.pdf)
+
+**ZEEL — Zee Entertainment Enterprises Ltd.** · preferential issue / warrants · 3 filing(s), 2026-07-01 → 2026-08-27
+- pricing: premium of 11.86% to the price as per SEBI ICDR Regulations, 2018 and premium of 16.33% to the closing market price as on July 1, 2026 on NSE; Pricing Report and Valuation Report from a Registered Valuer under Regulations 164(1) and 166A considered; warrants: 25% of the Warrant Issue Price (Rs. 31.5/- per Warrant) paid upfront on subscription/allotment; balance 75% (Rs. 94.5/- per Warrant) payable on exercise, convertible in one or more tranches within a maximum period of 18 months from the date of allotment, failing which Warrants lapse and the upfront amount is forfeited
+- “The warrants are proposed to be allotted to Sunbright Mauritius Investments Limited”
+- filing: [Zee Entertainment Enterprises Limited has informed the Exchange regarding Disclosure under Regulation 30 of the SEBI (Li](https://nsearchives.nseindia.com/corporate/ZEEL_27082026203455_SEDisclosureoutcomefinals.pdf)
+
+**AADHARHFC — Aadhar Housing Finance Ltd.** · rights offering · 1 filing(s), 2026-01-27 → 2026-01-27
+- purpose: Mandatory open offer triggered by the Share Purchase Agreement / Underlying Transaction for substantial acquisition and change of control of the Target Company; no proceeds to the company; pricing: Not an ICDR preferential/rights pricing — cash open offer price of ₹ 469.97 per Equity Share determined in accordance with the SEBI (SAST) Regulations, 2011 (Regulations 3(1) and 4); no discount or premium to market stated; warrants: not applicable — no warrants; financial arrangements are an Escrow Amount of ₹ 55,00,00,000 plus Bank Guarantee 1 and Bank Guarantee 2 of ₹ 3,07,50,00,000 each from Kotak Mahindra Bank Limited; promoters' intent: not stated — this is an open offer under SEBI (SAST), not a rights issue; the Existing Promoter Group (the Seller, along with BCP Asia (SG) Holdings Co. Pte Ltd. and Singapore VII Holding Co. Pte. Ltd.) is selling under the Share Purchase Agreement, and the Seller may retain up to 9.99% if a Proportionate Scale Down applies
+- “Open offer being made by the Acquirer and PACs to the Public Shareholders of the Target to acquire up to 11,35,25,761 Equity Shares representing 25.82% of the Expanded Voting Share Capital, at a price of ₹ 469.97 per Equity Share along with the Applicable Interest of ₹ 2.71 per Equity Share”
+- filing: [JM Financial Limited has Submitted to the Exchange a copy of Letter of Offer.](https://nsearchives.nseindia.com/corporate/team_sandeshc_27012026102905_LOF.pdf)
+
+**ACI — Archean Chemical Industries Ltd.** · rights offering · 1 filing(s), 2026-05-30 → 2026-05-30
+- purpose: Strengthening Acume Chemicals' capital base for future business expansion and operational requirements; improving capacity utilisation and product mix; strengthening the subsidiary's balance sheet and reducing external borrowings.; pricing: not stated (subscription at face value of Rs. 10 per share; no ICDR/market-price basis stated, as the issuer is an unlisted wholly owned subsidiary); promoters' intent: "The Company proposes to invest an amount not exceeding Rs. 170,00,00,000 (Rupees One Hundred Seventy Crores Only), by subscribing to equity shares of Acume Chemicals, in one or more tranches, pursuant to the said rights issue. The investment will be made in stages." Subscription "is being undertaken on a rights basis in proportion to the Company's existing shareholding" and "is proposed to be completed in one or more tranches within one month from the date of the rights offer."
+- “Pursuant to the provisions of Regulation 30 read with Part A of Schedule III of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015, ("SEBI LODR") we wish to inform you that, pursuant to the approval accorded by the Board of Directors at its meeting held on May 11, 2026, the Company is commencing subscription to the rights issue of its wholly owned subsidiary, Acume Chemicals Private Limited ("Acume Chemicals").”
+- filing: [Archean Chemical Industries Limited has informed regarding subscription to the rights issue of equity shares of its whol](https://nsearchives.nseindia.com/corporate/ARCHEAN_30052026123438_Intimation_Acume.pdf)
+
+**ADANIENT — Adani Enterprises Ltd.** · rights offering · 14 filing(s), 2025-11-11 → 2026-09-30
+- warrants: not applicable (not warrants); partly paid-up shares: ₹900.00 on application (50% of Issue Price), balance ₹900.00 in two Calls — First Call on or about January 12–27, 2026 and Second and Final Call on or about March 2–16, 2026
+- “This is in continuation to our earlier announcement dated November 4 , 2025 and November 11 , 2025, wherein the Company is proposing to undertake a Rights Issue of 13,85,01,687 partly paid-up Equity Shares of face value of ₹ 1 each ("Rights Equity Shares") at an issue price of ₹ 1,800.00 each (including a premium of ₹ 1,799.00 per Rights Equity Share), aggregating up to ₹ 24,930.30 crores to the eligible equity shareholders of the Company in the ratio of 3 (three) Rights Equity Shares for every 25 (twenty-five) fully paid-up Equity Shares held by eligible shareholders on the record date i.e. Monday , November 17 , 2025.”
+- filing: [Adani Enterprises Limited has informed the Exchange regarding Outcome of Rights Issue Committee Meeting held on Wednesda](https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_30092026171121_OutcomeRICommittee30092026.pdf)
+
+**AEQUS — Aequs Ltd.** · rights offering · 1 filing(s), 2026-09-25 → 2026-09-25
+- purpose: Fund capacity expansion across aerospace and consumer businesses, including Hosur facility development, investment in subsidiaries and joint ventures, general corporate purposes, and equity base supporting term borrowings; pricing: Floor price determined under Regulation 164 of SEBI ICDR Regulations, 2018 — the higher of the 90-trading-day and the 10-trading-day VWAP preceding the relevant date of September 22, 2026; no discount or premium to market stated; warrants: 50% of issue size — INR 3,250,000,000/- (₹325 crore) payable at subscription/allotment, twice the regulatory minimum; exercisable within 18 months from allotment, with conversion on payment of balance consideration on or before December 31, 2027, failing which the ₹325 crore is forfeited; promoters' intent: Not a rights issue; promoter is the sole subscriber: "The Company has received an investment commitment letter dated September 25, 2026 from Investor, confirming its intention to subscribe to the warrants for Cash Consideration" and "Promoter has undertaken to pay the balance consideration in full, irrespective of the market price of the Company's shares at the time of exercise."
+- “The Board of Directors of Aequs Limited ("Aequs" or the "Company"), has approved the preferential issue of up to 2,80,71,690 warrants, each convertible into one fully paid-up equity share of face value ₹10, to Mellwood Trustee Services Private Limited (Trustee of the Melligeri Private Family Foundation) ("Promoter"), a member of the Promoter Group, aggregating to approximately ₹650 crore.”
+- filing: [Outcome of meeting of Board of Directors of Aequs Limited (“the Company”) held on](https://nsearchives.nseindia.com/corporate/AEQUSLIMITED_25092026180457_Outcome_of_Board_Meeting_FINAL.pdf)
+
+**AIIL — Authum Investment & Infrastructure Ltd.** · rights offering · 2 filing(s), 2025-10-16 → 2026-08-18
+- purpose: To serve the subsidiary ISARC to meet its capital requirement for general business operations; pricing: not stated (issued at Face Value of Rs. 10 each); warrants: 25% of the issue price (Rs. 2.50 per Equity Share) paid as application money on August 18, 2026; balance on receipt of call letters — not a warrant issue, no conversion tenure stated; promoters' intent: "AIIL has agreed to subscribe 40,65,00,000 equity shares offered to the Company by the Subsidiary Company i.e. India SME Asset Reconstruction Company Limited (ISARC)" pursuant to the Rights Issue "in the ratio of 2 (Two) Equity Shares for every 1 (One) Equity Share held"; "The Company shall make further payments, post receipt of call letters from the subsidiary" — i.e. full subscription of its entitlement; no renunciation or oversubscription stated
+- “Pursuant to the Rights Issue offered by ISARC, AIIL has agreed to subscribe 40,65,00,000 equity shares offered to the Company by the Subsidiary Company i.e. India SME Asset Reconstruction Company Limited (ISARC) and have made payment of 25% of the issue price of Rs 10 per Equity Share, i.e., Rs. 2.50/- per Equity Share agg. to Rs. 1,01,62,50,000 /- (Rupees One Hundred and One Crore Sixty-Two Lakhs and Fifty Thousand) as application money on August 18, 2026.”
+- filing: [Authum Investment & Infrastructure Limited has informed the Exchange about Subscribing to Shares of its Subsidiary Compa](https://nsearchives.nseindia.com/corporate/Authum123_18082026213744_REG30ISARC.pdf)
+
+**AMBER — Amber Enterprises India Ltd.** · rights offering · 4 filing(s), 2026-03-19 → 2026-04-21
+- purpose: Additional investment by Amber in its material subsidiary IL JIN Electronics; objects and impact section truncated in filing text; promoters' intent: the Company has approved to make an additional investment approx. Rs. 296.02 Crore in IL JIN, by subscribing to the said Rights Issue
+- “In furtherance of our today's intimation dated 19th March, 2026, and pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("SEBI LODR Regulations"), we hereby inform the Stock Exchanges that, pursuant to the Rights Issue approved by the Board of Directors of IL JIN Electronics (India) Private Limited ("IL JIN"), a material subsidiary of Amber Enterprises India Limited ("Amber" or "the Company"), the Company has approved to make an additional investment approx. Rs. 296.02 Crore in IL JIN, by subscribing to the said Rights Issue.”
+- filing: [Pursuant to Regulation 30 of LODR Regulations, we wish to inform the exchange that in context of Rights issue process of](https://nsearchives.nseindia.com/corporate/AMBER_21042026193145_SEIntimationAllotmentofsharespursuanttorightissue21042026.pdf)
+
+**ANANDRATHI — Anand Rathi Wealth Ltd.** · rights offering · 1 filing(s), 2026-09-02 → 2026-09-02
+- purpose: Subsidiary to set up a fund management entity to undertake fund management activities through Alternate Investment Fund (AIF) at IFSCA, GIFT City; pricing: At face value of ₹10 per equity share; no SEBI ICDR floor or market-linked basis stated (unlisted wholly owned subsidiary); promoters' intent: "The Rights issue is subscribed by the Company and the consideration is paid through Banking Channel as cash consideration."
+- “Anand Rathi Wealth Limited ("Company") has infused additional capital through subscribing Rights Issue of Equity Shares of its wholly owned subsidiary, Anand Rathi FME (IFSC) Private Limited ("Subsidiary").”
+- filing: [Anand Rathi Wealth Limited has informed the Exchange about Intimation of further investment through subscribing right is](https://nsearchives.nseindia.com/corporate/ANANDRATHI_02092026165549_IFSCASd.pdf)
+
+**ANURAS — Anupam Rasayan India Ltd.** · rights offering · 2 filing(s), 2026-06-09 → 2026-07-21
+- purpose: Open offer under SEBI (SAST) Regulations to acquire 26.00% of the Target's Expanded Voting Share Capital from Public Shareholders, triggered by the Share Purchase Agreement.
+- “This Open Offer is being made by the Acquirer and the PAC, pursuant to and in compliance with the provisions of Regulation 3(1), Regulation 4 and other applicable regulations of the SEBI (SAST) Regulations.”
+- filing: [Anupam Rasayan India Limited has informed the Exchange about Letter of Offer regarding the open offer for acquisition of](https://nsearchives.nseindia.com/corporate/ANURAS_21072026213132_ARILSLDSTX20260721034LOF.pdf)
+
+**ASHOKA — Ashoka Buildcon Ltd.** · rights offering · 2 filing(s), 2026-03-25 → 2026-03-30
+- purpose: not stated as use of proceeds; investment in wholly owned subsidiary VIL, which 'belongs to infrastructure and real estate business and shall add value to the business of Company'; warrants: not applicable — equity shares of Rs.10/- each fully paid-up, cash consideration; promoters' intent: not stated (rights issue of the unlisted subsidiary already subscribed and allotted in full to the Company)
+- “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please be informed that Ashoka Buildcon Limited ("the Company") has been allotted 40,02,250 equity shares of Rs.10/- each aggregating Rs.4.00 Crore, under Rights Issue, by Viva Infrastructure Limited (VIL), a wholly owned subsidiary of the Company, at its meeting held today i.e. March 25, 2026.”
+- filing: [Ashoka Buildcon Limited has informed the Exchange about Intimation regarding allotment of shares under Rights issue to t](https://nsearchives.nseindia.com/corporate/ASHOKA_30032026161150_477_ABL_BSE_NSE_AIL_Allotment_300326.pdf)
+
+**ATHERENERG — Ather Energy Ltd.** · rights offering · 2 filing(s), 2026-06-12 → 2026-07-15
+- pricing: SEBI ICDR floor price of INR 1,175.74 per Equity Share (Reg. 164(4) for the QIB equity allotment; Reg. 164(1) for the promoter warrants); the INR 1,230 equity price is INR 54.26 above the floor and the INR 1,260 warrant price is INR 84.26 above the floor; warrants: 25% of the Warrant Issue Price paid at subscription and allotment, remaining 75% payable on conversion; tenure not exceeding 18 months from the date of allotment, convertible in one or more tranches, unconverted Warrants lapse and amounts paid stand forfeited; promoters' intent: not stated — this is a preferential issue on a private placement basis, not a rights issue; the three promoters subscribed in full to the 79,36,507 Warrants allotted to them
+- “A. Number of investors: 4 (four) allottees, namely, India-Japan Fund (represented by and acting through its investment manager, National Investment and Infrastructure Fund Limited), Hero MotoCorp Limited, Mr. Tarun Sanjay Mehta and Mr. Swapnil Babanlal Jain.”
+- filing: [Outcome of th e Board Meeting held on July 15, 2026](https://nsearchives.nseindia.com/corporate/ATHERENERGY_15072026141631_SEintimationOutcomeofBM.pdf)
+
+**AXISCADES — AXISCADES Technologies Ltd.** · rights offering · 1 filing(s), 2026-09-05 → 2026-09-05
+- purpose: Acquisition of Cloud Wave Technologies Private Limited, a Bengaluru-based precision engineering and manufacturing company, and financing related transaction expenses.; pricing: not stated (debt instrument; coupon 12.50% p.a. payable quarterly, tenor upto 60 months); warrants: not stated (non-convertible instrument; quarterly repayments start at end of 6 months, maturity upto 60 months with company prepayment and investor put options)
+- “Private Placement to eligible investor(s)”
+- filing: [Outcome of the Board Meeting](https://nsearchives.nseindia.com/corporate/AXISCADES_05092026134103_BMoutcome_05092026.pdf)
+
+**BAJFINANCE — Bajaj Finance Ltd.** · rights offering · 1 filing(s), 2026-04-29 → 2026-04-29
+- pricing: not stated beyond "in accordance with applicable law"; preferential issue made under Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018; warrants: "a minimum of 25% of the consideration shall be payable on the date of allotment and balance 75% shall be payable at the time of allotment of Equity Shares pursuant to the exercise of options against the warrants"; exercise within eighteen months from the date of allotment, failing which the consideration paid stands forfeited; promoters' intent: not stated (not a rights issue; promoter Bajaj Finserv Limited is the sole proposed allottee of the preferential issue of warrants)
+- “Name of the investors  Bajaj Finserv Limited ("Proposed Allottee"), promoter and holding company”
+- filing: [Outcome of Meeting of Board of Directors](https://nsearchives.nseindia.com/corporate/BAJFINANCE_29042026165631_Fundraising.pdf)
+
+**BLACKBUCK — Blackbuck Ltd.** · rights offering · 2 filing(s), 2026-09-28 → 2026-09-28
+- purpose: To facilitate development, growth and expansion of the wholly owned subsidiary's business, support working capital, and meet RBI/PSS Act regulatory requirements applicable to PPI issuers.; pricing: not stated (unlisted wholly owned subsidiary; only face value ₹10 plus premium ₹54.55 disclosed); warrants: not stated (not a warrant issue; cash consideration remitted through normal banking channel); promoters' intent: "the Company has invested 21,99,99,956/- ... in the equity shares of TZF ... by way of subscription to Rights Issue"; "Being a wholly owned subsidiary, there is no change in the shareholding percentage of the Company in TZF, pursuant to this investment."
+- “The Company has subscribed  34,08,210 Equity Shares of TZF for a total consideration of ₹ 21,99,99,956 /- (Rupees Twenty -One Crore Ninety -Nine Lakh Ninety -Nine Thousand Nine Hundred and Fifty -Six only) .”
+- filing: [BlackBuck invested ₹21.999 crore in WOS TZF via rights issue on September 28, 2026.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/25f6f5e6-9961-4ae7-97fa-26908d6cf6d0.pdf)
+
+**BRIGADE — Brigade Enterprises Ltd.** · rights offering · 1 filing(s), 2026-07-15 → 2026-07-15
+- pricing: In accordance with Chapter V of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018; relevant date July 14, 2026 (30 days prior to the AGM considering the proposal); warrants: % paid upfront not stated; convertible into 1 equity share each, exercisable any time within 18 months from date of allotment, in one or more tranches; unexercised warrants lapse and amount paid stands forfeited
+- “Name of the Investors M/s. Mysore Holdings Private Limited, Promoter Group Entity”
+- filing: [Ref: BEL/NSEBSE/BMD/150720 26 July 15, 2026 Listing Department Department of Corporate Services](https://nsearchives.nseindia.com/corporate/BRIGADE_15072026191643_Outcome_of_BM15072026.pdf)
+
+**CGCL — Capri Global Capital Ltd.** · rights offering · 2 filing(s), 2026-01-29 → 2026-03-23
+- purpose: Not stated beyond 'further investments' in the equity shares of wholly owned housing finance subsidiary CGHFL.; warrants: not applicable; promoters' intent: "Further investments of Rs. 200/-crore (Rupees Two Hundred Crore only) in the equity shares of Capri Global Housing Finance Limited (“CGHFL”), a wholly owned subsidiary of the Company by way of subscription to Right Issue." No statement on renunciation or oversubscription.
+- “Further investments of Rs. 200/-crore (Rupees Two Hundred Crore only) in the equity shares of Capri Global Housing Finance Limited (“CGHFL”), a wholly owned subsidiary of the Company by way of subscription to Right Issue.”
+- filing: [Capri Global Capital Limited has informed the Exchange about General Updates on Allotment of shares to the Company by Ca](https://nsearchives.nseindia.com/corporate/CGCL_23032026185608_Reg30_Allotment_of_shares_CGHFL.pdf)
+
+**COROMANDEL — Coromandel International Ltd.** · rights offering · 1 filing(s), 2025-12-01 → 2025-12-01
+- purpose: not stated; NACL board approved raising funds up to Rs. 250 Crores through rights issue of equity shares, with no stated use of proceeds; pricing: not stated (issue price to be determined later; rights issue in accordance with SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018); promoters' intent: Approved the subscription to the Rights Issue to the full extent of the Company's rights entitlement, and further, to subscribe to additional equity shares, including the unsubscribed portion, if any, for an aggregate amount of up to Rs. 250 Crores.
+- “Approved the subscription to the Rights Issue to the full extent of the Company's rights entitlement, and further, to subscribe to additional equity shares, including the unsubscribed portion, if any, for an aggregate amount of up to Rs. 250 Crores.”
+- filing: [InƟmaƟon under RegulaƟon 30 of the SEBI (LisƟng ObligaƟons and Disclosure](https://nsearchives.nseindia.com/corporate/COROMANDELINT_01122025193454_CIL_outcome_of_Board_Meeting_Dec12025_SD.pdf)
+
+**GMRP&UI — GMR Power and Urban Infra Ltd.** · rights offering · 1 filing(s), 2025-12-17 → 2025-12-17
+- purpose: not stated beyond "raising of funds by way of issuance of Equity shares & Convertible Warrants ... on a preferential basis"; no specific use of proceeds disclosed; pricing: SEBI ICDR floor price: "The floor price as per the provisions of Regulation 164 of Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 (SEBI ICDR Regulations) is Rs. 120.88 per Warrant." — i.e. priced at the Reg. 164 floor, no stated discount or premium to market; warrants: 25% of the consideration paid on allotment (Rs. 99,99,99,987), balance 75% payable at the time of conversion; tenure "shall not exceed 18 months from the date of allotment i.e. January 28, 2026", exercisable in one or more tranches, unexercised Warrants lapse and the amount paid stands forfeited; promoters' intent: not applicable — this is a preferential issue on a private placement basis under Chapter V of the SEBI ICDR Regulations, not a rights issue, so there is no subscription/renunciation statement; the filing states the Warrant tranche is "to the proposed allottee as indicated in Annexure belonging to the promoter group entity"
+- “(*the post -preferential shareholding is on a fully diluted basis and has been prepared with shareholding as on December 11, 2025, on the basis that the Equity Shares Allottees would have subscribed to all the Equity Shares and also considering 3,30,90,668 Warrants which have been approved for issuance and allotment to Hyderabad Jabilli Properties Private Limited have been fully subscribed by the Warrant Allottee and have been allotted all the Equity Shares of Rs. 5 each upon conversion of Warrants.”
+- filing: [Preferential issue of equity shares of face value of Rs. 5 each (the “Equity Shares”) and](https://nsearchives.nseindia.com/corporate/GPUIL_17122025184431_OutcomeBoardMeeting.pdf)
+
+**GPIL — Godawari Power & Ispat Ltd.** · rights offering · 3 filing(s), 2025-12-04 → 2025-12-31
+- warrants: 25% of the total issue price paid upfront (Rs.1,25,00,03,475); remaining 75% payable on conversion, exercisable in one or more tranches within 18 months from the date of allotment (14.11.2025), unconverted warrants lapse and money forfeited
+- “Names of the investors 1. Mrs. Sarita Devi Agrawal 2. Mr. Dinesh Agrawal 3. Mr. Kumar Agrawal 4. Hanuman Prasad Agrawal (HUF) 5. Mrs. Meena Gupta 6. Shree Nakoda Pipe lmpex Private Limited 7. Meridien Realtech Private Limited”
+- filing: [Godawari Power And Ispat limited has informed the Exchange regarding 'Updates regarding to act as Specific Investor in t](https://nsearchives.nseindia.com/corporate/GPIL_31122025133158_GPILNSEBSEUPDATESDGML31122025.pdf)
+
+**GREAVESCOT — Greaves Cotton Ltd.** · rights offering · 4 filing(s), 2026-07-09 → 2026-08-03
+- purpose: Capital expenditure, working capital and general corporate purposes; next generation products, battery management systems, power trains, new age technology development; promoters' intent: GCL's Board approved subscription "to the full extent of the Company's rights entitlement, aggregating up to approximately ₹331.12 crore", and "Authorized the Risk, Strategy and Investment Committee to consider and if deem fit approve, subscription, either directly or through affiliates, to any equity shares that remain unsubscribed pursuant to the rights issue"; the issue was "fully subscribed by the existing shareholders in proportion to their existing shareholding"
+- “The investment is fully subscribed by the existing shareholders in proportion to their existing shareholding , including Greaves Cotton Limited (GCL) and Abdul Latif Jameel Green Mobility Solutions (ALJ) , reaffirming their continued confidence in GEML's strong momentum and its role in advancing India's clean mobility transition.”
+- filing: [Greaves Cotton Limited has informed the Exchange regarding a press release dated August 03, 2026, issued by Greaves Elec](https://nsearchives.nseindia.com/corporate/GREAVESCOT_03082026101629_GCL_PR_GEMLRIsd.pdf)
+
+**HCG — Healthcare Global Enterprises Ltd.** · rights offering · 12 filing(s), 2026-02-17 → 2026-08-06
+- “ISSUE OF UP TO 8,294,566* FULLY PAID -UP EQUITY SHARES OF FACE VALUE OF ₹10 EACH OF OUR COMPANY (THE "RIGHTS EQUITY SHARES") FOR CASH AT A PRICE OF ₹ 512.00 PER RIGHTS EQUITY SHARE (INCLUDING A PREMIUM OF ₹ 502.00 PER RIGHTS EQUITY SHARE) ("ISSUE PRICE") AGGREGATING UP TO ₹42,468.18 LAKHS* ON A RIGHTS BASIS TO THE ELIGIBLE EQUITY SHAREHOLDERS OF OUR COMPANY IN THE RATIO OF 1 (ONE ) RIGHTS EQUITY SHARE FOR EVERY 17 (SEVENTEEN ) FULLY PAID -UP EQUITY SHARES HELD BY THE ELIGIBLE EQUITY SHAREHOLDERS ON THE RECORD DATE, THAT IS ON MONDAY, MARCH 2, 2026 ("RECORD DATE") (THE "ISSUE").”
+- filing: [Pursuant to the Regulation 32(6) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with R](https://nsearchives.nseindia.com/corporate/HCG1_06082026203432_SE_Intimation_Monitoring_Agency_30_June_2026.pdf)
+
+**INOXWIND — Inox Wind Ltd.** · rights offering · 1 filing(s), 2025-11-14 → 2025-11-14
+- purpose: Rs. 560 cr redemption of 0.01% NCPRPS issued to the Promoter; Rs. 159 cr company borrowings; Rs. 250 cr investment in subsidiary IRSL debt repayment; Rs. 273.70 cr general corporate purposes; Rs. 6.63 cr issue expenses
+- “not stated”
+- filing: [Report of the Monitoring Agency with respect to utilisation of proceeds from Rights Issue of the Company](https://nsearchives.nseindia.com/corporate/INOXWIND_14112025220413_IWL_MonitoringReport.pdf)
+
+**IOB — Indian Overseas Bank** · rights offering · 1 filing(s), 2026-05-21 → 2026-05-21
+- purpose: not stated; described only as the Capital Plan of the Bank for FY 2026-27
+- “Offer of 10,00,00,000 (Ten crore) new equity shares of face value of Rs.10/- (Rupees Ten only) each, ranking pari passu with the existing equity shares of the Bank, within the overall limit of ₹5,000 crores (including share premium), to such permanent employees, whether working in India or outside India under Employees Share Purchase Scheme referred to as IOB-ESPS 2026-27, subject to necessary approvals.”
+- filing: [Outcome of Board Meeting held on 21.05.2026](https://nsearchives.nseindia.com/corporate/IOB_21052026172936_CORRECTED_BSE_NSE_OUTCOME_OF_BOARD_MEETING_1_.pdf)
+
+**JMFINANCIL — JM Financial Ltd.** · rights offering · 1 filing(s), 2026-09-28 → 2026-09-28
+- purpose: "to meet its working capital requirements, finance its growth plans of the business and for its general corporate purposes"; promoters' intent: not stated (allotment already completed: "JMFCSL has subscribed to and has been allotted 16,25,85,928 equity shares")
+- “Pursuant to the rights offer made by JMFARC, JMFCSL has subscribed to and has been allotted 16,25,85,928 equity shares of the face value of ₹ 10/- each for an amount aggregating ₹ 162.59 crore.”
+- filing: [JMFCSL invested ₹162.59 crore in JMFARC rights issue, raising holding to 84.87%.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/3a8a9712-eebd-452c-a8eb-389b55683f30.pdf)
+
+**JSWDULUX — JSW Dulux Ltd.** · rights offering · 3 filing(s), 2025-10-14 → 2026-08-11
+- purpose: not stated; cash consideration to Public Shareholders tendering shares, offer funded by external debt funding sources, triggered by the SPA Underlying Transaction; pricing: Offer Price of INR 3,231.77 per Equity Share determined in accordance with the SEBI (SAST) Regulations, 2011; no ICDR floor or market discount/premium stated in the text provided
+- “JSW Paints Limited ("Acquirer") along with JTPM Metal Traders Limited ("PAC 1") and JSW EduInfra Private Limited ("PAC 2"), in their capacity as persons acting in concert with the Acquirer, has announced an open offer for acquisition of up to 1,18,40,482 (one crore eighteen lakh forty thousand four hundred and eighty two) fully paid-up equity shares of face value of INR 10 (Indian Rupees Ten only) each from the Public Shareholders of the Target Company, representing up to 26% (twenty-six per cent.) of the Voting Share Capital of the Target Company at a price of INR 3,231.77 (Indian Rupees Three Thousand Two Hundred and Thirty One point Seven Seven only) per Equity Share ("Offer Price").”
+- filing: [Sub -division/Split of Equity Shares and alteration in Memorandum and Articles](https://nsearchives.nseindia.com/corporate/AKZOINDIA_11082026164657_JSWDuluxReg30disclosureStockSplit11August26.pdf)
+
+**KIMS — Krishna Institute of Medical Sciences Ltd.** · rights offering · 1 filing(s), 2026-03-11 → 2026-03-11
+- warrants: 25% of the issue price paid upfront as warrant subscription money; convertible into equity shares within 18 (Eighteen) months from the date of allotment, balance 75% payable at the time of exercise
+- “Further we wish to inform you that upon receipt of 25 % of the issue price of the said Warrants (i.e., warrant subscription money), the Finance and Investment Committee of the Board has by way of a resolution passed by circulation on 19 August 2026 (Wednesday) at 18:45 hrs (IST), approved the allotment of 77,02,182 (seventy-seven lakh two thousand one hundred and eighty-two) warrants on a preferential basis by the Company to the Allottees (namely Dr. Abhinay Bollineni (Promoter), Mr. Adwik Bollineni (Promoter) and Bharas Ventures LLP (a Promoter Group entity)), in dematerialized form, as set out in the table below:”
+- filing: [Outcome of the meeting of the Board of Directors of Krishna Institute of Medical Sciences Limited](https://nsearchives.nseindia.com/corporate/KIMS_11032026133509_Outcome.pdf)
+
+**LAURUSLABS — Laurus Labs Ltd.** · rights offering · 1 filing(s), 2026-10-06 → 2026-10-06
+- “In continuation to our intimation dated March 28, 2025 with regard to acquisition of equity shares in Kurnool Renewables Private Limited ("KRPL"), an associate company of Laurus Labs Limited ("Company"), and in terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we would like to inform you that the Company has invested INR 12,09,60,500/- (Indian Rupees Twelve Crores Nine Lakhs Sixty Thousand and Five Hundred only) and acquired 1,20,96,050 (One Crore Twenty Lakhs Ninety Six Thousand and Fifty) equity shares of KRPL at face value of INR 10/- each aggregating to an amount of INR 12,09,60,500/- (Indian Rupees Twelve Crores Nine Lakhs Sixty Thousand and Five Hundred only) by way of rights issue.”
+- filing: [Laurus Labs invested ₹12.10 crore in KRPL rights issue; stake remains 26%.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/b8532ed8-a540-439d-af0b-ea5a7ca6551c.pdf)
+
+**LLOYDSENGG — Lloyds Engineering Works Ltd.** · rights offering · 6 filing(s), 2026-01-15 → 2026-08-06
+- purpose: No cash proceeds; shares issued as merger consideration to create a unified engineering and infrastructure company leveraging LICL's Rs. 4500 crore order book; pricing: Share Entitlement Ratio Report dated December 29, 2025 issued by Bansi S. Mehta Valuers LLP, with Fairness Opinion dated December 29, 2025 from Mark Corporate Advisors; swap ratios: 1798 equity shares of INR 1/- each of LEWL for every 1,500 equity shares of INR 1/- each of LICL, and 94 equity shares of INR 1/- each of LEWL for every 5 equity shares of INR 10/- each of MHPL
+- “Issuance of shares to the shareholders of LICL and MHPL pursuant to the merger and cancellation of existing equity shares in the LICL, MHPL and TIPL held by LEWL.”
+- filing: [LLOYDS ENGINEERING WORKS LIMITED has informed the Exchange about the variation in the object of the Rights Issue of shar](https://nsearchives.nseindia.com/corporate/LSIL_06082026165925_Variation_in_the_object_of_Rights_Issue_final_signed.pdf)
+
+**LOTUSDEV — SRI LOTUS DEVELOPERS AND REALTY Ltd.** · rights offering · 1 filing(s), 2026-07-04 → 2026-07-04
+- purpose: Further investment by the Company in its wholly owned subsidiaries by subscribing to their rights issues; subsidiaries' use of proceeds not stated.; promoters' intent: not stated; the filing says only that the Company 'had made applications in the respective Rights Issues made by these companies' and has now 'received allotment confirmations'
+- “With reference to the above and in continuation of our earlier disclosure dated July 3, 2026 informing you about further investment proposed to be made by the Company in the Wholly Owned Subsidiaries of the Company by subscribing to rights issue of shares, we wish to inform you that the Company has received allotment confirmations (Date of Allotment: July 4, 2026) from all the following Wholly Owned Subsidiaries in which the Company had made applications in the respective Rights Issues made by these companies.”
+- filing: [Sri Lotus Developers and Realty Limited has informed the Exchange about Completion of Acquisition in its Wholly Owned Su](https://nsearchives.nseindia.com/corporate/SRILOTUS_04072026152336_RightIssueWOSCompletion.pdf)
+
+**MEESHO — Meesho Ltd.** · rights offering · 3 filing(s), 2026-05-06 → 2026-07-23
+- purpose: Support overall business operations and growth of MPPL, enhance capabilities, scale operations, meet business and regulatory requirements, improve operational efficiency; promoters' intent: The Company (holder of 99.99% of MPPL) will subscribe to the rights issue/further issue of capital of MPPL in one or more tranches, for such number of additional shares and at such price as may be offered by MPPL, for an aggregate amount not exceeding Rs. 100 Crores
+- “Approved further investment in the equity shares of Meesho Payments Private Limited ('MPPL'), a subsidiary of the Company, for an aggregate amount not exceeding Rs. 100 Crores, by way of subscribing to the rights issue/further issue of capital, in one or more tranches, for such number of additional shares and at such price as may be offered by MPPL.”
+- filing: [Outcome of the Board Meeting held on July 23 , 2026](https://nsearchives.nseindia.com/corporate/MEESHO_23072026165559_MLBMOutcome23072026.pdf)
+
+**MFSL — Max Financial Services Ltd.** · rights offering · 1 filing(s), 2026-03-12 → 2026-03-12
+- purpose: To meet Axis Max Life's funding requirements and support its future growth initiatives.; pricing: Not a SEBI ICDR-priced issue; price is "the fair market value of shares determined by the Registered Valuers and Category 1 Merchant Bankers using the discounted cash flow method as arrived at as per extant regulations"; warrants: not stated (fully paid-up equity shares, not warrants); promoters' intent: not stated (this is a preferential allotment by subsidiary Axis Max Life, not a rights issue; no renunciation/subscription intent disclosed)
+- “In line with the applicable provisions of SEBI LODR , we hereby inform that the Board of Directors of Axis Max Life Insurance Limited ("Axis Max Life"), considered a proposal for raising of funds to meet its funding requirements by way of issuance of equity shares of Rs. 10/- each of Axis Max Life to Axis Bank Limited for an aggregate investment of up to Rs. 389 crores in Axis Max Life.”
+- filing: [Outcome of the meeting of the Board of Directors (“Board”) of Max Financial Services](https://nsearchives.nseindia.com/corporate/Max_12032026171859_SEDOUTCOMEOFBM12032026.pdf)
+
+**MUTHOOTFIN — Muthoot Finance Ltd.** · rights offering · 1 filing(s), 2026-09-09 → 2026-09-09
+- purpose: To increase capital structure of the Subsidiary
+- “At the meeting of the Board of Directors of Muthoot Finance Limited held on, August 01, 2026, the Board has approved the subscription of 3,29,30,464 Ordinary Voting Shares in the Rights Issue of its subsidiary, Asia Asset Finance PLC, at a price of LKR 33.30 per share, aggregating to LKR 1,09,65,84,451 (approximately ₹31,80,09,491 / INR 31.80 Crores) and Asia Asset Finance PLC has completed the allotment of 3,29,30,464 Ordinary Voting Shares to Muthoot Finance Limited on September 08, 2026.”
+- filing: [Muthoot Finance subscribed to Asia Asset Finance PLC rights issue: 3.29 crore shares for LKR 10.97 crore.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/72b7fc26-8ffe-4089-8104-824545e72f41.pdf)
+
+**OLAELEC — Ola Electric Mobility Ltd.** · rights offering · 14 filing(s), 2026-09-05 → 2026-10-07
+- pricing: not stated (₹27 per Rights Equity Share includes a premium of ₹17 over face value of ₹10; no SEBI ICDR floor or market discount/premium disclosed in the text provided); warrants: not a warrant issue; partly paid-up Rights Equity Shares — ₹16.20 per share (60% of the Issue Price) payable on Application, balance ₹10.80 (40%) on the First and Final Call, expected to be completed on or prior to October 31, 2027
+- “ISSUE OF UP TO 37,02,72,665 PARTLY PAID-UP EQUITY SHARES OF FACE VALUE ₹10 EACH OF OUR COMPANY (THE "RIGHTS EQUITY SHARES") AT A PRICE OF ₹ 27 PER RIGHTS EQUITY SHARE (INCLUDING A PREMIUM OF ₹ 17 PER RIGHTS EQUITY SHARE) ("ISSUE PRICE") AGGREGATING UP TO ₹ 999.74 CRORE* ON A RIGHTS BASIS TO THE ELIGIBLE EQUITY SHAREHOLDERS OF OUR COMPANY IN THE RATIO OF 2 (TWO) RIGHTS EQUITY SHARE FOR EVERY 25 (TWENTY FIVE) FULLY PAID-UP EQUITY SHARES OF ₹10 EACH OF OUR COMPANY HELD BY THE ELIGIBLE EQUITY SHAREHOLDERS ON THE RECORD DATE, THAT IS ON OCTOBER 13, 2026 ("RECORD DATE") (THE "ISSUE").”
+- filing: [Ola Electric filed LOF for ₹999.74 crore rights issue on October 7, 2026; record date October 13.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/d3473aa8-ff46-4d87-90ef-3eee53687884.pdf)
+
+**PATANJALI — Patanjali Foods Ltd.** · rights offering · 1 filing(s), 2026-06-19 → 2026-06-19
+- purpose: Further investment in wholly-owned subsidiary engaged in farming, agriculture and plantation; shareholding to remain 100% unchanged. Use of proceeds not stated.; promoters' intent: "Currently, the Company is holding 100% share capital of CAPL and with the current investment, the Company's shareholding percentage in CAPL will remain unchanged."
+- “Pursuant to Regulation 30(6) read with para A(1) in Part A of Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("Listing Regulations"), as amended read with SEBI Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, we hereby inform that the Patanjali Foods Limited ("the Company") has made a further investment in Contemporary Agro Private Limited (CAPL), a wholly-owned subsidiary (WOS) of the Company, by way of subscribing 50,00,000 (Fifty Lakh) Zero Percent Redeemable Preference Shares of Rs. 10/- each through a right issue.”
+- filing: [Patanjali Foods Limited has informed the Exchange about Investment through Rights Issue in Contemporary Agro Private Lim](https://nsearchives.nseindia.com/corporate/RUCHI_19062026120929_Letter.pdf)
+
+**PAYTM — One 97 Communications Ltd.** · rights offering · 1 filing(s), 2025-11-04 → 2025-11-04
+- purpose: To strengthen PPSL's net worth, pay for acquisition of offline merchant payment business, fund working capital needs, and support its continued leadership in the merchant payments business.; promoters' intent: "Additional investments by the Company by way of subscription to the Right Issue of equity shares of its wholly owned subsidiary, namely Paytm Payments Services Limited (“PPSL”), for an amount upto INR 2,250 Crores… subject to necessary approvals, as applicable."
+- “Additional investments by the Company by way of subscription to the Right Issue of equity shares of its wholly owned subsidiary, namely Paytm Payments Services Limited (“PPSL”), for an amount upto INR 2,250 Crores (Indian Rupees Two Thousand two Hundred and Fifty Crores only), subject to necessary approvals, as applicable.”
+- filing: [Corporate Office - One Skymark, Tower -D, Plot No. H -10B, Sector -98, Noida -201304 T: +91120 4770770 F: +91120 4770771](https://nsearchives.nseindia.com/corporate/PAYTM_04112025214117_SE_Disclosure_Board_meeting_Outcome_sd.pdf)
+
+**PIRAMALFIN — Piramal Finance Ltd.** · rights offering · 1 filing(s), 2026-08-24 → 2026-08-24
+- “not stated”
+- filing: [24th August , 2026 BSE Limited 1st Floor, New Trading Wing, Rotunda Building, P.J. Towers, Dalal Street, Fort, Mumbai - ](https://nsearchives.nseindia.com/corporate/Piramalcapital_24082026103611_PFL_Outcome_BM_24082026_sd.pdf)
+
+**RBA — Restaurant Brands Asia Ltd.** · rights offering · 1 filing(s), 2026-05-26 → 2026-05-26
+- purpose: No proceeds to the company — mandatory open offer under Regulations 3(1) and 4 of SEBI (SAST) triggered by the Underlying Transaction (SSA and SPA) to acquire control.; pricing: Not an ICDR pricing — this is a mandatory open offer price under SEBI (SAST) Regulations; the filing states the Offer Price of INR 70 'is the price arrived at in accordance with R[egulations]' of the SEBI (SAST) Regulations, payable per Regulation 18(11) and 18(11A) with 10% p.a. interest for 20 days' delay; 'There is no differential pricing in this Offer.' No discount/premium to market stated in the text provided; warrants: not stated (not warrants; Cash Escrow Amount of INR 14,75,00,000 and Bank Guarantee of INR 221,65,00,000 furnished as financial arrangements); promoters' intent: not stated (not a rights issue; shares are being tendered BY Public Shareholders TO the Acquirers — 'from the Public Shareholders')
+- “Open Offer by Lenexis Foodworks Private Limited ("Acquirer 1"), Aayush Agrawal Trust ("Acquirer 2"), Inspira Foodworks Private Limited (formerly Inspira Realty 1 Private Limited) ("Acquirer 3") and Mr. Aayush Madhusudan Agrawal ("Acquirer 4" and collectively the Acquirer 1, Acquirer 2, Acquirer 3 and Acquirer 4 are referred to as "Acquirers") together with Inspira Agro Trading LLC ("PAC") in its capacity as a person acting in concert with the Acquirers, to acquire upto 20,80,61,717 Equity shares of ₹ 10/- each for cash at a price of ₹ 70.00/- per Equity Share along with the Applicable Interest of INR 0.39 (Indian Paise Thirty Nine) per Equity Share, payable in cash, in accordance with the provisions of regulation 18(11) and 18(11A) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 ("SEBI SAST Regulations") for a total consideration of up to INR 14,64,54,64,260, to the Public shareholders of Restaurant Brands Asia Limited ("Target Company").”
+- filing: [Motilal Oswal Investment Advisors Ltd has submitted to the Exchange a copy of letter of Offer.](https://nsearchives.nseindia.com/corporate/team_bbodade_26052026175530_RBA.pdf)
+
+**RBLBANK — RBL Bank Ltd.** · rights offering · 4 filing(s), 2025-11-05 → 2026-06-01
+- purpose: Mandatory open offer under Regulations 3(1) and 4 of SEBI (SAST) Regulations to acquire up to 26% from Public Shareholders pursuant to the Underlying Transaction/Investment Agreement.
+- “Emirates NBD Bank (P.J.S.C.)(the "Acquirer") has announced an Open Offer to acquire up to 415,586,443 fully-paid-up equity shares of face value INR 10/- each ("Equity Shares") from the Public Shareholders of the Target Company, representing 26.00% of the Expanded Voting Share Capital of the Target Company, at a price of INR 282.38, being the aggregate of (a) the Offer Price of INR 280 and the Applicable Interest of INR 2.38 per Equity Share, aggregating to a total consideration of INR 117,353,299,774.34 ... payable in cash.”
+- filing: [J.P. Morgan India Private Limited has Submitted to the Exchange a copy of Letter of Offer.](https://nsearchives.nseindia.com/corporate/team_sandeshc_01062026112411_RBL.pdf)
+
+**RENUKA — Shree Renuka Sugars Ltd.** · rights offering · 1 filing(s), 2025-11-06 → 2025-11-06
+- purpose: Conversion of loan into equity to strengthen KBK's capital structure, reduce indebtedness, de-leverage and improve profitability; no fresh infusion of capital.; pricing: not stated (filing only states the conversion 'is being done on an arm's length basis'); warrants: not applicable; promoters' intent: "The Company wishes to subscribe the entire issue subject to subscription by any other shareholder."
+- “The Company wishes to subscribe the entire issue subject to subscription by any other shareholder.”
+- filing: [Shree Renuka Sugars Limited has informed the Exchange about Acquisition/Investment in its wholly-owned subsidiary throug](https://nsearchives.nseindia.com/corporate/RENUKA_06112025193046_BMOutcome.pdf)
+
+**SAMMAANCAP — Sammaan Capital Ltd.** · rights offering · 10 filing(s), 2025-10-17 → 2026-08-14
+- purpose: Consolidation of the NBFC business activities of Sammaan Capital and Sammaan Finserve under a single entity, to comply with RBI's single-CoR direction
+- “Upon the scheme of arrangement becoming effective, no shares of the Resulting Company are being allotted as consideration for the demerger from the Demerged Company under the Scheme of Arrangement .”
+- filing: [Pursuant to the Regulation 32(6) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requi](https://nsearchives.nseindia.com/corporate/IHFL_14082026182605_SCL_SE_Intimation_Monitoring_Agency_Report.pdf)
+
+**SHAILY — Shaily Engineering Plastics Ltd.** · rights offering · 2 filing(s), 2026-05-19 → 2026-05-19
+- “During the year ended March 31, 2025, the Company has alloted 87,583 equity shores (quarter ended March 31, 2025 2,416 equity shares) of " 2/· each to eligible employees upon exercise of Option under the Company's ESOP Plan 2019.”
+- filing: [Outcome of Board Meeting held on 19th May 202 6](https://nsearchives.nseindia.com/corporate/Shailyengineering_19052026181735_Outcome_of_Board_Meeting_19052026_Signed.pdf)
+
+**SPARC — Sun Pharma Advanced Research Company Ltd.** · rights offering · 1 filing(s), 2026-01-14 → 2026-01-14
+- purpose: Raising funds by the Company through a preferential issue of securities; specific use of proceeds not stated; pricing: not stated (only that the Warrants are issued in accordance with Chapter V of the SEBI ICDR Regulations, 2018; no floor price, discount or premium to market disclosed); warrants: INR 38.95 per Warrant, being at least 25% of the issue price, paid upfront as Warrant Subscription Price; balance INR 116.85 payable on exercise; convertible within 18 months from allotment, failing which the Warrants lapse and the subscription price is forfeited; promoters' intent: not stated (preferential issue, not a rights issue)
+- “the Securities Allotment Committee of the Company, has approved and allotted 3,85,10,000 (Three Crores Eighty Five Lakh Ten Thousand) warrants ("Warrants") to Shanghvi Finance Private Limited ("Allottee") at an issue price of INR 155.80/- (Indian Rupees One Hundred and Fifty Five and Eighty paisa only) per Warrant ("Warrant Issue Price") on preferential basis”
+- filing: [Disclosure of event pursuant to Regulation 30 (2) and Regulation 30(7) read with](https://nsearchives.nseindia.com/corporate/SPARC_14012026192534_SPARCBoardOutcome.pdf)
+
+**THANGAMAYL — Thangamayil Jewellery Ltd.** · rights offering · 1 filing(s), 2025-11-03 → 2025-11-03
+- purpose: Capex for six new retail stores (Rs.8.71 cr), inventory for new stores (Rs.401.03 cr), general corporate purposes (Rs.97.67 cr), rights issue expenses (Rs.2.59 cr)
+- “Issue size (in crore) : Rs. 510 crore (Out of this, Rs.178.50 crore was received from promoters in the form of unsecured loans which got converted into equity and the remaining amount of Rs.331.50 crore was received through the allotment account).”
+- filing: [Report of Monitoring Agency U/R 16 of SEBI (LODR) Regulations,2015 with regard to utilization of proceeds of Rights Issu](https://nsearchives.nseindia.com/corporate/THANGAMAYL_03112025165627_Q2MONITORINGAGENCYREPORT.pdf)
+
+**ZEEL — Zee Entertainment Enterprises Ltd.** · rights offering · 1 filing(s), 2026-07-01 → 2026-07-01
+- pricing: premium of 11.86% to the price as per SEBI ICDR, Regulations, 2018 and premium of 16.33% to the closing market price as on July 1, 2026 on NSE; Pricing Report and Valuation Report from a Registered Valuer under Regulations 164(1) and 166A; warrants: 25% of the Warrant Issue Price (Rs. 31.5/- per warrant) paid upfront at subscription/allotment; balance 75% (Rs. 94.5/-) on exercise, convertible in one or more tranches within a maximum period of 18 months from the date of allotment, failing which warrants lapse and amounts paid stand forfeited; promoters' intent: not stated (this is a preferential issue on a private placement basis, not a rights issue)
+- “The warrants are proposed to be allotted to Sunbright Mauritius Investments Limited”
+- filing: [Outcome of the Board Meeting held on July 1, 202 6](https://nsearchives.nseindia.com/corporate/ZEEL_01072026211858_SEDisclosureBMoutcome1726EOGM.pdf)
+
+**AUBANK — AU Small Finance Bank Ltd.** · preferential issue / warrants · 1 filing(s), 2026-04-27 → 2026-04-27
+- purpose: Annual renewal of fund raising limits via equity (private placement/QIP/preferential allotment) and debt instruments including bonds and non-convertible debentures.
+- “not stated”
+- filing: [Financial Results/Dividend/Fund Raising The meeting of the Board of Directors of the Bank will be held on Monday, April ](https://nsearchives.nseindia.com/corporate/SUMIT1_20042026184904_BM_Prior_Intimation_April_2026_1.pdf)
+
+**BHARTIARTL — Bharti Airtel Ltd.** · preferential issue / warrants · 2 filing(s), 2026-05-13 → 2026-06-23
+- purpose: Consideration for acquisition of 16.3% (595,204,251 shares) of Airtel Africa plc from ICIL, raising the Company's effective Airtel Africa stake to ~79%.
+- “The ‘Special Committee of Directors for Preferential Issue’ of the Company, has today, approved the allotment of 146,761,335 fully paid-up equity shares of face value of INR 5 each to ICIL, on a preferential basis.”
+- filing: [Bharti Airtel Limited has informed the Exchange about update on composite transaction comprising issuance of 146,761,335](https://nsearchives.nseindia.com/corporate/BHARTIARTL_23062026092348_STXDislcosureAllotmenttoICIL.pdf)
+
+**IIFLCAPS — IIFL Capital Services Ltd.** · preferential issue / warrants · 2 filing(s), 2026-04-21 → 2026-04-22
+- “not stated”
+- filing: [The Exchange has sought clarification from IIFL Capital Services Limited with respect to recent news item captioned Fair](https://nsearchives.nseindia.com/corporate/IIFLSEC_22042026103106_SEintimation.pdf)
+
+**JAYNECOIND — Jayaswal Neco Industries Ltd.** · preferential issue / warrants · 1 filing(s), 2026-10-01 → 2026-10-01
+- pricing: not stated (issue made in accordance with Chapter V of SEBI ICDR Regulations, 2018; no floor price or discount/premium disclosed); warrants: 25% of the aggregate warrant subscription amount paid upfront (INR 50,00,00,003.36); exercisable in one or more tranches within 18 months from the date of allotment
+- “the Board of Directors of the Company had approved to create, offer, issue and allot 2,24,39,134 warrants ("Subscription Warrants") to M/s. Vibrant Enterprises, a partnership firm through its partners namely, Smt. Nisha Jayaswal, Smt. Rita Jayaswal, Smt. Karishma Jayaswal, Smt. Hargunn Jayaswal, Smt. Ankita Jayaswal, Jyotikant Investments Private Limited and Vibrant Electronics Private Limited ("Investor")”
+- filing: [Jayaswal Neco Industries Limited has informed the Exchange regarding allotment of 22439134 warrants pursuant to Preferen](https://nsearchives.nseindia.com/corporate/JAYNECOIND3_01102026114607_REG30_01102026_ALLOTMENT_OF_SHARES.pdf)
+
+**MINDACORP — Minda Corporation Ltd.** · preferential issue / warrants · 2 filing(s), 2025-11-06 → 2026-02-05
+- purpose: Debt repayment (INR 420.75 crore); warrants: 25% of the Warrant Issue Price (INR 550/- per Warrant) received till June 2025, i.e. INR 105.19 crore; conversion tenure not stated
+- “not stated”
+- filing: [Minda Corporation Limited has informed the Exchange regarding 'Monitoring Agency Report on the utilization of proceeds r](https://nsearchives.nseindia.com/corporate/MINDACORP_05022026181453_NSEBSE.pdf)
+
+**RPOWER — Reliance Power Ltd.** · preferential issue / warrants · 2 filing(s), 2026-04-27 → 2026-04-28
+- warrants: % paid upfront not stated; amount paid thereon stands forfeited/lapsed; prescribed conversion period of 18 months
+- “Further to our letter s dated October 28, 2024 , May 07, 2025 and May 20, 2025, and pursuant to Regulation 30 of the Listing Regulations read with applicable SEBI Circular, we wish to inform you that 12.50 crore outstanding warrants issued by the Company stand lapsed along with the amount paid thereon, consequent to non -conversion of the same during the prescribed period of 18 months.”
+- filing: [Reliance Power Limited Update on Outstanding Warrants](https://nsearchives.nseindia.com/corporate/RPOWER_28042026220437_Reliance_Power_Lapse_of_Warrants_Disclosure_28042026.pdf)
+
+**SHRIRAMFIN — Shriram Finance Ltd.** · preferential issue / warrants · 4 filing(s), 2026-02-03 → 2026-04-10
+- pricing: not stated (issue made in accordance with Chapter V of SEBI ICDR Regulations, 2018; no floor price or discount/premium to market disclosed); warrants: not applicable
+- “We inform you that the Board of Directors of the Company at its meeting held today i.e. April 8, 2026 has, inter-alia, approved the allotment of 47,11,21,055 fully paid-up Equity Shares of face value of Rs.2/- each fully paid-up of the Company at an issue price of Rs.840.93 per equity share (including a premium of Rs.838.93 per equity share) aggregating to Rs.3,96,17,98,28,781.15 by way of a preferential issue on a private placement basis to MUFG Bank Ltd. in terms of the Investment Agreement dated December 19, 2025 executed between, among others, the Company and MUFG Bank Ltd.”
+- filing: [Shriram Finance Limited has informed the Exchange about Intimation of receipt of Listing & Trading Approval for 47,11,21](https://nsearchives.nseindia.com/corporate/Mathew_10042026165226_Intimationbsensetradingapproval.pdf)
+
+**TITAGARH — Titagarh Rail Systems Ltd.** · preferential issue / warrants · 3 filing(s), 2025-11-04 → 2026-05-14
+- purpose: Working Capital Loan Repayment Rs. 100.00 Crores; General Corporate Purpose Rs. 49.99 Crores; Reimbursement of Capital Expenditure Rs. 50.00 Crores; warrants: 25% of the issue size i.e. Rs. 49.99 Crores received as upfront consideration/subscription amount; balance 75% on conversion during the tenure of 18 months of the warrants
+- “not stated”
+- filing: [TITAGARH RAIL SYSTEMS LIMITED has informed the Exchange about Statement of Deviation(S) Or Variation(S) In Utilisation o](https://nsearchives.nseindia.com/corporate/TWL_14052026104839_Q4StatementofDeviation14052026.pdf)
+
+**WOCKPHARMA — Wockhardt Ltd.** · preferential issue / warrants · 2 filing(s), 2026-05-04 → 2026-05-04
+- purpose: not stated — enabling resolution for raising of funds, no use of proceeds specified
+- “not stated”
+- filing: [Pursuant to Regulation 30 and 33 of Listing Regulations read with Schedule III of Securities and Exchange Board of India](https://nsearchives.nseindia.com/corporate/WOCKPHARMA_04052026153235_OutcomeofBM04052026_outcome_only_recognized.pdf)
+
+**YESBANK — Yes Bank Ltd.** · preferential issue / warrants · 1 filing(s), 2026-06-29 → 2026-06-29
+- “not stated”
+- filing: [Fund Raising YES Bank Ltd has informed NSE that the meeting of the Board of Directors of the Company is scheduled on 29/](https://nsearchives.nseindia.com/corporate/YESBANK_23062026174900_YBL_SEIntimationJune_2026_Signed.pdf)
+
+**ADANIENSOL — Adani Energy Solutions Ltd.** · rights offering · 1 filing(s), 2026-07-01 → 2026-07-01
+- pricing: not stated ("at such price or prices as may be permissible under applicable law"; QIP under Chapter VI of SEBI ICDR Regulations, 2018)
+- “Qualified institutional placements ("QIP") in accordance with the provisions of Chapter VI of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, Section 42 and other applicable provisions of the Companies Act, 2013, the Companies (Prospectus and Allotment of Securities) Rules, 2014 and other applicable laws, or through any other permissible mode and/or combination thereof as may be considered appropriate under applicable law.”
+- filing: [Adani Energy Solutions Ltd Tel +91 79 2555 7555 Adani Corporate House Fax +91 79 2555 7177 Shantigram, Near Vaishno Devi](https://nsearchives.nseindia.com/corporate/ADANITRANS_01072026161541_AESLBMOUTCOME.pdf)
+
+**ADVENZYMES — Advanced Enzyme Tech Ltd.** · rights offering · 1 filing(s), 2026-06-06 → 2026-06-06
+- purpose: Not an issue — an open-market buyback: efficient utilisation of surplus cash, returning excess funds to shareholders, enhancement of shareholder value, flexibility to shareholders.; pricing: Premium to market: 42.42% and 42.43% over 3-month VWAP on BSE and NSE; 58.95% and 58.88% over 2-week VWAP; 56.62% and 56.63% over 1-month VWAP; 58.73% and 58.68% over closing price prior to intimation dated August 01, 2026; promoters' intent: "since the Buyback is being implemented by way of open market purchases through the Stock Exchanges, the Buyback shall not be made by the Company from the Promoters, members of the Promoter Group and Persons in control of the Company"; promoter/promoter group holdings remain frozen at ISIN level from August 08, 2026 till closing of the offer, and neither they nor their Associates shall deal in the Equity Shares
+- “The Promoters, Promoter Group, and the Persons in Control of the Company shall not participate in the Buyback.”
+- filing: [Further to the intimation letter dated August 02, 2025, we hereby inform that the Companyhas completed an additional inv](https://nsearchives.nseindia.com/corporate/AETL_06062026204331_Intimation06062026.pdf)
+
+**AEGISLOG — Aegis Logistics Ltd.** · rights offering · 1 filing(s), 2026-09-28 → 2026-09-28
+- “The Board has approved the proposal of raising of funds, in one or more tranches, whether rupee denominated or denominated in one or more foreign currencies, Securities through one or more public issue(s), preferential issue(s), private placement(s), qualified institutions placement(s) and/or any combination thereof or any other method as may be permitted under applicable laws, subject to the approval of shareholders and/or other regulatory / statutory approvals as may be required.”
+- filing: [Outcome of the Board Meeting - Intimation under Regulation 30 of the Securities](https://nsearchives.nseindia.com/corporate/AEGISCHEM_28092026114512_ALL_SE_Outcome_Fundraising_28092026_S.pdf)
+
+**APARINDS — Apar Industries Ltd.** · rights offering · 1 filing(s), 2026-06-30 → 2026-06-30
+- “in case of preferential issue the listed entity shall disclose the following additional details to the stock exchange(s): i. names of the investors; ... To be determined by the Board or a duly constituted Committee thereof.”
+- filing: [Outcome of meeting of Board of Directors of APAR Industries Limited (the “Company”)](https://nsearchives.nseindia.com/corporate/APARINDS_30062026112913_Outcome30062026FR.pdf)
+
+**APOLLO — Apollo Micro Systems Ltd.** · rights offering · 1 filing(s), 2026-10-05 → 2026-10-05
+- no filing text on file
+- filing: [Cumulative Capital Private Limited has Submitted to the Exchange a copy of Letter of Offer.](https://nsearchives.nseindia.com/corporate/team_sandeshc_05102026105341_APOLLO.zip)
+
+**ARVIND — Arvind Ltd.** · rights offering · 1 filing(s), 2026-07-03 → 2026-07-03
+- pricing: not stated beyond "at such price or prices as may be permissible under applicable law"; QIP to be made in accordance with Chapter VI of SEBI ICDR Regulations, 2018
+- “Qualified Institutions Placements (' QIP') in accordance with the provisions of Chapter VI of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, Section 42 and other applicable provisions of the Companies Act, 2013, the Companies (Prospectus and Allotment of Securities) Rules, 2014 and other applicable laws, or preferential allotment or through any other permissible mode and/or combination thereof as may be considered appropriate under applicable law.”
+- filing: [Outcome of the Board Meeting](https://nsearchives.nseindia.com/corporate/ARVIND1_03072026125435_AL_BMOutcome_03072026.pdf)
+
+**BHARATFORG — Bharat Forge Ltd.** · rights offering · 1 filing(s), 2026-08-10 → 2026-08-10
+- purpose: Unspent amount of ₹5,500.39 million utilised for acquisition of AAM India Manufacturing Corporation Private Limited; entire QIP proceeds utilised as on September 30, 2025.
+- “During the quarter and nine months ended December 31, 2024; the Company issued 12,500,000 equity shares of face value of ₹ 2 each through Qualified Institutional Placement ("QIP") at an issue price of ₹ 1,320/- per share (including a securities premium of ₹ 1,318/- per share), aggregating ₹ 16,500.00 million.”
+- filing: [B H A R A T F O R G E CIN L25209PN1961PLC012046 BHARAT FORGE LIMITED, MUNDHWA, PUNE 411 036, MAHARASHTRA, INDIA. Phone :](https://nsearchives.nseindia.com/corporate/ANILSHINDE_10082026140418_SEIntimationOutcomeofBM_final.pdf)
+
+**CCAVENUE — AvenuesAI Ltd.** · rights offering · 11 filing(s), 2025-11-10 → 2026-09-11
+- purpose: Investment in Infibeam Projects Management (loan prepayment), Nueromind Technologies (AI software/technology), Rediff.com India (digital and payment ecosystem expansion), unidentified acquisitions, general corporate purposes, issue expenses; warrants: not applicable (rights issue, not warrants); Rs. 5/- per share received as application money upfront, balance Rs. 5/- per share received as First and Final Call Money
+- “During the previous year, the Company had allotted 69,99,85,723 partly paid-up Equity Shares of Face Value Re.1/- each at an issue price of Rs.10/- (including Rs. 9/- premium) on a rights basis to eligible Equity Shareholders against receipt of share application money of Rs. 5/- per share (including Rs. 4.50 premium) aggregating to Rs. 3,499.93 Million.”
+- filing: [AvenuesAI Limited has informed the Exchange regarding Outcome of Rights Issue Committee Meeting - Conversion and Forfeit](https://nsearchives.nseindia.com/corporate/INFIBEAM_11092026181121_RIOutcome11092026.pdf)
+
+**CEMPRO — Cemindia Projects Ltd.** · rights offering · 1 filing(s), 2026-07-23 → 2026-07-23
+- pricing: not stated — "at such price or prices as may be permissible under applicable law"
+- “not stated”
+- filing: [Outcome of the meeting of the Board of Directors (“Board”) of Cemindia Projects](https://nsearchives.nseindia.com/corporate/ITD_23072026154416_st_exch_intim_BM_3_outcome_fundraising_SIGNED.pdf)
+
+**COALINDIA — Coal India Ltd.** · rights offering · 1 filing(s), 2026-07-27 → 2026-07-27
+- purpose: not stated; shares were offered for sale by Coal India Limited, reducing its stake in Bharat Coking Coal from 100% to 90%
+- “In accordance with Regulation 30 of the Listing Regulations and in furtherance of the disclosures made by the Company dated January 3, 2026 and January 14, 2026, we wish to inform that Bharat Coking Coal Limited, pursuant to its IPO, has sold 465,700,000 Equity Shares at an issue price of ₹ 23 per share which were offered for sale by the Company.”
+- filing: [Investment in Rights Issue of CIL Rajasthan Akshay Urja Limited (CRAUL) a subsidiary of CIL](https://nsearchives.nseindia.com/corporate/COALINDIA_27072026184728_right_issue.pdf)
+
+**DALBHARAT — Dalmia Bharat Ltd.** · rights offering · 1 filing(s), 2026-05-23 → 2026-05-23
+- “not stated”
+- filing: [Outcome of Board Meeting held on May 23, 2026](https://nsearchives.nseindia.com/corporate/DALBHARAT_23052026173406_DBL_BM_Outcome_23052026.pdf)
+
+**EMBDL — Embassy Developments Ltd.** · rights offering · 1 filing(s), 2026-07-07 → 2026-07-07
+- pricing: issued "under preferential offer in terms of Chapter V of SEBI ICDR Regulations"; no floor price, discount or premium to market stated; warrants: 25% of the Issue Price paid upfront on allotment of Warrants (May 21, 2024); balance 75% payable on conversion within 18 (eighteen) months from the date of allotment of Warrants, in one or more tranches
+- “Pursuant to (a) exercise of such right for conversion by Bellanza (for entire 80,96,067 outstanding Warrants held by it), by Worldpart (for entire 8,50,000 outstanding Warrants held by it) & by Aalidhra (for entire 15,00,000 outstanding Warrants held by it) aggregating to 1,04,46,067 Warrants ("Exercised Warrants"); and (b) receipt of balance consideration aggregating to INR 87,36,30,698.38/-, being 75% of the Issue Price on these Exercised Warrants, from respective warrant-holders, the Company has today i.e. on October 13, 2025, issued and allotted 1,04,46,067 fully-paid equity shares.”
+- filing: [Outcome of the meeting of Board’s constituted committee of Embassy Developments Limited (the “Company”)](https://nsearchives.nseindia.com/corporate/EMBDL_07072026000941_EDL_SE_Outcome.pdf)
+
+**EQUITASBNK — Equitas Small Finance Bank Ltd.** · rights offering · 1 filing(s), 2026-09-16 → 2026-09-16
+- purpose: Raising of capital; to be categorized as Lower Tier II Capital in compliance with Basel II framework on Capital Adequacy
+- “Issuance on private placement basis to one or more prospective eligible investors”
+- filing: [Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing](https://nsearchives.nseindia.com/corporate/EQUITASBNK_16092026115422_OutcomeofBoardmeeting.pdf)
+
+**ETHOSLTD — Ethos Ltd.** · rights offering · 3 filing(s), 2025-11-11 → 2026-08-03
+- purpose: Funding working capital requirements of the Company Rs 31,000.00 lakh; general corporate purposes Rs 9,611.48 lakh; issue related expenses Rs 379.02 lakh
+- “not stated”
+- filing: [Report of the Monitoring Agency with respect to utilization of proceeds of the Rights Issue of Ethos Limited for the qua](https://nsearchives.nseindia.com/corporate/ETHOS_03082026172250_Cover_letter.pdf)
+
+**FEDFINA — Fedbank Financial Services Ltd.** · rights offering · 3 filing(s), 2026-03-03 → 2026-08-25
+- “Pursuant to the provisions of Regulations 30 and 51 read with Schedule III of the SEBI (Listing Obligations and Disclosure requirements) 2015 ("SEBI Regulations") and other applicable regulations, if any, we hereby inform that the Board of Directors at their meeting held today i.e. March 03, 2026 has inter- alia, considered and approved the issuance of upto 50,000 (Fifty Thousand) Rated, Listed, Unsecured, Non-Cumulative, Redeemable, Subordinated, Non-Convertible Debentures having a face value of Rs. 1,00,000/- (Rupees One Lakh only) each aggregating upto to Rs. 500,00,00,000/- (Rupees Five Hundred Crores Only) on a private placement basis to one or more prospective investors.”
+- filing: [Intimation under Regulations 30 and 51 SEBI (Listing Obligations and Disclosure requirements)](https://nsearchives.nseindia.com/corporate/FEDFINA_25082026163218_OutcomeoftheBM25082026_Final_Signed.pdf)
+
+**FORTIS — Fortis Healthcare Ltd.** · rights offering · 1 filing(s), 2025-10-09 → 2025-10-09
+- “not stated”
+- filing: [HSBC Securities and Capital Markets (India) Private Limited has Submitted to the Exchange a copy of Letter of Offer.](https://nsearchives.nseindia.com/corporate/team_sandeshc_09102025171706_FHL.zip)
+
+**GRAVITA — Gravita India Ltd.** · rights offering · 1 filing(s), 2026-09-30 → 2026-09-30
+- purpose: To support RMIL strategic initiatives; raise of additional capital by subsidiary Rashtriya Metal Industries Limited
+- “not stated”
+- filing: [Material subsidiary RMIL approved rights issue to raise about Rs. 94.81 crore for strategic initiatives.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/0876ebd4-2b72-42f4-974f-107610a80dc7.pdf)
+
+**HCC — Hindustan Construction Co. Ltd.** · rights offering · 3 filing(s), 2025-12-22 → 2026-08-18
+- purpose: Strengthens balance sheet and credit profile while supporting ongoing deleveraging and long-term growth strategy
+- “Equity Shares will be allotted to eligible applicants in accordance with the basis of allotment finalised in consultation with the designated Stock Exchange, BSE Limited.”
+- filing: [AGM approved raising up to ₹800 crore via QIP, preferential allotment, rights issue or combination.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/68d36c1d-4b84-4cc9-9f02-b1b52f41fa25.pdf)
+
+**HINDZINC — Hindustan Zinc Ltd.** · rights offering · 1 filing(s), 2026-01-23 → 2026-01-23
+- “not stated”
+- filing: [- Outcome of the meeting of Committee of Directors held on Friday, January 23, 2026](https://nsearchives.nseindia.com/corporate/HINDZINCNSE_23012026095847_SECOD23012026.pdf)
+
+**IIFL — IIFL Finance Ltd.** · rights offering · 1 filing(s), 2026-06-27 → 2026-06-27
+- purpose: Not stated beyond general fund raising; enabling resolution only, no use of proceeds specified
+- “not stated”
+- filing: [Outcome of the Board Meeting](https://nsearchives.nseindia.com/corporate/IIFL_27062026135829_Outcome_27062026.pdf)
+
+**JKCEMENT — J.K. Cement Ltd.** · rights offering · 1 filing(s), 2026-07-18 → 2026-07-18
+- purpose: Amalgamation of wholly owned subsidiary Toshali Cements with J.K. Cement for business consolidation, synergies, simplification of structure; no securities issued or proceeds raised
+- “All equity shares of the Amalgamating Company are held by the Amalgamated Company along with its nominecs, thereby making the Amalgamating Company a ‘Wholly-Owned Subsidiary’ of the Amalgamated Company.”
+- filing: [Outcome of Board Meeting held today i.e. July 18, 2026 – Integrated Filing (Financial](https://nsearchives.nseindia.com/corporate/JKCEMENT_18072026155722_OUTCOMEBMUFR30062026.pdf)
+
+**JSWINFRA — JSW Infrastructure Ltd.** · rights offering · 1 filing(s), 2026-02-20 → 2026-02-20
+- purpose: Support the Company's multi-year expansion program and enable compliance with SEBI's Minimum Public Shareholding requirement
+- “Further to our intimation dated 16th February, 2026, the Board of Directors of the Company have approved raising of funds through issuance of up to 25,00,00,000 (Twenty-Five Crore) Equity Shares of face value of Rs. 2/- each, through one or more of following modes viz. Qualified Institutional Placement, Further Public Offer, Rights Issue or through any other permissible mode, in accordance with the relevant provisions of applicable law, subject to approval from the Members of the Company through an enabling resolution and the receipt of statutory / regulatory and other approvals as may be applicable.”
+- filing: [INFRASTRUCTURE LTD. Regd. Office: JSW Centre,](https://nsearchives.nseindia.com/corporate/JSWINFRA_20022026165755_IntimationBMFeb2026.pdf)
+
+**KITEX — Kitex Garments Ltd.** · rights offering · 1 filing(s), 2026-08-14 → 2026-08-14
+- purpose: not stated; filing covers shareholder/creditor voting results approving a Scheme of Arrangement (demerger) between Kitex Childrenswear Limited and Kitex Garments Limited
+- “not stated”
+- filing: [Raising of Funds](https://nsearchives.nseindia.com/corporate/KITEX_14082026164105_KGL_Reg_30_Fund_Raisings.pdf)
+
+**KRN — KRN HEAT EXCHANGER AND REFRIGERATION Ltd.** · rights offering · 1 filing(s), 2026-03-13 → 2026-03-13
+- pricing: Qualified Institutions Placement under Chapter VI of SEBI (ICDR) Regulations, 2018; "inclusive of such discount or premium to market price or prices permitted under applicable law", at such price or prices as may be permissible under applicable laws
+- “Raising of funds by way of a qualiﬁed institutions placement to investors through issuance of equity shares”
+- filing: [Outcome of the meeting of the Board of Directors of KRN Heat Exchanger and](https://nsearchives.nseindia.com/corporate/KRNHEAT_13032026191809_outcomeofbmsigned.pdf)
+
+**LLOYDSENT — Lloyds Enterprises Ltd.** · rights offering · 3 filing(s), 2026-01-08 → 2026-02-09
+- “The Rights Issue Committee of Board of Directors has considered and approved the making of the First and Final Call on 25,44,25,324 partly paid up equity shares of 50% of issue price of ₹ 39 per share i.e. ₹ 19.50 per Equity Share (comprising ₹ 0.50 towards paid-up value and ₹ 19.00 towards premium) vide Right Issue Committee meeting dated January 8, 2026.”
+- filing: [Outcome of the Board Meeting of Lloyds Enterprises Limited held on Monday, 09th February,](https://nsearchives.nseindia.com/corporate/SGTL2008_09022026142711_OutcomeofBoardMeeting.pdf)
+
+**MANAPPURAM — Manappuram Finance Ltd.** · rights offering · 2 filing(s), 2026-03-25 → 2026-04-02
+- no filing text on file
+- filing: [Kotak Mahindra Capital Company Ltd has submitted to the Exchange a copy of Pre-offer advertisement in accordance with Re](https://nsearchives.nseindia.com/corporate/team_bbodade_02042026162701_Manappuram.zip)
+
+**MINDACORP — Minda Corporation Ltd.** · rights offering · 4 filing(s), 2026-07-20 → 2026-09-24
+- purpose: Debt Repayment (INR 420.75 crore; INR 105.19 crore received and utilised towards this object); warrants: 25% of the Warrant Issue Price (INR 550/- per Warrant) received till June 2025; conversion tenure not stated
+- “not stated”
+- filing: [Outcome of Board Meeting of Minda Corporation Limited held on Thursday, September 24, 2026](https://nsearchives.nseindia.com/corporate/MINDACORP_24092026125000_BMoutcome24926signed.pdf)
+
+**NATCOPHARM — NATCO Pharma Ltd.** · rights offering · 6 filing(s), 2026-09-09 → 2026-09-28
+- warrants: not applicable - not a warrant issue
+- “…e equity shares on rights basis in the ratio of 2 : 21, i.e 2 Equity Shares for every 21 Equity Shares held at an Issue Price of Rs. 750 per share (including a p…”
+- filing: [Natco Pharma approved rights issue of up to 17,058,082 shares at ₹750, aggregating up to ₹12,794 million.](https://www.bseindia.com/xml-data/corpfiling/AttachLive/59db9b53-64d4-4b60-86e0-281fee2d2641.pdf)
+
+**NETWEB — Netweb Technologies India Ltd.** · rights offering · 1 filing(s), 2026-07-01 → 2026-07-01
+- purpose: not stated — only "raising of funds" for cash through issuance of securities; no use of proceeds disclosed; pricing: not stated — "at such price or prices as may be permissible under applicable laws" (including any premium or discount permitted under applicable law), to be determined by the Fund Raising Committee
+- “not stated”
+- filing: [Outcome of Board Meeting pursuant to Regulation 30 of the Securities and Exchange](https://nsearchives.nseindia.com/corporate/NETWEB1234_01072026204226_Outcome_BM_01072026.pdf)
+
+**PETRONET — Petronet LNG Ltd.** · rights offering · 1 filing(s), 2026-02-12 → 2026-02-12
+- “not stated”
+- filing: [Petronet LNG Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025.Pursuan](https://nsearchives.nseindia.com/corporate/PETRONET_12022026174407_OutcomeofBoardMeeting12022026si.pdf)
+
+**PRSMJOHNSN — Prism Johnson Ltd.** · rights offering · 1 filing(s), 2026-05-14 → 2026-05-14
+- purpose: not stated (described only as "raising further capital" / "raising of funds"); pricing: not stated (issue to be in accordance with SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018)
+- “In case of preferential issue the listed entity shall disclose the following additional details to the stock exchange(s): i. names of the investors; ... To be decided by the Board of Directors or Fund Raising Committee of the Company from time to time.”
+- filing: [May 14, 2026 The National Stock Exchange of India Limited, Exchange Plaza, Bandra-Kurla Complex, Bandra (East), Mumbai –](https://nsearchives.nseindia.com/corporate/PRSMJOHNSN_14052026140045_SEIntimationFundRaising.pdf)
+
+**RCF — Rashtriya Chemicals & Fertilizers Ltd.** · rights offering · 2 filing(s), 2025-11-14 → 2026-08-13
+- “not stated”
+- filing: [Outcome of the Board Meeting in accordance with the SEBI (Listing Obligations and](https://nsearchives.nseindia.com/corporate/RCF_13082026154849_Cover_letter.pdf)
+
+**REFEX — Refex Industries Ltd.** · rights offering · 1 filing(s), 2026-04-26 → 2026-04-26
+- “not stated”
+- filing: [Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Require](https://nsearchives.nseindia.com/corporate/REFEX2002_26042026001802_RIL_VRPL_STX_SD.pdf)
+
+**SHAREINDIA — Share India Securities Ltd.** · rights offering · 1 filing(s), 2026-09-15 → 2026-09-15
+- “not stated”
+- filing: [Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, please find enclosed herewith the intimation regarding t](https://nsearchives.nseindia.com/corporate/SISL_15092026174654_Reg30_silverleaf150926.pdf)
+
+**SHRIPISTON — SPR Auto Technologies Ltd.** · rights offering · 1 filing(s), 2026-05-11 → 2026-05-11
+- “not stated”
+- filing: [Fund Raising To consider Fund Raising: In continuation of our earlier intimation dated May 3, 2026, and pursuant to Regu](https://nsearchives.nseindia.com/corporate/SHRIPISTON_07052026115335_PRIORINTIMATIONREVISED.pdf)
+
+**SOBHA — Sobha Ltd.** · rights offering · 4 filing(s), 2025-10-17 → 2026-07-20
+- purpose: Repayment/prepayment of certain borrowings (Rs. 905 crore), project-related expenses for ongoing and forthcoming projects, purchase of equipment and machinery, acquisition of unidentified land parcels and general corporate purposes.
+- “not stated”
+- filing: [Sobha Limited has informed the Exchange about the Monitoring Agency Report related to Rights Issue for the quarter ended](https://nsearchives.nseindia.com/corporate/SOBHA_20072026170303_Monitoring_agency_report_Q1_FY2026-27.pdf)
+
+**STARCEMENT — Star Cement Ltd.** · rights offering · 1 filing(s), 2025-10-14 → 2025-10-14
+- “not stated”
+- filing: [Fund Raising Pursuant to Regulation 29(1), 29(2) of the SEBI (Listing Obligations and Disclosure Requirements) Regulatio](https://nsearchives.nseindia.com/corporate/STARCEMENT_09102025155831_Intimation_of_BM-09-10-2025.pdf)
+
+**TEGA — Tega Industries Ltd.** · rights offering · 1 filing(s), 2026-08-22 → 2026-08-22
+- pricing: Stated only as being "in accordance with Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018"; no floor price or discount/premium to market is stated. Issue price of Rs. 1,994 includes a premium of Rs. 1,984 over the Rs. 10 face value.
+- “The creation, issue, and offer of 4,78,435 equity shares of the Company, of face value of Rs. 10/- (Rupees Ten) each fully paid up ("Equity Shares"), through preferential issue on private placement basis, for cash consideration, to AP Jupiter Holdings II, Ltd. ("Proposed Allottee")”
+- filing: [Outcome of the Board Meeting held on Saturday, August 22, 2026](https://nsearchives.nseindia.com/corporate/TEGA_22082026111332_Outcome_of_Board_Meeting_sd.pdf)
+
+**UNIONBANK — Union Bank of India** · rights offering · 3 filing(s), 2026-05-26 → 2026-05-26
+- purpose: not stated (Capital Plan of the Bank to raise capital)
+- “Raising of equity capital not exceeding ₹ 3,000 Crore in tranche(s) within the overall limit of ₹ 8,000 Crore , through Public Issue (i.e. F urther Public Offer) and/or Rights Issue and/or Private Placements including Qualified Institutions Placements and/or Preferential Allotment or a combination(s) thereof to any eligible institutions and/or through any other mode(s) subject to the approval of Government of India, other regulatory authorities and approval of Shareholders of the Bank .”
+- filing: [Outcome of the Meeting of Board of Directors held on May 26, 202 6.](https://nsearchives.nseindia.com/corporate/UNIONBANK_26052026143438_BM_Outcome_Capital_Plan.pdf)
+
+**VIPIND — V.I.P. Industries Ltd.** · rights offering · 2 filing(s), 2025-10-23 → 2026-09-18
+- purpose: Accelerate ongoing growth initiatives, fund working capital, enhance capabilities supporting long-term value creation and market leadership in the luggage and travel ecosystem
+- “not stated”
+- filing: [VIP Industries Limited has informed the Exchange that the Board its meeting held today, i.e., Friday, September 18, 2026](https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_18092026160937_SEUpload.pdf)
+
+**ZYDUSLIFE — Zydus Lifesciences Ltd.** · rights offering · 1 filing(s), 2025-11-06 → 2025-11-06
+- “OFFER TO BUYBACK NOT EXCEEDING 87,30,158 (EIGHTY SEVEN LAKH THIRTY THOUSAND ONE HUNDRED AND FIFTY EIGHT) FULLY PAID-UP EQUITY SHARES OF THE COMPANY, HAVING FACE VALUE OF INR 1/- (INDIAN RUPEE ONE ONLY) EACH ("EQUITY SHARES"), REPRESENTING 0.87% OF THE TOTAL NUMBER OF EQUITY SHARES IN THE PAID-UP SHARE CAPITAL OF THE COMPANY, FROM THE EQUITY SHAREHOLDERS/ BENEFICIAL OWNERS OF EQUITY SHARES OF THE COMPANY AS ON MAY 29, 2026 ("RECORD DATE") ON A PROPORTIONATE BASIS, THROUGH THE "TENDER OFFER" ROUTE AT A PRICE OF INR 1,260/- (INDIAN RUPEES ONE THOUSAND TWO HUNDRED AND SIXTY ONLY) PER EQUITY SHARE, PAYABLE IN CASH”
+- filing: [Outcome of the meeting of the Board of Directors of Zydus Lifesciences Limited (“the](https://nsearchives.nseindia.com/corporate/Cadilahc_06112025130423_OutcomeofBM_Others.pdf)
+
+</details>
+
 ## Indicated on the calls, not yet filed
 
 Companies whose management used forward-looking spin-off / demerger / listing language in the last 12 months of calls but have no restructuring filing on file.
@@ -8000,28 +10610,23 @@ Companies whose management used forward-looking spin-off / demerger / listing la
 | Company | Forward-looking / all mentions | Latest forward call | Example |
 |---|---:|---|---|
 | **GODREJAGRO** | 6 / 8 | Feb 2026 | “…ers. So I think that is the way we'll come back to you, but those are the pie ces we are keeping in mind. Regarding whether there will be a demerger or whether value unlock, I think those are pieces ” |
-| **IIFL** | 5 / 7 | May 2026 | “…Jain: No, even Samasta can get separated, so there will be demerger, there will be three entities. Yash: Okay. Okay. So just to clarify, if you demerge, you'll demerge into three entities, right? Nir” |
 | **DBL** | 4 / 4 | Feb 2026 | “…our company, we will obviously come and also discuss the various options and opportunities that can be done. The hiving off, let's say, coal business is -- or demerging of that business is -- a part ” |
 | **SBIN** | 4 / 4 | May 2026 | “…e results better than expected because I have been present and looking at the transcript, saw it as a knee jerk reaction but with your clarification and lot of value unlocking hopefully your directio” |
 | **HINDPETRO** | 3 / 3 | Oct 2025 | “…mulated losses that you'll have to absorb. So Vikas, I want your thoughts on at an overall portfolio level, how should one think about HPCL from a deleveraging/value unlocking perspective or capital ” |
-| **HINDZINC** | 3 / 3 | Jul 2026 | “…ate. We really can't get any update on what government will do. Pratim Roy: Okay, sir. Okay. And secondly, is there any change in the dividend policy after the demerger happen ed at Vedanta . So how ” |
 | **QUESS** | 2 / 9 | May 2026 | “…. That would be a medium term. So, that is how we should kind of look at it. To your question on the discontinued project, as you would remember, closer to our demerger timeline, we had said any busi” |
 | **DEEPAKFERT** | 2 / 7 | Jun 2026 | “…comes from the line of Parth Kotak with Plus91 Asset Management. Parth Kotak: Most of my questions have been answered. Sir, a couple of questions. One, on the demerger front, any expected time lines?” |
 | **SURYAROSNI** | 2 / 4 | Jun 2026 | “…ta from Countercyclical Investments. Please go ahead. Love Gupta: Thank you for the opportunity, sir. So, I wanted to understand if there is any update on the demerger of the Lighting and Consumer Du” |
-| **DCMSHRIRAM** | 2 / 3 | Jan 2026 | “…Madha from Unifi Capital. Please go ahead. Ahmed Madha : Thanks for the opportunity. F irstly, on taking the previous participant on the restructuring/demerger spin-off, can you give broad sense of t” |
-| **AXISCADES** | 2 / 2 | Jun 2026 | “…fer immediately, or will we run it until June 2027? And is the PAT target for FY30 underscoring the total potential? Mr. Shashidhar S.K.: It is structured as a slump sale to the Akkodis entity in Ind” |
 | **KRBL** | 2 / 2 | Nov 2025 | “…ess will be shifted into that subsidiary company. Hitesh Goel : But sir, subsidiary also the funds will flow from KRBL only, right? I mean can't we do a proper demerger? Anoop Kumar Gupta: Yes, funds” |
 | **SAATVIKGL** | 2 / 2 | Feb 2026 | “…r answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin. And so the value unlocking from cell manufacturing” |
 | **ABLBL** | 1 / 5 | Feb 2026 | “…ization area for this fundraise and by when are you looking to, when are you intending to raise it? Management: Thanks, Vidisha. Yeah, you know, at the time of demerger, the company got the borrowing” |
 | **GROWW** | 1 / 2 | Apr 2026 | “…formula, but it's difficult to predict how much will be the real revenue growth in the next year. Neeraj Toshniwal: Okay, got it. And on the -- if you want to carve out the cost of acquisition like t” |
 | **KIRLOSENG** | 1 / 2 | Nov 2025 | “…tisfying. On October 10, we announced the restructuring of our B2C business. The Board approved the transfer of B2C business within KOEL stand- alone by way of slump sale as a growing conc ern to its” |
-| **SUDARSCHEM** | 1 / 2 | Feb 2026 | “…help to increase my share. Chetan Cholera: Yes. My second question is, what's your long-term strategy of whole Heubach operation? Is there any plan to merge or hive off some of the operation or dives” |
 
 ---
 
 ## How this was built
 
-- **Filings:** NSE's corporate-announcements feed read month by month for the 2025-10-08 → 2026-10-07 window and filtered to the 750 official NiftyTotalMarket constituents; BSE via its daily RSS (accumulating) and the BSE-sourced per-company lists on screener.in. Each filing is classified by category and headline, its attachment reduced to text and re-classified from the text. Stored in `IndividualStockAnalysis/India/Announcements/NiftyTotalMarket/`.
+- **Filings:** NSE's corporate-announcements feed read month by month for the 2025-10-08 → 2026-10-12 window and filtered to the 750 official NiftyTotalMarket constituents; BSE via its daily RSS (accumulating) and the BSE-sourced per-company lists on screener.in. Each filing is classified by category and headline, its attachment reduced to text and re-classified from the text. Stored in `IndividualStockAnalysis/India/Announcements/NiftyTotalMarket/`.
 - **Confidence:** confirmed = a Demerger / Scheme filing or a scheme text that demerges is on the exchange record; probable = a subsidiary listing in motion or a scheme whose nature the documents do not settle; indicated = news verification, denial or calls alone.
 - **Listing:** from the record date and listing filings; where neither exists, what the filings and calls say about timing, or that nothing is stated. The 4–10 week note is the typical gap between record date and listing seen in these filings, not a forecast.
 - **Rationale:** every passage in the last 36 months of the stored calls where the separation was discussed, plus the scheme's rationale section, read by the judge; each point links to its transcript. Transcripts and presentations are indexed in `InvestorPresentations/NiftyTotalMarket/_concall_links.csv`.
