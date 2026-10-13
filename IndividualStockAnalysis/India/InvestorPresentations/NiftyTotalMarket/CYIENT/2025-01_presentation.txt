@@ -1,0 +1,485 @@
+
+=== page 1 ===
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                               CIN: L72200TG1991PLC013134 
+                            Units Layout, Madhapur                                        www.cyient.com 
+                            Hyderabad -500 081                                               Company.secretary@cyient.com 
+                            India                                                                        T +91 40 6764 1000  
+                                                                                                             F +91 40 2311 0352    23 January 2025 
+ 
+BSE Limited                                                                     
+PJ Towers                                                                         Dalal Street                                                                      Mumbai 400001 Scrip Code: 532175 National Stock Exchange of India Ltd                           
+Exchange Plaza            Bandra-Kurla Complex, Bandra(E)                                Mumbai-400 051 Scrip Code: CYIENT 
+ 
+  Dear Sir,    Sub: Investor Presentation  
+Please find enclosed Investor Presentation issued  by the Company on the Financial Results for the 
+quarter and nine months ended 31 December 2024. 
+ 
+  The above announcement will be made  available on the Company’s website www.cyient.com   
+ 
+  This is for your information and records. 
+ 
+  Thanking you   For Cyient Limited  
+ 
+  Ravi Kumar Nukala 
+  Dy. Company Secretary  
+         
+   
+=== page 2 ===
+INVESTOR
+PRESENT A TION
+Q3 FY25
+=== page 3 ===
+©  CYIENT 2025 |  ConfidentialThe information shared herein isstrictly confidential, proprietary and unique to the company .
+Itisonly made and shared for the purpose and extent itisintended for and no other .Usage orsharing
+of the said information inany form, directly or indirectly and inany manner whatsoever, might
+constitute aviolation oflaws orregulations invogue ingeographies inwhich the company operates,
+besides breaching confidentiality .The users shall meet any liability emanating from such violation and
+shall indemnify company for any loss, damage, expense, penalty, fine, fee, charges incurred by
+company on account ofany such violation .Confidentiality Statement
+2
+=== page 4 ===
+©  CYIENT 2025 |  Confidential
+KRISHNA BODANAPU
+Executive Vice -Chairman & 
+Managing DirectorPRABHAKAR ATLA
+President & CFO
+Leadership Team
+3
+=== page 5 ===
+©  CYIENT 2025 |  ConfidentialBusiness Highlights 
+•DET (Digital, Engineering & 
+Technology)
+•Group•BU performance
+•Business Outlook•Business Highlights for 
+the Group
+AnnexuresFinancial Highlights DET Business Update
+4
+
+=== page 6 ===
+©  CYIENT 2025 |  ConfidentialBusiness Highlights 
+•DET (Digital, Engineering & 
+Technology)
+•Group•BU performance
+•Business Outlook•Business Highlights for 
+the Group
+AnnexuresFinancial Highlights DET Business Update
+5
+=== page 7 ===
+©  CYIENT 2025 |  ConfidentialOrganisational Update
+6• Mr. Karthikeyan Natarajan has resigned as Executive Director and Chief Executive Officer of Cyient 
+Limited effective immediately . We are grateful to Karthik for his contributions and commitment to 
+the long -term success of the business, and we wish him the best for his future endeavours.
+• Mr. Krishna Bodanapu has taken charge of the operations of the business for the interim. We will 
+revert to you once we have further developments.
+=== page 8 ===
+©  CYIENT 2025 |  ConfidentialBusiness Highlights for the Quarter
+7•Launched our new office in Sydney which can accommodate 100+ associates and enable Cyient to deepen its partnerships with 
+leading connectivity providers
+•The new office positions the company to explore and expand opportunities in additional sectorsExpanding global footprint –Sydney office•Inaugurated a Center of Excellence ( CoE ) at our Manikonda 
+campus which will focus on developing next generation 
+magnetic sensors and power semiconductor products for the 
+Automotive Industry
+•Specializing in key areas such as post silicon validation, design 
+verification, analog design, analog mixed -signal verification, 
+and embedded systems
+•Focus on accelerating the development of Allegro 
+MicroSystems's sensor and power integrated circuit (IC) 
+product portfolios, which are essential components in 
+electric vehicles, advanced driver -assistance systems (ADAS)
+and other automotive applicationsPartnership with Allegro MicroSystems to Drive 
+Innovation in Magnetic Sensors & Power Semiconductors
+•Our Founder Chairman, Dr. B.V.R. Mohan Reddy, has been 
+honored with the prestigious Golden Peacock Award for 
+Lifetime Achievement and Leadership in Technological 
+Innovations by the Institute of Directors (IOD). The award 
+recognizes Dr. Reddy’s visionary contributions to technology 
+and his lasting impact on the engineering and innovation 
+landscape
+•Dr. B.V.R. Mohan Reddy has also received The Institute of 
+Company Secretaries of India (ICSI) Life Time Achievement 
+Award for ‘Translating Excellence in Corporate Governance 
+into Reality’ . The jury for the award was headed by Hon’ble Mr. 
+Justice P. Sathasivam , Former Chief Justice of IndiaLife time Achievement Awards –Founder Chairman 
+Dr. B.V.R. Mohan Reddy
+=== page 9 ===
+©  CYIENT 2025 |  ConfidentialBusiness Highlights 
+•DET (Digital, Engineering & 
+Technology)
+•Group•BU performance
+•Business Outlook•Business Highlights for 
+the Group
+AnnexuresFinancial Highlights DET Business Update
+8
+=== page 10 ===
+©  CYIENT 2025 |  Confidential• Cyient Group Business Segments:
+• Cyient DET
+• Cyient DLM
+• Cyient Others
+• Cyient DET Business Units:
+• Transportation
+• Connectivity
+• Sustainability
+• New Growth AreasGlossary
+9
+=== page 11 ===
+©  CYIENT 2025 |  Confidential13.5 % 175.2 M$1,480 cr₹
+EBIT
+-72 bps QoQ | -251 bps YoYRevenue ( $)
+PAT
+-29.9% QoQ | -28.3% YoYFCF
++38.7% QoQ | +27.3% YoY245 cr₹
+EPS
+-30.0% QoQ | -28.5% YoY11.25 ₹ 124 Cr₹+2.1% QoQ | -0.8% YoY +2.4% cc QoQ | -1.9% cc YoYRevenue (₹)Financial Highlights for the Quarter | DET
+10
+=== page 12 ===
+©  CYIENT 2025 |  ConfidentialEBIT^11.4 %
+Revenue ( $)228 M$
+PAT^ FCF294 cr₹
+EPS^11.65 ₹ 128 Cr₹1,926 cr₹
+Revenue ( ₹)Financial Highlights for the Quarter | Group
+-288 bps YoY +5.8% YoY +4.5% cc YoY
+-31.0% YoY +83.6% YoY -31.1% YoY
+11^Q3 FY25 Group EBIT, PAT and EPS exclude the impact of one -off M&A expenses incurred by Cyient DLM for the acquisition of Altek Electronics Inc.
+=== page 13 ===
+©  CYIENT 2025 |  ConfidentialBusiness Highlights 
+•DET (Digital, Engineering & 
+Technology)
+•Group•BU performance
+•Business Outlook•Business Highlights for 
+the Group
+AnnexuresFinancial Highlights DET Business Update
+12
+=== page 14 ===
+©  CYIENT 2025 |  ConfidentialBU Performance for the Quarter
+13
+Revenue US$ Mn Q3 FY25 QoQ (cc) QoQ ($) YoY (cc) YoY ($)
+Transportation 52.7 3.7% 3.1% -1.7% -2.1%
+Connectivity 41.1 5.7% 4.3% -0.7% -0.6%
+Sustainability 51.7 -1.3% -3.0% -10.4% -10.7%
+New Growth Areas 29.7 2.1% 1.5% 14.1% 13.6%
+DET 175.2 2.4% 1.3% -1.9% -2.2%
+Order Intake (US$ Mn)
+Particulars Q3 FY25 YoY ($)
+DET 312.3 5.0%
+Note: The Order Intake reported is the total value of all orders received during 
+the period. Some of these orders are multi year and can be executed over more 
+than 12 monthsWon 13 large deals in DET business with total contract potential of  $234.5 Mn in Q3 FY25
+=== page 15 ===
+BUSINESS OUTLOOK 
+14
+=== page 16 ===
+©  CYIENT 2025 |  ConfidentialFY25 Outlook
+15• For FY25, we expect DET revenue degrowth to be in the range of 2.7% YoY in constant currency terms
+• We expect Q4 FY25 exit EBIT margin to be in the range of 13.5%, primarily due to right shifting of revenue trajectory within 
+the year
+=== page 17 ===
+©  CYIENT 2025 |  Confidential16Contact Details:
+Phalguna Jandhyala
+M: + 91 7330604488
+E: phalguna.harijandhyala@cyient.comMayur Maniyar
+M: +91 9224126705 
+E: mayur.maniyar@cyient.comInvestor Relations Media Relations About Cyient
+Cyient (Estd :1991 ,NSE :CYIENT) partners with over 300 customers, including 30%ofthe top 100 global innovators, todeliver intelligent
+engineering for creating adigital, autonomous, and sustainable future .As acompany, Cyient iscommitted todesigning aculturally
+inclusive, socially responsible, and environmentally sustainable Tomorrow Together with our stakeholders .
+For more information, please visit www .cyient .com
+=== page 18 ===
+©  CYIENT 2025 |  ConfidentialAllthe references toCyient’s financial results inthis update pertain tothe company’s consolidated operations comprising :
+Wholly -owned and step down subsidiaries :Cyient Europe Limited ;Cyient Inc.;Cyient GmbH ;Cyient Australia Pty Ltd ;Cyient Singapore
+Private Limited ;Cyient KK;Cyient Israel India Limited ;Cyient Insights Private Limited ;Cyient Canada Inc.;Cyient Defense Services Inc;
+Cyient Benelux BV;Cyient Schweiz GmbH ;Cyient SRO ;Cyient NV;Cyient AB;Integrated Global Partners Pty Limited ;Integrated Global
+Partners Pte .Limited ;Integrated Global Partners SpA ;IGPartners South Africa (Pty) Ltd ;Workforce Delta Pty .Ltd .;Grit Consulting Pte .
+Ltd .;Celfinet -Consultoria EM Telecomunicacoes S.A.;Metemesonip, Unipessoal Lda ;Celfinet UK Telecommunications Consulting
+Services Ltd .;Celfinet Espanã Consultoria en Telecomunicaciones ;Celfinet (Brasil) -Consultoria em Telecomuni ções, Ltda, Celfinet
+Mozambique –Consultoria em Telecomunicações, Limitada ;Celfinet Mexico -Consultoria deTelecomunicaciones AS;Celfinet Germany -
+Telecommunications Consulting Services GmbH ;Sentiec Oyj ;Citec Group Oy Ab;Cyient Oy Ab (formerly known asCitec Oy Ab) ;Citec
+Engineering France Sarl ;Cyient Engineering AB (formerly known asCitec AB) ;Cyient Engineering &Information GmbH (formerly know as
+Citec Engineering &Information GmbH) ;Cyient Group France SAS (formerly known asCitec Group France SAS) ;Akilea Overseas Ltd .;
+Cyient Norway AS (formerly known asCitec Norway AS) ;Cyient Urban Microskill Centre Foundation ;Cyient Global Captive Solutions
+Private Limited ;Cyient Semiconductors Private Limited ;Cyient Project Management Consultancy –L.L.C.,Cyient Semiconductors Inc.,
+Abu Dhabi and Gulf Computers Establishment
+Partly owned subsidiaries :Cyient Solutions and Systems Private Limited ;Cyient DLM Limited ;Cyient DLM Inc, Altek Electronics LLC
+Associate entity :Azimuth AIInc.
+Joint venture entity :Infotech HAL Limited
+The income statement and cash flow provided isinthe internal MIS format .MIS format could bedifferent from the income statement and
+cash flow published aspart ofthe financial results, which isasper the statutory requirement .
+17Disclaimer
+=== page 19 ===
+18
+©  CYIENT 2025 |  Confidential
+Connect 
+With Us
+Follow us onwww.cyient.com#DesigningTomorrowTogether
+
+=== page 20 ===
+INVESTOR
+PRESENT A TION
+ANNEXURE
+Q3 FY25
+=== page 21 ===
+©  CYIENT 2025 |  ConfidentialMessage from the Management
+2
+KRISHNA BODANAPU
+Executive Vice -Chairman & 
+Managing DirectorCommenting on the results, Mr.Krishna Bodanapu, Executive Vice Chairman and Managing Director, said
+“Cyient Group witnessed positive Q3FY25 results, with quarterly Group revenue atUS$228 Mn, growth of
+4.5%YoY inconstant currency .
+Cyient’s Digital, Engineering and Technology (DET) business delivered revenue atUS$175 .2Mn, agrowth of
+2.4% QoQ and degrowth of 1.9% YoY inconstant currency .This was driven by growth inAerospace,
+Connectivity and New Growth Areas .The EBIT margin for DET stood at13.5%,acontraction of72 bps QoQ ,
+largely led bywage increases and currency headwinds .Our order book has witnessed astrong uptick .Order
+Intake for Q3at$312 .3Mn, isthe highest ever for Cyient DET, with aQoQ growth ofclose to100 %and YoY
+growth of5%.We have also won 13large deals inDET business with atotal contract potential of$234 .5Mn in
+Q3FY25.Our pipeline for the year has improved with large deals contributing significantly toastrong pipeline,
+positioning usfor sustainable growth inthe medium term .
+Our Semiconductor business continues towitness good traction .We have expanded our partnership with
+Allegro Microsystems and established aCenter ofExcellence (CoE )inour Manikonda campus todevelop next
+generation magnetic sensors and power semiconductor products for the automotive industry .The CoE will play
+acrucial role inaccelerating the development ofpower integrated circuit (IC) product portfolios, which are
+essential components inelectric vehicles, advanced driver -assistance systems (ADAS) and other automotive
+applications .This development strengthens Cyient's position asaleading partner for companies seeking to
+develop and manufacture cutting -edge semiconductor products .Further, Iam delighted toannounce that we
+have secured approval from our Board ofDirectors toexplore additional capital raise options for our recently
+announced Semiconductor subsidiary .This isinline with our strategy for Semiconductor business towards
+capital readiness and todrive accelerated growth inthe near -medium term .”
+=== page 22 ===
+©  CYIENT 2025 |  ConfidentialMessage from the Management
+3PRABHAKAR ATLA
+President & CFO
+Commenting on the results, Mr.Prabhakar Atla, President and Chief Financial Officer, said, “Q3FY25
+DET revenues stood atUS$175 .2Mn representing agrowth of2.4%QoQ inconstant currency terms .This
+was driven bygrowth and continued recovery, inline with our expectations, across our key Business Units .
+The EBIT margin for the quarter is13.5%,down by72 bps over Q2FY25,primarily on account ofwage
+hikes and currency headwinds .The PAT for Q3FY25 is₹124 Crores, ade-growth of30%QoQ led by
+significant negative movement inother income especially from unrealized forex losses –arising due to
+major currency movements during the quarter .The FCF stood at₹245 Crores, anincrease of39%QoQ ,
+translating into 198 %FCF toPAT conversion for the quarter .The ₹245 Crores remains our best quarter to
+date interms ofFCF performance .
+Our focused initiatives on operational performance improvement, cash collection, cost optimization and
+automation will continue, and we expect the full benefits ofimproved operational efficiency tobevisible in
+the coming quarters .“
+=== page 23 ===
+DET METRICS
+4
+=== page 24 ===
+©  CYIENT 2025 |  ConfidentialIncome Statement | DET
+5
+DET UOM Q3 FY25 Q2 FY25 Q3 FY24
+Operating Revenue $ Mn 175.2 173.0 179.2
+Operating Revenue ₹ Mn 14,799 14,496 14,914
+Cost of Revenue ₹ Mn 9,042 8,744 8,954
+Gross profit ₹ Mn 5,757 5,752 5,961
+Gross margin % 38.9% 39.7% 40.0%
+Sales and Marketing expenses ₹ Mn 820 695 621
+General and Administration expenses ₹ Mn 2,375 2,415 2,358
+EBITDA (Normalised) ₹ Mn 2,563 2,643 2,982
+EBITDA margin % 17.3% 18.2% 20.0%
+Depreciation and Amortization expenses ₹ Mn 567 584 596
+EBIT (Normalised) ₹ Mn 1,995 2,059 2,385
+EBIT margin % 13.5% 14.2% 16.0%
+Financial expenses ₹ Mn 120 183 233
+Other income ₹ Mn -218 465 94
+Profit before tax (PBT) (Normalised) ₹ Mn 1,657 2,341 2,247
+Tax ₹ Mn 419 574 519
+Profit After Tax (Normalised) ₹ Mn 1,239 1,768 1,728
+PAT margin % 8.4% 12.2% 11.6%
+Basic EPS (₹) (Normalised) ₹ 11.25 16.07 15.74
+One off/ Exceptional item (Post tax) ₹ Mn 0 0 -386
+Profit After Tax (Reported) ₹ Mn 1,239 1,768 1,342
+Basic EPS (₹) (Reported) ₹ 11.25 16.07 12.22
+=== page 25 ===
+©  CYIENT 2025 |  ConfidentialOther Income | DET
+6
+Other Income (₹ Mn)
+DET Q3 FY25 Q2 FY25 Q3 FY24
+Income from Investments 170 114 64
+Realised gains/(losses) on Fwd Contracts 1 -1 -9
+Unrealised Fx gains/(losses) -504 336 165
+Others 116 17 -125
+Total -218 465 94
+=== page 26 ===
+©  CYIENT 2025 |  ConfidentialCash Generation | DET
+7
+Cash Flow Summary (₹ Mn)
+DET Q3 FY25 Q2 FY25 Q3 FY24
+Profit before tax (Reported) 1,657 2,342 1,744
+Non-cash & non-operating items 507 716 911
+Operating profit before WC changes            2,164 3,058 2,655
+DSO Movement (Receivables) 156 70 -59
+Other WC changes               659 -614 377
+Operating CF after WC changes          2,979 2,514 2,973
+Taxes -352 -617 -911
+Capex -177 -130 -138
+FCF 2,450 1,767 1,924
+FCF to  reported PAT conversion 197.8% 100.0% 143.4%
+=== page 27 ===
+©  CYIENT 2025 |  ConfidentialCash Position for the Quarter | DET
+8
+Cash Position (₹ Mn)
+DET Q3 FY25 Q2 FY25 Q3 FY24
+Cash & Cash Equivalent including treasury investments 11,423 11,871 8,171
+Cash & Bank balances 2,348 2,841 4,948
+Investments in FDs 6,337 6,390 506
+Investment in MFs and Commercial Papers 602 441 647
+Other treasury investments 2,136 2,199 2,070
+Net Cash (₹ Mn)
+DET Q3 FY25 Q2 FY25 Q3 FY24
+Cash & Cash Equivalent including treasury investments 11,423 11,871 8,171
+Total Debt -440 -743 -6,167
+Long term borrowings 0 0 3,920
+Short term borrowings 440 743 2,247
+Net cash 10,983 11,128 2,004Notes:
+1 . Q2 FY25 cash position includes pending FY25 interim dividend disbursal of ₹1 ,331  Mn. This was disbursed in Oct'24
+=== page 28 ===
+©  CYIENT 2025 |  ConfidentialOther Metrics | DET (1/2)
+9
+Revenue by Geography (%)
+DET Q3 FY25 Q2 FY25 Q3 FY24
+Americas 49.5% 48.3% 43.9%
+Europe, Middle East, Africa 28.8% 30.1% 35.0%
+Asia Pacific (including India) 21.7% 21.6% 21.1%
+Revenue by Currency (%)
+DET Q3 FY25 Q2 FY25 Q3 FY24
+USD 46.7% 46.0% 44.0%
+EURO 15.9% 15.4% 20.7%
+GBP 5.8% 6.3% 7.9%
+AUD 10.2% 11.3% 11.3%
+Others 21.4% 21.0% 16.0%
+Revenue by Top Clients (%)
+DET Q3 FY25 Q2 FY25 Q3 FY24
+Top 5 30.1% 31.4% 29.8%
+Top 10 41.7% 43.0% 39.8%
+=== page 29 ===
+©  CYIENT 2025 |  ConfidentialOther Metrics | DET (2/2)
+10
+Employees
+DET Q3 FY25 Q2 FY25 Q3 FY24
+Total Headcount 14,378 14,799 15,678
+Technical & Pool 13,227 13,661 14,519
+Non-Technical 476 472 505
+Support 675 666 654
+Voluntary Attrition (LTM) 15.5% 15.0% 18.4%
+No. of Million $ Clients
+DET Q3 FY25 Q2 FY25 Q3 FY24
+20 Mn+ 4 4 6
+10 Mn+ 15 15 13
+5 Mn+ 30 29 36
+1 Mn+ 110 107 111
+New Clients Added 10 11 3
+Note: No. of Million $ clients are based on TTM (Trailing Twelve Months) revenue
+=== page 30 ===
+Group Balance Sheet & 
+Income Statement
+11
+=== page 31 ===
+©  CYIENT 2025 |  ConfidentialBalance Sheet Extract | Group
+12
+Exchange Rate (₹/$) Q3 FY25 Q2 FY25 Q3 FY24
+Average 84.51 83.79 83.24
+Closing 85.39 83.72 83.14
+Group Balance Sheet (₹ Mn) Q3 FY25 Q2 FY25 Q3 FY24
+ASSETS
+Non-current assets
+-     PPE, CWIP, ROU assets and Other intangible assets 11,996 11,614 12,155
+-     Goodwill 17,882 17,516 16,835
+-     Non-current investments 3,154 3,200 3,748
+-        Investment in Associate 606 0 0
+-     Deferred tax assets (net) 866 855 709
+-        Other assets 1,405 1,276 1,239
+Total - Non-current assets 35,909 34,461 34,686
+Current assets
+-     Inventories 6,371 5,304 4,909
+-     Current investments 1,135 969 647
+-     Trade receivables 14,029 13,610 13,394
+-     Cash and cash equivalents 11,234 13,825 10,580
+-     Other assets 7,158 7,342 7,675
+Total - Current assets 39,927 41,050 37,205
+ TOTAL ASSETS 75,836 75,511 71,891
+EQUITY AND LIABILITIES
+Shareholders’ funds
+-     Share capital 555 555 554
+-     Other equity and Non-controlling interest 54,812 55,301 43,432
+Total - Shareholders' funds 55,367 55,856 43,986
+Non-current liabilities
+-     Long-term borrowings 0 0 3,943
+-     Lease liabilities 2,039 2,083 2,283
+-     Long-term provisions and other liabilities 1,873 1,886 1,688
+-     Deferred tax liabilities (net) 779 792 805
+Total - Non-current liabilities 4,691 4,761 8,719
+Current liabilities
+-     Short-term borrowings 2,216 2,760 3,012
+-     Lease liabilities 834 857 846
+-     Trade payables 6,383 5,583 6,425
+-     Short-term provisions 1,174 1,092 1,101
+-     Other liabilities 5,171 4,602 7,802
+Total - Current liabilities 15,778 14,894 19,186
+TOTAL - EQUITY AND LIABILITIES 75,836 75,511 71,891
+=== page 32 ===
+©  CYIENT 2025 |  ConfidentialIncome Statement | Group
+13Note: Q3 FY25 Group normalized EBIT, PAT and EPS exclude the impact of one -off M&A expenses incurred by Cyient DLM for the acqui sition of Altek Electronics Inc.
+Group UOM Q3 FY25 Q2 FY25 Q3 FY24
+Operating Revenue $ Mn 228.0 220.7 218.8
+Operating Revenue ₹ Mn 19,264 18,491 18,215
+Cost of Revenue ₹ Mn 12,630 12,172 11,759
+Gross profit ₹ Mn 6,634 6,319 6,456
+Gross margin % 34.4% 34.2% 35.4%
+Sales and Marketing expenses ₹ Mn 867 739 634
+General and Administration expenses ₹ Mn 2,899 2,615 2,561
+EBITDA (Normalised) ₹ Mn 2,869 2,966 3,261
+EBITDA margin % 14.9% 16.0% 17.9%
+Depreciation and Amortization expenses ₹ Mn 675 660 661
+EBIT (Normalised) ₹ Mn 2,194 2,306 2,600
+EBIT margin % 11.4% 12.5% 14.3%
+Financial expenses ₹ Mn 205 275 288
+Other income ₹ Mn -166 512 188
+Profit before tax (PBT) (Normalised) ₹ Mn 1,823 2,543 2,499
+Tax ₹ Mn 481 676 582
+Profit After Tax (Normalised) ₹ Mn 1,342 1,866 1,918
+PAT margin % 7.0% 10.1% 10.5%
+Minority interest and Share of profit of Associate ₹ Mn -60 -75 -60
+Profit After Tax, MI  and Share of profit (Normalised) ₹ Mn 1,282 1,791 1,857
+Basic EPS (₹) (Normalised) ₹ 11.65 16.28 16.92
+One off/ Exceptional item (Post tax) ₹ Mn -58 0 -386
+Profit After Tax, MI  and Share of profit (Reported) ₹ Mn 1,223 1,791 1,472
+Basic EPS (₹) (Reported) ₹ 11.11 16.28 13.41
+=== page 33 ===
+©  CYIENT 2025 |  ConfidentialCyient (Estd :1991 ,NSE :CYIENT) partners with over 300 customers, including 30%ofthe top 100 global innovators, todeliver intelligent
+engineering for creating adigital, autonomous, and sustainable future .As acompany, Cyient iscommitted todesigning aculturally
+inclusive, socially responsible, and environmentally sustainable Tomorrow Together with our stakeholders .
+For more information, please visit www .cyient .com
+14About Cyient
+Contact Details:
+Mayur Maniyar
+M: +91 9224126705 
+E: mayur.maniyar@cyient.comInvestor Relations Media Relations 
+Phalguna Jandhyala
+M: + 91 7330604488
+E: phalguna.harijandhyala@cyient.com
+=== page 34 ===
+©  CYIENT 2025 |  ConfidentialAllthe references toCyient’s financial results inthis update pertain tothe company’s consolidated operations comprising :
+Wholly -owned and step down subsidiaries :Cyient Europe Limited ;Cyient Inc.;Cyient GmbH ;Cyient Australia Pty Ltd ;Cyient Singapore
+Private Limited ;Cyient KK;Cyient Israel India Limited ;Cyient Insights Private Limited ;Cyient Canada Inc.;Cyient Defense Services Inc;
+Cyient Benelux BV;Cyient Schweiz GmbH ;Cyient SRO ;Cyient NV;Cyient AB;Integrated Global Partners Pty Limited ;Integrated Global
+Partners Pte .Limited ;Integrated Global Partners SpA ;IGPartners South Africa (Pty) Ltd ;Workforce Delta Pty .Ltd .;Grit Consulting Pte .
+Ltd .;Celfinet -Consultoria EM Telecomunicacoes S.A.;Metemesonip, Unipessoal Lda ;Celfinet UK Telecommunications Consulting
+Services Ltd .;Celfinet Espanã Consultoria en Telecomunicaciones ;Celfinet (Brasil) -Consultoria em Telecomuni ções, Ltda, Celfinet
+Mozambique –Consultoria em Telecomunicações, Limitada ;Celfinet Mexico -Consultoria deTelecomunicaciones AS;Celfinet Germany -
+Telecommunications Consulting Services GmbH ;Sentiec Oyj ;Citec Group Oy Ab;Cyient Oy Ab (formerly known asCitec Oy Ab) ;Citec
+Engineering France Sarl ;Cyient Engineering AB (formerly known asCitec AB) ;Cyient Engineering &Information GmbH (formerly know as
+Citec Engineering &Information GmbH) ;Cyient Group France SAS (formerly known asCitec Group France SAS) ;Akilea Overseas Ltd .;
+Cyient Norway AS (formerly known asCitec Norway AS) ;Cyient Urban Microskill Centre Foundation ;Cyient Global Captive Solutions
+Private Limited ;Cyient Semiconductors Private Limited ;Cyient Project Management Consultancy –L.L.C.,Cyient Semiconductors Inc.,
+Abu Dhabi and Gulf Computers Establishment
+Partly owned subsidiaries :Cyient Solutions and Systems Private Limited ;Cyient DLM Limited ;Cyient DLM Inc, Altek Electronics LLC
+Associate entity :Azimuth AIInc.
+Joint venture entity :Infotech HAL Limited
+The income statement and cash flow provided isinthe internal MIS format .MIS format could bedifferent from the income statement and
+cash flow published aspart ofthe financial results, which isasper the statutory requirement .
+15Disclaimer
+=== page 35 ===
+16
+©  CYIENT 2025 |  Confidential
+Connect 
+With Us
+Follow us onwww.cyient.com#DesigningTomorrowTogether
