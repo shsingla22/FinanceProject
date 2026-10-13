@@ -617,3 +617,25 @@ def test_withdrawn_proposals_are_marked_and_bare_nclt_is_not_a_scheme():
     assert SO.verdict(s, SO.checklist(s, {}, [], TODAY))["label"].startswith("WITHDRAWN")
     assert FA.classify("Updates", "copy of the order passed by NCLT on the insolvency petition") == ("", [])
     assert FA.classify("Updates", "NCLT sanctioned the Scheme of Arrangement")[0] == "scheme_other"
+
+
+
+def test_board_meeting_purposes_and_bare_outcomes_feed_the_classifier():
+    members = {"NATCOPHARM": "Natco Pharma Ltd.", "COALINDIA": "Coal India Ltd."}
+    bm = [{"bm_symbol": "NATCOPHARM", "bm_date": "24-Mar-2026", "bm_purpose": "Scheme of arrangement",
+           "bm_desc": "To consider Scheme of arrangement (demerger)", "bm_timestamp": "24-Mar-2026 09:00:00",
+           "attachment": "https://x/n.pdf", "attFileSize": "1 MB"},
+          {"bm_symbol": "NATCOPHARM", "bm_date": "20-May-2026", "bm_purpose": "Financial Results",
+           "bm_desc": "To consider audited results", "bm_timestamp": "20-May-2026 09:00:00"},
+          {"bm_symbol": "OTHER", "bm_date": "24-Mar-2026", "bm_desc": "demerger", "bm_timestamp": "x"}]
+    rows = FA.board_meeting_rows(bm, members)
+    assert len(rows) == 1 and rows[0]["kind"] == "demerger" and rows[0]["source"] == "NSE-BM"
+    assert rows[0]["date"] == "2026-03-24" and rows[0]["ann_id"].startswith("bm")
+    assert FA.classify("General Updates", "In-principle approval of Listing of South Eastern Coalfields "
+                       "Limited (SECL), a Wholly owned subsidiary")[0] == "subsidiary_listing"
+    assert FA.classify("Record Date", "Record date fixed in consultation with the Resulting Company "
+                       "i.e. HEG Graphite Limited")[0] == "demerger"
+    assert FA.is_bare_outcome("Outcome of Board Meeting", "X Ltd has informed the Exchange about Outcome of Board Meeting")
+    assert FA.is_bare_outcome("Outcome of Board Meeting", "Outcome of Board Meeting held on 12 May 2026")
+    assert not FA.is_bare_outcome("Outcome of Board Meeting", "Outcome of Board Meeting - approval of the demerger of X")
+    assert not FA.is_bare_outcome("Updates", "Outcome of Board Meeting")

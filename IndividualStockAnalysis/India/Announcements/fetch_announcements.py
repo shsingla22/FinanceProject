@@ -71,6 +71,13 @@ UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 NSE_API = ("https://www.nseindia.com/api/corporate-announcements"
            "?index=equities&from_date={frm}&to_date={to}")
+NSE_BM_API = ("https://www.nseindia.com/api/corporate-board-meetings"
+              "?index=equities&from_date={frm}&to_date={to}")
+BARE_OUTCOME_RX = re.compile(
+    r"^(.{0,80}informed the exchange (regarding|about) )?(the )?outcome of (the )?board meeting"
+    r"( held on [^.]{0,40})?\.?\s*$", re.I)
+DEEP_SCAN_PAGES = 4          # the first pages of a bare board outcome say what was approved
+DEEP_SCAN_MB = 12
 BSE_RSS = "https://www.bseindia.com/data/xml/announcements.xml"
 SCREENER = "https://www.screener.in"
 MAX_PDF_MB = 25
@@ -89,6 +96,7 @@ FIELDS = ["date", "symbol", "company", "source", "category", "kind", "tags",
 PATTERNS = {
     "demerger": re.compile(
         r"\bde-?merg|spin[\s-]?off|hiv(e|ing)[\s-]?off|carve[\s-]?out|"
+        r"resulting compan|demerged compan|"
         r"separat(e|ion) (of )?(the |its )?\w* ?business|"
         r"scheme of arrangement.*demerg|demerg.*scheme of arrangement|"
         r"value[\s-]?unlock"),
@@ -96,6 +104,8 @@ PATTERNS = {
         r"(ipo|initial public offer|public (issue|offer)|offer for sale|"
         r"listing) (of|for) (its |the |a |our )?(material |wholly[- ]owned |"
         r"step[- ]down )?(subsidiar|arm|unit)|"
+        r"(in[- ]principle approval (of|for) )?listing of [a-z0-9][\w &.()-]{2,80}?,? (a |the |its )?"
+        r"(wholly[- ]owned |material |step[- ]down )?subsidiar|"
         r"(subsidiar|arm)\w*.{0,60}\b(ipo|initial public offer|draft red "
         r"herring|drhp|listing of (its|the) (equity )?shares)|"
         r"\bdrhp\b"),
@@ -209,6 +219,79 @@ def nse_fetch(frm: dt.date, to: dt.date) -> list[dict]:
     if not isinstance(data, list):
         raise RuntimeError(f"NSE feed {frm}→{to}: unexpected payload")
     return data
+
+
+def nse_board_meetings(frm: dt.date, to: dt.date) -> list[dict]:
+    """The board-meeting PURPOSES NSE publishes — 'to consider a Scheme
+    of Arrangement (demerger)' is often the first word of a spin-off."""
+    url = NSE_BM_API.format(frm=frm.strftime("%d-%m-%Y"), to=to.strftime("%d-%m-%Y"))
+    code, body = _get(url, timeout=180, headers={
+        "Accept": "application/json",
+        "Referer": "https://www.nseindia.com/companies-listing/corporate-filings-board-meetings"})
+    if code != 200 or not body:
+        raise RuntimeError(f"NSE board meetings {frm}→{to}: HTTP {code}")
+    data = json.loads(body)
+    return data if isinstance(data, list) else []
+
+
+def board_meeting_rows(feed: list[dict], members: dict[str, str]) -> list[dict]:
+    """Board-meeting intimations whose stated purpose is a restructuring."""
+    out = []
+    for m in feed:
+        sym = (m.get("bm_symbol") or "").strip()
+        if sym not in members:
+            continue
+        purpose = re.sub(r"\s+", " ", f"{m.get('bm_purpose') or ''} {m.get('bm_desc') or ''}").strip()
+        kind, tags = classify("Board Meeting", purpose)
+        if not kind:
+            continue
+        date = _nse_date(m.get("bm_date") or "")
+        out.append({"date": date, "symbol": sym, "company": members[sym], "source": "NSE-BM",
+                    "category": "Board Meeting (purpose)", "kind": kind, "tags": "|".join(tags),
+                    "headline": purpose, "attachment": m.get("attachment") or "",
+                    "ann_id": f"bm{re.sub(r'[^0-9]', '', m.get('bm_timestamp') or date)}{sym}",
+                    "file_size": m.get("attFileSize") or "", "text_file": ""})
+    return out
+
+
+def is_bare_outcome(category: str, headline: str) -> bool:
+    return category == "Outcome of Board Meeting" and bool(BARE_OUTCOME_RX.match((headline or "").strip()))
+
+
+def deep_scan_row(r: dict, members: dict[str, str]) -> dict | None:
+    """A bare 'Outcome of Board Meeting' says nothing in its headline; its
+    first pages say what the board approved. Read them, classify, and keep
+    the filing if it is a restructuring."""
+    url = r.get("attchmntFile") or ""
+    if not url.lower().endswith(".pdf") or _size_mb(r.get("attFileSize", "")) > DEEP_SCAN_MB:
+        return None
+    code, body = _get(url, timeout=90, headers={"Referer": "https://www.nseindia.com/",
+                                                 "Accept": "application/pdf,*/*"})
+    if code != 200 or body[:4] != b"%PDF":
+        return None
+    import PyPDF2                                   # noqa: PLC0415
+    try:
+        reader = PyPDF2.PdfReader(io.BytesIO(body), strict=False)
+        head = "\n".join((pg.extract_text() or "") for pg in reader.pages[:DEEP_SCAN_PAGES])
+    except Exception:                               # noqa: BLE001
+        return None
+    kind, tags = classify("Outcome of Board Meeting (deep scan)", head[:6_000])
+    if not kind:
+        return None
+    sym = r["symbol"].strip()
+    subject = re.search(r"(?i)(sub(ject)?\s*:|re\s*:)\s*(.{10,220}?)\n", head)
+    out = {"date": _nse_date(r.get("an_dt") or ""), "symbol": sym, "company": members[sym],
+           "source": "NSE-deep", "category": "Outcome of Board Meeting", "kind": kind,
+           "tags": "|".join(tags),
+           "headline": re.sub(r"\s+", " ", (subject.group(3) if subject else head[:200])).strip(),
+           "attachment": url, "ann_id": str(r.get("seq_id") or r.get("dt") or ""),
+           "file_size": r.get("attFileSize") or "", "text_file": ""}
+    TEXT_DIR.mkdir(parents=True, exist_ok=True)
+    path = TEXT_DIR / f"{sym}_{re.sub(r'[^A-Za-z0-9_-]', '_', out['ann_id'])[:40]}.txt"
+    if not path.exists():
+        path.write_text(pdf_text(body) or "(no extractable text)")
+    out["text_file"] = str(path.relative_to(OUT_DIR))
+    return out
 
 
 def _nse_date(s: str) -> str:
@@ -440,7 +523,7 @@ def merge_rows(old: list[dict], new: list[dict]) -> list[dict]:
 
 def run(days: int = 365, bse: bool = True, pdf: bool = True,
         only: set[str] | None = None, workers: int = 4,
-        today: dt.date | None = None) -> dict:
+        today: dt.date | None = None, deep: bool = True) -> dict:
     today = today or dt.date.today()
     members = universe()
     if only:
@@ -456,6 +539,7 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
     # ---- NSE, month by month
     rows: list[dict] = []
     total = 0
+    bare: list[dict] = []
     for a, b in month_windows(today, days):
         try:
             feed = nse_fetch(a, b)
@@ -465,10 +549,36 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
         got = nse_rows(feed, members)
         total += len(feed)
         rows += got
+        if deep:
+            bare += [r for r in feed if (r.get("symbol") or "").strip() in members
+                     and is_bare_outcome(r.get("desc") or "", r.get("attchmntText") or "")]
         note("nse", f"{a}→{b}: {len(feed)} filings, {len(got)} restructuring "
                     f"rows for the universe")
         time.sleep(DELAY)
     note("nse", f"total {total} filings read, {len(rows)} kept")
+    # ---- board-meeting purposes: the earliest word of a scheme
+    try:
+        bm = []
+        for a, b in month_windows(today, days):
+            bm += nse_board_meetings(a, b)
+            time.sleep(DELAY)
+        got = board_meeting_rows(bm, members)
+        rows += got
+        note("nse-bm", f"{len(bm)} board-meeting intimations read, {len(got)} restructuring purposes kept")
+    except Exception as e:                            # noqa: BLE001
+        note("nse-bm", f"FAILED: {e}")
+    # ---- deep scan: bare 'Outcome of Board Meeting' PDFs, first pages
+    if deep and bare:
+        known = {(r["source"], r["ann_id"]) for r in read_csv(MATCHES)}
+        todo = [r for r in bare if ("NSE-deep", str(r.get("seq_id") or r.get("dt") or "")) not in known]
+        note("deep", f"{len(bare)} bare board outcomes in the universe, {len(todo)} not yet scanned")
+        found = 0
+        with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+            for res in ex.map(lambda r: deep_scan_row(r, members), todo):
+                if res:
+                    rows.append(res)
+                    found += 1
+        note("deep", f"{found} bare outcomes turned out to be restructuring filings")
 
     # ---- BSE: codes, RSS snapshot, screener lists
     if bse:
@@ -583,7 +693,12 @@ NiftyTotalMarket constituents · **Rows:** {n_rows} filings across {n_cos} compa
 NSE's corporate-announcements API is read month by month for the whole
 exchange and filtered to the universe — this is the complete one-year
 record, since every member is NSE-listed and Regulation 30 disclosures
-go to both exchanges. BSE's announcement API refuses this environment
+go to both exchanges. Two more NSE sources close the headline blind spot:
+the board-meeting PURPOSES feed (`source` NSE-BM — "to consider a scheme
+of arrangement (demerger)" is often the first word), and a DEEP SCAN of
+every bare "Outcome of Board Meeting" filing (`source` NSE-deep): its
+first pages are read and the filing kept when they describe a
+restructuring. BSE's announcement API refuses this environment
 (Akamai), so BSE is covered by its daily RSS feed (accumulating forward
 from the first run) and by the BSE-sourced per-company lists on
 screener.in; BSE attachment PDFs download normally.
@@ -599,10 +714,12 @@ def main() -> None:
     ap.add_argument("--no-pdf", action="store_true")
     ap.add_argument("--only", default="")
     ap.add_argument("--workers", type=int, default=4)
+    ap.add_argument("--no-deep", action="store_true",
+                    help="skip reading the first pages of bare board outcomes")
     a = ap.parse_args()
     only = {s.strip().upper() for s in a.only.split(",") if s.strip()} or None
     run(days=a.days, bse=not a.no_bse, pdf=not a.no_pdf, only=only,
-        workers=a.workers)
+        workers=a.workers, deep=not a.no_deep)
 
 
 if __name__ == "__main__":
