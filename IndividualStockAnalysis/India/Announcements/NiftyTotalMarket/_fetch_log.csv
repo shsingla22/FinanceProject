@@ -1,20 +1,18 @@
 stage,detail,at
-nse,"2025-10-08→2025-10-31: 9073 filings, 33 restructuring rows for the universe",2026-10-13T03:16:01+00:00
-nse,"2025-11-01→2025-11-30: 16557 filings, 74 restructuring rows for the universe",2026-10-13T03:16:05+00:00
-nse,"2025-12-01→2025-12-31: 10341 filings, 63 restructuring rows for the universe",2026-10-13T03:16:09+00:00
-nse,"2026-01-01→2026-01-31: 12702 filings, 49 restructuring rows for the universe",2026-10-13T03:16:14+00:00
-nse,"2026-02-01→2026-02-28: 16377 filings, 53 restructuring rows for the universe",2026-10-13T03:16:19+00:00
-nse,"2026-03-01→2026-03-31: 11043 filings, 77 restructuring rows for the universe",2026-10-13T03:16:24+00:00
-nse,"2026-04-01→2026-04-30: 12513 filings, 64 restructuring rows for the universe",2026-10-13T03:16:28+00:00
-nse,"2026-05-01→2026-05-31: 20735 filings, 94 restructuring rows for the universe",2026-10-13T03:16:34+00:00
-nse,"2026-06-01→2026-06-30: 14545 filings, 73 restructuring rows for the universe",2026-10-13T03:16:38+00:00
-nse,"2026-07-01→2026-07-31: 16954 filings, 91 restructuring rows for the universe",2026-10-13T03:16:43+00:00
-nse,"2026-08-01→2026-08-31: 21026 filings, 79 restructuring rows for the universe",2026-10-13T03:16:48+00:00
-nse,"2026-09-01→2026-09-30: 17127 filings, 76 restructuring rows for the universe",2026-10-13T03:16:54+00:00
-nse,"2026-10-01→2026-10-13: 4912 filings, 23 restructuring rows for the universe",2026-10-13T03:16:57+00:00
-nse,"total 183905 filings read, 849 kept",2026-10-13T03:16:57+00:00
-nse-bm,"23225 board-meeting intimations read, 66 restructuring purposes kept",2026-10-13T03:17:16+00:00
-deep,"885 bare board outcomes in the universe, 885 not yet scanned",2026-10-13T03:17:16+00:00
-deep,156 bare outcomes turned out to be restructuring filings,2026-10-13T03:23:34+00:00
-text,fetching text for 101 attachments,2026-10-13T03:23:34+00:00
-text,1192 attachments with text on file,2026-10-13T03:24:10+00:00
+nse,"2025-10-08→2025-10-31: 9073 filings, 48 restructuring rows for the universe",2026-10-13T03:40:52+00:00
+nse,"2025-11-01→2025-11-30: 16557 filings, 95 restructuring rows for the universe",2026-10-13T03:40:56+00:00
+nse,"2025-12-01→2025-12-31: 10341 filings, 84 restructuring rows for the universe",2026-10-13T03:41:00+00:00
+nse,"2026-01-01→2026-01-31: 12702 filings, 68 restructuring rows for the universe",2026-10-13T03:41:05+00:00
+nse,"2026-02-01→2026-02-28: 16377 filings, 69 restructuring rows for the universe",2026-10-13T03:41:10+00:00
+nse,"2026-03-01→2026-03-31: 11043 filings, 93 restructuring rows for the universe",2026-10-13T03:41:15+00:00
+nse,"2026-04-01→2026-04-30: 12513 filings, 83 restructuring rows for the universe",2026-10-13T03:41:19+00:00
+nse,"2026-05-01→2026-05-31: 20735 filings, 103 restructuring rows for the universe",2026-10-13T03:41:25+00:00
+nse,"2026-06-01→2026-06-30: 14545 filings, 96 restructuring rows for the universe",2026-10-13T03:41:30+00:00
+nse,"2026-07-01→2026-07-31: 16954 filings, 97 restructuring rows for the universe",2026-10-13T03:42:07+00:00
+nse,"2026-08-01→2026-08-31: 21026 filings, 94 restructuring rows for the universe",2026-10-13T03:42:14+00:00
+nse,"2026-09-01→2026-09-30: 17127 filings, 89 restructuring rows for the universe",2026-10-13T03:42:19+00:00
+nse,"2026-10-01→2026-10-13: 4914 filings, 33 restructuring rows for the universe",2026-10-13T03:42:22+00:00
+nse,"total 183907 filings read, 1052 kept",2026-10-13T03:42:23+00:00
+nse-bm,"23225 board-meeting intimations read, 87 restructuring purposes kept",2026-10-13T03:42:59+00:00
+text,fetching text for 292 attachments,2026-10-13T03:42:59+00:00
+text,1426 attachments with text on file,2026-10-13T03:45:22+00:00
