@@ -452,6 +452,11 @@ def render_company(s: dict, heavy: bool) -> list[str]:
     return A + render_light_tail(s)
 
 
+def _short(x, n: int = 70) -> str:
+    x = str(x or "—").replace("|", "/").replace("\n", " ")
+    return x if len(x) <= n else x[:n - 1] + "…"
+
+
 def _buyers(o: dict, f: dict) -> str:
     """One cell: who is buying, promoters first."""
     al = [a for a in (o.get("allottees") or []) if isinstance(a, dict) and a.get("name")]
@@ -498,7 +503,8 @@ def render_offerings(offs: list[dict]) -> list[str]:
         if judged and o.get("promoter_share_of_issue") not in (None, "", "not stated"):
             prom_in += f" ({o['promoter_share_of_issue']})"
         stage = o.get("stage") if judged and o.get("stage") != "not stated" else s["stage"]
-        A.append(f"| **{s['symbol']}** | {instrument or '—'} | {size} | {price} | {_buyers(o, f)} | {prom_in} | {stage} | {s['latest_filing']} |")
+        A.append(f"| **{s['symbol']}** | {instrument or '—'} | {_short(size)} | {_short(price)} | {_buyers(o, f)} | "
+                 f"{_short(prom_in, 60)} | {stage} | {s['latest_filing']} |")
     A.append("")
     A += ["<details><summary>Each offering, with the filing's own words</summary>", ""]
     for s in sorted(offs, key=key):
