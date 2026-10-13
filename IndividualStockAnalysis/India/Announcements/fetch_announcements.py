@@ -106,7 +106,8 @@ PATTERNS = {
         r"reduction of (share )?capital|capital reduction|buy[\s-]?back"),
     "rights_issue": re.compile(r"rights? (issue|offering|entitlement)|letter of offer"),
     "scheme_other": re.compile(r"scheme of arrangement|composite scheme|"
-                               r"\bnclt\b|national company law tribunal"),
+                               r"(\bnclt\b|national company law tribunal).{0,80}scheme|"
+                               r"scheme.{0,80}(\bnclt\b|national company law tribunal)"),
 }
 KIND_ORDER = ["demerger", "subsidiary_listing", "slump_sale", "merger",
               "capital_reduction", "rights_issue", "scheme_other"]

@@ -567,8 +567,10 @@ def test_resulting_company_never_the_parent_and_listing_has_a_short_form():
 
 
 def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
-    text = "amalgamation amalgamation amalgamation merger of Sesa into Dabur; " + "demerger " * 3
-    assert SO.refine_kind({"kind": "merger"}, text) == "merger"
+    # a composite scheme that demerges AND amalgamates is a demerger (Cello);
+    # an amalgamation order that mentions "demerger" in passing is left to the judge
+    assert SO.refine_kind({"kind": "scheme_other"}, "demerger " * 15 + "amalgamation " * 16) == "demerger"
+    assert SO.refine_kind({"kind": "merger"}, "amalgamation " * 12 + "demerger " * 3) == "merger"
     assert SO.refine_kind({"kind": "scheme_other"}, "demerger " * 6 + "amalgamation " * 2) == "demerger"
     sit = {"kind": "demerger", "stage": "exchange_noc", "facts": {}, "days_since_first": 10,
            "listed_on": None, "days_since_listing": None, "reasons": [], "headlines": []}
@@ -579,6 +581,15 @@ def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
     j2 = {"status": "judged", "what_is_spun": "Ice cream business demerged into Kwality Wall's",
           "parent_or_spin": "spin", "selling_pressure": "likely", "reason": "focus"}
     assert SO.judge_override(sit, j2) is None
+    # Prestige: a subsidiary IPO whose DRHP was withdrawn is NOT an amalgamation
+    j3 = {"status": "judged", "what_is_spun": "Subsidiary Prestige Hospitality Ventures via IPO; DRHP now withdrawn",
+          "parent_or_spin": "unclear", "selling_pressure": "unclear",
+          "reason": "Not stated for the separation itself; the DRHP was withdrawn"}
+    assert SO.judge_override({**sit, "kind": "subsidiary_listing"}, j3) is None
+    assert SO.judge_override(sit, j3) is None
+    j4 = {"status": "judged", "what_is_spun": "not stated — documents concern a Section 9 insolvency petition",
+          "parent_or_spin": "neither", "selling_pressure": "unclear", "reason": "n/a"}
+    assert SO.judge_override(sit, j4) == "merger"
     assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" means with the total revenue and net.')
 
 
@@ -590,3 +601,19 @@ def test_resulting_company_must_look_like_a_company_name():
     for bad in ('No. 1 is a public limited ("Resulting Company")', 'Essentials Limited ("Resulting Company")',
                 'the Resulting Company, i.e. Public Limited', 'Investments Limited ("Resulting Company")'):
         assert "resulting_company" not in SO.facts_in(bad), bad
+
+
+
+def test_withdrawn_proposals_are_marked_and_bare_nclt_is_not_a_scheme():
+    rows = [{"date": "2026-03-31", "symbol": "P", "company": "P Ltd", "source": "NSE", "category": "Updates",
+             "kind": "subsidiary_listing", "tags": "subsidiary_listing", "headline": "Filing of DRHP by subsidiary",
+             "attachment": "", "ann_id": "1", "file_size": "", "text_file": ""},
+            {"date": "2026-09-25", "symbol": "P", "company": "P Ltd", "source": "NSE", "category": "General Updates",
+             "kind": "subsidiary_listing", "tags": "subsidiary_listing", "headline": "Withdrawal of DRHP by Subsidiary",
+             "attachment": "", "ann_id": "2", "file_size": "", "text_file": ""}]
+    s = SO.build_situations(rows, {}, TODAY)[0]
+    assert s["stage"] == "withdrawn" and s["facts"]["withdrawn_on"] == "2026-09-25"
+    assert SO.confidence(s)[0] == "indicated" and SO.listing_status(s, {}, TODAY)["state"] == "withdrawn"
+    assert SO.verdict(s, SO.checklist(s, {}, [], TODAY))["label"].startswith("WITHDRAWN")
+    assert FA.classify("Updates", "copy of the order passed by NCLT on the insolvency petition") == ("", [])
+    assert FA.classify("Updates", "NCLT sanctioned the Scheme of Arrangement")[0] == "scheme_other"

@@ -74,8 +74,8 @@ STAGES = [
                                r"listing(?! regulations?| obligations?) .{0,60}(resulting|demerged) compan|"
                                r"allotment of (equity )?shares.{0,60}(scheme|de-?merger|resulting)", re.I)),
 ]
-STAGE_ORDER = [s for s, _ in STAGES]
-PRE_STAGES = ("rumoured", "announced", "exchange_noc", "meetings", "nclt_sanction")
+STAGE_ORDER = [s for s, _ in STAGES] + ["withdrawn"]
+PRE_STAGES = ("rumoured", "withdrawn", "announced", "exchange_noc", "meetings", "nclt_sanction")
 
 
 def stage_of(text: str) -> str | None:
@@ -151,6 +151,9 @@ UNDERTAKING_RX = re.compile(
 PROFORMA_RX = re.compile(r"pro[- ]?forma", re.I)
 NEWS_RX = re.compile(r"news verification|sought clarification|news item|rumou?r|denie[sd]|"
                      r"clarification on (news|media)", re.I)
+WITHDRAWN_RX = re.compile(r"withdraw\w*.{0,60}(drhp|scheme|demerger|proposal|offer document)|"
+                          r"(drhp|scheme|demerger|proposal).{0,60}withdraw\w*|"
+                          r"(called off|calls off|shelve[sd]|abandon\w+|decided not to proceed)", re.I)
 ESOP_RX = re.compile(r"\b(stock options?|esops?|esos|restricted stock|rsus?)\b.{0,160}?"
                      r"\b(exercise price|grant|pric\w+|adjust\w*)\b", re.I | re.S)
 INSIDER_RX = re.compile(
@@ -268,7 +271,7 @@ def refine_kind(row: dict, text: str) -> str:
     if kind in ("scheme_other", "merger", "demerger"):
         # a scheme that demerges says so more often than it amalgamates;
         # an amalgamation order that mentions "demerger" in passing does not
-        if demerg >= 3 and demerg >= amalg:
+        if demerg >= 3 and demerg >= amalg * 0.5:
             return "demerger"
         if kind == "scheme_other" and amalg >= 3:
             return "merger"
@@ -331,6 +334,8 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
                 facts.setdefault(k, v)
             if NEWS_RX.search(f"{r['category']} {r['headline']}"):
                 news_only += 1
+            if WITHDRAWN_RX.search(f"{r['category']} {r['headline']}"):
+                facts["withdrawn_on"] = r["date"]
             for rr in reasons_in(r["_text"] or r["headline"]):
                 if rr["reason"] not in seen_reasons:
                     seen_reasons.add(rr["reason"])
@@ -343,6 +348,8 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         if news_only == len(fl):
             facts["news_only"] = True        # rumour / clarification / denial only
             stage = "rumoured"
+        if facts.get("withdrawn_on") and facts["withdrawn_on"] >= last:
+            stage = "withdrawn"              # the latest word is the withdrawal
         rc = facts.get("resulting_company")
         if rc:
             rc = re.sub(r"^(in the case of|the case of|case of)\s+", "", rc, flags=re.I).strip()
@@ -675,6 +682,8 @@ def verdict(sit: dict, items: list[dict]) -> dict:
                  "slump_sale": "SLUMP SALE — cash deal, no new listing",
                  "rights_issue": "RIGHTS OFFERING — check the oversubscription clause",
                  "capital_reduction": "CAPITAL ACTION — not a spin-off"}.get(k, k.upper())
+    elif st == "withdrawn":
+        label = "WITHDRAWN — the proposal was pulled; watch for a return"
     elif st == "rumoured":
         label = "RUMOURED — news verification / denial only; no scheme filed"
     elif st in ("announced", "exchange_noc", "meetings", "nclt_sanction"):
@@ -728,6 +737,8 @@ def confidence(sit: dict) -> tuple[str, str]:
     verification or calls alone."""
     if sit["facts"].get("news_only") or sit["stage"] == "rumoured":
         return "indicated", "news verification / denial only — no scheme filed"
+    if sit["stage"] == "withdrawn":
+        return "indicated", f"proposal withdrawn on {sit['facts'].get('withdrawn_on', '')}"
     heads = sit.get("headlines", [])
     scheme_filed = any(h["category"] in SCHEME_CATEGORIES or h["kind"] == "demerger"
                        for h in heads)
@@ -760,6 +771,9 @@ def listing_status(sit: dict, judge: dict | None = None,
     if sit["kind"] not in SPIN_KINDS:
         return {"state": "not_a_spin", "short": "no new listing",
                 "text": "no new listing — " + family_of(sit["kind"])}
+    if st == "withdrawn":
+        return {"state": "withdrawn", "short": f"WITHDRAWN {f.get('withdrawn_on', '')}",
+                "text": f"WITHDRAWN on {f.get('withdrawn_on', '')} — the proposal was pulled; no listing"}
     if st == "rumoured":
         return {"state": "no_scheme", "short": "no scheme filed",
                 "text": "no scheme filed; listing not in prospect" + (f" — on the calls: {tl}" if tl else "")}
@@ -785,9 +799,11 @@ def listing_status(sit: dict, judge: dict | None = None,
 
 
 NOT_A_DEMERGER_RX = re.compile(
-    r"\b(not|no|nothing|neither)\b.{0,40}\b(de-?merger|spin|separat)|"
     r"amalgamat\w+ (of .{0,80} )?into|merg\w+ (of .{0,80} )?into|"
-    r"describes? (an? )?(amalgamation|merger)", re.I)
+    r"describes? (an? )?(amalgamation|merger)|only (an? )?(amalgamation|merger)|"
+    r"voluntary liquidation|insolvency|\bcirp\b|\bibc\b|resolution[- ]plan|"
+    r"reorganis\w+ (and reclassif\w+ )?(of )?(the company'?s? )?reserves|"
+    r"nothing (is )?(separated|spun|demerged)|no business (is )?separated", re.I)
 DEMERGER_WORDS_RX = re.compile(r"de-?merg|spin|carve|hiv\w+ off|separate (listing|entity|company)|list(ing|ed)", re.I)
 
 
@@ -795,8 +811,8 @@ def judge_override(sit: dict, judge: dict) -> dict | None:
     """When the judge, having read the scheme, says the filing is an
     amalgamation and nothing is being separated, the situation is a
     merger whatever the keyword count said. Returns the new kind or None."""
-    if sit["kind"] not in SPIN_KINDS or judge.get("status") not in ("judged", "cached"):
-        return None
+    if sit["kind"] not in ("demerger", "scheme_other") or judge.get("status") not in ("judged", "cached"):
+        return None                     # a subsidiary listing is never an amalgamation
     what = f"{judge.get('what_is_spun', '')} {judge.get('reason', '')}"
     spun = re.sub(r"\b(not|no|nothing|neither)\b.{0,40}\b(de-?merger|spin-?off|separation)\b", " ",
                   judge.get("what_is_spun", ""), flags=re.I)
