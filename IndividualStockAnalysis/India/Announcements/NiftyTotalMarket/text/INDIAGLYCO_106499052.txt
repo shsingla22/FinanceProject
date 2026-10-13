@@ -1,0 +1,757 @@
+ 
+IGL/SE/2025-26/72 
+ 
+16th January, 2026 
+ 
+The Manager (Listing)   The Manager (Listing) 
+BSE Limited  National Stock Exchange of India Limited 
+1st Floor, New Trading Ring,   Exchange Plaza, C-1, Block G, 
+Rotunda Building, P.J. Towers,   Bandra Kurla Complex, 
+Dalal Street, Mumbai – 400 001             Bandra (East), Mumbai- 400 051                                                            
+ 
+Scrip Code: 500201    Symbol: INDIAGLYCO 
+ 
+Dear Sirs, 
+ 
+Sub: Disclosure under Regulation 30 of Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing 
+Regulations”) 
+This is in furtherance to our letter no IGL/SE/2025-26/63 dated 20th November, 2025 in 
+relation to the Scheme of Arrangement between India Glycols Limited (hereinafter 
+referred to as “ Applicant No. 1 ” or “Demerged Company ” or “Company ”) and 
+Ennature Biopharma Limited (" Applicant No. 2 ” or Resulting Company 1 ”) and IGL 
+Spirits Limited ( " Applicant No. 3 ” or “Resulting Company 2 ”) and their respective 
+shareholders (“ Scheme ”), pursuant to Sections 230 to 232 and other relevant 
+provisions of the Companies Act, 2013.   
+We wish to inform you that the Hon'ble National Company Law Tribunal, Allahabad 
+Bench, Prayagraj (“ NCLT”), vide its order dated 15th January, 2026 (hereinafter 
+referred  to as “ Order”) which was uploaded on 15th January, 2026 on NCLT website, 
+has allowed the first motion application filed in relation to the Scheme. 
+ 
+The NCLT, vide its Order, has inter-alia : 
+a) Ordered convening of separate meeting(s) of the Equity Shareholders and 
+Unsecured Creditors of the Demerged Company, for the purpose of 
+considering and, if deemed fit, approving the Scheme, to be conducted 
+through video conferencing;  
+b) Dispensed convening meeting of the Secured Creditors of the  Demerged 
+Company and Equity Shareholders of Resulting Company 1 & Resulting 
+Company 2 for the purpose of considering and approving the Scheme. 
+However, it has directed the Demerged Company to issue notices to Secured 
+ 
+Creditors by specifying individual value of debts owed with the direction that 
+if any objections or affidavits are received from such Secured Creditors, the  
+Demerged Company shall reflect the same in Second Motion Petition or 
+immediately thereafter as soon as the same is received. 
+c) Since there were no Secured and Unsecured Creditors of Resulting Company 
+1 &  Resulting Company 2, hence there is no requirement for Meeting of 
+Creditors for Resultant Companies. 
+d) Directed the Demerged Company to issue the notices through email or 
+speed post or courier or registered post to all the Equity Shareholders and 
+Unsecured Creditors of the Demerged Company. 
+e) Directed all  Applicant Companies to serve notices along with a copy of the 
+Scheme to the statutory, regulatory and other concerned authorities as 
+specified in the Order. 
+Copy of the Order enclosed is also available on the website of the Company at: 
+https://www.indiaglycols.com/wp-content/uploads/NCLT_Order_15_01_2026.pdf  
+A certified copy of the Order is awaited. The Scheme remains subject to 
+applicable regulatory and other approvals. 
+ 
+This is for your information and records.  
+ 
+Thanking you, 
+ 
+Yours truly, 
+For India Glycols Limited  
+ 
+ 
+Ankur Jain  
+Head (Legal) & Company Secretary  
+Encl: A/a 
+ 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 1 of 21 
+ IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ  
+____________________________________________________________  
+CA (CAA) No. 36/ALD/ 2025 
+                (First Motion)  
+ 
+(Under Sections 230 to 232 of the  Companies Act, 2013 and the Companies  
+(Compromise, Arrangements and  Amalgamations) Rules, 2016 ) and other 
+applicable rules made thereunder)  
+ 
+IN THE MATTER OF SCHEME OF ARRANGEMENT OF : 
+ 
+INDIA GLYCOLS LIMITED  
+a public listed company limited by  
+shares incorporated under the provisions  
+of the Companies Act, 1956  
+CIN: L24111UR1983PLC009097  
+having its registered of fice at :  
+A-1, Industrial Area, Bazpur Road,  
+Kashipur, Udham Singh Nagar,  
+Uttarakhand, India – 244713  
+                                                             .… Applicant No. 1  / Demerged  Company  
+ 
+ENNATURE BIO PHARMA LIMITED  
+a public company limited by shares incorporated  
+under the provisions of the  Companies Act, 2013  
+CIN U24290UR2021PLC013005  
+and having its registered off ice at :  
+P. No. 4 Pharma City Selaqui,  
+Dehradun, Uttarakhand, India – 248197  
+ 
+           … Applicant No. 2  / Resulting Company  No. 1  
+ 
+AND  
+ 
+IGL SPIRITS LIMITED  
+a public company limited by shares incorporated  
+under the provisions o f the Companies Act, 2013  
+CIN U11011UT2024PLC018229  
+having its registered off ice at : 
+A-1, Industrial Area, Bazpur Road,  
+Kashipur, Udham Singh Nagar,  
+Uttarakhand, India – 244713  
+ 
+  … Applicant No. 3  / Resulting Company No. 2  
+ 
+ Order pronounced on: 15.01.2026  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 2 of 21 
+ Coram :  
+Shri Praveen Gupta     : Member (Judicial)  
+ 
+Shri Ashish Verma      : Member (Technical)  
+ 
+Appearances:  
+Sh. Hirak Mukhopadhyay with                        :  For the Applicant Companies   
+Sh. Varun Yadav & Sh. Atul Pandey, Advs.  
+ 
+ORDER  
+1. This is a joint First Motion Application file d by Applicant Companies 
+for sanction of the proposed Scheme of Arrangement involving 
+demerger of ‘Bio Pharma Undertaking ’ and ‘Spirits and Biofuel 
+Undertaking ’ from INDIA GLYCOLS LIMITED  (hereinafter referred 
+to as ‘Applicant No. 1 / Demerged Company ’) to ENNATURE BIO 
+PHARMA LIMITED  (hereinafter referred to as ‘Applicant No. 2 / 
+Resulting Company 1’ ) and IGL SPIRITS LIMITED  (hereinafter 
+referred to as ‘Applicant No. 3 / Resulting Company 2’ ) (Demerged 
+Company, Resulting Company 1 and Resulting Company 2 to be 
+collectively referred to as 'Applicant Companies') and their resp ective 
+shareholders under Sections 230 & 232 of the Companies Act, 2013  (the 
+‘Act’) read with  Rule 3 of Companies (Compromises, Arrangements, 
+and Amalgamations) Rules, 2016 (the ‘Rules ’) and other applicable 
+provisions of the Act for the time being in force, seeking sanction of the 
+Scheme of Arrangement (hereinafter referred to as the ‘Scheme’ ). 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 3 of 21 
+ 2. The Applicant Compan ies have prayed for the following reliefs:  
+i. To pass orders/ directions, directing the Demerged Company to 
+issue individual notices through email and to convene, hold and 
+conduct the meeting of the Equity Shareholders;  
+ii. To pass orders/ directions, directing the Demerged Company to 
+issue individual no tices through email and to convene, hold and 
+conduct the meeting of the Unsecured Creditors with outstanding 
+above INR 1 Lakh;  
+iii. To pass orders/ directions, dispensing with the meeting of secured 
+creditors, since the Demerged Company has obtained consent 
+affidavits from 95.46% of Secured Creditors in value;  
+iv. To pass orders/ directions, dispensing with the meeting of Equity 
+Shareholders, since Resulting Company 1 has obtained consent 
+affidavits from 99.94 % of Equity Shareholders in value;  
+v. To pass orders/ dire ctions, dispensing with the meeting of secured 
+creditors, since Resulting Company 1 does not have any Secured 
+Creditors;  
+vi. To pass orders/ directions, dispensing with the meeting of 
+unsecured cred itors, since Resulting Company 1 does not have 
+any Unsecured C reditors;  
+vii. To pass orders/ directions, dispensing with the meeting of Equity 
+Shareholders, since Resulting Company 2 has obtained consent 
+affidavits from 99.94% of Equity Shareholders in value;  
+viii. To pass orders/ directions, dispensing with the meeting of sec ured 
+creditors, since Resulting Company 2 does not have any Secured 
+Creditors;  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 4 of 21 
+ ix. To pass orders/ directions, dispensing with the meeting of 
+unsecured creditors, since Resulting Company 2 does not have 
+any Unsecured Creditors;  
+x. To issue notices to the Central  Government (through the Regional 
+Director) and the Registrar of Companies, and such other 
+regulator(s) as the Hon'ble Tribunal may deem fit, of this petition; 
+and  
+xi. To pass any further order/s as deemed fit by this Hon'ble Tribunal 
+in the present facts and  circumstances of the case.  
+ 
+3. The Applicant  No. 1 / Demerged Company is a listed public limited 
+company  and a leading green company, engaged in the business of 
+manufacturing and marketing of B io based Specialties &  Performance 
+Chemicals such as B io polymers, Green Solvents, Specialty Derivatives, 
+Industrial Gases, Potable spirits, ENA (Extra Neutral Alcohol), E nnature 
+Biopharma and Bio Fuels.   
+4. The Applicant No. 2  / Resulting Company  No. 1  is a public limited 
+company  and has business objective of produ cing nutraceuticals, 
+phytochemicals, and natural plant -based active pharmaceutical 
+ingredients and is a wholly owned subsidiary of Applicant Company l . 
+5. The Applicant No. 3  / Resulting Company No. 2 is  a public limited 
+company  and has business objective int er alia of manufacturing and 
+production of alcoholic and non -alcoholic beverages and ethanol and 
+alcohol and is also a wholly owned subsidiary of Applicant Company l.  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 5 of 21 
+ 6. It is submitted that the  registered office of all the Applicant Companies 
+are situated in the State of Uttarakhand  and hence are under the territorial 
+jurisdiction of this Bench . 
+7. The rationale and the benefits of the Scheme are, inter alia, as follows : 
+a. The Demerged Company is a leading green chemical company. It 
+has grown manifold over a number of years and currently houses 
+four segments, namely, bio -based specialties and performance 
+chemicals, potable spirits, ennature biopharma and bio -fuel. 
+Given its diversified business, it has become imperative for the 
+Demerged Company to reorie nt and reorganize itself in a  manner 
+that allows imparting greater focus on each of its businesses. With 
+this repositioning, the Demerged Company is desirous of 
+enhancing its operational efficiency. It will continue with its bio -
+based specialties and performance chemicals business. While each 
+of the above businesses may be subject to industry specific risks, 
+business cycles and operate inter alia under different market 
+dynamics , they have a significant potential f or growth and 
+profitability.  
+b. The Scheme proposes to reorganise and segregate the 
+shareholdings of Demerged Company in various businesses and 
+thus proposes the demerger of Spirits and Biofuel Undertaking (as 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 6 of 21 
+ defined in Scheme) and Biopharma Undertaking (as defined in 
+Scheme) from Demerged Company to the Resulting Companies. 
+The demerger of the Demerged Undertakings from the Demerged 
+Company to the Resulting Companies will result in the equity 
+shares of the Resulting Comp anies (as defined in Scheme) 
+becoming listed on the National Stock Exchange of India Limited 
+and BSE Limited, with the Resulting Companies focusing 
+exclusively on their respective undertakings and capable of 
+independent valuation and participation therein by any suitable 
+investor interested in such businesses, in the future.  
+8. The proposed restructuring pursuant to this Scheme  is expected, inter 
+alia, to result in following benefits:   
+i. Segregation and unbundling of the Spirits and Biofuel 
+Undertaking and Biopharma Undertaking of the Demerged 
+Company into the Resulting Companies will offer the following 
+benefits:  
+a. Each business will have a clear focus, leading to improved 
+management and resource allocation for growth;  
+b. The demerger will enable independent growth for each business, 
+attracting the right talent, offering bett er opportunities for 
+employees;  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 7 of 21 
+ c. The demerger may create potential to unlock value for stakeholde rs 
+by drawing focused inve stors;   
+d. Each business will manage its capital, investments, and resources 
+based on its specific needs, ensuring more efficient capital use;  
+e. Each business will adhere to regulations that are specific to its 
+industry; and  
+f. Separating the businesses will redu ce the risk of one business 
+affecting the others.  
+The proposed restructuring is in the interest of the shareholders, 
+creditors, employees, and other stakeholders in each of the companies.  
+9. It is stated that the Board of Directors of the Demerged Company and 
+the Resulting  Compan ies No. 1 & 2  in their respective meetings held on  
+16.05.2025  considered and un animously approved the proposed  Scheme 
+of Arrangement  subject to sanctioning of the same by this Tribunal. The 
+copies of the Board Resolutions of the Applicant  Companies  No. 1  to 3 
+are attached as Annexur e: 8, 9 and 10  respectively , with the application.  
+10. The appointed  date of the Scheme for the purpose of the Arrangement  
+shall be 01.04.2026  as mentioned in Clause 1.1 (3rd para) in Part -I of 
+Scheme of Arrangement which is attached as Annexure: 1  of the 
+application . 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 8 of 21 
+ 11. It is stated that the Applicant No. 1 / Demerged  Company has filed its 
+Annual Report of the for the financial year ending March 31, 2025 and 
+limited review financials ending on June 30, 2025  which is attached a s 
+Annexure 3 of the application.  
+12. The Applicant  No.2 /  Resulting Company  No. 1  has filed its Audited 
+accounts  for the financial year ending  on 31.03. 2025 and Audited 
+financials ending on June 30, 2025 which is attached as Annexure 5  of 
+the application.  The Applicant No. 2 / Resulting Company  No. 1  has also 
+filed its Audited accounts for the financial year ending on 31.03.2025 
+and Audited financials ending on June 30, 2025 which is attached a s 
+Annexure 7  of the application.  
+13. It is further submitted  that in pursuance of the provis o to Sec tion 230(7) 
+and Section 232(3) of the Act, the Applicant Demerged Company and 
+the Resulting Compan ies No. 1 & 2  have filed certificate dated 
+16.05.2025, issued by their respective Statutory Auditors certifying that 
+the Scheme is in compliance with the Accounting Standards under 
+Section 133 of the Act and the same are attached as Annexure 12 with 
+the application.  
+14. Since the Applicant Demerged Company is a public listed company, 
+hence a letter issued by the National Stock Exchange as well as the 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 9 of 21 
+ Bombay Stock Exchange approving the Scheme has been filed and 
+attached as Annexure 19 with the application.  
+15. It is further submitted that the share entitlement Report, dated  
+16.05 .2025,  considering financial information of the Demerged 
+Undertakings and the Demerged Company upto 31.12.2024 , for the 
+proposed Scheme of Arrangement , has been issued by Mr. Kshitij Goel, 
+Registered Valuer in respect of Securities or Financial Asset s acting for 
+TRC Corporate Consulting Private Limited , registered with the 
+Insolvency and Bankruptcy Board of India (IBBI) vide Registration No.  
+IBBI/RV/02/2024/15672. A copy of the said Valuation Report is 
+annexed herewith as Annexure 11 . The following Share Entitlement  
+Ratio, in consideration with the report dated 16.05.2025 read with 
+addendum dated 30.05.2025  and as incorporated in the scheme, is as 
+follows : 
+ The Resulting Company 1 will issue 1 (one) Equity Share of ₹5 each, 
+credited as fully paid -up, to the Equity Shareholders of the Demerged 
+Company for every 3 (three) Equity Share of ₹5 each held in the 
+Demerged Company.  
+ The Resulting Company 2 will issue 1  (one) Equity Share of ₹5 each, 
+credited as fully paid -up, to the Equity Shareholders of the Demerged 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 10 of 21 
+ Company for every 1 (one) Equity Share of ₹5 each held in the 
+Demerged Company.  
+Any fraction of share arising out of the aforesaid share exchange 
+process,  if any, will be as per Scheme in Annexure 1.  
+16. It is submitted that the Scheme (Annexure 1 ) also takes  care of the 
+interest  of the employees of the Applicant  Companies by virtue of Clause 
+5 of Part -II of the Scheme  and Clause 11 of Part -III of the Scheme .   
+17. As per para 8 of the application it is submitted that as on the date of this 
+application, apart from the information request received from the 
+Regional Director, Northern Region, no proceedings under Sections 235 
+or 250A of the Companies Act, 1956 or the applicable provisions of the 
+Companies Act, 2013 are pending against the Applicant Companies . 
+18. It is deposed by the Applicants that there is no sectoral regulator in the 
+Applicant Companies whose approval may be required for the sanction 
+of the Scheme of Ar rangement except the statutory authorities, i.e., (a) 
+the Central Government through the office of the Regional Director , 
+Northern Region, Ministry of Corporate Affairs, New Delhi; (b) the 
+Registrar of Companies, Uttarakhand, Ministry of Corporate Affairs,  
+Dehradun; (c) Securities and Exchange Board of India; (d) National 
+Stock Exchange of India Limited; (e) BSE Limited (collectively called 
+“Stock Exchanges”)  and (f) the Income Tax Department . It is also 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 11 of 21 
+ deposed that the proposed Scheme of Arrangement  will not attract the 
+provisions of the Competition Act, 2002. Hence, no intimation 
+to/approval from the Competition Commission of India (CCI) is required 
+for the present Scheme of Arrangement . There are no legal proceedings, 
+inquiry, inspection, investigation,  prosecution, litigation pending before 
+any court of law or Tribunal against the Applicant Companies.  
+19. The Applicant  Companies ha ve furnished the following documents:  
+i. Proposed  Scheme of Arrangement (Annexure 1  of the 
+application).  
+ii. Certificate of Incorporation along with Memorandum and Articles 
+of Association of the Applicant Demerged Company and  the 
+Resulting Compan ies No. 1 & 2  (Annexure 2 , 4 and 6  respectively 
+of the application ). 
+iii. Certificates on status of shareholders Secured and  unsecured 
+creditors  of Demerged Company (Annexure 13 of the application).  
+iv. Certificate from K.N. Gutgutia & Company, Chartered 
+Accountants dated 1 October 2025 certifying that there are no 
+secured and unsecured creditors in the Resulting Company 1  
+(Annexur e 16 of the application).  
+v. Certificate from K.N. Gutgutia & Company, Chartered 
+Accountants dated 1 October 2025 certifying that there are no 
+secured and unsecured creditors in the Resulting  Company 2 
+(Annexure 18 of the application).  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 12 of 21 
+ vi. Consent aff idavits from  Secured Creditors of Demerged 
+Company . (Annexure 14  of the application).  
+vii. Consent aff idavit from Demerged Company approving the 
+scheme as shareholder of Resulting Company 1 . (Annexure 15  of 
+the application).  
+viii. Cons ent aff idavit from Demerged Company approvin g the 
+scheme as shareholder of Resulting Company 2 . (Annexure 17  of 
+the application).  
+ix. Certificates of Statutory Auditors to the effect that the Accounting 
+treatment proposed in the Scheme  is in conformity with Section 
+133 of the Companies Act, 2013 . (Annex ure 12 of the application).  
+x. Annual Report of the Demerged Company for the financial year 
+ending March 31, 2025 and limited review financials ending on 
+June 30, 2025 . (Annexure 3  of the application).  
+xi. Audited accounts of the Resulting Company 1 for the financial 
+year ending March 31, 2025 and audited financials ending on June 
+30, 2025 . (Annexure 5  of the application).  
+xii. Audited accounts of the Resulting Company 2 for the financial 
+year ending March 31, 2025 and audited financials ending on June 
+30, 2025 . (Annexure 6  of the application).  
+xiii. Report on Share Entitlement  Ratio (Annexure 11 of the 
+application).  
+ 
+20. The Applicant Companies  have furnished the details of the Equity 
+Shareholders , Secured Creditors and Unsecured Creditors as follows : 
+ 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 13 of 21 
+ Demerged Company : 
+Particulars  Total No.  Dispensation 
+sought  % of Consent 
+received  
+Equity 
+Shareholders  Listed 
+Company  No N.A.  
+Secured Creditors  171 Yes 95.46%  
+Un-secured 
+Creditors 575 
+No N.A.  
+ 
+1  It is pertinent  to note that the Consent Affidavits received are more than 
+the requisite statutory majority of 90% of the total value required to 
+approve the Scheme in terms of the provisions of Section 230(9) of the 
+Companies Act, 2013.  
+ 
+Resulting Company  No. 1 : 
+Particulars  Total No.  Dispensation 
+sought  % of Consent 
+received  
+Equity 
+Shareholders  71 
+Yes 99.94%  
+Secured Creditors  0 Yes N.A.  
+Un-secured 
+Creditors 0 
+Yes N.A.  
+ 
+1  It is pertinent  to note that the Consent Affidavits received are more than 
+the requisite statutory majority of 90% of the total value required to 
+approve the Scheme in terms of the provisions of Section 230(9) of the 
+Companies Act, 2013.  
+ 
+ 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 14 of 21 
+ Resulting Company No. 2:  
+Particulars  Total No.  Dispensation 
+sought  % of Consent 
+received  
+Equity 
+Shareholders  71 
+Yes 99.94%  
+Secured Creditors  0 Yes N.A.  
+Un-secured 
+Creditors 0 
+Yes N.A.  
+ 
+1  It is pertinent  to note that the Consent Affidavits received are more than 
+the requisite statutory majority of 90% of the total value required to 
+approve the Scheme in terms of the provisions of Section 230(9) of the 
+Companies Act, 2013.  
+ 
+Directions:  
+21. We have considered t he submissions made by the Ld. Counsel, and 
+perused the documents filed with the instant Application. We are of the 
+view that the dispensation of the meetings prayed for by the Applicant 
+Companies deserves to be allowed. We accordingly give the following 
+directions:  
+I. In relation to  the Applicant No. 1 / Demerged Company : 
+a. The meeting of the Equity Shareholders of Applicant Demerged 
+Company  be convened as prayed for through video conferencing 
+with facility of remote e -voting on Monday, 9th March  2026  at 
+11:00 A.M, subject to notice of  the meeting being issued. The 
+voting/approval would be in terms  of provisions of Section 103  of 
+the Companies Act, 2013;  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 15 of 21 
+ b. The me eting of the Secured Creditors  of Applicant Demerged  
+Company is dispensed herewith, keeping in view that 95.46% in 
+value of the Secured Creditors  have given their consents by way of 
+affidavits ; 
+c. The meeting of the Un -secured Creditors  with outstanding above 1 
+Lakh  of the Applicant Demerged Company  be convened as prayed 
+for through video conferencing with facility of remote e -voting on 
+Monday, 9th March  2026  at 2:00 P.M , subject to notice o f the 
+meeting being issued. The voting/approval would be in terms of 
+provisions of Section 230(6) of the Companies Act, 2013 . 
+II. In relation to Applicant No. 2 / Resulting Company No. 1 : 
+a. The meeting of the Equity Shareholders of Applicant Resulting 
+Company  No. 1  is dispensed herewith, keeping in view that 99.94%  
+in value of the Equity  Shareholders have given their consents by 
+way of affidavits ; 
+b. Since, t he Applicant Resulting Company  No. 1  does not have any 
+Secured Creditor , the requirement to convene meeting  of Secured 
+Creditors  does not arise ; 
+c. Since, the Applicant Resulting Company  No. 1 does not have any 
+Un-Secured Creditor, the requirement to convene meeting  of Un -
+Secured Creditors  does not arise;  
+III. In relation to Applicant  No. 3 /  Resulting Company No. 2: 
+a. The meeting of the Equity Shareholders of Applicant Resulting 
+Company No. 2  is dispensed herewith, keeping in view that 99.94%  
+in value of the Equity  Shareholders have given their consents by 
+way of affidavits ; 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 16 of 21 
+ b. Since, the Applicant Resulting Company  No. 2  does not have any 
+Secured Creditor, the requirement to convene meeting of Secured 
+Creditors does not arise;  
+c. Since, the Applicant Resulting Company  No. 2  does not have any 
+Un-Secured Creditor, the requirement to convene meeting of Un -
+Secured Creditors does not arise;  
+IV. In case the required quorum as noted above for the meetings is not 
+present at the commencement of the meeting, the meeting shall be 
+adjourned by 30 minute s and thereafter persons  present and voting 
+shall be d eemed to constitute the quorum.  
+V. Mr. L.N. Gupta  (Mobile No.  8130585511 , E mail id: 
+mbtgln@gmail.com) , is appointed  as the common Chairperson for 
+the meeting s to be called under this order. An amount of ₹ 2,00,000/ - 
+(Rupees Two Lakhs Only) be paid for his services as the 
+Chairperson.  The Chairperson shall have all other powers under the 
+Companies (Compromises, Arrangements and Amalgamations) 
+Rules, 2016 read with the other applicable rules and provisions in 
+relation to conduct of the meetings, including for deciding 
+procedural questions that may arise at the meeting(s) or at any 
+adjournment thereof, or any other  matter relating to the meetings, 
+including an amendme nt to the Scheme of Arrangement , if any, 
+proposed by any persons.  
+VI. Mr. Vinayak Varma , (Mobile No.  9335155141 , E-mail id:  
+vinayakvarmaofficial@gmail.com ), is appointed  as the common 
+Alternate Chairperson  for the meeting s to be called under this order.  
+An amount of ₹1,50,000/ - (Rupees One Lakh Fifty Thousand Only)  
+be paid for his services as the Alternate Chairperson.  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 17 of 21 
+ VII. Mr. Sumit Agrawal, CA , (Mobile No.  9415348986 , E-mail id:  
+agrsumit@yahoo.co.in ), is appointed  as the common Scrutinizer for 
+the above meeting s to be called under this order. An amount of 
+₹1,00,000/ - (Rupees One Lakh only)  be paid for his  services as the 
+Scrutinizer.  
+VIII.  The fee of the Chairperson, Alternate Chairperson , Scrutinizer and 
+other out-of-pocket  expenses for them shall be borne by the 
+Applicant  No. 1 /  Demerged Compan y.  
+IX. It is further directed that individual notices of the said meetings shall 
+be sent by the Applicant No. 1 / Demerged  Company to its respective 
+Equity Shareholders, Secured Creditors  and Un-secured Creditors  
+through registered post or speed post or through courier or e -mail, 30 
+days in advance before the scheduled  date of the meeting s, indicating 
+the day, date and time as aforesaid, together with a copy of the 
+Scheme,  copy of the explanatory statement with Share Entitlement  
+Ratio  as discussed in para 14 of this order required to be sent under 
+the Companies Act, 2013 and the applicable Rules and any other 
+documents as may be prescribed under the  Act shall also be duly sent 
+with the notice.  
+X. It is further directed that along with the notices, Applicant No. 1 / 
+Demerged  Company shall also send, statements explaining the effect 
+of the Scheme on the creditors, key managerial personnel, promoters 
+and non -promoter members , etc. along with the effect of the  Scheme 
+of Arrangement on any material interests of the Directors of the 
+Compan ies, if any, as provided under sub -section (3) of Section 230 
+of the Act.  
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 18 of 21 
+ XI. It is also directed that the Un-Audited  Financial  Statements 
+(Provisional) of the Applicant Demerged  Compan y and the 
+Resulting Compan ies No. 1 & 2  not older than 6 months’ from the 
+date of the meeting s be also circulated for the aforesaid meeting(s) 
+in terms of Section 232 (2) (e) of the Act.  
+XII. That the Applicant No. 1 / Demerged Compan y shall publish an 
+advertisement with a gap of at least 30 clear days before the aforesaid 
+meeting s, indicating the day, date and the time of the meeting s as 
+aforesaid, to be published in “Financia l Express” (English, District 
+Udham Singh Nagar Edition ) and “Uttar Ujala ” (Hindi,  District 
+Udham Singh Nagar Edition ). The publication  shall indicate the time 
+within which copies of the Scheme of Arrangement shall be made 
+available to the concerned persons, free of charge from the registered 
+office of the Applicant Demerged Compan y. The publication shall 
+also indicate that the explanatory statement required to be furnished 
+pursuant to Sec tions 230 & 232 read with Section 102 of the 
+Companies Act, 2013 can be obtained free of charge at the registered 
+office of the Applicant Demerged Compan y in accordance with 
+second proviso to sub -section (3) of Section 230 and Rule 7 of the 
+Companies (CAA)  Rules, 2016.  The Applicant Demerged  Compan y 
+shall also publish the notice of the meeting s on its website , if any.  
+XIII.  The Applicant C ompanies  shall issue notices to all the S ecure d 
+Creditors of the A pplicant  Company No.  1 by specifying individual 
+value of debts  owed . Further, it is directed that while filing the 
+second motion petition,  if any objections or any a ffidavit/s are 
+received by the A pplicant  Companies from these Secured C reditors, 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 19 of 21 
+ the same would also be  reflected in the second motion petition or 
+immediately thereafter as  soon as the same are received.  
+XIV. It shall be the responsibility of Applicant No. 1 / Demerged  Compan y 
+to ensure that the notices are sent under the signature and supervision 
+of the Chairperson  and that the Applicant Companies shall file their 
+affidavits in the Tribunal at  least 7 days before the date fixed for the 
+meetings.  
+XV. Voting is allowed on the propose d Scheme through remote e -voting 
+process in compliance  with the guidelines issued by the Ministry of 
+Corporate Affairs in this regard.  
+XVI. The Chairperson shall be responsible to report the result of the 
+meeting s to the Tribunal in Form No. CAA -4, as per Rule 14 of the 
+Companies (Compromises, Arrangements and Ama lgamations) 
+Rules, 2016 within 7 (seven) working days of the conclusion of the 
+meeting s. The Chairperson would be fully assisted by the authorized 
+representative/Company Secretary of the Applicant  Demerged 
+Company  and the Scrutinizer, who will assist the 
+Chairperson /Alternate Chairperson in preparing and finalizing the 
+report s. 
+XVII.  The Applicant No. 1 / Demerged  Compan y and the Resulting 
+Compan ies No. 1 & 2  in compliance of sub -section (5) of Section 
+230 of the Act and Rule 8 of Companies (Compromises, 
+Arrangements and Amalgamations) Rules, 2016 send notices in 
+Form No. CAA -3 along with copy of the  Scheme, Explanatory 
+Statement and the disclosures mentioned in Rule 6 of the “Rules” to 
+(a) the Central Government through the office of the Regional 
+Director,  Northern Region, Ministry of Corporate Affairs, New 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 20 of 21 
+ Delhi and having email id: rd.north@mca.gov.in; (b) the Registrar of 
+Companies, Uttarakhand, Dehradun and having email id: 
+roc.uttarakhand@mca.gov.in ; (c) Securities and Exchange Board of 
+India; (d) National Stock Exchange of India Limited; (e) BSE 
+Limited (collectively called “Stock Exchanges”)  and (f) the Income 
+Tax Department , in the respective  circle/ward where these 
+Companies are assessed or through the nodal office by mentioning 
+the PAN number of the Applicant Companies , if any, having email 
+id – lucknow.pccit@incometax.gov.in ; stating that report on the 
+same , if any, shall be sent to th is Tribunal within a period of 30 days 
+from the date of receipt of such notice and copy of such report shall 
+be simultaneously sent  to the applicant companies , failing which it 
+shall be presumed that they have no objection to the proposed 
+Scheme.  
+XVIII.  The Applicant No. 1 / Demerged  Compan y and the Resulting 
+Compan ies No. 1 & 2  shall furnish a copy of the Scheme free of 
+charge within one day of any requisition for the Scheme made by any 
+Creditor entitled to attend the meeting s as aforesaid.  
+XIX. The Authorized R epresentative of the Applicant Demerged  
+Compan y shall furnish affidavit s of service of notice of meeting s and 
+publication of advertisement s and compliance of all directions 
+contained herein at least a week before the proposed meeting s. 
+XX. All the aforesaid directions are to be complied with strictly in 
+accordance with the applicable laws including forms and formats 
+contained in the Rules as well  as the provisions of the Companies 
+Act, 2013 by the Applicant Demerged  Compan y and the Resulting 
+Compan ies No. 1 & 2 . 
+ 
+ 
+ 
+CA (CAA) NO . 36/ALD/ 2025  (First Motion)  
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+ALLAHABAD BENCH, PRAYAGRAJ   Page 21 of 21 
+ XXI. The Company Petition for confirmation of the Scheme is to be filed 
+within the time period prescribed under the provisions of the Act and 
+corresponding rules made there under. The appropriate prayer would 
+also be made in the second motion petition for publication in 
+newspaper.  
+22. The Second Motion petition shall be filed within 7 days from the date of 
+submission  of report by Chairperson in accordance with the provisions 
+of rule 16 of the Companies (Compromises, Arrangements and 
+Amalgamations) Rules, 2016.  
+23. With  the aforesaid directions, this First Motion Ap plication bearing CA 
+(CAA) No.36 /ALD/2025 is disposed of. A copy of this order be supplied 
+to the learned  counsel for the Applicant Companies who in turn shall 
+supply a copy of the same to the Chairperson, Co -Chairperson and the 
+Scrutinizer immediately.  
+ 
+ 
+ 
+      (Ashish Verma)                         (Praveen Gupta)  
+Member (Technical)              Member (Judicial)  
+ 
+Dated: 15.01 .2026 
+ 

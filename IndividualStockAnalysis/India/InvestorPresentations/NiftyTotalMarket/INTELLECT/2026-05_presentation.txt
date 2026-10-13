@@ -1,0 +1,533 @@
+
+=== page 1 ===
+ 
+ IDAL/2025 6-27/SE/29                                                      May 26, 2026  
+ 
+National Stock Exchange of India Ltd.                                 Scrip Symbol - INTELLECT  
+BSE Ltd.                                                                                       Scrip Code     - 538835                                                                                                                                 
+ 
+Dear Sir/Madam , 
+ 
+Sub:  Updates on Investor Conference  
+1. This is to inform that the Company’s representatives will be participating in the following 
+investor conference  for group and one to one meeting s. 
+SL No.  Event  Date   Place  
+1 Trinity India 2026  
+ May 29, 20 26 
+Hotel Grand Hyatt, 
+Mumbai  – In person  2 Axis Capital's Rising Stars Conference   
+ June 2, 20 26 
+ 
+2. In continuation to our intimation letter dated May 22, 2026 , bearing reference - 
+IDAL/2026 -27/SE/28, we have enclosed the presentation for the investors interaction 
+session scheduled tomorrow, May 27, 2026 . 
+This is for your information, please take this on records and oblige .  
+ 
+Thanking You,  
+For Intellect Design Arena Limited , 
+ 
+ 
+Prakash Bharadwaj  
+Company Secretary and Compliance Officer  
+ACS -37214  
+ 
+ 
+=== page 2 ===
+ Enterprise AI: 
+ The Next Frontier 
+Opportunity & Strategic Vision 2026 
+Arun Jain 
+Chairman & Managing Director 
+Intellect Design Arena Limited 
+
+=== page 3 ===
+Legal Disclaimer 
+Strategic Discussion Only 
+This document is provided for informational and educational purposes to share strategic perspectives on Enterprise AI. It 
+does not constitute a ﬁnancial forecast, revenue guidance, or an offer for investment. It is intended as a friendly brieﬁng to 
+learn from stakeholders on industry trends and Intellect’s architectural evolution. 
+Intellect Design Arena | Investor Relations 
+=== page 4 ===
+Executive Agenda 
+Section 1 
+The Impact of AI Section 2 
+Deﬁning the AI Stack: 
+From ML to Agentic AI Section 3 
+T ech Stacks and Human 
+Beneﬁts: The Enterprise 
+Reality Section 4 
+Where AI Works: 
+Navigating Promises vs 
+Reality 
+Section 5 
+At Intellect: The Purple 
+Fabric Platform Section 6 
+Revenue Perspectives 
+and Economic Impact Section 7 
+Operationalising AI for 
+Business Impact Conclusion 
+Intellect’s Moat and the 
+Exciting AI Track Ahead 
+
+=== page 5 ===
+SECTION 01 
+The Impact of AI 
+=== page 6 ===
+Macro Value Injections 
+According to comprehensive industry consensus models, GenAI 
+stands to inject between $200 Billion and $340 Billion in annual 
+operating value  directly into the global banking sector. 
+This is not an incremental optimization cycle; it represents a 
+structural rewriting of traditional corporate tech spending 
+paradigms. $340B 
+Annual Global Banking AI Value Lift 
+34.2% 
+Projected Enterprise AI CAGR (2024-2030) 
+The Massive Financial Tech Tailwinds 
+
+=== page 7 ===
+The Dual Impact of AI 
+IT Industry Transformation Global Sector Influence 
+Shift from labor-intensive to intelligence-dense models 
+Compression of development and testing life cycle 
+Competitive edge redeﬁned by proprietary data / logic Industrialisation of cognitive decision-making 
+Hyper-personalisation of the digital experience 
+Operational efﬁciency driven by autonomous agents 
+
+=== page 8 ===
+IT Industry 
+Migration from manual coding to 
+autonomous multi-agent 
+orchestration. Structural compression 
+of traditional labor factories. 
+Mainstream Industry 
+Transition from legacy batched 
+processing to real-time deterministic 
+workﬂows. Re-engineering 
+operational efﬁciency layers. 
+Intellect Design 
+AI-First design since 2023. 
+Transitioning from point-solutions to 
+high-margin Business Impact AI 
+Platforms. Three Pillars of AI Impact 
+
+=== page 9 ===
+AI Impact on Intellect 
+Intellect is pivoting from a product company to a full-stack AI-ﬁrst 
+platform company 80% 
+Potential acceleration in non-functional 
+testing and core build processes Architectural Advantage:  Leveraging eMACH.ai to integrate intelligence at the core 
+Intellectual Property:  36+ Patents securing the deterministic AI moat 
+Market Readiness:  Moving past experimentation to production-grade deployment 
+
+=== page 10 ===
+SECTION 02 
+The AI Taxonomy: 
+ What is AI? 
+=== page 11 ===
+The Evolution of AI 
+Algorithmic AI 
+Machine Learning and structured 
+algorithms focusing on pattern 
+recognition and linear logic 
+Generative AI 
+Foundation models capable of 
+creating new content, but often 
+lacking deterministic reliability 
+Agentic AI 
+Autonomous agents with 
+self-judgment capabilities, designed 
+for complex task execution 
+
+=== page 12 ===
+The Modern Ecosystem 
+Foundation Stacks Leading Frontier Tools 
+Orchestrating intelligence through best-of-breed ecosystem 
+components: Vectorization:  The process of converting data into mathematical 
+dimensions for AI retrieval 
+Neural Networks:  The "wiring" that enables deep learning and 
+complex inference 
+Foundation Models:  Large-scale trained models serving as the base 
+for enterprise intelligence 
+
+=== page 13 ===
+Cognitive Amplification 
+3D 
+Intelligence vs Linear Logic 
+The ultimate outcome of the AI stack is not just automation, but Cognitive 
+Ampliﬁcation — augmenting human intelligence to solve multidimensional problems 
+with higher accuracy and speed 
+
+=== page 14 ===
+SECTION 03 
+Tech Stacks Translating 
+ to Human Benefits 
+=== page 15 ===
+Progression of Automation 
+CNC Machines 
+Deterministic 
+sequence of 
+mechanical actions Robotics 
+Programmable 
+automation for 
+repetitive tasks Robotic AI 
+Introduction of 
+self-judgment within 
+ﬁxed boundaries Autonomous Systems 
+Self-decision AI with 
+deterministic 
+outcomes 
+
+=== page 16 ===
+What is Enterprise Software? 
+Multidimensional Architecture 
+Enterprise systems are not simple apps; they are MDML 
+(Multi-dimensional Multi-layer) constructs: Complexity Index 
+The high complexity index means every small change generates more 
+work disproportionate to the cost savings promised by legacy 
+automation 
+8x 
+Multiplier of maintenance effort over initial build effort Multi-Product / Multi-Segment 
+Multi-T ech Stack Integration 
+Global/National Regulations 
+
+=== page 17 ===
+Software Workstreams 
+01. Requirements 
+Managing the "What" and "Why" 02. Architecture 
+Designing the structural integrity 03. Build 
+The core development and 
+engineering phase 
+04. Testing 
+Functional & Non-functional 
+validation 05. Security 
+Inherent defense-in-depth design 06. Maintenance 
+24x7 operational reliability 
+
+=== page 18 ===
+Problems We Solve for the Industry 
+Customer Experience 
+Digital Experience design and hyper-personalized interaction layers Operational Excellence 
+Streamlining efﬁciency through intelligent process automation 
+Risk & Security 
+Advanced risk management and 24/7 security design protocols Product Innovation 
+Accelerating the design and launch of new ﬁnancial products 
+
+=== page 19 ===
+Heatmap: AI Impact of Workstreams 
+Requirement Management 
+Solution Architecture 
+Solution Build 
+Functional T esting 
+Non-Functional T esting 
+Maintenance Low (25%) 
+Low (30%) 
+Low (20%) 
+
+=== page 20 ===
+SECTION 04 
+Where is AI Working 
+ & Where is it Not? 
+=== page 21 ===
+AI Success Domains 
+AI is delivering measurable value today in domains where "close enough" is effective or where high-speed extraction is key: 
+Customer Service 
+Managing inquiries where 80% 
+accuracy fulﬁlls initial user needs 
+Voice Systems 
+Natural language recognition and 
+automated transcription 
+Doc Extraction 
+Rapid identiﬁcation and extraction of 
+data from structured/unstructured 
+ﬁles 
+
+=== page 22 ===
+The Benefit Gap 
+Why the Promise is Unfulfilled Systemic Issue 
+Gen AI is often applied linearly to 3D enterprise problems. This 
+mismatch creates hallucinations and reliability failures in 
+high-consequence environments. Cost Barrier:  Extremely high LLM and T oken expenditure 
+Wasted Intelligence:  Massive token waste due to poor architectural 
+knowledge 
+Problem Selection:  Solving the wrong problems or solving them 
+wrongly 
+
+=== page 23 ===
+Intellect Research #1 
+Enterprise Problems are 3D. They require 3D AI Solutions. Linear AI Application 
+One input leads to one output. Great for chat, poor for complex 
+banking transactions. 3D Enterprise Intelligence 
+Context-aware, multidimensional reasoning. Cross-referencing 
+regulations, historical data, and current state. 
+
+=== page 24 ===
+Human intelligence vs AI 
+KNOWLEDGE 
+EXPERTISE S1 S2 S3 S4PERSPECTIVE 
+Experience Empathy Imagination Intent/purpose 
+Belief 
+TRAITS Cour age 
+Reasoning 
+Judgement 
+Decisioning 
+Thoroughness 
+Sense of Urgency 
+
+=== page 25 ===
+Intellect Research #2 
+The 14-Layer AI Iceberg 
+Just as Palantir architects intelligence, Intellect’s 14-layer architecture 
+ensures orchestration beyond the surface. USER 
+INTERFACE 
+14 HIDDEN 
+LAYERS Orchestration, Memory, Reasoning, Logic Visible:  Digital Interface & Simple Bots. 
+Deep Layers:  Vector Databases, Contextual Reasoning, Deterministic 
+Knowledge Engines, and Governance Stacks. 
+
+=== page 26 ===
+Wiring of 14-Layer Architecture of AI 
+Below the surface lurks the real challenge of 
+sustainable enterprise AI, capable of business 
+impact delivery at scale 
+UI for AI 
+❑Out of Box Conversation UI 
+❑Embed in 3rd Party Messenger App 
+❑Build Your Own Agent App UI 
+❑Embed in Existing Agent App 
+❑Chat Widgets Agent APIs 
+❑Agent APIs 
+❑Multi-Agent APIs 
+❑Agentic Business Process APIs 
+❑Business Process Status Check 
+❑Business Process Completion Notification 
+Agent Governance 
+❑Agent Design 
+❑Agent Versioning 
+❑Agent Publishing 
+❑Agent Entitlements 
+❑Agent Documentation 
+Enterprise AI Requirements 
+❑Multi-Tenancy 
+❑Multi-Workspace 
+❑User Roles, Permissions and Entitlements 
+❑Enterprise Data, Agent Access Controls 
+❑Rate & Token Limiting Agent Frameworks 
+❑RAG – Retrieval Augmented Generation 
+•Self Query, Multi Query 
+•Prompt Enrichment 
+•Query Planner 
+❑ReACT (Reason & Act) 
+Enterprise Knowledge 
+❑Embeddings 
+❑Re Rankings 
+❑Chunking 
+❑Meta Tagging, Labelling, Filtering 
+❑Storage & Retrieval 
+Agent Observability 
+❑Traceability 
+❑Explainability 
+❑Monitoring 
+❑Audit Trails 
+❑Metrics Dashboards (Token Usage, Costs  
+Agent Orchestration 
+❑Multi-Agent Orchestration 
+❑Static (Predefined) 
+❑Dynamic (Reasoning based) 
+❑Agentic Business Process Automation 
+❑Agent Short & Long Memory 
+LLM Optimization 
+❑LLM Choice per Agent 
+❑LLM Benchmarking (Cost, Accuracy, Speed) 
+❑LLM Load Balancing 
+❑LLM Retry 
+❑LLM PTUs` – Provisioned Throughput Units 
+Foundation Models 
+Data Sources & Connectors 
+❑Structured 
+❑Semi Structured 
+❑Un Structured ❑Database 
+❑REST API 
+❑email 
+❑File System 
+❑Cloud Storage 
+Agent Security & Guardrails 
+❑Masking 
+❑Grounding 
+❑Prompt Defense 
+❑Toxicity Detection 
+❑Hallucinations 
+Databases & Memory 
+❑SQL Database 
+❑noSQL Database 
+❑Vector Databases 
+❑In Memory Database PaaS & Frameworks 
+❑Containers & Orchestration 
+❑Message Queues 
+❑Identity & Access Management 
+❑API Gateway 
+❑Open Source Agent Frameworks 
+
+=== page 27 ===
+Intellect Research #3 
+Intelligence Accuracy Framework 
+K 
+Knowledge 
+The base layer of truth and enterprise 
+data R 
+Reasoning 
+The logic applied to knowledge to 
+derive intent C 
+Calculation 
+Deterministic veriﬁcation of the 
+reasoned output 
+
+=== page 28 ===
+SECTION 05 
+At Intellect: 
+ The Purple Fabric Platform 
+=== page 29 ===
+Purple Fabric 
+Business Impact AI Platform 
+Purple Fabric is engineered not for experimentation, but for solving 
+high-consequence enterprise problems Core DNA 
+Deterministic Knowledge:  Ensuring the AI never 
+operates outside the bounds of deﬁned enterprise 
+truths 8 
+Stacks of T echnology 18 
+Research Groups 
+
+=== page 30 ===
+The Macro Real Estate Shift 
+Over the last 30 years, global banks invested billions to deploy 
+modern relational databases to manage structured tracking data 
+The Next Cycle:  Institutions must now acquire sovereign 
+cognitive platforms to anchor, analyze, and defend their massive 
+unstructured proprietary memory assets[4] Private Cloud Realities 
+Systemically critical ﬁnancial organizations cannot risk shared 
+public cloud multi-tenant exposures. They will deploy private 
+knowledge architectures inside their own secured 
+parameters. Intellect is the only partner built for this reality. Corporate Knowledge Capital 
+
+=== page 31 ===
+36 
+Granted Global Patents 22+ 
+Active Multi-Agent Patents in Pipeline 
+Domain Specialization 
+Generic technology suppliers view banking logic as a secondary 
+addressable market vertical. Intellect treats institutional ﬁnance as our 
+core genetic foundation. Upcoming Horizons 
+Rolling out across subsequent system iterations: PF Zero-Trust Security 
+Mesh , PF Fault-Isolated Validation , and complete PF AIDLC 
+Development Cycles . Defensible Infrastructure Moats 
+
+=== page 32 ===
+5 Phases of Platform Adoption 
+1 2 3 5 4
+Platform 
+Design Platform 
+Education & 
+Awareness Extensive 
+Conversation, 
+POCs & Early 
+Wins Success 
+References Scale Out 
+
+=== page 33 ===
+6 Stages of Enterprise AI Progression 
+Where are you in your enterprise AI journey? Production Grade 
+or Pilot Grade? If your AI cannot be trusted with live ﬁnancial 
+ﬂows, it is not production-grade Data to 
+knowledge 
+ 
+Knowledge to 
+intelligence AI to Enterprise 
+Connected 
+Intelligence 01 02 04 05 06 03
+Ad-hoc 
+chatGPT 
+usage to 
+Institutional 
+curiosity The Curiosity Gap 
+Augmented Productivity 
+Manual 
+labour to 
+Copilot-powe
+red 
+workﬂows 
+Multi-Agent Orchestration 
+Single tasks 
+to 
+collaborative 
+intelligence 
+Knowledge Synthesis 
+Information 
+silos to the 
+‘Corporate 
+Brain’ 
+The Governance Fortress 
+Black box 
+risks to 
+production-gr
+ade trust 
+Value Realisation 
+Pilot experiments 
+to Real Business 
+Impact 
+
+=== page 34 ===
+Our Promise and Thesis 
+Enterprises will need their own platform like ERP to manage their 
+knowledge moat. 
+Large banks will have their own platform on their own cloud. 
+All employees of Service sector must participate in AI journey not 
+use case based. 
+Enterprises will need integrated Digital workforce harmonised 
+within their own environments. 
+
+=== page 35 ===
+SECTION 06 
+Revenue Forecast & 
+ Operational Impact 
+=== page 36 ===
+Purple Fabric’s Revenue Impact 
+AI-First Products 
+Better value and winning rates across our core offerings. PF-enabled 
+products deliver measurable outcomes that legacy competitors cannot 
+match Internal Productivity 
+Utilizing PF for Intellect's own engineering and operations, driving 
+signiﬁcant cost reduction in delivery and maintenance 
+
+=== page 37 ===
+eMACH.ai: 4 Cognitive Disciplines 
+Result:  Fully composable and contextual products that deﬁne the next generation of banking software Design Thinking 
+User-centric problem 
+solving First Principles 
+Deconstructing 
+complexity Framework Thinking 
+Structured scalability System Thinking 
+Integrated, holistic logic 
+
+=== page 38 ===
+SECTION 07 
+Operationalising 
+AI for Business 
+Impact 
+=== page 39 ===
+Monetisation & GTM Strategies 
+Revenue Stream Application Area Value Proposition 
+Direct Impact AI Insurance Underwriting, Submissions 24/7 automated ingestion & risk assessment. 
+Applied Modules PF Credit, Trade, GRC, Advisory AI-First overlays for legacy structural cores. 
+Platform (Big Bet) Sovereign Platform-as-a-Service Banks owning their proprietary knowledge moat. 
+
+=== page 40 ===
+Conclusion: The Exciting AI Track 
+The Outlook 
+“We have built something which is unique and perhaps much 
+ahead of the market need. I am here to learn from you on how 
+we can monetize this asset, together” 
+
+=== page 41 ===
+© 2026, Intellect Design Arena Limited. 
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be reproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties without the express written authorization of Intellect Design Arena Limited. 
