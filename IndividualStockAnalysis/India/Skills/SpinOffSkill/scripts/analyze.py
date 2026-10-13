@@ -68,6 +68,7 @@ LATEST = OUT_DIR / "spinoff_latest.json"
 SITUATIONS = OUT_DIR / "_situations.csv"
 MENTIONS = OUT_DIR / "_concall_mentions.csv"
 COVERAGE = OUT_DIR / "_coverage.csv"
+OFFERINGS = OUT_DIR / "_offerings.csv"
 HISTORY = OUT_DIR / "history"
 CACHE = HERE.parent / ".judge_cache.json"
 MODEL = os.environ.get("SPINOFF_JUDGE_MODEL",
@@ -233,6 +234,34 @@ def judge_segments(sit: dict, excerpts: list[dict], names: list[str],
                          + MODEL + PROMPT_VERSION).encode()).hexdigest()
     return _ask(f"{sit['symbol']}::segments", stamp,
                 segments_prompt(sit, excerpts, names), allow_ai, runner)
+
+
+def offering_prompt(sit: dict, text: str) -> str:
+    return (
+        f"You are reading the filings of {sit['company']} ({sit['symbol']}) about a "
+        f"{sit['family']} for an investor who wants to know WHO IS BUYING. Facts the "
+        f"pattern read: {json.dumps(sit['facts'])[:600]}. Answer STRICT JSON only, from the "
+        f"filing text below — never from memory; \"not stated\" when it does not say:\n"
+        '{"instrument": "warrants"|"equity shares"|"rights equity shares"|"CCPS"|"other", '
+        '"securities": "<number of securities, as written>", "issue_price": "<per security, ₹>", '
+        '"total_amount": "<aggregate, as written>", "pricing_basis": "<SEBI ICDR floor / discount or premium to market, if stated>", '
+        '"allottees": [{"name": "<person or entity>", "category": "promoter"|"promoter group"|"non-promoter"|"institution"|"public", '
+        '"securities": "<count or not stated>", "amount": "<₹ or not stated>"}], '
+        '"promoter_share_of_issue": "<% of the issue going to promoters, or not stated>", '
+        '"promoter_intent": "<for rights: whether promoters will subscribe fully / renounce / oversubscribe, in their words>", '
+        '"upfront_paid": "<for warrants: % paid upfront, tenure to convert>", '
+        '"purpose": "<stated use of proceeds, <=30 words>", '
+        '"stage": "board approved"|"shareholders approved"|"in-principle approval"|"allotted"|"converted"|"completed"|"not stated", '
+        '"quote": "<one verbatim sentence naming the buyers>"}\n\n'
+        f"FILING TEXT (truncated):\n{text[:JUDGE_CHARS]}"
+    )
+
+
+def judge_offering(sit: dict, text: str, allow_ai: bool = True, runner=None) -> dict:
+    if len(text) < 300:
+        return {"status": "no documents", "note": "no filing text on file"}
+    stamp = hashlib.md5((text[:JUDGE_CHARS] + MODEL + PROMPT_VERSION).encode()).hexdigest()
+    return _ask(f"{sit['symbol']}::offering::{sit['kind']}", stamp, offering_prompt(sit, text), allow_ai, runner)
 
 
 def segment_table(seg: dict) -> dict:
@@ -423,6 +452,80 @@ def render_company(s: dict, heavy: bool) -> list[str]:
     return A + render_light_tail(s)
 
 
+def _buyers(o: dict, f: dict) -> str:
+    """One cell: who is buying, promoters first."""
+    al = [a for a in (o.get("allottees") or []) if isinstance(a, dict) and a.get("name")]
+    if al:
+        parts = []
+        for a in al[:5]:
+            tag = a.get("category", "")
+            parts.append(f"**{a['name']}** ({tag})" if tag and "promoter" in tag.lower() else f"{a['name']} ({tag})" if tag else a["name"])
+        more = f" +{len(al) - 5} more" if len(al) > 5 else ""
+        return "; ".join(parts) + more
+    if f.get("allottees"):
+        return "; ".join(f["allottees"][:4])
+    return "not named in the filings on file"
+
+
+def render_offerings(offs: list[dict]) -> list[str]:
+    """Rights and preferential offerings — the paper, the price, and WHO
+    IS BUYING. The notes' tell: insiders taking the paper."""
+    A = ["## Rights and preferential offerings — who is buying", "",
+         "A rights issue hands the paper to existing holders; a preferential issue of equity or "
+         "warrants hands it to named buyers at a fixed price. The notes' question is the same for "
+         "both: are the insiders putting money in? Promoters taking warrants (25% upfront, 18 "
+         "months to convert) is insiders betting on the stock; paper placed with outsiders is "
+         "dilution. Each row names the buyers the filings name.", ""]
+    if not offs:
+        return A + ["- (none on file)", ""]
+    A += ["| Company | Instrument | Size | Price | Who is buying | Promoters in? | Stage | Latest filing |",
+          "|---|---|---|---|---|---|---|---|"]
+    def key(s):
+        o = s.get("offering") or {}
+        prom = any("promoter" in str(a.get("category", "")).lower() for a in (o.get("allottees") or []) if isinstance(a, dict)) \
+            or s["facts"].get("promoters_buying")
+        return (not prom, s["kind"] != "preferential_issue", s["symbol"])
+    for s in sorted(offs, key=key):
+        o, f = s.get("offering") or {}, s["facts"]
+        judged = o.get("status") in ("judged", "cached")
+        instrument = o.get("instrument") if judged else f.get("instrument", "—")
+        size = (o.get("total_amount") if judged and o.get("total_amount") not in (None, "not stated") else f.get("amount")) or \
+               (f"{f['securities']} securities" if f.get("securities") else "—")
+        price = (o.get("issue_price") if judged and o.get("issue_price") not in (None, "not stated") else
+                 (f"₹{f['issue_price']}" if f.get("issue_price") else "—"))
+        prom_in = "yes" if (judged and any("promoter" in str(a.get("category", "")).lower() for a in (o.get("allottees") or []) if isinstance(a, dict))) \
+            or f.get("promoters_buying") else ("no" if judged and o.get("allottees") else "unknown")
+        if judged and o.get("promoter_share_of_issue") not in (None, "", "not stated"):
+            prom_in += f" ({o['promoter_share_of_issue']})"
+        stage = o.get("stage") if judged and o.get("stage") != "not stated" else s["stage"]
+        A.append(f"| **{s['symbol']}** | {instrument or '—'} | {size} | {price} | {_buyers(o, f)} | {prom_in} | {stage} | {s['latest_filing']} |")
+    A.append("")
+    A += ["<details><summary>Each offering, with the filing's own words</summary>", ""]
+    for s in sorted(offs, key=key):
+        o, f = s.get("offering") or {}, s["facts"]
+        A.append(f"**{s['symbol']} — {s['company']}** · {s['family']} · {s['n_filings']} filing(s), {s['first_filing']} → {s['latest_filing']}")
+        if o.get("status") in ("judged", "cached"):
+            bits = [x for x in (
+                f"purpose: {o['purpose']}" if o.get("purpose") not in (None, "not stated") else "",
+                f"pricing: {o['pricing_basis']}" if o.get("pricing_basis") not in (None, "not stated") else "",
+                f"warrants: {o['upfront_paid']}" if o.get("upfront_paid") not in (None, "not stated") else "",
+                f"promoters' intent: {o['promoter_intent']}" if o.get("promoter_intent") not in (None, "not stated") else "") if x]
+            if bits:
+                A.append("- " + "; ".join(bits))
+            if o.get("quote"):
+                A.append(f"- “{o['quote']}”")
+        elif f.get("promoter_quote"):
+            A.append(f"- “{f['promoter_quote']}”")
+        else:
+            A.append(f"- {o.get('note') or 'mechanical read only'}")
+        link = next((h["attachment"] for h in reversed(s["headlines"]) if h["attachment"]), "")
+        if link:
+            A.append(f"- filing: [{s['headlines'][-1]['headline'][:120]}]({link})")
+        A.append("")
+    A += ["</details>", ""]
+    return A
+
+
 def render_light_tail(s: dict) -> list[str]:
     A = ["**The checklist:**", "", "| Item | Status | Evidence |", "|---|---|---|"]
     for it in s["checklist"]:
@@ -448,7 +551,8 @@ def render_report(record: dict) -> str:
     m = record["meta"]
     sits = record["situations"]
     spins = [s for s in sits if s["kind"] in SO.SPIN_KINDS]
-    others = [s for s in sits if s["kind"] not in SO.SPIN_KINDS]
+    offs = [s for s in sits if s["kind"] in SO.OFFERING_KINDS]
+    others = [s for s in sits if s["kind"] not in SO.SPIN_KINDS and s["kind"] not in SO.OFFERING_KINDS]
     conf = {s["symbol"]: s["confidence"][0] for s in spins}
     confirmed = [s for s in spins if conf[s["symbol"]] == "confirmed"]
     probable = [s for s in spins if conf[s["symbol"]] == "probable"]
@@ -457,7 +561,7 @@ def render_report(record: dict) -> str:
          f"*Run {m['run_date']} · filings window {m['window_from']} → {m['window_to']} · "
          f"{m['filings']} restructuring filings across {m['companies']} companies · "
          f"{len(confirmed)} confirmed demergers, {len(probable)} probable, {len(indicated)} indicated, "
-         f"{len(others)} other restructurings · judge: {m['judge']}.*", "",
+         f"{len(offs)} rights / preferential offerings, {len(others)} other restructurings · judge: {m['judge']}.*", "",
          "**The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: "
          "the new stock is sold by holders who never chose it for about a year, the parent is "
          "often the better buy before the split, insiders tell you what they think through the "
@@ -499,6 +603,7 @@ def render_report(record: dict) -> str:
     A += ["---", "", "# Indicated only", ""]
     for s in indicated:
         A += render_company(s, heavy=False)
+    A += render_offerings([s for s in sits if s["kind"] in SO.OFFERING_KINDS])
     only_calls = record.get("call_only", [])
     A += ["## Indicated on the calls, not yet filed", "",
           "Companies whose management used forward-looking spin-off / demerger / listing language "
@@ -565,6 +670,28 @@ def situation_rows(sits: list[dict]) -> list[dict]:
     return out
 
 
+def offering_rows(sits: list[dict]) -> list[dict]:
+    out = []
+    for s in sits:
+        if s["kind"] not in SO.OFFERING_KINDS:
+            continue
+        o, f = s.get("offering") or {}, s["facts"]
+        al = [a for a in (o.get("allottees") or []) if isinstance(a, dict)]
+        out.append({"symbol": s["symbol"], "company": s["company"], "kind": s["kind"],
+                    "instrument": o.get("instrument") or f.get("instrument", ""),
+                    "securities": o.get("securities") or f.get("securities", ""),
+                    "issue_price": o.get("issue_price") or f.get("issue_price", ""),
+                    "total_amount": o.get("total_amount") or f.get("amount", ""),
+                    "allottees": "; ".join(f"{a.get('name', '')} [{a.get('category', '')}]" for a in al) or "; ".join(f.get("allottees", [])),
+                    "promoters_buying": "yes" if any("promoter" in str(a.get("category", "")).lower() for a in al) or f.get("promoters_buying") else "",
+                    "promoter_share_of_issue": o.get("promoter_share_of_issue", ""),
+                    "promoter_intent": o.get("promoter_intent", ""), "purpose": o.get("purpose", ""),
+                    "stage": o.get("stage") or s["stage"], "first_filing": s["first_filing"],
+                    "latest_filing": s["latest_filing"], "n_filings": s["n_filings"],
+                    "judge_status": o.get("status", "")})
+    return out
+
+
 def coverage_rows(sits: list[dict]) -> list[dict]:
     out = []
     for s in sits:
@@ -616,6 +743,10 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
         s["confidence"] = ("other", "the scheme read by the judge amalgamates; nothing is separated")
         s["verdict"] = SO.verdict(s, s["checklist"])
     s["listing"] = SO.listing_status(s, s["judge"], today)
+    if s["kind"] in SO.OFFERING_KINDS:
+        s["confidence"] = ("offering", SO.family_of(s["kind"]))
+        s["offering"] = judge_offering(s, scheme_text_for(s, rows), allow_ai=ai, runner=runner)
+        return
     if s["confidence"][0] not in ("confirmed", "probable"):
         return
     sym = s["symbol"]
@@ -670,7 +801,7 @@ def cmd_run(args, runner=None) -> dict:
             print(f"  {s['symbol']}: {s['confidence'][0]} / {s['stage']} — {s['listing']['state']}"
                   f" [{(s.get('judge') or {}).get('status')} / {(s.get('rationale') or {}).get('status', '-')}"
                   f" / {(s.get('segments') or {}).get('status', '-')}]", file=sys.stderr)
-    sits.sort(key=lambda s: (s["kind"] not in SO.SPIN_KINDS,
+    sits.sort(key=lambda s: (s["kind"] not in SO.SPIN_KINDS, s["kind"] not in SO.OFFERING_KINDS,
                              SO.CONFIDENCE_ORDER.get(s["confidence"][0], 9),
                              -s["verdict"]["score"], s["symbol"]))
     call_only = [] if args.no_calls else call_only_scan(
@@ -689,12 +820,14 @@ def cmd_run(args, runner=None) -> dict:
     FA.write_csv(SITUATIONS, srows, list(srows[0].keys()) if srows else ["symbol"])
     crows = coverage_rows(sits)
     FA.write_csv(COVERAGE, crows, list(crows[0].keys()) if crows else ["symbol"])
+    orows = offering_rows(sits)
+    FA.write_csv(OFFERINGS, orows, list(orows[0].keys()) if orows else ["symbol"])
     mrows = [{"symbol": s["symbol"], **mm} for s in sits for mm in s["concall_mentions"]]
     mrows += [{"symbol": c["symbol"], **mm} for c in call_only for mm in c["mentions"]]
     FA.write_csv(MENTIONS, mrows, ["symbol", "call", "term", "tone", "quote"])
     snap = HISTORY / today.isoformat()
     snap.mkdir(parents=True, exist_ok=True)
-    for p in (REPORT, SITUATIONS, MENTIONS, COVERAGE):
+    for p in (REPORT, SITUATIONS, MENTIONS, COVERAGE, OFFERINGS):
         if p.exists():
             shutil.copy(p, snap / p.name)
     (snap / "run.json").write_text(json.dumps(record, indent=1, default=str))

@@ -639,3 +639,31 @@ def test_board_meeting_purposes_and_bare_outcomes_feed_the_classifier():
     assert FA.is_bare_outcome("Outcome of Board Meeting", "Outcome of Board Meeting held on 12 May 2026")
     assert not FA.is_bare_outcome("Outcome of Board Meeting", "Outcome of Board Meeting - approval of the demerger of X")
     assert not FA.is_bare_outcome("Updates", "Outcome of Board Meeting")
+
+
+
+def test_preferential_issues_are_captured_and_who_is_buying_is_rendered(monkeypatch):
+    assert FA.classify("Updates", "Affle 3i Limited has informed the Exchange regarding 'allotment of warrants '.") \
+        == ("preferential_issue", ["preferential_issue"])
+    assert FA.classify("Allotment of Securities", "allotment of 6058394 securities pursuant to Preferential Issue")[0] == "preferential_issue"
+    assert FA.classify("Monitoring Agency Report", "utilisation of preferential issue proceeds") == ("", [])
+    f = SO.offering_facts("allotment of 36,00,000 convertible warrants at an issue price of Rs. 1,650 per warrant "
+                          "aggregating to Rs. 594 crores to persons belonging to the promoter group on a preferential basis")
+    assert f["instrument"] == "warrants" and f["securities"] == "36,00,000" and f["issue_price"] == "1,650"
+    assert f["amount"] == "₹594 crores" and f["promoters_buying"] is True
+    rows = [{"date": "2026-06-18", "symbol": "AFFLE", "company": "Affle 3i Ltd.", "source": "NSE", "category": "Updates",
+             "kind": "preferential_issue", "tags": "preferential_issue", "headline": "allotment of warrants",
+             "attachment": "https://x/w.pdf", "ann_id": "77", "file_size": "1 MB", "text_file": ""}]
+    s = SO.build_situations(rows, {"77": "allotment of 36,00,000 warrants at an issue price of Rs. 1,650 to the promoter group"}, TODAY)[0]
+    assert s["kind"] == "preferential_issue" and s["facts"]["instrument"] == "warrants"
+    assert SO.verdict(s, SO.checklist(s, {}, [], TODAY))["label"].startswith("PREFERENTIAL ISSUE")
+    s["offering"] = {"status": "judged", "instrument": "warrants", "total_amount": "₹594 crore", "issue_price": "₹1,650",
+                     "allottees": [{"name": "Anuj Khanna Sohum", "category": "promoter", "securities": "20,00,000", "amount": "₹330 cr"},
+                                   {"name": "Malabar India Fund", "category": "institution", "securities": "16,00,000", "amount": "₹264 cr"}],
+                     "promoter_share_of_issue": "56%", "promoter_intent": "not stated", "upfront_paid": "25% upfront, 18 months",
+                     "purpose": "growth capital", "stage": "allotted", "quote": "allotted to Anuj Khanna Sohum, promoter"}
+    md = "\n".join(AZ.render_offerings([s]))
+    assert "who is buying" in md and "| **AFFLE** | warrants | ₹594 crore | ₹1,650 |" in md
+    assert "**Anuj Khanna Sohum** (promoter)" in md and "Malabar India Fund (institution)" in md and "yes (56%)" in md
+    assert AZ.offering_rows([s])[0]["promoters_buying"] == "yes"
+    assert AZ.render_offerings([])[-2] == "- (none on file)"

@@ -53,6 +53,7 @@ LIVE = INDIA / "StockInfo" / "Nifty500" / "live_market_data.csv"
 CONSTITUENTS = FA.CONSTITUENTS
 
 SPIN_KINDS = ("demerger", "subsidiary_listing", "scheme_other")
+OFFERING_KINDS = ("rights_issue", "preferential_issue")
 LISTING_LAG_DAYS = 30        # a record date this old means the new entity trades
 CONCALL_MONTHS = 12
 _MONTHS = {m: i + 1 for i, m in enumerate(
@@ -294,6 +295,7 @@ def family_of(kind: str) -> str:
     return {"demerger": "spin-off", "subsidiary_listing": "partial spin-off / listing",
             "scheme_other": "scheme (nature unclear)", "merger": "merger",
             "slump_sale": "slump sale", "rights_issue": "rights offering",
+            "preferential_issue": "preferential issue / warrants",
             "capital_reduction": "capital reduction"}.get(kind, kind)
 
 
@@ -310,6 +312,8 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         kind = refine_kind(r, text or "")
         fam = ("spin" if kind in ("demerger", "subsidiary_listing", "scheme_other")
                else kind)
+        if kind in ("rights_issue", "preferential_issue"):
+            fam = kind                       # one situation per offering type
         by.setdefault((r["symbol"], fam), []).append({**r, "kind": kind, "_text": text or ""})
     out = []
     for (sym, fam), fl in by.items():
@@ -340,8 +344,10 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
                 if rr["reason"] not in seen_reasons:
                     seen_reasons.add(rr["reason"])
                     reasons.append(rr)
-            if r["kind"] == "rights_issue":
+            if r["kind"] in ("rights_issue", "preferential_issue"):
                 rights_rows.append(r)
+                for k, v in offering_facts(blob).items():
+                    facts.setdefault(k, v)
         stage = (max(stage_dates, key=STAGE_ORDER.index) if stage_dates else "announced")
         first, last = fl[0]["date"], fl[-1]["date"]
         days = (today - dt.date.fromisoformat(first)).days
@@ -680,7 +686,8 @@ def verdict(sit: dict, items: list[dict]) -> dict:
     if k not in SPIN_KINDS:
         label = {"merger": "MERGER — not a spin-off; noted for the record",
                  "slump_sale": "SLUMP SALE — cash deal, no new listing",
-                 "rights_issue": "RIGHTS OFFERING — check the oversubscription clause",
+                 "rights_issue": "RIGHTS OFFERING — check who subscribes and the oversubscription clause",
+                 "preferential_issue": "PREFERENTIAL ISSUE / WARRANTS — check who is buying",
                  "capital_reduction": "CAPITAL ACTION — not a spin-off"}.get(k, k.upper())
     elif st == "withdrawn":
         label = "WITHDRAWN — the proposal was pulled; watch for a return"
@@ -821,3 +828,57 @@ def judge_override(sit: dict, judge: dict) -> dict | None:
             and judge.get("selling_pressure") != "likely":
         return "merger"
     return None
+
+
+# ------------------------------------------------ rights and preferential
+
+PROMOTER_RX = re.compile(r"promoter(s)?( group)?|promoter/promoter group", re.I)
+WARRANT_RX = re.compile(r"(\d[\d,]{4,})\s*(?:\([^)]{3,60}\)\s*)?(?:fully |partly )?(?:convertible )?warrants?", re.I)
+EQUITY_RX = re.compile(r"(\d[\d,]{4,})\s*(?:\([^)]{3,60}\)\s*)?(?:fully paid[- ]up )?equity shares?", re.I)
+PRICE_RX = re.compile(r"(?:issue |exercise |at a |at an? )?price of (?:rs\.?|inr|₹)\s*([\d,]+(?:\.\d+)?)", re.I)
+AMOUNT_RX = re.compile(r"(?:aggregating|amounting|up)\s*(?:to|of)?\s*(?:rs\.?|inr|₹)\s*([\d,]+(?:\.\d+)?)\s*(crores?|cr\.?|lakhs?|million|mn|billion|bn)", re.I)
+ALLOTTEE_RX = re.compile(r"(?:allot\w+|issue\w*|offer\w*|subscri\w+)\s+(?:of\s+)?.{0,120}?\bto\s+"
+                         r"((?:the\s+)?(?:promoters?|promoter group|persons? belonging to (?:the )?promoter"
+                         r"(?: and promoter group| group)?|non[- ]promoters?|public category|"
+                         r"qualified institutional|identified investors?|strategic investors?|"
+                         r"[A-Z][A-Za-z&.\- ]{3,60}?(?:Limited|Ltd\.?|LLP|Trust|Fund|Capital|Partners|Holdings|Investments)))",
+                         re.I | re.S)
+
+
+def offering_facts(text: str) -> dict:
+    """What a rights / preferential filing states about the paper and the
+    buyers: instrument, count, price, amount, named allottees, whether
+    promoters are among them, promoters' subscription intent."""
+    t = text or ""
+    out: dict = {}
+    w, e = WARRANT_RX.search(t), EQUITY_RX.search(t)
+    if w:
+        out["instrument"] = "warrants"
+        out["securities"] = w.group(1)
+    elif e:
+        out["instrument"] = "equity shares"
+        out["securities"] = e.group(1)
+    m = PRICE_RX.search(t)
+    if m:
+        out["issue_price"] = m.group(1)
+    m = AMOUNT_RX.search(t)
+    if m:
+        out["amount"] = f"₹{m.group(1)} {m.group(2)}"
+    names = []
+    for m in ALLOTTEE_RX.finditer(t[:120_000]):
+        n = re.sub(r"\s+", " ", m.group(1)).strip(" .,")
+        if n and n.lower() not in {x.lower() for x in names}:
+            names.append(n)
+        if len(names) >= 8:
+            break
+    if names:
+        out["allottees"] = names
+    if PROMOTER_RX.search(" ".join(names)) or re.search(
+            r"promoter\w*.{0,80}(subscri|allot|apply|particip)", t, re.I | re.S):
+        out["promoters_buying"] = True
+        m = re.search(r"promoter\w*.{0,160}?(subscri\w+|allot\w+|particip\w+).{0,120}", t, re.I | re.S)
+        if m:
+            out["promoter_quote"] = _snippet(t, m.start(), m.end(), 40)
+    if re.search(r"renounc\w+", t, re.I):
+        out["renunciation_mentioned"] = True
+    return out

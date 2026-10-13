@@ -115,17 +115,22 @@ PATTERNS = {
     "capital_reduction": re.compile(
         r"reduction of (share )?capital|capital reduction|buy[\s-]?back"),
     "rights_issue": re.compile(r"rights? (issue|offering|entitlement)|letter of offer"),
+    "preferential_issue": re.compile(
+        r"preferential (issue|allotment|basis|offer)|(convertible |share |equity )?warrants?\b|"
+        r"private placement of (equity|shares|warrants)|conversion of warrants"),
     "scheme_other": re.compile(r"scheme of arrangement|composite scheme|"
                                r"(\bnclt\b|national company law tribunal).{0,80}scheme|"
                                r"scheme.{0,80}(\bnclt\b|national company law tribunal)"),
 }
 KIND_ORDER = ["demerger", "subsidiary_listing", "slump_sale", "merger",
-              "capital_reduction", "rights_issue", "scheme_other"]
+              "capital_reduction", "rights_issue", "preferential_issue", "scheme_other"]
 # NSE categories that are restructuring by definition even without words
 CATEGORY_KINDS = {"Scheme of Arrangement": "scheme_other",
                   "Demerger": "demerger",
                   "Amalgamation/Merger": "merger",
-                  "Rights Issue": "rights_issue"}
+                  "Rights Issue": "rights_issue",
+                  "Preferential issue": "preferential_issue",
+                  "Preferential Issue": "preferential_issue"}
 # Noise: these categories never hold a restructuring signal, whatever the
 # headline says (a DP certificate mentioning "demerged shares", say)
 NOISE_CATEGORIES = {
@@ -134,7 +139,7 @@ NOISE_CATEGORIES = {
     "Price movement", "Copy of Newspaper Publication",
 }
 NOISE_PREFIXES = ("Issue of Duplicate Share Cer", "Loss of Share Certificate",
-                  "Certificate under SEBI")
+                  "Certificate under SEBI", "Monitoring Agency Report")
 
 
 def classify(category: str, headline: str) -> tuple[str, list[str]]:
