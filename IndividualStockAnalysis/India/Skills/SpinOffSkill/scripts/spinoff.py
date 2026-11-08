@@ -75,8 +75,8 @@ STAGES = [
                                r"listing(?! regulations?| obligations?) .{0,60}(resulting|demerged) compan|"
                                r"allotment of (equity )?shares.{0,60}(scheme|de-?merger|resulting)", re.I)),
 ]
-STAGE_ORDER = [s for s, _ in STAGES] + ["withdrawn"]
-PRE_STAGES = ("rumoured", "withdrawn", "announced", "exchange_noc", "meetings", "nclt_sanction")
+STAGE_ORDER = [s for s, _ in STAGES] + ["withdrawn", "indicated_on_calls"]
+PRE_STAGES = ("rumoured", "withdrawn", "indicated_on_calls", "announced", "exchange_noc", "meetings", "nclt_sanction")
 
 
 def stage_of(text: str) -> str | None:
@@ -258,6 +258,54 @@ def load_text(row: dict) -> str:
     return p.read_text(errors="replace") if p.exists() else ""
 
 
+def load_first_pages(row: dict) -> str:
+    """The first-pages text the deep read kept for a filing, or ''."""
+    safe = re.sub(r"[^A-Za-z0-9_-]", "_", row.get("ann_id", ""))[:40]
+    p = ANN_DIR / "text" / "first" / f"{row['symbol']}_{safe}.txt"
+    return p.read_text(errors="replace") if p.exists() else ""
+
+
+# An EVENT is something that happened; the same words in a scheme body are
+# usually a promise ("shall be listed", "proposed to be"). A stage read from
+# a document body must therefore carry an event verb and no promissory
+# word just before it.
+EVENT_STAGES = [
+    ("listed", re.compile(r"(listed and admitted to (dealings|trading)|commenced trading|commencement of trading|"
+                          r"trading approval (has been |was )?(granted|received)|got listed|were listed|"
+                          r"listing (and|&) trading (approval|permission)s? (has been |have been |was |were )?(received|granted))", re.I)),
+    ("record_date", re.compile(r"record date (has been |is |was )?(fixed|set|determined) (as|on|at)|"
+                               r"fixed [A-Za-z]+,? \d{1,2}[a-z]{0,2} [A-Z][a-z]+ \d{4} as the record date", re.I)),
+    ("effective", re.compile(r"scheme (has )?(become|became|is now) effective|effective date (of the scheme )?(is|was|being) |"
+                             r"certified (true )?cop(y|ies) of the (said )?order .{0,60}(has been|have been|was|were) filed", re.I)),
+    ("nclt_sanction", re.compile(r"(nclt|tribunal|national company law tribunal).{0,80}(has |have |had )?(sanctioned|approved|allowed|pronounced)|"
+                                 r"(sanction|approval) of the scheme (by|from) the (hon'?ble )?(nclt|tribunal)|"
+                                 r"order (dated|passed) .{0,60}(sanction|approv)", re.I)),
+    ("meetings", re.compile(r"meeting of (the )?(equity )?shareholders .{0,80}(was |were )?(held|concluded|approved)|"
+                            r"(approved|passed) by (the )?(equity )?shareholders .{0,60}(requisite|majority)|"
+                            r"nclt[- ]convened meeting .{0,60}(held|concluded)|voting results .{0,60}scheme", re.I)),
+    ("exchange_noc", re.compile(r"(observation letter|no[- ]objection letter|no adverse observation).{0,80}(received|issued|granted)|"
+                                r"(received|receipt of) .{0,60}(observation letter|no[- ]objection)", re.I)),
+    ("announced", re.compile(r"board .{0,40}(has |had )?(approved|considered and approved|accorded).{0,120}(scheme|de-?merger|spin|arrangement|hive|list)|"
+                             r"in[- ]principle approval .{0,60}(granted|accorded|given)", re.I)),
+]
+PROMISE_RX = re.compile(r"(shall|will|would|proposed|propose[sd]?|expected|subject to|to be|upon|intend\w*|envisag\w*|"
+                        r"may)\s+(be\s+|the\s+|a\s+|its\s+)?$", re.I)
+
+
+def stage_from_text(text: str) -> str | None:
+    """The furthest stage the document reports as an EVENT. A match
+    preceded (within 40 characters) by a promissory word does not count."""
+    t = text or ""
+    found = []
+    for stage, rx in EVENT_STAGES:
+        for m in rx.finditer(t):
+            if PROMISE_RX.search(t[max(0, m.start() - 40):m.start()]):
+                continue
+            found.append(stage)
+            break
+    return max(found, key=STAGE_ORDER.index) if found else None
+
+
 def refine_kind(row: dict, text: str) -> str:
     """A 'Scheme of Arrangement' headline says nothing; its attachment
     does. Re-classify from the text: a scheme whose text demerges is a
@@ -309,15 +357,29 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
     by: dict[tuple[str, str], list[dict]] = {}
     for r in rows:
         text = (texts or {}).get(r["ann_id"]) if texts is not None else load_text(r)
-        kind = refine_kind(r, text or "")
-        fam = ("spin" if kind in ("demerger", "subsidiary_listing", "scheme_other")
-               else kind)
-        if kind in ("rights_issue", "preferential_issue"):
-            fam = kind                       # one situation per offering type
-        by.setdefault((r["symbol"], fam), []).append({**r, "kind": kind, "_text": text or ""})
+        first = "" if texts is not None else load_first_pages(r)
+        kind = refine_kind(r, text or first or "")
+        # a filing joins EVERY family its tags cover — a composite scheme that
+        # demerges one business and amalgamates another is in both
+        tags = [k for k in (r.get("tags") or kind).split("|") if k]
+        if kind not in tags:
+            tags.append(kind)
+        fams = []
+        for k in tags:
+            fam = ("spin" if k in ("demerger", "subsidiary_listing", "scheme_other") else k)
+            if fam not in fams:
+                fams.append(fam)
+        for fam in fams:
+            k = kind if (fam == "spin" and kind in SPIN_KINDS) or fam == kind else \
+                next(x for x in tags if (fam == "spin" and x in SPIN_KINDS) or x == fam)
+            by.setdefault((r["symbol"], fam), []).append(
+                {**r, "kind": k, "_text": text or "", "_first": first})
     out = []
     for (sym, fam), fl in by.items():
         fl.sort(key=lambda r: r["date"])
+        # exchange filings set the dates and stages; call mentions are
+        # evidence beside them, and the whole record only when nothing is filed
+        filed = [r for r in fl if r.get("source") != "CALLS"] or fl
         kinds = [r["kind"] for r in fl]
         kind = ("demerger" if "demerger" in kinds else
                 "subsidiary_listing" if "subsidiary_listing" in kinds else kinds[0])
@@ -329,9 +391,14 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         news_only = 0
         for r in fl:
             blob = f"{r['category']} {r['headline']} {r['_text'][:120_000]}"
-            st = stage_of(f"{r['category']} {r['headline']}")
-            if st is None and r["_text"] and STAGES[0][1].search(r["_text"][:3_000]):
-                st = "announced"            # a board-approval letter with a bare headline
+            # the stage: the headline when it names one; otherwise the
+            # document itself, read for EVENTS, not promises. A call
+            # mention never sets a stage.
+            st = None
+            if r.get("source") != "CALLS":
+                st = stage_of(f"{r['category']} {r['headline']}")
+                if st is None:
+                    st = stage_from_text(r.get("_first") or r["_text"][:30_000])
             if st and (st not in stage_dates or r["date"] < stage_dates[st]):
                 stage_dates[st] = r["date"]
             for k, v in facts_in(blob, rights=(r["kind"] == "rights_issue")).items():
@@ -349,7 +416,9 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
                 for k, v in offering_facts(blob).items():
                     facts.setdefault(k, v)
         stage = (max(stage_dates, key=STAGE_ORDER.index) if stage_dates else "announced")
-        first, last = fl[0]["date"], fl[-1]["date"]
+        if all(r.get("source") == "CALLS" for r in fl):
+            stage = "indicated_on_calls"
+        first, last = filed[0]["date"], filed[-1]["date"]
         days = (today - dt.date.fromisoformat(first)).days
         if news_only == len(fl):
             facts["news_only"] = True        # rumour / clarification / denial only
@@ -689,6 +758,8 @@ def verdict(sit: dict, items: list[dict]) -> dict:
                  "rights_issue": "RIGHTS OFFERING — check who subscribes and the oversubscription clause",
                  "preferential_issue": "PREFERENTIAL ISSUE / WARRANTS — check who is buying",
                  "capital_reduction": "CAPITAL ACTION — not a spin-off"}.get(k, k.upper())
+    elif st == "indicated_on_calls":
+        label = "INDICATED ON CALLS — management talking, nothing filed yet"
     elif st == "withdrawn":
         label = "WITHDRAWN — the proposal was pulled; watch for a return"
     elif st == "rumoured":
@@ -742,6 +813,8 @@ def confidence(sit: dict) -> tuple[str, str]:
     that demerges); 'probable' for a subsidiary listing in motion (DRHP)
     or a scheme whose attachment is unread; 'indicated' for rumour, news
     verification or calls alone."""
+    if sit["stage"] == "indicated_on_calls":
+        return "indicated", "management spoke of it on the calls; nothing filed yet"
     if sit["facts"].get("news_only") or sit["stage"] == "rumoured":
         return "indicated", "news verification / denial only — no scheme filed"
     if sit["stage"] == "withdrawn":
@@ -778,6 +851,10 @@ def listing_status(sit: dict, judge: dict | None = None,
     if sit["kind"] not in SPIN_KINDS:
         return {"state": "not_a_spin", "short": "no new listing",
                 "text": "no new listing — " + family_of(sit["kind"])}
+    if st == "indicated_on_calls":
+        return {"state": "no_filing", "short": "indicated on calls; nothing filed",
+                "text": "NOTHING FILED — management has spoken of it on the calls only"
+                + (f"; they said: {tl}" if tl else "")}
     if st == "withdrawn":
         return {"state": "withdrawn", "short": f"WITHDRAWN {f.get('withdrawn_on', '')}",
                 "text": f"WITHDRAWN on {f.get('withdrawn_on', '')} — the proposal was pulled; no listing"}
@@ -882,3 +959,55 @@ def offering_facts(text: str) -> dict:
     if re.search(r"renounc\w+", t, re.I):
         out["renunciation_mentioned"] = True
     return out
+
+
+# --------------------------------------------- the calls as a source
+
+CALL_TERM_KIND = [
+    ("demerger", re.compile(r"\bde-?merg\w*|spin[\s-]?offs?|hiv(e|ing)[\s-]?off|carve[\s-]?out|"
+                            r"(separate|independent) listing", re.I)),
+    ("subsidiary_listing", re.compile(r"(ipo|initial public offer\w*|list(ing)?) (of )?(the |our |its )?(subsidiar|arm\b)|"
+                                      r"subsidiar\w*.{0,40}(ipo|initial public offer|listing)|\bdrhp\b", re.I)),
+    ("slump_sale", re.compile(r"slump sale|sale of (the |our )?(\w+ )?business|divest\w* (the |our )?(\w+ )?business", re.I)),
+    ("rights_issue", re.compile(r"rights issue", re.I)),
+    ("preferential_issue", re.compile(r"preferential (issue|allotment)|warrants?\b|\bqip\b|qualified institutions? placement", re.I)),
+    ("capital_reduction", re.compile(r"buy[\s-]?back", re.I)),
+    ("scheme_other", re.compile(r"scheme of arrangement|value[\s-]?unlock\w*|strategic (review|alternatives?)|restructur\w+ (of )?(the |our )?(group|business|company)", re.I)),
+]
+
+
+def concall_candidates(symbols: list[str], members: dict[str, str],
+                       today: dt.date | None = None, months: int = CONCALL_MONTHS,
+                       links: dict[str, dict[str, str]] | None = None,
+                       text_of=None) -> list[dict]:
+    """Special situations INDICATED on the calls — the initial list is not
+    built from filings alone. For every company, the last `months` of
+    transcripts are scanned; each forward-looking mention becomes a
+    filing-shaped row (source CALLS) so it flows through the same
+    situation machinery, with the transcript link as its attachment.
+    Backward-looking mentions (a demerger already done, a denial) do not
+    count. `text_of(symbol)` and `links` are injectable for tests."""
+    today = today or dt.date.today()
+    text_of = text_of or concall_text
+    links = links or {}
+    rows = []
+    for sym in symbols:
+        txt = text_of(sym)
+        if not txt:
+            continue
+        for m in concall_mentions(txt, today, months, max_per_call=12):
+            if m["tone"] != "forward":
+                continue
+            kinds = [k for k, rx in CALL_TERM_KIND if rx.search(m["quote"])]
+            if not kinds:
+                continue
+            kinds = sorted(set(kinds), key=lambda k: [x for x, _ in CALL_TERM_KIND].index(k))
+            d = _label_date(f"Call: {m['call']}")
+            rows.append({"date": d.isoformat() if d else today.isoformat(), "symbol": sym,
+                         "company": members.get(sym, sym), "source": "CALLS",
+                         "category": f"Earnings call {m['call']}", "kind": kinds[0],
+                         "tags": "|".join(kinds), "headline": m["quote"][:400],
+                         "attachment": links.get(sym, {}).get(m["call"], ""),
+                         "ann_id": f"call{d:%Y%m}{sym}{abs(hash(m['quote'])) % 100000}" if d else f"call{sym}",
+                         "file_size": "", "text_file": ""})
+    return rows

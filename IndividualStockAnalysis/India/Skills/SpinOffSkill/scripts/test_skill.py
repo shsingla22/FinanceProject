@@ -29,6 +29,7 @@ import fetch_announcements as FA     # noqa: E402
 import spinoff as SO                 # noqa: E402
 import analyze as AZ                 # noqa: E402
 import financials as FN              # noqa: E402
+import deep_read as DR               # noqa: E402
 
 TODAY = dt.date(2026, 10, 8)
 
@@ -324,15 +325,16 @@ def test_judge_is_cached_by_document_and_abstains_without_a_runner(tmp_path, mon
         calls.append(prompt)
         assert "Alpha" in prompt and "STRICT JSON" in prompt
         return 'preamble {"what_is_spun": "Energy", "reason": "focus", "reason_class": "unrelated", "quote": "q"} tail'
-    j = AZ.judge(sit, SCHEME, [], allow_ai=True, runner=runner)
+    j = AZ.judge(sit, SCHEME, "", allow_ai=True, runner=runner)
     assert j["status"] == "judged" and j["what_is_spun"] == "Energy"
-    j2 = AZ.judge(sit, SCHEME, [], allow_ai=True, runner=runner)
+    assert "FILINGS, COMPLETE" in calls[0] and "EARNINGS CALLS, COMPLETE" in calls[0]
+    j2 = AZ.judge(sit, SCHEME, "", allow_ai=True, runner=runner)
     assert j2["status"] == "cached" and len(calls) == 1
     # a changed document re-judges; --quick abstains honestly
-    AZ.judge(sit, SCHEME + " changed", [], allow_ai=True, runner=runner)
+    AZ.judge(sit, SCHEME + " changed", "", allow_ai=True, runner=runner)
     assert len(calls) == 2
-    assert AZ.judge({**sit, "symbol": "BETA"}, SCHEME, [], allow_ai=False)["status"] == "not assessed"
-    assert AZ.judge({**sit, "symbol": "BETA"}, SCHEME, [], runner=lambda p: "garbage")["status"].startswith("judge failed")
+    assert AZ.judge({**sit, "symbol": "BETA"}, SCHEME, "", allow_ai=False)["status"] == "not assessed"
+    assert AZ.judge({**sit, "symbol": "BETA"}, SCHEME, "", runner=lambda p: "garbage")["status"].startswith("judge failed")
 
 
 def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
@@ -363,7 +365,7 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
 
     class A:
         refresh = False; days = 365; no_bse = True; quick = True; no_calls = False; only = ""
-        fetch_docs = False
+        fetch_docs = False; as_of = TODAY.isoformat()
     AZ.cmd_run(A())
     md = (out / "SPINOFF_REPORT.md").read_text()
     assert "# Spin-offs and demergers" in md
@@ -377,7 +379,9 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     assert "Other restructurings on file" in md and "| ALPHA | merger |" in md
     assert "mechanical read only" in md
     rec = json.loads((out / "spinoff_latest.json").read_text())
-    assert rec["meta"]["filings"] == 5 and rec["situations"][0]["judge"]["status"] == "not assessed"
+    # the two filing-only CALLS mentions of ALPHA joined its spin situation as rows
+    assert rec["meta"]["filings"] >= 5 and rec["situations"][0]["judge"]["status"] == "not assessed"
+    assert "CALLS" in rec["situations"][0]["sources"]
     assert rec["situations"][0]["confidence"][0] == "confirmed"
     sits = list(csv.DictReader(open(out / "_situations.csv")))
     assert [s["kind"] for s in sits] == ["demerger", "merger"]
@@ -386,7 +390,7 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     assert cov[0]["symbol"] == "ALPHA" and cov[0]["parent_pnl"] == "yes" and cov[0]["cash_flow"] == "no"
     ms = list(csv.DictReader(open(out / "_concall_mentions.csv")))
     assert {m["symbol"] for m in ms} == {"ALPHA"} and all(m["quote"] for m in ms)
-    snap = out / "history" / dt.date.today().isoformat()
+    snap = out / "history" / TODAY.isoformat()
     assert (snap / "run.json").exists() and (snap / "SPINOFF_REPORT.md").exists()
 
 
@@ -667,3 +671,76 @@ def test_preferential_issues_are_captured_and_who_is_buying_is_rendered(monkeypa
     assert "**Anuj Khanna Sohum** (promoter)" in md and "Malabar India Fund (institution)" in md and "yes (56%)" in md
     assert AZ.offering_rows([s])[0]["promoters_buying"] == "yes"
     assert AZ.render_offerings([])[-2] == "- (none on file)"
+
+
+
+# ============================================ reading the documents, not headlines
+
+def test_classify_all_is_multi_label_from_headline_and_first_pages():
+    kind, tags = DR.classify_all("Outcome of Board Meeting", "Outcome of Board Meeting",
+                                 "The Board approved the Scheme of Arrangement providing for the demerger of the "
+                                 "Energy business into the Resulting Company, and the amalgamation of Alpha Power into "
+                                 "Alpha Energy; a further amalgamation of two subsidiaries is proposed.")
+    assert kind == "demerger" and tags == ["demerger", "merger", "scheme_other"]
+    # a single passing word in a body is not enough for the heavy kinds
+    assert DR.classify_text("the demerger of 2019 is referred to once") == []
+    assert DR.classify_text("rights issue of equity shares; letter of offer") == ["rights_issue"]
+    # the headline still counts on its own, text or no text
+    assert DR.classify_all("Updates", "allotment of warrants", "")[1] == ["preferential_issue"]
+    assert DR.eligible({"category": "Dividend", "attachment": "https://x/a.pdf", "file_size": "1 MB"}) == "noise-category"
+    assert DR.eligible({"category": "Updates", "attachment": "https://x/a.pdf", "file_size": "12 MB"}).startswith("skipped:size")
+    assert DR.eligible({"category": "Updates", "attachment": "https://x/a.pdf", "file_size": "3 MB"}) == ""
+
+
+def test_stage_from_text_reads_events_and_ignores_promises():
+    assert SO.stage_from_text("the Resulting Company is proposed to be listed; the scheme shall become effective upon approval") is None
+    assert SO.stage_from_text("the Hon'ble NCLT, Mumbai Bench has sanctioned the Scheme vide order dated 24 September 2026") == "nclt_sanction"
+    assert SO.stage_from_text("the record date has been fixed as Friday, 15 September 2026") == "record_date"
+    assert SO.stage_from_text("the equity shares were listed and admitted to dealings on NSE") == "listed"
+    assert SO.stage_from_text("received observation letter with no adverse observations from BSE") == "exchange_noc"
+    assert SO.stage_from_text("the Board has approved the Scheme of Arrangement for the demerger") == "announced"
+    # a bare-headline filing takes its stage from its document
+    row = {"date": "2026-06-20", "symbol": "ALPHA", "company": "Alpha", "source": "NSE", "category": "Outcome of Board Meeting",
+           "kind": "demerger", "tags": "demerger", "headline": "Outcome of Board Meeting", "attachment": "",
+           "ann_id": "5", "file_size": "", "text_file": ""}
+    s = SO.build_situations([row], {"5": "The Hon'ble NCLT has sanctioned the Scheme of Arrangement for the demerger today."}, TODAY)[0]
+    assert s["stage"] == "nclt_sanction"
+
+
+def test_a_filing_joins_every_family_its_tags_cover():
+    row = {"date": "2026-05-15", "symbol": "CELLO", "company": "Cello", "source": "NSE", "category": "Scheme of Arrangement",
+           "kind": "demerger", "tags": "demerger|merger", "headline": "Composite Scheme of Arrangement",
+           "attachment": "", "ann_id": "9", "file_size": "", "text_file": ""}
+    sits = SO.build_situations([row], {}, TODAY)
+    assert sorted(s["kind"] for s in sits) == ["demerger", "merger"]
+    assert all(s["n_filings"] == 1 for s in sits)
+
+
+def test_calls_are_a_source_of_situations():
+    members = {"GAMMA": "Gamma Ltd.", "DELTA": "Delta Ltd."}
+    texts = {"GAMMA": CALLS, "DELTA": "Call: May 2026\nOne year post our demerger the integration is complete; no plan to demerge."}
+    rows = SO.concall_candidates(["GAMMA", "DELTA"], members, TODAY, links={"GAMMA": {"May 2026": "https://t/x.pdf"}},
+                                 text_of=lambda s: texts.get(s, ""))
+    assert {r["symbol"] for r in rows} == {"GAMMA"}                 # DELTA's mentions are backward-looking
+    assert all(r["source"] == "CALLS" and r["kind"] in ("demerger", "scheme_other", "subsidiary_listing") for r in rows)
+    assert any(r["attachment"] == "https://t/x.pdf" for r in rows if r["category"].endswith("May 2026"))
+    s = SO.build_situations(rows, {}, TODAY)[0]
+    assert s["sources"] == ["CALLS"] and s["stage"] == "indicated_on_calls"
+    assert SO.confidence(s)[0] == "indicated" and SO.listing_status(s, {}, TODAY)["state"] == "no_filing"
+
+
+def test_complete_documents_are_assembled_within_budget(tmp_path, monkeypatch):
+    rows = [{"symbol": "X", "date": f"2026-0{i}-01", "category": "Updates", "headline": f"filing {i}", "ann_id": str(i),
+             "source": "NSE", "text_file": "", "kind": "demerger", "tags": "demerger"} for i in range(1, 5)]
+    texts = {"1": "a" * 1000, "2": "b" * 1000, "3": "c" * 1000, "4": "d" * 1000}
+    monkeypatch.setattr(SO, "load_text", lambda r: texts.get(r["ann_id"], ""))
+    monkeypatch.setattr(SO, "load_first_pages", lambda r: "")
+    full = AZ.scheme_text_for({"symbol": "X"}, rows, budget=10_000)
+    assert full.startswith("[4 filings in full]") and full.index("filing 4") < full.index("filing 1")   # newest first
+    cut = AZ.scheme_text_for({"symbol": "X"}, rows, budget=2_300)
+    assert "2 older filings omitted" in cut and "dddd" in cut and "aaaa" not in cut
+    monkeypatch.setattr(SO, "concall_text", lambda sym: CALLS)
+    monkeypatch.setattr(FN, "doc_links", lambda sym: {"calls": {"May 2026": "https://t/may.pdf"}, "annual_reports": [], "presentations": []})
+    c = AZ.calls_text_for("X", 12, TODAY)
+    assert c.startswith("[2 calls in full]") and "### CALL May 2026 · https://t/may.pdf" in c and "Feb 2025" not in c
+    assert "spin-off is on track" in c                                  # the whole section, not a snippet

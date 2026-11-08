@@ -39,26 +39,44 @@ largest gains came not in the first year but in the second.
 
 ## What the skill does
 
-1. **Pulls the filings** — `Announcements/fetch_announcements.py` reads
-   NSE's corporate-announcements feed month by month for the last year
-   and keeps the rows of the 750 official NiftyTotalMarket constituents
-   that classify as restructuring — `demerger`, `subsidiary_listing`,
+1. **Pulls the filings and READS them** — `Announcements/fetch_announcements.py`
+   reads NSE's corporate-announcements feed month by month for the last
+   year and keeps every row of the 750 official NiftyTotalMarket
+   constituents in `_all_filings.csv.gz` (about 84,000 a year). Then
+   `Announcements/deep_read.py` streams the attachment of every filing in
+   a category that could carry a corporate action (everything except the
+   routine-compliance categories: DP certificates, trading windows,
+   newspaper copies, ESOP grants, appointments, credit ratings and the
+   like), keeps the text of its first six pages under `text/first/`,
+   discards the PDF, and classifies from headline AND text together.
+   Classification is MULTI-LABEL: `demerger`, `subsidiary_listing`,
    `slump_sale`, `merger`, `capital_reduction`, `rights_issue`,
-   `preferential_issue`, `scheme_other`. Two more NSE sources close the
-   headline blind spot: the board-meeting PURPOSES feed ("to consider a
-   scheme of arrangement (demerger)") and a DEEP SCAN of every bare
-   "Outcome of Board Meeting" filing, whose first pages are read and the
-   filing kept when they describe a restructuring. BSE's announcement API refuses this environment
-   (Akamai), so BSE is covered by its daily RSS feed (snapshotted and
-   accumulated) and the BSE-sourced per-company lists on screener.in;
-   BSE attachment PDFs download normally. Every attachment is reduced to
-   text. Stored in `IndividualStockAnalysis/India/Announcements/`.
+   `preferential_issue`, `scheme_other` — one filing (and one company)
+   can carry several tags; a kind read from the body needs a strong
+   phrase or repeated mention so boilerplate does not count. Files over
+   8 MB keep a headline-only classification and are marked. The
+   board-meeting purposes feed is a further source. BSE's API refuses
+   this environment, so BSE is covered by its daily RSS (accumulated) and
+   the BSE-sourced per-company lists on screener.in. Every tagged
+   filing's full text is stored.
+1b. **The calls are a SOURCE too** — the last twelve months of every
+   stored transcript are scanned for special-situation language; each
+   forward-looking mention (planning, evaluating, will, timeline — not a
+   demerger already done, not a denial) becomes a filing-shaped row
+   (`source` CALLS, the transcript as its attachment) so the initial list
+   is never built from filings alone. A company with call mentions and no
+   filing is a situation at the `indicated_on_calls` stage.
 2. **Builds situations** (`scripts/spinoff.py`) — one per company per
-   kind family. A bare "Scheme of Arrangement" is re-classified from its
-   attachment text. Stages are walked from the filing HEADLINES
-   (announced → exchange NOC → meetings → NCLT sanction → effective →
-   record date → listed); a scheme body that merely promises a listing
-   is not a listing event. Facts are extracted by pattern with the
+   kind family, and a filing joins EVERY family its tags cover (a
+   composite scheme that demerges one business and amalgamates another is
+   in both). A bare "Scheme of Arrangement" is re-classified from its
+   attachment text. Stages (announced → exchange NOC → meetings → NCLT
+   sanction → effective → record date → listed) come from the filing
+   headline when it names one, otherwise from the DOCUMENT read for
+   EVENTS — "has sanctioned", "record date has been fixed as", "listed
+   and admitted to dealings" — never from promises ("shall be listed",
+   "proposed to be"); a match preceded by a promissory word does not
+   count. Call mentions never set a stage. Facts are extracted by pattern with the
    quote: entitlement ratio, resulting company, demerged undertaking,
    record and appointed dates, pro-forma mention, option-pricing
    language, promoter continuity, size of the piece. Stated reasons are
@@ -119,9 +137,16 @@ largest gains came not in the first year but in the second.
    LISTED 1–2Y → MATURE); the score is the share of items the documents
    answer.
 10. **The judge** (`claude -p`, model `SPINOFF_JUDGE_MODEL` →
-   `ANALYST_MODEL` → `claude-opus-5`) reads only the documents shown to
-   it, must quote, writes "not stated" rather than fill a gap, and is
-   cached per document hash (`.judge_cache.json`). `--quick` skips it.
+   `ANALYST_MODEL` → `claude-opus-5`) is handed the COMPLETE record for
+   each spin-off: every filing of the company in full text (newest
+   first) and the complete transcripts of the last twelve months of
+   calls for the checklist read, thirty-six months for the rationale —
+   whole documents, not snippets. Budgets of 320k characters of filings
+   and 360k of calls keep the prompt inside the model's context; over
+   budget, the oldest documents are dropped whole and the prompt says how
+   many. It reads only what it is shown, must quote, writes "not stated"
+   rather than fill a gap, and is cached per document hash
+   (`.judge_cache.json`). `--quick` skips it.
 11. **Coverage** — `_coverage.csv` records, per confirmed / probable
     company, whether the parent P&L, cash flow, P/E, annual reports,
     presentations, segment numbers and rationale were found.
@@ -136,7 +161,7 @@ python3 scripts/analyze.py run                                     # report, wit
 python3 scripts/analyze.py run --fetch-docs                        # pull reports for highlighted companies first
 python3 scripts/analyze.py run --quick                             # no AI
 python3 scripts/analyze.py company THOMASCOOK                      # one company, JSON
-python3 -m pytest scripts/test_skill.py -q                         # 36 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 41 tests, offline
 ```
 
 ## Outputs

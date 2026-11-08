@@ -544,7 +544,7 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
     # ---- NSE, month by month
     rows: list[dict] = []
     total = 0
-    bare: list[dict] = []
+    feeds: list[list[dict]] = []
     for a, b in month_windows(today, days):
         try:
             feed = nse_fetch(a, b)
@@ -554,9 +554,7 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
         got = nse_rows(feed, members)
         total += len(feed)
         rows += got
-        if deep:
-            bare += [r for r in feed if (r.get("symbol") or "").strip() in members
-                     and is_bare_outcome(r.get("desc") or "", r.get("attchmntText") or "")]
+        feeds.append(feed)
         note("nse", f"{a}→{b}: {len(feed)} filings, {len(got)} restructuring "
                     f"rows for the universe")
         time.sleep(DELAY)
@@ -572,18 +570,23 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
         note("nse-bm", f"{len(bm)} board-meeting intimations read, {len(got)} restructuring purposes kept")
     except Exception as e:                            # noqa: BLE001
         note("nse-bm", f"FAILED: {e}")
-    # ---- deep scan: bare 'Outcome of Board Meeting' PDFs, first pages
-    if deep and bare:
-        known = {(r["source"], r["ann_id"]) for r in read_csv(MATCHES)}
-        todo = [r for r in bare if ("NSE-deep", str(r.get("seq_id") or r.get("dt") or "")) not in known]
-        note("deep", f"{len(bare)} bare board outcomes in the universe, {len(todo)} not yet scanned")
-        found = 0
-        with cf.ThreadPoolExecutor(max_workers=workers) as ex:
-            for res in ex.map(lambda r: deep_scan_row(r, members), todo):
-                if res:
-                    rows.append(res)
-                    found += 1
-        note("deep", f"{found} bare outcomes turned out to be restructuring filings")
+    # ---- the deep read: every material filing's first pages, headline +
+    # text classified together, multi-label (deep_read.py)
+    if deep:
+        import deep_read as DR                        # noqa: PLC0415
+        store = DR.run_deep(feeds, members, workers=max(workers, 4), note=note)
+        deep_rows = DR.restructuring_rows(store)
+        have = {(r["source"], r["ann_id"]) for r in rows}
+        added = [r for r in deep_rows if (r["source"], r["ann_id"]) not in have]
+        # the deep read's multi-label tags supersede the headline-only ones
+        by_id = {r["ann_id"]: r for r in deep_rows}
+        for r in rows:
+            d = by_id.get(r["ann_id"])
+            if d and r["source"] == "NSE":
+                r["tags"], r["kind"] = d["tags"], d["kind"]
+        rows += added
+        note("deep", f"{len(added)} filings join from the first-pages read; "
+                     f"{len(rows)} NSE rows carry a restructuring tag")
 
     # ---- BSE: codes, RSS snapshot, screener lists
     if bse:

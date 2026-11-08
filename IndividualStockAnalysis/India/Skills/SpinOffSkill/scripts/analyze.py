@@ -73,8 +73,15 @@ HISTORY = OUT_DIR / "history"
 CACHE = HERE.parent / ".judge_cache.json"
 MODEL = os.environ.get("SPINOFF_JUDGE_MODEL",
                        os.environ.get("ANALYST_MODEL", "claude-opus-5"))
-JUDGE_CHARS = 45_000
+JUDGE_CHARS = 45_000          # offerings: one filing is enough
 SEGMENT_CHARS = 115_000       # segment pages are tables; they must arrive whole
+# the demerger reads get the COMPLETE documents: every filing's full text and
+# every call section in the window, whole — snippets lose the reasoning.
+# Budgets keep the prompt inside the model's context; when a company's
+# record is larger, the newest documents and calls are kept whole and the
+# oldest dropped, and the prompt says how many were dropped.
+FILINGS_CHARS = 320_000
+CALLS_CHARS = 360_000
 PROMPT_VERSION = "v2"
 
 
@@ -125,8 +132,7 @@ def _ask(key: str, stamp: str, prompt: str, allow_ai: bool, runner=None) -> dict
     return {"status": "judged", **verdict}
 
 
-def judge_prompt(sit: dict, scheme_text: str, mentions: list[dict]) -> str:
-    quotes = "\n".join(f"- [{m['call']}] {m['quote']}" for m in mentions[:10])
+def judge_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
     return (
         f"You are reading the filings of {sit['company']} ({sit['symbol']}) for a "
         f"special-situation investor following Greenblatt's spin-off checklist. "
@@ -150,28 +156,27 @@ def judge_prompt(sit: dict, scheme_text: str, mentions: list[dict]) -> str:
         'in the documents\' own words with the date they were said; or not stated>", '
         '"read_next": "<the one document or number to check next, <=25 words>", '
         '"quote": "<one verbatim sentence from the documents>"}\n\n'
-        f"CONFERENCE-CALL MENTIONS (last 12 months):\n{quotes or '(none)'}\n\n"
-        f"FILING TEXT (scheme / disclosures, truncated):\n{scheme_text[:JUDGE_CHARS]}"
+        f"THE COMPANY'S FILINGS, COMPLETE (newest first):\n{scheme_text}\n\n"
+        f"THE COMPANY'S EARNINGS CALLS, COMPLETE (last 12 months, newest first):\n"
+        f"{calls_text or '(no transcripts on file)'}"
     )
 
 
-def judge(sit: dict, scheme_text: str, mentions: list[dict],
+def judge(sit: dict, scheme_text: str, calls_text: str,
           allow_ai: bool = True, runner=None) -> dict:
-    stamp = hashlib.md5((scheme_text[:JUDGE_CHARS] + json.dumps(mentions[:10])
-                         + MODEL + PROMPT_VERSION).encode()).hexdigest()
-    if len(scheme_text) < 500 and not mentions:
+    stamp = hashlib.md5((scheme_text + calls_text + MODEL + PROMPT_VERSION).encode()).hexdigest()
+    if len(scheme_text) < 500 and len(calls_text) < 500:
         return {"status": "no documents", "note": "nothing on file to read"}
-    return _ask(sit["symbol"], stamp, judge_prompt(sit, scheme_text, mentions), allow_ai, runner)
+    return _ask(sit["symbol"], stamp, judge_prompt(sit, scheme_text, calls_text), allow_ai, runner)
 
 
-def rationale_prompt(sit: dict, excerpts: list[dict], scheme_text: str) -> str:
-    body = "\n\n".join(f"[{e['call']}] {e['quote']}" for e in excerpts)
+def rationale_prompt(sit: dict, calls_text: str, scheme_text: str) -> str:
     return (
         f"You are reconstructing WHY {sit['company']} ({sit['symbol']}) is separating a "
-        f"business, for a special-situation investor. Below are passages from three "
-        f"years of the company's earnings calls (each tagged with its call) and the "
-        f"rationale section of the scheme filing. Answer STRICT JSON only, from these "
-        f"texts alone — never from memory. Be specific and detailed: name the "
+        f"business, for a special-situation investor. Below are the COMPLETE transcripts "
+        f"of three years of the company's earnings calls (each headed by its call and "
+        f"transcript link) and the company's filings in full. Answer STRICT JSON only, "
+        f"from these texts alone — never from memory. Be specific and detailed: name the "
         f"businesses, the numbers management cited, the problems they said the "
         f"separation solves, who asked for it (investors, lenders, partners), and how "
         f"the plan changed over time.\n"
@@ -185,19 +190,18 @@ def rationale_prompt(sit: dict, excerpts: list[dict], scheme_text: str) -> str:
         '"what_management_expects": "<what they said the separation will do for each '
         'entity — margins, capital, valuation, focus; <=60 words>", '
         '"gaps": "<what the calls did NOT explain, <=30 words>"}\n\n'
-        f"CALL PASSAGES:\n{body[:JUDGE_CHARS]}\n\n"
-        f"SCHEME RATIONALE (filing text, truncated):\n{scheme_text[:12_000]}"
+        f"THE EARNINGS CALLS, COMPLETE (last 36 months, newest first):\n{calls_text or '(no transcripts on file)'}\n\n"
+        f"THE FILINGS, COMPLETE (newest first):\n{scheme_text}"
     )
 
 
-def judge_rationale(sit: dict, excerpts: list[dict], scheme_text: str,
+def judge_rationale(sit: dict, calls_text: str, scheme_text: str,
                     allow_ai: bool = True, runner=None) -> dict:
-    if not excerpts and len(scheme_text) < 500:
-        return {"status": "no documents", "note": "no call passages or scheme text on file"}
-    stamp = hashlib.md5((json.dumps(excerpts)[:JUDGE_CHARS] + scheme_text[:12_000]
-                         + MODEL + PROMPT_VERSION).encode()).hexdigest()
+    if len(calls_text) < 500 and len(scheme_text) < 500:
+        return {"status": "no documents", "note": "no transcripts or filing text on file"}
+    stamp = hashlib.md5((calls_text + scheme_text + MODEL + PROMPT_VERSION).encode()).hexdigest()
     return _ask(f"{sit['symbol']}::rationale", stamp,
-                rationale_prompt(sit, excerpts, scheme_text), allow_ai, runner)
+                rationale_prompt(sit, calls_text, scheme_text), allow_ai, runner)
 
 
 def segments_prompt(sit: dict, excerpts: list[dict], names: list[str]) -> str:
@@ -294,15 +298,54 @@ def segment_table(seg: dict) -> dict:
             "sources": [y.get("source", "") for y in years], "found_numbers": found}
 
 
-def scheme_text_for(sit: dict, rows: list[dict]) -> str:
-    mine = [r for r in rows if r["symbol"] == sit["symbol"]]
-    texts = []
+def scheme_text_for(sit: dict, rows: list[dict], budget: int = FILINGS_CHARS) -> str:
+    """EVERY filing of the situation's company, full text, newest first,
+    each headed by its date and headline — whole documents, not excerpts.
+    Over budget, the oldest are dropped and the header says so."""
+    mine = sorted((r for r in rows if r["symbol"] == sit["symbol"] and r.get("source") != "CALLS"),
+                  key=lambda r: r["date"], reverse=True)
+    docs, used, dropped = [], 0, 0
     for r in mine:
-        t = SO.load_text(r)
-        if t:
-            texts.append((r["kind"] in ("demerger", "subsidiary_listing"), len(t), r["date"], t))
-    texts.sort(key=lambda x: (not x[0], -x[1]))
-    return "\n\n=====\n\n".join(t for _, _, _, t in texts[:4])
+        t = SO.load_text(r) or SO.load_first_pages(r)
+        if not t:
+            continue
+        head = f"### FILING {r['date']} · {r['category']} · {r['headline'][:160]}\n"
+        if used + len(t) + len(head) > budget and docs:
+            dropped += 1
+            continue
+        docs.append(head + t)
+        used += len(t) + len(head)
+    note = (f"[{len(docs)} filings in full; {dropped} older filings omitted for length]\n\n"
+            if dropped else f"[{len(docs)} filings in full]\n\n")
+    return note + "\n\n".join(docs)
+
+
+def calls_text_for(symbol: str, months: int, today: dt.date, budget: int = CALLS_CHARS) -> str:
+    """The COMPLETE transcripts of the last `months` of calls, newest first,
+    each headed by its label and link — not snippets. Over budget, the
+    oldest calls are dropped whole and the header says so."""
+    text = SO.concall_text(symbol)
+    if not text:
+        return ""
+    links = FN.doc_links(symbol)["calls"]
+    cutoff = dt.date(today.year, today.month, 1) - dt.timedelta(days=months * 31)
+    secs = []
+    for label, body in SO.concall_sections(text):
+        d = SO._label_date(label)
+        if d and d >= cutoff:
+            secs.append((d, label.replace("Call: ", ""), body))
+    secs.sort(key=lambda x: x[0], reverse=True)
+    out, used, dropped = [], 0, 0
+    for d, lab, body in secs:
+        head = f"### CALL {lab}" + (f" · {links[lab]}" if links.get(lab) else "") + "\n"
+        if used + len(body) > budget and out:
+            dropped += 1
+            continue
+        out.append(head + body.strip())
+        used += len(body)
+    note = (f"[{len(out)} calls in full; {dropped} older calls omitted for length]\n\n"
+            if dropped else f"[{len(out)} calls in full]\n\n")
+    return note + "\n\n".join(out) if out else ""
 
 
 def rationale_section_of(scheme_text: str) -> str:
@@ -615,9 +658,9 @@ def render_report(record: dict) -> str:
           "Companies whose management used forward-looking spin-off / demerger / listing language "
           f"in the last {SO.CONCALL_MONTHS} months of calls but have no restructuring filing on file.", ""]
     if only_calls:
-        A += ["| Company | Forward-looking / all mentions | Latest forward call | Example |", "|---|---:|---|---|"]
+        A += ["| Company | What the calls indicate | Forward-looking / all mentions | Latest | Example |", "|---|---|---:|---|---|"]
         for c in only_calls:
-            A.append(f"| **{c['symbol']}** | {c['forward']} / {c['n']} | {c['latest']} | “{c['example'][:200]}” |")
+            A.append(f"| **{c['symbol']}** | {SO.family_of(c.get('kind', ''))} | {c['forward']} / {c['n']} | {c['latest']} | “{c['example'][:200]}” |")
     else:
         A.append("- (none)")
     A.append("")
@@ -741,7 +784,9 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     numbers, documents and segment numbers."""
     s["confidence"] = SO.confidence(s)
     scheme = scheme_text_for(s, rows)
-    s["judge"] = judge(s, scheme, s["concall_mentions"], allow_ai=ai, runner=runner) \
+    calls12 = calls_text_for(s["symbol"], SO.CONCALL_MONTHS, today) if s["kind"] in SO.SPIN_KINDS else ""
+    s["documents_read"] = {"filings_chars": len(scheme), "calls_12m_chars": len(calls12)}
+    s["judge"] = judge(s, scheme, calls12, allow_ai=ai, runner=runner) \
         if s["kind"] in SO.SPIN_KINDS else {}
     new_kind = SO.judge_override(s, s["judge"])
     if new_kind:
@@ -761,9 +806,10 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
         FP.fetch_company(sym)
     s["docs"] = FN.doc_links(sym)
     s["call_links"] = s["docs"]["calls"]
-    s["rationale_excerpts"] = FN.rationale_excerpts(sym, today=today)
-    s["rationale"] = judge_rationale(s, s["rationale_excerpts"], rationale_section_of(scheme),
-                                     allow_ai=ai, runner=runner)
+    calls36 = calls_text_for(sym, 36, today)
+    s["documents_read"]["calls_36m_chars"] = len(calls36)
+    s["rationale_excerpts"] = FN.rationale_excerpts(sym, today=today)   # the links list
+    s["rationale"] = judge_rationale(s, calls36, scheme, allow_ai=ai, runner=runner)
     s["parent_financials"] = FN.parent_financials(sym)
     s["cash_flows"] = FN.cash_flows(sym)
     s["pe"] = FN.pe_ratio(sym, live)
@@ -789,15 +835,26 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
 
 
 def cmd_run(args, runner=None) -> dict:
-    today = dt.date.today()
+    today = dt.date.fromisoformat(args.as_of) if getattr(args, "as_of", None) else dt.date.today()
     only = {s.strip().upper() for s in args.only.split(",") if s.strip()} or None
     if args.refresh:
         print("refreshing the last year of filings…", file=sys.stderr)
         FA.run(days=args.days, bse=not args.no_bse, pdf=True, only=only)
     rows = SO.load_filings()
+    members = FA.universe()
     if only:
         rows = [r for r in rows if r["symbol"] in only]
-    members = FA.universe()
+    if not args.no_calls:
+        # the calls are a SOURCE of situations, not only colour on them
+        links = {}
+        for r in FA.read_csv(FN.LINKS):
+            if r.get("transcript_url"):
+                links.setdefault(r["symbol"], {})[r["label"]] = r["transcript_url"]
+        syms = sorted(only) if only else sorted(members)
+        call_rows = SO.concall_candidates(syms, members, today, links=links)
+        print(f"  calls: {len(call_rows)} forward-looking mentions at "
+              f"{len({r['symbol'] for r in call_rows})} companies join as situations", file=sys.stderr)
+        rows = rows + call_rows
     live = SO.live_market()
     sits = SO.analyse(rows, today=today, with_calls=not args.no_calls, live=live)
     ai = (runner is not None) or (_ai_available() and not args.quick)
@@ -810,8 +867,16 @@ def cmd_run(args, runner=None) -> dict:
     sits.sort(key=lambda s: (s["kind"] not in SO.SPIN_KINDS, s["kind"] not in SO.OFFERING_KINDS,
                              SO.CONFIDENCE_ORDER.get(s["confidence"][0], 9),
                              -s["verdict"]["score"], s["symbol"]))
-    call_only = [] if args.no_calls else call_only_scan(
-        sorted(members if not only else {s["symbol"] for s in sits}), {s["symbol"] for s in sits}, today)
+    # companies whose ONLY evidence is the calls
+    filed = {s["symbol"] for s in sits if "CALLS" != "".join(s["sources"])}
+    call_only = []
+    for s in sits:
+        if s["sources"] == ["CALLS"] and s["symbol"] not in filed:
+            ms = s["concall_mentions"]
+            fwd = [m for m in ms if m.get("tone") == "forward"]
+            call_only.append({"symbol": s["symbol"], "n": len(ms), "forward": len(fwd) or s["n_filings"],
+                              "latest": s["latest_filing"][:7], "example": s["headlines"][-1]["headline"],
+                              "mentions": ms, "kind": s["kind"]})
     dates = [r["date"] for r in rows] or [today.isoformat()]
     meta = {"run_date": today.isoformat(), "window_from": min(dates), "window_to": max(dates),
             "filings": len(rows), "companies": len({r["symbol"] for r in rows}), "universe": len(members),
@@ -868,6 +933,8 @@ def main() -> None:
     r.add_argument("--quick", action="store_true", help="no AI judge")
     r.add_argument("--no-calls", action="store_true", help="skip the conference-call scan")
     r.add_argument("--only", default="")
+    r.add_argument("--as-of", dest="as_of", default=None,
+                   help="judge stages and timing as of this date (YYYY-MM-DD)")
     c = sub.add_parser("company")
     c.add_argument("symbol")
     c.add_argument("--quick", action="store_true")
