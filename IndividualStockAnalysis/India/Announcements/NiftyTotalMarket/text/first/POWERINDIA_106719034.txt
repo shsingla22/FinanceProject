@@ -1,0 +1,767 @@
+ 
+ 
+ 
+Hitachi Energy India Limited 
+Registered and Corporate Office:  
+8th Floor, Brigade Opus, 70/401,  
+Kodigehalli Main Road, Bengaluru - 560  092 
+Email ID: investors@hitachienergy.com  
+Phone: 080 68473700   
+CIN: L31904KA2019PLC121597  
+hitachienergy.com/in  
+ 
+  
+July 31, 2026 
+ 
+The Secretary,  
+Listing Department, 
+BSE Limited,   
+1st Floor, Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai - 400 001 
+Scrip Code: 543187 The Manager,  
+Listing Department, 
+National Stock Exchange of India Limited, 
+‘Exchange Plaza’, 5th Floor, Plot No. C/1, G Block,  
+Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400 051 
+Scrip Symbol: POWERINDIA 
+ 
+ 
+Subject: Business Responsibility and Sustainability Report for the financial year 2025-26 
+ 
+Dear Sir/ Madam, 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements)                   
+Regulations, 2015 (SEBI Listing Regulations), please find enclosed the Business Responsibility and 
+Sustainability Report (BRSR) of the Company for the financial year 2025-26, which also forms part of the 
+Integrated Annual Report for the financial year 2025-26, submitted to the exchanges vide our letter dated 
+July 31, 2026. 
+ 
+The same can also be accessed on the website of the Company at: 
+https://www.hitachienergy.com/in/en/investor-relations/general-meetings#annual-report.  
+ 
+We request you to take this on record and to treat the same as compliance with the applicable provisions of 
+the SEBI Listing Regulations. 
+ 
+Thank you, 
+ 
+Yours faithfully, 
+ 
+For Hitachi Energy India Limited  
+ 
+ 
+ 
+ 
+Poovanna Ammatanda 
+General Counsel and Company Secretary 
+ 
+Encl.: as above HITACHI 
+72
+Integrated Annual Report 2025-26Business Responsibility & 
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	 Details
+	
+of
+	
+the
+	
+listed
+	
+entity
+Particulars Response
+1 Corporate Identity Number (CIN) of the Listed Entity L31904KA2019PLC121597
+2. Name of the Listed Entity Hitachi Energy India Limited (“the Company”)
+3. Year of incorporation 2019 (February 19, 2019)
+4. Registered office address 8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road, 
+Bengaluru-560092
+5. Corporate address 8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road, 
+Bengaluru-560092
+6. E-mail investors@hitachienergy.com (For investors)
+poovanna.ammatanda@hitachienergy.com(email id of Compliance Officer and Nodal Officer)
+7. Telephone 080-68473700
+8. Website
+https://www.hitachienergy.com/in/en
+9. Financial year for which reporting is being done FY 2025-26 (April 01, 2025 to March 31, 2026)
+10. Name of the Stock Exchange(s) where shares are listed BSE Limited (BSE) and National Stock Exchange of India  
+Limited (NSE)
+11. Paid-up Capital ` 8,91,44,726/- divided into 4,45,72,363 Equity Shares of  
+` 2.00/- each
+12. Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries on the BRSR reportDr. Binupriya A RHead, HSE & Sustainability - India(Telephone: 080-68473719)Email: binupriya.a-r@hitachienergy.com
+13. Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements, taken together).Standalone basis
+14. Name of assurance provider SGS India Pvt. Ltd.
+15. Type of assurance obtained Reasonable assurance on BRSR Core as per SEBI guidelines 
+II.	 Products/ 	services
+16.	
+Details
+	
+of
+	
+business
+	
+activities
+	
+(accounting
+	
+for
+	
+90%
+	
+of
+	
+the
+	
+turnover):
+S.	No D escription 	 of 	 Main 	 Activity Description 	 of 	 Business 	 Activity % 	 of 	 Turnover 	 of 	
+t
+he
+	
+entity
+1. Sale of products Design, manufacturing/configuration & supply of system, equipment, devices and accessories products65.67
+2. Execution of contracts for projects 
+and servicesProject and service engineering, installation, commission-ing and support28.86
+17.	Products 	/	Services 	sold	by	the	entity	(accounting 	for	90%	of	the	entity’s	Turnover):
+S.	No P roduct 	 / 	 Service NIC 	 Code % 	 of 	 total 	 Turnover 	
+c
+ontributed
+1. Manufacture of electric motors, generators, transformers and electricity 
+distribution and control apparatus271 65.67
+2. Projects and services of related manufactured electrical equipment. 279 28.86w 
+STATUTORY REPORTS73
+© 2026 Hitachi Energy. All rights reserved.III.	 Operations
+18.	Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:
+Location Number	of	
+Manufacturing 	locationsNumber	of	
+officesNumber	of	Sales
+touch	pointsTotal
+National 8* 13 7 28
+ * 8 Plants with factory licenses containing 19 unique manufacturing units.
+19.	Markets	served	by	the	entity:
+	 a.	 Number	of	locations
+Locations Number
+National (No. of States) All states & Union Territories
+International (No. of Countries) 70+ countries
+	 b.	 What	is	the	contribution	of	exports	as	a	percentage	of	the	total	turnover	of	the	entity?
+  The contribution of exports to the total turnover of the entity during the reporting period was 26.19%
+	 c.	 A	brief	on	types	of	customers
+   The Company serves a diverse customer base across utilities, industrial sectors, transportation, data centers, 
+and infrastructure. Its customers include Engineering, Procurement & Construction (EPC) contractors, 
+distributors, Original Equipment Manufacturers (OEMs), and channel partners operating within these 
+segments. Through its five business units, Transformers, High Voltage, Grid Integration, Grid Automation, 
+and Service, the Company provides integrated and digital solutions, including software, protection and 
+control systems, substation integration (220 kV to 765 kV), power and traction transformers, capacitors 
+and filters, as well as advanced technologies such as SF₆-free GIS under the EconiQ portfolio.
+IV.	 Employees
+20.	Details	as	at	the	end	of	the	Financial	Year:
+	 a.	 Employees	and	workers	(including	differently	abled):
+S.	No.Particulars Total	(A) Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+EMPLOYEES
+1. Permanent (D) 2253 1979 88 274 12
+2. Other than Permanent (E) 28 15 54 13 46
+3.Total	employees	(D	+	E) 2281 1994 87 287 13
+WORKERS
+4. Permanent (F) 524 522 99.6 2 0.4
+5. Other than Permanent (G) 773 702 91 71 9
+6.Total	employees	(F	+	G) 1297 1224 94 73 6
+	 b.	 Differently	abled	Employees	and	workers:
+S.	No.
+Particulars Total	(A)Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+DIFFERENTLY	ABLED	EMPLOYEES
+1. Permanent (D) 11 8 72.7 3 27.3
+2. Other than Permanent (E) 0 0 0 0 0
+3.Total	employees	(D	+	E) 11 8 72.7 3 27.3
+DIFFERENTLY	ABLED	WORKERS
+4. Permanent (F) 10 9 90 1 10
+5. Other than Permanent (G) 0 0 0 0 0
+6.Total	employees	(F	+	G) 10 9 90 1 10
+74
+Integrated Annual Report 2025-2621.	Participation 	/	Inclusion 	/	Representation 	of	women
+Particulars Total 	 (A) No. 	 and 	 percentage 	 of 	 Females
+No.
+	
+(B) %
+	
+(B
+	
+/
+	
+A)
+Board of Directors 6 2 33.33
+Key
+	
+Management
+	
+Personnel 3 0 0
+22.	Turnover 	rate	for	permanent 	employees 	and	workers
+ (Discl
+ose trends for the past 3 years)
+Particulars Turnover 	 rate 	 in 	 the 	 current 	 FY
+FY
+	
+2025-26
+April
+	
+1,
+	
+2025-March
+	
+31,2026FY
+	
+2024-25
+April
+	
+1,
+	
+2024
+	
+-
+	
+March
+	
+31,
+	
+2025FY
+	
+2023-24
+April
+	
+1,
+	
+2023
+	
+-
+	
+March
+	
+31,
+	
+2024
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees9.20% 10.63% 9.36% 6.51% 11.08% 6.99% 10.37% 19.64% 11.24%
+Permanent Workers0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 1.79% 28.57% 1.96%
+V.	 Holding, 	Subsidiary 	and	Associate 	Companies 	(including 	joint	ventures)
+23.	
+(a)	 Names
+	
+of
+	
+holding/
+	
+subsidiary
+	
+/
+	
+associate
+	
+companies
+	
+/
+	
+joint
+	
+ventures
+S.No.Name
+ 	 of 	 the 	 holding/ 	
+s
+ubsidiary
+	
+/
+	
+associate
+	
+c
+ompanies
+	
+/
+	
+joint
+	
+ve
+ntures	(
+A)Indicate 	 whether 	
+h
+olding/
+	
+Subsidiary/
+	
+A
+ssociate/
+	
+Joint
+	
+Ve
+nture% 	 of 	 shares 	 held 	 by 	
+t
+he
+	
+listed
+	
+entityDoes 	 the 	 entity 	 indicated 	 at 	 column 	
+A
+,
+	
+participate
+	
+in
+	
+the
+	
+Business
+	
+R
+esponsibility
+	
+initiatives
+	
+of
+	
+the
+	
+l
+isted
+	
+entity?
+	
+(Yes/No)
+1. Hitachi Energy Ltd. Holding 71.31 No
+VI.	 CSR 	Details
+24	 (i)
+ Whe
+ther CSR is applicable as per Section 135 of the Companies Act, 2013: (Yes / No) - Yes
+ (ii)
+ T
+urnover (in `): ` 8,147.71 Crores (For the year ended on March 31, 2026)
+ (iii)
+ Ne
+t worth (in `): ` 5,175.96 Crores (As on March 31, 2026)
+VII.	 Transparency
+	
+and
+	
+Disclosures
+	
+Compliances
+25.		Complain
+ts/Grievances
+	on
+	an
+y
+	o
+f
+	the
+	principl
+es
+	(Principl
+es
+	1
+	t
+o
+	9)
+	under
+	the
+	Na
+tional
+	Guidelines
+	on
+	R
+esponsible 	
+Business
+	
+Conduct:
+Stakeholder 	
+g
+roup
+	
+from
+	
+whom	t
+he	
+c
+omplaint
+	
+is
+	
+r
+eceivedGrievance 	 Redressal 	
+M
+echanism
+	
+in
+	
+Place
+	
+(
+Yes/No)
+	
+(If
+	
+Yes,
+	
+then
+	
+p
+rovide
+	
+web-link
+	
+for
+	
+t
+he
+	
+grievance
+	
+redress
+	
+p
+olicy)April 	 1, 	 2025 	 - 	 March 	 31, 	 2026 	  
+Current
+	
+Financial
+	
+YearApril 	 1, 	 2024 	 - 	 March 	 31, 	 2025 	  
+Previous
+	
+Financial
+	
+Year
+Number
+	
+of
+	
+complain
+ts
+	
+fil
+ed
+	
+during
+	
+the
+	
+year.Number
+	
+of
+	
+complain
+ts
+	
+p
+ending
+	
+r
+esolution
+	
+a
+t
+	
+the
+	
+close
+	
+o
+f
+	
+the
+	
+yearRemarks Number
+	
+of
+	
+complain
+ts
+	
+fil
+ed
+	
+during
+	
+the
+	
+yearNumber
+	
+of
+	
+complain
+ts
+	
+p
+ending
+	
+r
+esolution
+	
+a
+t
+	
+the
+	
+close
+	
+o
+f
+	
+the
+	
+yearRemarks
+Communities Yes https://www. hitachienergy.com/in/en/contact-us0 0 Nil 0 0 Nil
+Investors (other than Shareholder)
+Yes https://www.hitachienergy.com/in/en/investor-relations#quick-links0 0 Nil 0 0 Nilw 
+STATUTORY REPORTS75
+© 2026 Hitachi Energy. All rights reserved.Stakeholder 	
+g
+roup
+	
+from
+	
+whom	t
+he	
+c
+omplaint
+	
+is
+	
+r
+eceivedGrievance 	 Redressal 	
+M
+echanism
+	
+in
+	
+Place
+	
+(
+Yes/No)
+	
+(If
+	
+Yes,
+	
+then
+	
+p
+rovide
+	
+web-link
+	
+for
+	
+t
+he
+	
+grievance
+	
+redress
+	
+p
+olicy)April 	 1, 	 2025 	 - 	 March 	 31, 	 2026 	  
+Current
+	
+Financial
+	
+YearApril 	 1, 	 2024 	 - 	 March 	 31, 	 2025 	  
+Previous
+	
+Financial
+	
+Year
+Number
+	
+of
+	
+complain
+ts
+	
+fil
+ed
+	
+during
+	
+the
+	
+year.Number
+	
+of
+	
+complain
+ts
+	
+p
+ending
+	
+r
+esolution
+	
+a
+t
+	
+the
+	
+close
+	
+o
+f
+	
+the
+	
+yearRemarks Number
+	
+of
+	
+complain
+ts
+	
+fil
+ed
+	
+during
+	
+the
+	
+yearNumber
+	
+of
+	
+complain
+ts
+	
+p
+ending
+	
+r
+esolution
+	
+a
+t
+	
+the
+	
+close
+	
+o
+f
+	
+the
+	
+yearRemarks
+Shareholder Yes https://scores.sebi.
+gov. in/scores-home13 4 Four complaints 
+from a single 
+Shareholder were 
+received on 
+March 31, 2026. 
+Accordingly, these 
+complaints remained 
+pending as on March 
+31, 2026. The 
+Company responded 
+to all four complaints 
+on April 02, 2026, 
+which is within the 
+turnaround time 
+prescribed by SEBI13 0 Nil
+Employees and workers Yes https://secure.ethicspoint.eu/domain/ media/en/gui/109107/report.html6 2 Nil 7 0 Nil
+Customers
+Yes https://www.hitachienergy.com/in/en/contact-us757 41 Nil 605 89 Nil
+Value Chain Partners
+Yes https://www.hitachienergy.com/in/en/contact-us0 0 Nil 0 0 Nil
+Other (Media, General enquiries, sales)
+Yes https://www.hitachienergy.com/in/en/contact-us0 0 Nil 0 0 Nil
+26.	Overview 	of	the	entity’s	material 	responsible 	business 	conduct 	issues
+ 
+ Pl
+ease indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format.
+ Cybersecurity
+  Stakeholder engagement Security Business conduct Health and safety
+CSR Economic ImpactBiodiversityCircular economySustainable procurementEmployee welfare
+GovernanceDiversity
+ESGCarbon neutrality
+Human rightsClimate changeInnovationMateriality 	assessment
+W
+e leverage regular open dialogue with our  
+stakeholders to ensure focus on the appropriate topicsKey
+  Critical   High   ModerateImportance to stakeholders
+Importance to Hitachi Energy• • • 
+• • • • 
+I.. • • • • • • • • • • • 
+• • 
+76
+Integrated Annual Report 2025-26A global sustainability material impact assessment, applicable to all regions, was undertaken to identify and prioritize 
+the sustainability impacts that matter most to our stakeholders across the value chain. The material impacts included in the assessment are relevant to the Company globally. The impacts highlighted in the top right corner and marked in red as ‘critical’ are the key impacts considered substantive to the Company’s strategy, reporting, and action. Within our enterprise risk management (ERM) framework we assess impact over the short-term (less than two years), medium-term (two to five years) and long term (more than five years) perspective.
+S.
+No.Material 	 issue 	
+i
+dentifiedIndicate 	
+whe
+ther	
+r
+isk
+	
+or
+	
+op
+portunity 	
+(
+R/O)Rationale 	 for 	 identifying 	 the 	 risk
+/	op
+portunityIn 	 case 	 of 	 risk, 	 approach 	 to 	 adapt 	 or 	
+m
+itigateFinancial 	
+i
+mplications 	
+o
+f
+	
+the
+	
+risk
+	
+or
+	
+op
+portunity 	
+(I
+ndicate
+	
+p
+ositive
+	
+or
+	
+neg
+ative	
+i
+mplications)
+1 Health and safety: Employee and contingent workers’ occupational health and safety, wellbeing and mental health, resilience, product and projects safetyR Harm to people and planet with attendant damage to reputation.
+• L oss of business opportunities.
+•  Financia l costs such as fines, 
+legal fees, compensation.The Company recognizes Health, Safety and Environment (HSE) as a critical material issue, integral to its operational sustainability and long-term value creation. HSE performance is embedded in all decision-making processes, with safety constituting a fundamental element of the Company’s ‘license to operate’.
+The Company is committed to providing 
+a safe, healthy, and conducive working environment for all employees, contractors, and stakeholders. It acknowledges that employee well-being directly contributes to productivity, operational excellence, and business sustainability.
+To drive continuous improvement 
+in HSE performance and align with global best practices, the Company has established a structured framework focusing on the following key areas:
+Safety culture and leadership 
+accountability to promote a proactive and prevention-oriented approach
+Communication, training, and 
+organizational learning to strengthen awareness and capability building
+Digitalization and data analytics to 
+enable real-time monitoring, predictive risk assessment, and informed decision-making
+Operational controls and risk 
+management systems to identify, assess, and mitigate workplace hazards
+Governance frameworks and 
+competency development to ensure compliance with applicable regulations and internal standards
+The Company’s HSE initiatives and 
+improvement programs are aligned with:
+•  The sca le and nature of operational 
+risks
+•  Hist orical performance trends and 
+incident learnings
+•  E volving statutory, regulatory, and 
+stakeholder expectationsNegativew 
