@@ -2330,86 +2330,141 @@
   }
  },
  "ASTRAL::rationale": {
-  "stamp": "67357a4be6ddc19a570f73bf043ef8b4",
+  "stamp": "be082a0f83c737f148dfab62d50a1906",
   "verdict": {
-   "rationale": "Astral Limited says it has grown into two distinct verticals \u2014 (a) Plumbing: pipes, fittings, water tanks, faucets and sanitaryware, and (b) Chemicals: adhesives, polyvinyl acetate (PVA), cyanoacrylates, solvent cements, silicone sealants, epoxy resins, construction chemicals, putties and allied products, further scaled into specialty chemicals through recent strategic acquisitions. The Board (approval dated June 25, 2026) adopted a Composite Scheme that (i) demerges the Chemicals/Chemical Undertaking of Astral Limited (the Demerged Company) on a going-concern basis into Astral Chemie Limited, formerly Astral Coatings Private Limited, a 100% subsidiary that already manufactures and supplies paints and coatings for residential, commercial and industrial end-users, and (ii) amalgamates Al-Aziz Plastics Private Limited, another 100% subsidiary making electrofusion fittings, compression fittings, saddles, electrical fittings and allied accessories for gas, water, electricity and solar distribution/transmission, into Astral Limited because it is complementary to the Plumbing Business. The size cited: the Demerged Undertaking's turnover for the year ended March 31, 2026 was \u20b912,663 million, 21% of the Demerged Company's total turnover, against Astral Limited's standalone FY26 turnover of \u20b959,076 million and net worth of \u20b941,058 million; Al-Aziz was small at \u20b9373 million turnover and \u20b9215 million net worth. The stated problems it solves: each business has different products, customer segments, operating models, capital requirements, risk profiles and growth opportunities and operates under different macroeconomic environments, regulatory frameworks and market risks, so one corporate roof blurred focus \u2014 the demerger puts chemicals plus paints under a single dedicated platform run by a focused leadership team with deep sector-specific expertise, and isolates the operational, cyclical and compliance risks of each business. It is also framed as a capital-structure fix: each entity can independently determine capex, working capital, funding and investment strategy based on its own growth prospects, capital intensity, cash-flow profile and risk-return characteristics, and as separately listed entities both can independently access debt and equity capital and attract strategic and financial investors with different investment objectives. For Al-Aziz, the added reasons are integration of its manufacturing facilities, products and customer relationships with Plumbing, plus reduced legal and regulatory compliance burden and administrative costs. Mechanics are value-neutral to holders: no cash consideration, 1 equity share of Astral Chemie (\u20b91 face value) for every 1 Astral share (\u20b91 face value), a mirrored shareholding pattern (promoters 54.22%, public 45.78% post-Scheme versus 100% promoter-held pre-Scheme), Astral's existing shares in Astral Chemie cancelled, no change in Astral's own shareholding, and listing sought on NSE and BSE.",
-   "evolution": "The reasoning cannot be traced call by call from the material supplied: the only earnings-call passage provided is [May 2025], and it is entirely about end-market sizing \u2014 PVC at about 4.5 million tons in fiscal 25, CPVC at roughly 2.5 lakh tons or about 5% of PVC, and fire-sprinkler pipes as the next leg of CPVC demand \u2014 with no mention of a demerger, of the chemicals vertical, or of Astral Coatings/Astral Chemie. The separation therefore appears in these texts only at the Board approval of the Composite Scheme on June 25, 2026, sized off FY26 (year ended March 31, 2026) financials, by which point Astral Coatings Private Limited had already been renamed Astral Chemie Limited and the chemicals portfolio had been expanded 'through recent strategic acquisitions' into specialty chemicals \u2014 the one hint of a build-up preceding the announcement. One drafting shift is visible inside the filing itself: the rationale annexure and disclosure tables describe the demerger of the 'Chemical Undertaking'/'Chemicals Business Undertaking', while the press-release text describes 'the demerger of its Adhesive Business', a narrower label for the same undertaking.",
+   "rationale": "Astral's board approved a Composite Scheme on 25 June 2026 that would (i) demerge the Chemicals Business Undertaking \u2014 adhesives, sealants, polyvinyl acetate, cyanoacrylates, solvent cements, silicone sealants, epoxy resins, construction chemicals, putties and specialty chemicals added 'through recent strategic acquisitions of DSS' \u2014 out of Astral Limited into its wholly-owned subsidiary Astral Chemie Limited (formerly Astral Coatings Pvt Ltd), which already holds the Paints & Coatings (Gem/Astral Paints) business, and (ii) amalgamate another wholly-owned subsidiary, Al-Aziz Plastics Pvt Ltd (electrofusion/compression fittings, saddles; FY26 turnover \u20b9373 mn, net worth \u20b9215 mn), back into Astral alongside Plumbing. The chemicals undertaking was \u20b912,663 mn of FY26 turnover, 21% of Astral's \u20b959,076 mn standalone revenue (net worth \u20b941,058 mn); in the 20 May 2026 analyst meet management described the same mix as 'piping 72%, paint and adhesive 28%' of consolidated sales. The stated reasons: the two verticals have different products, customers, operating models, capital requirements, risk profiles, regulatory frameworks and growth opportunities, so each needs a dedicated leadership team and a specialised board instead of 'overlapping boardroom priorities'; combining all chemical verticals (adhesive, paint, specialty chemicals) under one umbrella was said to yield 'huge cost saving in Plants, Warehousing, Marketing and R&D' from shared labs, machinery and technical staff; capital deployment discipline \u2014 eliminating 'internal capital allocation conflicts', letting each vertical set its own capex, working capital and funding, and explicitly helping 'Bathware business in capital allocation discipline' while 'liberating the existing management to focus exclusively on the core plumbing business'; and value unlocking \u2014 the Scheme 'eliminates any conglomerate discount', lets global investors, institutions and shareholders back either vertical, and gives 'credit rating agencies, lenders, and research analysts \u2026 a clean, unbundled view of each Business vertical's financial and operating metrics'. The Al-Aziz merger was justified on the opposite logic: its fittings and Astral's pipes are interdependent ('their standalone utility is limited'), so merging internalises the supply chain, adds PAN-India plants/depots/field staff, centralises overlapping HDPE, specialty polymer and metallic insert buying for bulk discounts, and removes a separate legal entity's compliance and duplicate roles. Consideration was non-cash: 1 Astral Chemie share of \u20b91 for every 1 Astral share held (1:1), Astral Chemie's pre-scheme capital cancelled, so its shareholding mirrored Astral's (promoters 54.22%, public 45.78%) with NSE/BSE listing to be sought; Al-Aziz shares simply extinguished with no new issue. No lender, partner or named investor is recorded as having asked for the split \u2014 the only requesters cited are 'various stakeholders, including shareholders, investors and other market participants', and their post-announcement feedback is what stopped it: on 5 July 2026 the board ordered a comprehensive independent review by 'any one of the big four or equivalent firm' (report within 30 days), and on 29 July 2026 that Independent Consultant 'recommended not to proceed \u2026 in the present form in light of the current scale of the Chemical Business'. The board withdrew the Scheme entirely, saying it 'may not be in the best interests of the Company and its shareholders' at this stage and that the chemicals demerger 'may be considered once it achieves scale and has financial strength to fund its organic and inorganic growth' \u2014 consistent with the chemicals segment's own May 2026 commentary that it was only now ready to scale (adhesives India targeting \u20b92,000 cr and paints \u20b91,000 cr in 3-4 years, paints still EBITDA-negative with a \u20b96 cr Q4 loss).",
+   "evolution": "The separation does not appear in any earnings call in the record: the 12 Aug 2025 (Q1 FY26), 6 Nov 2025 (Q2 FY26) and 20 May 2026 analyst-meet transcripts discuss only CPVC backward integration, the Al-Aziz and Nexelon acquisitions, UK/paint turnarounds and ROE pressure, and the 5 Feb 2026 'call' is only an exchange letter with an audio link, no transcript. What the calls do show is mounting investor pressure on the diversification (Sujit Jain on falling ROE and 2x capex overruns in Aug 2025; Sudeep Jain asking for per-acquisition sales/margin/cash-conversion/ROCE disclosure; questions in May 2025 on whether Astral would exit the UK), against management saying the opposite \u2014 'we are not looking to exit any business' (Aug 2025) and 'we also are not looking at any other segments now than whatever the four segments we are in' (20 May 2026). The idea surfaces fully formed in the 25 June 2026 board filing and press release, is put under big-four independent review on 5 July 2026 after 'feedback from various stakeholders post the announcement', and is withdrawn on 29 July 2026 on the consultant's advice, with the demerger deferred until the chemicals business has scale.",
    "points": [
     {
+     "call": "Scheme",
+     "point": "The 25 June 2026 board approved a composite two-part restructuring: demerge the Chemicals Business (adhesives, sealants, construction chemicals, specialty chemicals from the DSS acquisitions) into wholly-owned Astral Chemie (which holds paints and coatings), and merge Al-Aziz Plastics back into Astral with Plumbing.",
+     "quote": "Each business has evolved into a distinct business vertical with different products, customer segments, operating models, capital requirements, risk profiles and growth opportunities, demanding focused operational, financial and administrative expertise."
+    },
+    {
+     "call": "Scheme",
+     "point": "The demerged chemicals undertaking was sized at \u20b912,663 million of FY26 turnover, 21% of Astral's \u20b959,076 million standalone revenue; Al-Aziz was tiny at \u20b9373 million turnover and \u20b9215 million net worth.",
+     "quote": "The turnover of the Demerged Undertaking for the year ended March 31, 2026 stood at \u20b9 12,663 million."
+    },
+    {
+     "call": "Scheme",
+     "point": "Capital-allocation conflict between verticals was an explicit problem the split was meant to solve, including freeing the Bathware business and letting plumbing management stop splitting attention.",
+     "quote": "At the same time it will help Bathware business in capital allocation discipline, seamlessly enabling the new management to focus exclusively on driving growth across the core chemical, Adhesive & Sealant, paint, and specialty chemical portfolios, while concurrently liberating the existing management to focus exclusively on the core plumbing business, thereby ensuring that both independent verticals benefit from concentrated domain expertise, optimized operations, and enhanced long-term stakeholder value."
+    },
+    {
+     "call": "Scheme",
+     "point": "Valuation was named directly: separate listings were to remove the holding-company/conglomerate discount and give lenders, rating agencies and analysts unbundled metrics for each vertical.",
+     "quote": "The Scheme eliminates any conglomerate discount and allows the capital markets to distinctively value each independent vertical."
+    },
+    {
+     "call": "Scheme",
+     "point": "Sandeep Engineer framed it as the businesses having outgrown shared management, with shareholders getting 1 Astral Chemie share for each Astral share (1:1) and continuing to own both.",
+     "quote": "We believe these businesses have now reached a stage where dedicated leadership, greater accountability, sharper strategic focus and independent capital allocation can meaningfully accelerate their next phase of growth."
+    },
+    {
+     "call": "Scheme",
+     "point": "The Al-Aziz leg used the reverse argument \u2014 integration rather than separation \u2014 because its fittings need Astral's pipes to be sellable, plus HDPE/polymer procurement scale, PAN-India depots and fewer duplicate compliances.",
+     "quote": "Given that the Transferee Company's fittings cannot function independently and inherently require specific piping systems manufactured by the Transferor Company, their standalone utility is limited."
+    },
+    {
+     "call": "Scheme",
+     "point": "Ten days after announcing it, the board put the whole Scheme under a big-four independent review because of shareholder/investor/market feedback, with recommendations due in 30 days.",
+     "quote": "the management has received feedback from various stakeholders post the announcement of the Scheme. In view of the feedback received, the Board has decided to undertake a comprehensive independent review of the Scheme."
+    },
+    {
+     "call": "Scheme",
+     "point": "On 29 July 2026 the Scheme was withdrawn outright: the independent consultant judged the chemicals business too small to stand alone in that form.",
+     "quote": "The Independent Consultant has recommended not to proceed with the Composite Scheme of Arrangement in the present form in light of the current scale of the Chemical Business."
+    },
+    {
+     "call": "Scheme",
+     "point": "The demerger was deferred rather than abandoned in principle, conditional on the chemicals business reaching scale and being able to self-fund growth and acquisitions.",
+     "quote": "the demerger of the Chemical Business may be considered once it achieves scale and has financial strength to fund its organic and inorganic growth."
+    },
+    {
+     "call": "May 2026",
+     "point": "Six weeks before the announcement, management still presented the chemicals division as an in-house platform just reaching its scaling phase, with adhesives India targeting \u20b92,000 crore and paints \u20b91,000 crore in 3-4 years and paints not yet EBITDA-positive (\u20b96 crore Q4 loss) \u2014 the very scale shortfall later cited for withdrawal.",
+     "quote": "The vision is to touch 2000 as fast as we can and we are sure that in next 3 to four years we'll be touching 2000 plus in Indian revenue not UK will be separate."
+    },
+    {
+     "call": "May 2026",
+     "point": "Hiranand Savlani framed the company's history as plumbing then chemical diversification, with the chemical platform 'ready' to scale under Astral \u2014 no hint of hiving it off.",
+     "quote": "1996 to 2014 was the plumbing era where the focus was on the plumbing side of the business."
+    },
+    {
+     "call": "May 2026",
+     "point": "The segment mix disclosed on the call (72% piping / 28% paint+adhesive consolidated) is the economic basis of the later split, though the Scheme's 21% is on standalone turnover, which excludes the UK adhesive business.",
+     "quote": "This is basically piping is contributing 72% and paint and adhesive is contributing 28%."
+    },
+    {
+     "call": "May 2026",
+     "point": "Sandeep Engineer spent his opening remarks defending the diversification against persistent investor questions ('Why paint? Why adhesive?') and ruled out any further portfolio change \u2014 the opposite of a separation signal.",
+     "quote": "at the same time we also are not looking at any other segments now than whatever the four segments we are in"
+    },
+    {
+     "call": "Feb 2026",
+     "point": "The February 2026 earnings call is in the record only as an exchange intimation with an audio link, so no management commentary from that quarter is available on the question.",
+     "quote": "Please find below web-link of Audio Recordings of \"Earnings Call\" held on 05th February, 2026."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "Management's answer to the 70/30 plumbing-versus-chemicals mix question was that both verticals would keep growing inside one company, with only a mild shift from the low chemicals base \u2014 not a structural separation.",
+     "quote": "No. It is not like that. Both vertical will keep growing."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Investors were pressing on the consequences of diversification \u2014 \u20b91,500 crore of capex, falling ROE, acquisitions in 'WIP mode' \u2014 and the CFO conceded the return-ratio problem, which is the pressure the later demerger rationale answers.",
+     "quote": "Question was continued pressure on ROE, yes, definitely you are absolutely right. We are also very worried about that thing also."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "An investor asked for standardised per-acquisition accountability (growth, margin, cash conversion, ROCE) on each acquired business, i.e. the 'unbundled view' the Scheme later promised through separate listing; management agreed to create the format.",
+     "quote": "a clear guidance for each acquisition in terms of sales growth, margin, cash conversion and ROC and progress on that quarter-after-quarter"
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Kairav Engineer explicitly denied any intent to separate or exit businesses, framing Astral as a permanent multi-segment owner.",
+     "quote": "We are not thinking of any short term gain, we are not looking to exit any business, we are always here for long term"
+    },
+    {
      "call": "May 2025",
-     "point": "Management sized CPVC at about 2.5 lakh tonnes versus a roughly 4.5 million tonne PVC industry in fiscal 25 \u2014 about 5% \u2014 calling it a niche product today, confined mainly to hot-and-cold internal plumbing. Nothing in this passage touches the separation.",
-     "quote": "It is about 2 and half lakh tons now."
+     "point": "The earliest portfolio-separation pressure in the record concerns the loss-making UK adhesive business, which analysts asked Astral to exit; management refused and promised a turnaround instead.",
+     "quote": "Many questions were asked today about what we would do with the UK and whether we're thinking of exiting the UK."
     },
     {
      "call": "May 2025",
-     "point": "Kairav Engineer said the real CPVC expansion depends on fire-sprinkler pipes, where Astral holds UL and local-body approvals, because a building uses more fire pipes than plumbing pipes; Sandeep Engineer added that standards changes are still needed.",
-     "quote": "CPVC real value unlocking will happen when the \u25a0re products pick up."
+     "point": "Management's stated logic for owning paints was its synergy with adhesives and construction chemicals \u2014 the same complementarity later used to justify putting them together in Astral Chemie, away from plumbing.",
+     "quote": "paint was specifically acquired to increase the adhesive business, to be in the paint business, and also in the industrial paint and construction chemical business."
     },
     {
-     "call": "Scheme",
-     "point": "The Chemicals Business is described as having diversified across adhesives, PVA, cyanoacrylates, solvent cements, silicone sealants, epoxy resins, construction chemicals and putties, and scaled into specialty chemicals via recent acquisitions, all complementing Astral Chemie's existing paints and coatings business.",
-     "quote": "The reorganisation will consolidate the Chemicals Business of Demerged Company  with the existing paints and coatings business of the Resulting Company  under a single, dedicated corporate platform managed by a focused leadership team with deep sector -specific expertise."
-    },
-    {
-     "call": "Scheme",
-     "point": "Size of the carve-out is quantified: the Demerged Undertaking turned over \u20b912,663 million in FY26, 21% of Astral's total turnover (standalone FY26 turnover \u20b959,076 million, net worth \u20b941,058 million).",
-     "quote": "The turnover of the Demerged Undertaking for the year ended March 31, 2026 stood at \u20b9  12,663 million ."
-    },
-    {
-     "call": "Scheme",
-     "point": "Capital-allocation independence is the fourth stated principle: each business sets its own capex, working capital and funding according to its own capital intensity and cash-flow profile, and the demerger isolates each one's operational, cyclical and compliance risks.",
-     "quote": "The reorganisation will enable each business to independently determine its capital expenditure, working- capital requirements, funding and investment strategies based on their respective growth prospects, capital intensity, cash- flow profile and risk -return characteristics."
-    },
-    {
-     "call": "Scheme",
-     "point": "Separate listing is justified as widening the investor and funding base rather than as an immediate valuation claim \u2014 no re-rating or multiple is asserted anywhere in the rationale.",
-     "quote": "As separately listed entities, the Resulting Company  and Demerged Company will \nhave the flexibility, subject to Applicable Laws, to independently access debt and \nequity capital and attract strategic and financial investors interested in different \ninvestment objectives, thereby aligning investment strategies and risk profiles to each \nbusiness."
-    },
-    {
-     "call": "Scheme",
-     "point": "Management teams are to be freed to run their own plans: independent capacity expansion, new products, new markets and their own bolt-on acquisitions and collaborations \u2014 the same language is repeated for the Al-Aziz amalgamation.",
-     "quote": "The reorganisation will enable the respective management teams to independently \nformulate and execute business plans, undertake capacity expansion, develop new \nproducts, enter new markets and pursue focused acquisitions, collaborations and other \ngrowth opportunities relevant to their respective businesses."
-    },
-    {
-     "call": "Scheme",
-     "point": "The simultaneous amalgamation folds Al-Aziz Plastics (FY26 turnover \u20b9373 million, net worth \u20b9215 million; electrofusion and compression fittings, saddles, electrical fittings) into Astral's Plumbing Business, with compliance-cost reduction cited explicitly; its shares held by Astral are extinguished and it is dissolved without winding up.",
-     "quote": "The amalgamation will enable the integration of its manufacturing facilities and capabilities, products, and customer relationships with the Plumbing Busi ness, while also reducing legal and regulatory compliances burden and related administrative costs."
-    },
-    {
-     "call": "Scheme",
-     "point": "Shareholders are kept whole on a mirror basis: 1-for-1 share issue at \u20b91 face value, no cash consideration, no change in Astral's shareholding pattern, and Astral Chemie moving from 100% promoter-held to promoters 54.22% / public 45.78%, with NSE and BSE listing sought.",
-     "quote": "\u201c1 (One) Equity Share of Resulting Company of a face \nvalue of \u20b91/ - each, fully paid- up shall be issued for every \n1 (One) Equity Shares of a face value of \u20b9 1/- each, fully \npaid- up held in Demerged Company\u201d"
-    },
-    {
-     "call": "Scheme",
-     "point": "The announcement frames the split as a response to two verticals having structurally diverged, requiring separate administrative control \u2014 the overarching 'why now'.",
-     "quote": "Each business has evolved into a distinct business vertical with different products, customer \nsegments, operating models, capital requirements, risk profiles and growth opportunities, demanding \nfocused operational, financial and administrative expertise."
+     "call": "Feb 2024",
+     "point": "Two years earlier the chemicals/paints verticals were explicitly run as part of one Astral \u2014 systems, SAP, credit cycles and an Astral-brand launch managed centrally, with the adhesive integration playbook applied to paints.",
+     "quote": "It is recalling this adhesive story when in 2014 we acquired adhesive also couple of years were like that only because we have to correct a lot of system and that is exactly happening right now also."
     }
    ],
-   "what_management_expects": "Astral Chemie: chemicals combined with paints and coatings on one dedicated platform under focused leadership, yielding operational efficiencies, cost optimisation, specialisation, pooled R&D and technologies, and its own capex, working-capital and funding calls. Astral: plumbing-only focus, strengthened by Al-Aziz's fittings and lower compliance and administrative costs. Both: separate listings, independent debt and equity access, investors matched to each risk profile, isolated cyclical risk.",
-   "gaps": "No call discussed the separation: no margin, valuation, debt-allocation, royalty or management-split detail; no investor, lender or partner named as requesting it; \"Adhesive\" versus \"Chemicals\" undertaking unreconciled."
+   "what_management_expects": "Chemicals (adhesives, sealants, construction chemicals plus Gem/Astral paints) gains dedicated leadership, shared R&D/plant/warehouse/marketing cost savings, its own capex and funding decisions, and separately listed equity; Astral keeps plumbing and absorbs Al-Aziz fittings for procurement scale and fewer compliances. Both get ring-fenced capital allocation, unbundled metrics for lenders and analysts, no conglomerate discount, specialised boards.",
+   "gaps": "No margin, cost-saving or valuation numbers quantified; DSS acquisition unexplained; Astral Chemie standalone financials, advisor identity, and which stakeholders objected never disclosed; calls never mentioned the demerger."
   }
  },
  "ASTRAL::segments": {
-  "stamp": "e86129a862bab4b65fbf52c9cc568bae",
+  "stamp": "0f6065162231a255052113e6905f636d",
   "verdict": {
-   "segment_name": "Paints and Adhesives (reportable segment; separating entity named Astral Chemie Limited, formerly Astral Coatings Private Limited)",
+   "segment_name": "Paints and Adhesives (reportable segment; the Chemicals/Adhesive Business Undertaking being demerged is not reported separately on these pages)",
    "unit": "\u20b9 Million",
-   "measure_notes": "Operating profit = 'Segment profit' per Ind AS 108 note (segment revenue less identified segment expenses; excludes finance cost, tax and share of JV loss; stated to exclude depreciation, though the FY24 figure reconciles to presentation EBITDA less segment depreciation). Segment revenue is external only \u2014 the notes state there were no inter-segment sales in any year. Segment PAT is not disclosed; no segment-level balance of tax exists. Investor presentations give the same business as 'Paints and Adhesives Business' EBITDA (FY24 2,031; FY25 1,948) and PBT before exceptional item (FY24 1,334; FY25 1,005) \u2014 Presentation May 2025 page 60. Pages do not isolate the chemicals/adhesives undertaking alone; paints are combined with adhesives in every disclosure.",
+   "measure_notes": "operating_profit = 'Segment profit' per Ind AS 108 note 37 \u2014 segment revenue less directly attributable/allocated segment expenses, BEFORE finance cost, depreciation & amortisation, tax and share of JV results (so EBITDA-like, not EBIT). Segment revenue is external only; the notes state there were no inter-segment sales. Segment depreciation is disclosed separately (Paints & Adhesives: FY2024 590, FY2025 801, FY2026 933). Investor presentations label the same business 'Paints and Adhesives Business' and give EBITDA (FY2024 2,031; FY2025 1,948) and PBT before exceptional items (FY2024 1,334; FY2025 1,005) \u2014 Presentation May 2025 \u2014 page 60; these differ from the AR segment-profit line.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 14994,
      "operating_profit": 1396,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 220"
+     "source": "Annual Report 2024 \u2014 page 220 (also Annual Report 2025 \u2014 page 208)"
     },
     {
      "fy": "FY2025",
      "revenue": 16361,
      "operating_profit": 1150,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 208"
+     "source": "Annual Report 2025 \u2014 page 208 (also Annual Report 2026 \u2014 page 218)"
     },
     {
      "fy": "FY2026",
@@ -2420,13 +2475,12 @@
     }
    ],
    "latest_quarter": {
-    "period": "Q4 FY23 (only quarterly figure on the pages; not a recent quarter)",
-    "revenue": 3827,
-    "operating_profit": 579,
-    "source": "Presentation May 2023 \u2014 page 55"
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": null
    },
-   "notes": "Q4 FY23 figures are EBITDA-based and include the Adhesive Products Weld-on business; no FY26 or FY27 quarterly segment data appears on the supplied pages.",
-   "not_found": "Segment-level PAT, tax and finance cost for all years; FY2026 segment EBITDA and PBT; any quarterly segment figures after Q4 FY23; standalone chemicals/adhesives financials separate from paints."
+   "not_found": "No standalone Chemicals/Adhesive-only undertaking financials (pages give combined Paints and Adhesives); no segment PAT, no segment EBIT; no quarterly segment data; no FY2026 presentation segment slide."
   }
  },
  "ASTRAMICRO::rationale": {
@@ -4184,104 +4238,114 @@
   }
  },
  "UPL::rationale": {
-  "stamp": "b7d8335b414f92a90c42e3767981233d",
+  "stamp": "bccafbc4d8170b9f71626d34d4419efe",
   "verdict": {
-   "rationale": "Management says the separation is a consolidation, not a divestment: a Composite Scheme of Arrangement approved 20 February 2026 that (1) merges UPL Sustainable Agri Solutions (UPL SAS, the India crop protection business, 90.91% UPL-owned, FY25 turnover INR 24,120 Mn = 31.15% of UPL 1's turnover) into UPL Limited, (2) demerges that India Crop Protection Business into UPL Global Sustainable Agri Solutions (UPL 2), and (3) amalgamates UPL Crop Protection Holdings (UPL Cayman, 77.78% owned, FY25 turnover USD 4,187 Mn) into UPL 2 \u2014 leaving two listed companies: UPL Limited as a diversified agri-plus-specialty-chemicals platform (SUPERFORM stays with it as the manufacturing arm, and it keeps incubating new verticals) and UPL 2 as what the press release calls the world's second largest listed pure-play crop protection platform across 140+ countries, with 9 R&D centres, 25 formulation facilities and a 14% innovation rate, led by Mike Frank. The problems they said it solves: a conglomerate/single-multiple valuation (Bikash Prasad: the market applies 'a single conglomerate multiple' and there is a 'huge conglomerate discount'), a complicated holding structure left over from the 2022 shareholder-approved simplification project that split India crop protection into UPL SAS while international crop protection sat under UPL Cayman, and private-market value not reaching the parent \u2014 Toshan Tamhane said that on the KKR and Alpha Wave valuations of Advanta 'the full value of that is not flowing through to UPL Limited.' They argue crop protection and seeds have fundamentally different cash-flow and capital-allocation needs, citing Corteva's own announced crop-protection/seeds split, and that independent capital and governance structures will let each platform raise capital separately, optimise its own capital structure and grow faster (Jai Shroff: 'at least 3x-4x the other players'). Deleveraging was the stated precondition and is now largely done \u2014 gross debt down from $3.8bn (FY24) to $2.3bn (FY26), net debt $3.1bn to $1.6bn, gearing 4.6x to below 1.6x \u2014 with Jai Shroff saying leverage 'was an issue which kept the multiple of the company' and 'is gone away now.' Who asked: investors/analysts drove it (the whole agenda came from investor feedback on the four below-EBITDA line items, debt and liquidity), KKR and Alpha Wave as platform-level investors wanted liquidity, and the Upswing Trust (an existing UPL SAS investor) swaps into UPL Cayman and ends up with 16.78% of UPL 2 as a public shareholder with one board nomination right; promoters locked their UPL 2 holding for 18 months from listing. Consideration is all-share: 1,000 UPL 1 shares per 48 UPL SAS shares; 1 UPL 2 share per 1 UPL 1 share on demerger; 1,000 UPL 2 shares per 213 UPL Cayman shares \u2014 no cash.",
-   "evolution": "The idea surfaced as monetisation rather than separation: on the Jan 2025 call management announced Alpha Wave's $350m into Advanta ($100m primary, $250m secondary from UPL Ltd for ~12.44%) plus the $200m rights issue, all framed around getting net debt/EBITDA to ~2x. By Aug 2025 (Q1 FY26) it had become an open-ended structural review \u2014 Bikash Prasad said advisors were being engaged 'to explore unlocking value across all platforms' with no firm structure and no timeline, alongside a promise to 'significantly deleverage' over one to two years; Nov 2025 (Q2 FY26) repeated the same formula (restructuring, strategic fundraising, potential IPO) and added the DECCO post-harvest integration into Advanta, with Bikash hinting a corporate action would help fund the ~$900m FY27 maturities. Feb 2026 (Q3 FY26) was the first concrete step \u2014 Advanta's DRHP filed 19 January 2026 as a pure offer-for-sale (KKR 2.2%, UPL Ltd 7.8%) with proceeds 'largely for deleveraging', justified by the crop-protection-versus-seeds capital-allocation argument and the Corteva precedent, plus a stated 1-to-3-year window for corporate actions across all platforms; the crop-protection scheme itself was then approved on 20 February 2026 and, by the May 2026 Capital Markets Day, had drawn open shareholder opposition (Old Bridge's Tarang Agarwal warning of a HoldCo discount), with Bikash saying ten structures had been examined and that two months of unfiltered investor feedback would go to the board 'in a month or two'. Execution continued regardless: CCI approval 2/3 June 2026, BSE and NSE observation letters 29 July 2026, and the Swap and ESOP Swap Transactions completed 31 July 2026, with the Scheme still pending shareholder, creditor and NCLT approval as of the 2 November 2026 results.",
+   "rationale": "Management framed the separation as the final step of a structure-simplification project begun in 2022, when the India crop protection business was carved into UPL Sustainable Agri Solutions (UPL SAS) while the international crop protection business sat under UPL Crop Protection Holdings (UPL Cayman, 77.78% UPL-owned). The Feb 20, 2026 Composite Scheme does three things in order: merges UPL SAS into UPL Limited (1,000 UPL shares for every 48 UPL SAS shares), demerges the India Crop Protection business into UPL Global Sustainable Agri Solutions (UPL 2) on a 1:1 entitlement, and merges UPL Cayman into UPL 2 (1,000 UPL 2 shares for every 213 UPL Cayman shares) \u2014 leaving UPL Limited as a diversified agro/specialty-chemicals platform (SUPERFORM, Advanta, new verticals) and UPL 2 as what Mike Frank called the world's second largest listed pure-play crop protection platform, present in 140+ countries. The stated problems it solves: a conglomerate discount (Bikash Prasad: the market applies 'a single conglomerate multiple' and sum-of-parts is unclear), value trapped at platform level (Toshan Tamhane said the KKR and Alpha Wave private valuations were not flowing through to UPL Limited), a complex holding structure, and the fact that crop protection and seeds have fundamentally different cash-flow and capital-allocation needs \u2014 explicitly citing Corteva's announced crop-protection/seeds split as precedent. Separation is meant to give each entity its own capital structure, governance and board focus so each can raise capital independently and attract a different investor, lender and strategic-partner set; Jai Shroff said these businesses 'need an independent life' and claimed they can grow 3x-4x faster than peers. Management said the precondition was deleveraging, which it declared done at the May 2026 CMD: gross debt down from $3.8bn (FY24) to $2.3bn (-40%), net debt $3.1bn to $1.6bn (-48%), gearing 4.6x to below 1.6x, after repaying $400m perpetuals and $500m of loans and extending another $400m to March 2029 \u2014 Shroff said leverage 'was an issue which kept the multiple of the company. That is I'm sure gone away now.' The push came from several directions: analysts and rating agencies (five explicit feedback items Prasad catalogued, including the ~INR5,000 crore of below-EBITDA line items and short-term liquidity), platform investors KKR and Alpha Wave seeking value realisation (Advanta's Jan 19, 2026 DRHP is an offer-for-sale with KKR selling 2.2% and UPL Limited 7.8%, proceeds 'largely for deleveraging of the group balance sheet'), and the Upswing Trust, an existing 5% UPL SAS investor that swapped 22.21% of UPL Corp Cayman into UPL Cayman (completed July 31, 2026) and ends with 16.78% of UPL 2 plus one board nomination right. Notably, at least one large holder pushed back: Old Bridge's Tarang Agarwal called the announced structure 'fairly detrimental to the current shareholders' and likely to trigger 'a significant HoldCo discount,' and Prasad said the feedback tracker would go 'unfiltered to the board' within a month or two, while noting at least 10 structures had already been evaluated.",
+   "evolution": "On the Aug 1, 2025 Q1 FY26 call the idea surfaced only as a line in Jai Shroff's press release: Bikash Prasad said advisors were just being engaged 'to explore unlocking value across all platforms,' with no structure chosen and deleveraging framed as the near-term priority; by the Nov 6, 2025 Q2 call it had hardened into 'restructuring or strategic fundraising, potential liquidity events like IPO' across platforms, alongside the DECCO-into-Advanta integration, and was explicitly linked to funding the FY27 $900m maturities. On the Feb 2, 2026 Q3 call the first concrete step landed \u2014 Advanta's DRHP filed Jan 19, 2026 \u2014 with management guiding to 'IPO and restructuring within a period of 1 to 3 years' and Toshan Tamhane giving the industrial logic (crop protection vs seeds cash flows, the Corteva split, Advanta's 'destiny of its own'), while Tarang Agarwal already questioned whether UPL shareholders gained anything. The Scheme itself was approved by the board on Feb 20, 2026 and by the May 11, 2026 Capital Markets Day the debate had shifted from whether to separate to how: Agarwal attacked the chosen structure as HoldCo-discount-creating and asked for alternatives, Shroff and Prasad defended it while promising to take investor feedback to the board, and the process then moved through CCI approval (June 2-3, 2026), BSE/NSE observation letters (July 29, 2026) and completion of the Cayman swap and ESOP swap (July 31, 2026), with Nov 2, 2026 results confirming no accounting effect yet pending NCLT and shareholder approvals.",
    "points": [
     {
-     "call": "Scheme",
-     "point": "The core move is consolidating the India crop protection business (UPL SAS) and the global crop protection business (UPL Cayman) into one entity, UPL 2, with its own manufacturing base, R&D, registrations and independent management.",
-     "quote": "The Scheme proposes to consolidate the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure-play crop protection platform."
+     "call": "Aug 2025",
+     "point": "First acknowledgement: advisors only just being engaged, no structure decided, timeline unknown; purpose stated as unlocking value across platforms, tied to deleveraging the balance sheet over one to two years.",
+     "quote": "The idea behind engaging advisors is to explore unlocking value across all platforms."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "Prasad linked the strategic options directly to balance-sheet repair rather than to growth at that stage.",
+     "quote": "However, as we continue to evaluate various strategic options to unlock value across the platform, our focus will be to significantly deleverage our balance sheet over the next year or two."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "The option set was named for the first time \u2014 restructuring, strategic fundraising, IPO \u2014 across all platforms, after DECCO was folded into Advanta in September 2025.",
+     "quote": "UPL continues to evaluate various strategic opportunities to unlock shareholders' value across platforms, including restructuring or strategic fundraising, potential liquidity events like IPO."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "Asked how the ~$900m of FY27 maturities would be met, Prasad made the value-unlock actions part of the funding answer.",
+     "quote": "We had indicated during Q1 earnings call and press release that we are looking at various options to unlock shareholders' value. And if some of those we decide to take, that would also help in terms of deleveraging the balance sheet."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Advanta DRHP filed 19 Jan 2026 as the first concrete corporate action, with a stated 1-3 year window for IPOs and restructuring across all platforms.",
+     "quote": "As we have communicated earlier, we remain focused in evaluating various corporate actions for all our platforms, including IPO and restructuring within a period of 1 to 3 years."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "The Advanta IPO is an offer for sale, not primary: KKR selling 2.2% and UPL Limited 7.8%, with proceeds going to the group, chiefly to cut debt.",
+     "quote": "But it will come to the group largely for deleveraging of the group balance sheet."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Tamhane gave the industrial rationale \u2014 crop protection and seeds need different capital and cash-flow profiles \u2014 and cited Corteva's split as the global precedent, calling Advanta the eighth largest seeds player.",
+     "quote": "we believe that the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Management conceded that the private-round valuations of platform stakes (KKR, Alpha Wave) were not being reflected in UPL Limited's own price \u2014 the trapped-value argument.",
+     "quote": "Because , if you look at the valuation that KKR and subsequently Alpha Wave came in at , at least we feel that the full value of that is no t flowing through to UPL Limited."
     },
     {
      "call": "Scheme",
-     "point": "Two listed entities are meant to let investors choose their exposure \u2014 UPL 1 as diversified agri/specialty chemicals plus incubation, UPL 2 as dedicated crop protection.",
-     "quote": "This will enable clearer value discovery by providing flexibility to the investors to select investments which best suit their investment strategies and risk profile."
+     "point": "The 20 Feb 2026 Composite Scheme consolidates UPL SAS (India crop protection) and UPL Cayman (global crop protection) into UPL 2 to create a pure-play crop protection platform with its own management.",
+     "quote": "The Scheme proposes to consolidate  the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure -play crop protection platform."
     },
     {
      "call": "Scheme",
-     "point": "Independent capital raising and capital-structure optimisation for each entity is given as a core benefit, alongside cost efficiencies from consolidated manufacturing and market access.",
+     "point": "Independent capital raising and capital-structure optimisation for each of the two listed entities is given as a core benefit, alongside a wider investor, lender and partner base and sharper board focus.",
      "quote": "The Scheme will allow UPL 1 and UPL 2 to raise capital independently, allowing each entity to optimize its capital structure and pursue business opportunities more efficiently and effectively."
     },
     {
      "call": "Scheme",
-     "point": "The press release positions UPL 2 by scale \u2014 world's second largest listed pure-play crop protection platform, 140+ countries \u2014 as the route to faster innovation delivery and market share.",
-     "quote": "Bringing our crop protection businesses under one platform creates the world's second largest listed pure-play crop protection platform."
+     "point": "Mechanics and ratios: UPL SAS merges into UPL at 1,000:48, India crop protection demerges into UPL 2 at 1:1, UPL Cayman merges into UPL 2 at 1,000:213; no cash consideration; UPL 2 ends 71.56% promoter / 28.44% public with Upswing Trust at 16.78%, and promoters locked in for 18 months.",
+     "quote": "1 (One)  equity share of UPL 2 of INR 2 each fully paid -up for every 1 (One)  equity share of UPL 1 of INR 2 each fully paid -up."
+    },
+    {
+     "call": "Scheme",
+     "point": "Scale claim and leadership: Mike Frank, CEO of UPL Corp, becomes CEO of UPL Global, which management says will be the second largest listed pure-play crop protection company, in 140+ countries with 9 R&D centres and 25 formulation sites.",
+     "quote": "Bringing our crop protection businesses under one platform creates the world's second largest  listed pure- play crop protection platform."
     },
     {
      "call": "May 2026",
-     "point": "Bikash Prasad named the valuation problem directly: the market prices UPL on one conglomerate multiple, and separation is meant to make the sum of the parts visible.",
-     "quote": "You know that even today market is valuing us using a single conglomerate multiple, they are applying on us."
-    },
-    {
-     "call": "May 2026",
-     "point": "He said the chosen structure was picked after reviewing roughly ten alternatives with advisors, and that independent capital and governance structures per platform will accelerate growth.",
-     "quote": "So once these platforms have their independent capital structure, independent governance structure, it will grow much faster."
-    },
-    {
-     "call": "May 2026",
-     "point": "Jai Shroff framed it as brand-led, IP-rich, high-growth businesses needing autonomy, with SUPERFORM staying inside UPL Limited as the manufacturing platform.",
+     "point": "Shroff's rationale: the brand/IP-led, high-growth platforms need autonomy to grow at multiples of peers, and SUPERFORM stays inside UPL Limited as the manufacturing platform.",
      "quote": "All these businesses need long-term need a kind of independent life, right?"
     },
     {
      "call": "May 2026",
-     "point": "He tied the timing to deleveraging being complete \u2014 leverage had suppressed the multiple and is no longer the constraint, so the re-rating can now come from structure.",
-     "quote": "We've also made sure that the as in the past leverage was an issue for which kept the multiple of the company."
+     "point": "Prasad named the valuation problem explicitly \u2014 a single conglomerate multiple and an opaque sum of the parts \u2014 and said separation gives each platform its own capital and governance structure.",
+     "quote": "You know that even today market is valuing us using a single conglomerate multiple, they are applying on us."
     },
     {
      "call": "May 2026",
-     "point": "Old Bridge's Tarang Agarwal pushed back on the announced structure as value-destructive for existing UPL shareholders and urged alternative structures; Bikash said investor feedback would go unfiltered to the board.",
-     "quote": "But the challenge is that the manner in which that the current structure has been announced, it's likely to trigger a significant HoldCo discount ."
+     "point": "Shroff argued the pre-condition had been met: leverage, which he said had capped the multiple, is no longer an issue after FY26 deleveraging (gross debt -40% to $2.3bn, net debt -48% to $1.6bn, gearing below 1.6x).",
+     "quote": "We've also made sure that the as in the past leverage was an issue for which kept the multiple of the company. That is I'm sure gone away now, and I think we will see the unlocking of shareholder value"
     },
     {
-     "call": "Feb 2026",
-     "point": "Toshan Tamhane gave the separation logic for seeds versus crop protection \u2014 different cash flows and capital allocation \u2014 explicitly citing Corteva's own split, and calling Advanta the eighth largest global seeds player.",
-     "quote": "And lastly, third, we believe that the needs of crop protection in terms of the cash flows, capital allocation are very different from that of the seeds business."
+     "call": "May 2026",
+     "point": "A large shareholder (Old Bridge) publicly opposed the chosen structure as HoldCo-discount-creating and dilutive to existing holders, and pressed for alternatives.",
+     "quote": "But the challenge is that the manner in which that the current s tructure has been announced, it's likely to trigger a significant HoldCo discount ."
     },
     {
-     "call": "Feb 2026",
-     "point": "He also said private-market valuations of Advanta (KKR, then Alpha Wave) were not being reflected in UPL Limited's own price \u2014 the public-market unlock argument.",
-     "quote": "Because , if you look at the valuation that KKR and subsequently Alpha Wave came in at , at least we feel that the full value of that is no t flowing through to UPL Limited."
-    },
-    {
-     "call": "Feb 2026",
-     "point": "The Advanta DRHP (filed 19 January 2026) was a pure offer for sale \u2014 KKR 2.2%, UPL Limited 7.8% \u2014 with no money going into Advanta and proceeds earmarked for group deleveraging.",
-     "quote": "But it will come to the group largely for deleveraging of the group balance sheet."
-    },
-    {
-     "call": "Nov 2025",
-     "point": "Management kept the options open publicly \u2014 restructuring, strategic fundraising or an IPO \u2014 and linked a possible corporate action to meeting the ~$900m FY27 maturities.",
-     "quote": "UPL continues to evaluate various strategic opportunities to unlock shareholders' value across platforms, including restructuring or strategic fundraising, potential liquidity events like IPO."
-    },
-    {
-     "call": "Aug 2025",
-     "point": "The first explicit signal: advisors were being engaged with no structure chosen and no timeline, framed as value unlock across all four platforms while deleveraging continued.",
-     "quote": "The idea behind engaging advisors is to explore unlocking value across all platforms."
-    },
-    {
-     "call": "Jan 2025",
-     "point": "The precursor was private-market monetisation of a platform \u2014 Alpha Wave's $350m into Advanta ($100m primary, $250m secondary from UPL Ltd for ~12.44%), with the secondary going entirely to debt repayment.",
-     "quote": "This marks second investment in the enterprise by a global investor in a span of two years."
+     "call": "May 2026",
+     "point": "Prasad said feedback from two months of investor meetings would be put unfiltered to the board within a month or two, while defending the design as the best of at least ten structures reviewed with advisors.",
+     "quote": "By going to a structure, and before we come to conclusion on this structure, it has been discussed, reviewed by our advisors, and we have looked at least 10 different structures to come up to this structure."
     }
    ],
-   "what_management_expects": "UPL 1: a diversified agri plus specialty-chemicals platform retaining SUPERFORM as manufacturing arm, incubating new verticals. UPL 2: world's second-largest listed pure-play crop protection company, 140+ countries, independent capital structure, governance and board focus, growing 3x-4x peers. Both: independent fundraising, clearer sum-of-parts, removal of the conglomerate discount, cost synergies in manufacturing and market access.",
-   "gaps": "No debt/leverage split between UPL 1 and UPL 2, no quantified synergies, no UPL 2 standalone financials, no answer to the HoldCo-discount and dilution objection, no Advanta-IPO interaction."
+   "what_management_expects": "UPL Limited: a diversified agro and specialty-chemicals platform (SUPERFORM, Advanta, new verticals), lower debt, better ROE. UPL 2: a pure-play crop protection platform with its own capital structure, governance and board focus, manufacturing/R&D/market-access synergies, independent fundraising, a wider investor and lender base, and growth management claims at 3x-4x peers. For holders: clearer sum-of-parts, removing the conglomerate discount.",
+   "gaps": "No quantified synergies, no debt/cost split between the two entities, no SUPERFORM-to-UPL 2 supply pricing, no resolution of the HoldCo-discount objection, no Advanta IPO interaction."
   }
  },
  "UPL::segments": {
-  "stamp": "74cb46c29844a542d1728fd9b21b7091",
+  "stamp": "13f5ea8a93260e912fdd9673ad1a7ce0",
   "verdict": {
-   "segment_name": "UPL SAS (UPL Sustainable Agri Solutions Limited) \u2014 India Crop Protection business; the entity to be demerged/renamed UPL Global Sustainable Agri Solutions Limited",
+   "segment_name": "UPL SAS \u2014 India Crop Protection business (proforma \"pure-play\" platform; excludes 'Nurture'); the entity is UPL Global Sustainable Agri Solutions Limited (FKA UPL Agri Science Private Ltd)",
    "unit": "\u20b9 crore",
-   "measure_notes": "Operating profit = EBITDA as reported on the 'platform-wise' proforma basis: financials 'pertain to India Crop Protection business only, based on proforma adjustments and exclude Nurture', and platform revenue is stated 'without considering group elimination' (i.e. includes inter-platform sales to/from UPL Corp and SUPERFORM, not purely external). Presentations also disclose Contribution and Contribution margin (FY25 866 / 26.8%; FY26 1,033 / 32.2%) and, from Q1FY27 onward, EBIT (Q2FY27 203; H1FY27 532). No PBT or PAT is given for the business on this proforma basis.",
+   "measure_notes": "Operating profit = EBITDA as reported in management's platform-wise proforma disclosure (Contribution less SG&A; Contribution margin and EBITDA margin also given). Revenue is platform revenue on proforma adjustments and WITHOUT group elimination, so it includes sales that may be inter-platform; it is not an Ind AS 108 reportable segment (the audited segments are only Crop protection / Seeds & Post-Harvest / Non-Agro). For Q2/H1 FY27 the deck also gives EBIT (Q2FY27 \u20b9203 cr, 22.0% margin; H1FY27 \u20b9532 cr, 25.8%). No PBT or PAT is disclosed for this platform at any period.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not carried on the supplied pages"
+     "source": "not carried by the provided pages"
     },
     {
      "fy": "FY2025",
@@ -4304,7 +4368,7 @@
     "operating_profit": 214,
     "source": "Presentation Nov 2026 \u2014 page 40"
    },
-   "not_found": "FY2024 revenue/EBITDA absent; no PAT for the proforma India CP business in any year. Schedule III gives only legal-entity share of profit for UPL Sustainable Agri Solutions Ltd (FY24 147, FY25 263/206 restated, FY26 235) \u2014 a different, non-comparable basis."
+   "not_found": "No FY2024 platform figures; no PAT/PBT, tax, finance cost or balance-sheet data for UPL SAS in any year or quarter."
   }
  },
  "SKFINDIA::rationale": {
@@ -4755,82 +4819,97 @@
   }
  },
  "PRICOLLTD::rationale": {
-  "stamp": "e75fb1053ea12c7475a4cec4b5581436",
+  "stamp": "860d260f0bc47ff48fc7f0f951a93a17",
   "verdict": {
-   "rationale": "Pricol's board (approval announced June 27, 2026) is demerging its Driver Information & Connected Vehicle Solutions ('DICVS') undertaking \u2014 driver information systems including connected, electronic, mechanical and electro-mechanical instrument clusters, integrated infotainment, advanced e-cockpit solutions, telematics, battery management systems and a few sensors \u2014 into Pricol Autotech Limited, leaving Pricol Limited with the Actuation, Control & Fluid Management Systems ('ACFMS') and Precision Products ('P3L') businesses. The scale cited is material: DICVS turnover of INR 2,424.63 crores for FY ending March 31, 2026, or 61.17% of consolidated turnover, with management stating both halves have 'acquired sufficient scale and maturity to function more effectively as focused standalone businesses.' The stated problem is that the two sides operate with differing customer needs, competitive dynamics, capital allocation and risk profiles inside one structure, which creates operational complexity, slow decision-making, and shared processes, policies, systems and governance that fit neither business. The fix is two focused platforms \u2014 an automotive technology entity and an automotive & industrial precision engineering entity \u2014 each with dedicated management, independent capital allocation, and its own governance, described as 'simpler, sharper and more agile' to meet fast-changing technology needs and dynamic market realities. Capital-markets reasoning is explicit: clearer visibility of each business's stakeholder value, growth prospects and investment merits, improved ability to attract strategic and financial investors, greater flexibility to access capital, and unlocking shareholder value. Mechanically it is value-neutral at the shareholder level \u2014 no cash consideration, 1:1 share entitlement (1 Pricol Autotech share of INR 1 face value per Pricol share), no change in Pricol's shareholding pattern, and Pricol Autotech's register mirroring Pricol's at 38.51% promoter / 61.49% public, with listing sought on NSE and BSE. Valuation rests on SSPA & Co's Share Entitlement Ratio Report dated 27th June 2026, with a fairness opinion from Saffron Capital Advisors.",
-   "evolution": "No earnings call passages were supplied in this prompt \u2014 the 'CALL PASSAGES' section is empty, so the call-by-call emergence of the idea cannot be reconstructed from these texts. The only dated evidence here is the scheme filing itself: board approval of the scheme of arrangement announced Coimbatore, June 27th, 2026, with the share entitlement ratio report of the same date (27th June 2026). The filing's own framing \u2014 'Over the years' the DICVS business 'has evolved into a differentiated platform,' and 'Over time with a well thoughtout and clear strategic intent' both businesses reached standalone scale \u2014 implies a multi-year build-up to the decision, but the filing does not date those earlier steps.",
+   "rationale": "Pricol's board, on 27 June 2026, approved demerging the Driver Information & Connected Vehicle Solutions (DICVS) undertaking \u2014 connected/electronic/mechanical/electro-mechanical instrument clusters, infotainment, e-cockpit, telematics, battery management systems and some sensors \u2014 into a newly incorporated wholly-owned company, Pricol Autotech Limited, leaving Pricol Limited with Actuation, Control & Fluid Management Systems (ACFMS) and the Precision Products polymer business (P3L, acquired from Sundaram Auto Components on 1 February 2025). DICVS was not a small tail: its FY26 turnover was INR 2,424.63 crores, 61.17% of the INR 3,963.85 crore consolidated revenue, and on the 15 May 2026 call management put the mix at roughly 60% DICVS, 20% ACFMS, 20% P3L. The stated problem is that the two halves had drifted apart on \"differing customer needs, competitive dynamics, capital allocation and risk profiles\" while both had reached \"sufficient scale and maturity to function more effectively as focused standalone businesses\" \u2014 an innovation-led electronics platform (software, display/chip partnerships like the exclusive BOE MOU, 4.5% of revenue on R&D, semiconductor and technology-disruption risk) versus a scale-led manufacturing platform (capacity, automation, tooling, commodity cost and cyclicality risk). The calls show the underlying economics the split addresses: DICVS at INR 2,100\u20132,200 crores with 12.5\u201313% EBITDA, ACFMS at ~INR 600 crores targeting 30\u201335% growth, and polymer at INR 850\u2013900 crores at ~9.5%, a business management said \"will never have a 13 to 15% EBITDA because it is a component company\" \u2014 plus competing claims on one balance sheet, with INR 680\u2013700 crores of capex planned for FY27 alone. The filing says the separation will give each entity financial flexibility for its own investment decisions, reduce operational complexity and speed decision-making, provide \"independent and dedicated management teams,\" let each tailor processes, systems and governance, and deliver \"clear market recognition and appropriate valuation benchmarks for each business, free from conglomerate discount,\" improving the ability to attract strategic and financial investors. Shareholders get 1 new Pricol Autotech share per Pricol share (1:1, INR 1 face value), so the 38.51% promoter / 61.49% public pattern is mirrored, with no cash consideration and listing sought on NSE and BSE. Notably, no investor, lender, customer or partner is named anywhere as having asked for the separation: it is presented as a board-initiated strategic decision, supported by Veda Corporate Advisors, Khaitan & Co, Ramani & Shankar, PwC, SSPA & Co (share entitlement ratio) and Saffron Capital (fairness opinion).",
+   "evolution": "Across all eleven calls from 9 November 2023 to 15 May 2026 the separation is never mentioned \u2014 what evolves is the three-vertical structure that makes it possible: DICVS/ACFMS running at ~69:31 in May 2024, the TVS-group plastics acquisition announced on the 30 January 2025 call and closed 1 February 2025, and by 7 November 2025 three verticals with explicitly divergent profiles (DICVS INR 2,100\u20132,200 cr at 12.5\u201313%, ACFMS ~INR 600 cr growing 30\u201335%, polymer INR 850\u2013900 cr at 9.5%). The only visible pre-announcement trace is the 30 January 2026 call, where a question about a newly incorporated subsidiary was answered as flexibility for technology partnerships and the BOE MOU, not as a carve-out vehicle; the 15 May 2026 call likewise discussed only capex, headwinds and polymer value-addition. The plan surfaces fully formed in the 27 June 2026 board filing, media note and presentation, and is then carried as a one-line note in the 30 July 2026 and 4 November 2026 results, with Pricol Autotech Limited, Coimbatore appearing in the consolidated subsidiary list and approvals from the exchanges, NCLT, shareholders and creditors still pending.",
    "points": [
     {
      "call": "Scheme",
-     "point": "The demerged undertaking is the DICVS business, and the filing quantifies it as the majority of the group: INR 2,424.63 crores of turnover in FY ending March 31, 2026, equal to 61.17% of consolidated turnover.",
-     "quote": "The turnover of the DICVS Business for the financial year ending March 31, 2026, stood at INR 2,424.63 crores. This represents 61.17% of the total consolidated turnover of the Company for the financial year ending March 31, 2026."
-    },
-    {
-     "call": "Scheme",
-     "point": "Stated strategic motive: build a simpler, sharper, more agile entity able to keep pace with the technology cycle and market conditions specific to DICVS.",
-     "quote": "The demerger of the DICVS Business is a strategic decision to create a simpler, sharper and more agile corporate entity, to meet the fast changing needs and technologies related to this business and its dynamic market realities."
-    },
-    {
-     "call": "Scheme",
-     "point": "The core problem named is mismatch inside one company \u2014 the two businesses differ on customers, competition, capital allocation and risk, and each has now reached standalone scale.",
+     "point": "The core stated problem: the DICVS undertaking and the remaining ACFMS/P3L business had come to differ on customers, competition, capital allocation and risk, and each had grown big enough to stand alone.",
      "quote": "The Demerged Undertaking and the Remaining Business of the Demerged Company currently operates with differing customer needs, competitive dynamics, capital allocation and risk profiles."
     },
     {
      "call": "Scheme",
-     "point": "Both halves are said to have outgrown the combined structure, which is the filing's justification for separating now rather than earlier.",
-     "quote": "Over time with a well thoughtout and clear strategic intent, both the Demerged Undertaking and the Remaining Business of the Demerged Company have acquired sufficient scale and maturity to function more effectively as focused standalone businesses ."
+     "point": "Scale of what is leaving: DICVS turnover of INR 2,424.63 crores in FY26, i.e. 61.17% of consolidated turnover \u2014 the majority of the company, not a tail business.",
+     "quote": "The turnover of the DICVS Business for the financial year ending March 31, 2026, stood at INR 2,424.63 crores. This represents 61.17% of the total consolidated turnover of the Company for the financial year ending March 31, 2026."
     },
     {
      "call": "Scheme",
-     "point": "Benefit list includes independent capital allocation and faster decision-making via reduced complexity, plus dedicated management teams for each business.",
-     "quote": "Financial flexibility for each entity to pursue investment decisions aligned with their respective business portfolios and market requirements ;"
+     "point": "Valuation is an explicit objective \u2014 the presentation names the conglomerate discount as the thing being removed by giving each business its own benchmark.",
+     "quote": "Clear market recognition and appropriate valuation benchmarks for each business, free from conglomerate discount"
     },
     {
      "call": "Scheme",
-     "point": "Explicit investor-facing rationale: separate platforms should make each business's value and growth visible and make it easier to attract strategic and financial investors and access capital.",
-     "quote": "Creation of focused and independent business platforms for the Demerged Undertaking and the Remaining Business of the Demerged Company, with clear and enhanced visibility of their respective stakeholder value, growth prospects and investment merits, improved abilit y to attract strategic and financial investors to meet the needs of the respective business, greater flexibility to access capital, pursue growth and technology opportunities and implement their respective long -term strategies ."
+     "point": "Capital allocation is framed as structurally incompatible: Autotech's money goes to talent, software, global R&D centres and overseas acquisitions, while Pricol Ltd's goes to plants, automation and domestic acquisitions.",
+     "quote": "Talent, product development, software, global R&D centres, tech investments & overseas acquisitions"
     },
     {
      "call": "Scheme",
-     "point": "The structure created is two named platforms \u2014 an automotive technology entity (Pricol Autotech, DICVS) and an automotive & industrial precision engineering entity (Pricol Limited, holding ACFMS and P3L).",
-     "quote": "Strategic demerger to create two focused  business platform s \u2013 an Automotive Technology Entity and an Automotive  & Industrial  Precision Engineering Entity, for a simpler, sharper and more agile structure meeting the fast -changing technological needs and the dynamic market realities"
+     "point": "The two entities are also said to carry different risk books \u2014 technology/semiconductor risk on one side, cyclicality and commodity/execution risk on the other.",
+     "quote": "Technology disruption, product innovation cycles & semiconductor ecosystem risks"
     },
     {
      "call": "Scheme",
-     "point": "DICVS is characterised as having evolved into a differentiated platform needing its own long-term strategy, technology capabilities and partnerships for integrated solutions.",
-     "quote": "The proposed demerger  recognises this evolution and enables the business to pursue independent long -term strategies, strengthen technology capabilities , partnerships for integrated solution offerings  and respond more effectively to changing industry dynamics."
+     "point": "Operational benefits claimed: dedicated management teams, faster decisions, and the ability to tailor processes, policies, systems and governance per business.",
+     "quote": "This demerger will provide each of the businesses with independent and dedicated management teams enabling clear market access and a clean operating model, allowing them to better leverage growth opportunities in the domestic and international markets"
     },
     {
      "call": "Scheme",
-     "point": "Retained-business case: ACFMS is backed by growing domestic and export footprints in fluid management and control, and P3L is positioned for expanding precision components demand.",
-     "quote": "The ACFMS and P3L businesses will continue to remain part of Pricol  Limited, with the ACFMS business being supported by growing domestic and export footprint s and opportunities in fluid management and control  solutions , and the P3L business being strategically positioned to capitali se on the expanding opportunity in precision  components."
+     "point": "Consideration and ownership: no cash, a 1:1 share entitlement so Pricol Autotech mirrors the 38.51% promoter / 61.49% public pattern, with listing to be sought on NSE and BSE.",
+     "quote": "Shareholders of Pricol Limited will receive one fully paid-up equity share of Pricol Autotech Limited for every one fully paid-up equity share held in Pricol Limited (1:1 share entitlement ratio), resulting in the shareholding of Pricol Autotech Limited mirroring the shareholding of Pricol Limited, subject to the Scheme becoming effective."
     },
     {
      "call": "Scheme",
-     "point": "Consideration is a value-neutral mirror split: no cash, 1:1 entitlement, Pricol Autotech's shareholding mirroring Pricol's (promoters 38.51%, public 61.49% post-scheme), with listing sought on NSE and BSE.",
-     "quote": "Shareholders of Pricol Limited will receive one fully paid -up equity share of Pricol Autotech Limited for every one fully paid -up equity share held in Pricol Limited (1:1 share entitlement ratio) , resulting in the shareholding of Pricol Autotech Limited mirroring the shareholding of Pricol Limited , subject to the Scheme becoming effective."
+     "point": "Vikram Mohan's framing of timing \u2014 the businesses have become differentiated enough that independence, not scale, is now the constraint.",
+     "quote": "We believe this is the right time for each business to operate independently with dedicated leadership, sharper strategic focus and greater operational agility."
     },
     {
-     "call": "Scheme",
-     "point": "CMD Vikram Mohan frames timing as businesses having diverged on customers, technology priorities, capital requirements and growth, making independent operation right now.",
-     "quote": "Over the years, our businesses have evolved into strong and differentiated platforms with distinct customer needs, technology priorities , capital requirements  and growth opportunities."
+     "call": "Feb 2026",
+     "point": "The only pre-announcement trace on any call: a newly incorporated subsidiary (Pricol Autotech was later the resulting company) was explained purely as flexibility for technology partnerships such as the BOE MOU, with no mention of a carve-out.",
+     "quote": "Considering all these aspects, we wanted to have the flexibility and have a company in place."
     },
     {
-     "call": "Scheme",
-     "point": "Valuation and fairness are documented: SSPA & Co's share entitlement ratio report dated 27th June 2026 with a fairness opinion from SEBI-registered merchant banker Saffron Capital Advisors.",
-     "quote": "The share entitlement ratio has been arrived basis the Share Entitlement  Ratio Report dated 27th June 2026 issued by SSPA & Co, Chartered Accountants , Registered  Valuer."
+     "call": "May 2026",
+     "point": "One month before the board approval, management sized the three verticals that the scheme then split 60:40 \u2014 DICVS against ACFMS plus P3L.",
+     "quote": "On the DICVS our revenue is about 60% of our total revenue, and ACFMS is about 20% and P3L would be about 20%."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "The divergent financial profiles the split formalises were laid out on this call: DICVS at INR 2,100\u20132,200 crores and 12.5\u201313% margin, ACFMS at ~INR 600 crores targeting 30\u201335% growth, polymer at INR 850\u2013900 crores at ~9.5%.",
+     "quote": "And the DICVS vertical will be at around INR 2,100 crores to INR 2,200 crores, and the margin is likely to be at around 12.5% to 13%."
+    },
+    {
+     "call": "May 2025",
+     "point": "Management stated the structural margin ceiling difference between the electronics business and the newly acquired polymer component business \u2014 the economic gap that later justifies separate valuation frameworks.",
+     "quote": "Pricol Precision Products will never have a 13 to 15% EBITDA because it is a component company."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "DICVS spending that earns no revenue of its own \u2014 the BOE display/optical-bonding backward integration \u2014 illustrates the technology-capex intensity of the demerged business versus the manufacturing capex of the retained one.",
+     "quote": "Is it going to give any revenue? No, because it is a backward integration project to make it more self-reliant and to give us cost arbitrage."
+    },
+    {
+     "call": "May 2026",
+     "point": "Competing claims on one balance sheet: a fresh INR 680\u2013700 crore capex cycle spanning ACFMS, polymer and DICVS simultaneously, funded with debt kept to 0.5\u20130.6x equity.",
+     "quote": "In fact, this year, in itself, we have planned for about between INR 680 crore to INR 700 crores of CAPEX to cater to all of our new businesses that we have won, new plants, new machines, so on and so forth, which will keep propelling us forward and to maintain this growth momentum."
+    },
+    {
+     "call": "May 2026",
+     "point": "The retained polymer business was being repositioned up the value chain with a centre of excellence and forward hiring, accepting ~10% margins for two years \u2014 a different value-creation model from DICVS technology investment.",
+     "quote": "We stay committed to our mid-to-long term projections, our investments, and our recommitment to technology, and in the polymer business, we are going to be investing in technology and converting it from a component maker to a value-added polymer player, and we do hope that those will also pay dividends, like in our other divisions in the years to come."
     }
    ],
-   "what_management_expects": "Pricol Autotech (DICVS): independent strategy, stronger technology capability and integrated-solution partnerships, dedicated leadership. Pricol (ACFMS + P3L): growth from domestic/export fluid management, control and precision components. For both: dedicated management, independent capital allocation, financial flexibility, lower complexity and faster decisions, tailored governance, better visibility of value and growth, easier access to strategic and financial investors and capital, unlocking shareholder value. No margin or return numbers given.",
-   "gaps": "No earnings call passages were provided, so no management commentary on timing, debt/asset allocation, margins, capex, who requested the split, or lender, partner and investor pressure."
+   "what_management_expects": "Pricol Autotech: an innovation-led electronics platform funded for talent, software, global R&D and overseas M&A, with higher content per vehicle. Pricol Limited: scale-led ACFMS plus polymer, funded for capacity, automation and domestic M&A, riding exports and disc-brake/ABS mandates. For both: separate valuation benchmarks free of conglomerate discount, tailored capital allocation, dedicated leadership, faster decisions, and easier access to strategic and financial investors.",
+   "gaps": "No explanation of who asked, debt/asset split, Autotech's standalone P&L or margin targets, dis-synergies and duplicated costs, listing timeline, or named management teams; no earnings call ever discussed it."
   }
  },
  "PRICOLLTD::segments": {
-  "stamp": "d6066ffc9cf176d809ac219668ccf934",
+  "stamp": "550e52735e395df410325edc836633e4",
   "verdict": {
-   "segment_name": "Driver Information & Connected Vehicle Solutions (DICVS) \u2014 the Demerged Undertaking to be transferred to Pricol Autotech Limited (Resulting Company)",
-   "unit": "\u20b9 Crores (Annual Report 2026 and presentations from Nov 2025 onward); \u20b9 Lakhs in Annual Reports 2024 and 2025",
-   "measure_notes": "No profit or revenue line for DICVS appears on any supplied page. The segment-reporting notes in all three annual reports (Standalone note 59/55/55; Consolidated note 51/48/48) state the Group operates in a single automotive segment and that there is NO reportable segment under Ind AS 108, so no segment revenue, segment result, EBIT, EBITDA, PBT or PAT is disclosed for DICVS. Only entity-wide figures are on these pages: consolidated revenue from operations incl. other operating revenue (geographic split) of \u20b92,27,178.23 Lakhs FY24, \u20b92,69,192.24 Lakhs FY25, \u20b94,040.80 Crores FY26 \u2014 these are whole-group, not the Demerged Undertaking.",
+   "segment_name": "Driver Information & Connected Vehicle Solutions (DICVS) / Demerged Undertaking transferred to Pricol Autotech Limited",
+   "unit": "\u20b9 Crores (Annual Report 2026 presentation unit; earlier reports use \u20b9 Lakhs)",
+   "measure_notes": "No profit or revenue line for the DICVS / Pricol Autotech undertaking appears on these pages. The segment-reporting notes explicitly state there is no reportable segment: Annual Report 2024 page 203, Annual Report 2025 page 210 and Annual Report 2026 page 248 all say the Group operates as a single automotive segment under Ind AS 108, and the standalone notes (AR2024 p.153, AR2025 p.159, AR2026 p.184/185) merely cross-refer to the consolidated notes. Only consolidated group-level geographic revenue is disclosed (e.g. \u20b94,040.80 Cr total FY2026, \u20b92,691.92 Cr FY2025 \u2014 Annual Report 2026 page 248), which is the whole company, not the demerged business.",
    "years": [
     {
      "fy": "FY2024",
@@ -4860,7 +4939,7 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "All DICVS-specific figures absent: revenue, operating profit/EBITDA/EBIT, PBT, PAT, for every year and for any quarter. Supplied pages carry only group-level geographic revenue, fair-value, CSR, MSME and related-party data."
+   "not_found": "All DICVS/Pricol Autotech figures: no segment revenue, operating profit, PAT or quarterly data. Pages carry only group-level consolidated totals and a single-segment statement; DICVS named once (Presentation Feb 2026 p.15, a Kaizen award) with no financials."
   }
  },
  "STAR::rationale": {
@@ -18291,41 +18370,41 @@
   }
  },
  "ABLBL::segments": {
-  "stamp": "8f4ca00f9ba1d1ee2d022a5bb484798d",
+  "stamp": "fb411cfa70234568dfee9c27c384f749",
   "verdict": {
-   "segment_name": "Lifestyle Brands (ABLBL consolidated segmental reporting)",
+   "segment_name": "Aditya Birla Lifestyle Brands Limited (ABLBL) \u2014 demerged Madura Fashion & Lifestyle (MFL) Business; consolidated, single reported segment \"Branded Apparels (Garments and Accessories)\", presented internally as Lifestyle Brands + Emerging Business",
    "unit": "\u20b9 crore",
-   "measure_notes": "Operating profit = segment EBITDA as reported in ABLBL investor-presentation segmental tables (revenue and EBITDA before inter-segment 'Elimination', which is shown as a separate row, so segment revenue includes inter-segment transactions). No segment-level PBT/PAT is disclosed; audited financials report a single operating segment (Branded Apparels), so only entity-level PAT exists (ABLBL consolidated PAT FY25 \u20b960 Cr, FY26 \u20b9171 Cr \u2014 Presentation May 2026, page 26). FY25 Lifestyle Brands figures are restated: innerwear/Lifestyle inter-segment transactions moved to Elimination, and ABGL reclassified from Emerging Business into Lifestyle Brands.",
+   "measure_notes": "operating_profit = EBITDA as labelled in ABLBL investor presentations (consolidated, before finance cost, depreciation/amortisation and tax; FY26 EBITDA is before the \u20b949 Cr exceptional labour-code charge). Revenue = consolidated Revenue from Operations (external; segment table shows Lifestyle Brands and Emerging Business gross of an 'Elimination' line for inter-segment transactions). pat = reported Net Profit after Tax (FY25 \u20b960 Cr reported / \u20b9130 Cr normalised; FY26 \u20b9171 Cr reported / \u20b9209 Cr normalised). Annual report segment notes carry no segment-wise P&L because the business is a single operating segment.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not in provided pages"
+     "source": "not in pages provided \u2014 ABLBL incorporated April 09, 2024; FY2025 is its first financial statements (Annual Report 2025 \u2014 page 111)"
     },
     {
      "fy": "FY2025",
-     "revenue": 6599,
-     "operating_profit": 1282,
-     "pat": null,
-     "source": "Presentation May 2026 \u2014 page 13"
+     "revenue": 7830,
+     "operating_profit": 1269,
+     "pat": 60,
+     "source": "Presentation May 2026 \u2014 page 12 (and page 26 P&L; revenue 7,829.96 corroborated at Annual Report 2026 \u2014 page 252)"
     },
     {
      "fy": "FY2026",
-     "revenue": 7154,
-     "operating_profit": 1401,
-     "pat": null,
-     "source": "Presentation May 2026 \u2014 page 13"
+     "revenue": 8396,
+     "operating_profit": 1429,
+     "pat": 171,
+     "source": "Presentation May 2026 \u2014 page 12 (and page 26 P&L; revenue 8,395.81 and PAT 171.05 corroborated at Annual Report 2026 \u2014 pages 252-253)"
     }
    ],
    "latest_quarter": {
-    "period": "Q2 FY27",
-    "revenue": 1906,
-    "operating_profit": 371,
-    "source": "Presentation Nov 2026 \u2014 page 10"
+    "period": "Q2 FY27 (quarter ended September 30, 2026)",
+    "revenue": 2266,
+    "operating_profit": 390,
+    "source": "Presentation Nov 2026 \u2014 page 9 (P&L detail page 29; segmentals page 10)"
    },
-   "not_found": "FY2024 figures absent (ABLBL incorporated April 2024). No segment-level PAT, PBT or EBIT disclosed for Lifestyle Brands in any provided page."
+   "not_found": "FY2024 revenue, EBITDA and PAT absent \u2014 company incorporated Apr 2024, FY2025 is its first reporting period. No segment-wise P&L in annual report segment notes (single segment)."
   }
  },
  "GODREJAGRO": {
@@ -20554,18 +20633,18 @@
   }
  },
  "ADANIPORTS::segments": {
-  "stamp": "966df41639461236ff7a804dbfc1c8fe",
+  "stamp": "5d4248b4a676a7392f050d51c2e68278",
   "verdict": {
-   "segment_name": "Vizhinjam (Adani Vizhinjam Port Private Limited) \u2014 reported as a line item in APSEZ's \"Key ports revenue & EBITDA\" tables; Adani Harbour (AHSL, amalgamated into APSEZ from July 1, 2025) is shown separately as \"Harbour\"",
+   "segment_name": "Vizhinjam (Adani Vizhinjam Port Private Limited) \u2014 disclosed as a \"key port\" line in the quarterly presentations' Key ports revenue & EBITDA tables; the annual reports carry only two reportable segments (Port and SEZ activities / Others), so no separate segment exists for it",
    "unit": "\u20b9 crore",
-   "measure_notes": "Profit line is EBITDA (Earnings Before Interest, Tax, Depreciation & Amortization) as defined on the presentation pages; revenue is the port's reported revenue (basis of inter-company elimination not stated). Vizhinjam revenue and EBITDA include Viability Gap Funding O&M support from the Kerala state government: \u20b9316 Cr in FY26, \u20b992 Cr in FY25, \u20b940 Cr in Q4 FY26. These are presentation per-port disclosures, not Ind AS 108 segment reporting \u2014 the annual reports report only two segments (Port and SEZ activities; Others), so no statutory segment result, PBT or PAT exists for Vizhinjam. For reference, the sibling \"Harbour\" line (Adani Harbour division, vested in Shanti Sagar International Dredging Limited effective May 31, 2025) shows revenue \u20b94,278 Cr / EBITDA \u20b93,805 Cr in FY26 and \u20b93,460 Cr / \u20b93,029 Cr in FY25 (Presentation May 2026 \u2014 page 25).",
+   "measure_notes": "Profit line is EBITDA (Earnings Before Interest, Tax, Depreciation & Amortization) as labelled in the presentations' key-ports tables. Revenue is the port's total reported revenue and includes O&M support from the Kerala state government under the Viability Gap Funding (\u20b9316 Cr in FY26, \u20b992 Cr in FY25; \u20b940 Cr in Q4 FY26). No external vs inter-segment split is given, and no PAT is disclosed at port level. Annual-report segment notes do not break out Vizhinjam at all. Documents show no demerger of this business: AVPPL remains a 100% subsidiary (AR2026 p375); Adani Harbour Services Limited was amalgamated INTO APSEZ from appointed date July 1, 2025 (AR2026 p375), i.e. combined, not separated; the only 49%-held entities named are Dholera Infrastructure / Dholera Port and SEZ Ltd and Mundra Solar Technopark.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not carried on the provided pages"
+     "source": "not disclosed in the tagged pages (Vizhinjam not yet in operation / no FY24 key-ports table provided)"
     },
     {
      "fy": "FY2025",
@@ -20588,7 +20667,8 @@
     "operating_profit": 161,
     "source": "Presentation May 2026 \u2014 page 24"
    },
-   "not_found": "No FY2024 Vizhinjam figures; no PAT, PBT or segment result for Vizhinjam/AHSL anywhere; Q1 FY27 and Q2 FY27 pages give no per-port breakout, so latest Vizhinjam quarter is Q4 FY26."
+   "note_on_alias_AHSL": "If the Harbour (Adani Harbour Services) line is wanted instead: FY26 revenue 4,278 / EBITDA 3,805 and FY25 revenue 3,460 / EBITDA 3,029 (Presentation May 2026 \u2014 page 25); Q4 FY26 revenue 1,093 / EBITDA 989 (Presentation May 2026 \u2014 page 24). Figures pertain to the Adani Harbour division of Shanti Sagar International Dredging Limited after the May 31, 2025 transfer.",
+   "not_found": "No PAT, assets or net worth at Vizhinjam/Harbour level; no FY2024 figures; no reportable-segment disclosure for either; no Q1/Q2 FY27 key-ports table in the pages given."
   }
  },
  "AMBER": {
@@ -49421,6 +49501,130 @@
    "purpose": "Expansion and development of the Company's hospital network and infrastructure or expenditure requirements of the Company and its subsidiaries (including investment in subsidiaries), and other general corporate purposes",
    "stage": "board approved",
    "quote": "Thereafter, Mr. Yatharth Tyagi welcomed the Members and apprised them of the Company's rationale and key terms of the proposed strategic investment by Rasmalai Limited, an affiliate of Advent International, through a preferential issue of equity shares and warrants, highlighting its potential to accelerate the Company's growth, strengthen its financial position and create sustainable long-term value for the shareholders."
+  }
+ },
+ "NMDC::rationale": {
+  "stamp": "56a3a3a3e71b8bb1b49f6050c7b37fe8",
+  "verdict": {
+   "rationale": "The business being separated is NMDC's steel-making arm \u2014 the 3 MTPA NMDC Iron & Steel Plant (NISP) at Nagarnar, Chhattisgarh \u2014 which was demerged out of NMDC Limited into a separate listed company, NMDC Steel Limited (NSL), under a Scheme of Arrangement sanctioned by the MCA on 6 October 2022 (effective 13 October 2022, appointed date 1 April 2021), leaving NMDC as a pure mining company and NSL as the vehicle the Government of India intends to privatise, with NMDC retaining a 10% stake. Management never presented a board-level strategic case on these calls; the reasons they did give are (a) the demerger is a government/DIPAM-driven disinvestment, run by GCOM/'Deepam' and not by NMDC \u2014 the draft SPA was shown to NMDC, which 'gave the go ahead' \u2014 and management repeatedly said it has 'no visibility' on it, (b) a deliberate corporate policy that NMDC will not build any more steel plants after Nagarnar (the reason the 2,857-acre Karnataka/KVSL land bought for a 3 MTPA plant was left stranded with \u20b9639.61 crores paid to KIADB and still unresolved as of Jun 2026), and (c) identity as a merchant miner rather than an end-consumer of its own ore, which management said in Aug 2024 put NMDC 'in a more comfortable, more reassuring space' than peers when the Supreme Court retrospective-royalty judgment landed. The numbers they cited for the drag steel puts on the miner are blunt: consolidated EBITDA margin fell from 42% to 33% purely because of the steel business, while standalone iron ore stayed at 42% (Jun 2026); \u20b92,502.64 crores of pre-demerger expenses were incurred by NMDC on NSL's behalf (\u20b9901.25 crores repaid, \u20b91,601.39 crores still outstanding); NSL and RINL were the only two credit accounts behind receivables of about \u20b97,800 crores at FY25 (NSL trade receivables \u20b94,499.20 crores plus \u20b9167.53 crores employee costs and \u20b9179.83 crores HR-coil advance at Jun 2026); and these advances earn NMDC no interest at all ('No we cannot. This is not a deposit'). Post-demerger NMDC supplies NSL at arm's length \u2014 about 5 million tonnes of ore at NSL's 3 MTPA peak, roughly 10% of NMDC sales rising to ~13% of Bailadila \u2014 and management insisted the ore relationship survives any change of ownership because Bailadila, 131 km away, stays the nearest source. Separation also lets each side run its own plan: NMDC's \u20b950,000\u201370,000 crores capex to 100 million tonnes by FY30, coal (Tokisud, Rohne), rare earths/critical minerals and overseas acquisitions; NSL as a lean, low-manpower, energy-efficient single-blast-furnace producer targeting ~25% EBITDA at ~90% utilisation.",
+   "evolution": "The demerger was already done before this window (MCA sanction Oct 2022), so the calls track the privatisation and the unwinding of entanglement rather than the decision: in Nov 2023 management said multiple offers had come, the draft SPA had been discussed and cleared from NMDC's side, but progress stalled around the Chhattisgarh election and questions should go to 'Deepam'; in Feb 2024 it said the sale was 'being driven by GCOM and not by us' with 'huge amount of interest' and no visibility, and investors flagged that halted privatisation news had dented confidence. By Jun 2024 management stated the deliberate policy of no more steel plants after Nagarnar (stranding the Karnataka land) and spoke of 'a blueprint' for taking NMDC and NSL separately to the next level, while Aug 2024 and Feb 2025 handled the sale as a given \u2014 ore sourcing unaffected by ownership, the retained 10% stake monetisable only 'as and when it is proposed to the disinvestment', a 'hypothetical question'. From Jun 2025 to Jun 2026 the privatisation dropped out of the discussion entirely and the talk became operational cleanup: NSL under 'the same management', marketing routed ~60% through SAIL, HR-coil trading by NMDC as a one-off cash-flow bridge, pre-demerger dues down from \u20b92,500 crores to \u20b91,800 crores at ~\u20b9100 crores a month, and the steel business shown as the sole cause of EBITDA falling from 42% to 33%.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The separation is a formal demerger of the Nagarnar steel plant (NISP) out of NMDC into NMDC Steel Limited, sanctioned by the MCA with an appointed date of 1 April 2021, under which NMDC held the undertaking in trust for NSL between appointed and effective dates.",
+     "quote": "The Scheme of Arrangement for the demerger of NMDC Iron & Steel Plant (NISP) from NMDC Limited (NMDC) into NMDC Steel Limited (NSL), along with their respective shareholders and creditors, was sanctioned by the Ministry of Corporate Affairs (MCA) on October 6, 2022."
+    },
+    {
+     "call": "Scheme",
+     "point": "The trust arrangement left NMDC funding NSL: \u20b92,502.64 crores of pre-demerger expenses with no repayment schedule in the Scheme, of which \u20b91,601.39 crores was still outstanding at 30 June 2026, on top of \u20b94,499.20 crores of iron-ore trade receivables, \u20b9167.53 crores of employee costs and a \u20b9179.83 crores HR-product advance.",
+     "quote": "As per the terms, NMDC shall act in trust for NSL and accordingly, an amount of \u20b9 2,502.64 crores was incurred by NMDC on behalf of NSL with no specific repayment schedule defined in the scheme."
+    },
+    {
+     "call": "Nov 2023",
+     "point": "Asked about the divestment, management said the process belongs to the government's disinvestment department, not NMDC \u2014 it had cleared the draft SPA from its side, several offers had come, and progress stalled around the Chhattisgarh election.",
+     "quote": "As of now we do not have a clear visibility on that issue so in fact we should be referring that to Deepam."
+    },
+    {
+     "call": "Feb 2024",
+     "point": "Management reiterated it is a government-run sale handled by GCOM, with strong bidder interest in what it called a state-of-the-art plant, while NMDC concentrated only on ramping production.",
+     "quote": "Of course when it was being driven, it is being driven by GCOM and not by us we were aware that there is a huge amount of interest in that very special interest and rightly so it is the state of the art plant."
+    },
+    {
+     "call": "Jun 2024",
+     "point": "The underlying corporate rationale management did state: NMDC will not build any more steel plants after Nagarnar \u2014 which is why the 2,857-acre Karnataka (KVSL) land bought for a 3 MTPA plant, with \u20b9639.61 crores paid to KIADB, was left without a use and handed to consultants.",
+     "quote": "So that -- now we are left with finding out alternatives."
+    },
+    {
+     "call": "Jun 2024",
+     "point": "Management framed NMDC and NSL as two separately steered companies with their own growth blueprints rather than one integrated group.",
+     "quote": "We plan to take both the companies NMDC and NSL to the next level, and we are -- it's not an ad hoc plan."
+    },
+    {
+     "call": "Jun 2024",
+     "point": "The inter-company funding is uncompensated \u2014 the \u20b92,500-2,600 crores of pre-demerger expenses plus ~\u20b91,300 crores of ore credit carry no interest because they are not deposits under Section 186, so the drag sat entirely on NMDC's balance sheet.",
+     "quote": "No we cannot. This is not a deposit."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "Post-demerger, ore to the steel plant is an arm's-length sale, not an internal transfer, sized at about 5 million tonnes at NSL's 3 MTPA peak \u2014 roughly 10% of NMDC's total sales and ~13% of Bailadila.",
+     "quote": "No. It's not an internal, it's an arm length sale."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "Asked directly whether selling NSL to a private buyer would hurt NMDC, management said ore sourcing is unaffected by ownership because Bailadila, 131 km away, remains the nearest source versus Odisha.",
+     "quote": "So I don't think -- the sourcing of material irrespective of the ownership, whether it's stays with us or it doesn't stay with us irrespective of the ownership Bailadila will remain."
+    },
+    {
+     "call": "Aug 2024",
+     "point": "On the Supreme Court retrospective mining-levy judgment (~\u20b92,500-2,600 crores Karnataka, \u20b9144 crores Chhattisgarh, \u20b921 crores Panna), management argued a pure merchant miner is structurally better placed than an integrated miner-consumer because levies pass through to customers.",
+     "quote": "As I have -- hopefully I've been able to clarify that as merchant miners we are in a more comfortable, more reassuring space than maybe those -- our counterparts who are also the end consumer of what they mine."
+    },
+    {
+     "call": "Feb 2025",
+     "point": "On monetising the residual 10% NMDC holds in NSL and recovering receivables, management treated the timing as entirely the government's call and the question as hypothetical; recovery was tied only to NSL reaching breakeven at 2-2.5 rakes a day.",
+     "quote": "The 10% equity stake is as and when it is proposed to the disinvestment on which I don't have much of idea as of now."
+    },
+    {
+     "call": "Jun 2025",
+     "point": "FY25 receivables ballooned to about \u20b97,800 crores driven by just two state-owned counterparties, NSL and RINL, with ~\u20b950 crores of expected-credit-loss provisioning taken; NSL had begun repaying ~\u20b9200 crores a month.",
+     "quote": "There are only two accounts. One is RINL, the other is NSL. We don't sell on credit to any other people."
+    },
+    {
+     "call": "Jun 2026",
+     "point": "The clearest quantified cost of keeping steel attached: consolidated EBITDA margin fell from 42% to 33% solely because of the steel/HR-coil business, while standalone iron ore held at 42%.",
+     "quote": "If you see our EBITDA, it has come down from 42% to 33%, essentially because of steel business."
+    },
+    {
+     "call": "Jun 2026",
+     "point": "NMDC had to step back in as a trader of NSL's HR coils because NSL, still under the same management with marketing routed through SAIL, hit a realisation lag and cash-flow squeeze; management called it a one-time special mechanism not expected to recur in FY27.",
+     "quote": "Okay, so this was essentially an arrangement made for a very specific requirement of NMDC Steel where they were facing cash flows, so we stepped in and we were doing trading business with the HR coils of NMDC Steel."
+    },
+    {
+     "call": "Jun 2026",
+     "point": "Unwinding the demerger dues is on a ~16-18 month path: pre-demerger expenses cut from ~\u20b92,500 crores to ~\u20b91,800 crores at roughly \u20b9100 crores a month, with full liquidation of all NSL outstandings expected in 1.5-2 years as NSL turned profitable.",
+     "quote": "If you see NSL pre -demerger expenses was around INR2,500, it has already been reduced to around INR1,800."
+    }
+   ],
+   "what_management_expects": "NMDC: a pure-play miner at 42-43% EBITDA (vs 33% blended), undiluted by steel, funding \u20b950,000-70,000 crores capex to 100 mt by FY30 plus coal, rare earths and overseas assets from internal accruals; receivables and \u20b91,601 crores demerger dues liquidated in 1.5-2 years. NSL: a lean, energy-efficient 3 MTPA plant reaching ~25% EBITDA at ~90% utilisation, privatised by the government, with NMDC's 10% stake monetised then.",
+   "gaps": "No board/government rationale, no valuation-unlock or synergy-loss math, no disinvestment timeline or price, no explanation why NMDC kept funding NSL interest-free post-demerger."
+  }
+ },
+ "NMDC::segments": {
+  "stamp": "8676c77e76ac22fa4a0f820b6b66e67e",
+  "verdict": {
+   "segment_name": "Trading of HR Coil (\"Trading - Purchase and Sale of HR_Coils\"); reported within \"All other Segments\" until FY2025 and shown separately from FY2026",
+   "unit": "\u20b9 crore",
+   "measure_notes": "Operating_profit = 'Segment Result' as reported in the business-segment note: a pre-tax EBIT-type measure stated before unallocated corporate expenses, finance cost, interest income and income taxes. Revenue is External Sales (this segment reports no inter-segment sales; total revenue = external). No segment-level PAT, EBITDA or depreciation is disclosed for this segment (depreciation shown as '-'). IMPORTANT: this is NMDC's HR-coil trading activity (buying and reselling coils), not the standalone financials of the demerged NISP / NMDC Steel Limited undertaking, which these pages do not contain \u2014 the demerger was completed before FY2024 and NMDC Steel is no longer part of NMDC's segment reporting.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": 0,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 311 (Sale of HR-Coils for year ended 31 March 2024 shown as '-')"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": 198.98,
+     "operating_profit": 0.86,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 387 (previous-year regrouped figures)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": 3960.86,
+     "operating_profit": 16.31,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 387 (standalone; identical in consolidated, page 498)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Aug 2026 \u2014 page 6 (Q1 FY27 shows only 'Other Sales' \u20b9287 cr and 'Purchase of Stock in Trade' nil; no HR-coil segment split)"
+   },
+   "not_found": "No segment PAT, EBITDA or quarterly HR-coil revenue/profit. No standalone NISP / NMDC Steel Ltd (Demerged Undertaking) financials \u2014 only NMDC's HR-coil trading segment. FY2024 result/assets not separately regrouped."
   }
  }
 }
