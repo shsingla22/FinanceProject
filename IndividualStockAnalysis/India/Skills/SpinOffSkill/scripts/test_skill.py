@@ -337,6 +337,28 @@ def test_judge_is_cached_by_document_and_abstains_without_a_runner(tmp_path, mon
     assert AZ.judge({**sit, "symbol": "BETA"}, SCHEME, "", runner=lambda p: "garbage")["status"].startswith("judge failed")
 
 
+def test_judge_answer_parsing_tolerates_fences_prose_and_retries_once(tmp_path, monkeypatch):
+    monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
+    # fenced, with prose around it and a trailing comma — still read
+    fenced = 'Here is the read:\n```json\n{"what_is_spun": "Energy", "n": [1, 2,],}\n```\nDone.'
+    assert AZ._parse_json(fenced) == {"what_is_spun": "Energy", "n": [1, 2]}
+    # a brace inside prose before the object does not derail the scan
+    assert AZ._parse_json("note {not json} then {\"a\": 1}") == {"a": 1}
+    assert AZ._parse_json("no object here") is None
+    # a malformed first answer is asked again, once, with the JSON reminder
+    asks = []
+    def flaky(p):
+        asks.append(p)
+        return '{"what_is_spun": "Energy", "reason": "unterminated' if len(asks) == 1 else '{"what_is_spun": "Energy"}'
+    j = AZ._ask("k1", "s1", "prompt", True, runner=flaky)
+    assert j["status"] == "judged" and j["what_is_spun"] == "Energy"
+    assert len(asks) == 2 and "not valid JSON" in asks[1] and asks[1].startswith("prompt")
+    # two malformed answers fail honestly, and nothing is cached
+    j2 = AZ._ask("k2", "s1", "prompt", True, runner=lambda p: "{broken")
+    assert j2["status"] == "judge failed: bad json"
+    assert "k2" not in AZ._cache() and "k1" in AZ._cache()
+
+
 def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     rows = _rows()
     texts = {"3": SCHEME}

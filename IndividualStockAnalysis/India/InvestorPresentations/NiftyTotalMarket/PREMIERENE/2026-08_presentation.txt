@@ -1,0 +1,1966 @@
+
+=== page 1 ===
+ 
+ 
+Ref. No: PEL 36/2026-27 
+Date: August 06, 2026 
+  
+Dear Sir/Madam, 
+ 
+Sub: - Investor Presentation on Financial Results for the Quarter Ended June 30, 2026 (Q1 FY27) 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, please find attached the Investor Presentation on the Unaudited Financial Results (Standalone 
+and Consolidated) of the Company for the quarter ended June 30, 2026. 
+ 
+A copy of the said Investor Presentation will be available on the Company's website at 
+www.premierenergies.com . 
+ 
+This is for your information and records.  
+ 
+Thanking you, 
+ 
+Yours truly, 
+For Premier Energies Limited 
+ 
+ 
+ 
+Hitesh Kumar Jain 
+Company Secretary & Compliance Officer 
+ To To 
+The Secretary The Manager, 
+BSE Limited Listing Department 
+Phiroze Jeejeebhoy Towers, National Stock Exchange of India Limited 
+Dalal Street, Exchange Plaza, C-1, G Block, Bandra-Kurla 
+Mumbai – 400001 Complex, Bandra (East), Mumbai – 400 051 
+Scrip Code: 544238 Trading Symbol: PREMIERENE 
+=== page 2 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_05/4260647 -003_Cover_Yash Shah
+Q1 FY 2027 Results
+7 August 2026
+Actual image of the 5.6 GW Seetharampur module plant
+=== page 3 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+2Disclaimer
+This presentation has been prepared by the Company based on information and data which the Company considers reliable, but the Com pany makes no 
+representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, complete nes s, fairness and reasonableness of the 
+contents of this Presentation.
+Certain matters discussed in this presentation may contain statements regarding the Company’s market opportunity and business prospects that are individually and 
+collectively forward -looking statements. Such forward -looking statements are not guarantees for the future performance of the Co mpany and subject to known and 
+unknown risks, uncertainties, and assumptions that are difficult to predict by the Company.
+These risks and uncertainties include but are not limited to, performance of the Indian economy and of the economies of vario us international markets, the 
+performance of the industry in India and worldwide competition, the Company’s ability to successfully implement its strategy, Company’s future levels of growth and 
+expansion, technological implementation, changes and advancements, changes in revenue, income or cash flows, withdrawal of go vernmental fiscal incentives, the 
+Company’s market preferences and its exposure to market risks, as well as other risks.
+=== page 4 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+3Q1 FY 2027 highlightsAbout Us
+Financials Production Capacity
+Revenue
+25,076 INR Mn
++ 34.1% YOY
+EBITDA
+7,594 INR Mn
++ 27.2% YOY , 30.3% Margin
+PAT
+4,719 INR Mn
++ 53.3% YOY , 18.8% MarginCells
+844 MW
+Modules
+953 MWCells
+3.6 GW  → 10.6 GW
+Modules
+11.1 GW
+Ingot -Wafers
+10 GWUnder ConstructionAluminum Frames
+18,000 MT
+BESS Containers
+12 GWh
+Note: The results are shown on a consolidated basis including Transcon Ind Limited financials. Transformers
+570 MVA
+=== page 5 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+4
+03Business updates
+04 Financial performance
+05 Company backgroundAG E N DA
+02Industry highlights 01
+Sustainability and ESG
+
+=== page 6 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+5
+INDUSTRY HIGHLIGHTS
+
+=== page 7 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+6Industry Highlights
+Strong growth in new installations
+Source: MNRE | Note: S olar pump size is assumed at an average of 5 kW to estimate installed capacity . Quarterly solar capacity addition 
+03,0006,0009,00012,00015,000
+Q1 FY
+2025Q2 FY
+2025Q3 FY
+2025Q4 FY
+2025Q1 FY
+2026Q2 FY
+2026Q3 FY
+2026Q4 FY
+2026Q1 FY
+2027
+Ground-mounted Rooftop solar Off-gridPMSGY installations
+460 1,120 
+402 712 728 732 
+410 825 1,019 
+491 559 
+Component A Component B Component CEstimated KUSUM installations
+MW AC MW AC MW AC
+255 241 465 577 686 681 662 881 972 1,279 
+1,081 
+Maharashtra UP Gujarat
+Rajasthan Kerala Others
+=== page 8 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+7Hydro , 11%Solar , 1%Wind , 4%Fossil 
+fuels , 
+81%Others , 
+4%
+1Industry Highlights
+Solar share growing steadily in the grid
+Source: CEASolar power generation
+TWhIncremental power generation source
+TWh
+Hydro , 
+8%Solar , 
+25%Wind , 
+9%Fossil 
+fuels , 
+55%Others , 
+3%
+10%2%4%6%8%10%12%14%16%
+020406080100120140160180
+2019 2020 2021 2022 2023 2024 2025 H1
+2026
+Solar power output Share of total power outputIncremental generation 
+2017 -2025Power generation source
+-100-50050100150
+2017 2018 2019 2020 2021 2022 2023 2024 2025
+Hydro Solar Wind Fossil fuel Others2016
+=== page 9 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+8Industry Highlights
+Data centres driving surge in power demand 
+Source: KPMG India1.9
+GW4.5
+GW28
+%24
+GWFY 2026 installed capacity
+Development pipelineCAGR
+Potential solar 
+demand by 2030
+Growing policy support India data centre market at a glance
+Gujarat data centre policy 2026 -29
+✓ Target 7.5 GW AI data centre capacity with INR 6 Tn 
+investment 
+✓ Minimum 51% renewable energy requirement 
+✓ Multiple incentives including 2.5% capital subsidy for 
+projects in Dholera and INR 1.00/ kWh power subsidy
+Rajasthan data centre policy 2025
+✓ INR 200 Bn investment target
+✓ Multiple incentives including 5% interest subsidy for 5 
+years and INR 100 -200 Mn per year investment -linked 
+incentive for 10 years
+Andhra Pradesh data centre policy 2024 -29
+✓ 1 GW capacity target
+✓ Multiple incentives including capital subsidy and stamp 
+duty reimbursement 
+✓ Tailor -made incentives for projects > 50 MW
+=== page 10 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+9Industry Highlights
+Pick up in BESS demand
+Source: IEX (Day Ahead Market), IESAMonthly capacity addition
+MWhHourly exchange prices in May
+INR/kWhMarket opportunity size estimated at INR 600 Bn per annum
+0.002.004.006.008.0010.00
+1 3 5 7 9 11 13 15 17 19 21 23
+2022 2023 2024 2025 20263 282 
+1 6 2,031 
+440 4,230 
+1,500
+1Open tenders 
+44 GWh
+Awarded 
+16 GWh
+Under construction 
+52 GWhTender status
+30 June 2026
+=== page 11 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+10Industry Highlights
+Policy landscape
+Duty extension on Malaysian solar glass
+Countervailing duties on imported solar glass from Malaysia extended by five years to June 2031MNRE streamlines renewable energy procurement
+SECI designated as sole nodal agency for all central renewable energy procurement
+MNRE introduces stricter vendor accountability and solar module warranty norms under PM Surya Ghar Yojana
+Norms specified for time -bound vendor complaint resolution and warranty claims handling process for modules
+World Bank financing for PM Surya Ghar Yojana
+USD 890 Mn financing package approved for residential rooftop solar financing
+Additional PLI for battery cell manufacturing
+Bids invited for 10 GWh domestic battery cell manufacturing capacity specifically for grid -scale applicationsALMM -II relaxation
+Temporary exemption until December 2026 for C&I projects and residential projects forgoing government subsidies under PM Sury a Ghar Yojana
+Support for floating solar and BESS
+New scheme launched with INR 51 Bn incentive programme for 5 GW floating solar capacity along with 10 GWh BESS capacity by 20 31
+=== page 12 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+11
+BUSINESS UPDATES
+=== page 13 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+12Business Updates
+5.6 GW Seetharampur module plant inauguration
+Use of advanced automation technologies –producing 4 modules every 16 seconds
+
+=== page 14 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+13Business Updates
+7 GW cell plant at Naidupeta nearing completion
+Civil work completed
+Machinery on -site; 
+installation underway
+Trial runs expected to start 
+by end of this monthTool in and hookup started
+
+=== page 15 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+14Transcon –Q1 performance Business Updates
+Note: All numbers are rounded off to the nearest whole number.Operational 
+capacity6.75
+GVA
+Accreditations and certifications
+INR Mn Q1 FY 2027
+Revenue 1,100
+EBITDA 294
+PAT 183
+Strong growth drivers
+•Increasing electrification of economy –mobility, cooking, 
+industry
+•Grid expansion and modernisation 
+•Growing demand from AI usage and data centres 
+•Attractive export opportunityUnder 
+construction  
+capacity10
+GVA
+2.5
+INR BnOrder book
+=== page 16 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+15Business Updates
+10 GVA HV and EHV transformer capacity –expected COD by September 2026Transcon –Neotrafo plant construction in advanced stages
+
+=== page 17 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+16Order book
+As on 30 June 2026Business Updates
+Note: All numbers are rounded off to the nearest whole number. 9,867
+MW
+150
+INR BnSplit by value Order book
+INR Bn
+Split by geography140 
+-23 33 150 
+Mar -26 Sales New
+ordersJun-26Cell , 58%Module , 
+40%EPC , 0%Transformers , 
+2%
+Domestic
+100%
+=== page 18 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+17Business Updates
+Production
+Note: All numbers are rounded off to the nearest whole number. Effective capacity is actual installed capacity adjusted for number of working days and product specification. Effective capacity utilisation number for 
+Q1 FY 2027 excludes the newly commissioned Seetharampur plant.Effective capacity utilization Quarterly production
+MW
+94%
+79%83% 84%92%
+77%79% 78%
+73%
+63%
+0%10%20%30%40%50%60%70%80%90%100%
+Q1 FY 2026 Q2 FY 2026 Q3 FY 2026 Q4 FY 2026 Q1 FY 2027
+Cells Modules447507593722844 
+735961 956918953 
+Q1 FY 2026 Q2 FY 2026 Q3 FY 2026 Q4 FY 2026 Q1 FY 2027
+Cells  Modules
+=== page 19 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+18
+S U STA I N A B I L I T Y  A N D  ES G
+
+=== page 20 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+19Sustainability and ESG
+ESG governance framework
+Board of Directors
+Enterprise oversight
+Oversees ESG strategy, 
+risk management and 
+performance monitoringSustainability Board 
+CommitteeESG Steering 
+CommitteeWorking Groups
+Strategic governance
+Reviews key operational 
+issues, customer needs 
+and techno -commercial 
+aspectsStrategy -to-
+implementation 
+bridge
+Bridges strategy 
+development, 
+stakeholder engagement 
+and implementationESG execution
+Implement ESG roadmaps, 
+compile data, complete 
+certification and disclosure 
+requirements
+
+=== page 21 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+20Sustainability and ESG
+Progress on key parameters
+Planet 
+Positive
+Product 
+LeadershipPeople 
+Centric
+Zero Liquid Discharge
+Recycle 100% of water used, n o waste 
+to landfill30%female employees in plants
+Certified Great Place to Work
+12,716 green jobs
+60,000+ hours employee training
+ 35 Mn litre rain water harvesting 
+capacity
+Avoided emission 30.1 M MT CO2e in Q1 FY 
+2027 through supply of cells & modules
+India’s first LEED gold rated solar 
+manufacturing facility
+11.6 MW rooftop solar project reduced  
+scope 2 emissions by 8% in FY 2026
+Kiwa Top Performer
+Zero fatalities
+ALMM certified
+India’s first Zero Busbar TOPCon cell 
+ESOP scheme
+Amongst top 13 global module 
+manufacturers as rated by Terawatt PV
+All-black G12R module
+
+=== page 22 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+21Empowering communitiesSustainability and ESG
+Enabled quality education for 400 
+underprivileged children in 
+collaboration with WECANFacilitated AI multi -skill training 
+for 300 -500 students under the 
+Telangana Government's 
+Pragathi Pranalika initiative
+Enabled vocational skilling for 
+241 women in Dharwad, 
+Karnataka through tailoring and 
+embroidery training
+Supported young chess talent 
+through national -level 
+tournament participation and 
+skill development
+
+=== page 23 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_05/4260647 -003_Cover_Yash Shah
+FINANCIAL PERFORMANCE
+
+=== page 24 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+23Financial Performance
+Note: All numbers are rounded off to the nearest whole number.Operational performance and revenues
+Revenue from operations
+INR Mn
++ 10.4% QOQ+35.3% YOYPAT
+INR MnOperating EBITDA
+INR Mn
++5.9% QOQ+30.3% YOY
++3.3% QOQ+53.3% YOY
+18,207 18,369 19,365 22,303 24,626 
+Q1 FY
+2026Q2 FY
+2026Q3 FY
+2026Q4
+FY2026Q1 FY
+2027
+Premier Transcon5,483 5,609 5,932 6,748 7,144 30% 31% 31% 30%29%
+0%5%10%15%20%25%30%35%40%
+ - 2,000 4,000 6,000 8,000 10,000 12,000
+Q1 FY
+2026Q2 FY
+2026Q3 FY
+2026Q4
+FY2026Q1 FY
+2027
+Premier Transcon Margin3,078 3,534 3,916 4,568 4,719 16.5%18.4%19.9% 20.1%
+18.8%
+0.0%5.0%10.0%15.0%20.0%
+ -500 500 1,500 2,500 3,500 4,500 5,500 6,500 7,500
+Q1 FY
+2026Q2 FY
+2026Q3 FY
+2026Q4
+FY2026Q1 FY
+2027
+Premier Transcon Margin
+=== page 25 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+24Financial Performance
+Revenue mix
+Revenue mix by geography Revenue mix by business
+22% 24% 22%
+12%24%76% 75% 78%
+88%71%4%
+Q1 FY 2026 Q2 FY 2026 Q3 FY 2026 Q4 FY 2026 Q1 FY 2027
+Domestic - Cell Domestic - Module
+Domestic- Transcon Exports99% 99% 99% 100% 99%
+Q1 FY 2026 Q2 FY 2026 Q3 FY 2026 Q4 FY 2026 Q1 FY 2027
+Exports Domestic sales
+=== page 26 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+25Financial Performance
+Other financial indicators
+Net debt
+INR Mn
+Note: Net debt equals total debt less cash and bank balances including IPO proceeds. Total debt to equity
+0.49 0.47 0.78 0.86 
+0.79 
+Q1 FY
+2026Q2 FY
+2026Q3 FY
+2026Q4 FY2026 Q1 FY
+2027-10,570 -5,673 3,867 10,46416,417
+Q1 FY
+2026Q2 FY
+2026Q3 FY
+2026Q4
+FY2026Q1 FY
+2027
+=== page 27 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+26Consolidated P&LFinancial Performance
+Amount, INR Mn Q1 FY 2027 Q1 FY 2026 Y-O-Y Q4 FY 2026 Q-O-Q
+Revenue from operations 24,625.94 18,207.42 35.25% 22,303.03 10.42%
+Other Income 450.43 487.78 -7.66% 385.98 16.70%
+Total Income 25,076.37 18,695.20 34.13% 22,689.01 10.52%
+Cost of materials consumed 13,470.84 9,556.65 40.96% 8,934.95 50.77%
+Purchases of stock -in-trade 2,536.03 1,129.66 - 4,299.50 -
+Changes in inventories (855.98) 483.15 - 131.39 -
+Other manufacturing and EPC project expenses 26.30 73.04 -63.99% 111.74 -76.46%
+Employee benefits expense 488.65 284.72 71.62% 445.22 9.75%
+Sales, administration and other expenses 1,816.49 1,197.36 51.71% 1,631.84 11.32%
+Operational EBITDA 7,143.61 5,482.84 30.29% 6,748.39 5.86%
+% Margin 29.01% 30.11% - 30.26% -
+EBITDA 7,594.04 5,970.62 27.19% 7,134.37 6.44%
+% Margin 30.28% 31.94% - 31.44% -
+Depreciation and amortisation expenses 956.29 1,575.41 -39.30% 791.17 20.87%
+Finance costs 439.34 368.12 19.35% 414.76 5.93%
+Profit before tax, share net of tax profit from 
+associates and exceptional items6,198.41 4,027.09 53.92% 5,928.44 4.55%
+Share of profit/(loss) from associates 5.41 2.42 123.55% 50.25 -89.23%
+Profit before tax and exceptional items 6,203.82 4,029.51 53.96% 5,978.69 3.77%
+Exceptional items 0.00 0.00 0.00% 0.00 0.00%
+Profit before tax (after exceptional items) 6,203.82 4,029.51 53.96% 5,978.69 3.77%
+Tax expenses 1,484.64 951.58 56.02% 1,410.32 5.27%
+PAT 4,719.18 3,077.93 53.32% 4,568.37 3.30%
+% Margin 18.82% 16.46% - 20.13% -
+=== page 28 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+27Segmental P&L for Q1 FY 2027Financial Performance
+Amount, INR Mn Solar Cells and Modules Transformers Consolidated 
+Revenue from operations 23,561.26 1,064.68 24,625.94
+Other Income 414.90 35.53 450.43
+Total Income 23,976.16 1,100.21 25,076.37
+Cost of materials consumed 12,840.07 630.77 13,470.84
+Purchases of stock -in-trade 2,511.94 24.09 2,536.03
+Changes in inventories (904.11) 48.13 (855.98)
+Other manufacturing and EPC project expenses 26.30 0.00 26.30
+Employee benefits expense 461.85 26.80 488.65
+Sales, administration and other expenses 1,739.96 76.53 1,816.49
+Operational EBITDA 6,885.25 258.36 7,143.61
+% Margin 29.22% 24.27% 29.01%
+EBITDA 7,300.15 293.89 7,594.04
+% Margin 30.45% 26.71% 30.28%
+Depreciation and amortisation expenses 923.90 32.39 956.29
+Finance costs 425.38 13.96 439.34
+Profit before tax, share net of tax profit from associates and exceptional items5,950.87 247.54 6,198.41
+Share of profit/(loss) from associates 5.41 0.00 5.41
+Profit before tax and exceptional items 5,956.28 247.54 6,203.82
+Exceptional items 0.00 0.00 0.00
+Profit before tax (after exceptional items) 5,956.28 247.54 6,203.82
+Tax expenses 1,419.97 64.67 1,484.64
+PAT 4,536.31 182.87 4,719.18
+% Margin 18.92% 16.62% 18.82%
+=== page 29 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+28
+ANNEXURE –COMPANY BACKGROUND
+=== page 30 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+29
+30+ years of solar manufacturing excellenceCompany Background
+1995 1999 2011 2021 2022 -2024IncorporationFirst module 
+lineFirst cell line
+2024IPO
+Fresh 
+capital raise 
+of INR 12.9 
+Bn
+INR 1.8 Bn 
+Equity 
+investmentCapacity 
+expansion
+Capacity
+Cells 2,000 MW
+Module 4,134 MWCapacity
+Cell 75 MW
+Module 100 MWCapacity
+Cell 500 MW
+Module 1,220 MW
+2025
+Capacity 
+expansion plus 
+BESS, inverter 
+and 
+transformer 
+foray
+Capacity
+Cell 3,200 MW
+Module 5,100 MW
+2026Capacity
+Cell 3,600 MW
+Module 11,100 MWCapacity 
+expansion and 
+EPC business 
+JV
+
+=== page 31 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+30Mission 2028
+To become India’s leading provider of cleantech solutions with a portfolio of complementary products
+Vertically integrated capacity of 10 GW+ Allied products and services
+TransformersBESS 
+solutions
+Inverters
+Diversified product portfolio with new engines of growth
+Allied products expected to contribute about 25% of group revenues
+Strong sales synergies –lower cost of customer acquisition and better marginsCompany Background
+EPC services Ingots Wafers Cells Modules
+=== page 32 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+31Consistent growth track recordFinancial Performance
+Total Revenue
+INR MnEBITDA
+INR MnPAT
+INR Mn
+110 228 769 1,611 2,268 
+FY
+2022FY
+2023FY
+2024FY
+2025FY
+2026234 488 1,047 2,431 3,570 
+FY
+2022FY
+2023FY
+2024FY
+2025FY
+2026Cell production
+MW
+537 1,129 5,053 19,142 25,787 
+FY
+2022FY
+2023FY
+2024FY
+2025FY
+20267,670 14,632 31,713 66,521 80,259 
+FY
+2022FY
+2023FY
+2024FY
+2025FY
+2026-144 -133 2,314 9,371 15,097 
+FY
+2022FY
+2023FY
+2024FY
+2025FY
+2026Module production
+MW
+Note: All numbers are rounded off to the nearest whole number.
+=== page 33 ===
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+12    57    111
+ACCENTS
+112
+57
+111115
+172
+240
+2108
+191
+78196
+229
+184
+3222
+158
+54242
+216
+175
+4219
+80
+74241
+185
+183
+5101
+142
+156193
+210
+215
+6191
+191
+191229
+229
+229
+Hyperlink12
+57
+111115
+172
+240
+Followed
+Hyperlink108
+191
+78196
+229
+184
+Lines50
+56
+62
+Highlights12
+57
+111TABLE/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+32Wide -ranging recognition in the industryCompany Background
+2025
+‘A’ Grade in Global 
+Solar Module 
+Manufacturer Ranking2025
+CII Award for CFO of the 
+Year –Energy, 
+Infrastructure & Utilities 2026
+United Nations Global 
+Compact Initiative 
+Participant2026
+Best in Industry in the 
+Energy, Oil & Gas Sector
+2025
+CII Award for 
+Manufacturing 
+Excellence
+2026
+Ranked 13 in Terawatt 
+PV’s top 100 global 
+module manufacturers
+2026
+India’s most Respected 
+Entrepreneur and 
+Star of City Award
+2026CII National EHS 
+Excellence Award 
+2025 -Bronze Winner
+
+=== page 34 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2024/2024_04/4226796 -001_Premier Energies_Niwas Kumar_Cover & Template
+33
+Thank you!
+Corporate office
+8th floor, Orbit Tower 1, Sy. No. 83/1, 
+Hyderabad Knowledge City, TSIIC, 
+Raidurgam , Hyderabad -500081, 
+Telangana, India
+Web www.premierenergies.com
+Email
+investors@premierenergies.comProduction facilities
+Plot No. 8/B/1&2, E -City, (Fab City) Maheshwaram 
+Mandal, Raviryala Village, Ranga Reddy District, 
+Telangana 501359, India
+Sy No 303 304 305 and 306/2, EMC Maheshwaram Ranga 
+Reddy District, Maheshwaram, Ranga Reddy District, 
+Telangana 501359, India
+Plot No. S -95-96, S 100 -104, Maheshwaram Mandal, 
+Srinagar Village, Fab City, Raviryala, Ranga Reddy District, 
+Telangana 501359, India
+Plot No. UDL -5, IP Seetharampur, Ranga Reddy District, 
+Telangana 509217, India
+Plot no. 144, APIIC Industrial Park, APIIC MP SEZ Industrial 
+area, Palachuru Village, Naidupeta, Tirupati District, 
+Andra Pradesh 524421, India (Under construction)
+PREMIER ENERGIES LIMITED
+CIN: U40106TG1995PLC019909

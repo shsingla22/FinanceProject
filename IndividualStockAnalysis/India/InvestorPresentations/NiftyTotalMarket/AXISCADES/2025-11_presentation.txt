@@ -1,0 +1,535 @@
+
+=== page 1 ===
+ 
+ 
+AXISCADES Technologies Limited  
+(formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru -560024, Karnataka, INDIA  
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com  
+November  12, 2025  
+ 
+The Manager      The Manager  
+Listing Department     Listing Department  
+BSE Limited      National Stock Exchange of India Limited  
+Phirozee Jeejeebhoy Tower,    Exchange Plaza, 5 Floor, Plot C/1, G Block  
+Dalal Street      Bandra – Kurla Complex, Bandra(E),  
+Mumbai 400 001     Mumbai 400 051  
+BSE Scrip Code: 532395    NSE Symbol: AXISCADES  
+       
+Dear Sir/Madam,  
+Sub: Q 2 FY26 Result Presentation  
+Please find enclosed Investor Presentation issued by the Company  on the financial results  for 
+the quarter  and half year  ended September  30, 202 5. 
+ 
+The above announcement will be made available on the Company’s website  at 
+www.axiscades. com   
+ 
+This is for your inf ormation and records.  
+ 
+Yours faithfully,  
+For AXISCADES Technologies Limited  
+ 
+Sonal Dudani  
+Company Secretary & Compliance Officer  
+ 
+Encl: A/a  
+ 
+=== page 2 ===
+AXIS CADES Technologies LimitedQ2 & H1 FY26
+EARNINGS PRESENTATIONAXISCADES  TECHNOLOGIES  LIMITED 
+1
+
+=== page 3 ===
+AXIS CADES Technologies LimitedThis presentation and the accompanying slides (the“Presentation”), which have been prepared byAXISCADES Technologies Limited (the“Company"), have been
+prepared solely forinformation purposes and donot constitute any offer, recommendation orinvitation topurchase orsubscribe forany securities, and shall not
+form the basis orberelied oninconnection with any contract orbinding commitment whatsoever .Nooffering ofsecurities ofthe Company will bemade except by
+means ofastatutory offering document containing detailed information about the Company .
+This Presentation has been prepared bythe Company based on information and data which the Company considers reliable, but the Company makes no
+representation orwarranty, express orimplied, whatsoever, and noreliance shall beplaced on, the truth, accuracy, completeness, fairness and reasonableness of
+the contents ofthis Presentation .This Presentation may not beallinclusive and may not contain allthe information that you may consider material .Any liability in
+respect ofthe contents of,orany omission from, this Presentation isexpressly excluded .
+Certain matters discussed inthis Presentation may contain statements regarding theCompany’s market opportunity and business prospects that are individually
+and collectively forward -looking statements .Such forward -looking statements are not guarantees offuture performance and are subject toknown and unknown
+risks, uncertainties and assumptions that are difficult topredict .These risks and uncertainties include, but are not limited to,the performance ofthe Indian economy
+and ofthe economies ofvarious international markets, the performance ofthe industry inIndia and world -wide, competition, thecompany’s ability tosuccessfully
+implement itsstrategy, the Company's future levels ofgrowth and expansion, technological implementation, changes and advancements, changes inrevenue,
+income orcashflows, the Company's market preferences and itsexposure tomarket risks, aswell asother risks .The Company's actual results, levels ofactivity,
+performance orachievements could differ materially and adversely from results expressed inorimplied bythis Presentation .The Company assumes noobligation to
+update any forward -looking information contained inthis Presentation .Any forward -looking statements and projections made bythird parties included inthis
+Presentation are not adopted bythe Company and the Company isnot responsible forsuch third -party statements and projections .
+AllMaps used inthe presentation are not toscale .Alldata, information, and maps are provided "as is"without warranty orany representation ofaccuracy, Process or
+completeness events orcircumstances .
+AXIS CADES Technologies LimitedSafe Harbor
+2
+=== page 4 ===
+TABLE OF CONTENTS
+01
+Message from our 
+Founder Chairman & 
+Managing Director02
+Performance and 
+Scorecard03
+Key Business 
+Updates
+04
+Financial 
+Performance05
+Operational 
+Performance06
+Updates and 
+insights
+3
+=== page 5 ===
+Dear Shareholders,
+It has been three quarters since I resumed my role as Chairman of your esteemed Company. During this time, we launched 
+the Power930 initiative, setting an ambitious revenue target of Rs. 9,000 crore (1 billion USD) by FY2030. To achieve this, w e 
+have outlined the following plans:
+We are targeting over 40% year -on-year growth in our core business areas for FY26 and FY27, with acceleration to over 70% 
+projected for FY28 through FY30. Based on current forecasts, we expect to meet the 40% growth target for FY26 and FY27 in 
+our core domains of Aerospace, Defense and ESAI. With new facilities becoming operational by 2027, we are optimistic 
+about surpassing the 70% mark in subsequent years.
+To drive growth in per capita revenue and improve OPM, we are shifting from a service -centric model to one focused on 
+products and solutions. Annualized EBITDA per employee increased from INR 4.31 Lakhs/employee in H1 -FY25 to INR 6.36 
+Lakhs/employee in H1 -FY26 marking a 47% increase YoY .
+We are investing heavily in infrastructure to support product and solution development. A large portion of our 165,000 sq. ft . 
+Aero -land facility is complete, and construction has begun on the 3 million sq. ft. Devanahalli Atmanirbar Complex. Once 
+finished, it will be among India’s largest centers for Radars, Strategic Electronics, and the Aerospace Supply Chain.
+Our focus continues to be forming strategic partnerships with global leaders in our core areas. We’ve collaborated with 
+MBDA and Indra, and forged alliances with CILAS, EBC, Aldoria, and EEA to enhance our capabilities and revenues.
+We are reviewing our business portfolio to identify areas of stagnation, negative growth, or limited strategic value. To stay
+focused and agile, we’ve engaged a strategic advisor to guide this process.
+We have a robust pipeline, giving us strong and clear visibility to achieve our mission (Power930) by FY30. We are focused 
+on converting maximum possible of this pipeline into confirmed orders and continuously replenishing it.
+In the following sections, our leadership team will share insights on H1/Q2 performance and outline strategies for sustained 
+growth in FY26 and beyond. Rest assured, we are fully committed to delivering long -term value for all stakeholders.
+In closing, I would like to thank you for your continued trust and support. Together, I am confident we will build a future 
+marked by enduring growth, operational excellence, and lasting success.Chairman’s Message
+Dr. Sampath 
+Ravinarayanan 
+Founder Chairman and 
+Managing Director
+Bangalore, India
+4
+=== page 6 ===
+AXIS CADES Technologies LimitedConsolidated Financial Performance –Q2 FY26
+All numbers in INR crores Q2 FY25 Q1 FY26 Q2 FY26 QoQ YoY
+265 244 299 +22.7% +13.0%
+33
+12.6%34
+14.0%47
+15.7%+38.2%
++310 bps+41.5%
++170bps
+12
+4.6%21
+8.2%23
+7.6%+10.9% +88.9%EBITDA & EBITDA 
+margin
+Revenue from 
+Operations
+5PAT & PAT margin
+
+=== page 7 ===
+AXIS CADES Technologies LimitedConsolidated Financial Performance –H1 FY26
+All numbers in INR crores H1 FY25 H1 FY26 YoY
+488 543 +11.2%
+65
+13.2%81
+14.9%+25.7%
++170 bps
+29
+5.8%44
+7.9%+51.6%EBITDA & EBITDA 
+margin
+Revenue from 
+Operations
+6PAT & PAT margin
+
+=== page 8 ===
+AXIS CADES Technologies LimitedAXISCADES –H1’26 Scorecard
+Core Domains -Focus on Non linear, Global
+and Scalable GrowthOther Domains -Focus on Business Reset & 
+ProfitabilityTotal
+H1 FY26 
+INR CrRevenue EBITDA EBITDA % FTE
+Aerospace 174 26 15.1% 1,121
+Defense 173 38 22.1% 406
+ESAI 63 14 23.0% 173
+Total 410 79 19.3% 1,700
+% of total 75% 98%H1 FY26 
+INR CrRevenue EBITDA EBITDA % FTE
+HE & 
+Auto111 -1 -0.6% 682
+Energy 22 3 12.7% 170
+Total 133 2 1.6% 852
+% of total 25% 2%H1 FY26 
+INR CrRevenue
+Revenue 543
+EBITDA 81
+EBITDA % 14.9%
+FTE 2,801
+Key Metrics YoY
+₹Cr H1 FY25 H1 FY26 YoY Growth
+Revenue 488 543 11.2%
+EBITDA 65 81 25.7%
+EBITDA % 13.2% 14.9% 170 bps
+PAT 29 44 51.6%
+PAT % 5.8% 7.9% 210 bps68%32%
+62%38%
+Product Revenues Service Revenues
+7H1
+FY25H1
+FY26
+=== page 9 ===
+AXIS CADES Technologies LimitedThis quarter has been marked by solid strategic progress, particularly in our 
+international business development. Within the framework of the MoU 
+signed with Indra at the last Paris Air Show, we are advancing in several joint 
+business opportunities in Navigation Aids , Active protection Systems and 
+Radar and Laser defense technologies .  We are also moving forward with 
+the partnership established with EEA Aircraft , likewise, unveiled in Paris, 
+which is opening new opportunities in the aerospace domain.The Company delivered a standout Q2, with revenue from operations rising to ₹299 crore , a 
+13.0% YoY increase and a significant 22.7% QoQ jump . For H1 FY26, consolidated 
+revenue grew to ₹543 crore (up 11.2% YoY), EBITDA to ₹81 crore (up 25.7% YoY), and PAT 
+to ₹44 crore (up 51.6% YoY), with margin improvements across all metrics. 
+Our core verticals Aerospace, Defense, and ESAI contributed 75% of total H1 revenue, 
+with Aerospace and Defense delivering EBITDA margins of 15.1% and 22.1%, respectively. 
+These domains saw a combined YoY revenue growth of 20.6% and EBITDA growth of 
+37.5%, underscoring the success of our strategic focus.  
+Guided by the Power930 initiative, AXISCADES is transitioning from a service -centric 
+model to a solutions and products driven model , aiming to pivot its revenue mix towards 
+innovative solutions to its global customer base. This shift is already visible in our improved 
+revenue ratios and margin expansion. Investments in world -class infrastructure, including 
+the Aeroland facility and the Devanahalli Atmanirbar Complex , are positioning us as a 
+leader in defense, strategic electronics and aerospace supply chain. 
+We continue to forge global partnerships sharpening our business priorities and building 
+a robust order pipeline. Our operational discipline and portfolio optimization are driving 
+sustainable profitability and resilience. With a visible, growing order book and accelerated 
+ramp -up in defense revenues expected in H2, we remain confident in meeting our FY26 
+guidance. The leadership team is committed to delivering sustained stakeholder value 
+through operational excellence and strategic agility .
+Alfonso Martinez
+Head of International Business 
+and Global Operations
+Shashidhar SK
+Group CFO
+8
+We are laying the groundwork for the next phase of our transformation:
+1. Transforming our workforce
+• Our revenue per employee improved by 29% YoY
+• 900+ individuals technically trained in PLM, CAE and tool design
+2. Capacity building
+• Inauguration of bigger office facility for Mistral, Hyderabad, Telangana
+• 8.2 acres land allotted for our defense manufacturing facility at Hyderabad
+3. Capability building
+• Initiated missile integration capability building
+• Provided Factory automation solution to customers
+• Built weld automation machine concepts
+These initiatives will guide sustainable growth and long -term value creation. D Muralikrishnan
+COO & CHRO
+Highlights and Outlook
+
+=== page 10 ===
+AXIS CADES Technologies LimitedOur growth inESAI isscaling up with the strategic
+alignment with leading Tier 1mobile OEM forspec to
+build and manufacturing inIndia .
+Our engagement expanded with the established
+semiconductor OEM tobuild custom RFproducts in
+volumes .Dedicated PCB assembly lines and testing
+facilities are being set-upatAero land facility .
+We have initiated astrategic relationship with leading
+European Tier 1forSDV .Launched new Qualcomm
+based Falcon KitforDrones and UAVs forOEMs .Driven by  large orders and steady production, 
+Defense vertical has delivered a powerful 
+performance in Q2 with 37% YoY growth .
+Demonstrating our technical prowess, we had crucial 
+wins across DRDO and DPSU , securing new design 
+and production orders on Radar, EW and Missile 
+Systems . Recent large contract on Tank Trailer and 
+the Counter Drone Systems order showcase our 
+resilience in MoD projects. 
+Strategic tie -ups with leading global OEMs such as 
+MBDA and INDRA resonates our global credentials, 
+paving way for substantial future programs.Our Aerospace vertical delivered arobust 16%YoY
+growth inQ2,driven bystrong execution and recurring
+business from global OEMs .
+New orders incabin interiors and manufacturing
+engineering ,along with our fifth consecutive
+Diamond Supplier Award from Bombardier ,
+underscore our operational excellence and customer
+trust .Encouraging early success intool design and
+manufacturing further strengthens our growth
+foundation formanufacturing .
+With a healthy order pipeline and expanding
+capabilities, weare confident ofachieving the plan set
+out forFY26.Highlights and Outlook
+Sharadhi Chandra Babu
+President –Defense
+H1 FY26 Defense Score Card
+H1 Revenue ₹173 Cr
+Revenue growth YoY 31%
+EBITDA % 22.1%9
+KP Mohanakrishnan
+President –Aerospace
+H1 FY26 Aerospace Score Card
+H1 Revenue ₹174 Cr
+Revenue growth YoY 12%
+EBITDA % 15.1%Manikandan C
+President –ESAI
+H1 FY26 ESAI  Score Card
+H1 Revenue ₹63 Cr
+Revenue growth YoY 11%
+EBITDA % 23.0%
+9
+
+=== page 11 ===
+AXIS CADES Technologies LimitedKey Business Updates
+Signed strategic engagements with MBDA for missiles and ground systems production
+10
+01 Design Wins :UWB Digital Receiver Module (DRDO) ;SPU forActive Off-Board Decoy (BEL) ;APF forElectric Heavy Weight Torpedo (BDL)
+03
+04Production Wins (BEL) :Advanced Direction -Finding system ;Ethernet Switch forD4;Frontend Electronics forHUMSA
+05
+06
+07
+08
+Formed a tripartite consortium with Goodluck Industries, and BrahMos Aerospace Thiruvananthapuram Ltd. (BATL) for AMCA progra m 
+09MoD Wins: Large contract from the Indian Army for supply of Tank Trailers 
+12
+02
+11Joint development of Advanced Counter Drone Solutions with CILAS
+10Acquired new orders in cabin interiors and manufacturing engineeringProduction Wins (HAL): Peripheral Interface Card for Mission Computer of ALH; Electronic Control Unit for Su -30MK1 upgrade
+MoD Wins: New order for supply of Man Portable Counter -Drone Systems to the Indian Army
+Long -term partnership with INDRA for co -development and production of defense systems
+Establishing state -of-the-art lab for a global Hyperscaler’s upcoming programs
+Scaled up new production orders for a global Semiconductor OEM
+=== page 12 ===
+AXIS CADES Technologies LimitedKey Highlights –Q2 and H1 FY26
+Business Highlights
+For the quarter, revenue reached $34.6million,
+representing a9.3%year -over -year increase, while first -
+half revenue grew by7.6%year -over -year .
+The quarter's reported EBITDA reached ₹47 crores, a
+41.5% rise from₹33 crores inQ2’25,marking the
+Company's highest operating margin todate .H1EBITDA
+of₹81crores is26%above last year's H1,showing solid
+fundamental growth .
+The EBITDA margin reached 15.7%inQ2’26,reflecting a
+year -over -year increase of310 basis points and aquarter -
+over -quarter rise of170 basis points .For the first half of
+the year, margins grew by170 basis points .
+Profit after Tax (PAT) reached ₹23 crores this quarter,
+marking an89%increase and amargin of7.6%,compared
+to₹12crores with a4.6%margin inQ2’25.The H1PAT of
+₹44crores represents a52%growth over H1’25.Consolidated revenues forQ2’26reached ₹299 crores,
+marking a13.0%year -over -year increase .Generally, H1
+accounts forapproximately 45%ofthe annual revenue,
+while H2contributes 55%,primarily due tothe bulk of
+defense -related revenues being realized inthe second
+half .
+Total revenue forthe quarter increased by13.0%year -
+over -year, driven bya22.0%growth incore domains,
+while other domains declined by11.1%.
+Inkey sectors, defense revenue increased by37%,
+aerospace revenue grew by 16% whereas ESAI
+revenues declined by1%compared toQ2’25.
+Other sectors, encompassing heavy engineering,
+automotive, and energy, saw an11.1%year -over -year
+decrease .This decline islinked tothe reduction of
+customer accounts, aslowdown inthe automotive
+industry, and the timing ofenergy orders .
+The Company has advanced its facilities and
+infrastructure tosupport ashift toward product -
+driven non -linear growth .
+Financial Highlights
+The second quarter demonstrated substantial order
+intake within the defense sector, with expectations
+forcontinued growth inupcoming quarters driven by
+ramp up in procurement activities from Indian
+defense and global OEMs .
+11
+=== page 13 ===
+AXIS CADES Technologies LimitedConsolidated Profit and Loss Statement
+Particulars (in INR Cr.) Q2 FY25 Q1 FY26 Q2 FY26 YoY % QoQ H1 FY25 H1 FY26 YoY %
+Operating Revenue ($ Mn) $31.6 $28.5 $34.6 9.3% 21.5% $58.6 $63.1 7.6%
+Revenue 265 244 299 13.0% 22.7% 488 543 11.2%
+Other Income 4 11 6 37.8% -43.9% 15 17 13.4%
+Total Income 269 254 305 13.4% 19.9% 503 559 11.2%
+EBITDA 33 34 47 41.5% 38.2% 65 81 25.7%
+EBITDA Margin (%) 12.6% 14.0% 15.7% 310 bps 170 bps 13.2% 14.9% 170 bps
+EBIT 23 25 37 58.0% 49.3% 45 62 35.8%
+EBIT Margin (%) 8.8% 10.1% 12.3% - - 9.3% 11.3% -
+Profit before Tax 19 28 36 93.5% 29.6% 43 64 49.6%
+Tax 6 7 13 102.1% 84.5% 14 20 45.3%
+Profit after Tax 12 21 23 88.9% 10.9% 29 44 51.6%
+PAT Margin % 4.6% 8.2% 7.6% 300 bps -60 bps 5.8% 7.9% 210 bps
+12
+=== page 14 ===
+AXIS CADES Technologies LimitedConsolidated Balance Sheet
+Assets (INR Cr.) Mar -25 Sept -25
+Non -Current Assets
+Property, Plant and Equipment 82 83
+Capital Work -in-progress 0.2 3.7
+Rights -of-use Assets 138 167
+Goodwill and Other Intangible 186 199
+Other Non -Current Assets 78 90
+Total Non -Current Assets 484 542
+Current Assets
+Inventories 61 65
+Investments 52 23
+Trade Receivables 302 346
+Cash & Cash Equivalents 52 36
+Bank Balances other than Cash & Cash 
+Equivalents37 21
+Other Current Assets 139 188
+Total Current Assets 643 678
+Total Assets 1,127 1,220Equity and Liabilities (INR Cr.) Mar -25 Sept -25
+Equity
+Equity Share Capital 21 21
+Other Equity 628 672
+Non -controlling Interest 7 7
+Total Equity 656 700
+Non -Current Liabilities
+Borrowings 109 83
+Lease Liabilities 50 80
+Other Non -current liabilities 22 18
+Total Non -Current Liabilities 181 181
+Current Liabilities
+Borrowings 80 80
+Trade Payables 58 78
+Lease Liabilities 18 17
+Other Current Liabilities 134 165
+Total Current Liabilities 290 339
+Total Equity & Liabilities 1,127 1,220
+13
+=== page 15 ===
+AXIS CADES Technologies LimitedOperational Performance –Q2 FY26
+Revenue Mix
+Revenue by Project Type23%
+77%Q2 
+FY2525%
+75%Q1 
+FY26
+Onsite Offshore
+31% , 
+69%Q2 
+FY2537%
+63%Q1 
+FY26
+Fixed Price Time and Material22%
+78%Q2 
+FY26
+29%
+71%Q2 
+FY26
+14
+=== page 16 ===
+AXIS CADES Technologies LimitedOperational Performance –Q2 FY26 
+Revenue by Geography Revenue by Domains
+22%
+35%
+4%
+39%
+Q2 FY2527%
+37%
+4%
+32%
+Q1 FY2624%
+31%
+4%
+41%
+Q2 FY264%
+23%
+12%
+32%
+29%
+Q2 FY255%
+24%
+12%
+24%
+35%
+Q1 FY264%
+18%
+11%
+38%
+30%
+Q2 FY26
+USA Europe Canada APAC Energy HE & Auto ESAI Defence Aerospace
+15
+=== page 17 ===
+AXIS CADES Technologies LimitedEmployee Metrics
+Total Headcount
+Headcount by Domains•Revenue per Employee improved by 29% in Core and remained flat in Other 
+domains.
+•Attrition increase –driven by ramp down in other domains due to reduction in 
+customer, sector slowdown etc. New employee engagement and experience 
+programs have been implemented including training / upskilling and career 
+mapping to help lower attrition rates.
+•Attrition rates remain lower in the Core domain compared to Other domains.Key Takeaways
+Employee Metrics
+Q2 FY25 Q1 FY26 Q2 FY26
+Core 1,715 1,637 1,700
+Other 1,151 913 852
+Support 245 246 249
+Attrition rate (%) 16% 19% 20%3,111
+2,796 2801
+Q2 FY25 Q1 FY26 Q2 FY26
+Q2 FY25 Q1 FY26 Q2 FY26
+Support Core Industrial
+1637% 33% 30%55% 59% 61%8% 9% 9%
+=== page 18 ===
+AXIS CADES Technologies LimitedPioneering engineering 
+solutions across global 
+marketsVisionary leadership driving a 
+$1B growth ambition
+Global supply chain leader in 
+aerospace, defense and ESAIGlobal partnerships through 
+technology enablementAerospace
+•Aerostructure design -metallic & 
+composites
+•MSI and ESI, Electrical harness
+•Tool design & Manufacturing Engineering
+•Structural repair engineering & manuals
+•Manufacturing –tooling, component repair 
+and speed shopDefense
+•Design, Development, Manufacturing, 
+System Integration, & Qualification
+•Radar, Sonar, EW, C4I2, Airborne, 
+Naval
+•Unmanned Warfare
+•Missile and sub system support
+•ATE, Test Frameworks
+•Offset Partnership•Engineering of products and 
+processes in both conventional and 
+renewable energy sectors.
+•Automotive Mechanical Design and 
+Stress analysis, Cybersecurity, SDVs.
+•Structures, Cabin Design, Engine, 
+Powertrain electrification, AI enabled 
+Manufacturing for Heavy EngineeringESAI
+•Chip to product
+•HW, SW, Cloud, IoT,  HMI, etc.
+•AI / SLM Development & Integration
+•Semiconductor Support
+•FPGA Design, V&V
+•V&V and SimulationOthersA technology and embedded product development Company with 30 years of experience in Aerospace, Defense, and ESAI, offering e nd-to-end 
+solutions from concept to certification making us a trusted partner for global OEMs and Tier 1 suppliers.
+20 global locations
+2,800+ professionals
+17About Us
+=== page 19 ===
+Thank YouCOMPANY:
+AXISCADES Technologies Limited
+CIN : L72200KA1990PLC084435
+Sangeeta Tripathi 
+(Head -Investor Relations)
+Email :sangeeta.tripathi@axiscades.in
+Website: www.axicades.com
+INVESTOR RELATIONS ADVISORS:
+MUFG Intime India Pvt Ltd
+A part of MUFG Corporate Markets, 
+a division of MUFG Pension & Market Services
+Mr. Sumeet Khaitan
+sumeet.khaitan@in.mpms.mufg.comMr. Irfan Raeen 
+irfan.raeen@in.mpms.mufg.com

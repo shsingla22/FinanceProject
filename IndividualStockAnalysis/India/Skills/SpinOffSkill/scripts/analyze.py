@@ -105,32 +105,58 @@ def _cache() -> dict:
     return {}
 
 
+def _parse_json(out: str) -> dict | None:
+    """The first complete JSON object in the judge's answer, tolerant of
+    code fences, prose around it and trailing commas; None when there is
+    none."""
+    text = re.sub(r"```(?:json)?", "", out or "")
+    dec = json.JSONDecoder()
+    for m in re.finditer(r"\{", text):
+        chunk = text[m.start():]
+        try:
+            obj, _ = dec.raw_decode(chunk)
+        except json.JSONDecodeError:
+            try:                                           # trailing commas
+                obj, _ = dec.raw_decode(re.sub(r",\s*([}\]])", r"\1", chunk))
+            except json.JSONDecodeError:
+                continue
+        if isinstance(obj, dict) and obj:
+            return obj
+    return None
+
+
 def _ask(key: str, stamp: str, prompt: str, allow_ai: bool, runner=None) -> dict:
-    """One cached, strict-JSON question to the judge."""
+    """One cached, strict-JSON question to the judge; a malformed answer
+    is asked once more."""
     cache = _cache()
     hit = cache.get(key)
     if hit and hit.get("stamp") == stamp:
         return {"status": "cached", **hit["verdict"]}
     if not allow_ai or (runner is None and not _ai_available()):
         return {"status": "not assessed", "note": "judge not run — mechanical read only"}
-    try:
-        if runner is not None:
-            out = runner(prompt)
-        else:
-            proc = subprocess.run(["claude", "-p", "--model", MODEL], input=prompt,
-                                  capture_output=True, text=True, timeout=900)
-            if proc.returncode != 0:
-                return {"status": f"judge failed: {(proc.stderr or '')[-120:]}"}
-            out = proc.stdout
-    except Exception as e:                                 # noqa: BLE001
-        return {"status": f"judge failed: {e}"}
-    m = re.search(r"\{.*\}", out or "", re.DOTALL)
-    if not m:
-        return {"status": "judge failed: unparseable"}
-    try:
-        verdict = json.loads(m.group(0))
-    except json.JSONDecodeError:
-        return {"status": "judge failed: bad json"}
+    verdict, failure = None, "unparseable"
+    for attempt in range(2):
+        ask = prompt if attempt == 0 else (
+            prompt + "\n\nYour previous answer was not valid JSON. Reply with ONE JSON "
+                     "object only — no prose before or after it, no code fence, every "
+                     "string value properly escaped.")
+        try:
+            if runner is not None:
+                out = runner(ask)
+            else:
+                proc = subprocess.run(["claude", "-p", "--model", MODEL], input=ask,
+                                      capture_output=True, text=True, timeout=900)
+                if proc.returncode != 0:
+                    return {"status": f"judge failed: {(proc.stderr or '')[-120:]}"}
+                out = proc.stdout
+        except Exception as e:                             # noqa: BLE001
+            return {"status": f"judge failed: {e}"}
+        verdict = _parse_json(out)
+        if verdict is not None:
+            break
+        failure = "bad json" if "{" in (out or "") else "unparseable"
+    if verdict is None:
+        return {"status": f"judge failed: {failure}"}
     with _CACHE_LOCK:
         cache = _cache()
         cache[key] = {"stamp": stamp, "verdict": verdict}

@@ -1,0 +1,1016 @@
+
+=== page 1 ===
+ 
+ 
+ 
+  
+Rubicon Research Limited  (formerly known as Rubicon Research Private Limited ) | CIN: L73100MH1999PLC119744 
+ 
+Registered Office:  Plot No. B-75, MedOne House, Road No. 33, Wagle Estate, Thane West, PIN – 400 604, Maharashtra, India 
+긒긓 +91-22-61414000 / 50414000 | 긼긽긾긿김 reachus@rubicon.co.in | 艒 www.rubicon.co.in  
+  
+ Date: May 29, 2026 
+ 
+To, 
+BSE Limited 
+Listing Department 
+Phiroze Jeejeebhoy Towers  
+Dalal Street – Fort 
+Mumbai 400 001 
+Scrip Code: 544578 To, 
+National Stock Exchange of India Limited 
+Listing Department 
+Exchange Plaza, 5th floor, Plot no. C/1, G Block 
+Bandra Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+NSE Symbol: RUBICON 
+ 
+ISIN: INE506V01022 
+ 
+Sub: Investor Presentation 
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+we are enclosing herewith the Investor Presentation dated May 29, 2026.  
+This intimation is also being uploaded on Company’s website and can be accessed at www.rubicon.co.in  
+under the Investors Section.  
+Kindly take the above information on record.  
+Thanking you, 
+Yours faithfully,  
+For Rubicon Research Limited  
+(Formerly known as Rubicon Research Private Limited) 
+ 
+ 
+ 
+Deepashree Tanksale 
+Company Secretary 
+M. No. A28132 
+ 
+Encl. as above 
+=== page 2 ===
+Rubicon Research Limited
+Investor Presentation
+Q4 FY 2025 -26
+
+=== page 3 ===
+2
+Notice to reader
+This presentation  may  contain  statements  that constitute  “forward -looking  statements”  within  the meaning  of applicable  laws  and regulations,  
+including  the Securities  and Exchange  Board  of India  (Listing  Obligations  and Disclosure  Requirements)  Regulations,  2015 . These  statements  relate  
+to the Company’s  future  business  prospects,  operations,  financial  performance,  and the industry  in which  it operates . Forward -looking  statements  
+are based  on current  expectations,  estimates,  and projections  about  future  events  and are subject  to risks,  uncertainties,  and assumptions  that 
+could  cause  actual  results  to differ  materially  from  those  expressed  or implied .
+Such  statements  include,  but are not limited  to, statements  regarding  product  development,  regulatory  approvals,  manufacturing  capabilities,  
+market  growth,  business  strategy,  and future  financial  results . Words  such  as “anticipate,”  “believe,”  “expect,”  “intend,”  “plan,”  “will,”  “may,”  
+“should,”  “estimate,”  “project,”  and similar  expressions  are intended  to identify  such  statements .
+The Company  undertakes  no obligation  to publicly  update  or revise  any forward -looking  statements,  whether  as a result  of new  information,  future  
+events,  or otherwise,  except  as required  under  applicable  law. Readers  are cautioned  not to place  undue  reliance  on these  forward -looking  
+statements,  which  speak  only  as of the date  of this presentation .
+This presentation  is for information  purposes  only  and does  not constitute  or form  part of an offer,  solicitation,  or recommendation  to purchase  or 
+subscribe  for any securities  of the Company,  nor should  it be regarded  as a substitute  for the exercise  of independent  judgment . The Company,  its 
+directors,  and its management  accept  no liability  whatsoever  for any loss arising  from  the use of, or reliance  on, the information  presented  herein .
+This presentation  is not intended  to endorse,  advertise,  promote  or recommend  the use of any products  that may  be listed  herein  which  are for 
+representation  purpose  only. Any product  information  contained  herein  is not intended  to provide  complete  medical  information  and is not 
+intended  to be used  as an alternative  to consulting  with  qualified  doctors  or healthcare  professionals . Nothing  contained  herein  should  be 
+construed  as providing  medical  advice  or recommendations  and should  not be relied  on as the basis  for any treatment  related  decision  or action . 
+=== page 4 ===
+Agenda
+Consolidated Financial Overview 4-14
+2 Company Overview
+315-341
+=== page 5 ===
+01Consolidated Financial Overview
+=== page 6 ===
+5
+Q4 Financial Highlights (₹ millions)
+Revenue from 
+Operations
+EBITDA
+ PAT
+5,139
+ 1,213
+ 768
+ Q4FY26
+3,581
+ 726
+ 362
+ Q4FY25
+43.5%
+ 67.2%
+ 111.8%
+ Y-o-Y
+=== page 7 ===
+6
+Summary Income Statement
+₹ in Million Q4 FY26 Q4 FY25 % Growth Q3 FY 26 FY26 FY25 % Growth
+Revenue from Operations 5,139 3,581 43.5% 4,755 17,540 12,843 36.6%
+Gross Profit 3,332 2,405 38.6% 3,126 11,661 8,867 31.5%
+Operating Pre -R&D EBITDA 1,781 1,086 1,604 5,938 3,967 
+Pre-R&D EBITDA (%) 34.7% 30.3% 33.7% 33.9% 30.9%
+R&D Expense 594 361 523 1,935 1,325
+R&D Expense (%) 11.6% 10.1% 11.0% 11.0% 10.3%
+Operating EBITDA (A) 1,187 725 63.8% 1,081 4,002 2,643 51.5%
+Operating EBITDA Margin (%) 23.1% 20.2% 22.7% 22.8% 20.6%
+Other Income (B) 26 1 38 77 36 
+EBITDA ( A + B) 1,213 726 67.2% 1,119 4,080 2,679 52.3%
+EBITDA Margin % 23.6% 20.3% 23.5% 23.3% 20.9%
+PBT 987 511 93.3% 906 3,205 1,945 64.8%
+PAT 768 362 111.8% 728 2,467 1,344 83.6%
+EPS (Fully diluted) 4.60 2.34 97.0% 4.41 15.31 8.68 76.3%
+=== page 8 ===
+7
+Summary Balance Sheet 
+₹ in Million 31-Mar -26 31-Mar -25
+Shareholders  Funds 12,888 5,410 
+Borrowings 2,594 3,932 
+Sources of Funds 15,482 9,342 
+Fixed Assets 5,726 3,338 
+Cash & Cash Equivalents* 3,460 1,162 
+Net Non -current Assets / (Liabilities) 133 (57)
+•Inventory (At Cost) 7,290 5,216 
+•Trade Receivables 5,087 3,238 
+•Trade Payables (3,775) (2,391)
+Other current Liabilities (net of assets) (2,440) (1,165)
+Net Working Capital 6,163 4,898 
+Application of Funds 15,482 9,342 
+Days of Net Working Capital 126 137 
+ROACE (Annualized, pre -tax) 36% 30%
+*Cash & Cash Equivalent includes other bank balances of ₹1603Mn
+=== page 9 ===
+8
+Summary Cash Flow Statement
+₹ in Million FY2026 Q4 FY2026 FY2025
+Cash flows from operating activities:
+Profit before tax 3,205 987 1,945 
+Non -Cash / Non operating items 1,076 372 934 
+Operating cash flows before working capital changes 4,282 1,359 2,879 
+Working Capital Changes (1,146) (202) (900)
+Cash generated from operating activities 3,135 1,157 1,979 
+Net Income tax paid (1,085) (501) (387)
+Net cash flow generated from operating activities 2,050 656* 1,592  
+Cash flows used in investing activities (4,097) # (697) ^ (648)
+Cash flows from / (used in) financing activities 2,831 ** (437) (398)
+Net increase in cash and cash equivalents 784 (479) 546 
+*After Income tax  payment of ₹ 501 Mn
+#Includes Pithampur acquisition of ₹ 1490 Mn,  Bank Deposits (net of interest) of ₹ 1426 Mn, Capex of  ₹ 800 Mn, Investment in Ge n1e Lifesciences of ₹ 188 Mn, Validus deferred acquisition 
+payment ₹ 171Mn. 
+^ Includes Bank Deposits (net of interest) of ₹ 587 Mn, Capex of ₹ 96 Mn
+**Net IPO proceeds  ~₹ 4700 Mn, Net Debt repayment out of IPO proceeds ~₹ 2650 Mn
+=== page 10 ===
+9
+Q4 Performance Summary
+o43% revenue growth YoY , broad based as 
+oTop 5 products – 39% of revenue in Q4 vs 34%/30%/35% in Q1/Q2/Q3 FY26 
+oTop 10 products – 57% of revenue in Q4 vs 56%/51%/ 53% in Q1/Q2/Q3 FY26 
+oPricing continues to remain stable driven by our focus on specialty / differentiated products
+oContinue to see strong revenue visibility in coming quarters
+oUSD revenue of $56 mn for Q4 FY26, up by 35% YoY ($41mn Q4 FY25) and up 4% QoQ ($53 mn Q3 
+FY26). ~98% of our revenue is USD denominated
+oCash flow from operations for the quarter is INR 656 Mn* reflecting our culture of strong focus on cash 
+flow generation. 
+oReceived 12 product approvals in FY26 and 24 products were under review by USFDA as of 31 March. 
+Commercialisation rate continues to be strong as 92% of approved products are commercialised
+oSpecialty portfolio’s contribution to gross profit for the quarter is 32.8%. Specialty focus underpinned by 
+a robust pipeline. 
+oBoard has recommended dividend of 150% which is Rs 1.50 per share. This amounts to ~10% payout 
+ratio. 
+Revenue Growth
+Cash Flow
+Approvals
+* After Income tax  payment of ₹501 Mn in Q4FY26 vs ₹ 123 Mn  in H1FY26 and ₹ 460 Mn in Q3FY26
+USD revenue
+Dividend 
+Distribution
+=== page 11 ===
+10
+Q4 Performance Summary (continued)
+oSlight drop in sequential gross margin @66.3% (vs 66.5% in Q3). We had flagged off in our Q3FY 26 
+update that strong revenue traction coupled with own manufacturing capacity constraint had led to a 
+larger reliance on outsourced manufacturing since the last quarter
+oThough gross margins contracted slightly sequentially, Operating EBITDA continues to hold in the 22 -23% 
+range, as guided, and was @ 23.1% in Q4FY26 (rose slightly on sequential basis)
+oRevenue traction is likely to continue to be stronger than anticipated, which in turn would require 
+commensurate increase in revenue from outsourced manufacturing as compared to what we had 
+previously envisaged
+oSuch larger than anticipated reliance on outsourced manufacturing could further contract  GM% in the 
+near term by a little more but Operating EBITDA margin will sustain in current 22 -23% range even in that 
+scenario
+oCompany continues to evaluate tactical measures with respect to own manufacturing , which from a 2 -3 
+quarter perspective would reduce reliance on outsourced manufacturing and hence be GM accretive 
+even in the light of continued strong revenue traction
+oWe have qualified the Pithampur site and filed product with USFDA. Inspection date is awaited from US 
+FDA. We expect to ramp up production from Pithampur in Q1 CY27 which would be GM% accretive.
+Gross Margin
+and 
+EBITDA
+=== page 12 ===
+11
+5,399 9,691 13,458 
+2,999 8,398 
+2,930 12,621 
+3,764 17,222 
+FY21 FY24 FY22 FY25 FY23 FY26R&D spends and their impact on revenue growth
+oR&D expenses were 11.6 % of operating revenue for Q4 FY26
+oR&D spend is a lead indicator of future revenue in our business
+oWe measure R&D productivity as incremental revenue to lagging total R&D spend (given typical timeline involved for R&D spend to 
+translate into revenues)
+oIncremental revenue multiple on lagging R&D spend has been on an increasing trend as explained below (3.3x FY 24, 4.1x - FY 25, 5 .9x 
+- FY 26)
+oCompany remains on track for its guided INR 5,000 Mn+ R&D spend over 9 quarters (1,935 Mn of FY26+ expected R&D spend of FY27  
+& Q1 FY28) which will be fully expensed through P&L account. 
+oCoupled with our expectation of R&D productivity remaining at similar levels as above, this provides strong visibility for FY 29/30 & 
+beyondRevenue R&D spend 
+(FY 20+FY21
++Q1FY22)= 
+1,654 Mn3.3xR&D spend 
+(FY 21+FY22
++Q1FY23)= 
+2,379 Mn4.1xR&D spend 
+(FY22+FY23
++Q1FY24)= 
+2,261 Mn5.9x
+Incr. 
+RevenueIncr. 
+RevenueIncr. 
+Revenue
+=== page 13 ===
+12
+ESOP Update
+
+=== page 14 ===
+13
+60 Brands (CNS Portfolio)  
+~160 sales reps, 
+~INR 3.7 lakh PCPM
+3 sales divisions
+5,000+ Pharmacies; 
+600+ Stockists
+4,000 active prescribers
+41
+52
+3
+•EV: 200 Cr (cash and 
+debt free)
+•85% stake acquired 
+for ~₹ 176 Cr at 
+₹158.53 per shareRecent acquisition: Arinna Lifesciences
+CNS focused India formulations company
+L E A D E R S H I P
+Prior to Arinna, Vivek led the 
+expansion of an Indian 
+company’s CNS franchise, 
+scaling revenues from INR 20 
+crore to INR 600 crore and 
+building a 2,400 - member 
+teamVivek Seth
+Founder, continues as 
+Managing Director
+30+Years’ experience 
+in Indian chronic 
+pharma
+R O A D M A P  F O R  A R I N N A
+Phase 1
+Putting growth drivers in place
+Phase 2
+Focus on revenue growth that outperforms IPM
+Phase 3
+Focus on profitability
+EBITDA margin range indicated on preceding slides is after incorporating lower EBITDA of Phase 1 & 2
+=== page 15 ===
+14
+Building on Arinna’s India market platform
+W H A T  
+R U B I C O N  
+A D D S
+W H A T  
+A R I N N A  
+B R I N G SIndia CNS market launchpad
+60 brands  ·  4,000 prescribers  ·  5,000 pharmacies  ·  23 states
+R&D engineRepositions Arinna  as a science -driven 
+company – enables greater HCP mindshare 
+Differentiated 
+productsRubicon’s branded + specialty + 
+drug -device products and pipeline 
+– aids PCPM growthScaleFocus on 
+capability vs 
+scale
+Capital & 
+balance 
+sheetEnable growth 
+investments Arinna  
+couldn't make by itself – 
+e.g. Division expansion
+When Rubicon entered US 
+products market 10 years ago…
+?Balance sheet was small, 
+limited investable cash;
+?R&D was nascent and track 
+record limited
+?Macro environment was 
+challenging
+…. Scaled up US revenue 32x in 
+10 years
+Comparatively, for India scale up:
+✓Proven R&D abilities backed 
+by sizeable spend
+✓Larger balance sheet
+✓Synergistic therapy focus
+✓Benign macro environment
+=== page 16 ===
+02Company Overview
+=== page 17 ===
+16
+Rubicon Research – At a Glance
+An R&D driven, 
+formulations 
+manufacturing and 
+marketing company 
+focused on 
+regulated marketsSpecialty products, 
+drug -device 
+combinations and 
+complex genericsFull Spectrum 
+CapabilitiesWide basket of 76 
+active ANDAs and 8 
+active NDAs 
+approved across 
+multiple therapies1Robust Pipeline of 
+products under 
+review with US FDA 
+and under 
+developmentSales and marketing 
+capabilities for 
+branded  and non-
+branded  products in 
+the US market
+Branded, Specialty 
+& Complex 
+Generics PortfolioSpecialty products delivered 
+gross profit  of INR 3,767 Mn - 
+being 32.3%  of total gross 
+profit  in FY263 branded products - 
+Raldesy ®, Equetro ®, 
+Lopressor ® OS with no AB 
+rated generic alternatives1
+Experienced LeadershipFounded by seasoned professionals 
+with extensive leadership experience in 
+research and commercial operationsExperienced senior management team 
+with industry expertiseRobust 
+Manufacturing 
+Sites & R&D 
+Capabilities3 manufacturing sites for oral 
+solids, oral liquids, ointment  
+and drug -device combination 
+nasal spray  products2 USFDA inspected 
+R&D facilities  across 
+India and Canada•Ambernath  & Satara sites 
+inspected by multiple 
+global regulators, including 
+USFDA
+•Pithampur  site previously 
+inspected by USFDAFive approved nasal spray  
+drug -device combination  
+1. As of Mar 31, 2026
+=== page 18 ===
+17
+Our Evolution from a service provider to a specialty products company
+CDO
+1999 -2008•Contract development services
+•Purely fee -for-serviceCDMO
+2009 -13•Small volume manufacturing
+•Development & Out -licensing Own ANDA 
+revenues
+2014 -21•Sales via third party distributorOwn front -end + Specialty products
+2022 onwards•Direct customer relationshipsBranded Specialty Products 
+2024 onwards
+Drug Device Combinations
+2023 onwards•Intra -nasal sprays
+Specialty products defined as those where Rubicon has 0 or at most 1 
+competitor for a period of at least 1 year from launch of its product
+=== page 19 ===
+18
+Leadership and Pivots: Consistently moving up the value chain 
+Pratibha Pilgaonkar *
+Founder
+•Led R&D at Sun Pharma & SPARC
+•Led India R&D at Ciba (Novartis)
+Narendra Borkar
+•Set up and scaled Sun, Aurobindo 
+and McLeods’  US formulations
+•Led Ciba (Novartis) in India
+Parag Sancheti *
+•Economist and management 
+consultant
+•Previously with Tata Strategic 
+Management GroupLed Sun 
+Pharma’s US 
+market foray 
+and portfolio 
+development in 
+the late 1990’s Products & IPSpecialty &
+Drug -Device
+2014
+42
+1012019
+154
+1002025
+1,288
+200Head of Strategy ED & CEOMD
+Chairman, US
+2012
+35
+96Contract
+Development ServicesCDMO + 
+licensing
+1999
+Annual revenue 
+(INR Cr)
+R&D team2009
+15
+73CEO
+Mentor
+* Promoter family holding over 25% equity since 2016, 
+diluted to c24% due to IPO primary raise. 
+Promoters did not participate in IPO -OFS2026
+1762
+240+
+=== page 20 ===
+19
+Decadal Financial Performance
+₹ in Million FY15 FY17 FY19 FY21 FY24 FY25 FY26
+Revenue from Operations 392 489 1,538 3,147 8,539 12,843 17,540
+Gross Margin -50* -12* 937 2,476 5,564 8,867 11,661
+Operating EBITDA Pre R&D 128 105 698 1,863 2,618 3,967 5,938
+•% of Operating Revenue 33% 22% 45% 59% 31% 30% 34%
+R&D Expense 17 19 385 946 1,072 1,325 1,935 
+•% of Operating Revenue 4% 4% 25% 30% 13% 10% 11%
+Operating EBITDA 111 86 314 917 1,546 2,643 4,002 
+•% of Operating Revenue  28% 18% 20% 29% 18% 21% 23%
+Net Profit after Tax 27 12 184 307 910 1,344 2,467
+ROACE %** 10% 3% 14% 20% 21% 30% 36%
+* Gross margin is on product sales which represented a small proportion of total sales in FY15 and FY17, the majority being s ervices income
+** Pre tax, on Average Capital, excluding Cash in hand
+=== page 21 ===
+20
+Ability to rapidly move strategies from the drawing board to the P&L
+Case study: drug -device combination capabilities
+Identified intra -nasal 
+drug delivery as a 
+growth area
+•Targeted drug 
+delivery
+•Rapid onset of 
+action
+•Potential for CNS 
+application
+•Limited 
+competition
+Expect to benefit from an early mover advantage coupled with captive supply chainJul 2019
+Development
+(Planned to build 
+capability in -house)
+Manufacturing
+(Planned to 
+outsource to CMOs)Learnings
+•Limited talent pool for 
+nasal and drug -device 
+products in India
+•Good talent pool in US & 
+Canada
+•Characterization 
+capabilities important
+•Engagement with CDMOs 
+indicated high cost – 
+impacting long term 
+competitiveness
+•CDMO space was expected 
+to see buyout activity – 
+borne out with the 
+subsequent transactions of 
+Summit, Renaissance and 
+Catalent
+•De-risked model with own 
+and CMO sites2020
+Acquired Impopharma  – a 
+nasal & inhalation product  
+development company in 
+Toronto, Canada2022
+•First nasal spray 
+product filed with 
+US FDA2024 | 2025
+•Successful FDA 
+inspections of unit dose 
+and multi dose filling 
+facilities – paving the 
+way for commercial 
+launch 
+•5 products approved, 
+others in pipeline
+•Most recent nasal 
+approvals – Fluticasone 
+Propionate nasal spray 
+(both Rx and OTC)
+•Nasal sprays Rx 
+market 3 players / 
+>50m units / $400m 
+gross
+•First Rx approval in 
+15+ years
+•Fast growing OTC 
+opportunity2023
+•First USFDA approval 
+(from CMO site)
+1 of only 7 
+nasal approvals 
+granted in 2023•Signed supply 
+partnerships with 
+multiple device 
+suppliers to de -risk 
+pipeline
+•Commissioned one 
+of the largest single -
+site nasal spray 
+capacities in the 
+world with state -of-
+the-art, fully 
+automated European 
+filling lines for unit 
+dose and multi dose 
+sprays
+
+=== page 22 ===
+21
+Moats around the business -      Compliance
+Consistent regulatory track record, underpinned by a robust quality culture1
+Jul 16
+OSD
+NAINov 17
+OSD
+NAIOct 19
+OSD
+VAI
+EIR 60 daysNov 24
+Unit -dose
+nasal spray
+NAIMar 24
+Multi -dose 
+nasal spray
+NAI
+Ambernath  site
+(OSD, nasal)
+•14,000 m2 cGMP site just outside Mumbai
+•One of the  largest single -site nasal spray 
+capacities in the worldSatara  site
+(oral liquids)
+•4,050 m2 cGMP site 200 km from Mumbai
+•Acquired from Cipla in 2021
+•Never offered for FDA inspection from 
+1996 -2021Jan 23
+OSD
+VAI
+EIR 45 
+days
+Jan 23
+Oral 
+liquid
+VAI
+EIR 60 
+days
+Simultaneous 
+inspections
+Other Approvals
+•EU (Italy)
+•ZaZiBoNa  
+•Turkey•South Korea
+•CambodiaMar 15
+OSD
+VAI
+EIR 90 daysApr 13
+OSD
+VAI
+EIR 60 days
+Most recent FDA inspections - Canada R&D in April 2026 and Thane R&D HQ in March 2025, each with zero observations
+=== page 23 ===
+22
+Identify incentives for companies 
+with pro -active quality 
+management practices vs those 
+merely compliance focused 
+Minimize risks to product 
+availability to assure reliable 
+market supplyMoats around the business -      Compliance
+Deep engagement with the US FDA – Shaping future regulation1
+US FDA’s Quality Management Maturity (QMM) Program
+FDA’s Center for Drug Evaluation and Research (CDER) program to promote quality management 
+maturity (QMM) at drug manufacturing establishments in order to:
+Identify areas where quality 
+management practices can be 
+enhanced and provide suggestions for 
+growth opportunitiesRecognize establishments that 
+have advanced quality 
+management practices Foster a strong quality 
+culture mindsetOne of only
+9 sites across 
+innovators and 
+generics selected 
+globally  to 
+participate in
+this program in 
+2024
+
+=== page 24 ===
+23
+Moats around the business –       Market Share Execution
+Successfully built leading positions even as a late entrant in mature, competitive products
+1. Number of marketing companies with more than 1%  volume market share          Market share rank
+Source: F&S report
+If the launch of the product was prior FY20, FY20 has been taken as the base year because of data availability; Volume market  share has been used because values do not reflect company -specific rebatesProven execution capability is a force multiplier in first -mover / early entrant opportunitiesMetoprolol Tartrate (CVS)
+0%37.3%
+Launch Year FY20 FY25% of  Volume  Market Share
+Competitors1: 6 61st2
+Baclofen (CNS)
+0%35.3%
+Launch Year FY20 FY25% of  Volume  Market Share
+Competitors1: 7 101stCarbidopa Levodopa (CNS)
+0%18.7%
+Launch Year FY23 FY25% of  Volume  Market Share
+Competitors1: 5 53rd
+Diclofenac Potassium (Analgesics)
+0%29.6%
+Launch Year FY22 FY25% of  Volume  Market Share
+Competitors1: 6 61stCyclobenzaprine Hydrochloride (CNS)
+0%32.5%
+Launch Year FY19 FY25% of  Volume  Market Share
+Competitors1: 6 81stLidocaine Hydrochloride (Anesthesia)
+0%38.8%
+Launch Year FY24 FY25% of  Volume  Market Share
+Competitors1: 5 52nd
+=== page 25 ===
+24
+Moats around the business –       Portfolio Selection
+Proprietary algorithm for product selection that combines science and economics3
+Development 
+pipelineDemand trends, 
+patient demographics, 
+competitive scenario
+Technical & IP 
+feasibility, unit 
+economics, supply 
+chain risk
+Prioritization  and 
+ongoing reevaluationNuanced portfolio strategy reflected in sustained market economics 
+8.0%
+-11.2%
+1.3%
+21.8%
+-0.1%
+-5.2%Rubicon's Portfolio
+Cardiovascular
+Alimentary Tract and Metabolism
+Oncology
+Nervous System
+Industry AverageUS Generics Price Erosion by Therapy Area, FY22 -25 (Source: Frost & Sullivan)
+Our product portfolio saw an average unit price increase of + 8.0% 
+between FY22 -25, against overall industry erosion of -5.2%
+91.7% of all approved products have been commercialized
+=== page 26 ===
+25
+Moats around the business –       Efficient R&D
+ROI driven approach across the development lifecycle
+R&D expenses are fully charged to P&L (no capitalization of self generated intangibles)
+Product selection drives longevity of lifecycle and returns on R&D spendoCompany strives to maintain similar R&D productivity in the coming years which coupled with total expected R&D spend of 5,000  Mn+ in 
+FY26+Fy27+Q1FY28 gives strong visibility for FY29/30 & beyondoR&D is a lead indicator of future revenues 
+5,399 9,691 13,458 
+2,999 8,398 
+2,930 12,621 
+3,764 17,222 
+FY21 FY24 FY22 FY25 FY23 FY26Revenue R&D spend 
+(FY 20+FY21
++Q1FY22)= 
+1,654 Mn3.3xR&D spend 
+(FY 21+FY22
++Q1FY23)= 
+2,379 Mn4.1xR&D spend 
+(FY 22+FY23
++Q1FY24)= 
+2,261 Mn5.9x
+Incr. 
+RevenueIncr. 
+RevenueIncr. 
+Revenue4
+=== page 27 ===
+26
+US specialty play - combines strong development capabilities with economic research 
+•Specialty products defined as those with 0 or 1 competitor for at least 1 year from launch 
+–Specialty classification linked only to competitive intensity that impacts ability to price – and 
+not product complexity or regulatory pathway
+•Addressing unmet needs validated via extensive physician + payer research to assess expected 
+reimbursement and coverage levels
+•Therapy discipline enables higher ROI on sales efforts with multiple opportunities targeting the 
+same prescriber audience
+Validus Pharmaceuticals (100% subsidiary) – platform for branded CNS launches in the US
+CNS prescriber coverage in the 
+eastern and southern US  - 
+provides the ability to 
+generate scripts and generate 
+insights on patient needs to 
+shape product pipelineLicensed in 43 states with 
+products distributed via 
+specialty channels and all major 
+US wholesalers – ability to 
+provide broad reach for new 
+branded launches from day 1Increasing gross profit share of
+specialty products
+Specialty
+Products:3Gx
+Specialty
+2,289 342 
+FY202313%
+6,480 2,387 
+16FY202527%
+contributed 32.3% of gross profit in FY2026INR Mn
+Specialty business is profit positive at
+group level
+3,767 3,108 659 
+Specialty Gross Profit Validus Opex Specialty ContributionFY2026
+INR Mn
+Validus standalone financials are not representative of specialty 
+segment due to transfer pricing rules vis -à-vis Rubicon IndiaDeploying specialty product cash flows to build a strong branded platform
+=== page 28 ===
+27
+Validus – capability building ahead of branded specialty
+products launch
+Buildout and expansion costs fully captured in the consolidated P&LWider patient access and deeper payer and 
+PBM relationships
+Expanded and focused HCP coverage with 
+own field force + digital marketing initiatives
+Augmenting logistics and 
+distribution capabilities
+HCP coverage in select territories 
+via contract field force
+Commercial and operations 
+team + support systems
+Licensed to market products 
+in 43 US states
+=== page 29 ===
+28
+Moats + disciplined capital allocation driving industry -leading ​
+capital efficiency
+Sources of funds and deployment – FY2020 to IPO in October 2025 (₹ Millions )
+FY2024 FY2025 FY26
+ROACE (pre -tax) 21% 30% 36%4,963 6,712 6,526 
+R&D
+Working
+Capital
+Capex
+1,149 4,745 12,307 
+Equity Debt Internal accruals•Limited equity capital raised:
+✓Only USD ~25 million since 
+inception (1999) till IPO in Oct’25 
+✓Only INR 1,149 million (USD ~15 
+million) equity raised from FY2020 
+till IPO
+•Entire R&D spend and most of growth 
+investments funded by internal accruals 
+•Debt financing mainly for working capital
+=== page 30 ===
+29
+Approvals, Sales and Distribution
+Number of products approved
+Number of products commercialized
+28556677
+FY23 FY24 FY25 FY26
+…Reduction in Product Concentration1214
+12 12
+FY23 FY24 FY25 FY26
+91.7% 
+commercialization 
+rate in the US as of 
+31 Mar 2026
+(77 of 84)
+56% 46% 38% 34%77%68%59%53%
+FY23 FY24 FY25 FY26Top 5 products Top 10 products
+84 Active approved 
+products as of 
+31 Mar 2026
+24 products under 
+review with USFDA
+Steadily broad -based 
+portfolio and growth 
+over timeUS Sales and marketing companies (wholly owned subsidiaries)
+Established marketing, sales, and 
+distribution platform in the US 
+markets non-branded 
+prescription products  to 
+customers who include 
+wholesalers, group purchasing 
+organizations and pharmacy 
+chains.
+Sales and marketing platform for 
+Rubicon’s branded prescription 
+products.
+As of 31 Mar 2026, Validus 
+markets 3 brands (Raldesy, 
+LopressorOS  and Equetro ) that 
+have no US FDA approved 
+substitutable generics. 
+=== page 31 ===
+30
+Efficient use of infrastructure reflected in Fixed Asset Turnover 
+✓Capacity optimization through planning and 
+cost-effective debottlenecking
+✓Proprietary process technologies that enable 
+consistency and reduce batch times
+✓Large batch sizes enabled by continuous focus 
+on manufacturing efficiency and innovation – 
+enabling reduced down -time
+✓Increasing contribution of specialty products 
+driving higher revenue per unit
+✓Pithampur acquisition in FY2026 – yet to be 
+commercialised1,463 1,741 2,073 2,326 3,294 2.0x2.2x4.0x4.6x 4.3x
+ 0.1 0.6 1.1 1.6 2.1 2.6 3.1 3.6 4.1 4.6 5.1
+ - 500 1,000 1,500 2,000 2,500 3,000 3,500
+FY 2022 FY 2023 FY 2024 FY 2025 FY 2026
+ Net Fixed Assets (average) Fixed Assets Turnover
+=== page 32 ===
+31
+Manufacturing capabilities
+Robust platform with substantial headroom for expansion
+USFDA inspected 
+Manufacturing SitesDosage FormsManufacturing 
+Excellence•High Level of Digitization – Paperless Operation target by 2026
+•Quality Management, Document Management and Maintenance 
+Modules already implemented
+•Manufacturing and Laboratory Operations under way •Automated machinery with recipe -based working to ensure consistency and 
+efficiency in manufacturing/ testing operations 
+•Operational Dashboards and Real Time Analytics enable pro -active 
+approach to OTIF achievement 
+Oral Solids – Over 6 Bn units per year
+Tablets, Capsules, Powders in bottles, 
+blisters or sachets
+Nasal Sprays – Over 50 Mn vials per year
+Solutions and Suspensions in Multi Dose 
+and Unit Dose Presentation
+Ambernath
+Oral Liquids – Solutions and Suspensions
+High Potent including Oncology 
+Unit Dose Cups
+Nasal Sprays - Solutions and Suspensions 
+in Multi Dose Format
+Satara
+Indore
+Oral Solids 
+-Tablets, Capsules, Powders in bottles, 
+blisters or sachets
+-Hormones / Steroids
+-High Potency, incl Oncology
+Topicals - creams and ointments in tubes
+Pithampur, Indore
+=== page 33 ===
+32
+R&D engine driving growth
+Wide ranging capabilities with deep expertise Team of over 
+180+ 
+professionals>200 scientists and > 40 regulatory 
+professionals in a matrix structureExperienced R&D leadership with no 
+key-man dependenceSubject matter experts in chosen focus 
+areasCapabilities for 
+differentiated 
+dosage forms•Immediate and Modified Release formats
+•Oral Solutions, Suspensions, Concentrates and Oral BFS products
+•Solutions, suspensions and gels with mono actives or fixed dose 
+combinations
+•Preservative -free dosage forms•Aseptically manufactured and terminally sterilized Solutions, 
+Suspensions, Emulsions
+•Lyophilized Injectables, Vials, PFS, Autoinjectors 
+•Nasal sprays, nebules, dry powder inhalers, pressurized metered 
+dose inhalers
+•Specialty and generic products for indications  in CNS, Opioid 
+Abuse, Asthma, COPD and other Neural DisordersUSFDA inspected 
+R&D centres in India 
+& Canada•35,000 sft facility in Thane 
+•3 separate laboratories for general, 
+sterile and potent compounds
+•Wide dosage capabilities - oral, 
+injectable, ophthalmic, topical
+•13,000 sft nasal & inhalation center 
+of excellence in Toronto
+•In-house analytical and 
+characterization capabilities for drug -
+device combinations
+March 2025, Zero 483s April 2026, Zero 483s
+=== page 34 ===
+33
+M&A initiatives have focused on adding new capabilities
+Impopharma  
+Canada Ltd. 
+(FY 2020)
+•Ontario based 
+development center 
+for drug device nasal 
+spray products
+•USFDA & Health 
+Canada inspectedMeditab’s  Satara 
+manufacturing site 
+(FY 2022)
+•Oral liquids 
+manufacturing 
+facility in 
+Maharashtra
+•Accredited by MHRA 
+UK and TGA 
+Australia 
+•Inspected  by the 
+USFDA in January 
+2023Validus 
+Pharmaceuticals 
+LLC (FY 2024)
+•Portfolio  of 10 NDA -
+approved products , 
+including Equetro 
+for CNS therapy at 
+the time of 
+acquisition
+•CVS products 
+include Lopressor® 
+and Lotensin HCT®
+AimRx  3PL LLC 
+(FY 2026)
+•US based provider of 
+logistic services to 
+pharmaceutical 
+companies with a 
+warehouse in East 
+Brunswick, NJ 
+•Licensed to 
+distribute 
+prescription 
+pharmaceuticals in 
+45 statesAlkem’s  Pithampur 
+manufacturing site 
+(FY 2026)
+•US FDA inspected 
+production facility 
+for steroids, 
+hormones  and high 
+potency products 
+•Total plot area of 
+125,000 m2 with 
+built up area of 
+approx  16,000 m2Development Manufacturing Sales & Marketing Logistics & Distribution Manufacturing
+Arinna Lifesciences 
+Pvt. Ltd.
+(April 2026)
+•CNS focused India 
+formulations 
+company
+•60 Brands (CNS 
+Portfolio)
+•~160 sales rep
+•3 Sales divisions
+•5000+ Pharmacies: 
+600+ stockists
+•4000 active 
+prescribersDomestic Formulation
+
+=== page 35 ===
+34
+Board of Directors
+Venkat Changavalli  l Independent Director
+◼Experience in the pharmaceutical sector
+◼Previously associated with Lupin Laboratories, Star Textile Engineering Works, Patel 
+Roadways and  Drachem  Specialty Chemicals
+Milind Patil l Independent Director
+◼Experienced finance professional with pharma industry experience
+◼Previously associated with Pfizer, Novartis Healthcare, Johnson and Johnson and 
+SiemensPratibha Pilgaonkar l Managing Director
+◼Focus primarily on the growth of R&D activities 
+◼Promoter , with 25 years of experience at Rubicon
+◼Previously associated with Sun Pharmaceutical Advanced research Center , Wyeth 
+Laboratories, Hindustan CIBA – GEIGY.Parag Sancheti l Executive Director & CEO
+◼Responsible for providing the organizational leadership and formulating the  growth 
+strategy
+◼12 years at Rubicon.
+◼Previously associated with Aavishkaar  Venture Management Services and Tata 
+Strategic Management Group
+Shantanu Rastogi l Non -Executive (Nominee) Director
+◼Experience in the financial services, technology, healthcare and consumer sectors
+Pradnya Saravade  l Independent Director
+◼Medical doctor, having done her MBBS and MS (General Surgery) & former 
+IPS officer
+◼Independent Director of Jio Finance Ltd & Jio Payments Bank
+Varun Talukdar l Non -Executive (Nominee) Director
+◼Experience in the finance sector.
+◼Previously associated with Bank of America Securities, Lehman Brothers Holdings 
+and Premji Invest
+K G Ananthakrishnan l Independent Director
+◼Experience in the pharmaceutical sector.
+◼Previously associated with Pfizer India, Pharmacia & Upjohn India and Schering 
+Plough India
+
+=== page 36 ===
+Thank YouRegistered office:  MedOne House, Plot No B75
+  Road No 33, Wagle Estate
+  Thane 400604, India
+Investor Contact:  investors@rubicon.co.in  
