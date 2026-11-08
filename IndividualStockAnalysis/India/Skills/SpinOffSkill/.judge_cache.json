@@ -30,58 +30,60 @@
   }
  },
  "HEGAM": {
-  "stamp": "be80e2fd6504d4f577d08a556edeb67f",
+  "stamp": "f81ba674abface5629f6d75013fb4fa5",
   "verdict": {
-   "what_is_spun": "HEG's graphite business \u2014 graphite electrodes and other carbon products \u2014 demerged into HEG Graphite Limited",
+   "what_is_spun": "The Graphite Undertaking \u2014 graphite electrodes business plus overseas investment and TAWA power plant assets/liabilities",
    "demerged_business_names": [
-    "Graphite Business",
+    "Graphite Undertaking",
     "Demerged Undertaking",
+    "graphite electrodes business",
+    "Graphite (segment)",
+    "TAWA power plant",
     "HEG Graphite Limited",
-    "Resulting Company",
-    "Second Petitioner Company",
-    "manufacturing graphite electrodes (including other carbon products)"
+    "HEG Limited (formerly known as HEG Graphite Limited)",
+    "Resulting Company"
    ],
-   "reason": "Core businesses (graphite electrodes; thermal and hydel power) acquired critical mass and need flexibility, independence, focused management; segregation to unlock value and attract different investors, lenders and strategic partners.",
-   "reason_class": "value_unlocking",
-   "insiders": "Promoter/Promoter Group holds 50,000 shares (100%) of HEG Graphite pre-Scheme, 56.28% post-Scheme on mirror basis; in HEG Limited promoter stake rises 56.28% to 60.72% via BEL amalgamation.",
-   "hidden_value": "Registered Valuer puts the Graphite Business at Rs. 393.4 per share versus Rs. 124.0 for HEG post-demerger; HEG Graphite post-Scheme holds Rs. 4,329.30 cr assets, Rs. 3,810.32 cr net worth and all Rs. 1,309.63 cr revenue.",
-   "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents do not discuss index treatment, shareholder size or listing mechanics; entitlement is 1:1 mirror of existing holders.",
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "Ravi Jhunjhunwala is Chairman, MD & CEO of HEG Limited (Resulting Company); son Riju Jhunjhunwala chairs HEGAM. Promoter stake in new entity not stated.",
+   "hidden_value": "Graphite carried Rs 4,601.53 cr assets vs Rs 1,357.07 cr liabilities (June 30, 2026) and earned Rs 319.71 cr H1 FY27 PAT; parent keeps debt-free hydro with over Rs 300 cr annual cash flows and Rs 1,322.84 cr cash.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "1 share issued to every HEGAM holder; shares still unlisted pending trading approval; graphite is a different industry from parent's advanced materials/power.",
    "parent_or_spin": "spin",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "not stated; the August 18, 2026 disclosure says only that 'The Scheme shall become effective upon receipt of the certified copy of the Order passed by the Hon'ble Tribunal and fiting of the same with the Registrar of Companies', with certified copies awaited",
-   "read_next": "Valuation Report dated 10 March 2025 (Annexure J) behind the Rs. 393.4 per share Graphite Business value.",
-   "quote": "unlocking the value of each of the businesses for the shareholders of the Demerged Company, attracting different sets of investors, strategic partners, lenders and other stakeholders having a specific interest in the respective businesses and providing better flexibility in accessing capital;"
+   "option_pricing_date": "not stated (ESOP 2026 approved by Board November 3, 2026; pricing formula 'As per Scheme (as determined by Nomination and Remuneration Committee)')",
+   "listing_timeline": "not stated as a date; in the October 30, 2026 letter: 'the equity shares of HEG Limited, the Resulting Company, ate presently unlisted, and the process of obtaining listing and trading approvals from the stock exchanges is underway'",
+   "read_next": "HEG Limited's listing/trading approval intimation, and its standalone balance sheet borrowings of Rs 708.97 cr.",
+   "quote": "Under the Scheme, the graphite electrodes business was transferred to HEG Limited (earlier known as HEG Graphite Limited), and Bhilwara Energy Limited was amalgamated into the Company."
   }
  },
  "INDIAGLYCO": {
-  "stamp": "7c5d44b663345192e25a292e0e6834f7",
+  "stamp": "49c3ac930bd1d9e67f47ac0c96ebeb64",
   "verdict": {
-   "what_is_spun": "Bio Pharma undertaking and Spirits & Biofuel undertaking demerged from India Glycols into two new companies",
+   "what_is_spun": "The Bio Pharma (Biopharma) Undertaking \u2014 bio-pharma and bio-polymers businesses, plant-based APIs, nutraceuticals and nicotine derivatives",
    "demerged_business_names": [
-    "Bio Pharma",
+    "Bio Pharma undertaking",
     "Biopharma Undertaking",
-    "Spirits and Biofuel Undertaking(s)",
+    "Ennature Biopharma (segment)",
+    "Ennature Biopharma division of India Glycols Limited",
     "Ennature Bio Pharma Limited",
-    "EBL",
+    "Ennature Bio Pharma Private Limited (former name)",
     "Resulting Company 1",
-    "IGL Spirits Limited",
-    "ISL",
-    "IGSL",
-    "Resulting Company 2",
-    "India Glycols Limited (Demerged Company)"
+    "EBL",
+    "EBPL",
+    "Maxicuma",
+    "Gingeren"
    ],
-   "reason": "not stated \u2014 the NCLT order says the \"rationale of the scheme\" was discussed in the first motion order dated 15.01.2026, which is not in these documents",
-   "reason_class": "not stated",
-   "insiders": "Not stated beyond voting: Promoter and Promoter Group cast 3,99,67,854 of 4,42,48,626 votes, 100% in favour; shares allotted pro rata to all holders, so promoter holding mirrors across both resulting companies. No incentive detail.",
-   "hidden_value": "Cost-of-acquisition split prices Spirits & Biofuel highest at 47.62%, Bio Pharma 20.61%, residual India Glycols 31.77%. Parent carries roughly INR1,100 crore term loan at 31 March 2026, with INR467 crore for prepayment; rating on watch list until demerger completes.",
+   "reason": "\"The demerger will result in the creation of three separate companies, each with a clear business focus,\" giving each dedicated management oversight and capital, investments and resources managed to its own business requirements.",
+   "reason_class": "value_unlocking",
+   "insiders": "Promoter family controls it: Pragya Bhartia Barwale Managing Director 5 years (ran the division to Rs 200 crore revenue); father U.S. Bhartia and sister Pooja Jhaver non-executive directors; promoters held 3,99,67,854 of 6,70,26,765 IGL shares, voted 100% in favour.",
+   "hidden_value": "Tax cost apportionment assigns Ennature 20.61% of value on only ~2% of group revenue (FY26 segment revenue Rs 207.77 crore, EBIT Rs 7.23 crore, 3.5%, down from 20.76 crore EBIT in FY25), with segment assets Rs 426.42 crore versus liabilities Rs 92.49 crore \u2014 a depressed-margin, asset-heavy business management says is being rebuilt into branded nutraceuticals.",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Two new entities handed to every holder (1-for-3 EBL, 1-for-1 IGSL); no index membership or trading history stated.",
+   "selling_pressure_why": "Smallest of three entities, only 2,23,42,255 shares on a 1-for-3 ratio creating odd lots; pharma/nutraceuticals unrelated to chemicals or spirits holders bought.",
    "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "listing_timeline": "Said 21st August, 2026: shares allotted on Record Date 2nd September, 2026 \"shall, in terms of the Scheme, be listed on the bourses of the National Stock Exchange of India Limited and the BSE Limited subject to the applicable regulations and the necessary regulatory approvals\" \u2014 no listing date given; allotment was intimated 8th September, 2026 and the Scheme became effective 1st September, 2026",
-   "read_next": "First motion NCLT order dated 15.01.2026 for the scheme rationale, plus the per-unit debt profile promised on the call",
-   "quote": "The Scheme became effective from 1st September, 2026."
+   "listing_timeline": "Per EBPL's letter dated 2 November 2026: listing and trading approvals received from BSE and NSE on November 02, 2026 for 2,23,42,255 equity shares of Rs 5/- each, with \"Date of Commencement of Trading: November 04, 2026\"; earlier, the 1 September 2026 news release said only that \"The management of Ennature Bio Pharma Limited will apply to BSE and NSE for listing of its shares on the respective bourses.\"",
+   "read_next": "Ennature Bio Pharma's Information Memorandum (board-approved 8 September 2026) \u2014 standalone balance sheet, debt allocation and segment margin trend.",
+   "quote": "Ennature Bio Pharma Limited will house the bio-pharma and bio-polymers businesses."
   }
  },
  "NH": {
@@ -110,28 +112,29 @@
   }
  },
  "VEDL": {
-  "stamp": "d88d67cb8012de272467e3230f7e7013",
+  "stamp": "4e2857341a2b361a1fa42d260dff376b",
   "verdict": {
-   "what_is_spun": "Vedanta's power generation assets into Talwandi Sabo Power Ltd (\"Vedanta Power\"), alongside aluminium, oil & gas, iron & steel demergers",
+   "what_is_spun": "Merchant Power Undertaking \u2014 Vedanta's merchant thermal power generation business (Athena, Meenakshi), demerged into Talwandi Sabo Power Limited",
    "demerged_business_names": [
+    "Merchant Power Undertaking",
     "Talwandi Sabo Power Limited",
-    "TSPL",
     "Resulting Company 2",
-    "Vedanta Power",
-    "merchant power business of Vedanta Limited",
-    "existing independent power generation assets"
+    "Vedanta Power Ltd",
+    "Power business",
+    "Athena",
+    "Meenakshi"
    ],
-   "reason": "To create focused, pure-play sector companies that unlock long-term value through sharper strategic focus, independent capital allocation and governance, simplifying Vedanta's structure and giving investors direct exposure to sector-leading assets.",
+   "reason": "Creation of five independent sector-specific pure-play companies, allowing each to chart its own growth trajectory and attract thematic investors; unlocking hidden value by enabling each business to be valued independently, with improved transparency",
    "reason_class": "value_unlocking",
-   "insiders": "Promoter/management stake in the new entity not stated; shareholders of Vedanta Limited receive shares in each of the four resulting listed entities in proportion to existing holdings, ensuring continuity of ownership.",
-   "hidden_value": "Oil & gas entity MEL's net worth is projected to rise from negative INR 178 crores to positive INR 13,507 crores upon demerger, while that entity also absorbs large uncrystallised GoI claims (counterclaim of 8,596.80 crores).",
+   "insiders": "Each Resulting Company issued 1 share for every 1 Vedanta share, so promoter group (Vedanta Resources, 54.72% of VEDL as on June 30, 2026) carried over pro rata; promoters excluded from VEDL ESOS/ESPP 2026",
+   "hidden_value": "Separation reveals leverage: Vedanta Power's net debt/EBITDA 4.7x, highest of the five, though debt is mostly structural long-term PFC/REC with 7-10 year maturities; residual Vedanta sits at 0.30x with AA+/stable",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Four new sector-specific entities distributed pro-rata to all VEDL holders; index treatment and float size not stated in documents.",
-   "parent_or_spin": "unclear",
+   "selling_pressure_why": "1:1 shares pushed to every Vedanta holder; thermal power unrelated to parent's metals/mining mandate; most levered of the five entities",
+   "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "listing_timeline": "Nov 2025 call: \"This will set the stage for the listing of all five demerged entities by the end of FY '26\"; Jan 2026 call: NCLT approved the scheme on 16 December 2025, certified copy received 21 January 2026, \"targeting 1st of April\"; power demerger approval still pending in a separate NCLT proceeding, and listing is subject to further regulatory and stock exchange approvals.",
-   "read_next": "The separate NCLT proceeding on the merchant power demerger, plus TSPL's share-entitlement ratio and net-worth certificate in the Scheme.",
-   "quote": "Shareholders of Vedanta Limited will receive equity shares in each of the four resulting listed entities (in addition to their shareholding in Vedanta Limited) in proportion to their existing holdings, ensuring continuity of ownership while enabling direct participation in the growth trajectories of individual businesses."
+   "listing_timeline": "On April 29, 2026: effective and record date set for May 1st, with shares of the resulting companies 'expected to list and commence trading by mid-June'; the July 30, 2026 presentation states '4 new entities listed on NSE & BSE on 15th June'",
+   "read_next": "Vedanta Power Limited's own post-listing results and production release, plus Athena Unit 1 restart update and its PFC/REC debt maturity schedule",
+   "quote": "The de-merger has been architected with precision on capital structure, aligning debt with earning strength and growth stage of each resulting company."
   }
  },
  "JSWENERGY": {
@@ -211,30 +214,29 @@
   }
  },
  "TRIVENI": {
-  "stamp": "4096900df4bf6cf58c472e28583b5339",
+  "stamp": "5fef61d8bcb72cf58d291a170238a59a",
   "verdict": {
-   "what_is_spun": "The power transmission business undertaking of Triveni Engineering, vested into Triveni Power Transmission Limited",
+   "what_is_spun": "The power transmission business undertaking: high-speed and niche low-speed gearboxes, gear internals, defence products, aftermarket and retro-fitment services",
    "demerged_business_names": [
-    "power transmission business undertaking",
-    "Power Transmission business",
     "Power Transmission Business",
-    "PTB business",
+    "Power Transmission Business (PTB)",
+    "power transmission business undertaking",
     "Triveni Power Transmission Limited",
-    "TPTL",
+    "Triveni Power Transmission Ltd (TPTL)",
     "Resulting Company",
-    "Applicant Company 3"
+    "TRIVENIPT (NSE) / 544824 (BSE)"
    ],
-   "reason": "Management: the amalgamation of SSEL and demerger of the Power Transmission business are \"to unlock value and to drive operational efficiencies\"; strategic push towards the independent listing of TPTL.",
+   "reason": "Management stated the amalgamation of SSEL and the demerger of the Power Transmission business were \"to unlock value and to drive operational efficiencies\" and to achieve an independent listing of TPTL.",
    "reason_class": "value_unlocking",
-   "insiders": "Not stated as a stake or incentive. Every equity shareholder gets 1 TPTL share (face value INR 2) per 3 Triveni shares (INR 1), so holdings mirror the parent.",
-   "hidden_value": "Separation exposes Power Transmission as a standalone with \"its own dynamics\": capex programmes \"progressing very smoothly\", continuing export market, more orders expected near-term. EBITDA-margin impact post-demerger was asked about but not quantified.",
-   "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents state only the 1-for-3 ratio and small INR 2 face value; no size, index-exclusion or shareholder-base detail given.",
-   "parent_or_spin": "unclear",
+   "insiders": "Promoter family runs TPTL: Dhruv M. Sawhney Non-Executive Chairman, Tarun Sawhney Vice Chairman & Managing Director (five years, subject to shareholder approval), Nikhil Sawhney director; 3,13,00,000 shares locked in to Oct 2027/Oct 2029.",
+   "hidden_value": "A high-margin engineering/defence business hidden inside a sugar-ethanol conglomerate: only 4.45% of TEIL turnover yet ~35-36% PBIT margins, order book just under Rs.500 crore (up 25%), Rs.340 crore capex, new defence facility, exports targeted above 50%; cost-of-acquisition split gives TPTL only 13.40%.",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "Small (13.40% of cost allocation), 1 share per 3 held; sugar/ethanol holders receive an unrelated engineering-defence company; 73,454,338 of 104,754,338 shares free.",
+   "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "listing_timeline": "Not stated as a date. Jun 2026 call: \"strategic push to clearly move towards, of course, the independent listing of TPTL\"; demerger record date fixed as Wednesday, July 22, 2026 (filing dated July 11, 2026); scheme effective May 19, 2026, demerger appointed date April 1, 2026.",
-   "read_next": "Annexure-21: TPTL abridged-prospectus information (SEBI ICDR Part E) at page 500 of the NCLT notice",
-   "quote": "Consequent upon the Scheme becoming effective, the power transmission business undertaking of the Company stood transferred to and vested into TPTL with effect from the Dernerger Appointed Date i.e. April 1,2026."
+   "listing_timeline": "On 9 October 2026 TPTL informed TEIL that BSE and NSE approved listing and trading \"with effect from October 12, 2026\"; 10,47,54,338 shares of Re.2 each, ISIN INE2WKE01011. Earlier, on the 4 June 2026 call management said \"by the end of August, we will have a listing of Triveni Power Transmission s Limited.\"",
+   "read_next": "TPTL's first standalone quarterly results and balance sheet post-demerger: PBIT margin (~36%) and the sub-Rs.500 crore order book.",
+   "quote": "Consequent upon the Scheme becoming effective, the power transmission business undertaking of the Company stood transferred to and vested into TPTL with effect from the Demerger Appointed Date i.e. April 1, 2026."
   }
  },
  "AMBUJACEM": {
@@ -372,30 +374,29 @@
   }
  },
  "REFEX": {
-  "stamp": "3a4adf043304193232b71382578820cf",
+  "stamp": "108da6e5c8144a52cf70792ed6b27330",
   "verdict": {
-   "what_is_spun": "The Mobility Undertaking \u2014 Refex's EV fleet mobility vertical serving B2B and B2B2C platforms",
+   "what_is_spun": "Green Mobility Business Undertaking \u2014 cleaner-fuel/EV passenger transport fleet business, run via wholly owned subsidiary Refex Green Mobility Limited",
    "demerged_business_names": [
-    "Refex Green Mobility Limited",
-    "RGML",
-    "Refex Mobility Limited",
-    "RML",
-    "Mobility Undertaking",
-    "mobility vertical",
-    "Refex Mobility Vertical",
-    "Resulting Company"
+    "Green Mobility Business Undertaking",
+    "Demerged Undertaking",
+    "Refex Green Mobility Limited (RGML, Transferor Company)",
+    "Refex Mobility Limited (RML, Resulting Company)",
+    "Green mobility (reporting segment)",
+    "Mobility business",
+    "Refex EV Fleet Services Private Limited"
    ],
-   "reason": "\"in line with our strategy to unlock focused value creation for all our stakeholders\"; post-demerger mobility pursues its growth plan independently with strategic and financial flexibility, running its own debt",
+   "reason": "Risk, competition, financial profiles and return ratios of Ash & Coal handling are distinct from Green Mobility, which attracts a different set of investors, lenders and partners; separate listing to unlock value",
    "reason_class": "value_unlocking",
-   "insiders": "Mirror shareholding: RGML is a 100% subsidiary so no valuation was required and all shareholders get matching RML shares. Promoter stake or incentives in RML not stated.",
-   "hidden_value": "No valuation was ever ascertained for the mobility vertical (management said none was required). RML takes its own debt; RIL carries Rs 158.90 cr secured and Rs 347.67 cr unsecured creditors as on March 31, 2026.",
+   "insiders": "Promoter and promoter group 56.57% of RIL mirrors into RML at 1:1; directors/KMP have no interest except directorship and shareholding; promoters' 1,11,70,000 warrants lapsed, Rs.130.69 crore forfeited",
+   "hidden_value": "Spin is small and loss-making: green mobility segment EBIT -Rs.3,823.51 lakh FY26, -Rs.1,360.79 lakh Q1FY27, ~Rs.100 crore revenue in three years, RGML carries Rs.64.92 cr secured and Rs.88.41 cr unsecured creditors; parent left as high-margin Ash & Coal",
    "selling_pressure": "likely",
-   "selling_pressure_why": "Mirror shareholding hands 92,973 RIL holders a small, newly listed EV-mobility entity in a different industry with no set valuation.",
-   "parent_or_spin": "unclear",
+   "selling_pressure_why": "Tiny loss-making unit, ~3-4% of segment revenue, unrelated mobility industry versus ash/coal and wind; newly listed, no index membership",
+   "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "listing_timeline": "No listing date stated. Jan 2026 call: \"we currently are waiting for some final NOCs from the lenders. As soon as it comes, the scheme is ready to be filed and we are trying our best to ensure that this can happen as soon as possible.\" Nov 2025 call: asked \"at what point do we see that company getting listed completely as a separate unit?\" \u2014 no timeline given in reply. Process dates on file: BSE/NSE observation letters March 16, 2026; NCLT order June 18, 2026; shareholder and creditor meetings August 5, 2026, all approving.",
-   "read_next": "The Composite Scheme annexed to the Notice dated July 03, 2026 \u2014 share entitlement ratio and debt split to RML",
-   "quote": "Post-demerger, the mobility vertical will pursue its growth plan independently with strategic and financial flexibility."
+   "listing_timeline": "Not dated. Aug 5, 2026 proceedings: RML shares \"upon issuance pursuant to the Scheme, were proposed to be listed on BSE Limited and the National Stock Exchange of India Limited\"; NSE letter of March 16, 2026 requires trading to commence \"within sixty days of receipt of the order of the Hon'ble High Court/NCLT\"; on Oct 28, 2026 the demerger was still \"awaiting final approval from the Hon'ble NCLT\", next hearing 28 October 2026; on May 27, 2026 management said \"another 60 to 75 days, this should get completed\"",
+   "read_next": "NCLT final sanction order and RoC filing date (Effective Date), plus Annexure 16B abridged prospectus and Annexure 19 net assets of RML",
+   "quote": "The nature of risk and competition, financial profiles and return ratios involved in the Ash & Coal handling business of RIL are distinct from Green Mobility Business presently undertaken through its wholly owned subsidiary RGML."
   }
  },
  "RELIGARE": {
