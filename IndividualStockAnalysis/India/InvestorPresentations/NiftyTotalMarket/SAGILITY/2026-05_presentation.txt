@@ -1,0 +1,485 @@
+
+=== page 1 ===
+(Formerly Sagility India Limited, earlier Sagility India Private Limited)  
+Registered Office - No. 23 & 24, AMR Tech Park, Building 2A, First Floor Hongasandara  Village, Off Hosur 
+Road, Bommanahalli, Bengaluru – 560068, Karnataka, India 
+Corporate Identification Number:  L72900KA2021PLC150054  
+Tel. No.: 080- 71251500, E-mail:  investorservices@sagility.com ,  Website:  www.sagility.com  
+D
+ate: May 12, 2026 
+T
+o,  
+T
+he Manager   The Manager 
+Listing Department  Listing Department 
+National Stock Exchange of India Limited  (NSE) BSE Limited  (BSE)  
+Exchange Plaza, 5th Floor  Phiroze Jeejeebhoy Towers 
+Plot No. C/1, G- Block   Dalal Street  
+Bandra- Kurla Complex   Mumbai - 400 001 
+Bandra (E), Mumbai - 400 051  Scrip Code: 544282  
+Symbol: SAGILITY  
+D
+ear Sir/Ma’am, 
+Sub: Submissio n of Revised Investor Presentation to be made to investors on May 12, 2026, 
+pursua nt to Regulation 30 read with Schedule III of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015. 
+Please find en closed  the revised presen tation to be made to  investors on the financial results of 
+Sagility Limited for the quarter and year ended March  31, 2026,  during the meeting scheduled 
+today, i.e., T uesday, M ay 12, 2026, at 7:30 p.m. (IST). 
+The details are also bei ng made available on the Company’s website https://sagility.com/ 
+This is for your informatio n and r ecord.  
+Thanking You, 
+For Sagility Limited 
+Satishkumar Sak harayapattana Se etharamaiah  
+Company Secretar y & Compliance Officer 
+M. No. A16008
+Encl: a /a 
+Sagility L imited 
+=== page 2 ===
+Investor Deck 
+ –
+Q4 FY26
+May 12, 2026
+=== page 3 ===
+Certain  statements  in this  release  concerning  Sagility’s  future  growth  prospects  may  be seen  as forward -looking  
+statements,  which  involve  a number  of risks  and  uncertainties  that  could  cause  the actuals  to differ  materially  from  
+such  statements . Sagility  does  not undertake  to update  any such  statement  that  may  have  been  made  from  time  to 
+time  by or on behalf  of the company .Safe Harbor
+=== page 4 ===
+Performance Highlights
+FY26
+RevenueAdjusted 
+EBITDAAdjusted
+PAT
+₹ 20,243
+Million₹ 5,036
+Million₹ 3,069
+Million
+YoY growth
+29.1%
+22.2% in CCMargin %
+24.9%Margin %
+15.2%
+YoY Growth
+(Excl. 
+Broadpath)
+25.8%YoY
+growth %
+20.6%YoY
+growth %
+28.0%RevenueAdjusted 
+EBITDAAdjusted
+PAT
+₹ 71,929
+Million₹ 18,200
+Million₹ 11,306
+million
+YoY growth
+29.1%
+23.6% in CCMargin %
+25.3%Margin %
+15.7%
+YoY Growth
+(Excl. 
+Broadpath)
+20.1%YoY
+growth %
+23.9%YoY
+growth %
+39.5%Q4 FY26
+▶25.8% Y -o-Y organic growth in FY26 , driven by expansion 
+within existing clients and rising contribution from FY26 
+new client wins
+▶$30.7M (potential steady state ACV)  of new business & 
+expansion won in Q4 FY26
+▶Expansion and new SOWs from 18 existing clients  
+and 2 FY26 new logos  in Q4 FY26
+▶5 new clients onboarded in Q4 (total 17 in FY26)
+▶Sagility is advancing AI orchestration through SmarTec  
+and Synchrony  to drive smarter, end -to-end operations 
+and measurable outcomes 
+▶Sagility’s brand evolution positions it as a Tech & AI -led 
+operations partner focused on delivering measurable 
+outcomesInsights
+•Leader  Healthcare Payer Agility and Innovation 2026 NEAT NelsonHall
+•Leader  Healthcare Payer Intelligent Operations PEAK Matrix® Assessment 2026 Everest
+•Leader in Generative AI services by ISG
+•Sagility SmarTec  Nurse Assist was the Winner of Augmented Intelligence award by Business Intelligence Group Rewards & Recognitions
+19.4% in CC15.0% in CC
+Final dividend of ₹0.1 per share
+=== page 5 ===
+KPIs
+Note : *Adjusted  EBITDA  represents  EBITDA  adjusted  for earnouts  payable  under  acquisition  agreements  (DCI,  BirchAI  & BroadPath ), share -based  payment  awards  and  exclude  other  income  (including  forex  gain/loss) .
+*Adjusted  PAT  reflects  EBITDA  adjustments  and  adjustments  for amortisation  of intangible  assets  arising  from  the carve -out of the healthcare  business  from  HGS,  as well  as the statutory  impact  of the new  labor  codes  in India,  net of tax
+^Voluntary  attrition  is calculated  for employees  with  tenure  exceeding  90 days  and  presented  on an annualized  basis,  derived  from  voluntary  exits  during  the respective  quarterQ4 FY26 Q3 FY26 Q4 FY25 YoY% FY26 FY25 YoY%
+Revenue from Operation (in ₹M) 20,243 19,712 15,685 29.1% 71,929 55,699 29.1%
+Revenue by Vertical Split
+By Payer % 90.8% 90.4% 89.7% 89.7% 89.4%
+By Provider % 9.2% 9.6% 10.3% 10.3% 10.6%
+Growth in revenue from operation (%) 29.1% 35.7% 22.2% 29.1% 17.2%
+Adjusted EBITDA (in ₹M)* 5,036 5,125 4,176 20.6% 18,200 14,685 23.9%
+Adjusted EBITDA % 24.9% 26.0% 26.6% 25.3% 26.4%
+Adjusted PAT (in ₹M)** 3,069 3,229 2,398 28.0% 11,306 8,107 39.5%
+Adjusted PAT % 15.2% 16.4% 15.3% 15.7% 14.6%
+Total Number of Employees 46,860 48,522 39,409 18.9% 46,860 39,409 18.9%
+Voluntary attrition rate^ (%) 38.1% 22.8% 32.5% 29.4% 27.5%
+=== page 6 ===
+Annual KPIs
+FY26 FY25 FY24 FY23
+Numbers of Client group
+Active 82 75 44 35
+Number of new client addition (Gross) 17 38 13 7
+Delivery Sites
+Number of delivery sites 31 33 30 27
+New site addition (Gross) 4 10 4 2
+Client groups contribution to revenues*
+Top 3 client % 59.9% 66.2% 68.3% 72.4%
+Top 5 client % 70.4% 77.9% 79.2% 80.6%
+Top 10 client % 83.9% 90.5% 91.4% 90.7%
+Number of Million -dollar client groups**
+Number of clients contributing more than US$20 million 9 7 5 4
+Number of clients contributing to US$5 - US$20 million 7 6 7 7
+Number of clients contributing to US$1 - US$5 million 21 12 12 12
+Number of clients contributing less than US$1 million 45 50 20 12
+**Client groups comprise client entities together with their affiliates.
+ *Client group represent top client based on last twelve months revenue for the respective periodTop 3 client CAGR of 9.1% 
+(in CC) over FY23 to FY26.
+Overall CAGR of 16.2% ( in 
+CC) over FY23 to FY26.
+=== page 7 ===
+Business Updates
+=== page 8 ===
+Recent Market Trends –Q4
+Market Trends Impact on Payer Implications for Sagility
+CMS finalized Medicare 
+Advantage Rates at 2.48% 
+Y-o-Y increaseThis presents payers with a little more favorable 
+reimbursement environment vs the near -flat proposal 
+initially expected that eases some pressure on margins. 
+Profitability pressures still continue  though.Proposals that focus on cost takeout in administrative 
+functions and improving STARs ratings resonate with 
+payers who are still encountering increased medical 
+utilization.
+House Passes Bill to 
+extend/enhance ACA 
+premium subsidiesWith coverage remaining affordable, Marketplace 
+enrollment is expected to stay stable, supporting a 
+favorable insured member risk mix heading into 2027
+Payers are likely to sustain operational spend across 
+enrollment, billing, and engagement services.While Sagility  currently has low exposure to the ACA 
+market, this strengthens the case for automation & AI led 
+models to manage service complexity and cost pressures.
+State Medicaid expansion 
+incentives have
+ended, effective 2026The expiration of federal Medicaid expansion incentives 
+removes a key catalyst for incremental state -level 
+expansion activity, likely moderating future Medicaid 
+membership growth.While Sagility  has low exposure to the Medicaid market, 
+cost optimization is likely to become a greater strategic 
+priority for these plans, further accelerating adoption of 
+automation -led operating models and efficiency -focused 
+outsourcing initiatives.
+CMS launched the 
+Advancing Chronic Care
+with Effective, Scalable 
+Solutions (ACCESS)
+modelCMS’ push to outcome based chronic care management 
+with tech -enabled care central to the modelWhile this is focused on Original Medicare, it aligns closely 
+with our strategic focus on helping MA plans with 
+analytics -led care management, and technology -enabled 
+member engagement and support services.
+=== page 9 ===
+Brand Promise
+Sagility delivers value in 
+healthcare operations with deep 
+domain expertise, technology & 
+AI-led transformation, and 
+trusted collaboration.80+
+Healthcare 
+Clients18
+Average Client
+Tenure in Years
+37
+AI Use -Cases 
+Deployed4400+
+Clinicians and 
+Technology 
+Experts
+25+
+Years exclusively 
+in healthcare>50
+NPS/CSAT
+=== page 10 ===
+Client Endorsed Solutioning 
+80Executive Client 
+AttendeesCo-creating outcome -driven healthcare solutions with our clients -
+combining their operational insight with Sagility’s innovation to 
+accelerate measurable impact.
+Innovation Forum
+Reducing Medical 
+Costs – Clinical Context 
+to Action Solution#1
+Member Pain Index
+Reducing 
+Payer/Provider Friction#2
+#3
+Key Client Themes
+•AI is rapidly reshaping operating models 
+to lower medical costs while improving 
+member and patient outcomes.
+•AI deployment decisions are becoming 
+increasing collaborative with business 
+operations and technology leaders 
+jointly shaping the path forward.
+•The key to execution is through a robust 
+partnership ecosystem resulting in 
+outcomes -based decisioning versus 
+traditional models. 
+
+=== page 11 ===
+Financial Highlights
+=== page 12 ===
+Financial Highlights
+RevenueAdjusted 
+EBITDAAdjusted
+PATOCF
+₹ 20,243
+million₹ 5,036
+Million₹ 3,069
+Million₹ 5,327
+Million
+YoY growth
+29.1%
+22.2% at Constant 
+CurrencyMargin %
+24.9%Margin %
+15.2%Conversion %
+104.6%
+YoY Growth
+(Excl. Broadpath )
+25.8%
+19.4% at Constant 
+CurrencyYoY growth %
+20.6%YoY growth %
+28.0%DSO
+87 daysQ4 FY26 FY26
+FY26 marked by strong top -line growth, margin resilience, and healthy operating cash flowRevenueAdjusted 
+EBITDAAdjusted
+PATOCF
+₹ 71,929
+million₹ 18,200
+Million₹ 11,306
+Million₹ 12,030
+million
+YoY growth
+29.1%
+23.6% at Constant 
+CurrencyMargin %
+25.3%Margin %
+15.7%Conversion %
+64.7%
+YoY Growth
+(Excl. Broadpath)
+20.1%
+15.0% at Constant 
+CurrencyYoY growth %
+23.9%YoY growth %
+39.5%DSO
+87 days
+=== page 13 ===
+Quarterly Seasonality
+1235.4 35.9 38.4 39.6
+39.4 39.9 44.2Headcount 
+(‘000)48.539.4
+46.9Q4FY24 to 
+Q4FY25Q4FY25 to 
+Q4FY26Headcount 
+(‘000)
+Revenue ($M) $154.4 $146.6 $157.9 $172.0 $181.8
+Revenue ($M) $181.8 $180.4 $189.4 $222.0 $222.1
+Our Revenues exhibit seasonality. Growth in Q3 & Q4 is impacted by Open Enrollment volumes15,685 15,389 16,585 19,712 20,243 
+26.6%
+24.0%26.2% 26.0%24.9%
+10.0%15.0%20.0%25.0%30.0%35.0%40.0%45.0%50.0%
+ 6,000 8,000 10,000 12,000 14,000 16,000 18,000 20,000 22,000 24,000
+Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26 Q4 FY26
+Revenue ₹M Adjusted EBITDA %12,832 12,233 13,250 14,531 15,685 
+24.5% 23.8%26.1%28.4%26.6%
+10.0%15.0%20.0%25.0%30.0%35.0%40.0%45.0%50.0%
+ 3,000 5,000 7,000 9,000 11,000 13,000 15,000 17,000
+Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25
+Revenue ₹M Adjusted EBITDA %Includes 2 month of 
+acquisition ($8.9M)
+Includes 2 month of 
+acquisition ($8.9M)
+=== page 14 ===
+Long Term Financial performance snapshot
+13Revenue (₹M) FY25 YoY% FY26 YoY%
+17.2% 29.1%Adjusted 
+EBITDA * (₹M)FY25 YoY% FY26 YoY%
+28.4% 23.9%Adjusted 
+PAT (₹M)FY25 YoY% FY26 YoY%
+37.5% 39.5%
+Revenue ($M) FY25 YoY% FY26 YoY%
+14.9% 23.6%Adjusted 
+EBITDA* ($M)FY25 YoY% FY26 YoY%
+25.9% 18.7%Adjusted 
+PAT ($M)FY25 YoY% FY26 YoY%
+34.8% 33.5%
+*Adjusted  EBITDA  represents  EBITDA  adjusted  for earnouts  payable  under  the acquisition  agreements  (DCI, BirchAI  & BroadPath) , share -based  payment  awards and exclude other income (including forex gain/loss).Improved adjusted PAT driven by declining finance costs and higher forex gains₹42,184₹47,536₹55,699₹71,929
+FY23 FY24 FY25 FY26
+$518.2$572.9$658.3$814.0
+FY23 FY24 FY25 FY26₹10,272₹11,436₹14,685₹18,200
+FY23 FY24 FY25 FY26₹4,556₹5,896₹8,107₹11,306
+FY23 FY24 FY25 FY26
+$126.2$137.8$173.6$206.0
+FY23 FY24 FY25 FY26$56.0$71.1$95.8$127.9
+FY23 FY24 FY25 FY26
+=== page 15 ===
+Other Financial Indicators
+14 Adjusted EPS is Adjusted PAT divided by weighted average number of equity shares
+Adjusted ROCE is Adjusted PAT plus Interest cost divided by capital employed (Assets excluding goodwill and intangibles asset s less current liabilities)
+Net Debt is Borrowing plus lease liabilities less Cash and Cash equivalent including investment in Mutual Fund and Deposits .  Borrowing doesn’t include accrued interestOCF conversion in FY26 @ 64.7% driven by higher Non -cash (unrealized) forex Gains, lower non -cash expenses and higher tax payouts1.06 1.38 1.76 2.42 
+FY23 FY24 FY25 FY26Adjusted EPS (in ₹)
+41.6%47.0%54.9%57.4%
+FY23 FY24 FY25 FY26Adjusted ROCE %
+82.0%87.2% 89.7%
+64.7%68.2%70.8%80.5%
+54.4%
+FY23 FY24 FY25 FY26Cash Conversion (%)
+OCF % FCF %₹22,863₹21,678
+₹10,433
+₹1,9622.23 
+1.90 
+0.71 
+0.09 
+ - 0.50 1.00 1.50 2.00 2.50
+₹0₹5,000₹10,000₹15,000₹20,000₹25,000
+FY23 FY24 FY25 FY26Net Debt
+Net Debt (in ₹ Million) Net Debt to Adjusted EBITDA
+=== page 16 ===
+Particulars Q4 FY26 Q3 FY26 Q4 FY25 YoY% QoQ% FY26 FY25 YoY%
+Revenue from Operation 20,243 19,712 15,685 29.1% 2.7% 71,929 55,699 29.1%
+Employee benefits expense* 12,580 12,211 9,429 44,506 33,283
+Other expenses^ 2,627 2,376 2,079 9,223 7,731
+Adjusted EBITDA** 5,036 5,125 4,176 20.6% -1.7% 18,200 14,685 23.9%
+Adjusted EBITDA % 24.9% 26.0% 26.6% 25.3% 26.4%
+Adjustments:
+M&A Earnouts 150 42 207 475 571
+SAR (stock appreciation right) – Non Cash 39 -61 104 122 1,134
+Other Income^^ 82 84 101 281 386
+Forex Gain / (Loss) 166 -33 -135 698 177
+Reported EBITDA 5,094 5,195 3,832 33.0% -1.9% 18,583 13,542 37.2%
+Finance costs 221 247 298 992 1,271
+Depreciation and amortisation 1,242 1,235 1,143 4,874 4,669
+Profit before Exceptional Items 3,632 3,713 2,390 52.0% -2.2% 12,717 7,602 67.3%
+Statutory impact of new labor code in India 328 328
+Profit Before Tax 3,632 3,385 2,390 52.0% 7.3% 12,389 7,602 63.0%
+Tax Expenses 1,055 709 564 3,141 2,211
+Reported Profit After Tax 2,577 2,677 1,826 41.2% -3.7% 9,248 5,391 71.5%
+EPS 0.56 0.57 0.39 41.2% -3.7% 1.98 1.17 69.2%
+Adjusted PAT 3,069 3,229 2,398 28.0% -5.0% 11,306 8,107 39.5%
+Adjusted PAT % 15.2% 16.4% 15.3% 15.7% 14.6%
+Adjusted EPS(₹) 0.66 0.69 0.51 28.0% -5.0% 2.42 1.76 37.6%Q4 FY26 Consolidated Profit and LossAmt in ₹ M
+*Employee benefits expense excludes M&A earnout and SAR (shown separately under adjustments), 
+^ Other expenses exclude forex loss. ^^ Other income excludes forex gain. Forex Gain and Forex Loss clubbed together and show n separately.
+ ** Adjusted EBITDA represents EBITDA adjusted for earnouts payable under the acquisition agreements (DCI, BirchAI  & BroadPath), share -based payment awards and exclude other income (including forex gain/loss).►Prescribes uniform definition 
+of wages based on which 
+employee benefits like 
+gratuity, leave encashment & 
+statutory bonus are 
+computed. 
+►Past service costs of INR 
+294.7M towards Gratuity and 
+INR 33.5M towards 
+Compensated absence 
+reported as exceptional 
+items in Q3.
+►Ongoing impact on overall 
+Margins is likely to be 0.2% of 
+Revenues.New Labor Code in 
+India effective 21Nov 
+2025: 
+=== page 17 ===
+Adjustments on EBITDA and PAT
+16Adj EBITDA Bridge: Q4 FY26 (₹M)
+Adj A - Earnouts under acquisition agreements and for PAT it is adjusted for tax
+Adj B - Share based payment awards (non -cash expenses for the company and not tax deductible)
+Adj C - Amortization of intangible assets (net of tax) that got created due to carveout of healthcare business from HGS
+Adj D - Exceptional items for Q3 FY26 represents adjustment for labour codes (net of deferred tax) on account of increase in gratuity liability arising out of past service co st and increase in leave liabilityAdj PAT Bridge: Q4 FY26 (₹M)Adj EBITDA Bridge: FY26 (₹M)
+Adj PAT Bridge: FY26 (₹M)Reported 
+EBITDAAdj A Adj BOther income/ 
+FX gainAdjusted 
+EBITDAReported 
+EBITDAAdj A Adj BOther income/ 
+FX gainAdjusted 
+EBITDA
+Reported PAT Adj A Adj B Adj C Adjusted PAT₹150 ₹39
+-₹248₹5,036 ₹5,094
+Reported EBITDA Adj A Adj B Other Income/Fx gain Adjusted EBITDA₹18,583 ₹475 ₹122
+-₹980₹18,200
+Reported EBITDA Adj A Adj B Other Income/Fx gain Adjusted EBITDA
+₹2,577₹108₹39₹345 ₹3,069
+₹9,248₹344 ₹122₹1,346₹246 ₹11,306
+Reported PAT Adj A Adj B Adj C Adj D Adjusted PAT
+=== page 18 ===
+Go Forward Positions
+Particulars FY25 FY26 FY27 FY28 FY29 FY30
+Closing Debt position 8,020 5,670 - - - -
+Debt Repayment 2,490 2,350 5,670 - - -
+Interest Payment 751 543 287 - - -
+Share based Payment awards 1,134 122 138 72 37 -
+Earnouts Cost - DCI / Birch/ BroadPath 571 475 6 - - -
+Intangibles Amortisation (A) 1,400 1,462 1,562 1,562 1,562 1,562
+Intangibles Amortisation (B) 188 392 408 392 312 265
+Debt to be fully repaid by FY27.
+Intangibles Amortisation  (A) - Amortization of intangible assets that got created due to carveout of healthcare business from HGS
+Intangibles Amortisation  (B) - Amortisation  for intangible assets acquired in relation to acquisitions (DCI, Birch and BroadPath) – Ends by FY33 Amt in ₹ M
+=== page 19 ===
+Balance Sheet – 31st March 26
+Particulars Mar 26 Mar 25
+Property, plant and equipment 4,624 3,699
+Right -of-use assets 4,868 5,521
+Goodwill 64,051 60,390
+Other intangible assets 20,407 20,362
+Trade receivables and unbilled 18,390 12,668
+Cash and cash equivalents (including investments) 9,038 3,438
+Deferred tax assets (net) 1,514 1,337
+Other Assets 3,114 3,091
+Total Assets 126,011 110,507
+Equity 96,591 83,361
+Borrowings 5,776 8,170
+Lease liabilities 5,330 5,850
+Trade payables 2,217 2,136
+Deferred tax liabilities (net) 4,211 4,279
+Other Liabilities 11,887 6,712
+Total Liabilities 126,011 110,507Amt in ₹ M
+=== page 20 ===
+Cash Flow – FY26
+Particulars FY26 FY25
+Profit before tax for the period/ year 12,389 7,602 
+Adjustment for Non -Operating and Non -Cash items 5,271 6,982 
+Adjustment for working capital (1,895) (710)
+Income taxes paid (net of refunds) (3,735) (1,734)
+Net cash flows generated from operating activities (A) - OCF 12,030 12,141 
+Addition to Fixed Assets (1,922) (1,244)
+Free Cash flow (FCF) 10,108 10,896 
+Cash paid for M&A - (4,825)
+Pending Purchase consideration paid for healthcare business carveout - (3,756)
+Investment in Mutual fund and Fixed Deposit (5,370) -
+Others 185 184 
+Net cash flows (used in) investing activities (B) (7,107) (9,642)
+Capital infused by promoter - 3,708
+Share Issue expense (paid)/ reimbursed - 72
+Repayment of Promoter borrowings (include Interest) (2,937) (4,567)
+Repayment of lease liabilities (include Interest) (1,843) (1,774)
+Dividend paid (234) -
+Net cash flows (used in) financing activities (C) (5,014) (2,561)
+Net increase/ (decrease) in cash and cash equivalents (A+B+C) (91) (62)
+Cash and cash equivalents at the beginning of the year/period 3,438 3,441
+Effect of movement in exchange rates on cash and cash equivalents 233 58
+Cash and cash equivalents at the end of the year/ period 3,579 3,438
+Net cash flows generated from operating activities % (OCF on Reported EBITDA) 64.7% 89.7%
+Free Cash flow % (FCF on Reported EBITDA) 54.4% 80.5%Amt in ₹ M
+=== page 21 ===
+Thank you.

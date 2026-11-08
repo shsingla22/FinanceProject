@@ -1,0 +1,1401 @@
+
+=== page 1 ===
+ 
+ 
+Sagility  Limited  
+(Formerly Sagility India  Limited , earlier Sagility India Private Limited ) 
+Registered Office - No. 23 & 24, AMR Tech Park, Building 2A, First Floor Hongasandara Village, Off Hosur 
+Road, Bommanahalli, Bengaluru – 560068, Karnataka, India  
+Corporate Identification Number:  L72900KA2021PLC150054  
+Tel. No.:  080 -71251500, E-mail : investorservices@sagility.com , Website:  www.sagilityhealth.com  
+ 
+Date: March 25 , 202 6 
+ 
+To,  
+ 
+The Manager       The Manager  
+Listing Department      Listing Department  
+National Stock Exchange  of India Limited  (NSE)  BSE Limited  (BSE)  
+Exchange Plaza, 5th Floor     Phiroze  Jeejeebhoy Towers  
+Plot No. C/1, G -Block      Dalal Street  
+Bandra -Kurla Complex      Mumbai - 400 001  
+Bandra (E), Mumbai - 400 051     Scrip Code: 544282  
+Symbol: SAGILITY  
+ 
+Dear Sir/Ma’am,  
+ 
+Sub: Submission of Investor Presentation pursuant to Regulation 30 read with Schedule III of the 
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 . 
+ 
+In continuation of our letter dated March 13, 2026, regarding the Investor and Analyst Day scheduled 
+to be held on Wednesday, March 25, 2026, please find enclosed the presentation that will be discussed 
+during the meeting later today.  
+ 
+The details are also being made available on the Company’s website https://sagilityhealth.com/   
+ 
+This is for your information and record .  
+ 
+Thanking You,  
+ 
+For Sagility Limited  
+ 
+  
+ 
+Satishkumar Sakharayapattana Seetharamaiah  
+Company Secretary & Compliance Officer  
+M. No. A16008  
+ 
+Encl: a/a  
+=== page 2 ===
+Powering Payers, PBMs, and Providers to 
+operate smarter, faster, and at scale.
+=== page 3 ===
+Certain statements in this release concerning Sagility’s future growth 
+prospects may be seen as forward -looking statements, which involve a number 
+of risks and uncertainties that could cause the actuals to differ materially from 
+such statements. Sagility does not undertake to update any such statement that may have been made from time to time by or on behalf of the company.
+=== page 4 ===
+Ramesh Gopalan
+Group CEO
+and Managing Director
+=== page 5 ===
+1:30 PM – 2:15 PM Registration & Welcome Refreshments
+2:15 PM – 3:00 PM CEO Presentation & Business Overview
+3:00 PM – 3:30 PM U.S. Healthcare, Practice and AI led Solutions
+3:30 PM – 4:00 PM Payer -Provider Ecosystem Expertise (includes demo)
+4:30 PM – 5:00 PM Deep Clinical Expertise and Value Delivery (includes demo)
+5:00 PM – 5:45 PM Technology, AI -led Transformation, and Partnership Ecosystem (includes demo)
+5:45 PM – 6:15 PM GTM Plan
+6:15 PM – 7:00 PM Interactive Q&A with Management
+7:00 PM Dinner & Networking
+=== page 6 ===
+Global Scale of 
+Operations40,000+
+Healthcare 
+Associates5
+Geographies90.6%
+Offshore & 
+Nearshore1.37 B+
+Transactions
+Robust GrowthFY25 Revenue from Operations
+Y-o-Y Growth (%)
+14.9%$658.3 MStrong Industry Presence And 
+Client Partnerships100%  
+US Healthcare
+focused18
+Average Client
+Tenure in Years25 
+Years of experience
+in Healthcare 
+25.5%
+Adjusted EBITDA margin 
+for 9M FY2635
+Delivery centers4100+
+Clinicians and 
+Technology Experts
+$518.2 M$572.9 M$658.3 M
+FY23 FY24 FY2515.9%
+Adjusted PAT margin
+for 9M FY2680+
+Healthcare Clients7
+of the top 10
+payers served3
+Of top 6 PBMs by 
+claims volumeBroad and Deep Domain Expertise 
+in medical,  pharmacy,  and  dental
+business segmentsService Portfolio 
+Covers most of the payer value chain inclusive of  
+both administrative  and clinical workflowsTech -led & Transformative
+AI-led orchestration, BPaaS , platforms, 
+point solutions, RPA, and Analytics
+$476.5 M$591.8 M
+YTD Dec FY25 YTD Dec FY26
+=== page 7 ===
+Sagility SmarTec Nurse Assist
+Winner of Augmented 
+Intelligence awardEnterprise Innovator
+Healthcare Payer Services 
+Capabilities
+Disruptor
+Healthcare Provider Services 
+Capabilities•Leaders Quadrant in Intelligent Payer Operations
+•Leaders Quadrant in Payer Operations
+•Major Contender in Clinical CCM Services
+•Major Contender in UM Services
+•Major Contender in Payment Integrity Services
+•Major Contender in BPaaS  Payer Operations
+•Major Contender & Star Performer in RCM
+Everest PEAK Matrix Avasant RadarView
+HFS Horizon
+ Other Accolades
+Sagility
+Leader in Revenue Cycle 
+Management (RCM)
+Leader
+Generative AI Services ISG Provider Lens
+•Analyst Blog Mention - AI Use Cases for Payment Integrity to Deliver ROI for U.S. Healthcare Payers
+•Analyst Blog Mention - AI Agents: Use -Case Examples for Health Insurers Everest PEAK Matrix
+
+=== page 8 ===
+Sagility SmarTec Nurse Assist
+Winner of Augmented 
+Intelligence awardEnterprise Innovator
+Healthcare Payer Services 
+Capabilities
+Disruptor
+Healthcare Provider Services 
+Capabilities•Leaders Quadrant in Intelligent Payer Operations
+•Leaders Quadrant in Payer Operations
+•Major Contender in Clinical CCM Services
+•Major Contender in UM Services
+•Major Contender in Payment Integrity Services
+•Major Contender in BPaaS  Payer Operations
+•Major Contender & Star Performer in RCM
+Everest PEAK Matrix Avasant RadarView
+HFS Horizon
+ Other Accolades
+Sagility
+Leader in Revenue Cycle 
+Management (RCM)
+Leader
+Generative AI Services ISG Provider Lens
+•Analyst Blog Mention - AI Use Cases for Payment Integrity to Deliver ROI for U.S. Healthcare Payers
+•Analyst Blog Mention - AI Agents: Use -Case Examples for Health Insurers Everest PEAK Matrix
+
+=== page 9 ===
+•Benefit Configuration
+•Member Acquisition
+•Member Enrollment
+•Member engagement
+•Premium billing & 
+reconciliation•Provider Credentialing/ Re-credentialing
+•Provider Enrollment
+•Contract Loading
+•Fee Schedule management
+•Provider Engagement
+•Provider Data 
+Management•Prospective (Prepay)
+•Retrospective (Post 
+Pay Audits)
+•Financial investigation review (SIU)
+•Clinical & Coding Audit
+•Recovery & Reconciliation •Clinical Triage
+•Utilization 
+Management
+•Case Management
+•Quality, HEDIS/Star 
+Rating
+•Disease  management
+•Health and Wellness 
+Solution•Claims Intake
+•Prior Authorization
+•Initial Claims
+•Rework and repricing
+•Appeals & Grievances•Benefit verification
+•DME & Lab Provider 
+order speciality
+•Claims & Coding 
+review
+•Zero Balance Accounts
+•Clinical and Coding Denials
+•AR safety net
+•Underpayment recoveryMember
+Lifecycle 
+ManagementProvider
+Lifecycle 
+ManagementPayment
+IntegrityClinical
+UM/CMClaims
+ManagementProvider RCMPayer & PBM PracticesProvider
+Practice
+•Business Unit Assessments
+•Cost Containment•Implementation / Migration support
+•Gen AI  & Agentic AI deployments •Managed Platform Services 
+•GCC support & servicesConsulting + Technology Services
+Synchrony Lifecycle: AI -led Orchestration 
+of Operational WorkflowsManaged Services MLR Reduction Solutions
+=== page 10 ===
+
+=== page 11 ===
+One Big Beautiful Bill•Signed in July 2025, this legislation includes significant Medicaid spending reductions and 
+related policy changes affecting eligibility, financing, and program operations. 
+•This could potentially result in drop in membership in Medicaid heavy plans.
+Rising Medicare
+Utilization & CMS Rates•CMS CY 2027 Advance Notice signals near- flat MA rates. If finalized, flat payments amid 
+rising utilization may squeeze margins.
+Growing Adoption of
+Generative & Agentic AI•GenAI is gaining ground though adoption is much slower in a highly regulated industry like healthcare. Domain expertise will be a key differentiator to driving meaningful outcomes.
+•CMS emphasizes the responsible use of technology and AI by ensuring strong privacy 
+protections, maintaining human oversight in care decisions, and continuously monitoring 
+tools for accuracy and safety.
+ACA Subsidy Expiration•Premium shock due to increase in out- of-pocket premiums is resulting in decline in total 
+enrollment. 
+•As of Jan 2026, there was 29% decline in new consumers and 3.4% decline in total 
+enrollment in 2026 vs 2025.
+Tariffs•With the February 20th US Supreme Court ruling, more uncertainty.  No direct impact to our 
+business.
+H-1B Policy•H-1B policy changes can materially affect service delivery firms supporting payers by 
+tightening onshore skilled labor supply and increasing wage pressure. However, Sagility does not rely on the H -1B program.While some payers will face 
+revenue headwinds, almost all payers face rising utilization -
+driven medical cost pressure, regulatory complexity, and membership volatility. 
+Margin protection will require 
+, 
+, 
+, and 
+focused 
+initiatives
+=== page 12 ===
+82%87%
+84%88%
+82%88%
+83%88%86% 87%
+81%88%86%90%93%
+89%
+83%88% 89%90% 91%90%
+84%92%
+UHC Humana CVS Aetna Elevance Cigna HC CenteneMLRs are continuing to rise 
+for top payers resulting in 
+depressed margins
+Margin recovery, cost discipline, and utilization management are key priorities across payers.
+Payer 2026 Management Focus
+United 
+HealthCareMargin recovery
+Humana5-Star focus and exiting 
+unprofitable plans
+CVS Aetna Improving utilization
+ElevanceRealign cost structure, improve 
+margin consistency 
+Cigna Focus on PBM business
+Centene Margin improvementLooking ahead, we expect our broader 
+transformation efforts to increasingly impact results beginning this year. This includes expanding outsourcing capabilities, simplifying and standardizing processes, and leveraging technology and automation .
+- Humana CFO, Q4 2025As part of our efforts to address elevated trend and funding cuts , we planned for some Medicare Advantage 
+membership contraction in 2026. We now expect UHC Medicare Advantage contraction will be in the range of 1.3 million to 1.4 million members for the full year…These are greater losses than originally anticipated, as competitive market dynamics drove higher than expected plan shopping during the intensely competitive Annual Enrollment Period. 
+- UHC CEO, Q4 2025
+70% of our portfolio, Cigna Healthcare and 
+Specialty & Care Services, remains well 
+positioned for growth in 2026 and beyond. 
+And to future -proof our company within 
+our Pharmacy Benefit Services, we continue to take significant actions.
+- Cigna CEO, Q3 2025As a reminder, we expect the increase 
+between first quarter and fourth 
+quarter MBR  to be approximately 850 
+basis points in 2026, which is slightly 
+steeper than the initial expectations 
+we provided for 2025.
+- Aetna CFO, Q4 2025
+We continue to view 2026 as a trough year . We expect our 
+Medicaid operating margin to be approximately negative 
+1.75%, with improvement over time as rates incorporate more current experience and our actions take hold.
+- Elevance CEO, Q4 2025Overall, we remain focused on driving 
+margin improvement across the 
+enterprise and delivering EPS growth in 2026…  We have incredible runway ahead of us in the form of operational improvements, efficiency gains, and margin expansion. 
+- Centene CEO, Q3 2025● CY22   ●  CY23   ●  CY24   ● CY25
+=== page 13 ===
+Despite Industry Pressures, 
+Sagility Continues to Execute and Grow
+Why and how we are growing
+Significant cost 
+pressures for clients•Look to take advantage of lower cost with partners
+•Urgency to look at even lower volume functions
+•Our domain expertise and one of the most expansive service 
+capabilities is a plus
+Proven results and 
+credibility at scale•We have shown results for over 15 years for these clients
+•Transition timelines are short as we understand their business and 
+their systems/processes
+Transformation 
+capabilities•Ability to commit to cost take -out targets with no significant upfront 
+investment from clients
+•Capabilities across process reengineering, automation including the 
+use of GenAI and platform -based point solutions along with deep 
+domain expertise is a differentiator
+Open to different 
+business constructs•Expand scope on existing SOWs or enter into  similar SOWs with price 
+reduction commitments
+•Commit to outcome based or variable cost models based on 
+membership ( pmpm ) that factors cost reduction goals
+Growth is diversified and resilient, driven by 
+sustained YoY expansion in our Top 5 payers*
+Supported by accelerated growth 
+in the rest of the client base$115.3M$125.9M$135.8M$130.7M$134.6M$148.7M
+Q1 Q2 Q3Top 5 Payer Groups
+$500.1M
+$129.2M$549.5M
+$166.0M
+Top 5 Other Clients*● FY25    ● FY26▲  13.3% ▲  6.9% ▲  9.5%
+▲ 9.9%▲  28.5%
+● TTM Dec 24    ●  TTM Dec 25
+*indicates Payer client groups   **excludes BroadPath  clients
+=== page 14 ===
+Streamlined and optimized 
+business processes
++Six Sigma
++SOP redesign
++Human -led optimizationProcess
+Improvement
+•Task Automation
+•Business Intelligence
+•Productivity uplift
++Point Solutions
++RPA + Analytics
++Process Mining
++DashboardsDigitalEnablementCapabilities Powering the Growth
+•Improved task automation
+•Faster Knowledge retrieval
+•Automated documentation
++Healthcare -specific CLMs
++Guardrails for Conversational AI
++Agents augmented into workflowsGenAI -Augmented 
+Operations
+Tools & Capabilities EvolutionBusiness Impact
+=== page 15 ===
+
+=== page 16 ===
+U.S. Healthcare OperationsRegulatory Density & 
+Compliance OversightClinical Judgment 
+Embedded in OperationsComplex Stakeholder 
+Relationships 
+Fragmented Data & Legacy 
+Technology Infrastructure
+=== page 17 ===
+U.S. Healthcare OperationsRegulatory Density & 
+Compliance Oversight
+
+=== page 18 ===
+Health Insurance Portability
+and Accountability Act
+Patient privacy and data protection
+Affordable Care Act
+Coverage mandates and insurance 
+market rules
+False Claims Act
+Fraud, waste, and abuse enforcementMajor Regulatory Frameworks
+Centers for Medicare & 
+Medicaid Services (CMS)Key Oversight Agencies
+State Regulatory Agencies 
+(DOI, DOH, etc.)Office of Inspector General
+Healthcare is Governed by Multi -Layer Regulatory Oversight
+Healthcare decisions must 
+be auditable, explainable, 
+and compliant, limiting 
+fully autonomous AI decision -making .Implication
+=== page 19 ===
+U.S. Healthcare OperationsClinical Judgment 
+Embedded in Operations
+
+=== page 20 ===
+Whole -Person Context
+Market -Driven GuidanceRegulatory Accountability
+Strategic Risk Mitigation
+Human intervention prevents the 
+automated biases that trigger costly parity violations and ensures equitable access to behavioral health.Clinicians navigate the friction of modern consumer choice, bridging the gap between patient preference and medical 
+necessity.Experts decode the complex interplay of 
+genetics, social barriers, and personal 
+goals that algorithms inevitably overlook in patient care.CMS mandates that care decisions remain explainable and reviewable, ensuring that technology cannot legally override human-led medical necessity standards.Healthcare administrative processes require clinical interpretation.
+Many healthcare 
+processes depend on 
+clinical judgment and 
+interpretation, requiring augmented (HITL) v /s 
+autonomous AI models.Implication
+=== page 21 ===
+U.S. Healthcare OperationsComplex Stakeholder 
+Relationships 
+
+=== page 22 ===
+Healthcare Payments Are Governed by Complex Payer -Provider Contracts
+Multiple Stakeholder 
+Incentives
+Complex Payer/Provider 
+Contracts Operational Friction
+Across Parties
+Limited System
+Awareness
+Low understanding across the 
+population makes healthcare harder to navigate and resolve.Negotiated terms and benefit -specific 
+variations create thousands of unique payment rules.Payer, provider, plan sponsor and member 
+decisions all shape cost, reimbursement 
+and payment outcomes.Interoperability gaps and handoff issues 
+slow payment decisions and extend issue resolution timelines.
+Payment decisions rely on 
+contract -specific financial 
+logic, requiring ecosystem level knowledge to precisely deploy AI.Implication
+=== page 23 ===
+U.S. Healthcare OperationsFragmented Data & Legacy 
+Technology Infrastructure
+
+=== page 24 ===
+Complex Legacy Platforms
+Restricted Access and 
+GovernanceDisparate Systems of Record
+Data Movement Across 
+Enterprises
+Information must move across payers, providers, 
+PBMs, labs and other partners, creating additional handoffs and dependencies.HIPAA, consent requirements and data -
+sharing controls limit access, making orchestration of AI agents more complex.Claims, membership, billing and clinical 
+workflows often run on aging systems that 
+are costly and difficult to modernize.Provider, member, clinical and operational data are maintained across separate systems, requiring constant reconciliation.Healthcare operations rely on disconnected legacy platforms and 
+fragmented data flows across the ecosystem.
+Fragmented legacy 
+systems limit the impact of 
+advanced AI, requiring 
+deep client ecosystem knowledge and domain expertise to deploy 
+solutions effectively.Implication
+=== page 25 ===
+
+=== page 26 ===
+U.S. Healthcare OperationsRegulatory Density & 
+Compliance OversightClinical Judgment 
+Embedded in OperationsComplex Stakeholder 
+Relationships 
+Fragmented Data & Legacy 
+Technology Infrastructure
+=== page 27 ===
+Sagility’s Unique PositionRegulatory Density & 
+Compliance OversightClinical Judgment 
+Embedded in OperationsComplex Stakeholder 
+Relationships 
+Fragmented Data & Legacy 
+Technology Infrastructure
+Human -Centered,
+AI-Embedded 
+Operating ModelDeep Clinical  and 
+Regulatory Knowledge of 
+Payer + Provider Ecosystems Flexible Pricing Based on Outcomes Proprietary Tech & AI 
+Solutions  + Curated 
+Partnership Ecosystem
+=== page 28 ===
+Capabilities Powering the Growth
+Streamlined and optimized 
+business processes
++Six Sigma
++SOP redesign
++Human -led optimization•Task Automation
+•Business Intelligence
+•Productivity uplift
++Point Solutions
++RPA + Analytics
++Process Mining
++Dashboards•Improved task automation
+•Faster Knowledge retrieval
+•Automated documentation
++Healthcare -specific C LMs
++Guardrails for Conversational AI
++Agents augmented into workflowsProcess
+ImprovementGenAI -Augmented 
+OperationsDigitalEnablement
+Tools & Capabilities EvolutionBusiness Impact
+=== page 29 ===
+Streamlined and 
+optimized business processes
++Six Sigma
++SOP redesign
++Human -led 
+optimization•Task Automation
+•Business Intelligence
+•Productivity uplift
++Point Solutions
++RPA + Analytics
++Process Mining
++DashboardsCapability Evolution:
+Fueling Strategic Market Expansion
+•Improved task 
+automation
+•Faster Knowledge retrieval
+•Automated documentation
++Healthcare -specific 
+CLMs
++Guardrails for Conversational AI
++Agents augmented into workflowsProcess
+ImprovementRapid process transformation 
+with Human + AI working model.
+•SmarTec AssistNurse, Appeals etc.
+•SmarTec AgentsBenefits, Eligibility etc.
+•SmarTec WorkmatesRecruiter, Trainer, Coach etc.
++Healthcare -specific 
+CLMs
++Multi -Agent orchestration
++HITL structureAgentic AI -Embedded 
+Operations
+AI-led Workflow 
+Orchestration delivering Enterprise -wide impact.
+•Synchrony Lifecycle model:  Medicare, UM, 
+Claims, PI etc.
+•Customized for client’s ecosystem
+•Faster time to market
+•MLR Impact
++AI-led orchestration
++Single Window Accountability
++Outcome based pricingLifecycle
+Operations
+GenAI -Augmented 
+OperationsDigital
+Enablement
+Tools & Capabilities EvolutionBusiness Impact
+=== page 30 ===
+Deep Domain 
+Practice & Solutions
+•Managed Services model
+•Payer -PBM -Provider Synergy
+•Synchrony Lifecycle Operations
+•MLR Reduction: 
+Clinical SolutionsTech -led Transformation & 
+Partnership ecosystemStrategic Market 
+Expansion
+•Domain -rich tech solutions
+•SmarTec, AI -embedded 
+platforms 
+•Synchrony, Agentic AI- led 
+orchestration platform
+•Curated partnership ecosystem•Continued expansion within top accounts
+•Expand into small & mid -market
+•New service offerings across clients & prospects
+=== page 31 ===
+Roopam Narayan
+Executive Vice President, 
+Practice & Solutions
+=== page 32 ===
+Deep Domain Expertise Driving Growth
+Client Outcomes Sagility Outcomes
+Managed Services / 
+Structured Deals •Committed Savings at Enterprise Level
+•Speed to Value: Accelerated Outcomes
+•No-Black -Box: Transparent Models, Often 
+leverages Sagility’s incumbency•Scope addition of previously client retained 
+onshore delivery
+•Control over automation projects
+•Breaks the linearity with FTE costs / price 
+Synchrony Lifecycle 
+Operations•Predictable pricing (PMPM) across IT and Ops
+•Speed to Value: Accelerated Implementation
+•Future -proof and Compliant (including underlying 
+platform) •Transformed mid -market business with AI -Led 
+Operations Lifecycle model
+•Higher wallet share as scope is end-to -end 
+including underlying platform tech services
+•Highly sticky model – can survive M&A activities 
+we often see in mid -market 
+MLR Reduction: Clinical Solutions•Fixed cost/ PMPM Solutions driving medical cost 
+impact, across care continuum
+•Focus on Member health outcomes – improves 
+HEDIS Quality measures
+•Medicare: Revenue growth with higher stars •Take market -share from “traditional” contingency 
+based UM players 
+•Blend our key assets (Medical policies, Clinical Resources, SmarTec assets, Platforms and Partners) for higher revenue and margins 
+=== page 33 ===
+$5.5M
+Other Vendors(s)
+$6.0M
+Existing Sagility$13.5M
+Client in House
+$20M
+Sagility
+Managed Services
+with a 5yr team Client Outcomes
+•Committed Savings of $25M (5 years)
+•Speed to Value: Savings from Day -1
+•No-Black -Box: Transparent Model, driven by 
+Sagility as a trusted partner with 10+ years 
+incumbency
+Sagility Outcomes
+•Additional $70M of committed revenue (~3.5x)
+•Breaks the linearity with FTE / Transaction costs
+•Leverages “Payer -Provider Synergy” and 
+precision in AI  augmentation for  improved 
+margins 25M 20MExample of a current deal:
+Scope Provider Data, Claims, Provider Calls for a line of business  
+=== page 34 ===
+High MLR
+OutcomesSolutionsOutcome Focused Utilization Management
+•Committed Medical Impact with Fixed costs for 
+plan (volume variations by ARCs/RRCs)
+•Leverages partnerships like Availity(digital front -door and Auth AI)
+•Differentiated from  Traditional Medical Risk based modelCare Continuum: Quality, Stars, & Care Coordination
+•Quality focused offerings for preventative care -
+coordination and Behavioral Health support
+•Examples of highly specialized offerings are:
+–Post Acute Care and Aging in Place
+–Uncontrolled Diabetes and Hypertension
+•UM offerings provide similar medical cost impacts as Traditional model companies with more educative approach 
+rather than the unpopular punitive control/denial of procedures & claims
+•Integrated Care Offerings (Care Continuum) break silos in the health-plan organization, delivering better health outcomes at lower care -coordination spend
+•Improved member and provider engagement: likely to result in better VoC  and CMS CAHPS surveyRise in Consumerism
+•GLP -1 drugs
+•Genetic Testing
+•Backlash against claims/ 
+procedure denial)Population Complexities
+•Elderly population increase
+•Uptick  in Behavior Health services 
+•Increase in Noise and 
+misinformation (like vaccines)Regulatory Interventions
+•UM Process (Augment AI and make 
+more transparent)
+•CMS changes for Star measures
+•Ongoing regulatory updatesDriver for growth in current year and has a large growth headroom for next 3 -5 years:
+=== page 35 ===
+Components
+OutcomesSolutions•Synchrony  Medicare Advantage Lifecycle  (part of E&B)
+•Synchrony  Claims Lifecycle
+•Synchrony Utilization Management
+•Synchrony  SmartStepTM (Aging in Place) /
+Care -Coordination with stars outcomes•Synchrony Payment Integrity
+•Synchrony Appeals and Grievances
+•Synchrony Revenue Cycle Management
+•Speed to value 
+•Reduced upfront Capex
+•Improved member and provider engagement, transaction quality and complianceAI-led 
+Orchestration Domain knowledge 
+applied end-to -end 
+workflowsCurated, 
+domain -aligned
+partner networkSophisticated
+contractual 
+arrangements
+=== page 36 ===
+Srikanth Lakshminarayanan
+Senior Vice President, 
+Healthcare Practice
+=== page 37 ===
+Payer/Provider
+Journey
+~$4.5M Cost Avoidance
+for Large Blue Plan~$5M Benefits
+for Large Commercial & Medicare National Plan$11.4M Admin Cost Reduction
+for Medicare based National Plan for CY2025Delivering Managed Services
+Through Domain- led Transformation
+Our Managed Services framework measures the operational efficiency and maturity at an enterprise level – cutting across differen t functions and 
+lines of business – toidentify gaps and implement state -of-the-artdigital solutions to cut down administrative leakage
+Domain -led
+Solutions
+Tech and AI -led
+SolutionsContracting Enrolment Billing Claims AppealsCare
+MgmtProvider 
+Mgmt
+SmarTec
+Appeals AssistHealthBridge Connect
+Payer Provider SynergyCommand Center
+Late Payment Interest Sagi360
+Claims Touch RatioNurse Assist
+Clinical Decisioning
+Robotic Process 
+AutomationIntelligent 
+Content 
+Processing AI Knowledge 
+Retrieval & 
+SummarizationPayer -Provider 
+ecosystem 
+AnalyticsAgentic AI – Claims & 
+Engagement 
+automation
+Client 
+Benefits
+=== page 38 ===
+
+=== page 39 ===
+Powered 
+by
+AI-led workflow 
+orchestration of Medicare 
+Advantage Lifecycle Operations  that brings 
+together partner ecosystem 
+across MA plan design, CMS filing, launch, member acquisition, enrollment, billing, reconciliation, and member support.Lifecycle Operations
+•Faster, credible, scalable plan design, launch to member acquisition for small and mid -market MA 
+plans.
+•Unifies fragmented point solutions into one compliant workflow, for modular or end -to-end adoption by MA 
+plans.Value to Clients
+•Leverage client relationships for modular or end -to-end 
+positioning.
+•Target small and mid -market MA plans through coordinated 
+sales, marketing campaigns, brand positioning and events.Go-to-Market Approach
+•Strategically leading the design and execution of future -state 
+operating models.
+•Drives MA new -logo and cross -sell growth through 
+established partner ecosystem relationships.Strategic Value to Sagility
+=== page 40 ===
+
+=== page 41 ===
+Krithika Srivats
+Senior Vice President,
+Clinical Practice
+=== page 42 ===
+Abigail DeYoung
+Age: 67
+Location: Santa Monica, CA
+Language: English 
+•Severe Low back Pain, Affecting mobilty
+•Numerous consultations with little to no relief
+•She s diabetic and has hypertension
+•Transportation challenges 
+•Lives alone in a two -story home
+•Financial issues affecting timely care
+•Multiple Prior Auth required for MRI, pain 
+injections, surgery PT and DME.
+•An average of 17 calls to get needed careProblems + The Numbers
+•Typical cases require 2-3 years of ongoing care
+•6-12 weeks average time to getting each episode
+•>$43,000- $75,000 for her treatment
+•Over 75M  of such Abigails needing care 
+•$1.2T Avg yearly cost of managing Medicare members
+Inefficiencies
+•100,000 nursing hours on prior authorization each year
+•~60% of requests are submitted via fax or phone
+•<25% of submissions are timely  and accurate
+•Average time to accurate and needed care is 7 days
+=== page 43 ===
+MLR reduction from redesigned UM process:  
+Human Expertise Meets Algorithmic Precision to Reduce Waste in Healthcare
+Prior Authorization Workflow - MLR Reduction $200 – $300B opportunity
+Outcomes 
+•Improve timeliness and access to care - 2-3 days
+•Enhance provider and member experience
+•Reduce unnecessary utilization
+•Increase clinical operational efficiency  by 25-35%
+•Lower overall costsAI-Enabled
+Decision 
+Making Provider submitsprior auth request  for
+L2-L5-LumbarexctomyCase is routed for clinical reviewCase fails initial criteriaand is escalated for physician review - Downgraded –
+Approved L4 -L5
+Deferred L2 -L4Portal triggersreal -time clinical 
+questions
+•Availity portal request submission
+•Automated Fax Intake Nurse Assist streamlines 
+clinical review process, improving efficiency and reducing nurse review 
+time by 10 -12 minutes Agentic AI
+Summarizes Calls Automated Notifications
+UM 360 Ecosystem Large Enterprise Mid Market
+Sagility Medical Policies - ●
+Sagility Analytics ● ●
+Availity Portal ● ●
+Availity Authorization ● -
+Elligint  - ●
+Other niche point solutions ● ●Abigail gets her care approval in 3 days; Reduced  unnecessary care and hence medical spend by 10%
+=== page 44 ===
+Integrated Solutions Across the Care Continuum
+Diabetes & Hypertension 
+ManagementEx- Post Acute Care 
+Utilization ManagementCare Management and Complex Case ManagementSmart Step - Home safety, functional 
+independence addressing falls, dementia, and caregiver preparednessAfter her back surgery, Sagility Gen AI and predictive models identified the right post -operative support,
+enabling a safe discharge home with appropriate equipment, therapy, follow -up care, and home health services.
+Preventive Measures 
+(HEDIS )Post Discharge Integrated UMLong Term 
+Resilience
+Lower SNF utilization and 
+diagnostic costs with 15%+ medical cost savings Enhanced star ratings across impacted measures 30% Lowerre-admissions 5x ROI and 12% –18%
+lower long -term spend 
+=== page 45 ===
+Utilization Management Bundled Service (Case Payment)
+    Utilization Management            
+            Aging in Place (CM) Intervention
+0.8
+($ 39.5K /  $ 47.3K)
+HH Services: $12.7K1.1
+($ 24.0K / $ 22.0K)
+HH Services: $10.6K+ $5.1 Million 
+(15%)
+3248 756
+3.6
+($ 15.7K / $ 4.4K)
+HH Services: $7.7K
+5135 2007+ $ 9.9 Million 
+(25%)0.5
+($ 63.3K / $ 121.3K)
+HH Services: $15.4K
+2912 156+ $ 7.4 Million 
+(34%)
+1800 45+ $ 1.9 Million (8%)
+FRAILTY+ $ 24.4 Million
+(16.7%)BH
+BH + Non -Frail
+BH + Frail NBH + FrailNBH + Non -frailNon BH
+=== page 46 ===
+
+=== page 47 ===
+Case Study | SmarTec Nurse Assist
+Care delays tied to prior 
+authorization.
+Clinicians were overwhelmed by 
+administrative work. 
+•Delays in treatment
+•Resource -intensive manual 
+reviews
+•Compliance risks
+•Administrative fatigue
+•Increased Operational Cost Issue
+SmarTec  Nurse Assist 
+transformed t through an agentic ecosystem of automation and clinical intelligence. 
+Core features:
+•Automated review 
+assistance
+•Clinical documentation improvement (CDI)
+•Resource optimizationActionImpact
+25-35% reduction in clinician workload
+80% boost in quality
+Improved Compliance
+with 96% AI accuracy overall and 100% accuracy with AI -assisted reviews
+18 hr faster care delivery
+Winner in the 2026
+Augmented Intelligence Awards
+presented by the
+Business Intelligence Group
+=== page 48 ===
+
+=== page 49 ===
+Optimized Utilization 
+ManagementPersonalized Care Coordination at Scale Whole -Person
+Risk ProfilingTargeted Omni -Channel
+InterventionsA proactive path to maintain 
+independence at home.
+Multidisciplinary
+Multidomain
+Whole Person Care
+12%
+Reduction in
+ER visits18%
+Reduction in
+frailty -related claims10 Direct
+Star Measures
+8 Indirect
+Star Measures22%
+Reduction in 
+unnecessary inpatient 
+admissions98%
+of active participants 
+made changes to 
+improve resilience87%
+Member
+Satisfaction
+=== page 50 ===
+Madan Moudgal
+Executive Vice President, 
+Chief Digital OfficerRam Mohan Natarajan
+Senior Vice President, 
+Business Transformation
+=== page 51 ===
+Technology & AI Investment Strategy
+Where enterprise systems are required, Sagility pursues 
+a partnership- first strategy with trusted vendors.Sagility builds domain -rich, reusable, configurable 
+components that enhance enterprise technology and 
+accelerate solution development across use cases.Partnering for
+Enterprise SystemsModular Solutions
+=== page 52 ===
+Developed in an environment governed by controls that are SOC2 and HiTrust  compliant.Years of investment across multiple waves of technology have created a rich portfolio of 
+assets designed for distinct industry needs.
+Domain Specific Data 
+Models
+•Member data model
+•Provider data model
+•Claim data model
+GenAI Based Autonomous Agents
+•Conversational Agents
+•Knowledge Retrieval Agents
+•FWA Identification Agents
+•Medical Record Summarization 
+Agents
+•Claims Adjudication AgentsPredictive Models & 
+Advanced Analytics
+•Propensity Models
+•Overpayment Prediction
+•Underpayment Prediction
+•Risk Scoring Algorithms
+•Population Stratification
+Business Intelligence Dashboards
+•Sagi360 - Provider Interactions 
+Dashboard
+•CX360 - Engagement Services
+•SensAI  - Audit & Analytics
+•LPI Dashboard - Late Payment 
+InterestPoint Solutions & Platforms
+•Member Enrollment 
+•Provider Credentialing 
+•Member Engagement
+•Payment Integrity
+•Revenue Cycle Management
+Frameworks & Accelerators
+•Communications Mgr.
+•Document Processing Engine
+•Medical Records Manager
+•Sagility Agent Execution 
+Framework - SAGEAutomation Bots
+•Claims processing
+•Benefit configuration
+•Appeals management
+•Provider Data Management
+•Correspondence Generation
+Interoperability
+•HealthBridge Connect
+•EDI transactions manager
+•SFTP manager
+•FHIR compliant APIs
+=== page 53 ===
+Developed in an environment governed by controls that are SOC2 and HiTrust  compliant.Years of investment across multiple waves of technology have created a rich portfolio of 
+assets designed for distinct industry needs.
+Domain Specific Data 
+Models
+•Member data model
+•
+•
+GenAI Based Autonomous Agents
+•
+•Knowledge Retrieval Agents
+•
+•
+•Predictive Models & Advanced Analytics
+•
+•Overpayment Prediction
+•
+•
+•
+Business Intelligence Dashboards
+•
+•
+•
+•LPI Dashboard - Late Payment 
+InterestPoint Solutions & Platforms
+•
+•
+•Member Engagement
+•
+•
+Interoperability
+•HealthBridge Connect
+•
+•
+•Frameworks & Accelerators
+•Communications Mgr.
+•
+•
+•Automation Bots
+•Claims processing
+•
+•
+•
+•
+=== page 54 ===
+Strategic
+Platform Partners
+SI Partners
+Capabilities 
+Partners
+Hyperscale 
+Partners
+
+=== page 55 ===
+Agentic AI and Human Synergy  
+System of Engagement
+System of
+Engagement
+SmarTec
+AgentHuman
+Interaction 
+Platforms
+Analytics and Monitoring, Insights, ControlSystem of Record 
+Members and Providers
+Health Plan Ops,
+Leadership, Strategy TeamsValue of Synergy
+•Single point of responsibility
+•Choose best of breed components
+•Speed of execution with Operations and 
+Technology teams under one roof
+•Total alignment – All focused on  NPS and 
+efficiency – no tech for the sake of tech
+Deployment Use Cases
+Verification of 
+Insurance/BenefitsClaims 
+StatusOutbound Status 
+CallsUM IntakeHealth Risk 
+AssessmentProvider Verification
+General Member Info Appeals StatusPatient Balance /  
+CollectionsUM StatusWorker’s Comp 
+Provider SupportAccounts – Recv 
+Follow -up
+=== page 56 ===
+Clinical 
+GuidelinesClinical Review
+Auth 
+Approval
+Or
+Rejection
+DecisioningMedical Necessity 
+ManagerA Factory or Assembly Line of Agents and Humans working together harmoniously
+Prior Auth
+DocOrchestrator
+Faxed in Prior Auth contains:• Authorization Form
+• Medical Record
+Medical RecordMedical Records 
+ManagerMR
+Extractor
+OCR
+NLPPatient Journey 
+BuilderSummarizer
+AnnotatorNurse ReviewAnatomy of an Agent
+•Data Structure
+•Business Logic
+•Prompts
+•Directives
+•GuardrailsCase
+ExtractorCase Generator
+SummarizerCare Management 
+SystemAuthorizer
+Outreach AgentOCR
+NLP
+Case Creation
+Eligibility Verifier
+=== page 57 ===
+Admin Cost Benchmarking 
+for Payers
+$80 to $100
+Avg. blended admin cost to process each 
+appealed claim for payers
+~$2.5B
+Annual appeals management cost by US payer industryAdministrative Burden 
+Appeals are 3x more expensive to manage than straight -
+thru claims resulting in significant cost leakage and 
+productivity impact due to rework.
+Star Rating Reduction 
+Consistent growth in Appeal volume can lead to compliance and regulatory risks which directly impact a plan’s star ratings.
+Provider Abrasion
+Appeals lead to higher claim processing cycles resulting in increased friction in payer -provider relationship. G&A is a significant function for any payer since it can impact a payer in multiple ways – administrative cost leakage, operatio nal 
+inefficiencies but more importantly can directly impact key stakeholder relationship and experience – providers and members.
+Potential Business Impact
+=== page 58 ===
+
+=== page 59 ===
+Chris Shiffert
+Executive Vice President, 
+Chief Growth Officer
+=== page 60 ===
+Continued Expansion 
+within Top Accounts
+•Build on legacy client 
+retention rate, accelerate service expansion
+•Expansion opportunities amongst our 7 national plan clients
+•Leverage early success developing new business models with existing clients01
+New Service Offerings 
+Across Clients & Prospects
+Build adjacent healthcare 
+capabilities that extend into new revenue streams.
+•Member Acquisition 
+•E2E Payment Integrity 
+•HEDIS Abstraction
+•Star Ratings
+•Synchrony, AI- led 
+orchestration 03
+Expand Small
+& Mid -Market  Accounts
+Expand current capabilities into 
+small and mid -market clients 
+(Acquired through BroadPath )
+•Member & Provider Lifecycle Management
+•Claims Management
+•Clinical UM/CM
+•Payment Integrity02
+Pipeline Accelerators Advisors •      Analysts      •     Ecosystem/Solution Partnerships     •     Consulting -led Deals
+=== page 61 ===
+25
+Years of Experience
+in Healthcare 7
+of the top 10
+payers served18
+Average Client
+Tenure in Years97%
+Client
+Retention Rate
+Managed Services 
+Workflow SolutionsCaptive/GCCBuild -Operate- TransferMLR Reduction SolutionsContinued Expansion within Top Accounts
+•Build on legacy client 
+retention rate, accelerate service expansion
+•Expansion opportunities amongst our 7 national plan clients
+•Leverage early success developing new business models with existing clients01
+Top 
+AccountsMember LCM Provider LCMClaims
+ManagementClinical
+UM/CMPayment
+Integrity
+Client 1  ● ●  
+Client 2  ●   ○
+Client 3  ● ●  
+Client 4   ○ ○ 
+Client 5   ○  ○
+Client 6 ○ ○ ○ ○ 
+Client 7  ○ ○ ○ ○
+=== page 62 ===
+Expand into Small & 
+Mid -Market 
+Expand current capabilities 
+into small and mid -market 
+clients (Acquired through BroadPath)
+•Member & Provider Lifecycle Management
+•Claims Management
+•Clinical UM/CM
+•Payment Integrity02
+$129.2M$166.0M
+TTM Dec 24 TTM Dec 25▲  28.5%
+4.6% (3 Clients)4.6% (3 Clients)7.7% (5 Clients)20%  (13 Clients)63%  (30 Clients)
+All 5 Practices4 of 53 of 52 of 5Only 1 Practice30
+Accounts Through 
+the BP Acquisition13
+New Logos in FY26Existing BP Client Portfolio
+and New Logo Mid -Market Clients
+Mid -Market Clients
+=== page 63 ===
+New Services
+Build adjacent 
+healthcare capabilities that extend into new revenue streams.
+•Member Acquisition 
+•E2E Payment Integrity 
+(through DCI)
+•HEDIS Abstraction
+•Star Ratings
+•Synchrony, AI -led 
+orchestration 03Medicare Acquisition
+•Medicare 
+Advantage
+•Med Sup
+•Medicare Part D
+•Under 65Synchrony
+•Synchrony Medicare Advantage Lifecycle 
+•Synchrony Claims Lifecycle
+•Synchrony Payment Integrity
+•Synchrony Utilization Management
+•Synchrony Appeals and GrievancesE2E Payment Integrity 
+•Prospective (Prepay)
+•Retrospective (Post Pay Audits)
+•Financial investigation review (SIU)
+•Clinical & Coding Audit
+•Recovery & ReconciliationHEDIS + Stars 
+Quality + performance 
+measures that drive top line revenue to payer clients 
+=== page 64 ===
+
+=== page 65 ===
+Raise hand to ask a question.
+Once the microphone has been handed to you, 
+please announce your full name and institution, 
+followed by your question.01
+02
+=== page 66 ===
+
+=== page 67 ===
+
+=== page 68 ===
+Long Term Financial performance snapshot
+Revenue ($M) FY25 YoY% TTM Dec YoY%
+14.9% 22.6%Adjusted EBITDA* 
+($M)FY25 YoY% TTM Dec YoY%
+25.9% 22.2%Adjusted PAT($M)FY25 YoY% TTM Dec YoY%
+34.8% 39.0%
+*Adjusted  EBITDA  represents  EBITDA  adjusted  for earnouts  payable  under  the acquisition  agreements  (DCI, BirchAI, & BroadPath ), share -based  payment  awards and exclude other income (including forex gain/loss).Consistent Revenue & EBITDA growth. Reduction in interest and amortization expense driving higher PAT growth $572.9$658.3 $630.9$773.6
+FY24 FY25 TTM Dec 24 TTM Dec 25$137.8$173.6$162.9$199.2
+FY24 FY25 TTM Dec 24 TTM Dec 25$71.1$95.8$87.9$122.1
+FY24 FY25 TTM Dec 24 TTM Dec 25
+Revenue (INR Million) FY25 YoY% TTM Dec YoY%
+17.2% 27.5%Adjusted EBITDA * (INR Million)FY25 YoY% TTM Dec YoY%
+28.4% 27.0%Adjusted PAT(INR Million)FY25 YoY% TTM Dec YoY%
+37.5% 44.5%
+₹47,536₹55,699₹52,846₹67,371
+FY24 FY25 TTM Dec 24 TTM Dec 25₹11,436₹14,685₹13,651₹17,341
+FY24 FY25 TTM Dec 24 TTM Dec 25₹5,896₹8,107₹7,360₹10,634
+FY24 FY25 TTM Dec 24 TTM Dec 25
+=== page 69 ===
+Other Financial Indicators
+Adjusted EPS is Adjusted PAT divided by weighted average number of equity shares
+Adjusted ROCE is Adjusted PAT plus Interest cost divided by capital employed (Assets excluding goodwill and intangibles asset s less  current liabilities)
+Net Debt is Borrowing plus lease liabilities less Cash and Cash equivalent including investment in Mutual Fund and Deposits .  Borrowing doesn’t include accrued interestSteady Increase in Adjusted EPS. Adjusted ROCE consistent at 50%. Lower cash conversion in YTD Dec’25 due to higher DSO, Non cash  gains & taxes 1.38 1.76 2.27 
+FY24 FY25 TTM Dec 25Adjusted EPS (in INR)
+47.0%54.9%53.5%
+FY24 FY25 TTM Dec 25Adjusted ROCE %
+₹21,678
+₹10,433
+₹6,4261.9x
+0.71x
+0.37x - 0.50 1.00 1.50 2.00 2.50
+₹0₹5,000₹10,000₹15,000₹20,000₹25,000
+FY24 FY25 TTM Dec 25Net Debt
+Net Debt (in INR Million) Net Debt to Adjusted EBITDA87.2% 89.7%
+49.7%70.8%80.5%
+39.7%
+FY24 FY25 9M FY 26Cash Conversion (%)
+OCF % FCF %$260.0 M
+$122.0 M
+$71.5 M
+Net Debt in $M
+=== page 70 ===
+*Employee benefits expense excludes M&A earnout and SAR (shown separately under adjustments), 
+^ Other expenses exclude forex loss. ^^ Other income excludes forex gain. Forex Gain and Forex Loss clubbed together and show n separately.
+ ** Adjusted  EBITDA  represents  EBITDA  adjusted  for earnouts  payable  under  the acquisition  agreements  (DCI, BirchAI & BroadPath ), share -based  payment  awards and exclude other income (including forex gain/loss).Amt in USD M
+Particulars Q3 FY26 Q2 FY26 Q3 FY25 YoY% QoQ% 9M FY26 9M FY25 YoY%
+Revenue from Operation 222.0 189.4 172.0 29.1% 17.2% 591.8 476.5 24.2%
+Employee benefits expense 137.5 115.0 99.5 365.6 284.0
+Other expenses^ 26.7 24.7 23.5 75.5 67.3
+Adjusted EBITDA** 57.7 49.8 48.9 18.1% 16.0% 150.7 125.1 20.5%
+Adjusted EBITDA % 26.0% 26.2% 28.4% 25.5% 26.3%
+Adjustments:
+M&A Earnouts 0.4 1.4 1.4 3.7 4.3
+SAR (stock appreciation right) – NonCash -0.7 0.8 1.0 1.0 12.3
+Other Income (excl. Forex gain)^^ 1.0 0.7 1.2 2.3 3.4
+Forex Gain / (Loss) -0.4 6.0 4.1 6.1 3.7
+Reported EBITDA 58.5 54.2 51.7 13.1% 8.0% 154.4 115.6 33.6%
+Finance costs 2.8 2.8 3.6 8.8 11.6
+Depreciation and amortisation expenses 13.9 13.9 13.7 41.6 42.0
+Profit before Exceptional Items 41.9 37.5 34.4 21.7% 11.8% 104.0 62.1 67.6%
+Statutory impact of new labour code in India 3.8 3.8
+Profit Before Tax 38.1 37.5 34.4 10.8% 1.8% 100.3 62.1 61.6%
+Tax Expenses 8.0 8.7 8.6 23.9 19.6
+Reported Profit After Tax 30.2 28.8 25.8 17.0% 4.9% 76.4 42.5 79.9%
+EPS 0.57 0.54 0.46 23.7% 6.7% 1.42 0.78 83.7%
+Adjusted PAT 36.4 34.5 31.2 16.8% 5.5% 94.3 68.0 38.7%
+Adjusted PAT % 16.4% 18.2% 18.1% 15.9% 14.3%
+Adjusted EPS (Rs) 0.69 0.64 0.56 23.0% 7.3% 1.76 1.24 41.7%►Prescribes uniform definition of 
+wages based on which employee benefits like gratuity, leave encashment & statutory bonus are computed. 
+►Past service costs of INR 294.7M towards Gratuity and INR 33.5M towards Compensated absence reported as exceptional items in 
+Q3.
+►Ongoing impact on overall 
+Margins is likely to be 0.2% of Revenues.New Labour  Code in India 
+effective 21Nov 2025: 
+=== page 71 ===
+(USD M) FY2023 FY2024 FY2025 9M FY26
+Revenue from operations 518.2
+(INR 42,184 M)572.9
+(INR 47,536 M)658.3
+(INR 55,699 M)591.8
+(INR 51,686 M)
+EBITDA3 126.2
+(INR 10,272 M)131.1
+(INR 10,881 M)153.4
+(INR 12,979 M)146.1
+(INR 12,756 M)
+Adjustments:
+Earnouts under acquisition 
+agreements- 6.7 6.8 3.7
+Share based payment awards - - 13.4 1.0
+Adjusted EBITDA1126.2
+(INR 10,272 
+M)137.8
+(INR 11,436 M)173.6
+(INR 14,685 M)150.7
+(INR 13,164 M)
+%revenue from operations 24.4 % 24.1 % 26.4% 25.5%
+%growth9.2%
+(11.3% in INR)25.9%
+(28.4% in INR)20.5%
+(25.3% in INR)(USD M) FY2023 FY2024 FY2025 9M FY26
+Revenue from operations518.2
+(INR 42,184 M)572.9
+(INR 47,536 M)658.3
+(INR 55,699 M)591.8
+(INR 51,686 M)
+PAT17.6
+(INR 1,436 M)27.5
+(INR 2,283 M)63.7
+(INR 5,391 M)76.4
+(INR 6,670 M)
+Adjustments:
+Earnouts under acquisition agreements 
+(net oftaximpact)- 4.9 4.9 2.7
+Share based payment awards- - 13.4 1.0
+Statutory impact of new labour code 
+in India- - - 2.7
+Amortization ofother intangible assets 
+acquired pursuant tobusiness 
+combinations (net oftaximpact)38.3 38.6 13.7 11.5
+Adjusted PAT2 56.0
+(INR 4,556 M)71.1
+(INR 5,896 M)95.8
+(INR 8,107 M)94.3
+(INR 8,236 M)
+%revenue from operations 10.8% 12.4% 14.6% 15.9%
+%growth27.0%
+(29.4% in INR)34.8%
+(37.5% in INR)38.7%
+(44.3% in INR)Adjusted EBITDA Adjusted PAT
+Note : 1. Adjusted  EBITDA  represents  EBITDA  adjusted  for post -combination  expenses  in relation  to earnouts  payable  under  the acquisition  agreements  (DCI, BirchAI  & BroadPath ), and  adjusted  for post - combination  expenses  in relation  to earnouts  payable  under  the acquisition  agreements  and  
+equity classified  share -based  payment  awards  exclude other income
+2. Adjusted PAT represents restated profit/(loss) adjusted for amortization of other intangible assets acquired pursuant to b usiness combinations incl. DCI, BirchAI  & BroadPath  (customer relationships in relation to for healthcare business carveout is valued at $265 M and amortized over 16 
+years; amortization ends by Dec 2037), and for the tax impact of the above two EBITDA adjustments
+3.. EBITDA excludes other Income and forex gain/(loss)
+=== page 72 ===
+•Intangibles Amortisation (A) -  Amortization of intangible assets that got created due to carveout of healthcare business from HGS
+•Intangibles Amortisation (B) -  Amortisation for intangible assets acquired in relation to acquisitions (DCI, Birch and BroadPath ) – Ends by FY33 Amt in USD M
+Particulars FY25 FY26 FY27 FY28 FY29 FY30
+Closing Debt position 93.8 63.1
+Debt Repayment 29.4 26.7 63.1
+Interest Payment 8.9 6.1 3.2
+Share based Payment awards 13.4 1.3 1.5 0.8 0.4
+Earnouts Cost - DCI / Birch/ BroadPath 6.8 5.8 0.1
+Intangibles Amortisation (A) 16.5 16.5 16.5 16.5 16.5 16.5
+Intangibles Amortisation (B) 2.2 4.4 4.3 4.2 3.3 2.8
+=== page 73 ===
+72Amt in USD M
+Particulars Q1 FY24 Q2 FY24 Q3 FY24 Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26
+Revenue from Operation 135.8 131.9 150.8 154.4 146.6 157.9 171.9 181.8 180.4 189.4 222.0
+Employee benefits expense* 77.4 80.5 94.7 95.4 90.2 94.3 99.5 109.3 113.1 115.0 137.5
+Other expenses^ 22.9 21.6 21.4 21.2 21.5 22.3 23.5 24.1 24.1 24.7 26.7
+Adjusted EBITDA** 35.5 29.8 34.7 37.8 34.9 41.3 48.9 48.4 43.2 49.8 57.7
+Adjusted EBITDA % 26.2% 22.6% 23.0% 24.5% 23.8% 26.2% 28.4% 26.6% 24.0% 26.3% 26.0%
+Adjustments:
+M&A Earnouts 3.4 1.6 0.8 0.8 1.5 1.4 1.4 2.4 1.8 1.4 0.4
+SAR (stock appreciation right) 0.0 0.0 0.0 0.0 10.2 1.1 1.0 1.1 0.8 0.8 -0.7
+Other Income^^ 0.2 1.2 -0.1 0.1 0.4 1.8 1.2 1.1 0.6 0.7 1.0
+Forex Gain / (Loss) 1.2 2.3 -2.0 0.5 2.5 -2.9 4.1 -1.6 0.6 6.0 -0.4
+Reported EBITDA 33.5 31.7 31.8 37.5 26.2 37.7 51.7 44.4 41.7 54.2 58.5
+Finance costs 5.7 5.8 5.6 5.2 4.5 3.5 3.6 3.4 3.2 2.8 2.8
+Depreciation and amortisation 20.2 20.7 21.0 21.2 13.2 15.1 13.7 13.2 13.9 13.9 13.9
+PBT before exceptional item 7.5 5.2 5.2 11.2 8.5 19.1 34.4 27.8 24.7 37.5 41.9
+Exceptional item 3.8
+Profit before tax 7.5 5.2 5.2 11.2 8.5 19.1 34.4 27.8 24.7 37.5 38.1
+Tax Expenses 2.4 1.0 -3.3 1.5 5.8 5.1 8.6 6.5 7.2 8.7 8.0
+Reported Profit After Tax 5.2 4.2 8.5 9.7 2.7 14.0 25.8 21.3 17.4 28.8 30.2
+EPS (Rs) 0.10 0.08 0.16 0.19 0.05 0.25 0.46 0.39 0.32 0.54 0.57
+Adjusted PAT 17.3 15.1 18.8 19.9 17.3 19.5 31.1 27.8 23.4 34.5 36.4
+Adjusted PAT % 12.8% 11.5% 12.4% 12.9% 11.8% 12.3% 18.1% 15.3% 13.0% 18.2% 16.4%
+Adjusted EPS(Rs) 0.32 0.29 0.37 0.39 0.33 0.35 0.56 0.51 0.43 0.64 0.69
+*Employee benefits expense excludes M&A earnout and SAR (shown separately under adjustments), 
+^ Other expenses exclude forex loss. ^^ Other income excludes forex gain. Forex Gain and Forex Loss clubbed together and show n separately.
+ ** Adjusted  EBITDA  represents  EBITDA  adjusted  for earnouts  payable  for acquisitions  (DCI, BirchAI & BroadPath) , share -based  payment  awards and exclude other income / forex gain or loss).
+=== page 74 ===
+73Amt in USD M
+Particulars Dec 25 Mar 25
+Property, plant and equipment 46.7 43.3
+Capital -work -in-progress 0.0 0.0
+Right -of-use assets 55.4 64.6
+Goodwill 691.1 706.0
+Other intangible assets 221.3 238.1
+Trade receivables and Unbilled 184.3 148.1
+Cash and cash equivalents 64,4 40.2
+Deferred tax assets (net) 16.4 15.6
+Other Assets 39.1 36.1
+Total Assets 1,318.8 1,292.0
+Equity 1,022.7 974.6
+Borrowings 76.8 95.5
+Lease liabilities 60.5 68.4
+Trade payables 22.7 25.0
+Deferred tax liabilities (net) 43.9 50.0
+Other Liabilities 92.2 78.5
+Total Liabilities 1,318.8 1,292.0
+=== page 75 ===
+74Amt in USD M
+Particulars 9M FY26 FY25
+Profit before tax for the period/ year 99.8 89.8
+Adjustment for Non -Operating and Non -Cash items 45.4 82.5
+Adjustment for working capital (30.5) -8.4
+Income taxes paid (net of refunds) (37.9) -20.5
+Net cash flows generated from operating activities (A) - OCF 76.8 143.5
+Addition to Fixed Assets (15.4) -14.7
+Free Cash flow (FCF) 61.4 128.8
+Cash paid for M&A - -57.0
+Pending Purchase consideration paid for healthcare business carveout - -44.4
+Investment in Mutual fund and Fixed Deposit (46.1) -
+Others 1.7 2.2
+Net cash flows (used in) investing activities (B) (59.8) -114.0
+Capital infused by promoter - 43.8
+Share Issue expense (paid)/ reimbursed - 0.9
+Dividend Paid (2.7)
+Repayment of Promoter borrowings (include Interest) (19.4) -54.0
+Repaymentof  lease liabilities (include Interest) (15.7) -21.0
+Net cash flows (used in) financing activities (C) (37.8) -30.3
+Net increase/ (decrease) in cash and cash equivalents (A+B+C) (20.9) -0.7
+Cash and cash equivalents at the beginning of the year/period 40.2 41.3
+Effect of movement in exchange rates on cash and cash equivalents (0.4) -0.3
+Cash and cash equivalents at the end of the year/ period 18.9 40.2
+Net cash flows generated from operating activities % (OCF on Reported EBITDA) 49.7% 89.7%
+Free Cash flow % (FCF on Reported EBITDA) 39.7% 80.5%
+=== page 76 ===

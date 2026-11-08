@@ -1,13 +1,13 @@
 symbol,kind,label,url,file,text_file,pages,status,fetched
-PAYTM,presentation,Oct 2026,https://paytm.com/document/ir/financial-results/Paytm_Earnings-Presentation_Q2-FY-2027_INR.pdf,2026-10_presentation.pdf,2026-10_presentation.txt,20,ok,2026-11-08
-PAYTM,presentation,Jul 2026,https://paytm.com/document/ir/financial-results/Paytm_Earning-Release_Q1-FY-2027.pdf,2026-07_presentation.pdf,2026-07_presentation.txt,18,ok,2026-11-08
-PAYTM,presentation,May 2026,https://nsearchives.nseindia.com/corporate/PAYTM_06052026202426_EarningsRelease.pdf,2026-05_presentation.pdf,2026-05_presentation.txt,20,ok,2026-11-08
-PAYTM,presentation,Feb 2026,https://paytm.com/document/ir/financial-results/fy2025-26/Paytm_Earnings_Presentation_Q3-FY26_INR.pdf,2026-02_presentation.pdf,2026-02_presentation.txt,20,ok,2026-11-08
-PAYTM,presentation,Nov 2025,https://nsearchives.nseindia.com/corporate/PAYTM_04112025215154_Reg30_Earnings_Release_FY26_Q2_OCL_sd.pdf,2025-11_presentation.pdf,2025-11_presentation.txt,17,ok,2026-11-08
-PAYTM,presentation,Jul 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=390a147e-db05-46a4-8195-fb46f7f420c0.pdf,2025-07_presentation.pdf,2025-07_presentation.txt,19,ok,2026-11-08
-PAYTM,presentation,May 2025,https://paytm.com/document/ir/financial-results/fy2024-25/Earnings-Release_Q4_FY25_Paytm.pdf,2025-05_presentation.pdf,2025-05_presentation.txt,18,ok,2026-11-08
-PAYTM,presentation,Jan 2025,https://paytm.com/document/ir/financial-results/Paytm_Earnings-Presentation_Q3FY2025.pdf,2025-01_presentation.pdf,2025-01_presentation.txt,18,ok,2026-11-08
-PAYTM,presentation,Oct 2024,https://paytm.com/document/ir/financial-results/fy2024-25/Earnings-Presentation-INR-FY25-Q2.pdf,2024-10_presentation.pdf,2024-10_presentation.txt,18,ok,2026-11-08
-PAYTM,presentation,Jul 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4065d63-af00-49a0-b3b7-b4b8921a10b1.pdf,2024-07_presentation.pdf,2024-07_presentation.txt,16,ok,2026-11-08
-PAYTM,presentation,May 2024,https://paytm.com/document/ir/financial-results/fy2023-24/Earnings-Presentation_FY24_Q4_INR.pdf,2024-05_presentation.pdf,2024-05_presentation.txt,20,ok,2026-11-08
-PAYTM,presentation,Feb 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dd616cdc-fe21-4848-8fa5-c51ed9e019b5.pdf,2024-02_presentation.pdf,2024-02_presentation.txt,5,ok,2026-11-08
+PAYTM,presentation,Oct 2026,https://paytm.com/document/ir/financial-results/Paytm_Earnings-Presentation_Q2-FY-2027_INR.pdf,2026-10_presentation.pdf,2026-10_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Jul 2026,https://paytm.com/document/ir/financial-results/Paytm_Earning-Release_Q1-FY-2027.pdf,2026-07_presentation.pdf,2026-07_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,May 2026,https://nsearchives.nseindia.com/corporate/PAYTM_06052026202426_EarningsRelease.pdf,2026-05_presentation.pdf,2026-05_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Feb 2026,https://paytm.com/document/ir/financial-results/fy2025-26/Paytm_Earnings_Presentation_Q3-FY26_INR.pdf,2026-02_presentation.pdf,2026-02_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Nov 2025,https://nsearchives.nseindia.com/corporate/PAYTM_04112025215154_Reg30_Earnings_Release_FY26_Q2_OCL_sd.pdf,2025-11_presentation.pdf,2025-11_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Jul 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=390a147e-db05-46a4-8195-fb46f7f420c0.pdf,2025-07_presentation.pdf,2025-07_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,May 2025,https://paytm.com/document/ir/financial-results/fy2024-25/Earnings-Release_Q4_FY25_Paytm.pdf,2025-05_presentation.pdf,2025-05_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Jan 2025,https://paytm.com/document/ir/financial-results/Paytm_Earnings-Presentation_Q3FY2025.pdf,2025-01_presentation.pdf,2025-01_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Oct 2024,https://paytm.com/document/ir/financial-results/fy2024-25/Earnings-Presentation-INR-FY25-Q2.pdf,2024-10_presentation.pdf,2024-10_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Jul 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d4065d63-af00-49a0-b3b7-b4b8921a10b1.pdf,2024-07_presentation.pdf,2024-07_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,May 2024,https://paytm.com/document/ir/financial-results/fy2023-24/Earnings-Presentation_FY24_Q4_INR.pdf,2024-05_presentation.pdf,2024-05_presentation.txt,,cached,2026-11-08
+PAYTM,presentation,Feb 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dd616cdc-fe21-4848-8fa5-c51ed9e019b5.pdf,2024-02_presentation.pdf,2024-02_presentation.txt,,cached,2026-11-08
