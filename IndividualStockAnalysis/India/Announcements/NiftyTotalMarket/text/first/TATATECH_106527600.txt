@@ -1,0 +1,169 @@
+ 
+ 
+ 
+Tata Technologies Limited  
+Plot No 25, Rajiv Gandhi Infotech Park | Hinjawadi, Pune 411057 | India 
+Tel: +91 20 6652 9090 | Fax: +91 20 6652 9035 
+CIN L72200PN1994PLC013313  
+Email: investor@tatatechnologies.com  
+Website: www.tatatechnologies.com 
+Ref. No.: TTL/COSEC/SE/2025-26/87 
+ 
+February 10, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dear Sir / Madam, 
+ 
+Subject: Press Release- Tata Technologies showcases WATTSync’s readiness for India’s Battery 
+Aadhaar ecosystem, aligning with global battery passport standards 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, enclosed herewith is a press release on the captioned subject, the content of which is self-
+explanatory. 
+ 
+This is for your information and records. 
+ 
+Thanking you. 
+ 
+For Tata Technologies Limited 
+ 
+ 
+ 
+________________________ 
+Warren Harris  
+CEO and Managing Director  
+DIN: 02098548  
+ 
+Encl: as above BSE Limited                                  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai- 400001, India. 
+Scrip Code: 544028 National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051, India. 
+Trading symbol: TATATECH 
+ 
+© Copyright 2025 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+ 
+  
+ 
+   | 1 
+ 
+  
+ 
+Tata Technologies showcases WATTSync’s readiness for India’s Battery Aadhaar 
+ecosystem, aligning with global battery passport standards 
+ 
+ 
+ WATTSync enables seamless generation and management of India’s 21-character Battery 
+Pack Aadhaar Number (BPAN), ensuring full lifecycle traceability and compliance 
+ 
+ The platform integrates secure QR-based digital identity, static and dynamic data models, 
+and central server connectivity to meet emerging regulatory mandates 
+ 
+ Built on a cloud-ready, microservices architecture, WATTSync supports advanced safety 
+intelligence, predictive maintenance, and circular-economy data flows for sustainable 
+mobility. 
+ 
+Pune, India, February 10, 2026 : Tata Technologies, a global product engineering and digital 
+services company, announced that its battery intelligence platform WATTSync  is fully equipped 
+to meet India’s upcoming Battery Aadhaar  digital identity and traceability requirements, while 
+maintaining seamless alignment with the EU Battery Regulation (EU BR 2023/1542). 
+ 
+As India moves toward implementing a unified, QR-code-enabled Battery Aadhaar framework for 
+enhanced visibility, compliance, and sustainability across the battery lifecycle, WATTSync’s 
+architecture, data model and integration capabilities  position it as a future-ready industry 
+solution. 
+ MEDIA RELEASE 
+© Copyright 2025 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+ 
+  
+ 
+   | 2 
+WATTSync offers robust support for India’s mandated  21-character Battery Pack Aadhaar 
+Number (BPAN) , enabling manufacturers and ecosystem partners to generate, manage and 
+integrate unique battery identifiers across production, operations and end-of-life workflows. The 
+platform mirrors global digital battery passport requirements, ensuring interoperability across 
+markets. 
+ 
+WATTSync’s QR-code-enabled digital identity engine  facilitates secure access to both static 
+and dynamic battery data, supporting India’s authentication and verification standards and 
+aligning with similar mechanisms under the EU digital passport ecosystem. 
+ 
+Its comprehensive static data model  natively supports the full range of prescribed Battery 
+Aadhaar fields, including manufacturer identifiers, battery descriptors, material composition, 
+chemistry, and carbon footprint (BCF). Owing to its EU-compliant design, the system also 
+manages extended sustainability, due-diligence, and environmental data. 
+ 
+To support dynamic data mandates such as State of Health (SoH) , charge-discharge cycles, 
+thermal events and operational parameters, WATTSync integrates seamlessly with Battery 
+Management Systems (BMS) . The platform’s microservices-driven, cloud-ready architecture  
+enables high-volume ingestion and real-time analytics, ensuring readiness for Indian and 
+European reporting expectations. 
+ 
+In alignment with India’s requirement to store dynamic battery data on authorized central servers, 
+WATTSync enables secure, API-based data exchange  with government-mandated digital 
+infrastructure. This ensures traceability, auditability and oversight across the supply chain. 
+ 
+WATTSync’s Battery LifeCycle Manager  tracks every lifecycle transition, from manufacturing and 
+active use to repair, repurposing and recycling, helping manufacturers meet India’s and the EU’s 
+circularity and sustainability mandates. 
+ 
+Role-Based Access Control (RBAC) capabilities ensure structured and secure data views for 
+manufacturers, suppliers, operators, recyclers, regulators and auditors. This granular access 
+design aligns with both Indian guidelines and global regulatory frameworks. 
+ 
+The platform integrates AI-driven analytics that support predictive maintenance and safety 
+intelligence , including thermal anomaly detection, RUL (Remaining Useful Life) estimation and 
+performance-risk profiling—addressing Battery Aadhaar’s strong emphasis on safety and 
+reliability. 
+ 
+WATTSync also supports India’s circular-economy objectives  by enabling end-of-life 
+information exchange, recovered-material documentation, and carbon-footprint tracking across 
+the recycling chain. These capabilities are aligned with EU BR’s material-recovery and 
+sustainability requirements. 
+ 
+For domestic manufacturing under the ACC-PLI scheme , WATTSync provides secure 
+provenance documentation and traceability  required to verify cell origin, strengthening 
+transparent and fraud-resistant supply chains. 
+© Copyright 2025 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+ 
+  
+ 
+   | 3 
+ 
+With its global compliance foundation and India-ready digital identity features , WATTSync 
+positions Tata Technologies as a strategic partner in enabling trusted, sustainable and 
+future-ready battery ecosystems. 
+ENDS 
+About Tata Technologies 
+Tata Technologies (BSE: 544028, NSE: TATATECH) is a global product engineering and digital 
+services company focused on fulfilling our mission of helping the world drive, fly, build, and farm 
+by enabling our customers to realize better products and deliver better experiences. We are the 
+strategic engineering partner businesses turn to when they aspire to be better. Manufacturing 
+companies rely on us to enable them to conceptualize, develop, and realize better products that 
+are safer and cleaner and improve the quality of life for all the stakeholders, helping us achieve 
+our vision of #EngineeringABetterWorld. For more, visit us at https://www.tatatechnologies.com/ 
+or learn more here. Follow us on Instagram, LinkedIn, Twitter, Facebook, and YouTube for the latest 
+updates. 
+ 
+Investor relations contact:  
+Vijay Lohia – ir@tatatechnologies.com 
+ 
+Media contacts:  
+Nikita Crasta – +91 22 67574600, Nikita.Crasta@adfactorspr.com 
+ 
+ 
+ 

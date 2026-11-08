@@ -1,0 +1,141 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+    December 24, 2025 
+  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001  
+BSE Scrip code – 532541  
+Equity ISIN INE591G010 25 
+ 
+  
+The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Symbol  – COFORGE  
+ 
+Dear Sir/Madam,  
+  
+Subject: Press Release  
+ 
+Pursuan t to applicable provision s of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 
+2015,  as amended, please find enclosed copy of the p ress release  of the Company  announc ing that “Coforge 
+Launches EvolveOps.AI: Agentic AI-Powered IT Op erations Platform  for Enhanced Business Resiliency  
+from Edge to Cloud.” 
+ 
+We request you to take the above on record . 
+ 
+For Coforge Limited  
+  
+  
+  
+Barkha Sharma  
+Company Secretary & Compliance Officer  
+ 
+ 
+Encl .: As above  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+ 
+Coforge Launches EvolveOps.AI: Agentic AI-Powered IT Op erations Platform  for Enhanced Business 
+Resiliency  from Edge to Cloud  
+ 
+Greater Noida, India, December 2 4, 2025: Coforge Limited  (NSE: COFORGE), a global digital services and 
+solutions provider, announced the launch of EvolveOps.AI , a next -generation Agentic  AI powered IT operations 
+management platform . It is designed to empower enterprises to prepare for an AI -first era, leveraging purpose -
+built hybrid cloud architecture & agentic operations for agility, resilience and transformation. Powered by 
+advanced Agentic AI agents, EvolveOps.AI delivers end -to-end autonomous operations across the lifecycle of 
+enterprise systems running on a hybrid cloud ecosystem .  
+ 
+EvolveOps.AI amplifies and augments investments  made by enterprises  made in observability, data fabric and 
+automation platforms  to accelerate the journey towards Agentic AI powered operations . Built entirely on open -
+source technologies, EvolvesOps.AI can be deployed quickly leveraging a large repository of pre -built adaptors  
+& plug-ins, a fine -tuned & purpose -built small language model  and agentic AI resolver personas  to 
+autonomously administer enterprise IT operations management . By applying AI and machine learning across a 
+unified data fabric for tech nology operations, EvolveOps.AI enables enterprises to cut down the noise, accelerate 
+incident lifecycle management, and dramatically improve reliability  of mission critical systems . With 
+EvolveOps.AI, enterprises have seen  25% reduction in systems downtime,  40% reduction in IT operational 
+expenses, 60% reduction in Mean Time to Detection and Mean Time to Resolution and 40% faster time to 
+market for products.  
+ 
+EvolveOps.AI directly addresses some of the most pressing challenges in modern IT operations. “Our strategy 
+for cloud and infrastructure is anchored in Mission Zero  – Zero Disruption, Zero Touch, Zero Friction – for 
+every cloud transformation we execute,” said Ashish Kumar, Global Business Unit Head – Cloud, AI -Infra, 
+Security & ServiceNow at Coforge . “With EvolveOps.AI, we are operationalizing that mission by infusing AI 
+agents into every stage of the technology operations lifecycle. The platform helps our clients shift from reactive 
+firefighting to proactive, autonomous operations —delivering higher resilience, improved developer 
+productivity, and a superior experience for business users and customers. ” 
+ 
+ 
+ 
+At the core of EvolveOps.AI , it combines the power of fine -tuned Small Language Models (SLMs) with the 
+proven value of deterministic models, delivering superior performance across IT operations. This approach 
+enables us to achieve results dramatically improving time to value whilst significantly reducing cost to serve.    
+ 
+We have developed 28 agent ic personas , and counting,  performing various  tasks across IT Operations lifecycle 
+including SRE agents, Infrastructure & Cloud Engineering  Agents, Network Engineering  Agents , Kube rnetes 
+Engineering  Agents, Command Center Engineer ing Agents , Service Management  Agents  & FinOps Agents  with 
+the ability to analyse, reason, decide and act across various  complex IT scenarios . The platform incorporates 
+robust guardrails allowing enterprises to toggl e from human in the loop mode  to truly autonomous operations  
+mode  to deliver  necessary enterprise -grade precision.    
+ 
+EvolveOps.AI has been architected for seamless integration with the industry’s leading hyperscalers and 
+enterprise IT Operations Management platforms. Its Hybrid Cloud Manager module supports full -stack builds 
+and policy -driven automation across Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform 
+(GCP), Oracle Cloud Infrastructure (OCI), and private cloud environments, while also interfacing with a broad 
+
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+ 
+ecosystem of observability, ITSM, security, and automation tools. This ensures that enterprises can adopt 
+autonomous operations without disrupting their existing technology landscape and can standardize governance, 
+FinOps, and reliability practices across multi -cloud estates.  
+ 
+About Coforge  
+Coforge is a global digital services and solutions provider, that leverages emerging technologies and deep 
+domain expertise to deliver real -world business impact for its clients. A focus on select industries, a deep domain 
+understanding of the underlying p rocesses of those industries and partnerships with leading technology 
+platforms, enables Coforge to be a trusted partner of its clients in their transformation initiatives. Coforge leads 
+with its Product Engineering approach and leverages AI, Cloud, Data, Integration and Automation technologies 
+to transform businesses into intelligent, high growth enterprises. Coforge has 33 global delivery centers and is 
+present in 25 countries.  
+Learn more at www.coforge.com  
+ 
+For media queries please contact: Santanu Bhattacharya - santanu.b@coforge.com  
+ 
+ 
+ 

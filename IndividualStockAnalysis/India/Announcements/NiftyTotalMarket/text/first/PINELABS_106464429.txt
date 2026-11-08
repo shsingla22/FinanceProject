@@ -1,0 +1,93 @@
+ 
+ 
+Date: December 9, 2025  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606    
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+ 
+Sub: Press Release on Setu launch es India's first Agentic Bill Payments Experience on ChatGPT and 
+Claude   
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith  press release on Setu ’s launch  of India's first Agentic Bill Payments 
+Experience on ChatGPT and Claude  dated December 9, 2025 made by  BrokenTusk  Technologies Private 
+Limited,  Wholly -Owned  Subsidiary  of Pine Labs Limited (“Company”) . 
+ 
+The above information is also be available on the website of the Company at  
+https://www.pinelabs.com/media -analyst/setu -launches -indias -first-agentic -bill-payments -experience -on-
+chatgpt -and-claude .  
+ 
+We request you to kindly take the above on record.  
+  
+Thanking you,  
+  
+For Pine Labs Limited  
+ 
+ 
+  
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl. a/a  
+ 
+      
+  
+ 
+ 
+Setu launches India's first Agentic Bill Payments Experience on ChatGPT and Claude  
+ 
+Bengaluru, December  9, 2025 – Setu by Pine Labs, today announced the launch of India’s first agentic bill -
+payments experience, designed to address two major challenges in bill payments: the fear of incorrect 
+charges and the stress of missing due dates.  
+While paying a bill takes minutes —keeping track of them takes hours. Most consumers in India spend a 
+considerable amount of time tracking, checking, and paying their bills. Setu’s new agentic assistant 
+handles this for the consumer by fetching every bill, identifying anomalies by comparing them with past 
+patterns, and ensuring timely payments each month.  
+Commenting on the launch, B Amrish Rau, CEO, Pine Labs,  said “India’s digital public infrastructure has 
+transformed how we pay, but the work behind monthly bills has remained manual.  This agentic 
+experience brings automation and trust together, giving people a smarter, safer way to handle their bills.”  
+The bill -payment agent operates on simple rules defined by the consumer, ensuring it never initiates an 
+incorrect payment or exceeds preset limits.  
+Here’s what the agent does: 
+● Fetches all bills in real- time  
+● Checks bills for unusual charges  
+● Pays safely using pre -blocked funds  
+● Follows the limits and approvals you set  
+● Tracks spending patterns and shares helpful insights  
+The experience is designed to be safe and entirely under the consumer’s control. It brings a future -ready 
+way of handling bills into the present, with the agent managing routine tasks while the consumer sets the 
+boundaries within which it operates, significantly reducing the time and stress associated with monthly 
+bill management.  
+Now accessible  on Anthropic’s Claude and OpenAI’s ChatGPT, the experience will roll out to additional AI 
+platforms in a phased expansion.  
+For more details and demo video, please visit: https://blog.setu.co/articles/indias -first-agentic -bill-
+payment -experience   
+ 
+ About Setu  
+ 
+Through the API-enabled technology platform Setu, a brand of BrokenTusk  Technologies Private Limited 
+which is a wholly owned subsidiary of Pine Labs Limited, we offer digital public infrastructure solutions across payments, data and  insights. Financial institutions use our technology to manage the life cycle of 
+a consumer, including on -boarding, underwriting,  collections, and engagement. Setu enables 
+      
+  
+ 
+onboarding of consumers via eKYC and online contract execution. Setu’s account  aggregator solution 
+offers powerful insights into consumers’ financial behaviour from various data sources for better 
+underwriting and collections. Setu’s secure UPI product suite allows financial institutions to conveniently accept UPI payments  in their own apps, through payments links or QR codes. Further, financial 
+institutions and billers integrate with our platform to  enable collection of utility payments, loan 
+payments, ins urance payments and recurring payments.  
+ 
+ 

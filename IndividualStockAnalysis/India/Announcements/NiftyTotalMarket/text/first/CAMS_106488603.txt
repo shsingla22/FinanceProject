@@ -1,0 +1,117 @@
+ 
+ 
+6th January  2026  
+ 
+ 
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street  
+Mumbai 400 001  
+Scrip Code: 543232  National Stock Exchange of India Limited  
+Exchange Plaza, 5th floor, Plot No. C/1, 
+G Block, Bandra Kurla Complex, Bandra  
+(East), Mumbai 400 051  
+Trading Symbol: CAMS  
+                         
+ 
+Dear Sir / Madam,  
+  
+Sub: Press Release titled  - CAMSKRA Enhances Market Standing After Completion of 
+NSEDAL KRA Migration  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, enclosed herewith is a Press Release issued by the Company on the cited 
+subject, content of which is self -explanatory.  
+ 
+We request you to take the same on records.  
+ 
+Yours faithfully,  
+For Computer Age Management Services Limited  
+  
+ 
+ 
+G Manikandan  
+Company Secretary and Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAMS KRA Enhances Market Standing After Completion of NSEDAL KRA Migration  
+Mumbai, January 6, 2026 – CAMS Investor Services Private Limited (CAMSKRA), a wholly 
+owned subsidiary of Computer Age Management Services Limited (CAMS), today announced 
+the successful completion of the migration of the KYC Registration Agency (KRA) business of 
+NSE Data & Analytics  Limited  (NSEDAL) . With this transition, CAMSKRA and the KRA 
+operations of NSEDAL  now operate as a fully integrated single entity on a unified technology 
+platform.  
+Strengthening Market Leadership  
+CAMSKRA is India ’s second -largest licensed KYC Registration Agency, w ith over a decade of 
+expertise. This migration enhances our investor database and reinforces our leadership in the 
+KRA market  and expands the PAN base to over 2.15 cr .  
+Commitment to Excellence  
+CAMSKRA remain committed to delivering the highest standards o f service, backed by CAMS ’ 
+trusted infrastructure and an innovation driven.  
+Anuj Kumar, Managing Director, CAMS , said:  
+“The integration represents a significant step in strengthening our KRA franchise. It reinforces 
+our standing as India ’s second -largest KYC Registration Agency, deepens our technology and 
+operational capabilities, and enables us to address the growing comp liance and onboarding 
+requirements of the financial ecosystem at scale. ” 
+Anish Sawlani, CEO, CAMSKRA , added : 
+“The successful completion of the NSE Data and Analytics Limited ’s KRA business migration 
+stands as a defining moment in the evolution of CAMSKRA a nd its long -term vision for the 
+KYC ecosystem in India. This achievement goes far beyond a seamless operational transition 
+and reflects a deliberate step toward building scale, resilience, and future ready digital 
+infrastructure. CAMSKRA is positioned to r edefine trust, efficiency, and security in investor 
+onboarding, shaping a KYC framework that will support the next generation of capital market 
+growth with confidence and integrity. ” 
+Key Highlights of the Transition  
+ Single Entity, Single Platform:  Post-migration, CAMSKRA now operates as a larger, 
+unified KRA entity following the integration  of NSEDAL , ensuring operational efficiency , 
+scalability  and reliable  experience . 
+ Successful Migration:  All KYC records, technology, and operational responsibilities 
+of NSDL’s KRA business have been seamlessly migrated to CAMSKRA.  
+ Expanded Investor Base:  The integration strengthens CAMSKRA ’s base to over 2.17 
+crore KRA records, reinforcing its position as India ’s second -largest KYC Registration 
+Agency.  
+
+ 
+ Service Continuity:  Intermediaries and market participants will continue to receive 
+the same high levels of service without disruption.  
+ Billing Transition:  All KRA -related billing will now be managed by CAMSKRA.  
+ Regulatory Framework:  CAMSKRA operates under SEBI Registration Number 
+IN/KRA/004/2012.  
+Technology & Platform Capabilities  
+ API Integration:  CAMSKRA provides a secure and robust API ecosystem, offering:  
+o Low-code integration with partner technology stacks  
+o Flexible APIs with encry ption –decryption support  
+o Continuous monitoring to ensure operational reliability  
+ CAMSKRA continues to pioneer AI -driven KYC onboarding solutions, including:  
+o AI-assisted face matching  
+o Optical Character Recognition (OCR)  
+o Liveliness detection  
+o Video -based cust omer interaction tools  
+ NEXUS Dashboard:  A comprehensive dashboard delivering real -time visibility into 
+PAN status, process transparency, and performance insights for intermediaries.  
+About CAMS Limited ( www.camsonline.com ) BSE: 543232; NSE: CAMS  
+CAMS is a financial infrastructure and service partner to the asset management industry and 
+provides platform -based services to the BFSI segment. The Company is India's largest 
+registrar and transfer agent of mutu al funds with an aggregate market share of ~68% based 
+on mutual fund average assets under management (“AAuM ”). Its mutual fund clients include 
+ten of the fifteen largest mutual funds. The Company is the market -leading platform and 
+service partner to altern ative investment funds and portfolio managers serving over 520 
+mandates of 240 funds with full -stack digital and fund administration services. CAMSKRA is a 
+fast-growing KYC repository for capital markets, offering unique solutions leveraging new age 
+techno logies. CAMSPay specializes in providing secure, seamless and innovative payment 
+solutions for Mutual funds, BFSI sector and Ed Techs. Services to insurance companies and 
+eInsurance services are provided via the subsidiary CAMSRep. The company has also 
+forayed into new areas like Account Aggregator and Central Record -Keeping Agency (“CRA ”) 
+services for National Pension Scheme. CAMS acquired a majority stake in Think360.ai, a full -
+stack Data Science and AI -focused firm and Fintuple Technologies, a digital tr ansformation 
+partner for capital market entities.  
+ 
+Media Contacts  
+Rahul Sethi,  
+Chief Marketing Officer, CAMS  
+rahul.sethi@camsonline.com  

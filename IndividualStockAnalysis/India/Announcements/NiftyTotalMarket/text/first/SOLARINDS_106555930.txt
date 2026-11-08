@@ -1,0 +1,38 @@
+ 
+ 
+March 12, 2026 
+ To, 
+National Stock Exchange of India Limited Exchange Plaza, Bandra Kurla Complex 
+Bandra (E)   
+Mumbai - 400 051 Trading Symbol: “SOLARINDS” 
+Through NEAPS            
+ 
+Sub: Corrigendum to disclosure submitted under Regulation 7 of the SEBI (Prohibition of Insider Trading) 
+Regulations, 2015 dated March 11, 2026.  
+  
+Dear Sir/Madam, 
+ This is with reference to the disclosure submitted to the Exchange under Regulation 7 of the SEBI (Prohibition of Insider Trading) Regulation 2015 in XBRL on March 11, 2026.  
+In the said disclosure, the date has been inadvertently mentioned as  follows: 
+ 
+Date of allotment advice/acquisition of shares/sale 
+of shares*specify 
+(From date – To date) Date of intimation to Company 
+November 9, 2026 November 10, 2026 
+November 9, 2026 November 10, 2026 
+November 9, 2026 November 10, 2026 
+ 
+We wish to inform you that the correc t date should be read as  follows:- 
+ 
+Date of allotment advice/acquisition of shares/sale 
+of shares*specify           
+(From date – To date) Date of intimation to Company 
+March 9, 2026 March 10, 2026 
+March 9, 2026 March 10, 2026 
+March 9, 2026 March 10, 2026 
+ 
+The correct disclosure is being filed again in XBRL mode with the corrected date. Kind ly take note of the same.  
+ The error is purely inadvertent and we regret any inconvenience caused.     
+For Solar Industries India Limited 
+     Khushboo Pasari 
+Company Secretary & 
+Compliance Officer 

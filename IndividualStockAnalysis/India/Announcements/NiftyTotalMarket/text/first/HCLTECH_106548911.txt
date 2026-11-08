@@ -1,0 +1,124 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 1 20 4306000  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India  
+ 
+ 
+ 
+March  03, 2026  
+ 
+ 
+The General Manager  
+BSE Limited  
+Listing Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281 The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza 5th Floor, Plot No. C -1, Block -G 
+Bandra- Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH  
+ 
+ 
+Subject: Release –  “HCLTech adds three network automation rApps to Ericsson’s rApp Directory”  
+ 
+ 
+Dear Sir/Madam,  
+  
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+ 
+ 
+This is for your information and records.  
+ 
+ 
+Yours faithfully,  
+For HCL Technologies Limited  
+ 
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+Encl.:a/a  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+HCLTech adds three  network automation  rApps to Ericsson’s rApp Directory   
+ 
+BARCELONA , Spain and NOIDA, India, March  03 —HCLTech , a leading global technology 
+company, announced the inclusion of three  network automation  RAN applications (rApp) in 
+the rApp Directory  by Ericsson , the catalog of commercially available rApps for the Ericsson 
+Intelligent Automation Platform (EIAP). The additions  expand HCLTech’s contribution to open, 
+standards- based RAN automation  and empower global communication service providers  to 
+accelerate network automation with seamless discoverable solutions . 
+ 
+HCLTech’s listed rApps include:  
+• Traffic Balancer rApp : Analyze s network conditions and redistributes  traffic across 
+available paths to minimize  congestion and reduce latency  
+• Energy Optimizer rApp : Scales  base station resources during low -traffic periods to 
+improve energy efficiency without compromising  service quality  
+• Network Slice Optimizer rApp : Allocat es physical resource blocks to support multiple 
+5G network slices with distinct  service -level requirements  
+ “These rApps highlight  HCLTech’s commitment to  productizing network automation within 
+standardized, open ecosystems,” said Hari Sadarahalli , Corporate Vice President and Global 
+Head, Engineering and R&D Services , HCLTech . “Leveraging  Ericsson’s EIAP framework, we are 
+better able to  deliver  modular, interoperable solutions that accelerate deployment , simplify 
+integration  and drive efficiency across 4G and 5G networks  — helping  operators scale 5G and 
+embrace autonomous networks with trusted, real -world -ready automation .”  
+ 
+About HCLTech  
+ 
+HCLTech  is a global technology company, home to more than 226,300 people across 60 
+countries, delivering industry- leading capabilities centered around AI, digital, engineering, 
+cloud and software, powered by a broad portfolio of technology services and products. We 
+work with clients across all major verticals, providing industry solutions for Financial Services, 
+Manufacturing, Life Sciences and Healthcare, High Tech, Semiconductor, Telecom and Media, 
+Retail and CPG, Mobility and Public Services. Consolidated reven ues as of 12 months ending 
+December 2025 totaled $14.5 billion. To learn how we can supercharge progress for you, visit hcltech.com . 
+ 
+ 
+ 
+2 
+ 
+For further details, please contact:  
+ 
+Meredith Bucaro, Americas  
+meredith -bucaro@hcltech.com  
+ Elka Ghudial, Europe  
+elka.ghudial@hcltech.com  
+ 
+James Galvin, APAC  
+james.galvin@hcltech.com  
+ Nitin Shukla, India , Middle East & Africa  
+nitin -shukla@hcltech.com  
+  
+ 
+ 
+ 

@@ -1,0 +1,155 @@
+ 
+ 
+Sensitivity: Public (C4)  HZL/202 5-26/SECY/ 129                                                      December  21, 202 5 
+  
+  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort  
+Mumbai – 400 001  National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor Plot No., C/l, G 
+Block Bandra -Kurla Complex, Bandra  
+(East),  Mumbai – 400 051  
+  
+Kind Attn: General Manager – Department  
+of Corporate Services  Kind Attn: Head Listing & Corporate 
+Communication  
+  
+Scrip Code: 500188  Trading Symbol: “HINDZINC”  
+ 
+Dear Sir/M a’am , 
+ 
+Sub: Declaration of voting results of Postal Ballot and submission of Scrutinizer’s Report in 
+accordance with Regulations 30 and 44 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (“ SEBI LODR  Regulations”)  
+ 
+This is with reference to our letter no. HZL/2025 -26/SECY/120  dated November  20, 202 5, 
+wherein we had in formed  that the Company ha d initiated the process of Postal Ballot to seek 
+approval of the Members  of the Company  in respect for the following  resolution  through remote 
+e-voting process (“e-voting” ) only:  
+ 
+Sr. No.  Particulars  Type of resolution(s)  
+1. To consider and approve the appointment of Mr. Thomas 
+Mathew T (DIN: 00130282) as a Non -Executive Independent 
+Director of the Company  Special  
+2. To consider and approve the appointment of Mr. Ashim 
+Kumar Modi (DIN: 11342680), as a Government Nominee 
+Director (Non -Executive) on the Board of the Compan y Ordinary  
+ 
+In this regard, t he remote e -voting process concluded on Saturday , December  20, 2025, at 5:00 
+p.m. (IST), post which the Scrutinizer appointed for scrutiny of Postal Ballot process, Mr.  Manoj 
+Maheshwari, Practicing Company Secretary (Membership No. FCS 3355; CP No.: 1971), has 
+submitted his report on the results of the Postal Ballot.  
+ 
+Based on the report of the Scrutinizer, we hereby inform  you that, the Members  of the Company 
+have duly passed the above -mentioned resolution with the requisite majority.  
+ 
+In connection with the above , please find enclosed the following:  
+ 
+1. Voting results pursuant to Regulation 44(3) of the SEBI LODR Regulations  and Section 108 
+of the Act read with the Companies (Management and Administration) Rules, 2014; and  
+ 
+2. Scrutinizer's Report dated December  21, 2025, on remote e -voting.  
+ 
+ 
+Sensitivity: Public (C4)   
+The results along with Scrutinizer's Report are available  on the website of the Company at 
+www.hzlindia.com , the website of NSDL at www.evoting.nsdl.com . 
+ 
+You are requested to take the same on your record.  
+ 
+Thanking You,  
+ 
+Yours faithfully,  
+For Hindustan Zinc Limited  
+ 
+ 
+ 
+ 
+Aashhima V Khanna  
+Company Secretary & Compliance Officer  
+Enclosed : As above   
+ 
+Copy to:  
+National Securities Depository Limited,  
+Trade World, A Wing, 4th Floor, Kamala Mills Compound, Lower Parel, Mumbai – 400013  
+ 
+Central Depository Services (India) Limited  
+Marathon Futurex, A -Wing 25th Floor, N.M. Joshi Marg, Lower Parel, Mumbai - 400013  
+ 
+KFin Technologies Limited  
+Selenium Tower B, Plot No. 31 & 32, Gachibowli, Financial District, Nanakramguda, 
+Hyderabad - 500032  
+ 
+ 
+ 
+Scrip code 500188
+NSE Symbol HINDZINC
+MSEI Symbol NA
+ISIN INE267A01025
+Name of the company HINDUSTAN ZINC LIMITED
+Type of meeting Postal Ballot
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)20-12-2025
+Start time of the meeting
+End time of the meetingGeneral information about companyHome Validate
+# Sensitivity: Internal (C3)
+Name of the Scrutinizer Mr. Manoj Maheshwari
+Firms Name V M & Associates
+Qualification CS
+Membership Number FCS 3355 
+Date of Board Meeting in which appointed 23-09-2025
+Date of Issuance of Report to the company 21-12-2025Scrutinizer DetailsHome Validate
+# Sensitivity: Internal (C3)
+Record date 14-12-2025
+Total number of shareholders on record date 822913
+a) Promoters and Promoter group
+b) Public
+a) Promoters and Promoter group
+b) Public
+No. of resolution passed in the meeting 2
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+# Sensitivity: Internal (C3)
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 2612848419 100.0000 2612848419 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0.0000 0.0000
+Total 2612848419 2612848419 100.0000 2612848419 0 100.0000 0.0000
+E-Voting 237067490 90.8202 236584786 482704 99.7964 0.2036
+Poll 0 0.0000 0 0 0.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0.0000 0.0000
+Total 261029541 237067490 90.8202 236584786 482704 99.7964 0.2036
+E-Voting 1184077136 87.6159 1184027958 49178 99.9958 0.0042
+Poll 0 0.0000 0 0 0.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0.0000 0.0000
+Total 1351441040 1184077136 87.6159 1184027958 49178 99.9958 0.0042
+Total Total 4225319000 4033993045 95.4719 4033461163 531882 99.9868 0.0132
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions1351441040Resolution (1)
+Resolution required: (Ordinary / Special) Special
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo consider and approve the appointment of Mr. Thomas Mathew T (DIN: 00130282) as a Non-
+Executive Independent Director of the Company
+Promoter and Promoter Group2612848419
+Public- Institutions261029541
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+# Sensitivity: Internal (C3)

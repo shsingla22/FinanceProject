@@ -1,0 +1,584 @@
+COLOR PALETTE
+Text
+50    56    62
+Title bar/Bullets
+111    197    150
+ACCENTS
+1111
+ 197
+ 150195
+ 231
+ 211
+27
+ 75
+ 122187
+ 225
+ 251
+3221
+ 156
+ 72241
+ 215
+ 181
+4145
+ 84
+ 162225
+ 208
+ 230
+50
+ 179
+ 170179
+ 255
+ 251
+664
+ 197
+ 228181
+ 233
+ 245
+Hyperlink0
+ 179
+ 170179
+ 255
+ 251
+Followed
+Hyperlink64
+ 197
+ 228181
+ 233
+ 245
+Lines50
+ 56
+ 62
+Highlights148
+ 201
+ 71TABLE
+1Monthly Review – Nov‘25 – Corporate Development, Investor Relations 
+and Process Excellence
+Acquisition Announcement
+COLOR PALETTE
+Text
+ 50    56    62
+Title bar/Bullets
+ 111    197    150
+ACCENTS
+1111
+ 197
+ 150195
+ 231
+ 211
+27
+ 75
+ 122187
+ 225
+ 251
+3221
+ 156
+ 72241
+ 215
+ 181
+4145
+ 84
+ 162225
+ 208
+ 230
+50
+ 179
+ 170179
+ 255
+ 251
+664
+ 197
+ 228181
+ 233
+ 245
+Hyperlink0
+ 179
+ 170179
+ 255
+ 251
+Followed
+Hyperlink64
+ 197
+ 228181
+ 233
+ 245
+Lines50
+ 56
+ 62
+Highlights148
+ 201
+ 71TABLE
+India’s men’s personal care market is growing fast with premiumization
+Investment & Structure:
+Honasa  invests via Series A CCPS ; post -closing shareholding per Schedule I
+May increase stake up to 51%  (with governance realignment if control threshold 
+crossed)
+Governance:
+Board:  4 Directors (3 Founders + 1 Investor Director, non -executive)
+Quorum:  Requires Investor Director
+Reserved Matters:  Key strategic/financial actions need Investor consent
+Founders retain day -to-day operational control
+Investor Rights:
+Information & Inspection:  Monthly MIS, quarterly unaudited, annual audited, 
+access to books
+Subsequent Investment:  Triggered if quarterly revenue ≥ ₹25 Cr
+Pre-emptive & Anti -dilution:  Weighted -average protection
+Liquidation Preference:  1x non -participating (higher of investment or pro -rata)
+Share Transfers:
+Founders:  Lock -in till Investor exit (ALP suggests 3 -yr limit & 10% liquidity carve -
+out)ROFR & Tag -along:  Investor first right / proportional exit; full exit if control 
+changes
+Investor:  Freely transferable (ALP proposes restriction on sales to competitors)
+Exit:
+Timeline:  Within 8 –9 years
+Modes:  IPO / Third -party sale / Drag -along
+Valuation:  ALP requests FMV -based exit vs “Investor acceptable” price
+Defaults & Remedies:
+Fraud, breach, or Founder termination for Cause = Event of Default
+90-day cure; post that, Investor can freely transfer or exercise drag rights
+Key ALP Comments:
+Deemed approval for reserved matters (7 days)
+Clarify governance if Honasa  >50%
+Relax Founder lock -in & ensure FMV -based exits
+• Investment & Capital : Series A CCPS; future Subsequent Investment right (post ₹25 Cr quarterly revenue).
+• Governance : 4-member Board (3 Founders + 1 Honasa ); Reserved Matters require Honasa’s consent.
+• Information Rights : Honasa  entitled to financials, MIS, budgets, and inspection access.
+• Transfer Restrictions : Founders’ lock -in (proposed 3 yrs); Honasa  free transfer (no Competitors); ROFR & Tag -Along rights.
+• Investor Protections : Pre -emptive rights, anti -dilution (broad -based weighted avg), 1x liquidation preference.
+• Exit Rights : 8–9 years; via IPO, Third -Party Sale (FMV), or Drag/Strategic Sale ( Honasa -led).
+• Default & Consequences : Fraud or breach = Event of Default; 90 -day cure; Honasa  may transfer freely or enforce rights.
+• Miscellaneous : Non -compete, confidentiality, dispute resolution (arbitration), Deed of Adherence for new shareholders.
+1: Values  represent indexed Google search volumes basis Google Ad words; smoothed using 9 -month moving average
+2: Source: Imarc  Research, including GroomingMen’s personal care is at a clear demand inflection, with search trends1 surging across core categories 
+Nov-21 Nov-22 Nov-23 Nov-24 Nov-25Demand Inflection visible in search trends1
+#REF! "best face wash for men" "serum for men"Dec-21 Nov-25100255
+200
+1502.0x 2.5x
+1.5xSunscreen Serum
+Face Cleanser
+~INR 20K Cr market2 today projected to nearly double to INR 40K Cr+ by 2032The growth in the segment is fuelled by
+Rapid Premiumization & Upgraded 
+Consumption1
+Heightened Awareness & Evolving Self -Care 
+Mindset2Growth in Search Trends1 in Men’s Personal Care
+“Sunscreen for men”
+COLOR PALETTE
+Text
+ 50    56    62
+Title bar/Bullets
+ 111    197    150
+ACCENTS
+1111
+ 197
+ 150195
+ 231
+ 211
+27
+ 75
+ 122187
+ 225
+ 251
+3221
+ 156
+ 72241
+ 215
+ 181
+4145
+ 84
+ 162225
+ 208
+ 230
+50
+ 179
+ 170179
+ 255
+ 251
+664
+ 197
+ 228181
+ 233
+ 245
+Hyperlink0
+ 179
+ 170179
+ 255
+ 251
+Followed
+Hyperlink64
+ 197
+ 228181
+ 233
+ 245
+Lines50
+ 56
+ 62
+Highlights148
+ 201
+ 71TABLE
+Investment & Structure:
+Honasa  invests via Series A CCPS ; post -closing shareholding per Schedule I
+May increase stake up to 51%  (with governance realignment if control threshold 
+crossed)
+Governance:
+Board:  4 Directors (3 Founders + 1 Investor Director, non -executive)
+Quorum:  Requires Investor Director
+Reserved Matters:  Key strategic/financial actions need Investor consent
+Founders retain day -to-day operational control
+Investor Rights:
+Information & Inspection:  Monthly MIS, quarterly unaudited, annual audited, 
+access to books
+Subsequent Investment:  Triggered if quarterly revenue ≥ ₹25 Cr
+Pre-emptive & Anti -dilution:  Weighted -average protection
+Liquidation Preference:  1x non -participating (higher of investment or pro -rata)
+Share Transfers:
+Founders:  Lock -in till Investor exit (ALP suggests 3 -yr limit & 10% liquidity carve -
+out)ROFR & Tag -along:  Investor first right / proportional exit; full exit if control 
+changes
+Investor:  Freely transferable (ALP proposes restriction on sales to competitors)
+Exit:
+Timeline:  Within 8 –9 years
+Modes:  IPO / Third -party sale / Drag -along
+Valuation:  ALP requests FMV -based exit vs “Investor acceptable” price
+Defaults & Remedies:
+Fraud, breach, or Founder termination for Cause = Event of Default
+90-day cure; post that, Investor can freely transfer or exercise drag rights
+Key ALP Comments:
+Deemed approval for reserved matters (7 days)
+Clarify governance if Honasa  >50%
+Relax Founder lock -in & ensure FMV -based exits
+• Investment & Capital : Series A CCPS; future Subsequent Investment right (post ₹25 Cr quarterly revenue).
+• Governance : 4-member Board (3 Founders + 1 Honasa ); Reserved Matters require Honasa’s consent.
+• Information Rights : Honasa  entitled to financials, MIS, budgets, and inspection access.
+• Transfer Restrictions : Founders’ lock -in (proposed 3 yrs); Honasa  free transfer (no Competitors); ROFR & Tag -Along rights.
+• Investor Protections : Pre -emptive rights, anti -dilution (broad -based weighted avg), 1x liquidation preference.
+• Exit Rights : 8–9 years; via IPO, Third -Party Sale (FMV), or Drag/Strategic Sale ( Honasa -led).
+• Default & Consequences : Fraud or breach = Event of Default; 90 -day cure; Honasa  may transfer freely or enforce rights.
+• Miscellaneous : Non -compete, confidentiality, dispute resolution (arbitration), Deed of Adherence for new shareholders.
+Honasa  Consumer Limited  
+Enters Men's personal care category with the acquisition of 
+
+COLOR PALETTE
+Text
+ 50    56    62
+Title bar/Bullets
+ 111    197    150
+ACCENTS
+1111
+ 197
+ 150195
+ 231
+ 211
+27
+ 75
+ 122187
+ 225
+ 251
+3221
+ 156
+ 72241
+ 215
+ 181
+4145
+ 84
+ 162225
+ 208
+ 230
+50
+ 179
+ 170179
+ 255
+ 251
+664
+ 197
+ 228181
+ 233
+ 245
+Hyperlink0
+ 179
+ 170179
+ 255
+ 251
+Followed
+Hyperlink64
+ 197
+ 228181
+ 233
+ 245
+Lines50
+ 56
+ 62
+Highlights148
+ 201
+ 71TABLE
+Reginald Men – Premium personal care brand for men
+Investment & Structure:
+Honasa  invests via Series A CCPS ; post -closing shareholding per Schedule I
+May increase stake up to 51%  (with governance realignment if control threshold 
+crossed)
+Governance:
+Board:  4 Directors (3 Founders + 1 Investor Director, non -executive)
+Quorum:  Requires Investor Director
+Reserved Matters:  Key strategic/financial actions need Investor consent
+Founders retain day -to-day operational control
+Investor Rights:
+Information & Inspection:  Monthly MIS, quarterly unaudited, annual audited, 
+access to books
+Subsequent Investment:  Triggered if quarterly revenue ≥ ₹25 Cr
+Pre-emptive & Anti -dilution:  Weighted -average protection
+Liquidation Preference:  1x non -participating (higher of investment or pro -rata)
+Share Transfers:
+Founders:  Lock -in till Investor exit (ALP suggests 3 -yr limit & 10% liquidity carve -
+out)ROFR & Tag -along:  Investor first right / proportional exit; full exit if control 
+changes
+Investor:  Freely transferable (ALP proposes restriction on sales to competitors)
+Exit:
+Timeline:  Within 8 –9 years
+Modes:  IPO / Third -party sale / Drag -along
+Valuation:  ALP requests FMV -based exit vs “Investor acceptable” price
+Defaults & Remedies:
+Fraud, breach, or Founder termination for Cause = Event of Default
+90-day cure; post that, Investor can freely transfer or exercise drag rights
+Key ALP Comments:
+Deemed approval for reserved matters (7 days)
+Clarify governance if Honasa  >50%
+Relax Founder lock -in & ensure FMV -based exits
+• Investment & Capital : Series A CCPS; future Subsequent Investment right (post ₹25 Cr quarterly revenue).
+• Governance : 4-member Board (3 Founders + 1 Honasa ); Reserved Matters require Honasa’s consent.
+• Information Rights : Honasa  entitled to financials, MIS, budgets, and inspection access.
+• Transfer Restrictions : Founders’ lock -in (proposed 3 yrs); Honasa  free transfer (no Competitors); ROFR & Tag -Along rights.
+• Investor Protections : Pre -emptive rights, anti -dilution (broad -based weighted avg), 1x liquidation preference.
+• Exit Rights : 8–9 years; via IPO, Third -Party Sale (FMV), or Drag/Strategic Sale ( Honasa -led).
+• Default & Consequences : Fraud or breach = Event of Default; 90 -day cure; Honasa  may transfer freely or enforce rights.
+• Miscellaneous : Non -compete, confidentiality, dispute resolution (arbitration), Deed of Adherence for new shareholders.Strong
+product love1Launched in Aug’22, Reginald Men offers curated men’s personal care products, with sunscreens as its core offering – a key 
+focus category for Honasa
+Multi -benefit 
+proposition
+One product, multiple 
+benefits—Sun protection & 
+moisturization2
+Rapid traction built on 
+performance and clear 
+benefit messagingDeep South India 
+traction
+Strong acceptance and 
+repeat use across South 
+India markets3
+Hero Product
+Helios – Moisturizing 
+Sunscreen80%+
+Contribution to sales from 
+South India #1
+searched1 Men’s Sunscreen 
+brand on google 
+1: Source: Basis Google AdWords — brand searches in the men’s sunscreen category
+
+COLOR PALETTE
+Text
+ 50    56    62
+Title bar/Bullets
+ 111    197    150
+ACCENTS
+1111
+ 197
+ 150195
+ 231
+ 211
+27
+ 75
+ 122187
+ 225
+ 251
+3221
+ 156
+ 72241
+ 215
+ 181
+4145
+ 84
+ 162225
+ 208
+ 230
+50
+ 179
+ 170179
+ 255
+ 251
+664
+ 197
+ 228181
+ 233
+ 245
+Hyperlink0
+ 179
+ 170179
+ 255
+ 251
+Followed
+Hyperlink64
+ 197
+ 228181
+ 233
+ 245
+Lines50
+ 56
+ 62
+Highlights148
+ 201
+ 71TABLE
+Rationale for Acquisition by Honasa  
+Investment & Structure:
+Honasa  invests via Series A CCPS ; post -closing shareholding per Schedule I
+May increase stake up to 51%  (with governance realignment if control threshold 
+crossed)
+Governance:
+Board:  4 Directors (3 Founders + 1 Investor Director, non -executive)
+Quorum:  Requires Investor Director
+Reserved Matters:  Key strategic/financial actions need Investor consent
+Founders retain day -to-day operational control
+Investor Rights:
+Information & Inspection:  Monthly MIS, quarterly unaudited, annual audited, 
+access to books
+Subsequent Investment:  Triggered if quarterly revenue ≥ ₹25 Cr
+Pre-emptive & Anti -dilution:  Weighted -average protection
+Liquidation Preference:  1x non -participating (higher of investment or pro -rata)
+Share Transfers:
+Founders:  Lock -in till Investor exit (ALP suggests 3 -yr limit & 10% liquidity carve -
+out)ROFR & Tag -along:  Investor first right / proportional exit; full exit if control 
+changes
+Investor:  Freely transferable (ALP proposes restriction on sales to competitors)
+Exit:
+Timeline:  Within 8 –9 years
+Modes:  IPO / Third -party sale / Drag -along
+Valuation:  ALP requests FMV -based exit vs “Investor acceptable” price
+Defaults & Remedies:
+Fraud, breach, or Founder termination for Cause = Event of Default
+90-day cure; post that, Investor can freely transfer or exercise drag rights
+Key ALP Comments:
+Deemed approval for reserved matters (7 days)
+Clarify governance if Honasa  >50%
+Relax Founder lock -in & ensure FMV -based exits
+• Investment & Capital : Series A CCPS; future Subsequent Investment right (post ₹25 Cr quarterly revenue).
+• Governance : 4-member Board (3 Founders + 1 Honasa ); Reserved Matters require Honasa’s consent.
+• Information Rights : Honasa  entitled to financials, MIS, budgets, and inspection access.
+• Transfer Restrictions : Founders’ lock -in (proposed 3 yrs); Honasa  free transfer (no Competitors); ROFR & Tag -Along rights.
+• Investor Protections : Pre -emptive rights, anti -dilution (broad -based weighted avg), 1x liquidation preference.
+• Exit Rights : 8–9 years; via IPO, Third -Party Sale (FMV), or Drag/Strategic Sale ( Honasa -led).
+• Default & Consequences : Fraud or breach = Event of Default; 90 -day cure; Honasa  may transfer freely or enforce rights.
+• Miscellaneous : Non -compete, confidentiality, dispute resolution (arbitration), Deed of Adherence for new shareholders.Reginald Men operates in the large men’s personal care market…
+…complimenting the existing Honasa portfolioIndian men’s personal care market is a sizable category projected to reach INR 40K Cr+  by 20321 
+(fast -growing, premiumizing )
+Natural led Science  led 
+based on ActivesActives with 
+Botanicals  Gen-Z focused 
+HydrationGen-Z focused 
+Make -upPremium Men’s 
+Personal carePremium personal care brand positioned for men1
+1: Source: IMARC Research, including GroomingOpportunity for Honasa  to strengthen its market share in southern states
+South India -led revenue strengthens Honasa  in a large beauty & personal care market with distinct regional preferences & insights2
+Prestige SkincareSalon -like 
+haircare
+COLOR PALETTE
+Text
+ 50    56    62
+Title bar/Bullets
+ 111    197    150
+ACCENTS
+1111
+ 197
+ 150195
+ 231
+ 211
+27
+ 75
+ 122187
+ 225
+ 251
+3221
+ 156
+ 72241
+ 215
+ 181
+4145
+ 84
+ 162225
+ 208
+ 230
+50
+ 179
+ 170179
+ 255
+ 251
+664
+ 197
+ 228181
+ 233
+ 245
+Hyperlink0
+ 179
+ 170179
+ 255
+ 251
+Followed
+Hyperlink64
+ 197
+ 228181
+ 233
+ 245
+Lines50
+ 56
+ 62
+Highlights148
+ 201
+ 71TABLE
+Multiple levers to unlock a ₹500 Cr+ revenue opportunity
+Investment & Structure:
+Honasa  invests via Series A CCPS ; post -closing shareholding per Schedule I
+May increase stake up to 51%  (with governance realignment if control threshold 
+crossed)
+Governance:
+Board:  4 Directors (3 Founders + 1 Investor Director, non -executive)
+Quorum:  Requires Investor Director
+Reserved Matters:  Key strategic/financial actions need Investor consent
+Founders retain day -to-day operational control
+Investor Rights:
+Information & Inspection:  Monthly MIS, quarterly unaudited, annual audited, 
+access to books
+Subsequent Investment:  Triggered if quarterly revenue ≥ ₹25 Cr
+Pre-emptive & Anti -dilution:  Weighted -average protection
+Liquidation Preference:  1x non -participating (higher of investment or pro -rata)
+Share Transfers:
+Founders:  Lock -in till Investor exit (ALP suggests 3 -yr limit & 10% liquidity carve -
+out)ROFR & Tag -along:  Investor first right / proportional exit; full exit if control 
+changes
+Investor:  Freely transferable (ALP proposes restriction on sales to competitors)
+Exit:
+Timeline:  Within 8 –9 years
+Modes:  IPO / Third -party sale / Drag -along
+Valuation:  ALP requests FMV -based exit vs “Investor acceptable” price
+Defaults & Remedies:
+Fraud, breach, or Founder termination for Cause = Event of Default
+90-day cure; post that, Investor can freely transfer or exercise drag rights
+Key ALP Comments:
+Deemed approval for reserved matters (7 days)
+Clarify governance if Honasa  >50%
+Relax Founder lock -in & ensure FMV -based exits
+• Investment & Capital : Series A CCPS; future Subsequent Investment right (post ₹25 Cr quarterly revenue).
+• Governance : 4-member Board (3 Founders + 1 Honasa ); Reserved Matters require Honasa’s consent.
+• Information Rights : Honasa  entitled to financials, MIS, budgets, and inspection access.
+• Transfer Restrictions : Founders’ lock -in (proposed 3 yrs); Honasa  free transfer (no Competitors); ROFR & Tag -Along rights.
+• Investor Protections : Pre -emptive rights, anti -dilution (broad -based weighted avg), 1x liquidation preference.
+• Exit Rights : 8–9 years; via IPO, Third -Party Sale (FMV), or Drag/Strategic Sale ( Honasa -led).
+• Default & Consequences : Fraud or breach = Event of Default; 90 -day cure; Honasa  may transfer freely or enforce rights.
+• Miscellaneous : Non -compete, confidentiality, dispute resolution (arbitration), Deed of Adherence for new shareholders.Category 
+Expansion
+Opportunity to scale into multiple 
+personal care categories for men, 
+using existing product equity1Channel Expansion
+Clear upside across Offline, 
+e-commerce and Quick Commerce 
+beyond current D2C2
+Geography 
+Expansion
+Significant headroom to grow beyond 
+South India with localized go -to-
+market playbooks3

@@ -1,0 +1,349 @@
+ 
+ 
+ 
+January 08, 2026 
+ 
+Listing Department 
+BSE Limited  
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai – 400 001 
+ 
+Scrip Code: 544418 Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (East) 
+Mumbai – 400051 
+ 
+Name of Scrip: OSWALPUMPS 
+ 
+Sub.: Press Release 
+ 
+Dear Sir/ Madam, 
+ 
+Pursuant to the provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, please find enclosed Press Release dated January 08, 
+2026 being issued by the Company for dissemination to the public. 
+ 
+This is for your information and records. 
+ 
+Thanking you, 
+ 
+Yours faithfully 
+ 
+For Oswal Pumps Limited 
+ 
+ 
+ 
+Anish Kumar 
+Company Secretary and Compliance Officer 
+ 
+Encl: As above  
+ 
+ 
+Press Release  
+ 
+  
+Karnal, Haryana, 08th January 2026: Oswal Pumps Limited wishes to address certain observations 
+contained in a report currently circulating in the public domain. While the Company recognizes the value 
+of independent analysis, it believes that some interpretations in the report do not fully reflect the 
+Company’s operating realities. Accordingly, Oswal Pumps wish to provide a detailed, point-by-point 
+response to the key observations in Annexure A to offer appropriate context and clarity. The Company 
+remains confident in the integrity of its financial reporting and governance framework and encourages 
+investors and other stakeholders to engage directly with management for any further clarifications or 
+queries. 
+ 
+ 
+About Oswal Pumps Limited  
+ 
+Oswal Pumps is one of India’s fastest-growing, vertically integrated solar pump manufacturer. With a 
+legacy of over two decades in pump engineering and manufacturing, the company is a fully integrated 
+provider of turnkey solar pumping systems. It has established a strong presence across solar-powered and 
+grid-connected submersible and monoblock pumps, electric motors, and solar modules—all marketed 
+under the trusted ‘Oswal’ brand.  
+ 
+The Company is accredited with ISO 9001:2015, ISO 45001:2018, and ISO 14001:2015 certifications and is 
+listed under the Ministry of New and Renewable Energy’s Approved List of Models and Manufacturers 
+(ALMM).  
+ 
+With a strong pan-India distribution network, growing international footprint across countries, and a 
+focused design and engineering team, Oswal Pumps continues to cater to the diverse requirements of end-
+users in the agricultural, residential and industrial sectors. 
+ 
+For further information, please contact:  
+ 
+Subodh Kumar  
+ 
+Chief Financial Officer 
+ 
+Email: subodh.kumar@oswalpumps.com  
+ 
+ 
+  
+
+ 
+Annexure A 
+Category Area of Concern  Assessment  Rationale & Evidence  Reply 
+Accounting  Cash Quality  High Risk Cash Flow Divergence: Reported 
+PAT of Rs.2,806 Mn  
+(FY25) vs. Negative Operating 
+Cash Flow of Rs.(1,505) Mn.  
+Trend continued in Sep-25 
+(H1) with negative OCF of 
+Rs.(659) Mn.  The Company is presently operating in a high-
+growth phase, largely driven by government-
+led programs, including PM- KUSUM and state 
+DISCOM initiatives. In accordance with Ind AS 
+115 (Revenue from Contracts with Customers), 
+revenue is recognized upon fulfilm ent of 
+performance obligations, whereas cash 
+realization is subject to disbursement and 
+approval cycles. As a result, while the Company 
+reported a Profit After Tax of ₹2,806 million in 
+FY25, operating cash flows were negative due 
+to elevated working capita l requirements 
+arising from rapid execution. This is generally 
+typical in phases of high growth.  
+Despite this, Company has achieved good 
+margin.  
+Accounting  Obfuscation 
+Patterns High Risk Auditor Qualification: Statutory 
+auditor noted "No audit trail 
+feature was enabled at the 
+database level throughout the 
+year" (FY25), violating MCA 
+requirements and risking data 
+manipulation.  While the Company used its ERP system and 
+recorded audit trail (edit log) throughout the 
+year for all relevant transactions recorded in 
+the ERP, certain database- level audit trail 
+functionalities were not fully enabled due to 
+limitations of the older versi on of the ERP 
+system (Microsoft Navision). The Company has 
+already initiated migration from the older 
+Navision ERP to Microsoft Business Central, 
+which includes enhanced and mandatory audit 
+trail. System configurations are being aligned 
+with the requiremen ts of Section 128 of the 
+Companies Act, 2013 , Rule 3(1) of the 
+Companies (Accounts) Rules, 2014. These 
+enhancements are currently under 
+implementation and will be subject to 
+validation and review by the Statutory Auditors 
+as part of their audit procedures in subsequent 
+period. 
+Accounting records and other records of the 
+Company has been maintained as per the 
+requirement of the Companies Act, 2013, and 
+applicable Indian Accounting Standards (Ind 
+AS). 
+Accounting  Revenue 
+Recognition 
+Quality High Risk Receivables Ballooning: Trade 
+receivables surged to Rs.6,150 
+Mn (FY25)  
+from Rs.2,399 Mn (FY24), 
+outpacing revenue growth. Days 
+Sales Outstanding (DSO) 
+deteriorated from ~113 to ~176 
+days. Trade receivables increased during FY25 
+primarily on account of higher volumes under 
+government- backed projects. PM Kusum 
+Scheme-related receivables typically 
+experience a realization cycle of six to nine 
+months. Credit risk on such receivables is 
+assessed in accordance with Ind AS 109 
+(Expected Credit Loss framework).  
+ 
+Given that a substantial portion of receivables 
+is due from government and government-
+linked entities, the underlying credit risk 
+remains extremely low, although extended 
+collection timelines do impact cash flow 
+metrics. Further we are regularly accounting for 
+delay in receivables through Expected Credit 
+Loss (ECL) provisions to mitigate the impact of 
+delayed recovery on the Balance sheet.  
+Accounting  Hidden Leverage 
+& Control High Risk Supply Chain Financing: 
+Rs.1,336.96 Mn (FY25) in 
+"Payable under supply chain 
+financing" is classified as *Other 
+Financial Liabilities*, not 
+Borrowings. True debt is ~40% 
+higher than headline 
+"Borrowings". The Company utilizes supply chain financing 
+arrangements as part of its normal working 
+capital management to optimize cash flows and 
+support vendor relationships. These 
+arrangements are entered into in the ordinary 
+course of business and are primarily link ed to 
+trade payables arising from procurement of 
+goods and services. And terms of the 
+arrangement are such that the entity continues 
+to have an obligation toward the supplier, has 
+not provided any security or guarantee, and is 
+not treated as borrowing in t he Company 
+books. Considering above, the obligation is no 
+longer trade payable; accordingly, the same has 
+been correctly disclosed under “Other Current 
+Financial Liabilities” in the balance sheet. 
+Similar disclosure has been given in the 
+standalone financi al statements. The same 
+disclosure can also be seen being made in Tata 
+Motors Limited in FY 23- 24 and Gravita India 
+Limited in FY 23-24.  
+Business Liquidity Risk High Risk Cash Burn: Despite IPO 
+proceeds, FCF remains deeply 
+negative due to working capital 
+lock-up in government contracts 
+(PM KUSUM). Cash conversion 
+cycle stressed by delayed 
+subsidy payments. The Company is presently operating in a high-
+growth phase, largely driven by government-
+led programs, including PM- KUSUM and state 
+DISCOM initiatives. In accordance with Ind AS 
+115 (Revenue from Contracts with Customers), 
+revenue is recognized upon fulfilm ent of 
+performance obligations, whereas cash 
+realization is subject to disbursement and 
+payment approval cycles. As a result, while the 
+Company reported a Profit After Tax of ₹2,806 
+million in FY25, operating cash flows were 
+negative due to elevated workin g capital 
+requirements arising from rapid execution. This 
+is generally typical in phases of high growth.  
+Despite this, and basis our strong execution 
+capabilities and significant backward 
+integration, we continue to have good liquidity 
+and are achieving strong margins.  
+ 
+Accounting  Earnings Quality  Medium 
+Risk Paper Profits: EBITDA margin 
+expanded to 29.4% (FY25), but 
+quality is poor as earnings are 
+stuck in uncollected receivables 
+(Government/State agencies). Trade receivables increased during FY25 
+primarily on account of higher volumes under 
+government- backed projects. PM Kusum 
+Scheme-related receivables typically 
+experience a realization cycle of six to nine 
+months. Credit risk on such receivables is 
+assessed in accordance with Ind AS 109 
+(Expected Credit Loss framework).  
+Given that a substantial portion of receivables 
+is due from government and government-
+linked entities, the underlying credit risk 
+remains extremely low, although extended 
+collection timelines do impact cash flow 
+metrics. Further we are regularly accounting for 
+delay in receivables through Expected Credit 
+Loss (ECL) provision to mitigate the impact of  
+delayed recovery on the Balance Sheet.  
+Business High Customer 
+& Counterparty 
+Concentration Medium 
+Risk Govt Dependence: 68% of 
+revenue (FY25) from 
+Government projects (PM 
+KUSUM). 
+Receivables risk is 
+sovereign/state-level, leading to 
+extended payment cycles and 
+politically contingent cash flows. The Company acknowledges the observation 
+regarding revenue concentration from 
+government- linked programs, including state 
+DISCOMs and subsidy- driven schemes. 
+Revenue concentration arising from 
+government programs is an inherent 
+characteristic of the curren t business phase and 
+is appropriately disclosed. Revenue 
+concentration, associated receivable cycles, 
+and related risks are transparently disclosed in 
+the financial statements in accordance with 
+applicable Ind AS disclosure requirements.  
+Governance Insider 
+Enrichment Medium 
+Risk Related Party Intensity: 
+Significant procurement/sales 
+with associate *Walso Solar*. 
+Promoters hold 
+~100% of *Singh Engcon* 
+(Group Co). High volume of RPTs 
+relative to revenue warrants 
+scrutiny. Walso Solar Solution Private Limited 
+Oswal Pumps Limited subscribed 38.50% equity 
+stake in Walso Solar Solution Private Limited 
+during FY 2024-25 , consequent to which Walso 
+became an associate company . Walso is 
+engaged in manufacturing solar module 
+structures and balance-of- system (BOS) 
+components used in solar pumping solutions. 
+The investment was a strategic decision aimed 
+at ensuring supply continuity, quality 
+assurance, and operational efficiency in a scale-
+up environment. All transactions with Walso 
+are entered in the ordinary course of business 
+at arm’s length , which are being approved by 
+the Audit Committee/ Board/ Shareholders, as 
+may be applicable, in accordance with the 
+applicable laws for the time being in force and 
+disclosed in compliance with  Ind AS 24 –
+Related Party Disclosures. 
+Singh Engcon Private Limited 
+Singh Engcon Private Limited is one of the 
+ 
+Promoter companies. During the period 
+under observation, there were no material 
+transactions with this entity, other than 
+receipt of rent for premises from Singh 
+Engcon, which was also at arm’s length and 
+non-significant in value. All transactions with 
+Singh Engcon are entered in the ordinary 
+course of business at arm’s length , which are 
+being approved by the Audit Committee/ 
+Board/ Shareholders, as may be applicable, 
+in accordance with the applicable laws for 
+the time being in force and disclosed in 
+compliance with  Ind AS 24 – Related Party 
+Disclosures.  
+Governance Board & Audit 
+Failures Medium 
+Risk Audit Trail Failure: The failure to 
+maintain edit logs (audit trail) is 
+a governance lapse indicating 
+weak internal IT controls, though 
+auditors maintained an 
+unmodified opinion on 
+financials. While the company used its ERP system and 
+recorded audit trail (edit log) throughout the 
+year for all relevant transactions recorded in 
+the ERP, certain database- level audit trail 
+functionalities were not fully enabled due to 
+limitations of the older versi on of the ERP 
+system (Microsoft Navision). The Company has 
+already initiated migration from the older 
+Navision ERP to Microsoft Business Central, 
+which includes enhanced and mandatory audit 
+trail. System configurations are being aligned 
+with the requiremen ts of Section 128 of the 
+Companies Act, 2013 , Rule 3(1) of the 
+Companies (Accounts) Rules, 2014. These 
+enhancements are currently under 
+implementation and will be subject to 
+validation and review by the Statutory Auditors 
+as part of their audit procedures in subsequent 
+period. 
+Accounting records and other records of the 
+Company has been maintained as per the 
+requirement of the Companies Act, 2013, and 
+applicable Indian Accounting Standards (Ind 
+AS). 
+Accounting  Asset 
+Capitalization 
+Quality Low Risk CWIP and fixed asset additions 
+appear consistent with disclosed 
+expansion plans (new solar 
+module capacity). No abnormal 
+capitalization of expenses 
+detected. No Comments  

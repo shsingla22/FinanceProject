@@ -1,0 +1,317 @@
+ 
+ 
+ 
+ 
+   Date: 15th December, 2025 
+ 
+To, 
+Manager - Listing Compliance 
+National Stock Exchange of India 
+Limited ‘Exchange Plaza’. C-1, Block 
+G, 
+Bandra Kurla Complex, Bandra (E),  
+Mumbai - 400 051 
+SYMBOL: JSLL To, 
+Head of the Department, 
+Department of Listing Operation, 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai 400001 
+SCRIP Code: 544476 
+ 
+Subject: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 – Publication of Case studies . 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we wish to inform you that the following Case studies have been Published in “ Ayurvidya 
+Adhyan: Global Journal of Ayurveda, Yoga and Integrative Medicine ” authored by medical 
+professionals associated with Jeena Sikho Lifecare Limited , including our Managing Director, senior 
+consultants, and Ayurvedic experts.  
+ 
+These publications underscore the Company’s continued commitment to advancing Ayurvedic research 
+and promoting evidence-based clinical practices. The details of the case studies are as follows:   
+S. 
+No. Type Name 
+1.   
+      Case 
+Study Ayurvedic Insights in Managing Chronic Kidney Disease: A Holistic Healing 
+Approach 
+2.   
+      Case 
+Study Twak Vikara Chikitsa in Ayurveda: A Case Report on Lipodermatosclerosis with 
+Venous Ulcer 
+3.  Case 
+Study Revitalizing Renal Health: A Case Study of Integrative Ayurvedic Treatment for 
+Chronic Kidney Disease in a Patient with Hypertension, Diabetes and Fatty Liver 
+4. Case 
+Study Ayurvedic Management of CLD (Nash) Associated with Type 2 Diabetes Mellitus: 
+A Case Report 
+ 
+The above-mentioned case studies have been co-authored by Acharya Manish Grover Ji (Managing 
+Director) along with the medical Dr. Gitika Chaudhary, Dr. Richa, Dr. Suyash Pratap Singh, Dr. 
+Manjeet Singh and Dr. Priyank Sharma, Dr. Harshit Maurya and Dr. Tanu Rani, Dr. Amandeep Singh 
+associated with the Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Copies of the case studies are enclosed as Annexures A to D  for your records.  
+ 
+ 
+ 
+This is for your kind information and record. 
+ 
+Thanking you, 
+Yours faithfully, 
+ 
+For Jeena Sikho Lifecare Limited 
+ 
+ 
+ 
+Manish Grover 
+Managing Director 
+DIN: 07557886 
+ 
+Place: Zirakpur, Punjab 
+Date: 15.12.2025  
+ 
+ 
+ 
+ 
+ 
+ 
+< 9 > *Corresponding Author: Dr. Gitika Chaudhary   
+ 
+ 
+  
+ 
+  
+ 
+Ayurvedic Insights in Managing Chronic Kidney Disease: A Holistic Healing 
+Approach 
+1Acharya Manish , *2Dr. Gitika Chaudhary , 3Dr. Richa, 4Dr. Suyash Pratap Singh, 5Dr. Manjeet Singh and 
+6Dr. Priyank Sharma  
+1Director, Meditation Guru, Jeena Sikho Lifecare Limited, India. 
+*2Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ay.), Jeena Sikho Lifecare Limited, India . 
+3Senior Research Officer and Consultant, BAMS, PGDIP, CICR, CAIM, CMW, Jeena Sikho Lifecare Limited, India. 
+4Medical Sup erintendent, BAMS, PGDIP, DNYT, CCMC, Jeena Sikho Lifecare Limited Hospital, Derabassi, Punjab, India . 
+5Consultant, BAMS, PGDIP, ACLS, CCDN, CICR, CAIM, Jeena Sikho Lifecare Limited Hospital, Derabassi, Punjab, India. 
+6Consultant, BAMS, EMS, Jeena Sikho Li fecare Limited, Hospital, Derabassi, Punjab , India . 
+  
+Abstract  
+Chronic kidney disease (CKD), type 2 diabetes mellitus (T2DM), hypertension, and coronary artery disease (CAD) are 
+interrelated chronic conditions that pose major global health challenges. CKD , particularly in its advanced stages, leads to toxin 
+buildup, fluid -electrolyte imbalance, and multi -organ complications. When CKD coexists with T2DM, hypertension, and CAD, 
+the complexity of clinical management increases significantly, highlighting the need for integrative approaches. This case study evaluates the impact of Ayurvedic treatment in a 48 -year-old female diagnosed with stage V CKD, along with T2DM, 
+hypertension, and CAD, admitted at Jeena Sikho Lifecare Limited Hospital, Derabassi, Punjab, In dia. Presenting symptoms 
+included pedal oedema, generalized weakness, and lower back pain. The patient received inpatient Ayurvedic care comprising 
+Panchakarma therapies, Ayurvedic formulations, and a customized diet plan. Over a seven -day treatment period , notable 
+symptomatic relief was observed. Pedal edema reduced from grade 3 to grade 1, generalized weakness improved, and lower back 
+pain decreased from a score of 4/10 to 1/10. Biochemical investigations also showed measurable improvements: blood urea le vels 
+declined from 65.38 mg/dL to 62.57 mg/dL, serum creatinine from 8.60 mg/dL to 7.41 mg/dL, and uric acid from 6.24 mg/dL to 
+6.18 mg/dL. These findings suggest that Ayurvedic interventions may support renal function, improve clinical symptoms, and 
+enhance patient well- being in complex cases of CKD with comorbidities. However, rigorous clinical trials are necessary to 
+validate these observations and develop standardized protocols for integrative CKD management . 
+ Keywords:  Ayurveda,  Chronic Kidney Disease (CKD), Hridroga, Hypertension,  Madhumeha, Panchakarma, Type II Diabetes 
+Mellitus (T2DM), Vataj pandu.
+ 
+  
+Introduction  
+Chronic kidney disease (CKD), type 2 diabetes mellitus (T2DM), hypertension, and coronary artery disease (CAD) are interlinked conditions  with a significant global health 
+impact 
+[1]. CKD is a progressive loss of kidney function, 
+leading to toxin accumulation, e lectrolyte imbalances, and 
+systemic complications. Stage 5 CKD, or end -stage renal 
+disease (ESRD), occurs when kidney funct ion drops  below 
+15%, requiring dialysis or transplantation [2]. 
+T2DM, driven by insulin resistance and hyperglycemia, is a primary cause of CKD, leading to diabetic nephropathy. Hypertension accelerates kidney damage, further increasing cardiovascular risk 
+[4]. CAD, caused by arterial plaque 
+buildup, heightens the risk of myocardial infarction and heart failure. The coexistence of these conditions worsens patient outcomes, demanding a multidisciplinary management strategy 
+[4]. Patients with both T2DM and CKD face a 77.2% 
+higher risk of cardiovascular events compared to those with a single condition 
+[5]. Hypertension affects 89% of CKD 
+patients with CAD, exacerbating cardiovascular risks [6]. CKD 
+progression is accelerated in diabetics and hypertensives, leading to an emia, high urea, and creatinine levels 
+[7]. 
+Targeted interventions, including antihypertensives and glucose -lowering therapies, have demonstrated efficacy in Received : 05/October /2025   AYUR : November -December, 2025; 1(6):09-18  Accepted:  23/November/2025   E-ISSN: 3049 -2920 , P-ISSN: 3107 -8397  
+Ayurvidya Adhyan  
+Global Journal of Ayurveda, Yoga and 
+Integrative Medicine  Ayurvidya Adhyan : 
+Global J ournal of Ayur veda, Y oga and 
+Integrative Medicine  
+Annexure-A
+ 
+< 10 > www.vedadhyan.com  Ayurvidya Adhyan: Global Journal of Ayurveda, Yoga and Integrative Medicine  
+slowing disease progression [8]. Management of CAD in CKD 
+remains debated. Some studies advocate aggressive 
+revascularization, while others suggest conservative 
+management yields similar mortality outcomes but different 
+heart failure rates [6]. The complexity of managing multiple 
+comorbidities highlights the need for pa tient-specific 
+treatment plans.  
+Modern Treat ment Strategies are as follows:  
+• Pharmacological Interventions:  ACE inhibitors, ARBs, 
+SGLT2 inhibitors, and statins are essential in CKD and cardiovascular risk reduction.  • Dialysis & Transplantation:  ESRD requires renal 
+replacement therapy, with transplantation being the 
+definitive treatment.  
+ Ayurveda  offers a holistic approach to managing CKD, 
+diabetes, hypertension, and CAD by addressing doshic  
+imbalances and promoting systemic detoxification. The Samprapti Ghatak  is mentioned in Table 1.  
+ 
+Table 1: The Samprapti Ghatak  
+ 
+Ghataka (Factor)  Details  
+Dosha  (Bio-energies)  Pradhana: Kapha -Vata  (primarily Kapha  and Vata ) 
+Anubandha: Pitta  (associated in later stages)  
+Dushya  (Affected tissues)  Rasa  (plasma),  Rakta  (blood), Meda  (adipose),  Mamsa  (muscle),  Majja  (bone marrow),  
+Shukra  (reproductive tissue),  Mutra  (urine)  
+Srotas  (Affected channels)  Mutravaha Srotas  (urinary channels), Rasavaha  (plasma carrying), Raktavaha  (blood -
+carrying), Medovaha  (fat-carrying channels)  
+Srotodushti  (Channel vitiation)  Sanga (obstruction), Vimargagamana  (misdirection), Atipravritti  (excessive flow)  
+Agni  (Digestive/metabolic fire)  Mandagni  (low digestive/metabolic activity)  
+Ama (Toxins/undigested waste)  Present in early & chronic stages, evolves into Ama visha  (toxic by -products)  
+Udbhava Sthana (Origin site)  Amashaya  (stomach/GI tract) or Rasavaha Srotas  (plasma -carrying channels)  
+Sanchara Sthana (Circulation site)  Sarva Sharira  (whole body) via Rasa -Rakta  (plasma -blood)  
+Adhisthana  (Seat of manifestation)  Mutravaha Srotas  (urinary system, mainly kidneys and bladder)  
+Vyakti Sthana  (Site of expression)  Vrikka  (kidneys), Basti  (urinary bladder), and Dhatus  (tissues)  
+Rogamarga  (Pathway of disease)  Abhyantara  (internal pathway)  
+ 
+• Panchakarma Therapy:  Detoxification treatments,  
+including Basti  and Virechana, have shown potential in 
+improving renal function and reducing dialysis dependency 
+[9, 10, 11]. 
+• Ayurvedic Interventions:  Diuretic and anti -
+inflammatory formulations supports renal health [12]. 
+Ayurvedic herbs like Punarnava and Gokshura aid in 
+nephroprotection.  
+• Diabetes & Hypertension Management:  Ayurvedic 
+dietary principles, including a low -carb, high -protein diet, 
+show benefits in metabolic stability control [13]. 
+• Cardiovascular Support:  Panchakarma (Virechana , 
+Basti ) remove s toxins, while medications like Arjuna, 
+Guggulu, and Punarnava improve heart function, reduce 
+cholesterol, and prevent arterial blockages. A Sattvic  diet, 
+Ayurvedic medicines, and stress management through 
+Yoga, Pranayama, and Abhyanga  enhance circulation  
+and reduce heart disease risk [14]. 
+ Integrating Ayurveda  with allopathic medicines may enhance 
+outcomes for CKD, diabetes, hypertension, and CAD patients. While Ayurvedic treatments show promise, further clinical 
+validation is essential to establish their efficacy as complementary therapeutic options. Bridging Ayurvedic and 
+allopathic medicine through evidence -based research can 
+improve patient care.  
+ 
+Objective  
+This study aims to assess the impact of Ayurvedic  
+interventions combined with conventional trea tments for CKD with hypertension, T2DM and CAD in a 48 -year-old 
+female patient.  
+ Materials and Methods  
+1. Case Report  
+On June 14, 2024, a 48 -year-old female, a known case of 
+Chronic Kidney Disease stage V for the past six months, 
+Hypertension for three years,  Type 2 diabetes mellitus for 
+twenty years, and Coronary Artery Disease with a history of 
+percutaneous transluminal coronary angioplasty in 2021, visited Jeena Sikho Lifecare Limited Hospital in Derabassi, Punjab, India. A detailed evaluation was conducted , including 
+comprehensive medical and family history, physical 
+examination, and diagnostic investigations. She presented 
+with intermittent pedal oedema, lower backache, and generalised weakness. Her vital signs on the first day of admission, at discharge, and during follow -up are presented in 
+Table 2. The findings of the Ashta -vidha Pareeksha 
+conducted on the first day and at discharge are detailed in 
+Table 3.  
+ 
+Table 2 : Vitals during the first day of the visit, discharge and follow 
+up 
+ 
+Parameter  Findings  
+Date 14-06-2024  20-06-2024  17-07-2024  
+Blood Pressure  140/100 mm of 
+Hg 140/90 mm of 
+Hg 140/80 mm of 
+Hg 
+Pulse Rate  87/min  88/min  84/min  
+Weight  61 Kg  60 Kg  59 Kg  
+ 
+ 
+< 11 > www.vedadhyan.com  Ayurvidya Adhyan: Global Journal of Ayurveda, Yoga and Integrative Medicine  
+Table 3 : Ashta -vidh pareeksha  during first day of the visit and 
+discharge 
+ 
+Parameter  Findings  
+Date  14/06/2024  20/06/2024  
+Naadi  (Pulse)  Vataj Pittaj  Vataj Pittaj  
+Mala  (Stool)  Vibandhah  (Constipated)  Avikrit  (Normal)  
+Mutra  (Urine)  Safena  (Frothy)  Avikrit  (Normal)  
+Jiwha (Tongue)  Saam (Coated)  Niram (Normal)  
+Sparsh (Touch)  Anushna Sheet  (Normal)  Anushna Sheet  (Normal)  
+Shabda (Voice)  Spasht a (Clear) Spashta  (Clear) 
+Drik (Eye)  Avikrit  (Normal)  Avikrit  (Normal)  
+Akriti (Physique)  Madhyam  Madhyam  
+ 
+The patient was in IPD for 7 days, during that period she 
+received consolidated Ayurvedic treatments.  This treatment procedure encompassed Panchakarma therapies such as 
+Awagaha swedan , Shiropichu with Brahmi  oil, Udar Basti  
+with Punarnava oil, Matra Basti  with Gokshura and 
+Punarnava oil, Udar pichu  with Dhanwantaram  oil followed 
+by Nadi swedan, Lepam with Dashmool and Punarnava, 
+Sarwang Abhyang with  Mahanarayan Tail and  Matra basti 
+with Gokshur, punarnava and  eranda Siddha Sneha . The 
+laboratory inve stigations during the treatment period is 
+mentioned in Table 4.  
+ 
+Table 4 : The laboratory investigations duri ng the treatment period 
+(Fig 1)  
+ 
+Parameter  Findings  
+Date  14/06/2024  19/06/2024  
+Blood urea  65.38 mg/dl  62.57 mg/dl  
+Serum creatinine 8.60 mg/dl  7.41 mg/dl  
+Uric acid  6.24 mg/dl  6.18 mg/dl  
+Sodium  144.3 mEq/l  137.5 mEq/l  
+Potassium  4.76 mEq/l  4.79 mEq/l  
+ 
+ 
+  
+ 
+Fig 1 : The laboratory investigation reports before and after treatment  
+ 
+2. Treatment Plan  
+An Ayurvedic and Disciplined and Intelligent Person’s (DIP) Diet was provided to the patient to complement the Ayurvedic 
+treatments administered for CKD [15]
+      
+ 
+< 12 > www.vedadhyan.com  Ayurvidya Adhyan: Global Journal of Ayurveda, Yoga and Integrative Medicine  
+1. Diet Plan:  
+Dietary Guidelines from Jeena Sikho Lifecare Limited Hospital (Fig 2): 
+ 
+ 
+ 
+2. Lifestyle Recommendations (Fig 3)  
+ 
+ 
+3. Panchakarma Procedures Administered  to Patient 
+i). Awagah Swedan  [16] 
+• The patient was submerged up to the navel in a tub 
+of warm wat er. 
+• The temperature of water was maintained at 42˚C.  
+• The patient spent 40 minutes under the conditions provided.  
+ 
+ii). Shiropichu with Brahmi Oil [17, 18] 
+• Brahmi oil  was warmed to a comfortable 
+temperature.  
+• 40 ml of warmed Brahmi oil  was gently applied to 
+the foreh ead and scalp.  • A cloth pad soaked in the oil was placed on the forehead, covering the Ajna Chakra and crown, and 
+left in place for 20 minutes.  
+ 
+iii). Udar  Basti  with Punarnava  Oil [19, 20, 21] 
+• The person was positioned comfortably, and Punarnava oil was warmed (37-42˚C) and applied to 
+the abdominal region to relax the muscles and prepare the area for treatment.  
+• A dough barrier was formed around the navel to 
+create a well that held the Punarnava oil in place.  
+• The warmed Punarnava oil was poured into the 
+dough res ervoir and left for 15- 30 minutes.  

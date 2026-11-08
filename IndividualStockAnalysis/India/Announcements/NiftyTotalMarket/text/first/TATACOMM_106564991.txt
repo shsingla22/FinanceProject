@@ -1,0 +1,129 @@
+ 
+ 
+ 
+Tata Communications Limited 
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurl a Complex Bandra (East) Mumbai 400098 India 
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001 
+Tel: 91 92289 18171  email: investor.relations@tatacommunications.com 
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com  
+ 
+ 
+ 
+HQ/CS/CL.24B/18383 
+March 24, 2026  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  Mumbai – 400 051  
+SYMBOL: TATACOMM BSE Limited  
+P.J. Towers, Dalal Street,  Mumbai – 400 001 
+Scrip Code: 500483 
+ 
+Dear Sir / Madam, 
+ 
+Sub:  Press Release - Tata Communications Unveils Self-Healing Network, Marks New 
+Frontier in Global Data Centre Connectivity  
+ 
+Please find attached herewith the press r elease on the captioned subject being issued today. 
+ 
+Kindly take the same on your records. 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Communications Limited  
+     
+ 
+Zubin Adil Patel  
+Company Secretary and Compliance Officer   
+ 
+  
+ 
+    
+ 
+    
+ 
+ 
+*DC Stands for Data Centre 
+ 
+Tata Communica Ɵons Unveils Self-Healing 
+Network, Marks New Fron Ɵer in Global 
+Data Centre Connec Ɵvity 
+ 
+Mumbai, INDIA, March 24, 2026  
+ Tata Communica Ɵons today rede ﬁned resilience for the global digital economy with the launch of IZO™ 
+Data Centre* Dynamic Connec Ɵvity, a soŌware-de ﬁned plaƞorm designed to transform how enterprises 
+connect their Data Centres in an increasing AI driven and distributed world.   In today’s digital economy, every enterprise depends on the ability to always be connected with an uninterrupted data ﬂow. From ﬁnancial transac Ɵons, IT-ITeS, Manufacturing etc.to streaming pla ƞorms 
+and online retail, the connec Ɵons between data centres keep the modern world running. When those 
+connecƟons are interrupted, businesses do not just slow down, they bring them to a complete stands Ɵll. 
+ Yet the networks connec Ɵng many enterprise data centres were built for a di ﬀerent era. Tradi Ɵonal DC-
+to-DC links were designed for predictable workloads and stable tra ﬃc paƩerns. Today’s reality is far 
+more dynamic. Enterprises operate across global loca Ɵons and cloud environments, moving massive 
+volumes of data in real Ɵme to support AI workloads and business needs. 
+ In an environment shaped by increasing geopoli Ɵcal constraints, cable outages, route failures, or sudden 
+spikes in demand, these can quickly cascade into service disrup Ɵon and opera Ɵonal risk, leading to a 
+costly down Ɵme. In such scenarios, the response is o Ōen reacƟve and manual, consuming valuable Ɵme 
+when business need certainty and speed.    Tata Communica Ɵons’ IZO™ DC Dynamic Connec Ɵvity addresses this challenge by introducing a self-
+healing, intelligent network that covers key global data centers across 5 con Ɵnents. Unlike conven Ɵonal 
+architectures, this pla ƞorm uses determinis Ɵc mulƟ-path rou Ɵng to deliver predictable latency and 
+performance. This means the pla ƞorm  is smart enough to automa Ɵcally re-route tra ﬃc within seconds - 
+without manual interven Ɵon during disrup Ɵ
+ons. This enables enterprises to achieve >99.99% service 
+availability across mission-cri Ɵcal infrastructure that supports business-cri Ɵcal applica Ɵons, turning 
+resilience from a con Ɵngency into a default state. 
+ The plaƞorm also gives enterprises access over their connec Ɵvity. Through a uni ﬁed digital interface and 
+APIs, enterprises can monitor performance, receive proac Ɵve alerts, and dynamically scale bandwidth as 
+workloads evolve. Business leaders no longer have to guess their future needs or over-pay for ‘just in 
+case’ bandwidth. The system provides Al-driven predic Ɵve insights allowing companies to forecast their 
+capacity requirements in advance. If a sudden workload demands more capacity or choice of route, users can instantly scale their bandwidth or add route through self-service feature.  The business impact is a shi Ō from crisis management to strategic growth. By moving to a ﬂexible, 
+consumpƟon-based pricing model, enterprises can reduce the need for idle backup capacity and save up 
+ 
+ 
+*DC Stands for Data Centre 
+to 30% on opera Ɵonal costs. Enterprises can ac Ɵvate resilience and bandwidth only when required, 
+helping op Ɵmise costs while maintaining determinis Ɵc performance across geographies. 
+ 
+This is the Tata Communica Ɵons advantage: combining enterprise-grade agility with predic Ɵve 
+intelligence to keep the world’s most important data  moving and ensuring enterprises are always on and 
+always connected.  
+CommenƟng on the launch, Genius Wong, Execu Ɵve Vice President, Core and Next-Gen Connec Ɵvity 
+Services and Chief Technology O ﬃcer, Tata Communica Ɵons, said: “Data centres are the core engines of 
+today’s digital economy, and the connec Ɵons between them must be as resilient as the networks that 
+connect them. They must be just as dynamic as the applica Ɵons they support. With IZO™ DC Dynamic 
+ConnecƟvity, we are shi Ōing resilience from a reac Ɵve process to an autonomous capability. By 
+combining global reach, determinis Ɵc rouƟng and intelligent automa Ɵon, we are enabling enterprises to 
+build a digital founda Ɵon that scales with con ﬁdence and operates without disrup Ɵon.” 
+ Media Contact Floyd Almeida 
+ﬂoyd.almeida@tatacommunica Ɵons.com  
+ 
+ 
+About Tata Communications 
+A part of the Tata Group, Tata Communicati ons (NSE: TATACOMM; BSE: 500483) is a global 
+digital ecosystem enabler powering today’s fa st-growing digital economy in more than 190 
+countries and territories. Leading with trust, it enables digital transformation of enterprises 
+globally with collaboration a nd connected solutions, core and next gen connectivity, cloud 
+hosting and security solutions and media services. 300 of the Fortune 500 companies are its 
+customers and the company connects businesses to  80% of the world’s cloud giants. For more 
+information, please visit www.tatacommunications.com   
+     
+ 
+Forward-looking and cautionary statements  
+Certain words and statements in this release concerning Tata Communications and its prospects, and other statements, including those relating to Tata 
+Communications’ expected financial position, business strategy, the future development of Tata Communications’ operations, and the general economy 
+in India, are forward-looking statements. Such statements involve known and unknown risks, uncertainties and other factors, inc luding financial, 
+regulatory and environmental, as well as those relating to i ndustry growth and trend projections, which may cause actual result s, performance or 
+achievements of Tata Communications, or industry results, to differ materially from those expressed or implied by such forward- looking statements. 
+The important factors that could cause actual results, performance or achievements to differ materially from such forward-looki ng statements include, 
+among others, failure to increase the volume of traffic on Tata Communications’ network; failure to develop new products and se rvices that meet 
+customer demands and generate acceptable margins; failure to successfully complete commercial testing of new technology and inf ormation systems 
+to support new products and services, including voice transmission  services; failure to stabilize or reduce the rate of price c ompression on certain of the 
+company’s communications services; failure to integrate strategic acquisitions and changes in gove rnment policies or regulation s of India and, in 
+particular, changes relating to the administration of Tata Communications’ industry; and, in general, the economic, business an d credit conditions in 
+India. Additional factors that could cause actual results, performance or achievements to differ materially from such forward-l ooking statements, many 
+of which are not in Tata Communications’ control, include, but are not limited to, those risk factors discussed in Tata Communi cations Limited’s Annual 
+Reports.   
+The Annual Reports of Tata Communications Limited are available at www.tatacommunications.com. Tata Communications is under no obligation to, 
+and expressly disclaims any obligation to, update or alter its forward-looking statements.  
+© 2026 Tata Communications Ltd. All rights reserved. TATA COMMUNICA TIONS and TATA are trademarks or registered trademarks of Ta ta Sons Private 
+Limited in India and certain countries. All other third-party trademarks belong to their respective owners.  
+ 
+ 

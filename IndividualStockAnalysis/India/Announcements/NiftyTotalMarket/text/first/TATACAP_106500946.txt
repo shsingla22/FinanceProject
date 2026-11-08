@@ -1,0 +1,206 @@
+ 
+ 
+ 
+January 19,  2026 
+ 
+To, 
+The Listing Department  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers, Dalal Street,  
+Mumbai – 400001  
+Scrip Code: 544574        
+To, 
+The Listing Department  
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (East), Mumbai – 400051  
+Symbol: TATACAP   
+ 
+Dear Sir / Madam,  
+ 
+Sub.: Press Release on Unaudited Financial Results for the quarter and nine months  ended 
+December 3 1, 2025  
+ 
+Ref.: Tata Capital Limited (“Company”)  
+ 
+Please find enclosed herewith the Press Release on Unaudited Standalone and Consolidated 
+Financial Results of the Company for the quarter and nine months  ended December 3 1, 2025, 
+which were approved by the Board of Directors at its meeting held today i.e.  January 19 , 202 6.  
+ 
+We request you to take the above on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Tata Capital Limited  
+ 
+ 
+  
+Sarita Kamath  
+Chief Legal and Compliance Officer & Company Secretary  
+ 
+Encl.: as above  
+ 
+ 
+ 
+PRESS RELEASE
+Financial Results for Q3FY26
+1
+AUM of ₹ 2,60,698cr (up 7% QoQ), and PAT (1) of ₹ 1,290cr (up 18% QoQ)
+Motor Finance business achieves PAT breakeven(1)
+Mumbai,  January  19, 2026 : A meeting  of the Board  of Directors  of Tata Capital  Limited  (TCL)  was held 
+today  to consider  and approve  the unaudited  consolidated  financial  results  for the quarter  ended  
+December  31, 2025 .
+Commenting  on the financial  results,  Mr. Rajiv  Sabharwal,  Managing  Director  & CEO, Tata Capital  
+said, “We witnessed  sustained  business  momentum  in Q3FY26, with broad -based  growth  across  
+products . Excluding  Motor  Finance,  AUM  grew  26% year-on-year to ₹ 2,34,114 crore,  and comparable  
+PAT(1) increased  by 39% year-on-year to ₹ 1,285 crore  for Q3FY26. Credit  quality  continued  to remain  
+robust,  with early  leading  indicators  reflecting  stable  portfolio  performance  across  segments . Unsecured  
+retail  disbursements,  which  were  moderated  earlier  as a prudent  risk measure,  have  seen a gradual  
+uptick,  with slippages  coming  down . Our distribution  network  and strategic  focus  on digital  and GenAI  
+capabilities,  continue  to drive  operating  efficiencies ."
+On Consolidated  business  including  Motor  Finance,  he added  “In Q3FY26, our AUM  grew  7% 
+quarter -on-quarter  and PAT(1) rose 18% to ₹1,290 crore . Our Motor  Finance  segment  achieved  PAT(1) 
+breakeven  this quarter,  and we remain  focused  on executing  our strategic  priorities ."
+From  a macro  perspective  he stated  "India’s  growth  outlook  remains  robust,  underpinned  by resilient  
+domestic  demand,  favorable  demographics,  and strong  macroeconomic  fundamentals . Recent  policy  
+initiatives  - such as GST rationalization,  tax relief  measures,  repo rate cuts, and accommodative  liquidity  
+policies  - are expected  to further  stimulate  consumption  and economic  activity . We are well positioned  
+to leverage  these  tailwinds,  contribute  to India’s  long-term  growth,  and deliver  sustainable  value  for all 
+stakeholders ."
+Representation  of financial  information : 
+➢Tata Motors  Finance  Limited  (Motor  Finance)  acquisition  completed  on May 8, 2025 . 
+➢For better  understanding,  we have  presented  figures  both  excluding  and including  Motor  Finance  
+business . 
+➢While  figures  excluding  Motor  Finance  can be compared  on YoY and QoQ  bases,  figures  including  
+Motor  Finance  are best viewed  on a QoQ  basis .
+(1) Excluding impact of new labour codes. 
+CONSOLIDATED  PERFORMANCE  HIGHLIGHTS  – Q3FY26 Excluding  Motor  Finance :
+➢Assets  under  management  grew  by 26% YoY to ₹ 2,34,114 crore  as on December  31, 2025 , from  
+₹ 1,86,404 crore  as on December  31, 2024 .
+➢Net total  income  grew  by 33% YoY to ₹ 3,594 crore  in Q3FY26 from  ₹ 2,711 crore  in Q3FY25.
+➢Annualized  operating  expense  on average  net loan book  improved  to 2.3% in Q3FY26 from  2.4% 
+in Q3FY25.
+➢Cost to income  ratio  stood  at 35.7% in Q3FY26 vs. 40.1% in Q3FY25.
+➢Annualized  credit  cost was 1.0% in Q3FY26 vs. 1.1% in Q2FY26.
+➢PAT (excluding  non-recurring  items)  grew  by 39% YoY to ₹ 1,285 crore  in Q3FY26 from  ₹ 922 crore  
+in Q3FY25. Including  such items,  PAT grew  by 36% YoY.
+➢Annualized  ROA  at 2.3% in Q3FY26 vs. 2.0% in Q3FY25. 
+➢Annualized  ROE at 14.3% in Q3FY26 vs. 14.1% in Q3FY25.
+➢Gross  stage  3 stood  at 1.6% as of December  31, 2025 .
+➢Net stage  3 stood  at 0.6% as of December  31, 2025 .
+➢Provision  coverage  ratio  stood  at 64.5% as of December  31, 2025 .
+Particulars; ₹ crores Q3FY25 Q2FY26 Q3FY26 YoY % 9MFY25 9MFY26 YoY %
+Assets under management (net) 1,86,404 2,15,574 2,34,114 26% 1,86,404 2,34,114 26%
+Gross loan book 1,89,892 2,15,286 2,33,319 23% 1,89,892 2,33,319 23%
+Net loan book 1,86,311 2,11,293 2,29,134 23% 1,86,311 2,29,134 23%
+Net interest income 2,323 2,637 2,936 26% 6,460 8,084 25%
+Fee income 390 588 591 ~ 1,103 1,685 ~
+Investment income (2) 105 66 ~ 180 355 ~
+Net total income 2,711 3,330 3,594 33% 7,743 10,125 31%
+Operating expense 1,086 1,220 1,283 18% 3,169 3,581 13%
+Pre-provisioning operating profit 1,625 2,110 2,311 42% 4,574 6,543 43%
+Loan losses and provisions 409 565 581 42% 993 1,841 85%
+Profit before tax 1,216 1,545 1,730 42% 3,581 4,703 31%
+PAT (excl. non -recurring items) 922 1,128 1,285 39% 2,625 3,436 31%
+Non-recurring items(1)(27) 123 (27)
+PAT (attributable to owners) 922 1,128 1,258 36% 2,748 3,409 24%
+(1) Reflects impact of new labour codes for Q3FY26 and 9MFY26, and non -recurring income and expenses largely attributed to PE ex it for 9MFY25.
+2
+
+CONSOLIDATED  PERFORMANCE  HIGHLIGHTS  – Q3FY26 Including  Motor  Finance :
+➢Retail  + SME constitutes  ~87% of Net AUM .
+➢Retail  unsecured  forms  10.4% of Net AUM  | Disbursement  in retail  unsecured  business  has picked  
+up. 
+➢Pan India  network  of 1,505 branches  across  27 states  and union  territories .
+➢Focused  on improving  business  metrices  in Motor  Finance  (~10% of Net AUM)  before  accelerating  
+growth . Excluding  labour  code  impact,  Motor  Finance  business  achieved  PAT breakeven  in Q3FY26.
+➢AUM  grew  by 7% QoQ  to ₹ 2,60,698 crore  as on December  31, 2025 , from  ₹ 2,43,896 crore  as on 
+September  30, 2025 .
+➢Net total  income  grew  by 7% QoQ  to ₹ 4,051 crore  in Q3FY26 from  ₹ 3,774 crore  in Q2FY26.
+➢Annualized  operating  expense  on average  net loan book  of 2.5% in Q3FY26 vs. 2.6% in Q2FY26.
+➢Cost to income  ratio  stood  at 38.4% in Q3FY26 vs. 39.7% in Q2FY26.
+➢Annualized  credit  cost of 1.2% in Q3FY26 vs. 1.3% in Q2FY26.
+➢PAT (excluding  non-recurring  items)  grew  by 18% QoQ  to ₹ 1,290 crore  in Q3FY26 from  
+₹ 1,097 crore  in Q2FY26. Including  such items,  PAT grew  by 15% QoQ .
+➢Annualized  ROA  at 2.1% in Q3FY26 vs. 1.9% in Q2FY26. 
+➢Annualized  ROE at 13.1% in Q3FY26 vs. 12.9% in Q2FY26.
+➢Gross  stage  3 stood  at 2.2% | Net stage  3 stood  at 1.0% | Provision  coverage  ratio  stood  at 
+53.6% as of December  31, 2025 .
+➢Total  equity  as of Dec-25 at ₹ 43,142 crore .
+➢Capital  risk adequacy  ratio  stood  at 20.3% as of December  31, 2025 .
+Particulars; ₹ crores Q1FY26 Q2FY26 Q3FY26 QoQ % 9MFY26
+Assets under management (net) 2,37,508 2,43,896 2,60,698 7% 2,60,698
+Gross loan book 2,33,399 2,39,960 2,57,140 7% 2,57,140
+Net loan book 2,28,579 2,34,991 2,51,890 7% 2,51,890
+Net interest income 2,867 3,004 3,315 10% 9,185
+Fee income 576 666 670 ~ 1,911
+Investment income 184 105 66 ~ 355
+Net total income 3,626 3,774 4,051 7% 11,451
+Operating expense 1,335 1,497 1,555 4% 4,387
+Pre-provisioning operating profit 2,291 2,277 2,497 10% 7,065
+Loan losses and provisions 909 773 759 (2)% 2,441
+Profit before tax 1,383 1,504 1,738 16% 4,624
+PAT (excl. non -recurring items) 990 1,097 1,290 18% 3,377
+Non-recurring items(1)(33) (33)
+PAT (attributable to owners) 990 1,097 1,257 15% 3,344
+3
+(1) Reflects impact of new labour codes.
+Material  Subsidiary  - Tata Capital  Housing  Finance  Limited  (TCHFL)  Q3FY26 Performance  
+➢100% wholly  owned  housing  finance  company
+➢Assets  under  management  grew  by 30% YoY to ₹ 81,585 crore  as of December  31, 2025  from   
+₹ 62,876 crore  as of December  31, 2024 .
+➢Net total  income  increased  by 29% YoY in Q3FY26 to ₹ 933 crore  from  ₹ 725 crore  in Q3FY25.
+➢Cost to income  ratio  was 31.8% for Q3FY26 vs. 32.9% in Q3FY25.
+➢Credit  cost for Q3FY26 remained  low at ₹ 16 crore  (annualized  0.1% of average  net loan book) .
+➢Profit  before  tax increased  by 24% YoY in Q3FY26 to ₹ 621 crore  from  ₹ 500 crore  in Q3FY25.
+➢PAT (excluding  non-recurring  items)  increased  by 25% YoY in Q3FY26 to ₹ 464 crore  from  
+₹ 372 crore  in Q3FY25. Including  such items,  PAT grew  by 23% YoY.
+➢Annualized  ROA  stable  at 2.4% in Q3FY26 vs. 2.4% in Q2FY26. 
+➢Annualized  ROE at 18.6% in Q3FY26 vs. 18.5% in Q2FY26.
+➢Gross  stage  3 stood  at 0.8% | Net stage  3 stood  at 0.4% | Provision  coverage  ratio  stood  at 
+54.2% as of December  31, 2025 .
+➢Capital  adequacy  ratio  as of December  31, 2025  was 16.9%.
+Particulars; ₹ crores Q3FY25 Q2FY26 Q3FY26 YoY % 9MFY25 9MFY26 YoY %
+Assets under management (net) 62,876 75,636 81,585 30% 62,876 81,585 30%
+Gross loan book 63,361 74,350 79,883 26% 63,361 79,883 26%
+Net loan book 62,834 73,774 79,279 26% 62,834 79,279 26%
+Net interest income 604 694 765 27% 1,683 2,133 27%
+Fee income 106 181 160 ~ 292 475 ~
+Investment income 14 24 8 ~ 51 52 ~
+Net total income 725 899 933 29% 2,026 2,660 31%
+Operating expenses 238 296 297 25% 713 845 18%
+Pre-provisioning operating profit 486 603 637 31% 1,313 1,815 38%
+Loan losses and provisions (13) 13 16 ~ (171) 52 ~
+Profit before tax 500 590 621 24% 1,484 1,764 19%
+PAT (excl. non -recurring items) 372 440 464 25% 1,105 1,315 19%
+Non-recurring items(1)(6) (6)
+PAT 372 440 458 23% 1,105 1,309 19%
+About  Tata Capital
+Tata Capital  Limited  (TCL)  is the flagship  financial  services  company  of the Tata Group  and a subsidiary  of Tata Sons  Private  Limited . Tata Capital  
+is a listed  company  and registered  with the Reserve  Bank  of India  (RBI) as a Non-Banking  Financial  Company  – Investment  and Credit  Company  
+(NBFC -ICC) and has been  categorized  as an Upper  Layer  NBFC  under  the RBI’s  Scale  Based  Regulatory  Framework . TCL conducts  its lending  
+business  together  with its material  subsidiary  Tata Capital  Housing  Finance  Limited  (TCHFL),  which  is registered  with the National  Housing  Bank  
+(NHB)  as a Housing  Finance  Company  (HFC)  and is classified  as a Middle  Layer  NBFC  under  the RBI’s  Scale  Based  Regulations .
+TCL offers  a comprehensive  suite  of over 25 lending  products,  catering  to a diverse  customer  base comprising  salaried  and self-employed  
+individuals,  entrepreneurs,  small  businesses,  small  and medium  enterprises,  and corporates . In addition  to its lending  offerings,  TCL also 
+distributes  third -party  products  such as insurance  and credit  cards,  provides  wealth  management  services,  and acts as a sponsor  and investment  
+manager  to private  equity  funds . TCL is rated  “AAA  with stable  outlook”  from  each  of CRISIL,  ICRA,  CARE  and India  Ratings . It has an 
+international  rating  of BBB (Stable)  by both  S&P Global  Ratings  and Fitch . As of December  31, 2025  TCL’s  distribution  network  spans  1,505 
+branches  across  27 states  and union  territories . For more  information  visit: https ://www .tatacapital .com/4
+(1) Reflects impact of new labour codes.
+Disclaimer
+This Press  Release  has been  prepared  by Tata Capital  Limited  (“Company”)  to provide  general  information  on the Company  (which  term  includes  
+its subsidiaries)  and does  not purport  to contain  all the information . Forward -looking  statements  contained  herein  regarding  past trends  or 
+activities  or future  business  plans,  strategy,  financial  condition,  growth  prospects  or developments  in industry,  competitive  or regulatory  
+environment  should  not be taken  as a representation  that such trends  or activities  will continue  in the future . There  is no obligation  to update  or 
+revise  any forward -looking  statements . Actual  results  may differ  materially  from  these  forward -looking  statements  due to a number  of factors .
+This Press  Release  does  not constitute  a prospectus,  offering  circular  or offering  memorandum  or an offer  to acquire  any securities  or 
+instruments  and nothing  in this Press  Release  should  be construed  as advice  or solicitation  to invest  in the Company  or any of its instruments  or 
+securities  or otherwise . 
+Neither  the Company  nor any of its affiliates,  shareholders,  directors,  employees,  agents  or representatives  makes  any warranty  or 
+representation  as to the completeness  of the information  contained  herein  (including  statements  of opinion  and expectation)  or as to the 
+reasonableness  of any assumptions  contained  herein  and shall not be liable  for any loss or damage  (direct  or indirect)  suffered  as a result  of 
+reliance  upon  any statements  contained  in, or any omission  here-from .
+5

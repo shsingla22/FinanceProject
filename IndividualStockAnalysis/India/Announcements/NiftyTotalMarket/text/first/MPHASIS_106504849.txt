@@ -1,0 +1,372 @@
+ 
+ 
+ 
+22 January  2026 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street  
+Mumbai - 400 001 
+ 
+Scrip Code: 526299      The Manager, Listing  
+National Stock Exchange of India Ltd  
+Exchange Plaza, Plot No. c/1,  
+G-Block, Bandra -Kurla Complex,  
+Mumbai – 400 051  
+ 
+Scrip Symbol: MPHASIS  
+ 
+Dear Sir /Madam , 
+Sub: Out come of the Board Meeting  
+ 
+Pursuant  to Regulation 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 , we  wish  to inform you that the Board o f Directors of the Company, at its meeting held today , i.e.,  
+Thursday,  22 January  2026 , has approved the  audited standalone and consolidated financial results of the 
+Company  for the quarter  and nine months  ended 3 1 December 2025 , along with the accompanying Auditor’s 
+report.  
+ 
+A copy of t he financial results, Auditor’s Report  along with related P ress Release,  is enclosed herewith . 
+ The meeting of the Board of Directors commenced at  10:15 AM (IST) and concluded at 3: 35 PM (IST) . 
+ 
+The above information will also be available on the website of the Company a t www.mphasis.com .  
+ We request you to kindly take the above in timation  on record . 
+ 
+Yours faithfully,  
+ 
+For Mphasis Limited  
+                                       
+Mayank Verma  
+Senior Vice President and Company Secretary  
+Membership No.: ACS 18776  
+ Encl: As above  
+Docusign Envelope ID: F0FBB1D8-B199-4C2F-986C-380A0D8AA8C2
+
+~ Mphasis Mphasis Limited 
+Recistered Office: Baa,nane World Technolocr Center, Marathalli Outer Rine Road, Doddanakhundi Villace, Mahadevapura, Bencaluru -560 048. 
+The Ne~t Applied Telephone: 91 80 67501000, Fax: 91 80 6695 9943, Website: www.mphasis.com, E-mail: lnvestor.relatioos@mpbasis.com 
+CIN:L30007KA1992PLC025294 
+Amounts in ~ million except share and per share data, unless otherwise stated 
+Statement of Consolidated Audited Financial Results for the quarter and nine months ended 31 December 2025 
+Audited 
+Particulars Quarter ended Nine months ended Year ended 
+31 December 2025 30 September 2025 31 December 2024 31 December 2025 31 December 2024 31 March 2025 
+Revenue from operations 40,025.79 39,019.11 35,613.38 116,369.79 105,199.46 142,299.87 
+Other income 623.82 746.43 627.51 2,179.73 1,950.46 2,550.01 
+Total income (I) 40,649.61 39,765.54 36,240.89 118,549.52 107,149.92 144,849.88 
+Expenses 
+Employee benefits expense 22,239.15 22,426.92 19,890.00 66,110.96 60,370.41 81,446.59 
+Finance costs 411.26 437.71 391.76 1,267.20 1,294.34 1,655.01 
+Depreciation and amortization expense 1,428.52 1,277.03 1,324.21 4,024.77 3,409.91 4,763.37 
+Other expenses 10,269.82 9,356.40 8,943.41 28,477.54 25,384.84 34,383.48 
+Total expenses (ID 34,348.75 33,498.06 30,549.38 99,880.47 90,459.50 122,248.45 
+Profit before share of profit/(loss) of equity accounted investees 6,300.86 6,267.48 5,691.51 18,669.05 16,690.42 22,601.43 
+Share of profit/ (loss) of equity accounted investees, net of tax (ill) (15.14) (19.66) - (34.80) - -
+Profit before exceptional items and tu 6,285.72 6,247.82 5,691.51 18,634.25 16,690.42 22,601.43 
+Exceptional items (IV) 
+Impact of change in labour laws 354.77 - - 354.77 - -
+Profit before tax (V) [I-II-ill-IV] 5,930.95 6,247.82 5,691.51 18,279.48 16,690.42 22,601.43 
+Tax expense 
+Current tax 1,626.97 1,876.63 1,458.70 5,267.20 4,397.92 5,535.16 
+Deferred tax (117.87) (319.55) (45.26) (517.34) (263.97) 44.88 
+Total tax expense 1,509.10 1,557.08 1,413.44 4,749.86 4,133.95 5,580.04 
+Profit for the period (A) 4,421.85 4,690.74 4,278.07 13,529.62 12,556.47 17,021.39 
+Other comprehensive income ('OCI') 
+Items not to be reclassified to profit or loss in subsequent periods 
+Re-measurement gains/ (losses) on defined employee benefit plans (7.95) 43.73 (42.33) (29.92) (59.83) (95.85) 
+Income tax effect on the above 2.00 (10.81) 10.70 7.95 14.54 23.76 
+Items to be reclassified to profit or loss in subsequent periods 
+Exchange differences on translation of financial statements of foreign operations 507.36 1,332.14 49.64 2,790.26 578.37 858.87 
+Net change in fair value of derivatives designated as cash flow hedges (121.57) (1,404.09) (774.77) (1,409.34) (886.21) (294.32) 
+Income tax effect on fair value of derivatives designated as cash flow hedges 30.59 353.38 194.99 354.70 223.04 74.08 
+Net change in fair value of investments in debt instruments carried at fair value through 
+OCI (2.40) (11.31) (2.52) 0.10 10.56 5.25 
+Income tax effect on fair value of investments in debt instruments 0.60 2.85 0.32 (0.03) (2.19) (1.31) 
+Total OCI /(losses) for the period, net of tax (B) 408.63 305,89 (563,97) 1,713.72 (121.72) 570.48 
+Total comprehensive income for the period (A+B) 4,830.48 4,996.63 3,714.10 15,243.34 12,434.75 17,591.87 
+Profit for the period attributable to: 
+Equity owners of the Company 4,421.85 4,690.74 4,278.07 13,529.62 12,556.47 17,021.39 
+Non-controlling interests - - - - - -
+4,421.85 4,690.74 4,278.07 13,529.62 12,556.47 17,021.39 
+OCI / (losses) for the period attributable to: 
+Equity owners of the Company 408.63 305.89 (563.97) 1,713.72 (121.72) 570.48 
+Non-controlling interests - - - - - -
+408.63 305.89 (563.97) 1,713.72 (121.72) 570.48 
+Total comprehensive income for the period attributable to: 
+Equity owners of the Company 4,830.48 4,996.63 3,714.10 15,243.34 12,434.75 17,591.87 
+Non-controlling interests - - - - - -
+4,830.48 4,996.63 3,714.10 15,243.34 12,434.75 17,591.87 
+Equity share capital 1,905.65 1,902.69 1,896.65 1,905.65 1,896.65 1,900.84 
+Other equity 99,759.96 94,321.36 88,841.90 99,759.96 88,841.90 94,383.12 
+Earnings per equity share (par value~ 10 per share) 
+Basic Cf) 23.22 24.65 22.58 71.09 66.36 89.87 
+Diluted~ 23.13 24.54 22.41 70.80 65.88 89.36 
+Segment reporting 
+Operating segments are defined as components of the Group for which discrete financial information is available that is evaluated regularly by the chief operating decision maker, in deciding how to allocate resources 
+and in assessing performance. The Group's Chief Operating Decision Maker ('CODM') is the Chief Executive Officer. 
+The Group has identified business segments as reportable segments. The business segments identified are Banking and Financial Services, Logistics and transportation, Technology Media and Telecom, Insurance, and 
+Others. 
+CODM does not review assets and liabilities at reportable segments level, hence segment disclosures relating to total assets and liabilities have not been provided. 
+Quarter ended Nine months ended Year ended 
+31 December 2025 30 September 2025 31 December 2024 31 December 2025 31 December 2024 31 March 2025 
+Segment revenue 
+Banking and Financial Services 20,912.49 20,161.42 17,305.61 60,753.19 50,499.06 69,088.58 
+Logistics and Transportation 2,182.49 2,183.81 4,336.52 6,537.23 13,657.12 17,717.83 
+Technology Media and Telecom 7,423.01 7,622.46 6,029.56 21,802.67 17,339.37 23,939.11 
+Insurance 6,039.93 5,507.87 4,153.20 16,652.80 11,989.77 16,227.75 
+Others 3,817.40 3,840.86 3,739.77 11,287.28 11,573.47 15,260.41 
+Unallocated -hedge (349.53) (297.31) 48.72 (663.38) 140.67 66.19 
+Total segment revenue 40,025.79 39,019.11 35,613.38 116,369.79 105,199.46 142,299.87 
+Segment result 
+Banking and Financial Services 6,453.19 6,276.88 4,693.44 19,038.66 13,460.20 18,892.86 
+Logistics and Transportation 321.39 (I 15.72) 1,601.80 331.55 4,603.46 6,108.47 
+Technology Media and Telecom 1,778.58 1,900.41 1,303.80 4,983.53 4,198.41 5,565.16 
+Insurance 1,770.14 1,787.03 1,285.17 5,340.54 3,876.90 5,152.22 
+Others 1,307.77 1,425.70 1,255.64 4,004.96 3,848.13 4,992.05 
+Unallocated -hedge (349.53) (297.31) 48.72 (663.38) 140.67 66.19 
+Total segment result 11,281.54 10,976.99 10,188.57 33,035.86 30,127.77 40,776.95 
+Finance costs (411.26) (437.71) (391.76) (1,267.20) (1,294.34) (1,655.01) 
+Other income 623.82 746.43 627.51 2,179.73 1,950.46 2,550.01 
+Share of profit/ (loss) of equity accounted investees, net of tax (15.14) (19.66) - (34.80) - -
+Other unallocable expenditure (5,193.24) (5,018.23) (4,732.81) (15,279.34) (14,093.47) (19,070.52) 
+Profit before exceptional items and tax 6,285.72 6,247.82 5,691.51 18,634.25 16,690.42 22,601.43 
+Exceptional items 
+Impact of change in labour laws (354. 77) - - (354.77) - -
+Profit before taxation 5,930.95 6,247.82 5,691.51 18,279.48 16,690.42 22,601.43 
+Page 1 of 2 
+Docusign Envelope ID: F0FBB1D8-B199-4C2F-986C-380A0D8AA8C2
+~ Mphasis Mphasis Limited 
+Recistered Office: Baa,nane World Technolocr Center, Marathalli Outer Rine Road, Doddanakhundi Villace, Mahadevapura, Bencaluru -560 048. 
+The Ne~t Applied Telephone: 91 80 67501000, Fax: 91 80 6695 9943, Website: www.mphasis.com, E-mail: lnvestor.relatioos@mpbasis.com 
+CIN:L30007KA1992PLC025294 
+Amounts in ~ million except share and per share data, unless otherwise stated 
+Notes: 
+I The financial results have been prepared on the basis of the audited condensed consolidated interim financial statements for the quarter and nine months ended 31 December 2025, which are prepared in accordance with 
+the Indian Accounting standards (Ind AS) 34, Interim Financial Reporting specified under Section 133 of the Companies Act, 2013 read with Companies (Indian Accounting Standards) Rules, 2015, as amended from 
+time to time. These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 22 January 2026. The statutory auditors have expressed an unmodified audit 
+opinion on these results. 
+2 Audited Financial Results ofMphasis Limited (Standalone infonnation). 
+Particulars Quarter ended Nine months ended Year ended 
+31 December 2025 30 September 2025 31 Detember 2024 31 December 2025 31 December 2024 31 Marth 2025 
+Revenue from operations 24,088.29 23,667.88 23,498.56 70,129.88 70,227.30 92,710.47 
+Profit before exceptional items and tax 4,883.52 5,217.64 5,140.32 14,118.94 15,572.67 20,104.09 
+Profit before tax 4,539.50 5,217.64 5,140.32 13,774.92 15,572.67 20,104.09 
+Profit after tax 3,391.56 3,930.92 3,764.27 10,304.31 11,632.70 15,324.85 
+The audited results ofMphasis Limited for the above mentioned periods are available on Company's website, www.mphasis .com and on the Stock Exchange websites, www.nseindia.com and www.bseindia .com. The 
+information above has been extracted from the audited annual / condensed interim standalone financial statements as stated. 
+3 The Board of Directors at their meeting held on 24 April 2025 had proposed a final dividend of< 57 per equity share for the year ended 31 March 2025 which was approved by the shareholders at the Annual General 
+Meeting held on 24 July 2025 and has been paid during the previous quarter. 
+4 On 10 October 2024, the Company through its wholly owned subsidiary, Mphasis Corporation obtained control over cyber security business ofEDZ systems ("EDZ"), focused on servicing a strategic customer of the 
+company. As part of this transaction , certain identified employees /subcontractors ofEDZ were taken over and a revenue contract with an identified customer was novated to Mphasis Corporation . The Group will 
+benefit from EDZ's capabilities in cybersecurity services business. The acquisition was executed for a consideration of~ 1,424.56 million (USO 17.00 million) is payable over a period of 16 months. The present value of 
+which amounts to< 1,396.03 million (USD 16.66 million). This is inclusive ofa contingent consideration of, 558.05 million (USD 6.66 million), payable subject to achieving cenain defined milestones. The identified 
+intangible assets are tax-deductible . 
+5 On 12 February 2025, the Company through its wholly owned subsidiary, Mphasis Corporation obtained control over software testing business oftsQs Inc ("tsQs") focused on servicing a strategic customer of the 
+Company. As part of this transaction , certain identified employees oftsQs were taken over and a revenue contract with an identified customer was novated to Mphasis Corporation. The acquisition was executed for a 
+consideration of, 2,307.83 million (USD 27.00 million) is payable over a period of 12 months. The present value of which amounts to< 2,266.78 million (USD 26.52 million). This is inclusive of a contingent 
+consideration off 1,241.08 million (USD 14.52 million), payable subject to achieving certain defined milestones . The identified intangible assets are tax-deductible . 
+6 On 03 July 2025, the Company through its wholly owned subsidiary , Mphasis Corporation acquired a 26 % equity stake on fully diluted basis in Aokah Inc. ('Aokah') for a consideration of< 355.17 million (USD 4 
+million). The Group has detennined that it has significant influence over Aokah on account of its ownership and the right to appoint two directors on the Board. Aokah is expected to support the Group in generating 
+customer opportunities with prospective global capability center customers . The Group's share of profit/ (loss) and other comprehensive income/ (loss) from the associate for the period from 03 July 2025 to 31 
+December 2025 is< (34.80) million and nil respectively . 
+7 On 01 September 2025, the Company through its wholly owned subsidiary, Mphasis Corporation obtained control over the digital transformation management business of Locate Software Inc ("Locate") , focused on 
+servicing a strategic customer of the Group. As part of this transaction, certain identified employees /subcontractors of Locate were taken over and a revenue contract with an identified customer was novated to Mphasis 
+Corporation . The Group will benefit from Locate's capabilities in digital transformation management services business. The acquisition was executed for a consideration off 754.74 million (USD 8.50 million) which is 
+payable over a period of 15 months. The present value of which amounts to< 736.61 million (USD 8.30 million). This is inclusive of a contingent consideration of, 559.03 million (USD 6.30 million), payable subject to 
+achieving certain defined milestones . The identified intangible assets are tax-deductible . 
+8 On 21 November 2025, the Government oflndia notified the four Labour Codes -the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Health 
+and Working Conditions Code, 2020 -consolidating 29 existing labour laws (collectively referred to as "the New Labour Codes"). The Ministry of Labour & Employment published draft Central Rules and FAQs to 
+clarify certain aspects and enable assessment of the financial impact due to changes in regulations . Amongst other things, the New Labour Codes prescribes a uniform definition of wages based on which certain employee 
+benefits such as gratuity, leave encashment, contributions to provident fund and statutory bonus are required to be computed . The Group has assessed and disclosed the incremental impact of these changes on the basis 
+of the best information available, consistent with the guidance provided by the Institute of Chartered Accountants of India. Considering the materiality and the non-recurring nature of the impact of the New Labour 
+Codes, the Group has presented the one-time impact of the New Labour Codes as an exceptional item in the consolidated financial results for the quarter and nine months period ended 31 December 2025. The Group 
+continues to monitor the developments pertaining to the New Labour Codes and will evaluate the impact, if any, on the measurement of liabilities pertaining to employee benefits. 
+9 On 16 January 2026, the Company, through its wholly owned subsidiary, Mphasis Consulting Limited entered into a share purchase agreement with Ardonagh Services Limited ("Ardonagh "), to purchase the remaining 
+49¾ voting rights in Mrald Limited for a consideration ofGBP 49. Consequent to this agreement and fulfilment of closing conditions, Mrald Limited will be a wholly owned subsidiary ofMphasis Consulting Limited. 
+Previously, although the Group had a 5 I o/o voting right, it was entitled to 100¾ of economic benefits and hence, Mrald Limited was fully consolidated for periods upto 31 December 2025, with no Non-Controlling 
+Interest. 
+By Order of the Board, 
+Mphasis Limited 
+NITIN Digitally signed 
+RAKESH byNITIN 
+RAKE5H 
+Bengaluru Nitin Rakesb 
+22 Januarv 2026 Chief Executive Officer & Manae:ine: Director 
+Page 2 of 2 
+Docusign Envelope ID: F0FBB1D8-B199-4C2F-986C-380A0D8AA8C2
+<> Mphasis Mphasis Limited 
+Th& Next Applied Registered Office : Bagmane World Technology Center, Marathalli Outer Ring Road, Doddanakhundi Village, Mahadevapura, Bengaluru • 560 048. 
+Telephone: 91 80 67501000, Fax: 91 80 6695 9943, Website: www.mphasis .com, E-mail: Investor.relations@mpbasis.com 
+CIN:L30007KA1992PLC025294 
+Amounts in ~ million exceot share and oer share data, unless otherwise stated 
+Statement of Standalone Audited Financial Results for the ouarter and nine months ended 31 December 2025 
+Audited 
+Particulars Quarter ended Nine months ended Year ended 
+31 December 2025 30 September 2025 31 December 2024 31 December 2025 31 December 2024 31 March 2025 
+Revenue from operations 24,088.29 23,667.88 23,498.56 70,129.88 70,227.30 92,710.47 
+Other income 372.40 528.03 451.95 1,460.25 1,343.90 1,784.79 
+Total income ,n 24460.69 24 195.91 23.950.51 71590.13 71 571.20 94 495.26 
+Expenses 
+Employee benefits expense 7,714.75 7,661.84 6,954.80 22,974.46 20,812.13 28,140.85 
+Finance costs 141.91 176.98 204.84 458.20 589.66 744.56 
+Depreciation and amortization expense 456.54 440.37 484.67 1,328.51 1,449.28 1,893.90 
+Other expenses 11,263.97 10,699.08 11,165.88 32,710.02 33,147.46 43,611.86 
+Total expenses (Il) 19,577.17 18,978.27 18,810.19 57,471.19 55,998.53 74,391.17 
+Profit before exceptional items and tax (III) [(1)-(11)] 4 883.52 5 217.64 5140.32 14118.94 15 572.67 20 104.09 
+Exceptional items (IV) 
+Impact of change in labour laws 344.02 344.02 -
+Profit before tax (111)-(IV) 4,539.50 5,217.64 5,140.32 13,774.92 15,572.67 20,104.09 
+Tax expenses 
+Current tax 1,203.32 1,369.37 1,306.31 3,718.17 3,928.20 4,735.85 
+Deferred tax (55.38) (82.65) 69.74 (247.56) 11.77 43.39 
+Total tax expenses 1147.94 1.286.72 1.376.05 3470.61 3.939.97 4 779.24 
+Profit for the period (A) 3,391.56 3,930.92 3 764.27 10,304.31 11 632.70 15,324.85 
+Other comprehensive income ('OCI') 
+Items not to be reclassified to profit or loss in subsequent periods 
+Re-measurement gains/(losses) on defmed employee benefit plans (7.87) 45.44 (40.42) (26.43) (62.54) (97.66) 
+Income tax effect on the above 1.98 (11.44) 10.17 6.65 15.74 24.58 
+Items to be reclassified to profit or loss in subsequent periods 
+Net change in fair value of derivatives designated as cash flow hedges (121.57) (1,404.07) (774.77) (1,409.34) (886.21) (294.32) 
+Income tax effect on fair value of derivatives designated as cash flow hedges 30.59 353.38 194.99 354.70 223.04 74.08 
+Net change in fair values of investments in debt instruments carried at fair 
+value through OCI 0.29 (1.20) (0.10) 1.09 2.46 3.32 
+Income tax effect on fair values of investments in debt instruments (0.07) 0.30 0.02 (0.27) (0.62) (0.84) 
+Total OCI / (losses) for the period, net of tax (B) (96.65) (1,017.59) (610.11) (1,073.60) (708.13) (290.84) 
+Total comprehensive income for the period (A+B) 3,294.91 2,913.33 3,154.16 9,230.71 10,924.57 15,034.01 
+Equity share capital 1,905.65 1,902.69 1,896.65 1,905.65 1,896.65 1,900.84 
+Other equity 60,453.23 56,550.20 56,595.48 60,453.23 56,595.48 61,089.02 
+Earnings per equity share (par value f 10 per share) 
+Basic(~ 17.81 20.66 19.87 54.15 61.48 80.92 
+Dilutedm 17.74 20.56 19.72 53.92 61.03 80.45 
+Seement reportine 
+In accordance with Ind AS 108 Ooeratin2 se2111.ents the Comn!llnv is not reouired to disclose se2111.ent information in standalone financial results. Refer the consolidated financial results for se2II1ent information. 
+Notes: 
+1 The financial results have been prepared on the basis of the standalone audited condensed interim financial statements for the quarter and nine months ended 31 December 2025 and the standalone audited condensed interim financial 
+statements for the quarter and nine months ended 31 December 2024, which are prepared in accordance with the Indian Accounting standards (Ind AS) specified under Section 133 of the Companies Act, 2013 read with Companies (Indian 
+Accounting Standards) Rules,2015, as amended from time to time. These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 22 January 2026. The statutory auditors have 
+expressed an unmodified audit opinion on these results. 
+2 The Board of Directors at their meeting held on 24 April 2025 had proposed a final dividend of" 57 per equity share for the year ended 31 March 2025 which has been approved by shareholder s at the Annual General Meeting held on 24 
+July 2025 and has been paid during the previous quarter. 
+3 On 21 November 2025, the Government of India notified the four Labour Codes -the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Health and Working 
+Condition s Code, 2020 -consolidating 29 existing labour la\\-'S (collectively referred to as "the New Labour Codes"). The Ministry of Labour & Employment published draft Central Rules and FAQs to clarify certain aspects and enable 
+assessment of the financial impact due to changes in regulation s. Amongst other things, the New Labour Codes prescribes a uniform definition of wages based on which certain employee benefits such as gratuity, leave encashment, 
+contributions to provident fund and statutory bonus are required to be computed. The Company has assessed and disclosed the incremental impact of these changes on the basis of the best information available, consistent with the guidance 
+provided by the Institute of Chartered Accountants of India Considering the materiality and the non-recurring nature of the impact of the New Labour Codes, the Company has presented the one-time impact of the New Labour Codes as an 
+exceptional item in the consolidated financial results for the quarter and nine months period ended 31 December 2025. The Company continues to monitor the developments pertaining to the New Labour Codes and will evaluate the impact, 
+if any, on the measurement of liabilities pertaining to employee benefits. 
+By Order of the Board, 
+Mphasis Limited 
+NITIN Digitally 
+RAKESH signed by 
+NITIN RAKESH 
+Benealuru Nitin Rakesh 
+22 January 2026 Chief Executive Officer & Manaeine Director 
+Page 1 of 1 
+Docusign Envelope ID: F0FBB1D8-B199-4C2F-986C-380A0D8AA8C2
+B S R & Co. LLP
+Chartered AccountantsEmbassy Golf Links Business Park 
+Pebble Beach, B Block, 3rd Floor
+No. 13/2, off Intermediate Ring Road
+Bengaluru - 560 071, India
+Telephone: +91 80 4682 3000
+Fax: +91 80 4682 3999
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 201314th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 5’ Independent Auditors Report
+To the Board of Directors of Mphasis Limited
+Report on the audit of the Consolidated Financial Results
+Opinion
+We have audited the accompanying Statement of Consolidated Financial Results of Mphasis Limited 
+(“Holding Company”) and its subsidiaries (Holding Company and its subsidiaries together referred to as 
+“the Group”), and its associate for the quarter ended 31 December 2025 and the year to date results for 
+the period from 1 April 2025 to 31 December 2025, (“the Statement”), being submitted by the Holding 
+Company pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing 
+Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the 
+Statement:
+a. includes the results of the entities listed in Annexure I;
+b. is presented in accordance with the requirements of Regulation 33 of the Listing Regulations as 
+amended; and
+c. gives a true and fair view in conformity with the applicable accounting standards, and other accounting 
+principles generally accepted in India, of consolidated total comprehensive income (comprising of net 
+profit and other comprehensive income) and other financial information of the Group for the quarter 
+ended 31 December 2025 and the year to date results for the period from 1 April 2025 to 31 December 
+2025.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section 
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described 
+in the Auditor’s Responsibilities for the Audit of the Consolidated Financial Results  section of our report. 
+We are independent of the Group and its associate in accordance with the Code of Ethics issued by the 
+Institute of Chartered Accountants of India together with the ethical requirements that are relevant to our 
+audit of the financial statements under the provisions of the Act, and the Rules thereunder, and we have 
+fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. 
+We believe that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for 
+our opinion on the consolidated financial results.
+Management’s and Board of Directors’ Responsibilities for the Consolidated Financial Results
+These quarterly consolidated financial results as well as the year to date consolidated financial results 
+have been prepared on the basis of the consolidated interim financial statements.
+The Holding Company’s Management and the Board of Directors are responsible for the preparation and 
+presentation of these consolidated financial results that give a true and fair view of the consolidated net 
+profit/ loss and other comprehensive income and other financial information of the Group including its 
+associate in accordance with the recognition and measurement principles laid down in Indian Accounting 
+Standard 34, ‘Interim Financial Reporting’ prescribed under Section 133 of the Act read with relevant rules 
+issued thereunder and other accounting principles generally accepted in India and in compliance with 
+Regulation 33 of the Listing Regulations. The respective Management and Board of Directors of the 
+Docusign Envelope ID: F0FBB1D8-B199-4C2F-986C-380A0D8AA8C2
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Mphasis Limited
+Page 2 of 5entities included in the Group and the Management and Board of Directors of its associate are responsible 
+for maintenance of adequate accounting records in accordance with the provisions of the Act for 
+safeguarding of the assets of each entity and for preventing and detecting frauds and other irregularities; 
+selection and application of appropriate accounting policies; making judgments and estimates that are 
+reasonable and prudent; and the design, implementation and maintenance of adequate internal financial 
+controls, that were operating effectively for ensuring accuracy and completeness of the accounting 
+records, relevant to the preparation and presentation of the consolidated financial results that give a true 
+and fair view and are free from material misstatement, whether due to fraud or error, which have been 
+used for the purpose of preparation of the consolidated financial results by the Management and the Board 
+of Directors of the Holding Company, as aforesaid.
+In preparing the consolidated financial results, the respective Management and the Board of Directors of 
+the entities included in the Group and the Management and Board of Directors of its associate are 
+responsible for assessing the ability of each entity to continue as a going concern, disclosing, as 
+applicable, matters related to going concern and using the going concern basis of accounting unless the 
+respective Board of Directors either intends to liquidate the entity or to cease operations, or has no realistic 
+alternative but to do so. 
+The respective Board of Directors of the entities included in the Group and the Board of Directors of its 
+associate is responsible for overseeing the financial reporting process of each entity.
+Auditor’s Responsibilities for the Audit of the Consolidated Financial Results
+Our objectives are to obtain reasonable assurance about whether the consolidated financial results as a 
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report 
+that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that 
+an audit conducted in accordance with SAs will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, 
+they could reasonably be expected to influence the economic decisions of users taken on the basis of 
+these consolidated financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional 
+skepticism throughout the audit. We also:
+– Identify and assess the risks of material misstatement of the consolidated financial results, whether 
+due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit 
+evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting 
+a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may 
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+– Obtain an understanding of internal control relevant to the audit in order to design audit procedures 
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the 
+effectiveness of the Group’s internal control.
+– Evaluate the appropriateness of accounting policies used and the reasonableness of accounting 
+estimates and related disclosures in the consolidated financial results made by the Management and 
+Board of Directors.
+– Conclude on the appropriateness of the Management’s and Board of Directors’ use of the going 
+concern basis of accounting and, based on the audit evidence obtained, whether a material 
+uncertainty exists related to events or conditions that may cast significant doubt on the 
+appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required 
+to draw attention in our auditor’s report to the related disclosures in the consolidated financial results 
+or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit 
+evidence obtained up to the date of our auditor’s report. However, future events or conditions may 
+cause the Group and its associate to cease to continue as a going concern.
+– Evaluate the overall presentation, structure and content of the consolidated financial results, including 
+the disclosures, and whether the consolidated financial results represent the underlying transactions 
+and events in a manner that achieves fair presentation.
+Docusign Envelope ID: F0FBB1D8-B199-4C2F-986C-380A0D8AA8C2

@@ -1,0 +1,228 @@
+ 
+ 
+HEXAWARE TECHNOLOGIES LIMITED 
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1  Private Limited, Plot No.Gen-4/1,TTC Industrial Area, 
+Ghansoli, Navi Mumbai-400710, Maharashtra, India  |  Tel: +91 022 3326 8585  |  Email: investori@hexaware.com  
+CIN: L72900MH1992PLC069662  |  URL: www.hexaware.com 
+ 
+ 
+  
+   
+HEXT/SE/2026/13 
+  
+  Date: February 10, 2026 
+ 
+To,  To, 
+LisƟng Department   Department of Corporate Services 
+NaƟonal Stock Exchange of India Limited BSE Limited 
+Exchange Plaza,  Bandra-Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East),  Mumbai - 400 051 Da lal Street,  Mumbai - 400 001   
+Symbol: HEXT Scrip Code: 544362 
+ Dear Sir,  Sub:  Transcript of investor/analyst call held on Thursday,  February 05, 2026 
+Ref:  Our earlier intimation with Ref.  No. HEXT/SE/2026/03 date d January 14, 2026 
+In continuation to the above-referred intimati on and Pursuant to Regulation 30 of the SEBI 
+(Listing Obligations and Disclosure Requirement s) Regulations, 2015, we  hereby submit the 
+transcript of the investor/analyst call held on  Thursday, February 5, 2026, for the quarter and 
+year ended December 31, 2025. The transcript of th e investor/analyst call is also made available 
+on the Company’s website.   The link to access the same is as follows: https://hexaware.com/investors/quarterly-results/  . 
+ 
+Kindly take the same on record.   
+Thanking you, 
+Yours faithfully, 
+For HEXAWARE TECHNOLOGIES LIMITED  
+               
+Gunjan Methi 
+Company Secretary & Compliance Officer  Encl.: as above. 
+ 
+ 
+  
+Hexaware – Q4 CY25 Earnings 
+February 05, 2026 
+Operator 
+Ladies and gentlemen, good day. Welcome to Hexaware  Technologies' limited conference call for the Q4 
+CY25 earnings call. We'll begin today's session with a presentation from the Hexaware management 
+team, followed by Q&A segment. To ask a questio n during Q&A, please use the raise hand feature 
+located at the bottom of your Zoom interface. This will place you in a virtual queue. I will now hand the 
+conference over to Mr. Niraj Khemka, Head of Invest or Relations. Thank you. Over to you, Mr. Niraj. 
+ 
+Niraj Khemka: Hello, everyone. Welcome to Hexaware Technology Q4 CY25 earnings call. In the call today, we have 
+with us Mr. R Srikrishna, CEO, and Mr. Vikash Jain, CFO. In the course of this call, we may make certain forward-looking statements which may involve a number  of risks and uncertainties. All forward-looking 
+statements made herein are based on the information available currently with the management, and the company does not undertake to update any of thes e statements made in the course of this call. In 
+this regard, there's a full disclosure which has been  provided in the earnings  presentation and in the 
+press release. We consider that as read. With this, I' ll hand over the call to Keec h. Over to you, Keech. 
+ 
+R Srikrishna: 
+Thank you, Niraj. Now, one announcement from An thropic yesterday that shook our stock markets 
+globally for our industry. I thought I'll start with that . Today, we were anyway going to do the topic that 
+we're going to deep dive on strategy is on AI. So actually, I'll start with that. 
+ 
+At the highest level, our goal with customers is that every single day, every single client, the work we do 
+is positively impacted by AI. I think we're going to get there sooner than we originally imagined.  
+Now, if we do that, we're doing four things. First,  we're building AI into all of our platforms and 
+reimagining our platforms. Whether it's Tensai for IT  operations, RapidX for software engineering, or 
+Amaze. The second thing we're doing is to create and launch new services that deliver new revenue 
+streams which are enabled by AI. The third, our workforce training, we're already in the second 
+generation of retraining our workforce on AI. For th e most importantly, processes need to be redone in 
+AI. For example, SDLC, as we know it in the past, is co mpletely being read up. Now, if AI is in the SDLC, it 
+is not just that the same people, same talent, sa me process don't run the same way. These are four 
+things that we are doing to get to our goal of impacting positively every single customer every single 
+day. 
+
+ 
+  
+What do we tell our clients? At the hi ghest level, there is AI for IT and AI  for business. We tell our clients, 
+when it comes to AI for IT, leave it to us. We know  how to get productivity and velocity executed for 
+clients well. You set the guardrails, you set the rules, and leave the execution to us. I think this narrative 
+has found resonance. I think last year, people were no t quite willing to do that, but I would say far more 
+so right now, especially when it comes to IT operations and data engineering. 
+ 
+In SDLC, I think it's a little more complicated. We tell them on AI for business, the roles are a little 
+different. Our role is to enable yo u to meet what you dream of. Now, we certainly have multiple ideas 
+on what they could do, but our first job is to enable  the technology to realize the velocity the use cases 
+that they want to execute. 
+ Now, on AI for IT, we have been first off the block mu ltiple times, and consistently so. We were the first 
+to launch a product, RapidX, that focuses on legacy reverse engineering, which is actually a crucial pre-
+step required for any coding that is needed. In July  last year, we were actually the first company to 
+launch a vibe coding offering. Three weeks ago, we launched an offering that goes to the heart of the 
+Anthropic release which says, hey, software products or SaaS products can be replaced by Agentic AI. 
+We agree, well, actually, we think it's a massive opportunity for us, and the service we launch is a 
+reflection of that. 
+ 
+These ones I spoke about are all as it pertains to AI for SDLC. In AI for outsourc ing, our Tensai platform, 
+we would have built in the next, I would say less than two quarters, and quite a bit of it is already done. 
+I'll say 80 supervisory agents, underpinned by 400 atomic agents that can operate in a mode which is assisting humans to all the way autonomous over time. 
+ In AI for business, while we are telling customers, we  don't know your business as well as you do. For a 
+number of industries we operate in, we've detailed out level 5 to level 1 processes and for each business process, we have a point of view on how can AI impa c t  t h a t  p r o c e s s .  I f  a l l  o f  t h a t  i s  e x e c u t e d ,  w h a t  
+business value will it deliver the customers. 
+ 
+Now, legacy modernization that we've been now talk ing about for over a year as a growth accelerator 
+for us is a very specific use case of new revenues co st per AI. We've been making good progress on that. 
+I think in this year, I can say with confidence that  we will have at least two or three scale legacy 
+modernizations completed and multiple other smaller ones  that we continue to execute. Yet, I think that 
+the biggest opportunities are still ahead of us. 
+ 
+Now, we spoke about a key growth for us is launching a technology vertical. We hired somebody last 
+quarter that we spoke about. We launched a new vertical and renamed it as TPP, Technology, Products, 
+and Platform. From Q1 onwards, you will see us report ing on this vertical as a separate vertical from 
+where it is currently in HTPS. 
+ 
+We did launch three new services on AI this quarter.  One of the most exciting things we did is this, I 
+think we are the first company in the world to implement a completely AI-first global multilingual help 
+ 
+ desk in production. We now have 33,000 employees who, if they call our help desk, it'll be answered by 
+AI. I think we are the first company in the world to put it in production. 
+ Private equity markets, private markets in a more broad sense, is a critical growth driver. Companies are 
+staying private for longer and for larger. There is no more important time than now for value creation in 
+these companies. Amit Vij joined us as the Chief Pri vate Markets Officer. He's do ne this for a living for 
+over 20 years in different firms. Most recently, in Te ch Mahindra. We're pleased to have Amit. He joined 
+us about two weeks ago. 
+ Our people metrics continue to be positive. We cl osed the year with clos e to 34,000 headcounts. We 
+continue to be amongst the lowest attrition in the in dustry, in IT, it was 11%. Our utilization ticked down 
+a bit in anticipation, mainly, of growth in CY26. We'l l talk about that later. Last year, we crossed one 
+customer with 100 million. This year, we crossed two customers with 100 million, and we added one 
+client in the north of $50 million category. 
+ Our revenues for Q4 were, a tad lower than we expect ed. I would say there are three things to call out. 
+One is that one of the GSEs, again, had a substantia l cut which amounts to about 70 bps annualized. This 
+had an impact in Q4. It also will have an impact in  Q1. We'll talk about CY26 later. The second thing is a 
+client that normally does not do furlough actually  did significant furlough. And third, pass-through 
+revenues are materially lower than normal and average . Given all that, it was a tad lower than what we 
+expected. 
+ On profitability, again, we were in  absolute reported profitability terms, we were solid, but there're a 
+number of puts and takes on our EBITDA and profitab ility, which I think Vikash will walk you through 
+later. As always, we had outstanding cash co nversion and an outstanding cash balance. 
+ 
+The best part of the quarter for us is that we won any number of deals. We won pretty much everything 
+that we expected to win, expected to close, an d some more. Our pipeline continue to go up, and 
+actually it has crossed 4 billion for the first time. Some  of the deals, I think the most important one is a 
+very large consolidation deal in a big tech. This is a process that's been going on  for a very long time. To 
+be sure, this doesn't come with a predefined book of work, but it does give us the right to hunt and the 
+right to receive RFPs in a very large pool of spend. 
+ 
+The second one here is a bank that we had won earlie r last year, but there was a significant deal in this. 
+What the deal does is to put us in a position of nice growth for us in CY26 and forward. Actually, the 
+single largest deal we did is probably globally largest pet insurance company. They've been acquiring 
+companies at a rapid pace, and we do multiple thin gs for them, starting from integrating the acquired 
+entities into a common IT framework. Now we are runni ng all of it, everything in tech, infrastructure, 
+applications, and in the future, the modernizatio n for a new platform. There's another very large 
+insurance company that is modernizing the core into Guidewire, and we have a role in that. We're not 
+the leaders. We're not the only people, but we have a significant role to play in that modernization. 
+ I was talking to you about AI for business, where fo r multiple industries, we've mapped out the process 
+and showing what are the possible to clients of where can agentic AI play a significant role in 
+ 
+ transforming operations. This deal here, Global CRO, is an example of that where we're building agents 
+for multiple steps in a clinical research process th at will bring substantial efficiency to the customer. 
+ We won a deal with the world's largest casual dining , it’s a holding company. They own multiple large 
+brands in the US and some elsewhere in the world as  well. Again, we will do much of tech for them. A 
+very large tech services company in Asia, there’s a sc ale GCC deal that we won la te last year. Finally, one 
+of the large PBMs, which has also happened with PE firm, we are doing product development and 
+platform support and engineering support for this orga nization. At the highest level, our deal wins were 
+the best part of Q4. Vikash.  
+ 
+Vikash Jain: 
+Thanks, Keech. A little bit more color in terms of our revenue. So Q4 revenue was $389 million, 
+sequential decline of 1.5%. In absolute terms, this  represents a $6 million decline. The decline was 
+primarily driven by calendars and furloughs, which are seasonal in nature, close to $9 million, a lower 
+license revenues of $7 million, and marginal headwinds from Forex. FX was a headwind in the current quarter on revenues and also in terms of margins. 
+ 
+The $16 million of headwind that we had in the curr ent quarter was partially offset by a robust volume 
+growth and a little bit of contribution from CyberSolve, which we closed in the middle of the quarter. Now, calendar and furloughs are seasonal items and will come back in future  quarters. However, the 
+way the calendar days are lined up in  CY26, it comes back in a more positive way in Q2 and Q3. Q1 will 
+still be a net headwind versus Q4. 
+ 
+License revenue for the quarter was at $11 million versus $18 million in Q3, a drop of $7 million on 
+sequential basis. This was also lower than our histor ical average, which is anyw here around 12.5 to $13 
+million a quarter. The volume growth is also reflecte d in our headcount additions that we have done 
+during the quarter. And Keech spoke about the fact that  it also had an impact, particularly with respect 
+to some bit on the utilization, given the fact that we have been building up capacity to service the demand that we have been seeing. 
+ 
+On margins, reported EBITDA for the quarter was 17%. This includes impact of few one-timers during 
+the quarter. Normalized for the one-timers, the margin  for the quarter was 15.4%. Now, it's a drop of 
+210 bps sequentially. The major contributors were Fo rex, which was a headwind during the quarter of 
+20 bps. Operationally, it was a tailwind, but then from  a hedge perspective, for the hedges that we had 
+started taking, it was close to 40 bps of headwind. The net of operational tailwind plus the hedge headwind, we had a net impact of close to 20 bps of headwinds. Calendar was 60 bps of headwind. Utilization was close to another 60 bps, and we did give merit increases, which was close to 90 bps. 
+ If you think about it, a lot of the drop that we had in the current quarter were seasonal in nature and 
+will come back. Forex, we expect will recover back s oon. Calendar is going to come back starting Q2. 
+Utilization, I'll talk through in terms of details how we are thinking about it in terms of recovering some 
+of it. 
+ 
+ 
+ One timers, during the quarter, I spoke about the adjusted view. One timers during the quarter in 
+EBITDA, were on three fronts. The first one was, we acquired Softcrylic in 2024 and there was an 
+earnout related to the deal which was payable based on the asset delivering agreed financial milestones. 
+Softcrylic missed those targets, so the earnouts are reversed ou t. This was close to $25 million. 
+Associated with that and for the other assets, we di d impairment testing. It's an annual exercise which 
+we do every year. Based on that, there was impairment  testing done on client relationships and a charge 
+of close to $15 million. When you think about the re versals, you need to think about the reversals and 
+the impairment charges at the highest levels in conj unction because they are closely interlinked. Those 
+are the two items. 
+ 
+The third one in EBITDA in terms of one-timers is an additional expected credit loss provision of close to 
+$4 million. Now, last couple of years, we have seen an  increase in credit risk on account colle ctions. On a 
+prudent basis, we have taken an additional provisio n during the current quarter. Now, this is one timer 
+in nature. This is an additional generic credit risk provision and not related to any client specific issue. 
+Now, if the collection pattern improves in future, this will come back into the PnL in future years. I just 
+want to call out that what you se e as an expected credit loss provis ion is generic in nature and not 
+associated with any specific client. 
+ The net of the three is close to 160 bps of one-timer cr edit at an EBITDA level. In addition, there are two 
+more items which are one-timer in nature. If you reca ll in Q2, we had announced restructuring in one of 
+our European countries. Now, that's progressing on track. Now, with the labor footprint reducing in the 
+European country, there's a need to optimize on the rental state footprint we have. Now, some of these 
+leases are committed and are long term in nature. Now, as these offices are underutilized, we have 
+taken an accelerated amortization towards unused o ffice space. That impact is close to $3.5 million. 
+Now, this impact has been taken at an EBIT level. That makes the total one-timer credit of close to 64 
+bps at EBIT level. 
+ 
+Last one is the impact of labor code. All of you are aware of the context on labor code change, so I'm not 
+going to get into that detail. Impa ct for the same for us is close to  $12.5 million in Q4. On a continuing 
+basis, we expect the impact to be close to 20 bps on margins for the full year next year. 
+ Revenue growth for the full year was 7.6%, 7.1% in constant currency. Performa growth was close to 
+6.6%. Now, reported margin for the year is 17.1% versus 15.9% last year, an improvement of 120 bps. 
+Even if you normalize it for the Q4 one-timers, the margin is 16.8%. That's a significant improvement on 
+a full year basis compared to where we were from CY25 perspective. 
+ 
+A little bit of color on the unit level performance. Fo r the quarter, all vertical except HTPS delivered 
+year-on-year growth, and on a full year basis, all verticals delivered year-o n-year growth. Financial 
+Services have been the strongest performing vertic al and has delivered both sequential and year-on-
+year growth in all the four quarters of the year. If you recall, this is after absorbing a material headwind 
+from budget cuts in one of the GSE’s in Q1, and some bit of it in from a Q4 perspective. Growth in this vertical was delivered by a combination of scaling existing clients and new wins. 
+ 

@@ -1,0 +1,66 @@
+ 
+ Date: 5th December, 2025 
+ 
+The Manager      The Manager 
+National Stock Exchange of India Limited                  BSE Limited 
+Exchange Plaza, 5th Floor,    Phiroze Jeejeebhoy Towers, Dalal Street 
+Plot No. C/1, G Block     Mumbai-400 001  
+Bandra Kurla Complex, Bandra (E)   (Scrip Code- 538562) 
+Mumbai - 400 051 
+(Symbol- skipper) 
+ 
+Subject: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015  
+ 
+Dear Sir, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 (“SEBI LODR”), we wish to inform you that Skipper Limited (“the Company”) has successfully 
+implemented and gone live with SAP S4HANA RISE as its core enterprise-wide ERP platform . 
+ 
+The implementation project was internally named as Project GARUDA” , symbolizing strength, agility and 
+innovation , and aligns with the Company’s strategic vision of building a robust, scalable and future-ready 
+digital backbone. 
+ 
+Key Highlights of the Implementation 
+ 
+1. Scope of Transformation  
+o Migration from the Company’s earlier SAP environment to SAP S4HANA RISE  as an 
+integrated ERP platform. 
+o Coverage includes key business functions across the organization such as Finance, 
+Supply Chain, Projects, Manufacturing, Commercial and Support functions. 
+2. Objective of the Upgrade  
+o To enhance business agility  and decision-making through real-time data and analytics. 
+o To standardize and streamline processes  across locations and business units. 
+o To improve governance, controls and compliance  through better process visibility. 
+o To create a future-ready, scalable technology foundation  for the Company’s growth 
+plans. 
+3. Expected Benefits  
+o Improved process efficiency  and operational visibility  across the value chain. 
+o Faster and more informed decision-making  enabled by real-time data and analytics. 
+o Enhanced internal controls, auditability, and compliance . 
+o A stronger digital foundation to support future growth, innovation and stakeholder 
+value. 
+ 
+ 4. Financial Impact  
+o The implementation of SAP S4HANA RISE is not expected to have any immediate 
+material impact  on the revenue or profitability of the Company. 
+o The initiative is expected to yield long-term operational and strategic benefits  through 
+process efficiencies and better decision support. 
+ 
+This intimation is being made for the information of the stakeholders and in compliance with the 
+applicable provisions of SEBI LODR. 
+ 
+This intimation will also be available on the website of the Company www.skipperlimited.com  
+ 
+We request you to take the above information on record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For Skipper Limited  
+ 
+ 
+ 
+Anu Singh 
+Company Secretary & Compliance Officer 

@@ -1,0 +1,194 @@
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala, 
+Bengaluru -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+February 1 3, 2026  
+   Listing Compliance & Legal Regulatory  
+  BSE Limited  
+  Phiroze Jeejeebhoy Towers  
+  Dalal Street, Mumbai 400 001  
+  Stock Code: 543227, 974820 & 975101  Listing & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai 400 051  
+Stock Code: HAPPSTMNDS  
+  Dear  Sir/Madam,  
+Sub:  Transcript  of Earnings  Call held  on February 10,  2026  
+Pursuant to Regulation 30  read with Para A of Part A of Schedule III  of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations,  2015,  please  find enclosed the transcript of the Earnings Call held 
+on February 10 , 2026, post  announcement of financial results of the Company for the quarter and nine 
+months ended as on December 31, 2025. The transcript is also uploaded on the Company’s website 
+(https://www.happiestminds.com/investors ). 
+This is for your  information  and records.  
+ Thanking  you,  
+   Yours  faithfully,  
+   For Happiest  Minds  Technologies  Limited  
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer   
+Membership  No. F6706  
+
+Page 1 of 28 
+  
+ 
+“Happiest Minds Technologies Limited  
+Q3 FY '26 Earnings Conference Call”  
+February  10, 202 6 
+ 
+      
+ 
+Management:  Mr. Ashok Soota  – Chairman & Chief Mentor  
+ Mr. Joseph Anantharaju  – Co-Chairman & C hief Executive Officer   
+ Mr. Venkatraman Narayanan  – Managing Director  
+Mr. Ram Mohan – Chief Executive Officer , Infrastructure 
+Management and Securities Services (IMSS)  
+Mr. Sridhar Mantha  – Chief Executive Officer , Generative Ai Business 
+Services  (GBS)   
+Mr. Anand Balakrishnan  – Chief Financial Officer  
+Mr. Praveen Kumar Darshankar  – Company Secretary & Compliance 
+Officer  
+ Ms. Priyanka Sharma  – Head of Investor Relations  
+  
+Moderator:  Mr. Sushovon Nayak  –  Anand Rathi Share and Stock  Brokers Limited   
+ 
+ 
+Moderator:  Ladies and gentlemen, good morning and welcome to the Happiest 
+Minds Technologies Limited Q3 FY'26 Earnings Conference Call hosted 
+by Anand Rathi Share and Stock  Brokers Limited. As a reminder, all 
+participant lines will remain in the listen -only mode and there will be 
+
+  Happiest Minds  Technologies Limited  
+  February  10, 202 6 
+ 
+Page 2 of 28 
+ 
+an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call, 
+please signal the operator by pressing star then zero on your touchtone 
+telephone.  Please note that this conference is being recorded.  
+ I will now hand the conference over to Mr. Sushovon Nayak  from 
+Anand Rathi Share and Stock Brokers Limited for opening remarks. 
+Thank you, and over to you.  
+Sushovon Nayak:  Thanks, R yan. Hi, good morning, ladies and gentlemen. Thank you for 
+joining us today on the Q3 FY ’26 earnings call of Happiest Minds 
+Technologies Limited. On behalf of Anand Rathi, I would like to thank 
+the management of Happiest Minds for giving us the opportunity to 
+host this call.  
+ Today we have with us Mr. Ashok Soota , Chairman and Chief Mentor; 
+Mr. Joseph Anantharaju, Co -Chairman and CEO; Mr. Venkatraman 
+Narayanan , Managing Director; Mr. Ram Mohan, CEO Infrastructure 
+Management and Security Services; Mr. Sridhar Mantha , CEO 
+Generative AI Business Services; Mr. Praveen Darshankar, Company 
+Secretary and Compliance Officer; Mr. Anand Balakrishnan , CFO; and 
+Ms. Priyanka Sharma: , Head of Investor Relations.  
+ I will now hand it over to Priyanka Sharma:  for the Safe Harbor 
+statement and to take the proceedings forward. Thank you and over to 
+you, Priyanka.  
+Priyanka Sharma:  Thank you, Sushovon. Good morning to all the participants on the call. 
+Welcome to this conference call to discuss the financial results for the 
+third quarter ended December 31, 2025. I am Priyanka Sharma , Head 
+of Investor Relations. We hope you have had an opportunity to review 
+the earnings release we issued yesterday evening.  
+  Happiest Minds  Technologies Limited  
+  February  10, 202 6 
+ 
+Page 3 of 28 
+ 
+ Let me quickly outline the agenda for today's call. Ashok will begin by 
+sharing his perspective on the business environment and our results. 
+Joseph and Venkat will then discuss our financial performance and 
+operational highlights. Following that, we will o pen the floor for 
+questions.  
+ Before we begin, let me read the Safe Harbor statement. During this 
+call, we may make forward -looking statements. These statements 
+reflect the environment we see as of today and involve risks and 
+uncertainties that could cause actual results to differ materially. We do 
+not undertake to update these s tatements periodically.  
+ With that, let me now hand it over to Mr. Ashok Soota . 
+Ashok Soota:  Thank you, Priyanka and good morning, everyone, and thank you for 
+joining us. When we spoke last quarter, we had highlighted that our 10 
+strategic transformations were beginning to deliver visible and 
+measurable results. And before I get into all of that, I want to take 
+cogniz ance of a recent announcement on AI, which has created 
+turbulence in global markets for software companies. I want to assert 
+that this development is an opportunity and not a threat for Happiest 
+Minds, and we believe also for other IT services companies  and in many 
+ways, this reinforces the strategic choices we have been making. In Q3, 
+we have taken the next step forward in our strategic journey by 
+launching AI First, Agile Always as our 11th strategic transformation. 
+This is a structural shift on how Happ iest Minds builds, delivers and 
+scales value in an AI -driven world. This transformation is itself 
+supported by 11 strategic programs. While the foundations, talent, 
+platforms, and governance, were built over the last severa l quarters, 
+the outcomes are now becoming visible in customer engagement and 
+execution.  
+  Happiest Minds  Technologies Limited  
+  February  10, 202 6 
+ 
+Page 4 of 28 
+ 
+ Before I speak about the environment, let me briefly touch upon the 
+performance in Q3. We have had a 2.4% Q -over -Q growth and 10.7% 
+year -over -year. And for the 9 months, growth stood at 10.2%. This 
+reflects steady execution. Even as we continue to invest h eavily in our 
+AI capabilities and reinforce our confidence in the 4 -year , 10-plus 
+percent revenue growth commitment we outlined last quarter.  
+ A key enabler of our AI First strategy is really our AI Services Delivery 
+Platform, which has already been used by customers to move initiatives 
+from pilots to production. We plan to take this platform to multiple 
+customers so that this will help them redu ce their own time to market. 
+Across the organization, we are seeing growing demand for AI 
+embedded into workflows, intelligent agents and governance 
+platforms that enterprises can deploy with confidence. We now have 
+32 GenAI and Agentic AI use cases that have moved from prototype, 
+with several scaling into production.  
+ To summarize, AI First is already influencing how customers engage 
+with us and how we deliver. It builds naturally on the earlier 
+transformations we have undertaken and positions Happiest Minds 
+very well for the next phase of growth. An inevitable question  that 
+arises from the above is: what is the difference this is going to make to 
+the growth of Happiest Minds? When we announce our Q4 results, we 
+will give you these numbers. It's too early for us to do that now. And 
+we expect to show significant increase in the guidance we have been 
+giving over and above the 10% growth we have committed for 4 years.  
+ With that, I will hand it over to Joseph to talk about the business 
+environment, customer traction and outlook.  
+Joseph Anantharaju:  Thank you, Ashok. Good morning, everyone. In Q3, we saw customer 
+conversations becoming more decisive. Enterprises are moving beyond 
+experimentation and are increasingly focused on embedding AI into 
+  Happiest Minds  Technologies Limited  
+  February  10, 202 6 
+ 
+Page 5 of 28 
+ 
+core workflows and platforms where the business impact is clear and 
+scalable. This shift is reflected in our Q3 and 9 -month performance, 
+with constant currency revenue growth and EBITDA margins remaining 
+within our guided range.  
+ The demand environment remains selective but increasingly 
+intentional as they prioritize initiatives where the business case is well -
+defined. Automation of workflows using GenAI and Agentic AI, AI -led 
+productivity and modernization of core platforms are seeing traction as 
+enterprises focus on measurable outcomes and faster time to value.  
+ As a result, AI is no longer an add -on in customer conversations. 
+Increasingly, discussions are centered on how AI can be embedded into 
+core workflows and platforms, governed effectively and scaled across 
+the enterprise. This is where our AI First position ing is making a tangible 
+difference.  
+ An important dimension of this shift is how customers are approaching 
+modernization and productivity at scale. Many are now looking to apply 
+AI to core applications and platforms that were traditionally difficult to 
+modernize due to complexity, legacy depe ndencies and execution risk. 
+In this context, our agentic AI approach, which combines coding agents 
+with human developers in a hybrid delivery model, is resonating well.  
+ This enables customers to address technology debt in a more cost -
+efficient manner and lower risk manner by delivering high productivity 
+improvements. We are seeing interest in this approach not only from 
+enterprises but also from private equity firms and t heir portfolio 
+companies.  
+ During the quarter, we saw several AI -led wins that reflect this shift, 
+including GenAI -driven vendor compliance and automation for a global 
+FMCG client, an enterprise -wide roadmap and reference architecture 
+for a U.S. insurance provider, AI -powered sales and quote management 

@@ -1,0 +1,246 @@
+ 
+ 
+January  28, 2026  
+ 
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza                   Phiroze Jeejeeboy Towers  
+Bandra Kurla Complex,                   Dalal Street,  
+Bandra (E), Mumbai - 400051     Mumbai - 400001  
+(SYMBOL: THYROCARE)                   (SCRIP CODE: 539871)  
+ 
+Subject: Disclosure  under Regulation 30 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosures Requirements) Regulations, 2015 
+(“Listing Regulations”) 
+ 
+Dear Sir(s)/Madam,  
+ 
+Pursuant to the provisions of Regulation 30  of the Listing Regulations , we wish to inform you 
+that the Board of Directors of the Company (“ Board ”), at its meeting held today, i.e., 
+Wednesday , January  28, 2026 , has considered and approved the Amendment to the Code of 
+Conduct to Regulate, Monitor and Report Trading by Designated Persons and their Immediate 
+Relatives  (“PIT Code ”). 
+ 
+The amended PIT Code is enclosed with this letter and is also being made available on the 
+Company's website at https://investor.thyrocare.com/policies -codes/ . 
+ 
+This is for your information and records.   
+ 
+Yours Faithfully,  
+For Thyrocare Technologies Limited,      
+  Brijesh Kumar  Company Secretary and Compliance Officer  
+Encl. A/a  
+
+Page 1 of 37 
+  
+THYROCARE TECHNOLOGIES LIMITED  
+ 
+CODE OF CONDUCT TO REGULATE, MONITOR AND REPORT TRADING BY 
+DESIGNATED PERSONS AND THEIR IMMEDIATE RELATIVES  
+[Under Regulation 9(1) of SEBI (Prohibition of Insider Trading) Regulations, 2015]  
+ 
+(“CODE” / “CODE OF CONDUCT”)  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+   
+ 
+   
+ 
+    
+ 
+   
+ 
+   
+ 
+   
+ 
+  
+Page 2 of 37 
+  
+PRELIMINARY  
+Introduction  
+ 
+Thyrocare Technologies Limited (“ Company ”) is a public listed entity incorporated under 
+the Companies Act, 1956, with its equity shares listed on BSE Limited and National Stock Exchange of India Limited and is governed by the applicable rules , regulations  and 
+guidelines  issued by the Securities and Exchange Board of India (“ SEBI ”). 
+ 
+The Board (as de�ined below) of the Company has adopted this code of conduct to regulate, monitor and report trading by the Designated Persons along with their 
+Immediate Relative as de�ined in this Code (“ Code ”) to comply with the SEBI (Prohibition 
+of Insider Trading) Regulations, 2015 (as amended from time to time) (“ the Regulations ” 
+or “Insider Trading Regulation”).  
+ 
+This Code shall be applicable to Designated Persons and Immediate Relatives of 
+Designated Persons as de�ined in this Code.  
+  
+The Insider Trading Regulations prohibits an Insider from Trading (as de�ined below) in 
+the Securities of a Company listed on any stock exchange when in possession of any UPSI 
+(as de�ined below).  
+ 
+De�initions  
+ 
+1. In these regulations, unless the context otherwise requires, the following words, 
+expressions and derivations therefrom shall have the meanings assigned to them as 
+under: – 
+ 
+(a) “Act” means the Securities and Exchange Board of India (“ SEBI ”) Act, 1992 (15 of   
+1992) (“ Act”);  
+ 
+(b) “Audit Committee’ ” means the Committee of the Board of Directors of the 
+Company constituted pursuant to the provisions of Section 177 of the Companies Act, 2013 read with Regulation 18 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (“ SEBI LODR Regulations, 2015”), as 
+amended;  
+ 
+(c) “Board ” means the Board of Directors of the Company;  
+ 
+(d) “Code ” or “ Code of Conduct ” shall mean the Code of Conduct to Regulate, Monitor 
+and Report Trading by Designated Persons and their Immediate Relatives, as 
+amended from time to time;  
+ 
+(e) “Company ” means THYROCARE TECHNOLOGIES LIMITED;  
+  
+Page 3 of 37 
+  
+(f) “Compliance of�icer ” means the Company Secretary of the Company or such 
+other senior of�icer of the Company, who is so designated and, who is �inancially 
+literate and is capable of appreciating requirements for legal and regulatory 
+compliance under Insider Trading Regulations and who shall be responsible for compliance of policies, procedures, maintenance of records, monitoring adherence to the rules for the preservation of Unpublished Price Sensitive 
+Information (“ UPSI ”), monitoring of trades and the implementation of the codes 
+speci�ied in Insider Trading Regulations under the overall supervision of the 
+Board Of Directors of the Company or the chief executive of�icer of the Company, 
+as the case may be;  
+ 
+Explanation – For the purpose of this regulation, “ �inancially literate ” shall mean 
+a person who has the ability to read and understand basic �inancial statements i.e. 
+balance sheet, pro�it and loss account, and statement of cash �lows.  
+ 
+(g) “Connected person" means :  
+(i) any person who is or has been, during the six months prior to the concerned 
+act, associated with a company, in any capacity, directly or indirectly, including by reason of frequent communication with its of�icers or by being in any 
+contractual, �iduciary o r employment relationship or by being a director, 
+of�icer or an employee of the company or holds any position including a 
+professional or business relationship, whether temporary or permanent, with the company, that allows such a person, directly or indirectly, access to 
+unpublished price sensitive information or is reasonably expected to allow 
+such access.  
+ 
+(ii) Without prejudice to the generality of the foregoing, the persons falling within the following categories shall be deemed to be connected persons unless the 
+contrary is established –  
+a) a relative of connected persons speci�ied in clause (i); or  
+b) a holding company or associate company or subsidiary company; or  
+c) an intermediary as speci�ied in section 12 of the Act or an employee or director thereof; or  
+d) an investment company, trustee company, asset management company 
+or an employee or director thereof; or  
+e) an of�icial of a stock exchange or of clearing house or corporation; or  
+f) a member of board of trustees of a mutual fund or a member of the board of directors of the asset management company of a mutual fund 
+or is an employee thereof; or  
+g) a member of the board of directors or an employee, of a public �inancial 
+institution as de�ined in section 2 (72) of the Companies Act, 2013; or  
+h) an of�icial or an employee of a self -regulatory organization recognised 
+or authorized by the Board; or  
+i) a banker of the company; or  
+j) a concern, �irm, trust, Hindu undivided family, company or association 
+of persons wherein a director of a company or his relative or banker of 
+the company, has more than ten per cent. of the holding or interest; or  
+k) a �irm or its partner or its employee in which a connected person 
+speci�ied in clause (i) above is also a partner; or  
+Page 4 of 37 
+ l) a person sharing household or residence with a connected person 
+speci�ied in clause (i) above;  
+ 
+It is intended that a connected person is one who has a connection with the company that is expected to put him in possession of UPSI. Relatives and other categories of persons speci�ied above are also presumed to be connected persons but such a presumptio n is a deeming legal �iction and is rebuttable. This de�inition 
+is also intended to bring into its ambit persons who may seemingly not occupy 
+any position in a company but are in regular touch with the company and its 
+of�icers and are involved in the know of the company’s operations. It is intended 
+to bring within its ambit those who would have access to or could access 
+unpublished price sensitive information about the Company by virtue of any 
+connection that would put them in possession of unpublished pric e sensitive 
+information.  
+ 
+(h) “Designated Persons ” means  
+  
+(i) All the Promoters and Promoter Group of the Company who are individuals or 
+investment companies for intermediaries or �iduciaries;  
+(ii) All Directors, Key Managerial Personnel and employees upto two levels below 
+Chief Executive Of�icer (“CEO”) of the Company and its material subsidiaries;  
+(iii) All the employees or such other person as identi�ied by the Compliance Of�icer 
+in consultation with CEO / Chief Financial Of�icer (“CFO”) basis of his/her role and functions in the Company to access Unpublished Price Sensitive 
+Information.  
+(iv) All the employees in IT, Finance, Accounts, Legal & Secretarial departments of 
+the Company or its Material Subsidiary(ries) as identi�ied by the Compliance 
+Of�icer in consultation with CEO / CFO who have or have the ability to have 
+access to Unpublished Price Sensitive Informa tion.  
+(v) Employee of the intermediary or �iduciary such as IT staff or secretarial staff 
+or �inance/accounts staff or any other employee who have access to Unpublished Price Sensitive Information.  
+(vi) Any other employee designated by the Company to whom these trading restrictions shall be applicable.  
+(vii) Managing Director/CEO and employee upto two levels below Managing 
+Director/CEO of Material Subsidiary(ies) of the Company.  
+(viii)  Employees of Material Subsidiary(ies) of the Company designated on the 
+basis of their functional role or access to Unpublished Price Sensitive 
+Information in the organization by their board of directors;  
+(ix) Such other connected persons who may have access to Unpublished Price 
+Sensitive Information;  
+ 
+(i) "Fiduciary " or " Fiduciaries " includes professional �irms such as auditors, 
+accountancy �irms, law �irms, analysts, insolvency professional entities, 
+consultants, banks etc., assisting or advising the Company or any other person 
+who are required to handle Unpublished Price Sensitive Information of the 
+Company.  
+ 
+ 
+ 
+Page 5 of 37 
+ (j) "Generally Available Information " means information that is accessible to the 
+public on a non -discriminatory basis and shall not include unveri�ied event or 
+information reported in print or electronic media;  
+ 
+(k) "Immediate Relative" means a spouse of a person, and includes parent, sibling, 
+and child of such person or of the spouse, any of whom is either dependent 
+�inancially on such person, or consults such person in taking decisions relating to 
+trading in securities;  
+ Note: It is hereby clari�ied that ‘spouse’ of a person will be considered immediate 
+relative irrespective of whether he/she is �inancially dependent or consults such 
+person in taking decisions relating to trading in securities.  
+ 
+(l) "Insider " means any person who is:  
+(i) Connected Person; or  
+(ii) in possession of or having access to Unpublished Price Sensitive Information;  
+ 
+Since "generally available information" is de�ined, it is intended that anyone in 
+possession of or having access to unpublished price sensitive information should be considered as an "insider" regardless of the manner in which one came into 
+possession of o r had access to such information.  
+ 
+(m) “Insider Trading Compliance Tool ” a software to be developed in house by the 
+Company / procured from third party vendor to ensure the compliances of Insider Trading Regulations as implemented / to be implemented by the 
+Compliance Of�icer in consultation with CFO / CEO.  
+ 
+(n) "Intermediary" or "intermediaries " refers to every intermediary registered 
+with Securities and Exchange Board of India (“ SEBI ”).  
+ 
+(o) “Key Managerial Personnel”, in relation to the Company, means - persons as 
+de�ined in Section 2(51) of the Companies Act, 2013 .  
+ 
+(p) “Listing Regulations ” means the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended from 
+time to time.  
+ 
+(q) "Legitimate purpose" shall include sharing of Unpublished Price Sensitive 
+Information of the Company in the ordinary course of business on a need -to-
+know basis by an Insider with his/ their  
+(i) partners;  
+(ii) collaborators;  
+(iii) lenders;  
+(iv) customers;  
+(v) suppliers;  
+(vi) merchant bankers;  
+(vii) legal advisors;  
+(viii)  auditors;  
+(ix) insolvency professionals;  
+(x) promoter or holding company;  
+(xi) governmental and other statutory authority or a court of law;  

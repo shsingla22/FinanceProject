@@ -1,0 +1,117 @@
+ 
+ 
+ 
+YBL/CS/202 5-26/197 
+ 
+February 26, 2026  
+ 
+National Stock Exchange of India Limited    
+Exchange Plaza, Plot no. C/1, G Block,   
+Bandra -  Kurla Complex, Bandra (E)     
+Mumbai -  400 051     
+NSE Symbol: YESBANK      
+ 
+Dear Sir/Madam,  
+ 
+Sub: Clarification on news item appearing in “Media/Publication”  
+ 
+This is with reference to recent news item captioned “Unauthorised dollar, Brazilian real 
+transactions hit Yes Bank -BookMyForex forex cards; data breach suspected” which appeared 
+in www.moneycontrol.com  on February 25, 2026 and the clarification sought by National 
+Stock Exchange of India Limited (“NSE”) on this news item.  
+ 
+In this regard, we wish to clarify the following as sought in the letter/email from NSE:  
+ 
+1. Whether such negotiations/events were taking place? If so, you are advised to provide 
+the said information along with the sequence of events in chronological order from the 
+start of negotiations/events till date.  
+ 
+YES BANK’s Multi -Currency Prepaid Forex Card, which were issued in partnership with 
+BookMyForex observed an unusual increase in transaction decline by the B ank’s fraud 
+monitoring system.   These unauthorised transactions were attempted on specific BIN 
+numbers only. These fraudulent transactions were carried out on 15 merchants that are based out a Latin American Country, in the early hours on February 24, 2026, between 3:30 AM and 8:30 AM (IST). The specific country does not mandate two factor 
+authentication  for e -commerce transactions. As a security measure, the Bank has 
+subsequently restricted e -commerce transactions from the specific Latin American 
+Country.  The internal investigation by the Bank has revealed that during the incident 
+period transactions approximately  equivalent of USD 0.28 MN (Approx. INR 2.5 Cr) have 
+been approved on behalf of 5000 customers. Due to the Bank’s monitoring and control 
+mechanis ms, 688 unauthorized transaction attempts were declined, which led to 
+safeguarding of approximately equivalent to USD 0.1 MN. The Bank is working with Card 
+Network to raise chargeback to ensure that the impacted customers do not face any financial loss. Th e Bank has also released the attached Press Release in this regard, which 
+was submitted to the Stock Exchanges vide letter no. YBL/CS/2025 -26/196 dated 
+February 26, 2026.   
+ 
+ 
+      
+ 
+ 
+2. Whether you/company are aware of any information that has not been announced to 
+the Exchanges which could explain the movement in the trading, if any? Further, you 
+are advised to provide the said information and the reasons for not disclosing the same 
+to t he Exchange earlier as required under regulation 30 of the SEBI (LODR) 
+Regulations, 2015.  
+ 
+We are not aware of any information that has not been announced to the Exchanges, which requires disclosures under Regulation 30 of the SEBI (LODR) Regulations, 2015, at this stage.  
+ 
+3. The material impact of this article on the Bank.  
+ 
+There is no material impact of this article on the Bank.  
+ 
+We have been and will keep the Stock Exchanges informed of any material events as required 
+under Regulation 30 of the Listing Regulations.  
+ 
+This is for your information and necessary dissemination.  
+ The weblink of BSE Limited and National Stock Exchange of India Limited providing the above information is being hosted on the Bank’s website www.yes.bank.in  pursuant to SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.  
+ Thanking you,  
+ 
+Yours faithfully,  
+ 
+For YES BANK LIMITED  
+ 
+ 
+ 
+Sanjay Abhyankar  
+Company Secretary  
+ 
+Encl .: Press Release  
+ 
+         
+YES BANK takes stringent measures to safeguard impacted Multi -
+Currency Prepaid Forex Card  
+Mumbai, February 25, 202 6: YES BANK ’s Multi -Currency Prepaid  Forex 
+Card, which were issued in partnership with BookMyForex  observed an 
+unusual increase in transaction decline by the bank’s fraud monitorin g 
+system.   These unauthori sed transactions were attempted on specific BIN 
+numbers  only.  
+These fraudulent  transactions were carried out on 15 merchants that are 
+based out of Latin American Country, in  the early hours on February 24, 
+2026, between 3:30 AM and 8:30 AM (IST).  The specific country  does not 
+mandate two factor authentication for e -commerce transactions. 
+As a security  measure,  the bank has subsequently restricted e -commerce 
+transactions from the specific Latin American Country .  
+The internal investigation by the Bank has revealed that during the 
+incident period  transactions approximately  equivalent of USD 0.28 MN 
+have been approved on behalf of 5000 customers . Due to the Bank’s 
+monitoring and control mechanisms, 688 unauthorised transaction 
+attempts were declined, which led to safeguarding of approximately  
+equivalent to  USD 0.1 M N. The Bank is working with Card Network to 
+raise chargeback to ensure that the impacted customers do not face any 
+financial loss.   
+YES BANK remains committed to the highest standards of data security 
+and customer protection. The Bank continues to closely monitor the 
+ 
+situation and is working with all relevant stakeholders to ensure customer 
+interests are safeguarded.  
+About YES BANK  
+YES BANK, a full -service commercial bank headquartered in Mumbai, offers a wide array of products, 
+services, and digital solutions, catering to Retail, MSME, and Corporate clients. The Bank operates its 
+Brokerage business through YES SECURITIES, a subsidia ry of the Bank. The Bank has a pan -India 
+presence including an International Banking Unit (IBU) at GIFT City, and a Repr esentative Office in 
+Abu Dhabi.  
+For more information, please visit the Bank's website at https://www.yes.bank.in/   
+Media contact  
+Sidharth Patnaik  
+Lead Corporate Communications  
+YES BANK                 
+Email: sidharth.patnaik@yes.bank.in   

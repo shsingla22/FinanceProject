@@ -1,0 +1,112 @@
+ 
+Netweb Technologies India Limited  
+Plot No. H -1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, 
+Haryana 121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E-mail : complianceofficer@netwebindia.com  
+ 
+CIN : L72100HR1999PLC103911  
+Date: 18.02.2026  
+To,   
+The Manager    
+Listing Department    
+BSE Limited    
+Phiroze Jeejeebhoy Towers Dalal Street   
+Mumbai - 400001    
+Scrip Code: 543945    To,  
+The Manager    
+Listing Department    
+National Stock Exchange of India Limited    
+Exchange Plaza, Bandra Kurla Complex   
+Bandra East, Mumbai - 400051   
+Scrip Code: NETWEB    
+ 
+SUBJECT: INTIMATION OF PRESS RELEASE  
+Dear Sir/ Madam,  
+Please find enclosed herewith the Press Release dated February 18, 2026 , Netweb Launches 
+‘Make in India’ AI Supercomputing Systems Powered by NVIDIA Sovereign AI Development  
+issued by the Company.  
+ 
+Kindly take the same on record.  
+Thanking you,  
+For Netweb Technologies India Limited  
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+ 
+Lohit 
+ChhabraDigitally signed 
+by Lohit Chhabra Date: 2026.02.18 06:59:20 +05'30'
+ 
+Netweb Launches ‘Make in India’ AI Supercomputing Systems Powered by NVIDIA 
+Sovereign AI Development  
+Tyrone Camarero Spark — the World’s Smallest AI Supercomputer based on the NVIDIA DGX 
+Spark platform and powered by the NVIDIA GB10 Grace Blackwell Superchip for Developers – 
+Now Shipping; Netweb’s Tyrone Camarero AI System Built in India on NVIDIA Grace B lackwell 
+Platforms to Supercharge Inference Workloads  
+INDIA , NEW DELHI , FEB 18  , 2026 : NETWEB (NSE: NETWEB , BSE : 543945 ) Technologies 
+India Ltd the leading Indian OEM in high end computing today powered a new era of computing 
+in India by introducing one of the world’s most powerful AI infrastructure solutions — a ‘Make in 
+India’ AI Supercomputer Tyrone Camarero GB200 Syste m — and the petascale personal 
+compute system Tyrone Camarero Spark. Netweb today announces a new class of AI Computing 
+for India with the launch of Tyrone Camarero Spark, which is one of the world’s smallest AI 
+supercomputers, delivering NVIDIA’s AI stack in a compact desktop form factor. It combines 
+NVIDIA Blackwell GPUs , NVIDIA Grace CPUs , NVIDIA N etworking , NVIDIA CUDA -X libraries  and 
+NVIDIA AI software stack, accelerating agentic and physical AI development to address the 
+requirements of millions of AI developers in India. The system packs a petaflop of AI performance 
+and 128GB of unified memory into a compact desktop form factor -based system, helping a huge 
+customer base of AI developers in India to run inference on AI models with up to 200 billion 
+parameters and locally fine -tune models of up to 70 billion parameters. It also allows developers 
+to build AI agents and operate advan ced software stacks entirely on -premises.  
+“The Tyrone Camarero Spark based on NVIDIA DGX Spark and powered by the NVIDIA GB10 
+Grace Blackwell Superchip, manufactured in India by Netweb and ready to serve the AI developer 
+market of the world, is a proud moment for the ‘Make in India’ mission. The T yrone Camarero 
+Spark  provides AI developers t 1 Peta Flops of (FP4) performance out of the box in the tiniest form 
+factor of 5.9 in x 5.9 in x 2in inches and with system power supply of just 240 Watts —whereas in 
+2016 a comparable performance of 170 Tera Flops (FP16) with same memory size of 128GB could 
+be delivered with System Power requirement of 3200 Watts. This milestone revolutionizes AI 
+compute in India by introducing new ways to conduct AI research and development. With this 
+move we have created a w hole new customer segment in collaboration with NVIDIA.” said Sanjay 
+Lodha, Managing Director & CEO of Netweb Technologies India Ltd.  
+“Increasing demand for generative AI and sovereign compute requires a new class of powerful, 
+efficient infrastructure to accelerate innovation,” said Vishal Dhupar, Managing Director, South 
+Asia, NVIDIA. “Netweb’s Tyrone Camarero Spark systems demonstrate how NVIDIA and India’s 
+technology leaders are working together to deliver AI computing directly to the nation’s 
+developers and enterprises to speed new discoveries.”  
+Tyrone Camarero Spark will provide AI developers an access to preinstalled NVIDIA Nemotron  
+open models, libraries, NVIDIA NIM  microservices with enabled workflows to help create vision 
+search and summarization agents, refining image generation, building an AI chatbot and much 
+more. Shipping has already started and some of the units of this system are supplied to select AI 
+user o rganizations in India.  
+ 
+ 
+ 
+ 
+Netweb Scales Make in India Computing with NVIDIA Grace Blackwell -based Tyrone 
+Supercomputing Systems for Trillion Parameter Models  
+Netweb is also launching Tyrone AI Supercomputing systems based on NVIDIA Grace Blackwell  
+platforms designed and manufactured in India bolstering the remarkably successful Make in 
+India mission. This product and architecture, built on the NVIDIA GB200 NVL4 platform, delivers 
+revolutionary performance through four NVIDIA Blackwell GPUs connecte d with an NVLink 
+bridge and two NVIDIA Grace CPUs connected over NVLink -C2C. Compatible with liquid -cooled, 
+NVIDIA MGX ™ modular servers, it provides up to 2x performance for scientific computing, AI 
+model training, and inference over the prior generation.  
+Netweb’s Tyrone Camarero GB200 AI System introduces many revolutionary technologies, which 
+together enable AI training and real -time LLM inference for models scaling up to 10 trillion 
+parameters. These include NVIDIA GB200 NVL4 – based on one of the world’ s most powerful AI 
+chips, second -generation Transformer Engine, fifth -generation NVlink, RAS Engine, secure AI 
+with confidential computing  and a Decompression Engine.   
+“Our deep collaboration with NVIDIA for the last 15 years has been instrumental in advancing AI 
+infrastructure in India  with the nation’s own sovereign -built, latest -generation NVIDIA systems. 
+Make in India Tyrone GB200 systems, coupled with complete sovereign cloud stack and utilities 
+provide a multi -node, liquid -cooled, rack -scale system design for the most compute -inten sive 
+workloads. This design will integrate 20 Tyrone GB200 MGX systems within a single liquid -cooled 
+rack, comprising 40 NVIDIA Grace CPUs and 80 NVIDIA Blackwell GPUs, along with NVIDIA 
+BlueField -3 DPUs, high -performance storage, and comprehensive end -to-end security.” said 
+Sanjay Lodha, Managing Director & CEO of Netweb Technologies India Ltd.  
+Netweb will showcase at India AI Impact Summit, Delhi 2026  
+Netweb will display a complete range of systems of the Tyrone AI product range including th e 
+Tyrone NVIDIA MGX -based GB200 liquid cooled solution and Tyrone Camarero Spark which will 
+reflect Netweb’s Make in India strength, for AI edge to AI personal computing to the most 
+advanced AI data centre computing work loads , in New Delhi between 16th -20th February 2026.  
+ 
