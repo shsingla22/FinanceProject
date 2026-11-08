@@ -751,3 +751,7 @@ def test_pdf_text_with_lone_surrogates_is_still_written():
     bad = "Scheme of Arrangement \ud83d demerger of the Energy business"
     assert "\ud83d" not in DR.clean_text(bad) and "demerger" in DR.clean_text(bad)
     DR.clean_text(bad).encode("utf-8")              # must not raise
+
+    assert DR.first_pages(b"not a pdf at all") == ""
+    assert DR.first_pages(b"%PDF-1.4 garbage") == ""
+    monkeypatch = None

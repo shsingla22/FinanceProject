@@ -150,17 +150,24 @@ def feed_to_all(feed: list[dict], members: dict[str, str]) -> list[dict]:
 # -------------------------------------------------------------- the read
 
 def first_pages(data: bytes, n: int = DEEP_PAGES) -> str:
+    """Text of the first n pages; '' for anything PyPDF2 cannot open
+    (encrypted with an unsupported cipher, damaged, not a PDF)."""
     import PyPDF2                                   # noqa: PLC0415
+    parts = []
     try:
         reader = PyPDF2.PdfReader(io.BytesIO(data), strict=False)
+        if reader.is_encrypted:
+            try:
+                reader.decrypt("")
+            except Exception:                       # noqa: BLE001
+                return ""
+        for i in range(min(n, len(reader.pages))):
+            try:
+                parts.append(reader.pages[i].extract_text() or "")
+            except Exception:                       # noqa: BLE001
+                parts.append("")
     except Exception:                               # noqa: BLE001
-        return ""
-    parts = []
-    for page in reader.pages[:n]:
-        try:
-            parts.append(page.extract_text() or "")
-        except Exception:                           # noqa: BLE001
-            parts.append("")
+        return clean_text("\n".join(parts))[:60_000]
     return clean_text("\n".join(parts))[:60_000]
 
 
@@ -183,7 +190,15 @@ def eligible(r: dict) -> str:
 
 
 def read_one(r: dict) -> dict:
-    """Stream one attachment, keep its first pages, drop the bytes."""
+    """Stream one attachment, keep its first pages, drop the bytes. Never
+    raises: a worker's failure is recorded on its row, not on the run."""
+    try:
+        return _read_one(r)
+    except Exception as e:                          # noqa: BLE001
+        return {**r, "read_status": f"failed:{type(e).__name__}"}
+
+
+def _read_one(r: dict) -> dict:
     code, body = FA._get(r["attachment"], timeout=90, headers={
         "Referer": "https://www.nseindia.com/", "Accept": "application/pdf,*/*"})
     if code != 200 or body[:4] != b"%PDF":
