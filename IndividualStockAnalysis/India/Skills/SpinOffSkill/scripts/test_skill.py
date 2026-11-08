@@ -365,7 +365,7 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
 
     class A:
         refresh = False; days = 365; no_bse = True; quick = True; no_calls = False; only = ""
-        fetch_docs = False; as_of = TODAY.isoformat()
+        fetch_docs = False; as_of = TODAY.isoformat(); workers = 2
     AZ.cmd_run(A())
     md = (out / "SPINOFF_REPORT.md").read_text()
     assert "# Spin-offs and demergers" in md

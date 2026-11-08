@@ -1,0 +1,125 @@
+ 
+ February 1 5, 202 6                                                                          LTTL/L&S/2025- 26/02/ 16 
+ 
+To, 
+The Listing Department , 
+National Stock Exchange of India Limited,  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai -  400 051  
+Maharashtra, India  The Listing Department,  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+Maharashtra, India  
+ Dear Sir/Madam,  
+ 
+ Sub  : Investor FAQs - Acquisition of Online Travel Solutions S.L. ( “Trenes ”) 
+ 
+ Ref  : Le Travenues Technology Limited (the “Company”)  
+ NSE Symbol: IXIGO  and BSE Scrip Code: 544192  
+ 
+In furtherance to our letter s numbered LTTL/L&S/2025- 26/02/14 and LTTL/L&S/2025-
+26/02/15 dated February 13, 2026, regarding the o utcome of meeting of the board of 
+directors (the “Board ”) of Le Travenues Technology Limited (the “Company ”) and 
+investments / acquisitions approved by the board of directors of IXIGO PTE. LTD., wholly 
+owned subsidiary of  the Company, p lease find enclosed herewith a set of Frequently 
+Asked Questions (FAQs) prepared to address queries that investors may have in relation to the acquisition of Online Travel Solutions S.L., Spain.   
+ This announcement will also be available on the website of the Company at https://investors.ixigo.com/ .   
+ This is for your information and records.  
+ Thank you, 
+ For Le Travenues Technology Limited  
+  Suresh Kumar Bhutani  
+(Group General Counsel, Company Secretary &  Compliance Officer ) 
+ 
+ 
+ 
+This FAQ relates to questions that investors may have based on the recent announcement of our Board authorising the acquisition of Online Travel Solutions S.L. (“Trenes”) in the Board meeting of the Company held on February 13, 2026.  
+ In case you have any further questions, feel free to email us on ir@ixigo.com   
+ Q1: How does this acquisition fit into ixigo’s philosophy on acquisitions?  
+ We have consistently articulated this philosophy at the time of our IPO ( Prospectus Link ), 
+and reiterated it in our Quarterly Earnings FAQs such as the one for Q4 FY24 ( link to Q4 
+FY24 FAQ ) and Q2 FY26 ( link to Q2 FY26 FAQ ).  
+ Our playbook for acquisitions has remained very consistent, specially when you look at it from our track -record in the last 3 acquisitions -  ConfirmTkt, Abhibus and Zoop.  
+ We look for:  
+ 
+● Products and businesses that are post product -market fit  
+● Strong founding / mgmt, teams with a proven execution capability & prudent governance  
+● A small team size and capital efficient approach 
+● Profitable or on a clear path to profitability  
+● Operating in large, structurally growing TAM and where we either strengthen an existing vertical, or get access to a team, technology, a new vertical or a new market  
+● Able to benefit from synergies on team, product, growth and AI capabilities  
+● Available at an attractive valuation with long term potential  
+ Further, every acquisition proposal that we take to our Board is done after rigorous due diligence and our Board (having a majority of independent directors) considers all the merits and demerits of every deal prior to approving them.  
+ Trenes checks all these boxes for us. It is a small and focused team (<10 team size) , 
+profitable , and fast-growing business, built patiently by the team over more than a 
+decade, with a capable product and deep operator integrations. It is also already the #2 
+Train OTA in Spain, which makes it a rare opportunity to enter a large developed market 
+through an already scaled and credible platform.  
+ As we elaborated in the last earning call ( link), we are living in an era where almost all 
+software stacks and legacy code will be rewritten with AI and this AI reinvention will lead to creation of new growth opportunities as well as efficiencies in how the legacy businesses were being run. This reinve ntion is easiest to do in smaller team sizes and 
+has highest leverage in more mature markets where legacy businesses may not be able to move that quickly.   
+ 
+ 
+ 
+Given this context, we see a potential to reinvent Trenes with a more AI -native customer 
+experience and leverage our products, technology and AI capabilities in the Spanish market using their current customer trust and train operator relationships (such as  Renfe, 
+Iryo and OuiGo, SNCF, EuroStar etc.).  
+ Q2: Why did you choose to enter Spain with a train- first approach? What is the TAM 
+and opportunity you see there?  
+ We were already present in Spain since 2021 through our operating subsidiary -  ixigo 
+Europe, S. L., a wholly owned subsidiary that has been responsible for some of our AI 
+innovations and capabilities.  
+ ixigo is India’s #1 OTA when it comes to trains (60%+ market share and fastest growing player in the OTA market). We have deep product, data, and operational expertise, as well as the best peace of mind stack for train -first customers. Our cross- sell capabilities 
+for this vertical are proven and they become more relevant in a market where rail, air and bus are sometimes available at similar fares. Expanding internationally with a train- first 
+strategy is hence a natural extension of our core strength.  
+ Europe is the most mature market for rail travel globally. Liberalisation has been driving supply and pricing competition,  and rail has been gaining share from air in many 
+European markets due to policy and environmental preference shifts. Spain is one of Europe’s most attractive high- speed rail networks with participation of both private and 
+government operators. Train ticket unit economics in Spain have higher ATVs and 
+structurally stronger take rates with untapped potential for value- added services adoption. 
+The market has nearly 600 Mn annual rail passengers and has been growing consistently. Multi -operator complexity in t he markets there increase the OTA relevance and relatively 
+low OTA penetration (~30%) implies further growth of headroom in the market.  
+ Q3: Give us some colour on Trenes financial and operating metrics?  
+ The Trenes founders Marc and Pere have been building the company with capital efficiency and patience since 2013. We have been impressed by their execution and the company is profitable and growing nicely. It has managed to grow solely with internal accrua ls and has not relied on outside capital to fund its growth.  
+ Their last 3 years revenue trajectory was broadly as follows:  
+ 
+Calendar Year  Revenue  
+CY25  €5,495,850  
+CY24  €4,281,478  
+CY23  €1,851,869  
+ In CY 25, Trenes had a Profit after Tax of €1,352,239 (appx. INR 14.5 Cr)  
+ 
+ 
+ 
+Q4:   Will this not dilute your focus away from the opportunity in India (for example, 
+in Hotels and other areas)?  
+ India remains our largest market and core growth engine. We continue to see large underpenetrated opportunities such as hotels, buses among others and our team’s execution focus and excitement for India remains unchanged. Since we are already the market leader in Trains OTA with 60%+ market share among OTAs  in India, we rather view this move as a TAM expansion  and strategic diversification , not a shift away from 
+India.  
+ This acquisition enables us to extend our proven rail playbook into a premium international market, create cross -learnings between the most mature rail ecosystem 
+(Europe) and the highest -growth rail ecosystem (India) and allows us to leverage our AI -
+native discovery, booking and support experiences (agentic chat + voice). We can 
+leverage our tech and experience in mobile app products, train routing, utility products, growth / distribution playbooks, peace of mind stack and cross -sell capabilities with 
+Trenes’ established base of Spanish customers and operators.   
+ ixigo has built strong consumer trust in India through product innovation, transparent pricing, value added services, and its superior customer experience delivered with the 
+help of AI. We see an opportunity to apply these learnings in Spain / Europe.  
+ Overall, this move strengthens ixigo’s long- term platform strategy without taking away 
+from our India growth roadmap.  
+ Q5: How are you funding this acquisition?    
+We are acquiring secondary shares (including non- compete fees) worth €11.70 million  
+(approximately INR 126 Cr ) through our wholly -owned subsidiary in Singapore (IXIGO 
+PTE. LTD.) which will give us a 60% upfront stake  in Online Travel Solutions S.L. 
+(“Trenes”) and make it our step- down subsidiary.  
+ 
+Our future earnout obligations are contingent on the future financial performance of 
+Trenes and therefore are aligned with shareholder value creation.  
+ 
+This transaction is being funded from the proceeds of our preferential issue of 
+approximately INR 1,296 Cr  from Prosus that we raised in November 2025, out of which 
+we had earmarked 25% for acquisitions and strategic investments, and hence we are 
+utilising only a part of our earmarked funds.  
+ 
+Neither ixigo nor Trenes has any long- term debt on its balance sheet, and we are 
+sufficiently capitalised to fund this transaction’s obligations. As of January 31, 2026 , we 
+had more than INR 1,700 Cr of cash and cash equivalents , giving us strong balance 
+sheet flexibility.  

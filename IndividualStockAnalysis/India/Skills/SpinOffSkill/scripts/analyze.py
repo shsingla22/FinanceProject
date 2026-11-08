@@ -49,9 +49,11 @@ import hashlib
 import json
 import os
 import re
+import concurrent.futures as cf
 import shutil
 import subprocess
 import sys
+import threading
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -91,6 +93,9 @@ def _ai_available() -> bool:
     return shutil.which("claude") is not None
 
 
+_CACHE_LOCK = threading.Lock()     # several judge calls run at once; one writer
+
+
 def _cache() -> dict:
     if CACHE.exists():
         try:
@@ -126,9 +131,12 @@ def _ask(key: str, stamp: str, prompt: str, allow_ai: bool, runner=None) -> dict
         verdict = json.loads(m.group(0))
     except json.JSONDecodeError:
         return {"status": "judge failed: bad json"}
-    cache = _cache()
-    cache[key] = {"stamp": stamp, "verdict": verdict}
-    CACHE.write_text(json.dumps(cache, indent=1))
+    with _CACHE_LOCK:
+        cache = _cache()
+        cache[key] = {"stamp": stamp, "verdict": verdict}
+        tmp = CACHE.with_suffix(".json.tmp")
+        tmp.write_text(json.dumps(cache, indent=1))
+        tmp.replace(CACHE)
     return {"status": "judged", **verdict}
 
 
@@ -863,12 +871,22 @@ def cmd_run(args, runner=None) -> dict:
     live = SO.live_market()
     sits = SO.analyse(rows, today=today, with_calls=not args.no_calls, live=live)
     ai = (runner is not None) or (_ai_available() and not args.quick)
-    for s in sits:
+    workers = max(1, int(getattr(args, "workers", 1) or 1))
+
+    def _one(s):
         enrich(s, rows, ai, today, live, fetch_docs=args.fetch_docs, runner=runner)
         if s["kind"] in SO.SPIN_KINDS:
             print(f"  {s['symbol']}: {s['confidence'][0]} / {s['stage']} — {s['listing']['state']}"
                   f" [{(s.get('judge') or {}).get('status')} / {(s.get('rationale') or {}).get('status', '-')}"
-                  f" / {(s.get('segments') or {}).get('status', '-')}]", file=sys.stderr)
+                  f" / {(s.get('segments') or {}).get('status', '-')}]", file=sys.stderr, flush=True)
+        return s
+
+    if workers > 1:
+        with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+            list(ex.map(_one, sits))
+    else:
+        for s in sits:
+            _one(s)
     sits.sort(key=lambda s: (s["kind"] not in SO.SPIN_KINDS, s["kind"] not in SO.OFFERING_KINDS,
                              SO.CONFIDENCE_ORDER.get(s["confidence"][0], 9),
                              -s["verdict"]["score"], s["symbol"]))
@@ -938,6 +956,8 @@ def main() -> None:
     r.add_argument("--quick", action="store_true", help="no AI judge")
     r.add_argument("--no-calls", action="store_true", help="skip the conference-call scan")
     r.add_argument("--only", default="")
+    r.add_argument("--workers", type=int, default=1,
+                   help="judge several situations at once (the cache is locked)")
     r.add_argument("--as-of", dest="as_of", default=None,
                    help="judge stages and timing as of this date (YYYY-MM-DD)")
     c = sub.add_parser("company")

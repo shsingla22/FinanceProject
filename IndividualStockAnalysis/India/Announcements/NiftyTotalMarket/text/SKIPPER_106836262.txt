@@ -1,0 +1,731 @@
+ 
+ SKPL/SECT/2026-27/101 
+Date: 30th October, 2026 
+ 
+The Manager 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, Block-G 
+Bandra Kurla Complex, Bandra (E) 
+Mumbai- 400 051 
+Symbol- SKIPPER The Manager 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, Dalal Street 
+Mumbai- 400 001 
+Scrip Code- 538562 
+ 
+Subject: Outcome of the Board Meeting held on 30th October, 2026 in terms of Regulation 30 & 33 of 
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 
+ 
+Dear Sir/Madam, 
+ 
+This is to inform you that the Board of Directors of the Company, at their meeting held today has, inter-
+alia, approved the following: 
+ 
+a. The Unaudited Financial Results (Standalone and Consolidated) of the Company along with 
+Limited Review Report for the quarter and half year ended 30th September, 2026. The said 
+financial results along with the Limited Review Report issued by M/s. JKVS & Co., Statutory 
+Auditors of the Company are enclosed. 
+ 
+b. Acquisition of 100% equity stake in Sansha Fastener Private Limited. Consequent to this 
+acquisition, Sansha Fastener Private Limited shall become a wholly owned subsidiary  of the 
+Company 
+ 
+The details as required under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+read with SEBI Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated 30th January, 2026, are 
+hereby enclosed as Annexure-A. 
+ 
+The meeting of the Board of Directors commenced at 12:30 p.m. and concluded at 01:50 p.m. 
+ 
+Kindly take the same on record.  
+ 
+Thanking you. 
+ 
+ 
+Yours faithfully, 
+For Skipper Limited 
+ 
+ 
+______________ 
+Anu Singh 
+Company Secretary & Compliance Officer 
+ 9KIPPER - Limited- 
+SKIPPER LIMITED 
+CIN L40104W81981 PLC033408 Regd. Office: 34, Loudon Street, 
+1st Floor, Kolkata 700 017 Phone: 033 2289 5731/32 
+Fa 033 2289 5733 Email: mail@skipperlimited.com 
+Website: www.skipperlimited.com 
+JKVS & CO 
+Chartered Accountants 
+Edcons Court, 7/1B, Hazra Road, 2nd Floor, Kolkata-700 026 • Phone: +91 33 2476 5068 • E-mail: kolkata@jkvs.in 
+Independent Auditor's Review Report on Standalone Unaudited Financial Results of Skipper Limited 
+for the quarter and half year ended September 30, 2026 pursuant to Regulation 33 of SEBI (Listing 
+Obligation and Disclosure Requirements) Regulations, 2015, as amended. 
+To, 
+The Board of Directors 
+Skipper Limited 
+3A, Loudon Street 
+Kolkata -- 700 017 
+1. We have reviewed the accompanying Statement of standalone unaudited financial results of M/s. Skipper Limited ("the 
+Company") for the quarter and half year ended September 30, 2026, together with notes thereon (herein after referred to as 
+"the Statement"), attached herewith. The Statement is being submitted by the Company pursuant to the requirement of 
+Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("the Regulation") as amended, and 
+has been initialled by us for identification purpose. 
+2. This Statement, which is the responsibility of the Company's Management and approved by the Board of Directors in their 
+meeting held on October 30, 2026, has been prepared in accordance with the recognition and measurement principles laid 
+down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under section 133 of the 
+Companies Act, 2013 as amended read with relevant rules issued thereunder and other accounting principles generally 
+accepted in India. Our responsibility is to issue a report on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagement (SRE) 2410 "Review of 
+Interim Financial Information Performed by the Independent Auditor of the Entity" issued by the Institute of Chartered 
+Accountants of India. This Standard requires that we plan and perform the review to obtain moderate assurance as to whether 
+the Statement is free of material misstatement. A review of interim financial information consists of making enquiries primarily 
+of persons responsible for financial and accounting matters and applying analytical and other review procedures. A review is 
+substantially less in scope than an audit conducted in accordance with the Standards on Auditing and consequently does not 
+enable us to obtain an assurance that we would be aware of all significant matters that might be identified in an audit. We 
+have not performed an audit and accordingly, we do not express an audit opinion. 
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe that the accompanying 
+Statement, prepared in accordance with the recognition and measurement principles laid down in the aforesaid Indian 
+Accounting Standards {'Ind AS') as prescribed under Section 133 of the Companies Act, 2013, as amended read with relevant 
+rules issued there under and other accounting principles generally accepted in India, has not disclosed the information 
+required to be disclosed in terms of Regulation 33 of the SEBI {Listing Obligations and Disclosure Requirements) Regulations, 
+2015, as amended, including the manner in which it is to be disclosed, or that it contains any material misstatement. 
+For J KV S & CO 
+Chartered Accountants 
+Firm Registration No. 318086E 
+Place: Kolkata 
+Date: October 30, 2026 
+www.jkvs.in Ajay Kumar 
+Partner 
+Membership No. 068756 
+UDIN: 2606975GSK€2/€193 
+Also at New Delhi & Mumbai 
+SKIPPER LIMITED 
+CIN: l40104W81981PLC033408 
+Registered Office: 3A, Loudon Street, Kolkata - 700017, India 
+Ph: 033- 22895731, Fax: 033-22895733, Email - investor.relations@skipperlimited.com 
+Web: www.skipper/imited.com 
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30 SEPTEMBER 2026 
+(in million, except per share data) 
+Quarter Ended Half Year Ended Year Ended 
+Particulars 30-Sep-26 30-Jun-26 30-Sep-25 30-Sep-26 30-Sep-25 31-4Mar-26 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+1 Revenue from Operations 13,839.76 13,098.32 12,617.87 26,938.08 25,156.49 55,528.22 
+2 Other Income 16.18 44.13 40.71 60.31 73.48 105 55 
+3 Total Revenue (1+2) 13,855.94 13,142.45 12,658.58 26,998.39 25,229.97 55,633.77 
+4 Expenses 
+Cost of Materials consumed 8,961.73 8,443.28 8,350.10 17,405.01 16,234.02 35,541.08 
+Changes in inventories of finished goods and work-in-progress (691.38) (701.99) (304.78) (1,393.37) 133.02 (11111) 
+Labour, Stores and other project expenses 1,787.08 1,949.99 1,501.81 3,737.07 2,723.76 7,188.79 
+Employee benefits expense 932.11 714.16 681.05 1,646.27 1,232.70 2,643.42 
+Finance costs 440.02 466.94 535.64 906.96 1,065.24 2,170.66 
+Depreciation and amortisation expense 248.06 221.81 19003 469.87 367.06 797.99 
+Other expenses 1,401.97 1,291.75 1,082.79 2,693.72 2,254.44 4,539.43 
+Total Expenses 13,079.59 12,385.94 12,036.64 25,465.53 24,010.24 52,770.26 
+5 Profit/ (Loss) before exceptional items and tax (3-4) 776.35 756.51 621.94 1,532.86 1,219.73 2,863.51 
+6 Exceptional items 106.79 106.79 106.79 
+7 Profit/ (Loss) before tax (5-6) 776.35 756.51 515.15 1,532.86 1,112.94 2,756.72 
+8 Tax Expense 
+Current Tax 197.75 192.95 126.40 390.70 283.07 478.31 
+Deferred Tax 3.92 (1.17) 16.30 2.75 10.82 225.79 
+Tax for earlier years . 3.54 3.54 (20.63) 
+Total Tax Expenses 201.67 191.78 146.24 393.45 297.43 683.47 
+9 Profit/ (Loss) for the period (7-8) 574.68 564.73 368.91 1,139.41 815.51 2,073.25 
+10 Other Comprehensive Income 
+(a) (i) Items that will not be reclassified to Statement of Profit &Loss (5.89) (5.89) (1.62) (11.78) (3.24) (23.55) 
+(ii) Income tax relating to items that will not be reclassified to Statement of Profit &Los5 1.49 148 0.41 2.97 0.82 593 
+(b) (i) Items that will be reclassified to Statement of Profit & Loss (Refer note 2) 94.94 (1,240.50) 65 54 (1,145.56) 65.54 1,159.36 
+(ii) Income tax relating to items that will be reclassified to Statement of Profit & L05s (23.89) 312.23 (16.50) 288.34 (16.50) (291.81) 
+Total Other Comprehensive Income (Net of Tax) (a+b) 66.65 (932.68) 47.83 (866.03) 46.62 849.93 
+11 Total Comprehensive Income For The Period (9+10) 641.33 (367.95) 416.74 273.38 862.13 2,923.18 
+Paid up Equity Share Capital ( Face Value Re 1 per Share)$ 122.13 112.90 112.91 122.13 112.91 112.90 
+Other Equity 14,640.04 
+Earnings per equity share (not annualised for quarter) 
+Basic EPS (in 4.82 5.00 3.27 9.82 7.22 18.36 
+Diluted EPS (in ) 4.82 500 327 9.82 7.22 18.36 
+Cash EPS (in ) 6.91 6.97 4.95 13.88 10.48 25.43 
+# Cash EPS = [(PAT + Depreciation)/Number of Equity Shares] 
+$ Excluding Share Application Money Received and Forfeited amounting to & 1.61 million. 
+<0S 
+7.­ 4> 
+/lCha, Acco6nt eo 
+SKIPPER LIMITED 
+STANDALONE SEGMENTWISE REVENUE, RESULTS, ASSETS AND LIABILITIES 
+(in million) 
+- Quarter Ended Half Year Ended Year Ended 
+Particulars 30-Sep-26 30-Jun-26 30-Sep-25 30-Se0-26 30-Sep-25 31-Mar-26 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+(a) Segment Revenue 
+Engineering Products 10,403.76 9,401.34 9,973.67 19,805.10 20,221.50 43,590.15 
+Polymer Products 1,281.62 1,170.03 1,153.47 2,451.65 2,425.40 5,068.99 
+Infrastructure Projects 2,154.38 2,526.95 1,490.73 4,681.33 2,509.59 6,869.08 
+Revenue from Operations 13,839.76 13,098.32 12,617.87 26,938.08 25,156.49 55,528.22 
+(b) Segment Results 
+Engineering Products 1,248.96 1,162.35 1,196.53 2,411.31 2,376.75 5,172.90 
+Polymer Products 62.21 43.72 36.31 105.93 74.77 161.73 
+Infrastructure Projects 129.48 195.37 80.14 324.85 122.80 370.90 
+Total 1,440.65 1,401.44 1,312.98 2,842.09 2,574.32 5,705.53 
+Less: Interest Expense 440.02 466.94 535.64 906.96 1,065.24 2,170.66 
+Add: Interest Income 10.06 11.89 16.32 21.95 37.03 79.22 
+Less: Un-allocable Expenditure net-off unallocable income 234.34 189.88 171.72 424.22 326.38 750.58 
+Less: Exceptional items 106.79 - 106.79 106.79 
+Profit/ (Loss) Before Tax 776.35 756.51 515.15 1,532.86 1,112.94 2,756.72 
+(c) Segment Assets 
+Engineering Products 28,819.40 26,608.87 26,518.53 28,819.40 26,518.53 28,874.17 
+Polymer Products 6,071.94 5,736.40 5,228.95 6,071.94 5,228.95 5,421.62 
+Infrastructure Projects 9,389.69 10,159.25 6,318.14 9,389.69 6,318.14 8,933.11 
+Unallocated 1,885.66 1,895.55 2,037.89 1,885.66 2,037.89 1,946.40 
+Total Segment Assets 46,166.69 44,400.07 40,103.51 46,166.69 40,103.51 45,175.30 
+() Segment Liabilities 
+Engineering Products 13,284.84 12,673.04 14,578.86 13,284.84 14,578.86 14,891.57 
+Polymer Products 1,481.00 1,459.75 1,285.59 1,481.00 1,285.59 1,335.42 
+Infrastructure Projects 3,966.05 4,153.94 2,966.89 3,966.05 2,966.89 3,725.87 
+Unallocated 8,167.75 11,726.74 8,578.62 8,167.75 8,578.62 10,467.89 
+Total Segment Liabilities 26,899.64 30,013.47 27,409.96 26,899.64 27,409.96 30,420.75 
+Includes borrowings (Term Loan and Working Capital Loan) amounting to & 7,352.63 million as on 30th September, 2026, 10,835.04 million as on 30th June, 2026, & 9,217.68 million as on 
+31st March, 2026 and 7,701.82 million as on 30th September, 2025 
+SKIPPER LIMITED 
+� 
+STANDALONE BALANCE SHEET AS AT 30TH SEPTEMBER, 2026 
+(&in million) 
+As At 
+Particulars 30-Sep-26 31-Mar-26 
+Unaudited Audited 
+ASSETS 
+NON-CURRENT ASSETS 
+Property, Plant and Equipment 10,513.75 9,197.23 
+Capital Work-In-Progress 3,039.78 2,730.54 
+Other Intangible Assets 70.51 56.10 
+Right of Use Assets 2,587.25 2,416.59 
+Financial Assets 
+Investment in Subsidiary 1.87 
+-Investment in Joint Venture 104.23 104.23 
+-Other Financial Assets 458.64 425.62 
+Other Non-Current Assets 324.58 196.99 
+Sub-total (a) 17,100.61 15,127.30 
+CURRENT ASSETS 
+Inventories 12,428.03 10,588.25 
+Financial Assets 
+-Trade Receivables 12,229.89 14,847.69 
+-Cash and Cash Equivalents 15.57 29.36 
+-Bank Balances Other Than Cash & Cash Equrvalent 168.40 290.06 
+-Other Current Financial Assets 525.79 1,829.37 
+Contract Assets 1,828.83 965.36 
+Other Current Assets 1,869.57 1,497.91 
+Sub-total (b) 29,066.08 30,048.00 
+TOTAL (a+b): 46,166.69 45,175.30 
+EQUITY AND LIABILITIES 
+EQUITY 
+Equity Share capital 123.74 114.51 
+Other Equity 19,143.31 14,640.04 
+Sub-total (a) 19,267.05 14,754 S5 
+LIABILITIES 
+NON-CURRENT LIABILITIES 
+Financial Liabilities 
+-Borrowings 5,048.84 4,433.88 
+-Lease Liabilities 112.21 163.05 
+-Other Financial Liabilities 273.52 278.89 
+Contract Liabilities 1,500.00 1,012.14 
+Provisions 206.81 173.60 
+Deferred Tax Liabilities (Net) 861.20 1,149.76 
+Other Non-Current Liabilities 23.84 26.61 
+Sub-total (b) 8,026.42 7,237.93 
+CURRENT LIABILITIES 
+Financial Liabilities 
+-Borrowings 2,303.79 4,783.80 
+-Lease Liabilities 101.85 97.14 
+-Trade Payables 392.35 285.29 
+-Total Outstanding Dues of Micro Enterprises and Small Enterprises 
+-Total Outstanding Dues of Creditor other than Micro enterprises and Small enterprises 14,551.96 16,843.89 
+-Other Financial Liabilities 636.13 490.40 
+Contract Liabilities 803.03 536.17 
+Other Current Liabilities 56.51 63.89 
+11.45 8.10 
+Provisions 16.15 74.14 
+Current Tax Liabilities (Net) 18,873.22 23,182.82 
+Sub-total (c) 46,166 69 45,175.30 
+TOTAL(a+b+c): 
+• 
+° I Cl1il�  l I ] \ > Acco~int3 
+\ /.-(" ? h , 
+SKIPPER LIMITED 
+STANDALONE STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED 30TH SEPTEMBER, 2026 
+(in million) 
+Half Year Ended 
+Particulars 30-Se0-26 30-Sep-25 
+Unaudited Unaudited A CASH FLOW FROM OPERATING ACTIVITIES 
+Profit before Tax 1,532.86 1,112.94 
+Adjustment for 
+Depreciation and amortisation expense 469.87 367.06 
+(Profit)/Loss on Sale of property, plant and equipment 11.57 18.43 
+Unrealised Foreign Exchange Fluctuations 33.57 (23.82) 
+Fair Value movement (Gain)/Loss in Derivative Instruments 45.49 2.99 
+Provision for allowances under Expected Credit Loss 35.00 23.87 
+Irrecoverable Debts/Advances Written Off (net) 60.90 35.84 
+(Profit)/Loss on termination of Lease Liability (7.76) 
+Finance Costs 906.96 1,065.24 
+Deferred Revenue Income on Govt. Grant (2.78) (2.78) 
+Interest Income (21.95 (37.03) 
+Operating profit before Working Capital Changes 3,071.49 2,554.98 
+Changes in Working Capital 
+(Increase)/decrease in Trade Receivables 2,488.29 (5,061.21) 
+(Increase)/decrease in Inventories (1,839.78) 639 32 
+(Increase)/decrease in Other Financial Assets & Other Assets (539.46) (1,055.36) 
+(Increase)/decrease in Contract Assets (863.47) (131.63) 
+Increase/(decrease) in Trade Payables (2,211.35) 2,599.10 
+Increase/(decrease) in Other Financial Liabilities & Other Liabilities 197.01 100.70 
+Increase/(decrease) in Contract Liabilities 754.72 1,978.51 
+Cash Generated from Operations 1,057.45 1,624.41 
+Direct taxes paid (448.70) (256.49) 
+NET CASH GENERATED /(USED IN) OPERATING ACTIVITIES A 608.75 1,367.92 
+8 CASH FLOW FROM INVESTING ACTIVITIES 
+Purchase of Property, Plant and Equipment and other Intangible Assets (2,202.73) (1,542.45) 
+Sales Proceeds of Property, Plant and Equipment 1.69 003 
+Investment in Subsidiary (1.87) 
+(Increase)/decrease in Deposits with bank 123.59 583.40 
+Interest income on Fixed Deposits 10.19 33.70 
+NET CASH GENERATED /(USED IN) INVESTING ACTIVITIES 8 (2,069.13) (925.32) 
+C CASH FLOW FROM FINANCING ACTIVITIES 
+Interest Paid (909.37) (1,035.98) 
+Dividend paid (12.24) (11.29) 
+Proceeds from Right Issue 11.16 
+Proceeds from Preferencial Allotment of Equity Shares (Net of issue expenses & 83.64 Million) 4,251.35 
+Proceeds from Long-Term Borrowings 1,809.96 1,102.99 
+Repayment of Long-Term Borrowings (1,015.44) (369.86) 
+Payment of Lease Liabilities (58.88) (59.35) 
+Increase/(decrease) in Short-Term Borrowings (2,618.79) (78.71) 
+NET CASH GENERATED /(USED IN) FINANCING ACTIVITIES C 1,446.59 (441.04) 
+NET INCREASE/(DECREASE) IN CASH & CASH EQUIVALENTS A+B+C (13.79) 156 
+ADD: OPENING CASH & CASH EQUIVALENTS 29.36 57.35 
+CLOSING CASH & CASH EQUIVALENTS 15.S7 58.91 
+a The above Standalone statement of Cash Flows has been prepared under the "Indirect method" as set out in Indian Accounting Standard (Ind AS) 7- Statement of Cash Flows. 
+b Cash & Cash Equivalents comprises of: (in million) 
+As At 
+Particulars 30-Se0-26 30-Sep-25 
+Unaudited Unaudited 
+11.45 7.06 
+Cash on hand 
+4.12 51.85 
+Balances with Scheduled Banks-In Current Accounts 
+15.57 58.91 Closing Cash & Cash Equivalent 
+SKIPPER LIMITED 
+Notes: 
+The above standalone financial Results were reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 30th October, 2026. The Statutory Auditors 
+have carried out limited review of the above financial results. 
+2 The Company has entered into certain "Commodity/ Currency Hedge (derivative) contracts" and designated the same as cash flow hedges in accordance with Ind AS 109, Financial 
+Instruments. The effective portion of changes in the fair value of these derivative instruments amounting to & 94.94 million for the quarter ended 30th September, 2026 ( 71.05 million, 
+net of deferred tax of & 23.89 million), & 1,240.50 million for the quarter ended 30th June, 2026 ({ 928.27 million, net of deferred tax of & 312.23 million) and &1,159.36 million for the year 
+ended 31st March, 2026 ( 867.55 million, net of deferred tax of & 291.81 million), respectively, has been recognised in "Other Comprehensive Income" and accumulated under "Cash Flow 
+Hedge Reserve" within Other Equity. 
+3 The Board of Directors of the Company, at its meeting held on 3rd June, 2026, approved the issue and allotment of 92,23,402 equity shares on a preferential basis through private 
+placement at an issue price of 470 per equity share, (including a securities premium of 469 per share), aggregating to 4,335.00 million 
+The proposed preferential issue was subsequently approved by the shareholders of the Company at the Extra-Ordinary General Meeting held on 26th June, 2026. Pursuant to the aforesaid 
+approvals, the Company allotted 92,23,402 equity shares on 31st July, 2026. The Company received listing approval from NSE on 9th September, 2026 and from BSE on 10th 
+September,2026. Further, the Company received trading approval from both NSE and BSE on 7th October, 2026. 
+., For and on behalf of the Board t s! 
+DIN -00063555 e 
+·$ r$ 
+ti) .. 4 Previous year/periods figures have been regrouped or rearranged, wherever necessary 
+Place: Kolkata 
+Dated: 30-10-2026 
+JKVS& CO 
+Chartered Accountants 
+Edcons Court, 7/1B, Hazra Road, 2nd Floor, Kolkata-700 026 • Phone: +91 33 2476 5068 • E-mail: kolkata@jkvs.in 
+Independent Auditor's Review Report on the Consolidated Unaudited Financial Results of Skipper 
+Limited for the quarter and half year ended September 30, 2026 pursuant to Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements} Regulations, 2015, as amended 
+To, 
+The Board of Directors 
+Skipper Limited 
+3A, Loudon Street 
+Kolkata - 700017 
+1. We have reviewed the accompanying Statement of consolidated unaudited financial results of M/s. Skipper Limited ("the 
+Parent"), its subsidiary (the Parent and its subsidiary together referred to as "the Group") and its joint venture for the quarter 
+and half year ended September 30, 2026, together with notes thereon (herein after referred to as "the Statement"), attached 
+herewith. The Statement is being submitted by the Parent pursuant to the requirement of Regulation 33 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 ("the Regulation"), as amended, and has been initialled by us for 
+identification purpose. 
+2. This Statement, which is the responsibility of the Parent's Management and approved by the Parent's Board of Directors, in 
+their meeting held on October 30, 2026 has been prepared in accordance with the recognition and measurement principles 
+laid down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section 133 of 
+the Companies Act, 2013 as amended, read with relevant rules issued there under and other accounting principles generally 
+accepted in India. Our responsibility is to issue a report on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagement (SRE) 2410 "Review of 
+Interim Financial Information Performed by the Independent Auditor of the Entity," issued by the Institute of Chartered 
+Accountants of India. This Standard requires that we plan and perform the review to obtain moderate assurance as to whether 
+the Statement is free from material misstatement. A review of interim financial information consists of making enquiries 
+primarily of persons responsible for financial and accounting matters and applying analytical and other review procedures. A 
+review is substantially less in scope than an audit conducted in accordance with the Standards on Auditing and consequently 
+does not enable us to obtain assurance that we would be aware of all significant matters that might be identified in an audit. 
+We have not performed an audit and accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33(8) of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended, to the extent applicable. 
+4. The Statement includes the financial results of the following entities: 
+SI. No. Name of the Entities Country of Incorporation Relationship 
+1. Skipper Limited India Parent Company 
+2. SKIPPER LATAM LTDA Brazil Subsidiary Company 
+3. Skipper-Metzer India LLP India Joint Venture 
+5. Based on our review conducted and procedure performed as stated in paragraph 3 above and based on the consideration of 
+the review reports of the other auditors referred in paragraph 6 below, nothing has come to our attention that causes us to 
+believe that the accompanying Statement prepared in accordance with the recognition and measurement principles laid down 
+in the aforesaid Indian Accounting Standards ('Ind AS') as prescribed under Section 133 of the Companies Act, 2013 as 
+amended, read with relevant rules issued there under and other accounting principles generally accepted in India, has not 
+disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended, including the manner in which it is to be disclosed, or that it contains any 
+material misstatement. 
+www.jkvs.in Also at New Delhi & Mumbai 
+JKVS & CO 
+Chartered Accountants ....... contd. 
+6. Other Matters 
+a. We did not review the interim financial information of SKIPPER LATAM LTDA, a foreign subsidiary, whose interim financial 
+information reflect total assets (before consolidation adjustment) of Rs. 1.90 million as at September 30, 2026, Group's 
+share of total revenue (before consolidation adjustment) of Rs. 1.28 million and Rs. 1.28 million, Group share of loss after 
+tax (before consolidation adjustment) of Rs. 0.15 million and Rs. 0.15 million and total comprehensive income (before 
+consolidation adjustment) of Rs. (0.17) million and Rs. (0.17) million for the quarter and half year ended September 30, 
+2026 respectively and net cash inflows (before consolidation adjustment) of Rs. 1.76 million for the half year ended 
+September 30, 2026 as considered in the consolidated unaudited financial results. This interim financial information has 
+been reviewed by other auditor whose reports have been furnished to us by the Parent's management and our 
+conclusion on the Statement, in so far as it relates to the amounts and disclosures included in respect of aforementioned 
+subsidiary, is based solely on the reports of the other auditor and the procedures performed by us as stated in paragraph 
+3 above. 
+The aforementioned subsidiary is located outside India whose interim financial information has been prepared in 
+accordance with accounting principles generally accepted in its own country and which has been reviewed by other 
+auditor under generally accepted auditing standards applicable in its own country. The Parent's management has 
+converted the interim financial information of such subsidiary located outside India from accounting principles generally 
+accepted in its own country to accounting principles generally accepted in India. We have reviewed these conversion 
+adjustments made by the Parent's management. Our conclusion in so far as it relates to the balances and affairs of such 
+subsidiary located outside India is based on the report of other auditor and the conversion adjustments prepared by the 
+management of the Parent and reviewed by us. 
+b. The Statement includes the Group's share of net profit after tax of Rs 5.91 million and Rs. 9.32 million and total 
+comprehensive income of Rs. 5.97 million and Rs. 9.44 million for the quarter and half year ended September 30, 2026 
+respectively, in respect of 1 joint venture namely Skipper-Metzer India LLP, whose interim financial information have not 
+been reviewed by us. This interim financial information have been reviewed by the other auditor whose reports have 
+been furnished to us by the Parent's Management. Our conclusion on the Statement, in so far as it relates to the amounts 
+and disclosures included in respect of aforesaid joint venture is based solely on the reports of such other auditor and the 
+procedures performed by us as stated in paragraph 3 above. 
+c. The management has represented to us that "Skipper Transmission and Distribution -L.L.C- S.P.C", wholly owned foreign 
+subsidiary {WOS) incorporated in Abu Dhabi, UAE on May 12, 2026 have not carried out any financial transactions during 
+the quarter and half year ended September 30, 2026 and accordingly no financial statements have been prepared and 
+consolidated. (Refer Note 2 of the consolidated financial results). 
+Our conclusion is not modified in respect of above matters. 
+For J KV S & CO 
+Chartered Accountants 
+Firm Registration No. 318086E 
+Place: Kolkata 
+Date: October 30, 2026 Ajay Kumar 
+Partner 
+Membership No. 068756 
+UDIN: 260($756UK/449238 
+SKIPPER LIMITED 
+CIN:L40104W81981PLC033408 
+. Registered Office: 3A, Loudon Street, Kolkata - 700017, India 
+Ph: 033- 22895731, Fax 033-22895733, Email - investor.relations@skipperlimited.com, 
+Web: www.skipperlimited.com 
+STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30 SEPTEMBER 2026 
+(in million, except per share data) 
+Quarter Ended Half Year Ended Year Ended 
+Particulars 30-Sep-26 30-Jun-26 30-Sep-25 30-Sep-26 30-Se0-25 31-Mar-26 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+1 Revenue from Operations 13,839.76 13,098.32 12,617.87 26,938.08 25,156.49 55,528.22 
+2 Other Income 16.18 44.13 40.71 60.31 73.48 105.55 
+3 Total Revenue (1+2) 13,855.94 13,142.45 12,658.58 26,998.39 25,229.97 55,633.77 
+4 Expenses 
+Cost of Materials consumed 8,961.73 8,443.28 8,350.10 17,405.01 16,234.02 35,541.08 
+Changes in inventories of finished goods and work-in-progress (691.38) (701.99) (304.78) (1,393.37) 133.02 (111.11) 
+Labour, Stores and other project expenses 1,787.08 1,949.99 1,501.81 3,737.07 2,723.76 7,188.79 
+Employee benefits expense 932.11 714.16 681.05 1,646.27 1,232.70 2,643.42 
+Finance costs 440.03 466.94 535.64 906.97 1,065.24 2,170.66 
+Depreciation and amortisation expense 248.06 221.81 190.03 469.87 367.06 797.99 
+Other expenses 1,402.11 1,291.75 1,082.79 2,693.86 2,254.44 4,539.43 
+Total Expenses 13,079.74 12,385.94 12,036.64 25,465.68 24,010.24 52,770.26 
+5 Profit/ (Loss) before exceptional items and tax (3-4) 776.20 756.51 621.94 1,532.71 1,219.73 2,863.51 
+6 Share of Profit/ (Loss) of Joint Venture 5.91 3.41 1.38 9.32 7.33 S8.02 
+7 Profit/ (Loss) before exceptional items and tax (5+6) 782.11 759.92 623.32 1,542.03 1,227.06 2,921.53 
+8 Exceptional items 106.79 . 106.79 106.79 
+9 Profit/ (Loss) before tax (7-8) 782.11 759 92 516.53 1,542.03 1,120.27 2,814.74 
+10 Tax Expense 
+Current Tax 197.75 192.95 126.40 390.70 283.07 478.31 
+Deferred Tax 3.92 (117) 16.30 2.75 10.82 225.79 
+Tax for earlier years 354 354 (20.63) 
+Total Tax Expenses 201.67 191.78 146.24 393.45 297.43 683.47 
+11 Profit/ (Loss) for the period (9-10) 580.44 568.14 370.29 1,148.58 822.84 2,131.27 
+12 Other Comprehensive Income 
+(a) (i) items that will not be reclassified to Statement of Profit & Loss (5.89) (5 89) (1.62) (11.78) (3.24) (23.55) 
+(ii) Income tax relating to items that will not be reclassified to Statement of Profit & Loss 1.49 1.48 0.41 2.97 0.82 5.93 
+(b) (i) items that will be reclassified to Statement of Profit &Loss (Refer note 3) 94.92 (1,240.50) 65.54 (1,145.58) 65.54 1,159.36 
+(ii) Income tax relating to items that will be reclassified to Statement of Profit & Loss (23.89) 312.23 (16.50) 288.34 (16.50) (291.81) 
+(c) Share of Other Comprehensive Income of joint venture 0.06 0.06 (0.03) 0.12 (0.06) 0.24 
+Total Other Comprehensive Income (Net of Tax) (a+b+c) 66.69 (932.62) 47.80 (865.93) 46.56 850.17 
+13 Total Comprehensive Income For The Period (11+12) 647.13 (364.48) 418.09 282.65 869.40 2,981.44 
+Paid up Equity Share Capital ( Face Value Re 1 per Share)$ 122.13 112.90 112.91 122.13 112.91 112 90 
+Other Equity 14,797.78 
+Earnings per equity share (not annualised for quarter) 9.90 18.88 
+Basic EPS (in 4.87 5.03 3.28 7.29 
+Diluted EPS (in ) 4.87 S.03 3.28 9.90 7.29 18.88 
+Cash EPS (in )W 6.95 7.00 4.96 13.95 10.54 25.95 
+Cash EPS = [(PAT + Depreciation)/Number of Equity Shares] 
+$ Excluding Share Application Money Received and Forfeited amounting to & 1.61 million. 
+l (N 
+SKIPPER LIMITED 
+CONSOLIDATED SEGMENT WISE REVENUE, RESULTS, ASSETS AND LIABILITIES 
+- (in million) 
+Quarter Ended Half Year Ended Year Ended 
+Particulars 30-Sep-26 30-Jun-26 30-Sep-25 30-Sep-26 30-Sep-25 31-Mar-26 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+(a) Segment Revenue 
+Engineering Products 10,403.76 9,401.34 9,973.67 19,805.10 20,221.50 43,590.15 
+Polymer Products 1,281.62 1,170.03 1,153.47 2,451.65 2,425.40 5,068.99 
+Infrastructure Projects 2,154.38 2,526.95 1,490.73 4,681.33 2,509.59 6,869.08 
+Revenue from Operations 13,839.76 13,098.32 12,617.87 26,938.08 25,156.49 55,528.22 
+(b) Segment Results 
+Engineering Products 1,248.82 1,162.35 1,196.53 2,411.17 2,376.75 5,172.90 
+Polymer Products 62.21 43.72 36.31 105.93 74.77 161.73 
+Infrastructure Projects 129.48 195.37 80.14 324.85 122.80 370.90 
+Total 1,440.51 1,401.44 1,312.98 2,841.95 2,574.32 5,705.53 
+Less: Interest Expense 440.03 466.94 535.64 906.97 1,065.24 2,170.66 
+Add: Interest Income 10.06 11.89 16.32 21.9S 37.03 79.22 
+Less: Un-allocable Expenditure net-off unallocable income 234.34 189.88 171.72 424.22 326.38 750.58 
+Add: Share of profit/ (Loss) of joint venture 5.91 3.41 1.38 9.32 7.33 58.02 
+Less: Exceptional items - 106.79 - 106.79 106.79 
+Profit/ (Loss) Before Tax 782.11 759.92 516.53 1,542.03 1,120.27 2,814.74 
+(c) Segment Assets 
+Engineering Products 28,819.40 26,608.87 26,518.53 28,819.40 26,518.53 28,874.17 
+Polymer Products 6,071.94 5,736.40 5,228.95 6,071.94 5,228.95 5,421.62 
+Infrastructure Projects 9,389.69 10,159.25 6,318.14 9,389.69 6,318.14 8,933.11 
+Unallocated 2,052.87 2,056.76 2,144.64 2,052.87 2,144.64 2,104.14 
+Total Segment Assets 46,333.90 44,561.28 40,210.26 46,333.90 40,210.26 45,333.04 
+(d) Segment Liabilities 
+Engineering Products 13,284.84 12,673.04 14,578.86 13,284.84 14,578.86 14,891.57 
+Polymer Products 1,481.00 1,459.75 1,285.59 1,481.00 1,285.59 1,335.42 
+Infrastructure Projects 3,966.05 4,153.94 2,966.89 3,966.05 2,966.89 3,725.87 
+Unallocate 8,167.96 11,726.74 8,578.62 8,167.96 8,578.62 10,467.89 
+Total Segment Liabilities 26,899.85 30,013.47 27,409.96 26,899.85 27,409.96 30,420.75 
+Includes borrowings (Term Loan and Working Capital Loan) amounting to & 7,352.63 million as on 30th September, 2026, & 10,835.04 million as on 30th June, 2026, & 9,217.68 million as on 
+31st March, 2026 and & 7,701.82 million as on 30th September, 2025. 
+o4 V' Accountonla 1 ea 
+SKIPPER LIMITED 
+CONSOLIDATED BALANCE SHEET AS AT 30TH SEPTEMBER, 2026 
+(in million) 
+Particulars As At 
+30-Se0-26 31-Mar-26 
+ASSETS Unaudited Audited 
+NON-CURRENT ASSETS 
+Property, Plant and Equipment 
+Capital Work-In-Progress 10,513.75 9,197.23 
+Other Intangible Assets 3,039.78 2,730.54 
+Right of Use Assets 70.51 56.10 
+Financial Assets 2,587.25 2,416.59 
+-Investment 
+-Other Financial Assets 271.41 261.97 
+Other Non-Current Assets 458.64 425.62 
+Sub-total (a) 324.58 196.99 
+17,265.92 15,285.04 
+CURRENT ASSETS 
+Inventories 
+Financial Assets 12,428.03 10,588.25 
+.Trade Receivables 
+-Cash and Cash Equivalents 12,229.89 14,847.69 
+-Bank Balances Other Than Cash & Cash Equivalent 17.33 29.36 
+-Other Current Financial Assets 168.40 290.06 
+Contract Assets 525.79 1,829.37 
+Other Current Assets 1,828.83 965.36 
+Sub-total (b) 1,869.71 1,497.91 
+TOTAL (a+b): 29,067.98 30,048.00 
+46,333.90 45,333.04 
+EQUITY AND LIABILITIES 
+EQUITY 
+Equity Share capital 123.74 
+Other Equity 114.51 
+Sub-total (a) 19,310.31 14,797.78 
+19,434.05 14,912.29 
+LIABILITIES 
+NON-CURRENT LIABILITIES 
+Financial Liabilities 
+-Borrowings 5,048.84 4,433.88 
+-Lease Liabilities 112.21 163.05 
+-Other Financial Liabilities 273.52 278.89 
+Contract Liabilities 1,500.00 1,012.14 
+Provisions 206.81 173.60 
+Deferred Tax Liabilities (Net) 861.20 1,149.76 
+Other Non-Current Liabilities 23.86 26.61 
+Sub-total (b) 8,026.44 7,237.93 
+CURRENT LIABILITIES 
+Financial Liabilities 
+-Borrowings 2,303.79 4,783.80 
+-Lease Liabilities 101.85 97.14 
+-Trade Payables 
+-Total Outstanding Dues of Micro Enterprises and Small Enterprises 392.35 285 29 
+-Total Outstanding Dues of Creditor other than Micro enterprises and Small enterprises 14,552.17 16,843.89 
+-Other Financial Liabilities 536.13 490.40 
+Contract Liabilities 803.03 536.17 
+Other Current Liabilities 56.55 63.89 
+Provisions 11.45 8.10 
+Current Tax Liabilities (Net) 16.09 74.14 
+Sub-total (c) 8,873.41 23,182.82 
+TOTAL(a+b+c): 46,333.90 45,333.04 
+I 
+SKIPPER LIMITED 
+CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED 30TH SEPTEMBER, 2026 
+(in million) 
+Half Year Ended 
+Particulars 30-Sep-26 30-Se0-25 
+Unaudited Unaudited 
+A CASH FLOW FROM OPERATING ACTIVITIES 
+Profit before Tax 1,542.03 1,120.27 
+Adjustment for 
+Depreciation and amortisation expense 469.87 367.06 
+(Profit)/Loss on Sale of property, plant and equipment 11.57 18.43 
+Unrealised Foreign Exchange Fluctuations 33.59 (23.82) 
+Fair Value movement (Gain)/Loss in Derivative Instruments 45.49 2.99 
+Share of (Profit)/ Loss of Joint Venture (9.32) (7.33) 
+Provision for allowances under Expected Credit Loss 35.00 23.87 
+Irrecoverable Debts/Advances Written Off (net) 60.90 35.84 
+(Profit)/Loss on termination of Lease Liability (7.76) 
+Finance Costs 906.97 1,065.24 
+Deferred Revenue Income on Govt. Grant (2.78) (2.78) 
+Interest Income (21.95) (37.03) 
+Operating profit before Working Capital Changes 3,071.37 2,554.98 
+Changes in Working Capital 
+(Increase)/decrease in Trade Receivables 2,488.29 (5,061.21) 
+(Increase)/decrease in Inventories (1,839.78) 639.32 
+(Increase)/decrease in Other Financial Assets & Other Assets (539.60) (1,055.36) 
+(lncrease)/decrease in Contract Assets (863.47) (131.63) 
+Increase/(decrease) in Trade Payables (2,211.15) 2,599.10 
+Increase/(decrease) in Other Financial Liabilities & Other Liabilities 197.03 100.70 
+Increase/(decrease) in Contract Liabilities 754.72 1,978.51 
+Cash Generated from Operations 1,057.41 1,624.41 
+Direct taxes paid (448.76) (256.49) 
+NET CASH GENERATED /(USED IN) OPERATING ACTIVITIES A 608.65 1,367.92 
+B CASH FLOW FROM INVESTING ACTIVITIES 
+Purchase of Property, Plant and Equipment and other Intangible Assets (2,202.73) (1,542.45) 
+Sales Proceeds of Property, Plant and Equipment 1.69 003 
+(Increase)/decrease in Deposits with bank 123.59 583 40 
+Interest income on Fixed Deposits 10.19 33 70 
+NET CASH GENERATED /(USED IN) INVESTING ACTIVITIES B (2,067.26) (925.32) 
+C CASH FLOW FROM FINANCING ACTIVITIES 
+Interest Paid (909.38) (1,035.98) 
+Dividend paid (12.24) (11.29) 
+Proceeds from Right Issue 11.16 
+Proceeds from Preferencial Allotment of Equity Shares (Net of issue expenses & 83.64 Million) 4,251.35 
+Proceeds from Long-Term Borrowings 1,809.96 1,102.99 
+Repayment of Long-Term Borrowings (1,015.44) (369.86) 
+Payment of Lease Liabilities (58.88) (59.35) 
+Increase/(decrease) in Short-Term Borrowings (2,618.79) (78.71) 
+NET CASH GENERATED /(USED IN) FINANCING ACTIVITIES C 1,446.58 (441.04) 
+NET INCREASE/(DECREASE) IN CASH & CASH EQUIVALENTS A+B+C (12.03) 1.56 
+ADD: OPENING CASH & CASH EQUIVALENTS 29.36 57.3S 
+CLOSING CASH & CASH EQUIVALENTS 17.33 58.91 
+a The above Consolidated statement of Cash Flows has been prepared under the "Indirect method" as set out in Indian Accounting Standard (nd AS) 7- Statement of Cash Flows. 
+Cash & Cash Equivalents comprises of: (in million) 
+b As At 
+30-Sep-26 30-Se0-25 
+Particulars 
+Unaudited Unaudited 
+11.45 7.06 
+Cash on hand 5.88 51.85 
+Balances with Scheduled Banks-In Current Accounts 
+17.33 58.91 
+Closing Cash & Cash Equivalent 
+] 
+ca nts ] 
+'· s 
+SKIPPER LIMITED 
+The above consolidated financial Results were reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 30th October, 2026. The Statutory 
+Auditors have carried out limited review of the above financial results. 
+2 The above consolidated financial results comprise the financial results of the Parent Company, Skipper Limited,one Wholly Owned Subsidiary and one Joint Venture 
+The Company incorporated a wholly owned subsidiary, SKIPPER LATAM LTDA, in Brazil on 13th March, 2026 and another wholly owned subsidiary, Skipper Transmission and Distribution 
+LL.CS.P.C, in Abu Dhabi, UAE on 12th May, 2026 
+Skipper Transmission and Distribution LL.CS.P.C has not commenced business operations as at 30th September, 2026. Further, no capital contribution has been made and no shares 
+have been allotted to the Holding Company in Skipper Transmission and Distribution LL.C-S.P.C as at 30th September, 2026. The subsidiary has not undertaken any financial transactions 
+during the quarter ended 30th September, 2026 and accordingly, have no impact on the accompanying consolidated financial results. 
+3 The Company has entered into certain "Commodity/ Currency Hedge (derivative) contracts" and designated the same as cash flow hedges in accordance with Ind AS 109, Financial 
+Instruments. The effective portion of changes in the fair value of these derivative instruments amounting to & 94.94 million for the quarter ended 30th September, 2026 ( 71.05 million, 
+net of deferred tax of 23.89 million), 1,240.50 million for the quarter ended 30th June, 2026 ( 928.27 million, net of deferred tax of & 312.23 million) and 1,159.36 million for the 
+year ended 31st March, 2026 ({ 867.55 million, net of deferred tax of 291.81 million), respectively, has been recognised in "Other Comprehensive Income" and accumulated under 
+"Cash Flow Hedge Reserve" within Other Equity. 
+4 The Board of Directors of the Company, at its meeting held on 3rd June, 2026, approved the issue and allotment of 92,23,402 equity shares on a preferential basis through private 
+placement at an issue price of &470 per equity share, (including a securities premium of 469 per share), aggregating to 4,335.00 million 
+The proposed preferential issue was subsequently approved by the shareholders of the Company at the Extra-Ordinary General Meeting held on 26th June, 2026. Pursuant to the 
+aforesaid approvals, the Company allotted 92,23,402 equity shares on 31st July, 2026. The Company received listing approval from NSE on 9th September, 2026 and from BSE on 10th 
+September,2026. Further, the Company received trading approval from both NSE and BSE on 7th October, 2026. 
+5 Previous year/periods figures have been regrouped or rearranged, wherever necessary 
+Place: Kolkata 
+Dated: 30-10-2026 
+·, For and on behalf of the Board � 
+{dee 
+Chairman & Managi i ector 
+DIN -00063555 
+ 
+  
+           Annexure-A 
+S.L. 
+No. Particulars  Description  
+1.   name of the target entity, details in 
+brief such as size, turnover etc.; The target entity is SANSHA FASTENER PRIVATE 
+LIMITED, having its Registered office at SIPCOT 
+Industrial Park Bargur, Plot No.C24,C25,C26,C27, 
+Parandapalli Post, Near OlpapattiKoot Road, Chennai, 
+Pochampalli, Tamil Nadu- 635206.  
+ 
+The turnover of the Company for the FY 2025-26 is 
+Rs.693.06 Lakhs. 
+2.   whether the acquisition would fall 
+within related party transaction(s) 
+and whether the promoter/ 
+promoter group/ group companies 
+have any interest in the entity 
+being acquired? If yes, nature of 
+interest and details thereof and 
+whether the same is done at 
+“arm’s length  No 
+3.   industry to which the entity being 
+acquired belongs Fastener Manufacturing 
+4.   objects and impact of acquisition 
+(including but not limited to, 
+disclosure of reasons for 
+acquisition of target entity, if its 
+business is outside the main line of 
+business of the listed entity) The object for acquisition of target entity is to add 
+fastener capacity in South India to its existing fasteners 
+business. 
+5.   brief details of any governmental 
+or regulatory approvals required 
+for the acquisition   None 
+6.   indicative time period for 
+completion of the acquisition  31st December 2026 
+7.   consideration - whether cash 
+consideration or share swap or any 
+other form and details of the same Through Banking Channels 
+8.   cost of acquisition and/or the price 
+at which the shares are acquired Rs. 15,50,00,000/ - (Rupees Fifteen Crore Fifty Lakh 
+only), subject to the terms and conditions of the 
+MOU/Share Purchase Agreement.  
+9.   percentage of shareholding / 
+control acquired and / or number 
+of shares acquired 100% acquisition of equity holdings 9KIPPER - Limited- 
+SKIPPER LIMITED 
+CIN L40104W81981 PLC033408 Regd. Office: 34, Loudon Street, 
+1st Floor, Kolkata 700 017 Phone: 033 2289 5731/32 
+Fa 033 2289 5733 Email: mail@skipperlimited.com 
+Website: www.skipperlimited.com 
+ 
+ 10.   brief background about the entity 
+acquired in terms of products/line 
+of business acquired, date of 
+incorporation, history of last 3 
+years turnover, country in which 
+the acquired entity has presence 
+and any other significant 
+information (in brief) 1) Date of Incorporation: 27-08-2018 
+2) The company is engaged in manufacturing of 
+industrial fasteners. 
+3) Last 3 years turnover :   
+FY 2023-24: Rs.208.18 Lakhs 
+FY 2024-25: Rs.465.80 Lakhs 
+FY 2025-26: Rs.693.06 Lakhs 
+ 9KIPPER - Limited- 
+SKIPPER LIMITED 
+CIN L40104W81981 PLC033408 Regd. Office: 34, Loudon Street, 
+1st Floor, Kolkata 700 017 Phone: 033 2289 5731/32 
+Fa 033 2289 5733 Email: mail@skipperlimited.com 
+Website: www.skipperlimited.com 

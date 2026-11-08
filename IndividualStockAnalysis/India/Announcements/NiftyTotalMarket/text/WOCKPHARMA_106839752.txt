@@ -1,0 +1,712 @@
+ 
+     
+                      
+ 
+ 
+Ref. No.: WOCK/SEC/SE/2026 -27/045   2nd November , 2026  
+ 
+BSE Limited   
+Corporate Relations Department  
+P J Towers  
+Dalal Street  
+Mumbai - 400 001  
+Scrip Code: 532300  National Stock Exchange of India Limited  
+Exchange Plaza  
+Bandra Kurla Complex  
+Bandra (E)  
+Mumbai - 400 051  
+NSE Symbol: WOCKPHARMA  
+ 
+Dear Sir/Madam,  
+ 
+Subject: Outcome of the Board Meeting  
+ 
+Pursuant to Regulation 30 of Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (' Listing Regulations ’); and in continuation to our letter 
+bearing reference no:  WOCK/SEC/SE/2026 -27/042 dated 27th October , 2026 , we wish to inform you 
+that the Board of Directors of the Company, at its meeting held  today i.e.  2nd November, 2026 , inter-
+alia, has approved  the Un-Audited Financial Results (Standalone & Consolidated) for the quarter and 
+half year ended 30th September, 2026 ;  
+ 
+Pursuant to Regulations 30 and 33 read with Schedule III of the Listing Regulations, we enclose 
+herewith the  Un-Audited Financial Results (Standalone & Consolidated) for the quarter  and half year 
+ended 30th September, 2026  along with the Limited Review Report issued by MSKC & Associates , 
+LLP, Statutory Auditors of the Company on the same (enclosed as Annexure I ). 
+ 
+The meeting of the Board of Directors commenced at 12:05 p.m. and concluded at 3:45 p.m. 
+ 
+Kindly take the same on record.  
+ 
+Thanking you,  
+ 
+For Wockhardt Limited  
+ 
+ 
+ 
+ 
+Rashmi Mamtura  
+Company Secretary  
+ 
+ 
+Encl: as above  
+MSKC & Associates LLP
+Chartered Accountants602, Floor 6, Raheja Titanium
+Western Express Highway, Geetanjali Railway Colony
+Ram Nagar, Goregaon (E) Mumbai 400063, INDIA
+Independent Auditor’s Review Report on Standalone unaudited financial results of Wockhardt Limited
+for the quarter and year to date ended September 30, 2026 pursuant to the Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.
+To The Board of Directors of Wockhardt Limited
+1. We have reviewed the accompanying statement of standalone unaudited financial results of Wockhardt 
+Limited (hereinafter referred to as ‘the Company’) for the quarter ended September 30, 2026 and the 
+year to-date results for the period from April 01, 2026 to September 30, 2026 (‘the Statement’) 
+attached herewith, being submitted by the Company pursuant to the requirements of Regulation 33 of 
+the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended (‘the Regulations’).
+2. This Statement, which is the responsibility of the Company’s Management and has been approved by 
+the Company’s Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34 ‘Interim Financial Reporting’,  
+prescribed under Section 133 of the Companies Act, 2013 (‘the Act’) read with relevant rules issued 
+thereunder (‘Ind AS 34’) and other recognised accounting principles generally accepted in India and is 
+in compliance with the Regulations. Our responsibility is to express a conclusion on the Statement 
+based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410, “Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity” issued by the Institute of Chartered Accountants of India. A review of interim financial 
+infuimalion consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing specified under section 143(10) of 
+the Act and consequently does not enable us to obtain assurance that we would become aware of all 
+significant matters that might be identified in an audit. Accordingly, we do not express an audit 
+opinion.
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that 
+causes us to believe that the accompanying Statement prepared in accordance with the recognition and 
+measurement principles laid down in Ind AS 34 and other recognised accounting principles generally 
+accepted in India has not disclosed the infoiination required to be disclosed in terms of the 
+Regulations, including the manner in which it is to be disclosed, or that it contains any material 
+misstatement.
+For M S K C & Associates LLP
+Chartered Accountants
+ICAI Firm Registration Number: 001595S/S000168
+72|- - i _ d
+Bhavik L. Shah 
+Partner
+Membership No.: 122071
+UDIN: 26122071LHPEWC8288
+Place: Mumbai
+Date: November 02, 2026
+Registered Office: 10L h  Floor, Level 13th ,  Module A, 21/22, Olympia Cyberspace, Alandur Road, Arulaiyammanpet, Guindy, Chennai 600032,
+Tamil Nadu, India
+Tel: +91 44 6131 0200 |  LLPIN: ACK-7004
+Ahmedabad |  Bengaluru I Chennai |  Gurugram |  Hyderabad |  Kolkata |  Pune
+
+WOCKHARDT LIM ITED
+Registered Office: D-4 MIDC, Chikalthana, Chhatrapati Sambhaji Nagar - 431 006 
+Global Headquarters: Wockhardt Towers, Bandra Kurla Complex, Bandra (East), Mumbai 400 051 
+CIN:L24230MH 1999PLC120720
+Tel: 91 22 2653 4444 ; Fax: 91 22 2652 3905; e-mail id : investorrelations@wockhardt.com; Website: www.wockhardt.com
+STATEMENT OF STANDALONE UNAUDITED RESULTS FOR THE QUARTER AND SIX MONT HS ENDED SEPTEM BER 30. 2026
+{Rs in Crore except per share data)
+PARTICULARS 3 MONTHS 3 MONTHS 3 MONTHS 6 MONTHS 6 MONTHS YEAR
+ENDED ENDED ENDED ENDED ENDED ENDED
+30/09/2026 30/06/2026 30/09/2025 30/09/2026 30/09/2025 31/03/2026
+(Refer notes below) Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+I Income
+(a) Revenue from operations 580 561 380 1,141 793 1,739
+(b) Other income 21 33 30 54 55 137
+Total income 601 594 410 1,195 848 1,876
+2 Expenses
+(a) Cost of materials consumed 135 106 75 241 149 309
+(b) Purchase of stock-in-trade 54 57 51 111 90 198
+(c) Changes in inventories of finished goods, stock-in- 
+trade and work-in-progress (47) 0.08 (55) (47) (55) (92)
+(d) Employee benefits expense 96 85 88 181 156 313
+(e) Finance costs 48 43 44 91 85 176
+(f) Depreciation and amortisation expense 47 41 45 88 91 186
+(g) Other expenses 168 155 108 323 209 494
+Total expenses 501 487 356 988 725 1,584
+3 Profit before exceptional items and tax fl-2f 100 107 54 207 123 292
+4Exceptional items- credit - - - - - 25
+5 Profit before tax (3 ± 4t 100 107 54 207 123 317
+6Tax expense:
+Current tax
+Deferred tax - - - - - -
+7Net Profit after tax (5 ± 6) 100 107 54 207 123 317
+8 Other Comprehensive Income:
+i) Items that will not be reclassified to Profit or Loss - 
+credit/fcharge)
+(consisting of re-measurement of net defined benefit 
+liability)0.08 0.08 (0.22) 0.16 (0.45) 0.08
+ii) Income tax relating to items that will not be 
+reclassified to Profit or Loss- - - - *
+iii) Other Comprehensive Income (net of tax) (8i ± 8ii) 0.08 0.08 (0.22) 0.16 (0.45) 0.08
+9 Total Comprehensive Income (7 ± 8(iii)) 100 107 54 207 123 317
+10 Paid-up equity share capital (face value ofRs. 5/- each) 81 81 81 81 81 81
+11 Other Equity excluding Revaluation Reserves as per
+balance sheet3,003
+12 Earnings per share (face value of Rs. 5/- each)
+(♦not annualised)
+(a) Basic (Rs.) 6.15* 6.62* 3.26* 12.77* 7.51* 19.54
+(b) Diluted (Rs.) 6.14* 6.61* 3.25* 12.75* 7.50* 19.52
+
+
+WOCKHARDT LIMITED
+Registered Office: D-4 MIDC, Chikalthana, Chhatrapati Sambhaji Nagar - 431 006 
+Global Headquarters: Wockhardt Towers, Bandra Kurla Complex, Bandra (East), Mumbai 400 051
+STATEMENT OF STANDALONE ASSETS AND LIABILITIES
+(Rs. in Crore)
+PARTICULARS As at 30/09/2026  
+UnauditedAs at 31/03/2026  
+Audited
+A) ASSETS
+1Non- Current assets
+(a) Property, plant and equipment 927 907
+(b) Right of use assets 196 221
+(c) Capital work-in-progress 105 121
+(d ) Intangible assets 578 224
+(e ) Intangible assets under development 1,122 1,276
+(f) Financial assets
+(i) Investments in subsidiaries 297 297
+(ii) Other Investments * 0 0
+* Rs. 0.45 crore (Previous year - Rs. 0.45 crore)
+(iii) Other non-current financial assets 58 73
+(g) Deferred tax assets (Net) 250 250
+(h) Non-current tax assets (Net) 79 78
+(i) Other non-current assets 113 107
+Sub-total- Non-current assets 3.725 3.5S-I
+2Current assets
+(n) Inventories 596 533
+(b) Financial assets
+(i) Investments 117 412
+(ii) Trade receivables 961 846
+(iii) Cash and cash equivalents 148 76
+(iv) Bank balances (other than Cash and cash equivalents) 232 31
+(v) Other current financial assets 79 103
+(c ) Other current assets 296 289
+Sub-total - Current assets 2,429 2,290
+3Assets held-for-sale 26 91
+TOTAL ASSETS 6,180 5,935
+B) EQUITY AND LIABILITIES
+1Equity
+(a) Equity share capital 81 81
+(b) Other Equity 3,212 3,003
+Sub-total- Equity 3,293 3,084
+2Liabilities
+I. Non- Current liabilities
+(a) Financial liabilities
+(i) Borrowings 1,177 1,244
+(ii) Lease Liabilities 136 141
+(b) Provisions 42 40
+(c) Other non-current liabilities 2 *
+Sub-total- Non-current linbiliftts 1,3*7 1.42*
+II.C urrent liabilities
+(a) Financial liabilities
+(i) Borrowings 627 501
+(ii) Lease Liabilities 52 78
+(iii) Trade payables
+a. Total outstanding dues of micro enterprises and small enterprises 74 85
+b Total outstanding dues of creditors other than micro enterprises and small
+enterprises 496 418
+(iv) Other current financial liabilities 115 189
+’ b) Other current liabilities 129 120
+'c) Provisions 35 33
+[d) Current tax liabilities (Net) 2 2
+Sub-total- Current liabilities 1.530 1,426
+J f + / *  ' ' S j f N L  Total Uiililllllej2,887 2,851
+j | 5 [  -^ C  jE J lI  TOTAL EQUITY AND LIABILITIES
+------------------- i u A ------------------- l u l ----------------------------- ---------------------------------------6,180 *,935
+FOR WOCKHARDT LIMITED
+Mumbai
+Date: November 02, 2026K110 R A KIW A LA  
+CHAIRMAN 
+U 1IN : UUU456U8
+
+WOCKHARDT LIMITED
+Registered Office: D-4 MIDC, Chikalthana, Chhatrapati Sambhaji Nagar - 431 006 
+Global Headquarters: Wockhardt Towers, Bandra Kurla Complex, Bandra (East), Mumbai 400 051
+■STANDALONE UNAUDITED CASH FLOW STATEMENT FOR SIX MONT HS ENDED SEPTEMBER 30. 2026
+(Rs. in Crore)
+PARTICULARS6 MONTHS 6 MONTHS
+ENDED ENDED
+30/09/2026 30/09/2025
+(Refer notes below) Unaudited Unaudited
+Cash flow from/(used in) Operating activities
+Profit before tax 207 123
+Adjustments for:
+Depreciation and amortisation expense 88 91
+Allowance for expected credit loss,
+doubtful advances and bad debts 2 7
+Profit on sale o f fixed assets (Net) (20) (14)
+Gain on sale o f investments (20) (9)
+Finance costs 91 85
+Foreign exchange fluctuation gain, net (10) (18)
+Interest income (6) (2)
+Employee share based payments expenses 3 1
+Fair valuation impact on investments 8 (5)
+Operating profit before working capital changes 343 259
+Movements in Working capital
+Increase in lnventori.es (63) (75)
+Increase in Trade receivables (100) (98)
+(IncreaseJ/Dccrease in Loans and Advances and other assets (17) 57
+Increase/(Decrease) in Liabilities and provisions 17 (58)
+Increase/fDecrease) in Trade payables 63 (6)
+Cash generated from operations 243 79
+Income tax paid (net) (1) (2)
+Net cash inflow from Operating activities 242 77
+Cash flow from/(used in) Investing activities
+Purchase o f property, plant and equipment and capital work-in progress (59) (62)
+Proceeds from sale o f property, plant and equipment,
+including Asset held- for -saleOJ
+Guarantee commission received - 3
+Final settlement proceeds o f the holdback amount under Business transfer22agreement
+Purchase o f Intangible assets and Intangible assets under development (287) (100)
+Sale/(Purchase) o f current investments (net) 308 (260)
+Margin money under lien and Bank balances (other than cash
+and cash equivalents) (184) 25
+Interest received 2 1
+Net cash outflow from Investing activities (113) (379)
+Cash flow from/(used in) Financing activities
+Transaction cost related to Right Issue/QIP concluded during
+earlier years - (1)
+Proceeds from Issuance o f Equity share capital under ESOS* - 0
+[* Previous period- Rs. 0.003 crore]
+Proceeds from Long-term buuuwings 109 550
+Repayment o f Long term borrowings (75) (80)
+Short-term borrowings (net) 102 (9)
+Loans from Related parties- Long term 80 12
+Repayment o f loans taken from Related parties- Long term (156) (32)
+Repayment o f Lease liabilities ( refer note 2 below) (41) (39)
+Finance costs paid (76) (75)
+Net cash (outflowVinflow from Financing activities (57) 326
+Net Increase in Cash and Cash equivalents 72 24
+Cash and cash equivalents as at the beginning o f the period 76 35
+Cash and cash equivalents as at the end of the period 148 59
+
+:2 :
+Reconciliation of cash and cash equivalents as per the cash flow stntcmcnt: (Rs. in Croce)
+As at As at
+30/09/2026 30/09/2025
+Cash and cash equivalents as per above comprise of the following:
+Balance with banks:
+- in current account 148 57
+- deposits with maturity o f less than 3 months - 2
+Balance as per the Statement of cash flows 148 59
+Notes:
+1. The above statement o f cash flows has been prepared under the indirect method as set out in Ind AS 7 'Statement of 
+Cash Flows'.
+2. Repayment o f lease liabilities consists of:
+Payment o f interest Rs. 9 crore (Previous period - Rs. 12 crore)
+Payment o f Principal Rs. 32 crore (Previous period - Rs. 27 crore)
+3. Figures in bracket indicate cash outflow.
+Mumbai
+Date: November 02,2026FOR WOCKHARDT LIMITED
+S  X
+I S KHORAKIW ALA 
+CHAIRMAN 
+DIN: 00045608
+
+MSKC & Associates LLP
+Chartered Accountants602, Floor 6, Raheja Titanium
+Western Express Highway, Geetanjali Railway Colony
+Ram Nagar, Goregaon (E) Mumbai 400063, INDIA
+Independent Auditor’s Review Report on consolidated unaudited financial results of Wockhardt Limited
+for the quarter ended and year to date September 30, 2026 pursuant to the Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+To the Board of Directors of Wockhardt Limited
+1. We have reviewed the accompanying Statement of consolidated unaudited financial results of 
+Wockhardt Limited (hereinafter referred to as ‘the Holding Company’) which includes its subsidiaries, 
+(the Holding Company and its subsidiaries together referred to as the ‘Group’) for the quarter ended 
+September 30, 2026 and the year to-date results for the period from April 01, 2026 to September 30, 
+2026 (‘the Statement’) attached herewith, being submitted by the Holding Company pursuant to the 
+requirements of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended (‘the Regulations’).
+2. This Statement, which is the responsibility of the Holding Company’s Management and approved by the 
+Holding Company’s Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34 ‘Interim Financial Reporting’  
+prescribed under Section 133 of the Companies Act, 2013 (‘the Act’) read with relevant rules issued 
+thereunder (‘Ind AS 34’) and other recognised accounting principles generally accepted in India and is 
+in compliance with the Regulations. Our responsibility is to express a conclusion on the Statement 
+based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410, ‘Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity’  issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing specified under section 143(10) of 
+the Act and consequently does not enable us to obtain assurance that we would become aware of all 
+significant matters that might be identified in an audit. Accordingly, we do not express an audit 
+opinion.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange 
+Board of India under Regulation 33 (8) of the Regulations, to the extent applicable.
+4. This Statement includes the results of the Holding Company and the following entities:
+Sr. No Name of the Entity Relationship with the Holding 
+Company
+1Wockhardt UK Holdings Limited Wholly Owned Subsidiary
+2 CP Pharmaceuticals Limited Step-Down Subsidiary
+3 CP Pharma (Schweiz) AG Step-Down Subsidiary
+4 Wallis Group Limited Step-Down Subsidiary
+5 The Wallis Laboratory Limited Step-Down Subsidiary
+Office: 10lh  Floor, Level 13lh,  Module 4, 21/22, Olympia Cyberspace, Alandur Road, Arulaiyammanpet, Guindy, Chennai 600032,
+Tamil Nadu, India
+Tel: +91 44 6131 0200 |  LLPIN: ACK-7004
+Ahmedabad |  Bengaluru |  Chennai |  Gurugram |  Hyderabad |  Kolkata |  Pune
+
+MSKC S t Associates LLP
+Chartered Accountants
+6 Wockhardt Farmaceutica Do Brasil Ltda Step-Down Subsidiary
+7 Wallis Licensing Limited Step-Down Subsidiary
+8 Wockhardt Infrastructure Development Limited Wholly Owned Subsidiary
+9 Z&Z Services GmbH Step-Down Subsidiary
+10 Wockhardt Europe Limited Wholly Owned Subsidiary
+11 Wockhardt Nigeria Limited Step-Down Subsidiary
+12 Wockhardt UK Limited Step-Down Subsidiary
+13 Wockpharma Ireland Limited Step-Down Subsidiary
+14 Pinewood Laboratories Limited Step-Down Subsidiary
+15 Pinewood Healthcare Limited Step-Down Subsidiary
+16 Wockhardt Holding Corp. Step-Down Subsidiary
+17 MGP Inc. Step-Down Subsidiary
+18 Wockhardt Farmaceutica SA DE CV Step-Down Subsidiary
+19 Wockhardt Services SA DE CV Step-Down Subsidiary
+20 Wockhardt Bio AG Subsidiary
+21 Wockhardt Bio (R) LLC Step-Down Subsidiary
+22 Wockhardt Bio Pty Limited Step-Down Subsidiary
+23 Wockhardt Medicines Limited Wholly Owned Subsidiary
+24 Wockhardt Bioscience Limited (Formerly, Wockhardt 
+Bionova Limited)Wholly Owned Subsidiary
+25 Wockhardt Antibiotics (Ireland) Limited Step-Down Subsidiary
+26 Wockhardt Suisse AG Step-Down Subsidiary
+27 Wockhardt Suisse USA Holding Corporation Step-Down Subsidiary
+28 Wockhardt Suisse USA LLC Step-Down Subsidiary
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based 
+on the consideration of the review reports of the other auditors referred to in paragraph 6 below, 
+nothing has come to our attention that causes us to believe that the accompanying Statement 
+prepared in accordance with the recognition and measurement principles laid down in Ind AS 34 and 
+other recognised accounting principles generally accepted in India has not disclosed the information
+lered Office: 10ll>  Floor, Level 13"', Module 4, 21/22, Olympia Cyberspace, Alandur Road, Arulaiyammanpet, Guindy, Chennai 600032,
+Tamil Nadu, India
+Tel: +91 44 6131 0200 |  LLPIN: ACK-7004
+Ahmcdabad |  Bengaluru |  Chennai |  Gurugiaui |  Hyderabad |  Kolkata |  Mumbai I Pune
+
+MSKC & Associates LLP
+Chartered Accountants
+required to be disclosed in terms of the Regulations, including the manner in which it is to be 
+disclosed, or that it contains any material misstatement.
+6. We did not review the interim financial information of 5 subsidiaries included in the Statement, whose 
+interim financial information (before consolidation adjustment) reflects total assets of Rs. 6923 crores 
+as at September 30, 2026, total revenues of Rs. 836 crores and Rs.1612 crores, total net profit after 
+tax of Rs.30 crores and Rs. 28 crores and total comprehensive income of Rs. 30 crores and Rs.28 
+crores, for the quarter ended September 30, 2026 and for the period from April 01, 2026 to September 
+30, 2026, respectively, and cash flows (net) of Rs. (6) crores for the period from April 01, 2026 to 
+September 30, 2026, as considered in the Statement. These interim financial statements have been 
+reviewed by other auditors whose reports have been furnished to us by the Management and our 
+conclusion on the Statement, in so far as it relates to the amounts and disclosures included in respect 
+of these subsidiaries, is based solely on the report of the other auditors and the procedures performed 
+by us as stated in paragraph 3 above.
+Our conclusion is not modified in respect of the above matter with respect to our reliance on the work 
+done by and report of the other auditors.
+7. The Statement includes the interim financial information of 18 subsidiaries which have not been 
+reviewed by their auditors, whose interim financial information (before consolidation adjustment) 
+reflects total assets of Rs. 489 crores as at September 30, 2026, total revenue of Rs. 44 crores and Rs. 
+90 crores, total net profit after tax of Rs. 4 crores and Rs.14 crores and total comprehensive income of 
+Rs. 4 crores and Rs. 14 crores for the quarter ended September 30, 2026 and for the period from April 
+01, 2026 to September 30, 2026 respectively, and cash flows (net) of Rs. 18 crores for the period from 
+April 01, 2026 to September 30, 2026, as considered in the Statement. These interim financial 
+information have been furnished to us by the Management and our conclusion on the Statement in so 
+far as it relates to the amounts and disclosures included in respect of these subsidiaries is based solely 
+on such management prepared unaudited interim financial information. According to the information 
+and explanations given to us by the Management, these interim financial information are not material 
+to the Group.
+Our conclusion is not modified in respect of the above matter with respect to our reliance on the 
+financial result certified by the management.
+For M S K C & Associates LLP 
+Chartered Accountants
+ICAI Firm Registration Number: 001595S/S000168
+Membership No.: 122071 
+UDIN: 26122071VHAQKM2967
+Place: Mumbai
+Date :  November 02, 2026
+Registered Office: 10lh  Floor, Level 13% Module 4, 21/22, Olympia Cyberspace, Alandur Road, Arulaiyammanpet, Guindy, Chennai 600032,
+Tamil Nadu, India
+Tel: +91 44 6131 0200 |  LLPIN: ACK-7004
+Ahmedabsd |  Oengalum |  ClieuiMi |  Gunii’taiu |  Hyi.letabad |  Kolkata |  Mumbai |  Pune
+
+WOCKHARDT LIMITED
+Registered Office; D-4 MIDC, Chikalthana, Chhatrapatl Sambhajl Nagar- 431 006 
+Global Headquarters; Wockhardt Towers, Bandra Kurla Complex, Bandra (East), Mumbai 400 051 
+CIN: L24230MH1999PLC120720
+Tel: 9122 2653 4444; Fax: 9122 2652 3905; e-mail id; investorrelations@wockhardt.com, Website: www.wockhardt.com
+{Rs. In Crore except per share data)
+STATEMENT OF CONSOLIDATED UNAUDITED RESULTS FOR THE QUARTER AND SIX MONTHS ENDED SEPTEMBER 30, 2026
+3 MONTHS 3 MONTHS 3 MONTHS 6 MONTHS 6 MONTHS YEAR
+PARTICULARS ENDED ENDED ENDED ENDED ENDED ENDED
+30/09/2026 30/06/2026 30/09/2025 30/09/2026 30/09/2025 31/03/2026
+(Refer notes Below) Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+Income
+(a) Revenue from operations 969 929 782 1,898 1,520 3,373
+(b) Other Income 11 31 21 42 41 111
+Total income 980 960 803 1,940 1,561 3,484
+Expenses
+(a) Cost of materials consumed 243 233 159 476 327 674
+(b) Purchase of stock-in-trade 123 109 129 232 269 586
+(c) Changes In Inventories of finished goods, Stock-In-Trade and work-in-progress (25) (22) (55) (47) (99) (128)
+(d) Employee benefits expense 201 203 186 404 357 725
+(e) Finance costs 56 52 55 108 103 213
+(f) Depreciation and amortisation expense 55 55 53 110 109 227
+(g) Exchange fluctuation loss, net (9) (4) (18) (13) 11 (22)
+(h) Other expenses 263 218 203 481 405 886
+Total expenses 907 844 712 1,751 1,482 3,161
+3 Profit /(Loss) before exceptional Items and tax (1-2) 73 116 91 189 79 323
+4 Exceptional items-charge - - - - (97) (851
+5 Profit /(Loss) after exceptional Items and before tax (3 ± 4) 73 116 91 189 (18) 238
+Tax expense:
+6 Current tax - charge 4 7 3 11 7 18
+Deferred tax - charge/ (credit) - (Net) (4) 2 6 (2) 1 21
+7 Net Profit / (Loss) after tax (5 ± 6) 73 107 82 180 (26) 199
+Attributable t o:
+Equity shareholders of the Company 79 106 78 185 (12) 213
+Non - Controlling Interest (6) 1 4 (5) (14) (14)
+8 Other Comprehensive Income
+(a) Items that will not be reclassified to Profit or Loss - (charge)/ credit (consisting 
+of re-measurement of net defined benefit (liability) / asset)0.08 0.08 (0.22) 0.16 (0.45) 70
+(b) Income tax relating to items that will not be reclassified to Profit or Loss - 
+credlt/(charge)- - -
+(c) Items that will be reclassified to Profit or Loss - (charge)/ credit (Consisting of 
+Exchange differences on translating the financial statements of foreign operations)26 14 93 40 241 349
+(d) Other Comprehensive Income (net of tax) (a ± b ± c) 26 14 93 40 241 419
+< 1 Total Comprehensive Income (718 (d)> 99 121 173 220 215 618
+Other Comprehensive Income attributable t o :
+Equity shareholders of the Company 19 10 85 29 224 368
+Non - Controlling Interest 7 4 8 11 17 51
+26 14 93 40 241 419
+Total Comprehensive Income attributable to :
+Equity shareholders of the Company 98 116 163 214 212 581
+Non - Controlling Interest 1 5 12 6 3 37
+99 121 175 220 215 618
+10 Paid-up equity share capital (face value of Rs. 5/- each) 81 81 81 81 81 81
+11 Other Equity excluding Revaluation Reserves as per Balance Sheet 4,059
+12Earnings per equity share (face value of Rs. 5/- each)
+[*not  annualised)
+|a ) Basic (Rs.) 4.85* 6.55* 4.81* 11.41* (0.72)* 13.12
+'b) Diluted (Rs.) 4.85* 6.55* 4.81* 11.39* (0.72)* 13.10
+
+Notes To Consolidated Results:-
+The results were reviewed by the Audit Committee and approved by the Board of Directors at their meetings held on November 02, 2026. The results 
+have been subjected to limited review by the Statutory Auditors of the Company.
+The Consolidated Results relate to Wockhardt Limited ('the Company' or 'the Holding Company') and its Subsidiaries (together constitute 'the Group’) 
+and are prepared by applying Ind AS 110- "Consolidated Financial Statements".
+3) Key Financials on Standalone basis:
+(Rs. In Crore)
+PARTICULARS3 MONTHS
+ENDED
+30/09/20263 MONTHS
+ENDED
+30/06/20263 MONTHS
+ENDED
+30/09/20256 MONTHS
+ENDED
+30/09/20266 MONTHS
+ENDED
+30/09/2025YEAR
+ENDED
+31/03/2026
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+Total Income 601 594 410 1,195 848 1,876
+Profit (Loss) before tax 100 107 54 207 123 317
+Profit (Loss) aftertax 100 107 54 207 123 317
+Note: The unaudited standalone results have been filed with the Stock Exchanges under Regulation 33 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 and are available on the Stock Exchanges websites (www.nselndia.com and www.bseindia.com) and also on the 
+Company's website www.wockhardt.com.
+5) The Group is exclusively into Pharmaceutical business segment.
+6) For List of Subsidiaries as on September 30, 2026 please refer Annexure.
+
+WOCKHARDT LIMITED
+Registered Office: D-4 MIDC, Chikalthana, Chhatrapati Sambhajl Nagar -431 006
+Global Headquarters: WockhardtTowers, flardra Kurla Complex, Bandra (East), Mumbai 400 051
+STATEMENT OF CONSOLIDATED ASSETS AND LIABILITIES
+(Rs. In Crore)
+PARTICULARSAs at
+30/09/2026As at
+31/03/2026
+Unaudited Audited
+A| ASSETS
+1 Non- Current assets
+(a) Property, Plant and Equipment 1,317 1,314
+(b) Right of use assets 284 304
+(c) Capital work-in-progress 676 671
+(d) Goodwill 1,040 1,028
+(e) Other Intangible assets 271 145
+(f] Intangible assets under development
+(g) Financial assets1,743 1,708
+(i) Investments 0 0
+Rs. 0.45 crore (Previous year - Rs. 0.45 crore)
+(1 1 ) Other non- current Financial assets 56 72
+(h) Deferred tax assets (Net) 48U 4//
+(1) Non-current tax assets (Net) 65 85
+(J) Other non-current assets 160 114
+1  Sub-total - Non-current assets 6,112 5,918
+2 Current assets
+(a) Inventories 973 887
+(b) Financial asseb 
+(1) Investments 117 412
+(i) Trade receivables 632 588
+(fi) Cash and cash equivalents 330 217
+(III) Dank balance (otliei than Cxkh and utli uqulvdluiilc) 2JJ 33
+M  Other current Financial assets 33 51
+[cj Other current assets 446 410
+Sub-total - Current assets 2,764 2,606
+3Assets held-for-sale 2b 91
+TOTAL ASSETS 6,902 8,615
+B) EQUITY AND LIABILITIES
+1 Equity
+(a) Equity chare capital 81 81
+(to) Other Equity 5,077 4,859
+Equity attributable to the share holders of the Company 5,158 4,940
+(cj: Non - Controlling Interest 342 341
+Sub-total- Equity 5,500 5,281
+2 Liabilities
+Non- Current liabilities 
+(a) Financial liabilities
+1 )  Buiiuwlngv 1,431 1,518
+II) Lease Liabilities 42 38
+III) Other non-current financial liabilities - 15
+(b) Provisions 42 40
+[e) Deferred tax liabilities (Net) 38 37
+| d |  Non-current liability - Others 64 64
+Sub-total- Non-current liabilities 1.617 1.712
+II. Current liabilities 
+| a ) Financial liabilities
+(i) Borrowings 719 607
+(ii) Lease Liabilities 
+(ill) Trade payables46 70
+Total outstanding dues of micro enterprises and small enterprises 74 85
+Total outstanding dues of creditors other than micro enterprises and small enterprises 549 478
+(iv) Other current financial liabilities 189 209
+b) Other current liabilities 166 133
+c) Provisions | 36 34
+d) Current tax liabilities (Net) 6 6
+Sub-total- Current liabilities 1,785 1.622
+Total Liabilities 3,402 3.334
+TOTAL EQUITY AND LIABILITIES 8,902 8.615
+FOR WOCKHARDT LIMITED
+>
+5 v n
+Mumbai \ \  . ^  * i  Wft
+Date: November 02, 2026H F KHORAKIWALA
+CHAIRMAN
+DIN:00045G00
+
+WOCKHARDT UMITED
+Registered Office: D-4 MIDC, Chikalthana, Chhatrapati Sambhaji Nagar-431 006 
+Global Headquarters: Wockhardt Towers, Bandra Kurla Complex, Bandra (East), Mumbai 400 051
+CONSOLIDATED UNAUDITED CASH FLOW STATEMENT FOR SIX MONTHS ENDED SEPTEMBER 30. 2026
+(Rs in crorc)
+PARTICULARS6 M ONTHS
+ENDED
+30/09/20266 M O N T H S
+ENDED
+30/09/2025
+(Refer notes below) Unaudited Unaudited
+ACASH FLOWS FROM / (USED IN) OPERATING ACTIVITIES:
+Profit/(loss) after exceptional items and before tax 189 (18)
+Adjustments fo r:
+Exceptional items - Impact of Deconsolidation including impairment of Investment/Receivables 97
+Depredation and amortization expense 110 109
+Allowance/(Reversal of allowance) for expected credit loss, doubtful advance and Bad debts (3) 7
+(Profit)/Loss on sale of fixed assets (Net) (20) (14)
+Gain on sale of investments (20) (9)
+Finance costs 108 103
+Unrealised Foreign exchange loss/ (gain), net 1 15
+Interest income (6) (2)
+Employee share based payments expenses 3 -
+Liabilities no longer required written back - (2)
+Fair valuation impact on investments 8 (5)
+Operating profit before working capita! changes 370 281
+Movements In Working capital
+Increase In Inventories (78) (109)
+(Increase) / Decrease in trade receivables (37) 52
+(Increase) / Decrease in Loans and Advances and other assets (36) 45
+Increase / (Decrease) in Liabilities and provisions 29 (68)
+Cash generated from operations 248 201
+income tax paid (net) (Hi (12)
+Net cash inflow from Operating activities (A) 237 189
+BCASH FLOWS FROM / (USED IN) INVESTING ACTIVITIES:
+Purchase of Property, Plant and Equipment and Capital work-in progress (S3) (70)
+Purchase of Intangible assets and Addition In Intangible assets under development (155) (127)
+Proceeds from sale of property, plant and equipment (including asset held for sale) 85 14
+Final settlement proceeds of the holdback amount under Business transfer agreement 22 -
+Margin money under lien and Bank balances (other than cash and cash equivalents) (184) 24
+5ale/(Purchase) of Investments (net) 307 (260)
+Interest received 6 2
+Net cash (outflow) from Investing activities (B) (2) (417)
+cCASH FLOWS FROM / (USED IN) FINANCING ACTIVITIES
+Transaction cost related to Right Issue/QIP concluded during earlier years 1
+Proceeds from Issuance of Equity share capital under ESOS* . 0
+[ * Previous period- Rs. 0:003 crore]
+Proceeds of long-term borrowings 109 550
+Repayment of long-term borrowings (101) (91)
+Short-term borrowings (net) 85 (12)
+Loans from related parties- Long term 80 12
+Repayment of loans taken from related parties- Long term (156) (32)
+Repayment of loans taken from related parties- Short term - -
+Repayment of Lease liabilities ( Refer note 2 below) (38) (35)
+Finance costs paid (102) (96)
+Net cash inflow / (outflow) from Financing activities (C) (123) 297
+
+WOCKHARDT LIMITED
+Registered Office: D-4 MIDC, Chikalthana, Chhatrapati Sambhaji Nagar-431006 
+Global Headquarters: Wockhardt Towers, Bandra Kurla Complex, Bandra (East), Mumbai 400 051
+CONSOLIDATED UNAUDITED CASH FLOW STATEMENT FOR SIX MONTHS ENDED SEPTEMBER 30, 2026
+(Rsin crore)
+6 MONTHS 6 MONTHS
+PARTICULARS ENDED ENDED
+30/09/2026 30/09/2025
+(Refer notes below) Unaudited Unaudited
+NET (DECREASE) / INCREASE IN CASH AND CASH EQUIVALENTS (A+B+C) 112 69
+Cash and cash equivalents as at the beginning of the period 217 112
+Exchange difference on translation of foreign cash and cash equivalent i -
+Impact of Deconsolidation - (4)
+Cash and cash equivalents as at the end of the period 330 177
+Reconciliation of cash and cash equivalents as per the cash flow statement
+Cash and cash equivalents as per above comprise of the following
+Balance with banks:
+-in current accounts 330 177
+330 177
+Notes:
+1. The above statement of cash flows has been prepared under the Indirect method as set out in Ind AS 7 'Statement of Cash Flows'
+2. Repayment of lease liabilities consists of:
+Payment of Interest *  A crore (Previous year: K 6 cruris) 
+Payment of Principal *  34 crore (Previous year: *  29 crore)
+
+n «H L, im.jnum.m n'an ty. f — wfc V  '*V— ' U fi ii* Ski CmSJ 't ie s sm
+WOCKHARDT LIMITED
+Registered Office: D-4 MIDC, Chikalthana, Chhatrapati Sambhaji Nagar - 431006 
+Global Headquarters: Wockhardt Towers, Bandra Kurla Complex, Bandra (East), Mumbai 400 051
+List of Subsidiaries as on September 30,2026
+1 Wockhardt UK Holdings Limited
+2 CP Pharmaceuticals Limited
+3 CP Pharma (Schweiz) AG
+4 Wallis Group Limited
+5 The Wallis Laboratory Limited
+6 Wockhardt Farmaceutica Do Brasil Ltda
+7 Wallis Licensing Limited
+8 Wockhardt Infrastructure Development Limited
+9 Z&ZServicesGmbH
+10 Wockhardt Europe Limited
+11 Wockhardt Nigeria Limited
+12 Wockhardt UK Limited
+13 Wockpharma Ireland Limited
+14 Pinewood Laboratories Limited
+15 Pinewood Healthcare Limited
+16 Wockhardt Holding Corp.
+17 MGP Inc.
+18 Wockhardt Farmaceutica SA DE CV
+19 Wockhardt Services SA DE CV
+20 Wockhardt Bio AG
+21 Wockhardt Bio (R) LLC
+22 Wockhardt Bio Pty Limited
+23 Wockhardt Medicines Limited
+24 Wockhardt Bioscience Limited (Formerly, Wockhardt Bionova Limited)
+25 Wockhardt Antibiotics (Ireland) Limited
+26 Wockhardt Suisse AG
+27 Wockhardt Suisse USA Holding Corporation
+28 Wockhardt Suisse USA LLC
