@@ -345,8 +345,13 @@ def _norm_name(n: str) -> str:
 
 
 def _same_company(a: str, b: str) -> bool:
+    """The same company once 'Limited / Ltd / Private / India / the' are
+    dropped — equality, not containment: 'Siemens Energy India' is not
+    'Siemens', 'Astral Chemie' is not 'Astral'."""
     x, y = _norm_name(a), _norm_name(b)
-    return bool(x) and bool(y) and (x == y or x in y or y in x)
+    # a short form of the company's own name ('UltraTech' for UltraTech
+    # Cement) is allowed; a LONGER name is another entity
+    return bool(x) and bool(y) and (x == y or (len(x) >= 4 and y.startswith(x)))
 
 
 def _company_rx(company: str) -> str:
@@ -356,7 +361,10 @@ def _company_rx(company: str) -> str:
             if t.lower() not in ("limited", "ltd", "the")]
     if not toks:
         return ""
-    return r"\b" + r"\s+".join(re.escape(t) for t in toks) + r"(?:\s+(?:Limited|Ltd\.?))?"
+    # the name must END there: 'NMDC' is not 'NMDC Steel Limited', 'UPL' is
+    # not 'UPL 1', 'Pricol' is not 'Pricol Electronics Limited'
+    return (r"\b" + r"\s+".join(re.escape(t) for t in toks) + r"(?:\s+(?:Limited|Ltd\.?))?"
+            r"(?!\w)(?!\s*\d)(?!\s+(?:[A-Z][a-z]+|[A-Z]{2,}|&)\b(?!\s*[(\"“']))")
 
 
 _ROLE_TAIL = r"[\s,]{0,6}(?:\(|[“\"']|\bas\s+|\bbeing\s+|\bis\s+|,\s*)(?:the\s+)?(?:hereinafter\s+)?(?:referred\s+to\s+as\s+)?(?:the\s+)?[“\"']?(?:%s)\s+Compan"
@@ -406,6 +414,98 @@ def register_dates(path: Path = REGISTER) -> dict[str, list[str]]:
                         out.setdefault(r["symbol"], set()).add(r["date"])
         _REGISTER = {k: sorted(v) for k, v in out.items()}
     return _REGISTER
+
+
+EQUITY_LIST = ANN_DIR / "_nse_equity_list.csv"
+_EQUITY: tuple[dict[str, str], dict[str, str]] | None = None
+SPIN_IDENTITY_MONTHS = 36          # a resulting company listed longer ago is a mature parent, not a fresh spin
+
+
+def equity_list(path: Path = EQUITY_LIST) -> tuple[dict[str, str], dict[str, str]]:
+    """NSE's list of listed equities (demerger_ground_truth.fetch_equity_list):
+    ({symbol: listing date}, {normalised name: symbol})."""
+    global _EQUITY
+    if _EQUITY is None:
+        dates: dict[str, str] = {}
+        names: dict[str, str] = {}
+        if path.exists():
+            with open(path) as fh:
+                for r in csv.DictReader(fh):
+                    if r.get("symbol") and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r.get("listing_date") or ""):
+                        dates[r["symbol"]] = r["listing_date"]
+                    if r.get("name"):
+                        names[_norm_name(r["name"])] = r["symbol"]
+        _EQUITY = (dates, names)
+    return _EQUITY
+
+
+DEMERGED_RX = re.compile(r"((?:(?:[A-Z][\w&.'\-]*|and|of|&)\s+){1,8}(?:Limited|Ltd\.?|LLP|Inc\.?))\s*\(\s*(?:the\s+)?[“\"']?\s*(?:the\s+)?"
+                         r"(?:Demerged|Transferor)\s+Compan")
+
+
+def demerged_company_in(text: str) -> str:
+    """The company named as the DEMERGED / TRANSFEROR company in a scheme
+    text ('Aditya Birla Fashion and Retail Limited ("Demerged Company")'),
+    or ''. The name is the run of capitalised words (with 'and', 'of',
+    '&') ending in Limited / Ltd just before the role."""
+    for m in DEMERGED_RX.finditer(text or ""):
+        name = re.sub(r"\s+", " ", re.sub(r"^(?:and|of|&)\s+", "", m.group(1).strip())).strip(" ,")
+        if len(name.split()) >= 2 and name[0].isupper():
+            return name
+    return ""
+
+
+def spin_identity(sit: dict, judge: dict | None = None, today: dt.date | None = None) -> bool:
+    """Is THIS company the spin-off itself — the resulting company of a
+    demerger, newly listed? Then the situation is the spun entity in its
+    first or second year, which is what the notes buy, not an inbound
+    demerger to be demoted. Evidence, either:
+      - the scheme text names this company as the Resulting / Transferee
+        company AND the Demerged company is itself NSE-listed (Aditya Birla
+        Lifestyle Brands, from Aditya Birla Fashion and Retail), or
+      - the judge, reading the complete record, calls this company the
+        'spin' and says it is listed (TML Commercial Vehicles, renamed Tata
+        Motors; SKF India (Industrial)),
+    and in both cases NSE's equity list shows the company listed within the
+    last SPIN_IDENTITY_MONTHS. Sets stage=listed from the exchange's listing
+    date, facts['is_the_spin'], facts['parent_company'] / ['parent_symbol'],
+    and the confidence. Returns True when it applied."""
+    if sit.get("kind") != "demerger":
+        return False
+    today = today or dt.date.today()
+    dates, names = equity_list()
+    listed = dates.get(sit["symbol"])
+    if not listed:
+        return False
+    age = (today - dt.date.fromisoformat(listed)).days
+    if age < 0 or age > SPIN_IDENTITY_MONTHS * 31:
+        return False
+    f = sit.setdefault("facts", {})
+    parent = f.get("demerged_company", "")
+    parent_sym = names.get(_norm_name(parent)) if parent else None
+    by_text = f.get("direction") == "inbound" and bool(parent_sym) and parent_sym != sit["symbol"]
+    j = judge or {}
+    by_judge = (j.get("status") in ("judged", "cached") and j.get("parent_or_spin") == "spin"
+                and bool(re.search(r"\b(were|been|was|is|are|got|already)\s+listed|listed on (the )?(bse|nse|main board|stock exchange)",
+                                   f"{j.get('listing_timeline', '')} {j.get('what_is_spun', '')}", re.I)))
+    if not (by_text or by_judge):
+        return False
+    f["is_the_spin"] = True
+    f["direction"] = "resulting company — this company IS the spin-off"
+    if parent:
+        f["parent_company"] = parent
+    if parent_sym:
+        f["parent_symbol"] = parent_sym
+    sit["stage"] = "listed"
+    sit.setdefault("stage_dates", {})["listed"] = listed
+    sit["listed_on"], sit["days_since_listing"] = listed, age
+    who = f" of {parent}'s demerger" if parent else " of a demerger"
+    if age <= 730:
+        sit["confidence"] = ("confirmed", f"this company IS the resulting company{who}, listed on {listed} — "
+                                          f"the spun entity in its {'first' if age < 365 else 'second'} year")
+    else:
+        sit["confidence"] = ("other", f"the resulting company{who}, listed on {listed} — more than two years ago; mature")
+    return True
 
 
 def family_of(kind: str) -> str:
@@ -508,6 +608,11 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
                 facts["direction"], facts["direction_quote"] = "inbound", quotes["inbound"]
             elif votes.get("outbound"):
                 facts["direction"], facts["direction_quote"] = "outbound", quotes["outbound"]
+            for r in filed:
+                dc = demerged_company_in(r["_text"] or r.get("_first") or "")
+                if dc and not _same_company(dc, fl[0]["company"]):
+                    facts.setdefault("demerged_company", dc)
+                    break
         rc = facts.get("resulting_company")
         if rc:
             rc = re.sub(r"^(in the case of|the case of|case of)\s+", "", rc, flags=re.I).strip()
@@ -927,6 +1032,8 @@ def confidence(sit: dict) -> tuple[str, str]:
     that demerges); 'probable' for a subsidiary listing in motion (DRHP)
     or a scheme whose attachment is unread; 'indicated' for rumour, news
     verification or calls alone."""
+    if sit["facts"].get("is_the_spin") and sit.get("confidence"):
+        return sit["confidence"]                      # set by spin_identity
     if sit["stage"] == "indicated_on_calls":
         return "indicated", "management spoke of it on the calls; nothing filed yet"
     if sit["facts"].get("news_only") or sit["stage"] == "rumoured":
@@ -963,6 +1070,11 @@ def listing_status(sit: dict, judge: dict | None = None,
     if sit["kind"] not in SPIN_KINDS:
         return {"state": "not_a_spin", "short": "no new listing",
                 "text": "no new listing — " + family_of(sit["kind"])}
+    if f.get("is_the_spin"):
+        parent = f.get("parent_company") or "the parent"
+        return {"state": "listed", "short": f"THIS IS THE SPIN-OFF — listed {sit.get('listed_on')}",
+                "text": f"THIS COMPANY IS THE SPIN-OFF — the resulting company of {parent}'s demerger, "
+                        f"listed on {sit.get('listed_on')} ({sit.get('days_since_listing')} days ago)"}
     if st == "indicated_on_calls":
         return {"state": "no_filing", "short": "indicated on calls; nothing filed",
                 "text": "NOTHING FILED — management has spoken of it on the calls only"
@@ -1024,6 +1136,8 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     see demerger_direction) comes first and needs no judge: a company the
     scheme names as the Resulting / Transferee company is receiving a
     business, not spinning one off."""
+    if sit.get("facts", {}).get("is_the_spin"):
+        return None, ""                              # the spun entity itself; nothing to demote
     if sit["kind"] == "demerger" and sit.get("facts", {}).get("direction") == "inbound":
         return "other", (f"inbound demerger — the scheme names {sit.get('company', 'the company')} as the "
                          f"Resulting Company: a business is demerged INTO it and its own shareholders "
@@ -1080,7 +1194,8 @@ def judge_adjust(sit: dict, judge: dict) -> tuple[tuple[str, str] | None, str | 
     judge names a business in each. It stays 'probable' until a scheme
     filing names it.
     Returns (confidence or None, stage or None)."""
-    if sit["kind"] != "demerger" or judge.get("status") not in ("judged", "cached"):
+    if sit["kind"] != "demerger" or judge.get("status") not in ("judged", "cached") \
+            or sit.get("facts", {}).get("is_the_spin"):
         return None, None
     spun = judge.get("what_is_spun") or ""
     heads = sit.get("headlines", [])

@@ -153,6 +153,37 @@ def api_rows(frm: dt.date, to: dt.date) -> list[dict]:
     return out
 
 
+# ----------------------------------------------------------- equity list
+
+EQUITY_L = "https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv"
+EQUITY_LIST = FA.OUT_DIR / "_nse_equity_list.csv"
+
+
+def fetch_equity_list(path: Path = EQUITY_LIST) -> list[dict]:
+    """NSE's list of every listed equity with its DATE OF LISTING — the
+    exchange's word on when a company (a resulting company among them)
+    began trading. Written to NiftyTotalMarket/_nse_equity_list.csv as
+    symbol, name, listing_date (ISO), series, isin."""
+    code, body = FA._get(EQUITY_L, timeout=60, headers={"Referer": "https://www.nseindia.com/"})
+    if code != 200 or not body:
+        return []
+    out = []
+    for r in csv.DictReader(io.StringIO(body.decode("utf-8", "replace"))):
+        r = {(k or "").strip().upper(): (v or "").strip() for k, v in r.items()}
+        if not r.get("SYMBOL"):
+            continue
+        out.append({"symbol": r["SYMBOL"], "name": r.get("NAME OF COMPANY", ""),
+                    "listing_date": _iso(r.get("DATE OF LISTING", "")), "series": r.get("SERIES", ""),
+                    "isin": r.get("ISIN NUMBER", "")})
+    if out:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with open(path, "w", newline="") as fh:
+            w = csv.DictWriter(fh, fieldnames=["symbol", "name", "listing_date", "series", "isin"])
+            w.writeheader()
+            w.writerows(sorted(out, key=lambda r: r["symbol"]))
+    return out
+
+
 # ----------------------------------------------------------------- build
 
 def build(days: int = 400, fetch: bool = True, today: dt.date | None = None,
@@ -180,6 +211,11 @@ def build(days: int = 400, fetch: bool = True, today: dt.date | None = None,
         if fetch:
             time.sleep(0.2)
     note("gt", f"{n_bundles} bundles read; {len(rows)} corporate-action rows name a demerger / scheme")
+    if fetch:
+        try:
+            note("gt", f"{len(fetch_equity_list())} listed equities with listing dates (EQUITY_L)")
+        except Exception as e:                        # noqa: BLE001
+            note("gt", f"equity list failed: {e}")
     # new listings: a symbol first seen after the window's first month is a
     # new listing — IPOs included; the validator uses them only to confirm
     # a resulting company's arrival, never as a demerger on its own

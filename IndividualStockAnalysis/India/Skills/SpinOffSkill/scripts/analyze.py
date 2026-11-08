@@ -823,6 +823,8 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     s["documents_read"] = {"filings_chars": len(scheme), "calls_12m_chars": len(calls12)}
     s["judge"] = judge(s, scheme, calls12, allow_ai=ai, runner=runner) \
         if s["kind"] in SO.SPIN_KINDS else {}
+    if SO.spin_identity(s, s["judge"], today):        # this company IS the spun entity
+        s["verdict"] = SO.verdict(s, s["checklist"])
     new_kind, why = SO.judge_override(s, s["judge"])
     if new_kind == "merger":
         s["kind"], s["family"] = "merger", SO.family_of("merger")

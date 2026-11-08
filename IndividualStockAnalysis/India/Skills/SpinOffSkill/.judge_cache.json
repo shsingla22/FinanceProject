@@ -38583,41 +38583,41 @@
   }
  },
  "TATATECH::segments": {
-  "stamp": "0e3b6c3fca656b15eb939c5b37301980",
+  "stamp": "9d2498dd8a4a041ba098a30186f80ea6",
   "verdict": {
-   "segment_name": "Commercial Vehicle (\"CV\") / TML Commercial Vehicles Limited \u2014 not a reportable segment in any tagged page; Tata Technologies' only reportable segments are \"Services\" and \"Technology Solutions\"",
+   "segment_name": "Commercial Vehicle (\"CV\") / TML Commercial Vehicles Limited \u2014 not reported as a segment in any supplied page",
    "unit": "\u20b9 crore",
-   "measure_notes": "No profit or revenue line exists for the CV / Tata Motors Commercial Vehicles business in the tagged pages. The segment disclosures present (Annual Report 2024 p.122, 2025 p.149, 2026 p.150) report only Services and Technology Solutions, with 'Segment Results' (a segment-result/EBIT-type measure struck before unallocated corporate expenses, interest/other income and finance cost) and 'Revenue from External Customers' (inter-segment revenue is nil). Tata Motors / TMCV appear in these pages only as parent-group or customer references (e.g. Presentation Oct 2026 p.14 TMCV Supplier Award; Presentation Feb 2026 p.29 Tata Motors \u00d7 IVECO commentary), with no financials.",
+   "measure_notes": "No CV-business figures exist on these pages. The only segment disclosures provided are Tata Technologies' own reportable segments, 'Services' and 'Technology Solutions' (Ind AS 108 segment revenue from external customers, nil inter-segment; profit line = 'Segment Results', i.e. segment EBIT before unallocated corporate expenses, other income, finance cost and tax). Segment-level PAT is not disclosed for any segment; PAT is given only at consolidated group level (FY2024 679.37, FY2025 676.95, FY2026 546.59 \u20b9 crore).",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 122 (carries only Service and Technology Solutions segments; no CV figures)"
+     "source": "Annual Report 2024 \u2014 page 122 (Services/Technology Solutions only; no CV segment)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 149 (carries only Service and Technology Solutions segments; no CV figures)"
+     "source": "Annual Report 2025 \u2014 page 149 (Services/Technology Solutions only; no CV segment)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 150 (carries only Service and Technology Solutions segments; no CV figures)"
+     "source": "Annual Report 2026 \u2014 page 150 (Services/Technology Solutions only; no CV segment)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Oct 2026 \u2014 page 5 (Q2 FY27 commentary gives only growth rates: revenue +28% YoY, EBITDA +32% YoY; no absolute amounts and no CV breakout)"
+    "source": "Presentation Oct 2026 \u2014 page 5 (Q2 FY27 described only as 28% revenue and 32% EBITDA growth YoY; no absolute figures, and not CV-related)"
    },
-   "not_found": "All CV/TML Commercial Vehicles figures absent: no revenue, operating profit or PAT for FY2024-FY2026, and no quarterly absolutes. Pages disclose only Services and Technology Solutions segments."
+   "not_found": "All CV-business figures. Pages carry no Commercial Vehicle / TML CV segment; only Tata Technologies' Services and Technology Solutions segment revenue and segment results, plus group-level PBT/PAT."
   }
  },
  "TRENT": {
@@ -38645,26 +38645,26 @@
   }
  },
  "TRITURBINE": {
-  "stamp": "84ef7ae9b9e5e6dd6dca20cf4f152359",
+  "stamp": "1bd615961c3e7183704e3f37756a307f",
   "verdict": {
-   "what_is_spun": "Triveni Turbine Limited itself \u2014 the steam turbine business demerged from parent Triveni Engineering and Industries Limited in 2010",
+   "what_is_spun": "Triveni Turbine itself \u2014 the industrial steam turbine business demerged from parent Triveni Engineering and Industries Limited in 2010",
    "demerged_business_names": [
     "Triveni Turbine Limited",
     "TTL",
     "Triveni Turbines",
-    "TRITURBINE",
-    "Power Generating Equipment and Solutions"
+    "Triveni Engineering and Industries Limited (TEIL) \u2014 parent",
+    "Power Generating Equipment and Solutions (segment)"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "TEIL held 21.85% equity capital of TTL since the demerger until 2022, divesting fully on September 21, 2022; promoter stake not stated. Nikhil Sawhney, son of Chairman Dhruv M. Sawhney, re-appointed VCMD for 5 years from May 10, 2026.",
-   "hidden_value": "A market-leading business: ranks second globally in steam turbines up to 100 MW, FY26 record turnover Rs.21.81 billion, EBITDA margin 24.2%, negative working capital, exports 58% of revenue, order book Rs.20.54 billion; no leverage disclosed (finance costs Rs.19 million 9M).",
+   "insiders": "Not stated for promoters. Documents state TEIL held 21.85% equity capital of TTL since the demerger until 2022, fully divesting on September 21, 2022. Dhruv M. Sawhney is Chairman & MD; son Nikhil Sawhney Vice Chairman & MD.",
+   "hidden_value": "A high-quality standalone: ranks second globally in steam turbines up to 100 MW, 6000+ installations in 80+ countries, FY26 revenue \u20b921.81 billion (+9%), EBITDA 24.2%, closing order book \u20b920.54 billion, negligible finance costs (\u20b919 million 9M).",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "The only stated overhang, TEIL's residual 21.85% stake, was fully divested on September 21, 2022; no index or size issue stated.",
+   "selling_pressure_why": "Demerger was 2010; the parent's residual 21.85% overhang was fully divested on September 21, 2022. No current distribution pending.",
    "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated as a future event \u2014 the press release dated November 21, 2025 says only that TTL \"was demerged from its parent Company, Triveni Engineering and Industries Limited (TEIL) in 2010\"; TTL is already listed on BSE (533655) and NSE (TRITURBINE)",
-   "read_next": "TTL's shareholding pattern \u2014 promoter holding and free float after TEIL's September 21, 2022 full divestment.",
+   "listing_timeline": "not stated as a date; the November 21, 2025 press release says only \"It was demerged from its parent Company, Triveni Engineering and Industries Limited (TEIL) in 2010\" \u2014 TTL is already listed (BSE 533655, NSE TRITURBINE)",
+   "read_next": "FY26 annual report subsidiary accounts \u2014 US subsidiary ~\u20b921 crore loss and South African TTAPL/TSE turnover",
    "quote": "It was demerged from its parent Company, Triveni Engineering and Industries Limited (TEIL) in 2010."
   }
  },
@@ -38956,32 +38956,32 @@
   }
  },
  "TEXRAIL::segments": {
-  "stamp": "e20c36b137c173c69529cdd978ff4c8a",
+  "stamp": "7e541b3982f7179286182e92576d827b",
   "verdict": {
-   "segment_name": "Texmaco Defence Electrification Ltd. (formerly Texmaco Rail Electrification Ltd.) \u2014 the defence vertical entity; no separate 'Defence' reportable segment exists in the segment notes",
-   "unit": "\u20b9 lakhs",
-   "measure_notes": "No defence segment result/EBIT/EBITDA is disclosed anywhere on these pages. Segment reporting covers only Freight Car Division, Infra - Rail & Green Energy, Infra - Electrical and (FY2026) Real Estate. The only entity-level figures available are from Note 1.42/1.49 'Information for Consolidated Financial Statements pursuant to Schedule III' \u2014 'Share in Profit or (Loss)', i.e. the subsidiary's net profit/(loss) after tax, and its net assets. No revenue (external or inter-segment) and no operating-profit line is given for this entity.",
+   "segment_name": "Defence business \u2014 not a reported segment. Segment notes carry only Freight Car Division, Infra \u2013 Rail & Green Energy, Infra \u2013 Electrical and (FY26) Real Estate. The only defence-labelled disclosures are entity-level Schedule III lines: 'Texmaco Defence Electrication Ltd.' (shown as 'Texmaco Rail Electrification Ltd.' in earlier years) and associate 'Texmaco Defence Systems Pvt. Ltd.'",
+   "unit": "\u20b9 lakh",
+   "measure_notes": "No defence segment result, EBIT, EBITDA or PBT is disclosed anywhere on these pages, and no defence revenue line exists. The only numbers available are entity-level 'Share in Profit or (Loss)' amounts from the Schedule III consolidation note (net profit/loss after tax as consolidated), not segment data; revenue and operating profit for that entity are not disclosed. These Schedule III / segment tables are OCR-garbled with visibly shifted year columns (e.g. AR2024 p.219 shows 11,269.01 as parent profit, which AR2025 reports as FY2024-25), so the year attribution of even these entity figures is uncertain.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": -0.59,
-     "source": "Annual Report 2024 \u2014 page 219 (Note 1.42, 'Texmaco Rail Electrication Ltd.', share in profit/(loss))"
+     "source": "Annual Report 2024 \u2014 page 219 (Texmaco Rail Electrification Ltd., Schedule III share in profit/(loss))"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": -0.77,
-     "source": "Annual Report 2025 \u2014 page 239 (Note 1.49, 'Texmaco Rail Electrication Ltd.', share in profit/(loss))"
+     "source": "Annual Report 2025 \u2014 page 239 (Texmaco Rail Electrification Ltd., Schedule III share in profit/(loss); note: Texmaco Defence Systems Pvt. Ltd. share in profit 4.10, ceased to be associate w.e.f. 20 March 2025)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": -0.36,
-     "source": "Annual Report 2026 \u2014 page 241 (Note 1.49, 'Texmaco Defence Electrication Ltd.', share in profit/(loss))"
+     "source": "Annual Report 2026 \u2014 page 241 (Texmaco Defence Electrication Ltd., Schedule III share in profit/(loss))"
     }
    ],
    "latest_quarter": {
@@ -38990,29 +38990,29 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "Defence revenue, EBITDA/EBIT/segment result and any quarterly defence figures. Segment notes show no defence segment; Q1 FY27 and other presentations give only consolidated/standalone totals, no defence split."
+   "not_found": "All defence revenue and operating profit/EBITDA, every quarterly defence figure, and any defence segment line. Q1 FY27 presentation gives only company-wide revenue \u20b9753 Cr and EBITDA \u20b981 Cr."
   }
  },
  "TRITURBINE::segments": {
-  "stamp": "c8a8e4a55128b124b23cc766866340aa",
+  "stamp": "252b009d10d28c95360d06c1d1665cdc",
   "verdict": {
-   "segment_name": "Power Generating Equipment and Solutions (single reportable segment of Triveni Turbine Limited)",
+   "segment_name": "Power Generating Equipment and Solutions (Triveni Turbine Limited's single reportable segment)",
    "unit": "\u20b9 million",
-   "measure_notes": "The Company/Group states it 'primarily operates in one business segment - Power generating equipment and solutions', so no separate segment result/EBIT is disclosed (Note 31, AR2024 p.140, AR2025 p.136, AR2026 p.146; also Feb-2026 presentation p.11 note 2: 'single reportable segment ... no reportable segments as per Ind AS 108'). Figures therefore are whole-entity consolidated numbers from the KPI pages: revenue = Net Sales (external revenue from operations; no inter-segment revenue exists in a single-segment entity), operating_profit = EBITDA as labelled by the company, pat = PAT. FY26 PAT and FY22 PAT include one-time exceptional items (FY26: \u20b9157 million expense, New Labour Code past service cost; FY22: \u20b91,982 million income).",
+   "measure_notes": "The Company/Group 'primarily operates in one business segment - Power generating equipment and solutions' (AR2024 p103/p140, AR2025 p99/p136, AR2026 p108/p146), so no segment-result table exists; figures below are the whole-entity consolidated KPIs. Revenue = Net Sales (external revenue from operations; no inter-segment revenue). Operating profit = EBITDA as labelled on the KPI pages. PAT = consolidated profit after tax (FY26 PAT includes a one-time exceptional expense of \u20b9157 million per New Labour Code; FY25 standalone-vs-consolidated differ).",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 16539,
      "operating_profit": 3810,
      "pat": 2695,
-     "source": "Annual Report 2026 \u2014 page 15"
+     "source": "Annual Report 2025 \u2014 page 15"
     },
     {
      "fy": "FY2025",
      "revenue": 20058,
      "operating_profit": 5177,
      "pat": 3586,
-     "source": "Annual Report 2026 \u2014 page 15"
+     "source": "Annual Report 2025 \u2014 page 15"
     },
     {
      "fy": "FY2026",
@@ -39023,36 +39023,35 @@
     }
    ],
    "latest_quarter": {
-    "period": "Q3 FY26 (quarter ended December 31, 2025, consolidated)",
+    "period": "Q3 FY26 (quarter ended December 31, 2025)",
     "revenue": 6240,
     "operating_profit": null,
     "source": "Presentation Feb 2026 \u2014 page 10"
    },
-   "not_found": "No segment-level result/EBIT (single segment only). Quarterly statements carry no EBITDA/operating-profit line; Q3 FY26 shows PBT 1,269 (pre-exceptional 1,426) and PAT 917 instead."
+   "not_found": "No segment-wise revenue or profit (single segment only). Q3 FY26 EBITDA not disclosed; the quarterly statement carries only PBT \u20b91,269 mn and PAT \u20b9917 mn (consolidated)."
   }
  },
  "WELENT": {
-  "stamp": "78877a830e50d92f1e86acea68005b35",
+  "stamp": "e4c2a4b4bc00bb4168afe9e0c05e8c37",
   "verdict": {
-   "what_is_spun": "Welspun Aunta-Simaria Project Private Limited, the subsidiary concessionaire of the NHAI Aunta-Simaria Ganga River Bridge HAM project, Bihar",
+   "what_is_spun": "Welspun Aunta-Simaria Project Private Limited, the NHAI Aunta-Simaria Ganga bridge HAM concessionaire in Bihar \u2014 sold for cash, not demerged",
    "demerged_business_names": [
     "Welspun Aunta-Simaria Project Private Limited",
     "WASPPL",
     "Aunta Simaria Ganga River Bridge Highway Project",
     "Aunta\u2013Simaria Ganga Bridge Project",
-    "Aunta-Simaria Road project",
-    "Aunta-Simaria"
+    "Aunta-Simaria Road project"
    ],
-   "reason": "Asset-light strategy: develop high-quality infrastructure and monetise at an appropriate stage, recycling capital into selective growth across transportation, water, wastewater and tunnelling while keeping the balance sheet strong and flexible.",
+   "reason": "\"asset-light strategy of developing high-quality infrastructure and monetising them at an appropriate stage\"; proceeds to recycle capital into transportation, water, wastewater and tunnelling growth while keeping balance-sheet flexibility",
    "reason_class": "value_unlocking",
-   "insiders": "Buyer BIIF Infrastructure II does not belong to promoter/promoter group; no promoter interest in it stated. Promoter Welspun Group Master Trust held 49.33% of WEL and took 71,23,809 warrants at Rs 525.",
-   "hidden_value": "Entire-stake cash sale at ~Rs 1,000 crore enterprise value against FY26 contribution of only Rs 55.49 crore net worth (1.90%) and Rs 196.77 crore income (5.44%); management expects above 1.5x equity invested and ~Rs 800 crore debt off balance sheet.",
+   "insiders": "Not stated for the sold entity; buyer BIIF Infrastructure II \"does not belong to the promoter/ promoter group\". In parent, Welspun Group Master Trust held 49.33% and took 71,23,809 warrants at Rs. 525.",
+   "hidden_value": "Rs. ~1,000 crore enterprise value for a subsidiary contributing only Rs. 196.77 crore income (5.44%) and Rs. 55.49 crore net worth (1.90%); ~Rs. 800 crore debt expected to move off balance sheet; management expects better than 1.5x equity invested.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "Cash divestment to a private infrastructure fund; no shares distributed to WEL holders, no new listed entity, no index exclusion.",
+   "selling_pressure_why": "Cash sale to a SEBI-registered fund; no shares distributed to shareholders, no new listing, no index exclusion event",
    "parent_or_spin": "parent",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "No listing of the divested entity is stated; it is a private sale \u2014 'The entire transaction is expected to be completed on or before September 30, 2026' (said July 29, 2026); monetisation earlier targeted 'in Q1 or Q2 of FY '27' (Feb 5, 2026) and 'within H1 FY27' (May 15, 2026)",
-   "read_next": "Completion intimation confirming NHAI and lender approvals and the final adjusted consideration versus the ~Rs 1,000 crore EV",
+   "option_pricing_date": "December 01, 2025 \u2014 allotment of 1,90,47,619 convertible warrants at Rs. 525 per share (promoter and non-promoter)",
+   "listing_timeline": "not stated \u2014 no listing of a demerged entity contemplated; the July 29, 2026 filing says the sale \"is expected to be completed on or before September 30, 2026\", and on May 15, 2026 management targeted monetisation \"within H1 FY27\"",
+   "read_next": "Completion intimation for WASPPL \u2014 NHAI/lender approvals and final EV adjustments for carry interest, net current assets, pass-through receivables",
    "quote": "The proposed divestment reflects our asset -light strategy of developing high- quality infrastructure and monetising them at an appropriate stage."
   }
  },
@@ -39472,25 +39471,25 @@
   }
  },
  "WELENT::segments": {
-  "stamp": "6aadcd2387f2e03dc94279b212d36cfb",
+  "stamp": "3c86e68258433f74863b42a41eb6892c",
   "verdict": {
-   "segment_name": "Welspun Aunta-Simaria Project Private Limited (Aunta\u2013Simaria Ganga Bridge / Aunta-Simaria Road Project, HAM subsidiary)",
+   "segment_name": "Welspun Aunta-Simaria Project Private Limited (Aunta\u2013Simaria Ganga Bridge / Aunta-Simaria Road Project, HAM, NH-31 Bihar) \u2014 part of the Transport segment, not reported as a separate segment",
    "unit": "\u20b9 crore",
-   "measure_notes": "No segment or standalone P&L for this project is disclosed in the pages \u2014 Aunta-Simaria sits inside the 'Transport' reportable segment, which is not broken down by project. The only project-level figure is the entity's 'Share in Profit/(Loss)' in the Schedule III consolidated additional information (i.e. entity-level profit after tax, 100% basis before consolidation adjustments; WEL holds 74%). No revenue or EBITDA/EBIT line is given, so revenue and operating_profit are null for every year.",
+   "measure_notes": "Only a profit line is available for this entity: Schedule III 'Share in Profit/(Loss)' in the consolidated accounts, i.e. the subsidiary's profit after tax as consolidated (\u20b920.60 crore = 5.25% of consolidated profit for FY2026). No revenue or operating-profit/EBIT line is disclosed for this entity on any tagged page; the entity sits inside the consolidated 'Transport' segment (FY26 segment revenue \u20b91,424.98 crore, segment result \u20b9358.79 crore), which also contains SNRP, VARP and other road assets and therefore cannot be attributed to Aunta-Simaria. The AR2025 page 321 summarised P&L (revenue \u20b9406.54 crore, loss \u20b958.28 crore, 51% owned) belongs to a 51%-held joint arrangement, not to Welspun Aunta-Simaria Project Pvt Ltd (74%/consolidated subsidiary), so it was not used. Project-level data on the tagged pages is bid project cost, not financials: Bid Project Cost with escalation \u20b91,603.0 crore (NHAI \u20b9624.0, debt \u20b9648.0, sponsor \u20b9160.0), first-year O&M \u20b99.9 crore (Presentation May 2026 \u2014 page 28).",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 153 (entity listed as 74% subsidiary; no financials)"
+     "source": "not disclosed on tagged pages (Annual Report 2024 \u2014 page 212 gives only Infrastructure-level segment data; page 153 lists the entity as a 74% subsidiary with no financials)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 pages 321-323 (segment note only: Transport/Water/Tunnelling; no project-level data)"
+     "source": "not disclosed on tagged pages (Annual Report 2025 \u2014 page 322 gives only Transport/Water/Tunnelling segment data)"
     },
     {
      "fy": "FY2026",
@@ -39506,7 +39505,7 @@
     "operating_profit": null,
     "source": null
    },
-   "not_found": "No revenue, EBITDA/segment result or PAT for the Aunta-Simaria project in FY2024/FY2025, and no quarterly figures. Only FY2026 entity PAT (\u20b920.60 cr) and net assets (\u20b947.26 cr) are disclosed."
+   "not_found": "No entity-level revenue, EBITDA/EBIT or segment result for Aunta-Simaria in any year; no FY24/FY25 PAT; no quarterly figures. Only FY2026 PAT (\u20b920.60 crore) and net assets (\u20b947.26 crore) disclosed."
   }
  },
  "CUPID::offering::rights_issue": {

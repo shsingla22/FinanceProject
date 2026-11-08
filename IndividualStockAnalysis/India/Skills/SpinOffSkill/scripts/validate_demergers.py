@@ -104,8 +104,14 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None) 
                                           f"{j.get('what_is_spun', '')} {j.get('reason', '')}", re.I))
             at_record = s["stage"] in ("record_date", "listed") or s.get("listed_on")
             in_reg = sym in reg
+            is_spin = s.get("facts", {}).get("is_the_spin")
             if said_nothing:
                 v = "FALSE POSITIVE (judge: nothing separated)"
+            elif is_spin and s.get("listed_on"):
+                # the company IS the resulting company: the register holds the
+                # PARENT's record date; the company's own listing date (NSE's
+                # equity list) is the verification
+                v = f"verified by NSE's equity list — this company is the listed resulting company (listed {s['listed_on']})"
             elif at_record and not in_reg:
                 v = "FALSE POSITIVE (record date claimed, register has none)"
             elif at_record and in_reg:

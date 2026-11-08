@@ -42,6 +42,7 @@ def _no_register_on_disk(monkeypatch):
     """Tests build their own register (or none): the real
     _demerger_ground_truth.csv must not reach into them."""
     monkeypatch.setattr(SO, "_REGISTER", {})
+    monkeypatch.setattr(SO, "_EQUITY", ({}, {}))
 
 
 def test_presentation_index_survives_a_torn_line_and_writes_atomically(tmp_path):
@@ -761,6 +762,64 @@ def test_demerger_direction_reads_resulting_and_demerged_roles():
     # both roles named for the same company (a composite scheme) settles nothing
     both = gabriel + " Gabriel India Limited (the “Demerged Company” for Part D)."
     assert SO.demerger_direction(both, "Gabriel India Limited")[0] == ""
+
+
+def test_company_name_must_end_where_the_name_ends():
+    assert SO.demerger_direction("demerger of NISP from NMDC Limited into NMDC Steel Limited", "NMDC Ltd.")[0] == ""
+    assert SO.demerger_direction("Amalgamation of UPL SAS with and into UPL 1 (“Merger 1”); Demerger of the Demerged Undertaking", "UPL Ltd.")[0] == ""
+    assert SO.demerger_direction("to demerge its Driver Information business into Pricol Electronics Limited", "Pricol Ltd.")[0] == ""
+    assert SO.demerger_direction("NMDC Limited (Demerged Company) and NMDC Steel Limited (Resulting Company)", "NMDC Ltd.")[0] == "outbound"
+    # equality, not containment, when the judge names the receiving company
+    assert not SO._same_company("Siemens Energy India Limited", "Siemens Ltd.")
+    assert not SO._same_company("Astral Chemie", "Astral Ltd.")
+    assert SO._same_company("Gabriel India Limited", "Gabriel India Ltd.")
+    j = {"status": "judged", "what_is_spun": "The Energy business of Siemens Limited, transferred to Siemens Energy India Limited under a Scheme",
+         "parent_or_spin": "parent", "selling_pressure": "likely", "reason": "focus"}
+    assert SO.judge_override({"kind": "demerger", "company": "Siemens Ltd.", "facts": {}, "headlines": []}, j)[0] is None
+
+
+def test_the_spin_off_itself_is_recognised_from_the_scheme_or_the_judge(monkeypatch):
+    monkeypatch.setattr(SO, "_EQUITY", ({"ABLBL": "2025-06-23", "TMCV": "2025-11-12", "BELRISE": "2025-05-28",
+                                         "AARTIPHARM": "2023-01-30", "ABFRL": "2008-01-01", "TMPV": "1998-07-22"},
+                                        {SO._norm_name("Aditya Birla Fashion and Retail Limited"): "ABFRL",
+                                         SO._norm_name("Tata Motors Limited"): "TMPV"}))
+    today = dt.date(2026, 11, 8)
+    text = ("Scheme of Arrangement between Aditya Birla Fashion and Retail Limited ('Demerged Company') and "
+            "Aditya Birla Lifestyle Brands Limited ('Resulting Company') for the demerger of the Madura business.")
+    assert SO.demerged_company_in(text) == "Aditya Birla Fashion and Retail Limited"
+    rows = [{"date": "2026-01-10", "symbol": "ABLBL", "company": "Aditya Birla Lifestyle Brands Limited", "source": "NSE",
+             "category": "Updates", "kind": "demerger", "tags": "demerger", "headline": "Update on the Scheme",
+             "attachment": "x.pdf", "ann_id": "a1", "file_size": "", "text_file": ""}]
+    s = SO.build_situations(rows, {"a1": text}, today=today)[0]
+    assert s["facts"]["direction"] == "inbound" and s["facts"]["demerged_company"] == "Aditya Birla Fashion and Retail Limited"
+    # by the scheme text: the demerged company is listed, ABLBL listed 17 months ago → the spin-off, second year
+    assert SO.spin_identity(s, {}, today)
+    assert s["stage"] == "listed" and s["listed_on"] == "2025-06-23" and s["facts"]["parent_symbol"] == "ABFRL"
+    assert s["confidence"][0] == "confirmed" and "second year" in s["confidence"][1]
+    assert SO.judge_override(s, {"status": "judged", "what_is_spun": "Madura business into Aditya Birla Lifestyle Brands Limited",
+                                 "parent_or_spin": "parent", "selling_pressure": "likely", "reason": "x"})[0] is None
+    assert SO.listing_status(s, {}, today)["short"].startswith("THIS IS THE SPIN-OFF")
+    assert SO.confidence(s)[0] == "confirmed"
+    # by the judge: renamed resulting company (TML Commercial Vehicles → Tata Motors Limited), no text direction
+    t = {"symbol": "TMCV", "company": "Tata Motors Limited", "kind": "demerger", "stage": "announced", "facts": {},
+         "stage_dates": {}, "listed_on": None, "days_since_listing": None, "headlines": []}
+    jt = {"status": "judged", "what_is_spun": "Tata Motors' commercial vehicle business, demerged into TML Commercial Vehicles Limited, now renamed",
+          "parent_or_spin": "spin", "selling_pressure": "likely", "reason": "focus",
+          "listing_timeline": "the Company's equity shares were listed on November 12, 2025"}
+    assert SO.spin_identity(t, jt, today) and t["stage"] == "listed" and t["listed_on"] == "2025-11-12"
+    assert t["confidence"][0] == "confirmed" and "first year" in t["confidence"][1]
+    # a recent IPO receiving a private company by merger is NOT the spin-off
+    b = {"symbol": "BELRISE", "company": "Belrise Industries Limited", "kind": "demerger", "stage": "exchange_noc",
+         "facts": {"direction": "inbound", "demerged_company": "H-One India Private Limited"}, "stage_dates": {}, "headlines": []}
+    assert not SO.spin_identity(b, {"status": "judged", "parent_or_spin": "parent", "listing_timeline": "not stated"}, today)
+    # a resulting company listed more than three years ago is a mature parent now
+    a = {"symbol": "AARTIPHARM", "company": "Aarti Pharmalabs Limited", "kind": "demerger", "stage": "announced",
+         "facts": {"direction": "inbound", "demerged_company": "Aarti Industries Limited"}, "stage_dates": {}, "headlines": []}
+    assert not SO.spin_identity(a, {}, today)
+    # an old listed company named as resulting company stays an inbound demerger
+    g = {"symbol": "TMPV", "company": "Tata Motors Passenger Vehicles Limited", "kind": "demerger", "stage": "listed",
+         "facts": {"direction": "inbound", "demerged_company": "Aditya Birla Fashion and Retail Limited"}, "stage_dates": {}, "headlines": []}
+    assert not SO.spin_identity(g, {}, today)
 
 
 def test_inbound_demerger_is_marked_in_the_situation(monkeypatch):

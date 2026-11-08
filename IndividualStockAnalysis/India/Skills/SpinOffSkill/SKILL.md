@@ -114,8 +114,16 @@ largest gains came not in the first year but in the second.
    company (inbound by the scheme's own words, or by the judge's; its own
    holders receive no new listing), becomes `other`. A subsidiary listing
    is never demoted. Each demotion is shown with its reason among the
-   other restructurings. The report puts confirmed demergers first and
-   gives them the full treatment.
+   other restructurings. THE SPIN-OFF ITSELF is recognised too: a company
+   the scheme names as the Resulting company whose Demerged company is
+   itself NSE-listed, or one the judge calls the spin and says is listed,
+   and that NSE's equity list (`_nse_equity_list.csv`, listing dates)
+   shows listed within the last three years, is the spun entity in its
+   first or second year — Tata Motors (the former TML Commercial
+   Vehicles), SKF India (Industrial), Aditya Birla Lifestyle Brands. It is
+   `confirmed`, stage LISTED from the exchange's own listing date, with
+   the parent named; past two years it is marked mature. The report puts
+   confirmed demergers first and gives them the full treatment.
 4. **Listing status** — for every spin-off: LISTED since (record date),
    RECORD DATE set and listing pending (with the typical 4–10 week gap
    stated as typical, not forecast), NOT YET with the timeline the
@@ -208,7 +216,7 @@ python3 scripts/analyze.py run --quick                             # no AI
 python3 scripts/analyze.py company THOMASCOOK                      # one company, JSON
 python3 ../../Announcements/demerger_ground_truth.py --days 400    # NSE's register from the bhavcopy bundles
 python3 scripts/validate_demergers.py                              # the list against the register; exit 1 on a miss
-python3 -m pytest scripts/test_skill.py -q                         # 50 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 52 tests, offline
 ```
 
 ## Outputs
