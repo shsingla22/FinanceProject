@@ -815,8 +815,12 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
         return
     sym = s["symbol"]
     if fetch_docs:
+        sys.path.insert(0, str(INDIA / "InvestorPresentations"))
         import fetch_presentations as FP                      # noqa: PLC0415
-        FP.fetch_company(sym)
+        try:
+            FP.fetch_company(sym)
+        except Exception as e:                                # noqa: BLE001
+            print(f"  {sym}: document fetch failed ({e})", file=sys.stderr)
     s["docs"] = FN.doc_links(sym)
     s["call_links"] = s["docs"]["calls"]
     calls36 = calls_text_for(sym, 36, today)
