@@ -4,3 +4,4 @@ __pycache__/
 # large source PDFs are kept on disk, re-fetched on demand; their text and indexes are committed
 IndividualStockAnalysis/India/InvestorPresentations/NiftyTotalMarket/**/*.pdf
 IndividualStockAnalysis/India/AnnualReports/NiftyTotalMarket/**/*.pdf
+IndividualStockAnalysis/India/Announcements/_bhav_bundles/

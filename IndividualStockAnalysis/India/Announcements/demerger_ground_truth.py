@@ -1,0 +1,216 @@
+"""
+demerger_ground_truth.py — the demergers NSE's own bhavcopy bundles record,
+as an independent check on the skill's list.
+
+    python3 demerger_ground_truth.py --days 400        # pull and build
+    python3 demerger_ground_truth.py --no-fetch        # rebuild from stored bundles
+
+Every trading day NSE publishes a PR bundle (PR<ddmmyy>.zip) beside the
+bhavcopy. Two files in it see a demerger without anyone writing a headline:
+
+  bc<ddmmyyyy>.csv   the corporate-actions / book-closure file: one row per
+                     record date with its PURPOSE — "Demerger", "Scheme of
+                     Arrangement", "Spin off" — for the PARENT symbol;
+  pd<ddmmyyyy>.csv   the day's price file for every series: a RESULTING
+                     company lists as a symbol never seen before.
+
+The bundle is small (about 0.6 MB), so the year's bundles are kept under
+`_bhav_bundles/` and parsed into:
+
+  NiftyTotalMarket/_demerger_ground_truth.csv
+      date (record / ex date), symbol, company, purpose, source
+      (bc = corporate-actions file, api = NSE corporate-actions API,
+      newlist = first appearance in the price file)
+
+The skill's own list is then checked against this file by
+Skills/SpinOffSkill/scripts/validate_demergers.py.
+"""
+
+from __future__ import annotations
+
+import argparse
+import csv
+import datetime as dt
+import io
+import re
+import sys
+import time
+import zipfile
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE))
+import fetch_announcements as FA        # noqa: E402
+
+BUNDLES = HERE / "_bhav_bundles"
+GROUND_TRUTH = FA.OUT_DIR / "_demerger_ground_truth.csv"
+PR_URL = "https://nsearchives.nseindia.com/archives/equities/bhavcopy/pr/PR{ddmmyy}.zip"
+CA_API = ("https://www.nseindia.com/api/corporates-corporateActions"
+          "?index=equities&from_date={frm}&to_date={to}")
+PURPOSE_RX = re.compile(r"de-?merg|scheme of arrangement|spin[\s-]?off|hiv(e|ing)[\s-]?off|arrangement", re.I)
+FIELDS = ["date", "symbol", "company", "purpose", "source", "detail"]
+
+
+# ------------------------------------------------------------- bundles
+
+def trading_days(end: dt.date, days: int) -> list[dt.date]:
+    d, out = end - dt.timedelta(days=days), []
+    while d <= end:
+        if d.weekday() < 5:
+            out.append(d)
+        d += dt.timedelta(days=1)
+    return out
+
+
+def fetch_bundle(day: dt.date) -> Path | None:
+    """The day's PR bundle on disk (cached); None on a holiday (404)."""
+    BUNDLES.mkdir(parents=True, exist_ok=True)
+    path = BUNDLES / f"PR{day:%d%m%y}.zip"
+    miss = BUNDLES / f"PR{day:%d%m%y}.none"
+    if path.exists():
+        return path
+    if miss.exists():
+        return None
+    code, body = FA._get(PR_URL.format(ddmmyy=day.strftime("%d%m%y")), timeout=60,
+                         headers={"Referer": "https://www.nseindia.com/"})
+    if code == 200 and body[:2] == b"PK":
+        path.write_bytes(body)
+        return path
+    if code == 404:
+        miss.write_text("holiday or not published")
+    return None
+
+
+def parse_bc(zpath: Path) -> list[dict]:
+    """Corporate-action rows whose purpose names a demerger or scheme."""
+    out = []
+    with zipfile.ZipFile(zpath) as z:
+        names = [n for n in z.namelist() if n.lower().startswith("bc")]
+        for n in names:
+            text = z.read(n).decode("utf-8", "replace")
+            rd = csv.DictReader(io.StringIO(text))
+            for r in rd:
+                r = {(k or "").strip().upper(): (v or "").strip() for k, v in r.items()}
+                purpose = r.get("PURPOSE") or ""
+                if not PURPOSE_RX.search(purpose):
+                    continue
+                date = r.get("RECORD DT") or r.get("EX DT") or r.get("BC STRT DT") or ""
+                out.append({"date": _iso(date), "symbol": r.get("SYMBOL", ""),
+                            "company": r.get("SECURITY", ""), "purpose": purpose,
+                            "source": "bc", "detail": f"ex {_iso(r.get('EX DT', ''))}; series {r.get('SERIES', '')}"})
+    return out
+
+
+def parse_pd_symbols(zpath: Path) -> set[str]:
+    """Every EQ/BE symbol in the day's price file."""
+    syms = set()
+    with zipfile.ZipFile(zpath) as z:
+        for n in z.namelist():
+            if not n.lower().startswith("pd"):
+                continue
+            text = z.read(n).decode("utf-8", "replace")
+            for r in csv.DictReader(io.StringIO(text)):
+                r = {(k or "").strip().upper(): (v or "").strip() for k, v in r.items()}
+                if r.get("SERIES") in ("EQ", "BE") and r.get("SYMBOL"):
+                    syms.add(r["SYMBOL"])
+    return syms
+
+
+def _iso(s: str) -> str:
+    s = (s or "").strip()
+    for fmt in ("%d-%b-%Y", "%d-%m-%Y", "%d/%m/%Y", "%d %b %Y"):
+        try:
+            return dt.datetime.strptime(s, fmt).date().isoformat()
+        except ValueError:
+            continue
+    return s
+
+
+def api_rows(frm: dt.date, to: dt.date) -> list[dict]:
+    """The same record dates from NSE's corporate-actions API, as a
+    second reading of the same register."""
+    import json                                   # noqa: PLC0415
+    code, body = FA._get(CA_API.format(frm=frm.strftime("%d-%m-%Y"), to=to.strftime("%d-%m-%Y")),
+                         timeout=120, headers={"Accept": "application/json",
+                                               "Referer": "https://www.nseindia.com/companies-listing/corporate-filings-actions"})
+    if code != 200 or not body:
+        return []
+    out = []
+    for a in json.loads(body):
+        if PURPOSE_RX.search(a.get("subject") or ""):
+            out.append({"date": _iso(a.get("recDate") or a.get("exDate") or ""),
+                        "symbol": a.get("symbol", ""), "company": a.get("comp", ""),
+                        "purpose": a.get("subject", ""), "source": "api",
+                        "detail": f"ex {_iso(a.get('exDate', ''))}"})
+    return out
+
+
+# ----------------------------------------------------------------- build
+
+def build(days: int = 400, fetch: bool = True, today: dt.date | None = None,
+          note=print) -> list[dict]:
+    today = today or dt.date.today()
+    members = FA.universe()
+    rows: list[dict] = []
+    seen_syms: set[str] = set()
+    first_seen: dict[str, str] = {}
+    n_bundles = 0
+    for day in trading_days(today, days):
+        z = fetch_bundle(day) if fetch else (BUNDLES / f"PR{day:%d%m%y}.zip")
+        if not z or not z.exists():
+            continue
+        n_bundles += 1
+        try:
+            rows += parse_bc(z)
+            syms = parse_pd_symbols(z)
+        except zipfile.BadZipFile:
+            continue
+        if seen_syms:
+            for s in syms - seen_syms:
+                first_seen.setdefault(s, day.isoformat())
+        seen_syms |= syms
+        if fetch:
+            time.sleep(0.2)
+    note("gt", f"{n_bundles} bundles read; {len(rows)} corporate-action rows name a demerger / scheme")
+    # new listings: a symbol first seen after the window's first month is a
+    # new listing — IPOs included; the validator uses them only to confirm
+    # a resulting company's arrival, never as a demerger on its own
+    cutoff = (today - dt.timedelta(days=days - 35)).isoformat()
+    for s, d in first_seen.items():
+        if d >= cutoff:
+            rows.append({"date": d, "symbol": s, "company": "", "purpose": "first appearance in the price file",
+                         "source": "newlist", "detail": ""})
+    try:
+        rows += api_rows(today - dt.timedelta(days=days), today)
+    except Exception as e:                        # noqa: BLE001
+        note("gt", f"corporate-actions API failed: {e}")
+    # dedupe
+    seen, out = set(), []
+    for r in rows:
+        k = (r["source"], r["symbol"], r["date"], r["purpose"][:40])
+        if k in seen:
+            continue
+        seen.add(k)
+        r["in_universe"] = "yes" if r["symbol"] in members else ""
+        out.append(r)
+    out.sort(key=lambda r: (r["date"], r["symbol"]))
+    GROUND_TRUTH.parent.mkdir(parents=True, exist_ok=True)
+    with open(GROUND_TRUTH, "w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=FIELDS + ["in_universe"])
+        w.writeheader()
+        w.writerows(out)
+    note("gt", f"{len(out)} rows written; universe demerger record dates: "
+               f"{len({r['symbol'] for r in out if r['source'] in ('bc', 'api') and r['in_universe'] and re.search(r'de-?merg', r['purpose'], re.I)})}")
+    return out
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--days", type=int, default=400)
+    ap.add_argument("--no-fetch", action="store_true")
+    a = ap.parse_args()
+    build(a.days, fetch=not a.no_fetch, note=lambda s, m: print(f"[{s}] {m}", file=sys.stderr))
+
+
+if __name__ == "__main__":
+    main()

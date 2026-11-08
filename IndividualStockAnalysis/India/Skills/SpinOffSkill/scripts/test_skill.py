@@ -755,3 +755,39 @@ def test_pdf_text_with_lone_surrogates_is_still_written():
     assert DR.first_pages(b"not a pdf at all") == ""
     assert DR.first_pages(b"%PDF-1.4 garbage") == ""
     monkeypatch = None
+
+
+# ============================================= the register check (validate_demergers)
+
+def test_register_check_finds_misses_and_false_positives():
+    import validate_demergers as VD
+    gt = [{"date": "2026-05-01", "symbol": "VEDL", "company": "Vedanta", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},
+          {"date": "2026-05-01", "symbol": "VEDL", "company": "Vedanta", "purpose": "Demerger", "source": "api", "in_universe": "yes", "detail": ""},
+          {"date": "2026-07-22", "symbol": "TRIVENI", "company": "Triveni", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},
+          {"date": "2026-06-10", "symbol": "OUTSIDE", "company": "X", "purpose": "Demerger", "source": "bc", "in_universe": "", "detail": ""},
+          {"date": "2026-05-20", "symbol": "TSPL", "company": "", "purpose": "first appearance in the price file", "source": "newlist", "in_universe": "", "detail": ""},
+          {"date": "2026-04-01", "symbol": "ANYCO", "company": "", "purpose": "Dividend", "source": "bc", "in_universe": "yes", "detail": ""}]
+    sits = [{"symbol": "VEDL", "company": "Vedanta", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "listed",
+             "listed_on": "2026-05-01", "facts": {"resulting_company": "Talwandi Sabo Power Limited"},
+             "judge": {"what_is_spun": "power business into TSPL"}},
+            {"symbol": "TRIVENI", "company": "Triveni", "kind": "merger", "confidence": ("other", ""), "stage": "announced",
+             "listed_on": None, "facts": {}, "judge": {}},
+            {"symbol": "DABUR", "company": "Dabur", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "exchange_noc",
+             "listed_on": None, "facts": {}, "judge": {"what_is_spun": "Nothing is separated; amalgamation of Sesa into Dabur"}},
+            {"symbol": "GHOST", "company": "Ghost", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "listed",
+             "listed_on": "2026-03-01", "facts": {}, "judge": {"what_is_spun": "a unit"}},
+            {"symbol": "UPL", "company": "UPL", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "exchange_noc",
+             "listed_on": None, "facts": {}, "judge": {"what_is_spun": "crop protection into UPL 2"}}]
+    res = VD.check(sits, gt, dt.date(2026, 10, 12))
+    assert set(res["register"]) == {"VEDL", "TRIVENI"}                      # universe demergers only
+    byv = {r["symbol"]: r["verdict"] for r in res["recall"]}
+    assert byv["VEDL"] == "captured" and byv["TRIVENI"] == "held as other restructuring only"
+    assert [r["symbol"] for r in res["misses"]] == ["TRIVENI"]
+    assert "TSPL" in next(r for r in res["recall"] if r["symbol"] == "VEDL")["new_symbols_near_record_date"]
+    byp = {r["symbol"]: r["verdict"] for r in res["precision"]}
+    assert byp["VEDL"].startswith("verified") and byp["UPL"].startswith("pending")
+    assert byp["DABUR"].startswith("FALSE POSITIVE (judge") and byp["GHOST"].startswith("FALSE POSITIVE (record date")
+    s = res["summary"]
+    assert (s["register_demergers"], s["captured"], s["missed"], s["false_positives"], s["pending"]) == (2, 1, 1, 2, 1)
+    md = VD.render(res, "2026-10-12")
+    assert "| …MISSED | 1 |" in md and "**TRIVENI**" in md and "FALSE POSITIVE" in md
