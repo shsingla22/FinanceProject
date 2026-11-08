@@ -1,0 +1,1555 @@
+
+=== page 1 ===
+ 
+ 
+Regd. Office & Works : 8, Electronics Complex, Chambaghat , Solan -173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466  
+HFCL/SEC/ 26-27              April  30, 20 26 
+ 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com  
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+ 
+RE: Regulation 30 of the Securities and  Exchange  Board  of India  (Listin g Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+ 
+Subject: Earnings’ Presentation  
+ Dear Sir(s)/ Madam,  
+ This is in continuation to our earlier intimation of today.  
+ 
+In terms of Regulation 30 read with Para A of Part A of Schedule III to the Securities and Exchange 
+Board  of India (Listin g Obligations and Disclosure Requirements) Regulations, 2015  (“SEBI Listing 
+Regulations ”), we hereby submit a copy of the Earnings’ Presentation , inter -alia, on the Audited 
+Financial Results of the Company for the 4
+th Quarter  and Financial Year  ended  March  31, 
+2026 , both on Standalone and Consolidated basis, to be discussed during the Earnings’ Call  
+scheduled to be held today i.e.  Thursday , April 30, 202 6 at 0 4:30 p.m . 
+ It may be noted that the Board of Directors of the Company has, considered and approved the aforesaid Financial Results of the Company, in its meeting held today i.e.  April  30, 202 6. 
+ We request to take the above information on your records and disseminate the same on your 
+respective websites.  
+ Thanking you,  
+ Yours faithfully,  
+For HFCL Limited  
+ 
+ 
+ 
+(Manoj Baid)  
+President  & Company Secretary  
+ 
+Encl: Earnings’ Presentation  
+=== page 2 ===
+Investor 
+Presentation
+HFCL LIMITED//APRIL 2026
+
+=== page 3 ===
+02
+ HFCL LIMITED | INVESTOR PRESENTATION 2026
+Inside this 
+Presentation01/ Introduction 05-10
+02/ Strategy
+and Focus11-20
+03/ OpportunitySize21-23
+04/ Our 
+Aspiration24-25
+05/ Financial
+Highlights26-33
+06/ ESG/CSR
+34-36
+07/ Appendix
+37-49
+=== page 4 ===
+HFCL LIMITED | INVESTOR PRESENTATION 2026 03
+FY26 was a year of strong strategic  progress  for 
+HFCL,  supported by favorable industry  tailwinds  
+and focused  execution  across  our stated priorities.  
+We made  significant  progress  in increasing  exports,  
+improving  the share  of product revenues  over EPC, 
+expanding private  sector  business,  and 
+strengthening our margin  profile  creating a solid  
+base  for our next phase  of growth . 
+During the year,  demand remained  strong across  
+optical  fibre  cable,  telecom  infrastructure  and 
+defence , driven  by data centre  expansion,  global  
+5G deployments,  rising  data consumption,  defence  
+moderni zation  and inventory  built -up and evolving  
+geopolitical  enviornmen t. HFCL  delivered  a strong 
+performance  while  improving  business mix and 
+expanding its international  footprint . A key 
+milestone  was the signing  of a multi -year overseas 
+Optical Fiber  Cable  supply  agreement,  enhancing 
+long -term  revenue  visibility  and strengthening our 
+global  positioning.  
+We are on track  to enhance  our OFC manufacturing 
+capacity  to ~43 million  fkm by June  2026.  We also 
+expanded optical  fibre  capacity  to ~28 million  fkm 
+from  14 million  fkm, with the next phase  targeting 
+~33.9 million  fkm by December  2026.  Alongside  
+our planned  entry  into preform  manufacturing,  
+these  initiatives  will strengthen supply -chain  
+security,  improve  cost competitiveness  and support  
+sustainable  margin expansion . In a significant  strategic  move,  HFCL has entered  
+into a MoU  to participate  in defence  aerospace -
+related  opportunities . The aerospace  business 
+being  acquired operates  in a high -entry -barrier  
+segment,  characterised by stringent  qualification 
+requirements,  high precision  engineering,  long  
+approval  cycles,  and a limited  global  supplier  base .
+Importantly,  the business  comes  with established 
+capabilities,  certifications,  long -standing customer  
+relationships,  and a confirmed export -oriented  
+order  book  of approximately  ₹1,930 crore,  
+providing  immediate  revenue  visibility
+The proposed  issuance  of warrants  to promoter  
+and promoter  group  reflects  their  continued 
+confidence  in HFCL’s  long -term  strategy  and 
+growth  road  map .
+As we enter  FY27, HFCL  is stronger,  more  
+diversified  and well- positioned  to deliver  
+sustainable  growth and long -term  value  creation  
+for all stakeholders .
+As we move  forward,  our focus  
+remains  on disciplined  capital  
+allocation,  execution  excellence and 
+strengthening  our technology  and 
+product  portfolio.Message from 
+The Managing Director
+Mahendra Nahata
+PROMOTER AND 
+MANAGING DIRECTOR
+4,949.27
+REVENUE
+(₹ IN CRORE)
+826.75 & 16.70
+EBITDA & EBITDA MARGIN
+(₹ IN CRORE & %)
+329.44 & 6.66
+PAT & PAT MARGIN
+(₹ IN CRORE & %)KEY PERFORMANCE 
+METRICS FOR FY26
+=== page 5 ===
+HFCL LIMITED | INVESTOR PRESENTATION 2026 04
+FY26 – Four Engines. One Direction.
+OF, OFC & 
+CONNECTIVITYSOLUTIONS01
+OPTICAL FIBER CABLE AT FULL 
+CAPACITY​
+•OFC capacity:  34 mn fkm p.a.​
+•Optical Fiber capacity doubled to 28 mn fkm 
+p.a.
+•​Passive Connectivity & Data Center Solutions – Export-  and hyperscaler- led 
+demand​
+INR 10,159 CRORES
+SINGLE LARGEST, MULTI -YEAR EXPORT OFC 
+ORDER WONDEFENCE 
+EQUIPMENT02
+UNIFIED DEFENCE PLATFORM
+•Thermal cameras developed, Orders bagged​
+•Drone detection radar: Orders bagged​
+•Aerospace business being acquired –MOU 
+signed
+1,000 Acres
+LAND ALLOCATED FOR DEFENCE 
+MANUFACTURING  FACILITY IN ANDHRA PRADESH; GROUND BREAKING CEREMONY ON 15TH MAY’26 TELECOM 
+EQUIPMENT03
+INTEGRATED BROADBAND & 
+WIRELESS ACCESS PLATFORM
+•FWA CPE -  India’s first indigenously 
+developed 5G FWA CPE. Large -scale 
+deployments for telcos
+•Leadership in Wi- Fi APs & UBRs
+•Long -range UBRs (~35 km)
+•MPLS routers indigenously developed & deployed
+Pioneering Next-Gen 
+CONNECTIVITY SOLUTIONSEPC & SYSTEM 
+INTEGRATION04
+QUALITY OVER QUANTITY
+•Large -scale telecom + public network 
+execution
+•Sustained presence in government & 
+defence networks
+Disciplined
+PROJECT SELECTION → IMPROVED
+REVENUE QUALITYINR 13,483 Crore total ORDER BOOK 
+including 12,248 crores of export 
+orders~INR 2,230 Crore total ORDER BOOK 
+including 1,930 crores of export 
+orders through proposed aerospace 
+business being acquiredINR 804 Crore total ORDER BOOKINR 6,620 Crore total ORDER BOOK
+=== page 6 ===
+//CHAPTER 01
+06 HFCL At Inflection Point
+07 A Differentiated, Fully Integrated Platform Serving Telecom 
+And Defence
+08 With Presence Across 60+ Countries Supporting 80+ 
+Marquee Customers  
+09 Driving Product Innovation Through Deep In- house R&D
+10 Complemented By State -of-the-art Manufacturing 
+Infrastructure For Scalable Execution
+ HFCL LIMITED | INVESTOR PRESENTATION 2026 INTRODUCTION OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 05STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSR
+HFCL -
+A Differentiated 
+Technology -Led 
+Play
+=== page 7 ===
+HFCL At Inflection Point
+WHY THIS CYCLE IS DIFFERENT — THE STRUCTURAL SHIFT
+HIGH FIBRE 
+COUNT CABLESAI data centres  need 1,728+ fiber cables - 36x more fibre  per AI rack. Specialty cable conversion 
+runs at 30% lower line efficiency, tightening effective supply faster than headline capacity suggests.
+SUPERIOR PERFORMANCE = 
+PREMIUM PRICING Surging AI infrastructure spend by hyperscalers  is driving pricing power. Premium fibres  
+outperform, with G.657A2 fibre  prices up 30%+.
+SUPPLY CONSTRAINT IS STRUCTURAL Preform expansion cycles are 24 –36 months. Global leaders are capacity -constrained and unable 
+to meet AI infrastructure demand even with new plant announcements.
+INDIA + AI = 
+PERFECT TIMING$100Bn+ Hyperscaler and Data Center investment announcement expected by 2035 in India. BharatNet  
+Phase III ₹65,000 Cr underway. HFCL is one of the leading player with OFC + Telecom + Defence + EPC 
+and System Integration across all the demand vectors simultaneously.
+DEFENCE: ACCELERATING DEMAND TAILWINDS Geopolitical shifts are accelerating demand for domestic and Global defence solutions. HFCL is in the 
+process of acquiring 1000 Acres (329 Acres has been allotted) in Andhra Pradesh to expand its defence 
+manufacturing capabilities positioning the business for scalable, long -term growth.HFCL LIMITED | INVESTOR PRESENTATION 2026 INTRODUCTION OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 06STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSR
+1. Order Book Expanded 3x
+₹7,010 Cr (FY23) → ₹21,206 Cr in FY26WHAT HAS CHANGED
+2. Driving customer diversification through increased 
+exports
+•Export Share Rising from 4.54% in FY21 to 41.36% in 
+FY26.
+•Targeting 50%+ exports from FY27 onwards; 
+₹12,248 Cr export orders in hand as at end of FY26.
+3. Shifting Towards High Margin Product Mix 
+Shift to a product -led (OFC, PCS, Defence , Telecom) 
+model, targeting 70%+ revenue from products in 
+FY27; from ~27% in FY21. Revenue share from Private Customer also increased to ~84% in FY26.
+4. Defence: New Engine 
+~₹2,230 Cr Order Visibility including  ₹1930 Cr export order book through proposed aerospace business 
+being acquired
+5. Preform Integration 
+₹580 Cr backward integration into preform leading to 
+margin improvement, pricing power, supply chain 
+sovereignty
+6. AI/Data Centre Tailwind 
+36x more fiber per AI rack vs CPU rack; hyperscaler  
+bulk orders draining global inventory - pricing power 
+returned₹21,200Cr+
+ORDER BOOK50%+
+EXPORTS TARGET₹1,930Cr **
+DEFENCE EXPORT ORDER BOOK
+ **Through proposed 
+    acquisition₹580Cr
+PREFORM CAPEX
+=== page 8 ===
+A Differentiated, Fully Integrated Platform 
+Serving Telecom and Defence 
+PRESENCE IN HIGH GROWTH SEGMENTS
+OF, OFC, PCS
+OF/OFC
+•Optic Fiber
+•Armoured  & 
+Unarmoured  Cable
+•Micro Cable
+•Micro Module 
+Cable
+•Ribbon Cable
+•FTTH Cable
+•IBR Cable
+•Data Centre 
+ProductsTelecom & 
+NetworkingDefence
+•Electronic FUZE
+•High -capacity Radio Relay
+•Ground Surveillance Radar
+•Thermal Imaging Core (TI Core)
+•Thermal Weapon Sights (TWS)
+•Multi Mode Hand Grenade
+•Tactical Cables for defence
+•Aerospace Solutions through proposed  
+business being acquiredSystem Integration/ 
+EPC Projects
+Public Telecommunication
+Established telecom integrator with proven 
+expertise in large- scale BharatNet , OTN, rural 
+GSM, FTTH, in- building solutions, mobile 
+backhaul, nationwide optical networks, and 
+advanced Wi- Fi deployments.Product Categories
+PCS
+•Cable Assemblies
+•High Density Cabinets
+•Fiber Termination Box
+•PLC Splitters
+•Joint Closures
+•Aerial/ FTTH Accessories
+•FTTA Solution
+•Installation Material 
+Kitting for 4G/5G Sites •Point to Point and Point to Multipoint UBR
+•Indoor & Outdoor Wi -Fi 5, 6 and 7 
+Access Points
+•AI powered Cloud Network 
+Management System
+•Ethernet L2 /L3 Switches
+•5G Indoor & Outdoor FWA CPE 
+• IP/ MPLS Routers Defence  Communication
+A fully dedicated nationwide MPLS network 
+delivering end -to-end connectivity via hybrid 
+microwave broadband links for remote areas, supported by an exclusive DWDM optical 
+backbone and GSM -based fiber monitoring & 
+management system.#1
+OPTICAL FIBRE CABLE 
+SUPPLIER IN INDIA6
+MANUFACTURING FACILITIES3
+R&D CENTRES60+
+COUNTRIES PRESENCE80+
+MARQUEE CUSTOMERS21200 +Cr
+ROBUST ORDER BOOKHFCL LIMITED | INVESTOR PRESENTATION 2026 INTRODUCTION OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 07STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSR
+=== page 9 ===
+With Presence Across 60+ Countries 
+Supporting 80+ Marquee Customers
+OVERSEAS OFFICES
+USA
+UK
+POLAND
+GERMANYHFCL LIMITED | INVESTOR PRESENTATION 2026 INTRODUCTION OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 08STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSR
+Map not to Scale only for illustration purposeSupplying to 
+majority of Global 
+Tier 1 Telecom 
+Operators  and HyperscalersExport Revenue 
+increased from 
+4.45% in FY21 to 
+41.36%  in FY26
+Largest supplier of Optical Fibre  Cable 
+to Oil & Gas 
+Companies in India Supplied nation -wide 
+OFC connectivity 
+projects in  
+multiple countries CANADA
+DUBAI
+TURKEY
+=== page 10 ===
+Driving Product Innovation Through 
+Deep In- house R&D
+HFCL’s strengthened R&D capabilities are enabling differentiated, future -ready products and 
+reinforcing its transition into a technology -led enterprise.
+STRENGTHENED IN- HOUSE R&D TEAM
+Head Count
+73
+5G PRODUCTS70
+OTHER NETWORKING 
+PRODUCTS52
+TECHNOLOGY & DEFENCE34
+OPTIC FIBER & OPTICAL FIBER CABLE 229
+TOTAL
+3 
+DEDICATED R&D CENTRES 
+IN BENGALURU, HYDERABAD AND GURUGRAM DRIVING 
+INNOVATION
+HFCL LIMITED | INVESTOR PRESENTATION 2026 INTRODUCTION OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 09STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSR
+=== page 11 ===
+Complemented By State- of-the-art Manufacturing 
+Infrastructure For Scalable ExecutionHFCL LIMITED | INVESTOR PRESENTATION 2026 INTRODUCTION OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 10STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSR
+6
+MANUFACTURING FACILITIES 
+IN INDIA28 
+OPTICAL FIBER CAPACITY EXPANDING TO 33.9 MN 
+FKM/ANNUM 
+(IN MN FKM/ANNUM)34
+OPTICAL FIBER CABLE CAPACITY EXPANDING TO 
+42.3 MN FKM/ANNUM 
+(IN MN FKM/ANNUM)
+₹580 Cr 
+PREFORM PROJECT CAPEX310 MT/ANNUM BY JULY 2029UPCOMING 1000 
+ACRE DEFENCE 
+MANUFACTURING COMPLEX IN ANDHRA PRADESH
+
+=== page 12 ===
+//CHAPTER 02
+HFCL -
+Strategic FocusHFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 11OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+12 Well-Defined Growth Levers To Accelerate Revenues And 
+Profitability
+13 Strategic Focus On High -End Customised  Product 
+Development
+14 OFC - Beyond the Commodity Narrative: The Margin 
+Expansion Story  
+15 Defence  — A New Growth Engine, Not a Side Story
+16 …combined With Capacity Expansion And Vertical Integration
+17 …and Customer Mix Transformation To Drive Growth And 
+Margin Expansion
+18 Strong & Diversified Order Book Offering Long -Term Growth 
+Visibility
+19 Promoter Warrant: Strong Vote of Confidence Backing 
+Growth
+20 Making HFCL A Differentiated Play Across Telecom And Defence  Products
+=== page 13 ===
+Well- Defined Growth Levers To Accelerate 
+Revenues And Profitability
+STRATEGIC PRIORITIES FOR SUSTAINED AND PROFITABLE GROWTH
+Increased Focus 
+on Higher Margin Product RevenueExpanding Manufacturing CapacitiesOptimising  
+Revenue Mix
+•Expanding global reach for greater customer 
+diversification with exports at ~41% of FY26 revenue 
+with a target to reach 50%+ from FY27 onwards 
+•Revenue from  Product business expected to reach 
+~70%+ in FY27 from 62% in FY26
+•Revenue from private sector has increased to ~84%, reflecting a strategic shift from Government to Private customers
+•Pivoting to a product -led revenue mix while 
+deliberately shifting from low -profit turnkey work
+•Diversified Product Portfolio –  OFC, PCS, Defence, 
+TelecomFocus on higher value -added products 
+on the back of continued R&D driven 
+innovation to aid margins and ease 
+working capital
+OFC
+•Develop high end Optical Fiber Cable 
+& Interconnect Solutions customised  
+for hyperscalers
+Defence
+•Develop and move towards higher value -added offerings in defence and 
+aerospace value chainIncreasing Optical Fiber Cable and Optical Fiber capacity to ~43 mn fkm p.a. and ~34 mn fkm p.a. 
+respectively and creating preform manufacturing 
+capacity to 310 mt p.a. as backward integration
+Backward integration into preform manufacturing – 
+the key enabler of margin expansion & pricing 
+powerEBITDA margin to expand from ~16.7% in 
+FY26 to 20- 21% by FY29Targeting 70%+ Revenue from Product 
+and ~50%+ Revenue from Export by FY27HFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 12OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+01 02 02
+=== page 14 ===
+Strategic Focus On High- End Customised  
+Product Development
+OF/OFC/PCS/DCS
+Optic Fiber
+ Cable Assemblies
+HD & UHD Fiber 
+patch panelsFiber Pathway 
+Systems (FPS)Micro Cable FTTH Cable Ribbon Cable5G  Indoor & 
+Outdoor FWA CPE Ethernet L2 
+Switches
+Home Mesh 
+RoutersIndoor & Outdoor 
+Wi-Fi 5, 6 and 7 
+Access PointsIP/ MPLS Routers
+Electronic 
+FuzesHigh -capacity 
+Radio RelayThermal 
+Weapon Sights Drone Detection 
+RadarFoliage 
+Penetration Radar
+Aerospace and Defence Cable 
+Assemblies
+Outdoor/ Indoor IBR Cable
+HFCL Eka Fiber
+HFCL A2 - 180 
+FiberHFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 13OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+Optical Fiber & Optical Fiber Cable 
+Emphasis on high -end, customized solutions 
+enables stronger customer engagement and 
+higher value realization amid a structural 
+demand upcycle.Passive Connectivity & 
+Data Center Solutions 
+Emerging as a high- growth adjacency to 
+the OFC business, driven by exports and 
+hyperscaler  data centersDefence - Emerging Growth Engine with Strong Visibility
+•₹2,230 Cr+ total Defence order book includes export 
+order in Aersopace business being acquired
+•DRDO Technology Transfer ( ToT)
+•Strong Own -IPR portfolio
+•Shift from L1 supplier to strategic partnerMulti Mode Hand Grenade
+TELECOM DEFENCE NEW PRODUCTS
+UNDER DEVELOPMENT
+Maritime / 
+Coastal 
+Surveillance   
+RadarHollow Core Optical Fiber
+Aerospace  Products 
+through Proposed 
+business being 
+acquired
+=== page 15 ===
+OFC -  Beyond the Commodity 
+Narrative: The Margin 
+Expansion StorySupply Constraints Amid AI Demand Surge
+The supply –demand gap has widened materially. 
+Global capacities are falling short of accelerating 
+AI demand.
+WHAT DROVE THE DEMAND INFLECTION
+AI Data Centre 
+Explosion36x more fibre  per AI GPU rack vs CPU rack. Hyperscalers  
+(Google, Microsoft, AWS, Meta) deploying billions globally.
+BharatNet  
+Phase III₹65,000 Cr government program. HFCL consortium won ₹8,100 
+Cr+ in contracts covering UP East, UP West, Punjab.
+5G 
+DensificationUrban 5G macro + small cell backhaul; repeat 5G CPE 
+orders; 5G OFC demand structurally elevated.
+Defence / 
+UAV FibreMilitary UAV systems now consuming 50 –100 
+mn fkm annually, ~12 -15% of global demand. 
+New demand vector, premium pricing.
+Global Export 
+DemandGlobal giants are capacity -constrained. Indian 
+manufacturers filling supply gap. HFCL 5 -year global 
+supply deal (₹10,159 Cr).SUPPLY CONSTRAINT
+Rising Demand for High -Performance Fibre
+Demand has moved from traditional applications to 
+data centres . This shift requires high -performance fibre  
+in large volumes.
+China export curbs
+Significant capacity shutdowns and recent JV closures have led to a demand glut in China
+Hyperscaler  Race Driving Mid to Long- Term Demand
+Hyperscalers  are racing to complete projects first, 
+creating strong immediate demand.
+30%+ price rally
+G.657A2 single -mode fibre  up 30%+ since early 2025 — 
+structural, not cyclical
+HFCL advantage
+Full capacity utilisation ; preform integration; long- term 
+procurement and supply contractsPRICING POWER HAS 
+RETURNED
+INDEXED TO FY23 AVERAGE REALISATION = 1.0X
+Product mix upgrade to high -fibre  count, 
+low-latency, specialty cables
+•Higher fibre  count & specialty cables driving 
+better price per km
+•Transition from volume- led growth to 
+value- led profitability122.5
+FY23 Avg
+RealisationFY26 Avg
+RealisationExpected FY27
+Realisation2.5XOFC is no longer a volume -led commodity cycle — it is a 
+structural demand + pricing power + margin expansion cycle.HFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 14OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+=== page 16 ===
+Defence — A New Growth Engine, Not a Side Story
+CREDENTIALS & MOATS
+₹2,230Cr
+TOTAL DEFENCE ORDER 
+BOOK₹1,930Cr*
+EXPORTS ORDER BOOK
+*Through aerospace business 
+  being acquisition1,000 Acres
+LAND ALLOCATED FOR DEFENCE  
+FACILITY IN ANDHRA PRADESHOwn IPR
+ON ALL KEY DEFENCE PRODUCTS
+THE DEFENCE GROWTH TRAJECTORY
+PHASE 1: FY22– 24 PHASE 2: FY25– 26 PHASE 3: FY28+
+Product DevelopmentHFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 15OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+DRDO Transfer of Technology
+ToT from DRDO validates indigenous 
+technology capability
+Own IPR Portfolio
+Electronic fuzes , Ti cores for thermal 
+sights, thermal weapon sights for 
+LMGs and assault rifles —  all own IP
+HASPL Consolidated Platform being 
+created 
+Aerostructures, Aeronautics, Radar 
+(Raddef ), and Thermal Sights — 
+cross -functional domain leverage​
+Order Book Building Revenue Scale- Up
+•Electronic fuzes  for artillery guns
+•Night vision Ti core
+•Ground surveillance radar
+•EWIS for LCA and Jaguar Aircraft
+•Thermal weapon sights (LMG, AK- 203, 84 mm RL, 
+etc.)•₹1930 Cr export orders confirmed  
+•DRDO ToT for multimode hand grenade, CTCS, etc
+•HASPL platforms•Targeting ₹500– 600 Cr revenue in FY27
+•Expand to electronic warfare systems
+•Partnerships with international defence players 
+=== page 17 ===
+…combined With Capacity Expansion And Vertical Integration
+Setting up 1,000 acres 
+defence  manufacturing 
+facilities in Sathya Sai District, Andhra Pradesh
+•Cumulative TAM of ~ 726 bn 
+USD globally by FY32. 
+•Targeting revenue of INR 500 
+crs in FY26 -27 compared to INR 
+77 crs achieved in FY25 -26
+The ongoing expansion enhances HFCL’s global competitiveness, enabling it to capitalize on rising demand 
+and unlock margin expansion.HFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 16OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+•Reduce dependence on external suppliers 
+for manufacturing of Optical Fiber Cables
+•Higher Quality Assurance of finished goods
+•Yield better margins
+Planned capacity expansion  
+of Optic fiber manufacturing
+28.033.9
+Current Capacity Proposed Capacity(IN mn fkm p.a)Optical Fiber Cable expansion
+Planned Optical fiber 
+Cable capacity expansion
+(IN mn fkm p.a)Planned capacity expansion of preform manufacturing (MTPA)Further strengthening of backward integration
+310.0
+Proposed Capacity•Expanding capacity to address accelerating 
+demand from data centers, hyperscalers , and 
+AI-led network modernization
+•Single Large Hyperscaler  Order
+•~$1.1 bn (₹10,159 crore) OFC contract
+•5-year execution horizon
+•Secures ~50%+ OFC capacity over the medium term
+3443
+Current Capacity Proposed CapacityAdvancing vertical 
+integration with In house preform manufacturing 
+•Strengthening supply chain resilience 
+•Cost optimization and margin enhancement
+•Flexibility in capacity planning and execution
+
+=== page 18 ===
+…and Customer Mix Transformation To Drive Growth And Margin 
+Expansion
+(₹ IN CRORES)
+Government vs Private Mix 
+26%35%
+16%74%65%
+84%
+FY24 FY25 FY26
+Government PrivateWe are improving our customer mix through 
+greater focus on higher -margin private 
+clients and market -aligned offerings.
+Export Revenue Share 
+11% 12%41%
+FY24 FY25 FY26We are witnessing  continued  acceptance 
+of our products from global customers including hyper -scalers and data centers 
+in FY26.
+Products vs Projects Shift from project -led to product -led revenue, 
+with a strategic exit from low -margin turnkey 
+projects and greater emphasis on scalable, high- value product offerings.
+Rs. 497 CRExports expected to contribute ~40% of Total Revenues in 3 Years
+Rs. 501 CRRs. 2047 CR
+42%61% 62%58%39% 38%
+FY24 FY25 FY26
+Products Projects
+Sustained focus on optimizing revenue mix  underpins scalable and sustainable growthHFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 17OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+=== page 19 ===
+Strong & Diversified Order Book Offering Long -Term Growth Visibility
+(₹ IN CRORES)Category Wise
+3,112
+3,508
+14,586
+Networks O&M ProductsCustomer Wise Total Order Book
+7,6859,96721,206
+FY24 FY25 FY26
+Diversified and growing Order book provides strong revenue visibility across telecom and defenceAll numbers in Rs. Crore
+7,843
+13,363
+Goverments PrivateHFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 18OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+=== page 20 ===
+Promoter Warrant: 
+Strong Vote of Confidence Backing Growth
+Aligned promoters, funded growth, and a stronger balance sheet — 
+a decisive inflection point
+USE OF ₹555 CR & BALANCE SHEET IMPACT
+~32%
+~₹175 Cr~9%
+~₹50 Cr~16%
+~₹90 Cr~43%
+~₹240 Cr
+₹555 Cr  
+PROMOTER 
+PROPOSED WARRANT INFUSION
+AT ₹74 PER SHARE  | 
+18 MONTHS CONVERSION 
+WINDOW
+Warrant exercise at market-
+linked price = promoter committing to long -term value 
+creation, not a token gesture. Core margin- expansion 
+capex. Own preform = 
+₹580 Cr project, warrants 
+fund the bulk.Preform Plant 
+(₹580 Cr total)
+Funding the capital 
+expenditure for establishing 
+a defence manufacturing 
+facility in Andhra PradeshDefence 
+Expansion
+Invest into equity 
+shares of HASPLHASPL
+Setting up new offices and business development, loans 
+to subsidiaries, marketing, 
+operating expensesGeneral 
+Corporate Purpose & 
+Working CapitalConviction, Not Dilution
+Strong conviction on 
+Company’s growth prospects WHAT THIS SIGNALS 
+TO THE MARKETHFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 19OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+=== page 21 ===
+Making HFCL A Differentiated Play Across OFC, 
+Telecom And Defence Products
+New Product Development, Export Focus for  Greater Scale and Higher Margins
+Products now ~62% of 
+revenues, improving revenue 
+stability and margin profile
+Exports at ~41% of revenues 
+positioning HFCL as a global 
+player
+Private customers contribute ~
+84% of revenues lowering 
+working -capital intensityDemand Tailwinds 
+and Market Leadership
+#1 in OFC and strong market 
+share in Wifi and UBR
+Hyperscaler , AI and DC -driving 
+demand for HFCL’s high- fiber -
+count cables 
+Actively catering to Domestic 
+telcos and Bharatnet  for rapid 
+roll out
+Defence  segment is ready to 
+serve worldwide with ongoing 
+rebuilding of global defence  
+inventories Vertically 
+Integrated Company
+R&D, manufacturing and 
+connectivity solutions under 
+one roof
+Backward integration into preform 
+manufacturing for strengthening 
+supply chain resilience
+Vertically integrated EPC & system 
+integration provider with 
+single -point accountability from 
+design to deployment and lifecycle 
+operations
+Integrated O&M ensuring uptime 
+through proactive monitoring and 
+preventive maintenance.Defence 
+Monetisation  
+Entering Inflection Phase
+Defence  platform expected to 
+gain global scale with a 
+confirmed export order book of Rs.~1,930 crores through proposed aerospace business 
+being acquired
+Domestic Defence  segment 
+expected to meaningfully 
+enhance operating performance 
+as serial production commences on the back of receipt of 
+multiple Indian defence  
+contractsStrong Order 
+Book
+Strong, diversified order book 
+of 21,200 crore+ provides 
+multi- year revenue visibility 
+across Telecom, Defence  and 
+Connectivity solutionsHFCL LIMITED | INVESTOR PRESENTATION 2026OPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTS APPENDIX 20OUR
+ASPIRATION ESG/CSRSTRATEGY
+AND FOCUS INTRODUCTION
+=== page 22 ===
+//CHAPTER 03
+Favourable
+Industry 
+TailwindsHFCL LIMITED | INVESTOR PRESENTATION 2026FINANCIAL
+HIGHLIGHTS APPENDIX 21STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSROPPORTUNITY
+SIZE INTRODUCTION
+22 OFC, Telecom and Networking – Global & India TAM
+23 Opportunities – EPC 
+ 
+=== page 23 ===
+OFC, Telecom and Networking – Global & India TAM
+SEGMENT GLOBAL 
+TAM FY25
+(USD BN)GLOBAL 
+TAM FY32E
+(USD BN)CAGR INDIA TAM
+FY25 
+(USD BN)INDIA TAM
+FY32E 
+(USD BN)INDIA
+CAGR REVENUE 
+RATIONALE
+OPTICAL FIBER CABLE 21.5 35.5 7.2% 1.4 2.7 10.1% High density OFC for 
+hyperscalers
+SWITCHES 44.7 65.0 5.5% 0.9 1.6 9.3% Energy saving, next gen features
+ROUTERS 13.4 17.0 3.4% 0.4 0.7 6.8% 5G ready routers
+WIFI 9.7 15.0 6.4% 0.2 0.4 10.0% Optimized for High -Density 
+Networks
+FIXED WIRELESS ACCESS 8.5 20.0 13.0% 0.5 1.0 11.7% Optimised for Large -Scale Broadband 
+Rollouts 
+UNLICENSED BAND RADIO 0.7 0.9 3.1% 0.3 0.5 7.6% Advanced tech with low TCOHFCL LIMITED | INVESTOR PRESENTATION 2026FINANCIAL
+HIGHLIGHTS APPENDIX 22STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSROPPORTUNITY
+SIZE INTRODUCTION
+Source: Feedback Report dated Sep’25​
+=== page 24 ===
+Opportunities – EPC HFCL LIMITED | INVESTOR PRESENTATION 2026FINANCIAL
+HIGHLIGHTS APPENDIX 23STRATEGY
+AND FOCUSOUR
+ASPIRATION ESG/CSROPPORTUNITY
+SIZE INTRODUCTION
+FUTURE OPPORTUNITIES
+Dot/BSNL
+•Bharat Net Phase III presents a 
+₹ 20,000 crore opportunity aimed at 
+connecting 1.5 lakh villages with 
+broadband connectivity. 
+•4G Tower - ₹ 7000 - 8000 crores 
+of tender from BSNL is floated, another similar opportunity 
+expected soon.
+•₹ 800 crore, BSNL CPAN Network 
+expansion with various types of 
+Enterprise Routers on pan India basis. 
+This also includes HFCL designed and 
+manufactured Routers.
+•₹ 500 crore, BSNL OTN expansion
+•BharatNet  central NOC (CNOC) project 
+worth ₹ 800 crore Optical 
+Fiber Cable
+•Leading telecom operators have started 
+capex of INR 56,982 crores for 4G 
+expansion and phased 5G rollout
+•A nationwide Optical Fiber Cable (OFC) 
+ring project, including regional sub -rings, 
+is currently under evaluation for Railways.
+•The project is expected to require 20,000 – 30,000 km of high -quality OFC.
+•Represents a significant opportunity in the railway segment. 
+•Aligns with India's focus on enhancing 
+digital and telecom infrastructure.
+•Potential for long -term revenue visibility 
+and strategic growth.Data Centre
+THE EPC DIVISION IS POISED FOR FUTURE 
+OPPORTUNITIES IN :
+•Data centers - fueled by the increasing 
+need for robust data infrastructure.Strategic Focus
+SHIFT TO STABLE, MARGIN -FOCUSED 
+EXECUTION
+•Stable, long -tenure revenue stream
+•Working capital cycle improving
+•Selective and disciplined bidding strategy
+•Strategic repositioning from volume driven EPC to profitable, cash -efficient 
+growth
+=== page 25 ===
+//CHAPTER 04
+25 Aspiring To Deliver Sustained Growth With Structurally 
+Higher MarginsHFCL LIMITED | INVESTOR PRESENTATION 2026FINANCIAL
+HIGHLIGHTS APPENDIX 24STRATEGY
+AND FOCUS ESG/CSR
+HFCL -
+AspirationINTRODUCTIONOUR
+ASPIRATIONOPPORTUNITY
+SIZE
+=== page 26 ===
+HFCL LIMITED | INVESTOR PRESENTATION 2026FINANCIAL
+HIGHLIGHTS APPENDIX 25STRATEGY
+AND FOCUS ESG/CSR INTRODUCTIONOUR
+ASPIRATIONOPPORTUNITY
+SIZE
+Aspiring to Deliver Sustained Growth with 
+Structurally Higher Margins
+POTENTIAL TO REACH ₹ 10,000+ CRORES 
+REVENUE IN FY29
+4,0654,94910,000
+FY25FY26FY29E
+INCREMENTAL REVENUE POTENTIAL 
+OFC CAPACITY EXPANSION
+Significant revenue upside expected from 
+improved pricing and capacity expansion at 
+the Hyderabad and Goa facilities by Dec’26, 
+supported by strong hyperscaler  demand 
+momentum.DEFENCE 
+Growth is expected to be supported by global defence inventory re-stocking in a 
+volatile geopolitical environment, along with the integration of aerospace business being acquired.
+TELECOM PRODUCTS
+Revenue contribution expected from 
+both new launches and the existing product portfolio.EPC
+EPC segment expected to maintain 
+steady revenues.
+REVENUE 
+ENHANCEMENT LEVERS
+PRODUCT REVENUE
+Product revenue expected to 
+increase  from ~62% currently to 80%+ by FY29
+EXPORT
+Export revenue expected to increase from ~41% currently to 50%+ by FY27
+POTENTIAL TO REACH 20 -21% EBITDA MARGIN  
+BY FY29
+12%17%20%
+FY25FY26FY29E
+MARGIN 
+ENHANCEMENT LEVERS
+OPTIC FIBER CAPACITY 
+EXPANSION
+Optical Fiber capacity will expand 
+from 28 mn fkm to 33.9 mn by 
+December’26
+PREFORM MANUFACTURING
+Company will set  up Preform manufacturing facility for 310 MT
+
+=== page 27 ===
+//CHAPTER 05
+27 Q4FY26 Financial Highlights
+28 FY26 Financial Highlights
+29 Income Statement – Q4FY26
+30 Income Statement – FY26
+31 Balance SheetOur
+FinancialsHFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 26STRATEGY
+AND FOCUS ESG/CSR INTRODUCTIONOPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTSOUR
+ASPIRATION
+=== page 28 ===
+Q4FY26 Financial HighlightsHFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 27STRATEGY
+AND FOCUS ESG/CSR INTRODUCTIONOPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTSOUR
+ASPIRATION
+Revenue from Operations
+8011,2111,824
+Q4FY25 Q3FY26 Q4FY26EBITDA & EBITDA Margin
+-22244337
+-2.8%20.1%
+18.5%
+Q4FY25 Q3FY26 Q4FY26PAT & PAT Margin
+-83102184
+-10.4%8.5%10.1%
+Q4FY25 Q3FY26 Q4FY26All numbers in Rs. Crore
+=== page 29 ===
+FY26 Financial HighlightsHFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 28STRATEGY
+AND FOCUS ESG/CSR INTRODUCTIONOPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTSOUR
+ASPIRATION
+Revenue from Operations
+4,465
+4,0654,949
+FY24 FY25 FY26EBITDA & EBITDA Margin
+682
+507827
+15.3%
+12.5%16.7%
+FY24 FY25 FY26PAT & PAT Margin
+338
+173329
+7.6%
+4.3%6.7%
+FY24 FY25 FY26All numbers in Rs. Crore
+=== page 30 ===
+Income Statement – Q4FY26
+PARTICULARS Q4FY26 Q3FY26 Q-O-Q Q4FY25 Y-O-Y
+Revenue from Operations 1,824.12 1,210.79 50.66% 800.72 127.81%
+Other Income 22.26 15.42 13.64
+TOTAL INCOME 1,846.38 1,226.21 50.58% 814.36 126.73%
+Total Expenses 1509.45 982.69 836.69
+EBITDA 336.93 243.52 38.36% -22.23
+EBITDA MARGIN 18.47% 20.11% -164 Bps -2.79% 2126 Bps
+Depreciation 45.48 43.77 30.44
+Finance Cost 62.78 62.76 51.06
+Share of net profits/(loss) of JV's accounted using equity 
+method-0.74 1.12 -1.10
+Exceptional Items - - -
+PBT 227.93 138.11 65.04% -104.93
+PBT MARGIN 12.50% 11.41% 109 Bps -13.10% 2560 Bps
+Tax 43.48 35.74 -21.63
+PROFIT AFTER TAX 184.45 102.37 80.18% -83.30
+PAT MARGIN 10.11% 8.45% 166 Bps -10.40% 2051 Bps
+Other Comprehensive Income -39.23 -21.02 -54.79
+TOTAL COMPREHENSIVE INCOME 145.22 81.35 78.51% -138.09
+EPS (Diluted  ₹) 1.21 0.67 80.60% -0.56HFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 29STRATEGY
+AND FOCUS ESG/CSR INTRODUCTIONOPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTSOUR
+ASPIRATION
+ALL NUMBERS IN RS. CRORE
+=== page 31 ===
+Income Statement – FY26
+Particulars FY26 FY25 FY24
+Revenue from Operations 4,949.27 4,064.52 4,465.05
+Other Income 65.25 57.76 100.59
+TOTAL INCOME 5,014.52 4,122.28 4,565.64
+Total Expenses 4,187.77 3615.53 3,883.51
+EBITDA 826.75 506.75 682.13
+EBITDA MARGIN 16.70% 12.47% 15.28%
+Depreciation 157.38 105.51 81.76
+Finance Cost 242.06 185.01 147.28
+Share of net profits/(loss) of JV's accounted using equity method 0.37 0.36 0.93
+Exceptional Items - - -
+PBT 427.68 216.59 454.02
+PBT MARGIN 8.64% 5.33% 10.17%
+Tax 98.24 43.33 116.50
+PROFIT AFTER TAX 329.44 173.26 337.52
+PAT MARGIN 6.66% 4.26% 7.56%
+Other Comprehensive Income -29.12 -35.83 129.60
+TOTAL COMPREHENSIVE INCOME 300.32 137.43 467.12
+EPS (Diluted  ₹) 2.13 1.23 2.33HFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 30STRATEGY
+AND FOCUS ESG/CSR INTRODUCTIONOPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTSOUR
+ASPIRATION
+ALL NUMBERS IN RS. CRORE
+=== page 32 ===
+Balance Sheet
+PARTICULARS FY26 FY25 FY24
+TOTAL - SHAREHOLDER FUNDS 4948.59 4,119.32 3,999.82
+NON- CURRENT LIABILITIES
+(A) Financial Liabilities
+(i) Borrowings 389.88 389.90 169.22
+(ii) Other Liabilities 18.80 9.73 9.07
+(B) Other Non- Current Liabilities 143.52 139.47 124.77
+TOTAL - NON – CURRENT LIABILITIES 552.20 539.10 303.06
+CURRENT LIABILITIES
+(i) Borrowings 1323.49 951.16 808.06
+(ii) Other Liabilities 2043.30 1,936.71 1,375.91
+TOTAL – CURRENT LIABILITIES 3366.79 2,887.87 2,183.97
+GRAND TOTAL - EQUITIES & LIABILITES 8867.58 7,546.29 6,486.85
+PARTICULARS FY26 FY25 FY24
+(A) Tangible Assets 1,026.74 846.90 661.76
+(B) Goodwill 26.17 26.17 26.17
+(C) Other Intangible Assets 649.03 580.40 433.00
+(D) Investment in Associates / JV 23.24 19.86 19.50
+(E) Financial Assets
+(i) Trade receivables 269.80 409.86 520.31
+(ii)Other Financial Assets 122.64 220.84 232.48
+(F) Other Non -Current Assets 46.77 71.58 78.53
+TOTAL – NON- CURRENT ASSETS 2,164.39 2,175.61 1,971.75
+(A) Inventories 1,415.99 898.84 774.43
+(B) Financial Assets
+(i) Trade Receivables 2,212.18 1,891.73 2,215.48
+(ii) Cash & Bank Balances 468.42 491.32 336.33
+(iii) Others 763.20 608.34 198.95
+(C) Other Current Assets 1843.40 1,480.45 989.91
+TOTAL – CURRENT ASSETS 6703.19 5,370.68 4,515.10
+GRAND TOTAL – ASSETS 8867.58 7,546.29 6,486.85HFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 31STRATEGY
+AND FOCUS ESG/CSR INTRODUCTIONOPPORTUNITY
+SIZEFINANCIAL
+HIGHLIGHTSOUR
+ASPIRATION
+ALL NUMBERS IN RS. CRORE
+=== page 33 ===
+//CHAPTER 06
+33  Environmental Commitment Aligned with Business Strategy
+34  Promoting Inclusive Growth
+ HFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 32STRATEGY
+AND FOCUS
+Our
+ESG/CSRINTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATION ESG/CSRFINANCIAL
+HIGHLIGHTS
+=== page 34 ===
+HFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 33STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATION ESG/CSRFINANCIAL
+HIGHLIGHTS
+Environmental Commitment Aligned 
+with Business Strategy
+HFCL has emphasized the adoption of advanced, energy -efficient, and environmentally sustainable 
+technologies and processes to reduce its carbon footprint.
+Further, HFCL has submitted its near -term 
+decarbonization roadmap to the Science Based 
+Targets initiative (SBTi) for validation, committing to reduce its Scope 1 and Scope 2 emissions by approximately 42% and its Scope 3 emissions by approximately 25% by FY 2030– 31.
+ALIGNING ESG REPORTING  (VOLUNTARY)Aligning ESG 
+Reporting (Regulatory)BRSR Framework –SEBI  & GRI
+40%COMMITTED FOR  GREEN ENERGY TRANSITION 
+INCLUDING SOLAR AT GOA PLANT
+1 MW SOLAR TRANSITION AT HYDERABAD PLANT
+CREDIT RATINGS
+EcoVadis
+(JAN 2026)
+SCORE: 
+50/100 (Average)CDP 
+(JAN 2026)
+SCORE: C  AwarenessCFC Finlease  
+(OCT 2025)
+SCORE: 
+73/100 (Good)SCORE: 
+65/100 (Strong)
+Achievement: 
+HFCL has been awarded 
+bronze medal DJSI
+(JAN 2026)
+SES 
+(MAR 2025)
+SCORE: 
+70/100 (Strong)NSE 
+Sustainability  
+(APRIL 2026)CRISIL ESG 
+(SEPT 2025)
+SCORE: 
+55/100 (Adequate)ESG Risks
+(MAR 2026)
+SCORE: 
+70.9 /100 (Strong)SCORE: 
+70/100 (Aspiring)
+=== page 35 ===
+HFCL LIMITED | INVESTOR PRESENTATION 2026 APPENDIX 34STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATION ESG/CSRFINANCIAL
+HIGHLIGHTS
+Promoting 
+Inclusive Growth
+CUMULATIVE IMPACT
+55
+TOTAL CSR SPEND
+(₹ IN CRORE)1 Mn+
+BENEFICIARIES 
+IMPACTED
+FY 2025- 26
+~7
+SPEND
+(₹ IN CRORE)1.2 Lac+
+LIVES 
+TOUCHED
+=== page 36 ===
+//CHAPTER 07
+36 Board of Directors
+37-38 Management Team 
+39 Shareholders Information
+40 Abbreviations / Description 
+41-46 Market Opportunity - Telecom and Networking
+47 Market Opportunity - DefenceAppendixHFCL LIMITED | INVESTOR PRESENTATION 2026 35STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+=== page 37 ===
+Board of Directors
+MAHENDRA NAHATA
+PROMOTER AND 
+MANAGING DIRECTOR
+B.Com  Hons. From St Xavier’s 
+College, Kolkata. The founder 
+of HFCL with a rich 4 decades of expertise in telecom sector. 
+He has been awarded as the 
+"Telecom Man of the 
+Millennium" by Voice & Data.
+HFCL LIMITED | INVESTOR PRESENTATION 2026 36STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+AJAI KUMAR
+INDEPENDENT DIRECTOR
+Law graduate with Masters in 
+Physics. Served as Ex -CMD of 
+Corporation Bank.
+Has 4 decades of expertise in IT, banking and risk management. Anil Shah
+INDEPENDENT DIRECTOR
+A Chartered Accountant, 
+Company Secretary, Advocate 
+and Solicitor of England and WalesHas 4 decades experience in 
+capital markets, legal and 
+regulatory affairsFormer Joint Secretary of BSE 
+Ltd
+BELA BANERJEE
+INDEPENDENT DIRECTOR
+Postgraduate from 
+BHU and Law from Delhi 
+University. Has 3 decades of 
+vast experience in Ministry of Railways and Ministry 
+of HRD.ARVIND KHARABANDA
+NON -EXECUTIVE DIRECTOR
+A Chartered Accountant. 
+Has 4 decades of experience 
+in marketing, project 
+appraisal, strategy, planning. Dr. RANJEET MAL 
+KASTIA 
+NON -EXECUTIVE DIRECTOR
+PH.D in Chemistry.
+Has several decades of 
+leadership experience in 
+manufacturing. Served as Executive Director of Modern 
+Insulators Ltd. and Willard India 
+Ltd
+
+=== page 38 ===
+Management Team
+RAJESH JAIN 
+Executive President (Telecom EPC Projects)
+MBA. Over 2 decades experience in heading 
+business verticals including EPC and O&M JITENDRA SINGH CHAUDHARY 
+Executive President (Communications)
+B.E. Over 2 decades experience in 
+sales, marketing, business development and product managementHARSHWARDHAN PAGAY 
+Executive President (OFC)
+B.Tech, MBA. Over 2 
+decades experience in OFC and OF manufacturingVIJAY RAJ JAIN 
+Group Chief Financial Officer
+CA, CS. Over 3 decades experience in 
+financial strategy, fund raising and fund managementSAMPATHKUMARAN S.T.
+Executive President – Defence Business
+PGDM. Over 3 decades experience in Business Development and Operations in Aerospace and Defence
+SUNIL KULSHRESHTHA
+Executive President (Turnkey Projects)
+MA in Economics. experience in large scale 
+projects including Jio’s optical fiber cableDEVENDER KUMAR 
+Executive President (Project Delivery)
+B.E. Over 3 decades experience 
+in heading telecom service delivery and project managementJAYANTA DEY
+Executive President (5G Business)
+MBA. Over 3 decades experience 
+in high -tech sector with focus on innovation 
+and new technologies
+HFCL LIMITED | INVESTOR PRESENTATION 2026 37STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+=== page 39 ===
+Management Team
+JOCHEN ARMS 
+Vice President, Sales (HFCL BV, 
+Netherlands)
+M.A. Senior leadership experience in heading 
+Telecom companiesSANJAY VITHALRAO JORAPUR
+President – (Human Resources)
+B.E., MBA. Over 2 decades experience in 
+leading HR for IT and Telecom sectors.NEELU CHANDRA
+President (CSR)
+M.Sc  and M.Ed  and has experience in various 
+fields. Leads HFCL’s Spark program.MANOJ BAID 
+President & Company SecretaryB.Com , CS. Over 3 decades experience in 
+complianceSUNIL KUMAR PANDEY 
+Chief Information Officer
+MCA, PGDBA. Over 2 decades experience in  
+driving digital transformation in large, complex, and global organizations
+GS NAIDU
+COO, HTL Ltd (subsidiary)
+Has an experience of 40 years in managing and 
+heading Greenfield & Expansion projects, Manufacturing Operations, and Business Management
+JEFF FRANKENFIELD
+VP and Head of Sales –  North America
+Experience of 25 years in Telecom industry and has held leadership roles in international companies.
+HFCL LIMITED | INVESTOR PRESENTATION 2026 38STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+Amit Agarwal
+VP and Head  –  Investor Relation
+Has over 18 years e xperience  in Finance, 
+Strategy & Investor Relations
+
+=== page 40 ===
+Shareholders Information
+28.3%
+8.6%
+7.1%56.0%
+Promoter DII/MF FII's & FPI's OthersSHARE INFORMATION (AS ON MARCH 31, 2026)
+NSE TICKER HFCL
+BSE TICKER 500183
+MARKET CAP (₹ CRORES) 10,394 
+% FREE -FLOAT 71.69%
+FREE -FLOAT MARKET CAP (₹ CRORES) 7,451
+SHARES OUTSTANDING 1,53,06,02,463
+3M ADTV (SHARES) 2,16,80,480
+3M ADTV (₹ CRORES) 149.99
+INDUSTRY Telecommunications – Equipment  
+& SolutionsHFCL LIMITED | INVESTOR PRESENTATION 2026 39STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+SHAREHOLDING AS ON MARCH 31, 2026
+=== page 41 ===
+Abbreviations / Description 
+ABBREVIATION DESCRIPTION
+ARP Aramid Reinforced Plastic
+CAGR Compounded Annual Growth Rate 
+CPE Consumer Premises Equipment
+DC Data Centers
+MFKM Million Fiber kilometres
+FRP Fiber Reinforced Plastic 
+FTTH Fiber To The Home
+FWA Fixed Wireless Access
+IGFR Impregnated Glass Fiber Reinforcement 
+HASPL* HFCL Advance Systems Private Limited
+IBR Intermittent Bonded Ribbon Cable
+MMHG Multi -Mode Hand Grenades
+MPLS Multi -Protocol Label Switching
+O&M Operating & Maintenance
+OFC Optical Fiber Cable
+PtMP Point to Multipoint
+PtP Point to Point
+TWS Thermal Weapon Sight
+UBR Unlicensed Band RadioHFCL LIMITED | INVESTOR PRESENTATION 2026 40STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+*On 25 March  2026,  the Company  signed  an MoU  to acquire  the aerospace  business  , which  has  a confirmed  export -oriented  order book  of approximately  INR  1,930 crore,  
+providing  immediate  defence revenue  visibility . The  core  objective  of this  proposed  transaction  is to create  a focused  and  scalable  and  future  ready  defence and  aerospace  
+platform  by consolidating  complementary  defence capabilities under  HASPL,  a wholly  owned  subsidiary  of the Company .
+=== page 42 ===
+MARKET OPPORTUNITY-  
+Telecom and Networking (1/6)HFCL LIMITED | INVESTOR PRESENTATION 2026 41STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+GROWTH DRIVERS
+•5G network densification and FTTx  rollouts, to both suburban and rural 
+areas 
+•AI and cloud data center interconnects which require ultra -low-loss and 
+ribbon- based fiber cables
+•Major defence  and critical infrastructure initiatives spanning North 
+America, Europe, India, and the Middle East.
+•Large submarine and cross -border cable initiatives —including 
+SEA-ME-WE 6 and IAX/IGG —are significantly expanding intercontinental 
+bandwidth capacity.OPTICAL FIBRE CABLES
+HFCL’S COMPETITIVE EDGE
+•Comprehensive range of OFC
+•High -performance, low -attenuation and specialized fiber designs 
+•Has commercially deployed ultra -high-density ribbon cables up to 3,456F 
+for hyperscalers  
+•Proven execution in nation- wide OFC deployments, including large -scale 
+telecom, oil & gas and government broadband projects
+Global OFC & 
+Accessories Opportunity 
+(USD IN BILLION)
+21.535.5
+FY25FY327.4%  CAGRIndia OFC & Accessories 
+Opportunity 
+(USD IN BILLION)
+1.42.7
+FY25FY3210.1%  CAGR
+Source: Feedback Report
+=== page 43 ===
+MARKET OPPORTUNITY-  
+Telecom and Networking (2/6)HFCL LIMITED | INVESTOR PRESENTATION 2026 42STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+GROWTH DRIVERS
+•Gen AI clients’ requirement of large scale inter processor communication 
+in an extremely short time span 
+•Hyperscalers  and data centers require ultra high speed  ports
+•Global 5G deployment means lower latency is required for connectivity
+•IoT and industrial applications necessitate switch network upgrade
+•Strong emphasis on digital infrastructure modernizationSWITCHES
+HFCL’S COMPETITIVE EDGE
+•Built in India with Next -Generation Features Optimized for scalable, 
+global Telecom Demand
+•Improved energy savings and compliance with IEEE standardGlobal Switches Market 
+Opportunity  
+(USD IN BILLION)
+44.765.0
+FY25FY325.5%  CAGRIndia Switches Market 
+Opportunity 
+(USD IN BILLION)
+8601,600
+FY25FY329.3%  CAGR
+Source: Feedback Report
+=== page 44 ===
+MARKET OPPORTUNITY-  
+Telecom and Networking (3/6)HFCL LIMITED | INVESTOR PRESENTATION 2026 43STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+GROWTH DRIVERS
+•Buildout of 5G transportation network and extension of fiber for mobile 
+towers
+•Integration of routers with cloud -native management and virtualized 
+network functions 
+•Newer routers are adept at reducing complexity in today’s large scale networks
+•Next gen routers now integrate telemetry and AI/ML, allowing them to 
+self-heal and continuously optimize network performanceROUTERS
+HFCL’S COMPETITIVE EDGE
+•Made- in-India, 5G -ready routers with IP/MPLS capability
+•Designed for scalable, cloud -native telecom networks
+•Backed by strong EPC execution and integration expertiseGlobal Routers Market 
+Opportunity 
+(USD IN BILLION)
+13.417.0
+FY25FY323.4%  CAGRIndia Routers Market 
+Opportunity 
+(USD IN MILLION)
+410650
+FY25FY326.8%  CAGR
+Source: Feedback Report
+=== page 45 ===
+WI-FIMARKET OPPORTUNITY-  
+Telecom and Networking (4/6)HFCL LIMITED | INVESTOR PRESENTATION 2026 44STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+GROWTH DRIVERS
+•Rapid adoption of Wi -Fi 6 and Wi- Fi 6E, with Wi- fi 7 entering commercial 
+deployment
+•Cloud -managed WLAN growing faster than the overall Wi -fi market
+•Integration of enterprise Wi -Fi with SD -WAN and SD -Branch solutions 
+simplifying branch connectivity
+•Growing use of AI/ML -based network optimization driving upgrades to 
+newer Wi -Fi systems
+•Strong growth in outdoor Wi -Fi deployments for campuses, industrial 
+sites, transit hubs and smart cities
+HFCL’S COMPETITIVE EDGE
+•Comprehensive range of Made -in-India Wi -Fi portfolio
+•Optimized for High -Density & Mission- Critical Environments  
+•Interoperability with SD -WAN and Enterprise Networks Global Enterprise 
+Wi-fi Market Opportunity
+(USD IN BILLION)
+9.715.0
+FY25FY326.4%  CAGRIndia Enterprise 
+Wi-fi Market Opportunity 
+(USD IN MILLION)
+205400
+FY25FY3210.0%  CAGR
+Source: Feedback Report
+
+=== page 46 ===
+MARKET OPPORTUNITY-  
+Telecom and Networking (5/6)HFCL LIMITED | INVESTOR PRESENTATION 2026 45STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+GROWTH DRIVERS
+•Surging demand for broadband connectivity, particularly in areas where 
+wired fiber deployment is limited
+•FWA positioned as a key solution to bridge India’s broadband gap
+•Ability to deliver fiber -like internet speeds through C -band and mmWave  
+deployments
+•Expansion of spectrum availability, including C -band, enabling higher 
+throughput and improved performanceFIXED WIRELESS ACCESS (FWA)
+HFCL’S COMPETITIVE EDGE
+•Made- in-India, 5G -Ready FWA Solutions 
+•Optimised  for Large -Scale Broadband Rollouts 
+•Support for C -Band and mmWave  Deployments 
+•Interoperability with Core Telecom InfrastructureGlobal Fixed Wireless 
+Access  Market Opportunity 
+(USD IN BILLION)
+8.520.0
+FY25FY3221.9%  CAGRIndia Fixed Wireless Access  
+Market Opportunity 
+(USD IN MILLION)
+4601,000
+FY25FY3211.7%  CAGR
+Source: Feedback Report
+=== page 47 ===
+MARKET OPPORTUNITY-  
+Telecom and Networking (6/6)HFCL LIMITED | INVESTOR PRESENTATION 2026 46STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+GROWTH DRIVERS
+•Complements BharatNet  fiber in difficult terrains
+•Rising demand for Wi -Fi hotspots in Urban areas for capacity expansion 
+beyond licensed spectrum
+•Smart Cities & IoT deployment driving demand for resilient unlicensed 
+backhaul UNLICENSED BAND RADIO (UBR)
+HFCL’S COMPETITIVE EDGE
+•Comprehensive PtP and PtMP  Portfolio
+•Advanced Radio Technology for Reliable Performance 
+•Fast Deployment with Lower Total Cost of Ownership (TCO)
+•Rugged, Carrier -Grade Design IP67 -rated outdoor unitsGLOBAL MARKET 
+VALUED AT USD 750 MILLION GROWING AT 3% CAGR 
+HFCL’s Addressable Market in 
+P2MP segment is ~USD 270 million, and ~USD 140 million in P2P segment.
+Source: Feedback Report
+=== page 48 ===
+MARKET OPPORTUNITY-  
+DefenceHFCL LIMITED | INVESTOR PRESENTATION 2026 47STRATEGY
+AND FOCUS INTRODUCTIONOPPORTUNITY
+SIZEOUR
+ASPIRATIONFINANCIAL
+HIGHLIGHTS APPENDIX ESG/CSR
+OPPORTUNITY - 
+FUZES, EO AND EWPRODUCT TAM
+(IN USD BILLION )GROWTH DRIVERS HFCL’S COMPETITIVE EDGE
+GLOBAL DEFENCE 
+SPEND 726.4•Geopolitical conflicts driving 
+re-armament
+•NATO countries increasing spend to >2% of GDP
+•Accelerated military modernisation and digital warfare•Indigenously designed, combat -ready products
+•Own IPR ; DRDO tech licensing 
+& ToT accelerates development 
+timelines
+•NATO listed supplier
+•Dedicated defence 
+manufacturing facility (~1,000 acres in Andhra Pradesh) being set up for greater scaleINDIA DEFENCE 
+MODERNISATION & INDIGENISATION
+40.5•Defence capex USD 23.5 Bn 
+(FY27E), scaling to USD 40 Bn by FY32
+**
+•75% capital budget earmarked for domestic procurement 
+•25% defence R&D budget reserved for private industry
+Source: Feedback Report dated Sep’25​  |  ** Press Release Page | Press Information Bureau ​
+=== page 49 ===
+Thank You
+HFCL LIMITED
+AMIT AGARWAL 
+HEAD – INVESTOR 
+RELATIONS HFCL Limited 
+Tel: +91 -11-3520 9400 
+Email: ir@hfcl.comCORPORATE OFFICE  
+8, Commercial Complex, 
+Masjid Moth, Greater 
+Kailash Part 2, New Delhi, 
+Delhi - 110048
