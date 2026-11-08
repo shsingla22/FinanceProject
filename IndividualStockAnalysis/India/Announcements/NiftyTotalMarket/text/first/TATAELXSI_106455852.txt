@@ -1,0 +1,98 @@
+ 
+ November  27, 2025  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+Dear Sir s/Madam , 
+ 
+Sub: Press Release - “Tata Elxsi’s xG -Force Lab and Druid Software Expand the Enterprise 5G 
+Ecosystem ”  
+ 
+Please find enclosed the Press Release date d November 27, 2025, titled  “Tata Elxsi’s xG -Force Lab and 
+Druid Software Expand the Enterprise 5G Ecosystem .” 
+ 
+This disclosure is made in compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015.  
+ This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Sneha V  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+Tata Elxsi’s xG-Force Lab and Druid Software Expand the 
+Enterprise 5G Ecosystem  
+Integrated 4G/5G Core, IMS to accelerate enterprise adoption of secure, scalable private networks  
+Bangalore, India, November 27, 2025 – Tata Elxsi, a global leader in design and technology services, 
+today announced a strategic partnership with Druid Software, a global lead er in cellular network 
+technology . This collaboration brings together end -to-end expertise in 5G networks, offering 
+enterprises a powerful ecosystem to accelerate digital transformation through  xG-Force , Tata Elxsi’s 
+Lab-as-a-Service (LaaS) platform.  
+Built on open 3GPP standards, Druid’s Raemis ™ private cellular core combines 4G & 5G core network 
+functionality  in a single consolidated solution offering customers an easy migration path from 4G to 
+5G technology. In addition, Raemis supports mission -critical services such as VoLTE, VoNR, and 
+advanced multimedia applications  through its fully integrate d IMS architecture . 
+As part of xG -Force lab's continuing journey in building the ecosystem that brings the best together 
+for Tata Elxsi’s customers , enterprises and CSPs can validate, test, and deploy these integrated 4G/5G 
+solutions  at scale, reducing tim e-to-market while ensuring performance, reliability, and security. It 
+addresses critical use cases across industries such as manufacturing, logistics, utilities, healthcare, 
+transportation, and smart campuses.  
+Through xG-Force LaaS , Tata Elxsi will develop and integrate 5G applications with its innovative 
+platforms —Neuron for autonomous networks, TETHER for connected vehicles, TEngage for digital 
+health, and TEDAx for big data engineering —to bring solutions in AI, next -gen communications and 
+advanced  technologies.  
+At the heart of the solution is Druid’s field -tested mature Raemis ™ core network  platform  which can 
+be deployed as a completely standalone 4G/5G core network  at any critical location requiring  secure, 
+high -quality, private wireless coverage.  With its built -in IMS layer, Raemis enables high -quality voice 
+services and can be integrated via standard interfaces to MCC platforms supporting PTT, broadcast 
+messaging and other advanced features. Beyond its flexible deployment options  and multimedia 
+capabilities , Raemis offers ease of installation & provisioning as well as centralized control.  
+The joint solution enables enterprises to unlock Industry 4.0 applications  including automotive , 
+healthcare , IoT, AR/VR, digital twin, and mission -critical comm unications with guaranteed Quality of 
+Service (QoS).  
+ 
+ 
+ 
+ 
+ 
+“With Lab -as-a-Service, Tata Elxsi is enabling enterprises to de -risk and accelerate their 5G journey by 
+testing, validating, and deploying future -ready networks . “Our collaboration with Druid  Software  
+ensures enterprises get the best of 5G core and IMS in an integrated, standards -compliant 
+environment, ” said Priya S. Kumar — Head, Media & Communications, Tata Elxsi . 
+“By combining our mature multigenerational 4G/5G core platform , with a built-in IMS layer , and Tata 
+Elxsi’s Lab -as-a-Service, enterprises gain the confidence to deploy next -generation connectivity 
+tailored for their most demanding use cases,”  said Sumit Gehani, VP of Sales,  Druid Software.  
+About Tata Elxsi  
+Tata Elxsi is a global design and technology services company that helps customers across 
+automotive, consumer electronics, healthcare, media and telecom industries, reimagine their 
+products and services through design thinking and the application of digit al technologies. Tata Elxsi 
+brings together industry -leading solutions and platforms and deep domain capabilities in 5G network 
+design, automation, orchestration and digital engineering for global telcos and enterprises. 
+Customers can leverage the 5G A3 In novation Lab in Bangalore as a use case foundry for 
+Applications, Automation and AI in 5G networks. visit www.tataelxsi.com  
+Media Contact:  
+Tata Elxsi  
+Hari Balan/Ayushi Moudgil  
+Corporate Communications  
+Email:  media@tataelxsi.com  
+About Druid Software   
+Druid Software is a core cellular network software company based in Ireland. Founded in 2000, Druid 
+has evolved into a glo bal leader in private cellular network solutions for enterprise and public safety. 
+Druid’s Raemis™ platform is a mature 4G/5G core network platform, with unique features designed 
+for business -critical communications. Druid’s technology enables organization s to build and manage 
+their own secure, reliable, and high -performance private networks.  
+Media Contact : 
+Tadhg Kenny, Head of Marketing  
+Email : enquiries@druidsoftware.com  

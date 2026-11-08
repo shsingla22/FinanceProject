@@ -1,0 +1,146 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+    November  24, 2025 
+  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001  
+BSE Scrip code – 532541  
+Equity ISIN INE591G010 25 
+ 
+  
+The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Symbol  – COFORGE  
+ 
+Dear Sir/Madam,  
+  
+Subject: Coforge Unveils Forge -X, an Integrated Engineering and Delivery Platform to Revolutionize 
+AI-Driven Software Delivery at Scale  
+ 
+ 
+Pursuan t to applicable provision s of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 
+2015,  as amended, please find enclosed copy of the p ress release  of the Company  announc ing the launch of 
+Forge -X, an Integrated Engineering and Delivery Platform to Revolutionize AI -Driven Software Delivery at 
+Scale .  
+ 
+We request you to take the above on record . 
+ 
+For Coforge Limited  
+  
+  
+  
+Barkha Sharma  
+Company Secretary & Compliance Officer  
+ 
+ 
+Encl .: As above  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+ 
+Coforge Unveils Forge -X, an Integrated Engineering and Delivery Platform to Revolutionize AI -Driven 
+Software Delivery at Scale  
+ 
+Greater Noida, India, November 24, 2025 : Coforge Limited  (NSE: COFORGE), a global digital services and 
+solutions provider, announced the launch of  Forge -X, an integrated engineering and delivery platform, purpose -
+built on Agentic AI principles that completely transforms how software is delivered. This comprehensive 
+platform harnesses autonomous AI agents, that draw on Coforge’s deep engineering expertise and use  contextual 
+decision making based on the firm’s industry domain depth to deliver complex technology transformations at 
+scale. Conceptualized and designed by Coforge’s Advanced Engineering Services Unit Forge -X is built on the 
+foundation of an AI -native app roach that spans across the Software Development Life Cycle (SDLC) and 
+Product Development Life Cycle (PDLC). With a mission to deliver future -ready digital platforms for clients at 
+scale with faster time -to-market, improved resiliency and optimized engine ering costs; Forge -X ensures 
+precision, agility, and industrialization across product development initiatives.  
+ 
+Forge -X is the backbone of Coforge’s AI -native software development, enabling intelligent delivery at scale 
+through a tightly integrated ecosystem of tools, agentic assistants, and collaborative platforms. It orchestrates 
+development teams across geographi es, leverages specialized domain knowledge, and connects seamlessly with 
+third -party systems —such as Jira, LeanIX, Ardoq, and ServiceNow. With agents supporting every role —from 
+product owners to architects to developers, testers, and operations —Forge -X ens ures that every phase of the 
+software development lifecycle is context -aware, automated, and optimized for speed, quality, and business 
+alignment.  
+ 
+The Coforge Forge -X platform is anchored on three strategic pillars. Firstly, the platform embeds the firm’s 
+deep domain expertise into its engineering fabric to ensure that engineering decisions are informed by domain 
+semantics, tool functions with contex tual awareness, and deliverables are aligned with both business and 
+technical expectations. Secondly, the team has developed a suite of specialized AI agents that are purpose -built 
+to address specific engineering challenges. The agents are continuously ref ined through real -world project 
+feedback and are designed to deliver incremental intelligence, enhance productivity and agile optimization. And 
+thirdly, the platform is equipped with a comprehensive suite of industrial -grade tools and accelerators that are  
+tailored to specific engineering functions.  
+ 
+These tools include CodeInsightAI - a GenAI -powered tool for reverse and forward engineering, that mitigates 
+risks associated with undocumented and fragmented systems, bridges the legacy skill gap through business and 
+technical insights from code, and accel erates transformation through forward engineering, BlueSwan - an AI -led 
+next-gen digital assurance & quality engineering platform, NORTHSTAR - for continuous integration and 
+delivery for end -to-end observability and EvolveOps.AI - a next generation, autonomou s IT operations 
+management platform that delivers end -to-end autonomous operations across the entire lifecycle of your hybrid 
+cloud resources – from design, build, analyze to autonomous resolution.  
+ 
+Sunil Fernandes, EVP and Chief Delivery Officer at Coforge  said, “ Coforge’s AI -native approach is not 
+confined to tools, it is a philosophy ingrained into every phase of software development. From requirements to 
+design to deployment, each stage is optimized through embedded intelligence, contextual awareness, and agenti c 
+collaboration. This is more than a methodology or an efficiency play; it is a paradigm shift where software 
+development and engineering is re -imagined, becomes faster, smarter, efficient a nd truly transformative.”  
+ 
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+ 
+He added, “Forge -X is the embodiment of our engineering -first, AI -forward mindset in our delivery operations. 
+Our four -stage framework —onboarding, enablement, scaling, and self -governance —ensures enterprises embed 
+AI sustainably into daily workflows, turni ng capability into impact. With Forge -X, we ensure that AI -native 
+software development and product development is not just a vision, it’s a lived reality across the organization 
+and for our clients.”  
+ 
+The launch of the AI native delivery platform Forge -X from Coforge reinforces its differentiated positioning — 
+a combination of  execution intensity, hyper -specialization in select industries, and advanced engineering 
+capabilities  — strengthened over recent  years through focused investments in talent, innovation, and AI -led 
+engineering  to help clients achieve sustained success in an AI -driven world.  
+ 
+About Coforge  
+Coforge is a global digital services and solutions provider, that leverages emerging technologies and deep 
+domain expertise to deliver real -world business impact for its clients. A focus on select industries, a deep domain 
+understanding of the underlying p rocesses of those industries and partnerships with leading technology 
+platforms, enables Coforge to be a trusted partner of its clients in their transformation initiatives. Coforge leads 
+with its Product Engineering approach and leverages AI, Cloud, Data, Integration and Automation technologies 
+to transform businesses into intelligent, high growth enterprises. Coforge has 33 global delivery centers and is 
+present in 25 countries.  
+Learn more at www.coforge.com  
+ 
+For media queries please contact: Santanu Bhattacharya - santanu.b@coforge.com  
+ 
+ 
