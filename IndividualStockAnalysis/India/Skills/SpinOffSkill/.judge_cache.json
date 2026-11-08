@@ -24452,25 +24452,25 @@
   }
  },
  "RKFORGE": {
-  "stamp": "efddfb094a411f69dc213d669a7853d5",
+  "stamp": "9be9763b1cdbdd2d6f68aae875833e68",
   "verdict": {
-   "what_is_spun": "Nothing spun off; two wholly owned subsidiaries amalgamated into another wholly owned subsidiary, Ramkrishna Casting Solutions Limited",
+   "what_is_spun": "Nothing is spun off; the scheme amalgamates two wholly owned subsidiaries into another wholly owned subsidiary",
    "demerged_business_names": [
-    "Mal Metalliks Private Limited (MMPL) - Transferor Company No. 1",
-    "Multitech Auto Private Limited (MAPL) - Transferor Company No. 2",
-    "Ramkrishna Casting Solutions Limited (RKCSL/RCSL, formerly JMT Auto Limited) - Transferee Company"
+    "Mal Metalliks Private Limited (Transferor Company No. 1)",
+    "Multitech Auto Private Limited (Transferor Company No. 2)",
+    "Ramkrishna Casting Solutions Limited (formerly JMT Auto Limited) (Transferee Company)"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "Not stated for the transferee; all three companies are wholly owned subsidiaries of Ramkrishna Forgings, no shares issued. Promoter incentives appear only as RKFL warrants to Riddhi Portfolio and Chaitanya Jalan.",
-   "hidden_value": "No separation of value; casting operations consolidated. Consequent to the amalgamation current tax provision/deferred tax was recomputed after considering carried forward losses and unabsorbed depreciation, as the earlier ACIL merger produced a Rs. 18,737.28 lakhs deferred tax asset.",
+   "insiders": "No new entity or insider stake disclosed; transferee is a wholly owned subsidiary. Promoter group 43.13% pre-issue, 44.47% post warrant conversion; promoters infused Rs. 150 crore.",
+   "hidden_value": "No separation value revealed. The amalgamation lets current tax/deferred tax be recomputed using carried-forward losses and unabsorbed depreciation; long-term borrowings Rs. 1,478.21 crore against net worth Rs. 3,274.78 crore.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new listed shares; both transferors dissolved without winding up into an unlisted wholly owned subsidiary of RKFL.",
+   "selling_pressure_why": "No shares issued to public; transferors were wholly owned and stand dissolved without winding up, so no new stock distributed.",
    "parent_or_spin": "parent",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "No listing stated; per the 26 March 2026 filing, the certified NCLT order was filed on March 25, 2026, 'the Scheme has become effective from March 25, 2026', Appointed Date January 01, 2024, and the transferors stand dissolved",
-   "read_next": "The February 28, 2026 intimation and NCLT Kolkata order of February 27, 2026 sanctioning the Scheme; RKCSL standalone financials",
-   "quote": "Consequent to the Scheme becoming effective, both Transferor Company No.1 and Transferor Company No. 2 stands dissolved without winding up and ceased to the subsidiaries of the Company, with effect from March 25, 2026."
+   "option_pricing_date": "14 January 2026 (34,00,000 warrants at Rs. 588 each to promoter Mr. Chaitanya Jalan); earlier 14 August 2025 at Rs. 2,100 each to Riddhi Portfolio Private Limited",
+   "listing_timeline": "not stated \u2014 no listing contemplated; the documents state only that the Scheme became effective from March 25, 2026 (intimation dated March 26, 2026)",
+   "read_next": "The NCLT Kolkata order dated February 27, 2026 and the Scheme document itself, neither reproduced in these filings",
+   "quote": "Consequent to the Scheme becoming effective, both Transferor Company  No.1 and Transferor Company No. 2 stands dissolved without winding up and ceased to the subsidiaries of the Company, with ef fect from March 25, 2026 ."
   }
  },
  "SCI": {
@@ -30991,26 +30991,26 @@
   }
  },
  "BOSCHLTD": {
-  "stamp": "c8cbe7bed72435989876c8325068d5d0",
+  "stamp": "25e336a16e06d78cb96fe2862616e707",
   "verdict": {
-   "what_is_spun": "No demerger disclosed; Bosch instead sold its Video solutions, Access and Intrusions and Communication systems business to Keenfinity India",
+   "what_is_spun": "No demerger stated; documents describe sale of the \"Video solutions, Access and Intrusions and Communication systems\" business",
    "demerged_business_names": [
-    "\"Video solutions, Access and Intrusions and Communication systems\" Business",
+    "Video solutions, Access and Intrusions and Communication systems",
     "Specified Business",
     "Building Technologies segment",
-    "Keenfinity India Private Limited (purchaser)"
+    "Keenfinity India Private Limited (the Purchaser)"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "No new entity. Promoter group holds 70.54% of Bosch Limited; 2,460 shares issued to Robert Bosch Investment Nederland B.V. and Robert Bosch LLC, locked in to 30-Jan-2028",
-   "hidden_value": "Sale consideration MioINR 5,950 produced a MioINR 5,560 exceptional gain, and did not qualify as a separate major line of business under Ind AS 105 \u2014 a near-fully-written-down non-core unit inside a cash-rich parent",
+   "insiders": "Not stated for the transferred business; purchaser Keenfinity is not described as a related party. Promoter Robert Bosch GmbH holds 70.54% of Bosch Limited (pre- and post-preferential issue).",
+   "hidden_value": "Consideration of Mio INR 5,950 produced a Mio INR 5,560 exceptional gain, implying near-zero carrying value. It \"did not qualify as a separate major line of business\" under Ind AS 105, so it was immaterial beside the automotive core.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "Cash business transfer to Keenfinity India; no shares distributed, no new listed entity, no index event",
+   "selling_pressure_why": "Cash sale to a third-party purchaser; no shares distributed to Bosch Limited shareholders, so no new listed security can face forced selling.",
    "parent_or_spin": "parent",
-   "option_pricing_date": "not stated (the preferential-issue Relevant Date was April 8, 2026)",
-   "listing_timeline": "not stated for any demerged entity; the 2,460 preferential shares were \"listed and admitted to dealings on the Exchange from July 20, 2026\" per exchange letters dated July 17, 2026",
-   "read_next": "Q2 FY27 consolidated results \u2014 first period consolidating RBIC (wholly owned from July 01, 2026) and the MioINR 90,238 cash outflow",
-   "quote": "As part of realignment of group corporate structure in India, the proposed transaction involves acquisition of Bosch Chassis Systems India Private Limited (\"RBIC\") which is the vehicle motion business under Bosch Limited."
+   "option_pricing_date": "not stated",
+   "listing_timeline": "not stated \u2014 no listing of the transferred business is mentioned; the transfer \"was completed on May 01, 2025\" (per notes dated August 10, 2026)",
+   "read_next": "FY2025-26 annual report note on the Keenfinity Business Transfer Agreement, including the purchase price adjustment excluded from the Mio INR 5,950 consideration.",
+   "quote": "The transfer of business was completed on May 01, 2025 and accordingly, the Company has recognised a total gain on sale of the said Specified Business in the financial results amounting to Mio INR 5,560 and the same has been disclosed as \"exceptional item\" in these unaudited standalone financial results."
   }
  },
  "BLS::rationale": {
@@ -31288,28 +31288,28 @@
   }
  },
  "CASTROLIND": {
-  "stamp": "3d6c9ae3ce80748ebd7a0b8d5041c30b",
+  "stamp": "566a64611d97f376f03f8fb84d25e1bb",
   "verdict": {
-   "what_is_spun": "BP's global Castrol lubricants business \u2014 100% of Castrol Group Holdings Limited, which indirectly owns 51% of Castrol India",
+   "what_is_spun": "BP's global Castrol lubricants business, held via Castrol Group Holdings Limited, sold to a Stonepeak-led JV",
    "demerged_business_names": [
-    "Castrol Group Holdings Limited (\"CGHL\")",
+    "Castrol Group Holdings Limited",
+    "CGHL",
     "Castrol Limited",
     "Castrol global lubricant business",
-    "Castrol India Limited (\"Target Company\")",
-    "Motion JVCo Limited (\"Acquirer\")",
-    "Stonepeak Motion Holdco Limited (\"PAC 1\")",
-    "BP Motion Holdings Limited (\"BPMH\")"
+    "Castrol India Limited (Target Company)",
+    "Motion JVCo Limited (Acquirer)",
+    "Stonepeak Motion Holdco Limited"
    ],
-   "reason": "BP announced a strategic review so as to \"accelerate Castrol's next phase of value delivery while BP retires some of its debt by giving the value of the assets called Castrol\"",
+   "reason": "BP announced a strategic review of Castrol globally to accelerate Castrol's next phase of value delivery while BP retires some of its debt by realising the value of the Castrol assets.",
    "reason_class": "value_unlocking",
-   "insiders": "Promoter Castrol Limited holds 51% (50,44,52,416 shares); post-offer Acquirer up to 77%. BP's BPMH takes 35% non-controlling equity in Motion JVCo; Stonepeak's PAC 1 holds 65% and sole control; CPPIB non-controlling",
-   "hidden_value": "Castrol India: 12th straight quarter of growth, FY25 revenue INR5,722 crores, EBITDA INR1,348 crores (~24% margin, guided band 21-24%), PAT INR950 crores, ~90% dividend payout, strong cash and no leverage disclosed; infrastructure buyers pay INR194.04 per share for 26%",
+   "insiders": "Promoter Castrol Limited holds 51% of Castrol India; after the deal BP (via BPMH) keeps 35% non-controlling in the Acquirer, Stonepeak 65% with sole control, CPPIB non-controlling.",
+   "hidden_value": "A high-quality cash compounder: 12 straight quarters of growth, FY25 revenue INR5,722 crores, EBITDA INR1,348 crores (24% margin), PAT INR950 crores, ~90% dividend payout, debt-free balance sheet, market-leading automotive share in early 20s.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No demerged entity or share distribution; cash open offer for 26% at INR194.04, and at least 25% public shareholding must be maintained",
-   "parent_or_spin": "parent",
+   "selling_pressure_why": "No new entity is distributed; existing listing continues, and the acquirer is buying up to 77%, risking a shortfall in minimum public shareholding.",
+   "parent_or_spin": "spin",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated \u2014 no new listing is described; the Equity Shares remain listed on BSE (500870) and NSE (CASTROLIND), and on 4 February 2026 management said the deal is \"subject to regulatory approval and we expect the transaction at some point to close toward the end of the year\"",
-   "read_next": "The DPS, due within 5 working days of deal completion, for the Regulation 8(12)-enhanced Offer Price",
+   "listing_timeline": "No new listing; Castrol India's shares remain listed on BSE (500870) and NSE (CASTROLIND). On 4 February 2026 management said \"we expect the transaction at some point to close toward the end of the year\", subject to regulatory approvals.",
+   "read_next": "The detailed public statement (DPS), due within 5 working days of completion, for the enhanced Offer Price under Regulation 8(12).",
    "quote": "From Castrol India standpoint, there's no change in our structure, strategy or operating model."
   }
  },
@@ -31352,23 +31352,23 @@
   }
  },
  "CGCL": {
-  "stamp": "d55cbb43ebfb59251a30c40d02ad151b",
+  "stamp": "4e61ec50b9c858dcff69e01663317e81",
   "verdict": {
-   "what_is_spun": "not stated",
+   "what_is_spun": "not stated \u2014 no demerger, spin-off or separation is described in these documents",
    "demerged_business_names": [
     "not stated"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "not stated",
-   "hidden_value": "not stated",
+   "insiders": "Rajesh Sharma is Managing Director and Promoter; promoters interested in wholly-owned subsidiary Capri Global Housing Finance Limited only to extent of shareholding; CGCL holds 100%",
+   "hidden_value": "not stated; documents show only fund-raising (Rs. 4,000 crore enabling resolution, USD 30 million bonds, borrowing limit raised to Rs. 35,000 crore) and Rs. 200 crore rights-issue subscription into the wholly-owned housing subsidiary",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "not stated",
+   "selling_pressure_why": "not stated \u2014 no separated entity, no index exclusion or size disclosed in the documents",
    "parent_or_spin": "neither",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated",
-   "read_next": "Postal ballot result on Rs. 4,000 crore fund raising, to be declared on or before November 17, 2026",
-   "quote": "The Company has been pursuing its growth and expansion plans and may require additional capital from time to time to support the growth of its existing businesses, strengthen its financial position and meet its funding requirements."
+   "listing_timeline": "not stated for any demerged entity; the documents state only that the Bonds 'are proposed to be listed on the India International Exchange IFSC Limited and/or NSE IFSC Limited' (October 19, 2026)",
+   "read_next": "Postal ballot result due on or before November 17, 2026, and any scheme of arrangement filing",
+   "quote": "The Bonds shall be issued by the Company on a private placement basis."
   }
  },
  "BOSCHLTD::rationale": {
@@ -31458,66 +31458,66 @@
   }
  },
  "BOSCHLTD::segments": {
-  "stamp": "3f380e8d38c00a745861db484e11d03f",
+  "stamp": "9cf80129ac7549f937fb4da8a09f2ddf",
   "verdict": {
-   "segment_name": "Building Technologies (BT) \u2014 \"Video solutions, Access and Intrusions and Communication systems\" business; not a separate reportable segment, subsumed within the \"Others\" segment",
+   "segment_name": "Building Technologies (BT) \u2014 i.e. the \"Video solutions, Access and Intrusions and Communication systems\" business (part of the \"Others\" reportable segment)",
    "unit": "\u20b9 million (Mio INR)",
-   "measure_notes": "No standalone revenue/profit line for the Building Technologies / 'Video solutions, Access and Intrusions and Communication systems' business is disclosed on any tagged page. Bosch Ltd's reportable segments are only 'Automotive Products', 'Consumer Goods' and 'Others'; BT sits inside 'Others' together with Industrial Technology, and the notes state these businesses do not meet the threshold for separate reporting. For reference only (NOT the divested business alone), the 'Others' segment profit line is 'Segment result' (revenue/expense based, before unallocable depreciation, unallocable corporate expenditure, unallocable income, finance costs and exceptional items; no segment PAT is disclosed): FY2024 Total Revenue 7,854 incl. inter-segment 383 / external 7,471, segment result 1,166 (AR2024 p.162 shows 7,854 and 1,166; AR2025 p.379 restates other operating revenue to 2,267); FY2025 Total Revenue 8,486 incl. inter-segment 352 / external 8,134, segment result 1,294 (AR2025 p.379); FY2026 Total Revenue 4,285 incl. inter-segment 372 / external 3,913, segment result 1,139 (AR2026 p.329) \u2014 the FY2026 fall reflects the BT disposal but the BT portion is not quantified. Qualitative only: AR2024 p.64 states BT revenue grew +26.7% YoY, Communications +24.4%, Video Systems +27.5%, with no absolute figures. FY2026 exceptional items of 5,560 (AR2026 p.329) and the Nov 2025 / Feb 2026 presentations refer to profit on sale of the BT business, but the gain attributable to it is not separately stated on these pages.",
+   "measure_notes": "No standalone revenue/profit line exists for this business on the tagged pages. BT is subsumed within the 'Others' reportable segment (industrial technology + building technology, which 'do not meet the threshold criteria for reporting as separate segments'); the only profit line disclosed for 'Others' is 'Segment result' (segment revenue less cost of materials, employee benefits, depreciation/amortisation and other expenses net of other income \u2014 i.e. an EBIT-type figure, before unallocable depreciation, unallocable corporate expenditure, unallocable income, finance costs, exceptional items and tax). Segment revenue for 'Others' is shown both as Total Revenue (including inter-segment turnover) and as External turnover. No PAT is disclosed at segment level. The MD&A gives only BT growth rates (FY2024: revenue +26.7%, Communications +24.4%, Video Systems +27.5%) with no absolute amounts.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 162 (segment note discloses only Automotive Products / Consumer Goods / Others); Annual Report 2024 \u2014 page 64 (BT described qualitatively, growth % only)"
+     "source": "Annual Report 2024 \u2014 page 64 (BT discussed in % growth only); Annual Report 2024 \u2014 page 162 ('Others' segment, not BT alone)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 379 (segment note discloses only Automotive Products / Consumer Goods / Others)"
+     "source": "Annual Report 2025 \u2014 page 379 ('Others' segment only, BT not disclosed separately)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 329 (segment note discloses only Automotive Products / Consumer Goods / Others)"
+     "source": "Annual Report 2026 \u2014 page 329 ('Others' segment only, BT not disclosed separately)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Nov 2026 \u2014 page 8 (Q2 FY2026-27 figures are company-wide standalone: revenue 61,641, EBITDA 8,028, PAT 6,746 mINR; no BT/Video-Access business split); Presentation Feb 2026 \u2014 page 7 (mentions profit on sale of the business, no amount)"
+    "source": "Presentation Feb 2026 \u2014 page 7 and Presentation Nov 2026 \u2014 page 8 mention only the profit on sale of the BT business as an exceptional item, with no BT revenue or profit figures"
    },
-   "not_found": "No separate revenue, operating profit, EBITDA, PBT or PAT for the Building Technologies / Video-Access-Intrusion-Communications business in any year or quarter; only the aggregated 'Others' segment and qualitative growth percentages are disclosed."
+   "not_found": "No BT/Video-Access-Communications revenue, operating profit or PAT for any year or quarter; only 'Others' segment aggregates (industrial + building technology) and BT percentage growth rates are disclosed."
   }
  },
  "CIEINDIA": {
-  "stamp": "463f144de052979d499acae8dcc932ba",
+  "stamp": "b642cf2f19204799636a4fb42c80fead",
   "verdict": {
-   "what_is_spun": "Nothing separated; CIE Aluminium Casting India's aluminium die-casting business is absorbed into the listed parent",
+   "what_is_spun": "Nothing is spun off; wholly owned subsidiary CIE Aluminium Casting India (aluminium die-casting) is absorbed into the listed parent",
    "demerged_business_names": [
     "CIE Aluminium Casting India Limited",
     "CIEALCAST",
     "CACIL",
     "Transferor Company",
     "aluminium die casting components",
-    "automobiles and brakes system components"
+    "aluminium and brakes system components"
    ],
-   "reason": "Increased operational efficiencies, economies of scale and synergetic integration: production and marketing synergies, cross-selling across OEM relationships, organisational efficiencies, stronger financial position, elimination of inter-company outstandings/transactions",
+   "reason": "Production and marketing synergies, cross-selling across OEM relationships, organisational and operating efficiencies, stronger financial position, elimination of inter-company outstanding/transactions; increased operational efficiencies and economies of scale",
    "reason_class": "regulatory_strategic",
-   "insiders": "No shares issued; CIEALCAST's entire share capital held by the Company stands cancelled; no change in shareholding pattern; promoter stake and incentives not stated",
-   "hidden_value": "CIEALCAST earned INR 11,728 million turnover and INR 948 million PAT in CY2025 on net worth of Rs 325.83 crore; parent net worth rises from Rs 4,375.28 crore to Rs 4,469.50 crore post-merger",
+   "insiders": "No new shares issued; transferor's capital cancelled; no change in the Company's shareholding pattern; promoter/promoter group have no other interest in the entity",
+   "hidden_value": "CIEALCAST earned INR 948 Mn PAT on INR 11,728 Mn turnover with Rs 325.83 crore net worth; parent net worth rises to Rs 4,469 crore and net financial debt is negative INR 18.8 billion",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new shares issued, no capital reorganisation, no change in shareholding pattern or index membership",
+   "selling_pressure_why": "No new shares, no listing of a new entity, no change in shareholding pattern or capital structure",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
    "listing_timeline": "not stated",
-   "read_next": "NCLT final sanction order and Effective Date; CIEALCAST standalone financials folded into CIEINDIA standalone results from Appointed Date 01.04.2026",
-   "quote": "This Scheme seeks to amalgamate and consolidate the business of CIE Aluminium Casting India Limited with that of CIE Automotive India Limited."
+   "read_next": "The Scheme on cie-india.com/documents-and-disclosure.html#Schemes and NCLT final sanction order; CACIL's INR 11,728 Mn turnover, INR 948 Mn PAT",
+   "quote": "Since, CIEALCAST is a wholly owned subsidiary of the Company, no shares will be issued as consideration for the amalgamation and the entire issued share capital of the Transferor Company held by the Transferee Company shall be cancelled."
   }
  },
  "CASTROLIND::rationale": {
@@ -31658,79 +31658,79 @@
   }
  },
  "CGCL::segments": {
-  "stamp": "1397f72976b62dc3f9d1be5fbeb4a4f6",
+  "stamp": "212f8cbf5a9c587b611e4b28d6ad3286",
   "verdict": {
-   "segment_name": "not stated",
-   "unit": "\u20b9 million",
-   "measure_notes": "No segment profit line exists in the provided pages. Both standalone and consolidated Note 42 'Segment reporting (Ind AS 108)' state the Company/Group operates in a single business segment (fund based financing activity) with no separate reportable segments, so no segment revenue (external or inter-segment), segment result, EBIT, EBITDA or PBT is disclosed. Presentation pages carry only consolidated P&L (operating profit = net income less operating expenses, before provisions) plus segment-level AUM and loan yields \u2014 not segment revenue or profit.",
+   "segment_name": "not stated \u2014 the documents do not name or label a separate business being separated",
+   "unit": "\u20b9 millions",
+   "measure_notes": "No segment-level profit line exists. Both FY2024 and FY2025 annual reports (Standalone note 42, Consolidated note 42) state the Company/Group operates mainly in one business segment of fund based financing activity, with no separate reportable segments under Ind AS 108. All figures on the supplied pages are entity-wide: consolidated/standalone P&L and balance sheet, where 'Operating profit' = net income (NII + non-interest income) less operating expenses, before provisions and tax, and PAT is after tax. The only business-line disclosures are single income lines within consolidated non-interest income \u2014 'Net Car Loan Fee' (FY24 1,075; FY25 963; FY26 943; Q1FY27 321; Q2FY27 339) and 'Insurance distribution' \u2014 which are fee streams, not a separated business's own revenue, operating profit or PAT, so they are not reported as such here. Consolidated revenue is external only.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 187 (Note 42: no separate reportable segments)"
+     "source": "Annual Report 2024 \u2014 page 187 (Consolidated note 42, Segment reporting); Annual Report 2024 \u2014 page 129 (Standalone note 42)"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 317 (Note 42: no separate reportable segments)"
+     "source": "Annual Report 2025 \u2014 page 317 (Consolidated note 42, Segment reporting); Annual Report 2025 \u2014 page 203 (Standalone note 42)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Presentation Oct 2026 \u2014 page 44 (consolidated only; no segment P&L disclosed)"
+     "source": "Presentation Aug 2026 \u2014 page 58 (Consolidated Income Statement, no segment split)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Nov 2026 \u2014 page 67 (consolidated Q2FY27 only; no segment-level P&L)"
+    "source": "Presentation Nov 2026 \u2014 page 67 (Q2FY27 consolidated income statement, no segment split)"
    },
-   "not_found": "All segment revenue, operating profit and PAT for FY2024\u2013FY2026 and for the latest quarter; no separating business is named or reported separately in these pages."
+   "not_found": "Everything: the pages name no separating business and carry no segment revenue, operating profit or PAT. Only consolidated/standalone totals, AUM and yields by product are disclosed."
   }
  },
  "CASTROLIND::segments": {
-  "stamp": "eb305ebeac55728ce349dc82f0c057e2",
+  "stamp": "0bfa62fdfc62cbb0f8cca7474033ecac",
   "verdict": {
-   "segment_name": "Lubricants (single reportable segment, Castrol India Limited \u2014 the \"Target Company\" being separated from bp)",
+   "segment_name": "Lubricants \u2014 the single reportable business segment of Castrol India Limited (Target Company); the pages carry no standalone financials for Castrol Group Holdings Limited / Castrol Limited / BP's global Castrol lubricant business being separated",
    "unit": "\u20b9 crore",
-   "measure_notes": "Fiscal year is the CALENDAR year (Jan\u2013Dec), not April\u2013March: FY2024 here = year ended 31 December 2024, FY2025 = year ended 31 December 2025, FY2026 = year ending 31 December 2026 (incomplete). Company reports a single segment of 'Lubricants' under Ind AS 108, so no separate segment result/EBIT is disclosed; revenue shown is external revenue by geography (India + outside India), with no inter-segment element. Quarterly 'operating_profit' is EBITDA excluding other income, as labelled in the investor presentation; quarterly PAT is reported profit after tax.",
+   "measure_notes": "Revenue = total revenue from operations (external only; geographic split India + outside India, no inter-segment element since there is one segment). Because the Company reports a single 'Lubricants' segment under Ind AS 108, no segment result / EBIT line is disclosed in the segment note \u2014 annual operating profit is therefore absent. Fiscal year = calendar year ended 31 December (FY2024 = year ended 31-Dec-2024), not March. The only profit lines on these pages are: PAT for CY2023 (and CY2022) from the EPS note, 1H 2025 EBITDA/PAT, and 1Q EBITDA/PAT trend bars where EBITDA excludes other income.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": 5364.85,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2024 \u2014 page 180; Annual Report 2025 \u2014 page 166; Presentation May 2026 \u2014 page 22"
+     "source": "Annual Report 2024 \u2014 page 180"
     },
     {
      "fy": "FY2025",
      "revenue": 5721.5,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 166; Presentation May 2026 \u2014 page 22"
+     "source": "Annual Report 2025 \u2014 page 166"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not disclosed on supplied pages \u2014 only 1Q and 2Q 2026 data available (Presentation May 2026 \u2014 page 22; Presentation Aug 2026 \u2014 page 9)"
+     "source": "not on the tagged pages (year ends 31-Dec-2026, not yet reported)"
     }
    ],
    "latest_quarter": {
-    "period": "1Q CY2026 (Jan\u2013Mar 2026)",
+    "period": "1Q CY2026 (Jan-Mar 2026)",
     "revenue": 1545,
     "operating_profit": 329,
     "source": "Presentation May 2026 \u2014 page 22"
    },
-   "not_found": "Yearly EBITDA/segment result and PAT for CY2024 and CY2025; any CY2026 full-year figures; 2Q 2026 financials (Aug 2026 page 9 is qualitative only). CY2023 PAT 864.13 is available (AR2023 page 94)."
+   "not_found": "Any CGHL / global Castrol standalone financials; annual EBITDA or segment result; FY2024 and FY2025 PAT; FY2026 full year. Only CY2023 PAT (864.13), 1H 2025 and 1Q figures appear."
   }
  },
  "COCHINSHIP": {
@@ -31758,43 +31758,43 @@
   }
  },
  "COHANCE": {
-  "stamp": "fb7470899cf025c429045a9d11f800fd",
+  "stamp": "577ddf153ec83ea80d7b2cdef1a7e802",
   "verdict": {
-   "what_is_spun": "not stated \u2014 no business separation is described; filing covers board changes and a new ESOP",
+   "what_is_spun": "not stated \u2014 no demerger or separation of any business is described in these documents",
    "demerged_business_names": [
     "not stated"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "No new entity. Incentives: ESOP 2026 of 25,918,613 options (6.25% fully diluted); Umang Vohra appointed Chairman and Group CEO for 5 years from 1 May 2026.",
-   "hidden_value": "Not a separation. Filing reveals a leadership reset (Vivek Sharma out, Umang Vohra in) priced alongside options struck at not less than INR 325, a 2.5% discount to the 21-day average.",
+   "insiders": "ESOP 2026: 25,918,613 options, 6.25% of fully diluted capital, floor price INR 325; Umang Vohra appointed Chairman and Group CEO for 5 years from 1 May 2026.",
+   "hidden_value": "No separation disclosed. Documents instead reveal FY26 revenue INR22.68 billion down ~13%, adjusted EBITDA margin 21% vs standalone 24.6%, destocking impact INR260 crore, and a full leadership change.",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "not stated \u2014 documents describe only ESOP dilution of up to ~7.75% fully diluted over 7.5 years, no distribution of shares",
+   "selling_pressure_why": "not stated \u2014 no demerger, record date, share entitlement or index change is mentioned in the documents",
    "parent_or_spin": "neither",
-   "option_pricing_date": "27 April 2026",
+   "option_pricing_date": "27 April 2026 (average market price over the last 21 trading days prior to Board approval of ESOP 2026 on 27 April 2026)",
    "listing_timeline": "not stated",
-   "read_next": "The notice of postal ballot seeking shareholder approval for the ESOP 2026 and Mr. Vohra's appointment.",
-   "quote": "On an aggregate basis, the total dilution on account of the stock options under ESOP 2023 and the Cohance Lifesciences Limited \u2013 Employee Stock Option Plan, 2026 over a period of 7.5 (seven and a half) years, is expected to be not more than 7.75% on a fully diluted basis, which translates into ~1% dilution on an annual basis."
+   "read_next": "The postal ballot notice for ESOP 2026 and Mr. Vohra's appointment terms, plus the ESOP 2023 outstanding-grant cap.",
+   "quote": "The exercise price per option shall be decided by the Board/ Nomination and Remuneration Committee at its sole discretion as on the date of grant but shall not be less than INR 325 per share (which is a 2.5% discount to the average market price of the shares of the Company over the last 21 (twenty- one) trading days prior to the approval of ESOP 2026 by the Board on 27 April 2026)."
   }
  },
  "CPPLUS": {
-  "stamp": "59ab8011cf790446d46a46ac02aec421",
+  "stamp": "0359ed6777a54d7ad19711d7683c292e",
   "verdict": {
-   "what_is_spun": "not stated - no demerger; 'demerger/spin-off' appears only as boilerplate corporate-action adjustment language in ESOP resolutions",
+   "what_is_spun": "not stated \u2014 no demerger of any business is disclosed in these documents",
    "demerged_business_names": [
     "not stated"
    ],
-   "reason": "not stated",
+   "reason": "not stated; 'demerger' appears only in boilerplate ESOP clauses requiring fair adjustment to options on corporate actions",
    "reason_class": "not stated",
-   "insiders": "No new entity. In the parent, Aditya Khemka holds 5,31,03,690 shares, Ananmay Khemka 7,42,941, Hari Shanker Khemka 100; promoters excluded from ESOP eligibility.",
-   "hidden_value": "not stated for any separation; filings instead show parent scale-up: FY26 revenue INR4,220.8 crores, EBITDA INR579 crores, adjusted PAT INR368 crores, ~45.4% market share, FY27 guidance INR6,000-6,500 crores.",
+   "insiders": "No new entity. In the Company: Aditya Khemka holds 5,31,03,690 shares, Ananmay Khemka 7,42,941, Hari Shanker Khemka 100; ESOP cap 31,70,100 options excludes promoters",
+   "hidden_value": "No separation disclosed. Documents instead show CP PLUS at ~45.4% market share (Q3 FY26), FY26 revenue INR4,220.8 crores, adjusted PAT INR368 crores, finance cost down 27.8% after IPO debt repayment",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "not stated - no demerged entity, size, shareholding ratio or index treatment disclosed in these documents",
+   "selling_pressure_why": "not stated \u2014 no demerged entity, share allotment or index change is described in the documents",
    "parent_or_spin": "neither",
-   "option_pricing_date": "not stated - 'NRC is empowered to decide the Exercise Price at the time of Grant'; no grants made post-IPO",
-   "listing_timeline": "not stated for any demerged entity; the Company's own equity shares were 'listed on the BSE Limited and the National Stock Exchange of India Limited... with effect from August 5, 2025' (Postal Ballot Notice dated February 12, 2026)",
-   "read_next": "Postal ballot result due on or before March 31, 2026, and the pending QIP postal ballot notice for the INR1,500 crore raise",
-   "quote": "RESOLVED FURTHER THAT in case of any corporate action(s) such as rights issue, bonus issue, merger demerger, spin-off, consolidation, amalgamation and sale of division, split, change in capital structure of the Company and other restructuring  of the Company, requisite adjustments (which may include adjustments to the number of options and exercise price) shall be appropriately made by the Board (including Committee thereof), in a fair and reasonable manner in accordance with the AIL ESOP Plan 2024."
+   "option_pricing_date": "not stated \u2014 NRC decides the Exercise Price at the time of Grant",
+   "listing_timeline": "not stated for any demerged entity; the Company's own equity shares were 'listed on the BSE Limited and the National Stock Exchange of India Limited... with effect from August 5, 2025' (notice dated February 12, 2026)",
+   "read_next": "Postal ballot results due on or before March 31, 2026, and the pending \u20b91,500 crore fund-raise postal ballot notice",
+   "quote": "RESOLVED FURTHER THAT in case of any corporate action(s) such as rights issue, bonus issue, merger demerger, spin-off, consolidation, amalgamation and sale of division, split, change in capital structure of the Company and other restructuring of the Company, requisite adjustments (which may include adjustments to the number of options and exercise price) shall be appropriately made by the Board (including Committee thereof), in a fair and reasonable manner in accordance with the AIL ESOP Plan 2024."
   }
  },
  "CIEINDIA::rationale": {
@@ -31922,23 +31922,23 @@
   }
  },
  "DALBHARAT": {
-  "stamp": "ab15ccfe6e0a91832380128f936b0c2b",
+  "stamp": "4362d23787892f4ef1e4373d214a4bd9",
   "verdict": {
-   "what_is_spun": "No demerger described; documents report disposal of 25.44% equity stake in O2 Renewable Energy V Private Limited",
+   "what_is_spun": "No business demerged; DCBL sold its entire 25.44% equity stake in associate O2 Renewable Energy V Private Limited",
    "demerged_business_names": [
     "O2 Renewable Energy V Private Limited",
     "OREV"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "Documents state only that the buyers \"do not belong to the promoter/promoter group/group companies\"; no promoter or management stake in any new entity is stated.",
-   "hidden_value": "Nothing hidden revealed: the stake had \"No contribution towards turnover/revenue/income/net worth\", was never consolidated, and sold for Rs.10.82 Crore to three third parties.",
+   "insiders": "Buyers are third parties \u2014 JSW Neo Energy (12.23%), Goldman Sachs Services (4.99%), Syngene International (8.23%); none belong to promoter/promoter group/group companies",
+   "hidden_value": "Little revealed: OREV contributed no turnover/revenue/income/net worth, was never consolidated as DCBL exercised no control; entire stake fetched only Rs.10.82 crore cash",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new shares issued or listed; a small associate stake was sold for cash to three third parties.",
+   "selling_pressure_why": "Cash sale of a 25.44% unlisted associate stake; no shares distributed to Dalmia Bharat shareholders",
    "parent_or_spin": "neither",
    "option_pricing_date": "not stated",
    "listing_timeline": "not stated",
-   "read_next": "FY26 Integrated Annual Report note on non-core investments, plus the Rs.4,000 Crore enabling securities-issue resolution for the 13th AGM.",
+   "read_next": "FY2025-26 Integrated Annual Report for any gain/loss booked on the Rs.10.82 crore OREV disposal",
    "quote": "Disposal of stake in OREV is not covered by any Scheme of Arrangement."
   }
  },
@@ -31994,41 +31994,41 @@
   }
  },
  "CPPLUS::segments": {
-  "stamp": "3d4dbab0aae0a616453326c58c55fa5a",
+  "stamp": "16e206c2462d80d9b354bd347eadf81f",
   "verdict": {
-   "segment_name": "not stated \u2014 the documents disclose no separate segment; Aditya Infotech reports a single operating segment (standalone: trading of security and surveillance equipment; consolidated: manufacturing/assembly and trading of security and surveillance equipment)",
+   "segment_name": "not stated \u2014 the pages disclose only a single operating segment (manufacturing/assembly and trading of security and surveillance equipments); no separating business is identified",
    "unit": "\u20b9 million",
-   "measure_notes": "No segment profit line of any kind is disclosed. Under Ind AS 108 the Company/Group states it has only one operating segment, so no segment result, EBIT, EBITDA or PBT is given. The only figures on these pages are entity-level revenue from external customers split by geography (Annual Report 2026 pages 192 and 279) \u2014 external revenue, no inter-segment component, and not attributable to any separating business.",
+   "measure_notes": "No segment result / EBIT / EBITDA / PBT line is available. Both the standalone (note 51, AR2026 p.191) and consolidated (note 53, AR2026 p.279) segment notes state there is only one operating segment, so no sub-segment profit is reported. The only revenue detail on these pages is Ind AS 108 geographical revenue from external customers for the whole entity, not for a separating business.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not on the provided pages"
+     "source": "not in supplied pages"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not on the provided pages"
+     "source": "not in supplied pages (entity-wide external revenue only: standalone 30,658.17 \u2014 Annual Report 2026 \u2014 page 192; consolidated 31,118.72 \u2014 Annual Report 2026 \u2014 page 279)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "not on the provided pages"
+     "source": "not in supplied pages (entity-wide external revenue only: standalone 41,788.48 \u2014 Annual Report 2026 \u2014 page 192; consolidated 42,208.12 \u2014 Annual Report 2026 \u2014 page 279)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Nov 2026 \u2014 page 3 contains only the disclaimer; no financial data"
+    "source": "Presentation Nov 2026 \u2014 page 3 (disclaimer page only; no financial tables)"
    },
-   "not_found": "All separating-business figures. No segment name, revenue, operating profit or PAT disclosed \u2014 single-segment reporting only. No quarterly data on the provided presentation page."
+   "not_found": "All separated-business figures: no segment name, revenue, operating profit or PAT. Single-segment disclosure only; entity-wide geographic revenue given. No quarterly data \u2014 presentation page is the disclaimer."
   }
  },
  "COHANCE::rationale": {
@@ -32171,42 +32171,42 @@
   }
  },
  "EIEL": {
-  "stamp": "d25ed38e41da835853eb1d69bd6179c8",
+  "stamp": "30816ad4b23df913e3249eb124844432",
   "verdict": {
-   "what_is_spun": "not stated \u2014 the filings cover only an employee stock option plan, no business separation",
+   "what_is_spun": "not stated \u2014 the filings concern an employee stock option plan, not a business separation",
    "demerged_business_names": [
     "not stated"
    ],
-   "reason": "not stated for any separation; the Plan's stated aim is to attract, retain and reward employees, create an ownership culture and link employee interests with shareholders",
+   "reason": "not stated; the stated purpose is to reward, attract and retain employees, create employee ownership culture and align employee interests with shareholders",
    "reason_class": "not stated",
-   "insiders": "Promoters and promoter-group employees/directors, and directors holding over 10% of shares, are expressly excluded from the Plan; management said \"Our stake in the company is more than 70%\"",
-   "hidden_value": "No separation is disclosed; the filings reveal only potential dilution of up to 17,73,031 equity shares of Rs. 10 each, with exercise price left entirely to the Compensation Committee's discretion",
+   "insiders": "Eligible: employees and directors of the Company and subsidiaries/associates; excluded are promoters, promoter group, independent directors, and directors holding over 10% of issued shares",
+   "hidden_value": "not stated; the filings only reveal potential dilution of up to 17,73,031 equity shares of Rs. 10 each, with exercise price left entirely to the Compensation Committee",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "No demerger, new entity or index change disclosed; only ESOP dilution ceiling of 17,73,031 shares",
+   "selling_pressure_why": "No separation or index event in the documents; only option dilution, with grants pending NSE/BSE in-principle approval",
    "parent_or_spin": "neither",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "not stated",
-   "read_next": "In-principle approval from NSE and BSE, then the first grant letter fixing the exercise price",
-   "quote": "The exercise price of any option granted under the Plan shall be the price for exercise of options as determined by the Compensation Committee and communicated to the eligible employee vide the letter of grant."
+   "option_pricing_date": "not stated \u2014 exercise price is 'as determined by the Compensation Committee and communicated to the eligible employee vide the letter of grant'",
+   "listing_timeline": "not stated for any demerged entity; the Board is authorised to 'take necessary steps for listing of the Equity Shares allotted under the Plan on the Stock Exchanges' (notice dated 25.11.2025)",
+   "read_next": "The in-principle approvals from NSE and BSE, then the first grant letter disclosing the actual exercise price",
+   "quote": "The total number of Options to be granted under the Plan shall not exceed 17,73,031 (Seventeen Lakh Seventy Three Thousand Thirty One) Stock Options."
   }
  },
  "EMMVEE": {
-  "stamp": "08895abe13f7834d6b53ebb3862f1a27",
+  "stamp": "3d7790d7c3a5c27835056c8ed27f3eec",
   "verdict": {
-   "what_is_spun": "not stated \u2014 no demerger or business separation appears in these documents",
+   "what_is_spun": "Nothing; documents disclose no demerger or spin-off, only ESOS 2025 ratification by postal ballot",
    "demerged_business_names": [
     "not stated"
    ],
-   "reason": "not stated; the only filing covers ratification of ESOS 2025 and extension of its benefits to employees of subsidiary companies after listing, as required by SEBI Regulation 12(1)",
+   "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "ESOS 2025: up to 35,00,000 options (Rs.2 face value). Employees who are promoters/promoter group, and directors holding over 10%, are excluded; directors interested only via shareholding/options",
-   "hidden_value": "Not a separation. Filings/calls reveal the subsidiary carries the expansion: \"All expansion has been taking place in Emmvee Energy, i.e., the subsidiary of the company\"; parent net debt/equity negative 0.06x, ROCE 38%",
+   "insiders": "Promoters and promoter group employees, and directors holding over 10% of equity, are excluded from ESOS 2025; no director/KMP interest beyond shareholding or options grantable.",
+   "hidden_value": "not stated",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "No demerged entity or new listing in the documents; only up to 35,00,000 ESOS options as potential fresh issue of shares",
-   "parent_or_spin": "parent",
+   "selling_pressure_why": "No separation disclosed; only potential dilution of 35,00,000 equity shares of Rs.2 face value under ESOS 2025.",
+   "parent_or_spin": "neither",
    "option_pricing_date": "not stated",
-   "listing_timeline": "Said in the December 2, 2025 postal ballot notice: \"The equity shares of the Company were listed on the National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) on November 18, 2025\"; no demerged-entity listing date is stated",
-   "read_next": "Postal ballot results and Scrutinizer's report, due on or before Monday, January 05, 2026, plus the ESOS 2025 grant price",
+   "listing_timeline": "No demerged entity stated; the Company itself: \"The equity shares of the Company were listed on the National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) on November 18, 2025\" (said December 2, 2025)",
+   "read_next": "ESOS 2025 scheme document and postal ballot results due on or before Monday, January 05, 2026",
    "quote": "The equity shares of the Company were listed on the National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) on November 18, 2025."
   }
  },
@@ -32323,41 +32323,41 @@
   }
  },
  "EMMVEE::segments": {
-  "stamp": "68d9152e64225384f3133cae0be03166",
+  "stamp": "ec2f83293cfe4169c55e131029734f92",
   "verdict": {
-   "segment_name": "not stated \u2014 the pages never name a business being separated; the only labelled segments are \"PV\" (photovoltaic modules), \"EPC\" and \"Others\" (Annual Report 2026 \u2014 page 81)",
-   "unit": "INR lakhs (annual report segment note); presentations use INR million",
-   "measure_notes": "Available profit line is \"Segment profit\" per Note 34.2 \u2014 profit/loss from operations per Ind AS, before other finance costs, other corporate income/expenses and tax (reconciles to Group profit before tax); not EBITDA and not PAT. Segment revenue is shown both as revenue from external customers and total revenue including inter-segment. No segment-level PAT is disclosed. Presentation pages carry only consolidated EBITDA/PAT/revenue, not segment figures.",
+   "segment_name": "not stated \u2014 no separating/demerged business is identified in the tagged pages",
+   "unit": "INR lakhs (Annual Report 2026 segment note); INR million (investor presentations)",
+   "measure_notes": "No separation is disclosed, so no own financials for a separating business can be extracted. The only segment profit line available is 'Segment profit' in Note 34.2 (revenue after expenses incl. cost of materials, employee benefits, finance costs, depreciation and other corporate expenses \u2014 i.e. a segment result before unallocated other finance costs/income and tax), reported for PV, EPC and Others only, with both 'Revenue from external customers' and 'Inter-segment revenue' shown separately. Presentation pages give only group-level Revenue from Operations, EBITDA (PBT before exceptionals + finance costs + D&A \u2212 other income) and PAT.",
    "years": [
     {
      "fy": "FY2024",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": null
+     "source": "no page carries figures for a separating business"
     },
     {
      "fy": "FY2025",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": null
+     "source": "no page carries figures for a separating business"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": null
+     "source": "no page carries figures for a separating business"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": null
+    "source": "no page carries figures for a separating business"
    },
-   "not_found": "Separated business is unnamed in these pages, so no figures can be attributed to it. Segment data exists only for PV/EPC/Others (FY2025\u2013FY2026); no FY2024 segment data, no segment PAT, no segment-level quarterly figures."
+   "not_found": "All figures. Pages disclose only PV, EPC and Others segments (AR2026 p.81-82) and group-level revenue/EBITDA/PAT; no separating, demerged or spun-off business is named or quantified."
   }
  },
  "DALBHARAT::segments": {
@@ -32475,26 +32475,25 @@
   }
  },
  "ENDURANCE": {
-  "stamp": "2f2a02a2c0e770b8550011a68c02be19",
+  "stamp": "5abd68a54724158004d2cf1f984c928c",
   "verdict": {
-   "what_is_spun": "Veicoli Srl, Italy \u2014 step-down subsidiary providing software platforms to companies in the fleet management sector",
+   "what_is_spun": "Veicoli Srl, Italy \u2014 fleet-management software platform business, sold 100% for cash to a third party",
    "demerged_business_names": [
     "Veicoli Srl",
     "Veicoli",
-    "Veicoli Srl, Italy",
-    "Endurance Overseas SpA (seller / parent of Veicoli)"
+    "Endurance Overseas SpA (seller, remains with Endurance)"
    ],
-   "reason": "Considering the Endurance Group's strategic focus on allocating resources towards continued growth and development of its core auto components business, it has been decided to divest the Group's investment in Veicoli.",
+   "reason": "\"Considering the Endurance Group's strategic focus on allocating resources towards the continued growth and development of its core auto components business, it has been decided to divest the Group's investment in Veicoli.\"",
    "reason_class": "unrelated",
-   "insiders": "Not stated. Documents only say buyer Banyan Software UK Limited does not belong to the promoter / promoter group / group companies and the deal is not a related party transaction.",
-   "hidden_value": "Tiny, non-core unit: total income Rs.32.58 crore (0.22% of consolidated income), net worth Rs.3.15 crore (0.48%). Yet consideration is \u20ac2.2 million upfront, \u20ac0.3 million deferred plus earn-out capped at \u20ac5.0 million \u2014 far above book net worth.",
+   "insiders": "Not stated for promoters/management; documents state buyer Banyan Software UK Limited \"does not belong to the promoter / promoter group / group companies of the Company\" and transaction is not a related party transaction.",
+   "hidden_value": "Tiny, non-core unit: income Rs 32.58 crore (0.22% of consolidated income), net worth Rs 3.15 crore (0.48%). Fixed consideration of EUR 2.5 million plus earn-out capped at EUR 5.0 million is a large multiple of that book net worth.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "Cash share sale to a third party; no shares distributed to shareholders, and the unit is only 0.22% of income.",
+   "selling_pressure_why": "Outright cash share sale to a third party; no shares distributed to Endurance shareholders, no new listed entity, immaterial size.",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated \u2014 the 24th June 2026 filing says only 'Expected date of completion of sale / disposal. 1st July, 2026'; no listing of any demerged entity is mentioned",
-   "read_next": "Q1 FY27 standalone/consolidated results for the gain on Veicoli sale and earn-out treatment; plus regulatory approval confirmation.",
-   "quote": "Considering the Endurance Group's strategic focus on allocating resources towards the continued growth and development of its core auto components business, it has been decided to divest the Group's investment in Veicoli."
+   "listing_timeline": "not stated \u2014 no listing contemplated; the 24th June 2026 filing states only \"Expected date of completion of sale / disposal. 1st July, 2026\"",
+   "read_next": "Q1 FY27 consolidated results for the gain on sale, deconsolidation of Veicoli and earn-out accounting.",
+   "quote": "Veicoli is a step-down wholly-owned subsidiary of EOSpA and is engaged in the business of providing software platforms to companies operating in fleet management sector."
   }
  },
  "EIEL::segments": {
@@ -32558,23 +32557,25 @@
   }
  },
  "GESHIP": {
-  "stamp": "c9aff749493016cb84040875e26f5276",
+  "stamp": "9a4b0e3101407d2084cd66ccc6214ce8",
   "verdict": {
-   "what_is_spun": "No business is being spun off; wholly owned subsidiary Greatship Oilfield Services Limited was voluntarily liquidated and dissolved",
+   "what_is_spun": "No demerger; only voluntary liquidation and dissolution of Greatship Oilfield Services Limited, a dormant second-tier wholly owned subsidiary",
    "demerged_business_names": [
     "Greatship Oilfield Services Limited",
-    "GOSL"
+    "GOSL",
+    "Greatship (India) Limited",
+    "GIL"
    ],
-   "reason": "not stated \u2014 the filing records only that GIL's board had approved GOSL's voluntary liquidation and that NCLT passed the dissolution order; no rationale is given",
+   "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "No new entity. Promoter and promoter group hold 4,29,36,248 shares (30.07%) of the parent; barred from the buyback, their stake would rise to about 31.37%",
-   "hidden_value": "GOSL was immaterial: nil revenue and net worth of Rs 17.73 lakhs as on March 31, 2025. The parent is heavily net cash (over $500 million standalone) and trades at roughly 0.73-0.8x consolidated NAV",
+   "insiders": "No new entity; promoter and promoter group hold 4,29,36,248 shares (30.07%), rising to 31.37% post-buyback, and are barred from participating in the buyback",
+   "hidden_value": "Nothing unlocked: GOSL had Nil revenue and net worth of Rs 17.73 lakhs. Parent is net cash over $500 million, standalone NAV INR 1,422 per share, trading at 0.8x consolidated NAV",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No shares issued or listed; GOSL simply ceased to exist. The parent is buying back up to 58,82,352 shares from the market",
+   "selling_pressure_why": "No new shares or listed entity created; GOSL had Nil revenue and ceased to exist on dissolution",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated \u2014 no entity is listing; the December 22, 2025 filing says GOSL 'has ceased to exist as a company and a subsidiary of GIL'",
-   "read_next": "Q2 FY27 consolidated NAV per share against the Rs 1,530 maximum buyback price, and remaining buyback deployment versus Rs 900 crores",
+   "listing_timeline": "not stated",
+   "read_next": "Greatship (India) Limited's offshore segment accounts and the INR 392 crore inter-company loan plus INR 272 crore preference shares",
    "quote": "We now wish to inform you that National Company Law Tribunal has passed an order for the dissolution of GOSL."
   }
  },

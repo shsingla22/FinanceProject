@@ -719,13 +719,30 @@ def test_confirmed_needs_a_scheme_named_on_the_exchange_record_and_the_judge_mov
            "confidence": ("confirmed", "")}
     conf, stage = SO.judge_adjust(sit, j_no)
     assert conf[0] == "indicated" and stage == "indicated_on_calls"
-    # a text-only (probable) demerger the judge describes → confirmed
-    j_yes = {"status": "judged", "what_is_spun": "The cement business, into a new listed company",
+    # a text-only (probable) demerger is NOT promoted on the judge's word: results notes describe
+    # completed demergers (SCI's land company), inbound ones (UltraTech taking Kesoram's cement)
+    j_yes = {"status": "judged", "what_is_spun": "192 non-core assets transferred to a separate asset company, 185 leased back",
              "parent_or_spin": "parent", "selling_pressure": "likely", "reason": "focus"}
-    conf, stage = SO.judge_adjust({**base, "headlines": results, "confidence": ("probable", "")}, j_yes)
-    assert conf[0] == "confirmed" and stage is None
+    assert SO.judge_adjust({**base, "headlines": results, "confidence": ("probable", "")}, j_yes) == (None, None)
     assert SO.judge_adjust({**base, "headlines": named, "confidence": ("confirmed", "")}, j_yes) == (None, None)
     assert SO.judge_adjust({**base, "kind": "subsidiary_listing", "headlines": named, "confidence": ("probable", "")}, j_yes) == (None, None)
+    # inbound by the judge's words: "vested in <this company>"
+    j_in = {"status": "judged", "what_is_spun": "Kesoram Industries' Cement Business Division, transferred out of Kesoram and vested in UltraTech as a going concern",
+            "parent_or_spin": "parent", "selling_pressure": "unlikely", "reason": "consolidation"}
+    kind, why = SO.judge_override({**base, "company": "UltraTech Cement Limited", "headlines": results}, j_in)
+    assert kind == "other" and "inbound" in why
+    # a slump sale: the business leaves for cash; nothing is listed for the holders
+    j_sale = {"status": "judged", "what_is_spun": "The Robotics Business — a sales channel with maintenance support — sold on slump sale basis to ABB Robotics India",
+              "parent_or_spin": "parent", "selling_pressure": "unclear", "reason": "portfolio",
+              "listing_timeline": "No listing: the postal ballot notice says size, nature and scale did not warrant creation of a separate entity"}
+    kind, why = SO.judge_override({**base, "company": "ABB India Limited", "headlines": results}, j_sale)
+    assert kind == "other" and "slump sale" in why
+    j_bosch = {**j_sale, "what_is_spun": "No demerger stated; documents describe sale of the Video solutions business", "listing_timeline": "not stated"}
+    assert SO.judge_override({**base, "company": "Bosch Limited", "headlines": results}, j_bosch)[0] == "other"
+    # …but a demerger whose rationale mentions a past sale is left alone
+    j_real = {"status": "judged", "what_is_spun": "The ice cream business, demerged into a separately listed company",
+              "parent_or_spin": "parent", "selling_pressure": "likely", "reason": "after the sale of the water business, focus", "listing_timeline": "not stated"}
+    assert SO.judge_override({**base, "company": "HUL", "headlines": named}, j_real)[0] is None
 
 
 def test_demerger_direction_reads_resulting_and_demerged_roles():

@@ -1004,7 +1004,10 @@ DEMERGER_WORDS_RX = re.compile(r"de-?merg|spin|carve|hiv\w+ off|separate (listin
 
 
 ACQUISITION_RX = re.compile(r"acqui\w+|stake (in|of)|investment in|purchase of (shares|a stake)|buy\w* (a |the )?stake", re.I)
-INTO_RX = re.compile(r"\binto\s+(?:the\s+)?([A-Z][A-Za-z0-9&.\-' ]{2,60}?)(?=[,;.(]|\s+(?:and|which|a |the |its |via|through|by|on|at|\()|\s*$)", re.S)
+INTO_RX = re.compile(r"\b(?:into|vested in|transferred to|merged with)\s+(?:the\s+)?([A-Z][A-Za-z0-9&.\-' ]{2,60}?)"
+                     r"(?=[,;.(]|\s+(?:and|which|a |the |its |via|through|by|on|at|as|\()|\s*$)", re.S)
+SLUMP_SALE_RX = re.compile(r"slump sale|business transfer agreement|sold (on|to|as|for)|"
+                           r"sale of (the |its )?(?:[\w&,'-]+\s+){0,8}(business|undertaking|division|unit)\b", re.I)
 
 
 def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
@@ -1039,9 +1042,16 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     quiet = judge.get("parent_or_spin") in ("neither", "unclear", None) and judge.get("selling_pressure") != "likely"
     if NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
         return "merger", "the judge read an amalgamation / liquidation / insolvency matter; nothing is separated"
-    starts_empty = bool(re.match(r"\s*(not stated|nothing|none|no business|n/?a)\b", judge.get("what_is_spun", ""), re.I))
+    starts_empty = bool(re.match(r"\s*(not stated|nothing|none|no\b|n/?a)\b", judge.get("what_is_spun", ""), re.I))
     if starts_empty and ACQUISITION_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
         return "other", "the judge read an acquisition or stake purchase; nothing is separated"
+    # a slump sale / business transfer: the business leaves for cash, the
+    # holders receive no new listing (ABB's robotics, Bosch's building tech)
+    sold = SLUMP_SALE_RX.search(what) or SLUMP_SALE_RX.search(judge.get("listing_timeline") or "")
+    no_listing = re.search(r"no listing|not (be )?listed|did not warrant|no (separate )?(entity|company) (is |was )?(created|listed)|"
+                           r"sale|sold", judge.get("listing_timeline") or "", re.I)
+    if sold and not DEMERGER_WORDS_RX.search(spun) and (starts_empty or no_listing or judge.get("parent_or_spin") in ("parent", "neither", "unclear", None)):
+        return "other", "the judge read a slump sale / business transfer; the business leaves for cash and nothing is listed for shareholders"
     # inbound: "<business> of <other entity> demerged into <THIS company>"
     for m in INTO_RX.finditer(judge.get("what_is_spun", "")):
         if _same_company(m.group(1), sit.get("company", "")) and judge.get("parent_or_spin") != "spin":
@@ -1061,11 +1071,14 @@ def judge_adjust(sit: dict, judge: dict) -> tuple[tuple[str, str] | None, str | 
         demerger is named only on the calls → 'indicated', stage
         indicated_on_calls (Adani Enterprises: a composite scheme on file,
         the demergers management talks about not filed);
-      - a text-only demerger ('probable') whose judge read names the
-        business separated → 'confirmed' (a board outcome whose body carries
-        the scheme);
       - a 'confirmed' demerger the judge cannot describe ('not stated')
         with no scheme-named filing → 'probable'.
+    A text-only demerger is NOT promoted on the judge's word alone: the
+    results filings that mention a demerger in passing describe completed
+    ones (SCI's land company, 2024), inbound ones (UltraTech receiving
+    Kesoram's cement) and carve-outs to wholly-owned subsidiaries, and the
+    judge names a business in each. It stays 'probable' until a scheme
+    filing names it.
     Returns (confidence or None, stage or None)."""
     if sit["kind"] != "demerger" or judge.get("status") not in ("judged", "cached"):
         return None, None
@@ -1078,9 +1091,6 @@ def judge_adjust(sit: dict, judge: dict) -> tuple[tuple[str, str] | None, str | 
         return (("indicated", "the judge read the filed scheme as not this company's demerger; "
                  "the demerger is spoken of on the calls only"),
                 "indicated_on_calls" if on_calls else "rumoured")
-    if conf == "probable" and not NEGATED_RX.match(spun) and judge.get("parent_or_spin") in ("parent", "spin", "both") \
-            and filed_demerger:
-        return ("confirmed", "the judge's read of the complete filings names the business separated"), None
     if conf == "confirmed" and re.match(r"\s*not stated", spun, re.I) and not scheme_named(heads):
         return ("probable", "a filing's text names a demerger; the judge found no scheme describing it"), None
     return None, None
