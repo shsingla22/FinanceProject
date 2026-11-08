@@ -1,0 +1,425 @@
+
+=== page 1 ===
+ 
+Sterling and Wilson Renewable Energy  Limited  
+Regd.  Office: Universal Majestic, 9th Floor, P. L. Lokhande Marg, Chembur (W),  Mumbai - 400043  
+Phone: (91- 22) 25485300 | Fax: (91- 22) 25485331 | CIN: L74999MH2017PL C292281 
+Email: info@sterlingwilson.com | Website: www.sterlingandwilsonre .com  
+ 
+ 
+October  14, 2024  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street , 
+Mumbai – 400 001  Scrip Code: 542760 National Stock Exchange of India Limited  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Bandra (East), Mumbai – 400 051  Symbol: SWSOLAR  
+ 
+ 
+Sub.: Investor presentation on the Unaudited Standalone and Consolidated Financial 
+results of Sterling and Wilson Renewable Energy Limited (“the Company”) for the quarter and half year ended September 30, 2024 
+ 
+Ref.: Regulation 30 read with Part A of Schedule III of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)  
+ Dear Sir / Ma’am,  
+ Pursuant to the Listing Regulations, please find enclosed herewith a copy of the Investor presentation on the Unaudited Standalone and Consolidated Financial results of the Company for the quarter and half year ended September  30, 2024. 
+ Request you to take the same on records.  
+ Yours faithfully,  
+For Sterling and Wilson Renewable Energy Limited  
+   Jagannadha Rao Ch. V. Company Secretary  
+ Encl.: As above  
+ 
+ 
+ 
+ 
+=== page 2 ===
+BrightThe future of solar energy is
+STERLING AND WILSON RENEWABLE ENERGY LIMITED Investor Presentation – 2Q FY25
+14 Oct 2024
+=== page 3 ===
+Disclaimer
+This presentation  and the accompanying  slides  (the “Presentation”),  which  have  been  prepared  by Sterling  and Wilson  Renewable  Energy  Limited  (the 
+“Company”),  have  been  prepared  solely  for information  purposes  and is not a prospectus,  disclosure  document,  placement  document  or other  offering  
+document  under  any law, nor does  it form  part of, and should  not be construed  as, any present  or future  invitation,  recommendation  or offer  to purchase  or 
+sell securities  of the Company  or an inducement  to enter  into investment  activity  in any jurisdiction . No offering  of securities  of the Company  will be made  
+except  by means  of a statutory  offering  document  containing  detailed  information  about  the Company . If there  is any subsequent  offering  of any security  of 
+the Company,  it will be made  pursuant  to separate  and distinct  offering  documentation,  and in such  case  the information  in this Presentation  will be 
+superseded  in its entirety  by any such  offering  documentation  in final form .
+This Presentation  has been  prepared  by the Company  based  on information  and data  which  the Company  considers  reliable,  but the Company  makes  no 
+representation  or warranty,  express  or implied,  whatsoever,  and no reliance  shall  be placed  on, the truth,  accuracy,  completeness,  fairness  and 
+reasonableness  of the contents  of this Presentation . This Presentation  may not be all inclusive  and may not contain  all of the information  that you may 
+consider  material . Any liability  in respect  of the contents  of, or any omission  from,  this Presentation  is expressly  excluded .
+Certain  statements  made  in this Presentation  may not be based  on historical  information  or facts  and may be “forward -looking  statements”  by reason  of 
+context,  including  those  relating  to the Company’s  general  business  plans,  planned  projects  and strategy,  future  financial  condition  and growth  prospects,  
+future  developments  in industry  and competitive  and regulatory  environment . All forward -looking  statements  are based  on judgments  derived  from  the 
+information  available  to the Company  at this time . Forward -looking  statements  can be identified  by terminology  such  as such  as “potential,”  "opportunity,"  
+“expected,”  “will,”  “planned,”  "estimated",  "continue",  "on-going"  or similar  terms .
+Forward  looking  statements  are based  on the current  beliefs  and expectations  of the Company  regarding  future  events,  and are subject  to various  risks  and 
+uncertainties,  many  of which  are difficult  to predict . Actual  results  may differ  materially  from  anticipated  results  due to factors  beyond  the Company’s  
+control . Such  risks  and uncertainties  include,  but are not limited  to, challenges  to intellectual  property,  competition  from  other  products,  adverse  litigation  or 
+government  action,  and changes  to laws  and regulations  applicable  to our industry . This Presentation  also contains  certain  financial  and operational  
+information  relating  to the Company  that is based  on management  estimates . These  estimates  are based  on management's  past experience  and subjective  
+judgment,  and the manner  in which  such  estimates  are determined  may vary from  that used  for the preparation  and presentation  of similar  information  
+provided  by other  companies  engaged  in the sector  in which  our Company  operates . Neither  the Company  nor its affiliates  or advisors  or representatives  nor 
+any of their  respective  affiliates  or any such  person's  officers  or employees  guarantees  that the assumptions  underlying  such  forward -looking  statements  or 
+management  estimates  are free from  errors  nor does  either  accept  any responsibility  for the future  accuracy  of the forward -looking  statements  contained  in 
+this Presentation  or the actual  occurrence  of the forecasted  developments .. The risks  and uncertainties  relating  to these  statements  include,  but are not 
+limited  to, risks  and uncertainties  regarding  fluctuations  in earnings,  our ability  to manage  growth,  competition  (both  domestic  and international),  economic  
+growth  in India  and abroad,  ability  to attract  and retain  highly  skilled  professionals,  time  and cost over  runs on contracts,  our ability  to manage  our 
+international  operations,  government  policies  and actions,  regulations,  interest  and other  fiscal  costs  generally  prevailing  in the economy . The Company  does  
+not undertake  to make  any announcement  in case  any of these  forward  looking  statements  become  materially  incorrect  in future  or update  any forward  
+looking  statements  made  from  time  to time  by or on behalf  of the Company . 
+=== page 4 ===
+Leading Solar EPC and O&M Solutions Provider
+We offer Design, Detailed Engineering, Procurement, Construction, Installation, 
+Commissioning and Operations & Maintenance services under turnkey EPC and BoS 
+(Balance of System) solutions for utility -scale, rooftop and floating solar power 
+projects. We also offer solar plus storage solutions.  
+Leading  Solar EPC
+solutions provider in 
+the world Market
+Leader
+Leading  Solar O&M
+player globally 
+No. 1 Solar EPC
+player in Australia
+OPERATIONAL EXCELLENCEEPC Portfolio
+20.7 GWp
+O&M Portfolio
+7.8 GWp
+Global Manpower
+2,269
+GLOBAL RECOGNITIONEPC and O&M of Abu Dhabi
+1,177 MWp One of the 
+world’s largest  single location 
+PV plant
+Regional presence across
+28 countries Significant 
+cost benefit and timely 
+execution
+End-to-end “concept to commission” solar EPCAbout Us
+| WHO WE ARE
+DOMESTIC  POWERHOUSEEPC and O&M of NTPC
+3GW+ in 2 projects  
+Executing one of India’s 
+largest PV plants at 
+Khavda , Gujarat
+Consistently bagging 
+repeat orders from large 
+domestic Private IPPs and 
+major PSUs
+=== page 5 ===
+Journey
+| A GLOBAL LEADER IN SOLAR EPC IN 8 YEARS
+2015
+Recognized as the largest 
+Indian solar EPC player
+Largest single -axis tracker 
+plant in India (60 MWp)
+2017
+Demerger of S&W Solar 
+from S&W Group
+Incorporated a subsidiary 
+in Spain
+Started operations in USA
+Bagged world’s largest 
+single location solar EPC 
+project in Abu Dhabi
+Ventured into 
+solar EPC business2011
+Completed our first 
+turnkey EPC project2013
+Started international 
+solar operations
+2018
+Expanded operations in 
+Australia by acquiring a 
+controlling stake in GCO 
+Electrical Pty Ltd2016
+Diversified into 
+Rooftop Solar
+Started third -party 
+O&M services
+2020
+Ranked 2nd largest O&M 
+player in the world by 
+Wood Mackenzie
+2021
+Expanded our 
+offerings to include 
+Hybrid Energy, Energy 
+Storage and Waste -to-
+Energy solutions. 
+2022
+Reliance New Energy 
+acquired 40% stake in 
+Sterling and Wilson 
+Renewable Energy Limited
+Awarded one of the largest 
+domestic EPC contract of 
+1.6 GW by NTPC
+2019
+Listed on BSE and NSE
+Commissioned our first 
+floating solar project of 
+450 kWp
+Ranked No. 1 solar EPC 
+in the world by IHS 
+Markit
+2023
+Achieved a second 
+consecutive mega 
+order (1,500 MW) 
+from NTPC 
+2024
+Achieved highest 
+unexecuted order 
+value in history of 
+company of more 
+than INR 10,500 cr 
+in October 2024
+=== page 6 ===
+Strong Track Record of executing 
+complex & large -scale EPC projects 
+leading to high customer retention 
+and repeat businessExperienceQuick Decision Making
+& well -defined internal 
+processes leading to 
+timely executionExpeditiousLeveraging the  Low-Cost India Base 
+for global execution providing cost 
+competitive solutionsCost Effective
+One of the only Global Pure -Play Solar 
+EPC players with a significant presence 
+and operational experience across 
+geographiesGlobal Presence
+A Bankable Player with strong 
+relationships with customers and 
+other key stakeholdersStrong Relationships
+Strong in -house Design and 
+Engineering team providing 
+customized solutionsTalent Pool
+Why Us
+| WHAT DIFFERENTIATES US 
+=== page 7 ===
+UAE
+Saudi ArabiaEgypt
+Namibia
+USA
+MexicoUSA
+455 MWp
+Latin America
+575 MWpMENA
+1,969 MWpUK
+SpainJordan
+Oman
+Kenya
+Zambia
+South AfricaChileArgentina
+Rest of Africa
+610 MWpIndia
+15,468 MWpIndiaThailand
+Singapore
+Australia
+1,113 MWpKazakhstan
+AustraliaPhilippinesVietnam
+Morocco
+Southeast Asia
+323 MWp
+Offices in
+28 Countries
+Projects in
+20 Countries
+Our Presence
+| ACROSS THE GLOBE
+Mali
+Tanzania
+New ZealandNigeria
+As of September 30, 2024
+ItalyEurope
+266 MWp
+=== page 8 ===
+Financial Highlights
+| 2Q FY 2025
+=== page 9 ===
+Financials
+| KEY HIGHLIGHTS FOR 2Q FY25
+•Unexecuted  order  value  at ~INR  10,549 crore  as of September  
+2024  compared  to ~INR  8,084 crore  as of Mar 2024
+•Company  has received  new orders  in six domestic  projects  
+worth  ~INR  2,044 crore  post  1QFY 25
+•Received  order  for EPC of the largest  BESS  project  (1 GWh)  in 
+India
+•Received  turnkey  LOA  for 312 MWdc  project  in Rajasthan
+•P&L of the company  continues  to improve
+•Consol  revenues  up ~36% YoY in 2QFY 25
+•Gross  margins  at ~10%
+•Third  consecutive  quarter  of positive  EBITDA,  PBT and PAT at 
+a consolidated  level
+•Long -term  Ratings  upgraded  by Acuite  to BBB - (investment  
+grade)  from  BB+  on Oct 14, 2024•Gross Borrowings have increased due toanew loan facility
+availed from IREDA
+•Total net debt of~INR 326 crore asofSep 2024 ,
+compared tonetdebt of~INR 116 crore inMar 2024
+•Indemnity proceeds tolargely take care ofdebt
+repayments duein2HFY 25
+•Execution scale upin2HFY 25
+•Utilization ofnew INR 500 crIREDA facility
+•Negotiating open credit from keyvendors
+•Fresh sanctions ofNFB limits from new banks /FIs
+=== page 10 ===
+Financials
+| CONSOLIDATED PROFIT & LOSS – 2Q FY25
+Revenue  has grown  36% YoY in Q2 aided  by higher  execution  in Domestic  
+EPC projects . Sequentially,  top-line grew  by 13%.
+Gross  margins  came  in at 10.1% in Q2 compared  to FY24 gross  margin  of 
+10.3%. With  legacy  international  projects  behind  us, gross  margins  are likely  
+to continue  to trend  at ~10%
+O&M  gross  margins  at 28% are higher  than  average  due to lower  expenditure  
+incurred  in Q2. However,  we anticipate  these  margins  to normalize  due to 
+post monsoon  maintenance  in H2. Recurring  O&M  margin  are trending  
+towards  more  steady -state  margins  (~25%)
+Reported  Q2 EBITDA  at INR 51 crore  (4.9% EBITDA  margin)
+Q2 PAT of INR 9 crore  while  significantly  higher  (both  YoY and QoQ)  remains  
+impacted  by a non-cash  deferred  tax asset  chargeINR Crore Q2FY25 Q1FY25 FY2024
+Revenue from Operations
+- International EPC 36 26 400
+- Domestic EPC 935 832 2,425
+- Operation and Maintenance 60 57 210
+Total 1,031 915 3,035
+Gross margin
+- International EPC 2 2 26
+- Domestic EPC 85 83 253
+- Operation and Maintenance 17 17 34
+Total 104 102 313
+Gross margin % 10.1% 11.1% 10.3%INR Crore Q2FY25 Q2FY24 Q1FY25 FY2024 FY2023
+Revenue from Operations 1,031 759 915 3,035 2,015
+Gross Margin 104 66 102 313 (745)
+Gross Margin % 10.1% 8.6% 11.1% 10.3% NM
+Other Income 5 1 5 39 36
+Recurring Overheads 81 71 77 327 365
+Recurring Overheads % 7.9% 9.4% 8.5% 10.8% 17.3%
+Non-recurring Overheads (12) 0 0 6 17
+Forex gain / (loss) 11 22 7 34 (26)
+EBITDA 51 18 37 54 (1,065)
+EBITDA Margin % 4.9% 2.3% 4.0% 1.8% NM
+EBIT 47 14 33 37 (1,038)
+EBIT Margin % 4.6% 1.8% 3.6% 1.2% NM
+PBT 20 (50) 15 (172) (1,179)
+PBT Margin % 1.9% (6.6%) 1.6% NM NM
+PAT 9 (54) 5 (211) (1,175)
+PAT Margin 0.8% (7.2%) 0.5% NM NM
+=== page 11 ===
+Financials
+| CONSOLIDATED BALANCE SHEET – SEPTEMBER 2024
+Gross  Borrowings  have  increased  on account  of a new facility  availed  from  
+IREDA  (INR  500 cr)
+Indemnity  proceeds  of ~INR  109 cr are anticipated  to be used  to pay off 
+2HFY 25 debt  repayments  / prepay  existing  loans
+Net working  capital  continues  to remain  negative  at INR 543 crore  as at 
+September  2024  compared  to negative  working  capital  of INR 585 crore  as at 
+March  2024INR Crore Sep-24 Mar -24
+Sources of Funds 
+Shareholders’ Funds 952 955
+Borrowings from Banks (net) 326 116
+1,278 1,071
+Application of Funds 
+Fixed assets (including right to use assets) 48 56
+Net Working Capital (543) (585)
+Deferred tax, direct and indirect tax assets (net) 494 490
+Other assets / (liabilities) 1,279 1,110
+Total 1,278 1,071
+Breakdown of Net Working Capital (INR Crore) Sep-24 Mar -24
+Current Assets 1,929 2,048
+Inventories 4 1
+Receivables (including unbilled) 2,092 1,981
+Receivable days 185 238
+Advances to suppliers 238 66
+Current Liabilities 2,661 2,633
+Trade payables 1,544 1,508
+Payable days 152 202
+Advances from Customers 1,333 1,125
+Net Working Capital (543) (585)Breakdown of Net Debt (INR Crore) Sep-24 Mar -24
+Term debt 848 403
+Working capital related debt 36 77
+Total Debt 884 480
+Less: Cash and Bank balance (558) (364)
+Net Debt 326 116
+=== page 12 ===
+Outlook
+| EPC ORDERING GAINING TRACTION
+SWREL received new orders/LOIs totaling ~INR 4,214 cr in 1HFY25
+7134,3874,854
+3,0601,169
+1,154
+02,0004,0006,0008,000
+FY22 FY23 FY24 1HFY25India InternationalOrder Inflow
+INR Cr
+Domestic EPC has remained profitable in challenging times•Received  order  of 633 MW  DC in 2QFY 25
+•Received  LOI for largest  BESS  plant  in India
+•Received  LOI for a PV project  in Karnataka
+•Received  order  of 250 MW  DC in 2QFY 25
+•Received  order  of 900 MW  DC in 1QFY 25
+•Received  a turnkey  solar  PV order  from  AMEA  Power  in South  
+Africa  for a ~140 MW  DC project  in 1QFY 25
+•Received  a turnkey  package  for a 80 MW  AC project  from  Energy  
+Group  in South  Africa  in 1QFY 25
+9.7%10.4%9.5%
+0.0%20.0%
+Gross Margin
+(FY23)Gross Margin
+(FY24)Gross Margin
+(1HFY25)
+4,2146,023
+=== page 13 ===
+Outlook
+| MOU ANNOUNCED
+•Sterling  and Wilson  Solar  Solutions,  Inc (SWSS),  the US step down  subsidiary  signed  a MOU  with  the Government  of the Federal  
+Republic  of Nigeria,  along  with  its consortium  partner  SunAfrica in September  2022
+•MOU  is for the development,  design,  construction,  and commissioning  of solar  PV power  plants  aggregating  961 MWp  at five different  
+locations  in Nigeria  along  with  battery  energy  storage  systems  (BESS)  with  total  installed  capacity  of 455 MWh
+•Final  terms  have  been  negotiated
+•Procedural  steps  are in progress ; Awaiting  final contract  signing
+SWREL signed a MOU with Nigerian government & Sun Africa to design and construct 961 MW
+
+=== page 14 ===
+Outlook
+| ORDER BOOK & PIPELINE
+8,084 10,549 +80+4,214 -1,829
+UOV as on 31 Mar
+2024Adjustments Order inflow Projects executed
+in 1HFY25UOV as on 14 Oct
+2024India , 
+77.8%South 
+Africa , 
+11.0%Others , 
+0.3%Europe
+ 10.9%Gross UOV as on 14 October 2024 Unexecuted Order Value Movement
+New order inflows are lumpy – Impacted by cyclicality and seasonality
+INR Cr Q1 Q2 Q3 Q4 Total
+FY20 1,629 1,057 1,070 987 4.743
+FY21 3,353 1,601 - 1,820 6,774
+FY22 221 254 - 244 719
+FY23 - 1,858 364 2,165 4,387
+FY24 466 2,640 2,421 488 6,023
+FY25 2,170 2,044 4,214MENA
+11.5%
+India
+80.7%Others
+7.8%
+28.7 GWSWREL Active EPC bid pipeline remains strong
+Note: UOV includes one domestic project where the company has received LOI
+=== page 15 ===
+Company : Investor Relations Advisors  :
+Sterling and Wilson Renewable Energy Limited 
+CIN: L74999MH2017PLC292281
+Mr Sandeep Mathew
+Head – Investor Relations
+Email: ir @sterlingwilson.com
+www.sterlingandwilsonre.comStrategic Growth Advisors Private Limited 
+CIN: U74140MH2010PTC204285
+Mr Jigar Kavaiya / Mr. Parin Narichania
++91 9920602034 / +91 9930025733
+Email: jigar.kavaiya@sgapl.net  / parin.n@sgapl.net   
+www.sgapl.net  For further information, please contact: 

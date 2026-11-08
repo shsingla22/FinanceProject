@@ -1,0 +1,725 @@
+
+=== page 1 ===
+ 
+ 
+Date: January 21, 2025 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Sir / Madam, 
+ 
+Subject: Investor Updates for the quarter ended December 31, 2024.  
+ 
+With reference to the above cited subject, we enclos e herewith the Investor Updates for the quarter ended 
+December 31, 2024. 
+ 
+The same is also available on the website of the Company at www.tanla.com   
+ 
+Kindly take the same on record and disseminate on your website. 
+ 
+Thanking you 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited 
+ 
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS -15519 
+ 
+ 
+ SESHANURA
+DHA CHAVADigitally signed by 
+SESHANURADHA CHAVA 
+Date: 2025.01.21 
+20:03:59 +05'30'
+=== page 2 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly pr ohibitedInvestor 
+Update
+Q3 FY25
+Jan 21, 2025
+Tanla Team Celebrating One Billion RCS Messages in a  Month
+=== page 3 ===
+Investor Update Q3 FY25 2Safe Harbor and Other Information 
+The CPaaS business is evolving at a fast pace in India with very little i nformation available in the public domain on the overall market. The financial community has always sought a response on 
+the total market size, key drivers of the industry and the competitive l andscape in this space. In order to provide more tran sparency and to help understand our business better, we are providin g 
+indicative data around the market size and our relative share (ass uming the indicative data). This indicative data has been a rrived at basis our detailed internal analysis. This is being done w ith 
+an intent to provide an indicative picture of the industry and addres s queries about the CPaaS space. This must not be seen as a position ing statement of the company, and one should not rely 
+on the company’s disclosure for their assessment of the market siz e or the relevant share of any participants in the market.
+This presentation contains statements that include information conc erning our possible or assumed strategy, future operations, fin ancing pla ns, operating model, financial position, future 
+revenues, projected costs, competitive position, industry envir onment, potential growth opportunities, potential market opportuniti es, plans and objectives of management, as well as assump -
+tions relating to the foregoing that involve substantial risks and un certainties. All statements other than statements of historical fact could be deemed forward-looking in nature. Such statements 
+are inherently subject to risks and uncertainties, some of which c annot be predicted or quantified. In some cases, although not all f orward-looking statements contain these identifying words, 
+you can identify forward-looking statements by terminology such  as “expect,” “anticipate,” “should,” “believe,” “hope,” “targ et,” “project,” “plan,” “PROPOSED,” “goals,” “estimate,” “pote ntial,” 
+“predict,” “may,” “will,” “might,” “could,” “intend,” “shall ,” and variations of these terms or the negative of these terms and sim ilar or derivate expressions. The forward-looking statements i nvolve 
+known and unknown risks, uncertainties and other factors that may c ause our actual results, performance or achievements to be materially different from any future results, performance or 
+achievements, expressed or implied by the forward-looking sta tements. It is advisable not to place excessive reliance on any of the forward-looking statements. Forward-looking statements 
+should not be read as a guarantee of future performance or results  and will not necessarily be accurate indications of the times at, o r by, which such performance or results will be achieved, if at 
+all. Additionally, these forward-looking statements, involve r isk, uncertainties and assumptions based on information availa ble to us as of 17/01/25, including those related to the continued 
+impacts of COVID-19 on our business, future financial perform ance and global economic conditions. Many of these assumptions r elate to matters that are beyond our control and changing 
+rapidly, including, but not limited to, the timeframes for and seve rity of social distancing and other mitigation requirement s, the timing of headwinds from COVID-19, the availability of 
+vaccinations, the continued impact of COVID-19 on new or existing  customers, business decisions and the length of our sales cycle s, renewal timing or billings terms, particularly for customers  in 
+certain industries highly affected by COVID- 19.
+If the risks or uncertainties ever materialize or the assumptions p rove incorrect, our results may differ materially from those exp ressed or implied by such forward-looking statements. We as sume 
+no obligation and do not intend to update these forward-looking state ments or to conform these statements to actual results or to changes in ou r expectations, except as required by law.
+This presentation contains statistical data, estimates and forecasts  that are based on independent industry publications or other publi cly available information wherever possible, as well as 
+other information based on our internal sources. This informati on involves many assumptions and limitations, and you are cautio ned not to place excessive weightage to these estimates. We 
+have not independently verified the accuracy or completeness of  the data contained in these industry publications and other publicl y available information, wherever referred. Certain 
+statements that might or might not be forward-looking statements repres ent our management’s beliefs and assumptions only as of the date o f this presentation. Accordingly, we make no 
+representations as to the accuracy or completeness of that data nor do  we undertake to update such data after the date of this presentation. 
+By receiving this presentation you acknowledge that you will be so lely responsible for your own assessment of the market and our ma rket position and that you will conduct your own analysis 
+and be solely responsible for forming your own view of the poten tial future performance of our business. Any logos or trademark s other than Tanla, Karix, ValueFirst, Gamooga, Trubloq & Wisely  
+included herein are the property of the owners thereof and are use d for reference purposes only.
+=== page 4 ===
+Investor Update Q3 FY25 3All numbers are ₹ unless otherwise statedQ3 FY25 Results – Snapshot 
+Revenue
+10,004 MnGross Profit
+2,607 Mn
+26.1% gross marginEBITDA
+1,634 Mn
+16.3% EBITDA marginFCF
+2,165 Mn
+183% of PAT
+PAT
+1,185 Mn
+11.8% PAT margin8.82EPS Cash
+9,208 Mn
+Increased by ₹ 2155 Mn
+Note: All growth numbers are over Q2 FY25, i.e., QoQ growth
+Cash balance includes fixed deposits with maturity greater than twe lve months classified under Non-Current Assets and liquid inve stments 
+=== page 5 ===
+Investor Update Q3 FY25 4Tanla has track record of Strong Performance
+Sustained Value Creation Best-in-class Execution World Class Culture
+Visionary in 
+CPaaS Magic 
+Quadrant Growth 
+partner of the 
+yearEnterprise 
+Communication Google RCS 
+Growth Partner 
+of the YearReceived 74/100 score 
+from S&P Global‘Global HR excellence 
+award’
+Listed in indices Awards Recognitions7,146 Mn
+Cash returned to 
+shareholders
+15%
+PAT growth1 7+
+Patents4
+325
+Customers with >10 MN 
+Revenue p.a.19,749
+Training hours
+25%
+Women in leadership19%
+Revenue growth1
+19%
+EBITDA growth1100+
+Innovations3
+100+
+Partners51000+
+Employees in India and 
+beyond
+74/100
+S&P Global ESG 
+Score26%+
+Increase in stock 
+price22,000+
+Customers across 
+segments
+50%
+Rev. from 50 / top 100 
+cust., retained for > 5 yr.100%
+Return-to-Work 
+Rate from Parental 
+leaveZero
+POSH and human 
+rights complaints22%
+Gross profit1All numbers are ₹, unless otherwise stated
+1. CAGR growth over four years starting from FY21 to FY24
+2. ₹ 524 on 31st  Mar 2023 vs ₹ 663 on 31st December 2024;  3. Including enhancements:4. patents grant ed for Wisely; 3 provisional patents for ATP and Trubloq 2.0  5.  Includes all 3rd party contractors
+Source: Team analysis
+
+=== page 6 ===
+Investor Update Q3 FY25 5Today, Tanla focuses on two synergistic businesses - Digital Platforms & Enterprise 
+Commu nications
+Deeply embedded
+NRR of 125%Undisputed market leadership
+~35% market share in India
+E2E omnichannel presence
+SMS, Voice, OTT (WhatsApp, TrueCaller , 
+Google RCS) other advanced messaging 
+channels, chatbot, etc.
+Agility & rapid customer 
+service
+10k+ APIs deployed across enterprises 
+to enable full suite of omni- channel 
+communicationMonetizable at scale
+100%  of revenue from 
+SaaS business modelsPredictable growth 
+26%+ growth in gross profit 
+for FY24
+Digital 
+Platforms
+(Innovation Engine)Enterprise 
+Communications
+(Scale with enterprise)
+Innovation at Scale
+The data indicated on market size has been arrived at basis our inte rnal analysis. This is our assessment and merely indicati ve in nature.
+
+=== page 7 ===
+Investor Update Q3 FY256
+Business 
+Outcomes 
+6Tanla awarded the prestigious Growth Partner of the Year by GoogleInvestor Update Q3 FY25
+=== page 8 ===
+Investor Update Q3 FY25 7Customer cohorts
+ Q3 FY24
+2546417335
+64
+25118333
+Q2 FY25
+59
+25016
+>₹ 500 Mn >₹ 100 Mn - < ₹ 500 Mn >₹ 10 Mn - <₹ 100 Mn Count of customers 325
+ Q3 FY25Customers contributing > ₹ 10 
+Mn annual revenue de- grew 
+by 3% on QoQ basis325 customers contributing > 
+₹ 10 Mn annual revenue, down 
+by 2% on QoQ basis 
+1.  Customer segments are arrived at on a quarterly annualized bas is (quarter revenue multiplied by four)
+=== page 9 ===
+Investor Update Q3 FY25 8Customer cohorts
+2,0513,7243,8899,664
+3,346
+2,0284,1509,524
+3,245
+2,1773,7999,221
+1. Customer segments are arrived at on a quarterly annualized basis  (quarter revenue multiplied by four)>₹ 500 Mn >₹ 100 Mn - < ₹ 500 Mn >₹ 10 Mn - <₹ 100 Mn Revenue from 
+customer in (₹ Mn)  Q3 FY24 Q2 FY25  Q2 FY25Top 20 customers are 
+contributing to 46% of 
+revenue (₹ 4,565 Mn)  in Q3 
+FY25Customers on- boarded 
+during the trailing twelve 
+months (TTM) have added ₹ 
+363 Mn in Q3 FY25
+=== page 10 ===
+Investor Update Q3 FY25 9Winning New Logos
+1. New customers include every unique contracting entity added duri ng the year29
+Q3 FY24 Q3 FY2564105123 50%
+New 
+Customers 
+adde d on WA 
+and RCSRevenue from new customers ( ₹ Mn)
+Count of customers 
+=== page 11 ===
+Investor Update Q3 FY25 10Customer Concentration
+12
+out of 20 customers 
+of last year continue to be 
+in Top 20
+Q3 FY254,565 4,239
+Q3 FY2442% 46%Revenue from top 20 customers ( ₹ Mn)
+=== page 12 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly pr ohibited
+Financial 
+Outcomes
+Investor Update Q3 FY2511Tanla Immersive and Experience Center at the India M obile Congress, 2024
+=== page 13 ===
+Investor Update Q3 FY25 12Revenue
+OTT contribution to 
+overall revenue was at 
+22.8% in Q3 FY25, as 
+against 14.8% in Q3 FY24 
+– we are making the 
+shift to rich mediaRevenue growth remains 
+muted
+Q3 FY24 Q 4 FY24 Q2 FY25 Q1 FY25 Q3 FY2515% 21%10% (1%) (0.2%)Y-o-Y growth (₹ Mn)10,026 10,055 10,022 10,007 10,004
+=== page 14 ===
+Investor Update Q3 FY25 13Q3 FY25 – Digital Platforms & Enterprise Communications Revenue 
+9,068 9,049 958955 (₹ Mn)Digital Platforms Enterprise Communications
+Q3 FY24 Q3 FY250.3% de-grew YoY
+Q3 FY25 Q3 FY240.2% de- grew 
+YoY
+ (excl. Vi Impact grew by 16.9%) 
+=== page 15 ===
+Investor Update Q3 FY25 14Gros s profit
+Q3 FY24 Q4 FY24 Q2 FY25 Q1 FY25 Q3 FY2526.9% 26.7% 26.9%26.2% 26.1%Margin% (₹ Mn)2,699 2,686 2,694 2,618 2,607Gross profit de-grew by 0.4% QoQ. 
+Gross margin was at 26.1% in 
+Q3FY25
+Enterprise communications gross 
+profit de-grew by 4.9% QoQ due to 
+softness in ILD business Digital Platform gross profit grew 
+by 8.6% sequentially led by MaaP
+On sequential basis, gross margin % 
+decreased by 11 bps
+
+=== page 16 ===
+Investor Update Q3 FY25 15Gros s margin profile
+Enterprise 
+businessOverall marginPlatform 
+businessB
+CA
+26.9% 26.7% 26.9% 26.1% 26.2%
+35% 33% 32% 33% 36%Contribution by platformADecrease in gross 
+margin by 87bps YoY, 
+and 11 bps QoQ 
+BDigital Platform gross 
+margin contribution 
+to total at 36%
+Enterprise  
+communications gross 
+margin at 18.4% in Q3CQ3
+FY24Q4
+FY24Q1
+FY25Q2
+FY25Q3
+FY25
+19.5% 19.7% 20.1% 18.4% 19.2%97.5%98.2% 98.7% 98.7% 98.7%
+Q3
+FY24Q4
+FY24Q1
+FY25Q2
+FY25Q3
+FY25
+Q3
+FY24Q4
+FY24Q1
+FY25Q2
+FY25Q3
+FY25
+=== page 17 ===
+Investor Update Q3 FY25 16Efficiency Metric s
+71%63%
+EBITDA Gross Profit EBITDA to Gross Profit conversionQ3 FY24 Q3 FY25 (₹ Mn)1,9282,699
+1,6342,607
+Indirect cost was at 9.7% of revenue 
+in Q3 FY25 as against 7.7% in Q3 
+FY24 EBITDA was at ₹ 1,634 Mn, de- grew 
+by 6.8% QoQ. The decrease can be 
+primarily be attributed increase in 
+indirect cost spends and one-time 
+forex impact of ₹ 44 Mn
+EBITDA margin declined by 119 basis 
+points sequentially and 289 basis 
+points YoY
+
+=== page 18 ===
+Investor Update Q3 FY25 17
+Indirect cost walk QoQ (₹ Mn)
+Q2 FY25 Forex 
+FluctuationQ3 
+FY25Employee 
+Cost973We have a forex fluctuation loss 
+of ₹44 Mn in Q3, compared to a 
+₹23 Mn gain in Q2, due to sharp 
+depreciation of EURO
+Employee cost increased by ₹23 
+Mn. We will continue to invest in 
+talent23 3467864
+Cloud 
+and 
+hosting Other 
+expenses(15)
+Over the longer period, 
+cumulative impact of forex 
+fluctuation from Q3 FY24 to Q2 
+FY25 is a gain of ₹11 Mn
+=== page 19 ===
+Investor Update Q3 FY25 18Operating Income
+Q3 FY24 Q4 FY24 Q1 FY25 Q3 FY25 Q2 FY25Q3 FY24 Q4 FY24 Q1 FY24 Q3 FY25 Q2 FY25
+EBITEBITDA (₹ Mn)  (₹ Mn)1,6941,3761,658 1,5201,3881,9281,6041,8861,754 1,634
+1 Please refer slide no. 28 for reconciliation between reported n umber to adjusted number.   EBIT was at ₹ 1,388 Mn and EBIT 
+margin at 13.9% in Q3EBITDA de-grew by 15.2% YoY and 
+6.8% QoQ to ₹ 1,634 Mn in Q3 FY25 
+We have capitalized our “ MaaP ” 
+platform during the quarter 
+resulting in increased depreciation 
+by ₹ 25 Mn 
+1
+1
+=== page 20 ===
+Investor Update Q3 FY25 19Free Cash Flow Generation
+Q3 FY24 Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 (₹ Mn)
+6401,492
+744
+5202,165 In Q3, we generated ₹ 2,165 Mn as 
+free cash flow highest in last six 
+quarters
+DSO at 82 days in Q3, improved by 
+8 days from Q2
+
+=== page 21 ===
+Investor Update Q3 FY25 20Profit After Tax & EPS
+EPSProfit After Tax (PAT) (₹ Mn)  (₹)Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q3 FY241,3021,4121,3021,1851,401
+Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q3 FY249.69 10.50 9.708.8210.42
+1. Please refer slide no. 28 for reconciliation between reported n umber to adjusted number EPS was at ₹ 8.82 in Q3 FY25PAT was at ₹ 1,185 Mn in Q3, 
+impacted by increase in indirect 
+cost spends and impact of forex 
+loss
+Effective tax rate for Q3 FY25 is at 
+19.2%
+1
+=== page 22 ===
+Investor Update Q3 FY25 21
+Strong Balance Sheet
+22,330 Mn
+Strong Equity and Reserves9,208 Mn
+Cash & cash equivalents 34%
+ROCE (excluding cash & cash 
+equivalents)
+Debt FreeAll numbers are ₹, unless otherwise stated  
+Tanla Immersive & Experience Center at IMC 2024
+=== page 23 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly pr ohibited
+Annexures
+Investor Update Q 3 FY25 22Industry Roundtable at Karix  Elevate, an event hosted in collaboration with Meta
+=== page 24 ===
+Investor Update Q3 FY25 23Profit & Loss 
+Q3 FY25
+Q3 
+FY24Q3 
+FY25Q2 
+FY25 In ₹ Mn, unless otherwise stated ∆%
+134.3 134.4  134.3 Weighted average shares outstanding10,007  10,026  10,004 Revenue from operations (net) (0)
+(7,389)  (7,327)  (7,397)  Cost of services 1
+2,618 2,699 2,607  Gross Profit (3)
+(864) (771)  (973) Operating Expenses 26
+1,754 1,928 1,634 EBITDA (15)
+(234) (234) (246)  Depreciation and Amortization 5
+1,520 1,694 1,388  EBIT (18)
+(15) (17) (14) Finance Cost (18)
+102 51 94 Other income 84
+1,607 1,728 1,468 Profit before taxes (15)
+(305) (327) (283)  Tax expenses (13)
+1,302 1,401 1,185 Profit after taxes (15)
+9.70 10.42 8.82 Earnings per share (15)
+=== page 25 ===
+Investor Update Q3 FY25 24Balance Sheet December 31, 2024
+In ₹ Mn, unless otherwise stated
+Assets
+Non-current assets
+Property, plant and equipment 
+Internally developed - Platforms
+Customer Relationships
+Trade name
+Technology
+Non Compete
+Intangible assets under development
+Goodwill
+Right -of-use assets
+Deferred tax assets (net)
+Other non-current assets
+Capital work- in-progress
+Financial assetsSoftware
+Investment Property
+Total Non-Current Assets
+Trade receivables
+Cash and cash equivalents
+Bank balances other than cash and cash equivalents
+Other financial assets
+Other current assets
+Total current assets
+Total Assets2,281
+852
+271
+26
+92
+17
+1,145
+2,646
+590
+405
+435
+16
+416217
+17
+9,426
+10,045
+5,221
+46
+5,126
+508
+22,499Unaudited 
+Sep 30, 2024
+31,925Equity  & Liabilities
+Equity share capital
+Other equity
+Total equity
+Financial liabilities
+Lease liabilities
+Other financial liabilities
+Provisions
+Other non-current liabilities
+Total non-current Liabilities
+Current liabilities
+Trade payables
+Lease liabilities
+Other financial liabilities
+Other current liabilities
+Provisions
+Current tax liabilities (net)
+Total current liabilities
+Total Equity & LiabilitiesUnaudited 
+Dec 31, 2024
+20,941
+21,076
+-   
+597
+-   
+16
+8
+621
+6,238
+99
+3,146
+341
+83
+321
+10,228
+31,925135In ₹ Mn, unless otherwise statedUnaudited 
+Sep 30, 2024
+Investments 1,5532,243
+1,467
+256
+22
+83
+15
+678
+2,646
+556
+448
+655
+28
+452204
+17
+9,770
+8,976
+3,995
+2,540
+4,614
+328
+22,872Unaudited 
+Dec 31, 2024
+32,6422,41922,195
+22,330
+-   
+565
+-   
+18
+11
+594
+6,192
+104
+2,668
+348
+83
+323
+9,718
+32,642135
+=== page 26 ===
+Investor Update Q3 FY2525Condensed 
+Cash flow 
+Q3 FY25
+1.Cash balance includes fixed deposits with maturity greater than twe lve months classified under Non-Current Assets and investments  in short term liquid funds In ₹ Mn, unless otherwise stated Q3 FY25 Q2 FY25
+Cash flow before changes in working capital 1,711 1,761
+Changes in working capital 1,240 (455)
+Cash generated from operations 2,951 1,306
+Taxes (319) (417)
+Cash flow from operating activities 2,632 889
+Net investments in tangible and intangible assets (467) (369)
+Purchase/sale of short-term liquid funds (865) (1,553)
+Interest and other income 92 76
+Cash flow from investing activitiess (1,261) (1,741)
+Proceeds from issue of shares 0 0
+Dividend paid - (807)
+Interest paid on lease liabilities (15) (31)
+Cash flow from financing activities (58) (1,134)
+Cash flow for the period 1,313 (1,985)
+Cash and cash equivalents at the beginning of period 7,053 7,572
+Forex Fluctuations (44) 17
+Investments in short term liquid funds 865 1,553
+Fixed Deposits maturity more than 12months(1) 21 (105)Purchase of shares as part of ESOP trust pool (15) (285)Movement in Bank Balances (21) 105
+Cash and cash equivalents closing balance       9,208 7,053
+Payment on lease liabilities (28) (11)
+=== page 27 ===
+Investor Update Q3 FY25 26Free 
+Cash Flow 
+Q3 
+FY24Q3 
+FY25Q2 
+FY25 In ₹ Mn, unless otherwise stated ∆%
+889 1,083 2,632 Operating cash flow 143%
+(369) (443) (467) Capital expenditure 5%
+520 640 2165 Free cash flow 238%
+5% 6% 22% Free cash flow in percent of total revenue -
+40% 46% 183% Free cash flow as % of PAT -
+=== page 28 ===
+Investor Update Q3 FY25 27Recon ciliation
+Q2 
+FY25Q3 
+FY25 Q4 FY24 In ₹ Mn, unless otherwise stated Q1 FY25
+1,604 1,754 1,634 Reported EBITDA 1,886
+273 - - One-time expense- MWC -
+1,877 1,754 1,634 Adjusted EBITDA 1,886
+1,649 1,520 1,388 Adjusted EBIT 1,658
+1,361 1,302 1,185 adjusted PAT 1,412
+1. Adjusted PAT is normalized for the post tax impact for 1 items – (i)  one-time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024
+=== page 29 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly pr ohibited
+About Us
+28 Investor Update Q3 FY25Festive Celebrations at Tanla Innovation Center
+=== page 30 ===
+Investor Update Q3 FY25 29Tanla embeds Gen AI across all its platforms 
+Wise AlbertOur intelligent core underlying all our products, revolutionizing digital interactions through Gen Al 
+capabilities
+Audience.ai 
+(whom to send)Channel & Partner.ai 
+(how to send)Content.ai 
+(what to send)
+Scam identification and 
+prevention in <50 ms through 
+AI-ML led enginesTrubloq
+Registration.ai
+DigiAssets.ai
+•100% compliance with 
+all regulatory guidelinesWisely
+•90%+ time saving in 
+the registration process
+•1 single dashboard for 
+digital asset analyticsATP
+CTA engineSemantics engine
+Sender reputationSingle API-led intelligent platform for omni-channel digital 
+interactions to deliver distinctive impact for enterprises and 
+their users
+Single 
+API 
+Partner 
+marketplace End-to- End 
+encryption 
+SSOT enabled 
+by blockchain Smart 
+routing 
+Integrated 
+plugins Performance 
+analytics 
+Core 
+stack GenAI to elevate Trubloq’s 
+signature experience
+=== page 31 ===
+Investor Update Q3 FY25 30We have also successfully addressed several Greenfield opportunities
+Trubloq
+With world’s 1st blockchain-enabled communication 
+stack. It works with a consortium of telecom  players and 
+other stakeholders to maintain the leadership position
+100% Compliance to address all legal 
+challengesRegulatoryUser 1Bn+ Users touched
+60–80%Reduction in complaints per Mn 
+SMS from telemarketers
+Business
+100%
+ Market share in UAE
+50k+ Enterprise partners3/4 Indian telcos served
+ATP
+First of its kind anti-smishing platform. 
+Identification Prevention Elimination
+A. Govt &  its 
+institutions
+B. 
+EnterprisesC. 
+Telcos
+=== page 32 ===
+Investor Update Q3 FY25 31Our Customers love us in India and beyond
+of total revenues contributed by 
+50 of our top 100 customers, 
+retained for more than 5 years50%+
+2000+       
+Customers across segmentsPlayer of choice 
+in India across industries 
+leaders…and serve global gian ts in 4 
+regionsWe are the player of choice in India…
+7/10top insurance9/10top banks served
+8/10top financial 
+services
+7/1
+0top social media
+marquee govt. projects
+This indicative data on market size has been arrived at basis our i nternal analysis. This is our assessment and merely indicative  in nature and should not be relied upon~35% 
+CPaaS market share 
+SEA
+Middle  East
+USA & 
+EuropeGlobal Tech giants
+=== page 33 ===
+Investor Update Q3 FY25 32Our Market Leadership in Enterprise Communication (1/2)
+This indicative data on market size has been arrived at basis our i nternal analysis. This is our assessment and merely indicative  in nature and should not be relied uponHigh Customer Stickiness
+ Tech. backed use cases
+50 of Top 100 acco unts > 5 years 
+Double digit growth in every customer cohort since 
+inception
+100+ API’s integrations within a single  enterprises  across 
+different ecosystemsUnm atched scale with 35% CPaaS market share
+5% increase post ValueFirst  acquisition 
+~45% share in SMS NLD market
+Player of choice across industry
+2000+ customers across industries
+8 of Top 10 brands served across banking, Insurance, 
+Retail, E-Comm, Travel & Digital Natives
+Largest government partner
+Multiple campaigns supportedCustomized to serve enterprise needs
+Deeply integrated, with all major CRM systems across 
+verticals to enable omnichannel communication
+10,000 customized APIs to integrate with customers
+1000+ bank -specific use cases supported
+=== page 34 ===
+Investor Update Q3 FY25 33Our Market Leadership in Enterprise Communication (2/2)
+New er Channels Tech. backed use cases
+AI/M L based solutions developed for a 
+leading bank
+Impact: 2X increase in loyalty (offers availed) 
+for the bank
+Context
+Automated relevant promotional messages 
+based on user card swipe activity
+In house  ML capabilities leveraged to trigger 
+targeted offer to users basis transaction 
+amount, location, and card typeServing enterprise curated needs 
+Commerce on WhatsApp: Enabled  cab 
+booking over WhatsApp for a seamless consumer 
+journeyTurbo charging our growth 
+4x growth in RCS
+=== page 35 ===
+Great 
+Financial Track 
+Record
+We continue 
+to deliver over 
+the last five 
+yearsAll figures in ₹ Mn
+3410,040
+Revenues 201939,278
+Revenues 2024~4x
+967
+EBITDA 20197,322
+EBITDA 2024~8x
+298
+PAT 20195,483
+PAT 2024~18x
+Investor Update Q2 FY2534
+=== page 36 ===
+Thank YouFollow us at:
+ Thank You
