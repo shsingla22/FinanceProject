@@ -34894,5 +34894,119 @@
    "read_next": "The registered valuer / SEBI merchant banker valuation supporting the USD 118.30 Million KEC Investment Holdings transfer price",
    "quote": "This will result in a unified holding-cum-operating structure, housing all the international tower manufacturing facilities under KEC Towers LLC, without any change in ultimate ownership of the Company over the subsidiaries."
   }
+ },
+ "IXIGO::rationale": {
+  "stamp": "928cb55f4ecfd9d7cb49edc112efd9c9",
+  "verdict": {
+   "rationale": "These texts do not disclose any separation, demerger, spin-off or Scheme of Arrangement at Le Travenues Technology (IXIGO) \u2014 there is no scheme document, no appointed date, no share entitlement ratio, no NCLT/creditor process, and no management discussion of hiving off a business, so a separation rationale cannot be reconstructed from them. The only actual separation of a business interest in the record is a divestment, not a demerger: by a Share Purchase Agreement dated August 13, 2026, the company agreed to sell 46,264 Compulsorily Convertible Preference Shares of Freshbus Private Limited (an electric intercity bus operator it had backed under an Investment and Shareholders' Agreement dated October 28, 2022, buying 68,258 CCPS plus 1 equity share at \u20b92,344 per share) to Twelve Stone LLP at \u20b97,911 per share \u2014 \u20b9365,994,504 cash for 17.39% of Freshbus \u2014 cutting its stake from 25.66% to 8.27% so that Freshbus ceases to be an associate company, with completion due on or before August 30, 2026. The buyer is not a related party but is an entity whose designated partners are Sudhakar Reddy Chirra, Freshbus' Founder and Managing Director, and Sasya Chirra, i.e. a founder buy-back; the filing states no strategic reason, and no earnings call in the record discusses the sale (the last call, May 21, 2026, predates it). What the filing does quantify is the drag being removed: Freshbus contributed a \u20b911.22 crore share of loss in audited FY26 consolidated accounts (\u20b92.34 cr in Q1, \u20b91.47 cr in Q2, \u20b92.9 cr in Q3 and \u20b94.559 cr in Q4, a widening loss each quarter and the most frequently 'called-out' item in Saurabh Singh's one-offs for three years) against a carrying value of only \u20b918.87 crore, or 0.96% of consolidated net worth, with the exit priced at roughly 3.4x the 2022 entry price. The nearest thing to a separation of an operating business discussed on the calls is organisational, not legal: Rajnish Kumar's 'new co inside the old co' \u2014 a small, unencumbered, AI-native team carved out inside ixigo with the parent's data and resources, which management says produced ixigo NEXT, plus a self-disruption framing (Project Trishul: efficiency, revenue/leverage, disruption) explicitly modelled on the 2013-14 ixigo Trains app that 'made old business models obsolete.' The other structural moves are additive rather than separative: a new wholly owned Singapore subsidiary, IXIGO PTE. LTD. (SGD 50,000 initial, approved November 12, 2025) set up as the channel for overseas investment, through which the company bought 60% of Spain's Online Travel Solutions S.L. ('Trenes') for \u20ac11.70 million (~INR 126 crore, including non-compete fees) as a step-down subsidiary, funded from the 25% of the \u20b91,295.56 crore Prosus (MIH Investments One B.V.) preferential issue earmarked for inorganic growth. Nobody \u2014 no investor, lender or partner \u2014 asks for a separation anywhere in these calls; what investors repeatedly press for is the opposite kind of separation, namely separate disclosure of the hotels line, which management keeps withholding until product-market fit and 'meaningful scale.'",
+   "evolution": "No separation idea ever surfaces: across Aug 2024, May 2025, Jul 2025, Oct 29 2025 (Q2 FY26), Jan 22 2026 and May 21 2026 calls, Freshbus appears only as a recurring one-off 'share of loss of an associate' line, never as a strategic question, and the sale is first revealed in the August 13, 2026 Reg 30 filing after the last transcript. The self-disruption 'new co inside the old co' idea is introduced by Rajnish Kumar on the Oct 29, 2025 call alongside the \u20b91,296 crore Prosus raise, and by the May 21, 2026 call it has been named \u2014 'over the past year, we created what we internally called NewCo inside ixigo' \u2014 and folded back into the parent as ixigo NEXT rather than separated out. In parallel the structure expands outward: the Singapore WOS is approved November 12, 2025, explained on the January 22, 2026 call as 'a channel for the overseas investment,' and used for the Trenes acquisition announced February 13, 2026. The only separation investors actually ask about is reporting-level \u2014 hotels as a disclosed segment \u2014 deferred again in Jan 2026 and May 2026.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The August 13, 2026 Reg 30 filing \u2014 the only separation document in the record \u2014 is a plain stake sale, not a demerger: 46,264 CCPS of Freshbus sold to Twelve Stone LLP at \u20b97,911 per share for \u20b9365,994,504 cash, completing on or before August 30, 2026.",
+     "quote": "Pursuant to the said agreement, the Company has agreed to sell 46,264 Compulsorily Convertible Preference Shares of Freshbus Private Limited to Twelve Stone LLP at a price of \u20b97,911 per share, constituting 17.39% stake of the paid up share capital in Freshbus Private Limited."
+    },
+    {
+     "call": "Scheme",
+     "point": "The stated consequence is deconsolidation of the associate: stake falls 25.66% to 8.27%, ending equity-method accounting; the filing gives no strategic rationale, no buyer-synergy argument and names no party that requested it.",
+     "quote": "Upon completion of the transaction, the Company's shareholding in Freshbus Private Limited shall stand reduced from 25.66% to 8.27% of its paid up share capital, resulting in Freshbus Private Limited ceasing to be an associate company of Le Travenues Technology Limited."
+    },
+    {
+     "call": "Scheme",
+     "point": "The filing quantifies what the exit removes and how little it was worth on the books: a \u20b911.22 crore FY26 share of loss against an \u20b918.87 crore carrying value, under 1% of consolidated net worth \u2014 exited at \u20b97,911 versus the \u20b92,344 October 2022 entry price.",
+     "quote": "Net worth: It contributes \u20b918.87 crore as investment in associate accounted for in consolidated financial statements constituting 0.96% of the net worth as per the audited consolidated financial statements as on March 31, 2026."
+    },
+    {
+     "call": "CALL May 2026",
+     "point": "The Freshbus loss was still widening right before the sale \u2014 \u20b945.59 million (\u20b94.56 crore) in Q4 FY26 versus \u20b93.29 crore a year earlier \u2014 and was flagged as a call-out every quarter without any hint that an exit was being contemplated.",
+     "quote": "The call -outs for Q4 FY '26 include share of loss from Fresh Bus and associate company of INR45.59 million, tax benefits amounting to INR82.5 million --"
+    },
+    {
+     "call": "CALL Nov 2025",
+     "point": "The only 'separation' management actually argues for is internal and defensive \u2014 a startup-like unit carved out inside the company to disrupt its own model before AI-native entrants do, with the 2013-14 ixigo Trains app as the precedent that 'made old business models obsolete'.",
+     "quote": "We call this building a new co inside the old co."
+    },
+    {
+     "call": "CALL May 2026",
+     "point": "A year on, that NewCo is described as a small team rebuilt around AI whose output \u2014 ixigo NEXT \u2014 is launched inside the existing apps, i.e. reabsorbed into the parent rather than separated, with no legal or reporting ring-fence mentioned.",
+     "quote": "So over the past year, we created what we internally called NewCo inside ixigo."
+    },
+    {
+     "call": "CALL Jan 2026",
+     "point": "The structural change management does explain is additive: a new wholly owned Singapore entity (IXIGO PTE. LTD., SGD 50,000 initial capital) as the conduit for overseas investments, later used to buy 60% of Spain's Trenes for \u20ac11.70 million as a step-down subsidiary.",
+     "quote": "So, the Singapore subsidiary in some sense would be a channel for the overseas investment that we would be doing."
+    },
+    {
+     "call": "CALL May 2026",
+     "point": "The separation investors keep asking for is disclosure-level, not corporate: hotels remains folded into group EBITDA, and management defers breaking it out until product-market fit, operational maturity and scale \u2014 Prateek Kumar and Anmol Garg both press on it.",
+     "quote": "Though we have some confirmations emerging on our hypothesis of how we will differentiate our experience for the customer and supply side, we will start disclosing hotels separately only once we believe the business has reached the right level of product -market fit, operational maturity, and meaningful scale."
+    },
+    {
+     "call": "CALL Jan 2026",
+     "point": "Capital allocation is framed around buying and building, not splitting: the \u20b91,295.56 crore Prosus preferential issue was split into four 25% buckets (organic, inorganic, working capital, general corporate), with an Investment Committee under Shailesh Lakhani and Rajesh Sawhney to vet deals.",
+     "quote": "On the AI investments Rajnish talked about, I want to reiterate that when we raised the preferential issue last quarter, we had earmarked 25% of the proceeds for inorganic growth opportunities and 25% for organic growth initiatives."
+    }
+   ],
+   "what_management_expects": "Nothing is said, because no separation is announced. For the Freshbus exit the filing claims no benefit at all \u2014 only \u20b936.6 crore cash, removal of an \u20b911.22 crore annual associate loss, and deconsolidation of a holding worth 0.96% of net worth. For NewCo/ixigo NEXT management expects top-of-funnel growth and agentic cost efficiencies, explicitly unquantified: 'too premature and too early to talk about the impact on financials.'",
+   "gaps": "Everything: no scheme, no demerger rationale, no entitlement ratio or timetable; the Freshbus sale's purpose, valuation basis, residual 8.27% plan and founder-buyback context are never explained or discussed on any call."
+  }
+ },
+ "KFINTECH": {
+  "stamp": "c032457c594c55a4e7e944846d2bba87",
+  "verdict": {
+   "what_is_spun": "Nothing is separated \u2014 three software subsidiaries are absorbed into KFin; the Scheme is an amalgamation, not a spin-off",
+   "demerged_business_names": [
+    "not stated"
+   ],
+   "reason": "Streamline group structure by reducing legal entities, simplifying operations, enabling better management oversight, operational synergies, cost efficiencies, optimum resource utilisation, improved cash management and greater financial flexibility",
+   "reason_class": "value_unlocking",
+   "insiders": "not stated \u2014 no shares issued, no consideration paid, and no change in the Company's shareholding pattern or capital structure",
+   "hidden_value": "Discloses the absorbed units' standalone size as of June 30, 2026: WebileApps net worth Rs 17.82 cr on income Rs 16.22 cr; Hexagram Rs 23.59 cr on Rs 4.45 cr; WebileApps Tech Rs 0.45 cr on nil income; KFin net worth Rs 1,736.51 cr",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No share issuance, no new listed entity and no change in shareholding pattern, so no index or holder reshuffle arises",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated",
+   "listing_timeline": "not stated",
+   "read_next": "The Composite Scheme itself \u2014 appointed date, and amalgamation's tax/amortisation effect on standalone net worth and PAT",
+   "quote": "The proposed Composite Scheme of Amalgamation  of the Transferor Companies with the Transferee Company is expected to streamline the group structure by reducing the number of legal entities and simplifying operations."
+  }
+ },
+ "IXIGO::segments": {
+  "stamp": "b1ac81837ea300df1337813f0d1a07bc",
+  "verdict": {
+   "segment_name": "Freshbus Private Limited (associate; not a reported segment \u2014 the 'Bus' segment shown is ixigo's own bus-ticketing OTA line of business)",
+   "unit": "\u20b9 million",
+   "measure_notes": "No standalone Freshbus P&L on these pages. Freshbus appears only as an equity-method associate and related party: ixigo's share of loss of associate, net of tax, was 59.07 (FY24), 90.97 (FY25), 112.22 (FY26) [AR2024 p206; AR2025 p244; AR2026 p263], plus related-party ticketing revenue 4.94/7.90/17.63 and advertisement revenue 0.21/0.56/3.60 earned by ixigo FROM Freshbus, and trade payables 1.02/0.51/1.12. These are ixigo's figures, not Freshbus's own revenue, operating profit or PAT, so all year fields are left null. Segment tables report 'Segment Results' = segment revenue (net ticketing + other operating revenue) less direct expenses, i.e. contribution margin, external revenue net of discount, with no inter-segment revenue disclosed. Oct 2026 presentation p14 notes a partial sale of stake in Freshbus aiding PAT, without Freshbus financials.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2024 \u2014 page 206 (no Freshbus standalone figures; associate share of loss only)"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2025 \u2014 page 244 (no Freshbus standalone figures; associate share of loss only)"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "Annual Report 2026 \u2014 page 263 (no Freshbus standalone figures; associate share of loss only)"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "Presentation Oct 2026 \u2014 page 14 mentions partial stake sale in Freshbus but gives no Freshbus revenue or profit"
+   },
+   "not_found": "Freshbus's own revenue, operating profit/EBITDA and PAT for all years and quarters; only ixigo's equity-method share of associate loss and related-party balances are disclosed."
+  }
  }
 }
