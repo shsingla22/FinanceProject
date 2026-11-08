@@ -1,0 +1,217 @@
+ 
+ 
+ 
+ 
+ 
+ 
+One 97 Communications Limited 
+compliance.officer@paytm.com  
+www.paytm.com  
+ Corporate Office - One Skymark, Tower -D, Plot No. H -10B, Sector -98, Noida -201304  
+T: +91120 4770770   F: +91120 4770771 CIN: L72200DL2000PLC108985  
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi -110019  November 04, 2025  
+ 
+BSE Limited  
+Department of Corporate Services,  
+Phiroze Jeejeebhoy Towers,              
+Dalal Street, Fort,  
+Mumbai – 400 001  
+ 
+Scrip Code: 543396  National Stock Exchange of India Limited  
+The Listing Department,  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Mumbai – 400 051  
+ 
+Symbol: PAYTM  
+ 
+Sub.:  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Earning Release  
+ 
+Dear Sir / Ma’am,  
+ 
+In continuation to our earlier letter dated October 14, 2025, and p ursuant to Regulation 30 of SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 read with NSE Master Circular No. 
+NSE/CML/2025/25 dated April 30, 2025  and BSE Master Circular No. dated April 30, 2024 , please find 
+enclosed copy of Earning Release for the quarter and half year ended September 30, 2025.  
+ 
+The Earning Release will also be hosted on the Company's website viz. 
+https://ir.paytm.com/financialresults . 
+ 
+Kindly take the same on record.  
+ 
+Thanking you  
+ 
+Yours Sincerely,  
+ 
+For One 97 Communications Limited  
+ 
+ 
+ 
+Sunil Kumar Bansal  
+Company Secretary and Compliance Officer  
+ 
+ 
+Encl. : As Above  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1
+Earnings Release
+For the quarter ending September 2025
+4thNovember 2025
+
+2Earnings Release  |Q2 FY 2026
+₹(404) Cr₹(223) Cr₹(88) Cr₹72 Cr₹142 Cr
+-24%-12%-5%4%7%
+Sep-24 Dec-24 Mar-25 June-25 Sep-25
+EBITDA EBITDA Margin (%)Sep-24 Dec-24 Mar-25 Jun-25 Sep-25₹1,841 Cr ₹1,828 Cr
+₹1,660 Cr₹2,061 Cr
+(Qtrending)₹1,918 Cr24% YoYFinancial Highlights for Q2 FY 2026:
+•Operating revenue grew by 24% YoY (up 27% YoY after excluding revenue from entertainment 
+business in previous period) to ₹2,061 Cr, led by increase in subscription merchants, higher 
+payments GMV, and growth in distribution of financial services
+•Contribution profit at ₹1,207 Cr (up 35% YoY), with a contribution margin of 59% (up 5 
+percentage points YoY), driven by improved net payment revenue, higher share of distribution of 
+financial services revenue, and reduction in DLG expenses
+•EBITDA improved to ₹142 Cr (margin of 7%), on account of revenue growth and operating 
+leverage
+•PAT improved to ₹211 Cr (before one -time charge for full impairment of ₹190 Cr loan to our JV, 
+First Games Technology Pvt. Ltd). Reported PAT is at ₹21 Cr
+•Cash balance of ₹13,068 Cr, providing capital flexibility to expand business
+As discussed earlier, we are discontinuing “adjusted” metrics from our reporting. All disclosures will 
+henceforth be on a GAAP basis or standard definitions.
+Business Highlights:
+•Net payment revenue was up 28% YoY to ₹594 Cr, led by growth in high quality subscription 
+merchants and increase in payment processing margins
+•Distribution of financial services revenue increased by 63% YoY to ₹611 Cr, driven by growth in 
+merchant loan distribution 
+•Consolidated leadership in merchant payments; merchant device subscriptions at 1.37 Cr
+•Consistent gain in consumer market share over the past few months due to product improvement 
+and addition of AI featuresRevenue grew 24% YoY to ₹2,061 Cr; EBITDA improved to 
+₹142 Cr (7% margin) 
+Robust business model and AI -led opportunities leading to profitable growth & margin 
+improvement
+Continuous increase in EBITDA Margin
+(Qtrending)₹ 546 Cr YoY 
+ImprovementRevenue Growth Momentum Continues 
+For like -to-like comparison, Revenue and EBITDA in the above graphs excludes ₹70 Cr of UPI incentive in Q4 FY 2025
+3Earnings Release  |Q2 FY 2026
+Key Focus Areas
+1.Continue to Lead India’s Enterprise and MSME Merchants Payments: We are 
+focused on expanding our leadership across small and large, both online and offline 
+merchants by deepening penetration of our full stack payment offerings including 
+payment gateway solutions, QR, Soundbox, All in One POS card machines, etc
+2.Expanding distribution of Financial Services: We are growing financial services 
+distribution through increase in number of lending partners including banks, 
+introduction of new products such as Paytm Postpaid with a bank partner, and 
+continued enhancement of collection performance using AI
+3.UPI Payment Consumer Acquisition: We are driving AI -first, product -led innovation 
+to enhance consumer experience and boost retention, supporting continued gains in 
+consumer market share
+4.International Expansion: As an additional long -term growth driver, we are evaluating 
+select new markets for our technology and products. We expect this initiative to start 
+contributing meaningfully after 2 -3 years (more details provided later in the note)
+
+4Earnings Release  |Q2 FY 2026
+7.1 Cr
+7.0 Cr7.2 Cr7.4 Cr7.5 Cr
+Sep-24 Dec-24 Mar-25 June-25 Sep-25Payment Services: Consolidating leadership in 
+merchant payments
+Payments Revenue 
+In Q2 FY 2026, Payment Services revenue 
+(including other operating revenue) was up 25% 
+YoY at ₹1,223 Cr. Net payment revenue was up 
+28% YoY at ₹594 Cr due to improved payment 
+processing margin, high quality device additions 
+and early onset of festive season. Net payment 
+revenue is comprised of: 
+1. Payment Processing Margin: 
+In Q2 FY 2026, GMV grew by 27% YoY to ₹5.67 
+Lakh Cr. We continue to see increase in payment 
+processing margin on account of higher growth of 
+credit card on UPI and affordability offerings (such 
+as EMI). Payment processing margin was 
+comfortably above the guided 3bps margin. 
+2. Subscription revenues:
+As of September 2025, merchant subscriptions 
+were at 1.37 Cr, an increase of 25 lakh YoY. Over 
+the last few quarters, we have been actively 
+picking up devices from inactive merchants and 
+redeploying them to new merchants after 
+refurbishment, resulting in higher active merchants 
+and lower capex.
+During the quarter, we reinforced our innovation 
+leadership with the preview of India’s first AI 
+Soundbox, transforming the Paytm Soundbox from 
+a payment alert device into an intelligent business 
+assistant which delivers real -time insights on 
+payments and business performance to merchants.
+Consistent growth in Monthly 
+Transacting Users (MTU)
+In Q2 FY 2026, our average MTU reached 7.5 Cr. 
+We are seeing encouraging signs of user growth 
+and retention, resulting in consistent market share 
+gains, due to our product -led growth strategy. We 
+will continue to drive MTU growth with focus on 
+product improvement and addition of AI features. 
+₹465 Cr₹488 Cr₹508 Cr₹529 Cr
+Sep-24 Dec-24 Mar-25 June-25 Sep-25Net Payment Revenue (Qtrending)
+28% YoY ₹594 Cr
+4.5 L Cr5.0 L Cr5.1 L Cr5.4 L Cr
+Sep-24 Dec-24 Mar-25 June-25 Sep-255.7 L CrGross Merchandise Value 
+27% YoY(Qtrending)
+Merchant Subscriptions
+(including Devices)
+1.12 Cr1.17 Cr1.24 Cr1.30 Cr1.37 Cr
+Sep-24 Dec-24 Mar-25 June-25 Sep-2525 Lakh YoY(Qtrending)
+Monthly Transacting Users (Qtrending)
+36 Lakh YoY
+5Earnings Release  |Q2 FY 2026
+Distribution of Financial Services: Low penetration offers 
+significant long -term opportunity
+In Q2 FY 2026, distribution of financial services 
+revenue grew 63% YoY to ₹611 Cr, driven by 
+continued growth in merchant loan distribution and  
+improved collection performance experience for our 
+partners.
+Customers who availed financial services through our 
+platform, saw an uptick from 6.0 Lakh in Q2 FY 2025 
+to 6.5 Lakh in Q2 FY 2026 led by growth in Merchant 
+Loans and Equity broking users.Distribution of Financial 
+Services Revenue(Qtrending)
+₹376 Cr₹502 Cr₹545 Cr ₹561 Cr
+Sep-24 Dec-24 Mar-25 June-25 Sep-25₹611 Cr 63% YoY
+Loan Distribution
+Merchant Loan Distribution:
+During the quarter, we continued to see robust momentum in merchant loan distribution, driven by growth in 
+our merchant device base and higher penetration. More than 50% of loans were issued to repeat borrowers, 
+underscoring high merchant stickiness and strong product -market fit. We continue to earn substantial 
+collections bonuses as our lending partners are experiencing better asset quality outcome, supported by 
+Paytm’s advanced AI models that intelligently predict merchant churn and delinquencies, enabling proactive 
+engagement and collections efforts.
+Consumer Loan Distribution:
+In our consumer credit segment, we relaunched Paytm Postpaid offering. A ‘Spend Now, Pay Next Month’ UPI 
+overdraft for Paytm customers offered across merchants (both online and offline). This product offers up to 30 
+days of short -term credit from a bank partner, giving consumers the flexibility to spend instantly and repay the 
+following month. The offering is currently being rolled out to a selected base and will be expanded to more 
+consumers in the coming period.
+In Personal loans, our lending partners continue to adopt a measured approach ensuring portfolio quality. With 
+an increase in lending partners integrated into our platform, we are well -positioned to scale disbursements as 
+market sentiment improves.Key Financial Services Customers (# Lakh) 
+6.0 5.9 5.5 5.6 6.5
+Equity Broking
+We have enhanced our focus on equity broking business and are 
+seeing improved monetization across Equity Broking and Margin trade 
+funding (MTF). Looking ahead, we except this trend to continue driven 
+by AI -powered product offerings.
+Switch to Margin Trading 
+Facility (MTF) @7.99% p.a.
+Inve stments in the securities marke t are  subject to market risk, read all related docume nts carefully before investing. Margi n Funding as subject to the provisions of SEBI Circular CIR/MRD /DP/54/2017 dated 
+June 13, 2017, and the term s and conditions mentioned in rights and obligations statem ent issued by the Paytm Money Limited

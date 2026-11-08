@@ -1,0 +1,462 @@
+ 
+ 
+ 
+02nd December , 202 5 
+ 
+To, 
+The Corporate Relationship Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai 400 001.  
+Scrip Code: 539523  National Stock Exchange of India Limited  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Bandra East,  
+Mumbai  400 051.  
+Scrip Symbol: ALKEM  
+ 
+Sub: Sustainability Report for financial year 202 4-2025 
+ 
+Dear Sir (s) / Madam,  
+ 
+Please find enclosed herewith the Sustainability Report for financial year 202 4-2025. 
+ 
+The same is also being made available on the website of the Company at www.alkemlabs.com  
+  
+Kindly take the same on record.  
+ 
+Thanking you  
+ 
+Sincerely,  
+ 
+For Alkem Laboratories Limited  
+ 
+ 
+ 
+ 
+Manish Narang  
+President - Legal, Company Secretary & Compliance Officer  
+ 
+ 
+ 
+Encl: a/a  
+ 
+ 
+ 
+
+Contents Introduction
+Introduction  ............................................................................................................. 01
+About the Report  ................................................................................................... 02
+Key Highlights  ......................................................................................................... 04
+Message from the Leadership  ........................................................................... 06
+Insight into Alkem’s Journey .............................................................................. 08
+About the Company .............................................................................................. 10
+Our Business Sustainability Strategy  ............................................................... 16
+Stakeholder Engagement and Materiality Assessment  ............................. 20
+Economic and Governance Dimension  ......................................... 34
+Economic Performance  ........................................................................................ 36
+Trustworthy Stewardship  .................................................................................... 38
+Business Ethics, Integrity, and Resilience ....................................................... 46
+Our Tax Strategy....................................................................................................50
+Risk Management Framework  ........................................................................... 52
+Data Privacy and Cyber Security  ....................................................................... 63
+Innovation in Healthcare  ..................................................................................... 66
+Supply Chain Management ................................................................................ 70
+Environmental Dimension  .............................................................. 74
+Environmental Stewardship  ............................................................................... 76
+Energy Management  ........................................................................................... 78
+Climate Strategy  ..................................................................................................... 81
+Air Emissions  ............................................................................................................ 88
+Water Management  .............................................................................................. 88
+Waste Management  .............................................................................................. 92
+Social Dimension  .......................................................................... 100
+Talent Management  ............................................................................................ 102
+Employee Welfare and Development .......................................................... 106
+Labor Relations Management and Human Rights .................................... 111
+Occupational Health and Safety  ..................................................................... 114
+Product Quality and Safety  ............................................................................... 122
+Community Engagement  .................................................................................. 127
+CSR Projects  ........................................................................................................... 128
+Annexures  ...................................................................................... 132
+GRI Index  ................................................................................................................. 132
+Independent Assurance Statement  ............................................................... 136The theme “Nature protects those who protect it”  reflects our deep 
+belief that the well-being of humanity and the planet are inseparable. 
+As a pharmaceutical organisation, we recognise that our mission to deliver 
+quality healthcare extends beyond curing diseases; it includes preserving 
+the ecosystems that sustain life. This ancient Sanskrit philosophy guides our 
+sustainability journey, reminding us that when we safeguard nature, it, in turn, 
+safeguards us.
+Rooted in this belief, our sustainability approach integrates environmental 
+stewardship with responsible business growth. We are committed to 
+minimising our ecological footprint through resource efficiency, green 
+chemistry, waste reduction, and climate-conscious manufacturing practices. 
+Our initiatives are driven by innovation, collaboration, and scientific excellence, 
+ensuring that progress in medicine goes hand in hand with the protection of 
+air, water, and soil, the very elements of life.
+Through ethical governance, transparency, and a culture of accountability, we 
+strive to create value that endures. “Nature protects those who protect it,”  
+thus serves as both our guiding principle and our promise to heal responsibly, 
+innovate sustainably, and contribute to a future where healthcare and nature 
+coexist in balance and harmony.प्रकृ ृ ति� रक्षति� र तिक्ष�ः ।  
+“Nature protects those who protect it.”
+At Alkem, we have always believed that when science 
+and nature work in harmony, healing becomes truly 
+complete. Our commitment to sustainability is a 
+reflection of that belief: to heal responsibly and protect 
+the very forces that sustain life.
+About the Report
+At Alkem Laboratories Limited 
+(hereinafter referred to as “Alkem”, 
+“The company”), we are committed 
+to developing a sustainable and 
+resilient organisation. We are 
+pleased to present our sustainability 
+report for the reporting period 
+from 1 April, 2024 to 31 March, 
+2025. The report outlines our 
+performance and strategic initiatives 
+on the key environmental, social, 
+and governance (ESG) parameters. 
+We publish our Sustainability 
+Report annually.1
+Reporting Approach and Principles
+The information disclosed in this report is in 
+reference to the Global Reporting Initiative 
+(GRI) 2021 Universal Standards. The report also 
+presents quantitative and qualitative information 
+in alignment with other reporting standards and 
+guidelines such as the United Nations Global 
+Compact (UNGC) principles, and United Nations 
+Sustainable Development Goals (UN SDGs).
+Reporting Scope and Boundary2
+The report covers all the activities and operations of 
+Alkem Laboratories Limited, India on a standalone 
+basis. It covers the sustainability performance 
+disclosures of manufacturing plants spread across 
+six locations, namely, Ankleshwar, Baddi, Daman, 
+Indore, Mandva, and Sikkim. Additionally, it covers 
+two Research and Development (R&D) units at 
+Taloja and Mandva, four corporate offices and 
+seven owned depots. The scope and boundary of 
+the report are defined within these business units. 
+The reporting scope and boundary are the same as 
+the one covered as a part of our Annual Report for 
+standalone financial reporting purposes.Materiality
+Our material issues have been 
+formulated through a robust process of 
+multi-channel engagement with internal 
+and external stakeholders. The report 
+provides an explanation and description 
+of the materiality assessment 
+process and how the material topics 
+were identified.
+We have initiated the double materiality 
+assessment in the current reporting year. 
+This assessment is critical in helping us 
+along with our internal and external 
+stakeholders to identify the relevant 
+impacts we have on the environment 
+and operations, and the potential 
+effects and likelihood of those impacts 
+on our business. The assessment will 
+be instrumental in helping us as well as our stakeholders to understand the 
+significance, likelihood, and implications 
+of these impacts. Additionally, it will 
+enhance our strategic approach and 
+decide on the priorities for attaining 
+long-term sustainable growth by 
+directing our efforts towards resources 
+and areas where we can have the 
+greatest positive or negative impact.
+Responsibility Statement
+Our management team undersign that 
+the contents of this report have been 
+presented in a fair, transparent, and 
+balanced manner.Independent Assurance3
+The independent assurance of limited 
+level has been carried out by DNV 
+Business Assurance India Private Limited 
+for the sustainability/non-financial data 
+disclosed in the report. The assurance 
+is based on professional experience 
+and international assurance practice, 
+and the international standard in 
+Assurance Engagements, ISAE 3000 
+(revised) - Assurance Engagements 
+other than Audits or Reviews of 
+Historical Financial Information. DNV’s 
+VeriSustainTM Protocol has been 
+developed in accordance with the 
+most widely accepted reporting and 
+assurance standards. 
+The Assurance Statement is annexed at 
+the end of this report. 
+Restatement4
+There are no restatements on the 
+information published in previous 
+sustainability reports. 
+Forward-looking 
+statements
+There are few statements in this 
+report which depict forward-looking 
+information related to our business 
+operations. These statements are 
+subject to potential changes due to 
+uncertain external factors including 
+shifts in market conditions, industry 
+developments, government regulations, 
+laws, etc. It is important to note that 
+these statements should not be 
+considered a guarantee of our future 
+performance. External factors beyond 
+our control can cause significant 
+changes in the underlying assumptions.Feedback5
+We appreciate your feedback, as it will 
+help us disclose pertinent information 
+more efficiently and transparently. We 
+are pleased to answer any questions 
+or concerns you may have about our 
+performance or this report. If you have 
+any inquiries concerning this year's 
+Sustainability Report, please feel free to 
+contact us at investors@alkem.com or 
+esg@alkem.com
+1GRI 2-3 Reporting period, frequency and contact point
+2GRI 2-2 Entities included in organisation’s sustainability reporting3GRI 2-5 External Assurance
+4GRI 2-4 Restatement of Information
+5GRI 2-3 Reporting period, frequency and contact point
+Sustainability Report 2024-25
+Alkem Laboratories Limited 03 Alkem Laboratories Limited 02
+Key Highlights
+Environment
+15%
+reduction in Scope 1 and Scope 2 
+emissions per tonne of product 
+compared to FY 2023–245.73 %
+reduction in energy 
+consumption per tonne of 
+product compared to  
+FY 2023–243,961 MT
+of post-consumer plastic 
+packaging waste recycled, 
+covering 100% of domestic 
+product sales 
+31%
+of manufacturing and R&D 
+facilities certified under 
+ISO 5000177 % 
+of manufacturing and R&D 
+facilities certified under ISO 1400121%
+of total energy sourced 
+from renewables18 %
+reduction in waste generation 
+intensity per tonne of product 
+compared to FY 2023–24Social Governance
+18,785 
+total permanent 
+employees and workers30,783
+EHSS training man-hours
+23 %
+women 
+representation on the 
+Board of Directors
+8,72,377 
+CSR beneficiaries50 %
+Independent Directors
+6,227
+EHSS trainings conducted 100 %
+of new suppliers 
+screened on ESG 
+criteria
+Recognised at Bharat CSR 
+& Sustainability Awards for 
+Cancer Care initiative in BiharZero
+LTIFR (Lost Time Injury 
+Frequency Rate) for employees100 %
+whistleblower 
+complaints resolved in 
+FY 2024–25INR 359.1 million 
+spent on CSR projects
+Zero
+fatalitiesZero
+instances of data breach
+19 %
+reduction in water 
+consumption per tonne 
+of product compared to 
+FY 2023–2438 %
+of facilities equipped with 
+Zero Liquid Discharge 
+(ZLD) systemsINR 20.8 million
+invested in energy-
+efficiency initiatives100 %
+of manufacturing sites 
+equipped with Effluent 
+Treatment Plants (ETPs)2.69 % 
+share of women in 
+permanent workforce
+Sustainability Report 2024-25
+Alkem Laboratories Limited
+04
+Alkem Laboratories Limited 05
+
+Message from the Leadership 
+Dear Stakeholders,
+This year has been one of reflection, 
+progress and renewed responsibility. 
+Our focus has remained clear, to grow 
+with purpose, guided by principles 
+that balance business success with 
+environmental and social accountability. 
+Over the years, our approach to 
+sustainability has evolved from 
+compliance-driven practices to a 
+culture of accountability that touches 
+every aspect of how we operate. 
+Sustainability, for us, is woven into our 
+business strategy as an integral part of 
+our business model, one that balances 
+performance with purpose. 
+We are proud to present our third 
+sustainability report, built on our 
+vision to create a measurable impact, 
+empower our people and uphold the 
+trust of our stakeholders. As we look 
+back on another year of purposeful 
+growth, it is evident that our journey 
+towards sustainability continues to gain 
+depth and direction. Each year brings 
+new challenges and opportunities, and 
+this year too, we have made strides in 
+our sustainability endeavors. 
+Recognising that energy efficiency 
+is critical to both environmental 
+responsibility and operational 
+excellence, we continued to invest 
+in cleaner technologies and process 
+optimisation. During the year, 21% 
+of our total energy was sourced from 
+renewable sources, reflecting our 
+progress in reducing dependence on 
+fossil fuels. In parallel, our sustained 
+focus on efficiency measures led to a 
+15% reduction in combined Scope 1 and 
+Scope 2 emissions intensity compared to 
+the previous year. These achievements 
+were supported by targeted 
+investments exceeding INR 20.8 million 
+in energy-related projects, spanning 
+process improvements, equipment 
+modernisation and digital monitoring 
+systems that enable data-driven 
+decision-making.
+Equally central to our environmental 
+agenda is the responsible management 
+of resources. Waste reduction remain key priority in our manufacturing 
+ecosystem. Through improved material 
+utilisation, process refinement and 
+enhanced waste segregation practices, 
+we achieved an 18% reduction in 
+waste generation intensity. Our water 
+consumption intensity has also reduced 
+by 19% from the previous year. These 
+outcomes reaffirm our commitment to 
+minimise our environmental footprint 
+while strengthening efficiency across 
+our operations. Our manufacturing 
+teams continue to explore innovative 
+waste repurposing methods and 
+partnerships that promote recycling and 
+resource recovery. 
+Sound governance remains the 
+cornerstone of our progress. This year, 
+with 50% of our Board comprising 
+Independent Directors, we have 
+further strengthened the foundation 
+of transparency, accountability 
+and ethical oversight. The diverse 
+experience and independence of 
+our Board enable robust decision-
+making and ensures that sustainability 
+considerations remain central to our 
+business strategy. This governance 
+strength continues to inspire confidence 
+among our stakeholders and guides our 
+actions in an evolving regulatory and 
+societal landscape.
+Our sustainability journey extends 
+beyond the boundaries of our business 
+operations to the communities we 
+serve. Through focused and high-
+impact CSR programs, we reached 
+8,72,377 beneficiaries this year, with a 
+total spend of INR 359.13 million across 
+projects in healthcare, education and 
+rural development. We are proud to 
+have been recognised at the Bharat 
+CSR & Sustainability Awards for our 
+Cancer Care initiative in Bihar, which 
+exemplifies our commitment to 
+accessible and equitable healthcare for 
+underserved communities.
+Beyond metrics, this progress 
+reflects the spirit of our people, their 
+adaptability, innovation and shared belief in doing what is right for the 
+long term. We have continued to 
+nurture a culture where sustainability is 
+understood as a collective responsibility. 
+At Alkem, we are committed to building 
+a workplace rooted in fairness, inclusion 
+and opportunity for all. We continue 
+to invest in capability development, 
+leadership programs and employee 
+well-being initiatives that enable our 
+people to grow and thrive in a safe and 
+supportive environment. 
+As we move forward, we recognise 
+that the world around us is changing 
+rapidly, and so must we. Our priorities 
+for the coming years include advancing 
+our decarbonisation roadmap, 
+expanding renewable energy 
+integration, deepening water and 
+waste management initiatives and 
+strengthening social inclusion across 
+our value chain. We are also focused on 
+leveraging technology and innovation 
+to accelerate this transformation, 
+ensuring that sustainability becomes 
+an even stronger enabler of business 
+performance and societal impact.
+We remain deeply grateful to our 
+employees, customers, suppliers and 
+partners whose trust and collaboration 
+make this journey possible. Together, we 
+will continue to build a more inclusive 
+and environmentally responsible 
+organisation, one that contributes 
+meaningfully to the well-being of both 
+people and the planet.
+With warm regards,
+Basudeo N. Singh
+Executive Chairman
+Sandeep Singh
+Managing Director
+We are proud to present 
+our third Sustainability 
+Report, built on our vision 
+to create a measurable 
+impact. Each year brings 
+new challenges and 
+opportunities, and this year, 
+we have made strides in our 
+sustainability endeavors. 
+Basudeo N. Singh
+Executive Chairman
+Sandeep Singh
+Managing Director
+Sustainability Report 2024-25
+Alkem Laboratories Limited
+07
+Alkem Laboratories Limited 06
