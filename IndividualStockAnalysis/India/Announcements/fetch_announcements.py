@@ -647,6 +647,25 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
                                  "file_size": "", "text_file": ""})
                 time.sleep(DELAY / workers)
 
+    # ---- NSE's corporate-actions register (bhavcopy bundles + API): a
+    # demerger record date is the exchange's own word for a demerger
+    reg_path = OUT_DIR / "_demerger_ground_truth.csv"
+    if reg_path.exists():
+        n_reg = 0
+        for r in read_csv(reg_path):
+            if r.get("source") not in ("bc", "api") or r.get("in_universe") != "yes" \
+                    or not re.search(r"de-?merg", r.get("purpose", ""), re.I) \
+                    or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", r.get("date", "")) \
+                    or r["symbol"] not in members:
+                continue
+            rows.append({"date": r["date"], "symbol": r["symbol"], "company": members[r["symbol"]],
+                         "source": "NSE-register", "category": "Record Date (corporate-actions register)",
+                         "kind": "demerger", "tags": "demerger",
+                         "headline": f"Record date {r['date']} for {r['purpose']} — NSE corporate-actions register",
+                         "attachment": "", "ann_id": f"reg{r['date'].replace('-', '')}{r['symbol']}",
+                         "file_size": "", "text_file": ""})
+            n_reg += 1
+        note("register", f"{n_reg} demerger record dates from NSE's register join as filings")
     merged = merge_rows(read_csv(MATCHES) if not only else
                         [r for r in read_csv(MATCHES) if r["symbol"] not in members],
                         rows)

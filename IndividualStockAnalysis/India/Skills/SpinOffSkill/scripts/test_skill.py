@@ -581,19 +581,27 @@ def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
     j = {"status": "judged", "what_is_spun": "Nothing; documents describe amalgamation of Sesa Care "
          "Private Limited into Dabur India, not a demerger", "parent_or_spin": "neither",
          "selling_pressure": "unlikely", "reason": "brand acquisition"}
-    assert SO.judge_override(sit, j) == "merger"
+    assert SO.judge_override(sit, j)[0] == "merger"
     j2 = {"status": "judged", "what_is_spun": "Ice cream business demerged into Kwality Wall's",
           "parent_or_spin": "spin", "selling_pressure": "likely", "reason": "focus"}
-    assert SO.judge_override(sit, j2) is None
+    assert SO.judge_override({**sit, "company": "Hindustan Unilever Ltd."}, j2)[0] is None
+    # Eris: acquisitions dressed as a scheme; Gabriel: a business demerged INTO the listed company
+    je = {"status": "judged", "what_is_spun": "not stated — the documents describe acquisitions (Swiss Parenterals 30% stake)",
+          "parent_or_spin": "neither", "selling_pressure": "unclear", "reason": "stake purchases"}
+    assert SO.judge_override({**sit, "company": "Eris Lifesciences Ltd."}, je)[0] == "other"
+    jg = {"status": "judged", "what_is_spun": "Automotive Undertaking of Asia Investments Private Limited demerged into Gabriel India Limited",
+          "parent_or_spin": "neither", "selling_pressure": "unclear", "reason": "consolidation"}
+    kind, why = SO.judge_override({**sit, "company": "Gabriel India Ltd."}, jg)
+    assert kind == "other" and "inbound" in why
     # Prestige: a subsidiary IPO whose DRHP was withdrawn is NOT an amalgamation
     j3 = {"status": "judged", "what_is_spun": "Subsidiary Prestige Hospitality Ventures via IPO; DRHP now withdrawn",
           "parent_or_spin": "unclear", "selling_pressure": "unclear",
           "reason": "Not stated for the separation itself; the DRHP was withdrawn"}
-    assert SO.judge_override({**sit, "kind": "subsidiary_listing"}, j3) is None
-    assert SO.judge_override(sit, j3) is None
+    assert SO.judge_override({**sit, "kind": "subsidiary_listing"}, j3)[0] is None
+    assert SO.judge_override(sit, j3)[0] is None
     j4 = {"status": "judged", "what_is_spun": "not stated — documents concern a Section 9 insolvency petition",
           "parent_or_spin": "neither", "selling_pressure": "unclear", "reason": "n/a"}
-    assert SO.judge_override(sit, j4) == "merger"
+    assert SO.judge_override(sit, j4)[0] == "merger"
     assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" means with the total revenue and net.')
 
 

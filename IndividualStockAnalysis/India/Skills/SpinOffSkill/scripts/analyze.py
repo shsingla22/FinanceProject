@@ -599,9 +599,10 @@ def render_light_tail(s: dict) -> list[str]:
 def render_report(record: dict) -> str:
     m = record["meta"]
     sits = record["situations"]
-    spins = [s for s in sits if s["kind"] in SO.SPIN_KINDS]
+    spins = [s for s in sits if s["kind"] in SO.SPIN_KINDS and s["confidence"][0] != "other"]
     offs = [s for s in sits if s["kind"] in SO.OFFERING_KINDS]
-    others = [s for s in sits if s["kind"] not in SO.SPIN_KINDS and s["kind"] not in SO.OFFERING_KINDS]
+    others = [s for s in sits if (s["kind"] not in SO.SPIN_KINDS and s["kind"] not in SO.OFFERING_KINDS)
+              or (s["kind"] in SO.SPIN_KINDS and s["confidence"][0] == "other")]
     conf = {s["symbol"]: s["confidence"][0] for s in spins}
     confirmed = [s for s in spins if conf[s["symbol"]] == "confirmed"]
     probable = [s for s in spins if conf[s["symbol"]] == "probable"]
@@ -788,11 +789,15 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     s["documents_read"] = {"filings_chars": len(scheme), "calls_12m_chars": len(calls12)}
     s["judge"] = judge(s, scheme, calls12, allow_ai=ai, runner=runner) \
         if s["kind"] in SO.SPIN_KINDS else {}
-    new_kind = SO.judge_override(s, s["judge"])
-    if new_kind:
-        s["kind"], s["family"] = new_kind, SO.family_of(new_kind)
-        s["confidence"] = ("other", "the scheme read by the judge amalgamates; nothing is separated")
+    new_kind, why = SO.judge_override(s, s["judge"])
+    if new_kind == "merger":
+        s["kind"], s["family"] = "merger", SO.family_of("merger")
+        s["confidence"] = ("other", why)
         s["verdict"] = SO.verdict(s, s["checklist"])
+    elif new_kind == "other":
+        s["family"] = "not a spin-off for this company's holders (" + why.split(";")[0] + ")"
+        s["confidence"] = ("other", why)
+        s["verdict"] = {"label": "NOT A SPIN-OFF — " + why, "score": s["verdict"]["score"]}
     s["listing"] = SO.listing_status(s, s["judge"], today)
     if s["kind"] in SO.OFFERING_KINDS:
         s["confidence"] = ("offering", SO.family_of(s["kind"]))

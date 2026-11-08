@@ -1,0 +1,256 @@
+ 
+Netweb Technologies India Limited  
+Plot No. H -1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, 
+Haryana 121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E-mail : complianceofficer@netwebindia.com  
+ 
+CIN : L72100HR1999PLC103911  
+Date:  02.05.2026 
+ 
+Sub:  STRATEGY PRESENTATION ON THE QUARTERLY AND YEARLY AUDITED 
+FINANCIAL RESULTS  
+Dear Sir/ Madam,  
+Please find enclosed herewith the strategy Presentation on the audited financial results for 
+the quarter and the year ended on March 31, 202 6 
+Kindly take the same on record.  
+Thanking you,  
+For Netweb Technologies India Limited  
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+ 
+ To,  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai – 400 001.  
+BSE Scrip Code: 543945  To,  
+The National Stock Exchange of India Limited 
+“Exchange Plaza”, Bandra – Kurla Complex,  
+Bandra (EAST), Mumbai – 400 051  
+NSE SYMBOL: NETWEB  
+R=31
+G=172
+B=226
+R=6
+G=34
+B=65
+R=2
+G=237
+B=246
+R=18
+G=104
+B=178
+R=91
+G=88
+B=154
+R=191
+G=191
+B=191
+India’s Leading High -end Computing
+Solutions (HCS) Provider
+Investor Presentation
+BSE: 543945 | NSE: NETWEB | Bloomberg: NETWEB:INMay 2026
+                             1
+
+Agenda
+About Netweb Technologies
+Key Investment Highlights
+Growth Drivers
+
+R=31
+G=172
+B=226
+R=6
+G=34
+B=65
+R=2
+G=237
+B=246
+R=18
+G=104
+B=178
+R=91
+G=88
+B=154
+R=191
+G=191
+B=191
+Offers  a full stack  of product  and solution  suite  with  comprehensive  
+capabilities  in designing,  manufacturing,  and deploying  high  
+performance  computing  solutions
+Collaborates  with  marquee  technology  partners  such  as Nvidia,  AMD,  
+Intel  & Samsung
+Develops  indigenous  technologies  for compute,  storage  and software  
+stack  to deploy  High -end Computing  Solutions  (HCS)   to meet  the rising  
+computational  demands  of businesses,  academia,  PSUs,  defense  and 
+research  organizations
+One  of the select  OEMs  in the world  for design  & manufacturing  latest  
+Gen  AI GPU  Systems  & Stack  under  OEM  partnership  with  NVIDIA
+Compliant  with  the Government  of India's  'Make  in India'  initiative,  and 
+recognised  as one of the few OEMs  in the country  to manufacture  IT 
+hardware  domestically  at scale
+Established  in 1999  with  manufacturing  facilities  located  in Delhi  (NCR)  
+and 18 offices  located  across  India612
+3
+4
+5About Netweb  Technologies
+India’s leading Indian origin, owned and controlled OEM in the space of High -end Computing Solutions (HCS)
+03600+ 7,000+
+Private cloud & HCI 
+installationsSupercomputers listed 15 times 
+in the world's top 500 
+supercomputers 60+Supercomputing 
+systems installedAccelerator / GPU 
+based AI systems
+Note: 1: pib.gov.in .  
+Revenue from Operation: ₹ 21,835.6 Million 
+Customers: Govt. (42.8%) vs Non -Govt. (57.2%)
+Op EBITDA Margin:            
+13.0%
+PAT Margin: 9.3%
+ROE: 32.9%
+ ROCE: 37.5%
+FY26 FINANCIAL METRICSBusiness Tailwinds ►►
+Explosion of on -prem cloud infra across large enterprises and 
+high data center demand in India‘Make in India’ policy & ‘Make AI in India’ initiatives of the GOI
+Unprecedented global surge in sovereign AI infra demand
+Increased supercomputing adoption across verticalsIndigenous LLMs fueling AI demand 
+GOI’s ₹103,000 million outlay for the IndiaAI  Mission to establish 
+the sovereign AI ecosystem in the country
+R=31
+G=172
+B=226
+R=6
+G=34
+B=65
+R=2
+G=237
+B=246
+R=18
+G=104
+B=178
+R=91
+G=88
+B=154
+R=191
+G=191
+B=191
+ESTABLISHED
+Deployed KABRU at IMSC 
+Chennai, 500th* most 
+powerful supercomputer 
+Deployed PARAM YUVA 
+II at CDAC, Pune, World 
+most powerful 
+supercomputer* 
+Servers  deployment for a 
+surveillance project across 
+23 states/204 locations for 
+a PSU 
+Note: *Source: F&S ReportKey Milestones
+1999
+2004
+2013
+20172019
+2020
+Deployed PARAM AMBAR at 
+ISRO; India’s 4th* Fastest 
+Supercomputer 
+Received order for 
+Tyrone HPC Storage, 
+capacity 10,500 TB 
+from a wing of 
+MEITY, GoI 
+2021Qualified for PLI 
+scheme of GoI for IT 
+Hardware 
+2022
+Qualified for PLI – Telecom and 
+Networking Product, Deployed 5G 
+Cloud for International Telecom 
+Service Provider, Kubyts  – A Container 
+Platform launched2023Deployed Airawat , India’s 
+largest and fastest 
+supercomputer* and 
+ranked 75th in the world, 
+IPO Launched2023Manufacturing 
+partnership with Nvidia 
+for Grace CPU Superchip 
+and HH200 Grace 
+Hopper Superchip MGX 
+Server Design 2024Supplied & Commissioned indigenous 800+ cyber 
+secure high end compute systems to CERT  – In for 
+deploying measures to handle cyber security 
+incidents  on the nation -wide network
+2024Commissioned India’s Flagship 
+End -to-End, High -End SMT 
+Facility in Faridabad ​
+2025Received order to deploy AI 
+Infrastructure for India s 
+foundational LLM Model, with 
+over 5,000 GPUs2025Deployed ISRO’s fastest 
+supercomputing system at 
+VSSC, Trivandrum 
+R=31
+G=172
+B=226
+R=6
+G=34
+B=65
+R=2
+G=237
+B=246
+R=18
+G=104
+B=178
+R=91
+G=88
+B=154
+R=191
+G=191
+B=191
+Snapshot of Our HCS Offerings (1/2)
+India’s leading HCS provider with fully integrated design and manufacturing capabilities
+HCSHigh performance computing (Supercomputing / HPC) systems
+•Bespoke, and purpose -built specialized hardware designs and 
+architecture
+•Cater to run complex algorithm & applications at scale
+Unique middleware and 
+cluster suite
+Automated Cluster 
+Management
+Data Centre servers​
+Cyber secure
+architecture​
+Low rack space​
+consumption​High in -built​ Storage ​
+​Wide accelerator 
+support​•Designed to reduce the complexity of managing 
+critical and heavy workloads. 
+High performance storage 
+(HPS/Enterprise​ Storage) solutions​
+•Centralized repository for business -critical information 
+that provides data sharing, data protection across 
+multiple computer systems​
+Unified​ Storage​
+Scalable to Exabytes​ High IOPs ​Storage​​Parallel File System Storage​
+Software and services for HCS offerings​
+•Cloud Managed Services – These are the partial or 
+complete management and control of a client's cloud 
+platform, including migration, maintenance, and 
+optimization​
+Cloud ​solutions​ Design & Deployment services​
+AI, ML & deep learning as​ a service​
+AI Systems ​
+•AI Systems - Advance and powerful AI systems based on 
+latest Gen GPU architectures design & manufactured in India 
+under OEM partnership with Nvidia & AMD
+Generative AI ML &DL
+Confidential GPU Computing Built -in AI Utilities
+Unified Cloud tools 
+Private cloud and hyperconverged infrastructure (HCI) 
+•Private cloud and HCI offers hyper -converged capabilities i.e., 
+combining compute, storage, and network' to build:
+Cloud Native StorageHCI Hybrid & Multi Cloud 

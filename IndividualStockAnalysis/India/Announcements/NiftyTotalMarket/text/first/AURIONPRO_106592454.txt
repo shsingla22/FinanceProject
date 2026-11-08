@@ -1,0 +1,107 @@
+ 
+  info@aurionpro.com
+Aurionpro Solutions Limited  Synergia IT Park,  
+Plot No. R-270, T.T.C. Industrial Estate Rabale,  
+Navi Mumbai -400 701 Maharashtra - INDIA    +91-22-4040 7070  
+  +91-22-4040 7080  
+  info@aurionpro.com  
+  www.aurionpro.com  
+ 
+April 17, 2026 
+ 
+Sub: Press Release 
+Dear Sir/Madam, 
+Please find attached Press Release titled  “Aurionpro Launches Fintra: First AI –Native Platform 
+and Operating Layer for Trade Finance.” 
+ 
+Kindly take this on your record. 
+Thanking you,  
+Yours faithfully 
+For Aurionpro Solutions Limited 
+ 
+ 
+Ninad Kelkar 
+Company Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ To, 
+National Stock Exchange of India Limited 
+Exchange Plaza’. C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai - 400 051. 
+NSE SYMBOL: AURIONPRO To,                                         
+The BSE Limited,                     
+25th Floor, P. J. Towers,                   
+Fort, Mumbai: 400 001. 
+SCRIP CODE: 532668  
+ 
+  
+ 
+PRESS RELEASE 
+info@aurionpro.com
+For further information,  
+please contact:  AZN Partners Publicrelations Pvt Ltd 
+Harry Pinto harry.pinto@aznpartners.com  Aurionpro Solutions Ltd 
+Ninad Kelkar 
+Ninad.kelkar@aurionpro.com  
+Aurionpro Launches Fintra: First AI –Native Platform 
+and Operating Layer for Trade Finance 
+Platform processes Letters of Credit, Bank Guarantees, and Documentary Collections with AI agents at the core 
+and human governance at every decision point  
+ 
+Mumbai, India, April 17, 2026  - Aurionpro Solutions Limited (BSE: 532668 | NSE: AURIONPRO), a global 
+technology company serving the banking and payments industry, today announced the launch of Fintra, an AI-
+native trade finance platform that uses specialized AI agents to process trade finance instruments, paired with an 
+operating layer designed for human governance at every decision point. 
+Trade finance remains one of banking's most document-heavy and manual workflows, with the International 
+Chamber of Commerce estimating a 70% rejection rate on first presentation, and an architecture largely unchanged 
+in thirty years. Fintra rebuilds this architecture end-to-end for the future of trade finance. Specialized AI agents 
+handle document processing, compliance screening, clause recommendation, and risk scoring, while bankers 
+focus on judgment, relationships, and governance, with full SWIFT, General Ledger, and limits management 
+integration built in. 
+ 
+Fintra is the first product built on Aurion AI , Aurionpro's AI-native banking software stack combining proprietary 
+domain-specific models, an AI engineering framework, a governed agent runtime, and deep integration with core 
+banking systems. Additional platforms across corporate lending, retail lending, transaction banking, and supply 
+chain finance will follow on this same foundation. 
+Trade finance cannot afford AI that guesses. Every Fintra decision runs through the Confidence-Gated Handoff 
+Protocol (CGHP), evaluating confidence, materiality, regulatory mandate, and novelty before routing to a human. 
+Every decision is logged and every reasoning chain is fully auditable. Fintra reflects Aurionpro's conviction that 
+the next generation of banking software will not be built by adding AI features to legacy platforms, but by 
+rebuilding the core workflows of the bank on AI-native foundations. 
+ 
+ 
+ 
+
+ 
+  
+ 
+PRESS RELEASE 
+info@aurionpro.com
+For further information,  
+please contact:  AZN Partners Publicrelations Pvt Ltd 
+Harry Pinto harry.pinto@aznpartners.com  Aurionpro Solutions Ltd 
+Ninad Kelkar 
+Ninad.kelkar@aurionpro.com  
+Ashish Rai, Group CEO of Aurionpro Solutions, said: 
+"For 25 years, we have built mission-critical software for banks. Fintra is the most 
+important product we have ever launched. We started from a blank screen and 
+asked what trade finance would look like if AI agents handled the mechanical work 
+and bankers focused on what they do best. The answer is Fintra. Banking software 
+must be reimagined for the age of AI, and we intend to lead that transformation." 
+Fintra is available immediately for pilot engagements with banks in India, the 
+Middle East, and Southeast Asia. 
+ 
+About Aurionpro Solutions:   Aurionpro Solutions Ltd. (BSE: 532668 | NSE: AURIONPRO) is a global 
+enterprise technology leader pioneering intuitive-tech through deep-tech IPs and scalable products. With a strong 
+presence across Banking, Payments, Mobility, Insurance, Transit, Data Centers, and Government Sectors, 
+Aurionpro is setting new benchmarks for AI innovation and impact. Its B2E (Business-to-Ecosystem) approach 
+empowers entire ecosystems, driving growth, transformation, and scale across interconnected value chains. 
+Backed by 3,000+ experts and a global-first mindset, Aurionpro is built to lead the next. For more information, 
+visit us at www.aurionpro.com . 

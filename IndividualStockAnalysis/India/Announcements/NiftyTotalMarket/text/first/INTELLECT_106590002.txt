@@ -1,0 +1,122 @@
+ 
+ 
+ 
+IDAL/2026 -27/SE/ 5                                                                                                                             April 15, 2026  
+National Stock Exchange of India Ltd                                                                         Scrip Symbol - INTELLECT  
+BSE Ltd.                   Scrip Code      -  538835  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Press Release - Intellect announces purpose -built end -to-end Islamic Banking functionality with 
+eMACH.ai Islamic Banking: Harmonising Shariah Integrity and Ethical Banking in a Digital -First Era  
+ 
+Intellect Design Arena Ltd . today announced the launch of eMACH.ai Islamic Banking. Built on a cloud -
+native, microservices -based platform, this comprehensive suite is AAOIFI -compliant and purpose -built to 
+help banks scale while complying effectively with evolving Shariah regulations . 
+ 
+eMACH.ai Islamic Banking  - a digital -first, AAOIFI -compliant platform is purpose -built on eMACH.ai  
+(Events, Microservices, API, Cloud, Headless, AI) foundation with "Shariah by design" principles. The 
+platform delivers a robust and comprehensive suite that caters to every facet of the banking ecosystem 
+including a Core Transaction Engine, which offers DIY configurable accounts such as Wadiah, Mudarabah, 
+and Wakala.  
+ 
+Please find enclosed herewith a copy of the proposed Media Release dated April 15, 2026, titled - Intellect 
+announces purpose -built end -to-end Islamic Banking functionality with eMACH.ai Islamic Banking: 
+Harmonising Shariah Integrity and Ethical Banking in a Digital -First Era.  
+ 
+Kindly take the above information on record.  
+Yours Truly,  
+For Intellect Design Arena Limited  
+ 
+ 
+ 
+Prakash Bharadwaj  
+Company Secretary and Compliance Officer  
+ACS-37214  
+ 
+Intellect announces purpose -built end -to-end Islamic Banking 
+functionality with  eMACH.ai  Islamic Banking: Harmonising Shariah 
+Integrity and Ethical Banking in a Digital -First Era  
+The comprehensive core banking platform, compliant with AAOIFI guidelines, enables the 
+seamless delivery of Islamic banking from a unified, AI -powered platform  
+ 
+Dubai (UAE), April 15, 2026  - Intellect Design Arena Limited , a cloud -native, future -ready, multi -product 
+financial technology company, today announced the launch of eMACH.ai Islamic Banking . Built on a 
+cloud -native, microservices -based platform, this comprehensive suite is AAOIFI -compliant and purpose -
+built to help banks scale while complying effectively with evolving Shariah regulations.  
+ 
+Existing Islamic banking solutions are built on legacy systems and superficial Shariah "bolt -ons" that lack 
+necessary Shariah controls, regulatory requirements and overall future -readiness required by Islamic 
+Banks. eMACH.ai Islamic Banking  - a digital -first, AAOIFI -compliant platform is purpose -built on eMACH.ai  
+(Events, Microservices, API, Cloud, Headless, AI) foundation with "Shariah by design" principles. The 
+platform delivers a robust and comprehensive suite that caters to every facet of the banking ecosystem  
+including a  Core Transaction Engine , which offers DIY configurable accounts such as Wadiah, Mudarabah, 
+and Wakala. This engine facilitates quick go -to-market strategies and real -time ledger management. 
+Ensuring Shari’ah -compliant profit payouts is complex and time -consuming without an autom ated 
+solution. That is why the Islamic Pool Management  capability utilises embedded AI for forecasting, profit 
+management & distribution, and zakat management. Meanwhile, the Islamic Financing  capability 
+supports the entire financing lifecycle for instruments like Murabaha, Operating Ijarah, Ijarah Muntahia 
+Bittamleek, Musharakah, Tawarruq, Istisna’a, and Qard Hasan. The platform further extends its reach to 
+an end -to-end Islamic Trade Finance  and a fully automated Islamic Treasury . 
+ 
+The eMACH.ai Islamic Banking platform is purpose -built with key features like:  
+● Modular Flexibility:  Built on a composable architecture, it offers the flexibility to deploy a full 
+Islamic core or select specific standalone modules, such as Islamic Pool Management or Islamic 
+Financing, without backend dependencies.  
+● Headless Integration and Real -Time Processing:  Its headless architecture guarantees seamless 
+integration with any digital banking platform and third -party FinTechs, ensuring 24/7 real -time 
+processing.  
+● AI-powered efficiency: Comprehensive AI -powered journeys for origination, Islamic financing, 
+analytics, forecasting of profit calculation and distribution, and digital banking.  
+● Automated Accounting and Profit Sharing:  The platform automates the entire profit -sharing 
+lifecycle, from calculation to approval and distribution, while providing Smart Shariah Accounting 
+with configurable entries aligned with prescribed guidelines.  
+● Ethical Financial Solutions:  It provides customers with Riba -free, asset -backed financing and risk -
+sharing solutions that align with both Islamic principles and international best practices.  
+ 
+Image: Intellect’s eMACH.ai  Islamic Banking Suite  
+ 
+Rajesh Saxena, CEO of Intellect Consumer Banking, said, "Following the 
+significant business impact delivered by our eMACH.ai platform to hundreds of 
+banks globally, we are now proud to launch eMACH.ai Islamic Banking. The 
+Islamic finance industry has long been underserved by rigid, monolithic 
+architecture  that struggles to provide Shariah integrity, flexibility and 
+scalability . eMACH.ai  Islamic Banking platform represents a fundamental shift: 
+it is purpose -built on 'Sharia by design code,' where the architecture itself is 
+natively designed for Islamic banking. By leveraging composable functionality 
+and a certified full capability, we empower bankers to move past operational complexities with ease of 
+setup and extensibility. This isn't just a digital layer; our platform ensures seamless integration with 
+existing systems and  6-9 months of implementation time , finally resolving the friction between high -
+growth financial aspirations and the operational complexities of Shariah compliance."  
+About Intellect Design Arena Limited  
+Intellect Design Arena Ltd  is a global leader in AI -First, enterprise -grade financial technology, architected from first 
+principles to deliver measurable business impact at scale. With three decades of domain expertise, Intellect delivers 
+composable, intelligent platforms across Wh olesale Banking, Consumer Banking, Central Banking, Wealth, Capital 
+Markets, Treasury, Insurance and Digital Technology for Commerce. Applying First Principles Thinking and Design 
+Thinking, Intellect has elementalised financial services into a finite set o f Events, Microservices and APIs, enabling 
+faster, modular transformation with predictable and measurable outcomes.  
+ 
+At the heart of this AI -First architecture are eMACH.ai, the world’s most comprehensive, composable and intelligent 
+open finance platform; Purple Fabric, the world’s first Open Business Impact AI platform; and iTurmeric, a 
+
+ 
+composable integration and configuration platform. A pioneer in applying Design Thinking at enterprise scale, 
+Intellect’s 8012 FinTech Design Center, the world’s first Design Center dedicated to Design Thinking principles, 
+underscores its commitment to con tinuous, outcome -driven innovation. Intellect serves over 500+ customers across 
+61 countries, supported by a global workforce of domain, solution and technology experts. For more information, 
+visit www.intellectdesign.com . 
+ 
+For Media related info, please contact:  
+Nachu Nagappan   
+Intellect Design Arena Ltd  
+Mob: +91 89396 19676  
+Email: nachu.nagappan@intellectdesign.com  For Investor related info, please contact:  
+Praveen Malik  
+Intellect Design Arena Limited  
+Mob: +91 89397 82837  
+Email: praveen.malik@intellectdesign.com   
+ 
+ 
+ 
+  
+ 

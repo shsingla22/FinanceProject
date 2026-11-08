@@ -891,20 +891,38 @@ NOT_A_DEMERGER_RX = re.compile(
 DEMERGER_WORDS_RX = re.compile(r"de-?merg|spin|carve|hiv\w+ off|separate (listing|entity|company)|list(ing|ed)", re.I)
 
 
-def judge_override(sit: dict, judge: dict) -> dict | None:
-    """When the judge, having read the scheme, says the filing is an
-    amalgamation and nothing is being separated, the situation is a
-    merger whatever the keyword count said. Returns the new kind or None."""
+ACQUISITION_RX = re.compile(r"acqui\w+|stake (in|of)|investment in|purchase of (shares|a stake)|buy\w* (a |the )?stake", re.I)
+INTO_RX = re.compile(r"\binto\s+(?:the\s+)?([A-Z][A-Za-z0-9&.\-' ]{2,60}?)(?=[,;.(]|\s+(?:and|which|a |the |its |via|through|by|on|at|\()|\s*$)", re.S)
+
+
+def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
+    """What the judge's read of the complete documents says the filing
+    really is, when it is not a spin-off to this company's holders:
+      ('merger', …)  an amalgamation into the parent, a liquidation, an
+                     insolvency matter, a reserves reorganisation;
+      ('other', …)   an acquisition or stake purchase dressed as a scheme,
+                     or an INBOUND demerger — a business demerged INTO this
+                     listed company from another entity, so nothing is
+                     distributed to its shareholders;
+      (None, '')     a genuine separation."""
     if sit["kind"] not in ("demerger", "scheme_other") or judge.get("status") not in ("judged", "cached"):
-        return None                     # a subsidiary listing is never an amalgamation
+        return None, ""
     what = f"{judge.get('what_is_spun', '')} {judge.get('reason', '')}"
     spun = re.sub(r"\b(not|no|nothing|neither)\b.{0,40}\b(de-?merger|spin-?off|separation)\b", " ",
                   judge.get("what_is_spun", ""), flags=re.I)
-    if NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) \
-            and judge.get("parent_or_spin") in ("neither", "unclear", None) \
-            and judge.get("selling_pressure") != "likely":
-        return "merger"
-    return None
+    quiet = judge.get("parent_or_spin") in ("neither", "unclear", None) and judge.get("selling_pressure") != "likely"
+    if NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
+        return "merger", "the judge read an amalgamation / liquidation / insolvency matter; nothing is separated"
+    starts_empty = bool(re.match(r"\s*(not stated|nothing|none|no business|n/?a)\b", judge.get("what_is_spun", ""), re.I))
+    if starts_empty and ACQUISITION_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
+        return "other", "the judge read an acquisition or stake purchase; nothing is separated"
+    # inbound: "<business> of <other entity> demerged into <THIS company>"
+    for m in INTO_RX.finditer(judge.get("what_is_spun", "")):
+        if _same_company(m.group(1), sit.get("company", "")) and judge.get("parent_or_spin") != "spin":
+            return "other", (f"inbound demerger — a business is demerged INTO {sit.get('company', 'the company')}; "
+                             f"its own shareholders receive no new listing")
+    return None, ""
+
 
 
 # ------------------------------------------------ rights and preferential

@@ -55,13 +55,14 @@ def register_demergers(gt: list[dict]) -> dict[str, dict]:
         if not DEMERGER_RX.search(r["purpose"]):
             continue
         d = out.setdefault(r["symbol"], {"dates": set(), "purposes": set(), "company": r["company"]})
-        d["dates"].add(r["date"])
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["date"] or ""):
+            d["dates"].add(r["date"])
         d["purposes"].add(r["purpose"])
     return out
 
 
 def new_listings(gt: list[dict]) -> dict[str, str]:
-    return {r["symbol"]: r["date"] for r in gt if r["source"] == "newlist"}
+    return {r["symbol"]: r["date"] for r in gt if r["source"] == "newlist" and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["date"] or "")}
 
 
 def check(situations: list[dict], gt: list[dict], today: dt.date | None = None) -> dict:

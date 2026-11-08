@@ -94,10 +94,18 @@ def parse_bc(zpath: Path) -> list[dict]:
                 purpose = r.get("PURPOSE") or ""
                 if not PURPOSE_RX.search(purpose):
                     continue
-                date = r.get("RECORD DT") or r.get("EX DT") or r.get("BC STRT DT") or ""
+                def col(*needles):
+                    for k, v in r.items():
+                        if v and any(nd in k for nd in needles):
+                            return v
+                    return ""
+                date = col("RECORD") or col("EX DT", "EX-DT", "EX DATE", "EXDATE") or col("BC ST", "BC_ST") or ""
+                if not date:                       # the file is dated; fall back to its day
+                    date = zpath.stem[2:4] + "-" + zpath.stem[4:6] + "-20" + zpath.stem[6:8]
+                    date = "20" + zpath.stem[6:8] + "-" + zpath.stem[4:6] + "-" + zpath.stem[2:4]
                 out.append({"date": _iso(date), "symbol": r.get("SYMBOL", ""),
                             "company": r.get("SECURITY", ""), "purpose": purpose,
-                            "source": "bc", "detail": f"ex {_iso(r.get('EX DT', ''))}; series {r.get('SERIES', '')}"})
+                            "source": "bc", "detail": f"ex {_iso(col('EX DT', 'EX-DT', 'EX DATE'))}; series {r.get('SERIES', '')}; file {zpath.name}"})
     return out
 
 
