@@ -69,11 +69,16 @@ STAGES = [
     ("meetings",    re.compile(r"(shareholders?|creditors?|equity shareholders).{0,40}meeting|nclt[- ]convened|postal ballot.{0,60}scheme", re.I)),
     ("nclt_sanction", re.compile(r"(sanction|approv\w*|order).{0,40}(nclt|national company law tribunal)|(nclt|tribunal).{0,60}(sanction|approv|order)", re.I)),
     ("effective",   re.compile(r"scheme.{0,40}(effective|become effective|came into effect)|effective date|certified copy.{0,40}order.{0,40}filed", re.I)),
-    ("record_date", re.compile(r"record date", re.I)),
+    # a record date for a dividend, interest, buy-back, bonus or split is
+    # not the scheme's record date, whatever the filing is tagged
+    ("record_date", re.compile(r"record date(?![^.\n]{0,80}\b(?:dividend|interest|buy-?back|bonus|redemption|"
+                               r"split|sub-?division|debenture|ncd|coupon|agm|annual general)s?\b)", re.I)),
+    # an allotment "of equity shares of the Company" is the company issuing
+    # its OWN shares (a merger or inbound scheme), not the spin-off listing
     ("listed",      re.compile(r"listing (and|&) (commencement of )?trading|commencement of trading|trading approval|"
                                r"admitted to dealings|listed (on|with) the (stock )?exchange|"
                                r"listing(?! regulations?| obligations?) .{0,60}(resulting|demerged) compan|"
-                               r"allotment of (equity )?shares.{0,60}(scheme|de-?merger|resulting)", re.I)),
+                               r"allotment of (equity )?shares (?!of the company)[^.]{0,60}(resulting compan|de-?merg)", re.I)),
 ]
 STAGE_ORDER = [s for s, _ in STAGES] + ["withdrawn", "indicated_on_calls"]
 PRE_STAGES = ("rumoured", "withdrawn", "indicated_on_calls", "announced", "exchange_noc", "meetings", "nclt_sanction")
@@ -270,11 +275,16 @@ def load_first_pages(row: dict) -> str:
 # a document body must therefore carry an event verb and no promissory
 # word just before it.
 EVENT_STAGES = [
+    # "got listed" / "were listed" are dropped: SEBI boilerplate ("the
+    # exchanges where the shares of the listed entity are/were listed") is
+    # not an event
     ("listed", re.compile(r"(listed and admitted to (dealings|trading)|commenced trading|commencement of trading|"
-                          r"trading approval (has been |was )?(granted|received)|got listed|were listed|"
+                          r"trading approval (has been |was )?(granted|received)|"
                           r"listing (and|&) trading (approval|permission)s? (has been |have been |was |were )?(received|granted))", re.I)),
-    ("record_date", re.compile(r"record date (has been |is |was )?(fixed|set|determined) (as|on|at)|"
-                               r"fixed [A-Za-z]+,? \d{1,2}[a-z]{0,2} [A-Z][a-z]+ \d{4} as the record date", re.I)),
+    ("record_date", re.compile(r"record date (has been |is |was )?(fixed|set|determined) (as|on|at)"
+                               r"(?![^.\n]{0,80}\b(?:dividend|interest|buy-?back|bonus|redemption|split|sub-?division|debenture|ncd|coupon)s?\b)|"
+                               r"fixed [A-Za-z]+,? \d{1,2}[a-z]{0,2} [A-Z][a-z]+ \d{4} as the record date"
+                               r"(?![^.\n]{0,80}\b(?:dividend|interest|buy-?back|bonus|redemption|split|sub-?division|debenture|ncd|coupon)s?\b)", re.I)),
     ("effective", re.compile(r"scheme (has )?(become|became|is now) effective|effective date (of the scheme )?(is|was|being) |"
                              r"certified (true )?cop(y|ies) of the (said )?order .{0,60}(has been|have been|was|were) filed", re.I)),
     ("nclt_sanction", re.compile(r"(nclt|tribunal|national company law tribunal).{0,80}(has |have |had )?(sanctioned|approved|allowed|pronounced)|"
@@ -375,6 +385,27 @@ def demerger_direction(text: str, company: str) -> tuple[str, str]:
     if out and not inn:
         return "outbound", _snippet(head, out[0].start(), out[0].end())
     return "", ""
+
+
+REGISTER = ANN_DIR / "_demerger_ground_truth.csv"
+_REGISTER: dict[str, list[str]] | None = None
+
+
+def register_dates(path: Path = REGISTER) -> dict[str, list[str]]:
+    """{symbol: [record dates]} of demergers in NSE's own corporate-actions
+    register (Announcements/demerger_ground_truth.py), the exchange's word
+    on which record dates belong to a demerger. Empty when not built."""
+    global _REGISTER
+    if _REGISTER is None:
+        out: dict[str, set[str]] = {}
+        if path.exists():
+            with open(path) as fh:
+                for r in csv.DictReader(fh):
+                    if r.get("source") in ("bc", "api") and re.search(r"de-?merg", r.get("purpose", ""), re.I) \
+                            and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r.get("date") or ""):
+                        out.setdefault(r["symbol"], set()).add(r["date"])
+        _REGISTER = {k: sorted(v) for k, v in out.items()}
+    return _REGISTER
 
 
 def family_of(kind: str) -> str:
@@ -490,6 +521,21 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
                      else None) or stage_dates.get("listed") or stage_dates.get("record_date")
         age_listed = ((today - dt.date.fromisoformat(listed_on)).days
                       if listed_on else None)
+        # NSE's register is the word on record dates: a demerger whose record
+        # date or listing the filings seem to report more than LISTING_LAG_DAYS
+        # ago, with no demerger record date for this company in the register,
+        # was read from the wrong filing (a dividend record date, listing
+        # boilerplate) — the claim is dropped and the stage falls back
+        reg = register_dates()
+        if kind == "demerger" and listed_on and stage in ("record_date", "listed") and reg \
+                and sym not in reg and age_listed is not None and age_listed > LISTING_LAG_DAYS:
+            facts["register_note"] = (f"NSE's corporate-actions register has no demerger record date for {sym}; "
+                                      f"the '{stage}' read dated {listed_on} was for something else and is dropped")
+            for k in ("record_date", "listed"):
+                stage_dates.pop(k, None)
+            facts.pop("record_date", None)
+            stage = (max(stage_dates, key=STAGE_ORDER.index) if stage_dates else "announced")
+            listed_on, age_listed = None, None
         out.append({
             "symbol": sym, "company": fl[0]["company"], "kind": kind,
             "family": family_of(kind), "n_filings": len(fl),
@@ -855,8 +901,24 @@ def analyse(rows: list[dict], texts: dict[str, str] | None = None,
 
 # ------------------------------------------------- confidence and listing
 
-SCHEME_CATEGORIES = ("Demerger", "Scheme of Arrangement", "Outcome of Board Meeting",
-                     "Record Date", "Amalgamation/Merger")
+SCHEME_CATEGORIES = ("Demerger", "Scheme of Arrangement", "Amalgamation/Merger",
+                     "Record Date (corporate-actions register)")
+SCHEME_WORDS_RX = re.compile(r"scheme|de-?merg|arrangement|spin[\s-]?off|hiv(e|ing)[\s-]?off|resulting compan", re.I)
+
+
+def scheme_named(heads: list[dict]) -> bool:
+    """Is a demerger scheme on the EXCHANGE record — an exchange filing (not
+    a call mention) in a scheme category, or one tagged demerger whose
+    headline itself names the scheme? A results filing or a dividend record
+    date whose body mentions a demerger in passing is not."""
+    for h in heads:
+        if h["category"].startswith("Earnings call"):
+            continue
+        if h["category"] in SCHEME_CATEGORIES:
+            return True
+        if h["kind"] == "demerger" and SCHEME_WORDS_RX.search(f"{h['category']} {h['headline']}"):
+            return True
+    return False
 
 
 def confidence(sit: dict) -> tuple[str, str]:
@@ -872,12 +934,10 @@ def confidence(sit: dict) -> tuple[str, str]:
     if sit["stage"] == "withdrawn":
         return "indicated", f"proposal withdrawn on {sit['facts'].get('withdrawn_on', '')}"
     heads = sit.get("headlines", [])
-    scheme_filed = any(h["category"] in SCHEME_CATEGORIES or h["kind"] == "demerger"
-                       for h in heads)
-    if sit["kind"] == "demerger" and scheme_filed:
+    if sit["kind"] == "demerger" and scheme_named(heads):
         return "confirmed", "a demerger scheme is on the exchange record"
     if sit["kind"] == "demerger":
-        return "probable", "demerger named in a filing, scheme document not yet on file"
+        return "probable", "a filing's text names a demerger; no scheme filing names it yet"
     if sit["kind"] == "subsidiary_listing":
         return "probable", "a subsidiary's listing is in motion (DRHP / board approval)"
     if sit["kind"] == "scheme_other":
@@ -970,6 +1030,12 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     what = f"{judge.get('what_is_spun', '')} {judge.get('reason', '')}"
     spun = re.sub(r"\b(not|no|nothing|neither)\b.{0,40}\b(de-?merger|spin-?off|separation)\b", " ",
                   judge.get("what_is_spun", ""), flags=re.I)
+    # the judge opening with "Nothing is spun off / separated" is the verdict
+    # itself, whatever it then calls the company
+    if re.match(r"\s*(nothing|no business|none)\b[^.;]{0,40}\b(spun|separated|demerged|hived|carved)", judge.get("what_is_spun", ""), re.I):
+        if re.search(r"amalgamat|merg", what, re.I):
+            return "merger", "the judge read the complete documents: nothing is separated — subsidiaries or another company are amalgamated"
+        return "other", "the judge read the complete documents: nothing is separated"
     quiet = judge.get("parent_or_spin") in ("neither", "unclear", None) and judge.get("selling_pressure") != "likely"
     if NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
         return "merger", "the judge read an amalgamation / liquidation / insolvency matter; nothing is separated"
@@ -983,6 +1049,41 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
                              f"its own shareholders receive no new listing")
     return None, ""
 
+
+
+NEGATED_RX = re.compile(r"\s*(no\b|none\b|nothing\b|not stated|n/?a\b)", re.I)
+
+
+def judge_adjust(sit: dict, judge: dict) -> tuple[tuple[str, str] | None, str | None]:
+    """How the judge's read of the COMPLETE record moves a demerger's
+    confidence, when the override has left the kind alone:
+      - the judge finds no demerger of this company in the filings and the
+        demerger is named only on the calls → 'indicated', stage
+        indicated_on_calls (Adani Enterprises: a composite scheme on file,
+        the demergers management talks about not filed);
+      - a text-only demerger ('probable') whose judge read names the
+        business separated → 'confirmed' (a board outcome whose body carries
+        the scheme);
+      - a 'confirmed' demerger the judge cannot describe ('not stated')
+        with no scheme-named filing → 'probable'.
+    Returns (confidence or None, stage or None)."""
+    if sit["kind"] != "demerger" or judge.get("status") not in ("judged", "cached"):
+        return None, None
+    spun = judge.get("what_is_spun") or ""
+    heads = sit.get("headlines", [])
+    filed_demerger = any(h["kind"] == "demerger" and not h["category"].startswith("Earnings call") for h in heads)
+    on_calls = any(h["category"].startswith("Earnings call") for h in heads)
+    conf = sit.get("confidence", ("", ""))[0]
+    if NEGATED_RX.match(spun) and not filed_demerger and conf in ("confirmed", "probable"):
+        return (("indicated", "the judge read the filed scheme as not this company's demerger; "
+                 "the demerger is spoken of on the calls only"),
+                "indicated_on_calls" if on_calls else "rumoured")
+    if conf == "probable" and not NEGATED_RX.match(spun) and judge.get("parent_or_spin") in ("parent", "spin", "both") \
+            and filed_demerger:
+        return ("confirmed", "the judge's read of the complete filings names the business separated"), None
+    if conf == "confirmed" and re.match(r"\s*not stated", spun, re.I) and not scheme_named(heads):
+        return ("probable", "a filing's text names a demerger; the judge found no scheme describing it"), None
+    return None, None
 
 
 # ------------------------------------------------ rights and preferential

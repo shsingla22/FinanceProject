@@ -37,6 +37,13 @@ import fetch_presentations as FP     # noqa: E402
 TODAY = dt.date(2026, 10, 8)
 
 
+@pytest.fixture(autouse=True)
+def _no_register_on_disk(monkeypatch):
+    """Tests build their own register (or none): the real
+    _demerger_ground_truth.csv must not reach into them."""
+    monkeypatch.setattr(SO, "_REGISTER", {})
+
+
 def test_presentation_index_survives_a_torn_line_and_writes_atomically(tmp_path):
     assert FP.label_date("Mar 2026") == dt.date(2026, 3, 1)
     assert FP.label_date(None) == dt.date.min and FP.label_date("n.aspx?Pname=x.pdf") == dt.date.min
@@ -650,6 +657,75 @@ def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
           "parent_or_spin": "neither", "selling_pressure": "unclear", "reason": "n/a"}
     assert SO.judge_override(sit, j4)[0] == "merger"
     assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" means with the total revenue and net.')
+
+
+def test_dividend_record_dates_and_own_share_allotments_are_not_scheme_stages():
+    assert SO.stage_of("Record Date | Record date for the purpose of Dividend is 16-Jan-2026") is None
+    assert SO.stage_of("Record date for the purpose of Interim Dividend is 16-Feb-2026") is None
+    assert SO.stage_of("Record date for the purpose of Scheme of Arrangement (demerger) is 10-Jan-2026") == "record_date"
+    # the company allotting ITS OWN shares under a scheme is a merger / inbound allotment, not the spin-off listing
+    assert SO.stage_of("Record date for the purpose of Allotment of equity shares of the Company in accordance with the Scheme") == "record_date"
+    assert SO.stage_of("Allotment of equity shares by the Resulting Company pursuant to the Scheme") == "listed"
+    # SEBI boilerplate is not a listing event; a dividend record date fixed in a body is not the scheme's
+    assert SO.stage_from_text("on all the stock exchanges where the equity shares of the listed entity are/were listed.") is None
+    assert SO.stage_from_text("The equity shares of the Resulting Company were listed and admitted to dealings on NSE.") == "listed"
+    assert SO.stage_from_text("The record date has been fixed as 16 January 2026 for the purpose of the interim dividend.") is None
+    assert SO.stage_from_text("The record date has been fixed as 16 January 2026 for the demerger.") == "record_date"
+
+
+def test_register_guard_drops_a_record_date_the_exchange_does_not_know(monkeypatch):
+    row = {"date": "2026-01-10", "symbol": "HCL", "company": "HCL Tech Ltd", "source": "NSE",
+           "category": "Record Date", "kind": "demerger", "tags": "demerger",
+           "headline": "Record date for the purpose of Scheme of Arrangement is 10-Jan-2026", "attachment": "",
+           "ann_id": "r1", "file_size": "", "text_file": ""}
+    monkeypatch.setattr(SO, "_REGISTER", {"HINDUNILVR": ["2025-12-05"]})
+    s = SO.build_situations([row], {"r1": ""}, today=dt.date(2026, 6, 1))[0]
+    assert s["stage"] == "announced" and s["listed_on"] is None and "register" in s["facts"]["register_note"]
+    # with the exchange's own record date, the claim stands
+    monkeypatch.setattr(SO, "_REGISTER", {"HCL": ["2026-01-10"]})
+    s = SO.build_situations([row], {"r1": ""}, today=dt.date(2026, 6, 1))[0]
+    assert s["stage"] == "record_date" and s["listed_on"] == "2026-01-10"
+    # too recent to be in the register yet: not touched; no register at all: not touched
+    monkeypatch.setattr(SO, "_REGISTER", {"HINDUNILVR": ["2025-12-05"]})
+    assert SO.build_situations([row], {"r1": ""}, today=dt.date(2026, 1, 20))[0]["stage"] == "record_date"
+    monkeypatch.setattr(SO, "_REGISTER", {})
+    assert SO.build_situations([row], {"r1": ""}, today=dt.date(2026, 6, 1))[0]["stage"] == "record_date"
+
+
+def test_confirmed_needs_a_scheme_named_on_the_exchange_record_and_the_judge_moves_it():
+    base = {"symbol": "X", "company": "X Ltd", "kind": "demerger", "stage": "announced", "facts": {}}
+    results = [{"date": "2026-01-12", "category": "Outcome of Board Meeting", "kind": "demerger",
+                "headline": "X Ltd has submitted the financial results for the quarter", "attachment": ""}]
+    named = [{"date": "2026-01-12", "category": "Outcome of Board Meeting", "kind": "demerger",
+              "headline": "Board approved the Scheme of Arrangement for demerger of the cement business", "attachment": ""}]
+    call = [{"date": "2026-04-30", "category": "Earnings call Apr 2026", "kind": "demerger",
+             "headline": "…we plan to demerge the airports business…", "attachment": ""}]
+    assert not SO.scheme_named(results) and SO.scheme_named(named) and not SO.scheme_named(call)
+    assert SO.confidence({**base, "headlines": results})[0] == "probable"
+    assert SO.confidence({**base, "headlines": named})[0] == "confirmed"
+    assert SO.confidence({**base, "headlines": [{"date": "2026-01-01", "category": "Demerger", "kind": "demerger",
+                                                 "headline": "Intimation", "attachment": ""}]})[0] == "confirmed"
+    # the judge: 'nothing separated' demotes even when it calls the company the parent
+    j_nothing = {"status": "judged", "what_is_spun": "Nothing is separated; two wholly-owned subsidiaries are merged into the listed parent",
+                 "parent_or_spin": "parent", "selling_pressure": "unlikely", "reason": "amalgamation rationale"}
+    assert SO.judge_override({**base, "headlines": named}, j_nothing)[0] == "merger"
+    j_none = {**j_nothing, "what_is_spun": "Nothing is spun off; a stake was bought", "reason": "stake"}
+    assert SO.judge_override({**base, "headlines": named}, j_none)[0] == "other"
+    # a demerger only on the calls, which the judge cannot find in the filed scheme → indicated on calls
+    j_no = {"status": "judged", "what_is_spun": "No ANIL demerger scheme in documents; management plans demergers of Airports, Roads",
+            "parent_or_spin": "parent", "selling_pressure": "unclear", "reason": "plans"}
+    sit = {**base, "headlines": call + [{"date": "2026-04-01", "category": "Scheme of Arrangement", "kind": "scheme_other",
+                                        "headline": "Effective Date of the Composite Scheme", "attachment": ""}],
+           "confidence": ("confirmed", "")}
+    conf, stage = SO.judge_adjust(sit, j_no)
+    assert conf[0] == "indicated" and stage == "indicated_on_calls"
+    # a text-only (probable) demerger the judge describes → confirmed
+    j_yes = {"status": "judged", "what_is_spun": "The cement business, into a new listed company",
+             "parent_or_spin": "parent", "selling_pressure": "likely", "reason": "focus"}
+    conf, stage = SO.judge_adjust({**base, "headlines": results, "confidence": ("probable", "")}, j_yes)
+    assert conf[0] == "confirmed" and stage is None
+    assert SO.judge_adjust({**base, "headlines": named, "confidence": ("confirmed", "")}, j_yes) == (None, None)
+    assert SO.judge_adjust({**base, "kind": "subsidiary_listing", "headlines": named, "confidence": ("probable", "")}, j_yes) == (None, None)
 
 
 def test_demerger_direction_reads_resulting_and_demerged_roles():

@@ -832,6 +832,13 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
         s["family"] = "not a spin-off for this company's holders (" + why.split(";")[0] + ")"
         s["confidence"] = ("other", why)
         s["verdict"] = {"label": "NOT A SPIN-OFF — " + why, "score": s["verdict"]["score"]}
+    else:
+        conf, stage = SO.judge_adjust(s, s["judge"])
+        if conf:
+            s["confidence"] = conf
+        if stage:
+            s["stage"], s["listed_on"], s["days_since_listing"] = stage, None, None
+            s["verdict"] = SO.verdict(s, s["checklist"])
     s["listing"] = SO.listing_status(s, s["judge"], today)
     if s["kind"] in SO.OFFERING_KINDS:
         s["confidence"] = ("offering", SO.family_of(s["kind"]))
