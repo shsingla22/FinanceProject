@@ -39,6 +39,7 @@ import datetime as dt
 import io
 import re
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
@@ -118,8 +119,13 @@ def parse_company_page(html: str) -> dict:
     return out
 
 
-def label_date(label: str) -> dt.date:
-    mon, yr = label.split()
+def label_date(label: str | None) -> dt.date:
+    """'Mar 2026' -> 2026-03-01; anything else sorts first rather than
+    raising (a torn index line once stopped a whole company's fetch)."""
+    m = LABEL_RX.fullmatch((label or "").strip())
+    if not m:
+        return dt.date.min
+    mon, yr = m.group(0).split()
     return dt.date(int(yr), _MONTHS[mon], 1)
 
 
@@ -177,12 +183,24 @@ def _read(path: Path) -> list[dict]:
         return list(csv.DictReader(fh))
 
 
+_WRITE_LOCK = threading.Lock()     # several companies fetch at once; one writer per file
+LABEL_RX = re.compile(r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) \d{4}")
+
+
 def _write(path: Path, rows: list[dict], fields: list[str]) -> None:
+    """Whole-file, atomic: a reader never sees a half-written CSV."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", newline="") as fh:
+    tmp = path.with_suffix(path.suffix + f".{threading.get_ident()}.tmp")
+    with open(tmp, "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
+    tmp.replace(path)
+
+
+def _well_formed(rows: list[dict]) -> list[dict]:
+    """Rows with a symbol and a 'Mon YYYY' label; a torn line is dropped."""
+    return [r for r in rows if r.get("symbol") and LABEL_RX.fullmatch(r.get("label") or "")]
 
 
 INDEX_FIELDS = ["symbol", "kind", "label", "url", "file", "text_file", "pages", "status", "fetched"]
@@ -233,12 +251,13 @@ def fetch_company(symbol: str, years: int = 3, ppt_quarters: int = 12,
                INDEX_FIELDS)
 
     # the call links, for citations
-    links = {(r["symbol"], r["label"]): r for r in _read(LINKS)}
-    for label, tr, ppt in calls:
-        links[(symbol, label)] = {"symbol": symbol, "label": label,
-                                 "transcript_url": tr, "presentation_url": ppt}
-    _write(LINKS, sorted(links.values(), key=lambda r: (r["symbol"], label_date(r["label"]))),
-           ["symbol", "label", "transcript_url", "presentation_url"])
+    with _WRITE_LOCK:                 # the links file is shared by every company
+        links = {(r["symbol"], r["label"]): r for r in _well_formed(_read(LINKS))}
+        for label, tr, ppt in calls:
+            links[(symbol, label)] = {"symbol": symbol, "label": label,
+                                     "transcript_url": tr, "presentation_url": ppt}
+        _write(LINKS, sorted(links.values(), key=lambda r: (r["symbol"], label_date(r["label"]))),
+               ["symbol", "label", "transcript_url", "presentation_url"])
     return {"symbol": symbol, "status": "ok",
             "annual": sum(1 for r in ar_rows.values() if r["status"] in ("ok", "cached")),
             "ppt": sum(1 for r in ppt_rows.values() if r["status"] in ("ok", "cached")),

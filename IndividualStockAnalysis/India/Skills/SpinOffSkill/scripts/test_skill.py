@@ -31,7 +31,23 @@ import analyze as AZ                 # noqa: E402
 import financials as FN              # noqa: E402
 import deep_read as DR               # noqa: E402
 
+sys.path.insert(0, str(HERE.parent.parent.parent / "InvestorPresentations"))
+import fetch_presentations as FP     # noqa: E402
+
 TODAY = dt.date(2026, 10, 8)
+
+
+def test_presentation_index_survives_a_torn_line_and_writes_atomically(tmp_path):
+    assert FP.label_date("Mar 2026") == dt.date(2026, 3, 1)
+    assert FP.label_date(None) == dt.date.min and FP.label_date("n.aspx?Pname=x.pdf") == dt.date.min
+    rows = [{"symbol": "A", "label": "Mar 2026", "transcript_url": "t", "presentation_url": "p"},
+            {"symbol": "n.aspx?Pname=7d07.pdf", "label": None, "transcript_url": None, "presentation_url": None},
+            {"symbol": "", "label": "Jan 2026", "transcript_url": "", "presentation_url": ""}]
+    good = FP._well_formed(rows)
+    assert [r["symbol"] for r in good] == ["A"]
+    out = tmp_path / "links.csv"
+    FP._write(out, good, ["symbol", "label", "transcript_url", "presentation_url"])
+    assert FP._read(out) == good and not list(tmp_path.glob("*.tmp"))
 
 
 # ================================================================ fetcher
