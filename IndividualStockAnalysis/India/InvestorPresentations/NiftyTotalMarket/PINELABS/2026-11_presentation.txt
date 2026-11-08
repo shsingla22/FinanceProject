@@ -1,0 +1,533 @@
+
+=== page 1 ===
+ 
+ 
+Date:  October 29, 2026 
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+ 
+BSE Scrip Code: 544606   
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+ 
+NSE Scrip Symbol: PINELABS  
+ 
+Subject:  Analysts / Institutional Investors Presentation   
+ 
+Dear Sir/Ma’am,  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we are enclosing herewith a copy of Presentation to be made during the conference call with 
+Analyst/Investors as scheduled to be held today  i.e., on October 29, 2026 , for the information of the 
+Stock Exchanges.  
+ 
+The above information will also be available on the website of the Company at 
+www.pinelabs.com/investor -relations/  
+  
+We request you to kindly take the above on your records.  
+ 
+Thank ing you. 
+ 
+For Pine Labs Limited  
+ 
+ 
+ 
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl. a/a  
+ 
+ 
+ 
+=== page 2 ===
+1
+
+=== page 3 ===
+2
+Our Vision
+Q2 FY27To build the best commerce
+and fintech platform from Asia, for the world.
+2
+
+=== page 4 ===
+Key Highlights – Q2 FY27
+(1) Exchange rate $1= ₹ 95.59 (Avg. RBI reference rate for the quarter) ; For Definitions, please refer to the glossary.Revenue from 
+OperationsContribution Margin
+18% YoYAdjusted EBITDA
+27% YoY
+19% Margin₹806 Cr ₹587 Cr ₹155 CrProfit after Tax
+₹39 Cr
+Platform GTV Number of 
+Transactions (#)Digital Checkout 
+Points (#)
+~$46.5 Bn1
+(₹445k Cr)229 Cr 22.3 LakhNumber of 
+Merchants (#)
+11.6 Lakh24% YoY 6x YoY
+Q2 FY2717% YoY 22% YoY 13% YoY
+3
+=== page 5 ===
+Revenue growth accelerates to a 5 quarter high of ~24% YoY; Driving 
+improvement in profitability and cash flow
+Q2 FY27440499 532210238275650737806
+Q2 FY26 Q1 FY27 Q2 FY27122 126155
+Q2 FY26 Q1 FY27 Q2 FY27
+62039
+Q2 FY26 Q1 FY27 Q2 FY27152
+(159)350
+Q2 FY26 Q1 FY27 Q2 FY27Revenue from 
+Operations
++24% YoY
+₹ Cr
+■ DITP1  +21%
+■ IAP2  +31%Adjusted EBITDA
++27% YoY
+₹ Cr
+Adj. EBITDA margin
+Profit after Tax
+6x YoY
+₹ CrOperating Cashflow
+2x YoY
+₹ Cr%
+1DITP: Digital Infrastructure and Transaction Platform    2IAP: Issuing and Acquiring Platform+24%
++₹33 Cr18.8% 17.1% 19.2%
+6x2x
+4
+=== page 6 ===
+Our underlying businesses continue to compound
+17%
+Overall DCPs base
+YoY, Q2 FY2749%
+Mid-market DCPs base
+YoY, Q2 FY27In-store Payments
+Mid -market led, enterprise anchored: Continuing to drive higher flow -based revenue
+Partnerships with Global tech players: Deepening Tap & Pay, UPI & wallet acceptance
+UPI is the next frontier: ~10 lakh soundbox deployments  over the medium term
+Online Payments
+New value pools: Agentic commerce, cross -border, SMB & government
+52%
+GTV
+YoY, Q2 FY2777%
+UPI GTV
+YoY, Q2 FY27Multiple levers to monetize GTV : DCC, GrowthX , UPI, Scan & Go, Payment Aggregation
+Expansion of Affordability TAM: Growth across Q -commerce, UPI -based, Non -Consumer 
+electronics & Int’l markets
+31%
+Revenue
+YoY, Q2 FY27Core processing & distribution compounding: multi -year contracts, new brands
+New value pools: wallets, entertainment & corporate gifting, D2C scaling; employee 
+benefits, gaming & mobility (Bharat Yatra) gaining momentum
+International: regional expansion via anchor retail & travel relationships
+~40%
+SEA revenue
+YoY, Q2 FY272.7x
+DCPs
+YoY, Q2 FY27 (80k base)Presence across 22+ markets, credit processing for banks & fintechs in 17+ markets
+80k+ DCPs  (SEA); ~1 lakh  daily transactions (UAE)
+Where we are heading:  Malaysia playbook to the UAE, Philippines & Singapore
+Q2 FY271. Extended long -term strategic partnerships with three major accounts, including India top e -commerce players and Australia’s l eading retailer; 
+2. We clarify that sale of gift cards of Roblox, as stated in earlier letter, was through a 3rd party distributor and statement did  not intend to imply a formal direct contractual relationship between Pine Labs and Roblox. 
+Pine Labs had immediately suspended sale of Roblox gift cards and has since then attempted a direct formal contractual relati onship with Roblox to allow relaunch of Roblox gift card products.Key Client 
+Renewals1
+Multi -year contract extensions70%+
+UPI transactions mix 
+on DCPs
+Q2 FY2745%+
+Online payments
+YoY, Q2 FY27In-store & Online
+Payments
+Flow, Affordability
+& Transaction
+Processing
+Issuing & 
+Acquiring2
+InternationalBusiness Q2 FY27 highlights
+5
+=== page 7 ===
+Key products launched at Global Fintech Fest 2026 
+Q2 FY27Employee Benefits
+Card (Prism)Multi -wallet, compliant, widely accepted card on Pine Labs' acceptance
+and issuing network; employers offer tax benefits
+Digital Mobility
+Card IssuanceMobile becomes the ticket for multiple public transport; launched in 
+partnership with a major global tech player
+Stablecoin prepaid card
+for International marketsIssuers and fintechs offer open -loop prepaid cards funded by any 
+stablecoin wallet; merchants still settle in local currency. The solution is 
+for Int’l markets
+Partner CentralConnects merchants with trusted business solutions across billing,
+finance, marketing and loyalty, simplifying discovery and adoption
+through Pine Labs Commerce OSAgent ToolkitReady -to-deploy AI agents that autonomously handle repetitive
+workflows with built -in controls, guardrails and auditability, simplifying 
+merchant operations and improving efficiencyAgentic CommerceAs commerce automates, we address the full chain – Full stack agentic 
+commerce platform (agents, trust, payments, orchestration); significant 
+software monetization bundled with payments;  live transaction 
+demonstrated on Big Basket at GFF
+Cross -Border Import 
+PaymentsIndian customers pay overseas sellers via familiar local methods;
+Pine Labs manages payments, compliance, refunds and settlement
+Innovating, winning transactions and making commerce seamlessOpens a significant new TAM; 50m+ formal 
+employees
+Addresses India’s 50mn+ daily metro & bus 
+commuters
+Early bet on global payments, positions us 
+for stablecoin -led cross -border flows
+Deepens merchant engagement through 
+operational efficiency gains and drives
+volume growth as merchants AI capabilities 
+compound over timeAs merchants scale their agentic operations,
+we grow with them —monetizing at each new 
+layer as their AI maturity advances
+Pine Labs is one of the few payment
+companies with this capability —and one
+of our highest -margin revenue streamsBusiness Product launches/showcased Opening new value pools What it does
+Issuing &
+Acquiring
+Agentic & Online 
+Payments
+In-store 
+Payments
+6
+=== page 8 ===
+What’s on Investors’ minds? (1/5)
+How has revenue growth performed this quarter? Do you expect this pace of growth to continue in H2?
+Q2 FY27Q2 FY27 revenue grew 24% YoY reflecting broad -based momentum across both our platforms. Our confidence in sustaining this 
+pace into H2 is anchored in the breadth of growth engines now contributing to the top line — merchant acquisition, deeper 
+monetization of the installed base, newer products and use cases, and international expansion. 
+DITP
+•Our Mid -market  investments are delivering strong results, with DCPs growing 49%  YoY & monetization deepening beyond 
+subscriptions through higher flow -based revenue. In Q2, we entered a new strategic partnership with a global payments 
+technology player to scale Tap & Pay and UPI transactions, further strengthening the growth opportunity.
+•Subscription revenue now contributes 27% of overall revenue, while 30% of our installed DCP base is now generating flow & 
+affordability GTV. Strong DCP residency + omni channel payments is unlocking deeper monetization, as we move beyond 
+subscription revenues to more GTV -linked revenues, with 29%+ of DITP* GTV now monetized vs. 18% a year ago through flow, 
+affordability & online payments. Solutions such as DCC, Growthx , Scan & Go, Payment aggregation etc. are scaling rapidly.
+•Affordability continues to scale and diversify with emerging channels and international increasingly becoming meaningful 
+growth vectors. During the quarter, we have expanded multi -issuer affordability across leading electronics brands in Malaysia 
+with 13 issuers already onboarded.
+•Online Payments expanded through agentic commerce and cross -border payments, while Fintech Infrastructure continued to 
+scale with transactions growing 33%+ YoY and SignalIQ  now processing 125,000+ loans monthly. 
+IAP
+• India business saw significant growth momentum with revenue growing 40%+ YoY. In Processing, large tenured clients continue 
+to see strong growth momentum, validating the potential of prepaid solutions as a great engine for driving commerce. In 
+distribution, we expanded rapidly across network and partners.
+• Broadening prepaid opportunity -gaming continue to scale, with emerging growth avenues across employee benefits, refund 
+wallets, entertainment gifting (4x GTV YoY), corporate rewards (GTV +70% YoY H1) & mobility gaining traction over a small bas e.
+• International anchoring for scale — Six airlines live in H1 FY27 (highest -ever first half, with another marquee go -live in H2), plus a 
+multi -year renewal with a large ANZ retail conglomerate — moving international revenue beyond transactional economics.
+Together, these products are unlocking newer, higher -value revenue vectors & deepening our role as a fintech growth enabler. Q1
+440532210275650806
+Q2 FY26 Q2 FY27Revenue from Operations
++24% YoY
+₹ Cr   |  ■ DITP    ■ IAP
++21%+31%
+7Overall Q2 FY27 GTV ₹445k Cr (up 5% YoY), Overall  Q2 FY27 GTV ex Fintech Infrastructure ₹266k Cr (up 31% YoY), monetization in Fintech Infrastructure is based on number of transactions (up 33% YoY, Q2 FY27)
+*DITP Q2 FY27 GTV ₹427k Cr (Instore payments ₹125k Cr; Flow, Affordability & Trx. GTV ₹96k Cr; Online payments GTV ₹27k Cr; Fintech Infrastructure GTV ₹179k Cr)
+=== page 9 ===
+What’s on Investors’ minds? (2/5)
+Adjusted EBITDA margin remained strong at ~19% in Q2 FY27. How does management see indirect costs, 
+ongoing investments and margins evolving through H2 FY27?
+Q2 FY27We are excited about the opportunities ahead, and we are consciously investing in the future of commerce. Building that 
+future means making deliberate choices today. Even as we invest, Adjusted EBITDA margin remained strong at ~19%  in Q2 
+FY27 with 27% YoY growth.
+To build that future, we are rebalancing where we invest:
+• Employee cost: leaner overall, reinvested in growth – While we continue to optimize the employee cost (employee cost 
+has decreased from 37% to ~30% of revenue YoY ), we continue to invested in talent in 3 fast -growing areas: mid -market 
+(DCPs up 49% YoY), international business development (SEA revenue up ~40% YoY) and towards product teams 
+(SignalIQ , Switchboard, Agentic Payments).
+• Data, cloud and technology: scaling the platform: Tech cost has and will continue to grow in line with topline growth 
+as indicated by management earlier. We continue to invest in our tech Infra where cost remains at ~8% of revenue. The 
+investment largely is directed towards:  a) New strategic projects — Agentic Commerce, Information Security, OMC 
+business scaleup, International expansion, and our long -term engagement partnership with OpenAI. b) OEM -agnostic 
+Terminal Management System c) AI adoption across internal platforms — telesales  effort reduced by ~60%, ~89% of code 
+changes written by AI, and 60%+ of email queries responded to by AI. Each builds capability and compounds 
+productivity.
+• Other indirect costs: Costs grew due to two deliberate investments in future franchise value a) Brand build -out – Pine 
+Labs is stepping up brand investments to position itself as the default commerce infrastructure for the global south. This 
+includes the Global Fintech Fest, where we were a sponsor and showcased our flagship launches b) Deeper investments 
+with our top merchants to ringfence relationships and expand wallet share across the full spectrum of use cases — gift 
+cards, prepaid, affordability, wallets and newer categories — converting transactional engagements into multi -year 
+franchise anchors. 
+Our H1 investments in growth areas position us well; we remain committed to sustained investment in H2 as we see 
+multiple growth opportunities emerging . These investments are calibrated to drive sustainable growth while maintaining 
+operating margins . Strategic investment accelerates growth in our existing businesses and newer segments —mid-market, 
+international markets, and UPI corridors —while enabling the rollout of ~10 lakh soundboxes over the medium term122155
+Q2 FY26 Q2 FY27Adjusted EBITDA
++27% YoY
+₹ Cr  | Adj. EBITDA margin
+18.8% 19.2%
++₹33 Cr%Q2
+8
+=== page 10 ===
+What’s on Investors’ minds? (3/5)
+While Adj EBITDA has grown by 27%, PAT increased ~ 6x. What is driving the improvement below Adjusted EBITDA? 
+Q2 FY27Q2 FY27 extended the sharp improvement in bottom -line performance that began in Q1 FY27. PBT grew to ₹61 Cr (+450% 
+YoY) and PAT grew to ₹39 Cr (+546% YoY) , reflecting operating leverage flowing through from Adjusted EBITDA, a 
+moderating effective tax rate, and continued discipline on costs between EBITDA and PBT.
+• Q2 FY27 ETR moderated to ~37%  (from 48% in Q1 FY27). The elevated ETR is a direct reflection of where we are in our 
+investment cycle : several of our newer and international entities are currently loss -making as we invest to scale them, 
+and their losses cannot be set off against profits in our India business for tax purposes. The consolidated ETR therefore 
+reads higher than the underlying tax profile of the core franchise. As these entities scale toward profitability, and with 
+Q3 seasonally being the strongest quarter for our profit -making entity  — we expect the consolidated ETR to taper 
+gradually to ~30% by the exit of FY27 .
+• Continued discipline on ESOP (₹23 Cr, –20% YoY) and finance costs (₹14 Cr, –33% YoY) , alongside a stable 
+depreciation and amortization profile, will help maintain our profitability trajectory. 
+Operating leverage and the moderating tax rate together position us well for continued step -up in PBT and PAT over the 
+balance of FY27.
+639
+Q2 FY26 Q2 FY27Profit after Tax
+6x YoY
+₹ Cr
+6xQ3
+9
+=== page 11 ===
+What’s on Investors’ minds? (4/5)
+What drove the sharp improvement in Operating Cash Flow this quarter?
+Q2 FY27Operating cash flow was significantly stronger YoY in Q2 FY27: ₹350 Cr, vs ₹152 Cr in Q2 FY26 . The step -up reflects better 
+working capital management , with early settlement balance moving favorably versus the prior -year quarter.
+Net working capital  at the end of Q2 FY27 stood at 14%, well within our full -year guidance of sub -15% for FY27 . This reflects 
+disciplined management of receivables, payables and working capital as the business continues to scale, and we remain 
+confident of maintaining this trajectory through the balance of the year. 
+While our business does have inter -quarter seasonality, we remain true to our guidance of Net working capital to remain 
+within 13 -15% of the annualized revenue. We continue to work on optimizing our working capital cycles.152350
+Q2 FY26 Q2 FY27Operating Cashflow
+2x YoY
+₹ Cr
+2xQ4
+10
+=== page 12 ===
+What’s on Investors’ minds? (5/5)
+Following recent regulatory developments on MDR on UPI, how does management see the opportunity for Pine Labs, given Pine lab s platform
+processes large volumes of UPI linked transactions in the premium merchant category? How is the platform positioned to moneti ze it?
+Q2 FY27The MDR framework on UPI (P2M) creates meaningful upside for Pine Labs.
+We’re uniquely positioned to capitalize on this opportunity. Today, 70%+ of our DCP transactions are UPI -led, and we’re processing ~ ₹20k Cr in monthly UPI GTV —growing at 
+68% CAGR over the last two years . We expect to sustain this growth momentum and believe we are on track to process ~ ₹33 -34k Cr monthly GTV in FY28 
+Our average UPI ticket size is ~₹1,400 as of Q2 FY27 with more than 65% of our UPI GTV driven by transactions above ₹2,000 . Combined with our stronghold in enterprise, mid -
+market, and premium retail segments, where transactions above ₹2,000 are common, we are well positioned. 
+Under NPCI’s proposed framework, a 0.4% MDR cap applies to payments above ₹2,000, and we primarily expect to earn our proport ion through our acquiring bank partners —a high -
+margin revenue stream that scales with volumes.
+Rollout has been deferred pending regulatory clarity, but our distribution, technology, and operations are ready to execute i mme diately once the final framework and 
+implementation date are announced.Q5
+11 Please note that above data is excluding banking channel
+=== page 13 ===
+Management’s View: Income Statement (1/2)
+(1) Excluding ESOP expenses;(2) Includes other indirect expenses netted of liabilities no longer required written back; n.m. - not meaningful Q2 FY27Particulars Unit Q2 FY26 Q3 FY26 Q4 FY26 Q1 FY27 Q2 FY27 YoY FY25 FY26 YoY
+Revenue from Operations ₹ Cr 650 744 701 737 806 24% 2,274 2,711 19%
+DITP ₹ Cr 440 496 466 499 532 21% 1,603 1,837 15%
+IAP ₹ Cr 210 248 234 238 275 31% 671 874 30%
+Less: Direct Expenses ₹ Cr 152 194 187 204 219 44% 545 669 23%
+Connectivity and Operational Cost ₹ Cr 32 36 33 40 41 30% 141 130 -8%
+COGS of DCP sale ₹ Cr 40 46 50 51 54 34% 136 176 30%
+Distribution cost of prepaid cards ₹ Cr 80 111 104 113 124 54% 269 364 35%
+Contribution Margin ₹ Cr 497 551 513 533 587 18% 1,729 2,041 18%
+Contribution Margin % % 77% 74% 73% 72% 73% 76% 75%
+Less: Indirect Expenses ₹ Cr 375 380 368 406 433 15% 1,372 1,482 8%
+Employee expenses1 ₹ Cr 239 232 220 242 245 2% 869 917 5%
+Data, cloud & tech ₹ Cr 55 58 46 64 67 22% 190 207 9%
+Legal, Audit & 3rd Party Consultancy ₹ Cr 35 32 34 38 44 28% 113 130 15%
+Others2 ₹ Cr 46 58 68 62 76 65% 200 228 14%
+Adjusted EBITDA ₹ Cr 122 171 146 126 155 27% 357 559 57%
+Adjusted EBITDA Margin % % 19% 23% 21% 17% 19% 16% 21%
+12
+=== page 14 ===
+(1) Other Depreciation and Amortization includes amortization of right of use assets, amortization of software, other intangi bles, and depreciation on other assets. (this also includes impairments, if any); (2) Others 
+include other income net of liabilities and provision written back plus expenses/(income) relating to fund raising, acquisiti on and restructuring and fair value/foreign exchange loss (net); n.m. - not meaningful
+Q2 FY27Particulars Unit Q2 FY26 Q3 FY26 Q4FY26 Q1FY27 Q2FY27 YoY FY25 FY26 YoY 
+Adjusted EBITDA ₹ Cr 122 171 146 126 155 27% 357 559 57%
+Adjusted EBITDA % % 19% 23% 21% 17% 19% 16% 21%
+Less: Other Expenses ₹ Cr 111 108 77 89 93 -16% 493 422 -14%
+Depreciation on DCPs ₹ Cr 32 33 32 33 33 4% 140 128 -9%
+Other Depreciation and Amortization1 ₹ Cr 35 36 42 42 45 29% 197 147 -25%
+ESOP expense ₹ Cr 29 31 27 26 23 -20% 115 152 33%
+Finance cost ₹ Cr 21 24 17 13 14 -33% 79 83 5%
+Others (incl. other income)2 ₹ Cr -6 -28 -31 -25 -22 n.m. -38 -92 142%
+Exceptional Items3 ₹ Cr - 12 -9 0 0 - 0 3 n.m.
+Profit / (Loss) before Tax ₹ Cr 11 63 69 38 61 450% -136 138 n.m.
+Tax expenses/(credit) ₹ Cr 5 20 9 18 23 339% 9 25 175%
+Profit / (Loss) for the period / year ₹ Cr 6 42 59 20 39 546% -145 113 n.m.Management’s View: Income Statement (2/2)
+13
+=== page 15 ===
+Key Performance Indicators (KPIs)
+*Revenue from external customers – Outside India as a percentage of revenue from operations (%) Q2 FY27Particulars Unit Q2 FY26 Q3 FY26 Q4 FY26 Q1 FY27 Q2 FY27 FY25 FY26
+Revenue from operations ₹ Cr 650 744 701 737 806 2,274 2,711
+DITP ₹ Cr 440 496 466 499 532 1,603 1,837
+IAP ₹ Cr 210 248 234 238 275 671 874
+% International Revenue* % 17% 13% 14% 16% 15% 15% 15%
+Contribution Margin (CM) ₹ Cr 497 551 513 533 587 1,729 2,041
+CM as a percentage of revenue from operations % 77% 74% 73% 72% 73% 76% 75%
+Adjusted EBITDA ₹ Cr 122 171 146 126 155 357 559
+Adjusted EBITDA Margin % 19% 23% 21% 17% 19% 16% 21%
+Platform Gross Transaction Value (“Platform GTV”) ₹ Cr (000’s) 424 451 435 422 445 1,143 1,715
+Digital Infrastructure and Transaction Platform GTV ₹ Cr (000’s) 408 432 418 404 427 1,091 1,651
+Flow, Affordability and Transaction Processing GTV ₹ Cr (000’s) 63 76 77 91 96 201 275
+Issuing and Acquiring Platform GTV ₹ Cr (000’s) 16 18 16 18 18 52 64
+Number of Transactions # Crore 188 193 185 201 229 569 740
+Fintech Infrastructure Transactions # Crore 27 31 31 34 37 72 114
+Digital check -out points (DCPs) # Lakh 19.0 19.3 20.3 21.7 22.3 17.8 20.3
+Number of Merchants # Lakh 10.3 10.5 11.0 11.5 11.6 9.5 11.0
+Prepaid Cards Issued # Crore 26 20 18 20 28 71 87
+14
+=== page 16 ===
+Reconciliation
+Profit/Loss after Tax to Adjusted EBITDA
+(1) Other Income, excluding liabilities and provisions no longer required to be written back Q2 FY27Particulars Unit Q2 FY26 Q3 FY26 Q4 FY26 Q1 FY27 Q2 FY27 FY25 FY26
+Profit/(loss) for the period/year (A) ₹ Cr 6 42 59 20 39 -145 113
+Add: Total tax expense/(credit) (B) ₹ Cr 5 20 9 18 23 9 25
+Add: Finance costs (C) ₹ Cr 21 24 17 13 14 79 84
+Add: Depreciation and amortization expenses (D) ₹ Cr 66 68 71 73 76 292 270
+EBITDA (E = A+B+C+D) ₹ Cr 98 155 156 124 152 235 492
+Add: Impairment of non -current assets (F) ₹ Cr 1 1 3 1 2 9 5
+Add: Exceptional items (G) ₹ Cr - 12 -9 - - 37 3
+Add: Employee share -based payment expense (H) ₹ Cr 29 31 27 26 23 115 152
+Add: Fair valuation/Foreign exchange loss (net) (I) ₹ Cr - - 5 -0.4 (1) - 5
+Less: Other income1 (J) ₹ Cr -6 -30 -36 -24 (21) -44 -84
+Add: Legal and professional expense relating to fund 
+raising, acquisition and restructuring (K)₹ Cr - 1 - - - 5 5
+Less : Liability written back on settlement of purchase 
+consideration payable (L)₹ Cr - - - - -19
+Adjusted EBITDA (M= E + F + G + H + I –J + K –L) ₹ Cr 122 171 146 126 155 357 559
+Revenue from operations (N) ₹ Cr 650 744 701 737 806 2,274 2,711
+Adjusted EBITDA Margin (%)
+(O = N/M)% 19% 23% 21% 17% 19% 16% 21%
+15
+=== page 17 ===
+Reconciliation
+Adjusted EBITDA to Operating Cash Flow
+Q2 FY27Particulars Unit Q2 FY26 Q3 FY26 Q4 FY26 Q1 FY27 Q2 FY27 FY24 FY25 FY26
+Adjusted EBITDA (A) ₹ Cr 122 171 146 126 155 158 357 559
+Working capital adjustments without early settlement ₹ Cr 138 -272 228 -126 65 -38 -101 1
+Income taxes (paid)/ received (net of refunds) ₹ Cr -30 -23 75 64 -45 -12 38 -5
+Other items ₹ Cr 12 0 25 14 25 -59 -45 -1
+Operating Cash Flow (Ex Early settlement) ₹ Cr 241 -124 474 78 200 49 250 554
+Add/less: Early Settlement ₹ Cr -89 -28 202 -237 150 -278 -200 -159
+Operating Cash Flow (Inc Early settlement) (B) ₹ Cr 152 -152 676 -159 350 -229 50 395
+Operating Cashflow to Adjusted EBITDA (%) (C = B/A) % -145% 14% 71%
+As of 30th Sep ’26 - Gross Cash balance ₹2,528 Cr I Borrowings ₹183 Cr I Net Cash balance of ₹2,345 Cr
+16
+=== page 18 ===
+Glossary (1/2)
+Q2 FY27Term Description
+Adjusted EBITDAAdjusted  EBITDA  which  is calculated  as EBITDA  less (i) other  income ; plus  (ii) impairment  of non-current  assets ; plus  
+(iii) exceptional  items ; plus  (iv) employee  share  based  payment  expense ; plus  (v) foreign  exchange  loss (net) ; plus  
+(vi) liabilities  and provisions  no longer  required  written  back ; plus  (vii) legal  and professional  expense  relating  to 
+fund  raising,  acquisition  and restructuring ; plus  (viii)  employment  incentive  linked  to acquisitions  less (ix) liability  
+written  back  on settlement  of purchase  consideration  payable .
+Adjusted  EBITDA  does  not include  certain  components  of other  income,  namely  interest  income  under  the effective  
+interest  method  on financial  assets  carried  at amortised  cost  on bank  deposits,  interest  income  under  the effective  
+interest  method  on financial  assets  carried  at amortised  cost  on security  deposits,  interest  income  under  the 
+effective  interest  method  on financial  assets  carried  at amortised  cost  on finance  lease,  interest  on income  tax 
+refunds,  gain  on sale  of property,  plant  and equipment,  liability  written  back  on settlement  of purchase  
+consideration  payable,  net gain  on lease  termination,  net gain  arising  on financial  assets  mandatorily  measured  at 
+FVTPL  on fair valuation  income  on derivative  call option,  gain  on sale  of mutual  funds  and fair valuation  gain  of 
+mutual  funds  and miscellaneous  income . EBITDA  is earnings  before  interest,  tax, depreciation  and amortisation  
+expenses  which  is calculated  as profit/(loss)  for the period/year  plus  (i) tax expenses ; plus  (ii) finance  costs ; plus  
+(iii) depreciation  and amortisation .
+Adjusted EBITDA Margin Adjusted  EBITDA  Margin  is Adjusted  EBITDA  divided  by revenue  from  operations  for the year/period .
+Flow, Affordability and Transaction Processing GTVAffordability,  Flow  and Transaction  Processing  GTV is defined  as the total  transaction  value  primarily  processed  for 
+our Affordability  solutions,  Payment  Aggregation,  Dynamic  Currency  Conversion  (DCC)  and UPI offerings . This is a 
+subset  of entire  Digital  Infrastructure  and Transaction  Platform  GTV.
+Contribution MarginContribution  Margin  is calculated  by deducting  the transaction  and related  costs,  purchases  of stock -in-trade  and 
+changes  in inventories  of stock -in-trade  (excluding  attributable  employee  benefits  expense,  finance  costs,  
+depreciation  and amortisation  expenses,  impairment  of non-current  assets,  impairment  losses  on financial  assets  
+and contract  assets  and other  expenses)  from  revenue  from  operations  for the period/year .
+Contribution Margin as a percentage of revenue from 
+operationsContribution  Margin  as a percentage  of revenue  from  operations  is Contribution  Margin  divided  by revenue  from  
+operations  for the year/period .
+“Digital check -out points” or “DCPs”Digital  check -out points  represent  the number  of live touchpoints  (at the end of the period)  at merchant  stores  
+powered  by our platform .
+17
+=== page 19 ===
+Glossary (2/2)
+Q2 FY27Term Description
+Digital Infrastructure and Transaction Platform GTVDigital  Infrastructure  and Transaction  Platform  (DITP)  GTV is defined  as the total  transaction  
+value  processed  through  our Digital  Infrastructure  and Transaction  Platform .
+Digital Infrastructure and Transaction Platform RevenueDigital  Infrastructure  and Transaction  Platform  Revenue  includes  revenue  derived  from  
+subscription,  transaction,  flow  and other  services  offered  including  Affordability  
+transactions . Revenue  is primarily  earned  from  merchants,  acquirers,  credit  partners  and 
+consumer  brands .
+Fintech Infrastructure TransactionsFintech  Infrastructure  Transactions  is defined  as transactions  to facilitate  payment  to a 
+payee  or biller  or a transaction  to collect  financial  data  from  financial  institutions .
+Issuing and Acquiring Platform GTVIssuing  and Acquiring  Platform  (IAP)  GTV represents  the total  value  of either  (i) funds  loaded  
+onto  prepaid  instruments  (through  activations  and reloads),  or (ii) redemptions  made  
+through  certain  prepaid  instruments,  net of returns  and chargebacks . It also  includes  the 
+sale  value  of prepaid  cards distributed .
+Issuing and Acquiring Platform RevenueIssuing  and Acquiring  Platform  Revenue  includes  revenue  primarily  from  issuing  and 
+processing  services,  distributing  prepaid  cards,  interest  on funds  held  for customers  and 
+breakage  income .
+Number of MerchantsNumber  of Merchants  are the unique  customers  that  are using  at least  one product  on our 
+platform  at the end of the respective  period .
+Number of TransactionsNumber  of Transactions  is defined  as the aggregate  number  of transactions  processed  by 
+the Group  within  all its product  offerings .
+18
+=== page 20 ===
+Disclaimer
+Forward looking statements
+Certain  statements  are included  in this document  which  contain  words  or phrases,  such  as ‘will’,  ‘aim’,  ‘will likely  result’,  ‘believe’,  ‘expect’,  ‘will continue’,  ‘anticipate’,  
+‘estimate’,  ‘intend’,  ‘plan’,  ‘contemplate’,  ‘seek  to’, ‘future’,  ‘objective’,  ‘goal’,  ‘project’,  ‘should’,  ‘will pursue’  and similar  expressions  or variations  of these  expressions,  that  are 
+‘forward -looking  statements’ . Forward -looking  statements  by their  nature  involve  a number  of risks  and uncertainties  that  could  cause  actual  results  to differ  materially  
+from  market  expectations . Actual  results  may  differ  materially  from  those  suggested  by the forward -looking  statements  due to certain  risks  or uncertainties  associated  
+with  our expectations  with  respect  to, but not limited  to, regulatory  changes  pertaining  to the industry  in which  our Company  has businesses  and our ability  to respond  to 
+them,  our ability  to successfully  implement  our strategy,  our growth  and expansion,  technological  changes,  our exposure  to market  risks,  general  economic  and political  
+conditions,  in India  and globally,  which  have  an impact  on our business  activities  or investments,  the monetary  and fiscal  policies  of India,  inflation,  deflation,  unanticipated  
+turbulence  in interest  rates,  foreign  exchange  rates,  equity  prices  or other  rates  or prices,  the performance  of the financial  markets  in India  and globally,  changes  in the 
+Indian  and foreign  laws  and regulations,  including  tax, accounting  and RBI guidelines,  changes  in competition  and the pricing  environment  in India,  regional  or general  
+changes  in asset  valuations,  pandemics,  and general  economic  conditions  affecting  our industry,  incidence  of natural  calamities  and/or  acts  of violence . By their  nature,  
+certain  of the market  risk disclosures  are only  estimates  and could  be materially  different  from  what  may  actually  occur  in the future . As a result,  actual  future  gains,  losses  
+or impact  on net income  could  materially  differ  from  those  that  have  been  estimated . 
+Our Company  may,  from  time  to time,  make  additional  written  and oral forward -looking  statements,  including  in our reports  to our shareholders . Such  forward -looking  
+statements  represent  only  our Company’s  current  intentions,  beliefs  or expectations,  and any forward -looking  statement  speaks  only  as of the date  on which  it was  made . 
+Neither  our Company  nor any of its directors,  officers,  employees,  agents  or advisers,  or any of their  respective  affiliates,  advisers  or representatives,  undertake  to update  or 
+revise  any forward -looking  statements,  whether  as a result  of new  information,  future  events  or otherwise  and none  of them  shall  have  any liability  (in negligence  or 
+otherwise)  for any loss howsoever  arising  from  any use of this document  or its contents  or otherwise  arising  in connection  therewith . Further,  nothing  in this document  
+should  be construed  as constituting  legal,  business,  tax or financial  advice  or a recommendation  regarding  the securities . Although  our Company  believes  that  such  
+forward -looking  statements  are based  on reasonable  assumptions,  we can give  no assurance  that  such  expectations  will be met . You are cautioned  not to place  undue  
+reliance  on these  forward -looking  statements,  which  are based  on current  view  of our Company’s  management  on future  events . Forecasts  and hypothetical  examples  are 
+subject  to uncertainty  and contingencies  outside  our Company’s  control . Past  performance  is not a reliable  indication  of future  performance . Before  acting  on any 
+information  you should  consider  the appropriateness  of the information  having  regard  to these  matters,  and in particular,  you should  seek  independent  financial  advice . 
+Q2 FY27 19
+=== page 21 ===
+Thank You
+20
+=== page 22 ===
+21
+Digital Infrastructure & Transactions
+In-Store & 
+Online
+InfrastructureFlow, 
+Affordability
+&Transaction 
+ProcessingFintech 
+Infrastructure
+Affordability and 
+consumer 
+engagement 
+solutions to drive 
+merchant growthAPI for digital public 
+infrastructure 
+across payments, 
+data & insightsIssuing & Acquiring
+Solutions for
+issuing, processing, 
+distribution 
+Prepaid, debit & 
+credit issuanceIssuance
+Processing & 
+DistributionMonetisation  model What we do?
+Q2 FY27Omnichannel 
+payment 
+acceptance
+Processing fees  
+% of GTVSubscription & 
+Take RateProcessing 
+fees  % of GTVTransaction 
+based Fee
+Platform
+21
