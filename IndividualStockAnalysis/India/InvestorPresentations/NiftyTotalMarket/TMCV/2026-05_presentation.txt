@@ -1,0 +1,443 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ 
+BSE Limited  
+First Floor, New Trading Ring  
+Rotunda Building, P J Towers  
+Dalal Street, Fort  
+Mumbai 400 001  
+ 
+May 13, 2026  
+Sc no. - 66 
+ National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th  Floor  
+Plot No.C/1, G Block  
+Bandra- Kurla Complex  
+Bandra (East), Mumbai 400 051  
+  
+Dear Sir/Madam,  
+ 
+Sub: Submission of Investor presentation to be made to the Analysts/Investors  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and with further reference to our letter bearing sc no.  62 dated  
+May 5 , 2026 , we are enclosing herewith the presentation to be made to the Analysts/Investors 
+on the Financial Results of Tata Motors Limited (formerly TML Commercial Vehicles Limited)  
+(‘the Company’) for the fourth  quarter and financial year  ended March  31, 2026 . 
+ 
+The same is also being made available on the Company’s website at  www. cv.tatamotors.com . 
+ 
+This is for information of the Exchanges and the Members.  
+ Thanking you.  
+ Yours Faithfully,  
+ 
+Tata Motors Limited  
+(formerly TML Commercial Vehicles Limited)  
+ 
+ 
+ 
+Sudipto Kumar Das  
+Company Secretary  
+ 
+Encl: as above  
+=== page 2 ===
+Copyright, Confidential, Tata Motors Limitedc1
+Tata Motors Limited
+( f o r m e r l y  k n o w n  a s  T M L  C o m m e r c i a l  V e h i c l e s  L t d . )
+Results for the quarter and full year ended  March 31, 2026  
+Girish Wagh  -  MD & CEO
+GV Ramanan - Chief Financial Officer
+=== page 3 ===
+Copyright, Confidential, Tata Motors Limitedc2Other Details 
+•Presentation  format  : The results  provided  in this deck  represent  details  on 
+Standalone  level  including  Joint  operations  with  Tata  Cummins . 
+•Consolidated  financial  statements,  include  operating  segment  viz CV segment  
+comprising  TML  and its subs  TDM,  TDMS,  TMBSL,  PTTMIL,  TML  CV Mobility  
+Solutions,  TML  Smart  City Mobility  Solutions  and Joint  operation  with  Tata  Cummins   
+and unallocable  / other  items  that are not specific  to the Commercial  Vehicles  
+segment . These  comprise  TMF  Holding  group,  TMIBASL,  TML  Holdings  CV, and 
+associate  companies  viz ACGL,  Freight  Tiger,  Nita Co, Tata  Hitachi,  TMGSL,  and 
+TMDALL .
+  
+•Reported  EBITDA  is defined  to include  the product  development  expenses  charged  
+to P&L and realised  FX and commodity  hedges  but excludes  the gain/  loss on 
+realised  derivatives  entered  into for the purpose  of hedging  debt,  revaluation  of 
+foreign  currency  debt,  revaluation  of foreign  currency  other  assets  and liabilities,  
+MTM  on FX and commodity  hedges,  MTM  on unquoted  investments,  other  income  
+(except  government  grant)  as well as exceptional  items .
+•Reported  EBIT  is defined  as reported  EBITDA  plus profits  from  equity  accounted  
+investees  less depreciation  & amortisation .
+•Free  cash  flow   is defined  as net cash  generated  from  operating  activities  less net 
+cash  used  in automotive  investing  activities,  including  realised  profit/  loss on sale of 
+mutual  funds  and excluding  investments  in consolidated  entities,  M&A  linked  asset  
+purchases  and movements  in financial  investments,  and after  net finance  expenses  
+(including  interest  on leases)  and fees paid .
+•Reported  ROCE  (Auto)  is analytically  derived  by dividing  the EBIT  for the last 12 
+months  by the average  of the capital  employed  (YoY) .Safe harbour statement
+Statemen tsinthis presen tation describing the obje ctives,projections, estimatesand
+expectations ofTata  Motors  Limited  and its business  segments maybe“forward-looking
+statemen ts”within the meaning ofapplicab lesecuri tieslawsand regulations.Actual
+resultscoulddiffermaterial lyfrom those expressed orimplied .Impo rtant factorsthat
+couldmakeadifferencetothe Group’s  operations includ e,among stothe rs,economic
+condi tions affectingdemand /supp lyand pricecondi tions inthedomes ticand overseas
+marketsinwhich theGroup  operates,chan gesinGovernment regulations, taxlawsand
+other statutesand inciden talfactors. 
+Certain  analysis  undertaken  and represented  in this document  may  constitute  an 
+estimate  from  the Group  and may  differ  from  the actual  underlying  results .
+Narrations
+-Q4FY26 represents  the 3 months  period  from  1 Jan 2026  to 31 Mar  2026
+-Q4FY25 represents  the 3 months  period  from  1 Jan 2025  to 31 Mar  2025
+-FY26 represents  the 12 months  period  from  1 Apr 2025  to 31 Mar  2026
+-FY25 represents  the 12 months  period  from  1 Apr 2024  to 31 Mar  2025
+-Q1FY26 represents  the 3 months  period  from  1 Apr 2025  to 30 Jun 2025
+-Q2FY26 represen ts the 3 months  period  from 1 Jul 2025  to 30 Sep 2025
+-Q3FY25 represents  the 3 months  period  from  1 Oct 2024  to 31 Dec 2024
+ Accounting  Standards
+•Financials  contained  in the presentation  are as per IndAS
+•Prior  period  financials  in this presentation  reflect  the impact  of the demerger  as if it 
+had been  in effect  since  the Company’s  incorporation  on June  23, 2024 . Accordingly,  
+Q1 FY25 numbers  included  in FY25 numbers  are derived  numbers .
+=== page 4 ===
+Copyright, Confidential, Tata Motors Limitedc3FY26 – Tata Motors key highlights
+Won  pan-India  orders  of over  5,000 buses  from  
+multiple  State  Transport  Undertakings,  powering  India’s  
+next  era of mass  mobilityWon  Top honours  across  multiple  segments  at the 
+Apollo  CV Awards  2026Secured  biggest  order  for 70,000 Yodha  and Ultra  T.7 
+Vehicles  for deployment  in IndonesiaLaunched  Ace Pro: India’s  most  affordable  4-wheel  
+mini -truck ; empowering  India’s  next  wave  of 
+entrepreneurs
+Launched  17 Next -Generation  Trucks,  setting  new  
+standards  for Safety,  Profitability  & Progress . 
+Tata  Motors  Pantnagar  Plant  wins  Golden  Peacock  
+Award  for Quality  
+Golden Peacock Award section to be added 
+
+=== page 5 ===
+Copyright, Confidential, Tata Motors Limitedc4Corporate actions
+Iveco Update Final dividend recommended
+▪ Regulatory  approvals  for the proposed  acquisition  of Iveco  
+are currently  underway  with  most  of the approvals  already  
+received .
+▪ Last pending  approvals  are being  actively  pursued  for the 
+earliest  closure
+▪ Tata Motors  expects  to complete  the transaction  by Q2 
+FY27 ▪The Board  has recommended  a final  dividend  of ₹4 per 
+share  (200% of face value)
+▪To be approved  in the ensuing  shareholders  meeting
+▪Resultant  cash  outflow  would  be ₹ 1,473 Cr.
+
+=== page 6 ===
+Copyright, Confidential, Tata Motors Limitedc5Consistent growth across all financial metrices
+1. FY25 numbers are restated taking account for demerger related entries
+2. Auto ROCE (Return on Capital Employed): EBIT/Average Capital Employed S t a n d a l o n e  i n c l u d i n g  J o i n t  O p e r a t i o n s  T a t a  C u m m i n s  |IndAS , ₹ K  C r
+For analytical purposes only
+66736977
+FY23 FY24 FY25 FY26Revenues ₹KCr.
+Consistent increase in scale
+5.18.1 8.410.2
+7.8%11.0%12.0%13.2%
+0.0%2.0%4.0%6.0%8.0%10.0%12.0%14.0%
+ - 2. 0 4. 0 6. 0 8. 0 10. 0 12. 0
+FY23 FY24 FY25 FY26EBITDA ₹ KCr. and %
+Sharp improvement in marginsEBITDA KCr
+EBITDA %
+1.55.06.08.7
+5.1%8.3%9.2%11.0%
+0. 0%2. 0%4. 0%6. 0%8. 0%10. 0%12. 0%14. 0%
+ ( 1. 0) 1. 0 3. 0 5. 0 7. 0 9. 0 11. 0 13. 0 15. 0
+FY23 FY24 FY25 FY26PBT (bei) ₹ KCr. and %
+Robust PBT (bei) in FY26
+EBIT% turns double digit in FY26PBT (bei)
+EBIT %
+9%13%18%11%
+-7%11%
+FY24 FY25 FY26Non Cyclical Revenue Growth
+Non-cyclical CAGR 2.7x cyclical 
+business CAGRNon Cyclical
+Growth
+Cyclical Growth
+3.16.07.09.2
+2.33.0 2.9 2.8
+FY23 FY24 FY25 FY26FCF & Investments Spends ₹ KCr
+FCF generation ~ 12%FCF Investments Spends
+8146172
+FY23 FY24 FY25 FY26Auto ROCE %
+Industry Leading ROCE's
+=== page 7 ===
+Copyright, Confidential, Tata Motors Limitedc6Q4 Wholesales 132K (up 25% ); Full year wholesales 428K (up 14%)
+Q 4  &  F Y 2 6  |  S t a n d a l o n e  i n c l u d i n g  J o i n t  O p e r a t i o n s  T a t a  C u m m i n s  | C a t e g o r y  | Units in ‘000’sStrong volume momentum sustained across product lines in FY26
+HCV: Heavy Commercial vehicles ILMCV: Intermediate, Light and  Medium Commercial vehicles  SCV & PU:  Small commercial vehicles & Pickups  CVP: CV Passenger vehicles
+=== page 8 ===
+Copyright, Confidential, Tata Motors Limitedc7
+Q1 FY26 Q2 FY26 Q3 FY26 Q4 FY26 Q4 FY25 Y-O-Y FY26 FY25 Y-O-Y
+Wholesales ( K units) 86.1              95.0        115.2      131.8 105.5     25% 428.1      376.8      14%
+Revenue 15.7              16.9        20.4        24.5       20.0       22% 77.4         69.4         11%
+EBITDA (%) 12.3% 12.7% 13.4% 13.9% 12.6% 130 bps 13.2% 12.0% 120 bps
+EBIT(%) 9.6% 10.2% 11.3% 12.1% 9.9% 220 bps 11.0% 9.2% 180 bps
+PBT (bei) 1.6                1.8           2.3           3.0           1.9           1.1            8.7            6.0            2.7              
+Free Cash Flow (1.8)               2.2           4.8           4.0           5.4           (1.3)          9.2            7.0            2.2              
+Net Cash/(Debt) 7.5            1.6            5.9              
+Auto ROCE (%) 72.3         61.3         1100 bpsQ4 : Revenue  ₹24.5K Cr, EBITDA 13.9%, Year end Net Cash at ₹7.5K Cr
+Robust revenue, EBITDA, PBT( bei), FCF; mid term guidance of ‘teens’ EBITDA margin delivered ahead of target
+Q4 FY26  | S t a n d a l o n e  i n c l u d i n g  J o i n t  O p e r a t i o n s  T a t a  C u m m i n s  |IndAS , ₹ K  C r
+Revenue & Volume
+•Strong H2 drives double -digit wholesale 
+growth for FY26; trucks lead
+•Annual revenues at ₹77K Cr, reflecting 
+strong volumes and mix 
+•QoQ realisation  improvement on back of 
+pricing discipline and favorable mix.FCF, Net Cash and Auto ROCE
+•Strong full year FCF of ₹9.2K Cr, leading to 
+year end net cash at 7.5K Cr.
+•With disciplined working capital 
+management, cash PAT almost entirely 
+flowing through into FCF.
+•Industry leading Auto ROCE at 72%Profitability
+•Standalone  business  consistently  expanded  
+margins  through  the year  to exit Q4 at a 
+strong  13.9% (up 130 bps)
+•All 4 vehicular  businesses  delivering  healthy  
+margins  and improved  unit economics
+•Non -cyclical  business  growth  at 1.6x cyclical  
+business,  aiding  overall  profitability
+=== page 9 ===
+Copyright, Confidential, Tata Motors Limitedc81,883793332(203)7095
+2,970
+PBT (bei) Q4 FY25 Volume, Mix Realisation (net) Variable costs Other costs FX & Others PBT (bei) Q4 FY26Q4 EBIT at 12.1% (+220 bps); PBT ( bei) at ₹3.0K Cr
+Higher volumes, mix and improved realization aid margin expansion, partially offset by rising input costs
+Q4 FY26  | Standalone including Joint Operations Tata Cummins  |IndAS , ₹ Cr
+9.9% 1.8% 0.7% (0.5)% 0.2% 0.0% 12.1% EBIT %₹ Cr. IndAS
++200 bpsPLI & Incentives  ₹ 25 Cr
+         Others ₹ 70 Cr  
+For analytical purposes onlyD&A and PDE  ₹102 Cr
+         Employee cost ₹ (70) Cr 
+         Others  : ₹ 38Cr    
+=== page 10 ===
+Copyright, Confidential, Tata Motors Limitedc9
+Consistently growing FCF: Full year at ₹9.2K Cr
+Driven by strong operational performance and efficient working capital management through the year
+Q4 FY26  | S t a n d a l o n e  i n c l u d i n g  J o i n t  O p e r a t i o n s  T a t a  C u m m i n s  | IndAS , ₹ Cr
+Trade receivables ₹ 376 Cr
+Payables, acceptances and others ₹ 2,057 Cr
+Inventories ₹ 690 Cr
+FY25 FY26
+Cash Conversion Cycle (Days)Disciplined working capital management resulting in best -
+in-class cash conversion cycle
+1. Cash conversion cycle calculated basis trailing 12 months Revenue / COGS
+2. Average Inventory / Receivables / Payables considered for calculating cash conversion cycle(32) (31)
+=== page 11 ===
+Copyright, Confidential, Tata Motors Limitedc10Investment Spending in FY26 ~₹3k Cr
+Investments in line with plan; FY27 expected to be in similar range
+Q4 FY26  | S t a n d a l o n e  i n c l u d i n g  J o i n t  O p e r a t i o n s  T a t a  C u m m i n s  | IndAS , ₹ Cr
+917 782 
+1,699 1,094 
+2,793 
+Capitalized
+R&DExpensed
+R&DTotal R&D Capital and 
+other investmentsTotal investment 
+spending
+Q4 FY26 230 247 477 304 781
+Q4 FY25 391 265 656 241 898FY 26
+Within guided range of 2% -4% of revenueCapex range bound. Growth and tech investments prioritized
+2.0% 2.3% 2.4% 2.6%1.2%1.5% 1.5%1.0%
+FY23 FY24 FY25 FY26PDE % Capex %
+3.2%3.8% 3.9%3.6%
+=== page 12 ===
+Copyright, Confidential, Tata Motors Limitedc11Consolidated Financials
+
+=== page 13 ===
+Copyright, Confidential, Tata Motors Limitedc12Q4: Revenue  ₹26.1K Cr, EBITDA 13.1%, PBT( bei) ₹2.4K Cr
+Q 4  F Y 2 6  |  T a t a  M o t o r s  L i m i t e d  ( C o n s o l )  | IndAS, ₹ K  C r
+Revenue
+•Double -digit wholesale and revenue 
+growth, fueled by a richer product mix 
+and improved realizations.Free Cash Flow
+•Strong Q4 FCF of ₹8.0K Cr, including 
+advance received for Indonesia order.
+•Strong  year end net cash position at            
+₹ 13.7K Cr significantly enhancing liquidity 
+and financial flexibilityProfitability
+•Consistently  expanding  EBITDA   and EBIT  
+margins,  demonstrating  consistent  value  
+realization  and disciplined  execution
+Q1 FY26 Q2 FY26 Q3 FY26 Q4 FY26 Q4 FY25 Y-O-Y FY26 FY25 Y-O-Y
+Wholesales ( K units) 88.0              96.8        116.8      133.7 107.6     24% 435.2      384.7      13%
+Revenue 17.3              18.6        21.8        26.1       21.9       19% 83.9         76.4         10%
+EBITDA (%) 11.9% 11.4% 12.5% 13.1% 11.6% 150 bps 12.3% 11.3% 100 bps
+EBIT(%) 9.3% 8.8% 10.4% 11.5% 9.2% 230 bps 10.2% 8.6% 160 bps
+PBT (bei) 1.7                (0.6)          2.6           2.4           1.8           0.5            6.1            5.7            0.4              
+PAT 1.4                (0.9)          0.7           1.8           1.3           0.5            3.0            4.0            (0.9)
+Free Cash Flow (2.0)               2.0           4.4           8.0           5.3           2.7            12.4         5.9            6.5              
+Net Cash/(Debt) 13.7         4.0            9.7              
+=== page 14 ===
+Copyright, Confidential, Tata Motors Limitedc13BUSINESS UPDATES
+
+=== page 15 ===
+Copyright, Confidential, Tata Motors Limitedc14VAHAN Market share at 35.7%
+Commercial Vehicles Segment | Domestic market share*
+*VAHAN registration market share basis Govt of India’s VAHAN portal, the data excludes registration for states of MP, Andhra and Telangana and based on 7 categories of VAHAN portal. From Q1FY27 onwards 
+MP and Andhra related data will be included in market share calculations.
+*The data is based on details updated as on  Apr 5,2026. VAHAN portal data is subject to updates with retrospective effect, m arginally impacting TML overall MS on an annualized basis.
+* The non -competing volumes, which is currently booked under the Passenger category is adjusted, thereby correcting Passenger Ca rriers and Overall CV market share figures.37.1%36.1%
+34.6%35.5%36.5%35.7%
+FY25 Q1 FY26 Q2 FY26 Q3 FY26 Q4 FY26 FY26Domestic market share*
+53.9%
+52.4% 52.6%58.2%
+55.8%55.0%
+ FY25 Q1 Q2 Q3 Q4 FY26HCV
+40.2% 39.3% 38.8% 40.0% 39.6% 39.5%
+ FY25 Q1 Q2 Q3 Q4  FY26ILMCV
+29.0%27.3% 26.5% 26.3% 27.2% 26.8%
+FY25 Q1 Q2 Q3 Q4 FY26SCV & PU
+37.6% 36.9% 36.0% 35.9% 36.6% 36.4%
+FY25 Q1 Q2 Q3 Q4 FY26CV Passenger
+HCV: Heavy Commercial vehicles ILMCV: Intermediate, Light and  Medium Commercial vehicles  SCV & PU:  Small commercial vehicles & Pickups  CVP: CV Passenger vehiclesHCV market share continues to consolidate 
+=== page 16 ===
+Copyright, Confidential, Tata Motors Limitedc15
+Overall fleet indicators & transporter profitability are healthy
+HCV Cargo
+Fleet Utilization (active vehicle%) 
+MCV Cargo ICV  trucks
+LCV Buses72.2%75.9%
+71.6% 68.2%
+60.2%66.7%
+65.8%68.8%
+60.1%64.9%
+51.1%63.9%
+HCV  Tipper
+Source: Internal Study  
+Source: Crisil Research (*Mar’26 data awaited)Jan’23 Mar’26 Jan’23 Mar’26
+Jan’23 Mar’26 Jan’23 Mar’26
+Jan’23 Mar’26 Jan’23 Mar’26
+Freight Rates 
+Transporter Profitability
+100119100106
+IndexedIndexed
+Jan’23 Mar’26
+Jan’23 Mar’26Operating Economics
+Apr’26 – 76.8% Apr’26 – 71.2%
+Apr’26 – 67.1% Apr’26 – 68.5%
+Apr’26 – 66.4% Apr’26 – 68%
+=== page 17 ===
+Copyright, Confidential, Tata Motors Limitedc16Business Overview — FY26
+Industry Businesses Sustainability
+A Story of Two Halves
+H1 muted : Operation Sindoor & monsoon impact. 
+H2 recovery  — GST 2.0 -led consumption demand boosted 
+Q4 to strong momentum.
+19.0%
+Q4 TIV*25.4%
+Q4 TML*12.5%
+FY26 TIV*11.6%
+FY26 TML*
+West Asia Conflict - Business Impact 
+Assessment
+Demand Fundamentals Intact
+•Freight rates up slightly QoQ in Q4 FY26 on strong 
+consumption demand; slight March dip amid war 
+situation concerns
+•HCV cargo utilization remains healthy reflecting 
+stable demand.
+•E-way bill generation: consistent +15% in Q4 FY26 
+vs Q4 FY25
+Supply challenges met with agility
+•Vessel transit delays actively managed; exposure to 
+impacted trans -shipment hubs (Dubai/Doha) 
+remains limited.
+•Assessed 130+ Tier -1 suppliers; actively 
+transitioning vulnerable partners to alternate fuelsTrucks
+• Launched next -gen higher payload trucks, Azura 
+ILMCV range with European safety standards
+Buses
+• Retail business growth; Government business 
+turnaround with ~5,000 -unit order book
+SCVPU
+• Ace Diesel LNT and Ace Pro ramping up
+• Intra EV launched to broaden the electric range
+Parts & Services
+• Secured DEF supply continuity despite tech -grade 
+urea availability constraints.
+TMSCML
+• 3815 cumulative E -buses deployed
+Digital — Fleet Edge
+• Subscription renewals almost doubled from Q1 
+to Q4
+Note: TML and industry volume growth are based on offtake volumes, *YOY Growth                    TMSCML: Tata Motors Smart C ity Mobility Limited
+2.4K
+SCV EV retails in Q4 FY26
+Highest since FAME incentives discontinued
+BillionE
+Initiated deliveries of E.55S
+40 Hydrogen trucks — MoU signed
+53+ Cr
+Green Kms since inception
+Cumulative across all deployed e -buses
+250 EV Buses order received 
+=== page 18 ===
+Copyright, Confidential, Tata Motors Limitedc17Looking Ahead
+Q1 Focus  Areas :
+•Trucks : Continue  growth  momentum  by leveraging  the new  higher -payload  
+truck  portfolio  and scaling  the BEV Truck  range  to capture  emerging  demand .
+•Buses : Drive  profitable  market  share  recovery  across  sub-segments  while  
+scaling  government  tender  procurement  and execution  capabilities .
+•SCVPU : Sustain  volume  growth  across  Ace Pro, Ace and Intra  to consolidate  
+early  signs  of market  share  recovery .
+•Parts  & Services  accelerate  year -on-year  growth  through  demand  
+generation,  portfolio  expansion  and resilient  supply  chain  fulfillment
+Looking  Ahead :
+Near -Term  Headwinds : Cautiously  monitoring  broad -based  commodity  inflation  
+(Steel,  Aluminum,  Copper)  and subdued  sentiment  in MENA  export  markets . Diesel  
+prices  remain  a key monitorable  
+Structural  Tailwinds : Despite  external  noise,  fundamentals  remain  strong . A 
+refreshed  product  portfolio,  proactive  risk mitigation  and disciplined  execution  
+positions  us well for FY27.
+
+=== page 19 ===
+Copyright, Confidential, Tata Motors Limitedc18Investor Day 2026
+Save the date
+Investor Day 2026
+Tuesday, 23rd June 2026
+=== page 20 ===
+Copyright, Confidential, Tata Motors Limitedc19Please submit your questions in the Q&A textbox.
+Please mention your name and name of the organization you represent along with the questionsQ&A session Thank You
+
+=== page 21 ===
+Copyright, Confidential, Tata Motors Limitedc20Additional Details
+Results for the quarter and full year ended  March 31, 2026  
+=== page 22 ===
+Copyright, Confidential, Tata Motors Limitedc21P&L Details
+Standalone including Joint operations Tata Cummins
+₹ Cr. IndAS
+Q4 FY25 Q3 FY26 Q4 FY26  FY25  FY26Q4 vs Q4
+YoYQ4 vs Q3
+QoQFY26 vs FY25 
+Revenue  from operations 19,998 20,404 24,451 69,419 77,398 4,453 4,047 7,979
+Grant income / incentives 34 139 59 285 318 25 (80) 33
+Expenses :
+Cost of materials consumed (13,713) (14,271) (17,050) (47,516) (53,474) (3,337) (2,779) (5,958)
+Employee benefit expenses (1,109) (1,152) (1,179) (4,513) (4,655) (70) (27) (142)
+Other expenses (net) (2,426) (2,232) (2,619) (8,282) (8,596) (193) (387) (314)
+Product development and engineering expenses (265) (159) (247) (1,029) (782) 18 (88) 247
+Exchange gain / loss (realized) (2) 3 (11) 1 (5) (9) (14) (6)
+EBITDA 2,517 2,732 3,404 8,364 10,206 887 672 1,842
+Depreciation and amortization (533) (417) (449) (1,976) (1,701) 84 (32) 275
+EBIT 1,984 2,315 2,955 6,387 8,504 971 640 2,117
+Other income ( excl. grant income) 162 133 181 603 717 19 48 114
+Finance cost (219) (143) (126) (936) (629) 93 17 307
+Unrealized FX, Unrealized commodities (44) 13 (40) (96) 89 4 (53) 185
+PBT (bei) 1,883 2,318 2,970 5,958 8,681 1,087 652 2,723
+Exceptional items incl MTM loss on Tata Capital, new labour 
+code, demerger related costs etc(228) (1,545) 220 (322) (3,700) 448 1,765 (3,378)
+PAT 1,416 561 2,409 4,345 3,364 993 1,848 (981)
+PBT
+FCF 5,352 4,752 4,016 7,007 9,186 (1,336) (736) 2,179
+EBITDA Margin 12.6% 13.4% 13.9% 12.0% 13.2% 130 bps 50 bps 120 bps
+EBIT Margin 9.9% 11.3% 12.1% 9.2% 11.0% 220 bps 80 bps 180 bps
+=== page 23 ===
+Copyright, Confidential, Tata Motors Limitedc22P&L Details
+Commercial Vehicles Segment
+Commercial Vehicles segment includes TML and its subsidiaries Tata Daewoo Mobility, Tata Daewoo Mobility Sales, Tata Motors B ody Solutions Limited, PT Tata Motors Indonesia Ltd, 
+TML CV Mobility Solutions, TML Smart City Mobility Solutions. and Joint operation with Tata Cummins
