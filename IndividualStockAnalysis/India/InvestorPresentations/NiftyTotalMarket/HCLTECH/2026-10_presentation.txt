@@ -1,0 +1,1079 @@
+
+=== page 1 ===
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 120 4306000   Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -1100 19, India  
+  
+ 
+ 
+October 12 , 2026  
+ 
+ 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH   
+ 
+ 
+ 
+Sub.: Investor Release Q 2 FY 202 7 
+ 
+Dear Sir /Madam , 
+ 
+Enclosed please find a n Investor Release dated October 12 , 2026  on the financial results of 
+the Compa ny for the quarter  and half year ended September 30 , 2026.  
+ 
+ Thanking you,  
+ For HCL Technologies Limited  
+ 
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+ 
+  
+ Encl: a/a  
+ 
+ 
+=== page 2 ===
+Investor Release
+Q2 FY27
+October 2026
+=== page 3 ===
+Safe Harbor Statement 
+Certain  statements  in this  release  are forward -looking  statements,  which  involve  a number  of risks,  uncertainties,  assumptions  and  other  factors  that  could  cause  actual  
+results  to differ  materially  from  those  in such  forward -looking  statements . All statements,  other  than  statements  of historical  fact  are statements  that  could  be deemed  
+forward  looking  statements,  including  but not limited  to the statements  containing  the words  'planned' ,  'expects' ,  'believes' ,  'strategy' ,  'opportunity' ,  'anticipates' ,  'hopes'  or 
+other  similar  words . The  risks  and  uncertainties  relating  to these  statements  include,  but are not limited  to, risks  and  uncertainties  regarding  impact  of pending  regulatory  
+proceedings,  fluctuations  in earnings,  our ability  to manage  growth,  intense  competition  in IT services,  Business  Process  Outsourcing  and  consulting  services  including  
+those  factors  which  may  affect  our cost  advantage,  wage  increases  in India,  customer  acceptances  of our services,  products  and  fee structures,  our ability  to attract  and  
+retain  highly  skilled  professionals,  our ability  to integrate  acquired  assets  in a cost  effective  and  timely  manner,  time  and  cost  overruns  on fixed -price,  fixed -time  frame  
+contracts,  client  concentration,  restrictions  on immigration,  our ability  to manage  our international  operations,  reduced  demand  for technology  in our key focus  areas,  
+disruptions  in telecommunication  networks,  our ability  to successfully  complete  and  integrate  potential  acquisitions,  the success  of our brand  development  efforts,  
+liability  for damages  on our service  contracts,  the success  of the companies  / entities  in which  we have  made  strategic  investments,  withdrawal  of governmental  fiscal  
+incentives,  political  instability,  legal  restrictions  on raising  capital  or acquiring  companies  outside  India,  and  unauthorized  use  of our intellectual  property,  other  risks,  
+uncertainties  and  general  economic  conditions  affecting  our industry . There  can  be no assurance  that  the forward -looking  statements  made  herein  will prove  to be 
+accurate,  and  issuance  of such  forward  looking  statements  should  not be regarded  as a representation  by the Company  or any  other  person  that  the objective  and  plans  
+of the Company  will be achieved . All forward -looking  statements  made  herein  are based  on information  presently  available  to the management  of the Company  and  the 
+Company  does  not undertake  to update  any  forward -looking  statement  that  may  be made  from  time  to time  by or on behalf  of the Company .
+=== page 4 ===
+Q2 FY27 Performance
+Revenue
+₹35,620Cr
+↑3.0% QoQ    ↑11.5%YoY
+$3,724M
+↑2.0% QoQ    ↑2.2% YoY
+Constant Currency (CC) Revenue
+↑2.3% ↑2.6%
+QoQ YoY
+Advanced AI Revenue
+$219M
+Revenue per employee (per annum)
+$65.4K18.2%*
+EPS (diluted)
+₹70.22
+Dividend per share
+₹12Net Income
+₹5,132Cr  (14.4%* of revenue)
+↑11.0% QoQ      ↑21.2% YoYEBIT Margin
+↑131 bps QoQ      ↑71 bps YoY
+↑5.0% QoQ      ↑12.2% YoYBookings (New Deal Wins)
+$3,258M
+FCF/NI (on LTM basis)
+87%ROIC (on LTM basis)
+41.2%
+FY27 Guidance YoY in CC
+2.5% - 4.0%Company revenue growth
+3.0% - 4.0%Services
+17.5% - 18.5%EBIT Margin
+*Q2 FY27 EBIT & Net Income Margin includes the impact of re -structuring cost of 84 bps and 62 bps respectively↓0.1% QoQ    ↑2.4% YoY↑28.4% QoQ CC     ↑78.0% YoY CC
+=== page 5 ===
+Technology & Services Lifesciences & 
+HealthcareQ2 FY27 Revenue Mix
+Financial Services Manufacturing Telecommunications, 
+Media, Publishing & 
+EntertainmentRetail & CPG Public Services#IT & Business ServicesEngineering & R&D HCLSoftware↑4.4% 18.6%Mix % and   YoY CC growth%
+By VerticalBy Segment
+USA Europe ROW IndiaBy Geography
+# Public Services include Energy & Utilities, Travel - Transport - Logistics and Government
+Note: Vertical and Geography Revenue Mix and Growth are for HCLTech  Services business↑2.1% ↓11.2%
+↑7.1% ↑3.9% ↑5.9% ↓2.1% ↓2.1% ↑14.0% ↑1.2%
+↑3.5% ↓0.3% ↑11.4%75.4% 16.7% 7.9%
+22.4% 18.3% 14.3% 13.8% 12.0% 10.5% 8.8%
+56.1% 26.9% 13.6% 3.4%
+↑21.8%15.2% 20.1%EBIT%
+=== page 6 ===
+Leadership Comments
+C Vijayakumar
+CEO & Managing Director, 
+HCLTechShiv Walia
+Chief Financial Officer, 
+HCLTechRoshni Nadar 
+Malhotra
+Chairperson,
+HCLTech
+The accelerating growth in Advanced AI 
+revenue validates our business strategy. 
+Through strategic partnerships and 
+continued investments across the full AI 
+stack, HCLTech is well -positioned to be a 
+trusted technology partner for 
+enterprises and governments globally.” We delivered a strong quarter with new 
+bookings of $3.3 billion, up 27% YoY, taking 
+first half bookings to a record high. EBIT 
+margin expanded 131 bps QoQ to 18.2%. 
+Services grew 3.0% QoQ with growth across 
+verticals and geographies, while overall 
+revenue grew 2.3% QoQ. Advanced AI revenue 
+grew 28.4% QoQ and 78.0% YoY in constant 
+currency. Our AI propositions are resonating 
+well with our clients, giving us confidence in 
+our growth trajectory.”HCLTech delivered Q2 FY27 revenue of 
+₹35,620 Crores, up 3.0% QoQ and 11.5% YoY. 
+Our superior revenue growth with improved 
+profitability led to our highest -ever quarterly 
+Net Income of INR 5,132 Crores, up 11.0% 
+QoQ and 21.2% YoY. Our razor -sharp focus on 
+improving our capital efficiency has resulted in 
+LTM ROIC of 41.2% for the company, up 261 
+bps YoY; and 49.4% for the Services business, 
+up 411 bps YoY respectively.”
+=== page 7 ===
+13.8% 14.8%14.2% 13.8%15.1%
+13.3%14.2%13.2% 13.4%14.4%18.0%19.4%
+17.7% 17.5%19.0%
+17.5%18.6%
+16.5% 16.9%18.2%
+4.6% 4.8%2.4% 2.6% 2.6%5.5% 5.0% 4.2% 3.5% 4.0%Quarterly Performance Trends ($)
+HCLTech  Consolidated 
+3,6443,793
+3,6823,6503,724
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26Revenue (in $M)
+$3,724M
+Sep’25 Dec’25 Mar’26 Jun’26Revenue Growth
+4.0%
+Services YoY CC2.6%
+YoY CC637704
+607 616677
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26EBIT (in $M)
+$677M
+486537
+486 488538
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26Net Income (in $M)
+$538M
+EBIT Margin Net Income Margin
+18.2% 14.4%
+Excludes the one -time impact of New Labour  Codes: $109M at EBIT and $82M at Net Income in Q3 FY26 
+* EBIT Margin includes impact of restructuring cost of xx bps in Q2 FY27, 62 bps in Q1 FY27, 122 bps in Q4 FY26, 81 bps in Q3  FY26, and 55 bps in Q2 FY26
+* Net Income Margin includes impact of restructuring cost of xx bps in Q2 FY27, 47 bps in Q1 FY27, 96 bps in Q4 FY26, 60 bps in Q3 FY26, and 41 bps in Q2 FY26
+ Sep’26 Sep’25 Dec’25 Mar’26 Jun’26 Sep’26 Sep’25 Dec’25 Mar’26 Jun’26 Sep’26Incl. restructuring Excl. restructuring Incl. restructuring Excl. restructuring
+=== page 8 ===
+13.8% 14.8%14.2% 13.8%15.1%
+13.3%14.2%13.2% 13.4%14.4%17.9%19.4%
+17.7% 17.5%19.0%
+17.4%18.6%
+16.5% 16.9%18.2%Quarterly Performance Trends (₹)
+HCLTech  Consolidated 
+31,94233,872 33,98134,57935,620
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+10.7%13.3% 12.3%13.9%11.5%11.6%13.5% 14.2% 14.9%13.1%Revenue (in ₹ Cr)
+₹35,620Cr
+Revenue Growth
+13.1%
+Services YoY INR11.5%
+YoY INR5,5506,285
+5,6205,8316,465
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26EBIT (in ₹ Cr)
+₹6,465Cr
+4,2354,795
+4,4884,6245,132
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26Net Income (in ₹ Cr)
+₹5,132Cr
+Excludes the one -time impact of New Labour  Codes: ₹956 Crores at EBIT and ₹719 Crores at Net Income in Q3 FY26  
+* EBIT Margin includes impact of restructuring cost of 62 bps in Q1 FY27, 122 bps in Q4 FY26, 81 bps in Q3 FY26, and 55 bps i n Q2 FY26
+* Net Income Margin includes impact of restructuring cost of xx bps in Q2 FY27, 47 bps in Q1 FY27, 96 bps in Q4 FY26, 60 bps in Q3 FY26, and 41 bps in Q2 FY26Sep’25 Dec’25 Mar’26 Jun’26 Sep’26EBIT Margin Net Income Margin
+18.2% 14.4%
+Sep’25 Dec’25 Mar’26 Jun’26 Sep’26 Sep’25 Dec’25 Mar’26 Jun’26 Sep’26Incl. restructuring Excl. restructuring Incl. restructuring Excl. restructuring
+=== page 9 ===
+L TM Performance Trends
+HCLTech  Consolidated 
+50.9456.9562.02 62.5770.22
+Sep'22 Sep'23 Sep'24 Sep'25 Sep'26EPS (Diluted - in ₹)
+1,7921,8712,004 1,976 2,049
+1,8252,662
+2,3882,477
+1,780
+Sep'22 Sep'23 Sep'24 Sep'25 Sep'26FCF/NI (in $M)Client Category
+(Number of clients)
+$100M+ 
+$50M+ 
+$20M+ 
+$10M+ 
+$5M+ 
+$1M+ 
+Sep’22 Sep’23 Sep’24 Sep’25 Sep’26NI FCF NI FCF
+Including one -time impact of New Labour  Codes, Sep’26 Diluted EPS is ₹67.56 and FCF/NI is 90%FCF/NI: 87%
+356402 402 406
+890971 952 954
+433
+981220243251 258
+291128132 137151
+16142495254
+621720 22 22
+ 23
+=== page 10 ===
+Human and Intellectual Capital
+Attrition excludes involuntary attrition and digital process operationsHuman Capital (Quarter ended) 30-Sep -25 31-Dec -25 31-Mar -26 30-Jun -26 30-Sep -26
+Total People Count 226,640 226,379 227,181 223,889 230,339
+Net Addition 3,489 (261) 802 (3,292) 6,450
+Freshers Added 5,196 2,852 1,712 1,056 6,136
+Attrition (LTM) 12.6% 12.4% 12.5% 12.7% 12.8%
+Women Employees (%) 29.3% 29.5% 29.6% 29.6% 30.0%
+Intellectual Capital 30-Sep -25 31-Dec -25 31-Mar -26 30-Jun -26 30-Sep -26
+Revenue per Employee ($K p.a.) 63.9 64.6 65.1 65.5 65.4
+R&D expense as a % of Revenue 1.5% 1.5% 1.6% 1.6% 1.9%
+Revenue per employee is computed as LTM Revenues divided by the average of period -end headcount of last 5 quarters
+Named to TIME’s 
+World’s Best 
+Companies list for the 
+third consecutive year
+Gold in three new award categories at the Brandon Hall 
+Excellence Awards 2026:
+•Best Governance of Diversity, Equity, Inclusion and 
+Belonging
+•Best Mentoring Program to Develop Diverse Leaders
+•Best Diversity, Equity, Inclusion and Belonging Strategy•19,660+ employees leveraged the Value 
+Creation Portal, contributing to 5,600+ 
+approved ideas and 1,900+ implemented ideas 
+that delivered $318 million in customer -
+approved value.
+•38 patent applications were filed and 21 
+patents were granted.
+=== page 11 ===
+Segment -wise Highlights
+Revenue Mix and Growth 30-Sep -25 30-Jun -26 30-Sep -26 YoY CC Growth QoQ CC Growth
+IT and Business Services (A) 74.2% 75.3% 75.6% 4.4% 2.7%
+Engineering and R&D Services (B) 17.0% 16.5% 16.8% 2.1% 4.1%
+Services (A + B) 91.2% 91.8% 92.4% 4.0% 3.0%
+HCLSoftware (C) 9.1% 8.6% 7.9% (11.2%) (5.8%)
+Inter -segment (D) (0.3%) (0.4%) (0.3%)
+HCLTech (A + B + C + D) 100.0% 100.0% 100.0% 2.6% 2.3%
+EBIT Margin 30-Sep -25 30-Jun -26 30-Sep -26 YoY BPS change QoQ BPS change
+IT and Business Services 16.3% 17.0% 18.6% 229 160
+Engineering and R&D Services 17.5% 15.6% 15.2% (231) (43)
+Services 16.5% 16.7% 18.0% 145 123
+HCLSoftware 26.5% 17.6% 20.1% (636) 247
+HCLTech 17.5%* 16.9%* 18.2%* 71 131
+LTM ROIC 30-Sep -25 30-Jun -26 30-Sep -26
+HCLTech Services 45.3% 47.8% 49.4%
+HCLSoftware 21.8% 21.6% 19.2%
+HCLTech 38.6% 40.7% 41.2%
+LTM ROIC for the period ended Jun’26 & Sep’26 excludes one -time New Labour  Codes impact.
+•Inter -segment revenue is related to products and services of HCLSoftware used by Services business in rendering services to thei r customers.
+•Estimated effective tax rate for HCLSoftware segment has been arrived at by applying the tax on Specific units/entities from whe re HCLSoftware business operates. Residual tax has been allocated to Services business.
+•Common assets and liabilities have been allocated between the businesses in ratio of last twelve months revenues.* EBIT Margin includes impact of restructuring cost of 84 bps in Q2 FY27, 62 bps in Q1 FY27 and 55 bps in Q2 FY26
+=== page 12 ===
+HCLSoftware  Metrics
+• Perpetual License upfront and others revenue includes upfront revenue recognized from perpetual licenses and compliance revenues. 
+• Subscription and Support r evenue includes all term subscription revenues, support revenues (including those attributable to perpetual licenses) 
+and Software -as-a-Service (SaaS) revenues.
+• Revenue share from IP Partnerships  is included in respective lines above based on the information provided by the partners.
+Annual Recurring Revenue (ARR) is the annualized value of all term subscription licenses, support obligations (including those attributable to perpetual lic ens es) and Software -as-a-
+Service (SaaS) contracts that are active on the last day of the quarter. In respect of IP Partnerships, ARR is computed based  on annualized value of HCL’s revenue share of the revenue 
+reported by the partners for support services and new license sales in the current quarter. ARR excludes upfront revenue reco gnized on sale of perpetual licenses, professional services 
+and any other non -recurring revenue.
+ARR is an operating metric, which should be viewed independently of revenue and is not a forecast of future revenues. Growth in ARR may not always be reflected in Revenue growth. HCLSoftware Revenue 30-Sep -25 31-Dec -25 31-Mar -26 30-Jun -26 30-Sep -26
+Perpetual License Upfront & Others 24 55 19 19 14
+Subscription  & Support 290 351 268 274 261
+Ratable  Revenue 188 189 181 180 180
+Subscription  – Single  Year 21 51 30 28 27
+Subscription  – Multi  Year 81 111 57 66 39
+Jaspersoft - - - - 15
+Professional  Services 19 20 20 20 19
+Total Revenue 333 425 307 313 294
+HCLSoftware ARR 30-Sep -25 31-Dec -25 31-Mar -26 30-Jun -26 30-Sep -26
+ARR 1,062 1,065 1,045 1,063 1,134
+ARR  Growth  YoY  CC 0.6% 0.6% (0.5%) 2.0% 7.8%
+=== page 13 ===
+Services Revenue Mix and Growth
+By Verticals
+# Public Services include Energy & Utilities, Travel - Transport - Logistics and GovernmentDetails 30-Sep -25 30-Jun -26 30-Sep -26 YoY CC Growth
+USA 56.2% 56.0% 56.1% 3.5%
+Europe 28.3% 27.6% 26.9% (0.3%)
+ROW 12.4% 13.1% 13.6% 11.4%
+India 3.2% 3.3% 3.4% 21.8%By Geographies 
+Details 30-Sep -25 30-Jun -26 30-Sep -26 YoY CC Growth
+Financial Services 21.7% 22.1% 22.4% 7.1%
+Manufacturing 18.3% 18.7% 18.3% 3.9%
+Technology & Services 14.0% 14.4% 14.3% 5.9%
+Lifesciences & Healthcare 14.7% 14.0% 13.8% (2.1%)
+Telecommunications, Media, Publishing & Entertainment 12.7% 11.2% 12.0% (2.1%)
+Retail & CPG 9.6% 10.3% 10.5% 14.0%
+Public Services#8.9% 9.3% 8.8% 1.2%
+=== page 14 ===
+Client Metrics
+*Excluding unbilled receivablesNumber of $M Clients (LTM) 30-Sep -25 30-Jun -26 30-Sep -26 YoY Change QoQ Change
+$100 M+ 22 23 23 1 -
+$50M+ 54 60 62 8 2
+$20M+ 151 155 161 10 6
+$10M+ 258 286 291 33 5
+$5M+ 406 431 433 27 2
+$1M+ 954 987 981 27 (6)
+Client Contribution to Revenue (LTM) 30-Sep -25 30-Jun -26 30-Sep -26
+Top  5 Clients 12.4% 11.6% 11.4%
+Top  10 Clients 19.9% 18.7% 18.4%
+Top  20 Clients 29.5% 28.0% 27.4%
+Days Sales Outstanding 30-Sep -25 30-Jun -26 30-Sep -26
+Days Sales Outstanding* 56 59 58
+=== page 15 ===
+Key Advanced AI Deals
+A Europe -based manufacturing company 
+selected HCLTech to transform quality 
+assurance at scale with an AI -powered visual 
+inspection platform, VisionX . The solution will 
+automate the validation of packaging variants 
+across manufacturing operations. This would 
+enable product quality assurance, improve 
+operational efficiency and establish a scalable 
+foundation for consistent quality assurance. 
+A U.S. -based AI -native company selected 
+HCLTech as a strategic partner for its AI 
+Factory. HCLTech will leverage its expertise 
+in networking, cybersecurity, HPC 
+infrastructure and AI platform software to 
+integrate and operationalize a production -
+ready AI Factory. 
+A U.S. -based neocloud provider 
+selected HCLTech to build and scale its 
+AI-native architecture and infrastructure 
+capabilities that enable hyperscalers  and 
+enterprises to unlock the full potential of 
+AI at scale. A U.S. -based global power technology company 
+selected HCLTech to build an AI -powered digital 
+thread that combines Agentic AI and intelligent 
+orchestration to connect engineering, manufacturing, 
+supply chain and service operations, enabling faster 
+decision -making, accelerated time -to-market and 
+enterprise -wide AI transformation. 
+A Europe -based financial services provider  
+selected HCLTech to deploy an agentic solution to 
+provide commercial relationship managers with real -
+time portfolio insights and proactive covenant 
+monitoring, increasing capacity, reducing manual 
+effort, strengthening risk management and unlocking 
+new cross -sell opportunities to support up to two 
+times revenue growth. 
+A U.S. -based healthcare provider  selected 
+HCLTech to deploy ChatGPT Enterprise and 
+establish a governed AI operating model that 
+enables secure integration of AI capabilities across 
+enterprise applications, delivering context -aware 
+experiences that enhance employee productivity 
+while maintaining enterprise -grade security, risk 
+management and compliance. A leading Europe -based financial services company  
+selected HCLTech to accelerate its core banking 
+migration through an Agentic AI framework that 
+converts functional specifications into validated, 
+review -ready code for the target platform, enabling 
+faster modernization with an average accuracy rate of 
+87% and an estimated 9x productivity gain, including 
+review efforts. 
+A global energy company selected HCLTech to 
+build and scale its AI capabilities by combining 
+Agentic AI with a trusted enterprise data 
+foundation that enables AI adoption across core 
+business operations, accelerating value 
+realization and establishing a foundation for 
+enterprise -wide transformation. 
+A leading U.S. -based healthcare organization  
+selected HCLTech to build a secure, scalable clinical 
+data exchange platform on Google Cloud using its AI 
+native engineering approach. The platform enables 
+compliant data sharing with approved payers, 
+improves interoperability, reduces processing times 
+and manual effort, supports scalable payer 
+onboarding and lays the foundation for future AI -
+powered workflows. 
+=== page 16 ===
+Key Deal Wins 
+The Guardian Life Insurance 
+selected HCLTech to accelerate its 
+AI-driven technology 
+transformation journey and deliver 
+a seamless customer experience. 
+The multi -year partnership reflects 
+a broader shift toward long -term 
+technology modernization with an 
+emphasis on AI -led transformation 
+and streamlined IT operations. The 
+client will leverage HCLTech’s  AI 
+service transformation platform, 
+HCLTech AI Force, to support 
+ongoing enterprise -wide 
+technology innovation. A Europe -headquartered, Fortune 
+Global 50 firm selected HCLTech 
+to establish an AI -driven operating 
+model to transform and manage 
+its Global Digital Workplace and 
+Enterprise Networks. 
+A U.S. -based information management services 
+company  selected HCLTech to modernize its customer 
+contact operations. Leveraging AI -driven automation and 
+data insights, HCLTech will optimize order -to-cash 
+processes, improve collections performance and enhance 
+customer experience across the client's operations.A global aerospace and defense major selected HCLTech 
+to provide full lifecycle managed services for its SAP 
+S/4HANA landscape, including ERP application project 
+delivery, support and maintenance. HCLTech will deliver end -
+to-end transformation and sustainment services across 
+critical business value streams, leveraging an AI -led 
+automation roadmap to enhance operational resilience, 
+improve efficiency and drive scalable business outcomes .
+A Europe -based global cosmetics company selected 
+HCLTech as its strategic partner to accelerate AI -led digital 
+transformation, strengthen operational efficiency and 
+enhance customer experience worldwide. Leveraging AI 
+Force, HCLTech will deliver an integrated suite of services 
+spanning digital, ecommerce, ERP , infrastructure and 
+cybersecurity services. A U.S. -based technology company selected 
+HCLTech as its largest global consulting and 
+implementation partner. HCLTech will support the 
+client's Global Professional Services organization 
+with Agentic AI, intelligent automation and AI -enabled 
+testing solutions and help enterprises accelerate 
+automation adoption and drive business 
+transformation with a joint GTM initiative.
+A U.S. -based health insurance company selected 
+HCLTech to transform its digital workplace services by 
+adopting an AI -led operating model. HCLTech will 
+enable an automated employee service experience, 
+delivering proactive issue resolution, device analytics 
+and self -healing capabilities . A Europe -based FMCG major selected HCLTech to 
+transform its global IT operations through a unified, AI -
+led operating model spanning applications, cloud and 
+networks, digital workplace and cybersecurity. HCLTech 
+will simplify governance, strengthen business resilience 
+and enhance operational agility, enabling the company 
+to respond faster to evolving consumer behavior and 
+market requirements while creating a scalable 
+foundation for future innovation.  
+=== page 17 ===
+Key Deal Wins 
+A global technology major  expanded 
+its partnership with HCLTech to 
+consolidate its cloud operations into a 
+unified managed services model. 
+HCLTech will use its AI and automation 
+capabilities to deliver integrated cloud 
+operations support, reducing 
+complexity, improving service reliability 
+and operational efficiency.A Europe -based global fashion 
+retailer selected HCLTech to deliver 
+AI-driven unified omnichannel support 
+across 23+ languages and self -healing 
+capabilities, ensuring consistent 
+service across all markets while 
+driving operational excellence and 
+continuous service improvement.  
+A U.S. -based manufacturing 
+company selected HCLTech to 
+accelerate digital integration with an 
+acquired entity. HCLTech will deploy 
+its AI Force platform and leverage its 
+digital engineering expertise to 
+modernize applications and unify 
+technology platforms and business 
+processes across the combined 
+business.A U.S. -based retail chain selected 
+HCLTech to modernize its enterprise 
+network across 1,350+ stores, distribution 
+centers and corporate offices. By 
+leveraging AI, HCLTech will transform the 
+client’s network operations across data, 
+voice and security, with an enterprise -wide 
+SD-WAN rollout enabling predictive fault 
+detection, automated remediation and a 
+self -healing network architecture. 
+A Europe -based global workforce solutions company 
+selected HCLTech to accelerate digital innovation and 
+scale next -generation products. HCLTech’s  capabilities 
+across product management, software engineering, site 
+reliability engineering and UI/UX design will compress 
+product launch cycles and elevate customer experience.A U.S. -based global biopharmaceutical company 
+selected HCLTech to modernize its applications 
+landscape. By leveraging HCLTech’s  AI-based automation 
+and engineering capabilities, the transformation will 
+improve service reliability and enhance the client’s 
+business outcomes.  An Australia -based retail major selected HCLTech as its 
+strategic partner for enterprise -wide technology 
+transformation. HCLTech will deploy AI -led operations and 
+end -to-end observability capabilities to deliver outcome -
+driven services supporting the client's growth strategy. 
+=== page 18 ===
+Key Deal Wins - HCLSoftware
+A Europe -based leisure and gaming 
+company selected HCL Informix for its 
+operations across EMEA. The deployment 
+will enable the client to deliver scalable, 
+digital -first experiences.
+A global technology conglomerate 
+expanded its partnership with HCLSoftware 
+for Actian Versant to leverage the object 
+database technology to support mission -
+critical industrial automation solutions. 
+A global financial services major extended 
+its deployment of HCL BigFix, reaffirming its 
+capability as a secure, compliant and 
+efficiently managed endpoint ecosystem.
+A U.S. -based agri  and food major selected 
+the HCL Automation Orchestration Suite to 
+modernize and standardize its enterprise 
+workload automation landscape, enhancing 
+operational efficiency, scalability and reliability 
+across business -critical processes.An Australia -based retail major 
+extended its commitment to HCL 
+Commerce, supporting a mission -critical 
+digital commerce environment at 
+enterprise scale while enabling future 
+modernization and innovation. 
+A U.S. -based biotechnology company 
+selected HCL BigFix to strengthen its global 
+IT infrastructure, enhance endpoint security 
+and improve compliance management.
+An Asia -based stock market regulator 
+selected HCL DX to modernize digital 
+engagement across stakeholder 
+interactions, strengthening user experience 
+in a secure, mission -critical regulatory 
+environment and creating opportunities for 
+broader platform adoption.A Europe -based university expanded its 
+deployment of Actian Ingres to support the 
+modernization and continued operation of 
+mission -critical student information systems. 
+A U.S. -based healthcare and life sciences 
+company  expanded its deployment of HCL 
+Commerce  to advance its digital commerce 
+transformation, supporting secure, compliant 
+and scalable customer engagement in a highly 
+regulated environment. 
+A Middle -East -based insurance provider 
+expanded its partnership with 
+HCLSoftware by adopting Unica+ , 
+including customer data platform (CDP) 
+capabilities, to enhance customer 
+engagement, marketing effectiveness and 
+data -driven decision -making. 
+=== page 19 ===
+Awards and Recognitions
+•Named among Forbes’ World’s Best Employers and  World’s Best 
+Management Consulting Firms
+•Recognized among Newsweek’s America’s Greatest Workplaces 
+for Leadership
+•Named among Newsweek’s America’s Greatest Workplaces 
+for Perks & Benefits
+•ISG Paragon Awards 2026
+-- Joint winner in AI Pacesetter category (North America)
+-- Joint winner in Distinction for AI Excellence category (Asia)
+•Winner of the Customer Experience Initiative of the Year award 
+at the Asian Banking and Finance Awards 2026
+•Advanced Partner status with OpenAI
+•Named to the 2026/27 Microsoft AI Business Solutions Inner Circle
+•Cohesity’s GSI Growth Partner of the Year award
+•Bronze for AI -Led Contact Center Transformation Services at the 2026 
+Stevie Awards for Technology Excellence
+•Bronze for Best Circular Economy Initiative 
+and Water Stewardship & Conservation Leadership 
+at the  Businessworld Sustainable World Awards•Multiple recognitions from Avtar and Seramont : 
+o Best Companies for Women in India (BCWI)
+o BCWI Hall of Fame 
+o Best Companies for Workplace Wellness (ranked 5) 
+o Best Companies for ESG (ranked 8) 
+o Most Inclusive Companies Index (Champion of Inclusion category)
+•HCLFoundation  recognized in the Skill Development & Livelihood 
+category at the Social Impact Conference & Awards 2026
+HCLSoftware: 
+•Outstanding AI Security Operations Center  award to HCLSoftware 
+at AutoSec  China 2026
+•2026 SaaS Awards in the Best Data -Driven SaaS Innovation 
+category to Actian
+
+=== page 20 ===
+Analyst Recognitions
+90+ leadership positions in analyst recognitions during the quarter
+For the complete list of analyst recognitions, refer to the annexure.Leader in
+•Gartner®  Magic Quadrant
+  for 
+Public Cloud Optimization and 
+Transformation Services (Joe Trejo 
+et al., 27 Jul 2026)*
+•IDC MarketScape:  Worldwide 
+Oracle Implementation Services 
+2026 Vendor Assessment 
+(doc#US54124626, Aug 2026)
+•IDC MarketScape: Worldwide 
+Cloud Professional Services in the 
+AI Era 2026 Vendor Assessment 
+(doc# US54117426, Sep 2026)
+•Everest Group’s  Application 
+Management Services PEAK Matrix® 
+Assessment 2026
+•Everest Group’s  Quality 
+Engineering (QE) Services for AI 
+Applications and Systems PEAK 
+Matrix® Assessment 2026
+•Avasant’s  Global Competency 
+Center (GCC) Setup and Scale 
+Services 2026 RadarView
+Leader in
+•The Forrester Wave
+ : Infrastructure 
+Outsourcing Services, Q3 2026
+•IDC MarketScape:  European 
+Cybersecurity Governance, Risk, and 
+Compliance Consulting and 
+Professional Services 2026 Vendor 
+Assessment (doc#EUR154110926, 
+Jul 2026)
+•IDC MarketScape:  Worldwide Digital 
+Workplace Services 2026 Vendor 
+Assessment (doc#US54119026, Sep 
+2026)
+•IDC MarketScape:  Worldwide 
+ServiceNow Implementation 
+Services 2026 Vendor Assessment 
+(doc#US54126726, Aug 2026)
+•Everest Group’s  Mainframe 
+Modernization Services PEAK Matrix® 
+Assessment 2026
+•Everest Group’s  Network 
+Transformation and Managed 
+Services PEAK Matrix® Assessment 
+2026Leader in
+•IDC MarketScape: Worldwide AI -
+Driven Professional Services for Oil 
+and Gas Companies 2026 Vendor 
+Assessment (doc#US54135126, 
+Aug 2026)
+•IDC MarketScape: Worldwide AI -
+Driven Business Cycle in the Media 
+Industry 2026 Vendor Assessment 
+(doc#US54113826, Sep 2026) Digital Business Engineering and R&D Services
+Leader in
+•Everest Group’s Product 
+Lifecycle Management Services 
+PEAK Matrix® Assessment 2026
+Leader in
+•Everest Group’s  Financial Crime 
+and Compliance (FCC) Operations 
+Services PEAK Matrix® Assessment 
+2026
+•Everest Group’s  Integrated 
+Finance and Accounting Services 
+(FAS) PEAK Matrix® Assessment 
+2026Leader in
+•Gartner®  Magic Quadrant
+  for 
+Service Orchestration and 
+Automation Platforms (SOAP) 
+(Hassan Ennaciri  et al., 5 Aug 
+2026)*
+•IDC MarketScape:  Worldwide 
+Dynamic Application Security 
+Testing 2026 Vendor Assessment 
+(doc #US54119126, September 
+2026)HCLSoftwareDigital Foundation AI & GenAI
+Digital Operations
+=== page 21 ===
+Supercharging Progress. Delivering Impact.
+•11 women entrepreneurs felicitated in 
+partnership with ISB Hyderabad
+•Created livelihood opportunities for 
+inmates of Bengaluru Central Prison by 
+launching bakery ventures in collaboration 
+with the Karnataka Prisons Department•Rural development partnership with the  
+Government of Uttar Pradesh extended 
+through 2031
+•3.3 million liters of water storage 
+capacity created
+•27,900+ individuals reached through 
+health screenings
+•28,100+ telemedicine consultations 
+delivered
+•3,000 elderly persons from slum 
+clusters supported through 9,200+ 
+home visits, 6,200+ health check -ups 
+and virtual care services
+•1,380+ community members reached 
+through 39 awareness sessions during 
+World Breastfeeding Week celebrations
+•1,250+ kg of waste cleared through a 
+week -long campaign, engaging 5,700+ 
+community members, students and 
+HCLTech volunteers 
+•HCLTech employees contributed to 
+community initiatives globally through 
+o food bank volunteering in Canada 
+o lakefront clean -up drives in 
+Mississauga
+o community engagement programs 
+across Romania and Poland•64,500 native saplings planted 
+across 10 states under a mega 
+plantation drive to celebrate HCL 
+Group's 50th anniversary
+•69 acres of waterbody area 
+conserved and 2 acres of 
+waterbodies rejuvenated
+•13 endangered white -lipped peccaries 
+successfully reintroduced into Costa 
+Rica's Piedras Blancas National Park by 
+Osa Conservation, winner of the HCLTech 
+Grant for Climate Action in the Americas8,400+ hours of community volunteering 
+clocked by 4,000+ HCLTechies , pan India 718 young athletes competed at the SFC 
+National Finals 2026HCLTech Romania’s CSR Initiatives 
+recognized at the Gala PIN Awards 2026
+HCLTech volunteers from Vijayawada contributed to the preservation of the marine 
+ecosystem on the International Coastal Cleanup Day, on September 19, at Kothapatnam  beach
+India -focused initiatives through HCLFoundation Global initiatives
+=== page 22 ===
+Annexure
+=== page 23 ===
+Analyst Recognitions
+140+ leadership positions in analyst recognitions during the quarter
+Digital Business
+HCLTech positioned as a Leader in 
+• Gartner ® Magic Quadrant
+  for Public Cloud Optimization and Transformation 
+Services (Joe Trejo et al., 27 Jul 2026)*
+• IDC MarketScape: Worldwide Oracle Implementation Services 2026 Vendor 
+Assessment (doc#US54124626, Aug 2026)
+• IDC MarketScape: Worldwide Cloud Professional Services in the AI Era 2026 Vendor 
+Assessment (doc# US54117426, Sep 2026)
+•Everest Group’s Sustainable Value Chain Services PEAK Matrix® Assessment 2026
+•Everest Group’s Global Capability Center (GCC) Setup Capabilities in India - PEAK 
+Matrix® Assessment 2026
+•Everest Group’s Microsoft Azure Services PEAK Matrix® Assessment 2026
+•Everest Group’s Retail Digital Services PEAK Matrix® Assessment 2026
+•Everest Group’s Application Management Services PEAK Matrix® Assessment 2026
+•Everest Group’s Quality Engineering (QE) Services for AI Applications and Systems 
+PEAK Matrix® Assessment 2026
+•Everest Group’s Pharmaceutical R&D IT Services PEAK Matrix® Assessment 2026
+•Everest Group’s Life and Annuity (L&A) Insurance IT Services PEAK Matrix® 
+Assessment 2026
+•Avasant’s  Financial Services, Healthcare Payor, Utilities, Retail, Telecom, Freight 
+and Logistics, Travel, Transportation, and Hospitality Digital Services 2026 
+RadarView
+•Avasant’s  Global Competency Center (GCC) Setup and Scale Services 2026 
+RadarView
+•Avasant’s  Data Management and Advanced Analytics Services 2026 RadarView
+  
+•Avasant’s  Digital Masters Technology Transformation 2026 RadarView
+•Avasant’s  Application Management Services 2026 RadarView
+•Avasant’s  Salesforce Services 2026 RadarView
+•Avasant’s  United Kingdom (UK) Digital Services 2026 RadarView
+AI & GenAIHCLTech positioned as a  Leader in ISG Provider Lens® :
+• Snowflake Ecosystem Partners - Modernization and AI/ML Enablement Services, Managed Data and 
+Optimization Services - Global 2026
+• Enterprise Service Management Services - Consulting and Advisory Services, Managed Services for 
+Converged IT and Business Ops, Implementation and Integration Services - U.S. 2026
+• Public Sector Services and Solutions - Managed IT Services, Digital Transformation and 
+Modernization Services - U.S., U.K., Australia 2026
+• Public Sector Services and Solutions - AI and Innovation Services - U.S., Australia 2026
+• Public Sector Services and Solutions - Strategy and Enablement Services (Consulting) - U.K., 
+Australia 2026
+HCLTech positioned as a Leader in 
+• IDC MarketScape: Worldwide AI -Driven Professional Services for Oil and Gas Companies 2026 Vendor 
+Assessment (doc#US54135126, Aug 2026)
+• IDC MarketScape: Worldwide AI -Driven Business Cycle in the Media Industry 2026 Vendor Assessment 
+(doc#US54113826, Sep 2026)
+HCLTech positioned as a Leader in ISG Provider Lens® 
+• Microsoft AI and Cloud Ecosystem - Microsoft Productivity and Business Process Services, Azure Data 
+Transformation and AI Services, Azure Managed Services, Azure Professional Services - U.S. 2026
+• Microsoft AI and Cloud Ecosystem - Azure Managed Services, Azure Data Transformation and AI 
+Services, Microsoft Productivity and Business Process Services - APEJCK 2026
+• Microsoft AI and Cloud Ecosystem - Azure Managed Services - Large Market - Germany 2026
+• AI-driven ADM Services - Application Quality Assurance, Application Development Outsourcing, 
+Application Managed Services - GSIs - U.S., Europe, APAC 2026
+Digital Operations
+HCLTech positioned as a Leader in 
+•Everest Group’s Financial Crime and Compliance (FCC) Operations Services PEAK Matrix® 
+Assessment 2026
+•Everest Group’s Integrated Finance and Accounting Services (FAS) PEAK Matrix® Assessment 2026
+• ISG Provider Lens® Insurance Services - ITO - Insurance Services - ITO - Global 2026
+=== page 24 ===
+Analyst RecognitionsEngineering and R&D services
+Digital FoundationHCLTech positioned as a Leader in 
+•Everest Group’s Product Lifecycle Management Services PEAK Matrix® Assessment 2026
+• ISG Provider Lens® Automotive and Mobility Services and Solutions - Autonomous 
+Systems and Software -defined Vehicle, Electric Vehicles and Mobility Services, 
+Automotive Retail and Aftermarket Services, Automotive Engineering and Manufacturing 
+Services - North America, Europe 2026
+HCLSoftware
+HCLSoftware recognized as
+• A Leader in Gartner® Magic Quadrant
+  for Service Orchestration and Automation 
+Platforms (SOAP) (Hassan Ennaciri  et al., 5 Aug 2026)*
+• A Visionary in Gartner® Magic Quadrant
+  for DevSecOps  Platforms (Keith Mann et al., 
+15 Jun 2026)*
+• A Contender in The Forrester Wave: Conversational AI Platforms for Employee 
+Services, Q3 2026*
+• A Leader in the IDC MarketScape for Worldwide Dynamic Application Security Testing 
+2026 Vendor Assessment (doc #US54119126, September 2026)
+• A Major Player in the IDC MarketScape: Worldwide Agentic Marketing for B2C 
+Enterprises 2026 Vendor Assessment (Doc #US54113426, September 2026)
+• A SPARK Leader in the SPARK Matrix
+ : AI Solutions for ITSM, Q2 2026
+• A SPARK Leader in the SPARK Matrix
+ : Multichannel Marketing Hubs, 2026
+• A SPARK Leader in the SPARK Matrix
+ : Low Code Application Development Platform 
+for Professional Developers, Q3, 2026
+• A SPARK Leaders in the SPARK Matrix
+ : Low Code Application Development Platform 
+for Business Developers, Q3, 2026
+• A Leader in ISG Provider Lens – Private Hybrid Cloud – Data Center Solutions, 2026
+• HCLSoftware mentioned in The Digital Process Automation (DPA) Landscape, Q2 
+2026 by Forrester
+• HCLSoftware mentioned in The Cloud Cost Management And Optimization Solutions 
+Landscape, Q3 2026 by Forrester
+*Gartner, 2026 Magic Quadrant for Endpoint Management Tools, Keith Mann, Thomas Murphy, Bill Holz, 15 June 2026 GARTNER 
+is a trademark of Gartner, Inc. and/or its affiliates. Magic Quadrant is a registered trademarks of Gartner, Inc. and/or its affiliates 
+and is used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its 
+publications, and does not advise technology users to select only those vendors with the highest ratings or other designation . 
+Gartner publications consist of the opinions of Gartner’s business and technology insights organization and should not be 
+construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this publication, 
+including any warranties of merchantability or fitness for a particular purpose.
+*Forrester does not endorse any company, product, brand, or service included in its research publications and does not advise  
+any person to select the products or services of any company or brand based on the ratings included in such publications. 
+Information is based on the best available resources. Opinions reflect judgment at the time and are subject to change. For mo re 
+information, read about Forrester’s objectivity here . HCLTech positioned as a  Leader in ISG Provider Lens® :
+• Cybersecurity – Services and Solutions - Strategic Security Services, Technical Security Services, Next -Gen 
+SOC/MDR Services - Large Accounts - U.S., U.K., U.S. Public Sector, Australia, Germany, Switzerland 2026
+• Cybersecurity - Services and Solutions - Next -Gen SOC/MDR Services, Technical Security Services - 
+France 2026
+• Private/Hybrid Cloud - Data Center Services - AI-ready Infrastructure Managed Services - Large Accounts - 
+U.S., U.K., Nordics, Germany, France, Switzerland2026
+• Private/Hybrid Cloud - Data Center Services - Edge Computing Services - Germany 2026
+• Future of Work - Services - Digital Workplace Operations and Support Services - Large Account, Smart and 
+Sustainable Workplace Services, AI -augmented Collaboration and Experience Services, Workplace Strategy 
+and Enablement Services - U.S., U.K., Australia, U.S. Public Sector, Germany 2026
+• Future of Work - Services - Digital Workplace Operations and Support Services, AI -augmented Collaboration 
+and Experience Services - Switzerland 2026
+• Network - Software - Defined Solutions and Services - Managed SD -WAN Services, Secure Access Service 
+Edge (SASE), Edge Technologies and Services (Including Private 5G) - U.S., Germany 2026
+• Network - Software - Defined Solutions and Services – 
+Edge Technologies and Services (Including Private 5G) - U.K. 2026HCLTech positioned as a Leader in 
+• The Forrester Wave
+ : Infrastructure Outsourcing Services, Q3 2026
+• IDC MarketScape: Worldwide ServiceNow Implementation Services 2026 Vendor Assessment 
+(doc#US54126726, Aug 2026)
+• IDC MarketScape: European Cybersecurity Governance, Risk, and Compliance Consulting and 
+Professional Services 2026 Vendor Assessment (doc#EUR154110926, Jul 2026)
+• IDC MarketScape: Worldwide Digital Workplace Services 2026 Vendor Assessment 
+(doc#US54119026, Sep 2026)
+• IDC MarketScape: Asia/Pacific (Excluding Japan and China) Professional Security Services 2026 
+Vendor Assessment (Doc #AP54132826, September 2026)
+•Everest Group’s Digital Workplace Services (DWS) PEAK Matrix® Assessment 2026 – 
+North America, Europe
+•Everest Group’s Mainframe Modernization Services PEAK Matrix® Assessment 2026
+•Everest Group’s Network Transformation and Managed Services PEAK Matrix® Assessment 2026
+•Everest Group’s Cybersecurity Services PEAK Matrix® Assessment 2026 - Global
+•Avasant’s  Advanced Network Services, Cybersecurity Services  2026 RadarView
+
+=== page 25 ===
+Constant Currency Reporting (Quarter ended)
+(Amount in $M)
+HCLTech Revenue 30-Sep -25 31-Dec -25 31-Mar -26 30-Jun -26 30-Sep -26
+Reported  Revenue  ($M) 3,644 3,793 3,682 3,650 3,724
+Growth % (CC)
+QoQ 2.4% 4.2% (3.3%) (0.5%) 2.3%
+YoY 4.6% 4.8% 2.4% 2.6% 2.6%
+HCLTech Services Revenue
+Reported  Revenue  ($M) 3,322 3,379 3,386 3,351 3,442
+Growth % (CC)
+QoQ 2.5% 1.8% (0.1%) (0.7%) 3.0%
+YoY 5.5% 5.0% 4.2% 3.5% 4.0%
+Average Rates for the Quarter
+USD  - INR 87.63 89.34 92.28 94.73 95.72
+GBP  - USD 1.35 1.33 1.35 1.34 1.34
+EUR  - USD 1.17 1.17 1.17 1.16 1.15
+USD  - SEK 9.51 9.36 9.16 9.42 9.71
+AUD  - USD 0.65 0.66 0.70 0.71 0.71
+=== page 26 ===
+Financials in ₹ for the Quarter ended 30 -Sep -26 (Ind AS)
+Consolidated Income Statement (Amount in ₹ Crores)
+Income StatementQuarter Ended % of Revenue
+30-Sep -25 30-Jun -26 30-Sep -26 30-Sep -25 30-Jun -26 30-Sep -26
+Revenues 31,942 34,579 35,620 100.0% 100.0% 100.0%
+Direct  Costs 21,044 23,022 23,363 65.9% 66.6% 65.6%
+Gross  Profits 10,898 11,557 12,257 34.1% 33.4% 34.4%
+Research  & Development 494 549 690 1.5% 1.6% 1.9%
+SG & A 3,811 4,138 4,090 11.9% 12.0% 11.5%
+EBITDA 6,593 6,870 7,477 20.6% 19.9% 21.0%
+Depreciation  & Amortization 1,043 1,039 1,012 3.3% 3.0% 2.8%
+EBIT 5,550 5,831 6,465 17.4%* 16.9%* 18.2%*
+Foreign  Exchange  Gains/(Loss) (53) (38) (104) (0.2%) (0.1%) (0.3%)
+Other  Income,  net 205 315 106 0.6% 0.9% 0.3%
+Provision  for Tax 1,466 1,482 1,335 4.6% 4.3% 3.7%
+Non -controlling  interest 1 2 - 0.0% 0.0% 0.0%
+Net  Income 4,235 4,624 5,132 13.3%* 13.4%* 14.4%*
+EPS  (LTM  in ₹)
+Basic 62.65 67.03 70.36
+Diluted 62.57 66.90 70.22 
+* EBIT Margin includes impact of restructuring cost of 84 bps in Q2 FY27, 62 bps in Q1 FY27 and 55 bps in Q2 FY26; NI Margin include s impact of restructuring cost of 62 bps in Q2 FY27, 47 bps in Q1 FY27 and 41 bps in Q2 FY26
+Including one -time impact of New Labour  Codes, Sep’26 & June’26 Diluted EPS is ₹67.56 and ₹64.25, respectively.
+=== page 27 ===
+Cost Breakup in ₹ for Quarter ended 30 -Sep -2026 
+Particu larsQuarter Ended % of Revenue
+30-Sep -25 30-Jun -26 30-Sep -26 30-Sep -25 30-Jun -26 30-Sep -26
+Employee benefits expense 18,301 19,692 19,828 57.3% 56.9% 55.6%
+Outsourcing costs
+(Subcontractors + Outsourced Work)4,475 5,108 5,344 14.0% 14.8% 15.0%
+Cost of hardware and software sold 620 850 948 1.9% 2.5% 2.7%
+Travel and conveyance 345 368 377 1.1% 1.1% 1.0%
+Software subscription fee 346 363 415 1.1% 1.0% 1.2%
+Facility cost 326 345 354 1.0% 1.0% 1.0%
+Recruitment, training and development 115 122 123 0.4% 0.4% 0.3%
+Legal and professional charges 187 216 221 0.6% 0.6% 0.6%
+Communication costs 169 190 167 0.5% 0.5% 0.5%
+CSR expense 71 80 80 0.2% 0.2% 0.2%
+Doubtful debts 38 (49) (77) 0.1% (0.1%) (0.2%)
+Other expenses 356 424 363 1.1% 1.2% 1.0%
+Depreciation & Amortization 1,043 1,039 1,012 3.3% 3.0% 2.8%
+Total Costs 26,392 28,748 29,155 82.6% 83.1% 81.8%
+EBIT 5,550 5,831 6,465 17.4%* 16.9%* 18.2%*(Amount in ₹ Crores)
+Note: Facility cost includes Repairs and Maintenance, Power and Fuel, and Rent* EBIT Margin includes impact of restructuring cost of 84 bps in Q2 FY27, 62 bps in Q1 FY27 and 55 bps in Q2 FY26
+=== page 28 ===
+Financials in $ for the Quarter ended 30 -Sep -26 (IFRS)
+Consolidated Income Statement(Amount in $M)
+Income StatementQuarter Ended % of Revenue
+30-Sep -25 30-Jun -26 30-Sep -26 30-Sep -25 30-Jun -26 30-Sep -26
+Revenues 3,644 3,650 3,724 100.0% 100.0% 100.0%
+Direct  Costs 2,399 2,430 2,442 65.8% 66.6% 65.6%
+Gross  Profits 1,245 1,220 1,282 34.2% 33.4% 34.4%
+Research  & Development 56 58 72 1.5% 1.6% 1.9%
+SG & A 434 437 427 11.9% 12.0% 11.5%
+EBITDA 755 725 783 20.7% 19.9% 21.0%
+Depreciation  & Amortization 118 109 106 3.2% 3.0% 2.8%
+EBIT 637 616 677 17.5%* 16.9%* 18.2%*
+Foreign  Exchange  Gains/(Loss) (7) (4) (11) (0.2%) (0.1%) (0.3%)
+Other  Income,  net 24 33 11 0.7% 0.9% 0.3%
+Provision  for Tax 168 157 139 4.6% 4.3% 3.7%
+Non -controlling  interest 0 0 0 0.0% 0.0% 0.0%
+Net  Income 486 488 538 13.3% 13.4%* 14.4%*
+* EBIT Margin includes impact of restructuring cost of 84 bps in Q2 FY27, 62 bps in Q1 FY27 and 55 bps in Q2 FY26; NI Margin includes impact of restructuring cost of 62 bps in Q2 FY27, 47 bps in Q1 FY27 and 41 bps in Q2 FY26
+=== page 29 ===
+Cost Breakup in $ for Quarter ended 30 -Sep -2026 
+(Amount in $M)
+Particu larsQuarter Ended % of Revenue
+30-Sep -25 30-Jun -26 30-Sep -26 30-Sep -25 30-Jun -26 30-Sep -26
+Employee benefits expense 2,086 2,079 2,071 57.2% 56.9% 55.6%
+Outsourcing costs
+(Subcontractors + Outsourced Work)511 539 559 14.0% 14.8% 15.0%
+Cost of hardware and software sold 71 90 99 1.9% 2.5% 2.7%
+Travel and conveyance 40 39 39 1.1% 1.1% 1.0%
+Software subscription fee 39 38 44 1.1% 1.0% 1.2%
+Facility cost 37 37 37 1.0% 1.0% 1.0%
+Recruitment, training and development 13 13 13 0.4% 0.4% 0.3%
+Legal and professional charges 21 23 23 0.6% 0.6% 0.6%
+Communication costs 19 20 17 0.5% 0.5% 0.5%
+CSR expense 8 8 9 0.2% 0.2% 0.2%
+Doubtful debts 4 (5) (8) 0.1% (0.1%) (0.2%)
+Other expenses 40 44 38 1.1% 1.2% 1.0%
+Depreciation & Amortization 118 109 106 3.2% 3.0% 2.8%
+Total Costs 3,007 3,034 3,047 82.5% 83.1% 81.8%
+EBIT 637 616 677 17.5%* 16.9%* 18.2%*
+Note: Facility cost includes Repairs and Maintenance, Power and Fuel, and Rent* EBIT Margin includes impact of restructuring cost of 84 bps in Q2 FY27, 62 bps in Q1 FY27 and 55 bps in Q2 FY26
+=== page 30 ===
+Consolidated Balance Sheet (₹ and $)
+ParticularsIn ₹ Crores In $M
+As on 31 -Mar -26 As on 30 -Sep -26 As on 31 -Mar -26 As on 30 -Sep -26
+Assets
+Cash  and  Cash  Equivalents 8,265 10,046 872 1,048
+Accounts  Receivables,  net 23,585 22,799 2,487 2,379
+Unbilled  Receivables 7,956 9,420 839 983
+Treasury  Investments 23,136 13,942 2,440 1,455
+Other  Current  Assets 7,600 14,376 802 1,501
+Total  Current  Assets 70,542 70,583 7,440 7,366
+Property  and  Equipment,  net 4,717 4,975 497 519
+Right -of-use  assets 3,592 3,560 379 371
+Intangible  Assets,  net 29,130 31,945 3,072 3,334
+Treasury  Investments 2,046 1,469 215 153
+Deferred  Tax Assets 1,146 1,147 121 120
+Investments  accounted  for using  the equity  method - 1,389 - 145
+Other  Investments 130 131 14 14
+Other  Assets 4,955 5,223 523 545
+Total  Assets 116,258 120,422 12,261 12,567
+Liabilities  & Stockholders  Equity
+Other  Current  Liabilities 29,828 32,713 3,145 3,414
+Borrowings 159 954 17 100
+Lease  Liabilities 5,056 5,059 533 528
+Other  Non -Current  Liabilities 6,018 5,570 635 581
+Total  Liabilities 41,061 44,296 4,330 4,623
+Non -Controlling  Interests 32 34 3 3
+Total  Stockholders  Equity 75,165 76,092 7,928 7,941
+Total Equity 75,197 76,126 7,931 7,944
+Total  Liabilities  and  Equity 116,258 120,422 12,261 12,567
+=== page 31 ===
+Consolidated Cash Flow Summary & Cash Position
+ParticularsIn ₹ Crores In $M
+Year Ended
+March 2026Quarter Ended 
+September 2026Year Ended
+March 2026Quarter Ended 
+September 2026
+Profit  Before  Tax  22,102 6,467 2,492 677
+Adjustments  for:
+Depreciation  & Amortization 4,355 1,012 491 106
+Others (884) (77) (101) (7)
+Changes  in Assets  and  Liabilities,  net:
+Accounts  Receivable  and  Unbilled  Receivable (2,248) 942 (253) 99
+Other  Assets  and  Liabilities 726 (1,643) 82 (174)
+Income  Taxes  paid  (Net  of refunds) (4,076) (1,943) (459) (203)
+Net  Operating  Cash  Flow 19,975 4,758 2,252 498
+Purchase  of PP&E  and  Intangibles (1,422) (630) (160) (66)
+Free  Cash  Flow 18,553 4,128 2,092 432
+Payments  for Acquisitions (160) (3,742) (17) (392)
+Dividend  paid (14,618) (3,245) (1,648) (337)
+Gross  Cash  & Net  Cash
+Cash  & Cash  Equivalents 8,265 10,046 872 1,048
+Fixed  Deposits 18,222 12,464 1,921 1,300
+Investment  Securities 6,960 2,947 734 308
+Gross  Cash 33,447 25,457 3,527 2,656
+Less : Borrowings 159 954 17 100
+Net  Cash 33,288 24,503 3,510 2,556
+=== page 32 ===
+About HCL T ech
+Contact DetailsHCLTech is a global technology company, home to more than 230,000 people across 60+ countries, delivering industry -leading 
+capabilities centered around AI, digital, engineering, cloud and software, powered by a broad portfolio of technology service s and 
+products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing , Life 
+Sciences and Healthcare, Technology & Services, Semiconductor, Telecom and Media, Retail and CPG, Mobility and Public 
+Services. Consolidated revenues as of 12 months ending September 2026 totaled $14.8 billion. To learn how we can supercharge 
+progress for you, visit hcltech.com.
+Investor Relations Corporate Communications
+Nitin Mohta
+nitin.mohta@hcltech.com
++91 -120 -6126000  Ashutosh Sharma
+ashutosh.sharma@hcltech.com
++91 -120 -6126000  

@@ -58,7 +58,12 @@ largest gains came not in the first year but in the second.
    board-meeting purposes feed is a further source. BSE's API refuses
    this environment, so BSE is covered by its daily RSS (accumulated) and
    the BSE-sourced per-company lists on screener.in. Every tagged
-   filing's full text is stored.
+   filing's full text is stored. NSE's own corporate-actions REGISTER
+   is a further source (`Announcements/demerger_ground_truth.py`): the
+   daily bhavcopy bundle's `bc` file and the corporate-actions API list
+   every record date with its purpose, so a universe company with a
+   "Demerger" record date joins the store as a `NSE-register` row even
+   when no announcement headline said so.
 1b. **The calls are a SOURCE too** — the last twelve months of every
    stored transcript are scanned for special-situation language; each
    forward-looking mention (planning, evaluating, will, timeline — not a
@@ -86,7 +91,13 @@ largest gains came not in the first year but in the second.
    demerges); `probable` for a subsidiary listing in motion or a scheme
    whose nature the documents do not settle; `indicated` for news
    verification, denial or calls alone. The report puts confirmed
-   demergers first and gives them the full treatment.
+   demergers first and gives them the full treatment. The judge can
+   DEMOTE a demerger it has read in full: an explicit amalgamation /
+   liquidation / insolvency read with nothing separated becomes a
+   `merger`; an acquisition or stake purchase, or a business demerged
+   INTO the listed company (its own holders receive no new listing),
+   becomes `other`. A subsidiary listing is never demoted. Each demotion
+   is shown with its reason among the other restructurings.
 4. **Listing status** — for every spin-off: LISTED since (record date),
    RECORD DATE set and listing pending (with the typical 4–10 week gap
    stated as typical, not forecast), NOT YET with the timeline the
@@ -150,6 +161,22 @@ largest gains came not in the first year but in the second.
 11. **Coverage** — `_coverage.csv` records, per confirmed / probable
     company, whether the parent P&L, cash flow, P/E, annual reports,
     presentations, segment numbers and rationale were found.
+12. **The register check** (`scripts/validate_demergers.py`) — the
+    demerger list is tested against NSE's own record, built by
+    `Announcements/demerger_ground_truth.py` from the year's bhavcopy
+    bundles (record dates with purpose "Demerger" in the `bc` file, the
+    corporate-actions API, and every symbol's first appearance in the
+    price file). RECALL: every universe company with a demerger record
+    date must be in the list as a confirmed or probable demerger — held
+    as merger or other is a classification miss, absent is a capture
+    miss. PRECISION: every confirmed demerger at record date or listed
+    must have a register row, and a confirmed demerger whose judge read
+    says nothing is separated is a false positive; confirmed demergers
+    still before their record date are "pending, not yet verifiable".
+    ARRIVAL: the resulting company's new symbol within 75 days of the
+    record date. It writes `SPINOFF_GROUND_TRUTH_CHECK.md` and exits 1
+    on any miss or false positive, so a run that fails the register is
+    not shared.
 
 ## Run it
 
@@ -161,7 +188,9 @@ python3 scripts/analyze.py run                                     # report, wit
 python3 scripts/analyze.py run --fetch-docs                        # pull reports for highlighted companies first
 python3 scripts/analyze.py run --quick                             # no AI
 python3 scripts/analyze.py company THOMASCOOK                      # one company, JSON
-python3 -m pytest scripts/test_skill.py -q                         # 41 tests, offline
+python3 ../../Announcements/demerger_ground_truth.py --days 400    # NSE's register from the bhavcopy bundles
+python3 scripts/validate_demergers.py                              # the list against the register; exit 1 on a miss
+python3 -m pytest scripts/test_skill.py -q                         # 43 tests, offline
 ```
 
 ## Outputs
@@ -170,7 +199,8 @@ python3 -m pytest scripts/test_skill.py -q                         # 41 tests, o
 |---|---|
 | `Analysis/NiftyTotalMarketAnalysis/SpinOffAnalysis/SPINOFF_REPORT.md` | confirmed demergers table (entity, stage, listing, score), probable / indicated table, other restructurings; per confirmed company: listing callout, stages, facts, the judge's read, the rationale from three years of calls with transcript links, the parent's three years with charts, P/E and cash flows, the separated business's own numbers with page citations, checklist, calls, filings |
 | `…/spinoff_latest.json`, `…/_situations.csv`, `…/_coverage.csv`, `…/_offerings.csv`, `…/_concall_mentions.csv`, `…/history/<run_date>/` | the run, machine-readable; one row per situation; what was found for whom; every call mention with tone and quote; snapshots |
-| `Announcements/NiftyTotalMarket/` | every matched filing with kind, tags, attachment and text; BSE codes; BSE RSS store; log; README |
+| `…/SPINOFF_GROUND_TRUTH_CHECK.md`, `…/_ground_truth_check.csv` | the register check: recall row per register demerger, precision row per confirmed demerger, verdicts |
+| `Announcements/NiftyTotalMarket/` | every matched filing with kind, tags, attachment and text; `_all_filings.csv.gz` (every universe filing); `text/first/` (first six pages of every read attachment); `_demerger_ground_truth.csv` (NSE's register); BSE codes; BSE RSS store; log; README |
 | `AnnualReports/NiftyTotalMarket/{SYMBOL}/`, `InvestorPresentations/NiftyTotalMarket/{SYMBOL}/` | annual reports and presentations: PDFs on disk (git-ignored), page-marked `.txt`, `_index.csv` with source URLs; `_concall_links.csv` maps every call to its transcript and presentation |
 
 ## Limits, stated
