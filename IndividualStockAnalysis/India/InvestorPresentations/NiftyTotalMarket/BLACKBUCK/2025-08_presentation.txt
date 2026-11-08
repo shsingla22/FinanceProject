@@ -1,0 +1,226 @@
+
+=== page 1 ===
+` 
+Ref: BLACKBUCK/CORP/ 2025-26/71 
+August  05, 2025  
+To  
+National Stock Exchange of India Ltd., 
+Exchange Plaza, C -1, Block G  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400051  To  
+BSE Limited  
+Phiroze Jeejeebhoy Towers 
+Dalal Street  
+Mumbai – 400001  
+ Scrip Code: 5 44288, Scrip Symbol: BLACKBUCK, Series – EQ 
+ISIN -  INE0UIZ01018  
+Dear Sir/ Madam, 
+Sub: Investor Presentation under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations 2015 (Revised) 
+In continuation  of our letter  dated  July  30, 2025  regarding  Analyst/Institutional  call scheduled  on 
+August 05, 2025 at 05:00 PM. We are enclosing herewith Investor Presentation for the quarter ended 
+on June 30, 2025. 
+The abov e information shall als o be made availabl e on th e Company' s websit e at 
+https://a.blbk.in/Financials_Information    
+Kindly take the above information on record. 
+Thanking you 
+Yours Sincerely, 
+For Zinka Logistics Solutions Limited 
+_____________________ 
+Barun Pandey 
+Company Secret ary and Compliance Officer 
+Membership No: A39508 
+=== page 2 ===
+Q1’26 Earnings Presentation
+=== page 3 ===
+Snapshot of Q1’26
+2Total Income1₹ 159.56 Cr.
+▲62.27% YoYEBITDA2₹ 40.40 Cr.
+▲383.35% YoYPAT3₹ 33.70 Cr.
+----
+Transacting Customers783,399
+▲13.87% YoYUsers (>=2 Services )386,351
+▲24.23% YoYGTV Payments6847.46 Cr .
+▲27.84% YoY
+Delivering consistent profitability and strong scale -up of new business areas!
+1. Total Income is defined as Total Income as per statement of unaudited consolidated financial results
+2. EBITDA is defined as profit/(loss) before tax from operations and adjusted for (a) Other income (b) finance costs (c) depreciation and amortisation expense (d) other gains/ losses (net) and (e) exceptional items.
+3. PAT is defined as profit/(loss) for the period as per statement of unaudited consolidated financial results
+=== page 4 ===
+Trucking industry overview
+Transform Truck Operators →Transform Indian Trucking
+Truck Operator’s 
+Lifecycle
+ Buying & Selling Loads Compliance
+3.5 Mn Truck Owners
+12.5 Mn Trucks$170 -175 Bn  Industry
+8-9% CAGR
+75% trucks owned by small 
+operators (<5 Trucks )
+FinancingLower Accessibility 
+leading to higher 
+costs
+PaymentsCash Leakages
+Ineffective 
+Monitoring
+MaintenanceLower Accessibility
+Ineffective 
+Monitoring
+Lower Accessibility 
+leading to higher 
+costs
+High 
+Intermediation
+Ineffective 
+Monitoring
+3Source : RedSeer Report
+=== page 5 ===
+DistributionOur Strategy
+4Offerings
+PipelineLoads 
+PlatformVehicle 
+FinanceVehicle 
+TrackingTollingBrokerage
+PlatformFuel 
+SensorFuel 
+PaymentsFleet Docs +
+…
+BlackBuck Platform43.8 Mins
+Daily App Usage783,399
+Transacting Customersx
+10K+
+Physical Touchpoint 
+Network80%+
+Districts Presence
+Truck Operator’s 
+Lifecycle
+=== page 6 ===
+5P&L Overview
+KEY METRICS Q1’26 Q1’25 YoY Q4’25 QoQ
+Total Income1 ₹ in Cr 159.56 98.33 62.27% 136.76 16.67%
+Revenue from Operations ₹ in Cr 143.61 92.17 55.82% 121.83 17.88%
+-Core (Payments & Telematics) ₹ in Cr 120.26 85.52 40.62% 111.66 7.70%
+-Growth Businesses ₹ in Cr 23.35 6.64 251.52% 10.16 129.74%
+Net Revenues2 ₹ in Cr 131.85 92.17 43.06% 121.83 8.23%
+Direct Costs ₹ in Cr 9.65 6.62 45.79% 9.91 (2.57%)
+Contribution3 ₹ in Cr 122.20 85.55 42.84% 111.92 9.18%
+Contribution 
+(as a % of Net Revenues)% 92.68% 92.82% - 91.87% -
+Total expenses ₹ in Cr 74.99 73.45 2.10% 73.15 2.52%
+Adjusted EBITDA4 ₹ in Cr 47.21 12.10 290.25% 38.77 21.75%
+EBITDA5 ₹ in Cr 40.40 8.27 388.55% 39.86 1.35%
+PBT ₹ in Cr 45.74 32.43 41.02% 40.80 12.10%
+PAT ₹ in Cr 33.70 28.67 17.52% 280.17 (87.97%)
+1. Total Income is defined as Total Income as per statement of unaudited consolidated financial results
+2. Net Revenues is defined as Revenue from operations as per Consolidated financial results excluding revenues of Superloads business (+) Gross margin of Superloads business
+3. Contribution Margin is defined as Net Revenues ( -) direct costs associated with delivering other service activities
+4. Adjusted EBITDA is defined as profit/(loss) before tax from continuing operations and adjusted for (a) Other income (b) finan ce costs (c) depreciation and amortisation expense (d) employee share -based payment expenses (e) other gains/ losses (net) and (f) 
+exceptional items.
+5. EBITDA is defined as profit/(loss) before tax from operations and adjusted for (a) Other income (b) finance costs (c) depreciation and amortisation expense (d) other gains/ losses (net) and (e) exceptional items.
+=== page 7 ===
+6Key Metrics
+METRICS Q1’26 Q1’25 YoY Q4’25 QoQ
+Average monthly transacting truck operators Units 783,399 687,994 13.87% 765,397 2.35%
+Monthly transacting users using at least two services Units 386,351 310,989 24.23% 368,495 4.85%
+Time spent on App Daily by Transacting Customers Minutes 43.8 41.5 5.54% 43.7 0.22%
+Gross transaction value of payments ₹ in Cr 6,847.46 5,356.2 27.84% 6,612.0 3.56%
+Total number of payments transactions Units in Cr 15.88 12.83 23.75% 15.65 1.44%
+Revenue from Operations ₹ in Cr 143.61 92.17 55.82% 121.83 17.88%
+Net Revenues1 ₹ in Cr 131.85 92.17 43.06% 121.83 8.23%
+Contribution Margin2 ₹ in Cr 122.20 85.55 42.84% 111.92 9.18%
+Contribution Margin (% of Net Revenue) % 92.68% 92.82% 91.87%
+Adjusted EBITDA3 ₹ in Cr 47.21 12.10 290.25% 38.77 21.75%
+1. Net Revenues is defined as Revenue from operations as per Consolidated financial results excluding revenues of Superloads business (+) Gross margin of Superloads business
+2. Contribution Margin is defined as Net Revenues ( -) direct costs associated with delivering other service activities
+3. Adjusted EBITDA is defined as profit/(loss) before tax from continuing operations and adjusted for (a) Other income (b) finan ce costs (c) depreciation and amortisation expense (d) employee share -based payment expenses (e) other gains/ losses (net) and (f) 
+exceptional items.
+=== page 8 ===
+7Key Highlights
+•BlackBuck grew by62.28%Y-o-Yinoverall revenues inQ1’26.
+o The core businesses growing at40.62%leveraging thetailwinds ofthetrucking industry and strong execution
+excellence .
+o The growth businesses grew strongly by 251 .52%,led bythe launch of‘SuperLoads ’business which isthe
+evolution ofmarketplace loads business from classifieds totransactions .
+•The profitability ofthebusiness continues toexpand, driven bystrong operating leverage inthe core businesses ,while at
+thesame time with strong expansion innew business areas .
+o Adjusted EBITDA grew Y-o-Yfrom 12.10Cr.inQ1’25to47.21Cr.inQ1’26,which is13.1%to35.8%ofnet revenues ona
+YoY basis .
+•The core platform metrics continue tocompound and enable wider presence and deeper engagement with customers .
+o The monthly transacting truck operators grew by13.87%to783 K,thedaily time spent bytransacting customers
+grew by5.54%to43mins and the payments GTV grew by27.84%toRs.6847 .46Cr.inQ1’26.
+=== page 9 ===
+8Operating leverage at play ( 1/2)
+Net Revenues ( ₹ Cr .)
+Adj. EBIDTA ( ₹ Cr.)Q1’ 26 Q1’ 25 ▲Change
+131.85 92.17 39.68
+47.21 12.10 35.11
+Net Revenues ( ₹ Cr .)
+Adj. EBIDTA ( ₹ Cr.)Q1’ 26 Q4’ 25 ▲Change
+131.85 121.83 10.02
+47.21 38.77 8.43YoY
+QoQDrivers for Operating Leverage
+Recurring Revenues88%
+84%Strong User Retention
+Asset light business model
+BlackBuck’s platform led revenues driving a P&L with strong operating leverageHigh Contribution Margin
+=== page 10 ===
+-10.7-9.43.410.412.119.233.138.847.2
+Q1'24 Q2'24 Q3'24 Q4'24 Q1'25 Q2'25 Q3'25 Q4'25 Q1'26
+9Operating leverage at play ( 2/2)
+Adj . 
+EBITDA %-18.0% -14.9% 4.2% 11.2% 13.1% 19.4% 29.0%
+Strong revenue growth momentum and operating leverage continues to drive profitabilityAdj. EBITDA (INR Cr )
+31.8% 35.8%
+=== page 11 ===
+10Snapshot of last 2 years P&L
+METRICS Q1’24 Q2’24 Q3’24 Q4’24 Q1’25 Q2’25 Q3’25 Q4’25 Q1’26
+Total Income ₹ in Cr 64.36 67.68 91.78 98.96 98.33 104.27 123.18 136.76 159.56 
+Revenue from Operations ₹ in Cr 59.47 63.37 80.87 93.22 92.17 98.77 113.98 121.83 143.61
+-Core (Payments & Telematics) ₹ in Cr 55.89 60.39 77.21 87.21 85.52 90.25 104.73 111.66 120.26 
+-Growth Businesses ₹ in Cr 3.58 2.98 3.66 6.01 6.64 8.52 9.25 10.16 23.35 
+Net Revenues ₹ in Cr 59.47 63.37 80.87 93.22 92.17 98.77 113.98 121.83 131.85 
+Contribution Margin ₹ in Cr 53.72 56.98 73.36 84.69 85.55 89.77 105.71 111.92 122.20 
+Contribution Margin (% of Net 
+Revenue)% 90.34% 89.92% 90.72% 90.84% 92.82% 90.89% 92.74% 91.87% 92.68%
+Adjusted EBITDA ₹ in Cr (10.71) (9.41) 3.43 10.43 12.10 19.15 33.06 38.77 47.21 
+EBITDA ₹ in Cr (27.22) (33.75) (10.62) (84.18) 8.36 15.04 29.98 39.86 40.40 
+PBT ₹ in Cr (33.29) (39.70) (6.38) (87.54) 32.43 (308.25) (47.90) 40.80 45.74 
+PAT ₹ in Cr (35.94) (47.67) (19.59) (90.75) 28.67 (269.47) (48.03) 280.17 33.70 
+=== page 12 ===
+11Summary of last 2 Years
+~2.5X revenue growth from Q1’24 to Q1’26
+Profitability turnaround from -18% in Q1’24 to +35% in Q1’26
+Consistent 70%+ delivery of operating leverage on an YoY basis in FY 25
+Strong momentum in creating future revenue streams
+=== page 13 ===
+12
+Thank You !
+=== page 14 ===
+13Annexure 1: Walkthrough from PAT to Adjusted EBITDA
+KEY METRICS Q1’26 Q1’25 YoY Q4’25 QoQ
+Profit / (Loss) after Tax ₹ in Cr. 33.70 28.67 17.52% 280.17 (87.97%)
+Less:
+Profit/ (Loss) from discontinued operations ₹ in Cr. - (3.71) - (5.59) -
+Exceptional items ₹ in Cr. - 25.62 - (0.78) -
+Other Gains / Losses (net) ₹ in Cr. 0.04 0.01 620.00% (0.11) (133.03%)
+Other Income ₹ in Cr. 15.91 6.16 158.33% 14.95 6.44%
+Add:
+Current Tax ₹ in Cr. 3.80 0.05 6,942.59% 2.56 48.90%
+Deferred Tax ₹ in Cr. 8.23 - - (247.51) (103.33%)
+Finance Costs ₹ in Cr. 1.29 0.76 68.46% 0.92 39.44%
+Depreciation and amortisation expense ₹ in Cr. 9.32 6.95 34.18% 12.18 (23.44%)
+Employee shared -based payment expenses ₹ in Cr. 6.81 3.74 82.10% (1.09) (726.22%)
+Adjusted EBITDA ₹ in Cr. 47.21 12.10 290.29% 38.76 21.80%
+=== page 15 ===
+14Annexure 2: ESOP Expense Projections
+QuarterESOP Charge in P&L 
+(In Cr.)*
+Q2’26 5.82
+Q3’26 5.14 
+Q4’26 4.65 
+Q1’27 2.59 
+Q2’27 2.60 
+Q3’27 2.55 
+Q4’27 1.46
+Q1’28 1.28 
+* ESOP Charge is projected assuming no further grants and estimates regarding attrition date. The attrition rate is based on historical and other factors including expectation of future events.

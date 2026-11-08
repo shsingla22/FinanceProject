@@ -1,0 +1,205 @@
+
+=== page 1 ===
+` 
+Ref: BLACKBUCK/CORP/ 2026-27/23 
+May  19, 2026  
+To  
+National Stock Exchange of India Ltd., 
+Exchange Plaza, C -1, Block G  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400051  To  
+BSE Limited  
+Phiroze Jeejeebhoy Towers 
+Dalal Street  
+Mumbai – 400001  
+ Scrip Code: 5 44288, Scrip Symbol: BLACKBUCK, Series – EQ 
+ISIN -  INE0UIZ01018  
+Dear Sir/ Madam, 
+Sub: Investo r Presentation under Regulation 30 of SEB I (Listing Obligations and Disclosure 
+Requirements) Regulations 2015. 
+In continuation of our letter dated May 13, 2026 regarding Analyst/Institutional call scheduled on May 
+19, 2026 at 05:00 PM. We are enclosing herewith Investor Presentation for the quarter and year ended 
+March 31, 2026. 
+The above information shall also be made available on the Company's website 
+at https://a.blbk.in/Financials_Information    
+Kindly take the above information on record. 
+Thanking you 
+Yours Sincerely, 
+For BlackBuck Limited 
+(Formerly known as Zinka Logistics Solutions Limited) 
+_____________________ 
+Barun Pandey 
+Company Secretary and Compliance Officer 
+Membership No: A39508 
+=== page 2 ===
+Q4’26 & FY26 Earnings Presentation
+=== page 3 ===
+Snapshot of FY’26
+2Total Income1₹ 714.60 Cr.
+▲55% YoYEBITDA2₹ 166.76 Cr.
+▲79% YoYPAT3₹ 160.34 Cr.
+---
+Transacting Customers
+▲13% YoYUsers (>=2 Services )
+▲22% YoYGTV Tolling₹ 25,904 Cr.
+▲27% YoY
+1. Total Income is defined as Total Income as per audited statement of consolidated financial results
+2. EBITDA is defined as profit/(loss) before tax from operations and adjusted for (a) Other income (b) finance costs (c) depreciation and amortisation expense and (d) exceptional items.
+3. PAT is defined as profit/(loss) for the period as per audited statement of consolidated financial results411,765 818,259
+=== page 4 ===
+DistributionOur Strategy
+3Offerings
+PipelineLoads 
+ClassifiedVehicle 
+FinanceVehicle 
+TrackingTolling SuperloadsFuel 
+SensorFuel 
+PaymentsFleet Docs +
+…
+BlackBuck Platform44 Mins
+Daily App Usage818K+
+Transacting Customersx
+Truck Operator’s 
+Lifecycle
+10K+
+Physical Touchpoint 
+Network80%+
+Districts Presence
+*Basis FY 26
+=== page 5 ===
+4Key KPIs
+METRICS Q4’26 Q4’25 YoY FY’26 FY’25 YoY
+Average monthly transacting truck operators Units 866,091 765,397 13% 818,259 721,932 13%
+Monthly transacting users using at least two 
+servicesUnits 441,874 366,749 20% 411,765 339,701 21%
+Time spent on App Daily by Transacting 
+CustomersMinutes 45.01 43.74 3% 43.76 42.89 2%
+Gross transaction value of Tolling ₹ in Cr 7,094.01 5,861.31 21% 25,904.96 20,386.06 27%
+Total number of Tolling transactions Units in Cr 18.30 15.60 17% 66.91 55.26 21%
+Revenue from Operations ₹ in Cr 185.43 121.81 52% 651.97 426.73 53%
+Net Revenues1 ₹ in Cr 159.86 121.81 31% 580.24 426.73 36%
+Contribution Margin2 ₹ in Cr 149.90 114.63 31% 541.96 400.47 35%
+Contribution Margin (% of Net Revenue) % 94% 94% 93% 94%
+Adjusted EBITDA3 ₹ in Cr 50.20 38.76 30% 190.14 103.16 84%
+1. Net Revenues is defined as Revenue from operations as per Consolidated financial results excluding revenues of Superloads business (+) Gross margin of Superloads business
+2. Contribution Margin is defined as Net Revenues ( -) direct costs associated with delivering service activities
+3. Adjusted EBITDA is defined as profit/(loss) before tax from continuing operations and adjusted for (a) Other income (b) finan ce costs (c) depreciation and amortisation expense (d) employee share -based payment expenses and (e) exceptional items.
+=== page 6 ===
+5Key Highlights
+•Revenue from operations grew 53%Y-o-YinFY’26and 52%Y-o-YinQ4’26
+o Core businesses grew by34%Y-o-YinFY’26and 29%onaY-o-Ybasis inQ4’26
+✓Tolling business delivered strong performance with GTV growth of~27%Y-o-YvsNETC CVindustry growth of~16%;
+✓Telematics business continued todeliver strong sales numbers ;AIS sales doubled leveraging mandates during
+this period .
+o Growth businesses grew by 266% Y -o-Y in FY’26 and 304% on a Y -o-Ybasis in Q4’26
+✓InSuperloads business, Bangalore and Hyderabad continue tostrengthen on unit economics ;Early momentum in
+new cities driven bycross -leveraging established customer relationships and strong engaged supply base .
+✓InVehicle Finance business, disbursals grew by~25%QoQ inQ4’26;strong execution driving growth .
+•Adjusted EBIDTA grew 84%Y-o-YinFY’26to190 .14Cr.and 30%Y-o-YinQ4’26to50.20Cr.
+o Core businesses continue todeliver consistent profitability and operational cashflows despite macro headwinds
+o Calibrated step -up ofinvestments inSuperLoads continued during theperiod ;Vehicle Finance converging towards
+EBIDTA breakeven .
+•West Asia conflict isexpected topresent short -term headwinds with anticipated drag onfreight movement, this may
+have ashort -term impact ongrowth oftransaction -based revenues
+o Due totheongoing fuel shortage, theloyalty program has been temporarily suspended bytheOMCs
+=== page 7 ===
+6P&L Overview
+METRICS Q4’26 Q4’25 YoY FY’26 FY’25 YoY
+Total Income1 ₹ in Cr 199.57 136.65 46% 714.60 462.40 55%
+Revenue from Operations ₹ in Cr 185.43 121.81 52% 651.97 426.73 53%
+-Core (Payments & Telematics) ₹ in Cr 144.42 111.65 29% 525.46 392.15 34%
+-Growth Businesses ₹ in Cr 41.01 10.16 304% 126.51 34.58 266%
+Net Revenues2 ₹ in Cr 159.86 121.81 31% 580.24 426.73 36%
+Direct Costs ₹ in Cr 9.96 7.18 39% 38.28 26.26 46%
+Contribution3 ₹ in Cr 149.90 114.63 31% 541.96 400.47 35%
+Contribution (as a % of Net Revenues) % 94% 94% 93% 94%
+Total expenses ₹ in Cr 99.70 75.87 31% 351.82 297.32 18%
+Adjusted EBITDA4 ₹ in Cr 50.20 38.76 30% 190.14 103.16 84%
+EBITDA5 ₹ in Cr 45.06 39.86 13% 166.76 93.30 79%
+PBT ₹ in Cr 40.37 40.80 (1%) 167.48 (282.92) -
+PAT ₹ in Cr 65.73 280.17 - 160.34 (8.66) -
+1. Total Income is defined as Total Income as per statement of unaudited consolidated financial results
+2. Net Revenues is defined as Revenue from operations as per Consolidated financial results excluding revenues of Superloads business (+) Gross margin of Superloads business
+3. Contribution Margin is defined as Net Revenues ( -) direct costs associated with delivering other service activities
+4. Adjusted EBITDA is defined as profit/(loss) before tax from continuing operations and adjusted for (a) Other income (b) finan ce costs (c) depreciation and amortisation expense (d) employee share -based payment expenses (e) other gains/ losses (net) and (f) 
+exceptional items.
+5. EBITDA is defined as profit/(loss) before tax from operations and adjusted for (a) Other income (b) finance costs (c) depreciation and amortisation expense (d) other gains/ losses (net) and (e) exceptional items.
+=== page 8 ===
+7Strong track record continues
+Consistent profitability with strong operating leverage-173.87-6.26103.16190.14
+FY 23 FY 24 FY 25 FY 26-290.49-193.94-8.66160.34
+FY 23 FY 24 FY 25 FY 26+364+451Adj. EBITDA (INR Cr) PAT (INR Cr)
+=== page 9 ===
+8Thinking Ahead
+“Double down execution in the core, while stepping up investments to unlock growth”Key Focus
+-Strong profitability enabled by operating leverage
+-Focus on continuous market share expansion
+-Keeping close track of evolving landscapeTolling Vehicle Tracking
+Fuel Cards AIS -GPS
+Fuel Sensor+ + + 
+(Experiments)Core Businesses
+SuperLoads
+Key Focus
+-Strengthen existing markets in superloads; 
+accelerate expansion into new geographies
+-Higher throughput in Vehicle finance business to 
+contribute to profitabilityClassifieds
+Vehicle Finance+ + + 
+(Experiments)Growth Businesses
+=== page 10 ===
+9
+Annexures
+=== page 11 ===
+10Annexure 1: Walkthrough from PAT to Adjusted EBITDA
+METRICS Q4’26 FY 26
+Profit / (loss) after Tax 65.73 160.34
+Less:
+Profit from discontinued operations - -
+Other income 14.14 62.64 
+Add:
+Income tax expense (25.36) 7.13
+Finance cost 1.48 5.48 
+Depreciation and amortisation expense 17.36 52.61 
+Exceptional items - 3.83 
+EBITDA 45.06 166.76
+Add:
+Employee shared -based payment expenses 5.13 23.38 
+Adjusted EBITDA 50.20 190.14(in INR Cr.)
+=== page 12 ===
+11Annexure 2: ESOP Expense Projections
+QuarterESOP Charge in P&L 
+(In Cr.)*
+Q1’27 4.01
+Q2’27 3.96
+Q3’27 2.96
+Q4’27 2.04
+Q1’28 1.93
+Q2’28 1.91
+Q3’28 1.49
+Q4’28 1.00
+* ESOP Charge is projected assuming no further grants and estimates regarding attrition date. The attrition rate is based on historical and other factors including expectation of future events.
+=== page 13 ===
+12Annexure 3: Cashflow
+* Adjusted Cash and Cash Equivalents refers to Cash and Cash Equivalents for the period and adjusted for a) Bank balances oth er than cash and cash equivalents b) Investments in Mutual Funds 
+c) Intercorporate Deposits d) Bank Overdrafts e) Deposits with banks having remaining maturity more than 12 MonthsPARTICULARS FY’26 FY’25
+Profit/(Loss) before Tax 167.48 (253.30)
+Operating Adjustments:
+Exceptional Item (Share based Payment Expense) - 390.18
+Employee Share -based payments 23.38 10.08
+Profit on sale of Contract Freight Business - (40.83)
+Depreciation and amortisation expense 52.61 33.95
+Interest Income (Net of Interest expense) (56.29) (26.34)
+Impairment Loss on Trade Receivables (relating to Contract freight business) - (25.62)
+Loss allowance on Financial Asset 3.23 10.97
+Other (Gain)/Loss (1.17) (1.81)
+Working Capital adjustments (4.15) (50.53)
+Cash generated from operations 185.09 46.75
+Income taxes refund/ (paid) –net (15.66) 11.58
+Net cash inflow/ (outflow) from operating activities 169.43 58.33
+Net cash inflow/ (outflow) from investing activities (170.89) (466.53)
+Net cash inflow/ (outflow) from financing activities (11.47) 383.69
+Net increase/ (decrease) in cash and cash equivalents 12.93 (24.52)
+Cash and cash equivalents at the beginning of the period 104.49 129.01
+Cash and cash equivalents at end of the period 91.56 104.49
+Other Cash Equivalents 1012.54 802.58
+Adjusted Cash and cash equivalents at end of the period* 1104.10 907.07
