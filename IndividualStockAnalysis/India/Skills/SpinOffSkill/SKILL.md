@@ -190,7 +190,7 @@ python3 scripts/analyze.py run --quick                             # no AI
 python3 scripts/analyze.py company THOMASCOOK                      # one company, JSON
 python3 ../../Announcements/demerger_ground_truth.py --days 400    # NSE's register from the bhavcopy bundles
 python3 scripts/validate_demergers.py                              # the list against the register; exit 1 on a miss
-python3 -m pytest scripts/test_skill.py -q                         # 44 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 46 tests, offline
 ```
 
 ## Outputs

@@ -615,6 +615,15 @@ def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
           "parent_or_spin": "neither", "selling_pressure": "unclear", "reason": "consolidation"}
     kind, why = SO.judge_override({**sit, "company": "Gabriel India Ltd."}, jg)
     assert kind == "other" and "inbound" in why
+    # …and when the judge itself calls the company the 'spin', the DIRECTION
+    # read from the scheme text still demotes it, with no judge at all
+    jg2 = {**jg, "what_is_spun": "Automotive Undertaking of Asia Investments: drivetrain, forgings", "parent_or_spin": "spin"}
+    assert SO.judge_override({**sit, "company": "Gabriel India Ltd."}, jg2)[0] is None
+    inbound = {**sit, "company": "Gabriel India Ltd.",
+               "facts": {"direction": "inbound", "direction_quote": "Gabriel India Limited (the “Resulting Company”)"}}
+    kind, why = SO.judge_override(inbound, jg2)
+    assert kind == "other" and "Resulting Company" in why
+    assert SO.judge_override(inbound, {"status": "not assessed"})[0] == "other"
     # Prestige: a subsidiary IPO whose DRHP was withdrawn is NOT an amalgamation
     j3 = {"status": "judged", "what_is_spun": "Subsidiary Prestige Hospitality Ventures via IPO; DRHP now withdrawn",
           "parent_or_spin": "unclear", "selling_pressure": "unclear",
@@ -625,6 +634,38 @@ def test_an_amalgamation_order_is_not_a_demerger_and_the_judge_can_demote():
           "parent_or_spin": "neither", "selling_pressure": "unclear", "reason": "n/a"}
     assert SO.judge_override(sit, j4)[0] == "merger"
     assert "demerged_undertaking" not in SO.facts_in('"Demerged Undertaking" means with the total revenue and net.')
+
+
+def test_demerger_direction_reads_resulting_and_demerged_roles():
+    gabriel = ("Scheme of Arrangement between Asia Investments Private Limited (the “Demerged Company”) and "
+               "Gabriel India Limited (the “Resulting Company”) providing for the demerger of the Automotive "
+               "Undertaking of Asia Investments Private Limited into Gabriel India Limited.")
+    d, q = SO.demerger_direction(gabriel, "Gabriel India Limited")
+    assert d == "inbound" and "Resulting Compan" in q
+    hul = ("Scheme of Arrangement amongst Hindustan Unilever Limited (Demerged Company) and Kwality Wall's "
+           "(India) Limited (Resulting Company) for the demerger of the Ice Cream Business of Hindustan "
+           "Unilever Limited into Kwality Wall's (India) Limited.")
+    assert SO.demerger_direction(hul, "Hindustan Unilever Ltd.")[0] == "outbound"
+    # 'Ltd.' in the filing, 'Limited' in the universe name; abbreviations too
+    assert SO.demerger_direction("Vedanta Ltd. (“Demerged Company”) and Vedanta Aluminium Metal Limited", "Vedanta Limited")[0] == "outbound"
+    assert SO.demerger_direction("nothing about roles here", "Gabriel India Limited") == ("", "")
+    # both roles named for the same company (a composite scheme) settles nothing
+    both = gabriel + " Gabriel India Limited (the “Demerged Company” for Part D)."
+    assert SO.demerger_direction(both, "Gabriel India Limited")[0] == ""
+
+
+def test_inbound_demerger_is_marked_in_the_situation(monkeypatch):
+    rows = [{"date": "2026-01-10", "symbol": "GAB", "company": "Gabriel India Limited", "source": "NSE",
+             "category": "Demerger", "kind": "demerger", "tags": "demerger",
+             "headline": "Scheme of Arrangement — demerger", "attachment": "x.pdf", "ann_id": "g1",
+             "file_size": "", "text_file": ""}]
+    texts = {"g1": "Asia Investments Private Limited (the “Demerged Company”) and Gabriel India Limited "
+                   "(the “Resulting Company”): demerger of the Automotive Undertaking into Gabriel India Limited."}
+    sits = SO.build_situations(rows, texts, today=dt.date(2026, 6, 1))
+    assert sits[0]["kind"] == "demerger" and sits[0]["facts"]["direction"] == "inbound"
+    hul_rows = [{**rows[0], "symbol": "HUL", "company": "Hindustan Unilever Limited", "ann_id": "h1"}]
+    hul_texts = {"h1": "Hindustan Unilever Limited (Demerged Company) and Kwality Wall's (India) Limited (Resulting Company)"}
+    assert SO.build_situations(hul_rows, hul_texts, today=dt.date(2026, 6, 1))[0]["facts"]["direction"] == "outbound"
 
 
 

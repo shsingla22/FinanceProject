@@ -669,7 +669,11 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
     merged = merge_rows(read_csv(MATCHES) if not only else
                         [r for r in read_csv(MATCHES) if r["symbol"] not in members],
                         rows)
-    merged = [r for r in merged if r["date"] >= cutoff or r["symbol"] not in members]
+    # the register's record dates stay whatever the window: a demerger whose
+    # record date fell just before the filings window is still LISTED <1Y,
+    # the phase the notes care most about, and its stage must say so
+    merged = [r for r in merged if r["date"] >= cutoff or r["symbol"] not in members
+              or r.get("source") == "NSE-register"]
 
     # ---- attachment text
     if pdf:

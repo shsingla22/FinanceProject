@@ -339,6 +339,44 @@ def _same_company(a: str, b: str) -> bool:
     return bool(x) and bool(y) and (x == y or x in y or y in x)
 
 
+def _company_rx(company: str) -> str:
+    """A regex for the company's name as filings write it: 'Gabriel India
+    Limited' also matches 'Gabriel India Ltd.' and 'Gabriel India'."""
+    toks = [t for t in re.findall(r"[A-Za-z0-9&]+", company or "")
+            if t.lower() not in ("limited", "ltd", "the")]
+    if not toks:
+        return ""
+    return r"\b" + r"\s+".join(re.escape(t) for t in toks) + r"(?:\s+(?:Limited|Ltd\.?))?"
+
+
+_ROLE_TAIL = r"[\s,]{0,6}(?:\(|[“\"']|\bas\s+|\bbeing\s+|\bis\s+|,\s*)(?:the\s+)?(?:hereinafter\s+)?(?:referred\s+to\s+as\s+)?(?:the\s+)?[“\"']?(?:%s)\s+Compan"
+
+
+def demerger_direction(text: str, company: str) -> tuple[str, str]:
+    """Which way the demerger runs for THIS listed company, read from the
+    scheme text. 'inbound': the company is the RESULTING / TRANSFEREE
+    company — a business is demerged INTO it, it issues shares to another
+    company's holders, and its own holders receive no new listing (Gabriel
+    India taking Asia Investments' automotive undertaking). 'outbound':
+    the company is the DEMERGED company. '' when the text does not say.
+    Returns (direction, quote)."""
+    crx = _company_rx(company)
+    if not crx or not text:
+        return "", ""
+    head = text[:200_000]
+    inbound_rx = re.compile("(?:" + crx + _ROLE_TAIL % "Resulting|Transferee" + ")|(?:"
+                            r"de-?merg\w*[^.]{0,250}?\binto\s+" + crx + ")", re.I)
+    outbound_rx = re.compile("(?:" + crx + _ROLE_TAIL % "Demerged|Transferor" + ")|(?:"
+                             r"de-?merg\w*\s+of\s+[^.]{0,200}?\bof\s+" + crx + r"\s+into\b)", re.I)
+    inn = [m for m in inbound_rx.finditer(head)]
+    out = [m for m in outbound_rx.finditer(head)]
+    if inn and not out:
+        return "inbound", _snippet(head, inn[0].start(), inn[0].end())
+    if out and not inn:
+        return "outbound", _snippet(head, out[0].start(), out[0].end())
+    return "", ""
+
+
 def family_of(kind: str) -> str:
     return {"demerger": "spin-off", "subsidiary_listing": "partial spin-off / listing",
             "scheme_other": "scheme (nature unclear)", "merger": "merger",
@@ -425,6 +463,20 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
             stage = "rumoured"
         if facts.get("withdrawn_on") and facts["withdrawn_on"] >= last:
             stage = "withdrawn"              # the latest word is the withdrawal
+        if kind == "demerger":
+            # which way the demerger runs for this company, across its filings:
+            # inbound only when every reading says so
+            votes: dict[str, int] = {}
+            quotes: dict[str, str] = {}
+            for r in filed:
+                d, q = demerger_direction(r["_text"] or r.get("_first") or "", fl[0]["company"])
+                if d:
+                    votes[d] = votes.get(d, 0) + 1
+                    quotes.setdefault(d, q)
+            if votes.get("inbound") and not votes.get("outbound"):
+                facts["direction"], facts["direction_quote"] = "inbound", quotes["inbound"]
+            elif votes.get("outbound"):
+                facts["direction"], facts["direction_quote"] = "outbound", quotes["outbound"]
         rc = facts.get("resulting_company")
         if rc:
             rc = re.sub(r"^(in the case of|the case of|case of)\s+", "", rc, flags=re.I).strip()
@@ -904,7 +956,15 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
                      or an INBOUND demerger — a business demerged INTO this
                      listed company from another entity, so nothing is
                      distributed to its shareholders;
-      (None, '')     a genuine separation."""
+      (None, '')     a genuine separation.
+    The direction read from the scheme text itself (facts['direction'],
+    see demerger_direction) comes first and needs no judge: a company the
+    scheme names as the Resulting / Transferee company is receiving a
+    business, not spinning one off."""
+    if sit["kind"] == "demerger" and sit.get("facts", {}).get("direction") == "inbound":
+        return "other", (f"inbound demerger — the scheme names {sit.get('company', 'the company')} as the "
+                         f"Resulting Company: a business is demerged INTO it and its own shareholders "
+                         f"receive no new listing (\"{sit['facts'].get('direction_quote', '')[:160]}\")")
     if sit["kind"] not in ("demerger", "scheme_other") or judge.get("status") not in ("judged", "cached"):
         return None, ""
     what = f"{judge.get('what_is_spun', '')} {judge.get('reason', '')}"

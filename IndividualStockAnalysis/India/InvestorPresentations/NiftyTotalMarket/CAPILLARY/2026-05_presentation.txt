@@ -1,0 +1,408 @@
+
+=== page 1 ===
+  
+www.capillarytech.com  
+ 
+Capillary Technologies India Limited   
+CIN- L72200KA2012PLC063060  
+Regd. Office - 360, bearing PID No: 101, 360, 15th Cross Rd, Sector 4,  
+HSR Layout, Bengaluru, Karnataka 560102  
+Email:  secretarial@capillarytech.com  
+Website: www.capillarytech.com  
+Tel:  080-41225179  
+ May 14 , 2026  
+ 
+To  
+BSE Limited  
+Listing Department  
+Phiroze JeeJeebhoy Towers, Dalal 
+Street Fort, Mumbai -400001    
+Scrip Code: 544614  
+                                      To, 
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza , Bandra Kurla Complex  
+Bandra (East), Mumbai -4000051  
+Symbol: CAPILLARY  
+Dear Sir/Madam , 
+ 
+Subject: Investor Presentation under Regulation 30 of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations 2015.  
+ 
+In continuation of our intimation dated May 7, 2026 regarding Analyst/Institutional meeting  
+scheduled on May 14, 2026 at Mumbai. We are enclosing herewith Investor Presentation for the 
+same.  
+ 
+This intimation is als o being placed on the website of the Company at 
+https://www.capillarytech.com/investors/shareholder -information/corporate -
+announcements/   
+ 
+We request y ou to take the above information on records.  
+ 
+Yours faithfully,  
+ 
+For Capillary Technologies India Limited  
+ 
+ 
+ 
+ 
+Gireddy Bhargavi Reddy  
+Company Secretary and Compliance Officer  
+Membership No. A17091  
+Place: Bengaluru  
+=== page 2 ===
+Copyright © 2026 Capillary Technologies India Limited
+Analyst & Investor Day Presentation14th May, 2026
+=== page 3 ===
+Aneesh Reddy  BodduFounder, Managing Director and CEO
+Anant ChoubeyWhole-time Director, CFO and COO
+RohanMahadarChief Product Officer
+PiyushKumarChief Technology Officer
+Siddhant JainChief Customer Officer
+Today’s Presenters
+
+=== page 4 ===
+●Capillary At a Glance ●Transitioning to AI Native Company○AI-Native Product○Adoption and AI-Native Pricing ○AI-Native Org structure●Q&A and Break●Growth: Revenue and Profits○Organic Growth Playbook○Inorganic Growth Playbook●Business & Financial Performance ●Long-term Value Creation & FY 30 Outlook ●Q&A and Closing Remarks
+Agenda
+
+=== page 5 ===
+Copyright © 2026 Capillary Technologies India Limited
+Capillary At A Glance
+
+=== page 6 ===
+Global Market Leader in Loyalty and Engagement Management 
+1.  Capillary was named a leader in the Forrester Wave (™):Loyalty Platforms, Q4 2025
+DallasUK
+Saudi ArabiaUnited Arab EmiratesBengaluru (HQ)MalaysiaSingaporeIndonesiaThailandPhilippinesGermanyMinneapolis
+Vietnam
+Hong Kong
+Canada
+Mumbai
+415+BrandsGlobal reach tapping into the unique needs and preferences across regions
+Awards & Recognitions
+~700Employees Worldwide1.9 Billion+Consumerson the Platform
+16Global Offices
+49Countries20Fortune 500 Customers
+Select Countries and Cities with Offices or Customer Presence
+99.999%Product Uptime
+Australia
+New Zealand
+Offering AI-powered Cloud-native Products and Solutions to Large Enterprise Customers Globally monetized through long term subscription contracts
+* As of March 31, 2026
+
+=== page 7 ===
+Client & Industries We Work Across The World
+
+=== page 8 ===
+Independent Recognition –Forrester Wave™
+Capillary has extensive genAI capabilities, including its aiRA (AI assistant) and Nudge Framework, to help marketers build and optimize promotions conversationally
+Capillary Technologies named a Leader in Loyalty Platforms.—The Forrester Wave(™): Loyalty Platforms, Q4 2025* Highest among all vendors in both Current Offering and Strategy* 5/5 Score in 22 out of 27 Criteria
+AI-First Platform Approach
+Supports Complex Program
+Customer FeedbackThe Forrester wave (™): Loyalty Platforms, Q4 2025 
+Capillary excels across most capabilities including program flexibility, UX, and AI-driven insights. Its platform supports complex programs, including coalition, subscription, and gamified formats.Customers praise Capillary’s usability, AI enablement, and promotion flexibility.While some customers aren’t ready to take on full genAI features today, they appreciate Capillary’s forward-leaning approach to innovation.Forrester does not endorse any company, product, brand, or service included in its research publications and does not advise any person to select the products or services of any company or brand based on the ratings included in such publications. Information is based on the best available resources. Opinions reflect judgment at the time and are subject to change. For more information, read about Forrester’s objectivity hereWhat We Think Got Us Here:
+
+=== page 9 ===
+Global Loyalty Management Target Addressable Market (US$bn)Target Addressable Market -Loyalty Management1. As CACs are steadily increasing, businesses are shifting focus from pure acquisition strategies to customer-centric metrics like NPS1, Retention, LTV2
+~60%5U.S. client-side marketers6indicated that loyalty marketing would be more important in 20255x Higher3Cost of acquiring a new customer than retaining an existing customer15%-40% HigherCustomer LTV2by loyalty enrolled customers than non-members
+Increased AOV & UpsellingLoyalty programs that offer immediate rewards or tiered benefits can significantly boost customer spending4.8xAvg. ROI in loyalty programs by 90% of loyalty program owners3. Loyalty programs have proven to be a key driver of customer engagement and brand preference72%Consumers are likely to join the loyalty program, before making their first purchase2. Nearly every Fortune 500 company has some form of loyalty marketing program~90%4Loyalty program owners report a positive ROI
+Source: Zinnov Report. Notes: (1) Net Promoter Score (2) LTV –Lifetime Value (3) As per the study by Optimove (4) As per a study by Queue.it (5) According to the Association of National Advertisers (6) Refers to professionals employed directly by brands or organizations to manage and execute marketing strategies
+
+=== page 10 ===
+Mature Market, largely agency-driven with limited greenfield opportunitiesDeep Dive on Regional Markets
+North America
+APAC
+EMEA
+Fastest Growing Market with highest greenfield opportunitiesMarkets as large as APAC with moderate growth and greenfield opportunitiesLoyalty Management TAM (US$bn)Loyalty Management TAM (US$bn)Loyalty Management TAM (US$bn)
+Market Share -44%Market Share -29%Market Share -27%
+
+=== page 11 ===
+Our Product Suite that helps Brands Stay Consumer Ready!
+Rewards+Extensive Global    Rewards NetworkEngage+Personalized Customer CommunicationInsights+In-depth Analysis With Automated ReportsLoyalty+Increase Customer Retention EfficientlyCapillary Platform with aiRA[AI-powered Research Assistant]Capillary’s AI/ML-powered platform captures data and creates a customer single view —from loyal & other customers —for information, insights, engagement and personalised experiences
+Data Sources-POS/Kiosks-eCommerce-Mobile App-Social Media-Third-party data-Search & click data-Wearable devicesSimplified Bulk & API Integration using Connect+Platform feature extensibility using  NeoCustom UIs using VulcanCapillary Web SDK & Mobile SDKCampaign integrationwith paid mediaBuild a RelationshipKeep Them EngagedUnderstand ThemReward & Incentivise
+
+=== page 12 ===
+Copyright © 2026 Capillary Technologies India Limited
+Transitioning to AI-Native Company
+
+=== page 13 ===
+AI-Native CapillaryThree pillars of Capillary’s AI evolutionStrategic budgetingDecrease avg time-to-hire by 20%. Achieve 50% participation in leadership program. XX
+3Strategic budgetingDecrease avg time-to-hire by 20%. Achieve 50% participation in leadership program. XX
+2Strategic budgetingDecrease avg time-to-hire by 20%. Achieve 50% participation in leadership program. XX
+1AI-Native Products●Outcome delivering products and services●aiRA suite●aiRA extending into Engage+ & Experience+AI-Native Org Design●Re-organizing key processes in the company for an AI native org: Large Ship to Smaller Speedboats●AI-Native M&A -Radical reduction in time to upgrade M&A acquired customers to Capillary PlatformAI-Native Pricing●Loyalty pricing will continue to be System of Record based on members or transactions●Usage or outcome based pricing for aiRA●Low entry price, which scales with usage
+
+=== page 14 ===
+Copyright © 2026 Capillary Technologies India Limited
+AI-Native Products
+
+=== page 15 ===
+OPPORTUNITY 4
+OPPORTUNITY 3
+Capillary Technologies · FY 2026–27The Opportunities Ahead
+OPPORTUNITY 2True 1:1 personalisation is finally possible●Gen AI + predictive analytics collapse the cost of per-individual audience, offer, creative and journey●Step-change lift on response, conversion, retention, CLV. Favours the platform with the richest first-party behavioural data
+●Capillary has shipped loyalty into retail, fuel, travel, airlines, healthcare and BFSI —each with its own customer economics, regulatory regime and lifecycle logic ●The platform encodes that depth; vertical agents inherit it on day one●Context layer is rich with brand > vertical > geo understandingOPPORTUNITY 1AI-Led Analytics ●aiRA analytics agent: No hallucination, brand and vertical context-rich platform purpose-built for marketers ●Actionable insights, deeper reasoning, descriptive, prescriptive and predictive analytics●Significantly better accuracy compared to conventional analytics in fraction of time and effortAgentic commerce empowers brands●Loyalty repositions from retention tactic to the commercial interface with every agent transacting on a customer's behalf●Agents will be a lot more rational and efficient in their shopping decisions●Shopping agents —Rufus, Gemini, Operator —are shipping now. Brands need a machine-readable layer to recognise agents and preserve pricing power.
+Vertical Depth is a Differentiator
+=== page 16 ===
+01The FoundationSystem of Record · Loyalty platform●Leading loyalty program management platform●A trusted SOR with reporting and deep configuration and setup capabilities→
+02The IntelligenceSystem of Intelligence · aiRA Analytics Agent●The flip from data-first (hunting for trends in dashboards) to intent-first (state a goal, get a hierarchical, action-ready answer)●White space in loyalty marketing→
+03The ActionSystem of Actions · aiRA Action Agents●Insights become campaigns on the same Capillary platform●Deliver personalised digital experiences-games, content, notifications, offers at scale without app releases or codingThree Layers, One Platform —SOR → SOI → SOA
+Capillary Technologies · FY 2026–27
+=== page 17 ===
+Capillary Technologies · FY 2026–2701Breadth & DepthSpans every major retail-adjacent vertical —fashion, F&B, fuel, beauty, electronics, grocery. Decade-long longitudinal transactions tied to consented consumer profiles.415+Brands49Countries10B+Txns/yr1.9B+Consumers02Data Across Verticals and GeographiesMulti-domain coverage means the model is not learning one industry's patterns. Loyalty mechanics, promotion economics, channel preferences, lifecycle behaviour—observed across categories that rarely share data with each other.03CompoundingEvery transaction adds signal. Every brand onboarding widens coverage. The SessionM+ Capillary integration extended the graph further with the existing global footprint.04Trust & Data ProtectionEnterprise-grade security and compliance baked into the platform —SOC 2 Type II, ISO 27001, GDPR, CCPA, regional data-residency controls, role-based access, audit logging end-to-end. Brand data stays within tenant boundaries; PII is masked before any model call.The system with the strongest data gravity becomes the default system of record and intelligence. Loyalty is that system inside the marketing stack.SOR -The Deepest First-Party Customer Graph In The Industry
+
+=== page 18 ===
+System of Intelligence 
+Capillary Technologies · FY 2026–27From data-first to intent-first —what changes when intelligence sits on top of the record
+The marketer searches the dataOpens the dashboard.Picks a metric that looks off.Slices by segment, channel, time.Builds a hypothesis. Pulls a second report to validate.Hands off to analytics for confirmation.Iterates manually until something defensible emerges.Cycle time: days to weeks· most questions never get asked because the search cost is too high.→
+aiRA searches for the answerMarketer states the objective:"Why did Tier 2 churn rise last quarter?"aiRA decomposes the question, queries the right data, reasons through the hierarchy.Returns a ranked set of causes, each with a recommended action and expected impact.Marketer makes the decision; the work is shown.Cycle time: minutes· questions get asked because asking is seamless and effortlessThe flip is not faster analytics. It is a different division of labour —the marketer brings the question and the judgment; aiRA brings the search and the reasoning. Decisions that used to take a quarterly review now happen inside a single conversation.
+BEFORE · WITHOUT AIRAAFTER · WITH 
+
+=== page 19 ===
+Capillary Technologies · FY 2026–27Analytics AgentThe marketer states an objective. aiRA decomposes it, queries the data, and returns a hierarchical insight with ranked next actions.Natural-language analytics —ask a business question; get an answer with the work shownProactive anomaly detection —aiRAflags what the marketer should be asking aboutNext-action suggestions —every insight comes with a ranked list of recommended interventions
+System of Intelligence -> Analytics Agent
+
+=== page 20 ===
+Capillary Technologies · FY 2026–27Customer Introduction -Polycab
+Chief Digital OfficerHe is the Chief Digital Officer at Polycab India, one of India's largest electrical companies. He leads Polycab's digital transformation agenda, driving Al, data, and connected customer experiences.Ritesh Arora
+
+=== page 21 ===
+Capillary Technologies · FY 2026–27
+System of Action -> Execution Case StudyaiRA in ActionPolycab India -Marketing Campaign AutomationTHE CHALLENGETHE APPROACHTHE IMPACTPolycab's influencer management programme covers a large, 100% KYC-validated base of retailers and electricians. Yet, the process of identifying high-potential segments and executing personalised campaigns was heavily manual limiting speed, scalability, and monetization●Generating campaign strategy for the month●Cohort creation for personalized campaigns for retailers / electricians●Differentiated points rewards, upsell, cross-sell etc●Automation of journey building2-3 Daystraditional executionMinutes with
+Campaign setup, segmentation, and execution—fully automated.
+
+=== page 22 ===
+Capillary Technologies · FY 2026–27The Harness ArchitectureHow aiRA decomposes one marketer prompt into averifiable sequenceof agent decisions, tool calls and deterministic code
+Marketer prompt"Why did Tier 2 churn rise?"→01 · AgentPlans→02 · ToolsPicks→03 · CodeExecutes→ReturnedHierarchical insight + ranked actionssystem controls the loopmodel controls the loopdeterministic · sandboxed
+Memory & retrieval —the harder problem-Storage is lossless: every interaction, decision and tool call is logged-Retrieval is domain-structuredrather than vector-only —knowledge organised by work domain (analytics, promotions, journey) and filtered by health scores (freshness, usage, confidence)-Domain-first retrieval beats pure-similarity retrieval in long-running enterprise sessions—this is where the platform team's most concentrated investment goesThe harness & orchestrationOrchestrationContextMemoryGuardrails
+Agent layerDECIDESWhat to do next: call a tool, retry, escalate to a human, or terminateOWNSSession lifecycle, task graph, working memory, context-window budget, RBAC enforcementTools layerDECIDESWhich of 60+ domain toolsto call, with what arguments, in what orderOWNSMCP tool registry, schema validation, PII masking pre-call, permission checks, response normalisationCode layerDECIDESNothing.Executes exactly what the upper layers requested.OWNSPython / SQL / config execution, whitelisted import sandbox, human-approval gates for high-risk ops
+
+=== page 23 ===
+Capillary Technologies · FY 2026–27What Is Shipped, and Where Are We Going?aiRA: from an analytics assistant to the marketer's action engine01LAUNCHEDLive todayAnalytics & Insights AgentNatural-language analytics. Proactive anomaly detection. Next-action suggestions. Live across brand programs.02LAUNCHEDLive todayMarketer's Decision EngineIntent-based campaign execution. Marketer states the goal; aiRA configures audience, channel, incentive, creative.03IN PROGRESSFY26–27Autonomous Action EngineAlways ON self-optimising journeys and campaigns. BYO-ML for brand-specific models.04UPCOMINGFY26-27Vertical Agentic Solutions (AASv)Stylist, program-design, clienteling and support agents. 
+
+=== page 24 ===
+Copyright © 2026 Capillary Technologies India Limited
+Adoption & AI-Native Pricing
+
+=== page 25 ===
+AI-Native PricingSystem of RecordLoyalty platform●Leading loyalty program management platform●The current running structure●Per transaction or per member based pricing with thresholds aligned with business metrics→System of IntelligenceaiRA Analytics Agent●The flip from data-first to intent-first approach●White space in loyalty marketing●Pricing depends on the complexity of the data queries. Starts with a low base slab and increases as linked to activity/outcome→System of ActionaiRA Config Agents●Insights become campaigns on the same Capillary platform●Personalised experiences & content, at scale●Usage based pricing, allowing a marketer to optimize as per seasonal trends 
+
+=== page 26 ===
+Source: aiRA usage telemetry · Nov 2025 –Apr 2026aiRA Adoption —One Brand, and the MarketA flagship brand example alongside the broader market signal —Adoption inside one customer, and total brand-user activity across the platform.aiRA USAGE in 1 early adopter brand3,836CUMULATIVE ACTIVITIES  ·  NOV '25 → APR '269.2×monthly growth vs Nov '25
+ACTUAL BRAND-USER USAGE11,089CUMULATIVE ACTIVITIES  ·  NOV '25 → APR '2645.3×monthly growth vs Nov '25
+aiRA Adoption
+=== page 27 ===
+Copyright © 2026 Capillary Technologies India Limited
+AI-Native Org design
+
+=== page 28 ===
+The Paradigm ShiftEconomics of ExpertiseJust as Cloud Nativechanged the economics ofCompute, AI Nativeis fundamentally changing the economics of Expertise.Beyond the ChatbotJust asCloud Nativewas not aboutmoving servers to cloud,AI Nativeis not about deploying interfacesDeterministic vs Probabilistic SystemCloud Systemswere deterministic, AI systemsareprobabilisticdemanding new governance layers, human supervision and constant evaluation loops integrated into the org design fabric
+
+=== page 29 ===
+7 Pillars Of AI-Native DesignFlatter Organizations:AI reduces coordination overhead, enabling a significantly broader span of effective leadership.Small High-Leverage Teams:Moving from bulky ships to nimble "speedboats" with expertise made available via API.Outcome-Based Pods:Reorganizing functional silos into outcome-driven units as AI fills traditional coordination gaps.Moving Up the Stack:Humans shift from status reporting to judgment, innovation, creativity, and exception handling.Shared Knowledge Assets:Institutional knowledge becomes a fluid asset instead of being trapped in localized expertise.AI as a New Organizational Layer:AI sits alongside humans as copilots, advisors, and autonomous workflow coordinators.Reduced Latency: Drastic reduction in information, decision, and coordination latency across the entire enterprise.
+
+=== page 30 ===
+AI-Native Engineering Organization
+
+=== page 31 ===
+3-4 Teamsare retained in the traditional model to safeguard Security, Core Infrastructure, and Critical Entity Logicwhere centralized governance is paramount.LEGACY LARGE-TEAM MODEL15 TeamsStandardized functional squads with high coordination overhead.Small, high-leverage units enabled by AI to focus purely on rapid outcome delivery.Typical 12-Person Squad
+AI-NATIVE OUTCOME PODS30-35 Teams80% ShiftOf Organization
+EXECUTION PODPM + Lead + 2 EngARCHITECTURE PODArchitect + 2 EngSTRATEGIC PODPM + Arch + Solution Arch+ 30 more pods...
+Engineering Structure: The Shift 
+AI LAYER
+
+=== page 32 ===
+Legacy M&A Integration ChallengesThe "Previous World" FrictionManual Discovery ("What"):Human-led efforts to uncover tech stacks, workloads, and environment metrics.Knowledge Silos:Information remains trapped in historical documents and inconsistent human memory.Configuration Blindness:Crucial logic is often buried deep in production configs and actual usage patterns.Trade-off Crisis:Teams struggle to balance speed(duration) with thoroughness(comprehensiveness).→→→→
+
+=== page 33 ===
+AI-Native M&A: The Capillary Way
+"Transforming integration from a duration problem into a deterministic execution loop."Shared Knowledge BaseAI automatically ingests historical docs, codebases, and metrics to solve the "What"phase instantly, eliminating discovery latency.AI Organizational LayerAI acts as a continuous layer identifying patterns across platforms, discovering workflows, executing upgrades and running evaluations.Humans Move Up-the-StackHumans shift from data extraction to high-level roles: Problem Definers, Governors,andDecision Makers.Outcome-Based PodsSmall, agile speedboats focused entirely on integration outcomes. AI executes complex migration patterns while teams manage the "How".
+
+=== page 34 ===
+AI-Led Transformation in Professional Services
+TEAMEVOLUTIONSmaller speed boatsBEFORE5+ hand-offs, sequential
+PM›
+SA›
+Dev›
+QA›
+Config›
+Support→NOWSpeed-boat pod • AI-augmented
+Multi-Agent Skills
+AI core
+End-to-endEfficiency Gain
+PROCESSAI-first pipelineBEFOREmanual, sequential, context lostBRDSDDCodeQANOWeach step auto-feeds the next, grounded in Capillary docs + MCP + context
+RECORD›
+BRD›
+SDD›
+CODE + CONFIG›
+QA
+DELIVERYSPEEDProject Concurrency per teamBEFORE1-2 projectsNOW3-4 projects036Leaner pods + AI-first pipeline  =  efficient and better quality production-grade delivery—ready to scale across every customerOne-at-a-time customer roll-outs. Long QA tails, late-stage defects, slow go-lives.Faster go-lives, more deals delivered concurrently with the same bench.How team, process, and delivery are changing —at a glance
+
+=== page 35 ===
+Copyright © 2026 Capillary Technologies India Limited
+Growth:Revenue & Profits
+
+=== page 36 ===
+Growth & Profitability Levers: Organic and  Inorganic View 
+Organic Growth and Profitability LeversNRR ExpansionNew Customer WinsGrowth from addition of new logos
+M&AGrowth through acquisitions
+Growth from expansion of existing customersNRR linked margin expansionExpansion of margins from existing customer growthLeverage on non-CoS CostEfficiencies on costs below Gross MarginInorganic Growth and Profitability LeversUpgrade of Customers from M&AProfitability growth through upgrade of M&A customers to our platformOrganic GrowthOrganic Profitability
+
+=== page 37 ===
+Copyright © 2026 Capillary Technologies India Limited
+Organic Growth Playbook
+
+=== page 38 ===
+Organic Growth: Revenue Trend
+CAGR 42%
+Organic Revenue growth₹ in Mn.Through our NRR expansionand new customer acquisition strategies, organic revenue has nearly tripled from ₹1,907 Mn in FY23 to ₹5,479 Mnin FY26, delivering a robust 42% CAGR.The subsequent slides highlight each of the organic growth levers and their historical performance.
+
+=== page 39 ===
+Organic NRR:Enterprise Customers Focused ‘Land and Expand’ Approach
+FocusonlandingEnterpriseCustomerAccountsandexpandingfurtherthroughprovidingupgradestoexistingsolutions,immersiveloyaltyexperience,cross-sellingandupsellingopportunities–Farmingasa%ofNewACVwas44%inFY26StrategytoincreaseNRRgrowthacrosscategories:Improving NRR from existing customers
+Category II:Cross Sell / Up Sell
+Category III:New Brands / New Geographies of existing customersCategory I:Inflationary Increase; platform usage overages
+
+=== page 40 ===
+NRR for FY26: Composition of Overall NRRNRR Breakdown: FY 26 ActualsTrailing 12 Months Ending Mar 31, 2026Business Composition 
+75% of our business is from organic revenue. 
+Performance Divergence 
+Organic NRR (114%)remains strong, confirming healthy core platform expansion and deep adoption of core Capillary offerings..Inorganic NRR (94%)reflects expected platform upgrade dynamics from acquired customers (Brierley/Kognitiv), with churn contained within projections.Total NRR (Blended)110%
+Organic114%
+Inorganic94%
+*Definitions: Organic = All revenue from customers on Capillary platform; Inorganic = Acquired assets not yet upgraded to Capillary platform or in the process of migration; TTM = Trailing Twelve Months.
+
+=== page 41 ===
+Organic Growth:New ACV, CAC % and deal dynamicsMaintainfocusonacquiringnewEnterpriseCustomersparticularlyinNorthAmericaandEuropeAbout40%ofnewcustomers(FY26)werereferredtousbylargeSystemIntegrators/ConsultingPartners–reflectingstructuralstrengththroughseamlessintegration,scalabilityandinteroperability.MaintainfocusondeliveringnewACVnumbersatefficientCACmetrics
+New Customer Acquisition
+ParticularsFY25₹ MnFY26₹ MnYoY%New ACV excluding healthcare entry61783435%1 large healthcare customer607380(-) 37%Total new ACV1,2241,214(-) 1%Number of deals (excluding 1 large healthcare customer)3438Average deal size (excluding 1 large healthcare customer)182222%FY25newACVof₹1,224Mn.includesthefirstyearofexpansionofthehealthcarevertical.OurYoYgrowthratewithoutthesameis35%fromnewannualcontractvalues.₹ in Mn.
+
+=== page 42 ===
+Profitability:NRR linked margin expansionAsNRRexpands,incrementalrevenuefromexistingcustomerscomeathighergrossmarginsandhelpinconsistentlyimprovingsubscriptionGMsovertheyearsAsM&Acustomersmigratetoourplatform,theorganicgrowthleverscomeintoplayandtheorganicbusinesscontinuesdeliveringstablemargins
+
+=== page 43 ===
+Profitability:Leverage on non-Cost of sales costsMorethan60%ofourexpensesarelinkedtotechnology,salesandmarketingandcorporatefunctionswhichdonotgrowlinearlywithrevenuesInFY26,thisnon-COSbucketincreasedYoYbyonly14%comparedtothe23%increaseinrevenuefromoperations.Q1uptickisdrivenbytheKognitivacquisition.InlinewithourM&Aintegrationapproach,centralfunctionabsorptionoverthecourseoftheyearunwinds,leavingtheheadcountleanerandwell-positionedgoingintothenextfiscal.
+
+=== page 44 ===
+Organic Profitability: Margin generation from NRR, new ACV
+FY27 Organic Revenue₹ 673Cr15% 3-year CAGR₹ 100-120CrIncremental Organic Adjusted EBITDA at 35% margins350 cr.Organic Revenue at 35% EBITDA100%
+New ACV−30–35%Cost of service=65–70%
+Gross margin−10–15%20%Below CMCACSales + below CM=35–40%Adjusted EBITDABelow CM = R&D and Corporate/Admin35%-40% generated from new ACV
+
+=== page 45 ===
+Copyright © 2026 Capillary Technologies India Limited
+Inorganic Growth Playbook
+
+=== page 46 ===
+Inorganic Growth Strategy: Disciplined Acquisitions of Loyalty companies in a Fragmented Market
+$8bnNorth AmericaLoyalty TAM (2025)
+Numerous small to mid-sized firms with dedicated customer basesLimitedResources of small –mid sized firms, often hindering ability to invest in modernizing platforms
+75% -80% of US Enterprises already using some loyalty solutionSmaller firms operate on outdated systems and lack the capital necessary for technological upgrades
+Target companies with enterprise customers and significant presence in US Targeting Small-Mid Sized Businesses
+CAC Substitution –Upgrading Customers to Capillary’s PlatformUpgrading acquired customers to platform, with aim to boost EBITDA & Gross Margins and generate additional free cash flows
+Ensuring seamless integration and synergyby selecting acquisitions that complement our existing capabilitiesComplementing Existing CapabilitiesPrime Candidates for Acquisition by Larger Entities
+Fragmented North America Loyalty Market
+Disciplined Approach To Acquisitions
+Continue exploring inorganic growth opportunities in North America and selectively expand into evolved markets such as Europe
+
+=== page 47 ===
+Acquire companies at 0.5-1.5x of Price / Sales Multiples for reasonable payback period and RoICMigrating acquired customers to platform, with aim to boost EBITDA & Gross Margins and generate additional free cash flowsTierRevenue RangeEstimated # of Companies Estimated Market SizeLarge$50M+~ 15$2.5BMid-Market$10M –$50M~ 70–90$2.4BSmall /Boutique$2M –$10M~ 100–120$0.7BTotal~ 190–230$5.6BM&A -Focus Segment and Opportunity
+OutofoverallGlobalLoyaltyManagementTAMof$18.2B,~30%isestimatedtobepurelyAgency-led(Services-heavymodel),whichtranslatesto~$5.6B.Outof$5.6B,$2.4Bisamid-marketsegmentwhereCapillaryisactivelyexploringM&Aopportunities
+2025E Region mix of $5.6B Agency-Led market
+Prime Acquisition TargetTarget companies with marquee enterprise customers with less revenue concentrationClient ProfileGeography FitPriority: North America  and EMEA for Scale, APAC for growth optionality
+Valuation RangeMigration to Capillary Platform
+
+=== page 48 ===
+Past M&As: Revenue retentionPersuade, Brierley and Rewards customer will have fully upgraded to Capillary platform in FY27Revenue retention: 68% post upgrades (average 3 -4 years post M&A)
+68% revenue retentionRevenue in first year of acquisition₹ 265CrPersuade in FY22 -₹ 34 CrBrierley in FY23 -₹ 146 CrRewards+ in FY23 -₹ 85 CrRevenue from retained customers in FY27₹ 181Cr
+
+=== page 49 ===
+Proven M&A Playbook: Disciplined execution of strategy
+Persuade Contribution Margin (INR Mn)Turnaround of Acquired BusinessesB+P Contribution Margin (INR Mn)Rewards+ Contribution Margin (INR Mn)
+All three businesses acquired prior to FY25,, Persuade, B+P, and Rewards+, have successfully turned around to deliver healthy contribution margins within 2-3 years of integration. Persuade scaled from a loss of (-) 17% in FY23 to 41% by FY26, while B+P swung from (-) 4% to 40% in two years post acquisition with migrations. Rewards+ turned around from (-) 2% to 45% over the same window. The consistent margin trajectory across diverse acquisitions validates Capillary's playbook of disciplined post-merger integration, suggesting continued M&A can be a reliable lever for inorganic growth and earnings accretion.
+
+=== page 50 ===
+Estimated
+Investment of ~₹ 122 cr. At revenue multiple of ~ 1.4xPayback estimated in 3.9 yearsInvestment of ~₹ 111 cr. At revenue multiple of ~ 0.8xPayback estimated in 4 yearsInvestment of ~₹ 39 cr. At revenue multiple of ~ 0.4xPayback achieved in 2.5 yearsInvestment of ~₹ 107 cr. At revenue multiple of ~ 3xPayback achieved in 4.6 yearsPast M&As: Payback
+Consistent 20%+ ROIC delivered signaling Capillary’s ability to turnaround businesses and achieve profitability~4 years cash payback on M&ABrierleyApril 2023Rewards+June 2023PersuadeSeptember 2021KognitivMay 2025AchievedAchievedEstimated
+
+=== page 51 ===
+Inorganic Profitability: Margin turnaround from SessionM, Kognitiv
+FY27 Inorganic Revenue₹ 391Cr
+FY27 Inorganic Adj. EBITDA₹ 20Cr57% Inorganic GM5% Inorganic CM75% Revenue Retention
+●₹ 300 cr.(75%)inorganic retained in long-term●~45% margins generated -₹ 133 cr. steady-state Inorganic CM100-120 cr.Adj. EBITDA from inorganic₹ 290-310Cr₹ 120-140Cr62% Inorganic GM45% Inorganic CMSteady state Inorganic Revenue visibility post platform upgrades
+Steady state Inorganic Adj. EBITDA visibility post platform upgrades
+
+=== page 52 ===
+Copyright © 2026 Capillary Technologies India Limited
+Business & Financial Performance
+
+=== page 53 ===
+Headline Results
+Revenue from Operations₹ 1,913.5Mn26% YoY 
+Adjusted EBITDA₹ 357.2Mn28% YoY 
+Profit After Tax (PAT)₹ 433.6* Mn23% margin₹ 7,346.0 Mn23% YoY 
+₹ 1,069.2Mn43% YoY 
+Q4 FY 26FY 26
+* Includes ₹ 249.6 Mn. of exceptional income and ₹ 12.6 Mn. of one-time expenses** Includes ₹ 249.6 Mn. of exceptional income and ₹ 48.5 Mn. of one-time expensesNormalised PAT₹ 196.6 Mn10% margin₹ 523.9** Mn7% marginNormalised PAT₹ 322.8 Mn4% margin
+
+=== page 54 ===
+Revenue and Profitability Growth
+CAGR 53%
+Revenue growth₹ in Mn.Adjusted EBITDA growth₹ in Mn.
+●Delivered strong top-line growth with revenue scaling from ₹2,071 Mn. in FY23 to ₹7,346 Mn. in FY26, representing a 53% CAGR. This reflects consistent performance of our organic and inorganic growth engines. ●Adjusted EBITDA turned positive in FY25 climbing sharply at 43% YoY to ₹1,069 Mn in FY26 at a 14.6% margin, signalling improving unit economics and operating leverage at scale. This results from our improved Gross Margins through NRR expansion, operating leverages on non COGS costs and from M&A synergies.●FCF of ₹ 1,106 Mn generated in FY26 at 15% margins on revenue. On Rule of 40, the 23% YoY growth and the FCF margin takes us to 38.
+
+=== page 55 ===
+Sequential growth -RevenueDelivered 15 consecutive quarters of growth, reaching ₹1,913 Mn. in Q4'26 —a 4.2x increase since Q1'23.₹ Mn.
+
+=== page 56 ===
+Sequential Growth -Adj. EBITDAAdj. EBITDA scaled from a ₹(-) 45 Mn. loss in Q1 FY23 to ₹357 Mn. in Q4 FY26, with margins expanding to an all-time high of 19%.
+₹ Mn.
+
+=== page 57 ===
+Profitability Metrics
+●Our FY26 Adj. EBITDA grew YoY at 43% to ₹1,069 Mn.●The 3M Adj. EBITDA at 28% YoY growth closed at ₹357 Mn.at 19% margins.●At normalised levels, PAT increased to ₹ 197 Mn. in Q4 FY26at YoY growth of 51% and to ₹ 323 Mn. in FY26at YoY growth of 128%
+Q4 FY 26 PerformanceNormalised Adj EBITDA / PATPATQ4 FY 26PATFY 26PAT (% margins)433.6 (23%)523.9 (7%)One-time gratuity expenses impact due to Direct Labour Code ('DLC')-16.1IPO expenses12.632.4Exceptional income(249.6)(249.6)Normalised PAT (% margins)196.6 (10%)322.8 (4%)PAT Q4 FY 25 and FY25 (% margins)130.2 (9%)141.5 (2%)Year on year growth %51%128%YoY Normalised PAT growth
+FY26 Performance₹ in Mn.
+
+=== page 58 ===
+Cash conversion: Our structural advantageEvery ₹100 of Adjusted EBITDA converts to ₹103 of free cash. Every ₹100 of PAT to ₹211 of free cash.
+FCF / Adj. EBITDA103%FY 26  |  FCF ₹1,106 Mn vs EBITDA ₹1,069 MnFor every ₹100 of reported EBITDA,₹103 is generated as free cash.
+FCF / PAT211%FY 26  |  Free Cash Flow > 2×Net ProfitReported profit is fully backed —and more than doubled —by real cash.Why conversion exceeds 100%:  Annual subscription contracts with upfront billing —customers pre-fund our operations. Deferred revenue structurally runs ahead of recognised revenue. This is model design, not a one-off.
+OCF = Net cash generated from operating activitiesFCF = Free Cash Flowcomputed as OCF minus Capital expenditures
+=== page 59 ===
+₹5,069 Mn —Two Sources of Strength, One Balance SheetIPO primary proceeds provide strategic capital for M&A. Operations independently generate ₹1,499 Mn cash annually. Both are visible in the bridge below.
+Total cash & bank₹5,069.9 Mn31 March 2026  (incl. IPO proceeds)
+IPO primary proceeds less IPO expensesIPO Primary raised  -3,450.9 MnLess: IPO expenses -137.9 MnTotal Proceeds         -3,313.0 Mn
+FY26 Operating Cash Flow₹1,499.1 MnPure operational generation —ex-IPOCash bridge —FY25 closing → FY26 closing₹2,365FY25Cash+3,313
++IPOProceeds+₹1,499+OCF-₹394-Capex-₹1,472-M&ACash₹5,070
+FY26CashCash balance —FY23 to FY26Operational cashIPO proceeds
+₹578FY23₹1,928FY24₹2,365FY25₹5,070
+FY26The operational story stands on its own:  ₹1,499 Mn OCF generated purely from the business, independent of IPO proceeds. OCF/EBITDA of 140% confirms earnings quality —every rupee of profit is backed by real cash.Debt Repayment  & OthersCash-₹241
+
+=== page 60 ===
+22% CROIC Today —and Structurally ExpandingCash return on invested capital is the right lens for a subscription business in an active M&A phase.
+CROIC —Cash Return on Invested Capital22%FY26  |  Adj. EBITDA ÷avg. Invested Capital
+ROCE —Return on Capital Employed3%Why low?  Capital employed includes ₹5 Bn+ of IPO cash on balance sheet + acquisition goodwill. CROIC strips these out to show true operating returns.CROIC trend —FY23 to FY26
+FY23FY2417%FY2522%
+FY26-2.9%-0.3%`Why CROIC will improve further —the capital deployment lagMost invested capital is M&A. Margin creation lags investment by 24–30 months. CROIC only grows as acquisitions mature.PHASE 1Capital deployedM&A investment upfrontKognitiv (~₹122 cr) sits in the FY26 invested capital denominator from acquisition. SessionM (closed May 1, 2026) enters the denominator only in FY27 —and at net ~$0.6M cash paid, barely moves it.PHASE 2Integration window24–30 monthsPlatform migration and customer onboarding happen over this window. CROIC is temporarily suppressed —the denominator is already full while the numerator (Adj. EBITDA) is still ramping toward full contribution.PHASE 3Full contribution60–65% GM  |  30–35% FCF marginSame invested capital. GM moves from ~30% to 60–65% post-migration, generating 30–35% free cash flow margins. CROIC expands mechanically —no new capital required, no macro tailwinds needed.The result:  22% CROIC (FY26) reflects Kognitiv capital already deployed but not yet fully earning. SessionM joins the denominator in FY27atnear-zero incremental cost (~$0.6M net). As both migrate to 60–65% GM and 30–35% FCF margins, CROIC expands mechanically.
+
+=== page 61 ===
+Copyright © 2026 Capillary Technologies India Limited
+Long-Term Value Creation | FY30 Outlook
+
+=== page 62 ===
+Capillary’s Long-term Outlook
+LeversofNRRexpansion:-platformusageoveragesandinflationaryincreases,-productupgradesandserviceupsells,and-newbrands,geographiesandbusinessunitsAcquisition of new customersORGANIC BUSINESS -Customers on Capillary platform20%+Organic Annual Growth RateINORGANIC GROWTH -Kognitiv, Session M, future M&A45%+Free CashFlow post IntegrationCustomerintegrationin24-36monthsInvestmentpaybackin4-5yearsROICof20%+~75%Revenue Retention through integrationOperating leverage on non-COGS cost2x+
+Margingrowththrough-GrossMarginincreasethroughNRR-Belowgrossmargincostsgrowatmuchslowerpacethanrevenue
+
+=== page 63 ===
+Capital Allocation PrioritiesDeploying ₹5,069.9 Mn. closing cash and future internal accrualsGUIDING PRINCIPLES20% organic growthM&A platform integrationsMaintaining 6-month liquidity buffer20%+ ROIC on new acquisitionsOrganic GrowthS&M Expansion driving New ACV winsFortune 500 enterprise wins, further expansion in North America and EuropeNRR Expansion115% organic NRR target via 3 levers20%+ Organic Revenue CAGR  2x Operating Leverage on Non-CoGSResearch and DevelopmentExecuting our AI roadmap and enhancing our competitive positioningKognitiv and SessionMIntegrationsCost SynergiesStreamline operations to move to organic Gross MarginsPlatform IntegrationIntegrate acquired customers to core Capillary platform using our AI-powered migration capabilitiesPayback Horizon4–5 year cash investment payback75% Revenue Retention post integration 45%+ FCF post integrationFuture M&ATargetsTargeting future M&As in North America and EuropeNew Geographies and IndustriesEntry into high-NRR potential markets and newer industry verticalsReturn frameworkROIC 20%+, payback ≤5 years —gate criterion for capital deploymentROIC 20%+Integration in 24–36 MonthsPayback ≤5 Years
+
+=== page 64 ===
+Long term outlook: Adjusted EBITDA in steady-state
+Adj. EBITDA estimate FY27₹ 172CrOrganic -₹ 152 cr.Inorganic -₹ 20 cr.Revenue estimate FY27₹ 1,065CrOrganic -₹ 673 cr.Inorganic -₹ 392 cr.●₹ 300 cr.(75%)inorganic retained in long-term●~45% margins generated -₹ 135 cr. steady-state Inorganic CM100-120 cr.Adj. EBITDA from inorganic
+●At 15% CAGR, organic generates ₹ 350 cr.more topline in 3 years●At ~35% margins (incl. central costs), the above generates ₹ 115 cr. more margins100-120 cr.Adj. EBITDA from organic over next 2 -3 years₹ 172CrFY27 Adj. EBITDA₹ 100-120CrInorganic margin turnaround₹ 270-290CrLong-term visibility with only inorganic margin play₹ 100-120CrOrganic margins from new ACV₹ 370-410CrLong-term visibility
+
+=== page 65 ===
+Copyright © 2026 Capillary Technologies India Limited
+Thank YouFor any  queries, please reach out to investorrelations@capillarytech.com
