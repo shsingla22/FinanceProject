@@ -161,7 +161,14 @@ def first_pages(data: bytes, n: int = DEEP_PAGES) -> str:
             parts.append(page.extract_text() or "")
         except Exception:                           # noqa: BLE001
             parts.append("")
-    return re.sub(r"[\x00-\x08\x0b-\x1f]", "", "\n".join(parts))[:60_000]
+    return clean_text("\n".join(parts))[:60_000]
+
+
+def clean_text(s: str) -> str:
+    """Control characters out, and lone surrogates (which some PDFs' fonts
+    produce) dropped — they cannot be written as UTF-8."""
+    s = s.encode("utf-8", "ignore").decode("utf-8", "ignore")
+    return re.sub(r"[\x00-\x08\x0b-\x1f]", "", s)
 
 
 def eligible(r: dict) -> str:
@@ -187,7 +194,10 @@ def read_one(r: dict) -> dict:
     FIRST_DIR.mkdir(parents=True, exist_ok=True)
     safe = re.sub(r"[^A-Za-z0-9_-]", "_", r["ann_id"])[:40]
     path = FIRST_DIR / f"{r['symbol']}_{safe}.txt"
-    path.write_text(text if text.strip() else "(no extractable text)")
+    try:
+        path.write_text(text if text.strip() else "(no extractable text)", encoding="utf-8")
+    except (OSError, UnicodeEncodeError) as e:
+        return {**r, "read_status": f"failed:write:{type(e).__name__}"}
     _, tags = classify_all(r["category"], r["headline"], text)
     return {**r, "read_status": "read", "first_text": str(path.relative_to(FA.OUT_DIR)),
             "tags": "|".join(tags)}

@@ -744,3 +744,10 @@ def test_complete_documents_are_assembled_within_budget(tmp_path, monkeypatch):
     c = AZ.calls_text_for("X", 12, TODAY)
     assert c.startswith("[2 calls in full]") and "### CALL May 2026 · https://t/may.pdf" in c and "Feb 2025" not in c
     assert "spin-off is on track" in c                                  # the whole section, not a snippet
+
+
+
+def test_pdf_text_with_lone_surrogates_is_still_written():
+    bad = "Scheme of Arrangement \ud83d demerger of the Energy business"
+    assert "\ud83d" not in DR.clean_text(bad) and "demerger" in DR.clean_text(bad)
+    DR.clean_text(bad).encode("utf-8")              # must not raise

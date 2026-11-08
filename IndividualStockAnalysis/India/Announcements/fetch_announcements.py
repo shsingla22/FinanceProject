@@ -455,7 +455,7 @@ def pdf_text(data: bytes) -> str:
         n += len(t)
         if n > MAX_TEXT_CHARS:
             break
-    text = "\n".join(parts)
+    text = "\n".join(parts).encode("utf-8", "ignore").decode("utf-8", "ignore")
     text = re.sub(r"[\x00-\x08\x0b-\x1f]", "", text)
     return text[:MAX_TEXT_CHARS]
 
