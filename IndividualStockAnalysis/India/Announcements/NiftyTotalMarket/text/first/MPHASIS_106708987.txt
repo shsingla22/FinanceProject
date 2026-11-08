@@ -1,0 +1,359 @@
+ 
+ 
+ 
+July 23, 2026 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street  
+Mumbai - 400 001 
+ 
+Scrip Code: 526299      The Manager, Listing  
+National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, 
+G-Block, Bandra -Kurla Complex,  
+Mumbai – 400 051 
+ 
+Scrip Symbol: MPHASIS  
+ 
+Dear Sir /Madam , 
+ 
+Sub: Out come of the Board Meeting  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to 
+inform you that the Board of Directors of the Company, at its meeting held today, i.e., Thursday , July 23, 2026, has 
+inter ‑alia considered and approved the  audited standalone and consolidated financial results  of the Company  for the 
+quarter ended June  30, 2026 , and taken on record  the Auditor’s Report s issued by M/s B S R & Co. LLP, Chartered 
+Accountants, Statutory Auditors of the Company . 
+ 
+A copy of the audited standalone and consolidated financial results, Auditor’s Reports and related Press Release are 
+enclosed herewith . 
+ 
+The meeting of the Board of Directors commenced at  07:00 PM (IST) and concluded at 10 :20 PM (IST) . 
+ 
+The above information will also be available on the website of the Company a t www.mphasis.com .  
+ We request you to kindly take the above intimation on record . 
+ Thanking You,  
+ 
+Yours faithfully,  
+For Mphasis Limited  
+                                       
+Mayank Verma  
+Senior Vice President and Company Secretary  
+Membership No.: ACS 18776  
+ Encl: As above  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: F0F473AB-8764-8FBA-8248-1021FED03D55
+
+Particulars
+30 June 2026 31 March 2026 30 June 2025 31 March 2026
+(refer note 10)
+Revenue from operations 43,840.54                          42,426.68                           37,324.89                         158,796.47                          
+Other income 828.57                               1,079.17                             809.48                               3,258.90                              
+Total income (I) 44,669.11                          43,505.85                           38,134.37                         162,055.37                          
+Expenses
+Employee benefits expense 24,087.40                          23,076.14                           21,444.89                         89,187.10                            
+Finance costs 485.17                               773.38                                418.23                               2,040.58                              
+Depreciation and amortization expense 1,470.55                            1,527.96                             1,319.22                           5,552.73                              
+Other expenses 11,801.45                          11,297.96                           8,851.32                           39,775.50                            
+Total expenses (II) 37,844.57                          36,675.44                           32,033.66                         136,555.91                          
+Profit before share of profit of equity accounted investees 6,824.54                            6,830.41                             6,100.71                           25,499.46                            
+Share of profit /(loss) of equity accounted investees, net of tax (III) 3.31                                   (17.24)                                 -                                    (52.04)                                  
+Profit before exceptional items and tax 6,827.85                            6,813.17                             6,100.71                           25,447.42                            
+Exceptional items (IV)
+Impact of change in labour laws -                                     -                                      -                                    354.77                                 
+Profit before tax (V) [I-II+III-IV] 6,827.85                            6,813.17                             6,100.71                           25,092.65                            
+Tax expenseCurrent tax 1,781.23                            1,158.70                             1,763.60                           6,425.90                              
+Deferred tax 151.56                               558.07                                (79.92)                               40.73                                   
+Total tax expense 1,932.79                            1,716.77                             1,683.68                           6,466.63                              
+Profit for the period (A) 4,895.06                            5,096.40                             4,417.03                           18,626.02                            
+Other comprehensive income ('OCI')Items not to be reclassified to profit or loss in subsequent periodsRe-measurement gains/ (losses) on defined employee benefit plans 33.22                                 7.20                                    (65.70)                               (22.72)                                  
+Income tax effect on the above (8.46)                                  (1.88)                                   16.76                                 6.07                                     
+Items to be reclassified to profit or loss in subsequent periods
+Exchange differences on translation of financial statements of foreign operations                              (177.67)                              2,048.10                               950.76                              4,838.36 
+Net change in fair value of derivatives d esignated as cash flow hedges 1,470.29                            (2,123.85)                            116.32                               (3,533.19)                            
+Income tax effect on fair value of deriva tives designated as ca sh flow he dges (370.04)                              534.53                                (29.27)                               889.23                                 
+Net change in fair value of investments in debt instruments carried at fair value through OCI                                  42.87                                 (51.20)                                 13.81                                  (51.10)
+Income tax effect on fair value of investments in debt instruments (11.07)                                12.89                                                                   (3.48) 12.86                                   
+Total OCI for the period, net of tax (B) 979.14                               425.79                                999.20                               2,139.51                              
+Total comprehensive income for the period (A+B) 5,874.20                            5,522.19                             5,416.23                           20,765.53                            
+Profit for the period attributable to:Equity owners of the Company 4,895.06                            5,096.40                             4,417.03                           18,626.02                            
+Non-controlling interests -                                     -                                      -                                    -                                       
+4,895.06                            5,096.40                             4,417.03                           18,626.02                            
+OCI for the period attributable to:Equity owners of the Company 979.14                               425.79                                999.20                               2,139.51                              
+Non-controlling interests -                                     -                                      -                                    -                                       
+979.14                               425.79                                999.20                               2,139.51                              
+Total comprehensive income for the period attributable to:Equity owners of the Company 5,874.20                            5,522.19                             5,416.23                           20,765.53                            
+Non-controlling interests -                                     -                                      -                                    -                                       
+5,874.20                            5,522.19                             5,416.23                           20,765.53                            
+Equity share capital 1,908.80                            1,908.27                             1,902.57                           1,908.27                              
+Other equity 111,478.83                        105,528.85                         100,038.17                       105,528.85                          
+Earnings per equity share (par value  10 per share)
+Basic ( ) 25.65                                 26.73                                  23.22                                 97.82                                   
+Diluted ( ) 25.61                                 26.68                                  23.14                                 97.54                                   
+Segment reporting
+30 June 2026 31 March 2026 30 June 2025 31 March 2026
+Segment revenue
+Banking and Financial Services 23,547.99                          23,032.86                           19,679.28                         83,786.05                            
+Logistics and Transportation 1,879.11                            2,181.53                             2,170.93                           8,718.76                              
+Technology Media and Telecom 8,123.97                            6,893.72                             6,757.20                           28,696.39                            
+Insurance 6,659.29                            6,791.01                             5,105.00                           23,443.81                            
+Others 4,463.13                            4,168.96                             3,629.02                           15,456.24                            
+Unallocated - hedge (832.95)                              (641.40)                               (16.54)                               (1,304.78)                            
+Total segment revenue 43,840.54                          42,426.68                           37,324.89                         158,796.47                          
+Segment result *Banking and Financial Services 7,601.47                            7,852.18                             6,308.59                           26,890.84                            
+Logistics and Transportation 253.27                               341.16                                125.88                               672.71                                 
+Technology Media and Telecom 2,111.63                            1,168.80                             1,304.54                           6,152.33                              
+Insurance 857.25                               1,857.03                             1,783.37                           7,197.57                              
+Others 1,802.78                            1,428.49                             1,271.49                           5,433.45                              
+Unallocated - hedge (832.95)                              (641.40)                               (16.54)                               (1,304.78)                            
+Total segment result 11,793.45                          12,006.26                           10,777.33                         45,042.12                            
+Finance costs (485.17)                              (773.38)                               (418.23)                             (2,040.58)                            
+Other income 828.57                               1,079.17                             809.48                               3,258.90                              
+Other unallocable expenditure (5,312.31)                           (5,481.64)                            (5,067.87)                          (20,760.98)
+                         
+ Profit before share of profit of equity accounted investees 6,824.54                            6,830.41                             6,100.71                           25,499.46                            
+Share of profit /(loss) of equity accounted investees, net of tax 3.31                                   (17.24)                                 (52.04)                                  
+Profit before exceptional items and tax 6,827.85                            6,813.17                             6,100.71                           25,447.42                            
+ Exceptional items
+ Impact of change in labour laws -                                     -                                      -                                    (354.77)                                
+ Profit before taxation 6,827.85                            6,813.17                             6,100.71                           25,092.65                            
+* In the computation of segment results, employee benefit expenses have been considered. Computed as a % of CGU revenue, they r ange between 44% to 54%.Mphasis Limited
+       Registered Office : Bagmane World Technology Center, Maratha lli Outer Ring Road, Doddanakhundi Villa ge, Mahadevapura, Bengaluru - 560 048.
+Telephone: 91 80 67501000, Fax: 91 80 6695 9943, Website: www.mphasis.com, E-mail: Investor.relations@mphasis.com
+Operating segments are defined as components of the Group for which discrete fi nancial information is available that is evaluated regularly by the ch ief operating decision maker, in deciding how to allocate
+resources and in assessing performance. The Group’s Chief Operating Decision Maker (‘CODM’) is the Chief Executive Officer.CIN:L30007KA1992PLC025294 
+Statement of Consolidated Audited Financial Results
+Quarter endedAuditedAmounts in  million except share and per share data, unless otherwise stated
+Year ended
+The Group has identified business segments as reportable segments. The business segments identified are Banking and Financial Services, Logistics and transportation, Technology Media and Telecom,
+Insurance, and Others. 
+CODM does not review assets and liabilities at reportable segments level, hence segment disclosures relating to total assets an d liabilities have not been provided.
+Quarter ended Year ended
+Page 1 of 2
+Docusign Envelope ID: F0F473AB-8764-8FBA-8248-1021FED03D55
+Mphasis Limited
+       Registered Office : Bagmane World Technology Center, Maratha lli Outer Ring Road, Doddanakhundi Villa ge, Mahadevapura, Bengaluru - 560 048.
+Telephone: 91 80 67501000, Fax: 91 80 6695 9943, Website: www.mphasis.com, E-mail: Investor.relations@mphasis.com
+CIN:L30007KA1992PLC025294 
+Amounts in  million except share and per share data, unless otherwise stated
+Notes:
+1
+2 Audited Financial Results of Mphasis Limited (Standalone information).
+30 June 2026 31 March 2026 30 June 2025 31 March 2026
+(refer note 10)
+Revenue from operations 27,010.80                          24,541.35                           22,373.71                         94,671.23                            
+Profit before exceptional items and tax 6,210.67                            4,988.32                             4,017.78                           19,107.26                            
+Profit before tax 6,210.67                            4,988.32                             4,017.78                           18,763.24                            
+Profit after tax 4,592.13                            3,719.41                             2,981.83                           14,023.72                            
+3
+4
+5
+6
+7
+8
+9
+10
+By Order of the Board,
+Mphasis Limited 
+ New York Nitin Rakesh
+23 July 2026 Chief Executive Officer & Managing DirectorThe audited results of Mphasis Limited for the above mentioned periods are available on Company’s website, www.mphasis.com and on the Stock Exchange websites, www.nseindia.com and
+www.bseindia.com. The information above has been extracted from  the audited annual / condensed  interim standalone financial sta tements as stated.
+The Board of Directors at their meeting held o n 29 April 2026 had propos ed a final d ividend of 62 per equity share for the year ended 31 March 2026 which has been approved by shareholders at the Annual
+General Meeting held on 23 July 2026.The financial results have been prepared on the basis of the audited condensed consolidated interim financial statements for the quarter ended 30 Jun e 2026, which are prepared in accordance with the Indian
+Accounting standards (Ind AS) 34, Interim Financial Reportings specified under Section 133 of the Companies Act, 2013 read with Companies (Indian Ac counting Standards) Rules,2015, as amended from
+time to time. These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 23 July 2026. The statu tory auditors have expressed an unmodified audit
+opinion on these results.
+ParticularsQuarter ended Year ended
+The figures for the quarter ended 31 March 2026 are the balancing figures between audited figures for full financial year and a udited year-to-date figures upto 31 December 2025.On 03 July 2025, the Company through its wholly owned subsidiary, Mphasis Corporation acquired a 26 % equity stake on fully diluted basis in Aokah Inc. ( ‘Aokah’) for a consideration of 355.17 million
+(USD 4 million). The Group has determined that it has significant influence over Aokah on account of its ownership and the right to appoint two director s on the Board. Aokah is expected to support the Group
+in generating customer opportunities with prospective global capability cen ter customers. The Group’s share of pr ofit and other co mprehensive inc ome / (loss) from the equit y accounted in vestees quarter
+ended 30 June 2026 and 30 June 2025 is  3.31 million and nil respectively.
+On 01 September 2025, the Company through its wholly owned subsidiary, Mphasis Corporation obtained control over the digital transformation manage ment business of Locate Software Inc (“Locate”),
+focused on servicing a strategic customer of the Gr oup. As part of this transaction, certain identified employees /subcontractors of Locate were tak en over and a revenue contract with an identified customer was
+novated to Mphasis Corporation. The Group will benefit from Locate’s capabilities in digital transformation management services business. The acq uisition was executed for a consideration of 754.74
+million (USD 8.50 million) which is payable over a period of 15 months. The present value of which amounts to 736.61 million (USD 8.30 million). This is i nclusive of a contingent consideration of
+559.03 million (USD 6.30 million) , payable subject to achieving certain defined milestones. The identifi ed intangible assets ar e tax-deductible.
+On 16 January 2026, the Company, through its wholly owned subsidiary, Mphasis Consulting Limited entered into a share purchase agreement with Ardona gh Services Limited (“Ardonagh”), to purchase the
+remaining 49% voting rights in Mrald Limited for a consideration of GBP 49. Consequent to this agreement and fulfilment of closing conditions, Mrald L imited will be a wholly owned subsidiary of Mphasis
+Consulting Limited. Previously, alt hough the Group had a 51% votin g right, it was entitled to 1 00% of economic benefits and hence, Mrald Limited was fu lly consolidated for periods upto 31 December 2025,
+with no Non-Controlling Interest.
+On 21 April 2026, the Group through its wholly owned subsidiary, Mphasis Ireland Limited, obtained control of Theory and Practice Business Intellige nce Inc. and its subsidiaries (“TAP”) by acquiring 100%
+of its shares. TAP has developed Continuum AI, a Decision Intelligence platf orm, that combines AI with behavioral economics to improve business deci sion-making and unde rstanding b uyer behavior.
+Continuum AI is expected to be a key catalyst for Mphasis NeoIP™, introducing a critical decision intelligence layer to the Group’s context engineeri ng layer. The acquisition was executed through a share
+purchase agreement for a total cash consideration of  180.21 million (CAD 2.66 million). The excess of the purchase consideration paid over the fair value of assets acquired has be en attributed to goodwill.
+Net liabilities acquired include cash and cash equivalents of 28.59 million and loan of 516.62 million provided by Mphasis Ireland Limited to TAP before the acqu isition to settle existing liabilities. Given
+such amounts were not paid to selling shareholders, it has been included in the net liabilities acquired and not in the purchas e consideration.
+Goodwill of 256.11 million comp rises value of acquired workforce a nd expected synergies a rising from the acquisiti on. The goodwill has been allocated to the Ban king and Financial Services, Technology,
+Media and Telecom, Insurance, Logistics and Transportation, and Others CGUs, which are expected to benefit from the synergies of the acquisition. Th e allocation has been performed based on management's
+assessment of the relative economic benefits expected to be derived by each CGU.The fair value of the contingent consideration linked to continuing employment is being accounted for as post combination expen se in the condensed consolidated interim statement of profit and loss. 
+For the quarter ended 30 Ju ne 2026, TAP contributed 
+9.04 million to the Group's revenue. Impact on consolidated profits is a loss of 149.50 million.On 01 April 2026, the Group through its wholly owned subsidiary, Mphasis Corporation obtained control over the business process outsourcing service s business of OKIN Process, Inc., (“OKIN”), focused on
+servicing a strategic customer of the Group. As part of this transaction, certain identified employees /subcontractors of OKIN were taken over and a r evenue contract with an identified customer was novated to
+Mphasis Corporation. The acquisition was executed for a consideration of 521.59 million (USD 5.50 million) which is payable over a period of 12 months. The present value of which amounts to 515.03
+million (USD 5.43 million). This is inclusive of a contingent consideration of 142.25 million (USD 1.50 million), payable subject to achieving ce rtain defined milestones. The identified intangible assets are
+tax-deductible. Goodwill has been allocated to the Technology, Media and Telecom being the CGU. For the quarter ended 30 June 2026, OKIN contributed 379.33 million to Group's revenues. Impact on the
+consolidated profits is not material.
+SUBSEQUENT EVENTS:
+On 01 July 2026, the Group, through its wholly owned subsidiary, Mphasis Corporation, entered into a definitive agreement with Red Oak Tech, Inc., (“R ed Oak”) to acquire a customer contract of Red Oak
+relating to its consulting service business. As part of this transaction, certain identified employees and subcontractors will be taken over and rev enue contract with a customer will be novated to Mphasis
+Corporation. In accordance with the terms of the agreement, Mphasis Corporation has agreed to pay a total consideration of upto 2,650.55 million (USD 28 million), including contingent consideration of
+upto 1,419.94 million (USD 15 million), payable over a period of 24 months, subject t o the achievement of certain defined milestones. As of the date of the Bo ard approving the condensed consolidated
+interim financial statements, the closing conditions have not been met and hence the transaction has not been consummated.
+Page 2 of 2NITIN 
+RAKESHDigitally signed by NITIN RAKESH 
+Date: 2026.07.23 22:26:07 
++05'30'
+Docusign Envelope ID: F0F473AB-8764-8FBA-8248-1021FED03D55
+30 June 2026 31 March 2026 30 June 2025 31 March 2026
+(refer note 3)
+Revenue from operations                      27,010.80                         24,541.35                          22,373.71                                   94,671.23 
+Other income                            599.74                              397.41                               559.82                                     1,857.66 
+Total income (I)                      27,610.54                         24,938.76                          22,933.53                                   96,528.89 
+Expenses
+Employee benefits expense                        8,141.49                           8,142.79                            7,597.87                                   31,117.25 
+Finance costs                            159.46                              143.39                               139.31                                        601.59 
+Depreciation and amortization expense                            509.72                              487.05                               431.60                                     1,815.56 
+Other expenses                      12,589.20                         11,177.21                          10,746.97                                   43,887.23 
+Total expenses (II)                      21,399.87                         19,950.44                          18,915.75                                   77,421.63 
+Profit before exceptional items and tax (III) [(I)-(II)]                        6,210.67                           4,988.32                            4,017.78                                   19,107.26 
+Exceptional items (IV)
+Impact of change in labour laws                                    -                                         -                                         -                                          344.02 
+Profit before tax (III)-(IV)                        6,210.67                           4,988.32                            4,017.78                                   18,763.24 
+Tax expenses 
+Current tax                        1,560.00                           1,278.36                            1,145.48                                     4,996.53 
+Deferred tax                              58.54                                 (9.45)                              (109.53)                                       (257.01)
+Total tax expenses                        1,618.54                           1,268.91                            1,035.95                                     4,739.52 
+Profit for the period (A)                        4,592.13                           3,719.41                            2,981.83                                   14,023.72 
+Other comprehensive income ('OCI')
+Items not to be reclassified to profit or loss in subsequent  periods
+Re-measurement gains/(losses) on defined employee benefit plans                              30.73                                   6.37                                (64.00)                                         (20.06)
+Income tax effect on the above                              (7.73)                                 (1.60)                                 16.11                                             5.05 
+Items to be reclassified to profit or loss in subsequent periods
+Net change in fair value of derivatives designated as cash flow hedges                        1,470.29                          (2,123.85)                               116.30                                    (3,533.19)
+Income tax effect on fair value of derivatives designated as cash flow hedges                          (370.04)                              534.53                                (29.27)                                        889.23 
+Net change in fair value of investments in debt instruments carried at fair value 
+through OCI                              (0.50)                                 (0.05)                                    2.00                                             1.04 
+Income tax effect on fair value of investments in debt instruments                                0.13                                   0.01                                  (0.50)                                           (0.26)
+Total OCI / (losses) for the period, net of tax (B)                        1,122.88                          (1,584.59)                                 40.64                                    (2,658.19)
+Total comprehensive income for the period (A+B)                        5,715.01                           2,134.82                            3,022.47                                   11,365.53 
+Equity share capital                        1,908.80                           1,908.27                            1,902.57                                     1,908.27 
+Other equity                      68,625.54                         62,834.75                          64,350.31                                   62,834.75 
+Earnings per equity share (par value ₹ 10 per share)
+Basic (₹)                              24.06                                 19.51                                 15.68                                          73.65 
+Diluted (₹)                              24.02                                 19.47                                 15.62                                          73.44 
+Segment reporting
+Notes:
+1
+  2 
+  3 
+By Order of the Board,
+Mphasis Limited 
+New York Nitin Rakesh
+23 July 2026 Chief Executive Officer & Managing DirectorThe financial results have been prepared on the basis of the audited condens ed standalone interim financial statements for the quarter ended 30 June 2 026, which are prepared in accordance
+with the Indian Acc ounting standards (Ind AS) 34, Interim Financial Reporti ng specified under Section 133 of the Companies Act, 2013 read with Compan ies (Indian Accounting Standards)
+Rules,2015, as amended from time to time. These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting h eld on 23 July 2026. The
+statutory auditors have expressed an unmodified audit opinion on these results.In accordance with Ind AS 108, Operating segments, the Company is not required t o disclose segment information in standalone financial results. Refe r the consolidated financial results for
+segment information.Particulars Audited
+Year ended
+The figures for the quarter ended 31 March 2026 are the balancing figures between audited figures for full financial year and a udited period-to-date figures upto 31 December 2025.                                                                            CIN:L 30007KA1992PLC025294 Mphasis Limited
+                                  Registered Office : Bagmane World Technology Center, Marathalli Outer Ring Road, Doddanakhund i Village, Mahadevapura,  Bengaluru - 560 048.
+                                                     Amounts in ₹ million except share and per share data, unless otherwise stated
+Statement of Standalone Audited Financial Results                                   Telephone: 91 80 67501000, Fax: 91 80 6695 9943, Website: www.mphasis.com, E-mail: Investor. relations@mphasis.com
+Quarter ended
+The Board of Directors in their meeting held on 29 April 2026 have proposed a final dividend of 62 per equity share for the year ended 31 March 2026 which has been approved by
+shareholders at the Annual General Meeting held on 23 July 2026.
+Page 1 of 1NITIN 
+RAKESHDigitally signed by NITIN RAKESH Date: 2026.07.23 22:27:03 +05'30'
+Docusign Envelope ID: F0F473AB-8764-8FBA-8248-1021FED03D55
+B S R & Co. LLP
+Chartered AccountantsEmbassy Golf Links Business Park 
+Pebble Beach, B Block, 3rd FloorNo. 13/2, off Intermediate Ring RoadBengaluru - 560 071, IndiaTelephone: +91 80 4682 3000Fax: +91 80 4682 3999
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 201314th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 5Independent Auditor’s Report
+To the Board of Directors of Mphasis Limited
+Report on the audit of the Consolidated Financial Results
+Opinion
+We have audited the accompanying Statement of Consolidated Financial Results of Mphasis Limited 
+(“Holding Company”) and its subsidiaries (Holding Company and its subsidiaries together referred to as “the Group”), and its associate for the quarter ended 30 June 2026, (“the Statement”), being submitted by the Holding Company pursuant to the requirement of Regulation 33 of the Securities and Exchange Board 
+of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing 
+Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the 
+Statement:
+a. includes the results of the entities listed in Annexure I;
+b. is presented in accordance with the requirements of Regulation 33 of the Listing Regulations as 
+amended; and
+c. gives a true and fair view in conformity with the applicable accounting standards, and other accounting 
+principles generally accepted in India, of consolidated total comprehensive income (comprising of net 
+profit and other comprehensive income) and other financial information of the Group for the quarter ended 30 June 2026.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section 
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described 
+in the Auditor’s Responsibilities for the Audit of the Consolidated Financial Results  section of our report. 
+We are independent of the Group and its associate in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India together with the ethical requirements that are relevant to our 
+audit of the financial statements under the provisions of the Act, and the Rules thereunder, and we have 
+fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe that the audit evidence we have obtained, is sufficient and appropriate to provide a basis for 
+our opinion on the consolidated financial results.
+Management’s and Board of Directors’ Responsibilities for the Consolidated Financial Results
+These quarterly consolidated financial results have been prepared on the basis of the consolidated interim 
+financial statements.
+The Holding Company’s Management and the Board of Directors are responsible for the preparation and 
+presentation of these consolidated financial results that give a true and fair view of the consolidated net 
+profit/ loss and other comprehensive income and other financial information of the Group including its 
+associate in accordance with the recognition and measurement principles laid down in Indian Accounting Standard 34, ‘Interim Financial Reporting’ prescribed under Section 133 of the Act read with relevant rules issued thereunder and other accounting principles generally accepted in India and in compliance with 
+Regulation 33 of the Listing Regulations. The respective Management and Board of Directors of the 
+entities included in the Group and the Management and Board of Directors of its associate are responsible for maintenance of adequate accounting records in accordance with the provisions of the Act for 
+Docusign Envelope ID: F0F473AB-8764-8FBA-8248-1021FED03D55
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Mphasis Limited
+Page 2 of 5safeguarding of the assets of each entity and for preventing and detecting frauds and other irregularities; 
+selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and the design, implementation and maintenance of adequate internal financial 
+controls, that were operating effectively for ensuring accuracy and completeness of the accounting 
+records, relevant to the preparation and presentation of the consolidated financial results that give a true and fair view and are free from material misstatement, whether due to fraud or error, which have been 
+used for the purpose of preparation of the consolidated financial results by the Management and the Board 
+of Directors of the Holding Company, as aforesaid.
+In preparing the consolidated financial results, the respective Management and the Board of Directors of 
+the entities included in the Group and the Management and Board of Directors of its associate are responsible for assessing the ability of each entity to continue as a going concern, disclosing, as 
+applicable, matters related to going concern and using the going concern basis of accounting unless the 
+respective Board of Directors either intends to liquidate the entity or to cease operations, or has no realistic alternative but to do so. 
+The respective Board of Directors of the entities included in the Group and the Board of Directors of its 
+associate is responsible for overseeing the financial reporting process of each entity.
+Auditor’s Responsibilities for the Audit of the Consolidated Financial Results
+Our objectives are to obtain reasonable assurance about whether the consolidated financial results as a 
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, 
+they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional 
+skepticism throughout the audit. We also:
+– Identify and assess the risks of material misstatement of the consolidated financial results, whether 
+due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit 
+evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting 
+a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+– Obtain an understanding of internal control relevant to the audit in order to design audit procedures 
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group’s internal control.
+– Evaluate the appropriateness of accounting policies used and the reasonableness of accounting 
+estimates and related disclosures in the consolidated financial results made by the Management and Board of Directors.
+– Conclude on the appropriateness of the Management’s and Board of Directors’ use of the going 
+concern basis of accounting and, based on the audit evidence obtained, whether a material 
+uncertainty exists related to events or conditions that may cast significant doubt on the 
+appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required 
+to draw attention in our auditor’s report to the related disclosures in the consolidated financial results 
+or, if such disclosures are inadequate, to modify  our opinion. Our conclusions are based on the audit 
+evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Group and its associate to cease to continue as a going concern.
+– Evaluate the overall presentation, structure and content of the consolidated financial results, including 
+the disclosures, and whether the consolidated financial results represent the underlying transactions 
+and events in a manner that achieves fair presentation.
+Docusign Envelope ID: F0F473AB-8764-8FBA-8248-1021FED03D55

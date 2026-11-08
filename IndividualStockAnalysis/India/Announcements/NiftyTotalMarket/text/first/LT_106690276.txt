@@ -1,0 +1,136 @@
+ 
+ 
+ Larsen & Toubro Limited  
+Secretarial Department  
+L&T House, Ballard Estate  
+Narottam Morarjee Marg  
+Mumbai - 400 001, INDIA  
+Tel: +91 22 6752 5656    
+Fax: +91 22 6752 5858   
+www.Larsentoubro.com  
+Email: igrc@larsentoubro.com  
+CIN:L99999MH1946PLC004768  
+  
+ 
+ 
+ 
+SEC/202 6                                 July 8, 2026  
+ 
+ 
+BSE Limited  
+Phiroze Jejeebhoy Towers,  
+Dalal Street,  
+MUMBAI - 400 001  
+STOCK CODE: 500510  
+  
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Plot No.C/1, G Block  
+Bandra -Kurla Complex  
+Bandra (E), Mumbai - 400 051  
+STOCK CODE: LT  
+ 
+ 
+Dear Sirs,  
+ 
+Re :  L&T Vyoma and Fortanix Partner to Deliver Confidential 
+Computing with NVIDIA Technology  
+ 
+We enclose herewith a copy of Press Release that is being issued by the  Company 
+today, in connection with the above.  
+ 
+We request you to take note of the same.  
+ 
+Thanking you,  
+      Yours faithfully,  
+         for LARSEN & TOUBRO LIMITED  
+                                                                                      
+ 
+ 
+ 
+                                        SUBRAMANIAN NARAYAN  
+                              COMPANY SECRETARY  &  
+COMPLIANCE OFFICER  
+               (ACS 16354 ) 
+ 
+ 
+ e LARSEN & TOUBRO 
+An /50 9001:2015 Certified Department 
+ 
+L&T Vyoma and Fortanix Partner to Deliver 
+Confidential Computing with NVIDIA 
+Technology  
+ 
+Mumbai, July 08, 2026:  Larsen & Toubro Vyoma ( L&T Vyoma), L&T’s next -generation 
+sovereign AI cloud and digital infrastructure business, has entered a strategic partnership 
+with Fortanix Inc, a US -headquartered global leader in data and AI security and a pioneer in 
+Confidential Computing.  They will jointly deliver sovereign, secure software -as-a-service 
+offerings for enterprises and government organisations in India.  
+With AI adoption accelerating, the need for data sovereignty, regulatory compliance and runtime protection has become critical, particularly in regulated sectors such as banking, 
+financial services, government and healthcare.  
+Through this partnership, L&T Vyoma will provide sovereign AI infrastructure, including data 
+centres, compute and networking, while Fortanix will secure the data and AI workloads in use by leveraging NVIDIA Confidential Computing.  
+The collaboration will enable organisations to adopt AI and modern data services securely, 
+while ensuring that sensitive data remains protected and compliant within India’s borders.  
+Commenting on the partnership, 
+Prashant Chiranjive Jain, Managing Director – Larsen & 
+Toubro Vyoma, said : “India’s digital economy requires a strong foundation of sovereign 
+infrastructure and secure AI capabilities. The partnership with Fortanix enables us to help 
+organisations harness AI with confidence by ensuring that data remain protected within 
+national  boundaries while meeting the highest standards of security and compliance”.  
+Anand Kashyap, Co -founder & CEO – Fortanix Inc, said : “AI adoption isn’t slowing down, 
+but organisations are increasingly challenged to balance innovation with data sovereignty and security. Our partnership with L&T Vyoma brings together trusted infrastructure and 
+Confidential Computing to enable enterprises in India use AI without exposing sensitive data 
+or intellectual property”.  
+Justin Boitano, Vice President - Enterprise AI Products  - NVIDIA, said : “Regulated 
+industries racing to adopt AI need to maintain the highest standards for data sovereignty and security as they scale advanced AI models and agents. Bringing together NVIDIA Confidential 
+Computing with L&T Vyoma’s sovereign infrastructure and Fortanix’s security platform 
+creates a trusted foundation for securely deploying and managing mission- critical workloads 
+in India”.  e LARSEN & TOUBRO WWW larsentoubro com 
+L& T Press Release 
+Issued by Corporate Brand Management & Communications L&T House 
+Ballard Estate, Mumbai 400 001 
+Tel: 91 22 6752 5656 
+CIN: L99999MH1946PLC004768 
+While traditional security approaches protect data at rest and in transit, they leave a critical 
+gap during processing. Confidential Computing addresses this by securing the data in use 
+through hardware -based Trusted Execution Environments, ensuring sensitive information 
+remains encrypted and impenetrable even during computation.  
+By integrating Confidential AI into L&T Vyoma’s AI Factory model, the partnership enables 
+secure deployment of AI models without exposing proprietary IP, protects sensitive 
+enterprise and citizen data during processing, enables cryptographic verification of trusted 
+environments and supports compliance with India’s data sovereignty and regulatory 
+requirements.  
+L&T Vyoma and Fortanix will jointly develop sovereign AI and data security solutions, pursue 
+co-selling initiatives across regulated industries and drive customer enablement through 
+proof -of-concept and proof -of-value engagements. L&T Vyoma will also facilitate 
+engagement with leading Indian AI model builders, strengthening the ecosystem for 
+sovereign AI innovation.  
+The partnership marks a significant step towards building a secure AI ecosystem in India, 
+enabling organisations to innovate , while retaining full control over their data and models.   
+ 
+ 
+About Larsen & Toubro Vyoma  
+ 
+Larsen & Toubro Vyoma is a next- generation digital infrastructure services provider  promoted  by L&T. 
+Focussed on building AI -ready, hyperscale data centres, it offers a comprehensive suite of solutions, 
+including colocation, GPU cloud and cloud -native platforms. With its facilities in Mumbai , Chennai  and 
+Bengaluru , L&T Vyoma supports high -performance workloads across AI, cloud and enterprise 
+transformation. L&T Vyoma brings together the credibility of L&T with cutting- edge innovation to power 
+the future of digital infrastructure for enterprises, hyperscalers and public -sector clients globally.  
+ 
+About Fortanix Inc    
+ 
+Fortanix is a global leader in data and AI security and a pioneer of Confidential Computing, delivering a unified platform to protect sensitive data, AI models and applications across on -premises and multi -
+cloud environments — at rest, in transit and in us e. Built on hardware -enforced security, Fortanix 
+enables workloads to run in tamper -proof, isolated enclaves, protecting against data leakage, model 
+extraction and unauthorised access, even from privileged insiders.   As enterprises scale modern AI factories, Fortanix provides a Confidential AI foundation built on 
+attestation -based trust, secure key release, and zero -trust enforcement. This ensures AI systems remain 
+verifiable, auditable, and trustworthy —while enabling crypto agility and long -term resilience through 
+post-quantum cryptography (PQC).   
+ 
+Media  Contact:  
+ 
+Sumeet  Chatterjee  
+Head  - Corporate  Brand  Management  & Communications , L&T   
+sumeet.chatterjee@larsentoubro.com  

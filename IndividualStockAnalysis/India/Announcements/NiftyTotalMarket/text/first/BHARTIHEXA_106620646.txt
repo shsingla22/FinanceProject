@@ -1,0 +1,361 @@
+May 13, 2026 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Sandra Kurla Complex, Sandra (E) 
+Mumbai -400051, India 
+Symbol: BHARTIHEXA 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai -400001, India 
+Scrip Code: 544162 
+Sub: Quarterly report for the fourth quarter (Q4) and financial year ended March 31, 2026 
+Dear Sir/ Madam, 
+Pursuant to the applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations , 2015, we are enclosing herewith the quarterly report for the fourth quarter (Q4) and 
+financial year ended March 31, 2026 being released by the Company . 
+Kindly take the same on record. 
+Thanking you, 
+Sincerely yours, 
+For Bharti Hexacom Limited 
+Amit Chaturvedi 
+Company Secretary & Compliance Officer 
+Bharti Hexacom Limited 
+Regd. Office: Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram -122015, India 
+Corporate Office: Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi -110 070, India 
+Tel: 91-124-4222222; Fax: +91-124-4248063 
+E-mail: bhartihexacom@bharti.in; Website: www.bhartihexacom.in 
+CIN: L74899HR199 5PLC132187 
+
+                                                                                                                                                                                         
+                                                                                                                                                         
+ 
+ 
+Page 1 of 28 
+ 
+Supplemental Disclosures  
+ 
+  
+Safe Harbor : - Some information in this report may contain forward -looking 
+statements. We have based these forward -looking statements on our current 
+beliefs, expectations and intentions  as to facts, actions and events  that will or 
+may occur in the future. Such statements generally are identified by forward -
+looking words such as “believe,” “plan,” “anticipate,” “continue,” “estimate,” 
+“expect,” “may,” “will” or other similar words.  
+ 
+A forward -looking statement may include a state ment  of the assumptions or 
+basis underlying the forward -looking statement. We have chosen these 
+assumptions or basis in good faith, and we believe that they are reasonable 
+in all material respects. H owever, we caution you that forw ard-looking 
+statements and assumed f acts or basis almost always vary  from actual results, 
+and the differences between the results implied by the forward -looking 
+statements and assumed facts or basis and actual results can be material,  
+depending on the circumstances. You should also keep in mind that any 
+forward -looking statement made by us in this report or elsewhere speaks only 
+as of the date on which we made it. New risks and uncertainties come up from 
+time to time, and it is impossi ble for us to predict these events or how they 
+may affect us. We have no duty to, and do not intend to, update or revise the 
+forward -looking statements in this report after the date hereof. In light of these 
+risks and uncertainties, any forward -looking sta tement made in this report or 
+elsewhere may or may not occur and has to be understood and read along 
+with this supplemental disclosure.  
+ 
+General Risk : - Investment in equity and equity related securities involves  a 
+degree of risk and investors should not invest any funds in this Company 
+without necessary diligence and relying on their own examination of Bharti 
+Hexacom , along with the equity investment risk which doesn't guarantee 
+capital protection.  
+ 
+Convenience translation : - We publ ish our financial statements in   Indian 
+Rupees. All references herein to “Indian Rupees” and “Rs” are to Indian 
+Rupees and all references herein to “US dollars” and “US$” are to United 
+States dollars. Translation of income statement items have been made from 
+Indian Rupees to United States  dollars (unless otherwise indicated) using the 
+respective quarter average rate. Translation of Statement of financial position 
+items have been made from Indian Rupees to United States dollars (unless 
+otherwise indicated) using the closing rate. The rates announced by the 
+Reserve Bank of India are being used as the Reference rate for respective 
+translations. All amounts translated into United States dollars as described 
+above are provided solely for the convenience of the reader, and no 
+representation is ma de that the Indian Rupees or United States dollar amounts 
+referred to herein could have been or could be converted into United States 
+dollars or Indian Rupees respectively, as the case may be, at any particular 
+rate, the above rates or at all. Any discrepa ncies in any table between totals 
+and sums of the amounts listed are due to rounding off.  
+ 
+Use of Certain Non -GAAP measures : - This result announcement contains 
+certain information on the Company’s results of operations and cash flows that 
+have been derived from amounts calculated in accordance with Indian 
+Accounting Standards (Ind -AS) but are not in themselves Ind -AS measures. 
+They should not be viewed in isolation as alternatives to the equivalent Ind -
+AS measures and should be read in conjunction with the equivalent Ind -AS 
+measures.  
+ 
+Further, disclosures are also provided under “7.3 Use of Non - GAAP 
+Financial Information” on page 1 6. 
+ 
+Others : In this report, the terms “we”, “us”, “our”, “Hexacom ”, or “the 
+Company”, unless otherwise specified or the context otherwise implies, refer 
+to Bharti Hexacom Limited (“Bharti Hexacom”), its parent Bharti Airtel Limited  
+and fellow subsidiaries, joint ventures & associates Bharti Airtel Services 
+Limited, Bharti Telemedia Limited, Airtel Limited, Nxtra Data Limited,  Nxtra 
+Africa Data RDC S.A.,Xtelify Limited (formerly known as Airtel Digital Limited), 
+Indus Towers Limited, Airtel Payments Bank Limited, Indus Towers 
+Employees Welfare Trust, Hughes Communication s India Private Limited,Indo 
+Teleports Limited (formerly known as Bharti Teleports Limited),  Lavelle 
+Networks Private Limited, Seychelles Cable Systems Company Limited, One 
+web India Communications Private. Ltd, Bharti Airtel (France) SAS, Bharti 
+Airtel (Hong Kong) Limited, Bharti Airtel (UK) Limited, Bharti Airtel (USA) 
+Limited, Bharti Airtel Int ernational (Netherlands) B.V., Bharti International 
+(Singapore) Pte Ltd ., Network i2i Limited., Airtel (Seychelles) Limited, Airtel 
+Congo S.A, Airtel Gabon S.A., A irtel Madagascar S.A., Airtel Malawi Public 
+Limited Company, Airtel Mobile Commerce B.V., Airtel Mobile Commerce Holdings B.V., Airtel Mobile Commerce (Kenya) Limited, Airtel Mobile 
+Commerce Limited, Airtel Mobile Commerce Madagascar S.A., Airtel Mobile 
+Commerce (Rwanda) Limited, Airtel Mobile Commerce (Seychelles) Limited, 
+Airtel Mobile Commerce(Tanzania )Limited, A irtel Mobile Commerce Tchad 
+S.A, Airtel Mobile Commerce Uganda Limited, Airtel Mobile Commerce 
+Zambia Limited, Airtel Money (RDC) S.A., Airtel Money Niger S.A., Airtel 
+Money S.A., Airtel Networks Kenya Limited, Airtel Networks Limited, Airtel 
+Networks Zambia plc, Airtel Rwanda Limited, Airtel Tanzania Public Limited 
+Company, Airtel Tchad S.A., Airtel Uganda Limited, Bharti Airtel Africa B.V., 
+Bharti Airtel Chad Holdings B.V., Bharti Airtel Congo Holdings B.V., Bharti 
+Airtel Developers Forum Limited, Bharti Airtel Gabon Holdings B.V., Bharti 
+Airtel Kenya B.V., Bharti Airtel Madagascar Holdings B.V., Bharti Airtel Malawi 
+Holdings B.V., Bharti Airtel  Mali Holdings B.V., Bharti Airtel Niger Holdings 
+B.V., Bharti Airtel Nigeria B.V., Bharti Airtel RDC Holdings B.V., Bharti Airtel 
+Services B.V., Bharti Airtel Tanzania B.V., Bharti Airtel Uganda Holdings B.V., 
+Bharti Airtel Zambia Holdings B.V., Celtel (M auritius) Holdings Limited, Airtel 
+Congo (RDC) S.A., Celtel Niger S.A., Channel Sea Management Company 
+(Mauritius) Limited, Congo RDC Towers S.A., Gabon Towers S.A. Indian 
+Ocean Telecom Limited, Millicom Ghana Company Limited, Mobile 
+Commerce Congo S.A., M ontana International, Partnership Investments 
+Sarlu, Bharti Airtel Rwanda Holdings Limited , Airtel Money Transfer Limited, 
+Airtel Money Tanzania Limited, Airtel Mobile Commerce (Nigeria) Limited, 
+Airtel Mobile Management Services FZ -LLC, Airtel Africa Mau ritius Limited, 
+Bharti Airtel Holding (Mauritius) Limited, Bharti Airtel Overseas (Mauritius) 
+Limited, Airtel Africa Plc, Airtel Mobile Commerce Nigeria B.V., Bharti Airtel 
+Employees Welfare Trust, Airtel Mobile Commerce (Seychelles) B.V., Airtel 
+Mobile Co mmerce Congo B.V., Airtel Mobile Commerce Kenya B.V., Airtel 
+Mobile Commerce Madagascar B.V., Airtel Mobile Commerce Malawi B.V., 
+Airtel Mobile Commerce Rwanda B.V., Airtel Mobile Commerce Tchad B.V., 
+Airtel Mobile Commerce Uganda B.V., Airtel Mobile Comme rce Zambia B.V., 
+Airtel International LLP, Airtel Mobile Commerce DRC B.V. , Airtel Mobile 
+Commerce Gabon B.V., Airtel Mobile Commerce Niger B.V., Airtel Money 
+Kenya Limited, Network I2I (UK) Limited, The Airtel Africa Employee Benefit 
+Trust, Airtel Africa Services (UK) Limited, Airtel Mobile Commerce Services 
+Limited, SmartCash Payment Service Bank Limited, Airtel Africa Telesonic 
+Holdings Limited, Airtel Africa Telesonic Limited, Airtel Congo Telesonic 
+Holdings (UK) Limited, Airtel DRC Telesonic Holdings ( UK) Limited, Airtel 
+Gabon Telesonic Holdings (UK) Limited, Airtel Kenya Telesonic Holdings (UK) 
+Limited, Airtel Madagascar Telesonic Holdings (UK) Limited, Airtel (M) 
+Telesonic Holdings (UK) Limited, Airtel Niger Telesonic Holdings (UK) Limited, 
+Airtel Nig eria Telesonic Holdings (UK) Limited, Airtel Rwanda Telesonic 
+Holdings (UK) Limited, Bharti Airtel Ghana Holdings B.V., Airtel Seychelles 
+Telesonic Holdings (UK) Limited, Airtel Tanzania Telesonic Holdings (UK) 
+Limited, Airtel Uganda Telesonic Holdings (UK ) Limited, Airtel Zambia 
+Telesonic Holdings (UK) Limited, Airtel Tchad Telesonic Holdings (UK) 
+Limited, Airtel (M) Telesonic Limited, Airtel Kenya Telesonic Limited, Airtel 
+Nigeria Telesonic Limited, Airtel Rwanda Telesonic Limited, Airtel Telesonic 
+Uganda  Limited, Airtel Zambia Telesonic Limited, Airtel (Seychelles) 
+Telesonic Limited, Nxtra Africa Data Holdings Limited, Nxtra Congo Data 
+Holdings (UK) Limited, Nxtra DRC Data Holdings (UK) Limited, Nxtra Gabon 
+Data Holdings (UK) Limited, Nxtra Kenya Data Hol dings (UK) Limited, Airtel 
+Mobile Commerce Tanzan ia B.V., Nxtra Nigeria Data Holdings (UK) Limited, 
+Airtel Congo RDC Telesonic S.A.U., Nxtra Africa Data (Nigeria) Limited, 
+Mawezi RDC S.A., HCIL Netcom India Private Ltd, HCIL Comtel Private 
+Limited, Airtel Gabon Telesonic S.A., Nxtra Africa Data (Kenya) Limited, Airtel 
+Money Trust Fund, The Registered Trustees of Airtel Money Trust Fund, Nxtra 
+Africa Data (Nigeria) FZE, Beetel Teletech Limited, Beetel Teletech Singapore 
+Private Limited, Dixon Electro Applian ces Private Limited, Robi Axiata PLC, 
+Reddot Digital Limited, Rventures PLC, SmartPay Limited, AxEnTec PLC, 
+Nxtra Africa Data (Kenya) SEZ Limited, SmarTx Services Limited , Airtel 
+Money Limited , Indus Towers FZE, Indus Towers Investment FZE, Indus 
+Towers Ma nagement FZE, Indus Towers Ventures FZE, Nxtra Vizag Limited, 
+Bridge Mobile Pte Limited , Indus Infra Uganda Limited, Indus Towers Infra 
+Zambia Limited, Indus Towers Nigeria Limited  
+ 
+    Disclaimer:  - This communication does not constitute an offer of   securities 
+for sale in the United States. Securities may not be sold in the United States 
+absent registration or an exemption from registration under the U.S. Securities 
+Act of 1933, as amended.  Any public offering of securities to be made in the 
+United S tates will be made by means of a prospectus and will contain detailed 
+information about the Company and its management, as well as financial 
+statements.
+  
+        
+ 
+ 
+Page 2 of 28 
+ 
+ 
+TABLE OF CONTENTS  
+ 
+Section 1  Bharti Hexacom  – Performance at a glance  3 
+Section 2  Bharti Hexacom  - An Introduction  4 
+Section 3  Financial Highlights as per Ind -AS  
+3.1 Summary of Financial Statements  5 
+3.2 Segment  wise - Summary of Statement of Operations  6 
+Section 4  Operating Highlights   7 
+Section 5  Management Discussion & Analysis   8 
+5.1 Key Company Developments   8 
+5.2 Result of Operation   8 
+5.3 Three Line Graph  10 
+Section 6  Stock Market Highlights  11 
+Section 7  Detailed Financial and Related Information  12 
+Section 8  Cost Schedules  17 
+Section 9 
+Section 10  
+Section 11  Trends and Ratio Analysis  
+Key Accounting Policies as per Ind -AS 
+Glossary  18 
+22 
+25 
+   
+ 
+  
+        
+ 
+ 
+Page 3 of 28 
+ 
+ 
+SECTION 1  
+PERFORMANCE AT A GL ANCE  
+ 
+Full Year Ended Quarter Ended
+2024 2025 2026 Mar-25 Jun-25 Sep-25 Dec-25 Mar-26
+Operating Highlights
+Total Customer Base 000’s 27,646 28,577 29,617 28,577 28,648 28,598 29,099 29,617
+Total Minutes on Network Mn Min 351,591 369,056 379,887 95,304 93,440 93,692 95,912 96,842
+Network Towers Nos 25,704 26,497 26,742 26,497 26,490 26,529 26,572 26,742
+Financials (Rs Mn)
+Total revenues Rs Mn 70,888 85,479 93,538 22,890 22,630 23,173 23,598 24,137
+EBITDA Rs Mn 34,905 43,721 50,694 12,202 12,172 12,564 12,820 13,138
+EBITDAaL Rs Mn 29,814 37,789 44,563 10,660 10,789 10,979 11,242 11,553
+EBIT Rs Mn 17,513 22,653 28,322 6,766 6,774 7,021 7,151 7,376
+Cash profit from operations before Derivative & 
+Exchange FluctuationsRs Mn 29,646 36,864 44,835 10,434 10,535 11,127 11,424 11,750
+Profit before tax Rs Mn 12,263 15,962 22,998 5,132 5,268 5,641 5,781 6,308
+Net income (before exceptional items) Rs Mn 9,115 11,896 17,104 3,802 3,916 4,212 4,318 4,658
+Net income (after exceptional items) Rs Mn 5,044 14,936 17,332 4,684 3,916 4,212 4,737 4,467
+Capex Rs Mn 20,235 14,730 15,210 4,254 2,270 3,676 3,403 5,861
+Operating Free Cash Flow (EBITDA - Capex) Rs Mn 14,670 28,991 35,484 7,948 9,902 8,888 9,417 7,277
+Operating Free Cash Flow (EBITDAaL - Capex) Rs Mn 9,579 23,059 29,353 6,406 8,519 7,303 7,839 5,692
+Net Debt Rs Mn 78,273 72,619 54,731 72,619 63,160 62,989 56,289 54,731
+Net Debt excluding lease obligation Rs Mn 45,573 36,890 20,301 36,890 28,064 28,183 21,565 20,301
+Shareholder's Equity Rs Mn 46,387 59,321 71,652 59,321 63,234 62,446 67,183 71,652
+Financials (US$ Mn)
+Total Revenue 1US$ Mn 857 1,012 1,059 265 265 265 265 263
+EBITDA 1US$ Mn 422 518 574 141 142 144 144 143
+EBITDAaL 1US$ Mn 360 447 504 123 126 126 126 126
+EBIT 1US$ Mn 212 268 321 78 79 80 80 80
+Cash profit from operations before Derivative & 
+Exchange Fluctuations 1 US$ Mn 358 436 507 121 123 127 128 128
+Profit before Tax 1US$ Mn 148 189 260 59 62 65 65 69
+Net income (before exceptional items)1US$ Mn 110 141 194 44 46 48 49 51
+Net income (after exceptional items)1US$ Mn 61 177 196 54 46 48 53 49
+Capex 1US$ Mn 245 174 172 49 27 42 38 64
+Operating Free Cash Flow (EBITDA - Capex) US$ Mn 177 343 402 92 116 102 106 79
+Operating Free Cash Flow (EBITDAaL - Capex) US$ Mn 116 273 332 74 100 84 88 62
+Net Debt 2US$ Mn 939 849 578 849 738 710 626 578
+Net Debt excluding lease obligation 2US$ Mn 547 431 214 431 328 318 240 214
+Shareholder's Equity 2US$ Mn 556 693 757 693 739 704 747 757
+Key Ratios
+EBITDA Margin % 49.2% 51.1% 54.2% 53.3% 53.8% 54.2% 54.3% 54.4%
+EBITDAaL Margin % 42.1% 44.2% 47.6% 46.6% 47.7% 47.4% 47.6% 47.9%
+EBIT Margin % 24.7% 26.5% 30.3% 29.6% 29.9% 30.3% 30.3% 30.6%
+Net Profit (after exceptional items) Margin % 7.1% 17.5% 18.5% 20.5% 17.3% 18.2% 20.1% 18.5%
+Net Debt to Funded Equity Ratio Times 1.69 1.22 0.76 1.22 1.00 1.01 0.84 0.76
+Net Debt to EBITDA (Annualised) Times 2.24 1.66 1.08 1.49 1.30 1.25 1.10 1.04
+Net Debt (excluding lease obligations) to EBITDAaL 
+(Annualised)Times 1.53 0.98 0.46 0.87 0.65 0.64 0.48 0.44
+Interest Coverage ratio Times 6.23 7.23 10.03 8.37 9.17 9.92 10.35 10.75
+Return on Shareholder's Equity (Post Tax) % 11.4% 28.3% 26.5% 26.2% 22.4% 24.5% 27.1% 25.0%
+Return on Shareholder's Equity (Pre Tax) % 20.9% 34.2% 34.6% 31.7% 28.7% 31.6% 33.5% 32.6%
+Return on Capital employed (Annualised) % 14.1% 17.7% 21.9% 20.4% 21.0% 22.3% 23.0% 23.6%
+Valuation Indicators
+Market Capitalization Rs Bn 406.9 728.7 751.9 728.7 975.7 825.8 910.4 751.9
+Market Capitalization US$ Bn 4.9 8.5 7.9 8.5 11.4 9.3 10.1 7.9
+Enterprise Value Rs Bn 485.1 801.3 806.6 801.3 1038.9 888.8 966.7 806.6
+EV / EBITDA Times 13.9 18.3 15.9 16.4 21.3 17.7 18.9 15.3
+PE Ratio Times 80.7 48.8 43.4 48.8 71.0 53.5 51.9 43.4Particulars Unit
+ 
+Note 1: Average exchange rates used for Rupee conversion to US$ is  (a) Rs 82.74 for the financial year ended March 31, 2024  ( b) Rs 84.46 for the financial year ended March 31, 2025 ( c) 
+Rs 88.36  for the financial year ended March 31, 2026 (d) Rs 86.37  for the quarter ended March 31, 2025, ( e) Rs 85.42  for the quarter ended June 30, 2025 , (f) Rs 87.28  for the quarter ended 
+September 30, 2025,  (g) Rs 89.03  for the quarter ended December 31, 2025  (h) Rs 91.72   for the quarter ended March  31, 202 6 based on the RBI Reference rate.  
+Note 2: Closing exchange rates used for Rupee conversion to US$ is (a ) Rs 83.37 for the financial year ended March 31, 2024 ( b) Rs 85.58 for the financial year ended  March 31, 2025  (c) Rs 
+94.65  for the financial year ended  March 31, 2026   (d) Rs 85.58  for the quarter ended March 31, 2025, ( e) Rs 85.56  for the quarter ended June 30, 2025 , (f) Rs 88.76  for the quarter ended 
+September 30, 2025  (g) Rs 89.94  for the quarter ended December 31, 2025  (h) Rs 94.65   for the quarter ended March  31, 202 6 being the RBI Reference rate.   
+        
+ 
+ 
+Page 4 of 28 
+ 
+ 
+SECTION 2  
+ 
+BHARTI HEXACOM  - AN INTRODUCTION  
+ 
+2.1 Introduction   
+ 
+Our Company was originally incorporated in 1995 as ‘Hexacom 
+India Limited’. In 2004, the name of our Company was changed to 
+Bharti Hexacom Limited’ when Airtel acquired a majority equity 
+interest in our Company.   
+ 
+We are a communications solutions provider offering consumer 
+mobile services, fixed -line telephone , broadband and IPTV 
+services to customers in the Rajasthan and the Northeast 
+telecommunication circles in India, which comprises the states of 
+Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland and 
+Tripura. We offer our services under the brand ‘Airtel’. We have a 
+distinct strategy to premiumise our portfolio by acquiring and 
+retaining quality customers and delivering an experience to them 
+through our Omni channel approach and use of data science. We 
+have a gamut of digital offerings to enhance customer engagement 
+and di fferentiated customized offerings through family and 
+converged plans under Airtel Black proposition, which has resulted 
+in the continuous improvement of our revenue market share during 
+the last three Fiscals. We undertake prudent cost optimization 
+measures  to improve our profitability and maintain an efficient 
+capital structure with a comfortable leverage position. We 
+continuously invest in network expansion, technology 
+advancement and judicious spectrum investments.  
+ 
+The shares of Bharti Hexacom Ltd are listed on the Indian Stock 
+Exchanges - NSE & BSE.  
+ 
+2.2      Business Divisions   
+across 64 retail outlets and 2 3 small format stores with network  
+presence in 488 census and 67,927 non -census towns and villages 
+in India with population coverage of 96.5%.  
+  
+Our services are spread across Rajasthan and North east offering 
+high-speed internet access and a host of innovative services like 
+Airtel TV, video  calls, live -streaming videos, gaming, buffer -less HD 
+video streaming and multi -tasking capabilities to our customers.  
+ 
+Homes , Office  and Other  Services  – The Company provides 
+fixed -line telephone and broadband services  along with IPTV  for 
+homes in  120 cities  (including LCOs) in Rajasthan and Northeast . 
+The product offerin gs include high -speed broadband, fiber and 
+voice connectivity, up to the speed of 1 Gbps for the home 
+segment.   
+ 
+2.3     Partners  
+ 
+The key agreements with the active network partners include 
+equipment supply contracts and service contracts. The equipment 
+supply contracts cover the supply of hardware, software and other 
+electronic equipment required to set up and expand our mobile 
+netw ork. The service contracts provide for the services in relation 
+to deployment of the equipment deployed under the equipment 
+supply contracts. We have minimized our dependence on any 
+single network partner to provide critical network services and we 
+work wi th several entities including Ericsson, Nokia , Google  and 
+Ceragon, etc.  
+ 
+Mobile Services –We offer postpaid, pre -paid, roaming, internet 
+and other value -added  services. Our distribution channel is spread  
+ 
+ 
+ 

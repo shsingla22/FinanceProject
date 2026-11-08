@@ -1,0 +1,418 @@
+ 
+JKCL/SE/2026-27/31                                    June 25, 2026  
+ 
+BSE Ltd.                 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, Mumbai-400001 
+Through: BSE Listing Centre National Stock Exchange of India Ltd., 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (E), Mumbai-400051 
+Through: NEAPS 
+Scrip Code: 532644 Scrip Code: JKCEMENT  
+ 
+Dear Sir/Ma’am,  
+ 
+Sub: Business Responsibility and Sustainability Reporting  
+ 
+Pursuant to Regulation 34(2)(f) of Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we are submitting herewith the Business 
+Responsibility and Sustainability Report for financial year 2025-26 (“FY 2025-26”), along with 
+Independent Practitioners’ Reasonable Assurance Report on the BRSR Core Indicators, provided 
+by TUV India Private Limited which also forms part of the Integrated Annual Report for FY 2026.  
+ 
+This is for your information and records. 
+ 
+Thanking you, 
+ 
+Yours faithfully 
+For J. K. Cement Limited 
+   
+ 
+ 
+Bhumika Sood 
+Company Secretary & Compliance Officer 
+M. No. ACS 19326 
+ 
+Encl: As above  
+ 
+  
+204
+JK Cement Limited   Integrated Annual Report 2026SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity L17229UP1994PLC017199
+2. Name of the Listed Entity J.K. Cement Limited (JKCL)
+3. Year of incorporation 24-Nov-1994
+4. Registered office address Kamla Tower, Kanpur – 208001, 
+Uttar Pradesh, India
+5. Corporate address Prism Tower, Ninaniya Estate,
+Gwal Pahari, Gurugram - 122102, Haryana
+6. E-mail bhumika.sood@jkcement.com
+7. Telephone 0124-6919000
+8. Website https://www.jkcement.com/
+9. Financial year for which reporting is being done FY 2025-26
+10. Name of the Stock Exchange(s) where shares are 
+listed1. Bombay Stock Exchange Limited (BSE)
+2. National Stock Exchange of India Limited (NSE)
+11. Paid-up Capital INR 77.27 Cr
+12. Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR reportMs. Bhumika Sood
+Company Secretary
+Mobile No. 0124 6919000
+bhumika.sood@jkcement.com
+13. Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e., only for 
+the entity) or on a consolidated basis (i.e., for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together).Disclosures under this report are made on standalone 
+basis for JK Cement Limited
+However, the environmental and social KPI data 
+reported herein covers our 13 established operational 
+manufacturing units and excludes two recently merged 
+units in October 2025 (Ampavalli Integrated Unit and 
+Choudwar Grinding Unit) and recently commissioned 
+Buxar Grinding Unit in January 2026.
+14. Name of assurance provider TUV India Private Limited
+15. Type of assurance obtained Reasonable assurance on BRSR core Indicators while 
+Limited Assurance on remaining GRI indicators
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main Activity Description of Business Activity % of Turnover of the entity
+1 Manufacturing Cement and cement related products 100
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.Product/Service NIC Code% of total 
+Turnover 
+contributed
+1 Grey Cement 3242 83%
+2 White Cement & Wall Putty (including VAP) 3242, 3244, 23949 17%
+III. Operations
+18.	 Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:
+LocationNumber of 
+plantsNumber of 
+officesTotal
+National 16* 50 66*
+  *Excluding Saifco Cement (P) Ltd.Annexure 3
+Business Responsibility & Sustainability Report
+STATUTORY REPORTS205
+19. Markets served by the entity:
+a. Number of locations
+Locations Number
+National (No. of States) - Grey Cement 25
+National (No. of States) - White Cement Pan India
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+ Negligible
+c. A brief on types of customers
+  JKCL caters to the demands and needs of various institutional/commercial customers, individual house builders, 
+government bodies for infrastructure projects.
+IV. Employees
+20. Details as at the end of Financial Year (FY 2025-26):
+a.	 Employees	and	workers	(including	differently	abled):
+S. 
+No.Particulars Total	(A)Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+EMPLOYEES
+1. Permanent (D) 4952 4767 96 185 4
+2. Other than Permanent (E) 1640 1614 98 26 2
+3. Total Employees (D+E) 6592 6381 97 211 3
+WORKERS
+4. Permanent (F) 99 99 100 0 0
+5. Other than
+Permanent (G)6191 6097 98 94 2
+6. Total workers (F+G) 6290 6196 99 94 1
+b.	 Differently	abled	Employees	and	workers:
+S. 
+No.Particulars Total	(A)Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+DIFFERENTL Y ABLED EMPLOYEES
+1. Permanent (D) 9 9 100 0 0
+2. Other than Permanent (E) 0 0 0 0 0
+3. Total differently abled 
+employees (D + E)9 9 100 0 0
+DIFFERENTL Y ABLED WORKERS
+4. Permanent (F) 1 1 100 0 0
+5. Other than permanent (G) 0 0 0 0 0
+6. Total differently abled 
+workers (F + G)1 1 100 0 0
+21. Participation/Inclusion/Representation of women
+Total	(A)No. and percentage of Females
+No.	(B) %	(B	/	A)
+Board of Directors 13 3 23%
+Key Management Personnel 4 1 25%
+206
+JK Cement Limited   Integrated Annual Report 2026
+Business Responsibility & Sustainability Report22. Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2025-26
+(Turnover	rate	in	current	FY)FY 2024-25
+(Turnover	rate	in	previous	FY)FY 2023-24 (Turnover rate in the 
+year	prior	to	the	previous	FY)
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees20.5% 33.5% 21.2% 23.3% 28.0% 23.5% 21.5% 26.0% 21.63%
+Permanent Workers 13.1% NA 13.1% 20.7% NA 20.7% 11% NA 11%
+V.	 Holding,	Subsidiary	and	Associate	Companies	(including	joint	ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.Name of the holding / subsidiary / associate 
+companies / joint venturesHolding/ Subsidiary/ 
+Associate/ Joint Venture% of shares 
+heldDoes the company 
+participate in the 
+Business Responsibility 
+initiatives of the parent 
+company?	(Yes/No)
+1 JK Maxx Paints Limited Wholly Owned Subsidiary 100 No
+2 JK Cement Foundation Wholly Owned Subsidiary 100 No
+3 J.K. Cement Fujairah FZC Wholly Owned Subsidiary 100 No
+4 J.K. Cement Saifco Cements Private Limited 
+(formally known as Saifco Cement Private 
+Limited)Subsidiary 60 No
+5 Saifco Estates Private Limited Step-down Subsidiary 100 No
+6 J.K. Cement Works (Fujairah) FZC Step-down Subsidiary 90 No
+7 J.K. White Cement (Africa) Ltd Step-down Subsidiary 100 No
+8 J.K. White Cement Fujairah LLC Step-down Subsidiary 100 No
+9 JK Drychem Industries LLC Step Down Subsidiary 100 No
+10 DCC Green Energy Private Ltd Associate 49 No
+11 Rekart Green Energy Private Ltd Associate 49 No
+12 FP Centaurus Private Limited Associate 34.91 No
+13 Clean Max Matahari Private Limited Associate 26 No
+14 Nay Energy Pvt. Ltd. Associate 26 No
+15 O2 Renewable Energy V Private Limited Associate 28.96 No
+16 O2 Renewable Energy XXXIV Private Limited Associate 45.01 No
+17 TRUERE 100 Energy Private Limited Associate 26 No
+18 Truere Guj SPV Private Limited Associate 26 No
+19 Truere Current Private Limited Associate 26 No
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+ (i) Turnover (in  H) (FY 25-26).: 12945.34 Cr.
+ (ii) Net worth (in  H): 6960.68 Cr. (FY 25-26)
+STATUTORY REPORTS207
+VII. Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines 
+on Responsible Business Conduct:
+Stakeholder group 
+from whom complaint 
+is receivedGrievance 
+Redressal 
+Mechanism in 
+Place	(Yes/No)
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress	policy)FY	2025-26	(Current	Financial	Year) FY	2024-25	(Previous	Financial	Year)
+No. of 
+complaints 
+filed	during	
+the yearNo. of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNo. of 
+complaints 
+filed	during	
+the yearNo. of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities Yes 0 0 NA 0 0 NA
+Investors (other than 
+shareholders)Yes 0 0 NA 0 0 NA
+Shareholders Yes 15 0 NA 4 0 NA
+Employees and 
+workersYes 0 0 NA 0 0 NA
+Customers Yes 1398 18 NA 1625 26 NA
+Value Chain Partners Yes 0 0 NA 0 0 NA
+Other  
+(please specify)- NA NA NA NA NA NA
+26. Overview of the entity’s material responsible business conduct issues
+  Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.Material issue 
+identifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the 
+risk / opportunityIn case of risk, 
+approach to adapt 
+or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate	positive	or negative	
+implications)
+1 Transition to 
+Low-Carbon 
+ProcessesRisk & 
+OpportunityCement production is 
+highly carbon intensive. 
+Transitioning to low carbon 
+processes is critical for 
+regulatory compliance, 
+climate commitments, and 
+reducing environmental 
+impact.Adoption of 
+technologies/
+practices like 
+alternative fuels, 
+energy efficiency, 
+and carbon 
+capture.Positive: Long-term viability 
+and efficiency. 
+Negative:  High cost of 
+transition/compliance.
+2 Climate 
+Change 
+AdaptationRisk Increasing intensity and 
+frequency of extreme 
+weather events due to 
+climate change.Effective 
+stormwater 
+drainage systems, 
+Diversify raw 
+material sourcing 
+and maintain 
+buffer stocks, 
+Zero Effluent 
+discharge, 
+Installation of 
+water saving 
+equipment like 
+water fogging 
+systems, drip 
+irrigation, etc.Negative:  Damage to assets, 
+operational disruptions, supply 
+chain disruption can lead to 
+higher costs and reduced 
+revenue.
+208
+JK Cement Limited   Integrated Annual Report 2026
+Business Responsibility & Sustainability ReportS. 
+No.Material issue 
+identifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the 
+risk / opportunityIn case of risk, 
+approach to adapt 
+or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate	positive	or negative	
+implications)
+3 Emissions 
+ManagementRisk Cement plants emit 
+significant amounts of CO2 
+and other air pollutants 
+including particulate matter, 
+SO2 and NOx. Effective 
+emissions management 
+ensures compliance with 
+environmental laws and 
+reduces health risks for 
+communities.Monitoring, 
+controlling, 
+and reducing 
+greenhouse 
+gases (GHGs), 
+dust, and other air 
+pollutants from 
+operations.Negative:  Potential regulatory 
+liabilities and costs for 
+emission control technology.
+4 Biodiversity 
+and 
+Ecosystem 
+RestorationRisk and 
+OpportunityQuarrying and raw 
+material extraction impact 
+ecosystems. Restoration 
+efforts maintain ecological 
+balance and fulfil legal and 
+social obligations.Protecting/
+restoring natural 
+habitats affected 
+by mining and 
+plant operations 
+through 
+afforestation. For 
+dust suppression, 
+we use treated 
+water, instead 
+of reliance on 
+freshwaterPositive:  The company is 
+aligning with the Green Credit 
+and Carbon Credit Program, 
+earning credits for voluntary 
+environmental actions like 
+large- scale afforestation
+Negative:  Heavy dust 
+emissions from cement 
+lines can physically coat and 
+choke surrounding plant 
+life, while high-volume water 
+consumption for dust-
+suppression risks lowering 
+local groundwater tables.
+5 Circular 
+EconomyOpportunity Integrating circular practices 
+reduces dependency on 
+virgin raw materials, lowers 
+production costs, and aligns 
+with global sustainability 
+goals by minimising waste 
+and promoting resource 
+efficiency.NA Positive:  Lowers production 
+costs by using industrial by-
+products like fly ash and slag.
+6 Occupational 
+Health and 
+SafetyRisk Cement plants involve heavy 
+machinery and complex 
+processes. Strong safety 
+practices are essential to 
+protect employees, ensure 
+regulatory compliance, avoid 
+operational disruptions, and 
+maintain workforce morale 
+and productivity.Ensuring 
+safe working 
+conditions 
+and promoting 
+employee 
+wellbeing through 
+training and 
+safety protocols.Negative:  Potential operational 
+disruptions and regulatory 
+liabilities. 
+Positive:  Maintains workforce 
+morale and productivity.
+7 Labour 
+ManagementRisk Cement operations involve 
+high-risk environments; 
+strong labour management 
+ensures workforce well-
+being, productivity, and 
+regulatory compliance.Managing worker 
+relations including 
+health and 
+safety, fair pay, 
+and grievance 
+mechanismsNegative:  Risks to business 
+operations and cash flows 
+if labor relations or safety 
+standards fail. 
+Positive:  Ensures long-term 
+productivity.
+8 Customer 
+CentricityOpportunity Enhancing customer focus 
+improves brand reputation, 
+builds loyalty, and sustains 
+market competitiveness 
+in a highly commoditised 
+industry.NA Positive:  Improves brand 
+reputation, builds loyalty, and 
+secures market share

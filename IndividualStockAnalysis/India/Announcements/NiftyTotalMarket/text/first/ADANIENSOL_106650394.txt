@@ -1,0 +1,381 @@
+ 
+ 
+Adani Energy Solutions Ltd              Tel +91 79 2555 7555  
+Adani Corporate House              Fax +91 79  2555 7177  
+Shantigram, Near Vaishno Devi Circle,            info@adani.com  
+S. G. Highway, Khodiyar,              www.adanienergysolutions.com   
+Ahmedabad 382 421      
+Gujarat, India  
+CIN: L40300GJ2013PLC077803  
+ 
+Registered Office: Adani Corporate House, Shantigram, Near Vaishno  Devi Circle, S. G. Highway, Khodiyar, Ahmedabad – 382 421  
+May 31, 202 6 
+ 
+BSE Limited  
+P J Towers,  
+Dalal Street,   
+Mumbai – 400001  
+ National Stock Exchange of India Limited  
+Exchange plaza,  
+Bandra -Kurla Complex,  
+Bandra (E), Mumbai – 400051  
+ 
+Scrip Code: 539254  Scrip Code: ADANIENSOL  
+  
+Dear Sir/Madam,  
+ 
+Sub:  Submission  of Business Responsibil ity and Sustainability Report of the 
+Company for the financial year 2025-26. 
+ 
+Pursuant to Regulation 34 of Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, we are submitting 
+herewith the Business Responsibility and Sustainability Report for  the Financial 
+Year (FY) 202 5-26 which is being sent through electronic mode to the members.  
+ 
+The Integrated Annual Report along with the Business Responsibility and 
+Sustainability Report for the FY 2025-26 is also uploaded on the Company’s 
+website and can be accessed at www.adanienergysolutions.com . 
+ 
+You are requested to take the same on your records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Adani Energy Solutions Limited  
+ 
+ 
+ 
+Jaladhi Shukla  
+Company Secretary  
+ 
+Encl: as above  
+ 
+Business Responsibility &  
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES 
+I. Details of the listed entity
+1Corporate Identity Number (CIN) of the Listed Entity L40300GJ2013PLC077803
+2Name of the Listed Entity Adani Energy Solutions Limited [“AESL / the Company”] 
+(formerly known as Adani Transmission Limited)
+3Year of incorporation 2013
+4Registered office address “Adani Corporate House”, Shantigram, Near VaishnoDevi 
+Circle, S. G. Highway, Khodiyar, Ahmedabad – 382421, 
+Gujarat, India.
+5Corporate address “Adani Corporate House”, Shantigram, Near VaishnoDevi 
+Circle, S. G. Highway, Khodiyar, Ahmedabad – 382421, 
+Gujarat, India.
+6E-mail jaladhi.shukla@adani.com
+7Telephone (91) 79 25555366
+8Website www.adanienergysolutions.com
+9Financial year for which reporting is being done April 1, 2025, to March 31, 2026
+10Name of the Stock Exchange(s) where shares are 
+listedBSE Limited (BSE) and National Stock Exchange of India 
+Limited (NSE)
+11Paid-up Capital ` 1,201.28 crore
+12Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR reportName: Mr. Mehul N. Patel  
+Designation: Lead Sustainability & Environment 
+Telephone Number: (079) 2555 3130 
+Email Id: cso.energysolutions@adani.com
+13Reporting boundary Disclosures under this report are made on a consolidated 
+basis (i.e. for the entity and all the entities which form 
+a part of its consolidated financial statements taken 
+together)
+In line with SEBI BRSR requirements for FY 2025 26, 
+the Company’s value chain disclosures cover the Top 10 
+upstream suppliers and Top 10 downstream partners, 
+identified based on value of purchases and sales 
+respectively.
+For value chain partners beyond the Top 10, disclosures 
+are provided on Voluntary basis, considering 
+proportionality, availability of reliable and verifiable data, 
+contractual leverage, and relevance to the Company’s 
+risk profile.
+14Name of assurance provider M/s. TUV INDIA PVT. LTD.
+15Type of assurance obtained. Reasonable Assurance for core and non-core indicators
+431
+Integrated Annual Report 2025-26Portfolio  
+Overview
+Corporate 
+Overview
+Strategic 
+Review
+ESG 
+Overview
+Statutory 
+ReportsFinancial 
+Statements
+
+II. Products and Services
+16. Details of business activities (accounting for 90% of the turnover): 
+Sr. 
+NoDescription of main activities Description of Business activities % of Turnover  
+of the entity
+1 Transmission services Power transmission network and related ancillary 
+services.38%
+2 Transmission and Distribution Transmission and distribution network, sale of 
+power to retail customers through distribution 
+network and related ancillary services. Collection 
+and distribution of electricity to households, 
+industrial users, commercial and other users45%
+3 Smart metering Smart Electricity metering as a service 13%
+4 Trading Trading Activities 4%
+5 Renewable Energy & others Generation of Electricity (Wind and Solar) and Sale 
+through Power Purchase Agreements (PPAs) etc.0%
+17. Products/Services sold by the entity (accounting for 90% of Turnover):
+Sr. 
+NoProduct/services NIC Code % of total turnover 
+contributed
+1 Generation of electric power by tapping solar energy 40106 0%
+2 Generation of electricity from other non-conventional sources 40108 0%
+3 Collection and distribution of electricity to households, 
+industrial users, commercial and other users40109 45%
+4 Transmission of electric energy + EPC Business - Power 
+transmission lines, construction / erection45204 38%
+5 Smart Electricity metering as a service 43211/35109 13%
+6 Trading 51902 4%
+w.r.t. https://mospi.gov.in/classification/national-industrial-classification/alphabetic-index-5digit
+III Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated
+Location Number of plants Number of offices Total
+National 0 153 153
+International 0 0 0
+19. Markets served by the entity:
+ a. Locations
+Number
+National (No. of States) 16 (including two license areas - Mundra, and Mumbai)
+International (No. of Countries) 0 
+   Note: The Company has Pan India presence across 16 (sixteen) states namely, Andhra Pradesh, Assam, Bihar, Chhattisgarh, 
+Delhi, Gujarat, Haryana, Jharkhand, Madhya Pradesh, Maharashtra, Punjab, Rajasthan, Tamil Nadu, Telangana, Uttar 
+Pradesh and West Bengal.
+ b.  What is the contribution of exports as a percentage of the total turnover of the entity?
+  During the reporting period the Company had domestic (India) turnover only.
+ c.  A brief on types of customers:
+   The Company works in both Business to Business [B2B] (Power Generation, Transmission and Distribution, 
+Smart metering systems) and Business to Consumers [B2C] business (Retail Electricity Distribution). 
+The B2C business is done by the Retail Electricity distribution arms of AESL i.e. Adani Electricity Mumbai 
+Limited (AEML) and MPSEZ Utilities Limited (MUL). We serve customers across a wide range of industries 
+including, Automobile, Commercial, Industrial, Information and Technology, Communication services, 
+Financial services, Healthcare, High technology, Insurance, etc.
+432
+ADANI ENERGY SOLUTIONS LIMITED
+IV. Employees
+20. a. Employees and workers (including differently abled) at the end of Financial Year:
+EmployeesCurrent FY 2025-26
+Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Permanent (D) 1,764 1,557 88% 207 12%
+Other than Permanent (E) 3 3 100% 0%
+Total employees (D+E) 1,767 1,560 88% 207 12%
+WorkersCurrent FY 2025-26
+Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Permanent (F) 1,750 1,684 96% 66 4%
+Other than Permanent (G) 4,610 4,524 98% 86 2%
+Total Workers (F+G) 6,360 6,208 98% 152 2%
+*Including Executive Board Members (Full-time), and Permanent Employee and Permanent Workers: D+E+F
+ b. Differently abled Employees and workers:
+EmployeesCurrent FY 2025-26
+Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Permanent (D) 4 4 100% 0 0%
+Other than Permanent (E) 0 0 0% 0 0%
+Total employees (D+E) 4 4 100% 0 0%
+WorkersCurrent FY 2025-26
+Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Permanent (F) 6 6 100% 0 0%
+Other than Permanent (G) 0 0 0% 0 0%
+Total Workers (F+G) 6 6 100% 0 0%
+21. Participation/Inclusion/Representation of women 
+Particulars Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 8 2 25%
+Key Managerial Personnel* 4 0 0%
+ Our Board is represented by 25% [2/8] women leaders, 12.5% [1/8] foreign nationals, who are between 50 years and 76 years 
+  * As of March 31, 2026, Key Managerial Personnel include Managing Director, Whole-time Director & CEO Chief Financial 
+Officer and Company Secretary.
+22. Turnover rate for permanent employees and workers
+FY 2025-26 
+(Current FY)*FY 2024-25
+(Previous FY)*FY 2023-24  
+(Prior to the previous FY)
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 4.5% 1.9% 6.4% 15.7% 11.2% 15.2% 7.3% 6.3% 7.1%
+Permanent Workers 24.9%#2.7%#27.6%#8.9% 7.5% 8.8% 8.3% 7.8% 8.2%
+  *High Turnover due to restructuring of business and group company internal transfers
+ #  Permanent Workers : 24.6% out of 24.9% Male and 2.6% out of 2.7% Females = 26.7% out of 27.6% Total were due to 
+voluntary retirement. 
+ The turnover rate has been calculated as per the Guidance Note for BRSR Format 
+433
+Integrated Annual Report 2025-26Portfolio  
+Overview
+Corporate 
+Overview
+Strategic 
+Review
+ESG 
+Overview
+Statutory 
+ReportsFinancial 
+Statements
+
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. Names of holding / subsidiary / associate companies / joint ventures
+S.  
+No.Company NameIndicate whether holding 
+/ Subsidiary / Associate / 
+Joint VentureShare- 
+holdingDoes the entity indicated in column 
+‘A’ participate in the Business 
+Responsibility initiatives of the 
+listed entity? (Yes/No)
+(1) Refer Annexure A on Page 604-605 for information on holding and subsidiary companies /associate 
+companies or joint ventures. (2) They all contribute data required for the preparation of this report.
+VI. CSR Details as per the standalone financial statements under Ind AS
+24. Response
+(i)   Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes 
+(ii) Turnover (` in crore) 3,382.89
+(iii) Net worth (` in crore) 14,885.51
+VII. Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct.
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)  
+(If yes, then 
+provide web-link 
+for grievance  
+redress policy) FY 2025-26 (Current FY) FY 2024-25 (Previous FY) 
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities Yes 0 0 Not 
+applicable0 0 Not 
+applicable
+Investors 
+(other than 
+shareholders) Yes 0 0 Not 
+applicable0 0 Not 
+applicable
+Shareholders Yes 9 0 Not 
+applicable3 0 Not 
+applicable
+Employees and 
+workersYes 1 0 Note 4 74 14
+Note 3Note 1
+Customers Yes 36,515 0 Note 2 61,567 0 Note 2
+Value chain 
+partners Yes 0 0 Not 
+applicable0 0 Not 
+applicable
+Other (please 
+specify) No 0 0 Not 
+applicable0 0 Not 
+applicable
+  Note 1: To address the grievances of non-executives (individual or collective), a Works Committee consisting of representatives 
+of employers and workmen engaged in the corresponding division is formulated, which meet monthly to address problems 
+arising in the day-to-day working of the employees and to arrive at solutions. All such grievances out of purview of the divisional 
+level are escalated to the quarterly Apex Works Committee consisting of business heads of various business verticals and equal 
+number of various union General Secretaries/Vice Presidents.
+ Note 2: Includes General Service-related complaints received from Retail Electricity consumers at Mumbai and Mundra
+ Note 3: Complaints pending resolution at the end of the previous year were subsequently closed.
+ Note 4: Complaint related to PoSH, which has been investigated and closed.
+Communities Whistle Blower Policy
+Investors (other than shareholders)
+Shareholders
+Employees and workers Employee Grievance Management Policy
+Customers Complaint handling process
+Compliant escalation matrix
+Value chain partners Business Responsibility & Sustainability Reporting Policy
+26. Overview of the entity’s material responsible business conduct issues 
+ Refer the Materiality section on Pg. 64.
+434
+ADANI ENERGY SOLUTIONS LIMITED
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+The NGRBC Principles and Core Elements.
+Principle 1 Businesses should conduct and govern themselves with integrity and in a manner that is ethical, 
+transparent, and accountable 
+Principle 2 Businesses should provide goods and services in a manner that is sustainable and safe 
+Principle 3 Businesses should respect and promote the well-being of all employees, including those in 
+their value chains 
+Principle 4 Businesses should respect the interests of and be responsive to all its stakeholders 
+Principle 5 Businesses should respect and promote human rights 
+Principle 6 Businesses should respect and make efforts to protect and restore the environment 
+Principle 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that 
+is responsible and transparent 
+Principle 8 Businesses should promote inclusive growth and equitable development 
+Principle 9 Businesses should engage with and provide value to their consumers in a responsible manner
+At AESL, we have a robust management framework in place which enables us to align with the NGRBC Principles 
+with respect to structure and policies to ensure we continue to deliver our best in an ethical, and responsible way. 
+This encompasses transparent and principled business practices that hold us accountable, as well as protect the 
+interests of our stakeholders, including customers and employees
+Sr. 
+NoDisclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+Policy and management processes
+1. a.   Whether your entity’s policy/ 
+policies cover each principle 
+and its core elements of the 
+NGRBCs. Yes Yes Yes Yes Yes Yes Yes Yes Yes
+b.   Has the policy been approved 
+by the Board?Yes Yes Yes Yes Yes Yes Yes Yes Yes
+c.   Web Link of the Policies, if 
+availableRefer ESG Policies section on the link: 
+https://www.adanienergysolutions.com/sustainability 
+2. Whether the entity has translated 
+the policy into procedures.Yes Yes Yes Yes Yes Yes Yes Yes Yes
+3. Do the enlisted policies extend to 
+your value chain partners?  Yes Yes Yes Yes Yes Yes Yes Yes Yes
+4. Name of the national 
+and international codes / 
+certifications / labels/ standards 
+(e.g. Forest Stewardship Council, 
+Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by 
+your entity and mapped to each 
+principle.The Company policies are aligned to the principles of the National 
+Guidelines for Responsible Business Conduct (NGRBC's), which align with 
+internationally recognized standards, such as :
+ ISO 9001:2015 for Quality Management System 
+ ISO 14001:2015 for Environment Management System 
+ ISO 26000:2010/ SA 8000 for Social Responsibility 
+ ISO 27031:2011 for Information and Communication Technology (ICT) 
+Readiness for business continuity 
+ ISO 45001:2018 for Occupational Health and Safety 
+ ISO 50001:2018 for Energy Management System 
+ ISO 55001:2014 for Asset Management System 
+ ISO 27001:2022 for Information Security Management System 
+ ISO 22301:2019 for Business Continuity Management System 
+435
+Integrated Annual Report 2025-26Portfolio  
+Overview
+Corporate 
+Overview
+Strategic 
+Review
+ESG 
+Overview
+Statutory 
+ReportsFinancial 
+Statements

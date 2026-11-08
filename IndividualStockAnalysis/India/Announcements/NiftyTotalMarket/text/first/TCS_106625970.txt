@@ -1,0 +1,226 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+TCS/SE/ 26/2026- 27 
+ 
+May 15, 2026 
+ National Stock Exchange of India Limited                           BSE Limited  
+Exchange Plaza, C -1, Block G,                                               P. J. Towers, 
+Bandra Kurla Complex, Bandra (East )                                 Dalal Street,  
+Mumbai -  400051                                                                     Mumbai -  400001 
+Symbol -  TCS                                                                           Scrip Code No. -  532540
+ 
+    
+Dear Sirs,  
+ Sub:  Business Responsibility and Sustainability Reporting  
+ Pursuant to Regulation 34(2)(f) of Securities and Exchange Board of India  (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, we are submitting herewith the  Business 
+Responsibility and Sustainability Report for financial year 2025 -26 (“FY 2026”) , along with 
+Independent Practitioners’ Reasonable Assurance Report on the BRSR Core Indicators, provided by KPMG Assurance and Consulting Services LLP , which also forms part of the Integrated Annual  
+Report for FY 2026.  
+ This is for your information and record.  
+ 
+Thanking you, 
+ Yours faithfully,  
+ 
+For Tata Consultancy Services Limited   
+ 
+  Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+Business Responsibility and Sustainability Report135
+Statutory Reports
+ Corporate Overview
+The Company integrates purpose driven leadership with digital expertise and innovation to address its material environmental, social and 
+economic impacts, while supporting sustainable value creation for customers, business partners and stakeholders across the value chain. The Company’s environmental stewardship is guided by four core pillars-carbon emission mitigation, water conservation & recycling, waste reduction & recycling and biodiversity preservation. The Business Responsibility and Sustainability Report (BRSR), aligned with the National Guidelines for Responsible Business Conduct (NGRBC), presents transparent disclosures on the Company’s policies, processes and ESG performance. The Report consists of three sections:
+Provides a broad overview of the business, its offerings, business and operations footprint, employees, related parties, Corporate Social Responsibility (CSR) and transparency.Section A page - 136-139
+Covers management and process disclosures related to the businesses aimed at demonstrating the structures, policies and processes put in place towards adopting the NGRBC Principles and Core Elements.Section B
+Provides indicator-wise disclosures mapped to the nine principles of NGRBC which are listed at the start of Section B.Section C
+Financial Statements
+Business Responsibility  
+and Sustainability Report
+page - 140-142 page - 143-182
+Statutory Reports
+ Corporate Overview
+ Financial Statements
+Integrated Annual Report 2025-26
+136I. Details of the listed entity1
+1. Corporate Identity Number (CIN) of the 
+Listed Entity1.1: L22210MH1995PLC084781
+2. Name of the Listed Entity1.2: Tata Consultancy Services Limited ("the Company" or "TCS")
+3. Year of incorporation : 1995
+4. Registered office address1.3: 9th Floor, Nirmal Building, Nariman Point, Mumbai 400 021, Maharashtra, India
+5. Corporate address
+1.3: TCS House, Raveline Street, Fort, Mumbai 400 001, Maharashtra, India
+6. Email : 
+investor.relations@tcs.com
+7. Telephone : +91 22 6778 9595
+8. Website : www.tcs.com
+9. Financial year for which reporting is being done1.4: 2025-26
+10. Name of the Stock Exchange(s) where shares are listed: National Stock Exchange of India Limited and BSE Limited
+11. Paid-up Capital : H361.8 crore
+12. Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report
+1.5:Sudeep Kunnumal, Chief Human Resources Officer (CHRO)Telephone: +91 22 6778 9999Email ID: corporate.sustain ability@tcs.com
+13. Reporting boundary
+2:This BRSR is prepared on April 9, 2026 on a consolidated basis. The information/data measurement techniques used and the basis of calculations and estimates have been mentioned in the relevant sections of this report. There is a restatement due to change in approach and methodology. The effect and reason have been included under the respective Principle of this report. This restatement would enable consistency and comparability of information for the current year and previous year.
+14. Name of assurance provider :KPMG Assurance and Consulting Services LLP (KPMG)
+15. Type of assurance obtained
+3 :BRSR Core Indicators-Reasonable assurance;  
+Select BRSR Indicators-Limited assuranceSECTION A: GENERAL DISCLOSURES
+II. Products/services4
+16. Details of business activities (accounting for 90% of the Turnover):
+TCS provides IT services, consulting and business solutions to many of the world’s largest businesses in their transformational 
+journeys. Segment revenues, year on year growth, a brief commentary and segment margins are provided in the Financial Performance Overview section of Management Discussion and Analysis, which forms part of this Integrated Annual Report.
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+1 GRI 2-1, GRI 2-3
+1.1 GRI 2-1(b)
+1.2 GRI 2-1(a)
+1.3 GRI 2-1(c)
+1.4 GRI 2-3(a), GRI 2-3(b)
+1.5 GRI 2-3(d) Application Development and Maintenance, Consulting and Service Integration, Digital Transformation Services, AI, Data and Cloud 
+services, Cognitive Business Operations & Products and Platforms.
+ Some of the services broadly map to the National Industrial Classification (NIC) codes 6201, 6202, 6209 and 6311.
+2 GRI 2-2, GRI 2-4, GRI 2-3(c)
+3	 GRI	2-5
+4 GRI 2-6
+Statutory Reports
+ Corporate Overview
+ Financial Statements
+Business Responsibility and Sustainability Report137III. Operations5
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+ b. What is the contribution of exports as a percentage 
+of the total turnover of the entity? 
+94.1%
+ExportsTotal  
+turnover of  
+the entityc. A brief on types of customersLocation Number of plants Number of offices* Total
+National 1 126 127
+International Not Applicable (NA) 185 185
+19. Markets served by the entity:
+a. Number of locations
+Locations Number
+National (No. of States) 28 States and 8 Union Territories 
+International (No. of Countries) 55
+312  
+Global plants 
+and officesAsia Pacific  
+29
+Europe  
+60
+India  
+127Japan  
+7Latin America 
+29Middle East 
+and Africa  
+16North America  
+23United Kingdom  
+21
+The Company works with leading corporations across 
+the world  - typically Fortune 1000, Global 2000 corporations and the public sector. In India, it works with departments of the Government of India and various State Governments, systemically important entities and the private sector. *Includes Delivery centres
+5 GRI 2-6, GRI 2-1(d)
+Statutory Reports
+ Corporate Overview
+ Financial Statements
+Integrated Annual Report 2025-26
+138S/N Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+1 Permanent (D) 5,84,519 3,78,969 64.8 2,05,550 35.2
+2 Other than Permanent (E) 32,918 20,590 62.5 12,328 37.5
+3 Total employees (D + E) 6,17,437 3,99,559 64.7 2,17,878 35.3IV. Employees
+20. Details as at the end of Financial Year: 
+a. Employees (including differently abled)6:
+	 Pursuant to the applicability of the Labour Codes effective November 21, 2025, a subset of the workforce may qualify as 
+‘workers’, and corresponding financial provisions have been recognized in the financial statements. However, systems to identify such categories and ensure compliance with the Labour Codes are currently being implemented. Accordingly, for the current reporting year, TCS has classified its entire workforce under the category of ‘Employees’, with no personnel disclosed under the category of ‘Workers’.
+	 'Other than the Permanent category' includes individuals on direct TCS contracts or through third party.
+Total Employees
+64.7%
+35.3%Male
+Female
+S/N Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+1 Permanent (D) 1,069 784 73.3 285 26.7
+2 Other than Permanent (E) 13 12 92.3 1 7.7
+3 Total differently abled employees (D + E) 1,082 796 73.6 286 26.4
+Particulars Total (A)No. and percentage of Females
+No. (B) % (B/A)
+Board of Directors 8 2 25
+Key Management Personnel 4 1 25
+	 Key Management Personnel (KMP) are Chief Executive Officer & Managing Director (CEO & MD), Executive Director – 
+President & Chief Operating Officer (ED - President & COO), Chief Financial Officer (CFO) and Company Secretary (CS).b. Differently abled Employees:
+	 The numbers mentioned above are based on voluntary disclosures by employees.
+	 Differently abled includes hearing, visual, locomotor, orthopedic and others.
+21. Participation/Inclusion/Representation of women7
+6 GRI 2-7, GRI 2-8, GRI 405-1(a)
+7 GRI 405-1(a)
+8 GRI 401-1FY 2026 FY 2025 FY 2024
+Male % Female % Total % Male % Female % Total % Male % Female % Total %
+Permanent Employees 13.8 13.4 13.7 13.2 13.6 13.3 12.5 12.5 12.522. Turnover rate for permanent employees8
+	 For FY 2026 the turnover rate is for last twelve months’ voluntary IT services. 
+	 For FY 2025 and FY 2024 turnover rates are for the last twelve months IT services.
+Statutory Reports
+ Corporate Overview
+ Financial Statements
+Business Responsibility and Sustainability Report1399 GRI 2-2
+10 GRI 2-16, GRI 2-25, GRI 2-26
+11 GRI 3-2 
+12 GRI 3-3
+13 GRI 201-2S/N Material issue identifiedIndicate 
+whether risk or opportunity (R/O)Rationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigate
+12Financial implications of the risk or opportunity (Indicate positive or negative implications)
+13
+Kindly refer the “Enterprise Risk Management section” in Management Discussion and Analysis, which forms part of this 
+Integrated Annual Report.Stakeholder 
+group from 
+whom complaint 
+is  receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No)FY 2026 FY 2025
+(If Yes, then provide 
+web-link for 
+grievance redress 
+policy)10Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending resolution 
+at close of the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending resolution 
+at close of the yearRemarks
+Communities Yes 0 0 - 0 0 -
+Investors 
+(other than shareholders)Yes
+#0 0 - 0 0 -
+Shareholders Yes#86 5 As on the date of this Report 
+i.e., April 9, 2026, 2 complaints 
+have been resolved92 8 All addressed 
+and closed
+Employees Yes#1,664 42 - 1,329 43 All addressed 
+and closed
+Customers Yes#22 2 Pending cases are under 
+review31 4 All addressed 
+and closed
+Value Chain 
+PartnersYes#0 0 - 0 0 -V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. Names of holding/subsidiary9
+ Tata Sons Private Limited is a holding company.
+ Refer Form AOC-1 provided in this Integrated Annual Report for the list of subsidiaries. All subsidiaries participate in the Business Responsibility initiatives of the Company.
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+(ii) Turnover (in J) :  2,67,021 crore
+(iii) Net worth (in J) :  1,07,240 crore
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+ #https://on.tcs.com/WhistleBP
+26. Overview of the entity’s material responsible business conduct issues11
+ Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk  
+along-with its financial implications, as per the following format

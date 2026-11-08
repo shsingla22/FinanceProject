@@ -1,0 +1,186 @@
+ 
+  
+ 
+ 
+ 
+ 
+ 
+July 2 7, 2026 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+ 
+Scrip ID: BSOFT  
+Scrip Code: 532400  
+ 
+Kind Attn: The Manager,  
+Department of Corporate Services  National Stock Exchange of India Ltd.,  
+Exchange  Plaza, C/1, G Block,  
+Bandra - Kurla Complex, Bandra (E),  
+Mumbai – 400051.  
+ 
+Symbol:  BSOFT  
+Series:  EQ 
+ 
+Kind Attn:  The Manager,  
+Listing Department  
+ 
+Subject:  Voting results of the 3 5th Annual General Meeting of Birlasoft Limited  
+ 
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to the provisions of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, (“the Regulations”) and the Companies Act, 
+2013, please find enclosed herewith the following:  
+ 
+1. Voting results as required under Regulation 44 of the Regulations; and  
+ 
+2. Report of Scrutinizer dated July 27 , 202 6, pursuant to Section 108 of the Companies 
+Act, 2013 and read with the Companies (Management and Administration) Rules, 2014.  
+ 
+The voting results along with the Scrutinizer's Report will also be available on the Company's 
+website at www.birlasoft.com and on the website of National Securities Depositories Limited 
+at www.evoting.nsdl.com . 
+ 
+Kindly take the same on your records.  
+ 
+Thanking you.  
+Yours faithfully,  
+ 
+For Birlasoft Limited  
+ 
+ 
+ 
+Sneha Padve  
+Company Secretary & Compliance Officer  
+Membership No. A9678  
+ 
+Encl.: - As mentioned above  
+CKA Birla Group hirlasoft 
+Birlasoft Limited 
+Registered Office: 35 & 36, Rajiv Gandhi lnfotech Park, Phase -I. MIDC, Hinjawadl, Pune (MH) 411057, India 
+Tel: +91 20 6652 5000 I contactus@birlasoft.com I www.birlasoft.com 
+CIN:L72200PN1990PLC059594 
+#
+Scrip code 532400
+NSE Symbol BSOFT
+MSEI Symbol NOTLISTED
+ISIN INE836A01035
+Name of the company Birlasoft Limited
+Type of meeting AGM
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)27-07-2026
+Start time of the meeting 02:30 PM
+End time of the meeting 03:28 PMGeneral information about companyHome Validate
+
+#
+Name of the Scrutinizer Jayavant B. Bhave
+Firms Name  J.B. Bhave & Co. Company Secretaries
+Qualification CS
+Membership Number FCS 4266
+Date of Board Meeting in which appointed 06-05-2026
+Date of Issuance of Report to the company 27-07-2026Scrutinizer DetailsHome Validate
+
+#
+Record date 20-07-2026
+Total number of shareholders on record date 420152
+a) Promoters and Promoter group 0
+b) Public 0
+a) Promoters and Promoter group 2
+b) Public 55
+No. of resolution passed in the meeting 4
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+#
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 112905785 100.0000 112905785 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)Total 112905785 112905785 100.0000 112905785 0 100.0000 0.0000
+E-Voting 79524383 87.3561 79524383 0 100.0000 0.0000
+PollPostal Ballot (if applicable)Total 91034699 79524383 87.3561 79524383 0 100.0000 0.0000
+E-Voting 1578113 2.0858 1576432 1681 99.8935 0.1065
+PollPostal Ballot (if applicable)Total 75659105 1578113 2.0858 1576432 1681 99.8935 0.1065
+Total Total 279599589 194008281 69.3879 194006600 1681 99.9991 0.0009
+* this fields are optional
+No. of Votes
+000
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution2.00
+Details of Invalid Votes
+CategoryPublic- Non 
+Institutions75659105Resolution (1)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution considered Adoption of audited Financial Statements – Standalone
+Promoter and Promoter Group112905785
+Public- Institutions91034699Home Validate
+Add Notes
+Notes:
+Total number of shares held include:
+1. 2,30,830 shares of the Company are transferred to Investor 
+Education and Protection Fund. The voting rights on these shares 
+remain frozen until the rightful owner claims the shares. 
+2. 10,000 shares of the Company a re transferred to Unclaimed 
+Suspense Account. The voting rights on these shares remain frozen 
+until the rightful owner claims the shares. --
+#
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 112905785 100.0000 112905785 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)Total 112905785 112905785 100.0000 112905785 0 100.0000 0.0000
+E-Voting 79524383 87.3561 79524383 0 100.0000 0.0000
+PollPostal Ballot (if applicable)Total 91034699 79524383 87.3561 79524383 0 100.0000 0.0000
+E-Voting 1578107 2.0858 1576426 1681 99.8935 0.1065
+PollPostal Ballot (if applicable)Total 75659105 1578107 2.0858 1576426 1681 99.8935 0.1065
+Total Total 279599589 194008275 69.3879 194006594 1681 99.9991 0.0009
+* this fields are optional
+No. of Votes
+000
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution6.00
+Details of Invalid Votes
+CategoryPublic- Non 
+Institutions75659105Resolution (2)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution considered Adoption of audited Financial Statements – Consolidated
+Promoter and Promoter Group112905785
+Public- Institutions91034699Home Validate
+Add Notes
+Notes:
+Total number of shares held include:
+1. 2,30,830 shares of the Company are transferred to Investor 
+Education and Protection Fund. The vot ing rights on these shares 
+re
+main frozen until the rightful owner claims the shares. 
+2. 10,000 shares of the Company are transferred to Unclaimed 
+Suspense Account. The voting rights on these shares remain frozen 
+until the rightful owner claims the shares. --

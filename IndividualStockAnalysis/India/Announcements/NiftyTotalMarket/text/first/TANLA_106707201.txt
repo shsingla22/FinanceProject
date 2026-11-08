@@ -1,0 +1,210 @@
+ 
+ 
+July 22, 202 6 
+ 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+ 
+Scrip Code: 532790  National Stock Exchange of India Ltd.  
+Exchange Plaza , Bandra -Kurla Complex,  
+Bandra (East),  
+Mumbai - 400 051  
+ 
+Symbol: TANLA  
+ 
+Sub: Letter to Shareholders for quarter ended June 30, 202 6. 
+ 
+Dear Sir/ Madam , 
+ 
+With reference to the subject cited, we are enclosing herewith Letter to Shareholders for quarter ended 
+June 30, 202 6. 
+ 
+ 
+Request you to take the same on record and oblige.  
+ 
+Thanking you  
+ 
+Yours faithfully,  
+For Tanla Platforms Limited  
+ 
+ 
+ 
+Seshanuradha Chava  
+General Counsel and Company Secretary  
+ACS-15519  
+ 
+Q1 FY27 | 22 JULY 2026Shareholders’
+Letter and Results
+Financial Performance
+Message from Chairman
+Management Discussion Q&A
+Quarterly Disclosures
+Policies
+Deep-Dive Charts03
+04
+07
+09
+16
+20Table of Contents
+3
+Shareholder Report   Q1 FY27Q1 FY27 is a strong start to the year. Revenue grew 17 .8% YoY, with gross profit and EBITDA 
+growing even faster, reflecting an improving quality of growth.  Our objective isn’t revenue 
+growth at any cost. It’s profitable growth that consistently converts into cash.
+- Uday Reddy, Founder Chairman & CEO• London Business School published a case study on Tanla’s Wisely.ai deployment with Indosat, documenting 
+how the AI-native platform protects over 100 Mn users in Indonesia from spam and scam communications
+• Received Special Recognition at the IIT Madras Social Impact Awards 2026 for the Cyberabad Traffic Pulse 
+initiative, building on our recognition at the Global CSR and ESG Awards in 2025Significant EventsDigital Platforms
+Enterprise CommunicationsRevenue  
+₹1,031 Mn  
+0.2% QoQ & 12.2% YoY
+Revenue  
+₹11,233 Mn  
+4.5% QoQ & 18.4% YoY Gross Profit 
+₹1,015 Mn  
+0.2% QoQ & 12.2% YoY
+Gross Profit 
+₹2,247 Mn  
+3.8% QoQ & 32.0% YoYEBITDA
+₹811 Mn  
+78.6% Margin
+EBITDA
+₹1,201 Mn  
+10.7% MarginRevenue 
+₹12,264 Mn
+4.1% QoQ & 17 .8% YoYGross Profit 
+₹3,262 Mn  
+2.6% QoQ & 25.1% YoYEBITDA 
+₹2,012 Mn  
+4.9% QoQ & 22.7% YoY
+PAT 
+₹1,422 Mn  
+5.8% QoQ & 20.1% YoYEPS
+₹10.77 Per Share
+5.8% QoQ & 22.1% YoYCash and Cash equivalents 
+₹11,970 Mn
+Post dividend payout of ₹796 MnFinancial Performance Q1 FY27
+4
+Shareholder Report   Q1 FY27
+“Dear Shareholders,
+Q1 FY27 marks a strong start to the year, with growth 
+across all our key financial metrics. More importantly, 
+the quarter gives us a clear view of what is working and 
+where we need to improve.
+Revenue grew 17 .8% year-on-year and 4.1% 
+sequentially. Gross profit grew 25.1% year-on-year and 
+2.6% sequentially. EBITDA increased 22.7% year-on-year 
+and 4.9% sequentially, while PAT grew 20.1% year-on-
+year and 5.8% sequentially. We generated free cash 
+flow of ₹1,259 Mn crore during the quarter.Three aspects of this performance are particularly 
+important.
+First, gross profit and EBITDA grew faster than revenue 
+year-on-year. This reflects an improvement in the 
+quality of growth, supported by higher wallet share 
+among existing customers.
+Second, EBITDA and PAT also grew faster than revenue 
+sequentially, reflecting continued operating discipline. 
+As we grow, we must ensure that a greater proportion 
+of incremental gross profit flows through to earnings.
+Third, the business converted its performance into 
+strong free cash flow. Ultimately, growth must translate 
+into cash. This gives us the ability to fund our priorities 
+while maintaining financial strength.
+However, we must examine the numbers with equal 
+honesty. Sequentially, gross profit grew slower 
+than revenue. Improving revenue mix and gross-
+margin conversion therefore remains an important 
+management priority. We will not pursue volume for its 
+own sake. The revenue we add must improve customer 
+relevance, margins and cash generation.
+Our focus during the quarter was on deepening 
+relationships with existing customers, increasing 
+wallet share and maintaining execution discipline. The 
+performance reflects the underlying resilience of the 
+business.
+We remain focused on the measures that determine 
+the quality of growth—revenue mix, gross margins, 
+operating leverage, working-capital discipline and 
+cash conversion. These will continue to guide our 
+decisions as we work to create sustainable long-term 
+value.
+Our priorities for Q2 are specific: sustain revenue 
+momentum, improve gross-margin quality, convert 
+customer opportunities into billed revenue, maintain 
+discipline on costs, and strengthen collections and 
+cash conversion.
+Q1 gives us a strong start and positive momentum. 
+Our responsibility now is to build on this performance 
+through the rest of the year.
+Thank you for your continued trust.”
+Uday Reddy
+Founder Chairman & CEOMessage from the Chairman
+5
+Shareholder Report   Q1 FY27Tanishq
+Driving Store Visits with Hyper-Targeted Click-to-WhatsApp Ads 
+Jewellery Retail  |  India  |  CTWA Performance Marketing & Hyperlocal Store Activation
+Hyperlocal Pilot Before 
+National Scale
+Rather than launching nationally from day one, 
+Tanishq ran a disciplined pilot across 4 cities. 
+This allowed the team to validate the CTWA + 
+WhatsApp chatbot model, measure attributable 
+store visits and purchases against ad spend, 
+and build the data case for broader rollout — 
+a deliberate, performance-led approach to 
+channel adoption. Tanishq and Karix deployed a tightly integrated CTWA campaign combining Meta’s advertising 
+platform for precise audience targeting with a WhatsApp chatbot for seamless, in-thread store 
+discovery. The solution bridged the gap between digital advertising and physical store visits — 
+turning a Meta ad click into a mapped route to the nearest Tanishq showroom. About the Client 
+Solution Offered Client: Tanishq (Tata Group) The Opportunity
+Industry Jewellery RetailFor its Festival of Diamonds campaign, the marketing team at 
+Tanishq wanted to drive footfall to its stores. They needed to reach 
+the right audience, nudge them to locate and visit the nearest 
+store, and directly attribute sales to campaign efforts — all while 
+starting with a contained pilot before scaling.
+Specific objectives included:
+• Reach the right target audience to generate awareness of the 
+diamond jewellery offer
+• Attribute store footfalls and purchases directly to campaign spend 
+(ROAS measurement)
+• Start small with a hyperlocal pilot across 4 cities before rolling out 
+nationallyGeographyIndia — 240+ cities, 
+410+ stores
+CampaignFestival of Diamonds — 
+up to 20% off
+PartnerKarix (a Tanla 
+Company) + Meta
+SolutionCTWA Ads via Meta + 
+WhatsApp Chatbot
+Hyper-Targeted Meta 
+CTWA Ads - Festival of 
+Diamonds
+Tanishq partnered with Karix and Meta to run 
+Click-to-WhatsApp (CTWA) ads on Meta’s 
+platform. The ad creative highlighted the flagship 
+offer — up to 20% off on diamond jewellery — 
+along with other key value propositions. Meta’s 
+superior audience targeting capabilities ensured 
+ads reached high-intent, geographically 
+relevant users in 4 pilot cities. Case Study 
+WhatsApp Chatbot — 
+In-Thread Store Discovery 
+Experience 
+Direct Attribution of Store 
+Footfall & SalesUsers who clicked the ad were instantly connected 
+to the Tanishq Jewellery WhatsApp chatbot. The 
+chatbot delivered a seamless, three-step in-thread 
+experience: it reiterated the offer with a sense of 
+urgency (offer expiry), prompted users to select their 
+city, and then shared the nearest store locations 
+alongside Google Maps links — all within a single 
+WhatsApp conversation.
+By using CTWA as the entry point, every store visit and 
+purchase could be directly traced back to a specific 
+campaign interaction. This solved one of Tanishq’s 
+core challenges — attributing offline sales to digital 
+advertising — delivering a clear ROAS measurement 
+that justified continued investment and scale-up of 
+the pilot. 

@@ -1,0 +1,152 @@
+ 
+ 
+SEC/SE/032 /2026 -27 
+Chennai, July 0 7, 2026  
+ 
+To 
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra(E),  
+Mumbai – 400051  
+NSE Symbol - DATAPATTNS  To 
+BSE Limited  
+25th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+Company Code: 543428  
+ 
+Sub: Annual Report for the Financial Year ended March 31, 2026, along with Notice of 28th Annual General 
+Meeting (AGM) and E -voting details  
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 34 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we enclose herewith the Annual Report (including the Business Responsibility and Sustainability 
+Report) for the Financial Year 2025 -26, along with th e Notice of 28th Annual General Meeting (“AGM”) 
+of the Company dated June 25 , 2026, setting out the business to be transacted thereat, scheduled to 
+be held on Friday, July 31, 2026, at 11:00 a.m., IST through Video Conferencing or Other Audio Visual 
+Means (“VC/OAVM ”). 
+ 
+We also wish to inform you that, pursuant to Section 108 of the Companies Act, 2013, read with Rule 
+20 of the Companies (Management & Administration) Rules, 2014 and Regulation 44 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regu lations, 2014, the Company is providing remote e -voting 
+facility to all its Members to enable them to exercise their right to vote by electronic means on the 
+resolutions proposed in the Notice of 28th Annual General Meeting. Those members, who will be 
+pres ent in the AGM through VC/OAVM and have not casted their vote on the resolutions through 
+remote e -voting shall be eligible to vote through e -voting system available during the AGM.  
+ 
+We further submit the following information for the ready reference of th e Members of the Company:  
+ 
+S.No  Particulars  Remarks  
+1 Cut-off date for E -voting entitlement  Friday, July 24, 2026  
+2 E-voting Start Date & Time  Tuesday, July 28, 2026 , 9:00 A.M. IST  
+3 E-voting End date & Time  Thursday, July 30, 2026, 5:00 P.M. IST  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In accordance with the relevant circulars issues by the Ministry of Corporate Affairs (“MCA ”) and the 
+Securities Exchange Board of India (“SEBI ”), the dispatch of the Notice of the AG M and the Annual 
+Report of the Company for the Financial Year 2025 -26 will commence today i.e. July 07 , 2026, through 
+electronic mode to all those members of the Company whose email addresses are registered with the 
+Company and/or Depository Participant(s). Further, in accordance with Regulation 36 (1)(b) of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 , the Company will be sending letter 
+to Shareholders whose e -mail addresses are not registered with Company/DPs providing weblink  from 
+where Annual Report and the Notice of AGM can be accessed on the Company ’s website.  
+ 
+We request  you to take the above on record and oblige.  
+ 
+Thanking You.  
+ 
+For Data Patterns (India) Limited   
+ 
+ 
+ 
+ 
+Prakash R  
+Company Secretary and Compliance Officer  
+Membership No: F13620  
+ 
+Encl: As above  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATA PATTERNS (INDIA) LIMITED
+BUILDING A SELF-RELIANT INDIA28th
+Annual 
+Report
+2025-2026
+Data Patterns (India) Limited  | Annual Report 2025-26Contents
+Corporat e Overview  03
+Chairman’s Statement  06
+Letter from Director  08
+Board of Directors  10
+Highlights of the year  11
+Management Discussion & Analysis  19
+Directors’ Report  25
+Report on Corporate Governance  55
+Business Responsibility and  Sustainability Report  78
+Independent Practitioner’s Reasonable Assurance Report  114
+Independent Auditor’s Report  118 
+Financial Statements  130
+In this annual report we are presenting some forward-looking information to 
+enable investors to comprehend our prospects and take informed investment decisions. This report and other statements - written and oral - that we periodically make contain forward-looking statements that set out anticipated results based on the management’s plans and assumptions. Wherever possible, we have tried to identify such statements by using words such as ‘anticipates’, ‘estimates’, ‘expects’, ‘projects’, ‘intends’, ‘plans’, ‘believes’, and words of similar substance in connection with any discussion of future performance.
+We cannot guarantee that these forward-looking statements will be 
+realised, although we believe we have been prudent in our assumptions. The achievement of results is subject to risks, uncertainties and even inaccurate assumptions.
+Should known or unknown risks or uncertainties materialise, or should 
+underlying assumptions prove inaccurate, actual results could vary materially from those anticipated, estimated or projected.
+We undertake no obligation to publicly update any forward looking statements, 
+whether as a result of new information, future events or otherwise.Forward-looking statement
+DATA PATTERNS (INDIA) LIMITED.
+LEVERAGING A STRONG TECHNICAL KNOWLEDGE 
+AND RICH EXPERIENCE IN RADARS, ELECTRONIC WARFARE, COMMUNICATION SYSTEMS AND AVIONICS. EQUIPPED TO DEVELOP ‘MADE IN INDIA’ SOLUTIONS, REDUCE IMPORTS AND EFFECTIVELY PARTICIPATE IN THE EMERGING INDIAN DEFENCE ECO-SYSTEM, MAKING DATA PATTERNS A PREMIUM DEFENCE AND AEROSPACE ELECTRONIC SOLUTIONS COMPANY IN INDIA.Corporate Snapshot
+Data Patterns (India) Limited  | Annual Report 2025-26
+3
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL SECTION
+Performance Highlights 2025-26
+Incorporated in  
+1998
+63%  Gross and  
+40% EBITDA Margins1,599  Employees 
+1,096  Engineers
+17%  ROE and 
+23% ROCE32%  Revenue and  
+27%  EBITDA CAGR (FY22-26)
+Rs 926  Cr Order Book  
+at 31st March 2026
+Senior personnel associated with  
+Company  for more than 2 decadesFrom Design  
+to Delivery
+(Rs. in Cr.)
+Particulars (Rs. Cr) FY21 FY22 FY 23 FY24 FY25 FY26
+Total Revenue 227 315 463 566 755 953
+EBITDA 92 141 172 222 275 371
+EBITDA Margin % 41% 45% 38% 43% 39% 40%
+Profit Before Tax 75 127 165 242 295 364
+Profit After Tax 56 94 124 182 222 271
+Share Capital 1.7 10.38 11.2 11.2 11.2 11.2
+Other Equity 206 564 1156 1313 1497 1725
+Total Debt 33 7 0.7 - - -
+Current Liabilities 72 103 126 350 277 140
+Return on Net Worth 31% 24% 14% 15% 16% 17%
+Debt to Equity 0.2 0 0 0 0 0
+Trade Receivables 156 198 382 399 596 728
+Cash and Cash Equivalents 9 177 215 88 38 57
+Other Bank Balances - - 332 305 89 37
+Current Assets 261 520 1231 1401 1451 1468
+Data Patterns (India) Limited  | Annual Report 2025-26
+4

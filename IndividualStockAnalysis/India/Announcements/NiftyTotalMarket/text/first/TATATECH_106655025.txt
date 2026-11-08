@@ -1,0 +1,147 @@
+ 
+ 
+ 
+Tata Technologies Limited  
+Plot No 25, Rajiv Gandhi Infotech Park | Hinjawadi, Pune 411057 | India 
+Tel: +91 20 6652 9090 | Fax: +91 20 6652 9035 
+CIN L72200PN1994PLC013313  
+Email: investor@tatatechnologies.com  
+Website: www.tatatechnologies.com 
+Ref. No.: TTL/COSEC/SE/2026-27/25 
+ 
+June 4, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dear Sir / Madam, 
+ 
+Subject: Press Release - Tata Technologies launches the 4th edition of InnoVent hackathon for 
+engineering students, in collaboration with Emerson and Amazon Web Services (AWS), focused 
+on ‘AI at the Edge’ 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, enclosed herewith is a Press Release on the captioned subject, the contents of which are self-
+explanatory. 
+ 
+This is for your information and records. 
+ 
+Thanking you. 
+ 
+For Tata Technologies Limited 
+ 
+ 
+ 
+Raghav Mulay 
+Company Secretary and Compliance Officer  
+ 
+Encl: as above BSE Limited                                  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai- 400001, India. 
+Scrip Code: 544028 National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051, India. 
+Trading symbol: TATATECH 
+ 
+© Copyright 2026 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+Classification: Public 
+  
+ 
+ | 1
+  
+Tata Technologies launches the 4th edition of InnoVent hackathon for engineering students, in 
+collaboration with Emerson and Amazon Web Services (AWS), focused on ‘AI at the Edge’ 
+  
+ Tata Technologies is collaborating with Emerson’s Test & Measurement business and Amazon Web 
+Services (AWS) to provide engineering students in India with a platform to showcase their creativity and 
+develop innovative solutions. 
+ This year’s theme focuses on leveraging 'AI at the Edge’. AI Solutions for Automotive, Industrial Heavy 
+Machinery & Aerospace to drive next-generation engineering solutions across the Automotive, Industrial 
+Heavy Machinery, and Aerospace sectors. 
+ Reinforcing its focus on talent, Tata Technologies will offer job opportunities to top participants, along 
+with cumulative cash prizes worth INR 4.5 lakhs, access to AWS cloud computing services, NI test & 
+measurement tools, mentorship from industry experts, participation certificates for POC-stage teams, 
+and sponsor awards including the Breakthrough Award and Social Media Award. 
+ The innovation contest invites entries from 3rd and 4th year engineering students, encouraging inclusive 
+participation from women engineers. 
+ 
+Pune, Mumbai, Bengaluru, Chennai, Delhi, India, 4th June, 2026:  Tata Technologies, a global product engineering 
+and digital services company, today announced the launch of the 4th edition of its flagship engineering innovation 
+hackathon, InnoVent-27. Building on its continued success, this year the initiative has been further strengthened 
+and taken a notch higher in collaboration with Emerson’s Test & Measurement business and Amazon Web 
+Services (AWS).  InnoVent-27 offers engineering students across India an inspiring platform to tackle real-world 
+industrial challenges by deploying advanced computing directly where the data is generated. 
+The theme for this edition, AI at the Edge , challenges participants to unleash the potential of localized, real-time 
+intelligence. Guided by the tagline, "AI solution for Automotive, Industrial Heavy Machinery, and Aerospace,"  
+The hackathon invites participants to conceptualize and build AI-at-the-edge solutions that enhance 
+performance, safety, sustainability, and autonomy across automotive, industrial heavy machinery, and 
+aerospace sectors. Submissions may span applications such as ADAS and autonomous systems, predictive 
+ PRESS RELEASE 
+© Copyright 2026 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+Classification: Public 
+  
+ 
+ | 2 
+maintenance, smart manufacturing and digital twins, intelligent inspection, secure connected ecosystems, and 
+energy-efficient, next-generation mobility solutions. 
+The competition is open to 3rd and 4th year engineering students. Reinforcing Tata Technologies’ deep-rooted 
+commitment to diversity and inclusion, the hackathon actively encourages entries from teams with women 
+innovators and differently abled members. 
+The rigorous evaluation process will be conducted in three distinct stages: initial concept screening, virtual Proof 
+of Concept (PoC) presentations, and final prototype live demonstrations. Projects will be assessed based on their 
+novelty, feasibility, diversity, and potential real-world impact, with a particular spotlight on functional 
+prototypes. 
+To support the scaling of these student innovations, Tata Technologies' Subject Matter Experts (SMEs) will 
+provide intensive technical mentorship. The top-performing teams stand to win cumulative cash prizes worth 
+INR 4.5 Lakhs and job opportunities at Tata Technologies. Winners will also receive AWS Kits, along with sponsor 
+recognitions, including the Breakthrough Idea Award and Best Prototype Award. All teams reaching the POC 
+stage will receive participation certificates. 
+Komal Chhabra, SVP - Strategy, Marketing & Corporate Development, Tata Technologies , commented on the 
+launch of InnoVent-27: “At Tata Technologies, we believe that real-world engineering challenges are best solved 
+by the minds closest to the future. InnoVent-27 is our commitment to nurturing that talent by bringing together 
+the brightest engineering students with industry-leading partners. AI at the Edge is not just a theme, but the 
+direction in which automotive, aerospace, and industrial engineering is headed. Through this platform, we are 
+giving India's next generation of engineers the tools, mentorship, and stage they need to turn bold ideas into 
+solutions that matter.” 
+Shitendra Bhattacharya, Country Head & Director, Emerson Test and Measurement , added: “We are excited to 
+partner with Tata Technologies for InnoVent-27. Bringing AI to the edge requires robust validation, and Emerson’s 
+software-defined test and measurement solutions, built on NI technologies, are designed to help young 
+innovators seamlessly transition their code from virtual simulations into rugged, real-world hardware 
+environments. Fostering talent in automotive, aerospace, industrial, biomedical and consumer devices is highly 
+aligned with our mission to push the boundaries of technology.”  
+Kunal Matt, Enterprise Account Manager- Conglomerates, Amazon Web Services (AWS) , said: “By continuing 
+our collaboration with Tata Technologies for InnoVent, we aim to bridge the gap between heavy edge devices 
+and scalable cloud support. Combining Cloud Computing Services with Edge AI are redefining modern industrial 
+sectors. We are proud to provide the cloud support and technical guidance needed to help engineering students 
+build, deploy, and scale intelligent applications that will transform industries.”  
+ENDS 
+About Tata Technologies  
+Tata Technologies (BSE: 544028, NSE: TATATECH) is a global product engineering and digital services company 
+helping manufacturers design, develop, and deliver better products. The company partners with global OEMs 
+and enterprises across automotive, aerospace, industrial heavy machinery, and other manufacturing sectors. 
+Driven by its vision of #EngineeringABetterWorld, Tata Technologies enables enterprises to innovate faster and 
+deliver differentiated customer experiences through engineering excellence and digital transformation. 
+© Copyright 2026 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+Classification: Public 
+  
+ 
+ | 3 
+With deep domain expertise in Embedded Systems and Software Solutions, Engineering Research & 
+Development (ER&D) Services, and Digital Enterprise Solutions, Tata Technologies helps enterprises accelerate 
+time-to-market, optimize product development costs, improve operational efficiency, and build smarter, safer, 
+and more sustainable products. 
+For more information, visit www.tatatechnologies.com 
+Tata Technologies Media enquiries  
+Nikita Crasta (+91 22 67574600, Nikita.Crasta@adfactorspr.com) 
+ 

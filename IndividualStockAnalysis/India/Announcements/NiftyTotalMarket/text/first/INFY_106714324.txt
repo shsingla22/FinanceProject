@@ -1,0 +1,196 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE  
+ 
+July 28, 2026  
+Dear Sir/ Madam,  
+Sub: Transcripts of the press conference an d earnings call conducted after the Meeting of 
+ Board of directors on July 23, 2026  
+ 
+Please find enclosed the transcripts of the press c onference and earnings call conducted after the Board 
+meeting held on July 23, 2026, for your information and records.  This information will also be ho sted on the Company’s website, at  
+https://www.infosys.com/investors/reports-f ilings/quarterly-resu lts/2026-2027/q1.html  
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at  https://www.infosys.com/investors/r eports-filings/quarterly-results/2026-
+2027/q1.html  
+This is for your information and records.  
+Yours Sincerely,  
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary 
+Membership No: A21918  
+ 
+ 
+External Document © 2025  Infosys Limited  1     
+                                                 
+                                                           Infosys Limited  
+                          Media Conference Call  
+July 23, 202 6 
+   
+CORPORATE PARTICIPANTS:   
+ 
+ 
+Nandan Nilekani 
+Co-Founder and Chairman of the Board 
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director  
+ 
+Jayesh Sanghrajka 
+Chief Financial Officer  
+ 
+Rishi Basu 
+AVP and Global Head - Corporate Communications  
+ 
+JOURNALISTS:  
+ 
+Ritu Singh 
+CNBC TV18  
+ 
+Reshab Shaw  
+Moneycontrol  
+ 
+Mansee Dave  
+ET Now  
+ Shilpa Phadnis 
+The Times of India  
+ 
+Avik Das  
+Business Standard  
+ Haripriya Suresh 
+Reuters  
+ 
+Beena Parmar  
+The Economic Times  
+ 
+Sanjana B . 
+The Hindu BusinessLine  
+ 
+ 
+External Document © 202 5 Infosys Limited  2   Uma Kannan 
+Deccan Herald 
+ 
+Rohit Chintapali 
+Businessworld  
+ 
+Poulomi Chatterjee  The Financial Express  
+ 
+Jas Bardia  
+The Mint 
+ Rukmini Rao 
+Fortune India 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+External Document © 202 5 Infosys Limited  3   Rishi Basu 
+A very good evening, everyone and thank you for joining Infosys' first quarter financial results. My 
+name is Rishi. And on behalf of Infosys, I would like to welcome all of you today. I would first like to 
+invite our Chairman, Mr. Nandan Nilekani and our Chief Executive Officer, Mr. Salil Parekh for an 
+important announcement which will then be followed by our business updates. Kindly note, Nandan will not be taking any questions. Sirs, over to you. 
+Nandan Nilekani 
+Thank  you, Rishi  and it is great to be here with all of you. I thought I would take this opportunity to 
+make an important announcement. As you know, Salil has been CEO of Infosys for almost 10 years. 
+He came, I do not know how many of you were here 10 years back, but he came at a time when 
+things were slightly unstable. And he brought in calmness, focus , took the company from $10 bn  to 
+$20 bn, completely  did the transformation for the digital era and started the AI differentiation and 
+implementation. Salil’s  term comes to an end on March 31, 2027.  
+Infosys has been looking at his succession. And today, I am delighted to tell you that the Board has 
+appointed his s uccessor, our new CEO, who will take over on April 1, 2027. He is from Infosys. He  
+has been somebody who is a true- blue Infos cion. He has worked in Infosys for 31 years. He has 
+worked in every part of Infosys, be it in delivery, be it in sales, be it in account management, starting 
+a new DC in Bhubaneswar, everything. And he is someone who I think everybody likes, respects, is 
+an uncomplicated guy who focuses on what needs to be done. His name is Ashiss Dash. So Ashiss 
+is based out of L.A. He has been there for some time. He will move back to India and in the next 2-
+3 months, he will do some CEO coaching a nd then from October 1, Salil will take him on as his 
+mentee and prepare him for the role,  so that he can take on this role of managing a complex $20 bn 
+company in a very transformational time.  
+So, I just wanted to let you know that Ashiss will be the new CEO a nd I would now like to request 
+Salil to say a few words about Ashiss. 
+Salil Parekh 
+Thanks, Nandan. So first welcome, everyone. This is an incredible time for us, as Nandan shared, I  
+have known Dash for a very long time working closely with him , a huge congratulations to him and 
+in making sure everything he does works well into the future. He has had an amazing portfolio, the 
+way he has built it, the way he has crafted it in terms of the clients he has worked with, in terms of 
+the people he has worked with. 
+ 
+External Document © 202 5 Infosys Limited  4   And there is a tremendous set of opportunities from that on to the overall company, the learnings 
+from that as we apply to the overall company. Ashiss Dash, also a very collaborative individual 
+working well with all of the various components within Infosys and having been here for a long time, 
+has made sure he has learned everything and also understood how all different parts of the company 
+work. So huge, huge congratulations to him and looking forward to working with him as we do the 
+transition over the next few months. 
+Rishi Basu 
+I now invite Jayesh to join Salil on stage to commence the quarter updates. As always, for this 
+section, I will request one question from each media house. But with that, let me invite Salil for his 
+remarks. Over to you, Salil.  
+Salil Parekh 
+Thanks, Rishi, and thanks Nandan. So good afternoon, everyone.  Thank you for being here.  
+Our revenue growth for Q1 was at 2.4% Y-on-Y  and 1% Q -on-Q  in constant currency terms. We had 
+a one-time revenue impact of a client decision during the quarter. Our AI services revenue was 8.2% 
+of overall revenue in Q1. Our large deals, $3.6 bn at 61% net new, operating margin at 21.1%, free 
+cash flow at $955 mn . Earnings per share were up 15% Y-on-Y  in rupee terms. 
+We saw a strong acceleration in our AI work, as I shared earlier, with AI revenues at 8.2%. This is 
+growing at double-digit Q-on-Q  for the last several quarters. With this momentum, we see long-term 
+relevance of our services for our clients, which are all driven through AI. From our delivery team, 
+over 80,000 employees are working on coding tools such as Claude Code or Codex or several others 
+for our clients, for our work inside. We see strong traction across the six  areas of new growth that 
+we see in AI, our Hexagon for AI strategy. 
+We see client work, for example in building agents for processes, work on data, modernization and 
+using coding tools. We are building a team of frontier engineers to support our client work. Our plan is to have 6,000 Frontier Engineers over the next few years. We have built a platform, Topaz Fabric that enables our clients to get the benefits of AI while keeping the sovereignty of their own data within 
+their company. 
+Our clients are able to work with any foundation model , closed, open-weight or on the cloud on their 
+own servers. Our clients are able to optimize token cost, which has become very critical now to make sure its appropriate for the type of work they  are doing and not out of hand. 
+  
+External Document © 202 5 Infosys Limited  5   Overall, we continue to see the macro environment remaining uncertain. With our Q1 results and a 
+view for the rest of the financial year, we are changing our revenue growth guidance to 1.5% to 3% 
+Y-on-Y  growth in constant currency terms. Our operating margin guidance remains the same at 20% 
+to 22% operating margin. 
+Thank you. And with that, let's open it up for questions.  
+Rishi Basu 
+Thank you, Salil. We will now open the floor for questions. The first question is from Ritu Singh from 
+CNBC TV18.  
+Ritu Singh 
+Thank you very much. I know you have asked for one question. But if I may, Salil, you have given 
+us a big news in this quarter. To begin with, since you speak about how you brought in and Mr. 
+Nilekani spoke about how you brought in calmness at a time when the company was going through 
+quite a bit.  
+Even now you are speaking of this global uncertainty because of which you have had to, again, pull 
+down your guidance as well. Why decide to leave at a time like now , instead of perhaps looking at 
+an extension? I wanted to understand. And with the new CEO coming in, any mandate for the new 
+CEO that you could highlight for us more clearly? And perhaps that is something the investors would 
+also want to know ? 
+And then on the earnings, of course, the reason for this revision downwards, if you could give us a 
+little more colou r on what you are seeing in the environment, where is the weakness? Where is 
+momentum picking up?  
+Some of your competitors like Tech M have been talking about irrational competitive pricing. Wipro 
+has also spoken about that a bit. So what are you seeing in the environment? And with a 1% kind of 
+growth in the first quarter, do we assume the second half will be meaningfully better if you were to 
+reach that upper end of the 3% guidance you are speaking about? 
+And just on AI, if you could update us how the revenue is moving? Is it proceeding as per what your 
+expectations were? Any updates you could share on that front as well , as far as revenue contribution 
+from AI is concerned?  
+Salil Parekh 
+So let me start with the first one.  
