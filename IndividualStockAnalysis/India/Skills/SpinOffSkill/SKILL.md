@@ -81,23 +81,41 @@ largest gains came not in the first year but in the second.
    EVENTS — "has sanctioned", "record date has been fixed as", "listed
    and admitted to dealings" — never from promises ("shall be listed",
    "proposed to be"); a match preceded by a promissory word does not
-   count. Call mentions never set a stage. Facts are extracted by pattern with the
-   quote: entitlement ratio, resulting company, demerged undertaking,
-   record and appointed dates, pro-forma mention, option-pricing
-   language, promoter continuity, size of the piece. Stated reasons are
-   classified into the notes' five.
+   count. Call mentions never set a stage. A record date "for the
+   purpose of dividend / interest / buy-back / bonus" is not the scheme's
+   record date, and "allotment of equity shares of the Company" is the
+   company issuing its own shares, not the spin-off listing. NSE's
+   register is then consulted: a demerger whose filings seem to report a
+   record date or listing more than 30 days old that the register does
+   not know falls back to its last real stage, with the reason kept.
+   Facts are extracted by pattern with the quote: entitlement ratio,
+   resulting company, demerged undertaking, record and appointed dates,
+   pro-forma mention, option-pricing language, promoter continuity, size
+   of the piece, and the DIRECTION of the demerger (the company's role in
+   the scheme: Demerged / Transferor = outbound, Resulting / Transferee =
+   inbound). Stated reasons are classified into the notes' five.
 3. **Confidence and order** — `confirmed` when a demerger scheme is on
-   the exchange record (a Demerger / Scheme filing or a scheme text that
-   demerges); `probable` for a subsidiary listing in motion or a scheme
-   whose nature the documents do not settle; `indicated` for news
-   verification, denial or calls alone. The report puts confirmed
-   demergers first and gives them the full treatment. The judge can
-   DEMOTE a demerger it has read in full: an explicit amalgamation /
-   liquidation / insolvency read with nothing separated becomes a
-   `merger`; an acquisition or stake purchase, or a business demerged
-   INTO the listed company (its own holders receive no new listing),
-   becomes `other`. A subsidiary listing is never demoted. Each demotion
-   is shown with its reason among the other restructurings.
+   the exchange record: an exchange filing in a scheme category
+   (Demerger, Scheme of Arrangement, Amalgamation/Merger, a register
+   record date) or a demerger-tagged filing whose headline names the
+   scheme — a results filing or dividend notice whose body mentions a
+   demerger in passing is not; `probable` for a demerger named only in a
+   filing's text, a subsidiary listing in motion, or a scheme whose
+   nature the documents do not settle; `indicated` for news verification,
+   denial or calls alone. The judge's read of the COMPLETE record then
+   moves it: a text-only demerger whose separated business the judge
+   names becomes `confirmed`; a demerger the judge cannot find in the
+   filed scheme and that is named only on the calls goes back to
+   `indicated on calls` (Adani Enterprises: a composite scheme on file,
+   the demergers management talks about not filed). The judge can also
+   DEMOTE: a read opening "nothing is separated", an explicit
+   amalgamation / liquidation / insolvency matter, becomes `merger`; an
+   acquisition or stake purchase, or a business demerged INTO the listed
+   company (inbound by the scheme's own words, or by the judge's; its own
+   holders receive no new listing), becomes `other`. A subsidiary listing
+   is never demoted. Each demotion is shown with its reason among the
+   other restructurings. The report puts confirmed demergers first and
+   gives them the full treatment.
 4. **Listing status** — for every spin-off: LISTED since (record date),
    RECORD DATE set and listing pending (with the typical 4–10 week gap
    stated as typical, not forecast), NOT YET with the timeline the
