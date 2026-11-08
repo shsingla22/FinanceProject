@@ -1,0 +1,101 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 92402 97500  
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/86                                                                                                  October 5, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+We are attaching herewith copy of the Press Release titled “LTM Launches BlueVerse™ 
+AgenTraceIQ” which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl. As above. 
+ 
+ 
+LTM Launches BlueVerse ™ AgenTraceIQ  
+Offering stems from Rubrik’s Project Hourglass, an alliance helping organizations scale agentic AI securely 
+ 
+Mumbai, India – October 5, 2026:  LTM, the Business Creativity partner to the world's largest enterprises, today 
+announced the launch of  BlueVerse ™ AgenTraceIQ , an offering designed to help organizations securely adopt and scale 
+agentic AI. Combining Rubrik Agent Cloud with LTM's AI governance and managed services expertise, the offering 
+enables organizations to monitor AI agents, establish guardrails, and rewind unintended agent actions across business-
+critical environments. 
+ 
+As part of Rubrik’s Project Hourglass, LTM and other elite Global Systems Integrators partner with Rubrik, the Security 
+and AI Operations Company, to deliver Rubrik Agent Cloud for Anthropic's Claude Code to their enterprise clients. The 
+collaboration strengthens the ability for organizations to adopt agentic systems with the necessary security, governance, 
+and resilience at scale. 
+ 
+"As AI agents increasingly act autonomously, the stakes for enterprise security and resilience have never been higher. 
+Together with LTM, we are empowering organizations to move from reactive risk management to a proactive, secure 
+framework, ensuring they can innovate with AI at speed without compromising their operational integrity." — Alok 
+Agrawal, Chief Solutions Officer, Rubrik. 
+ 
+As AI agents become increasingly embedded in enterprise operations, organizations need a structured approach to 
+managing risk, accountability, and operational continuity. Scaling beyond experimentation requires greater oversight of 
+agent behaviour, stronger policy enforcement, and the ability to respond quickly when unexpected outcomes occur.  
+ 
+BlueVerse ™ AgenTraceIQ addresses these challenges through an integrated framework that combines agent 
+observability, governance, and resilience. Powered by Rubrik Agent Cloud and operationalized through LTM's 
+governance-led services model, the offering brings together enterprise-ready advisory, deployment, and managed 
+services to support responsible AI adoption at scale. 
+ 
+The solution provides continuous visibility into agent activity, enforces policy-driven controls and zero-trust access, and 
+enables rapid restoration of systems, data, configurations, and repositories following unintended or destructive actions. 
+By linking agent actions to prompts, plans, and tool interactions, it enhances explainability, auditability, and root-cause 
+analysis. BlueVerse ™ AgenTraceIQ supports leading agent ecosystems, including Microsoft Copilot Studio, Salesforce 
+Agentforce, Amazon Bedrock, Anthropic Claude, and custom-built frameworks. 
+ 
+"Agentic AI is rapidly reshaping enterprise operations, but scaling adoption requires more than deploying intelligent 
+agents. Organizations need the ability to understand agent behaviour, establish accountability, and respond quickly 
+when unexpected outcomes occur. Together with Rubrik, BlueVerse ™ AgenTraceIQ helps enterprises move from 
+experimentation to trusted, production-scale AI operations," said Krishnan Iyer, Chief Growth Officer, LTM.  
+ 
+The offering also includes AI Resilience Assessments, Governance Framework Design, Deployment & Integration 
+Services, and Managed Governance Operations, helping organizations establish enterprise-ready operating models for 
+agentic AI. By combining Rubrik's technology with LTM's AI transformation expertise, BlueVerse ™ AgenTraceIQ enables 
+organizations to accelerate adoption, strengthen compliance readiness, and improve operational certainty as AI 
+becomes embedded across the business. 
+ 
+To learn more about BlueVerse ™ AgenTraceIQ , click here. [Link to be inserted] 
+ 
+About LTM 
+LTM — a Larsen & Toubro Group Company — is an AI-centric global technology services company and the Business Creativity partner to the world’s 
+largest enterprises. We bring human insights and intelligent systems together to help clients create greater value at the intersection of technology 
+and domain expertise. Our capabilities span integrated operations, transformation and business AI — enabling new ways of working, new 
+productivity paradigms and new roads to value. Together with over 87,000 employees across 40 countries and our global network of 
+partners, LTM owns outcomes for clients, helping them not just outperform the market, but Outcreate it. Read more at LTM.com. 
+ 
+RUBRIK® and the Rubrik logo are registered trademarks of Rubrik, Inc. 
+ 
+Media Contact:  Gitanjali Sreepal | Global Media Relations | gitanjali.sreepal@ltm.com    

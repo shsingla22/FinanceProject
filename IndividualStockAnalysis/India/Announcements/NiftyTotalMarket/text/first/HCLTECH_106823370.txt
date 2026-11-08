@@ -1,0 +1,130 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 1 20 4306000  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -1100 19, India  
+ 
+ 
+ 
+ 
+October 21, 2026  
+ 
+ 
+The General Manager  
+BSE Limited  
+Listing Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281 The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza 
+5th Floor, Plot No. C -1, Block -G 
+Bandra- Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH  
+ 
+ 
+Subject: Release –  “HCLTech launches NVIDIA -powered HCLTech Verification and Validation for 
+Auto to transform software -defined vehicle validation”    
+ 
+ 
+Dear Sir  / Madam,  
+ 
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+  
+This is for your information and records.  
+ 
+ 
+Yours faithfully,  
+For HCL Technologies Limited  
+ 
+  
+Manish Anand  
+Company Secretary  
+ 
+ 
+Encl.:a/a  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+1 
+ 
+HCLTech launches NVIDIA- powered HCLTech Verification and Validation for Auto to 
+transform software -defined vehicle validation  
+NOIDA, India, Oct. 21, 2026 —  HCLTech , a leading global technology company, today 
+announced the launch of its AI -powered Verification and Validation (V&V) offering, powered 
+by NVIDIA’s simulation stack, agentic capabilities and open model strategy. Designed for 
+automotive vehicle manufacturer s and Tier 1 suppliers, the offering combines agentic AI, 
+physical AI -powered simulation and intelligent orchestration to help automate elements of 
+vehicle software validation workflows and accelerate releases.   
+As modern vehicles become increasingly software -defined, technological complexity, over -
+the-air updates and evolving regulatory frameworks are placing greater demands on the 
+verification and validation processes. Automotive organizations face challenges of  
+fragmented tool chains, manual workflows and labor -intensive compliance processes, 
+creating a bottleneck between software development and release.  
+As part of HCLTech's Industry AI solutions  portfolio, this V&V offering for Auto leverages a 
+simulation -first operating model that connects requirements, test creation, execution, 
+analysis and compliance evidence across the validation lifecycle. The solution enables 
+customers to automate validation workflows, expand scenario coverage, identify and 
+investigate test failures faster, and maintain a continuous digital record linking requirements, 
+test results and compliance reporting.  
+HCLTech’s V&V for Auto combines HCLTech’s automotive engineering expertise, agentic AI capabilities and Validation Factory model with the NVIDIA stack, including NVIDIA Omniverse , 
+NVIDIA Cosmos , NVIDIA Alpamayo , NVIDIA Omniverse NuRec  and NVIDIA Isaac Sim , to 
+generate and validate a wide range of scenarios in virtual environments, including rare and 
+safety -critical conditions. This reduces reliance on physical testing, expands test coverage 
+and improves visibility into release readiness. Leveraging the NVIDIA Agent Toolkit , this 
+solution orchestrates multiple AI agents with reasoning powered by NVIDIA Nemotron  open 
+models across the V&V lifecycle.   
+“Automotive software is evolving faster than traditional validation processes were designed 
+to handle. Frequent software updates, increasingly complex vehicle systems and the need to 
+demonstrate compliance across changing configurations can make validation  slow, 
+fragmented and difficult to scale. Powered by NVIDIA, HCLTech’s V&V for Auto is designed to 
+help organizations shift from periodic, labor -intensive testing to continuous, intelligent 
+ 
+2 
+ 
+validation, using simulation and AI to make software release decisions with greater speed 
+and confidence,” said Pankaj Tagra, Chief Growth Officer and Global Head, Mobility at 
+HCLTech.  
+“Validation now sets the pace for software -defined vehicles. With NVIDIA Omniverse, 
+Cosmos and Nemotron at its core, this solution leverages world -class simulation and AI 
+capabilities to support automakers in their journey towards moving more testing into 
+simulation, covering rare and safety -critical scenarios earlier and releasing software with 
+greater confidence,” said Dr. Sebastian Scheurle, EMEA Industry Lead Automotive Enterprise, 
+at NVIDIA.  
+ 
+About HCLTech  
+HCLTech  is a global technology company, home to more than 230,000 people across 60+ 
+countries, delivering industry- leading capabilities centered around AI, digital,  engineering, 
+cloud and software, powered by a broad portfolio of technology services and products. We 
+work with clients across all major verticals, providing industry solutions for Financial Services, 
+Manufacturing, Life Sciences and Healthcare, Technolog y and Services, Semiconductor, 
+Telecom and Media, Retail and CPG, Mobility and Public Services. Consolidated revenues as 
+of 12 months ending September 2026 totaled $14.8 billion. To learn how we can supercharge 
+progress for you, visit hcltech.com . 
+ 
+ 
+For further details, please contact:  
+Meredith Bucaro, Americas - meredith -bucaro@hcltech.com  
+Elka Ghudial, Europe -  elka.ghudial@hcltech.com  
+James Galvin, APAC -  james.galvin@hcltech.com  
+Nitin Shukla, India, Middle East & Africa - nitin -shukla@hcltech.com   
+ 

@@ -1,0 +1,137 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 120 4306000   Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -1100 19, India  
+ 
+ 
+ 
+October 12, 2026  
+ 
+ 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH   
+ 
+ 
+ 
+Sub.:  Consolida ted Financial Statements  – IFRS for three  and six  months period  ended 
+September  30, 2026  
+ 
+ 
+Dear Sir /Madam , 
+ 
+Enclosed please find the condensed consolidated interim Financial Statements – IFRS for 
+the three and six months period ended September  30, 2026.  
+ 
+ 
+Thanking you,  
+For HCL Technologies Limited  
+ 
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+ 
+  
+ Encl: a/a  
+ 
+ 
+HCL Technologies Limited
+           Condensed Consolidated Interim Financial Statements - IFRS
+           For the three and six months period ended 30 September 2026 and 2025
+
+
+ASSETS
+Non-current assets
+Property, plant and equipment 3.1  513  491 
+Capital work in progress 3.1  6  6 
+Right-of-use assets  371  379 
+Goodwill 3.2  2,663  2,519 
+Other intangible assets 3.3  671  553 
+Investments accounted for using the equity method 3.4(a)  145  – 
+Investments 3.4(b)  14  14 
+Trade receivables - unbilled 3.5  53  63 
+Inter corporate deposits  4  5 
+Other financial assets 3.7  340  378 
+Deferred tax assets (net)  120  121 
+Other assets 3.8  301  292 
+Total non-current assets  5,201  4,821 
+Current assets
+Inventories  24  25 
+Investments 3.4(b)  308  734 
+Trade receivables
+Billed 3.5  2,379  2,487 
+Unbilled 3.5  983  839 
+Cash and cash equivalents 3.6(a)  1,048  872 
+Other bank balances 3.6(b)  1,081  1,599 
+Inter corporate deposits  66  107 
+Other financial assets 3.7  209  172 
+Current tax assets (net)  18  24 
+Other assets 3.8  1,250  581 
+Total current assets  7,366  7,440 
+TOTAL ASSETS  12,567  12,261 Note As at As at
+No. 30 September 2026
+(unaudited)31 March 2026
+(audited)HCL Technologies Limited
+Condensed Consolidated Interim Balance Sheet
+(All amounts in millions of USD, except share data and as stated otherwise)
+EQUITY AND LIABILITIES
+EQUITY
+Equity share capital 3.9  72  72 
+Retained earnings  8,299  7,983 
+Other equity  (430)  (127) 
+Equity attributable to owners of the Company  7,941  7,928 
+Non-controlling interest  3  3 
+TOTAL EQUITY  7,944  7,931 
+LIABILITIES
+Non-current liabilities
+Borrowings 3.10  3  4 
+Lease liabilities  324  335 
+Other financial liabilities 3.11  118  148 
+Contract liabilities  127  122 
+Provisions 3.12(a)  179  211 
+Deferred tax liabilities (net)  149  146 
+Other liabilities 3.12(b)  8  8 
+Total non-current liabilities  908  974 
+Current liabilities
+Borrowings 3.10  97  13 
+Lease liabilities  204  198 
+Trade payables
+Billed  413  393 
+Unbilled  405  420 
+Other financial liabilities 3.11  756  973 
+Contract liabilities  503  533 
+Provisions 3.12(a)  196  175 
+Current tax liabilities (net)  303  407 
+Other liabilities 3.12(b)  838  244 
+Total current liabilities  3,715  3,356 
+TOTAL LIABILITIES  4,623  4,330 
+TOTAL EQUITY AND LIABILITIES  12,567  12,261 Note As at As at
+No. 30 September 2026
+(unaudited)31 March 2026
+(audited)
+The accompanying notes including material accounting policies are an integral part of the condensed consolidated interim 
+financial statementsHCL Technologies Limited
+Condensed Consolidated Interim Balance Sheet
+(All amounts in millions of USD, except share data and as stated otherwise)

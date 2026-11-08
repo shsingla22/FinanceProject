@@ -1,0 +1,274 @@
+  
+ 
+ 
+ Zensar Technologies Limited, Zensar Knowledge 
+Park, Plot No. 4, MIDC Kharadi, Off Nagar Road, 
+Pune 411014  www.zensar.com  
+investor @zensar.com  CIN: L72200PN1963PLC 012621  
++(20) 6607 4000, 2700 4000  
+October  28, 2026  
+ 
+ 
+BSE Limited  
+Corporate Service Department,  
+1st Floor, P. J. Towers,  
+Dalal Street,  
+Mumbai 400 001  
+ 
+Scrip Code: 504067  National Stock Exchange of India Limited  
+Exchange Plaza, 3rd floor, 
+Plot No. C/1, ‘G’ block,  
+Bandra Kurla Complex, Bandra (E),    
+Mumbai 400 051  
+ 
+Symbol: ZENSARTECH  
+ 
+Sub.:  Press Release, Analyst and Investor Presentation   
+Dear Sir/Madam,  
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith Press Release  along with Analyst and Investor presentation on the Financials 
+Results of the Company for the quarter ended September  30, 2026 .  
+You are requested to take note of the above.  
+Thanking you,  
+ 
+Yours sincerely,  
+For Zensar Technologies Limited  
+ 
+ 
+   
+Anand Daga  
+Company Secretary  
+ 
+ Encl.: As above  
+  
+
+ 
+ 
+Zensar registered 4.1% sequential constant currency revenue growth for Q2FY27 
+ 
+Pune, India, October 28, 2026 : Zensar Technologies , a leading Experience, Engineering and 
+Engagement solutions company, announced its consolidated financial results for its second quarter, 
+ending September 30, 2026, of the fiscal year 2026-2027. 
+ 
+Financial Highlights: 
+ 
+ In Q2FY27, the company posted revenue of $166.2M, sequential quarter constant currency 
+growth of 4.1%. In INR terms, this performance reflects a quarterly QoQ growth of 5.1% and 
+YoY growth of 11.5%. 
+ In Q2FY27, the company reported EBITDA at 15.8% of revenue, a QoQ increase of 120 bps. 
+ US region registered a QoQ revenue growth of 4.5% and quarterly YoY growth of 2.5% in 
+constant currency. 
+ Europe region registered a QoQ revenue growth of 1.3% and quarterly YoY growth of 0.3% in 
+constant currency. 
+ Africa region registered a QoQ revenue growth of 6.7% and quarterly YoY growth of 2.2% in 
+constant currency. 
+ Banking and Financial Services registered a QoQ revenue growth of 7.1% and quarterly YoY 
+growth of 17.1% in constant currency. 
+ Healthcare and Life Sciences registered a QoQ revenue growth of 2.4% and quarterly YoY 
+decline of 9.9% in constant currency. 
+ Manufacturing and Consumer Services registered a QoQ revenue growth of 2.9% and 
+quarterly YoY decline of 0.1% in constant currency. 
+ Telecommunication, Media and Technology registered a QoQ revenue decline of 2.2% and 
+quarterly YoY decline of 21.6% in constant currency. 
+ 
+Manish Tandon, CEO and Managing Director, Zensar, said, “Our focused investments in strategic 
+priorities are delivering tangible results, reflected in strong, broad-based constant currency growth of 
+4.1% in Q2FY27, supported by healthy volume momentum across all our focus geographies, while the 
+improvement in EBITDA margin underscores the strength of our execution and operating discipline. 
+ 
+Building on the momentum of our ZenseAI suite, we are progressing from proof of value to production-
+scale adoption across several clients. AI-influenced deals now represent 36% of our order book for 
+Q2FY27, demonstrating growing client confidence in our AI-led capabilities. We remain committed to 
+delivering sustainable, profitable growth and creating long-term value for our clients and shareholders, 
+while continuing to invest in the capabilities that will shape our future.” 
+ 
+Pulkit Bhandari, CFO, Zensar, commenting on the Q2FY27 performance, said , “Our revenue grew 
+across all geographies during the quarter. EBITDA margin stood at 15.8%, a sequential increase of 120 
+bps. We continue to maintain a robust balance sheet, enabling us to pursue strategic investments and 
+capitalize on emerging technology trends. 
+ 
+The demand environment today is largely supported by continued investments in AI & digital 
+modernization. This has led to evolving workforce needs, and an increasingly complex cybersecurity 
+landscape. We believe the next phase of growth will favour organizations that can pivot seamlessly 
+into newer trends, combine AI capabilities, domain expertise, and secure execution at scale.” 
+ 
+ 
+Significant Wins in Q2FY27: 
+ 
+ AI-native product modernization of a unified cloud-native customer portal, consolidating 
+legacy systems for a leading enterprise software provider.  
+ Zensar enabled inventory optimization through AI-driven predictive recommendations that 
+reduce waste and improve purchasing decisions for a leading book distributor.  
+ AI-led procurement and supply chain transformation, deploying intelligent automation to 
+improve efficiency and decision-making for a leading global mining company.  
+ Agentic AI workflows and operational intelligence for Change and Release Management 
+transformation to accelerate decision-making for a leading global wealth management firm.  
+ Deployment of proprietary ZenseAI.Guidewire to automate release impact analysis and 
+CI/CD workflows, improving delivery efficiency for a leading insurance provider.  
+ AI-powered itinerary planning platform development through a dedicated AI POD, 
+accelerating travel experience innovation for a leading travel technology provider. 
+Awards and Recognitions in Q2FY27: 
+ 
+I. Analyst recognitions  
+ Zensar is recognized as Major Contender and Star Performer in Everest Group’s Life and 
+Annuity (L&A) Insurance IT Services PEAK Matrix® Assessment 2026  
+ Zensar is recognized as Major Contender in Everest Group’s Quality Engineering (QE) 
+Services for AI Applications and Systems PEAK Matrix® Assessment 2026  
+ Zensar is recognized as Major Contender in Everest Group’s Cybersecurity Services PEAK 
+Matrix® Assessment 2026  
+ Zensar is recognized as an Aspirant in Everest Group’s Pharmaceutical R&D IT Services PEAK 
+Matrix® Assessment 2026  
+ Zensar is recognized as an Aspirant in Everest Group’s Retail Digital Services PEAK 
+Matrix® Assessment 2026  
+ 
+II. Industry Awards 
+ Zensar was recognized with the 'AI-Led Digital Transformation Services Company of the Year' 
+award at the GCC Leadership Conclave 2026. 
+ Zensar was recognized with the prestigious ‘Brandon Hall Excellence Award’ for our AI-First 
+Transformation Program for BFSI Leaders in the category of ‘Best Learning Strategy’. 
+ Zensar was recognized among India’s Most Inclusive Workplaces by Avtar & Seramount in 
+their 2026 Workplace Excellence Studies under the following categories: 
+­ Best Companies for Women in India (BCWI) 2026 
+­ Exemplars of Inclusion 2026 under the Most Inclusive Companies Index (MICI) 
+ 
+ 
+ 
+ 
+About Zensar ( www.zensar.com ) 
+We conceptualize, build, and manage digital products through experience design, data engineering, and advanced analytics 
+for 180+ global clients. Our solutions leverage industry-leading platforms and help clients be competitive, agile, and 
+disruptive as they navigate transformational changes with velocity. With headquarters in Pune, India, our 12,000+ 
+employees work across 30+ locations, including San Jose, Seattle, Princeton, Cape Town, London, Colombia, and Mexico 
+City. 
+Follow Zensar via: 
+Twitter: https://twitter.com/Zensar   
+LinkedIn: https://www.linkedin.com/company/zensar-technologies   
+Facebook: https://www.facebook.com/ZensarTech/     
+Catch our refreshed new website at: www.zensar.com   
+ 
+About RPG Enterprises ( www.rpggroup.com ) 
+RPG Enterprises, established in 1979, is one of India’s fastest-growing business groups, with a turnover of US $5.2 billion. The 
+group has diverse business interests in the areas of Infrastructure, Tyres, Pharma, IT and Specialty as well as in emerging 
+innovation-led technology businesses. 
+ 
+For any queries, please feel free to reach out: 
+ 
+        Media Contact 
+Reeti Rajmane  
+Director and Head - Corporate Communications  
+Zensar Technologies 
+reeti.rajmane@zensar.com 
+ 
+Safe Harbor 
+Certain statements in this release concerning our future prospects are forward-looking statements that involve a number of 
+underlying identified/non-identified risks and uncertainties that could cause actual results to differ materially. This release 
+and other statements—written and oral—that we periodically make contain forward-looking statements that set out 
+anticipated results based on the management’s plans and assumptions. However, the same are subject to risks and 
+uncertainties, including, but not limited to, our ability to manage growth; fluctuations in earnings/exchange rates; intense 
+competition in IT services, including factors affecting cost advantage; wage increases; ability to attract and retain highly 
+skilled professionals; time and cost overruns on fixed price, fixed-time frame, or other contracts; client concentration; 
+restrictions on immigration; our ability to manage international operations; reduced demand for technology in our service 
+offerings; disruptions in telecommunication networks; our ability to successfully complete and integrate acquisitions; liability 
+for damages on our service contracts; government measures in India and countries where our customers operate; 
+withdrawal of governmental fiscal incentives; economic downturn in India and/or around the world; political instability; legal 
+restrictions on raising capital or acquiring companies; and unauthorized use of intellectual property and general economic 
+conditions affecting the industry. 
+In addition to the foregoing, global pandemics like COVID-19 may pose an unforeseen, unprecedented, unascertainable, and 
+constantly evolving risk(s), inter-alia, to us, our customers, delivery models, vendors, partners, employees, and general global 
+operations and may also impact the success of companies in which we have made strategic investments, demand for the 
+Company’s offerings, and the onshore-offshore-nearshore delivery model. 
+The results of these assumptions made relying on available internal and external information are the basis for determining 
+the carrying values of certain assets and liabilities. Since the factors underlying these assumptions are subject to change over 
+time, the estimates on which they are based are also subject to change accordingly. These forward-looking statements 
+represent only the Company’s current intentions, beliefs, or expectations, and any forward-looking statement speaks only 
+as of the date on which it was made. The Company assumes no obligation to revise or update any forward-looking 
+statements, whether as a result of new information, future events, or otherwise. 
+ 
+ 
+Zensar registered 4.1% sequential constant currency revenue growth for Q2FY27 
+ 
+Pune, India, October 28, 2026 : Zensar Technologies , a leading Experience, Engineering and 
+Engagement solutions company, announced its consolidated financial results for its second quarter, 
+ending September 30, 2026, of the fiscal year 2026-2027. 
+ 
+Financial Highlights: 
+ 
+ In Q2FY27, the company posted revenue of $166.2M, sequential quarter constant currency 
+growth of 4.1%. In INR terms, this performance reflects a quarterly QoQ growth of 5.1% and 
+YoY growth of 11.5%. 
+ In Q2FY27, the company reported EBITDA at 15.8% of revenue, a QoQ increase of 120 bps. 
+ US region registered a QoQ revenue growth of 4.5% and quarterly YoY growth of 2.5% in 
+constant currency. 
+ Europe region registered a QoQ revenue growth of 1.3% and quarterly YoY growth of 0.3% in 
+constant currency. 
+ Africa region registered a QoQ revenue growth of 6.7% and quarterly YoY growth of 2.2% in 
+constant currency. 
+ Banking and Financial Services registered a QoQ revenue growth of 7.1% and quarterly YoY 
+growth of 17.1% in constant currency. 
+ Healthcare and Life Sciences registered a QoQ revenue growth of 2.4% and quarterly YoY 
+decline of 9.9% in constant currency. 
+ Manufacturing and Consumer Services registered a QoQ revenue growth of 2.9% and 
+quarterly YoY decline of 0.1% in constant currency. 
+ Telecommunication, Media and Technology registered a QoQ revenue decline of 2.2% and 
+quarterly YoY decline of 21.6% in constant currency. 
+ 
+Manish Tandon, CEO and Managing Director, Zensar, said, “Our focused investments in strategic 
+priorities are delivering tangible results, reflected in strong, broad-based constant currency growth of 
+4.1% in Q2FY27, supported by healthy volume momentum across all our focus geographies, while the 
+improvement in EBITDA margin underscores the strength of our execution and operating discipline. 
+ 
+Building on the momentum of our ZenseAI suite, we are progressing from proof of value to production-
+scale adoption across several clients. AI-influenced deals now represent 36% of our order book for 
+Q2FY27, demonstrating growing client confidence in our AI-led capabilities. We remain committed to 
+delivering sustainable, profitable growth and creating long-term value for our clients and shareholders, 
+while continuing to invest in the capabilities that will shape our future.” 
+ 
+Pulkit Bhandari, CFO, Zensar, commenting on the Q2FY27 performance, said , “Our revenue grew 
+across all geographies during the quarter. EBITDA margin stood at 15.8%, a sequential increase of 120 
+bps. We continue to maintain a robust balance sheet, enabling us to pursue strategic investments and 
+capitalize on emerging technology trends. 
+ 
+The demand environment today is largely supported by continued investments in AI & digital 
+modernization. This has led to evolving workforce needs, and an increasingly complex cybersecurity 
+landscape. We believe the next phase of growth will favour organizations that can pivot seamlessly 
+into newer trends, combine AI capabilities, domain expertise, and secure execution at scale.” 
+ 
+ 
+ 
+Significant Wins in Q2FY27: 
+ AI-native product modernization of a unified cloud-native customer portal, consolidating 
+legacy systems for a leading enterprise software provider.  
+ Zensar enabled inventory optimization through AI-driven predictive recommendations that 
+reduce waste and improve purchasing decisions for a leading book distributor. 
+ AI-led procurement and supply chain transformation, deploying intelligent automation to 
+improve efficiency and decision-making for a leading global mining company 
+ Agentic AI workflows and operational intelligence for Change and Release Management 
+transformation to accelerate decision-making for a leading global wealth management firm.  
+ Deployment of proprietary ZenseAI.Guidewire to automate release impact analysis and 
+CI/CD workflows, improving delivery efficiency for a leading insurance provider.  
+ AI-powered itinerary planning platform development through a dedicated AI POD, 
+accelerating travel experience innovation for a leading travel technology provider. 
+Awards and Recognitions in Q2FY27: 
+ 
+I. Analyst recognitions  
+ Zensar is recognized as Major Contender and Star Performer in Everest Group’s Life and 
+Annuity (L&A) Insurance IT Services PEAK Matrix® Assessment 2026  
+ Zensar is recognized as Major Contender in Everest Group’s Quality Engineering (QE) 
+Services for AI Applications and Systems PEAK Matrix® Assessment 2026  
+ Zensar is recognized as Major Contender in Everest Group’s Cybersecurity Services PEAK 
+Matrix® Assessment 2026  
+ Zensar is recognized as an Aspirant in Everest Group’s Pharmaceutical R&D IT Services PEAK 
+Matrix® Assessment 2026  
+ Zensar is recognized as an Aspirant in Everest Group’s Retail Digital Services PEAK 
+Matrix® Assessment 2026  
+ 
+II. Industry Awards 
+ Zensar was recognized with the 'AI-Led Digital Transformation Services Company of the Year' 
+award at the GCC Leadership Conclave 2026. 
+ Zensar was recognized with the prestigious ‘Brandon Hall Excellence Award’ for our AI-First 
+Transformation Program for BFSI Leaders in the category of ‘Best Learning Strategy’. 
+ Zensar was recognized among India’s Most Inclusive Workplaces by Avtar & Seramount in 
+their 2026 Workplace Excellence Studies under the following categories: 
+­ Best Companies for Women in India (BCWI) 2026 
+­ Exemplars of Inclusion 2026 under the Most Inclusive Companies Index (MICI) 
+ 

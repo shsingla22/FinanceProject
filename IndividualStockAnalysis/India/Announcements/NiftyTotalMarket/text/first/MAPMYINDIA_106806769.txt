@@ -1,0 +1,146 @@
+5th October , 2026 
+ 
+The Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai 400 001 BSE SCRIP Code: 543425 The Listing Department  
+National Stock Exchange of India Limited 
+Exchange Plaza   
+Bandra Kurla Complex, Bandra (East)  
+Mumbai 400 051 NSE Symbol: MAPMYINDIA  
+ 
+Subject: Submission of Press Release.  
+Ref.: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015  Dear Madam / Sir,  
+ Please find attached the press release issued by C.E. Info Systems Limited announcing MathWorks and MapmyIndia Mappls collaboration to Accelerate ADAS 
+Validation for Indian Roads Using High- Definition Maps  
+ Kindly acknowledge the receipt of the same.  
+ Thanking you.  Yours faithfully, For C.E. Info Systems Limited      Saurabh Surendra Somani  
+Company Secretary & Compliance Officer  
+ Encl:  
+Press Release  
+  MAPP LS® 
+C.E. INFO SYSTEMS LIMITED 
+(Previously known as C.E. Info Systems Pvt Ltd) 
+237, Okhla Industrial Estate, Phase-Ill, New Delhi-110020, Mappls Pin: mappls.com /mmi000, e-Mail: contact@mapmyindia.com / contact@mappls.com 
+Website:www.mapmyindia.com / www.mappls.com, Phone: +91-011-4600 9900, CIN: L74899DL 1995PLC065551, A CMMl-3 & ISO Certified Company 
+ 
+ 
+ 
+MathWorks and MapmyIndia  Mappls  Accelerate ADAS Validation for Indian Roads 
+Using High -Definition Maps 
+MapmyIndia HD maps integrate with MATLAB®, Simulink®, and RoadRunner™ workflows , enabling 
+automotive engineers to simulate and validate ADAS solutions for Indian driving conditions  
+Bengaluru, [05 Octo ber, 2026] : MathWorks, the leading developer of mathematical computing 
+software for designing engineered systems, today announced a collaboration with MapmyIndia  
+Mappls,  India’s leading advanced digital maps and deep -tech products and platforms company , to 
+support automotive engineers developing and validating Advanced Driver Assistance Systems (ADAS) 
+for Indian road environments.  
+By integrating MapmyIndia’s high -definition (HD) maps with MATLAB, Simulink, and RoadRunner, 
+engineering teams can simulate realistic road and traffic scenarios and begin system validation earlier 
+in the development cycle.  The integration enables engineers to  create digital twins of Indian road 
+environments, simulate complex traffic scenarios, and test ADAS controllers within a Model -Based 
+Design environment . 
+Developing ADAS for Indian roads presents distinct engineering challenges, including dense and 
+heterog eneous traffic conditions, variable lane behaviour, diverse road infrastructure, and rapidly 
+evolving road layouts. MapmyIndia HD maps address these challenges by providing lane -level road 
+geometry, traffic controls, detailed road attributes, and India -specific features, such as speed 
+breakers, potholes, and faded lane markings, creating an accurate digital representation of real -world 
+road conditions.  
+“India's roads present some of the world's most complex and dynamic driving environments. 
+Developing ADAS solutions for these conditions requires far more than adapting models built for 
+structured traffic ecosystems. MapmyIndia's HD maps capture the scale and complexity of Indian 
+roads with accuracy and detail — from lane -level geometry and traffic controls to  speed breakers, 
+potholes, faded lane markings and other critical localised road attributes. Our collaboration with 
+MathWorks empowers automotive  engineers  to simulate real Indian driving conditions, validate 
+systems earlier, and accelerate the development  of ADAS solutions that are truly built for India.” sa id, 
+Sapna Ahuja, President Automotive business and Chief Operating Officer, MapmyIndia Mappls.  
+MapmyIndia Mappls location technologies and HD maps extend the MathWorks ecosystem for 
+automated -driving de velopment by connecting location intelligence with Model -Based Design 
+workflows for simulation, algorithm development , and validation. The resulting solution helps 
+automotive engineering teams accelerate the deployment of ADAS solutions developed specifically 
+for the Indian market.  
+“As automotive teams expand ADAS development for India, virtual validation is becoming esse ntial to 
+evaluate system performance across diverse driving conditions,” said Vijayalayan R., Senior Manager 
+– Automotive, MathWorks. “By integrating MapmyIndia’s HD maps with MATLAB, Simulink, and 
+RoadRunner, engineers can test ADAS algorithms earlier in development, reduce reliance on costly 
+physical testing , and improve system performance before deployment on Indian roads. ” 
+ 
+ 
+*** 
+ 
+About MathWorks  
+MathWorks is the leading developer of mathematical computing software for designing engineered 
+systems. MATLAB, the language of engineers and scientists, is a programming and numeric Math Works® 
+ 
+ 
+computation environment for algorithm development, data analysis, and vis ualization. Simulink is a 
+block diagram environment for simulation and model -based design of multidomain and embedded 
+systems. MATLAB and Simulink provide a unified computing platform that empowers engineering 
+teams to model, simulate, and deploy complex e ngineered systems spanning industries such as 
+automotive, aerospace, energy, and medical devices. MATLAB and Simulink are fundamental teaching 
+and research tools at the world’s top universities and learning institutions. Founded in 1984, 
+MathWorks employs more than 6,500 people in 34 offices globally, with headquarters in Natick, 
+Massachusetts, USA. For additional information, visit www.mathworks.com . 
+ 
+MATLAB and Simulink are registered trademarks of The MathWorks , Inc. See 
+mathworks.com/trademarks for a list of additional trademarks. Other product or brand names may 
+be trademarks or registered trademarks of their respective holders.  
+ 
+About MapmyIndia (C.E. Info Systems Ltd) & Mappls  
+www.mapmyindia.com / about.mappls.com  / www.mappls.com  
+C.E. Info Systems Ltd (NSE: MAPMYINDIA; BSE: 543425) is India’s leading deep -tech digital map data, 
+geospatial software and location -based IoT products, platforms, solutions and APIs company, offering 
+proprietary digital maps as a service ("M aaS"), software as a service ("SaaS") and platform as a service 
+("PaaS"). The company provides its digital maps, software products, platforms, application 
+programming interfaces (“APIs”), IoT and solutions to new -age tech companies, businesses across 
+indus try verticals, automotive OEMs, government organisations, developers and consumers, under 
+the Mappls MapmyIndia brand. The company has served more than 2000 B2B and B2B2C customers 
+since inception. The company pioneered digital mapping in India in 1995 and  has earned its market 
+leadership position in this industry and built a strong moat by capitalizing on our early mover 
+advantage, developing proprietary and integrated technologies, full stack product offerings, 
+continuous innovation and robust sustainable  business model.  
+MapmyIndia has built India’s most comprehensive, accurate, feature -rich and continuously updated 
+digital map data product down to address and urban building level detail pan India, covering all towns, 
+villages, and the entire road network of the country. The company is building not just 2D maps, but 
+also 3D (with landmarks, terrains and city models), 4D (updating in near real -time), HD (high -definition 
+and high -accuracy), RealView (photo -realistic representing actual ground reality), and hy per-local geo -
+demographics data -rich maps, to continuously evolve its AI -powered Digital Metaverse Twin of the 
+Real World. The company is also building digital maps for other regions in the world, and has 
+integrated global maps for over 200 countries into its Mappls platform. The company’s platform 
+provides extensive and comprehensive functionalities and ever expanding set of use cases, including 
+mapping, location and navigation, geospatial data analytics, GIS (geospatial information systems) and 
+AI, GPS tr acking and IoT -based fleet management, logistics optimisation and workforce management, 
+drone -based solutions, developer APIs, N -CASE solution suite (for Navigation, Connected vehicle 
+telematics and services, ADAS safety i.e. advanced driving assistance sy stems, Shared and Electric) for 
+Automotive & Mobility Tech (A&M), and Consumer tech and Enterprise digital transformation solution 
+suite (C&E). More about the entire range of the company’s products and platforms can be learned 
+about from about.mappls.com.  
+The company’s consumer facing products include the free Mappls App (accessible on the web at 
+www.mappls.com & downloadable from mappls.com/getApp), which provides the best and fully 
+indigenous maps, navigation, safety, hyper local and IoT gadget -enabled ap p experience for users, and 
+Mappls Gadgets (www.mapplsgadgets.com), which provides a range of IoT -enabled gadgets for 
+safety, convenience, entertainment of your vehicles and loved ones such as vehicle trackers, dash 
+cameras, and in -dash and in -helmet navi -tainment systems for cars and 2 -wheelers .  Math Works® 
+ 
+ 
+For more information, contact:  
+For MathWorks  
+ 
+Email:  
+IndiaPR@mathworks.com  
+www.mathworks.com  
+ For C.E. Info Systems Ltd (MapmyIndia & 
+Mappls)  
+Email:  pr@mapmyindia.com  
+www.mapmyindia.com ; 
+about.mappls.com ; www.mappls.com  
+ 
+Writu Bose  
+EVOC  Communications 
+Consulting Private Limited  
++919830626596  White Fish Communications  
+Anil Nagwani  
++91 9811268046  
+anil@wfc.in  
+ Math Works® 

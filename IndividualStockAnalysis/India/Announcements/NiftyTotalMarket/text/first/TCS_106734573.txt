@@ -1,0 +1,46 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+TCS/SE/ 72/2026-27 
+ 
+August 10 , 202 6 
+ 
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza, C -1, Block G,                 P. J. Towers,  
+Bandra Kurla Complex,  Bandra (East),                         Dalal Street,  
+Mumbai - 400051       Mumbai - 400001  
+Symbol - TCS       Scrip Code No. - 532540  
+  
+Dear Sirs,  
+ 
+Sub:  Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015  
+  
+This is to inform you that Company  has received threat -intelligence alerts alleging possible 
+exposure of certain employee information. The Company  has investigated the matter and ha s not 
+found any credible evidence of a breach of TCS systems or customer environments. The 
+information referenced appears to be more than four years old and limited to basic employee 
+information. There is no indication that customer data, customer systems, or TCS operational 
+systems have been impacted.  
+  
+The attacker claims to have used password spray and Multi -Factor Authentication  (MFA ) fatigue 
+as the attack vector. The Company  has had strong safeguards in place against such techniques for 
+more than two years. Based on the current review, these controls remain effective, and the Company 
+continue s to monitor the environment closely.  
+  
+The Company  will continue to assess any new information that becomes available and take 
+appropriate action, if required. The Company  remains committed to maintaining the security and 
+resilience of its systems and to protecting the information entrusted to us.  
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  

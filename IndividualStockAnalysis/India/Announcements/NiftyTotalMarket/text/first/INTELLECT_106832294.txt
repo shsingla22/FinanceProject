@@ -1,0 +1,82 @@
+ 
+ 
+ 
+IDAL/2026-27/SE/96                                                                                              October 28, 2026  
+ 
+ 
+National Stock Exchange of India Ltd.                                               Scrip Symbol - INTELLECT  
+BSE Ltd.                                                                                                 Scrip Code     - 538835 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Intimation of cyber security incident  
+ 
+An employee's email account at our Canadian subsidiary was compromised and an unauthorized 
+party used it to send fake payment instructions to a customer. 
+ 
+The details required under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 and applicable circulars (Hereinafter collectively referred to as “SEBI Listing Regulations”) are 
+set out in Annexure A. 
+ 
+This intimation is being made after a preliminary assessment, which was necessary to ascertain the 
+facts of the incident. 
+ 
+The Company will keep the stock exchanges informed of any material developments. This intimation 
+is also available on the Company's website, www.intellectdesign.com.  
+ 
+Kindly take this submission on record and oblige. 
+ 
+Yours Truly, 
+ 
+For Intellect Design Arena Limited 
+ 
+ 
+ 
+ 
+Prakash Bharadwaj 
+Company Secretary and Compliance Officer 
+ACS-37214 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relevant Details as required pursuant to SEBI Listing Regulations  
+Sl No. Particulars  Details 
+1.  Nature of fraud  An employee's email account at our 
+Canadian subsidiary was compromised 
+and an unauthorized party used it to send 
+fake payment instructions to a customer. 
+ 
+2.  Estimated impact on the listed entity  The incident did not have any material bearing 
+on the financial position or operations of the 
+Company. Based on the preliminary 
+assessment, there is no impact on the 
+Company's products, platforms or business 
+operations.  
+3.  Time of occurrence  The Company became aware of the incident 
+on October 22, 2026. 
+4.  Person(s) involved  
+ Based on the preliminary assessment, no 
+person from the Company has been found to 
+be involved. 
+5.  Estimated amount involved  There has been no outflow of funds from the 
+Company’s Bank Accounts.  
+6.  Whether reported to appropriate authorities / 
+steps taken  
+ A police complaint has been filed in Canada 
+and the bank holding the beneficiary account 
+has been asked to freeze and recover the 
+funds. The affected account has been secured 
+and an independent cyber-security firm has 
+been engaged to investigate.  
+7.  Explanation for delay  The Company became aware of the incident 
+on October 22, 2026. The disclosure is being 
+made after a preliminary assessment of the 
+nature and quantum of the incident, which was 
+necessary to provide accurate information to 
+investors. 
+ 

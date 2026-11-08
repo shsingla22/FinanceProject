@@ -1,0 +1,410 @@
+ 
+    
+ 
+Ref: K/953/NSE&BSE/26 -27 
+Date: 13.10.2026  
+ 
+The Secretary  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+Scrip Code: 523610  The Manager  
+National Stock Exchange of India Limited  
+Exchange Plaza,  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai - 400 051  
+Scrip Code: ITI  
+ 
+Dear Sir/Madam,  
+ 
+Sub:    Business Responsibility and Sustainability Reporting  
+Ref: Regulation 34(2) (f) of SEBI (Listing Obligations and Disclosure  Requirements) 
+Regulations, 2015  
+ 
+With reference to the captioned subject, please find enclosed herewith “Business 
+Responsibility and Sustainability Report” for FY 2025 -26 which is also forming part of 
+Annual Report 2025 -26. 
+ 
+The Business Responsibility and S ustainability Report for FY 202 5-26 is also available on 
+the Company’s website at the following link:  
+https://www.itiltd.in/Investor%20information/2026/BRSR_Final.pdf  
+ 
+This is for your kind information and records please.  
+ 
+ 
+ 
+Thanking you.  
+ 
+Yours faithfully  
+For ITI Limited  
+ 
+ 
+ 
+Y Sathyan  
+Company Secretary & Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ITI Limited, Registered and Corporate Office, ITI Bhavan, Doorvaninagar, Bengaluru -560 016, India  
+आईटीआई लिलिटेड , पंजीक ृ त एवं लिगलित कार्ाािेर् , आईटीआई भवि दूरवािीिगर, बेंगिुरु- 560 016, भारत 
+Phone: +(91) (80) 2561 4466, Fax: +(91) (80) 2561 7525, Website:www.itiltd.in  
+CIN: L32202KA1950GoI000640, Email: cosecy_crp@itiltd.co.in  
+
+ANNUAL REPORT 2025 - 26
+55Annexure 4
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.Details of the Listed Entity
+1. Corporate Identity Number (CIN) of the Listed Entity L32202KA1950G01000ö40
+2. Name of the Listed Entity ITI Limited
+3. Year of incorporation 1950
+4. Registered office address IIT Bhavan, Dooravani Nagar, Bengaluru - 560016
+5. Corporate address IIT Bhavan, Dooravani Nagar, Bengaluru - 560016
+6. E-mail cosecy_crp@itiltd.co.in 
+7. Telephone +91 (080) 2561 4466
+8. Website https://www.itiltd.in 
+9. Financial year for which reporting is being done April 01, 2025 – March 31, 2026
+10. Name of the Stock Exchange(s) where shares are listed1) BSE Limited (BSE) 
+2) National Stock Exchange of India Limited (NSE)
+11. Paid-up Capital Rs. 9,62,85,19,670/-
+12. Name and contact details (telephone, email address) of the person who may be 
+contacted in case of any queries on the BRSR reportY Sathyan, Company Secretary, Tel. No. : +91 (080) 2561 7486 
+Email: cosecy_crp@itiltd.co.in
+13. Reporting boundary - Are the disclosures under this report made on a standalone 
+basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and all the 
+entities which form a part of its consolidated financial statements, taken together).Disclosures made in this report are on a standalone basis
+14. Name of assurance provider MITCON Consultancy & Engineering Services Limited
+15. Type of assurance obtained Reasonable Assurance
+II. Products/Services
+16. Details of business activities (accounting for 90% of the turnover):
+Sr.No. Description of Main Activity Description of Business Activity % of Turnover of the entity
+1 Manufacturing Manufacture Of Telecom and its allied products 1.47%
+2 Services Repair and Maintenance 01 Telecom & its allied Product, Back to Back Businesses 41.48%
+3 Projects Implementation of Turnkey Projects & Other td e communications activities 57.06%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr.No. Product/Service NIC Code % of total Turnover contributed
+1 Manufacture of Telephone; other communication 
+equipments; fibre optic cables, etc.26201; 26302; 26309; 27310; 35105; 26205; 
+262091.47%
+2 Repair and maintenance of communication equipment; 
+telecom network, Back to Back Businesses95120; 95111; 63112; 63119; 74901; 42202; 
+26516; 4321341.48%
+3 Turnkey Project & Other telecommunications activities 61102; 61209; 61900 57.06%
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants Number of offices Total
+National Manufacturing Plants-06 Network System Unit-01  
+Corporate Office: 1; MSP-1220
+International
+ANNUAL REPORT 2025 - 26
+5619.    Markets served by the entity
+a.  Number of locations
+Location Number 
+National (No. of States) The Company operates its business on an PAN India basis
+International (No. of Countries) NIL
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+ Nil
+c. A brief on types of customers
+ The following are the Customers of ITI for supply of various products, Services and Turnkey Products. 
+• Defense: Army, Navy, Indian Air Force; Ministry of Home Affairs
+• PSUs like BSNL (Bharat Sanchar Nigam Limited), MTNL (Mahanagar Telephone Nigam Limited, BBNL (Bharat Broadband Network), EESL (Energy 
+Efficiency Services Limited), C-DoT (Centre for Development of Telematics), BEL (Bharat Electronics), DRDO etc
+• Central Government and State Government organizations, TANFINET (Tamil Nadu FibreNet Corporation Limited), MITCL (Maharashtra Information 
+Technology Corporation Ltd), GFGNL (Gujarat Fibre Grid Network Limited). KSEDC (Kerala State Electronics Development Corporation), KPTCL 
+(Karntaka Power Transmission Corporation Ltd), UREDA (Uttarakhand Renewable Energy Development Agency), BREDA (Bihar Renewable Energy 
+Development Agency), UPNEDA (Uttar Pradesh New & Renewable Energy Development Agency), OCAC, Odisa Mining Corporation, Department of 
+Post, DoS (Department of Space), DoAE (Department of Atomic Energy), Railways etc. 
+• Private customers like Banks, Schools, Universities, Hospitals, TCS, Tejas Networks, RIIL (Rural infratel international limited), Aksentt,   Vodafone and 
+Airtel.
+IV. Employees
+20.  Details as at the end of Financial Year:
+a. Employees and workers (including differently abled):
+S. No Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+EMPLOYEES
+1 Permanent (D) 471 351 74.52% 120 25.48%
+2 Other than Permanent (E) 420 321 76.43% 99 23.57%
+3 Total Employees (D+E) 891 672 75.42% 219 24.58%
+WORKERS
+4. Permanent (F) 81 76 93.83% 5 6.17%
+5. Other than Permanent (G) 194 133 68.56% 61 31.44%
+6. Total Employees (F+G) 275 209 76% 66 24%
+b. Differently abled Employees and workers:
+S. No Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1 Permanent (D) 4 3 75% 1 25%
+2 Other than Permanent (E) 4 4 100% 0 0
+3 Total Employees (D+E) 8 7 87.5% 1 12.5%
+DIFFERENTLY ABLED WORKERS
+4. Permanent (F) 0 0 0 0 0
+5. Other than Permanent (G) 1 0 0 1 100%
+6. Total Employees (F+G) 1 0 0 1 100%
+ANNUAL REPORT 2025 - 26
+5721. Participation/Inclusion/Representation of women:
+Particulars Total (A)Number & % of Females
+No. (B) % (B/A)
+Board of Directors 5 1 20.00%
+Key Management Personnel 5 1 20.00%
+22. Turnover rate for permanent employees and workers:
+(Disclose trends for the past 3 years)
+ParticularsFY 2025-26  
+(Turnover rate in current FY)FY 2024-25  
+(Turnover rate in Previous FY)FY 2023-24  
+(Turnover rate)
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 146 28 174 151 23 174 643 174 817
+Permanent Workers 32 1 33 43 3 46 169 10 179
+V. Holding, Subsidiary and Associate Companies
+23. (a) Names of holding / subsidiary / associate companies / joint ventures:
+Sr. 
+No.Name of the holding / subsidiary / 
+associate companies / joint ventures (A)Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture% of shares held 
+by listed entityDoes the entity indicated at column A, 
+participate in the Business Responsibility 
+initiatives of the listed entity? (Yes/No)
+1 India Satcom Limited Joint Venture 49.06% No
+VI. CSR Details
+24.  (i)   Whether CSR is applicable as per section 135 of Companies Act, 2013 for the FY 2025-26: (Yes/No):
+Yes*
+(ii)  Turnover (in Rs.): 2465 Cr (including GST).
+(iii)  Net worth (in Rs.): 1852 Cr
+*The Company was not required to spend any amount towards CSR activities during the above financial year, as the average net profit (without Grant) during the 
+immediately 3 preceding financial years is negative. However, the Company had spent 2.00 Lakhs towards CSR activities for noble cause as the Armed Forces 
+Flag Day Fund (AFFDF) was instituted for the welfare of the veterans, widows and their dependents.
+VII. Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link for 
+grievance redress 
+policy)FY 2022-23 
+Current Financial YearFY 2021-22 
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending resolution 
+at close of the 
+yearRemarks
+Communities Yes 
+https://pgportal.gov.in/.147 05 05 Grievances 
+closed during 
+current  FY 
+2026-27132 07 07 Grievances 
+closed during 
+current  FY 
+2025-26
+Investors 
+(other than 
+shareholders)
+Shareholders
+ANNUAL REPORT 2025 - 26
+58Employees & 
+WorkersYes 
+http://10.1.1.4/corp_hr/
+Docs/Grievance.
+Officers.pdf13 0 NIL 02 02 01 Grivance 
+closed during 
+the FY 2025-26
+Customers Irrelevant to HR Dept.
+Value Chain 
+PartnersIrrelevant to HR Dept.
+Redressal of Employee Grievances (Policy Circular): http://10.1.1.4/corp_hr/Circular/630%20-%20Corporate%20HR%20Policy%20Circular%20No.630%20
+-%20Redressal%20of%20Employee%20Grievances.pdf
+26.  Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity 
+to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as per the following format.
+Sr. 
+No.Material issue 
+identifiedIndicate whether 
+risk or opportunity 
+(R/O)Rationale for identifying the 
+risk / opportunityIn case of risk, approach to adapt or 
+mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+1. Business Ethics 
+& CultureRisk Unethical conduct, conflicts 
+of interest, non-compliance 
+with applicable laws and 
+procurement rules, or a 
+weak ethical culture may 
+lead to reputational damage, 
+complaints, investigations 
+and loss of stakeholder 
+confidence.Strengthen the Code of Conduct and 
+ethics policies; provide periodic ethics 
+and anti-corruption training; maintain 
+confidential whistle-blower/grievance 
+channels; enforce conflict-of-interest 
+disclosures; and ensure transparent 
+procurement, internal controls and 
+timely investigation of complaints.Negative implications: 
+potential penalties, litigation 
+and investigation costs, loss 
+of business opportunities, 
+increased compliance costs and 
+reputational damage. Strong 
+ethical practices can help protect 
+long-term business relationships 
+and stakeholder confidence.
+2. Product Safety 
+and QualityOpportunity Consistent product safety, 
+reliability and quality can 
+strengthen customer 
+confidence, improve 
+competitiveness and support 
+repeat orders, particularly 
+for telecom, IT and other 
+technology products and 
+services.Apply robust quality assurance and 
+testing throughout design, sourcing, 
+manufacturing and delivery; comply 
+with applicable standards and customer 
+specifications; trace components 
+and defects; maintain corrective/
+preventive action processes; and use 
+customer feedback to drive continual 
+improvement.Positive implications: improved 
+customer satisfaction, repeat 
+business, market access and 
+reduced rework, warranty claims 
+and product-return costs. Failure 
+to maintain quality could instead 
+result in losses, penalties and 
+reputational damage.
+3. Data Privacy 
+and Cyber 
+SecurityRisk Cyberattacks, data breaches, 
+unauthorized access or 
+failure to protect confidential/
+customer information 
+may disrupt operations, 
+compromise sensitive data, 
+affect service delivery and 
+reduce stakeholder trust.Implement and periodically review 
+information-security policies and 
+access controls; use encryption, 
+secure configurations, backups and 
+monitoring; conduct vulnerability 
+assessments and security audits; train 
+employees; maintain incident-response 
+and business-continuity plans; and 
+comply with applicable data-protection 
+and cybersecurity requirements.Negative implications: potential 
+incident-response and recovery 
+expenses, regulatory penalties, 
+legal claims, service interruption 
+and loss of customer confidence 
+or contracts. Effective controls 
+can reduce the likelihood and 
+impact of such losses.
+ANNUAL REPORT 2025 - 26
+59SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC Principles and Core 
+Elements.
+Disclosure Questions P
+1P
+2P
+3P
+4P
+5P
+6P
+7P
+8P
+9
+Policy & Management Processes
+1. a. Whether your entity’s policy/policies cover each principle & its core 
+elements of the NGRBCs. (Yes/ No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+   b. Has the policy been approved by the Board.  (Yes/ No) Yes Yes Yes Yes Yes Yes Yes Yes Yes
+  c. Web link of the policies, if available. https://itiltd.in/investors.php?lan=en#codesandpolicies
+2. Whether the entity has translated the policy into procedures. (Yes/ No) Yes Yes Yes Yes Yes Yes Yes Yes Yes
+3. Do the enlisted policies extend to your value chain partners?  (Yes/ No) Yes Yes Yes Yes Yes Yes Yes Yes Yes
+4. Name of the national and international codes/certifications/labels/ 
+standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest 
+Alliance, and Trust etc.) standards (e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and mapped to each principle.• The Company follows SEBI Regulations and DPE Guidelines on Corporate 
+Governance and CVC Guidelines for ensuring ethical, transparent and 
+accountable business conduct among others. 
+Certifications: ISO 14001-2015; BIS
+5. Specific commitments, goals and targets set by the entity with defined 
+timelines, if any.Continuous upgrade and timely renewal of certificates are ensured wherever 
+applicable.
+6.  Performance of the entity against the specific commitments, goals & 
+targets along-with reasons in case the same are not met.Not applicable since Company ensures timely upgrading / renewal of Policy/
+Manuals/Certifications as applicable.
+Governance, leadership and oversight
+7. Statement by director responsible for the business responsibility report, 
+highlighting ESG related challenges, targets and achievements (listed 
+entity has flexibility regarding the placement of this disclosure): Dear 
+Stakeholders,One of the Five Values of the Company is “Integrating environmental and social 
+principles into our business to benefit all stakeholders.” Our company has also 
+coordinated our sustainability efforts along the value chain, plant operations and 
+product development. The Company regularly takes steps to create awareness 
+on ESG principles by conducting various programs and initiatives.
+8. Details of the highest authority responsible for implementation and 
+oversight of the Business Responsibility policy (ies):Shri Rajesh Rai
+Chairman and Managing Director
+DIN: 10052045
+9. Does the entity have a specified Committee of the Board/ Director 
+responsible for decision making on sustainability related issues? (Yes / 
+No). If yes, provide details:Yes, Shri Rajesh Rai, Chairman and Managing Director is responsible for 
+decision making on sustainability related issue
+10.  Details of Review of NGRBCs by the Company:
+Subject for ReviewIndicate whether review was undertaken by Director / 
+Committee of the Board/ Any other CommitteeFrequency (Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P
+1P
+2P
+3P
+4P
+5P
+6P
+7P
+8P
+9P
+1P
+2P
+3P
+4P
+5P
+6P
+7P
+8P
+9
+Performance against above policies 
+and follow up actionAll the policies of the company are reviewed periodically or on a need basis by department heads/respective 
+committees and placed before the Board of Directors as and when required. In the assessment, the efficacy of these 
+policies is also reviewed and necessary changes to policies and procedures are implemented.
+Compliance with statutory 
+requirements of relevance to the 
+principles, and, rectification of any 
+non-compliancesComplied except with respect to composition of the Board of Directors under 
+SEBI (LODR) Regulations, due to non-appointment of independent Directors. 
+Since the Company is a CPSE, the appointment of directors has to be made 
+by the concerned Administrative Ministry. Hence, the matter has been referred 
+to the Ministry of Communications (MoC) for filling up the post and the same 
+is pending with MoC/DPE.As and When required

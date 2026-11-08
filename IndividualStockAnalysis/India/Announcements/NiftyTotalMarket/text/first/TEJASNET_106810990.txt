@@ -1,0 +1,134 @@
+                                                
+ 
+ 
+October 08, 2026 
+ 
+The Secretary  
+National Stock Exchange of India Ltd  
+Exchange Plaza, C/1, Block G,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai – 400 051  
+NSE Symbol: TEJASNET  The Secretary  
+BSE Limited  
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+BSE Scrip Code: 540595  
+ 
+Dear Sir/Madam, 
+ 
+Re: Press Release 
+ 
+Please find enclosed press release dated October 08, 2026, titled “Tejas Networks and 
+Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) 
+technology at India Mobile Congress 2026” . 
+ 
+This is for your kind information and records.  
+ 
+Thanking you, 
+ 
+Yours sincerely 
+For Tejas Networks Limited 
+ 
+ 
+ 
+  
+Anantha Murthy N 
+Company Secretary & Compliance Officer 
+ 
+ 
+   
+Press Release 
+ 
+Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and 
+Communications (ISAC) technology at India Mobile Congress 2026  
+ 
+Bengaluru, October 8, 2026 : Tejas Networks [BSE: 540595, NSE: TEJASNET] in collaboration with 
+Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the 
+India Mobile Congress (IMC) 2026.  
+ 
+As the industry looks beyond 5G and towards 6G, new technological frontiers are being explored 
+to transform communication networks into intelligent digital infrastructure. Integrated Sensing 
+and Communication (ISAC) is one such foundational technology, enabling next-generation 
+wireless networks to function as pervasive radar systems for enhanced situational awareness. 
+The joint demonstration highlights how ISAC can leverage communication signals to detect and 
+track objects in the surrounding environment, such as moving vehicles on city roads and drones 
+in strategic areas, without requiring dedicated sensing infrastructure. By combining connectivity, 
+sensing, and AI-driven analytics, ISAC has the potential to create more adaptive, context-aware, 
+and efficient digital infrastructure. 
+ 
+The demonstration brings together Tejas Networks’ 5G base station and Qualcomm 
+Technologies’ Radio Unit (RU) and Distributed Unit (DU) chipsets, supported by low-power 
+compute and AI inference capabilities. By enabling connectivity and sensing on a common 
+infrastructure foundation, it illustrates how existing 5G networks can evolve to support 
+applications such as drone and vehicle tracking, traffic management and critical-infrastructure 
+monitoring. It also provides a tangible step towards the AI-native architecture envisioned for 6G. 
+ 
+Dr. Kumar N. Sivarajan, Chief Technology Officer of Tejas Networks, said , "ISAC is emerging 
+as one of the most promising technology directions for future 6G networks. By integrating 
+communication and environmental sensing within the same network infrastructure, ISAC 
+unlocks transformative applications across transportation, public safety, industrial automation, 
+smart cities, and defence. This ability to generate and monetize spatial intelligence also enables 
+a significant new value proposition for mobile operators, extending their role beyond high-speed 
+connectivity to providing real-time environmental insights for commercial and strategic use 
+cases.”  
+ 
+“Strong industry partnerships are essential to translating the vision for 6G into practical 
+capabilities. Our collaboration with Tejas Networks demonstrates wide-area sensing on live 5G 
+infrastructure, showing how wireless networks can extend beyond connectivity to deliver real-
+time intelligence about their surroundings. For Qualcomm, this marks an important step in 
+India’s journey towards 6G, laying the foundation for sensing-based services that can create new 
+value for operators and support more informed decision-making across industries,”  said Rajen 
+Vagadia, President, Qualcomm India. 
+ 
+The joint showcase highlights an evolution in the role of wireless networks, from connecting 
+people and devices to understanding the environments around them. As the industry advances 
+towards 6G, ISAC offers a path to build on existing network infrastructure, creating new 
+opportunities for operators to deliver sensing-based services and for industries to make more 
+informed, real-time decisions. 
+ 
+ 
+ 
+ 
+ 
+   
+About Tejas Networks Limited  
+Tejas Networks Ltd. designs and manufactures high-performance wireline and wireless networking products for 
+telecommunications service providers, internet service providers, utilities, defence and government entities in over 75 
+countries. Tejas Networks Ltd. is a part of the Tata Group, with Panatone Finvest Ltd. (a subsidiary of Tata Sons Pvt. 
+Ltd.) being the majority shareholder.  
+ 
+For more information, visit Tejas Networks Ltd. at http://www.tejasnetworks.com or contact  
+Investor Relations:  ir@india.tejasnetworks.com  
+Attn: Mr. Santosh Kesavan: skesavan@india.tejasnetworks.com   Phone: +91 80 41794600 
+ 
+About Qualcomm   
+ Qualcomm is a global computing leader at the center of the AI era, enabling intelligence to scale from the most 
+personal devices to large-scale infrastructure. Building on more than four decades of innovation, we develop 
+platforms and solutions that bring together advanced AI, high-performance, low-power computing and 
+industry-leading connectivity — powering products and services used around the world.   At Qualcomm, we are 
+engineering human progress.   
+ 
+Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. 
+Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, 
+substantially all of our engineering and research and development functions and substantially all of our products and 
+services businesses, including our QCT semiconductor business. Snapdragon and Qualcomm branded products are 
+products of Qualcomm Technologies, Inc. and/or its subsidiaries.   Qualcomm patents are licensed by Qualcomm 
+Incorporated. Qualcomm, Snapdragon, Qualcomm Dragonwing and Qualcomm Dragonfly are trademarks or 
+registered trademarks of Qualcomm Incorporated.  
+ 
+ 
+SAFE HARBOUR  
+Certain statements in this release concerning our future growth prospects are forward-looking statements, which 
+involve a number of risks, and uncertainties that could cause actual results to differ materially from those in such 
+forward-looking statements due to risks or uncertainties associated with our expectations with respect to, but not 
+limited to, our ability to successfully implement our strategy and our growth and expansion plans, technological 
+changes, our exposure to market risks, general economic and political conditions in India which have an impact on our 
+business activities or investments, changes in the laws and regulations that apply to the industry in which the Company 
+operates. The Company does not undertake to update any forward-looking statements that may be made from time to 
+time by or on behalf of the Company . 
+  
+ 
+ 
+ 
+ 

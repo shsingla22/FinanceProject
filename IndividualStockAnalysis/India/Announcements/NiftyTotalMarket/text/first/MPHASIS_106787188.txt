@@ -1,0 +1,178 @@
+ 
+ 
+ 
+September  22, 2026 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,                                                                        
+MUMBAI - 400 001  
+ 
+Scrip Code: 526299    The Manager, Listing  
+National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, 
+G-Block, Bandra -Kurla Complex,  
+MUMBAI – 400 051 
+ 
+Scrip Symbol: MPHASIS  
+ 
+Dear Sir /Madam , 
+ 
+ Sub: Intimation of Press Release  
+ 
+Pursuant to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, p lease find enclosed 
+herewith a press release titled  “Mphasis and Copa Airlines Host Global Quantum Computing Challenge to 
+Accelerate Innovation in Airline Operations ”. 
+ 
+The press release will also be available on the website of the Company at www.mphasis.com . 
+ We request you to kindly take the above intimation on record . 
+          
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Mphasis Limited  
+ 
+ 
+Mayank Verma  
+Senior Vice President and Company Secretary  
+Membership No.: ACS 18776  
+ 
+Encl: As above  
+ 
+Docusign Envelope ID: FB93D53B-1666-8937-8224-128151361F79
+
+Mphasis and Copa  Airlines Host Global Quantum Computing Challenge to Accelerate 
+Innovation in Airline Operations  
+~Top-performing teams from IITs and the University of Calgary were invited to build quantum -based optimization solutions 
+for real -world airline operations.  
+~Winners receive joint recognition  and a cash reward from Copa  Airlines and Mphasis  
+   
+ 
+ 
+New York, Bengaluru, September 22 , 202 6 
+ 
+Mphasis , (BSE: 526299 ; NSE: MPHASIS ), a global AI -led, platform -driven technology solutions provider , in partnership with 
+Copa  Airlines , recently  hosted a Quantum Computing Challenge, an international innovation contest . The challenge 
+brought together teams from  various  Indian Institutes of Technology (IITs) in India and the University of Calgary  and the 
+University of Lethbridge  in Canada to solve a real -world airline optimization problem using next- generation quantum 
+computing . 
+ 
+The challenge focused on disruption management by addressing the passenger re -accommodation problem, a critical 
+airline process involving reassignment of passengers to alternate flights during schedule disruptions due to demand shift,  
+seasonal routes, or cancellations. Traditionally solved through well-established mathematical optimization  techniques on 
+high -performance  classical computing system, the problem was reimagined  and resolved in  this challenge using quantum 
+computing  with the  focus  on improv ing the speed  and accuracy  at scale . 
+ 
+Mphasis’ Airlines Vertical and NEXT Labs (company’s R&D and innovation arm) collaborated with Copa Airlines, to define 
+the problem, identify data requirements, establish infrastructure through  partner ecosystem, and define success and the 
+evaluation criteria.  Based on benchmarks shared by the  Airlines, the objective was to improve the passenger re-
+accommodation rate, without impacting the solution runtime . 
+ 
+The competition was conducted in two phases . Phase -1 included 22 Indian Institutes of Technology ( IIT) teams evaluated 
+jointly by Mphasis experts and IIT -Madras faculty, from which six teams were selected. In Phase 2, these six teams 
+competed with three teams from the University of Calgary and the University of Lethbridge  using real Copa Airlines data, 
+and quantum infrastructure provided by Classiq , Multiverse  computing  and qBraid . 
+ Participants developed end -to-end solution pipeline, including:  
+● Identification of impacted flight segments and passengers  
+● Passenger scoring and prioritization based on Customer Value Management (CVM) data  
+● Ranking of alternate flight options  
+● Optimal reassignment of passengers using quantum and classical optimization techniques  
+● Benchmarking and performance evaluation of the proposed solutions  
+ 
+Mphasis , with IIT-Madras  and Quantum City  – the quantum ecosystem developer in Calgary, Alberta ( formed through a 
+strategic partnership with the Government of Alberta, and Mphasis ), shortlisted three solutions for presentation to Copa 
+Airlines  leadership . The winning teams will receive a cash prize  and a joint certificate from  Copa Airlines and Mphasis . 
+ 
+“The Quantum Computing Challenge reflects Mphasis’ commitment to applied innovation and advancements in quantum 
+technologies . As industries move from experimenting with quantum computing to deploying it for real -world impact, its 
+maturity and readiness for enterprise -scale applications are becoming increasingly evident. This challenge bridges the gap 
+between research and implementation by connecting academic  talent with real business problems, showcasing how 
+Docusign Envelope ID: FB93D53B-1666-8937-8224-128151361F79
+ 
+   
+ 
+quantum optimization can improve efficiency and decision- making in airline operations ,” 
+said Srikumar Ramanathan, Chief Solutions Officer, Mphasis.  
+ 
+“The Quantum Computing Challenge reflects our commitment to exploring transformative technologies that can redefine 
+the future of airline operations. The innovative solutions presented by participants worldwide was truly inspiring, 
+demonstrating how quantum  computing, combined with diverse talent and fresh perspectives, can help build more 
+intelligent, adaptive, and connected aviation ecosystems for the years ahead,” said Julio Toro, Chief Information Officer, 
+Copa Airlines.  
+ 
+Mphasis continues  to advance quantum computing to solve complex business problems, by driving research, talent 
+development, and the creation of advanced quantum solutions for real -world enterprise challenges. This multi -pronged 
+approach reinforces Mphasis’ leadership in bridging academia, industry, and technology to unlock the full potential of 
+quantum computing for their global clients.  
+ 
+Recently, the company also launched two  quantum- powered offerings , QOptiDecision ™ for quantum enhanced 
+optimization  that leverage s hybrid quantum- classical algorithms to drive optimization and transformation across 
+industries  and qCryptsec ™ for quantum -safe cybersecurity .  
+ 
+About Mphasis   
+At Mphasis, engineering has been in our DNA since inception.  
+Mphasis is an AI -led, platform -driven company with human -in-the-loop intelligence, helping global enterprises modernize, infuse AI, 
+and scale with agility. The Mphasis.ai  unit and Mphasis AI -powered ‘Tribes’ are focused on client outcomes and embed artificial 
+intelligence and autonomy into every layer of the enterprise technology and process stack.  Mphasis built NeoIP ™, a breakthrough  AI 
+platform that orchestrates a powerful pack of AI solutions and platforms to deliver impactful outcomes across the enterprise IT value 
+chain, as we believe ‘AI Without Intelligence Is ArtificialTM’. Mphasis NeoIP ™ is powered by the Ontosphere, a dynamic and ever -
+evolving knowledge base, delivering continuous and constant innovation through perpetual  intelligent engineering —driving end -to-
+end enterprise transformation.  
+At the heart of our approach is customer -centricity —reflected in our proprietary Front2Back ™ transformation framework, which uses 
+the exponential power of cloud and cognitive to deliver hyper -personalized digital experiences (C= X2C2TM=1) and build strong 
+relationships with marquee clients. Our Service Transformation solutions enable enterprises to pivot from legacy systems and 
+operations to secure, adaptive, cloud -first operating models with minimal disruption. Continuous investments i n platforms, such as 
+the Neo series, enable enterprises to stay efficient, relevant, and ahead  in a dynamic AI -first world. Mphasis is a Hi-Tech, Hi -Touch, Hi-
+Trust company, rooted in a learning and growth culture.  Click here  to know more.  (BSE: 526299; NSE: MPHASIS)  
+ 
+About Copa Airlines  
+Copa Airlines, a subsidiary of Copa Holdings, is a leading passenger and cargo airline in Latin America. Throughout nearly 80 years of 
+operations, it has established the Hub of the Americas®, located in Panama City, as the continent’s premier connecting hu b. Copa 
+Airlines operates one of the youngest and most modern fleets in the industry, consisting of Boeing 737- 800 NG and Boeing 737 MAX 
+aircraft, serving destinations across North, Central, and South America and the Caribbean. The airline maintains an on -time 
+performance rate of approximately 90%, consistently ranking among the best in the global airline industry.  
+Copa Airlines is a member of Star Alliance, the world’s most comprehensive global airline network, and offers ConnectMiles, i ts 
+frequent flyer program, through which members can earn and redeem miles on more than 25 airlines worldwide.  
+ 
+About Quantum City  
+Quantum  City is building an ecosystem for quantum science and technology in Alberta bringing together researchers and developers, 
+industry and adopters of quantum technology and services.   
+The University of Calgary has formed a strategic partnership with the Government of Alberta, and Mphasis, its first industry partner to 
+create Quantum City. Quantum City’s mandate is to establish quantum -focused fabrication infrastructure, new talent devel opment 
+programs and adoption pathways to support the development of a vibrant economic and scientific hub based in Calgary. These combined assets will create a unique, and once -in-a-generation opportunity to position Alberta as a national and international  
+jurisdiction in the new quantum economy.  
+Docusign Envelope ID: FB93D53B-1666-8937-8224-128151361F79
+ 
+   
+ 
+ 
+ABOUT IIT MADRAS  
+Indian Institute of Technology Madras (IITM) was established in 1959 by the Government of India as 
+an ‘Institute of National Importance.’ The activities of the Institute in various fields of Science and Technology are carrie d out in 18 
+academic departments and several advanced interdisciplinary research academic centres. The Institute offers undergraduate and postgraduate programmes leading to B.Tech., M.Sc., M.B.A., M.Tech., M.S., and Ph.D. degrees in a variety of specialisations . IITM is a 
+residential institute with more than 650 faculty and 10,000 students. Students from 18 countries are enrolled here. IITM fost ers an 
+active entrepreneurial culture with strong curricular support and through the IITM Incubation Cell.  
+Recognized as an Institution of Eminence (IoE) in 2019, IITM has been ranked No.1 in the ‘Overall’ Category for seven consecu tive 
+years in India Ranking 2025 released by National Institutional Ranking Framework, Ministry of Education, Govt. of India. The I nstitute 
+has also been ranked No.1 in the ‘Engineering Institutions’ category in the same Rankings for 10 consecutive years – from 2016 to 
+2025.  
+ 
+In addition, IIT Madras also secured first rank in the category of ‘Sustainability Development Goals’ (SDG), which was introd uced in 
+2025, and also secured the #1 rank in the ‘Innovations’ category (previously known as Atal Ranking of Institutions on Innov ation 
+Achievements), improving upon its position of #2 in the same category the preceding year.  
+ 
+In 2023, IIT Madras became the first IIT to establish an international Campus in Zanzibar, Tanzania, called 'IIT Madras Zanzi bar. 
+ 
+For further information, please contact:  
+Mphasis Corporate Communications  
+Deepa Nagaraj  
+deepa.nagaraj@mphasis.com  |  
++ 1 (646) 424- 5160 |+91 9845 256 283   
+ 
+Sumana Bhat  
+sumana.bhat@mphasis.com  |  
++91 9902 980 980  
+ 
+Docusign Envelope ID: FB93D53B-1666-8937-8224-128151361F79

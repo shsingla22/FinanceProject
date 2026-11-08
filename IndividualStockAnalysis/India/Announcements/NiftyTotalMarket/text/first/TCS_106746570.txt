@@ -1,0 +1,141 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 25/2026-27 
+ 
+August 17,  2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS launches Agentic AI 
+platform to transform drug development ” which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+TCS launches Agentic AI platform to transform drug development   
+TCS ADD ™ AgentHub, will help  pharma industry scale AI with confidence across the R&D value chain in 
+highly regulated environments  
+ 
+MUMBAI , AUGUST  17, 202 6: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global leader in IT 
+services, consulting, and business solutions , has  launched  TCS ADD ™ AgentHub, a role -based, enterprise -
+ready , and trusted AI platform that enables the use of agentic AI in  drug development  at scale . This new 
+agentic  AI workforce  transforms clinical trials and pharmacovigilance services while maintaining regulatory 
+and audit requirements.  
+Pharmaceutical companies function in highly regulated environments , where they  face challenges  with trust, 
+governance and scalability  when applying AI across functions . Growing data volumes, fragmented systems, 
+and increasing regulatory expectations across clinical development and pharmacovigilance  are adding 
+complexities to the entire R&D value chain.  
+TCS ADD ™ AgentHub provides a structured framework to mitigate these challenges . Within t he framework  
+AI agent s can operate with clear roles, defined oversight, and built ‑in auditability.  Pharma companies can  
+custom build their AI agent  hub and deploy them across clinical workflows . The platform allows rapid and 
+streamlined integrat ion with minimal effort , accelerating adoption while maintaining regulatory compliance.  
+Built on the TCS ADD ™ framework, TCS ADD ™ AgentHub delivers measurable operational benefits across 
+drug development and drug safety functions. Solutions powered by the platform have demonstrated up to 
+40% efficiency gains in clinical data management activities, up to 30% reduction in clinical stud y build effort 
+through metadata -driven automation, and up to 30% cost savings in end -to-end safety case processing. AI -
+powered safety agents can also reduce quality control effort by as much as 50%, helping organizations 
+improve productivity across critica l R&D processes.  
+Built on the TCS ADD ™ agentic AI architecture, TCS ADD ™ AgentHub enables  pharma companies to deploy a 
+Human + AI Operating Model in which AI agents are embedded into enterprise workflows, with humans 
+retaining responsibility for governing and decision ‑making.  
+Debashis Ghosh, President, Lifesciences  and Healthcare , TCS, said, “TCS ADD ™ AgentHub, is a role -based, 
+enterprise -ready, and trusted AI platform that will enable our customers to accelerate drug development 
+using agentic AI at scale.  It enables a shift from reactive to proactive, scalable, and audit -ready operations 
+amidst an eve r-changing regulatory environment. TCS’ strategy is to move towards autonomous enterprise 
+functions where AI agentic workforce operates alongside humans driving innovation in drug development and 
+improving patient safety.”  
+TCS ADDTM AgentHub supports workflows across clinical development and pharmacovigilance through AI 
+workers such as ICSR intake, data entry, coding, review, and literature analysis; study design, protocol 
+digitization, and clinical data review; SDTM (Study Data Tabul ation Model) transformation; and medical 
+monitoring assistance, among others. With an evolving catalogue of AI agents to suit specific needs, based 
+on requirements and landscape, they can be deployed progressively, rapidly with minimal integration and 
+impl ementation effort. By standardizing how AI agents are deployed across these processes, the platform 
+helps organizations improve productivity and focus scientific teams on higher ‑value work.  
+Buoyed by its comprehensive “AI -first” culture, perfectly exemplified by TCS ADD ™ AgentHub, TCS aspires to 
+ 
+Page 2 of 3 
+ 
+become the world's l argest  AI-led technology services company. By leveraging the proprietary cognitive 
+intelligence of the TCS ADD ™ suite, TCS enables tangible, predictive, and secure digital ecosystems for its 
+customers.  
+ 
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service . 
+It has set an aspiration to become the world's largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 5 6 
+countries and 194 service delivery centers across the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long term partnerships with its clients – helping them emer ge as perpetually adaptive enterprises. Many 
+of these relationships have endured into decades and navigated every technology cycle, from mainframes in 
+the 1970s to artificial intelligence today.  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon , Tata Mumbai Marathon  and TCS Sydney Marathon with a focus 
+on promoting health, sustainability, and community empowerment.  
+TCS generated  consolidated  revenues of over US $30 billion in the fiscal year ended March 31, 202 6. For 
+more information, visit www.tcs.com  
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS Media Contacts:  
+  
+ 
+Corporate Communication & India   Email:  corporate.communications@tcs.com  
+Email:  santosh.castelino@tcs.com | Phone: 
++91 22 6778 9999  
+ 
+Asia Pacific   Email: y.tham@tcs.com  | Phone: +65 9270 
+4560  
+Australia and New Zealand   Email:  Francesca.Newby@tcs.com   |  +61 
+414 902 440  
+Canada    Email:  tiffany.fisher@tcs.com  | Phone: +1 
+416 456 7650   
+Europe   Email:  roland.bagen@tcs.com  | Phone: +46 
+70 3178024  
+ 
+Page 3 of 3 
+ 
+Middle East & Africa   Email:  pragya.priyadarshini@tcs.com 
+| Phone: +971 528656700   
+Japan   Email:  douglas.foote@tcs.com  | Phone: 
++81 80 -2115 -0989   
+Latin America   Email: alma.leal@tcs.com  | Phone: 
++525579808714  
+UK priyanka.mehta@tcs.com  
++44 7921493382  
+USA   Email:  andrew.corcione@tcs.com  | Phone: 
++1 646 617 8221  
+ 
+ 
+ 

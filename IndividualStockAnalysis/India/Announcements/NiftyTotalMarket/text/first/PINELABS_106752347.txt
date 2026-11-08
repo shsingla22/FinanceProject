@@ -1,0 +1,192 @@
+ 
+ 
+Date: August 2 1, 2026  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606    
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+ 
+Sub: Submission of Annual Report of Pine Labs Limited (“the Company”) for FY 2025 -26 pursuant 
+to Regulation 34(1) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015  
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulations 34(1) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (SEBI Listing Regulations), please find enclosed herewith the 
+Annual Report of the Company for FY 2025 -26 along with the Notice of the Twenty -Eighth A nnual General 
+Meeting  and other Statutory Reports. The said Annual Report is being sent through electronic mode to the 
+Members whose email addresses are registered with the Company, Registrar and Transfer Agent (RTA) 
+and Depositories. Further, in accordance with Regulation 36( 1)(b) of the SEBI Listing Regulations, the 
+Company is also sending a letter to Members whose e -mail addresses are not registered with Company, 
+RTA and Depositories providing the web -link from where the Annual Report can be accessed on the 
+Company’s website . 
+ 
+The said Annual Report will also be available on the website of the Company at 
+www.pinelabs.com/investor -relations/  and the Stock Exchanges i.e. BSE Limited and National Stock 
+Exchange of India Limited at www.bseindia.com  and www.nseindia.com , respectively . 
+ 
+We request you to kindly take the above on your record s. 
+  
+Thanking you,  
+  
+For Pine Labs Limited  
+ 
+ 
+  
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl. a/a  
+
+CONTENTS
+Our market debut 1
+A Letter from our CEO 2
+About us 6
+Our performance in numbers 10
+Scaling our platform 15
+The engines behind long- 
+term value creation (Our businesses) 16
+Enabling growth for our partners 26
+Technology and innovation 31
+Re-wiring the organisation  
+for the AI era38
+Our growth strategy 40
+Our people, our strength 43
+Environmental stewardship in motion 48
+Community engagement 50
+Investor’s connect 51
+Awards 52
+Corporate information 53CORPORATE OVERVIEW1-55 166-389
+Standalone financial statements 167
+Consolidated financial statements 272
+Glossary 390
+List of acronyms 392FINANCIAL STATEMENTS
+Scan the QR code to know more about 
+our company or visit our website 
+www.pinelabs.com
+56-165
+Management discussion and analysis 56
+Board’s report 74
+Report on corporate governance 105
+Notice of annual general meeting 133STATUTORY REPORTS
+
+OUR MARKET DEBUT
+Our listing at BSE Limited and the NSE Limited marked a watershed moment in 
+Pine Labs’ evolution as an institution. The strong response to our public offering, 
+reflected in its oversubscription, highlighted investor confidence in the resilience of 
+our business model, the scale of our opportunity and our ability to create enduring 
+value as a public company.
+Our ~H 3900 Crores IPO, structured as a fresh issue 
+of H2,080 Crores alongside an Offer for Sale of 
+H1,819.9 Crores expanded our shareholder base 
+and also drew participation from some of most 
+respected institutional investors, demonstrating 
+strong conviction in our growth story. The breadth 
+of participation spanning domestic mutual funds, 
+foreign institutional investors, long-only funds, 
+high-net-worth individuals and retail investors reflected the expanded recognition of Pine Labs 
+as a category-defining commerce infrastructure 
+platform. The listing was a collective endorsement of 
+our technology-driven business and our ambition to 
+scale across India and beyond. The proceeds from 
+the fresh issue would be channelled into deepening 
+our technology infrastructure and accelerating 
+international expansion, laying a firm foundation for 
+the next phase of purposeful, sustainable growth.
+A LETTER FROM OUR CEO
+B. Amrish Rau  
+Chairman, Managing Director,
+and Chief Executive Officer, 
+Pine LabsDear Members, 
+ 
+Winning transactions sounds simple. But 
+it is the hardest thing to do consistently, at 
+scale, across merchants, markets, banks, 
+and rails that are constantly changing 
+underneath. It is also the belief that has 
+shaped every decision we have made at Pine 
+Labs, and every layer of infrastructure we 
+have built beneath it.
+Every transaction is a vote of confidence, 
+from a consumer, a merchant, a brand, 
+or a financial institution. Our journey 
+has therefore been about continuously 
+increasing the number of transactions we 
+win, while expanding the value we create 
+around each one.
+FY 2025-26 was another important step in that journey — and our first full year of 
+profitability. Our platforms processed $194 Billion of GTV, up 50% year on year, across 740 
+Crores+ transactions. Revenue from operations grew 19% to ₹2,711 Crores, Adjusted EBITDA 
+grew 57% to ₹559 Crores with margins expanding to 21%, and we delivered PAT of ₹113 Crores  
+compared with a loss of ₹145 Crores in FY 2024-25. Operating cash flow increased eight-
+fold to ₹395 Crores. That swing to profitability demonstrates the operating leverage inherent 
+in the platform we have built: as our businesses scale, technology and infrastructure 
+investments support significantly greater volumes without a proportionate increase in our 
+cost base. 
+We now serve more than 11 Lakhs Merchants, with over 20 Lakhs+ digital checkout points  
+across our markets. But for us, these numbers are not the destination. They are the foundation 
+on which we are building the next phase of Pine Labs.
+This is also our first annual report since our IPO, and I want to use it to explain the architecture 
+of what we are building, and why it matters more now than at any point since we started.
+ 
+FROM PAYMENTS TO FULL STACK COMMERCE
+You may still think of us as an offline payments company. We’ll take that—that’s where you 
+first saw us win. But that’s not the whole picture: we don’t see online or offline. We only see the 
+transaction. And we’ve built to win it, wherever it happens.
+Annual Report 2025-26  |  2
+Corporate Overview Statutory Reports Financial Statements
+We started with payments acceptance. We then built capabilities around the transaction: 
+affordability, EMI, offers, loyalty, issuing, prepaid, online payments, transaction processing, 
+and fintech infrastructure. Today, our offerings are increasingly full stack.
+Banks want to keep their merchant relationships. Merchants want faster, simpler payment 
+systems. Brands want to hold the money that keeps a customer coming back. Pine Labs sits 
+inside all three relationships at once, which is why the stack matters more than any single 
+layer in it.
+Banks want to keep their 
+merchant relationships. 
+Merchants want faster, 
+simpler payment 
+systems. Brands want 
+to hold the money 
+that keeps a customer 
+coming back. Pine 
+Labs sits inside all three 
+relationships at once, 
+which is why the stack 
+matters more than any 
+single layer in it.We view that stack as a four-layered 
+architecture: payment rails at the foundation, 
+processing infrastructure above it, orchestration 
+above that, and financial platforms at the top. 
+Simple enough to remember, complex enough 
+to have taken years to build.
+The moat is in the layers underneath: regulatory 
+licences, scheme certifications, years of becoming 
+the system of record that banks trust with 
+settlement. That is not a feature you ship. It is 
+a position you earn, and it compounds. Banks 
+and merchants are running on our infrastructure, 
+making switching a migration of the system 
+of record itself. The more transactions we win, 
+the more relationships and products we can 
+offer. And the more products we offer, the more 
+valuable our platform becomes.
+FINANCIAL PLATFORMS
+ORCHESTRATION
+PROCESSING INFRASTRUCTURE
+PAYMENT RAILSUSER INTERFACE
+CONTROL PANEL
+CORE ENGINE
+FOUNDATION
+Annual Report 2025-26  |  3
+Corporate Overview Statutory Reports Financial Statements

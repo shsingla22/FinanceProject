@@ -1,0 +1,256 @@
+ 
+  
+ 
+            
+            
+            
+            \
+   
+HPIL/BS/Stx/2026-27             Dated: 29-09-2026 
+To, 
+Manager, 
+Listing Department 
+BSE Limited,  
+P.J. Towers, Dalal Street  
+Mumbai: 400 001 To, 
+Manager 
+Listing Department 
+National Stock Exchange of India Limited  
+"Exchange Plaza", Plot No. C/1,G Block, 
+Bandra Complex, Bandra (E), 
+Mumbai -400 051 
+ 
+Script Code: 543242            Symbol: HEMIPROP 
+ 
+Subject: Submission of Scrutinizer's Report for Voting at 22nd  Annual General 
+Meeting of Hemisphere Properties India Limited. 
+ 
+Dear Sir(s), 
+ 
+The 22nd  Annual General Meeting (AGM) of Hemisphere Properties India Ltd 
+was held on Monday, September 28, 2026 at 2.00 PM (IST) through Video 
+Conferencing (VC) /Other Audio Visual Means (OAVM) in accordance with General 
+Circulars issued by SEBI and Ministry of Corporate Affairs. 
+ 
+As per SEBI (Listing Obligation & Disclosure Requirement) Regulation, 2015 
+and Companies Act, 2013 the e-voting for the Members was made available from 
+Friday, September 25, 2026 at 9:00 AM (IST) to Sunday, 27th September 2026 at 
+5.00 p.m. (IST). Members who were present at the Annual General Meeting and had 
+not casted their votes by remote e-voting were given the facility to cast their vote 
+through e-voting at the Meeting. 
+ 
+Mr. Maghisuddin of M/s M & Co., Practicing Company Secretary, the 
+scrutinizer submitted its report on September 29, 2026 and informed that all the  
+resolutions mentioned in the AGM notice have been passed.  A copy of Scrutinizer’s 
+Report is attached herewith for your information and record. 
+ 
+The aforesaid information is also available on the website of the Company. 
+Thanking you,  
+ 
+For Hemisphere Properties India Limited  
+ 
+ 
+ 
+Lubna  
+Company Secretary & Compliance Officer       
+          HEMISPHERE PROPERTIES INDIA LIMITED            
+                        (A Government of India Enterprise) 
+  
+       हेमी˛े यर ŮॉपटŎज इंिडया िलिमटेड  
+                                     (भारत सरकार का उपŢम ) 
+     Reg. Office Address : 
+  Room No. 0923, 9th Floor,  
+  Sankalp Bhawan, GPOA-II, 
+  Kasturba Gandhi Marg. New Delhi 110001 
+    CIN: L70101DL2005GOI132162 
+    Website: www.hpil.co.in  
+    Email :info@hpil.co.in, Tel: 011-23783012/23783013  
+ 
+[1] [2] [3]={[2]/[1]}*100 [4] [5] [6]={[4]/[2]}*100 [7]={[5]/[2]}*100 [8]
+E-Voting 145696885 100.0000 145696885 0 100.0000 0.0000 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 145696885 100.0000 145696885 0 100.0000 0.0000 0
+E-Voting 2990601 81.2952 2749085 241516 91.9242 8.0758 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 2990601 81.2952 2749085 241516 91.9242 8.0758 0
+E-Voting 539590 0.3979 533292 6298 98.8328 1.1672 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 539590 0.3979 533292 6298 98.8328 1.1672 0
+Total 285000000 149227076 52.3604 148979262 247814 99.8339 0.1661 0Hemisphere Properties India Limited
+Resolution Required :Ordinary1 - To receive, consider and adopt the Audited Standalone Financial Statements of   the Company for the financial year 
+ended on March 31, 2026 and the Reports of the Board of Directors, the Statutory Auditors and the Comments of the 
+Comptroller and Auditor General  of India  (C&AG) thereon.
+Whether promoter/ promoter group are interested in the 
+agenda/resolution? NO  
+CategoryMode of 
+VotingNo. of shares 
+heldNo. of votes 
+polled% of Votes Polled 
+on outstanding 
+sharesNo. of Votes 
+– in favourNo. of 
+Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledNo. of 
+votes 
+Invalid
+Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions145696885
+3678695
+135624420
+[1] [2] [3]={[2]/[1]}*100 [4] [5] [6]={[4]/[2]}*100 [7]={[5]/[2]}*100 [8]
+E-Voting 145696885 100.0000 145696885 0 100.0000 0.0000 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 145696885 100.0000 145696885 0 100.0000 0.0000 0
+E-Voting 2990601 81.2952 420886 2569715 14.0736 85.9264 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 2990601 81.2952 420886 2569715 14.0736 85.9264 0
+E-Voting 539590 0.3979 512056 27534 94.8972 5.1028 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 539590 0.3979 512056 27534 94.8972 5.1028 0
+Total 285000000 149227076 52.3604 146629827 2597249 98.2595 1.7405 0Hemisphere Properties India Limited
+Resolution Required :Ordinary2 - To appoint  a Director in place of Shri Ravi Kumar Arora Director (Non-Executive) DIN: 09217881, who retires by 
+rotation at and being eligible, offers himself for re-appointment.
+Whether promoter/ promoter group are interested in the 
+agenda/resolution? NO  
+CategoryMode of 
+VotingNo. of shares 
+heldNo. of votes 
+polled% of Votes Polled 
+on outstanding 
+sharesNo. of 
+Votes – in 
+favourNo. of 
+Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledNo. of 
+votes 
+Invalid
+Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions145696885
+3678695
+135624420
+[1] [2] [3]={[2]/[1]}*100 [4] [5] [6]={[4]/[2]}*100 [7]={[5]/[2]}*100 [8]
+E-Voting 145696885 100.0000 145696885 0 100.0000 0.0000 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 145696885 100.0000 145696885 0 100.0000 0.0000 0
+E-Voting 2990601 81.2952 2990601 0 100.0000 0.0000 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 2990601 81.2952 2990601 0 100.0000 0.0000 0
+E-Voting 539590 0.3979 513504 26086 95.1656 4.8344 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 539590 0.3979 513504 26086 95.1656 4.8344 0
+Total 285000000 149227076 52.3604 149200990 26086 99.9825 0.0175 0Resolution Required :Ordinary 3 - To fix the remuneration of Statutory Auditors for the financial year 2026-27.
+Whether promoter/ promoter group are interested in the 
+agenda/resolution? NO  
+CategoryMode of 
+VotingNo. of shares 
+heldNo. of votes 
+polled% of Votes Polled 
+on outstanding 
+sharesNo. of Votes 
+– in favourNo. of 
+Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledNo. of 
+votes 
+Invalid
+Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions145696885
+3678695
+135624420
+[1] [2] [3]={[2]/[1]}*100 [4] [5] [6]={[4]/[2]}*100 [7]={[5]/[2]}*100 [8]
+E-Voting 145696885 100.0000 145696885 0 100.0000 0.0000 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 145696885 100.0000 145696885 0 100.0000 0.0000 0
+E-Voting 2990601 81.2952 420886 2569715 14.0736 85.9264 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 2990601 81.2952 420886 2569715 14.0736 85.9264 0
+E-Voting 539590 0.3979 511956 27634 94.8787 5.1213 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 539590 0.3979 511956 27634 94.8787 5.1213 0
+Total 285000000 149227076 52.3604 146629727 2597349 98.2595 1.7405 0Hemisphere Properties India Limited
+Resolution Required :Ordinary 4 - Appointment of  Shri Pradeep Kumar Jha (DIN : 07640619) as Director.
+Whether promoter/ promoter group are interested in the 
+agenda/resolution? NO  
+CategoryMode of 
+VotingNo. of shares 
+heldNo. of votes 
+polled% of Votes Polled 
+on outstanding 
+sharesNo. of Votes 
+– in favourNo. of 
+Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledNo. of 
+votes 
+Invalid
+Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions145696885
+3678695
+135624420
+[1] [2] [3]={[2]/[1]}*100 [4] [5][6]={[4]/[2]}*100 [7]={[5]/[2]}*100 [8]
+E-Voting 145696885 100.0000 145696885 0 100.0000 0.0000 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 145696885 100.0000 145696885 0 100.0000 0.0000 0
+E-Voting 2990601 81.2952 420886 2569715 14.0736 85.9264 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 2990601 81.2952 420886 2569715 14.0736 85.9264 0
+E-Voting 539590 0.3979 511956 27634 94.8787 5.1213 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 539590 0.3979 511956 27634 94.8787 5.1213 0
+Total 285000000 149227076 52.3604 146629727 2597349 98.2595 1.7405 0Hemisphere Properties India Limited
+Resolution Required :Ordinary 5 - Appointment of  Shri Shyam Lal Poonia (DIN : 07554713 ) as Director.
+Whether promoter/ promoter group are interested in the 
+agenda/resolution? NO   
+CategoryMode of 
+VotingNo. of shares 
+heldNo. of votes 
+polled% of Votes Polled 
+on outstanding 
+sharesNo. of Votes 
+– in favourNo. of 
+Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledNo. of 
+votes 
+Invalid
+Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions145696885
+3678695
+135624420

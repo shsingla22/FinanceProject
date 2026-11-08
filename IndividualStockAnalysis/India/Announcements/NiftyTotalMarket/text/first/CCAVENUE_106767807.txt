@@ -1,0 +1,282 @@
+ 
+AvenuesAI Limited  
+(Formerly known as Infibeam Avenues Limited)  
+Regd. Office: 28th Floor, GIFT Two Building, Block No . 56, Road-5C, Zone -5, GIFT CITY,  
+Gandhinagar – 382 050, Gujarat, India CIN: L64203GJ2010PLC061366 
+Tel: +91 79 67772204 | Fax: +91 79 67772205 | Email: ir@avenuesai.com  | Website: www.avenuesai.com  September 03, 2026 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, 
+Mumbai - 400 001 
+  
+Company Code No.: 539807 
+ National Stock Exchange of India Limited 
+Exchange Plaza, 
+Bandra Kurla Complex, 
+Bandra (East), 
+Mumbai - 400 051  
+Company Symbol: CCAVENUE 
+ 
+Dear Sir / Madam, 
+ 
+Sub: Notice of 16th Annual General Meeting and Annual Report for the F.Y. 2025-26 
+ 
+This is to inform you that the 16th Annual General Meeting (“AGM”) of th e Company will be held on Tuesday, 
+September 29, 2026 at 11.00 a.m. (IST) through Video Conferencing (“VC”)/ Other Audio-Visual Means (“OAVM”). 
+ 
+Pursuant to Regulation 34(1) of SEBI (Listing Obligation s and Disclosure Requirement s) Regulations, 2015 ("Listing 
+Regulations"), please find enclosed herewith the Annual  Report of the Company for the Financial Year 2025-26 
+along with the Notice convening 16th AGM, which is being sent to the Memb ers of the Company through electronic 
+mode, who have registered their e-mail addresses with the Depositories/Company and a letter providing a web-
+link for accessing the Annual Report who have not registered their e-mail IDs in compliance with the provisions of 
+the Listing Regulations and relevant circulars issued by  Ministry of Corporate Affairs and the Securities and 
+Exchange Board of India. 
+ 
+The Annual Report 2025-26 co ntaining the Notice of 16th AGM is also available on the website of the Company at 
+www.avenuesai.com .  
+ 
+The Company is pleased to provide its members the facility to exercise their right to vote on the resolutions 
+proposed to be passed at the AGM by electronic means. The date and time of remote e-voting facility are as under:  
+ 
+Sr. No. Particular Details 
+1 AGM date and time Tuesday, September 29, 2026 at 11.00 a.m. 
+2 Cut-off date for e-voting Tuesday, September 22, 2026 
+3 E-voting start time 9.00 a.m. on Friday, September 25, 2026 
+4 E-voting end time 5:00 p.m. on Monday, September 28, 2026 
+ 
+We request you to kindly take the same on your records. 
+ 
+Thanking you, 
+ 
+Yours faithfully,  
+For AvenuesAI Limited  
+(Formerly known as Infibeam Avenues Limited)  
+ 
+ 
+ 
+Shyamal Trivedi Sr. Vice President & Company Secretary  
+ 
+Encl.: As above 
+Powering the  
+Future of Commerce
+Annual Report 2025-26
+Forward-Looking Statements
+This Annual Report contains forward-looking statements within the meaning of applicable securities laws and regulations. 
+Statements in this report that describe the Company's objectives, plans, projections, estimates, expectations or intentions, 
+including those relating to strategy, business lines, product and technology development, regulatory approvals, international 
+expansion, deployment of Rights Issue proceeds and future financial or operating performance, are forward-looking 
+statements. Words such as 'anticipate', 'believe', 'estimate', 'expect', 'intend', 'plan', 'project', 'will', 'may', 'targeted' and similar 
+expressions identify such statements, although not all forward-looking statements contain them.
+Forward-looking statements are based on assumptions and expectations that the Company believes to be reasonable as at the 
+date of this report, but they involve known and unknown risks, uncertainties and other factors that may cause actual results, 
+performance or achievements to differ materially from those expressed or implied. These include, among others, changes in 
+economic conditions in India and the markets in which the Group operates; changes in law, regulation, licensing conditions 
+or the tax regime applicable to payments, prepaid instruments and financial technology; the timing and terms of regulatory 
+approvals; competitive intensity and pricing pressure, including movements in merchant discount rates and take rates; 
+technology, cyber-security, fraud and operational risks; dependence on banking, network and technology partners; the pace of 
+merchant and consumer adoption of new products; the outcome of integration and restructuring initiatives; and movements in 
+foreign exchange rates and financial markets.
+Readers are cautioned not to place undue reliance on forward-looking statements. The Company undertakes no obligation to 
+publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, 
+except as required by law. Nothing in this report constitutes an offer, invitation or recommendation to subscribe for, purchase 
+or sell any securities of the Company.Table of Contents
+Corporate Overview
+The Year in Context 01
+Message from the Leadership 02
+About AvenuesAI 05
+Reshaping Future 07
+Digital Milestones 10
+Strategic Framework 11
+Corporate Governance Standards and 
+Compliance12
+Key Performance Indicators 16
+Merchant-Centric Business Model 18
+CCAvenue Payment Infrastructure 20
+CCAvenue Scale, Reach & Client Ecosystem 21
+Artificial Intelligence 26
+Building Bank-Grade Payment Infrastructure 28Boards' Report
+Corporate Information 29
+Management Discussion and Analysis 30
+Important Notes for the Shareholders 49
+Notice 51
+Board’s Report 79
+Report on Corporate Governance 93
+Corporate Social Responsibilty 132
+Business Responsibility & Sustainability 
+Report134
+Financial Statements
+Independent Auditor’s Report 164
+Balance Sheet 176
+Statement of Profit and Loss 177
+Statement of changes in Equity 178
+Statement of cash flows 180
+Notes to the Financial Statements 182
+Independent Auditor’s Report 256
+Consolidated Balance Sheet 265
+Consolidated Statement of Profit and Loss 266
+Consolidated Statement of changes in Equity 267
+Consolidated Statement of cash flows 270
+Notes to the Consolidated Financial 
+Statements273
+The Year in Context 
+India's digital economy is entering a new phase — 
+one where payment adoption is being followed by 
+intelligent, embedded financial infrastructure.  
+UPI-led scale, merchant digitisation and omnichannel 
+commerce continue to expand transaction flows, 
+while regulation is raising the threshold for 
+participation across online, offline, prepaid and 
+cross-border payments. At the same time, artificial 
+intelligence is moving closer to the transaction layer, 
+enabling real-time decisioning, risk intelligence, 
+workflow automation and personalised engagement.  
+ 
+For AvenuesAI, these shifts create an opportunity  
+to convert transaction scale into transaction 
+intelligence — and transaction intelligence into 
+deeper merchant relevance and monetisation. Our 
+evolving architecture brings together
+as one connected operating model, designed to 
+support scalable growth across India and selected 
+international markets.payments infrastructure + merchant workflows + 
+consumer ecosystem + AI intelligence + regulated 
+financial infrastructure
+1
+Corporate Overview     Boards’ Report     Financial Statements
+Annual Report 2025-26
+Message from the 
+LeadershipAvenues AI
+From transaction scale to intelligence ownership“FY26 established the architecture.  
+FY27 must demonstrate the integration  
+and economics of that architecture.”
+Vishal Mehta 
+Chairman & Managing Director
+Dear Shareholders,
+FY2025-26 was a defining year in the evolution of 
+AvenuesAI Limited. Over the years, we have built scale 
+in digital payments, trusted merchant and institutional 
+relationships, technology capabilities and businesses 
+adjacent to the transaction layer. During FY26, these 
+building blocks began to converge into a broader 
+strategic architecture.
+The change of our corporate identity from Infibeam 
+Avenues Limited to AvenuesAI Limited reflects 
+this evolution. Our ambition is to move beyond 
+transaction processing towards an AI-enabled financial 
+infrastructure and transaction-intelligence platform - 
+one where payments, merchant workflows, consumer 
+engagement, regulated financial infrastructure 
+and artificial intelligence increasingly work as an 
+interconnected ecosystem.
+A Landmark Year of Financial Performance
+Payments Transaction Processing Value (TPV) 
+increased 55% to ₹5,038 billion, compared with ₹3,240 
+billion in FY25. Consolidated Gross Revenue increased 
+103% to ₹81,158 million, while Net Revenue grew 15% 
+to ₹6,031 million. Adjusted EBITDA rose 24% to ₹3,873 
+million and adjusted PAT increased 58% to ₹3,320 
+million. Adjusted EBITDA margin improved to 64% of 
+Net Revenue from 59% in FY25.
+The Company exceeded the FY26 guidance 
+communicated for Gross Revenue, adjusted EBITDA and 
+adjusted PAT, while Net Revenue was within the guided 
+range. At the same time, Payments Net Take Rate declined from 11.7 bps to 7 bps, reflecting the changing 
+mix of MDR and zero-MDR volumes and strategic 
+volume expansion. This reinforces our focus on revenue 
+quality and deeper monetisation, not transaction scale 
+alone.
+The audited consolidated financial statements reported 
+profit from operations after tax of ₹2,948.9 million. 
+The adjusted PAT referred to above excludes mark-to-
+market and/or fair-value movements, and we believe 
+presenting both statutory and underlying operating 
+performance supports transparent shareholder 
+communication.
+Reshaping AvenuesAI for the Next Phase
+One of the most important developments of FY26 was 
+the strategic transfer of the E-commerce Platform 
+Infrastructure business to Rediff.com India Limited. 
+The transaction was valued at ₹800.39 crore and 
+increased AvenuesAI’s stake in Rediff from 54.1% to 
+approximately 82.7%. The restructuring sharpens the 
+parent Company’s focus around payments, payment 
+infrastructure, AI and financial-services adjacencies, 
+while Rediff becomes an important platform for 
+enterprise software, consumer engagement and digital 
+commerce.
+The architecture we are building brings together 
+CCAvenue for transaction infrastructure, Rediff for 
+consumer and enterprise engagement, RediffOne for 
+business workflows and Phronetic AI as the intelligence 
+layer. The objective is to progressively increase 
+the value created around each transaction through 
+2
+AvenuesAI Limited
+
+AI-powered ecosystem driving scalable growth."Integrating payments, merchant workflows, 
+consumer engagement, and AI into a unified, 
+compounding value ecosystem."
+Vishwas Patel  
+Managing Director & CEO
+engagement, automation, analytics, risk intelligence 
+and, over time, financial-product distribution.
+As our strategic architecture has evolved, we have 
+also simplified and integrated our product portfolio. 
+Certain capabilities that were historically presented 
+as standalone products, solutions or brands are 
+increasingly being incorporated within broader 
+platforms, business lines and technology stacks, 
+while our disclosures are becoming more focused on 
+strategically relevant platforms, current commercial 
+priorities and measurable outcomes. Accordingly, 
+products, commercial arrangements or initiatives 
+may have evolved or may no longer warrant separate 
+disclosure. This approach reflects our transition 
+towards a more integrated AvenuesAI ecosystem, with 
+greater emphasis on how our capabilities work together 
+to create value for merchants, consumers and financial 
+institutions.
+Payments: from Acceptance to an Operating 
+Ecosystem
+Payments remain the foundation of AvenuesAI. The 
+Company today serves a disclosed base of 10+ million 
+merchants across online and offline channels. During 
+FY26, CCAvenue continued to strengthen payment 
+infrastructure and expand its banking ecosystem, 
+including onboarding RBL Bank and IDBI Bank for 
+Corporate Net Banking and adding relationships with 
+other banking institutions.
+The opportunity ahead is to deepen our relevance to 
+merchants beyond payment acceptance - integrating checkout, reconciliation, customer engagement, 
+analytics, financing and workflow automation through a 
+common technology architecture.
+AI: Building the Intelligence Layer
+FY26 was also important in translating our AI 
+strategy into identifiable products and infrastructure. 
+Phronetic AI launched PayCentral.ai, while CCAvenue 
+introduced CommerceAI and related capabilities for 
+AI-enabled payment workflows. The Company also 
+continued developing PrivateGPT and enterprise AI 
+solutions focused on privacy-sensitive and on-premise 
+deployments.
+Building Regulated Financial Infrastructure
+FY26 materially expanded the regulatory foundations 
+supporting our future business model. The Company 
+received RBI authorisation for Offline Payment 
+Aggregation, in-principle approval relating to Prepaid 
+Payment Instruments and IFSCA approval to operate 
+as a Payment Service Provider at GIFT-IFSC. RediffPay 
+also progressed through CUG testing following NPCI 
+TPAP approval.
+These approvals widen the payment and financial-
+services use cases the Group can potentially address 
+across online, offline, prepaid and cross-border 
+environments. Our priority is to translate regulatory 
+infrastructure into commercially sustainable products 
+while maintaining the governance, risk-management 
+and compliance standards expected of a regulated 
+financial-technology platform.
+3
+Corporate Overview     Boards’ Report     Financial Statements
+Annual Report 2025-26

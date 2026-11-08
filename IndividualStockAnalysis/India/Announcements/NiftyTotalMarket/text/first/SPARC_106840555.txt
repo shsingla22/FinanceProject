@@ -1,0 +1,243 @@
+ 
+ 
+ SPARC/Sec/SE/202 6-27/45 November 02, 2026 
+ 
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, 5th Floor,  
+Plot No. C/1, G Block,  
+Bandra Kurla Complex,  
+Bandra (East), Mumbai – 400 051. 
+ 
+Scrip Symbol: SPARC BSE Limited,  
+Market Operations Dept.  
+P. J. Towers,  
+Dalal Street,   
+Mumbai - 400 001. 
+ 
+  Scrip Code: 532872 
+  
+Dear Sir/ Madam, 
+ 
+Sub: Outcome of the Board Meeting held today i.e. on November 0 2, 2026 
+ 
+Pursuant to Regulation 30 and Regulation 33 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), 
+this is to inform that the Board of Directors of the Company, at its meeting held today, i.e., 
+November 02, 2026, which commenced at 0 5:45 P.M. (IST) and con cluded at 07:00 P.M. (IST), 
+has inter alia considered and approved the Unaudited Standalone and Consolidated Financial 
+Results of the Company for the quarter and half year ended September 30, 2026. 
+ 
+The said financial results, along with the Limited Review Report issued by the Statutory 
+Auditors of the Company, are enclosed herewith as Annexure A. 
+ 
+This is for your information and dissemination.  
+ 
+For Sun Pharma Advanced Research Company Limited.  
+ 
+ 
+ 
+Kajal Damania 
+Company Secretary and Compliance Officer  
+ 
+Encl: As above 
+ 
+ 
+Ground floor, Tower C Unit 1,  
+Panchshil Tech Park One, Loop road,  
+Near Don Bosco School, Yerwada  
+Pune - 411 006, India  
+ 
+ Tel: +91 20 6603 6000  
+  
+ 
+ 
+ 
+ 
+ 
+in Lakhs
+Year ended
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+  Revenue from operations
+  Revenue from contracts with customers (Refer Note 3) 3,003 3,992 786 6,995 1,750 3,915 
+  Other operating revenue (Refer Note 4)  -  -  -  -  - 1,84,002 
+  Total revenue from operations 3,003 3,992 786 6,995 1,750 1,87,917 
+  Other income 2,362 2,366 1 4,728 903 1,083 
+  Total income 5,365 6,358 787 11,723 2,653 1,89,000 
+  Expenses
+  Cost of materials consumed 995 766 610 1,761 1,123 2,360 
+  Employee benefits expense 2,389 2,416 2,619 4,805 5,387 10,185 
+  Clinical trial expenses / products development expenses 925 1,326 801 2,251 1,355 2,266 
+  Professional charges 2,138 2,124 2,242 4,262 3,678 8,753 
+  Finance costs 12 813 752 825 1,370 3,412 
+  Depreciation and amortisation expense 220 220 257 440 511 1,007 
+  Other expenses 1,144 791 1,103 1,935 2,029 4,568 
+  Total expenses 7,823 8,456 8,384 16,279 15,453 32,551 
+  Profit / (loss) before exceptional item and tax  (2,458)  (2,098)  (7,597)  (4,556)  (12,800) 1,56,449 
+  Exceptional item (Refer Note 2)  -  -  -  -  - 1,236 
+  Profit / (loss) before tax  (2,458)  (2,098)  (7,597)  (4,556)  (12,800) 1,55,213 
+  Tax expense  -  -  -  -  -  - 
+  Profit / (loss) for the period  (2,458)  (2,098)  (7,597)  (4,556)  (12,800) 1,55,213 
+  Other comprehensive income (OCI)
+ (164)  -  (7)  (164)  (13) 207 
+  Total comprehensive profit / (loss) for the period  (2,622)  (2,098)  (7,604)  (4,720)  (12,813) 1,55,420 
+  Paid-up equity share capital (Face value 1 each) 3,245 3,245 3,245 3,245 3,245 3,245 
+  Other equity 1,30,113 
+  Basic and diluted earnings / (loss) per equity share of  1 each (0.76)                    (0.65)                  (2.34)                  (1.40)                  (3.94)                  47.83                 
+ Not annualised  Not annualised  Not annualised  Not annualised  Not annualised Annualised
+  See accompanying notes to the unaudited standalone financial results
+Notes :
+1
+2
+3
+4
+5
+6
+For and on behalf of the Board
+Dilip S. Shanghvi
+Mumbai, November 2, 2026 ChairmanThe above unaudited standalone financial results of Sun Pharma Advanced Research Company Limited (the 'Company') have been prepared in accordance with the Companies
+(Indian Accounting Standards) Rules, 2015 (Ind AS) as amended, prescribed under section 133 of the Companies Act, 2013, read with relevant rules issued thereunder and as per the
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended and have been taken on record by the Board of Directors at its meeting
+held on November 2, 2026 after being reviewed by the Audit Committee.
+The Company has only one reportable business segment namely 'Pharmaceutical Research and Development'.The Company had assessed the implications of the New Labour Codes and had recognized an incremental cost of ₹1,236 lakhs during the previous year and disclosed it as an
+exceptional item.
+During the previous year, the Company recognised income of 184,002 lakhs in respect of a Priority Review Voucher (PRV) granted by the United States Food and Drug
+Administration (USFDA) on February 03, 2026 for Sezaby®. The PRV, being a transferable instrument, was sold by the Company on April 30, 2026 for USD 195 million.During the quarter ended June 30, 2026, the Company and CMS Bridging DMCC ("CMS") mutually agreed to terminate the licensing agreement dated November 5, 2019. Pursuant to
+this termination, the Company refunded USD 2 million (₹1,889 lakhs) to CMS and recognised revenue of ₹2,921 lakhs relating to the non-refundable consideration in the previous
+quarter.
+The PRV was accounted as a non-monetary government grant under Ind AS 20 and the fair value of the PRV was recognised in the Statement of Profit and Loss.
+On May 19, 2026, the Company allotted 3,85,10,000 warrants, each convertible into one equity share, on preferential basis to Shanghvi Finance Private Limited at an issue price of
+₹155.80/- each, upon receipt of 25% of the issue price (i.e. ₹38.95 per warrant) as warrant subscription money. Balance 75% of the issue price (i.e. ₹116.85 per warrant) shall be
+payable within 18 months from the allotment date, at the time of exercising the option to apply for fully paid–up equity share of ₹1/- each of the Company, against each warrant held by
+the warrant holder.The Government of India had consolidated 29 existing labour legislations into a unified framework comprising four labour codes as follows: Code on Wages, 2019, Code on Social
+Security, 2020, Industrial Relations Code, 2020 and Occupational Safety, Health and Working Conditions Code, 2020 (collectively referred to as the "New Labour Codes"). The New
+Labour Codes were effective from November 21, 2025 and introduced changes that included, among other things, setting a uniform definition of wages. The New Labour Codes had
+implications on employee benefits including gratuity, leave encashment, and other related obligations.  Particulars
+  Items that will not be reclassified to profit or loss (net actuarial gain /
+  (loss) on employee defined benefit plan)Quarter endedRegd. Office: Plot No. 5 & 6/1, Savli, G. I. D. C. Estate, Savli - Vadodara Highway,Sun Pharma Advanced Research Company Limited 
+Manjusar, Vadodara – 391 775. Tel. : +91-2667 666800
+Statement of Unaudited Standalone Financial Results for the Quarter and Half Year Ended September 30, 2026CIN : L73100GJ2006PLC047837. Website : www.sparc.life
+Half Year ended
+ParticularsAs at 
+30.09.2026 
+UnauditedAs at 
+31.03.2026 
+Audited
+(A) Non-current assets
+(a) Property, plant and equipment 8,189 8,518 
+(b) Capital work-in-progress 257 50 
+(c) Intangible assets 11 13 
+(d) Intangible assets under development 7,121 7,121 
+(e) Financial assets
+(i) Investment in subsidiaries 43 43 
+(ii) Other financial assets 2,919                 2,874                 
+(f) Deferred tax assets (net)  -  - 
+(g) Income tax assets (net) 3,117 2,932 
+(h) Other non-current assets 6,490 9,109 
+Total non-current assets (A) 28,147 30,660 
+(B) Current assets
+(a)      Financial assets
+           (i) Investments 23,903  - 
+           (ii) Trade receivables 2,130 827 
+(iii) Cash and cash equivalents 203 32 
+(iv) Bank balances other than (iii) above 1,05,634  - 
+(v) Loans 21 17 
+(vi) Other financial assets 6,575 142 
+(b)      Income tax assets (net)  - 545 
+(c)      Other current assets 466 1,84,575 
+Total current assets (B) 1,38,932 1,86,138 
+TOTAL ASSETS 1,67,079 2,16,798 
+EQUITY AND LIABILITIES
+Equity
+(a) Equity share capital 3,245                 3,245                 
+(b) Other equity 1,40,393            1,30,113            
+Total equity 1,43,638 1,33,358 
+Liabilities
+(A) Non-current liabilities
+(a)       Financial liabilities
+(i) Lease liabilities 85 166 
+(ii) Other financial liabilities 295 98 
+(b) Provisions 1,217 1,234 
+(c) Other non-current liabilities 3,338 6,260 
+Total non-current liabilities (A) 4,935 7,758 
+(B) Current liabilities
+(a)       Financial liabilities
+(i) Borrowings  - 55,614 
+(ii) Lease liabilities 159 151 
+(iii) Trade payables
+     - Total outstanding dues of micro enterprises and small enterprises 127 130 
+     - Total outstanding dues of creditors other than micro enterprises and small enterprises 10,849 10,501 
+(iv) Other financial liabilities 5,870 7,402 
+(b) Other current liabilities 608 821 
+(c) Provisions 893 1,063 
+Total current liabilities (B) 18,506 75,682 
+Total liabilities 23,441 83,440 
+TOTAL EQUITY AND LIABILITIES 1,67,079 2,16,798 CIN : L73100GJ2006PLC047837. Website : www.sparc.life
+Unaudited Standalone Balance Sheet as at September 30, 2026Sun Pharma Advanced Research Company Limited 
+Regd. Office: Plot No. 5 & 6/1, Savli, G. I. D. C. Estate, Savli - Vadodara Highway,
+Manjusar, Vadodara – 391 775. Tel. : +91-2667 666800
+in Lakhs
+Half Year 
+ended 
+30.09.2026Half Year 
+ended 
+30.09.2025
+Unaudited Unaudited
+  A. Cash flow from operating activities
+  Profit / (loss) before tax (4,556)                (12,800)              
+  Adjustments to reconcile profit / (loss) before tax to net cash flows:
+  Depreciation and amortisation expense 440                    511                    
+  Sundry balance write back (12)                     
+  (Gain) / loss on disposal of property, plant and equipment (net) (5)                       (1)                       
+  Finance costs 825                    1,370                 
+  Interest income (2,732)                (889)                   
+  Net gain on sale of financial assets measured at fair value through profit or loss (95)                     -                         
+  Net gain arising on financial assets measured at fair value through profit or loss (89)                     -                         
+  Net unrealised foreign exchange loss / (gain) (368)                   51                      
+  Operating Profit / (loss) before working capital changes (6,592)                (11,758)              
+  Working capital adjustments :
+  (Increase) / decrease in trade receivables (1,365)                1,033                 
+  (Increase) / decrease in other assets 1,80,412            (939)                   
+  Increase / (decrease) in trade payables 340                    (2,728)                
+  Increase / (decrease) in other liabilities (4,288)                (304)                   
+  Increase / (decrease) in provisions (351)                   (24)                     
+  Cash used in operations 1,68,156            (14,720)              
+  Direct tax (paid) / refund received (including interest on refunds) (net) 361                    3,124                 
+  Net cash flow (used in)/generated from operating activities (A) 1,68,517            (11,596)              
+  B. Cash flow from investing activities
+  Payments for purchase of property, plant and equipment (including capital work-in-progress, intangible assets and (218)                   (2,314)                
+  intangible assets under development)
+  Proceeds from disposal of property, plant and equipment 53                      1                        
+  Investment in mutual funds (net) (13,487)              -                         
+       Investment in certificate of deposits (10,019)              -                         
+  Investment in subsidiary -                         (1)                    
+  Fixed deposits with bank placed (1,14,100)          -                      
+  Fixed deposits with bank matured 10,600               -                      
+  Interest received 386                    3                        
+  Net cash flow (used in)/generated from investing activities (B) (1,26,785)          (2,311)                
+  C. Cash flow from financing activities
+  Proceeds from borrowings 34,401               62,112               
+  Repayment of borrowings (90,015)              (46,883)          
+  Repayment of principal portion of lease liabilities (74)                     (108)                
+  Proceeds against convertible share warrants 15,000               
+  Finance costs (including interest on lease liabilities) (873)                   (1,315)                
+  Net cash flow (used in)/generated from financing activities (C) (41,561)              13,806               
+  Net increase / (decrease) in cash and cash equivalents  (A+B+C) 171                    (101)                   
+  Cash and cash equivalents at the beginning of the period 32                      119                    
+  Cash and cash equivalents at the end of the period 203                    18                      Manjusar Vadodara – 391 775. Tel. : +91-2667 666800
+CIN : L73100GJ2006PLC047837. Website : www.sparc.life
+Unaudited Standalone Statement of Cash Flow for the Half Year Ended September 30, 2026
+ParticularsSun Pharma Advanced Research Company Limited 
+Regd. Office: Plot No. 5 & 6/1, Savli, G. I .D.C. Estate, Savli - Vadodara Highway,
+Ground floor, Tower C Unit 1,  
+Panchshil Tech Park One, Loop road,  
+Near Don Bosco School, Yerwada  
+Pune - 411 006, India  
+ 
+ Tel: +91 20 6603 6000  
+  
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,76 @@
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                             CIN: L72200TG1991PLC013134 
+                          Units Layout, Madhapur                                        www.cyient.com  
+                          Hyderabad -500 081                                               Company.secretary@cyient.com  
+                          India                                                                        T +91 40 6764 1000  
+                                                                                                           F +91 40 2311 0352 28 October 2026 
+ 
+BSE Limited 
+PJ Towers 
+25th Floor, Dalal Street 
+Mumbai – 400 001 
+Scrip Code: 532175 National Stock Exch ange of India Ltd 
+Exchange Plaza, Bandra-Kurla Complex 
+Bandra (E) 
+Mumbai – 400 051 
+Scrip Code: CYIENT 
+ 
+Dear Sir,   
+Sub: Press Release   
+Please find attached the press release being is sue by Cyient Semiconductors Private Limited, 
+wholly owned subsidia ry of the Company . 
+ 
+This is for your info rmation and records.  
+Thanking you, 
+ Yours faithfully 
+For Cyient Limited 
+ 
+ Ravi Kumar Nukala 
+Dy. Company Secretary   
+ 
+ 
+Cyient Semiconductors showca ses AI Data Center Power, 
+Edge AI and custom ASIC solutions at electronica 2026  
+• Power protection, DC/DC conversion and display powe r solutions from Kinetic Technologies, a Cyient 
+Semiconductors company serving compute, automo tive and industrial elec tronics app lications. 
+• Turnkey custom ASIC solutions integrating high-precision analog, RF and microcontroller functionality  
+for medical, industrial and defense applications.  
+• Next-generation 800V+ high-voltage development fo r AI data centers, indus trial automation and e-
+mobility applications 
+ Hyderabad, India / San Jose, CA – October 28, 2026  – Cyient Semiconductors  will present its semiconductor 
+portfolio at electronica 2026, taking place from 10 to 13 November in Munich, Germany, at Hall C6, Booth 510. 
+The global fabless semiconductor company combines two complementary businesses: application-specific standard products (ASSPs) based on proprietary semiconductor IP, and custom ASIC solutions tailored to individual customer requirements, from ar chitecture through production silicon. 
+ Protect and Convert: Power management semiconductor products from Kinetic Technologies, a Cyient Semiconductors company 
+With over 3 billion units shipped, mo re than 250 products, and over 100 pa tents, Kinetic Tec hnologies is the 
+semiconductor products business of Cyient Semiconductors, offering customers an established portfolio of power management solutions, proprietary semiconductor IP, and high-volume manufacturing and supply-chain capabilities.  Featured solutions at electronica 20 26 include the KTS1642Q automotive load switch, designed to protect 
+vehicle electronics against reverse-battery, load-dump, an d other electrical transient conditions, as well as USB-
+C protection solutions supporting the transition to 48V Extended Power Range. For power conversion, Kinetic's 
+fast-transient buck regulators address the demanding re quirements of edge AI platforms and advanced SoCs, 
+responding rapidly to changing loads to support efficient, reliable power delivery. 
+ Custom ASICs: from architecture to production silicon Cyient Semiconductors' turnkey custom ASIC solutions br ing together high-precision analog and mixed-signal, 
+RF, IoT connectivity, embedded power and digital processing in custom silicon tailored to the requirements of 
+each application. These capabilitie s span architecture, de sign, prototyping, qualification, manufacturing 
+coordination and continued silicon supply.  Rising power density and efficiency demands are crea ting new challenges at higher voltages. Cyient 
+Semiconductors is developing 800V high-voltage power tech nologies for emerging use cases in AI data centers, 
+industrial and factory automation, and e-mobility. These technologies remain under development as part of the company's next-generation roadmap. 
+ 
+“We are building a global semiconductor product company by combining differentiated power IP with turnkey custom silicon,” said Suman Narayan, CEO of Cyient Semiconductors . “Kinetic Technologies is already shipping 
+approximately 250 million units annuall y, supported by a robust global manufacturing, packaging, test and 
+supply-chain network. That proven execution scale, together with our custom ASIC capabilities and next-generation power management roadmap, allows us to support customers from innovation through reliable production supply.”  
+ 
+ 
+ 
+Meet Cyient Semiconductor s at electronica 2026 
+Cyient Semiconductors, together with Kinetic Techno logies, its semiconductor products business, will be 
+exhibiting at electronica 2026 in Munich from 10 to 13 November (Hall C6, Booth 510). To arrange a meeting with the team, visit 
+Cyient Semiconductors at electronica 2026 . 
+ 
+ About Cyient Semiconductors Cyient Semiconductors provides custom ASIC and semiconductor product solutions, with capabilities spanning analog and mixed-signal, RF, intelligent power, connectivity and digital technologies. The company supports customer-specific silicon development from architecture and design through production and continued silicon supply, serving applications across industrial, medical, communications, data center and automotive markets. 
+Its semiconductor product offering includes Kinetic Technologies, an established provider of high-performance 
+analog and mixed-signal power and prot ection ICs. Cyient Semiconductors has design capabilities in India, 
+Europe and the United States.  About Kinetic Technologies Kinetic Technologies, a part of Cyient Semiconductor s, designs, develops and markets proprietary high-
+performance analog and mixed-signal power and protecti on semiconductors. Its portfolio provides solutions 
+that convert, protect, regulate and monitor power cons umed by analog and digital semiconductors and other 
+electronic loads, serving automotive, computing, communications, industrial and other global markets. Kinetic 
+Technologies is headquartered in Sa n Jose, California and operates as a fabless semiconductor manufacturer 
+with R&D centers in Silicon Valley and Asia and customer support worldwide.  

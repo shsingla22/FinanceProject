@@ -1,0 +1,356 @@
+ 
+ 
+Regd. Office : Plot No. 38, Institutional Area, S ector 32, Gurugram -122001, Haryana, Tel: 91- 124-4310000, Fax: +91 -124-4310050   
+Corporate Identity Number: L64200HR1987PLC148689  
+ 
+  
+HFCL/SEC/2 026 -27                                                                     
+September 5, 2026  
+ 
+ 
+RE: Disc losure under Regulation 34 of the Securities and  Exchange  Board  of India  (Listin g Obligations 
+and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”).  
+ Subject: Submission of Business Responsibility and Sustainability Report  (BRSR)  for the financial year 
+2025 -26 
+ 
+Dear Sir(s)/ Madam,  
+ 
+In terms of Regulation 34 of the SEBI Listing Regulations, we hereby submit a copy of the Business 
+Responsibility and Sustainability Report  for the financial year 202 5-26 (“BRSR”) , which also forms part 
+of the Annual Report.  The same is also being filed in XBRL format.  
+ The BRSR  is also available on the website of the Company at www.hfcl.com .  
+ 
+You are requested to take the above information on records and upload the same on your respective 
+websites.  
+ 
+Thanking you.  
+ 
+Yours faithfully,  
+For HFCL Limited  
+  
+ 
+ 
+ 
+ 
+(Manoj Baid)  
+President & Company Secretary  
+ 
+Encl: HFCL BRSR 202 5-26 
+  
+ BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com 
+Security Code No.: 500183  National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+HFCL Limited   |  Annual Report 2025-26146Business Responsibility and Sustainability Report (BRSR)
+SECTION A: GENERAL DISCLOSURES 
+I.  Details of the listed entity:
+S. 
+No.Question Response
+1. Corporate Identity Number (CIN) of the Listed Entity L64200HR1987PLC148689
+2. Name of the Listed Entity HFCL Limited
+3. Y ear of Incorporation 11/05/1987
+4. Registered Office Address Plot No � 38, Institutional Area, Sector – 32,  
+Gurugram – 122 001, Haryana
+5. Corporate Address 8, Commercial Complex, Masjid Moth, Greater Kailash- II, 
+New Delhi-110 048
+6. E-mail secretarial@hfcl �com
+7. Telephone +91-124-4310000
+8. Website www �hfcl �com
+9. Financial Y ear for which reporting is being done April 1, 2025- March 31, 2026
+10. Name of the Stock Exchange(s) where shares are listed National Stock Exchange of India Limited (NSE) and  
+BSE Limited (BSE)
+11. Paid-up Capital (INR) ₹153�06 Crore
+12. Name and contact details (telephone & email) of the 
+person who may be contacted in case of queries on the 
+BRSR reportName: Mr � Manoj Baid
+Email: secretarial@hfcl �com
+Telephone: +91-11-35209400
+13. Reporting Boundary - Are the disclosures under 
+this report made on a standalone basis (i.e., only for 
+the entity) or on a consolidated basis (i.e., for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together)Standalone
+14. Name of assurance provider Bureau Veritas (India) Private Limited ("Bureau Veritas")
+15. Type of assurance obtained Reasonable Assurance on BRSR Core*
+*Please refer to pages 202 to 205 for the Assurance Report �
+II.  Products/Services:
+16.  Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main Activity Description of Business Activity %Turnover of the entity
+1� Telecom Products Telecom Products - Manufacturing of optical fiber, optical 
+fiber cables and telecom and networking products56�61
+2� Turnkey Contract and Services Engineering, Procurement and Construction Services 43�37
+17.  Product/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. 
+No.Product/Service NIC Code% of total Turnover 
+contributed
+1� Optical Fiber Cables 27310 46�17
+2� Telecom Products/Equipment 26104 10�44
+3� Turnkey Contracts and Services 42202 43�37
+Total 99.98
+147Corporate Overview Statutory Reports
+BRSR Financial Statements
+III.  Operations:
+18.  Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of Plants Number of Offices Total
+National 4 80 84
+International 0 11* 11
+*Including offices of subsidiaries �
+19.  Markets Served by the Entity:
+ a. Number of Locations:
+Location Number
+National (No � of States) Pan India
+International  
+(No� of Countries)HFCL exports its products to over 60 countries, including Germany, France, Denmark, 
+Ireland, Austria, Finland, Italy, United Kingdom (UK), Portugal, Spain, United States of 
+America (USA), Canada, Mexico, Argentina, South Africa, Turkey, United Arab Emirates 
+(UAE), and more �
+  b. What is the contribution of exports as a percentage of the total turnover of the entity?
+   During FY26 exports contributed 41% to the total consolidated turnover of the Company �
+ c.  A Brief on types of customers
+   HFCL is a leading technology enterprise with operations in high end Telecom and Defence Equipment, Optical Fiber 
+and Optical Fiber Cables and also creating digital networks for telcos, enterprises and governments � Over the years, 
+HFCL has emerged as a trusted partner offering sustainable high-tech solutions with a commitment to provide the 
+latest technology products to its customers � Our strong R&D expertise coupled with our global system integration 
+services and decades of experience in fiber optics enable us to deliver innovative digital network solutions required 
+for the most advanced networks �
+  HFCL’s customers are broadly classified into three categories:
+  1.  Business-to-Business (B2B):
+    This segment encompasses engagements with major telecom operators, Original Equipment Manufacturers 
+(OEMs), and turnkey project companies � HFCL supplies critical components such as optical fiber cables, telecom 
+and networking equipment essential for the deployment of 4G, 5G, and broadband networks along with 
+defence equipment � Additionally, the Company offers network implementation solutions to turnkey project 
+partners � These clients rely on HFCL’s reliable manufacturing infrastructure and technological capabilities to 
+deliver scalable, high-quality connectivity solutions �
+  2.  Business-to-Emerging Corporate Accounts (B2ECA):
+    This segment comprises Internet Service Providers (ISPs) and system integrators, who are central to India’s 
+ongoing digital transformation � HFCL supports these customers with advanced fiber-optic solutions, 
+telecom hardware, and integrated network services designed to enable enterprise-grade connectivity and 
+infrastructure expansion across diverse geographies �
+  3.  Business-to-Government (B2G):
+    HFCL plays a crucial role in serving government entities, including, defence organisations, public sector 
+undertakings (PSUs) and Indian Railways � HFCL has a strong track record in executing large-scale telecom 
+infrastructure projects, including transport networks, FTTH rollouts, and advanced Wi-Fi deployments � 
+The Company supports critical defence communication infrastructure with secure, end-to-end network 
+deployments contributing directly to India’s digital and security imperatives �
+HFCL Limited   |  Annual Report 2025-26148  4.  Manufacturing Support:
+    HFCL’s state-of-the-art manufacturing facilities located in Hyderabad, Goa, and Hosur are central to its ability 
+to serve the diverse clientele � These units specialise in the production of optical fiber cables, optical fiber, 
+telecom networking products, and defence-grade equipment � This manufacturing backbone enables HFCL 
+to deliver high-performance, customised solutions across both domestic and international markets �
+IV.  Employees:
+20.  Details as at the end of Financial Year 2025-26:
+ a. Employees and Workers (including differently abled)
+Employees (including differently abled)
+S. 
+No.ParticularsTotal  
+(A)Male Female
+Number  
+(B)Percentage 
+(B/A)Number  
+(C)Percentage 
+(C/A)
+1� Permanent Employees 1,641 1,525 93 116 7
+2� Other than Permanent Employees 495 487 98 8 2
+3. Total Employees (1+2) 2,136 2,012 94 124 6
+Workers (including differently abled)
+S. 
+No.ParticularsTotal  
+ (A)Male Female
+Number  
+(B)Percentage 
+(B/A)Number  
+(C)Percentage 
+(C/A)
+4� Permanent Workers 179 158 88 21 12
+5� Other than Permanent Workers 1,158 1,018 88 140 12
+6. Total Workers (4+5) 1,337 1,176 88 161 12
+  Notes:
+• Permanent Employees- L5 and above on-roll employees �
+• Other than Permanent Employees - Trainee (BE & Graduate) engineers under various government scheme such as NAPS, NATS and off-roll 
+employees on third-party rolls �
+• Permanent Workers - L6 and L7, on-roll employees �
+• Other than Permanent Workers - Trainee (Diploma & ITI) engineers under various government schemes such as NAPS, NATS and off-roll 
+employees on third-party rolls �
+ b. Differently abled Employees and Workers
+Differently Abled Employees
+S. 
+No.ParticularsTotal  
+(A)Male Female
+Number  
+(B)Percentage 
+(B/A)Number  
+(C)Percentage 
+(C/A)
+1� Permanent Employees 1 1 100 0 0
+2� Other than Permanent Employees 0 0 0 0 0
+3. Total Employees (1+2) 1 1 100 0 0
+Differently Abled Workers 
+S. 
+No.ParticularsTotal  
+(A)Male Female
+Number  
+(B)Percentage 
+(B/A)Number  
+ (C)Percentage 
+(C/A)
+4� Permanent Workers 0 0 0 0 0
+5� Other than Permanent Workers 0 0 0 0 0
+6. Total Workers (4+5) 0 0 0 0 0
+149Corporate Overview Statutory Reports
+BRSR Financial Statements
+21.  Participation/Inclusion/Representation of Women
+Total (A) Number of Female (B) Percentage (B/A) 
+Board of Directors 6 1 17
+Key Management Personnel (KMP)* 2 0 0
+*Excluding Managing Director who has been included in Board of Directors category �
+Note: Mr � Bharat Pal Singh (DIN: 00739712) have completed his second term as Independent Director on the close of 
+Business hours on January 20, 2026 �
+During the FY26, the Board of Directors on recommendation of the Nomination, Remuneration and Compensation 
+Committee, appointed Mr � Anil Narendra Shah (DIN: 01844485) as an Additional Director in the Category of Independent 
+Director for a period of three consecutive years effective from January 21, 2026 to January 20, 2029, not liable to retire 
+by rotation, who was further appointed as a Director (Independent) by the Shareholders of the Company on March 15, 
+2026 through Postal Ballot by way of a special resolution �
+22.  Turnover rate for permanent employees and workers (Disclose trends for the past 3 years):
+(In %)
+FY 2025-26 FY 2024-25 FY 2023-24
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 25 20 24 24 20 24 11 17 11
+Permanent Workers 8 5 8 8 13 9 7 17 9
+V. Holding, Subsidiary and Associate Companies (including joint ventures):
+23.  (a)  Names of holding/subsidiary/associate companies/joint ventures
+S. 
+No.Name of the holding/subsidiary/associate 
+companies/joint ventures 
+(A) Indicate whether holding/
+subsidiary/associate/joint 
+venture% of shares 
+held by listed 
+entityDoes the entity 
+indicated at Column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1� HTL Limited Subsidiary 74 No
+2� Raddef Private Limited Subsidiary 90 No
+3� Moneta Finance Private Limited Subsidiary 100 No
+4� HFCL Advance Systems Private Limited* Subsidiary 100 No
+5� Polixel Security Systems Private Limited Subsidiary 100 No
+6� DragonWave HFCL India Private Limited Subsidiary 100 No
+7� HFCL Technologies Private Limited Subsidiary 100 No
+8� HFCL B �V� Netherlands Subsidiary 100 No
+9� HFCL Inc � USA Subsidiary 100 No
+10� HFCL Canada Inc � Step-down subsidiary 100 No
+11� HFCL Poland Sp � z�o�o�**
+(formerly known as Blue Diwali Sp � z�o�o�)Step-down subsidiary 100 No
+12� HFCL UK Limited Step-down subsidiary 100 No
+13� HFCL Pty Limited (wholly owned subsidiary of 
+HFCL B �V�) Step-down subsidiary 100#No
+14� Nimpaa Telecommunications Private Limited Associate 50 No
+15� BigCat Wireless Private Limited Associate 50$No
+*HFCL Limited holds 90% shareholding directly and balance 10% held through Polixel Security Systems Private Limited, a wholly owned subsidiary of HFCL 
+Limited �
+**HFCL Poland Sp � z�o�o�, (formerly Blue Diwali Sp � z�o�o�) (Wholly owned subsidiary of HFCL B �V�) has been voluntarily liquidated and its name has been 
+removed from National Court Register w �e�f� January 02, 2026 �
+#HFCL Pty Ltd, (Wholly owned subsidiary of  HFCL B �V�) has been voluntarily liquidated and deregistered w �e�f� August 19, 2026 �
+$50% voting rights �
+HFCL Limited   |  Annual Report 2025-26150VI.  CSR Details: 
+24.  (i)  Whether CSR is applicable as per Section 135 of Companies Act, 2013 (Yes/No) : Yes
+ (ii)  Turnover (in K Crore) : 4, 527� 54
+ (iii)  Net Worth (in K  Crore) : 4,727� 4 4
+VII.  Transparency and Disclosures Compliances:
+25.  Complaints/Grievances on any of the Principles (1-9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder 
+Group from whom 
+complaint is 
+receivedGrievance Redressal Mechanism in 
+place (Yes/No) (If yes, then provide 
+web-link for grievance redress 
+policy)Current Financial Year 2025-26 Previous Financial Year 2024-25
+Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed 
+during
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+yearRemarks
+Communities Yes� Responsibility for handling 
+community grievances is assigned 
+to the CSR project partners 
+through the Memorandum of 
+Understanding (MoU)� These 
+partners address any complaints in 
+a collaborative manner, following 
+the established protocols and 
+guidelines to ensure timely and 
+effective resolution�0 0 No 
+complaints 
+filed �0 0 No 
+complaints 
+filed �
+Investors and 
+ShareholdersYes � The Company has  
+‘Whistleblower Policy’ in place 
+available at:
+https://cdn �prod �web -
+site-files� com/69e0036b -
+695965871f0524aa/69e0036b -
+695965871f0528cc_Vigil%20
+Mechanism%20and%20Whis -
+tle-Blower%20Policy �pdf
+Mechanism for Grievance  
+Redressal:
+The Company has a grievance 
+redressal mechanism for receiving 
+complaints from different 
+stakeholders, including investors 
+and shareholders �
+During the year, the Company 
+has attended the investor’s 
+grievances/correspondence  
+within a period of 15 days from the 
+date of receipt of the same except 
+in cases which were constrained by 
+disputes and legal impediments �5 0 All 
+complaints 
+resolved �58 0 All 
+complaints 
+resolved �
+Employees and 
+WorkersYes�
+Employee and extended workforce 
+grievances are addressed in a 
+timely and effective manner 
+through our grievance redressal 
+mechanism, available at all our 
+plants/offices �0 0 No 
+complaints 
+filed �0 0 No 
+complaints 
+filed �
+Contract 
+Labourers0 0 No 
+complaints 
+filed �0 0 No 
+complaints 
+filed �

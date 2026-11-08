@@ -1,0 +1,102 @@
+ 
+ 
+HEXAWARE TECHNOLOGIES LIMITED 
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1 Private Limited, Plot No.Gen-4/1,TTC Industrial Area, 
+Ghansoli, Navi Mumbai-400710, Maharashtra, India  |  Tel: +91 022 3326 8585  |  Email: investori@hexaware.com  
+CIN: L72900MH1992PLC069662  |  URL: www.hexaware.com 
+ 
+ 
+  
+   
+HEXT/SE/202 6/85 
+  
+  Date: August 19, 2026 
+ 
+To,  To, 
+LisƟng Department   Department of Corporate Services  
+NaƟonal Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza, Bandra-Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East), Mumbai - 400 051  Dalal Street, Mumbai - 400 001   
+Symbol: HEXT  Scrip Code: 544362  
+ 
+ 
+Dear Sir, 
+ 
+Sub: Press Release  
+ 
+Please find enclosed Press Release on  “Hexaware Introduces Zero Vulnerability as AI Raises the Pressure 
+on Enterprise Remediation”. 
+ 
+This information will also be hosted on the Company’s website at www.hexaware.com . 
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For HEXAWARE TECHNOLOGIES LIMITED  
+    
+        
+  
+  
+Gunjan Methi 
+Company Secretary & Compliance Officer 
+ 
+Encl.: as above. 
+Hexaware Introduces Zero Vulnerability as AI Raises the 
+Pressure on Enterprise Remediation 
+New security o Ưering helps enterprises turn a growing volume of ﬁndings into ﬁxes that can be 
+veriﬁed in production 
+August 19, 2026: Hexaware Technologies (NSE: HEXT), an AI-ﬁrst digital and IT services 
+company, today announced Zero Vulnerability, a cybersecurity o Ưering built for a growing 
+problem facing enterprises. AI is helping vulnerabilities surface faster, while security and 
+engineering teams still have ﬁnite capacity to investigate and ﬁx them. 
+The Verizon 2026 Data Breach Investigations Report  found only 26% of critical Known-
+Exploited Vulnerabilities were fully remediated last year, down from 38%. Median time to 
+fully resolve them rose from 32 to 43 days. 99% of AI-discovered vulnerabilities still 
+remain unremediated. Zero Vulnerability helps organizations sort through such ﬁndings, 
+identify which ones pose the greatest risk, get the right teams working on them sooner, 
+and verify that the vulnerability has been removed in production rather than simply 
+marked as closed. 
+Delivered through Zerovity™, Hexaware’s AI-led delivery layer, the Zero Vulnerability 
+oƯering combines its cybersecurity expertise, engineering, AI, and remediation 
+operations across all variants of IT systems, including custom applications, SaaS and 
+PaaS environments, third-party software, and operating systems. The remediation 
+operating platform supports the lifecycle from ingestion and validation through 
+prioritization, routing, ﬁxing, veriﬁcation, and closure. It works with existing security and 
+workﬂow tools rather than requiring enterprises to replace them. 
+“AI is making vulnerability discovery dramatically faster, but enterprise remediation 
+capacity remains ﬁnite. Zero Vulnerability is about changing that equation, cutting 
+through the noise, identifying what truly matters, accelerating remediation, and proving 
+that critical exposure has actually been removed. Our objective is simple: make risk fall 
+faster than new ﬁndings arrive,” said Mohit Vaish, EVP & Business Head – 
+Cybersecurity, Hexaware . 
+Hexaware’s own evaluation shows why validation is important. Across four detection 
+lanes on production codebases, 334 ﬁndings were consolidated, of which 14 were 
+ultimately veriﬁed as real. The evaluation also included a developer-validated review of 
+262 ﬁndings and identiﬁed a new authentication-bypass weakness that pattern-based 
+rules had missed. 
+“The work required to remediate a vulnerability depends on where it sits. Custom code, 
+operating systems, third-party products, and SaaS platforms all call for di Ưerent actions 
+and diƯerent ownership. Zero Vulnerability gives teams a consistent way to prioritize and 
+manage that work across the technology estate, while AI helps get each issue to the right 
+action and owner faster,” said Siddharth Dhar, President & Global Head, Digital IT 
+Operations & AI, Hexaware. 
+Zero Vulnerability is a key pillar of Hexaware’s Zero Friction Enterprise™ and supports its 
+broader approach to continuous exposure reduction, identity-ﬁrst security, cyber 
+defense, and AI-native security operations. 
+For more information, visit https://hexaware.com/zero-friction-enterprise/zero-
+vulnerability/  
+About Hexaware  
+Hexaware is a global technology and business process services company. Every day, 
+Hexawarians wake up with a singular purpose: to create smiles through great people and 
+technology. With o Ưices across the world, we empower enterprises worldwide to realize 
+digital transformation at scale and speed by partnering with them to build, transform, run, 
+and optimize their technology and business processes. Learn more about Hexaware 
+at https://hexaware.com . 
+For details, please contact:  
+Reena Kamble | Aishwarya Pillai 
+Hexaware Technologies 
+mediarelations@hexaware.com  
+ 
+ 

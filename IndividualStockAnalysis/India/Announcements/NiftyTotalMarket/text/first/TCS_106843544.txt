@@ -1,0 +1,156 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 36/2026-27 
+ 
+November 4, 2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS Enterprise AI Study: 84% 
+say productivity is AI’s top benefit; just 10% let AI act without human oversight ” which 
+will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+TCS Enterprise AI Study: 84% say productivity is AI’s top benefit; just 10% let AI act 
+without human oversight  
+ 
+25-country global survey shows that security, risk and governance is the #1 factor that leaders are 
+considering when deploying AI  
+ 
+MUMBAI, November  04, 2026:  Eighty -four percent of executives surveyed rank productivity improvement 
+as the leading source of value realized from AI investments, yet only 10% of global enterprises allow AI  agents  
+to execute decisions without human approval across multiple functions or business areas, according to a new 
+global study from Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global leader in IT services, 
+consulting, and business solutions. The study also finds that just 9% of executives report AI agents capable of 
+securely orchestrating workflows across enterprise applications . The findings  highlight the gap between the 
+value  that enterprises are already deriving from AI -assisted work and their readiness to give AI agents greater 
+autonomy and authority to act.  
+ 
+The study, TCS E nterprise AI  Study: Intelligence that is Real,  highligh ts security as a defining factor in the next 
+phase of enterprise AI. Security, risk, and governance considerations rank as the leading factor shaping how 
+and where AI systems are developed and deployed, ahead of cost, speed, and ease of deployment.  That 
+emphasis is becoming increasingly consequential as enterprises give AI greater access to applications, 
+workflows and decision -making processes.  
+ 
+The findings reflect the evolution toward a Human+AI operating model, where AI progresses from assisting 
+employees to taking on greater responsibility and, where appropriate, operating with increasing levels of 
+autonomy. As enterprises move along that cont inuum, deriving greater value from AI will depend on having 
+the right security, governance and controls in place to determine where human oversight remains essential 
+and where AI can be given greater authority to act.  
+ 
+Amit Kapur, Chief AI and Services Transformation Officer, TCS, said , “We are seeing significant progress in 
+scaling AI for enterprises. The shift is clearly in AI moving from assisting people to taking more autonomous 
+action with deep access into an enterprise. Productivity is clearly where enterprises are seeing the greatest 
+value from AI today, with 84% of executives ranking it as the leading source of value from their AI investments  
+though 10% have also indicated that they have seen an uplift in revenue. What seems to be holding 
+organisations back – and rightly so – are concerns around security, governance, and resilience. Deploying AI 
+responsibly, with the right guardrails and enterp rise controls will be the big focus in the next stage of this 
+journey.”  
+ 
+Platform independence:  Executives are also increasingly focused on AI resilience and flexibility. Ninety 
+percent of respondents say that model independence is an important factor in AI investment decisions , while 
+34% identify AI sovereignty -related requirements involving control over data location, model choice, and 
+compliance as a high or very high organi sational risk. The concern is particularly acute in Europe, where 43% 
+of respondents cite AI sovereignty -related requirements as a high or very high organizational risk. At the 
+same time,  only 7% of global respondents report having organization -wide provider -switching continuity 
+plans, suggesting that concern about model dependence and sovereignty is advancing faster than operational 
+preparedness.  
+ 
+Other key global findings from the report  include:  
+• AI economics are under review : 39% of enterprises said that they continue to assess  whether AI 
+ 
+Page 2 of 3 
+ 
+initiatives generate sufficient value relative to token and compute costs.  
+• Enterprise knowledge remains fragmented : 44%  of respondents  report that important business 
+knowledge remains embedded within employees or fragmented documentation, potentially 
+limiting AI's ability to consistently access enterprise context.  
+• Open -source AI is gaining traction : 46%  report targeted deployment of open -source AI for 
+selected use cases.  
+• AI's workforce impact is becoming less predictable.  The proportion of leaders saying it is still 
+too early to determine AI's effect on jobs rose from 4% in 2024 to 19% in 2026.  
+• Productivity remains the leading source of AI value , followed by improvements in customer 
+experience and the development of new products or services.  
+ 
+Regional AI Priorities and Readiness Vary : The study also identified notable regional differences in enterprise 
+AI adoption. North America showed particular strength across several enterprise AI foundations, with 15% 
+of respondents reporting that AI is treated as a strategic enterprise capability. Europe showed a strong focus 
+on AI sovereignty, with 43% citing sovereignty -related requirements as a high or very high organizational risk. 
+Meanwhile, the UK and Ireland stood out on operational resilience, reporting comparatively strong levels of 
+AI cont inuity planning and governance integration.  
+ 
+Survey methodology : The study surveyed 1,333 senior business and technology leaders across 25 countries 
+and 12 industries. Respondents included C -suite executives, divisional leaders, and senior vice presidents and 
+vice presidents from organizations with annual revenues rangi ng from US$500 million to more than US$20 
+billion.  
+ 
+The full report, TCS Enterprise AI Study: Intelligence that is Real , is available at : TCS Enterprise AI Study: 
+Intelligence that is real  
+ 
+ 
+About Tata Consultancy Services (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence, and customer servic e. 
+ 
+It has set an aspiration to become the world's largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 56 
+countries and 194 service delivery centers acro ss the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long -term partnerships with its clients. Many of these relationships have endured into de cades and 
+navigated every technology cycle, from mainframes in the 1970s to artificial intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon, Tata Mumbai Marathon, and TCS Sydney Marathon with a focus 
+on promoting health, sustainability, and community emp owerment.  
+ 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2026.   For 
+ 
+Page 3 of 3 
+ 
+more information, visit www.tcs.com  
+ 
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS media contacts:  
+Corporate Communications & 
+India  Email: corporate.communications@tcs.com  
+Email: santosh.castelinio@tcs.com  | Phone: +91 22 67789098   
+Email: rhea.mistry@tcs.com  
+ 
+### 
+ 

@@ -1,0 +1,107 @@
+ 
+ 
+November 5, 2026  
+ 
+To,  
+Listing Department   Listing Department  
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza       Phiroze Jeejeebhoy Towers  
+Plot no. C/1, G Block      Dalal Street  
+Bandra Kurla Complex, Bandra (E)    Mumbai 400 001  
+Mumbai 400 051       
+ Symbol: CPPLUS      Scrip Code: 544466  
+ISIN: INE819V01029      ISIN: INE819V01029  
+ Dear Sir / Madam,  
+ Sub.: Press Release 
+ In Compliance with Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, as amended, we enclosed herewith the copy of press release titled “ CP PLUS owner Aditya Infotech to 
+acquire 30% stake in AI video -compression ﬁrm BLUE ”. 
+ This Disclosure will also be hosted on our Company's website viz. https://www.adityagroup.com/   
+ Kindy take the same on record.  
+ 
+For and on behalf of Aditya Infotech Limited   
+ 
+ 
+  Roshni Tandon Company Secretary & Compliance Oﬃcer  
+ 
+FOR IMMEDIATE RELEASE 
+CP PLUS owner Aditya Infotech to acquire 30% stake in AI video -compression 
+firm BLUE  
+₹45.4 crore investment brings proprietary technology that can reduce  video storage and 
+bandwidth requirements by up to 90%, while strengthening CP PLUS's AI- led surveillance 
+capabilities  
+Noida, November 5, 2026:  Aditya Infotech Limited (BSE: 544466 | NSE: CPPLUS), one of India's 
+leading providers of video surveillance and security technology solutions and owner of the 
+flagship CP PLUS brand, has received Board approval to invest  ₹45.4 crore in KGraph AI Solutions 
+Private Limited (BLUE), an AI -powered video compression technology company, for a 30% stake 
+on a fully diluted basis. The investment will strengthen the technology capabilities behind CP PLUS products and advance its nex t-generation surveillance solutions.  
+The transaction will comprise  a combination of fresh equity infusion and purchase of shares from 
+existing shareholders. It implies  a post -money valuation of approximately ₹151 crore and is 
+expected to be completed by November 5, 2026, subject to customary closing conditions. The deal marks another step in CP PLUS 2.0, the brand's evolution from a hardware -led surveillance 
+business in to an integrated security solutions provider. BLUE's technology addresses a growing 
+requirement of modern surveillance infrastructure: managing increasing volumes of video data efficiently while preserving essential visual information.  
+BLUE is led by six co -founders who bring 15 to over 20 years of experience, with academic 
+backgrounds from IIT Bombay and IIM Bangalore. The company has a 10- patent pipeline, with 
+three applications filed and seven in progress.  
+BLUE's proprietary Semantic Codec technology uses a perception- aware compression layer over 
+the standard H.264 video codec to identify redundant visual information and reduce data volumes while preserving essential details. Based on its deployment data, the technology can 
+reduce  video storage and bandwidth requirements by up to 90%. It operates on cost- efficient 
+edge hardware without requiring GPU infrastructure  and is compatible with existing cameras 
+and recording systems. This can help  customers extend video retention and optimise deployment 
+costs without replacing their  existing infrastructure.  
+As surveillance expands across smart cities, government infrastructure, enterprises and critical infrastructure, the industry is moving towards more intelligent, connected and insight -led 
+security solutions. This shift calls for stronger capabilities in da ta management, edge computing, 
+AI-powered analytics and cloud integration. BLUE's technology complements the CP PLUS 
+roadmap by strengthening this critical layer and creating opportunities to enhance existing solutions and develop more scalable AI -enabled monitoring, video analytics and cloud -based 
+services.  
+ 
+BLUE will continue to operate independently while collaborating with Aditya Infotech's R&D and 
+engineering teams across Noida, Ahmedabad and Taiwan. The partnership will combine BLUE's expertise in computer vision, embedded systems and video compression with Aditya Infotech's engineering, manufacturing and market capabilities to advance the development of intelligent security solutions.  
+Commenting on the investment, Aditya Khemka, Managing Director, Aditya Infotech Limited, said:  "Video compression is foundational to the next phase of surveillance. As cameras multiply 
+and resolutions rise, the cost of storing and moving video becomes the real constraint. BLUE addresses this challenge on cameras already in the field and brings a highly experienced team with expertise  in computer vision and embedded systems. This investment is an important step 
+in our CP PLUS 2.0 journey towards intelligent, connected security for a safer India."  
+The partnership provides BLUE with an opportunity to scale its technology by leveraging Aditya Infotech's established surveillance ecosystem, engineering capabilities and customer reach. It also brings together complementary expertise to explore emerging a pplications of intelligent 
+video technology across enterprise, industrial and infrastructure environments. 
+Kunal Kislay, Co -founder and CEO, BLUE, said:  "Our vision at BLUE has been to make video 
+intelligence more efficient and accessible by addressing the growing challenges of video storage 
+and bandwidth. Partnering with Aditya Infotech gives us the opportunity to take our technology to a wider market, combining our specialised capabilities with CP PLUS's established surveillance ecosystem, engineering strengths and customer reach. We look forward to contributing to the next phase of intelligent and connected surveillance solutions."  
+About Aditya Infotech Limited:  
+Aditya Infotech Limited (BSE: 544466 | NSE: CPPLUS) is one of India’s leading video security and 
+surveillance companies. Through its flagship CP PLUS brand and a multi -brand portfolio, it 
+offers advanced products and solutions for enterprise and consumer customers, backed by one of the industry’s widest distribution and service networks across India. With large -scale 
+integrated manufacturing in India, expanding across new facilities, and the largest portfolio of STQC- certified products, CP PLUS is a leading  force behind the Make in India and Atmanirbhar 
+Bharat initiatives.  
+About BLUE:  
+BLUE is an Indian deep -tech company pioneering a new category of AI -native video 
+infrastructure through its  Semantic Video Data Lake  and proprietary  Semantic 
+Codec technologies. The platform transforms continuous video streams into intelligent, 
+searchable and actionable enterprise data, enabling organisations to store, manage, analyse 
+and derive insights from video at scale. Its proprietary Semantic Codec significantly reduces video bandwidth and storage requirements while accelerating AI inference, making large -scale 
+video intelligence more efficient and economically viable. Designed for enterprises across manufacturing, infrastructure, energy, logistics, retail and public safety, BLUE enables 
+ 
+organisations to extend their video surveillance into an AI -powered video data 
+infrastructure.  BLUE is redefining how machines comprehend, manage and reason over visual 
+information.  
+ 
+Safe Harbor Statement:  
+Statements in this press release relating to future status, events or circumstances, including but 
+not limited to statements about plans and objectives, the progress and results of research and 
+development, potential project characteristics, project potent ial and target dates for project -
+related issues, are forward -looking statements based on estimates and the anticipated effects 
+of future events on current and developing circumstances. Such statements are subject to 
+numerous risks, uncertainties and assumptions and are not necessarily predictive of future 
+results; investors’ discretion is advised. Actual results may differ materially from those 
+anticipated in the forward- looking statements. AIL assumes no obligation to update forward-
+looking statements to r eflect actual results, changed assumptions or other factors.  
+This press release is for information purposes only and does not constitute an offer, solicitation or advertisement with respect to the purchase or sale of any security of the Company, and no part of it shall form the basis of or be relied upon in connecti on with any contract or 
+commitment whatsoever. This press release is not a complete description of the Company. Any opinion, estimate or projection herein constitutes a judgment as of the date of this press release, and there can be no assurance that future results or events will be consistent with any such opinion, estimate or projection. All information contained in this press release has been 
+prepared solely by the Company and has not been independently verified. No representation or 
+warranty (express or implied) is made, and no responsibility or liability of any kind is accepted, 
+with respect to the truthfulness, completeness or accuracy of any information in this press release. Neither the Company nor anyone else accepts any liability whatsoever for any  loss 
+arising from any use of or reliance on this press release or its contents. The distribution of this press release in certain jurisdictions may be restricted by law, and persons into whose possession it comes should inform themselves about, and observ e, any such restrictions.  
+For further information, please contact:  
+Investor Relations, Aditya Infotech Limited:  Ms. Dipika Dubey |  ir@adityagroup.com  | CIN: 
+U74899DL1995PLC066784  
+Media Contact:  Anupam Sah |  anupam_sah@adityagroup.com  
+For more information, visit  www.cpplusworld.com  | www.adityagroup.com  
+ 

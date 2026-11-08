@@ -1,0 +1,250 @@
+                                                                                        
+Registered Office:      
+26-27, Mumbai-Pune Road, Pimpri, Pune – 411018. Tel: 020 27506200.  
+Visit us at: www.finolex.com | Email: sales@finolex.com | CIN: L31300MH1967PL016531   
+ 
+FCL:SEC:SE:26: 87                               7th November, 2026 
+ 
+Corporate Relations Department 
+BSE Limited 
+1st Floor, New Trading Ring 
+Rotunda Building, P J Towers 
+Dalal Street, Fort 
+Mumbai – 400 001 The Manager 
+Listing Department 
+National Stock Exchange of India Ltd 
+`Exchange Plaza’, C-1, Block G, 
+Bandra – Kurla Complex, 
+Bandra (E), Mumbai – 400 051 
+ 
+Scrip Code: 500144 Scrip Code: FINCABLES 
+ 
+Subject: Disclosure pursuant to Regulation 8(2) of the SEBI (Prohibition of Insider Trading) Regulations, 
+2015 (“PIT Regulations”) 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 8(2) of the PIT Regulations, we wish to inform you that the Board of Directors of the 
+Company at its meeting held on November 07, 2026 inter-alia, considered and approved amendment in 
+Company’s Code of Conduct to regulate, monitor and report trading by designated persons and their 
+immediate relatives (“Code of conduct”). 
+ 
+The amended Code of conduct is annexed herewith for your records. The same is also available on the 
+website of the Company at www.finolex.com   
+ 
+You are requested to take the same on your record. 
+ 
+ 
+Thanking you, 
+ 
+Yours truly, 
+ 
+For FINOLEX CABLES LIMITED 
+ 
+ 
+Nirnoy Sur 
+Company Secretary 
+& General Manager (Legal) 
+Encl: As above  
+Finolex Cables Limited    |   Code of Conduct to Regulate, Monitor and Report Trading by Insiders  
+Regd. Office: 26-27, Mumbai-Pune Road, Pimpri, Pune – 411 018,  India. Tel: 020-27506200 | www.finolex.com | CIN: L31300MH1967PL C016531  
+Page 1 of 27  CODE OF CONDUCT TO  REGULATE, MONITOR AND REPORT TRADING 
+BY INSIDERS  
+(As amended by the Board of Directors on 7th November 2026)  
+1. PREAMBLE AND APPLICABILITY  
+1.1 This Code of Conduct to Regulate, Monitor and Report Trading by Insiders (the “ Code ”) is 
+framed by Finolex Cables Limited (the “ Company ”) to regulate, monitor and report Trading 
+by Insiders. 
+1.2 This Code is intended to prevent misuse of Unpublished Price Sensitive Information 
+(“UPSI ”) by Insiders and Connected Persons and to ensure that the Directors and Designated 
+Persons of the Company and their Immediate Relatives do not derive any benefit, or assist 
+others to derive any benefit, from access to and possession of UPSI. 
+1.3 The Code, approved by the Board of Directors on 12th May 2015, was effective from 15th 
+May 2015 and was amended on 26th May 2023, 10th August 2024 and 11th November 2025. 
+The Code has been further amended by the Bo ard on 7th November 2026 and the amended 
+Code shall be effective from 7th November 2026. 
+1.4 The Code shall apply to and be binding on all Designated Persons and their Relative and 
+Immediate Relatives and, to the extent provided herein, on all Insiders and Connected 
+Persons, including persons having a contractual or fiduciary relationship with the Company. 
+2. LEGAL FRAMEWORK  
+2.1 The Securities and Exchange Board of India (“ SEBI ”), in exercise of the powers conferred on 
+it under the Securities and Exchange Board of India Act, 1992, has notified the SEBI 
+(Prohibition of Insider Trading) Regulations, 2015, effective from 15th May 2015, as amended 
+from time to time (the “ Regulations ”). 
+2.2 In terms of Regulation 9(1) of the Regulations, the board of directors of every listed company 
+shall ensure that the Managing Director / Chief Executive Officer formulates, with the 
+approval of the board, a code of conduct to  regulate, monitor and report trading by its 
+designated persons and their immediate relati ves towards achieving compliance with the 
+Regulations, adopting the minimum standards set out in Schedule B to the Regulations. 
+2.3 Accordingly, the Board of Directors of the Company at its meeting held on 12th May 2015 
+approved and adopted the Code, which was amended on 26th May 2023, 10th August 2024 
+and 11th November 2025 and further amended on 7th November 2026. 
+3. DEFINITIONS  
+3.1 “ Act” means the Securities and Exchange Board of India Act, 1992. 
+3.2 “ Audit Committee ” means the Audit Committee of the Board constituted under Section 177 
+of the Companies Act, 2013 and Regulation 18 of the Listing Regulations. 
+3.3 “ Board ” means the Board of Dire ctors of the Company. 
+3.4 “ Company ” means Finolex Cables Limited. 
+Finolex Cables Limited    |   Code of Conduct to Regulate, Monitor and Report Trading by Insiders  
+Regd. Office: 26-27, Mumbai-Pune Road, Pimpri, Pune – 411 018,  India. Tel: 020-27506200 | www.finolex.com | CIN: L31300MH1967PL C016531  
+Page 2 of 27  3.5 “ Compliance Officer ” means the Company Secretary of the Company or, in the absence of 
+the Company Secretary, such other qualified Co mpany Secretary as may be appointed by the 
+Board in accordance with Regulation 6(1) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, being a senior  officer in whole-time employment of the 
+Company, not more than one level below the Board of Directors and designated as a Key 
+Managerial Personnel, who is financially literate and capable of appreciating requirements 
+for legal and regulatory compli ance under the Regulations, reporting to the Board, and who 
+shall be responsible for compliance of policies and procedures, maintenance of records, 
+monitoring adherence to the rules for the preservation of UPSI, monitoring of trades and the 
+implementation of this Code under th e overall supervision of the Board. 
+             Explanation:  “financially literate” shall mean a person who has the ability to read and 
+understand basic financial statements, i.e., balance sheet, profit and loss account and 
+statement of cash flows. 
+3.6 “ Connected Person ” means: 
+(i) any person who is or has during the six months prior to the concerned act been 
+associated with the Company, directly or indirectly, in any capacity including by 
+reason of frequent communicat ion with its officers or by being in any contractual, 
+fiduciary or employment relationship or by  being a director, officer or an employee 
+of the Company or holds any position including a professional or business 
+relationship, whether tempor ary or permanent, between himself / herself and the 
+Company, that allows such person, directly or indirectly, access to UPSI or is 
+reasonably expected to allow such access; 
+(ii) without prejudice to the generality of the foregoing, the following categories of 
+persons shall be deemed to be Connected Pe rsons unless the contrary is established: 
+(a) a Relative of Connected Persons specified in sub-clause (i); or 
+(b) a holding company or associate company or subsidiary company (list of such 
+companies as set out in Annexure – I ); or 
+(c) an intermediary as specified in Section 12 of the Act or an employee or 
+director thereof; or 
+(d) an investment company, trustee company, asset management company or an 
+employee or director thereof; or 
+(e) an official of a stock exchange or of a clearing house or corporation; or 
+(f) a member of the board of trustees of a mutual fund or a member of the board 
+of directors of the asset management  company of a mutual fund or an 
+employee thereof; or 
+(g) a member of the board of directors or an employee of a public financial 
+institution as defined in Section 2(72) of the Companies Act, 2013; or 
+(h) an official or an employee of a se lf-regulatory organisation recognised or 
+authorised by SEBI; or 
+(i) a banker of the Company; or 
+Finolex Cables Limited    |   Code of Conduct to Regulate, Monitor and Report Trading by Insiders  
+Regd. Office: 26-27, Mumbai-Pune Road, Pimpri, Pune – 411 018,  India. Tel: 020-27506200 | www.finolex.com | CIN: L31300MH1967PL C016531  
+Page 3 of 27  (j) a concern, firm, trust, Hindu undivided family, company or association of 
+persons wherein a Director of the Compan y or his / her Relative or a banker 
+of the Company has more than ten per cent of the holding or interest; or 
+(k) a firm or its partner or its employee in which a Connected Person specified in 
+sub-clause (i) is also a partner; or 
+(l) a person sharing household or reside nce with a Connected Person specified 
+in sub-clause (i). 
+3.7 “ Derivative ” includes (i) a security derived from a debt instrument, share, loan, whether 
+secured or unsecured, risk in strument or contract for differences or any other form of 
+security; and (ii) a contract which derives its value from the prices, or index of prices, of 
+underlying Securities. 
+3.8 “ Designated Persons ” means the persons designated by the Board in consultation with the 
+Compliance Officer on the basis of their role an d function in the organisation and the access 
+that such role and function would provide to UP SI, in addition to seniority and professional 
+designation, and shall comprise: 
+(a) Promoters and Directors of the Company and of its material subsidiaries; 
+(b) Key Managerial Personnel of the Company; (c) the Managing Director / Chief Executiv e Officer and employees up to two levels 
+below the Chief Executive Officer of the Co mpany and of its material subsidiaries, 
+irrespective of their functional role in the Company or ability to have access to UPSI; 
+(d) employees of the Company and of its material subsidiaries designated on the basis 
+of their functional role or acce ss to UPSI in the organisation; 
+(e) support staff of the Finance, Accounts, Secretarial, Legal, Information Technology 
+and such other departments of the Co mpany who have access to UPSI; and 
+(f) such other person s as may be designated by the Compliance Officer or the Board 
+from time to time. 
+3.9 “ Director ” means a director on the Board of the Company. 
+3.10 “ Employee ” means every employee of the Company (w hether working in India or abroad), 
+including the Directors in the employment of the Company. 
+3.11 “ Generally Available Information ” means information that is accessible to the public on a 
+non-discriminatory basis. Information published on the website of a stock exchange would 
+ordinarily be considered as generally available. 
+3.12 “ Immediate Relative ” means a spouse of a person, and includes parent, sibling and child of 
+such person or of the spouse, any of whom is  either dependent financially on such person, 
+or consults such person in taking deci sions relating to Trading in Securities. 
+3.13 “ Insider ” means any person who is (i) a Connected Pers on; or (ii) in possession of or having 
+access to UPSI. 
+3.14 “ Insider Trading ” means Trading in Securities by an Insider when in possession of UPSI. 
+Finolex Cables Limited    |   Code of Conduct to Regulate, Monitor and Report Trading by Insiders  
+Regd. Office: 26-27, Mumbai-Pune Road, Pimpri, Pune – 411 018,  India. Tel: 020-27506200 | www.finolex.com | CIN: L31300MH1967PL C016531  
+Page 4 of 27  3.15 “ Key Managerial Personnel ” means a person as defined in Section 2(51) of the Companies 
+Act, 2013. 
+3.16 “ Legitimate Purpose ” shall include sharing of UPSI in the ordinary course of business by an 
+Insider with partners, collaborators, lenders, customers, suppliers, merchant bankers, legal 
+advisors, auditors, insolvency professionals or other advisors or consultants, provided that 
+such sharing has not been carried out to ev ade or circumvent the prohibitions of the 
+Regulations, and as more particularly set out in the Company’s Policy for Determination of 
+Legitimate Purposes forming part of its Code of  Practices and Procedures for Fair Disclosure 
+of UPSI. 
+3.17 “ Listing Regulations ” means the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended from time to time. 
+3.18 “ Material Financial Relationship ” means a relationship in which one person is a recipient 
+of any kind of payment, such as  by way of a loan or gift, from a Designated Person during 
+the immediately preceding twelve months, equivalent to at least 25% of such payer’s annual 
+income, but shall exclude relationships in which the payment is based on arm’s length 
+transactions. 
+3.19 “ Material Subsidiary ” shall have the meaning assigned to it under the Listing Regulations. 
+3.20 “ Promoter ” and “ Promoter Group ” shall have the meanings assigned to them under the 
+SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any modification 
+thereof. 
+3.21 “ Regulations ” means the SEBI (Prohibition of Insider Trading) Regulations, 2015, as 
+amended from time to time. 
+3.22 “ Relative ” means (i) spouse of the person; (ii) parent  of the person and parent of its spouse; 
+(iii) sibling of the person and sibling of its sp ouse; (iv) child of the person and child of its 
+spouse; (v) spouse of the person listed at (iii);  and (vi) spouse of the person listed at (iv). 
+3.23 “ SEBI ” means the Securities and Exchange Board of India established under Section 3 of the 
+Act. 
+3.24 “ Securities ” shall have the meaning assigned to it under the Regulations and the Securities 
+Contracts (Regulation) Act, 1956 or any modifi cation thereof. Unless the context otherwise 
+requires, references in this Code to Securi ties shall mean Securities of the Company. 
+3.25 “ Stock Exchanges ” means BSE Limited and National Stock Exchange of India Limited, 
+where the Securities of the Company are listed. 
+3.26 “ Structured Digital Database ” or “ SDD ” means the database maintained by the Company 
+in terms of Clause 5 of this Code and Regulation 3(5) of the Regulations. 
+3.27 “ Takeover Regulations ” means the SEBI (Substantial Acquisition of Shares and Takeovers) 
+Regulations, 2011, as amended from time to time. 
+3.28 “ Trading ” means and includes subscribing, redeeming, switching, buying, selling, dealing, 
+or agreeing to subscribe, redeem, switch, buy, sell or deal in any Securities, and “ Trade ” shall 
+be construed accordingly. 
+3.29 “ Trading Day ” means a day on which the recognised stock exchanges are open for Trading. 
+Finolex Cables Limited    |   Code of Conduct to Regulate, Monitor and Report Trading by Insiders  
+Regd. Office: 26-27, Mumbai-Pune Road, Pimpri, Pune – 411 018,  India. Tel: 020-27506200 | www.finolex.com | CIN: L31300MH1967PL C016531  
+Page 5 of 27  3.30 “ Trading Plan ” means a plan formulated by an Insider in accordance with Regulation 5 of 
+the Regulations and Clause 8 of this Code. 
+3.31 “ Trading Window ” means the window available for Tr ading in the Securities of the 
+Company, and “ Trading Window Closure Period ” means the period during which the 
+Trading Window is closed in terms of Clause 12 of this Code. 
+3.32 “ Unpublished Price Sensitive Information ” or “ UPSI ” means any information, relating to 
+the Company or its Securities, directly or indirectly, that is not Generally Available which 
+upon becoming Generally Available, is likely to materially affect the price of the Securities 
+and shall, ordinarily including but not restricted to, information relating to the following: 
+(i) financial results; 
+(ii) dividends; 
+(iii) change in capital structure; 
+(iv) mergers, de-mergers, acquisitions, de-listings, disposals and expansion of business, 
+award or termination of orde r/contracts not in the normal course of business and 
+such other transactions; 
+(v) changes in Key Managerial Personnel, other than due to superannuation or end of 
+term, and resignation of a Statutory Auditor or Secretarial Auditor; 
+(vi) change in rating(s), other than ESG rating(s); 
+(vii) fund raising proposed to be undertaken; 
+(viii) agreements, by whatever name calle d, which may impact the management or 
+control of the Company; 
+(ix) fraud or defaults by the Company,  its Promoter, Director, Key Managerial 
+Personnel, or subsidiary or arrest of Key Managerial Personnel, Promoter or 
+Director of the Company, whether occurred within India or abroad; 
+(x) resolution plan / restru cturing or one time settlement in relation to loans / 
+borrowings from banks / financial institutions; 
+(xi) admission of winding-up petition filed by any party / creditors and admission of 
+application by the Tribunal filed by the corporate applicant or financial creditors for 
+initiation of corporate insolvency resolution process against the Company as a 
+corporate debtor, approval of resolution  plan or rejection thereof under the 
+Insolvency and Bankruptcy Code, 2016; 
+(xii) initiation of forensic audit, by whatever name called, by the Company or any other 
+entity for detecting mis-statement in financials, misappropriation / siphoning or 
+diversion of funds and receipt of final forensic audit report; 
+(xiii) action(s) initiated or orders passed within India or abroad, by any regulatory, 
+statutory, enforcement authority or judicial body against the Company or its 
+Directors, Key Managerial Personnel, Prom oter or subsidiary, in relation to the 
+Company; 
