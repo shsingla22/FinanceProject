@@ -1,0 +1,655 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One 97 Communications Limited  
+ 
+compliance.officer@paytm.com   
+ 
+www.paytm.com  Corporate Office - One Skymark, Tower -D, Plot No. H -10B, Sector -98, Noida -201304  
+ 
+T: +91120 4770770     F: +91120 4770771  CIN: L72200DL2000PLC108985  
+ 
+Registered Office -  136, First Floor, Devika Tower, Nehru Place, New Delhi -110019 
+ 
+ 
+May 06, 2026  
+BSE Limited  
+Department of Corporate Services, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Scrip Code: 543396  National Stock Exchange of India Limited  
+The Listing Department, Exchange 
+Plaza,  
+Bandra Kurla Complex, Mumbai -400 051 
+ 
+Symbol: PAYTM  
+Sub:   Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Earnings Release  
+Dear Sir/ Ma’am,  
+In continuation to our earlier letter dated April 28, 2026, and pursuant to Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 read with applicable circulars issued in this regard from time to time, please find enclos ed copy of Earnings Release for the quarter and 
+financial year ended March 31, 2026.  
+The Earnings Release will also be hosted on the Company's website viz.  
+https://ir.paytm.com/financial- results . 
+Kindly take the same on record.  
+Thanking you  
+Yours Sincerely,  
+ For One 97 Communications Limited  
+  
+Sunil Kumar Bansal  
+Company Secretary & Compliance Officer  
+FCS: 4810  
+ 
+Encl:. as Above  
+ 
+ 
+ 
+=== page 2 ===
+Q 4 F Y 2 0 2 6 · E A R N I N G S R E L E A S E
+FOR THE QUARTER AND YEAR ENDING MARCH 2026
+Powered
+by AI.
+Built for India .
+Earnings Release Date
+6 May 2026  Earnings Call
+7 May 2026 , 8:00 AM IST  
+=== page 3 ===
+*Note: FY 2025 PAT includes a one -time gain of ₹1,345 Cr on sale of the entertainment business and a one -time charge of ₹522 Cr towards 
+acceleration of ESOP expense and other impairments. FY 2026 PAT includes a one -time charge for full impairment of ₹190 Cr loan t o our JV, First 
+Games Technology Pvt. Ltd.Earnings Release  | Q4 FY 2026
+EBITDA improved from ₹(1,506) Cr in FY25 to ₹502 Cr in FY 2026. PAT stood at ₹552 Cr versus ₹(663) Cr a 
+year ago, a ₹1,215 Cr improvement, or ₹2,228 Cr excluding one -time items* in both years .FY 2026
+A Year Of Disciplined Compounding; 
+First Full Year Of Profit
+A ₹2,008 Cr EBITDA swing, in twelve months
+REVENUE
+₹8,437 Cr
++22%  YoYEBITDA
+₹502 Cr
++₹2,008 Cr YoY |6% marginPAT
+₹552 Cr
++₹1,215 Cr  YoY
+1.Market share gains on both merchant and consumer payments
+Consumer UPI GTV growth at 2.2x industry levels. Merchant GMV increased 27% YoY. This was 
+driven by continued product innovation and disciplined execution
+2.Payment processing margin expanded to >4 bps
+Improvement from previous guidance of >3 bps a year ago, driven by pricing discipline and 
+higher growth of profitable MDR bearing instruments including credit cards on UPI and 
+affordability offerings such as EMI
+3.Distribution of Financial services revenue scaled to ₹2,593 Cr
+Revenue grew 52% YoY, translating to a ₹890 Cr increase YoY, reflecting a high -growth, 
+high-margin engine
+4.AI-led operating leverage reflected in cost optimization 
+Revenue growth, increase in contribution margin, discipline on cost and using AI across the 
+organization. Strong operating leverage embedded in our business model
+=== page 4 ===
+Q 4  FY 2026
+Strong Growth In Revenue And 
+ProfitabilityEarnings Release  | Q4 FY 2026
+Note: The above -mentioned YoY trends indicate movement on a “Reported basis | Comparable basis”EBITDA stood at ₹132 Cr, representing an improvement of ₹330 Cr on a
+comparable basis
+Reported numbers are impacted by the discontinuation of the PIDF scheme, and FY 2026 UPI incentive is yet to 
+be finalised . We were able to achieve our guidance of 30 -40% offset of PIDF impact in Q4 FY 2026. 
+Our organic growth and profitability is improving substantially, reflected in robust EBITDA growth QoQ (comparable basis), 
+despite Q4 being a seasonally weaker quarter following the strong festive period. Performance is presented on both reported 
+and comparable (excluding UPI and PIDF incentive) basis.Summary P&L (Q4 FY 2026, reported and comparable)
+(Quarter ending, in ₹ Cr) Mar'25 Dec'25 Mar'26 QoQ YoY Commentary
+Operating Revenue (Reported) (A) 1,911 2,194 2,264 3% 18%
+Revenue momentum continues,
+led by market share gains in
+both merchant and consumer
+payments, and growth in 
+distribution of financial servicesLess: PIDF Incentive (B) 50 88 10 (89%) (80%)
+Less: UPI Incentive (C) 70 0 0 NA NA
+Operating Revenue (Comparable) (A -B-C) 1,791 2,106 2,254 7% 26%
+Contribution Profit (Reported) (D) 1,071 1,249 1,254 0% 17%Improvement in contribution
+margin (comparable) on account 
+of increase in payment 
+processing margin and rising 
+share of high margin distribution 
+of financial servicesContribution Margin % 56% 57% 55% (2 p.p) (1 p.p)
+Contribution Profit (Comparable) (D -B-C) 951 1,161 1,244 7% 31%
+Contribution Margin % 53% 55% 55% - 2 p.p
+EBITDA (Reported) (E) (88) 156 132 (15%) nmRobust improvement in organic 
+EBITDA and EBITDA margin 
+(comparable)
+As guided, we have offset 30 -
+40% of PIDF impact in Q4 FY 
+2026 and will target further offset 
+over timeEBITDA Margin % (5%) 7% 6% (1 p.p) 11 p.p
+EBITDA (Comparable) (E -B-C) (208) 68 122 79% nm
+EBITDA Margin % (12%) 3% 5% 2 p.p 17 p.p
+Note: p.p-Percentage PointsREVENUE
+₹2,264  Cr
++18% YoY |+26% YoYCONTRIBUTION PROFIT
+₹1,254  Cr
++17% YoY |+31% YoYEBITDA
+₹132 Cr
++₹220 Cr YoY | +330 Cr 
+YoY improvement
+=== page 5 ===
+Earnings Release  |Q4 FY 2026
+L O O K I N G  F O R W A R D  T O  F Y  2 0 2 7  
+Built the business with a strong foundation, reflecting industry -leading 
+customer monetisation and cost disciplineGrowth Acceleration Accompanied 
+By Margin Expansion
+Revenue growth is expected to accelerate with further EBITDA margin expansion, 
+driven by four compounding engines that are already in motion
+1. Expansion of merchant payments
+Sustained GMV and revenue growth, supported by market share gains and expanding payment 
+processing margins
+2. Structural growth in high -margin merchant loans distribution business
+Supported by expanding lender participation, growing device merchant base, and rising penetration 
+3. Consumer lifecycle monetization
+Investments in AI -led product innovation are reflecting in market share gains and monetization. 
+Momentum seen in payments, loan distribution and wealth, with full -year benefit expected in FY 2027
+4. Continued use of AI across the organisation and AI -led operating leverage
+Revenue and contribution profit are expected to grow meaningfully faster than indirect expenses led by 
+AI applications across our businesses, supporting further EBITDA margin expansion
+=== page 6 ===
+0 1  /  M E R C H A N T  P A Y M E N T S  
+The Core Acquisition EngineEarnings Release  | Q4 FY 2026
+Paytm is increasingly embedded in merchants’ day -to-day operations, making us a 
+core partner in their growth journey
+MERCHANT GMV
+Q4 FY 2026
+₹6.5 L Cr
++27% YoYMERCHANT SUBSCRIPTIONS 
+Q4 FY 2026
+1.51 Cr
++27 Lakh YoYNET PAYMENT REVENUE
+Q4 FY 2026
+₹583Cr
++25% YoY (Comparable)PAYMENT MARGIN
+Q4 FY 2026
+>4bps
+from >3bps a year agoConsistent growth in Payments GMV, expansion in Payment Processing Margin and increase in 
+Device Subscriptions
+1. Acceleration in merchant GMV growth
+From 24% YoY in Q3 to 27% YoY in Q4, due to investments in products, distribution and service. 
+Long runway ahead due to market expansion and market share gains 
+2. Higher growth of profitable MDR bearing instruments 
+Payment processing margins expanded to comfortably above 4 bps, marking a structural and 
+sustained improvement 
+3. Subscription merchants reached 1.51 Cr
+We added 27 lakh net devices YoY. With increase in lifetime value, we have passed on some of the 
+benefits of reduction in device cost to our most engaged device merchants. This strengthens retention 
+and market share, while driving higher overall monetisation
+4. The Soundbox is increasingly becoming indispensable
+Soundbox is no longer a payment confirmation device alone, but a small business operating 
+system, deployed at 1.51 Cr storefronts across India
+=== page 7 ===
+0 2  /  D I S T R I B U T I O N  O F  F I N A N C I A L  S E R V I C E S  
+High Growth And High -margin, 
+‘Distribution -only’ BusinessEarnings Release  | Q4 FY 2026
+Low penetration offers significant long -term opportunity
+A scalable distribution business anchored on the payments platform, with low penetration offering significant 
+long-term opportunity. Loans are underwritten and booked by our lending partners on their balance sheets. We 
+bring them merchants, insights, improved merchant experience and collections discipline
+REVENUE
+Q4 FY 2026
+₹750Cr
++38%YoYKEY FINANCIAL SERVICES 
+CUSTOMERS
+Q4 FY 2026
+7.5 Lakh
++2 Lakh YoY (+36% YoY)REPEAT BORROWER MIX
+> 50%
+of merchant loan disbursements
+Merchant Loans
+Alarge, scalable merchant loan distribution business anchored onourdeeply engaged merchant base, with
+significant growth potential from expanding lender participation, increase indevice subscriptions, improving
+penetration, andrising ticket sizes .
+Wecontinue toseestrong growth from both new andrepeat borrowers, with repeat borrowers contributing
+more than 50%ofdisbursements .Wehave observed lower cyclicality andsustainable growth, even during
+recent geopolitical uncertainty andpockets ofsupply chain disruption .
+Consumer Loans
+Paytm Postpaid is scaling steadily on monthly sign -ups and disbursements, with healthy collection 
+performance experienced by our lending partner. Beyond monetization, Postpaid deepens payment 
+engagement and serves as a funnel for additional consumer credit products.
+In Personal Loans, lending partners have started scaling up, while they continue a measured approach to 
+portfolio quality.
+Wealth and Equity Broking
+We have improved monetization across equity broking, Margin Trade Funding (MTF) and other wealth 
+products including Paytm Gold, with AI -powered offerings expected to drive further growth.
+=== page 8 ===
+Earnings Release  |Q4 FY 2026
+0 3  /  C O N S U M E R  F R A N C H I S E
+More Consumers, More From Each 
+Consumers
+We have gained  UPI consumer market share, every single month for the last one 
+year. Consumer UPI GTV grew at 2.2x the industry growth
+CUSTOMER UPI GTV
+Q4 FY 2026
+₹5.5 L Cr
++46%YoYMTU
+Q4 FY 2026 
+7.7Cr
++50 Lakh YoYVs INDUSTRY UPI GROWTH
+Q4 FY 2026 
+2.2x
+46% Paytm growth vs 
+21% industry growth
+Investments in Product -led innovation is resulting in higher consumer retention 
+and monetization
+• MTU expanded by 50 lakh YoY to 7.7 Cr. We are simultaneously growing the user base and deepening engagement per 
+user
+• Paytm Postpaid is scaling well on both monthly sign -ups and disbursements, with healthy collection performance 
+reported by our lending partner. Postpaid is a high -margin payment instrument that enhances payment processing 
+margin, deepens engagement, and serves as a funnel for additional consumer credit products
+• Starting this quarter, we are investing prudently for user growth and providing cashbacks for user growth, and certain 
+high -margin consumer businesses, which are revenue and margin accretive, while also supporting customer 
+engagement and retention
+We are focused on ensuring highest monetization per consumer on a large base
+1.   Payments: To acquire and to retain
+We continue to work on gaining consumer payment market share. AI -led personalisation in the app is 
+improving relevance, retention, and cross -sell readiness every quarter, while AI -led fraud and risk models 
+improve the cost of acquisition and retention
+2.   Credit: To monetise, at scale
+We will continue to scale Paytm Postpaid while ensuring healthy portfolio outcome for our lending partners. 
+We are also seeing early signs of pickup in Personal Loan distribution
+3.   Wealth: The savings franchise, at scale
+Across Equity broking, MTF, Mutual Fund SIPs and Digital Gold, AI -led personalisation is driving higher 
+engagement and revenue per active customer
+=== page 9 ===
+Earnings Release  | Q4 FY 2026
+0 4  /  E X P A N D I N G  U S E  O F  A I  A C R O S S  T H E  O R G A N I S A T I O N
+We are building applied AI models on top of the best open source models, and small language models built for 
+the SMB context, optimized for voice and Indian languages. These custom re -trained models are built for 
+Paytm -specific tasks such as payments intelligence, fraud prevention, merchant on -boarding and improved 
+collection performance.Adding The Power Of AI To India's 
+Small And Medium Businesses
+Bringing productivity and intelligence within the reach of merchants running kirana
+stores to chai stalls and helping Paytm improve revenue, reduce cost, control risk, 
+and deepen engagement
+FO R ENG INEERI NG
+Coding agents and 
+core operation 
+tools
+Agentic assistance across 
+coding, review, testing, and 
+deployment is producing 
+faster delivery cycles and 
+lower cost of building 
+software. AI also 
+strengthens fraud detection 
+and collections prioritization  
+contributing to the cost 
+discipline visible in FY 2026FO R MERCHANT S
+The Soundbox as a 
+diffusion machin e
+The Paytm AI Soundbox 
+delivers  business insights, 
+customer notiﬁcations, and 
+merchant support through a 
+device they already trust, in 
+languages they
+already speak. Further AI 
+helps in acquiring merchants 
+more efficiently and in 
+targeted service effortsFOR CONSUMERS
+AI-led consumer 
+acquisition and 
+retention 
+AI-led acquisition selects 
+better customers efficiently. 
+AI-led personalisation 
+serves relevant use cases 
+and extracts more revenue 
+per engagement. AI models 
+deepen risk insights. 
+Lifetime value compounds 
+with every additional pillar 
+adopted
+=== page 10 ===
+Earnings Release  |Q4 FY 2026
+0 4  /  A I -L E D  O P E R A T I N G  L E V E R A G E
+Indirect Expenses: Investing In 
+Platform Expansion With Disciplined 
+Cost Control
+(Quarter ending, in ₹ Cr) Mar-25 Mar-26 YoY Change
+Cost of Expanding Platform 349 382 9%
+Marketing 102 65 (37%)
+Sales and service employees 247 317 29%
+Cost of building platform 811 740 (9%)
+Non-sales employee costs 502 422 (16%)
+Software & cloud expenses 146 175 21%
+Other indirect expenses 165 143 (13%)
+Total Indirect Expenses 1,160 1,122 (3%)Going forward, we expect indirect expenses to grow significantly slower than revenue, 
+resulting in continued and significant operating leverage
+Efficiency: Building Platform ( ▼9% YoY)
+•Non-sales employee cost declined YoY on account of 
+lower ESOP costs following our Founder and CEO's 
+voluntary surrender of ESOPs in Q4 FY 2025. This 
+cost is expected to increase in Q1 FY 2027 due to 
+annual appraisal and grant of ESOPs, however AI -led 
+productivity improvements will continue
+•Software, cloud and data center expenses have seen 
+modest growth YoY, significantly lower than 
+transaction volume growth on improved commercials 
+and efficiencies, despite investments in AIInvestment: Expanding Platform ( ▲9% YoY)
+•Marketing costs declined; however, this combined 
+with Promotional expense has increased YoY as we 
+are prudently investing for user growth, supported by 
+improving retention and market share gains
+•Sales and service employee costs increased as we 
+continue to invest in deepening our presence in tier -2 
+and tier -3 cities, as well as increasing focus
+on service
+ESOP Cost: 5 year track
+ESOP costs (included within indirect costs) for FY 2026 came in at ₹174 Cr, below the guided range of ₹250 –275 
+Cr, on account of ESOP lapses upon attrition. For FY 2027, ESOP costs are expected to be in the range of ₹250 –
+300 Cr, broadly in line with historical employee ESOP expenses (refer to table below):
+Employee ESOP Cost (in ₹ Cr) FY 2022 FY 2023 FY 2024 FY 2025 FY 2026 Total
+Employee ESOP Cost 266 367 347 (35) 174 1,120
+* Employee ESOP cost excludes Founder ESOP cost. Founder ESOP cost was reversed through reserves post voluntary surrender of ES OPs In Q4 FY 2025
+=== page 11 ===
+Earnings Release  |Q4 FY 2026
+CASH BALANCE
+₹13,315 Cr
+vs ₹12,809 Cr as of Mar -25YoY CHANGE
++₹506CrUSD TRANSLATION GAIN
+FY 2026
++₹255Cr
+Reflected in reserves
+Cash Balance
+Cash balance of ₹13,315 Cr, doesn’t include “PML customer funds” and “Balances in Escrow / Nodal Accounts” but 
+includes the pre -funded balance in escrow account from PPSL (to support peak working capital requirements), post 
+transfer of offline business.
+Other income (primarily interest income) declined in Q4 FY 2026 as guided earlier on account of 
+reinvestment of maturing investments at lower yields following the 125 bps repo rate cuts last year. This 
+trend is expected to continue in FY 2027.
+Interest income is also determined by yield on the currency of investments. Proceeds from the sale of 
+PayPay SARs in December 2024, were deployed in USD assets, which carry lower nominal yields relative to 
+₹ investments, resulting in lower reported other income. This is offset at the balance sheet level by ₹ 
+depreciation, which results in a positive translation impact on USD assets (positive ₹255 Cr in FY 2026, 
+reflected in reserves).B A L A N C E  S H E E T
+Capital Strength And Consistent Cash 
+Flow Generation
+Cash balance provides continued flexibility for business expansion
+Other Income
+=== page 12 ===
+Earnings Release  |Q4 FY 2026
+• Nearly nil revenue impact from industry stoppage of rent payments through credit card 
+(PA-PG guidelines, Sep 2025) and the Real Money Gaming (RMG) Act, Aug 2025 driven by proactive 
+compliance
+• Discontinued use of “adjusted” metrics; all disclosures are on GAAP basis or as per standard definitions, 
+which drives appropriate resource allocation decisions
+• Movement to conservative revenue recognition policy
+• Offset a portion of PIDF non -extension beyond Dec 2025; will progressively mitigate through higher 
+revenues and targeted sales efforts, while maintaining discipline on RoIand payback
+• No financial or business impact from cancellation of Paytm Payments Bank Limited’s (PPBL) banking 
+license. Investment in PPBL was already impaired as of March 31, 2024
+Update on International Business
+In continuation of our international strategy framework explained in the Q2 FY 2026, Paytm Cloud Technologies 
+Limited (PCTL) and its wholly owned subsidiary, Paytm Singapore Pte.Ltd., have incorporated a new wholly owned 
+step-down subsidiary in Indonesia, “PT Paytm Indonesia Teknologi ,” on April 10, 2026 and have invested a total of 
+IDR 15 billion (approximately ₹8 Cr) in this entity.B U I L D I N G  F O R  T H E  L O N G  T E R M
+A High -quality, Long -term Profitable 
+Business
+Positive impact of proactive and conservative compliance decisions reflected across recent 
+regulatory transitions
+=== page 13 ===
+Earnings Release  |Q4 FY 2026
+A Few Additional Insights F O R  I N V E S T O R S
+Q1 Why arereported andcomparable numbers different —andwhich should weuse?
+Comparable numbers exclude thePIDF incentive (₹10CrinQ4FY2026 vs₹50CrinQ4FY2025 ;the
+scheme was discontinued post December 2025 )andUPIincentive .Refer tocomparable numbers toread
+theunderlying engine .
+Q2 TheFY2027 outlook says revenue "accelerates" andmargins "expand ."How specific canyoube?
+Revenue growth in FY 2027 expected to be higher than the 22% delivered in FY 2026 and indirect 
+expenses will grow meaningfully slower than revenue. Operating leverage is therefore mathematically 
+embedded. The four levers in the outlook compound.
+Q3 Payment processing margin moved above 4bps, compared toguidance of“above 3bps” .Isthis
+sustainable?
+Theexpansion isdriven byhigher growth ofprofitable MDR bearing instruments including credit cards on
+UPIandaffordability offerings such asEMI.This iscombined bypricing discipline across ourpayments
+offerings .Weexpect continued expansion inFY2027 .
+Q4 You describe thefinancial services business as"distribution -only” .What isyour current thinking
+oncapturing more economics byunderwriting onyour own balance sheet?
+We think our current model creates win -win partnerships between us and our lending partners, as both 
+parties bring their best abilities to the table. We bring our unique capabilities of being the platform that 
+brings merchants, insights, and collections discipline. Our partners bring the ability to manage capital, risk 
+and cyclicality. Strategically for us, this model is ideally suited for scalability, in the context of our massive 
+customer base and high penetration potential. It is better for us to remain asset -light, and bring many blue -
+chip partners on our platform, rather than to scale with our own, and single, balance sheet. 
+Q5 Thecash balance is₹13,315Cr,andyouareadding cash .How doyouthink about deploying it?
+Weseeopportunities forreinvestment inthebusiness which willevolve andbecome clearer over time.
+Currently, these arecapex, scaling theMTF business, AIinvestments, distribution, talent .Wealso want to
+keep drypowder forselective inorganic action, only attheright price andonly where strategically additive .
+Wewillnotdeploy capital simply because wehave it;theoptionality ofcash isitself worth something inthe
+present environment .
+=== page 14 ===
+Earnings Release  |Q3 FY 2026
+Particulars (in ₹ Cr)Quarter Ended Year Ended
+Mar -26 
+(Unaudited)Mar -25 
+(Unaudited)YoYDec-25
+(Unaudited)QoQMar -26 
+(Unaudited)Mar -25
+(Unaudited)YoY
+Payment Services 1,265 1,046 21% 1,192 6% 4,646 3,879 20%
+Distribution of Financial 
+Services750 545 38% 672 12% 2,594 1,703 52%
+Marketing Services 239 267 (10)% 238 0% 952 1,158 (18)%
+Other Operating Revenue 10 52 (81)% 92 (89)% 245 160 53%
+Revenue from Operations 2,264 1,911 18% 2,194 3% 8,437 6,900 22%
+Payment processing charges 692 520 33% 671 3% 2,573 2,125 21%
+As % of GMV 0.11% 0.10% 1 bps 0.11% 0bps 0.11% 0.15% (4) bps
+Promotional cashback & 
+incentives104 41 154% 69 51% 261 151 73%
+Other direct expenses 214 278 (23)% 205 4% 743 946 (21)%
+Total Direct Expenses 1,010 840 20% 945 7% 3,577 3,222 11%
+Contribution Profit 1,254 1,071 17% 1,249 0% 4,860 3,678 32%
+Contribution Margin % 55% 56% (66) bps 57% (154)bps 586% 53% 430 bps
+Indirect Expenses 1,122 1,160 (3)% 1,092 3% 4,358 5,184 (16)%
+Marketing 65 102 (36)% 77 (16)% 275 508 (46)%
+Employee cost
+(Including ESOP Costs)739 749 (1)% 721 2% 2,765 3,288 (16)%
+Software, cloud and
+data centre175 146 20% 166 5% 643 639 1%
+Other indirect expenses 143 165 (13)% 128 12% 675 749 (10)%
+EBITDA 132 (88) nm 156 (15)% 502 (1,506) nm
+Margin % 6% (5)% 1,044 bps 7% (128)bps 6% (22)% 2,778 bpsSummary of Consolidated Financial Performance
+=== page 15 ===
+Earnings Release  |Q3 FY 2026
+Reconciliation of EBITDA with Profit / (Loss) for the period
+Particulars (in ₹ Cr)Quarter Ended Year Ended
+Mar -26 
+(Unaudited)Mar -25 
+(Unaudited)YoYDec-25
+(Unaudited)QoQMar -26 
+(Unaudited)Mar -25
+(Unaudited)YoY
+EBITDA (A) 132 (88) nm 156 (15)% 502 (1,506) nm
+Finance costs (B) (5) (4) 25% (4) 25% 18 16 13%
+Depreciation and amortization expense (C) (132) (150) (12)% (133) (1)% 568 673 (16)%
+Other income (D) 178 224 (21)% 212 (16)% (854) (724) 18%
+Share of profit/(loss) of associates/joint ventures (E) 0 0 nm (1) (100)% 2 (3) nm
+Income Tax expense (F) (11) (3) 267% (5) 120% 30 18 67%
+Profit / (Loss) for the period/year before Exceptional 
+Items (G = sum of A to F)162 (21) nm 225 (28)% 738 (1,486) nm
+Exceptional items (H) 21 (522) nm 0 nm (186) 823 nm
+Profit / (Loss) for the period/year
+(I = sum of G and H)183 (545) nm 225 (19)% 552 (663) (183)%
+Summary of Key Operational Metrics
+Operational KPIs UnitsQuarter Ended
+Mar -26 
+(Unaudited)Mar -25 
+(Unaudited)YoYDec-25
+(Unaudited)QoQ
+Registered Merchants (end of period) Cr 4.9 4.4 11% 4.8 2%
+Subscription Merchants including devices (cumulative; end of 
+period)Cr 1.51 1.24 22% 1.44 5%
+GMV ₹ Lakh Cr 6.5 5.1 27% 6.2 5%
+Merchant Transactions Cr 1,530 1,184 29% 1,466 4%
+Total Transactions Cr 1,822 1,317 38% 1,716 6%
+Average Number of Sales Employees* # 40,512 36,724 10% 44,461 (9)%
+Cost of Sales Employees (including ESOP Costs) ₹ Cr 317 243 30% 315 1%
+MTU (average over the period) Cr 7.7 7.2 7% 7.6 1%
+Key financial services customers Lakh 7.5 5.5 36% 7.1 6%
+*Note: Starting Q1 FY 2027, the Company will discontinue reporting the ‘Average Number of Sales Employees’ in its periodic disclosur es.The Company believes that the 
+cost of sales employees is a more relevant metric for evaluating the scale and performance of its sales organization. Given t he industry trend of high attrition rates in the 
+sales team and the variability in active working days across employees, sales employee cost provides a more accurate and mean ingful representation than the number of 
+sales employees.
+=== page 16 ===
+Earnings Release  |Q3 FY 2026
+ESOP Pool Schedule 
+As of May 04, 2026 (in Cr.)
+Basic shares outstanding 64.0
+ESOPs vested and unexercised 0.2
+ESOPs granted and unvested 1.0
+ESOPs available for distribution 2.8
+Estimated fully diluted shares 67.9
+Indicative Performance Metrics for Loan Distribution (M ar2026 quarter)
+Merchant Loans
+Bounce Rates NA
+Bucket 1 Resolution % 83% to 90%
+Recovery Rate Post 90+ 30% to 35%
+ECL% 4.5% to 5.0%
+Loans are underwritten and booked by our lending partners in their balance sheets. Paytm acts as a collection outsourcing par tner and the 
+numbers are hence indicative of those efforts
+Particulars (in ₹ Cr) Mar -25 Jun-25 Sep-25 Dec-25 Mar -26
+Cash and Bank Balances 4,539 4,561 4,861 5,468 7,252
+Deposits with banks 7,018 6,478 6,267 6,115 5,788
+Investments (Mutual Funds/T -Bills/CP/
+G-Sec/NCD/NBFC FDs)4,046 5,086 5,545 4,747 4,417
+Total Balances (A) 15,602 16,124 16,674 16,329 17,457
+Paytm Money Ltd (PML)
+customer funds (B)326 420 351 415 383
+Balances in Escrow / Nodal Accounts (C) 2,467 2,832 3,254 3,732 4,459
+Total Balances (excluding PML and Escrow) (A -B-
+C)12,809 12,872 13,068 12,182 12,615
+Prefunded balance in escrow account from PPSL 
+post transfer of offline business (D)Negligible 700 700
+Total Balance  (A -B -C + D) 12,809 12,872 13,068 12,882 13,315Cash Balance(Qtrending)
+Note: Cash balance does not include money lent by PML to its customers for Margin Trading Funding (MTF). The same are reported in ‘ Other Financial 
+Assets’ in the Company’s financial statements.
+=== page 17 ===
+Earnings Release  |Q3 FY 2026
+16Definitions for Metrics & Key Performance Indicators
+Metric Definition
+GMVGMV is the rupee value of total payments made to merchants through transactions on our app or our in -store payment 
+solutions, and payments processed through Paytm payment gateway, over a period. It excludes any consumer -to-consumer 
+payment service such as money transfers
+Monthly Transacting 
+User (MTU)Number of unique users in a particular calendar month who have successfully completed a transaction on the Paytm App or 
+have used the Paytm for Business App
+Net Payment Revenue Payment revenues (including other operating revenue) less payments processing charges
+Contribution ProfitContribution profit is a non -GAAP financial measure. We define Contribution profit as revenue from operations less payment 
+processing charges, promotional cashback & incentives expenses, connectivity & content fees, contest, ticketing expenses & 
+logistics, deployment & collection cost of our businesses
+Key Financial Services 
+customers Key financial services customers are unique consumers and merchants who have availed Paytm’s and
+group entity’s financial services offerings, i.e. equity broking, insurance and credit products, such as
+merchant and consumer loans distributed through our platform. However, it does not include customers
+availing mutual fund distribution, Postpaid loans, gold savings or any attachment insurance products, as they contribute 
+negligible revenue/profitability
+=== page 18 ===
+Earnings Release  |Q4 FY 2026
+Our mission is to bring half a billion 
+Indians into the mainstream economy.
+Pioneer of the mobile payments, QR, and Soundbox revolution in India. 
+Paytm is India's leading payments and ﬁnancial services distribution 
+company. We build technology that empowers small businesses to 
+grow, and enables consumers to make seamless payments anywhere
+Q4FY2 0 26 EA RNINGS CALL
+7thMay 2026
+8:00 –8:45 AMIST
+Zoom video conference webinar
+Pre-registration requiredINV ESTOR RELATIONS
+ir.paytm.com
+Download the report and 
+pre-register
+=== page 19 ===
+Earnings Release  |Q4 FY 2026
+By reading this release you agree to be bound as follows: 
+This earnings release is prepared by One 97 Communications Limited (“Company”) and is for information purposes only 
+without regards to specific objectives, financial situations or needs of any -particular person and is not and nothing in it sha ll be 
+construed as an invitation, offer, solicitation, recommendation or advertisement in respect of the purchase or sale of any 
+securities of the Company or any affiliates in any jurisdiction or as an inducement to enter into investment activity and no part 
+of it shall form the basis of or be relied upon in connection with any contract or commitment or investment decision 
+whatsoever. This earnings release does not take into account, nor does it provide any tax, legal or investment advice or 
+opinion regarding the specific investment objectives or financial situation of any person. Before acting on any information y ou 
+should consider the appropriateness of the information having regard to these matters, and in particular, you should seek 
+independent financial advice. This earnings release and its contents are confidential and proprietary to the Company and/or i ts 
+affiliates and no part of it or its subject matter be used, reproduced, copied, distributed, shared, retransmitted, summarize d or 
+disseminated, directly or indirectly, to any other person or published in whole or in part for any purpose, in any manner 
+whatsoever. 
+The information contained in this earnings release is a general background information of the Company and there is no 
+representation that all information relating to the context has been taken care of in the earnings release. We do not assume 
+responsibility to publicly amend, modify or revise any information contained in this earnings release on the basis of any 
+subsequent development, information or events, or otherwise. This earnings release includes certain statements that are, or 
+may be deemed to be, “forward -looking statements” and relate to the Company and its financial position, business strategy, 
+events and courses of action. 
+Forward -looking statements and financial projections are based on the opinions and estimates of management as on the date 
+such statements are made and are subject to a variety of risks and uncertainties and other factors that could cause actual 
+events or results to differ materially from those anticipated in the forward -looking statements and financial projections. 
+Representative examples of factors that could affect the accuracy of forward looking statements include (without limitation) the
+condition of and changes in India’s political and economic status, government policies, applicable laws, international and 
+domestic events having a bearing on Company’s business,  such other factors beyond our control. 
+Forward -looking statements and financial projections include, among other things, statements about: our expectations 
+regarding our transaction volumes, expenses, sales and operations; our future merchant and consumer concentration; our 
+anticipated cash needs, our estimates regarding our capital requirements, our need for additional financing; our ability to 
+anticipate the future needs of our merchants and consumers; our plans for future products and enhancements of existing 
+products; our future growth strategy and growth rate; our future intellectual property; and our anticipated trends and challe nges 
+in the markets in which we operate. Forward -looking statements are not guarantees of future performance including those 
+relating to general business plans and strategy, future outlook and growth prospects, and future developments in its 
+businesses and its competitive and regulatory environment.
+These forward -looking statements represent only the Company’s current intentions, beliefs or expectations, and no 
+representation, warranty or undertaking, express or implied, is made or assurance given that such statements, views, 
+projections or forecasts in the earnings release, if any, are correct or that any objectives specified herein will
+be achieved. 
+We have converted financial amounts from ₹ millions into ₹ Cr & hence there could be some totalling anomalies in
+the numbers.
+=== page 20 ===
+Earnings Release  |Q4 FY 2026
+Notes and Disclaimers for Earnings Release
+We, or any of our affiliates, shareholders, directors, employees, or advisors, as such, make no representations or warranties , 
+express or implied, as to, and do not accept any responsibility or liability with respect to, the fairness, accuracy, complet eness or 
+correctness of any information or opinions contained herein and accept no liability whatsoever for any loss, howsoever, arisi ng 
+from any use or reliance on this earnings release or its contents or otherwise arising in connection therewith. The informati on 
+contained herein is subject to change without any obligation to notify any person of such revisions or change and past 
+performance is not indicative of future results. 
+Investments in the securities market are subject to market risk, read all related documents carefully before investing. Margi n 
+Funding as subject to the provisions of SEBI Circular CIR/MRD/DP/54/2017 dated June 13, 2017, and the terms and conditions 
+mentioned in rights and obligations statement issued by the Paytm Money Limited
+This document has not been and will not be reviewed or approved by a regulatory authority in India or by any stock exchange i n 
+India. No rights or obligations of any nature are created or shall be deemed to be created by the contents of this earnings r elease.
+Use of Operating Metrics
+The operating metrics reported in this earnings release are calculated using internal Company data based on the activity of o ur 
+merchants, consumers and other participants in our ecosystem. While these numbers are based on what we believe to be 
+reasonable estimates of engagement, for the applicable period of measurement, there are inherent challenges in measuring 
+usage across our large online, offline, in -store and mobile presence. The methodologies used to measure these metrics require 
+significant judgment and are also susceptible to algorithm or other technical errors. We regularly review our processes for 
+calculating these metrics, and from time to time we may discover inaccuracies in our metrics or may make adjustments to 
+improve their accuracy, which can result in adjustments to previously disclosed metrics. In addition, our metrics will differ from 
+estimates published by third parties due to differences in methodology.
+Non -GAAP Financial Measures
+In addition to our results determined in accordance with IndAS, we believe the following Non -GAAP measures are useful to 
+investors in evaluating our operating performance. We use the following Non -GAAP financial information to evaluate our ongoing 
+operations and for internal planning and forecasting purposes. We believe that Non -GAAP financial information, when taken 
+collectively with financial measures prepared in accordance with IndAS, may be helpful to investors because it provides an 
+additional tool for investors to use in evaluating our ongoing operating results and trends and in comparing our financial re sults 
+with other companies in our industry because it provides consistency and comparability with past financial performance. Howev er,
+our management does not consider these Non -GAAP measures in isolation or as an alternative to financial measures determined 
+in accordance with IndAS. 
+Non-GAAP financial information is presented for supplemental informational purposes only, has limitations as an analytical tool 
+and should not be considered in isolation or as a substitute for financial information presented in accordance with IndAS. Non -
+GAAP financial information may be different from similarly -titled Non -GAAP measures used by other companies. The principal 
+limitation of these Non -GAAP financial measures is that they exclude significant expenses and income that are required by IndAS
+to be recorded in our financial statements, as further detailed below. In addition, they are subject to inherent limitations as they 
+reflect the exercise of judgment by management about which expenses and income are excluded or included in determining 
+these Non -GAAP financial measures. A reconciliation is provided below for each Non -GAAP financial measure to the most 
+directly comparable financial measure prepared in accordance with IndAS. Investors are encouraged to review the related IndAS 
+financial measures and the reconciliation of Non -GAAP financial measures to their most directly comparable IndAS financial 
+measures included below and to not rely on any single financial measure to evaluate our business.

@@ -1,0 +1,1016 @@
+
+=== page 1 ===
+ 
+ 
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411 016, Maharashtra, India   
+CIN - L72300PN1990PLC056696 
+Tel:  +91 (20) 670 35555 | Fax - +91 (20) 6703 6003 | E-mail - info@persistent.com  | Website - www.persistent.com   
+NSE & BSE / 2024-25 / 173 
+ 
+October 22, 2024 
+ 
+The Manager 
+Corporate Services, 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (E), Mumbai 400 051 
+ 
+Ref: Symbol: PERSISTENT  The Manager 
+Corporate Services, 
+BSE Limited 
+14th Floor, P J Towers, Dalal Street, 
+Mumbai 400 001 
+ 
+Ref: Scrip Code: 533179  
+ 
+Dear Sir/Madam, 
+ 
+Sub: Fact Sheet – Consolidated Financial Data – for the quarter and half year ended  
+September 30, 2024 
+ 
+Please find enclosed the fact sheet of the Consolidated Financial Data for the quarter and half-year ended 
+September 30, 2024. 
+ 
+The Company has scheduled an investor/analyst call today i.e., on October 22, 2024, at 1900 Hrs. (IST). 
+ 
+During the call, the Management will comment on the financial results for the quarter and half year ended 
+September 30, 2024, as well as on the business outlook.  
+ 
+The details of the said investor call are available on the website of the Company. 
+ 
+Please acknowledge the receipt. 
+ 
+Thanking you, 
+ 
+Yours Sincerely, 
+For Persistent Systems Limited 
+ 
+ 
+ 
+ 
+Amit Atre 
+Company Secretary 
+ICSI Membership No.: A20507 
+ 
+Encl: As above  
+ 
+ 
+ 
+ 
+=== page 2 ===
+Investor
+Presentation
+October 2024
+© 2024 Persistent Systems
+=== page 3 ===
+Forward -looking and Cautionary Statements
+2     © 2024 Persistent SystemsCertain  statements  in this Presentation  concerning  our future  growth  prospects  are forward -looking  statements,  which  involve  a number  of risks and uncertainties  that 
+could  cause  actual  results  to differ  materially  from those  in such  forward -looking  statements . The risks and uncertainties  relating  to these  statements  include,  but are not 
+limited  to, risks and uncertainties  regarding  fluctuations  in earnings,  our ability  to manage  growth,  intense  competition  in IT services  including  those  factors  which  may 
+affect  our cost advantage,  our revenues  highly  dependent  on customers  located  in the United  States,  wage  increases  in India,  our ability  to attract  and retain  highly  
+skilled  professionals,  time and cost overruns  on fixed -price,  fixed -time frame  contracts,  client  concentration,  restrictions  on immigration,  industry  segment  concentration,  
+our ability  to manage  our international  operations,  reduced  demand  for technology  in our key focus  areas,  disruptions  in telecommunication  networks  or system  failures,  
+our ability  to successfully  complete  and integrate  potential  acquisitions,  liability  for damages  on our service  contracts,  concentration  of major  operations  of the Company  
+in one city, withdrawal  of governmental  fiscal  incentives,  political  instability  and regional  conflicts,  legal  restrictions  on raising  capital  or acquiring  companies  outside  India,  
+and unauthorized  use of our intellectual  property  and general  economic  conditions  affecting  our industry . The Company  may,  from time to time,  make  additional  written  
+and oral forward -looking  statements,  including  statements  contained  in the Company's  filings  with the Stock  Exchanges  and our reports  to shareholders . The Company  
+does  not undertake  to update  any forward -looking  statements  that may be made  from time to time by or on behalf  of the Company .
+=== page 4 ===
+3     © 2024 Persistent SystemsWe are Persistent
+AI-led, Platform -driven Digital Engineering & Enterprise Modernization partner
+$345.5M
+FY25 Q2 Revenue
++18.4% YoY$1,285.1 M
+TTM Revenue
++15.4% YoY14.0%
+EBIT Margin
++22.8% YoY
+$1,394.5M
+TTM ACV Bookings$10.1B*
+Market Capitalization23,237
+Employees
+1 USD = INR 83.72  |  * Market cap as on September 30, 2024
+
+=== page 5 ===
+Our journey over 34+ years infused with Cloud, Data, and AI…
+4     © 2024 Persistent SystemsoCompany inception
+o2000 – Intel IA 64     
+investmentoCategory 
+leadership for  
+outsourced product   
+development
+o2005 – Investment 
+by  Norwest & 
+Gabriel VenturesoOffering expansion 
+to full product 
+lifecycle
+o2010 – Persistent 
+IPO; 93x 
+oversubscribedoCatching the early 
+wave of Digital 
+Transformation
+oEnterprise 
+customer segment 
+expansionoStrong positioning
+as a global Digital   
+Engineering  leader
+oIndustry -leading 
+growth and 
+shareholder value 
+creation1990 – 2001First 
+Orbit
+2001 – 2008Second 
+Orbit
+2008 – 2016Third 
+OrbitFourth  
+Orbit
+2016 – 2019 2019 – 2023Fifth 
+Orbit
+oNew growth vectors 
+at the intersection 
+of industries, tech, 
+and geographies2024 onwardsSixth 
+Orbit
+Our deep -rooted Data and AI capabilities
+oBuilding database 
+indexes and other 
+structuresoPerformance tuning 
+of databases
+oEngineering of 
+reporting & ETL 
+toolsoImplementation & 
+migration services 
+for leading data 
+products
+oEarly venture into 
+big dataoAPI enablement & 
+consumption for 
+data platforms
+oDomain -specific 
+micro -vertical 
+solutions with 
+advanced analyticsoComprehensive 
+data platforms with 
+ecosystem 
+orchestration
+oMachine learning -
+led competency 
+buildingoAIintegrated with 
+our Digital 
+Engineering 
+prowess
+oAI-powered Cloud, 
+Security, and 
+Automation
+=== page 6 ===
+USACanada
+Mexico
+Costa Rica
+South AfricaIrelandUK
+France
+SwitzerlandRomaniaNetherlands
+Germany
+Poland
+India
+Sri LankaMalaysia
+SingaporeJapan
+Australia
+GenAI  Studio
+…powered by  our 23,200+ employees spread across the globe
+5     © 2024 Persistent Systems
+North America
+2,837
+EmployeesEurope
+291
+EmployeesIndia
+19,899
+EmployeesRest of the World
+210
+Employees
+=== page 7 ===
+We are fortifying our Digital Engineering heritage…
+6     © 2024 Persistent Systems
+Software,       
+Hi-Tech 
+&Emerging 
+IndustriesBanking, 
+Financial 
+Services & 
+InsuranceHealthcare 
+& Life 
+Sciences
+Ecosystem 
+Partnerships
+Co-Innovation with 
+Clients
+Validation from 
+Industry Experts
+Data & Artificial IntelligenceProduct & Platform Engineering
+CX & Design -Led Transformation
+Cloud -enabled Enterprise Modernization
+Intelligent AutomationPowered by AI
+Talent
+Readiness
+Unlock
+Growth
+Enable
+Business Agility
+Accelerate
+Time to Market
+Maximize
+Value Creation
+Drive
+Enterprise 
+Simplification
+=== page 8 ===
+…by pivoting to AI-led, platform -driven services approach 
+7     © 2024 Persistent SystemsAI for Technology AI for Business 
+Platform -based Services
+oLeading with Persistent’s Modern 
+Engineering Framework
+oLeveraging AI -driven engineering 
+platform
+oRedefining software development lifecycle 
+with the launch of SASVA 2.0Strategic Big Bets
+oExpanding and strengthening existing AI 
+capabilities
+oBolstering AI -powered contact centers and 
+unified communications
+oScaling digital governance in data privacy, 
+AI governance, and cybersecurityScaling with Ecosystem
+oStrengthening collaboration with alliance 
+partners
+oCo-innovating on industry -specific 
+solutions 
+oDriving value through integrated platforms 
+and shared expertise
+Faster go -to-market and improved quality
+Offering cutting -edge services in product engineering, data, and cloud
+Combining Digital Engineering heritage to unlock AI's limitless potential Developing state -of-the-art generative and deterministic accelerators
+Delivering value to our clients and increasing margin -per-employee
+TM
+=== page 9 ===
+We are advancing our platforms to help clients drive business transformation
+8     © 2024 Persistent SystemsUnveiled SASVA
+  2.0, 
+Revolutionizing AI-Driven 
+Software Development and 
+Business Acceleration
+oLatest version of our flagship AI -powered platform, 
+revolutionizing software engineering with generative and 
+deterministic AI
+oExpands capabilities beyond the traditional Software 
+Development Lifecycle
+oEnd-to-end solution from ideation to post -deployment 
+operations for businesses across industries, driving innovation 
+and enhancing customer experiences
+oBoosts Annual Recurring Revenue (ARR) and Net Revenue 
+Retention (NRR), accelerating time -to-market and maximizing 
+business growth
+Read moreMukesh Dialani
+Research Vice President, IDC“With the increased need for speed and agility 
+in the software engineering services market, 
+the use of GenAI  will be pivotal to improve 
+efficiencies for delivery and throughout the 
+entire software development lifecycle. 
+Persistent’s SASVA platform has the 
+potential to not only impact development 
+effectiveness but also help achieve desired 
+business outcomes. There is tremendous 
+hype around GenAI , but platforms like 
+SASVA stand to deliver tangible results .”
+
+=== page 10 ===
+We are helping market leaders transform their industries
+9     © 2024 Persistent Systems4 of 10
+Top Health Providers 
+& Payors4 of 10
+Top Pharmaceutical
+Companies8 of 10
+Top SIMD*
+ Companies
+ 3 of 5
+Largest Banks
+ in both
+ US & India3 of 5
+Top Global 
+FinTech 
+Companies
+ 7 of 10
+Top Global Technology
+Companies
+As rated by Boston Consulting Group 12 of 30Most Innovative Global CompaniesHealthcare & Life Sciences
+Banking, Financial 
+Services & Insurance
+Software & Hi -Tech
+4 of 10
+Top Clinical Research 
+Organizations
+* Scientific Instruments and Medical Devices
+=== page 11 ===
+aPremier Partner 
+with 2,830+  
+technologists
+1,600+ CertificationsPremier Partner 
+with 1,070+  
+technologists
+2,000+ CertificationsGlobal Summit Partner 
+with 2,100+  
+technologists
+8,750+ CertificationsPlatinum Business 
+Partner with 2,025+  
+technologists
+750+ CertificationsWe are the “Ecosystem Orchestrator of Choice” for our clients
+10     © 2024 Persistent Systems17,650+  Total Certifications
+Gold Partner & Direct 
+CSP with 7,600+  
+technologists
+4,550+ Certifications
+*IBM badges All certification numbers are as per partner portalsOur 360O Strategic Alignment
+As an AI -led 
+Transformation  Partner
+Bringing in platform -led services 
+approachAs an Engineering 
+Partner
+Bringing in deep technical expertise 
+and knowledgeAs a Solutions 
+Partner
+Bringing in customizable solutionsAs a GTM 
+Partner
+Bringing in customer understanding 
+and implementation expertise
+=== page 12 ===
+We continue to build on our long -term growth journey…
+11     © 2024 Persistent Systems127170207238274309352429471 481502566766 1,0361,1861,382
+FY10 FY11 FY12 FY13 FY14 FY15 FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 Q2FY25
+AnnualizedAxis Title
+Axis Title
+17.3
+%
+Revenue CAGR 
+From IPO to FY24
+24.0
+%
+Revenue CAGR 
+between FY20 and FY24Revenue 
+in $M
+*
+* Initial Public Offering
+** 4 times current quarter revenue**
+=== page 13 ===
+…while delivering sustained profitable growth
+12     © 2024 Persistent Systems3.4% 3.9% 3.0% 3.1% 3.0% 3.4% 5.6% 5.3%
+QoQ  Growth % YoY Growth %32.8% 26.3% 17.1% 14.1% 13.7% 13.2% 16.0% 18.4%15.4% 15.4%14.9%
+13.7%14.5% 14.5%14.0% 14.0%
+11.0% 11.2%
+9.9%*10.9%11.5%12.2%
+11.2% 11.2%
+Q3FY23 Q4FY23 Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25
+PAT%
+* In Q1FY24, there was a one -time expense towards client events and employee gifts on account of 
+achieving the $1B revenue milestone, amounting to 1.5% of revenuetY1
+42
+0ll
+eX!
+$264.4 274.6 282.9 291.7 300.6 310.9 328.2 345.5 
+Q3FY23 Q4FY23 Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25Quarterly Revenue ($M), % QoQ  and % YoY Growth EBIT and PAT Margin %
+EBIT%
+=== page 14 ===
+We are witnessing steady performance across our industry segments…
+13     © 2024 Persistent SystemsQuarterly Revenue ($M)
+108.8
+96.2
+20.030.040.050.060.070.080.090.0100.0110.0
+34.8% 29.3% 21.4% 16.3% 11.8% 6.3% 2.4% -0.5% 34.4% 26.0% 15.8% 12.3% 8.8% 7.6% 7.3% 15.3% 25.7% 20.1% 9.4% 11.9% 26.6% 39.3% 66.8% 71.2%
+YoY Growth %Software, Hi -Tech and 
+Emerging Industries
+Banking, Financial 
+Services & Insurance
+Healthcare
+& Life Sciences
+140.5
+=== page 15 ===
+…by expanding our offerings and deepening our client relationships
+14     © 2024 Persistent Systems35.0%37.4%39.6% 39.5% 39.3%40.0%41.5% 41.5%
+Q3FY23 Q4FY23 Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY253434383938404143
+Q3FY23 Q4FY23 Q1FY24 Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25Top 10 clients as % of total revenue >$5M Annual RevenueClient Concentration Large Client Count
+=== page 16 ===
+We have delivered healthy return on capital and equity…
+15     © 2024 Persistent Systems35.4%
+33.2%37.5%
+37.0%
+35.8% 35.7%
+34.7%38.1%
+RoCE = TTM EBIT/Average of Net Assets excluding cash and cash equivalent at the 
+beginning and end of TTM period 24.3%25.1%
+24.8%
+24.7%
+23.8%24.5%
+24.2%24.7%
+RoE = TTM PAT/Average of Net Worth at the beginning and end of TTM period Return on Capital Employed (RoCE) Trend Return on Equity ( RoE) Trend
+=== page 17 ===
+…creating industry -leading, long -term shareholder value
+16     © 2024 Persistent Systems* Stock performance till September 30, 202488.1%
+193.3%
+1812.6%0.9%
+3.6%
+28.9%1 year
+return
+3 year
+return
+5 year
+return
+Share Price Return Div Yield%88%
+32%
+31%
+Sep-23 Dec-23 Mar-24 Jun-24 Sep-24
+Persistent NIFTY IT NIFTY 50Persistent Total Shareholder Return Persistent 1 -Year Stock Performance*
+=== page 18 ===
+We are solidifying our commitment to be a socially responsible organization
+17     © 2024 Persistent Systems
+Persistent Achieves Carbon 
+Neutrality a Year Ahead of Target
+oAchieved carbon neutrality for Scope 1 (direct emissions) 
+and Scope 2 (indirect emissions) across our global 
+operations 
+oUnderscores our commitment to sustainability and role in 
+supporting clients' environmental goals
+oInvestments in renewable energy projects and carbon 
+offset programs aim to reduce emissions and support 
+environmental initiatives
+oGoal to reach net -zero emissions across our value chain 
+by 2050“As the world grapples with the challenges of 
+climate change, businesses playing a 
+proactive role in reducing their carbon footprint 
+are crucial. By prioritizing renewable energy 
+and adopting comprehensive carbon offset 
+programs, Persistent demonstrates 
+dedication to environmental responsibility 
+and long -term sustainability .”
+Sandeep Kumar 
+Mohanty
+Partner, 
+PricewaterhouseCoopers Services LLPRead  more
+
+=== page 19 ===
+18     © 2024 Persistent SystemsGovernance
+oMaintain best -in-class information 
+governance to manage data privacy 
+and security risks
+o100% compliance for code of 
+conduct trainingDiversity
+oBuild a more inclusive 
+workplace by 2028  where people 
+of all genders, ethnicities, sexual 
+orientations, religions, and 
+abilities are represented
+oAchieve 35% women 
+representation by 2030 , with a 
+focus on increasing women in 
+senior management rolesSustainability and inclusivity are embedded in our long -term ESG goals
+Environment
+oMaintain carbon neutrality for 
+scope 1 and 2 emissions; committed 
+to set SBTi -aligned emission 
+reduction targets to achieve net-
+zero by 2050
+o100% of electricity sourced from 
+renewable sourcesSocial Responsibility
+oCommitment to positively 
+impact society through education, 
+community development, and 
+health programs 
+oEncourage inspired action from 
+individuals and groups  through 
+the contribution of time and 
+resources to build a better society
+
+=== page 20 ===
+We are making meaningful impact and earning recognitions
+19     © 2024 Persistent SystemsEnvironment
+44% 
+Electricity sourced from renewable 
+energy in India offices25,000  
+Trees planted, taking the overall 
+count to 121,035 trees28.3%
+Of treated wastewater in owned 
+campuses is used within our 
+facilities99%
+Waste recycled
+Social Responsibility 
+29,927  
+Lives impacted through 
+CSR programs8,118  
+Volunteers participated in 
+ISR activities11,388  
+Hours volunteered in 
+ISR activitiesGovernance
+99% 
+Completion of Code of Conduct training. 
+Enhanced security controls by investing in advance security 
+platforms like CNAAP, Cloud SIEM, etc. 
+No data breaches reported in FY24
+Read our FY24 ESG reportAmong the “ Top 50 India’s 
+Most Sustainable 
+Companies ”
+Diversity
+29.5%
+Women in the workforce12% 
+Women in leadership roles84,383
+Participants in wellbeing initiatives8.2/10
+Employee Satisfaction Score (ESAT) eNPS
+45
+Specially -abled people58
+Nationalities90%
+Employees participating in learning with 72 average learning hours per person
+Note: The achievement figures above have been audited based on FY24 data
+=== page 21 ===
+We are dedicated to highest standards of quality and continuous improvement
+20   © 2024 Persistent SystemsUpgraded to Version 3 of CMMI 
+Maturity Level 5  certification
+This certification retains Persistent in an elite group of industry 
+leaders, following a thorough evaluation across all verticals, including 
+Agile development in Java, Microsoft technologies, and emerging 
+innovations.
+This maturity level signifies :
+oCommitment to data -driven decision -making and continuous 
+process improvements across all services and departments
+oSustainable delivery practices focused on client success, 
+ensuring teams are proactive, efficient, and productive 
+oDedication to adopting advanced technologies that drive 
+meaningful impact, enabling organizations to remain stable, 
+flexible, and responsive to change
+Read more
+
+=== page 22 ===
+Performance 
+Highlights
+21     © 2024 Persistent Systems
+=== page 23 ===
+22   © 2024 Persistent SystemsSandeep Kalra
+Chief Executive Officer and Executive Director“We are proud to announce the 18th sequential quarter of revenue growth, 
+delivering $345.5M revenue, an 18.4% increase year -over-year. In the same 
+period, our PAT grew by 23.4% in rupee terms.  
+This quarter, we continued to strengthen our capabilities and advance our 
+AI-led, platform -driven services strategy. We brought on Starfish Associates 
+to elevate our AI -powered contact center modernization; the addition of 
+Arrka expands our comprehensive offerings in digital governance, including 
+data privacy, AI governance, and cybersecurity. 
+For the second year in a row, we were named a Challenger in the 2024 
+Gartner® Magic Quadrant
+  for Public Cloud IT Transformation Services. 
+We believe this inclusion underscores our differentiated cloud expertise and 
+ability to deliver boutique -style client experiences using AI and automation.
+Deepening our ESG commitment, I am pleased to share that we achieved 
+carbon neutrality ahead of our target. These accomplishments demonstrate 
+our dedication to delivering exceptional value to our clients while positively 
+impacting the environment and society.”
+
+=== page 24 ===
+Q2 FY25: QoQ and YoY Financial Performance
+23     © 2024 Persistent Systems2,632.73,064.23,250.0
+Q2FY24 Q1FY25 Q2FY25PAT (₹ million)
+3,307.73,840.24,062.3
+Q2FY24 Q1FY25 Q2FY25EBIT  (₹ million)291.7328.2345.5
+Q2FY24 Q1FY25 Q2FY25Revenue  ($ million)
+24,116.7 27,371.7 28,971.5 
+Q2FY24 Q1FY25 Q2FY25Revenue  (₹ million)
+13.7% 14.0% 14.0% 10.9% 11.2% 11.2%5.3% QoQ
+ 18.4% YoY
+ 5.8% QoQ
+ 20.1% YoY
+22.8% YoY
+ 23.4% YoY
+Margin % Margin %5.8% QoQ
+ 6.1% QoQ
+
+=== page 25 ===
+Q2 FY25: TCV and ACV Bookings
+521.4
+447.7462.8529.0
+Q3FY24 Q4FY24 Q1FY25 Q2FY25Trailing Twelve Month TCV*
+277.4302.0310.8389.8
+ Q3FY24 Q4FY24 Q1FY25 Q2FY25Trailing Twelve Month TCV (New)
+392.1 
+316.8 337.3348.3
+ Q3FY24  Q4FY24  Q1FY25  Q2FY25Trailing  Twelve  Month  ACV*
+182.9 184.5 198.1 218.6
+Q3FY24 Q4FY24 Q1FY25 Q2FY25Trailing Twelve Month ACV  (New)$1,280.0M
+$1,394.5M $784.1M$1,960.9M
+*Includes renewals & new bookings
+24     © 2024 Persistent Systems
+=== page 26 ===
+Q2 FY25: Trailing Twelve Months Performance (TTM)
+1,113.5 1,285.1
+TTM Q2FY24 TTM Q2FY25Revenue  ($ million)
+91,566.9107,230.6
+TTM Q2FY24 TTM Q2FY25Revenue  (₹ million)
+13,571.7 15,278.0 
+ TTM Q2FY24  TTM Q2FY25EBIT  (₹ million)
+9,815.0 12,328.7 
+TTM Q2FY24 TTM Q2FY25PAT (₹ million)15.4%
+ 17.1%
+12.6%
+14.8% 10.7% 11.5% 14.2% Margin % Margin %25.6%
+25     © 2024 Persistent Systems
+=== page 27 ===
+Q2 FY25: Key Wins
+26     © 2024 Persistent SystemsBanking, Financial 
+Services & InsuranceHealthcare
+& Life SciencesSoftware, Hi -Tech & 
+Emerging Industries
+Enhancing the roadmap of product 
+engineering and data engineering of the core 
+application performance monitoring and 
+observability platforms  for a leading 
+observability platform provider
+Setting up a global technology center for 
+product engineering, customer support, and 
+professional services to accelerate product 
+roadmap and enhance productivity for a 
+leading US -based cybersecurity company
+Standardizing data management with a 
+state -of-the-art data lake to improve 
+utilization, predict stock, and reduce food 
+waste for a global leader in food services 
+and facilities managementModernizing cloud -based accounting 
+software platform and report generation 
+capabilities to improve user experience and 
+business efficiency  for one of the largest 
+US-based fintech companies 
+Transforming and integrating front -office and 
+regulatory technologies into a unified 
+framework to reduce technical debt, 
+enhance efficiency, and improve user 
+experience for a large global financial 
+conglomerate
+Accelerating go -to-market and upgrading 
+technology stack with SASVA
+  to scale 
+flagship pricing and profitability 
+management products  for a leading 
+financial analytics firmEstablishing an AI-enabled software 
+engineering hub and modernizing IT 
+infrastructure  for a PE -led carve -out of a 
+leading life sciences and scientific 
+instrumentation company
+Accelerating the transition of the core 
+research and development center  to India 
+securely and effectively for a leading US -
+based precision medicine and omics analytics 
+provider
+Developing core applications to streamline 
+customer onboarding, device 
+management, report management , and 
+CRM integration for a leading UK -based 
+organ transplant device manufacturer
+=== page 28 ===
+Notable News and 
+Achievements
+27     © 2024 Persistent Systems
+=== page 29 ===
+Our CEO and Executive Director was honored for his visionary leadership
+28     © 2024 Persistent Systems
+Sandeep Kalra Named the Best CEO 
+in the IT Services (Emerging 
+Companies) Category by Fortune 
+India
+Sandeep was recognized for :
+oFocusing on technology and reorganization of the Company into 
+clearly defined verticals
+oDriving new initiatives, increasing shareholder value and returns
+oDoubling down on go -to-market strategy to deliver industry -
+beating growth
+oStanding out among peers in outsourced product development as 
+well as application development
+Read more
+=== page 30 ===
+Launched the T100 Program: Investing in sustainable growth
+29     © 2024 Persistent Systems
+Talent Amplification
+Cultivating a high -caliber workforce to drive premium services and 
+expand mind shareValue Maximization
+Leveraging our core strengths to enhance client ROI and foster 
+long-term partnerships
+AI-Driven Innovation
+Deploying cutting -edge AI and platform solutions to create 
+differentiated, high -impact servicesEcosystem Leadership
+Positioning as a key orchestrator of choice in the partner ecosystem 
+to bring disruptive value to clientsUnleashing the next wave of growth from Top 100 clients
+=== page 31 ===
+We strengthened our digital governance and data privacy offerings
+30     © 2024 Persistent SystemsPersistent Advances Data 
+Privacy and AI-Driven 
+Business Transformation 
+with the Acquisition of Arrka
+oEnhances AI -led, platform -driven services capability 
+and strengthens digital governance expertise, including 
+data privacy, AI governance, and cybersecurity 
+oArrka’s  Data Privacy Management platform manages 
+data privacy risks and complies with multi -jurisdictional 
+legal and regulatory requirements
+oWe will integrate and significantly broaden Arrka’s  
+offerings to establish deep capabilities in digital 
+governance and trust“As customers accelerate their adoption of AI, the urgency to 
+address data privacy and compliance challenges has never 
+been greater. Persistent’s acquisition of Arrka  strengthens its 
+AI-led, platform -first approach, empowering customers to 
+confidently pursue their business goals while tackling 
+these critical security concerns head -on.”
+Read more
+Chirag Mehta
+Vice President and Principal Analyst, Constellation Research“With the strength and resources of Persistent, we now have the 
+opportunity to go from what has been a specialist, boutique 
+business working with select long -term clients in India, to 
+expanding our footprint into global markets and deepening 
+our expertise rapidly in multiple areas of digital 
+governance… The Arrka team is excited by the 
+opportunities ahead. ”
+Shivangi Nadkarni
+Co-Founder, Arrka
+
+=== page 32 ===
+We advanced our multi -cloud services to cater to evolving client needs
+A Challenger for the Second Year in a 
+Row in the Gartner® 2024 Magic 
+Quadrant
+  for Public Cloud IT 
+Transformation Services
+We believe this recognition highlights Persistent’s :
+oDifferentiated cloud expertise , including consulting, application 
+development, migration, cybersecurity, and automation capabilities
+oStrategic use of AI and automation  stack drive rapid time to value 
+for clients and practitioner -led engagement model
+oExpanding strategic partnerships with leading hyperscalers  as the 
+ecosystem orchestrator of choice for our clients
+oAbility to provide personalized, boutique -style client experiences
+oDigital Engineering heritage empowers clients to accelerate 
+innovation at scale  and undertake complex transformations  using 
+industry -specific templates
+Read more
+31     © 2024 Persistent Systems
+Source : Gartner®, “Magic Quadrant
+  for Public Cloud IT Transformation Services, Mark Ray et al., 5 August 2024
+This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of t he entire document. The Gartner document is available upon request from Persistent .
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, an d MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All right s reserved.
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology  users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as 
+statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warr anties of merchantability or fitness for a particular purpose. The Gartner content described herein (the “Gartner Content”) repr esents research opinion or viewpoints published, as part of a syndicated 
+subscription service, by Gartner, Inc. ("Gartner"), and is not a representation of fact. Gartner Content speaks as of its ori ginal publication date (and not as of the date of investor deck), and the opinions expressed in the Gartner Content are subject to change without notice.
+=== page 33 ===
+We were recognized for our expertise in Google Cloud ecosystem
+Named a Leader for the Second 
+Consecutive Year in ISG Provider 
+Lens
+  for Google Cloud Ecosystem 
+Partner 2024 Report
+Persistent was acknowledged for:
+oRobust services portfolio offering a full range of implementation 
+and integration services
+oQualified and experienced professionals who have been 
+instrumental in numerous infrastructure migration and modernization 
+initiatives for clients across industries
+oAutomated cloud environment provisioning  that streamlines the 
+implementation by automating cloud setup processes
+Read more
+32     © 2024 Persistent Systems
+“Persistent Systems' expertise in secure cloud 
+infrastructures, managed services and data -driven 
+industry -specific solutions, armed with new Google Cloud 
+specializations, delivers comprehensive data and 
+analytics solutions with a steadfast focus on 
+compliance and data security .”
+Ashwin Gaidhani
+Research Partner & Lead Analyst, ISG
+=== page 34 ===
+Persistent has been included in 
+4 Constellation ShortList
+  2024  for:
+oPublic Cloud Transformation Services  - demonstrating our 
+expertise in helping clients bring together complex cloud migrations 
+for three years in a row
+oAI Services  - affirming our ability to enable clients to design, build, 
+train, manage, and operate AI capabilities for the second 
+consecutive year
+oCustom Software Development Services  - showcasing our 
+prowess to craft bespoke solutions that perfectly align with clients’ 
+unique processes, workflows, and security requirements
+oCustomer Experience (CX) Operations Services  - underscoring 
+our ability to empower clients to implement the infrastructure and 
+operational capabilities required to provide consistently good 
+customer experiencesWe were commended for our services by leading research and advisory firm
+33     © 2024 Persistent Systems
+R “Ray” Wang
+Founder, Chairman and Principal Analyst,  Constellation Research Inc.
+“Constellation Research advises leaders on leveraging 
+disruptive technologies to achieve business model 
+transformation and streamline business processes. 
+Products and services named to the Constellation 
+ShortList  meet the threshold criteria for this category as 
+determined through client inquiries, partner conversations, 
+customer references, vendor selection projects, market 
+share, and internal research.”
+=== page 35 ===
+Our comprehensive BFSI value chain capabilities are driving client growth
+34     © 2024 Persistent Systems
+Named a Leader in Everest Group’s BFSI -
+specific Software Product Engineering 
+Services PEAK Matrix® Assessment 2024
+Mayank Maria
+Vice President,  Everest Group“The firm has cemented its leadership through an end -to-end 
+services play and a comprehensive partner network. Its 
+investments in developing dedicated offerings for Private 
+Equity firms and a robust BFSI -specific IP suite – covering 
+underwriting, digital banking, payment automation, claims 
+processing, etc. – have further strengthened its 
+capabilities and growth in the BFSI space .”Persistent was commended for :
+oRobust IP solutions and COEs focused on cloud, AI/ML, blockchain, 
+data and analytics, and automation
+oDedicated investments in building verticalized solutions across 
+BFSI, including underwriting, claims and loan process automation, 
+and digital banking
+oStrong partnerships with hyperscalers, data and analytics partners, 
+and enterprise technology providers
+oTailored offerings for PE firms , including technology due diligence, 
+data management, and business intelligence reporting
+oClient appreciate the Company’s domain expertise, talent 
+upskilling initiatives, and proactive approach  to innovation
+Read more
+=== page 36 ===
+We were cited as the fastest -growing Indian IT services brand with 327% growth
+David Haigh
+Chairman and Chief Executive Officer, Brand Finance“The company consistently scores high in employee 
+equity, reflecting its people -centric culture, and excels in 
+revenue growth, service delivery perception, and brand -
+building. These accomplishments demonstrate 
+Persistent’s  alignment with client needs and its 
+adaptability to the dynamic market needs. ”
+35     © 2024 Persistent SystemsLiz Miller
+Vice President and Principal Analyst, Constellation Research
+“But Persistent’s growth hasn’t been limited to growth in 
+opportunities, customers, or revenue: Persistent’s 
+brand positioning and strategic marketing initiatives 
+have also advanced and is reflected in Brand 
+Finance’s review of the enterprise services space .”
+Read more
+
+=== page 37 ===
+Financial Details
+36     © 2024 Persistent Systems
+=== page 38 ===
+Sequential Q2 FY25 vs Q1 FY25
+37     © 2024 Persistent SystemsParticulars ( ₹ M, unless otherwise stated) Q2FY25 Q1FY25 Change QoQ% of Sales
+Q2FY25% of Sales
+Q1FY25
+Revenue ($ M) 345.5 328.2 5.3%
+Avg. Exchange Rate ₹ / US$ 83.9 83.4 0.5%
+Revenue 28,971.5 27,371.7 5.8%
+Total Direct costs 19,294.0  18,328.7 5.3% 66.6% 67.0%
+Gross Profit 9,677.5 9,043.0 7.0% 33.4% 33.0%
+Sales & Marketing Expenses 2,386.5 2,332.6 2.3% 8.2% 8.5%
+Admin & Other Expenses 2,483.8 2,158.4 15.1% 8.6% 7.9%
+Total SGA 4,870.3 4,490.9 8.4% 16.8% 16.4%
+EBITDA 4,807.3 4,552.1 5.6% 16.6% 16.6%
+Depreciation 226.9 211.5 7.3% 0.8% 0.8%
+Amortization 518.1 500.5 3.5% 1.8% 1.8%
+EBIT 4,062.3 3,840.2 5.8% 14.0% 14.0%
+Other Income / (Loss)  176.9 172.5 2.5% 0.6% 0.6%
+Exchange Gain/(Loss) 106.0 (7.3) 1559.6% 0.4% 0.0%
+PBT 4,345.2 4,005.4 8.5% 15.0% 14.6%
+Tax 1,095.2 941.3 16.4% 3.8% 3.4%
+PAT 3,250.0 3,064.2 6.1% 11.2% 11.2%
+EPS (₹) 21.2 20.1         5.5%   
+=== page 39 ===
+YoY Comparison Q2 FY25 vs Q2 FY24
+38     © 2024 Persistent SystemsParticulars (₹ M, unless otherwise stated) Q2FY25 Q2FY24 Change YoY% of Sales
+Q2FY25% of Sales
+Q2FY24
+Revenue ($ M) 345.5 291.7 18.4%
+Avg. Exchange Rate ₹ / US$ 83.9 82.7 1.4%
+Revenue ( ₹ M) 28,971.5 24,116.7 20.1%
+Total Direct costs 19,294.0  16,127.2 19.6% 66.6% 66.9%
+Gross Profit 9,677.5 7,989.5 21.1% 33.4% 33.1%
+Sales & Marketing Expenses 2,386.5 2,038.1 17.1% 8.2% 8.5%
+Admin & Other Expenses 2,483.8 1,899.8 30.7% 8.6% 7.9%
+Total SGA 4,870.3 3,937.9 23.7% 16.8% 16.3%
+EBITDA 4,807.3 4,051.6 18.7% 16.6% 16.8%
+Depreciation 226.9 297.1 -23.6% 0.8% 1.2%
+Amortization 518.1 446.9 15.9% 1.8% 1.9%
+EBIT 4,062.3 3,307.7 22.8% 14.0% 13.7%
+Other Income / (Loss)  176.9 166.3 6.4% 0.6% 0.7%
+Exchange Gain/(Loss) 106.0 83.7 26.6% 0.4% 0.3%
+PBT 4,345.2 3,557.6 22.1% 15.0% 14.8%
+Tax 1,095.2 925.0 18.4% 3.8% 3.8%
+PAT 3,250.0 2,632.7 23.4% 11.2% 10.9%
+EPS (₹) 21.2 17.9 18.3%
+=== page 40 ===
+YoY Comparison H1 FY25 vs H1 FY24
+39     © 2024 Persistent SystemsParticulars (₹ M, unless otherwise stated) H1FY25 H1FY24 Change YoY% of Sales
+H1FY25% of Sales
+H1FY24
+Revenue ($ M) 673.7 574.6 17.2%
+Avg. Exchange Rate ₹ / US$ 83.6 82.4 1.5%
+Revenue ( ₹ M) 56,343.2 47,328.5 19.0%
+Total Direct costs 37,622.6 31,405.7 19.8% 66.8% 66.4%
+Gross Profit 18,720.6 15,922.8 17.6% 33.2% 33.6%
+Sales & Marketing Expenses 4,719.0 3,914.6 20.6% 8.4% 8.3%
+Admin & Other Expenses 4,642.1 3,727.2 24.5% 8.2% 7.9%
+Total SGA 9,361.2 7,641.7 22.5% 16.6% 16.1%
+EBITDA 9,359.4 8,281.1 13.0% 16.6% 17.5%
+Depreciation 438.4 584.7 -25.0% 0.8% 1.2%
+Amortization 1,018.5 922.6 10.4% 1.8% 1.9%
+EBIT 7,902.5 6,773.8 16.7% 14.0% 14.3%
+$1B celebration expenses (486.2) NA 0.0% -1.0%
+Other Income / (Loss)  349.4 320.9 8.9% 0.6% 0.7%
+Exchange Gain/(Loss) 98.7 19.6 403.4% 0.2% 0.0%
+PBT 8,350.6 6,628.1 26.0% 14.8% 14.0%
+Tax 2,036.5 1,707.8 19.2% 3.6% 3.6%
+PAT 6,314.1 4,920.4 28.3% 11.2% 10.4%
+EPS (₹) 41.3 32.8 26.0%
+=== page 41 ===
+Balance Sheet 
+40     © 2024 Persistent SystemsParticulars (₹ M)As on 
+September 30, 2024As on 
+March 31, 2024As on 
+September 30, 2023
+Assets
+PPE and Intangible Assets 24,879.8 22,550.0 23,077.5
+Non-Current Assets 4,243.9 4,300.8 3,489.3
+Cash and Investments 17,916.2 18,609.0 15,682.9
+Other Current Assets 35,750.4 28,613.5 26,189.4
+Total 82,790.2 74,073.2 68,439.1
+Equity and Liabilities
+Equity 55,643.2 49,577.1 44,186.6
+Non-Current Liabilities 2,897.9 2,317.4 3,065.7
+Current Liabilities 24,249.2 22,178.7 21,186.8
+Total 82,790.2 74,073.2 68,439.1
+=== page 42 ===
+Fact Sheet
+41     © 2024 Persistent Systems
+=== page 43 ===
+Fact Sheet
+42     © 2024 Persistent SystemsRevenueQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+Revenue from Operations, $M 345.5 328.2 310.9 300.6 291.7 1,186.0 1,036.0 
+% QoQ  growth 5.3% 5.6% 3.4% 3.0% 3.1%
+% QoQ  growth (constant currency) 5.1% 5.6% 3.4% 3.1% 3.2%
+% YoY growth 18.4% 16.0% 13.2% 13.7% 14.1% 14.5% 35.3%
+Revenue from Operations, ₹M 28,972 27,372 25,905 24,982 24,117 98,216 83,506 
+% QoQ  growth 5.8% 5.7% 3.7% 3.6% 3.9%
+% YoY growth 20.1% 17.9% 14.9% 15.2% 17.7% 17.6% 46.2%
+DSOQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+Days (Billed) 68 67 63 66 66 63 68
+Days (Unbilled) 24 25 21 21 21 21 17
+=== page 44 ===
+Fact Sheet
+43     © 2024 Persistent SystemsGeography 
+Revenue MixQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+North America 81.3% 80.7% 80.1% 79.7% 79.2% 79.6% 78.0%
+Europe 7.9% 7.8% 7.8% 8.9% 9.5% 9.0% 9.0%
+India 9.2% 9.8% 10.1% 10.0% 9.7% 9.9% 11.3%
+ROW 1.6% 1.7% 2.0% 1.4% 1.6% 1.5% 1.7%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%Segment 
+Revenue MixQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+BFSI 31.5% 30.8% 30.7% 31.2% 32.3% 31.9% 32.9%
+Healthcare & Life Sciences 27.8% 26.7% 24.2% 21.8% 19.3% 21.0% 19.7%
+Software, Hi -Tech & Emerging 
+Industries40.7% 42.5% 45.1% 47.0% 48.4% 47.1% 47.4%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+=== page 45 ===
+Fact Sheet
+44     © 2024 Persistent SystemsRevenue 
+ConcentrationQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+Top 5 31.4% 30.7% 29.2% 28.0% 28.3% 27.7% 27.0%
+Top 10 41.5% 41.5% 40.0% 39.3% 39.5% 39.0% 36.7%
+Top 20 52.1% 51.9% 51.1% 51.4% 50.6% 50.1% 47.8%
+Top 50 67.9% 67.8% 67.3% 66.7% 66.5% 64.9% 62.9%Active 
+ClientsQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+Clients Billed* 379 374 382 375 375 390 358 
+*Clients with annualized revenue of more than $250KClient 
+Engagement  
+SizeQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+$75M+ 3 3 2 2 2 2 2
+$50M – $75M 1 1 1 - - 1 -
+$20M – $50M 6 6 7 9 7 7 7
+$10M – $20M 11 9 7 5 7 7 8
+$5M – $10M 22 22 23 22 23 23 17
+$1M – $5M 141 137 138 138 136 138 126
+Total $1M+ 184 178 178 175 178 178 160
+=== page 46 ===
+Fact Sheet
+People 
+NumbersQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+Technical 21,675 21,866 22,224 21,738 21,263 22,224 21,295 
+Sales and Business Development 492 510 484 465 443 484 414 
+Others 1,070 1,143 1,142 1,133 1,136 1,142 1,180 
+Total 23,237 23,519 23,850 23,336 22,842 23,850 22,889 
+Effort MixQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+Global Delivery Centers 15.8% 15.2% 14.8% 13.8% 12.7% 13.6% 14.1%
+India 84.2% 84.8% 85.2% 86.2% 87.3% 86.4% 85.9%
+Attrition 
+RateQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+TTM Basis 12.0% 11.9% 11.5% 11.9% 13.5% 11.5% 19.8%UtilizationQ2FY25 Q1FY25 Q4FY24 Q3FY24 Q2FY24 FY24 FY23
+Including Trainees 84.8% 82.1% 80.0% 81.5% 80.6% 80.1% 78.5%
+45     © 2024 Persistent Systems
+=== page 47 ===
+Resilient and
+Future -Ready
+The Persistent Way

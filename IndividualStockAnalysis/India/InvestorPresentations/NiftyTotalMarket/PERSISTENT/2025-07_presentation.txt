@@ -1,0 +1,885 @@
+
+=== page 1 ===
+ 
+ 
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411  016, Maharashtra, India    
+CIN - L72300PN1990PLC 056696  
+Tel:  +91 (20) 670 3 5555  | Fax  - +91 (20) 6703 6003  | E-mail - info@persistent.com | Website  - www.persistent.com  
+NSE & BSE / 202 5-26 / 096 
+ 
+July 23, 202 5 
+ 
+The Manager  
+Corporate Services,  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (E), Mumbai 400 051  
+ 
+Ref: Symbol: PERSISTENT  The Manager  
+Corporate Services,  
+BSE Limited  
+P J Towers, Dalal Street,  
+Mumbai 400 001  
+ 
+Ref: Scrip Code: 533179  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Fact Sheet – Consolidated Financial Data – for the quarter  ended June 30, 202 5 
+Ref.:  Our earlier intimation under reference no. NSE & BSE / 2025 -26 / 084  dated  
+July 3, 2025  
+ 
+In terms of Regulation 30 read with Schedule Ill (Part A) (15)  of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, the fact sheet of the Consolidated Financial Data 
+for the quarter  ended  June  30, 202 5, is enclosed to this letter.  
+ 
+The Company has scheduled an investor/analyst  call on  Wednesday , July 23, 202 5, at 7.00 P.M. 
+IST. During this call, the Management will comment on the financial results for the quarter  ended 
+June  30, 2025, as well as on the business outlook.  The details of the  said investor call are 
+available on the website of the Company.  
+ 
+Please acknowledge the receipt.  
+ 
+Thanking you,  
+ 
+Yours Sincerely,  
+For Persistent Systems Limited  
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.: A20507  
+ 
+Encl: As above  
+ 
+ 
+ 
+ 
+=== page 2 ===
+© 2025 Persistent SystemsInvestor
+Presentation
+July 2025
+=== page 3 ===
+Forward -looking and Cautionary Statements
+2     © 2025 Persistent SystemsCertain  statements  in this Presentation  concerning  our future  growth  prospects  are forward -looking  statements,  which  involve  a number  of risks and uncertainties  that 
+could  cause  actual  results  to differ  materially  from those  in such  forward -looking  statements . The risks and uncertainties  relating  to these  statements  include,  but are not 
+limited  to, risks and uncertainties  regarding  fluctuations  in earnings,  our ability  to manage  growth,  intense  competition  in IT services  including  those  factors  which  may 
+affect  our cost advantage,  our revenues  highly  dependent  on customers  located  in the United  States,  wage  increases  in India,  our ability  to attract  and retain  highly  skilled  
+professionals,  time and cost overruns  on fixed -price,  fixed -time frame  contracts,  client  concentration,  restrictions  on immigration,  industry  segment  concentration,  our 
+ability  to manage  our international  operations,  reduced  demand  for technology  in our key focus  areas,  disruptions  in telecommunication  networks  or system  failures,  our 
+ability  to successfully  complete  and integrate  potential  acquisitions,  liability  for damages  on our service  contracts,  concentration  of major  operations  of the Company  in one 
+city, withdrawal  of governmental  fiscal  incentives,  political  instability  and regional  conflicts,  legal  restrictions  on raising  capital  or acquiring  companies  outside  India,  and 
+unauthorized  use of our intellectual  property  and general  economic  conditions  affecting  our industry . The Company  may,  from time to time,  make  additional  written  and 
+oral forward -looking  statements,  including  statements  contained  in the Company's  filings  with the Stock  Exchanges  and our reports  to shareholders . The Company  does  
+not undertake  to update  any forward -looking  statements  that may be made  from time to time by or on behalf  of the Company .
+=== page 4 ===
+3     © 2025 Persistent SystemsWe are Persistent
+AI-led, Platform -driven Digital Engineering & Enterprise Modernization partner
+1 USD = INR 85.74  |  * Market cap as on June 30, 202515.5%
+EBIT Margin
++34.8% YoY
+$1,470.7 M
+TTM Revenue
++19.4% YoY$1,512.1M
+TTM ACV Bookings$10.9B*
+Market Capitalization$389.7M
+FY26 Q1 Revenue
++18.8% YoY12.7%
+PAT Margin
++38.7% YoY
+=== page 5 ===
+Our journey over 35+ years has been shaped with Cloud, Data, and AI…
+4     © 2025 Persistent SystemsoPivot to AI -led, platform -
+driven services strategy
+oNew growth vectors at the 
+intersection of industries, 
+tech, and geographies
+oEnhanced focus on 
+outcome -based models
+oAgenti c AI-driven solutions 
+for enterprises2024 onwardsSixth  
+Orbit
+oCompany inception
+oBuilt database 
+indexes and other 
+structuresoCategory 
+leadership for  
+outsourced 
+product   
+development
+o2005 : Investment 
+by  Norwest & 
+Gabriel VenturesoOffering 
+expansion to full 
+product lifecycle
+o2010: Persistent 
+IPO; 93x 
+oversubscribed
+oEarly venture into 
+big dataoCaught the early 
+wave of Digital 
+Transformation
+oEnterprise 
+customer segment 
+expansion
+oDomain -specific 
+micro -vertical 
+solutions with 
+advanced analyticsoStrong 
+positioning
+as a global Digital   
+Engineering  
+leader
+oIndustry -leading 
+growth and 
+shareholder value 
+creation
+oComprehensive 
+data platforms 
+with ecosystem 
+orchestration1990 – 2001First 
+Orbit2001 – 2008Second 
+Orbit 2008 – 2016Third 
+OrbitFourth  
+Orbit
+2016 – 20192019 – 2023Fifth 
+Orbit
+=== page 6 ===
+…powered by  our 25,000+ employees spread across the globe…
+5     © 2025 Persistent SystemsCanada
+USA
+Mexico
+Costa Rica
+South AfricaJapan
+AustraliaSingaporeMalaysiaIndia
+France
+SwitzerlandIrelandUKNetherlands
+Germany
+Poland
+Romania
+GenAI  Studio
+North America
+3,029
+EmployeesEurope
+280
+EmployeesIndia
+21,820
+EmployeesRest of the World
+211
+Employees
+=== page 7 ===
+…and built on our Digital Engineering heritage
+6     © 2025 Persistent SystemsSoftware, Hi -Tech 
+&Emerging 
+IndustriesBanking, Financial 
+Services & 
+InsuranceHealthcare 
+& Life 
+Sciences
+Ecosystem 
+Partnerships
+Co-Innovation with 
+Clients
+Validation from 
+Industry Experts
+CX & Design -Led TransformationProduct & Platform Engineering
+Data & Artificial Intelligence
+Cloud -enabled Enterprise Modernization
+Intelligent AutomationPowered by AI
+Talent
+Readiness
+Unlock
+Growth
+Enable
+Business Agility
+Accelerate
+Time to Market
+Maximize
+Value Creation
+Drive
+Enterprise 
+Simplification
+
+=== page 8 ===
+We are helping market leaders transform their industries
+7     © 2025 Persistent Systems20 of Fortune 50 companiesSoftware & Hi -Tech
+Healthcare & Life SciencesBanking, Financial Services & Insurance
+5 of 5
+Top Technology
+Companies4 of 5
+Top Banks
+ (in both US & India)3 of 5
+Top
+FinTech Companies
+2 of 5
+Top Health Providers 
+& Payors3 of 5
+Top Pharmaceutical
+Companies3 of 5
+Top SIMD*
+ Companies4 of 5
+Top Clinical Research 
+Organizations
+* Scientific Instruments and 
+Medical Devices
+
+=== page 9 ===
+We continue to build on our long -term growth journey…
+8    © 2025 Persistent Systems127170207238274309352429471 481502566766 1,0361,1861,4091,559 
+FY10 FY11 FY12 FY13 FY14 FY15 FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 Q1FY26Axis Title
+17.4
+%
+Revenue CAGR 
+From IPO to FY25
+25.6
+%
+4
+-
+Year Revenue CAGR 
+between FY21 and FY25Revenue 
+in $M
+Initial Public 
+Offering 33.7% 21.8% 14.7% 15.2% 12.6% 14.0% 22.0% 9.7% 2.2% 4.3% 12.9% 35.2% 35.3% 14.5% 18.8%
+YoY Growth %Annualized
+(Q1 FY26 x 4)
+=== page 10 ===
+…with sequential revenue growth over the last 21 quarters…
+9     © 2025 Persistent Systems131.0 136.1146.2152.8166.8182.3199.1217.3241.5255.6264.4274.6282.9291.7300.6310.9328.2345.5360.2375.2389.7
+Q1
+FY21Q2
+FY21Q3
+FY21Q4
+FY21Q1
+FY22Q2
+FY22Q3
+FY22Q4
+FY22Q1
+FY23Q2
+FY23Q3
+FY23Q4
+FY23Q1
+FY24Q2
+FY24Q3
+FY24Q4
+FY24Q1
+FY25Q2
+FY25Q3
+FY25Q4
+FY25Q1
+FY26
+QoQ Growth %3.1% 3.9% 7.4% 4.6% 9.2% 9.3% 9.2% 9.1% 11.1% 5.8% 3.4% 3.9% 3.0% 3.1% 3.0% 3.4% 5.6% 5.3% 4.3% 4.2% 3.9%
+9.5% 8.4% 12.9% 20.3% 27.3% 34.0% 36.2% 42.2% 44.8% 40.2% 32.8% 26.3% 17.1% 14.1% 13.7% 13.2% 16.0% 18.4% 19.9% 20.7% 18.8%
+YoY Growth %Revenue 
+in $M
+=== page 11 ===
+…while delivering sustained, profitable growth
+10     © 2025 Persistent Systems3.1% 3.0% 3.4% 5.6% 5.3% 4.3% 4.2% 3.9%
+QoQ Growth % YoY Growth %14.1% 13.7% 13.2% 16.0% 18.4% 19.9% 20.7% 18.8%13.7%14.5% 14.5%14.0% 14.0%14.9%15.6% 15.5%
+10.9%11.5%12.2%
+11.2% 11.2%12.2% 12.2%12.7%
+Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY26
+PAT%tY1
+42
+0ll
+eX!
+$291.7 300.6 310.9 328.2 345.5 360.2 375.2 389.7 
+Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY26Quarterly Revenue ($M), % QoQ and % YoY Growth EBIT and PAT Margin %
+EBIT%
+=== page 12 ===
+11     © 2025 Persistent Systems132.298.5
+20.030.040.050.060.070.080.090.0100.0110.0
+16.3% 11.8% 6.3% 2.4% -0.5% 3.2% 9.7% 14.1% 12.3% 8.8% 7.6% 7.3% 15.3% 22.0% 26.6% 30.7% 11.9% 26.6% 39.3% 66.8% 71.2% 52.6% 33.6% 12.4%
+YoY Growth %Software, Hi -Tech & 
+Emerging Industries
+Banking, Financial 
+Services & Insurance
+Healthcare
+& Life Sciences
+159.0Quarterly Revenue ($M)We are witnessing steady performance across all industry segments…
+=== page 13 ===
+…by expanding our offerings and deepening our client relationships…
+12     © 2025 Persistent Systems39.5% 39.3%40.0%41.5% 41.5%
+40.0%42.2% 42.0%
+Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY263938404143475556
+Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY26Top 10 clients as % of total revenue >$5M Annual RevenueClient Concentration Large Client Count
+=== page 14 ===
+38.7% 38.1% 38.1%39.7%43.8%
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26…backed by disciplined execution and efficient capital utilization…
+13     © 2025 Persistent Systems49.3%80.7% 84.4%105.3%98.6%
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY2667 686458 5692 92868176
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1FY26
+Days Billed          Incl. Unbilled
+24.2%24.7%24.1%24.8% 24.7%
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26
+ROCE = TTM EBIT/Average of Net Assets excluding cash and cash equivalent 
+at the beginning and end of TTM period ROE = TTM PAT/Average of Net Worth at the beginning and end of TTM period Operating Cash Flow (OCF) to PAT% Days Sales Outstanding (DSO) 
+Return On Capital Employed (ROCE)% Return On Equity (ROE)%
+=== page 15 ===
+…resulting in industry -leading, long -term shareholder value
+14     © 2025 Persistent SystemsStock performance till June  30, 2025Persistent Total Shareholder Return Persistent 1 -Year Stock Performance
+Jun-24 Sep-24 Dec-24 Mar-25 Jun-25
+Persistent NIFTY IT NIFTY 5042.6%
+7.7%
+6.2%42.6%
+255.7%
+1805.2%0.7%
+4.5%
+30.9%1 year
+return
+3 year
+return
+5 year
+return
+Share Price Return Div Yield%
+=== page 16 ===
+Solutions Partner in 5 areas* 
+6,900+ CertificationsPremier Partner 
+2,150+ CertificationsPremier Partner 
+1,950+ CertificationsGlobal Summit Partner 
+11,050+ Certifications
+Platinum Partner
+1,050+ Certifications**Premier Partner
+170+ CertificationsSelect Partner
+200+ CertificationsWe are the “Ecosystem Orchestrator of Choice” for our customers
+15     © 2025 Persistent Systems
+4,500+ AI/ML/GenAI External Certifications
+**IBM badges All certification numbers are as per partner portals *Infrastructure, Data & AI, Digital & App Innovation, Security, Modern Work
+23,470+  Partner Certifications
+=== page 17 ===
+We are advancing our AI -led, platform -driven services strategy … 
+16     © 2025 Persistent SystemsBuilt on foundation of Responsible AI, Security, and Governance
+Platform -based Services
+oSASVA
+ : AI-based software development and data 
+lifecycle platform
+oiAURA : 30+ agents across industries in process and 
+document intelligenceStrategic Big Bets
+oExpanding and strengthening existing AI capabilities
+oDomain -driven capabilities for industry -specific Agentic AI -led 
+transformation
+Scaling with Ecosystem Partners
+oStrengthening collaboration and co -creating technology -specific 
+agents 
+oDriving value through integrated platforms and shared expertiseAI for Technology AI for Business 
+Digital Trust
+
+=== page 18 ===
+…by scaling our IPs, setting new benchmarks in AI -driven innovation…
+17     © 2025 Persistent SystemsFiled for 55+ patents in core and emerging AI technologiesTM
+Autonomous Agents and Security
+Security -first agentic workflows and protection for autonomous 
+systems through dynamic policy enforcementEnterprise Optimization and Cost Management
+Cost-effective AI implementation along with ongoing predictable 
+maintenance. Automated efficiency analysis & recommendationsAI Infrastructure and Orchestration
+Core AI infrastructure, model orchestration, and intelligent routing 
+systems with multi -model coordination and consensus mechanismsData Intelligence and Analytics
+Advanced data analytics, intelligence correlation, insight generation, 
+and predictive analytics for business metrics
+=== page 19 ===
+Re(AI)magining
+  Enterprise Transformation
+Curated Ecosystem of AI Platforms and Tools for Enterprise InnovationMaximize Engineering Productivity
+Accelerate end -to-end software delivery with AI -driven 
+development and Managed AI Services for greater efficiency 
+and scaleDeliver Transformative Solutions 
+AI-first, industry -specific , cross -functional solutions to streamline workflows  and drive business impact
+Drive Enterprise Data Readiness
+Establish a secure, AI -ready data foundation across systems and 
+teams through scalable pipelines, connectors, governance frameworks 
+that ensure data quality, transparency, and control…unlocking business value through data, engineering, and ecosystems…
+18     © 2025 Persistent Systems
+TM
+=== page 20 ===
+…and building Agentic -first solutions leveraging leading industry platforms
+19     © 2025 Persistent SystemsIndustry -specific Workflows
+Enables SMEs to build agentic workflows tailored for industries like BFSI 
+and HLS to drive contextual outcomes.
+Agent Evaluation
+Assesses agent performance, safety, and alignment using Agent -to-Agent 
+(A2A) simulations and Model Context Protocol (MCP) benchmarks for 
+enterprise readiness.
+Agent Marketplace
+Facilitates reusable agents with A2A collaboration and MCP integration for 
+scalable, cross -domain enterprise deployment.
+GenAI Hub -powered Digital Trust Layer
+Agentic AI Partner Ecosystem Curated to 
+Power Enterprise Innovation
+Responsible AI Security GovernanceAgentic Studio
+
+=== page 21 ===
+Sustainability and inclusivity are embedded in our long -term ESG goals
+20     © 2025 Persistent Systems
+Governance
+oMaintain best -in-class 
+information governance to manage 
+data privacy and security risks
+o100% compliance for code of 
+conduct trainingDiversity
+oAim for 35% gender diversity by 
+FY30
+oInclude all genders, ethnicities, 
+sexual preferences, religions, and 
+specially -abled persons in our 
+diverse workplacesEnvironment
+oMaintain carbon neutrality for 
+scope 1 and 2 emissions and 
+achieve SBTi -approved net-zero 
+emission reduction targets  by 2050
+oSource 100% of electricity from 
+renewable energy at all owned 
+facilities by the end of FY26Social Responsibility
+oUplift society through education, 
+health, community development, and 
+conservation of heritage and wildlife 
+programs
+oDevelop opportunities for 
+employees  to contribute time and 
+resources toward building a better 
+society
+
+=== page 22 ===
+Environment
+For the second year in a row, we achieved carbon neutrality for Scope 1 and Scope 2 emissions
+62.7%  
+Electricity sourced from 
+renewable energy in India offices35,795  
+Trees planted, taking the overall 
+count to 156,830 trees35%
+Of treated wastewater in owned campuses 
+is used within our facilities99%
+Waste recycledWe are making a meaningful impact on our people and communities
+21     © 2025 Persistent SystemsSocial Responsibility 
+52,451
+Lives impacted through 
+CSR programs9,577  
+Volunteers participated 
+in ISR activities11,507  
+Hours volunteered in 
+ISR activitiesGovernance
+97% 
+Completion of Code of Conduct training. 
+Enhanced security controls by investing in advance security 
+platforms like CNAAP, Cloud SIEM, etc. 
+No data breaches reported
+Diversity
+29.8%
+Women in the workforce12.7%  
+Women in leadership roles98,116
+Participants in wellbeing initiatives8.1/10
+Employee Satisfaction Score (ESAT) eNPS
+51
+Specially -abled people59
+Nationalities94.2%
+Employees participating in learning with 94 average learning hours per person
+Note: The achievement figures above have been audited based on FY25 data Read our FY25 ESG report
+Included in the Dow Jones World 
+Sustainability Index 
+77/100
+NSE Sustainability Ratings & 
+Analytics Ltd
+=== page 23 ===
+We were recognized for leadership in Investor Relations and stakeholder trust
+22     © 2025 Persistent SystemsAcknowledged as “Most Honored Company”  in 
+2025 Asia (ex -Mainland China) Executive Team 
+survey by Extel
+The achievement reflects the Company’s robust Investor Relations 
+program, quality and transparency of disclosures, and thoughtful approach 
+to ESG strategy and stakeholder engagement.
+Among combined (buy -side and sell -side) analyst rankings, prominent 
+positions include:
+Read more
+1st
+Best CEO
+Sandeep Kalra1st
+Company Board of 
+Directors1st
+Overall ESG
+2nd
+Best Investor 
+Relations Program3rd
+Best Investor 
+Relations Team
+=== page 24 ===
+We were honored for strong corporate governance and climate action…
+23     © 2025 Persistent SystemsReceived  “Climate Action” Award in the service category from 
+Bangalore Chamber of Industry and Commerce (BCIC)
+Read moreRecognized as the “Next Leader” by Institutional Investor Advisory 
+Services  (IiAS) at their Corporate Governance 2024 event in Mumbai 
+Read more
+Presented by Hetal Dalal, President & COO, IiAS and Sanjiv Mehta, 
+Executive Chairman India, L Catterton
+=== page 25 ===
+…and applauded for our inclusive work environment
+Recognized as the Best Employer – Emerging 
+Inclusive Companies (Large Company) by  the 
+Confederation of Indian Industry
+Read more
+24     © 2025 Persistent SystemsNamed one of America’s Greatest Workplaces for 
+Inclusion & Diversity 2025 by Newsweek and Plant A 
+Insights Group
+Read more
+
+=== page 26 ===
+Performance 
+Highlights
+25     © 2025 Persistent Systems
+=== page 27 ===
+Sandeep Kalra
+Chief Executive Officer and Executive Director“We delivered our 21st sequential quarter of revenue growth, up 3.9% 
+Q-o-Q and 18.8% Y -o-Y , while sustaining operating margins in a 
+challenging macroeconomic environment. This performance reflects the 
+strength of our AI -led, platform -driven strategy, focus on customer value 
+creation, and our ability to unlock measurable outcomes.
+Our innovation -led execution and sharp focus on talent continue to drive 
+momentum. This has earned us recognition as a Leader in the ISG 
+Provider Lens
+  2025 for Digital Engineering Services and in the Everest 
+Group Talent Readiness for Next -Gen Application Services PEAK Matrix® 
+Assessment 2025. We are also proud to achieve top rankings in Extel’s  
+Asia Executive Team survey for Investor Relations and stakeholder trust. 
+As we look ahead, we remain committed to delivering long -term growth for 
+all stakeholders.” 
+
+=== page 28 ===
+Q1 FY26: Financial Highlights
+27     © 2025 Persistent Systems3,064.13,957.64,249.4
+Q1FY25 Q4FY25 Q1FY26PAT (₹ million)
+3,840.25,052.95,178.1
+Q1FY25 Q4FY25 Q1FY26EBIT  (₹ million)328.2375.2389.7
+Q1FY25 Q4FY25 Q1FY26Revenue  ($ million )
+27,371.7 32,421.1 33,335.9 
+Q1FY25 Q4FY25 Q1FY26Revenue  (₹ million)
+14.0% 15.6% 14.0% 11.2% 12.2% 11.2%3.9% QoQ
+ 18.8% YoY
+ 2.8% QoQ
+ 21.8% YoY
+34.8% YoY
+ 38.7% YoY
+Margin % Margin %2.5% QoQ
+ 7.4% QoQ
+15.5% 12.7%
+=== page 29 ===
+Q1 FY26: TCV and ACV Bookings
+529.0594.1
+517.5 520.8
+Q2FY25 Q3FY25 Q4FY25 Q1FY26Trailing Twelve Month TCV*
+389.8
+333.6 329.0337.0
+ Q2FY25  Q3FY25 Q4FY25 Q1FY26Trailing Twelve Month TCV (New) 
+348.3 428.3 
+350.2385.3
+ Q2FY25  Q3FY25  Q4FY25  Q1FY26Trailing  Twelve  Month  ACV*
+218.6 
+195.1 198.1 211.8
+Q2FY25 Q3FY25 Q4FY25 Q1FY26Trailing Twelve Month ACV (New)$1,389.4M
+$1,512.1M $823.7M$2,161.4M
+*Includes  renewals & new bookings
+28     © 2025 Persistent SystemsQuarterly TCV
+Quarterly ACV Quarterly ACVQuarterly TCV
+=== page 30 ===
+Q1 FY26: TTM Performance
+1,231.3 1,470.7
+TTM Q1FY25 TTM Q1FY26Revenue  ($ million)
+102,375.8125,351.3
+TTM Q1FY25 TTM Q1FY26Revenue  (₹ million)
+14,523.3 18,850.6 
+ TTM Q1FY25  TTM Q1FY26EBIT  (₹ million)
+11,711.4 15,186.8 
+TTM Q1FY25 TTM Q1FY26PAT (₹ million)19.4%
+ 22.4%
+29.8%
+14.2% 11.4% 12.1% 15.0% Margin % Margin %29.7%
+29     © 2025 Persistent Systems
+=== page 31 ===
+Replacing legacy on -prem data warehouse 
+and analytics product with an AI -driven 
+solution, ensuring compatibility for seamless 
+migration and continuity for end customers of 
+a multinational technology company
+Leveraging SASVA
+  and Agentic AI to 
+build new products and enhance existing ones 
+to accelerate growth for a global software 
+quality leader
+Modernizing contact center assurance 
+platform using SASVA
+  to address 
+performance, technology debt, and scalability 
+for a global leader in network lifecycle 
+automationEnhancing customer experience and 
+process automation through modernization 
+of legacy debt issuance system with a 
+scalable platform for a leading US -based 
+federal corporation
+Boosting engineering velocity and 
+operational efficiency by building an 
+enterprise data platform and consolidating 
+applications for a leading global wealth 
+management firm
+Enabling faster time -to-market and 
+business growth by co -engineering a digital 
+banking platform for the customers of a global 
+leader in banking and wealth management Establishing a software Center of 
+Excellence in India to optimize processes, 
+strengthen leadership, and resolve post -
+transition issues for a leading life sciences 
+and scientific instrumentation company
+Enhancing regulatory compliance and 
+operational efficiency by building a Serious 
+Adverse Event (SAE) tracking and safety 
+report distribution portal for a global leader in 
+clinical research
+Expediting product releases and 
+increasing test coverage by leveraging 
+SASVA
+  for one of the global leaders in 
+analytics, technology solutions, and clinical 
+research Q1 FY26: Key Wins
+30     © 2025 Persistent SystemsBanking, Financial 
+Services & InsuranceHealthcare
+& Life SciencesSoftware, Hi -Tech & 
+Emerging Industries
+
+=== page 32 ===
+Notable Achievements 
+and News
+31     © 2025 Persistent Systems
+=== page 33 ===
+Our Chairman and MD won the Eminent Engineer’s Award 2024 by ECI
+32     © 2025 Persistent SystemsRead moreRecognized for Visionary Leadership and 
+Impact on the Engineering Community 
+Engineering Council of India (ECI) awarded Dr. Anand 
+Deshpande under the Industry Category for : 
+oPioneering India’s digital engineering success story by 
+founding and leading Persistent with a vision for technology -
+led transformation
+oFostering innovation and supporting first -generation 
+entrepreneurs through ecosystem -building initiatives
+oContributing to national innovation efforts through leadership 
+roles in academia, think tanks, and industry bodies
+
+=== page 34 ===
+We were named the fastest -growing Indian IT Services brand by Brand Finance
+33     © 2025 Persistent SystemsRead moreCommended for Increase in Brand Value 
+and Brand Strength 
+Prominently featured in ‘Brand Finance India 100’ 2025 Report, 
+underscoring our strong brand equity and market impact. 
+Key achievements and rankings include
+oFastest -growing Indian IT services brand with a brand value 
+of $811M in 2025.  Achieved  468% brand value growth since 
+2020
+oMoved up to 8th position among Top Indian IT Services 
+Brands, 48th among the Top 100 Indian Brands
+oFeatured  in the “Brands to Watch” category (Top 100 Indian 
+brands)
+
+=== page 35 ===
+We were cited as a Leader in ISG Provider Lens
+  2025 for Digital Engineering 
+Services
+34     © 2025 Persistent Systems“Persistent stands out for its strategic focus on GenAI -led platform engineering and intelligent product design. By integrating data, 
+AIoT, and advanced algorithms across the digital stack, it empowers enterprises to drive continuous innovation and unlock new gro wth 
+opportunities. Its ability to align technology investments with evolving client needs reinforces its leadership in digital en gineering.”
+Dr. Tapati Bandopadhyay , Lead Author, ISGRead moreAccelerating Business Transformation with 
+AI, Cloud, and CX Expertise 
+We were commended for:
+oDifferentiated experience transformation approach by combining 
+human -centric design with GenAI and rapid prototyping
+oEnhancing customer journeys through AIoT-enabled CX 
+platforms
+oStrategic partnership with hyperscalers  and platform providers to 
+digitize and cloudify operations
+oDriving seamless multicloud  operations, robust data governance, 
+and GenAI -led platform and client personalization
+
+=== page 36 ===
+We were recognized as a Leader in Everest Group Talent Readiness for Next -
+Gen Application Services PEAK Matrix® Assessment 2025
+35     © 2025 Persistent SystemsRead moreFuture -ready Talent Strategy to Drive Client 
+Success
+We were recognized for:
+oWell-rounded talent pool with strong capabilities across cloud, 
+API, LCNC, performance engineering, and security testing
+oHigh employee retention ensuring workforce stability and 
+consistent client delivery
+oLeveraging analytics and lean/Six Sigma methods to enhance 
+talent productivity and decision -making
+oAdvancing AI talent readiness through role -based impact 
+assessment and upskilling initiatives
+“Persistent Systems’ targeted investments toward skill -based talent practices, strategic academia and technology alliances, focu s on 
+building in -demand application services skills, and AI -enabled workforce have empowered it to build a well -rounded portfolio of 
+application services talent pool.”
+Yugal Joshi , Partner, Everest Group
+=== page 37 ===
+We thank Yogesh Patgaonkar for his exceptional service and leadership
+36     © 2025 Persistent Systems
+Yogesh Patgaonkar, Chief People Officer, will retire 
+from his role effective July 31, 2025. We are grateful 
+for his invaluable contributions and the role he 
+played in advancing our people strategy. During his 
+tenure, the Company received several industry 
+accolades for excellence in HR. 
+
+=== page 38 ===
+We welcome Rajiv Naithani as our Chief People Officer
+37     © 2025 Persistent SystemsVisionary HR Leader with Over 20 Years of 
+Experience in Driving Organizational Transformation
+oRajiv joined us in February 2025 and will assume the role of Chief People 
+Officer effective August 1, 2025, as part of a planned succession. 
+oHe will drive talent transformation to support business scalability, harnessing AI -
+driven intelligence and people -first practices to build a high -performance, future -
+ready workforce.
+oPrior to Persistent, he served as Chief People Officer at Infogain  and played a 
+pivotal role in driving cultural and leadership transformation. He has also held 
+senior HR leadership roles at Dassault Systèmes , GlobalLogic, and HCLTech . 
+
+=== page 39 ===
+38     © 2025 Persistent Systems
+We welcome Shimona Chadha as our Chief Marketing officer
+Read moreMarketing Transformation Leader with Over Two Decades 
+of Experience Accelerating Growth and Brand Impact
+oShe will lead global marketing strategy, focused on elevating brand positioning and 
+enabling business growth with integrated marketing initiatives
+oPrior to Persistent, Shimona was the Vice President and Head of North America 
+Vertical Marketing for HCLTech , where she drove revenue growth and was 
+instrumental in building a GenAI -powered marketing engine 
+oHer work has earned industry recognitions, including Forrester’s Program of the Year 
+2025 and the Stevie Award for Women in Business and Inspiring Women in Business
+=== page 40 ===
+Financial Details
+39     © 2025 Persistent Systems
+=== page 41 ===
+Sequential Q1 FY26 vs Q4 FY25
+40     © 2025 Persistent SystemsParticulars ( ₹ M, unless otherwise stated) Q1FY26 Q4FY25 Change QoQ% of Sales
+Q1FY26% of Sales
+Q4FY25
+Revenue ($ M) 389.7 375.2 3.9%
+Avg. Exchange Rate ₹ / US$ 85.5 86.4 -1.0%
+Revenue ( ₹ M) 33,335.9 32,421.1 2.8%
+Total Direct costs 21,576.2 21,117.0 2.2% 64.7% 65.1%
+Gross Profit 11,759.7 11,304.1 4.0% 35.3% 34.9%
+Sales & Marketing Expenses 2,640.4 2,623.7 0.6% 7.9% 8.1%
+Admin & Other Expenses 3,003.3 2,836.5 5.9% 9.0% 8.7%
+Total SGA 5,643.7 5,460.2 3.4% 16.9% 16.8%
+EBITDA 6,115.9 5,843.9 4.7% 18.3% 18.0%
+Depreciation 252.8 239.9 5.4% 0.8% 0.7%
+Amortization 685.1 551.2 24.3% 2.1% 1.7%
+EBIT 5,178.1 5,052.9 2.5% 15.5% 15.6%
+Other Income / (Loss)  187.3 153.5 22.0% 0.6% 0.5%
+Exchange Gain/(Loss) 188.7 (154.3) 222.3% 0.6% -0.5%
+PBT 5,554.1 5,052.1 9.9% 16.7% 15.6%
+Tax 1,304.7 1,094.5 19.2% 3.9% 3.4%
+PAT 4,249.4 3,957.6 7.4% 12.7% 12.2%
+EPS (₹) 27.4 25.6 7.1%
+=== page 42 ===
+YoY Comparison: Q1 FY26 vs Q1 FY25
+41     © 2025 Persistent SystemsParticulars (₹ M, unless otherwise stated) Q1FY26 Q1FY25 Change YoY% of Sales
+Q1FY26% of Sales
+Q1FY25
+Revenue ($ M) 389.7 328.2 18.8%
+Avg. Exchange Rate ₹ / US$ 85.5 83.4 2.6%
+Revenue ( ₹ M) 33,335.9 27,371.7 21.8%
+Total Direct costs 21,576.2 18,328.7 17.7% 64.7% 67.0%
+Gross Profit 11,759.7 9,043.0 30.0% 35.3% 33.0%
+Sales & Marketing Expenses 2,640.4 2,332.6 13.2% 7.9% 8.5%
+Admin & Other Expenses 3,003.3 2,158.4 39.1% 9.0% 7.9%
+Total SGA 5,643.7 4,491.0 25.7% 16.9% 16.4%
+EBITDA 6,115.9 4,552.0 34.4% 18.3% 16.6%
+Depreciation 252.8 211.5 19.5% 0.8% 0.8%
+Amortization 685.1 500.5 36.9% 2.1% 1.8%
+EBIT 5,178.1 3,840.1 34.8% 15.5% 14.0%
+Other Income / (Loss)  187.3 172.5 8.6% 0.6% 0.6%
+Exchange Gain/(Loss) 188.7 (7.3) 2699.2% 0.6% 0.0%
+PBT 5,554.1 4,005.3 38.7% 16.7% 14.6%
+Tax 1,304.7 941.3 38.6% 3.9% 3.4%
+PAT 4,249.4 3,064.1 38.7% 12.7% 11.2%
+EPS (₹) 27.4 20.1 36.5%
+=== page 43 ===
+Balance Sheet 
+42     © 2025 Persistent SystemsParticulars (₹ M)As on 
+June 30, 2025As on 
+March 31, 2025As on 
+June 30, 2024
+Assets
+PPE and Intangible Assets 26,161.6 26,184.4 22,940.4
+Non-Current Assets 5,353.5 5,053.5 4,998.0
+Cash and Investments 22,751.1 19,511.4 18,947.8
+Other Current Assets 39,921.3 36,616.7 34,536.0
+Total 94,187.5 87,366.0 81,422.2
+Equity and Liabilities
+Net Worth 68,448.1 63,190.7 54,429.3
+Non-Current Liabilities 2,792.5 2,847.6 2,107.3
+Current Liabilities 22,946.9 21,327.7 24,885.6
+Total 94,187.5 87,366.0 81,422.2
+=== page 44 ===
+Fact Sheet
+43     © 2025 Persistent Systems
+=== page 45 ===
+Fact Sheet
+44     © 2025 Persistent SystemsRevenueQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+Revenue from Operations, $M 389.7 375.2 360.2 345.5 328.2 1,409.1 1,186.0 
+% QoQ growth 3.9% 4.2% 4.3% 5.3% 5.6%
+% QoQ growth (constant 
+currency)3.3% 4.5% 4.6% 5.1% 5.6% 19.0% 14.4%
+% YoY growth 18.8% 20.7% 19.9% 18.4% 16.0% 18.8% 14.5%
+Revenue from Operations, ₹M 33,336 32,421 30,623 28,972 27,372 119,387 98,216 
+% QoQ  growth 2.8% 5.9% 5.7% 5.8% 5.7%
+% YoY growth 21.8% 25.2% 22.6% 20.1% 17.9% 21.6% 17.6%
+DSOQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+Days (Billed) 56 58 64 68 67 58 63
+Days (Unbilled) 20 23 22 24 25 23 21
+=== page 46 ===
+Fact Sheet
+45     © 2025 Persistent SystemsGeography 
+Revenue MixQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+North America 79.8% 80.5% 80.5% 81.3% 80.7% 80.8% 79.6%
+Europe 9.0% 8.4% 8.2% 7.9% 7.8% 8.1% 9.0%
+India 9.8% 9.3% 9.4% 9.2% 9.8% 9.4% 9.9%
+ROW 1.4% 1.8% 1.9% 1.6% 1.7% 1.7% 1.5%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%Segment 
+Revenue MixQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+BFSI 33.9% 32.3% 31.7% 31.5% 30.8% 31.6% 31.9%
+Healthcare & Life Sciences 25.3% 26.8% 27.8% 27.8% 26.7% 27.3% 21.0%
+Software, Hi -Tech & Emerging 
+Industries40.8% 40.9% 40.5% 40.7% 42.5% 41.1% 47.1%
+Total 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+=== page 47 ===
+Fact Sheet
+46     © 2025 Persistent SystemsRevenue 
+ConcentrationQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+Top 5 31.8% 32.7% 30.8% 31.4% 30.7% 31.3% 27.7%
+Top 10 42.0% 42.2% 40.0% 41.5% 41.5% 40.9% 39.0%
+Top 20 53.8% 53.0% 50.9% 52.1% 51.9% 51.7% 50.1%
+Top 50 70.0% 68.7% 67.4% 67.9% 67.8% 66.8% 64.9%
+Top 100 82.8% 82.1% 80.6% 81.0% 80.3% 79.8% 77.7%HedgesQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+Outstanding Hedges ($M) 440 300 300 270 271 300 260
+Rates ( ₹/$) 86.9 86.3 85.3 84.8 84.4 86.3 84.2
+Client 
+Engagement  
+SizeQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+$75M+ 4 4 3 3 3 4 2
+$50M – $75M - - 1 1 1 - 1
+$20M – $50M 8 6 6 6 6 6 7
+$10M – $20M 10 11 12 11 9 11 7
+$5M – $10M 34 34 25 22 22 34 23
+$1M – $5M 135 136 142 141 137 136 138
+Total $1M+ 191 191 189 184 178 191 178
+=== page 48 ===
+Fact Sheet
+People 
+NumbersQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+Technical 23,787 23,072 22,407 21,675 21,866 23,072 22,224 
+Sales and Business Development 496 485 489 492 510 485 484 
+Others 1,057 1,037 1,046 1,070 1,143 1,037 1,142 
+Total 25,340 24,594 23,941 23,237 23,519 24,594 23,850 
+Effort MixQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+Global Delivery Centers 14.5% 14.8% 15.1% 15.8% 15.2% 15.2% 13.6%
+India 85.5% 85.2% 84.9% 84.2% 84.8% 84.8% 86.4%
+Attrition 
+RateQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+TTM Basis 13.9% 12.9% 12.6% 12.0% 11.9% 12.9% 11.5%UtilizationQ1FY26 Q4FY25 Q3FY25 Q2FY25 Q1FY25 FY25 FY24
+Including Trainees 88.7% 88.1% 87.4% 84.8% 82.1% 85.6% 80.1%
+47     © 2025 Persistent Systems
+=== page 49 ===
