@@ -1,13 +1,13 @@
 symbol,kind,label,url,file,text_file,pages,status,fetched
-SBIN,presentation,Nov 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211c37d3-4d09-4ba6-a104-b5715dc05ff7.pdf,2026-11_presentation.pdf,2026-11_presentation.txt,47,ok,2026-11-08
-SBIN,presentation,Aug 2026,https://sbi.bank.in/documents/17836/1275616/07082026_SBI+Analyst+Presentation+Q1FY27.pdf/6e4ca530-1666-574e-22fb-f9e19d553ef5?t=1786091443352,2026-08_presentation.pdf,2026-08_presentation.txt,47,ok,2026-11-08
-SBIN,presentation,May 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=460a676a-2477-47a3-bdcf-ffce1a78b8e7.pdf,2026-05_presentation.pdf,2026-05_presentation.txt,57,ok,2026-11-08
-SBIN,presentation,Feb 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1F09E6FA-D0C5-4430-BBC1-E445609981AF-135436.pdf,2026-02_presentation.pdf,2026-02_presentation.txt,57,ok,2026-11-08
-SBIN,presentation,Nov 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3beaba3f-f163-4d3f-b053-70228d39a157.pdf,2025-11_presentation.pdf,2025-11_presentation.txt,59,ok,2026-11-08
-SBIN,presentation,Aug 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f03f41a-c730-4b26-927e-562b52b62c70.pdf,2025-08_presentation.pdf,2025-08_presentation.txt,59,ok,2026-11-08
-SBIN,presentation,May 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c71220a2-e01b-4e3d-9380-cf165b023d52.pdf,2025-05_presentation.pdf,2025-05_presentation.txt,66,ok,2026-11-08
-SBIN,presentation,Feb 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d9c523dc-d3bd-4b78-af6a-a44efdc5d787.pdf,2025-02_presentation.pdf,2025-02_presentation.txt,59,ok,2026-11-08
-SBIN,presentation,Nov 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a44221e1-a209-4710-ae79-59320332429a.pdf,2024-11_presentation.pdf,2024-11_presentation.txt,60,ok,2026-11-08
-SBIN,presentation,Aug 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26d73423-db42-4b5f-9cbd-269e3e6e8fc4.pdf,2024-08_presentation.pdf,2024-08_presentation.txt,59,ok,2026-11-08
-SBIN,presentation,May 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7eaa420-b619-4865-b196-519921e57cbc.pdf,2024-05_presentation.pdf,2024-05_presentation.txt,68,ok,2026-11-08
-SBIN,presentation,Feb 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0de1b244-29ba-40d3-8de7-aa64249297d7.pdf,2024-02_presentation.pdf,2024-02_presentation.txt,59,ok,2026-11-08
+SBIN,presentation,Nov 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211c37d3-4d09-4ba6-a104-b5715dc05ff7.pdf,2026-11_presentation.pdf,2026-11_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Aug 2026,https://sbi.bank.in/documents/17836/1275616/07082026_SBI+Analyst+Presentation+Q1FY27.pdf/6e4ca530-1666-574e-22fb-f9e19d553ef5?t=1786091443352,2026-08_presentation.pdf,2026-08_presentation.txt,,cached,2026-11-08
+SBIN,presentation,May 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=460a676a-2477-47a3-bdcf-ffce1a78b8e7.pdf,2026-05_presentation.pdf,2026-05_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Feb 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1F09E6FA-D0C5-4430-BBC1-E445609981AF-135436.pdf,2026-02_presentation.pdf,2026-02_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Nov 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3beaba3f-f163-4d3f-b053-70228d39a157.pdf,2025-11_presentation.pdf,2025-11_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Aug 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f03f41a-c730-4b26-927e-562b52b62c70.pdf,2025-08_presentation.pdf,2025-08_presentation.txt,,cached,2026-11-08
+SBIN,presentation,May 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c71220a2-e01b-4e3d-9380-cf165b023d52.pdf,2025-05_presentation.pdf,2025-05_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Feb 2025,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d9c523dc-d3bd-4b78-af6a-a44efdc5d787.pdf,2025-02_presentation.pdf,2025-02_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Nov 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a44221e1-a209-4710-ae79-59320332429a.pdf,2024-11_presentation.pdf,2024-11_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Aug 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26d73423-db42-4b5f-9cbd-269e3e6e8fc4.pdf,2024-08_presentation.pdf,2024-08_presentation.txt,,cached,2026-11-08
+SBIN,presentation,May 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7eaa420-b619-4865-b196-519921e57cbc.pdf,2024-05_presentation.pdf,2024-05_presentation.txt,,cached,2026-11-08
+SBIN,presentation,Feb 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0de1b244-29ba-40d3-8de7-aa64249297d7.pdf,2024-02_presentation.pdf,2024-02_presentation.txt,,cached,2026-11-08
