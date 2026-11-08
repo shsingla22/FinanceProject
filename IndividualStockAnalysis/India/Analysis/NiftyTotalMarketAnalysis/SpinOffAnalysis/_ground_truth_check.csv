@@ -1,0 +1,51 @@
+check,company,listed_on,new_symbols_near_record_date,purpose,record_dates,register_dates,resulting_company_read,skill_confidence,skill_kind,skill_stage,symbol,verdict,what_is_spun
+recall,HEG Advanced Materials Limited,,"ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN",Demerger,2026-09-07,,HEG Graphite Limited,confirmed,demerger,listed,HEGAM,captured,
+recall,Hindustan Unilever Ltd,,"ADVAIT, AEQUS, ALGOQUANT, AMAGI",DEMERGER; Demerger,2025-12-05,,,confirmed,demerger,listed,HINDUNILVR,captured,
+recall,India Glycols Ltd,,"ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN",DEMERGER; Demerger,2026-09-02,,IGL Spirits Limited,confirmed,demerger/preferential_issue,record_date,INDIAGLYCO,captured,
+recall,Inox Green Energy Ser Ltd,,"ACEVECTOR, ACGL, ADDIND, ADROITIND",DEMERGER; Demerger,2026-08-01,,Inox Renewable Solutions Limited,confirmed,demerger/preferential_issue/slump_sale,listed,INOXGREEN,captured,
+recall,SKF India Limited,,"ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50",DEMERGER; Demerger,2025-10-15,,,confirmed,demerger,listed,SKFINDIA,captured,
+recall,Tata Motors Passenger Vehicles Limited,,"ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50",Demerger,2025-10-14,,,probable,scheme_other,—,TMPV,captured as scheme/listing only,
+recall,Triveni Engineering & Ind,,"ACEVECTOR, ACGL, ADDIND, ADROITIND",DEMERGER; Demerger,2026-07-22,,Triveni Power Transmission Limited,confirmed,demerger/merger,listed,TRIVENI,captured,
+recall,Vedanta Limited,,"AASTHA, AGL, AURUS, AVG-RE",DEMERGER; Demerger,2026-05-01,,Talwandi Sabo Power Limited,confirmed,demerger,record_date,VEDL,captured,
+precision,Aegis Logistics Ltd.,,,,,,,,,announced,AEGISLOG,pending — not yet verifiable (no record date yet),"36,000 MT specialized Ammonia storage terminal at Pipavav Port, transferred via slump sale to step-d"
+precision,Anant Raj Ltd.,,,,,,,,,announced,ANANTRAJ,pending — not yet verifiable (no record date yet),"The Data Centre and Cloud Services business of ARL and ARCPL, vested in Ashok Cloud Private Limited"
+precision,Apollo Hospitals Enterprise Ltd.,,,,,,,,,nclt_sanction,APOLLOHOSP,pending — not yet verifiable (no record date yet),"The ""Identified Business Undertaking"" of Apollo Hospitals, demerged into Apollo Healthtech Limited, "
+precision,Astral Ltd.,,,,,,,,,announced,ASTRAL,pending — not yet verifiable (no record date yet),"Astral's Chemicals/Adhesive Business — adhesives, sealants, construction chemicals — merged into pai"
+precision,Astra Microwave Products Ltd.,,,,,,,,,announced,ASTRAMICRO,pending — not yet verifiable (no record date yet),"Astra's Space, Meteorology and Hydrology business, hived off into wholly owned subsidiary ASTPL"
+precision,Bajaj Electricals Ltd,,,,,,,,,announced,BAJAJELEC,pending — not yet verifiable (no record date yet),"The EPC (engineering, procurement and construction) business/vertical of Bajaj Electricals"
+precision,Cello World Ltd.,,,,,,,,,announced,CELLO,pending — not yet verifiable (no record date yet),"Wim Plast Limited's Manufacturing Business, demerged into Cello Consumer Products Private Limited; W"
+precision,Diamond Power Infrastructure Ltd.,,,,,,,,,announced,DIACABS,pending — not yet verifiable (no record date yet),not stated
+precision,Embassy Developments Ltd.,,,,,,,,,nclt_sanction,EMBDL,pending — not yet verifiable (no record date yet),"The power business undertaking of Indiabulls Real Estate (now Embassy Developments), demerged into R"
+precision,Eris Lifesciences Ltd.,,,,,,,,,announced,ERIS,FALSE POSITIVE (judge: nothing separated),"not stated — the documents describe acquisitions (Swiss Parenterals 30% stake, Velbiom probiotics bu"
+precision,Gujarat Fluorochemicals Ltd.,,,,,,,,,exchange_noc,FLUOROCHEM,pending — not yet verifiable (no record date yet),"ILFL's Demerged Undertaking, including mutual fund distribution activities and brokerage income ther"
+precision,Gabriel India Ltd.,2026-06-09,,,,,,,,listed,GABRIEL,"FALSE POSITIVE (record date claimed, register has none)","Automotive Undertaking of Asia Investments Private Limited (promoter/holding company), demerged into"
+precision,HEG Advanced Materials Ltd.,2026-07-29,,,,2026-09-07,,,,listed,HEGAM,verified by the register,HEG's graphite business — graphite electrodes and other carbon products — demerged into HEG Graphite
+precision,Hindustan Unilever Ltd.,2025-12-05,,,,2025-12-05,,,,listed,HINDUNILVR,verified by the register,"HUL's Ice Cream Business Undertaking, demerged into Kwality Wall's (India) Limited, a pure-play Indi"
+precision,Himadri Speciality Chemical Ltd.,,,,,,,,,announced,HSCL,pending — not yet verifiable (no record date yet),"The Tyre Business of Dalmia Bharat Refractories Ltd — designing, manufacturing and development of al"
+precision,India Glycols Ltd.,2026-08-21,,,,2026-09-02,,,,record_date,INDIAGLYCO,verified by the register,Bio Pharma undertaking and Spirits & Biofuel undertaking demerged from India Glycols into two new co
+precision,Inox Green Energy Services Ltd.,2026-08-01,,,,2026-08-01,,,,listed,INOXGREEN,verified by the register,The Power Evacuation Business (substation / evacuation infrastructure) of Inox Green Energy Services
+precision,Intellect Design Arena Ltd.,,,,,,,,,announced,INTELLECT,pending — not yet verifiable (no record date yet),"Purple Fabric, Intellect's Enterprise Intelligence Operating System / Business Impact AI platform, c"
+precision,JK Paper Ltd.,,,,,,,,,nclt_sanction,JKPAPER,pending — not yet verifiable (no record date yet),The 'Demerged Undertaking' of Enviro Tech Ventures Ltd transferred to PSV Agro Products Pvt Ltd; its
+precision,JSW Energy Ltd.,,,,,,,,,nclt_sanction,JSWENERGY,pending — not yet verifiable (no record date yet),"GE Power India Limited's boiler manufacturing business, demerged into JSW Energy Limited"
+precision,Kitex Garments Ltd.,,,,,,,,,nclt_sanction,KITEX,pending — not yet verifiable (no record date yet),Not stated; documents name only an undertaking demerged from Kitex Childrenswear Limited into Kitex 
+precision,Laurus Labs Ltd.,,,,,,,,,announced,LAURUSLABS,pending — not yet verifiable (no record date yet),"Unit-1 of Laurus Synthesis Private Limited (the ""Identified Business Undertaking""), demerged into a "
+precision,Lemon Tree Hotels Ltd.,,,,,,,,,exchange_noc,LEMONTREE,pending — not yet verifiable (no record date yet),"Asset-heavy hotel-ownership and development undertaking: 11 operating hotels, 1 under construction, "
+precision,Lenskart Solutions Ltd.,,,,,,,,,announced,LENSKART,pending — not yet verifiable (no record date yet),"Nothing; documents cover amalgamation of two wholly-owned subsidiaries into Lenskart, not a separati"
+precision,Lloyds Enterprises Ltd.,,,,,,,,,exchange_noc,LLOYDSENT,pending — not yet verifiable (no record date yet),"Real Estate Business Undertaking of Lloyds Enterprises Limited, demerged into Lloyds Realty Limited"
+precision,Maharashtra Seamless Ltd.,,,,,,,,,announced,MAHSEAMLES,pending — not yet verifiable (no record date yet),"Two seamless pipe plants — Mangaon (125,000 MTPA) and Narketpally, Telangana (200,000 MTPA) — plus s"
+precision,NATCO Pharma Ltd.,,,,,,,,,announced,NATCOPHARM,pending — not yet verifiable (no record date yet),The Crop Health Sciences (Agro Chemicals) Division — crop protection products business — into a sepa
+precision,Narayana Hrudayalaya Ltd.,,,,,,,,,nclt_sanction,NH,pending — not yet verifiable (no record date yet),Clinical Services undertaking of NHIC — 10 Bengaluru clinics — demerged into listed parent NHL
+precision,Piccadily Agro Industries Ltd.,,,,,,,,,exchange_noc,PICCADIL,pending — not yet verifiable (no record date yet),"The Sugar Business of Piccadily Agro Industries, demerged into wholly owned subsidiary Piccadily Foo"
+precision,Pricol Ltd.,,,,,,,,,announced,PRICOLLTD,pending — not yet verifiable (no record date yet),Driver Information & Connected Vehicle Solutions (DICVS) business — smart mobility and integrated au
+precision,Refex Industries Ltd.,,,,,,,,,nclt_sanction,REFEX,pending — not yet verifiable (no record date yet),The Mobility Undertaking — Refex's EV fleet mobility vertical serving B2B and B2B2C platforms
+precision,Religare Enterprises Ltd.,,,,,,,,,exchange_noc,RELIGARE,pending — not yet verifiable (no record date yet),"REL's financial services business — lending, broking, investment activities and ancillary and suppor"
+precision,Sammaan Capital Ltd.,,,,,,,,,nclt_sanction,SAMMAANCAP,pending — not yet verifiable (no record date yet),"The NBFC Business (retail mortgage lending: home loans and LAP) of Sammaan Finserve, transferred to "
+precision,SKF India Ltd.,2025-10-15,,,,2025-10-15,,,,listed,SKFINDIA,verified by the register,"SKF India's Industrial Business, transferred on a going concern basis to a new listed company"
+precision,SKF India (Industrial) Ltd.,,,,,,,,,nclt_sanction,SKFINDUS,pending — not yet verifiable (no record date yet),"SKF India's demerged industrial undertaking, transferred to SKF India (Industrial) Limited"
+precision,Strides Pharma Science Ltd.,,,,,,,,,effective,STAR,pending — not yet verifiable (no record date yet),"Arco Lab's Life Sciences business and Digital Innovation business, demerged into Pivot Path Private "
+precision,Sunteck Realty Ltd.,,,,,,,,,announced,SUNTECK,pending — not yet verifiable (no record date yet),"Satguru's residential real estate project under ""Sunteck City 4th Avenue Undertaking"", demerged into"
+precision,Thermax Ltd.,,,,,,,,,announced,THERMAX,pending — not yet verifiable (no record date yet),"Bio-CNG EPC (technology, engineering, procurement, construction) business of Thermax Bioenergy Solut"
+precision,Thomas Cook (India) Ltd.,,,,,,,,,exchange_noc,THOMASCOOK,pending — not yet verifiable (no record date yet),TCIL's resorts and resort management business — 6 resorts under the Nature Trails brand — into SHRL
+precision,Triveni Engineering & Industries Ltd.,2026-10-09,,,,2026-07-22,,,,listed,TRIVENI,verified by the register,"The power transmission business undertaking of Triveni Engineering, vested into Triveni Power Transm"
+precision,UPL Ltd.,,,,,,,,,exchange_noc,UPL,pending — not yet verifiable (no record date yet),"UPL's India and international crop protection businesses, combined into a single listed pure-play cr"
+precision,Vedanta Ltd.,2026-04-20,,,,2026-05-01,,,,record_date,VEDL,verified by the register,"Vedanta's power generation assets into Talwandi Sabo Power Ltd (""Vedanta Power""), alongside aluminiu"
