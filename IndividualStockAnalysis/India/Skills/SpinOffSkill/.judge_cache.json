@@ -31379,5 +31379,49 @@
    },
    "not_found": "All figures: no NSE-specific revenue, operating profit, PAT, carrying value, stake size or disposal gain appears on the tagged segment or presentation pages."
   }
+ },
+ "CAPILLARY": {
+  "stamp": "4712a0ac63aa1d78c7064a0d2323028e",
+  "verdict": {
+   "what_is_spun": "Nothing is spun off; a non-operative China subsidiary was deregistered and ceased being a step-down subsidiary",
+   "demerged_business_names": [
+    "Capillary Technologies (Shanghai) Co., Ltd., China",
+    "Capillary Shanghai"
+   ],
+   "reason": "Capillary Shanghai was not carrying on any business operations; voluntary deregistration completed, as its proposed closure had already been disclosed in the Red Herring Prospectus dated November 18, 2025",
+   "reason_class": "not stated",
+   "insiders": "not stated",
+   "hidden_value": "Nothing: revenue Nil and net worth 0.50 million for FY ended March 31, 2026; not a material subsidiary; no impact on business operations, revenue or financial position of the Company or group",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "No shares are being distributed or listed; an empty non-operative shell was deregistered, not separated to shareholders",
+   "parent_or_spin": "neither",
+   "option_pricing_date": "not stated",
+   "listing_timeline": "not stated",
+   "read_next": "Red Herring Prospectus dated November 18, 2025, for the disclosed closure of China operations",
+   "quote": "Capillary Shanghai is not a material subsidiary of the Company, and its cessation does not have any impact on the business operations, revenue, or financial position of the Company or its group."
+  }
+ },
+ "BOSCHLTD": {
+  "stamp": "c8cbe7bed72435989876c8325068d5d0",
+  "verdict": {
+   "what_is_spun": "No demerger disclosed; Bosch instead sold its Video solutions, Access and Intrusions and Communication systems business to Keenfinity India",
+   "demerged_business_names": [
+    "\"Video solutions, Access and Intrusions and Communication systems\" Business",
+    "Specified Business",
+    "Building Technologies segment",
+    "Keenfinity India Private Limited (purchaser)"
+   ],
+   "reason": "not stated",
+   "reason_class": "not stated",
+   "insiders": "No new entity. Promoter group holds 70.54% of Bosch Limited; 2,460 shares issued to Robert Bosch Investment Nederland B.V. and Robert Bosch LLC, locked in to 30-Jan-2028",
+   "hidden_value": "Sale consideration MioINR 5,950 produced a MioINR 5,560 exceptional gain, and did not qualify as a separate major line of business under Ind AS 105 \u2014 a near-fully-written-down non-core unit inside a cash-rich parent",
+   "selling_pressure": "unlikely",
+   "selling_pressure_why": "Cash business transfer to Keenfinity India; no shares distributed, no new listed entity, no index event",
+   "parent_or_spin": "parent",
+   "option_pricing_date": "not stated (the preferential-issue Relevant Date was April 8, 2026)",
+   "listing_timeline": "not stated for any demerged entity; the 2,460 preferential shares were \"listed and admitted to dealings on the Exchange from July 20, 2026\" per exchange letters dated July 17, 2026",
+   "read_next": "Q2 FY27 consolidated results \u2014 first period consolidating RBIC (wholly owned from July 01, 2026) and the MioINR 90,238 cash outflow",
+   "quote": "As part of realignment of group corporate structure in India, the proposed transaction involves acquisition of Bosch Chassis Systems India Private Limited (\"RBIC\") which is the vehicle motion business under Bosch Limited."
+  }
  }
 }
