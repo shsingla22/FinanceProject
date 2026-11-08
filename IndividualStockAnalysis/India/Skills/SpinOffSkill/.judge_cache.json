@@ -28476,5 +28476,104 @@
    "read_next": "Any scheme-of-arrangement or demerger filing; none appears here \u2014 check FY26 annual report and board outcomes.",
    "quote": "The Options will be granted at an Exercise Price ranging from a minimum of 10% to a maximum of 25% of the Market Price of the Shares on the date of grant."
   }
+ },
+ "OSWALPUMPS::rationale": {
+  "stamp": "b788b489c47239853a1150c0317cff0b",
+  "verdict": {
+   "rationale": "There is no business separation in these texts: across all four calls (Aug 2025, Nov 2025, Feb 2026, May 2026) and all four filings, Oswal Pumps never announces a demerger, spin-off, slump sale, scheme of arrangement, or listing of any division \u2014 the only entity being separated from the group is a dormant shell, wholly owned subsidiary Oswal Green Private/Industries Private Limited, which the board resolved to strike off because 'it has no significant business operations', with a written-off investment of just INR 0.10 million. Every other structural move runs the opposite way \u2014 toward consolidation and deeper backward integration of the same solar-pumping value chain. On 08 June 2026 the company bought an additional 13,07,000 shares of associate Walso Solar Solution Pvt Ltd (mounting structures, BOS, turnkey solar pumping components) at Rs 28/share for Rs 3.66 crore via rights issue, taking it from 38.5% (plus 4.5% on 08 April 2026 and 8% in June) to 51% and converting it from associate into subsidiary, on the stated logic that vertical integration lets the group 'design and develop new products, optimize our operational costs and improve our margins'; Walso's FY26 turnover was INR 1,702.65 million versus INR 720.54 million in FY25. On 10 October 2026 the board approved a greenfield 1.2 GW solar cell plant at Karnal under WOS Oswal Solar Energy Pvt Ltd (formerly Oswal Solar Structure), total project cost INR 4,558.50 million, funded partly by re-directing INR 1,598.50 million of unutilised IPO proceeds away from the Aluminium Frame Facility, the remaining 300 MW EVA encapsulant line and the remaining 500 MW of module capacity, because DCR cells \u2014 not frames \u2014 are 'the binding constraint', with domestic cell makers offering long-term contracts 'only at elevated prices' and demanding 'very large deposits'; the captive plant is to cover ~75% of cell requirement. Earlier, the December 2025 postal-ballot 'First Variation' merely relocated the module plant to a larger adjacent Karnal parcel (28,000 sq m vs 13,983 sq m, 15-year lease from 25 June 2024) to share workforce, R&D, admin infrastructure and an existing electricity feeder. The one genuinely new legal vehicle is additive, not a carve-out: Oswal Solar Energy incorporated SPV Oswal Doon Baran Bundi Solar Projects Limited with Doon Infrapower Projects Pvt Ltd, holding 60%, to execute HAM rooftop PV on Rajasthan state government buildings. Management's answer to its real problem \u2014 single-scheme dependency on PM-KUSUM, whose 2.0 rollout slipped from 'before the end of this fiscal' to June 2026+ \u2014 is diversification inside the existing group (rooftop/PM Surya Ghar, utility, C&I, ~300 MW pipeline, exports, private network, in-house inverters), explicitly kept as backward integration and never 'a revenue model', not separation.",
+   "evolution": "No separation idea ever surfaces. Aug 2025 describes a fully integrated group (pumps/motors/controllers in-house, modules via Oswal Solar, structures/BOS via 38.5% associate Walso) and a backup plan of exports and private-market pumps if KUSUM 2.0 slips; Nov 2025 adds the module-plant land shift and the Oswal Green strike-off. Feb 2026, after receivable days hit 157 and Maharashtra's Magel Tyala payments stalled, management says the KUSUM 2.0 delay 'brought a point of diversification to our mind' \u2014 new verticals, EPC for large rooftops, invoice discounting \u2014 all housed internally. May 2026 formalises that with the first PM Surya Ghar order and the 60% Rajasthan HAM SPV, and the October 2026 cell-plant variation pulls capital further into the group rather than out of it.",
+   "points": [
+    {
+     "call": "Scheme",
+     "point": "The only entity exiting the group is a dormant wholly owned subsidiary being struck off \u2014 not a business separation but the wind-up of a shell with no operations (investment of INR 0.10 million written off).",
+     "quote": "The Board of our wholly-owned subsidiary Oswal Green Private Limited has resolved to initiate strike-off, as the company has no major business activity."
+    },
+    {
+     "call": "Scheme",
+     "point": "The June 2026 filing moves in the opposite direction to a separation: Walso Solar Solution (structures, BOS, turnkey pumping components; FY26 turnover INR 1,702.65 million) is taken from associate to 51%-owned subsidiary for Rs 3,65,96,000 at Rs 28/share.",
+     "quote": "Consequently, Walso Solar Solution Private Limited has become subsidiary of the Company, effective today."
+    },
+    {
+     "call": "Scheme",
+     "point": "Stated rationale for absorbing Walso is tighter vertical integration of the same value chain \u2014 cost and margin control \u2014 rather than any separation of businesses.",
+     "quote": "This approach provides us several advantages including the ability to design and develop new products, optimize our operational costs and improve our margins."
+    },
+    {
+     "call": "Scheme",
+     "point": "The October 2026 variation redirects INR 1,598.50 million of unutilised IPO money from the Aluminium Frame Facility, 300 MW EVA and 500 MW of module capacity into a 1.2 GW captive solar cell plant (project cost INR 4,558.50 million), because DCR cell supply, not frames, is the choke point.",
+     "quote": "The binding constraint for Oswal Solar's module business is the solar cell, not the frame."
+    },
+    {
+     "call": "Scheme",
+     "point": "The cell plant is explicitly captive \u2014 sized to internal need, not to be run as a separable merchant business.",
+     "quote": "At a capacity of 1.2 GW, it will meet approximately 75% of the Company's overall cell requirement, with the balance continuing to be sourced externally in the near term."
+    },
+    {
+     "call": "Nov 2025",
+     "point": "The only 'shift' management flagged in a call was physical, not corporate: moving the module expansion to a larger adjacent Karnal parcel (28,000 sq m vs 13,983 sq m) to share workforce, R&D, admin and an existing electricity feeder; approved by postal ballot on 17 December 2025.",
+     "quote": "Separately, we proposed shifting the solar module expansion project to a land parcel located adjacent to our existing plant."
+    },
+    {
+     "call": "Feb 2026",
+     "point": "Asked what happens if PM-KUSUM 2.0 slips, management's answer is new verticals built inside the existing company and subsidiaries \u2014 PM Surya Ghar, exports, private/domestic network, EPC for large rooftops \u2014 not a separation of the solar or pump business.",
+     "quote": "because of the delay, a point of diversification has also come to our mind and we have thought internally that the company should now be diversified even more in different verticals in the coming time, so that in the coming future, if any government scheme is delayed, then a very big impact should not come on our total revenue."
+    },
+    {
+     "call": "May 2026",
+     "point": "The one new vehicle created is an additive project SPV under the solar subsidiary, with a 60% stake alongside a partner, for Rajasthan HAM rooftop projects \u2014 a project structure, not a carve-out of existing operations.",
+     "quote": "Our wholly owned subsidiary, Oswal Solar Energy Private Limited, has also incorporated a special purpose vehicle, Oswal Doon Baran Bundi Solar Projects Limited, in partnership with Doon Infrapower Projects Private Limited, holding a 60% stake to execute rooftop solar photovoltaic power projects on state government buildings in Rajasthan under the Hybrid Annuity Model (HAM)."
+    },
+    {
+     "call": "May 2026",
+     "point": "Even the newest product line, inverters, is deliberately kept inside as captive backward integration rather than set up as a standalone sellable business \u2014 the group's consistent stance against separating components.",
+     "quote": "So, we are not taking the inverter as a solo sale model."
+    },
+    {
+     "call": "Aug 2025",
+     "point": "The baseline structure described at listing is a single integrated platform across parent, subsidiaries and associate \u2014 management treats this integration as the source of industry-leading margins.",
+     "quote": "Our deep integration helps us ensure consistent product quality, reduce dependency on external vendors, manage cost and delivery timelines more effectively, and consequently achieve industry-leading margins."
+    }
+   ],
+   "what_management_expects": "Nothing is said about a separation. For the moves actually made: absorbing Walso at 51% is to cut operational cost and improve margins; the captive 1.2 GW cell plant is to secure DCR supply, escape elevated contract prices and large deposits, deepen value addition, and strengthen group cost structure, competitive positioning in government programmes and consolidated profitability; the relocated module plant is cost-saving and value-accretive to all stakeholders.",
+   "gaps": "Everything about a separation: no demerger, scheme, record date, entity-level financials, swap ratio, rationale, or any investor, lender or partner request for one is mentioned anywhere."
+  }
+ },
+ "OSWALPUMPS::segments": {
+  "stamp": "ca2007875f5dc74e8a757094f53b7e10",
+  "verdict": {
+   "segment_name": "not stated \u2014 the documents disclose no separate business/segment being separated; both standalone and consolidated notes (Note 39.7) state the business falls within one broad segment (\"Various types of Pumps & Motors\" standalone; \"Various types of Solar, Pumps & Motors\" consolidated) with no separate reportable segments under Ind AS 108",
+   "unit": "\u20b9 million",
+   "measure_notes": "No segment result / EBIT / EBITDA / PBT is disclosed for any separated business, because the company explicitly treats Ind AS 108 segment disclosure as not applicable. The only disaggregation on the tagged pages is Ind AS 115 revenue by customer type (Government projects / export / other) and by geography (India / outside India), which is external revenue of the whole entity, not of a separable business. Pages carry no profit line at any sub-entity level. Figures left null rather than substituting entity-level totals (e.g. standalone sale of products and services \u20b917,746.00 mn FY26, \u20b912,505.09 mn FY25, \u20b97,588.73 mn FY24; consolidated \u20b920,412.79 mn FY26, \u20b914,093.37 mn FY25, \u20b97,448.60 mn FY24; consolidated Operating EBITDA \u20b94,199 mn and PAT \u20b92,806 mn FY25), since none of these are the own financials of a business being separated.",
+   "years": [
+    {
+     "fy": "FY2024",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "not available \u2014 Annual Report 2025 \u2014 pages 128, 206 state no reportable segments"
+    },
+    {
+     "fy": "FY2025",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "not available \u2014 Annual Report 2025 \u2014 pages 128, 206; Annual Report 2026 \u2014 pages 143, 224 state no reportable segments"
+    },
+    {
+     "fy": "FY2026",
+     "revenue": null,
+     "operating_profit": null,
+     "pat": null,
+     "source": "not available \u2014 Annual Report 2026 \u2014 pages 143, 144, 224, 225 state no reportable segments"
+    }
+   ],
+   "latest_quarter": {
+    "period": null,
+    "revenue": null,
+    "operating_profit": null,
+    "source": "not available \u2014 Presentation Nov 2025 \u2014 page 30 reports Q2 FY26 only at consolidated entity level (Revenue \u20b95,396 mn, Operating EBITDA \u20b91,280 mn), with no business-wise split"
+   },
+   "not_found": "All segment-level figures: no separated business is named, and no revenue, operating profit, PAT, or quarterly data exist for it on these pages \u2014 only whole-entity totals and revenue by customer type/geography."
+  }
  }
 }
