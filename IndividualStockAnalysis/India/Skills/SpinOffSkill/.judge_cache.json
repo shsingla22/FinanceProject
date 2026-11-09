@@ -41149,27 +41149,20 @@
   }
  },
  "ASTERDM::offering::preferential_issue": {
-  "stamp": "9c7df799123dfb439983ca03a19d4456",
+  "stamp": "b38a7d66c086808ebd721693b139eea6",
   "verdict": {
-   "instrument": "equity shares",
-   "securities": "10,24,62,779 equity shares of face value INR 10/- each",
-   "issue_price": "not stated (face value INR 10 each)",
-   "total_amount": "INR 102.46 Cr (conversion of pre-existing loan)",
-   "pricing_basis": "\"The conversion of the loan into equity shares has been basis the valuation report procured from Krol Advisory Private Limited\" \u2014 no SEBI ICDR floor or market-price reference stated",
-   "allottees": [
-    {
-     "name": "Aster DM Quality Care Limited (the Company; holder of 100% of Sri Sainatha Multispeciality Hospitals Private Limited, the issuer)",
-     "category": "promoter",
-     "securities": "10,24,62,779",
-     "amount": "INR 102.46 Cr"
-    }
-   ],
-   "promoter_share_of_issue": "not stated (whole issue is to the Company as 100% holder; \"No change in shareholding. The Company continues to hold 100% in the equity share capital of Sri Sainatha\")",
+   "instrument": "other",
+   "securities": "not stated",
+   "issue_price": "not stated",
+   "total_amount": "not stated",
+   "pricing_basis": "not stated",
+   "allottees": [],
+   "promoter_share_of_issue": "not stated",
    "promoter_intent": "not stated",
    "upfront_paid": "not stated",
-   "purpose": "Internal capital restructuring: conversion of a pre-existing INR 102.46 Cr loan into equity; no fresh infusion of funds and no impact on ownership or control.",
-   "stage": "board approved",
-   "quote": "As a part of internal capital restructuring the Company, a loan of INR 102.46 Cr extended by the Company to Sri Sainatha is being converted into 10,24,62,779 equity shares of face value INR 10 each of Sri Sainatha."
+   "purpose": "not stated",
+   "stage": "not stated",
+   "quote": "not stated"
   }
  },
  "BHARATFORG::offering::preferential_issue": {
@@ -46086,27 +46079,20 @@
   }
  },
  "VIYASH::offering::preferential_issue": {
-  "stamp": "676ea0796ccf3d8259eeb6813bff998b",
+  "stamp": "2d9ff47f8cd86837814db1e5c8f2f926",
   "verdict": {
    "instrument": "equity shares",
-   "securities": "10,30,775 Equity Shares of Rs. 2/- each (ESOP exercise allotment; this filing text states no preferential issue, and the figure 25,41,12,649 does not appear)",
-   "issue_price": "Rs. 101/- per equity share (including premium of Rs. 99/- per equity share)",
+   "securities": "25,41,12,649",
+   "issue_price": "not stated",
    "total_amount": "not stated",
    "pricing_basis": "not stated",
-   "allottees": [
-    {
-     "name": "Eligible optionees (employees of the Company and its Subsidiaries) under Viyash Scientific Limited Employee Stock Option Scheme, 2026",
-     "category": "non-promoter",
-     "securities": "10,30,775",
-     "amount": "not stated"
-    }
-   ],
+   "allottees": [],
    "promoter_share_of_issue": "not stated",
    "promoter_intent": "not stated",
    "upfront_paid": "not stated",
    "purpose": "not stated",
-   "stage": "board approved",
-   "quote": "Allotment of 10,30,775 Equity Shares of Rs. 2/- each, fully paid to eligible optionees at an exercise price of Rs. 101/- per equity share (including premium of Rs. 99/- per equity share) on exercise of the options granted under Viyash Scientific Limited Employee Stock Option Scheme, 2026 (\"ESOP Scheme 2026\")."
+   "stage": "not stated",
+   "quote": "not stated"
   }
  },
  "WOCKPHARMA::offering::rights_issue": {
@@ -46144,7 +46130,7 @@
   }
  },
  "VIYASH::offering::rights_issue": {
-  "stamp": "676ea0796ccf3d8259eeb6813bff998b",
+  "stamp": "2d9ff47f8cd86837814db1e5c8f2f926",
   "verdict": {
    "instrument": "rights equity shares",
    "securities": "not stated",
@@ -46153,18 +46139,18 @@
    "pricing_basis": "not stated",
    "allottees": [
     {
-     "name": "Viyash Scientific Limited (subscribing to equity shares of Alivira Animal Health Limited, India (\"AAHL\"), its wholly owned subsidiary)",
-     "category": "promoter",
+     "name": "Viyash Scientific Limited (subscribing to equity shares of Alivira Animal Health Limited, India, its wholly owned subsidiary)",
+     "category": "non-promoter",
      "securities": "not stated",
      "amount": "up to Rs. 400,02,15,648"
     }
    ],
    "promoter_share_of_issue": "not stated",
-   "promoter_intent": "\"Approved subscription to equity shares of AAHL on rights basis (\u201cRights Issue\u201d), a wholly owned subsidiary of the Company, for an overall consideration of up to Rs. 400,02,15,648\u2026 Being a wholly owned subsidiary, there is no change in the shareholding percentage of the Company in AAHL, pursuant to this investment.\" The filing adds that \u201cnone of the Company\u2019s promoter/ promoter group / group compa[nies]\u201d has an interest in AAHL India.",
+   "promoter_intent": "not stated",
    "upfront_paid": "not stated",
-   "purpose": "Subscription adjusted against intercompany loan extended by the Company; intended to strengthen AAHL's capital structure and reduce interest burden.",
+   "purpose": "Subscription adjusted against intercompany loan; intended to strengthen AAHL's capital structure and reduce interest burden",
    "stage": "board approved",
-   "quote": "Approved subscription to equity shares of AAHL on rights basis (\u201cRights Issue\u201d), a wholly owned subsidiary of the Company, for an overall consideration of up to Rs. 400,02,15,648 (Rupees Four Hundred Crore Two Lakh Fifteen Thousand Six Hundred and Forty-Eight Only)."
+   "quote": "Approved subscription to equity shares of AAHL on rights basis (\u201cRights Issue \u201d), a wholly owned subsidiary of the Company, for an overall consideration of up to  Rs. 400,02,15,648  (Rupees Four Hundred Crore Two Lakh Fifteen Thous and Six Hundred and Forty -Eight Only )."
   }
  },
  "AARTIDRUGS::offering::rights_issue": {
@@ -46728,9 +46714,9 @@
   }
  },
  "ASTERDM::offering::rights_issue": {
-  "stamp": "9c7df799123dfb439983ca03a19d4456",
+  "stamp": "b38a7d66c086808ebd721693b139eea6",
   "verdict": {
-   "instrument": "not stated",
+   "instrument": "other",
    "securities": "not stated",
    "issue_price": "not stated",
    "total_amount": "not stated",
@@ -48318,7 +48304,7 @@
   }
  },
  "LUMAXTECH::offering::rights_issue": {
-  "stamp": "46f8fe2bb2a0a10aa7f4b6879f3472a6",
+  "stamp": "5037d824fdfe077d95489472abad0be9",
   "verdict": {
    "instrument": "equity shares",
    "securities": "1,29,18,113",
