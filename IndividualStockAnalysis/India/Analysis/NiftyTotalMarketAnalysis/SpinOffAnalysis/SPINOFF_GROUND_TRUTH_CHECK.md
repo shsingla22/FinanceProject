@@ -1,6 +1,6 @@
 # Demerger list checked against NSE's register
 
-*Skill run 2026-11-08 · register from the daily bhavcopy bundles' corporate-actions file and NSE's corporate-actions API · 8 universe demerger record dates in the window.*
+*Skill run 2026-11-09 · register from the daily bhavcopy bundles' corporate-actions file and NSE's corporate-actions API · 8 universe demerger record dates in the window.*
 
 | | Count |
 |---|---:|
@@ -23,13 +23,13 @@
 | **SKFINDIA** | 2025-10-15 | DEMERGER; Demerger | demerger/merger | confirmed | record_date |  | ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50 | captured |
 | **TMPV** | 2025-10-14 | Demerger | demerger | confirmed | record_date |  | ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50 | captured |
 | **TRIVENI** | 2026-07-22 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue | confirmed | listed | Triveni Power Transmission Limited | ACEVECTOR, ACGL, ADDIND, ADROITIND | captured |
-| **VEDL** | 2026-05-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | record_date | Talwandi Sabo Power Limited | AASTHA, AGL, AURUS, AVG-RE | captured |
+| **VEDL** | 2026-05-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Talwandi Sabo Power Limited | AASTHA, AGL, AURUS, AVG-RE | captured |
 
 ## Precision — every confirmed demerger in the skill
 
 | Company | Stage | Listed on | Register date(s) | What is spun (judge) | Verdict |
 |---|---|---|---|---|---|
-| **ABLBL** | listed | 2025-06-23 |  | Madura Fashion and Lifestyle ('MFL') Business — branded apparels (garments and a | verified by NSE's equity list — this company is the listed resulting company (listed 2025-06-23) |
+| **ABLBL** | listed | 2025-06-23 |  | Madura Fashion and Lifestyle ('MFL') branded apparel business demerged from Adit | verified by NSE's equity list — this company is the listed resulting company (listed 2025-06-23) |
 | **ANANTRAJ** | announced |  |  | The Data Centre and Cloud Services business of ARL and ARCPL, vested in Ashok Cl | pending — not yet verifiable (no record date yet) |
 | **APOLLOHOSP** | nclt_sanction |  |  | Apollo's omnichannel pharmacy and digital health business, demerged into a separ | pending — not yet verifiable (no record date yet) |
 | **ASTRAL** | announced |  |  | Chemicals Business Undertaking — adhesives, sealants, construction chemicals — i | pending — not yet verifiable (no record date yet) |
@@ -40,7 +40,7 @@
 | **HINDUNILVR** | listed | 2025-12-05 | 2025-12-05 | HUL's Ice Cream business undertaking, demerged into Kwality Wall's (India) Limit | verified by the register |
 | **HSCL** | announced |  |  | Dalmia Bharat Refractories' Tyre Business — designing, manufacturing and develop | pending — not yet verifiable (no record date yet) |
 | **INDIAGLYCO** | listed | 2026-08-20 | 2026-09-02 | The Bio Pharma (Biopharma) Undertaking — bio-pharma and bio-polymers businesses, | verified by the register |
-| **INOXGREEN** | record_date | 2026-08-01 | 2026-08-01 | Power Evacuation Business (substation/evacuation infrastructure) demerged from I | verified by the register |
+| **INOXGREEN** | record_date | 2026-08-01 | 2026-08-01 | Power Evacuation (substation/EPC) business undertaking of Inox Green, transferre | verified by the register |
 | **LEMONTREE** | nclt_sanction |  |  | Asset-heavy hotel ownership and development undertaking: 12 hotels (11 operating | pending — not yet verifiable (no record date yet) |
 | **MAHSEAMLES** | announced |  |  | Two seamless pipe plants: Mangaon (125,000 MTPA) with Beed solar; Narketpally Te | pending — not yet verifiable (no record date yet) |
 | **MOTHERSON** | announced |  |  | Automotive Manufacturing and Services Business (Demerged Undertaking) of Samvard | pending — not yet verifiable (no record date yet) |
@@ -51,12 +51,12 @@
 | **SKFINDIA** | record_date | 2025-10-15 | 2025-10-15 | The Industrial business (Demerged Undertaking) — bearings for infrastructure, ma | verified by the register |
 | **SKFINDUS** | listed | 2025-12-05 |  | SKF India's Industrial Undertaking — bearings and units, condition monitoring an | verified by NSE's equity list — this company is the listed resulting company (listed 2025-12-05) |
 | **STAR** | effective |  |  | Arco Lab's Life Sciences business and Digital Innovation business — its tech-ena | pending — not yet verifiable (no record date yet) |
-| **THOMASCOOK** | nclt_sanction |  |  | TCIL's resorts and resort management business (Nature Trails brand) demerged int | pending — not yet verifiable (no record date yet) |
+| **THOMASCOOK** | nclt_sanction |  |  | TCIL's Resorts and Resort Management business — 6 Nature Trails resorts — transf | pending — not yet verifiable (no record date yet) |
 | **TMCV** | listed | 2025-11-12 |  | Tata Motors' commercial vehicle business (trucks, buses, pick-ups, vans), demerg | verified by NSE's equity list — this company is the listed resulting company (listed 2025-11-12) |
 | **TMPV** | record_date | 2025-10-14 | 2025-10-14 | The Commercial Vehicles business, demerged from Tata Motors Limited into TML Com | verified by the register |
 | **TRIVENI** | listed | 2026-10-09 | 2026-07-22 | The Power Transmission Business: high-speed and niche low-speed gearboxes, defen | verified by the register |
 | **UPL** | exchange_noc |  |  | India plus international crop protection business, consolidated into a listed pu | pending — not yet verifiable (no record date yet) |
-| **VEDL** | record_date | 2026-04-20 | 2026-05-01 | Merchant Power Undertaking — Vedanta's merchant thermal power generation busines | verified by the register |
+| **VEDL** | record_date | 2026-04-20 | 2026-05-01 | Aluminium, Merchant Power (to Talwandi Sabo Power), Oil & Gas and Iron Ore under | verified by the register |
 
 ## Reading the result
 
