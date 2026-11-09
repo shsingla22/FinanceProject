@@ -142,6 +142,24 @@ NOISE_PREFIXES = ("Issue of Duplicate Share Cer", "Loss of Share Certificate",
                   "Certificate under SEBI", "Monitoring Agency Report")
 
 
+# Clauses that name a demerger without there being one: the ESOP / SAR
+# adjustment clause ("in case of any corporate action such as rights
+# issue, bonus issue, merger/demerger, spin-off … the options shall be
+# adjusted") and the Listing-Regulations recital. Stripped before a kind is
+# read from a document's body, and before evidence is quoted.
+BOILERPLATE_CLAUSE_RX = re.compile(
+    r"(?:in (?:the )?(?:case|event) of|upon|on account of|pursuant to)\s+(?:any\s+)?corporate\s+actions?(?:\s*\(s\))?"
+    r"[^.;]{0,400}|"
+    r"(?:such as|like|including)\s+(?:a\s+)?(?:rights?\s+issues?|bonus\s+issues?)[^.;]{0,300}|"
+    r"regulation\s+37\s+of\s+(?:the\s+)?sebi[^.;]{0,200}", re.I)
+
+
+def strip_boilerplate(text: str) -> str:
+    """The text with the boilerplate clauses blanked (length kept, so line
+    numbers and offsets still point into the stored file)."""
+    return BOILERPLATE_CLAUSE_RX.sub(lambda m: " " * len(m.group(0)), text or "")
+
+
 def classify(category: str, headline: str) -> tuple[str, list[str]]:
     """(kind, tags) for one filing; kind == "" when it is not a
     restructuring filing. Newspaper copies and the like are noise."""

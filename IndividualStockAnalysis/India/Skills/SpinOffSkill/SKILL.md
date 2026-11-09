@@ -217,7 +217,7 @@ python3 scripts/analyze.py company THOMASCOOK                      # one company
 python3 scripts/analyze.py render                                  # re-render the report from the saved run, no judge
 python3 ../../Announcements/demerger_ground_truth.py --days 400    # NSE's register from the bhavcopy bundles
 python3 scripts/validate_demergers.py                              # the list against the register; exit 1 on a miss
-python3 -m pytest scripts/test_skill.py -q                         # 52 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 55 tests, offline
 ```
 
 ## Outputs

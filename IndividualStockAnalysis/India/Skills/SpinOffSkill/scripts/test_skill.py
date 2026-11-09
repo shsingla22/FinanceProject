@@ -387,6 +387,22 @@ def test_probable_table_puts_demergers_first_and_links_its_sources():
     assert [r["symbol"] for r in sorted(rows, key=AZ.probable_order)] == ["D2", "D1", "I", "L", "S"]
 
 
+def test_esop_boilerplate_does_not_make_a_demerger():
+    esop = ("RESOLVED FURTHER THAT in case of any corporate action(s) such as rights issue, bonus issue, "
+            "merger/demerger, spin-off, consolidation, amalgamation, the outstanding options granted under the "
+            "ESOP Plan 2024 shall be suitably adjusted. RESOLVED FURTHER THAT the Board be authorised.")
+    stripped = FA.strip_boilerplate(esop)
+    assert len(stripped) == len(esop) and "demerger" not in stripped and "authorised" in stripped
+    assert DR.classify_text(esop) == []
+    assert SO.evidence_in(esop, "demerger") == []
+    real = esop + " The Board approved the demerger of the Sugar Business into Piccadily Sugar Limited, the Resulting Company."
+    assert DR.classify_text(real) == ["demerger"]
+    ev = SO.evidence_in(real, "demerger")
+    assert ev[0]["keyword"] == "demerger" and "Sugar Business" in ev[0]["sentence"]
+    row = {"kind": "scheme_other"}
+    assert SO.refine_kind(row, esop * 3) == "scheme_other"
+
+
 def test_evidence_quotes_the_keyword_line_and_sentence(tmp_path, monkeypatch):
     text = ("Sub: Outcome of Board Meeting\n\nThe Board at its meeting held today approved the Scheme of Arrangement. "
             "It provides for the demerger of the Sugar Business into Piccadily Sugar Limited (the Resulting Company).\n"

@@ -323,7 +323,7 @@ def refine_kind(row: dict, text: str) -> str:
     kind = row["kind"]
     if not text:
         return kind
-    head = text[:60_000].lower()
+    head = FA.strip_boilerplate(text[:60_000]).lower()
     demerg = len(re.findall(r"\bde-?merg", head))
     amalg = len(re.findall(r"amalgamat|\bmerger\b", head))
     listing = bool(FA.PATTERNS["subsidiary_listing"].search(head))
@@ -690,6 +690,7 @@ def evidence_in(text: str, kind: str, max_hits: int = 2) -> list[dict]:
     rx = EVIDENCE_RX.get(kind)
     if not rx or not text:
         return []
+    text = FA.strip_boilerplate(text)       # same length: line numbers still point into the file
     out, seen = [], set()
     for m in rx.finditer(text):
         kw = re.sub(r"\s+", " ", m.group(0)).lower()

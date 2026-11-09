@@ -89,7 +89,7 @@ BOILERPLATE_RX = re.compile(r"pursuant to (the )?scheme of arrangement.{0,60}(ap
 
 def classify_text(text: str) -> list[str]:
     """Kinds the first pages support, in KIND_ORDER."""
-    t = (text or "")[:40_000]
+    t = FA.strip_boilerplate((text or "")[:40_000])
     if not t.strip():
         return []
     tags = []
@@ -271,11 +271,36 @@ def restructuring_rows(store: dict[str, dict]) -> list[dict]:
     return out
 
 
+def retag(store: dict[str, dict] | None = None, note=print) -> dict[str, dict]:
+    """Re-classify every READ filing from its stored first pages with the
+    current rules (no download): after a rule changes, the tags follow."""
+    store = store if store is not None else load_all()
+    changed = 0
+    for r in store.values():
+        if r.get("read_status") != "read" or not r.get("first_text"):
+            continue
+        p = FA.OUT_DIR / r["first_text"]
+        text = p.read_text(errors="replace") if p.exists() else ""
+        _, tags = classify_all(r["category"], r["headline"], text)
+        new = "|".join(tags)
+        if new != (r.get("tags") or ""):
+            changed += 1
+            r["tags"] = new
+    save_all(store)
+    note("deep", f"re-tagged from stored text: {changed} filings changed; "
+                 f"{sum(1 for r in store.values() if r.get('tags'))} carry a restructuring tag")
+    return store
+
+
 if __name__ == "__main__":
     import datetime as dt
+    log = lambda s, m: print(f"[{s}] {m}", file=sys.stderr)             # noqa: E731
+    if "--retag" in sys.argv:
+        retag(note=log)
+        sys.exit(0)
     members = FA.universe()
     feeds = []
     for a, b in FA.month_windows(dt.date.today(), 370):
         feeds.append(FA.nse_fetch(a, b))
         time.sleep(1)
-    run_deep(feeds, members, note=lambda s, m: print(f"[{s}] {m}", file=sys.stderr))
+    run_deep(feeds, members, note=log)
