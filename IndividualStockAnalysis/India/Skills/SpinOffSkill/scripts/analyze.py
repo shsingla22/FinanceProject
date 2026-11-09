@@ -630,6 +630,47 @@ def render_light_tail(s: dict) -> list[str]:
     return A
 
 
+KIND_RANK = {"demerger": 0, "subsidiary_listing": 1, "scheme_other": 2, "merger": 3}
+CONF_RANK = {"confirmed": 0, "probable": 1, "indicated": 2, "other": 3}
+NSE_QUOTE = "https://www.nseindia.com/get-quotes/equity?symbol={sym}"
+
+
+def probable_order(s: dict) -> tuple:
+    """Demergers first, then subsidiary listings, then unclear schemes;
+    probable before indicated; higher score first."""
+    return (KIND_RANK.get(s["kind"], 9), CONF_RANK.get(s["confidence"][0], 9),
+            -float(s.get("verdict", {}).get("score") or 0), s["symbol"])
+
+
+def source_links(s: dict, limit: int = 4) -> str:
+    """Markdown links to the documents a situation was read from: the
+    exchange filings carrying its kind (newest first, the attachment on
+    NSE), call transcripts for call mentions, NSE's corporate-actions
+    page for a register record date. Up to `limit`, then '+N more'."""
+    heads = sorted(s.get("headlines", []), key=lambda h: h["date"], reverse=True)
+    own = [h for h in heads if h["kind"] == s["kind"]] or heads
+    seen, out = set(), []
+    for h in own + [h for h in heads if h not in own]:
+        url = h.get("attachment") or ""
+        cat = h.get("category", "")
+        if cat.startswith("Record Date (corporate"):
+            url, label = NSE_QUOTE.format(sym=s["symbol"]), f"{h['date']} NSE register"
+        elif cat.startswith("Earnings call"):
+            label = f"{h['date'][:7]} call transcript"
+        else:
+            label = f"{h['date']} {cat[:28]}"
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        out.append(f"[{label}]({url})")
+        if len(out) == limit:
+            break
+    more = sum(1 for h in heads if h.get("attachment")) - len(out)
+    if more > 0:
+        out.append(f"+{more} more")
+    return "<br>".join(out) if out else "—"
+
+
 def render_report(record: dict) -> str:
     m = record["meta"]
     sits = record["situations"]
@@ -663,13 +704,19 @@ def render_report(record: dict) -> str:
                  f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} | {s['verdict']['label'].split(' — ')[0]} |")
     if not confirmed:
         A.append("| — | | | | | |")
+    # demergers first, then subsidiary listings, then schemes of unclear
+    # nature; probable before indicated; then by score
+    probable.sort(key=probable_order)
+    indicated.sort(key=probable_order)
     A += ["", "## Probable and indicated", "",
-          "| Company | What | Confidence | Stage | Listing | Score |", "|---|---|---|---|---|---:|"]
-    for s in probable + indicated:
+          "Demergers first, then subsidiary listings, then schemes whose nature the documents do not settle. "
+          "**Sources** links the exchange filings (newest first) or the call transcript each row was read from.", "",
+          "| Company | What | Confidence | Stage | Listing | Score | Sources |", "|---|---|---|---|---|---:|---|"]
+    for s in sorted(probable + indicated, key=probable_order):
         A.append(f"| **{s['symbol']}** | {s['family']} | {s['confidence'][0]} — {s['confidence'][1][:60]} | "
-                 f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} |")
+                 f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} | {source_links(s)} |")
     if not probable and not indicated:
-        A.append("| — | | | | | |")
+        A.append("| — | | | | | | |")
     A.append("")
     if others:
         A += ["<details><summary>Other restructurings on file (mergers, slump sales, rights, "
@@ -983,9 +1030,23 @@ def cmd_company(args) -> None:
     print(json.dumps(sits, indent=1, default=str))
 
 
+def cmd_render(args) -> None:
+    """Re-render the report from the saved run (spinoff_latest.json) — a
+    presentation change needs no re-judging."""
+    record = json.loads(LATEST.read_text())
+    md = render_report(record)
+    REPORT.write_text(md)
+    snap = HISTORY / record["meta"]["run_date"]
+    if snap.exists():
+        shutil.copy(REPORT, snap / REPORT.name)
+    print(f"re-rendered {REPORT} ({len(md.splitlines())} lines) from the run of {record['meta']['run_date']}",
+          file=sys.stderr)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
+    sub.add_parser("render", help="re-render the report from the saved run, no judge")
     r = sub.add_parser("run")
     r.add_argument("--refresh", action="store_true", help="re-pull the filings first")
     r.add_argument("--fetch-docs", action="store_true",
@@ -1003,7 +1064,7 @@ def main() -> None:
     c.add_argument("symbol")
     c.add_argument("--quick", action="store_true")
     args = ap.parse_args()
-    {"run": cmd_run, "company": cmd_company}[args.cmd](args)
+    {"run": cmd_run, "company": cmd_company, "render": cmd_render}[args.cmd](args)
 
 
 if __name__ == "__main__":

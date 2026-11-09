@@ -361,6 +361,32 @@ def test_judge_is_cached_by_document_and_abstains_without_a_runner(tmp_path, mon
     assert AZ.judge({**sit, "symbol": "BETA"}, SCHEME, "", runner=lambda p: "garbage")["status"].startswith("judge failed")
 
 
+def test_probable_table_puts_demergers_first_and_links_its_sources():
+    def sit(sym, kind, conf, score, heads):
+        return {"symbol": sym, "kind": kind, "confidence": (conf, "why"), "verdict": {"score": score},
+                "family": AZ.SO.family_of(kind), "stage": "announced", "listing": {"short": "NOT YET"}, "headlines": heads}
+    heads = [{"date": "2026-01-10", "category": "Outcome of Board Meeting", "kind": "demerger",
+              "headline": "x", "attachment": "https://nsearchives.nseindia.com/a.pdf"},
+             {"date": "2026-03-01", "category": "Updates", "kind": "demerger", "headline": "y",
+              "attachment": "https://nsearchives.nseindia.com/b.pdf"},
+             {"date": "2026-04-30", "category": "Earnings call Apr 2026", "kind": "demerger", "headline": "q",
+              "attachment": "https://www.bseindia.com/t.pdf"},
+             {"date": "2026-02-02", "category": "Record Date (corporate-actions register)", "kind": "demerger",
+              "headline": "r", "attachment": ""},
+             {"date": "2026-02-03", "category": "Updates", "kind": "merger", "headline": "m",
+              "attachment": "https://nsearchives.nseindia.com/b.pdf"}]          # same url, not repeated
+    links = AZ.source_links(sit("A", "demerger", "probable", 5, heads))
+    assert links.startswith("[2026-04 call transcript](https://www.bseindia.com/t.pdf)")
+    assert "[2026-03-01 Updates](https://nsearchives.nseindia.com/b.pdf)" in links
+    assert "[2026-02-02 NSE register](https://www.nseindia.com/get-quotes/equity?symbol=A)" in links
+    assert links.count("](") == 4 and "more" not in links
+    assert AZ.source_links(sit("B", "demerger", "probable", 5, [])) == "—"
+    rows = [sit("S", "scheme_other", "probable", 9, []), sit("I", "demerger", "indicated", 9, []),
+            sit("L", "subsidiary_listing", "probable", 8, []), sit("D1", "demerger", "probable", 4, []),
+            sit("D2", "demerger", "probable", 7, [])]
+    assert [r["symbol"] for r in sorted(rows, key=AZ.probable_order)] == ["D2", "D1", "I", "L", "S"]
+
+
 def test_judge_answer_parsing_tolerates_fences_prose_and_retries_once(tmp_path, monkeypatch):
     monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
     # fenced, with prose around it and a trailing comma — still read
