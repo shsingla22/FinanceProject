@@ -542,6 +542,28 @@ def merge_rows(old: list[dict], new: list[dict]) -> list[dict]:
     return sorted(by.values(), key=lambda r: (r["date"], r["symbol"], r["ann_id"]))
 
 
+def reconcile_with_store(rows: list[dict], store: dict[str, dict]) -> tuple[list[dict], int, int]:
+    """The deep-read store is the word on an NSE filing's tags: a merged
+    row whose filing the store has READ takes the store's tags, and one the
+    store now reads as carrying no restructuring at all is dropped (a rule
+    change — the ESOP clause — must not leave a stale tag behind in the
+    restructuring file). Rows from other sources are untouched.
+    Returns (rows, retagged, dropped)."""
+    out, retagged, dropped = [], 0, 0
+    for r in rows:
+        d = store.get(r.get("ann_id", "")) if r.get("source") in ("NSE", "NSE-deep") else None
+        if d and d.get("read_status") == "read":
+            tags = d.get("tags") or ""
+            if not tags:
+                dropped += 1
+                continue
+            if tags != (r.get("tags") or ""):
+                r = {**r, "tags": tags, "kind": tags.split("|")[0]}
+                retagged += 1
+        out.append(r)
+    return out, retagged, dropped
+
+
 # ------------------------------------------------------------------ main
 
 def run(days: int = 365, bse: bool = True, pdf: bool = True,
@@ -692,6 +714,9 @@ def run(days: int = 365, bse: bool = True, pdf: bool = True,
     # the phase the notes care most about, and its stage must say so
     merged = [r for r in merged if r["date"] >= cutoff or r["symbol"] not in members
               or r.get("source") == "NSE-register"]
+    if deep:
+        merged, n_retag, n_drop = reconcile_with_store(merged, store)
+        note("deep", f"store reconciled: {n_retag} rows re-tagged, {n_drop} stale rows dropped")
 
     # ---- attachment text
     if pdf:

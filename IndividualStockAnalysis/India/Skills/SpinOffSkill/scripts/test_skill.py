@@ -387,6 +387,22 @@ def test_probable_table_puts_demergers_first_and_links_its_sources():
     assert [r["symbol"] for r in sorted(rows, key=AZ.probable_order)] == ["D2", "D1", "I", "L", "S"]
 
 
+def test_restructuring_rows_follow_the_deep_store_after_a_rule_change():
+    store = {"a1": {"read_status": "read", "tags": ""},                 # read, nothing left after the rule change
+             "a2": {"read_status": "read", "tags": "merger|rights_issue"},
+             "a3": {"read_status": "", "tags": ""}}                     # not read: headline tag stands
+    rows = [{"source": "NSE", "ann_id": "a1", "kind": "demerger", "tags": "demerger|merger"},
+            {"source": "NSE", "ann_id": "a2", "kind": "demerger", "tags": "demerger"},
+            {"source": "NSE", "ann_id": "a3", "kind": "demerger", "tags": "demerger"},
+            {"source": "NSE-BM", "ann_id": "a1", "kind": "demerger", "tags": "demerger"},   # other source: untouched
+            {"source": "CALLS", "ann_id": "c1", "kind": "demerger", "tags": "demerger"}]
+    out, retagged, dropped = FA.reconcile_with_store(rows, store)
+    assert dropped == 1 and retagged == 1
+    assert [(r["source"], r["ann_id"], r["kind"]) for r in out] == [
+        ("NSE", "a2", "merger"), ("NSE", "a3", "demerger"), ("NSE-BM", "a1", "demerger"), ("CALLS", "c1", "demerger")]
+    assert out[0]["tags"] == "merger|rights_issue"
+
+
 def test_esop_boilerplate_does_not_make_a_demerger():
     esop = ("RESOLVED FURTHER THAT in case of any corporate action(s) such as rights issue, bonus issue, "
             "merger/demerger, spin-off, consolidation, amalgamation, the outstanding options granted under the "
