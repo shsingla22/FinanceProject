@@ -387,6 +387,38 @@ def test_probable_table_puts_demergers_first_and_links_its_sources():
     assert [r["symbol"] for r in sorted(rows, key=AZ.probable_order)] == ["D2", "D1", "I", "L", "S"]
 
 
+def test_evidence_quotes_the_keyword_line_and_sentence(tmp_path, monkeypatch):
+    text = ("Sub: Outcome of Board Meeting\n\nThe Board at its meeting held today approved the Scheme of Arrangement. "
+            "It provides for the demerger of the Sugar Business into Piccadily Sugar Limited (the Resulting Company).\n"
+            "Other matters were also considered.\n")
+    ev = SO.evidence_in(text, "demerger", 2)
+    assert ev[0]["keyword"] == "demerger" and ev[0]["line"] == 3 and "Sugar Business" in ev[0]["sentence"]
+    assert ev[1]["keyword"].lower().startswith("resulting compan")
+    assert SO.evidence_in(text, "subsidiary_listing") == [] and SO.evidence_in("", "demerger") == []
+    assert SO.evidence_in("DRHP filed for the IPO of the subsidiary", "subsidiary_listing")[0]["keyword"] == "DRHP"
+    # the cell: link · keyword · stored text file with line · sentence, from the filings index
+    monkeypatch.setattr(SO, "ANN_DIR", tmp_path)
+    (tmp_path / "text").mkdir()
+    (tmp_path / "text" / "P_a1.txt").write_text(text)
+    row = {"symbol": "P", "date": "2026-03-02", "headline": "Outcome of Board Meeting", "ann_id": "a1",
+           "text_file": "text/P_a1.txt", "attachment": "https://nsearchives.nseindia.com/p.pdf"}
+    idx = AZ.rows_index([row])
+    s = {"symbol": "P", "kind": "demerger", "headlines": [
+        {"date": "2026-03-02", "category": "Outcome of Board Meeting", "kind": "demerger", "headline": "Outcome of Board Meeting",
+         "attachment": "https://nsearchives.nseindia.com/p.pdf"},                       # no ann_id: a saved run
+        {"date": "2026-04-30", "category": "Earnings call Apr 2026", "kind": "demerger",
+         "headline": "we expect the demerger to complete next year", "attachment": "https://www.bseindia.com/t.pdf"},
+        {"date": "2026-01-05", "category": "Updates", "kind": "demerger", "headline": "Intimation of demerger update",
+         "attachment": "https://nsearchives.nseindia.com/u.pdf"}]}                       # no text on file → headline
+    cell = AZ.sources_and_evidence(s, idx)
+    parts = cell.split("<br>")
+    assert parts[0].startswith("[2026-04 call transcript](https://www.bseindia.com/t.pdf) · **demerger** · P.pdf · “we expect")
+    assert "[2026-03-02 Outcome of Board Meeting](https://nsearchives.nseindia.com/p.pdf) · **demerger** · [text line 3](" in parts[1]
+    assert "text/P_a1.txt#L3" in parts[1] and "Sugar Business" in parts[1]
+    assert parts[2].startswith("[2026-01-05 Updates](https://nsearchives.nseindia.com/u.pdf) · **demerger** · headline ·")
+    assert AZ.sources_and_evidence({"symbol": "Q", "kind": "demerger", "headlines": []}, idx) == "—"
+
+
 def test_judge_answer_parsing_tolerates_fences_prose_and_retries_once(tmp_path, monkeypatch):
     monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
     # fenced, with prose around it and a trailing comma — still read

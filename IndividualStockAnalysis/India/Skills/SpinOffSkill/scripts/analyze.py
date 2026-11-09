@@ -642,36 +642,124 @@ def probable_order(s: dict) -> tuple:
             -float(s.get("verdict", {}).get("score") or 0), s["symbol"])
 
 
-def source_links(s: dict, limit: int = 4) -> str:
-    """Markdown links to the documents a situation was read from: the
-    exchange filings carrying its kind (newest first, the attachment on
-    NSE), call transcripts for call mentions, NSE's corporate-actions
-    page for a register record date. Up to `limit`, then '+N more'."""
+def rows_index(rows: list[dict]) -> dict:
+    """The filings store keyed two ways, so a saved run's headlines (which
+    may predate ann_id on headlines) find their stored text file."""
+    idx: dict = {}
+    for r in rows:
+        if r.get("ann_id"):
+            idx[("id", r["symbol"], r["ann_id"])] = r
+        idx[("hd", r["symbol"], r["date"], (r.get("headline") or "")[:220])] = r
+    return idx
+
+
+_CALL_PAGES: dict[str, list[str]] = {}
+
+
+def call_page(symbol: str, quote: str) -> int | None:
+    """The page of the consolidated transcript PDF (ConferenceCalls/…/
+    SYMBOL.pdf) that carries the quote, or None."""
+    if symbol not in _CALL_PAGES:
+        pages: list[str] = []
+        p = SO.CONCALLS / f"{symbol}.pdf"
+        if p.exists():
+            try:
+                import PyPDF2                                   # noqa: PLC0415
+                reader = PyPDF2.PdfReader(str(p), strict=False)
+                pages = [re.sub(r"\s+", " ", pg.extract_text() or "") for pg in reader.pages]
+            except Exception:                                   # noqa: BLE001
+                pages = []
+        _CALL_PAGES[symbol] = pages
+    needle = re.sub(r"\s+", " ", quote.strip(" …\"“”"))[:80]
+    if len(needle) < 20:
+        return None
+    for i, t in enumerate(_CALL_PAGES[symbol], 1):
+        if needle in t:
+            return i
+    return None
+
+
+def _rel(path: Path) -> str:
+    return os.path.relpath(path, OUT_DIR).replace(os.sep, "/")
+
+
+def sources_and_evidence(s: dict, idx: dict | None = None, limit: int = 3) -> str:
+    """One cell: for each document the row was read from (its kind's
+    filings newest first, then the rest), the link, and the KEYWORD, the
+    stored text file with LINE number, and the SENTENCE that made it a
+    spin-off / demerger / listing / scheme. Call mentions cite the
+    transcript page; a register record date cites the register file."""
+    idx = idx or {}
+    kind = s["kind"]
     heads = sorted(s.get("headlines", []), key=lambda h: h["date"], reverse=True)
-    own = [h for h in heads if h["kind"] == s["kind"]] or heads
+    own = [h for h in heads if h["kind"] == kind] or heads
     seen, out = set(), []
     for h in own + [h for h in heads if h not in own]:
-        url = h.get("attachment") or ""
-        cat = h.get("category", "")
+        cat, url = h.get("category", ""), h.get("attachment") or ""
+        row = (idx.get(("id", s["symbol"], h.get("ann_id") or "")) or
+               idx.get(("hd", s["symbol"], h["date"], h["headline"][:220])) or {})
         if cat.startswith("Record Date (corporate"):
-            url, label = NSE_QUOTE.format(sym=s["symbol"]), f"{h['date']} NSE register"
+            key = f"reg{h['date']}"
+            if key in seen:
+                continue
+            seen.add(key)
+            gt = SO.REGISTER
+            line = ""
+            if gt.exists():
+                for n, ln in enumerate(gt.read_text(errors="replace").splitlines(), 1):
+                    if ln.startswith(f"{h['date']},{s['symbol']},"):
+                        line = f" · [register line {n}]({_rel(gt)}#L{n})"
+                        break
+            out.append(f"[{h['date']} NSE register]({NSE_QUOTE.format(sym=s['symbol'])}) · **Demerger** record date{line}")
         elif cat.startswith("Earnings call"):
-            label = f"{h['date'][:7]} call transcript"
+            ev = SO.evidence_in(h["headline"], kind, 1)
+            kw = ev[0]["keyword"] if ev else (SO.MENTION_RX.search(h["headline"]) or [""])[0]
+            page = call_page(s["symbol"], h["headline"])
+            key = ("call", cat, kw.lower(), page)         # one quote per call, keyword and page
+            if key in seen:
+                continue
+            seen.add(key)
+            link = f"[{h['date'][:7]} call transcript]({url})" if url else f"{h['date'][:7]} call"
+            where = f"{s['symbol']}.pdf page {page}" if page else f"{s['symbol']}.pdf"
+            out.append(f"{link} · **{kw or 'call mention'}** · {where} · “{h['headline'][:220].strip(' …')}”")
         else:
-            label = f"{h['date']} {cat[:28]}"
-        if not url or url in seen:
-            continue
-        seen.add(url)
-        out.append(f"[{label}]({url})")
+            if not url or url in seen:
+                continue
+            seen.add(url)
+            tf = row.get("text_file") or h.get("text_file") or ""
+            text, where = "", ""
+            if tf.startswith("text/") and (SO.ANN_DIR / tf).exists():
+                text, where = SO.load_text({"text_file": tf}), SO.ANN_DIR / tf
+            elif row:
+                text = SO.load_first_pages(row)
+                safe = re.sub(r"[^A-Za-z0-9_-]", "_", row.get("ann_id", ""))[:40]
+                where = SO.ANN_DIR / "text" / "first" / f"{s['symbol']}_{safe}.txt"
+            ev = SO.evidence_in(text, kind, 1) if text else []
+            link = f"[{h['date']} {cat[:28]}]({url})"
+            if ev:
+                e = ev[0]
+                out.append(f"{link} · **{e['keyword']}** · [text line {e['line']}]({_rel(where)}#L{e['line']}) · “{e['sentence']}”")
+            else:
+                hev = SO.evidence_in(f"{cat} {h['headline']}", kind, 1)
+                kw = hev[0]["keyword"] if hev else cat
+                out.append(f"{link} · **{kw}** · headline · “{h['headline'][:200]}”")
         if len(out) == limit:
             break
-    more = sum(1 for h in heads if h.get("attachment")) - len(out)
+    more = len({h.get("attachment") for h in heads if h.get("attachment")}) - len(out)
     if more > 0:
-        out.append(f"+{more} more")
+        out.append(f"+{more} more documents")
     return "<br>".join(out) if out else "—"
 
 
-def render_report(record: dict) -> str:
+def source_links(s: dict, limit: int = 4) -> str:
+    """Links only (the evidence cell without the quotes) — kept for callers
+    that want the short form."""
+    return re.sub(r" · \*\*.*?(?=<br>|$)", "", sources_and_evidence(s, None, limit))
+
+
+def render_report(record: dict, idx: dict | None = None) -> str:
+    """The report. `idx` (rows_index of the filings store) lets the
+    probable table cite each row's stored text with line numbers."""
     m = record["meta"]
     sits = record["situations"]
     spins = [s for s in sits if s["kind"] in SO.SPIN_KINDS and s["confidence"][0] != "other"]
@@ -710,11 +798,14 @@ def render_report(record: dict) -> str:
     indicated.sort(key=probable_order)
     A += ["", "## Probable and indicated", "",
           "Demergers first, then subsidiary listings, then schemes whose nature the documents do not settle. "
-          "**Sources** links the exchange filings (newest first) or the call transcript each row was read from.", "",
-          "| Company | What | Confidence | Stage | Listing | Score | Sources |", "|---|---|---|---|---|---:|---|"]
+          "**Sources & evidence**: for each document the row was read from (exchange filings newest first, or the "
+          "call transcript), the link, the **keyword** that made it a spin-off / demerger / listing / scheme, the "
+          "stored text file with the line number, and the sentence around it. Call mentions cite the transcript "
+          "page; a register record date cites the register file.", "",
+          "| Company | What | Confidence | Stage | Listing | Score | Sources & evidence |", "|---|---|---|---|---|---:|---|"]
     for s in sorted(probable + indicated, key=probable_order):
         A.append(f"| **{s['symbol']}** | {s['family']} | {s['confidence'][0]} — {s['confidence'][1][:60]} | "
-                 f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} | {source_links(s)} |")
+                 f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} | {sources_and_evidence(s, idx)} |")
     if not probable and not indicated:
         A.append("| — | | | | | | |")
     A.append("")
@@ -992,7 +1083,7 @@ def cmd_run(args, runner=None) -> dict:
             "judge": (f"{MODEL} read the schemes, three years of calls and the segment pages" if ai else
                       "not run (--quick or no CLI); mechanical read only")}
     record = {"meta": meta, "situations": sits, "call_only": call_only}
-    md = render_report(record)
+    md = render_report(record, rows_index(rows))
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     REPORT.write_text(md)
     LATEST.write_text(json.dumps(record, indent=1, default=str))
@@ -1034,7 +1125,7 @@ def cmd_render(args) -> None:
     """Re-render the report from the saved run (spinoff_latest.json) — a
     presentation change needs no re-judging."""
     record = json.loads(LATEST.read_text())
-    md = render_report(record)
+    md = render_report(record, rows_index(SO.load_filings()))
     REPORT.write_text(md)
     snap = HISTORY / record["meta"]["run_date"]
     if snap.exists():

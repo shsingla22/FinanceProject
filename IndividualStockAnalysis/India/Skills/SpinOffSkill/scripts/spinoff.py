@@ -652,7 +652,8 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
             "sources": sorted({r["source"] for r in fl}),
             "headlines": [{"date": r["date"], "category": r["category"],
                            "headline": r["headline"][:220], "kind": r["kind"],
-                           "attachment": r["attachment"]} for r in fl],
+                           "attachment": r["attachment"], "ann_id": r.get("ann_id", ""),
+                           "text_file": r.get("text_file", "")} for r in fl],
             "has_text": any(r["_text"] for r in fl),
         })
     out.sort(key=lambda s: (s["kind"] not in SPIN_KINDS, -s["n_filings"], s["symbol"]))
@@ -667,6 +668,44 @@ MENTION_RX = re.compile(
     r"value[\s-]?unlock\w*|slump sale|scheme of arrangement|"
     r"(ipo|initial public offer\w*) (of|for) (the |our |its )?(subsidiar|arm|business)",
     re.I)
+
+
+# The words that make a filing or call one of ours, kind by kind — the
+# evidence quoted beside each row of the report, with its line.
+EVIDENCE_RX = {
+    "demerger": re.compile(r"de-?merg\w*|spin[\s-]?offs?|hiv(?:e|ing)[\s-]?off|carve[\s-]?out|"
+                           r"resulting compan\w*|demerged (?:undertaking|compan)\w*", re.I),
+    "subsidiary_listing": re.compile(r"draft red herring|\bdrhp\b|"
+                                     r"(?:ipo|initial public offer\w*|listing|list)\W{1,3}(?:of )?(?:the |our |its )?(?:\w+ ){0,4}subsidiar\w*|"
+                                     r"subsidiar\w*[^.]{0,80}(?:ipo|initial public offer|list(?:ing|ed))", re.I),
+    "scheme_other": re.compile(r"composite scheme|scheme of (?:arrangement|amalgamation and arrangement)", re.I),
+    "merger": re.compile(r"amalgamat\w*|\bmerg\w*", re.I),
+}
+
+
+def evidence_in(text: str, kind: str, max_hits: int = 2) -> list[dict]:
+    """Where a document says it: up to `max_hits` distinct keywords of the
+    kind, each with the line number (1-based, in the stored text file) and
+    the sentence around it."""
+    rx = EVIDENCE_RX.get(kind)
+    if not rx or not text:
+        return []
+    out, seen = [], set()
+    for m in rx.finditer(text):
+        kw = re.sub(r"\s+", " ", m.group(0)).lower()
+        key = re.sub(r"\W", "", kw)[:6]
+        if key in seen:
+            continue
+        seen.add(key)
+        a = max(text.rfind(". ", 0, m.start()), text.rfind("\n\n", 0, m.start()), m.start() - 220)
+        b_candidates = [i for i in (text.find(". ", m.end()), text.find("\n\n", m.end())) if i != -1]
+        b = min(b_candidates + [m.end() + 220])
+        sentence = re.sub(r"\s+", " ", text[a + 1:b + 1]).strip(" .\n")
+        out.append({"keyword": m.group(0), "line": text.count("\n", 0, m.start()) + 1,
+                    "sentence": sentence[:260]})
+        if len(out) >= max_hits:
+            break
+    return out
 
 
 def concall_sections(text: str) -> list[tuple[str, str]]:
