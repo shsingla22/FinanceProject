@@ -895,23 +895,23 @@
   }
  },
  "VIYASH": {
-  "stamp": "e3308d3457db1d5c3f43513368e5ad79",
+  "stamp": "d475c323a8abfcadd57c6b1adab52fbf",
   "verdict": {
-   "what_is_spun": "Nothing is spun off; documents describe amalgamation of Viyash Life Sciences and subsidiaries into Sequent Scientific",
+   "what_is_spun": "Nothing separated; a composite amalgamation merging Viyash Life Sciences and its subsidiaries into Sequent Scientific",
    "demerged_business_names": [
     "not stated"
    ],
-   "reason": "Create unified identity reflecting combined strengths of merged entities, leverage Viyash brand equity, build larger integrated organization with expanded capabilities, broader market presence, operational synergies contributing to long-term shareholder value",
-   "reason_class": "regulatory_strategic",
-   "insiders": "CA Hull Investments (Carlyle) became promoter on Effective Date 2; Dr. Haribabu Bodepudi appointed MD & Group CEO; 2,03,41,257 warrants at Rs.181.94 (25% upfront) to erstwhile Viyash warrant holder; 1,30,98,000 ESOP options granted, 2.8% of post-amalgamation capital",
-   "hidden_value": "Combined entity shows pro forma Q2FY26 EBITDA up 76%, FY26 adjusted EBITDA INR702 crore up 59.6%, PAT up 14x, Net Debt/EBITDA 0.38x, rating upgraded to AA-/A1+; synergies tracking INR50-60 crore annualised toward INR125-150 crore",
-   "selling_pressure": "unclear",
-   "selling_pressure_why": "18,19,21,827 new shares (~42% of enlarged capital) allotted to erstwhile private Viyash holders; documents do not discuss index or flowback",
+   "reason": "Consolidation of operations and strategic intent to create a unified identity reflecting combined strengths, leverage Viyash brand equity, expanded capabilities, broader market presence and operational synergies",
+   "reason_class": "value_unlocking",
+   "insiders": "CA Hull Investments became a promoter on Effective Date 2; 18,19,21,827 shares plus 2,03,41,257 warrants at Rs.181.94 (25% upfront) to Viyash holders; Dr. Haribabu Bodepudi appointed MD & Group CEO",
+   "hidden_value": "Combined pro forma H1FY26 revenue INR16.5bn, EBITDA INR3.2bn, Net Debt/EBITDA 0.7x; FY26 reported revenue INR34,203.1mn, adjusted EBITDA up 59.6% to INR702cr, PAT up over 14x, rating upgraded A to AA-",
+   "selling_pressure": "likely",
+   "selling_pressure_why": "18,19,21,827 new shares (about 42% of expanded capital) issued to erstwhile unlisted Viyash holders including promoter CA Hull",
    "parent_or_spin": "neither",
-   "option_pricing_date": "ESOP Scheme 2026 adopted by Board and NRC on February 05, 2026; options granted during quarter ended 30 June 2026; exercise price Rs. 101 per share",
+   "option_pricing_date": "ESOP Scheme 2026 adopted by Board and NRC on February 05, 2026; options granted in quarter ended 30 June 2026 at exercise price Rs. 101 per share",
    "listing_timeline": "On December 16, 2025: \"Equity shares as allotted by Sequent shall also be listed on the BSE Limited and National Stock Exchange of India Limited as provided in the Scheme in due course.\"",
-   "read_next": "Scheme clauses on warrant conversion: balance Rs. 2,77,56,66,224 (75%) from allottee, and post-allotment promoter shareholding pattern",
-   "quote": "Upon implementation of the Scheme, the Company, being the combined entity will represent the enhanced strategic direction and integration of the businesses of all the entities that are party to the Scheme."
+   "read_next": "Post-allotment shareholding pattern and conversion of warrants' balance Rs.2,77,56,66,224 by CA Hull",
+   "quote": "The successful amalgamation under the Scheme marks a transformational milestone for the Company, creating a larger, integrated organization with expanded capabilities, a broader market presence and enhanced operational synergies."
   }
  },
  "AGARWALEYE": {
@@ -1355,24 +1355,25 @@
   }
  },
  "ASTERDM": {
-  "stamp": "0652a4b1d6e6276f396c624a73bca5a8",
+  "stamp": "f8ab9f5c96c0527403df98e5afcd7c1a",
   "verdict": {
-   "what_is_spun": "Operations run under the O&M and Medical Services Agreements with DM Education and Research Foundation (DMERF)",
+   "what_is_spun": "Operations run for DM Education and Research Foundation under the O&M and Medical Services Agreements",
    "demerged_business_names": [
+    "DM Education and Research Foundation",
+    "DMERF",
     "Operation & Management Services Agreement dated 4 March 2016 (\"O&M Agreement\")",
-    "Medical Services Agreement dated 1 April 2026 (\"MSA\")",
-    "DM Education and Research Foundation (\"DMERF\")"
+    "Medical Services Agreement dated 1 April 2026 (\"MSA\")"
    ],
-   "reason": "In line with its corporate governance priorities, efforts are being made to reduce related party transactions within the Group; closure of both agreements will eliminate the ongoing stream of RPTs with DMERF.",
+   "reason": "\"In line with its corporate governance priorities, efforts are being made to reduce related party transactions within the Group. The closure of both agreements will eliminate the ongoing stream of RPTs with DMERF.\"",
    "reason_class": "regulatory_strategic",
-   "insiders": "not stated \u2014 no new entity is created; the filing marks promoter/promoter group interest and related party treatment as \"Not applicable\" for this cancellation.",
-   "hidden_value": "Only 0.40% of group revenue leaves, so the core merged platform is untouched \u2014 Q2 FY27 revenue INR 2,829 Cr (+19%), normalised PAT INR 281 Cr (+34%), ROCE 23% \u2014 while a recurring related-party revenue stream is removed.",
+   "insiders": "Not stated \u2014 the filing marks buyer and promoter/promoter-group interest \"Not applicable\"; no new entity or promoter stake disclosed, only that the closure ends the Group's RPT stream with DMERF.",
+   "hidden_value": "Small: the exited operations contributed 0.40% of total group revenue; no consideration received and no sale agreement, so the separation reveals governance clean-up rather than value, with settlement of outstanding dues still pending.",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "Contributed 0.40% of group revenue; no shares issued, no new listing, same healthcare industry, no index change stated.",
+   "selling_pressure_why": "No shares issued or listed; the unit contributed only 0.40% of total group revenue, so the parent's index status is unaffected.",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
    "listing_timeline": "not stated",
-   "read_next": "Postal Ballot notice and the termination/closure documents settling outstanding dues and obligations with DMERF.",
+   "read_next": "The Postal Ballot notice approved 6 November 2026, plus the termination/closure documents settling dues with DMERF.",
    "quote": "The closure of both agreements will eliminate the ongoing stream of RPTs with DMERF."
   }
  },
@@ -1639,23 +1640,29 @@
   }
  },
  "LUMAXTECH": {
-  "stamp": "5590049266329000a0d77d0ff82cb339",
+  "stamp": "91d4d7f74a4610a2284c2241f92cff48",
   "verdict": {
-   "what_is_spun": "not stated \u2014 filings show a merger into Lumax (IAC International Automotive India), not a demerger or separation",
+   "what_is_spun": "Nothing is separated \u2014 IAC India's automotive interior components business merged inbound into the listed parent",
    "demerged_business_names": [
-    "not stated"
+    "IAC International Automotive India Private Limited",
+    "IAC India",
+    "IAC Division",
+    "Lumax Integrated Ventures Private Limited",
+    "Lumax Auto Technologies Limited",
+    "Lumax Resources Private Limited",
+    "Lumax Greenfuel Energy Solutions Private Limited"
    ],
-   "reason": "not stated for any demerger; for the amalgamation: greater integration, financial strength and flexibility, cost savings, operational synergies, economies of scale, reduced multiplicity of legal and regulatory compliances",
-   "reason_class": "not stated",
-   "insiders": "No new entity. Promoters D.K. Jain (Executive Chairman), Deepak Jain (Vice Chairman), Anmol Jain (MD, holding 1,29,18,113 equity shares, FY26 remuneration Rs 387.26 Lakhs); IAC was wholly owned, so no shares issued.",
-   "hidden_value": "Merger pulls IAC into standalone: restated standalone FY26 revenue Rs 3,605 crore, PAT Rs 207 crore versus consolidated Rs 4,870 crore and Rs 337 crore; no consolidated impact. Separately, loss-making Lumax Jopp (50%) sold for Rs 1.52 lakh after Rs 703.97 lakh impairment.",
+   "reason": "Greater integration, financial strength and flexibility to maximize shareholder value; cost savings, operational synergies, economies of scale and fewer legal and regulatory compliances",
+   "reason_class": "value_unlocking",
+   "insiders": "Transferor was a wholly owned subsidiary, so no shares issued; promoter directors D.K. Jain, Deepak Jain and Anmol Jain remain; Anmol Jain holds 1,29,18,113 LATL equity shares",
+   "hidden_value": "Shows a high-margin captive inside the parent: IAC now sits in standalone accounts (standalone FY26 revenue Rs 3,60,548.91 lakhs, restated FY25 upward), but management says over 90% of IAC's order book is Mahindra",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "Wholly-owned subsidiary absorbed; no new shares, no new listing, no index change; paid-up capital unchanged at Rs 1,363.15 Lakhs.",
-   "parent_or_spin": "neither",
+   "selling_pressure_why": "No new shares, no listing; wholly owned transferor dissolved without winding up, shareholder base and index membership unchanged",
+   "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated \u2014 no new entity lists; per the May 12, 2026 filing, 'upon the Scheme becoming effective, the Transferor Company shall stand dissolved without being wound up'; Scheme effective May 18, 2026",
-   "read_next": "The Scheme of Amalgamation itself, and Annexure-A of the May 8, 2026 filing on the Lumax Jopp stake sale",
-   "quote": "Further, upon the Scheme becoming effective, the Transferor Company shall stand dissolved without being wound up."
+   "listing_timeline": "No listing: the May 12, 2026 filing states \u201cupon the Scheme becoming effective, the Transferor Company shall stand dissolved without being wound up\u201d; Scheme effective May 18, 2026",
+   "read_next": "Note 5(b) restated standalone results \u2014 IAC's margin contribution and Mahindra concentration in the Rs 1,450 crore order book",
+   "quote": "The consolidation of activities of the Transferor Company and the Transferee Company by way of amalgamation will lead to operational synergies, greater productivity, and economical operations for the future growth of the Transferee Company."
   }
  },
  "NAUKRI": {
@@ -1881,23 +1888,23 @@
   }
  },
  "SUZLON": {
-  "stamp": "7b20dc9790d10efebcbe7c6e498da87b",
+  "stamp": "4e835a23934194b774ed1b052261b6b0",
   "verdict": {
-   "what_is_spun": "Nothing is separated; the scheme only reduces, reorganises and reclassifies Suzlon's own reserves",
+   "what_is_spun": "Nothing is spun off; the Scheme only reorganises and reclassifies Suzlon Energy Limited's reserves",
    "demerged_business_names": [
     "not stated"
    ],
-   "reason": "Accumulated negative Retained Earnings weigh down the balance sheet; set-off against Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium and General Reserve so statements reflect true financial health and enable dividends",
-   "reason_class": "value_unlocking",
-   "insiders": "Promoters and Promoter Group hold 1,60,86,85,603 shares (11.73%); directors 13,03,32,899; KMPs 26,42,500. No consideration issued; no new entity; shareholding pattern unchanged",
-   "hidden_value": "Reveals unutilised reserves neither earmarked nor lien-marked, usable to obliterate lost capital and create positive distributable Retained Earnings; standalone FY26 PAT Rs.4,111.01 crores, consolidated net cash Rs.2,384 crores",
+   "reason": "not stated; the Scheme adjusts the negative balance in Retained Earnings as on the Appointed Date against Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium and General Reserve",
+   "reason_class": "not stated",
+   "insiders": "No new entity. Promoter and Promoter Group held 1,60,86,85,603 shares (c.11.7% of 13,71,23,30,509) and voted 100% in favour; promoters not interested in the resolution",
+   "hidden_value": "Documents show an accounting clean-up of accumulated losses, not an asset reveal: FY26 PAT \u20b93,163 cr, net worth \u20b99,464 cr, net cash \u20b92,322 cr (Jun-26), and \u20b93,000\u20133,500 cr unrecognised deferred tax assets",
    "selling_pressure": "unlikely",
-   "selling_pressure_why": "No shares issued, no capital reduction, no change in shareholding pattern or index composition",
+   "selling_pressure_why": "No new shares, no resulting company and no separate listing; only reserve balances are reclassified within the existing company",
    "parent_or_spin": "neither",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated",
-   "read_next": "Annexure 12 \u2014 manner of adjustments and transfer of General Reserve to Retained Earnings; plus FY26 audited accounts' accounting-impact note",
-   "quote": "The Scheme would not have any impact on the shareholding pattern of the Company."
+   "listing_timeline": "not stated; no demerged entity \u2014 the 30th April 2026 filing says the Scheme 'would become effective from 30th September 2024, being the appointed date'",
+   "read_next": "Audited FY26 financial statements' notes on the actual accounting impact of the reserve adjustment",
+   "quote": "In terms of the Scheme, negative balance in the Retained Earnings of the Company as on the Appointed Date shall be adjusted chronologically against the following reserves, viz., Capital Reserve, Capital Contribution, Capital Redemption Reserve, Securities Premium, and General Reserve."
   }
  },
  "TATACOMM": {
@@ -17644,82 +17651,82 @@
   }
  },
  "ASTERDM::rationale": {
-  "stamp": "1f39b03d8e0cf210df17c7280eadc4db",
+  "stamp": "204d5339be9992f02a5dd98317d5cd8c",
   "verdict": {
-   "rationale": "On the evidence of these four transcripts and all 28 filings, Aster is not separating a business at all \u2014 management never describes a demerger, spin-off, slump sale or carve-out, and no such scheme exists in the documents. The corporate action they explain at length is the opposite: the amalgamation of Blackstone-backed Quality Care India Limited (CARE Hospitals, KIMSHEALTH, Evercare, plus Bangladesh via Evercare/STS Holdings) into Aster DM Healthcare under Sections 230-232, at 977 Aster shares per 1,000 QCIL shares, effective 1 July 2026 and renaming the listed entity Aster DM Quality Care Limited. The stated reasons are scale and resilience (top-3 Indian hospital chain; FY26 proforma revenue INR 9,273 crore, operating EBITDA INR 2,013 crore at 21.7%, three-year revenue CAGR 14.5% and EBITDA CAGR ~20%), diversification across 9 states and 25-28 cities with low micro-market overlap, and synergies guided at a 10-15% EBITDA upside \u2014 procurement (Aster's INR 1,000 crore plus QCIL's INR 1,000 crore negotiated as INR 2,000 crore), integrated doctor model, revenue/MVT and insurance coverage, and lower corporate overheads; QCIL had already banked INR 85 crore of its own pre-merger procurement synergies, and Sunil and Varun both stressed Aster-QCIL synergies only begin post-merger. The only businesses management actually says it has stepped out of are small and defensive: the loss-making supply-to-retail unit of wholesale pharmacy, outsourced/exited in FY25 because logistics, reverse logistics and fill rates did not work, removing an INR 1-2 crore monthly drag and taking the segment from negative margins to +1.7% in Q1 FY26, 2.2% in Q3 FY26 and positive ROCE for the first time, with margins structurally capped at 3-3.5%; the de-empanelment of a low-yield state scheme at Aster Aadhar, Kolhapur, where scheme ARPOB was under 50% of cash rates and the 210-bed hospital was already at ~75% occupancy, costing ~1,500-1,600 patients a quarter and 8-9% of K&M inpatient volume but lifting ARPP IP by 17-21%; and, on 6 November 2026, termination by mutual consent of the 4 March 2016 Operation & Management Services Agreement and the 1 April 2026 Medical Services Agreement with promoter-linked DM Education and Research Foundation, worth 0.40% of group revenue, explicitly to eliminate an ongoing stream of related-party transactions. Nobody is said to have demanded a separation: shareholders approved the merger with 96.68% of votes cast (and 94.13% of public shareholders), unsecured trade creditors approved with 100% of votes polled, CCI cleared it on 15 April 2025, NSE and BSE issued no-objection letters on 6 October 2025, and NCLT Hyderabad sanctioned it on 19 June 2026. The only outside pressure visible is governance pressure from stakeholders ahead of the 10 March 2026 vote, which made Aster Promoters and Blackstone commit to waive committee nomination rights and let their three-director nomination rights fall away at 10% shareholding. Adjacent restructurings all run toward consolidation, not separation: MIMS minorities bought up from 79.75% toward 100% at INR 202 a share, Aster Aadhar to 99%, Ramesh Hospitals past 70%, an INR 102.46 crore loan converted to equity in Sri Sainatha, and two hospitality step-downs (KEL into Spiceretreat) merged to simplify the group structure.",
-   "evolution": "Aug 2025 call (31 July 2025) is where the only real business exit appears, already done: Sunil reports Aster exited a loss-making wholesale pharmacy unit, lifting that segment to +1.7%, while Alisha explicitly rules out separating or scaling diagnostics into a pan-India play. The Nov 2025 call (7 November 2025) is purely combination mechanics \u2014 the 5% QCIL stake acquired via a 3.6% preferential allotment, BSE/NSE no-objections, and the registered office moved from Bangalore to Hyderabad so the NCLT application could go from one state. By the Feb 2026 call (2 February 2026) the pharmacy decision is reframed as sustaining rather than strategic (2.2% margin, positive ROCE for the first time, retail left as a 49%-owned, 203-store brand-licensing vehicle), and by the Jun 2026 call (1 May 2026) the only exit discussed is de-empanelment of the low-yield Aadhar scheme. The separation-shaped disclosure comes only after the merger closes, in the 6 November 2026 board filing terminating the two DMERF agreements to end the related-party stream.",
+   "rationale": "Nothing in these texts describes separating, demerging or spinning off a business \u2014 the corporate action running through all four calls and every filing is the opposite: the amalgamation of Quality Care India Limited into Aster DM Healthcare (renamed Aster DM Quality Care Limited), 977 Aster shares for every 1,000 QCIL shares, 96.68% of votes cast in favour, NCLT sanction 19 June 2026, effective 1 July 2026, combined FY26 proforma revenue INR 9,273 crores and operating EBITDA INR 2,013 crores at 21.7% margin. The only businesses management says it has separated out are small, loss-making or governance-driven. First, wholesale pharmacy: Aster exited/outsourced the loss-making part \u2014 specifically the 'second business unit' built to supply retail pharmacies, which 'didn't work out really well due to logistics and reverse logistics and the fill rates' \u2014 accepting lower reported revenue to strip out roughly INR 1\u20132 crores of EBITDA drag per month; margins went from negative to +1.7% in Q1 FY26, +1.8% for 9M FY26 and +2.2% in Q3 FY26 with positive ROCE for the first time, and Sunil Kumar capped the ambition at 3\u20133.5% because distribution gross margin of 8% erodes to 5\u20136% after trade discounts, adding 'we are not looking at increasing this business in a very drastic manner.' Second, retail pharmacy is deliberately held outside the consolidated entity: 203 stores across Telangana, Karnataka and Kerala operated by Alfaone under a brand-licence with Aster holding only 49%, equity-accounted at PAT level, expected to break even in a year or two. Third, low-yield scheme business was exited at Aster Aadhar, Kolhapur, where the state scheme occupied more than 20% of beds at ~75% occupancy with ARPOB less than 50% of cash tariffs; it cost 8\u20139% of K&M inpatient volume but lifted ARPP IP 17\u201321% and cluster operating EBITDA 25% with ~260\u2013270bps margin expansion. Fourth, on 6 November 2026 the board approved termination of the DM Education and Research Foundation (DMERF) Operation & Management Services Agreement dated 4 March 2016 and the Medical Services Agreement dated 1 April 2026 by mutual consent \u2014 0.40% of group revenue \u2014 stating the purpose is to reduce related-party transactions as a corporate-governance priority. No investor, lender or partner is recorded as demanding any of these exits; analysts (Tausif Shaikh, Vivek Sethia, Kashish Thakur) only probed how much drag the pharmacy exit removed, and the only stakeholder-driven concession in the texts is the promoters' waiver of merger governance rights after 'questions received from stakeholders'.",
+   "evolution": "The pharmacy exit first appears as completed fact in the Aug 2025 (Q1 FY26) call, where Alisha Moopen and Sunil Kumar describe the strategic exit from loss-making wholesale segments taking the segment to +1.7% margin and EBITDA break-even; the Nov 2025 (Q2 FY26) call folds it into margin commentary as 'steady improvement in the Labs and Pharmacy business' while Sunil separately explains stopping the Aster Aadhar state scheme at 75% occupancy. By Feb 2026 (Q3 FY26) the language shifts from 'exit' to 'outsource the loss-making part', with the drag quantified at INR 1\u20132 crores a month, the cause named (the retail-supply business unit failing on logistics, reverse logistics and fill rates) and retail pharmacy clarified as a 49%/brand-licence structure outside consolidation. The Jun 2026 (Q4/FY26) call contains no separation discussion at all \u2014 it is entirely merger and proforma combined performance, with the scheme de-empanelment reiterated as an exit of 'low-yield schemes'; the DMERF contract closure surfaces only later, in the 6 November 2026 board filing.",
    "points": [
     {
      "call": "Scheme",
-     "point": "The scheme's own stated rationale is consolidation of the two companies' business interests into one listed vehicle, not any separation of an Aster business.",
-     "quote": "With a view to consolidate the business interests of the Parties (as defined below), the Parties have decided that the Transferor Company with all its business interests, be amalgamated with and into the Transferee Company."
+     "point": "The governing corporate action is an amalgamation, not a separation: QCIL merged into Aster and was dissolved without winding up, appointed date and effective date both 1 July 2026, with 35,35,51,410 new Aster shares allotted on 13 July 2026.",
+     "quote": "In accordance with theScheme, the Appo inted Date is the same as the EffectiveDate i.e . July 1, 2026 ."
     },
     {
-     "call": "Scheme",
-     "point": "The 6 November 2026 board filing terminates the 2016 O&M Services Agreement and the 1 April 2026 Medical Services Agreement with promoter-linked DM Education and Research Foundation, a business contributing 0.40% of group revenue, purely to kill a recurring related-party transaction stream.",
-     "quote": "In line with its corporate governance priorities, efforts are being made to reduce related party transactions within the Group. The closure of both agreements will eliminate the ongoing stream of RPTs with DMERF."
+     "call": "CALL Aug 2025",
+     "point": "Management reports the wholesale pharmacy exit as already executed, framing the unit as a drag on group performance that was removed, taking the segment to a positive 1.7% margin in Q1 FY26.",
+     "quote": "As part of a focused strategic shift, we exited loss -making unit within the wholesale pharmacy business, effectively eliminating a key drag on overall performance."
     },
     {
-     "call": "Scheme",
-     "point": "That exit is a negotiated unwind rather than a sale: no consideration is received and the parties simply settle dues.",
-     "quote": "The termination is proposed to be effected by mutual consent of the parties, subject to execution of necessary termination/closure documents and settlement of the respective rights, obligations and outstanding dues between the parties."
+     "call": "CALL Aug 2025",
+     "point": "Alisha Moopen links the exit from loss-making wholesale segments directly to the pharmacy business reaching EBITDA break-even in the quarter.",
+     "quote": "And in pharmacy, our strategic exit from certain loss -making wholesale segments have helped the business achieve EBITDA break -even as well this quarter."
     },
     {
-     "call": "Aug 2025",
-     "point": "Sunil frames the wholesale pharmacy exit as the one deliberate business withdrawal, done to remove a drag on consolidated performance; the segment moved to a positive 1.7% margin in Q1 FY26.",
-     "quote": "As part of a focused strategic shift, we exited loss-making unit within the wholesale pharmacy business, effectively eliminating a key drag on overall performance."
+     "call": "CALL Feb 2026",
+     "point": "Sunil Kumar re-describes the action as outsourcing the loss-making part of wholesale pharmacy, explicitly trading reported revenue for profitability; 9M FY26 margins +1.8% versus negative a year earlier, 2.2% in Q3, and positive ROCE for the first time.",
+     "quote": "On the wholesale pharmacy front, we took a strategic call last year to outsource the loss -making part of this segment."
     },
     {
-     "call": "Feb 2026",
-     "point": "Sunil restates it as an outsourcing of the loss-making part, accepting lower reported revenue for better profitability - 1.8% margin for 9M FY26, 2.2% in Q3, and positive ROCE for the first time.",
-     "quote": "On the wholesale pharmacy front, we took a strategic call last year to outsource the loss-making part of this segment. While this decision led to a reduction in reported revenues, it has materially improved profitability."
-    },
-    {
-     "call": "Feb 2026",
-     "point": "The operational reason given is that the second business unit built to supply retail pharmacies failed on logistics and fill rates, so Aster retreated to the originally acquired Bengaluru wholesale asset; retail stays a 49%-held, 203-store brand-licensing arrangement expected to break even in a year or two.",
+     "call": "CALL Feb 2026",
+     "point": "The problem the exit solved is named: a second wholesale business unit created to supply retail pharmacies failed on logistics, reverse logistics and fill rates, so Aster withdrew to the originally acquired Bengaluru wholesale asset.",
      "quote": "And in addition to that, we added the second business unit to supply to a retail pharmacy, which didn't work out really well due to logistics and reverse logistics and the fill rates and a lot of other things."
     },
     {
-     "call": "Feb 2026",
-     "point": "Asked to quantify the removed drag, Sunil puts it at INR 1-2 crore a month, and says the business is deliberately not being grown because distribution margins cap out near 3-3.5%.",
-     "quote": "Here what we are talking about is that on a monthly basis around INR 1-2 crores every month, that's a number which we have removed."
+     "call": "CALL Feb 2026",
+     "point": "Sunil Kumar quantifies the removed drag at INR 1\u20132 crores of monthly losses, and caps wholesale ambitions because 8% distribution margin falls to 5\u20136% after discounts and 3\u20133.5% after overheads.",
+     "quote": "Here what we are talking about is that on a monthly basis around INR 1 -2 crores every month , that\u2019s a number which we have removed ."
     },
     {
-     "call": "Jun 2026",
-     "point": "The other exit is revenue-mix pruning, not structural: Aster walked away from a low-yield government scheme at Aster Aadhar, Kolhapur, where realisation was under half the cash rate and the hospital was already capacity-constrained at ~75% occupancy, costing 8-9% of K&M inpatient volume.",
-     "quote": "The ARPOB compared to a cash market, it is less than 50%. That's how it's been and good thing is that we exited that."
+     "call": "CALL Feb 2026",
+     "point": "Retail pharmacy is structurally kept out of the consolidated entity \u2014 203 stores across Telangana, Karnataka and Kerala run on a brand-licensing arrangement with Aster at 49% and the balance with resident individuals, adjusted at PAT level and expected to break even in a year or two.",
+     "quote": "In terms of retail pharmacy, where I said we only own 49% and balance is owned by resident individuals."
     },
     {
-     "call": "Aug 2025",
-     "point": "Alisha explicitly declines to turn diagnostics into a standalone pan-India business, keeping Aster Labs as an ecosystem extension inside the clusters - the opposite of carving it out, even as its margins went from -7.6% in FY24 to 12.8% in FY26 on 27% ROCE.",
-     "quote": "So, at this point in time, we're not talking about becoming a pan India player."
+     "call": "CALL Nov 2025",
+     "point": "The state scheme at Aster Aadhar, Kolhapur was discontinued because it filled over 20% of beds in a 210-census-bed hospital already at ~75% occupancy, crowding out cash and TPA patients; it cost ~1,500\u20131,600 patients a quarter but added ~2\u20133% to ARPP.",
+     "quote": "We stopped the scheme because we already reached around 75% occupancy."
     },
     {
-     "call": "Nov 2025",
-     "point": "The structural work in this period is all combination: a share swap giving Aster 5% of QCIL for a 3.6% preferential allotment, and a registered-office move from Bangalore to Hyderabad so the NCLT filing would come from a single state.",
-     "quote": "We completed a strategic share swap, acquiring a 5% stake in QCIL in exchange for a 3.6% preferential allotment in Aster."
-    },
-    {
-     "call": "Scheme",
-     "point": "Facing stakeholder governance questions before the 10 March 2026 vote, both promoter groups agreed to waive committee nomination rights and let their three-director rights lapse at 10% shareholding - the clearest instance of investors shaping the deal.",
-     "quote": "Aster Promoters and Blackstone are committed to waive and have their relevant rights (including the right to nominate 3 directors each to the board of directors) as stipulated in the proposed articles of association to fall away at 10% shareholding for both Aster Promoters and Blackstone."
+     "call": "CALL Jun 2026",
+     "point": "The exit of low-yield government scheme business is reiterated as deliberate: ARPOB was less than 50% of cash-market levels and Aadhar faced a capacity bottleneck, so K&M IP volumes fell 8% while ARPP IP rose 21% and cluster EBITDA grew 25%.",
+     "quote": "As I have called out very clearly, what we exited is a low -yield schemes."
     },
     {
      "call": "Scheme",
-     "point": "Even the non-core hospitality step-downs are being merged together rather than separated out, for group simplification and cash-management efficiency.",
-     "quote": "The proposed amalgamation is intended to simplify the group structure, enable better operational and administrative efficiencies, optimise utilisation of resources, facilitate efficient cash management, eliminate duplication of regulatory and compliance requirements and strengthen the business operations of the merged entity."
+     "point": "On 6 November 2026 the board approved terminating the DMERF Operation & Management Services Agreement (4 March 2016) and Medical Services Agreement (1 April 2026) and ceasing the operations run under them \u2014 0.40% of group revenue \u2014 by mutual consent.",
+     "quote": "termination/closure of the Operation & Management Services Agreement dated 4 March 2016, as amended and extended from time to time (\u201cO&M Agreement\u201d), and the Medical Services Agreement dated 1 April 2026 (\u201cMSA\u201d), entered into with DM Education and Research  Foundation (\u201cDMERF\u201d), and consequent cessation of operations undertaken by the Company pursuant to the said agreements"
+    },
+    {
+     "call": "Scheme",
+     "point": "The stated reason for the DMERF closure is governance, not economics: it ends a recurring related-party transaction stream with the promoter-linked foundation.",
+     "quote": "The closure of both agreements will eliminate the ongoing stream of RPTs with DMERF."
+    },
+    {
+     "call": "Scheme",
+     "point": "The only change in these texts made at outside parties' request is governance, not a separation: after shareholder questions, Aster Promoters and Blackstone committed to waive board and committee nomination rights below 10% shareholding.",
+     "quote": "The Company took note of certain questions received from stakeholders in relation to the proposed merger ."
     }
    ],
-   "what_management_expects": "No separated entity is described. Exiting wholesale pharmacy removed an INR 1-2 crore monthly drag, taking margins from negative to 2.2% and ROCE positive for the first time, capped at 3-3.5%. Ending the DMERF agreements forgoes 0.40% of group revenue but eliminates the RPT stream. Aadhar de-empanelment freed beds for cash/TPA patients and lifted ARPP IP 17-21%.",
-   "gaps": "No spin-off or demerger is proposed in these texts; no rationale for the earlier GCC separation (the Rs.118 special dividend), no DMERF settlement amount, no retail-pharmacy 49% endgame."
+   "what_management_expects": "Pharmacy: INR 1-2 cr/month drag removed, margins from negative to 2.2% in Q3 FY26, target above 3%, positive ROCE for the first time, lower reported revenue accepted. Scheme exit: ARPP IP up 17-21%, beds freed for cash/TPA patients. DMERF: related-party stream eliminated, 0.40% of group revenue forgone. No valuation or standalone-entity benefit is claimed.",
+   "gaps": "No demerger or spin-off is ever proposed; no consideration, settlement amount or revenue/EBITDA size disclosed for the exited wholesale unit or the DMERF agreements; no post-exit timeline."
   }
  },
  "ASTERDM::segments": {
-  "stamp": "6f6db61c7b1a6034262e9b33eb85459d",
+  "stamp": "d219fc8f60799565e59357b1acedab34",
   "verdict": {
-   "segment_name": "O&M Asset Light Model (hospitals operated under Operation & Management asset-light agreements)",
+   "segment_name": "O&M Asset Light Model (Operating & Management asset-light hospitals) \u2014 no line labelled DMERF / Medical Services Agreement appears on these pages",
    "unit": "\u20b9 crore",
-   "measure_notes": "Profit line is Operating EBITDA (not segment result/EBIT/PBT). Revenue is 'Total Revenue' of the O&M asset-light hospitals as disclosed in the MD&A business-wise table (4 hospitals: Aster Mother, Aster Narayandri, Aster G Madegowda, Aster PMF); it is not an Ind AS 108 reportable segment (the audited segments are Hospitals / Clinics / Retail-Wholesale Pharmacies / Others), so external vs inter-segment split is not stated. FY2023 comparatives on the same page: revenue 32.11, EBITDA (12.47).",
+   "measure_notes": "Profit line is 'EBITDA (In Crs)' for the O&M asset-light hospital portfolio as disclosed in the MD&A table (not an Ind AS 108 reportable segment; the audited segments are Hospitals, Clinics, Retail/Wholesale Pharmacies, Others). Revenue is 'Total Revenue' of the 4 O&M hospitals, external/total, with no inter-segment split given. No PAT is given for this business. The consolidated P&Ls show only a 'Variable operation and management fees' expense add-back (Q3FY26 \u20b910 Cr, 9MFY26 \u20b927 Cr, FY26 \u20b937 Cr, FY25 \u20b932 Cr), which is a fee line, not this business's own revenue or profit.",
    "years": [
     {
      "fy": "FY2024",
@@ -17733,23 +17740,23 @@
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": null
+     "source": "Annual Report 2025 \u2014 page 32 (names 4 O&M hospitals inside the 0\u20133 year maturity bucket but gives no separate O&M revenue/EBITDA)"
     },
     {
      "fy": "FY2026",
      "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": null
+     "source": "Presentation Jun 2026 \u2014 page 36 (no O&M business line; only variable O&M fee add-back)"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": null
+    "source": "Presentation Nov 2026 \u2014 page 17 (Q2/H1 FY27 P&L is consolidated; no O&M or DMERF business line)"
    },
-   "not_found": "No FY25/FY26 or quarterly O&M revenue/EBITDA; no PAT at any date. Presentations show only variable O&M fee add-backs (Q4FY26 \u20b910.1 cr; FY26 \u20b937 cr), not O&M business revenue."
+   "not_found": "No DMERF / Medical Services Agreement financials on these pages; no PAT for the O&M business; no FY25, FY26 or quarterly O&M revenue or EBITDA. Only FY2024 (and FY2023 comparative: revenue 32.11, EBITDA -12.47) exist."
   }
  },
  "IIFL": {
@@ -35485,7 +35492,7 @@
   }
  },
  "NMDC": {
-  "stamp": "9cd811b23299fda21f5dc911cca0c00d",
+  "stamp": "c3a9d4641400f7fb09ff12d923e4009e",
   "verdict": {
    "what_is_spun": "NMDC Iron & Steel Plant (NISP), the steel-making undertaking, demerged from NMDC into NMDC Steel Limited",
    "demerged_business_names": [
@@ -35493,19 +35500,18 @@
     "NISP",
     "NMDC Steel Limited",
     "NSL",
-    "Demerged Undertaking",
     "HR Coil & Sheets"
    ],
    "reason": "not stated",
    "reason_class": "not stated",
-   "insiders": "not stated; NMDC is \"A GOVT. OF INDIA ENTERPRISE\" and the call says NSL \"was, as you know, is under the same management\", with marketing then done by SAIL",
-   "hidden_value": "Parent is a high-margin iron ore pure-play \u2014 iron ore segment EBITDA still 42% versus 33% blended once steel trading entered \u2014 but it bankrolls the spin: INR 1,601.39 crores demerger dues plus INR 4,846.56 crores trade and other receivables from NSL",
+   "insiders": "not stated; documents say only that at the time of the HR coil trading arrangement NSL \"was under the same management\" as NMDC and marketing was done by SAIL",
+   "hidden_value": "Parent keeps iron ore: standalone iron-ore segment EBITDA ~42% vs 33% blended once steel trading entered; but parent carries NSL exposure of INR 1,601.39 crores demerger receivable plus INR 4,846.56 crores trade and other receivables",
    "selling_pressure": "unclear",
-   "selling_pressure_why": "Documents disclose no share allotment, index treatment or shareholder detail; scheme was already effective October 13, 2022",
+   "selling_pressure_why": "Documents give no share entitlement, size, index or shareholder-base detail for the demerged entity",
    "parent_or_spin": "parent",
    "option_pricing_date": "not stated",
-   "listing_timeline": "not stated; the 14 August 2026 filing says only \"The Scheme became effective on October 13, 2022, upon filing with the Registrar of Companies, with an Appointed Date of April 1, 2021\"",
-   "read_next": "NMDC Steel Limited's own results and the repayment schedule it gave this quarter for the INR 1,601.39 crores demerger receivable",
+   "listing_timeline": "not stated; the documents say only that the Scheme \"became effective on October 13, 2022, upon filing with the Registrar of Companies, with an Appointed Date of April 1, 2021\" (stated in the 14 August 2026 results notes)",
+   "read_next": "The Scheme of Arrangement sanctioned by MCA on October 6, 2022, and NSL's repayment schedule for the INR 1,601.39 crores",
    "quote": "Pursuant to the Scheme, the Demerged Undertaking stood transferred and vested into NMDC Steel Limited."
   }
  },
@@ -49590,41 +49596,41 @@
   }
  },
  "NMDC::segments": {
-  "stamp": "8676c77e76ac22fa4a0f820b6b66e67e",
+  "stamp": "1e79d06c9004ecdc2c4c5c7409a1a138",
   "verdict": {
-   "segment_name": "Trading of HR Coil (\"Trading - Purchase and Sale of HR_Coils\"); reported within \"All other Segments\" until FY2025 and shown separately from FY2026",
+   "segment_name": "Trading of HR Coil (reported as a separate business segment from FY2026; previously inside 'All other Segments'; the NISP / NMDC Steel plant itself is not a segment in these statements)",
    "unit": "\u20b9 crore",
-   "measure_notes": "Operating_profit = 'Segment Result' as reported in the business-segment note: a pre-tax EBIT-type measure stated before unallocated corporate expenses, finance cost, interest income and income taxes. Revenue is External Sales (this segment reports no inter-segment sales; total revenue = external). No segment-level PAT, EBITDA or depreciation is disclosed for this segment (depreciation shown as '-'). IMPORTANT: this is NMDC's HR-coil trading activity (buying and reselling coils), not the standalone financials of the demerged NISP / NMDC Steel Limited undertaking, which these pages do not contain \u2014 the demerger was completed before FY2024 and NMDC Steel is no longer part of NMDC's segment reporting.",
+   "measure_notes": "Revenue = External Sales (no inter-segment sales in this segment; total revenue equals external). Operating profit = 'Segment Result' as labelled in the segment note, i.e. segment profit before unallocated corporate expenses, finance cost, interest income and tax. No segment-level PAT is disclosed \u2014 tax is reported only at company level. Standalone figures (consolidated figures are identical for this segment: AR2026 pages 498-499).",
    "years": [
     {
      "fy": "FY2024",
-     "revenue": 0,
+     "revenue": null,
      "operating_profit": null,
      "pat": null,
-     "source": "Annual Report 2025 \u2014 page 311 (Sale of HR-Coils for year ended 31 March 2024 shown as '-')"
+     "source": "Annual Report 2024 \u2014 page 289 / page 290 (no HR Coil or steel segment; 'Sale of HR-Coils' nil)"
     },
     {
      "fy": "FY2025",
      "revenue": 198.98,
      "operating_profit": 0.86,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 387 (previous-year regrouped figures)"
+     "source": "Annual Report 2026 \u2014 page 387 (previous-year regrouped column; revenue also at Annual Report 2025 \u2014 page 311)"
     },
     {
      "fy": "FY2026",
      "revenue": 3960.86,
      "operating_profit": 16.31,
      "pat": null,
-     "source": "Annual Report 2026 \u2014 page 387 (standalone; identical in consolidated, page 498)"
+     "source": "Annual Report 2026 \u2014 page 387"
     }
    ],
    "latest_quarter": {
     "period": null,
     "revenue": null,
     "operating_profit": null,
-    "source": "Presentation Aug 2026 \u2014 page 6 (Q1 FY27 shows only 'Other Sales' \u20b9287 cr and 'Purchase of Stock in Trade' nil; no HR-coil segment split)"
+    "source": "Presentation Aug 2026 \u2014 pages 6-7 (Q1 FY27 shown only at company level; HR Coil not broken out)"
    },
-   "not_found": "No segment PAT, EBITDA or quarterly HR-coil revenue/profit. No standalone NISP / NMDC Steel Ltd (Demerged Undertaking) financials \u2014 only NMDC's HR-coil trading segment. FY2024 result/assets not separately regrouped."
+   "not_found": "No segment PAT any year; no FY2024 HR Coil segment (did not exist); no quarterly HR Coil revenue or profit \u2014 presentations report only company-level Q1 FY27 figures."
   }
  }
 }

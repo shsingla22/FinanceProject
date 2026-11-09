@@ -1,22 +1,22 @@
 stage,detail,at
-nse,"2025-11-08→2025-11-30: 12130 filings, 59 restructuring rows for the universe",2026-11-08T12:44:10+00:00
-nse,"2025-12-01→2025-12-31: 10351 filings, 84 restructuring rows for the universe",2026-11-08T12:44:14+00:00
-nse,"2026-01-01→2026-01-31: 12716 filings, 68 restructuring rows for the universe",2026-11-08T12:44:18+00:00
-nse,"2026-02-01→2026-02-28: 16386 filings, 69 restructuring rows for the universe",2026-11-08T12:44:23+00:00
-nse,"2026-03-01→2026-03-31: 11050 filings, 93 restructuring rows for the universe",2026-11-08T12:44:26+00:00
-nse,"2026-04-01→2026-04-30: 12527 filings, 83 restructuring rows for the universe",2026-11-08T12:44:31+00:00
-nse,"2026-05-01→2026-05-31: 20748 filings, 103 restructuring rows for the universe",2026-11-08T12:44:36+00:00
-nse,"2026-06-01→2026-06-30: 14576 filings, 96 restructuring rows for the universe",2026-11-08T12:44:40+00:00
-nse,"2026-07-01→2026-07-31: 16967 filings, 97 restructuring rows for the universe",2026-11-08T12:44:45+00:00
-nse,"2026-08-01→2026-08-31: 21032 filings, 94 restructuring rows for the universe",2026-11-08T12:44:49+00:00
-nse,"2026-09-01→2026-09-30: 17148 filings, 89 restructuring rows for the universe",2026-11-08T12:44:55+00:00
-nse,"2026-10-01→2026-10-31: 14045 filings, 101 restructuring rows for the universe",2026-11-08T12:44:58+00:00
-nse,"2026-11-01→2026-11-08: 6799 filings, 33 restructuring rows for the universe",2026-11-08T12:45:00+00:00
-nse,"total 186475 filings read, 1069 kept",2026-11-08T12:45:00+00:00
-nse-bm,"24836 board-meeting intimations read, 85 restructuring purposes kept",2026-11-08T12:45:17+00:00
-deep,"store 84089 filings (5 new); 1 to read (first 6 pages, ≤8 MB)",2026-11-08T12:45:18+00:00
-deep,"done: 32788 filings read, 3951 carry a restructuring tag",2026-11-08T12:45:21+00:00
-deep,2883 filings join from the first-pages read; 4037 NSE rows carry a restructuring tag,2026-11-08T12:45:21+00:00
-register,14 demerger record dates from NSE's register join as filings,2026-11-08T12:45:21+00:00
-text,fetching text for 56 attachments,2026-11-08T12:45:21+00:00
-text,4143 attachments with text on file,2026-11-08T12:45:22+00:00
+nse,"2025-11-09→2025-11-30: 11734 filings, 58 restructuring rows for the universe",2026-11-09T07:10:00+00:00
+nse,"2025-12-01→2025-12-31: 10351 filings, 84 restructuring rows for the universe",2026-11-09T07:10:05+00:00
+nse,"2026-01-01→2026-01-31: 12716 filings, 68 restructuring rows for the universe",2026-11-09T07:10:09+00:00
+nse,"2026-02-01→2026-02-28: 16386 filings, 69 restructuring rows for the universe",2026-11-09T07:10:13+00:00
+nse,"2026-03-01→2026-03-31: 11050 filings, 93 restructuring rows for the universe",2026-11-09T07:10:17+00:00
+nse,"2026-04-01→2026-04-30: 12527 filings, 83 restructuring rows for the universe",2026-11-09T07:10:22+00:00
+nse,"2026-05-01→2026-05-31: 20748 filings, 103 restructuring rows for the universe",2026-11-09T07:10:28+00:00
+nse,"2026-06-01→2026-06-30: 14576 filings, 96 restructuring rows for the universe",2026-11-09T07:10:32+00:00
+nse,"2026-07-01→2026-07-31: 16967 filings, 97 restructuring rows for the universe",2026-11-09T07:10:38+00:00
+nse,"2026-08-01→2026-08-31: 21032 filings, 94 restructuring rows for the universe",2026-11-09T07:10:43+00:00
+nse,"2026-09-01→2026-09-30: 17148 filings, 89 restructuring rows for the universe",2026-11-09T07:10:48+00:00
+nse,"2026-10-01→2026-10-31: 14045 filings, 101 restructuring rows for the universe",2026-11-09T07:10:54+00:00
+nse,"2026-11-01→2026-11-09: 6842 filings, 33 restructuring rows for the universe",2026-11-09T07:10:55+00:00
+nse,"total 186122 filings read, 1068 kept",2026-11-09T07:10:56+00:00
+nse-bm,"24731 board-meeting intimations read, 85 restructuring purposes kept",2026-11-09T07:11:18+00:00
+deep,"store 84113 filings (24 new); 7 to read (first 6 pages, ≤8 MB)",2026-11-09T07:11:19+00:00
+deep,"done: 32795 filings read, 3877 carry a restructuring tag",2026-11-09T07:11:25+00:00
+deep,2810 filings join from the first-pages read; 3963 NSE rows carry a restructuring tag,2026-11-09T07:11:25+00:00
+register,14 demerger record dates from NSE's register join as filings,2026-11-09T07:11:25+00:00
+text,fetching text for 57 attachments,2026-11-09T07:11:25+00:00
+text,4141 attachments with text on file,2026-11-09T07:11:27+00:00
