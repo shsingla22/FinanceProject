@@ -48,7 +48,7 @@ PR_URL = "https://nsearchives.nseindia.com/archives/equities/bhavcopy/pr/PR{ddmm
 CA_API = ("https://www.nseindia.com/api/corporates-corporateActions"
           "?index=equities&from_date={frm}&to_date={to}")
 PURPOSE_RX = re.compile(r"de-?merg|scheme of arrangement|spin[\s-]?off|hiv(e|ing)[\s-]?off|arrangement", re.I)
-FIELDS = ["date", "symbol", "company", "purpose", "source", "detail"]
+FIELDS = ["date", "symbol", "company", "purpose", "source", "detail", "isin", "register_symbol"]
 
 
 # ------------------------------------------------------------- bundles
@@ -149,7 +149,61 @@ def api_rows(frm: dt.date, to: dt.date) -> list[dict]:
             out.append({"date": _iso(a.get("recDate") or a.get("exDate") or ""),
                         "symbol": a.get("symbol", ""), "company": a.get("comp", ""),
                         "purpose": a.get("subject", ""), "source": "api",
-                        "detail": f"ex {_iso(a.get('exDate', ''))}"})
+                        "detail": f"ex {_iso(a.get('exDate', ''))}", "isin": a.get("isin", "")})
+    return out
+
+
+# ----------------------------------------------------------- the universe
+
+def universe_isins(path: Path = FA.CONSTITUENTS) -> dict[str, str]:
+    """{ISIN: universe symbol} from the constituents file — the stable key
+    across a rename (Tata Motors → TMPV, HEG → HEGAM)."""
+    out = {}
+    if path.exists():
+        with open(path) as fh:
+            for r in csv.DictReader(fh):
+                if r.get("isin") and r.get("nse_symbol"):
+                    out[r["isin"].strip()] = r["nse_symbol"].strip()
+    return out
+
+
+def _first_token(name: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", (name or "").lower().split()[0]) if (name or "").split() else ""
+
+
+def canonicalise(rows: list[dict], members: dict, isin_map: dict[str, str]) -> list[dict]:
+    """Dedupe, and put every register row under its UNIVERSE symbol:
+      - an API row carries the ISIN, so a renamed company is recognised
+        whatever symbol the register used;
+      - a bc row (no ISIN) under a symbol that is not a member is matched to
+        an API row of the same date and purpose family whose company name
+        starts with the same word (bc 'TATAMOTORS / Tata Motors Limited'
+        14-Oct-2025 ↔ api TMPV 'Tata Motors …' 14-Oct-2025);
+    `register_symbol` keeps what the register printed. in_universe is then
+    by canonical symbol."""
+    seen, out = set(), []
+    api_by_date: dict[tuple[str, bool], list[dict]] = {}
+    for r in rows:
+        r.setdefault("isin", "")
+        r["register_symbol"] = r["symbol"]
+        if r["source"] == "api" and r["isin"] in isin_map:
+            r["symbol"] = isin_map[r["isin"]]
+        if r["source"] == "api":
+            api_by_date.setdefault((r["date"], bool(re.search(r"de-?merg", r["purpose"], re.I))), []).append(r)
+    for r in rows:
+        if r["source"] == "bc" and r["symbol"] not in members:
+            fam = bool(re.search(r"de-?merg", r["purpose"], re.I))
+            for a in api_by_date.get((r["date"], fam), []):
+                if a["symbol"] in members and _first_token(a["company"]) == _first_token(r["company"]):
+                    r["symbol"], r["isin"] = a["symbol"], a.get("isin", "")
+                    break
+    for r in rows:
+        k = (r["source"], r["symbol"], r["date"], r["purpose"][:40])
+        if k in seen:
+            continue
+        seen.add(k)
+        r["in_universe"] = "yes" if r["symbol"] in members else ""
+        out.append(r)
     return out
 
 
@@ -228,15 +282,7 @@ def build(days: int = 400, fetch: bool = True, today: dt.date | None = None,
         rows += api_rows(today - dt.timedelta(days=days), today)
     except Exception as e:                        # noqa: BLE001
         note("gt", f"corporate-actions API failed: {e}")
-    # dedupe
-    seen, out = set(), []
-    for r in rows:
-        k = (r["source"], r["symbol"], r["date"], r["purpose"][:40])
-        if k in seen:
-            continue
-        seen.add(k)
-        r["in_universe"] = "yes" if r["symbol"] in members else ""
-        out.append(r)
+    out = canonicalise(rows, members, universe_isins())
     out.sort(key=lambda r: (r["date"], r["symbol"]))
     GROUND_TRUTH.parent.mkdir(parents=True, exist_ok=True)
     with open(GROUND_TRUTH, "w", newline="") as fh:

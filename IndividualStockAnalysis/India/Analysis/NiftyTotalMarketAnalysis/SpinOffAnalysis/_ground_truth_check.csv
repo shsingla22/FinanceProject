@@ -1,10 +1,10 @@
 check,company,listed_on,new_symbols_near_record_date,purpose,record_dates,register_dates,resulting_company_read,skill_confidence,skill_kind,skill_stage,symbol,verdict,what_is_spun
-recall,HEG Advanced Materials Limited,,"ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN",Demerger,2026-09-07,,HEG Graphite Limited,confirmed,capital_reduction/demerger/merger/slump_sale,record_date,HEGAM,captured,
+recall,HEG Ltd,,"ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN",DEMERGER; Demerger,2026-09-07,,HEG Graphite Limited,confirmed,capital_reduction/demerger/merger/slump_sale,record_date,HEGAM,captured,
 recall,Hindustan Unilever Ltd,,"ADVAIT, AEQUS, ALGOQUANT, AMAGI",DEMERGER; Demerger,2025-12-05,,,confirmed,demerger/merger/preferential_issue/rights_issue/slump_sale,listed,HINDUNILVR,captured,
 recall,India Glycols Ltd,,"ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN",DEMERGER; Demerger,2026-09-02,,Ennature Bio Pharma Limited,confirmed,demerger/merger/preferential_issue,listed,INDIAGLYCO,captured,
 recall,Inox Green Energy Ser Ltd,,"ACEVECTOR, ACGL, ADDIND, ADROITIND",DEMERGER; Demerger,2026-08-01,,Inox Renewable Solutions Limited,confirmed,demerger/merger/preferential_issue/slump_sale,record_date,INOXGREEN,captured,
 recall,SKF India Limited,,"ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50",DEMERGER; Demerger,2025-10-15,,,confirmed,demerger/merger,record_date,SKFINDIA,captured,
-recall,Tata Motors Passenger Vehicles Limited,,"ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50",Demerger,2025-10-14,,,confirmed,demerger,record_date,TMPV,captured,
+recall,Tata Motors Limited,,"ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50",DEMERGER; Demerger,2025-10-14,,,confirmed,demerger,record_date,TMPV,captured,
 recall,Triveni Engineering & Ind,,"ACEVECTOR, ACGL, ADDIND, ADROITIND",DEMERGER; Demerger,2026-07-22,,Triveni Power Transmission Limited,confirmed,demerger/merger/preferential_issue/rights_issue,listed,TRIVENI,captured,
 recall,Vedanta Limited,,"AASTHA, AGL, AURUS, AVG-RE",DEMERGER; Demerger,2026-05-01,,Talwandi Sabo Power Limited,confirmed,demerger/merger/preferential_issue/slump_sale,record_date,VEDL,captured,
 precision,Aditya Birla Lifestyle Brands Ltd.,2025-06-23,,,,,,,,listed,ABLBL,verified by NSE's equity list — this company is the listed resulting company (listed 2025-06-23),Madura Fashion and Lifestyle ('MFL') branded apparel business demerged from Aditya Birla Fashion and

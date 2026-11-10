@@ -387,6 +387,25 @@ def test_probable_table_puts_demergers_first_and_links_its_sources():
     assert [r["symbol"] for r in sorted(rows, key=AZ.probable_order)] == ["D2", "D1", "I", "L", "S"]
 
 
+def test_register_rows_are_put_under_the_universe_symbol_by_isin_or_twin():
+    import demerger_ground_truth as GT
+    members = {"TMPV": "Tata Motors Passenger Vehicles Ltd.", "HEGAM": "HEG Advanced Materials Ltd.", "VEDL": "Vedanta Ltd."}
+    isins = {"INE155A01022": "TMPV", "INE545A01016": "HEGAM"}
+    rows = [{"date": "2025-10-14", "symbol": "TATAMOTORS", "company": "Tata Motors Limited", "purpose": "DEMERGER", "source": "bc", "detail": ""},
+            {"date": "2025-10-14", "symbol": "TMPV", "company": "Tata Motors Passenger Vehicles Limited", "purpose": "Demerger",
+             "source": "api", "detail": "", "isin": "INE155A01022"},
+            {"date": "2026-09-07", "symbol": "HEG", "company": "HEG Ltd", "purpose": "DEMERGER", "source": "bc", "detail": ""},
+            {"date": "2026-09-07", "symbol": "HEG", "company": "HEG Limited", "purpose": "Demerger", "source": "api", "detail": "", "isin": "INE545A01016"},
+            {"date": "2026-09-07", "symbol": "DALMIASUG", "company": "Dalmia Bharat Sugar", "purpose": "DEMERGER", "source": "bc", "detail": ""},
+            {"date": "2026-05-01", "symbol": "X", "company": "", "purpose": "first appearance in the price file", "source": "newlist", "detail": ""}]
+    out = {(r["source"], r["register_symbol"]): r for r in GT.canonicalise(rows, members, isins)}
+    assert out[("api", "HEG")]["symbol"] == "HEGAM" and out[("api", "HEG")]["in_universe"] == "yes"      # by ISIN
+    assert out[("bc", "TATAMOTORS")]["symbol"] == "TMPV" and out[("bc", "TATAMOTORS")]["in_universe"] == "yes"   # by its API twin
+    assert out[("bc", "HEG")]["symbol"] == "HEGAM"
+    assert out[("bc", "DALMIASUG")]["symbol"] == "DALMIASUG" and out[("bc", "DALMIASUG")]["in_universe"] == ""   # same date, other company
+    assert out[("newlist", "X")]["in_universe"] == ""
+
+
 def test_restructuring_rows_follow_the_deep_store_after_a_rule_change():
     store = {"a1": {"read_status": "read", "tags": ""},                 # read, nothing left after the rule change
              "a2": {"read_status": "read", "tags": "merger|rights_issue"},

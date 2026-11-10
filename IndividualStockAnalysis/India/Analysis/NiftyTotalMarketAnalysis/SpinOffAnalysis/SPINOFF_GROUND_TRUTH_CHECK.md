@@ -16,12 +16,12 @@
 
 | Parent | Record date(s) | Purpose | Skill kind | Confidence | Stage | Resulting company read | New symbols near the record date | Verdict |
 |---|---|---|---|---|---|---|---|---|
-| **HEGAM** | 2026-09-07 | Demerger | capital_reduction/demerger/merger/slump_sale | confirmed | record_date | HEG Graphite Limited | ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN | captured |
+| **HEGAM** | 2026-09-07 | DEMERGER; Demerger | capital_reduction/demerger/merger/slump_sale | confirmed | record_date | HEG Graphite Limited | ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN | captured |
 | **HINDUNILVR** | 2025-12-05 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | listed |  | ADVAIT, AEQUS, ALGOQUANT, AMAGI | captured |
 | **INDIAGLYCO** | 2026-09-02 | DEMERGER; Demerger | demerger/merger/preferential_issue | confirmed | listed | Ennature Bio Pharma Limited | ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN | captured |
 | **INOXGREEN** | 2026-08-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Inox Renewable Solutions Limited | ACEVECTOR, ACGL, ADDIND, ADROITIND | captured |
 | **SKFINDIA** | 2025-10-15 | DEMERGER; Demerger | demerger/merger | confirmed | record_date |  | ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50 | captured |
-| **TMPV** | 2025-10-14 | Demerger | demerger | confirmed | record_date |  | ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50 | captured |
+| **TMPV** | 2025-10-14 | DEMERGER; Demerger | demerger | confirmed | record_date |  | ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50 | captured |
 | **TRIVENI** | 2026-07-22 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue | confirmed | listed | Triveni Power Transmission Limited | ACEVECTOR, ACGL, ADDIND, ADROITIND | captured |
 | **VEDL** | 2026-05-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Talwandi Sabo Power Limited | AASTHA, AGL, AURUS, AVG-RE | captured |
 
