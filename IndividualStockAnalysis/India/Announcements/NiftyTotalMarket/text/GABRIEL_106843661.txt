@@ -1,0 +1,849 @@
+ 
+ 
+     Date: Octo ber 30, 202 6 
+  
+BSE Limited  
+25th Floor, P. J. Towers,  
+Dalal Street,  
+MUMBAI - 400 001  
+(Company Code: 505714)  National Stock Exchange of India Limited  
+Exchange Plaza, Sandra Kurla Complex,  
+Bandra (E),  
+MUMBAI - 400 051  
+(Company Code: GABRIEL)  
+ 
+Sub:  Outcome of Board Meeting  
+ 
+Ref: Regulation 30 , 33 and 52 of (Listing Obligations and Disclosure Requirements) Regulations, 
+2015  (“SEBI Listing Regulations”)  
+ 
+Dear Sirs,  
+ 
+Please note that a meeting of the Board of Directors of the Company  was held on Friday , October  30, 
+2026, at 03.25 PM and was concluded at 05:45 PM. 
+ 
+In terms of SEBI Listing Regulations , we would like to inform you that  in the said meeting the Board of 
+Directors of the Company  considered and  approved, inter - alia the below matters : 
+1. The standalone and c onsolidated unaudited financial results along with the  statement of assets 
+and liabilities and  cash flow statement for the quarter and ha lf year ended September 30, 202 6. 
+In this regard , following are enclosed:  
+a) The standalone and c onsol idated u naudited fi nancial results along with the limited review 
+report for the quarter and half -year ended September 30, 2026, as required under 
+Regulations 33 and 52 of the  SEBI  Listing Regulations ; 
+b) Disclosures in accordance with Regulation 52(4) of the SEBI Listing Regulations;  
+c) Statement of Utilization of Issue Proceeds & Statement of Deviation and Variation in use of 
+Issue Proceeds of Non -Convertible Debt Securities during the quarter ended September 30, 
+2026, pursuant to Regulations 52(7) & 52(7A) of the Listing Regulations ; 
+2. An Interim Dividend of Rs. 2.15  per share  having face value of Re. 1 each.  
+3. The record date for the payment of interim dividend to be Friday, November 06, 202 6. Dividend 
+shall be paid to the shareholders on or before Saturday , November  28, 202 6. 
+ 
+The disclosure of Related Party Transactions pursuant to the provisions of Regulations 23 (9) of the 
+Listing Regulations is being filed as a part of Integrated Filing (Financial) with BSE and NSE through 
+XBRL Mode.  
+ 
+ 
+ 
+ 
+ 
+ 
+We request you  to take the above information on record and kindly acknowledge receipt . 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Gabriel India Limited  
+ 
+ 
+ 
+Mohit Srivastava  
+Chief Financial Officer              
+Email Id: secretarial@gabriel.co.in     
+Encl:  as above  
+ 
+ 
+GABRIEL INDIA LIMITED                    Registered office
+29th Milestone,
+Pune-Nashik Highway,
+Vill.Kuruli, Tal.Khed
+Pune 410 501
+CIN-L34101PN1961PLC015735
+(Amount in Rs. Million)
+Year ended
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026
+(Unaudited) (Unaudited) (Unaudited)
+(Refer note 1 
+below)(Unaudited) (Unaudited)
+(Refer note 1 
+below)(Audited)
+(Refer note 1 
+below)
+Income
+I Revenue from operations 13,991.79      12,742.47   11,402.74      26,734.26  22,119.55               45,773.41               
+II Other income 84.31              186.79         97.15              271.09        168.30                      518.16                      
+IIITotal Income (I+II) 14,076.10                    12,929.26                11,499.89                    27,005.35               22,287.85               46,291.57               
+IVExpenses
+Cost of materials consumed 10,582.06      9,487.25     8,413.13        20,069.31  16,247.78               33,643.00               
+Purchases of stock-in-trade 111.16            115.30         90.31              226.46        159.79                      373.60                      
+ Changes in inventories of finished goods, work-in-progress and stock-in-trade             (60.07)             (5.08) (32.84)            (65.17)         (23.23)                       88.21                        
+Employee benefits expense 777.37                     748.30 753.26            1,525.68     1,451.40                 2,819.20                 
+Depreciation and amortisation expense 237.00                     231.41 224.61            468.41        449.89                      905.07                      
+Other expenses 1,432.18              1,324.70 1,176.03        2,756.88     2,313.88                 4,758.74                 
+Finance costs 110.59                       29.14 50.72              139.73        81.47                        151.96                      
+Total expenses 13,190.29                  11,931.02               10,675.22                  25,121.30               20,680.98               42,739.78               
+V Profit before tax and exceptional item (III-IV) 885.81                         998.24                      824.67                         1,884.05                 1,606.87                 3,551.79                 
+VIExceptional item (Refer note 5 below) -                    -                -                   -               -                                                 133.46 
+VII Profit before tax (V - VI)                          885.81                      998.24                         824.67                   1,884.05 1,606.87                                   3,418.33 
+Current tax 229.48           226.69        210.12           456.17                      415.59                      772.71                      
+Tax expense charge / (credit) relating to prior years -                  -               0.70                -                            (22.36)                       5.98                          
+Deferred tax (27.52)            11.87          1.29                (15.65)                       4.93                          54.42                        
+VIIITotal tax expense 201.96                         238.56                      212.11                         440.52                      398.16                      833.11                      
+IXNet Profit after tax (VII - VIII) 683.85                         759.68                      612.56                         1,443.53                 1,208.71                 2,585.22                 
+XOther comprehensive income
+Items that will not be reclassified to profit or loss
+Remeasurement of post-employment benefit obligations                (5.00) (5.00)                          (4.00)          (10.00) (8.41)                         (21.91)                       
+Income tax relating to above                  1.26 1.26                             1.52              2.52 2.10                          5.51                          
+ Items that may be reclassified to profit or loss                                   -                                  -                                     -                     -   -                            -                            
+ Other comprehensive income for the period/year, net of tax (3.74)                            (3.74)                         (2.48)                            (7.48)                         (6.31)                         (16.40)                       
+XITotal comprehensive income for the period/year net of tax (IX + X) 680.11                         755.94                      610.08                         1,436.05                 1,202.40                 2,568.82                 
+Paid up Equity share capital (Face value Rs. 1/-each) 191.63                         177.23                      143.64                         191.63                      143.64                      143.64                      
+Reserves and surplus 14,343.42               
+XII Earnings per Equity share (nominal value of Rs. 1/- each, not annualized) (refer note 1 below) 
+Basic and Diluted (Rs.) 3.79                             4.29                          3.46                             8.07                          6.82                          14.59                        
+Notes:
+1
+Impact of restatement on earning per share (EPS) for comparative period/year:
+Quarter ended Half year ended Year ended
+ 30.09.2025  30.09.2025 31.03.2026
+                          4.22                           8.10                         14.75 
+                          3.46                           6.82                         14.59 
+2
+3
+4
+5
+6
+7On July 21, 2026, the Board of Directors of the Company approved acquisition of 28.99% equity stake on HL Mando Anand India Private Limited equivalent to 48,134,427 equity shares from Asia Investments Private Limited
+(Promoter and holding company of the Company), for a composite consideration of Rs.22,310 millions which was approved by the shareholder on August 19, 2026. The Consideration was discharged by issue of 1,44,04,204 equity
+sharesataggregatingtoRs.18,810milliontothePromoteronpreferential basisandbalanceRs.3,500millionswaspaidincash.Thepreferential allotmentofsecuritieswasdoneonSeptember11,2026whichwasconsideredasthe
+date of acquisition by the management. The Company has accounted the acquisition at fair value in accordance with IND AS 28 "Investments in Associates and Joint Ventures".
+On July 21, 2026, the Board of Directors of the Company had accorded its approval for execution of Share Purchase Agreement and Joint Venture Agreements ('Agreements') with HL Klemove Corporation and HL Klemove India
+Private Limited ('the "Target Company'), purchasing 37,844,999 equity shares of the Target Company at a consideration of USD 98.44 million. The Company has acquired the shares on August 25, 2026 and has been considered as
+date of acquisition. The Company has accounted the acquisition at fair value in accordance with IND AS 28 "Investments in Associates and Joint Ventures".Particulars
+Thesestandalonefinancial resultshavebeenpreparedinaccordancewiththeIndianAccounting Standard(IndAS)asprescribedunderSection133ofthe CompaniesAct,2013,readwithRule3of theCompanies (IndianAccounting
+Standards) Rule, 2015 and relevant amendment thereunder.
+The above standalone results have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held on October 30, 2026.  - After accounting for Scheme 
+As the Company's business activity falls within a single operating segment viz. "auto components and parts", no segment information is required to be disclosed. 
+Exceptional item relates to the obligations for the employees past service created pursuant to the implementation of the four labour codes with effect from November 21, 2025. STATEMENT OF STANDALONE UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026 
+S.No.
+TheBoardofDirectors,atitsmeetingheldonJune30,2025,approvedaCompositeSchemeofArrangement(the"Scheme")involving themergerofAnchemcoIndiaPrivateLimited(afellowsubsidiary)withAsiaInvestmentsPrivate
+Limited(theImmediateHoldingCompany)onagoingconcernbasiswitheffectfromtheAppointedDateofApril1,2025,andthesubsequentdemergerandtransferoftheAutomotiveUndertaking(asdefinedintheScheme)ofAsia
+Investments Private Limited to the Company with effect from the Appointed Date of April 1, 2026. 
+The Scheme was approved by the National Company Law Tribunal (NCLT) vide its order dated May 11, 2026. Accordingly, during the half year ended September 30, 2026, the Company has given effect to the Scheme using the
+pooling of interest method, applied retrospectively for all periods and year ended March 31, 2026, presented in the standalone financial results, as prescribed under Ind AS 103 – "Business Combinations", and the figures for the
+previous periods have been restated accordingly. The restated results for the quarter ended September 30, 2025, half year ended September 30, 2025 and the quarter ended March 31, 2026, have, to the extent of theAutomotive
+Undertaking included therein, neither been subjected to limited review and such figureshave beenfurnished bythe managementof theCompany, whichhas exercisednecessary duediligence toensure thatthese financial results
+present a true and fair view of the Company's affairs.
+Earnings per share
+  - Before accounting for Scheme  Particulars Quarter ended Half Year Ended
+
+GABRIEL INDIA LIMITED                    Registered office
+29th Milestone,
+Pune-Nashik Highway,
+Vill.Kuruli, Tal.Khed
+Pune 410 501
+CIN-L34101PN1961PLC015735
+ STATEMENT OF STANDALONE UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026 
+8
+9
+10
+Principal Interest Next principal 
+installment datePrincipal amount 
+(Rs. In MINR)Interest date Interest amount
+(Rs. In MINR)
+8.15% unsecured, listed, non-convertible debentures (NCDs) NA NA 10-Sep-29                 10,000.00 10-Sep-27                      815.00 
+11
+Year ended
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026
+Debt equity ratio 
+[{Total borrowings (including lease liabilities) (-) cash and cash equivalents (including unencumbered other
+bank balances) and current investments} / total equity]0.27                              (0.07) (0.53) 0.27 (0.53) (0.10)
+Debt Service coverage ratio 
+(not annualised) [[Profit before interest, depreciation, amortisation and after tax and exceptional items /
+(finance cost + principal long term loan repayment]1.35                              12.42 24.15 2.42 2.55 5.84 
+Interest service coverage ratio 
+(not annualised) (Profit before interest, depreciation, amortisation and after tax and exceptional items /
+finance cost)11.15                            43.20 29.92 13.48 26.25 7.24 
+Current ratio
+ [current assets / current liabilities]1.78                              1.89 1.73 1.78 1.73 1.76 
+Long term debt to working capital 
+[Long term debt (Borrowings) / working capital]1.65                              0.10 0.07 1.65 0.07 0.08 
+Bad debt to accounts receivable ratio
+ [(Bad debts + provision for doubtful debts) / trade receivables]0.00                              0.00 0.00 0.00 0.00 0.00 
+Current liability ratio 
+[Current liabilities / total liabilities]0.38                              0.84 0.96 0.38 0.96 0.86 
+Total debt to total assets
+[Total debts (including lease liabilities)/ total assets]0.20                              0.04 0.04 0.20 0.04 0.06 
+Trade receivables turnover ratio
+[Annualised revenue from operations / closing current trade
+receivables] 6.42                              6.48 6.68 6.14 6.49 6.61 
+Inventory turnover ratio
+[Annualised cost of goods sold / closing inventory]11.71                            10.63 10.22 11.14 9.89 10.32 
+Operating margin (%)
+[Profit before interest and tax and after exceptional items / revenue
+from operations]7.12% 8.06% 7.68% 7.57% 7.62% 7.80%
+Net Profit Margin (%)
+[Net profit after tax and exceptional items / revenue from operations]4.89% 5.96% 5.49% 5.40% 5.46% 5.65%
+For and on behalf of the Board
+Atul Jaggi
+Place: Osaka                             Managing Director (Ride Control)
+Date: October 30, 2026                               DIN: 07263848The Board of Directors of the Company, at its meeting held on October 06, 2026, approved entering into a Joint Venture Agreement between Faurecia Automotive Seating India Private Limited (“FASI”) and the Company for the
+formationofajointventurecompany(“JVCo.”)withaninitial investmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany
+will hold 50% plus one equity share and 50% less one equity share, respectively.
+TheBoardofDirectorsintheirmeeting heldonOctober30,2026declaredaninterimdividendofRs.2.15persharefortheperiodendedSeptember30,2026.TherecorddateforthesameisNovember06,2026,inaccordancewith
+the Ind AS 10 ‘Event after reporting date’ as notified by the Ministry of Corporate Affairs through amendment to Companies (Accounting Standards) Amendment Rules, 2016dated March30, 2016,the Companyhas notaccounted
+for interim dividend as a liability as at September 30, 2026.
+The disclosure required as per the provisions of Regulation 52(4) and 54(2) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 is given below:
+Quarter ended Half Year Ended RatiosDuringthequarter,theCompanyraisedfundsthroughtheissuanceofunsecured,listed,non-convertibledebentures(NCDs)onaprivateplacementbasis,aggregating uptoRs.10,000million.TheNCDshaveafacevalueof₹1,00,000
+each and carry a fixed coupon rate of 8.15% per annum. Details are as below-
+Previous Due Date Next due date Particulars
+Atul JaggiDigitally signed by Atul 
+Jaggi 
+Date: 2026.10.30 
+20:22:14 +05'30'
+   GABRIEL INDIA LIMITEDRegistered office
+29th Milestone,
+Pune-Nashik Highway,
+Vill.Kuruli, Tal.Khed
+Pune 410 501
+CIN-L34101PN1961PLC015735
+ As at  As at 
+ 30.09.2026  31.03.2026 
+ (Unaudited)  (Audited- refer Note 
+1) 
+                          5,532.51                           5,508.39 
+                             797.96                              842.70 
+                             501.88                              304.48 
+68.08                                                                68.95 
+                          1,189.27                           1,220.98 
+                             648.02                              545.35 
+32,732.44                                                     971.20 
+16.62                                                                17.23 
+85.73                                                                75.00 
+5.28                                                                  33.64 
+194.20                                                           209.88 
+41,771.99                        9,797.80                          
+Current assets
+(a) Inventories 3,632.15                          3,304.20                          
+(b) Financial assets
+i)   Investments 1,282.99                          1,039.36                          
+ii)  Trade receivables 8,715.20                          6,928.81                          
+iii) Cash and cash equivalents 974.90                              801.43                              
+iv) Bank Balances other than iii) above 19.85                                891.10                              
+v)  Loans 4.00                                  5.40                                  
+vi) Other financial assets 336.13                              466.36                              
+(c) Other current assets 540.24                              511.85                              
+15,505.46                        13,948.51                        
+Total Assets 57,277.45                        23,746.31                        
+B. EQUITY AND LIABILITIES
+(a) Equity share capital 191.63                              143.64                              
+(b) Other equity 34,025.96                        14,376.99                        
+34,217.59                        14,520.63                        
+Non-current liabilities
+(a) Financial liabilities
+   i) Borrowings 11,217.35                        490.40                              
+280.10                              294.68                              
+iii) Other Financial Liabilities 2,312.02                          -                                    
+(b) Provisions 315.59                              257.95                              
+(c) Deferred tax liabilities (net)                              189.30 207.46                              
+(d) Other non-current liabilities                                 24.56 32.44                                
+14,338.92                        1,282.93                          
+Current liabilities
+(a) Financial Liabilities
+-                                    443.53                              
+73.44                                97.65                                
+   iii) Trade payables
+Total Outstanding dues of micro enterprises and small enterprises 859.41                              800.77                              
+6,743.12                          5,653.77                          
+iv) Other financial liabilities 474.49                              383.11                              
+(b) Provisions 259.88                              296.06                              
+(c) Current tax liabilities 48.07                                -                                    
+(d) Other current liabilities 262.53                              267.86                              
+8,720.94                          7,942.75                          
+Total Equity and Liabilities 57,277.45                        23,746.31                        
+Atul Jaggi
+Place: Osaka Managing Director (Ride Control)
+Date: October 30, 2026 DIN 07263848STANDALONE STATEMENT OF ASSETS AND LIABILITIES AS AT SEPTEMBER 30, 2026
+ (Amount in Rs. Million)
+For and on behalf of the Boardii) Lease liabilities
+   ii) Lease liabilities   i) Borrowings(f) Intangible assets under developmentA. ASSETS
+Non-current assets
+Equity (a) Property, plant and equipmentParticulars
+       Total outstanding dues of creditors other than micro enterprises and small enterprises(d) Investment properties
+(e) Intangible assets(b) Right-of-use assets
+(c) Capital work-in-progress
+(i) Other non-current assets(g) Financial assets
+i) Investments
+ii) Loans
+iii) Other financial assets
+(h) Income tax assets (net)
+Atul JaggiDigitally signed by Atul 
+Jaggi 
+Date: 2026.10.30 20:22:37 
++05'30'
+GABRIEL INDIA LIMITEDRegistered office
+29th Milestone
+Pune-Nashik Highway
+Vill.Kuruli, Tal.Khed
+Pune 410 501
+CIN-L34101PN1961PLC015735
+(Amount in Rs. Million)
+ Particulars  For the half year ended 
+September 30, 2026  For the half year ended 
+September 30, 2025 (refer 
+Note 1) 
+A.Cash flow from operating activities:
+Profit before tax 1,884.05                               1,606.88                                 
+Adjustments for:
+Depreciation and amortisation expense 468.41                        449.88                                    
+Loss/ (gain) on disposal of property, plant and equipment (11.59)                         (15.90)                                     
+Finance costs 139.73                        81.47                                      
+Rental income (2.48)                           (1.73)                                       
+Gain on derivatives (22.42)                         -                                           
+Interest income on Fixed deposit with banks and financial asset (24.50)                         (81.11)                                     
+Dividend income from related party (135.00)                      -                                          
+Gain on investments (39.90)                         (16.95)                                     
+Gain on termination of Lease -                              (0.76)                                       
+Bad debts written off -                              0.15                                         
+Provision for doubtful trade and other receivable 30.00                          0.49                                         
+Net exchange differences (5.72)                           8.87                                         
+Operating profit before working capital changes 2,280.59                               2,031.29                                 
+Changes in operating assets and liabilities:
+(Increase)/ Decrease in other non-current financial assets (10.73)                         (29.22)                                     
+(Increase)/ Decrease in other non-current assets 6.14                            (13.96)                                     
+(Increase)/ Decrease in Inventories (327.95)                      (322.73)                                   
+(Increase)/ Decrease in Trade receivables (1,820.31)                   (1,011.26)                                
+(Increase)/ Decrease in other current financial assets (121.09)                      4.30                                         
+(Increase)/ Decrease in other current assets (28.40)                         11.84                                      
+Increase/ (Decrease) in non current provisions 57.65                          38.10                                      
+Increase/ (Decrease) in trade payables 1,157.65                    1,088.72                                 
+Increase/ (Decrease) in other current financial liabilities 25.82                          (20.79)                                     
+Increase/ (Decrease) in other current liabilities (5.33)                           (22.67)                                     
+Increase/ (Decrease) in other non- current liabilities (7.88)                           -                                           
+Increase/ (Decrease) in current provisions (46.18)                         (11.62)                                     
+Cash generated from operations 1,159.98                               1,742.00                                 
+Income taxes paid (net)                                 (379.74) (379.17)                                   
+Net cash inflow from Operating activities (A) 780.24                                  1,362.83                                 STANDALONE STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED SEPTEMBER 30, 2026
+
+GABRIEL INDIA LIMITEDRegistered office
+29th Milestone
+Pune-Nashik Highway
+Vill.Kuruli, Tal.Khed
+Pune 410 501
+CIN-L34101PN1961PLC015735
+(Amount in Rs. Million)
+ Particulars  For the half year ended 
+September 30, 2026  For the half year ended 
+September 30, 2025 (refer 
+Note 1) STANDALONE STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED SEPTEMBER 30, 2026
+B.Cash flow from investing activities
+Payment for intangible assets including intangible asset under development (118.16)                      (87.25)                                     
+Payment for property, plant and equipment including capital work-in-progress (567.76)                      (787.68)                                   
+Proceeds from sale of property, plant and equipment 18.39                          25.29                                      
+Loans to employees (3.72)                           (12.42)                                     
+Repayment of loans by subsidiary -                              177.77                                    
+Consideration paid for business acquisition -                              (453.00)                                   
+Repayment of loans by employees 5.73                            12.19                                      
+Payment for investment in fixed deposits -                              (166.47)                                   
+Proceeds from maturity of fixed deposits 1,123.97                    422.54                                    
+Interest received 33.74                          84.54                                      
+Dividend received 135.00                        -                                           
+Rent received 2.48                            1.73                                         
+Payment for purchase of investments (10,616.07)                -                                           
+Proceeds/(Purchase) from sale of mutual funds (203.74)                      385.13                                    
+Net cash outflow from investing activities (B) (10,190.14)                           (397.63)                                   
+C.Cash flow from financing activities
+Payment of lease liabilities (principal) (60.75)                         (45.85)                                     
+Proceeds from long term borrowings 11,217.35                 450.00                                    
+Repayment of borrowings (933.93)                      (602.05)                                   
+Interest paid (89.60)                         (70.47)                                     
+Dividend paid (549.70)                      (421.25)                                   
+Net cash outflow from financing activities (C) 9,583.37                               (689.62)                                   
+Net (Decrease) /Increase in Cash & Cash Equivalents (A+B+C) 173.47                                  275.58                                    
+Cash and cash equivalents as at the beginning of the year 801.43                                  820.20                                    
+Cash and cash equivalents as at the end of the year 974.90                                  1,095.78                                 
+Cash and cash equivalents consists of:
+With Scheduled Banks
+In Current Accounts 974.90                        1,095.78                                 
+Fixed deposit maturing within 3 months
+Balances as per statement of cash flows 974.90                                  1,095.78                                 
+Non cash financing and investing activities
+Acquisition of right-of-use assets                                       9.54 236.51                                    
+Acquisition of investment in associate                             21,122.02 -                                           
+Notes:
+2. Figures in brackets indicate cash outflow.
+Atul Jaggi
+Place: Osaka Managing Director (Ride Control)
+Date: October 30, 2026 DIN No. 07263848For and on behalf of the Board1. The above standalone statement ofcash flows has been prepared under indirectmethod inaccordance withthe IndianAccounting Standard(Ind
+AS) 7 on "Statement of Cash Flows".
+Atul JaggiDigitally signed by 
+Atul Jaggi 
+Date: 2026.10.30 
+20:22:57 +05'30'
+
+
+
+Vivian 
+Ravi PillaiDigitally signed by 
+Vivian Ravi Pillai 
+Date: 2026.10.30 
+20:34:50 +05'30'
+GABRIEL INDIA LIMITED                    Registered office
+29th Milestone
+Pune- Nashik Highway
+Vill-Kuruli, Tal Khed
+Pune-410501
+                                                                             CIN-L34101PN1961PLC015735
+(Amount in Rs. Million)
+Year ended
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026
+(Unaudited) (Unaudited) (Unaudited)
+(Refer note 1 below)(Unaudited) (Unaudited)
+(Refer note 1 below)(Audited)
+(Refer note 1 below)
+Income
+I Revenue from operations 16,079.96                         14,256.83                         13,083.24                         30,336.79                                   25,426.82                         52,451.94                         
+II Other income 66.07                                  46.29                                  69.10                                  112.36                                         113.73                               286.23                               
+IIITotal Income (I+II) 16,146.03                         14,303.12                         13,152.34                         30,449.15                                  25,540.55                         52,738.17                         
+IV Expenses
+Cost of materials consumed 12,043.73                         10,528.48                         9,521.41                            22,572.21                                   18,458.79                         38,107.69                         
+Purchases of stock-in-trade 119.95                               115.30                               90.31                                  235.25                                         159.79                               360.81                               
+Changes in inventories of finished goods, work-in-progress and stock-in-
+trade(110.22)                              (49.02)                                (22.69)                                (159.24)                                       (37.26)                                51.28                                  
+Employee benefits expense 891.53                               856.21                               872.46                               1,747.74                                     1,687.74                            3,250.22                            
+Depreciation and amortisation expense 328.84                               323.02                               309.50                               651.86                                         616.05                               1,235.79                            
+Other expenses 1,726.23                            1,564.20                            1,363.25                            3,290.43                                     2,716.96                            5,660.89                            
+Finance costs 147.28                               59.76                                  62.80                                  207.04                                         112.59                               263.51                               
+Total expenses 15,147.34                         13,397.94                         12,197.05                         28,545.29                                  23,714.66                         48,930.19                         
+VProfit before share of profit in equity accounted investees, exceptional items 
+and tax (III-IV)998.69                               905.17                               955.29                               1,903.86                                     1,825.89                           3,807.98                           
+VIShare of profit in equity accounted investees (net) 483.00                               427.43                               345.99                               910.43                                         733.19                               1,576.33                            
+VII Profit before exceptional items and tax (V+VI) 1,481.69                           1,332.60                           1,301.28                           2,814.29                                     2,559.08                           5,384.31                           
+VIIIExceptional items (refer note 5) -                                      -                                      -                                      -                                                -                                      152.50                               
+IX Profit before tax (VII-VIII) 1,481.69                           1,332.60                           1,301.28                           2,814.29                                     2,559.08                           5,231.81                           
+X Tax expense
+Current tax 261.89                               238.97                               228.40                               500.86                                         444.29                               865.45                               
+Tax expense charge / (credit) relating to prior years (0.50)                                   0.50                                    0.69                                    -                                                (22.36)                                (11.00)                                
+Deferred tax (19.39)                                11.87                                  1.67                                    (7.52)                                            12.07                                  56.00                                  
+Total tax expense 242.00                               251.34                               230.76                               493.34                                         434.00                               910.45                               
+XINet Profit after tax (IX-X) 1,239.69                           1,081.26                           1,070.52                           2,320.95                                     2,125.09                           4,321.36                           
+Attributable to :
+(a) Shareholders of the company 1,231.12                            1,073.51                            1,067.13                            2,304.64                                     2,119.71                            4,305.73                            
+(b) Non-controlling Interest 8.57                                    7.75                                    3.41                                    16.31                                           5.38                                    15.63                                  
+XII Other comprehensive income
+Items that will not be reclassified to profit or loss 
+Remeasurement of post-employment benefit obligations (5.16)                                   (5.34)                                   (2.82)                                   (10.50)                                          (5.75)                                   (14.94)                                
+Income tax relating to the above. 1.30                                    1.34                                    0.70                                    2.64                                              1.43                                    3.87                                    
+Items that may be reclassified to profit or loss
+Exchange differences on translating the financial statement of Foreign 
+operation (net)(0.72)                                   0.04                                    (0.12)                                   (0.68)                                            (0.47)                                   (0.80)                                   
+Income tax relating to the above . -                                      -                                      -                                      -                                                -                                      -                                      
+Other comprehensive income for the period/year, net of tax (4.58)                                   (3.96)                                   (2.24)                                   (8.54)                                            (4.80)                                   (11.87)                                
+Attributable to :
+(a) Shareholders of the company (4.55)                                   (3.90)                                   (2.24)                                   (8.45)                                            (4.80)                                   (12.89)                                
+(b) Non-controlling Interest (0.03)                                   (0.06)                                   -                                      (0.09)                                            -                                      1.02                                    
+XIII Total comprehensive income for the period/year net of tax (XI+XII) 1,235.11                           1,077.30                           1,068.28                           2,312.41                                     2,120.29                           4,309.49                           
+Attributable to :
+(a) Shareholders of the company 1,226.56                            1,069.62                            1,064.90                            2,296.19                                     2,114.91                            4,292.84                            
+(b) Non-controlling Interest 8.55                                    7.68                                    3.41                                    16.22                                           5.38                                    16.65                                  
+Paid up equity share capital (Face value Re. 1/-each) 191.63                               177.23                               143.64                               191.63                                         143.64                               143.64                               
+Reserves and Surplus 19,354.89                         
+XIVEarnings per equity share (nominal value of Re. 1/- each, not annualized) (refer 
+note 1 below)
+Basic and Diluted (Rs.) 6.80                                    6.04                                    6.01                                    12.84                                           11.93                                  24.22                                  
+Notes:
+1
+Impact of restatement on earning per share (EPS) for comparative period/year:
+Quarter ended Year-to-date Year ended
+30.09.2025 30.09.2025 31.03.2026
+Earnings per share
+ - Before accounting for Scheme 4.81                                              9.12                                    17.55                                  
+ - After accounting for Scheme 6.01                                              11.93                                  24.22                                  
+2
+3
+4
+5
+Principal Interest Next principal 
+installment datePrincipal amount 
+(In Rs. MINR)Interest date Interest
+(In Rs. MINR)
+8.15% unsecured, listed, non-convertible debentures (NCDs) NA NA September 10, 2029 10,000.00 September 10, 2027                                815.00 
+7
+8
+9
+10
+For and on behalf of the Board
+Mahendra K Goyal
+Place: Delhi Group CEO and Managing Director
+Date: October 30, 2026 DIN: 02605616STATEMENT OF CONSOLIDATED UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026
+Particulars
+ParticularsHalf year ended Quarter ended
+The Board of Directors, at its meeting held on June 30, 2025, approved a Composite Scheme of Arrangement (the "Scheme") involving the merger of Anchemco India Private Limited (a fellow subsidiary) with Asia Investments Private Limited 
+(the Immediate Holding Company) on a going concern basis with effect from the Appointed Date of April 1, 2025, and the subsequent demerger and transfer of the Automotive Undertaking (as defined in the Scheme) of Asia Investments 
+Private Limited to the Company with effect from the Appointed Date of April 1, 2026. 
+The Scheme was approved by the National Company Law Tribunal (NCLT) vide its order dated May 11, 2026. Accordingly, during the half year ended September 30, 2026, the Company has given effect to the Scheme using the pooling of 
+interest method, applied retrospectively for all periods and year ended March 31, 2026, presented in the consolidated financial results, as prescribed under Ind AS 103 – "Business Combinations", and the figures for the previous periods 
+have been restated accordingly. The restated results for the quarter ended September 30, 2025 and year-to-date ended September 30, 2025, have, to the extent of the Automotive Undertaking included therein, neither been subjected to 
+limited review and such figures have been furnished by the management of the Company, which has exercised necessary due diligence to ensure that these financial results present a true and fair view of the Group's affairs.S.No.
+The Board of Directors in their meeting held on October 30, 2026 declared an interim dividend of Rs. 2.15 per share for the period ended September 30, 2026. The record date for the same is November 06, 2026, in accordance with the Ind 
+AS 10 ‘Event after reporting date’ as notified by the Ministry of Corporate Affairs through amendment to Companies (Accounting Standards) Amendment Rules, 2016 dated March 30, 2016, the Company has not accounted for interim 
+dividend as a liability as at September 30, 2026.These consolidated financial results have been prepared in accordance with the Indian Accounting Standard (Ind AS) as prescribed under Section 133 of the Companies Act, 2013, read with Rule 3 of the Companies (Indian Accounting 
+Standards) Rule, 2015 and relevant amendments thereunder.
+The above consolidated financial results have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held on October 30, 2026.
+As the Company's business activity falls within a single operating segment viz. "auto components and parts", no segment information is required to be disclosed. 
+On July 21, 2026, the Board of Directors of the Company approved acquisition of 28.99% equity stake on HL Mando Anand India Private Limited equivalent to 48,134,427 equity shares from Asia Investments Private Limited (Promoter and 
+holding company of the Company), for a composite consideration of Rs.22,310 millions which was approved by the shareholder on August 19, 2026. The Consideration was discharged by issue of 1,44,04,204 equity shares at aggregating to 
+Rs. 18,810 million to the Promoter on preferential basis and balance Rs. 3,500 millions was paid in cash. The preferential allotment of securities was done on September 11, 2026 which was considered as the date of acquisition by the 
+management. The Company has accounted the acquisition by applying analogy of Appendix C of IND AS 103 "Business Combination". Exceptional item relates to the obligations for the employees past service created pursuant to the implementation of the four labour codes with effect from November 21, 2025.
+On July 21, 2026, the Board of Directors of the Company had accorded its approval for execution of Share Purchase Agreement and Joint Venture Agreements ('Agreements') with HL Klemove Corporation and HL Klemove India Private 
+Limited ('the "Target Company'), purchasing 37,844,999 equity shares of the Target Company at a consideration of USD 98.44 million. The Company has acquired the shares on August 25, 2026 and has accounted for the acquisition on 
+provisional basis. The management is in the process of identifying and determining the fair values of tangible and intangible assets in accordance with IND AS 28 "Investments in Associates and Joint Ventures".The Company raised funds through the issuance of unsecured, listed, non-convertible debentures (NCDs) on a private placement basis, aggregating up to Rs. 10,000 millions. The NCDs have a face value of Rs. 1,00,000 each and carry a fixed 
+coupon rate of 8.15% per annum. Details are as below-6
+Previous due dates Upcoming Due dates Particulars
+The Board of Directors of the Company, at its meeting held on October 06, 2026, approved entering into a Joint Venture Agreement between Faurecia Automotive Seating India Private Limited (“FASI”) and the Company for the formation of 
+a joint venture company (“JV Co.”) with an initial investment of Rs. 200.00 million. The JV Co. was incorporated on October 19, 2026 under the name Faurecia Anand Seating India Private Limited. FASI and the Company will hold 50% plus 
+one equity share and 50% less one equity share, respectively.
+Mahendra 
+Kumar 
+GoyalDigitally signed 
+by Mahendra Kumar Goyal 
+Date: 2026.10.30 
+20:22:03 +05'30'
+GABRIEL INDIA LIMITED                    Registered office
+29th Milestone
+Pune- Nashik Highway
+Vill-Kuruli, Tal Khed
+Pune-410501
+                                                                             CIN-L34101PN1961PLC015735
+(Amount in Rs. Million)
+As at As at 
+30.09.2026 31.03.2026
+(Unaudited)  (Audited) 
+(Refer note 1) 
+A. ASSETS
+Non-current assets
+(a) Property, plant and equipment 7,205.38                                   7,272.99                                   
+(b) Right-of-use assets 1,264.82                                   1,222.17                                   
+(c) Capital work-in-progress 929.65                                      397.34                                      
+(d) Investment properties 68.08                                         68.95                                         
+(e) Intangible assets 1,306.57                                   1,354.16                                   
+752.38                                      624.17                                      
+(g) Investment accounted for using equity method 19,654.06                                 4,090.49                                   
+(h) Financial assets -                                             
+i)   Investments 21.04                                         21.06                                         
+ii)  Loans 16.62                                         17.23                                         
+iii) Other financial assets 124.35                                      109.87                                      
+(i) Income tax assets (net) 5.87                                           35.51                                         
+(j) Deferred tax asset (net) 37.25                                         42.98                                         
+(l) Other non-current assets 355.93                                      346.03                                      
+31,742.00                                15,602.94                                
+Current assets
+(a) Inventories 5,138.19                                   4,761.13                                   
+(b) Financial assets
+i)   Investments 1,282.99                                   1,039.36                                   
+ii)  Trade receivables 9,793.22                                   7,944.30                                   
+iii) Cash and cash equivalents 1,419.52                                   1,137.99                                   
+iv) Bank Balances other than iii) above 21.07                                         892.32                                      
+v)  Loans 4.00                                           5.54                                           
+vi) Other financial assets 344.26                                      494.59                                      
+(c) Other current assets 652.84                                      583.25                                      
+18,656.09                                16,858.49                                
+50,398.09                                32,461.43                                
+B. EQUITY AND LIABILITIES
+Equity 
+(a) Equity Share capital 191.63                                      143.64                                      
+(b) Other Equity 22,399.44                                 18,943.80                                 
+22,591.07                                19,087.44                                
+439.62                                      411.09                                      
+Share pending allotment -                                             33.59                                         
+23,030.69                                19,532.12                                
+Non-Current Liabilities
+(a) Financial liabilities
+   i) Borrowings 11,875.57                                 1,073.89                                   
+762.82                                      684.46                                      
+   iii) Other Financial Liabilities 2,312.02                                   32.44                                         
+(b) Other non-current liabilities 35.76                                         -                                             
+(c) Provisions 348.19                                      297.96                                      
+(d) Deferred tax liabilities (net) 189.30                                      207.46                                      
+15,523.66                                2,296.21                                   
+Current liabilities
+(a) Financial liabilities
+i)   Short term borrowings 817.22                                      976.43                                      
+147.98                                      164.72                                      
+iii) Trade payables
+Total Outstanding dues of micro enterprises and small enterprises 918.01                                      892.10                                      
+8,545.97                                   7,341.89                                   
+iv) Other financial liabilities 591.25                                      490.22                                      
+(b) Provisions 428.66                                      306.96                                      
+(c) Current tax liabilities 54.14                                         431.21                                      
+(d) Other current liabilities 340.51                                      29.56                                         
+11,843.74                                10,633.09                                
+50,398.09                                32,461.43                                
+For and on behalf of the Board
+Mahendra K Goyal
+Place: Delhi Group CEO and Managing Director
+Date: October 30, 2026 DIN: 02605616Total Equity and LiabilitiesTotal equityTotal Assets
+Total Current LiabilitiesSTATEMENT OF CONSOLIDATED ASSETS AND LIABILITIES AS AT SEPTEMBER 30, 2026
+Particulars
+Total Outstanding dues of creditors other than micro enterprises and small    ii) Lease liabilities
+ii)  Lease liabilities(f) Intangible assets under development
+Equity attributable to equity holders of the parent
+Non Controlling InterestTotal current assetsTotal Non-current assets
+Total Non-Current Liabilities
+Mahendra 
+Kumar 
+GoyalDigitally signed by 
+Mahendra Kumar 
+Goyal 
+Date: 2026.10.30 20:22:22 +05'30'
+Registered office
+29th Milestone,
+Pune-Nashik Highway,
+Vill.Kuruli, Tal.Khed
+Pune 410 501
+CIN-L34101PN1961PLC015735
+(Amount in Rs Million)
+ For the half year ended 
+September 30, 2026  For the half year ended 
+September 30, 2025 
+ (Unaudited)  (Unaudited) 
+(Refer note 1) 
+A.
+2,814.30                                  2,559.08                                  
+651.86                                     616.05                                     
+(11.55)                                      (15.80)                                      
+207.04                                     112.59                                     
+(2.48)                                        (1.73)                                        
+(29.31)                                      (59.64)                                      
+(39.90)                                      (16.95)                                      
+Share of profits of equity-method investees (910.43)                                    (733.19)                                    
+30.00                                        0.52                                          
+Provision for contingencies -                                            38.01                                        
+Bad debt written off -                                            0.15                                          
+(28.14)                                      8.88                                          
+2,681.39                                  2,507.97                                  
+(135.22)                                    (7.82)                                        
+1.76                                          26.97                                        
+(377.06)                                    (348.32)                                    
+(1,909.67)                                 (935.89)                                    
+0.12                                          (0.14)                                        
+28.82                                (7.44)                                        
+1,226.21                                  1,027.07                                  
+17.93                                        (27.67)                                      
+20.04                                        (67.81)                                      
+1,554.33                                  2,166.94                                  
+(435.94)                                    (423.44)                                    
+1,118.39                                  1,743.50                                  
+B.
+(147.89)                                    (112.60)                                    
+(935.23)                                    (1,141.05)                                 
+18.39                                        25.28                                        
+Investment in associate (10,602.24)                               -                                            
+2.01                                          -                                            
+Payment for investment in fixed deposits -                                            (166.60)                                    
+1,123.97                                  422.54                                     
+Interest received 37.75                                60.57                                
+2.48                                          1.73                                          
+Consideration paid to acquire business -                                            (453.00)                                    
+(203.74)                                    385.13                                     
+(10,704.48)                              (978.00)                                    Rental incomeGABRIEL INDIA LIMITED
+STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026
+Particulars
+Cash flow from operating activities:
+Profit before tax
+Adjustments for:
+Depreciation and amortisation expense
+(Gain)/ Loss on disposal of property, plant and equipment
+Finance costs
+Increase in Trade receivablesInterest income on fixed deposits with banks and financial assets
+Gain on sale of investments
+Provision for doubtful trade and other receivables
+Net exchange differences
+Operating profit before working capital changes
+Changes in operating assets and liabilities:
+Decrease in other non-current financial assets
+Decrease in other non-current assets
+Increase in Inventories
+Cash flow from investing activitiesIncrease / Decrease in Loans
+Increase in non current provisions
+Increase in trade payables
+Increase/ (Decrease) in other current financial liabilities
+(Decrease)/ Increase in other current liabilities
+Cash generated from operations
+Income taxes paid (net)
+Net cash inflow from Operating activities (A)
+Payment for intangible assets including intangible assets under development
+Payment for property, plant and equipment including capital work-in-progress
+Proceeds from sale of property, plant and equipment
+Loans to employees
+Proceeds from maturity of fixed deposits
+Rent received
+(Payment for Purchase of mutual funds)/ Proceeds from sale of mutual funds
+Net cash outflow from investing activities (B)
+Registered office
+29th Milestone,
+Pune-Nashik Highway,
+Vill.Kuruli, Tal.Khed
+Pune 410 501
+CIN-L34101PN1961PLC015735
+(Amount in Rs Million)
+ For the half year ended 
+September 30, 2026  For the half year ended 
+September 30, 2025 GABRIEL INDIA LIMITED
+STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026
+Particulars
+C.
+11,317.34                                136.40                                     
+(515.66)                                    -                                            
+Proceeds/ (repayment) of short-term borrowings (net) (235.83)                                    -                                            
+Proceeds from issue of equity shares to non-controlling interests 13.29                                        -                                            
+(95.22)                                      (72.89)                                      
+(143.19)                                    (115.54)                                    
+(549.70)                                    (421.25)                                    
+9,791.02                                  (473.28)                                    
+204.92                                     292.22                                     
+1,122.92                                  802.79                                     
+1,327.84                                  1,095.01                                  
+1,419.52                                  1,129.41                                  
+Overdrafts (91.68)                                      (34.40)                                      
+1,327.84                                  1,095.01                                  
+                                     124.76 -                                            
+                                  7,984.02 -                                            
+Notes:
+3. Figures in brackets indicate cash outflow.
+For and on behalf of the Board
+Mahendra K Goyal
+Place: Delhi Group CEO and Managing Director
+Date: October 30, 2026 DIN: 02605616Dividend paid Cash flow from financing activities
+Proceeds from borrowings
+Repayment of borrowings
+Payment of lease liabilities (principal)
+Interest paid
+Acquisition of Investment in AssociatesNet cash outflow from financing activities (C)
+Net Increase/ (Decrease) in Cash & Cash Equivalents (A+B+C)
+Cash and cash equivalents as at the beginning of the year
+Cash and cash equivalents as at the end of the year
+Cash and cash equivalents consists of:
+1.The above consolidated statement of cash flows has been prepared under indirect method in accordance with the Indian Accounting Standard (Ind AS) 7 
+on "Statement of Cash Flows".In Current Accounts
+Balances as per statement of cash flows
+Non-cash financing and investing activities
+Acquisition of right-of-use assets
+Mahendra 
+Kumar 
+GoyalDigitally signed 
+by Mahendra Kumar Goyal Date: 2026.10.30 20:22:34 +05'30'
+
+
+Vivian 
+Ravi PillaiDigitally signed by 
+Vivian Ravi Pillai 
+Date: 2026.10.30 
+20:35:16 +05'30'
+ 
+ 
+Statement  of utilization  of issue proceeds  under Regulations 52(7) : 
+ 
+Name of 
+the Issuer  ISIN  Mode of Fund 
+Raising (Public 
+issues/ Private  
+placement)  Type of instru ment  Date  of raising 
+funds  Amount Raised  
+(Rs. in crore)  Funds utilized  
+(Rs. in crore)  Any deviation 
+(Yes/  No) If 8 is Yes, then 
+specify the purpose 
+of for which the 
+funds were utilized  Rema rks,  
+if any  
+1 2 3 4 5 6 7 8 9 10 
+Gabriel India 
+Limited  INE524A08016  Private 
+Placement  Listed, unsecured,  
+rated,  
+redeemable,  
+non -cumulative,  
+non -convertible  
+debentures  September 10, 
+2026  1,000    998.77  No NA NIL 
+ 
+Note:  
+1. NCDs are listed only on BSE 
+2. The funds were raised during the quarter ended September  30, 2026 and the same has been utilised during the same  quarter.  
+For Gabriel India Limited  
+ 
+ 
+Name of Signatory: Mohit Srivasta va 
+Designation: Chief Financial Officer  
+Date: October 30, 2026  
+ 
+ 
+ 
+ 
+Statement of deviation/ variation in use of Issue proceeds  under Regulations 52(7 A): 
+ 
+Particulars  Remarks  
+Name  of listed  entity  Gabriel India Limited  
+Mode  of fund  raising  Private  placement  
+Type  of instrument  Listed, unsecured, rated, redeemable, non -cumulative, non -convertible debentures  
+Date  of raising  funds  September 10, 2026  
+Amount  raised  (Rs. In Crore)  1,000  
+Report  filed  for quarter  ended   September 30, 2026  
+Is there  a deviation/  variation  in use  of funds  raised?  No 
+Whether  any  approval  is required  to vary  the objects  of the 
+issue stated in the prospectus/ offer document?  No 
+If yes,  details  of the approval  so required?  NA 
+Date  of approval  NA 
+Explanation  for the deviation/  variation  NA 
+Comments  of the audit  committee  after  review  NA 
+Comments  of the auditors,  if any NIL 
+Objects  for which  funds  have  been  raised  and  where  there  has  been  a deviation/  variation,  in the following table:  
+ 
+Original object  Modified 
+object,  if 
+any  Original 
+allocatio
+n (Rs. In 
+crore)  Modified 
+allocation, 
+if any  Funds 
+utilised  
+(Rs. In 
+Crore)  Amount of deviation/ 
+variation  for the quarter 
+according  to applicable 
+object  (in Rs. crore  and  
+in %) Remarks, 
+if any  
+The object of the Issue is to raise funds to be utilised 
+towards:  
+i. towards part financing the Acquisition;    1000  NA 998.77  NIL NIL 
+ 
+ 
+ii. towards working capital purposes of the Issuer;   
+iii. towards general corporate purposes of the Issuer 
+including refinancing of existing debt; and   
+iv. towards issue expenses attributable to issue of 
+Debentures,   
+ 
+Deviation  could  mean:  
+ 
+a. Deviation  in the objects  or purposes  for which  the funds  have  been  raised.  
+b. Deviation  in the amount  of funds  actually  utilized  as against  what  was  originally  disclosed.  
+ 
+ 
+ 
+Name  of signatory: Mohit Srivastava  
+Designation:  Chief Financial Officer  
+Date:  October 30, 2026  
+ 

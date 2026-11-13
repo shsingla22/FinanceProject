@@ -1,0 +1,264 @@
+ 
+Ref: Syn/CS/SE/ BM/ 2026 -27/Jul/14                       Syngene International Limited  
+Biocon SEZ, Biocon Park, Plot No. 2 &  
+3, Bommasandra Industrial Area, IV 
+Phase, Jigani Link Road, Bengaluru 
+560 099, Karnataka, India  
+                      T +91 80 6891 9191  
+                                                 CIN: L85110KA1993PLC014937 
+ www.syngeneintl.com   
+July 29, 2026  
+ 
+To, 
+The Manager,   
+BSE Limited   
+Corporate Relationship Department  
+Dalal Street, Mumbai – 400 001    To, 
+The Manager,  
+National Stock Exchange of India Limited  
+Corporate Communication Department  
+Bandra (EAST), Mumbai – 400 051  
+Scrip Code: 539268                          Scrip Symbol: SYNGENE  
+ 
+Sub: Outcome of the Board Meeting  
+Dear Sir/Madam,  
+ 
+Pursuant to Regulations  30 of the SEBI (Listing Obligations  and Disclosure Requirements), Regulations 
+2015 (“SEBI Listing Regulations”) , we wish to inform you that the Board of Directors , at its meeting 
+held today  i.e. July 29, 2026, has inter -alia , considered and approved  the Un-audited financial results 
+(standalone and consolidated ) as per Indian Accounting Standards (Ind -AS) for the quarter ended June  
+30, 2026 . A copy of the unaudited  financial results along with the Limited Review Reports is enclosed 
+herewith.   
+ 
+The Board Meeting commenced at 10: 00 am (IST) and concluded at 0 3:31 pm (IST).  
+ The above information will also be made available on the website of the Company at 
+www.syngeneintl.com.  
+ Kindly take the above information on record.  
+ 
+Thanking You  
+ Yours faithfully,  
+ 
+For SYNGENE INTERNATIONAL LIMITED  
+ 
+ 
+___________ ___    
+Chethan Yogesh  
+Company Secretary and Compliance Officer  
+ 
+Encl: a/a  
+ 
+(Rs. in million, except per share data)
+ (Unaudited)  (Audited)
+(Refer Note 3)  (Unaudited)  (Audited)
+1  Income
+a) Revenue from operations 6,630                              9,600                              7,993                             34,238                       
+b) Other Income 248                                  216                                 166                                669                             
+Total Income 6,878                              9,816                              8,159                             34,907                       
+2 Expenses
+a) Cost of chemicals, reagents and consumables consumed 1,585                              2,022                              2,230                             8,243                          
+ b) Changes in inventories of finished goods and work-in-progress                                   (48)                                    98 (219)                               74                               
+c) Employee benefits expense 2,070                              2,485                              2,126                             9,045                          
+d) Finance costs 41                                    65                                   59                                   260                             
+e) Depreciation and amortisation expense [refer note 8] 956                                  953                                 946                                3,871                          
+f) Other expenses [refer note 9] 1,759                              1,925                              2,127                             8,087                          
+g) Foreign exchange fluctuation loss, net 480                                  227                                 48                                   643                             
+Total expenses 6,843                              7,775                              7,317                             30,223                       
+3  Profit before tax and exceptional items (1-2) 35                                    2,041                              842                                4,684                          
+4 Exceptional Items, net gain/ (loss) [refer note 10 & 11] (135)                                (74)                                  -                                 (732)                            
+5  Profit before tax (3-4) (100)                                1,967                              842                                3,952                          
+6  Tax expense
+Current tax -                                   337                                 158                                681                             
+Deferred tax (79)                                   148                                 (56)                                 222                             
+Total tax expense (79)                                   485                                 102                                903                             
+7  Profit for the period / year (5-6) (21)                                   1,482                              740                                3,049                          
+8  Other comprehensive income
+ (A) (i) Items that will not be reclassified to profit or (loss) (7)                                     11                                   2                                     (53)                              
+      (ii) Income tax relating to items that will not be reclassified to profit or (loss) 2                                      (3)                                    (1)                                    13                               
+ (B) (i) Items that will be reclassified to profit or (loss) 397                                  (1,340)                            278                                (3,027)                        
+      (ii) Income tax relating to items that will be reclassified to profit or (loss)                                 ( 113)                                  308 (85)                                 752                             
+Other comprehensive income for the period / year, net of taxes 279                                  (1,024)                            194                                (2,315)                        
+9  Total comprehensive income for the period / year (7+8) 258                                  458                                 934                                734                             
+10  Paid-up equity share capital (Face value of Rs.10 each) [refer note 5 & 6] 4,037                              4,029                              4,029                             4,029                          
+11  Reserves excluding revaluation reserves as per balance sheet i.e. 'Other Equity'                        43,009 
+12  Earnings per share (of Rs.10 each)  (not annualised)   (not annualised)   (not annualised)   (annualised)  
+ a) Basic (0.05)                               3.68                                1.84                               7.58                            
+ b) Diluted (0.05)                               3.68                                1.83                               7.57                            
+ See accompanying notes to the financial resultsSYNGENE INTERNATIONAL LIMITED
+CIN : L85110KA1993PLC014937  Website: www.syngeneintl.com
+Registered office: Biocon SEZ, Biocon Park, Plot No. 2 & 3, Bommasandra Industrial Area IV Phase, Jigani Link Road, Bommasandra , Bangalore - 560099
+Sl. No. Particulars  Corresponding 
+3 months ended in 
+the previous year     
+30 June 2025  Preceding
+3 months ended 
+31 March 2026  3 months ended 
+30 June 2026  Previous year  
+ended  
+31 March 2026 STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER ENDED 30 JUNE 2026
+(Rs. in million, except per share data)
+ (Unaudited)  (Audited)
+(Refer Note 3)  (Unaudited)  (Audited)
+1  Income
+a) Revenue from operations 7,360                              10,365                              8,745                              37,387                            
+b) Other Income 253                                 222                                    177                                 707                                 
+Total Income 7,613                             10,587                              8,922                              38,094                            
+2 Expenses
+a) Cost of chemicals, reagents and consumables consumed 1,782                              2,233                                2,395                              9,112                              
+ b) Changes in inventories of fi nished goods and work-in-progress                                  (48)                                      98 (219)                                74                                    
+c) Employee bene fits expense 2,591                              3,008                                2,617                              11,049                            
+d) Finance costs 96                                   121                                    116                                 488                                 
+e) Depreciation and amortisation expense [refer note 8] 1,122                              1,115                                1,112                              4,529                              
+f) Other expenses [refer note 9] 1,626                              1,781                                1,840                              7,358                              
+g) Foreign exchange fluctuation loss, net 501                                 211                                    48                                    609                                 
+Total expenses 7,670                             8,567                                7,909                              33,219                            
+3  Profit before tax and exceptional items (1-2) (57)                                  2,020                                1,013                              4,875                              
+4 Exceptional Items, net gain/ (loss) [refer note 10 & 11] (135)                                (60)                                    -                                  (766)                                
+5  Profit before tax (3-4) (192)                               1,960                                1,013                              4,109                              
+6  Tax expense
+Current tax 1                                     356                                    228                                 870                                 
+Deferred tax (103)                                125                                    (82)                                  72                                    
+Total tax expense (102)                               481                                   146                                 942                                 
+7  Profit for the period / year (5-6)  (90)                                  1,479                                867                                 3,167                              
+8  Other comprehensive income
+ (A) (i) Items that will not be recl assified to profit or (loss) (6)                                    13                                      3                                      (63)                                  
+      (ii) Income tax relating to items that will not be reclassified to profit or (loss) 2                                     (3)                                       (1)                                     16                                    
+ (B) (i) Items that will be reclassified to profit or (loss) 478                                 (1,180)                               287                                 (2,679)                             
+      (ii) Income tax relating to items that will be reclassified to profit or (loss)                                (121)                                    313 (75)                                  766                                 
+Other comprehensive income for the period / year, net of taxes 353                                 (857)                                  214                                 (1,960)                            
+9  Total comprehensive income for the period / year (7+8) 263                                 622                                   1,081                              1,207                              
+10  Paid-up equity share capital (Face value of Rs.10 each) [refer note 5 & 6]                              4,037                                 4,029                               4,029                               4,029 
+11  Reserves excluding revaluation reserves as per balance sheet i.e. 'Other Equity'                             44,362 
+12  Earnings per share (of Rs.10 each)  (not annualised)   (not annua lised)  (not annualised) (annualised) 
+ a) Basic (0.22)                              3.68                                  2.16                                7.87                                
+ b) Diluted (0.22)                              3.67                                  2.15                                7.87                                
+ See accompanying notes to the financial resultsSYNGENE INTERNATIONAL LIMITED
+CIN : L85110KA1993PLC014937  Website: www.syngeneintl.com
+Registered office: Biocon SEZ, Biocon Park, Plot No. 2 & 3, Bommasandra Industrial Area IV Phase, Jigani Link Road, Bommasandra , Bangalore - 560099
+Sl. No. Particulars  Previous year  ended  
+31 March 2026  Corresponding 
+3 months ended in 
+the previous year     
+30 June 2025  3 months ended 
+30 June 2026  Preceding
+3 months ended 
+31 March 2026 STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ENDED 30 JUNE 2026
+1
+2
+3
+ 
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13On 29 April 2026, the Board of Directors of the Company have approved an allotment of 7,29,727 equity shares of Rs. 10/- (Rupees Ten
+each) of the Company to Syngene Employees Welfare Trust at face value for the purpose of implementation of the Syngene Long TermIncentive Performance Share Plan 2023.SYNGENE INTERNATIONAL LIMITED
+Notes :
+The statement of unaudited standalone and consolidated financial results ("the Statements") of Syngene International Limited ('the
+Company') for the quarter ended 30 June 2026 have been reviewed by the Audit Committee at their meeting held on 28 July 2026 andapproved by the Board of Directors of the Company at their meeting held on 29 July 2026. The above Statements have been subjected toa limited review by the statutory auditor of the Company. The reports of the statutory auditor are unqualified. The Statements have been
+prepared in accordance with Indian Accounting Standards (‘Ind AS’) prescribed under Section 133 of the Companies Act, 2013 and interms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+The consolidated financial results include the financial results of the Company - Syngene International Limited (including its employee
+welfare trust) and the financial results of the following subsidiaries: i. Syngene USA Inc.ii. Syngene Scientific Solutions Limitediii. Syngene Manufacturing Solutions Limited (In the process of liquidation from 15 June 2026)The Company and the Subsidiaries are collectively referred to as 'the Group'. 
+The standalone and consolidated figures for quarter ended 31 March 2026 are the balancing figures between audited figures in respect of
+the full financial year and the published unaudited year to date figures upto end of the third quarter of the previous financial year which
+are subjected to limited review.
+The Group operates in a single segment of providing Contract Research and Manufacturing Services. 
+On 23 April 2025, the Board of Directors of the Company have approved an allotment of 4,02,439 equity shares of Rs. 10/- (Rupees Ten
+each) of the Company to Syngene Employees Welfare Trust at face value pursuant to special resolution passed through Postal Ballot on23rd April 2023 to allot fresh equity shares upto 0.55% (22,00,000 shares) of paid up equity capital of the company in tranches for thepurpose of implementation of the Syngene Internationl Limited - Long Term Incentive Performance Share Plan 2023.
+During the quarter ended 31 March 2025, Syngene USA Inc. (wholly-owned subsidiary of the Company) acquired biologics site in the USA
+fitted with multiple monoclonal antibody (mAbs) manufacturing lines from Emergent Manufacturing Operations Baltimore, LLC (asubsidiary of Emergent BioSolutions Inc.). This acquisition will increase the company's total single-use bioreactor capacity to 50,000L forlarge molecule discovery, development, and manufacturing services. This acquisition will also increase the options that can be offered toglobal customers, providing commercial scale biologics manufacturing capabilities across the Group's global network. The transaction wasaccounted for as an ‘asset acquisition’ under Ind AS 103 during the year ended 31 March 2025. The costs incurred till 31 March 2025eligible for capitalization were accumulated as Capital Work in Progress amounting to Rs. 2,981 million (USD 34.89 million). An amount ofRs. 311 million (USD 3.64 million) was capitalized as Land. These amounts include pre-transaction costs of Rs 101 million (USD 1.18million). During the year year ended 31 March 2026, additional pre-operating cost of Rs. 786 million eligible for capitalisation is beingaccumulated under capital work in progress. Further, during the quarter ended 30 June 2026, pre operating cost of Rs. 293 million werecapitalised under capital work in progress. 
+During the quarter ended 30 June 2025, the Company has been granted license for one of the drug substance production line and bonded
+warehouse license at biologics manufacturing facility, Bangalore, India which was acquired from Stelis Biopharma Limited and wasrecorded as capital work in progress in earlier years. Consequently, Rs. 3,438 million has been capitalised as property, plant andequipment which has resulted in a higher depreciation of Rs. 70 million and Rs. 247 million during the quarter and period ended 31 March2026 respectively. 
+During the quarter ended 30 September 2025, Rs. 277 million net (Rs. 202 million after tax) was written off as unrecoverable balances in
+receivables due to cumulative changes in foreign exchange rates.
+On November 21, 2025, the Government of India notified the four Labour Codes - the Code on Wages, 2019, the Industrial Relations
+Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Health and Working Conditions Code, 2020 - consolidating 29
+existing labour laws. The Ministry of Labour & Employment published draft Central Rules and Frequently Asked Questions(FAQs) to  enable 
+assessment of the financial impact due to changes in regulations. The Group initially assessed and disclosed the incremental impact ofthese changes on the basis its existing remuneration structure. Considering the materiality and regulatory-driven, non-recurring nature ofthis impact, the Group presented such incremental impact under “Exceptional Items” in the standalone and consolidated financial resultsfor the period ended December 31, 2025. The incremental expense consisting of gratuity of Rs. 658 million and Rs. 706 million in thestandalone and consolidated financial results respectively primarily arose due to change in wage definition. During the quarter ended 31 March 2026, the management re -assessed the impact of the new labour codes based on the revised
+remuneration structure. Accordingly, the gratuity obligation was re -measured, resulting in a credit of Rs. 229 million in the standalone
+financial results and Rs. 244 million in the consolidated financial results for the current quarter.For the year ended 31 March 2026, the net expense recognised under Exceptional Items amounted to Rs. 429 million and Rs. 462 millionin the standalone and consolidated financial results, respectively.The Group continues to monitor the finalisation of Central / State Rules and clarifications from the Government on other aspects of theLabour Code and would accordingly take necessary steps for compliance thereof and also provide appropriate accounting effect on thebasis of such developments, as needed.
+During the quarter ended 31 March 2026, termination benefits amounting to Rs. 304 million were extended to employees in accordance
+with the approved policy. Considering the nature, significance and frequency of these benefits, these are disclosed as “Exceptional items”in the standalone and consolidated financial results. Further, during the quarter ended 30 June 2026, an additional amount of Rs. 135 million pertaining to termination benefits has beenrecognized and disclosed under “Exceptional Items.”
+On 29 April 2026, the Board of Directors recommended a final dividend of Rs. 1.25 per equity share of Rs. 10/-. The proposed dividend is
+subject to the approval of the shareholders in the Annual General Meeting. 
+ For and on behalf of the Board of Directors of 
+ Syngene International Limited During the quarter ended 30 June 2026, the Board of Directors of Syngene International Limited approved the voluntary liquidation of its
+wholly owned subsidiary, Syngene Manufacturing Limited (SMSL), pursuant to a Board Resolution dated 18 May 2026. Subsequently, theshareholders approved the proposal for liquidation on 15 June 2026.As at 30 June 2026, the liquidation process is ongoing and is subject to the completion of the applicable statutory, regulatory and legalformalities. 
+Place :- Bangalore  Kiran Mazumdar Shaw 
+Date :-  29 July 2026  Chairperson 
+KIRAN 
+MAZUMDAR SHAWDigitally signed by KIRAN MAZUMDAR SHAW Date: 2026.07.29 14:11:21 +05'30'
+B S R & Co. LLP 
+Chartered Accountants 
+ Embassy Golf Links Business Park  
+Pebble Beach, B Block, 3rd Floor 
+No. 13/2, off Intermediate Ring Road 
+Bengaluru - 560 071, India 
+Telephone: +91 80 4682 3000 
+Fax: +91 80 4682 3999 
+   
+ 
+  Registered Office: 
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013  14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063 
+Page 1 of 2 
+  
+Limited Review Report on unaudited standalone financial results of Syngene 
+International Limited for the quarter ended 30 June 2026 pursuant to Regulation 33 
+of Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended 
+To the Board of Directors of Syngene International Limited 
+1. We have reviewed the accompanying Statement of unaudited standalone financial results of Syngene 
+International Limited (hereinafter referred to as “the Company”) for the quarter ended 30 June 2026 
+(“the Statement”)(in which are included interim financial information of its employee welfare trust). 
+2. This Statement, which is the responsibility of the Company’s management and approved by its Board 
+of Directors, has been prepared in accordance with the recognition and measurement principles laid 
+down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34”), prescribed under 
+Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India 
+and in compliance with Regulation 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (“Listing Regulations”). 
+Our responsibility is to issue a report on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly, we do not express an audit opinion. 
+4. Attention is drawn to the fact that the figures for the three months ended 31 March 2026 as reported 
+in the Statement are the balancing figures between audited figures in respect of the full previous 
+financial year and the published year to date figures up to the third quarter of the previous financial 
+year. The figures up to the end of the third quarter of previous financial year had only been reviewed 
+and not subjected to audit. 
+5. Based on our review conducted as above, nothing has come to our attention that causes us to believe 
+that the accompanying Statement, prepared in accordance with the recognition and measurement 
+principles laid down in the aforesaid Indian Accounting Standard and other accounting principles 
+generally accepted in India, has not disclosed the information required to be disclosed in terms of 
+Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed, or that it 
+B S R & Co. LLP 
+ 
+Limited Review Report (Continued) 
+Syngene International Limited 
+Page 2 of 2 
+ contains any material misstatement. 
+ 
+ For B S R & Co. LLP 
+ Chartered Accountants 
+ Firm’s Registration No.:101248W/W-100022 
+  
+  
+  
+ G Prakash 
+ Partner 
+Bengaluru Membership No.: 099696 
+29 July 2026 UDIN:26099696ZCMYVE8871 
+   
+G 
+PRAKASHDigitally signed 
+by G PRAKASH Date: 2026.07.29 15:35:28 +05'30'

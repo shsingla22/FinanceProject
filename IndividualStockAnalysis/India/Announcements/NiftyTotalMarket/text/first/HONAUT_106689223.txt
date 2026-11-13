@@ -1,0 +1,255 @@
+ 
+Honeywell Automation India Limited  
+CIN: L29299PN1984PLC017951  Regd. Office: 56 & 57, Hadapsar Industrial Estate,  
+Pune - 411 013, Maharashtra  Tel: +91 20 7114 8888  E-mail: India.Communications@Honeywell.com   
+Website: https://www.honeywell.com/in/en/hail  
+ 
+ July 7, 2026  
+The Manager – Compliance Department 
+National Stock Exchange of India Limited ‘Exchange Plaza’ Bandra Kurla Complex, 
+Bandra (East) Mumbai 400051 
+NSE S
+ymbol: HONAUT The Manager – Compliance Department BSE Limited Floor 25, P.J. Tower, Dalal Street 
+Mumbai 400001 
+BSE Scrip Code: 517174 
+ Dear Sir/Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report for FY 2025-26  
+Ref: Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015  
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed Business Responsibility and Sustainability Report for FY 2025-26. The said Report forms part of the Annu al Report for FY 2025-26. 
+ The Annual Report for FY 2025-26 is also being made available on the website of the Company at https://www.honeywell.com/in/en/hail .  
+ 
+The above is for your information and record.  
+Yours Sincerely,  
+For Honeywell Automati on India Limited 
+ 
+ 
+ 
+ _________________________ 
+Indu Daryani 
+Company Secretary and Compliance Officer FCS No. 9059 Address: 56 & 57, Hadapsar Industrial Estate, Pune - 411 013 
+Honeywe I 
+Foreword
+Dear StakeholdersHoneywell Automation India Limited (the Company or HAIL), an integrated automation, industrial software, and sustainability 
+solutions provider, is developing products and solutions using Honeywell technologies that help customers achieve their 
+environmental, social and governance (ESG) goals along with their business results. The Company offers a portfolio of offerings  
+comprising futuristic technologies to help customers and their businesses digitalize operations, reduce greenhouse gas (GHG) 
+emissions, conserve energy, measure / reduce carbon impact, and support the adoption of renewable energy sources, thereby 
+helping in energy transition. 
+We do not believe climate-related risks are reasonably likely to have a material effect in the near future on the Company’s 
+business or the markets it serves, nor on our operations, capital expenditure or ﬁnancial position.
+The Company is committed as well as uniquely positioned to shape a safer and more sustainable future. We continue to invent, 
+innovate, and develop technologies that provide our customers with adaptable and efﬁcient solutions to address their safety, 
+productivity, energy efﬁciency and environmental needs.
+We present this Business Responsibility & Sustainability Report (BRSR) of the Company pursuant to the provisions of Regulation 
+34(2)(f) of the SEBI Listing Regulations, 2015 describing the initiatives taken by the Company from an environmental, social 
+and governance perspective.
+Atul Vinayak Pai
+Managing Director
+SECTION A: GENERAL DISCLOSURES
+I. Details of the Company
+1. Corporate Identity Number (CIN) L29299PN1984PLC017951
+2. Name Honeywell Automation India Limited
+3. Date of incorporation 13-01-1984
+4. Registered Ofﬁce Address 56 & 57, Hadapsar Industrial Estate, Pune - 411013
+5. Corporate Ofﬁce Address 56 & 57, Hadapsar Industrial Estate, Pune - 411013
+6. Email HAIL.InvestorServices@Honeywell.com
+7. Telephone +91 2071148888
+8. Website https://www.honeywell.com/in/en/hail
+9. Financial year for which reporting is 
+being doneApril 1, 2025 to March 31, 2026 (FY 2025-26)
+10. Name of the Stock Exchange(s) where 
+shares are listedThe BSE Limited and National Stock Exchange of India Limited
+11. Paid-up Capital ` 88,415,230
+12. Name and contact details (telephone, 
+email address) of the person who may 
+be contacted in case of any queries on 
+the BRSR reportIndu Daryani, Company Secretary
+56 & 57, Hadapsar Industrial Estate, Pune - 411013 HAIL.InvestorServices@Honeywell.com
+13. Reporting boundary Standalone basis.
+Disclosures made in this report are on a standalone basis for Honeywell 
+Automation India Limited. The references to Honeywell International Inc. (Honeywell) strategies, policies, projects and framework in the report are 
+applicable to the extent it relates to the Company’s business operations.
+14. Name of assessment or assurance 
+providerMMJC Consultancy LLP, Mumbai
+15. Type of assessment or assurance 
+obtainedReasonable assessment of BRSR Core indicatorsBusiness Responsibility 
+and Sustainability Report
+63 Annual Report FY 2025-26    |   Honeywell Automation India LimitedHoneywell 
+II. Products/services
+16. Details of business activities (accounting for 90% of the Company’s Turnover)
+S. No. Description of Main Activity Description of Business Activity % of Turnover 
+a. Manufacturing Manufacture of industrial process control and automation systems. 57
+b. Trading Trading of sensing, measurement equipment and control equipment. 14
+c. Services Installation, engineering and repair/maintenance services of industrial control and automation systems. 29
+17. Products/Services sold by the Company (accounting for 90% of the Company’s Turnover)
+S. No. Product/Service NIC Code % of total Turnover contributed
+a. Manufacture of computer, electronic and optical products 26 57
+b. Wholesale trade, except of motor vehicles and motorcycles 46 14
+c. Repair and installation of machinery and equipment 33 29
+III. Operations
+18. Number of locations where plants and/or operations/ofﬁces of the Company are situated.
+Location Number of plants Number of ofﬁces Total
+National 189
+International 044
+19. Markets served by the Company  
+a. Number of locations
+Locations Number
+National (No. of states) *33
+International (No. of countries)  60 
+* (including Union Territories)
+b. Contribution of exports as a percentage of the total turnover of the Company.
+ Exports contribute 33.13% of the total turnover of the Company.
+c. A brief on types of customers
+ In the domestic market, the Company caters to both public and private sector customers in discrete and process 
+industries such as oil and gas, reﬁning, pulp and paper, chemicals and petrochemicals, pharma and life sciences, 
+infrastructure (Metro, Airports, Commercial buildings, data centre, Smart Cities), transportation, etc. 
+ In Export Market, the Company caters to only Honeywell afﬁliates across the world rendering engineering services and 
+contract manufacturing of products and projects for similar end markets as it does for its Indian customers.BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+Honeywell Automation India Limited   |   Annual Report FY 2025-26 64 
+IV. Employees
+20. Details as at the end of Financial Year
+a. 
+Employees and workers (including differently abled)
+S. No. Particulars Total Male Female
+(A) No. (B) % (B / A) No. (C) % (C / A)
+EMPLOYEES
+1.
+Permanent (D) 3,119 2,527 81.02 592 18.98
+2. Other than Permanent (E) 4,266 3,942 92.41 324 7.59
+3. Total employees (D + E) 7,385 6,469 87.60 916 12.40
+WORKERS
+4. Permanent (F) 48 42 87.50 6 12.50
+5. Other than Permanent (G) 145 129 88.97 16 11.03
+6. Total workers (F + G) 193 171 88.60 22 11.40
+b. Differently abled Employees and workers
+Currently, the Company does not capture data for differently abled employees and workers.
+21. Participation / Inclusion / Representation of women
+Total No. and percentage of Females
+(A) No. (B) % (B / A)
+Board of Directors 6 1 16.67%
+Key Management Personnel* 3 1 33.33%
+ * Key Management Personnel means the Managing Director, Chief Financial Ofﬁcer and the Company Secretary.
+22. Turnover rate for permanent employees and workers
+FY 2025-26 FY 2024-25 FY 2023-24
+Male Female Total Male Female Total Male Female Total
+Permanent Employees (in %) 9.2 9.5 9.3 10.3 14.2 10.9 11.9 14.9 12.4
+P
+ermanent Workers (in %) 4.7 0.0 4.0 4.4 0.0 3.9 0.0 0.0 0.0
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. a. Names of holding / subsidiary / associate companies / joint ventures
+Sr. No. Name of the holding / subsidiary 
+/ associate companies / joint 
+ventures (A)Whether holding/ Subsidiary / Associate / Joint Venture% of shares held in the CompanyDoes the Company indicated at column A, participate in the Business Responsibility initiatives of the Company? (Yes/No)
+1 HAIL Mauritius Limited Holding Company 75% Yes*
+* Through the ultimate holding Company, Honeywell International Inc.
+VI. CSR Details
+24. a. Whether CSR is applicable as per Section 135 of Companies Act, 2013:  Ye s
+b. Turnover (in `): 46,819 million
+c. Net worth (in ` ): 44,627 million
+65 Annual Report FY 2025-26    |   Honeywell Automation India LimitedHoneywell 
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct
+Stakeholder 
+group from 
+whom 
+complaint is receivedGrievance Redressal 
+Mechanism in Place (Yes/No)FY 2025-26 FY 2024-25
+(If Yes, then provide web-
+link for grievance redress 
+policy)Number of 
+complaints 
+ﬁled during the yearNumber of 
+complaints pending 
+resolution at close of the yearRemarks Number of 
+complaints 
+ﬁled during the yearNumber of 
+complaints pending 
+resolution at close of the yearRemarks
+Communities Yes, through:
+- ‘Help & Support’ section00 - 0 0 -
+Investors 
+(other than shareholders)Yes, through:
+- SEBI platform- Email IDs of BSE and NSE- SMART ODR platform00 - 0 0 -
+Shareholders Yes, through:
+- SEBI platform- Email IDs of BSE and NSE- SMART ODR platform16 0 - 10 0 -
+Employees and 
+workersYes, through various internal 
+channels- Online ACCESS Integrity 
+Helpline external portal 
+- 24/7 dial-in number from 
+U.S. 
+- 1-800-237-5982 (India : 
+022 5032 3045)
+- Emailing at Indu.Daryani@
+honeywell.com
+- Internal stakeholders- Emailing*10 1 Matter concluded and 
+resolved as on the date 
+of reporting.13 2 -
+Customers Yes, through various 
+reporting channels:- Online ACCESS Integrity 
+Helpline
+- 24/7 dial-in number from 
+U.S. 
+- 1-800-237-5982 (India: 
+022 5032 3045). 
+- Emailing* 10 - 3 0 -
+Value Chain 
+PartnersYes, through various 
+reporting channels:- Online ACCESS Integrity 
+Helpline 
+- 24/7 dial-in number from 
+U.S. 
+- 1-800-237-5982 (India: 
+022 5032 3045). 
+- Emailing*40 - 6 4
+Others (please 
+specify)Yes, through ‘Help & Support’ 
+section.6 1 Identiﬁed through 
+Honeywell’s internal 
+control mechanisms 
+or reported by an 
+anonymous or external 
+whistleblower.
+Pending matter was 
+resolved as on date of 
+reporting.1 1 Whistle 
+Blower is 
+anonymous
+Weblinks for:
+• ‘Help & Support’ section: https://www.honeywell.com/us/en/company/integrity-and-compliance
+• SEBI platform: www.scores.gov.in
+• Smart ODR Platform: https://smartodr.in/login
+• Online ACCESS Integrity Helpline: https://secure.ethicspoint.com/domain/media/en/gui/38414/index.html
+• * Emailing at AccessIntegrityHelpline@honeywell.comBUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+Honeywell Automation India Limited   |   Annual Report FY 2025-26 66 
+26. Overview of the company’s material responsible business conduct issues
+ Material responsible business conduct and sustainability issues pertaining to environmental and social matters that 
+present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate 
+the risk along-with its ﬁnancial implications  
+ The Company entirely leverages Honeywell’s oversight on ESG performance, strategies, goals, and objectives, monitoring 
+ESG risks and opportunities and ESG disclosures. Honeywell utilizes the enterprise risk management program and strategic 
+planning process to identify and prioritize ESG risks and opportunities, assess the overall performance and monitor risk 
+mitigation efforts. Examples of opportunities and risks and associated mitigation strategies can be referred to in the TCFD Disclosures section of Honeywell’s 2025 Impact Report following the weblink given in Annexure to the BRSR. Based on our 
+rigorous and disciplined risk management processes and in the context of assessing the Company’s material risks, we do 
+not believe these risks are reasonably likely to have a material effect in the foreseeable future on the Company’s business or markets that it serves, nor on its results of operations, capital expenditures or ﬁnancial position.
+Sr 
+No.Material Issue Identiﬁed Indicate 
+whether risk or 
+opportunityRationale for identifying the risk / 
+opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity 
+(Indicate positive or negative implications)
+1 Carbon Neutrality and Energy 
+T
+ransitionO Honeywell’s portfolio includes powerful 
+megatrends — Automation and the Energy Transition. Leadership in the energy transition is an important enabler of Honeywell's long term growth. Honeywell Automation India Limited (HAIL), under Honeywell Inc.’s global initiative, is committed to achieving carbon neutrality across its facilities and operations by 2035.  This will be achieved through various initiatives such as enhancing energy efﬁciency by upgrading equipment to more efﬁcient designs, deploying technologies aimed at reducing process related emissions at its manufacturing facilities, etc.N/A Positive
+2 Health and Safety R Health and Safety (HSE) lapses can 
+result in injury, legal issues, ﬁnes and production losses. Ensuring workplace wellbeing is vital for sustainable business operations.HAIL uses a lean based HSE Management System built on third-party standards including ISO 45001 to continuously improve safety performance by reducing health and safety risks through rigorous hazard assessments, compliance program, targeted competency based training, contractor safety program, strong operating control measures and well established emergency preparedness processes. Training needs are identiﬁed through structured evaluations, and all personnel are made aware of key HSE risks and compliance obligations.Negative
+3 Data privacy and Cyber 
+securityR Risks of cyberattacks, data breaches 
+and privacy violations could disrupt operations, compromise sensitive information and undermine stakeholder trust in an increasingly digital environment and may lead to regulatory non-compliance.HAIL mitigates cybersecurity and data privacy risks through a comprehensive global governance framework, strong data privacy and security-by-design principles, and well-established policies and procedures. This includes mandatory employee training during onboarding and as part of the annual Code of Business Conduct certiﬁcation, regular internal and external audits, robust vulnerability assessments and penetration testing, and a structured incident response program. Negative
+67 Annual Report FY 2025-26    |   Honeywell Automation India LimitedHoneywell 

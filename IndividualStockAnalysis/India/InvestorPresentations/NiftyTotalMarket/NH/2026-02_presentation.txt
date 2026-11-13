@@ -1,0 +1,575 @@
+
+=== page 1 ===
+   
+  
+ 
+Date of submission: February 13, 2026 
+  
+To,                
+The Secretary 
+Listing Department 
+BSE Limited 
+Department of Corporate Services 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400 001 
+Scrip Code –539551(EQ), 975516 & 976418  To,                
+The Secretary 
+Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex  
+Mumbai – 400 051 
+ 
+Scrip Code - NH 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Investor Presentation for the quarter ended December 31, 2025 
+ 
+With reference to the subject, please find enclosed the Investor Presentation for the quarter ended 
+December 31, 2025. 
+ 
+Kindly take the above information on record. 
+ 
+Thanking you 
+ 
+Yours faithfully 
+For Narayana Hrudayalaya Limited  
+ 
+ 
+ 
+ 
+ 
+Sridhar S. 
+Group Company Secretary, Legal & Compliance Officer 
+ 
+Encl.: as above 
+ 
+=== page 2 ===
+August 02, 2023
+Earnings Update 
+Q3 FY26
+=== page 3 ===
+2IndexOur Footprint          03
+Narayana Health at a Glance       04
+Q3 FY26 Highlights         05 
+Capex           16
+Digital Transformation Initiatives     17
+Narayana Health ESG Vision – “Health For All”   18
+Shareholding Pattern                        19Topic Slide No.
+=== page 4 ===
+Our Footprint (as on 1st January 2026)
+3
+MumbaiKolkataAhmedabad
+RaipurJamshedpurGuwahati
+Shimoga
+Bengaluru
+MysoreDelhi NCR
+Jaipur
+Davanagere
+Health City 
+Cayman IslandsHealth City 
+Camana Bay
+Cayman IslandsIndia
+Devizes
+SouthamptonPortsmouthShepton MalletIlford
+GillinghamBarlborough
+Birmingham
+PlymouthEmersons 
+GreenRochdale
+BuckinghamshireLincolnshire
+Hospitals/Surgical Centers +
+Urgent Trea tment  CentersDiagnostic CentersHospitals/ Surgical CentersOphthalmology CentersUnited Kingdom
+=== page 5 ===
+ Facility Details No. of Facilities Operational Beds
+India - Owned / Operated Hospitals(1) 18 5,306
+India - Heart Centres 2 132
+India - Clinics and Dialysis Centre 20 0
+ Cayman Islands 2 165
+ United Kingdom 13 330
+Healthcare Facilities 55 5,933
+Total Staff ~20,500
+Clinical : ~ 12,500
+Non -clinical : ~ 8,0006,245
+Total Capacity Beds
+(1) Owns the P&L responsibility.
+(2) Average effective cost per operational bed in India is INR 7.2 Mn . Based on (Gross Block for Fixed Assets ( adjusted for non -cash government grant provision 
+impact, non -cash financial lease impact for Dharamshila unit, non-cash EPCG license impact )+ Capital Work in Progress (CWIP)) / Number of operational beds as 
+of Dec 31st,2025.Narayana Health – At Glance
+44
+South (India)
+Hospitals - 6 | Heart Centres -2| Clinics -14 | 
+Diagnostic Centre - 1 
+Operational Beds - 2,065 (Hospitals) and 132 (HC)
+East (India)
+Hospitals - 7| Clinics -4| Dialysis Centre -1
+Operational beds - 2,059
+North (India)
+Hospitals – 3
+Operational beds: 828
+West (India)
+Hospitals - 2
+Operational beds - 354
+
+=== page 6 ===
+Key Highlights – Operational & Financial Performance (Q3 FY26)
+Clinical & 
+Operational•Narayana  Institute  of Cardiac  Sciences,  Bangalore  has performed :
+•244 robotic  cardiac  surgeries  (35% increase  QoQ) .
+•48 TAVIs  (50% increase  YoY) .
+•Narayana  Super -specialty  Hospital,  Howrah  has performed  Complex  Pediatric  Interventions  
+– 3 Transcatheter  Fontan  procedure,  2 Sinus  venosus  ASD Stenting  procedure  and 2 Coronary  
+Cameral  Fistula  Device  Closure .
+•Narayana  Multi -specialty  Hospital,  Ahmedabad  has successfully  completed  its first ever  
+heart  transplant  in December -25.
+Financial 
+Performance•Consolidated  operating  revenues  of ₹ 21,512 Mn(1) in Q3 FY26, a change  of +61.2% YoY and 
++30.9% QoQ .
+•Consolidated  EBITDA  of ₹ 3,904 Mn(1) in Q3 FY26 at a margin  of 18.2% and consolidated  PAT 
+of ₹ 1,281 Mn(1) for Q3 FY26 at a margin  of 6.0%
+•Consolidated  Total  Borrowings  less Cash  & Bank  Balance  and Investments  of ₹ 22,321 Mn as 
+on 31st December  2025 , i.e., net debt  to equity  ratio  of 0.53 (Out  of which,  debt  worth  US 
+$119 Mn and GBP £150 Mn are foreign  currency  denominated) .
+5
+5
+(1) UK numbers in Q3 FY26 are consolidated from 6th November 2025 i.e., from the effective date of acquisition.
+=== page 7 ===
+India Operations – Revenue (Q3 FY26) 
+Domestic
+International Integrated Care - NHIC and NHIL
+397513583
+0100200300400500600700
+Q3 FY25 Q2 FY26 Q3 FY26
+6
+6107190232 
+2070120170220270
+Q3 FY25 Q2 FY26 Q3 FY2610,044 11,707 11,003 
+ 4 5,004 10,004
+Q3 FY25 Q2 FY26 Q3 FY2610,548 12,331 11,780 
+ 4 5,004 10,004 15,004
+Q3 FY25 Q2 FY26 Q3 FY26Total *
+9.5% YoY
+46.6% YoY 116.9% YoY11.7% YoY-4.5% QoQ -6.0% QoQ
+13.6% QoQ21.9% QoQ
+*Note - Total revenue is excluding Jammu, ATHMA, Medha and adjusted with Inter Company eliminations. Previous quarters numbers a re adjusted for Jammu. ₹ Mn
+=== page 8 ===
+73%25%
+1%
+0%
+Owned Hospitals
+Operated Hospitals
+Heart Centres
+Other Anciliary Businesses45%
+32%17%5%
+Domestic Walk-in patients
+Insured Patients
+Schemes
+International patientsBusiness Mix(4,7,8) Specialty -Profile(4,7,8)Payor -Profile(4,7,8) 
+(1) NH owns on freehold basis and operates with the P&L responsibility    
+(2) NH operates the hospitals on rental/revenue sharing basis and owns the P&L responsibility
+(3) Includes clinics and dialysis centres excl. NHIC
+(4) As percentage of operating revenue, excluding NHIC(5) Insured Patients include Insurance -covered patients, corporate patients (including PSU’s  on hospital tariff) 
+(6) Schemes include CGHS, ESIS, other state government schemes
+(7) Percentages might not add up to 100% due to rounding off
+(8) Jammu unit is removed and is considered as a part of discontinued operation effective from FY2533%
+13%
+15%9%8%4%17%
+Cardiac Sciences
+Medicine and GI sciences
+Oncology
+Renal Sciences
+Neuro Sciences
+Orthopaedics
+OthersIndia Hospital Operations – Revenue Mix (Q3 FY26) 
+(1)
+(3)(2)
+(6)(5)
+7
+=== page 9 ===
+Operational Review – India Hospitals (Q3 FY26)  
+ICU Occupied Bed DaysALOS
+Patient Footfalls (IP & OP)(1,3)₹ ‘000Days
+‘000
+OP
+IP579662617
+53 58 53
+0100200300400500600700
+Q3 FY25 Q2 FY26 Q3 FY26
+(1) OP figures include day -care business.         
+(2) ARPOB for the period Q3 FY26 was ₹ 18.1 Mn as against ₹ 15.8 Mn in Q3 FY25.
+(3) Footfalls for IP correspond to Discharges.
+(4) Jammu unit is removed and is considered as a part of discontinued operation effective from FY25. Previous quarter numbers are  adjusted for Jammu.8
+8‘0004.6 4.8 4.9141.5149.4157.2
+Q3 FY25 Q2 FY26 Q3 FY26Average Revenue Per Patient (IP & OP) (1,2)
+OP
+IP
+949693
+60708090100110
+Q3 FY25 Q2 FY26 Q3 FY264.5
+4.34.4
+3.73.94.14.34.54.7
+Q3 FY25 Q2 FY26 Q3 FY26
+=== page 10 ===
+Cluster Split – India Hospitals (Q3 FY26) This considers owned/operated hosp itals  & heart centers  in India
+(1) OP ARPP includes day care.
+17% 8% 9%36% 10% 10% 13%
+% of Hospital 
+Operating 
+Revenues 
+YoY Revenue 
+Growth
+OP ARPP(1)
+(₹ ‘000)
+YoY Hospital 
+DischargesBangaloreSouthern 
+PeripheralKolkataEastern
+PeripheralWestern Northern
+Regions
+5%•NICS
+•MSMC
+•HSR•Mysore
+•Shimoga
+•Davangere
+•Dharwad
+•Kolar•RTIICS
+•Barasat
+•NMH
+•NSH•Jamshedpur
+•Guwahati
+•Raipur•Mumbai
+•Ahmedabad•Gurugram
+•New Delhi
+•Jaipur
+26%
+91%
+2%0% -2% -6%
+IP ARPP 
+(₹ ‘000)5.0 3.7 4.5 4.1 4.3 4.6
+198.3 67.9 121.4 114.7 128.35.7 4.3 4.6 4.3 4.3 4.9
+239 84 161 137 139 1300%5% 4%
+Capacity Beds 1498 797 1453 730 392 880
+-2%
+-4%11% 9%
+=== page 11 ===
+10Profitability Snapshot – India Hospitals (Q3 FY26) 
+Excludes Jammu, NHIC, NHIL, ATHMA & MEDHA (2)
+EBITDA and EBITDA Margin (1)Cost Structure
+₹ ‘Mn % of Operating Revenues
+(4) Consumable Expenses = Purchase of medical consumables, drugs and surgical equipment 
+net of changes in inventories of medical consumables, drugs and surgical equipment
+(5) Doctors and Nurses = Employee benefits + Professional fees to doctors
+(6) Other Expenses = Overhead expenses + All other expenses 
+(7) Effect of IND AS benefits is not considered(1) Denotes EBITDA for entire India hospitals business excluding Jammu, NHIC, NHIL, ATHMA 
+& MEDHA. EBITDA is without Dividend income.
+(2) EBITDA for Q3 FY26 including NHIC, NHIL, ATHMA & MEDHA stood at ₹ 2,506 Mn (21.2%). 
+EBITDA for NHIC and NHIL stood at ₹ -134 Mn for Q3 FY26.
+(3) Previous quarter numbers are also adjusted for Jammu, NHIC, NHIL, ATHMA and MEDHA.
+102,061 2,903 
+2,630 19.7%23.8% 22.7%
+0.0%5.0%10.0%15.0%20.0%25.0%
+ 1,500 1,700 1,900 2,100 2,300 2,500 2,700
+Q3 FY25 Q2 FY26 Q3 FY26(1)
+28% 27% 28%22% 23% 23%19% 17% 18%12% 11% 11%
+0%10%20%30%40%50%60%70%80%90%100%
+Q3 FY25 Q2 FY26 Q3 FY26Chart Title
+Doctors and Nurses Consumable Expenses
+Other Expenses Other Manpower CostRental / Revenue Share (7)
+2% 2%
+(5)
+(3)
+(4)2%
+(2) (3)
+=== page 12 ===
+Points of Presence * No. of Patient Transactions  *
+Revenue – Integrated Care* YTD Gross Written Premium**‘000
+11106155145
+050100150200
+Q3 FY25 Q2 FY26 Q3 FY26
+6.5 87 240 
+ 5.0 55.0 105.0 155.0 205.0 255.0
+Q3 FY25 Q2 FY26 Q3 FY26104 156 156 
+ 50 70 90 110 130 150 170
+Q3 FY25 Q2 FY26 Q3 FY261011 11
+24681012
+Q3 FY25 Q2 FY26 Q3 FY26NH Integrated Care and Insurance: Snapshot
+₹ ‘Mn ₹ ‘Mn
+* Includes Integrated Care (Clinics) only.
+** Gross written premium of NH Insurance0.1% QoQ
+49.7% YoY
+=== page 13 ===
+Operational Review – Cayman Islands  (Q3 FY26) 
+Hospital Revenues Insurance  Revenues (CIHL)
+DischargesOut-PatientsUS$ Mn US$ Mn
+120.99.312.9
+0.05.010.015.0
+Q3 FY25 Q2 FY26 Q3 FY26
+9,910 12,301 12,831 
+ 7,500 8,500 9,500 10,500 11,500 12,500 13,500
+Q3 FY25 Q2 FY26 Q3 FY26630 785 799 
+ 450 550 650 750 850
+Q3 FY25 Q2 FY26 Q3 FY26
+1)EBITDA of CIHL for Q3 FY26 is US$ -1.5 Mn.
+2)HCCI consol revenue to be adjusted for inter -co elimination of US$ 1.6 Mn in Q3 FY26.35.341.644.8
+24.029.034.039.044.049.0
+Q3 FY25 Q2 FY26 Q3 FY26
+1332% YoY38.4% QoQ
+27.1% YoY7.7% QoQ
+=== page 14 ===
+United Kingdom – Consolidated (Q3 FY26) 
+13GBP Mn FY25 Q3 FY26
+Revenue 250 42
+Adj. EBITDA (Pre IFRS) 20 2.8
+Adj. EBITDA (Post IFRS) 28 4.2GBP Mn FY25 Q3 FY26
+Shareholder’s Equity 24 40 
+Total Borrowings 0 149 
+Lease Liabilities 58 60 
+Other Liabilities 7 23 
+Non -Current Assets 83 257 
+Current Asset less Current Liab. 6 16 
+- FY25 is based on the UK financial year from 1st October 2024 to 30th September 2025.
+- Q3 FY26 (as per India financial year) numbers are considered from 6th November 2025 i.e., from the effective date of acquisition.
+- Adj. EBITDA excludes Birmingham Loss of GBP 6.1 Mn in FY25 and 0.6 Mn in Q3 FY26. And Adj. EBITDA of Q3 FY26 also excludes on e-time acquisition cost of GBP 3.4 Mn
+- Adj. PAT of Q3 FY26 is excluding only one time acquisition cost of GBP 3.4 Mn.
+- FY25 Balance sheet (Shareholder’s equity and Current Assets) are adjusted with inter -company balances of ~ GBP 86.4 Mn which was knocked off as a part of the acquisition . 
+Corresponding interest income on the inter -company balances is also knocked -off from the P&L.Profit and Loss Key Balance  Sheet Items
+Impact on PAT FY25 Q3 FY26
+Hospital PAT 3 0.5
+Int. on Loan for Acquisition - (1.1)
+Amortization of Acquisition 
+related Intangible Assets- (0.8)
+Less – Deferred Tax Impact - 0.2
+Adj. PAT 3 (1.2)
+=== page 15 ===
+Consolidated Financial Performance
+Figures in ₹ Mn, unless stated otherwise
+(1)Figures might not equal the reported numbers due to rounding off.
+(2)Net Block includes non -cash government grant impact of ₹ 1,035 Mn, non -cash financial lease impact of ₹ 285 Mn and non -cash EPCG  license impact of ₹ 362 Mn.
+(3)Financial performance of NVDSHPL (Jammu) is not considered in the consolidated financial and has been disclosed as discontinu ed operations.
+(4)Exceptional Item pertains of new labor code. 
+(5)One time Acquisition cost - out of  INR 757 Mn of acquisition cost, INR 367 Mn is booked in HCCI and balance in UK. This is clas sified under Other Admin Expenses in the financials  Particulars (₹  Mn) Q3 FY25 Q3 FY26 (W/o UK) Q3 FY26 (With UK)
+Total Operating Revenue 13,346 16,610 21,512
+Consumption 2,652 2,968 3,815
+Doctors Expenses 2,295 2,545 3,585
+Employee (Excluding Doctors) 
+Expenses 2,712 2,954 4,595
+Other  Admin Expenses(5)2,613 4,104 5,088
+Total Expenses 10,272 12,571 17,082
+Other Income 183 197 232
+Adj EBITDA(5)          3,257 4,235 4662
+Exceptional item(4)- (509) (509)
+One time Acquisition Cost(5)- (367) (757)
+Depreciation and Amortization 696 812 1,223
+Finance Costs 366 456 650
+Share of (loss)/profit of equity 
+accounted investees - (19) (19)
+PBT 2,195 2,072 1,504
+Tax Expense 259 271 223
+PAT 1,936 1,801 1,281
+Total Comprehensive  Income 2,294 2,025 1,571Profit and Loss Statement(1)Key Balance Sheet Items(1)
+Particulars 31st Dec 2025 (With UK)
+Shareholder Equity 42,189
+Total Borrowings 45,442
+Lease Liability 9,239
+Net Block + CWIP (2) 45,272
+Goodwill 13,485
+Right to Use Assets 7,613
+Net Receivables 7,500
+Current Investments 4,813
+Cash and Bank Balance 17,503
+14
+=== page 16 ===
+15₹ Mn Q3FY26 Q3FY25 YoY %
+India Revenue(1) 11,796 10,552 11.8%
+Cayman Revenue(2)4,991 2,935 70.0%
+UK Revenue(2) 4,902 0
+Consol Revenue(3)21,512 13,346 61.2%
+Consol Adj. EBITDA(4) 4,662 3,257 43.1%
+Adj. EBITDA margin 21.7% 24.4%
+Adj. PAT(4) 2,548 1,936 31.6%
+Adj. PAT % 11.8% 14.5%
+Profitability before Adjustment of One -time costs (as per the financials)
+Consol EBITDA 3,904 3,257 19.9%
+EBITDA margin 18.2% 24.4%
+PAT 1,281 1,936 -33.9%
+PAT % 6.0% 14.5%Summary of Financial Performance
+(1) India and Consolidated numbers are adjusted with NVDSHPL.
+(2) Cayman & UK nos. are converted from USD to INR at 87.35 for Q3FY26, and 83.89 for Q3FY25. UK numbers are converted from G BP to USD at 1.33 for Q3 FY26. The numbers may slightly vary on conversion due to 
+different exchange rates applicable at different reporting periods. UK revenue for Q3 FY26 is considered from date of acquisi tion i.e., 6th November 2025. 
+(3) Consol revenue numbers are adjusted for Inter -company eliminations.
+(4) Q3 FY26 - EBITDA is adjusted with one time acquisition cost of ₹ 757 Mn and PAT is further adjusted with one time impact due to new labor code of ₹ 509 Mn.
+15
+=== page 17 ===
+16215 350 220 350 300 100 400 
+5,750 7,685 
+31-Dec-25 HSR 
+BangaloreRajarhat 
+KolkataCentral 
+BangaloreSouth
+BangaloreRaipur South West
+BangalorePipeline FY30Expansion: Progress Status & Capex Strategy
+Building to strengthen our presence in flagship regions
+16Location Type No. of Beds Project Cost (₹ Mn) Completion Current Status
+HSR, Bangalore Greenfield 215 4,900 FY28 Main  contractor  onboarded ; Project  is progressing  as per schedule .
+Rajarhat, Kolkata Greenfield 350 9,000 FY28 Sanctions in place, Project is progressing as per schedule.
+Central Bangalore Lease 220 1,600 FY28Lease & Construction Agreement is executed; design and approvals are 
+in process.
+South Bangalore Greenfield 350 8,000 FY29 Design  and approvals  are in process .
+Raipur Expansion 300 5,400 FY28 Main contractor onboarded; Project is progressing as per schedule.
+South -West Bangalore Lease 100 840 FY27 Structural work completed, MEP and interior work in progress.Current Bed Capacity Bed Capacity Addition Bed Capacity TargetCapex Head FY26 (P) FY26 (A)
+Greenfield/
+Inorganic4,240 955
+Brownfield/ 
+Capacity Addition159 86
+Replacement/
+Maintenance2,865 1,642
+Cayman 457 6167,600+
+=== page 18 ===
+Digital Transformation Initiatives
+17
+Impact | Mobile Apps
+ Initiatives | Business
+ GTM | ATHMA
+•AADI now processes  40Mn monthly 
+messages , including progress notes, 
+lab results, discharge summaries etc. 
+delivering clinical context in real time 
+for the care givers.
+•NH patient app crosses 3.7 Mn overall 
+installs with an Appstore rating of 4.9 and 
+Playstore  rating of 4.7 continuing its 
+strong growth with uncompromising 
+quality.•Medicine Administration and 
+Reconciliation (MAR) – 200k Orders 
+processed with adoption kicking in 
+across all units.
+•~70% Appointments now booked through 
+digital platforms enabling patient 
+interaction getting closer to self sufficiency 
+using the app and installed kiosks.•1000+ beds initiated across various 
+parts of the country boosting the 
+overall ATHMA footprint .
+•ATHMA platform is now enabling more 
+than 5000 care providers improving day -
+to-day operations.  
+Launch | New Products
+•Advanced Service Procurement pilot rolled 
+out leading to cost savings on third party 
+licensing costs.•Launched Clinical Worklist to flag 
+anomalies and early health risks by 
+evaluating key clinical indicators 
+guiding for further evaluation.
+•Incident Management  achieved 50% reduction in patient incidents.
+
+=== page 19 ===
+NH ESG Vision – “Health For All”
+1818A Healthy Society
+By  improving access to care, digitising patient safety & experience and building the workforce for tomorrow
+25,000+  
+Doctors, nurses, 
+and paramedical 
+trained by 2030Digitization
+For enhancing 
+patient safety 
+& experience5000+  
+Bridging care gaps with 
+5000 BMTs by 2030
+3400 free pediatric  heart 
+procedures annually10000+ 
+Bright underprivileged 
+students aiming to be 
+doctors by 2030Touching lives of 
+50,000+ 
+Supporting govt. 
+school children with 
+hygiene and 
+nutrition by 20305,60,000+ hours
+Associate upskilling 
+and development 
+hours by 2030
+A Healthy Institution - 
+By fostering a culture of innovation & strong governance
+100%  
+NABH & enterprise 
+level JCI recertified 
+hospitals by 2026Industry leader Best in Class risk 
+management
+Robust Risk 
+Management ProcessCyber resilience
+Zero Trust Architecture 
+by 20261200+ peer -reviewed indexed 
+publications (2025 –2030)1000+ Publications
+In clinical 
+GovernanceA Healthy Planet
+By being conscious about impact on the environment, prioritizing consumption efficiency and resource optimization
+Renewable energy 
+(Electricity) mix by 203050% Carbon Neutral
+By 2040Waste -water recycling by 2030
+Water Consumption 
+per occupied bed/day100% Optimized
+Waste management processes
+BMW Generation
+ per occupied bed/day30% less 
+Paper use across patients 
+by 2026 from 2023
+On Plan (T 1000) 2169 (T 2040) 12006 (T 9825) 2636 (T 2888)5.77 Pages/ Patient 
+YTD  (T 5.03)
+On Plan Ongoing
+166 Publications  (T 150) On Plan Ongoing On Plan Ongoing On Plan Ongoing On Plan OngoingOngoing 1.43 KL Water Per occupied 
+bed  ( *T 1.42)2.20 KGs Per occupied 
+bed  (*T 2.10)37.28% (T 38.00%)
+2.89 L Person Hours 
+of training (T 2.93 L) 
+*Water and Waste targets have been re -evaluated and updated to account for the expansion of activities and associated resource r equirements.Actuals FY 25~26 -Upto Q3 (T – Target  FY 25~26 -Upto Q3)
+=== page 20 ===
+Shareholding Pattern
+As on 31st Dec 2025(1)
+Key DIIs
+Mirae Asset Management
+Parag Parikh Asset Management
+Nippon Life India Asset Management 
+Axis Asset Management
+Unifi Capital
+DSP Asset Management
+(1) Percentages might not add up to 100% due to rounding off
+Total Number of Shares
+204,360,804
+19Promoter 
+Group  
+63.3%Others  
+15.6%FIIs 
+11.1%DIIs 
+9.4%ESOP Trust  
+0.7%
+Key FIIs
+Franklin Templeton Investment Funds
+Vanguard Index Funds
+Simcah  Partners LP
+Robeco Asset Management
+iShares by Blackrock
+Government Pension Fund Global
+=== page 21 ===
+Disclaimer and Contact Details
+No representation  or warranty,  express  or implied  is made  as to, and no reliance  should  be placed  on, the fairness,  accuracy,  completeness  or 
+correctness  of such  information  or opinions  contained  herein . The information  contained  in this presentation  is only  current  as of its date . Certain  
+statements  made  in this presentation  may  not be based  on historical  information  or facts  and may  be  “forward  looking  statements”,  including  those  
+relating  to the Company’s  general  business  plans  and strategy,  its future  financial  condition  and growth  prospects,  and future  developments  in its 
+industry  and its competitive  and regulatory  environment . 
+Actual  results  may  differ  materially  from  these  forward -looking  statements  due to a number  of factors,  including  future  changes  or developments  in the 
+Company’s  business,  its competitive  environment  and political,  economic,  legal  and social  conditions  in India .
+This communication  is for general  information  purpose  only,  without  regard  to specific  objectives,  financial  situations  and needs  of any particular  
+person . This presentation  does  not constitute  an offer  or invitation  to purchase  or subscribe  for any shares  in the Company  and neither  any part of it 
+shall  form  the basis  of or be relied  upon  in connection  with  any contract  or commitment  whatsoever . The Company  may  alter,  modify  or otherwise  
+change  in any manner  the content  of this presentation,  without  obligation  to notify  any person  of such  revision  or changes . This presentation  can not be 
+copied  and/or  disseminated  in any manner .
+For further Information, please contact :
+Mr. Nishant Singh
+Vice President – Finance, Investor Relations, M&A
++91 8369353821
+nishant.singh@narayanahealth.orgMr. Vivek Agarwal
+Senior Manager –  Investor Relations, M&A
++91 9510756827
+vivek.agarwal@narayanahealth.org
+investorrelations@narayanahealth.org           |              www.narayanahealth.org  
+20
+20
+=== page 22 ===
+21

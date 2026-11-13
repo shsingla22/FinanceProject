@@ -1,0 +1,189 @@
+ 
+ Craftsman Automation Limited  
+    
+    
+Registered Office:  Corporate Office:     
+123/4, Sangothipalayam Road,  No.1087, 4th & 5th Floor, Krishna Towers,   Tel + 91 422 71 610 00   
+Arasur Post, Coimbatore – 641 407  Avinashi Road, Coimbatore  - 641037  fax + 91 422 71 612 34   
+Tamil  Nadu, India  Tamil  Nadu, India  info@craftsmanautomation.com            CIN NO:    L28991TZ1986PLCO01816  
+   www.craftsmanautomation.com            GST NO :                33AABCC2461K1ZW  
+  15th June,  2026  
+ 
+To 
+ 
+The Manager -  Listing,  The Manager -  Listing,  
+BSE Limited ,  National Stock Exchange of India Limited  
+Rotunda Building,  Exchange Plaza,  
+Phiroze Jeejeebhoy Towers,  Bandra Kurla Complex,   
+Dalal Street,  Bandra (East),  
+Mumbai - 400 001  Mumbai - 400 051  
+Scrip Code: 543276  Stock Code: CRAFTSMAN  
+   
+  Dear Sir/Madam,  
+ 
+Sub:  Submission of Audited Consolidated Financial Statements for the Financial 
+Year  ended 31st March, 2026;  
+ 
+We wish to inform you that the Board of Directors of Craftsman Automation Limited ("the 
+Company") at its meeting held on 7th May, 2026, has approved the Audited Consolidated Financial 
+Statements of the Company for the Financial Year ended 31st March, 2026,  together with the 
+notes and schedules thereto and the Audit Report thereon, including the comparative figures for the financial year ended 31
+st March, 2025, prepared in accordance with the applicable provisions 
+of the Companies Act, 2013 and the applicable accounting standards.  
+ 
+The Audited Consolidated Financials are also being posted on our website at 
+https://www.craftsmanautomation.com/ .  
+ 
+A copy of the Audited Consolidated Financial Statements  along with the Audit Report  thereon is 
+enclosed herewith for your records.  
+ We request you to take the above on record and treat the same as compliance under the applicable provisions of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended.  
+ 
+Thanking you . 
+ Yours faithfully,  
+for CRAFTSMAN AUTOMATION LIMITED  
+ 
+  Shainshad Aduvanni  
+Company Secretary & Compliance Officer  
+ 
+Encl: As above  
+ 
+Consolidated  
+Financial 
+Statements
+Consolidated Financial Statements Page 1 of 61
+Corporate Overview Statutory Report Financial StatementsIndependent  
+Auditors’ Report
+Opinion
+We have audited the accompanying consolidated financial 
+statements of Craftsman Automation Limited (hereinafter referred to as the “Company” / “Holding Company”), its subsidiaries (the Holding Company and its subsidiaries together referred to as “the Group”) and a joint venture, which comprise the Consolidated Balance Sheet as at 31 March 2026, the Consolidated Statement of Profit and Loss (including Other Comprehensive Income and Group’s share of profit in joint venture), the Consolidated Statement of Cash Flows and the Consolidated Statement of Changes in Equity for the year ended on that date and notes to the consolidated financial statements including a summary of material accounting policies and other explanatory information (hereinafter referred to as “the consolidated financial statements”).
+In our opinion and to the best of our information and according 
+to the explanations given to us the aforesaid consolidated financial statements give the information required by the Companies Act, 2013 (“the Act”) in the manner so required and give a true and fair view in conformity with Indian Accounting Standards prescribed under section 133 of the Act read with the Companies (Indian Accounting Standards) Rules, 2015, as amended (“Ind AS”) and other accounting principles generally accepted in India, of the consolidated state of affairs of the Group and its joint venture as at 31 March 2026, the consolidated profit and consolidated total comprehensive income, its consolidated cash flows and consolidated changes in equity for the year ended on that date.Basis for opinion
+We conducted our audit of the consolidated financial statements in accordance with the Standards on Auditing (“Standards” or “SAs”) specified under section 143(10) of the Act. Our responsibilities under those Standards are further described in the ‘Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements’ section of our report. 
+We are independent of the Group and its joint venture in 
+accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India (“ICAI”) together with the independence requirements that are relevant to our audit of the consolidated financial statements under the provisions of the Act and the Rules made thereunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the ICAI’s Code of Ethics. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinion on the consolidated financial statements.
+Key Audit Matters
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the consolidated financial statements of the current period. These matters were addressed in the context of our audit of the consolidated financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters. We have determined the matters described below to be the key audit matters to be communicated in our report.
+S. 
+No.Key audit matter description and principal audit procedures
+1 Accounting for Property, Plant and Equipment
+Refer Notes D-a, D-c, E-a, 1.1, 1.2 and 2.6 in consolidated financial statementsProperty, plant and equipment including capital work in progress (‘PPE’) represents 49% of the Group’s total assets. The capitalisation of PPE includes the fair value of the consideration given to acquire the asset (net of discounts and 
+rebates) and any directly attributable costs of bringing the asset to working condition for its intended use (inclusive of non-refundable purchase taxes and duties).
+Depreciation is generally charged as per Schedule II to Companies Act, 2013. In respect of certain classes of PPE, the useful 
+life has been ascertained based on technical review by a Chartered Engineer and assessment by the management.
+The Company carries out physical verification of PPE on an annual basis.The Company uses estimates and assumptions to determine the useful life of assets, residual value, and assess impairment 
+loss (if any). The useful life of property, plant and equipment is determined by the technical team of the management taking into consideration the industry practice, the application and usage factors and past historical trend. The residual value at the end of the useful life of property, plant and equipment is estimated in determining the depreciable value of the asset. Impairment assessment of property, plant and equipment involves identification of Cash Generating Unit (‘CGU’) and estimating future cash flows arising out of such CGUs.
+Due to the material value of PPE to total assets and estimates/judgements involved in their valuation, the audit of accounting 
+of Property, Plant and Equipment has been considered as a Key Audit Matter in the audit of these financial statements.To the members of Craftsman Automation Limited
+Report on the Audit of the Consolidated Financial Statements
+Consolidated Financial Statements Page 2 of 61
+Annual Report 2025-26 Craftsman Automation Limited  S. 
+No.Key audit matter description and principal audit procedures
+Our procedures relating to audit of accounting for Property, Plant and Equipment includes the following:
+•evaluating of design and implementation of controls and testing the operating effectiveness of the internal controls over:
+- measurement of initial recognition costs including costs of self-constructed PPE;
+- valuation of PPE and review of useful lives including depreciation rates applied;
+- periodic physical verification of property, plant and equipment by the management;
+•testing on sample basis the value of self-constructed assets with underlying documentation to assess compliance with 
+applicable accounting standards;
+•wherever the useful life of a PPE considered is different from the useful life indicated in the Act, obtain confirmationfrom management’s technical team for the useful life for the same;
+•reviewing the residual value of PPE considered by the management for consistency and appropriateness;
+•understanding the basis behind identification of Cash Generating Units by the management and review the future cash flow projections for the same;
+•checking the computation and correctness of the discounting factor applied for arriving at value in use and impairment thereof, if any;
+•checking the reasonableness of the assumptions made by the management in identifying CGUs, assessing the futurecash flows, discount factor and impairment loss;
+•physically inspecting a sample of assets at one of the main units of the Company during the year to ensure existenceof PPE;
+•reviewing the physical verification reports of the management and the treatment of discrepancies in the books ofaccounts / Fixed Asset Register, wherever applicable.
+Information other than the consolidated financial 
+statements and auditor’s report thereon
+The Board of Directors of the Company is responsible for 
+preparation of the other information. The other information comprises the information included in the Annual Report (Board’s Report, Management Discussion and Analysis and Report on Corporate Governance report) but does not include the standalone financial statements and our report thereon. 
+Our opinion on the consolidated financial statements does not 
+cover the other information and we do not express any form of assurance conclusion thereon.
+In connection with our audit of the consolidated financial 
+statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the consolidated financial statements or our knowledge obtained in the audit, or otherwise appears to be materially misstated. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+Responsibilities of Management and those charged 
+with governance for the consolidated financial statements 
+The Board of Directors of the Holding Company is responsible 
+for the matters stated in section 134(5) of the Act with respect to preparation of these consolidated financial statements that give a true and fair view of the consolidated financial position, consolidated financial performance, consolidated total comprehensive income, consolidated cash flows and consolidated changes in equity of the Group and the joint venture in accordance with the Ind AS and other accounting principles generally accepted in India. The respective Board of Directors of the companies included in the Group and its joint venture are responsible for maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of the Group, and its joint venture and for preventing and detecting frauds and other irregularities; the selection and application of appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and the design, implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring accuracy and completeness of the accounting records, relevant to the preparation and presentation of the consolidated financial statements that give a true and fair view and are free from material misstatement, whether due to fraud or error, which have been used for the purpose of preparation of the consolidated financial statements by the Board of Directors of the Holding Company, as aforesaid.
+In preparing the consolidated financial statements, the 
+respective Board of Directors of the companies included in the Group and of its joint venture are responsible for assessing the ability of the Group and of its joint venture to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intends to liquidate the Group or to cease operations, or has no realistic alternative but to do so.
+The respective Board of Directors of the companies included in 
+the Group and its joint venture is responsible for overseeing the financial reporting process of the Group and its joint venture.
+Consolidated Financial Statements Page 3 of 61
+Corporate Overview Statutory Report Financial StatementsAuditor’s responsibility for the audit of the 
+consolidated financial statements
+Our objectives are to obtain reasonable assurance about 
+whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.
+As part of an audit in accordance with SAs, we exercise 
+professional judgment and maintain professional skepticism throughout the audit. We also:
+•identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraudor error, design and perform audit procedures responsiveto those risks, and obtain audit evidence that is sufficientand appropriate to provide a basis for our opinion. Therisk of not detecting a material misstatement resultingfrom fraud is higher than for one resulting from error, asfraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control;
+•obtain an understanding of internal financial controls over financial reporting relevant to the audit in order to designaudit procedures that are appropriate in the circumstances. Under section 143(3)(i) of the Act, we are also responsiblefor expressing our opinion on whether the HoldingCompany have adequate internal financial controls overfinancial reporting system in place with reference to thefinancial statements and the operating effectiveness ofsuch controls;
+•evaluate the appropriateness of accounting policiesused and the reasonableness of accounting estimatesand related disclosures made by the management of theHolding Company;
+•conclude on the appropriateness of management’s use ofthe going concern basis of accounting and, based on theaudit evidence obtained, whether a material uncertaintyexists related to events or conditions that may castsignificant doubt on the ability of the Group and its jointventure to continue as a going concern. If we concludethat a material uncertainty exists, we are required to drawattention in our auditor’s report to the related disclosuresin the consolidated financial statements or, if suchdisclosures are inadequate, to modify our opinion. Ourconclusions are based on the audit evidence obtained upto the date of our auditor’s report. However, future eventsor conditions may cause the Group and its joint venture to cease to continue as a going concern;•evaluate the overall presentation, structure and contentof the consolidated financial statements, including thedisclosures, and whether the consolidated financialstatements represent the underlying transactions andevents in a manner that achieves fair presentation.
+•obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activitieswithin the Group and its joint venture to express anopinion on the consolidated financial statements. We areresponsible for the direction, supervision and performance of the audit of the financial statements of the HoldingCompany included in the consolidated financial statements of which we are the independent auditors. For the otherentities included in the consolidated financial statements,which have been audited by the other auditors, such other auditors remain responsible for the direction, supervisionand performance of the audits carried out by them. Weremain solely responsible for our audit opinion.
+Materiality is the magnitude of misstatements in the consolidated financial statements that, individually or in aggregate, makes it probable that the economic decisions of a reasonably knowledgeable user of the consolidated financial statements may be influenced. We consider quantitative materiality and qualitative factors in (i) planning the scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the effect of any identified misstatements in the consolidated financial statements.
+We communicate with those charged with governance 
+regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a 
+statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards. 
+From the matters communicated with those charged with 
+governance, we determine those matters that were of most significance in the audit of the consolidated financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.
+Other matters
+The consolidated financial statements include the financial statements of four subsidiaries whose financial information 
+Consolidated Financial Statements Page 4 of 61
+Annual Report 2025-26 Craftsman Automation Limited  reflect total assets of H1,24,156 lakhs and net assets of H85,341 
+lakhs as at  31 March 2026, total revenues of H 1,65,680 lakhs, net 
+profit after tax of H19,073 lakhs, total comprehensive income of H19,584 lakhs for the year ended 31 March 2026 and net cash inflows amounting to H 495 lakhs for the year ended on that 
+date and the Group’s share of profit after tax of H112 lakhs and total comprehensive income of H 112 lakhs for the year ended 31 
+March 2026 in respect of a joint venture. The financial statements of the four subsidiaries and a joint venture have not been audited by us. The financial statements of these subsidiaries and joint venture have been audited by other auditors whose reports have been furnished to us by the management of the Holding Company and our opinion on the consolidated financial statements, in so far as it relates to the amounts and disclosures included in respect of these subsidiaries and joint venture, and our report in terms of sub-section (3) of Section 143 of the Act including report on Other information, in so far as it relates to the aforesaid subsidiaries and joint venture entity, is based on the reports of such other auditors.
+Our opinion above on the consolidated financial statements 
+and our report on other legal and regulatory requirements below, are not modified in respect of the above matter.
+Report on other legal and regulatory requirements
+As required by section 143(3) of the Act, based on our audit we report that:
+(a)
+we hav
+e sought and obtained all the information and
+explanations which to the best of our knowledge and
+belief were necessary for the purposes of our audit of the aforesaid consolidated financial statements;
+(b)
+in our 
+opinion, proper books of account as required by
+law relating to preparation of the aforesaid consolidatedfinancial statements have been kept so far as it appearsfrom our examination of those books and the reportsof the other auditors except for the matters stated inparagraph (i)(vi) below on reporting under Rule 11(g)of the Companies (Audit and Auditors) Rules, 2014 (asamended);
+(c)
+the Consolidated Balance Sheet, the ConsolidatedStatement of Profit and Loss (including othercomprehensive income), the Consolidated Statement ofCash Flows
+ and Consolidated Statement of Changes in
+Equity dealt with by this report are in agreement with the relevant books of account maintained for the purpose ofpreparation of the consolidated financial statements;
+(d)
+in our opinion, the aforesaid consolidated financialstatements comply with the Ind AS specified undersection 133 
+of the Act and read with Companies (Indian
+Accounting Standards) Rules, 2015, as amended;
+(e) on the basis of the written representations received from th
+e directors of the Holding Company as on 31 March
+2026 taken on record by the Board of Directors of theHolding Company and reports of the statutory auditorsof subsidiaries and a joint venture incorporated in India, none of the directors of the Holding Company and the subsidiaries and a joint venture incorporated in India is disqualified as on 31 March 2026 from being appointed as a director in terms of Section 164(2) of the Act;
+(f)
+with respect to the maintenance of accounts and othermatters connected therewith, reference is made to ourremarks in paragraph (b) above on reporting undersection 143(3)(b) and paragraph (i)(vi) below on reporting under Rule 11(g) of the Rules;
+(g
+)with respect to the adequacy of the internal financialcontrols over financial reporting and the operatingeffectiveness of such controls, refer to our separateReport in “Annexure A” which is based on our report ofthe Holding Company and subsidiaries and a joint ventureincorporated in India. Our report expresses an unmodified opinion on the adequacy and operating effectiveness ofthe internal financial controls over financial reporting forthose entities;
+(
+h) in our opinion and based on the consideration ofreports of 
+other statutory auditors of the subsidiaries
+and joint ventures incorporated in India, the managerialremuneration for the year ended 31 March 2026 has been paid / provided by the Holding Company, its subsidiaries and joint venture incorporated in India to their directorsin accordance with the provisions of section 197 read with Schedule V to the Act;
+(i)
+wi
+th respect to the other matters to be included in the
+Auditor’s Report in accordance with Rule 11 of theCompanies (Audit and Auditor’s) Rules, 2014, as amended in our opinion and to the best of our information andaccording to the explanations given to us:
+i.
+the Group, as detailed in Note 3.8 to the consolidated 
+financial statements, has disclosed the impact ofpe
+nding litigations on its consolidated financial
+position of the Group;
+ii. the Group has made provision, as required under theapplicable law or accounting standards, for material foreseeable losses, if any, on long‐term contractsincluding derivative contracts;
+ii
+i. there were no amounts 
+due which were required
+to be transferred to the Investor Education andProtection Fund by the Holding Company orsubsidiaries and a joint venture incorporated inIndia;
+iv.(a)
+ the respective managements of the Holding Company and subsidiaries and a joint venture
+ 
+incorporated in India, whose financial statements have been audited under the Act, have represented that, to the best of its knowledge and belief, no funds (which are material either individually or in the aggregate) have been advanced or loaned or invested (either from borrowed funds or share 
+Consolidated Financial Statements Page 5 of 61

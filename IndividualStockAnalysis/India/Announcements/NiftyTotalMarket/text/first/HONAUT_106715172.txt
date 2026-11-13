@@ -1,0 +1,185 @@
+  
+ 
+ 
+Honeywell Automation India Limited  
+CIN: L29299PN1984PLC017951  
+Regd. Office: 56 & 57, Hadapsar Industrial Estate,  
+Pune - 411 013, Maharashtra  
+Tel: +91 20 7114 8888  
+E-mail: India.Communications@Honeywell.com  
+Website:  https://www.honeywell.com/in/en/hail  
+ 
+July 29, 2026  
+ 
+The Manager – Compliance Department  
+National Stock Exchange of India Limited  
+‘Exchange Plaza’ Bandra Kurla Complex,  
+Bandra (East) Mumbai 400051  
+NSE Symbol: HONAUT  The Manager – Compliance Department  
+BSE Limited  
+Floor 25, P.J. Tower, Dalal Street  
+Mumbai 400001  
+BSE Scrip Code: 517174  
+ 
+Dear Sir,  
+ 
+Sub: Outcome of Board Meeting held on July 29, 202 6 
+ Ref: Regulation s 30 and 33 of the S ecurities and E xchange Board of I ndia  (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015   
+ Pursuant to Regulations 30 and 33 of the  Securities and E xchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, please be informed that the Board of Directors of Honeywell Automation India Limited (“the Company”), has at its meeting held today,  inter alia,  approved the Unaudited Standalone Financial Results along 
+with the Limited Review Report thereon, for the quarter ended June 30, 202 6. 
+ The aforesaid Unaudited Standalone Financial Results along with the Limited Review Report thereon, for the quarter ended June 30, 2026, are enclosed herewith.  
+ 
+The above information is also being made available on the website of the Company at 
+https://www.honeywell.com/in/en/hail  
+ 
+Time of Commencement of Board Meeting: 12:10 p.m.  
+Time of Conclusion of Board Meeting: 2:00 p.m.  
+ The above is for your information and record.  
+ Yours Sincerely,  
+ For Honeywell Automation India Limited  
+   _________________________ Indu Daryani  
+Company Secretary and Compliance Officer  
+FCS No. 9059  
+Address: 56 & 57, Hadapsar Industrial Estate, Pune - 411 013  
+LI Hone~ell 
+I I Technologies 
+U Hone~ell 
+■ ■ Technologies 
+Honeywell Automation India Limited 
+CIN: L29299PN1984PLC017951 
+Phone:+91 20 7114 8888 
+STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED JUNE 30, 2026 
+(~ in millions) 
+Sr. Particulars Quarter ended Quarter ended Quarter ended Year ended 
+No. (Unaudited*) (Note 4) (Unaudited*) (Audited) 
+June 30, March 31, June 30, March 31, 
+2026 2026 2025 2026 
+I Revenue from operations 12,044 11,807 11,831 46,819 
+II Other income (Net) 464 475 418 1,790 
+Ill Total income (I+ II) 12,508 12,282 12,249 48,609 
+IV Expenses 
+a) Cost of materials consumed 5,849 5,935 6,663 24,028 
+b) Purchases of stock in trade 1,314 1,316 1,124 5,018 
+c) Changes in inventories of finished goods, (56) (285) (380) (257) 
+work in progress and stock in trade 
+d) Employee benefits expense 2,328 2,058 2,169 8,387 
+e) Finance costs 23 14 19 97 
+f) Depreciation and amortisation 135 147 134 537 
+q) Other expenses (Net) 884 935 840 3,588 
+Total expenses (IV) 10,477 10,120 10,569 41,398 
+V Profit before exceptional items and tax (Ill-2,031 2,162 1,680 7,211 IV) 
+VI Exceptional items (Refer note 5) - 9 - 123 
+VII Profit before tax (V-VI) 2,031 2,153 1,680 7,088 
+VIII Tax expense 524 556 434 1,838 
+a) Current tax 477 631 476 2,028 
+b) Deferred tax 47 (57) (42) (172) 
+c) Relating to earlier years - (18) - ( 18) 
+IX Profit for the period/year (VII-VIII) 1,507 1,597 1,246 5,250 
+X Other Comprehensive Income 
+a) (i) Items that will not be reclassified to (31) 12 (15) 12 
+profit or loss 
+(ii) Income tax relating to items that will not 8 (3) 4 (3) 
+be reclassified to profit or loss 
+b) (i) Items that will be reclassified to profit or 42 (166) 1 (166) 
+loss 
+(ii) Income tax relating to items that will be (10) 42 (0) 42 
+reclassified to profit or loss 
+Total Other Comprehensive Income (X) 9 (115 (10) (115) 
+XI Total Comprehensive Income (IX+X) 1,516 1,482 1,236 5,135 
+XII Paid-up equity share capital 88 88 88 88 
+Face value per share~ 10 
+XIII Other equity 44,539 
+XIV Earning per share (~) -Basic 170.45 180.60 140.95 593.81 
+(not annualised) 
+xv Earning per share (~) -Diluted 170.45 180.60 140.95 593.81 
+(not annualised) 
+*Limited Review 
+Notes: 
+1. The above results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on July 29, 
+2026. 
+2. The Company has only one segment viz. "Automation & Control Systems" as per Indian Accounting Standard (Ind AS) -108 Operating 
+Segment requirement. 
+3. The Company does not have any subsidiary or associate companies. 
+4. The financial results for the quarter ended March 31, 2026 are balancing figures between audited results for the full financial year and the 
+published year to date figures upto the third quarter of the respective financial year which were subjected to limited review. 
+5. During the previous year ended March 31, 2026, the Government of India notified changes to the Labour Codes, the Company carried out 
+a financial impact assessment of the Code on Wages, 2019, which resulted in an increase in liabilities relating to gratuity (i!'306 million) and 
+compensated absences (i!'5 million) arising from past service cost. 
+As a result, the Company recognised a net impact amounting to i!' 123 million, after adjusting related revenue, amounting to i!' 188 million, 
+summarized as below: 
+(i!' in millions) 
+Particulars Amount 
+Total past service cost (A) 311 
+Related revenue (B) 188 
+Exceptional Item Net (A-B) 123 
+Given the non-recurring nature of this impact arising from the application of the requirements of the Labour Codes, the Company presented 
+the net impact amounting to i!' 123 million as an Exceptional Item in the Statement of Profit and Loss for the quarter and year ended March 
+31, 2026. 
+6. Amount less than i!' 0.5 million has been rounded off and shown as i!' 0 million. 
+Place: Pune 
+Date : July 29, 2026 For Honeywell Automation India Llmited 
+'Y> 
+AtulVinay ~ 
+Managing Director 
+DIN: 02704506 
+Regd. Office: 56 & 57, Hadapsar Industrial Estate, Pune 411 013 
+Email : HAIL.investorservices@honeywell.com I Web site https://www.honeywell.com /in/en/hail 
+Walker Chandiok &_Co LLP 
+Walker Chandiok & Co LLP 
+3rd floor, Unit No. 310 to 312, 
+West Wing, Nyati Unitree 
+Nagar Road, Yerwada, 
+Pune-411 006 
+Maharashtra , India 
+T +91206744 8888 
+F +91 20 6744 8899 
+Independent Auditor's Review Report on Unaudited Quarterly Financial Results of the 
+Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (as amended) 
+To the Board of Directors of Honeywell Automation India Limited 
+1. We have reviewed the accompanying statement of unaudited financial results ('the 
+Statement') of Honeywell Automation India Limited ('the Company ') for the quarter ended 30 
+June 2026, being submitted by the Company pursuant to the requirements of Regulation 33 
+of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as 
+amended) ('Listing Regulations') . 
+2. The Statement , which is the responsibility of the Company 's management and approved by 
+the Company's Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34, Interim Financial 
+Reporting ('Ind AS 34'), prescribed under section 133 of the Companies Act, 2013 ('the Act'), 
+and other accounting principles generally accepted in India and is in compliance with the 
+presentation and disclosure requirements of Regulation 33 of the Listing Regulations . Our 
+responsibility is to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity, issued by the Institute of Chartered Accountants of India. 
+A review of interim financial information consists of making inquiries, primarily of persons 
+responsible for financial and accounting matters, and applying analytical and other review 
+procedures. A review is substantially less in scope than an audit conducted in accordance 
+with the Standards on Auditing specified under section 143(10) of the Act, and consequently, 
+does not enable us to obtain assurance that we would become aware of all significant matters 
+that might be identified in an audit. Accordingly , we do not express an audit opinion. 
+Chartered Accountants Walker Chandiok & Co LLP is registered 
+with limited liability with identification 
+Offices in Ahmedabad, Bengaluru, Bhubaneswar, Chandigarh, Chennai, Dehradun, Goa, Gurugram, Guwahati, Hyderabad, Indore, number AAC-2085 and has its registered 
+Kechi, Kolkata, Mumbai, New Delhi, Naida and Pune office at L-41, Connaught Circus, Outer 
+Circle, New Delhi, 110001, India 
+Walker Chandiok &_Co LLP 
+4. Based on our review conducted as above, nothing has come to our attention that causes us 
+to believe that the accompanying Statement, prepared in accordance with the recognition and 
+measurement principles laid down in Ind AS 34, prescribed under section 133 of the Act, and 
+other accounting principles generally accepted in India, has not disclosed the information 
+required to be disclosed in accordance with the requirements of Regulation 33 of the Listing 
+Regulations , including the manner in which it is to be disclosed , or that it contains any material 
+misstatement. 
+For Walker Chandiok & Co LLP 
+C · artered Accountants 
+Fir istration No: 001076N/N500013 
+I • 
+Partner 
+Membership No.: 206931 
+UDIN: 26206931VHLWLY1597 
+Place: Pune 
+Date: 29 July 2026 
+Page 2 of 2 

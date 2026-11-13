@@ -1,0 +1,269 @@
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala, 
+Bengaluru -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+  February 11, 2026  
+  Dear  Sir/Madam,  
+Sub: Communication to Shareholders – Financial Results for the quarter and nine months ended 
+December 31, 2025  
+With reference to our letter dated February 09, 2026, please find enclosed herewith an e -mail 
+communication dated February 11, 2026,  pertaining to key highlights of the Company's performance for 
+the quarter and nine months ended December 31, 2025, which has been sent to all the shareholders 
+whose e -mail IDs are registered with the Company/Depositories.  
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For Happiest Minds Technologies Limited  
+Praveen Kumar Darshankar  
+Company Secretary & Compliance Officer  
+   Membership No. F6706  Listing  Compliance  & Legal  Regulatory  
+BSE Limited  
+Phiroze Jeejeebhoy Towers   
+Dalal  Street,  Mumbai  400001  
+Stock  Code:  543227, 974820 & 975101  Listing  & Compliance  
+National  Stock  Exchange  of India  Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra  East,  Mumbai 400  051 
+Stock  Code:  HAPPSTMNDS  
+
+RESULTS
+FY 26Q3
+REVENUES
+$ 65.7 Mn
+CC REVENUE GROWTH
+YoY 7.1%
+YoY 13.0% YoY 5.1%Clients
+297
+People
+6,548
+Adjusted
+PATEBIDTA
+₹ 6,992
+Lakhs
+YoY 8.8%OPERATING
+MARGIN
+₹ 10,087
+Lakhs₹ 12,283
+Lakhs
+Dear Shareholders,
+Greetings from Happiest Minds Technologies LimitedThe Board of Directors of the Company at their meeting held on 
+February 09, 2026, has approved the unaudited financial statements of the Company for the quarter and nine months ended as on December 31, 2025.
+Please find the shareholder’s report on the financial results and related 
+matters attached herewith.
+For further details, you can visit the Company’s website
+https://www.happiestminds.com/investors/
+Thanking you,
+Yours faithfully,
+Praveen Kumar Darshankar
+Company Secretary & Compliance OfficerHappiest Minds Technologies Limited
+With AI First. Agile Always., we have launched AI First as our 11th strategic transformation, supported by 11 strategic programs that together define how Happiest Minds will build, deliver, and scale value in an AI-driven world. We have already made considerable progress across several of these programs, and we expect this momentum to accelerate the growth of Happiest Minds. This is clearly visible in how AI is being operationalized across our company and for our clients. I would also like to take cognisance of a recent AI-related announcement that has created some turbulence in global markets for software companies. I want to assert that this development represents an opportunity, not a threat, for Happiest Minds and, we believe, for other IT services companies as well.
+ASHOK SOOTA
+CHAIRMAN & CHIEF MENTOR
+Happiest Minds has embraced becoming India’s leading AI First customer-centric digital engineering and Mindful IT company, helping clients to transition and succeed in an AI-competitive world. AI First also aligns with our customers’ shift from using AI at the edges to making it the core of their business strategy. We are excited about the scale and depth of impact towards improving productivity and delivering value to our customers. We believe that AgenticAI approach using a Hybrid Coding paradigm – Coding Agents and Human Developers – presents a huge untapped opportunity of modernizing applications and platforms that customers were shying away from because of lack of business logic understanding and the risk this posed while also getting huge productivity enhancements. We are in discussion with several customer and PE firms and their portcos to help address their tech debt in a cost-efficient and risk-free manner.
+A key pillar of this journey is our AI Services Delivery Platform built for speed, scale and value. The platform brings together proven frameworks, reusable components and intelligent agents to help enterprises move AI initiatives from pilots to production. It is already in use with customers and is designed to reduce time to market while improving service delivery productivity across all industries we serve. Solutions built on this platform are delivering tangible outcomes today. Following its successful implementation with a healthcare customer, the platform is now being scaled across verticals to accelerate time to market and improve service delivery productivity.
+Our AI First spans four areas—building advanced AI 
+solutions, AI native software development, ITSM, and cybersecurity. We are delivering AI assistants that go beyond chatbots, domain specific copilots embedded in workflows, and intelligent search tools that boost productivity. At the platform level, we modernize legacy systems, integrate autonomous workflows, and add governance agents to ensure compliance, while in operations we provide AI powered support agents, sales automation, and predictive insights that reduce costs and improve performance. 
+We now have 32 Generative AI & Agentic AI use cases 
+that have successfully moved beyond prototypes, many of which are scaling into full projects with the potential to be replicated across dozens of accounts in multiple verticals. 
+Our recent wins demonstrate how our AI First strategy 
+is moving from experimentation to real business transformation. Partnering with a premium interiors retailer in Australia to build a GenAI powered sales assistant that enables image, text and voice-based product discovery, automated quote generation and seamless customer onboarding through natural language interactions. Collaborating with a leading academic and research institution in Asia to transform their end-to-end operations through digital and AI-driven initiatives, enabling a future-ready campus experience.
+SRIDHAR MANTHA
+CEO, GENERATIVE AI BUSINESS SERVICES (GBS)
+JOSEPH ANANTHARAJU
+C0-CHAIRMAN & CEO
+We continue to deliver healthy revenue growth and operating and EBITDA margins in line with our commitments. I would like to draw your attention to the adjusted PAT, which, excluding non-cash acquisition costs and the one-time wage code charge, stood at 11.6% in the quarter, compared to 11.0% in the previous quarter. Supported by robust cash flows and a steadfast focus on long-term value creation through our AI First approach, we remain well positioned to drive sustainable growth, profitability, and returns for our stakeholders. We plan to double down on our AI/GenAI investments and build a dedicated 1,000+ team by end of FY27.
+VENKATRAMAN NARAYANAN
+MANAGING DIRECTOR
+KEYPROJECT WINS
+AWARDSFor a Global FMCG leader in in Plant-Based Food, Happiest Minds is using GenAI driven automation to monitor over 14,000 global vendors against sanctions and regulatory watchlists
+For a global life sciences strategic partner, Happiest Minds is conducting an independent AI solution assessment to support due diligence for a potential acquisitionFor a top United States based insurance provider, Happiest Minds is defining their AI roadmap and reference architecture to enable enterprise wide AI adoption
+For a US healthcare BPO company, Happiest Minds is helping them optimize their entire cloud infrastructure For a Fortune 500 global consumer goods company, Happiest Minds is building and managing their sampling & trial generation management system
+For a premier academic and research institution in Asia, Happiest Minds is driving digital and AI based transformation to enable a future ready campusFor a premium furniture and homeware ANZ retailer, Happiest Minds is engaged in the delivery of a Gen AI solution for a quote management solution. Additionally, we are also defining the strategy and delivering an enterprise integration platform
+For a premium Indian educational institute, Happiest Minds is helping them create a future-ready digital transformation blueprint for their learning platforms
+ANALYST MENTIONS
+
+Dear Stakeholder, 
+We are pleased to share that FY26 has continued on a steady and resilient note for Happiest Minds . For the 
+nine months ended December 31, 2025 , your Company delivered revenues of ₹1,711 crore , up 12.8% year-
+on-year, with constant-currency revenue growth of 10.2% . EBITDA stood at ₹367 crore , with a margin of 
+20.6%, comfortably within our guided range. Adjusted PAT for the period was ₹208 crore , compared to ₹195 
+crore in the previous year, reflecting disciplined execution and prudent financial management. 
+In Q3, total income stood at ₹603.7 crore , up 8.9% year-on-year , while revenues were ₹587.6 crore , growing 
+10.7% year-on-year . EBITDA for the quarter was ₹123 crore , translating to a margin of 20.4%, and 
+operating margin improved to 17.4% , up 40 basis points sequentially , driven by improved utilization and 
+better profitability in the GBS segment, despite fewer working days and forex losses during the quarter. 
+Adjusted PAT stood at ₹69.9 crore , which is PAT adjusted for the non-cash acquisition costs and exceptional 
+item which in the quarter was the ‘charge for the new wage code’ was at 11.6% compared to the 11% in the 
+previous quarter.  
+Operationally, utilization increased to 82.0%, the highest in recent times, reflecting better deployment and 
+execution discipline. Attrition remained stable at 17.4% , while DSO increased to 92 days , with continued focus 
+on collections and billing discipline. 
+As we progress through FY26, we remain focused on sustaining double-digit constant-currency growth , 
+maintaining EBITDA margins in the 20–22% range , and executing our AI First strategy to drive long-term value 
+creation for all our stakeholders. 
+We thank you for your continued trust and support. 
+Key financial and operational highlights for the quarter are given below. For any questions, please reach out to 
+IR@happiestminds.com   
+Thank you. 
+Yours faithfully, 
+Venkatraman Narayanan 
+Managing Director 
+  
+ 
+All amounts in ₹ Lakhs unless stated otherwise 
+ 
+ 
+ 
+Key Financial Highlights 
+ 
+Quarter ended December 31, 2025   Nine months ended December 31, 2025  
+Revenue in constant currency grew 1.2% q-o-q 
+and 7.1% y -o-y  Revenue in constant currency grew 10.2% y-o-y  
+Operating Revenues in US $ stood at $65.7 million 
+growing 1.0% q-o-q and 4.8% y-o-y  Operating Revenues in US $ stood at $195,226 
+million growing 8.1% y-o-y  
+Total Income of ₹ 60,328 lakhs growing 1.4% q-o-q 
+and 8.9% y -o-y  Total Income of ₹ 177,840  lakhs growing 11.7% 
+YoY 
+EBITDA of ₹ 12,283  lakhs, 20.4% of Total Income 
+Delivering constant/steady EBITDA margin QoQ 
+2.1% & 5.1% YoY.   EBITDA of ₹ 36,716 lakhs, 20.6% of Total Income 
+(growth of 4.2% y-o-y)  
+PAT of ₹ 4030  lakhs 6.7% of Total Income   PAT of ₹ 15,146 lakhs 8.5% of Total Income 
+(growth of 0.5% y-o-y) *  
+Adjusted PAT of ₹ 6,992 Lakhs and Adjusted EPS at 
+₹ 4.64  Adjusted PAT of ₹ 20,728 Lakhs and Adjusted EPS 
+₹13.77 
+ Particulars Q3 FY26 Q2 FY26 QoQQ3 FY25 YoY 9M FY26 9M FY25 YoY
+Revenues ($’000) 65,744 65,122 1.0%62,719 4.8% 1,95,226 1,80,651 8.1%
+Growth in CC 1.2% 7.1% 10.2%
+Revenues 58,756 57,357 2.4%53,081 10.7% 1,71,103 1,51,627 12.8%
+Other Income 1,572 2,161 2,296 6,736 7,543
+Total Income 60,328 59,518 1.4%55,377 8.9% 1,77,840 1,59,170 11.7%
+EBITDA 12,283 12,027 2.1%11,686 5.1% 36,716 35,240 4.2%
+% 20.4% 20.2% 21.1% 20.6% 22.1%
+Operating Margin 10,087 9,733 3.6% 9,269 8.8% 29,542 27,845 6.1%
+% 17.4% 17.0% 17.5% 17.3% 18.4%
+Finance Cost             2,354          2,446          2,442                 7,186             6,733 
+Depreciation             1,166          1,165          1,172                 3,512             3,512 
+Profit before Non Cash/Exceptional 7,624 7,266 4.9% 6,894 10.6% 22,577 20,507 10.1%
+% 12.6% 12.2% 12.4% 12.7% 12.9%
+Amortization/Unwinding Interest1            1,150          1,150          1,178                 3,450             3,845 
+Exceptional Item - New wage code cost2            2,203                   -                   2,203                (643)
+PBT 5,421 7,266 (25.4)% 6,894 (21.4)% 20,374 20,507 (0.6)%
+% 9.0% 12.2% 12.4% 11.5% 12.9%
+Tax 1,391 1,864 1,884 5,229 5,442
+% 2.3% 3.1% 3.4% 2.9% 3.4%
+PAT 4,030 5,402 (25.4)% 5,010 (19.6)% 15,146 15,065 0.5%
+% 6.7% 9.1% 9.0% 8.5% 9.5%
+Adjusted PAT 6,992 6,552 6.7% 6,188 13.0% 20,728 19,552 6.0%
+% 11.6% 11.0% 11.2% 11.7% 12.3%
+Adjusted EPS 4.64 4.46 4.11 13.77 12.99
+  
+ 
+ 
+ 
+Q3 Key Wins 
+ 
+For a Global FMCG leader in in Plant-Based 
+Food, Happiest Minds is using GenAI-driven 
+automation to monitor over 14,000 global 
+vendors against sanctions and regulatory 
+watchlists  For a top United States-based insurance 
+provider , Happiest Minds is defining their AI 
+roadmap and reference architecture to enable 
+enterprise-wide AI adoption  
+For a global life sciences strategic partner , 
+Happiest Minds is conducting an independent AI 
+solution assessment to support due-diligence for 
+a potential acquisition  For a Fortune 500 global consumer goods 
+company , Happiest Minds is building and 
+managing their sampling & trial generation 
+management system 
+For a US healthcare BPO company , Happiest 
+Minds is helping them optimize their entire cloud 
+infrastructure  For a premium furniture and homeware ANZ 
+retailer, Happiest Minds is engaged in the 
+delivery of a Gen AI solution for a quote 
+management solution. Additionally, we are also 
+defining the strategy and delivering an enterprise 
+integration platform 
+For a premier academic and research 
+institution in Asia , Happiest Minds is driving 
+digital and AI-based transformation to enable a 
+future-ready campus  For a premium Indian educational institute , 
+Happiest Minds is helping them create a future-
+ready digital transformation blueprint for their 
+learning platforms 
+ 
+ 
+Clients 
+297 
+as of December 31, 2025 
+ 
+11 additions in the quarter 
+Our People – Happiest Minds 
+6548 Happiest Minds 
+as of December 31, 2025  
+ 
+Trailing 12-month attrition of 17.4% (17.4% 
+in the previous quarter) 
+ 
+Utilization of 82%, from 80.7% in last quarter 
+ 
+  
+Award Wins 
+ 
+ 
+ 
+Analyst Mentions 
+ 
+ Happiest Minds is among ‘Major Contenders’  in Everest Group’s Quality Engineering Specialist 
+Services and Enterprise Quality Engineering Services PEAK Matrix Assessment 2025 
+ Happiest Minds is among “Challengers”  in Avasant Intelligent Enterprise Automation in Intelligent 
+Automation Services 2025 
+ Happiest Minds has received multiple recognitions in ISG’s Manufacturing Industry Services & 
+Solutions 2025: 
+ Rising Star  in Technology, Transformation and Consulting Services. 
+ Product Challenger  in Design and Development Services. 
+ Contender  in Smart/Digital Factory Services & Supply Chain and Aftermarket Services.
+  
+ Happiest Minds is among “Product Challengers”  in ISG’s Data Science & AI Services (Midsize) , Data 
+& Analytics Modernization Services (Midsize) 
+ Happiest Minds is among 'Major Players and High Achievers ’ in Nelson Hall’s GenAI & Process 
+Automation in Banking 2025 
+ Happiest Minds is among ‘Leaders Quadrant’  in AIM Research’s Top Mid-Market and Specialized Data 
+Science Service Providers. 
+ 
+ 
+ 
+ 
+ 
+Happiest Minds won 
+the Best Use of AI in 
+DevOps (IT Services) 
+award at the 9th Edition 
+India DevOps Show 
+2025 
+Happiest Minds 
+Recognized by Avtar 
+and Seramount Among 
+2025 Best Companies 
+for Women in IT and as 
+an Exemplar in the 
+Most Inclusive 
+Companies Index 
+Happiest Minds’ 
+Integrated Annual 
+Report 2025 wins 
+double Gold, ranks #56 
+globally at LACP 
+Spotlight Awards 
+Happiest Minds 
+Recognized for 
+Excellence in People 
+Analytics at the SHRM 
+Excellence Awards 2025 

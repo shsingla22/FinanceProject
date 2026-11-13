@@ -1,0 +1,139 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 22/2026-27 
+ 
+July 22, 2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS study reveals Physical AI 
+is now mainstream as manufacturers scale AI implementation ” which will be 
+disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+TCS study reveals Physical AI is now mainstream as 
+manufacturers scale AI implementation  
+77% expect significant transformation in warehouse operations, followed by assembly and 
+manufacturing operations at 75%   
+Manufacturers commit to long -term physical AI investment as enterprise -wide deployment ramps 
+up 
+FARNBOROUGH , UK | MUMBAI, July 2 2, 2026:  Tata Consultancy Services  (TCS) (BSE: 532540, NSE: 
+TCS), a global leader in IT services, consulting, and business solutions, today announced the findings 
+of the Future -Ready Manufacturing: TCS Physical AI Readiness Report  2026 .  
+The report  reveals  that as manufacturers increase their AI investments, the focus is shift ing from 
+standalone  automation  projects to larger  physical AI ecosystems. It highlights that companies see 
+physical AI as a people -first transformation. Instead of replacing  the workforce , manufacturers are  
+using intelligent systems  to help employees work more safely , efficiently , and productiv ely while 
+supporting workforce redeployment where needed  in a Human + AI Operating model .  
+The report also highlights how enterprises are preparing to scale physical AI across factories, 
+warehouses, logistics networks, maintenance operations, and quality management environments. 
+It provides insights into the strategies, challenges, and opportunities involved in adopting physical 
+AI at scale.  The study builds on  TCS’  partnership with  Google Cloud , following the  March 2026  launch 
+of the TCS Physical AI Gemini Experience Center in Troy, Michigan. The center helps  manufacturers 
+explore, test, and scale physical AI use cases for safety, quality, and operational efficiency with 
+intelligence at the core.  
+The study survey ed CXOs and vice presidents  from  300 manufacturing companies across North 
+America and Europe  between March and April 2026.  Respondents r epresented sectors such as 
+automotive, electronics and high -tech manufacturing, industrial equipment and machinery, process 
+industries, and aerospace and defense .  
+Key findings from the study  include : 
+• Manufacturers are committing to long -term investment:  No surveyed organization pl ans to 
+reduce Physical AI investment, while 26% plan to increase spending. Manufacturers are 
+preparing for longer value -realization timelines, underscoring sustained transformation over 
+short -term pilots.  
+• High impact expected in warehouse operations : 77% anticipat e significant or 
+transformational impact, followed by assembly and manufacturing operations at 75%  and 
+logistics and material movement at 72% . 
+ 
+Page 2 of 3 
+ 
+• Human -centric transformation is taking shape:  42%  of manufacturers expect significant 
+workforce augmentation through Physical AI  by improv ing safety and supporting workers in 
+complex, hazardous, or repetitive industrial environments.  
+• Early -stage adoption, clear roadmap to scale:  68% of manufacturers remain in non -
+deployment or experimental stages, with legacy system integration, data infrastructure, and 
+workforce skills identified as the primary paths to enterprise -scale deployment.  
+• Governance is the next frontier:  44% report unclear or no formal accountability structure 
+for Physical AI failures, and 40% are unprepared for emerging regulatory requirements , 
+signaling where manufacturers should focus as deployment accelerates.  
+Anupam Singhal, President , Manufacturing, TCS , said, “ Physical AI is taking intelligence beyond the 
+screen and onto the shop floor, where machines sense, adapt and act in real time. The manufacturers 
+that scale it successfully will define the next era of manufacturing. TCS’ ‘infrastructure to intelligence’ 
+approach positions them to lead that transformation. With all the manufacturers in our study 
+planning to either maintain or increase the investment, the direction is clear: towards more resilient, 
+adaptive, and future -ready manufacturing enterprises. ” 
+Kevin Ichhpurani, President, Global Partner Ecosystem, Google Cloud , said, “ Physical AI is moving 
+manufacturing from digital insight to autonomous real -world action. Through our partnership with 
+TCS, we  are bringing Gemini’s multimodal reasoning to the factory floor, enabling robots and 
+systems to operate safely and intelligently in complex industrial environments. ” 
+TCS is help ing global manufacturers  move from pilots to enterprise -scale physical AI adoption  by 
+bridg ing the gap between digital ambition and physical deployment.  This is enabled through the TCS 
+Physical AI Gemini  Experience  Cent er, in Troy, Michigan . Similarly , the TCS Physical AI Blueprint 
+offer s an end -to-end framework  that integrates AI -powered quadruped and humanoid robotics with 
+advanced sensing, edge intelligence, and secure cloud orchestration to deliver real -time operational 
+insight and autonomous decision support.   
+These capabilities , combined with  TCS’  deep manufacturing domain expertise , help  enterprises  
+build scalable, governed, and future -ready Physical AI ecosystems.  
+About Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -
+leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards 
+of innovation, engineering excellence and customer service . 
+It has set an aspiration to become the world's largest AI -led technology services company and is 
+enabling its clients to transform themselves across the full AI stack, from infrastructure to 
+intelligence.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, 
+its investors, its employees, and the community at large. With a highly skilled workforce spread 
+across 56 countries and 194 service delivery centers  across the world, the company has been 
+recognized as a top employer in six continents. With the ability to rapidly apply and scale new 
+ 
+Page 3 of 3 
+ 
+technologies, the company has built long term partnerships with its clients. Many of these 
+relationships have endured into decades and navigated every technology cycle, from mainframes in 
+the 1970s to artificial intelligence today.  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS 
+New York City Marathon, TCS London Marathon, Tata Mumbai Marathon, and TCS Sydney Marathon 
+with a focus on promoting health, sustainability, and community emp owerment.  
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2026.   
+For more information,  visit  www.tcs.com  
+Follow TCS on  LinkedIn  | Instagram  | YouTube  | X 
+TCS media contacts:  
+Corporate Communicatio ns  
+India  Email:  corporate.communications@tcs.com  
+Email: santosh.castelino@tcs.com | Phone: +91 22 6778 9999  
+Email: rhea.mistry@tcs.com  
+ 
+### 
+ 
+ 

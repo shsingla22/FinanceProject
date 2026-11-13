@@ -1,0 +1,71 @@
+Date: February 19, 202 6 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai – 400001 India  National Stock Exchange of India Limited 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400051 India  
+Scrip Code: 543529  Symbol: DELHIVERY  
+Sub:  Press Release-  Delhivery Builds AI-Powered Location Intelligence for Bharat with NVIDIA 
+Dear Sir/ Madam, 
+Pleas e find enclo sed herewith a copy of the pre ss rele ase titled “Delhivery Builds AI-Powered Location 
+Intelligence for Bhara t with NVIDIA ”. 
+The press release will also b e host ed on the Company’s website at www.delhivery.com. 
+You are requested to take the abov e on record. 
+Than k you.  
+Yours sincerely, 
+For Delhivery Limited 
+Madhulika Rawat 
+Company Secretary & Compliance Officer 
+Membership No.: F8765 
+Encl: As above 
+ 
+ 
+ 
+Delhivery Builds AI -Powered Location Intelligence for Bharat with NVIDIA  
+  
+New Delhi, India — February 19, 2026:  Delhivery  (NSE: DELHIVERY, BSE: 543529), today 
+announced that it is advancing the development of digital mapping solutions tailored specifically to 
+Bharat’s complex geography and unique addressing systems with NVIDIA AI.  
+  
+Announced at the India AI Summit, Delhivery aims to leverage NVIDIA accelerated computing, 
+NVIDIA CV -CUDA, and  NVIDIA Nemotron  open models to design highly accurate, scalable and 
+locally relevant maps to support India’s growing digital economy by unlocking the potential of 
+Delhivery’s petabytes of proprietary data accumulated over several years. Key capabilities being 
+evaluated i nclude address disambiguation to distinguish between phonetically similar addresses and 
+localities, contextual inference to decipher unstructured descriptions, and predictive sequencing to 
+optimize last -mile routes in dense, unplanned urban areas.  
+  
+India’s geographic diversity, rapid urbanization and unique addressing systems present a distinct 
+challenge for conventional mapping tools built for other nations. Addresses in the Indian 
+subcontinent are often unstructured, relying heavily on community la ndmarks, variable sequencing, 
+and local vernacular rather than standardized global coordinates. Through this collaboration, 
+Delhivery aims to harness NVIDIA’s open models to tackle critical hurdles unique to India.  
+ 
+“Bharat needs mapping solutions that operate at scale and can understand the pulse of its streets. 
+Standard global mapping tools often struggle with nuances of Indian addresses. By combining 
+Delhivery’s dataset of billions of shipments with NVIDIA’s accele rated computing, we are exploring 
+a location intelligence layer to power India’s digital growth,”  said Kapil Bharati, Co -founder & Chief 
+Technology Officer, Delhivery.  
+ 
+“NVIDIA technologies are enabling developers and companies to turn complex data into actionable 
+insights,”  said Vishal Dhupar, managing director, Asia South, NVIDIA.   “Delhivery’s work 
+demonstrates how NVIDIA AI infrastructure and open AI models like NVIDIA Nemotron can help 
+address large -scale geospatial challenges to help India technology leaders provide a new wave of 
+AI-powered applications and services.”  
+  
+With a focus on performance, scalability and local relevance, Delhivery’s India -first mapping 
+platform aims to serve as  the foundational digital infrastructure for applications that require precise, 
+intelligent and up -to-date location data.  
+  
+  
+
+About Delhivery:  
+Delhivery is India's largest logistics services provider. The company is a leading provider of logistics 
+services including e -commerce and express parcel transportation, on -demand logistics, part truck -
+load (PTL) freight, full -truckload (FTL) freight servi ces, cross -border air express and freight 
+services, warehousing and supply chain solutions, data services and software including warehouse 
+management and transportation management systems to over 51,000 clients. For more information 
+about Delhivery, please  visit www.delhivery.com .  
+ 

@@ -1,0 +1,274 @@
+
+=== page 1 ===
+ 
+ 
+ 
+  
+Registered Office: Bosch Limited, Hosur Road, Bangalore-560030, Karnataka, India     
+Managing Director:  Guruprasad Mudlapur,  Joint Managing Director:  Sandeep N   Bosch Limited  
+Post Box No:3000 Hosur Road, Adugodi 
+Bangalore-560030 
+Karnataka, India   Tel +91 80 67523878 
+www.bosch.in 
+L85110KA1951PLC000761 Secretarial.corp@in.bosch.com     
+ 
+     
+  
+ 
+    February 17, 2025 
+Dear Sir/Madam, 
+Sub: Initimation under Regulation 30 of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 
+2015- Investor Presentation. 
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Re gulations, 2015 and further to our earlier 
+letter dated February 11, 2025, intimating the Investor/Analyst meet scheduled for 
+February 18, 2025, we enclose herewith the presentation for the investor conference, 
+‘Chasing Growth’,  organized by Kotak Securities Limited. 
+This is for your information and records. 
+Yours faithfully, 
+for Bosch Limited, 
+ 
+  
+ 
+V. Srinivasan Company Secretary & Compliance Officer   
+ 
+Corporate Relationship Department 
+BSE Limited 1
+st Floor, New Trading Ring 
+Rotunda Building Phiroze Jeejeebhoy Towers 
+Dalal Street, Fort Mumbai – 400 001 
+Scrip code:500530  
+ 
+The Manager 
+Listing Department National Stock Exchange of India Ltd. 
+Exchange Plaza, C-1, Block G Bandra-Kurla Complex 
+Bandra (E) Mumbai – 400 051 
+Scrip code: BOSCHLTD           
+   
+=== page 2 ===
+Future of Mobility
+Kotak 's Annual Investor Conference
+February 18, 2025
+
+=== page 3 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+Bosch Limited | Kotak’s Annual Investor Conference
+Guruprasad Mudlapur
+Managing Director and Chief 
+Technology Officer, Bosch Limited 
+and President, Bosch Group India
+=== page 4 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+Kotak’s  Annual Investor Conference 2025Future of Mobility
+At the outset, we would like to reinforce our Safe Harbor statement. In today’s 
+interactions and presentation, there may be some predictive statements that 
+reflect our current views about Bosch Limited’s future performance, but these 
+are subject to risks and uncertainties
+-Safe Harbor Statement
+=== page 5 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+Megatrends
+Automotive tech trends
+Consumers stack and buying
+Tech -stack and architecture 
+Future of mobility …Future of Mobility
+
+=== page 6 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+MegatrendsFuture of Mobility
+“Disruptions & boundary conditions that are shaping the Indian Economy”
+Renewables Middle class Demography Urbanization Digitalization
+~50% RE by 2030, 
+Policy support Doubling per capita 
+income  by 2030~50% GenZ & Millennial’s 
+by 20302x rise in urban 
+population by 2030Digital economy will 
+contribute to 20% by 2030
+No legal advice -provided for informational purposes strictly on a non- reliance basis.
+=== page 7 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+Key Automotive Technology Trends 2025Future of Mobility
+No legal advice -provided for informational purposes strictly on a non- reliance basis.
+Advanced sensor & 
+perception systems enabling L2++ ADAS
+Mixed fuel powertrain options will co-exist alongside electrification
+E/e architecture led changes for performance compute : Software & Hardware decoupling. OEM control via Operating Systems. Connected cockpits for 
+enhanced user experience, HD 
+maps, HUD, voice commands, 
+AI based personalization's 
+Occupant & asset safety with safety features like 6x Air bag, ESP, cyber security, DMS, OMS
+3
+rdparty software & content 
+aggregation, white -labelling. 4K 
+HDR interoperable displaysBusiness model innovation to accelerate technology adoption, 
+like ecosystem charging, BaaS & 
+ownership models Data based monetization & 
+feature augmentation post 
+vehicle sale via SDV journey. 
+Moving towards sustainable, safe and exciting future
+=== page 8 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+India’s Consumer Stack – Buying capabilities (current view)Future of Mobility
+India-1
+India-2
+India-3The Consuming 
+class
+The Aspirant 
+class
+The less 
+monetizable 
+class120Mn people    
+~$15K per capita
+300Mn people    
+~$3K per capita
+1Bnpeople        
+~$1K per capitaDoes not have that kind of income to do 
+discretionary spending.
+Do not have CIBIL scores to secure personal loans Young (18~35), middle income, aspirational, 
+consumes offerings that is acceptable in CN marketBit older, middle income, novelty/status buyingEffluent class , choices like west, luxury & brand
+2.1   2.02.2India Class descriptionPopulation & per 
+capita incomeArchetype / persona of this buying class9% 21% 70%% of population
+Concept of India Stack, Ref: Kishore Biyani’s book, “It Happened in India”
+No legal advice -provided for informational purposes strictly on a non- reliance basis.Aspirant class represents majority of the target consumer
+=== page 9 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+… and the cars that they buy ! Future of Mobility
+India- 3India- 1
+India- 2$45,000 & upwards
+$30,000~45000
+$20,000~30,000
+$15,000~20,000
+$9,000~$15,000
+> $3500~$6000 ( pre- owned car market)Avg. ticket size of 
+car they buy% share in 
+volume
+1%
+2%
+25%
+42%
+..Upto $9,000 30%OEM labels & their playing fields
+Luxury car brands:                                                              
+Mercedes, Audi, BMW, Volvo, JLR, Toyota
+Premium Models (Top trims):                                                                         
+Mahindra- XUV, Scoprio,Thar MG-Hector, Tata -Harrier, Kia -
+Carnival,  HY -Alcazar,Creta, Toyota: Hyryder , Innova, Jeep, 
+Suzuki -Invicto , Skoda- Octavia,  Suzuki -Grand Vitara
+Base of above models & Other popular models : Tata -Nexon, 
+Suzuki -Baleno, Kia -Sonet, Breeza, Ertiga , Swift , Scorpio
+Alto, WagonR , Tiago. Celerio, Spresso , Punch9%
+21%
+70%% share in 
+population
+India 2 population is growing: Premiumization as a trend due to the consumer spread
+No legal advice -provided for informational purposes strictly on a non- reliance basis.
+=== page 10 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+Market of future calls for new approaches to business– “Tech- stack”Future of Mobility
+From many Individual 
+solutions
+From hardware embedding software …
+From Pure offerings in the vehicle …… to five holistic integrated 
+core areas
+… to separate hardware and 
+software applications
+… to a stronger focus on 
+hardware and software inside 
+and outside the vehicleSoftware
+Software
+Hard ware
+ECUs, smart sensors & actuatorsServicesProcesses, methods & tools
+•Application Software
+•Operating System/SDV2
+•Compute
+•Embedded ECU3
+•Semiconductor ComponentsADAS1Motion EnergyBody & 
+ComfortInfotain--
+ment
+ADAS : Advanced Driver Assistance System    SDV : Software Defined Vehicle    ECU : Electronic Control Unit  
+No legal advice -provided for informational purposes strictly on a non- reliance basis.
+=== page 11 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+stronger focus on software & 
+hardware, inside & outside the 
+vehiclegoing forward.. ~2027+
+Onboard 
+(in vehicle)Offboard (outside of vehicle)
+Operating systemApplication software
+Hardware/ Compute
+2-Box
+3-Boxso far..
+Onboard (in vehicle )HW, incl. embedded SW
+TCU
+Chassis -canADAS- canPWT -canIVI-canDiagnostic -can
+High-Performance computeGateway... architecture led transition in OEM’s 
+No legal advice -provided for informational purposes strictly on a non- reliance basis.
+Tech -stack: the market view
+=== page 12 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+Emerging mobility trends in India: “No more just an owner -based segment”Future of Mobility
+No legal advice -provided for informational purposes strictly on a non- reliance basis.People MobilityChanging Paradigm of urban mobility
+TRAFFIC 
+CONGESTIONS
+INCREASED 
+TRANSIT TIMERISE IN AIR 
+POLLUTION
+HIGHER 
+VEHICLE COST
+PARKING 
+ISSUES
+OVER 
+CROWDING
+Urbanization 
+in India40%
+2030Mobility as a Service ( MaaS )
+Shared Mobility
+ Subscription
+Share use of vehicle on need 
+basisOwnership of vehicle through rentals or subscriptions
+Ride Hailing
+(1)
+Ride Sharing
+(2)
+Self Drive
+(3)
+OEM Subscription
+(4)
+Electrification
+ TechnologyGoods MobilityEnergy Independence
+Fleet Optimization
+Asset utilization
+Competitive Logistic cost
+Change drivers 
+ Logistic and Transportation Services
+Logistics Aggregators
+Alternate Fuel
+Last mile 
+delivery
+Electric
+H2-ICE
+ADAS
+V2X
+E/E Arch
+Infotainment
+SaaS
+* 1. Rider hires a vehicle and a driver for personal use | 2. Rider shares the vehicle with other riders travelling | 3. Rider hires a vehicle for personal use for ‘self -driving | 4. Subscri ption offered by OEMs in partnership with firms
+=== page 13 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+SummaryFuture of Mobility
+No legal advice -provided for informational purposes strictly on a non- reliance basis.•E & E Architecture
+•Compute•Regulators
+•Consumers
+•Stakeholders•Simple and solid 
+foundation tech
+•Cheaper compute
+•Gen AI
+Who will define the future?
+ What drives the next gen. tech?
+Key factors
+
+=== page 14 ===
+© Bosch Limited 2025. All rights reserved, also regarding any disposal, exploitation, reproduction, editing, distribution, as well as in the event of applications for industrial property rights.
+Guruprasad Mudlapur
+Managing Director and Chief Technology Officer, Bosch Liminted and President Bosch Group, India
+February 18, 2025Thank you!Future of Mobility

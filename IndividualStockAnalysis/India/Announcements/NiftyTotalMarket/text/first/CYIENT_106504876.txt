@@ -1,0 +1,393 @@
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                              CIN: L72200TG1991PLC013134 
+                            Units Layout, Madhapur                                        www.cyient.com 
+                            Hyderabad -500 081                                               Company.secretary@cyient.com 
+                            India                                                                           T +91 40 6764 1000  
+                                                                                                                F +91 40 2311 0 352 22 January 2026 
+ 
+BSE Limited                                                                            National Stock Exchange of India Ltd                                                 
+PJ Towers, 25th Floor              Exchange Plaza                                                                                      
+Dalal Street                Bandra-Kurla Compl ex, Bandra(E)                                                      
+Mumbai 400001              Mumbai-400 051  Scrip Code: 532175                                         Scrip Code: CYIENT 
+ 
+ Dear Sir/ Madam,  
+Sub: Outcome of Board Meeting   
+This is to inform that the Board of Directors of the Company at their meeting held today has inter-alia  
+approved the following: 
+ 
+1. Un-audited financial results for the quarter and nine months ended 31 December 2025 (Annexure A). 
+2. Resignation of Ms. Matangi Gowrishankar (DIN: 0151 8137) as Independent Director of the Company. 
+3. Reconstitution of Leadership, Nomina tion and Remuneration Committee  
+ 
+Sr. 
+no Name of the Director Category  Position 
+1 Madan Mohan Pillutla Independent Director Chairperson 
+2 MM Murugappan Non- Executive, Non-Independent Director Member 
+3 Nitin Prasad Independent Director Member 
+4 Debjani Ghosh Independent Director Member 
+ 
+4. Closure of Norway Branch of the Company 
+5. Closure of Cyient Israel India Limited, a wholly owned subsidiary of the Company. 
+ 
+The meeting of Board of Directors of the company commenced at 10.30 a.m. and concluded at 3.45 p.m. 
+ 
+This is for your information and records.  
+ 
+Thanking you 
+For Cyient Limited 
+ 
+ 
+ 
+Sudheendhra Putty 
+Company Secretary  
+   
+ 
+  
+CYIENT LIMITED 
+(CIN No.: L72200TG1991PLC013134) 
+Regd office: 4th Floor, "A" Wing, Plot No. 11, Software Units Layout, lnfocity, Madhapur , Hyderabad · 500 081, India 
+Statement of Unaudited Consolidated and Standalone Financial Results for the Quarter and Nine Months Ended December 31, 2025 
+[! in Millions) 
+Consolidated results Standalone results 
+SI. No Particulars uarter Ended Nine Months Ended Year Ended 1 uarter Ended Nine Months Ended Year Ended 
+31-Dec-25 30-Seo-25 31-Dec-24 31-Dec-25 31-Dec-24 31-Mar-25 31-Dec-25 30-Seo-25 31-Dec-24 31-Dec-25 31-Dec-24 31-Mar-25 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+1 Income 
+(a) Revenue from contracts with customers 18,485 17,810 19,264 53,413 54,512 73,604 6,009 5,957 6,125 l 7,4S1 18,054 24,136 
+(b) Other income [refer note 3) 309 500 (166] 1,506 556 966 348 282 [232] 1,217 357 805 
+Total income 18,794 18,310 19,098 54,919 55,068 74,570 6,357 6,239 5,893 18,668 18,411 24,941 
+2 Expenses 
+(a) Employee benefits expense 10,210 10,057 9,506 29,900 27,474 36,899 3,332 3,217 3,444 9,755 10,342 13,781 
+(b) Cost of materials consumed 1,981 1,872 3,391 5,471 8,533 11,357 
+(c) Changes in inventories of finished goods, stock-in-trade and work-in-progress (38) 6 (103) 38 (129) 33 
+(d) Finance costs 141 159 205 463 737 928 22 30 38 81 131 170 
+(e) Depreciation and amortisation expense 701 722 675 2,103 1,993 2,672 199 201 218 602 673 891 
+(f) Other expenses 3,960 3,687 3,681 11,137 10,228 13,882 1,139 1,088 1,255 3,252 3,440 4,656 
+Total expenses 16,955 16,503 17,355 49,112 48,836 65,771 4,692 4,536 4,955 13,690 14,586 19,498 
+3 Profit before share of profit/(loss) from a joint venture, an associate, exceptional items and tax (1-2) 1,839 1,807 1,743 5,807 6,232 8,799 1,665 1,703 938 4,978 3,825 5,443 
+4 Share of loss from a joint venture and an associate (23) (48) (7) (96) (7) (49) 
+5 Profit before exceptional items and tax (3+4) 1,816 1,759 1,736 5,711 6,225 8,750 1,665 1,703 938 4,978 3,825 5,443 
+6 Exceptional items (refer note 4) [423) 207 [216) [2,804) 207 (2,597] 7,831 7,831 
+7 Profit before tax (5+6) 1,393 1,966 1,736 5,495 6,225 8,750 (1,139) 1,910 938 2,381 11,656 13,274 
+8 Tax expense 
+(a) Current tax 506 887 477 1,980 1,781 2,518 452 469 239 1,344 1,603 2,034 
+[b) Deferred tax (85) (350] (18) (460) [I 75) (251] (134) 7 [14) (127) I [6) 
+Total tax expense 421 537 459 1,520 1,606 Z,267 318 476 225 1,217 1,604 2,028 
+9 Net Profit for the period/year (7-8) 972 1,429 1,277 3,975 4,619 6,483 (1,457) 1,434 713 1,164 10,052 11,246 
+Attributahle to: 
+Shareholders of the Company 918 1,275 1,223 3,731 4,453 6,157 [1,457) 1,434 713 1,164 10,052 11,246 
+Non-controlling interests 54 154 54 244 166 326 
+10 Other comprehensive income 
+(a) Other comprehensive income not to be reclassified to profil or loss in subsequent periods: 
+(i) Re-measurement gain/(loss) on defined benefit plans 4 6 [4) 3 [7] 12 4 2 (3) (2) 6 (12) 
+Income tax effect on above [I) (!) l (1) 3 (3) (1) I 1 (1) 3 
+(ii) Fair value change on financial instruments (38) (38) (27 I) 77 
+Income tax effect on above (21) (19) 
+(b) Other comprehensive income to be reclassified to profit or loss in subsequent periods: 
+(i) Exchange differences in translating the financial statements of foreign operations 502 527 [577) 1.857 123 597 
+(ii) Effective portion of gain/(loss) on designated portion of hedging instruments in a cash flow hedge 22 (129) 56 (231) (48) [20) 23 [126) 56 (227) (48) (20) 
+Income tax effect on above (6) 32 (HJ 57 12 5 (6) 32 [14) 57 12 5 
+521 397 (538) 1,647 83 299 21 (93) 40 (171) (31) 34 
+Attributable to: 
+Shareholders of the Company 513 392 (547) 1,634 73 455 21 (93) 40 (171) (31) 34 
+Non-controlling interests 8 5 9 13 10 [156) 
+11 Total comprehensive income (9+10) 1,493 1,826 739 5,622 4,702 6,782 (1,436) 1,341 753 993 10,021 11,280 
+Attributable to: 
+Shareholders of the Company 1,431 1,667 676 5,365 4,526 6,612 (1,436) 1,341 753 993 10,021 11,280 
+Non-controlling interests 62 159 63 257 176 170 
+12 Paid up equity share capital [Face Value off 5 per share] 555 555 
+13 Other equity 52,540 37,114 
+14 Earnings Per Share [Face Value of t 5 per sharel* 
+(a) Basic (in iJ - 8.32 11.55 11.11 33.82 40.48 55.95 [13.20) 12.99 6.48 10.55 91.37 102.20 
+(bl Diluted (in iJ �1Li°& 8.26 11.48 ! I.OZ 33.60 40.14 55.51 (13.20) 12.91 6.42 10.48 90.61 101.39 
+* EPS for the interim periods are not annualised. 
+��� � (Page 1 of3) 
+I� V..°'1 � 1) 
+,<;!J:5ERP..�f) Annexure -A
+NOTES: 
+The above statement of unaudited consolidated and standalone financial results of Cyient Limited (the "Holding Company" or the "Company"), its subsidiaries (the Holding Company and its subsidiaries together referred to as 
+the "Group"), a joint venture and an associate has been prepared in accordance with the Indian Accounting Standards ('Ind AS') prescribed under Section 133 of the Companies Act, 2013 ("the Act") read with relevant rules 
+issued thereunder, other accounting principles generally accepted in India and guidelines issued by the Securities and Exchange Board of India ("SEBI"). These results were reviewed and recommended by the Audit 
+Committee and approved by the Board of Directors at their meetings held on January 21, 2026 and January 22, 2026, respectively. The Statutory Auditors have carried out a limited review of the unaudited consolida ted and 
+standalone financial results and issued unmodified reports thereon. 
+2 On December 17, 2025, the Company's subsidiary, Cyient Semiconductors Private Limited through its wholly owned subsidiary, Cyient Cayman Limited, has entered into a definitive agreement to acquire majority stake in 
+Kinetic Technologies, a global provider of power management, high-performance analog and mixed-signal integrated Circuits, for an aggregate consideration of up to approximately { 8,366 Mn ($ 93 Mn). The proposed 
+acquisition is subject to the fulfilment of customary closing conditions and receipt of applicable regulatory approvals. Consequently, no impact of this transaction has been considered in the consolidated financial results for 
+the quarter and nine months ended December 31, 2025. 
+3 Other income includes: (fin Millions) 
+Particulars Quarter ended Nine Months Ended Year ended 
+Net foreign exchange gain/(loss) 31-Dec-25 30-Sep-25 31-Dec-24 31-Dec-25 31-Dec-24 31-Mar-25 
+Standalone results 116 93 (445] 616 (95) 99 
+Consolidated results 82 66 [482] 613 (143] 37 
+4 Exceptional items include: 
+a.Effective November 21, 2025, the Government of India consolidated multiple existing labour laws into a unified framework comprising four Labour Codes, collectively referred to as the 'New Labour Codes'. Under Ind AS 19, 
+changes to employee benefit plans arising from legislative amendments constitute a plan amendment and require recognition of the resulting past service cost immediately in the statement of profit and loss. The 
+implementation of New Labour Codes has resulted in an estimated one-time increase in provision for employee benefits of the Group and the Com11any of� 423 Mn and { 375 Mn, respectively and the same has been 
+recognized as an 'exceptional item' in the unaudited consolidated and standalone financial results for the quarter and nine months ended December 31, 2025. The Group continues to monitor the finalisation of Central and 
+State rules, as well as Government clarifications on other aspects of the New Labour Codes and will incorporate appropriate accounting treatment based on these developments as required. 
+b. Pursuant to the strategic integration of Cyient Singapore Private limited (wholly owned subsidiary or 'CSPL') operations into other wholly owned subsidiaries, updated forecasts and long-term outlook of CSPL's business, 
+the Company has recognised a one-time provision for impairment of investment of { 2,429 Mn in the unaudited standalone financial results for the quarter and nine months period ended December 31, 2025. This has no 
+impact on the consolidated financial results. 
+c. During the previous quarter, the Company received an insurance claim of { 207 Mn towards the settlement of a civil class action antitrust litigation, which was concluded in the quarter ended June 30, 2025 pursuant to
+Court approval. The proceeds have been classified under exceptional item. 
+5 During the quarter and nine months ended December 31, 2025, the Company has allotted 15,063 equity shares and 63,271 equity shares of { 5 each respectively, consequent to the exercise of the stock options by the 
+associates of the Company under the Associate Stock Option Plans. 
+(Page Z of 3) 
+6 SEGMENT REPORTING· 
+Particulars 
+Segment revenue 
+Digital, Engineering & Technology (DETJ 
+Design Led Manufacturing (DLM) 
+Semiconductors 
+Others 
+Total 
+Less: Inter segment revenue 
+Revenue from contracts with customers 
+Segment results 
+Digital, Engineering & Technology (DET) 
+Design Led Manufacturing (DLM) 
+Semiconductors 
+Others 
+Total 
+Less: 
+Finance costs 
+Add: 
+Exceptional items 
+Other unallocable income/ (expense) (net) 
+Share of loss from an associate* 
+Profit before tax 
+Tax expense 
+Profit for the period/year 
+Capital employed (Segment assets -Segment liabilities) 
+Segment assets 
+Digital, Engineering & Technology (DET) 
+Design Led Manufacturing (DLM} 
+Semiconductors 
+Others 
+Unallocable 
+Total segment assets 
+Segment liabilities 
+Digital, Engineering & Technology (DET) 
+Design Led Manufacturing (DLM) 
+Semiconductors 
+Others 
+Unallocable 
+Total segment liabilities 
+* Pertams to Semiconductors segment. 
+Notes: 31-Dec-25 
+Unaudited 
+14,883 
+3,033 
+611 
+105 
+18,632 
+147 
+18,485 
+1,847 
+190 
+(334} 
+(23} 
+1,680 
+141 
+(423) 
+300 
+(23) 
+1,393 
+421 
+972 Quarter Ended 
+30-Sep-25 31-Dec-24 
+Unaudited Unaudited 
+14,385 13,975 
+3,107 4,443 
+542 824 
+86 94 
+18,120 19,336 
+310 72 
+17,810 19,264 
+1,538 1,896 
+403 191 
+(235) 155 
+(9) (27) 
+1,697 2,215 
+159 205 
+207 
+269 (267} 
+(48} (7) 
+1,966 1,736 
+537 459 
+1,429 1,277 
+31-Dec-25 
+Unaudited 
+38,051 
+16,422 
+3,674 
+616 
+20,971 
+79,734 
+9,052 
+4,047 
+655 
+38 
+5,868 
+19,660 
+Segment information is presented in accordance with Ind AS 108 "Operating Segments" for the consolidated financial results. (ii' in Millions) 
+Nine Months Ended Year Ended 
+31-Dec-25 31-Dec-24 31-Mar-25 
+Unaudited Unaudited Audited 
+43,193 41,183 55,150 
+8,924 10,916 15,196 
+1,625 2,256 3,008 
+265 254 360 
+54,007 54,609 73,714 
+594 97 110 
+53,413 54,512 73,604 
+5,057 5,571 7,397 
+745 591 1,058 
+(751) 390 468 
+(40) (57) (77) 
+5,011 6,495 8,846 
+463 737 928 
+(216) 
+1,259 474 881 
+(96} (7) (49) 
+5,495 6,225 8,750 
+1,520 1,606 2,267 
+3,975 4,619 6,483 
+As at 
+30-Sep-25 31-Mar-25 31-Dec-24 
+Unaudited Audited Unaudited 
+38,578 37,340 36,384 
+15,691 16,015 17,020 
+3,515 3,576 3,606 
+619 620 622 
+20,818 19,395 18,204 
+79,221 76,946 75,836 
+8,331 8,699 8,397 
+3,956 3,697 4,497 
+433 418 432 
+28 16 22 
+6,146 6,512 7,121 
+18,894 19,342 20,469 
+Effective April 01, 2025, the Group has reorganised its business structure by restructuring its global semiconductor business under Cyient Semiconductors Private Limited, its 
+subsidiaries and an associate. Consequent to such change, the global semiconductors business which was hitherto reported under the Digital, Engineering & Technology (DET) 
+segment has been presented as a separate reportable segment, consistent with the manner in which the Chief Operating Decision Maker (CODM} reviews the business. 
+The CODM reviews the business across four operating segments: 
+Digital, Engineering & Technology (DET) segment consists of Group's business of engineering solutions across multiple industries including Transportation & Mobility 
+(such as Aerospace, Rail & Automotive), Networks & Infrastructure (such as Connectivity and Utilities) and Strategic units (such as Mining & Minerals, Energy, Healthcare & 
+Lifesciences). 
+Design Led Manufacturing (DLM) segment consists of Group's business of Electronics Manufacturing Services. 
+Semiconductors segment consists of Group's business of design, development and supply chain management of semiconductor chips. 
+Others segment consists of Group's other business operations which includes Aerospace Tooling division. 
+The Company has re-presented the information relating to all comparative periods in line with this revised segmental classification. 
+7 Current quarter/ period numbers may not be strictly comparable with comparative numbers due to the acquisitions in the year ended March 31, 2025. 
+Place : Hyderabad 
+Date: January 22, 2026 
+(Page 3 of 3) 
+S.R. BATL/80/ & ASSOCIATES LLP 
+Chartered Accountants THE SKYVIEW 10 
+18th Floor, "NORTH LOBBY" 
+Survey No. 83/ 1, Raidurgam 
+Hyderabad -500 032, India 
+Tel : +91406141 6000 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Standalone Financial 
+Results of Cyient Limited Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended 
+Review Report to 
+The Board of Directors 
+Cyient Limited 
+I. We have reviewed the unaudited standalone financial results ofCyient Limited (the "Company") for the 
+quarter and nine months period ended December 31, 2025 included in the accompanying "Statement of 
+Unaudited Consolidated and Standalone Financial Results for the Quarter and Nine Months Period Ended 
+December 31, 2025" (the "Statement") attached herewith, being submitted by the Company pursuant to 
+the requirements of Regulation 33 of the SEBl (Listing Obligations and Disclosure Requirements) 
+Regulations, 20 I 5, as amended (the "Listing Regulations "). 
+2. The Company's Management is responsible for the preparation of the Statement in accordance with the 
+recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) 
+"Interim Financial Reporting" prescribed under Section 133 of the Companies Act, 2013 as amended , 
+read with relevant rules issued thereunder and other accounting principles generally accepted in India 
+and in compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by 
+the Company's Board of Directors. Our responsibility is to express a conclusion on the Statement based 
+on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410, "Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity" issued by the Institute of Chartered Accountants of India. This standard requires that we plan and 
+perform the review to obtain moderate assurance as to whether the Statement is free of material 
+misstatement. A review of interim financial information consists of making inquiries, primarily of 
+persons responsible for financial and accounting matters, and applying analytical and other review 
+procedures. A review is substantially less in scope than an audit conducted in accordance with Standards 
+on Auditing and consequently does not enable us to obtain assurance that we would become aware of all 
+significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion. 
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe that 
+the accompanying Statement , prepared in accordance with the recognition and measurement principles 
+laid down in the aforesaid Indian Accounting Standards ('Ind AS') specified under Section 133 of the 
+Companies Act, 20 I 3 as amended , read with relevant rules issued thereunder and other accounting 
+principles generally accepted in India, has not disclosed the information required to be disclosed in terms 
+of the Listing Regulations , including the manner in which it is to be disclosed , or that it contains any 
+material misstatement. 
+For S.R. Batliboi & Associates LLP 
+Chartered Accountants 
+flCAI Firm registration number: 101049W /E300004 
+per Mitesh K Parikh 
+Partner 
+Membership No.: 225333 
+UDIN: lblt~;-;?,~C--Slt.HVJto ,l 
+Place: Hyderabad 
+Date: January 22, 2026 
+S.R. Batliboi & Associates LLP, a Limited Liability Partnership with LLP Identity No. AAB-4295 
+Regd. Office: 22, Camac Street. Block 'B', 3rd Floor, Kolkata-700 016 
+S.R. BATLIBOI & ASSOCIATES LLP 
+Chartered Accountants THE SKYVIEW 10 
+18th Floor, "NORTH LOBBY" 
+Survey No. 83/1, Raidurgam 
+Hyderabad -500 032, India 
+Tel : +91 40 6141 6000 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Consolidated 
+Financial Results of Cyient Limited Pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended 
+Review Report to 
+The Board of Directors 
+Cyient Limited 
+I. We have reviewed the unaudited consolidated financial results of Cyient Limited (the "Holding Company") 
+and its subsidiaries (the Holding Company and its subsidiaries together referred to as "the Group"), its 
+associate and a joint venture for the quarter and nine months period ended December 31, 2025 included in 
+the accompanying "Statement of Unaudited Consolidated and Standalone Financial Results for the Quarter 
+and Nine Months Period Ended December 31, 2025" (the "Statement") attached herewith, being submitted 
+by the Holding Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations , 20 I 5, as amended (the "Listing Regulations"). 
+2. The Holding Company's Management is responsible for the preparation of the Statement in accordance with 
+the recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) 
+"Interim Financial Reporting " prescribed under Section 133 of the Companies Act, 20 I 3 as amended, read 
+with relevant rules issued thereunder and other accounting principles generally accepted in India and in 
+compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by the Holding 
+Company's Board of Directors . Our responsibility is to express a conclusion on the Statement based on our 
+review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 
+2410, ·'Review of Interim Financial Information Performed by the Independent Auditor of the Entity" issued 
+by the Institute of Chartered Accountants of India. This standard requires that we plan and perform the review 
+to obtain moderate assurance as to whether the Statement is free of material misstatement. A review of interim 
+financial information consists of making inquiries, primarily of persons responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is substantially less in 
+scope than an audit conducted in accordance with Standards on Auditing and consequentl y does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified in an 
+audit. Accordingly , we do not express an audit opinion. 
+We also performed procedure s in accordance with the Master Circular issued by the Securities and Exchange 
+Board of India under Regulation 33(8) of the Listing Regulations , to the extent applicable. 
+4. The Statement includes the results of the following entities: 
+Holding Company: 
+Cyient Limited 
+Subsidiaries: 
+I. Cyient Inc., United States of America 
+2. Cyient Canada Inc., Canada 
+3. Cyient Defense Services Inc., United States of America 
+4. Cyient Insights Private Limited, India 
+5. Cyient Europe Limited, United Kingdom 
+6. Cyient Benelux BV, Netherlands 
+7. Cyient Schweiz GmbH, Switzerland 
+8. Cyient SRO, Czech Republic 
+9. Cyient Semiconductors NV (formerly known as Cyient NV), Belgium 
+I 0. Cyient GmbH, Germany 
+I I. Cyient AB, Sweden 
+yient KK, Japan 
+yient DLM Limited, India 
+S.R. Batliboi & Associates LLP, a Limited Liability Partnership with LLP Identity No. AAB-4295 
+Regd. Office: 22, Camac Street, Block 'B', 3rd floor, Kolkata-700 016 

@@ -1,0 +1,590 @@
+
+=== page 1 ===
+ 
+ 
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan- 173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466  
+HFCL/SEC/ 24-25                 October 22 , 2024 
+ 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com  
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+ 
+RE: Regulation 30 of the Securities  and  Exchange  Board  of India  (Listin g Obligations and 
+Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”).  
+ Subject: Earnings’ Presentation  
+ Dear Sir(s)/ Madam,  
+ This is in continuation to our earlier intimation dated October 21 , 2024 .  
+ 
+In terms of Regulation 30 read with Para A of Part A of Schedule III to the SEBI Listing Regulations, 
+we hereby submit a copy of the Earnings’ Presentation , inter -alia, on the Un-audited Financial 
+Results of the Company for the 2
+nd Quarter  and Half Year  ended September  30, 2024,  of the 
+Financial Year 2024-25,  both on Standalone and Consolidated basis , to be discussed during 
+the Earnings’ Call  scheduled to be held on Tuesday , October  22, 2024  at 04:00 p.m . 
+ It may be noted that the Board of Directors of the Company has, considered and approved the 
+aforesaid Financial Results of the Company, in its meeting held on October 21 , 2024 . 
+ 
+We request to take the above information on your records and disseminate the same on your 
+respective websites.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For HFCL Limited  
+ 
+ 
+ 
+ 
+(Manoj Baid)  
+President  & Company Secretary  
+ 
+Encl : Earnings’ Presentation  
+=== page 2 ===
+HFCL LIMITEDEarnings
+Presentation
+October 2024
+
+=== page 3 ===
+Table of 
+Contents
+HFCL LIMITED1//Q2 &H1FY25 Update2//About the 
+CompanyINVESTOR PRESENTATION 2024
+=== page 4 ===
+01
+Q2 FY25
+Update//03
+HFCL LIMITED04//Message from MD05//Q2 & H1 FY25 Key 
+Highlights 06//Q2 FY25 –
+Consolidated P&L Statement
+08//INVESTOR PRESENTATION 2024Consolidated Balance Sheet07//H1 FY25 –
+Consolidated P&L Statement09// Order Book
+=== page 5 ===
+Message from Managing Director
+/4
+“Asignificant development inQ2was entering into astrategic partnership with General Atomics
+Aeronautical Systems Incorporated (GA-ASI), US,todevelop critical sub-systems forone oftheworld’s
+most sophisticated unmanned aerial vehicles (UAVs) .Thispartnership underscores ourcapabilities inthe
+defense sector and opens more export/international opportunities forusespecially inUSmarket .Weare
+also inadvanced stage ofdiscussions forexport ofourindigenously designed and developed Electronics
+Fuzes intheGlobal market .
+HFCL executed one oftheworld’s largest Control and User Plane Separation (CUPS) architecture -based
+broadband network gateway forBSNL inaseamless manner forlegacy network migration and thiswill
+also serve asainternet gateway forallenterprise and home users ofBSNL, aswell asfortheexisting Bharat
+Net network of1.5lacs gram panchayat and theupcoming pan India Bharat Net expansion inPhase -III
+project .
+During the quarter under review wedelivered steady performance despite the continuing softness in
+demand ofOptic Fiber Cables worldwide .Further monsoon season inseveral parts oftheCountry hasalso
+impacted execution ofwork resulting into spillover ofrevenue booking tonext quarter .TheCompany has
+started receiving significant global enquiries foroptic fiber cables showing early signs ofrecovery in
+coming quarters .Going ahead, ourfocus onnew defence product launches, conscious shift towards
+margin -accretive products, increasing share ofprivate customers and expanding international business
+willdefinitely result inimproved revenue and profitability .”
+Key Performance Metrics forH1FY25
+•Revenue :INR2251. 85crores, upby6.89% YoY
+•EBITDA :INR357.19crores, upby15.45% YoY
+•PAT:INR183.98crores upby26.25% YoY
+MAHENDRA NAHATA
+Promoter and Managing Director
+=== page 6 ===
+/5Q2 & H1FY25 Key HighlightsINVESTOR PRESENTATION 2024Key Highlights :
+•Inasignificant development that underscores HFCL’s technical prowess and commitment, theCompany hasbeen
+selected todevelop and supply critical sub-systems forGeneral Atomic -ASI’s advanced Unmanned Aircraft
+Systems (UAS). Thispartnership marks amilestone inHFCL’s journey, asitbecomes akeycontributor toone ofthe
+world’s most sophisticated Unmanned Aerial Vehicles (UAVs).
+•The Company Delivers One ofthe World's Largest Advanced Broadband Network Gateway (BNG) Projects for
+Bharat Sanchar Nigam Limited (BSNL )
+•Introduced high- density single -jacket single -armor Intermittently Bonded Ribbon (IBR) cables and also expanded its
+award -winning Nano Thin product line ofloose tube micro cables tocater tochanging demands fornetwork
+deployment driven bygrowth indata centers, metro networks and FTTx inNorth America with these innovative
+cable solutions .
+•Inalandmark verdict on11th October, 2024 ,theEuropean Commission hasdecided nottoimpose definitive anti-
+dumping duty onoptical fiber cables manufactured byHFCL and itssubsidiary HTL, bolstering ourcompetitive edge
+intheEuropean market
+•Successfully cleared the User Trial Readiness Review for the Armament Upgradation Project of the Indian Army’s for 
+BMP- 2 Infantry Combat Vehicles
+=== page 7 ===
+Q2FY25 - Consolidated Profit & Loss Statement
+Particulars (₹IN CRORES) Q2FY25 Q2FY24Change
+Y-o-YQ1FY25Change
+Q-o-Q
+Revenue from Operations 1093.61 1111.49 -1.61% 1158.24 -5.58%
+EBITDA 171.82 149.77 14.72% 185.37 -7.31%
+EBITDA Margin (%) 15.71% 13.47% 224Bps 16.00% -29Bps
+Depreciation 25.48 21.45 24.07
+Finance Cost 44.88 34.78 42.31
+Profit Before Tax 102.47 94.18 8.80% 118.79 -13.74%
+Profit after Tax 73.33 70.17 4.50% 110.65 -33.73%
+PAT Margin (%) 6.71% 6.31% 40Bps 9.55% -284Bps
+EPS (Diluted ₹) 0.51 0.50 2.00% 0.77 -33.77%
+/6INVESTOR PRESENTATION 2024
+=== page 8 ===
+H1FY25 - Consolidated Profit & Loss Statement
+Particulars (₹IN CRORES) H1FY25 H1FY24Change
+Y-o-Y
+Revenue from Operations 2251.85 2106.68 6.89%
+EBITDA 357.19 309.39 15.45%
+EBITDA Margin (%) 15.86% 14.69% 117Bps
+Depreciation 49.55 42.35
+Finance Cost 87.19 71.08
+Profit Before Tax 221.26 196.71 12.48%
+Profit after Tax 183.98 145.73 26.25%
+PAT Margin (%) 8.17% 6.92% 125Bps
+EPS (Diluted ₹) 1.28 0.99 29.29%
+/7INVESTOR PRESENTATION 2024
+=== page 9 ===
+Consolidated Balance Sheet
+/8INVESTOR PRESENTATION 2024Equities & Liabilities (₹IN CRORES) H1FY25 FY24 FY23 FY22
+Total - Shareholder Funds 4,234.33 3,999.83 3,144.14 2,818.37
+NON CURRENT LIABILITIES
+(A)   Financial Liabilities
+(i) Borrowings 298.24 169.21 110.37 121.25
+(ii) Other Liabilities 6.66 9.07 6.20 19.34
+(B)   Other Non Current Liabilities 144.17 124.77 69.72 34.74
+Total - Non –Current Liabilities 449.07 303.05 186.29 175.33
+CURRENT LIABILITIES
+(i)Borrowings 900.08 808.05 637.94 621.55
+(ii) Other Liabilities 1,938.55 1,375.90 1,504.22 1556.21
+Total – Current Liabilities 2,838.63 2,183.95 2,142.16 2,177.76
+GRAND TOTAL -EQUITIES & LIABILITES 7,522.03 6,486.83 5,472.59 5,171.46
+Assets (₹IN CRORES) H1FY25 FY24 FY23 FY22
+(A) Tangible Assets 738.47 661.75 574.91 536.16
+(B)Goodwill 26.17 26.17 26.17 26.17
+(C) Other Intangible Assets 521.60 433.01 215.31 74.10
+(D) Investment in Associates / JV 20.31 19.50 18.57 11.66
+(E)  Financial Assets
+(i) Trade receivables 727.15 520.31 423.11 595.61
+(ii)Other Financial Assets 321.02 232.48 92.82 85.94
+(F)  Other Non Current Assets 65.11 60.11 39.55 22.52
+Total - Non –Current Assets 2,419.85 1,953.33 1,390.44 1,352.16
+(A)Inventories 781.19 774.42 757.85 573.38
+(B)    Financial Assets
+(i)Trade Receivables 2,329.91 2,215.48 1,886.11 1,895.94
+(ii)Cash & Bank Balances 405.27 336.35 322.59 528.24
+(iii)Others 623.03 538.50 533.57 386.31
+(iv)Others 38.03 72.51 36.68 26.04
+(v)Investments 6.59 5.19 12.38 8.80
+(C) Other Current Assets 918.16 591.05 532.97 400.59
+Total – Current Assets 5,102.18 4,533.50 4,082.15 3,819.30
+GRAND TOTAL –ASSETS 7,522.03 6,486.83 5,472.59 5,171.46
+=== page 10 ===
+Order book as on Sep, 2024 
+/9
+6,776
+6,151
+Q1FY25 Q2FY252884
+Network
+Services
+2010
+O&M1257
+ProductsOrder Book
+(IN ₹CRORES)
+Order book category wise
+(IN ₹CRORES)
+4183
+Government1968
+PrivateOrder book customer wise
+(IN ₹CRORES)INVESTOR PRESENTATION 2024
+=== page 11 ===
+02
+About the 
+Company//03
+HFCL LIMITED11//About HFCL12//Product 
+Portfolio13//Product Portfolio contd.. 
+15//Network Solutions & Projects
+18//Shift in Revenue Mix16//Strong Domestic Presence
+19//R&D: Powering towards
+a technology
+led  Company20//Key Customers17//Expanding Manufacturing Capacities
+21//Strong Technology Partners22//Why HFCL? The Difference MakerINVESTOR PRESENTATION 2024
+=== page 12 ===
+About HFCL
+/11Largest market share in Optical fiber Cable (OFC) 
+supplies and also one of the largest manufacturers 
+of Wi -Fi  access points and Unlicensed band radios 
+in IndiaOne of the most innovative designers 
+of modern communication systems 
+for metros, railways & freight lines.
+2%Railways
+Revenue Contribution
+In H1FY251%Defense
+Revenue ContributionIn H1FY25
+Leading technology company that 
+offers end -to-end solutions by designing 
+customised defence communication 
+products and also establishing network required by armed forces for defense communication in India
+97%Telecom
+Revenue Contribution
+In H1FY25
+A technology -driven company providing 
+communication & networking products & 
+solutions to telecom, defence & railways 
+sectors across the globe.Optical fiber Cable 
+Supplier in India
+#1Countries of 
+Presence
+45+Manufacturing Facilities
+5R&D Centres
+3INVESTOR PRESENTATION 2024
+=== page 13 ===
+Product Portfolio
+/12Networking Products
+1
+ 2 3
+5
+6 4
+1.Point to Point U nlicensed Band B ackhaul Radio (UBR)
+2.Indoor & Outdoor Wi -Fi 5 and 6 Access Points
+3.Unified Cloud based Network management system
+4.Ethernet L2 Switches
+5.Home Mesh Routers
+6.5G  Indoor & Outdoor FWA CPE 
+7.IP/ MPLS RoutersOptic Fiber/ Optical Fibers Cables
+1
+ 2
+ 3
+ 4
+5
+ 6
+ 7
+1.Optic Fiber
+2.Armoured and Unarmoured Cable
+3.Micro Cable
+4.Micro Module Cable
+5.Ribbon Cable
+6.FTTH Cable
+7.IBR CableTelecom Defence
+Electronics Products
+Empowering global telcos with a wide range 
+of new age products
+51 2
+43
+1.Electronic FUZE
+2.High -capacity radio relay
+3.Ground Surveillance Radar
+4.Thermal Imaging Core (TI Core)
+5.Thermal Weapon Sights (TWS)
+Innovator in Indian defence technology space through indigenously developed products7
+INVESTOR PRESENTATION 2024
+=== page 14 ===
+Product Portfolio
+/13Passive Connectivity Solutions Wire Harness Portfolio
+Supplying high quality compatible passive 
+connectivity solutions for catering to high speed networksSupplier of highly specialised, custom designed cables for the aerospace and automotive sectors1
+2
+1 2 3
+4 5 6
+1.Cable Assemblies
+2.High Density Cabinets
+3.Fiber Termination Box
+4.PLC Splitters
+5.Joint Closures
+6.Aerial/ FTTH Accessories1.Aerospace and Defense cable assemblies
+2.Automotive cable assembliesINVESTOR PRESENTATION 2024
+=== page 15 ===
+Product Innovation -Recent launches and 
+products under development
+/14Fuelled by a sharp focus on innovation, we have created a comprehensive suite of next -gen 
+connectivity and 5G backhauling products :
+Products Under 
+Development
+•Next Gen WiFi 7 routers
+•Ultra High -Capacity
+Point- to-point and Point -
+to-Multipoint Unlicensed
+Band Backhaul RadioTelecommunication
+•Software defined radio
+•Drone Detection RadarDefense Communication 
+& Electronics Recent Launches:
+Public Communications
+1.5G Fixed Wireless Acces s
+E
+quipment
+2.IP/ MPLS Routers
+3.1 GBPS UBR & 2 GBPS point
+to multipoint UBR
+4.Unified Cloud NetworkManagement System
+5.1728 High fiber
+Intermittently BondedRibbon Cable
+Defence
+1.Ground and Coastal  
+Surveillance Radars of  
+various types
+2.Electronic Fuzes
+3.Night Vision devices
+4.High Capacity Radio  
+RelayIP/ MPLS 
+RoutersHome Mesh 
+Router
+Surveillance 
+Radar
+UBRWi Fi 7 Outdoor 
+Access Point
+Electronic
+FuzesCloud 
+Management 
+System
+High -
+Capacity 
+Radio RelayNight Vision 
+Devices
+INVESTOR PRESENTATION 2024
+=== page 16 ===
+Network Solutions & Projects
+Public Telecommunication Defence Communication Railways
+• Established player in large- scale 
+telecom projects  including Optical 
+Transport Network, Rural GSM Network, 
+Fiber to the Home, In- building 
+Solutions, Mobile Backhaul Networks
+• Creation of Optical Transport Network 
+across India for leading telecom 
+operator• Dedicated Multi -Protocol Label 
+Switching (MPLS) Network
+• End-to-end solution for multiple hybrid 
+microwave broadband radio links in 
+remote area
+• Exclusive and dedicated nationwide dense wavelength -division 
+multiplexing -based Optical transmission 
+backbone network
+• GSM based Fiber Monitoring & Management System• Transforming and modernizing railway communication systems & signalling infrastructure for domestic and international metros
+• Pioneered IP -based video 
+surveillance system (VSS) for railways
+• Deploying advanced telecom networks for seven greenfield dedicated freight corridor projects for Indian government
+• Video management systems implemented at ~750 railway stations
+/15
+ INVESTOR PRESENTATION 2024
+=== page 17 ===
+Strong Domestic 
+Presence
+/165
+Operational
+Manufacturing facilities 
+across IndiaHYDERABAD, TELANGANA 2 facilities
+•5.2 mnfkm/annum Optical Fiber Cables
+•432k cable km/annum FTTH Cables
+•14 mnfkm/annum Optic Fiber production
+21
+5
+4
+3
+CHENNAI, TAMIL NADU 
+(Through subsidiary company HTL Ltd)
+•11.88 mnfkm/annum Optical Fiber Cables
+•270k cable km/annum -FTTH Cables
+•Passive connectivity solutions
+HOSUR, TAMIL NADU 
+(Through subsidiary company HTL Ltd)
+•660kkm/annum Aramid Reinforced Plastic (ARP) 
+Rods 
+•504k km/annum Fiber Reinforced Plastic (FRP) 
+Rods
+•2,700 MT/ annum Impregnated Glass Fiber
+Reinforcement (IGFR) 
+All above are raw materials for Optical fiber cable
+VERNA, GOA 
+•8 mnfkm/annum Optical Fiber Cables
+1 2 3 54INVESTOR PRESENTATION 2024
+=== page 18 ===
+Expanding Manufacturing 
+Capacities
+/17Planned expansion of manufacturing 
+capacity of Optic fiber
+(IN mn fkm p.a)
+1433.90
+Current Capacity Proposed CapacityFurther strengthening of backward 
+integration
+•Reduce dependence on external 
+suppliers for  manufacturing of Optic 
+Fiber Cables
+•Higher Quality Assurance of finished 
+goods
+•Yield better margins
+Setting up of new facility in NCR 
+region for the manufacture of 
+Telecom and Networking 
+products
+•Cumulative TAM of ~ 614 bn USD both 
+globally and in India by FY30. 
+•Targeting revenue of ~ Rs.2000 crores in 
+FY24 -25 compared to Rs.143 crores during 
+FY24 from existing product portfolio. 
+•Eligible for PLI benefits by manufacturing 
+these products
+(IN mn fkm p.a)
+2538.25
+Current Capacity Proposed CapacityPlanned Optical fiber Cable capacity 
+expansion
+INVESTOR PRESENTATION 2024
+=== page 19 ===
+Shift in Revenue Mix
+/18Revenue share from Private 
+Customers(IN %)
+49% 32% 17% 26% 43%51% 68% 83% 74% 57%
+FY21 FY22 FY23 FY24 H1FY25
+Government PrivateShift towards Product-led Revenue (IN %)
+27% 43% 56% 42% 54%73% 57% 44% 58% 46%
+FY21 FY22 FY23 FY24 H1FY25
+Product-led Revenue Project-led RevenueExports Revenue Share*(IN %)
+4.547.6817.23
+11.21
+9.92
+FY21 FY22 FY23 FY24 H1FY25Increased business from 
+Private Entities in alignment with market demand
+*The global optical fiber cable
+market iscurrently experiencing a
+slowdownShift from Project -led revenue to Product -led 
+revenue -Increase in product revenue will 
+facilitate lower working capital requirements, 
+quicker realization and margin expansionINVESTOR PRESENTATION 2024
+=== page 20 ===
+R&D: Powering towards a technology led Company
+/19
+Strengthened 
+in-house R&D 
+team 3 dedicated R&D centres in 
+Bengaluru, Hyderabad and Gurugram driving 
+innovation.
+Segments No. of people
+5G Products 135
+Other Networking Products 116
+Technology & Defence 61
+Optic fiber &Optical fiber
+Cable41
+Total 353INVESTOR PRESENTATION 2024
+=== page 21 ===
+Key Customers
+/20INVESTOR PRESENTATION 2024
+
+=== page 22 ===
+Strong Technology Partners
+/21
+Partnership for 5G 
+Transport Products
+Partnership for 5G indoor small cells Partnership for Artificial Intelligence (Al) based Analytics Partnership for Software Defined Radios Partnership for SwitchesDesign partner for Macro Radio, Wifi
+Access points, UBRs, Cloud management systems, Element management systems etc.Partnership for 5G Small Cells Partnership for 5G Small Cells Partnership for 5G Small Cells
+Partnership for 5G Transport productsLicensing for Open 
+source Wi -Fi 7 products ;
+5G millimeter wave FWA ; product development;
+5G Outdoor Small Cell 
+etc. 
+INVESTOR PRESENTATION 2024
+
+=== page 23 ===
+Why HFCL? The Difference Maker
+/22
+Market 
+Leader
+Largest share in 
+domestic supplies
+of Optic fiber 
+cables  in India
+Vertical 
+Integration
+Optimized business 
+model and consistent 
+supply chain
+Dedicated R&D
+Capabilities
+350+ R&D resources 
+across 3 research 
+centres
+Expanding 
+International Presence
+Operations in 45+ 
+countries serving
+100+ clients 
+globally
+Strong Business 
+Relationships
+Strong business 
+relationship with 
+leading telecom 
+operators resulting 
+in repeat business 
+opportunities
+Industry 
+Veterans
+Have been present 
+in the telecom and 
+Optical fiber cable 
+industry for more 
+than 3 decades
+Large Order 
+Book
+Strong Order Book of 
+~ ₹6151 crores 
+diversified across 
+Telecom, Defence and 
+Railways providing 
+revenue visibility
+End -to-End 
+Network Solution 
+Provider
+One -stop shop for 
+communication 
+network and 
+solutionsINVESTOR PRESENTATION 2024
+=== page 24 ===
+Shareholders’ Information
+Share Information 
+(AS ON  September 30, 2024)
+NSE Ticker HFCL
+BSE Ticker 500183
+Market Cap ( ₹Crores) 21,416.48
+% free -float 62.05%
+Free -float market cap ( ₹Crores) 13,289.69
+Shares Outstanding 1,44,26,72,812
+3M ADTV (Shares)4,60,52,441 
+3M ADTV ( ₹Crores) 640.72
+IndustryTelecommunications –
+Equipment & Solutions
+/236.68
+FII’s & FPI’s10.36
+DII’S/ MFShareholding as on 30 September, 2024(IN %)
+46.72
+Others36.24
+PromotersINVESTOR PRESENTATION 2024
+=== page 25 ===
+01//  HFCL AT A GLANCE HFCL LIMITED | INVESTOR PRESENTATION 2024
+/19
+Thank You
+HFCL LIMITEDCorporate Office
+8, Commercial Complex, 
+Masjid Moth,Greater Kailash Part 2, New Delhi, Delhi -110048Amit Agarwal
+HEAD –INVESTOR RELATIONS
+HFCL LimitedTel: +91 -11-3520 9400
+Email: ir@hfcl.comINVESTOR PRESENTATION 2024
+=== page 26 ===
+Disclaimer
+This presentation (“ Presentation”) does not constitute a prospectus, offering memorandum or an offer, or a solicitation of any offer, to 
+purchase or sell any securities.
+This presentation should not be considered as a recommendation that any investor should subscribe to or purchase any securities of 
+HFCL Limited (“ Company”) or its subsidiaries (collectively, the “ Group”) and should not be used as a basis for any investment decision. 
+The information contained in this presentation is only current as of its date and has not been independently verified. The Gr oup will 
+not update you in the event the information in the presentation becomes stale. Moreover, both express or implied representation or 
+warranty is made as to, and no reliance should be placed on, the accuracy, fairness or completeness of the information presented or 
+contained in this presentation.None of the Group or any of its affiliates, advisers or representatives accept any liability whatsoever for any loss howsoever a rising 
+from any information presented or contained in this presentation. Furthermore, no person is authorized to give any informatio n or 
+make any representation which is not contained in, or is inconsistent with, this presentation. Any such extraneous or inconsiste nt 
+information or representation, if given or made, should not be relied upon as having been authorized by or on behalf of the G roup.
+This presentation is highly confidential, being given solely for your information and for your use, and may not be copied, repro duced 
+or redistributed to any other person in any manner. The distribution of this presentation in certain jurisdictions may be res tricted by 
+law. Accordingly, any person in possession of this presentation should inform themselves about and observe any such restricti ons.
+This presentation contains certain statements of future expectations and other forward -looking statements, including those relat ing to 
+the Group's general business plans and strategy, its future financial condition and growth prospects, and future developments inits 
+sectors and its competitive and regulatory environment. In addition to statements which are forward looking by reason of cont ext, 
+the words ‘may’, ‘will’, ‘should’, ‘expects’, ‘plans’, ‘intends’, ‘anticipates’, ‘believes’, ‘estimates’, ‘predicts’, ‘potent ial’ or ‘continue’ 
+and similar expressions identify forward looking statements. All forward looking statements are subject to risks, uncertainties and 
+assumptions that could cause actual results, performances or events to differ materially from the results contemplated by the relevant 
+forward looking statement. The factors which may affect the results contemplated by the forward looking statements could incl ude, 
+among others, future changes or developments in ( i) the Group’s business, (ii) the Group’s regulatory and competitive environment, 
+and (iii) political, economic, legal and social conditions in India or the jurisdictions in which our Group operates.

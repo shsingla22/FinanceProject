@@ -1,0 +1,318 @@
+ 
+Adani Green Energy Limited  Tel +91 79 2555 5555 
+Adani Corporate House, Shantigram,  Fax +91 79 2555 5500 
+Nr Vaishno Devi Circle, S G Highway  investor.agel@adani.com 
+Khodiyar, Ahmedabad 382 421  www.adanigreenenergy.com 
+Gujarat, India 
+CIN: L40106GJ2015PLC082007 
+ 
+Registered Office: Adani Corporate House, Shantigram, Nr. Vaishno Devi Circle,  
+S G Highway, Khodiyar, Ahmedabad – 382 421, Gujarat, India  
+Date: May 29, 2026 
+ 
+To 
+BSE Limited    The National Stock Exchange of India Limited 
+P J Towers,    “Exchange Plaza”, 
+Dalal Street,    Bandra – Kurla Complex,  
+Mumbai – 400 001  Bandra (E), Mumbai – 400 051 
+ 
+Scrip Code: 541450  Scrip Code: ADANIGREEN 
+ 
+Sub.: Business Responsibility and Sustainability Report for the financial year 
+2025-26 
+ 
+Dear Sir, 
+ 
+Pursuant to Regulation 34 of the Securities Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing 
+Regulations”), we are submitting herewith the Business Responsibility and 
+Sustainability Report for the Financial Year 2025-26 which is being sent through 
+electronic mode to the Members. 
+ 
+The Integrated Annual Report along with the Business Responsibility and 
+Sustainability Report for the Financial Year 2025-26 is also uploaded on the 
+Company’s website and can be accessed at www.adanigreenenergy.com .  
+ 
+You are requested to take the same on your records. 
+ 
+Thanking You 
+Yours Faithfully, 
+For, Adani Green Energy Limited 
+ 
+ 
+ 
+Pragnesh Darji 
+Company Secretary 
+  
+Annexure II
+Business Responsibility & 
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I. DETAILS OF THE LISTED ENTITY
+1. Corporate Identity Number (CIN) of the Listed 
+EntityL40106GJ2015PLC082007
+2. Name of the Listed Entity Adani Green Energy Limited ("Adani Green"/"Company")
+3. Year of Incorporation 2015
+4. Registered office address Adani Corporate House, Shantigram,  
+Nr. Vaishno Devi Circle, S G Highway, Khodiyar, Ahmedabad - 382 421, Gujarat, India
+5. Corporate address Adani Corporate House, Shantigram,  Nr. Vaishno Devi Circle, S G Highway, Khodiyar, Ahmedabad - 382 421, Gujarat, India
+6. E-mail investor.agel@adani.com
+7. Telephone +91 79 25555555
+8. Website www.adanigreenenergy.com
+9. Financial year for which reporting is being done. Start Date
+   End Date
+Current Financial Year April 01, 2025    March 31, 2026
+10. Name of the St ock Exchange(s) where shares are 
+listeda)  BSE Limited
+b)  National Stock Exchange of India Limit ed
+11. Paid-up Capital (In `) ` 1,647 crore
+12. Name and contact details (telephone, email 
+address) of the person who may be contacted in case of any queries on the BRSR report
+Name of Contact Person Mr. Pankaj K Verma, Chief Sustainability Officer
+Contact Number of Contact Person +91 79 25554947
+Email of Contact Person cso.renewable@adani.com
+13. Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e. only 
+for the entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements, taken together).Consolidated basis
+Pursuant to the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations and the BRSR framework, Adani Green Energy Limited has identified its value chain to the extent applicable under the requirements of BRSR. AGEL has reported information pertaining to key Indian value chain partners in Annexure
+-B (Value C hain Reporting) of 
+this BRSR. The scope, coverage, assumptions, and limitations relating to value chain disclosures have been appropriately determined and transparently disclosed in Annexure
+-B
+14. Name of assurance pr ovider Intertek India Private Limited
+15. Type of assurance obtained Reasonable Assurance, as defined by International Standards on Assurance Engagements (ISAE 3000)II. PRODUCTS/SERVICES
+16. Details of business activities (accounting for 90% of the turno ver):
+S. No. Description of Main Activity Description of Business Activity % of Turnover of the entity
+1 Generation of power Renewable Power Generation 94.4%
+2 Generation of power Sale of solar power equipment 5.6%
+17. Products/Ser vices sold by the entity (accounting for 90% of the entity's Turnover):
+S. No. Product/Service NIC Code % of total Turnover contributed
+1 Generation of power using Renewable sources 
+of Energy and other ancillary activities35105 100%
+III. OPERATIONS
+18. Number of locations where plants and/or op erations/offices of the entity are situated:
+Locations Number of plants Number of offices Total
+National 105 1 106
+International 0 0 0
+19. Markets serv ed by the entity:
+a. Number of locations
+Locations Number
+National (No. of States) 12
+International (No. of Countries) 0
+b. What is the contribution of exports as a per centage of the total turnover of the entity?
+ Nil
+c. A brief on types of cust omers
+  AGEL primarily serve s B2B customers, including State utilities and Distribution Companies (DISCOMs). 
+The company has entered into long-term Power Purchase Agreements (PPAs) with DISCOMs and Renewable 
+Energy Implementing Agencies (REIAs) for power offtake. Approximately 78.4% of AGEL ’s portfolio is backed by executed PPAs with sovereign counterparties such as SECI, PTC, NTPC, NHPC, and State DISCOMs.
+IV. EMPLOYEES
+20. Details as at the end of Financial Year:
+a. Employees and w orkers (including differently abled):
+S. NoParticulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+EMPLOYEES
+1. Permanent (D) 976 942 96.5 34 3.5
+2. Other than Permanent (E) 0 0 0 0 0
+3. Total employees (D + E) 976 942 96.5 34 3.5
+WORKERS
+4. Permanent (F) 0 0 0 0 0
+5. Other than Permanent (G) 0 0 0 0 0
+6. Total workers (F + G) 0 0 0 0 0
+  Note 1: The reduction in emplo yee headcount in FY 2025-26 compared to FY 2024-25 is due to a strategic shift in AGEL ’s 
+operating model. During the year, AGEL transitioned from a self-execution approach to a partner-led model, engaging specialized 
+EPC (Engineering, Procurement and Construction) and O&M (Operations and Maintenance) partners for project execution and asset operations. As a result, internal roles have shifted from technical execution to strategic governance and assurance. Functions previously performed by other-than permanent employees are now handled by these partner organizations. This change does not indicate a decline in operational activity or installed capacity, as the partner workforce continues to support AGEL ’s project execution and operations.
+  Note 2: AGEL did not engage or employ any personnel meeting the definition of “workers” under applicable labour laws.
+273 272
+Integrated Annual Report 2025-26 Portfolio  
+OverviewCorporate OverviewStrategic ReviewESG OverviewStatutory ReportsFinancial Statements
+ADANI GREEN ENERGY LIMITED
+b. Differently abled Employees and workers:
+S. 
+NoParticulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D)  1  1  100%  0  0%
+2. Other than Permanent (E)  0  0  0%  0  0%
+3. Total employees (D + E)  1  1  100%  0  0%
+DIFFERENTLY ABLED WORKERS
+4. Permanent (F)  0 0  0%  0  0%
+5. Other than Permanent (G)  0 0  0%  0  0%
+6. Total workers (F + G)  0 0  0% 0  0%
+21. Participation/Inclusion/Representation of w omen
+Total (A)No. and percentage of Females
+No. (B) % (B/A)
+Board of Directors 10 1 10
+Key Management Personnel 5 0 0
+22. Turnover r ate for permanent employees and workers
+(Disclose trends for the past 3 years)
+FY 2025-26  
+(Turnover rate in current FY) 
+[values in %]FY 2024-25  
+(Turnover rate in previous FY) 
+[values in %]FY 2023-24  
+(Turnover rate in the year 
+prior to the previous FY) 
+[values in %]
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees38 45 38 30 36 30 23.6 13 23.3
+Permanent Workers  NA NA NA NA NA NA NA NA NA
+  Note: The increase in employ ee turnover rate in FY 2025–26 compared to FY 2024–25 is primarily due to AGEL ’s strategic 
+transition from a self-execution model to a partner-led approach. Engagement of EPC and O&M partners led to a shift of 
+certain roles and functions to partner organizations, resulting in a reduction in internal workforce. This change reflects an operating model realignment and not a decline in business activity.
+V. HOLDING, SUBSIDIARY AND ASSOCIATE COMP ANIES (INCLUDING JOINT VENTURES)
+23. (a) Names of holding/subsidiary/associat e companies/joint ventures
+  Refer Annexure A List of subsidiaries.
+VI. CSR DETAILS
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013 Yes
+(ii) Turnover (in `) 12,928 Crore
+(iii) Net worth (in `) 29,879 Cr ore
+(iv) Total CSR spent (in ` ) 47.39 CroreVII. TRANSPARENCY AND DISCLOSURES COMPLIANCES
+25.  Complaints/Grievances on any of the principles (Principle s 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from whom complaint is receivedGrievance Redressal Mechanism in Place (Yes/No)(if Yes, then provide web-link for grievance redress policy)FY 2025-26  
+(Current Financial Year)FY 2024-25  
+(Previous Financial Year)
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities Yes
+(https://www.
+adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Policy/HRCR-Policy.pdf)12 0 Resolved 12 0 Resolved
+Investors (other than shareholders)Yes
+(https://www.
+adanigreenenergy.com/-/media/project/greenenergy/corporate-governance/policy/contact-information-for-investor-grievances.pdf)0 NA
+ NA 0 NA -
+Shareholders Yes 0 NA NA 0 NA -
+Employees and workersYes*
+(https://www.
+adanigreenenergy.com/-/media/Project/GreenEnergy/Corporate-Governance/Policy/Employee-Grievance-Management-Policy.pdf)3 0 Resolved 0 NA -
+Customers Not applicable 0 NA NA 0 NA -
+Value Chain PartnersYes
+(stakeholder.
+support@adani.com)0 NA NA 0 NA -
+Others  (please specify)NA 0 NA NA 0 NA -
+* Not applicable for workers
+275 274
+Integrated Annual Report 2025-26 Portfolio  
+OverviewCorporate OverviewStrategic ReviewESG OverviewStatutory ReportsFinancial Statements
+ADANI GREEN ENERGY LIMITED
+26. Overview of the entity's material responsible business conduct issues   
+Please indicate material re sponsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.Material issue 
+identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+1 GHG Emissions 
+and Climate 
+ChangeRisk Compliance with GHG emissions 
+may increase operational costs, while noncompliance can lead to reputational damage. We are increasing adoption of EVs across the value chain with the aim to achieve a 65% EV adoption rate by 2030. 
+ We engage with all our manufacturing suppliers through the GHG Supply Chain Engagement Programme to help them set their Net-Zero targets.Negative
+Opportunity New regulatory frameworks 
+and a focus on green power present opportunities to expand our operations, tap into new markets, and increase our market share. Investment in R&D may increase cost effectiveness of renewable energy, increase efficiency and reliability, while also minimising fossil fuel usage.Positive
+2 Waste 
+ManagementRisk Inadequate waste management 
+practices can lead to the wastage of resources, increasing the operational cost and reducing overall efficiency. It can also pose health and safety risks to employees, nearby communities, and the environment, potentially leading to legal liabilities and negative public perception.We obtain Zero-Waste-To-Landfill certifications and ensure Singleuse Plastic free operations for all our locations. Further, we have developed action plans to reduce waste generation and provide waste reduction training for our employees, empowering them to adopt sustainable practices and contribute to our overall goal of reducing waste generation.Negative
+Opportunity Effective waste management 
+practices and recycling can reduce reliance on raw materials, decreasing costs and increasing profitability.PositiveS. 
+No.Material issue 
+identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+3 Water 
+ManagementRisk High water consumption 
+without adequate replenishment 
+measures can increase the company’s operational costs and reduce overall efficiency.We invest in water-saving technologies and advanced cleaning methods, including robotic cleaning techniques at our operational locations. Additionally, we also conduct water use assessments to improve the efficiency of our water management initiatives. We aim to implement robotic cleaning to prevent using freshwater for module cleaning at all upcoming locations.Negative
+Opportunity Efficient water management systems can help monitor water usage and prioritise water conservation, recycling, and replenishment, reducing the environmental impact and improving resource utilisation. Using robotic cleaning technology reduces water consumption and operational costs.Positive
+4 Biodiversity 
+and Habitat ManagementRisk Large-scale solar and wind 
+farms require a huge land area and may negatively impact the flora and fauna. Non-compliance with biodiversity-related regulations or destruction of natural habitats may lead to reputational damage.We conduct a comprehensive biodiversity assessment using the IFC PS and LEAP approach. Additionally, we conduct Bird and Bat Monitoring studies at applicable projects and have installed bird flight diverters, bird guards, insulation sleeves, cotton flags, and bird reflectors on the transmission line to protect the avian population.Negative
+Opportunity Conducting biodiversity 
+impact assessment can help identify risks associated with operational expansion, impact on biodiversity, and remedial actions. Proper reservoir placement and trap-and-haul programmes can help collect fish and transport them past the facility to prevent fish from being trapped in the turbine and thus preserve marine life near PSP hydro projects.Positive
+277 276
+Integrated Annual Report 2025-26 Portfolio  
+OverviewCorporate OverviewStrategic ReviewESG OverviewStatutory ReportsFinancial Statements
+ADANI GREEN ENERGY LIMITED
+S. 
+No.Material issue 
+identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+5 Operational 
+Efficiency and 
+New Business OpportunitiesOpportunity Technological advancements 
+can increase efficiency. Innovative solutions lead to cost reductions, create new job opportunities, manage competition, and ensure longterm success.Positive
+6 Occupational 
+Health and SafetyRisk Violations of health and 
+safety standards could result in monetary penalties, increased costs from corrective actions, settlement costs, and reputational damage.
+ We are ISO 45001:2018 Occupational Health and Safety Management Systems certified and maintain rigorous health and safety standards for all our operations. We continuously monitor and evaluate the safety performance, conducting internal and external audits to improve the system. 
+ We have implemented a Video Analytics-based PPE Monitoring POC, allowing real-time identification of unsafe acts and alerts.Negative
+Opportunity Automating health and safety 
+monitoring systems can prevent accidents, electrical hazards and streamline safety operations.Positive
+7Employee Well-beingRisk Employees struggling with 
+mental health issues may be unfocused or miss several days of work, which may directly impact the productivity and efficiency of the company.
+ Our comprehensive wellness programmes include mindfulness sessions and regular yoga and stress management workshops. 
+ Our Adani Care programme focuses on emotional health, offering confidential counselling and support to employees and their family members, ensuring comprehensive aid for their emotional well-being.Negative
+Opportunity Assisting employees in stress 
+management and providing support to prevent burnout can reduce mental health illness and create a sense of loyalty towards the company.PositiveS. 
+No.Material issue 
+identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+8 Community 
+RelationsRisk If free, prior, and informed 
+consent is not obtained, then 
+rights to land and natural resources and human rights of communities including indigenous communities can be violated. It can lead to unfair compensation for lost access to resources and cause reputational damage to the company. The negative health effects of wind turbine noise may lead to agitation by the community and resistance against installing wind turbines, resulting in increased costs and delays. We prioritise improving the standard of living for our surrounding communities. Before we commence operations, we partner with local communities to understand their needs and tailor our initiatives to address their most pressing concerns. We conduct free, prior, and informed consultation as a part of ESIA studies.
+ As part of our CSR strategy, we help improve the lives of the local community members across the focus areas of health, education, sports, infrastructure, and livelihood.Negative
+Opportunity The development of 
+underserved communities can help lift the burden of poverty by educating and recruiting from the local community. Innovative technologies such as improved blade designs, noise-absorbing materials, and advanced acoustic treatments can improve efficiency while improving the quality of life of local communitiesPositive
+9 Human Rights Risk Child labour, forced labour, poor 
+working conditions, instances of discrimination and harassment lead to hefty fines and severe regulatory and reputational risk. Such instances may also negatively impact employee morale, leading to stress, dissatisfaction, and reduced productivity.
+ We assess all our operational and project sites for child and forced labour, sexual harassment, discrimination, and wages. 
+ We conduct human rights due diligence across all our operational locations through the head office and sample site visits. Additionally, ESG evaluation/screening for suppliers includes human rights aspects. 
+ We provide training on workplace discrimination and harassment and ensure a transparent process for reporting incidents and aligning behaviour with our standards.Negative
+279 278
+Integrated Annual Report 2025-26 Portfolio  
+OverviewCorporate OverviewStrategic ReviewESG OverviewStatutory ReportsFinancial Statements
+ADANI GREEN ENERGY LIMITED
+S. 
+No.Material issue 
+identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+Opportunity Ensuring good working 
+conditions and respecting 
+human rights can provide social protection and status, personal development opportunities, and protection from physical and psychosocial hazards, leading to increased productivity.Positive
+10 Diversity, 
+Equity, and InclusionRisk Lower diversity may lead to 
+lower productivity, higher absenteeism, and higher turnover, resulting in higher costs for the company if the employees feel excluded or unsafe in the workplace.
+ We have established dedicated facilities for women, such as separate washrooms, and implemented practices like flexible work hours and remote work options to support their needs. We have also established the ‘AGEL Women’s Network’, an inclusive group that facilitates mutual collaboration, enabling women to share their aspirations and enlist support in advancing their personal and professional journeys. 
+ Furthermore, we strive to ensure gender pay parity at all levels of our organisation. We have set a target to increase the women representation to 10% by FY30.Negative
+Opportunity A diverse workforce and Board 
+can help attract and retain top talent while assessing problems from a broader point of view. They are more likely to consider all stakeholders’ best interestsPositiveS. 
+No.Material issue 
+identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+11 Human Capital 
+DevelopmentRisk Insufficient training and 
+development can lead to insufficient skills and knowledge for the future, thus hampering the growth of the employees and company growth. Poor workforce planning and persistent talent gaps in highgrowth areas can lead to an overreliance on existing staff to pick up the slack, which can cause employee stress, burnout, and turnover. Our Learning and Development department meticulously identifies training needs by assessing competency through forms and one-on-one discussions, which inform the creation of Individual Development Plans (IDPs). 
+ We proactively plan the workforce requirements by meeting with department heads and key stakeholders to gather input and identify gaps in our current organisational structure. 
+ A strategic workforce plan is developed to help us make informed decisions about talent acquisition and retention.Negative
+Opportunity Training employees can lead 
+to employee growth, retention, and increased productivity, thus lowering production costs. Capability gaps can be closed through detailed future workforce scenario analysis and forecasting workforce requirements based on the business strategy.Positive
+12 Employee 
+EngagementRisk Low employee engagement can 
+make employees feel less valued, leading to lower productivity or high attrition.Our well-rounded employee engagement and satisfaction approach includes financial, health, wellness, and family benefits.Negative
+Opportunity Improving employee 
+engagement by providing fair remuneration, social security, job security, and well-being measures can increase productivityPositive
+281 280
+Integrated Annual Report 2025-26 Portfolio  
+OverviewCorporate OverviewStrategic ReviewESG OverviewStatutory ReportsFinancial Statements
+ADANI GREEN ENERGY LIMITED

@@ -1,0 +1,659 @@
+
+=== page 1 ===
+
+=== page 2 ===
+FY2017
+VINOD KUMAR –MAY 2017ANALYST PRESENTATION
+=== page 3 ===
+2OUR PRODUCT FOCUSWHAT NEEDS TO GET DONE IN FY17 -18
+INNOVATION
+Focus on Customer POCs 
+and Formal Launch
+Mobility, IoT, Security, 
+SDWAN
+Productivity and 
+Operating Leverage
+>25% Growth
+Move towards
+positive EBITDA  
+Internet WAN,         
+UCC, Hosting
+NEW SERVICES 
+GROWTHTRADITIONAL 
+SERVICES
+Internal Digital 
+Transformation of IT , 
+Finance and SCM
+DIGITAL 
+TRANSFORMATION
+=== page 4 ===
+3DIFFERENTIATING ACTIVITIESWHAT NEEDS TO GET DONE IN FY17 -18
+Revamped
+Customer
+Experience
+Get the new
+Go-2-Market
+working
+Improve internal 
+business velocity 
+through process 
+simplification and 
+automation
+
+=== page 5 ===
+KEEP OUR PEOPLE 
+FOCUSSED, TRAINED AND 
+WORKING TOGETHER
+=== page 6 ===
+HOW WILL WE 
+MEASURE
+OURSELVES?
+=== page 7 ===
+HOW WILL WE MEASURE OURSELVES?
+GROW REVENUE 
+PROFITABLYAchieve Sales Order Booking Target
+Achieve Net Revenue Target
+Achieve Free Cash Flow Target
+SHAPE THE 
+FUTUREAchieve Revenue Target for New Products
+Advance the Partnership Program
+BECOME THE SQ 
+OF TELECOMImprove Satisfaction in Quote 2 Order Process
+Improve Satisfaction in Order 2 Cash Process
+Improve Overall Customer Satisfaction
+BE A GREAT 
+PLACE TO WORKImprove and Transform our Collective Skillsets
+Improve Overall Diversity Level
+
+=== page 8 ===
+7
+NEW
+SERVICES
+ROADMAP
+=== page 9 ===
+UCC, MOBILITY & I OT
+Available Q1 6-12 months
+Global SIP Connect
+Full PSTN Replacement in 24 
+CountriesAPI Interface
+Full PSTN Replacement in 29 
+Countries
+UCaaS CISCOWebEx CCA and CMR , 
+Cloud plus dedicated and hybrid 
+collaboration solutionsLaunch of SPARK Cloud and Hybrid Services 
+UCaaS Microsoft Cloud, dedicated and hybrid collaboration 
+solutionsSeamless integration with Contact Center 
+solution
+MOVE
+Mobile Virtual Enablement IoTConnect (SIM and eSIM), SIM Connect 
+(Data only) and Mobile Network EnablementIntegration of voice and SMS to SIM 
+Connect
+Hosted VoLTE / VoWIFI
+IOTIndia
+Human Safety Apps on HPE platform by May 
+2017Smart lighting, Smart Asset tracking 
+and Management, Smart Water
+60 cities rolled out
+=== page 10 ===
+GLOBAL NETWORK SERVICES
+Available Q1 6-12 months
+IZOTMHybrid WAN
+and Internet WANReach 100 countries for IZO IW Reach 130 countries for IZO IW
+IZOTMPrivate /
+Public ConnectAlibaba
+Zero Commit usage basedOrchestration for network on demand
+with cloud connection on demand
+IZOTMSDWAN PRIME
+and SELECTCloud Gateway reach to 20
+Internet (IPT / ILL) Roll out 10 -15 New PoPs
+Ethernet GDE / NDE GDE Burstability 10 New PoPs
+Transmission ProductsNew Transmission PoP –Maruyama
+Mumbai –Chennai NPL on SMW4Bandwidth on Demand Solutions at Layer -1
+Golive with Seabras into Brazil
+=== page 11 ===
+CLOUD AND DATA CENTER SERVICES
+Next 6 months 6-12 months
+Managed Hosting Services
+IZOTMPrivate Cloud 
+IZOTMCloud StorageGeo expansion: Dubai, Germany 
+(IPC and ICS)
+Hadoop as a service
+Managed MS AzureManaged services for Amazon 
+Web Services
+Managed Security ServicesNew SOC at Pune and Singapore
+Launch of services under Risk and 
+Compliance (Security assessment 
+framework)
+Cloud Based Web Application 
+FirewallNew SOC Europe
+Launch of advanced threat 
+management service 
+=== page 12 ===
+THEMES, VALUE PROPOSITIONS AND SOLUTION MAPPING
+Borderless 
+growth
+Productivity 
+and efficiency
+Customer 
+experience and 
+engagement
+Managing 
+business risk
+11THEMES VALUE PROPOSITIONS LEAD SOLUTION AREAS SOLUTION AREAS APPLICABLE FOR THEME
+1.Become truly global across new 
+markets and segments with 
+best-in-class infrastructure
+2.Rapidly develop new revenue streams 
+in an agile manner
+5.Enable seamless omni -channel 
+experiences to increase customer 
+awareness and loyalty
+6.Secure your data and applications 
+against external threats
+7.Ensure reliability and near -zero 
+business disruption3.Enable seamless multi -platform 
+collaboration
+4.Ubiquitous access to your data 
+and applicationsIZO WAN, MHS, MSS
+UCaaS, SIP
+InstaCC, MMX
+MSS (DDoS, SIEM, 
+Secure Web Gateway)IZO WAN, MHS, MSS, 
+IZO Pvt Connect
+MHS, MSS, MOVE 
+(IoT connect)
+IZO WAN, MHS, MSS•IZO WAN
+•IZO Private Connect
+•MOVE (IoT Connect, 
+SIM Connect)
+•MMX•UCaaS (Cisco 
+and Microsoft)
+•SIP
+•MHS
+•MSS
+•UCaaS (Cisco 
+and Microsoft)
+•Global SIP Connect
+•APIs (UCC)•MOVE (IoT)
+•MHS
+•MSS
+•CDN
+•Web RTC
+•API suite (incl. 
+Wifi+)•InstaCC
+•MMX
+•MSS
+•IZO WAN
+•Cloud and hosting
+•MSS
+•DDoS
+•SIEM•Secure Web 
+Gateway
+•IZO Private 
+Connect
+•MHS
+=== page 13 ===
+BUSINESS
+TRANSFORMATION
+=== page 14 ===
+PROJECT TRACKS & TIMELINES BUSINESS TRANSFORMATION
+Focus Project TracksTime to Full 
+FunctionalityTime to First
+Benefit
+Sales Automation 2-3 Years 1 Year
+Partner Management 1 Year 1 Year
+Billing and Collection Improvement 2 Years 6 Months
+New Product Introduction 1 Year 1 Year
+Provisioning 2 Years 9 Months
+Service Assurance Automation 2 Years 1 Year
+Service Management 1 Year 9 Months
+Data Cleanup 1.5 Years 9 Months
+=== page 15 ===
+SUSTAINABILITY
+=== page 16 ===
+SUSTAINABILITY
+CSR
+$2.2m USD Spent
+11 Major Projects
+Outreach Touched ~45,000 PeopleENVIRONMENT
+Plans set for 73.6 Megawatts of Renewable Energy
+FY17 saw a reduction of 770 metric tons of CO2 eq.
+Image of 70 Megawatt solar facility in 
+Japan for illustration purposes. -KYOCERAWINNING MIX
+Overall female headcount up from: 
+•17% in 2014 to
+•20% in 2017
+Company goal to reach 30% 
+=== page 17 ===
+FINAL THOUGHTS
+“We are more like an 
+OTT than a telco.”“We are a safe haven in the 
+tech and telecom space?”
+•Growing Portfolio of Value 
+Added Services.
+•Cloud, API and Hybrid becoming 
+a way of life.
+•Creating and enabling more 
+platforms.•Globally diversified.
+•Broad but Cohesive portfolio.
+•Pipeline of incubation projects.
+=== page 18 ===
+THANK YOU
+tatacommunications.com
+www.tatacommunications.com @tata_comm
+http://tatacommunications -newworld.com www.youtube.com/tatacomms
+© 2017 Tata Communications. All Rights Reserved. TATA COMMUNICATIONS and TATA are 
+trademarks of Tata Sons Limited in certain countries.
+
+=== page 19 ===
+ANTHONY BARTOLO
+MAY 2017MOBILE CONNECTIVITY AND 
+THE INTERNET OF THINGS …
+BORN CONNECTED 
+=== page 20 ===
+ENTERING A 
+MASSIVELY
+DIGITAL 
+ECONOMY 70% 52
+of all 
+mobile dataMobile
+dataExaBytes/
+Month Video6.3 7 28
+Smartphones Devices/
+humanConnected 
+devicesBillion Billion
+By
+2021 …
+Source: GSMA Intelligence Report June 2016: CONSUMER BARRIERS TO MOBILE INTERNET 
+ADOPTION IN ASIA; Smartphone ConnectionsOPPORTUNITY …BY THE NUMBERS
+=== page 21 ===
+1.YET…
+NEW ERA OF PEOPLE AND THINGS BORN CONNECTED
+=== page 22 ===
+CIO’S ARE ON A DIGITAL TRANSFORMATION JOURNEY21
+THE BEGINNING: 
+Basic communication devicesTRANSFORMING:
+‘Mobile first’ for humans 
+and machinesMISSION CRITICAL: 
+Always on, secure, productive, mobile 
+awareCONNECT AND MANAGE: 
+Cross border, many devices, complex 
+requirements
+The CIO’s desire…
+API CONSUMPTION 
+$ / Sub / Device / GB Everything modular, mobile 
+enabled, cross border and 
+globalDISTRIBUTION
+SUPPORT
+PRODUCTS
+SERVICES
+
+=== page 23 ===
+IOT DevicesGLOBAL 
+SERVIC
+E
+COMMON 
+API
+IOT Services
+ACROSS 900+ NETWORKS …TURNING NETWORKS INTO AN APIGLOBALLY
+TRUSTED, 
+NEUTRAL, GLOBAL 
+MOBILITY 
+ECOSYSTEM 
+ENABLER
+900
+MNO RELATIONSHIPS
+=== page 24 ===
+MAXIMIZES VALUE OF DATA BY TRANSLATING INTO ACTIONABLE INTELLIGE NCEECOSYSTEM PLATFORM DRIVES BUSINESS DECISIONS23
+COLLECT CONNECT
+Connect everything 
+from shop floor to  
+topfloorCapture critical data  
+at every level, from  
+sensor to cloud.ANALYZE TAKE  
+ACTION
+Drive action  
+through real-time  
+information and  
+business logic
+Convert data into  
+meaningful analytics
+CLOSE THE LOOP
+=== page 25 ===
+MOST INDUSTRIES SEE BENEFITS OF LEVERAGING MOBILITY / IOTEND CUSTOMER VERTICALS24
+•Cars and electric car manufacturers Automotive
+•Solution providers managing moving assets in telematics, logistics, and navigation Moving Assets
+•Consumer devices manufacturersConsumer Electronics & Device 
+OEM
+•Manufacturer or leasing company of equipment in construction, machinery or 
+agricultureConstruction & heavy 
+equipment
+•Airlines companies and their tier one communication suppliers Aerospace
+•Solution provider or enterprise managing fixed assets across sub -segment such as security, 
+energy, manufacturing, Oil & Gas, Point of Sales, parking, elevators or building assets. Fixed Assets
+•Medical devices providers and insurance companies Healthcare & Insurance
+=== page 26 ===
+OUR PROGRESS TO DATE
+Tata Communications MOVE -Global India IoTPlatform
+Pre-
+Launch
+•Market 
+assessment
+•Investment in 
+Teleena
+•Recruitment
+•Product availability
+•Internal readiness 
+and trainingLaunch
+•Launch at Mobile 
+World Congress
+•Product Availability 
+March 2017
+•Defined target 
+customer focusTrials
+•Trials in Delhi, 
+Mumbai, 
+Bangalore, 
+Jamshedpur
+•53+ POCs runningRollout
+•Developing a 
+Partner & Developer
+Eco-System
+•60 Cities by FY2017
+•Rest of India 
+FY2018
+•Target 1900 cities 
+and towns in India
+
+=== page 27 ===
+IDENTIFIED IOT LARGE SCALE OPPORTUNITIES
+WORKER SAFETY
+WOMAN’s SAFETY BUTTONENERGY MANAGEMENT SAFETY MANAGEMENT
+A/C TEMP MONITORS
+STREET LIGHTSSERVICES MANAGEMENT
+3 BUTTON DEVICES
+REMOTE ELECTRIC SWITCH
+
+=== page 28 ===
+IOTINDIA USE CASE
+We need to be able to monitor conditions 
+in the Mine to ensure employee safety at 
+all timesSCENARIO
+•Mining companies tend to rely on mechanical and manual 
+approaches to monitor assets, as well as monitor conditions 
+and safety 
+•Track asset location –Drilling equipment, safety equipment
+•LP-WAN operates better than cellular in underground conditions
+•Monitor mine conditions
+•Air quality
+•Temperature
+•Humidity
+•Water levelsHOW TATA COMMUNICATIONS LP -WAN HELPSSAFETY & ASSET TRACKING
+=== page 29 ===
+SMART PALLETS  TATA COMMUNICATIONS MOVE –IOT CONNECT
+•Cargo Pallets can be shipped anywhere in the world
+•Connectivity is required to ensure cargo is delivered on time and 
+in the best possible condition 
+•Lost pallets are an everyday problem for transport companies
+•Track the location and monitor the cargo’s condition 
+throughout its journey, predict delays and the spoilage risk for 
+perishables
+•Smart Pallets have embedded sensors to monitor
+•Location –how long has the cargo been in transit?
+•Temperature / Humidity –has the right environment been maintained?
+•Shocks -has the cargo been dropped or damaged on route?SCENARIO
+HOW TATA COMMUNICATIONS MOVE -IOT CONNECT HELPSLorries carrying pallets can be tracked 
+with GPS, but what’s the condition of 
+their cargo ? 
+
+=== page 30 ===
+AIRCRAFT MAINTENANCE29
+•Aircraft require maintenance, refuelling and stock 
+replenishment at different legs of their daily flight schedule
+•Sometimes its difficult to predict what ground services or  
+maintenance tasks are required until after an aircraft has 
+landed.  Airside triage consumes time and costs airlines money
+•Monitor the fuel consumption, engine performance, holding 
+tank levels, and catering stock in real time. 
+•Request essential maintenance activity before aircraft land.  
+Have the right staff, equipment and services already on the 
+tarmac waiting.
+•Quicker turnarounds -save time on the ground and depart quicker
+•Customer Satisfaction –punctual airlines are often the most popular
+•Improved efficiency -right assets are in the right place at right timeSCENARIO
+HOW TATA COMMUNICATIONS MOVE -IOT CONNECT HELPSAircraft turnaround time is everything on 
+short haul routes, getting back in the air 
+quickly can save airlines millions
+TATA COMMUNICATIONS MOVE –IOT CONNECT
+=== page 31 ===
+FLEET MANAGEMENT30
+•Haulage firms and delivery companies are under pressure to 
+deliver cargo and goods on time and to budget 
+•GPS-based tracking on its own isn’t enough, firms also need to  
+monitor, log and control a variety of different factors to reduce 
+costs
+•Optimise the road worthiness and asset life of vehicles by 
+proactively monitoring and maintaining vehicles. In turn reducing 
+the average cost per mile.  
+•Sensors can be used to monitor fuel consumption, engine 
+alarms, brake wear, tyre wear, load weight, speed, tyre pressure, 
+cargo temperature & humidity. 
+•Deceleration, braking, and airbag sensors can be combined to 
+detect accidents and automatically alert the emergency services 
+and fleet managers.SCENARIO
+HOW TATA COMMUNICATIONS MOVE -IOT CONNECT HELPSThere’s more to Fleet Management than 
+just knowing where your vehicles are and 
+any delays on route
+TATA COMMUNICATIONS MOVE –IOTCONNECT
+=== page 32 ===
+SMART RECOVERY TAGS 31
+SCENARIO
+HOW TATA COMMUNICATIONS MOVE -IOT CONNECT HELPS•People lose precious items and possessions all the time.  It’s 
+distressing and often expensive to replace them  
+•Using technology to locate and recover lost items is the smart way 
+forward
+•Trackable Smart Tags are a great low cost recovery solution and 
+can be used to locate anything from a lost dogs to holiday luggage. 
+•Endless applications but particularly well suited to:
+•Airlines (smart luggage check -in)
+•Luggage manufacturers 
+•Motor insurance companies
+•Plant hire
+•Farmers and vets
+•‘Lost holiday luggage could be a 
+thing of pass with Smart Recovery 
+Tagging
+TATA COMMUNICATIONS MOVE –SIM CONNECT
+=== page 33 ===
+CONNECTED CONSUMER DEVICES32
+SCENARIO
+HOW TATA COMMUNICATIONS MOVE -IOT CONNECT HELPS“My smartphone came with a SIM 
+and cheap roaming out of the box 
+so I didn’t need to think about which 
+mobile network to use”•Holidaymakers or mobile workers who use their domestic call plan 
+abroad can sometime end up with huge roaming bills or suffer 
+from restrictive fair usage policies   
+•Increasingly manufacturers are selling devices with the option of a 
+pre-installed OEM SIM. These can sometimes offer good value 
+and solve global roaming headaches for consumers
+•Smartphone and tablet manufacturers should be targeted to 
+become Tata MVNOs and provide connectivity out of the box. This 
+provides the following benefits:
+•Creates new revenue streams for manufacturers
+•Gives manufacturers greater leverage against MNOs when 
+selling devices
+•Controlling the cost of data creates an opportunity to better 
+monetise other apps sold by the manufacturer (e.g. iTunes)
+•Simplifies the customer journey for consumers
+•‘
+TATA COMMUNICATIONS MOVE –SIM CONNECT
+=== page 34 ===
+TATA COMMUNICATIONS MOBILE STRATEGY EVOLUTION
+“THE MOBILE ENABLEMENT SPECIALIST”
+900 MNO RELATIONS
+MOBILE 
+CUSTOMER 
+ENGAGEMENT
+MOBILE 
+VIRTUAL 
+NETWORK 
+ENABLER
+IOT & M2MNETWORK FUNCTION 
+VIRTUALISATION
+MVNO FOR ENTERPRISE
+MVNO FOR SERVICE PROVIDERSMOBILE CUSTOMER ENGAGEMENT
+ENTERPRISE MESSAGING
+API SUITE
+INTERNET OF THINGS
+GLOBAL IOT CONNECTIVITY
+& VAS PROVIDER
+INDIA LP -WAN LoRa NETWORK 
+& ECO -SYSTEM ENABLER TRUSTED, NEUTRAL, 
+GLOBAL MOBILITY 
+ECOSYSTEM 
+ENABLER
+
+=== page 35 ===
+..ABOUT INTERSECTIONSWHY WE ARE DIFFERENTIATED34
+We live here, 
+here & here
+We Excel Here !!!Collaboration Mobility / IOT
+Global Reach /
+Platform
+
+=== page 36 ===
+Air conditionerProduct electronics & 
+entertainment
+Vehicle leasingTelecom infrastructureAsset tracking
+Power distributionTraffic lightsSecurity
+LightingAir quality
+Noise
+Roadside equipmentVibrationAccess controlPumpsWaste Management
+Driver behavior
+Connected carElectricity switch
+Digital signage
+Fire & emergencyBUILDING SMART CITIES TOGETHER
+THANK YOU
+=== page 37 ===
+36
+FINANCIAL 
+PERFORMANCE
+=== page 38 ===
+Rs Crores FY 16 
+Reported FY 17 
+ReportedFY 17 
+Normalized 
+Operating 
+Performance FY 16 Excl. 
+Reported  FY 17 Excl. 
+Reported FY 17 Excl. 
+Normalized 
+Operating 
+Performance
+Gross Revenue 18,653           18,038           18,165            17,868           17,486           17,613            
+% Growth -3.3% -2.6% -2.1% -1.4%
+Net Revenue 8,601            8,774            8,839              8,055            8,369            8,434              
+% Growth 2.0% 2.8% 3.9% 4.7%
+EBITDA 2,747            2,660            2,870              2,307            2,338            2,547              
+% Growth -3.2% 4.5% 1.3% 10.4%
+EBITDA % 14.7% 14.7% 15.8% 12.9% 13.4% 14.5%
+EBIT 758.6            775.6            984.9              442.4            472               681                 
+% Growth 2.2% 29.8% 6.7% 54.0%
+EBIT % 4.1% 4.3% 5.4% 2.5% 2.7% 3.9%
+Operating PBT 346               407               616                 27                 104               313                 
+% Growth 17.8% 78.4% 4X 11XREPORTED
+ TCDC & TCX - EXCLUDEDTCL CORE | FY17 KEY HIGHLIGHTS  (INR CRS)
+RoCE improved to 8.6% from 8.1% last year
+Basis Management estimates for cost allocation
+Prior period figures have been regrouped / recasted where necessaryExcluded section refers to financials without TCDC & TCX for Full Year
+Voice    17%. Sequential decline in Voice GR over last 6 quarters
+NR    5% favourable change in revenue mix with data at 89% Vs. 86% last year
+•Traditional services revenue grew by    4%
+•Growth services revenue    13 %
+FY17 Actuals Normalised
+AFA
+GR 58.7
+EBITDA 168.5
+Demonetisation
+GR 68.6
+EBITDA 42.0
+=== page 39 ===
+Excluded section refers to financials without TCDC & TCX for Full YearDATA FY 17| FY17 KEY HIGHLIGHTS  (INR CRS)
+Basis Management estimates for cost allocation
+Prior period figures have been regrouped / recasted where necessaryAFA
+GR 58.7
+EBITDA 168.5
+Demonetisation
+GR 68.6
+EBITDA 42.0
+Traditional YoY
+ILL 15%
+Ethernet 12%
+VPN 5%
+Growth
+SIP T 20%
+MSS 55%
+Mobile New 159%*FY17 Actuals Normalised
+Data GR 11%
+•Growth services 18% 
+•Traditional services 5%
+•Transformation services 33%
+Significant improvement in EBIDTA margin (120 bps) driven by strong net revenue growth and favourable mix change
+Rs Crores FY 16 
+Reported FY 17 
+ReportedFY 17 
+Normalized 
+Operating 
+PerformanceFY 16 Excl. 
+ReportedFY 17 Excl. 
+ReportedFY 17 Excl. 
+Normalized 
+Operating 
+Performance
+Gross Revenue 10,597           11,320           11,448            9,813            10,768           10,895            
+% Growth 6.8% 8.0% 9.7% 11.0%
+Net Revenue 7,512            7,868            7,933              6,967            7,464            7,529              
+% Growth 4.7% 5.6% 7.1% 8.1%
+EBITDA 2,243            2,231            2,440              1,803            1,924            2,132              
+% Growth -0.5% 8.8% 6.7% 18.3%
+EBITDA % 21.2% 19.7% 21.3% 18.4% 17.9% 19.6%EXCLUDED (TCDC & TCX)REPORTED
+=== page 40 ===
+www.tatacommunications.com I     @ tata_comm | http://tatacommunications -newworld.com | www.youtube.com/tatacomms
+© 2016 Tata Communications. All Rights Reserved. TATA COMMUNICATIONS and TATA are trademarks of Tata Sons Limited in certain countries.
+Capital 
+Expenditure 
+Trend
+195267
+223
+18766
+5
+41846
+35
+33219319
+263
+224
+FY14 FY15 FY16 FY17USD MN
+Data Voice OtherCAPITAL EXPENDITURE TREND(CAPITALISED): FY14 –FY17
+Note: USD -INR: FY14 60.48, FY15: 61.13, FY16: 65.44, FY17: 67.08
+=== page 41 ===
+www.tatacommunications.com I     @ tata_comm | http://tatacommunications -newworld.com | www.youtube.com/tatacomms
+© 2016 Tata Communications. All Rights Reserved. TATA COMMUNICATIONS and TATA are trademarks of Tata Sons Limited in certain countries.
+Net Debt to 
+EBITDANet Debt
+3.53.33.4
+2.8
+FY14 FY15 FY16 FY17Net Debt to 
+EBITDA (x)1380 13271438
+1150
+FY14 FY15 FY16 FY17USD MNNET DEBT: FY14 –FY17
+Cost Of Debt 
+(%)
+4.28%
+3.80%
+3.14% 3.04%
+FY14 FY15 FY16 FY17Cost of Debt (%)
+Note: USD -INR: FY14 60.48, FY15: 61.13, FY16: 65.44, FY17: 67.08
+=== page 42 ===
+www.tatacommunications.com I     @ tata_comm | http://tatacommunications -newworld.com | www.youtube.com/tatacomms
+© 2016 Tata Communications. All Rights Reserved. TATA COMMUNICATIONS and TATA are trademarks of Tata Sons Limited in certain countries.
+THANK YOU

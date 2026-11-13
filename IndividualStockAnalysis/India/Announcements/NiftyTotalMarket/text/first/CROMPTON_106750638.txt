@@ -1,0 +1,419 @@
+ 
+Public  
+ 
+  Date: August 19, 2026 
+ 
+To, 
+BSE Limited (“BSE”) , 
+Corporate Relationship Department, 
+2nd  Floor, New Trading Ring, 
+P.J. Towers, Dalal Street, 
+Mumbai – 400 001.  To, 
+National Stock Exchange of India Limited 
+(“NSE”) , 
+“Exchange Plaza”, 5 th  Floor, 
+Plot No. C/1, G Block,  
+Bandra- Kurla Complex Bandra (East), 
+Mumbai – 400 051.  
+BSE Scrip Code: 539876 NSE Symbol: CROMPTON 
+ISIN: INE299U01018 ISIN: INE299U01018 
+Our Reference: 77/2026-27 Our Reference: 77/2026-27  
+       
+Dear Sir/Madam, 
+ 
+Sub: Crompton Sustainability Report FY 2025-26 
+ 
+We are pleased to inform you that the Company has p ublished its first Sustainability Report for FY 202 5-
+26, marking an important milestone in Crompton Grea ves Consumer Electricals Limited's sustainability 
+journey and re-affirming its commitment to creating  long-term sustainable value for all stakeholders. 
+ 
+The Sustainability Report represents an important m ilestone in the Company’s sustainability journey an d 
+outlines the Company's long-term approach towards s ustainable value creation. The report provides an 
+overview of the Company's ESG governance framework,  climate commitments, environmental 
+performance, social impact initiatives, and sustain ability-related achievements during the financial y ear. 
+ 
+The Sustainability Report will also be available on  the website of the Company and can be accessed at 
+https://www.crompton.co.in/pages/financial-reports# AnnualReports   
+ 
+You are requested to take the above information on your record.  
+ 
+Thanking you,  
+ 
+For  Crompton Greaves Consumer Electricals Limited 
+ 
+ 
+ 
+Kaleeswaran Arunachalam 
+Chief Financial Officer 
+ 
+Encl: A/a 
+ 
+
+Powering 
+Everyday Life,
+Protecting 
+Every 
+Tomorrow
+Sustainability Report 2025-26Crompton Greaves Consumer 
+Electricals Limited
+ww
+This Sustainability Report presents the environmental, social and governance (ESG) performance of Crompton 
+Greaves Consumer Electricals Limited (“Crompton” or “the Company”) for the financial year 1 April 2025 to 
+31 March 2026. 
+It is prepared as a narrative companion to the Company’s Integrated Annual Report 2025–26 and the Business 
+Responsibility & Sustainability Report (BRSR), summarising material performance, progress against commitments, 
+and the management approaches applied during the reporting period.
+Scope and boundary
+The Report covers Crompton Greaves Consumer 
+Electricals Limited (“Crompton”) and its subsidiary 
+Butterfly Gandhimathi Appliances Limited (“Butterfly”) 
+on an Operational control basis, Spanning eight 
+manufacturing plants and the Company’s office 
+and R&D locations across India. Financial figures are 
+consolidated figures for F.Y. 2025-26.
+Reporting frameworks and assuranceA note on the storyline
+This Report’s narrative is built around a single premise: 
+for a consumer durables company, the greatest climate 
+lever lies not in the factory but in the consumer’s home. 
+The lifetime electricity consumption of fans, water 
+heaters, pumps and other appliances the use phase 
+emissions captured as Scope 3, Category 11 (Use of sold 
+products) represents the principal emissions pathway 
+for our business. 
+Accordingly, Scope 3 is a central focus of this Report, 
+and energy efficiency is framed as a core business 
+strategy rather than merely a compliance obligation. 
+We therefore disclose both the carbon we directly emit 
+and the emissions our products help households avoid 
+through improved efficiency.SEBI Business Responsibility & 
+Sustainability Report (BRSR)Nine principles of the 
+NGRBC
+GRI StandardsStandalone and 
+consolidated
+Integrated Reporting (IR)Six-capital value 
+creation framework
+United Nations Sustainable  
+ Development Goals (UN SDGs)Mapped across strategy 
+and programmes
+Independent assurance
+environmental performance indicators (energy, water, waste, 
+GHG and air emissions) have been independently assured by 
+TUV India Private Limited
+- BRSR & Annual Integrated Report 2025-26Performance at a glance      2
+Leadership perspective      4
+Our climate action commitments     5
+Who we are   6
+Why scale matters for sustainability     7
+Innovation engine     7
+Subsidiary spotlight: Butterfly Gandhimathi Appliances   7
+Sustainability as business strategy      8
+Listening first: Stakeholders and materiality    12
+Governing sustainability      14
+Our SDG compass      17
+SDG progress dashboard      18
+Decarbonising our operations      24
+Building a foundation for climate action      28
+Scope 3: Where the real carbon lives     30
+Decarbonisation through energy-efficient 
+& sustainable solutions     31
+Efficiency to impact: Our contribution towards 
+sustainable ecosystems      32
+Beyond fans: Efficiency across the portfolio     33
+Transforming Indian kitchens through 
+sustainable fuel efficiency      34
+Circularity and product stewardship      42
+Water stewardship      44
+Our people      46
+Communities      48
+Governance and ethics      50
+Awards and recognition F.Y. 2025-26    52
+Consolidated ESG data and assurance      54
+Our climate action commitments     56
+Glossary and abbreviations     57Contents
+How to read the numbers
+All quantitative disclosures in this report are drawn 
+from the Company’s published Integrated Annual 
+Report 2025-26 and BRSR F.Y. 2025-26. Where a 
+figure is derived arithmetically from published 
+data (for example, ratios and multiples), it is 
+identified as “derived”. Illustrative graphics are 
+labelled as such. 
+About this report
+Crompton Greaves Consumer Electricals Limited Sustainability Report 2025-262 3
+Powering Everyday Life, Protecting Every Tomorrow    Crompton Greaves Consumer Electricals Limited Performance at a glance The F.Y. 2025-26 sustainability scorecard
+23%
+Scope 1 + 2 GHG reduction vs 
+F.Y. 2024-25 (2,903 tCO₂e cut)76,606
+Lives impacted through 
+CSR  programme
+38%
+Use-phase emission intensity 
+reduction per ceiling fan sold vs 
+F.Y. 2021-22 baseline (Scope 3, 
+Cat. 11)
+71.43%
+Board independence; 
+28.57% women on the Board
+Golden Peacock 
+Award-2025
+Institute of Directors – We 
+received the Golden Peacock 
+Award, reaffirming our 
+commitment to strong corporate 
+governance and stakeholder 
+trust from the Institute of 
+Directors.21%
+Renewable energy share of 
+total energy demand2,007
+Lakh litres of potential water 
+storage created
+5.29 Mn tCO₂e
+Lifetime use-phase emissions 
+avoided by energy-efficient 
+fans sold in F.Y. 2025-26
+71/100
+S&P Global CSA score, a 
+10-point improvement38.51 Lakh kWh
+Energy consumed from 
+renewable sources
+1,000 
+Youth trained through Nayi 
+Disha Skill Development
+63%
+Energy intensity and GHG 
+avoidance of a 5-star BLDC 
+fan vs a non-star fan
+100%
+Adherence to the Code of Conduct 
+and anti-corruption policiesZero
+Waste to landfill maintained 
+across manufacturing
+4,055
+Field technician upskilled in 
+F.Y. 2025-26
+588 SKUs
+Type-I ECOLABEL-certified 
+products across lighting & 
+ceiling fan categoryENVIRONMENT SOCIAL
+PRODUCTS 
+GOVERNANCE
+One year of progress across environment, products, people and communities
+Crompton Greaves Consumer Electricals Limited Sustainability Report 2025-264 5
+Powering Everyday Life, Protecting Every Tomorrow    
+Leadership perspective
+Why sustainability is our 
+growth strategy
+Building a future-ready, 
+responsible and resilient 
+Crompton
+At Crompton, sustainability is closely linked to the way 
+we build products, serve consumers and create long-
+term value. As regulatory expectations evolve and 
+consumers increasingly seek safer, more efficient and 
+more responsible products, we see sustainability not 
+only as a compliance priority but also as a driver of 
+innovation, differentiation and business resilience.
+Our approach is anchored in the belief that 
+performance, safety, energy efficiency and 
+environmental responsibility must move forward 
+together. Through our product portfolio, 
+manufacturing practices, supply chain engagement 
+and data-backed ESG systems, we are working 
+to build a low-carbon, future-ready consumer 
+durables business that creates value for consumers, 
+shareholders, communities and the planet.Mr. D. Sundaram
+Chairman and Non-
+Independent Director
+“As we aim to create sustainable 
+value for all our stakeholders, we are 
+cognisant of the evolving regulatory 
+landscape, including stricter energy 
+efficiency and safety standards. 
+We view these regulations as an 
+opportunity to lead by example, 
+innovate continuously and 
+leverage our infrastructure and 
+technical capabilities to contribute 
+meaningfully to a more energy-
+efficient future”.Ms. Hiroo Mirchandani
+Non-Executive  
+Independent Director
+“ESG has emerged as a key enabler 
+of sustainable and resilient long-term 
+value creation. The ESG Committee 
+provides oversight of the Company 
+practices relating to environment, 
+health and safety, social responsibility, 
+governance, sustainability concerns, 
+and other public policy matters.  
+The emphasis is on embedding 
+responsible practices  aligned with 
+global standards and best -in-class 
+frameworks  into strategy and 
+governance”.Mr. Promeet Ghosh
+Managing Director & Chief 
+Executive Officer
+“At Crompton, we are leading 
+transformation through 
+#TechWithHeart: a philosophy 
+that places consumers at the 
+core of innovation. Our products 
+impact and are impacted by the 
+environment. As climate change 
+alters demand patterns and 
+consumer behaviour, we remain 
+committed to delivering products 
+that anticipate sustainability-
+driven preferences and contribute 
+to a greener future”.Ms. Anita Pansare
+Chief Technology Officer (CTO) 
+& Head – ESG
+“At Crompton, technology and 
+sustainability work hand in hand. 
+We are progressing towards a low-
+carbon, resource-efficient future 
+by enhancing product efficiency, 
+optimising operations, and 
+strengthening ESG practices across 
+our value chain. Our focus remains 
+on delivering reliable, sustainable 
+innovations that shape a better 
+tomorrow for our consumers and 
+communities”.
+The Company’s core purpose, 
+“Enriching life for generations 
+with smart and responsible 
+solutions”, makes this explicit. 
+Under the Crompton 2.0 strategy, 
+sustainability is not a parallel 
+workstream; it is woven into the 
+same levers that drive growth: 
+consumer-need-led innovation, 
+premiumisation of the portfolio, 
+supply chain excellence and digital 
+enablement. Energy-efficient, 
+5-star products command better 
+price points, differentiate the brand, 
+and reduce consumers’ electricity 
+bills, proof that environmentally 
+conscious choices open avenues for 
+innovation, product differentiation 
+and consumer affinity.Our climate action commitments:
+50% GHG scope 1&2 
+emission reduction 
+by 2035 
+(Baseline year-2022)
+ECOLABEL certification 
+for representative 
+product by 2030 
+(Selected representative 
+product across all PL)60% Emission Intensity 
+Reduction Per Unit Sales 
+by 2035 
+(Max. sales product 
+Ceiling Fan, baseline year-
+2022)
+Design for sustainability 
+(DFS) programme drive  
+(Integrate design 
+process with LCA based 
+sustainability tool)
+
+Consolidated revenue by segment, F.Y. 2025-26  
+(new businesses reported within segments)    (in core)
+K8,096 Cr
+Revenue
+6,0961,085915
+Electrical Consumer 
+Durable
+Lighting
+Butterfly
+Crompton Greaves Consumer Electricals Limited Sustainability Report 2025-26
+6 7
+Powering Everyday Life, Protecting Every Tomorrow    Who we are
+Why scale matters for sustainability
+Being a market leader in high-volume home electrical 
+categories means small product changes create outsized 
+impact. Minor gains in efficiency, material reduction or 
+packaging circularity multiply across unit volumes to 
+produce meaningful national-level reductions in energy, 
+resources and waste.
+At this volume, a single design improvement, one watt 
+Saved from a motor, one gram of material engineered 
+out of a housing, one packaging format made 
+returnable, compounds into a nationally significant 
+environmental outcome. 
+Innovation engine
+A platform-first innovation strategy, including the rapid 
+scaling of high-efficiency BLDC motor technology (such as 
+SilentPro) across the fan portfolio and the launch of India-
+firsts such as the AQI-based chimney, the HS Duro 5-Star 
+induction ceiling fan and India’s first 3-Star and 5-Star gas 
+cooktops under Butterfly.216
+R&D professionals
+8
+Manufacturing plants 
+(including Butterfly)15
+Patents granted
+2,76,000+
+Retailers across India211
+New products launched in 
+F.Y. 2025-26
+7,000+
+Channel partners1,435 Cr
+Revenue from new products 
+launched
+1,300+
+Authorised service 
+centresIndia’s home electricals leader, 
+present in Million of households
+Crompton Greaves Consumer Electricals 
+Limited operates across consumer electricals 
+and energy-adjacent segments, serving 
+households, farmers and institutions through 
+a diversified portfolio: fans, pumps, large and 
+small domestic appliances, large kitchen 
+appliances, lighting, Butterfly kitchen 
+appliances, and new businesses in solar rooftop 
+solutions and wires & cables.#1 
+In Ceiling 
+Fans#1 
+In 
+residential 
+pumps#3 
+Instorage 
+water 
+heaters 
+Subsidiary spotlight: Butterfly Gandhimathi 
+Appliances
+Butterfly, Crompton’s kitchen appliances subsidiary and 
+the #1 brand in LPG stainless steel gas stoves pan-India, 
+is where two of the group’s most significant F.Y. 2025-26 
+sustainability milestones landed:
+ Market leadership 
+#1 
+Position in LPG Stainless 
+Steel gas stoves#2 
+In Mixer Grinders
+#3 
+In B2C 
+lighting
+India’s first BEE 3-star and 5-star gas cooktops, 
+with best-in-class thermal efficiency (72% and 76%, 
+respectively), delivering up to 10% LPG savings versus 
+conventional  cooktops and an estimated ~16 Million tonnes 
+of CO₂e use-phase emission reduction potential.
+The 2.3 MWp solar power system at the Pudupakkam–
+Chennai plant, commissioned in June 2025, now supplies 
+an average of 60% of the plant’s total power demand, 
+the single biggest driver of the group’s 23% Scope 
+1+2 reduction.
+K943 Cr
+Butterfly revenue, 
+F.Y. 2025-26
+60%
+Renewable share of 
+Pudupakkam plant power76%
+Thermal efficiency of the 
+5-star cooktop
+ Market leadership 

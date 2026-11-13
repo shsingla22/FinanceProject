@@ -1,0 +1,194 @@
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala, 
+Bengaluru -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+July 30, 2026  
+Listing Compliance & Legal Regulatory  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Mumbai 400 001  
+Stock Code: 543227  & 975101  Listing & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai 400 051  
+Stock Code: HAPPSTMNDS  
+  Dear  Sir/Madam,  
+Sub:  Transcript  of Earnings  Call held  on July 28 , 2026  
+Pursuant to  Regulation 30 read with Para A of Part A of Schedule III of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 , please find enclosed the transcript of the Earnings Call held 
+on July 28, 2026, post  announcement of financial  results of the Company for the quarter ended as on June  
+30, 202 6. The transcript is also uploaded on the Company’s website  
+(https://www.happiestminds.com/investors ). 
+This is for your  information  and records.  
+ Thanking  you,  
+   Yours  faithfully,  
+  For Happiest  Minds  Technologies  Limited  
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer   
+Membership  No. F6706  
+
+Page 1 of 28 
+  
+ 
+“Happiest Minds Technologies Limited  
+Q1 FY27  Earnings Conference Call”  
+July 28, 2026  
+ 
+             
+ 
+ 
+ 
+Management:  Mr. Joseph Anantharaju  – Co-Chairman and Chief Executive Officer  
+ Mr. Ashok Soota  – Chairman and Chief Mentor   
+ Mr. Venkatraman Narayanan  – Managing Director  
+ Mr. Ram Mohan  – Chief Executive Officer, Infrastructure 
+Management  and Securities Services (IMSS)  
+ Mr. Sridhar Mantha  – Chief Executive Officer, generative AI Business 
+Services (GBS)  
+ Mr. Anand Balakrishnan  – Chief Financial Officer  
+ Mr. Praveen Darshankar  – Company Secretary and Compliance  
+Officer  
+Ms. Priyanka Sharma  – Head Investor Relations  
+ 
+  
+Moderator:  Ms. Aditi Patil  – ICICI Securities Limited  
+ 
+
+  Happiest Minds  Technologies Limited  
+  July 28, 2026  
+ 
+Page 2 of 28 
+ 
+Moderator:  Ladies and gentlemen, good day and welcome to the Happiest Minds 
+Q1 FY27 Earnings Conference Call hosted by ICICI Securities Limited. As 
+a reminder, all participant lines will remain in the listen -only mode and 
+there will be an opportunity for you to ask questions after the 
+presentation concludes. Should you need assistance during this 
+conference call, please signal the operator by press ing star, then zero 
+on your touchtone telephone. Please note that this conference is being 
+recorded.  
+ I will now hand the conference over to Ms. Aditi Patil from ICICI 
+Securities Limited for opening remarks. Thank you and over to you.  
+Aditi Patil:  Thank you, Ryan. Good morning, ladies and gentlemen. Thank you for 
+joining us today on the Q1 FY27 Earnings Call of Happiest Minds 
+Technologies Limited. On behalf of ICICI Securities, I would like to thank 
+the management of Happiest Minds for giving us the  opportunity to 
+host this call.  
+ Today we have with us Mr. Joseph Anantharaju, Co -Chairman and CEO; 
+Mr. Venkatraman Narayanan, Managing Director; Mr. Ram Mohan, 
+CEO Infrastructure Management and Security Services; Mr. Sridhar 
+Mantha, CEO Generative AI Business Services; Mr. Praveen Darsha nkar, 
+Company Secretary and Compliance Officer; Mr. Anand Balakrishnan, 
+CFO; Mrs. Priyanka Sharma, Head Investor Relations.  
+ I will now hand it over to Priyanka Sharma for the safe harbor 
+statement and to take proceedings forward. Thank you and over to 
+you, Priyanka.  
+Priyanka Sharma:  Thank you so much, Aditi. Good morning to all participants on the call 
+and welcome to the conference call to discuss the financial results for 
+the first quarter ended June 2026. I am Priyanka Sharma, Head of 
+Investor Relations. We hope you have had an opp ortunity to review the 
+earnings release issued yesterday. Now let me quickly walk you 
+  Happiest Minds  Technologies Limited  
+  July 28, 2026  
+ 
+Page 3 of 28 
+ 
+through the agenda for today's call. Joseph will begin by sharing his 
+perspectives on the business environment, our strategic priorities, and 
+overall business performance.  
+ Sridhar will touch upon AI -led transformation initiatives and progress 
+around AI -led engagements and capabilities. Thereafter, Venkat will 
+take you through the financial and operational performance for the 
+quarter followed by our outlook for FY27. Followin g the management 
+commentary, we will open the floor for Q&A.  
+ Before we begin, let me read the safe harbor statement. During this 
+call, we may make forward -looking statements. These statements 
+reflect the environment we see as of today and involve risks and 
+uncertainties that could cause actual results to differ mate rially. We do 
+not undertake any obligation to update these statements periodically.  
+ With that, let me hand it over to Joseph.  
+Joseph Anantharaju:  Thank you, Priyanka. Good morning, everyone, and thank you for 
+joining us today to discuss Happiest Minds Technologies' financial 
+results for the first quarter of FY27. We have started FY27 on a strong 
+note, reflecting the continued trust of our customers,  the resilience of 
+our operating model, and the growing relevance of our capabilities as 
+enterprises accelerate investment in AI -led transformation, digital 
+engineering, cybersecurity, and automation.  
+ As more of our peers have reported their quarterly performance, we 
+are encouraged by the relative strength of our own results. We believe 
+this reflects the strength of our AI -first strategy, the breadth of our 
+digital capabilities, and our disciplined exec ution in an evolving market 
+environment.  
+ Our operating revenue for the quarter stood at INR629 crores, 
+representing 14.3% year -on-year growth in rupee terms. In constant 
+  Happiest Minds  Technologies Limited  
+  July 28, 2026  
+ 
+Page 4 of 28 
+ 
+currency, revenue grew 2.6% sequentially and 6.7% year -on-year. We 
+also maintained a healthy EBITDA margin of 21.7% while continuing to 
+invest meaningfully in AI capabilities, enterprise platforms, talent, and 
+go-to-market initiatives that will support our  long -term growth. Venkat 
+will talk more about our results.  
+ This encouraging  start to the year reinforces our confidence in the 
+resilience of our business and provides a solid foundation for the year 
+ahead. Let me now turn to the market conditions. The demand 
+environment remains mixed with discretionary spending continuing to 
+be selective. At the same time, enterprise technology investments are 
+increasingly shifting towards AI -led transformation, data 
+modernization, cloud, cybersecurity, and productivity initiatives.  
+ We believe AI is fundamentally reshaping the future of enterprises. As 
+organizations move from experimentation to scale deployment, the 
+conversation has shifted from whether AI should be adopted to how 
+quickly it can be deployed securely and at scale to cr eate measurable 
+business value.  
+ This is reflected in the continued strength of our demand environment 
+with our pipeline remaining strong, providing us with confidence in our 
+growth outlook. Our AI portfolio continues to expand with over 100 AI 
+agents, around 60 repeatable use cases, and a growing suite of AI -
+powered solutions and accelerators enabling faster deployment, 
+greater reuse, and stronger customer outcomes. Sridhar will provide 
+more details on our AI strategy.  
+ Beyond our services business, we continue to strengthen our portfolio 
+of proprietary platforms and repeatable solutions. Our enterprise AI 
+platform, together with Arttha, Insurance in a Box, Multi -Omics, and 
+EduWeave platforms, help customers accelerate AI  adoption while 
+allowing us to combine proprietary intellectual property with our 
+  Happiest Minds  Technologies Limited  
+  July 28, 2026  
+ 
+Page 5 of 28 
+ 
+engineering capabilities. These platforms create differentiated entry 
+points into customer relationships, lead to non -linear growth, and 
+support larger, long -term transformation engagements.  
+ Some notable wins during the quarter included our selection as the 
+strategic data and AI partner for a leading North American energy 
+infrastructure company, an AI -powered test automation engagement 
+for a leading Australian insurance provider, a digital com merce 
+modernization program for a leading Indian multinational CPG 
+company, a Salesforce -based product engineering engagement for a 
+global consulting company, and a multi -year managed security services 
+engagement with a major Middle Eastern retailer.  
+ From an industry perspective, growth was led by Healthcare & Life 
+Sciences, which grew 22% year -on-year and 4% sequentially. BFSI 
+remained our largest vertical at 27% of revenues, while EdTech 
+contributed 16% and delivered modest growth. High -Tech too 
+reco rded a strong sequential recovery. Geographically, the Americas 
+continued to be our largest market, contributing 57% of revenues.  
+ Growth was increasingly diversified across our other markets with India 
+and APAC growing approximately 9% and 10% sequentially 
+respectively. This broader geographic participation provides us with 
+greater balance and supports our long -term growth ambitions.  Looking 
+ahead, while the macroeconomic environment remains mixed, we 
+believe the structural drivers of technology spending remain firmly 
+intact.  
+ Enterprises continue to prioritize AI, cloud, cybersecurity, and data 
+engineering, areas where Happiest Minds has deep capabilities and 
+strong customer relevance. Supported by a healthy pipeline, 
+disciplined execution, and increasing AI adoption across our  customer 
+base, we remain confident in our strategy.  

@@ -1,0 +1,163 @@
+Scrip code 540205
+NSE Symbol AVL
+MSEI Symbol NOTLISTED
+ISIN INE679V01027
+Name of the company ADITYA VISION LIMITED
+Type of meeting AGM
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)02-09-2026
+Start time of the meeting 04:30 PM
+End time of the meeting 05:05 PMGeneral information about companyHome Validate
+
+Name of the Scrutinizer  DEEPAK KUMAR DHIR
+Firms Name DEEPAK DHIR & ASSOCIATES
+Qualification CS
+Membership Number 11633
+Date of Board Meeting in which appointed 31-07-2026
+Date of Issuance of Report to the company 03-09-2026Scrutinizer DetailsHome Validate
+
+Record date 26-08-2026
+Total number of shareholders on record date 33506
+a) Promoters and Promoter group 0
+b) Public 0
+a) Promoters and Promoter group 5
+b) Public 59
+No. of resolution passed in the meeting 6
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 60879301 100.0000 60879301 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 60879301 60879301 100.0000 60879301 0 100.0000 0.0000
+E-Voting 45070034 92.6990 45070034 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 48619754 45070034 92.6990 45070034 0 100.0000 0.0000
+E-Voting 10960093 55.8078 10960093 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 19638995 10960093 55.8078 10960093 0 100.0000 0.0000
+Total Total 129138050 116909428 90.5306 116909428 0 100.0000 0.0000
+* this fields are optional
+No. of Votes
+0
+0
+0Public- Non 
+Institutions19638995Resolution (1)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo receive, consider, approve and adopt the Audited Financial Statements of the Company for the 
+financial year ended March 31, 2026 and the Report of the Board of Directors’ and Auditors’ 
+thereon.
+Promoter and 
+Promoter Group60879301
+Public- 
+Institutions48619754
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 60879301 100.0000 60879301 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 60879301 60879301 100.0000 60879301 0 100.0000 0.0000
+E-Voting 45070034 92.6990 45070034 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 48619754 45070034 92.6990 45070034 0 100.0000 0.0000
+E-Voting 10960093 55.8078 10960093 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 19638995 10960093 55.8078 10960093 0 100.0000 0.0000
+Total Total 129138050 116909428 90.5306 116909428 0 100.0000 0.0000
+* this fields are optional
+No. of Votes
+0
+0
+0Public- Non 
+Institutions19638995Resolution (2)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo declare Final Dividend of 125% or ₹1.25/- on face value of ₹1/- each per share for the financial 
+year ended March 31, 2026
+Promoter and 
+Promoter Group60879301
+Public- 
+Institutions48619754
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 46912101 77.0576 46912101 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 60879301 46912101 77.0576 46912101 0 100.0000 0.0000
+E-Voting 45070034 92.6990 34909761 10160273 77.4567 22.5433
+Poll
+Postal Ballot (if applicable)
+Total 48619754 45070034 92.6990 34909761 10160273 77.4567 22.5433
+E-Voting 10960093 55.8078 10960093 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 19638995 10960093 55.8078 10960093 0 100.0000 0.0000
+Total Total 129138050 102942228 79.7149 92781955 10160273 90.1301 9.8699
+* this fields are optional
+No. of Votes
+0
+0
+0Public- Non 
+Institutions19638995Resolution (3)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? Yes
+Description of resolution consideredTo appoint a director in place of Mrs. Rashi Vardhan (DIN: 11119897) who retires by rotation and, 
+being eligible, offers herself for re-appointment.
+Promoter and 
+Promoter Group60879301
+Public- 
+Institutions48619754
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes

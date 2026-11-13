@@ -1,0 +1,878 @@
+
+=== page 1 ===
+ 
+ May 21, 202 6                                                                                LTTL/L&S/2026- 27/05/08 
+ 
+To, 
+The Listing Department,  
+National Stock Exchange of India Limited,  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai - 400 051  
+Maharashtra, India  
+ The Listing Department,  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+Maharashtra, India  
+Dear Sir/Madam,  
+ 
+Sub  :  Announcement  under Regulation 30 and other applicable provisions  
+of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Investor Presentation  - Financial Results for the 
+quarter and financial year ended March 31, 202 6 
+ 
+Ref  : Le Travenues Technology Limited (the “Company”)  
+ 
+NSE Symbol: IXIGO  and BSE Scrip Code: 544192  
+ 
+In compliance with Regulation 30 and other applicable provisions of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended) , please find 
+enclosed the Investor Presentation on the audited financial results (standalone and 
+consolidated) of the Company for the quarter and financial year ended March 31, 202 6. 
+ This announcement will also be available on the website of the Company at https://investors.ixigo.com/ .   
+ This is for your information and records.  
+ Thank you, 
+ For Le Travenues Technology Limited  
+ 
+ 
+Suresh Kumar Bhutani  
+(Group General Counsel, Company Secretary &  Compliance Officer ) 
+=== page 2 ===
+Investor Presentation  Q4  &  FY26 
+=== page 3 ===
+Safe Harbour 
+This presentation and the accompanying slides 
+(“Presentation”) by Le Travenues T echnology Limited 
+(the “Company”) are for informational purposes only 
+and do not constitute an offer, recommendation, or 
+invitation to purchase or subscribe for any securities. 
+They should not be relied upon for any contract or 
+binding commitment. No securities offering will be 
+made except through a statutory offering document 
+with detailed information about the Company. 
+The Company has prepared this Presentation based 
+on reliable information but makes no representation 
+or warranty, express or implied, about its accuracy, 
+completeness, fairness, or reasonableness. This 
+Presentation may not include all material 
+information. Any liability for the contents or 
+omissions is expressly excluded. Some statements may discuss the Company’s 
+market opportunity and business prospects as 
+forward-looking statements, which are not 
+guarantees of future performance and are subject 
+to risks, uncertainties, and assumptions that are 
+difﬁcult to predict. These include economic 
+performance, industry competition, strategic 
+implementation, technological changes, revenue 
+ﬂuctuations, market preferences, and exposure to 
+market risks. 
+Actual results may differ materially from those 
+expressed or implied. The Company assumes no 
+obligation to update any forward-looking 
+information. Any third-party forward-looking 
+statements and projections included are not 
+adopted by the Company, and it is not responsible 
+for them. 
+2 
+=== page 4 ===
+We are a technology company 
+focused on empowering 
+travellers to plan, book and 
+manage their trips. 
+Flights Hotels Trains Buses O ur B u sine s s 
+Who We Are 
+3 
+
+=== page 5 ===
+Our vision is to become the most customer-centric 
+travel company, by offering the best customer 
+experience to our users. 
+4 V ision 
+
+=== page 6 ===
+5 
+W e ar e in t he “P e a c e o f M ind ” B u sine s s 
+=== page 7 ===
+6 Note: 1. Basis MAU & Downloads | 2.For 3 months ended 31st March  2026| 3. For year ended 31st March  2026| 4. As of 31st  March,  2026 MAU2
+Deep penetration 
+in Tier II / III2Annual 
+Passenger 
+Segments 
+Booked 3I ndia ’ s Lar g e st T r a v e l Pl a t f orm
+T owns4Lifetime 
+Downloads4
+Lifetime 
+Registered 
+Users 4Lifetime 
+Transacted 
+Users 484.82 Mn 2400+ 810.94 Mn 
+141.52 Mn 
+379.48 Mn 56.38 Mn 93.85 % 1 
+Repeat 
+Transaction Rate385.55% 
+
+=== page 8 ===
+2007 – 2019
+2020 – 2026
+7 O ur J ourney 
+=== page 9 ===
+8 
+
+=== page 10 ===
+9 
+
+=== page 11 ===
+10 
+
+=== page 12 ===
+11 
+What does AI 
+native mean? 
+Layer 1 
+Adaptive & interactive UX that 
+morphs in context, surfacing 
+ephemeral capabilities Layer 0 
+Traditional UX foundations, 
+enhanced for AI-native 
+interactions. 
+Layer -1 
+Context-aware AI woven into the 
+UX—aware of context, state, and 
+intent. 
+=== page 13 ===
+12 O ur 3-Pr ong e d A I S t r a t e gy 
+Disruption 
+Agentic AI enabled efﬁciency 
+81.52%  1  voice and 91.15%1 chats 
+resolved by autonomous AI agents 
+Annualized Rev / Employee ~2 Cr 
+increasing YOY with operating 
+leverage 
+AI optimized dynamic  pricing for 
+Peace of mind stack 
+AI driven discounts, revenue 
+management and ranking algorithms 
+AI driven  cross-sell and up-sell 
+ixigo NEXT-  AI Native re-imagination of 
+the app experience 
+TARA-  Multi-modal, agentic and 
+omnipresent AI  that gets things done 
+with hyper-personalization 
+Inorganic investments in disruptive 
+teams & startups 
+Revenue Efﬁciency 
+Note: 1. For 3 months ended 31st March  2026. 
+
+=== page 14 ===
+13 Q4 & F Y26 M anag emen t Commen t ar y - 
+Mr. Aloke Bajpai
+Chairman, Managing Director 
+& Group Chief Executive Ofﬁcer Mr. Rajnish Kumar
+Director & Group Co-Chief 
+Executive Ofﬁcer 
+Mr. Saurabh Devendra Singh  
+Group Chief Financial Ofﬁcer 
+“In FY26 we achieved 34% revenue growth and 28% Adj. EBITDA growth YoY. 
+Q4 maintained our growth trajectory with market-share gains, despite the high 
+base-effect of MahaKumbh last year and the current Middle-East crisis. The 
+next phase of our journey is all about reinventing our org as well as customer 
+experience, by putting AI at the core. ixigo NEXT is  just a sneak peek of the 
+agentic AI capabilities we’re working on. ” “FY26 demonstrated the advantage of 
+having a diversiﬁed business supported by 
+resilient growth engines. Even in Q4 FY26, 
+despite a high base effect, we delivered a 
+resilient performance. For me, the biggest 
+highlight of the year was our operating 
+discipline and cash conversion. ” 
+=== page 15 ===
+14 47,976.74 3,080.50 1,213.52 303.29 382.62 
+GTV Revenue from 
+Operations Contribution 
+Margin Adjusted 
+EBITDA PBT* 
+9% ▲ 8% ▲ 0% 4%  ▲ 41% ▲Q4 FY 26 vs Q4 FY 25 
+ * Proﬁt before share of loss of an associate, exceptional Items and tax. All numbers in INR millions unless indicated otherwise. 1,957.32 
+Cash Flow from 
+Operations 
+60% ▲ 186,926.84 12,280.39 4,743.00 1,209.47 1,025.58 
+ GTV Revenue from 
+Operations Contribution 
+Margin Adjusted 
+EBITDA PBT* 
+ 25% ▲ 34% ▲ 18% ▲ 28% ▲ 19% ▲FY26 vs FY25 
+ FY26 vs FY25 
+
+=== page 16 ===
+E st a b lis he d M ar k et L e ad er s hip in O n line T r a v e l
+Note: 1. Basis MAU & Download |    2. Basis Revenue from Operations CAGR from FY20 to FY25|                            Fastest Growing2 & Gaining Market-Share in All Lines of Businesses 
+“One-stop” Multi-Brand Travel Ecosystem Fastest Growing  21
+15 3
+
+=== page 17 ===
+16 A nnounc emen t s & P art ner s hip s 
+Secured multi-year branding 
+rights for ‘ixigo New Delhi Metro 
+Station’ with station branding, 
+in-metro announcements Partnered with Swiggy to offer 
+on-train food delivery from 
+40,000+ restaurants across 160+ 
+stations on ixigo Trains & 
+ConﬁrmTkt apps Abhibus powers intercity bus 
+ticket bookings on  Uber 
+ConﬁrmTkt launched  AI seat 
+Finder (powered by TARA), a 
+voice-enabled  feature designed 
+to help users ﬁnd conﬁrmed 
+train tickets with ease Partnered with KSRTC to 
+expand digital access to 
+government bus services 
+across Karnataka and beyond 
+ixigo, ConﬁrmTkt and 
+AbhiBus native apps  are now 
+LIVE on  ChatGPT 
+
+=== page 18 ===
+17 
+ 6.1 Mn+ Ratings across apps I ndia ’ s H ig he st R a t e d T r a v e l A pp s 
+
+=== page 19 ===
+L ev er aging Da t a S cienc e & A I: 
+O ur “P e a c e o f M ind ” S t a c k 
+18 Dynamic AI-based Pricing for Value Added Services 
+No Question Asked 
+Full Refunds Fully Flexible and 
+Freely Reschedulable 
+Upto 150% 
+Assured Refund  
+and Roadside 
+Assistance 
+Lock Fare Now, 
+Pay Later 
+Upto 3X Refund on 
+Unconﬁrmed Waitlisted 
+Train Tickets 
+31.36 %
+Ancillary 
+Attachment Rate  1
+● Food on Trains 
+● Airport Cabs 
+● Seat & In-ﬂight Meals 
+● Visa Rejection Protection 
+● Visa Processing 
+● Travel Insurance 
+  Other Value Added Services 
+*T&C Apply Note: 1. For 3 months ended 31st March  2026 | Upto 3X Refund 
+on Bus Tickets if 
+canceled by 
+bus operator 
+
+=== page 20 ===
+19 The ixigo 
+Flywheel Identify & Solve  Travel Utility Problems 
+AI-Enhanced Customer 
+ Experience & Data Moats
+Upsell Value-Added Services 
+to enhance Experience & 
+Monetization 
+Leverage Distribution to Cross-sell 
+Flights, Trains, Buses, Hotels Build Trust & Grow 
+NBU Users Organically
+Deepen Customer 
+Relationship &  
+Monetize Bookings 
+Lifetime Transacted Users2
+56.38 Mn Train running  / PNR status, Crowdsourced Info,  
+Bus  schedules, Flight tracking etc. 
+  Annual Active Users 1
+T argeted  cross-selling to expand share of 
+wallet across our ecosystem 
+ixigo Assured Flex, Abhi Assured, 
+Alternate Travel Plan, Food on Train, etc. Highest rated app, fuelling 
+word of mouth 
+569.43 Mn 
+Note: 1. For the year ended 31st March 2026 | 2. As of 31st March 2026 
+
+=== page 21 ===
+20 De li v ering t he B e st C u st omer E xp erienc e wit h A I 
+Providing Prompt Personalized Assistance Before, During & After the Trip 
+Average 
+Refund 
+Time1
+Calls Answered 
+Within 2 
+Minutes2
+Note: 1. Refund time includes cancellation processing  time | 2. Calls (or callbacks requested) to our call center 49h : 07m 
+FY21 
+67.15% 
+FY21 ………………………………..…...…... 
+…...……………………………..……... 
+Customer Queries 
+handled by AI 
+% Queries 
+handled by AI 4.35 Mn 
+95.70 % 
+Q4 FY 26 3h : 55m 
+Q4 FY 26 Q4 FY 26 
+Q4 FY 26 
+Chat 
+91.15% Voice 
+81.52% 
+
+=== page 22 ===
+21 I ndia M a cr oe c onomic 
+O ut l oo k 
+On Track to Become  
+The Third-Largest 
+Global Economy & 
+World’s 4th Largest 
+Domestic Travel 
+market by 2030 
+Number of Households By Income / Discretionary Spend1  
+(% of total Households) 
+2018 2030 High 
+8Mn 
+(3%)V High 
+29Mn (7%) 
+Lower mid 
+97Mn (33%) Lower mid 
+132Mn  (34%) Upper mid 
+61Mn (21%) Upper mid 
+168Mn  (44%) 
+Low 
+127Mn (43%) Low 
+57Mn 
+(15%) Discretionary Spending 
+Inﬂection Point at 
+~$4K GDP / Per Capita 
+Source: S&P Global Market Intelligence, IMF, F&S Report 1. Discretionary spending, deﬁned as spending on transport, recreation, and miscellaneous goods in a household (Source: F&S Report) Rising Per Capita Incomes Will 
+Shift the Income Pyramid 
+=== page 23 ===
+R o bu st Gr o wt h E xp e ct e d in I ndian T r a v e l & T ourism M ar k et 
+22 CAGR 
+(FY23-28) 
+8%
+6%
+7%
+12% 1,660 992 617 539 3,808 5,904 
+802 
+837 
+1,365 
+2,900 9%
+FY23 FY28 (P) 70% 81% 
+32% 
+19% 81% 86% 
+44% 
+28% 
+FY23 FY28 (P) 952 Mn Passengers Travelled 
+On Reserved Tickets 
+Air Hotels Rail Intercity Bus Air Hotels Rail (Reserved Booking) Intercity Bus 
+Source: F&S Report Growth In Online Penetration Across Different Segments Indian T ourism & Transportation Size  (INR Bn) 
+=== page 24 ===
+23 O T A s dri ving f a st er gr o wt h in O n line T r a v e l 
+Air Hotels Rail Intercity Bus Market size (INR Bn) CAGR 
+(FY23–28) 
+18% 
+15% 
+18% 17% 18% Indian OTA Market Outpacing the Overall Travel and Online Markets 
+Online Ofﬂine 3,808 
+2,079 
+1,239 FY23 
+5,904 
+3,895 
+2,802 FY28 
+OTA Market: 18% Online Travel 
+Market: 13% T otal Market: 9% CAGR 
+65% 35% 
+54% 46% FY23 FY28 
+813 238 100 
+1,879 517 202 204 
+FY23 881,239 
+FY28 2,802 
+Source: F&S Report Indian Travel Market By Booking Mode Indian OTA Market 
+Market size (INR Bn) 
+=== page 25 ===
+Adjusted EBITDA (INR Mn) Gross Transaction Value (INR Bn) 
+Revenue from Operations (INR Mn) Annual Active Users (Mn) 
+2 4 R o bu st L ong T erm Gr o wt h T r aj e ct or y  
+CAGR 
+29.39% CAGR 
+47.18% 
+CAGR 
+49.14%CAGR 
+(since FY21) 
+71.26% 
+=== page 26 ===
+Con sist en t Gr o wt h in T r an s a cting U s er s & M onetiz a tion 
+25 
+24.85% ▲ 15.10% ▲Gross Transaction Value (INR Bn) 
+MAUs and MTUs (Mn) Passenger Segments  (Mn) 
+Annual Spend per Transacting User (INR) 
+7.42% ▲
+=== page 27 ===
+Adjusted EBITDA (INR Mn) Revenue from Operations (INR Mn) 
+Contribution Margin (INR Mn) Operating Cash Flow (INR Mn) 
+26 Pr o ﬁt a b l e Gr o wt h W it h S t r ong Ca s h Con v er sion 
+60.16% ▲ 34.32% ▲ 
+27.62% ▲ 18.18% ▲ 
+=== page 28 ===
+Adjusted EBITDA (INR Mn) Revenue from Operations (INR Mn) 
+Contribution Margin (INR Mn) Gross Transaction Value (INR Bn) Q uart er on Q uart er T r aj e ct or y 
+27 
+
+=== page 29 ===
+Multiple Revenue Streams Di v er siﬁe d B u sine s s M od e l W it h M u l tip l e Gr o wt h Dri v er s 
+GTV 
+(INR Mn) Gross 
+T ake RateContribution 
+Margin (INR Mn)Revenue From 
+Operations (INR Mn) 
+Train 
+▪Agent Service charges 
+▪PG Charges 
+▪Value Added Services 
+▪Advertising 
+Flight ▪Airline Commissions 
+▪Convenience Fees 
+▪Value Added Services 
+▪Ancillaries & Advertising 
+▪Convenience Fees 
+▪Operator Commissions 
+▪Value Added Services 
+▪SaaS and Advertising Bus 
+28 12% 
+33% 
+46% FY26 vs. 
+FY25 
+82,789.49 
+74,104.58 
+75,145.83 
+56,506.95 
+26,207.47 
+18,011.94 
+6.1% 
+9.0% 
+12.0% 12% 
+54% 
+51% 2% 
+39% 
+18%5,112.57 
+4,569.02 
+3,906.78 
+2,533.93 
+2,979.95 
+1,969.24 1,555.13 
+1,527.40 
+1,602.87 
+1,154.59 
+1,531.63 
+1,298.05 Passenger 
+Segments (Mn) 
+8% 
+27% 
+44% 104.12 
+96.03 
+10.74 
+8.44 
+26.66 
+18.48 
+30% 
+41% 
+51% CM%
+=== page 30 ===
+Multiple Revenue Streams GTV 
+(INR Mn) Gross 
+T ake RateContribution 
+Margin (INR Mn)Revenue From 
+Operations (INR Mn) 
+Train 
+▪Agent Service charges 
+▪PG Charges 
+▪Value Added Services 
+▪Advertising 
+Flight ▪Airline Commissions 
+▪Convenience Fees 
+▪Value Added Services 
+▪Ancillaries & Advertising 
+▪Convenience Fees 
+▪Operator Commissions 
+▪Value Added Services 
+▪SaaS and Advertising Bus 
+29 -5% 
+18% 
+26% Q4 FY 26 vs. 
+Q4 FY 25 
+20,024.06 
+21,071.25 
+20,185.91 
+17,092.16 
+6,968.24 
+5,525.03 
+6.2% 
+8.6% 
+12.2% -2% 
+9% 
+22% 1% 
+-3% 
+7%1,243.67 
+1,263.45 
+956.96 
+875.53 
+803.53 
+658.98 397.36 
+391.55 
+383.29 
+395.68 
+428.17 
+401.04 Passenger 
+Segments (Mn) 
+-8% 
+14% 
+32% 24.18 
+26.18 
+2.74 
+2.41 
+7.22 
+5.45 
+32% 
+40% 
+53% CM%R e silien t P erf ormanc e, De spit e H ig h B a s e E ﬀ e ct 
+=== page 31 ===
+Revenue from Operations Contribution Margin Gross Transaction Value 
+30 
+Di v er siﬁe d & E v o l ving B u sine s s M i x - Q4 F Y26 
+Flight is now ixigo’s largest vertical by GTV &  Bus by Contribution Margin 
+=== page 32 ===
+31 Con s o lid a t e d S ummar y S t a t emen t o f Pr o ﬁt & L o s s 
+INR Million, unless otherwise stated FY26 FY25 FY24 Q4 FY 26 Q4 FY 25 
+Revenue from Operations 12,280.39 9,142.46 6,558.73 3,080.50 2,841.37 
+Other Income 473.07 180.20 92.18 187.66 59.42 
+T otal Income 12,753.46 9,322.66 6,650.91 3,268.16 2,900.79 
+Expenses 
+Employee beneﬁts expense * 2,200.44 1,636.17 1,410.20 485.43 464.00 
+Finance costs 27.34 23.30 28.86 6.96 5.51 
+Depreciation and amortization expense 148.23 103.38 129.24 43.90 29.69 
+Other expenses 9,351.87 6,697.65 4,710.10 2,349.25 2,129.70 
+T otal Expenses 11,727.88 8,460.50 6,278.40 2,885.54 2,628.90 
+Proﬁt / (loss) before share of loss of an associate, exceptional 
+items and tax 1,025.58 862.16 372.51 382.62 271.89 
+ 
+Share of loss of an associate, net of tax (112.22) (90.97) (59.07) (45.59) (32.99) 
+Proﬁt / (loss) before exceptional items and tax 913.36 771.19 313.44 337.03 238.90 
+Exceptional Items (27.96) 46.04 297.21 0.00 0.00 
+Proﬁt / (loss) before tax 885.40 817.23 610.65 337.03 238.90 
+ 
+T ax expense/ (income): 
+Current tax 226.84 40.09 1.25 16.71 39.45 
+Deferred tax charge / (credit) (56.25) 174.62 (121.21) (0.18) 31.74 
+T otal tax expense/ (income) 170.59 214.71 (119.96) 16.53 71.19 
+Proﬁt / (loss) for the period/year 714.81 602.52 730.61 320.50 167.71 
+* Including one off ESOP expense of INR 269.30 million in FY26. 
+=== page 33 ===
+32 S e gmen t W is e O p er a ting and F inancia l S nap s hot 
+All numbers in million unless otherwise stated FY26 FY25 FY24 Q4 FY 26 Q4 FY 25 
+Flight Passenger Segments 10.74 8.44 5.77 2.74 2.41 
+Flight GTV 75,145.83 56,506.95 35,269.99 20,185.91 17,092.16 
+Flight Gross T ake Rate 8.96% 8.14% 8.17% 8.62% 8.59% 
+Flight Segment Revenue 3,906.78 2,533.93 1,463.96 956.96 875.53 
+Flight Segment Results ( Contribution Margin)-A 1,602.87 1,154.59 709.79 383.29 395.68 
+Flight Contribution Margin % 41.03% 45.57% 48.48% 40.05% 45.19% 
+Train Passenger Segments 104.12 96.03 77.38 24.18 26.18 
+Train GTV 82,789.49 74,104.58 55,685.30 20,024.06 21,071.25 
+Train Gross T ake Rate 6.09% 6.04% 6.46% 6.19% 5.88% 
+Train Segment Revenue 5,112.57 4,569.02 3,703.70 1,243.67 1,263.45 
+Train Segment Results ( Contribution Margin)-B 1,555.13 1,527.40 1,293.83 397.36 391.55 
+Train Contribution Margin % 30.42% 33.43% 34.93% 31.95% 30.99% 
+Bus Passenger Segments 26.66 18.48 12.41 7.22 5.45 
+Bus GTV 26,207.47 18,011.94 11,748.11 6,968.24 5,525.03 
+Bus Gross T ake Rate 11.99% 11.47% 11.05% 12.15% 12.59% 
+Bus Segment Revenue 2,979.95 1,969.24 1,317.79 803.53 658.98 
+Bus Segment Results ( Contribution Margin)-C 1,531.63 1,298.05 870.50 428.17 401.04 
+Bus Contribution Margin % 51.40% 65.92% 66.06% 53.29% 60.86% 
+Other Segment Results ( Contribution Margin)-D 53.37 33.44 64.36 4.70 20.59 
+T otal Contribution Margin (A+B+C+D) 4,743.00 4,013.48 2,938.48 1,213.52 1,208.86 
+Contribution margin % 38.62% 43.90% 44.80% 39.39% 42.54% 
+=== page 34 ===
+33 
+INR Million unless otherwise stated FY26 FY25 FY24 Q4 FY 26 Q4 FY 25 
+T otal Contribution Margin 4,743.00 4,013.48 2,938.48 1,213.52 1,208.86 
++ Other Income 473.07 180.20 92.18 187.66 59.42 
+- Employee Beneﬁts Expenses 2,200.44 1,636.17 1,410.20 485.43 464.00 
+- T echnology and Related Costs 501.64 415.26 285.77 172.58 145.11 
+- Advertising & Branding 874.01 790.82 551.98 184.83 244.40 
+- Others ( G&A, Outsourcing and Misc. Expenses) 438.83 362.59 252.10 124.86 107.68 
+EBITDA 1,201.15 988.84 530.61 433.48 307.09 
++ ESOP Expense 481.39 139.08 114.68 57.47 43.73 
+- Other Income 473.07 180.20 92.18 187.66 59.42 
+Adjusted EBITDA 1,209.47 947.72 553.11 303.29 291.40 
+* Employee Benefits Expenses in FY26 includes a one-off ESOP expense of INR 269.30 million 
+F inancia l S ummar y - Con t ribution M ar gin t o E B ITD A 
+=== page 35 ===
+34 Particulars (INR Million) As at 
+March 31, 2026 As at 
+March 31, 2025 
+Assets 
+T angible and Intangible assets 833.29 268.64 
+Goodwill 4,444.75 2,595.75 
+Investment (Current & Non-current) 5,455.08 1,194.78 
+Other ﬁnancial assets (Current & Non-current) 8,343.76 329.03 
+Non-current tax asset & Deferred tax assets 195.49 214.07 
+Trade receivables 466.75 366.85 
+Cash and Bank Balances 4,495.86 2,789.63 
+Current assets (Others) 1,178.09 1,296.16 
+T otal assets 25,413.07 9,054.91 
+ 
+Equity and liabilities 
+Equity share capital 438.18 390.11 
+Other equity 20,028.31 5,946.11 
+Non-controlling interests 12.53 25.10 
+Lease liabilities (Current & Non-current) 194.76 78.13 
+Other ﬁnancial liabilities (Current & Non-current) 1,460.93 513.51 
+Borrowings 245.46 323.69 
+Provisions (Current & Non-current) 236.90 151.95 
+Trade payables 1,924.05 1,034.50 
+Deferred tax liabilities & Current tax liabilities 153.14 11.76 
+Contract liabilities & Other current liabilities 718.81 580.05 
+T otal Equity and Liabilities 25,413.07 9,054.91 B a l anc e S he et S ummar y 
+=== page 36 ===
+35 Ca s h Fl o w S ummar y 
+Particulars (INR Million) For the year ended 
+March 31, 2026 For the year ended 
+March 31, 2025 
+Cash ﬂows from operating activities 
+Proﬁt / (loss) before tax 885.40 817.23 
+Operating adjustments : 
+Share of loss of an associate, net of tax 112.22 90.97 
+Depreciation and amortization 148.23 103.38 
+Exceptional Items 27.96 (46.04) 
+Employee stock option scheme 481.39 139.08 
+Interest Income (316.83) (84.07) 
+Working capital adjustments 789.21 309.62 
+Others (170.26) (108.06) 
+T otal operating adjustments 1,071.92 404.88 
+ 
+Net cash ﬂow from / (used in) operating activities 1,957.32 1,222.11 
+ 
+Net cash ﬂow from / (used in) investing activities (12,110.92) (2,030.07) 
+ 
+Net cash ﬂow from / (used in) ﬁnancing activities 12,865.85 1,042.44 
+ 
+Net increase / (decrease) in cash and cash equivalents 2,712.25 234.48 
+Cash and cash equivalents at the beginning of the period 486.84 244.96 
+Cash acquired on acquisition of the subsidiary 0.00 7.40 
+Effects of exchange rate changes on cash and cash equivalents 0.38 0.00 
+Cash & cash equivalents as at the end of the period (As reported) 3,199.47 486.84 
+T otal Cash Balance (Including all Fixed Deposits, Mutual Funds etc., Net of Borrowings 17,400.09 3,373.45 
+=== page 37 ===
+36 Key Performance Indicators Units FY22 FY23 FY24 FY25 FY26 
+Monthly Active Users Million 44.20 62.83 76.78 82.02 82.98 
+Gross Transaction Value INR Million 56,152.49 74,524.30 102,825.49 149,715.86 186,926.84 
+Revenue from Operations INR Million 3,795.80 5,012.50 6,558.73 9,142.46 12,280.39 
+Gross Revenue INR Million 4,515.12 6,405.47 8,318.58 11,913.17 16,303.13 
+EBITDA INR Million (69.54) 450.45 530.61 988.84 1,201.15 
+EBITDA % % -1.81% 8.70% 7.98% 10.61% 9.42% K ey P erf ormanc e I ndic a t or s 
+EBITDA %= EBITDA/T otal Income 
+=== page 38 ===
+37 E xp erienc e d K ey M anag eria l P er s onne l 
+• Ex- Amadeus 
+• MBA, INSEAD 
+• B.T ech, Electrical Engineering, IIT Kanpur Mr. Aloke Bajpai
+Chairman, Managing Director 
+& Group Chief Executive Ofﬁcer 
+• Ex- Amadeus 
+• B.T ech, Computer Science, IIT Kanpur Mr. Rajnish Kumar
+Director & Group Co-Chief Executive Ofﬁcer 
+• Ex CBO  Sanford C. Bernstein 
+• MBA, IIM Ahmedabad 
+• B.T ech, Chemical Engineering, IIT Delhi 
+Mr. Saurabh Devendra Singh  
+Group Chief Financial Ofﬁcer 
+• Co-founder, ConfirmTkt 
+•  Ex-o9 Solutions 
+•  B.Tech, NIT, Jamshedpur Mr. Dinesh Kumar Kotha 
+Chief Executive Ofﬁcer, ixigo Trains & 
+ConﬁrmTkt 
+• Co-founder, ConﬁrmTkt 
+• B. T ech, Computer Science & Engineering 
+from Sastra University 
+Mr. Sripad Vaidya 
+Chief Operating Ofﬁcer, ixigo Trains & 
+ConﬁrmTkt 
+• Ex-Interglobe Aviation, R Systems Intl. 
+• B.Com (H), FCS, LLB, MBA, FCG (UK), PGDCLCF    
+    (NLSIU, Bengaluru) 
+Mr. Suresh Kumar Bhutani 
+Group General Counsel, Company Secretary & 
+Compliance Ofﬁcer 
+Part of the Board of Directors of the Company 
+=== page 39 ===
+38 S e a s one d B oar d o f Dir e ct or s 
+• Founder and CEO of Hopper, an 
+airfare and hotel fare prediction mobile 
+application Mr. Frederic Lalonde 
+Non-Executive Director 
+• MBA, Harvard University 
+• Bachelor’s degree, University of Waterloo 
+Mr. Shailesh Lakhani 
+Non-Executive Director 
+• Ex-Trustee of the Nasscom Foundation 
+• PGDM from IIM, Calcutta 
+• B. T ech (Electrical), IIT Kanpur 
+Mr. Arun Seth 
+Independent Director 
+•  Ex-ICICI, TCS 
+•  29+ years of banking & insurance 
+     experience 
+•  B.Com, Associate member of ICAI 
+• Founder, GSF; Co-founder 
+Innerchef,Ex-Reliance 
+• Master’s degree in management studies, 
+University of Mumbai 
+Mr. Rajesh Sawhney 
+Independent Director 
+Ms. Shuba Rao Mayya 
+Independent Director 
+•  Ex-Hamstede Living Pvt Ltd, Ginger Hotels, 
+     Lemontree Hotels 
+•  BA, University of Delhi, 
+•  Diploma in Hotel Management 
+Mr. Rahul Pandit 
+Independent Director 
+• Ex- CMD, IRCTC 
+• MDI Gurugram (Management) 
+• B.Sc., MA from University of Allahabad 
+Mr. Mahendra Pratap Mall 
+Independent Director 
+
+=== page 40 ===
+39 B e c oming a O ne S t op T r a v e l S o l ution Pr o vid er 
+Train 
+Bus
+Flight 
+Hotels Business 
+Travel 
+T ours & 
+Activities 
+International 
+Travel 
+Food, 
+Cab & 
+Ancillaries 
+Increase Monetization Through 
+Cross-selling And Up-selling Continue T o Deepen Penetration & 
+Enhance Our Offerings For Travellers 
+Engage Existing Users 
+T o Return T o Book 
+Increase Volume Of Transactions 
+& Frequency Of Engagement 
+Acquire New Users & Build 
+“T op Of Mind” Awareness 
+Investments in Online & Ofﬂine brand 
+building & branded distribution deals 
+Introduce Newer Offerings New “Peace of Mind” products 
+that offer innovative 
+Value Added  Services 
+Expand last-mile transportation 
+(cabs and metros) as well as 
+Corporate Travel and T our Packages Improve Operating Leverage Through 
+Investment In Deep T ech & AI 
+Autonomous Operations 
+Through AI Investments 
+Expand monetization through 
+AI-based contextual targeting Agentic AI experiences with 
+hyper-personalized multi-modal 
+conversational  capabilities 
+AI-Native 
+Products 
+=== page 41 ===
+40 Con f er enc e 
+Ca l l Det ail s 
+Le Travenues T echnology Limited 
+(NSE: IXIGO, BSE: 544192) will 
+host a conference call for analysts 
+and investors on Thursday, 21st 
+May, 2026 at 06:00 pm (IST) 
+following the announcement of 
+ﬁnancial results for Q4  FY26 Det ail s o f Con f er enc e c a l l 
+Date 
+Time 
+Duration 
+Thursday, May 21, 2026 
+06:00 PM IST 
+08:30 PM HK/SG 
+08:30 AM US (EDT) 
+1 Hour 
+Registration 
+Link 
+Q4, FY 2026  
+=== page 42 ===
+41 Gl o s s ar y 
+T erm Description 
+Adjusted EBITDA Adjusted EBITDA is calculated as the proﬁt for the period or year plus tax expense, ﬁnance cost, depreciation, 
+amortization expenses, Employee Stock Option Scheme less other income, exceptional items, share of 
+proﬁt/loss of associate. 
+Adjusted EBITDA Margin Adjusted EBITDA Margin is deﬁned as Adjusted EBITDA divided by revenue from operations 
+Annual Active Users Annual Active Users refers to the number of unique devices (including, amongst others, laptops and mobile 
+phones) which have recorded at least one visit to a page/ screen on our platforms in a given period/ year, 
+cumulated across ixigo, ConﬁrmTkt and AbhiBus websites and apps 
+Ancillary Attachment Rate Ancillary Attachment Rate refers to the number of ancillary transactions for ancillaries sold such as ixigo 
+Assured, ixigo Assured Flex, Trip Guarantee, Price Lock, seats, meals, among others, across ﬂights, trains and 
+buses divided by the overall number of transactions 
+Annual spend per 
+Transacting user Annual Gross Transaction Value divided by Annual Transacting Users 
+Annual Passenger 
+Segments Annual Passenger segments refers to the total number of point-to-point passenger tickets booked between 
+two cities, airports, train stations or bus stations, as applicable, whether or not such a ticket is part of a larger 
+or longer itinerary. For example, a booking made with two passengers for a return ﬂight consists of four 
+passenger segments during a ﬁnancial year. 
+Contribution Margin Contribution Margin is deﬁned as Segment revenue (net ticketing revenue plus other operating revenue) less 
+direct expenses 
+Contribution Margin (%) Contribution Margin (%) is deﬁned as Contribution Margin (Segment results) divided by revenue from 
+operations (Segment revenue). 
+EBITDA % EBITDA as a percentage of total income 
+=== page 43 ===
+4 2 Gross Revenue Gross revenue represents Revenue from operations plus discounts. 
+Gross T ake Rate Gross take rate refers to Gross Ticketing Revenue divided by Gross Transaction Value during the relevant 
+period/ year 
+Gross Transaction Value 
+(GTV) Gross transaction value refers to the total amount paid (including taxes, fees and service charges, gross of all 
+discounts) by users for the OTA services and products booked through us in the relevant period/ year 
+Lifetime Downloads T otal number of times our mobile applications- ixigo, Abhibus, and ConﬁrmTkt are downloaded on a mobile 
+device from app stores or other distribution platforms since inception till the end of relevant period/ year. 
+Lifetime Registered Users Lifetime Registered users refers to users who have provided their unique mobile number or email address, as 
+applicable, on our platforms cumulated across ixigo, ConﬁrmTkt and AbhiBus website and apps since inception 
+till the end of relevant period/ year. 
+Lifetime Transacted 
+Users Lifetime Transacted Users refers to the number of unique transacting users identiﬁed by user’s mobile number 
+and/or email address, that have made at least one booking through us in the lifetime of our company on the OTA 
+model, cumulated across ixigo, ConﬁrmTkt and AbhiBus website and apps 
+Monthly Active Users 
+(MAUs) Monthly active users is the number of unique devices (including, amongst others, laptops and mobile phones) 
+which have recorded at least one visit in a month to a page/screen on our platforms cumulated across ixigo, 
+ConﬁrmTkt and AbhiBus website and apps and cumulated for all months in the given period/ year, divided by the 
+number of months in that period/ year 
+Monthly Screen Views T otal number of mobile app screen views or website page views across ixigo, ConﬁrmTkt and AbhiBus website 
+and apps in a given period divided by the number of months in that period 
+Monthly Transacting 
+Users (MTUs) Monthly transacting users is the number of unique transacting users identiﬁed by users’ mobile number and/or 
+e-mail address, as applicable, that have made at least one booking through us, in a given period/ year, divided by 
+the number if months in that period/ year, cumulated across ixigo, ConﬁrmTkt and AbhiBus website & apps 
+=== page 44 ===
+43 Passenger Segments Passenger segments refers to the total number of point-to-point passenger tickets booked between two cities, 
+airports, train stations or bus stations, as applicable, whether or not such a ticket is part of a larger or longer 
+itinerary. For example, a booking made with two passengers for a return ﬂight consists of four passenger 
+segments. 
+Repeat Transaction Rate Repeat transaction rate is calculated as percentage of transactions by repeat transacting users, identiﬁed by 
+their unique mobile number and/ or email address, where a repeat transacting user is any user who has 
+transacted through our OTA platforms at least once in the preceding 36 months 
+Tier II/III Penetration % of transactions booked through ixigo group’s OTA platforms where either an origin or destination was a 
+non-Tier I city 
+% Queries solved by AI 
+chatbot 
+% calls handled by AI 
+Voicebot All queries which were handled  by chatbot without any human intervention divided by the overall chat queries 
+All calls handled by AI voicebot divided by the overall voice calls handled. 
+=== page 45 ===
+For additional information please contact: 
++91 92668 66934 ir@ixigo.com 

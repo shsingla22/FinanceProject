@@ -1,0 +1,430 @@
+ 
+ 
+ 
+ 
+ 
+Date: 12th January, 2026 
+ 
+To, 
+Manager - Listing Compliance 
+National Stock Exchange of India 
+Limited ‘Exchange Plaza’. C-1, Block 
+G, 
+Bandra Kurla Complex, Bandra (E),  
+Mumbai - 400 051 
+SYMBOL: JSLL  To, 
+Head of the Department, 
+Department of Listing Operation, 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai 400001 
+SCRIP Code: 544476 
+ 
+Subject: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 – Publication of Case study and Research Article. 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we wish to inform you that following academic publications, namely case study and a Research 
+Article, have been published in the European Journal of Pharmaceutical and Medical Research and 
+International Journal of Advanced Research (IJAR).  These publications have been authored by 
+medical professionals associated with Jeena Sikho Lifecare Limited , including our Managing 
+Director, senior consultants, and Ayurvedic experts.  
+ 
+These publications reflect the Company’s continued commitment towards advancement of Ayurvedic 
+research and promotion of evidence-based clinical practices. The details of the publications are as under:   
+S. No. Type Name 
+1.      
+ 
+ Case 
+Study Ayurvedic Management of Type 2 Diabetes Mellitus: A Case Study  
+2.      Research 
+Article Integrative Hope in Advanced Chronic Kidney Disease: An Ayurvedic Case 
+Approach 
+  
+Copies of the articles are enclosed as Annexures A and B for your records. 
+ 
+This is for your kind information and record. 
+ 
+Thanking you, 
+Yours faithfully, 
+ 
+For Jeena Sikho Lifecare Limited 
+ 
+ 
+ 
+Manish Grover 
+Managing Director 
+DIN: 07557886 
+Place: Zirakpur, Punjab 
+Date: 12.01.2026 
+Chaudhary  et al.                                                             European Journal of Pharmaceutical and Medical R esearch  
+ 
+ 
+www.ejpmr.com         │        Vol 1 3, Issue 01, 202 6.         │        ISO 9001:2015 Certified Journal         │ 
+ 
+ 444   
+ 
+ 
+AYURVEDIC  MANAGEMENT OF TYPE 2 DIABETES MELLITUS: A CASE STUDY  
+ 
+ 
+Acharya Manish1, Dr. Gitika Chaudhary *2, Dr. Richa3, Dr. Divya4, Dr. Tanu Rani5 
+ 
+1Director, Meditation Guru, Jeena Sikho Lifecare Limited, India . 
+2Senior Consultant, General Surgeon, BAM S, PGDIP, PGDGS, MS (Ayurveda), Jeena Sikho Lifecare Limited, India . 
+3Senior Research officer, BAMS, PGDIP, CICR, CAIM, CMW, Jeena Sikho Lifecare Limited, India . 
+4Consultant, BAMS, PGDIP, CCPT, Jeena Sikho Lifecare Limited Hospital, Ambala, Haryana, India . 
+5Research Associate, BAMS, Jeena Sikho Lifecare Limited, India . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Article Received on 05/12/2025                                 Article Revised on 25/12/2025                                Article Published on 10 /01/2026  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION  
+Type 2 diabetes mellitus (T2DM) is a widespread 
+chronic metabolic disorder marked by persistent 
+hyperglycemia resulting from insulin resistance and/or 
+inadequate insulin secretion.[1] It is commonly associated 
+with a range of comorbidities, among which 
+dyslipidemia is particularly significant due to its 
+contribution to cardiovascular disease, the leading cause 
+of mortality in diabetic patients.[2] Dyslipidemia in 
+T2DM is characterized by elevated levels of total 
+cholesterol, low-density lipoprotein (LDL), triglycerides, 
+and non-HDL cholesterol.[3] According to studies, a substantial proportion of T2DM patients show lipid 
+abnormalities, with over 60% presenting with raised 
+LDL and more than 50% with high triglyceride levels.[4] 
+Furthermore, emerging research highlights the role of 
+remnant cholesterol and inflammatory markers in 
+exacerbating metabolic risk, even when conventional 
+lipid profiles appear normal.[5] In elderly populations, the 
+so-called ―cholesterol paradox‖, wherein lower 
+cholesterol levels are paradoxically linked to worse 
+outcomes, further complicates cholesterol management 
+in T2DM.[6] 
+  
+EUROPEAN JOURNAL OF PHARMACEUTICAL  
+AND MEDICAL RESEARCH  
+www.ejpmr.com  
+ 
+ 
+EJPMR, 202 6, 13(01 ), 444-465                                                                                                            Impact Factor  7.065  
+   
+ 
+ISSN (O): 2394 -3211  
+ISSN (P): 3051 -2573  
+Coden USA: EJPMAG  
+ Case Study  
+ABSTRACT  
+Type 2 Diabetes Mellitus (T2DM) is a chronic metabolic disorder marked by persistent hyperglyce mia, often 
+accompanied by comorbidities such as dyslipidemia and exocrine pancreatic insufficiency, contributing to 
+metabolic imbalance and complications. This case study presents a 45 -year-old female with T2DM, who visited 
+Jeena Sikho Lifecare Limited Hos pital, Ambala, India, on April 11, 2025. She had a history of multiple abdominal 
+surgeries, including hysterectomy, cholecystectomy, splenectomy, and distal pancreatectomy. Her symptoms 
+included general weakness, reduced appetite, and elevated blood sugar levels. A comprehensive Ayurvedic  
+evaluation revealed features of Agnimandya  (weakened digestion), Srotorodha  (channel obstruction), and Meda 
+Dhatu Dushti  (fat tissue imbalance), correlating with the clinical findings of hyperlipidemia and pancreatic enzym e 
+insufficiency. Ayurvedic  management involved Deepan -Pachan  (digestive stimulation), Srotoshodhana  (channel 
+cleansing) and Pathya -Apathya  (dietary and lifestyle regulation). Following treatment, the patient showed marked 
+clinical improvement: blood glucose reduced from 159 mg/dl to 129 mg/dl, HbA 1c from 7.3% to 6.4%, fecal 
+elastase improved from 102 µg/g to 694 µg/g, and lipid profile , incl uding cholesterol and triglycerides, 
+significantly normalized. Hematological values also stabilized, indicating improved systemic health. This case 
+highlights the effectiveness of individualized Ayurvedic  therapy in managing complex metabolic disorders suc h as 
+T2DM with associated pancreatic and lipid dysfunction, addressing the root causes and promoting sustained 
+metabolic balance.  
+ 
+KEYWORDS: Agnimandya, Ayurveda, Dyslipidemia, Fecal Pancreatic Elastase , Madhumeh, Type 2 Diabetes 
+Mellitus.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *Corresponding Author:  Dr. Gitika Chaudhary  
+Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ayurveda), Jeena Sikho Lifecare Limited, 
+India.   
+https://doi.org/ 10.5281/zenodo.18205715   
+ 
+How to cite this Articl e: Acharya Manish1, Dr. Gitika Chaudhary*2, Dr. Richa3, Dr. Divya4, Dr. Tanu Rani5 . (2026). 
+AYURVEDIC MANAGEMENT OF TYPE 2 DIABETES MELLITUS: A CASE STUDY . European Journal of Biomedical and 
+Pharmaceutical Sciences, 13(01), 444–465. 
+This work is licensed u nder Creative Commons Attribution 4.0 International license.  
+ 
+ 
+ 
+ 
+Annexure-A
+Chaudhary  et al.                                                             European Journal of Pharmaceutical and Medical R esearch  
+ 
+ 
+www.ejpmr.com         │        Vol 1 3, Issue 01, 202 6.         │        ISO 9001:2015 Certified Journal         │ 
+ 
+ 445 In addition to lipid imbalance, growing evidence has 
+shown a strong correlation between T2DM and exocrine 
+pancreatic dysfunction, as assessed by fec al pancreatic 
+elastase -1 (FE -1) levels .[7] FE-1 is a non -invasive 
+biomarker used to evaluate pancreatic exocrine activity, 
+with values below 200 μg/g indicating insufficiency .[8] 
+Research indicates that a significant proportion of T2DM 
+patients exhibit low  FE-1 levels, suggesting concurrent 
+exocrine pancreatic insufficiency (PEI) .[9] This 
+dysfunction may impair the digestion and absorption of 
+dietary fats and cholesterol, potentially contributing to 
+malnutrition and altered lipid profiles .[10] FE-1 levels 
+have also been found to negatively correlate with fasting 
+blood glucose and HbA 1c, and positively correlate with 
+insulin reserve (C -peptide), underscoring its relevance in 
+the broader metabolic landscape of diabetes .[11] Despite 
+its diagnostic value, interp reting FE -1 in isolation may be 
+misleading, as fat malabsorption may not always 
+manifest clinically in all patients, pointing to a complex 
+interplay between digestive enzymes, nutrient 
+assimilation, and systemic metabolism .[12] From an Ayurvedic  standpoint , the interconnected 
+dysfunctions of blood sugar regulation, cholesterol 
+imbalance, and digestive enzyme insufficiency can be 
+understood through the lens of Agni  (Metabolic fire), 
+Dosha  imbalance, and Dhatu  metabolism .[13] T2DM 
+corresponds to Prameha , a Kapha-Medaja Vyadhi  
+(disease rooted in Kapha  and Meda  vitiation) 
+characterized by improper digestion, tissue -level 
+metabolic derangement, and excessive accumulation of 
+unprocessed nourishment .[14] Similarly, impaired fat 
+digestion and lipid accumulation corr espond to 
+Medoroga , arising from Meda Dhatvagni Mandya  
+(impaired fat tissue metabolism) and Ama Sanchaya  
+(accumulation of toxic byproducts due to weak Agni ).[15] 
+Reduced pancreatic function, as reflected by low FE -1, 
+can be interpreted as Agnyashaya Dushti  (disturbance in 
+the function of digestive organs) and Mandagni , 
+resulting in Srotorodha  (blockage of bodily channels) 
+and deranged nutrient transformation .[16]  The Samprapti 
+Ghataka[17,18,19,20] is mentioned in Table 1 . 
+ 
+Table 1 : The Samprapti Ghataka . 
+Samprapti Ghataka Details (Sanskrit with English)
+Dosha  (Bio-energetic 
+factors)Kapha  (phlegm/hypometabolic), Pitta  (bile/enzymatic), 
+Vata  (air/neuro-metabolic – in chronic cases)
+Dushya  (Affected tissues)Rasa  (plasma/lymph), Meda  (fat/adipose tissue), Mamsa 
+(muscle), Majja  (marrow/nerve tissue), Shukra 
+(reproductive tissue), Ojas  (vital essence/immunity)
+Agni  (Digestive fire)Mandagni  (low digestive/metabolic fire), especially 
+Jatharagni  (primary digestive fire) and Dhatvagni  (tissue-
+level metabolic fire) of Rasa  (plasma) and Meda  (fat)
+Ama  (Metabolic toxins) Present  – due to incomplete digestion and absorption
+Srotas  (Body channels)Rasavaha  (channels of plasma), Medovaha  (channels of 
+fat), Annavaha  (channels of food), Pittavaha  (channels of 
+bile/enzymes), Purishavaha  (channels of feces)
+Udbhav Sthan  (Origin site)Amashaya  (stomach) / Grahani  (duodenum/small intestine 
+– functional digestive zone)
+Sanchar Sthan  (Path of 
+spread)Rasa Dhatu  (plasma/lymph) and Meda Dhatu  (fat/adipose), 
+via affected Srotas  (channels)
+Vyakti Sthan 
+(Manifestation site)Agnyashaya  (conceptual seat of pancreas), Meda Dhatu 
+(fat), Dhamani  (blood vessels)
+Adhisthan  (Seat of disease)Sarva Sharira  (whole body/systemic involvement), 
+especially metabolic and endocrine organs
+Rog Marg  (Pathway of 
+disease)Abhyantara Marga  (internal disease pathway)
+Samprapti Type 
+(Pathogenesis type)Sama  (with toxins), Santarpanajanya  (due to 
+overnutrition), Agnimandyajanya  (due to weak digestion), 
+Srotorodhajanya  (due to channel blockage)
+ 
+ 
+The treatment begins with Deepan  and Pachan  to 
+rekindle digestive capacity and prevent further formation 
+of Ama.[21] Alongside, attention is given to clearing 
+obstructions in bodily channels ( Srotoshodhana ) to 
+ensure the proper flow of nutrients and me tabolic 
+waste .[22] Therapies are selected to regulate fat and sugar 
+metabolism by pacifying the aggravated Kapha  and balancing Pitta  and Vata , depending on the individual’s 
+constitution and stage of disease .[23] Cleansing 
+procedures like Virechana  (therape utic purgation) and 
+Basti  (medicated enema) may be employed to expel 
+deep -seated imbalances, especially those affecting the 
+gastrointestinal and metabolic systems .[24] Dietary 
+guidance is a cornerstone of treatment, emphasizing 
+Chaudhary  et al.                                                             European Journal of Pharmaceutical and Medical R esearch  
+ 
+ 
+www.ejpmr.com         │        Vol 1 3, Issue 01, 202 6.         │        ISO 9001:2015 Certified Journal         │ 
+ 
+ 446 light, easily digestible foo ds that support Agni  and 
+discourage the accumulation of Meda  (fat tissue) .[25] 
+Lifestyle modifications including regular physical 
+activity, stress management, and proper sleep hygiene 
+are also integral .[26] This holistic approach aims not just 
+to manage sy mptoms but to address the underlying 
+dysfunctions in digestion, metabolism, and tissue 
+nourishment that contribute to reduced pancreatic 
+function, poor glycemic control, and lipid imbalances.  
+ 
+OBJECTIVE  
+To assess the effectiveness of Ayurvedic  treatment in  
+managing T2DM with low fecal pancreatic elastase and 
+high cholesterol levels.  
+ 
+MATERIALS AND METHODS  
+I. Case Report  
+A 45 -year-old female diagnosed with Type 2 Diabetes 
+Mellitus (T2DM) visited Jeena Sikho Lifecare Limited Hospital, Ambala, India, on April 11,  2025. A 
+comprehensive assessment was conducted, including 
+detailed medical history, physical examination, and 
+diagnostic tests. She had a past surgical history of 
+hysterectomy, cholecystectomy, splenectomy, and distal 
+pancreatectomy. There was no signific ant family history 
+or any addiction. She presented with complaints of 
+general weakness and reduced appetite. She was also 
+diagnosed with Hyperlipidemia. The Ashtasthana 
+Pareeksha  during the first visit are mentioned in Table 2. 
+The basic vitals during the visits are mentioned in  Table 
+3. The blood test results during the treatment period are 
+shown in Table 4. The cholesterol test results are 
+mentioned in  Table 5 , fecal elastase results are 
+mentioned in  Table 6 and HbA 1c is mentioned in Table 
+7. 
+ 
+ 
+Table 2 : The Ashtasthana Pareeksha during the visits . 
+Parameter 11-04-2025 06-05-2025 19-06-2025
+Nadi (Pulse) Vataj Pittaj Vataj Pittaj Vataj Pittaj
+Mala (Stool) Saam (Coated) Avikrit (Normal) Avikrit (Normal)
+Mutra (Urine) Safena (Frothy) Safena (Frothy) Avikrit (Normal)
+Jiwha (Tongue) Saam (Coated) Avikrit (Normal) Avikrit (Normal)
+Shabda (Voice) Spashta (Clear) Spashta (Clear) Spashta (Clear)
+Sparsha (Touch) Anushna sheet (Normal) Anushna sheet (Normal) Anushna sheet (Normal)
+Drik (Eye) Avikrit (Normal) Avikrit (Normal) Avikrit (Normal)
+Akriti (Physique) Alpasharirata (Underweight) Alpasharirata (Underweight) Alpasharirata (Underweight)
+ 
+ 
+Table 3 : The Basic vitals during the visits . 
+Parameter Blood pressure (mmHg) Weight (Kg) Blood Sugar
+11-04-2025 110/70 mmHg 51 Kg 159 mg/dl
+06-05-2025 100/70 mmHg 51 Kg 129 mg/dl
+19-06-2025 100/60 mmHg 51 Kg 136 mg/dl
+ 
+ 
+Table 4 : The blood test results during the treatment period (Fig 1) . 
+Parameter 27-05-2024 15-04-2025 11-06-2025
+Hemoglobin  14.34 mg/dl 13.83 mg/dl 13.57 mg/dl
+RBC 4.66 mill/mm3 4.32 mill/mm3 4.24mill/mm3
+TLC 10.70 thou/mm3 8.44 thou/mm3 8.34 thou/mm3
+Platelets 348 thou/mm3 519 thou/mm3 375 thou/mm3
+ 
+ 
+Table 5 : The cholesterol test results during the treatment period (Fig 2) . 
+Parameter 27-05-2024 15-04-2025 11-06-2025
+Cholesterol, Total 217 mg/dl 157 mg/dl 177 mg/dl
+Triglycerides  439 mg/dl 220 mg/dl 246 mg/dl
+HDL Cholesterol  36.40 mg/dl 44.60 mg/dl 43.80 mg/dl
+LDL Cholesterol, Calculated - 68.40 mg/dl 84 mg/dl
+VLDL Cholesterol,Calculated - 44 mg/dl 49.20 mg/dl
+Non-HDL Cholesterol 181 mg/dl 112 mg/dl 133 mg/dl
+ 
+Chaudhary  et al.                                                             European Journal of Pharmaceutical and Medical R esearch  
+ 
+ 
+www.ejpmr.com         │        Vol 1 3, Issue 01, 202 6.         │        ISO 9001:2015 Certified Journal         │ 
+ 
+ 447 Table 6 : The fecal elastase results (Fig 3) . 
+Date Fecal Elastase
+26-06-2024 102 µg/g stool
+21-05-2025 694 µg/g stool
+13-06-2025 640 µg/g stool
+ 
+ 
+Table 7 : The HbA1c results (Fig 4) . 
+Date HbA1c
+27-05-2024 7.3%
+15-04-2025 6.4%
+11-06-2025 6.4%
+ II. Treatment protocol  
+I. Diet Plan  
+An accurately designed Ayurveda  and Disciplined and 
+Intelligent Person’s (DIP) Diet was provided to the 
+patient to complement the Ayurvedic  treatmen ts 
+administered for T2DM with low fecal pancreatic 
+elastase and high cholesterol levels at Jeena Sikho 
+Lifecare Limited[27]: 
+ 
+In traditional texts, various food items suitable for 
+individuals with these conditions are described[28,29]:  
+ 
+Ahar [Table 8] . 
+ 
+ 
+Dietary Conduct  
+ It is advised not to consume food after 8 PM. While 
+eating, take small morsels and chew each bite thoroughly —about 32 times —to aid digestion and 
+Cook only in steel utensils to preserve nutritional 
+value . 
+ 
+Jalapana  [Table 9] . 
+ 
+Chaudhary  et al.                                                             European Journal of Pharmaceutical and Medical R esearch  
+ 
+ 
+www.ejpmr.com         │        Vol 1 3, Issue 01, 202 6.         │        ISO 9001:2015 Certified Journal         │ 
+ 
+ 448 Meal Timi ng and Structure (Fig 5)[31] 
+ 
+ 
+Fasting  
+ Fast once a week .[31] 
+ 
+Special Instructions  
+ Sit in gentle sunlight for one hour in the morning 
+and evening, keeping your feet soaked in warm 
+water. Maintain a meditative state in Gyan Mudra , softly chanting the seed  sounds: LUM, VUM, RUM, 
+YUM, HUM, OM, and AUM to harmonize internal 
+energy centers.  
+ Before eating or drinking, take a moment to express 
+gratitude to the divine, acknowledging the 
+nourishment with reverence.  
+ 
+II. Lifestyle Recommendations [Table 10]  
+ 
+ 
+Recomm ended Yoga Asanas  
+Surya Namaskar, Ardha Matsyendrasana, Pavana 
+muktasana, Vajrasana, Bhujangasana, Dhanurasana, Paschimottanasana, Trikonasana, Setu Bandhasana, 
+Shavasana and Pranayama . 
+ 

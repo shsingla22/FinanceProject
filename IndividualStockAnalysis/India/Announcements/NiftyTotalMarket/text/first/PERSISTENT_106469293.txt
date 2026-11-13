@@ -1,0 +1,112 @@
+NSE & BSE / 2025-26 / 179 
+  December 16, 2025 
+The Manager,  
+Corporate Services, 
+National Stock Exchange of India Limited         
+Exchange Plaza, Bandra Kurla Complex, Bandra (E), 
+Mumbai 400 051 
+Ref: Symbol:  PERSISTENT  The Manager, 
+Corporate Services, 
+BSE Limited 
+P J Towers, Dalal Street, 
+Mumbai 400 001  Ref: Scrip Code: 533179 
+Dear Sir/Madam, 
+Sub: Press Release titled ‘Persistent and DigitalOcean Announce Strategic Partnership to 
+Advance Accessible, Scalable and Secure AI’ 
+We wish to inform you that Persistent Systems Limited (the ‘Company’) has made a Press Release dated 
+December  16, 2025, titled ‘Persistent  and DigitalOcean Announce Strategic  Partnership to Advance 
+Accessible, Scalable and Secure AI’. 
+A copy of the Press Release is enclosed for your reference. 
+This is for your information and records. 
+Please acknowledge the receipt. 
+Thanking you, 
+Yours Sincerely, 
+For Persistent Systems Limited 
+Amit Atre 
+Company Secretary 
+ICSI Membership No.: ACS 20507 
+Encl.: As above 
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411 016, Maharashtra, India  
+CIN - L72300PN1990PLC056696 
+Tel:  +91 (20) 6703 5555 | Fax - +91 (20) 6703 6003 | E-mail - info@persistent.com | Website - www.persistent.com 
+© 2025  Persistent Systems Ltd. All rights reserved.  1 Persistent and DigitalOcean Announce 
+Strategic Partnership to Advance Accessible, 
+Scalable and Secure AI  
+Combining engineering expertise and cloud innovation to 
+accelerate AI adoption  
+December  16, 2025  
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE: 533179 and NSE: PERSISTENT ), a global Digital Engineering and 
+Enterprise Modernization leader and DigitalOcean  (NYSE: DOCN), the comprehensive agentic 
+cloud, today announced a strategic partnership to make Artificial Intelligence (AI) more 
+accessible , scalable and secure for enterprises and developers worldwide. The collaboration will 
+accelerate AI adoption by providing cost -effective infrastructure designed for growth and 
+innovation.  
+As part of this partnership, Persistent has selected DigitalOcean as its cloud and AI 
+infrastructure provider for SASVA ™, its AI-powered platform . SASVA  seamlessly integrates 
+code, documentation, architecture and executive summaries  and adapt s fluidly across a 
+spectrum of workflows and roles. It leverag es DigitalOcean Gradient ™ AI Agentic Cloud to run 
+its AI workloads and customer deployments reliably and cost -efficiently . This includ es using 
+DigitalOcean Gradient AI Platform for the full agent development lifecycle and high -powered 
+GPUs from DigitalOcean Gradient AI Infrastructure offerings.  
+As organizations accelerate AI adoption, they face mounting challenges such as rising GPU and 
+infrastructure costs, fragmented agent development ecosystems and increasing security and 
+compliance concerns. This partnership between Persistent and DigitalOcea n aims to address 
+these barriers by combining Persistent’s AI engineering expertise and platform innovation with 
+DigitalOcean’s robust agentic cloud infrastructure and AI platform. Persistent and DigitalOcean 
+are collaborating  for SASVA  and inference workloads on Gradient AI Agentic Cloud to offer 
+
+ 
+ 
+© 2025  Persistent Systems Ltd. All rights reserved.  2 
+secure, cost -effective and enterprise -ready AI solutions that aim to drive meaningful impact and 
+adoption across organizations of all sizes.  
+ 
+Extending these capabilities through DigitalOcean’s  agentic cloud, Persistent will help clients 
+achieve tangible outcomes from cost -efficient AI adoption and business acceleration. This 
+approach will reduce AI infrastructure and operational costs by over 50%, enabling faster 
+adoption and more predictable s caling of AI across industries. In return, Persistent will leverage 
+SASVA and its deep engineering expertise to build modern AI stacks that enhanc e the 
+capabilities, performance and efficiency of DigitalOcean’s  next-generation cloud platform for AI 
+workloads , accelerating DigitalOcean’s AI offering roadmap . 
+ 
+Persistent selected Gradient AI Agentic Cloud to deliver best -in-class infrastructure for digital 
+native enterprises and AI -native customers alike by combining performance, transparency and 
+predictable economics. It also enables seamless scaling as AI tech nologies evolve, while 
+reducing infrastructure and maintenance costs through managed, ready -to-use environments 
+and provides continuous access to an evolving catalog of diverse models, frameworks and AI 
+accelerators within SASVA.  
+Sandeep Kalra, Chi ef Executive Officer and Executive Director, Persistent  
+“As enterprises move from experimenting with AI to embedding it across their core operations, 
+success will hinge on how effectively they scale with speed, trust and measurable impact. Our 
+partnership with DigitalOcean exemplifies this shift, combining our A I engineering expertise and 
+SASVA ™ platform with DigitalOcean’s agentic cloud to help clients operationalize AI with 
+confidence. Together, we are simplifying how organizations build, deploy and scale AI, 
+strengthening the foundation for the next wave of i ntelligent, platform -driven innovation .” 
+Paddy Srinivasan, Chief Executive Officer, DigitalOcean  
+“DigitalOcean’s agentic cloud delivers the infrastructure, platform, and services that make AI 
+accessible, scalable, and cost -effective. Partnering with Persistent expands these capabilities to 
+more enterprise use cases by integrating our AI foundation with  SASVA’s deterministic  
+engineering. Together, we are accelerating the use of AI solutions at scale. ” 
+About Persistent  
+Persistent Systems (BSE:  533179 and NSE: PERSISTENT) is a global services and solutions company delivering AI -led, platform -driven 
+Digital Engineering and Enterprise Modernization to businesses across industries. With over 2 6,000 employees located in 18 countries, the 
+Company is committed to innovation and client success. Persistent offers a comprehensive suite of services, including softwar e 
+engineering, product development, data and analytics, CX transformation, cloud comput ing and intelligent automation.  The Company is part 
+of the MSCI India Index and is included in key indices of the National Stock Exchange of India, including the Nifty Midcap 50 , Nifty IT and 
+Nifty MidCap Liquid 15, as well as several on the BSE such as the S&P BSE 100 and S&P BSE SENSE X Next 50. Persistent is also a 
+constituent of the Dow Jones Sustainability World Index. The Company has achieved carbon neutrality, reinforcing its commitme nt to 
+sustainability and responsible business practices. Persistent has also been named one of Amer ica’s Greatest Workplaces for Inclusion & 
+Diversity 2025 by Newsweek and Plant A Insights Group. As a participant of the United Nations Global Compact, the Company is 
+committed to aligning strategies and operations with universal principles on human rights , labor, environment and anti -corruption, as well as 
+take actions that advance societal goals. With 468% growth in brand value since 2020, Persistent is the fastest -growing IT services brand in 
+‘Brand Finance India 100’ 2025 Report.  
+www.persistent.com  
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+For Media Queries: media@persistent.com  
+ 
+ 

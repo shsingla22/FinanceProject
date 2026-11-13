@@ -1,0 +1,123 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 1 20 4306000  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -1100 19, India  
+ 
+ 
+ 
+June 18, 2026  
+ 
+ 
+The General Manager  
+BSE Limited  
+Listing Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281 The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza 5th Floor, Plot No. C -1, Block -G 
+Bandra- Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH  
+ 
+ 
+Subject: Release – “HCLTech launches AI Innovation Zone featuring Intel -powered enterprise 
+solutions”  
+ 
+Dear Sir  / Madam,  
+ 
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+  
+This is for your information and records.  
+  
+Yours faithfully,  
+For HCL Technologies Limited  
+ 
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+Encl.:a/a  
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+1 
+ 
+HCLTech launches AI Innovation  Zone  featuring Intel -powered enterprise solutions  
+CHENNAI, India, June 18, 2026 —  H CLTec h , a leading global technology company, today 
+announced the launch of an AI Innovation  Zone in Chennai  to enable enterprises to innovate  
+and operationalize Intel -based AI products and HCLTech AI solutions , accelerating  the 
+transition from experimentation to production -ready, cost -efficient AI deployments.   
+Featuring  enterprise AI solutions powered by Intel® Xeon®  6 processors with integrated Intel 
+Advanced Matrix Extensions ( Intel AMX)  and Intel® CoreTM Ultra , the AI Innovation Zone 
+underscores HCLTech and Intel’s shared commit ment to enabling broad AI adoption  via an 
+integrated AI Factory , with a focus on scalable and economical AI deployment.   
+Spanning the full AI stack, from data center infrastructure to end user experiences on AI PCs , 
+this AI Innovation Zone enables hands -on exploration of Intel® Xeon® -based HCLTech 
+solutions.   
+The facility showcases small language  model (SLM) optimization and AI Platform -as-a-Service 
+capabilities built on Red Hat OpenShift and OpenShift AI, helping enterprises reduce 
+complexity and lower the barriers to operationalizing AI at scale.  H CLTe c h d emonstrations 
+include testing and validation of AI Force , HCLTech’s GenAI -led service transformation 
+platform; VisionX  2.0, a vision and video -based AI analytics platform  and AI Factory , an end -to-
+end "edge to cloud", factory -integrated AI infrastructure platform , alongside real -world use 
+cases such as retrieval  augmented generation (RAG), Agentic AI notebooks and cognitive AI.  
+“This AI Innovation Zone reflects our shared intent to move AI from experimentation to business  
+outcomes ,” sa id Raghu Kidambi, CVP, Ecosystems AI Partnership at  H CLTec h . “By aligning 
+platform innovation with practical engineering and economics, we are creating a repeatable 
+model that helps organizations adopt AI with confidence, efficiency, speed and measurable 
+value.”  
+“By combining Intel’s scalable heterogeneous compute systems including Intel® Xeon® 6 and 
+Intel Core Ultra platforms with HCLTech’s deep engineering capabilities, we are enabling 
+businesses to deploy and scale AI effectively across the entire continuum – from data centers 
+to the cloud to the edge, ” said Sangeeta Roy, Director, Global Partner Business at Intel .  
+ 
+About HCLT ech  
+H CLTec h  is a global technology company, home to more than 227,000 people across 60 
+countries, delivering industry -leading capabilities centered around AI, digital, engineering, 
+cloud and software, powered by a broad portfolio of technology services and products. We 
+work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Semiconductor, 
+ 
+2 
+ 
+Telecom and Media, Retail and CPG, Mobility and Public Services. Consolidated revenues as of 
+12 months ending March 2026 totaled $14.7 billion. To learn how we can supercharge progress 
+for you, visit  hcltech.com . 
+ 
+For further details, please contact:  
+ HCLTe ch  
+ 
+Meredith Bucaro, Americas  
+meredith -bucaro@hcltech.com  
+ Elka Ghudial, EMEA  
+elka.ghudial@hcltech.com  
+ 
+James Galvin, APAC  
+james.galvin@hcltech.com  
+ 
+Nitin Shukla, India, Middle East & Africa  
+nitin -shukla@hcltech.com  
+ 
+ 
+ 

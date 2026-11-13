@@ -1,0 +1,210 @@
+    
+  Billionbrains Garage Ventures Limited (Formerly known as Billionbrains Garage Ventures Private Limited)   Registered Office: Vaishnavi Tech Park, South Tower, 3rd Floor, Survey No.16/1 and 17/2, Ambalipura Village, Varthur Hobli, Bellandur, Bangalore, Bangalore South, Karnataka, India, 560103  W: www.groww.in E:corp.secretarial@groww.in T: +91 80-69601300 CIN: L72900KA2018PLC109343  
+July 16, 2026 To, The Listing Department, BSE Limited, Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai – 400001 Scrip code: 544603   To, The Listing Department National Stock Exchange of India Ltd.,  Exchange Plaza, Bandra Kurla Complex, Bandra (East),  Mumbai – 400051 Symbol: GROWWDear Sir / Madam, Subject: Clarification - Intimation of comments of the Board of Directors with respect to delay in filing of Related Party Transaction disclosure under Regulation 23(9) of SEBI Listing Regulations With reference to our letter dated July 16, 2026, regarding the above subject, we wish to state that the referred penalty amounted to Rs. 5,000/-, levied by both the Exchange(s) under Regulation 23(9) of the SEBI Listing Regulations due to a one-day delay in filing the Disclosure of Related Party Transactions for the half-year ended March 31, 2026, with the Stock Exchange(s) in XBRL mode. The disclosure was required to be filed on April 20, 2026, i.e., the date of declaration of the financial results for FY 2025–26. However, due to technical and system-related issues, the Company could not upload the XBRL file within the prescribed timeline. The file was subsequently uploaded on April 21, 2026. As mentioned under the said letter issued by the exchange was placed before the Board on July 15, 2026, and Board took note of the said delay and advised to strengthen the internal process for timely filing.  The Company is committed to ensuring timely compliance with all applicable regulatory requirements and to making all filings within the prescribed timelines going forward. Kindly take the same on record and oblige. Thanking you, Yours faithfully, For Billionbrains Garage Ventures Limited   Roshan Dave Company Secretary & Compliance Officer M. No. - ACS 26472  
+NSE/LIST-SOP/FINES/0717  
+To,  
+The Company Secretary  
+Billionbrains Garage Ventures Limited
+Dear Sir/Madam,
+Subject: Notice for non-compliance with Regulation 23(9) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 ("Listing Regulations")  
+ 
+Your attention is drawn towards SEBI Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 
+(“Master Circular”) issued on July 11, 2023 and last updated on January 30, 2026, specifying Standard 
+Operating Procedure for imposing fines and suspension of trading in case of non-compliance with the 
+Listing Regulations. On verification of the Exchange records, it has been observed that your Company 
+has not complied/delayed complied with Regulation 23(9) of Listing Regulation(s) for the half year 
+ended March 31, 2026. The details of non-compliance(s)/delayed compliance(s), total fine payable by 
+your Company and the particulars about manner in which fine should be remitted to the Exchange is 
+enclosed as Annexure. 
+You are requested to inform the Promoters about identified non-compliance/delayed compliance and to 
+ensure compliance with Regulation 23(9) of Listing regulation(s) and/or to make the payment of fines 
+within 15 days from the date of this notice, failing which the Exchange may initiate freezing of entire 
+shareholding of the Promoters in the Company as well as in other securities held in the Demat account 
+of the Promoters.
+Upon receipt of this review notice, the Company may file the waiver request. Below are the parameters 
+for filing the application for waiver:
+a) Waiver applications sent via mail is not considered. The Company is requested to submit waiver 
+application on the below mentioned path:
+NEAPS>>Compliance>>Fine Waiver>>Waiver Request
+b) Detailed submission indicating reasons for waiver, mentioning whether it intends to seek personal 
+hearing before the concerned Committee.
+c) Further, compliance is a pre-requisite for applying for waiver.  Thus, waiver application of the non-
+complied Companies will not be processed without achieving the compliance. 
+d) In case the Company is non-compliant under multiple regulations, the Company is advised to file a 
+single application mentioning the details of all the respective regulations and quarters for which the 
+Company intends to apply for waiver.
+e) Non-refundable  Processing fees for an amount of Rs.10,000 plus 18% GST to be paid to the 
+designated Exchange, (as segregated between the Exchanges as per the policy for waiver of fines) only 
+if the fine amount is more than Rs. 5,000/- exclusive of GST.  June 30, 2026
+ 
+ 
+However, before filing an application for waiver of fines, you are requested to refer to the below policy 
+available on the Exchange’s website. For ready reference you may refer below link:  
+Policy on processing of waiver application: 
+https://nsearchives.nseindia.com//web/circular/2026-  
+01/Policy_for_waiver_of_fines_Final1_20260113193131.pdf  
+ 
+Further, as per Master Circular, your Company is also required to ensure that the said non-compliance 
+which has been identified by the Exchange and subsequent action taken by the Exchange in this regard 
+shall be placed before the Board in the next Board Meeting and comments made by the Board shall be 
+duly informed to the Exchange at the below mentioned path in NEAPS portal along with this letter for 
+dissemination having the announcement text as 'Board comments on fine levied by the Exchange'.  
+ 
+Path: NEAPS > COMPLIANCE > Announcements > Announcements/ CA (Subject: Updates)  
+ 
+In case of any clarification, you may send an email on listingsop@nse.co.in or contact any of the below 
+mentioned Exchange Officers from Listing Compliance Department:
+    Ms. Madhu Kadam•
+    Ms. Duhita Dhure•
+    Ms. Chanchal Daga (Waiver request)•
+    Ms. Sweety Mamodia (Waiver request)•
+ 
+ 
+Yours faithfully,  
+For National Stock Exchange of India Limited  
+ 
+ 
+Sonam Yadav  
+Manager  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Annexure
+RegulationHalf year 
+endedFine amount per 
+day (Rs.)Days of non-
+compliance(s)Fine amount 
+(Rs.)
+REGULATION 
+23(9)31-Mar-2026 5000 1 5000
+Total Fine 5000
+GST @18% 900
+Total Fine Payable (Inclusive of GST) 5900*
+* In case the Company is non-compliant as on the date of this letter then fine amount will keep on 
+increasing every day till the date of compliance is achieved.  
+ 
+ Notes:
+If the fine amount is paid before receipt of this letter then inform the Exchange 
+accordingly.•
+Please update the payment details on below mentioned path: NEAPS > Payment > SOP Fine 
+Payment.•
+The above payment may be made vide RTGS / NEFT / Net Banking favouring 'National Stock 
+Exchange of India Limited'. The bank details towards the payment of fine are as follows:•
+BENEFICIARY 
+NAMENATIONAL STOCK EXCHANGE OF INDIA LIMITED
+BANK NAME IDBI BANK LTD
+A/C NOPlease refer Unique Account Code used for making Annual Listing 
+fees to the Exchange
+BRANCH BANDRA KURLA COMPLEX, MUMBAI
+RTGS/IFSC CODE IBKL0001000
+The fine paid as mentioned above will be credited to IPFT as envisaged in the circular.•
+544603-Fines as per SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 issued on July 1 1, 2023
+and last updated on January 30,2026 (Chapter VII (A)-Penal Action for Non-Compliance)
+1 message
+'bse.soplodr' via Corp Secretarial <corp.secretarial@groww.in> Tue, Jun 30, 2026 at 7:10 PM
+Reply-To: "bse.soplodr" <bse.soplodr@bseindia.com>
+To: "corp.secretarial@groww.in" <corp.secretarial@groww.in>
+Cc: "bse.soplodr" <bse.soplodr@bseindia.com>
+Ref.: SOP-Review-30/06/2026
+To
+The Company Secretary/Compliance Ofﬁcer
+Company Name: Billionbrains Garage Ventures Ltd
+Scrip Code: 544603
+Dear Sir/Madam,
+Sub:  Fines as per SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/ 3762/2026 issued on July 11, 2023 and last updated on
+January 30,2026 (Chapter VII (A)-Penal Action for Non-Compliance).
+The company is advised to refer to the SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 issued on July 11, 2023 and last
+updated on January 30,2026  (hereinafter referred to as the ‘SEBI SOP Master Circular’) issued by Securities and Exchange Board of India (SEBI)
+with respect to penal actions prescribed for non-compliance of certain provisions of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 and the Standard Operating Procedure for suspension and revocation of trading of speciﬁed securities of listed entities.
+The Exchange had also issued a guidance note regarding the provisions of the said SEBI circular which is disseminated on the Exchange website
+at the following link:
+https://www.bseindia.com/downloads1/Guidance_Note_for_ SEBI_SOP_Circular.pdf
+In this regard it is observed that the company is non-compliant/late compliant with the following Regulations for the period mentioned below:
+Applicable
+Regulation of SEBI
+(LODR)
+Regulations, 2015Fine prescribed
+(*)Fines levied for Fine payable by the company
+(inclusive of GST @ 18 %) as on June 30,2026Compliance status
+Basic Fine GST @ 18
+%Total Fine
+payable
+Regulation 23 (9)
+Non-compliance with
+the requirement to
+disclose related party
+transactions in the
+format as speciﬁed
+and within the
+prescribed timeline.Rs. 5,000/- per
+day till the date of
+compliance.half year ended
+March 20265000 900 5900 Late-submission
+Total SOP Fine 5000 900 5900
+ Note: In case of Non-Compliance the ﬁnes will continued to be levied till the date of compliance.
+The Company is therefore advised to note that as per the provisions of SEBI SOP Master Circular:
+7/8/26, 5:49 PM Groww Mail - 544603-Fines as per SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 issued on July 11, 2023 and last …
+https://mail.google.com/mail/u/0/?ik=7294b6dbca&view=pt&search=all&permthid=thread-f:1869429456868372791%7Cmsg-f:1869429456868372791&simpl=… 1/3
+ 
+The company is required to ensure compliance with above regulation and ensure to pay the aforesaid ﬁnes including GST within 15 days
+from the date of this letter/email, failing which Exchange shall, initiate action related to freezing of the entire shareholding of the
+promoter in this entity as well as all other securities held in the demat account of the promoter. The company is advised to bring the
+provisions of SEBI SOP Master Circular to the notice of promoter of the company.
+ 
+The company is also advised to ensure that the subject matter of non-compliance which has been identiﬁed and indicated by the Exchange
+and any subsequent action taken by the Exchange in this regard shall be placed before the Board of Directors of the company in its next
+meeting. Comments made by the board shall be duly informed to the Exchange for dissemination.
+ 
+ 
+Yours faithfully
+     
+ 
+Harshad Naik                                                                  Reena Raphel
+Manager                                                                             Manager
+Listing Compliance                                                    Listing Compliance
+ 
+ 
+In case of any further queries please email the following ids:
+ 
+Particulars Email Id
+Query on remittance bse.soplodr@bseindia.com
+Query on compliance Harshad.Naik@bseindia.com
+ 
+ 
+Company is requested to remit the ﬁne amount to the following designated VIRTUAL BANK ACCOUNT of the Exchange:
+ 
+Company Name Billionbrains Garage Ventures Ltd
+Account Name Bank Name & Branch Virtual Bank Account No.* IFSC Code
+BSE Limited ICICI Bank Ltd.- CMS
+BranchBSER13997 ICIC0000104
+ 
+*Note: This bank account is speciﬁcally dedicated to SOP ﬁne and Waiver fees only, Therefore, company is advised not to deposit/credit
+any amount payable other than SOP ﬁnes/penalties/waiver.
+ 
+The company is required to submit ﬁne remittance details in the following format given at Annexure I to Email id: bse.soplodr@bseindia.com
+ 
+Annexure-I (On letterhead of the company)
+ 
+Sub: Details of Payment of ﬁnes for Non-Compliance with Regulations of SEBI (LODR) Regulations, 2015.
+ 
+Remittance details:
+ 
+Scrip
+CodeRegulation &
+QuarterBank UTR
+numberDate of
+PaymentAmount paidTDS deducted, if
+anyNet Amount paid
+             
+ 7/8/26, 5:49 PM Groww Mail - 544603-Fines as per SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 issued on July 11, 2023 and last …
+https://mail.google.com/mail/u/0/?ik=7294b6dbca&view=pt&search=all&permthid=thread-f:1869429456868372791%7Cmsg-f:1869429456868372791&simpl=… 2/3

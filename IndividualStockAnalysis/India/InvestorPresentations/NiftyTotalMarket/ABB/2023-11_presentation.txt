@@ -1,0 +1,549 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ABB India Limited  
+Registered and Corporate Office   
+Disha - 3rd Floor,  Plot No. 5 & 6, 2nd Stage  
+Peenya Industrial Area IV  
+Peenya, Bengaluru – 560 058  
+Karnataka , India  CIN: L32202KA1949PLC032923  
+GST: 29AAACA3834B1Z4  
+ 
+Phone: +91 80 2294  9150 – 54 
+Fax: +91 80 2294 9148  
+ investor.helpdesk@in.abb.com  
+ 
+www.abb.com/in  
+ 
+             REF:INABB:ST ATUT:LODR:R30:ANLST -PPT:     November 9 , 202 3 
+ 
+ 
+BSE Limited  
+P.J. Towers  
+Dalal Street  
+Mumbai 400 001       
+(Attn : DCS CRD)      
+ 
+ 
+National Stock Exchange of India Ltd  
+Exchange Plaza, 5th Floor  
+Plot No. C/1, G Block  
+Bandra -Kurla Complex, Bandra (E)     
+Mumbai 400 051      
+ 
+Dear Sirs  
+Sub: Presentation  to Analysts  
+ 
+Ref: BSE: 500002 / NSE: ABB  
+ 
+In continuation to our letter dated November 3 , 202 3, we are enclosing  herewith a copy of 
+presentation which will be made at the Analysts Call  scheduled on November 9 , 2023, for 
+information of the Stock Exchanges.  
+ 
+The said presentation is also being uploaded on the Company’s website.  
+ 
+ 
+Thanking you  
+ 
+Yours faithfully  
+For ABB India Limited  
+ 
+ 
+ 
+ 
+Trivikram Guda  
+Company Secretary and Compliance Officer  
+ACS 17685  
+ 
+Encl: as above  
+ 
+ 
+=== page 2 ===
+—
+© 2022 ABB. All rights reserved.
+Strong margin expansion on back of revenue growth; 
+robust increase in order backlog
+ABB India Analyst Call  |  Q3 & 9M CY2023  |  July – September 2023N O V E M B E R  9 ,  2 0 2 3
+
+=== page 3 ===
+—
+© 2022 ABB. All rights reserved.Important notices
+November 9, 2023 Slide 2This presentation includes forward -looking information and statements including statements concerning the outlook for our busine sses. These statements are based on 
+current expectations, estimates and projections about the factors that may affect our future performance, including global ec ono mic conditions, and the economic conditions 
+of the regions and industries that are major markets for ABB India Ltd. These expectations, estimates and projections are gen erally identifiable by statements containing 
+words such as “expects,” “believes,” “estimates,” “targets,” “plans,” “outlook,” “on track,” “framework” or similar expressio ns.
+Ther earenumerou srisksanduncertainties ,man yofwhic harebeyon dourcontrol ,thatcoul dcaus eouractua lresult stodiffe rmateriall yfromtheforward -
+lookin ginformatio nandstatement smad einthispresentatio nandwhic hcoul daffec tourabilit ytoachiev eanyorallofourstate dtargets .Theimporta nt
+factor sthatcoul dcaus esuchdifference sinclude ,amon gothers:
+–business risks associated  with the volatile global  economic  environment and political  conditions
+–costs  associated with  compliance activities
+–market acceptance of  new products  and services
+–changes in governmental regulations and currency exchange rates, and
+–such other factors as may be discussed  from time  to time in ABB  India Ltd’ sfilings  with the Securities and Exchange Board  of India (SEBI), including its  
+Annual Report
+–Impact of ongoing pandemic 
+Although ABB India Ltd believes that its expectations reflected in any such forward -looking statement are based upon reasonable assumptions, it can give no 
+assuranc ethatthos eexpectation swillbeachieved.
+Further ,Informatio nshare dherei ninter -aliacontain ssom ekeyfinancial spertainin gtoABBIndia .ABBIndiabein galiste dentit yisoblige dbylawnotto
+shar ethesaidinformatio ntoanyone(othe rthanthos ewhoareinvolve dintheproces sandwhoareboun dbyInside rTradin gRegulation )unles sanduntil
+thefinancial sareconsidere dandapprove dbyABBIndiaBoar dandthereafte rannounce dtostoc kexchange sasperthelistin gobligation sentruste dupon
+ABBIndia .Therefore ,privytothispresentatio nshoul dkindl yensur estric tconfidentialit yoftheinformatio nshare danddiscusse dherein.
+=== page 4 ===
+——
+ABB at a glance
+ABB  is a technology leader in electrification and automation, enabling a more 
+sustainable and resource -efficient future. The company’s solutions connect 
+engineering know -how and software to optimize how things are manufactured, 
+moved, powered and operated. Building on more than 130 years of excellence, 
+ABB’s ~105,000 employees are committed to driving innovations that accelerate 
+industrial transformation.
+ABB has been present in India for over a century and manufacturing for more 
+than 70 years.
+5 Electrification
+Distribution Solutions
+Smart Power
+Smart Building
+Installation Products
+Power Conversion
+Service
+E-mobility
+Motion
+IEC LV Motors
+Large Motors & 
+Generators
+NEMA Motors
+Drive Products
+System Drives
+Service
+Traction
+Process 
+Automation
+Energy Industries
+Process Industries
+Marine & Ports
+Measurement & 
+Analytics
+Robotics & 
+Discrete 
+Automation
+Robotics
+Machine automation1
+Manufacturing 
+locations 
+Plants 2528 Sales Offices 
+Partners 750+ 
+Faridabad
+Nashik
+BengaluruMumbaiVadodara
+Sales and branch offices
+R&D centerManufacturing locationsHead office, Bengaluru
+1 –Machine  Automation division is not part of ABB India  & is run separately out of ABB B&R
+=== page 5 ===
+Thriving in key sectors with a diverse portfolio
+S-curve visual is illustrative—
+electronicsrailways & 
+metro datacenter
+renewables warehouse 
+& logistics
+food & 
+beverage
+pharma & 
+healthcarewater & 
+wastewater
+automotive
+power 
+distribution buildings & 
+infrastructurerubber & 
+plasticscement
+oil, gas & 
+chemicalsmetals & 
+mining
+textiles
+pulp & papermarine & 
+ports
+=== page 6 ===
+—
+Theme for the quarter
+Railways & Metro: a deep -dive
+India has 4th largest railway system in the 
+world
+Investments in Railways expected to grow at a 
+CAGR of ~15% for the next 2 years
+Expected investment in Rail infrastructure of 
+$715 bn by 2030•Exponential rise in passenger & Freight traffic 
+•National Rail Plan: Increase the modal share of Railways in 
+freight  to 45% by 2030 from existing 27%
+•Diamond Quadrilateral network of high -speed rail
+•Approved additional metro rail network of 1032km  in 26 cities
+•Modernization of 1275 stations across India
+•6 dedicated freight corridors
+•100 PM Gati Shakti cargo terminals by 2025
+•400 Vande  Bharat Trains to be manufactured in next 3 years Segment Insights Key Drivers & Trends
+ABB’s offerings include Traction converter & motors, HVAC drives, LV components, DC circuit breaker, UPS, Digital Power Train
+Source: IBEF, Invest India November 9, 2023 Slide 5
+746 km metro network existing in 15 cities; 
+7 cities with 640 km have under -
+implementation projects 
+Metro rail network to witness 2.7x growth in 
+next 5 years
+=== page 7 ===
+—
+—
+Business highlights
+=== page 8 ===
+—
+ —
+Q3 2023  highlights
+1.YoY  comparable02.
+Zero -waste to landfill 
+certification for 
+Nelamangala factory
+Achieved a waste 
+recyclability of 95 
+percent and water 
+recyclability of 50 
+percent
+Engaged with ~ 1,700
+customers across 12 tier 
+II & tier III markets03.
+Robust cash position at 
+INR 4,356 crore 01.
+Orders +14%1from 
+both, emerging and 
+traditional segments
+Revenues +31%1
+achieved through 
+seamless execution
+PAT +79%1,driven by 
+operational efficiencies
+
+=== page 9 ===
+—
+Transport
+Demand for propulsion technology solutionsPositive market momentum across 
+segments
+Orders
+Significant jump in large orders underscores capex 
+revival  
+Process
+Uptick in demand for integrated solutions in metal, mining, 
+oil, paint companiesOrders (+14%)1
+Revenues (+31%)1INR crores
+INR crores
+1. YoY  comparableOrder  backlog  grew  +23%1 to INR 8,008 crore
+Services
+Orders +25%1; 
+Discrete
+Continued momentum in automotive, electronics 
+sectors1,909 2,243 
+2,291 2,767 
+2,634 
+2,335 3,125 3,044 3,004 
+0%10%20%30%40%50%60%70%
+ - 500 1,000 1,500 2,000 2,500 3,000 3,500
+Q3/21 Q1/22 Q3/22 Q1/23 Q3/23
+Orders YoY Growth%
+1,778 2,101 1,968 2,053 2,120 2,427 2,411 2,509 2,769 
+0%10%20%30%40%50%
+ - 500 1,000 1,500 2,000 2,500 3,000
+Q3/21 Q1/22 Q3/22 Q1/23 Q3/23
+Revenues YoY Growth%
+=== page 10 ===
+—
+© 2022 ABB. All rights reserved.Proven capabilities leading to significant wins
+Smart power solutions for industrial 
+electrical products majorEnergy efficient systems drives 
+solutions for steel majorRobotics solutions for a leading 
+electronics manufacturerCompact substations for a leading 
+private power companyPropulsion technology solutions for 
+a railway transportation 
+multinational companyRectifiers for a global natural 
+resources companyRobotics automation for painting 
+and cleaning of EVs from a leading 
+Indian auto major
+Gas insulated switchgear for an 
+energy company
+
+=== page 11 ===
+—
+© 2022 ABB. All rights reserved.Continuous customer engagement
+Engaged with ~1,700 customers across 12 tier II & tier III markets in Q3
+Customer Connect, Mumbai for cement, 
+metal & paper industry by Process 
+automation Energy Auditors Meet, Hyderabad 
+by MotionVirtual Technology Day for a construction 
+major, Robotics & Discrete automation 
+Market storming activity in Patna & 
+Muzaffarpur by ElectrificationTechnology Day  for Utilities industry, 
+Leh by Electrification
+Technology Day for Building segment, 
+Lucknow by Electrification
+Photo Check
+
+=== page 12 ===
+—
+Implementing ABB India ESG Strategy
+Zero waste to Landfill (ZWL) –Nelamangala factory 
+ZWL initiatives with 5R approach
+-Adopt 5R approach (Refuse, Reduce, 
+Recycle, Reuse & Recovery) to achieve 
+ZWL 
+-Waste intensity reduction with major 
+focus on reducing process/non process  
+waste
+-Waste to energy recovery initiation in 
+case 4R not feasible 
+-Value champion development (Team 
+training & awareness) with award 
+system for sustenance Approach for Zero waste 
+to landfill
+•Adopt 5R approach (Refuse, 
+Reduce, Recycle, Reuse & 
+Recovery) to achieve ZWL 
+•Waste intensity reduction 
+with major focus on reducing 
+process/non process  waste
+•Waste to energy recovery 
+initiation in case 4R not 
+feasible 
+•Value champion development 
+(Team training & awareness) 
+with award system for 
+sustenance Achievements/Results
+Nelamangala factory certified as “Zero waste 
+to landfill” - Sustenance plan under progress
+Thermosets plastic Waste 
+to energy recovery process
+Reduce usage of packaging 
+labels (non recyclable)2. Reduction:
+5. Recovery:
+1. Refuse:
+Refusal of single use plastic 
+usage
+4. Recycling:
+Recycling of waste through 
+approved recyclers
+3. Reuse:
+Reuse of kanban bins 
+(multi usage bins)
+10
+0.9
+2022 2023Waste (%) sent to Landfill
+=== page 13 ===
+—
+© 2022 ABB. All rights reserved.Care: Performance with Purpose
+November 9, 2023 Slide 12Upgradation of Govt ITI in partnership with 
+sector skill council, PeenyaPhase -2 Nelamangala rural road development 
+project initiated Program for additional 20 meritorious women 
+engineering scholarship initiated in Bangalore 
+Awareness, health check up and screening for 
+congenital heart diseases in children, FaridabadDistribution of essential aids for Govt school in  
+Rajagopala  Nagar Peenya
+Focus on local development, education, diversity & inclusion, and healthcare for communities
+Our programs address 11 out of 17  UN SDGs 
+directly, and 6 addressed indirectly
+
+=== page 14 ===
+—
+—
+Financial highlights
+=== page 15 ===
+—
+Executive summary
+INR croresSteady profitability delivering growth—
+Q2 2023Change 
+vs 
+Q2 23Performance Indicator Q3 2023 Q3 2022Change 
+vs 
+Q3 229M 2023 9M 2022Change 
+vs 
+9M 22CY 2022
+3,044 -1% Total  Orders Received 3,004 2,634 +14% 9,172 7,693 +19% 10,028
+7,727 +4% Order Backlog (end of period) 8,008 6,519 +23% 8,008 6,519 +23% 6,468
+2,509 +10% Revenue 2,769 2,120 +31% 7,689 6,141 +25% 8,568
+393 +23%Profit Before Exceptional and Tax 
+(PBT)484 229 +111% 1,205 623 +93% 1,024
+15.7 PBT before Exceptional % 17.5 10.8 15.7 10.1 11.9
+393 +23%Profit After Exceptional and Before 
+Tax (PBT)484 275 +76% 1,205 963 +25% 1,363
+15.7 PBT after Exceptional % 17.5 13.0 15.7 15.7 15.9
+296 +22% Profit After Tax (PAT) 362 203 +79% 903 720 +25% 1,026
+11.8 PAT % 13.1 9.6 11.7 11.7 12.0
+341 +6% Operational EBITA 361 256 +29% 976 647 +34% 897
+13.6 Operational EBITA% 13.0 12.1 12.7 10.5 10.5
+4,092 Cash balance 4,356 3,181 4,356 3,181 3,616
+=== page 16 ===
+—
+Financial summary—
+17.5% 10.8%PBT Bridge
+Crs % Crs % Crs % Crs % Crs % Crs %
+INCOME ` `
+Revenue from Operations 2,769.2   100.0      2,508.6   100.0      2,119.7   100.0      7,689.0   100.0      6,140.6   100.0      8,567.5   100.0      
+Other Income 76.8          2.8            75.0          3.0            46.9          2.2            224.1      2.9            109.5      1.8            179.5      2.1            
+Total Income 2,846.0   102.8      2,583.7   103.0      2,166.6   102.2      7,913.1   102.9      6,250.1   101.8      8,747.0   102.1      
+EXPENDITURE
+Material cost 1,752.2   63.3          1,592.0   63.5          1,381.9   65.2          4,879.8   63.5          3,991.3   65.0          5,542.6   64.7          
+Personnel Expenses 178.0      6.4            168.1      6.7            156.1      7.4            533.9      6.9            476.8      7.8            635.3      7.4            
+Other Expenses 403.6      14.6          370.0      14.7          340.6      16.1          1,175.1   15.3          995.6      16.2          1,378.9   16.1          
+Exchange & commodity variation (net) (3.1) (0.1) 29.8          1.2            30.2          1.4            27.6          0.4            79.4          1.3            48.8          0.6            
+Depreciation 30.3          1.1            29.2          1.2            26.9          1.3            87.0          1.1            77.9          1.3            104.7      1.2            
+Interest 0.9            0.0            1.4            0.1            1.6            0.1            4.5            0.1            5.9            0.1            13.1          0.2            
+Total Expenditure 2,361.8   85.3          2,190.5   87.3          1,937.2   91.4          6,708.0   87.2          5,626.8   91.6          7,723.5   90.1          
+Profit before Tax and exceptional 484.2      17.5          393.1      15.7          229.4      10.8          1,205.2   15.7          623.3      10.2          1,023.5   11.9          
+Exceptional item -            -            -            -            45.9          -            -            339.3      -            339.3      4.0            
+Profit before Tax and after exceptional 484.2      17.5          393.1      15.7          275.3      13.0          1,205.2   15.7          962.6      15.7          1,362.8   15.9          
+Tax Expense 122.2      4.4            97.3          3.9            72.8          3.4            302.2      3.9            242.9      3.9            337.2      3.9            
+Profit after tax 362.0      13.1          295.8      11.8          202.5      9.6            903.0      11.7          719.7      11.7          1,025.6   12.0          (INR Crores)
+Quarter ended on 
+30.09.2023Quarter ended on 
+30.06.2023Quarter ended on 
+30.09.2022Nine months ended 
+30.09.2023Nine months ended 
+30.09.2022Year ended 
+31.12.2022
+229 484 22 
+66 
+280 33 30 PBT for Q3/2022
+Base volume, Mix
+and Mat cost
+Personnel
+expenses
+Other expenses
+Forex & MTM
+commodity
+impact
+Other income
+PBT for Q3/202322
+3330
+•Higher other expenses due to 
+increase in revenue linked costs 
+and provision for receivables
+•Operating efficiencies, capacity 
+leverage and price increase 
+improve profitability
+=== page 17 ===
+—
+Electrification
+Orders Received
+•Growth across major segments and channels 
+•Traction in orders in the Distribution Solutions 
+and Smart Power divisions
+•Key orders from –leading energy company, 
+major data center player, metals major 
+Revenues 
+•Seamless execution of backlog
+PBIT
+•Superior price realization
+•Efficient capacity utilization 9648601,335
+1,1001,032
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Orders 
+Received(+7%)
+881950999 1,0061,042
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Revenues(+18%)
+1,6302,086
+Q3/22 Q3/23(+28%)
+Order
+BacklogINR crores
+14.515.319.5
+16.319.3
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23PBIT %
+=== page 18 ===
+—
+Orders Received
+•Robust demand momentum for large motors 
+and generators
+•Orders from Rail segment
+•Increasing penetration to Tier II & III cities
+Revenues 
+•Efficient capacity utilisation and backlog 
+execution
+PBIT
+•High volume, better revenue mix966
+7701,2161,1261,417
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Orders 
+Received(+47%)
+882935972917981
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Revenues(+11%)
+2,2743,001
+Q3/22 Q3/23(+32%)
+Order
+BacklogMotionINR crores
+10.516.1
+12.014.519.4
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23PBIT %
+=== page 19 ===
+—
+Process Automation
+Orders Received
+•Orders from energy industry, process industry
+•Delay in realization of few large orders due to 
+pending approvals; to be realized in 
+subsequent quarters
+Revenues 
+•Higher execution of order backlog
+•Surge in service revenue
+•Uptick in export revenue
+PBIT
+•Revenue mix and higher margin order backlog 
+realization706
+622
+463784
+529
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Orders 
+Received(-25%)
+350511
+420510676
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Revenues(+93%)
+2,5472,802
+Q3/22 Q3/23(+10%)
+Order
+BacklogINR crores
+10.017.6
+9.2
+11.114.5
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23PBIT %
+=== page 20 ===
+—
+Robotics and Discrete Automation
+Orders Received
+•Strong inflow from automotive sector, paints, 
+electronics, along with service orders
+•Large order from automotive and leading 
+electronics manufacturer
+Revenues 
+•Higher revenue from execution of paints order
+PBIT
+•Higher service revenues in previous quarters 
+compared to current quarter50120156
+61116
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Orders 
+Received(132%)
+586368123118
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23Revenues(+105%)
+165229
+Q3/22 Q3/23(+39%)
+Order
+BacklogINR crores
+12.616.3 15.8
+12.6
+12.0
+Q3/22 Q4/22 Q1/23 Q2/23 Q3/23PBIT %
+=== page 21 ===
+—
+Well -structured, diversified business model
+November 9, 2023 Slide 20Channels Geography Offering
+33%40%
+32%40%44%39%
+44%42%11%10%12%10%12% 11% 12%8%
+Q3/22 Q3/23 9M/22 9M/23
+Direct Sales Partners EPCs OEMs79%73%78% 76%11%16%12% 14%10% 11% 10% 10%
+Q3/22 Q3/23 9M/22 9M/23
+Products Services Projects88% 90% 88% 90%12% 10% 12% 10%
+Q3/22 Q3/23 9M/22 9M/23
+Domestic Export
+Note: Category distribution by RevenuePartners include Panel Builders, Distributors & System 
+Integrators
+=== page 22 ===
+November 9, 2023 Slide 21

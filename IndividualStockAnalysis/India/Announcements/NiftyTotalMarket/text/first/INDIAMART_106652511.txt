@@ -1,0 +1,400 @@
+ 
+ 
+ 
+June 02, 2026 
+ 
+To,  
+BSE Limited  
+(BSE: 542726)  National Stock Exchange of India Limited  
+(NSE: INDIAMART)  
+ 
+Subject: Business Responsibility and Sustainability Report for FY 2026 
+ 
+Dear Sir/Ma’am, 
+ 
+In compliance with Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, please find enclosed herewith the Business Responsibility and 
+Sustainability Report forming part of the Integrated Annual Report of the Company for  
+FY 2025-26.  
+ 
+The Integrated Annual Report for FY 2025-26 has been uploaded on the website of the Company 
+and can be accessed by using the link: https://investor.indiamart.com/Annual_Report.aspx  
+ 
+Please take the above information on record. 
+ 
+Yours faithfully, 
+ 
+For IndiaMART InterMESH Limited 
+ 
+ 
+ 
+(Vasudha Bagri)  
+Compliance Officer  
+Membership No:  A28500 
+ 
+Encl: As above  
+Business Responsibility &  
+Sustainability Report  
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity L74899DL1999PLC101534
+2. Name of the Listed Entity IndiaMART InterMESH Limited
+3. Year of incorporation 1999
+4. Registered office address 1st Floor, 29-Daryaganj, Netaji Subash Marg,  
+New Delhi- 110002
+5. Corporate address 6th floor, Tower 2, Assotech Business Cresterra, Plot No.22, 
+Sec 135, Noida - 201305, Uttar Pradesh
+6. E-mail cs@indiamart.com
+7. Telephone +91-120-6777777
+8. Website http://www.indiamart.com/ 
+9. Financial year for which reporting is being done FY 2025-2026
+10. Name of the Stock Exchange(s) where shares are listed BSE Limited 
+National Stock Exchange of India Limited
+11. Paid-up Capital 60,08,71,480
+12. Name and contact details (telephone, email address) of the person who 
+may be contacted in case of any queries on the BRSR report Ms. Vasudha Bagri 
+cs@indiamart.com 
++91-120-6777777
+13. Reporting boundary - Are the disclosures under this report made on a 
+standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. 
+for the entity and all the entities which form a part of its consolidated 
+financial statements, taken together)The disclosures made under this report are on a 
+standalone basis. 
+14. Name of assurance provider DNV Business Assurance India Private Limited
+15. Type of assurance obtained Reasonable Assurance 
+II. Product/Services
+16. Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.Description of Main Activity Description of Business Activity % of Turnover of 
+the entity 
+1. Information Services Activity Connecting buyers and suppliers through an online B2B platform, thereby 
+creating a comprehensive virtual marketplace for businesses. 
+a) Enabling listings and discovery of businesses and services 
+b)  Facilitating advertisements and lead generation on the Company’s 
+platform100%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. 
+No.Product/Service NIC Code % of total Turnover 
+contributed 
+1. Information Services 6311 
+(Sub-class: 63111)100%SECTION A: GENERAL DISCLOSURES
+IndiaMART InterMESH Limited
+Integrated Annual Report 2025-26  |  1 
+
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of Plants Number of Offices Total
+National NA 77 77
+International NA 0 0
+19. Markets served by the entity
+a. Number of locations
+Location Number 
+National (No. of States) 28 states and  8 union territories 
+International (No. of Countries) 2 countries
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+ 0.14%
+c. A brief on types of customers
+  IndiaMART is a leading online B2B marketplace serving a broad and diverse customer base, comprising Micro, Small and 
+Medium Enterprises (MSMEs) as well as large corporations. The platform enables MSMEs to enhance their market visibility 
+by showcasing their products and generating qualified business enquiries. In addition, enterprise customers leverage the 
+platform to digitally promote and position their products and services to a wider audience. For buyers, IndiaMART provides 
+convenient and efficient access to an extensive network of products and verified suppliers across categories.
+IV. Employees
+20. Details as of the end of the financial year:
+a. Employees and workers (including differently abled):
+Sr. 
+No.Particulars Total (A)Male Female
+No.(B) %(B/A) No.(C) %(C/A)
+Employees
+1. Permanent (D) 6,222 5,175 83% 1,047 17%
+Sales & servicing 5,376 4,569 85% 807 15%
+Others 846 606 72% 240 28%
+2. Other than Permanent (E) 0 0 0 0 0
+3. Total employees (D+E) 6,222 5,175 83% 1,047 17%
+Workers
+4. Permanent (F) NA NA NA NA NA
+5. Other than Permanent (G) NA NA NA NA NA
+6. Total workers (F+G) NA NA NA NA NA
+Notes :
+1. The Company does not employ or engage with ‘worker’ as defined in the guidance note on BRSR, issued by SEBI
+2. Others include Product & Technology and Corporate functions
+b. Differently abled Employees and workers:
+Sr. 
+No.Particulars Total (A)Male Female
+No.(B) %(B/A) No.(C) %(C/A)
+Differently Abled Employees
+1. Permanent (D) 0 0 0 0 0
+2. Other than Permanent (E) 0 0 0 0 0
+3. Total differently-abled employees (D+E) 0 0 0 0 0
+Differently Abled Workers
+4. Permanent (F) NA NA NA NA NA
+5. Other than Permanent (G) NA NA NA NA NA
+6. Total differently-abled workers (F+G) NA NA NA NA NA
+2  |  Integrated Annual Report 2025-26 
+21. Participation/Inclusion/Representation of Women:
+Total (A)Number and percentage of Females
+No.(B) %(B/A)
+Board of Directors 9 2 22%
+Key Management Personnel 5 1 20%
+22. Turnover rate for permanent employees and workers:
+(Disclose trends for the past 3 years)
+FY 2026 (Turnover rate in 
+current FY)FY 2025 (Turnover rate in 
+previous FY)FY 2024 (Turnover rate in year 
+prior to the previous FY)
+Male Female Total Male Female Total Male Female Total
+Permanent Employees
+a. Sales & Servicing 34% 35% 34% 29% 30% 29% 26% 34% 27%
+b. Others 20% 21% 20% 16% 22% 17% 15% 18% 16%
+Permanent Workers NA NA NA NA NA NA NA NA NA
+Notes:
+1. Employees who left within 6 months of joining have been excluded from the above calculation
+2. Others include Product & technology and corporate functions
+V. Holding, Subsidiary, and Associate companies (including joint ventures)
+23. a. Names of holding/ subsidiary/ associate companies/ joint ventures
+S. 
+No.Name of the holding/subsidiary / associate 
+companies / joint ventures (A)Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture% of shares 
+held by 
+listed entityDoes the entity indicated at  
+column A, participate in the  
+Business Responsibility initiatives  
+of the listed entity? (Yes/No)
+1 Busy Infotech Private Limited Subsidiary 100%
+NO2 Tradezeal Online Private Limited * Subsidiary 100%
+3 Pay With Indiamart Private Limited Subsidiary 100%
+4 Livekeeping Technologies Private Limited 
+(Formerly known as Finlite Technologies  
+Private Limited)  Subsidiary 100%
+5 IIL Digital Private Limited  Subsidiary 100%
+6 Fleetx Technologies Private Limited (with effect 
+from April 11, 2025)Associate 22.25%
+7 Simply Vyapar Apps Private Limited Associate 28.59%
+8 Mobisy Technologies Private Limited Associate 32.53%
+9 IB Monotaro Private Limited Associate 21.01%
+*As at March 31, 2026, Tradezeal Online Private Limited, subsidiary of the Company, holds equity interests in the associates: Agillos E-Commerce Private 
+Limited  (24.51%), Truckhall Private Limited  (34.46%), Edgewise Technologies Private Limited  (26.01%) and Adansa Solutions Private  Limited (26.01%).
+VI. CSR Details
+24. (i) Whether CSR is applicable as per Section 135 of the Companies Act, 2013: (Y es/No): Yes
+ (ii) Turnover (in ` ) 14,42,80,30,000
+ (iii) Net worth (in ` ) 25,41,71,30,000
+IndiaMART InterMESH Limited
+Integrated Annual Report 2025-26  |  3 
+
+VII. Transparency and Disclosure Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Stakeholder group from whom 
+the complaint is received Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No) 
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)FY 2026 FY 2025
+Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Communities Yes 0 0 0 0 -
+Investors (other than shareholders) Yes 0 0 0 0 -
+Shareholders Yes 32 0 76 1 -
+Employees and workers^Yes 2 0 0 0 -
+Customers#Yes 98 0 58 0 -
+Value Chain Partners Yes 0 0 0 0 -
+Other (Buyers)*Yes 4 0 13 0 -
+Note: Refer our Terms of Use
+Refer our Grievance Redressal Policy
+*Service Providers Code of Conduct in place. The same is annexed to Agreements & Contracts executed with them.
+^POSH & Whistle Blower complaints have been considered
+26.  Overview of the entity’s material responsible business conduct issues. Please indicate material responsible business conduct 
+and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, 
+rationale for identifying the same, and approach to adapt or mitigate the risk along with its financial implications, as per the 
+following format:
+Sr.  
+No.Material issue 
+identifiedIndicate 
+whether 
+risk or  
+opportunity 
+(R/O)Rationale for identifying the risk/opportunity In case of risk, approach to  
+adapt or mitigateFinancial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1 Corporate 
+GovernanceRisk Inadequate corporate governance may expose 
+an organisation to significant operational and 
+strategic risks. Such gaps can result in unethical 
+practices, inefficient allocation and oversight of 
+resources, regulatory and legal non-compliances, 
+and potential erosion of stakeholder trust. Over 
+time, these factors can adversely impact the 
+organisation’s reputation, financial performance 
+and long-term sustainability.IndiaMART has instituted a 
+comprehensive policy framework to 
+foster ethical conduct across all levels of 
+the organisation and to ensure adherence 
+to applicable laws and regulatory 
+requirements. To strengthen transparency 
+and accountability, the Company has 
+established a confidential whistleblower 
+mechanism that enables stakeholders 
+to report concerns without fear of 
+retaliation.
+All Board-approved policies are publicly 
+accessible on the Company’s website at 
+https://investor.indiamart.com/company-
+information/corporate-governance 
+in multiple languages. These policies 
+are also communicated internally and 
+made readily available to employees 
+through the Company’s intranet ensuring 
+organisation-wide awareness and 
+accessibility.Negative
+Opportunity Robust corporate governance practices, 
+underpinned by ethical leadership and effective 
+oversight mechanisms, strengthen accountability 
+and reinforce stakeholder trust and confidence. 
+Collectively, these elements contribute to the 
+Company’s long-term resilience, value creation and 
+sustainable growth.
+4  |  Integrated Annual Report 2025-26 
+Sr.  
+No.Material issue 
+identifiedIndicate 
+whether 
+risk or  
+opportunity 
+(R/O)Rationale for identifying the risk/opportunity In case of risk, approach to  
+adapt or mitigateFinancial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+2 Privacy and 
+Data SecurityRisk Inadequate prevention, detection and mitigation 
+of data security risks including vulnerabilities 
+related to data protection, storage and potential 
+leakage may materially impact stakeholder trust 
+and organisational reputation. Such lapses could, 
+in turn, adversely affect customer acquisition, 
+retention and overall business continuity.IndiaMART has implemented a 
+comprehensive information security 
+framework designed to protect 
+organisational data from unauthorised 
+access, cyber threats and potential 
+breaches. The Company’s commitment 
+to global data protection standards is 
+evidenced by its certification to ISO 27001 
+for Information Security Management 
+Systems and ISO 27701:2019 for Privacy 
+Information Management.
+In addition, the Company maintains the 
+following internationally recognised 
+certifications, further strengthening its 
+governance and operational resilience 
+framework:
+  ISO 31000:2018- Enterprise Risk 
+Management (ERM)
+  ISO 22301:2019- Business Continuity 
+and Management System (BCMS)
+  ISO 27001- Information Security 
+Management System (ISMS)
+  ISO 27701- Privacy Information 
+Management (PIMS)
+  ISO 12207- Management System for 
+System and Software Engineering 
+Process
+  ISO/IEC 20000-1:2018- IT Service 
+Management System
+The aforesaid certifications were placed 
+before the Risk Management Committee 
+for review and update.
+An update on the Digital Personal Data 
+Protection Act, 2023 (“DPDPA”) was also 
+placed before the Committee, covering 
+key obligations, applicability, compliance 
+status, way forward and penalties.Negative
+Opportunity Robust data protection controls, transparent 
+privacy frameworks and responsible data 
+governance practices enhance stakeholder  
+trust and confidence. This, in turn, supports 
+customer acquisition and retention, safeguards 
+brand reputation and strengthens the Company’s 
+competitive positioning in the marketplace.
+3 Diversity and 
+InclusionRisk Workplace discrimination, limited diversity and 
+an absence of an inclusive culture may expose 
+the organisation to legal and regulatory risks 
+challenges in attracting and retaining talent 
+and reputational concerns. Such shortcomings 
+can also constrain diversity of thought and 
+perspective, thereby impeding innovation, 
+employee engagement and morale, as well as the 
+organisation’s overall agility and capacity to adapt 
+in a dynamic business environment.The Company is committed to 
+implementing robust policies and 
+procedures that promote equal 
+opportunity, prevent discrimination 
+and ensure fair and equitable treatment 
+of all employees, irrespective of their 
+background, identity or personal 
+characteristics. These frameworks are 
+periodically reviewed and updated 
+to remain aligned with evolving best 
+practices and applicable legal and 
+regulatory requirements. To ensure 
+organisation-wide accessibility and 
+awareness, the policies are made available 
+in multiple languages.
+In addition, the Company has 
+institutionalised initiatives to enhance 
+women’s representation and well-being, 
+reinforcing its commitment to an inclusive 
+workplace, including yoga, Zumba, and 
+the “Wellness from Within: Regenerative 
+Care for Modern Women” session.Positive
+Opportunity Diversity and inclusion, while distinct in principle, 
+are intrinsically interconnected in practice. The 
+Company recognises that a diverse workforce 
+brings varied perspectives and experiences, 
+enabling more balanced, well-evaluated 
+and effective decision-making that supports 
+organisational success.
+Diversity reflects the composition of the 
+workforce, whereas inclusion emphasises creating 
+an environment in which individuals from 
+diverse backgrounds are valued, respected and 
+encouraged to contribute meaningfully. 
+Through its commitment to these principles, the 
+Company promotes equitable opportunities, 
+supports inclusive growth and contributes to 
+broader economic and social development.
+IndiaMART InterMESH Limited
+Integrated Annual Report 2025-26  |  5 

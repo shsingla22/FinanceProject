@@ -1,0 +1,690 @@
+
+=== page 1 ===
+Investor Presentation
+Q1 FY27
+28thJuly 2026
+1
+=== page 2 ===
+© SUZLON , GOOD ENERGIES THAT WORKDisclaimer
+This presentation andtheaccompanying slides (the “Presentation”), hasbeen prepared bySuzlon Energy Limited (the “Company”), solely forinformation purposes anddoes notconstitute anyoffer,
+recommendation orinvitation topurchase orsubscribe foranysecurities, andshallnotform thebasis oforberelied oninconnection withanycontract orbinding commitment whatsoever inanyjurisdiction .The
+Presentation isnotintended toform thebasis ofortoberelied upon asadvice toanyinvestor oranyinvestment decision byaprospective investor .Nooffering ofsecurities oftheCompany willbemade except by
+means ofastatutory offering document containing detailed information about theCompany .
+ThisPresentation hasbeen prepared bytheCompany based oninformation anddata which theCompany considers reliable, including information derived from public sources thathasnotbeen independently
+verified .norepresentation orwarranty, express orimplied, whatsoever, isbeing made inrelation tothecorrectness, accuracy, reliability, completeness, orfairness oftheinformation, conclusion oropinions
+expressed herein .Thefinancial information included inthispresentation ispreliminary, unaudited andsubject torevision upon completion oftheCompany's closing andaudit processes .Norepresentation or
+warranty whatsoever isgiven inrelation tothereasonableness orachievability ofanyprojections contained inthePresentation orinrelation tothebases andassumptions underlying such projections andyoumust
+satisfy yourself inrelation tothereasonableness, achievability andaccuracy thereof .
+Certain matters discussed inthisPresentation maycontain statements regarding theCompany’s market opportunity andbusiness prospects thatare,individually orcollectively, forward -looking statements .Such
+forward -looking statements arenotguarantees offuture performance andaresubject toknown andunknown risks, uncertainties andassumptions thataredifficult topredict .These risksanduncertainties include,
+butarenotlimited to,theperformance oftheIndian economy andoftheeconomies ofvarious international markets, theperformance ofthewind power industry inIndia andworld -wide, theCompany’s ability to
+successfully implement itsstrategy, theCompany’s future levels ofgrowth andexpansion, technological implementation, changes andadvancements, changes inrevenue, income orcash flows, theCompany’s
+market preferences anditsexposure tomarket risks, aswellasother risks.Inevitably, some assumptions willnotmaterialize, andunanticipated events andcircumstances mayaffect theultimate financial results .
+TheCompany’s actual results, levels ofactivity, performance orachievements could differ materially andadversely from results expressed inorimplied bythisPresentation .TheCompany assumes noobligation to
+update orrevise anyforward -looking information contained inthisPresentation toreflect events orcircumstances thatarise after thedatemade ortoreflect theoccurrence ofunanticipated events .Anyforward -
+looking statements andprojections made bythird parties included inthisPresentation arenotadopted bytheCompany andtheCompany isnotresponsible forsuch third-party statements andprojections .Any
+liability inrespect ofthecontents of,oranyomission from, thisPresentation isexpressly excluded .
+Noresponsibility orliability isaccepted foranylossordamage howsoever arising thatyoumaysuffer asaresult ofthisPresentation andanyandallresponsibility andliability isexpressly disclaimed bythe
+Management, theShareholders andtheCompany oranyofthem oranyoftheirrespective directors, officers, affiliates, employees, advisers oragents .
+Nooffering oftheCompany’s securities willberegistered under theU.S.Securities Actof1933,asamended (the“Securities Act”).Accordingly, unless anexemption from registration under theSecurities Actis
+available, theCompany’s securities maynotbeoffered, sold, resold, delivered ordistributed, directly orindirectly, intotheUnited States orto,orfortheaccount orbenefit of,anyU.S.Person (asdefined in
+regulation Sunder theSecurities Act).
+Thedistribution ofthisdocument incertain jurisdictions mayberestricted bylawandpersons intowhose possession thispresentation comes should inform themselves about andobserve anysuch restrictions .Any
+failure tocomply withthese restrictions mayconstitute aviolation ofthelawsofsuch jurisdiction .
+2
+=== page 3 ===
+Industry Outlook
+3
+=== page 4 ===
+© SUZLON , GOOD ENERGIES THAT WORKRenewables to Power India’s Energy Transition; 
+Suzlon poised for Leadership
+Power Renewables Wind
+India’s Power Demand Set to 
+Nearly Triple by 2047Renewable Energy Capacity to 
+Grow Multi-Foldby 2047Wind growth to outpace power; 
+Strong 10% CAGR projected against 
+5% growth in power
+India Power Demand (inTWh)
+2204006151,600
+2026* 2030 2035 204710%RE^capacity (in GW) Wind capacity (in GW)
+Sources: CEA,International Energy Agency, World Bank, MERCOM report, JMKreport, CIIreport -Energy transition forViksit
+Bharat 2047, National Electricity PlanVol.II,CEA(Base Case Scenario), Niti Aayog
+Notes: ^ RE includes Solar and Wind | *Installations as on 30thJun 20261,6002,1282,8204,490
+2025 2030 2035 204757100160400
+2026* 2030 2035 2047
+4
+=== page 5 ===
+© SUZLON , GOOD ENERGIES THAT WORKGlobal split by driver (TWh)
+Data Centers +110 -170
+~3X jump in DC power demand by 2030
+Transport +120 -140
+50% of new vehicle sales electric by 2035; 50M EVs already on 
+road in 2025
+Buildings +240 -300
+~50% growth in floor area and building electrification helps 
+drive 3 ×rise
+Industry +300 -600
+Power for Green H2/molecules a significant driver 
+for growth
+Cooling +80-120
+AC to drive >20% of India's electricity demand growth 
+by 2030Global Electricity Demand Growth Creates a Multi -
+Decade Renewable Energy Opportunity                                                                               
++350 -45040
+580
+2030
+15202570
+15
+10 10225
+50
+10
+530 30
+10
+1
+China India US EUProjected annual electricity growth by driver, 2025 –2030 (TWh)^
++90-120 +110 -130 +50-70
+The Global South is leading this shift -China and India alone are expected to drive 30% to 50% growth in 
+national consumption by 2030, with many ASEAN and African economies on similar trajectories
+Sources: Energy Policy Simulator; Energy Institute; EIA; IEA; TSE Research; Vasudha (2024); BCG Analysis
+Note: Sectoral global split follows the IEA and BCG data center model. TWh = terawatt -hours.
+Notes: ^Data is for the EPS BAU and IEA STEPS scenario.5
+=== page 6 ===
+© SUZLON , GOOD ENERGIES THAT WORK
+Industry upcycle with structural 
+tailwinds
+Key demand drivers
+3 8Structural power demand driven 
+through urbanisation, data centres, EV 
+adoption, and green hydrogen.Onshore wind potential of 1,164 GW, 
+at 150m HH representing a significant 
+untapped wind resource of ~95% 
+4 9Global wind installations are set to 
+average 194 GW annually over the 
+next five yearsMarket trends show growing role of 
+wind in improving dispatchability of 
+system1 6Energy security now cited 
+as #1 transition driver across US, EU, 
+China, and India policy frameworksExport opportunity amplifies wind 
+momentum, with augmented domestic 
+supply chain
+2 7Global electricity generation has 
+entered a structural super -cycle, with 
+India destined to have fastest growthRepowering potential estimated by 
+NIWE: ~25.4 GW, a significant 
+opportunity 
+10 5Rising C&I Adoption | ~100 GW 
+Capacity Potential by 2030VGF scheme with INR ~7,500 Cr 
+outlay for 1 GW of offshore wind
+Sources: GWEC Global Wind Report 2024 |ICRA Indian Renewable Energy Sector –June 2025 | 
+National Institute of Wind Energy (NIWE),
+6
+=== page 7 ===
+© SUZLON , GOOD ENERGIES THAT WORK290252 229 225 2526064
+25 14255776
+624559131121
+142164100103330
+307
+220293249
+63
+019
+NREL Base case IEA  India Vision Case LBNL Least cost Teri scenario CEA Base caseCoal Gas Nuclear Hydro Wind Solar Storage OthersWind already on track to become 100GW+ by 2030
+Source: LBNL ; NREL ; IEA; CEA –Apr 2023 ; Teri ; MEC+ analysis
+All scenarios require 100 –164 GW wind → 100 GW is the minimum target
+Sources: LBNL; NREL; IEA; CEA –Apr 2023; Teri; MEC+ analysis
+=== page 8 ===
+Suzlon Strengths
+8
+=== page 9 ===
+© SUZLON , GOOD ENERGIES THAT WORKSuzlon Strengths: Suzlon Strengths: Proven 
+Indian Wind Leadership
+Competitive edge 
+Strong In -House R&D 
+Capabilities Across 
+Germany, Denmark, the 
+Netherlands & IndiaIndustry’s largest 
+customer base with 
+enduring relationship sPan-India presence with 
+sizeable fleet across all 
+windy statesBest-in-Class Multi -Brand 
+Renewable Energy 
+Service CapabilitiesIndia’s Wind Energy 
+Pioneer with 30+ 
+years of existenceDev-Co: Maintains a 
+portfolio of shovel -
+ready projects
+No. 1 OEM in the Indian wind sector
+28% 
+Cumulative market 
+share in India22+ GW
+Global installed Wind 
+energy capacity8,600+ 
+Experienced workforce 
+Across the Value Chain6+ GW
+Order book from Marquee 
+customers
+9
+=== page 10 ===
+© SUZLON , GOOD ENERGIES THAT WORKTurbine Portfolio: Proven Technology for Future -
+Ready Growth
+Our new Low -wind sites 
+flagshipOur new Mid –High 
+Wind sites flagshipThe current go -to 
+turbine for IndiaWe repower smaller 
+turbines to this version
+First Turbine installation 
+in H1 20275.X First Turbine installed 
+in May 2026Our established 
+products
+in 2-3 MW class
+Hub HeightMW Rating
+S120120 m
+2.10 MW
+105-140 m
+144 m
+S144
+3.15 –3.30 MW
+105-160 m
+S175
+5.x MW
+120-160 m
+163 m
+S163
+6.x MW
+119-149 m Our next generation 
+product 
+in 5-6 MW  class175 m
+Blue Sky Platform
+10
+=== page 11 ===
+© SUZLON , GOOD ENERGIES THAT WORKWorld Class Technology -Made in India
+High performance 
+rotor blades
+High lift profile blade 
+with flat back carbon 
+girder & advanced 
+aerodynamics.
+Optimal for India’s 
+dust-heavy conditionsLocal sourcing 
+and a robust 
+supply chain
+>80% local sourcing 
+from Indian Tier -1 
+suppliers for our S120 
+and S144 turbines.
+Making us less 
+dependent on global 
+supply chain disruptions.Engineered to 
+minimize CO₂ 
+emissions
+The S144’s 140 m lattice 
+towers use 100 tons less 
+steel than a competitor’s 
+tubular tower. 
+2.5 less emissions due to 
+use of  scrap -based, low -
+carbon steel. 
+Designed for a 25 -year 
+extended service life. 
+Designed to cover 80% of the Indian market -from remote locations to well -accessible wind parksEngineered for 
+grid compliance
+Extensive expertise in grid 
+compliance and grid 
+integration. 
+Advanced testing against 
+site-specific grid 
+requirements, including 
+voltage, frequency, and fault 
+scenarios .
+Trusted by 
+Indian and 
+international 
+grid authorities.
+Rotor design is based 
+on high -efficiency drive 
+trains.High efficiency 
+balanced with 
+competitive costs
+Developed in 
+Europe –Detailed, 
+and manufactured 
+in India
+We have R&D 
+centers in Denmark, 
+Netherlands 
+and Germany.
+We optimize 
+and manufacture 
+in India.
+11
+=== page 12 ===
+© SUZLON , GOOD ENERGIES THAT WORKKey clientele among marquee customers globally
+12
+=== page 13 ===
+© SUZLON , GOOD ENERGIES THAT WORKFootprint across India: Augmented manufacturing 
+capabilities
+Domestic manufacturing capacity 4,500 MW
+Three new smart blade factories being constructed —further 
+expanding manufacturing footprint
+Nacelle andHub
+Mould
+Blade
+Foundry
+Tubular Tower
+Forging
+Control Panel
+Transformer
+Scalable manufacturing to cater future market growthRajasthan
+Madhya Pradesh
+MaharashtraGujarat
+Andhra Pradesh
+Tamil Nadu
+Blade
+Tower
+SE Forge
+ElectricNacelle & Hub
+Notes: Nacelle plants in Daman and Puducherry | Map not to scaleOther Indian statesIndia’s windy states
+13
+=== page 14 ===
+© SUZLON , GOOD ENERGIES THAT WORK16+GW
+Installed base10,000+
+Turbines
+1,900+
+CustomersUSD 10+ Bn
+Assets under management
+3,600+
+Team110+
+SitesOverview: RE AMS (India) Capabilities
+Other Indian statesIndia’s windy states
+Rajasthan
+Madhya Pradesh
+MaharashtraGujarat
+Andhra Pradesh
+Tamil NaduKarnatakaTelangana2.5 GW
+4.5 GW
+2.2 GW
+1.6 GW
+Kerala 0.03 GW0.6 GW
+0.1 GW
+1.8 GW
+2.8 GWKey Metrics
+Presence in all windy states in IndiaStrengths
+Yearly O&M fee 
+escalation of 
+4-5%
+India’s No 1 
+Wind Service 
+CompanyStable annuity 
+cash flow 
+business model
+Impressive 
+contract 
+retention rate 
+Notes: Map not to scale
+14
+=== page 15 ===
+© SUZLON , GOOD ENERGIES THAT WORKRenom: Multi -brand O&M Platform with Growing AUM
+Capability to manage multiple technologies under a single platform
+3,585 MW
+Asset Under Management2,319 MW
+Wind147 MW
+Solar1,119 MW
+BOP
+15
+Different OEM Make37
+Models being serviced900+
+Workforce200+
+Satisfied Customers
+Diverse MBOMS Fleet Proven track record
+Resources & 
+TechnologyLean & AgileFocused 
+Multi-brand2.53.03.53.6
+Mar'24 Mar'25 Mar'26 Jun'26
+15
+=== page 16 ===
+© SUZLON , GOOD ENERGIES THAT WORKStrong order book momentum continues….
+WTG model mix 
+S144, 
+88%S175, 
+2%S120, 10%
+Captive/ 
+C&I/Retail , 
+70%Central & 
+State 
+Auctions , 
+16%PSU, 
+14%
+Scope mix
+Non-EPC, 
+68%EPC, 
+32%KA, 
+29%
+GJ, 22%
+MP, 6%TN, 7%MH, 10%RJ, 7%AP, 20%Project segment mix
+State mix5,0255,6975,9336,135
+Mar'25 Mar'26 Jun'26 Jul'26^
+Notes: ^ Includes Orders received post Jun’26, Waaree Group : 201.6 MW
+Mix based on 6,135 MW | EPC scope may differ from contract to contract 
+16
+=== page 17 ===
+© SUZLON , GOOD ENERGIES THAT WORKAwards & Recognition
+Suzlon ranked among 
+the top five gainers in 
+ET500 2025, rising 81 
+positions on the back 
+of strong execution 
+and growthRecognised at Davos, 
+Suzlon India’s only 
+entrant in Corporate 
+Knights Global 100 
+2026, underscoring 
+sustainability -led 
+operations, supply 
+chains, manufacturing 
+excellenceRecognised among 
+India's Best Workplaces 
+in Renewable Energy 
+2026 by GPTW®, 
+reaffirming Suzlon's 
+strong people culture 
+and employer brandVice Chairman Girish 
+Tanti named Wind 
+Energy Leader of the 
+Year for transforming 
+India’s wind sector 
+and driving energy 
+growthSuzlon Energy Australia 
+(SEA) wins Best Wind 
+Energy Solutions 
+Provider 2026 in 
+Australia, recognizing 
+contributions to nation’s 
+clean energy transition
+17
+=== page 18 ===
+© SUZLON , GOOD ENERGIES THAT WORKESG Landscape: Making meaningful impact & earning 
+recognition
+Ratings
+Sustainability Yearbook, 
+2025 (Top 15% in 
+Sustainability 
+Performance globally)Rating upgraded to “Low 
+Risk” (Score: 19.49); in 
+Top 6th Percentile of the 
+Electrical Equipment 
+IndustryUpgraded from 79 to 88
+–reaffirmed as “High”Awarded Prime Status –
+surpassed industry 
+threshold with top decile 
+rank (1)Inclusion of Suzlon under 
+Emerging ESG Index & 
+FTSE Emerging ESG Low 
+Carbon Select IndexESG Rating upgraded to 
+72 (Excellent) under ESG 
+Risk AI
+Awards
+10th amongst top 100 
+Global organizations in 
+Sustainability (only 
+Indian Company)Global Award (Gold 
+Category) Climate 
+Change MitigationET Pioneers of Energy 
+Transformation (2026)Member of United 
+Nations Global CompactIndian Green Steel 
+Coalition (IGSC)Climate Group’s EV100 
+and 24/7 Carbon -Free 
+Implementation PanelMembership
+Suzlon rated higher than Industry average in all ESG pillars by S&P Global
+18
+=== page 19 ===
+Financial 
+Performance
+19
+=== page 20 ===
+© SUZLON , GOOD ENERGIES THAT WORK~1 GW orders announced YTD 
+FY27; robust pipeline provides 
+strong growth visibility
+Unveiled Suzlon 2.0 strategy with 
+fourbusinesses –RE Tech, RE 
+DevCo, RE Projects and RE AMS 
+Robust performance despite global headwindsHighest -ever Q1 deliveries of 506
+MW(14% up YoY) ; Commissioned 
+269 MW during the quarter (2.3x 
+YoY)Consolidated Revenue of ₹3,819 Cr 
+in Q1 FY27 a 23% year -on-year 
+growthCumulative orderbook of 6.1+ GW 
+with 84% orders from PSU and C&I 
+sectors 
+EPC share increased from 22% 
+(Q1FY26) to 32% in line with 
+market strategyStrong Cash balance and working 
+capital lines (non -fund) available to 
+support growth
+20Key Highlights
+
+=== page 21 ===
+© SUZLON , GOOD ENERGIES THAT WORK
+370599 595
+Q1 FY25 Q1 FY26 Q1 FY27Q1 FY27 Stellar growth continues
+Deliveries (MW) Revenue (₹ Cr.)
+EBITDA (₹ Cr.) PAT (₹ Cr.)
+302324
+305
+Q1 FY25 Q1 FY26 Q1 FY27274444506
+Q1 FY25 Q1 FY26 Q1 FY272,0163,1173,819
+Q1 FY25 Q1 FY26 Q1 FY27
+21Note: Based on Consolidated Financials |  DTA charge recognized in Q1 FY26 and Q1 FY27
+=== page 22 ===
+© SUZLON , GOOD ENERGIES THAT WORK
+3.34.26.1
+1.61.3
+FY24 FY25 FY26 Q1 FY26 Q1 FY27RE Solutions: Robust growth with operating leverage
+Wind capacity additions in India (GW) Deliveries & Installations by Suzlon (MW)
+7101,5502,456
+444 506882
+336744
+117269
+FY24 FY25 FY26 Q1 FY26 Q1 FY27Deliveries Installation
+Strong Q1 India deliveries despite global disruptions
+4,2158,48114,040
+2,4953,174
+1969652053
+374 335
+FY24 FY25 FY26 Q1 FY26 Q1 FY27Revenue EBITDADriven by strong commercial 
+fundamentals, robust C&I demand 
+and FDRE tendersWind tariffs at an attractive level for 
+all stakeholders e.g.customers, 
+vendors, OEMs, Financial Institutions
+Fortified balance sheet with adequate 
+working capital Limits to cater to 
+large order bookWTG Contribution margin stands at 
+23.4% for Q1FY27 on account of 
+scope mixRevenue & EBITDA (₹ Cr.)
+Sources: MNRE Website
+Notes: The revenue numbers are from statutory segment reporting | 1,257 MW turbines erected; commissioning pending 22
+=== page 23 ===
+© SUZLON , GOOD ENERGIES THAT WORK
+721 771839
+188 22840.1%40.0%40.5%
+39.2%43.3%
+FY24 FY25 FY26 Q1 FY26 Q1 FY271,7981,9282,073
+478 526
+FY24 FY25 FY26 Q1 FY26 Q1 FY2714.715.115.716.1
+FY24 FY25 FY26 Q1 27REAMS (India ): Consistent and profitable growth 
+continues
+Installed Capacity Base (GW) Revenue (₹ Cr.)
+Key Strengths
+Over 3 decades of best -in-class 
+practicesDiversified supplier network
+High margins and stable cashflows Highly experienced management teamEBITDA (₹ Cr.)
+Notes: The revenue numbers are from statutory segment reportingStrong customer base  across all 
+segmentsLegacy positioning and sizeable 
+presence in all windy states
+23
+=== page 24 ===
+© SUZLON , GOOD ENERGIES THAT WORK
+25%21%33% 32%
+FY24 FY25 FY26 Q1 FY27307 249 232 
+55 37 175 241 365 
+91 89 36% 49%61%
+62%71%
+FY24 FY25 FY26 Q1 FY26 Q1 FY27483 489 597 
+146 126 
+76 74 119 
+28 22 
+FY24 FY25 FY26 Q1 FY26 Q1 FY27Foundry &Forging : Capacity unlocking plans 
+underway
+Operating Revenue & EBITDA trend (₹ Cr.) Revenue mix (₹ Cr.)
+Consistently delivering robust performance 
+Independently operating business 
+with diversified customer baseLower level of capacity utilization 
+provides headroom for growth
+Annual manufacturing capacity of 
+120,000 MTAvailability of skilled manpower & 
+working capitalCapacity Utilization (%) 
+Notes: The revenue numbers are from statutory segment reportingFavorable wind energy market 
+conditionsRobust & lean manufacturing systems
+24Suzlon
+Others
+Suzlon Share (%)
+=== page 25 ===
+© SUZLON , GOOD ENERGIES THAT WORKParticularsQ1 FY27
+UnauditedQ1 FY26
+UnauditedQ4 FY26
+UnauditedFY26
+AuditedFY25
+Audited
+NetDeliveries (MW) 506 444 830 2,456 1,550
+NetRevenue 3,819 3,117 5,468 16,679 10,851
+Contribution 1,225 1,094 1,623 5,378 3,656
+Contribution Margin 32.1% 35.1% 29.7% 32.2% 33.7%
+Employee Expenses 268 254 263 1,100 942
+Other Expenses (net) 362 241 396 1,255 857
+EBITDA 595 599 964 3,022 1,857
+EBITDA Margin 15.6% 19.2% 17.6% 18.1% 17.1%
+Depreciation 106 70 93 318 259
+NetFinance Cost 100 70 108 352 151
+Exceptional (Gain)/Loss - - (70) (70) -
+Profit before Tax 390 459 833 2,422 1,447
+Taxes Charge /(Credit )* 84 135 (281) (742) (625)
+Net Profit 305 324 1,114 3,163 2,072Consolidated Income Statement
+(₹Cr.)
+25Notes: *Primarily on account of Deferred Tax Asset recognition/charge, which is non -cash in nature
+=== page 26 ===
+© SUZLON , GOOD ENERGIES THAT WORKConsolidated Balance Sheet
+(₹Cr.)
+Equity & LiabilitiesJun-26 
+UnauditedMar-26
+AuditedMar-25 
+Audited
+Equity & Liabilities
+Net Worth 9,869 9,464 6,106
+Borrowings (non -current and current) 277 264 283
+Non-current Liabilities 1,107 1,115 810
+Current Liabilities 7,635 8,026 5,761
+Total equity and liabilities 18,888 18,869 12,960
+Assets
+Non-current Assets 3,855 3,965 2,637
+Inventories 5,172 4,512 3,234
+Trade Receivables^ 5,890 6,487 3,866
+Other current assets 1,372 1,257 996
+Cash and cash equivalents* 2,599 2,648 2,227
+Total assets 18,888 18,869 12,960
+Net Cash 2,322 2,384 1,943
+26Notes: *including Non -Current Bank balances & mutual fund investments| ^Includes both current and non -current trade receivables | Net W orth 
+represents Total Equity
+=== page 27 ===
+© SUZLON , GOOD ENERGIES THAT WORKGlossary
+AEP
+Annual Energy Production
+AMS
+Asset Management Services
+BESS
+Battery Energy Storage System
+C&I
+Commercial and Industrial
+CEA 
+Central Electricity AuthorityCOD 
+Commercial 
+Operations Date
+CUF
+Capacity Utilization Factor
+EBITDA 
+Earnings before Interest, Tax, 
+Depreciation and Amortizations
+ESG
+Environmental, Social, 
+and Governance
+GoI
+Government of IndiaGH2
+Green Hydrogen
+GW
+Gigawatt
+GWEC
+Global Wind Energy Council
+HH
+Hub Height
+IRIM
+International Research Institute 
+for ManufacturingISTS
+Inter-State Transmission 
+System
+IWTMA
+Indian Wind Turbine 
+Manufacturers Association
+27
+=== page 28 ===
+© SUZLON , GOOD ENERGIES THAT WORKGlossary
+KPI
+Key Performance Indicators
+LCoE 
+Levelized Cost of Energy
+MNRE
+Ministry of New And 
+Renewable Energy
+MT
+Metric Ton
+MW 
+MegawattNIWE 
+National Institute of 
+Wind Energy
+OEM
+Original Equipment 
+Manufacturer
+OMS 
+Operations and 
+Maintenance Services
+PLF
+Plant Load Factor
+PSA
+Power Sale AgreementRE
+Renewable Energy
+RGO
+Renewable Generation 
+Obligation
+RPO
+Renewable Purchase Obligation
+RTC
+Round The Clock
+SCoD
+Scheduled Commissioning DateWTG
+Wind Turbine Generator
+Y-o-Y
+Year on Year
+28
+=== page 29 ===
+© SUZLON , GOOD ENERGIES THAT WORKReferences
+https://www.seci.co.in/
+https://cea.nic.in/
+https://www.mercomindia.com/
+https://powermin.gov.in/
+https://niwe.res.in/https://mnre.gov.in/
+https://gwec.net/globalwindreport2023/
+http://www.cercind.gov.in/
+https://gwec.net/india -wind-energy -market -outlook -2023-2027-report/
+https://www.crisil.com/en/home/sectors -we-cover/energy.html
+29
+=== page 30 ===
+Thank you
+© SUZLON
+Email contact for queries
+investorrelations@suzlon.com

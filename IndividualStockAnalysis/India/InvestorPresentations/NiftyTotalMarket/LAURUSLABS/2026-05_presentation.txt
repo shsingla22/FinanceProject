@@ -1,0 +1,751 @@
+
+=== page 1 ===
+ 
+                                                                                                  April  30, 2026  
+To 
+ 
+The Corporate Relations Department  
+BSE Limited   
+Phiroze Jeejeebhoy  Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+ 
+Code: 540222    To 
+ 
+The Listing Department  
+National Stock Exchange of India Ltd.,  
+Exchange Plaza,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+ 
+Code: LAURUSLABS  
+ 
+Dear Sir / Madam,  
+ 
+Sub: Investors / Analysts Presentation  
+ 
+Please find enclosed the presentation to the Investors / Analysts on the Standalone and Consolidated 
+Financial Results of the Company for the quarter and year ended March 31, 202 6, for the Investors / 
+Analysts call scheduled on April 30, 202 6 at 05.00 p.m. (IST), which was already intimated on April 09, 
+2026. 
+ 
+The presentation is also being uploaded on the website of the Company i.e., www.lauruslabs.com.  
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours sincerely,  
+For Laurus Lab s Limited  
+ 
+ 
+G. Venkateswar Reddy  
+Company Secretary & Compliance Officer  
+ 
+Encl: A/a  
+=== page 2 ===
+© 2026  Laurus Labs Ltd.   FY 2026
+Financial 
+Results
+30/04/202620 Years
+logo
+
+=== page 3 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationThis presentation contains statements that constitute “forward looking statements” including and without limitation, statemen ts relating to the implementation of 
+strategic initiatives, and other statements relating to our future business developments and economic performance. While thes e forward looking statements represent 
+our judgment and future expectations concerning the development of our business, such statements reflect various assumptions con cerning future developments and a 
+number of risks, uncertainties and other important factors  that could cause actual developments and results to differ materi ally from our expectations. 
+These factors include, but not limited to: 1) Change in the General market and macro -economic conditions for key global markets where we operate, 2) Governmental and 
+regulatory trends, 3) Allocations of funds by the Governments in our key global markets, 4) Successful implementation of our strategy, R&D efforts, growth & expansion 
+plans and technological changes, 5) Movements in currency exchange and interest rates, 6) Increase in the competitive pressur es and Technological developments, 7) 
+Changes in the financial conditions of third parties dealing with us, 8) Changes in laws and regulations that apply to our cu stomers, suppliers and Pharmaceutical industry. 
+Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual resu lts, performance or achievements of Laurus 
+Labs Limited may vary materially from those described in the relevant forward -looking statements
+The information contained in this presentation is current, and if not stated otherwise, made as of the date of this presentat ion. The Company undertakes no obligation to 
+update or revise any information in this presentation as a result of new information, future events or otherwise.
+This presentation is strictly confidential and may not be copied or disseminated, reproduced, re -circulated, re -distributed, pub lished or advertised in any media, website or 
+otherwise, in whole or in part, and in any manner or for any purpose without written approval from Laurus Labs Limited. Any u nau thorized use, disclosure or public 
+dissemination of information contained herein is prohibited. 
+This presentation is for information purpose only and is not a prospectus, a statement in lieu of a prospectus, an offering c ircular, an advertisement or an offer document 
+under the Companies Act, 2013, as amended, or the rules made thereunder, the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) 
+Regulations, 2018, as amended, or any other applicable law in India.
+By accessing this presentation, you accept that this disclaimer and any claims arising out of the use of the information from this presentation shall be governed by the 
+laws of India and only the courts in Telangana, India, and no other courts, shall have jurisdiction over the same.Safe Harbor Statement 
+2
+=== page 4 ===
+1
+Corporate 
+Overview 
+FY 2026 
+3
+
+=== page 5 ===
+© 2026  Laurus Labs Ltd.   FY26  Results Presentation 30/04/2026Case study for Scale and Execution Laurus @20 years of Transformation & Value creation 
+4Biggest Wealth creator in Indian Healthcare space^Unique story of High quality growth
+From Single API product supplier to Global Pharma companyAmongst few companies in 
+India which has earned 
+>25% Revenue CAGR and 
+>30%  Profits CAGR  [₹ Crore]
+Laurus Labs: 11.6x
+BSE 500 index: 3.3x
+Pharma index India: BSE Health: 3.0x 
+/ Nifty Pharma: 2.1x
+MSCI India SmallCap: 3.0xTotal Market cap >30% 
+CAGR since 2016 till now
+Total dividend payout of  
+₹631 crore till now
+# Profit year, ^ since Laurus IPO (Dec 2016) and ₹1000 Cr + Revenues category, based on Price as on 24 April 2026  Core Mindset …
+ Large
+capacity
+Scientific 
+rigor
+Invest 
+ahead
+Care
+Employees
+One 
+quality 2016 2026
+Capacity
+#Clients served
+# Shareholder base # Sites 2,227 8,126
+1830kL >8200kL/ 12bn units
+>190 (+1 Big pharma) >275 (+7 Big pharma)
+3 15
+56,724^3,00,789#
+32x
+74x
+ - 2,000 4,000 6,000 8,000
+FY10 FY26
+Revenues Profits
+=== page 6 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationFY 2026 –Accelerated performance backed by Leading commercial offering 
+5Full Year 2026 in numbers 
+₹6,813 Cr
+Revenues 
++23%4Q 2026 
+60.4 %
+Gross margin
++5%
+₹1,826 Cr
+EBITDA margin 
+26.8% (+6.7%)
+₹1,070 Cr
+CAPEX              
+16% of Sales
+8,200 KL
+Reactor 
+volume
+1.3 X
+Net debt / EBITDA
+-1.0x
+₹1,812 Cr
+Revenues 
++5%
+₹523 Cr
+EBITDA margin 
+28.9% (+1.6%)
+3,134
+R&D & Quality 
++19%8,126
+Employees
++15%
+=== page 7 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationStrong Execution and Strengthening Future growth 
+6Commercial 
+momentum
+•Build end to end 
+capability to synthesize 
+peptides from Lab scale  
+to commercial scale 
+•Several projects across 
+scale executed using 
+Flow chemistry, Bio -
+catalysis technologies
+•Gene Therapy/ADC 
+investments; PD labs 
+operational and building 
+cGMP facilityTechnological 
+advancementStrong
+FinancialsUpholding 
+ESG 
+•Strong growth in 
+Revenues and Profits
+•Expanded profitability; at  
+Gross and EBITDA levels
+•Strategically deployed 
+Free cash to high 
+yielding  business
+•Sharp improvement in 
+net debt leverage and 
+Healthy balance sheet•Late -stage/Commercial 
+supplies of multiple 
+complex NCE APIs
+•Expanding multi -site 
+manufacturing capacity
+•₹3000 Cr Capex for 
+ongoing  growth projects  
+•532 acres land allotment; 
+>$600mn Capex 
+commitment
+•Successful regulatory 
+audits•Included in S&P 
+Sustainability Yearbook  
+2025 -consecutive
+•Investment in Green 
+energy projects
+•Highest Cybersecurity 
+performance score 
+938/950 by UpGuard
+#1 industry rank •Continued capacity 
+leadership 
+•Successful OTIF track 
+record
+•TLD demand 
+rebalancing  
+•Focus entirely on 
+maintenance capexARV 
+leadership
+
+=== page 8 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation
+0%10%20%30%40%50%60%70%80%90%100%Business Division: Strong diversified growth, underpin by integrated model
+7Transformation continues with consistent rise in CDMO 
+revenue share and continued decline in ARV share
+FY26 
+Revenue mix
+FY 26 
+Growth  
+CAGR % 
+FY 20 -26 Strong diversified performance
++33%
++12%
+1includes Small Molecules & Bio business performance, 2includes FDF and API business performance, * Oncology, Cardiovascular, Diabetes, Gastro and AsthmaFY19 FY2620%
+67%Non -ARV share* 
+ARV share 28%
+41%13%
+31%CDMO share 
+CDMO
+Affordable 
+medicines 
+(GENERICS)21ARV de -risking continues 
+Divisions 
++36%
++18%31%
+69%
+=== page 9 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationStrengthening Large -scale manufacturing network & capabilities to support customers
+Unit 1 & 3 , Vizag 3600 kL
+Unit 5, Vizag 161 kL
+Unit 7, Vizag (new site)
+Unit 2, Vizag +12bn units
+Unit 4, Vizag +2000 kLUnit 6, Vizag 1476 kL
+Unit 10, Vizag (new site)
+LSPL 2, Vizag  +350 kL
+LSPL 4, Vizag +300 kL
+KRKA JV site, Hyderabad
+Site under expansion or constructionFermentation
+8R&D & Kilo lab, Hyderabad
+New R&D, HyderabadSmall Molecules API & FDF 
+LB-1 & LB -2, Bangalore 
++240 kL
+LB-4, Vizag +400 kL^(new site)CAR -T unit -1, Mumbai 1
++600 treatment 
+CAR -T unit -2, Mumbai1
++2500 treatment 
+Gene therapy/ADC, 
+Hyderabad
+8200 kL
+API capacity12 billion
+FDF capacity 240 kL
+Fermentation capacity 1540
+Research Scientists R & D Fermentation CGT & ADC
+56000 m2
+GLP lab facility  High potent Bio-catalysis Flow technologyEnabling Technology Platforms
+Trickle bed hydrogenation Continuous manufacturing Spray Drying 
+6 Research Development asset 15 Manufacturing assets  
+1Through our Associate company ImmunoACT ,  ^ Capacity proposed in Phase 1
+=== page 10 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation
+ATR 
+progress
+(FY22 -26)
+Medium term5-Yr average 
+>1.0x
+0.9x
+FY22 FY25 FY26>85% Growth CAPEX in diversified portfolio
+11 On-going growth projects                                                           
+(7 API + 2 FDF + 1 Fermentation + 1 Gene 
+Therapy/ADC)
+90% Invested into Medium & large scale 
+manufacturing assets
+16% Capex/Sales in FY26 in -line
+>1.0x Asset turns projected in medium -term in 
+line with 5 year Long term averageBy 
+Portfolio 
+mix Phase -
+wise
+1Cumulative Net addition including CWIP, Land, ETP and plant maintenance till March 2026
+New 532 acre Vizag site to significantly enhance our global commercial scale, technology and growth; Capex beginning 
+towards end -FY27, part of an 8 -year, >$600 mn investment plan CAPEX ₹4300 
+Cr1FY22 -26, 
+15% of Sales
+79%21%
+API/CDMO Drug Product
+27%
+53%20%
+Ramp-up Operational On-going CAPEXGrowth CAPEX progress across portfolio 
+=== page 11 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationExemplary Quality track record -Commitment to “One Quality for all Markets”
+Key 
+FacilitiesKey Regulatory 
+CertificationsDate #audits (since 
+inception)EIR Status
+Kilo Lab –
+R&DUSFDA, TGA, KFDA, 
+PMDA, ANVISA -Brazil2024 5 
+Unit 1USFDA, TGA, MHRA , 
+WHO -Geneva, PMDA, 
+ANVISA2024 7 
+Unit 2USFDA, WHO -Geneva, 
+EMA2023 5 
+Unit 3USFDA, WHO -Geneva, 
+JAZMP -Slovenia, ANVISA2024 5 
+Unit 4 WHO -Geneva , USFDA 2025 2 
+Unit 5 USFDA                   2022 1 
+Unit 6 USFDA 2018 1 Last US FDA inspection 
+10Quality audits & Inspection by  Global Customers, 
+Regulators since inception 1400+Quality audit  completed in FY26: Regulatory # 4 & 
+Customer # 128 132
+Successful Inspections by major Regulators 
+(US FDA, WHO, EU EMA, and Japan PMDA) 54
+
+=== page 12 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationAdvancing ESG agenda, consistently recognized by Global agencies
+11Consecutive “BBB”  
+ratings in 2022 -26
+Near -term emission 
+reduction targets under 
+validation -2025
+Improved Score by 
++10pp over last year
+Named in S&P Global 
+Sustainability Yearbook 
+consecutively in 2025
+S&P Global ESG Score
+81 /100
+GPW certified for 
+Sixth consecutive 
+Year
+Multiple EHS 
+best practice 
+awards received 
+Joined  the United 
+Nations Global Compact 
+(UNGC) in Jan 2026
+Significant updates 
+•Advanced foam tender 
+installed across manufacturing 
+sites 
+•Focus on decarbonizing 
+products
+•Investment in Green energy 
+projects (Solar + Wind)
+•Increased use of green 
+technologies and intelligent 
+equipment
+•Targets* to reduce Scope 1+2 
+emission by >40% & Scope 3  
+by >50% by FY31 vs. FY25 
+* submitted to SBTi for validation in Dec 2025Member of PSCI as 
+Supplier Partner
+
+=== page 13 ===
+2
+Financial 
+Overview 
+FY 2026 
+12
+
+=== page 14 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationFY 2026: Strong performance 
+13FY26 Financial Summary Comments
+•Revenues : ₹ 6,813 Cr, increased 23% driven by continued strong growth across 
+both CDMO and Affordable Medicine (Generics) division
+•Gross Margins :  60.4%, increased by 500 bps on better divisional mix   
+•R & D spends reported at ₹ 282 Cr (4.1% of Revenues) 
+•EBITDA  :  ₹ 1,826 Cr, increased by 64%
+•EBITDA Margins : 26.8%, increased 670 bps, due to product mix and overall 
+strong revenues driving positive operating leverage 
+•Net Profits : ₹ 889 Cr, increased 148%
+•Strong OCF due to higher EBITDA and improved Net Working capital   
+•Net Debt to EBITDA reduction largely inline
+•Better operating leverage driving ROCE while CAPEX momentum continued[₹Crore] FY26 FY25 Y-o-Y
+Revenues 6,813 5,554 23%
+Gross Margins 60.4% 55.4% 5.0%
+EBITDA 11,826 1,115 64%
+% to Revenues 26.8% 20.1% 6.7%
+Net Profit 889 358 148%
+% to Revenues 13.0% 6.4% 6.6%
+EPS (₹) 16.4 6.6 148%
+Operating Cash flow 1,624 602 170%
+Capex 1,070 659 62%
+Net Debt -to-EBITDA 1.3x 2.3x -44%
+ROCE 17.7% 9.7% +8.0%
+1EBITDA includes one -time gain of ₹ 59 Cr related to Sale of Land parcel in FY25, translating to ₹ 0.9 positive EPS impact (net of tax)
+=== page 15 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation
+ 14* Includes API and Formulation (FDF) combined revenues ₹ 6,813 Cr[₹Crore] FY26 FY25 Y-o-Y
+CDMO 2,080 1,534 36%
+Small molecules  1,896 1,374 38%
+Bio 184 160 15%
+Affordable Medicines 
+(Generics)4,733 4,020 18%
+API 2,746 2,438 13%
+FDF 1,987 1,582 26%
+Total Revenues 6,813 5,554 23%
+ARV Revenues* 2,807 2,559 10%FY 2026:  Robust CDMO execution, supported by growth in Affordable Medicines
+FY26 Divisional Revenue Performance FY26  Divisional Mix 
+CDMO 31%  
+/ +3% over last yearAffordable 
+Medicines
+69% 
+/ -3% over last year
+28%
+3%
+40%29%
+CDMO - Small molecules Bio API FDF
+=== page 16 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation[₹Crore] FY26 FY25 Y-o-Y
+Net Fixed assets (incl. CWIP) 4,879 4,316 +563
+Goodwill and Intangibles 265 266 -1
+Net Working Capital (A+B -C) 3,245 2,985 +260 
+A. Inventories 2,342 1,937
+B. Receivables 2,155 2,007
+C. Payables 1,252 959
+Other assets & liabilities * -805 -501 -304
+Cash and Cash Equivalents 113 100 +13
+Equity 5,300 4,473 +827
+Debt (current + non -current) 2,397 2,693 -296
+Total Net Assets 7,697 7,166 +531FY 2026:  Financial Position 
+15FY26 Balance sheet
+* Includes Current and non -current assets/liabilities (Provisions, Lease liabilities, Advance from customers, Deferred income ta x, accrued corporate tax, etc)Increase in net fixed assets
+Increase mainly in property, plant and equipment due to  
+•Investments in ADC/Gene Therapy PD lab & cGMP manufacturing facility in 
+Hyderabad site 
+•Drug Product line expansion, Commercial peptide capacity, Intermediate/API 
+mfg. blocks (Human & Animal health)  at Vizag site
+Increase in net working capital
+•Increase mainly due to a increase in inventories and accounts receivables
+Increase in Other assets & liabilities 
+•Increase mainly in customer advances
+Decrease in Net Debt 
+•Decrease mainly due to improved operational efficiency and cashflows. Long 
+term debt remained stable
+=== page 17 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation[₹Crore] 3Q FY26  4Q FY26  4Q FY25 Y-o-Y Q-o-Q
+Revenues 1,778 1,812 1,720 5% 2%
+Gross Margins 60.9% 61.4% 54.5% +6.9% +0.5%
+EBITDA 1485 523 477 10% 8%
+% to Revenues 27.3% 28.9% 27.7% +1.2% +1.6%
+Net Profit 252 279 234 +19% +11%
+% to Revenues 14.2% 15.4% 13.6% +1.8% +1.2%
+EPS (₹) 4.7 5.2 4.3 +21% +13%4Q FY26: Achieved highest Revenue and Operating profits 
+164Q FY26 Financial Summary Comments
+•Revenues : ₹ 1,812 Cr, increased 5% primarily driven by robust CDMO growth 
+supported by steady Affordable medicine business  (led by APIs) 
+•Gross Margins :  61.4%, increased by 690 bps on better divisional mix   
+•R & D spends reported at ₹ 76 Cr (4.2% of Revenues) 
+•EBITDA  :  ₹ 523 Cr, increased by 10% Y/Y
+•EBITDA Margins : 28.9%, increased 120 bps Y/Y, due to favorable product mix 
+and improving operational leverage  
+•Net Profits : ₹  279 Cr, increased 19% Y/Y
+•Interim Dividend of ₹ 1.20/ -per share
+1EBITDA includes one -time gain of ₹ 59 Cr related to Sale of Land parcel in 4QFY25, translating to ₹  0.9 positive EPS impact ( net of tax)
+=== page 18 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation4Q FY26: Driven by healthy CDMO performance
+17* Includes API and Formulation (FDF) combined revenues [₹Crore] 3Q FY26  4Q FY26  4Q FY25 Y-o-Y Q-o-Q
+CDMO 451 589 490 20% 31%
+Small molecules  408 524 461 14% 28%
+Bio 43 65 29 124% 51%
+Affordable 
+Medicines (Generics)1,327 1,223 1,230 -1% -8%
+API 720 772 686 13% 7%
+FDF 607 451 544 -17% -26%
+Total Revenues 1,778 1,812 1,720 5% 2%
+ARV Revenues* 744 683 803 -15% -8%4Q FY26 Divisional Revenue Performance 4Q FY26  Divisional Mix 
+₹ 1,812 CrCDMO 33%  
+/ +4% over last yearAffordable 
+Medicines
+67% 
+/ -4% over last year
+29%
+4%
+42%25%
+CDMO - Small molecules Bio API FDF
+=== page 19 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation1,195 1,224 1,415 1,720 
+1,570 1,653 1,778 1,812 
+1Q
+FY252Q
+FY253Q
+FY254Q
+FY251Q
+FY262Q
+FY263Q
+FY264Q
+FY26[₹ Cr]
+171 182285477389 429485 52314.3% 14.9%20.1%27.7%
+24.8% 26.0%27.3%28.9%55.1% 55.2%56.9%54.5%59.4% 59.9% 60.9% 61.4%
+-2.0%8.0%18.0%28.0%38.0%48.0%58.0%
+0100200300400500600700800900
+1Q
+FY252Q
+FY253Q
+FY254Q
+FY251Q
+FY262Q
+FY263Q
+FY264Q
+FY26
+6.0% 5.6% 6.8%9.7%12.7%16.3%18.5% 17.7%
+1Q
+FY252Q
+FY253Q
+FY254Q
+FY251Q
+FY262Q
+FY263Q
+FY264Q
+FY263.3x 3.4x3.1x
+2.3x
+1.8x
+1.3x 1.2x 1.3x
+1Q
+FY252Q
+FY253Q
+FY254Q
+FY251Q
+FY262Q
+FY263Q
+FY264Q
+FY26Net Debt-to-EBITDAEBITDA & Gross Profit Margins 
+Revenues [₹ Cr]
+Net Leverage (Net Debt/ ttm EBIDTA) RoCE (ttm EBIT/Capital Employed)  Quarterly Performance Summary: Sustained growth momentum 
+18GPM
+OPM
+=== page 20 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation255984
+826 790
+161358889
+FY20 FY21 FY22 FY23 FY24 FY25 FY265701,573 1,436 1,594
+7981,1151,826 20.1%32.7%29.1%26.4%
+15.8%20.1%26.8%50.1%55.2% 55.5% 54.1%51.7%55.4%60.4%
+0.0%10.0%20.0%30.0%40.0%50.0%60.0%70.0%
+05001000150020002500300035004000
+FY20 FY21 FY22 FY23 FY24 FY25 FY26[₹ Cr]EBITDA & Gross Profit Margins Revenues 
+[₹ Cr]
+Net Profit RoCEFinancial Highlights FY 2020 -26
+GPM
+1913.5%34.2%
+23.7%21.3%
+6.4%9.7%17.7%
+FY20 FY21 FY22 FY23 FY24 FY25 FY26CAGR: 16% CAGR: 21%
++4 pp CAGR: 23%OPM
+[₹ Cr]2,832 4,814 4,936 6,041 
+5,041 5,554 6,813 
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+=== page 21 ===
+3
+Business Review 
+& Strategy
+FY 2026 
+20
+
+=== page 22 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation• Strong growth benefitted from late stage pipeline and
+commercial NCE API supplies
+• Sustained clinical and commercial contracting across
+technologies and sites driving good growth outlook
+• Advancing on commercial peptides manufacturing
+capability/capacities toenable customer future needs
+• Expanding customer base inAnimal Health and Crop sciences
+• Continued focus onnew modalities with key partners and fully
+integrated projects
+• Crossed 8200 kL of reactor volumes inFY26.Continuing
+CAPEX inlarge -scale API &fermentation capacity atVizag siteCommentsCDMO –Small molecules: Strong demand and operational execution
+Revenue Growth  
+Y-o-Y ▲14% 
+Q-o-Q▲28% 
+21+38%
+13741896
+461 493 471408524
+FY25 FY26 4Q
+FY251Q
+FY262Q
+FY263Q
+FY264Q
+FY26[₹ Cr]
+=== page 23 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation• Small molecules pipeline continue toexpand, based
+ontrust, capabilities, scale and delivery
+• Diversified portfolio by technology, indications and
+customer type
+• Majority ofcommercial revenues from products early
+intheir commercial journeyCDMO –Small molecules: Expanding pipeline and diversified portfolio
+22Expanding Pipeline  & Solid foundation to drive 
+future manufacturing growth 
+2050607090102202023
+20506090110125
+FY16 FY21 FY23 FY24 FY25 FY26
+# Human health # Animal health + Crop Science
+#Active Projects
+=== page 24 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationY-o-Y ▲124% 
+Q-o-Q▲51% Comments
+• Healthy growth through revenue diversification. Continued 
+pipeline progress on larger Global accounts
+• Acceleration in Product development and launch activities 
+• Improving mix of higher value products and customers within 
+CDMO
+• Expanding enzymatic technology application across small 
+molecule clinical and commercial API projects 
+• Large -scale Fermentation manufacturing site (Vizag) build up 
+on trackBio –Healthy demand visibility, robust pipeline building continues 
+Revenue Growth  
+23
+160184
+29 2947 4365
+FY25 FY26 4Q
+FY251Q
+FY262Q
+FY263Q
+FY264Q
+FY26+15%[₹ Cr]
+=== page 25 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation
+15821987
+544 411 518 607 45124382746
+68663761772077240204733
+12301048 11351327 1223
+FY25 FY26 4Q
+FY251Q
+FY262Q
+FY263Q
+FY264Q
+FY26Y-o-Y ▼1% 
+Q-o-Q▼8% [₹ Cr]Affordable Medicines –Strong execution, Demand led capacity creation continues 
+Revenue Growth  
+24Comments 
+• Strong full year, led by both FDF and API. Sustained volume led 
+ARV leadership and maximized US/EU opportunity on select 
+molecules
+• Maintained consistent deliveries despite global supply chain 
+challenges
+• Ongoing capacity creation, new launch ramp -up/integrated 
+CMO and expanding footprint across DM/EM to support FY27
+• Filings update: DMF filings -Cumulatively, 92 filed till date. 
+Developed market FDF filings -7 dossiers filed and 6 approvals 
+received in FY26. Cumulatively, 94 product filed till date
+• Increased FDF capacity by 20% in FY26. Additional packaging 
+line being implemented at Unit 2 with full commercial 
+production line starting from June 2026Global FDF filings US EU Canada ROW
+Approved 37* 19 16 59
+Pending 12 3 7 9
+Total 49 22 23 68API
+FDF
+* Includes 15 Tentative approvals in US+18%
+=== page 26 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation
+1,7633,296
+2,883
+2,2512,506 2,5592,807
+FY20 FY21 FY22 FY23 FY24 FY25 FY26ARV –Leadership and Committed to saving lives globally
+25Industry environment ARV business de -risking continues
+• Overall stable market environment, supported by adequate 
+funding by multi -lateral agencies 
+• Dolutegravir use to remain steady over the next couple of years 
+• Long -acting injectable adoption challenges in adherence and 
+retentionRevenues Share %
+41%[₹ Cr]
+ARV: AntiretroviralPerformance and Outlook
+• Demand driven growth in line with expectation
+• Sustained ARV leadership and return to stabilized margins in 
+FY26. Continue to service 1/3rdof HIV population globally  
+• Maintain focus on optimal capacity, portfolio breadth and 
+operational excellence amidst ongoing supply chain disruption  +10%
+62%
+0%10%20%30%40%50%60%70%80%
+FY20 FY21 FY22 FY23 FY24 FY25 FY26Chart Title
+=== page 27 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results Presentation 26
+Advanced Biologics –Investments in Gene / ADC platform building continues  
+• Process development  lab started in Dec 2025 (technologies at 
+site: Bioconjugation, Plasmids &  AAV gene therapy services)
+• Incorporates industry -leading equipment and technologies
+• Emerging ADC field and evolving market demand  
+• Investments in ADC platform company Aarvik Therapeutics to 
+help advance integrated ADC services 
+Gene Therapy /ADC cGMP facility in Hyderabad 
+•Broke ground for >65000 sq.ft site in Q1 . Focus on 
+comprehensive PD , bioconjugation services and ADCs
+•Gram to Multi -kilogram scale to support Phase 1 -3 clinical and 
+commercial supplies
+•Investment expected > ₹200 Cr 
+•Facility commissioning  and qualification by mid 2027Site under constructionR&D lab already started operations in Dec 2025
+
+=== page 28 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationForward focus
+Accelerate NexCar19 clinical adoption
+Expansion of product portfolio
+Global partnerships & Licensing pathways
+Other material updates 
+• BCMA Ph -1 trails ongoing for r/r Multiple 
+Myeloma 
+• Strengthening leadership team 
+• Continued investment in Product, Process, 
+People for commercial scale -up
+6275
+FY25 FY2622%
+# Patients +300 +600
+• Healthy clinical profile driving 
+strong volume growth 
+• Partnership with Cipla to launch 
+NexCAR -19 in AfricaSales 
+[₹ Cr]
+• Commissioned in March 2026
+• +2,500 annual treatment 
+capacity (3x increase)Cell therapy –Accelerate NexCAR adoption and operating leverage 
+New CAR -T GMP facility, Nerul
+
+=== page 29 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationClick below to Express Join with 
+Diamond Pass
+Click here to register Laurus Labs Results Conference Call to be held on Thursday,  30 April 2026 at 5:00 PM ISTEarnings call details 
+Dial –In –Details 
+Universal Dial -In +91 22 6280 1384
+India Local access Number +91 22 7115 8285
+Singapore +800 1012045
+Hong Kong +800 964448
+USA +1 866 746 2133
+UK +0808 101 1573
+28
+=== page 30 ===
+© 2026  Laurus Labs Ltd.   30/04/2026 FY26  Results PresentationInvestor relations
+Vivek Kumar 
+T: +914066594366 
+E: investorrelations@lauruslabs.com
+E: vivek.k@lauruslabs.com
+For more information 
+Please visit our website  www.lauruslabs.comLaurus Labs isaresearch -driven pharmaceutical and biotechnology company committed toimproving global health .Itholds aleadership position indeveloping and
+manufacturing select Active Pharmaceutical Ingredients (APIs) and Finished Dosage Forms (FDF) across anti -retroviral, oncology, cardiovascular, and gastro
+therapeutics .With strong backward integration and stringent quality standards, Laurus has built asolid reputation for high -quality, innovative solutions .The company
+offers end -to-end Contract Development and Manufacturing Organization (CDMO) services, supporting innovators from early -stage development tocommercial
+production .Laurus employs over 8,126 people, including 3,134 +scientists, and operates 15facilities approved byglobal regulators like the USFDA, WHO, EMA, and more .
+Its“Smart and Green” chemistry approach drives sustainable manufacturing and operational excellence .
+Laurus Labs generated ₹6,813 crore inrevenue inFY2026 and islisted onthe BSE and NSE .The company isacertified Great Place toWork and holds a“BBB” MSCI ESG
+rating, reflecting itscommitment totransparency, integrity, and ESG principles .Itiswidely recognized for upholding environmental stewardship and ethical business
+practices .Expanding beyond small molecules, Laurus isenhancing itscapabilities inbiotechnology, large molecules, cell, and gene therapies .Itsdiversified offerings span
+human and animal health APIs, intermediates, crop science, and specialty ingredients for nutrition and cosmetics .Guided bythe principle “Chemistry for Better Living,”
+Laurus remains dedicated toadvancing science forbetter global health outcomes .Corporate Identification No:L24239 AP2005 PLC 047518 .
+Please consider the environment before printing this PresentationAdditional Information 
+29

@@ -1,0 +1,150 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+    December 01 , 2025 
+  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001  
+BSE Scrip code – 532541  
+Equity ISIN INE591G010 25 
+ 
+  
+The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Symbol  – COFORGE  
+ 
+ 
+Dear Sir/Madam,  
+ 
+Subject: Press Rel ease  
+ 
+Pursuant to applicable provisions of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 
+2015, as amended, please find enclosed copy of the press release of the Company announcing that “Coforge 
+strengthens its AI capabilities with new AI -driven accelerators on the Coforge Quasar AI platform”.  
+ 
+We request you to take the above on record.  
+ 
+ 
+For Coforge Limited  
+  
+  
+  
+Barkha Sharma  
+Company Secretary & Compliance Officer  
+ 
+ 
+Encl .: As above  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+ 
+Coforge strengthens its AI capabilities with new AI -driven accelerators on the Coforge Quasar AI 
+platform  
+ 
+Greater Noida, December 1 , 2025  — Coforge Limited (NSE: COFORGE), a global digital services and 
+solutions provider, today announced the expansion of the Coforge Quasar AI platform  with a new suite of AI -
+driven accelerators designed to boost enterprise productivity, drive responsible innovation, and scale AI 
+adoption across industries.  
+ 
+Over the last two years, since  its launch Coforge Quasar AI platform has witnessed  300+ paid AI deployments, 
+delivered 200+ industry -specific solutions, and established 20+ strategic partnerships, enabling rapid business 
+outcomes for enterprises worldwide. Building on this success that already provides  thousands of users secure, 
+governed access to AI models and deployable agents, Coforge has launched  new accelerators to deepening 
+workflow integration, strengthening responsible AI governance, and unlocking greater scale and adaptability.  
+ 
+The new accelerators available on the Coforge Quasar AI platform include:  
+ 
+• AgentSphere: An advanced marketplace that lets organizations discover, deploy, and orchestrate AI 
+agents for diverse business needs. Designed for rapid workflow automation, and integrates intelligent 
+agents into core processes, boosting efficiency, adaptability, and scalability across functions and 
+industries.  
+• Trust AI: Governance protocols, privacy frameworks, and compliance controls to ensure ethical, 
+transparent, and scalable AI adoption.  
+• LLM Router: An intelligent orchestration engine that dynamically selects the most effective large 
+language model for each task, ensuring efficiency, cost optimization, and compliance.  
+• Model Garden: A centralized environment giving developers and client teams access to a diverse 
+portfolio of generative AI models, supporting experimentation, prototyping, and faster integration.  
+• RAG as a Service: Managed Retrieval -Augmented Generation that grounds AI responses in proprietary 
+enterprise knowledge bases, ensuring context -rich, accurate, and citation -driven outputs.  
+ 
+The accelerators complement  Quasar GenAI Central and Quasar Marketplace  that are enterprise -grade, secure 
+GenAI playground  and all-in-one destination for AI capabilities  respectively.  
+ 
+Coforge’s unified approach to enterprise AI ensures seamless integration, scalability, and governance —helping 
+clients to production at speed. With the new accelerators, enterprises  accelerate research, automate operations, 
+and create smarter workflows, while upholding the highest standards of responsible AI adoption and paving the 
+way for the next wave of enterprise AI innovation.  Vic Gupta, C hief Technology Officer,  Coforge, added , 
+"At Coforge, we are at the forefront of collaborating with our strategic partners, developer ecosystems, and 
+domain specialists to turn cutting -edge AI trends into business reality. We  
+see the accelerated move from decision support to AI -powered decision execution, and our approach integrates 
+new-age architectures and federated AI models deeply into client business flows. By relentlessly focusing on 
+responsible AI, persistent learning, a nd strong governance, we empower enterprises to harness next -generation 
+AI for measurable outcomes, industry -scale adoption, and transparent innovation."   
+ 
+ 
+ 
+Coforge Quasar AI  is driving measurable impact across industries. In banking, clients report a 9% reduction in 
+defaulter lists and an 80% drop in manual compliance workloads. Travel clients are benefiting from AI -driven 
+self-service, with ticket volumes falling by 60%, whi le insurance clients have cut submission intake times by 
+66%. Beyond these sector -specific results, engineering teams have increased developer productivity by 30% and 
+boosted test generation fivefold, and IT operations have shortened resolution times by 60 %, achieving up to 
+20% savings in support costs.  Vikrant Karnik, Executive Vice President and Head of AI  initiatives , 
+Coforge, said, "The rapid uptake of Quasar over the last year is testament to its alignment with what matters 
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +9 1 120 4592 301                                         T: 0124 -4627837                 CIN: L72100HR1992PLC128382                    
+ 
+ 
+most to our clients: business outcomes. Organizations are no longer content with AI as a side experimen t and 
+the Coforge Quasar  AI platform  is helping them embed AI within real workflows and see high ROI, often within 
+months. Our clients choose Coforge because we deliver platforms that break through the barriers of scaling 
+beyond proof -of-concept, driving genuine operational impact and indust ry transformation, not just technology 
+upgrades."  
+ 
+About Coforge  
+Coforge is a global digital services and solutions provider, that leverages emerging technologies and deep 
+domain expertise to deliver real -world business impact for its clients. A focus on select industries, a deep domain 
+understanding of the underlying p rocesses of those industries and partnerships with leading technology 
+platforms, enables Coforge to be a trusted partner of its clients in their transformation initiatives. Coforge leads 
+with its Product Engineering approach and leverages AI, Cloud, Data, Integration and Automation technologies 
+to transform businesses into intelligent, high growth enterprises. Coforge has 33 global delivery centers and is 
+present in 25 countries.  
+Learn more at www.coforge.com .  
+ 
+For media queries please contact: Santanu Bhattacharya - santanu.b@coforge.com  
+ 
+ 
+ 
+ 
+ 

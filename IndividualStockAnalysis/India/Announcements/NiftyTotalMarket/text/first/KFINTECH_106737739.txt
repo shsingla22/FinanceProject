@@ -1,0 +1,109 @@
+ 
+  
+ 
+August  11, 202 6 CS&G/STX/ SQ2026/24 
+1) National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+Scrip Symbol: KFINTECH  2) BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 543720 
+ 
+Sub.  : Press Release  
+Ref. : Regulation 30 of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)  
+Dear Sir / Madam,  
+Pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, please find 
+enclosed herewith the Press Release titled “ KFinTech Launches Klarity, an enterprise -grade 
+Agentic AI solution to Eliminate Signature Fraud in BFSI ”. 
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For KFin Technologies Limited  
+Alpana Kundu  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: F10191 
+Encl.: a/a  
+ 
+KFinTech Launches Klarity , an enterprise -grade Agentic AI solution  to 
+Eliminate Signature Fraud in BFSI  
+Klarity veriﬁes signatures more accurately, cutting fraud losses and wrongful rejections across high-
+value transactions, Demat records, and investor accounts.  
+Key Solution Impact Benchmarks  
+• Fraud Risk Reduction: Eliminates undetected skilled forgeries.  
+• Wrongful Rejection Drop:  Negates false rejections of genuine signatures.  
+• Processing Speed:  Delivers 3x acceleration in end -to-end veriﬁcation turnaround.  
+• False Acceptance Rate (FAR):  Maintains a <0.01% accuracy threshold for high -value 
+transactions.  
+Mumbai, August  11, 2026:  KFin Technologies Limited (“ KFintech ”), a leading technology -driven 
+ﬁnancial services platform, today announced the rollout of Klarity, an Agentic AI solution built to 
+resolve two operational vulnerabilities in ﬁnancial operations: skilled forgeries slipping  through as valid 
+matches, and legitimate behavioural signature variations causing wrongful rejections.  
+Financial institutions carry signiﬁcant exposure wherever legacy identiﬁcation and validation processes are involved. A forged signature accepted as a  match exposes institutions to fraud losses, legal liability, 
+and reputational damage. Conversely, when genuine signatures are wrongfully rejected because of 
+natural drift caused by ageing, medical conditions, or changing pen dynamics, institutions face di rect 
+business loss through client churn, delayed transactions, and administrative rework. Klarity addresses 
+both risks not as a point -solution tool, but as an end -to-end AI architecture combining biometrics, 
+automated workﬂow orchestration, and human -in-the-loop governance.
+ 
+Under the Hood: Deep Stroke Stress & Micro -Biometric Analytics  
+Unlike basic image -comparison tools that evaluate only two -dimensional visual shapes, Klarity's 
+algorithms assess micro -stroke dynamics, including stroke stress, pen pressur e variation, curvature 
+velocity, entry -exit stroke angles, and baseline tremors. This allows the solution to catch sophisticated 
+forgeries that can fool the human eye, while correctly recognising genuine signatures despite natural 
+age-related drift. Fully integrated with KFin Shield, KFintech's fraud detection platform, Klarity is 
+designed as an integrated business optimisation solution for capital markets and the wider BFSI sector.  
+Strengthening Demat & Registrar and Issuer Services (RIS) Operations  
+Beyond  mutual funds, Klarity brings governance controls to Registrar and Issuer Services (RIS) and 
+Demat account operations. Oﬀ -market share transfers, transmission of securities, Demat instruction 
+slips (DIS), debit instruction validation, and address or bank mandate modiﬁcations are high -value 
+targets for ﬁnancial fraud. Deploying Klarity within RIS workﬂows gives corporate issuers, Depository 
+Participants (DPs), and retail Demat account holders stronger document veriﬁcation and custody 
+protection.  
+ 
+ 
+Commenting on the launch, Praveen Shankaran, Chief Operating Oﬃcer (Domestic Fund Services), 
+KFintech , said, “Financial institutions no longer need another standalone AI tool; they need an 
+enterprise solution that solves hard business problems. Klarity br idges deep algorithmic intelligence 
+with operational domain expertise to eliminate the twin risks of undetected forgery and wrongful 
+rejection. By extending this capability into RIS and Demat operations, KFintech is protecting 
+institutional capital while r aising the bar for investor trust across India's capital markets. ” 
+Impact Across User Categories  
+1. For AMCs, Depository Participants & Corporate Issuers (RIS)  
+• Reduced Financial Exposure: Fewer losses from compromised folio redemptions, forged Demat 
+transfers, and fraudulent share transmissions.  
+• Retention of AUM & Business Value: Improved customer satisfaction and lower churn caused 
+by unwarranted transaction rejections.  
+2. For Operations Teams & Compliance Oﬃcers  
+• Explainable Evidence Trail: Mathematical conﬁdence scores and pixel -level heatmaps showing 
+stroke stress and alignment anomalies for every audit.  
+• Operational Scalability: Automates up to 90% of straight -through processing while routing 
+genuine edge cases to human experts with full decision conte xt. 
+3. For Retail Investors & Demat Account Holders  
+• Zero Friction for Genuine Requests: Accommodates natural handwriting drift so legitimate 
+mandates, redemptions, and transfers are processed without arbitrary rejections.  
+• Protection of Wealth Assets: Stron ger biometric surveillance over capital market holdings and 
+Demat assets.  
+With Klarity, KFintech reinforces its focus on strengthening trust and security across India's capital markets infrastructure. As digital adoption and transaction volumes continue to  rise, robust and 
+explainable safeguards are becoming central to how ﬁnancial institutions protect their customers and their credibility. KFintech remains committed to building technology that keeps trust at the core of every transaction  
+About KFin Techno logies Limited (www.kﬁntech.com/; BSE: 543720; NSE: KFINTECH):   
+KFin Technologies Limited (“ KFintech ”) is a leading technology driven ﬁnancial services platform 
+providing comprehensive services and solutions to the capital markets ecosystem including ass et 
+managers and corporate issuers across asset classes in India and provide comprehensive investor 
+solutions including transfer agency, fund administration, fund accounting, data analytics, digital onboarding, transaction origination and processing for alt ernate investments, mutual funds, private 
+market funds, digital assets, unit trusts, insurance investments, and private retirement schemes to g l o b a l  a s s e t  m a n a g e r s  a c r o s s  1 8  j u r i s d i c ti o n s .  I n  I n d i a ,  K F i n t e c h  i s  t h e  l a r g e s t  i n v e s t o r  s o l u ti o n s  provider to In dian mutual funds, based on number of AMCs serviced as on June 30, 2026, and the 
+largest issuer solutions provider based on number of clients serviced as on June 30, 2026. KFintech is the only investor and issuer solutions provider in India that oﬀers ser vices to asset managers such as 
+mutual funds, alternative investment funds, wealth managers and pension as well as corporate issuers 
+and is one of the three operating central record keeping agencies for the National Pension System in 
+ 
+India. KFintech is lis ted on the National Stock Exchange of India Limited and BSE Limited. General 
+Atlantic Singapore Fund Pte Ltd (“GASF ”), a leading global private equity investor , is the promoter of 
+the company.  
+For media queries:  
+Hanisha Vadlamani —hanisha.vadlamani@kﬁntech.com  
+Sailee Nayak — sailee.nayak@kﬁntech.com   
+ 
+ 

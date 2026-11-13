@@ -1,0 +1,735 @@
+
+=== page 1 ===
+ 
+ 
+ 
+April 24, 2025 
+ 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Madam/Sir, 
+ 
+Sub: Investor Updates for the quarter and year ended March 31, 2025 
+ 
+With reference to the above cited subject, we are enclosing herewith the Investor Updates for  the 
+quarter and year ended March 31, 2025.  
+ 
+Request you to take the same on record and oblige. 
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited 
+ 
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS -15519 
+ 
+=== page 2 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+Inve stor Update
+Q4 FY25 and Full Year FY25
+Apr 24, 2025Captured at the heart of transformation — Tanla’s  Board of Directors at the Innovation & Experience Centre.
+(From left to right: Row 1 - François Ortalo-Magné, Deepak Goy al, Uday Reddy, Rahul Khanna || Row 2 - Naiyya Saggi, Sanjay Kapoor, Dr . RS 
+Sharma)
+
+=== page 3 ===
+Investor Update Q4 FY25 and Full Year 2Safe Harbor and Other Information 
+The CPaaS business is evolving at a fast pace in India with very little information  available in the public domain on the overall market. The financial community has always sought a response on the total market s ize, key 
+drivers of the industry and the competitive landscape in this space. In ord er to provide more transparency and to help unders tand our business better, we are providing indicative data around the marke t size and our 
+relative share (assuming the indicative data). This indicative data has been  arrived at basis our detailed internal analysis. This is being done with an intent to provide an indicative picture of the indus try and address 
+queries about the CPaaS space. This must not be seen as a positioning statement of the company, and one should not rely on the c ompany’s disclosure for their assessment of the market size or the rele vant share of any 
+participants in the market.
+This presentation contains statements that include information concerning our possible or assumed strategy, future operations, financing plans, opera ting model, financial position, future revenues, projected costs, 
+competitive position, industry environment, potential growth opportuniti es, potential market opportunities, plans and objectives of management, as well as assumptions relating to the foregoing that involve substantial 
+risks and uncertainties. All statements other than statements of historical fact co uld be deemed forward-looking in nature. Such statements are inherently  subject to risks and uncertainties, some of which cannot be 
+predicted or quanti fied. In some cases, although not all forward‐looking statements contain these i dentifying words, you can id entify forward- looking statements by terminology such as “expect,” “anticipate,” “should,” 
+“believe,” “hope,” “target,” “project,” “plan,” “PROPOSED,” “goals,” “es timate,” “potential,” “predict,” “may,” “will,” “might,” “could,” “intend,” “shall,” and varia tions of these terms or the negative of these terms and 
+similar or derivate expressions. The forward-looking statements invol ve known and unknown risks, uncertainties and other factors that may cause  our actual results, performance or achievements to be materially 
+different from any future results, performance or achievements, expres sed or implied by the forward-looking statements. It is advisable not to pl ace excessive reliance on any of the forward-looking statements. Forward-
+looking statements should not be read as a guarantee of future performance or re sults and will not necessarily be accurate indic ations of the times at, or by, which such performance or results will b e achieved, if at all. 
+Additionally, these forward-looking statements, involve risk, uncerta inties and assumptions based on information available to us as of 18/04/25, including those related to the continued impacts of COVID-19 on our 
+business, future financial performance and global economic conditions. Many o f these assumptions relate to matters that are beyond our control and chan ging rapidly, including, but not limited to, the timeframes for 
+and severity of social distancing and other mitigation requirements, the ti ming of headwinds from COVID-19, the availability of vaccinations, the continue d impact of COVID-19 on new or existing customers, business 
+decisions and the length of our sales cycles, renewal timing or billings  terms, particularly for customers in certain industries highly affected by COVID- 19.
+If the risks or uncertainties ever materialize or the assumptions prove incorrect, our re sults may differ materially from those expressed or implied by such forward -looking statements. We assume no obligation and do 
+not intend to update these forward-looking statements or to conform these  statements to actual results or to changes in our expectations, except as required  by law.
+This presentation contains statistical data, estimates and forecasts that are base d on independent industry publications or other publicly av ailable information wherever possible, as well as other informa tion based on 
+our internal sources. This information involves many assumptions and  limitations, and you are cautioned not to place excessive weightage to th ese estimates. We have not independently verified the accuracy or 
+completeness of the data contained in these industry publications an d other publicly available information, wherever referred. Certai n statements that might or might not be forward-looking statements represent our 
+management’s beliefs and assumptions only as of the date of this prese ntation. Accordingly, we make no representati ons as to the accuracy or completeness of that data nor do we undertake to updat e such data after 
+the date of this presentation. 
+By receiving this presentation you acknowledge that you will be solely re sponsible for your own assessment of the market and our market posi tion and that you will conduct your own analysis and be solely responsible 
+for forming your own view of the potential future performance of our bus iness. Any logos or trademarks other than Tanla, Karix, ValueFirst, Gamooga, Trubloq & Wis ely included herein are the property of the owners 
+thereof and are used for reference purposes only.
+=== page 4 ===
+Investor Update Q4 FY25 and Full Year 3All numbers are ₹ unless otherwise statedFY25 Results – Snapshot 
+Revenue
+40,277 MnGross Profit
+10,507 Mn
+26.1% gross marginEBITDA
+6,908 Mn
+17.2% EBITDA marginFCF
+5,145 Mn
+101% of PAT
+PAT
+5,073 Mn
+12.6% PAT margin37.76EPS Cash(1)
+10,085 Mn
+Increased by ₹ 3275 Mn post dividends 
+payouts
+Note: All growth numbers are over FY24, 
+Cash balance includes fixed deposits with maturity greater than twelve mont hs classified under Non-Current Assets and liquid investments 2.5% growth
+=== page 5 ===
+Investor Update Q4 FY25 and Full Year 4All numbers are ₹ unless otherwise statedQ4 FY25 Results – Snapshot 
+Revenue
+10,244 MnGross Profit
+2,588 Mn
+25.3% gross marginEBITDA
+1,635 Mn
+16.0% EBITDA marginFCF
+1,715 Mn
+146% of PAT
+PAT
+1,173 Mn
+11.5% PAT margin8.74EPS Cash(1)
+10,085 Mn
+Increased by ₹ 877 Mn post dividends 
+payouts
+Note: All growth numbers are over Q3 FY25, i.e., QoQ growth
+Cash balance includes fixed deposits with maturity greater than twelve mont hs classified under Non-Current Assets and liquid investments 2.4% growth
+=== page 6 ===
+Investor Update Q4 FY25 and Full Year 5Tanla has track record of Strong Performance
+Sustained Value Creation Best- in-class Execution World Class Culture
+Visionary in 
+CPaaS Magic 
+Quadrant Growth partner 
+of the yearEnterprise 
+Communication Leading Mid-
+corporate of 
+India‘Industry mover’ and Member 
+of sustainability yearbook‘Global HR excellence award’
+Listed in indices Awards Recognitions7,956 Mn
+Cash returned to 
+shareholders
+9%
+PAT growth1 7+
+Patents4
+325
+Customers with >10 MN 
+Revenue p.a.19,749
+Training hours
+25%
+Women in leadership15%
+Revenue growth1
+12%
+EBITDA growth1100+
+Innovations3
+100+
+Partners51000+
+Employees in India and 
+beyond
+74/100
+S&P Global ESG Score2,00 0+
+Customers across 
+segments
+50%
+Rev. from 50 / top 100 
+cust., retained for > 5 yr.100%
+Return- to-Work Rate 
+from Parental leaveZero
+POSH and human rights 
+complaints16%
+Gross profit1All numbers are ₹, unless otherwise stated
+1. CAGR growth over five years starting from FY21 to FY25
+Source: Team analysis
+=== page 7 ===
+Investor Update Q4 FY25 and Full Year 6Today, Tanla focuses on two synergistic businesses  - Digital Platforms & Enterprise Communications
+Deeply embeddedUndisputed market leadership
+~35%  market share in India
+E2E omnichannel presence
+SMS, Voice, OTT (WhatsApps, TrueCaller, RCS) 
+other advanced messaging channels, chatbot 
+etc.
+Agility & rapid customer service
+10k+  APIs deployed across enterprises to 
+enable full suite of omni-channel 
+communicationMonetizable at scale
+100%  of revenue from SaaS 
+business modelsPredictable growth 
+Digital Platforms
+(Innovation Engine)Enterprise 
+Communications
+(Scale with enterprise)
+Innovation at Scale
+The data indicated on market size has been arrived at basis our internal anal ysis. This is our assessment and merely indicati ve in nature.
+
+=== page 8 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+Financial Out comes
+Investor Update Q4 FY25 and Full Year 7Tanla hosts the leadership from London Business School at the Tanla Innovation & Experience Centre
+
+=== page 9 ===
+Investor Update Q4 FY25 and Full Year 8Revenue : Revenue growth led by OTT 
+OTT contribution to overall 
+revenue was at 29.2% in 
+Q4 FY25, as against 18.2% 
+in Q4 FY24 – we are making 
+the shift to rich mediaRevenue grew by 1.9% YoY 
+grew and 2.4% sequentially 
+in Q4FY25. In FY25 revenue 
+grew by 2.5% led by OTT
+Q4 FY24 Q 1 FY25 Q3 FY25 Q2 FY25 Q4 FY2521% 10% (1%) (0.2%) 1.9%Y-o-Y growth (₹ Mn)10,055 10,022 10,007 10,004 10,244
+=== page 10 ===
+Investor Update Q4 FY25 and Full Year 9Q4 FY25 – Digital Platforms & Enterprise Communications Revenue 
+9,155 9,306900 938 (₹ Mn)Digital Platforms Enterprise Communications
+Q4 FY24 Q4 FY254.2% grew YoY
+Q4 FY25 Q4 FY241.6% grew YoY
+=== page 11 ===
+Investor Update Q4 FY25 and Full Year 10Full Year- Digital Platforms & Enterprise Communications Revenue 
+ (₹ Mn)Digital Platforms Enterprise Communications
+FY24 FY251.3% de-grew
+FY25 FY242.9% grew
+(excl. Vi Impact grew by 18.4%) 
+3,689
+35,58836,6373,640
+=== page 12 ===
+Investor Update Q4 FY25 and Full Year 11Gross profit
+Q4 FY24 Q1 FY25 Q3 FY25 Q2 FY25 Q4 FY2526.7% 26.9% 26.2%26.1% 25.3%Margin% (₹ Mn)2,686 2,694 2,618 2,607 2,588Gross profit de-grew by 0.7% QoQ. 
+Gross margin was at 25.3% in Q4 FY25
+Enterprise communications gross profit 
+de-grew by 0.1% QoQ
+On sequential basis, gross margin % 
+decreased by 79 bps
+=== page 13 ===
+Investor Update Q4 FY25 and Full Year 12Gross margin profile
+Enterprise 
+businessOverall marginPlatform 
+businessB
+CA
+26.7% 26.9%26.2% 25.3% 26.1%
+33% 32% 33% 36% 36%Contribution by platformADecrease in gross margin 
+by 79 bps QoQ
+BDigital Platform gross 
+margin contribution to 
+total at 3 5.8%
+Enterprise  
+communications gross 
+margin at 17.9% in Q4CQ4
+FY24Q1
+FY25Q2
+FY25Q3
+FY25Q4
+FY25
+19.7% 20.1% 19.2% 17.9% 18.4%98.2% 98.7% 98.7% 98.7% 98.7%
+Q4
+FY24Q1
+FY25Q2
+FY25Q3
+FY25Q4
+FY25
+Q4
+FY24Q1
+FY25Q2
+FY25Q3
+FY25Q4
+FY25
+=== page 14 ===
+Investor Update Q4 FY25 and Full Year 13Efficiency Metrics
+60%63%
+EBITDA Gross Profit EBITDA to Gross Profit conversionQ4 FY24 Q4 FY25 (₹ Mn)1,6042,686
+1,6352,588
+Indirect cost was at 9.3% of revenues in 
+Q4FY25, as against 9.7% in Q3FY25EBITDA was at ₹ 1,635 Mn, grew by 
+1.9% YoY and sequentially remains flat
+EBITDA margin was at 16.0%
+=== page 15 ===
+Investor Update Q4 FY25 and Full Year 14Indirect cost walk FY25
+ (₹ Mn)
+FY24        FY25 Employee 
+CostEmployee cost increased ₹466 Mn 
+during the due to net new additions , 
+salary increments and RSU
+Connectivity and bandwidth 
+increased due to expansion of our 
+infrastructure to scale RCS and 
+WhatsApp
+Marketing Other 
+expensesOperating expenses were at ₹ 3,599 
+Mn in FY25 , as against ₹3,237 Mn in 
+FY24.Indirect cost were 8.9% of 
+revenue  and 34.3% of gross profit in 
+FY25
+Connectivity CSR3,237466 86 28 (122) (96) 3,599
+=== page 16 ===
+Investor Update Q4 FY25 and Full Year 15Operating Income
+Q4 FY24 Q1 FY25 Q2 FY25 Q4 FY25 Q3 FY25Q4 FY24 Q1 FY25 Q2 FY25 Q4 FY25 Q3 FY25
+EBITEBITDA
+ (₹ Mn)  (₹ Mn)1,3761,6581,5201,388 1,3641,6041,8861,754 1,634 1,635
+EBIT was at ₹ 1,364 Mn and EBIT margin 
+at 13.3% in Q4EBITDA grew by 1.9% YoY and remains 
+flat QoQ to ₹ 1,635 Mn in Q4 FY25.  
+=== page 17 ===
+Investor Update Q4 FY25 and Full Year 16Free Cash Flow Generation
+Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 (₹ Mn)1,492
+744
+5202,165
+1,715In Q4, we generated ₹ 1,715 mn as free 
+cash flow (146% of PAT). For FY25 we 
+generated ₹ 5,145 mn (101% of PAT) 
+DSO at 72 days in Q4, improved by 10 
+days from Q3
+=== page 18 ===
+Investor Update Q4 FY25 and Full Year 17Profit After Tax & EPS
+EPSProfit After Tax (PAT)
+ (₹ Mn)  (₹)Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q4 FY241,4121,3021,185 1,1731,302
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q4 FY2410.50 9.708.82 8.749.69
+EPS was at ₹ 8.74 in Q4 FY25PAT was at ₹ 1,173 Mn in Q4, due to 
+lower gross profit generation 
+Effective tax rate for Q4 FY25 is at 19.6%
+=== page 19 ===
+Investor Update Q4 FY25 and Full Year 18
+41%
+excluding CCE 
+Q4 FY24 Q1 FY25 Q2 FY25 Q4 FY25 Q3 FY2534%
+31%
+28%38%
+34%
+ROCE- Return on capital employed; CCE- Cash & cash equivalentsRetur n on Ca pita l Em ploye d
+=== page 20 ===
+Investor Update Q4 FY25 and Full Year 19
+Tanla wins the Commendation Award for Corporate Governance by Indian Chamber of Comm erceStrong Balance Sheet
+22,683 Mn
+Strong Equity and Reserves10,885  Mn
+Cash & cash equivalents 41%
+ROCE (excluding cash & cash 
+equivalents)
+Deb t FreeAll numbers are ₹, unless otherwise stated  
+=== page 21 ===
+Investor Update Q4 FY25 and Full Year 20
+Business  Outcomes  
+20Tanla named one of the Best Organizations for Women by ET EdgeInvestor Update Q4 FY25 and Full Year
+
+=== page 22 ===
+Investor Update Q4 FY25 and Full Year 21Winning New Logos
+1. New customers include every unique contracting entity added during t he year67
+Q4 FY24 Q4 FY2545145
+88 58%
+New Customers 
+added on WA 
+and RCSRevenue from new customers (₹ Mn)
+Count of customers 
+=== page 23 ===
+Investor Update Q4 FY25 and Full Year 22Customer Concentration
+12
+out of 20 customers of 
+last year continue to be in Top 
+20
+Q4 FY255,051 4,057
+Q4 FY2441% 49%Revenue from top 20 customers (₹ Mn)
+=== page 24 ===
+Investor Update Q4 FY25 and Full Year 23Customer cohorts
+ Q4 FY24
+2526516333
+59
+25016325
+Q3 FY25
+53
+25118
+>₹ 500 Mn >₹ 100 Mn - < ₹ 500 Mn >₹ 10 Mn - <₹ 100 Mn Count of customers 322
+ Q4 FY25Customers contributing > ₹ 10 Mn 
+annual revenue grew by 2.4% on 
+QoQ basis322 customers contributing > ₹ 10 
+Mn annual revenue, de-grew by 
+0.9% on QoQ basis 
+1.  Customer segments are arrived at on a quarterly annualized basis (quarte r revenue multiplied by four)
+=== page 25 ===
+Investor Update Q4 FY25 and Full Year 24Customer cohorts
+2,1273,6793,6649,470
+3,246
+2,1763,7999,221
+2,686
+2,1674,5869,439
+1. Customer segments are arrived at on a quarterly annualized basis (quart er revenue multiplied by four)>₹ 500 Mn >₹ 100 Mn - < ₹ 500 Mn >₹ 10 Mn - <₹ 100 Mn Revenue from 
+customer in (₹ Mn)  Q4 FY24 Q3 FY25  Q4 FY25Top 20 customers are 
+contributing to 49.5%  of 
+revenue (₹ 5,051 Mn)  in Q4 FY25Customers on-boarded during the 
+trailing twelve months (TTM) have 
+added ₹ 364 Mn in Q4 FY25
+=== page 26 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+Anne xure s
+Investor Update Q4 FY25 & Full Year 25Tanla wins the 15th Aegis Graham Bell Award for Innovation in Telcom for Anti-Scam and Anti-Spam Solutio n
+
+=== page 27 ===
+Investor Update Q4 FY25 and Full Year 26Profit & Loss 
+Q4 FY25
+Q4 FY24 Q4 FY25 Q3 FY25 In ₹ Mn, unless otherwise stated ∆%
+134.6 134.4  134.6 Weighted average shares outstanding10,004  10,055 10,244 Revenue from operations (net) 2
+(7,398)  (7,369)  (7,656)  Cost of services 4
+2,607 2,686 2,588  Gross Profit (4)
+(973) (1,081)  (953)  Operating Expenses (12)
+1,634 1,604 1,635 EBITDA 2
+(246) (229) (271)  Depreciation and Amortization 18
+1,388 1,376 1,364  EBIT (1)
+(15) (17) (14) Finance Cost (16)
+94 260  110 Other income (58)
+1,468 1,619 1,459 Profit before taxes (10)
+(283) (317) (286)  Tax expenses (10)
+1,185 1,302 1,173 Profit after taxes (10)
+8.82 9.69 8.74  Earnings per share (10)
+=== page 28 ===
+Investor Update Q4 FY25 and Full Year 27Profit & Loss 
+FY25
+FY24 FY25 In ₹ Mn, unless otherwise stated ∆%
+134.6  134.4 Weighted average shares outstanding39,278 40,277 Revenue from operations (net) 3
+(28,719)  (29,770)  Cost of services 4
+10,559 10,507  Gross Profit 0
+(3,237)  (3,599)  Operating Expenses 11
+7,322 6,908  EBITDA (6)
+(853) (978)  Depreciation and Amortization 15
+6,470 5,931 EBIT (8)
+(62) (60) Finance Cost (4)
+426 402 Other income (6)
+6,834 6,273 Profit before taxes (8)
+(1,351) (1,200)  Tax expenses (11)
+5,483 5,073  Profit after taxes (7)
+40.79 37.76  Earnings per share (7)
+=== page 29 ===
+Investor Update Q4 FY25 and Full Year 28Audited Balance Sheet March 31, 2025
+In ₹ Mn, unless otherwise stated
+Assets
+Non-current assets
+Property, plant and equipment 
+Internally developed - Platforms
+Customer Relationships
+Trade name
+Technology
+Non Compete
+Intangible assets under development
+Goodwill
+Right- of-use assets
+Deferred tax assets (net)
+Other non-current assets
+Capital work- in-progress
+Financial assetsSoftware
+Investment Property
+Total Non-Current Assets
+Trade receivables
+Cash and cash equivalents
+Bank balances other than cash and cash equivalents
+Other financial assets
+Other current assets
+Total current assets
+Total Assets2,058
+958
+308
+34
+107
+19
+806
+2,646
+656
+397
+939
+234
+333200
+17
+9,712
+8,424
+5,436
+1,235
+5,026
+257
+20,37831 Mar 2024
+30,090Equity  & Liabilities
+Equity share capital
+Other equity
+Total equity
+Financial liabilities
+Lease liabilities
+Other financial liabilities
+Provisions
+Other non-current liabilities
+Total non-current Liabilities
+Current liabilities
+Trade payables
+Lease liabilities
+Other financial liabilities
+Other current liabilities
+Provisions
+Current tax liabilities (net)
+Total current liabilities
+Total Equity & Liabilities19,284
+19,418
+-   
+590
+-   
+16
+8
+614
+6,932
+160
+2,629
+169
+81
+87
+10,058
+30,090134In ₹ Mn, unless otherwise stated
+Investments -2,289
+1,376
+242
+19
+74
+14
+846
+2,646
+523
+463
+826
+50
+271192
+16
+9,847
+8,378
+5,015
+3,792
+4,850
+296
+23,53031 Mar 2025
+33,3771,19922,548
+22,683
+-   
+481
+-   
+32
+13
+526
+5,746
+159
+3,567
+256
+143
+297
+10,168
+33,37713531 Mar 2024 31 Mar 2025
+=== page 30 ===
+Investor Update Q4 FY25 and Full Year 29Conden sed 
+Cash flo w 
+Q4 FY25
+1.Cash balance includes fixed deposits with maturity greater than twelve mont hs classified under Non-Current Assets and investments in short term liqui d funds In ₹ Mn, unless otherwise stated Q4 FY25 Q3 FY25
+Cash flow before changes in working capital 1,459 1,711
+Changes in working capital 997 1,240
+Cash generated from operations 2,456 2,951
+Taxes (454) (319)
+Cash flow from operating activities 2,003 2,632
+Net investments in tangible and intangible assets (287) (467)
+Purchase/sale of short-term liquid funds 1,299 (865)
+Interest and other income (101) 92
+Cash flow from investing activitiess 1,085 (1,261)
+Proceeds from issue of shares 2 0
+Dividend paid (808) -
+Interest paid on lease liabilities (14) (15)
+Cash flow from financing activities (849) (58)
+Cash flow for the period 2,239 1,313
+Cash and cash equivalents at the beginning of period 6,536 7,053
+Forex Fluctuations 33 (44)
+Investments in short term liquid funds 1,199 865
+Fixed Deposits maturity more than 12months(1) 79 21Purchase of shares as part of ESOP trust pool - (15)Movement in Bank Balances 174 (21)
+Cash and cash equivalents closing balance 10,085 9,028
+Payment on lease liabilities (29) (28)
+=== page 31 ===
+Investor Update Q4 FY25 and Full Year 30Condensed 
+Cash FY25
+1.Cash balance includes fixed deposits with maturity greater than twelve mont hs classified under Non-Current Assets and investments in short term liqui d funds In ₹ Mn, unless otherwise stated FY25 FY24
+Cash flow before changes in working capital 6,273 6,834
+Changes in working capital 1,039 104
+Cash generated from operations 7,312 6,938
+Taxes (891) (1,039)
+Cash flow from operating activities 6,421 5,899
+Net investments in tangible and intangible assets (1,276) (1,558)
+Purchase/sale of short-term liquid funds (1,120) -
+Interest and other income 134 154
+Cash flow from investing activitiess (2,203) (5,280)
+Proceeds from issue of shares/purchase of trusty shares (298) 0
+Dividend and dividend tax paid (1,614) (1,344)
+Interest and paid on lease liabilities (60) (62)
+Cash flow from financing activities (2,082 ) (1,509)
+Cash flow for the period 2,136 (890)
+Cash and cash equivalents at the beginning of period 6,809 7,116
+Forex Fluctuations - (61)
+Investments in short term liquid funds 1,199 0
+Fixed Deposits maturity more than 12months(1) (59) 138Repayment of Borrowings - (48)Movement in Bank Balances 59 (139)
+Cash and cash equivalents closing balance       10,085 6,809
+Payment on lease liabilities (110) (55)Payment towards acquisition of business, net of cash acquired - (3,737)
+Cash Acquired on ValueFirst Acquisition - 506
+=== page 32 ===
+Investor Update Q4 FY25 and Full Year 31Free  
+Cash Flow
+Q4 FY25 
+Q4 FY24 Q4 FY25 Q3 FY25 In ₹ Mn, unless otherwise stated ∆%
+2,632 1,921 2,002 Operating cash flow 4%
+(467) (429) (287) Capital expenditure (33%)
+2,165 1,492 1,715 Free cash flow 15%
+22% 15% 17% Free cash flow in percent of total revenue -
+183% 115% 146% Free cash flow as % of PAT -
+=== page 33 ===
+Investor Update Q4 FY25 and Full Year 32Free  
+Cash Flow
+FY25 
+FY24 FY25 In ₹ Mn, unless otherwise stated ∆%
+5,899 6,421 Operating cash flow 9%
+(1,588) (1,276) Capital expenditure (20%)
+4,311 5,145 Free cash flow 19%
+11% 13% Free cash flow in percent of total revenue -
+79% 101% Free cash flow as % of PAT -
+=== page 34 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+About Us
+33 Investor Update Q4 FY25 & Full YearTeam Tanla unwinds with the Tanla Premier League
+=== page 35 ===
+Investor Update Q4 FY25 and Full Year 34Tanla embeds Gen AI across all its platforms 
+Wise AlbertOur intelligent core underlying all our products, revolutionizing digital interactions through G en Al capabilities
+Audience.ai 
+(whom to send)Channel & Partner.ai (how to 
+send)Content.ai 
+(what to send)
+Scam identification and 
+prevention in <50 ms through AI-
+ML led enginesTrubloq
+Registration.ai
+DigiAssets.ai
+•100% compliance with all 
+regulatory guidelinesWisely
+•90%+ time saving in the 
+registration process
+•1 single dashboard for digital 
+asset analyticsATP
+CTA engineSemantics engine
+Sender reputationSingle API-led intelligent platform for omni-channel digital interactions 
+to deliver distinctive impact for enterprises and their users
+Single 
+API 
+Partner 
+marketplace End- to-End 
+encryption 
+SSOT enabled 
+by blockchain Smart 
+routing 
+Integrated 
+plugins Performance 
+analytics 
+Core 
+stack GenAI to elevate Trubloq’s 
+signature experience
+=== page 36 ===
+Investor Update Q4 FY25 and Full Year 35We have also successfully addressed several Greenfield opportunities
+Trubloq
+With world’s 1st blockchain-enabled communication stack. It 
+works with a consortium of telecom players and other 
+stakeholders to maintain the leadership position
+100% Compliance to address all legal 
+challengesRegulatoryUser 1Bn+ Users touched
+60–80% Reduction in complaints per Mn SMS 
+from telemarketers
+Business
+100%
+ Market share in UAE
+50k+ Enterprise partners3/4 Indian telcos served
+ATP
+First of its kind anti-smishing platform. 
+Identification Prevention Elimination
+A. Govt &  its 
+institutions
+B. 
+EnterprisesC. 
+Telcos
+=== page 37 ===
+Investor Update Q4 FY25 and Full Year 36Our Customers love us in India and beyond
+of total revenues contributed by 50 
+of our top 100 customers, retained 
+for more than 5 years50%+
+2000+       
+Customers across segmentsPlayer of choice in 
+India across industries leaders…and serve global giants in 4 regions We are the player of choice in India…
+7/10 top insurance9/10 top banks  served
+8/10top financial 
+services
+7/10 top social media
+marquee govt. projects
+This indicative data on market size has been arrived at basis our interna l analysis. This is our assessment and merely indica tive in nature and should not be relied upon~30% 
+CPaaS market share 
+SEA
+Middle East
+USA & Europe Global Tech giants
+=== page 38 ===
+Investor Update Q4 FY25 and Full Year 37Our Market Leadership in Enterprise Communication (1/2)
+This indicative data on market size has been arrived at basis our interna l analysis. This is our assessment and merely indica tive in nature and should not be relied uponHigh Customer Stickiness
+ Tech. backed use cases
+50 of Top 100 accounts > 5 years 
+Double digit growth in every customer cohort since inception
+100+ API’s integrations within a single  enterprises  across 
+different ecosystemsUnmatched scale with 35% CPaaS market share
+5% increase post ValueFirst acquisition 
+~32% share in SMS NLD market
+Player of choice across industry
+2000+ customers across industries
+8 of Top 10 brands served across banking, Insurance, Retail, E-
+Comm, Travel & Digital Natives
+Largest government partner
+Multiple campaigns supportedCustomized to serve enterprise needs
+Deeply integrated, with all major CRM systems across verticals to 
+enable omnichannel communication
+10,000  customized APIs to integrate with customers
+1000+ bank-specific use cases supported
+=== page 39 ===
+Investor Update Q4 FY25 and Full Year 38Our Market Leadership in Enterprise Communication (2/2)
+Newer Channels Tech. backed use cases
+AI/ML based solutions developed for a leading 
+bank
+Impact: 2X increase in loyalty (offers availed) for the 
+bank
+Context
+Automated  relevant promotional messages based on 
+user card swipe activity
+In house  ML capabilities  leveraged to trigger 
+targeted offer to users basis transaction amount, 
+location, and card typeServing enterprise curated needs 
+Commerce on WhatsApp: Enabled  cab booking over 
+WhatsApp for a seamless consumer journeyTurbo charging our growth 
+4x YoY growth in RCS
+=== page 40 ===
+Great Financial 
+Track Record
+We continue to 
+deliver over the 
+last six yearsAll figures in ₹ Mn
+3910,040
+Revenues 201940,277
+Revenues 2025~4x
+967
+EBITDA 20196,908
+EBITDA 2025~7x
+298
+PAT 20195,073
+PAT 2025~17x
+Investor Update Q4 FY25 and Full Year 39
+=== page 41 ===
+Thank YouFollow us at:
+ Thank  You

@@ -1,0 +1,931 @@
+
+=== page 1 ===
+ 
+ 
+April 25, 2024 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Madam/Sir, 
+ 
+Sub: Investor Updates for the quarter and year ended March 31, 2024. 
+ 
+With reference to the above cited subject, we are enclosing herewith the Investor Updates for  the 
+quarter and year ended March 31, 2024.  
+ 
+Request you to take the same on record and oblige. 
+ 
+Thanking you 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited  
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS-15519 
+ SESHANURADH
+A CHAVADigitally signed by 
+SESHANURADHA CHAVA 
+Date: 2024.04.25 22:08:46 +05'30'
+=== page 2 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+Investor Update
+Q4 FY24 and Full Year
+April 25, 2024 London Business School unveils the Case Study on Tanla at the Tan la Hub, MWC24, Barcelona
+=== page 3 ===
+2 Investor Update Q4 FY24 and Full YearSafe Harbor and Other Information 
+The CPaaS business is evolving at a fast pace in India with very little information  available in the public domain on the overall market. The financial community has always sought a response on the total market s ize, 
+key drivers of the industry and the competitive landscape in this sp ace. In order to provide more transparency and to help understand our busine ss better, we are providing indicative data around the market size 
+and our relative share (assuming the indicative data). This indicative data has been arrived at basis our detailed internal analysis. This is being d one with an intent to provide an indicative picture of the industry and 
+address queries about the CPaaS space. This must not be seen as a positionin g statement of the company, and one should not rely on the company’s disclosure for their assessment of the market size or the rel evant 
+share of any participants in the market.
+This presentation contains statements that include information concerning our possible or assumed strategy, future operations, financing plans, opera ting model, financial position, future revenues, projected costs, 
+competitive position, industry environment, potential growth opportuniti es, potential market opportunities, plans and objectives of management, as well as assumptions relating to the foregoing that involve 
+substantial risks and uncertainties. All statements other than statements of historical fact could be deemed forward-looking in nature. Such statements ar e inherently subject to risks and uncertainties, some of 
+which cannot be predicted or quanti fied. In some cases, although not all forward‐looking statements contai n these identifying w ords, you can identify forward- looking statements by terminology such as “expect,” 
+“anticipate,” “should,” “believe,” “hope,” “target,” “project,” “pl an,” “PROPOSED,” “goals,” “estimate,” “potential,” “predict,” “may,” “will,”  “might,” “could,” “intend,” “shall,” and varia tions of these terms or the 
+negative of these terms and similar or derivate expressions. The fo rward-looking statements involve known and unknown risks, uncertainties a nd other factors that may cause our actual results, performance or 
+achievements to be materially different from any future results, perfo rmance or achievements, expressed or implied by the forward-looki ng statements. It is advisable not to place excessive reliance on any of the  
+forward-looking statements. Forward-looking statements should not be read as a gu arantee of future performance or results and will not necessarily be accurate ind ications of the times at, or by, which such 
+performance or results will be achieved, if at all. Additionally, th ese forward-looking statements, involve risk, uncertainties and assumpti ons based on information available to us as of 18/04/24, including those 
+related to the continued impacts of COVID-19 on our business, future financial  performance and global economic conditions. Many of these assumptions re late to matters that are beyond our control and changing 
+rapidly, including, but not limited to, the timeframes for and seve rity of social distancing and other mitigation requirements, the timin g of headwinds from COVID-19, the availability of vaccinations, the continued  
+impact of COVID-19 on new or existing customers, business decisions and the  length of our sales cycles, renewal timing or billings terms, particularly for customers in certain industries highly affected by COVID- 19.
+If the risks or uncertainties ever materialize or the assumptions prove incorrect, our results may differ materially from those expressed or implied by such  forward-looking statements. We assume no obligation and 
+do not intend to update these forward-looking statements or to conform th ese statements to actual results or to changes in our expectations, excep t as required by law.
+This presentation contains statistical data, estimates and forecasts that are base d on independent industry publications or other publicly av ailable information wherever possible, as well as other informa tion based 
+on our internal sources. This information involves many assumptions and li mitations, and you are cautioned not to place excessive weightage to these e stimates. We have not independently verified the accuracy or 
+completeness of the data contained in these industry publications an d other publicly available information, wherever referred. Certai n statements that might or might not be forward-looking statements represent 
+our management’s beliefs and assumptions only as of the date of this pre sentation. Accordingly, we make no representati ons as to the accuracy or completeness of that data nor do we undertake to upd ate such 
+data after the date of this presentation. 
+By receiving this presentation you acknowledge that you will be solely re sponsible for your own assessment of the market and our market posi tion and that you will conduct your own analysis and be solely 
+responsible for forming your own view of the potential future performance of our business. Any logos or trademarks other than Tanla, Karix, ValueFirst, Gamoo ga, Trubloq & Wisely included herein are the property 
+of the owners thereof and are used for reference purposes only.
+=== page 4 ===
+3 Investor Update Q4 FY24 and Full Year
+FCF Adjusted EBITDA(1) Gross Profit
+₹1,492 Mn ₹1,877 Mn ₹2,686 Mn ₹10,055  Mn
+115% of PAT 17.3%  Growth 20.6  %Growth Revenue
+₹6,810  Mn ₹9.69 ₹1,361 Mn
+Increased by ₹647 Mn QoQ post 
+dividend payouts Cash(5) EPS Adjusted PAT(2)
+1.Adjusted EBITDA is normalized for one-time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024 in Q4 and FY24. 
+2.Adjusted PAT is normalized for the post tax impact for 2 items – (i) one- time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024 and (ii) Gain of Rs. 210 MN in Othe r Income pertaining to write back of liability 
+3.For Q4 FY24, reported EBITDA ₹1,604 Mn and PAT ₹1,302 Mn. Reported EBITDA de -grew by 3% and PAT grew by 8%.
+4.Refer 35 slide for reconciliation between reported and adjusted EBITDA and PAT  for Q4 and full year of FY23 and FY24
+5.Cash balance includes fixed deposits with maturity greater than twelve mont hs classified under Non-Current Assets 9.1 %Growth 10.5%  Growth(4) 
+10.4%  Growth(4)Q4 FY24 Results – Snapshot
+=== page 5 ===
+4 Investor Update Q4 FY24 and Full Year
+FCF Adjusted EBITDA(1) Gross Profit
+₹4,311 Mn ₹7,595 Mn ₹10,559 Mn ₹39,278  Mn
+79% of PAT 26.2%  Growth 17.1%  Growth Revenue
+₹6,810  Mn ₹40.8 ₹5,542 Mn
+decreased by ₹ 306 Mn post 
+ValueFirst acquisition and dividend 
+payoutsCash(5) EPS Adjusted PAT (2)
+23.4  % Growth 
+1.Adjusted EBITDA is normalized for one-time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024 in Q4 and FY24. 
+2.Adjusted PAT is normalized for the post tax impact for 2 items – (i) one- time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024 and (ii) Gain of Rs . 210 MN in Other Income pertaining to write back of liability 
+3.For FY24, reported EBITDA ₹7,322 Mn and EBITDA ₹ 5,483 Mn. Reported EBITDA g rew by 24.5% and PAT grew by 22.5%
+4.Refer 35 slide for reconciliation between reported and adjusted EBITDA and PAT  for Q4 and full year of FY23 and FY24
+5.Cash balance includes fixed deposits with maturity greater than twelve mont hs classified under Non-Current Assets 28.4%  Growth (4)
+23.0%  Growth (4) FY24 Results – Snapshot
+=== page 6 ===
+5 Investor Update Q4 FY24 and Full Year1. Adjusted for one-time expenditure incurred for Mobile World Congre ss 2024. Refer 35 slide for reconciliation between reported and adjusted o prating margin and PAT 
+2. INR 524 on 31st  Mar 2023 vs 819  on 31st Mar 2024;  3. Including enhancements:4. patents granted for Wisel y; 4 provisional patents for ATP and Trubloq 2.0  5. Includes all 3rd party contractorsSustained Value Creation Best- in-class Execution World Class Culture
+4,311 Mn
+Free cash flow
+5,542 Mn
+Adjusted PAT(1) 5+
+Patents4
+323
+Customers with >10 MN 
+INR Revenue p.a.No layoffs
+25%
+Women in leadership39,278 Mn
+Revenue
+17%
+Adjusted Operating 
+Margin(1)100+
+Innovations3
+50+
+Partners51000+
+Employees in India and 
+beyond
+68/100
+S&P Global ESG Score56%+
+Increase in stock price22,000+
+Customers across 
+segments
+50%
+Rev. from 50 / top 100 
+cust., retained for > 5 yr.Carbon 
+neutral 
+by 2025Zero
+POSH and human 
+rights complaints
+Visionary in 
+CPaaS Magic 
+Quadrant Growth partner 
+of the yearEnterprise 
+Communication Leading Mid-
+corporate of 
+India“Industry mover” and 
+Member of sustainability 
+yearbook“Global HR excellence award”
+Listed in indices Awards Recognitions10,559 Mn
+Gross Profit
+Source: Team analysisAll numbers in ₹ FY24Tanla has track record of Strong Performance
+=== page 7 ===
+6 Investor Update Q4 FY24 and Full YearToday, Tanla focuses on two synergistic businesses  - Digital Platforms & Enterprise 
+Communications
+Deeply embedded
+NRR of 125%Undisputed market leadership
+~35%  market share in India
+E2E omnichannel
+presence
+SMS, Voice, OTT (WhatsApp, 
+TrueCaller), other advanced 
+messaging channels, chatbot etc.
+Agility & rapid customer service
+10k+  APIs deployed across 
+enterprises to enable full suite of 
+omni-channel communicationMonetizable at scale
+100%  of revenue from SaaS 
+business modelsPredictable growth 
+26%+ growth in gross profit for 
+FY24
+Digital Platforms
+(Innovation Engine)Enterprise 
+Communications
+(Scale with enterprise)
+Innovation at Scale
+This indicative data on market size has been arrived at basis our interna l analysis. This is our assessment and merely indica tive in nature and should not be relied upon
+
+=== page 8 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+Business Outcomes
+Team Tanla celebrates the launch of Tanla Case by London Busi ness School
+=== page 9 ===
+8 Investor Update Q4 FY24 and Full Year323 customers contributing > ₹ 10 
+Mn annual revenue, count up by 
+45% on YoY basis
+ FY231713319
+61
+24121223323
+FY24
+>₹500 Mn >₹100 Mn- < ₹500 Mn >₹10 Mn -<₹100 MnCount of customers Expansion of Customer Relationships
+=== page 10 ===
+9 Investor Update Q4 FY24 and Full YearProduct penetration improved to 2.32 
+from 2. 17 in FY24 on a larger customer 
+base, driven by growing adoption of 
+WhatsApp and other newer channels
+5,8387,47019,039
+12,626
+7,66717,07132,34737,364
+FY23 FY24
+>₹50 0 Mn >₹100 Mn - < ₹500 Mn >₹10 Mn -<₹100 Mn
+Revenue from customers (₹ Mn)In FY23, ValueFirst (VF) was of one of our 
+top customers. Post acquisition we have 
+only considered direct enterprise 
+customers of VF for this analysis. This is 
+has resulted in reduction in greater than ₹ 
+500Mn and increase in other segments Increase in Product Penetration
+=== page 11 ===
+10 Investor Update Q4 FY24 and Full Year
+Revenue from top 20 customers (₹ Mn)19,517
+FY23 FY2416,57115
+out of 20 customers of last 
+year continue to be in Top 20, 19 
+remain in Top 3058% 42%
+In FY23, ValueFirst was of one of our 
+top customers. Post acquisition it no 
+longer remains our top customer and 
+its impact can be seen in customer 
+concentration mixCustomer Concentration
+=== page 12 ===
+11 Investor Update Q4 FY24 and Full Year
+1.New customers include every unique contracting entity added during t he yearRevenue from new customers 
+(₹ Mn)498
+FY23 FY241,42533%
+Count of customers 269404
+New Customers 
+added on WAWinning New Logos
+=== page 13 ===
+12 Investor Update Q4 FY24 and Full Year16-17 17-18 18-19 19-20 20-21 21-22 22-23 23-24
+Year
+1.Represents revenue from our active customers group ed by cohorts based on the year when each customer account cohort originated
+Cohorts of 16-17 also includes customers acquired during prior  period.Customer data complied also includes customers of K arix and Gamooga from pre acquisition periodFY23FY17
+FY18
+FY21
+FY22
+FY23FY19
+FY20
+FY2315%
+81%
+55%
+46%
+316%45%
+45%CAGRCustomer Cohorts 
+=== page 14 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+Panel discussion at Hall 8 of MWC24, BarcelonaFinancial Outcomes
+=== page 15 ===
+14 Investor Update Q4 FY24 and Full Year
+Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY248,3359,11110,026 10,086Y-o-Y growth  (   ₹  ( Mn)(2%) 14% 19%15%
+Revenue grew by 21% YoY , driven 
+by Digital platforms and 
+Enterprise communications
+Enterprise communications grew 
+by 22% YoY and 1% sequentially10,05521%
+Q4 FY24Revenue growth in a seasonally weak quarter
+=== page 16 ===
+15 Investor Update Q4 FY24 and Full Year
+ (₹ Mn)Digital Platforms Enterprise Communications
+FY23 FY2422%
+YoY growth
+3,028
+FY24 FY2317%
+YoY growth
+30,51735,588 3,689Full Year – Digital Platforms & Enterprise Communications Revenue Growth
+=== page 17 ===
+16 Investor Update Q4 FY24 and Full Year
+ (₹ Mn)Digital Platforms Enterprise Communications
+Q4 FY23 Q4 FY2410%
+YoY growth
+815
+Q4 FY24 Q4 FY2322%
+YoY growth
+7,5209,155 900Q4FY24 – Digital Platforms & Enterprise Communications Revenue Growth
+=== page 18 ===
+17 Investor Update Q4 FY24 and Full Year
+On sequential basis, gross margin 
+% decreased by 21 bpsDigital Platform gross profit grew by 
+13.2% driven by Wisely-OTT
+Enterprise communications gross 
+profit grew by 19.5%, led by 
+WhatsApp and lower telco costsGross profit grew by 17.3% YoY. 
+Gross margin at 26.7% decreased by 
+76 bps 
+2,2892,4132,699 2,762
+Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY24Margin%  (₹ Mn)27.527.4
+26.526.926.7
+2,686Profile – Gross Profit
+=== page 19 ===
+18 Investor Update Q4 FY24 and Full Year
+Enterprise 
+businessOverall marginPlatform 
+businessB
+C96% 97% 98% 98% 98%
+Q4
+FY23Q1
+FY24Q2 
+FY24Q3
+FY24Q4
+FY24
+20% 19% 20% 20% 19%
+Q4
+FY23Q1
+FY24Q2
+FY24Q3
+FY24Q4
+FY24A
+Q4 
+FY23Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY2427% 26% 27% 27% 27%
+34% 35% 34% 35% 33%Contribution by platformADecrease in gross 
+margin by 76 bps YoY , 
+and 21 bps QoQ 
+BDigital Platform gross 
+margin contribution to 
+total at 33%
+Enterprise 
+communications gross 
+margin at 19.7% in Q4CProfile – Gross Margin
+=== page 20 ===
+19 Investor Update Q4 FY24 and Full Year
+Adjusted EBITDA to Gross profit at 
+70% in Q4
+Excluding VF, overall indirect cost 
+remains constant on YoY basis1,6992,289
+1,8772,686
+Q4 FY23 Q4 FY24 (₹ Mn)74% 70%
+EBITDA Gross Profit EBITDA to Gross Profit conversionIndirect cost expenses includes 
+one- time expense of ₹273 Mn 
+towards MWC in Q4FY24 and ₹38 
+Mn in Q4FY23
+1.Adjusted for one-time expenditure incurred for Mobile World Congre ss 2024. Refer 35 slide for 
+reconciliation between reported and adjusted EBITDAEfficiency Metrics
+=== page 21 ===
+20 Investor Update Q4 FY24 and Full Year
+Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY24322255309 353Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY24307335462442
+Other ExpensesEmployee Cost (₹ Mn)  (₹ Mn)451
+630Other expenses includes one-
+time expense of ₹273 Mn 
+towards MWC 2024 in Q4FY24
+On sequential basis, excluding 
+MWC cost, indirect cost have 
+increased by ₹37 Mn due to 
+forex fluctuations and partially 
+off-set by lower RSU cost and 
+reduction in other overheads Indirect Expenses
+=== page 22 ===
+21 Investor Update Q4 FY24 and Full Year
+ (₹ Mn)
+EBITDigital Platforms
+Gross Profit70%Enterprise Communications
+Gross Profit633884
+EBIT1,0161,802 EBIT%  EBIT%11%Adjusted EBIT Profile
+1.Adjusted for one-time expenditure incurred for Mobile World Congre ss 2024. Refer 35 slide for reconciliation between reported and adjusted E BIT
+=== page 23 ===
+22 Investor Update Q4 FY24 and Full Year
+Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY241,5151,658 1,694 1,742Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY241,6611,8221,968
+1,6041,928
+EBITEBITDAAdjusted EBITDA was at ₹ 1,877 Mn. 
+Adjusted EBITDA growth at 10.5% 
+YoY and -3% seq. Adjusted EBITDA 
+margin at 18.7% (seq drop of 56 bps)
+Depreciation  was at ₹229  Mn in Q 4 
+FY24, as against ₹147  Mn in Q4 
+FY23
+ (₹ Mn)  (₹ Mn)Incremental depreciation due 
+to capitalization of Innovation 
+Center and other leased offices1,376
+Amortization on intangible assets 
+due to acquisition was at ₹26MnOperating Income
+1.Adjusted for one-time expenditure incurred for Mobile World Congre ss 2024. Refer 35 slide for reconciliation between reported and adjusted EBITDA and EBIT
+=== page 24 ===
+23 Investor Update Q4 FY24 and Full Year
+1,472
+8691,310
+Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY24 (₹ Mn)DSO  down by 1 days to 76 in 
+Q4. Free Cash flow for FY24 
+was at  ₹ 4,311 Mn1,492
+Tax payouts remain consistent
+640Strong Cash Flow Generation
+=== page 25 ===
+24 Investor Update Q4 FY24 and Full Year
+Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY248.8810.0710.4210.60Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY241,2031,3541,4011,425
+EPSProfit After Tax (PAT)
+Adjusted PAT  was at ₹ 1,361 Mn in 
+Q4. Adjusted PAT grew by 10.4% 
+YoY.  On sequential basis Adjusted 
+PAT de-grew  by 3%. 
+ (₹ Mn)  (₹ Mn)Effective tax rate for FY24 at 19.8%
+EPS at 9.69, grew by 9.1% YoY , led 
+by profit expansion 1,302
+9.69
+1.Adjusted PAT is normalized for the post tax impact for 2 items – (i) one- time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024 and (ii) Gain of Rs. 210 MN in Othe r Income pertaining to write back of liability 
+2.Refer 35 slide for reconciliation between reported and adjusted PATNet Income & EPS
+=== page 26 ===
+25 Investor Update Q4 FY24 and Full Year
+ (₹ Mn)
+FY23Adjusted Profit After Tax
+FY2423%Earnings per share 
+FY244,5065,542
+FY2333.0540.79 YoY growth  YoY growth 23% (₹)
+1.Adjusted PAT is normalized for the post tax impact for 2 items – (i) one- time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024 and (ii) Gain of Rs. 210 MN in Other Income  pertaining to write back 
+of liability 
+2.. Refer 35 slide for reconciliation between reported and adjusted PATNet Income & EPS for full year
+=== page 27 ===
+26 Investor Update Q4 FY24 and Full Year
+53%
+excluding CCE as against 58% last 
+year
+Q4 FY23 Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY2431%34%38%34%35%
+ROCE- Return on capital employed; CCE- Cash & cash equivalents
+1.Adjusted EBIT considered for calculation of Capital employed .Return on Capital Employed
+=== page 28 ===
+27 Investor Update Q4 FY24 and Full Year₹19,421 Mn
+Strong Equity and Reserves₹6,810 Mn
+Cash & cash equivalents 53%
+ROCE (excluding cash & cash 
+equivalents)
+Debt Free
+Team Tanla at an internal event hosted at Tanla Innovation and  Experience Center, HyderabadStrong Balance Sheet
+=== page 29 ===
+28 Investor Update Q4 FY24 and Full YearProfit & Loss Q4 
+FY24In ₹ Mn, unless otherwise stated
+Revenue from operations
+Cost of services
+Gross profit
+Operating expenses
+EBITDA
+Depreciation & amortization
+EBIT
+Finance cost
+Other income
+Profit before taxes
+Tax expense (including deferred tax)
+Profit after tax
+Earning per share
+Weighted average shares outstandingQ4 FY24
+10,055
+(7,369)
+2,686
+(1,081)
+1,605
+(229)
+1,376
+(17)
+1619
+(317)    
+1302
+9.69
+134.5Q4 FY23
+8,335
+(6,046)
+2,289
+(628)
+1,661
+(146)
+1,515
+(4)
+48
+1559
+(356)
+1203
+8.88
+134.4∆ %
+21
+22
+17
+72
+(3)
+56
+(9)
+290
+438
+4
+(11)
+8
+9
+-Q3 FY24
+10,026
+(7,327)
+2,699
+(771)
+1928
+(234)
+1,694
+(17)
+51
+1728
+(327)
+1401
+10.42
+134.4
+260
+=== page 30 ===
+29 Investor Update Q4 FY24 and Full YearProfit & Loss 
+FY24In ₹ Mn, unless otherwise stated
+Revenue from operations
+Cost of services
+Gross profit
+Operating expenses
+EBITDA
+Depreciation & amortization
+EBIT
+Finance cost
+Other income
+Profit before taxes
+Tax expense (including deferred tax)
+Profit after tax
+Earning per share
+Weighted average shares outstandingFY24
+39,278
+(28,719)
+10,559
+(3,237)
+7,322
+(854)
+6,470
+(62)
+426
+6,834
+(1,351)    
+5,483
+40.79
+134.4FY23
+33,546
+(25,179)
+8,367
+(2,488)
+5,879
+(462)
+5,418
+(14)
+262
+5,666
+(1,189)
+4,476
+33.05
+134.4∆ %
+17
+14
+26
+30
+25
+85
+19
+354
+63
+21
+14
+22
+23
+-
+
+=== page 31 ===
+30 Investor Update Q4 FY24 and Full YearAudited Balance Sheet Mar 31, 2024
+In ₹ Mn, unless otherwise statedMar 31, 
+2023In ₹ Mn, unless otherwise stated
+ASSETS
+Non -current assets
+Property, plant and equipment 1,659
+Platforms 874
+Customer Relationships 133
+Trade Name 2                          
+Technology & Software 0
+Non-Compete 25
+Intangible assets underdevelopment 566
+Goodwill 1,346
+Right- of-use-lease assets 797
+Capital work in progress 78
+Financial assets 149
+Deferred tax assets (net) 363
+Other non-current assets 786
+Total non-current assets 6,778
+Trade receivables 5,700
+Cash and bank balances 7,116
+Other Financial assets 4,202
+Other current assets 330
+Total current assets 17,348
+TOTAL ASSETS`Mar  31, 
+2024
+2,058
+                                988
+308
+34
+307
+19
+777
+2,646
+673
+ 234
+333
+393
+938
+9,708
+8,424
+6,671
+5,030
+257
+20,382
+30,090 24,126Equity share capital
+Other equity
+Total equity
+Financial liabilities
+Lease liabilities
+Other financial liabilitiesProvisions
+Other non-current liabilities
+Total Non-current Liabilities
+Current liabilities
+Trade payables
+Lease liabilities
+Other current liabilities
+Short term provisions
+Liabilities for current tax (net)
+Total Current liabilitiesEQUITY AND LIABILITIES
+TOTAL EQUITY AND LIABILITIES134
+15,041
+15,175
+732
+18
+6
+756
+5,386
+94
+2451
+203
+13
+48
+8,195
+24,126Mar 31, 
+2023
+134
+19.284
+19,418
+590
+16
+8
+614
+5,507
+160
+4,054
+169
+81
+87
+10,058
+30,090Mar 31, 
+2024
+=== page 32 ===
+31 Investor Update Q4 FY24 and Full YearQ4 FY24 Q3 FY24 In ₹ Mn, unless otherwise stated
+1,684 1,945 Cash flow before changes in working capital
+500 (677) Changes in working capital
+2,184 1268 Cash generated from operations 
+(262) (186) Taxes
+1,921 1082 Cash flow from operating activities
+(429) (442) Net investments in tangible and intangible assets
+40 44 Interest and other income 
+0 0 Investment in subsidiary
+(31) - Proceeds from sale of Property, Plant and Equipment
+(1) - Borrowings
+(807) - Dividend paid
+(9) (3) Interest paid on lease liabilities 
+(848) (3) Cash flow from financing activities
+685 681 Cash flow for the period
+6,162 5, 451 Cash and cash equivalents at the beginning of period
+Forex Fluctuations (37) 30
+Cash Acquired on ValueFirst Acquisition 0 0
+Cash and cash equivalents closing balance (1) 6,810 6, 162Condensed Cash 
+flow Q4 FY24
+Buy Back of shares 0 -
+1.Cash balance includes fixed deposits with maturity greater than twelve months cl assified under Non-Current Assets(389) (398) Cash flow from investing activitiess
+=== page 33 ===
+32 Investor Update Q4 FY24 and Full YearFY24 FY23 In ₹ Mn, unless otherwise stated
+7,563 6,249 Cash flow before changes in working capital
+(625) (2,350) Changes in working capital
+6,938 3, 899 Cash generated from operations 
+(1,039) (1,432) Taxes
+5.899 2,467 Cash flow from operating activities
+(1,588) (1,560) Net investments in tangible and intangible assets
+154 264 Interest and other income 
+(3,737) 0 Investment in subsidiary
+(5,141) (1,296) Cash flow from investing activitiess
+(48) 0 Borrowings
+(1,344) (1,086) Dividend paid
+(117) ( 68) Interest paid on lease liabilities 
+(1,509) (3,278) Cash flow from financing activities
+(750) (2107) Cash flow for the period
+7,116 8623 Cash and cash equivalents at the beginning of period
+Forex Fluctuations (61) 0
+Cash Acquired on ValueFirst Acquisition 506 0
+Cash and cash equivalents closing balance 6,810 7,116Condensed Cash 
+flow FY24
+- 600 Movement in Bank Balances
+Buy Back of shares 0 (2,124)
+1.Cash balance includes fixed deposits with maturity greater than twelve months cl assified under Non-Current AssetsProceeds from sale of Property, Plant and Equipment 31 -
+=== page 34 ===
+33 Investor Update Q4 FY24 and Full YearIn ₹ Mn, unless otherwise 
+stated Q3 FY24 Q4 FY24 Q4 FY23 ∆ %
+Operating cash flow 1,082 1,921 2,069 (0.1)
+Capital expenditure (442) (429) (597) (0.3)
+Free cash flow 640 1492 1,472 1.85
+Free cash flow in percent of 
+total revenue6% 15% 18% -
+Free cash flow as % of PAT 115% 123% - 46%Free 
+Cash Flow 
+=== page 35 ===
+34 Investor Update Q4 FY24 and Full YearIn ₹ Mn, unless otherwise 
+stated FY24 FY23 ∆ %
+Operating cash flow 5,899 139
+Capital expenditure (1,588) (1,560) (0.02)
+Free cash flow 4,311 907 375
+Free cash flow in percent of 
+total revenue11% 3% -
+Free cash flow as % of PAT 79% 20% -Free 
+Cash Flow FY242,467
+=== page 36 ===
+35 Investor Update Q4 FY24 and Full YearReconciliationIn ₹ Mn, unless otherwise 
+stated FY23 Q4 FY24 Q4 FY23 FY24
+Reported EBITDA 5,879 1604 1661 7,322
+One-time expense- MWC 38 273 38 273
+Adjusted EBITDA 5,917 1877 1,699 7,595
+Adjusted EBIT 5,453 1649 1,553 6,743
+Adjusted PAT 1361 1,233 5,542 4,506
+1.Adjusted PAT is normalized for the post tax impact for 2 items – (i) one- time expenditure of ₹ 273 MN incurred for Mobile World Congress 2024 and (ii) 
+Gain of Rs. 210 MN in Other Income pertaining to write back of liability 
+=== page 37 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+MWC24 Barcelona
+Tanla Hub at MWC24, Barcelona
+=== page 38 ===
+37 Investor Update Q4 FY24 and Full Year
+Tanla Experience Hub 
+@MWC 24, Barcelona
+Biggest Exhibit by an Indian company
+Over 200 visitors (in person) and 100,000 
+viewers (online)
+Attended by over 30 CXOs of leading 
+enterprises. The event was also attended by 
+regulators and analysts
+Hosting partners like Meta, Google, Truecaller , 
+and major telcos
+Panels Knowledge-packed with luminaries from 
+across geographies
+=== page 39 ===
+38 Investor Update Q4 FY24 and Full Year
+Scan QR for
+Case StudyLondon School of Business launched a 
+case study titled ‘ From Adversity to 
+Leadership- Tanla Platforms’ Journey to 
+Becoming India’s SaaS Titan ’.
+Launch of Case Study on Tanla by London 
+Business School
+London Business School unveils the Case Study on Tanla at the Tan la Hub, MWC24, Barcelona
+=== page 40 ===
+Celebrating launch of Messaging as a Platform ( MaaP ) for Google RBM
+=== page 41 ===
+40 Investor Update Q4 FY24 and Full Year
+#MWC24 Snapshots
+=== page 42 ===
+41 Investor Update Q4 FY24 and Full YearThe next generation of DLT is here: Tanla 
+launches Trubloq.ai
+Tanla aims to make digital commerce easier 
+for Indian SMBs with WhatsApp-based 
+solutionsTanla announced “Wisely ATP Spotlight” –  an 
+innovative citizen protection portal to fight 
+against online scams
+Scan QR to 
+know it all
+Groundbreaking Announcements
+=== page 43 ===
+42 Investor Update Q4 FY24 and Full Year
+Protecting 1Bn+ users from 
+Scam
+Reimagining Conversational 
+CommerceInfluential Insights – Exclusive Leadership Sessions at Tanla Hub
+=== page 44 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohi bited
+About Us
+Team Tanla at the Tanla Hub, MWC24, Barcelona
+=== page 45 ===
+44 Investor Update Q4 FY24 and Full YearWise AlbertOur intelligent core underlying all our products, revolutionizing digital interactions through Gen Al 
+capabilities
+Audience.ai 
+(whom to send)Channel & Partner.ai (how 
+to send)Content.ai 
+(what to send)
+Scam identification and 
+prevention in <50 ms through AI-
+ML led enginesTrubloq
+Registration.ai
+DigiAssets.ai
+•100% compliance with all 
+regulatory guidelinesWisely
+•90%+ time saving in the 
+registration process
+•1 single dashboard for digital 
+asset analyticsATP
+CTA engineSemantics engine
+Sender reputationSingle API-led intelligent platform for omni-channel digital interactions 
+to deliver distinctive impact for enterprises and their users
+Single 
+API 
+Partner 
+marketplace End- to-End 
+encryption 
+SSOT enabled 
+by blockchain Smart 
+routing 
+Integrated 
+plugins Performance 
+analytics 
+Core 
+stack GenAI to elevate Trubloq’s 
+signature experienceTanla embeds GenAI across all its platforms
+=== page 46 ===
+45 Investor Update Q4 FY24 and Full YearTotal addressable market (CY’23 to 27, USD Bn)
+Source: Tanla internal team analysis and estimates, Industry experts0.3
+2027 with new platforms (India)1.7-1.90.4-0.5
+1.3-1.4
+2023 (India)2.5-2.70.41.2-1.3
+4.1-4.53.7-3.93.5-3.9
+0.7-0.8
+2027 with new platforms 
+(Global - India+SEA+MENA)2-35-611-13Engage Communicate Experience ProtectThese platforms represent a Large & Growing TAM Opportunity
+=== page 47 ===
+46 Investor Update Q4 FY24 and Full YearATP
+First of its kind anti-smishing platform
+Identification
+ Prevention
+ EliminationTrubloq
+With world’s 1st blockchain-enabled communication stack. It 
+works with a consortium of telecom players and other 
+stakeholders to maintain the leadership position
+A. Govt &  its 
+institutions
+B. 
+EnterprisesC. 
+Telcos100% Compliance to address all legal 
+challenges
+Regulatory
+User 1Bn+ Users touched
+60–80% Reduction in complaints per Mn SMS 
+from telemarketers
+Business
+100%
+ Market share in UAE
+50k+ Enterprise partners3/4 Indian telcos served
+Source: Team analysisWe have also successfully addressed several Greenfield opportunities
+=== page 48 ===
+47 Investor Update Q4 FY24 and Full YearOur Customers love us in India and beyond
+~45% 
+NLD market share
+of total revenues contributed by 50 
+of our top 100 customers , retained 
+for more than 5 years50%+
+2000+       
+Customers across segmentsPlayer of choice in India 
+across industries leaders… and serve global giants in 4 
+regionsWe are the player of choice in India…
+7/10 top insurance9/10 top banks  served
+8/10top financial 
+services
+7/10 top social media
+marquee govt. projects
+This indicative data on market size has been arrived at basis our interna l analysis. This is our assessment and merely indica tive in nature and should not be relied upon
+USA & 
+Europe
+SEA
+Middle 
+East
+Global Tech giants
+=== page 49 ===
+48 Investor Update Q4 FY24 and Full YearOur Market Leadership in Enterprise Communication (1/2)
+Undisputed market leadership High Customer Stickiness
+Unmatched scale with 35% CPaaS market share
+‐5% increase post ValueFirst acquisition 
+‐~45% share in SMS NLD market50 of Top 100 accounts > 5 years  
+‐Double digit growth in every customer cohort since 
+inception
+‐100+ API’s integrations within a single enterprises  
+across different ecosystems
+Customized to serve enterprise needs
+‐Deeply integrated , with all major CRM systems across 
+verticals to enable omnichannel communication
+‐10,000  customized APIs to integrate with customers
+‐1000+ bank-specific use cases supportedLargest government partner
+‐Multiple  campaigns supportedPlayer of choice across industry
+‐2000+ customers across industries
+‐8 of Top 10 brands served across banking, Insurance, 
+Retail, E-Comm, Travel & Digital Natives
+This indicative data on market size has been arrived at basis our interna l analysis. This is our assessment and merely indica tive in nature and should not be relied upon
+=== page 50 ===
+49 Investor Update Q4 FY24 and Full YearOur Market Leadership in Enterprise Communication (2/2)
+Tech. backed use cases Newer Channels
+AI/ML based solutions developed for a leading 
+bank
+‐Impact: 
+2X increase in loyalty (offers availed) for the bank
+Context
+‐Automated  relevant promotional messages 
+based on user card swipe activity
+‐In house  ML capabilities leveraged to trigger 
+targeted offer to users basis transaction amount, 
+location, and card typeTurbo charging our growth 
+‐~3X  YoY growth in Q4 from WhatsApp
+Serving enterprise curated needs 
+‐Commerce on WhatsApp : Enabled  cab 
+booking over WhatsApp for a seamless 
+consumer journey
+=== page 51 ===
+50 Investor Update Q4 FY24 and Full Year
+Great Financial 
+Track Record
+We continue to 
+deliver over the 
+last five yearsAll figures in ₹ Mn
+10,040
+Revenues  201939,278
+Revenues  2024~4x
+967
+EBITDA  20197,322
+EBITDA  2024~8x
+298
+PAT 20195,483
+PAT 2024~18x
+50
+=== page 52 ===
+Thank You
+Follow us at:

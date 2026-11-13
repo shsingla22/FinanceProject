@@ -1,0 +1,326 @@
+ 
+ 
+Ref No:  RML/202 6-27/705  
+ 
+Date:  August 10, 202 6 
+ 
+To, 
+BSE  Limited  National  Stock  Exchange  of India  Limited  
+Scrip Code:  543228  Symbol:  ROUTE  
+ 
+Sub : Business Responsibility and Sustainability Report for the F inancial Year 202 5-26. 
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations & Disclosure Requirements) Regulations 2015, 
+please find enclosed the Business Responsibility and Sustainability Report (“BRSR”) for the financial year 202 5-
+26 which also forms part of the Annual Report  of the Company for financial year 202 5-26. 
+ The BRSR is also available on the Company’s website at www.routemobile.com.  
+ We request you to kindly take the above information on record for the purpose of dissemination to the 
+shareholders. 
+ 
+Thanking  you,  
+ 
+Yours  truly,  
+For Route  Mobile  Limited  
+ 
+ 
+  
+Tejas Shah  
+Company Secretary & Compliance Officer  
+ICSI Membership No: A34829  
+ Encl:  as above  
+ 
+Annexure-6
+BUSINESS RESPONSIBILITY &
+SUSTAINABILITY REPORT
+About Route Mobile Limited
+Route Mobile Limited (“RML” or “Route Mobile”) is a leading CPaaS provider that caters to enterprises, over-the-
+top (“OTT”) players, and mobile network operators (“MNO”). Our Omnichannel CPaaS stack includes Enhanced 
+Business Messaging, A2P Messaging, Roubot, OCEAN, Voice, Email, Digital Identity and Authentication 
+solutions for global enterprise clients. Our clients include some of the world’s largest and most well-known 
+organisations, including several Fortune Global 500 Companies.
+We offer cloud communication services to clients across diverse sectors, including Banking and Financial 
+Services, Aviation, Retail, E-commerce, Logistics, Healthcare, Hospitality, Media and Entertainment, 
+Pharmaceuticals and Telecom. Further, we offer SMS filtering, analytics, SMS firewall, SMSC, MMSC, and SMS 
+monetization solutions to MNO globally. One of our unique strengths is our network of 1000+ connected 
+operators, allowing us to provide SMS termination in any part of the world with the best routing.
+Established in 2004, we are serving more than 40,000 customers worldwide. Our goal is to add value at 
+multiple touchpoints across the Omnichannel CPaaS value chain while addressing unique industry use cases 
+for our clients. We are headquartered in Mumbai, India, and have operations in over 20 countries across Asia 
+Pacific, the Middle East, Africa, Europe, and the Americas. Route Mobile is now a part of Proximus Global, a 
+provider of digital services and communication solutions operating in Belgium and international markets.
+As our business grows, we're committed to making a positive impact on the environment, helping society, 
+and being transparent. We always blend our sustainability goals with our business plans, seeing our focus on 
+ESG as crucial for creating lasting value for everyone involved.
+This Business Responsibility and Sustainability Report includes our responses to questions on our practices and 
+performance on key principles defined by Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations 2015 (“SEBI Listing Regulations”), covering topics across environment, governance, 
+and stakeholder relationships. This report covers database on standalone basis unless otherwise specified.
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity L72900MH2004PLC146323
+2. Name of the Listed Entity Route Mobile Limited
+3. Year of incorporation 14/05/2004
+4. Registered office address SanRaj Corporate Park - 4th Dimension,  
+3rd Floor, Mind Space, Malad (West), Mumbai 
+400064, Maharashtra, India5. Corporate address
+6. E-mail ID investors@routemobile.com
+7. Telephone +91-022-4033 7676
+8. Website www.routemobile.com
+9. Financial year for which reporting is being done April 1, 2025 to March 31, 2026
+10. Name of the Stock Exchange(s) where shares are listed Listed on BSE Limited and National Stock 
+Exchange of India Limited. 
+11. Paid-up Capital C63,00,30,820 
+12. Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR report. Tejas Shah,
+Company Secretary & Compliance Officer  
+investors@routemobile.com
+Telephone number: 022 40337688
+13. Reporting boundary – Are the disclosures under this report made 
+on a standalone basis (i.e., only for the entity) or on a consolidated 
+basis (i.e., for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).Standalone basis unless otherwise specified.
+14. Name of assessment or assurance provider Not applicable 
+15. Type of assessment or assurance obtained Not applicable 
+79Corporate overview | Performance | Strategic overview | Sustainability | Statutory reports | Financial statements
+II. Products/ Services:
+16. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main Activity Description of Business Activity% of Turnover of  
+the entity
+1. Other information services activities  Omni-Channel CPaaS and CXPaaS 92.07%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. 
+No.Product/Service NIC Code% of total
+Turnover contributed
+1. Enterprise Communication Services like A2P messaging 63999 92.07%
+III. Operations:
+18. Number of locations where plants and/ or operations/ offices of the entity are situated:
+Location Number of plants Number of offices Total
+National
+Not Applicable10
+35
+International 25
+19. Markets served by the entity:
+  Our operations are spread across SE Asia, GCC region, Africa, LATAM, USA, UK and Europe. We have direct 
+presence in more than 20 countries.
+ a. Number of locations
+Locations Number
+National (No. of States) 4
+International (No. of Countries) 21
+ b. What is the contribution of exports as a percentage of the total turnover of the entity?
+  1 2 . 5 3 %
+ c. A brief on types of customers
+   We cater to customers across different business verticals. Majority of our customer base is Business 
+to Business (“B2B”). Our customer base encompasses a broad spectrum of industries, including 
+Retail, E-commerce, Banking, Finance, Healthcare, Travel, and Government entities, with a core 
+emphasis on fostering B2B connections and serving marquee clients. We empower enterprises 
+across these sectors through customized messaging and communication solutions to optimize 
+operations, enrich customer interactions, and fuel expansion.
+   Additionally, our services extend to MNOs, equipping them with tools to broaden network coverage, 
+unlock new revenue channels and enhance support for their enterprise clientele. We also support 
+resellers and aggregators, granting them access to our robust infrastructure and global network, 
+enhancing their capabilities to deliver comprehensive communication solutions to their clients.
+Route Mobile    |   Annual Report 2025-26
+80
+IV. Employees
+20. Details as at the end of Financial Year 2025 – 2026:
+ a. Employees and workers (including differently abled):
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+EMPLOYEES
+1. Permanent (D) 497 399 80.28 98 19.72
+2. Other than Permanent (E) 0 0 0 0 0
+3. Total employees (D+E) 497 399 80.28 98 19.72
+WORKERS
+4. Permanent (F)
+Company does not employ any Worker as defined under Section 2(zr) 
+of the Industrial Relations Code, 2020.5. Other than Permanent (G)
+6. Total workers (F+G)
+ b. Differently abled Employees and workers:
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D) 1 NA NA 1 100
+2. Other than Permanent (E) 0 NA NA 0 0
+3. Total differently abled 
+employees (D+E)1 NA NA 1 100
+DIFFERENTLY ABLED WORKERS
+4. Permanent (F)
+Company does not employ any Worker as defined under Section 2(zr) 
+of the Industrial Relations Code, 2020.5. Other than
+permanent (G)
+6. Total differently abled 
+workers (F+G)
+21. Participation/ Inclusion/ Representation of women
+Particulars Total (A)No. and percentage of Females
+No. (B) % (B/A)
+Board of Directors 6* 1 16.67
+Key Management Personnel 5* 0 NA
+ *Includes the Managing Director who is also the Key Managerial Personnel of the Company. 
+22. Turnover rate for permanent employees and workers
+FY 2025-26 FY 2024-25 FY 2023-24
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees13.3% 3.35% 16.75% 7% 2.89% 9% 14% 4% 18%
+Permanent 
+WorkersNot Applicable
+81Corporate overview | Performance | Strategic overview | Sustainability | Statutory reports | Financial statements
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding/ subsidiary/ associate companies/ joint ventures
+S.
+No.Name of the holding/
+subsidiary/ associate companies/ 
+joint ventures (A)Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture% of shares held by 
+listed entityDoes the entity 
+indicated at column 
+A, participate 
+in the Business 
+Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1. Refer to Annexure 1 to the Board’s report for information on holding/ subsidiary/ 
+associate companies/ joint ventures.No
+VI. CSR Details
+24. Whether CSR is applicable as per Section 135 of Companies Act, 2013: Yes
+a. Turnover (in C) 7,69,87,19,680
+b. Net worth (in C ) 13,25,17,40,743
+VII. Transparency and Disclosures Compliances
+25.  Complaints/ Grievances on any of the principles (Principles 1 to 9) under the National 
+Guidelines on Responsible Business Conduct:
+Stakeholder 
+group from 
+whom complaint 
+is receivedGrievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)FY 2025-26 FY 2024-25
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Communities
+Yes
+https://
+routemobile.
+com/ investors/
+corporate-
+policies/Nil Nil None Nil Nil None
+Investors 
+(other than 
+shareholders)Nil Nil None Nil Nil None
+Shareholders Refer to the "Investor complaints" section of the Corporate governance report 
+of this Annual Report for more information on the investor complaints that 
+have been received and resolved
+Employees and 
+workers
+NoneCustomers
+Value Chain 
+Partners
+Other (please 
+specify)
+Route Mobile    |   Annual Report 2025-26
+82
+26. Overview of the entity’s material responsible business conduct issues
+  (Please indicate material responsible business conduct and sustainability issues pertaining 
+to environmental and social matters that present a risk or an opportunity to your business, 
+rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial 
+implications, as per the following format)
+ • The materiality map for RML was developed by first identifying the sets of issues that were deemed 
+to be material for the Company basis the research on industry, peers, and the Company itself. This 
+list was then prioritized by the senior management to arrive at the final set of material issues for 
+the Company.
+S. 
+No.Material
+Issue identifiedIndicate 
+whether risk or 
+opportunityRationale for identifying the risk 
+or opportunityIn case of risk, 
+approach to adapt or 
+mitigateFinancial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1. Digital theft, 
+mobile security 
+and firewallOpportunity As with every passing day, more 
+and more people adopt and 
+shift to digital transactions, 
+theft and security issues have 
+also emerged; countries across 
+the globe have a sizeable elderly 
+population who may not be 
+very sophisticated in operating 
+phones and computers; this 
+offers an incredible opportunity 
+for RML through security/ 
+scanning offerings, thereby 
+leading to increasing revenue 
+from our curated service 
+offerings.NA Positive
+2. Talent pool Opportunity 
+and RiskIncreasing revenue from 
+service offerings from cutting 
+edge technology & products, 
+enabled by our talent pool; 
+this could also pose as threat 
+as the Company may lose in 
+talent retention if the millennial 
+talent pool is not provided with 
+satisfactory career programs 
+accompanied by industry 
+competitive facilities at work 
+place.Talent re-skilling, 
+attritionPositive:
+Given niche 
+talent pool, we 
+can emerge as a 
+preferred business 
+partner.
+3. Platform reliability Opportunity Our platform reliability creates 
+differentiation from competitor, 
+by ensuring high service 
+delivery.Strengthen 
+infrastructure, 
+implement 
+redundancy 
+measures, and 
+continuous 
+monitoring and 
+maintenanceNegative
+4. Business 
+ContinuityRisk Any downtime can result in 
+poor customer experience, and 
+potential customer loss.Develop 
+comprehensive 
+business continuity 
+plans, conduct 
+regular drills 
+and testing, and 
+establish backup 
+systemsNegative
+83Corporate overview | Performance | Strategic overview | Sustainability | Statutory reports | Financial statements

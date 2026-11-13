@@ -1,0 +1,88 @@
+ 
+ 
+  
+ 
+Date: January 20,  2026 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001 India  
+ National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400051 India  
+ 
+Scrip Code: 543529  
+ Symbol: DELHIVERY  
+Sub: Press Release - TransportOne by Delhivery Launches Autonomous TMS to Automate Logistics Via 
+AI Agents  
+ 
+Dear Sir/ Madam,  
+ 
+Please find enclosed herewith a copy of the press release titled  “TransportOne by Delhivery Launches 
+Autonomous TMS to Automate Logistics Via AI Agents ”. 
+ 
+The press release  will also be hosted on the Company’s website at www.delhivery.com . 
+ 
+You are requested to take the above on record.  
+ 
+Thank you.  
+ 
+Yours sincerely,  
+For Delhivery Limited  
+ 
+ 
+ 
+Madhulika Rawat  
+Company Secretary & Compliance Officer  
+Membership No.: F8765  
+ 
+ 
+Encl: As above  
+  
+ 
+ 
+ 
+ 
+TransportOne by Delhivery Launches Autonomous TMS to Automate Logistics Via AI Agents   
+ 
+The platform deploys specialized AI Agents to negotiate rates, plan shipments, and reconcile invoices, 
+allowing logistics teams to move from data visibility to an automated action  
+ 
+Bengaluru, January 20, 2026 : TransportOne by Delhivery today announced the launch of its 
+Autonomous Transport Management System (TMS) to Automate Logistics via AI Agents. With this 
+launch, enterprise shippers will have access to a logistics software platform that uses AI Agents to 
+negotiate rates, plan shipments, and reconcile invoices. The system aims to eliminate significant manual 
+workload by automating freight procurement, planning, execution, reconciliation and embedding 
+compliance directly into the wo rkflows. While traditional transportation management software (TMS) 
+digitizes operations, it typically requires constant human input. Delhivery TransportOne’s new approach 
+requires only to manage by exception.  
+ 
+“Traditional TMS platforms digitize transportation workflows, but they still rely on humans to operate 
+them —forcing users to work for the system rather than the system working for the user,” said Uday 
+Anand, Vice President of Product at TransportOne . “TransportOne by Delhivery’s TMS runs those 
+workflows autonomously. System’s AI Agents plan, negotiate, monitor, and validate freight in the 
+background, escalating only true exceptions. Users shift from operating the system to supervising 
+outcomes.”  
+ 
+The platform employs a multi -agent design to handle specific transportation functions. Procurement 
+Agents manage spot auctions and carrier selection, while Execution Agents monitor shipments and 
+proactively resolve delays. Finally, Invoice Agents validate freight bills by reconciling contracts, GPS data, 
+and proof of delivery.  
+ 
+Unlike traditional automation, these agents dynamically make decisions to reduce revenue leakage 
+caused by rate deviations and billing errors. The offering also removes the need for complex dashboards. 
+Users interact with the system through Microsoft Teams  and WhatsApp, using natural language to issue 
+commands and receive recommendations. The platform positions itself not as a visualization tool, but 
+as an autonomous operator that functions quietly in the background, involving humans only when 
+judgment is r equired.  
+ 
+For more information, visit: https://www.delhivery.com/services/transportone   
+ 
+About Delhivery: Delhivery is India's largest fully -integrated logistics services provider. With its 
+nationwide network covering close to 19,000 pin codes, the company provides a wide range of logistics 
+services such as express parcel transportation, PTL freight, TL freigh t, cross -border, supply chain, and 
+technology services. Delhivery has successfully fulfilled over 4.0 billion shipments since inception and 
+today works with over 48K+ customers, including large & small e -commerce participants, SMEs, and 
+other enterprises & brands. For more information about Delhivery, please visit www.delhivery.com . 

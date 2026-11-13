@@ -1,0 +1,259 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+ 
+TCS/BM/ 6/SE/2026- 27 
+ 
+April  9, 2026 
+ 
+National Stock Exchange of India Limited    BSE Limited  
+Exchange Plaza, C -1, Block G, Bandra Kurla  P. J. Towers,      
+Complex, Bandra (East)      Dalal Street,  
+Mumbai -  400051                                                              Mumbai -  400001    
+Symbol -  TCS                                                              Scrip Code No. 532540 
+    
+ Dear Sirs,  
+ Sub:    Press Release  
+ Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are enclosing herewith a copy of a Press Release which will be disseminated shortly. The Press Release is self -explanatory.  
+ 
+The above information is also available on the website of the Company: www.tcs.com   
+ Thanking you,  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388 
+ 
+Encl:  As above  
+ 
+ 
+ 
+Page 1 of 14 
+ 
+  Ind-AS & IFRS ₹  
+ 
+ 
+TCS closes  FY26 with Improving Sequential Growth Momentum and Strong Deal 
+Wins  
+ 
+• 4QFY26 Revenue ₹ 70,698  crore , Growth +5.4 % QoQ;  +1.2% QoQ in CC  
+ 
+• FY 26 Revenue ₹267,021  crore , Growth + 4.6% YoY , -2.4% in CC  
+ 
+• Annualized AI Revenue crosses  US$ 2.3 billion  in Q4FY26  
+ 
+• FY26 Operating Margin * at 25% ; up 70 basis points YoY  – highest operating margin in last 4 years  
+ 
+• FY26 Net Margin * at 19.8 %; up 80 basis points YoY  – highest net margin in last 4 years  
+ 
+• Strong TCV performance at $ 40.7 billion  for FY2 6 and at $12 billion  for Q 4, among the highest TCV 
+ever ; with 3 mega deals  for the quarter and 5 mega deals for the year  
+ 
+• Healthy client addition across revenue bands :  
+o $100M+ up by 2 YoY, number of clients increased to 66;  
+o $50M+ up by 9 YoY, number of clients increased to 139;  
+o $1M+ up by 65 YoY, number of clients increased to 1,397  
+ 
+MUMBAI, April 9, 2026: Tata Consultancy Services (BSE: 532540, NSE: TCS) reported its consolidated financial results according to Ind AS and IFRS, for the quarter and full year ending March 31, 2026.  
+ 
+FY202 6: Annual Highlights  Q4FY26: Quarterly Highlights  
+• Employee Headcount: 584,519  
+• Talent Development:  
+o 69 million  Learning Hour s, up 23%  YoY 
+o 5.2 million  Competencies Acquired  
+o 270k+  with higher proficiency in AI/ML  
+• Final Dividend (proposed): ₹ 31 per share, to be 
+approved at the Annual General Meeting ;  
+FY26 Shareholder payout of ₹39,571  crore  in 
+the form of dividends  • Revenue at ₹ 70,698  crore , +5.4%  QoQ   
+o Growth led by ERU (+6.1 %), and CBG 
+(+2.8%) QoQ in CC   
+o Amongst markets, growth led by UK 
+(+2.4% ); North America (+1.4%) QoQ in CC  
+• Operating Margin: 25.3 %, +10 basis points 
+QoQ * 
+• Net Margin: 19.4 %, EPS grew  12.2 % YoY * 
+• Strong Cash conversion: Operating Cash Flow 
+106.7%  of Net Income  
+*Excludes one -offs 
+ 
+ TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 2 of 14 
+ 
+ 
+K Krithivasan, Chief Executive Officer and Managing Director, said “We are pleased to report the third consecutive quarter of sequential growth, supported by three mega deals and a $12 billion TCV, underscoring the strength of our five pillar strategy and our AI  led positioning across services. It is equally encouraging that 
+this momentum was broad  based  across major markets and most industries. While the macro -economic 
+headwinds continue , we see sustained customer conviction in technology investments, whic h positions us well 
+for the opportunities ahead.”  
+ Aarthi Subramanian, Executive Director - President and Chief Operating Officer, said  "FY26 marked a pivotal 
+year for enterprise AI adoption. In Q4, our annualized AI revenues surpassed $2.3 billion, driven by the 
+accelerated deployment of AI solutions. We experienced strong deal momentum across new services in Enterprise Transformation, Digital Engineering, and Cloud Modernization. Our investment in HyperVault was a catalyst in forging strategic partnerships with OpenAI, AMD and ABB, further strengthening our positioning across Infrastructure -to-Intelligence.”  
+ Samir Seksaria, Chief Financial Officer,  said, “In FY26 , we intensified investments through  our Build –Partner –
+Acquire approach, by acquiring  Coastal Cloud & List Engage and establishing HyperVault. Even as we scaled 
+our investment s in AI‑led growth opportunities, our margins expanded by 70 basis points, reflecting our strong 
+operational rigor. Our solid cash flow and resilient balance sheet position us to advance strategic priorities, pursue timely investments, and maximize growth. ” 
+ 
+  Sudeep Kunnumal , Chief HR Officer , said “We are pleased to implement annual salary increases across all 
+grades effective 1st April. In Q4, we continued to invest in a future ‑ready workforce with strong additions 
+across experienced talent and campus hires. Building an AI ‑first culture and equipping our people with 
+AI‑ready skills remained a key priority in FY26 and will continue into FY27, as we align closely with our 
+customers ’ evolving needs. ” 
+  TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 3 of 14 
+ 
+ 
+ 
+Q4 and Full Year  Segment Highlights  
+ 
+Growth by Domain  
+ 
+  Growth by Markets
+ 
+ 
+ Key Highlights for the quarter  
+ 
+• Entered a strategic collaboration with  AMD , a leader in high -performance and AI computing, on the 
+co-development of industry -specific AI and GenAI solutions by combining TCS’ deep domain expertise, 
+systems integration capabilities and global innovation ecosystem with AMD’s high -performance 
+computi ng and AI product portfolio. Together, the companies will help enterprises modernize hybrid 
+cloud and edge environments, deploy AI -powered workplace solutions, and accelerate innovation 
+across cloud -to-edge workloa ds.  
+Expanding the collaboration, TCS HyperVault and AMD  will co -develop a rack -scale AI infrastructure 
+design based on the AMD “Helios” platform and both companies will offer an AI -ready data center 
+blueprint supporting up to 200 MW of capacity and will work with hyperscalers and AI companies to 
+accelerate data center build -outs in India to support sovereign AI initiatives.  
+ Vertical (%) Q4 FY25 Q3 FY26 Q4 FY26Q-o-Q 
+CC GrowthY-o-Y
+CC GrowthFY25 FY26YoY 
+CC Growth
+BFSI 31.2 31.9 31.6  0.1  0.4 30.9 32.0  1.0
+Consumer Business 15.3 15.4 15.7  2.8  0.8 15.3 15.51 - 2.0
+Life Sciences & Healthcare 10.1 10.5 10.4  0.4  3.3 10.4 10.41 - 1.8
+Manufacturing 8.4 8.8 8.8  1.2  3.1 8.5 8.78 - 0.2
+Technology & Services 8.1 8.4 8.4  1.0  2.5 8.1 8.42  2.2
+Communication & Media 5.8 5.9 5.8 - 0.4 - 2.1 5.9 5.83 - 4.7
+Energy, Resources and Utilities 5.7 6.0 6.3  6.1  7.3 5.7 6.03  3.1
+Regional Markets & Others 15.4 13.1 13.0  1.2 - 12.8 15.2 13.07 - 14.9
+Total 100.0 100.0 100.0  1.2 - 0.6 100.0 100.0 -2.4
+Geography (%) Q4 FY25 Q3 FY26 Q4 FY26Q-o-Q 
+CC GrowthY-o-Y
+CC GrowthFY25 FY26YoY 
+CC Growth
+Americas
+North America 48.2 48.5 48.5  1.4  2.5 48.2 48.6 0.2
+Latin America 1.8 2.0 1.9 - 6.9 - 2.9 1.9 1.9 0.9
+Europe
+UK 16.8 16.9 17.2  2.4 - 1.2 16.8 17.4 -1.9
+Continental Europe 14.3 15.6 15.6  1.0  1.0 14.3 15.4 -0.9
+Asia Pacific 8.1 8.3 8.3 - 0.5  0.4 8.0 8.3 2.4
+India 8.4 6.1 6.0  1.7 - 23.0 8.6 5.9 -28.6
+MEA 2.4 2.6 2.5  0.4  7.8 2.2 2.5 9.5
+Total 100.0 100.0 100.0 1.2 -0.6 100.0 100.0 -2.4TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 4 of 14 
+ 
+ 
+• Announced a multi -dimensional strategic partnership with OpenAI, that spans multiple high -impact 
+areas, including powering AI- led innovation across Tata Group companies, joint efforts to drive AI 
+transformation across industries globally, setting up AI infrastructure  and social impact . 
+TCS’ HyperVault  and OpenAI  have agreed to a multi -year partnership to develop AI infrastructure in 
+India , with 100MW capacity  in the initial phase , and an option to scale to 1 GW. This infrastructure 
+will power next -generation AI workloads and position India as a global AI hub.  
+• Signed a Memorandum of Understanding (MoU) with  ABB  to strengthen the two companies’ strategic 
+collaboration across IT infrastructure and applications, digital and industrial AI initiatives, data centres, 
+and other emerging technologies.   
+• TCS and Honeywell announced a strategic partnership to help building operators move from 
+traditional automation to enterprise -wide autonomy. By combining TCS’ IT modernization, cloud, and 
+consulting capabilities with Honeywell’s expertise in operational technology and AI -driven analytics, 
+the collaboration aims to deliver real- time intelligence and improved operational efficiency.  
+• Signed a multi -year partnership with  ServiceNow  for develop ing trusted, AI -powered solutions on the 
+ServiceNow platform to reimagine back -office functions such as HR, finance, supply chain, 
+procurement, and employee services. These solutions will enhance workflow efficiency, governance, and insight -driven decision -making, and will be delivered through TCS’ AI -led global business solutions 
+portfolio.  
+• Introduced Rapid Outcome AI platform built on NVIDIA  to help organizations accelerate their journey 
+from AI experimentation to scalable, real- world business outcomes . By leveraging predictive analytics, 
+generative AI, computer vision, and agentic and Physical AI blueprints tailored for industry -specific 
+processes, TCS and NVIDIA will help enterprises achieve higher levels of autonomy across their enterprise workflows.  
+• Entered into a s trategic alliance  with  Cisco  to launch a Center of Excellence (CoE) in Hyderabad for 
+Autonomous Enterprise Operations , to help enterprises move from rule -based automation to 
+intelligent, self-governing operations that understand the context in real -time and take actions on 
+their own. By enabling Zero -touch operations, the CoE will help organisations reduce complexities in 
+operation and deliver exponential business outcomes by eliminating friction in their existing IT environment.  
+• Established a collaboration  with GitLab Inc., the intelligent orchestration platform  for DevSecOps, to 
+combine TCS’ expertise in AI -led enterprise transformation capabilities with GitLab's pre -built AI 
+agents and intelligent orchestration for software development. Together, TCS and GitLab will enable customers to accelerate software deliv ery, enhance security, and orchestrate AI agents across the 
+entire software development lifecycle (SDLC) within their organization's full context, standards, and guardrails . 
+• Announced the launch of TCS Workspace Experience Studio engineered with Zscaler Digital Experience
+TM (ZDXTM), which will help TCS to redefine enterprise digital workspaces for customers by 
+integrating Zero Trust security, observability, and AI- powered experience analytics, delivering a truly 
+seamless, resilient, and proactive digital environment for their workforce.  
+ 
+ TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 5 of 14 
+ 
+ 
+• Launched seventh Gemini Experience Center (GEC)  at TCS Innovation Hub in Troy, Michigan , in 
+partnership with Google Cloud , to enable global manufacturers to co -innovate  and scale AI -led 
+solutions for smarter, resilient operations.   
+• TCS has announced a significant expansion of its long- standing partnership with leading UK based 
+telecom operator . This five -year contract will see TCS lead the operator's comprehensive IT 
+transformation journey for its consumer business, leveraging advanced AI, Cloud, and Digital 
+Engineering capabilities. The expansion, built on years of trusted partnership and demo nstrated 
+delivery, will see TCS take end -to-end responsibility for running the entire IT systems of the operator's 
+consumer base and become its  strategic technology partner, consolidating entire landscape previously 
+spread across multiple service providers.  
+ 
+• TCS & Marks & Spencer (M&S)  have renewed their multi ‑year strategic partnership. This continuing 
+engagement builds on the more than a decade -long trusted partnership between the two 
+organisations and will see TCS continue to serve as M&S ’s strategic technology partner as the retailer 
+embeds its technology transformation. As part of this continuing partnership, TCS will support M&S as it transforms to become an omnichannel, data‑ driven retailer supported by globally best -in-class 
+modern technologies. TCS will utilise AI in its transformation approach —supported  by its extensive 
+domain expertise and one of the world’s largest AI talent pools. This will support future -readiness, 
+provide the right base for long‑ term growth, and create superior customer experience.  
+ 
+• TCS has entered into a five ‑year, multi‑ million ‑dollar strategic partnership with a leading U.S. -based 
+retail and pharmacy chain to drive large ‑scale, enterprise ‑wide transformation. The engagement 
+focuses on modernizing core technology platforms, strengthening retail and pharmacy business, improve operational resilience, and advancing digital, data, and AI ‑led capabilities. The partnership 
+also establishes Global Capability Centers as a strategic foundation to enable long ‑term 
+transformation, intellectual property creation, and sustained value realization for the customer.  
+ 
+• A leading UK Financial Services organisation has renewed its strategic partnership with TCS for an 
+additional five years, extending a relationship of more than 15 years. The renewed engagement aligns with the organisation’s focus on operational resilience, seamless integration, and the responsible adoption of AI and digital capabilities while continuing to provide industry -leading service to its 
+customers. As a strategic partner, TCS will continue to support transformation across the client’s Retail and SME Banking businesses, leveraging AI ‑enabled a utomation, analytics, and digital engineering to 
+deliver a secure, resilient, and scalable technology environment. The renewal reinforces TCS’ role as a 
+trusted long‑ term transformation partner with deep BFSI expertise.  
+ 
+• Selected by a leading bank in Philippines  as a strategic partner for a large -scale IT infrastructure and 
+operations transformation. As part of this multiyear engagement, TCS will deliver end -to-end 
+infrastructure managed services spanning Service Integration and Management (SIAM), cloud enablement and operations, data center and network services, end  user computing, platform services 
+(mainframe and open systems), service resiliency, and security operations. The engagement will bring TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 

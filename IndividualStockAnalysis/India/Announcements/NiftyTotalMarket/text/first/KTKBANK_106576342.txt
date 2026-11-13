@@ -1,0 +1,307 @@
+  
+    
+  
+HO:SEC:  319  :2025 -26                                                                                         Date: 31.03.2026                                                                                                                                         
+   
+The Manager  
+Listing Department  
+National Stock Exchange of India Limited  
+Exchange Plaza,C -1, Block G  
+Bandra -Kurla Complex, Bandra (E)  
+MUMBAI  - 400051  The Manager  
+Corporate Relationship Dep artment  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+MUMBAI  - 400001  
+ 
+NSE Scrip Code: KTKBANK  BSE Scrip Code: 532652  
+ 
+ 
+Madam / Dear Sir , 
+ 
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 – Amendments to the Code of Practices & 
+Procedures for Fair Disclosure of Unpublished Price Sensitive Information and 
+Code of Conduct for Prohibition of Insider Trading and Hand ling of 
+Unpublished Price Sensitive Information  
+ 
+Pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015 and Regulation 30 
+and other applicable provisions of the SEBI (Listing Obligations and Disclosure 
+Requirements ) Regulations, 2015 , we inform that the Board of Directors of the Bank at 
+its Meeting held on Friday, March  27, 2026, have  considered and approved the 
+following (copy enclosed):  
+ 
+1. Code of Practices and Procedures for Fair Disclosure of Unpublished Price 
+Sensitive Information  
+2. Code of Conduct for Prohibition of Insider Trading and Handling of 
+Unpublished Price Sensitive Information  
+ 
+The copy of the amended codes  can also be accessed from the below mentioned web -
+link of the Bank : https://www.karnatakabank.bank.in/investors/policies -codes  
+ 
+This is for your information and dissemination . 
+ 
+Yours faithfully,  
+ 
+ 
+Sham K  
+Company Secretary  &  
+Compliance Officer    Karnataka Bank Ltd.  
+ Your Family Bank . Across India.  
+Regd. & Head Office  
+P. B. No.599, Mahaveera Circle  
+Kankanady  
+Mangal uru – 575 002  
+ Phone  : 0824 -2228 182  
+E-Mail : comsec@ktkbank.com   
+Website  : www.karnatakabank.bank.in  
+CIN : L85110KA1924PLC001128  
+ 
+SECRETARIAL DEPART MENT 
+ 
+ 
+ 
+1 
+ Karnataka Bank Ltd.  
+                                                                                                                                                             Your Family Bank, Across India  
+                                               Regd. & Head Office                 Phone  : 0824 -2228222  
+                             P. B. No.599, Mahaveera Circle      E-Mail : comsec@ktkbank.com  
+                                                              Kankanady    Website  : www.karnatakabank.bank.in  
+                                              Mangaluru – 575 002  CIN : L85110KA1924PLC001128                                                                                                                     
+SECRETARIAL DEPARTMENT  
+ 
+CODE OF PRACTICES & PROCEDURES FOR FAIR DISCLOSURE OF UNPUBLISHED 
+PRICE SENSITIVE INFORMATION  
+ 
+CODE OF CONDUCT FOR PROHIBITION OF INSIDER TRADING AND HANDLING 
+OF UNPUBLISHED PRICE SENSITIVE INFORMATION  
+ 
+ 
+VERSION CONTROL  
+ 
+ 
+Version  Date of Review  Approved by  
+V1.0  28.03.2015  Board  
+V2.0  23.04.2016  Board  
+V3.0  30.04.201 9 Board  
+V4.0  24.04.2020  Board  
+V5.0  29.06.2021  Board  
+V6.0  14.03.2022  Board  
+V7.0  28.03.2024  Board  
+V8.0  13.08.2024  Board  
+V9.0  27.03.2025  Board  
+V10.0 27.03.2026  Board  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+2 
+ INDEX  
+ 
+Sl. No. Contents  Page No.  
+Code of Practices & Procedures for Fair Disclosure of Unpublished 
+Price Sensitive Information  
+1.  Preamble  3 
+2.  Timing of disclosure  3 
+3.  Designation of Chief Investor Relations 
+Officer  3-4 
+4.  Response to the queries  4 
+5.  Discussion with Analysts/ Investors  4 
+6.  Sharing of information for legitimate 
+purpose  4 
+7.  Other matters  4 
+Code of Conduct for Prohibition of Insider Trading and Handling of 
+Unpublished Price Sensitive Information  
+8.  Objectives and scope of the Code  5 
+9.  Definitions  5 – 10 
+10.  Restriction on communication of UPSI  10 -11 
+11.  Need to know and ‘Chinese Wall’ procedure  11 -13 
+12.  Trading restrictions  13-14 
+13.  Pre-clearance of Trades  14 -15 
+14.  Trade plans  15 -16 
+15.  Disclosure of trading by Insiders  16 -17 
+16.  Disclosure by other Connected Persons  17 -18 
+17.  Duties of the Compliance Officer  18 
+18.  Code of Conduct to Regulate, Monitor and 
+Report Trading by Designated Persons 
+where Bank is an Intermediary and/or 
+Fiduciary:  19 
+19.  Review of the policy  19 
+20.  Violations, contraventions and penalties  20-21 
+21.  Whistle Blowers  22 
+22.  Protection against retaliation and 
+victimization  22 
+23.  Annexures  23-36 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ Karnataka Bank Ltd.   
+                                                                                                                                        Your Family Bank, Across India  
+                                               Regd. & Head Office                 Phone  : 0824 -22282 22  
+                             P. B. No.599, Mahaveera Circle      E-Mail : comsec@ktkbank.com  
+                                                              Kankanady    Website  : www.karnatakabank.bank.in  
+                                              Mangaluru – 575 002  CIN : L85110KA1924PLC001128                                                                                                                     
+SECRETARIAL DEPARTMENT  
+ 
+ 
+CODE OF PRACTICES & PROCEDURES FOR FAIR DISCLOSURE OF UNPUBLISHED 
+PRICE SENSITIVE INFORMATION  
+ 
+PREAMBLE  
+The Securities and Exchange Board of India (SEBI) has notified SEBI (Prohibition of Insider 
+Trading) Regulations, 2015 (hereinafter referred to as ‘Regulations’) repealing the 
+Regulations issued earlier. These Regulations contain comprehensive Code for regulat ing the 
+disclosure, monitor & report trading by insiders within the Bank for directors and designated 
+persons and their immediate relatives which needs to be followed while dealing in the 
+securities of the Company.  
+ 
+In accordance with the Regulation 8(1) read with Schedule A of the Regulations stated above, 
+the Bank has put in place this “Code of Practices and Procedures for Fair Disclosure of 
+Unpublished Price Sensitive Information” (hereinafter referred as “Code of Practices”), 
+which elaborates the principles and practices of the Bank in dealing with fair disclosure of 
+unpublished price sensitive information and timing etc.  
+ 
+1. TIMING OF DISCLOSURE:  
+ 
+a) The Bank shall ensure to disclose unpublished price sensitive information (UPSI) that 
+would impact price discovery no sooner than credible and concrete information comes 
+into being in order to make such information generally available to the public 
+promptly.  
+ 
+b) The Bank, being a listed entity, shall adhere to the timelines prescribed in the SEB I 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, while making 
+disclosure of unpublished price sensitive information to the public.  
+ 
+c) In order to avoid selective disclosure, Bank shall, while disclosing the unpublished 
+price sensitive i nformation, ensure that such information is uniform and universal 
+nature and it will be disseminated to the public at the same time.  
+ 
+d) In case of any information disclosed selectively, inadvertently or otherwise, the Bank 
+shall ensure prompt dissemination of the unpublished price sensitive information as 
+soon as practically possible to make such information generally available.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+4 
+ 2. DESIGNATION OF CHIEF INVESTOR RELATIONS OFFICER:  
+The Company Secretary of the Bank is designated as the Chief Investor Relations Officer 
+to deal with dissemination of information and disclosure of unpublished price sensitive 
+information and the details of the present incumbent are as under:  
+ 
+Name of the Officer  : Mr. Sham K  
+Designation   : Company Secretary  & Compliance Officer  
+Office Address                 : The Karnataka Bank Ltd., Regd & Head Office,  Post Box  No.: 
+599, Mahaveera Circle, Kankanady, Mangaluru - 575002  
+Contact Details   : 0824 -2228222     Email: investor.gr ievance@ktkbank.com  
+ 
+3. RESPONSE TO TH E QUERIES:  
+The Bank’s Compliance Officer shall provide appropriate and fair response to the queries 
+on news reports and requests for verification of market rumors  by regulatory authorities.  
+ 
+4. DISCUSSION WITH ANALYSTS  / INVESTORS:  
+ 
+a) The Bank shall, while conducting audio  / video conference with analysts  / research 
+personnel, ensure to discuss and  / or disseminate such information which are not 
+unpublished price sensitive information.  
+ 
+b) To ensure confirmation of fair and transparent sharing of information, the Bank will 
+post on its website the transcripts and records of proceedings of group meetings with 
+analysts / other investor relations conferences as stated in Guidance Note dated 
+29.07.2022 on Analyst  / Institutional Investors meet issued by NSE and BSE.  
+ 
+5. SHARING OF INFORMATION FOR LEGITIMATE PURPOSE:  
+The Bank may from time to time be required to share unpublished price sensitive 
+information for legitimate purposes, including in the ordinary course of business, with 
+partners, collaborators, lenders, custo mers, suppliers, merchant bankers, legal advisors, 
+auditors, insolvency professionals or other advisors or consultants, legitimacy of which 
+will be evaluated on case to case basis provided that such sharing has not been carried 
+out to evade or circumvent t he prohibitions of the SEBI (Prohibition of Insider Trading) 
+Regulations, 2015. Where such information has been shared with any person as 
+mentioned above such persons shall be considered as “insider” for the purpose of this 
+Regulation and due notice shall be given to such persons to maintain the confidentiality 
+of such unpublished price sensitive information.  
+ 
+6.  OTHER MATTERS:  
+ 
+Bank has put in place a “ Code of Conduct for Prohibition of Insider Trading and Handling 
+of Unpublished Price Sensitive Information ” inter -alia permitting the sharing of 
+unpublished price sensitive information on a “need -to-know” basis also.  
+ 
+ 
+5 
+ Karnataka Bank Ltd.   
+                                                                                                                                        Your Family Bank, Across India  
+                                               Regd. & Head Office                 Phone  : 0824 -2228222  
+                             P. B. No.599, Mahaveera Circle      E-Mail : comsec@ktkbank.com  
+                                                              Kankanady    Website  : www.karnatakabank.bank.in  
+                                              Mangaluru – 575 002  CIN : L85110KA1924PLC001128                                                                                                                     
+SECRETARIAL DEPARTMENT  
+ 
+CODE OF CONDUCT FOR PROHIBITION OF INSIDER TRADING AND HANDLING OF 
+UNPUBLISHED PRICE SENSITIVE INFORMATION   
+ 
+ 
+1.0 OBJECTIVES AND SCOPE OF THE CODE:  
+ 
+The Code  of Conduct for Prohibition of Insider Trading and Handling of Unpublished Price 
+Sensitive Information (hereinafter referred as “the Code”)  is formulated in compliance with the 
+SEBI (Prohibition of Insider Trading) Regulations, 2015  (PIT Regulations) as a mended, and will 
+govern the framework for the following:  
+1. Trading in the Bank’s securities and also the manner of reporting of trading in securities of the 
+Bank by insiders ; 
+2. Restriction on trading by insiders with respect to securities of other companies fo r which the 
+Bank is acting as Intermediary or Fiduciary ; and 
+3. Manner of handling of and responsibilities associated with Unpublished Price Sensitive 
+Information  (UPSI ). 
+ 
+Adherence to the Code by the Insiders referred to in this Code is mandatory.  
+ 
+2.0 DEFINITIONS:  unless the context otherwise requires:  
+ 
+i.  Bank  means The Karnataka Bank L imite d 
+ii.  Compliance Officer  The Company Secretary of the Bank is designated as the 
+Compliance Officer for ensuring compliance and 
+implementation of Code under the overall supervision of the 
+Board of Directors of the Bank or Managing Director & CEO.  
+iii.  Connected Person  a. any person who is or has been , during the six months prior 
+to the concerned act, associated with a company, in any ca-
+pacity, directly or indirectly , including by reason of fre-
+quent communication with its officers or by being in any 
+contractual, fiduciary or employment relationship or by be-
+ing a director, officer or an employee of the company or 
+holds any position including a professional or business re-
+lationship , whether temporary or permanent, with the com-
+pany , that allows such a person, directly or indirectly, ac-
+cess to unpublished price sensitive information or is reason-
+ably expected to allow such access.”  
+b. Without prejudice to the generality of the foregoing, the 
+persons falling within the following categories shall be 
+deemed to be connected persons unless the contrary is es-
+tablished,  - 
+i. a relative of connected persons specified in clause (a);  or 
+ii. a holding company or associate company or subsidiary 
+company; or  

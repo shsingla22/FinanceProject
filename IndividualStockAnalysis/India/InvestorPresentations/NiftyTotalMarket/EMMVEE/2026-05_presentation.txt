@@ -1,0 +1,971 @@
+
+=== page 1 ===
+ 
+ To, 
+ 
+BSE Limited  
+BSE Scrip Code:  544608  National Stock Exchange of India Limited  
+NSE Scrip Symbol:  EMMVEE  
+ 
+Dear Sir/Ma’am,  
+ 
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements)  Regulations 2015 - Investors Presentation on Q 4 & FY26  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015,  we are enclosing herewith a copy of Q 4 & FY26 Investor Presentation of 
+the Company for the quarter  and year  ended March 31 , 202 6. 
+ 
+The same will also be available on the website of the Company  at 
+https://www.emmveepv.com/investors . 
+ 
+This is for your kind information and dissemination.  
+ 
+Thanking You,  
+ 
+For and on behalf of Emmvee Photovoltaic Power Limited  
+(Formerly known as Emmvee Photovoltaic Power Private Limited)  
+  
+ 
+ 
+ 
+Shailesha Barve  
+Company Secretary and Compliance Officer  
+Membership Number: A50601  
+ 
+Date: April 28 , 2026  
+Place: Bengaluru  
+=== page 2 ===
+EMMVEE PHOTOVOLTAIC 
+POWER LTD
+Investor Presentation | Q4 & FY2026
+
+=== page 3 ===
+Disclaimer
+2Safe Harbour Statement
+This Release / Communication, except for the historical information, may contain statements, including the words or phrases 
+such as ‘expects, anticipates, intends, will, would, undertakes, aims, estimates, contemplates, seeks to, objective, goal, pr ojects, 
+should’ and similar expressions or variations of these expressions or negatives of these terms indicating future performance or 
+results, financial or otherwise, which are forward looking statements. 
+These forward -looking statements are based on certain expectations, assumptions, anticipated developments and other factors 
+which are not limited to, risk and uncertainties regarding fluctuations in earnings, market growth, intense competition and t he 
+pricing environment in the market, consumption level, ability to maintain and manage key customer relationship and supply 
+chain sources and those factors which may affect our ability to implement business strategies successfully, namely changes 
+in regulatory environments, political instability, change in international oil prices and input costs and new or changed prio rities 
+of the trade. The Company, therefore, cannot guarantee that the forward -looking statements made herein shall be realised . 
+The Company, based on changes as stated above, may alter, amend, modify or make necessary corrective changes in any 
+manner to any such forward looking statement contained herein or make written or oral forward -looking statements as may be 
+required from time to time on the basis of subsequent developments and events. The Company does not undertake any 
+obligation to update forward looking statements that may be made from time to time by or on behalf of the Company to reflect 
+the events or circumstances after the date hereof.
+=== page 4 ===
+Table of Contents
+301Financial and Operational Performance
+02Company Overview
+03Industry Overview
+04Historical Financial Statements
+05Data Book
+
+=== page 5 ===
+Financial and 
+Operational Performance
+
+=== page 6 ===
+Key Highlights
+5
+*Net Debt and Equity as on 31 March 2026
+ROCE and ROE are for FY269.3 GWRevenue from Operations
+50,499 INR mn  
+EBITDA
+17,344 INR mn
+PAT
+10,816 INR mn
+EBITDA Margin | PAT Margin
+34%  |  21% Net Debt / Equity 
+(0.06)x
+ROCE
+38% Order BookModules
+16.3 GW
+Cells
+8.9 GW FY26 result snapshot Strong Balance Sheet*FY28 Target Annual Installed 
+Capacity
+ROE
+51%9.4 GW
+Order inflow for Q4FY26: 1.27 GW
+=== page 7 ===
+3,69010,816 16%21%
+FY25 FY267,21917,34431%34%
+0%10%20%30%40%50%60%70%80%
+02004006008001,0001,2001,4001,6001,8002,0002,2002,4002,6002,8003,0003,2003,4003,6003,8004,0004,2004,4004,6004,8005,0005,2005,4005,6005,8006,0006,2006,4006,6006,8007,0007,2007,4007,6007,8008,0008,2008,4008,6008,8009,0009,2009,4009,6009,80010,00010,20010,40010,60010,80011,00011,20011,40011,60011,80012,00012,20012,40012,60012,80013,00013,20013,40013,60013,80014,00014,20014,40014,60014,80015,00015,20015,40015,60015,80016,00016,20016,40016,60016,80017,00017,20017,40017,60017,80018,00018,20018,400
+FY25 FY263,6074,1345,71134%36%33%
+0%10%20%30%40%50%60%70%80%
+02004006008001,0001,2001,4001,6001,8002,0002,2002,4002,6002,8003,0003,2003,4003,6003,8004,0004,2004,4004,6004,8005,0005,2005,4005,6005,8006,000
+Q4  FY25 Q3  FY26 Q4  FY26
+23,35650,499
+FY25 FY26Financial Overview
+Achieving strong growth alongside improved margins
+6✓Strong growth in FY26 driven by higher 
+production volumes, improved cell 
+utilization (1st full year of operations), and 
+expansion in module capacity
+✓Revenue growth reflects continued 
+progress toward integrated 
+manufacturing, with Module production 
+growing ~2x and cell production growing 
+~3x 
+✓EBITDA margin expansion supported by 
+operating leverage and increased 
+production of Modules and utilization for 
+Cells (79% in Q4FY26)
+✓PAT margin expansion to sustain due to 
+strength in EBITDA and lower finance costsHighlights
+Y-o-Y Q-o-Q 10,717 11,52317,388
+Q4  FY25 Q3  FY26 Q4  FY262,0712,6363,92419%23%23%
+Q4  FY25 Q3  FY26 Q4  FY26
+193%89%
+140%58%
+116%62% 49% 38% 51%Revenue from 
+OperationsEBITDA & 
+EBITDA MarginPAT &
+PAT Margin
+=== page 8 ===
+Operational Highlights
+Enhancing our status as a Premier Integrated Manufacturer
+7*Effective capacity is actual installed capacity adjusted for number of working days and product specification. Effective Cap acity for the quarter has been annualized
+#Module capacity utilisation  in FY26 is lower as unit 5 and 6 of 2.5 GW each were commissioned during the year hence operational for part of the year onlyInstalled and Effective Capacity* (MW) Production (MW) Effective Capacity Utilization#
+50%
+43%44%54%
+43%51%75%79%
+43%70%
+Q4 FY25 Q3 FY26 Q4 FY26 FY25 FY26Solar PV Modules Solar Cells
+598731 952 1,482 2,999 
+264413 428 534 1,520 
+Q4FY25 Q3FY26 Q4FY26 FY25 FY26Solar PV Modules Solar Cells
+6,01610,308 10,308
+2,943 2,943 2,943
+Q4FY25 Q3FY26 Q4FY26Solar Module Solar Cell
+=== page 9 ===
+• Completed IPO and public listing in November 2025, raising ₹2,900 crore, with 
+₹2,144 crore of fresh issue proceeds
+• Materially deleveraged the balance sheet, using ~₹1,621 crore of IPO proceeds to 
+prepay term loans and lowering finance cost run -rate
+• Credit profile strengthened with two ICRA rating upgrades, from BBB+(FB) / A2 
+(NFB) to A - (FB) / A2+ (NFB) in August 2025, and further to A (FB) / A2+ (NFB) in 
+January 2026, reflecting improved scale, lower leverage and stronger debt 
+coverage
+8•Successfully commissioned a 2.5 GW solar module line in May’25 and another 2.5 
+GW manufacturing line in Dec’25  at Sulibele , Hoskote Taluk, Bengaluru, Karnataka 
+(Unit V & VI)
+•Capacity expansion completed as planned
+•Company’s aggregate solar module installed capacity now stands increased to 
+10.3 GW, marking a 100% transition to TOPCon
+•Commenced production of G12R -format TOPCon  cells, enabling higher power -
+density module configurations and improved capacity alignment
+•Initiated plans for a new 6 GW integrated cell and module manufacturing facility. 
+This expansion targets a total installed capacity of 16.3 GW for modules and 8.9 
+GW for cells by FY28. IREDA has sanctioned a term loan of INR 33,060 mn for this 
+manufacturing facility
+•Completed payment for land allotment for the proposed 6 GW integrated cell and 
+module manufacturing facility at Devanahalli, Bengaluru and land is in 
+Company's possession 
+•Progress is in -line to achieve target COD•Order Book increased from 4.9 GW to 9.4 GW during FY 2026
+•Received a 4.5 GW order for supply of TOPCon  crystalline silicon photovoltaic 
+cells from a domestic customer
+•Cell order execution period spans from December 2025 to 2030 providing multi -
+year revenue visibility5 GW Module Lines Commissioned
+6 GW Integrated Capacity Expansion
+ Order Book 
+Business Update
+Building Scale, with integrated competitive advantages
+Capital Structure Strengthened
+
+=== page 10 ===
+Growth Vectors
+Roadmap to Scalable and Sustainable Growth
+9Capacity ramp up plans to meet market demand
+ Strong Order Book providing revenue visibility (MW)
+Current Capacity
+Ongoing Projects
+Cells
+2.94 GW
+6 GW by FY28
+8.94 GW by FY28Modules
+10.3 GW
+6 GW by FY28
+16.3 GW by FY28 Future Capacity
+1,1004,8929,399
+FY24 FY25 FY26
+Strategic Focus On Backward Integration
+Diversifying into manufacturing of ancillary components in a phased manner with a strategic focus on capturing larger share of BOMSolar Module Supply Chain
+Polysilicon
+ Ingot Wafer
+ Cells ModuleEmmvee’s  Current Presence
+=== page 11 ===
+Financial Snapshot
+10Profit and Loss Statement
+INR mn Q4 FY26 Q4 FY25 Y-Y (%) Q3 FY26 Q-Q (%) FY26 FY25 Y-Y (%)
+Revenue from operations 17,388 10,717 62% 11,523 51% 50,499 23,356 116%
+Other income 50 32 157 535 247
+Total income 17,438 10,749 62% 11,679 49% 51,034 23,603 116%
+Cost of Materials Consumed 11,450 6,256 8,743 34,117 15,180
+Changes in inventories of finished goods -1,323 -50 -2,658 -6,362 -1,157
+Gross Profit 7,261 4,511 61% 5,437 34% 22,744 9,333 144%
+Gross Profit (%) 42% 42% 47% 45% 40%
+Employee benefits expenses 432 241 348 1,367 665
+Other expenses 1,118 664 955 4,033 1,449
+EBITDA 5,711 3,607 58% 4,134 38% 17,344 7,219 140%
+EBITDA (%) 33% 34% 36% 34% 31%
+Depreciation and amortisation expense 792 655 740 2,956 1,560
+Finance costs 130 459 333 1,547 1,079
+Total expenses 12,599 8,224 53% 8,461 49% 37,658 18,775 101%
+Profit before tax for the year / period 4,839 2,525 92% 3,218 50% 13,376 4,828 177%
+Current tax 822 47 445 1,990 714
+Deferred tax 93 407 137 571 424
+Total tax expense 916 454 582 2,560 1,138
+Profit after tax for the year / period 3,924 2,071 89% 2,636 49% 10,816 3,690 193%
+PAT (%) 23% 19% 23% 21% 16%
+=== page 12 ===
+Company Overview
+
+=== page 13 ===
+About Us
+12
+Note: Module is referred to Solar PV Modules and Cell referred as Solar Cell across the presentationPure -play integrated module and cell manufacturer, with 10.3 GW of Solar Module 
+and 2.94  GW TOPCon  cell production capacity
+18+ years of proven track record in module manufacturing
+Strategic collaboration with Fraunhofer, enabling early -mover 
+advantage in high -efficiency TOPCon  technology
+Advanced, integrated manufacturing footprint supporting efficient and 
+sustainable operations; all four manufacturing units located within a 100 km radius
+Demonstrated product quality and reliability, with ~5.0 / 2.1 GW of Modules / Cells 
+produced over the last three fiscal years
+Strong, long -standing relationships with a diverse customer base
+Experienced promoter leadership, supported by a professional senior 
+management team with deep domain expertise
+
+=== page 14 ===
+Company History and Evolution
+13
+PVEL : PV Evolution Labs2008
+International sales 
+offices opened in 
+Germany2010
+Total module 
+production capacity 
+increased to 135 MW2025
+Commissioned 4.43 GW module 
+and 2.94 GW cell capacity
+Capacity as of 31st Mar’25 – 
+Module : 6.01 GW
+Cell : 2.94 GW
+Kiwa PVEL 2024 PV 
+Module Reliability Scorecard
+2026
+Public market listing on 18 Nov’25
+NSE: EMMVEE
+BSE: 544608
+Commissioned 2.5 GW module 
+facility in May’25  at Sulibele , 
+Bengaluru. 2nd module line of 
+2.5GW commissioned in Dec’25
+Capacity as of 31st Mar’26 – 
+Module : 10.3 GW
+Cell : 2.94 GW
+2007
+EPPPL founded with 
+15 MW of capacity
+2017
+Commissioned 40 MW 
+solar project in Karnataka
+Facility  upgraded; Annual 
+capacity reached 560 MW
+2022
+Research and 
+development 
+contract with 
+Fraunhofer ISE
+International sales 
+office opened in the US
+Unit II online with 867MW of
+ annual capacity with mono -
+and bifacial Mono PERC cut -
+cell modules at 395 – 550 Wp
+2024
+Production on 144 
+cut-cell TOPCon  
+modules at 560 – 
+605 Wp
+
+=== page 15 ===
+Integrated Manufacturing Facility Driving Sustainable 
+Competitive Advantage (1/2)
+14
+Unit 1 has been retired, and its operations have been discontinued with effect from May 31, 2025Manufacturing Capacity (GW)
+Year of 
+CommissioningArea 
+(sq.ft .)Annual Installed 
+Production 
+Capacity (GW)Products 
+ManufacturedTechnology
+Unit 2 2023 1,18,700 0.87 Modules TOPCon
+Unit 3 2024
+4,35,6042.21 | 2.94 Modules | Cell TOPCon
+Unit 4 2025 2.21 Modules TOPCon
+Unit 5 2025 2.50 Modules TOPCon
+Unit 6 2025 2.50 Modules TOPCon
+Total 977,616 10.30 | 2.94 Modules | Cell
+Integrated Capacity Expansion
+Unit 7 2026 -2027 ~25,00,000 6.00 | 6.00 Modules | Cell TOPCon
+All units located within 100km of each other, 
+which aids in easing logistics and inventory management
+4,23,313
+=== page 16 ===
+Integrated Manufacturing Facility Driving Sustainable 
+Competitive Advantage (2/2)
+151.       3,800+ personnel (including contract labourers  and trainees)
+2. PECVD: Plasma Enhanced Chemical Vapor Deposition 
+3. As of 31 March 2026
+4. In environmental management, occupational health & safety, and quality management systems respectivelyState -of-the -Art Manufacturing Facilities
+Team of 587 engineers and 3,800+ 
+personnel(1) deployed across units
+Fully automated, dust -proof, 
+air-conditioned facilities
+Multi -stage electroluminescence 
+testing with AI
+Centrotherm  equipment agreement , 
+including PECVD(2) systems, 
+to maintain TOPCon  cell efficiency 
+and yield
+Sustainable manufacturing practices :
+88%(3) energy from renewables; 
+92%(3) water recovery via zero 
+liquid discharge; 
+Use of only lead -free Aluminum frames 
+to reduce toxic waste
+ISO -certified facilities : 
+ISO 14001:2015(4),
+ISO 45001:2018(4), and
+ISO 9001:2015(4)
+
+=== page 17 ===
+Well Positioned to Capitalize on DCR -Led Solar Demand
+16
+* Approved List of Module Manufacturers 
+Source: MNRE targets, industry analysisEmmvee  already features in the coveted ALMM* List II and is well positioned to capitalise  
+on the growing demand from the government’s Domestic Content Requirement (DCR) pushWell Positioned To Capitalize On The Growing DCR Market In India
+ALMM Enforcement to drive Demand Across Key 
+DCR Linked Schemes 
+Prices of Domestic module 
+assembled using domestic 
+cells (DCR) were ~60% higher 
+than domestic modules 
+assembled using imported 
+cells (non -DCR)Limited manufacturing of 
+DCR modules and cells in the 
+country
+CPSU scheme, PM -KUSUM scheme, PM Surya Ghar Muft Bijli Yojana  
+Cumulatively provide an opportunity of orders of at least 40GW  for Indian 
+manufacturers under these schemes
+Scheme Target (GW) Achieved (GW)
+CPSU Phase II ~12 GW ~8.2 GW Sanctioned
+PM-KUSUM ~35 GW 10.2 GW Installed
+PM Surya Ghar ~30 GW 9.6 GW Installed
+=== page 18 ===
+Early Mover Advantage in Leveraging Higher Efficiency 
+Technology
+17TOPCon  Cell Capacity To Reach 8.94 GW By H1 FY’28 (Post Expansion)
+Expertise in Topcon is supported by collaboration with Fraunhofer ISE - Europe -based 
+research institute for energy provision, distribution, storage and utilization
+Technical and scientific 
+support Cell production line was setup 
+and commercialized in 21 months(2)
+Well Equipped To Respond To The Market’s Deficit 
+in TOPCon  Cells (Apr’26)Leveraging New Technologies 
+To Improve Efficiency 
+Fraunhofer ISE
+Collaboration to explore advanced TOPCon  technology 
+and improve operational efficiency and potency 
+40%
+Efficiency achievable by use of Tandem 
+TOPCon  Solar Cells 
+Explore Initiatives
+To increase efficiency of existing TOPCon  Solar Cells 
+through laser -enhanced contact optimization
+and screen design methods
+Emmvee  Is One Of The Few Players In The Industry To Have An 
+Integrated TOPCon  Cell & Module Manufacturing Facility
+Source: MNRECdTe  11%
+HJT 4%
+Mono  51%TOPCon  34%
+Enlisted 
+Capacity 
+(MW)
+=== page 19 ===
+Valued Relationships With a Diverse Customer Base Backed By 
+a Substantial Order Book
+18(Split of Solar Module Order Book)
+IPPs, 41%
+C&I, 35%Others , 
+25%Diversified Clientele Focus is on Improving Quality, Size & Repeat Customers
+FY2024 FY2025 FY2026
+Avg Order Size Among Top 10 
+Customers (MW)38 121 221
+Max Contract Size from a Single 
+Customer (MW)350 1,500 1000
+Repeat Customers Rate (%) 32% 32% 27%
+21%36%
+19%68%75%
+53%86% 85%
+68%
+FY24 FY25 FY26
+Largest Customer Top 5 Top 10Revenue Share
+=== page 20 ===
+Track Record Of Delivering Quality Products
+19
+Kiwa PVELOnly Indian company among 4 global players 
+to pass 7 tests for a single product type under 
+KIWA's Product Qualification Program (2024)Best In Class Performance Quality Metrics
+Average Warranty claim is <0.008% of total revenue from 
+operations in the last 3 years. In FY26, claim rate was 0.016%
+Modules have demonstrated a degradation rate of 2.00% which is 
+below the IEC standard of 5% and in line with PVEL’s standard of 2%
+Products Certification For International Markets
+CEC for the North American (and in particular, California) market
+EU low voltage directive 2014/35 for European markets
+CSA for Canadian marketsAwards & Accolades
+Karnataka 
+Annual Solar 
+AwardsLegacy of Reliability and Performance 
+in Solar PV Module Manufacturing (2025)
+Bridge to India #1 Indian module supplier in 2020
+Performance Warranty
+Long Term 
+WarrantyProduct warranty of up to 12 years and a linear 
+performance warranty of up to 30 years for Solar 
+PV modules
+Solar PV modules to be of ‘leading durability’ 
+under thermal cycle and damp heat tests
+3rd Party 
+Technology 
+Review Outcome
+
+=== page 21 ===
+20
+As of 31 March 2026Environmental 
+ResponsibilitySocial 
+ResponsibilityGovernance 
+& Oversight
+Resource Efficiency & Pollution Prevention
+•Integrated management system for quality, 
+environment, and safety
+•Zero liquid discharge at Unit IV with 92 
+percent water recovery
+•Sewage treatment, stormwater management, 
+and air -cooled systems
+Clean Energy & Emissions
+•88 percent  energy sourced from renewables
+•Rooftop solar across manufacturing units
+•Planned solar and wind power procurement
+ Sustainable Materials & Waste
+•Electric vehicles  for internal logistics
+•Lead -free aluminium  frames in modules
+•Strong waste segregation and recycled 
+packaging initiativesCommunity Development
+•Reverse osmosis water plants installed in 
+Chikkaballapur  district for safe drinking water
+Road Safety & Environment
+•Partnership with national and state authorities 
+for road safety, junction beautification, tree 
+plantation, and solar lighting
+ Healthcare Access
+•Donation of critical medical equipment to 
+government hospitals
+•Free eye screening support for 
+underprivileged communities through 
+specialized eye care institutions
+Diversity
+•Diverse workforce with ~ 29% women 
+employees , at an overall plant and company 
+level and increasing inclusion across 
+functionsStructured ESG Governance
+•Sustainability initiatives governed under a 
+formal Integrated Management System 
+framework
+•Corporate Social Responsibility programs 
+executed through Emmvee  Foundation
+•Strong emphasis on compliance, safety, 
+environmental responsibility, and ethical 
+operations
+Integrating environmental responsibility and social commitment 
+into long -term value creation
+=== page 22 ===
+Experienced Promoter -led Senior Management Team
+21
+Business Leadership Excellence Award at EQ’s Karnataka State Annual Solar Awards presented during Suryacon  2020 & Sourya Urja Bhushan Award presented at Sourya Urja Puraskar  in 2015Manjunatha Donthi Venkatarathnaiah
+Chairman & Managing Director
+30+ years
+Suhas Donthi Manjunatha
+Whole Time Director, President & CEO
+7+ years
+Total years of Experience
+Strong Domain Expertise
+Pawan Kumar Jain
+Chief Financial Officer
+32+ years
+Rachamadugu  Nandakumar
+Chief Human Resources Officer
+~53 years
+Dedicated Functional Head 
+Rohit Dhar
+Chief Revenue Officer
+~33 years
+Anand Kumar R S
+General Manager, Supply 
+Chain Mgmt.
+~15 years
+T Srinath
+Chief Technology Officer
+24+ years
+Shailesha Barve
+Company Secretary & 
+Compliance Officer
+~22 years
+Management Team Committed To Drive Long Term Success
+N. Devendiran 
+Chief Manufacturing Officer
+Dinesh B Shenoy
+General Manager, Solar Cell 
+Manufacturing
+~36 years
+Sumanth Manjunatha Donthi
+Chief Strategy & Business 
+Development Officer
+~3 years
+Hena Datta
+General Manager, Legal
+17+ years
+•Has been in the Solar Industry since 1992
+•Co-founded Emmvee  Solar Systems Private Limited in 1996 
+and then co -founded Emmvee  Photovoltaic Power in 2007
+•Awarded Business Leadership Excellence Award(1) at Suryacon  2020 
+and Sourya Urja Bhushan Award in 2015•Leads domestic & international operations, including Europe and 
+the US. Drives strategy, growth initiatives, and execution
+•Awarded Hall of Fame Leadership Award (2025) – Legacy & Empire 
+Building (Karnataka Annual Solar Awards, Suryacon  Bengaluru).
+•Awarded Most Promising Business Leaders of Asia (Times Now Asian 
+Business Leaders Conclave)
+=== page 23 ===
+Esteemed Board of Directors
+22Sambasivarao  Chandramouleswara  Sharada
+•Company Secretary with 30+ years of experience
+•BCom, Law, and a Master’s in Environmental, 
+Social and Governance
+•Former CS at Buhler India Pvt Ltd Non -Executive Independent DirectorShubha Manjunatha Donthi
+•Promoter with 30 yrs of experience in renewable energy
+•BA, V. V. N. Degree College, BengaluruNon -Executive Director 
+Santosh Kumar Mohanty
+•Retired Indian Revenue Service Commissioner of Income Tax
+•Former Executive Director at SEBI
+•Served as a Whole -time Member of the SEBINon -Executive Independent DirectorRam Kumar Tiwari
+•MSc in Engineering
+•45 yrs+ of experience in the electrical and energy sector
+•Former senior executive at BHEL
+•Served as consultant to Solar Energy Corporation of India 
+and Power Grid Corporation of India Ltd Non -Executive Independent Director
+
+=== page 24 ===
+Industry Overview
+
+=== page 25 ===
+Strong Industry Tailwinds fuelled  by Power Demand Surge & Green 
+Energy Transition
+1.53.56.57.37.712.514.5
+IndiaWorld AvgChinaRussiaJapanUSACanadaIndia Has One of the Lowest per -capita 
+Electricity Consumption (‘000 KWh )
+Power Demand to Grow at 5 -7% 
+CAGR Over FY25 -30E
+1.82.4
+FY25 FY30 (P)
+5-7%Growing Segments to Drive 
+Up Power Consumption
+Rise in EV Penetration 
+ 30%
+2030
+Green Hydrogen 
+Production Target
+5MTPA
+2030
+Growth of Data Centers
+ 23%
+2025 -30Billion Units
+Source: PIB, CEA, NITI Aayog roadmap, Green Hydrogen , ET, National Generation Adequacy PlanSolar , 140
+Wind , 55
+Coal , 228Gas, 20Large Hydro , 51Nuclear , 9 Other RE , 17Installed Capacity (GW) as on Jan’26 Gross Generation (BU, 2026) as on Jan’26
+Solar , 138
+Wind , 96Coal , 1,057Gas, 23 Large Hydro , 158
+Nuclear , 45
+Other RE , 24190203216243 250
+FY21 FY22 FY23 FY24 FY25Peak Electricity Demand (GW)
+=== page 26 ===
+National Generation Adequacy Plan (2026 -27 to 2035 -36)Solar: India's Clean Energy Leader
+2552%70%
+48%30%
+Jan'262035-36Fossil Share Non Fossil SharePower Outlook 2035 -36: Projected installed capacity
+SOLAR
+509  GW
+45% of mixCOAL
+315  GW
+28% of mixWIND
+155  GW
+14% of mixHYDRO
+78  GW
+7% of mixNUCLEAR
+22  GW
+2% of mixGAS
+20  GW
+2% of mix
+Source:: National Generation Adequacy PlanProjected Peak Electricity Demand (GW)
+ Solar Dominance: Projections (2035 -36)
+289305325345364388407427446 459
+FY27 FY28 FY29 FY30 FY31 FY32 FY33 FY34 FY35 FY36Solar , 
+509, 45%
+Wind , 155, 
+14%Coal , 315, 
+28%Gas, 20, 
+2%Large Hydro , 
+78, 7%Nuclear , 22, …Other RE , 22, 2%
+Solar , 
+984, 27%
+Wind , 
+320, 9%Coal , 1819, 
+51%Gas, 56, 
+2%Large Hydro , 
+256, 7%Nuclear , 147, …Other RE , 14, 0%
+Installed 
+Capacity 
+(GW)Gross 
+Generation 
+(BU)
+=== page 27 ===
+Long -Term Policy Visibility Drive Sustained Growth 
+in India’s Solar Ecosystem 1/3
+26Demand Creation: Driving Solar Adoption & Offtake
+Inter -State Transmission System Waiver Extension 
+•Initiative to lower delivered power cost  for RE projects by waiving ISTS 
+charges
+•Offers 100% waiver for projects commissioned by 30 Jun 2025 , then 
+graded waivers (75% to 25%) for Jul 2025 to Jun 2028 , and no waiver 
+after Jun 2028
+Renewable Purchase Obligation and Annual RE Bidding Trajectory 
+•To create predictable long -term renewable offtake by setting 
+a minimum annual RE bidding plan, improving visibility for project 
+development and contracting
+Pradhan Mantri Surya Ghar: Muft  Bijli Yojana
+•Initiative to drive residential rooftop solar adoption via capital subsidy
+•Targets 1 crore homes and 30 GW by FY27  with ₹75,021 cr outlay
+•Subsidy up to ₹78,000/system . 
+•Progress ( March 2026): ~31 lakh homes and ~9 GW , with ₹18,000 cr 
+subsidy released and ₹20,000 cr allocated for FY26
+Green Power Markets (GTAM and GDAM)
+•Initiative to enable market -based procurement of green power through 
+exchanges
+•GTAM and GDAM volumes are increasing, indicating growing trading 
+activity as capacity expands
+Pradhan Mantri Kisan Urja Suraksha evam  Utthaan  Mahabhiyan  
+•To expand solar in the agriculture sector (pumps and feeder -level 
+solarisation )
+•Target is 34.8 GW by Mar 2026, with  ~9.5 GW achieved so far
+•Deadline extended to 31 March’27 (from 2026) , applicable to projects with 
+PPAs/tenders issued by 31 Dec 2025
+Green Energy Open Access & Commercial & Industrial (C&I) 
+Demand 
+•Group Captive Norms Relaxed (Mar 2026): 51% consumption 
+requirement  assessed collectively (vs individual proportionality), 
+improving bankability and encouraging large industrial participation in 
+captive RE projects
+•Threshold reduced to 100 kW with time -bound approvals via a portal. 
+India added ~6.1 GW of solar open access in 9M 2025, reaching 
+~27.9 GW cumulative (Sep 2025)
+Source: Industry Data
+GTAM: Green Term Ahead Market (marketplace for trading renewable energy through short -term contracts)
+GDAM: Green Day Ahead Market (marketplace for trading renewable energy specifically for the next day's delivery)
+=== page 28 ===
+Long -Term Policy Visibility Drive Sustained Growth 
+in India’s Solar Ecosystem 2/3
+27Supply & Infra Enablement: Ensuring Scale, Bankability & Grid Readiness
+PLI Scheme, Solar PV Manufacturing
+•To build domestic manufacturing capacity through incentive -linked 
+investment
+•Tranche I and II fully allocated
+•Total outlay: ~₹24,000 crore
+•ALMM List -I module capacity: >173 GW (March 2026)
+•~119 GW capacity added in CY2025Green Energy Corridor and Intra -state Evacuation
+•To strengthen state -level evacuation and RE integration
+•GEC Phase II underway to integrate 13 GW RE across 7 states
+•Intra -state RE evacuation program approved : 
+~₹12,031 crore (includes central financial assistance)
+Transmission Expansion (National Electricity Plan for Transmission 
+2023 -32) 
+•Inter -regional transfer capacity:  168 GW by 2032
+•Designed to evacuate: 500 GW RE
+•Estimated investment: ₹9.15 lakh crore
+Source: Industry Data
+=== page 29 ===
+Long -Term Policy Visibility Drive Sustained Growth 
+in India’s Solar Ecosystem 3/3
+28Policy & Make -in-India Push: Boosting Domestic Manufacturing
+Non -Tariff Barriers (Strategic Shift)
+•Initiative to support domestic manufacturers through market access controls (e.g., ALMM) rather than only high import duties. Purpose is to anchor demand 
+to local supply
+•ALMM Mandate (Modules): Initiative to prioritise  domestically approved solar modules in eligible projects. It is strictly enforced for government -subsidised  and 
+open -access projects to support local manufacturing
+•ALMM for Cells (Proposed): Initiative to extend domestic preference to solar cells to support upstream manufacturing. Proposed start: 1 Jun 2026.
+•DCR Requirements (Select Schemes): Initiative to ensure domestic content in selected government programs and procurement structures through DCR conditions , 
+supporting local module and cell sourcing
+•ALMM List -III: Solar wafers mandatory from 1 June 2028 .Eligibility: ≥3 independent units, 15 GW+ combined capacity, with matching ingot production to ensure 
+end-to-end domestic manufacturing
+GST Rationalisation  for RE Equipment
+•Initiative to reduce cost of RE equipment via indirect tax reduction
+•GST cut to 5% for renewable energy devices and parts, effective 22 Sep 
+2025
+Long -Term Renewable Energy (RE) Scale Targets
+•National goal: 500 GW non -fossil capacity
+•Milestones: 200+ GW RE (incl. large hydro) crossed in 2024, 100+ GW 
+solar crossed in early 2025 Long -term anchor : Net -zero by 2070
+Source: Industry Data
+=== page 30 ===
+Historical Financial 
+Statements
+
+=== page 31 ===
+Profit & Loss Statement
+30
+Figures have been rounded offINR Mn FY24 FY25 FY26
+Revenue  from  operations 9,519 23,356 50,499
+Other  income 25 247 535
+Total  income 9,544 23,603 51,034
+Cost  of Materials  Consumed 7,710 15,180 34,117
+Changes  in inventories  of finished  goods (165) (1,157) (6,362)
+Employee  benefits  expense 213 665 1,367
+Finance  costs 335 1,079 1,547
+Depreciation  and amortisation  expense 418 1,560 2,956
+Other  expenses 557 1,449 4,033
+Profit  before  tax  for the  year 476 4,828 13,376
+Current  tax 304 714 1,990
+Tax pertaining  to earlier  years - - 0
+Deferred  tax -117 424 571
+Profit  after  tax  for the  year 289 3,690 10,816
+Earnings  per share  (Face  value  of share  INR.2 each  (31 March  2024 : Rs 10))
+- Basic  (Rs) 0.5 6.2 17.2
+- Diluted  (Rs) 0.5 6.2 17.2
+=== page 32 ===
+Balance Sheet
+31
+Figures have been rounded offAssets (INR Mn) FY24 FY25 FY26
+Non -current  assets
+Property,  plant  and equipment 2,785 19,241 24,563
+Right -of-use assets 104 1,206 1,761
+Capital  work -in-progress 6,458 134 99
+Other  intangible  assets 17 14 12
+Financial  assets
+-Investments - - 273 
+- Other  financial  assets 141 197 228 
+Deferred  tax assets  167 - - 
+Other  non-current  assets 2,320 1,498 193 
+Total  non -current  assets 11,993 22,289 27,128  
+Current  assets
+Inventories 3,062 7,584 17,106 
+Financial  assets
+(i)     Investments - 2,568 301 
+(ii)  Trade  receivables 961 1,903 6,950 
+(iii)  Cash  and cash  equivalents 1,824 2,186 2,426 
+(iv)  Bank  balances  other  than  (iii) above 3,382 1,055 1,110 
+(v)  Other  financial  assets 50 35 69 
+Current  tax assets  (net) 5 29 5 
+Other  current  assets 622 1,490 2,631 
+Total  current  assets 9,907 16,850 30,597 
+Total  assets 21,900 39,139 57,725 Equity & Liabilities (INR Mn) FY24 FY25 FY26
+EQUITY
+Equity  share  capital 108 108 1,385 
+Other  equity 1,580 5,260 35,565 
+Total  equity 1,688 5,368 36,949 
+Non -current  liabilities
+Financial  liabilities
+(i) Borrowings 11,741 16,889 489 
+(ii)  Lease  liabilities 43 956 1,486 
+(iii)  Other  financial  liabilities 0 1 1 
+Provisions 14 39 81 
+Deferred  tax liabilities  202 458 1,031 
+Other  non-current  liabilities 1,173 1,931 2,840 
+Total  non -current  liabilities 13,173 20,273 5,929 
+Current  liabilities
+Financial  liabilities
+(i) Borrowings 2,672 2,608 1,283 
+(ii)  Lease  liabilities 13 200 342 
+(iii)  Trade  payables
+- MSMEs 88 403 188 
+- Others 1,494 3,088 8,633 
+(iv)  Other  financial  liabilities 359 1,451 1,579 
+Provisions 13 39 50 
+Other  current  liabilities 2,268 5,494 2,449 
+Current  tax liabilities  (net) 132 215 322 
+Total  current  liabilities 7,039 13,498 14,847 
+Total  equity  and  liabilities 21,900 39,139 57,725 
+=== page 33 ===
+Cash Flow Statement
+32
+Figures have been rounded off(INR Mn) FY24 FY25 FY26
+A. Cash flow from operating activities
+Profit before tax 476 4,828 13,376 
+Adjustments for:
+Depreciation and amortisation expenses 418 1,560 2,956 
+Finance costs 277 1,079 1,547 
+Gain on lease termination - - 
+Net Gain on disposal of property, plant & equipment (1) - (71) 
+Net Gain on disposal of other intangible assets - (1) -
+Net Gain on disposal of investment subsidiaries 0 - -
+Interest income (11) (213) (72) 
+Income from government grants - (4) (154) 
+Net gains on disposal of inv in MFs measured at FVTPL - (16) (55) 
+Impairment of non -financial assets - 200 
+Foreign exchange differences (6) (7) 335
+Liabilities no longer payable written back (1) - 
+Bad debts written off 319 13 
+Reversal/utilisation of Prov of exp credit loss on TR (170) (12) 256
+Provision for warranties & advances 9 25 60 
+Unwinding of disc on security deposits at amortised  cost (5) (7) (14) 
+Net changes in fair value of forex forward contracts - 4 (30)
+Amortisation of security deposit (initial deferred portion) 0 1 
+Operating profit before working capital changes 1,305 7,449 18,133
+Changes in working capital
+(Increase)/Decrease in trade receivables (419) (943) (5,313) 
+(Increase)/Decrease in inventories (1,648) (4,522) (9,522) 
+(Increase)/Decrease in other financial assets (87) (120 ) (74) 
+(Increase)/Decrease in Other Current assets (213) (868) (1,131) 
+(Increase)/Decrease Other non current  assets (17) (48) (18) 
+Increase/(Decrease) in trade payables 893 1,921 5130 
+Increase/(Decrease) in other financial liabilities 26 39 36 
+Increase/(Decrease) in provision - 9 9 
+Increase/(Decrease) in other current liabilities 1,483 3,226 (3,140) 
+Increase/(Decrease) in other non current  liabilities 1,173 762 (204) 
+Cash generated from operations 2,496 6,904 3,906 
+Income taxes paid (net of refunds) (151) (655) (1,905) 
+Net cash flow/(Used) from/in operating activities (A) 2,345 6,249 2,001 (INR Mn) FY24 FY25 FY26 
+B. Cash flows from investing activities
+Purchase of property, plant and equipment (including CWIP 
+and capital advances)(6,733) (9,883) (6,531)
+Proceeds from government grant 1,268 
+Purchase of intangible assets (13) (2) (3) 
+Proceeds from sale of Property, Plant and Equipment 2 - 134 
+Proceeds from sale of other intangible assets - 1 -   
+Proceeds from bank deposits other than cash (3,268) 2,355 (48) 
+Loan given to a related party - (145) 
+Loan repayments received from a related party - 145 
+Investments in mutual funds - (8,677) (12,129 )
+Investments in equity - - (265) 
+Proceeds from disposal of investment in debt MFs - 6,125 14,452  
+Sale of Investments in subsidiaries 0 - 
+Interest received 11 224 79 
+Net cash flow/(Used) from investing activities (B) (10,000) (9,857) (3,041) 
+C. Cash flow from financing activities
+Proceeds from borrowings 9,575 7,253 1,450 
+Repayment of borrowings (358) (2,169) (19,112) 
+Principal paid on lease liabilities (8) (23) (134) 
+Interest paid on lease liabilities (3) (25) (168) 
+Proceeds from issue of equity shares (Net of share 
+expenses of INR 811.62  mn20,600
+Interest paid (261) (1,065) (1,333) 
+Net cash flow from/in financing activities (C) 8,944 3,970 1,303 
+D. Net increase/(decrease) in cash and cash equivalents 
+(A+B+C)1,289 362 263 
+Cash and cash equivalents at the beginning of the year 535 1,823 2,186
+Cash and cash equivalents transferred on disposal of a 
+subsidiary(1) - 
+Effect of exchange rate changes on cash and cash 
+equivalents1 1 (24) 
+Cash & cash equivalents at end of the year 1,823 2,186 2,425  
+=== page 34 ===
+Data Book
+
+=== page 35 ===
+Key Operational Metrics
+34Solar PV 
+Modules
+Solar Cells
+• Installed capacity is the aggregate installed capacity of all module / cell manufacturing facilities in MW based on the maxim um wattage that the lines can produce
+• Effective installed capacity represents annual production potential at full machine utilization - 365 days for PV modules and 33 0 days for solar cells; calculated on 365 days for FY25
+• Actual production is the tangible outcome of a facility’s operations within a specified time frame, reflecting the quantity o f cells / modules produced
+• Capacity utilization is calculated as actual production during the relevant fiscal / year divided by aggregate effective inst alled capacityOrder Book (In MW)
+(In MW) (In MW)1,5851,0052191,585 1,2274766,016
+2,749
+1,48210,308
+6,901
+2,999
+Installed capacity Effective installed capacity Actual production
+FY23 FY24 FY25 FY2622%39%54%
+43%
+Capacity Utilization
+43.3%69.9%
+Capacity Utilization
+FY25 FY262,943
+1,246
+5342,943
+2,175
+1,520
+Installed capacity Effective installed
+capacityActual production
+FY25 FY265391,1004,8929,399
+FY23 FY24 FY25 FY26
+=== page 36 ===
+Key Financial Metrics
+35Revenue From Operations (INR Mn)
+9,51923,35650,499
+FY24 FY25 FY26EBITDA(1) (INR Mn) PAT(2) (INR Mn)
+1,2047,21917,344
+FY24 FY25 FY2613% 31%% Margin
+34%
+2893,69010,816
+FY24 FY25 FY26% Margin
+3.0% 16% 21%
+1. EBITDA is calculated as restated Profit before Exceptional Items and Tax + Finance Costs, Depreciation & Amortization - Other In come
+2. PAT is the restated profit for the year as per Restated Consolidated Financial Information
+3. RoCE = ROCE = Earnings before interest and taxes / Capital Employed, Where, Earnings before interest and taxes is calculated as restated Profit before exceptional items and tax plus Finance Costs and, Capital Employed = Total Equity + Total Debt + Defer red 
+Tax Liability – Deferred Tax Assets
+4. ROE = Net Profits after taxes – Preference Dividend (if any) / Average Total Equity, where Average Total equity is the average o f opening and closing Total Equity (excluding non -controlling interest) as disclosed in the Restated Consolidated Financial 
+Information. Numbers are based on annualized profits for the period
+5. Debt to Equity Ratio means aggregate of total borrowings ( i.e. current and non -current) for the period/year divided by total equity attributable to the owners of the holding company for the relevant period/year
+6. Net Debt to Equity Ratio means Net Debt to Equity has been calculated as Total Net Debt / Total Equity where, total Net Debt (INR Million) is calculated as total debt minus cash and cash equivalents minus unencumbered bank balances and current 
+investments
+7. Net Working Capital has been calculated as total current assets minus total current liabilities
+8. Current ratio is calculated as current assets divided by current liabilitiesRoCE(3) (%) ROE(4) (%) Debt to EquityNet Working Capital (7) & 
+Current Ratio(8)
+5%23%38%
+FY24 FY25 FY2618.7%104.6%
+51.0%
+FY24 FY25 FY268.54x
+3.63x
+0.05x5.46x
+2.55x
+-0.06x
+FY24 FY25 FY26Net Debt to Equity(6) Debt to Equity(5)
+1.4x1.3x2.1x
+2,868 3,35215,750
+020004000600080001000012000140001600018000
+FY24 FY25 FY26NWC (INRmn) Current Ratio
+=== page 37 ===
+Thank You
+Emmvee  Photovoltaic Power Ltd.
+CIN: L26101KA2007PLC042197
+Registered Office:
+13 / 1, International Airport Road, Bettahalasuru  Post, 
+Bangalore North, Karnataka, India – 562157
+Web:
+www.emmveepv.com 
+Email:
+investorrelations@emmvee.in
+Investor Relations Advisors
+emmvee@raadhicapital.com  
+Nikhil Raina 
+nikhil.r@raadhicapital.com
+Vinita Pandya 
+vinitap@raadhicapital.com

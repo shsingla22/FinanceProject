@@ -1,0 +1,260 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 16, 2026  
+ The Manager - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+ 
+The Manager - Listing  
+BSE Limited  
+(BSE: 507685)  
+ 
+The Market Operations  
+NYSE, New York  
+(NYSE:  WIT)  
+Dear Sir/Madam,  
+ 
+Sub: Press Release  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the press release for the quarter ended June 30, 
+2026 . 
+ 
+The above document is also being made available on the Company's website at 
+www.wipro.com . 
+ Thanking You,  
+ For Wipro Limited  
+  
+ 
+ 
+M Sanaulla Khan 
+Company Secretary  
+ 
+ENCL: As above  
+1 FOR IMMEDIATE RELEASE  
+Wipro  announces results  for the Quarter  ended June  30, 202 6 
+Revenue increased 0.9% YoY in CC 
+Large deal bookings at $1.6 Bn , grew 12.9 % QoQ , including 13 large deals in Q1 
+Net income gr ew 0.6% YoY; Operating cash flow a t 98% o f Net income 
+EAST BRUNSWICK, N.J. | BANGALORE, India – July 16, 202 6: Wipro Limited (NYSE: WIT, 
+BSE: 507685, NSE: WIPRO), a leading AI -powered technology services and consulting 
+company , announced financial results under International Financial Reporting Standards 
+(IFRS) for the quarter  ended  June 30, 202 6. 
+Highlights of the Results  
+Results for the Quarter ended June  30, 202 6: 
+1.Gross revenue at ₹244.8  billion ($2,585.9  million1), an increase of 1.0% QoQ and 10.6%
+YoY.
+2.IT services segment revenue was at $ 2,614.5  million, decrease  of -1.4% QoQ and
+increase of 1. 0% YoY.
+3.Non-GAAP constant currency2 IT Services segment revenue decreased  1.2% QoQ and
+increased  0.9% YoY.
+4.Total bo okings3 was at $ 3,370  million , down  by 2.4% QoQ  in constant currency2. Large
+deal bookings4 was at $ 1,626  million , increase  of 12.9% QoQ  in constant currency2.
+5.IT services operating margin5 for Q1’27 was at 16.0%, decrease of 1.3% QoQ and  1.2%
+YoY.
+6.Net income for the quarter was at ₹ 33.6 billion ( $354.6 million1), decrease  of 4.7% QoQ
+and increase  of 0.6% YoY.
+7.Earnings per share for the quarter at ₹ 3.20 ($0.031), decrease of 4.2% QoQ and  increase
+of 0.6% YoY.
+8.Operating cash flows of ₹32.9 billion ($348 million1), increase  of 3.6%  QoQ  and at 98.0%
+of net income for the quarter.
+9.Voluntary attrition was at 13.9% on a trailing 12 -month basis.
+10.Declared interim dividend of ₹ 2 ($0.021) per equity share/ADS.
+Outlook for the Quarter ending September  30, 202 6 
+We expect revenue from our IT Services business segment to be in the range of $ 2,574 million 
+to $2,627  million*. This translates to sequential guidance of  (-)1.5% to (+)0.5% in constant 
+currency terms.  
+*Outlook for the Quarter ending  September  30, 2026, is based on the following exchange rates: GBP/USD at 1.34,
+Euro/USD at 1.1 6, AUD/USD at 0.7 1, USD/INR at 9 4.50 and CAD/USD at 0.7 1
+
+2 Performance for the Quarter  ended June  30, 202 6 
+Srini Pallia , CEO and Managing Director, said, “Clients are moving beyond technology 
+modernization to AI -enabled operating models that improve quality, resilience, and 
+productivity. Wipro’s consulting -led, AI -powered approach helps clients embed AI at the core 
+of their business, and these engagements r eflect both the breadth of our capabilities and the 
+trust clients place in us as a transformation partner.”  
+Aparna Iyer, Chief Financial Officer, said , “As we navigate an evolving technology 
+landscape, we remain focused on investing in our people and strategic priority areas. While 
+these investments may create some near -term margin volatility, it sets a strong foundation 
+for future growth. Cash flow remain ed robust, with operating cash flow at 98% of net income  
+for the quarter . We are also pleased to share that the Board has declared an interim 
+dividend of ₹2 per share. Including this dividend and payouts made over the past year, we 
+would have returned more than  $3 Bn  in cash to our shareholders  while continuing to invest 
+steadily  for growth .” 
+1. For the convenience of the readers, the amounts in Indian Rupees in this release have been translated
+into United States Dollars at the certified foreign exchange rate of US$1 = ₹ 94.66 , as published by the
+Federal Reserve Board of Governors on June  30, 202 6. However, the realized exchange rate in our IT
+Services business segment for the quarter ended June 30, 202 6, was US$1= ₹ 93.53
+2. Constant currency for a period is the product of volumes in that period times the average actual exchange
+rate of the corresponding comparative period.
+3. Total Bookings refers to the total contract value of all orders that were booked during the period including
+new orders, renewals, and increases to existing contracts.  Bookings do not reflect subsequent
+terminations or reductions related to bookings originally recorded  in prior fiscal periods . Bookings are
+recorded using then -existing foreign currency exchange rates and are not subsequently adjusted for
+foreign currency exchange rate fluctuations. The revenues from these contracts accrue over the tenure of
+the contract. For constant currency growth rates, refer note 2.
+4. Large deal bookings consist of deals greater than or equal to $30 million in total contract value.
+5. IT Services Operating Margin refers to Segment Results Total as reflected in IFRS financials.
+Highlights of Strategic Deal Wins 
+In the first quarter, Wipro continued to win large and strategic deals across industries. Key 
+highlights include:  
+1.A global chemicals company has selected Wipro for a multi -year deal to modernize its
+IT operations. As part of the engagement, Wipro will use its consulting -led approach
+to consolidate multiple vendors into a single, integrated operating model and manage
+infrastructure and application services end -to-end. Powered by Wipro Intelligence ™,
+the solution will embed digital agents, AIOps and GenAI -enabled capabilities to
+increase automation, prevent issues, and improve resolution times. This will help the
+client deliver structural cost optimization, enhance service stability, increase
+transpa rency, and build a scalable, future -ready IT operating model.
+2.One of the world’s largest global technology companies has renewed its multi -year
+engagement with Wipro to innovate in the arena of Geospatial Data Operations and
+mapping. Wipro will provide end -to-end support for the Geospatial Data Operations
+ecosystem, through a scalable, AI -powered global delivery model. Leveraging AI -
+enabled automation, analytics, and data -driven insights, through a robust governance
+framework, Wipro will drive operational resilience, improve quality, and accelerate
+3 product deployment for the client. Wipro will enable the client to maximize productivity 
+and enhance decision making in an evolving business environment.  
+3.A leading global technology provider has expanded its decades -long engagement with
+Wipro to enhance the quality and reliability of its products that support millions of users
+worldwide. Wipro will deliver AI -infused quality engineering services, leveraging
+automation and intelligent testing capabilities, to accelerate development cycles. The
+engagement builds on Wipro's deep domain expertise and longstanding role in
+supporting the client's engineering ecosystem. This collaboration will help reduce time
+to m arket, improve operational efficiency, and strengthen the reliability of critical
+software  releases.
+4.A leading US -based health insurer has extended and expanded its long -standing
+engagement with Wipro to enhance digital workplace and end -user support services
+across its enterprise. Wipro will deploy a unified operating model designed to ensure
+business co ntinuity and operational efficiency. Leveraging automation and AI -infused
+capabilities, Wipro will further enhance service delivery, improve responsiveness, and
+enhance employee technology experience. This renewal will help the client maintain
+reliable, sc alable workplace operations while supporting future modernization
+initiatives and productivity improvements.
+5.A leading US -based hospital network has selected Wipro to provide integrated
+application management and enterprise IT transformation. Wipro will deliver a
+comprehensive managed services model spanning operational support, governance,
+and security, enabling  the client to improve operational efficiency, service reliability,
+and accelerate continuous innovation. Leveraging its AI -delivery platforms, WINGS
+and WEGA, Wipro will establish a strategic AI and Agentic AI roadmap aligned to the
+client's business obje ctives, to drive intelligent automation, improved workforce
+productivity, and measurable business outcomes.
+6.A global US -based specialty Chemicals company has expanded its relationship with
+Wipro to lead an AI -first transformation of its business and technology landscape.
+Under the new agreement, Wipro will provide end -to-end support for the client's global
+Enter prise applications, as well as business processes. Wipro will deploy its proprietary
+WINGS AI platform to introduce a unified operating model, aimed at simplifying and
+optimizing operations. AI will be the cornerstone of the program, driving intelligent
+automation, and enabling smarter, data -driven decision -making across all workflows.
+This transformation will unlock significant efficiencies, reduce complexity, and
+accelerate value for the client - further reinforcing the long -standing engagement
+between th e two companies.
+7.A leading Australian health and community services provider has selected Wipro to
+modernize its technology landscape and improve reliability and performance of
+services that support frontline care and community operations. Through a consulting -
+led engageme nt, Wipro will take end -to-end ownership of the client’s IT services,
+bringing applications, cloud, networks, and workplace support into a more integrated
+and accountable delivery model. The engagement will also embed intelligent
+automation and proactive m onitoring to improve issue resolution, strengthen service
+quality, and create a simpler, more seamless technology experience for employees.
+This transformation will help the client enhance operational resilience, improve user
+experience, optimize costs, an d build a more scalable, future -ready model for
+continuous innovation.
+8.A leading insurer in Australia and New Zealand has renewed and expanded its
+strategic partnership with Wipro through a multi -year outcome -based engagement to
+4 transform and manage its core insurance application landscape. Through a consulting -
+led and AI -powered delivery model, Wipro will drive AI -led intelligent automation, 
+operational efficiency, and continuous cost optimization across policy, claims, and 
+custo mer communications platforms. The engagement also establishes a co -
+innovation framework and AI capability program designed to enhance business agility, 
+strengthen resilience, and accelerate long -term digital transformation.  
+9.One of the world's largest designer and supplier of apparel selected Wipro as the
+primary partner for supply chain and planning tech to support end -to-end Warehouse
+Management System (WMS) operations as part of a broader enterprise transformation
+program. Wipro will now power its global distribution center (DC) operations across
+both B2B and B2C channels. Leveraging its deep consulting expertise in Supply Chain
+Domain and Execution, Wipro will help the client streamline warehouse management
+and distribution  operations. This engagement will enable a more efficient and scalable
+operating environment for the client driving improved efficiency, reduced complexity,
+and cost optimization across the client’s supply chain.
+10.A leading global energy company has engaged Capco, a Wipro company, to
+strengthen its engineering, planning, and business management capabilities across
+critical offshore operations. Capco will provide specialized expertise to support core
+engineering and operational functions, working closely with stakeholders to streamline
+execution and enhance management effectiveness. This engagement will improve
+operational efficiency, strengthen performance visibility and governance, and enable
+more informed decision -making across one of the client’s most strategic operating
+environments.
+11.A leading US housing finance institution has engaged Capco, a Wipro company, to
+support a large -scale data modernization program to simplify access to trusted
+business data, while reducing reliance on legacy platforms. Leveraging its decades -
+long relations hip with the client, Capco will help address the complexity of managing a
+multi -year transition across systems, stakeholders, and regulatory requirements while
+ensuring continuity of critical reporting and operations. Capco will lead program
+execution, coo rdinate stakeholders, and support data operations, transition planning,
+and business adoption to enable a more streamlined and modern data environment.
+This engagement will help improve data accessibility, reduce operational complexity
+and risk, and create  a scalable foundation for more efficient and informed decision -
+making.
+12.A leading global technology enterprise has selected Wipro for a strategic AI -first
+modern delivery model to accelerate digital modernization. This enterprise -wide
+program will transform the software development lifecycle across core enterprise
+packaged pla tforms. Leveraging WEGA — part of Wipro Intelligence ™ — this initiative
+will embed generative and agentic AI into the software development lifecycle to
+streamline processes, enhance developer productivity, and accelerate digital
+transformation across commerce, supply chain, payments, and enterprise integrati on
+functions. This AI -native model will enable predictable transformation while boosting
+productivity, enhancing quality, and shortening time to market.
+5 Analyst Recognition  
+1.Wipro was ranked as a Leader in ISG Provider Lens® - Semiconductor Industry Services and
+Solutions 2026 - US, Europe (all quadrants)
+2.Wipro was recognized as a Leader in Avasant's Airlines and Airports Digital Services 2026
+RadarView ™
+3.Wipro was featured as a Leader in Avasant's Banking Digital Services 2026 RadarView ™
+4.Wipro was positioned as a Leader in Avasant's High -Tech Digital Services 2026 RadarView ™
+5.Wipro was recognized as a Leader in Everest Group's Healthcare Payer Digital Services PEAK
+Matrix® Assessment 2026
+6.Wipro was positioned as a Leader in Everest Group's Google Cloud Services PEAK Matrix®
+Assessment 2026
+7.Wipro was ranked as a Leader in Everest Group's Oracle Cloud Applications Services PEAK
+Matrix® Assessment 2026
+8.Wipro was recognized as a Horizon 3 – Market Leader in the HFS Horizons: SAP S/4HANA
+Transformation Services, 2026 report
+9.Wipro was featured as a Leader in ISG Provider Lens® - Global Capability Center (GCC)
+Services 2026 - Optimization and Enhancement - Global
+10.Wipro was recognized as a Leader in ISG Provider Lens® - Digital Engineering Services - US,
+Europe (all quadrants)
+11.Wipro was ranked as a Leader in ISG Provider Lens® - Life Sciences Digital Services 2026 -
+Global (all quadrants)
+12.Wipro was ranked as a Leader in Avasant's Supply Chain Operations Business Process
+Transformation 2026 RadarView ™
+IT Products  
+1.IT Products segment revenue for the quarter was ₹1.0 billion ($ 10.9 million1)
+2.IT Products segment results for the quarter w ere ₹0.02 billion ( $0.2 million1)
+Please refer to the table on page 12 for reconciliation between IFRS IT Services Revenue and 
+IT Services Revenue on a non -GAAP constant currency basis.  
+About Key Metrics and Non -GAAP Financial Measures  
+This press release contains  key metrics and non -GAAP financial measures within the meaning 
+of Regulation G and Item 10(e) of Regulation S -K. Such non -GAAP financial measures are 
+measures of our historical or future performance, financial position or cash flows that are 
+adjusted to e xclude or include amounts that are excluded or included, as the case may be, 
+from the most directly comparable financial measure calculated and presented in accordance 
+with IFRS.  
+The t able on page 12  provides  IT Services Revenue on a constant currency basis, which is a 
+non-GAAP financial measure that is calculated by translating IT Services Revenue from the 
+current reporting period into U.S. dollars based on the currency conversion rate in effect for 
+the prior  reporting period. We refer to growth rates in constant currency so that business 
+results may be viewed without the impact of fluctuations in foreign currency exchange rates, 
+thereby facilitating period -to-period comparisons of  our business performance. Further, in the 
+normal course of business, we may divest a portion of our business which may not be 
+strategic. We refer to the growth rates in both reported and constant currency adjusting for 
+such divestments in order to represe nt the comparable growth rates.  
+Our key metrics and non -GAAP financial measures are not based on any comprehensive set 
+of accounting rules or principles and should not be considered a substitute for, or superior to, 
+the most directly comparable financial measure calculated in accordance with IFRS and may 
+be different from non -GAAP measures used by other companies.  Our key metrics and non -
+GAAP financial measures are not comparable to, nor should be substituted for, an analysis of 

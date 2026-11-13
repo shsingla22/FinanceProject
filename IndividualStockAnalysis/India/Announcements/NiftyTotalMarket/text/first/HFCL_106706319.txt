@@ -1,0 +1,300 @@
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan -173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902  
+Corporate Identity Number: L64200HP1987PLC007466  
+HFCL/SEC/ 26-27 
+July 22, 2026 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com  
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+RE: Disclosures  under Regulation 30 of the Securities  and  Exchange  Board  of India  (Listin g Obligations 
+and Disclosure Requirements) Regulations, 2015  
+Subject : Outcome of the meetin g of th e Board of Director s held o n July 22, 2026. 
+Time of commencement:  12:00 Noon 
+Time of conclusion:            01:00 P.M.  
+Dear Sir(s)/ Madam, 
+This is in continuation to our earlier intimation date d July 17, 2026 , with respec t to the meetin g of the Boar d of 
+Directors o f the Company, schedule d on July 22, 2026.  
+Pursuant  to Regulation  30 read  with  Part  A of Schedule  III of the  Securities  and  Exchange  Board  of India 
+(Listing  Obligations  and  Disclosure  Requirements)  Regulations,  2015,  (“SEBI  Listing  Regulations ”), we 
+would like to inform all our stakeholders that the Board of Directors of the Company, at its meeting held today, 
+has, inter-alia, considered and approved the following s:- 
+1.Un-audited  Financial Results  of the Company for the 1st Quarter ended June  30, 202 6, of the
+Financial Year 2026 -27, both on Standalo ne and Consolidated basis  (“Financial Results”) , in accordance
+with Regulation 33 of the SEBI Listing Regulations, together  with the Limited Review Report s of the
+Statutory Auditors’ thereon , duly reviewed and recommended by the Audit Committee in its meeting held
+today.
+The copies of the aforesaid Financial Results along with the Limited Review Reports issued by S. Bhandari
+& Co. LLP, Chartered Accountants and Oswal Sunil & Company, Chartered Accountants, Statutory Auditors
+of the Company, are enclosed herewith.
+Arrangements have also been made for publication of the aforesaid financial results in Newspapers, as per
+the requirements  of Regulation  47 of the SEBI Listing Regulations .
+Please note that aforesaid financial results  will also be available on the Company’s website at
+www.hfcl.com .
+2.Setting up of a state -of-the-art manufacturing facility for Data Center Connectivity Products : The
+Board has approved the setting up of a state -of-the-art manufacturing facility for Data Center Connectivity
+Products with a capacity of 2,70,000 assemblies  per annum at an estimated capital outlay of ₹215 crore.
+The decision has been taken in  view of the significant growth in global demand for data center connectivity
+products, driven by the rapid deployment of Artificial Intelligence (AI), hyperscale data centers, cloud
+computing, high -performance computing and high -speed networking infrastructure. This structural shift is
+accelerating the demand for next -generation high -density optical connectivity solutions, thereby creating
+substantial business opportunities for the Company in both domestic and international markets.
+The proposed manufacturing facility will manufacture advanced data center connectivity products,
+including Miniature Multi -Fiber (MMC)  and Super High -Density Multi -Fiber Termination (SNMT)
+assemblies, which are widely used in high -speed data center and AI infrastructure.
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan -173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902  
+Corporate Identity Number: L64200HP1987PLC007466  
+A snapshot of the proposed facility and capital outlay, together with the requisite details in accordance with 
+SEBI Master Circular No. HO/49/14/14(7)2025 -CFD -POD2/I/3762/2026 dated January 30, 2026, is set out 
+below:  
+Product  Existing Capacity & 
+Utilization  Capacity Additon  Estimated Investment/  
+Capex  
+Data Center 
+Connectivity 
+Products  N.A.  2,70,000 assemblies  
+per annum  ~₹215  crore  
+a.Period within which the Capacity is to be added : Expected to be commissioned  by September  202 7.
+b.Mode of financing : Appropriate mix of internal accruals and/or debt financing .
+c.Strategic Rationale : To capitalize on the growing global demand for next -generation data center
+connectivity products, expand the Company's manufacturing capabilities, strengthen its presence in the
+high -growth data center connectivity market, and cater to increasing domestic and international customer
+demand.
+The proposed investment is expected to strengthen the Company's manufacturing capabilities, expand its 
+product portfolio in the high -growth data center connectivity segment, enhance export opportunities, support 
+import substitution, and reinforce the Company's position as a leading provider of next -generation optical 
+connectivity solutions for AI and hyperscale data center applications.  
+The proposed facility is in addition to the existing manufacturing faciliti y of HTL Limited, a subsidiary of the 
+Company, and upon commissioning will substantially augment the Company's manufacturing capacity for data 
+center connectivity products on a consolidated basis.  
+You are requested to take the above information on records and upload the  same on your respective websites.  
+Thanking you . 
+Yours faithfully,  
+For HFCL Limited  
+(Manoj Baid)  
+President  & Company Secretary  
+Encl .: Un-audited  Financial Results  and Limited Review Reports  
+Independent Auditors' Review Report on Standalone Unaudited Quarterlv Financial Results of 
+HFCL Limited {'the Companv') pursuant to Regulation 33 of the SEBI {Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (as amended) 
+To the Board of Directors of 
+HFCL Limited 
+I. We have reviewed the accompanying Statement of the Unaudited Standalone Financial Results ('the 
+Statement') ofHFCL Limited ('the Company ') for the quarter ended June 30, 2026, being submitted by the 
+Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 20 I 5, as amended (' Listing Regulations'), including relevant circulars issued 
+by the SEBI from time to time. The Statement is the responsibility of the Company's Management and has 
+been approved by the Company's Board of Directors. Our responsibility is to issue a report on the Statement 
+based on our review of the Statement, which has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34, Interim Financial Reporting ('Ind AS 
+34'), specified under Section 133 of the Companies Act, 20 I 3 read with relevant rules issued thereunder , and 
+other accounting principles generally accepted in India and in compliance with Regulation 33 of the Listing 
+Regulations. 
+2. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the Entity", 
+issued by the Institute of Chartered Accountants of India. This Standard requires that we plan and perform 
+the review to obtain moderate assurance as to whether the Statement is free of material misstatement. A 
+review of interim financial information consists of making inquiries, primarily of persons responsible for 
+financial and accounting matters, and applying analytical and other review procedures . A review is 
+substantially less in scope than an audit conducted in accordance with Standards on Auditing and 
+consequently does not enable us to obtain assurance that we would become aware of all significant matters 
+that might be identified in an audit. Accordingly , we do not express an audit opinion. 
+3. Based on our review conducted as above, nothing has come to our attention that causes us to believe that 
+the accompanying statement , prepared in accordance with the recognition and measurement principles laid 
+down in the applicable Indian accounting standards (' Ind AS') specified under Section 133 of the Companies 
+Act, 2013, read with relevant rules issued there under and other recognised accounting prnctices and policies 
+generally accepted in India, has not disclosed the information required to be disclosed in terms of Regulation 
+33 of the Listing Regulations including the manner in which it is to be disclosed , or that it contains any 
+material misstatement. 
+Other Matter 
+4. The Statement includes the results for the quarter ended March 31, 2026 being the balancing figure 
+between the audited figures in respect of the full previous financial year ended March 31, 2026 and the 
+published unaudited year-to-date figures up to the third quarter of the previous financial year, which were 
+subjected to a limited review by us, as required under the Listing Regulations. 
+For S BHANDARI & CO LLP 
+Chartered Accountants 
+Firm Registration No. 000560C/C400334 
+Place: New Delhi 
+Date: July 22, 2026 For OSWAL SUNIL & COMPANY 
+Chartered Accountants 
+Firm Registration No. 016520N 
+.--=----.::::,.... 
+(Nawin K Lahoty) 
+Partner 
+Membership No. 056931 
+UDIN: 26056931FGSYCG7719 
+Place: New Delhi 
+Date: July 22, 2026 
+Independent Auditors' Review Report on Consolidated Unaudited Ouarterlv Financial Results of 
+HFCL Limited (the "Parent") pursuant to Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (as amended) 
+To the Board of Directors of 
+HFCL Limited 
+l. We have reviewed the accompanying Statement of the Unaudited Consolidated Financial Results ("the 
+Statement") of HFCL Limited ("the Parent") and its subsidiaries (the Parent and its subsidiaries together 
+referred to as "the Group"), and its share of the net profit after tax and total comprehensive profit of its jointly 
+controlled entities, for the quarter ended June 30, 2026, being submitted by the Parent pursuant to the 
+requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, as amended ('the Listing Regulations'). 
+2. This Statement, which is the responsibility of the Parent's Management and approved by the Parent's 
+Board of Directors , has been prepared in accordance with the recognition and measurement principles laid 
+down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under 
+Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder , and other accounting 
+principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our 
+responsibility is to express a conclusion on the Statement based on our review of the Statement. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the Entity", 
+issued by the Institute of Chartered Accountants of India. This Standard requires that we plan and perform 
+the review to obtain moderate assurance as to whether the Statement is free of material misstatement. A 
+review of interim financial information consists of making inquiries , primarily of persons responsible for 
+financial and accounting matters, and applying analytical and other review procedures. A review is 
+substantially less in scope than an audit conducted in accordance with Standards on Auditing specified under 
+section l 43(10) of the Companies Act 2013 and consequently does not enable us to obtain assurance that we 
+would become aware of all significant matters that might be identified in an audit. Accordingly , we do not 
+express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEB[ under Regulation 33(8) 
+of the Listing Regulations , as amended, to the extent applicable. 
+4. The Statement includes the results of following Subsidiaries and Jointly Controlled Entities: 
+i. Subsidiaries: 
+a. HTL Limited; 
+b. Polixel Security Systems Private Limited; 
+c. Moneta Finance Private Limited; 
+d. HFCL Advance Systems Private Limited; 
+e. Raddef Private Limited; 
+f. Dragon Wave HFCL India Private Limited; 
+g. HFCL Technologies Private Limited; 
+h. HFCL Inc. (United State of America); and 
+1. HFCL B.V. (Netherlands) (As per consolidated financial results) 
+ii. Jointly Controlled Entities: 
+a. Nimpaa Telecommunications Private Limited, and 
+b. BigCat Wireless Private Limited 
+~~--5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based on 
+~oJ)..Rl onsideration of the review reports of the other auditors referred to in paragraph 6, 7 and 8 below, nothing 
+.:;:-'r ome to our attention that causes us to believe that the accompanying Statement , prepared in a 
+: the recognition and measurement principles laid down in the aforesaid Indian Accounting 
+AS") specified under section 133 of the Companies Act 2013 as amended, read with rele 
+. . 
+issued thereunder and other accounting principles generally accepted in India, has not disclosed the 
+information required to be disclosed in terms of Regulation 33 of the Listing Regulations, including the 
+manner in which it is to be disclosed, or that it contains any material misstatement. 
+6. We did not review the interim financial information/ financial results of two subsidiaries included in the 
+consolidated unaudited financial results, whose interim financial information/ financial results reflect total 
+revenues of Rs. Nil, total net profit after tax of Rs. 0.01 Crore and total comprehensive income of Rs. 0.01 
+Crore for the quarter ended June 30, 2026, as considered in the Statement. The Statement also includes the 
+Group's share of net profit/ (loss) after tax of Rs. (0.02) Crore and total comprehensive Income/(loss) of Rs. 
+(0.02) Crore, for the quarter ended on 30 June 2026, as considered in the Statement, in respect of two jointly 
+controlled entities, whose interim financial results have not been reviewed by us. These interim financial 
+information / financial results have been reviewed by other respective auditors whose reports have been 
+furnished to us by the Management and our conclusion on the Statement, in so far as it relates to the amounts 
+and disclosures included in respect of these subsidiaries and jointly controlled entities, is based solely on the 
+reports of the other auditors and the procedures performed by us as stated in paragraph 3 above. 
+7. The interim finai1cial information / financial results of five subsidiaries included in the unaudited 
+consolidated financial results, whose interim financial information / financial results reflect total revenues 
+of Rs. 549.21 Crore, total net profit/(loss) after tax of Rs. 84.92 Crore and total comprehensive income of 
+Rs. 62.96 Crore for the quarter ended June 30, 2026, as considered in the Statement, have been reviewed by 
+one of the joint auditors of the Parent and om opinion on the Statement, in so far as it relates to the amounts 
+and disclosures included in respect of these subsidiaries, is based solely on the reports of such joint auditor. 
+8. The interim financial information / financial results of two foreign subsidiaries (which includes 
+consolidated financial results/ financial information of one of such foreign subsidiaries incorporating results 
+of its step-down subsidiaries) which reflects total revenues of Rs. 712.85 Crore, total net profit/(loss) after 
+tax of Rs. 30.38 Crore and total comprehensive income of Rs. 19.55 Crore for the quarter ended June 30, 
+2026, as considered in the Statement, have been reviewed by the independent auditors in accordance with 
+the regulations of such foreign countries. Such reports have been furnished to us by the management. 
+Financial information/ financial results of these subsidiaries have been converted by the holding company 
+management as per accounting principal generally accepted in India which has been considered in the 
+consolidated financial results solely based on such converted financial results. 
+Our conclusion on the Statement in respect of matters stated in paragraphs 6, 7 and 8 above is not modified . 
+Other Matter 
+9. The Statement includes the results for the quarter ended March 31, 2026 being the balancing figure 
+between the audited figures in respect of the ful I previous financial year ended March 3 I, 2026 and the 
+published unaudited year-to-date figures up to the third quarter of the previous financial year, which were 
+subjected to a limited review by us, as required under the Listing Regulations. 
+For S BHANDARI & CO LLP 
+Chartered Accountants 
+Firm Registration No. 000560C/C400334 ~-(J.S.P. Bansal) 
+Partner 
+Membership No. 070 
+UDIN: 26070980CFHVFF4134 
+Place: New Delhi 
+Date: July 22, 2026 For OSWAL SUNIL & COMPANY 
+Chartered Accountants 
+Firm Registration No. 
+(NawinK iy) 
+Partner 
+Membership No. 0569 
+UDIN: 26056931UQ 
+Place: New Delhi 
+Date: July 22, 2026 
+HFCL LIMITED 
+Regd. Office: 8,Electronics Complex, Chambaghat, Solan-173213 (Himachal Pradesh) 
+Tel. : (+911792) 230644, Fax No(+911792) 231902, E-mail: secretarial@hfcl.com 
+Website:www.hfcl.com/ Corporate Identity Number (CIN): L64200HP1987PLC007466 
+STATEMENT OF UN-AUDITED STANDALONE AND CONSOLIDATED FINANCIAL RESULTS FOR THE FIRST QUARTER ENDED 30TH JUNE, 2026 
+(Rs. in Crore unless otherwise stated) 
+Standalone Consolidated 
+Three months Preceding three Corresponding Previous Three months Preceding three Corresponding Previous 
+ended months ended three months Financial Year ended months ended three months Financial Year 
+ended in the ended ended in the ended 
+SI. previous year previous year 
+No. Particulars 
+June March June March June March June March 
+30,2026 31,2026 30,2025 31,2026 30,2026 31,2026 30,2025 31, 2026 
+Un-audited Audited Un-audited Audited Un-audited Audited Un-audited Audited 
+I INCOME 
+Revenue from Operations 1,607.80 1,511.24 789.28 4,527.54 1,914.98 1,824.12 871.02 4,949.27 
+Other Income 32.54 23.15 14.09 67.46 31.15 22.26 14.53 65.25 
+Total Income 1,640.34 1,534.39 803.37 4,595.00 1,946.13 1,846.38 885.55 5,014.52 
+II EXPENSES 
+Cost of materials/services consumed 725.17 655.97 422.59 1,907.10 969.22 629.87 447.80 1,903.15 
+Purchases of stock-in-trade 365.44 463.40 234.77 1,623.03 370.87 474.72 219.38 1,756.74 
+Change in inventories of finished goods, work-in (40.93) (190.23) (40.51) (406.94) (168.54) 64.26 (32.09) (457.98) 
+progress and stock-in trade 
+Employee benefits expense (Refer Note No. 4) 110.80 106.52 84.16 340.91 147.06 137.44 105.35 445.26 
+Finance costs 53.21 54.51 47.74 209.97 62.48 62.78 55.62 242.06 
+Depreciation, Impairment and Amortisation 43.02 41.52 28.14 137.99 51.25 45.48 32.20 157.38 
+expenses 
+Other expenses 143.51 186.32 89.37 460.80 182.25 203.16 102.18 540.60 
+Total Expenses 1,400.22 1,318.01 866.26 4,272.86 1,614.59 1,617.71 930.44 4,587.21 
+Ill Profit/ (Loss) before exceptional items and tax (I- 240.12 216.38 (62.89) 322.14 331.54 228.67 (44.89) 427.31 
+II) 
+IV Share of net profits/ (loss) of jointly controlled - - - - (0.02) (0.74) 0.19 0.37 
+entities accounted for using equity method 
+V Profit/ (Loss) before exceptional items and tax 240.12 216.38 (62.89) 322.14 331.52 227.93 (44.70) 427.68 
+(lll+IV) 
+VI Exceptional items - - - - - - -
+-
+VII Profit/ (Loss) before tax (V-VI) 240.12 216.38 (62.89) 322.14 331.52 227.93 (44.70) 427.68 
+VIII Tax expense 
+Current Tax 65.27 62.36 - 79.82 91.42 67.26 1.09 104.35 
+Deferred Tax I (Benefits) (4.36) (23.56) (20.55) (10.55) (5.54) (23.78) (16.49) (6.11) 
+IX Profit/ (Loss) after tax for the period/ year from 179.21 177.58 (42.34) 252.87 245.64 184.45 (29.30) 329.44 
+continuing operations (VII-VIII) 
+X Other Comprehensive Income/ (Loss) 
+Items that will not be reclassified to profit or loss 74.24 (30.78) 39.05 (18.56) 74.49 (30.25) 38.73 (18.41) 
+Income tax on above item (0.69) (0.13) (0.33) (0.49) (0.75) (0.27) (0.27) (0.54) 
+Items that will be reclassified to profit or loss 0.29 1.22 0.83 1.87 (1.58) (8.71) 0.46 (10.17) 
+Other comprehensive income/ (Loss) for the 73.84 (29.69) 39.55 (17.18) 72.16 (39.23) 38.92 (29.12) 
+period / year after tax 
+XI Total comprehensive income/ (Loss) for the 253.05 147.89 (2.79) 235.69 317.80 145.22 9.62 300.32 
+period/ year (IX+X) 
+XII Profit/ (Loss) attributable to: 
+Owners of the Parent - - - - 228.60 178.50 (32.24) 311.74 
+Non-controlling interests - - - - 17.04 5.95 2.95 17.70 
+XIII Total comprehensive income I (Loss) attributable 
+to: 
+Owners of the Parent - - - - 300.71 139.16 6.74 282.58 
+Non-controlling interests - - - - 17.09 6.05 2.90 17.74 
+XIV Paid-up Equity Share Capital (Face value of Re. 1/ 153.03 153.03 144.21 153.03 153.03 153.03 144.21 153.03 
+each) 
+xv Other Equity - - - 4,574.41 - - - 4,795.56 
+XVI Earnings I (Loss) per Share (face value of Re. 1/-
+each)-
+Basic (Re/ Rs.) 1.17 1.20 (0.29) 1.72 1.49 1.21 (0.22) 2.13 
+Diluted (Re I Rs.) 1.17 1.20 (0.29) 1.72 1.49 1.21 (0.22) 2.13 
+Cont... 

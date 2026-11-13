@@ -1,0 +1,143 @@
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala, 
+Bangalore -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+ January 20, 202 6 
+Listing Compliance & Legal Regulatory   
+BSE Limited  
+Phiroze  Jeejeebhoy Towers  Dalal Street,  
+Mumbai 400  001 
+Stock  Code:  543227  ,974820 & 975101  Listing  & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra  East,  Mumbai  400 051 
+Stock  Code:  HAPPSTMNDS  
+Dear  Sir/Madam,  
+Sub:  Press Release – HAPPIEST MINDS  - AI FIRST  . AGILE ALWAYS  
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,  
+2015, enclosed herewith is a Press Release  issued by the Company on the captioned subject, the 
+content of which is  self‐explanatory.  
+This is for your information and records.   
+Thanking  you,  
+Yours  faithfully,  
+For Happiest  Minds  Technologies  Limited  
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer  
+Membership  No. F6706  
+
+QYou already had GBS as a business
+unit. What is the new message you 
+are conveying with AI First?
+  JOSEPH:  Through GBS, we laid the 
+foundation for GenAI use cases. We now 
+have 32 use cases that have been through the prototype stage, and many are moving into full projects.  These use cases have the potential to be replicated in dozens of accounts.  AI First also aligns with our customers’ shift from using AI at the edges to making it the core of their business strategy.  We are excited about the scale and depth of impact.
+QWhy have you changed your
+positioning statement to “AI First . 
+Agile Always”?
+  JOSEPH:  ‘Born Digital . Born Agile’ 
+served us well for over a decade.  It 
+established Happiest Minds as the only IT company in India with 98% of our business as Digital.  This is no longer a differentiator.  Also, as mentioned above, we now see AI/GenAI pervading everywhere, which is why we say  “AI First.”  Happiest Minds was founded as an Agile organization, and we believe this to be one of our core strengths, hence “Agile Always.”
+QWhich specific industries are
+moving fastest from kicking the 
+tires to signing multi-year contracts? 
+  SRIDHAR: What we are seeing now is 
+that a few industries have clearly crossed 
+the experimentation phase. Healthcare is right at the front as AI is already easing administrative & treatment pressure and accelerating R&D, which builds 
+confidence for long-term bets. EdTech is following closely, especially in corporate learning, where personalization shows measurable impact. Retail and CPG are gaining momentum as AI begins to influence revenue directly. And in Hi-Tech, the shift is urgent as AI is no longer optional; it’s becoming core to the product itself. 
+We are also developing an AI platform 
+that will take these solutions across industries.
+QCan you explain Agentic AI’s
+offerings? 
+  SRIDHAR: Agentic AI at Happiest 
+Minds covers four big areas—building 
+Agentic AI solutions, AI Native Software Development, ITSM & Cybersecurity offerings that leverage Agentic AI Technologies. 
+Our Agentic AI solutions cover the front 
+end. We build AI Assistants that go beyond chatbots, domain-specific copilots that sit inside workflows like procurement or legal drafting, and intelligent search and content tools to boost productivity. At the platform level, we modernize legacy systems into agentic platforms, develop new platforms, integrate autonomous workflows, and add governance agents 
+to ensure compliance. Finally, in operations, we deliver AI-powered support agents, sales automation, infrastructure optimization, and predictive insights that reduce costs and improve performance. 
+QI understand you are building an AI
+platform, please tell us the vision?
+  SRIDHAR: We are able to deliver our 
+services faster and improve significant 
+productivity through Agentic Technologies across services such as software and product development lifecycle, modernization of technology for our clients. Our “AI Service Delivery Platform” contains frameworks & necessary agents and allow us to have teams with the mixture of humans & agents to make a very significant difference to our clients in terms of speed and cost of delivery.
+QCan you tell us about Happiest
+Mind’s approach to ‘Responsible 
+AI’ and how governance is becoming 
+a differentiator in winning deals against competitors? 
+  SRIDHAR: We do not see Responsible 
+AI as a fancy differentiator. It’s a hygiene 
+factor that will eventually be expected of everyone. But right now, while the industry is still innovating & 
+experimenting, it’s often where things get compromised. Our approach is to balance innovation with responsibility from day one. That means building clear governance and guardrails across every layer, so AI is not just powerful, but also ethical, explainable, and safe. For many customers, confidence is what helps us win trust—and deals.
+QDo you have any examples where
+an AI solution directly impacted a 
+client’s P&L? We want to understand 
+the tangible ROI that justifies their investment. 
+  SRIDHAR: There are many, but let me 
+give you just one example. We applied 
+GenAI to the customer ticket resolution process of a leading airline hospitality services provider. This enabled them to cut resolution times significantly and reduce dependency on subject-matter experts. That directly lowered their cost-to-serve while improving customer satisfaction, resulting in repeat-customer business. Just as importantly, it allowed them to scale support volumes without increasing headcount, delivering a very tangible, defensible impact on the P&L
+QHow does AI readiness among
+your people at Happiest Minds 
+compare to 12 months ago?
+  JOSEPH:  At the beginning of the year, 
+we designed an aggressive plan to get all 
+at Happiest Minds trained on GenAI and the various tools. Our training curriculum is customized to meet the needs of various categories—power users, technical teams, support functions, etc.—with the goal of having 100% coverage by the end of the year and widespread adoption to improve productivity and deliver value to our customers.
+QHow much of your service delivery
+currently includes AI?
+  SRIDHAR: We think of AI adoption in 
+delivery as a natural progression. It starts 
+with AI assisting our teams using GenAI to improve productivity, and that’s already mainstream for us, with about 75% of our developers trained and working that way today. We’re also moving into AI-augmented delivery where agents automate specific tasks alongside teams. And increasingly, we’re helping customers move toward AI-native models where humans and agents work together by design. So AI is already embedded in how we deliver, and that 
+footprint is expanding fast.
+QWhat are your plans for AI in
+healthcare R&D? 
+  PRAVEEN: We are building a suite of 
+AI-driven healthcare products focused on 
+Cardiology, Pediatrics, Chronic disease management, and lifestyle corrections, that embed expert clinical reasoning into everyday decision-making for clinicians, care teams, and individuals.
+We are also working on a cohesive 
+platform that unifies multi-omics processing and automates bioinformatics pipelines. The platform integrates diverse datasets to build a complete picture of how biological components interact, helping research organizations overcome fragmented tools, manual workflows, and siloed infrastructure, thus improving their research productivity and effectiveness.
+We will also be embarking on 
+programs such as AI in Radiology and Diagnostics.
+QYou have forecasted 10% growth
+for the next 3 years. What is the 
+impact you feel on your future plans? 
+  JOSEPH:  We are in a silent period, so I 
+can’t give any revenue forecasts.  
+However, this year we plan to double our GenAI team strength to 250, and in FY27 we plan to increase to 500 people.  By the end of FY27, our total analytics strength, including the Analytics CoE is expected to be 1,000 people.
+QI hear you are even extending your
+research coverage to include AI in 
+Ayurveda? 
+  PRAVEEN:   Yes, that is correct. AI-
+enabled Ayurveda represents a rare
+opportunity to create a global 
+differentiator. Rather than viewing 
+disease as a sudden event, Ayurveda 
+describes a gradual, systems-level loss 
+of balance, creating clear windows for 
+stage-specific intervention. Our work in 
+AI and Ayurveda is about decoding 
+prevention at the systems level. Using AI, 
+we can translate Ayurveda’s multi-target, 
+early-intervention logic into measurable, 
+testable, and scalable science.  We are 
+exploring integrative models that 
+combine ‘Prakriti’, genomics, 
+epigenomics, autonomic signals, and 
+longitudinal phenotypes to generate 
+precision-holistic interventions. For 
+patients, this means earlier diagnosis and 
+gentler, personalized care.HAPPIEST MINDS
+AIFIRST. AGILE ALWAYS
+Bengaluru, JANUARY 20, 2026: Happiest Minds has embraced becoming India’s leading AI First 
+customer-obsessed digital engineering and Mindful IT company , helping clients to 
+transition and succeed in an 
+AI-competitive world. Raghu Krishnan spoke to Joseph Anantharaju, Co-Chairman and CEO 
+of Happiest Minds, Sridhar Mantha, CEO of the Generative AI Business Services (GBS) and 
+Praveen R P , Co-CEO of the GBS Business Unit on their strategy.
+JOSEPH ANANTHARAJU
+CO-CHAIRMAN & CEO, HAPPIEST MINDS
+SRIDHAR MANTHA
+CEO, GENERATIVE AI BUSINESS 
+SERVICES (GBS), HAPPIEST MINDS
+PRAVEEN R P
+CO-CEO, GBS, HAPPIEST MINDS

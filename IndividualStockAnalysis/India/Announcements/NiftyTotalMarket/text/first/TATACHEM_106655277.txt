@@ -1,0 +1,402 @@
+ 
+ 
+ 
+ 
+ 
+June 4, 202 6 
+ 
+The General Manager  
+Corporate Relations Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code : 500770  The Manager  
+Listing Department  
+National Stock Exchange of India Limited  
+Exchange Plaza  
+Bandra -Kurla Complex, Bandra (E)  
+Mumbai – 400 051  
+Symbol : TATACHEM  
+ 
+Dear Sir s,  
+ 
+Sub: Business Responsibility and Sustainability Re port for FY 2025-26 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations & 
+Disclosure Requirements) Regulations , 2015, we are submitting herewith the Business Responsibility 
+and Sustainabi lity Report (‘BRSR’) for FY 202 5-26 which forms part of the Integrated Annual Report  
+FY 2025 -26. 
+ 
+The Independent Practitioners’ Reasonable Assurance Report  on the  sustainability disclosures in the 
+BRSR Core Format and the Independent Practitioners’ Limited  Assurance Report on the  limited 
+sustainability disclosures in the Integrated Annual Report , both provided by KPMG Assurance and 
+Consulting Services LLP as enclosed , forms part of the BRSR.  
+ 
+The BRSR is also available on the website of the Company at 
+https://www.tatachemicals.com/investors/agm -documents . 
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Chemicals Limited  
+ 
+ 
+ 
+Jeraz E. Mahernosh  
+Company Secretary  
+(FCS 7008)  
+ 
+Encl.: as above  
+ 
+ 
+Business Responsibility and  
+Sustainability Reporting
+GENERAL DISCLOSURES SECTION A: 
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity L24239MH1939PLC002893
+2. Name of the Listed Entity Tata Chemicals Limited
+3. Y ear of incorporation 1939
+4. Registered office address Bombay House, 24 Homi Mody Street, Fort, Mumbai - 400001
+5. Corporate address Bombay House, 24 Homi Mody Street, Fort, Mumbai - 400001
+6. E-mail investors@tatachemicals.com
+7. Telephone +91 22 6665 8282
+8. Website www.tatachemicals.com
+9. Financial year for which reporting is being done April 1, 2025 to March 31, 2026
+10. Name of the Stock Exchange(s) where shares are listed 1. BSE Limited
+2. The National Stock Exchange of India Limited
+11. Paid-up Capital C 255 crore
+12. Details of the person who may be contacted in case of any queries on the BRSR report.
+S. No. Name Telephone Email
+1 Mr. Alok Chandra +91 22 6232 7410 BRSR@tatachemicals.com
+13. Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e. only for 
+the entity) or on a consolidated basis (i.e. for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together).The Report is prepared on a consolidated basis for Tata Chemicals Limited 
+(‘TCL’ or ‘the Company’) and is in accordance with the Securities and 
+Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, including the requirements of the Business 
+Responsibility and Sustainability Reporting (‘BRSR’) framework.
+The information/data measurement techniques used, and the basis of 
+calculations and estimates have been mentioned in the relevant sections 
+of this Report. There is a restatement in the comparative year (Financial 
+Year 2024–25) due to the recomputation of air emissions (SOx, NOx, and 
+PM) in Rallis India Limited, a subsidiary (Principle 6, Essential Indicator 6). 
+The effects and reasons for the restatement have been included in the 
+relevant indicator. 
+This restatement enables consistency and comparability of information 
+between the current year and the previous year. The Company has 
+evaluated and does not consider the impact of this restatement to be 
+material, either qualitatively or quantitatively, to BRSR disclosures.
+The reporting boundary excludes wholly owned subsidiary Novabay Pte. 
+Limited, which was acquired pursuant to a Share Purchase Agreement 
+announced on December 19, 2025 and completed on March 19, 2026. The 
+Company has evaluated and believes that this exclusion is not material, 
+both qualitatively and quantitatively, to the reporting under BRSR.
+14. Name of assurance provider KPMG Assurance and Consulting Services LLP , Mumbai (KPMG).
+15. Type of assurance obtained BRSR Core Indicators - Reasonable assurance;  
+Select BRSR Indicators - Limited assurance.
+Tata Chemicals
+1
+Statutory Reports
+1-52
+Business Responsibility and  
+Sustainability Reporting
+S. No. Description of Main Activity Description of Business Activity % of Turnover of the entity
+1 Basic Chemistry Products & Others Manufacturing, Distribution, Sales & Marketing 78.91
+2 Specialty Products Manufacturing, Distribution, Sales & Marketing 21.09
+LocationNumber of 
+manufacturing plantsNumber of offices Total
+National 11 10 21
+International 6 5 11
+Locations Number
+National (No. of States) 26
+International (No. of Countries) 105S. No. Product/Service NIC Code% of total Turnover 
+contributed
+1 Soda Ash 201 51.77
+2 Salt 107 16.82
+3 Crop Protection 202 14.35
+4 Bicarb 201 6.69
+5 Seeds 016 3.27
+6 Others Multiple 7.10II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+III. Operations
+18. Number of locations where manufacturing plants and/or operations/offices of the entity are situated:
+19. Markets served by the entity
+ a. Number of locations
+19. b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+  26.64
+19. c.  A brief on types of customers
+  The Company serves manufacturers of Glass (Flat, Container, Solar etc.), Soaps & Detergents, Chemicals (Silicate, Lithium Carbonate, 
+Sodium Bicarbonate etc.), Food & Beverages, Animal Feed, Pharmaceuticals, Automotive Tyres, Farmers etc., both directly as well as 
+through distributors.
+IV. Employees
+20. Details as at the end of Financial Y ear:
+ a. Employees and workers (including differently abled):
+S. 
+No.Particulars  Total (A)  Male Female 
+No. (B)  % (B / A)  No. (C) % (C / A) 
+Employees 
+1  Permanent (D)  3,621 3,318 91.63 303 8.37
+2  Other than permanent (E)  2,832 2,540 89.69 292 10.31
+3  Total Employees (D+E)  6,453 5,858 90.78 595 9.22
+Workers  
+4  Permanent (F)  816 779 95.47 37 4.53
+5  Other than permanent (G)  6,687 6,252 93.49 435 6.51
+6  Total Workers (F+G)  7,503 7,031 93.71 472 6.29
+  Note: For the locations having rotation temporary workforce, the number of other than permanent workers is calculated as the 
+average number of workers across the year to ensure correct representation. 
+   Pursuant to the applicability of Labour Codes from 21 November 2025, wages under the BRSR framework have been considered as 
+per Section 2(y) of the Code on Wages, 2019, which excludes retirement benefits Accordingly, gratuity and leave encashment have 
+been excluded from gross wages for the relevant ratios.
+2
+Integrated Annual Report 2025-26
+ b. Differently abled Employees and workers:
+S. 
+No. Particulars  Total (A) Male Female 
+No. (B) % (B / A) No. (C) % (C / A) 
+DIFFERENTLY ABLED EMPLOYEES 
+1  Permanent (D) 21 18 85.71 3 14.29
+2  Other than permanent (E) 3 2 66.67 1 33.33
+3  Total differently abled 
+employees (D + E) 24 20 83.33 4 16.67
+DIFFERENTLY ABLED WORKERS 
+4  Permanent (F) 5 4 80.00 1 20.00
+5  Other than permanent (G) 48 48 100.00 0 0.00
+6  Total differently abled 
+workers (F + G) 53 52 98.11 1 1.89
+21. Participation/Inclusion/Representation of women
+Particulars Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors (BOD)* 7 1 14.29
+Key Management Personnel (KMP)* 3 0 0.00
+ *MD & CEO is part of both BOD and KMP
+22. Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2025-26 FY 2024-25 FY 2023-24
+Male (%) Female (%) Total (%) Male (%) Female (%) Total (%) Male (%) Female (%) Total (%)
+Permanent Employees 14.67 15.76 14.76 10.07 15.36 10.50 14.21 17.12 14.44
+Permanent Workers 17.84 28.57 18.34 10.61 15.22 10.82 10.82 13.89 10.93
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. a. Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No. Name of the holding / subsidiary / associate companies / 
+joint ventures (A)  Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture  % of shares 
+held by 
+listed entity  Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity ? (Y es / No)
+1 Rallis India Limited  Subsidiary  55.04  Yes
+2 Tata Chemicals International Pte. Limited (TCIPL)  Subsidiary  100.00 Yes
+3 Ncourage Social Enterprise Foundation (Under Section 8 of 
+the Companies Act, 2013)  Subsidiary  100.00 Yes
+4 Novabay Pte. Limited Subsidiary  100.00 Yes
+5 Tata Chemicals North America Inc.  Subsidiary  100.00 Yes
+6 Tata Chemicals Soda Ash Partners LLC   Subsidiary  100.00 Yes
+7 Homefield Pvt UK Limited  Subsidiary  100.00 Yes
+8 TCE Group Limited   Subsidiary  100.00 Yes
+9 TC Africa Holdings Limited  Subsidiary  100.00 Yes
+10 Natrium Holdings Limited   Subsidiary  100.00 Yes
+11 Tata Chemicals Europe Limited  Subsidiary  100.00 Yes
+12 Winnington CHP Limited  Subsidiary  100.00 Yes
+Tata Chemicals
+3
+Statutory Reports
+1-52
+Business Responsibility and  
+Sustainability Reporting
+Stakeholder 
+group from whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place (Y es/No) 
+(If Y es, then provide web-link 
+for grievance redress policy)FY 2025-26 FY 2024-25
+Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities Yes* 
+A mechanism is in place to 
+interact with community 
+leaders to understand and 
+address their concerns, if any  6 0 NIL 2 0 NIL
+Investors Yes 
+A mechanism is in place 
+wherein certain Company 
+representatives and advisors 
+have been identified to 
+understand and address their 
+concerns, if any 0 0 NIL 0 0 NILS. 
+No. Name of the holding / subsidiary / associate companies / 
+joint ventures (A)  Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture  % of shares 
+held by 
+listed entity  Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity ? (Y es / No)
+13 Brunner Mond Group Limited  Subsidiary  100.00  Yes
+14 Tata Chemicals Magadi Limited  Subsidiary  100.00  Yes
+15 Northwich Resource Management Limited  Subsidiary  100.00  Yes
+16 Gusiute Holdings (UK) Limited  Subsidiary  100.00  Yes
+17 British Salt Limited  Subsidiary  100.00  Yes
+18 Cheshire Salt Holdings Limited  Subsidiary  100.00  Yes
+19 Cheshire Salt Limited  Subsidiary  100.00  Yes
+20 New Cheshire Salt Works Limited  Subsidiary  100.00  Yes
+21 Tata Chemicals (South Africa) Proprietary Limited  Subsidiary  100.00  Yes
+22 Magadi Railway Company Limited   Subsidiary  100.00  No
+23 Alcad   Subsidiary  100.00  No
+24 Indo Maroc Phosphore S. A  Joint Venture  33.33  No
+25 Tata Industries Limited  Joint Venture  9.13  No
+26 The Block Salt Company Limited Joint Venture  50.00  No
+27 JOil (S) Pte. Limited and its subsidiaries Associate  17.01  No
+VI. CSR Details
+(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+ Standalone Consolidated
+(ii) Turnover (in H crore) 4,831 14,584
+(iii) Net worth (in H crore) 19,308 22,175 24.
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible  
+Business Conduct:
+4
+Integrated Annual Report 2025-26
+Stakeholder 
+group from whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place (Y es/No) 
+(If Y es, then provide web-link 
+for grievance redress policy)FY 2025-26 FY 2024-25
+Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Shareholders Yes, Shareholders can register 
+their grievances on SCORES 
+Portal at https://scores.sebi.
+gov.in/   and on ODR Portal at 
+https://smartodr.in/     89 14 Pending 
+complaints 
+closed 
+subsequently 66 2 Pending 
+complaints 
+closed 
+subsequently
+Employees and 
+workersYes
+Ethics Helpline (https://secure.
+integritymatters.in)28 1 Pending 
+complaints 
+under review14 0 NIL
+Customers Yes
+	  Ethics complaints 
+Whistleblower Policy 
+Ethics Helpline 
+(https://secure.
+integ ritymatters.in)0 0 NIL 0 0 NIL
+	  Customer complaints  
+TCL Entities1,718 48 Pending 
+complaints 
+under review1,934 0 NIL
+Value chain 
+partnersYes
+Ethics Helpline (https:// 
+secure.integritymatters.in)5 1 Pending 
+complaints 
+under review7 0 NIL
+Others (Coming 
+from Ex-employee, 
+anonymos sources)Yes 13 0 NIL 3 1 Pending 
+complaints 
+closed 
+subsequently
+ *For communities supported by TCL India and Rallis.
+26. Overview of the entity’s material responsible business conduct issues
+S. 
+No. Material issue 
+identifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the risk / 
+opportunityIn case of risk, approach to 
+adapt or mitigateFinancial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+1 Health & Safety Risk Health & Safety can directly impact 
+people and community and 
+disrupt the operations	 Global benchmarking of 
+safety practices 
+	 Safety Golden 
+Rules and Principles
+	 Regular monitoring of 
+Lead and Lag indicators
+	 Frequent safety audits 
+and assessments 
+	 Use of digital 
+and AI in safety 
+monitoring and ReportingNegative
+2 Opportunities in 
+Green ChemistryOpportunity Innovate to create greener 
+products, meet the demands 
+of environmentally conscious 
+stakeholders and enhance lifecycle 
+product management	 Intensifying 
+R&D to develop 
+new green products
+	 Investment in R&D 
+	 Exploring technologies for 
+green manufacturingPositive
+Tata Chemicals
+5
+Statutory Reports
+1-52
+Business Responsibility and  
+Sustainability Reporting

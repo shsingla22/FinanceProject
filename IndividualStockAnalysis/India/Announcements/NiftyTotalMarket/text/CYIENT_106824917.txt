@@ -1,0 +1,997 @@
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                              CIN: L72200TG1991PLC013134 
+                            Units Layout, Madhapur                                        www.cyient.com 
+                            Hyderabad -500 081                                               Company.secretary@cyient.com 
+                            India                                                                           T +91 40 6764 1000  
+                                                                                                                F +91 40 2311 0 352 22 October 2026 
+ 
+BSE Limited                                                                            National Stock Exchange of India Ltd                                                 
+PJ Towers, 25th Floor              Exchange Plaza                                                                                      
+Dalal Street                Bandra-Kurla Compl ex, Bandra(E)                                                      
+Mumbai 400 001              Mumbai-400 051  
+Scrip Code: 532175                                         Scrip Code: CYIENT 
+ 
+ Dear Sir/ Madam,  
+Sub: Outcome of Board Meeting   
+This is to inform that the Board of Directors of the company at their meeting held today has inter-alia 
+has approved the following: 
+ 
+1. Un-audited financial results (Standalone and Consolidated) for the quarter and half year ended 30 September 2026 – Annexure A   
+2. Declaration of Interim Dividend of Rs. 12/- per eq uity share (i.e.240%) on par value of Rs. 5/- 
+per share and fixed record date for this purpose. 
+3. Reconstitution of Audit Committee, Risk Ma nagement Committee, Stakeholders Engagement 
+Committee  and Environment, Social & Governance Committee– Annexure B  
+4. Acquisition of remaining 49% stake in Cyient Solutions and Systems Private Limited (CSSPL) 
+post;  this acquisition CSSPL will became a wholly owned subsidiary of the company. 
+ 
+The meeting of Board of Directors of the company co mmenced at 13.45 hrs. and concluded at 15:50hrs 
+ This is for your information and records.  
+ Thanking you 
+For Cyient Limited  
+  
+Sudheendhra Putty Company Secretary 
+ 
+  
+  
+  
+  
+  
+ 
+ CYll:NT • 
+• • 
+CYIENT LIMITED 
+(CIN No.: L72200TG1991PLC013134) 
+Regd office: 4th Floor, "A" Wing, Plot No. 11, Software Units Layout, lnfocity, Madhapur, Hyderabad -500 081, India 
+Statement of Unaudited Consolidated and Standalone Financial Results for the Quarter and Half Year Ended September 30, 2026 
+(f in Millions) 
+Consolidated results Standalone results 
+SI.No Particulars Quarter Ended Half Year Ended Year Ended Quarter Ended Half Year Ended Year Ended 
+30-Sep-26 30-Jun-26 30-Sep-25 30-Sep-26 30-Sep-25 31-Mar-26 30-Sep-26 30-Jun-26 30-Sep-25 30-Sep-26 30-Sep-25 31-Mar-26 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+1 Income 
+(a) Revenue from contracts with customers 22,350 20,757 17,810 43,107 34,928 72,682 6,920 6,796 5,957 13,716 11,442 23,633 
+(b) Other income (refer note 4) 86 69 500 155 1,197 1,772 32 200 282 232 869 1,389 
+Total income 22,436 20,826 18,310 43,262 36,125 74,454 6,952 6,996 6,239 13,948 12,311 25,022 
+2 Expenses 
+(a) Employee benefits expense 11,731 11,228 10,057 22,959 19,690 40,340 3,419 3,444 3,217 6,863 6,423 13,032 
+(b) Cost of materials consumed 3,554 2,929 1,872 6,483 3,490 8,128 
+(c) Changes in inventories of finished goods, stock-in-trade and work-in-progress (307) 71 6 (236) 76 (:166) 
+(d) Finance costs 373 217 159 590 322 608 67 25 30 92 59 104 
+(e) Depreciation and amortisation expense 840 767 722 1,607 1,402 2,782 202 205 201 407 403 806 
+(f) lmpairmen t of non-curre nt assets 278 
+(g) Other expenses 4,248 3,891 3,687 8,139 7,177 15,098 1,818 1,411 1,088 3,229 2,113 4,881 
+Total expenses 20,439 19,103 16,503 39,542 32,157 66,968 5,506 5,085 4,536 10,591 8,998 18,823 
+3 Profit before share ofloss from an associate, exceptional items and tax (1-2) 1,997 1,723 1,807 3,720 3,968 7,486 1,446 1,911 1,703 3,357 3,313 6,199 
+4 Share of loss from an associate (30) 112) (48) (42) (73) (1131 
+5 Profit before exceptional items and tax {3+4) 1,967 1,711 1,759 3,678 3,895 7,373 1,446 1,911 1,703 3,357 3,313 6,199 
+6 Exceptional items 207 207 (928) 207 207 (3,309) 
+7 Profit before tax {5+6) 1,967 1,711 1,966 3,678 4,102 6,445 1,446 1,911 1,910 3,357 3,520 2,890 
+8 Tax expense 
+(a) Current tax 690 614 887 1,304 1,474 2,706 430 355 469 785 892 1,654 
+(b) Deferred tax (48) 10 (350) (38) (375) (891) (12) 119 7 107 7 (310) 
+Total tax expense 642 624 537 1,266 1,099 1,815 418 474 476 892 899 1,344 
+9 Net Profit for the period/year (7-8) 1,325 1,087 1,429 2,412 3,003 4,630 1,028 1,437 1,434 2,465 2,621 1,546 
+Attributable to: 
+Shareholders of the Company 1,214 1,041 1,275 2,255 2,813 4,279 1,028 1,437 1,434 2,465 2,621 1,546 
+Non-controlling interests 111 46 154 157 190 351 
+10 Other comprehensive income 
+{a) Other comprehensive income not to be reclassified to profit or loss in subsequent periods: 
+(i) Re-measurement gain/(loss) on defined benefit plans 66 (27) 6 39 (1) 20 51 (27) 2 24 (6) 7 
+Income tax effect on above (16) 7 (1) (9) (7) (13) 7 (1) (6) 1 (3) 
+(ii) Fair value change on financial instruments (38) (38) (161) 46 
+Income tax effect on above (11) (11) 
+(b) Other comprehensive income to be reclassified to profit or loss in subsequent periods: 
+(i) Exchange differences in translating the financial statements of foreign operations 886 188 527 1,074 1,355 2,962 
+(ii) Net loss on net investment hedge [refer note 6) (292) (292) 
+(iii] Effective portion of gain/(lo s) on designated portion of hedging instrnments in a cash flow hedge 109 264 (129) 373 (253) (473) 72 254 (126) 326 (250) (452) 
+Income tax effect on above (18) (64) 32 (82) 63 118 (18) (64) 32 (82) 63 114 
+735 368 397 1,103 1,126 2,448 92 170 (93) 262 (192 (299) 
+Attributabl e to: 
+Shareholders of the Company 723 366 392 1,089 1,121 2,483 92 170 (93) 262 (192) (299) 
+Non-controlling interests 12 2 5 14 5 (35) 
+11 Total comprehensive income {9+10) 2,060 1,455 1,826 3,515 4,129 7,078 1,120 1,607 1,341 2,727 2,429 1,247 
+Attributable to: 
+Shareholders of the Company 1,937 1,407 1,667 3,344 3,934 6,762 1,120 1,607 1,341 2,727 2,429 1,247 
+Non-controlling interests 123 48 159 171 195 316 
+12 Paid-up equity share capital fFace Value of f 5 per sharel 556 556 
+13 Other equity 56,263 35,341 
+14 Earnings Per Share [Face Value of~ 5 per share]* - (a) Basic [in~) ~~~ 11.54 9.42 11.55 20.91 25.51 38.78 9.77 13.00 12.99 22.85 23.76 14.01 
+(b) Diluted (in~) 11.47 9.37 11.48 20.79 25.34 38.54 9.71 12.93 12.91 22.72 23.61 13.93 
+• EPS for the quanerly and half yearly periods a1·e not annualised. (~t~.~ [Page I of6) 
+'Y~ rif> R/XV 
+Balance sheet: 
+fl in Millions) 
+Consolid ated Standalone 
+Particulars As at Asat 
+30-Seo-2026 31-Mar-2026 30-Sep-2026 31-Mar-2026 
+Unaudited Audited Unaudited Audited 
+ASSETS 
+Non-current assets 
+Property, plant and equipment 5,097 4,747 2,527 2,373 
+Right-of-use assets 2,622 2,448 271 477 
+Capital work-in-progress 117 48 27 27 
+Goodwill 42,411 19,717 110 110 
+Other intangible assets 9,966 3,931 414 454 
+Intangible assets under developme nt 117 
+Investment accounted for using the equity method 475 499 
+Financial assets 
+(a) Investments 2,149 1,981 40,376 18,820 
+(b) Other financial assets 330 310 164 168 
+Deferred tax assets ( net) 1,870 1,838 537 732 
+Income tax assets (net) 539 633 98 217 
+Other non-current assets 417 430 18 13 
+Total non-current assets 66,110 36,582 44,542 23,391 
+Current assets 
+Inventories 7,677 6,528 
+Contract assets 7,077 5,746 1,301 1,048 
+Financial assets 
+(a) Investments 3,245 2,094 2,005 1,783 
+(b) Trade receivables 14,447 13,055 4,841 5,696 
+(c) Cash and cash equivalents 12,454 14,575 3,883 9,408 
+( d) Bank balances other than cash and cash equivale nts 757 488 2 2 
+(e) Loans 1,333 
+(f) Other financial assets 304 133 153 80 
+Other current assets 3,779 2,710 1,501 1,223 
+Total current assets 49,740 46,662 13,686 19,240 
+TOT AL ASSETS 115850 83 244 58 228 42 631 
+EQUITY AND LIABILITIES 
+Equity 
+Equity share capital 524 556 524 556 
+Other equity 50,459 56,263 31,018 35,341 
+Equity attributable to shareholders of the Company 50,983 56,819 31,542 35,897 
+Non-controlling interests 5,080 4,814 
+Total equity 56,063 61,633 31,542 35,897 
+LIABILITIES 
+Non-current liabilities 
+Financial liabilities 
+(a) Borrowings 22,506 778 11,447 
+(b) Lease liabilities 1,764 1,756 53 137 
+(c) Other financial liabilities 12,096 17 9,448 
+Provisions 2,444 2,387 1,800 1,841 
+Deferred tax liabilities (net) 1,682 741 
+Total non-current liabilities 40,492 5,679 22,748 1,978 
+Current liabilities 
+Financial liabilities 
+(a) Borrowings 2,291 880 
+(b) Lease liabilities 1,033 897 184 312 
+(c) Trade payables 
+(i) Total outstanding dues of micro enterprises and small enterprises 107 95 55 59 
+(ii) Total outstanding dues of creditors other than micro enterprises and small 6,078 5,273 1,437 2,312 enterprises 
+( d) Other financial liabilities 5,079 4,113 1,415 1,283 
+Income tax liabilities (net). 522 452 43 23 
+Provisions 1,595 1,630 537 448 
+Other current liabilities 2,590 2,592 267 319 
+Total current liabilities 19,295 15,932 3,938 4,756 
+Total liabilities 59,787 21,611 26,686 6,734 
+TOTAL EQUITY AND LIABILITIES 115850 83 244 58 228 42 631 
+(Page 2 of 6) 
+NOTES: 
+1 The above statement of unaudited consolidated and standalone financial results ofCyient Limited (the "Holding Company" or the "Company"), it subsidiaries (the Holding Company and its subsidiaries together referred toas 
+the "Group") and an associate has been prepar·ed in accordance with the Indian Accounting Standards (' Ind AS') prescribed under Section 133 of the Companies Act, 2013 ("the Act") read with relevant rules issued thereunder, 
+other accounting principles generally accepted in India and guidelines issued by the Securities and Exchange Board of India ("SEBI"). These results were revieweu and recommended by the Audit Committee and approved by 
+the Board of Directors at their meetings held on October 22, 2026. The Statutory Auditors have carried out a limited review of the unaudited consolidated and standalone financial results and issued unmodified reports thereon. 
+2 The Company, through its subsidiary, Cyient Cayman Limited, acquired majority stake of82.9% in Kinetic Technologies on April 8, 2026, upon satisfaction of the closing conditions for a consideration on 7,910 Mn (US$ 85 Mn), 
+which included funds retained within Cyient Cayman Limited to support the ongoing operations amounting to { 1,023 Mn (US$ 11 Mn), resulting in net purchase consideration of { 6,887 (US$ 74 Mn). Further, the non­
+controlling shareho lders have put option towards their shareholding on the Group, exercisab le after four years based on the agreed terms. 
+The transaction was accounted in accordance with Ind-AS 103, 'Business Combinations' and the initial accounting has been provisionally determined. The Group recognised {2,792 Mn (US$ 30 Mn) towards the fair value of net 
+assets acquired, { 4,654 Mn (US$ 50 Mn) towards goodwill, non-controlling interest of { 465 Mn (US$ 5 Mn) and pre-combination employee stock options on 93 Mn (US$ 1 Mn). Further, the Group has recognised a financial 
+liability in respect of the put option granted to the non-controlling shareholders, measured at { 2,457 Mn l US$ 26 Mn) as of the acquisition date. The acquisition pertains to the Group's Semiconductor Segment. 
+3 Pursuant to Share Purchase Agreement ('SPA') dated May 30, 2026, the Company has acquired 100% of the issued capital of TAO Digital Solutions Inc., a Delaware Corporation (TAO), for a consideration on 21,563 Mn ($228 
+Mn), consi ting of an upfront cash payment of { 12,295 Mn($ 130 Mn) and performance-based contingent payments of { 9,268 Mn($ 98 Mn). Consequent to this acquisition, TAO along with its subsidiaries became wholly­
+owned subsidiaries of the Company with effect from September 3, 2026 upon satisfactory completion of the closing conditions under the SPA and has been consolidated with effect from that date. The transaction was accounted 
+in accordance with Ind AS 103 and the initial accounting has been provisionally determined. 
+The Group recognised { 4,325 Mn($ 46 Mn) towards the fair value of net assets acquired and { 17,238 Mn($ 182 Mn) towards Guu<lwill. The acquisition pertains to the Group's DET (Digital, Engineering and Technology) 
+Segment. 
+4 Other income includes: (fin Millions) 
+Particulars Quarter ended Half Year Ended Year ended 
+i. Net foreign exchange gain/(loss) 30-Sep-26 I 30-Jun-26 I 30-Sep-25 30-Sep-26 I 30-Sep-25 31-Mar-26 
+Standalone results (460)1 (209)1 93 (669) I 500 591 
+Consolidated results (2381 I (23411 66 (4721 I 531 595 
+ii. During the quarter ended September 30, 2026 and June 30, 2026, the Company received a dividends of { 400 Mn from Cyient Insights Private Limited and { 132 Mn from Cyient Australia Pty Limited, its wholly owned 
+subsidiaries respectively and the same is recognised as 'Other income' in the standalo ne financial results. 
+S During the quarter ended September 30, 2026, Cyient Semiconductors Singapore Private Limited (the Company's subsidiary) has issued Non -Convertible Debentures (NCO) aggregat ing to { 2,000 Mn, which is repayable at 
+the end of 3 years from the date of i sue and Compul orily Convertible Preference Shares (CCPS) aggregati ng to { 1,000 M 11. The CCPS have fixed conversion terms and exit right on the Company if certain events do not occur 
+within the stipulated period. Accordingly, CCPS is recogni ed as a financial liability in the consolidated financial results. 
+6 During the quarter ended September 30, 2026, the Group formally designated its USO denominated External Commercial Borrowing (ECB) and earnout payable relating to the TAO Digital Solutions Inc., acquisition as hedging 
+instruments against its net investment of its subsidiarie with functional currency as USO for purpose of hedge accounting. Accoruingly, a foreign exchange loss of { 292 Mn representing effective portion of the hedge is 
+recognised in other comprehens ive income to offset translation differences on the hedged net investments in the consolidated financial results. 
+7 The Board of Directors of the Company, at its meeting held on April 23, 2026, approved a pro po al for the Company to buyback up to 6,400,000 fully paid-up equity share of face value {5 each, comprising S. 76% of the tota I 
+paid-up equity share capital of the Company as of March 31, 2026, through the tender offer route, from the eligible equity shareho lders of the Company, at a price of { 1,125 per equity share, for an aggregate amount not 
+exceeding { 7,200 Mn (excluding transaction costs). The shareholders approved the proposal for buyback of equity shares by way of special resolution, the results of which were announced on June 10, 2026. The tendering 
+period for the buyback opened on June 23, 2026 and closed on June 30, 2026 and the Company has made payment to all the shareholders whose bids were valid and accepted under the buyback on July 06, 2026, through the 
+stock exchange settlement mechanism. The extinguishment of all accepted share held in dematerialised form was completed on July 15, 2026, in accordance with the applicable Buyback Regulations. 
+8 During the quarter ended September 30, 2026 and June 30, 2026, the Company has allotted 17,340 equity shares and 15,616 equity shares of { S each respectively, consequent to the exercise of the stock options by the 
+associates of the Company under the Associate Stock Option Plans. 
+9 The Board of Directors at their meeting held on October 22, 2026 has declared an interim dividend on 12 per share on face value on 5 each, aggregating to~ 1,257 Mn. 
+10 Consolidated and tandalone unaudited statement of cash flows are attached in Annexure - 1 (A) and Annexure -l(B) respectively. 
+(Page 3 of 6) 
+11 SEGMENT REPORTING: 
+Particulars 
+Segment revenue 
+Digital, Engineering & Technology (DET) 
+Design Led Manufacturing (DLM) 
+Semiconductors 
+Others 
+Total 
+Less: Inter segment revenue 
+Revenue from contracts with customers 
+Segment results 
+Digital, Engineering & Technology (DET) 
+Design Led Manufacturing (OLM) 
+Semiconductors 
+Others 
+Total 
+Less: 
+Finance costs 
+Add: 
+Exceptional items 
+Other unallocable income/ (expense) (net) 
+Share of loss from an associate* 
+Profit before tax 
+Tax expense 
+Profit for the period/year 
+Capital employed (Segment assets -Segment liabilities) 
+Segment assets 
+Digital, Engineering & Technology (DET) 
+Design Led Manufacturing (DLM) 
+Semiconductors 
+Others 
+Unallocable 
+Total segment assets 
+Segment liabilities 
+Digital, Engineering & Technology (DET) 
+Design Led Manufacturing (DLM) 
+Semiconductors 
+Others 
+Unallocable 
+Total segment liabilities 
+* Pertains to Semiconducto rs segment. 
+Notes: 30-Sep-26 
+Unaudited 
+16,642 
+3,931 
+1,847 
+93 
+22,513 
+163 
+22,350 
+2,319 
+422 
+(300) 
+(18) 
+2,423 
+373 
+(53) 
+(30) 
+1,967 
+642 
+1,325 Quarter Ended 
+30-Jun-26 30-Sep-25 
+Unaudited Unaudited 
+15,402 14,385 
+3,738 3,107 
+1,697 542 
+81 86 
+20,918 18,120 
+161 310 
+20,757 17,810 
+1,884 1,538 
+286 403 
+(284) (235) 
+(13) (9) 
+1,873 1,697 
+217 159 
+207 
+67 269 
+(12) (48) 
+1,711 1,966 
+624 537 
+1,087 1,429 
+30-Sep-26 
+Unaudited 
+63,720 
+18,156 
+12,542 
+366 
+21,066 
+115,850 
+21,445 
+4,089 
+4,193 
+35 
+30,025 
+59,787 
+Segment information is presented in accordance with Ind AS 108 "Operating Segments" for the consolidated financial results. 
+The CODM reviews the business across four operating segments: (~ in Millions) 
+Half Year Ended Year Ended 
+30-Sep-Z6 30-Sep-25 31-Mar-26 
+Unaudited Unaudited Audited 
+32,044 28,310 58,189 
+7,669 5,891 12,615 
+3,544 1,014 2,283 
+174 160 343 
+43,431 35,375 73,430 
+324 447 748 
+43,107 34,928 72,682 
+4,203 3,210 6,911 
+708 555 1,075 
+(584) (417) (1,078) 
+(31) (17) (331) 
+4,296 3,331 6,577 
+590 322 608 
+207 (928) 
+14 959 1,517 
+(42) (73) (113) 
+3,678 4,102 6,445 
+1,266 1,099 1,815 
+2,412 3,003 4,630 
+As at 
+30-Jun-26 31-Mar-2 6 30-Sep-25 
+Unaudited Audited Unaudited 
+39,560 39,071 38,578 
+17,826 17,236 15,691 
+12,414 3,661 3,515 
+362 333 619 
+22,654 22,943 20,818 
+92,816 83,244 79,221 
+10,883 10,938 8,331 
+4,007 3,893 3,956 
+3,810 703 433 
+36 47 28 
+12,874 6,030 6,146 
+31,610 21,611 18,894 
+Digital, Engineering & Technology (DET) segment consists of Group's business of engineering solutions across multiple industries including Transportation & Mobility 
+(such as Aerospace, Rail & Automotive), Networks & Infrastru cture (such as Connectivity and Utilities) and Strategic units (such as Mining & Minerals, Energy, Healthcare & 
+Lifesciences). 
+Design Led Manufacturing (DLM) segment consists of Group's business of Electronics Manufacturing Services. 
+Semiconductors segment consists of Group's business of design, development and supply chain management of semiconductor chips. 
+Others segment consists of Group's other business operations which includes Aerospace Tooling division. 
+12 Current quarter/ period numbers may not be strictly comparable with comparative numbers due to the acquisitions during the period ending September 30, 2026. 
+Place : Hyderabad 
+Date : October 22, 2026 
+(Page 4 of 6) 
+Consolidated statement of cash flows· 
+Particulars 
+A. OPERATING ACTIVITIES 
+Profit for the period 
+Adiustments to reconcile profit to net cash flows: 
+Tax expense 
+Sha re of loss of an associate 
+Depreciation and amortisation expense 
+(Profit)/Loss on disposal of property, plant and equipment (net) 
+Gain on termination of leases (net) 
+Finance costs 
+Interest income 
+Profit on sale of mutual funds 
+Gain on fair valuation of financial assets and financial liabilities (net) 
+Share-based payments to employees 
+Provision for expected credit loss [net of write-off) 
+Unrealised forex loss/ (gain) (net) 
+Operating profit before working capital changes 
+Working capital adiustments: 
+Adiustments [or (increase 11.. decrease in ouerating_ assets: 
+Trade receivables 
+Other financial assets 
+Inventories 
+Contract assets 
+Other assets 
+Adjustments [or increase{_ (decrease I in or,_erating liabilities: 
+Trade payables 
+Other financial liabilities 
+Other liabilities 
+Provisions 
+Cash generated from operations 
+Net income taxes paid 
+Net cash flows from operating activities (A) 
+B. INVESTING ACTIVITIES 
+Payment towards purchase of property, plant and equipment and intangible assets 
+Proceeds from disposal of property, plant and equipment 
+Investments in 
+-mutual funds 
+-others 
+Proceeds from sale of investments in 
+-mutual funds 
+-bonds 
+Interest received 
+Loan repaid /(given) 
+(Payment)/refund towards acquisition of business including prior year acquisitions (refer 
+note (ii) below) 
+Investment in other bank balances 
+Proceeds from other bank balances 
+Net cash flows used in from investing activities (B) 
+C. FINANCING ACTIVITIES 
+Proceeds from shares issued on exercise of associate stock options (includes share applicati on 
+money) 
+Payment towards buyback including transaction cost 
+Repayments of factoring arrangements ( on behalf of banks) 
+Interest paid 
+Proceeds from non-current borrowings 
+Repayment of non-current borrowings 
+Movement in current borrowings (net) 
+Payment of principal portion of lease liabilities 
+Payment of interest portion of lease liabilities 
+Repayment of sale and leaseback of assets 
+Dividends paid to equity share holders of the Parent (includes transfer to investor education 
+and protection fund) 
+Net cash flows generated/ (used in) from financing activities (C) 
+Net (decrease)/ increase in cash and cash equivalents (A+B+C) 
+Cash and cash equivalents at the beginning of the period 
+Effect of exchange differences on translation of foreign currency cash and cash equivalents 
+Cash and cash equivalents at the end of the period (refer note (i) below) 
+Note: 
+(i) Cash and cash equivalents comprises of 
+Balances with banks 
+-in current accounts 
+-in deposits with banks [Original maturities less than 3 months) 
+Unpaid dividend accounts 
+Total cash and cash equivalents 
+Bank overdrafts account balances 
+Net cash and cash equivalents 
+(ii) Net cash outflow on ac uisition of business: 
+Particulars 
+Consideration paid/(refunded) in cash 
+Less: Cash and cash equivalent balances acquired on the acquisition 
+Net cash outflow on ac uisition of business For the half year ended 
+September 30, 2026 
+Unaudited 
+2,412 
+1,266 
+42 
+1,607 
+(7) 
+590 
+(331) 
+(145) 
+(114) 
+198 
+83 
+253 
+388 
+13 
+(639) 
+(574) 
+(928) 
+(454) 
+569 
+(157) 
+(245) 
+(656) 
+45 
+(2,353) 
+(158) 
+1.355 
+20 
+239 
+1.355 
+(17,606) 
+(582) 
+342 
+3 
+(7,275) 
+26 
+(275) 
+21,589 
+(140) 
+(81) 
+(584) 
+(79) 
+(2) 
+(2) 5,854 
+3,827 
+(1,160) 
+2,667 
+(17,999) 
+13,180 
+(2,152) 
+14,467 
+32 
+12,347 
+5,789 
+6,617 
+48 
+12,454 
+(107) 
+12,347 
+For the half year 
+ended 
+September 30, 2026 
+19,182 
+(1,576) 
+17,606 Annexure l(A) 
+('t in Millions) 
+For the half year ended 
+September 30, 2025 
+Unaudited 
+3,003 
+1,099 
+73 
+1,402 
+13 
+3 
+322 
+(421) 
+(49) 
+(196) 
+107 
+290 
+(384) 
+2,612 
+28 
+(165) 
+(951) 
+(479) 
+(334) 
+6 
+(379) 
+(44) 
+(642) 
+4 
+(6,153) 
+(94) 
+5,767 
+453 
+493 
+(443) 
+84 
+(1,435) 
+1,550 
+8 
+(6) 
+(243) 
+(577) 
+(518) 
+(95) 
+(7) 
+(1,534) 5,262 
+5,556 
+(1,188) 
+4,368 
+(416) 
+(2,972) 
+980 
+10,706 
+197 
+11,883 
+3,138 
+8,701 
+44 
+11,883 
+11,883 
+For the half year 
+ended 
+September 30, 2025 
+(84) 
+64) 
+(Page 5 of 6) 
+Standalone statement of cash flows· 
+A. 0 PERA TING ACTIVITIES 
+Profit for the period Particulars 
+Adiustments to reconcile profit to net cash flows: 
+Tax expense 
+Dividend from subsidiaries 
+Depreciation and amortisation expense 
+Loss/(Profit) on disposal of property, plant and equipment (net) 
+Gain on termination of leases (net) 
+Finance costs 
+Interest income 
+Profit on sale of mutual funds 
+Loss/(gain) on fair valuation of financial assets and financial liability (net) 
+Share-based payments to employees 
+Provision / (Reversa l) for expected credit loss (net of write-off) 
+Unrealised forex loss/ (gain) (net) 
+Operating profit before working capital changes 
+Working capital adiustments: 
+Adiustments for fincrease)/decrease in operating assets: 
+Trade receivables 
+Other financial assets 
+Contract assets 
+Other assets 
+Adiustments for increase/fdecrease) in operating liabilities: 
+Trade payables 
+Other financial liabilities 
+Other liabilities 
+Provisions 
+Cash generate d from operations 
+Net income taxes paid 
+Net cash flows from operating activities (A) 
+B. INVESTING ACTIVITIES 
+Payment towards purchase of property, plant and equipment and intangible assets 
+Proceeds from disposal of property, plant and equipment 
+Investments in 
+-subsidiaries 
+-mutual funds 
+Proceeds from sale of investments in 
+-mutual funds 
+-bonds 
+Proceeds from transfer of business to subsidiary 
+Loans given to subsidiaries 
+Loans repaid by subsidiaries 
+Interest received 
+Dividend received from subsidiaries 
+Net cash flows used in from investing activities (B) 
+C. FINANCING ACTIVITIES 
+Proceeds from shares issued on exercise of associate stock options (includes share 
+application money) 
+Payment towards buyback including transaction cost 
+Interest paid 
+Payment of principal portion of lease liabilities 
+Payment of interest portion of lease liabilities 
+Repayment of sale and leaseback of assets 
+Dividends paid to equity shareholders (includes transfer to investor education and 
+protection fund) 
+Proceeds from non-current borrowings 
+Net cash flows generated/ (used in) from financinl!: activities f C) 
+Net (decrease)/ increase in cash and cash equivalents (A+B+C) 
+Cash and cash equivalents at the beginning of the period 
+Effect of exchange differences on translation of foreign currency cash and cash 
+equivalents 
+Cash and cash equivalents at the end of the period (refer note below) 
+Note: 
+Cash and cash equivalents comprises of 
+Balances with banks 
+-in current accounts 
+-in deposits with banks (Original maturities less than 3 months) 
+Unpaid dividend accounts 
+Total cash and cash equivalents For the half year ended 
+September 30, 2026 
+Unaudited 
+2,465 
+892 
+(532) 
+407 
+(5) 
+(4) 
+92 
+(257) 
+(94) 
+386 
+88 
+20 
+438 
+727 
+25 
+(247) 
+(288) 
+(899) 
+160 
+(51) 
+72 
+(386) 
+9 
+(12,295) 
+(1,035) 
+937 
+20 
+213 
+532 3,896 
+3,395 
+(621) 
+2,774 
+(12,005) 
+(7,275) 
+(33) 
+(189) 
+(15) 
+(2) 
+(2) 
+11,242 
+3,729 
+(5,502) 
+9,408 
+(23) 
+3,883 
+988 
+2,847 
+48 
+3,883 Annexure l(B) 
+('{ in Millions) 
+For the half year ended 
+September 30, 2025 
+Unaudited 
+2,621 
+899 
+403 
+8 
+59 
+(290) 
+(49) 
+(3) 
+125 
+(18) 
+(246) 
+2,166 
+90 
+(972) 
+(112) 
+157 
+(50) 
+(205) 
+86 
+(149) 
+4 
+(2,571) 
+(6,153) 
+5,767 
+453 
+629 
+(161) 
+1,299 
+241 
+8 
+(23) 
+(232) 
+(36) 
+(7) 
+(1,534) 3,509 
+4,669 
+(761) 
+3,908 
+(641) 
+(1,824) 
+1,443 
+6,526 
+(9) 
+7,960 
+1,399 
+6,517 
+44 
+7,960 
+(Page 6 of 6) 
+S.R. BATL/80/ & ASSOCIATES LLP 
+Chartered Accountants THE SKYVIEW 10 
+18th Floor, "NORTH LOBBY" 
+Survey No. 83/1, Raidurgam 
+Hyderabad -500 032, India 
+Tel : +91406141 6000 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Standalone Financial 
+Results of Cyient Limited Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended 
+Review Report to 
+The Board of Directors 
+Cyient Limited 
+I. We have reviewed the unaudited standalone financial results of Cyient Limited (the "Company") for the 
+quarter and six months period ended September 30, 2026 included in the accompanying Statement of 
+Unaudited Consolidated and Standalone Financial Results for the quarter and half year ended September 
+30, 2026 (the "Statement") attached herewith , being submitted by the Company pursuant to the 
+requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations , 2015, as amended (the "Listing Regulations"). 
+2. The Company's Management is responsible for the preparation of the Statement in accordance with the 
+recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) 
+"Interim Financial Reporting" prescribed under Section 133 of the Companies Act, 2013 as amended , 
+read with relevant rules issued thereunder and other accounting principles generally accepted in India 
+and in compliance with Regulation 33 of the Listing Regulations . The Statement has been approved by 
+the Company 's Board of Directors. Our responsibility is to express a conclusion on the Statement based 
+on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 24 I 0, "Review of Interim Financial Information Performed by the Independ ent Auditor of the 
+Entity" issued by the Institute of Chartered Accountants of India. This standard requires that we plan and 
+perform the review to obtain moderate assurance as to whether the Statement is free of material 
+misstatement. A review of interim financial information consists of making inquiries, primarily of 
+persons responsible for financial and accountin g matters, and applying analytical and other review 
+procedures. A review is substantially less in scope than an audit conducted in accordance with Standards 
+on Auditing and consequently does not enable us to obtain assurance that we would become aware of all 
+significant matters that might be identified in an audit. Accordingly , we do not express an audit opinion. 
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe that 
+the accompanying Statement , prepared in accordance with the recognition and measurement principles 
+laid down in the aforesaid Indian Accounting Standards (' Ind AS') specified under Section 133 of the 
+Companies Act, 2013 as amended , read with relevant rules issued thereunder and other accounting 
+principles generally accepted in India, has not disclosed the information required to be disclosed in terms 
+of the Listing Regulations , including the manner in which it is to be disclosed, or that it contains any 
+material misstatement. 
+For S.R. BATLIBOI & ASSOCIATES LLP 
+Chartered Accountants 
+ICAI Firm registration number: 101049W /E300004 
+~¼%)~~~ 
+per Mitesh K Parikh 
+Partner 
+Membership No.: 225333 
+UDIN:lGl2S333'(UTt-1UO30\ 4-
+Place: Hyderabad 
+Date: October 22, 2026 
+S.R. BatilDol & Associates L!..P, a Limited Liability Partnership with LLP Identity No. AAB-4295 
+Regd. Office: 22, Camac Street, Block ·e·, 3rd Floor, Kolkata·700 016 
+S.R. BATLIBOI & ASSOCIATES LLP 
+Chartered Accountants THE SKYVIEW 10 
+18th Floor, "NORTH LOBBY" 
+Survey No. 83/1, Raidurgam 
+Hyderabad -500 032, India 
+Tel : +91 40 6141 6000 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Consolidated 
+Financial Results of Cyient Limited Pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended 
+Review Report to 
+The Board of Directors 
+Cyient Limited 
+I. We have reviewed the unaudited consolidated financial results of Cyient Limited (the "Holding Company") 
+and its subsidiaries (the Holding Company and its subsidiaries together referred to as "the Group") and its 
+associate for the quarter and six months period ended September 30, 2026 included in the accompanying 
+"Statement of Unaudited Consolidated and Standalone Financial Results for the quarter and half year ended 
+September 30, 2026" (the "Statement") attached herewith, being submitted by the Holding Company pursuant 
+to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended (the "Listing Regulations"). 
+2. The Holding Company's Management is responsible for the preparation of the Statement in accordance with 
+the recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) 
+"Interim Financial Reporting" prescribed under Section 13 3 of the Companies Act, 2013 as amended, read 
+with relevant rules issued thereunder and other accounting principles generally accepted in India and in 
+compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by the Holding 
+Company's Board of Directors. Our responsibility is to express a conclusion on the Statement based on our 
+review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 
+2410, "Review of Interim Financial Information Performed by the Independent Auditor of the Entity" issued 
+by the Institute of Chartered Accountants oflndia. This standard requires that we plan and perform the review 
+to obtain moderate assurance as to whether the Statement is free of material misstatement. A review of interim 
+financial information consists of making inquiries, primarily of persons responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is substantially less in 
+scope than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified in an 
+audit. Accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the Master Circular issued by the Securities and Exchange 
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable. 
+4. The Statement includes the results of the following entities: 
+Holding Company: 
+Cyient Limited 
+Subsidiaries: 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Cyient Inc., United States of America 
+Cyient Canada Inc., Canada 
+Cyient Defense Services Inc., United States of America 
+CDS Lavender Holdings Inc., United States of America (incorporated w.e.f. February 17, 2026) 
+Cyient Insights Private Limited, India 
+Cyient Europe Limited, United Kingdom 
+Cyient Benelux BV, Netherlands 
+Cyient Schweiz GmbH, Switzerland 
+Cyient S.R.O., Czech Republic 
+Cyient Semiconductors NV, Belgium 
+Cyient GmbH, Germany 
+Cyient AB, Sweden 
+Cyient K.K., Japan 
+S.R. 8atiibol & Associates LLP, a limited liabllity Partnership with LLP 
+Regd. Office: 22, Camac Street, Block ·e·, 3rd Floor, Kolkata-700 
+S.R. BATL/80/ & ASSOCIATES LLP 
+Chartered Accountants 
+14. Cyient OLM Limited, India 
+15. Cyient Singapore Private Limited, Singapore 
+16. Cyient Austria GmbH, Austria (incorporated w.e.f. November 24, 2025) 
+17. Cyient Israel India Limited, Israel 
+18. Cyient Solutions and Systems Private Limited, India 
+19. Cyient Australia Pty Limited, Australia 
+20. Integrated Global Partners Pty Limited, Australia 
+21. Integrated Global Partners SpA, Chile 
+22. Work Force Delta Pty Ltd, Australia 
+23. Grit Consulting Pte Ltd, Singapore 
+24. Celfinet -Consultoria EM Telecomunicai;oes, S.A, Portugal 
+25. Metemesonip, Unipessoal Lda, Portugal 
+26. Celfinet UK Telecommunications Consulting Services Ltd, United Kingdom 
+27. Celfinet Espana- Consultoria en Telecomunicaciones S.L, Spain 
+28. Celfinet (Brasil)- Consultoria em Telecomunicac;oes, Ltda, Brazil 
+29. Celfinet Mozambique -Consultoria em Telecomunicac;oes, Limitada, Mozambique 
+30. Celfinet Mexico -Consultoria de Telecomunicaciones AS, Mexico 
+31. Cyient Semiconductors GmbH, Germany 
+32. Sentiec Oyj, Finland 
+33. Citec Group Oy Ab, Finland 
+34. Cyient Oy Ab, Finland 
+35. Citec Engineering France Sarl, France 
+36. Cyient Engineering AB, Sweden 
+3 7. Cyient Engineering & Information GmbH, Germany 
+38. Cyient Group France SAS, France 
+39. Akilea Overseas Ltd., United Kingdom 
+40. Cyient Norway AS, Norway 
+41. Cyient Global Captive Solutions Private Limited, India 
+42. Cyient DLM Inc, United States of America 
+43. Cyient Semiconductors Private Limited, India 
+44. Cyient Project Management Consultancy LLC, United Arab Emirates 
+45. Cyient Semiconductors Inc, United States of America 
+46. Cyient DLM Electronics Inc (formerly known as Altek Electronics, Inc), United States of America 
+47. Abu Dhabi and Gulf Computers LLC, United Arab Emirates 
+48. Cyient Semiconductors Europe Private Limited, United Kingdom 
+49. Cyient Semiconductors Singapore Pte. Ltd., Singapore (incorporated w.e.f. July 04, 2025) 
+50. Cyient Cayman Limited, Cayman Islands (incorporated w.e.f. November 27, 2025) 
+51. Cyient Cayman Merger Sub Limited, Cayman Islands (incorporated w.e.f. December 01, 2025 and 
+merged w.e.f. April 02, 2026) 
+52. Kinetic Technologies, Cayman Islands (acquired w.e.f. April 08, 2026) 
+53. Kinetic Technologies Europe Limited, United Kingdom (acquired w.e.f. April 08, 2026) 
+54. Kinetic Technologies HK Ltd., Hong Kong (acquired w.e.f. April 08, 2026) 
+55. Kinetic Technologies (Shanghai) Ltd, China (acquired w.e.f. April 08, 2026) 
+56. Kinetic Technologies K.K., Japan (acquired w.e.f. April 08, 2026) 
+57. Kinetic Technologies Holdings LLC, United States of America (acquired w.e.f. April 08, 2026) 
+58. Kinetic Technologies International Holdings LP, Canada (acquired w.e.f. April 08, 2026) 
+59. Kinetic Technologies Semiconductor PTE LTD., Singapore (acquired w.e.f. April 08, 2026) 
+60. Kinetic Technologies, Inc., United States of America (acquired w.e.f. April 08, 2026) 
+61. Kinetic Technologies (Wuxi) Ltd, China (acquired w.e.f. April 08, 2026) 
+62. Tao Digital Solutions Inc, United States of America (acquired w.e.f. September 03, 2026) 
+63. Software Competitiveness International Gmbh, Germany (acquired w.e.f. September 03, 2026) 
+64. Software Competitiveness International S.A., Greece (acquired w.e.f. September 03, 2026) 
+65. Tao Digital India Private Limited, India (acquired w.e.f. September 03, 2026) 
+66. Tao Digital Pty. Ltd, Australia (acquired w.e.f. September 03, 2026) 
+67. Tao Digital Solutions Czech Republic S.R.O., Czech Republic (acquired w.e.f. September 03, 2026) 
+68. Tao Digital Taiwan Limited, Taiwan (acquired w.e.f. September 03, 2026) 
+69. Tao Digital ULC, Canada (acquired w.e.f. September 03, 2026) 
+S.R. BATL/80/ & ASSOCIATES LLP 
+Chartered Accountants 
+Associate entity: 
+Azimuth AI Inc., United States of America 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above, and based on the 
+consideration of the review report of other auditor referred to in paragraph 6 below, nothing has come to our 
+attention that causes us to believe that the accompanying Statement , prepared in accordance with recognition 
+and measurement principles laid down in the aforesaid Indian Accounting Standards ('Ind AS') specified 
+under Section 133 of the Companies Act, 2013, as amended, read with relevant rules issued thereunder and 
+other accounting principles generally accepted in India, has not disclosed the information required to be 
+disclosed in terms of the Listing Regulations , including the manner in which it is to be disclosed , or that it 
+contains any material misstatement. 
+6. The accompanying Statement includes unaudited interim financial results and other unaudited financial 
+information in respect of an associate , whose unaudited interim financial results includes the Group's share 
+of net loss after tax of Rs. 30 million and Rs. 42 million and Group's share of total comprehensive loss of Rs. 
+30 million and Rs. 42 million for the quarter and six months period ended September 30, 2026 respectively , 
+as considered in the Statement , whose unaudited interim financial results and other unaudited financial 
+information have been reviewed by its independent auditor. This independent auditor's report on unaudited 
+interim financial results and other unaudited financial information has been furnished to us by the 
+Management and our conclusion on the Statement , in so far as it relates to the amounts and disclosures 
+included in respect of the associate is based solely on the report of such auditor and procedures performed by 
+us as stated in paragraph 3 above. Our conclusion on the Statement is not modified with respect to our reliance 
+on the work done and the report of the other auditor. 
+For S.R. Batliboi & Associates LLP 
+Chartered Accountants 
+[CAI Firm registration number: 101049W /E300004 
+®~~ 
+per Mitesh K Parikh 
+Partner 
+Membership No.: 225333 
+UDIN: 1.6 2:1..S i~3 lXIYXP5 
+Place: Hyderabad 
+Date: October 22, 2026 
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                              CIN: L72200TG1991PLC013134 
+                            Units Layout, Madhapur                                        www.cyient.com 
+                            Hyderabad -500 081                                               Company.secretary@cyient.com 
+                            India                                                                           T +91 40 6764 1000  
+                                                                                                                F +91 40 2311 0 352  
+Annexure B  
+ 
+Audit Committee: 
+Sr. No Name Category Position 
+1 Sunil R  Bhumralkar Independent Director Chairperson 
+2 MM Murugappan Non-executive and Non-Independent Director Member 
+3 PR Ramesh Independent Director Member 
+4 Murali Yadama Independent Director Member 
+ 
+Risk Management Committee: 
+Sr. No Name Category Position 
+1 Sunil R Bhumralkar Independent Director Chairperson 
+2 MM Murugappan Non-executive and Non-Independent Director Member 
+3 PR Ramesh Independent Director Member 
+4 Murali Yadama Independent Director Member 
+ 
+Stakeholders Engagement Committee:  
+Sr. No Name Category Position  
+1 Murali Yadama Independent Director Chairperson 
+2 B V R Mohan Reddy Non-executive and Non-Independent Director Member 
+3 Krishna Bodanapu Executive Director Member 
+ 
+Environment, Social & Governance Committee (ESG)  
+Sr. No Name Category Position  
+1 Murali Yadama Independent Director Chairperson 
+2 B V R Mohan Reddy Non-executive and Non-Independent Director Member 
+3 Krishna Bodanapu Executive Director Member 
+   
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+ 
+   
+  CYll:NT • 
+I I 
+I I 
+• • 

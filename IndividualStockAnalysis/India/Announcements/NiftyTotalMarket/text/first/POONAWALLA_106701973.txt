@@ -1,0 +1,370 @@
+ 
+ 
+ 
+ 
+Classification | INTERNAL  
+July 17, 202 6 
+BSE  Limited  National  Stock  Exchange  of India  Limited  
+Corporate  Relationship  Department  The Listing  Department,  
+25th Floor,  Phiroze  Jeejeebhoy  Towers,  Exchange  Plaza,  
+Dalal  Street,  Fort, Bandra - Kurla  Complex,  Bandra  (East),  
+Mumbai  - 400 001. Mumbai  - 400 051. 
+BSE  Scrip  Code:  524000  NSE  Symbol:  POONAWALLA  
+ 
+Subject:  Intimation under Regulation 8(2) of the SEBI (Prohibition of Insider Trading)  
+Regulations, 2015 (“SEBI PIT Regulations”) . 
+ 
+Dear  Sir / Madam,  
+ 
+In pursuance to the provisions of Regulation 8(2) of the SEBI PIT Regulations, please find enclosed 
+herewith a copy of the amended – “Code of Practices and Procedures for Fair Disclosure of 
+Unpublished Price Sensitive Information” (“Code”), as approved by the Board of Directors of the 
+Company at its meeting held on July 17, 202 6. 
+ 
+We request you to take the amended Code on record.  
+ 
+In compliance with the SEBI Listing Regulations, the above information is also being hosted on the 
+Company’s website at https://poonawallafincorp.com/investor -governance    
+ 
+Thanking  You,  
+ 
+Yours faithfully,  
+For Poonawalla  Fincorp  Limited  
+ 
+ 
+ 
+Shabnum Zaman  
+Company  Secretary  
+ACS -13918  
+ 
+ 
+Encl: As above  
+ 
+July 17, 2026 POONAWALLA FINCORP LIMITED 
+ 
+CODE OF PRACTICES AND PROCEDURES FOR FAIR DISCLOSURE OF UNPUBLISHED PRICE 
+SENSITIVE INFORMATION FRAMED UNDER REGULATION 8 (1) OF SECURITIES AND EXCHANGE 
+BOARD OF INDIA (PROHIBITION OF INSIDER TRADING) REGULATIONS, 2015 
+ 
+ 
+Contents 
+ 
+1. INTRODUCTION: 2 
+2. APPLICABILITY: 2 
+3. DEFINITIONS: 2 
+4. SHARING OF UPSI FOR LEGITIMATE PURPOSE: 4 
+5. FUNCTIONS OF THE CHIEF INVESTOR RELATIONS OFFICER: 5 
+6. PRINCIPAL OF FAIR DISCLOSURE ADOPTED BY PFL: 5 
+7. THIRD PARTY DEALINGS: 5 
+8. RUMOURS: VERIFICATION OF MARKET RUMOURS AND RESPONSE TO QUERIES. 5 
+9. NEED TO KNOW HANDLING OF UPSI: 5 
+10. AUTHORITY TO MAKE ALTERATIONS/AMENDMENTS: 5 
+11. GENERAL: 5 
+ANNEXURE- A 6 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Page 2 of 6  1. INTRODUCTION: 
+ 
+This document forms the Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information adopted  
+by Poonawalla Fincorp Limited (hereinafter referred to as “ PFL ”/ “Company ”). This code is consistent with the Securities and 
+Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 (“ Regulations ”). As per Regulation 8 read with Schedule 
+A of the Regulations, every listed company has to frame a Code of Practices and Procedures for Fair Disclosure of Unpublished P rice 
+Sensitive Information (hereinafter referred to as the “ Code ”) to adhere to each of the principles set out in Schedule A of the 
+Regulations. The Regulations intends to require companies to disseminate ‘Unpublished Price Sensitive Information’ (hereinafter  
+referred to as “ UPSI ”) universally and not selectively. This Code is intended to lay down procedures and practices to be followed by 
+the Company pertaining to universal disclosure of UPSI in light of principles laid down under the Regulations. 
+ 
+The Company intends to follow best practices, duly compliant with the Applicable Law (as defined hereinafter), in the matter of  
+disclosure of UPSI. Accordingly, the following Code was originally adopted by the board of directors of Poonawalla Fincorp Limi ted 
+(“Board of Directors ” or “Board ”), at its meeting held on May 08, 2015, and has been reviewed and revised by the Board from time 
+to time. 
+ 
+2. APPLICABILITY: 
+ 
+This Code shall apply in relation to uniform disclosure by the Company of UPSI. The exceptions as given in Applicable Law shall  be 
+applicable for the purpose of this Code as well. 
+3. DEFINITIONS: 
+ 
+3.1 “Applicable Law ” means the Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015, Securities 
+and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, or any statute, law, listing 
+agreement, regulation, ordinance, rule, judgment, order, decree, bye-law, clearance, directive, guideline, policy, requirement,  
+notifications and clarifications, circulars or other governmental instruction and/or mandatory standards and or guidance notes as may 
+be applicable in the matter of Trading by an Insider, and as may be amended, restated or substituted from time to time.  
+ 
+3.2 “Company ” means Poonawalla Fincorp Limited;  
+3.3 “Connected Persons ” means any person who:  
+a. is or has been, during the six months prior to the concerned act, associated with a company, in any capacity, directly or 
+indirectly, including by reason of frequent communication with its officers or by being in any contractual, fiduciary or 
+employment relationship or by being a director, officer or an employee of the company or holds any position including 
+a professional or business relationship, whether temporary or permanent, with the company, that allows such a person, 
+directly or indirectly, access to unpublished price sensitive information or is reasonably expected to allow such access; 
+or 
+ 
+b. Without prejudice to the generality of the foregoing, the persons falling within the following categories shall be 
+deemed to be Connected Persons unless the contrary is established - 
+i. a Relative of Connected Persons specified in clause (a) above; or 
+ii. a holding company or associate company or subsidiary company; or 
+iii. an intermediary1 as specified in section 12 of the Securities Exchange Board of India Act, 1992 or an 
+employee or director thereof; or 
+iv. an investment company, trustee company, asset management company or an employee or director thereof; or 
+v. an official of a stock exchange or of clearing house or corporation; or 
+vi. a member of board of trustees of a mutual fund or a member of the board of directors of the asset management 
+company of a mutual fund or is an employee thereof; or 
+vii. a member of the board of directors or an employee, of a public financial institution2 as defined in section 2 
+(72) of the Companies Act, 2013; or 
+viii. an official or an employee of a self-regulatory organization3 recognised or authorized by 
+ SEBI; or  
+ix. a banker of the company; or 
+x. a concern, firm, trust, Hindu undivided family, company or association of persons wherein a director of a 
+company or his relative or banker of the company, has more than ten per cent. of the holding or interest. 
+xi. a firm or its partner or its employee in which a connected person specified in sub-clause 
+(a) of clause (3.3) is also a partner; or 
+xii. a person sharing household or residence with a connected person specified in sub-clause 
+(a) of clause (3.3) 
+ 
+“Chief Investor Relations Officer (CIRO) ” means the Chief Financial Officer or such senior officer of the Company designated by 
+the Board of Directors, for the purposes of Schedule A of the Regulation, to deal with dissemination of information and disclos ure of 
+UPSI in a fair and unbiased manner. 
+ 
+1As per Section 12 of the Securities and Exchange Board of India Act, 1992 “Intermediary” are persons such as stockbrokers, sub-  broker, investment 
+advisers, merchant banker, underwriter, portfolio manager, share transfer agent, registrar to an issue, depositories, custodian s of securities, foreign 
+institutional investors, credit rating agencies, asset management companies, venture capital funds, mutual funds and such other  intermediaries who may be 
+associated with securities market in any manner. 
+ 
+2As per Section 2(72) of Companies Act, 2013, “Public Financial Institutions” means: (i) the Life Insurance Corporation of India , established under section 
+3 of the Life Insurance Corporation Act, 1956 (31 of 1956); 
+(ii) the Infrastructure Development Finance Company Limited, referred to in clause (vi) of sub-section (1) of section 4A of the  Companies Act, 1956 (1 of 
+1956) so repealed under section 465 of this Act; (iii) specified company referred to in the Unit Trust of India (Transfer of Un dertaking and Repeal) Act, 
+2002 (58 of 2002); (iv) institutions notified by the Central Government under sub-s ection (2) of section 4A of the Companies Act, 1956 (1 of 1956)  so repealed under section 
+465 of this Act; (v) such other institution as may be notified by the Central Government in consultation with the Reserve Bank of India: 
+ 
+3As per Section 2(k) of the SEBI (Self-Regulatory Organizations) Regulations, 2004, “self-regulatory organizations” means an org anization of 
+intermediaries which is representing a particular segment of the securities market and which is duly recognised by SEBI under t hese regulations, but 
+excludes a stock exchange. 
+ 
+ 
+ 
+Page 3 of 6   
+3.4 “Designated Persons ” shall cover the following:  
+i. All promoters of the Company and its material subsidiary(ies); 
+ii. All directors of the Company, whether executive, non-executive or independent; 
+iii. Key Managerial Personnel (KMP) i.e. Managing Director (MD), Whole-time Director (WTD), Chief Executive Officer 
+(CEO), Chief Financial Officer (CFO) and Company Secretary (CS) of the Company and its material subsidiary(ies) and 
+associate company(ies); 
+iv. All employees of the Company in the rank of Vice President and above; 
+v. Executive Assistants to KMPs; 
+vi. Employees of Secretarial, Compliance, Finance & Accounts, Treasury, Investor Relations & Corporate Communications 
+and Strategy departments and as determined by the WTD / CFO on the basis of their functional role or access to Unpublished Price Sensitive Information in the organization; 
+vii. Such employees of the material subsidiaries designated on the basis of their functional role or access to Unpublished 
+Price Sensitive Information in the organization; 
+viii. KMP or any other person of the Holding Company (wherever applicable) who approves key decisions/ functions of the 
+Company; 
+ix. Any shareholder whose affirmative vote or sanction is pre-requisite for key actions of the Company; 
+x. CEO and employees upto 2 levels below CEO of the Company, its material subsidiary(ies) irrespective of their functional 
+role in the company or ability to have access to UPSI; 
+xi. Any support staff such as IT staff who have access to UPSI; 
+xii. any trust set up by the Company for the purpose of implementing any share-based employee benefit schemes of the 
+Company; 
+xiii. such connected person as identified by the Compliance Officer from time to time. 
+ 
+3.5 “Fiduciaries” is referred as Professional firms such as auditors, accountancy firms, law firms, analysts, insolvency professional 
+entities, consultants, banks etc., assisting or advising Company.  
+3.6 “Generally available information ” means information that is accessible to the public on a non- discriminatory basis and shall not 
+include unverified event or information reported in print or electronic media.  
+ 
+3.7 “Immediate Relative ” means a spouse of a person, and includes parent, sibling, and child of such person or of the spouse, any of 
+whom is either dependent financially on such person, or consults such person in taking decisions relating to Trading in securit ies; 
+ 
+3.8 “Insider ” means any person who is:  
+a. a Connected Person; 
+b. or in possession of or having access to Unpublished Price Sensitive Information; Further, any person in receipt of 
+Unpublished Price Sensitive Information pursuant to Legitimate Purpose shall be considered as “Insider” for the purpose of this Code. 
+3.9 “Legitimate Purposes ” includes sharing of UPSI in the ordinary course of business by an Insider with partners, collaborators, lenders, 
+customers, suppliers, merchant bankers, legal advisors, auditors, insolvency professionals, or other advisors or consultants, o r 
+regulatory bodies, courts, quasi-judicial bodies on the basis of any order issued by them, provided that such sharing has not b een 
+carried out to evade or circumvent the prohibitions of Regulations.  
+ 
+3.10 “Relative ” shall mean the following  
+a. spouse of the person; 
+b. parent of the person and parent of its spouse; 
+c. sibling of the person and sibling of its spouse; 
+d. child of the person and child of its spouse; 
+e. spouse of the person listed at sub-clause (c); and 
+f. spouse of the person listed at sub-clause (d) 
+ 
+3.11 “SEBI ” means the Securities and Exchange Board of India;  
+3.12 “Selected Group of Persons ” includes securities analysts or selected institutional investors, brokers and dealers or their associated 
+persons, investment advisers and institutional managers, investment companies, hedge funds or any other person.  
+ 
+3.13 “Securities ” shall have the meaning assigned to it under the Securities Contracts (Regulation) Act, 1956 (42 of 1956) or any 
+modification thereof.  
+i. “Trading”  
+ii. means and includes subscribing, buying, selling, dealing, or agreeing to subscribe, buy, sell, deal in any 
+securities, and "trade" shall be construed accordingly; 
+3.14 “Trading day ” means a day on which BSE Limited and/or National Stock Exchange of India Limited are open for trading.  
+ 
+3.15 “Unpublished Price Sensitive Information ” or “UPSI ” means any information, relating to the Company or its securities, directly or 
+indirectly, that is not generally available which upon becoming generally available, is likely to materially affect the price o f the 
+securities and shall, ordinarily including but not restricted to, information relating to the following: –  
+a. financial results; 
+b. dividends; 
+c. change in capital structure; 
+d. Mergers, de-mergers, acquisitions, delisting, disposals and expansion of business, award or termination of order/contract 
+not in the normal course of business and such other transactions; 
+e. Changes in key managerial personnel, other than due to superannuation or end of term, and resignation of Statutory 
+Auditors or Secretarial Auditors; 
+ 
+ 
+ 
+Page 4 of 6  f. Change in Ratings, other than ESG ratings; 
+g. Fund raising proposed to be undertaken; 
+h. Agreements, by whatever name called, which may impact the management or control of the Company; 
+i. Fraud1 or Defaults2 by the company, its promoter, director, key managerial personnel, or subsidiary or arrest of key 
+managerial personnel, promoter or director of the company, whether occurred within India or abroad; 
+j. Resolution plan/ restructuring or one-time settlement in relation to loans/borrowings from banks/financial institutions; 
+k. Admission of winding-up petition filed by any party /creditors and admission of application by the Tribunal filed by the 
+corporate applicant or financial creditors for initiation of corporate insolvency resolution process against the company as 
+a corporate debtor, approval of resolution plan or rejection thereof under the Insolvency and Bankruptcy Code, 2016; 
+l. Initiation of forensic audit, by whatever name called, by the company or any other entity for detecting mis-statement in 
+financials, misappropriation/ siphoning or diversion of funds and receipt of final forensic audit report; 
+m. Action(s) initiated or orders passed within India or abroad, by any regulatory, statutory, enforcement authority or judicial 
+body against the company or its directors, key managerial personnel, promoter or subsidiary, in relation to the company; 
+n. Outcome of any litigation(s) or dispute(s) which may have an impact on the company; 
+o. Giving of guarantees or indemnity or becoming a surety, by whatever named called, for any third party, by the company 
+not in the normal course of business; 
+p. Granting, withdrawal, surrender, cancellation or suspension of key licenses or regulatory approvals 
+ 
+All the other terms used in this Code shall have the same meaning as assigned to them under the Code of Conduct and SEBI Regula tions. 
+ 
+Explanation: For identification of events enumerated in this clause as UPSI, the guidelines for materiality referred at paragra ph A of Part A of 
+Schedule III of the SEBI Listing Regulations, 2015 and as referred at paragraph B of Part A of Schedule III of the Securities a nd Exchange 
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 viz-a-viz Company’s ‘Policy to Determine Mat erial 
+Events’, shall be applicable.      
+ 
+Note: The matters listed above are just an illustrative guidance of UPSI. It is intended that information relating to a company  or securities, that 
+is not generally available would be a UPSI if it is likely to materially affect the price upon coming into the public domain. 
+ 
+4. SHARING OF UPSI FOR LEGITIMATE PURPOSE: 
+ 
+4.1 Till the UPSI becomes Generally Available Information, UPSI can be shared only on a need-to-know basis and for Legitimate Purpo se 
+as provided hereunder and not to evade or circumvent the prohibitions of the Regulations: 
+ 
+4.1.1 Sharing of relevant UPSI with consultants, advisors engaged by the Company in relation to the subject matter of the 
+proposed deal/ assignment in relation to UPSI; 
+4.1.2 Sharing of relevant UPSI with intermediaries/ fiduciaries viz. merchant bankers, legal advisors, and auditors in order to 
+avail professional services from them in relation to the subject matter of the UPSI; 
+4.1.3 Sharing of relevant UPSI with persons for Legitimate Purposes (e.g., attorneys, investment bankers or accountants); 
+4.1.4 Sharing of relevant UPSI with persons who have expressly agreed in writing to keep the information confidential, such 
+as potential customers, other developers, joint venture partners and vendors, and not to transact in the Company’s 
+securities on the basis of such information for enabling them to take decisions for transacting with the Company; 
+4.1.5 Sharing of relevant UPSI in case mandatory for performance of duties or discharge of legal obligations. 
+ 
+4.2 The determination of the 'Legitimate Purpose' for sharing UPSI w ill be specific in each situation. However, the following facto rs can 
+be taken into consideration: 
+4.2.1 if it is in the ordinary course of business and/or required to be shared with other entities for discharge of commercial 
+obligations; 
+4.2.2 whether sharing the information is in the best interest of the Company or necessary for the furtherance of business 
+transactions; 
+4.2.3 whether the information is required to be shared for enabling the Company to discharge its legal obligations; 
+4.2.4 required to be done in furtherance of fiduciary duties or in fulfilment of any statutory obligation. 
+ 
+4.3. Before sharing the UPSI, the concerned person sharing such UPSI shall comply with the requirements in relation to circumstances  and 
+procedure for bringing people ‘Inside’ as provided in the Code of Conduct for Prohibition of Insider Trading. Such ‘Insider’ is  obliged 
+to comply with the requirements of Regulations. 
+4.4. The Compliance Officer in consultation with the Chief Financial Officer or Whole-time Director or Managing Director shall maint ain 
+a record of the details of the recipients including their PAN or any other identifier authorized by law in a case where PAN is not 
+applicable, Address etc. of UPSI on Legitimate Purpose as pe r the format provided in Annexure A including the following: 
+a. Whether the concerned UPSI is required to be shared? 
+b. Why is the information required by the recipient? 
+c. Who had shared the UPSI and whether he was authorised to do so? 
+d. Whether the Compliance Officer was intimated before such sharing of UPSI? 
+e. Whether non-disclosure agreements were signed? 
+f. Whether notice to maintain confidentiality of the shared UPSI has been given? 
+ 
+Such record shall not be outsourced and shall be maintained internally with adequate internal controls and checks such as time stamping 
+and audit trails to ensure non-tampering of the database.  Such record shall be preserved for a period of not less than eight years after completion of the relevant transaction and in th e event of 
+receipt of any information from SEBI regarding any investigation or enforcement proceedings, the relevant information shall be preserved till the end of the proceedings.  
+ 
+ 
+1 ‘Fraud’ shall have the same meaning as referred to in Regulation 2(1)(c) of Securities and Exchange Board of India (Prohibitio n of Fraudulent and Unfair Trade 
+Practices relating to Securities Market) Regulations, 2003. 
+2 ‘Default’ shall have the same meaning as referred to in Clause 6 of paragraph A of Part A of Schedule III of Securities and Exc hange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015. 
+ 
+ 
+ 
+Page 5 of 6  5. FUNCTIONS OF THE CHIEF INVESTOR RELATIONS OFFICER: 
+ 
+5.1. Dealing with universal dissemination and disclosure of UPSI. 
+5.2. Determination of questions as to whether any particular information amounts to UPSI. 
+5.3. Determination of response, if any, of the Company to any market rumour in accordance with this Code. 
+5.4. Dealing with any query received by any Insider about any UPSI. 
+5.5. Providing advice to any Insider as to whether any particular information may be treated as UPSI. 
+If an Insider receives a query about any UPSI related to the Company, he shall not comment on the same and shall forward such q uery 
+to the CIRO. The CIRO shall deal with such a query in accordance with Applicable Law and this Code. 
+ 
+6. PRINCIPAL OF FAIR DISCLOSURE ADOPTED BY PFL: 
+The Company shall ensure: 
+ 
+6.1. Prompt public disclosure of UPSI that would impact price discovery no sooner than credible and concrete information comes into 
+being in order to make such information Generally Available Information. 
+6.2. Uniform and universal dissemination of UPSI to avoid selective disclosure. 
+6.3. If an Insider ‘selectively’ or ‘inadvertently’ or ‘otherwise’ discloses any UPSI to any person including the Selected Group the n prompt 
+disclosure of such UPSI shall have to be made by the CIRO to the public. Such disclosure must be made promptly after the CIRO 
+learns that communication of such UPSI has taken place. 
+6.4. Information shared with analysts and research personnel is not unpublished price sensitive information. 
+6.5. Subject to Applicable Law, methods of public disclosure of information to ensure uniform distribution shall include either of t he 
+following-: 
+• Distributing through press releases in newspapers or media including electronic media. 
+• Filing with the stock exchanges. 
+• Any other method that ensures wide distribution of the news such as publicly accessible webcasts and webinars. 
+• Uploading the information on the website of the Company. 
+• Uploading the Investors Presentation on the website of the Company. 
+• Broad-based electronic, print, television and other media. 
+ 
+7. THIRD PARTY DEALINGS: 
+ 
+7.1 The CIRO shall ensure that best practices of making transcripts or records of proceedings of meetings with analysts and other i nvestor 
+relations conferences on the official website to ensure official confirmation and documentation of disclosures made are develop ed by 
+the Company. 
+ 
+7.2 The best practices shall include uploading the following information on the website of the Company- 
+• Any power point presentation or similar material used by the analyst in such meeting on the website of the Company. 
+• Any earnings guidance or any other similar material distributed during press conference. 
+• Any material information about business plans of the company provided in response to analyst queries or during 
+discussions in a meeting or any other information which may lead to price discovery has been shared. 
+7.3 In addition, the following guidelines will be adopted by the Company while dealing with analysts/institutional investors: - 
+• The Company will provide only public information to analysts/research persons/large investors/Institutions. 
+• The information filed by the Company with the stock exchanges will also be made available on the website of the 
+Company. 
+ 
+8. RUMOURS: VERIFICATION OF MARKET RUMOURS AND RESPONSE TO QUERIES. 
+ 
+The CIRO shall provide appropriate and fair responses to queries in relation to UPSI including any news reports and requests fo r 
+verification of market rumours by regulatory authorities. Further, the Company can also record the queries/requests for verific ation 
+that are received from the regulatory authorities and preserve such records as per the Record Retention Policy of the Company. 
+ 
+9. NEED TO KNOW HANDLING OF UPSI:  
+The Company shall handle all UPSI only on a need-to-know basis. UPSI shall be provided only when needed for Legitimate Purposes , 
+performance of duties or discharge of legal obligations. All Insiders shall adhere to conditions of strict confidentiality and shall not 
+share any UPSI except for the aforesaid purposes. 
+ 
+10. AUTHORITY TO MAKE ALTERATIONS/AMENDMENTS: 
+The Board of Directors are authorized to make such alterations or revisions to this Code as considered appropriate, subject, ho wever, 
+to the condition that such alterations or revisions shall not be inconsistent with the provisions of the Regulations. Further, every 
+amendment to this Code shall be promptly intimated to stock exchanges where the securities are listed. 
+Any part of this Code, if at any time, is found to be inconsistent with the PIT Regulations or any amendments thereto, the prov isions 
+of the PIT Regulations shall prevail over this Code till such time appropriate alterations are made herein. 
+ 
+11. GENERAL: 
+11.1. Words or phrases not defined here will have their respective meanings as per the SEBI Act and these Regulations. 
+11.2. This Code shall be posted on the website of the Company. 
+***

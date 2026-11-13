@@ -1,0 +1,250 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+January 16, 2026  
+ The Manager - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+ 
+The Manager - Listing  
+BSE Limited  
+(BSE: 507685)  
+ The Market Operations  
+NYSE, New York  
+(NYSE:  WIT)  
+Dear Sir/Madam,  
+ 
+Sub: Press Release  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the press release for the quarter ended December  
+31, 2025 . 
+ 
+The above documents are also being made available on the Company's website at 
+www.wipro.com . 
+ 
+Thanking You,  
+ For Wipro Limited  
+  
+ 
+ 
+M Sanaulla Khan 
+Company Secretary  
+ 
+ENCL: As above  
+1 
+ 
+ Public FOR IMMEDIATE RELEASE  
+ 
+Wipro announces result s for the Quarter ended December 31, 2025 
+IT service segment revenue grows 1.4%  QoQ CC and 1.2% in reported terms 
+Operating margin at 17.6%; Ex pands 0.9% sequentially and 0.1% YoY 
+Overall deal bookings at $3.3Bn;  Large deal bookin g at $0.9Bn  
+Operating cash flows at  135.4% of net income 
+ 
+EAST BRUNSWICK, N.J. | BANGALORE, India – January 16, 2026 : Wipro Limited (NYSE: 
+WIT, BSE: 507685, NSE: WIPRO), a leading AI-powered technology services and consulting company, announced financial results under International Financial Reporting Standards (IFRS) for the quarter ended December 31, 2025. 
+ 
+Highlights of the Results 
+ 
+Results for the Quarter ended December 31, 2025: 
+ 
+1. Gross revenue at ₹235.6 billion ($2,622.0 million1), increase of 3.8% QoQ and 5.5% YoY. 
+2. IT services segment revenue was at $2,635.4 million, increase of 1.2% QoQ and  0.2% YoY. 
+3. Non-GAAP2 constant currency IT Services segment revenue increased 1.4% QoQ and 
+decreased 1.2% YoY. 
+4. Total bookings3 was at $3,335 million, down 5.7% YoY in constant currency2. Large deal 
+bookings4 was at $871 million, decrease of 8.4% YoY in constant currency2. 
+5. IT services operating margin5 for Q3’26 was 17.6%, expansion of 0.9% QoQ and 0.1% on 
+YoY basis.  
+6. Net income for the quarter was at ₹31.2 billion ($347.2 million1), decrease of 3.9% QoQ and 
+7.0% YoY.  
+7. Earnings per share for the quarter at ₹2.98 ($0.031), decrease of 3.9% QoQ and 7.2% YoY. 
+8. Adjusted for impact of labour code changes6, Net Income for the quarter was ₹33.6 billion 
+($374.3 million1), increase of 3.6% QoQ and 0.3% YoY and EPS for the quarter was ₹3.21 
+($0.041), increase of 3.5 % QoQ and flat YoY. 
+9. Operating cash flows of ₹42.6 billion ($474.1 million1), increase of 25.7% QoQ and decrease 
+of 13.6% YoY and at 135.4% of Net Income for the quarter. 
+10. Voluntary attrition was at 14.2% on a trailing 12-month basis. 
+ 
+Outlook for the Quarter ending March 31, 2026  
+ 
+We expect revenue from our IT Services business segment to be in the range of $2,635 million 
+to $2,688 million*. This translates to sequential guidance of 0% to 2.0% in constant currency 
+terms. 
+ 
+*Outlook for the Quarter ending March 31, 2026, is based on the following exchange rates: GBP/USD at 1.33, Euro/USD 
+at 1.17, AUD/USD at 0.65, USD /INR at 88.85 and CAD/USD at 0.72 
+ 
+
+2 
+ 
+Public Performance for the Quarter ended December 31, 2025  
+Srini Pallia, CEO and Managing Director, said “In Q3, we delivered broad-based growth in line 
+with our expectations. As AI becomes a strategi c imperative, Wipro Intelligence is emerging as a 
+differentiator and contributed to several wins this quarter. We saw greater adoption of our AI-enabled platforms and solutions, scaled AI-led delivery through WINGS and WEGA, and 
+expanded our innovation network across global locations.” 
+ 
+ 
+Aparna Iyer, Chief Financial Officer, said “Our IT services operating margins at 17.6% 
+expanded both sequentially and on a year-on-year basis. This is our best margin performance in 
+last few years. Our continued focus on execution rigour also reflects in our strong operating cash 
+flow of 135% of net income in Q3. We are also pleased to share that the Board has declared an interim dividend of ₹6 per share which will take the total payout for the year to $1.3 Bn.”  
+ 
+ 
+1. For the convenience of the readers, the amounts in Indian Rupees in this release have been translated into 
+United States Dollars at  the certified foreign exchange rate of US$1 = ₹89.84, as published by the Federal 
+Reserve Board of Governors on December 31, 2025. Howe ver, the realized exchange rate in our IT Services 
+business segment for the quarter ended December 31, 2025, was US$1= ₹88.71 
+2. Constant currency for a period is the product of vo lumes in that period times the average actual exchange 
+rate of the corresponding comparative period. 
+3. Total Bookings refers to the total contract value of  all orders that were booked during the period including new 
+orders, renewals, and increases to ex isting contracts. Bookings do not reflect subsequent terminations or 
+reductions related to bookings originally recorded in  prior fiscal periods. Bookings are recorded using then-
+existing foreign currency exchange rates and are not subsequently adjusted for foreign currency exchange 
+rate fluctuations. The revenues from these contracts accrue over the tenure of t he contract. For constant 
+currency growth rates, refer note 2. 
+4. Large deal bookings consist of deals greater t han or equal to $30 million in total contract value. 
+5. IT Services Operating Margin refers to Segm ent Results Total as reflected in IFRS financials. 
+6. Adjusted for impact of past service cost on gratuity  due to implementation of new labour code amounting to ₹ 
+3,028Mn for the three and nine months ended December 31 , 2025, is included in the table title “Reconciliation 
+for Adjusted Net Income an d Adjusted EPS” on page 12. 
+3 
+ 
+Public Highlights of Strategic Deal Wins  
+In Q3’26, Wipro continued to win large and strategic deals across industries. Key highlights 
+include:  
+1. A global technology leader has renewed its decade-long relationship with Wipro to 
+advance trust and safety operations across its platforms. With thousands of specialists deployed worldwide, Wipro will continue to refine and train AI and machine learning models to align with the client’s content policies. This large deal win reinforces Wipro’s 
+ability to deliver scalable, high-impact services that enhance user safety, strengthen 
+platform integrity, and deliver responsible digital experiences for the client. 
+ 
+2. Wipro has renewed and expanded its decade-long strategic partnership with a US-based 
+national health insurance organization. Through the multi-year engagement, Wipro will 
+continue to provide comprehensive member enrollment and management services, 
+ensuring that senior citizens and children can seamlessly enroll and access healthcare benefits. Wipro leverages its proprietary PayerAI solution, part of Wipro Intelligence
+TM, to 
+offer a scalable, AI-infused SaaS platform that  features intelligent automation, agentic AI 
+capabilities, and highly configurable workflows. This engagement will significantly boost 
+productivity, enhance operational agility, and unlock cost efficiencies for the client. 
+ 
+3. A prominent North American household furnishings manufacturer has selected Wipro to 
+modernize its technology landscape and accelerate innovation across its enterprise applications. This multi-year engagement focuses on driving automation and embedding 
+AI at scale. The Wipro team will leverage AI accelerators to deliver predictive insights, 
+automate workflows, and enhance user experience. Additionally, Wipro will help set up a Center of Excellence to fast-track AI adoption and unlock new business value. These initiatives will also enable the client to modernize legacy systems and improve business 
+agility to drive operational excellence and support future growth. 
+ 
+4. A leading UK-based facilities management company has extended its long-standing 
+relationship with Wipro and signed a multi-year agreement to accelerate enterprise-wide transformation. The engagement will deploy Wipro Intelligence™, Wipro’s unified suite of 
+AI-powered platforms, solutions, and transformative offerings, to drive automation, 
+predictive analytics, and conversational AI to modernise core functions, improving speed, 
+accuracy, and resilience. Automated patching and intelligent monitoring will strengthen infrastructure reliability, while workflow and change management programs will reduce manual effort and enhance client experience. These initiatives are expected to deliver significant cost savings, boost operational efficiency, and strengthen client’s position as a 
+technology-led facility transformation in the industry. 
+ 
+5. One of the world’s largest food and beverage goods companies, headquartered in Europe, 
+has selected Wipro to accelerate the transformation of its global Digital Workplace and enterprise support ecosystem. Wipro secur ed a significant multi-year engagement to 
+modernize and support the organisation’s global workforce systems and enhance 
+employee productivity. This initiative, one of the client’s most expansive workplace transformation programs, will leverage Wipro Intelligence™
+–a unified suite of AI-powered 
+platforms, solutions and transformative offerings –as well as real time voice translation 
+capabilities to elevate the employee experience at scale. 
+ 
+6. A major European insurance provider has engaged Wipro in a multi-year strategic 
+program to reimagine its infrastructure landscape and accelerate its hybrid cloud journey. Wipro will deliver a comprehensive suite of services across data center, networking, 
+4 
+ 
+Public security, databases, and storage, while enabling a seamless transition to a future-ready 
+hybrid cloud model. Leveraging AI for observ ability, automation, and standardisation, this 
+solution will enhance agility, resilience, and operational efficiency. This initiative will strengthen regional presence and ensure cultural alignment to deliver faster response times, improved service reliability, and reduced operational risk, enabling the client to 
+accelerate innovation and improve customer experience. 
+ 
+7. One of India's top banking and financial services institutions has selected Wipro for a multi-
+year engagement to accelerate its digital transformation and strengthen its technology 
+foundation. Wipro will modernize core IT operations, manage critical banking systems, 
+and deliver a secure, cloud-enabled infrastructure to enhance operational resilience and customer experience. The solution leverages Wipro Intelligence™ to enable automation, robust cybersecurity, and streamlined enterprise application operations, ensuring uninterrupted services and scalability. Wipro will also orchestrate advanced solutions for payments, capital markets, retail and w holesale banking, and risk and compliance, 
+alongside developing an automated system for key processes. This transformation will 
+drive measurable improvements in efficiency, security, and agility, enabling the client to 
+innovate at scale and deliver seamless experiences in an increasingly digital-first environment. 
+ 
+8. A leading Southeast Asian airline has renewed its longstanding strategic engagement with 
+Wipro to elevate customer interaction capabilities across multiple touchpoints. Leveraging deep industry expertise and Wipro Intelligence
+TM, the team will support a wide spectrum 
+of customer journeys including member account services, loyalty programs, reservations, ticketing and redemption, disruption management, and digital channel support for the 
+airline’s website and mobile app. This engagement will deliver faster resolutions, improved 
+service consistency, and superior governance compliance through real-time decision-making, optimised staffing, and enhanced transparency. The renewed collaboration reinforces Wipro’s position as a trusted strat egic partner, driving intelligent, scalable, and 
+experience-led customer servicing. 
+ 
+9. In a strategic AI-led engagement, Wipro was selected by a leading global communications 
+technology company to transform its finance and accounting operations using advanced agentic AI. The solution supported by Wipro’s WEGA orchestration for enterprise-grade governance will introduce smart automation agents to handle tasks like invoice 
+processing, reconciliations, and reporting acro ss multiple systems. These AI agents will 
+interpret documents, apply financial logic such as accounting rules, validations, and matching criteria, and execute workflow actions with audit-ready transparency. The engagement will accelerate financial processes, improve accuracy, strengthen compliance, and create a scalable foundation for rapid growth and new capabilities. 
+ 
+10. A global telecommunications technology company has selected Wipro to deliver an AI-
+infused transformation by accelerating its Software Development Lifecycle. Leveraging AI-powered automation agents built on the WEGA platform, the solution simplifies code analysis, reviews, validations, and routine tasks, driving greater speed, accuracy, and 
+governance. Supported by Wipro’s enterprise-grade Agentic AI framework, these 
+intelligent agents will streamline workflows, enforce enterprise standards, and accelerate delivery cycles. This transformation enhances code quality and compliance while also establishing a scalable architecture enabling rapid onboarding of additional AI agents and seamless expansion. 
+ 
+11. Wipro has been chosen by a U.S.-based health insurer to modernize and manage 
+operations across its Commercial, Medicare, and Medicaid businesses. Leveraging its 
+5 
+ 
+Public proprietary PayerAI solution, part of Wipro IntelligenceTM, Wipro will deploy automation 
+and AI-infused capabilities across the client’s  claims processing, member and provider 
+enrolment, data management, and configuration of core health systems. The AI-driven Provider Roster Management System and Cl aims Inventory Management System will 
+streamline complex provider data processes and improve accuracy. Through this 
+engagement, Wipro will deliver measurable im provements in operational efficiency, 
+scalability, and cost optimization, while ensuring compliance and better service delivery. 
+ 
+12. Wipro has renewed its multi-year engagement with a leading US-based regional healthcare organization to enhance the client’s operational excellence and compliance. Through its proprietary PayerAI solution, part of Wipro Intelligence
+TM, Wipro has 
+implemented a scalable AI-infused SaaS platfo rm that automates reconciliation of state 
+beneficiary enrollment and payment data with health plan membership and expected 
+payments. This solution ensures accurate payment alignment, strengthens revenue 
+integrity, supports regulatory compliance, and reduces administrative burden, enabling the 
+client to achieve efficiency a t scale. 
+ 
+ 
+Analyst Recognition  
+ 
+1. Wipro was rated as a Leader in Avasant' s Generative AI Services 2025 RadarView™ 
+2. Wipro was positioned as a Leader in IDC Ma rketScape: Worldwide Manufacturing Intelligence 
+Transformation Strategic Consulting 2025 V endor Assessment (Doc # US52988325 Nov 2025) 
+3. Wipro was rated as a Leader in ISG Provider Lens™ - AWS Ecosystem Partners 2025 - US & UK 
+(all quadrants) 
+4. Wipro was positioned as a Leader in Everest Gr oup's Talent Readiness for Next Generation Data, 
+Analytics, and AI Services  PEAK Matrix® Assessment 2025 
+5. Wipro was ranked as a Leader in Avasan t's SAP S/4HANA Services  2025–2026 RadarView™ 
+6. Wipro was positioned as a Horizon 3 – Market Leader in the HFS Horizons: Life Sciences Service 
+Providers, 2025 report 
+7. Wipro was positioned as a Leader in Everest Group's Serv iceNow Services PEAK Matrix® 
+Assessment 2025 
+8. Wipro was positioned as a Leader in the 2025 Ga rtner® Magic Quadrant™ for Service Integration 
+and Management Services 
+9. Wipro was recognized as a Leader in the 202 5 Gartner® Magic Quadrant™ for Data Center 
+Outsourcing Services 
+10. Wipro was recognized as a Leader in Avasant's Telecom Digital Services 2025 RadarView™ 
+11. Wipro was recognized as a Leader in Everest Group’s Banki ng Operations – Services PEAK 
+Matrix® Assessment 2025 
+12. Wipro was named as a Leader in the 2025 Gart ner® Magic Quadrant™ for Outsourced Digital 
+Workplace Services 
+ 
+ 
+Source & Disclaimer: *Gartner, “Magic Quadrant for Se rvice Integration and Management Services”, Andrea 
+Lanzavecchia, et al, 29 October 2025. *Gartn er, “Magic Quadrant for Data Center Ou tsourcing Services”, Biswajit Maity, 
+et al, 3 November 2025. *Gartner, “Magi c Quadrant for Outsourced Digital Workplac e Services”, Karl Rosander, et al, 
+10 November 2025. 
+GARTNER and MAGIC QUADRANT are trademarks of Gartner, Inc. and its affiliates. Gartner does not endorse any 
+vendor, product, or service depicted in its research publicat ions, and does not advise technology users to select only 
+those vendors with the highest ratings or other designation. Ga rtner's research publications  consist of the opinions of 
+Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, 
+expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular 
+purpose. 
+The Gartner content described herein (the “Gartner Content”) repres ents research opinion or viewpoints published, as 
+part of a syndicated subscription service, by Gartner, Inc. ("Gartner"), and is not a representation of fact. Gartner 
+Content speaks as of its original publ ication date (and not as of  the date of this press release, and the opinions 
+expressed in the Gartner Content ar e subject to change without notice. 

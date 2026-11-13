@@ -1,0 +1,115 @@
+ 
+Coforge  Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +91 120 4592 301                                         T: 0124- 4627837                 CIN: L72100HR1992PLC128382                    
+     December 16, 2025  
+  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001  
+BSE Scrip code – 532541 
+Equity ISIN INE591G01025 
+ 
+  
+The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  Bandra, Mumbai – 400 051 
+NSE Symbol – COFORGE  
+ 
+Dear Sir/Madam,  
+  
+Subject: Press Release  
+ 
+Pursuant to applicable provisions of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 
+2015, as amended, please find enclosed copy of the p ress r elease of the Company announcing that  “Coforge 
+Unveils ‘Data Cosmos’ – A Next -Gen AI -Enabled, Cloud- Native Data & Analytics Platform Designed to 
+Accelerate Enterprise Transformation .” 
+ 
+We request you to take the above on record. 
+ 
+For Coforge Limited  
+  
+  
+  
+Barkha Sharma  
+Company Secretary & Compliance Officer  
+  
+Encl .: As above  
+   
+ 
+ 
+ 
+      
+ 
+    
+
+ 
+ 
+Coforge Unveils ‘Data Cosmos’ – A Next -Gen AI -Enabled, Cloud -
+Native Data & Analytics Platform Designed to Accelerate 
+Enterprise Transformation  
+ 
+Greater Noida, December  16, 2025 : Coforge Limited  (NSE: COFORGE), a global digital 
+services and solutions provider, announced the launch of Coforge Data Cosmos , an AI-
+enabled, cloud -native data engineering and advanced analytics platform designed to help 
+enterprises transform fragmented data landscapes into intelligent, high -performing data 
+ecosystems.  
+ 
+Enhancing  Coforge’s technology stack , Data Cosmos introduces a foundational innovation 
+platform that powers cloud -native, domain -specific solutions built using standard, reusable 
+technology blueprints  including Coforge’s own IP, accelerators, agentic components, and 
+domain -aligned solution s. The platform is engineered to tackle real -world challenges such as 
+data fragmentation, legacy systems modernization , high maintenance costs, limited self-
+service analytics, lack of unified governance, manual operations, and the complexity of GenAI 
+adoption.  
+ At its core, Coforge Data Cosmos is structured around five strategic technology solution 
+portfolios  - Supernova,  Nebula,  Hypernova, Pulsar,  and Quasar  that guide enterprises across 
+the full data transformation lifecycle. Supernova accelerates modernization and migration from 
+legacy to cloud ; Nebula deliver s modern data management in Data Governance, Metadata & 
+DQ Management , leveraging GenAI & Agentic Systems .  Hypernova powers next -generation 
+cloud native data platforms ; Pulsar enables agentic, autonomous,  always -on DataOps & 
+MLOps. Quasar accelerates GenAI adoption within enterprise data ecosystems  by enabling 
+LLMs via Model Garden and orchestrating Ai workflows at scale via Quasar Platform.  
+ 
+To further increase speed -to-value, Coforge has built the Data Cosmos Toolkit, a powerful 
+suite of 55 + IPs and accelerators and 38 AI Agents powered by the Data Cosmos Engine. This 
+toolkit  enables  enterprises to move faster with AI- enabled utilities and frameworks, scaling 
+transformation with speed, reliability, and measurable impact.  
+ 
+Data Cosmos also powers Galaxy solutions , pre-built and custom- developed domain solutions 
+tailored for specific industries. These Galaxy solutions combine industry -specific data models 
+with the Data Cosmos toolkit and the five technology blueprints to solve vertical -specific 
+challenges, enabling faster transformation and smarter decision -making. Coforge currently 
+brings these solutions  to key sectors including B FS, Insurance, Travel, Transportation & 
+Hospitality, Healthcare, Public Sector , and Retail .  
+ The platform is backed by a robust ecosystem of leading cloud providers and technology 
+partners, enabling Data Cosmos to run seamlessly across multi -cloud and hybrid environments 
+while integrating with modern data and AI platforms. This ecosystem approach ensures 
+
+ 
+enterprises can leverage their existing investments while adopting the latest in cloud, data, 
+and AI innovation.  
+ 
+Speaking about the solution, Deepak Manj arekar, Global Head – Data HBU, Coforge , 
+said, “With Data Cosmos, we are setting a new benchmark for how enterprises convert data 
+complexity into competitive advantage. This platform reflects our belief that the future belongs 
+to organizations that can operate intelligence at every layer of their busine ss. Our goal is 
+simple – give our clients a data foundation that is fast, adaptive, and AI -ready from day one ” 
+ The platform is already being adopted in complex transformation programs, including unified data platform modernizations, AWS- powered data transformations, and unified data 
+operations initiatives for global clients across financial services, insurance, and other 
+industries.  
+ About Coforge  
+Coforge is a global digital services and solutions provider, that leverages emerging technologies and deep domain expertise to deliver real -world business impact for its clients. 
+A focus on select industries, a deep domain understanding of the underlying p rocesses of 
+those industries and partnerships with leading technology platforms, enables Coforge to be a 
+trusted partner of its clients in their transformation initiatives. Coforge leads with its Product 
+Engineering approach and leverages AI, Cloud, Data, Integration and Automation technologies to transform businesses into intelligent, high growth enterprises. Coforge has 33 global delivery centers and is present in 25 countries.  
+Learn more at www.coforge.com.  
+ For media queries please contact: Santanu Bhattacharya- santanu.b@coforge.com 
+ 

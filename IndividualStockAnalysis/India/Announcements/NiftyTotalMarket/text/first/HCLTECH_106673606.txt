@@ -1,0 +1,162 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 120 4306000   Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -1100 19, India  
+ 
+ 
+ 
+June 2 5, 2026  
+ 
+ 
+The General Manager  
+BSE Limited  
+Listing Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH  
+ 
+ 
+Subject: Release – “HCLTech and ServiceNow join forces to scale enterprise AI with Google  
+Cloud  ” 
+ 
+ 
+Dear Sir/Madam,  
+ 
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+ 
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For HCL Technologies Limited  
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+Encl.:a/a  
+  
+ 
+1 
+ 
+HCLTech and ServiceNow join forces to scale enterprise AI with Google Cloud  
+ 
+Gemini Enterprise -based AI agent solutions integrated with ServiceNow to drive real -world 
+adoption of agentic AI  
+ 
+NOIDA, India and Sydney, Australia , June 25, 2026—HCLTech , a leading global technology 
+company, has expan ded its collaboration with Google Cloud and ServiceNow to deliver AI agents  
+for enterprise adoption  on the Gemini Enterprise platform. The launch coincides with HCLTech’s 
+sponsorship of the Sydney Google Cloud Summit 2026 . 
+ 
+Building on HCLTech’s  recently launched Gemini Enterprise business unit, the latest collaboration 
+brings together advanced ServiceNow AI capabilities, enterprise workflow orchestration and 
+industry expertise to enable organizations to deploy and scale AI in real business environments.  
+ 
+HCLTech will introduce enterprise AI solutions on Gemini Enterprise that combine Gemini’s 
+advanced AI capabilities with ServiceNow’s workflow platform  - anchored in ServiceNow’s 
+Blueprint for Agentic Business , , a framework for structured, outcome -driven AI adoption. This 
+includes  a next -generation Factory Shop Floor Assistant, which delivers real -time operational 
+intelligence to manufacturing environments, enabling faster decision -making and improved 
+efficiency.  
+ 
+Initial solutions span two high -impact domains: Field Services, where Gemini Live , integrated with 
+ServiceNow Field Service Management , delivers real -time audio and visual intelligence to field 
+technicians for faster issues  resolution ; and Customer Experience , to ensure customer intent is 
+preserved across channels.  HCLTech is also leveraging ServiceNow 's AI Control Tower to enhance 
+visibility and governance of AI agents  within Gemini Enterprise , while an  ITOps ServiceNow Agent —
+available on Google Cloud Marketplace  for Gemini Enterprise —supports incident management and 
+remediation in enterprise IT environments.  
+ 
+“Bringing agentic AI to the enterprise requires deep integration into the systems that businesses 
+rely on every day,” said Satish Thomas, Vice President of Applied AI and Platform Ecosystem at 
+Google Cloud.  “Our partnership with HCLTech and ServiceNow combines the foundational power 
+of Gemini Enterprise with industry -leading workflow and operational expertise, giving customers 
+the tools they need to safely scale AI and accelerate innovation across their enti re organization.”  
+ 
+“The future of enterprise AI lies in orchestrating intelligent agents across the business as a 
+connected system of action,” said Michael Park, Senior Vice President, Global Partnerships and 
+Channels at ServiceNow. “By bringing together ServiceNow’s AI -native platform, HCLTech’s 
+implementation expertise, and Google Cloud’s Gemini Enterprise capabilities, we are helping 
+organizations build the foundation for an agentic enterprise. This collabora tion enables customers 
+to orchestrate AI agents across workflows, systems and teams, accelerating productivity, 
+strengthening governance and delivering business outcomes at scale.”   
+ 
+ 
+2 
+ 
+“Enterprises are moving quickly from exploring AI to embedding it at the core of their operations, 
+and that shift requires stronger level s of integration and orchestration,” said Vijay Guntur, Chief 
+Technology Officer and Head of Ecosystems at HCLTech. “Our collaboration with Google Cloud 
+and ServiceNow reflects this evolution —integrating advanced AI, enterprise workflows and 
+ecosystem scale to help clients move beyond pilots to sustained, enterprise -wide impact. By 
+aligning AI with operational systems and industry context, we are enabling a more practical and 
+accountable adoption of agentic AI , and our ServiceNow Agentic Blueprint gives enterprises the 
+structured path to get there .” 
+ 
+“Agentic AI will only deliver enterprise value when it is built on a resilient, secure and scalable 
+digital foundation,” said Jagadeshwar Gattu, President, Digital Foundation Services at HCLTech. “By 
+combining HCLTech’s deep infrastructure, cloud and opera tions expertise with Google Cloud’s 
+Gemini Enterprise platform and ServiceNow’s workflow and AI capabilities, we are helping clients 
+move from experimentation to production -ready adoption. This collaboration enables enterprises 
+to embed intelligence into m ission -critical environments with the governance, visibility and 
+operational rigor needed to drive measurable outcomes at scale.”  
+ 
+This expanded collaboration underscores HCLTech’s focus on enabling enterprises to transition 
+from experimentation to scaled deployment of agentic AI, with solutions that are designed to 
+deliver measurable impact across industries.  HCLTech will showcase this focus at the  Sydney 
+Google Cloud Summit 2026, and at the Sydney ServiceNow World Forum where enterprise leaders 
+will explore how cloud, AI and ecosystem collaboration can accelerate business transformation.  
+ 
+ 
+About HCLTech  
+ 
+HCLTech  is a global technology company, home to more than 227,000 people across 60 countries, 
+delivering industry -leading capabilities centered around AI, digital, engineering, cloud and 
+software, powered by a broad portfolio of technology services and products. We work with clients 
+across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life 
+Sciences and Healthcare, Technology and Services, Semiconductor, Telecom and Media, Retail and 
+CPG, Mobility and Public Services. Cons olidated revenues as of 12 months ending March 2026 
+totaled $14.7 billion. To learn how we can supercharge progress for you, visit  hcltech.com.  
+ 
+For further details, please contact:  
+ 
+HCLTech  
+ 
+Meredith Bucaro, Americas  
+meredith -bucaro@hcltech.com  
+ 
+Elka Ghudial, Europe  
+elka.ghudial@hcltech.com  
+ 
+ 
+3 
+ 
+ 
+ 
+James Galvin, APAC  
+james.galvin@hcltech.com  
+ 
+Nitin Shukla, India, Middle East & Africa  
+nitin -shukla@hcltech.com  
+  

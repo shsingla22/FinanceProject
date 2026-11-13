@@ -1,0 +1,38 @@
+date,symbol,company,purpose,source,detail,isin,register_symbol,in_universe
+2025-10-14,TMPV,Tata Motors Limited,DEMERGER,bc,ex ; series BE; file PR091025.zip,INE155A01022,TATAMOTORS,yes
+2025-10-14,TMPV,Tata Motors Passenger Vehicles Limited,Demerger,api,ex 2025-10-14,INE155A01022,TMPV,yes
+2025-10-15,SKFINDIA,SKF India Limited,DEMERGER,bc,ex ; series BE; file PR091025.zip,,SKFINDIA,yes
+2025-10-15,SKFINDIA,SKF India Limited,Demerger,api,ex 2025-10-15,INE640A01023,SKFINDIA,yes
+2025-10-31,DALMIASUG,Dalmia Bharat Sugar and Industries Limited,Demerger,api,ex 2025-10-31,INE495A01022,DALMIASUG,
+2025-11-12,ALLCARGO,Allcargo Logistics Ltd,DEMERGER,bc,ex ; series BE; file PR071125.zip,,ALLCARGO,
+2025-11-12,ALLCARGO,Allcargo Logistics Limited,Demerger,api,ex 2025-11-12,INE418H01029,ALLCARGO,
+2025-12-05,HINDUNILVR,Hindustan Unilever Ltd,DEMERGER,bc,ex ; series BE; file PR201125.zip,,HINDUNILVR,yes
+2025-12-05,HINDUNILVR,Hindustan Unilever Limited,Demerger,api,ex 2025-12-05,INE030A01027,HINDUNILVR,yes
+2025-12-19,DCMSRIND,DCM Shriram Ind Ltd,DEMERGER,bc,ex ; series BE; file PR161225.zip,,DCMSRIND,
+2025-12-26,DCMSRIND,DCM Shriram Ind Ltd,DEMERGER,bc,ex ; series BE; file PR191225.zip,,DCMSRIND,
+2025-12-26,DCMSRIND,DCM Shriram Industries Limited,Demerger,api,ex 2025-12-26,INE843D01027,DCMSRIND,
+2026-02-06,GENUSPOWER,GENUS POWER INFRASTRU LTD,DEMERGER,bc,ex ; series BE; file PR270126.zip,,GENUSPOWER,
+2026-02-06,GENUSPOWER,Genus Power Infrastructures Limited,Demerger,api,ex 2026-02-06,INE955D01011,GENUSPOWER,
+2026-05-01,VEDL,Vedanta Limited,DEMERGER,bc,ex ; series BE; file PR210426.zip,,VEDL,yes
+2026-05-01,VEDL,Vedanta Limited,Demerger,api,ex 2026-04-30,INE205A01025,VEDL,yes
+2026-06-09,WIMPLAST,Wim Plast Ltd.,MERGER DEMERGER,bc,ex ; series BE; file PR080626.zip,,WIMPLAST,
+2026-07-02,GUJENERGY,GUJARAT ENERGY LIMITED,DEMERGER,bc,ex ; series BE; file PR010726.zip,,GUJENERGY,
+2026-07-02,GUJENERGY,GUJARAT ENERGY LIMITED,Demerger,api,ex 2026-07-02,INE844O01030,GUJENERGY,
+2026-07-02,GUJGASLTD,Gujarat Gas Limited,DEMERGER,bc,ex ; series BE; file PR230626.zip,,GUJGASLTD,
+2026-07-22,TRIVENI,Triveni Engineering & Ind,DEMERGER,bc,ex ; series BE; file PR150726.zip,,TRIVENI,yes
+2026-07-22,TRIVENI,Triveni Engineering & Industries Limited,Demerger,api,ex 2026-07-22,INE256C01024,TRIVENI,yes
+2026-08-01,INOXGREEN,Inox Green Energy Ser Ltd,DEMERGER,bc,ex ; series BE; file PR230726.zip,,INOXGREEN,yes
+2026-08-01,INOXGREEN,Inox Green Energy Services Limited,Demerger,api,ex 2026-07-31,INE510W01014,INOXGREEN,yes
+2026-08-22,SIYSIL,Siyaram Silk Mills Limited,Scheme Of Arrangement - Bonus Ncrps 4:1,api,ex 2026-08-21,INE076B01010,SIYSIL,
+2026-08-22,SIYSIL,Siyaram Silk Mills Limited,Scheme Of Arrangement - Bonus Ncrps 3:1,api,ex 2026-08-21,INE076B01010,SIYSIL,
+2026-09-02,INDIAGLYCO,India Glycols Ltd,DEMERGER,bc,ex ; series BE; file PR260826.zip,,INDIAGLYCO,yes
+2026-09-02,INDIAGLYCO,India Glycols Limited,Demerger,api,ex 2026-09-02,INE560A01015,INDIAGLYCO,yes
+2026-09-07,HEGAM,HEG Ltd,DEMERGER,bc,ex ; series BE; file PR260826.zip,INE545A01024,HEG,yes
+2026-09-07,HEGAM,HEG Advanced Materials Limited,Demerger,api,ex 2026-09-07,INE545A01024,HEGAM,yes
+2026-09-08,TVSHLTD,TVS Holdings Limited,Scheme Of Arrangement - Bonus Ncrps 46:1,api,ex 2026-09-08,INE105A01035,TVSHLTD,
+2026-10-02,KMSUGAR,K.M.Sugar Mills Limited,DEMERGER,bc,ex ; series BE; file PR280926.zip,,KMSUGAR,
+2026-10-02,KMSUGAR,K.M.Sugar Mills Limited,Demerger,api,ex 2026-10-01,INE157H01023,KMSUGAR,
+2026-10-06,VERANDA,Veranda Learning Sol Ltd,DEMERGER,bc,ex ; series BE; file PR240926.zip,,VERANDA,
+2026-10-06,VERANDA,Veranda Learning Solutions Limited,Demerger,api,ex 2026-10-06,INE0IQ001011,VERANDA,
+2026-10-08,BHAGYANGR,Bhagyanagar India Limited,DEMERGER,bc,ex ; series BE; file PR011026.zip,,BHAGYANGR,
+2026-10-08,BHAGYANGR,Bhagyanagar India Limited,Demerger,api,ex 2026-10-08,INE458B01036,BHAGYANGR,

@@ -1,0 +1,236 @@
+ 
+________________________________________________________________________________________________________________________
+_ 
+Ůधान कायाŊलय                           Head Office                          F    +91 80 22248831  
+112, जे सी रोड, बŐगलूŜ - 560002                112 J C Road, Bengaluru - 560002    T    +91 80 22100250  
+E-Mail - hosecretarial@canarabank.com                www.canarabank.com                          
+Ref: SD: 416/417/11/12:2025-26                                    December 29, 2025 
+The Vice President 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai - 400 001 
+ Scrip Code: 532483 The Vice President 
+Listing Department 
+National Stock Exchange of India Ltd 
+Exchange Plaza 
+Bandra-Kurla Complex, Bandra [E] 
+Mumbai - 400051 Scrip Code: CANBK 
+ 
+ 
+Subject: Compliance Certificates and Reports on Securities Exchange Board of India-
+Cybersecurity and Cyber Resilience Framework (SEBI-CSCRF).  
+ 
+Dear Sir/Madam, 
+ 
+               In terms of SEBI Circular No. SEBI/HO/ ITD-1/ITD CSC EXT/P/CIR/2024/113 dated August 
+20, 2024, please find enclosed herewith Certificates of Compliance and Reports on Securities 
+Exchange Board of India - Cybersecurity and Cyber Resilience Framework (SEBI-CSCRF). 
+ 
+This is for your information and records.  
+ 
+ 
+Yours faithfully,   
+ 
+ 
+ 
+ 
+Santosh Kumar Barik 
+Company Secretary  ~ 3cP Canara Bank~ 
+'nil~ iHC2:iC,--P,: ~1 ~-:q A GQvernrnerot 0: lf'dlo1 U'W'l~rtolk_,B 
+Annexure-A : VAPT Report 
+Name of the Organization: Canara Bank 
+Entity Type: Bank 
+Entity Category: Qualified Regulated Entity (Qualified RE). 
+Rationale for the Category: Canara Bank is registered under multiple licenses with 
+SEBI and their classifications as per SEBI CSCRF are as Depository Participant (DP)­
+Qualified RE, Merchant Banker and Proprietary Stock Broker-small size RE and 
+Bankers to an Issue (BTI) and Self-Certified Syndicate Banks (SCSBs). 
+As per SEBI CSCRF guidelines, where a Regulated Entity falls under multiple 
+classifications, the compliance requirements applicable to the highest classification 
+shall prevail. Since the Bank holds Depository Participant (DP) registration, which falls 
+under the Qualified Regulated Entity (Qualified RE) classification, Canara Bank is 
+accordingly classified under Qualified RE. 
+Period of Audit: 01.10.2025 -17.11.2025. 
+Name of the Auditing Organization: M/s AKS IT Services Pvt. Ltd. 
+Date on which Cyber Audit Report presented to IS Committee: 17.11.2025 
+Authorized signatory declaration: 
+I hereby confirm that the information provided herein is verified by me and I shall 
+take the responsibility and ownership of this VAPT report. 
+Sig~ 
+Name of the signatory: K Satyanarayana Raju 
+Designation: MD-CEO 
+Company stamp: 
+Annexures: ~~ ~ ic ~' 
+.:~'t-#'- BA,v,f-"'Oa, , 
+;ipcf ~o"-C'i.o·~ -1< ~ 
+.at -I< ,p..i. '-":' 
+-~1-0 .;:,~jj-•' • w-·, 891Gl'-\; 4· -~~· 
+1. Minutes of the Meeting (Mo nformation Security Committee dated 17.11.2025 
+in which the cyber audit report was approved. 
+2. VAPT report as submitted by the auditor. 
+n de ta 
+Table of Contents 
+1. Auditor's Declaration 
+2. Executive Summary 
+3. Scope of Audit 
+4. Tools used 
+5. Exclusions, if any 
+6. Summary of the VAPT Report-
+6.1. Details of Vulnerability Assessment findings 
+6.2. Details of Penetration Testing findings 
+7. Detailed Report 
+8. Risk Rating Description 
+~ ~ll.k' =-----~. ~ - ' -
+-.--.;;,h•r '\Vff 1C811.• ,-.1 
+1. Auditor's Declaration 
+TO WHOM SO EVER IT MAY CONCERN 
+This is to declare and certify that I am an Employee of firm M/s AKS IT Services Pvt. 
+Ltd. with CERT-In empanelment 21 October 2024 to 31 October 2027. I have conducted 
+VAPT for Canara Bank for half year period April-September 2025 as per the requirements 
+of SEBI. The scope of VAPT covers following circulars/ guidelines/ advisories issued by 
+SEBI: 
+Checklist for VAPT compliance as required: 
+# Area Details (assets, Is the Entity Auditor's 
+applications, etc.) Compliant? comments 
+of the Audit area (Yes I No) 
+1. Vulnerability • DP Secure Conducted VA for the 
+Assessment (VA) • FOC mentioned assets 
+• ASBA and shared 
+• UAT ASBA Yes assessment report 
+• Servers with the Bank 
+• Appliances 
+• Network Devices 
+2. External • DP Secure Yes Conducted External 
+Penetration • FOC PT for mentioned 
+Testing (PT) • ASBA assets and shared 
+• UAT ASBA assessment report 
+with the Bank 
+3. Wi-Fi Testing NIL Not Applicable As the scope of 
+assets are not 
+utilizing Wi-Fi, 
+hence Wi-Fi testing 
+is not applicable. 
+4. API Security 1 API with 4 end Yes Conducted API 
+Testing points security Testing for 
+mentioned assets 
+and shared 
+assessment report 
+with the Bank 
+5. VA and PT of NIL Not Applicable There are no mobile 
+mobile applications under 
+applications the scope, hence VJ, 
+and PT of mobile 
+applications is not 
+aoolicable 
+6. Network In-Scope: Yes Conducted Network 
+segmentation VLAN IDs -2, 7, Segmentation 
+testing 838,73, 122, 83,216, Testing for In-Scope 
+569,659,950,951, SEBI segments from 
+DRC 52 51 90 822. Out-of-Scooe 
+CSCRF-Annexure-A 
+# Area 
+7. OS and 
+Assessment Details (assets, 
+applications, etc.) 
+of the Audit area 
+669,659,950,951, 
+DRC,52,51, 90,822, 
+194,707,97, 166, 
+718,812,102,106, 
+88,817, 109,839, 
+701,710,813,704, 
+825,823. 
+Out-of-Scope: 
+VLAN IDs-Default 
+VLAN 1 and 222 
+DB 01-Data base 
+103 -Servers 
+8. VAPT of cloud NA 
+implementation 
+9. Configuration audit • Servers 
+• Appliances 
+• Network Devices Is the Entity Auditor's 
+Compliant? comments 
+(Yes/ No) 
+SEBI segments and 
+shared assessment 
+report with the Bank. 
+The out-of-scope 
+segments through 
+which the testing was 
+conducted is as 
+mentioned in 
+adjacent column. 
+Yes ::onducted DE 
+assessment for 
+mentioned asset and 
+shared assessment 
+report with the Bank. 
+OS assessment is 
+:onducted as part o1 
+configuration audit. 
+Not Applicable There are no cloud 
+iassets in the scope, 
+hence VAPT of cloud 
+implementation is not 
+laPPlicable. 
+Yes :onducted 
+!Configuration audit for 
+mentioned assets anc 
+shared assessment 
+report with the Bank 
+I confirm that the VAPT has been conducted as per the auditor's guidelines prescribed 
+in this framework. 
+t also confirm that I have no conflict of interest in undertaking the above-mentioned 
+activities. 
+For and on behalf of Mis AKS IT Services Pvt. Ltd 
+Name: Lt Cdr Akash Mahindrakar (Retd.) 
+Contact no.: +91 9766264616 
+Place: Noida 
+Date:18.12.2025 Digitally signed by 
+AKASH AKASH MAHINDRAKAR 
+MAHINDRAKAR Date: 202s.12.1s 
+19:10:46 +05'30' 
+2. Executive Summary: 
+As part of compliance with SEBI Cyber Security and Cyber Resilience Framework 
+(CSCRF), M/s AKS IT Services Private Limited conducted the Vulnerability 
+Assessment and Penetration Testing (VAPT) in accordance with the Annexure-2 
+VAPT format prescribed under SEBI CSCRF. 
+The assessment covered the defined scope of assets related to SEBI activities. 
+The following is the consolidated summary of all the assessments. 
+Critical: 54, High :107, Medium:5720 and Low:594. 
+3. Scope of VAPT 
+s. Type of Assessment List the details of the 
+No. assessment 
+Vulnerability Assessment of 
+1. Infrastructure -Internal and 147 IPs 
+External 
+Vulnerability Assessment of 04-Applications 
+Applications -Internal and • DP Secure -1 Application 
+2. External • FOC - 1 Application 
+• ASBA -1 Application 
+• UAT ASBA - 1 Aoolication 
+External Penetration 04-Applications 
+Testing - • DP Secure -1 Application 
+3. Infrastructure and • FOC - 1 Application 
+Applications • ASBA - 1 Application 
+• UAT ASBA - 1 Aoolication 
+4. Wi-Fi Testing Not Applicable 
+API Security Testing 1 API with 4 end points 
+• inquireCasaAccountBalance 
+5. • asbaPANValidation 
+• partialEarmarkFunds 
+• oartialReleaseEa rmark 
+6. Network Segmentation Testing 34 Segments 
+7. VA and PT of Mobile Not Applicable 
+Applications 
+8. OS and DB Assessment 01 Oracle Database 
+9. VAPT of Cloud implementation Not Applicable 
+and Deployments 
+Configuration audit The following Operating Systems are being 
+:covered for configuration audit. 
+10. Oracle Solaris 11, Cisco NX-OS, Cisco IOS 
+XE, Check Point Firewall, Gaia OS, 
+Fortigate OS Juniper OS, Windows server 
+~016, 2019 and 2022. 

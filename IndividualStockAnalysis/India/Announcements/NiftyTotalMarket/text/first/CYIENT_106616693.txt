@@ -1,0 +1,123 @@
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                              CIN: L72200TG1991PLC013134 
+                            Units Layout, Madhapur                                        www.cyient.com  
+                            Hyderabad -500 081                                               Company.secretary@cyient.com  
+                            India                                                                           T +91 40 6764 1000  
+                                                                                                                F +91 40 2311 0 352 
+  
+11 May 2026 
+ BSE Limited                                                                            National Stock Exchange of India Ltd                                     
+PJ Towers, 25
+th Floor,              Exchange Plaza,                                                                          
+Dalal Street                 Bandra-Kurla Complex, Bandra (E)                                         Mumbai 400001              Mumbai-400 051 
+Scrip Code: 532175            Scrip Code: CYIENT  
+Dear Sir/ Madam,  
+Sub: Press Release  
+Please find the enclosed Press Release ‘Cyient Semiconductors Launches India’s First GaN Power IC Family Leveraging Navitas Technology.’ 
+ This is for your information and records. 
+ Thanking you, 
+For Cyient Limited 
+ 
+ 
+Ravi Kumar Nukala 
+Dy. Company Secretary 
+ 
+ 
+                                                                
+ 
+ 
+ 
+PRESS RELEASE 
+Cyient Semiconductors Launches India’s First GaN 
+Power IC Family Leveraging Navitas Technology   
+Seven new GaN power ICs with 650V rating in troduced, targeting emerging applications 
+across Edge AI Computing and E -Mobility  
+Hyderabad, India – May 11, 2026 – Cyient Semiconductors Private Limited today announced 
+the launch of seven new gallium nitride (GaN) po wer devices for the Indian market, developed 
+using Navitas Semiconductor’s (Nasdaq: NVTS) industry leading GaN technology.   
+The launch marks Cyient Semiconductors’ firs t commercial GaN produc t family and a major 
+milestone in advancing India’s domestic power semiconductor ecosystem. The new portfolio is 
+designed to address the rapidly growing demand for high-efficiency, high-power-density 
+solutions across AI data centers, telecommunications, consumer fast charging, industrial power 
+systems, and e-mobility platforms. 
+Building on the strategic collaboration announc ed in December 2025, the partnership enables 
+customers in India to access commercially avai lable GaN power solutions with enhanced local 
+support, supply assurance, and alignment with emerging domestic sourcing initiatives. 
+Under the agreement, Cyient Semiconductors will license Navitas’s proven GaN technology for 
+use in India, accelerating the adoption of high -performance GaN solutions across a broad range 
+of markets.  In addition, Cyient Semiconductors will serve as a second source for select Navitas 
+GaN devices already in mass production and strengthening supply chain resilience. 
+Compared to traditional silicon devices, GaN power semiconductors enable significantly higher 
+switching speeds, lower conduction losses, and improved thermal efficiency. These advantages 
+allow system designers to reduce power losses, shrink solution size, simplify thermal 
+management, and increase overall system performance. 
+Cyient Semiconductors’ initial GaN portfolio targ ets power applications up to 650 V, including 
+consumer USB -PD chargers, laptop and mobile adapters; AC -DC power supplies; AI data center 
+and telecommunications power systems; and e -mobility charging platforms. 
+Looking ahead, Cyient Semiconductors plans to expand its GaN portfolio through partnerships 
+with local OSATs. Over time, the licensing ag reement with Navitas Semiconductor is expected 
+to enable the domestic manufacturing of GaN po wer devices in India. This phased approach 
+prioritizes ecosystem readiness and scale in th e near term, while creating a clear pathway 
+toward deeper technology participation and indi genous value creation as the market matures 
+and demand scales.  
+The first wave of products includes seven high ly integrated GaN power devices in easy to 
+assemble DPAK packages, combining drive, contro l, and protection functions, with integrated 
+                                                                
+ 
+ 
+ 
+EMI management and current sensing, in industry -standard, high -thermal -performance 
+packages. This level of integration is designed to simplify system design and ease adoption, 
+addressing a critical intersection point for customers in India that prioritize faster 
+time -to-market, high reliability, and system -level efficiency.   
+Suman Narayan, CEO, Cyient Semiconductors , said, “With this launch, Cyient Semiconductors 
+is introducing its first family of GaN power ICs, marking our entry into high-performance power semiconductors with a strong roadmap for expans ion. Built on Navitas’ proven GaN platform, 
+these highly integrated devices are designed  to accelerate adoption and support next-
+generation power applications. This represents the foundation of a broader GaN portfolio that will address the growing power and efficiency demands of AI infrastructure, industrial systems, 
+consumer power, and e-mobility applications” 
+Chris Allexandre, President and CEO of Navitas Semiconductor,  said, “India is a key market 
+in Navitas’s high growth, high power strategy wi th Navitas 2.0. This launch furthers our vision 
+of a robust local supply chain and manufacturing in India for the governments “Make in India” initiatives. The partnership with Cyient delivers a strong local support infrastructure for our customers as we pivot our India strategy to  focus on GaN based product enablement and 
+customer success” 
+Cyient Semiconductors expect to begin sampling the first set of GaN power products by June 
+2026. Customers can contact Cyient Semiconducto rs directly for datasheets, samples, and 
+technical support.  
+CYPG6148CQ GaN 700V 120mOhm DPAK with driver (QR Topologies) 
+CYPG6148CP GaN 700V 120mOhm DPAK with driver (PFC/HS Topologies) 
+CYPG6146CQ GaN 700V 170mOhm DPAK with driver (QR Topologies) 
+CYPG6146CP GaN 700V 170mOhm DPAK with driver (PFC/HS Topologies) 
+CYPG6145CQ GaN 700V 210mOhm DPAK with driver (QR Topologies) 
+CYPG6144CQ GaN 700V 260mOhm DPAK with driver (QR Topologies) 
+CYPG6143CQ GaN 700V 330mOhm DPAK with driver (QR Topologies) 
+ 
+For more information on the partnership and products please visit - 
+https://cyientsemi.com/power-products/gan-power  
+About Cyient Semiconductors 
+Cyient Semiconductors is a Hyderabad-headquarte red provider of custom ASIC/ASSP solutions, 
+with a focus on analog mixed-signal, intelligent power, and advanced semiconductor platforms. 
+With design centers in India, Belgium, and th e U.S., Cyient Semiconductors enables global 
+customers in data centers, robo tics, automotive, and industrial automation to achieve higher 
+efficiency and faster time-to-market. 
+  
+                                                                
+ 
+ 
+ 
+Forward-Looking Statements 
+Certain statements made in the press release th at are not based on historical facts may be 
+forward -looking statements within the meaning of  applicable laws and regulations. Such 
+forward -looking statements are subject to risks, uncer tainties, and assumptions, like significant 
+changes in the economic environment in India and overseas, regulatory and tax laws, import 
+duties, litigation, labo ur relations and other factors beyo nd the Company’s control. Actual 
+results may differ materially from those expressed or implied.  
+Cyient Semiconductors undertakes no obligation to publicly update or revise these 
+forward -looking statements, whether as a result of new information, future events, or 
+otherwise, except as required under applicable law. 
+  
+Reshma Nair, 20:20 MSL 
+reshma.nair@2020msl.com  
+Joshika Rv, 20:20 MSL 
+joshika.rv@2020msl.com   
+Phalguna Hari jandhyala  
+Cyient 
+Phalguna.Harijandhyala@cyient.com   

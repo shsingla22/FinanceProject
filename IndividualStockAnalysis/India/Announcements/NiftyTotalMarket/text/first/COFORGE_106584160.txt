@@ -1,0 +1,130 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +91 120 4592 301                                         T: 0124- 4627837                 CIN: L72100HR1992PLC128382                    
+ 
+    April 0 8, 202 6 
+  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai –  400 001  
+BSE Scrip code – 532541  
+Equity ISIN INE591G01025 
+ 
+  
+The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Symbol  – COFORGE  
+ 
+Dear Sir/Madam,  
+  
+Subject: Press Release  
+ 
+Pursuant  to applicable provisions  of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 
+2015, as amended, please find enclosed press release  of the Company announc ing that “Coforge launches 
+“Mod Squads” – Outcome -based human- agent pods under a subscription pricing construct ” 
+ 
+We request you to take the above on record . 
+ 
+For Coforge Limited  
+  
+  
+  
+Barkha Sharma  
+Company Secretary & Compliance Officer  
+ 
+ 
+Encl .: As above  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Coforge launches “Mod Squads ” – Outcome -based  human- agent  pods under a  
+subscription pricing construct  
+ 
+― Coforge introduces AI Mod Squads, a subscription -based delivery model that replaces 
+traditional T&M with outcome- driven pricing, faster time- to-market with full cost predictability.  
+ 
+― Enterprises can assemble custom AI -native teams tailored to industry and engineering 
+workflows, enabling autonomous, scalable execution with proven impact  
+ 
+Princeton, NJ, USA, Wednesday , April 8 – Coforge , an AI-native engineering services leader , has 
+launched  AI Mod Squads  – a new delivery model  with a simple monthly subscription fee.  Mod Squads  
+combine pre-built AI agents with specialized AI engineers to deliver dramatically  faster  time- to-market  
+at a lower cost for clients.   
+ 
+Customers can create their own AI -powered teams  by select ing a set of pre- built AI agents for their use 
+case s. Coforge is offering a comprehensive suite  of 130+ agents across two categories:  
+― Industry -specific agents : Designed to handle tasks like fraud detection for banking, claims 
+triaging for insurance, and weather alert management for airlines .  
+― Engineering -focused  agents: Designed to execute legacy code reverse engineering, 
+automate quality assurance , fix incident  ticket s, and more.  
+ 
+The agents can be deployed in either customer hosted AI infrastructure, or in Coforge hosted Forge- X 
+agentic infrastructure that includes built -in security controls, traceability, agent -to-agent collaboration  
+and data connectors . Coforge's  vertical and technical expertise is deeply embedded into every agent, 
+enabling these squads to deliver hyper -specialized  solutions that other agentic  delivery model s cannot 
+match.  
+ 
+At the heart of every Mod Squad is a structured expert -in-the-loop model, where Coforge's senior AI 
+specialists oversee the agents, and actively direct, validate, and course- correct them at every critical 
+decision point. This ensures that AI autonomy is paired with human accountability, making this model 
+equa lly suited to high- stakes, regulated workflows and to high- velocity engineering delivery.  
+ “With our AI Mod Squads , we are giving clients something the market has not offered before: the 
+freedom to compose their own AI -powered delivery team, backed by domain intelligence built over three 
+decades ," said Sudhir  Singh , CEO,  Coforge.  
+ A clear  departure from the traditional T&M pricing model, c ustomers pay a fixed subscription fee per 
+month for each AI Mod Squad. T his covers  access to the foundational  elements , the agents required 
+for their use case,  and the senior AI engineers who work alongside them on delivery .  
+ Pricing is determined by the number, complexity and autonomy of the agents deployed, which range from simple code- writing bots to complex agents that orchestrate multiple tasks. This model provides 
+enterprises with the flexibility to pay for only what they consume, ensur ing high transparency and cost 
+predictability for annual engineering budgets.  
+ “By moving from effort -based pricing to a transparent outcome focused subscription model, we are 
+giving clients cost predictability while enabling  accelerat ion of  our customers’ transition to autonomous 
+AI-driven enterprises .” said Sunil Fernandes, C hief Operating Officer , Coforge.  
+ 
+Coforge’s AI Mod Squads  are proving to be a groundbreaking delivery model –  they are already 
+generating strong, measurable business outcomes for customer s. A banking loan origination human-
+agent  squad  has generated a 70% reduction in cycle time , and an insurance underwriting human- agent  
+squad has  led to a 50%  faster underwriting  cycle. In addition, they are leading to significantly faster 
+ 
+time-to-market, greater standardization of output , and flexibility to scale, reconfigure, or expand squads 
+as business needs evolve.  
+ 
+Coforge’s AI Mod Squads  are available immediately for deployment . 
+ 
+ 
+About Coforge:  
+Coforge is an AI -native engineering services leader, where AI is the very foundation of how we design, 
+build, and deliver intelligent solutions for our clients. We use AI and hyperspecialized industry expertise 
+to engineer autonomous enterprises. We combin e AI agents with our AI -enabled workforce, including 
+specialized FDEs in hybrid pod- based delivery units. With a deep focus on trusted AI, our solutions are 
+secure, governed, and enterprise- grade. We are outcome- led by design. Moving beyond AI 
+experimentat ion, we deliver measurable business outcomes –  lower operating costs, faster cycle times, 
+higher conversion rates, and sustained margin growth.  
+ 
+Media Contact:   
+Brian Glidden (US & Europe) - brian.glidden@coforge.com 
+Santanu Bhattacharya (India) - santanu.b@coforge.com 
+ 
+  

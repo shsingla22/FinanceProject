@@ -1,0 +1,595 @@
+Shiv & Associates 
+Chartered Accountants 
+103 & 105, Ajanta Market, Plot No. 1, 
+Vardhaman Indraprastha Plaza, 
+I.P. Extension, Partparganj, 
+Delhi - 110092 Rao & Emmar 
+Chartered Accountants 
+489, II Floor, Pocket 4, 
+DDA LIG Flats 
+Sector 11, Dwarka, 
+New Delhi-110075 
+Independent Auditor's Report on the Audit of Standalone Interim Financial Statements 
+To 
+The Board of Directors 
+Indian Renewable Energy Development Agency Limited 
+Opinion 
+We have audited the accompanying Standalone Interim Financial Statements oflndian Renewable Energy 
+Development Agency Limited ("the Company"), which comprise the Standalone Balance Sheet as at 
+December 31,2025, the Standalone Statement of Profit and Loss (including Standalone Other 
+Comprehensive income), Standalone Statement of Changes in Equity and Standalone Statement of Cash 
+Flows for the nine months then ended, and Notes to the Standalone Interim Financial Statements, including 
+material accounting policies and other explanatory information for the nine months then ended (hereinafter 
+referred to as 'Standalone Interim Financial Statements'). 
+In our opinion and to the best of our infonnation and according to the explanations given to us, the aforesaid 
+Standalone Interim Financial Statements give a true and fair view in conformity with the recognition and 
+measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting" (Ind 
+AS 34) prescribed under section 133 of the Companies Act, 20 I 3 (the "Act") read with relevant rules issued 
+thereunder, RBI guidelines and other accounting principles generally accepted in India, of the state affairs 
+of the company as at December 3 I ,2025, the profit and the total comprehensive income, changes in equity 
+and its cash flows for the nine months ended on that date. 
+Basis for opinion 
+We conducted our audit of Standalone Interim Financial Statements in accordance with the Standards on 
+Auditing (SAs) specified under section 143(10) of the Companies Act 2013 as amended ("the Act") issued 
+by the Institute of Chartered Accountant of India (ICAI). Our responsibilities under those Standards are 
+further described in the 'Auditor's Responsibilities for the Audit of the Standalone Interim Financial 
+Statements' section of our report. We are independent of the Company in accordance with the Code of 
+Ethics issued by the ICAI, and we have fulfilled our other ethical responsibilities in accordance with the 
+ICAI's Code of Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to 
+provide a basis for our audit opinion on the Standalone Interim Financial Statements. 
+Emphasis of Matter 
+1. As described in Note 38(42) to the Standalone Interim Financial Statements, the company has 
+classified certain accounts required to be classified as stage III !Non-Performing Assets (NPA) as 
+stage 11 I Standard aggregating to< 400.24 crores in terms of interim orders of Hon'ble High Courts. 
+Statutory disclosures have been made accordingly. Therefore, interest income on such accounts 
+becoming NPA in terms of prudential norms of Reserve Bank of India (RBI) has been recognized on 
+collection basis and allowance for impairment loss has been made in accounts accordingly. 
+11. 
+100% risk weight to these assets. Accordingly, CRAR for the corresponding period as at 31 
+December 2024 has been restated to 15.52 %. This has been carried out by the management in 
+accordance with the RBI directions. 
+Our opinion on the Standalone Interim Financial Statements is not modified in respect of these matters. 
+Other Matters 
+i. The audit of standalone interim financial results for the quarter and nine months ended 
+December 31,2024 was conducted by the then Statutory Auditors of the Company. They 
+expressed unmodified opinion on those standalone financial results vide audit report dated 09 
+Jan 2025. 
+11. As per past practice, in respect of loan assets, the Company has provided expected credit loss 
+(ECL) as required under Ind AS 109 based on the ECL report submitted by an independent agency 
+appointed by the Company, which inter alia includes assumptions based on technical parameters I 
+certain aspects. The use of such expert does not diminish management's responsibility for ECL 
+estimation nor our responsibility to evaluate the assumptions, methodology and data used. 
+Responsibilities of Board of Directors and Those Charged with Governance for the Standalone 
+Interim Financial Statements 
+The Company's Board of Directors is responsible for the preparation and presentation of these Standalone 
+Interim Financial Statements that give a true and fair view of the state of affairs (financial position), 
+Standalone Profit or Loss (financial performance including other comprehensive income), Standalone 
+changes in equity and cash flows of the Company in accordance with the recognition and measurement 
+principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting" (Ind AS 34) specified 
+under section 133 of the Act, read with the relevant rules issued thereunder, circulars guidelines and 
+directions issued by the Reserve Bank of India ( 'RBI') from time to time ( 'RBI Guidelines' ) and other 
+accounting principles generally accepted in India. 
+This responsibility also includes maintenance of adequate accounting records in accordance with the 
+provisions of the Act for safeguarding of the assets of the Company and for preventing and detecting frauds 
+and other irregularities; selection and application of appropriate accounting policies; making judgments and 
+estimates that are reasonable and prudent; and design, implementation and maintenance of adequate internal 
+financial controls that were operating effectively for ensuring the accuracy and completeness of the 
+accounting records, relevant to the preparation and presentation of the Standalone Interim Financial 
+Statements that give a true and fair view and are free from material misstatement , whether due to fraud or 
+error, which have been used for the purpose of the preparation of the Standalone Interim Financial 
+Statements . 
+In preparing the Standalone Interim financial statements, the Board of Directors is responsible for assessing 
+the company 's ability to continue as a going concern, disclosing, as applicable, matters related to going 
+concern and using the going concern basis of accounting unless the Board of Directors either intends to 
+liquidate the company or to cease operations, or has no realistic alternative but to do so. The Board of 
+Directors is also responsible for overseeing the company's financial reporting process. 
+Auditor's Responsibilities for the Audit of the Standalone Interim Financial Statements 
+Our objectives are to obtain reasonable assurance about whether the Standalone Interim Financial 
+Statements as a whole are free from material misstatement , whether due to fraud or error, and to issue an 
+auditor's report that includes our opinion. Reasonable assurance is a high level of assurance but is not a 
+guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when 
+it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the 
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis 
+of these Standalone Interim financial statements. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional 
+scepticism throughout the audit. We also: 
+Identify and assess the risks of material misstatement of the Standalone Interim financial statements, 
+whether due to fraud or error, design and perform audit procedures responsive to those risks, and 
+obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of 
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error, 
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal control. 
+Obtain an understanding of internal financial control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion 
+on the effectiveness of such control. 
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting 
+estimates and related disclosures made by management. 
+Conclude on the appropriateness of management's use of the going concern basis of accounting and, 
+based on the audit evidence obtained, whether a material uncertainty exists related to events or 
+conditions that may cast significant doubt on the ability of the company to continue as a going 
+concern. If we conclude that a material uncertainty exists, we are required to draw attention in our 
+auditor's report to the related disclosures in the Standalone Interim Financial Statements or, if such 
+disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence 
+obtained up to the date of our auditor's report. However, future events or conditions may cause the 
+company to cease to continue as a going concern. 
+Evaluate the overall presentation, structure and content of the standalone interim financial statements, 
+including the disclosures, and whether the Standalone Interim Financial Statements represent the 
+underlying transactions and events in a manner that achieves fair presentation. 
+Materiality is the magnitude of misstatements in the Standalone Interim Financial Statements that 
+individually or in aggregate, make it probable that the economic decisions of a reasonably knowledgeable 
+user of the Standalone Interim Financial Statements may be influenced. We consider quantitative materiality 
+and qualitative factors (i) in planning the scope of our audit work and in evaluating the results of our 
+work;(ii) to evaluate the effect of any identified misstatements in the Standalone Interim Financial 
+Statements. 
+We communicate with those charged with governance of the Company regarding, among other matters, the 
+planned scope and timing of the audit and significant audit findings, including any significant deficiencies 
+in internal financial control that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with relevant ethical 
+requirements regarding independence, and to communicate with them all relationships and other matters 
+that may reasonably be thought to bear on our independence, and where applicable, related safeguards. 
+For Shiv & Associates 
+Chartered Accountants 
+Finn's Registration Number: 009989N 
+Place: New Delhi 
+Date: 09-01-2026 For Rao & Emmar 
+Chartered Accountants 
+Indian Renewable Energy Development Agency Limited 
+CTN: L65 l OODL l 987GOI027265 
+Standalone Balance Sheet as at December 31. 2025 
+S.No. Particulars 
+I ASSETS 
+A Financial Assets 
+(a) Cash and Cash Equivalents 
+(b) Bank Balance other than (a) above 
+(c) Derivative Financial Instruments 
+(d) Receivables 
+(I) Trade Receivables 
+(el Loans 
+( f) Investments 
+(g) Other Financial Assets 
+Total-Financial Assets (A) 
+B Non-financial Assets 
+(a) Current Tax Assets (Net) 
+(b) Deferred Tax Assets (Net) 
+( c) Investment Property 
+(d) Property, Plant and Equipment (PPE) 
+(e) Capital Work-In-Progress 
+(t) Right of use Assets 
+(gl Intangible Assets under development 
+(h) Intangible Assets 
+(i) Other Non-Financial Assets 
+Total-Non-Financial Assets (B) 
+Total Assets (A+B) 
+II LIABILITIES AND EQUITY 
+LIABILITIES 
+A Financial Liabilities 
+(a) Derivative Financial Instruments 
+(b) Payables 
+(I) Trade Payables 
+(i) Total outstanding dues of Micro Enterprises and Small 
+Enterprises 
+(ii) Total outstanding dues of creditors other than Micro 
+Enterprises and Small Enterprises 
+(c) Debt Securities 
+(d) Borrowings (Other than Debt Securities) 
+(ti) Subordinated Liabilities 
+(t) Other Financial Liabilities 
+Total-Financial Liabilities (A) 
+B Non-Financial Liabilities 
+(a) Provisions 
+(b) Other Non-Financial Liabilities 
+Total-Non-Financial Liabilities (B) 
+c Equity 
+(a) Equity Share Capital 
+(b) Other Equity 
+Total-Equity (C) 
+Total-Liabilities and Equity(A+B+C) 
+Company Overview and Material Accounting Policies Information Note No. As at 31.12.2025 
+2 112.30 
+3 1,642.06 
+4 731.94 
+5 5. 55 
+6 85,989.07 
+7 1,038.92 
+8 24.90 
+89,544.74 
+9 174.41 
+10 463.67 
+II 0.02 
+12 185.16 
+13 -
+14 140.07 
+15 -
+16 4.34 
+17 I 684.80 
+2,652.47 
+92,197.21 
+4 100.67 
+18 
+-
+3.13 
+19 28,657.97 
+20 41,276.87 
+21 3,257.26 
+22 2,721.20 
+76,017.10 
+23 804.61 
+24 1,838.82 
+2,643.43 
+25 2,809.23 
+26 10,727.45 
+13,536.68 
+92,197.21 £NEF?GY FOil EVER 
+ONCE !REDA ALWAYS /REDA 
+(14 Jf4iwarna cq:'. £) 
+(fin Crorcs) 
+As at 31.12.2024 
+221.98 
+1,118.64 
+517.24 
+5.33 
+68,045.82 
+759.08 
+32.15 
+70,700.24 
+180.92 
+347.86 
+0.02 
+201.24 
+-
+145.01 
+-
+3.91 
+I 685.11 
+2,564.07 
+73,264.31 
+36.83 
+-
+0.91 
+26,298.03 
+. 30,983. 11 
+649.48 
+2,498.11 
+60,466.47 
+1,107.92 
+1,847.85 
+2,955.77 
+2,687.76 
+7,154.31 
+9,842.07 
+73,264.31 
+The accomapnying notes I to 38 form an integral part of the Standalone Financial Statements 
+As per our Audit Report of even date 
+For Shiv & Associates 
+Chartered Accountants 
+ICAI Regn No.- 009989N For Rao & Emmar 
+CA Kamal Rai Madhra 
+Partner 
+Membership No.-098607 For and on Behalf of Board of Directors 
+"Jy 
+Dr. 8 K Mohancy 
+Director (Finance) 
+DIN No. 08816532 Pradip Kumar Das 
+Chairman & Managing Director 
+DIN No. 07448576 
+.... 
+Company Secretary & Compliance Officer 
+ACS. No. 23391 
+Indian Renewable Energy Development Agency Limited 
+CIN: L65100DLl987G01027265 
+Standalone Statement of Profit and Loss for the period ended December 31. 2025 
+S.No. Particulars Note No. 
+I Revenue From Operations 
+i) Interest Income 27 
+ii) Fees and Commission Income 28 
+iii) Net gain/(loss) on Fair Value Changes 29 
+iv) Other Operating Income 30 
+Total Revenue From Ooerations (I) 
+II Other Income 31 
+III Total Income (1+11) 
+IV Expenses 
+i) Finance Cost 32 
+ii) Net Translation/ Transaction Exchange Loss/( Gain) 33 
+iii) Impairment on Financial lnstmments 34 
+iv) Employee Benefits Expenses 35 
+v) Depreciation , Amortization and Impairment 36 
+vi) Others Expenses 37 
+vii) Corporate Social Responsibility Expense 38(38) 
+Total Expenses (IV) 
+v Profit/( Loss) Before Exceptional Items and Tax (DI-IV) 
+VI Exceptional Items 
+vu ProfiU(Loss) Before Tax (V-VI) 
+VIII Tax Expense 38(3) 
+(i) Current Tax 
+(ii) Deferred Tax 
+IX Profit/(Loss) from Continuing Operations (VII-VIII) 
+Profit/(Loss) from Discontinued Ooerations 
+x Profit/(Lossl for the period 
+XI Other Comorehensive Income (OCI) 
+(Al l(i) Items that will not be reclassified to Profit or Loss 
+- Remeasurements of the Defined Benefit Plans:-
+(ii) Income tax relating to items that will not be reclassified to Profit 
+or Loss 
+Subtotal (A) 
+ffi) l(il Items that will be reclassified to Profit or Loss:-
+-Effective portion of Gain/( Loss) on Hedging Instrument in Cash 
+Flow Hedge Reserve 
+l(ii) Income tax relating to items that will be reclassified to Profit or 
+Subtotal (B) 
+Other Comorehensive Income (A+B) 
+XII Total Comprehensive Income for the period (X+XI) (Comprising 
+Profit (Loss) and Other Comprehensive Income) 
+XIII Earnin2 per equity share (for Continuin2 Operations) 
+XIV Earnin2 per equity share (for Discontinued Operations) 
+38(14) 
+xv Earning per equity share (for Continuing and Discontinued 
+operations) 
+Company Overview and Material Accow1ting Policies Information 
+The accomapnying notes I to 38 form an integral part of the Standalone Financial Statements Period ended 31.12.2025 
+6,040.86 
+46.54 
+16.84 
+29.80 
+6 134.04 
+22.53 
+6 156.57 
+3,663.81 
+9.46 
+561.79 
+76.13 
+31.29 
+71.99 
+24.45 
+4 438.92 
+1,717.65 
+-
+l 717.65 
+432.87 
+(95.80) 
+1,380.58 
+-
+1 380.58 
+(14.17) 
+3.57 
+(lo.60) 
+61.12 
+(15.38) 
+45.74 
+35.14 
+1,415.72 
+4.97 
+4.97 
+--
+4.97 
+4.97 £NE.RGV 10 R E:VER 
+ONCE. IF/EDA Al.W;SYS lllEDA 
+0 1 1i.1 (JJ'S'i .. ) 
+(f in Crores) 
+Period Ended 31.12.2024 
+4,714.25 
+67.16 
+9.76 
+47.11 
+4,838.28 
+1.80 
+4 840.08 
+3,037.31 
+42.22 
+107.79 
+60.22 
+28.08 
+72.14 
+18.48 
+3 366.24 
+1,473.84 
+-
+1473.84 
+331.19 
+(54.16) 
+1,196.81 
+-
+1,196.81 
+(16.91) 
+4.26 
+(12.65) 
+127.60 
+(32.11) 
+95.49 
+82.84 
+1,279.65 
+4.45 
+4.45 
+-
+-
+4.45 
+4.45 
+As per our Audit Report of even date 
+For Shiv & Associates For Rao & Emmar For and on Behalf of Board of Directors 
+Place : New Delhi 
+Date : 09.01.2026 Chartered Accountants 
+!CAI Rogn - _,}.. 
+L hra Dr.BK Mohanty 
+Partner 
+Membership No.- 098607 Director (Finance) 
+DIN No. 08816532 Pradip Kumar Das 
+Chairman & Managing Director 
+DIN No. 07448576 
+Indian Renewable Energy Development Agency Limited 
+CIN L651OODL1987GOI027265 
+Standalone Statement of Cash Flows for the period ended December 31. 2025 
+S.No. Particulars 
+A Cash Flow from Onerating Activities: 
+Profit Before Tax 
+Adjustment for: 
+I Loss I (Gain) on derecognition of Property. Plant and Equipment (Net) 
+2 Impairment on Financial lnstrwnents 
+Depreciation and Amortization 
+Amortization adjustment due to WB Grant 
+Interest on Lease Liabilitv 
+Net Trru1slation/ Trru1saction Exchange Loss I (Gain) 
+Pro1·ision Written Back 
+Amounts Written Off I Bad debts 
+Provisions for Employee Benefits 
+JO Effective Interest Rate on Debt Securities 
+11 Effective Interest Rate on Subordinated Liabilities 
+12 Effective Interest Rate on Loans 
+13 Provision for Indirect Tax (Including on Guarantee Commission) & Others 
+14 Net Loss I (Gain) on Fair Value Changes 
+Operating Profit before changes in Operating Assets and Liabilities 
+Increase I Decrease in Operating Assets I Liabilities 
+I Loan Assets 
+2 Other Financial Assets 
+Other Non-Financial Assets 
+Trade Receivables 
+Other Non-Financial Liabilities 
+Other Financial Liabilities 
+Lease Liabilitv 
+Trade Payable 
+Bank Balances other than Cash and Cash Equivalent 
+Cash Flow from Ope.rations Before Exceptional Items 
+Exceptional Item 
+Net Cash lnflow/(Outflow) from Operations Before Tax 
+Income Tax 
+Net Cash Flow from Opernting Activities 
+B Cash Flow From Investing Activities 
+I Purchase of Property, Plant & Equipment 
+2 Sale of Propertv. Plant & Equipment 
+Investment in Government Securities (Net) 
+Net Cash Flow from Investing Activities 
+C Cash Flow from Financing Activities 
+I Proceeds from Issue of Equity Shares 
+Proceeds from Securities Prerniwn 
+Share Issue Expenses 
+Issue of Debi Seurities (Net of redemptions) 
+Raising of Subordinated Liabilities including POI (Net of redemptions ) 
+Raising of Loans other than Debt Securities (Net of repayments) 
+Pavment for Lease 
+Net Cash How from Financing Activities 
+Net Increase/Decrease in Cash and Cash Equivalents 
+Cash and Cash Equivalents at the Begi1111ing 
+Cash and Cash Equivalents at the End 
+Components of Cash and Cash Equivalents as al end of the period are: 
+In Current Accounts with Banks in Indian Branch 
+In Current Acc ow1ts with Banks in Foreign Branch 
+In Overdraft AccolU1ts with Bru1ks 
+In Deposit Accounts with Banks 
+In Sa\·ing Bank Accounts with Bru1ks 
+Cheques Under Collection /DD In hand and Postage imprest 
+Total Cash and Cash Equivalent as at end of the period 
+Company Overview and Malena! Accountmg Policies Information 
+The accomapnying notes I to 38 form an integral part of the Standalone Finru1cial Statements Period ended 
+JJ.12.2025 
+1,717.65 
+0.83 
+561.79 
+31.29 
+0.28 
+0.27 
+9.46 
+14.33 
+4.44 
+0.12 
+(0.31) 
+35.36 
+19.59 
+16.84 
+2,411.94 
+(11,726.80) 
+(279 64) 
+(19.81) 
+0.37 
+(1.44) 
+1,220.45 
+0.00 
+(5.98) 
+(l,000.72) 
+(11,813.57) 
+(9,401.6J) 
+(9,401.63) 
+(402.84) 
+(11.98) 
+0.13 
+(394.57) 
+121.47 
+J,884.43 
+(14.87) 
+211.61 
+453.00 
+7,637.94 
+(023) (9,804.47) 
+(406.42) 
+I0,293.J5 
+82.46 
+29.84 
+J 12.30 
+14.77 
+0.00 
+39.39 
+51.07 
+7.07 
+000 
+112.JO 
+I The above statement of cash flows has been prepared under the indirect method as set out in Ind AS 7 'Statement of Cash Flows'. 
+2 Refer Note 38 (38) for amounts spend on construction I acquisition of assets and other purposes related to CSR actiYities Period ended 
+Jl.12.2024 
+1,473.84 
+0.52 
+107.79 
+28.08 
+0.28 
+0.26 
+42.22 
+(OOJ) 
+16.84 
+3.05 
+(3 65) 
+0.06 
+10.17 
+19.53 
+9.76 
+1,708.73 
+(9,292.07) 
+(101.85) 
+(16.39) 
+0.68 
+40.46 
+J,J 14.57 
+0.00 
+(639) 
+(456 96) 
+(8,717.95) 
+(7,009.21) 
+(7,009.21) 
+(388 81) 
+(18.0G) 
+0.32 
+(643.98) 
+8.588.0G 
+(379 94) 
+(0.61) If in Crores) 
+(7,398.02) 
+(661.72) 
+8,207.51 
+147.77 
+74.21 
+221.98 
+13.85 
+0.32 
+190.82 
+2.13 
+7.60 
+7.26 
+221.98 
+There are no repatriation restrictions with respect to Cash and Cash Equivalents and Bank balances as at the end of the reporting period presented above. 
+Previous period figures ha,·e been rearranged and regrouped wherever necessary 
+As per our Audit Report of even date 
+For Shiv & Associates 
+Chartered Accountants 
+ICAI Regn No.- 009989N 
+Place : New Delhi 
+Date : 09.01.2026 For Rao & Emmar For and on Behalf of Board of Directon 
+Dr. B K Mohanty 
+Director (Finru1ce) 
+DIN No. 08816532 Pradip Kumar Das 
+Chairman & Managing Director 
+DIN No. 07448576 

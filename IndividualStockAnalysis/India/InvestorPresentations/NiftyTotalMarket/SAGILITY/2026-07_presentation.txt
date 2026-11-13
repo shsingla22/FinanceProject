@@ -1,0 +1,468 @@
+
+=== page 1 ===
+Date: July 21 , 202 6 
+To,  
+The Manager  The Manager  
+Listing Department  Listing Department  
+National Stock Exchange  of India Limited  (NSE) BSE Limited  (BSE)  
+Exchange Plaza, 5th Floor  Phiroze Jeejeebhoy Towers  
+Plot No. C/1, G -Block   Dalal Street  
+Bandra -Kurla Complex   Mumbai - 400 001  
+Bandra (E), Mumbai - 400 051   Scrip Code: 544282  
+Symbol: SAGILITY  
+Dear Sir/Ma’am, 
+Sub: Submission of Investor Presentation to be made to investors on  July 21, 2026, pursuant to 
+Regulation  30 read  with  Schedule  III of the  SEBI  (Listing  Obligations  and  Disclosure 
+Requirements) Regulations, 2015. 
+In continuation  of our letter  dated  July  13, 2026,  please  find  enclosed  the presentation  to be made  to 
+investors on the financial results of Sagility Limited for the quarter ended June 30, 2026, during 
+the meeting scheduled today, i.e., Tuesday, July  21, 2026, at 7:30 p.m. (IST). 
+The detail s are also bei ng made available on the Company’s websit e https://sagility.com/ 
+This i s for your information and record.  
+Thanking You, 
+For Sagility Limited 
+Satishkumar Sakharayapattana Seetharamaiah 
+Company Secret ary & Compliance Officer 
+M. No. A16008
+Encl: a/a 
+Sagility Limited 
+(Formerly Sagi lity India Limited, earlier Sagility India Private Limited) 
+Registered Office - No. 23 & 24, AMR Tech Park, Building 2A, First Floor Hongasand ara Village, Off Hosur 
+Road, Bom manahalli, Bengaluru – 560068, Karn atak a, India 
+Corporate Identification Number: L72900KA2021PLC150054 
+Tel. No.: 080-71251500, E-mail : investorservices@sagility.com , Website:  www.sagility.com 
+=== page 2 ===
+Investor Deck 
+ –
+Q1 FY27
+Jul 21, 2026
+=== page 3 ===
+Certain  statements  in this  release  concerning  Sagility’s  future  growth  prospects  may  be seen  as forward -looking  
+statements,  which  involve  a number  of risks  and  uncertainties  that  could  cause  the actuals  to differ  materially  from  
+such  statements . Sagility  does  not undertake  to update  any such  statement  that  may  have  been  made  from  time  to 
+time  by or on behalf  of the company .Safe Harbor
+=== page 4 ===
+▶27.3% Y -o-Y organic growth in Q1 FY27 , driven by expansion within existing clients and rising 
+contribution from FY26 new client wins
+▶Won $35.3M of steady state ACV in Q1 FY27, driven by expansion opportunities /  new SOWs across 18 
+existing clients and 1 new logo
+▶Acquired CareSeed  to strengthen our position in healthcare quality, especially for Medicare Advantage 
+plans, thereby adding differentiated analytics and HEDIS capabilities while expanding our platform 
+depth and mid -market reach. Added 26 new clients via CareSeed  acquisition
+▶Increases in statutory minimum wages in Karnataka and Telangana, effective 22nd May 2026 and 1st June 
+2026 respectivelyPerformance Highlights
+RevenueAdjusted 
+EBITDAAdjusted
+PAT
+₹ 19,635 
+Million
+US$207.8M₹ 4,716
+Million
+US $49.9M₹ 2,697
+Million
+US$28.6M
+YoY growth %
+27.6%
+15.2% in CCMargin %
+24.0%Margin %
+13.7%
+YoY growth %
+(Excl. CareSeed )
+27.3%YoY
+growth %
+27.9%YoY
+growth %
+35.1%Q1 FY27 Business Insights
+Rewards & Recognitions
+Sagility India has been ranked 11th 
+among India’s 100 Best Companies 
+to Work For 2026 by Great Place to 
+Work® India
+Recognized by ET Edge as Best 
+Organizations for WomenMajor Contender – Healthcare Customer 
+Experience Management (CXM) Intelligent 
+Operations PEAK Matrix® Assessment 
+2026
+Major Contender – Revenue Cycle Management 
+(RCM) Intelligent Operations PEAK Matrix® 
+Assessment 2026
+Leader – Avasant  Clinical and 
+Care Management Business 
+Process Transformation 2026 
+RadarViewTM
+14.9% in CC
+
+=== page 5 ===
+KPIs
+Note : *Adjusted  EBITDA  represents  EBITDA  adjusted  for earnouts  payable  under  acquisition  agreements  (DCI,  BirchAI  , BroadPath  & CareSeed ), share -based  payment  awards  and  excludes  other  income  (including  forex  gain/loss) .
+**Adjusted  PAT  reflects  EBITDA  adjustments  and  adjustments  for amortization  of intangible  assets  arising  from  the carve -out of the healthcare  business  from  HGS,  as well  as the statutory  impact  of increase  in Minimum  wages  in 
+Karnataka  & Telangana,  net of tax
+^Voluntary  attrition  is calculated  for employees  with  tenure  exceeding  90 days  and  presented  on an annualized  basis,  derived  from  voluntary  exits  during  the respective  quarterQ1 FY27 Q4 FY26 Q1 FY26 YoY% TTM Jun’26 TTM Jun’25 YoY%
+Revenue from Operation (in ₹ M) 19,635 20,243 15,389 27.6% 76,174 58,855 29.4%
+Steady state Revenue 19,635 17,983 15,389 27.6% 71,647 57,154 25.4%
+Seasonal Revenue (Open Enrollment) - 2,260 - 4,527 1,701 166.2%
+Revenue by Vertical Split
+By Payer % 89.6% 90.8% 88.4% 89.9% 89.2%
+By Provider % 10.4% 9.2% 11.6% 10.1% 10.8%
+Growth in revenue from operation (%) 27.6% 29.1% 25.8% 29.4% 21.1%
+Adjusted EBITDA* (in ₹ M) 4,716 5,036 3,687 27.9% 19,228 15,456 24.4%
+Adjusted EBITDA % 24.0% 24.9% 24.0% 25.2% 26.3%
+Adjusted PAT** (in ₹ M) 2,697 3,069 1,997 35.1% 12,006 8,657 38.7%
+Adjusted PAT % 13.7% 15.2% 13.0% 15.8% 14.7%
+Total Number of Employees at the end of period 47,307 46,860 39,917 18.5% 47,307 39,917 18.5%
+Voluntary attrition rate^ (%) 28.6% 38.1% 27.6% 30.5% 27.5%
+=== page 6 ===
+Annual KPIs
+*Client groups comprise client entities together with their affiliates.
+**30 clients added via CareSeed  acquisition – 26 new client groups, 2 common client groups, 2 affiliates of existing client groupsQ1 FY27 FY26 FY25 FY24 FY23
+Numbers of Client group*
+Active 109 82 75 44 35
+Number of new client addition 27** 17 38 13 7
+Delivery Sites
+Number of  delivery sites 29 31 33 30 27
+New site addition (Gross) - 4 10 4 2
+TTM Jun26 FY26 FY25 FY24 FY23
+Client groups contribution to revenues
+Top 3 Client % 60.1% 59.9% 66.2% 68.3% 72.4%
+Top 5 Client % 70.1% 70.4% 77.9% 79.2% 80.6%
+Top 10 Client % 84.1% 83.9% 90.5% 91.4% 90.7%
+Number of Million -dollar client groups
+Number of clients contributing more than US$ 20M 9   9 7 5 4
+Number of clients contributing to US$ 5M - US$ 20M 8   7 6 7 7
+Number of clients contributing to US$ 1M - US$ 5M 21   21 12 12 12
+Number of clients contributing  less than US$ 1M 71  45 50 20 12
+=== page 7 ===
++
+END TO END QUALITY OF CARE PLATFORM
+=== page 8 ===
+Sagility -CareSeed
+A unified end -to-end quality operations continuum
+~$5.1MN
+CY25 Revenue~95%
+Recurring Revenue31.4%
+CY25 EBITDA Margin30
+Small & mid payer clients14
+Team membersCareSeed , founded in 2012 and headquartered in Kansas City, Missouri, is a U.S. -based healthcare 
+analytics company. CareSeed  solutions include Forecast , which provides HEDIS reporting and quality 
+analytics, and Harvest , which delivers cloud -based medical record review, chart abstraction, and 
+supplemental data capture capabilities.
+By combining 
+CareSeed’s  technology 
+with Sagility’s healthcare 
+operations, clinical 
+services, and AI-led 
+transformation  
+capabilities, Sagility will 
+deliver an end -to-end 
+quality operations 
+continuum. 
++
+Capability
+Strengthens  Sagility's 
+position in Quality for 
+Medicare Advantage 
+(MA)  - expanding 
+capabilities across 
+HEDIS, CMS Stars, quality 
+reporting, and care -gap 
+orchestration.
+Technology
+NCQA -certified Forecast 
+and Harvest platforms 
+advance Sagility's shift 
+from retrospective HEDIS 
+reporting to AI-led, 
+integrated quality 
+operations.
+Cross -sell
+Expands market reach 
+with 26 new small & mid -
+sized health plans plus 2 
+subsidiaries of existing 
+clients - creating 
+immediate cross -sell and 
+greater wallet share via an 
+integrated, tech -led 
+BPaaS  model.
+Talent
+Specialized talent 
+strengthens capabilities 
+across quality technology, 
+and client management - 
+backed by strong, 
+established health -plan 
+relationships.
+=== page 9 ===
+Sagility–CareSeed:
+End -to-End Quality Operations Continuum
+Quality of care 
+impact analysisAbstraction 
+managementHEDIS 
+encounter audit 
+& validationCare Gap 
+ClosureCare Gap 
+identification  & 
+PrioritizationPopulation 
+health programProvider 
+success 
+enablement
+CareSeed  Technology and Analytics Sagility  Technology and Analytics
+AnalyticsAI Enabled
+Workflow
+Compliance Services360° 
+QUALITY OF CARE
+Equipping Health plans to move beyond HEDIS reporting to member -level orchestration, while unlocking  STAR improvement and revenue uplift•HEDIS File Submission
+•Star measurement & audit tracking•RN Abstraction & Scalable Outreach 
+(Onshore/Offshore/Digital) + Care Coordination
+•Robust Operational oversight
+•Behavior change framework driving long term health 
+adoption
+•Coding validation with provider•Forecast
+•Care Gap/ Population health/ AIP platform•Harvest 
+ •Gap identification - Careseed  core expertise
+•Risk stratified chase list creation
+
+=== page 10 ===
+Thought Leadership
+=== page 11 ===
+Future Proofing Payer Operations
+By the Numbers
+•50 payer leaders 
+surveyed
+•94%  expect AI + 
+human oversight 
+•84% report limited AI 
+value today
+Sagility engaged Everest Group to conduct focused research on the payer market trends and factors 
+influencing partnership choices across 50 decision makers in the payer organizations. 
+Independent research validates the healthcare market trends driving demand for 
+Sagility’s AI and domain -led healthcare operations model.
+Key Finding What It Means
+Payers face mounting cost, workforce, and 
+regulatory pressures Redesigning workflows before agentic 
+implementation a necessity for meaningful 
+impact 70% have adopted AI; only 10%  report 
+measurable improvement
+70% identify domain -led intelligent operations 
+as a priorityDeep domain knowledge is required for workflow 
+designHealthcare expertise remains the vital 
+foundation for payers
+Payer expectations are shifting toward 
+strategic partnersUnderstanding of the complete payer ecosystem 
+and willingness to commit to outcomes become 
+key criteria in partner decisions. 
+
+=== page 12 ===
+Financial Highlights
+=== page 13 ===
+Financial Highlights
+Q1 FY27 delivered strong growth at steady margins, and strong 
+cash generation - a strong start to the year
+₹ 19,635 
+Million
+YoY growth %
+(Excl. CareSeed )
+27.3%
+14.9% in CCYoY growth %
+27.6%
+15.2% in CC₹ 4,716
+Million
+Margin %
+24.0%
+YoY Growth %
+27.9%YoY Growth %
+35.1%Margin %
+13.7%₹ 2,697 
+Million₹ 3,161
+Million
+Conversion %
+69.9%
+DSO
+80 days
+=== page 14 ===
+$180.4 $189.4 $196.8 $197.3 $207.8$25.2$24.8
+24.0%26.2% 26.0%24.9%24.0%
+15.0%17.0%19.0%21.0%23.0%25.0%27.0%29.0%31.0%33.0%35.0%
+$0.0$50.0$100.0$150.0$200.0$250.0
+Q1 FY26 Q2 FY26 Q3 FY26 Q4 FY26 Q1 FY27
+Adjusted EBITDA Margin %Revenue ($M)
+Steady State Revenue ($M) Seasonal Revenue ($M) Adjusted EBITDA Margin$146.6 $157.9 $162.3 $171.5 $180.4$9.7$10.3
+23.8%26.1%
+28.4%26.6%24.0%
+15.0%17.0%19.0%21.0%23.0%25.0%27.0%29.0%31.0%33.0%35.0%
+$0.0$50.0$100.0$150.0$200.0
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26
+Adjusted EBITDA Margin %Revenue ($M)Revenue Mix and Adjusted EBITDA Margin %Quarterly Seasonality
+Our Revenues exhibit seasonality. Q3 & Q4 have seasonal Revenues from Open Enrolment  and AEP2 months of 
+BroadPath  
+Revenue 
+($8.9M)
+Includes  
+CareSeed  
+effective 11th 
+Jun’26 ($0.4M)Includes 3 
+month of 
+BroadPath 
+revenue 
+($11.3M)$172.0$181.8
+$222.0 $222.1
+=== page 15 ===
+Long Term Financial Performance Snapshot
+14Revenue (₹M) 
+(growth % Y -o-Y)FY25 FY26
+17.2% 29.1%Adj. EBITDA* (₹M)  
+(growth % Y -o-Y)FY25 FY26
+28.4% 23.9%Adj. PAT(₹M)
+(growth % Y -o-Y)FY25 FY26
+37.5% 39.5%
+Revenue ($M) 
+(growth % Y -o-Y)FY25 FY26
+14.9% 23.6%Adj. EBITDA* ($M) 
+(growth % Y -o-Y)FY25 FY26
+25.9% 18.7%Adj. PAT ($M)
+(growth % Y -o-Y)FY25 FY26
+34.8% 33.5%
+*Adjusted  EBITDA  represents  EBITDA  adjusted  for earnouts  payable  under  the acquisition  agreements  (DCI, BirchAI, BroadPath , & CareSeed ), share -based  payment  awards and exclude other income (including forex gain/loss).Stronger adjusted PAT supported by lower finance cost₹47,536₹55,699₹71,929₹76,174
+FY24 FY25 FY26 TTM Jun26₹11,436₹14,685₹18,200₹19,228
+FY24 FY25 FY26 TTM Jun26₹5,896₹8,107₹11,306₹12,006
+FY24 FY25 FY26 TTM Jun26
+$572.9$658.3$814.0 $841.3
+FY24 FY25 FY26 TTM Jun26$137.8$173.6$206.0 $212.6
+FY24 FY25 FY26 TTM Jun26$71.1$95.8$127.9 $133.1
+FY24 FY25 FY26 TTM Jun26
+=== page 16 ===
+Other Financial Indicators
+15Adjusted EPS is Adjusted PAT divided by weighted average number of equity shares
+Adjusted ROCE is Adjusted PAT plus Interest cost divided by capital employed (Assets excluding goodwill and intangibles asset s less current liabilities)
+Net Debt is Borrowing plus lease liabilities less Cash and Cash equivalent including investment in Mutual Fund and Deposits .  Borrowing doesn’t include accrued interestQ1 FY27 Cash Conversion at 69.9% impacted by acquisition -related earnout payments87.2%89.7%
+64.7%69.9% 70.8%80.5%
+54.4% 53.4%
+FY24 FY25 FY26 Q1 FY27Cash Conversion (%)
+OCF % FCF %1.38 1.76 2.42 2.56 
+FY24 FY25 FY26 TTM Jun26Adjusted EPS (in ₹)
+₹21,678
+₹10,433
+₹1,962₹1,110
+₹0₹5,000₹10,000₹15,000₹20,000₹25,000₹30,000
+FY24 FY25 FY26 TTM Jun26Net Debt
+Net Debt (in ₹ Million)1.90x
+0.71x
+0.11x
+0.06x47.0%54.9%58.9% 58.6%
+FY24 FY25 FY26 TTM Jun26Adjusted ROCE %
+=== page 17 ===
+Particulars Q1 FY27 Q4 FY26 Q1 FY26 YoY% QoQ%
+Revenue from Operation 19,635 20,243 15,389 27.6% -3.0%
+Steady state Revenue 19,635 17,983 15,389 27.6% 9.2%
+Seasonal Revenue (Open Enrollment) - 2,260 - - -
+Employee benefits expense* 12,154 12,580 9,646
+Minimum Wage impact 70 - -
+Other expenses^ 2,694 2,627 2,056
+Adjusted EBITDA** 4,716 5,036 3,687 27.9% -6.4%
+Adjusted EBITDA % 24.0% 24.9% 24.0%
+Adjustments:
+M&A Earnouts -8 150 155
+SAR (stock appreciation right) – Non Cash 60 39 71
+Other Income^^ 143 82 50
+Forex Gain / (Loss) -283 166 49
+Reported EBITDA 4,525 5,094 3,560 27.1% -11.2%
+Finance costs 219 221 274
+Depreciation and amortisation 1,280 1,242 1,182
+Profit Before exceptional item 3,026 3,632 2,104 43.8% -16.7%
+Statutory impact of Minimum Wage increase in Karnataka and 
+Telangana151 - - - -
+Profit Before Tax 2,875 3,632 2,104 36.6% -20.8%
+Tax Expenses 707 1,055 618
+Reported Profit After Tax 2,168 2,577 1,486 45.9% -15.9%
+EPS 0.46 0.56 0.32 45.9% -15.9%
+Adjusted PAT 2,697 3,069 1,997 35.1% -12.1%
+Adjusted PAT % 13.7% 15.2% 13.0%
+Adjusted EPS (₹) 0.58 0.66 0.43 35.1% -12.1%Q1 FY27 Consolidated Profit and Loss Amount in ₹ M
+*Employee benefits expense excludes M&A earnout and SAR (shown separately under adjustments), 
+^ Other expenses exclude forex loss, ^^ Other income excludes forex gain. Forex Gain and Forex Loss clubbed together and show n separately.
+ ** Adjusted EBITDA represents EBITDA adjusted for earnouts payable under the acquisition agreements (DCI, BirchAI ,  BroadPath & CareSeed), share -based payment awards and exclude other income (including forex gain/loss).▶Statutory minimum wage hikes. 
+Q1 FY27 (~40 days impact 
+₹70M) . Margin impact estimated 
+at ~1.2% of revenues for FY27
+▶Q1 FY27 Forex loss of ₹283M 
+was driven by foreign exchange 
+hedges.
+▶Exceptional Item: Statutory 
+Impact of Past service costs 
+towards Gratuity and 
+Compensated absence.
+=== page 18 ===
+Adjustments on EBITDA and PAT
+17Adj EBITDA Bridge: Q1 FY27 (₹M)
+Adj A - Earnouts under acquisition agreements and for PAT it is adjusted for tax
+Adj B - Share based payment awards (non -cash expenses for the company and not tax deductible)
+Adj C - Amortization of intangible assets (net of tax) that got created due to carveout of healthcare business from HGS & acquis itions
+Adj D - Exceptional items for Q1 FY27 represents adjustment for increase in  past service cost of gratuity and compensated absence on account of increase in minimum wage in K arnataka & Telangana Adj PAT Bridge: Q1 FY27 (₹M)
+Reported 
+EBITDAAdj A Adj BOther income/ 
+FX gainAdjusted 
+EBITDAReported PAT Adj A Adj B Adj C Adjusted PAT Adj D-₹8₹60₹140 ₹4,716
+₹4,525
+Reported EBITDA Adj A Adj B Other Income/Fx gain Adjusted EBITDA₹2,168
+-₹6₹60₹363₹113 ₹2,697
+100015002000250030003500
+=== page 19 ===
+Go Forward Positions
+Particulars FY26 FY27 FY28 FY29 FY30 FY31 FY32
+Closing Debt position 5,670 - - - - - -
+Debt Repayment 2,350 5,670 - - - - -
+Interest Payment 543 287 - - - - -
+Share based Payment awards 122 166 74 39 - - -
+Earnouts Cost 475 64 95 19 - - -
+Intangibles Amortisation (A) 1,462 1,565 1,565 1,565 1,565 1,565 1,565
+Intangibles Amortisation (B) 392 473 473 393 345 284 250
+Debt to be fully repaid in current Financial year
+Earnout Costs: FY26 includes payouts for DCI, Birch, and BroadPath ; FY27 relates to BroadPath  and CareSeed ; and FY28 –FY29 represent CareSeed  earnouts only
+Intangibles Amortization (A) - Amortization of intangible assets that got created due to carveout of healthcare business from HG S
+Intangibles Amortization (B) - Amortization for intangible assets acquired in relation to acquisitions (DCI, Birch, BroadPath  and CareSeed ) – Ends by FY36 Amt in ₹ M
+=== page 20 ===
+Balance Sheet – 30th Jun 26
+Particulars Jun 26 Mar 26
+Property, plant and equipment 4,609 4,624
+Right -of-use assets 4,612 4,868 
+Goodwill 65,591 64,051 
+Other intangible assets 20,515 20,407
+Trade receivables and unbilled 17,502 18,390 
+Cash and cash equivalents (including investments) 9,674 9,038
+Deferred tax assets (net) 1,455 1,514
+Other Assets 3,926 3,114
+Total Assets 127,884 126,011
+Equity 99,265 96,591 
+Borrowings 5,777 5,776 
+Lease liabilities 5,114 5,330 
+Trade payables 2,072 2,217
+Deferred tax liabilities (net) 4,049 4,211 
+Other Liabilities 11,607 11,887
+Total Equity & Liabilities 127,884 126,011Amt in ₹ M
+=== page 21 ===
+Cash Flow – Q1 FY27
+Particulars Q1 FY27 FY26
+Profit before tax for the period/ year 2,875 12,389
+Adjustment for Non -Operating and Non -Cash items 1,666 5,271 
+Adjustment for working capital (1,060) (1,895)
+Income taxes paid (net of refunds) (319) (3,735)
+Net cash flows generated from operating activities (A) - OCF 3,161 12,030 
+Addition to Fixed Assets (745) (1,922)
+Free Cash flow (FCF) 2,416 10,108 
+Cash paid for M&A (1,360) -
+Investment in Mutual fund and Fixed Deposit 562 (5,370)
+Others 51 185 
+Net cash flows (used in) investing activities (B) (1,493) (7,107)
+Repayment of Promoter borrowings (include Interest) (112) (2,937)
+Repayment of lease liabilities (include Interest) (454) (1,843)
+Dividend paid - (234)
+Net cash flows (used in) financing activities (C) (566) (5,014)
+Net increase/ (decrease) in cash and cash equivalents (A+B+C) 1,102 (91)
+Cash and cash equivalents at the beginning of the year/period 3,579 3,438
+Cash and cash equivalents received as part of the CareSeed  acquisition 23 -
+Effect of movement in exchange rates on cash and cash equivalents 3 233 
+Cash and cash equivalents at the end of the year/ period 4,707 3,579 
+Net cash flows generated from operating activities % (OCF on Reported EBITDA) 69.9% 64.7%
+Free Cash flow % (FCF on Reported EBITDA) 53.4% 54.4%Amt in ₹ M
+=== page 22 ===
+Thank you.

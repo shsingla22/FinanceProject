@@ -1,0 +1,93 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 22 6776 6776   
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/44                                                                                                   June 24, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM The BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+ 
+We are attaching herewith copy of the Press Release titled “LTM Joins Athena, a 
+Chainguard-led Industry Coalition to Help Secure Open Source Software in the AI Era” 
+which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl.: As above 
+ 
+ 
+ 
+LTM Joins Athena, a Chainguard-led Industry Coalition to Help Secure Open Source 
+Software in the AI Era 
+Mumbai, India – June 24, 2026:  LTM, the Business Creativity partner to the world’s largest enterprises, has joined 
+Athena, a new industry coalition led by Chainguard , focused on protecting open source software from the rising threat 
+of AI-driven vulnerabilities. 
+ 
+Athena brings together leading organizations across the global software ecosystem to address an urgent challenge. As 
+frontier AI models advance, they are increasingly capable of identifying novel vulnerabilities in open source software 
+at machine speed, often faster than traditional disclosure and patching processes can respond. As AI accelerates both 
+software development and the discovery of vulnerabilities, the window between a flaw being identified and being 
+exploited has narrowed sharply. Athena is designed to close this gap through shared intelligence, coordinated action, 
+and pre-disclosure remediation across the ecosystem. 
+ 
+The coalition supports vulnerability management end to end, from discovery and analysis to patching, layered 
+mitigations, and upstream fixes. By enabling collaboration across the ecosystem, Athena helps improve the resilience 
+of open source projects that organizations around the world depend on every day. 
+ 
+LTM's participation in Athena reflects its continued commitment to strengthening cybersecurity, enhancing software 
+supply chain resilience, and contributing to industry-wide efforts that build trust in the digital ecosystem. As a global 
+technology services partner to enterprise clients across industries, LTM brings deep engineering expertise and large-
+scale delivery experience to the coalition's collaborative remediation efforts. 
+ 
+"As AI reshapes both software development and the threat landscape, securing the open source foundations of the 
+digital economy has become a shared responsibility. LTM is proud to join Athena and work alongside leading global 
+organisations to advance a more secure, resilient, and trusted future for open source software," said Chandan Pani, 
+Chief Information Security Officer, LTM. 
+ 
+"Athena is built on the belief that you can’t solve an ecosystem-wide problem with a single company. The open source 
+ecosystem needs partners who can operate at global scale and act with speed and LTM brings both. Their participation 
+in Athena strengthens our collective ability to stay ahead of AI-driven threats and ensures that remediation reaches 
+the critical infrastructure, enterprises, and communities that depend on open source every day," said Naveen Sharma, 
+Global Vice President, Partnerships, Chainguard.  
+ 
+By contributing to Athena, LTM joins a coordinated global effort to ensure that vulnerabilities identified by member 
+organisations are remediated and pushed upstream, becoming fixes that the broader open source ecosystem can 
+benefit from. To learn more about Athena, visit chainguard.dev/athena . 
+ 
+About LTM 
+LTM — a Larsen & Toubro Group Company — is an AI-centric global technology services company and the Business Creativity 
+partner to the world’s largest enterprises. We bring human insights and intelligent systems together to help clients create greater 
+value at the intersection of technology and domain expertise. Our capabilities span integrated operations, transformation, and 
+business AI — enabling new ways of working, new productivity paradigms, and new roads to value. Together with over 87,000 
+employees across 40 countries and our global network of partners, LTM owns outcomes for our clients, helping them not just 
+outperform the market, but Outcreate it. Read more at LTM.com .   
+ 
+Media Contact:  Shambhavi Revandkar | Global Media Relations | Shambhavi.revandkar@ltm.com  

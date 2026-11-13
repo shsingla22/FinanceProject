@@ -1,0 +1,205 @@
+ 
+ 
+April 23 , 2026 
+ 
+To, 
+The Listing Department  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers, Dalal Street,  
+Mumbai – 400001  
+Scrip Code: 544574         
+To, 
+The Listing Department  
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (East), Mumbai – 400051  
+Symbol: TATACAP   
+Dear Sir / Madam,  
+ 
+Sub.: Press Release on Audited Standalone and Consolidated Financial Results of the 
+Company for the quarter and year  ended March 31, 2026  
+ 
+Ref.: Tata Capital Limited (“Company”)  
+ 
+Please find enclosed herewith the Press Release on the Audited Standalone and Consolidated 
+Financial Results of the Company for the quarter and year ended March 31, 2026 , which were 
+approved by the Board of Directors at its meeting held today i.e.  April 23 , 202 6.  
+ 
+We request you to take the above on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Tata Capital Limited  
+ 
+ 
+  
+Sarita Kamath  
+Chief Legal and Compliance Officer & Company Secretary  
+ 
+Encl.: as above  
+ 
+ 
+ 
+PRESS RELEASE
+Financial Results for Q4FY26
+1
+Consolidated: AUM at ₹ 2,77,275cr (up 20% YoY) | PAT of ₹ 1,502cr (up 43% YoY)
+Ex-Motor Finance: AUM at ₹ 2,51,885cr (up 28% YoY) | PAT of ₹ 1,459cr (up 51% YoY)
+Credit quality continued to improve across product segments
+Mumbai,  April  23, 2026 : A meeting  of the Board  of Directors  of Tata Capital  Limited  (TCL)  was held today  
+to consider  and approve  the audited  consolidated  financial  results  for the quarter  ended  March  31, 2026 .
+Commenting  on the financial  results,  Mr. Rajiv  Sabharwal,  Managing  Director  & CEO, Tata Capital  said:  
+“We delivered  a strong  close  to FY26, with sustained  momentum  and healthy  growth  across  our businesses . 
+Excluding  Motor  Finance,  AUM  grew  28% year on year to ₹2,51,885 crore,  while  PAT increased  51% year-on-
+year to ₹1,459 crore  in Q4FY26, reflecting  the strength  of our underlying  franchises . Including  Motor  Finance,  
+our performance  was in line with stated  guidance,  with AUM  growth  of 20% year-on-year and PAT growth  of 
+43% to ₹1,502 crore . Asset  quality  continued  to improve  across  segments,  with both slippages  and credit  
+costs  trending  lower .”
+“The use of artificial  intelligence  remains  a core strategic  priority  for the organization . This year,  our AI-first 
+approach  across  the lending  value  chain  delivered  tangible  results :  Our portfolio  monitoring  platform  has 
+helped  strengthen  risk management  and reduce  our credit  cost by ~14bps year-on-year in FY26; Our Voice  
+Hub is being  used across  sales,  service  and retention,  with voice  AI agents  now originating  15% of Direct  
+Personal  Loan  business  and carrying  out 90% of welcome  calls.  AI-driven  credit  assessments  now assist  
+underwriting  for 80% of our SME portfolio  - compressing  decision  cycles  and lifting  credit  manager  
+productivity  by 30%. Our Intelligent  Document  Processing  engine  has ingested  and processed  over 2 crore  
+documents,  fundamentally  transforming  how we originate,  verify  and quality -control  at scale,  across  our 
+credit  and operations  functions . These  developments  have  helped  reduce  our cost income  ratio by ~335bps 
+year-on-year in FY26.”
+“From  a macro  standpoint,  while  we remain  vigilant  amid  evolving  geopolitical  developments,  we are 
+confident  in the resilience  of India’s  economic  fundamentals . A steady  policy  stance  and comfortable  
+systemic  liquidity  continue  to provide  a supportive  environment  for credit  growth,  positioning  us well to 
+execute  our strategy  with discipline  and focus .”
+Representation  of financial  information : 
+➢Tata Motors  Finance  Limited  (Motor  Finance)  acquisition  completed  on May 8, 2025 . 
+➢For better  understanding,  we have  presented  figures  both  excluding  and including  Motor  Finance  
+business . 
+➢While  figures  excluding  Motor  Finance  can be compared  on YoY and QoQ  bases,  figures  including  
+Motor  Finance  are best viewed  on a QoQ  basis .
+CONSOLIDATED  PERFORMANCE  HIGHLIGHTS  – Q4FY26 Excluding  Motor  Finance :
+➢Assets  under  management  grew  by 28% YoY to ₹ 2,51,885 crore  as on March  31, 2026 , from  
+₹ 1,96,942 crore  as on March  31, 2025 .
+➢Net total  income  grew  by 31% YoY to ₹ 3,740 crore  in Q4FY26 from  ₹ 2,861 crore  in Q4FY25.
+➢Annualized  operating  expense  on average  net loan book  was stable  at 2.3% in Q4FY26 vs. 2.3% in 
+Q4FY25.
+➢Cost to income  ratio  improved  to 36.1% in Q4FY26 vs. 37.8% in Q4FY25.
+➢Annualized  credit  cost was 0.8% in Q4FY26 vs. 1.0% in Q3FY26.
+➢PAT grew  by 51% YoY to ₹ 1,459 crore  in Q4FY26 from  ₹ 964 crore  in Q4FY25.
+➢Annualized  ROA  at 2.5% in Q4FY26 vs. 2.1% in Q4FY25. 
+➢Annualized  ROE at 14.6% in Q4FY26 vs. 14.2% in Q4FY25.
+➢Gross  stage  3 stood  at 1.5% as of March  31, 2026 .
+➢Net stage  3 stood  at 0.5% as of March  31, 2026 .
+➢Provision  coverage  ratio  stood  at 65.1% as of March  31, 2026 .
+Particulars; ₹ crores Q4FY25 Q3FY26 Q4FY26 YoY % FY25 FY26 YoY %
+Assets under management (net) 1,96,942 2,34,114 2,51,885 28% 1,96,942 2,51,885 28%
+Gross loan book 1,98,164 2,33,319 2,50,066 26% 1,98,164 2,50,066 26%
+Net loan book 1,94,518 2,29,134 2,45,932 26% 1,94,518 2,45,932 26%
+Net interest income 2,438 2,939 3,127 28% 8,901 11,217 26%
+Fee income 477 589 646 35% 1,577 2,327 47%
+Investment income (54) 66 (32) ~ 129 323 ~
+Net total income 2,861 3,594 3,740 31% 10,607 13,866 31%
+Operating expense 1,081 1,283 1,350 25% 4,249 4,932 16%
+Pre-provisioning operating profit 1,781 2,311 2,390 34% 6,358 8,934 41%
+Loan losses and provisions 534 581 470 (12)% 1,530 2,311 51%
+Profit before tax 1,247 1,730 1,920 54% 4,828 6,624 37%
+PAT (excl. non -recurring items) 964 1,285 1,459 51% 3,589 4,896 36%
+Non-recurring items(1)- (27) - ~ 123 (27) ~
+PAT (attributable to owners) 964 1,258 1,459 51% 3,712 4,869 31%
+(1) Reflects impact of new labour codes for Q3FY26 and FY26, and non -recurring income and expenses largely attributed to PE exit  for FY25.
+2
+
+CONSOLIDATED  PERFORMANCE  HIGHLIGHTS  – Q4FY26 Including  Motor  Finance :
+➢Retail  + SME constitutes  ~86% of Net AUM .
+➢Unsecured  retail  forms  10.3% of Net AUM . Unsecured  retail  disbursements  continue  to show  
+uptick . 
+➢Pan India  network  of 1,477 branches  across  27 states  and union  territories .
+➢Focused  on improving  business  metrices  in Motor  Finance  (~9% of Net AUM)  before  accelerating  
+growth .
+➢AUM  grew  by 6% QoQ  to ₹ 2,77,275 crore  as on March  31, 2026 , from  ₹ 2,60,698 crore  as on 
+December  31, 2025 .
+➢Net total  income  grew  by 2% QoQ  to ₹ 4,146 crore  in Q4FY26 from  ₹ 4,052 crore  in Q3FY26.
+➢Annualized  operating  expense  on average  net loan book  of 2.5% in Q4FY26 vs. 2.5% in Q3FY26.
+➢Cost to income  ratio  stood  at 38.3% in Q4FY26 vs. 38.4% in Q3FY26.
+➢Annualized  credit  cost of 0.9% in Q4FY26 vs. 1.2% in Q3FY26.
+➢PAT (excluding  non-recurring  items)  grew  by 16% QoQ  to ₹ 1,502 crore  in Q4FY26 from  
+₹ 1,290 crore  in Q3FY26. Including  such items,  PAT grew  by 19% QoQ .
+➢Annualized  ROA  at 2.3% in Q4FY26 vs. 2.1% in Q3FY26. 
+➢Annualized  ROE at 13.9% in Q4FY26 vs. 13.1% in Q3FY26.
+➢Gross  stage  3 stood  at 2.0% | Net stage  3 stood  at 0.9% | Provision  coverage  ratio  stood  at 
+56.2% as of March  31, 2026 .
+➢Total  equity  as of Mar-26 at ₹ 44,658 crore .
+➢Capital  risk adequacy  ratio  stood  at 19.0% as of March  31, 2026 .
+Particulars; ₹ crores Q1FY26 Q2FY26 Q3FY26 Q4FY26 QoQ % FY25 FY26 YoY %
+Assets under management (net) 2,37,508 2,43,896 2,60,698 2,77,275 6% 2,30,455 2,77,275 20%
+Gross loan book 2,33,399 2,39,960 2,57,140 2,73,392 6% 2,26,553 2,73,392 21%
+Net loan book 2,28,579 2,34,991 2,51,890 2,68,203 6% 2,21,950 2,68,203 21%
+Net interest income 2,866 3,006 3,318 3,477 5% 10,694 12,667 18%
+Fee income 576 663 668 701 5% 1,980 2,608 32%
+Investment income 184 105 66 (32) ~ 304 323 ~
+Net total income 3,626 3,774 4,052 4,146 2% 12,978 15,597 20%
+Operating expense 1,335 1,497 1,555 1,586 2% 5,404 5,973 11%
+Pre-provisioning operating profit 2,291 2,277 2,497 2,560 3% 7,574 9,624 27%
+Loan losses and provisions 909 773 759 582 (23)% 2,806 3,023 8%
+Profit before tax 1,383 1,503 1,738 1,978 14% 4,768 6,602 38%
+PAT (excl. non -recurring items) 990 1,097 1,290 1,502 16% 3,542 4,879 38%
+Non-recurring items(1)- - (33) - ~ 123 (33) ~
+PAT (attributable to owners) 990 1,097 1,257 1,502 19% 3,665 4,846 32%
+3
+(1) Reflects impact of new labour codes for Q3FY26 and FY26, and non -recurring income and expenses largely attributed to PE exit  for FY25.
+Material  Subsidiary  - Tata Capital  Housing  Finance  Limited  (TCHFL)  Q4FY26 Performance  
+➢100% wholly  owned  housing  finance  company
+➢Assets  under  management  grew  by 29% YoY to ₹ 86,653 crore  as of March  31, 2026  from   
+₹ 67,252 crore  as of March  31, 2025 .
+➢Net total  income  increased  by 26% YoY in Q4FY26 to ₹ 1,016 crore  from  ₹ 808 crore  in Q4FY25.
+➢Cost to income  ratio  was 29.4% for Q4FY26 vs. 32.0% in Q4FY25.
+➢Credit  cost for Q4FY26 remained  low at ₹ 24 crore  (annualized  0.1% of average  net loan book) .
+➢Profit  before  tax increased  by 31% YoY in Q4FY26 to ₹ 693 crore  from  ₹ 529 crore  in Q4FY25.
+➢PAT increased  by 34% YoY in Q4FY26 to ₹ 527 crore  from  ₹ 394 crore  in Q4FY25.
+➢Annualized  ROA  at 2.6% in Q4FY26 vs. 2.4% in Q3FY26. 
+➢Annualized  ROE at 19.9% in Q4FY26 vs. 18.6% in Q3FY26.
+➢Gross  stage  3 stood  at 0.7% | Net stage  3 stood  at 0.3% | Provision  coverage  ratio  stood  at 
+55.1% as of March  31, 2026 .
+➢Capital  adequacy  ratio  as of March  31, 2026  was 17.6%.
+Particulars; ₹ crores Q4FY25 Q3FY26 Q4FY26 YoY % FY25 FY26 YoY %
+Assets under management (net) 67,252 81,585 86,653 29% 67,252 86,653 29%
+Gross loan book 66,955 79,883 84,439 26% 66,955 84,439 26%
+Net loan book 66,405 79,279 83,808 26% 66,405 83,808 26%
+Net interest income 661 768 818 24% 2,347 2,956 26%
+Fee income 135 159 187 39% 423 657 55%
+Investment income 12 8 11 ~ 63 63 ~
+Net total income 808 934 1,016 26% 2,834 3,676 30%
+Operating expenses 259 297 298 15% 972 1,144 18%
+Pre-provisioning operating profit 549 637 717 31% 1,862 2,533 36%
+Loan losses and provisions 20 16 24 22% (151) 76 ~
+Profit before tax 529 621 693 31% 2,013 2,457 22%
+PAT (excl. non -recurring items) 394 464 527 34% 1,499 1,842 23%
+Non-recurring items(1)- (6) - ~ - (6) ~
+PAT 394 458 527 34% 1,499 1,836 22%
+About  Tata Capital
+Tata Capital  Limited  (TCL)  is the flagship  financial  services  company  of the Tata Group  and a subsidiary  of Tata Sons  Private  Limited . Tata Capital  
+is a listed  company  and registered  with the Reserve  Bank  of India  (RBI) as a Non-Banking  Financial  Company  – Investment  and Credit  Company  
+(NBFC -ICC) and has been  categorized  as an Upper  Layer  NBFC  under  the RBI’s  Scale  Based  Regulatory  Framework . TCL conducts  its lending  
+business  together  with its material  subsidiary  Tata Capital  Housing  Finance  Limited  (TCHFL),  which  is registered  with the National  Housing  Bank  
+(NHB)  as a Housing  Finance  Company  (HFC)  and is classified  as a Middle  Layer  NBFC  under  the RBI’s  Scale  Based  Regulations .
+TCL offers  a comprehensive  suite  of over 25 lending  products,  catering  to a diverse  customer  base comprising  salaried  and self-employed  
+individuals,  entrepreneurs,  small  businesses,  small  and medium  enterprises,  and corporates . In addition  to its lending  offerings,  TCL also 
+distributes  third -party  products  such as insurance  and credit  cards,  provides  wealth  management  services,  and acts as a sponsor  and investment  
+manager  to private  equity  funds . TCL is rated  “AAA  with stable  outlook”  from  each  of CRISIL,  ICRA,  CARE  and India  Ratings . It has an 
+international  rating  of BBB (Stable)  by both  S&P Global  Ratings  and Fitch . As of March  31, 2026  TCL’s  distribution  network  spans  1,477 branches  
+across  27 states  and union  territories . For more  information  visit: https ://www .tatacapital .com/4
+(1) Reflects impact of new labour codes.
+Disclaimer
+This Press  Release  has been  prepared  by Tata Capital  Limited  (“Company”)  to provide  general  information  on the Company  (which  term  includes  
+its subsidiaries)  and does  not purport  to contain  all the information . Forward -looking  statements  contained  herein  regarding  past trends  or 
+activities  or future  business  plans,  strategy,  financial  condition,  growth  prospects  or developments  in industry,  competitive  or regulatory  
+environment  should  not be taken  as a representation  that such trends  or activities  will continue  in the future . There  is no obligation  to update  or 
+revise  any forward -looking  statements . Actual  results  may differ  materially  from  these  forward -looking  statements  due to a number  of factors .
+This Press  Release  does  not constitute  a prospectus,  offering  circular  or offering  memorandum  or an offer  to acquire  any securities  or 
+instruments  and nothing  in this Press  Release  should  be construed  as advice  or solicitation  to invest  in the Company  or any of its instruments  or 
+securities  or otherwise . 
+Neither  the Company  nor any of its affiliates,  shareholders,  directors,  employees,  agents  or representatives  makes  any warranty  or 
+representation  as to the completeness  of the information  contained  herein  (including  statements  of opinion  and expectation)  or as to the 
+reasonableness  of any assumptions  contained  herein  and shall not be liable  for any loss or damage  (direct  or indirect)  suffered  as a result  of 
+reliance  upon  any statements  contained  in, or any omission  here-from .
+5

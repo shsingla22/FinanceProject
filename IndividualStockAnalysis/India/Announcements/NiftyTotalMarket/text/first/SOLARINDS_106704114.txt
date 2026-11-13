@@ -1,0 +1,425 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ju
+ly 
+20
+, 202
+ 6 
+ 
+To,            
+ To, 
+National Stock Exchange of India Limited    
+ BSE Limited  
+Exchange Plaza, Bandra Kurla Complex     
+ Floor no.25, PJ Towers  
+Bandra (E)           
+ Dalal Street  
+Mumbai 
+ - 
+400 051         
+ Mumbai 
+ – 
+400 001  
+Trading Symbol: “SOLARINDS”       
+ Scrip Code: 532725  
+Through NEAPS          
+ Through BSE Listing Center  
+ 
+Sub: 
+ Business Responsibility and Sustainability Report for FY 202
+ 5
+-
+2
+6
+. 
+Dear Sir/Madam,  
+We wish to inform you that, pursuant to Regulations 34(2)(f) of the Securities and Exchange 
+ Board 
+of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed 
+herewith the Business Responsibility and Sustainability Report for the 
+ Financial Year 
+ 202
+ 5
+-
+2
+6 
+along with Independent Reasonable Assurance Report provided 
+ by 
+M/s 
+ Moore Singhi Advisors LLP  
+which also forms part of the Integrated Annual Report FY 
+ 202
+ 5
+-
+2
+6
+, submitted to the Exchanges 
+vide letter dated Ju
+ ly 
+20
+, 202
+ 6
+. 
+The Business Responsibility and Sustainability Report is also available on the website of the  
+Company at 
+ www.solargroup.com
+ . 
+This is for your information and records.  
+Thanking you,  
+Yours Truly,  
+For Solar Industries India Limited   
+ 
+ 
+Khushboo Pasari  
+Company Secretary &  
+Compliance Officer  
+Independent Assurance Report
+To
+The Board of Directors
+Solar Industries India Limited
+"Solar" House 14, 
+Kachimet, Amravati Road, 
+Nagpur – 440023
+Subject: Independent Reasonable Assurance Report on BRSR Core KPIs/Metrics in the Business Responsibility and Sustainability Report 
+(BRSR) of Solar Industries India Limited (hereafter referred to as “Solar” or “Company”) for the Financial Year 2025-26.
+boundary”) at Chakdoh, Warur, Waidhan, Korba, Ramgarh, 
+Jharsugada, Bhilwara, Pallewada, Bailadila, Barbil, Talcher, 
+Asansol, Dhanbad, Manendragarh, Ramagundam, Kotputli, 
+Bagadih, and 4 offices including Ramdaspeth, Tower 10, 
+Bharat Nagar, and Corporate Office - Solar House. An on-
+site verification was conducted at the Company's key 
+manufacturing facility at Chakdoh Ramdaspeth office, and 
+Corporate Office - Solar House, Nagpur. 
+3. Management Responsibilities
+ The Company’s management is responsible for the selection 
+of the reporting criteria, reporting period, reporting boundary, 
+preparation, and disclosure of BRSR information and the BRSR 
+Core KPIs/Metrics under the nine attributes as per “Format 
+of BRSR Core” of the aforesaid Circulars. This responsibility 
+includes stakeholder engagement, designing, implementing 
+and maintaining adequate internal controls, including relevant 
+policies and procedures, maintaining adequate records, 
+performing appropriate calculations, and making estimates 
+that are reasonable in the circumstances, and ensuring that 
+they are free from material misstatement, whether due to 
+fraud or error. The management and Board of Directors of the 
+Company are also responsible for overseeing the Company’s 
+compliance with the requirements of LODR Regulations and 
+the SEBI Circulars in relation to the BRSR. Moore Singhi was 
+not involved in the preparation of the BRSR report, BRSR Core 
+KPIs/Metrics and/or related backup data. 
+4. Our Responsibilities
+ Our responsibility is to provide reasonable assurance on the 
+BRSR Core KPIs/Metrics based on the procedures we have 
+performed and the evidence we have obtained from the 
+Company. We do not accept or assume any responsibility 
+for any other purpose or to any other person or organization. 
+We have considered quantitative materiality and qualitative 
+factors in (i) planning the scope of our work and evaluating 
+the results of our work, and (ii) evaluating the effect of any 
+identified misstatements in the BRSR Core. Accordingly, we 
+do not accept or assume any liability or duty of care to any 
+person other than the Board of Directors of the Company in 
+connection with this report. This assurance engagement relies 
+on the assumption that all data and information provided by 
+Solar is accurate and complete.1. Introduction and Scope
+ Moore Singhi Advisors LLP (“Moore Singhi” or “we” or “us”) 
+has been engaged by Solar Industries India Limited to provide 
+independent reasonable assurance on Key Performance 
+Indicators (KPIs) or Metrics under nine (9) ESG attributes 
+(listed in Annexure 1) that form part of Business Responsibility 
+and Sustainability Report (“BRSR Core”). 
+ The reporting criteria, chosen by the company, for this 
+engagement comprise the following (collectively, the "Criteria", 
+and the SEBI circulars referenced below, the "Circulars"):
+	 Regulation 34(2)(f) of the Securities and Exchange Board 
+of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended from time to time.
+	 SEBI Circular No. SEBI/HO/CFD/CFD-SEC-2/P/
+CIR/2023/122 dated July 12, 2023 on BRSR Core 
+— Framework for assurance and ESG disclosures 
+for value chain.
+	 SEBI Master Circular No. HO/49/14/14(7)2025-CFD-
+POD2/I/3762/2026 dated January 30, 2026 titled 
+Master Circular for compliance with the provisions 
+of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 
+2015 by listed entities, read with Chapter IV-B thereof 
+(dealing with BRSR disclosures)
+	 Industry Standards on Reporting of BRSR Core issued 
+vide SEBI Circular No. SEBI/HO/CFD/CFD-PoD-1/P/
+CIR/2024/177 dated December 20, 2024.
+  Our engagement has been conducted in accordance 
+with the terms of the engagement letter dated 
+November 12, 2025.
+ Our assurance on disclosures is for the period starting from 
+April 1, 2025, to March 31, 2026. We have not performed any 
+procedures on any other elements included in the BRSR report, 
+and therefore do not express any opinion thereon.
+2. Boundary 
+ The reporting boundary for the BRSR disclosures includes 
+Solar’s operations of 17 manufacturing locations (“reporting 
+Solar Industries India Limited
+01
+Statutory  Reports
+Business Responsibility and Sustainability Report
+ We conducted this engagement in accordance with the 
+International Standard on Assurance Engagements (ISAE) 
+3000 (Revised): Assurance Engagements other than 
+Audits or Reviews of Historical Financial Information, and 
+the International Standard on Assurance Engagements 
+(ISAE) 3410: Assurance Engagements on Greenhouse Gas 
+Statements, as well as the terms of our engagement as 
+agreed with the Company in the engagement letter dated 
+November 12, 2025.
+ Those standards require that we plan and perform our 
+engagement to obtain reasonable assurance about whether, 
+in all material respects, the KPIs/Metrics presented to us 
+are prepared in accordance with the Criteria chosen by the 
+Company as per the aforementioned Circulars. 
+ A reasonable assurance engagement includes performing 
+procedures to obtain sufficient and appropriate evidence 
+assessing the risk of material misstatement of the KPIs/
+Metrics disclosed in BRSR Core. In this connection, our 
+procedures included: 
+	 Performing process walkthroughs at selected locations to 
+understand controls relevant to data capture, validation, 
+and reporting of KPIs. 
+	 Understanding and assessing data collection, aggregation, 
+and reporting processes across divisions.
+	 Evaluating whether the methodologies, assumptions, 
+and calculation approaches adopted by the Company 
+are consistent with the Criteria.
+	 Conducting interviews with management and operational 
+personnel responsible for BRSR Core data.
+	 Performing sample-based testing of underlying data 
+and supporting documents across all nine attributes.
+	 Performing recalculations of selected KPIs, including 
+verification of arithmetic accuracy, consistency of 
+formulas with the methodology adopted.
+	 Obtaining written management representations 
+confirming completeness, accuracy, and consistency 
+of the reported information.
+ Exclusions:
+	 An opinion on the overall design, implementation, or 
+operating effectiveness of the Company's internal control 
+framework or IT general controls, beyond procedures 
+performed as part of this assurance engagement.
+	 The Company's statements that describe expressions 
+of opinion, belief, aspiration, expectation, aim, or future 
+intentions, including forward-looking statements.
+	 Independent verification of the economic and/or 
+financial performance indicators, which are derived 
+from the Company's audited financial statements.5. Inherent Limitations
+ The reliability of assurance on non-financial information is 
+subject to uncertainties inherent in the assurance process.  
+The lack of a significant universal body of established practice 
+for measuring and evaluating non-financial information allows 
+for different, but acceptable, measures and measurement 
+techniques, potentially affecting comparability between 
+entities. Specifically, the uncertainties in greenhouse gas 
+(GHG) emissions estimation arise due to incomplete scientific 
+knowledge, limitations in quantification models, and the 
+assumptions or conversion factors used to arrive at results. Due 
+to these inherent limitations, there is a possibility that material 
+misstatements in the BRSR Core KPIs/Metrics in the Report 
+may remain undetected. The application of this assurance 
+statement is limited to the aforementioned Circulars.
+6. Opinion
+ Based on the procedures performed and evidence obtained, 
+as described in Section 4, and on the information and 
+explanations provided to us, including written management 
+representations, we are of the opinion that the BRSR Core KPIs/
+Metrics mentioned in Annexure – 1 of our report are prepared, 
+in all material respects, in accordance with the Criteria chosen 
+by the Company as per the aforementioned Circulars. 
+7. Restriction on Use 
+ Our work was performed solely to assist management in 
+meeting their responsibilities in relation to Solar’s assurance 
+requirements as per the Circulars. The report is addressed and 
+provided to the Board of Directors of the Company, solely for 
+the purpose of enabling it to comply with the aforementioned 
+requirements of the Circulars. Accordingly, we do not accept 
+or assume any liability or duty of care to any person other 
+than the Board of Directors of the Company in connection 
+with this report. Other than as described in Section 1, which 
+sets out the scope of our engagement, we did not perform 
+any assurance procedures on the remaining information. 
+Accordingly, we do not express an opinion on that information.
+8. Statement of Independence, Impartiality, and 
+Competence 
+ Moore Singhi is a professional services firm offering a range 
+of services in assurance and advisory to both domestic and 
+international clients across industries. We have complied with 
+independence and ethical requirements, which are founded on 
+the fundamental principles of integrity, objectivity, professional 
+competence and due care, confidentiality and professional 
+behavior. This assurance engagement was conducted by a 
+multidisciplinary team of professionals with deep knowledge 
+in sustainability, ESG reporting principles and standards, and 
+related assurance standards.
+For and on behalf of Moore Singhi Advisors LLP,
+Ravi Sankar Nori
+Chief Operating Officer (ESG Services)
+Date: June 17, 2026
+Annual Report 2025-26
+02
+Rise & Shine
+Annexure – 1 
+Sr. 
+No.Attribute Parameter BRSR Indicator
+1 Greenhouse gas 
+(GHG) footprintTotal Scope 1 emissions Principle 6, Question 7 of 
+Essential Indicators Total Scope 2 emissions
+GHG emission intensity (Scope 1 + 2) based on revenue, PPP and 
+physical output
+2 Water footprint Total water consumption Principle 6, Question 3 & 4 of 
+Essential Indicators Water consumption intensity based on revenue, PPP and physical output
+Water Discharge by destination and levels of Treatment
+3 Energy footprint Total energy consumed Principle 6, Question 1 of 
+Essential Indicators % of the energy consumed from renewable sources
+Energy intensity based on revenue, PPP and physical output
+4 Embracing 
+circularity - details 
+related to waste 
+management by the 
+entityPlastic waste, e-waste, bio-medical waste, construction and demolition 
+waste, battery waste, radioactive waste, other hazardous waste, and 
+other non-hazardous waste generatedPrinciple 6, Question 9 of 
+Essential Indicators 
+Total waste generated
+Waste intensity based on revenue, PPP and physical output
+Each category of waste generated, total waste recovered through 
+recycling, re-using or other recovery operations
+For each category of waste generated, total waste disposed by nature of 
+disposal method
+5 Enhancing 
+Employee Wellbeing 
+and SafetySpending on measures towards well-being of employees and workers – 
+cost incurred as a % of total revenue of the companyPrinciple 3, Question 1(c) of 
+Essential Indicators
+Details of safety related incidents for employees and workers (including 
+contract workforce e.g. workers in the company's construction sites)Principle 3, Question 11 of 
+Essential Indicators 
+6 Enabling Gender 
+Diversity in Business Gross wages paid to females as % of wages paid Principle 5, Question 3(b) of 
+Essential Indicators
+Complaints on POSH Principle 5, Question 7 of 
+Essential Indicators
+7 Enabling Inclusive 
+DevelopmentInput material sourced from following sources as % of total purchases –
+Directly sourced from MSMEs/ small producers and from within IndiaPrinciple 8, Question 4 of 
+Essential Indicators
+Job creation in smaller towns – Wages paid to persons employed in 
+smaller towns (permanent or non-permanent /on contract) as % of total 
+wage costPrinciple 8, Question 5 of 
+Essential Indicators
+8 Fairness in Engaging 
+with Customers and 
+SuppliersInstances involving loss / breach of data of customers as a percentage of 
+total data breaches or cyber security eventsPrinciple 9, Question 7 of 
+Essential Indicators
+Number of days of accounts payable Principle 1, Question 8 of 
+Essential Indicators
+9 Open-ness of 
+business Concentration of purchases & sales done with trading houses, dealers, 
+and related parties
+Loans and advances & investments with related partiesPrinciple 1, Question 9 of 
+Essential Indicators
+Solar Industries India Limited
+03
+Statutory  Reports
+Business Responsibility and Sustainability Report
+I. Details of the Listed Entity:
+Sr. No. Particulars Response
+1. Corporate Identity Number (CIN) of the Listed Entity L74999MH1995PLC085878
+2. Name of the Listed Entity Solar Industries India Limited (“Solar”)
+3. Year of incorporation 1995 (“Solar”)
+4. Registered office address "Solar" House, 14, Kachimet, Amravati Road, Nagpur- 440023, 
+Maharashtra, India
+5. Corporate address "Solar" House, 14, Kachimet, Amravati Road, Nagpur- 440023, 
+Maharashtra, India
+6. E-mail brsr@solargroup.com
+7. Telephone 0712-6634567
+8. Website www.solargroup.com
+9. Financial year for which reporting is being done April 1, 2025 to March 31, 2026.
+10. Name of the Stock Exchange(s) where shares are 
+listedBSE Limited (“BSE”) 
+National Stock Exchange of India Limited (“NSE”)
+11. Paid-up Capital 9,04,90,055 Equity shares of H 2/- each amounting H 18.10 Crores
+12.  Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report Shri Moneesh Agrawal 
+Designation: Joint Chief Financial Officer 
+Email: moneesh@solargroup.com
+Smt. Khushboo Pasari
+Designation: Company Secretary and Compliance Officer 
+Email: khushboo.pasari@solargroup.com
+Telephone 0712 - 6634555
+13. Reporting boundary The disclosures made in the BRSR Report are on Standalone basis  
+(i.e. only for Solar Industries India Limited)
+14. Name of assurance provider Moore Singhi Advisors LLP
+15. Type of assurance obtained  Reasonable Assurance on BRSR Core parameters
+II. Product/Services
+16. Details of business activities (Accounting for 90% of the entity’s turnover on standalone basis) 
+Sr. No. Description of Main Activity Description of Business Activity% of Turnover  
+of the Entity
+1. Manufacturing of Industrial Explosives, Initiating 
+SystemsManufacturing of Industrial 
+Explosives97.80Business Responsibility and 
+Sustainability Report
+GENERAL DISCLOSURES SECTION A:
+Annual Report 2025-26 Rise & Shine
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover): 
+Sr. No. Product/ Service NIC Code % of Total Turnover contributed
+1. Industrial Explosives, Initiating Systems 24292 97.80%
+ Please refer to the Company’s website www.solargroup.com for complete details of products.
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of Plants No. of Offices Total 
+National 26 4 30
+International N.A. N.A. N.A
+ The Company’s operations are spread across the Country. Details of Plant locations are provided under section of shareholders 
+information in the Corporate Governance Section of the Integrated Annual Report.
+19. Markets served by the entity:
+ a. Number of locations
+Location Numbers 
+National (No. of States) We have a PAN India presence
+International (No. of Countries) Solar has a presence in more than 90 Countries
+ b. What is the contribution of exports as a percentage of the total turnover of the entity?
+  During the Financial Year 2025 - 26, on a standalone basis export contributed 47.65% to the total turnover of the Company.
+ c. A brief on types of customers
+  Solar is one of the leading companies in the manufacturing of Explosives for Mining and Defence applications. The industries 
+catered by Solar are:
+  1. Coal India Limited (CIL)
+  2. Non-CIL & Institutional
+  3. Housing & Infrastructure
+  4. Exports & Overseas
+  5. Defence
+IV. Employees 
+20. Details as at the end of Financial Year:
+ a. Employees and workers (including differently abled):
+Sr. No. Particulars Total no. (A)Male Female
+No. (B) % (B/A) No. (C)  % (C/A)
+Employees
+1 Permanent Employees (D) 1410 1274 90.4 136 9.6
+2 Other than Permanent Employees (E) 0 0 0 0 0
+3 Total Employees (D + E) 1410 1274 90.4 136 9.6
+Workers
+4 Permanent (F) 941 922 97.9 19 2.1
+5 Other than Permanent (G) 5095 4048 79.5 1047 20.5
+6 Total Workers (F + G) 6036 4970 82.3 1066 17.7
+Solar Industries India Limited
+05
+Statutory  Reports
+Business Responsibility and Sustainability Report

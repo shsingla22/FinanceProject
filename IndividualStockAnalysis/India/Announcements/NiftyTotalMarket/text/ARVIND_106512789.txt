@@ -1,0 +1,804 @@
+ 
+30th January, 2026 
+ 
+BSE Limited  
+Listing Dept./Dept.  of Corporate Services, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001.  
+ 
+Security Code: 500101 
+Security ID: ARVIND   
+National Stock Exchange of India Limited 
+Listing Dept., Exchange Plaza, 5th Floor, 
+Plot No. C/1, G. Block, 
+Bandra-Kurla Complex, 
+Bandra (E), 
+Mumbai - 400 051. 
+ 
+Symbol: ARVIND 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Outcome of the Meeting of the Board of Directors held on 30th January, 2026 
+ 
+Ref.: Regulations 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 
+ 
+With reference to the captioned subject, the Board of Directors of the Company in their meeting held 
+on today, inter alia, approved the Unaudited Standalone and Consolidated Financial Results of the 
+Company for the quarter ended on 31st December, 2025, along with the limited review reports of 
+Auditors thereon pursuant to Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015 (“SEBI LODR Regulations”) as enclosed herewith. 
+   
+The meeting of the Board of Directors of the Company commenced at 11:30 A.M. and concluded at 
+12: 30 P.M. 
+ 
+Kindly take the same on records. 
+ 
+Thanking you 
+ 
+Yours faithfully,  
+For, Arvind Limited 
+ 
+ 
+Jayesh Shah 
+Whole Time Director & Group CFO 
+DIN: 00008349  LArVIno 
+REGISTERED OFFICE: 
+Arvind Limited 
+Naroda Road, Ahmedabad -382 345, Gujarat, India. 
+Phone: +91 79 6826 8000 I Email: info(q_arvind.in 
+CIN: L 17119GJ1931 PLC000093 www.arvind.com 
+J\ c st-r 1 1 
+) c,i C, 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+19th Floor, Shapath-V 
+S.G. Highway 
+Ahmedabad -380 015 
+Gujarat, India 
+Tel: +91 79 6682 7300 
+Fax: +91 79 6682 7400 
+INDEPENDENT AUDITOR'S REVIEW REPORT ON THE INTERIM STANDALONE 
+FINANCIAL RES UL TS 
+TO THE BOARD OF DIRECTORS OF ARVIND LIMITED 
+1. We have reviewed the accompanying Statement of Standalone Unaudited Financial 
+Results of ARVIND LIMITED ("the Company"), for the quarter and nine months ended 
+December 31, 2025 ("the Statement"), being submitted by the Company pursuant to 
+the requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended ("the Listing Regulations"). 
+2. This Statement, which is the responsibility of the Company's Management and 
+approved by the Company's Board of Directors, has been prepared in accordance with 
+the recognition and measurement principles laid down in the Indian Accounting 
+Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section 133 
+of the Companies Act, 2013 read with relevant rules issued thereunder and other 
+accounting principles generally accepted in India and in compliance with Regulation 33 
+of the Listing Regulations. Our responsibility is to express a conclusion on the 
+Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 'Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity', issued by the Institute of Chartered Accountants of 
+India (ICAI). A review of interim financial information consists of making inquiries, 
+primarily of the Company's personnel responsible for financial and accounting matters 
+and applying analytical and other review procedures. A review is substantially less in 
+scope than an audit conducted in accordance with Standards on Auditing specified 
+under section 143(10) of the Companies Act, 2013 and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that 
+might be identified in an audit. Accordingly, we do not express an audit opinion. 
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to 
+our attention that causes us to believe that the accompanying Statement, prepared in 
+accordance with the recognition and measurement principles laid down in the aforesaid 
+Indian Accounting Standard and other accounting principles generally accepted in 
+India, has not disclosed the information required to be disclosed in terms of Regulation 
+33 of the Listing Regulations including the manner in which it is to be disclosed, or that 
+it contains any material misstatement. 
+Place: Ahmedabad 
+Date: January 30, 2026 For Deloitte Haskins & Sells LLP 
+Chartered Accountants 
+(Firm's Registration No. 117366W/W-100018 ) 
+Hardik Sutaria 
+Partner 
+(Membership No. 116642) 
+UDIN: 2606642.IYL".11,Zer'tzO 
+Page 1 of 1 
+Regd. Office: One International Center, Tower 3, 31st floor, Senapati Ba pat Marg, Elphinstone Road (West), Mumbai-400 013, Maharashtra, India. 
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No: AAB-8737 
+LNVIno 
+www.arvind.com 
+STATEMENT OF STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31 2025 
+Sr. Particulars 
+No. 
+1 Income from continuing operations 
+(a) Revenue from operations 
+(b) Other income 
+Total Income 
+2 Expenses from continuing operations 
+(a) Cost of materials consumed 
+(b) Purchase of stock-in-trade 
+(c) Changes in inventories of finished goods, work-in-progress and stock-in-trade 
+(d) Project expenses 
+(e) Employee benefit expenses 
+(f) Finance costs 
+(g) Depreciation and amortisation expenses 
+(h) Other expenses 
+Total Expenses 
+3 Profit before Exceptional Items and Tax from continuing operations ( 1-2) 
+4 Exceptional Items (net of tax) (Refer Note 3) 
+5 Profit before tax from continuing operations (3+4) 
+6 Tax Expense : 
+-Current Tax 
+-Short/(Excess) provision of earlier years 
+-Deferred Tax Charge/(Credit) 
+-Deferred Tax Charge -Exceptional (Refer Note 6) 
+Total Tax Expense 
+7 Profit/(Loss) for the period from continuing operations (5-6) 
+8 Profit before tax from discontinued operations (Refer Note 4) 
+9 Tax Expense of discontinued operations 
+10 Profit for the period from discontinued operations after Tax (8-9) 
+11 Profit/(Loss) for the period/year (7+10) 
+12 Other Comprehensive Income/(Loss) (net of tax) 
+(a) Items that will not be classified to profit and loss (net of tax) 
+(i) Equity Instruments through Other Comprehensive Income (FVOCI) 
+(ii) Remeasurement gain/(loss) of defined benefit plan 
+(iii) Income tax related to items (i) & (ii) above 
+(b) Items that will be reclassified to profit and loss (net of tax) 
+(i) Effective portion of gain/(loss) on cash flow hedges 
+(ii) Income tax related to item (i) above 
+Other Compreh ensive Income/(Los s) (net of tax) 
+13 Total Comprehensive Income for the period/year (11+12) 
+14 Paid-up Equity Share Capital (Face Value ~ 10/-per share) 
+15 Other Equity 
+16 Earnings per Share in -: -(Not Annualised) 
+Continuing Operations : 
+-Basic 
+-Diluted 
+Discontinued Operations : 
+-Basic 
+-Diluted 
+Continuing and Discontinued Operations : 
+-Basic 
+-Diluted 
+(See accomoanvina notes to the Standalone Financial Results) 
+REGISTERED OFFICE: 
+Arvind Limited 
+Naroda Road, Ahmedabad -382 345, Gujarat, India. 
+Phone: +91 79 6826 8000 I Email: info(q_arvind.in 
+CIN: L 17119GJ1931 PLC000093 Quarter Ended 
+31.12.2025 
+Unaudited 
+1,842.26 
+14.72 
+1,856.98 
+970.74 
+15.29 
+(46.64) 
+9.04 
+215.66 
+35.26 
+54.18 
+494.92 
+1,748.45 
+108.53 
+(18.96) 
+89.57 
+17.90 
+7.68 
+1.77 
+27.35 
+62.22 
+-
+62.22 
+(5.66) 
+1.43 
+(1.16) 
+0.29 
+(5.10) 
+57.12 
+262.12 
+2.37 
+2.37 
+2.37 
+2.37 
+;:;-is:·1icr n0 
+F-'0'.:,Sibilirl( S 30.09.2025 
+Unaudited 
+1,801.78 
+13.50 
+1,815.28 
+895.89 
+12.65 
+(20.92) 
+10.57 
+229.43 
+39.75 
+54.31 
+490.59 
+1,712.27 
+103.01 
+103.01 
+20.85 
+6.23 
+27.08 
+75.93 
+30.S9 
+9.07 
+21.52 
+97.45 
+(6.12) 
+1.52 
+(23.05) 
+7.01 
+(20.64) 
+76.81 
+262.12 
+3.03 
+3.02 
+0.83 
+0.83 
+3.86 
+3.85 ['{ in Crores except per share data] 
+Nine Months Ended Year Ended 
+31.12.2024 31.12.2025 31.12.2024 31.03.2025 
+Unaudited Unaudited Unaudited Audited 
+1,588.27 5,149.28 4,651.40 6,236.40 
+17 .03 39.43 43.09 74.26 
+1,605.30 5,188.71 4,694.49 6,310.66 
+711.46 2,540.09 2,098.00 2,837.09 
+34.56 61.29 123.41 179.66 
+(9.34) (64.66) 14.15 (64.62) 
+3.78 23.83 39.18 48.11 
+205.18 657.94 584.96 792.26 
+38.66 115.06 113.50 159.33 
+50.10 161.70 148.50 202.06 
+487.41 1 438.60 1 389.48 1 894.25 
+1,521.81 4,933.85 4,511.18 6,048.14 
+83.49 254.86 183.31 262.52 
+(18.96) (23.33) (25.77) 
+83.49 235.90 159.98 236.75 
+22.20 51.73 43.86 58.51 
+(2.66) 7.68 (2.66) (2.66) 
+1.90 4.64 13.71 31.35 
+56.77 S6.77 
+21.44 64.05 111.68 143.97 
+62.05 171.85 48.30 92.78 
+46.72 64.64 127.92 190.74 
+11.69 19.15 28.95 43.24 
+35.03 45.49 98.97 147.50 
+97.08 217.34 147.27 240.28 
+0.88 
+1.86 (7.74) 5.58 (16.44) 
+(0.47) 1.93 (1.41) 4.00 
+(19.52) (21.11) (18.31) (2.40) 
+4.91 6.52 4.61 0.61 
+(13.22) (20.40) (9.53) (13.35) 
+83.86 196.94 137.74 226.93 
+261. 77 262.12 261. 77 261.82 
+3,324.54 
+2.37 6.56 1.85 3.55 
+2.36 6.55 1.84 3.54 
+1.34 1.74 3.78 5.63 
+1.34 1.74 3.78 5.63 
+3.71 8.30 5.63 9.18 
+3.70 8.29 5.62 9.17 
+LArVIno 
+www.arvind.com 
+Notes: 
+1 The above standalone unaudited financial results were reviewed by the Audit Committee and have been considered and approved by the Board of Directors at their 
+meeting held on January 30, 2026. The same have been subjected to Limited Review by the Statutory Auditors. 
+2 The Government of India, vide Notification dated November 21 , 2025, has notified the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social 
+Security, 2020, and the Occupational Safety, Health and Working Conditions Code, 2020 (collectively referred to as "the Labour Codes"), which consolidate and 
+replace existing multiple labour legislations. In accordance with Ind AS 19 -Employee benefits, changes to employee benefit plans resulting from the new labour 
+codes are treated as plan amendments, requiring immediate recognition of past service cost as expense in the statement of profit and loss. This approach is 
+consistent with the guidance issued by the Institute of Chartered Accountants of India. In view of this, the Company has evaluated the impact and recognised past 
+service costs amounting to Rs. 25.34 Crores which has been included under "Exceptional Items" in the standalone financial results for the quarter and nine months 
+ended December 31, 2025. The Company continue s to monitor developments on the rules to be notified by regulatory authorities, including clarifications / additional 
+guidance from authorities and will continue to assess the accounting implications basis such developments /guidance . 
+3 Exceptional items represent following: 
+rz in Croresl 
+Particulars Quarter Ended Nine Months Ended Year Ended 
+31.12.2025 30.09.2025 31.12.2024 31.12.2025 31.12.2024 31.03.2025 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+(a) Provision for impairment of investments and loans/loss 
+on sale of investments (27.30) (30.07) 
+(b) Statutory impact of new Labour Codes (Refer Note 2) (25.34) - (25.34) 
+(25.34) - - (25.34) (27.30) (30.07) 
+Tax Impact on above 6.38 6.38 3.97 4.30 
+Total (18.96) - - (18.96) (23.33) (25.77) 
+4 The National Company Law Tribunal ("NCLT") vide its order dated August 07, 2025, has sanctioned the Scheme of Arrangement ("Scheme ") for transfer and vesting 
+of "the Advanced Material Undertaking " of the Company to Arvind Advanced Materials Limited ("AAML"), a wholly owned subsidiary of the Company , on a going 
+concern basis by way of slump sale with effect from the appointed date i.e. April 01, 2024 under sections 230 to 232 and other applicable provisions of the 
+Companies Act, 2013. 
+The certified copy of the said order was filed with the Registrar of Companies on September 1, 2025 ("Effective Date"). Accordingly , all assets and liabilities as at the 
+Appointed Date related to the Advanced Materials Undertaking are transferred from Arvind Limited on the Effective Date. Accordingly , the post-tax profit pertaining 
+related to the Advanced Materials Undertak ing has been presented as a discontinued operation (including re-presenting the same for the prior periods presented ) in 
+the standalone financial results in accordance with Ind AS 105. 
+Brief details of discontinued operations are given as under: ['? in Crores] 
+Particulars Quarter Ended Nine Months Ended Year Ended 
+31.12.2025 30.09.2025 31.12.2024 31.12.2025 31.12.2024 31.03.2025 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+(a) Revenue from operations 293.87 340.67 608.11 989.23 1,408.34 
+Other income 2.17 1.37 3.10 3.81 5.53 
+Total Income 296.04 342.04 611.21 993.04 1,413.87 
+( b) Total Expenses 265.45 295.32 546.57 865.12 1,223.13 
+(c) Profit before tax (a-b) - 30.59 46.72 64.64 127.92 190.74 
+( d) Tax Expense (9.07) (11.69) (19.15) (28.95) (43.24) 
+(e) Profit from discontinued ooerations - 21.52 35.03 45.49 98.97 147.50 
+5 The operations at Company 's plant located at Santej, Gujarat, were partially affected for a period of 21 days due to strike by section of workers during the quarter 
+ended June 30, 2024. The Labour Court declared the strike illegal in an order dated June 6, 2024. Subsequently, the strike was called off by the workers, and 
+operations at the Santej plant have since normalized. 
+6 Pursuant to the amendments in the Finance (No. 2) Act 2024, long term capital gains tax rate was changed from 20% plus surcharge and cess (with indexation ) to 
+12. 5% plus surcharge and cess (without indexation ). In accordance with the said amendments , the deferred tax asset has been reduced by '? 56. 77 crores in 
+previous financial year. It is to be noted that only a provision is being made in the books of accounts to record the Deferred Tax in line with the applicable accounting 
+standards and recently enacted tax rate change. 
+7 Financial period upto June 30, 2025, the Company has considered Advanced Material Undertaking as a separate reportable segment in the standalone financial 
+results. Pursuant to the aforesaid NCLT order on demerger of its Advanced Material Undertaking, there is only one material reportable segment of the Company as at 
+September 30, 2025. Hence, in line with the requirements of Ind AS 108, the Company has opted to disclose segment informatio n only in the consolidated financial 
+results and accordingly no separate segment disclosure has been presented in the current results. 
+8 The Company is closely monitoring recent developments concerning the imposition of tariffs by the United States Government and actively evaluating mitigation 
+measures including but not limited to . Collaborating with customers & vendor partners to reset the supply chain . . Adjusting the pricing and sourcing strategies . Focusing on improving the operational efficiency . Re-engineering costs to improve margins 
+Owing to the evolving situation around tariff, the Company will continue to assess the situation and will make necessary adjustments in its financial statements, if 
+required. 
+-
+~For Arvind Limited ~ -m,~,c.ation Pur. ~O LI,t,,~ ~~ 
+~(<' "-. ~ NARODA. ~ t .... 0 
+~ Ahmedabad ~f ~) Pu nit S. Lalbhai 4: ROAD Vice Chairman January 30, 2026 • ')Q1'2.4C-, t,. J 
+~~1'-9> ic:S ~~~ ~/,le'/. f',-9. c_Q\J~ oSe,0 ~M~D~~~ 
+~cation r0~9 - -
+REGISTERED OFFICE: 
+Arvind Limited 
+Naroda Road, Ahmedabad -382 345, Gujarat, India. 
+Phone: +91 79 6826 8000 I Email: info(clarvind .in 
+CIN: L 17119GJ1931 PLC000093 r ii:_~ r • 
+l-'O':>.Jb.1 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+19th Floor, Shapath-V 
+S.G. Highway 
+Ahmedabad -380 015 
+Gujarat, India 
+Tel: +91 79 6682 7300 
+Fax: +91 79 6682 7400 
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM 
+CONSOLIDATED FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF 
+ARVIND LIMITED 
+1. We have reviewed the accompanying Statement of Consolidated Unaudited Financial 
+Results of Arvind Limited ("the Parent") and its subsidiaries (the Parent and its 
+subsidiaries together referred to as "the Group"), and its share of the net loss after 
+tax and total comprehensive loss of its associates and joint ventures for the quarter 
+and nine months ended December 31, 2025. ("the Statement") being submitted by 
+the Parent pursuant to the requirement of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended ("the 
+Listing Regulations"). 
+2. This Statement, which is the responsibility of the Parent's Management and approved 
+by the Parent's Board of Directors, has been prepared in accordance with the 
+recognition and measurement principles laid down in the Indian Accounting Standard 
+34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under Section 133 of the 
+Companies Act, 2013 read with relevant rules issued thereunder and other 
+accounting principles generally accepted in India and in compliance with Regulation 
+33 of the Listing Regulations. Our responsibility is to express a conclusion on the 
+Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on 
+Review Engagements (SRE) 2410 "Review of Interim Financial Information Performed 
+by the Independent Auditor of the Entity", issued by the Institute of Chartered 
+Accountants of India (ICAI). A review of interim financial information consists of 
+making inquiries, primarily of Parent's personnel responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is 
+substantially less in scope than an audit conducted in accordance with Standards on 
+Auditing specified under Section 143(10) of the Companies Act, 2013 and 
+consequently does not enable us to obtain assurance that we would become aware of 
+all significant matters that might be identified in an audit. Accordingly, we do not 
+express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEBI 
+under Regulation 33(8) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended, to the extent applicable. 
+4. The Statement includes the results of the parent, subsidiaries, joint ventures and 
+associates as given in the Annexure to this report. 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 
+above and based on the consideration of the review reports of the other auditors 
+referred to in paragraph 6 below, nothing has come to our attention that causes us to 
+believe that the accompanying Statement, prepared in accordance with the 
+recognition and measurement principles laid down in the aforesaid Indian Accounting 
+Standard and other accounting principles generally accepted in India, has not 
+disclosed the information required to be disclosed in terms of Listing Regulations, 
+including the manner in which it is to be disclosed, or that it contains any material 
+misstatement. 
+Page 1 of 4 
+Regd. Office: One International Center, Tower 3, 31st floor, Senapati Bapat Marg, Elphinstone Road (West), Mumbai-400 013, Maharashtra, India. 
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No: MB-8737 
+Deloitte 
+Haskins & Sells LLP 
+6. We did not review the interim financial information of 10 subsidiaries included in the 
+consolidated unaudited financial results, whose interim financial information reflect, 
+total revenues of Rs. 357.01 crores and Rs. 996.06 crores for the quarter and nine 
+months ended December 31, 2025, respectively, total net profit after tax of Rs. 
+10.19 crores and Rs. 15. 7 5 crores for the quarter and nine months ended December 
+31, 2025, respectively, and total comprehensive income of Rs. 9.66 crores and Rs. 
+12. 72 crores for the quarter and nine months ended December 31, 2025, 
+respectively, as considered in the Statement. The consolidated unaudited financial 
+results also includes the Group's share of loss after tax of Rs. 0.52 crores and Rs. 
+0.63 crores for the quarter and nine months ended December 31, 2025, respectively, 
+and total comprehensive loss of Rs. 0.76 crores and Rs. 0.87 crores for the quarter 
+and nine months ended December 31, 2025, respectively, as considered in the 
+Statement, in respect of 1 joint venture, whose interim financial information have not 
+been reviewed by us. These interim financial information have been reviewed by 
+other auditors whose reports have been furnished to us by the Management and our 
+conclusion on the Statement, in so far as it relates to the amounts and disclosures 
+included in respect of these subsidiaries, and joint venture, is based solely on the 
+reports of the other auditors and the procedures performed by us as stated in 
+paragraph 3 above. 
+One of these subsidiaries is located outside India whose interim financial information 
+have been prepared in accordance with accounting principles generally accepted in 
+their respective countries and which have been reviewed by other auditor under 
+generally accepted auditing standards applicable in its country. The Parent's 
+management has converted the interim financial information of such subsidiary 
+located outside India from accounting principles generally accepted in its country to 
+accounting principles generally accepted in India. We have reviewed these conversion 
+adjustments, if any, made by the Parent's management. Our report on the 
+Statement, in so far as it relates to the amounts and disclosures included in respect 
+of this subsidiary located outside India is based on the report of other auditor and the 
+conversion adjustments prepared by the management of the Parent and reviewed by 
+us. 
+Our conclusion on the Statement is not modified in respect of these matters. 
+7. The consolidated unaudited financial results includes the interim financial information 
+of 10 subsidiaries which have not been reviewed by their auditors, whose interim 
+financial information reflect total revenue of Rs. 2.09 crores and Rs. 7 .81 crores for 
+the quarter and nine months ended December 31, 2025, respectively, total loss after 
+tax of Rs. 1.47 crores and Rs. 4.94 crores for the quarter and nine months ended 
+December 31, 2025, respectively, and total comprehensive loss of Rs. 0.51 crores 
+and Rs. 2.83 crores for the quarter and nine months ended December 31, 2025, 
+respectively, as considered in the Statement. The consolidated unaudited financial 
+results also includes the Group's share of loss after tax of Rs. 0. 75 crores and Rs. 
+0.40 crores for the quarter and nine months ended December 31, 2025, respectively, 
+and total comprehensive loss of Rs. 0. 75 crores and Rs. 0.40 crores for the quarter 
+and nine months ended December 31, 2025, respectively, as considered in the 
+Statement, in respect of 2 associates and 3 joint ventures, based on their interim 
+financial information which have not been reviewed by their auditors. According to 
+the information and explanations given to us by the Management, these interim 
+financial information are not material to the Group. 
+Page 2 of 4 
+Deloitte 
+Haskins & Sells LLP 
+Our Conclusion on the Statement is not modified in respect of our reliance on the 
+interim financial information certified by the Management. 
+Place: Ahmedabad 
+Date: January 30, 2026 For Deloitte Haskins & Sells LLP 
+Chartered Accountants 
+(Firm's Registration No. 117366W/W-100018) 
+Page 3 of 4 
+Deloitte 
+Haskins & Sells LLP 
+Annexure to Independent Auditor's Report 
+The Parent 
+1. Arvind Limited 
+List of Subsidiaries 
+1. Arvind PD Composites Private Limited 
+2. Arvind OG Nonwovens Private Limited 
+3. Arvind Smart Textiles Limited 
+4. Syntel Telecom Limited 
+5. Arvind Envisol Limited 
+6. Arvind Worldwide Inc. 
+7. Arvind Niloy Exports Private Limited 
+8. Arvind Lifestyle Apparel Manufacturing PLC 
+9. Maruti & Ornet Infrabuild LLP 
+10. Arvind Sports Fashion Private Limited 
+11. Arvind Premium Retail Limited 
+12. Arvind Enterprise FZC 
+13. Arya Omnitalk Wireless Solutions Private Limited 
+14. Arvind Envisol PLC 
+15. Syntel Enkay Converged Technologies LLP (Formerly known as Enkay Converged 
+Technologies LLP) 
+16. Arvind Technical Products Private Limited 
+17. Arvind Township LLP (Formerly known as Arvind and Smart Value Homes LLP) 
+18. Arvind Advanced Materials Limited (Formerly known as Arvind Polymer Textiles 
+Limited) 
+19. Arvind Foundation 
+20. Arvind Indigo Foundation 
+21. Arvind New Technologies Private Limited (w.e.f. April 3, 2025) 
+List of Joint Ventures 
+1. Arya Omnitalk Radio Trunking Services Private Limited 
+2. Arudrama Developments Private Limited 
+3. Adient Arvind Automotive Fabrics India Private Limited (upto August 20, 2025) 
+4. PVH Arvind Manufacturing PLC 
+List of Associates 
+1. Renew Green (GJ Eight) Private Limited 
+2. Purfi Arvind Manufacturing India Private Limited (w .e.f. December 5, 2024) 
+Page 4 of 4 
+LArVIno 
+www.arvind.com 
+STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2025 
+Sr. Particulars 
+No 
+1 Income 
+(a) Revenue from operations 
+(b) Other income 
+Total Income 
+2 Expenses 
+(a) Cost of materials consumed 
+(b) Purchase of stock-in-trade 
+(c) Changes in inventories of finished goods, work-in-progress and stock-in-trade 
+(d) Project expenses 
+(e) Employee benefit expenses 
+(f) Finance costs 
+(g) Depreciation and amortisation expenses 
+(h) Other expenses 
+Total Expenses 
+3 Profit before Share of Profit/(Loss) of Joint Ventures and Associates, 
+Exceptional Items and tax (1-2) 
+4 Share of Profit/(Loss) of Joint Ventures and Associates accounted for using Equity 
+Method 
+5 Profit before Exceptional items and tax (3+4) 
+6 Exceptional Items (net of tax) ( Refer note 3) 
+7 Profit before Tax (5+6) 
+8 Tax Expense : 
+-Current Tax 
+-Short/(Excess) Provision of earlier years 
+-Deferred Tax Charge/(Credit) 
+-Deferred Tax Charge-Exceptional (Refer note 6) 
+Total Tax Expense 
+9 Profit for the period/year (7-8) 
+Attributable to: 
+Equity holders of the Parent 
+Non Controlling Interest 
+10 Other Comprehensive Income/(Loss) (net of tax) 
+(a) Items that will not be reclassified to profit and loss 
+(i) Equity Instruments through Other Comprehensive Income (FVOCI) 
+(ii) Remeasurement gain/(loss) of defined benefit plans 
+(iii) Share of Other Comprehensive Income/(Loss) of Joint Ventures and 
+Associates accounted for using Equity method (net of tax) 
+(iv) Income tax related to items (i) and (ii) above 
+(b) Items that will be reclassified to profit and loss 
+(i) Effective portion of gain/(loss) on cash flow hedges 
+(ii) Income tax related to item (i) above 
+(iii) Exchange differences on translation of foreign operations 
+Other Comprehensive Income/(Loss) (net of tax) 
+Attributable to: 
+Equity holders of the Parent 
+Non Controlling Interest 
+11 Total Comprehensive Income for the period/year (9+10) 
+Attributable to: 
+Equity holders of the Parent 
+Non Controlling Interest 
+12 Paid-up Equity Share Capital (Face Value z 10/-per share) 
+13 Other Equity 
+14 Earnings per Share in ~ -(Not Annualised) 
+-Basic 
+-Diluted 
+(See accompanying notes to the Consolidated Financial Results) 
+REGISTERED OFFICE: 
+Arvind Limited 
+Naroda Road, Ahmedabad -382 345, Gujarat, India. 
+Phone: +91 79 6826 8000 I Email: info(clarvind .in 
+CIN: L 17119GJ1931 PLC000093 Quarter Ended 
+31.12.2025 -30.09.2025 
+Unaudited Unaudited 
+2,372.64 2,371.14 
+12.01 14.88 
+2,384.65 2,386.02 
+1,125.54 1,144.72 
+29.96 51.93 
+(10.73) (43.95) 
+32.25 45.87 
+291.86 315.79 
+41.87 41.21 
+71.83 71.94 
+629.91 609.71 
+2,212.49 2,237.22 
+172.16 148.80 
+(1.27) (0.15) 
+170.89 148.65 
+(23.56) 
+147.33 148.65 
+38.64 38.58 
+8.85 
+(1.13) 3.33 
+46.36 41.91 
+100.97 106.74 
+97.59 103.40 
+3.38 3.34 
+0.05 0.83 
+(4.43) (6.34) 
+(0.24) 
+1.10 1.46 
+(4.38) (25.59) 
+1.10 7.65 
+0.20 0.14 
+(6.60) (21.85) 
+(6.56) (21.78) 
+(0.04) (0.07) 
+94.37 84.89 
+91.03 81.62 
+3.34 3.27 
+262.12 262.12 
+3.72 3.95 
+3.72 3.94 [z in Crores except per share data] 
+Nine Months Ended Year Ended 
+31.12.2024 31.12.2025 31.12.2024 31.03.2025 
+Unaudited Unaudited Unaudited Audited 
+2,089.21 6,750.10 6,108.12 8,328.81 
+10.56 35.79 35.35 65.19 
+2,099.77 6,785.89 6,143.47 8,394.00 
+936.61 3,178.29 2,696.19 3,730.02 
+98.42 141.24 264.03 387.50 
+(79.35) (77.86) (55.17) (154.50) 
+9.60 89.05 58.03 72.05 
+274.44 894.46 780.12 1,056.34 
+39. 71 124.30 118.77 165.77 
+61.68 212.77 189.66 258.71 
+612.44 1,826.71 1,757.09 2,384.00 
+1,953.55 6,388.96 5,808.72 7,899.89 
+146.22 396.93 334.75 494.11 
+(0.77) (1.03) (0.24) (1.24) 
+145.45 395.90 334.51 492.87 
+(23.56) 
+145.45 372.34 334.51 492.87 
+38.95 100.03 87.28 121.90 
+(2.42) 8.85 (2.42) (2.43) 
+2.68 1.05 7.56 (23.33) 
+29.35 29.35 
+39.21 109.93 121.77 125.49 
+106.24 262.41 212.74 367.38 
+103.42 254.23 202.45 353.49 
+2.82 8.18 10.29 13.89 
+3.76 (0.66) (4.44) (3.94) 
+1.58 (6.98) 4.73 (17.80) 
+(0.24) (0.10) 
+(0.84) 1. 76 (1.26) 4.34 
+(20.55) (26.74) (18.92) (2.26) 
+5.17 7.94 4.76 0.58 
+1. 71 0.37 (4.08) (5.71) 
+(9.17) (24.55) (19.21) (24.89) 
+(9.14) (24.28) (18.28) (24.01) 
+(0.03) (0.27) (0.93) (0.88) 
+97.07 237.86 193.53 342.49 
+94.28 229.95 184.17 329.48 
+2.79 7.91 9.36 13.01 
+261.77 262.12 261. 77 261.82 
+3,524.28 
+3.96 9.70 7.74 13.51 
+3.95 9.69 7.73 13.49 
+LNVIno 
+www.arvind.com 
+Notes: 
+The above consolidated unaudited financial results were reviewed by the Audit Committee and have been considered and approved by the Board of 
+Directors at their respective meetings held on January 30, 2026. The same have been subjected to Limited Review by the Statutory Auditors . 
+2 The Government of India, vide Notification dated November 21 , 2025, has notified the Code on Wages, 2019, the Industrial Relations Code, 2020, the 
+Code on Social Security, 2020, and the Occupational Safety, Health and Working Conditions Code, 2020 (collectively referred to as "the Labour Codes"), 
+which consolidate and replace existing multiple labour legislations . In accordance with Ind AS 19 -Employee benefits, changes to employee benefit plans 
+resulting from the new labour codes are treated as plan amendments, requiring immediate recognition of past service cost as expense in the statement of 
+profit and loss. This approach is consistent with the guidance issued by the Institute of Chartered Accountants of India. In view of this, the Group has 
+evaluated the impact and recognised past service costs amounting to ~ 31.47 Crores which has been included under "Exceptional Items" in the 
+consolidated financial results for the quarter and nine months ended December 31, 2025. The Group continues to monitor developments on the rules to be 
+notified by regulatory authorities, including clarifications/ additional guidance from authorities and will continue to assess the accounting implications basis 
+such developments/guidance. 
+3 Exceptional items represent fol lowing: 
+Particulars Quarter Ended Nine Months Ended Year Ended 
+31.12.2025 30.09.2025 31.12.2024 31.12.2025 31.12.2024 31.03.2025 
+Statutory impact of new Labour Codes 
+Tax Impact on above 
+Total Unaudited 
+(31.47) 
+(31.47) 
+7.91 
+(23.56) Unaudited Unaudited Unaudited 
+(31.47) 
+(31.47) 
+7.91 
+(23.56) Unaudited Audited 
+4 Key numbers of standalone financial results of the company are as under. The standalone financial results for the quarter and nine months ended 
+December 31, 2025 are available on Company's website (www.arvind .com). 
+~ in Crores 
+Particulars Quarter Ended Nine Months Ended Year Ended 
+31.12.2025 30.09.2025 31.12.2024 31.12.2025 31.12.2024 31.03.2025 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Revenue from Operations 1,842.26 1,801.78 1,588.27 5,149.28 4,651.40 6,236.40 
+Profit before Tax 89.57 103.01 83.49 235.90 159.98 236.75 
+Profit/ (Loss) after Tax from continuing Operations 62.22 75.93 62.05 171.85 48.30 92.78 
+Profit/ (Loss) after Tax from discontinued Operations 21.52 35.03 45.49 98.97 147.50 
+Other Comprehensive Income/(Loss) (net of tax) (5.10) (20.64) (13.22) (20.40) (9.53) (13.35) 
+Total Comprehensive Income for the period/year 57.12 76.81 83.86 196.94 137.74 226.93 
+5 The operations at Santej plant, Gujarat were partially affected for a period of 21 days due to strike by section of workers during the quarter ended June 30, 
+2024. The Labour Court declared the strike illegal in an order dated June 6, 2024. Subsequently, the strike was called off by the workers, and operations at 
+the Santej plant have since normalised. 
+6 Pursuant to the amendments in the Finance (No. 2) Act 2024, long term capital gains tax rate was changed from 20% plus surcharge and cess (with 
+indexation) to 12.5% plus surcharge and cess (without indexation). In accordance with the said amendments, the deferred tax assets has been reduced by 
+~ 29.35 crores in previous financial year. It is to be noted that only a provision is being made in the books of accounts to record the Deferred Tax in line 
+with the applicable accounting standards and recently enacted tax rate change. 
+7 The National Company Law Tribunal ("NCLT') vide its order dated August 07, 2025, has sanctioned the Scheme of Arrangement ("Scheme") for transfer 
+and vesting of "the Advanced Material Undertaking" of the Company to Arvind Advanced Materials Limited ("AAML"), a wholly owned subsidiary of the 
+Company, on a going concern basis by way of slump sale with effect from the appointed date i.e. April 01, 2024 under sections 230 to 232 and other 
+applicable provisions of the Companies Act, 2013. 
+The certified copy of the said order was filed with the Registrar of Companies on September 1, 2025 ("Effective Date"). Accordingly, all assets and liabilities 
+as at the Appointed Date related to the Advanced Materials Undertaking are transferred from Arvind Limited on the Effective Date. The said transaction 
+does not have any accounting implications in the consolidated financial results. 
+8 The Company is closely monitoring recent developments concerning the imposition of tariffs by the United States Government and actively evaluating 
+mitigation measures including but not limited to : 
+Collaborating with customers & vendor partners to reset the supply chain 
+Adjusting the pricing and sourcing strategies 
+Focusing on improving the operational efficiency 
+Re-engineering costs to improve margins 
+Owing to the evolving situation around tariff, the Group will continue to assess the situation and will make necessary adjustments in its financial 
+statements, if required . 
+Ahmedabad 
+January 30, 2026 
+REGISTERED OFFICE: 
+Arvind Limited 
+Naroda Road, Ahmedabad -382 345, Gujarat, India. 
+Phone: +91 79 6826 8000 I Email: info(q_arvind.in 
+CIN: L 17119GJ1931 PLC000093 For Arvind Limited p~ 
+Punit S. Lalbhai 
+Vice Chairman 
+www.arvind.com 
+SEGMENTWISE REVENUE, RESULTS, SEGMENT ASSETS AND LIABILITIES (CONSOLIDATED) FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2025 
+[~ in Crores] 
+Sr. Particulars Quarter Ended Nine Months Ended Year Ended 
+No 31.12.2025 30.09.2025 31.12.2024 31.12.2025 31.12.2024 31.03.2025 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+1 Segment Revenue (Net Sales/Income from Operations) 
+(a) Textiles 1,831.18 1,803.43 1,576.84 5,170.48 4,559.85 6,174.28 
+(b) Advanced Materials 495.66 445.63 376.13 1,292.53 1,092.83 1,543.53 
+(c) Others 200.43 184.74 177.04 534.83 536.64 738.06 
+Total 2,527.27 2,433.80 2,130.01 6,997.84 6,189.32 8,455.87 
+Less : Inter Segment Sales 154.63 62.66 40.80 247.74 81.20 127.06 
+Net Sales/Income from Operations 2,372.64 2,371.14 2,089.21 6,750.10 6,108.12 8,328.81 
+2 Segment Results (Profit/(Loss) before Interest & Tax) 
+(a) Textiles: 
+-Profit/(Loss) before Exceptional items 138.65 127.65 131.72 344.68 308.09 440.01 
+-Exceptional Items (15.07) (15.07) 
+Textiles Total 123.58 127.65 131.72 329.61 308.09 440.01 
+(b) Advanced Materials : 
+-Profit/(Loss) before Exceptional items 71.29 57.01 52.54 166.28 146.92 208.81 
+-Exceptional Items (1.29) (1.29) 
+Advanced Materials Total 70.00 57.01 52.54 164.99 146.92 208.81 
+(c) Others: 
+-Profit/(Loss) before Exceptional items 10.93 13.82 9.83 20.04 12.47 28.97 
+-Exceptional Items (3.74) (3.74) 
+Others Total 7.19 13.82 9.83 16.30 12.47 28.97 
+Total 200.77 198.48 194.09 510.90 467.48 677.79 
+Less: Interest and Finance Charges 41.87 41.21 39.71 124.30 118.77 165.77 
+Other Unallocable income/(expenditure) 
+-Profit/(Loss) before Exceptional items (8.11) (8.62) (8.93) (10.80) (14.20) (19.15) 
+-Exceptional Items (3.46) (3.46) 
+Add: Total Other Unallocable income/(expenditure) (11.57) (8.62) (8.93) (14.26) (14.20) (19.15) 
+Profit Before Tax 147.33 148.65 145.45 372.34 334.51 492.87 
+3 Segment Assets 
+(a) Textiles 5,443.86 5,305.28 4,852.81 5,443.86 4,852.81 5,091.15 
+(b) Advanced Materials 1,093.01 1,078.54 1,056.33 1,093.01 1,056.33 1,202.69 
+(c) Others 848.14 821.09 794.04 848.14 794.04 821. 52 
+Total Segment Assets 7,385.01 7,204.91 6,703.18 7,385.01 6,703.18 7,115.36 
+Unallocable 1,092.43 1,025.68 975.09 1,092.43 975.09 983.59 
+Total Assets 8,477.44 8,230.59 7,678.27 8,477.44 7,678.27 8,098.95 
+4 Segment Liabilities 
+(a) Textiles 1,998.88 1,845.99 1,524.70 1,998.88 1,524.70 1,780.21 
+(b) Advanced Materials 397.02 393.52 315.99 397.02 315.99 326.95 
+(c) Others 478.88 487.80 501.87 478.88 501.87 501. 79 
+Total Segment Liabilities 2,874.78 2,727.31 2,342.56 2,874.78 2,342.56 2,608.95 
+Unallocable 260.49 228.02 226.84 260.49 226.84 242.69 
+Total Liabilities 3,135.27 2,955.33 2,569.40 3,135.27 2,569.40 2,851.64 
+Notes: 
+I Considering the nature of the Company 's business and operations, as well as based on reviews performed by Chief operating decision maker regarding resource 
+allocation and performance management, the Company has identified following as reportable segments in accordance with the requirements of Ind AS 108 -"Operating 
+Segments ". Above segment liability does not include borrowings. 
+Classification of Reportable Segments : 
+1 Textiles : Fabrics, Garments and Fabric Retail. 
+2 Advanced Materials : Human Protection fabric & garments, Industrial Products , Advance Composites and Automotive fabrics. 
+3 Others : EPABX and One to Many Radio, Water Treatment, Developing of Residential Units, Construction contracts and Others. 
+~ 
+~\c.ation Pur.o 
+Ahmedabad ~ 0 
+January 30, 2026 Ii ~) 
+9._~~~k'#. OC; 
+'◊-: ~~ f., 
+<v-'?t,,· . '£D A((G°0~ 0i:.,q, 
+~cat/on ?0~~ 
+REGISTERED OFFICE: 
+Arvind Limited 
+Naroda Road, Ahmedabad -382 345, Gujarat, India. 
+Phone: +91 79 6826 8000 I Email: info(qarvind.in 
+CIN: L 17119GJ1931 PLC000093 For Arvind Limited .--~~ ~Q LIJ1.1~ 
+s~«" 
+~ ~ NA~OO~ ~ ) Punit S. Lalbhai 
+<! ROAD "¢ Vice Chairman 
+\ ~ 382.34$ _ I 
+~'~~ liM~DP...~~ ---

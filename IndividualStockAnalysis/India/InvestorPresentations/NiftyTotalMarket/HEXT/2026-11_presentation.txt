@@ -1,0 +1,696 @@
+
+=== page 1 ===
+ 
+HEXAWARE TECHNOLOGIES LIMITED  
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co -Developers1 Private Limited, Plot No.Gen -4/1,TTC Industrial 
+Area, Ghansoli, Navi Mumbai -400710, Maharashtra, India  |  Tel: +91 022 3326  8585   |  Email: 
+investori @hexaware.com   CIN: L 72900MH1992PLC069662  |  URL: www.hexaware.com  
+ 
+ 
+  HEXT/SE/ 2026 /115 
+  Date: October  28, 202 6 
+To,  
+The Manager                      
+The General Manager                     
+Listing Department   Department of Corporate Services  
+National Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza,  Bandra -Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East), Mumbai - 400 051  Dalal Street, Mumbai - 400 001   
+Symbol: HEXT  Scrip Code: 544362  
+ 
+ Dear Sir/ Madam,   
+ 
+Subject: Investor Presentation for the  quarter  and nine  months  ended September  30, 202 6. 
+This is with reference to and in continuation of our letter dated October 24, 202 6, wherein we have 
+intimated that the Company will be hosting conference call with  Investor s/ Analyst s on October  29, 
+2026, at 8.00 am (IST) for discussion on the ﬁnancial results of the Company for the quarter and nine  
+months  ended September  30, 2026.  
+In this regard, we have enclosed the presentation  and fact sheet  to be presented  to Investors /Analysts 
+during the conference call on the ﬁnancial results and performance of the Company for the quarter  
+and nine  months  ended September  30, 20 26.  
+This is also being made available at the website of the Company i.e www.hexaware.com . 
+ Yours faithfully,  
+For Hexaware Technologies Limited   
+ 
+ 
+Gunjan Methi  
+Company Secretary and Compliance Oﬃcer  
+ 
+ 
+ 
+=== page 2 ===
+Investor Presentation –Q3CY26
+Oct 2026
+
+=== page 3 ===
+2
+Certain  statements  in this  presentation  concerning  our  future  growth  prospects,  litigations  are forward -looking  statements,  which  involve  a 
+number  of risks,  and  uncertainties  that  could  cause  actual  results  to differ  materially  from  those  in such  forward -looking  statements . The  risks  
+and  uncertainties  relating  to these  statements  include,  but  are  not  limited  to, risks  and  uncertainties  regarding  fluctuations  in earnings,  our  
+ability  to manage  growth,  intense  competition  in IT services  including  those  factors  which  may  affect  our  cost  advantage,  wage  increases,  our  
+ability  to attract  and  retain  highly  skilled  professionals,  time  and  cost  overruns  on fixed -price,  fixed -time  frame  contracts,  client  concentration,  
+restrictions  on work  visa,  immigration,  our  ability  to manage  our  international  operations,  the  effect  of current  and  any  future  tariffs,  reduced  
+demand  for technology  in our  key  focus  areas,  disruptions  in telecommunication  networks,  technological  disruptions  and  innovations  such  as 
+Generative  AI, our  ability  to successfully  complete  and  integrate  potential  acquisitions,  liability  for damages  on our  service  contracts,  the  
+success  of the  companies,  products  and  platforms  in which  Hexaware  has  made  strategic  investments,  withdrawal  of governmental  fiscal  
+incentives,  political  instability,  legal  restrictions  on raising  capital  or acquiring  companies,  the  outcome  of pending  litigation,  and  unauthorized  
+use  of our  intellectual  property  and  general  economic  conditions  affecting  our  industry . The  Company  may,  from  time  to time,  make  additional  
+written  and  oral  forward  statements . We  do not  undertake  to update  any  forward  statements  that  may  be made  from  time  to time  by us or on 
+our  behalf  unless  required  under  the  law .
+Use  of Non -GAAP  Financials
+Hexaware  has  included  certain  non -GAAP  financial  measures  in this  presentation  to supplement  Hexaware’s  consolidated  financial  statements  
+presented  on a GAAP  basis . These  non -GAAP  financial  measures  may  have  limitations  as analytical  tools,  and  these  measures  should  not  be 
+considered  in isolation  or as a substitute  for analysis  of Hexaware’s  results  as reported  under  GAAP . 
+The  non -GAAP  financial  information  that  we provide  also  may  differ  from  the  non -GAAP  information  provided  by other  companies . We  
+compensate  for the  limitations  on our  use  of these  non -GAAP  financial  measures  by relying  primarily  on our  GAAP  financial  statements  and  
+using  non -GAAP  financial  measures  only  supplementally . 
+We  believe  that  providing  these  non -GAAP  financial  measures  in addition  to the  related  GAAP  measures  provides  investors  with  greater  
+transparency . We  further  believe  that  providing  this  information  better  enables  investors  to understand  Hexaware’s  operating  performance  
+and  financial  condition .
+Rounding  off
+Certain  amounts  and  percentage  figures  included  in this  presentation  have  been  subject  to rounding  adjustments . Accordingly,  figures  shown  
+as totals  in certain  tables  may  not  be an arithmetic  aggregation  of the  figures  preceding  them .Safe Harbor Statement / Forward -looking and Cautionary Statement / Disclaimer
+=== page 4 ===
+3
+Key Financial and Business Highlights
+AI Led Growth Strategy:
+•AI for IT:  Embed AI across the technology lifecycle to modernize legacy estates, 
+improve quality and resilience, and accelerate delivery
+•AI for Business: Combine AI with deep domain expertise to transform clients’ core 
+business operations and create measurable value
+•ZeroVity : Provide the foundational context, governance and orchestration layer 
+required to scale enterprise AI securely and efficiently.AI for IT
+•Anthropic partnership: Became a Preferred Partner in the Claude Partner 
+Network, strengthening our ability to deliver enterprise AI solutions at scale
+Key Awards:
+•Leader in AI -powered Business Transformation with AWS in the ISG Provider Lens® 
+AWS Ecosystem 2026 US Quadrant
+•Leader in Azure Data Transformation and AI Services in the ISG Provider Lens® 
+Microsoft AI and Cloud Ecosystem 2026 US Quadrant
+•Leader in AI -ready Infrastructure Managed Services, Large Accounts in the ISG 
+Provider Lens® 2026 UK Quadrant
+•Visionary in the 2026 Gartner® Magic Quadrant
+  for Custom Software 
+Development ServicesBusiness Highlights
+Notes: (1) QoQ and YoY growth in EBIT (USD terms) is calculated against adjusted EBIT (2) Includes  restricted and MF Investm ent s (3) Exchange rate used 95.83(4) Voluntary attrition rate for the IT service line is calculated as the total number of IT bu siness professionals and support function professionals who 
+left the company voluntarily during a period, divided by the average number of IT business professionals and support function  professionals during the period, computed on a trailing twelve -month basis. (5) Utilization rate for IT is calculated as the total  hours IT business professionals spend on customer -billed 
+assignments, divided by the total available base hours. IT business professionals designated as Mavericks (campus hires) are included in the utilization computation after the completion of an initial training period of up to four months. Starting Q2CY26 , utilization excludes employees working on platforms. The 
+comparative periods have not been restated for this change. ® = Registered trademark. 
+  = Trademark claimed by the owner, but may not be officially registeredRevenue:
+•Q3CY26: USD 411.9 Mn | INR 39,331 Mn
+oUSD   : +1.6% QoQ; +4.3% YoY
+oINR   : +2.3% QoQ; +12.9% YoY
+oConstant Currency  : +1.7% QoQ;  +4.5% YoY
+Profitability:
+•Adjusted EBIT (1): 
+oQ3CY26: 13.8% | +17 bps QoQ & (88) bps YoY in % terms
+o+2.9% QoQ & (1.9%) YoY in absolute terms 
+•Basic EPS: 
+oQ3CY26:  INR 7.06 | 30.5% QoQ & 15.9%YoY
+    Cash:
+•Closing cash balance as of 30th Sep 2026: USD 199 Mn (2)(3)
+Key People Metrics:
+•Closing Headcount: 35,887, QoQ net addition  of 1,381 with 386 net addition in IT
+•Voluntary Attrition for IT(4): 11.1%
+•Q3CY26 Utilization Rate for IT(5): 84.9%Financial Highlights
+=== page 5 ===
+4
+Winning Across Domains: Key Successful Deals
+Global Pharmaceutical Player
+AI App & agentic developmentLarge US Infrastructure 
+Provider
+Legacy modernisation
+& AI use case factory
+US Biopharmaceutical 
+company
+S4Hanna  upgradeLeading Australian Bank
+Data modernisationSmart Home and Property 
+Technology Platform
+AI native customer  experience
+Middle East Based Bank
+Sitecore MigrationGlobal Data Storage Company
+Agentic AI factoryUK Utility Company
+Modernization
+=== page 6 ===
+5
+Q3CY26 Financial Highlights
+Revenue (USD Mn)
+Revenue (INR Mn)Reported  EBIT (USD Mn)
+Reported Profit (USD Mn)5.5% 4.3% 6.1%
+3.3% 1.6% 4.4%YoY (%)
+QoQ (%)Margin (%) 12.2 % 13.6% 14.7%
+11.1% 12.9% 17.9%
+6.8% 2.3% 6.4%YoY (%)
+QoQ (%) Margin (%) 10.9% 8.6% 10.6%$412  
+$405  
+$395  
+Q3CY26 Q2CY26 Q3CY25$50  $55  $58  
+Q3CY26 Q2CY26 Q3CY25
+39,331  
+38,452  
+34,836  
+Q3CY26 Q2CY26 Q3CY25
+Q3CY26 Adjusted  EBIT of  13.8%
+•+17 bps  QoQ  and (88) bps YoY
+•+2.9% QoQ & (1.9%) YoY in absolute terms 
+•Reported to Adjusted margin walk
+EBIT % PAT %
+Reported 12.2% 10.9%
+NL entity restructuring - 1.5%
+Acquisition related: 
+-Amortization of intangibles
+-Earnout reversal1.4%
+-1.4%
+(4.2%)
+Leadership change impact 0.2% 0.2%
+Tax impact (on above) NA (0.4%)
+Adjusted 13.8% 9.4%$45  
+$35  $42  
+Q3CY26 Q2CY26 Q3CY25
+=== page 7 ===
+6
+88%12%Diverse Presence Across Verticals and Geographies
+Q3CY26
+Growth (%)(1)QoQ YoY
+Financial Services 3.0% 2.4%
+Healthcare & Insurance (0.4%) 6.3%
+Manufacturing & Consumer 1.8% 3.0%
+Professional Services 0.3% 7.8%
+Banking 6.6% 13.5%
+Travel & Transportation (3.5%) (8.5%)
+Technology , Products & Platforms 7.2% 9.7%Q3CY26
+Growth (%)(1)QoQ YoY
+Americas 1.5% 1.1% 
+Europe 3.1% 12.8% 
+Asia Pacific (1.6%) 20.0%
+Note: (1) In USD termsVertical Split (%) Geographic Split (%) IT - BPS Split(%)
+Q3CY26
+Revenue
+Split
+Q3CY26
+Growth (%)(1)QoQ YoY
+IT Services & Others* 1.2% 4.2%
+BPS Services 4.7% 5.3%
+* Depicts total of IT services and others as presented in the Financial Statements74%20%6%
+Q3CY26
+Revenue
+Split29%
+23% 16%14%9%7% 2%
+Q3CY26
+Revenue
+Split
+=== page 8 ===
+7
+Diverse Clientele with Strong Relationship
+Client Pyramid (# LTM)
+205>$75
+>$50
+>$20
+>$10
+>$5
+>$13
+4
+152
+30
+65
+199Q3CY25
+4
+17
+32
+67Q3CY26 USD Mn(1)Revenue Contribution by Customer Group (%)
+Note: (1) Represents revenue earned from customers.26.0% 37.0% 50.3% 
+25.3% 35.7% 48.7% 
+24.7%35.4%49.3% 
+Top 5 customers Top 10 customers Top 20 customers
+LTM Q3CY25 LTM Q2CY26 LTM Q3CY26
+=== page 9 ===
+8
+Enhancing Operational Efficiency Through Revenue Optimization and Talent Management
+Revenue Mix – Onshore & Offshore (%)(1)Total Headcount (#)
+Voluntary Attrition Rates (%)(2) Utilization Rates (%)(3)
+IT Business Professionals 
+Notes: (1) For IT Services (2) Voluntary attrition rate for the IT service line is calculated as the total number of IT busin ess  professionals and support function professionals who left the company voluntarily during a period, divided by the average num ber of IT business professionals and support function 
+professionals during the period, computed on a trailing twelve -month basis. (3) Utilization rate for IT is calculated as the tot al hours IT business professionals spend on customer -billed assignments, divided by the total available base hours. IT business professionals designated as Mavericks (campus hires) are 
+included in the utilization computation after the completion of an initial training period of up to four months. Starting Q2CY26, utilization excludes employees working on platforms. This has improved Q2 utilization by 80 bps. The compara tive periods have not been restated for this changeIT Business Professionals 
+84.9% 84.8% 82.6% 80.8% 83.8% 
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY2511.1% 11.2% 11.1% 11.0% 11.4% 
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY2535,887
+34,506
+33,798 33,84433,590
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY2553.1% 52.0% 51.5% 51.9% 51.2%46.9% 48.0% 48.5% 48.1% 48.8% 
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY25Onshore IT Services (%) Offshore IT Services (%)
+=== page 10 ===
+9
+Cash Flow, ETR, and EPS Metrics
+DSO (Days) (1)LTM OCF / Reported Profit – Cash Conversion (%)
+Effective Tax Rate (%) Basic EPS (INR)
+Notes: DSO: Days Sales Outstanding; OCF: Operating Cashflows; EPS: Earnings Per Share. 
+(1) DSO is computed based on trailing 3 months of USD revenue41 394438 3736 39 31
+293677 7875
+6773
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY25DSO - Billed DSO - Unbilled
+21.0% 25.1% 25.5% 
+10.4% 25.5% 
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY257.06
+5.41  5.77  
+4.79  6.09  
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY25109.6%124.7% 125.1% 127.1% 126.6% 
+Q3CY26 Q2CY26 Q1CY26 Q4CY25 Q3CY25
+=== page 11 ===
+Appendix
+=== page 12 ===
+11
+Awards and Recognition
+Hexaware Named Among ET Best Tech Brands for the Fifth consecutive year
+Hexaware Named Among ET Best 
+Tech Brands for the Fifth 
+consecutive year
+v
+Hexaware Recognized Among TIME’s World’s Best Companies 2026
+Hexaware Recognized Among 
+TIME’s World’s Best Companies 
+2026v
+Hexaware Named Best Firm for FDE Talent to Work For by Analytics India Magazine
+Hexaware Named Best Firm for 
+FDE Talent to Work For  by 
+Analytics India Magazine
+v
+Hexaware Recognized Among Best Organization to Work 2026 by ET Edge
+Hexaware Recognized Among 
+Best Organization to Work 2026 
+by ET Edgev
+vv
+Hexaware Won in Five Categories at the Brandon Hall Excellence Awards 2026
+Hexaware Won in Five  Categories 
+at the Brandon Hall Excellence 
+Awards 2026
+v vv
+v v v
+v v v v
+Hexaware Named Leader in AWS Professional Services in the ISG Provider Lens® AWS Ecosystem 2026 US Quadrant
+Hexaware Named Leader  in AWS 
+Professional Services  in the ISG 
+Provider Lens® AWS Ecosystem 
+2026 US Quadrant
+Hexaware Named Leader in AI-powered Business Transformation with AWS in the ISG Provider Lens® AWS Ecosystem 2026 US Quadrant
+Hexaware Named Leader  in AI-
+powered Business Transformation 
+with AWS  in the ISG Provider Lens® 
+AWS Ecosystem 2026 US QuadrantHexaware Named Leader in Guidewire Services in the ISG Provider Lens® Guidewire Services 2026 Global Quadrant
+Hexaware Named Leader  in 
+Guidewire Services in the ISG 
+Provider Lens® Guidewire Services 
+2026 Global QuadrantHexaware Named Leader in Azure Data Transformation and AI Services in the ISG Provider Lens® Microsoft AI and Cloud Ecosystem 2026 US Quadrant
+Hexaware Named Leader  in 
+Azure Data Transformation and 
+AI Services  in the ISG Provider 
+Lens® Microsoft AI and Cloud 
+Ecosystem 2026 US Quadrant
+Hexaware Named Leader in Azure Managed Services in the ISG Provider Lens® Microsoft AI and Cloud Ecosystem 2026 US Quadrant
+Hexaware Named Leader  in 
+Azure Managed Services  in the 
+ISG Provider Lens® Microsoft AI 
+and Cloud Ecosystem 2026 US 
+Quadrant
+v v
+Hexaware Won Four Learning Awards at the TISS LeapVault CLO Awards 2026
+Hexaware Won Four  Learning 
+Awards at the TISS LeapVault  CLO 
+Awards 2026 
+Hexaware Received CSR Times Award 2026  (Jury Appreciation) in Environmental Sustainability category at the 13th National CSR  ESG Summit
+Hexaware Received CSR Times 
+Award 2026  (Jury 
+Appreciation)  in Environmental 
+Sustainability category at the 
+13th National CSR & ESG Summit
+Hexaware Named Leader in AI-ready Infrastructure Managed Services - Large Accounts In the ISG Provider Lens® Private/Hybrid Cloud Data Center Services 2026 UK Quadrant Report
+Hexaware Named Leader  in AI-
+ready Infrastructure Managed 
+Services - Large Accounts In the 
+ISG Provider Lens® Private/Hybrid 
+Cloud Data Center Services 2026 
+UK Quadrant ReportHexaware Named Leader in Azure Professional Services in the ISG Provider Lens® Microsoft AI and Cloud Ecosystem 2026 US Quadrant
+Hexaware Named Leader  in Azure 
+Professional Services  in the ISG 
+Provider Lens® Microsoft AI and 
+Cloud Ecosystem 2026 US 
+QuadrantHexaware Named Leader in Application Development Projects in the ISG Provider Lens® AI-driven ADM Services September 2026 US Quadrant Report
+Hexaware Named Leader  in 
+Application Development 
+Projects  in the ISG Provider 
+Lens® AI -driven ADM Services 
+September 2026 US Quadrant 
+ReportHexaware Named Leader in Continuous Testing Specialists in the ISG Provider Lens® AI-driven ADM Services September 2026 U.S. Quadrant Report
+Hexaware Named Leader  in 
+Continuous Testing Specialists  in 
+the ISG Provider Lens® AI -driven 
+ADM Services September 2026 U.S. 
+Quadrant ReportHexaware Mentioned in Forrester Landscape Report: The SAP Services Landscape, Q3 2026. Published: September 14, 2026, Analysts: Akshara Naik Lopez, Stephanie Balaouras, Faith Born
+Hexaware Mentioned in Forrester 
+Landscape Report : The SAP 
+Services Landscape, Q3 2026 . 
+Published: September 14, 2026, 
+Analysts: Akshara Naik Lopez, 
+Stephanie Balaouras , Faith BornHexaware Named Leader in Insurance Services - ITO in the ISG Provider Lens® Insurance Services – ITO 2026 Global Quadrant
+Hexaware Named Leader  in 
+Insurance Services - ITO  in the ISG 
+Provider Lens® Insurance Services – 
+ITO 2026 Global Quadrant
+=== page 13 ===
+12
+Creating Meaningful Impact Beyond Business
+Bringing Smiles to the Planet and Communities We Live In
+1,40,000  Lives Benefitted Through Our CSR Efforts
+Educational Initiatives 
+and Skill DevelopmentHealthcare 
+InitiativesEnvironmental 
+StewardshipWomen’s 
+EmpowermentSports InitiativesESG and Sustainability Awards
+• Ecovadis Assessment: Hexaware is in the top 15% globally . Awarded a Silver  medal with a score of 79, placing us in the 92nd percentile worldwide
+• S&P Global CSA: Got a score of 86/100 (improvement of 3 basis points) and 9 8th percentile  
+• Featured in Dun & Bradstreet’s flagship publication ‘India’s Top 500 Value Creators 2026’ as one of the ‘Value Creators of India ’ placing us among organizations 
+who are leading the way in creating sustainable value for all stakeholders, beyond just financial growth
+• NSE Sustainability Ratings - Hexaware received an ESG score of 76/100, earning a “Leader” classification that places the company among the top 10% of 
+organizations assessed for ESG performance
+Adopting Global Best Practices
+• Committed to near -term, long -term, and Net Zero targets approved by the Science Based Targets Initiative (SBTi)
+•    Successfully audited for ISO 14001, 45001 & 50001 by TUV in September 2026
+• Achieved the highest rating of “Platinum” as part of the  “Zero Waste to Landfill” assessment by TUV 
+Goal Actual Performance
+Achieve net zero greenhouse gas (GHG) emissions (Scope 1 and 2) by 2040 On track - Reduction by 24% from base year 2023
+Transition 85% of campus electricity usage to renewable sources by 2030 Achieved - 87% electricity from renewable sources on our own campuses
+40% women workforce by 2030 In progress – 35.92% 
+Students supported in STEM - 25,000+ by 2030 In Progress - 21,500 
+=== page 14 ===
+Thank You
+Please direct all inquiries to
+Investorrelations@hexaware.com
+=== page 15 ===
+Oct 2026Investor Factsheet –
+Q3CY26
+© 2026 Hexaware Technologies
+=== page 16 ===
+2 © 2026 Hexaware Technologies
+Quarterly MetricsChange
+In INR million unless stated otherwiseQ3CY26 Q2CY26 Q3CY25 QoQ (%) YoY (%)
+Revenue (USD Mn) $411.9 $405.4  $394.8  1.6% 4.3% 
+Revenue – Constant Currency (CC) 1.7% 4.5% 
+Revenue (INR Mn) 39,331 38,452  34,836  2.3% 12.9% 
+Profitability
+Reported EBIT (USD Mn) 50.2 55.3  58.0 (9.3%) (13.5%)
+Reported EBIT Margin (%) 12.2% 13.6% 14.7% -146 bps -252 bps
+Adjusted EBIT (USD Mn)* 56.9  55.3  58.0 2.9% (1.9%)
+Adjusted EBIT Margin (%)* 13.8% 13.6% 14.7% 17 bps -88 bps
+Reported EBIT(INR Mn) 4,791 5,236 5,124 (8.5%) (6.5%)
+Reported EBIT Margin (%) 12.2% 13.6% 14.7% -144 bps -253 bps
+Reported Profit (USD Mn) 44.9 34.9 41.9 28.8% 7.2% 
+Reported Profit Margin (%) 10.9% 8.6% 10.6% 230 bps 29 bps
+Reported Profit (INR Mn) 4,294  3,302  3,699  30.0% 16.1% 
+Reported Profit Margin (%) 10.9% 8.6% 10.6% 233 bps 30 bps
+Basic EPS (INR) 7.06 5.41 6.09 30.5% 15.9% 
+Cash Flow
+LTM Operating Cash Flows (OCF) 15,369 16,754 17,698 (8.3%) (13.2%)
+LTM OCF to Reported Profit (%) 109.6% 124.7% 126.6% -1516 bps -1709 bpsKey Financial Metrics
+*for Q3CY26, adjusted EBIT excludes Separation cost and Employee stock option compensation cost reversal associated with CEO exit in accordance with the terms of the contract amounting to USD 0.8 Mn, Professional fees associated with CEO exit USD 0.2 
+Mn, and Impairment of customer contract associated with an earlier acquisition USD 5.8 Mn ,respectively.
+=== page 17 ===
+3 © 2026 Hexaware Technologies
+Revenue by Vertical
+In INR million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25*% of 
+Revenue
+Financial Services 11,441 29.1% 11,029 28.7% 10,325 29.6% 
+Healthcare and Insurance 8,922 22.7% 8,897 23.1% 7,760 22.3% 
+Manufacturing and Consumer 6,299 16.0% 6,148 16.0% 5,653 16.2% 
+Professional Services 5,366 13.6% 5,313 13.8% 4,597 13.2% 
+Banking 3,720 9.5% 3,465 9.0% 3,030 8.7% 
+Travel and Transportation 2,703 6.9% 2,784 7.2% 2,730 7.8% 
+Technology, Products & Platforms 880 2.2% 816 2.1% 741 2.1% 
+Total Revenue 39,331 100.0% 38,452 100.0% 34,836 100.0% 
+Revenue by Geography
+In INR million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25*% of 
+Revenue
+Americas 28,907 73.5% 28,294 73.6% 26,418 75.8% 
+Europe 7,960 20.2% 7,669 19.9% 6,520 18.7% 
+Asia Pacific 2,464 6.3% 2,489 6.5% 1,898 5.4% 
+Total Revenue 39,331 100.0% 38,452 100.0% 34,836 100.0% 
+Revenue by IT, BPS, and Others
+In INR million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25% of 
+Revenue
+IT Services 33,778 85.9% 32,772 85.2% 29,179 83.8% 
+BPS 4,637 11.8% 4,399 11.4% 4,071 11.7% 
+Others 916 2.3% 1,281 3.3% 1,586 4.6% 
+Total Revenue 39,331 100.0% 38,452 100.0% 34,836 100.0% 
+Revenue by Onshore, Offshore IT Services
+In INR million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25% of 
+Revenue
+Onshore IT Services 17,949 53.1% 17,039 52.0% 14,929 51.2% 
+Offshore IT Services 15,829 46.9% 15,733 48.0% 14,250 48.8% 
+Total Revenue 33,778 100.0% 32,772 100.0% 29,179 100.0% Key Revenue Metrics – Q3CY26
+* Previous period numbers have been restated to reflect internal organization realignment of customers to verticals and geograp hies
+=== page 18 ===
+4 © 2026 Hexaware Technologies
+Revenue by Vertical
+In USD million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25*% of 
+Revenue
+Financial Services 120 29.1% 116 28.7% 117 29.7% 
+Healthcare and Insurance 93 22.7% 94 23.1% 88 22.3% 
+Manufacturing and Consumer 66 16.0% 65 16.0% 64 16.2% 
+Professional Services 56 13.6% 56 13.8% 52 13.2% 
+Banking 39 9.5% 37 9.0% 34 8.7% 
+Travel and Transportation 28 6.9% 29 7.2% 31 7.8% 
+Technology, Products & Platforms 9 2.2% 9 2.1% 8 2.1% 
+Total Revenue 412 100.0% 405 100.0% 395 100.0% 
+Revenue by Geography
+In USD million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25*% of 
+Revenue
+Americas 303 73.5% 298 73.6% 299 75.8% 
+Europe 83 20.2% 81 19.9% 74 18.7% 
+Asia Pacific 26 6.3% 26 6.5% 22 5.4% 
+Total Revenue 412 100.0% 405 100.0% 395 100.0% 
+Revenue by IT, BPS, and Others
+In USD million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25% of 
+Revenue
+IT Services 354 85.9% 346 85.2% 331 83.8% 
+BPS 49 11.8% 46 11.4% 46 11.7% 
+Others 10 2.3% 14 3.3% 18 4.5% 
+Total Revenue 412 100.0% 405 100.0% 395 100.0% 
+Revenue by Onshore, Offshore IT Services
+In USD million Q3CY26% of 
+RevenueQ2CY26% of 
+RevenueQ3CY25% of 
+Revenue
+Onshore IT Services 188 53.1% 180 52.0% 169 51.2% 
+Offshore IT Services 166 46.9% 166 48.0% 161 48.8% 
+Total Revenue 354 100.0% 346 100.0% 331 100.0% Key Revenue Metrics – Q3CY26
+* Previous period numbers have been restated to reflect internal organization realignment of customers to verticals and geograp hies
+=== page 19 ===
+5 © 2026 Hexaware Technologies
+Q3CY26 Q2CY26 Q3CY25
+# of IT business 
+professionals23,182 22,796 21,908
+# of BPS business 
+professionals12,705 11,710 11,682
+Total Headcount 35,887 34,506 33,590
+Voluntary Attrition rate 
+for IT service line(3) 11.1% 11.2% 11.4% 
+Utilization rate for IT(4)84.9% 84.8% 83.8% Customer Concentration(1)
+Q3CY26 Q2CY26 Q3CY25
+Top 5 customers 24.7% 25.3% 26.0% 
+Top 10 customers 35.4% 35.7% 37.0% 
+Top 20 customers 49.3% 48.7% 50.3% 
+Client Pyramid(2)
+Q3CY26 Q2CY26 Q3CY25
+$75 million + 2  2  3  
+$50 million + 4  4  4  
+$20 million + 17 16 15  
+$10 million + 32  34  30  
+$5 million + 67 65  65  
+$1 million + 205  206  199  Key Client and Operational Metrics
+Key Employee Metrics
+Notes : (1) Revenue  by customer  group  (top  5, top  10 and  top  20) is revenue  derived  by our  Company  from  these  customer  groups  on TTM  basis  
+preceding  the  relevant  date . (2) Client  Pyramid  is calculated  as number  of active  clients  for respective  period  based  on the  revenue  earned  from  these  
+customers  in the  last  twelve  months  preceding  the  relevant  date . (3) Total  number  of IT business  professionals  and  support  function  professionals  who  
+left  the  company  voluntarily  during  a period  divided  by average  number  of IT business  professionals  and  support  function  professionals  during  the  
+period  computed  on TTM  basis . (4) Total  hours  spent  by IT business  professionals  on customer  billed  assignments  divided  by the  total  available  base  
+hours . IT business  professionals  designated  as Mavericks  (campus  hires)  are included  in the  utilization  computation  after  completion  of an initial  period  
+of training  of up to four  months . Starting  Q2CY26, utilization  excludes  employees  working  on platforms .
+=== page 20 ===
+6 © 2026 Hexaware Technologies
+Other Key Metrics
+Days Sales Outstanding (DSO)
+# of Days^ Q3CY26 Q2CY26 Q3CY25
+DSO - Billed 41  39 37  
+DSO - Unbilled 36  39  36 
+USD / INR Exchange Rate
+Q3CY26 Q2CY26 Q3CY25
+Period Closing Rate 95.83  94.66  88.79  
+Period Average Rate 95.48  94.86  88.19  
+^DSO is computed based on trailing 3 months of USD revenue
+=== page 21 ===
+7 © 2026 Hexaware Technologies
+Change
+Q3CY26 Q2CY26 Q3CY25 QoQ (%) YoY (%)
+Revenue 411.9 405.4 394.8 1.6% 4.3% 
+Revenue – Constant Currency 1.7% 4.5% 
+(-) Employee Benefits Expense 240.8 238.9 224.9 0.8% 7.1% 
+(-) Other Expenses 111.8 102.6 101.8 9.0% 9.8% 
+(-) D&A 9.1 8.6 10.1 5.8% (9.9%)
+Reported EBIT 50.2 55.3 58.0 (9.3%) (13.5%)
+Reported EBIT Margin (%) 12.2% 13.6% 14.7% -146 bps -252 bps
+(+) Other Income (1.8) (5.3) 1.2 (66.0%) (250.0%)
+(+) Change in FV of Contingent Consideration 17.4 - - NM NM
+(-) Finance Costs 2.7 3.4 3.0 (20.6%) (10.0%)
+Profit before Exceptional item and Tax 63.1 46.6 56.2 35.4% 12.2% 
+Restructuring expenses 6.2 - - NM NM
+Profit before Tax 56.9 46.6 56.2 22.1% 1.2% 
+Total Tax Expense 12.0 11.7 14.3 2.6% (16.1%)
+Reported Profit 44.9 34.9 41.9 28.8% 7.2% 
+Reported Profit Margin (%) 10.9% 8.6% 10.6% 230 bps 29 bps
+Reported EBITDA* 74.9 58.6 69.3 27.7% 8.1% 
+Reported EBITDA Margin (%) 18.2% 14.5% 17.5% 372 bps 64 bpsSummary of Consolidated Profit and Loss in USD million
+* Reported EBITDA includes Other income and change in fair value of Contingent Consideration
+=== page 22 ===
+8 © 2026 Hexaware Technologies
+Change
+Q3CY26 Q2CY26 Q3CY25 QoQ (%) YoY (%)
+Revenue 39,331 38,452 34,836 2.3% 12.9%
+(-) Employee Benefits Expense 22,991 22,664 19,835 1.4% 15.9%
+(-) Other Expenses 10,678 9,735 8,988 9.7% 18.8%
+(-) D&A 871 817 889 6.6% (2.0%)
+Reported EBIT 4,791 5,236 5,124 (8.5%) (6.5%)
+Reported EBIT Margin (%) 12.2% 13.6% 14.7% -144 bps -253 bps
+(+) Other Income (169) (501) 103 (66.3%) (264.1%)
+(+) Change in FV of Contingent Consideration 1,663 - - NM NM
+(-) Finance Costs 254 328 260 (22.6%) (2.3%)
+Profit before Exceptional item and Tax 6,031 4,407 4,967 36.9% 21.4%
+Restructuring expenses 597 - - NM NM
+Profit before Tax 5,434 4,407 4,967 23.3% 9.4%
+Total Tax Expense 1,140 1,105 1,268 3.2% (10.1%)
+Reported Profit 4,294 3,302 3,699 30.0% 16.1%
+Reported Profit Margin (%) 10.9% 8.6% 10.6% 233 bps 30 bps
+Basic EPS (INR) 7.06 5.41 6.09 30.5% 15.9%
+Reported EBITDA* 7,156 5,552 6,116 28.9% 17.0%
+Reported EBITDA Margin (%) 18.2% 14.4% 17.6% 376 bps 64 bpsSummary of Consolidated Profit and Loss in INR million
+* Reported EBITDA includes Other income and Change in fair value of Contingent Consideration
+=== page 23 ===
+9 © 2026 Hexaware Technologies
+As of period ending
+Sep -26 Dec -25
+Assets
+Property, plant and equipment and intangible assets 10,010 9,415
+Right -of-use assets 6,083 6,116
+Goodwill 38,172 35,768
+Capital work -in-progress 721 505
+Deferred tax assets (net) 4,057 4,043
+Other non -current assets and investments in Equity Shares 1,915 1,789
+Trade receivables and unbilled revenue 33,177 25,431
+Other current assets 4,855 4,655
+Cash and cash equivalents (inc. restricted and MF Investments) 19,052 21,324
+Total Assets 1,18,042 1,09,046
+Equity and Liabilities 
+Equity 610 609
+Other Equity and reserves 71,559 62,549
+Non -controlling Interests (38) (32)
+Total Equity 72,131 63,126
+Non -current liabilities 554 535
+Deferred tax liabilities (net) 6 23
+Lease liabilities 6,524 6,807
+Trade payables 10,470 10,069
+Other current liabilities 19,259 17,458
+Contingent consideration 3,583 6,354
+Provisions 5,515 4,674
+Total Liabilities 45,911 45,920
+Total Equity and Liabilities 1,18,042 1,09,046Summary of Consolidated Balance Sheet in INR million
+=== page 24 ===
+10 © 2026 Hexaware Technologies
+9MCY26 9MCY25
+Profit before tax 14,569 14,013
+D&A, ESOP cost, Finance cost & other items 1,990 2,621
+Changes in working capital (6,589) (4,732)
+Taxes (2,749) (2,659)
+Net cash generated from operating activities (OCF) 7,221 9,243
+Capex (1,236) (1,296)
+Investment in MFs and Interest on Fixed Deposits (1,829) (3,051)
+Payment towards acquisition of business (2,787) (4,468)
+Net cash used in investing activities (5,852) (8,815)
+Proceeds from issue of shares 233 464
+Equity infusion by non -controlling shareholder 7 -
+Borrowings and lease payments (1,690) (1,389)
+Dividend paid (5,181) (3,494)
+Net cash used in financing activities (6,631) (4,419)
+Net cash outflow (5,262) (3,991)Summary of Consolidated Cash Flow in INR million
+=== page 25 ===
+11 © 2026 Hexaware Technologies
+Reconciliation of Adj. EBITDA (Based on USD P&L)
+Q3CY26 Q2CY26 Q3CY25
+Reported EBITDA Margin 18.2% 14.5% 17.5%
+Add: ESOP compensation cost 0.3% 0.2% 0.2%
+Add: ERP transformation cost(1) - - 0.4%
+Add: Separation cost and Employee stock option 
+compensation cost reversal associated with CEO 
+exit in accordance with the terms of the contract0.2% - -
+Add: Professional fees associated with CEO exit 0.0% - -
+Add: Acquisition related costs(2) - 0.1% 0.1%
+Add: Impairment of customer contract associated 
+with an earlier acquisition1.4% - -
+Less: Write back of earnout payment of an earlier 
+acquisition(4.2%) - -
+Less: Other income (excluding exchange rate 
+difference (net))(0.3%) (0.7%) (0.6%)
+Adjusted EBITDA Margin 15.6% 14.1% 17.6% 
+Note: (1) ERP transformation cost consists of professional fees, travel costs, license costs, and the cost of employees worki ng on the implementation of new ERP software (2) 
+Acquisition -related costs consist of professional fees incurred in relation to M&A activities
+=== page 26 ===
+12 © 2026 Hexaware Technologies
+About Hexaware Technologies
+We are a global digital and technology services company with artificial intelligence (“AI”) 
+at its core. We leverage technology to deliver innovative solutions that help our 
+customers in their digital transformation journey and subsequent operations. 
+We embed AI into every aspect of our solutions and have created a suite of platforms 
+and tools that allow our customers to adapt, innovate and optimize in this AI -first era. 
+We serve a diverse range of customers, including 30+ of the Fortune 500 organizations. 
+With a team of 35,887 employees in 30+ countries, our presence is spread across major 
+countries, nationalities, languages, time zones and regulatory zones. For more 
+information, please visit https://hexaware.com/
+Contact
+Investor Relations: 
+Ajay Joshi, Head of Investor Relations
+Investorrelations@hexaware.com
+Registered Office:
+8th Floor, 13th Level, Q1, Loma Co - Developers1 Private Limited , 
+Plot no. Gen -4/1, TTC Industrial Area,
+Ghansoli, Navi Mumbai - 400 710,
+Maharashtra, India 
+CIN: L72900MH1992PLC069662
+https://hexaware.com/Disclaimer
+Use of Non -GAAP Financials
+Hexaware has included certain non -GAAP financial measures in this presentation to supplement 
+Hexaware’s consolidated financial statements presented on a GAAP basis. These non -GAAP financial 
+measures may have limitations as analytical tools, and these measures should not be considered in 
+isolation or as a substitute for analysis of Hexaware’s results as reported under GAAP. 
+The non -GAAP financial information that we provide also may differ from the non -GAAP information 
+provided by other companies. We compensate for the limitations on our use of these non -GAAP financial 
+measures by relying primarily on our GAAP financial statements and using non -GAAP financial measures 
+only supplementally. 
+We believe that providing these non -GAAP financial measures in addition to the related GAAP measures 
+provides investors with greater transparency. We further believe that providing this information better 
+enables investors to understand Hexaware’s operating performance and financial condition.
+Rounding off
+Certain amounts and percentage figures included in this presentation have been subject to rounding 
+adjustments. Accordingly, figures shown as totals in certain tables may not be an arithmetic aggregation 
+of the figures preceding them.
+=== page 27 ===

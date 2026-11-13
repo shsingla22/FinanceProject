@@ -1,0 +1,390 @@
+ 
+ 
+  
+September 05, 2026 
+ 
+The BSE Limited 
+Corporate Relationship Department. Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001  SCRIP CODE: 543066 
+ 
+SECURITY: Equity Shares/Debentures  
+ 
+ The National Stock Exchange of 
+India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra-Kurla Complex. 
+Bandra (E), Mumbai - 400 051  SYMBOL: SBICARD 
+ 
+SECURITY: Equity Shares  
+ 
+Dear Sirs, 
+ 
+Re: Intimation under Regulation 30 of the SEBI (Listing Obligations and   
+Disclosure Requirements) Regu lations, 2015 -ESG Rating 
+ 
+Pursuant to Regulation 30 read with Schedule III of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we wish to inform you that SES ESG 
+Research Private Limited (a SEBI Registered ESG Rating Provider), vide its report dated September 04, 2026 has assigned an Environmental, Social, and 
+Governance (ESG) Score (Adjusted) of 80.2 for SBI Cards and Payment Services Limited based on the data pertaining to  FY 2025-26. The said report is attached 
+herewith. 
+ 
+Further, the ESG Score for FY 2024-25 was 79.7, reflecting an improvement of 
++0.5 year-on-year. 
+ 
+The same is also being uploaded on the website of the Company at www.sbicard.com .  
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For SBI Cards and Payment Services Limited 
+ 
+ 
+Payal Mittal Chhabra 
+Chief Compliance Officer & Company Secretary Date & Time of Event: - Sept ember 04, 2026 at around 10:21 PM 
+ 
+Enclosed: As above
+ 
+ 
+ 
+ 
+ 
+ 
+SBI Cards  and Payment  Services  Ltd. 
+ 
+DLF Infinity Towers, Tower C,  
+12th Floor, Block 2, Building 3,  
+DLF Cyber City, Gurugram - 122002, 
+Haryana, India  Tel.: 18001801290  
+Email: customercare@sbicard.com 
+Website: sb icard.com Registered Office,  
+Unit 401 & 402, 4th Floor, Aggarwal Millennium Tower,  
+E 1,2,3, Netaji Subhash Place, Wazirpur, New Delhi - 110034  
+CIN - L65999DL1998PLC093849  
+
+ 
+ ESG   
+ 
+SES Group  Services : Proxy Advisory  ESG BRSR Tool   E-Ballot  SES AIMS  CGS & Research  
+ 
+Note:  ESG ratings / scores do not constitute recommendations to buy, hold or sell any securities  
+ 
+ 1 | PA G E  SES ESG Research Pvt. Ltd . (SES ESG)  is registered with SEBI as an ESG Rating Provider under Category II  SEBI REGISTRATION #:  
+SES ESG is a wholly owned subsidiary of Stakeholders Empowerment Services, a not for profit organisation  IN/ERP/Category -II/0002  
+ 
+ESG REPORT  
+2026  SBI CARDS AND PAYMENT  SERVICES LIMITED Rating based on  FY 2025 -26 Data  
+Last updated: 4th Sept , 2026  
+ 
+About: SBI Cards and Payment Services Limited (“The Company” or “SBIC”) is engaged in the business of 
+issuing credit cards to consumers in India. The Company also acts as corporate insurance agent for selling 
+insurance policies to credit card customers.  
+INDUSTRY CLASSIFICATION  Finance  (Basic: Non -Banking Financial Company (NBFC))  
+ www.sbicard.com  
+BRSR Reporting  Standalone  
+BRSR (FY 2025 -26) Weblink  
+# of Plants  0 
+# of Offices  23 
+Assurance (Core)  Yes 
+ 
+ 
+FOOTPRINT  HIGH  MEDIUM  LOW  
+RATING  A+ A B+ B C D E 
+90-100 80-90 70-80 60-70 50-60 40-50 0-40 
+RISK  LOW  MEDIUM  HIGH  
+  SES ESG SCORE (ADJUSTED)  
+2025  2026  YOY Change  
+79.7  80.2   0.5 
+Note: Scoring is out of 100 | For Scoring explanation – Refer Annexure   Note: Wherever you see “ Red” think of future improvement  
+ 
+ 
+RATIONALE   PILLARS  (Adjusted Scores 
+& Weight)  
+The ESG score improved primarily due to improved Environmental and Governance 
+performance, while Social performance remained broadly stable. Environmental 
+pillar improved due to lower non-renewable energy consumption and Scope 1 and 
+Scope 2 emissions, increased renewable energy usage, and approximately 93% 
+waste recovery. However, the score was moderated by increased Scope 3 
+emissions and waste intensity remaining above the industry ben chmark.  
+Social pillar remained constrained by non -coverage of 87% of the workforce for skill 
+development and Health & Safety training, a material gender pay gap, limited 
+disclosure on benefits for non -permanent employees, two sexual harassment 
+complaints, and over one lakh customer complaints. These concerns were partly 
+offset by 39.3% representation of women in the workforce, zero work -related 
+fatalities, and no data breaches.  
+Governance pillar improved due to greater Board diversity, ESG -linked 
+remunerati on, the absence of regulatory penalties, and zero bribery cases. 
+However, the score was moderated by SES concerns regarding prolonged director 
+associations, and non -disclosure of individual Independent Directors' fees.    
+16.5%  38.5%  45% 
+WEIGHT  
+Note: Industry Risk (IR) / Controversy Adjusted Score  
+Refer ESG Scorecard  for details  
+For SES ESG Evaluation Methodology – Click here  
+For further details on pillar w ise information – Read more    
+ 
+ESG RATING RELATIVE POSITION   INDUSTRY RISK EXPOSURE (as per SASB/IFRS)  
+Pillars  Company  Industry  
+Median  Company v. Industry 
+Median Ratio  Industry  
+Max  Company v.  Industry 
+Max Ratio  
+ ESG 80 76 1.06  83 0.97  
+E 76 57 1.32  77 0.98  
+S 80 77 1.04  84 0.95  
+G 82 81 1.01  89 0.93  
+Note: Industry Score is based on FY 2024 -25 data of companies covered by SES (780)  
+ 
+RATING SENSITIVITY   PARIVARTAN SCORE (Transition)  
+[Based only on  quantitative parameters)  
+FACTORS  % WEIGHT  
+OUT OF 100  
+ Air Emissions  E 4.40  
+Waste Management  E 4.40  
+Cyber Security & Data Privacy  S 12.71  
+Customer Orientation & Welfare  S 8.66  
+Audit & Financial Reporting  G 11.25  
+Board Independence & Diversity  G 9.00  
+Note:  Rating Sensitiveness refers to top two categories in a Pillar that could have the potential to 
+impact the ESG profile of the entity. ( Read More ) Weight: 10.5 %  
+Analyses y -o-y change on key quantitative parameters  
+  75 80 81 76 80 82
+Environment Social Governance2025 2026
+Low 
+Risk
+Company's 
+Industry RiskMedium
+RiskHigh
+Risk
+822026
+SES COMMUNITY MEMBER I 
+■ ■ 
+SBI CARDS AND PAYMENT SERVICES L IMITED 2026  
+ESG  REPORT  
+ 
+  © SES  ESG  RESEARCH PVT. LTD. | ALL RIGHTS RESERVED  2 | PA G E  
+ 
+ 
+ESG SCORECARD – ADJUSTMENTS  
+ESG ADJUSTMENTS  
+ESG PILLARS  AS PER SES MODEL (Year: 2026)  AS PER  SECTOR AGNOSTIC  
+(Year: 2026)  
+RAW SCORE  CONTROVERSY  
+EXPOSURE (CE)  CE ADJUSTED 
+SCORE  INDUSTRY RISK  
+EXPOSURE (IR)  IR 
+ADJUSTED SCORE  
+(A) (B) (C) (A*B)  (D) (C*D)^  
+ESG 82.9  - 82.9  - 80.2  
+ENVIRONMENT  78.0  - 78.0  68.4  75.6  
+SOCIAL  85.7  - 85.7  61.4  79.6  
+GOVERNANCE  82.4  - 82.4  - 82.4  
+Note: For Score Adjustments – Refer to the explanation in the Annexure  | ^Adjusted Score is calculated based on 75% (C) Score & 25% Risk Exposure (D)  
+ 
+ ESG SCORECARD SNAPSHOT  (UNADJUSTED)  
+ESG SCORE CARD  
+ESG SCORE  DISCLOSURES SCORE  PERFORMANCE SCORE  COMPLIANCE  
+(Governance: Legal requirements)  NO CONTROVERSY SCORE  
+(100%= No controversy)  
+     
+ 
+Represents overall 
+unadjusted ESG score   
+Analyses company’s  
+disclosures level  Analyses facts, 
+performance, outcomes & 
+yoy change etc   
+Analyses company’s  
+Governance Compliance   
+Analyses whether any  
+Negative Controversy  
+ESG Scores are result of disclosures as well as performance, scored separately. The above scores are based on overall ESG par ameters. 
+Detailed breakup E, S & G pillar wise score is given on subsequent pages.  
+CORE  
+CORE PARAMETERS   ESG RATING HISTORY  
+Core Score is based exclusively on SEBI BRSR Core parameters and is presented separately from 
+the overall SES ESG Score.  
+Assurance Applicability  Yes 
+Provider Name  SGS India Pvt. Ltd  
+Type of Assurance  Reasonable Assurance  
+ 
+PARTICULARS  SCORE BASED ON DATA:  
+FULLY  
+ASSURED  PARTIALLY  
+ASSURED  UNASSURED  
+CORE ESG SCORE  
+[Disclosure of Core Parameters] [Weight: 20%]  100 NA NA 
+CORE PARIVARTAN SCORE  
+[y-o-y change / transition] [Weight: 80%]  64 NA NA 
+CORE COMBINED SCORE  
+[combination of Core ESG & Core Parivartan Score]  71 NA NA 
+Impact on Scores (weightage):  7.0%  NA NA 
+For detailed indicator -level analysis, refer to the detailed analysis  section.   
+DATE  ESG RATING  CHANGE  
+04-09-2026  80.2   
+26-08-2025  79.7   
+21-08-2024  78.3   
+Note: Details of ESG Ratings as provided 
+by SES ESG Research Private Limited.  
+ 
+ 
+Comments: SCIB has obtained reasonable assurance for BRSR Core parameters in FY 2025 -26.  
+  82
+832026
+202596
+942026
+202580
+812026
+202599
+982026
+2025100
+1002026
+2025
+I 
+SBI CARDS AND PAYMENT SERVICES L IMITED 2026  
+ESG  REPORT  
+ 
+  © SES  ESG  RESEARCH PVT. LTD. | ALL RIGHTS RESERVED  3 | PA G E  
+ 
+CONTROVERSY  
+CONT ROVERSY  
+SES ESG evaluates controversies at both Category and Pillar levels. Category -level controversies are assessed based on their severity, stakeholder 
+impact, regulatory actions, financial and reputational implications, and are reflected within the relevant ESG category score. Pillar -level controversies 
+are considered only in exceptional circumstances involving systemic failures, or issues that cannot be adequately captured th rough category -level 
+assessment. Depending on the natu re, severity, and materiality of the issue, SES ESG may apply negative score adjustments to appropriately reflect 
+the associated ESG risks.  
+EVALUATION CATEGORIES  CONTROVERSY  IMPACT  NET SCORE  
+ADJUSTMENT  
+ENVIRONMENT     
+Sustainable Product or Services  No NA NA 
+Energy Consumption  No NA NA 
+Renewable Energy  No NA NA 
+Air Emissions  No NA NA 
+Water Consumption  No NA NA 
+Effluents / Waste Water Management  No NA NA 
+Waste Management  No NA NA 
+SOCIAL     
+Workforce Diversity & Management  No NA NA 
+Human Rights  No NA NA 
+Health & Safety  No NA NA 
+Customer Orientation & Welfare  No NA NA 
+Product / Service Quality  No NA NA 
+CSR & Community Relations  No NA NA 
+Cyber Security / Data Privacy  No NA NA 
+GOVERNANCE     
+Board Independence & Diversity  No NA NA 
+Board Committees  No NA NA 
+Directors’ Remuneration  No NA NA 
+Statutory & Secretarial Auditors  No NA NA 
+Audit & Financial Reporting  No NA NA 
+Stakeholders Engagement  No NA NA 
+Ethics, Bribery & Other Governance  No NA NA 
+• No material controversies were identified across Environmental, Social and Governance categories. Accordingly, no controversy 
+adjustments were applied to the ESG assessment.  
+ 
+ 
+ 
+  
+I 
+SBI CARDS AND PAYMENT SERVICES L IMITED 2026  
+ESG  REPORT  
+ 
+  © SES  ESG  RESEARCH PVT. LTD. | ALL RIGHTS RESERVED  4 | PA G E  
+ESG SUMMARY: ENVI RONMENT  
+ SUMMARY  (UNADJUSTED SCORE)  
+  ENVIRONMENT  ENVIRONMENT SCORE  NO CONTROVERSY SCORE  
+  SES evaluates a company’s disclosures concerning the 
+environmental impact of its operations, along with measures 
+undertaken to mitigate such impacts. The analysis also assesses 
+whether the Company has made progress in reducing its 
+environmental footprint and whether it is meeting the 
+sustainability targets it has set for itself.  
+ 
+SCORE & WEIGHT  
+EVALUATION CATEGORIES  WEIGHT  OVERALL  DISCLOSURE  PERFORMANCE  
+2025  2026  YoY IND*  2025202620252026
+ENVIRONMENT  16.5%  77 78  53 89 88 74 76 
+General Disclosures & Practices  20%  87 87   81 100 100 84 84 
+Energy Consumption  20%  63 78  31 69 77 62 78 
+Renewable Energy  6.7%  29 42  13 79 79 16 33 
+Air Emissions  26.7%  64 75  37 79 87 60 72 
+Waste Management  26.7%  77 83  23 93 97 73 82 
+*Refers to the Median Industry Score calculated as per the SES evaluation methodology using FY 2024 -25 data. | Note: ⚫ 0-25, ⚫ 25-50,  ⚫ 50-75,  ⚫ 75-100 (Good Performance) 
+ 
+ • SBIC has disclosed Business Responsibility and Sustainability policy on its website.  
+• Company has CSR & ESG committee and Sustainability and Business Responsibility Committe e to oversee ESG 
+performance.  
+• Disclosed time bound targets and performances for certain key environmental parameters.  
+• Energy consumption from non -renewable sources and GHG (Scope 1+ Scope 2) emissions has decreased in absolute 
+and relative terms in FY 2025 -26 from FY 2024 -25. 
+• In FY 20 25-26, Renewable energy consumption has increased in absolute value and % share of total energy 
+consumption , remaining above the industry benchmark.  
+• ~93% of total waste recovered in FY 2025 -26.  
+• Compliant with applicable environmental law.  
+ • No disclosure made on whether Company operates in any green building certified facilities.  
+• Scope 3 emissions has increased in absolute and relative terms from FY 2024 -25.  
+• Waste generated has increased in FY 2025 -26 from FY 2024 -25. Also, w aste intensity linked to turnover remains above 
+industry benchmark.  
+ 
+  
+53
+78COMPANY
+INDUSTRY100
+1002026
+2025
+_I I 
+SBI CARDS AND PAYMENT SERVICES L IMITED 2026  
+ESG  REPORT  
+ 
+  © SES  ESG  RESEARCH PVT. LTD. | ALL RIGHTS RESERVED  5 | PA G E  
+ 
+ESG SUMMARY: SOCIAL  
+ SUMMARY  (UNADJUSTED SCORE)  
+  SOCIAL  SOCIAL SCORE  NO CONTROVERSY SCORE  
+  SES analyses a company’s disclosures regarding its relationship 
+with human capital and other stakeholders. This includes an 
+evaluation of the practices and policies adopted to ensure fair and 
+equitable treatment of all stakeholders, as well as an assessment 
+of the company’s performance in implementing these policies and 
+demonstra ting tangible outcomes over time.  
+ 
+SCORE & WEIGHT  
+EVALUATION CATEGORIES  WEIGHT  OVERALL  DISCLOSURE  PERFORMANCE  
+2025  2026  YoY IND*  2025202620252026
+SOCIAL  38.5%  86 86   77 99 96 83 83 
+Workforce Diversity & Management  17%  79 78  69 96 83 74 76 
+Human Rights  10%  92 91  85 100 94 91 91 
+Health & Safety  7.5%  72 77  88 100 92 66 73 
+Customer Orientation & Welfare  22.5%  73 71  85 100 100 68 66 
+CSR & Community Relations  10%  84 86  81 100 100 80 83 
+Cyber Security / Data Privacy  33%  100 100   83 100 100 100 100 
+*Refers to the Median Industry Score calculated as per the SES evaluation methodology using FY 2024 -25 data. | Note: ⚫ 0-25, ⚫ 25-50,  ⚫ 50-75,  ⚫ 75-100 (Good Performance)  
+ 
+ • Women represent 39.3% of total workforce in FY 2025 -26, significantly higher than the industry benchmark .  
+• Turnover rate for permanent employees has marginally declined in from FY 2024 -25 and remains significantly lower 
+than the observed industry benchmark .  
+• All permanent and non -permanent employees were paid more than minimum statutory wages during last two 
+financial years.  
+• Zero fatalities and safety related incidents reported in last three financial years.  
+• Zero cases of data breach  reported in last three FYs.  
+• Zero complaints reported on data privacy and cyber security since FY 2023 -24.  
+ • SBIC has not considered non -permanent workforce who account for 87% of total workforce in its coverage for 
+upskilling and health & safety training, resulting in weaker performance against industry peers.  
+• Coverage on human rights training has marginally de clined compared to FY 2024 -25.  
+• Material gap (more than 20%) observed in median remuneration between male and female employees.  
+• SBIC did not disclose if n on-permanent employees were provided health insurance, accident insurance, paternity 
+benefits and day care facilities.  
+• Reported 2 sexual harassment complaints during  FY 2025 -26.  
+• More than 1 lakh customer complaints reported during each of last three financial years.  
+• Less than 1% of wage cost was spent towards employment in rural and semi -urban regions in FY 2025 -26.  
+ 
+ 
+  
+77
+86COMPANY
+INDUSTRY100
+1002026
+2025

@@ -1,0 +1,162 @@
+ 
+ 
+February 02 , 202 6 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai -400 001.  
+Scrip Code: 543398  
+ National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051  
+Scrip Symbol: LATENTVIEW  
+ 
+Dear Sir/Madam,  
+ 
+Sub:  Press Release - Unaudited Financial Results  for the quarter  and nine months  ended 
+December 31 , 202 5.  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015,  we have enclosed herewith  the press release on the Unaudited  Financial 
+Results  of the Company for the quarter  and nine months  ended December 31 , 202 5. 
+ 
+This announcement is also made available  on the website of the company , i.e., 
+https://www.latentview.com/.  
+ 
+This is for your information and records.  
+ 
+ 
+  Thanking you,  
+  For Latent View Analytics Limited  
+ 
+       
+  
+    P. Srinivasan  
+    Company Secretary and Compliance Officer  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Press Re
+  
+  
+Press Release Q3FY26  
+LatentView Reports Strong Q3FY26 Results with 22.0% YoY Revenue Growth  
+and Adjusted EBITDA Margin at 23.0% 
+ 
+San Jose, California, USA – February 01, 2026 : Latent View Analytics Limited (BSE: 543398, NSE: 
+LATENTVIEW), an AI-driven analytics, data engineering, and consulting firm, today announced its financial 
+results for the third quarter ended December 31, 2025.  
+Rajan Sethuraman, Chief Executive Officer, LatentView, said ,  
+"We are pleased to report the 12th consecutive quarter of revenue growth, delivering 7.9% sequential 
+growth and 22% YoY expansion. Q3FY26 continued to be a seasonally strong quarter for us, in line with 
+historical trends, with performance reflecting consistent execution across the organization. During the 
+quarter, we added 6 new client logos, while renewing most of our existing contracts. Our Financial 
+Services practice continued to be a key growth driver, witnessing sequential growth of 20.6% and 
+reinforcing its strategic importance to our overall performance. As we enter FY27, we continue to see 
+strong, sustained momentum in Financial Services, reflecting the deep strategic role LatentView plays in 
+supporting our clients’ short-term priorities and long-term business goals.  
+2026 marks our 20th anniversary, and our commitment to turn data into impactful business decisions is 
+as strong as ever. Looking forward, we remain focused on scaling AI and Agentic AI frameworks across 
+the organization and strengthening our position as a trusted AI consultant and thought partner of choice 
+for our clients.”    
+Rajan Venkatesan, Chief Financial Officer, LatentView, said,  
+“In Q3FY26, we reported revenue of ₹2,780 million, witnessing sequential growth of 7.9% in rupee terms 
+and 5.7% in dollar terms, indicating strong momentum in topline performance. The growth was primarily 
+led by the Financial Services and Technology practices, which grew by 20.6% and 6.2%, respectively. 
+We maintained an adjusted EBITDA margin at 23.0%, supported by operational discipline, despite the 
+impact of one‑time costs. Excluding these one‑time items, adjusted EBITDA margin for the quarter would 
+have been 24.6%.  
+Employee costs for the quarter included a one‑time catch‑up expense related to the implementation of the 
+new labour code, with a total impact of ₹46 million at the group level. On a recurring basis, we expect this 
+to result in an incremental impact of approximately 10-15 basis points on margins going forward. We are 
+in the process of restructuring salary components to ensure full compliance with the new labour code and 
+expect this exercise to be completed by March 31, 2026.” 
+Key Financial Highlights                                                    
+Particulars  
+₹ Million Q3FY26 YTD FY26 QoQ                  
+Growth YoY           
+Growth FY25 
+Total Operating Revenue  2,780 7,716 7.9% 22.0%              8,478 
+Adjusted EBITDA  640 1,744 10.3% 22.7%     2,012 
+Adjusted EBITDA %    23.0% 22.6% 0.5% 0.1%          23.7% 
+EBITDA 621 1,688 10.6% 23.0%     1,957 
+EBITDA %   22.4% 21.9% 0.5% 0.2%       23.1% 
+PBT 668 1,905 8.2% 18.6%      2,287 
+PBT %   22.6% 22.9% 0.2% (0.6%)      25.0% 
+PAT 508 1,471 11.0% 18.6%     1,735 
+PAT %  17.2% 17.7% 0.6% (0.5%)     18.9% 
+Basic EPS ( ₹) 2.43 7.05 12.9% 19.6%     8.45 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Press Re
+  
+  
+Press Release Q3FY26  
+Select Key Client Wins in Q3FY26 
+● AI-powered tax and operations automation, including self-serve agents for audit disputes and tax 
+analytics, and GenAI-driven business documentation for a leading on-demand delivery platform. 
+● End-to-end data engineering, BI, and data science to drive eCommerce and customer experience 
+insights for a global automotive parts company. 
+● Advanced Revenue Growth Management (RGM) analytics for a global consumer products company 
+in LATAM, to calculate historical promo expenditures, cannibalization, elasticities, and ROI.  
+● Foundational architecture and governance, and automated workflows for a unified, future-ready data 
+platform spanning data operations, warehousing, and visualization for a leading FMCG company.  
+● End-to-end RGM transformation through integrated diagnostic and prescriptive analytics, with GenAI-
+enabled insight democratization for a global food products manufacturer.  
+● AI-powered procurement analytics transformation, delivering multi-dimensional spend analysis, 
+supplier performance insights, and payment-term optimization for a top brewing company.  
+Events: 
+● Not Another AI Conference : LatentView’s annual flagship roundtable in Menlo Park in October 
+brought together industry leaders to share real, impact-driven stories about AI implementation.    
+● Shifting Gears: A networking dinner for the manufacturing industry, with Databricks in Detroit.  
+● DataAisle, Mexico City: A CPG-focused event in October for industry leaders in LATAM.  
+● Leaders’ Circle:  Networking event for Databricks partners and clients in New York in November. 
+Key Highlights, awards, and recognition: 
+● Venky Ramesh has been appointed Chief Client Officer (Consumer, Retail & Marketplaces) to 
+strengthen client strategy and consulting priorities across global enterprise accounts.  
+● Awards: Gold and Bronze at People Matters Leadership Learning & Culture Awards . Winner, Peer 
+Support Excellence,  and Runner-up, Inclusive Workplace Champion,  by IEEE  Returning Mothers 
+Committee.  Winner,  Metrics That Matter, Udemy.  
+● Databricks featured  our solutions MARKEE as a Partner Accelerator for GenAI  and MigrateMate  as 
+a key GenAI Accelerator for Data and Platform Migration . 
+● Leader in the Specialized Data Science Service Providers  PeMa Quadrant 2025 by AIM. 
+● Best DevOps Team Project Delivering Business Value  (IT Services) at the India DevOps Show .  
+● Our co-founder, Pramad Jandhyala among the Most Powerful Women 2025  by Business Today .    
+About LatentView  
+Latent View Analytics Limited (LatentView) is a global data analytics company that inspires and transforms 
+businesses to excel in the digital world by enabling companies to predict new revenue streams, anticipate 
+product trends, improve customer retention rates, and optimize investment decisions. With 1650+ 
+employees, LatentView is a trusted partner to enterprises worldwide, including 40+ Fortune 500 
+companies in the Technology, Financial Services, CPG, Retail, and Healthcare sectors, with clients across 
+the United States, Chile, Mexico, Germany, UK, Netherlands, Singapore. For more information, please visit 
+https://www.latentview.com  or follow us on LinkedIn . 
+Safe Harbour   
+This release may contain certain forward-looking statements, which involve risks and uncertainties that 
+could cause actual results to differ materially from those that are projected by these forward-looking 
+statements. LatentView Analytics Ltd. undertakes no obligation to update forward-looking statements that 
+may be made by us from time to time by us or on our behalf.  
+For more information, please contact: 
+LatentView Analytics Limited  
+Srinivasan P - investorcare@LatentView.com  Ernst & Young LLP, Investor Relations   
+Diwakar Pingle - Diwakar.Pingle@in.ey.com  
+Asha Gupta - Asha.Gupta@in.ey.com   

@@ -1,0 +1,112 @@
+August  01, 2026  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai -400 001. 
+Scrip Code: 543398  National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex , Bandra East, 
+Mumbai 400 051  
+Scrip Symbol: LATENTVIEW  
+Dear Sir/Madam,  
+Sub:  Press release – Unaudited  financial  results  for the quarter ended June  30, 202 6. 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015,  we have enclosed herewith  the press release on the Unaudited  financial 
+results  of the Company for the quarter  ended June 30, 202 6. 
+This announcement is also available  on the website of the Company,  i.e., 
+https://www.latentview.com/.  
+This is for your information and records.  
+Thanking you,  
+For Latent View Analytics Limited  
+P. Srinivasan
+  Company Secretary and Compliance Officer  
+Membership No.  F11519  
+u·unturnru
+LatentView Reports Q1FY27 Revenue Growth of 21.6% with 
+YoY Revenue Growth and Adjusted EBITDA Margin at 20.4%; 
+Al Continues to Scale Across Engagements 
+Chennai, India -August 1, 2026: Latent View Analytics Limited (BSE: 543398, NSE: LATENTVIEW), an 
+Al-driven analytics, data engineering, and consulting firm, today announced its financial results for the 
+first quarter ended June 30, 2026. 
+Rajan Sethuraman, Strategic Advisor to the CEO, LatentView, said, 
+"We reported revenue growth of 21.6% on a YoY basis, supported by continued momentum in our 
+Financial Services and TMT practice, which grew by 110% and 4% on a YoY basis, respectively. Al 
+continues to play an increasingly important role across our business, impacting 81% of our 
+engagements, with 35% of our projects focused on delivering Al-driven outcomes for our clients. 
+Our GenAI and multi-agent systems are enabling clients to migrate legacy code, monitor environments in 
+real time, and analyze marketing performance to tap into their most pertinent business opportunities. 
+That is the full spectrum, from data engineering to the commercial front line. 
+I am delighted to welcome Sona/ Ramrakhiani as the CEO of LatentView. She joins us at an inflection 
+point for both the Company and the industry, and I look forward to supporting her closely through this 
+transition over the next few months." 
+Sonal Ramrakhiani, Chief Executive Officer, LatentView, said, 
+"We have a strong foundation in place that enables us to accelerate further. Our priority for the rest of 
+the year is to build on that momentum by deepening client relationships and staying focused on growth. 
+As Al reshapes what's possible for businesses, we are committed to delivering measurable outcomes 
+that help our clients move faster, create impact, and act with confidence." 
+Rajan Venkatesan, Chief Financial Officer, LatentView, said, 
+"Our Q1FY27 performance reflects the resilience of the business, with strong growth in Financial 
+Services largely offsetting the softness in the CPGR segment arising from certain one-time projects in 
+Q4FY26. Adjusted EB/TOA margin for the quarter stood at 20.4%, impacted by annual wage hikes 
+effective from 1st of April, along with seasonally higher visa and marketing costs. We remain focused on 
+driving sustainable and profitable growth through disciplined cost management, operational efficiency, 
+and Al-led productivity initiatives." 
+Key Financial Highlights 
+Particulars Q1FY27 Q4FY26 QoQ YoY FY26 if Million Growth Growth 
+Total Operating Revenue 2,869 2,886 (0.6%) 21.6% 10,602 
+Adjusted EBITDA 586 695 (15.7%) 12.0% 2,438 
+Adjusted EBITDA % 20.4% 24.1% (3.7%) (1.7%) 23.0% 
+EBITDA 567 675 (16.0%) 12.5% 2,362 
+EB/TOA% 19.8% 23.4% (3.6%) (1.6%) 22.28% 
+PBT 653 707 (7.7%) 5.3% 2,612 
+PBT% 21.2% 23.2% (2.0%) (2.7%) 23.0% 
+PAT 471 551 (14.5%) (6.9%) 2,021 
+PAT% 15.3% 18.1% (2.8%) (4.2%) 17.8% 
+Basic EPS (f) 2.33 2.55 (8.8%) (5.5%) 9.59 
+u·unturnru
+Select Key Client Wins in Q1FY27 
+•End-to-end data and business intelligence platform development, along with secure self-service
+reporting, to ensure faster, more precise decisions for a global data center infrastructure provider.
+•Pricing and supply chain analytics and foundational data support to enable smarter data-driven
+decisions across the value chain for a US-based recycled OEM automotive parts provider.
+•Unified data mesh architecture, cloud and platform modernization, and enterprise data governance
+for a global industrial automation company.
+•Supply chain automation and high-impact workflow automation for a global activewear brand.
+•Al-powered accelerator to automate Bl migration, enterprise data quality improvement, and data
+modernization for an audio and auto tech leader.
+•Strategic marketing analytics and dashboard modernization, with advanced Al-driven customer
+analytics and measurement frameworks for a leading asset management firm.
+•Cloud data migration, platform engineering, and data foundational work for a global fintech platform.
+Board & Advisory Council: 
+•We strengthened our Board with the appointment of senior finance leader Sudha Sankaran.
+•In the Advisory Council, we welcomed Kamal Sharma, a global connected digital hubs leader, and
+Puneet Talwar, an Al/ML expert in banking, financial services, and enterprise risk management.
+Events, Awards & Recognition: 
+•Not Another Al Conference in Amsterdam brought together European leaders across financial
+services, tech, and CPG to discuss what it takes to scale the promise of Al.
+•On the Dot, Mexico, had financial services and healthcare decision-makers sharing perspectives on
+Al opportunities and what's next for South America.
+•In Detroit, Shifting Gears focused on Al-driven innovation and operational excellence in Industrials.
+•Game Off Shores, Bengaluru, had experts sharing insights on Al enhancing the GCC ecosystem.
+•Named 'Leader' among Data Engineering Service Providers & GenAI Service Providers by AIM.
+•Named 'Disruptor' in Data Modernization and Al, 2026 Horizons report by HFS Research.
+•Won Gold for Excellence in Organizational Resilience & Preparedness at The Financial Express HR
+Summit & Awards, 2026.
+•Rajan Sethuraman featured among AIM's 100 Most Influential People in Al, 2026.
+About LatentView 
+Latent View Analytics Limited (LatentView) is a global Al-first data analytics company that inspires and 
+transforms businesses to excel in the digital world by enabling companies to predict new revenue 
+streams, anticipate product trends, improve customer retention rates, and optimize investment decisions. 
+With 1800+ employees, LatentView is a trusted partner to enterprises worldwide, including 40+ Fortune 
+500 companies in the Technology, Financial Services, CPG, Retail, and Healthcare sectors, with clients 
+across the United States, Chile, Mexico, Germany, UK, Netherlands, Singapore. For more information, 
+please visit https://www.latentview.com or follow us on Linkedln. 
+Safe Harbour 
+This release may contain certain forward-looking statements, which involve risks and uncertainties that 
+could cause actual results to differ materially from those that are projected by these forward-looking 
+statements. LatentView Analytics Ltd. undertakes no obligation to update forward-looking statements 
+that may be made by us from time to time by us or on our behalf. 
+For more information, please contact: 
+Latent View Analytics Limited 
+Srinivasan P - investorcare@LatentV iew.com Ernst & Young LLP, Investor Relations 
+Diwakar Pingle -Diwakar.Pingle@in.ey.com 
+Asha Gupta -Asha.Gupta@in.ey.com 

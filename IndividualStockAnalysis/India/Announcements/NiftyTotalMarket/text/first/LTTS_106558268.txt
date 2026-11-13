@@ -1,0 +1,158 @@
+ 
+Registered Office: L&T House, N. M. Marg, Ballard Estate, Mumbai - 400 001. INDIA                  CIN : L72900MH2012PLC232169  
+     Tel: +91 22 68925257  Fax: +91 2267525858  
+     L&T Technology Services is a subsidiary of Larsen & Toubro Limited  
+ 
+L&T Technology Services Limited  
+A.M. Naik Tower,6th Floor, L&T  Campus, 
+Gate No.3, Jogeshwari -Vikhroli Link Road,  
+Powai, Mumbai -400072.  
+www. ltts.com 
+ 
+           
+   
+   March  16, 2026 
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza,  C-1, Block G,  
+Bandra -Kurla Complex  Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400001  
+Bandra (East), Mumbai — 400 051  
+   
+NSE Symbol:  LTTS  BSE script Code:  540115  
+  
+ 
+ 
+ 
+Subject: Press Release  
+ 
+Dear Sir/Madam,  
+ 
+ 
+In furtherance to the announcement made by the Company on December 1, 2025 , we are sending 
+herewith a copy  of the Press Release titled  “L&T Technology Services Launches NVIDIA -Powered 
+AI Lung Digital Twin Platform for Advanced Respiratory Diagnostics ” which is self -explanatory.  
+ 
+This is for your information and record s. 
+ 
+Thanking You,  
+ 
+Yours sincerely,  
+ 
+For L&T Technology Services Limited  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prasad Shanbhag  
+Company Secretary & Compliance Officer  
+(M. No. A 30254 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                    IN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services   
+L&T Technology Services Launches NVIDIA -Powered AI Lung 
+Digital Twin Platform for Advanced Respiratory Diagnostics  
+ 
+Leveraging deep learning for immersive 3D visualization, integrated CT imaging workflows and enhanced 
+precision in lung navigation and surgical planning  
+ 
+San Jose  (California , USA) , March 16 , 2026 : L&T Technology Services Limited (BSE: 540115, NSE: LTTS), 
+a global leader in AI, Digital & R&D Consulting Services, has announced its next -generation, AI -powered 
+digital twin platform for lung navigation, surgical planning and respiratory diagnostics.  
+ 
+The platform combines LTTS’ industry -leading MedTech expertise across medical imaging, AI -driven 
+diagnostics, and connected healthcare systems with NVIDIA AI infrastructure to enable  greater precision and 
+enhanced outcomes.  
+ 
+LTTS’ lung digital twin solution integrates directly with CT imaging workflows and leverages deep learning 
+models to reconstruct a comprehensive 3D digital twin of the lungs. This redefines visualization of critical 
+anatomical structures including airways,  blood vessels, lung lobes, and lesions , enabling clinicians to explore 
+patient -specific lung anatomy in an immersive digital environment and simulate procedural pathways for 
+bronchoscopy and biopsy planning.  
+ 
+The platform is powered by NVIDIA Physical AI infrastructure, including:  
+● NVIDIA Omniverse  and OpenUSD  for interactive 3D digital twin visualization of lung anatomy and 
+supporting immersive exploration of complex structures,  
+● NVIDIA TensorRT  to drive  optimized AI inference performance across high -speed clinical workflows, 
+and 
+● NVIDIA MONAI  to enable  advanced medical image segmentation, enabling automated identification of 
+airways, vessels, tumors and lung lobes.  
+ 
+LTTS’ scalable digital twin platform  transforms static CT scans into dynamic, simulation -ready lung 
+models , allowing  clinicians to analyze anatomical relationships, plan surgical pathways and navigate 
+bronchoscopic  procedures with enhanced accuracy. The framework also supports advanced visualization, 
+automated segmentation, volumetric analysis, and navigation path planning, helping clinicians reduce pre -
+operative planning time and improve overall procedural safety.  
+ 
+“By combining LTTS’ engineering expertise in medical imaging and digital health platforms with the power of 
+NVIDIA’s Physical AI infrastructure, we are enabling a new generation of AI -powered biological digital twins for 
+precision medicine,” observed Amit Chadha, CEO & Managing Director, L&T Technology Services.  “These 
+platforms can transform how clinicians visualize lung anatomy, plan interventions and deliver precision care. 
+The impact will be visible across the global healthcare ecosystem in the years ah ead.”  
+ 
+David Niewolny, Head of Business Development for Healthcare and Medical Technology, NVIDIA , said, 
+“Digital twins are emerging as a powerful new tool for precision medicine.  By leveraging NVIDIA Physical AI 
+infrastructure, Omniverse, MONAI and TensorRT, LTTS is transforming CT data into interactive lung digital twins 
+that allow clinicians to visualize anatomy in 3D, simulate procedures and plan  clinical  interventions with greater 
+confidence.”  
+ 
+
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                    IN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services  With respiratory diseases such as lung cancer and COPD continuing to rise globally, AI -driven digital twin 
+technologies are expected to accelerate the shift from traditional imaging interpretation toward predictive, 
+simulation -driven and minimally invasive  intervention planning, enabling more personalized  and data -driven  
+treatment pathways.  
+ 
+ 
+About L&T Technology Services Ltd  
+ 
+L&T Technology Services (LTTS) is a global leader in engineering and technology services. A listed subsidiary 
+of Larsen & Toubro (L&T), we offer design, development, testing, and sustenance services across products and 
+processes.  
+ 
+Purposeful. Agile. Innovation.  is how we drive growth across the Mobility, Sustainability, and Tech 
+segments. Our customer base includes 69 Fortune 500 companies and 57 top ER&D companies across 
+industrial products, medical devices, transportation, telecom & hi -tech, and process indust ries. Headquartered 
+in India, we have over 23,635 employees across 22 global design centers, 31 global sales offices, and 100 
+innovation labs, as of December 31, 2025 . For more information, please visit https://www.LTTS.com/  
+ 
+Media Contact:  
+Aniruddha Basu       
+L&T Technology Services Limited     
+E: Aniruddha.Basu@LTTS.com   
+ 

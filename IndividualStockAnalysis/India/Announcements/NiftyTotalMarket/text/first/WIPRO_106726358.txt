@@ -1,0 +1,121 @@
+ 
+     
+ 
+ August 5, 2026 
+ The Manager - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager - Listing  
+National Stock Exchange of India Limited 
+(NSE: WIPRO)  
+  The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  Dear Sir/Madam,  
+ Sub: Press Release 
+ 
+Please find attached herewith copy of the Press Release which is being released today.  Thanking you,  
+For Wipro Limited  
+    M Sanaulla Khan  
+Company Secretary  
+ 
+ 
+ 
+  
+
+ 
+ 
+Wipro and Rubrik Launch Enterprise Resilience as a Service to 
+Deliver Continuous Cyber Resilience 
+  
+BENGALURU, India | EAST BRUNSWICK, N.J. –  Aug. 05, 2026: Wipro Limited (NYSE: WIT, 
+BSE: 507685, NSE: WIPRO), a leading AI-powered technology services and consulting company, 
+and Rubrik, the Security and AI Operations company, today announced the launch of Enterprise 
+Resilience as a Service (ERaaS) . The consulting -led, outcome-driven ERaaS is designed to help 
+enterprises prevent, withstand, and rapidly recover from cyber and operational disruptions.  
+ 
+As enterprises accelerate AI adoption and operate in increasingly complex digital environments, 
+ensuring continuous resilience against cyber and operational disruptions has become a critical 
+business priority. ERaaS enables organizations to move beyond the traditional backup and 
+disaster recovery model by operating as a continuously managed, enterprise-wide capability 
+across technology, operations, and business processes.  
+ 
+ERaaS  will enable continuous assessment of resilience posture, support recovery decisions, and 
+automate recovery workflows. The new service will transform resilience from a periodic, incident -
+triggered function to a predictive, self-optimizing capability that evolves continuously. The AI capabilities will be operationalized through Wipro’s AI-powered delivery platform WINGS , part of 
+Wipro Intelligence™, the suite of AI- powered platforms, solutions, and transformative offerings.  
+ “Where most resilience engagements start with technology, Wipro's starts with the business use 
+cases, and that distinction is what makes ERaaS stand out,” said Satish Yadavalli, Global 
+Business Head –  Cloud, Infrastructure, and Security Services, Wipro Limited.  “Together with 
+Rubrik's Zero Trust recovery capabilities, ERaaS will identify critical systems, map impact tolerances, and quickly establish recovery priorities. Leveraging our consulting capabilities, we 
+will work closely with clients to translate these insights into resilience-by -design architectures, 
+governance frameworks, and recovery playbooks."  
+ 
+“Together with Wipro, we are helping customers operationalize cyber recovery as a core part of a 
+broader enterprise resilience strategy,”  said Alok Agrawal, Chief Solutions Officer, Rubrik . 
+“Moments of disruption are inevitable, which is why this joint offering is critical for safe, confident, 
+agile recovery.”  
+ 
+ERaaS is built on Rubrik’s unified cyber and data resilience platform, offering capabilities such as 
+immutable protection, rollback of AI-driven changes, rapid identification of clean recovery points 
+and threat-aware recovery. The platform also supports the protection of critical identity systems, 
+enabling organisations to recover data, infrastructure and identities with greater confidence while 
+minimising downtime and business risk.  
+ 
+To find out more about Wipro and Rubrik ERaaS, visit here.  
+
+ 
+ 
+About Wipro Limited 
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading AI-powered technology 
+services and consulting company focused on building innovative solutions that address clients’ 
+most complex digital transformation needs. Leveraging our consulting-led approach and the 
+Wipro Intelligence™ unified suite of AI-powered platforms, solutions and transformative offerings, 
+we help clients realize their boldest ambitions to build intelligent and sustainable businesses. The 
+Wipro Innovation Network –part of the Wipr o Intelligence™ suite– underpins our commitment to 
+client-centric co-innovation and co-creation by bringing together capabilities from the innovation 
+labs and partner labs, academia, and global tech communities. With over 240,000 employees and 
+business partners across 65 countries, we deliver on the promise of helping our customers, 
+colleagues, and communities thrive in an ever -changing world. For additional information, visit us 
+at www.wipro.com . 
+ About Rubrik 
+Rubrik (NYSE: RBRK), the Security and AI Operations Company, leads at the intersection of data protection, cyber resilience, and enterprise AI acceleration. Rubrik Security Cloud delivers 
+complete cyber resilience by securing, monitoring, and recovering data, identities, and workloads 
+across clouds. Rubrik Agent Cloud accelerates trusted AI agent deployments at scale by 
+monitoring and auditing agentic actions, enforcing real -time guardrails, fine-tuning for accuracy 
+and undoing agentic mistakes. For more information, please visit www.rubrik.com  and follow 
+@rubrikInc on X (formerly Twitter) and Rubrik on LinkedIn.  
+Media Contact:  
+Wipro Limited 
+Dinesh Joshi  
+dinesh.joshi@wipro.com  
++919205264001 
+ 
+Forward- Looking Statements  
+The forward -looking statements contained herein represent Wipro's beliefs regarding future events, many 
+of which are by their nature, inherently uncertain and outside Wipro's control. Such statements include, but 
+are not limited to, statements regarding Wi pro's growth prospects, its future financial operating results, and 
+its plans, expectations and intentions. Wipro cautions readers that the forward- looking statements 
+contained herein are subject to risks and uncertainties that could cause actual results t o differ materially 
+from the results anticipated by such statements. Such risks and uncertainties include, but are not limited 
+to, risks and uncertainties regarding fluctuations in our earnings, revenue and profits, our ability to generate 
+and manage growt h, complete proposed corporate actions, intense competition in IT services, our ability to 
+maintain our cost advantage, wage increases in India, our ability to attract and retain highly skilled professionals, time and cost overruns on fixed- price, fixed -time frame contracts, client concentration, 
+restrictions on immigration, our ability to manage our international operations, reduced demand for 
+technology in our key focus areas, disruptions in telecommunication networks, our ability to successfully 
+complete and integrate potential acquisitions, liability for damages on our service contracts, the success of 
+the companies in which we make strategic investments, withdrawal of fiscal governmental incentives, 
+political instability, war, legal restrictions on rais ing capital or acquiring companies outside India, 
+unauthorized use of our intellectual property and general economic conditions affecting our business and 
+industry.  
+  
+ 
+ 
+Additional risks that could affect our future operating results are more fully described in our filings with the 
+United States Securities and Exchange Commission, including, but not limited to, Annual Reports on Form 
+20-F. These filings are available at www.sec.gov . We may, from time to time, make additional written and 
+oral forward- looking statements, including statements contained in the company's filings with the Securities 
+and Exchange Commission and our reports to shareholders. We do not undertake to update any forward -
+looking statement that may be made from time to time by us or on our behalf.  
+ 
+  

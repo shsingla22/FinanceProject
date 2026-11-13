@@ -1,0 +1,126 @@
+ 
+ 
+ 
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan -173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466  
+ 
+ 
+HFCL/SEC/ 2026-27                          July 08, 202 6 
+ 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com  
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+ 
+Subject: Press Release -  HFCL Introduces the OptiQ AI ™ Brand for its End -to-End Optical 
+Connectivity Portfolio  
+ 
+Dear Sir(s)/ Madam,  
+ 
+Attached please find herewith the Press Release on the captioned subject being issued today.  
+ We request you to kindly take the same on your  record and disseminate it on your website.  
+ 
+Thanking you.  
+ 
+Yours faithfully,  
+For HFCL Limited    
+  
+ 
+ (Manoj Baid)  
+President & Company Secretary  
+ 
+ 
+ 
+ 
+ 
+Press Release 
+For Immediate Release  
+ 
+HFCL Introduces the OptiQ AI ™ Brand for its End -to-End Optical Connectivity Portfolio  
+• HFCL assigns a uni�ied identity, OptiQ AI ™, to its existing optical connectivity portfolio serving AI, 
+cloud and hyperscale data centre customers.  
+• The OptiQ AI ™ portfolio is positioned to support high -bandwidth, high -density and rapid -
+deployment requirements of next -generation AI data centre networks.  
+• This integrated  portfolio brings together HFCL’s established data cen tre optical �iber cables and 
+accessories offerings, including IBR cables, �iber cable assemblies, patch cords, pigtails, trunks, 
+cassettes and enclosure panels.  
+• For hyperscalers, this means faster deployment cycles, reduced interoperability risks, and future -
+ready infrastructure supporting seamless migration to 800G and 1.6T networks.  
+Hyderabad, July 08, 2026:  HFCL Limited  (HFCL) , a leading global technology enterprise and innovator in 
+telecommunications and network infrastructure, today announced OptiQ AI ™ as the uni�ied brand 
+identity for its integrated optical connectivity portfolio, comprising its existing range of optical �ib er 
+cables and accessories designed for AI, cloud and hyperscale data centre environments.  
+The OptiQ AI ™ brand is intended to create a sharper market -facing identity for HFCL’s established optical 
+connectivity capabilities, which are already being offered to customers. OptiQ  AI™ brings together HFCL’s 
+proven product portfolio under a cohesive framework aligned with the evolving requirements of modern data centres, where optical connectivity has become a critical enabler of performance, scalability and 
+operational ef�iciency.  
+As GPU clusters scale toward 100,000- GPU deployments, traditional networking infrastructure is facing 
+mounting pressure from exponentially increasing bandwidth demands, tighter latency thresholds, growing 
+�iber  density requirements, and the need for faster deployment cycles. HFCL’s OptiQ AI ™ portfolio is 
+positioned to address these requirements through an integrated offering built around �ive key attributes: 
+High Quality, Quantum Bandwidth, Densely Quanti�ied, Quick Rollout and Q -Class Uptime.  
+Together, these pillars are designed to deliver the signal integrity required for high -performance AI 
+workloads, support the transition to 800G and 1.6T network architectures, maximize �iber  density within 
+constrained data centre footprints, accelerate deployment timelines, and enhance network reliability for 
+mission -critical environments.  
+A t  th e  c or e  o f  th e  po rt f ol i o  ar e  HF CL 's  In t e rmi tt e n tl y  B on de d  Ri b b on  (IB R)  Cables Portfolio , supporting 
+thousands of �iber  counts in an ultra -compact form factor. The portfolio is further complemented by 
+precision -engineered Fib er Pigtails, Patch Cords, High -Performance Trunks, Fib er Assemblies, and a 
+comprehensive suite of High -Density and Ultra -High -Density Cassettes and Enclosure Panels, creating an 
+integrated optical ecosystem purpose -built for AI, cloud, and hyperscale environments. Together, these 
+offerings can help reduce deployment complexity, support high �ib er density, mitigate interoperability 
+challenges and enhance accountability across large -scale AI and hyperscale data centre deployments.  
+ 
+
+Commenting on the portfolio identity, Mahendra Nahata, Managing Director, HFCL, said:  
+"Optical connectivity has moved from being a supporting layer of data centre infrastructure to becoming one 
+of the de�ining foundations of the AI era. As AI clusters scale and bandwidth requirements rise sharply, 
+customers need reliable, high -density and deployment -ready optical connectivity solutions. With OptiQ  AI™, 
+we are giving a uni�ied identity to HFCL ’s established optical portfolio, re�lecting the engineering depth, 
+manufacturing strength and customer focus that we have built over the years to serve demanding AI, cloud 
+and hyperscale environments .” 
+He further stated that “Industry reports project the AI optical market will grow from USD 14 billion today to 
+USD 73 billion by 2030 driven by increasing investments in AI data centres, high -performance computing 
+infrastructure and hyperscale cloud networks.  What is clear to anyone watching this industry closely is that 
+the supply chain for this infrastructure remains heavily concentrated in very few geographies. HFCL believes 
+that India has a meaningful opportunity to participate in this global shift by offering competitively manufactured, high -quality optical connectivity solutions from a resilient and agile supply chain.  As 
+hyperscalers accelerate investments in next -generation data centres, demand for high -density optical 
+connectivity solutions is expected to rise sharply. Backed by solid order pipelines, deep engineering capital, and a proven history of deploying large -scale optical te chnology across more than 60 countries, HFCL ’s localised 
+manufacturing model provides structural cost ef�iciency and an agile supply chain .” 
+About HFCL  
+HFCL is a leading technology enterprise with operations in high end Telecom and Defence Equipment, 
+Optical Fiber and Optical Fiber Cables and also creating digital networks for Telcos, Enterprises and 
+Defence  Forces. Over the years, HFCL has emerged as a trusted partner offering sustainable high -tech 
+solutions with a commitment to providing the latest technological products to its customers. Our strong 
+R&D expertise coupled with our global system integration s ervices and decades of experience in Fiber 
+optics enable us to deliver innovative digital network solutions required for the most advanced networks.  
+The Company’s in -house R&D Centers located at Gurgaon, Bengaluru and Hyderabad along with invested 
+R&D houses and other R&D collaborators at different locations in India and abroad, innovate a futuristic 
+range of technology products and solutions. HFCL has  developed capabilities to provide premium quality 
+Optical Fiber and Optical Fiber Cables, state -of-the-art Telecom Products including IP -MPLS Routers, 
+Backhaul Radios, Wi -Fi Systems and Defence products viz. Thermal Weapon Sights, Electronic Fuzes , High -
+Capacity Radio Relay and Surveillance Radars of different types.  
+HFCL operates advanced manufacturing facilities in Hyderabad, Goa, Chennai (through its subsidiary HTL 
+Ltd.) and Hosur for defence equipment.  
+HFCL is a partner of choice for its customers across India, Europe, Asia Pacific, Middle East, Africa and USA. 
+HFCL’s commitment to quality and environmental sustainability inspires it to innovate solutions for the 
+ever -evolving customer needs.  
+Visit www.hfcl.com   for more information.  
+HFCL Limited  
+Manoj Baid | Amit Agarwal | Alok Chander  
+ Email: manoj.baid@hfcl.com ,  amit.agarwal@hfcl.com ,   
+alok@hfcl.com    
+ 
+Contact: +91 11 35209400  Kommune PR  
+Ruby Sinha | Saurabh Gupta | Saurav  
+ Email: hfcl@kommune.in  
+   
+Contact: +91 98180 75578, +91 96542 44050  
+ 

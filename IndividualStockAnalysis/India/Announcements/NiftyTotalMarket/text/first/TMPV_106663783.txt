@@ -1,0 +1,274 @@
+ 
+ 
+ 
+June 15, 2026  
+Sc no.- 18933  
+ 
+Dear Sir/Madam,  
+  
+Sub:  Business Responsibility and Sustainability Report for the Financial Year 2025 -26 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, we are enclosing herewith the Business 
+Responsibility and Sustainability Report (‘BRSR’) for the Financial Year 2025- 26, along with an 
+Independent Reasonable Assurance Opinion Statement on the BRSR Core Indicators 
+(‘Statement’), provided by KPMG Assurance and Consulting Services LLP. The BRSR and 
+Statement both form an integral part of the Integrated Annual Report of Tata Motors  Passenger 
+Vehicles Limited (formerly Tata Motors Limited)  (‘the Company’) for the Financial Year 2025- 26. 
+ 
+The above information is also being made available on the Company’s website at 
+https://cars.tatamotors.com/investors/financial -information/annual -reports.html .  
+ 
+This is for information of the Exchanges and the Members.  
+ 
+Yours faithfully,  
+Tata Motors Passenger Vehicles Limited 
+(formerly Tata Motors Limited)  
+ 
+ 
+ 
+Maloy Kumar Gupta  
+Company Secretary & Chief Legal Officer  
+ 
+Encl: as above  
+ BSE Limited    
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort  
+  Mumbai 400 001  National Stock Exchange of India Ltd.  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai 400 051  
+ 
+  
+Business Responsibility & Sustainability Report (BRSR)
+TATA MOTORS PASSENGER VEHICLES LIMITED. 81ST INTEGRATED ANNUAL REPORT 2025-26180
+Section A: General Disclosures
+I. Details of the listed entity i.e Tata Motors Passenger Vehicles Limited
+1. Corporate Identity Number (CIN) L28920MH1945PLC004520
+2. Name of the Listed Entity: Tata Motors Passenger Vehicles Limited (formerly Tata 
+Motors Limited)
+3. Year of incorporation:  1945
+4. Registered office address: Bombay House, 24, Homi Mody Street, Mumbai 
+400001, Maharashtra, India
+5. Corporate Address: Bombay House, 24, Homi Mody Street, Mumbai 
+400001, Maharashtra, India
+6. E-mail: inv_rel@tatamotors.com 
+7. Telephone: +91 22 66658282
+8. Website: https://cars.tatamotors.com
+9. Financial year for which reporting is being done: 2025-26
+10. Name of the Stock Exchange(s) where shares are listed: BSE Limited  
+National Stock Exchange of  India Limited.
+11. Paid-up Capital: ₹737 crore 
+12. Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report: Name:  Mr. Jyotindran Sastabhavan Kutty 
+Designation: Chief Sustainability Officer
+Telephone Number: +91 20 6613 2781
+E-mail address: kutty@tatamotors.com
+ 13. Reporting boundary:  The reporting boundary for this report is at standalone entity level. Further, the reporting of 
+environmental and safety related KPIs such as energy, emissions, water, waste under Principle 3 and 6 do not include 
+the non-manufacturing locations (regional and corporate offices) of the Company. The Company has evaluated and 
+does not believe that this exclusion is material both qualitatively and quantitatively to the reporting under BRSR. The 
+information/data measurement techniques used, and the basis of calculations and estimates have been mentioned in 
+the relevant sections of this report.
+  During the reporting period, the Company implemented a demerger of its Commercial Vehicle (CV) business, pursuant 
+to a scheme of arrangement approved by the Hon’ble National Company Law Tribunal (NCLT) and other relevant 
+regulatory authorities (“Demerger Scheme”).
+  As per the Demerger Scheme, the CV business was transferred and vested into a separate entity with effect from the 
+appointed date, being July 1, 2025, while the Passenger Vehicle (PV) business continued to remain with Tata Motors 
+Passenger Vehicles Limited (formerly Tata Motors Limited) (Tata Motors Passenger Vehicles or ‘TMPVL’ or ‘Company’).
+  Accordingly, the Company’s operations during the financial year comprised:
+  a. Passenger Vehicles (PV) businesses for the period 1 April 2025 to 31 March 2026, and
+  b. Commercial Vehicles (CV) business for the period 1 April 2025 to 30 June 2025.
+  In view of the above restructuring, the Company has adopted a split-period reporting boundary for the purpose of this 
+BRSR, to ensure clarity, transparency and consistency with the post -demerger corporate structure.
+  Reasonable assurance has been sought on the BRSR Core and limited assurance on select indicators (other than core 
+indicators) for FY 2025-26.
+181 INTEGRATED REPORT 04   STATUTORY REPORTS  150   FINANCIALS CONSOLIDATED  311 STANDALONE  436  The reporting boundary has been determined as follows:
+  a. Main BRSR Report – Passenger Vehicle (PV) Business
+   The Main BRSR Report covers only the Passenger Vehicles (PV) business of Tata Motors Passenger Vehicles 
+Limited and includes:
+   • ESG disclosures relating to PV operations for the full financial year from 1 April 2025 to 31 March 2026.
+   • Data pertaining to manufacturing plants, employees, value chain and operational activities that form part 
+of the PV business.
+   • Year -on-year comparatives aligned to the PV business, to ensure meaningful comparability.
+   • During the reporting period, the Chinchwad facility in Pune, Maharashtra, became part of the Company 
+from October 2025, and disclosures for this facility have been presented across all parameters (i.e. for 6 
+months period).
+  b. Annexure I – Commercial Vehicle (CV) Business (Up to 30 June, 2025)
+   Given that the CV business formed part of Tata Motors Limited for a portion of the financial year, the Company 
+has provided disclosures relating to the CV business in Annexure I to this BRSR, with the following scope:
+   • ESG data and disclosures relating only to the period from 1 April 2025 to 30 June 2025 (pre -demerger 
+period).
+   • Disclosures are provided for parameters where data was available and attributable to the CV business.
+ 14. Name of Assurance Provider: KPMG Assurance and Consulting Services LLP (KPMG).
+ 15. Type of assurance obtained: Reasonable assurance has been obtained on BRSR core indicators and limited assurance 
+has been provided on select BRSR indicators (which are not part of BRSR core) for FY 2025-26.
+II. Products/Services
+ 16. Details of business activities (accounting for 90% of the Turnover):
+Description of main activity Description of business activity % of turnover 
+Automobile Manufacturing Manufacturing, Sales & Marketing, and Customer Support 99
+  17. Products / Services sold by the entity (accounting for 90% of the entity’s turnover):
+Sr. 
+No.Products/ Services NIC Code % of total turnover contributed
+1 Vehicles 291, 292, 293 82
+2 Spare parts & Misc Products 453 17
+III. Operations
+ 18. Number of locations where plants and/or operations/offices of the entity are situated:
+Locations Number of plants Number of offices Total
+National 4* 35 39
+International - - -
+	 	 							*As	a	result	of	the	demerger,	the	Chinchwad	Plant	currently	vests	with	the	Company	effective	from	1st October 2025.
+Business Responsibility & Sustainability Report (BRSR)
+TATA MOTORS PASSENGER VEHICLES LIMITED. 81ST INTEGRATED ANNUAL REPORT 2025-26182
+ 19. Markets served by the entity:
+  a) Number of locations:
+Locations Number
+National (no. of states) Pan - India
+International (no. of countries) 5
+  b) What is the contribution of exports as a percentage of the total turnover of the entity? 
+   0.4%
+  c) A brief on types of customers: 
+   The Company caters to a diverse range of passenger vehicle customers, spanning private buyers and fleet 
+operators, across India and global markets. Preferences vary across body styles, powertrains, and price points, 
+requiring a broad and flexible product strategy.
+IV. Employees
+ 20. Details as at the end of Financial Year: 2025-26
+  a)  Employees and workers (including differently abled)*:
+Sr.  
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Employees
+i. Permanent employees (D) 3,696 3,324 90 372 10
+ii. Other than Permanent employees (E) 408 337 83 71 17
+iii. Total Employees (D+ E) 4,104 3,661 89 443 11
+Workers
+iv. Permanent (F) 2,751 2,749 100 2 0
+v. Other than Permanent (G) 15,880 13,425 85 2,455 15
+vi. Total Workers (F +G) 18,631 16,174 87 2,457 13
+	 	 	 	 	*Pursuant	 to	the	applicability	 of	Labour	Codes	on	21	November	 2025,	a	defined	segment	 of	the	workforce	 may	qualify	for	classification	
+as	‘workers’,	 and	corresponding	 financial	 provisions	 have	been	recognized	 in	the	financial	 statements.	 However,	 separate	 systems	for	
+identifying	relevant	worker	categories	and	ensuring	compliance	with	the	Labour	Codes	are	in	the	process	of	implementation.
+   TMPVL a flagship Company of the Tata Group, has built its remarkable journey on a foundation of inclusivity, 
+empathy, and strong cultural values. As a leader in the automotive sector, it has taken significant strides in 
+promoting diversity, equity, and inclusion (DEI) across its workforce, supply chains, and customer base. This 
+holistic approach is deeply rooted in the Tata Group’s philosophy, which centres on building a sustainable and 
+equitable world for all. The Company's commitment to these principles has positioned it as not only a leader in 
+the automotive sector but also a champion of social equity and inclusivity. 
+   The Company respects differences that are fundamental to an individual’s identity, such as age, gender, ethnicity, 
+race, physical ability, mental ability, and sexual orientation, as well as latent and invisible differences that shape 
+our perspectives, like education, work experience, parental status, etc. The Company is committed to being an 
+equal opportunity employer, maintaining dignity and respect for all. 
+   The Company has a clear Equal Opportunity Employer Policy adhering with how the Company define DEI as 
+establishing an environment where diversity is embraced as a natural and integral part in the Company. The 
+Company believes and have witnessed—that a gender-balanced workforce leads to increased productivity, 
+better decisions, enhanced collaboration, and more innovative ideas. The Company is gradually focusing on 
+moving beyond gender and have received well-accepted dipstick research to support this as well.
+   In order to mobilize DEI in our DNA, the 10-point Lighthouse Approach has been framed to build a standardized, 
+mature model of DEI that helps us stay abreast of the latest societal developments and simultaneously 
+implement the same in the organization. These include enhancing gender diversity in the workforce along with 
+representation at the leadership level, with the goal of having 10% women in leadership by 2026. In adherence 
+to the Rights of Persons with Disabilities Act, 2016, the Company undertakes hiring initiatives for persons with 
+183 INTEGRATED REPORT 04   STATUTORY REPORTS  150   FINANCIALS CONSOLIDATED  311 STANDALONE  436disabilities. In parallel, the Company ensures a conducive working environment through measures such as 
+infrastructure readiness. During the year under reivew, the Company has hired a total of 17 PwDs and the hiring 
+drive is still on owing to the positive feedback received from business.
+   The Company is working towards creating an inclusive workplace culture through its policies and processes. The 
+Company organizes sensitisation and awareness campaigns to help create an open mind and culture to leverage 
+diversity at the workplace. The Company also keeps enhancing its DEI principles in the workforce through 
+processes like ISO DEI Audits, Culture Surveys, etc., thereby making its initiatives more holistic in contributing 
+better towards the empowerment of vulnerable sections of society and thus towards building a better future 
+for all.
+  b)  Differently abled employees and workers:
+Sr.  
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Differently Abled Employees
+i. Permanent employees (D) - - - - -
+ii. Other than Permanent employees (E) - - - - -
+iii. Total Employees (D+ E) - - - - -
+Differently Abled Workers
+iv. Permanent (F) - - - - -
+v. Other than Permanent (G) 63 55 87 8 13
+vi. Total Workers (F +G) 63 55 87 8 13
+   The Company has established Equal Opportunity Employer Policy in the organisation. The Company is committed 
+to providing equal opportunity to all its employees without regard to their race, caste, gender, religion, colour, 
+nationality, disability etc. All employee (includes permanent, temporary, trainees and contract employees) are 
+treated with dignity with a view to maintain a safe work environment. Moreover, the Company recognize the 
+Rights of Persons with Disabilities (RPWD) Act of 2016 in India serving as a guiding light, mandating measures to 
+ensure equal opportunities and access for people with disabilities. As the Company strives to adhere to these 
+regulations, they are presented with various strategies to enhance premise and office accessibility, especially in 
+locations that pose unique challenges.
+ 21. Participation / Inclusion / Representation of women:
+Particulars Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 8 3 37.50
+Key Management Personnel 2* - -
+  * Key Managerial Personnel excludes Managing Director as already included under Board of Directors.
+ 22. Turnover rate for permanent employees and workers :
+FY2025-26 FY2024-25 FY2023-24
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 6.8% 10.6% 7.2% 8.4% 11.2% 8.6% 9.0% 15.5% 9.5%
+Permanent Workers 0.1% 0.0% 0.1% 0.5% 0.0% 0.5% 0.5% 0.0% 0.5%
+  Note: Turnover rate includes those who leave voluntarily or involuntarily due to dismissal, termination, retirement or death.
+Business Responsibility & Sustainability Report (BRSR)
+TATA MOTORS PASSENGER VEHICLES LIMITED. 81ST INTEGRATED ANNUAL REPORT 2025-26184
+V. Holding, Subsidiary and Associate Companies (including Joint Ventures)
+ 23. Names of holding / subsidiary / associate companies / joint ventures:
+  Refer to Form AOC-1 provided in this Integrated Annual Report for the list of subsidiary companies. From the list of 
+subsidiary companies mentioned in AOC-1, the subsidiaries listed below participate in the Business Responsibility 
+initiatives of the Company. However, this BRSR covers information on sustainability information of TMPVL only.
+  1. Tata Passenger Electric Mobility Limited 
+VI. CSR details
+ 24. CSR Activities
+  I. Whether CSR is applicable as per Section 135 of the Companies Act, 2013: Yes
+  II. Turnover: ₹57,646 crore  
+  III. Net worth: ₹23,501 crore
+VII. Transparency and Disclosures Compliances
+ 25. Complaints / Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance redressal mechanism in place FY 26 FY 25
+If Yes, then provide web-link for grievance 
+redress policyNumber of  
+complaints 
+filedNumber of 
+complaints 
+pending 
+resolution 
+at the end of 
+the yearRemarksNumber of  
+complaints 
+filedNumber of 
+complaints 
+pending 
+resolution 
+at the end of 
+the yearRemarks
+CommunitiesYes. The Company has a community 
+feedback mechanism across its CSR projects 
+and any aggrieved individual/ groups can 
+express their Grievances through this 
+annual exercise or on an as and when 
+required basis. The Whistleblower Policy 
+has been formulated with a view to provide 
+a mechanism for any other stakeholders 
+of the Company including communities 
+to approach the Ethics Counsellor / Apex 
+Ethics Committee / Chairperson of the 
+Audit Committee of the Company or other 
+channels set out in this Policy, to report 
+violations of the Code of Conduct or any 
+other grievances.Nil Nil NA Nil Nil NA
+Investors 
+(other than 
+shareholders)Yes, the dispute resolution mechanism is 
+available. Grievances can be mailed at the 
+below link
+inv_rel@tatamotors.comNil Nil NA Nil Nil NA
+ShareholdersYes, the shareholders can register their 
+grievances on SEBI-SCORES https://scores.
+sebi.gov.in / and under ODR mechanism 
+https://smartodr.in/login212 29 NA NA NA NA

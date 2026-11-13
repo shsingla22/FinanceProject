@@ -1,0 +1,270 @@
+ 
+  
+            
+            
+            
+            \
+     
+HPIL/BS/Stx/2026-27            Dated: 30.06.2026 
+To, 
+Manager, 
+Listing Department 
+BSE Limited,  
+P.J. Towers, Dalal Street  
+Mumbai: 400 001 To, 
+Manager 
+Listing Department 
+National Stock Exchange of India Limited 
+"Exchange Plaza", Plot No. C/1,G Block, 
+Bandra Complex, Bandra (E), 
+Mumbai -400 051 
+ 
+Script Code: 543242            Symbol: HEMIPROP 
+ 
+Sub: Voting results of postal ballot by remote e-voting process. 
+Sir/ Ma’am, 
+This is further to our intimation dated May 29,2026, enclosing the copy of postal 
+ballot notice (“Notice”) for seeking approval of the Members of the Company by way of 
+remote e-voting on resolution set out in the Notice. 
+The remote e-voting process concluded at 5.00 p.m. (IST) on June 29, 2026. Based 
+on the report of the Scrutiniser, we hereby inform that the Members of the Company have 
+duly passed the said Resolutions with requisite majority. 
+Accordingly, please find enclosed: 
+a) Voting results of the said Postal Ballot through remote e-voting, in relation to the 
+aforesaid businesses, as required under Regulation 44 of the SEBI (Listing Obligations & 
+Disclosure Requirements) Regulations, 2015. 
+b) The Scrutinizer's Report dated June 29, 2026, pursuant to Sections 108 and 110 of the 
+Companies Act, 2013 read with Rules 20 and 22 of the Companies (Management and 
+Administration) Rules, 2014. 
+The voting results along with the Scrutiniser's report is also being made available on the 
+Company's website at www.hpil.co.in   
+This is for your information and dissemination. 
+Thanking you, 
+For Hemisphere Properties India Limited 
+ 
+ 
+Lubna 
+Company Secretary & Compliance officer 
+Encl. As above 
+      
+          HEMISPHERE PROPERTIES INDIA LIMITED            
+                        (A Government of India Enterprise) 
+  
+       हेमी˛े यर ŮॉपटŎज इंिडया िलिमटेड  
+                                     (भारत सरकार का उपŢम ) 
+ 
+    Reg. Office Address: 
+  Room No. 0923, 9th Floor,  
+  Sankalp Bhawan, GPOA-II, 
+  Kasturba Gandhi Marg. New Delhi 110001 
+    CIN: L70101DL2005GOI132162 
+    Website: www.hpil.co.in  
+    Email :info@hpil.co.in, Tel: 011-23783012/23783013  
+ 
+[1] [2][3]={[2]/[1]}*100 [4] [5][6]={[4]/[2]}*100 [7]={[5]/[2]}*100 [8]
+E-Voting 0 0.0000 0 0 0.0000 0.0000 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 0 0.0000 0 0 0.0000 0.0000 0
+E-Voting 3067842 68.2672 3065666 2176 99.9291 0.0709 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 3067842 68.2672 3065666 2176 99.9291 0.0709 0
+E-Voting 2693952 1.9983 2666962 26990 98.9981 1.0019 0
+Poll 0 0.0000 0 0 0.0000 0.0000 0
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000 0
+Total 2693952 1.9983 2666962 26990 98.9981 1.0019 0
+Total 285000000 5761794 2.0217 5732628 29166 99.4938 0.5062 0Hemisphere Properties India Limited
+Resolution Required :Ordinary 1 - To Approve Material Related Party Transaction with Hypervault AI Data Center Limited.
+Whether promoter/ promoter group are interested in the 
+agenda/resolution? YES
+CategoryMode of 
+VotingNo. of shares 
+heldNo. of 
+votes 
+polled% of Votes Polled 
+on outstanding 
+sharesNo. of 
+Votes – in 
+favourNo. of 
+Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledNo. of 
+votes 
+Invalid
+Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions145696885
+4493872
+134809243
+ 
+  
+ 
+SCRUTINIZER’S REPORT 
+ 
+[Pursuant to Section 108 and any other applicable provisions of the Companies Act, 2013 and Rule 
+20 & 21 of the Companies (Management and Administration) Rules, 2014 (as amended) read with 
+Ministry of Corporate Affairs Circulars and Regulation 44 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 read with SEBI Circular] 
+ 
+To  
+The Chairperson 
+Hemisphere Properties India Limited 
+Room No. 0923, 9th Floor 
+Sankalp Bhawan GPOA-II 
+Kasturba Gandhi Marg 
+New Delhi 110001. 
+ 
+Subject: Scrutinizer's Report on voting through remote e-voting for Postal Ballot conducted in 
+terms of Sections 108 and 110 of the Companies Act, 2013 (" Act") read with Rule 20 and 22 of the 
+Companies (Management and Administration) Rules, 2014 
+ 
+Dear Sir/Ma’am, 
+ 
+I, Maghisuddin, of M & Co., Practicing Company Secretaries (Membership No. A51216 and COP 
+27850) have been appointed as the Scrutinizer to conduct the Postal ballot through electronic 
+voting process (“remote e-voting”) in accordance with section 108 and 110 of the Companies Act, 
+2013 (“the Act”) read with Rule 20 of the Companies (Management and Administration) Rules, 2014 
+and Circulars and Notifications issued thereunder (MCA Circulars and SEBI Circulars), and applicable 
+provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI 
+LODR Regulations"), and other applicable laws, rules and regulations (including any statutory 
+modification or re-enactment thereof for the time being in force and as amended from time to 
+time), for the purpose of Scrutinizing the e-voting(Postal ballot) in a fair and transparent manner 
+and ascertaining the requisite majority on e-voting and Postal Ballot as per the provisions of 
+Companies Act, 2013.  
+ 
+The approval of Members were sought for Special Business(es) through postal ballot dated 
+20.05.2026  for 
+Approval Material Related Party Transaction with Hypervault AI Data Center Limited. 
+ 
+3. Pursuant to Sections 108, 110 and other applicable provisions, if any, of the Companies Act, 2013 
+(" Act") read with Rule 20 and 22 of the Companies (Management and Administration) Rules, 2014 
+(including any statutory modification(s) and/ or re-enactment(s) thereof for the time being in 
+force), guidelines prescribed by the Ministry of Corporate Affairs (the "MCA"), vide 14/2020 dated 
+April 8, 2020, 17/2020 dated April 13, 2020, and subsequent circulars issued in this regard, the 
+latest being General Circular No. 03/2025 dated September 22, 2025 issued by the Ministry of 
+Corporate Affairs (“MCA”) (hereinafter collectively referred to as “MCA Circulars”) Secretarial 
+Standard on General Meetings issued by the Institute of Company Secretaries of India (“SS-2”) and 
+any other applicable law, rules and regulations (including any statutory modification(s) or re-
+
+ 
+ enactment(s), the items of special business as set out in the Notice were placed for approval of the 
+members of the Company through remote electronic voting ("remote e-voting") only.   
+4. Members were required to communicate their assent or dissent only through remote e-voting 
+system in terms of the said MCA Circulars. 
+ 
+5. The remote e-voting period commenced on Sunday, 31st May, 2026, at 9:00 a.m. (IST) and 
+concluded on Monday, 29th June, 2026, at 5:00 p.m. (IST). 
+ 
+6. The voting was blocked at 5:00 p.m. (1ST) on Monday, 29th June, 2026 and thee-voting summary 
+statement was thereafter downloaded from e-voting website of CDSL i.e. 
+https://www.evotingindia.com/   
+ 
+7. The remote e-voting facility was provided by Central Depository Services (India) Limited 
+(CDSL).https://www.evotingindia.com/  
+ 
+8. The register, in accordance with Rule 20(4)(xiv) and Rule 22(10) of the Companies (Management 
+and Administration) Rules, 2014, has been maintained electronically to record the assent or dissent 
+received, mentioning the particulars of name, address, folio number or client ID of the members, 
+number of shares held by them. There were no shares with differential voting rights in the 
+Company, hence there is no requirement of maintaining of the list of shares with differential voting 
+rights. 
+ 
+9. We hereby submit my Scrutinizer Report on the result of the voting through electronic means 
+and in respect of the said items, details of the voting and result(s) for individual item(s) are attached 
+here within Annexure A  and forming part of the Report, mentioned as under 
+ 
+For M and Co  
+Company Secretaries 
+ 
+ 
+ 
+Maghisuddin 
+Proprietor  
+Membership No.: A51216; CP No. 27850  
+PR No.: 6507/2025 
+UDIN: A051216H000707564 
+Firm Registration No.: S2025DE1011000 
+ 
+Date :30-06-2026 
+Place : New Delhi 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+MAGHIS
+UDDINDigitally 
+signed by MAGHISUDDIN
+ 
+ Annexure A 
+(Forming part of the Postal Ballot Scrutinizer Report dated June 29, 2026) 
+Item No. 1 : To Approve Material Related Party Transaction with Hypervault AI Data Center Limited. 
+ 
+Particulars  Number of Members who have 
+voted through Remote e-votes Number of corresponding 
+Remote e-votes Percentage (%)  
+Assent 519 5732628 99.49% 
+Dissent 67 29166 0.51% 
+Total 586 5761794 100% 
+ 
+ 
+Mode of voting  Invalid votes  Abstained votes  
+No. of Members 
+who have voted 
+through e-voting  No. of votes  No. of Members 
+who have 
+abstained on 
+voted through e-
+voting No. of votes  
+Remote e-voting Nil Nil Nil Nil 
+ 
+ 
+Accordingly, out of the total 5761794 valid votes polled through e-votes, 5732628 votes were cast 
+ASSENTING to the Special Resolution constituting 99.49% (Approx.) of the valid votes polled and 
+29166 votes were cast DISSENTING to the Special Resolution constituting 0.51% (Approx.) of the 
+valid votes polled. 
+Based on the above result, I report that the Special Resolution as set out in Item No. 1 of the Notice 
+is passed with Requisite Majority. 
+ 
+The electronic data and all other relevant records relating to remote e-voting are under my safe 
+custody and will be handed over to the Company Secretary/ Authorized Person for preserving safely 
+after the results of the Postal Ballot are declared. 
+For M and Co  
+Company Secretaries 
+ 
+ 
+Maghisuddin 
+Proprietor  
+Membership No.: A51216; CP No. 27850  
+PR No.: 6507/2025 
+UDIN: A051216H000707564 
+Firm Registration No.: S2025DE1011000 
+ Countersigned 
+For Hemisphere Properties India Limited 
+ 
+ 
+Lubna 
+Company Secretary & Compliance Officer 
+Membership No.: A53597 
+ 
+ 
+Date :30-06-2026 
+Place : New Delhi Date :30-06-2026 
+Place : New Delhi 
+ 
+MAGHIS
+UDDINDigitally signed 
+by 
+MAGHISUDDIN
+LUBNADigitally signed by 
+LUBNA 
+Date: 2026.06.30 
+11:49:38 +05'30'

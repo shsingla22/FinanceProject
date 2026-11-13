@@ -1,0 +1,120 @@
+ 
+ 
+Date: January 28, 2026  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606    
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+ 
+ 
+Subject: Press Release - Pine Labs expands its footprint in Sri Lanka by deploying an API -first Card 
+Issuing and Processing Platform for Pan Asia Bank  
+ 
+Dear Sir/Ma’am,  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith press release in respect of Pine Labs expanding its footprint in Sri Lanka by 
+deploying an API -first Card Issuing and Proce ssing Platform for Pan Asia Bank.  
+ 
+The above information will also be available on the website of the Company at 
+https://www.pinelabs.com/investor -relations .  
+ 
+You are requested to take the same on record.  
+ 
+Thank You.  
+ 
+For Pine Labs Limited  
+ 
+  
+ 
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl: a/a  
+ 
+      
+ 
+ 
+ 
+Pine Labs expands its footprint in Sri Lanka  by deploying an API -first Card Issuing and Processing 
+Platform for Pan Asia Bank  
+ 
+Colombo , Sri Lanka  - January 28, 202 6 – One of Sri Lanka’s largest listed entities, the Pan Asia Banking 
+Corporation (PABC) and global fintech platform Pine Labs  have today announced a partnership that will 
+see the fintech major implementing a n end-to-end card management platform for the bank . 
+Under this partner ship, Pine Labs will  deploy a full -stack Credit Card Management System for Pan Asia 
+Bank . This platform will support high transaction concurrency  and uptime, giving the bank  flexible and 
+scalable product configurations . Pine Labs ' Credit+ platform will be used for end-to-end issuance of credit 
+cards for the bank , including card issuance, activation, billing, payment processing, reconcil iation , and 
+settlement.  
+ 
+Commenting on the partnership , B Amrish Rau , CEO, Pine Labs , said “Our engagement with Pan Asia Bank 
+is around  implementation of  a modern credit card management platform using our cloud -native  and API-
+first card management technology . Our platform will help the bank handle the entire card lifecycle giving 
+them complete control over configurations, limits, and program logic as volumes scale. ” 
+ 
+“This partnership with Pine Labs marks an important milestone in our digital transformation journey as it 
+further strengths our ability to deliver faster, smarter and more secure card services to our customers, 
+while building the scalable infrastructure req uired to support our long -term growth and innovation 
+agenda ,” said Naleen Edirisinghe, Director/Chief Executive Officer , Pan Asia Bank .  
+ 
+Credit+ platform of Pine Labs will integrate seamlessly with the bank’s core banking platform  and payment 
+networks . It will deliver rule -based controls and configurable limits via APIs. The customized architecture 
+of the platform will help Pan Asia Bank introduce new card products, give real -time authorization, 
+seamlessly modify controls, and swiftly respond to regulatory or market changes without making major 
+changes to its core banking infrastructure.  
+ 
+This is the second major banking client for Pine Labs in Sri Lanka  within a span of few months . As banks in 
+the region continue to embrace agile alternatives to legacy card systems, Pine Labs is well positioned as a 
+trusted technology partner to deliver innovative and future -ready card issuing and processing solutions.  
+ 
+About Pan Asia Bank  
+ 
+Pan Asia Bank, the Truly Sri Lankan Bank, is one of the leading financial institutions in Sri Lanka, known for 
+delivering world -class products and services. As a pioneer in Sri Lanka’s banking industry, Pan Asia Bank 
+has many firsts, to its credit across t echnology platforms, unique products and superlative service. The 
+Bank has developed a unique reputation and culture of being ambitious, results -oriented, respectful and 
+caring, and supportive of traditional values - a true testament of the brand’s positio ning as a Truly Sri 
+Lankan Bank. Pan Asia Banks’ spirit of innovation and growth coupled with a prudent approach to growth 
+and risk has served it well in the most challenging years in the banking industry.  
+ 
+Pan Asia Bank’s prosperity is linked inextricably to the communities it serves, helping them to face 
+challenges with confidence through financing sustainable projects and conducting meaningful Corporate 
+Social Responsibility projects to uplift communities.  
+      
+ 
+ 
+ 
+ 
+About Pine Labs  Limited  
+ 
+Pine Labs  Limited is a technology company digitising commerce, through digital payments and issuing 
+solutions in India and across the globe. We have built an advanced technology infrastructure to help 
+accelerate the digitisation journey of merchants, consumer brand s, enterprises, and financial institutions. 
+We operate in India and a growing number of international markets including Malaysia, Philippines, UAE, 
+Singapore, Australia, USA, and Africa.  
+ 
+Our digital payments business represents a one -stop software solution across channels, including online 
+payments designed to deliver secure and smooth online payment experiences to the end user, powered 
+by a tech stack. We also provide integrated affordabi lity solutions for merchants and consumer brands 
+and enterprises, and Fintech infrastructure solutions for financial institutions.  
+ 
+Our issuing business offers a full -stack, end -to-end technology service solution in physical prepaid 
+instruments, gift cards, and sales/ distribution space, with a presence in multiple countries and with 
+brands and customers from the retail, hospitality an d travel industries. We offer prepaid instruments 
+primarily in India, Middle East, Southeast Asia, Australia and the United States and we presently offer 
+Credit+ in India, Sri Lanka, Middle East, Africa, and Southeast Asia.  
+ 
+To know more, please visit www.pinelabs.com  
+ 
+ 

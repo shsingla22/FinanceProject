@@ -1,0 +1,991 @@
+ 
+       Cipla Ltd.   
+       Regd. Office -  Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+       P +91 22 41916000   W  www.cipla.com    E-mail  contactus@cipla.com    Corporate Identity Numbe r L24239MH1935PLC002380  
+ 
+ 
+ 
+27th October , 2026 
+ 
+(1) BSE Limited  
+Listing Department                          
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+Scrip Code: 500087  (2) National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza, 5th floor,  
+Plot no. C/1, G Block,  Bandra Kurla C omplex 
+Bandra (East), Mumbai -  400 051 
+Scrip  Symbol : CIPLA  
+(3) SOCIETE DE LA BOURSE DE LUXEMBOURG  
+Societe Anonyme  
+35A Boulevard Joseph II,  
+L-1840 Luxembourg  
+ 
+Sub: Unaudited financial results (standalone and consolidated) for the quarter  and half year  ended  
+30th September , 2026  
+ 
+ Dear Sir / Madam,  
+ 
+Pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations , 2015, the Board of Directors of the Company at its meeting held today i.e., 2 7th October , 2026, 
+has inter‐alia  approved the unaudited financial results (standalone and consolidated) for the quarter and 
+half year ended 30th September , 2026.  
+ 
+In this regard, please find enclosed the following for the quarter and half year ended  30th September , 2026:  
+• Unaudited financial results (standalone and consolidated) as per Indian Accounting Standards; and  
+• Limited review report (standalone and consolidated) issued by M/s B S R & Co. LLP, Statutory Auditors 
+of the Company .  
+ 
+The Board meeting of the Company commenced today at 10:00 a.m. (IST) and is still in progress . The 
+conclusion time of the meeting will be separately intimated to the Stock Exchanges upon completion of 
+proceedings.  
+ 
+The above- mentioned documents will also be available on the Company’s website at www.cipla.com  in the 
+Investors Section.  
+ 
+Kindly take the above information on record.  
+ 
+Yours faithfully,  
+For Cipla Limited   
+ 
+ 
+Rajendra Chopra  
+Company Secretary  
+Encl: As above  
+ 
+Prepared by: Neelam Padwad  
+ 
+Cipla Ltd.  
+Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+1/ 5 
+ 
+STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED  30TH SEPTEMBER , 202 6 
+    
+                                                                                         (₹ in Crore)          
+Year ended
+30-09-2026 30-06-2026 30-09-2025 30-09-2026 30-09-2025 31-03-2026
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+1.   Revenue from operations
+      a) Revenue from sale of products (refer note 9)         7,368.15         7,077.02         7,447.42       14,445.17       14,284.46       27,711.69 
+      b) Other operating revenue               35.78               42.26             142.02               78.04             262.45             450.90 
+       Total revenue from operations         7,403.93         7,119.28         7,589.44       14,523.21       14,546.91       28,162.59 
+2.   Other income             151.16             210.90             268.95             362.06             527.51             882.01 
+3.   Total income (1+2)         7,555.09         7,330.18         7,858.39       14,885.27       15,074.42       29,044.60 
+4.   Expenses
+      a) Cost of materials consumed              1,523.74         1,356.93         1,528.16         2,880.67         2,997.51         5,841.62 
+      b) Purchases of stock-in-trade         1,312.59         1,251.70             892.98         2,564.29         1,918.00         4,451.37 
+      c) Changes in inventories of finished goods, 
+           work-in-progres and stock-in-trade          (202.59)               58.55               76.50           (144.04)           (247.16)           (743.88)
+      d) Employee benefits expense         1,474.61         1,497.41         1,314.80         2,972.02         2,627.10         5,366.33 
+      e) Finance costs               16.74               17.03               13.18               33.77               27.23               54.39 
+      f) Depreciation, impairment and amortisation expense             344.86             304.24             296.99             649.10             549.71         1,210.98 
+      g) Impairment of investment in associates (refer note 7)                      -   -                   -                   -                   -                                 42.02 
+      h) Other expenses (refer note 9)         1,907.80         1,762.39         1,882.25         3,670.19         3,578.57         7,322.23 
+      Total expenses         6,377.75         6,248.25         6,004.86       12,626.00       11,450.96       23,545.06 
+5.  Profit before exceptional items, tax and share of profit/(loss) from 
+associates (3-4)        1,177.34         1,081.93         1,853.53         2,259.27         3,623.46         5,499.54 
+6.  Exceptional item - (Loss) (refer note 4)                      -   -                   -                   -                   -                   (275.91)          
+7.  Profit before tax and share of profit/(loss) from associates (5+6)         1,177.34         1,081.93         1,853.53         2,259.27         3,623.46         5,223.63 
+8.  Tax expense/ (credit) (net) 
+         a) Current tax             372.33             392.78             468.40             765.11             997.95         1,440.95 
+         b) Deferred tax             (51.51)              (97.95)               32.06           (149.46)              (19.61)              (87.11)
+Total tax expense (net)             320.82             294.83             500.46             615.65             978.34         1,353.84 
+9.  Net profit after tax before share of profit/(loss) from associates (7-8)             856.52             787.10         1,353.07         1,643.62         2,645.12         3,869.79 
+10. Share of profit (+)/loss (-) of associates                (5.01)                (1.55)                  0.30                (6.56)                (0.14)                (8.05)
+11. Net profit for the period/year (9+10)             851.51             785.55         1,353.37         1,637.06         2,644.98         3,861.74 
+12. Profit for the period/year attributable to 
+a) Owners of the parent             877.54             789.05         1,351.17         1,666.59         2,648.79         3,879.23 
+b) Non - controlling interest             (26.03)                (3.50)                  2.20             (29.53)                (3.81)              (17.49)
+13. Other comprehensive income/(loss) for the period/year
+a) (i) Items that will not be reclassified to profit or loss                (1.98)               24.25                (0.02)               22.27                (8.56)           (188.93)
+   (ii) Income tax on items that will not be reclassified  to profit or loss                  0.51                (6.10)                  0.01                (5.59)                  2.16                  2.07 
+                     -   b) (i) Items that will be reclassified to profit or loss             146.10             188.74             236.43             334.84             322.52             828.14 
+     (ii) Income tax on items that will be reclassified to profit or loss             (10.33)              (12.83)               30.01             (23.16)               31.72               46.46 
+                     -   Total other comprehensive income/(loss) for the period/year             134.30             194.06             266.43             328.36             347.84             687.74 
+14. Total comprehensive income for the period/year (11+13)             985.81             979.61         1,619.80         1,965.42         2,992.82         4,549.48 
+15. Total comprehensive income/(loss) attributable to 
+a) Owners of the parent         1,012.80             982.62         1,617.38         1,995.42         2,996.20         4,567.92 
+b) Non - controlling interest             (26.99)                (3.01)                  2.42             (30.00)                (3.38)              (18.44)
+16. Paid-up equity share capital (face value of ₹ 2/- each) (refer note 3)             161.57             161.57             161.55             161.57             161.55             161.56 
+17. Other equity 34,270.39     
+18. Earnings per equity share (face value of ₹ 2/- each)
+a) Basic (₹)  *10.86  *9.77  *16.73  *20.63  *32.79               48.03 
+b) Diluted (₹)  *10.85  *9.76  *16.72  *20.62  *32.77               48.00 
+      *Not AnnualisedParticularsQuarter ended Half year ended
+ 
+ 
+ 
+ 
+Cipla Ltd.  
+Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+2/ 5 
+ 
+ 
+Consolidated statement of assets and liabilities   
+                                                                                                                                                                                         (₹ in Crore)  
+Particulars   As at 
+30-09-2026   As at 
+31-03-2026
+Unaudited Audited
+A.  ASSETS
+1. Non-current assets
+(a) Property, plant and equipment 6,034.47         5,586.66           
+(b) Right-of-use assets 520.12              453.14               
+(c) Capital work-in-progress 1,711.40         1,586.28           
+(d) Goodwill 3,854.41         3,754.42           
+(e) Other intangible assets 2,648.86         2,640.14           
+(f) Intangible assets under development 603.49              455.94               
+(g) Investment in associates 105.90              111.75               
+(h) Financial assets
+(i) Investments 445.57              432.24               
+(ii) Loans 1.49                   2.76                    
+(iii) Other financial assets 187.34              1,194.10           
+(i) Non-current tax assets (net) 563.21              573.28               
+(j) Deferred tax assets (net) 966.57              901.02               
+(k) Other non-current assets 729.53              657.22               
+Total non-current assets 18,372.36       18,348.95        
+2. Current assets 
+(a) Inventories 6,778.44         6,596.72           
+(b) Financial assets
+(i) Investments 6,134.14         7,679.42           
+(ii) Trade receivables 5,999.88         5,620.05           
+(iii) Cash and cash equivalents 1,659.17         1,018.22           
+(iv) Bank balances other than cash and cash equivalents 445.00              289.20               
+(v) Loans 27.20                23.12                 
+(vi) Other financial assets 2,390.53         1,460.23           
+(c) Other current assets 1,626.44         1,458.90           
+Total current assets 25,060.80       24,145.86        
+3. Assets classified as held for sale 1.17                   1.17                    
+Total assets 43,434.33       42,495.98        
+B.  EQUITY and LIABILITIES
+1. Equity 
+    (a) Equity share capital 161.57              161.56               
+    (b) Other equity 35,233.93       34,270.39        
+Equity attributable to owners of the parent 35,395.50       34,431.95        
+Non-controlling interest 126.72              88.29                 
+Total equity 35,522.22       34,520.24        
+2. Liabilities
+  Non-current liabilities
+   (a) Financial liabilities
+(i)  Borrowings 131.13              117.47               
+(ii)  Lease liabilities 338.23              264.48               
+(iii) Other financial liabilities 166.89              220.40               
+    (b) Provisions 149.67              157.56               
+    (c) Deferred tax liabilities (net) 96.40                153.27               
+    (d) Other non-current liabilities 52.86                48.97                 
+Total non-current liabilities 935.18              962.15               
+  Current liabilities
+   (a) Financial liabilities
+(i)  Borrowings 136.30              140.50               
+(ii) Lease liabilities 93.81                91.32                 
+(iii) Trade payables
+    - Total outstanding dues of micro  enterprises and small enterprises 219.91              215.18               
+              - Total outstanding dues of creditors other than micro enterprises and small enterprises      3,046.10         3,014.72           
+(iv) Other financial liabilities 899.46              986.77               
+    (b) Other current liabilities 317.19              300.50               
+    (c) Provisions 2,136.90         2,259.15           
+    (d) Current tax liabilities (net) 127.26              5.45                    
+Total current liabilities 6,976.93         7,013.59           
+Total liabilities 7,912.11         7,975.74           
+Total equity and liabilities 43,434.33       42,495.98        
+ 
+ 
+ 
+Cipla Ltd.  
+Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+3/ 5 
+ 
+ 
+Consolidated statement of Cash Flows  
+                                                                                                                                                                                                              (₹ in Crore)  
+30-09-2026 30-09-2025
+Unaudited Unaudited
+Cash flow from operating activities
+Profit before tax 2,259.27                 3,623.46                 
+Adjustments for :
+Depreciation, impairment and amortisation expense 649.10                    549.71                     
+Finance costs 33.77                       27.23                       
+Unrealised foreign exchange gain (net) (49.62)                     (27.59)                     
+Share based payment expense 18.32                       21.71                       
+Allowances for credit loss (net) 5.16                         10.83                       
+Interest income on income tax refund (0.04)                        (0.07)                        
+Interest income on bank deposits and others (108.06)                   (131.14)                   
+Sundry balance written back (net) (1.47)                        (0.22)                        
+Net gain on sale of current investments carried at fair value through profit or loss (216.99)                   (199.95)                   
+Net fair value gain on financial instruments at fair value through profit or loss (13.65)                     (60.67)                     
+Net gain on sale/disposal of property, plant and equipment and intangible asset (1.96)                        (30.16)                     
+Rent income (0.25)                        (5.41)                        
+Operating profit before working capital changes 2,573.58                 3,777.73                 
+Adjustments for working capital : 
+Increase in inventories (117.68)                   (376.67)                   
+Increase in trade receivables (382.26)                   (1,130.76)                
+Decrease/ (Increase) in other assets 19.22                       (406.71)                   
+(Decrease)/ Increase in trade payables (6.00)                        138.51                     
+(Decrease)/ Increase in other payables and provisions (238.91)                   105.44                     
+Cash generated from operations 1,847.95                 2,107.54                 
+Income taxes paid (net of refunds) (629.28)                   (762.20)                   
+Net cash generated from operating activities (a) 1,218.67                 1,345.34                 
+Cash flow from investing activities
+Purchase of property, plant and equipment (refer note (ii) below) (916.64)                   (665.03)                   
+Purchase of intangible assets (including intangible asset under development) (244.66)                   (193.72)                   
+Proceeds from sale of property, plant and equipment (refer note (ii) below) 13.83                       15.27                       
+Proceeds from sale of intangible assets -                           44.05                       
+Investment in associates -                           (15.63)                     
+Purchase of non-current investments (9.60)                        (5.19)                        
+Sale of current investments (net) 1,775.92                 14.37                       
+Change in other bank balance (294.46)                   860.54                     
+Interest received 121.21                    73.26                       
+Proceeds from sale of assets classified as held for sale -                           26.08                       
+Rent received 0.25                         5.41                         
+Net cash generated from investing activities (b) 445.85                    159.41                    
+Cash flow from financing activities
+Proceeds from issue of equity shares (ESOSs & ESARs) 0.01                         0.03                         
+Transaction with non-controlling interest (net) 71.86                       15.78                       
+(Repayment)/ Proceeds from current borrowings (net) (8.65)                        23.46                       
+Proceeds from non-current borrowings 8.51                         4.99                         
+Principal payment of lease liabilities (52.89)                     (50.38)                     
+Interest paid (23.86)                     (19.27)                     
+Dividend paid (1,050.20)                (1,292.40)                
+Net cash used in financing activities (c) (1,055.22)                (1,317.79)                
+Net increase in cash and cash equivalents (a+b+c) 609.30                    186.96                    
+Cash and cash equivalents at the beginning of the period (Net of Bank overdraft) 1,015.39                 542.65                     
+Exchange difference on translation of foreign currency cash and cash equivalents 29.66                       15.80                       
+Cash and cash equivalents at the end of the period (Net of Bank overdraft) 1,654.35                 745.41                    ParticularsHalf Year ended
+ 
+Notes : 
+i. The above statement of cashflow has been prepared under the ‘Indirect Method’ as set out in Indian Accounting Standard (Ind A S) 7-Statement 
+of Cash Flows.  
+ii. Purchase and sale of property, plant and equipment represents additions and deletions to property, plant and equipment and in vestment 
+properties adjusted for movement of capital work in progress, capital advances, capital creditors during the period.  
+ 
+ 
+ 
+ 
+Cipla Ltd.  
+Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+4/ 5 
+ 
+ 
+1. The above financial results are prepared in accordance with the Indian Accounting Standard prescribed under section 133 of th e Companies 
+Act, 2013 and are in compliance with the presentation and disclosure requirements of Regulation 33 of the SEBI (Listing  Obligations and 
+Disclosure Requirements) Regulations, 2015 (as amended).  
+2. The National Pharmaceutical Pricing Authority (“NPPA”) issued several demand notices to the Company commencing from the year 1998 
+seeking recovery of alleged overcharge regarding scheduled drugs under the Drugs (Prices Control) Orders -1995 (“DPCO”).  
+In 1999 and 2000, the Company filed writ petitions before the Hon’ble Bombay High Court (“Bombay HC”) challenging inclusion o f certain 
+drugs under DPCO and challenging the demand notices issued by NPPA demanding payment of alleged overcharged amounts. On 3 1st August, 
+2001, by way of its common judgment, the Bombay HC decided the writ petitions in favor of the Company, thereby holding that t hese drugs 
+do not fall within the purview of DPCO and also quashed the demand notices raised by NPPA. The NPPA appealed the  order to the Hon’ble 
+Supreme Court (“SC”).  
+On 1st August,  2003, SC set aside the Bombay HC judgment and remanded the matter to the Bombay HC for being considered afresh by it. 
+Further, the SC stayed recovery of 50% of the alleged overcharged amounts subject to payment of the remaining 50% of the alle ged 
+overchar ged amounts pending fresh determination by the Bombay HC. Accordingly, in terms of SC’s Judgment the Company deposited an 
+amount of ₹ 175.08 Crore with NPPA, representing 50% of the alleged overcharged amounts in respect of demand notices raised t ill 2003.  
+Post 2003, the Company continued to receive demands (“Subsequent demands”) alleging overcharging. These demands included seve ral 
+duplicate demands. In 2019, the Company applied to the Bombay HC to amend its pleadings to include: (i ) subsequent demands (ii) take on 
+record the NPPA/ Government of India’s RTI response on unavailability of any records pertinent to and what should have been t he basis for 
+inclusion of these drugs under the DPCO (iii) deduction of trade margin of 16% from outstanding demands (as having not accrued to the 
+Company, as manufacturer) basis the Allahabad HC’s TC Healthcare judgment (iv) re -calculation of interest from the due date of demand 
+notice and (v) duplication of several demands.  
+The Bombay HC vide order dated 23rd February, 2024 allowed the amendment conditional upon the Company depositing 50% of the 
+subsequent demands raised. The Company appealed the Bombay HC order in a special leave petition before the SC. On 19th April, 2024, the 
+SC was pleased to issue notice and the matter is pending to be heard further. Without prejudice to the Company’s position of no amount 
+being due towards the alleged overcharge (principal) or consequential interest, on 15th July, 2025 the Company has voluntarily deposited 
+with the NPPA an additional amount of ₹ 27.07 Crore towards the principal against certain demand notices .  
+The Company has reviewed all the notices/communications received which are attributable to the Company and are under litigati on. After 
+removing duplications as indicated above, the amount covered by the notices/communications aggregates to ₹ 2,011 Crore wi th the principal 
+of ₹ 863 Crore and interest of ₹ 1,148 Crore.  
+The above demand notices do not include certain demand notices, jointly addressed to Okasa Pharma Private Limited or Okasa Li mited 
+(related parties and promoter group companies, collectively “Okasa"), and the Company. These pertain to products manufactured  by Okasa 
+and marketed by Cipla. The Company responded to these demand notices (amounting to ₹ 9.96 Crore), stating that it is not the manufacturer 
+and therefore not liable. These demand notices are also subject matter under Business Transfer Agreement between Okasa and Cipla’s 
+subsidiary which excludes the DPCO liability as part of the business transferred by Okasa to the subsidiary. Further, Okasa has independently 
+challenged these demand notices before the Hon’ble Bombay HC.  
+The Company has been legally advised that it expects a favourable outcome in respect of these matters and therefore no provis ion is 
+considered necessary in respect of the aforementioned demand  notices received till date including demand notices addressed singly/ jointly 
+w.r.t transactions with Okasa.  
+3. The paid -up equity share capital stands increased to ₹ 161.57 Crore (80,78,70,615 equity shares of face value ₹ 2 each) upon allotment  of 
+19,350 ( half year  ended 30th September , 2026  - 74,253) equity shares and 5,949 ( half year  ended 30th September , 2026 - 13,731) equity 
+shares of ₹ 2 each pursuant to "ESOS 2013 -A" and “Cipla ESAR Scheme 2021” respectively during the quarter ended 30th September 2026.  
+4. Effective 21st November, 2025, The Government of India ha d consolidated multiple existing labour legislations into a unified framework 
+comprising four Labour Codes collectively referred to as the 'New Labour Codes'. Pursuant to the Group's assessment performed  as at 31st 
+December,  2025, the Group recognized an incremental gratuity liability arising from past service cost and an increase in leave liabilit y 
+aggregating ₹275.91 Crore, primarily due to the revised definition of “wages” applicable to employees and contract labour. Co nsidering the 
+materiality and non -recurring nature of this change, the Group has presented such incremental expenses under “Exceptional Item” in the 
+financial results .  
+ 
+5. The unaudited  standalone financial results for the quarter and half year ended 3 0th September , 2026 are available on the Company’s website 
+i.e. www.cipla.com under Investor Information section and on the stock exchange websites i.e. www.bseindia.com and www.nseindia.com . 
+ 
+ 
+ 
+ 
+Cipla Ltd.  
+Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+5/ 5 
+ 
+6. Operating segment information is presented in a manner consistent with the internal reporting reviewed by the Group’s Chief O perating 
+Decision Maker (“CODM”) for the purpose of allocating resources and assessing performance. The CODM of the Group is the Ch ief Executive 
+Officer, who is responsible for making strategic decisions.  
+During the year ended  31st March 2026, the Group reassessed its operating segments consequent to a change in the CODM . Based on this 
+reassessment, the Group has determined that it operates as a single operating segment, namely Pharmaceutical and related prod ucts. 
+Accordingly, the comparative information for the previous year has been restated, wherever necessary, to refl ect the Group as operating 
+under a single reportable segment, in accordance with Ind AS 108 - Operating Segments . 
+7. During the year ended 31st March 2026, the group  has recorded an impairment of ₹ 42.02 Crore in the financial results in respect of associate s, 
+on account of change in certain business conditions and market dynamics.  
+8. The Board of Directors of the Company, at its meeting held on 19th March 2026, approved the Scheme of Amalgamation of Inzpera 
+Healthsciences  Limited, a wholly owned subsidiary of the Company (the “Transferor Company”), with Cipla Limited (the “Transferee 
+Company” or the “Company”). The Scheme of Amalgamation is subject to the necessary approvals required under the Companies Act , 2013, 
+includin g the approval of the Hon’ble National Company Law Tribunal (“NCLT”), Mumbai. The Company has filed the Scheme with the Hon’b le 
+NCLT and its approval is awaited.  
+ 
+9. Effective 1st April , 2026, the Group presents certain marketing and promotional expenditures as a reduction from Revenue from 
+Operations.  The Group  believes that this presentation provides more relevant information on the Group’s  financial performance. In the 
+comparative periods, these amounts were presented under Sales promotion expenses within Other Expenses  and amounted to ₹ 131.27 
+Crore, ₹  246.47  Crore and ₹ 528. 29 Crore for the quarter ended 30th September , 2025, half year ended 3 0th September , 2025 and year ended 
+31st March , 2026, respectively. This change relates solely to presentation  and has no impact on Profit for the period/year, Earnings per Share, 
+Total Equity or Cash Flows  
+10. The above results have been reviewed and recommended to the Board of Directors by the Audit Committee and subsequently approv ed by 
+the Board of Directors at its meeting held on 27th October , 2026.  These results have been subjected to limited review  by statutory auditors 
+who have expressed an un modified  review  conclusion . 
+ 
+ 
+ 
+ 
+ 
+ 
+ For and on behalf of the Board  
+For CIPLA LIMITED  
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+Mumbai                     Achin  Gupta  
+27th October , 2026                                   Managing Director and Global Chief Executive Officer  
+                         DIN: 09491674  
+B S R & Co. LLP 
+Chartered Accountants 14th Floor, Central B Wing and North C Wing 
+Nesco IT Park 4, Nesco Center 
+Western Express Highway 
+Goregaon (East), Mumbai – 400 063, India 
+Telephone: +91 (22) 6257 1000 
+Fax: +91 (22) 6257 1010 
+Registered Office:  
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013 14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063 
+Page 1 of 6 Limited Review Report on unaudited consolidated financial results of Cipla Limited 
+for the quarter ended 30 September 2026 pursuant to Regulation 33 of Securities and 
+Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended 
+To the Board of Directors of Cipla Limited 
+1.We have reviewed the accompanying Statement of unaudited consolidated financial results of Cipla
+Limited (hereinafter referred to as “the Parent”), and its subsidiaries (the Parent and its subsidiaries
+together referred to as “the Group”) and its associates for the quarter ended 30 September 2026 and
+year to date results for the period from 01 April 2026 to 30 September 2026 (“the Statement”), being
+submitted by the Parent pursuant to the requirements of Regulation 33 of the Securities and
+Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations").
+2.This Statement, which is the responsibility of the Parent’s management and approved by the Parent’s
+Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34”),
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our responsibility
+is to express a conclusion on the Statement based on our review.
+3.We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+4.The Statement includes the results of the entities mentioned in Annexure I to the Statement.
+5.Based on our review conducted and procedures performed as stated in paragraph 3 above, nothing
+has come to our attention that causes us to believe that the accompanying Statement, prepared in
+accordance with the recognition and measurement principles laid down in the aforesaid Indian
+Accounting Standard and other accounting principles generally accepted in India, has not disclosed
+the information required to be disclosed in terms of Regulation 33 of the Listing Regulations, including
+the manner in which it is to be disclosed, or that it contains any material misstatement.
+6.The consolidated financial results of the Group and its associates for the year ended 31 March 2026
+were audited by the predecessor auditor whose report dated 13 May 2026 had expressed an
+unmodified opinion. The consolidated financial results of the Group and its associates for the
+corresponding quarter ended 30 September 2025 were reviewed by the predecessor auditor whose
+report dated 30 October 2025 had expressed an unmodified conclusion.
+B S R & Co. LLP  
+Limited Review Report (Continued) 
+Cipla Limited 
+Page 2 of 6 7.We did not review the interim financial information of Fourteen (14) Subsidiaries included in the
+Statement, whose interim financial information reflects total assets (before consolidation adjustments) 
+of Rs. 13,146.96  Crore as at 30  September  2026, and total revenues  (before  consolidation 
+adjustments)  of Rs. 1,082.32  Crore  and  Rs. 1,961.19 Crore, total  net profit after  tax (before 
+consolidation  adjustments)  of Rs. 36.20 Crore  and Rs. 1.86 Crore  and total comprehensive  
+income/(loss) (before consolidation adjustments) of Rs. 38.43 and Rs. (5.32) Crore, for the quarter 
+ended 30 September 2026 and for the period from 01 April 2026 to 30 September 2026 respectively, 
+and cash flows (net) (before consolidation adjustments) of Rs. 138.52 Crore for the period from 01 
+April 2026 to 30 September 2026. as considered in the Statement. The Statement also include the 
+Group’s share of total comprehensive income of Rs. 0.17 Crore and Rs. 0.40 Crore, for the quarter 
+ended  30 September 2026 and for the period from 01 April 2026 to 30 September 2026 
+respectively as considered in the Statement, in respect of One (1) associate, whose interim financial 
+information have not been reviewed by us. These interim financial information have been reviewed 
+by other auditors  whose reports have been furnished to us by the Parent’s management and our 
+conclusion on the Statement, in so far as it relates to the amounts and disclosures included in 
+respect of these subsidiaries and an associate, is based solely on the reports of the other auditors 
+and the procedures  performed by us as stated in paragraph 3 above.
+Certain  of these  subsidiaries  and  associate are located  outside India whose  interim financial 
+statements have been prepared in accordance with accounting principles generally accepted in their 
+respective  countries  and  which  have  been  reviewed  by other auditors  under  generally  accepted 
+auditing standards applicable in their respective countries. The Parent’s management has converted  
+the interim financial  information  of such subsidiaries  and associate  located outside  India  from  
+accounting  principles  generally  accepted  in their  respective  countries  to accounting  principles 
+generally accepted in India. We have reviewed these conversion adjustments made by the Parent’s 
+management. Our conclusion in so far as it relates to the balances and affairs of such subsidiaries  
+and associate  located  outside India  is based  on the reports of other  auditors and  the conversion  
+adjustments prepared by the management of the Parent and reviewed by us.
+Our conclusion is not modified in respect of this matter.
+For B S R & Co. LLP 
+Chartered Accountants 
+Firm’s Registration No.:101248W/W-100022 
+Sudhir Soni 
+Partner 
+Mumbai  Membership No.: 041870  
+27 October 2026 UDIN:26041870BPZHKI7410 
+B S R & Co. LLP  
+Limited Review Report (Continued) 
+Cipla Limited 
+Page 3 of 6 Annexure I 
+List of entities included in unaudited consolidated financial results. 
+Sr. No Name of entities Relationship 
+1 Cipla Limited (India) Parent Company 
+2 Meditab Specialities Limited, India Subsidiary 
+3 Medispray Laboratories Private Limited, India Subsidiary 
+4 Goldencross Pharma Limited, India  Subsidiary 
+5 Sitec Labs Limited, India Subsidiary 
+6 Cipla Health Limited, India Subsidiary 
+7 Cipla Pharma and Life Sciences Limited, India Subsidiary 
+8 Cipla Pharmaceuticals Limited, India Subsidiary 
+9 Inzpera Healthsciences Limited.,India (acquired 
+w.e.f 4 December 2025), IndiaSubsidiary 
+10 Jay Precision Pharmaceuticals Private Limited, 
+India Subsidiary 
+11 Cipla Digital Health Limited, India Subsidiary 
+12 Cipla Medpro South Africa (Pty) Limited, South 
+Africa Subsidiary 
+13 Cipla Medpro Manufacturing (Pty) Limited, South 
+Africa Subsidiary 
+14 Cipla-Medpro (Pty) Limited, South Africa Subsidiary 
+15 Cipla-Medpro Distribution Centre (Pty) Limited, 
+South Africa Subsidiary 
+16 Cipla Medpro Botswana (Pty) Limited, Botswana Subsidiary 
+17 Cipla Kenya Limited, Kenya  Subsidiary 
+18 Cipla Select (Pty) Limited, South Africa Subsidiary 
+B S R & Co. LLP 
+ 
+Limited Review Report (Continued) 
+Cipla Limited 
+Page 4 of 6 
+  19 Medpro Pharmaceutica (Pty) Limited, South 
+Africa  Subsidiary  
+ 20 Mirren (Pty) Limited, South Africa  Subsidiary  
+ 21 The Cipla Empowerment Trust, South Africa  Subsidiary  
+ 22 Actor Pharma (Pty) Limited, South Africa  Subsidiary  
+ 23 lnvaGen Pharmaceuticals Inc., USA  Subsidiary  
+ 24 Exelan Pharmaceuticals Inc., USA  Subsidiary  
+ 25 Cipla USA Inc., USA  Subsidiary  
+ 26 Cipla Therapeutics Inc., USA  Subsidiary  
+ 27 Aspergen Inc., USA  Subsidiary  
+ 28 Cipla Holding B.V., Netherlands  Subsidiary  
+ 29 Cipla (EU) Limited, United Kingdom  Subsidiary  
+ 30 Cipla Australia Pty Limited, Australia  Subsidiary  
+ 31 Meditab Holdings Limited, Mauritius  Subsidiary  
+ 32 Cipla Malaysia Sdn. Bhd., Malaysia  Subsidiary  
+ 33 Cipla Europe NV, Belgium  Subsidiary  
+ 34 Cipla Brasil lmportadora E Distribuidora De 
+Medicamentos Ltda., Brazil  Subsidiary  
+ 35 Cipla Algérie, Algeria  Subsidiary  
+ 36 Breathe Free Lanka (Private) Limited, Sri Lanka  Subsidiary  
+ 37 Cipla Maroc SA, Morocco  Subsidiary  
+ 38 Cipla Gulf FZ-LLC, UAE  Subsidiary  
+ 39 Cipla Colombia SAS, Colombia  Subsidiary  
+B S R & Co. LLP  
+Limited Review Report (Continued) 
+Cipla Limited 
+Page 5 of 6 40 Cipla (China) Pharmaceutical Co., Ltd., China Subsidiary 
+41 Cipla (Jiangsu) Pharmaceutical Co., Ltd., China Subsidiary 
+42 Mexicip S.A. de C.V., Mexico Subsidiary 
+43 CiplaRna GmbH, Germany (incorporated w.e.f. 
+28 May 2025) Subsidiary 
+44 Cipla Middle East Company, Kingdom of Saudi 
+Arabia (incorporated w.e.f. 1 March 2026) Subsidiary 
+45 Aspergen Limited, India (incorporated w.e.f 5 
+May 2026) Subsidiary 
+46 Stempeutics Research Private Limited, India  Associate 
+47 AMPIN Power Systems Private Limited (formerly 
+known as AMPSOLAR Power Systems Private 
+Limited), India Associate 
+48 AMPIN Energy Green Eleven Private Limited 
+(formerly known as AMP Energy Green Eleven 
+Private Limited), India Associate 
+49 Clean Max Auriga Power LLP, India  Associate 
+50 GoApptiv Private Limited, India Associate 
+51 lconphygital Private Limited, India (Wholly owned 
+subsidiary of GoApptiv Private Limited) Associate 
+52 MKC Biotherapeutics Inc., USA Associate 
+53 Pactiv Healthcare Private Limited, India (Wholly 
+owned subsidiary of GoApptiv Private Limited) Associate 
+54 Achira Labs Pvt. Ltd, India Associate 
+55 Brandmed (Pty) Limited, South Africa Associate 
+56 AMPIN Energy C&I Eighteen Private Limited 
+(formerly known as AMP Energy C&I Eighteen 
+Private Limited), India (w.e.f. 28 May 2025) Associate 
+B S R & Co. LLP  
+Limited Review Report (Continued) 
+Cipla Limited 
+Page 6 of 6 57 iCaltech Innovations (Private) Limited, India 
+(w.e.f. 26 August 2025) Associate 
+ 
+       Cipla Ltd.  
+       Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+       P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+1/5 
+ 
+ 
+STATEMENT OF UNAUDITED  STANDALONE FINANCIAL RESULTS FOR THE QUARTER  AND HALF YEAR ENDED 30TH SEPTEMBER,  2026 
+ 
+                                                                                                                                                                                                                                          (₹ in Crore)  
+ Year ended
+30-09-2026 30-06-2026 30-09-2025 30-09-2026 30-09-2025 31-03-2026
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+1. Revenue from Operations
+a) Revenue from sale of products       4,528.65       4,672.12 4,495.16 9,200.77 8,996.82      17,094.67 
+b) Other operating revenue          538.77           405.56 730.56 944.33 1,275.07        1,885.28 
+     Total revenue from operations       5,067.42       5,077.68       5,225.72     10,145.10     10,271.89      18,979.95 
+                    -   2.  Other income          147.56          242.75 254.66 390.31 525.73        1,122.65 
+                    -   3.  Total income (1+2)       5,214.98       5,320.43       5,480.38     10,535.41     10,797.62      20,102.60 
+                    -   4.  Expenses
+      a) Cost of materials consumed            1,125.33       1,038.57 1,005.18 2,163.90 2,022.95        3,992.34 
+      b) Purchases of stock-in-trade          636.72           651.15 530.39 1,287.87 1,077.82        2,587.97 
+      c) Changes in inventories of finished goods, work-in-progress and
+          stock-in-trade          (89.27)             21.54             23.89           (67.73)         (119.90)          (596.45)
+      d) Employee benefits expense          881.41           914.96 840.01 1,796.37 1,658.31        3,350.48 
+      e) Finance costs               5.92               5.68 2.65 11.60 8.53              19.30 
+      f) Depreciation, impairment and amortisation expense          189.29           169.39 141.30 358.68 286.99            658.43 
+     g) Impairment of investment in associate (refer note 5)                    -                      -                      -                      -                      -                31.00 
+     h) Other expenses       1,403.15       1,365.52 1,303.62 2,768.67 2,485.63        5,179.22 
+                    -       Total expenses       4,152.55       4,166.81       3,847.04       8,319.36       7,420.33      15,222.29 
+                    -   5. Profit before exceptional items and tax (3-4)      1,062.43       1,153.62       1,633.34       2,216.05       3,377.29        4,880.31 
+6. Exceptional Item - (Loss) (refer note 4)                    -                      -                      -                      -                      -            (244.37)
+7. Profit before tax (5+6)       1,062.43       1,153.62       1,633.34       2,216.05       3,377.29        4,635.94 
+8. Tax expense /(credit) (net)
+     a) Current tax          283.82           307.89 412.22 591.71 868.26        1,101.90 
+     b) Deferred tax             (8.42)           (16.43)             10.59           (24.85)             (4.63)              18.86 
+   Total tax expense (net)          275.40          291.46          422.81          566.86          863.63        1,120.76 
+                    -   9. Net profit after tax for the period/ year (7-8)          787.03          862.16       1,210.53       1,649.19       2,513.66        3,515.18 
+                    -   10. Other comprehensive income/(loss) for the period/year
+a) (i) Items that will not be reclassified to profit or loss             (3.06)             25.15               0.12             22.09             (5.72)            (12.60)
+    (ii) Income tax on items that will not be reclassified to profit or loss               0.77             (6.33)             (0.03)             (5.56) 1.44                3.17 
+                   -                      -   
+                    -   b) (i) Items that will be reclassified to profit or loss             37.82             64.76         (112.92) 102.58         (112.30)          (182.91)
+    (ii) Income tax on items that will be reclassified to profit or loss             (9.52)           (16.30)             28.42           (25.82)             28.26              46.04 
+                   -                       -          Total other comprehensive income/(loss) for the period/year             26.01             67.28           (84.41)             93.29           (88.32)          (146.30)
+                    -   11. Total comprehensive income for the period/year (9+10)          813.04          929.44       1,126.12       1,742.48       2,425.34        3,368.88 
+                    -   12. Paid-up equity share capital (face value of ₹ 2/- each) (refer note 3)          161.57          161.57          161.55          161.57          161.55            161.56 
+13. Other equity      34,039.55 
+                    -   14. Earnings per equity share (face value of ₹ 2/- each)
+a) Basic (₹)  *9.74  *10.67  *14.99  *20.42  *31.12              43.52 
+b) Diluted (₹)  *9.73  *10.67  *14.98  *20.40  *31.10              43.49 
+      *Not AnnualisedParticularsQuarter ended Half Year ended
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Cipla Ltd.  
+       Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+       P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+2/5 
+ 
+Standalone Statement of Assets and Liabilities  
+                                                                                                                                                                                                    (₹ in Crore)  
+   As at 
+30-09-2026   As at 
+31-03-2026
+Unaudited Audited
+3,749.91               3,631.03               
+174.30                   151.42                   
+886.80                   720.23                   
+1.46                       1.51                       
+1,451.69               1,409.85               
+279.31                   257.36                   
+11,637.72             10,847.89             
+1,086.80               1,410.10               
+165.90                   1,174.84               
+472.29                   473.86                   
+43.70                     50.23                     
+475.98                   452.75                   
+20,425.86             20,581.07             
+4,478.87               4,353.71               
+5,079.93               6,768.44               
+4,203.45               3,396.74               
+329.25                   248.80                   
+303.99                   269.80                   
+856.63                   426.88                   
+2,338.35               1,406.41               
+1,061.24               1,041.24               
+18,651.71             17,912.02             
+39,077.57              38,493.09              
+161.57                   161.56                   
+34,750.15             34,039.55             
+34,911.72             34,201.11             
+103.55                   78.88                     
+130.45                   180.94                   
+116.47                   115.57                   
+50.73                     44.81                     
+401.20                   420.20                   
+ (i) Borrowings -                         10.60                     
+38.46                     35.49                     
+170.80                   160.35                   
+1,710.04               1,901.20               
+618.80                   696.61                   
+174.92                   135.30                   
+944.31                   932.23                   
+107.32                   -                         
+3,764.65               3,871.78               
+4,165.85                4,291.98                
+39,077.57              38,493.09              (d) Current tax liabilities (net)
+  Total current liabilities
+  Total liabilities
+    Total equity and liabilities(i) Lease liabilities
+(iii) Trade payables
+- Total outstanding dues of micro enterprises and small enterprises
+- Total outstanding dues of creditors other than micro enterprises and small enterprises
+(iv) Other financial liabilities
+(b) Other current liabilities
+(c) Provisions  Total non-current liabilities
+Current liabilities
+   (a) Financial liabilities
+(ii) Lease liabilitiesParticulars
+A.   ASSETS
+1. Non-current assets
+(a) Property, plant and equipment
+(b) Right-of-use assets 
+2. Current assets
+(a) Inventories(j) Other non-current assets
+  Total non-current assets(ii) Loans
+(iii) Other financial assets
+(h) Non-current tax assets (net)(c) Capital work-in-progress
+(d) Investment property
+(e) Intangible assets
+(f) Intangible assets under development
+(g) Financial assets
+(i) Investments 
+(i) Deferred tax assets (net)
+(b) Financial assets
+(i) Investments
+(ii) Trade receivables
+   Total assets
+B.  EQUITY and LIABILITIES
+1. Equity 
+(a) Equity share capital(iii) Cash and cash equivalents
+(iv) Bank balances other than cash and cash equivalents
+(v) Loans
+(vi) Other financial assets
+(c) Other current assets
+  Total current assets
+(ii) Other financial liabilities
+(b) Provisions
+(c) Other non-current liabilities(b) Other equity
+Total equity
+2. Liabilities
+Non-current liabilities
+(a) Financial liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Cipla Ltd.  
+       Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+       P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+3/5 
+ 
+Standalone Statement of Cash Flows  
+                                                                                                                                                                                                 (₹ in Crore)  
+30-09-2026 30-09-2025
+Unaudited Unaudited
+2,216.05               3,377.29               
+358.68                   286.99                   
+11.60                     8.53                       
+(26.48)                    (3.54)                      
+18.06                     12.22                     
+0.85                       5.14                       
+Interest income on income tax refund -                         (0.07)                      
+(149.70)                 (144.41)                  
+(19.01)                    (9.65)                      
+(0.01)                      0.08                       
+(188.73)                 (183.36)                  
+(1.64)                      (60.81)                    
+(0.77)                      (30.54)                    
+(0.84)                      (6.01)                      
+2,218.06               3,251.86               
+(125.16)                 (355.38)                  
+(866.93)                 (1,356.84)              
+Decrease/(increase) in other assets 171.69                   (241.23)                  
+(Decrease)/increase in trade payables (194.66)                 163.36                   
+3.42                       (88.54)                    
+1,206.42               1,373.23               
+Income taxes paid (net of refunds) (482.82)                 (565.20)                  
+723.60                   808.03                   
+-                         
+Purchase of property, plant and equipment (refer note (ii) below) (528.99)                 (322.43)                  
+Purchase of intangible assets (including intangible asset under development) (75.75)                    (133.29)                  
+Proceeds from sale of property, plant and equipment (refer note (ii) below) 3.91                       4.79                       
+Proceeds from sale of intangible assets -                         44.05                     
+Proceeds from sale of assets classified as held for sale -                         26.08                     
+Investments in associates -                         (5.01)                      
+Investments in subsidiaries (780.25)                 (121.98)                  
+Purchase of non-current investments (9.60)                      (5.19)                      
+Sale of current investments (net) 1,878.88               241.24                   
+Change in other bank balance (165.40)                 864.82                   
+Loan given to subsidiaries (120.00)                 (353.62)                  
+Proceeds from loan given to subsidiaries 57.00                     212.23                   
+Interest received 159.82                   90.14                     
+Dividend received 19.01                     9.65                       
+Rent received 0.84                       5.95                       
+439.47                   557.43                   
+0.01                       0.03                       
+(Repayment )/Proceeds from current borrowings (net) (10.60)                    0.97                       
+(13.78)                    (11.74)                    
+(7.79)                      (7.95)                      
+(1,050.20)              (1,292.40)              
+(1,082.36)              (1,311.09)              
+Net increase in cash and cash equivalents (a+b+c) 80.71                     54.37                     
+248.80                   82.74                     
+(0.26)                      0.34                       
+329.25                   137.45                   Half Year Ended
+Cash flow from operating activities
+Adjustments for:Particulars
+Profit before tax:
+Dividend income 
+Sundry balance written (back) /off (net)
+Net gain on sale of current investments carried at fair value through profit or loss
+Net fair value gain on financial instruments at fair value through profit or loss
+Net gain on sale/disposal of property, plant and equipment and intangible assetsDepreciation, impairment and amortisation expense 
+Finance costs
+Unrealised foreign exchange gain (net)
+Share based payment expense
+Allowances for credit loss (net)
+Interest income on bank deposits and others
+Dividend paid
+Net cash used in financing activities (c)
+Cash and cash equivalents at the beginning of the period
+Exchange difference on translation of foreign currency cash and cash equivalentsNet cash generated from investing activities (b)
+Cash flow from financing activities
+Proceeds from issue of equity shares (ESOSs & ESARs)
+Cash and cash equivalents at the end of the periodPrincipal payment of lease liabilities
+Interest paid Cash generated from operations
+Net cash generated from operating activities (a)
+Cash flow from investing activitiesRent income
+Operating profit before working capital changes
+Adjustments for working capital:
+Increase in inventories
+Increase in trade receivables
+Increase/ (decrease) in other payables and provisions
+ 
+Notes:  
+i. The above statement of cash flow has been prepared under the 'Indirect method' as set out in Indian Accounting Standard (I nd AS) 
+7-Statement of Cash Flows.  
+ii. Purchase and sale of property, plant and equipment represents additions and deletions to property, plant and equipment an d 
+investment properties adjusted for movement of capital work in progress, capital advances, capital creditors during the period . 
+ 
+       Cipla Ltd.  
+       Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+       P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+4/5 
+ 
+1. The above financial results are prepared in accordance with the Indian Accounting Standard prescribed under section 133 
+of the Companies Act, 2013 and are in compliance with  the presentation and disclosure requirements of Regulation 33 of 
+the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as amended).  
+2. The National Pharmaceutical Pricing Authority (“NPPA”) issued several demand notices to the Company commencing from 
+the year 1998 seeking recovery of alleged overcharge regarding scheduled drugs under the Drugs (Prices Control) Orders -
+1995 (“DPCO”).  
+ 
+In 1999 and 2000, the Company filed writ petitions before the Hon’ble Bombay High Court (“Bombay HC”) challenging 
+inclusion of certain drugs under DPCO and challenging the demand notices issued by NPPA demanding payment of alleged 
+overcharged amounts. On 3 1st August, 2001, by way of its common judgment, the Bombay HC decided the writ petitions 
+in favor of the Company, thereby holding that these drugs do not fall within the purview of DPCO and also  quashed the 
+demand notices raised by NPPA. The NPPA appealed the order to the Hon’ble Supreme Court (“SC”).  
+ 
+On 1st August, 2003, SC set aside the Bombay HC judgment and remanded the matter to the Bombay HC for being 
+considered afresh by it. Further, the SC stayed recovery of 50% of the alleged overcharged amounts subject to payment of 
+the remaining 50% of the alleged overcharged amounts pending fresh determination by the Bombay HC. Accordingly, in 
+terms of SC’s Judgment the Company deposited an amount of ₹ 175.08 Crore with NPPA, representing 50% of the alleged 
+overcharged amounts in respect of demand notices raised till 2003.  
+ 
+Post 2003, the Company continued to receive demands (“Subsequent demands”) alleging overcharging. These demands 
+included several duplicate demands. In 2019, the Company applied to the Bombay HC to amend its pleadings to include: 
+(i) subsequent demands (ii) take on record the NPPA/ Government of India’s RTI response on unavailability of any records 
+pertinent to and what should have been the basis for inclusion of these drugs under the DPCO (iii) deduction of trade 
+margin of 16% from outstanding demands (as having not accrued to the Company, as manufacturer) basis the Allahabad 
+HC’s TC Healthcare judgment (iv) re -calculation of interest from the due date of demand notice and (v) duplication of 
+several demands.  
+ 
+The Bombay HC vide order dated 23rd February, 2024 allowed the amendment conditional upon the Company depositing 
+50% of the subsequent demands raised. The Company appealed the Bombay HC order in a special leave petition before 
+the SC. On 19th April, 2024, the SC was pleased to issue notice and the matter is pending to be heard further. Without 
+prejudice to the Company’s position of no amount being due towards the alleged overcharge (principal) or consequential 
+interest, on 15th July 2025 the Company has voluntarily deposited with the NPPA an additional amount of ₹ 27.07 Crore 
+towards the principal against certain demand notices . 
+ 
+The Company has reviewed all the notices/communications received which are attributable to the Company and are under 
+litigation. After removing duplications as indicated above, the amount covered by the notices/communications aggregates 
+to ₹ 2,011 Crore with the principal of ₹ 863 Crore and interest of ₹ 1,148 Crore.   
+ 
+The above demand notices do not include certain demand notices, jointly addressed to Okasa Pharma Private Limited or 
+Okasa Limited (related parties and promoter group companies, collectively “Okasa"), and the Company. These pertain to 
+products manufactured  by Okasa and marketed by Cipla. The Company responded to these demand notices (amounting 
+to ₹ 9.96 Crore), stating that it is not the manufacturer and therefore not liable. These demand notices are also subject 
+matter under Business Transfer Agreement between Okasa and Cipla’s subsidiary which excludes the DPCO liability as part 
+of the business transferred by Okasa to the subsidiary. Further, Okasa has independently challenged these demand notices 
+before the Hon’ble Bombay HC.  
+ 
+The Company has been legally advised that it expects a favourable outcome in respect of th ese matter s and therefore no 
+provision is considered necessary in respect of the aforementioned  demand  notices received till date including demand 
+notices addressed singly/ jointly w.r.t transaction s with Okasa .  
+ 
+3. The paid -up equity share capital stands increased to ₹ 161.57  Crore (80,78,70,615 equity shares of face value ₹ 2 each) 
+upon allotment of 19,350  (half year ended  30th September , 2026 - 74,253)  equity shares and 5,949  (half year ended  30th 
+September 2026 , - 13,731 ) equity shares of ₹ 2 each pursuant to "ESOS 2013 -A" and “Cipla ESAR Scheme 2021” respectively 
+during the quarter ended 30th September 2026 . 
+ 
+ 
+ 
+ 
+ 
+       Cipla Ltd.  
+       Regd. Office - Cipla House, Peninsula Business Park, Ganpatrao Kadam Marg, Lower Parel, Mumbai -400 013, India  
+       P +91 22 24826000    F +91 22 24826120   W www.cipla.com    E-mail contactus@cipla.com    Corporate Identity Numbe r  L24239MH1935PLC002380  
+5/5 
+ 
+4. Effective 21st November,  2025, The Government of India ha d consolidated multiple existing labour legislations into a 
+unified framework comprising four Labour Codes collectively referred to as the 'New Labour Codes'. Pursuant to the 
+Company 's assessment performed as at 31st December, 2025, the Company  recognized an incremental gratuity liability 
+arising from past service cost and an increase in leave liability aggregating ₹  244.37  Crore, primarily due to the revised 
+definition of “wages” applicable to employees and contract labour. Considering the materiality and non -recurring nature 
+of this change, the Company  has presented such incremental expenses under “Exceptional Item” in the financial results.  
+ 
+5. During the year ended 31st March, 2026, the Company has recorded an impairment of ₹ 31.00 Crore in the financial results 
+in respect of an associate, on account of change in certain business conditions and market dynamics . 
+ 
+6. The Board of Directors of the Company, at its meeting held on 19th March 2026, approved the Scheme of Amalgamation 
+of Inzpera Healthsciences  Limited, a wholly owned subsidiary of the Company (the “Transferor Company”), with Cipla 
+Limited (the “Transferee Company” or the “Company”). The Scheme of Amalgamation is subject to the necessary approvals 
+required under the Companies Act, 2013, includin g the approval of the Hon’ble National Company Law Tribunal (“NCLT”), 
+Mumbai. The Company has filed the Scheme with the Hon’ble NCLT and its approval is awaited . 
+ 
+7. The above results have been reviewed and recommended to the Board of Directors by the Audit Committee and 
+subsequently approved by the Board of Directors at its meeting held on  27th October , 2026 . These results have been 
+subjected to limited review by statutory auditors who have expressed an unmodified review conclusion.  
+ 
+ 
+ For and on behalf of the Board  
+                     For CIPLA LIMITED  
+  
+ 
+ 
+ 
+ 
+  
+Mumbai                                                            Achin  Gupta  
+  27th October , 202 6                 Managing Director and Global Chief Executive Officer  
+                                                                                     DIN: 09491674  
+ 
+ 
+ 
+                                                                                                                                                                                    
+B S R & Co. LLP 
+Chartered Accountants 
+ 14th Floor, Central B Wing and North C Wing 
+Nesco IT Park 4, Nesco Center 
+Western Express Highway 
+Goregaon (East), Mumbai – 400 063, India 
+Telephone: +91 (22) 6257 1000 
+Fax: +91 (22) 6257 1010 
+   
+ 
+  Registered Office: 
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013  14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063 
+Page 1 of 2 
+  
+Limited Review Report on unaudited standalone financial results of Cipla Limited for 
+the quarter ended 30 September 2026 and year to date results for the period from 01 
+April 2026 to 30 September 2026 pursuant to Regulation 33 of Securities and 
+Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended 
+To the Board of Directors of Cipla Limited 
+1. We have reviewed the accompanying Statement of unaudited standalone financial results of Cipla 
+Limited (hereinafter referred to as “the Company”) for the quarter ended 30 September 2026 and year 
+to date results for the period from 01 April 2026 to 30 September 2026 (“the Statement”). 
+2. This Statement, which is the responsibility of the Company’s management and approved by its Board 
+of Directors, has been prepared in accordance with the recognition and measurement principles laid 
+down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34”), prescribed under 
+Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India 
+and in compliance with Regulation 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (“Listing Regulations”). 
+Our responsibility is to issue a report on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly, we do not express an audit opinion. 
+4. Based on our review conducted as stated in Paragraph 3 above, nothing has come to our attention 
+that causes us to believe that the accompanying Statement, prepared in accordance with the 
+recognition and measurement principles laid down in the aforesaid Indian Accounting Standard and 
+other accounting principles generally accepted in India, has not disclosed the information required to 
+be disclosed in terms of Regulation 33 of the Listing Regulations, including the manner in which it is 
+to be disclosed, or that it contains any material misstatement. 
+B S R & Co. LLP 
+ 
+Limited Review Report (Continued) 
+Cipla Limited 
+Page 2 of 2 
+ 5. The standalone financial results of the Company for the year ended 31 March 2026 were audited by 
+the predecessor auditor whose report dated 13 May 2026 had expressed an unmodified opinion. The 
+standalone financial results of the Company for the corresponding quarter ended 30 September 2025 
+and the corresponding period from 1 April 2025 to 30 September 2025 were reviewed by the 
+predecessor auditor whose report dated 30 October 2025 had expressed an unmodified conclusion. 
+ 
+ For B S R & Co. LLP 
+ Chartered Accountants 
+ Firm’s Registration No.:101248W/W-100022 
+  
+  
+  
+ Sudhir Soni 
+ Partner 
+Mumbai Membership No.: 41870 
+27 October 2026 UDIN:26041870VZQDVR7333 
+   

@@ -1,0 +1,132 @@
+ 
+ 
+TO ALL STOCK EXCHANGES 
+ 
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED 
+NEW YORK STOCK EXCHANGE  
+ 
+July 30, 2026  
+Dear Sir/ Madam,  
+Sub: Press release 
+ 
+Please find enclosed the press release titled “ Investec Selects Infosys Finacle SaaS Platform on 
+Microsoft Azure for Digital Banking Transformation”  
+This information will also be hosted on the Company’s website, at www.infosys.com .   
+ 
+ 
+This is for your information and records.  
+Yours Sincerely,
+ 
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary 
+Membership No: A21918  
+ 
+ 
+   
+PRESS RELEASE 
+Investec Selects Infosys Finacle SaaS Platform on Microsoft Azure for Digital 
+Banking Transformation  
+Johannesburg, South Africa and Bengaluru, India – July 30, 2026:  : Infosys Finacle, part of EdgeVerve 
+Systems , a wholly -owned subsidiary of Infosys  (NSE, BSE, NYSE: INFY), today announced that Investec , 
+a leading international bank and wealth manager, has selected the Finacle Digital Banking Solution Suite  
+on Microsoft Azure  to modernize its banking operations across South Africa, the UK, Mauritius, and the 
+Channel Islands. As part of this multi -country, large- scale transformation program, the bank will migrate 
+from its legacy platforms to Finacle, establishing a future- ready  technology foundation aligned with the next 
+phase of its growth strategy.  
+ 
+Under this transformation program, the bank will adopt the Finacle Deposits Suite, Finacle Lending Suite, 
+Finacle Virtual Accounts Management , and Finacle Liquidity Management Solution on a multi -region 
+Finacle SaaS platform. This integrated platform will enable Investec to enhance business agility, drive 
+higher operational efficiency, and continually meet regulatory compliance, while supporting its evolving 
+business and client needs.  
+ 
+Key benefits that the bank will gain, include : 
+1. Finacle’s real -time data and AI foundations will help position the bank to scale AI adoption, enhance 
+data readiness, and unlock actionable insights, enabling more intelligent, future -ready banking 
+experiences to market.  
+2. The Finacle Lending Suite will empower Investec to accelerate lending growth, deliver seamless 
+end-to-end digital journeys, and bring more personalized offerings to markets with greater speed 
+and confidence.  
+3. The Finacle Virtual Accounts Management will help the bank unlock compelling cash management 
+propositions for corporate clients by simplifying collections and payments through real -time 
+reconciliation, enhanced transparency, and a more streamlined account structure.  
+4. The Finacle Liquidity Management Solution will empower the bank with real -time visibility and 
+control over cash positions and working capital across entities driving sharper liquidity optimization, 
+stronger controls, and more informed financial decisions.  
+5. The next -generation Finacle platform, backed by an extensive API suite, will enable the bank to 
+connect seamlessly across the wider fintech ecosystem, accelerating innovation and enabling 
+differentiated offerings to the market faster.  
+6. The cloud -native SaaS implementation through the Microsoft Marketplace will give the bank the 
+scale, resilience, and performance needed to grow with evolving demand, supported by a secure, 
+high- availability technology foundation.  
+ 
+   
+  
+Lyndon Subroyen, Global Head of Digital and Technology for Investec Group said, “Our partnership 
+with Infosys Finacle and Microsoft Azure marks a step change in our digital transformation journey. We are 
+building a stronger digital foundation that allows us to scale with our clients, deliver a more seamless and 
+personalized experience, and operate with greater precision. Digital is no longer a layer that supports the 
+business, it is integral to how we grow, deepen client relationships, and improve our efficiency.”  
+ 
+Sajit Vijayakumar, Chief Executive Officer, Infosys Finacle, said “At Infosys Finacle, we are committed 
+to helping banks accelerate growth by inspiring better banking. Our next -generation, cloud -native banking 
+solutions are designed to help institutions like Investec accelerate innovation, strengthen operational agi lity, 
+and deliver more intelligent and personalized experiences at scale. By combining open APIs and events -
+driven architecture, with strong data and AI foundations, Finacle will empower Investec to stay ahead of 
+evolving client expectations and unlock new  avenues for value creation and delivery.”  
+ About Investec  
+Investec Group is a leading international bank and wealth manager, with a regional focus in Southern Africa 
+and the United Kingdom, complemented by a strategic presence in Continental Europe, Channel Islands, 
+Dubai, India, Mauritius, Switzerland and the United States.  
+ 
+Investec partners with private, corporate, and institutional clients, and delivers tailored solutions with 
+exceptional service in the areas of private banking and wealth management, and corporate and investment 
+banking. Investec is driven by its purpose to create enduring worth for all its stakeholders.  
+ 
+The Group was  established in 1974 and currently has approximately 8,000 employees. Investec has a dual -
+listed company structure with primary listings on the London and Johannesburg Stock Exchanges.  
+ 
+About Infosys Finacle  
+Finacle is an industry leader in digital banking solutions. We are a unit of EdgeVerve Systems, a wholly 
+owned product subsidiary of Infosys (NSE, BSE, NYSE: INFY). We partner with emerging and established 
+financial institutions to help inspire better bank ing. Our cloud- native solution suite and SaaS services help 
+banks engage, innovate, operate, and transform better to scale digital transformation with confidence. 
+Finacle solutions address the core banking, lending, digital engagement, payments, cash manag ement, 
+wealth management, treasury, analytics, AI, and blockchain requirements of financial institutions. Today, 
+banks in over 100 countries rely on Finacle to help more than a billion people and millions of businesses to 
+save, pay, borrow, and invest bett er. For more information, visit  www.finacle.com . 
+ 
+Safe Harbor  
+Certain statements in this release, including those concerning our future events, future growth prospects, our future financial or operating performance and our offerings and collaborations are “forward looking 
+statements” intended to qualify for the 'safe harbor' under the Private Securities Litigation Reform Act of 
+1995. Such forward -looking statements are based on our current expectations, assumptions, estimates and 
+projections about the Company, our industry, economic conditions in the markets in which we operate, and 
+certain other matters. These forward -looking statements are subject to substantial known and unknown 
+risks, uncertainties and other factors,  that could cause actual results or outcomes to differ materially from 
+those implied by such forward- looking statements. Important factors that may cause actual results or 
+outcomes to differ from those implied by the forward -looking statements include, but  are not limited to, risks 
+and uncertainties regarding the execution of our business strategy, increased competition for talent, our ability to attract and retain personnel, increase in wages, investments to reskill our employees, our ability 
+to effectivel y implement a hybrid work model, economic uncertainties and geo -political situations, 
+ 
+   
+technological disruptions and innovations such as artificial intelligence, the complex and evolving regulatory 
+landscape including immigration regulation changes, particularly in the United States, our Environmental, 
+Social, Governance (“ESG”) vision, our capital allocation policy and expectations concerning our market 
+position, future operations, margins, profitability, liquidity and capital resources, our corporate actions 
+including acquisitions, cybersecurity matters, the outcome of pending litigation and the US government 
+investigation, and the effect of current and future tariffs. These and additional factors that may cause actual results or outcomes to differ from those implied by the forward- looking statements are discussed in more 
+detail in our US Securities and Exchange Commission filings including our Annual Report on Form 20- F for 
+the fiscal year ended March 31, 2026. These filings are available at www.sec.gov . In light of these and 
+other uncertainties, you should not conclude that the results or outcomes referred to in any of the forward-
+looking statements will be achieved. Infosys may, from time to time, make additional written and oral 
+forward -looking statem ents, including statements contained in the Company's filings with the Securities and 
+Exchange Commission and our reports to shareholders. The Company does not undertake to update any 
+forward -looking statements that may be made from time to time by or on behalf of the Company unless it 
+is required by law.  
+ Media contact  
+For more information, please contact : PR_Global@Infosys.com  

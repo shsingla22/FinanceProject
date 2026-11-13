@@ -1,0 +1,167 @@
+R 
+R Aditya Vision  Limited  R 
+R  
+ 
+ 
+ 
+  
+ 
+                            
+ 
+ 
+Date - December 15 , 2025  
+ 
+BSE Limited                                                                  National Stock Exchange of India Limited        
+Phiroze Jeejeebhoy Towers     Exchange Plaza  
+Dalal Street                                                                        Bandra Kurla Complex, Bandra (East)  
+Mumbai -400001                                                        Mumbai - 400051      
+ 
+Scrip Code: 540205                                                       Symbol -AVL  
+ 
+Sub: - Declaration of Results of Postal Ballot through Remote e -voting along with the  
+Scrutinizer ’s Report  
+ 
+Dear Sir /Ma’am  
+ 
+Further to our letter dated November 12 , 2025 and pursuant to Regulation 44(3) of SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed 
+herewith the details of the voting results (through Remote e -voting) in the prescribed format 
+along with the copy of S crutinizer's Report for the resolutions as set out in the Notice of Postal 
+Ballot dated November 07,  2025.  
+ 
+The resolution as proposed in the Notice of Postal Ballot has been passed by the shareholders 
+with requisite majority and is deemed to have been passed on Saturday, December 13, 2025 
+i.e., the last date specified for remote e -voting.  
+ 
+This is for your information and record.  
+ 
+Thanking you  
+ 
+Yours faithfully  
+ 
+For  Aditya Vision Limited  
+ 
+ 
+ 
+ 
+Akanksha Arya  
+Company Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scrip code 540205
+NSE Symbol AVL
+MSEI Symbol NOTLISTED
+ISIN INE679V01027
+Name of the company ADITYA VISION LIMITED
+Type of meeting Postal Ballot
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)13-12-2025
+Start time of the meeting
+End time of the meetingGeneral information about companyHome Validate
+
+Name of the Scrutinizer DEEPAK KUMAR DHIR
+Firms Name DEEPAK DHIR & ASSOCIATES
+Qualification CS
+Membership Number 11633
+Date of Board Meeting in which appointed 07-11-2025
+Date of Issuance of Report to the company 15-12-2025Scrutinizer DetailsHome Validate
+
+Record date 07-11-2025
+Total number of shareholders on record date 36259
+a) Promoters and Promoter group
+b) Public
+a) Promoters and Promoter group
+b) Public
+No. of resolution passed in the meeting 2
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 25517861 41.9155 25517861 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 60879301 25517861 41.9155 25517861 0 100.0000 0.0000
+E-Voting 40595300 89.5068 34702143 5893157 85.4832 14.5168
+Poll
+Postal Ballot (if applicable)
+Total 45354442 40595300 89.5068 34702143 5893157 85.4832 14.5168
+E-Voting 11434562 50.9805 11434558 4 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 22429307 11434562 50.9805 11434558 4 100.0000 0.0000
+Total Total 128663050 77547723 60.2719 71654562 5893161 92.4006 7.5994
+* this fields are optional
+No. of Votes
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryPromoter and 
+Promoter Group60879301
+Public- 
+Institutions45354442
+Public- Non 
+Institutions22429307Resolution (1)
+Resolution required: (Ordinary / Special) Special
+Whether promoter/promoter group are interested in the agenda/resolution? Yes
+Description of resolution consideredRe-Appointment of Mr. Yashovardhan Sinha (DIN-01636599) as the Chairman and Managing 
+Director of the Company.Home Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 60879301 100.0000 60879301 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)
+Total 60879301 60879301 100.0000 60879301 0 100.0000 0.0000
+E-Voting 40595300 89.5068 40517365 77935 99.8080 0.1920
+Poll
+Postal Ballot (if applicable)
+Total 45354442 40595300 89.5068 40517365 77935 99.8080 0.1920
+E-Voting 11434562 50.9805 11434421 141 99.9988 0.0012
+Poll
+Postal Ballot (if applicable)
+Total 22429307 11434562 50.9805 11434421 141 99.9988 0.0012
+Total Total 128663050 112909163 87.7557 112831087 78076 99.9309 0.0691
+* this fields are optional
+No. of Votes
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryPromoter and 
+Promoter Group60879301
+Public- 
+Institutions45354442
+Public- Non 
+Institutions22429307Resolution (2)
+Resolution required: (Ordinary / Special) Special
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution considered Re-Appointment of Mr. Atul Sinha (DIN-08948807) as an Independent Director of the CompanyHome Validate
+Add Notes

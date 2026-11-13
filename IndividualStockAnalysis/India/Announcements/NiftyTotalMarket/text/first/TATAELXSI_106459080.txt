@@ -1,0 +1,170 @@
+ 
+ December  02, 2025  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+Dear Sir s/Madam , 
+ 
+Sub: Press Release - “Tata Elxsi, University of Illinois Urbana -Champaign, and OSF HealthCare 
+Partner to Transform Rural Healthcare Access in the United States ”  
+ 
+Please find enclosed the Press Release dated December 02, 2025 , titled  “Tata Elxsi, University of Illinois 
+Urbana -Champaign, and OSF HealthCare Partner to Transform Rural Healthcare Access in the United 
+States.”  
+ 
+This disclosure is made in compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015.  
+ 
+This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Sneha V  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+ 
+ 
+ 
+ 
+Tata Elxsi, University of Illinois Urbana -Champaign, and OSF HealthCare 
+Partner to Transform Rural Healthcare Access in the United States  
+  
+Collaboration Leverages Digital Kiosks and AI -Driven Platforms to Bridge Healthcare Gaps  
+  
+Bengaluru, India, and Illinois, U.S.A., December 2 , 2025  – Tata Elxsi, a global leader in design and 
+technology services, has partnered with the University of Illinois Urbana -Champaign  and OSF 
+HealthCare (OSF) to address critical healthcare challenges in rural America. Histo rically, digital health 
+innovations have concentrated on urban populations, leaving rural communities underserved. This 
+pioneering initiative combines advanced technology with academic research from Gies College of 
+Business and Carle Illinois College o f Medicine, leveraging real -time OSF HealthCare data to deploy 
+hyper -localized digital health kiosks funded by Jump ARCHES. These kiosks aim to improve 
+healthcare accessibility and outcomes in underserved regions.  
+  
+Rural areas face steep barriers to healt hcare access, including limited technology awareness, long 
+distances to doctors, poor network connectivity, low population density, and inadequate payer 
+coverage. A detailed OSF -based analysis by the Gies College of Business  found that extending acc ess 
+to primary and preventive care in remote and rural areas significantly reduces avoidable emergency 
+care visits among these populations. The initiative focuses on chronic and behavioral diseases and 
+addresses four key challenges: Hospital re -admission and post -acute care health monitoring, 
+geographic and access barriers, healthcare education and preventive measures, and chronic disease 
+management.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+At the core of this initiative is Tata Elxsi’s  TEngage  platform, a scalable, effective and comprehensive 
+digital health solution  designed to deliver seamless healthcare in rural areas through the kiosks.  
+These kiosks run on Amazon Web Services (AWS) cloud infrastructure and incorporate technologies 
+such as Internet of Medical Things (IoMT) for vital sign collection, Hospital Information System (HIS) 
+integration, telehealth services, and secure data workfl ows. Discussions are underway to incorporate 
+IoT-based remote monitoring, further enhancing the platform's capacity to deliver proactive, 
+continuous care to rural communities.  
+  
+Beginning in Illinois, the initiative will expand to many counties over three years through a phased 
+approach that allows kiosks to adapt based on community usage and feedback. The kiosks will have 
+advanced features, including telehealth integration, health monitoring, and AI analytics for epidemic 
+tracking and predictive healthcare  insights. Additionally, the devices offer cloud -based management, 
+electronic health record connectivity, automated workflow, and telecom infrastructure that enhances 
+connectivity. The T Engage  platform ensures rapid deployment and scalability, establishing a 
+foundation for broader adoption in the future.  
+ 
+Sreevatsa Sahasranaman, Sr. Vice President & Head of Healthcare Business at Tata Elxsi , said, “This 
+partnership demonstrates our commitment to driving healthcare innovation and showcase s how 
+technology can make quality care accessible to all. By combining the University of Illinois’ research 
+insights with our expertise, we are delivering hyper -customized care and impactful solutions that 
+touch rural communities and elevate healthcare del ivery to new milestones.”  
+ 
+Prof. Ujjal Kumar Mukherjee, Gies College of Business and Carle Illinois College of Medicine, 
+added,  “For people in remote and underserved areas, basic healthcare often means traveling long 
+distances or having no access to care at all. But when health services are connected through a hub -
+and-spoke system —from hospitals to regional clinics, to mobile rural clinics, and finally to local 
+health kiosks —we can bring care step -by-step closer to where people live. A simple kiosk at  the last 
+mile becomes more than a device; it’s the final link in a larger network that helps ensure no one is left 
+out.”  
+  
+Ann M. Willemsen -Dunlap, OSF HealthCare, said,  “The computer interface that Tata Elxsi has 
+developed will help community health workers as they bring health screenings and health 
+connectivity to rural Illinois. This will strengthen OSF HealthCare’s ability to meet patients where they 
+are, even if that is miles away from a hospital or clinic.”  
+  
+Telecom service providers play a vital role in enabling this project by providing the critical last -mile 
+connectivity required for seamless healthcare access in remote and rural communities.  This 
+collaboration demonstrates how partnerships between technology innovators, r esearch institutions, 
+and healthcare providers can effectively address societal challenges.  The initiative encourages 
+community partners, clinicians, funders, and policymakers to participate in expanding this innovative 
+model across the United States, cre ating a transformative, technology -driven blueprint for the future 
+of rural healthcare.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Tata Elxsi  
+Tata Elxsi is a global design and technology services company headquartered in Bangalore. It addresses the 
+healthcare, automotive, media &  telecom,  consumer electronics industries. This is supported by a network of 
+design studios, development centers, and offices worldwide.   
+ 
+Tata Elxsi's Healthcare and Life Sciences practice is ISO 13485 certified and collaborates with prominent 
+medical device and pharmaceutical OEMs, as well as technology companies  in Digital Health, Medical Device 
+Engineering & Regulator y Compliance services . Tata Elxsi adds value at every stage of the customer's product 
+development lifecycle. TEcare  by Tata Elxsi represents a significant step forward in the healthcare sector, 
+embracing digital therapeutics and holistic health practices. Recognising the challenges posed by increasing 
+chronic diseases and healthcare expenses, TEcare utilises advanced t echnologies such as AI/ML, AR/VR/XR, 
+gamification, and IoMT to provide evidence -based interventions. For more information, visit  TEcare - A Digital 
+Therapeuti cs Platform  
+Media Contact:  
+Tata Elxsi  
+Hari Balan /Ayushi Moudgil  
+Corporate Communications  
+Email:  media@tataelxsi.com  
+ 
+About the University of Illinois Gies College of Business  
+For more than 100 years, Gies College of Business has intentionally designed its innovative programs, leading -
+edge curriculum, and experiential learning opportunities to empower and prepare students to turn big ideas 
+into meaningful actions. A recognized l eader in delivering high -quality residential and online education, today 
+Gies educates more than 9,000 students – including 6,000+ on -campus and online graduate students – from 
+around the world. Gies learners put their purpose into practice and develop lif elong success skills for a global 
+economy. GiesBusiness.illinois.edu   
+ 
+Media Contact : 
+Gies College of Business  
+Aaron Bennett  
+ 
+About OSF  
+OSF HealthCare is an integrated health system founded by The Sisters of the Third Order of St. Francis. 
+Headquartered in Peoria, Illinois, OSF has 17 hospitals – 11 acute care, five critical access and one continuing 
+care – with 2,305 licensed beds through out Illinois and Michigan. OSF employs over 27,000 Mission Partners 
+across more than 170 locations. These include OSF HealthCare Children’s Hospital of Illinois, the third largest 
+pediatric hospital in the state, and OSF OnCall, its digital health operatin g entity that offers hospital -at-home 
+care. Advances in health care transformation take place through OSF Innovation as well as OSF Ventures, which 
+provides investment capital for promising health care innovation startups. In addition, OSF operates two 
+colleges of nursing; OSF Home Care Services, an extensive network of home health and hospice services; 
+Pointcore, Inc., which is composed of health care -related businesses; and OSF HealthCare Foundation, the 
+philanthropic arm of the organization. OSF HealthCa re has been recognized by Fortune as one of the most 
+innovative companies in the country and by Forbes as one of America’s Best Employers for Healthcare 
+Professionals. Learn more at osfhealthcare.org   
+Media Contact : 
+OSF HealthCare  
+Colleen Reynolds  
+Media Relations Coordinator  

@@ -1,0 +1,50 @@
+ (Formerly known as  “Meesho Private Limited ” and “Fashnear Technologies Private Limited ”) 
+ 
+CIN:  L74900KA2015PLC082263   
+Registered  Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, 
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103  
+T: +91 9108021923 | E: cs@meesho.com  | W: www.meesho.com   
+ MEESHO LIMITED  
+October 28 , 2026  
+ 
+To,  To, 
+Listing Department   Department of Corporate Services  
+National Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza, Bandra -Kurla Complex,  
+Bandra (East), Mumbai - 400 051  Phiroze Jeejeebhoy Towers, Dalal Street,  
+Mumbai - 400 001    
+Symbol: MEESHO  Scrip Code: 544632  
+ 
+Dear Sir / Madam,  
+ 
+Subject: Shareholders’ Letter dated October 28, 2026 . 
+ 
+Ref.: Disclosure under Regulation 30 of the Securities and Exchange Board of India  (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 as amended (“SEBI Listing Regulations”)  
+ 
+Pursuant to Regulation 30 of the SEBI Listing Regulations , please find enclosed Shareholders’ Letter  for Q 2 FY 
+2026-27 dated October 28, 2026 . 
+ 
+This information will also be made available on the Company’s website at: https://investor.meesho.com/financials   
+ 
+You are requested to take the above information on record.  
+ 
+Thanking you,  
+ 
+For Meesho Limited  
+(Formerly known as Meesho Private Limited and Fashnear Technologies Private Limited)  
+ 
+ 
+Rahul Bhardwaj  
+Company Secretary and Compliance Officer  
+Membership No.: A41649  
+Encl.: As above  
+ 
+ 
+
+Our Vision: Democratizing Internet Commerce for Everyone In this letter, we cover our Q2 FY27 financial performance and how the shift in festive timing affects the quarter, progress across Meesho Mall and Content Commerce, logistics efficiency and margins, why we look at free cash flow, how we fund new initiatives, and how AI agents are changing the way we build Meesho. Key Metrics Metrics Q2 FY2026 Q1 FY2027 Q2 FY2027 Annual Transacting Users 234 Mn YoY 34% 274 Mn YoY 29% 284 Mn YoY 21% LTM Frequency 9.7 YoY 10% 10.3 YoY 9% 10.4 YoY 7% Quarterly Placed Orders 699 Mn YoY 55% 725 Mn YoY 29% 819 Mn YoY 17% Net Merchandise Value ₹10,515 Cr YoY 51% ₹11,614 Cr YoY 34% ₹12,911 Cr YoY 23% Contribution Margin  as % of NMV 3.3% 4.6% 6.0% Last Twelve Months (LTM) Free Cash Flow: Marketplace  (₹447 Cr) (₹461 Cr) Last Twelve Months (LTM) Free Cash Flow: New initiatives  (₹90 Cr) (₹104 Cr) Last Twelve Months (LTM) Free Cash Flow: Consolidated            ₹581 Cr (₹537 Cr) (₹565 Cr) LTM Free Cash Flow  to Equity: Consolidated ₹1,010 Cr (₹164 Cr) (₹163 Cr) Cash balance ₹5,947 Cr ₹6,521 Cr ₹7,048 Cr 
+Key takeaways  ● Annual Transacting Users grew 21% YoY to 284 million, and LTM frequency rose 7% to 10.4, even as first-time buyers grew 16% QoQ. Annual Transacting Sellers grew 60% YoY to 1.13 million. ● Placed Orders grew 17% to 819 million, while NMV grew 23% YoY to ₹12,911 crores. Last year’s Mega Blockbuster Sale (MBS) fell in Q2, while this year’s started in Q3. On a festive-aligned basis, NMV grew 33% YoY over the 90 days before Dussehra.  ● Contribution Margin rose to 6.0% of NMV, from 4.6% in Q1. We will reinvest some of this in the user and seller experience and expect it to moderate in the near term. Last Twelve Months (LTM) Free Cash Flow stood at (₹565) crores and LTM Free Cash Flow to Equity stood at (₹163) crores, while quarterly free cash flow was ₹345 crores, boosted by seasonal working capital, with a cash balance of ₹7,048 crores.  ● As we flagged last quarter, we raised growth spend to bring new users onto Meesho before the festive season, and secured compute capacity early, increasing our GPU footprint by 150%. Our assessment of the quarter Net Merchandise Value – Marketplace   UoM Q1 FY’26 Q2 FY’26 Q3 FY’26 Q4 FY’26 Q1 FY’27 Q2 FY’27 ATUs # million 213 234 251 264 274 284 LTM Frequency #  9.49 9.70 9.78 10.10 10.33 10.39 Placed Orders # million 562 699 690 717 725 819 YoY Growth%  50% 55% 36% 43% 29% 17% GMV – Marketplace ₹ crores 15,134 18,349 18,285 18,941 19,054 21,163 NMV – Marketplace ₹ crores 8,679 10,515 10,995 11,371 11,614 12,911 YoY Growth%  36% 51% 26% 43% 34% 23%  ● NMV grew 23% YoY to ₹12,911 crores in Q2 FY27, and Placed Orders grew 17% to 819 million. As we flagged last quarter, our Mega Blockbuster Sale (MBS) moved from Q2 last year to Q3 this year, so Q2 will look softer than the underlying trend and Q3 stronger. The two are best read together.  Several measures suggest underlying demand held up: ● Festive-aligned growth: Shopping in India follows the festival calendar, not fiscal quarters. Demand builds through Navratri and peaks around Dussehra and Diwali, and our sale is timed to that cycle. This year, Dussehra fell about 19 days later than last year, so the festive build-up moved partly out of Q2 and into Q3. Comparing the 90 days before Dussehra in each year lines up the same stretch of festive demand, sale included, regardless of where the quarter ends. On that basis, NMV grew 33% YoY. ● Quarter on quarter: NMV grew ~11% QoQ, in a quarter with no sale. 
+● Habit: LTM frequency rose 7% YoY to 10.4, even as first-time buyers grew 16% QoQ. New users take time to settle in, so frequency rising alongside them means existing users are shopping with us more often. ● NMV grew faster than orders this quarter mainly because last year was affected by temporary inefficiencies from consolidation in the third-party logistics industry, which did not recur this year. As a result, more of the orders customers placed were delivered. Meesho Mall ● Meesho Mall now hosts ~1,800 brands. Its NMV grew 81% YoY in Q2 FY27, and 89% in Tier 3+ cities, with about half of its customers in the quarter buying on Mall for the first time. Meesho Mall is commission-free, so brands can reach these customers without paying to get there, and shoppers get genuine brands at prices they can afford. ● What people buy on Meesho Mall is changing. When we started, most branded purchases were essentials such as soap, shampoo, detergent and diapers, and those purchases built trust. Today, the same customers are also buying face serums, sunscreens, conditioners and face rollers, and discretionary products make up a growing share of what they buy on Meesho Mall. These are first steps beyond the basics, taken in towns that many brands have not reached directly before. ● Our scale also lets us work closely with brands. We see emerging consumption trends, regional preferences and how shopping habits are changing in smaller towns. We share these insights with brands to help them understand these customers and plan for growth across the country. Content Commerce ● Content Commerce NMV grew 160% YoY in Q2 FY27, and the number of content pieces generating orders grew 144% to 2.2 million. What began as a way for customers to discover products is now how a growing number of them decide what to buy: they watch someone they trust use a product, then buy it. ● It works for everyone involved. Customers find products through creators they relate to, sellers reach demand they could not reach on their own, and creators earn from what they make. Over 4 lakh sellers are now part of the ecosystem. Because creators earn only when their content leads to a purchase, everyone’s incentives point the same way. Contribution Margin – Marketplace 
+ 
+
+Contribution Margin rose to 6.0% of NMV in Q2 FY27, from 4.6% in Q1. Two things drove it: Revenue growth: Revenue from Operations (Marketplace) was ₹4,119.9 crores, up 34% YoY, as more sellers invested in ads that reliably convert into orders, and better matching of seller demand to user intent made every rupee they spend work harder. Logistics efficiency: greater network density, better network design, routing and partner allocation, and improvements in Geo-India LLM made delivery c.15% faster YoY and lowered cost per shipment as volumes grew, so each additional order now brings overall cost down while improving the experience. TrustMesh, our AI model for preventing abuse at scale, continues to get better at stopping potentially fraudulent orders before they are placed, so fewer shipments end up cancelled or returned to origin We may not hold Contribution Margin at this level in the near term. Our platform has increasing returns to scale, so fulfilling each order gets more efficient as we grow. Denser logistics networks lower the cost of each shipment. Every additional transaction gives our AI models more signal, which improves relevance, visits and conversion, and makes our advertising more valuable to sellers. As the business becomes more efficient, we will reinvest part of the gains: lowering sellers’ cost of doing business, improving the experience for everyone on the platform, and scaling earlier-stage flywheels like Meesho Mall and Content Commerce. We believe a larger, healthier platform running at a reinvested margin will generate more free cash flow over the long term than a smaller one optimised for near-term margin. We are making this trade-off to deliver on our mission of Democratizing Internet Commerce for Everyone faster. Free Cash Flow    UoM Q2 FY’26 Q3 FY’26 Q4 FY’26 Q1 FY’27 Q2 FY’27 Contribution Margin – Marketplace ₹ crores 349 251 459 531 775 Contribution Margin – Marketplace % % 3.3% 2.3% 4.0% 4.6% 6.0% Adjusted EBITDA – Marketplace ₹ crores (371) (460) (198) (139) (130) Adjusted EBITDA – Marketplace % % (3.5%) (4.2%) (1.7%) (1.2%) (1.0%) Adjusted EBITDA – New Initiatives ₹ crores (13) (19) (21) (39) (42) LTM FCF ₹ crores 581 56 (633) (537) (565) Quarterly FCF - Consolidated ₹ crores 373 (421) (263) (226) 345 Quarterly FCF - Marketplace ₹ crores 386 (406) (237) (190) 372 Quarterly FCF - New Initiatives ₹ crores (13) (15) (26) (36) (27) 

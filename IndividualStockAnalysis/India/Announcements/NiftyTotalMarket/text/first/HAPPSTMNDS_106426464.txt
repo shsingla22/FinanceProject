@@ -1,0 +1,199 @@
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala,  
+Bengaluru -560068 , Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+  November 0 4, 2025 
+Listing Compliance & Legal Regulatory  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Mumbai 400 001  
+Stock Code: 543227,  974820  & 975101  Listing & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai 400 051  
+Stock Code: HAPPSTMNDS  
+  Dear  Sir/Madam,  
+Sub:  Transcript  of Earnings  Call held  on October 29 , 2025 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,  2015 
+read with SEBI  (Listing  Obligations and Disclosure Requirements) (Second  Amendment ) Regulations, 
+2021, please find enclosed the transcript of the Earnings Call held on October 29 , 2025, post  
+announcement of financial results of the Company for the quarter and half year ended  as on 
+September  30, 2025. The transcript is also uploaded on the Company ’s website  
+(https://www.happiestminds.com/investors ). 
+This is for your  information  and records . 
+ Thanking  you,  
+   Yours  faithfully,  
+   For Happiest  Minds  Technologies  Limited  
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer   
+Membership  No. F6706  
+
+Page 1 of 27 
+  
+ 
+“Happiest Minds Technologies Limited  
+Q2 FY '26 Earnings Conference Call”  
+October 29, 2025  
+ 
+      
+ 
+ 
+Management:  Mr. Ashok Soota  – Chairman & Chief Mentor  
+ Mr. Joseph Anantharaju  – Co-Chairman & CEO  
+ Mr. Venkatraman Narayanan  – Managing Director  
+ Mr. Rajiv Shah  – Executive Director   
+                                  Mr. Ram Mohan  –Chief Executive Officer, Infrastructure 
+Management and Securities Services  
+ Mr. Sridhar Mantha  –Chief Executive Officer, Generative Ai 
+Business Services  
+ Mr. Anand Balakrishnan  – Chief Financial Officer  
+ Ms. Priyanka Sharma  – Head Investor Relations  
+ 
+ 
+Moderator:  Mr. Sushovon Nayak  – Anand Rathi Institutional Equities  
+ 
+ 
+ 
+
+  Happiest Minds  Technologies Limited  
+  October  29, 2025  
+ 
+Page 2 of 27 
+ 
+ 
+Moderator:  Ladies and gentlemen, good day, and welcome to the Happiest Minds Q2 FY 
+'26 Earnings Conference Call hosted by Anand Rathi Institutional Equities. As 
+a reminder, all participant lines will be in the listen -only mode and there will 
+be an opportunity for you  to ask questions after the presentation concludes. 
+Should you need assistance during this conference, please signal an operator 
+by pressing star and then zero on your touchtone phone. Please note that this 
+conference is being recorded.  
+ I now hand the conference over to Mr. Sushovon Nayak  from Anand Rathi 
+Institutional Equities. Thank you, and over to you, sir.  
+Sushovon Nayak:  Thank you Pavan. I hope my voice is audible.  
+Moderator:  Yes, sir.  
+Sushovon Nayak:  Good morning, ladies and gentlemen. Thank you for joining us today for the 
+Q2 FY '26 earnings call of Happiest Minds Technologies Limited. On behalf of 
+Anand Rathi Institutional Equities, I would like to thank the management of 
+Happiest Minds for giving us  the opportunity to host this earnings call.  
+ Today, we have with us Mr. Ashok Soota, Chairman and Chief Mentor; Mr. 
+Joseph Anantharaju, Co -Chairman and CEO; Mr. Venkatraman Narayanan, 
+Managing Director; Mr. Rajiv Shah, Executive Director; Mr. Ram Mohan, CEO, 
+Infrastructure Management and Security Se rvices; Mr. Sridhar Mantha, CEO, 
+Generative AI Business Services; Mr. Anand Balakrishnan, CFO; and Ms. 
+Priyanka Sharma, Head of Investor Relations.  
+ I will hand it over to Priyanka for Safe Harbor statement and to take the 
+proceeding forward. Thank you, and over to you Priyanka.  
+Priyanka Sharma:  Thank you Sushovon. Good morning to all participants on the call. Welcome 
+to this conference call to discuss the financial results for H1 and second 
+quarter ended September 30, 2025. I'm Priyanka Sharma, Head of Investor 
+Relations. We hope you had an oppor tunity to review the earnings release we 
+issued yesterday evening.  
+  Happiest Minds  Technologies Limited  
+  October  29, 2025  
+ 
+Page 3 of 27 
+ 
+ Let me quickly outline the agenda for today's call. Ashok will begin by sharing 
+his perspective on the business environment and our results. Joseph and 
+Venkat will then discuss our financial performance and operational highlights. 
+Following that, we will open the floor for questions.  
+ Before we begin, let me read the Safe Harbor statement. During this call, we 
+may make forward -looking statements. These statements reflect the 
+environment we see as of today and involve risks and uncertainties that could 
+cause actual results to differ mat erially. We do not undertake to update these 
+statements periodically.  
+ With that, let me now hand it over to Mr. Ashok Soota.  
+Ashok Soota:  Thank you, Priyanka. Good morning, everyone, and thank you for joining us 
+today. We are really happy to share that our strong H1 FY '26 results with 
+revenue growth of 11.8% in constant currency and EBITDA margin of 20.8% 
+reflect the continued success of ou r 10 strategic transformations. These 
+transformations were announced in the last quarter of FY '25 and are now 
+visibly yielding these excellent results.  
+ Amongst them, the most defining organizational change was that Joseph 
+Anantharaju became the Co -Chairman and CEO. I'm happy to advise that 
+Joseph has really settled into his enhanced responsibilities remarkably well 
+and the impact of his leadership and th e structural changes he has driven are 
+clearly visible in our performance this half year.  
+ Two of our strategic initiatives, in particular have been pivotal in accelerating 
+growth; the creation of our generative AI business unit and our sharper focus 
+on expanding Net New Accounts. The generative AI business unit has been a 
+standout performer. Since its launch in October '24, it has scaled rapidly and 
+become one of our key growth engines.  
+ GBS delivered 77.8% year -on-year growth in constant currency for Q2 and 
+79% for H1, along with 15.3% sequential growth this quarter. This is amazing 
+numbers and a clear reflection of how our customers have responded to our 
+AI and Gen AI -Led solutions. What is even more heartening is that many of 
+  Happiest Minds  Technologies Limited  
+  October  29, 2025  
+ 
+Page 4 of 27 
+ 
+our solutions are highly replicable. And as we take these to other customers, 
+it will lead to further accelerated growth.  
+ Equally encouraging is the momentum from our Net New Sales initiative. The 
+independent sales unit has strengthened our go -to-market discipline, 
+accelerated client acquisition and expanded our opportunity pipeline, 
+creating a solid base for future growth.  
+ The success of these two initiatives, GBS and NN underscores the 
+effectiveness of our strategic direction and validates the investments made. 
+Both are deeply linked to the structure and cultural shifts Joseph has 
+championed, including agility, accountabili ty and AI -first mindset across the 
+organization.  
+ Our consistent performance in a muted demand environment reaffirms the 
+resilience of our AI -led offshore model. Each of our 10 transformations is now 
+delivering measurable outcomes from faster decision -making and sharper 
+vertical accountability to enhance  productivity and operating leverage.  
+ Together, these are structurally strengthening Happiest Minds for the long 
+term. I would say it's the combined impact of Joseph's leadership, the rapid 
+scaling of GBS and the momentum from our NN sales engine that gives us the 
+confidence and this is impor tant.  
+ We are raising our earlier commitment, which was for three consecutive years 
+of double -digit growth. We are now raising this to four continuous years of 
+double -digit growth. This reflects our confidence in our pipelines.  
+ It reflects our confidence in getting accelerated growth through these 
+businesses that we've talked about and the many other areas which will now 
+start contributing more heavily. And it also shows the predictability of our 
+business model as we proceed ahe ad with our AI -driven transformation 
+portfolio.  
+ With that, I would like to thank all our customers, our partners, shareholders 
+and mindful innovators for their continued trust and commitment. I now 
+  Happiest Minds  Technologies Limited  
+  October  29, 2025  
+ 
+Page 5 of 27 
+ 
+invite Joseph to take you through the business highlights and customer 
+success stories for the quarter and the half year.  
+Joseph Anantharaju:  Thank you, Ashok, and good morning, everyone. We have delivered a robust 
+H1 FY '26 performance with revenues of US$129.5 million, growing 11.8% in 
+constant currency and delivering EBITDA margins of 20.8%, well within our 
+guided range. This reflects the continued success of our 10 strategic 
+transformation and reinforces our ability to deliver consistent profitable 
+growth even in a challenging d emand environment.  
+ In an industry context where most peers reported flat to mid -single -digit 
+growth, our performance stands out, which was powered by a strong offshore 
+model, domain focus and early test on Generative and Agentic AI. So let me 
+begin with the demand environment.  
+ Across industries, clients are reprioritizing spend towards cost efficiency, AI -
+driven productivity and digital modernization. While discretionary budgets 
+remain tight, we are seeing a clear rise in investment intensity across data, 
+cybersecurity and gene rative AI, areas where Happiest Minds is uniquely 
+positioned to lead.  
+ Our Generative AI business unit continues to be a major growth driver. The 
+success of this unit is evident from 22 transformative AI use cases that have 
+now scaled into replicable projects, unlocking GBS -led sales potential of 
+nearly $50 million over the next f ew years. These projects are shaping how 
+enterprises adopt AI -first architecture. We are building intelligence to 
+platforms and processes to deliver measurable business outcomes.  
+ As part of these initiatives, we are also discovering major challenges with the 
+customers' data in terms of silos, quality and governance, leading to 
+significant opportunities. At the same time, customers are also realizing the 
+architecture is not optimiz ed for AI, leading to modernization projects. Our 
+investment in an independent Net New sales unit has also begun to deliver 
+strong results.  
+ During H1, we added 30 new clients generating approximately $9 million in 
+revenues and representing a potential of $50 million to $60 million over the 

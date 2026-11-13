@@ -1,0 +1,153 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+November 5, 2026  
+ 
+To,  
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza       Phiroze Jeejeebhoy Towers  
+Plot no. C/1, G Block      Dalal Street  
+Bandra Kurla Complex, Bandra (E)    Mumbai 400 001  
+Mumbai 400 051       
+ 
+Symbol: CPPLUS      Scrip Code: 544466  
+ISIN: INE819V01029      ISIN: INE819V01029  
+ 
+ 
+Dear Sir / Madam,  
+ 
+Sub.: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015  – Investor Presentation - Financial Results for the quarter & half year ended 
+September 30, 2026  
+ 
+Pursuant to provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations , 2015 (“SEBI Listing Regulations"), as amended, please find enclosed herewith the 
+Investors Presentation on the unaudited financial results (standalone & consolidated) of the 
+Company for the quarter & half year ended September 30, 2026.  
+ 
+The investors presentation will also be hosted on the Company's website viz. 
+https://www.adityagroup.com/  
+ 
+Kindly take the same on record.  
+ 
+For and on behalf of Aditya Infotech Limited   
+ 
+ 
+ 
+ 
+Roshni Tandon  
+Company Secretary & Compliance Officer  
+ 
+Encl:  As above  
+=== page 2 ===
+Q2 & H1 FY2027 RESULTSAditya Infotech LimitedLEAD AT HOME LEAD WITH TECH GROW ABROAD
+Investor Presentation5 November 2026
+
+=== page 3 ===
+DISCLAIMERDisclaimer and safe harbourstatementThispresentationhasbeenpreparedbyandisthesoleresponsibilityofAdityaInfotechLimited(the“Company”).Itdoesnotconstituteanoffer,invitation,inducementorrecommendationtopurchaseorsubscribeforanysecuritiesoftheCompany,andisnotaprospectusorofferdocumentunderthelawsofanyjurisdiction,includingIndia.Norepresentationorwarranty,expressorimplied,ismadeastothefairness,accuracy,completenessorcorrectnessoftheinformationoropinionsinthispresentation,whicharenotcurrentafteritsdate.TheCompanyhasnoobligationtoupdateoramendit,andmaychangeitscontentwithoutnotice.Figuresareconsolidatedandunauditedunlessstatedotherwise.Statementsthatarenothistoricalfacts,includingoutlookandguidance,areforward-lookingstatements.Theyinvolveknownandunknownrisks,uncertaintiesandassumptionsthatmaycauseactualresultstodiffermaterially,includingtheCompany’sabilitytoimplementitsstrategyandgrowthplans,completionofannouncedtransactions,demandconditions,componentpricesandavailability,changesinregulation,technologicalchange,competitionandcash-flowprojections.Thispresentationisforgeneralinformationonly,withoutregardtotheobjectives,financialsituationorneedsofanyparticularperson.
+Registered office: F-28, Okhla Industrial Area, Phase 1, New Delhi 110 020 · ir@adityagroup.com2
+
+=== page 4 ===
+EXECUTIVE SUMMARYLeadership, profitability and a debt-free balance sheet~42%AIL market share, 12 months to Sep 2026*Up from 30% at IPO (FY25)3,148H1 FY27 revenue, ₹ Cr+89.7% YoY362.1H1 FY27 PAT before exceptional item†, ₹ Cr+252.0% YoY1,071.2Net cash, ₹ Cr, 30 Sep 2026Debt fully repaid in OctoberBuilt to leadScale, R&D, distribution and brand strength reinforce CP PLUS’s competitive positioningIntegrated scaleIn-house manufacturing, deeper component localisation and a multi-brand portfolio across price points.Technology expansionOwn firmware, multi-SoC supply resilience and a 30% strategic stake in BLUE for video compression.* TTM to Sep 2026 · † Exceptional item: ₹34.4 Cr fire loss at AIL Dixon; reported H1 PAT ₹327.7 Cr3
+Q2: ₹1,746 Cr · +89.9% YoYQ2: ₹219.9 Cr · +214.2% YoY
+=== page 5 ===
+Q2 & H1 FY27 CONSOLIDATED HIGHLIGHTSRevenue Growth with improved Net Working CapitalREVENUE₹1,746.0 CrQ2 FY27 · +89.9% YoYH1 FY27 · ₹3,148 Cr · +89.7%EBITDA₹307.4 CrQ2 FY27 · +176.7% YoYH1 FY27 · ₹515 Cr · +192.7%EBITDA MARGIN17.6%Q2 FY27 · +550 bps YoYH1 FY27 · 16.3% · +580 bpsPAT BEFORE EXCEPTIONAL†₹219.9 CrQ2 FY27 · +214.2% YoYH1 FY27 · ₹362 Cr · +252.0%Operating efficiencyMetricH1 FY27FY26Net working capital72 days78 daysReceivable days96 days121 daysROCE, annualised34.3%ROE, annualised26.9%Balance sheet, 30 Sep 2026Item₹ CrCash and cash equivalents1,433.9Total borrowings362.7Net cash1,071.24† Exceptional item: ₹34.4 Cr fire loss at AIL Dixon; reported PAT Q2 ₹185.5 Cr, H1 ₹327.7 Cr · Margins on total income · ROCE, ROE annualised on average of Sep-26 and Sep-25
+
+=== page 6 ===
+DOMESTIC LEADERSHIP · AIL GROUP~42%AIL’s share of India’s video-surveillance market in the twelve months to September 2026*, up from 30% at the IPO.Won on execution: scale, R&D, distribution and brand.FY25 · at IPO30%FY26~34%12 months to Q2 FY27~42%FY27E · on guidance43–45%Market: FY25 ₹10,620 Cr (Frost & Sullivan); FY26 ₹12,370 Cr, interpolated on F&S growth and taking into account the under-indexed unorganised segment; FY27 ₹15,000 Cr, company estimate.Sources: IPO offer document, Frost & Sullivan, company estimates · * TTM to Sep 2026; share is a company calculation5
+
+=== page 7 ===
+INDUSTRY STANDARDS · WHY CP PLUS LEDHigher industry standards played to CP PLUS's strengthsApr 2024Security rules notifiedApr 2025OEMs sell only certified camerasMar 2026Uncertified sell-off endsManufacturing scaleIn-house plants at 2.5 Mn units a month, ready to ramp certified supplyTechnology depthOwn firmware and in-house design: 100+ models certified.Distribution widthNationwide reach to put certified product on shelves firstPeople and experienceThe most experienced management and field teams in Indian surveillance, with three decades of industry leadershipBrand powerThe trusted name buyers turned to when the market resetKnow-howDeep understanding of Indian channels, buyers and compliance
+Aditya Infotech Limited · Q2 & H1 FY27 Results6100+CP PLUS models STQC security-certified, the base for taking certified supply to market first
+
+=== page 8 ===
+CAPITAL STRUCTUREQIP proceeds fund the next phase of growthQIP RAISED₹1,500 Cr4.33 Mn shares at ₹3,467 per shareUse of net proceeds, as per the placement document₹325 CrRepay or prepay borrowings of AIL and its subsidiary AIL Dixon₹650 CrCapex via AIL Dixon: Kadapa Phase III and Knowledge Park plant₹490.5 CrInorganic growth through acquisitions, and general corporate purposes₹1,465.5 CrTotal net proceeds
+Aditya Infotech Limited · Q2 & H1 FY27 Results7
+
+=== page 9 ===
+STRATEGIC INVESTMENT · AGREEMENTS SIGNED 5 NOVEMBER 2026AIL invests in BLUE: video-compression IP and a proven engineering teamAT A GLANCETeamSix co-founders, 15–20+ years each; IIT Bombay, IIM BangaloreTrack recordBuilt and sold a video-analytics company (2022)Patents10: 3 filed, 7 in progressDeal · ₹118 Cr pre-money · ₹151 Cr post₹45.4 Cr for a 30% stakeFully diluted. AIL holds one board seat and one observer seat.Compression technologyA perception-aware layer on top of standard H.264: it learns the scene and drops what people don’t need, such as static backgrounds, lighting flicker and noise.Up to 90%less storage and bandwidthLow costruns on modest hardware already in the fieldNo GPUworks with existing camerasSkills and know-howComputer vision, embedded and enterprise integration, with live deployments in QSR, FMCG and energyWhat it brings AILLower storage cost in NVRs and CP PLUS cloud, and a recurring software layer, with AI analytics as an add-onBLUE: KGraph AI Solutions · Completion subject to customary conditions · Compression figures: BLUE company data8
+
+=== page 10 ===
+GROWTH LEVERSFour growth levers, backed by technology and net cash01Take share in the core30% at IPO to ~42% today; STQC, distribution and brand sustain the gains.02Win at both ends of the pyramidPRO in the ~10% high-margin premium segment; NEXIVIEW & EYRA converts unorganized market03Scale and localise manufacturingKadapa Phase III and Greater Noida add capacity; localisation lifts margin.04Go globalODM partnerships and export entry in about 18 months.ENABLER · TECHNOLOGYOwn firmware, multi-SoC designs and BLUE video compressionENABLER · BALANCE SHEET₹1,071 Cr net cash; QIP proceeds for capacity and inorganic growthMARKET TAILWIND₹15,000 Cr in FY27 to ₹26,000 Cr by FY30, ~20% CAGRMarket size: company estimates · Aditya Infotech Limited · Q2 & H1 FY27 Results9
+
+=== page 11 ===
+MARKET OPPORTUNITY · PORTFOLIOFour brands, growth at both ends of the pyramid
+Market size: FY27 and FY30 company estimates · * Trailing twelve months to Sep 2026; share is a company calculation10₹15,000 CrEstimated market size, FY27₹26,000 CrEstimated by FY30, ~20% CAGR~42%AIL market share, 12 months to Sep 2026*
+PREMIUM · TOP OF THE PYRAMIDPTZ, thermal and 4K for the ~10% high-margin enterprise segment; rollout Q4 FY27
+MID to MAINSTREAMScale, consumer trust and nationwide distribution
+ENTRY to MID-MARKETPriced below CP PLUS for commercial and mid-market buyers
+VALUE / ENTRY · BOTTOM OF THE PYRAMIDCertified entry-level cameras converting unorganised and grey-market demand
+
+=== page 12 ===
+INTEGRATED MANUFACTURINGCapacity and localisation to scale the modelCURRENT CAPACITY2.5 Mn/moKadapa, Andhra Pradesh · ~80% utilisedPLANNED CAPACITYMore than 2xKadapa Phase III and Greater Noida, funded from the QIPLOCALISED COMPONENTS4 categoriesLenses, cables, housings and IoT modulesLocalisation roadmap
+Plants: Kadapa (AP), Greater Noida (UP), cable JV in Rajasthan · R&D: Noida, Ahmedabad, Bangalore, Taiwan · mo = month11ComponentPlanLensesAutomated lens line: 1 Mn/mo, scalable to 2 Mn/moLens manufacturing facilityCablesJV with Orient: LAN and CCTV cable plant, RajasthanHousings and enclosuresIn-house housing and enclosure production, phasedIoT modules and PCBsLocal Wi-Fi / 4G IoT modules and bare-PCB sourcing
+
+=== page 13 ===
+Marketing CP PLUS X Ranveer SinghINVESTING IN THE BRAND
+12
+=== page 14 ===
+FY27 OUTLOOK · REVISED GUIDANCEFY27 guidance raised on a strong H1FY27Current guidanceRevised guidanceChangeRevenue₹6,000–6,500 Cr₹6,500–6,800 CrRaisedRevenue growth+42–54%+54–61%RaisedEBITDA margin14–15%14–15%MaintainedPAT margin8.5–9.5%9–10%RaisedManagement commentary•Revenue guidance raised to ₹6,500–6,800 Cr (+54–61%) on a strong H1•H1 growth of 90% came on a low H1 FY26 base, when STQC certification backlogs held back supply; H2 growth will moderate•EBITDA margin maintained at 14–15%, as the Company moderates price increases and absorbs part of the SoC, DDR and flash cost inflation to gain market share•PAT margin guidance raised to 9–10%, as QIP proceeds used to repay debt lower finance costsAditya Infotech Limited · Q2 & H1 FY27 Results13
+
+=== page 15 ===
+THANK YOUCompany: Aditya Infotech LimitedCIN: L74899DL1995PLC066784Ms. Dipika Dubeyir@adityagroup.comwww.adityagroup.comINVESTOR RELATIONS ADVISOR · CHURCHGATE PARTNERSMs. Anvita Raghuram / Ms. Neha Dingria+91 73032 11037adityainfotech@churchgatepartners.com
+=== page 16 ===
+ANNEXURESA1 P&LA2 ReturnsA3 ShareholdingA4 BoardA5 LeadershipA6 Product rangeA7 Awards
+
+=== page 17 ===
+ANNEXURE A1 · CONSOLIDATED RESULTSConsolidated profit and loss, Q2 and H1 FY27Particulars (₹ Cr)Quarter endedHalf year endedQ2 FY27Q2 FY26YoYH1 FY27H1 FY26YoYRevenue1,746.0919.689.9%3,148.41,659.789.7%COGS1,221.6645.62,192.21,217.7Gross profit524.3274.091.4%956.2442.0116.4%Gross margin30.0%29.8%+24 bps30.4%26.6%+374 bpsEmployee benefits124.982.9235.7146.0Other expenses96.082.5213.3126.5Other income3.92.68.06.6EBITDA307.4111.1176.7%515.2176.0192.7%EBITDA margin17.6%12.0%+552 bps16.3%10.6%+576 bpsDepreciation and amortisation14.810.627.721.0EBIT292.6100.4191.3%487.5155.0214.5%EBIT margin16.7%10.9%+583 bps15.4%9.3%+614 bpsFinance costs6.06.9–13.9%10.317.4–41.1%Share of loss in JV(0.4)–(0.4)–PBT before exceptional item286.293.5206.0%476.9137.6246.6%PBT margin before exceptional item16.4%10.1%+622 bps15.1%8.3%+685 bpsExceptional item (fire loss)(34.4)–(34.4)–PBT251.993.5169.3%442.5137.6221.6%PBT margin14.4%10.1%+425 bps14.0%8.3%+576 bpsTax66.423.6114.834.7PAT before exceptional item219.970.0214.2%362.1102.9252.0%PAT margin before exceptional item12.6%7.6%+498 bps11.5%6.2%+530 bpsReported PAT185.570.0165.1%327.7102.9218.6%Reported PAT margin10.6%7.6%+301 bps10.4%6.2%+421 bpsConsolidated, unaudited · Gross margin on revenue; other margins on total income · Exceptional item: ₹34.4 Cr fire loss at AIL DixonA1
+
+=== page 18 ===
+ANNEXURE A2 · RETURNS AND BALANCE SHEETHigher returns, net cash and a tighter receivables cycleBalance sheet, 30 Sep 2026Net cash ₹1,071 Cr (₹52 Cr at March 2026) after the ₹1,500 Cr QIP. Shareholders' funds ₹3,668 Cr (₹1,877 Cr at March). Borrowings of ₹363 Cr at 30 September were repaid in October.
+Consolidated · ROCE: EBIT before exceptional / average capital employed · H1 ratios annualised; days on H1 revenue · Net cash: cash and cash equivalents less borrowingsA2
+MetricH1 FY27H1 FY26FY26ROCE34.3%20.4%30.6%ROE26.9%16.4%25.4%Inventory days11110495Receivable days96116121Payable days135157138Cash conversion cycle, days726478Debt / equity0.10x0.05x0.06xInterest cover (EBIT / finance cost)46.7x8.5x16.9x
+=== page 19 ===
+ANNEXURE A3 · SHAREHOLDINGInstitutions now hold 22.9% of the companyPromoters71.8%DIIs16.1%FIIs6.8%Public and others5.3%
+Aditya Infotech Limited · Q2 & H1 FY27 ResultsA3INSTITUTIONAL HOLDING22.9%DIIs 16.1% and FIIs 6.8%, after the QIP
+
+=== page 20 ===
+ANNEXURE A4 · GOVERNANCEBoard of Directors: eight members, half independent
+Hari Shankar KhemkaExecutive DirectorNearly 3 decades in video surveillance; oversees legal, administration and strategic planning
+Aditya KhemkaExecutive Director and MDNearly 31 years in the industry; leads strategy, operations, investments and product development
+Ananmay KhemkaExecutive DirectorWith AIL since 2020; drives AI, IoT, video analytics and technology partnerships
+Atul B LallNon-Executive DirectorVice Chairman and MD, Dixon Technologies; 30+ years in electronics manufacturing
+Ambika SharmaIndependent DirectorFormer Director General, International Affairs, FICCI; nearly 37 years
+Chetan KajariaIndependent DirectorJoint MD, Kajaria Ceramics; 25+ years in building materials
+Manish SharmaIndependent DirectorFormer Chairman, Panasonic India; chairs FICCI’s electronics manufacturing committee
+Himanshu BaidIndependent DirectorMD, Poly Medicure; 30+ years in medical devicesAditya Infotech Limited · Q2 & H1 FY27 ResultsA4
+
+=== page 21 ===
+ANNEXURE A5 · LEADERSHIP TEAMThe team driving the next phase of growth
+Aditya Infotech Limited · Q2 & H1 FY27 ResultsA5
+Sanjay GogiaDirector –Sales
+Monika SharmaDirector –Product and R&D
+Anup NairDirector –Strategy, Operations and Investor Relations
+Yogesh Chand SharmaChief Financial Officer
+Roshni TandonCompany Secretary and Compliance Officer
+
+=== page 22 ===
+COMPREHENSIVE PORTFOLIO, PROVIDING END TO END SECURITY SOLUTIONS ACROSS VERTICALS 
+Smart Home IoT Cloud CamerasFull-Color Cameras, Active Deterrent,, Floodlight Cameras
+HD Analog SolutionsDual light Cameras, Built-In Mic,Higher Resolution, DVRs
+Intelligent Network CamerasPTZ Cameras, Long-Range IR Cameras, SMD Cameras
+Body-Worn Cameras (BWC) Online & offline BWC, Support upto512GB
+Thermal Cameras and long-range IR cameras Smoke/ Fire/Motion Detection, Cold/Hot Spot Tracking, Stainless Steel Housing, IP68
+AI-Powered Cameras & SolutionAI, ANPR, FR, PeopleCounting, Heat map
+Network VideoRecorders Upto256Ch. -Upto24 SATA,RAID Supported, Power Redundancy, IVS Supported
+Mobile/ Onboard Surveillance Mobile NVR/DVR Solution,Advanced AI-System Supported
+Time-Attendance & Biometric Products Fingerprint and face recognitionbiometric solution powered by AMS (workforce management tool)
+Integrated Central Command & Control Solution Video Wall solution, Storage solutions, EVMS Pro -Integrated VMS platform, Joystick
+InteractiveDisplaysUpto86" InteractveDisplay, OPS Support, Android Platform, Feature rich whiteboard
+Wi-Fi 4GRouters4G Sim Card support,Wi-Fi-802.11b/g/n Support
+Home AccessProductsVideo Doorphones, Wi-Fi Doorbells & Digital Door Locks
+PoE Switches and other Accessories & Products Monitors, Power Supplies,Hard Disks, Cabling, Racks, Electromagnetic Locks, Housing, IR-illuminators
+4G Cameras Wireless, High-Performance 4G Outdoor Cameras, solar Powered Cameras
+DashcamsCarKamFront & Rear Camera,CarKamFront, Rear & Cabin Camera,  CarKamGPS
+A6
+=== page 23 ===
+ANNEXURE A7 · AWARDS AND RECOGNITIONRecognised for innovation, R&D and manufacturing
+Aditya Infotech Limited · Q2 & H1 FY27 ResultsA7Outstanding Company of the Year50th ELCINA Awards for ExcellenceResearch & Development Award50th ELCINA Awards for ExcellenceBusiness Excellence Award50th ELCINA Awards for ExcellenceTop Performing BrandGeM Awards 2026Best Security Camera of the YearAmazon Best in Tech Awards 2026Disruptive AI Innovation and Real-Time AI Intelligence AwardsWorld AI AwardsExcellence in Made-in-Bharat Security InnovationET Leaders Awards North 2026Excellence in Made-in-Bharat Security & Surveillance SolutionsTimes Business Icons North 2026

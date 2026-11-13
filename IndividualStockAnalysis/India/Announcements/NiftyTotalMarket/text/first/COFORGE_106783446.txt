@@ -1,0 +1,85 @@
+Coforge Limited       Registered office:        www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A       Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,   Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India   Palam Road, Gurugram - 122015, Haryana, India     
+T: +91 120 4592300 | F: +91 120 4592 301       T: 0124 -4627837    CIN: L72100HR1992PLC128382  
+September 17, 202 6 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001  
+BSE Scrip code – 532541  
+Equity ISIN INE591G010 25 The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited 
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE S ymbol  – COFORGE  
+Subject: Investor presentation in relation to Webinar on ‘Operationalizing Enterprise Autonomy 
+– Coforge Vantage Series’ 
+Dear Sir/ Madam, 
+Pursuant  to the applicable  provisions  of SEBI  (Listing  Obligations  and  Disclosure  Requirements) 
+Regulations, 2015, please find enclosed the Investor presentation in relation to the Webinar 
+on ‘Operationalizing Enterprise Autonomy –  Coforge Vantage Series ’.
+We r eque st you to take t he above o n record. 
+Thanking you,  
+Yours faithfully, 
+For Coforge Limited 
+Barkha Sharma 
+Company Secret ary & C ompliance Officer 
+Encl .: As above 
+1|  © Coforge , 2026  | Confidential
+Operationalizing 
+Enterprise AutonomyExecutive Briefing
+2|  © Coforge , 2026  | Confidential
+ 2|  © Coforge, 2026  | ConfidentialSUDHIR SINGH
+CEO & Executive Director
+
+3|  © Coforge , 2026  | Confidential
+ 3|  © Coforge, 2026  | ConfidentialWhere value is moving
+→How we’re responding
+Intelligence layer
+Mod Squads
+Scale & deliver
+Activate & prove
+Each speaker today goes deeper into one of these layers.The Forces Shaping Our Direction
+Model access → Enterprise context
+Pilots → Production execution
+Effort → Outcome ownership
+Horizontal tools → Industry autonomy
+
+4|  © Coforge , 2026  | Confidential
+ 4|  © Coforge, 2026  | ConfidentialWhat You’ll Hear Today
+01
+02
+03
+04
+05
+06Anup Nair   —  Chief AI Commercial Officer
+The case for Enterprise Autonomy — why the inversion is live, why the economics flip, and what compounds
+Ashish Kumar   —  Global Head, Cloud & AI Infra
+The infrastructure and operations layer built for agents at enterprise scale
+Deepak Manjarekar   —  Head, Data & AI
+How the data layer creates the foundation for autonomy — and disproportionate value
+Lalit Wadhwa   —  Chief Technology Officer
+The activation vehicle — outcome -owned pods, the FDE academy, and the compounding flywheel
+Erika Moore   —  Chief Officer, Strategy & Growth — TTH
+Enterprise Autonomy in action — how airline retailing is being rewired
+Niraj Patel   —  Senior Vice President
+From vehicle inspection to lifecycle intelligence — autonomy in auto remarketingSetting 
+the Stage
+AgenticOps
+Data 
+Enablement
+Momentuum 
+blue & FDEs
+Industry: 
+Travel & 
+Airlines
+Industry: 
+Automotive
+We’ll bring this together at the end for Q&A.
+5|  © Coforge , 2026  | Confidential
+ 5|  © Coforge, 2026  | ConfidentialANUP NAIR
+Chief AI Commercial Officer

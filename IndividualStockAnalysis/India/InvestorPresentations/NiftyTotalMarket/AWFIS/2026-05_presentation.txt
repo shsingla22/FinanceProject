@@ -1,0 +1,1382 @@
+
+=== page 1 ===
+ 
+Corporate and Regd. Office  
+Awfis Space Solutions Limited  
+C-28-29, Kissan  Bhawan, Qutab Institutional Area, New Delhi –  110016 
+www. awfis.com  | Email: info@awfis.com  | Phone: 011-  69000657 
+ 
+CIN: L74999DL2014PL C274236  Date: May  25, 2026  
+ 
+To, 
+National Stock Exchange of India Limited  
+(“NSE”)  
+Listing Department  
+Exchange Plaza, C -1 Block G, Bandra Kurla  
+Complex Bandra [E], Mumbai – 400051  To, 
+BSE Limited (“BSE”) 
+Listing Department  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort, Mumbai – 400001   
+NSE Scrip Symbol:  AWFIS  BSE Scrip Code: 544181  
+ISIN: INE108V01019  ISIN: INE108V01019  
+ 
+Subject: Investor Presentation on Audited (Standalone & Consolidated) Financial Results (“AFRs”) 
+for the financial year ended March 31, 2026  
+ 
+Dear Sir(s)/Ma dam(s),  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015, investor  / analyst  presentation for the Earning s' Conference C all scheduled  
+for today i.e. May  25, 2026, at 05:30 P.M. (IST) on the AFRs  for the financial year ended March 31, 
+2026, is  enclosed  herewith . 
+ 
+The above information will also be available on the website of the Company at  
+https://www.awfis.com/investor- relations/initial- public -offer/financials . 
+ We request you to kindly take this on your record.  
+ 
+Thanking You . 
+ 
+For Awfis Space Solutions Limited  
+ 
+ 
+ 
+ 
+Shweta Gupta  
+Company Secretary and Compliance Officer  
+M. No. F8573 
+Address: C-28-29, Kissan Bhawan,  
+Qutab Institutional Area, New Delhi –  110016  
+ 
+Encl:  as above  
+=== page 2 ===
+|  INVESTOR PRESENTATION  |  Q4 & FY26  |  May 2026
+1 awfis 
+=== page 3 ===
+SAFE HARBOR
+This presentation and theaccompanying slides (the “Presentation”), which have been prepared byAwfis Space Solutions Limited (the “Company”), have
+been prepared solely forinformation purposes and donotconstitute any offer, recommendation orinvitation topurchase orsubscribe forany securities,
+and shall notform thebasis orberelied oninconnection with any contract orbinding commitment whatsoever .Nooffering ofsecurities oftheCompany
+willbemade except bymeans ofastatutory offering document containing detailed information about theCompany .
+This Presentation has been prepared bytheCompany based oninformation and data which theCompany considers reliable, buttheCompany makes
+norepresentation orwarranty, express orimplied, whatsoever, and noreliance shall beplaced on,the truth, accuracy, completeness, fairness and
+reasonableness ofthecontents ofthis Presentation .This Presentation may notbeallinclusive and may notcontain alloftheinformation that you may
+consider material .Any liability inrespect ofthecontents of,orany omission from, this Presentation isexpressly excluded .
+Certain matters discussed inthis Presentation may contain statements regarding theCompany’s market opportunity and business prospects that are
+individually and collectively forward -looking statements .Such forward -looking statements arenotguarantees offuture performance and aresubject to
+known and unknown risks, uncertainties and assumptions that are difficult topredict .These risks and uncertainties include, but are not limited to,the
+performance oftheIndian economy and oftheeconomies ofvarious international markets, the performance ofthe industry inIndia and world -wide,
+competition, the company’s ability tosuccessfully implement itsstrategy, the Company’s future levels ofgrowth and expansion, technological
+implementation, changes and advancements, changes inrevenue, income orcash flows, theCompany’s market preferences and itsexposure tomarket
+risks, aswell asother risks .The Company’s actual results, levels ofactivity, performance orachievements could differ materially and adversely from
+results expressed inorimplied bythis Presentation .The Company assumes noobligation toupdate any forward -looking information contained inthis
+Presentation .Any forward -looking statements and projections made bythird parties included inthis Presentation arenotadopted bytheCompany and
+theCompany isnotresponsible forsuch third party statements and projections .
+2awfis 
+=== page 4 ===
+Design Portfolio06 05
+Historical FinancialsIndustry Snapshot04
+About Us03Performance Summary02
+Executive Summary01
+3CONTENTS
+S!:JMB 
+=== page 5 ===
+Amit Ramani
+Chairman & Managing Director
+4
+Executive 
+Summary
+Q4 FY26Weare pleased toreport another quarter ofstrong performance, with Q4FY26marking the highest -ever quarterly revenue, EBITDA,
+and profitability inAwfis' history .Revenue stood atRs.410Cr,growing 21%YoY, ledbyrobust growth intheco-working business at27%
+YoY.Operating EBITDA grew 31%YoY toRs.152Cr,with margins expanding to37%,while PBTstood atRs.24Cr.
+FY26was adefining year for Awfis thecompany delivered itshighest -ever annual revenue ofRs.1,493 Cr,reflecting 24%YoY growth,
+driven by35%YoY growth intheco-working business .Operating EBITDA grew 37%YoY toRs.550 Cr,with margins expanding to36.8%,
+while PBT stood atRs.72Cr.The company also delivered an industry -leading ROCE of60%,atestament tothe capital efficiency,
+earnings quality, and disciplined execution that defines theAwfis platform .
+During theyear, weadded 41new centres and 30Koperational seats ,expanding our signed network to266 centres with ~184 Kseats
+across 18cities spanning Tier 1and Tier 2markets, serving adiversified client base of~3.5Kcustomers .
+The growth was anchored bysustained enterprise and GCC demand ,continued premiumization oftheportfolio, and thecompounding
+benefits ofoperating leverage .GCCs and Fortune 500 companies arenow astructural and growing part ofourrevenue base .Today, we
+serve 100 +unique GCC clients contributing 23%ofrental revenue ,with additional mandates already signed and going live over the
+coming quarters .
+Client relationships continue todeepen .Multi -centre clients now account for ~48%ofour client base ,reflecting growing pan-India
+mandates and stronger enterprise engagement .Occupancy remained healthy through theyear, supported byafavorable cohort mix,
+with the 500 +seat cohort contributing 37%ofthe total portfolio -highlighting thematurity, stability, and stickiness ofourenterprise -led
+demand base .
+Our capital -light supply strategy continues toevolve -MAremains the backbone, SLisdeployed selectively forpremium enterprise
+mandates, Partial MO structures are scaling, and weare inadvanced discussions with marquee developers forstrategic workspace
+partnerships .The mix isalways afunction ofdemand quality, never afixed target .
+Asweenter FY27,the business isinits strongest position yet .The foundation isdeep –healthy occupancy, expanding margins,
+industry -leading returns oncapital, and aquality pipeline already committed .We enter FY27 with clarity ofstrategy, depth of
+execution, and full confidence inwhat lies ahead .awfis 
+=== page 6 ===
+Q4 & FY26 
+PERFORMANCE 
+SUMMARY5
+5
+=== page 7 ===
+# Fixed asset turnover is calculated as Revenue from Co -working divided by average closing gross block
+On Ind AS basisQ4 FY26 vs Q4 FY25 (YoY)
+Revenue from
+Operations
+Rs. 410 Cr
+▲+21%Revenue from
+Co-working
+Rs. 342 Cr
+▲+27%Operating EBITDA /
+EBITDA Margin
+Rs. 152 Cr/37.0%
+▲+31%PAT / PAT Margin
+(excl. Exceptional)
+Rs. 23 Cr/5.7%
+▲+107%Fixed Asset
+Turnover Ratio#
+1.5x
+FY26 vs FY25 (YoY)
+Revenue from
+Operations
+Rs. 1,493Cr
+▲+24%Revenue from
+Co-working
+Rs. 1,237 Cr
+▲+35%Operating EBITDA /
+EBITDA Margin
+Rs. 550 Cr/36.8%
+▲+37%PAT / PAT Margin
+(excl. Exceptional)
+Rs. 71 Cr/4.7%
+▲+66%Fixed Asset
+Turnover Ratio#
+1.5xQ4 & FY26 : REPORTED FINANCIAL HIGHLIGHTS
+REVENUE SCALING FAST, PROFITS SCALING FASTER
+6awfis 
+- - - -
+- - - -
+=== page 8 ===
+Return on 
+Capital Employed#
+60%Normalized Cash Flow 
+From Operations*
+Rs. 216 Cr
+Credit rating
+A+ (Stable Outlook)Net Debt Ratio/ Gross Debt
+-0.20 / 0.09Normalized cash flow from 
+operations/Normalized EBIDTA
+1.01Exceptional Capital Productivity
+Conservative Leverage, Strong Credit Standing▲+ 97Cr ▲+42%
+Cost of borrowing
+9.05%
+▼45 BPSIncremental Cost of Borrowing: 8.5%Upgraded May 2025Q4 & FY26 : REPORTED FINANCIAL HIGHLIGHTS
+EFFICIENT GROWTH. CLEAN BALANCE SHEET. SUPERIOR RETURNS.
+7# ROCE calculated as Cash EBIT (IndAS EBITDA –Actual lease payments) / Average capital employed  (Networth + Borrowings –Cash, cash equivalents including Fixed Deposits)
+* Normalized Cash Flow from Operations calculated as (Cash flow from Operations  -Lease liability outflow excluding Op Leases)
+On Ind AS basisawfis 
+- -
+-
+=== page 9 ===
+8
+01  Strong Financial Performance
+INR 1,493 Cr +24% YoY
+Revenue from Operations
+•Coworking & Allied Services;
++35% YoY to INR 1,237 Cr
+•EBITDA +37% YoY to INR 550 Cr; 
+margin 36.8%
+•PAT (pre -exceptional) +66% YoY
+to INR 71 Cr
+02  Capital Efficiency & Balance Sheet
+60%+ ROCE
+Highest among listed flex workspace peers
+•Revenue / Gross Fixed Assets 1.5x -best in the 
+industry
+•Net Debt / Equity at -0.20x ; net cash position 
+maintained
+•Interest Coverage Ratio at 11x (on normalized 
+EBIT basis)
+03  Network Scale & Depth
+266 Centres · 184K Seats · 18 Cities
+Pan-India presence across top micro -markets
+•~30K seats added in FY26 across 41 centres
+•100% Grade A/A+ supply -every new centre in 
+a high -demand micro -market
+•Deep micro -market presence -multiple 
+formats across the same locations enabling 
+Awfis to enjoy strong network effects
+04  Enterprise & GCC -Led Demand
+64% Share 
+Of Enterprise/MNC clientele
+•GCC clientele expanded to 100+ clients 
+contributing to ~23% of rental revenue
+•500+ seat cohort represents 37% of portfolio
+•49% of sub -100 seat clients –Large 
+Enterprise/MNC -attracting blue -chip 
+demand at entry scale
+05  Operational Strength & Visibility
+84% Mature Occupancy
+Sustained by diversified, enterprise -led demand
+•Healthy blended occupancy of 76%
+•Weighted average tenure of 37 months ; lock -in 
+of 26 months -durable, predictable revenue
+•Multi -centre clients at 48% of total client base 
+demonstrating strong client 
+stickiness
+06  Premiumization & Brand Strength
+35 Elite & Gold Centres
+Rapidly growing premium asset portfolio
+•Launch of Gold 2.0 and Awfis 6.0 –next 
+generation premium formats
+•~60%+ of new supply signed with institutional 
+landlords
+•3x WELL Certified simultaneously -first Co -
+working brand in India to achieve thisFY26 HIGHLIGHTS
+A YEAR THAT CHANGED THE BENCHMARKawfis 
+=== page 10 ===
+9
+D E M A N D
+GCC: Structural 
+Demand Engine
+•AI-led GCC expansion driving larger, premium -
+led requirements, 40+% of CRE leasing
+•Awfis positioned as single end -to-end partner
+•Clear leadership in Micro & Nano GCC 
+segment, now moving up the curve, with 
+multiple 2,000+ seater mandates closed
+P O R T F O L I O
+Premiumization 
+at Scale
+•Gold and Elite to scale meaningfully in FY27, 
+with Awfis 6.0 next gen format also rolling out
+•Deepening presence in marquee IT parks and 
+Grade A/A+ assets with institutional developers
+•Premium -front door for MO, Partial MO and 
+D&B cross -sell and increased realization
+S U P P L Y
+Multi -format 
+Supply
+•Partial MO -unlocking the best of managed 
+office and coworking in one structure
+•Developer Partnerships -next phase of 
+capital -light, Grade A/A+ expansion
+•Supply follows demand, not a formula -agility 
+across formats –with disciplined addition
+O P E R A T I O N S
+Organic 
+Growth
+•Occupancy uplift from mature and new centre 
+seasoning
+•Higher renewals across smaller cohorts and 
+larger seat expansions from current clientele
+•Butterfly effect: Strong flex →MO →D&B 
+conversion within client base
+A D J A C E N C I E S
+Value Beyond 
+Flex
+•Awfis Transform: INR 130 Cr already won, to be 
+delivered across next 6 -7 months
+•Frame : Contract manufacturing, capex light 
+model gaining traction with early enterprise wins
+•Allied Services penetration deepening across 
+enterprise and GCC baseFIVE ENGINES OF GROWTH
+CLARITY OF STRATEGY. DEPTH OF EXECUTION.awfis 
+-01 -02 -03 
+-04 -05 
+=== page 11 ===
+Capital Efficient ModelROBUST FINANCIALS
+1.Operational ,Under Fitout and Centres with Signed LOI as of March 31, 
+2026.
+2.Operational ,Under Fitout as of March 31, 2026.# Managed Aggregation: In this model operators & space owners share capex as well as revenues
+^ ROCE calculated as Cash EBIT (INDA EBITDA -Actual lease payments) / Average capital employed 
+(Networth + Borrowings –Cash, Cash equivalents including fixed deposits
+Note: Unless stated otherwise, Data as of March 31, 2026Key Operating LeversBUSINESS MOMENTUM
+Managed Aggregation 
+Portfolio#
+(of signed supply)60%
+ 84%/76%
+Weighted average 
+total tenure/lock in tenure~37/26 months
+(Reported) Revenue 
+from operations
+Q4FY26/ FY26Rs. 410 Cr/Rs. 1,493 Cr
+(Reported) Operating 
+EBITDA 
+Q4FY26/ FY2637.0%/36.8 %
+RoCE^ 
+FY26
+10
+With the Largest 
+NetworkMARKET LEADER
+Including 9 
+Tier 2 cities18 Cities
+Signed Supply 
+Centres/Seats1266/184K
+Total Supply 
+Centres/Seats2250/167 K60%
+Mature Centres 
+Occupancy/Blended 
+OccupancyAWFIS AT A GLANCE
+PIONEER IN THE INDIAN FLEXIBLE WORKSPACE INDUSTRYawfis 
+=== page 12 ===
+11NETWORK LEADERSHIP
+INDIA’S LARGEST NETWORK OF FLEXIBLE WORKSPACES
+All data is for Total Centres and seats, including operational + under fit -out
+All data as on March 31, 2026
+Maps not to scale.  All data, information, and maps are provided "as is" without warranty or any representation of accuracy, timeliness or completenessZone -Wise Breakup
+35%
+33%88 Centres
+54,773 seatsWest41%
+45%102 Centres
+74,993 seatsSouth
+12%
+12%30 Centres
+20,107 seatsNorth
+12%
+10%30 Centres
+17,417 seatsEast
+10%
+8%25 Centres
+13,076 seatsTier 2
+90%
+92%225 Centres
+154,214 seatsTier 1Tier -Wise BreakupAwfis presence inNine Tier 1and Nine Tier 2cities across all
+regions, lets usserve thegrowing and diverse needs ofourclientsawfis 
+Ahmedabad 
+~/ .._ ~ 0 
+,...-\ 1 ~ Bhubaneswar 
+0 
+~ o 
+/ '- _) 
+I 
+\ 0 
+Kochi 
+t 
+./- _) 
+• North • South • East West 
+=== page 13 ===
+12NETWORK LEADERSHIP
+Centres Seats Sq. Ft
+250 167K
+Sq. Ft8.1Mn266 184K 8.9Mn
+Centres SeatsSIGNED SUPPLY1STABLE EXPANSION
+4k+ 
+Seats added 
+in Q46
+New centre
+launches in Q4
+OPERATIONAL CAPACITY 156K+ Seats
+PREMIUM AT THE CORE
+100% of new supply in Grade A/A+ assets -every 
+centre deliberately placed in high -demand micro -
+markets35 Gold and Elite centres -premium footprint 
+scaling in step with GCC and enterprise demand
+1 -Operational ,Under Fitout and Centres with Signed LOI as of March 31, 2026, 2 -Operational and Under Fitout as of March 31,2026 SUSTAINED GROWTH MOMENTUM
+30k+ 
+Seats added 
+in FY2641 
+New centre
+launches in FY26TOTAL SUPPLY2 OVER THE YEARSUPPLY HIGHLIGHTS
+SCALE, QUALITY, AND FORWARD MOMENTUMawfis 
+I I 
+I 
+.. .. 
+=== page 14 ===
+BUILDING THE NEXT PHASE: AWFIS’ SUPPLY PLAYBOOK
+BETTER ASSETS. BETTER ANCHORS. BETTER REALIZATIONS.
+Quality -led supply. Premium anchors. Realizations that compound.13
+01
+The Revamped
+MA Engine
+4L sq. ft.  pre -committed under MA model  
+through Q2 FY28 via forward  leasing , securing 
+Grade A/A+ assets
+Next phase: Developer Partnerships  - Grade 
+A/A+ properties at shared capex with top 
+developersK E Y  O U T C O M E
+Prime Micromarkets being 
+secured through partnerships
+  Pune - Baner, Viman Nagar
+  Bangalore - ORR, North BLR
+02
+The Next Wave of
+Enterprise Supply
+Partial MO  as a prominent growth mode; 
+unlocking the best of both coworking and 
+managed office in one structure
+Premium MO Mandates -Fortune 500/GCC 
+clients driving large, long -tenured, high 
+realization requirementsK E Y  O U T C O M E
+03
+Disciplined, Risk -Mitigated
+Supply Acquisition
+Supply portfolio built to perform across cycles —
+agility across formats, with asset liability 
+mismatch validation before every deal
+Locking in best assets early: flagship under -
+construction assets signed with pre -validated 
+demand & return signalsK E Y  O U T C O M E
+04
+Premium
+by Design
+35 Gold & Elite centres  and growing – 
+commanding the highest realizations, with the 
+strongest GCC pull
+10+ Marquee IT parks  entered in FY26; 60% + 
+leasing with institutional LLs , validating Awfis 
+as the operator of choiceK E Y  O U T C O M E
+F O U R  S T R A T E G I C  S U P P L Y  P I L L A R S
+Grade A/A+ inventory acquired 
+through capital light model
+Major upcoming MOs and Partial 
+MOs
+  Global Logistics Major · Pune
+Global Electronics Major · Mumbai
+Indian Fintech Major · BangaloreClear revenue visibility through 
+Enterprise & GCC mandates
+Marquee assets locked in 
+early 
+Prestige Trade Centre, Aerocity
+Prestige 101, BKCDisciplined , cycle -proof supply, 
+unfazed by economic conditions
+Key IT Parks 
+entered in FY26
+  Embassy Tech Village
+DLF Cybercity
+Gigaplex IT ParkPremium centres present across 
+all key GCC led Micromarkets
+■ 
+■ 
+■ 
+■ 
+■ 
+■ 
+■ 
+■ ■ 
+■ 
+■ 
+■ ■ 
+■ 
+■ 
+■ awfis 
+=== page 15 ===
+01THE CLIENT NETWORK
+India's Largest Flexible Workspace Client Network
+3,500+
+Clients across the
+national network320+
+Multi -centre 
+Clients across portfolio~3
+Centres on average 
+per multi -centre client48%
+Operational seats 
+occupied MULTI -CENTRE PENETRATION · QoQ Δ
+Clients in 3+ centres 31% of seats (+300 bps) ↑
+Clients in 5+ centres 18% of seats (+300 bps) ↑
+Clients in 10+ centres 12% of seats (+600 bps) ↑
+02THE CENTRE NETWORK
+Market Dominance Across Key Micromarkets
+•Multiple formats, one micromarket, entire demand pool
+•Shared infrastructure -lower opex, higher margins
+•Lower vacancy risk and deeper wallet capture per client
+Outer Ring Road, Bangalore
+12 Centres, 4.0 Lakh Sq. Ft.  
+•Full format stack in one micro -market 
+—Gold, Elite, Awfis 6.0, and MO
+•Serving SMEs to Fortune 500 anchors 
+within the same catchment
+03THE DIVERSIFIER
+Flex →Allied Services →Transform Cross -Sell
+Flex
+Allied 
+Services
+Trust built in flex converts naturally into allied services and Transform mandates.
+Full wallet -share capture, across our network.80%
+Of External D&B Revenue 
+From Flex Clientele59%
+Of D&B Revenue From 
+External Projects NowTHE AWFIS DEMAND NETWORK EFFECT
+ACQUIRE, EXPAND, DIVERSIFY, COMPOUND
+14
+Bandra Kurla Complex, Mumbai
+5 Centres, 2.5 Lakh Sq. Ft.  
+•5 centres in India's most premium address 
+—serving BFSI, GCCs and startups
+•Clustering drives cost efficiency where real 
+estate costs are highest
+Design & 
+Buildawfis 
+➔ ➔ 
+=== page 16 ===
+CASE STUDY A: FROM MO PARTNER TO D&B SERVICE PROVIDER
+Fortune 500 IT / ITES Firm –Butterfly Effect Across MO and D&BCASE STUDY B: COWORKING TO MO FLYWHEEL
+Leading Auto Components Firm –Expansion within same Micromarkets
+January 2024 : Relationship Started
+Coworking Space in Bengaluru 60 SEATS
+July 2024 : First Expansion
+Managed Office in Pune 450 SEATS
+October 2025 : Second Expansion
+Managed Office In Bengaluru 250 SEATS
+April 2025 : Third Expansion
+Managed Office in Pune
+O U T C O M E
+5 Centres  |  1,500 Seats Delivered  |  2.5 YearsTHE AWFIS DEMAND NETWORK EFFECT
+COMPOUNDING IN ACTION
+15470 SEATS
+Q1 FY2027 : Fourth Expansion
+Managed Office in Chennai 380 SEATS
+FY23 : Relationship Started
+3 MOs in 3 Cities 2,600 SEATS
+FY2024 : Started Getting D&B Projects
+2 MOs in 2 Cities; Numerous D&B Projects 700 SEATS   | ₹35 Cr D&B REVENUE
+FY25 : New D&B Mandates
+Multicity D&B Projects ₹20 Cr D&B REVENUE
+FY26 : Deepening Relationship
+New MO and D&B Engagements
+FY27 : Forward Momentum
+Strong Pipeline with Highest Ever Orders800 SEATS |  ₹20 Cr D&B REVENUE
+O U T C O M E
+5 Centres  |  4,100+ Seats  | ₹75 CR+ Revenue / /
+O U T C O M E
+5 Centres  |  1,600+ Seats from 60 Seats in 2.5 Years
+The network gets stronger with every client, every centre, every city. 
+This is the compounding flywheel —and FY27 is where it accelerates.₹50+ Cr EXPECTED IN FY27awfis 
+I I 
+• • 
+• • 
+• • 
+• • I • • 
+=== page 17 ===
+Unless stated otherwise, Data as of March 31, 20261639%
+16%13%11%10%9%Client Distribution 
+by Industry
+Technology
+Professional Services
+Manufacturing
+Healthcare & Life Sciences
+BFSI
+OthersClient Distribution 
+By Company Type
+Enterprise/MNCs
+SMEs
+Start -Ups
+Others64%25%9%2%
+India
+North America
+Europe
+Asia & ANZ
+Others53%
+29%12%4%1%
+Mar’26Mar’26 Mar’26Client Distribution 
+by DomicileDIVERSIFIED, ENTERPRISE -LED DEMAND
+WHO WE SERVE —BY INDUSTRY, GEOGRAPHY, AND TYPE
+•53% India base drives occupancy velocity —
+faster conversions, shorter ramp cycles 
+•41% North America and Europe HQs bring 
+structured mandates —better tenures, and 
+realizations, higher allied service revenues•No high dependence on any single sector —
+diversification by design, not by chance
+•Resilient sectors (BFSI, Healthcare, 
+Manufacturing) account for 40%+ -
+insulating occupancy through cycles•64%enterprise/MNC -the revenue anchor,
+with large tickets, long lock -ins,
+•34%SMEs start -ups—the velocity and
+funnel layer, feeding tomorrow's enterprise
+clients into theplatform-----■ 
+■ 
+■ 
+■ 
+■ ■ 
+■ 
+■ 
+■ awfis 
+=== page 18 ===
+Unless stated otherwise, Data as of March 31, 202617Mar’264937Robust Client 
+Commitments
+33
+26Strong Lock -in Supporting 
+Predictability28%500+ Seats
+201-500 Seats
+101-200 Seats
+51-100 Seats
+26-50 Seats37%
+15% 11%14%10%13%
+Mar’26Built for Every Stage of Scale
+77%17%4%2%
+Mar’26>=24 months
+12-23 months
+6-11 months
+<=5 monthsClient Stickiness by Design
+Total Tenure (Months) Lock -in Tenure (Months)1-25 SeatsMar’2 684% 76%> 12 months Vintage Centres
+OverallHealthy Occupancy NumbersDIVERSIFIED, ENTERPRISE -LED DEMAND
+LONG TENURES. HIGH RETENTION. BUILT FOR EVERY COHORT.
+Demand that is large, long -tenure, and structurally sticky —validated by further 58,000+ seats sold in FY26-- • • • • • 
+• • • awfis 
+=== page 19 ===
+18Awfis’ Structural Right to Win GCC Demand India’s GCC Growth Story
+India is adding ~20 -30 first -time GCCs every quarter -Awfis is positioned to capture this demand from entry to scale.
+Bengaluru Hyderabad
+Delhi NCR Mumbai/PuneProminent 
+Hubs
+# of GCCs
+$61.2B$98.4B
+FY21 FY26
+~1,6 00
+ ~2,100
+Share of 
+Global 
+GCCsInstalled
+GCC
+TalentGCCs
+Added in 
+Last 5 Years55% 2.4 mn. 500+Revenue 
+Generated
+THE GCC OPPORTUNITY
+LONG -TERM DEMAND TAILWIND, BUILT FOR AWFIS
+Single Operating Partner –
+Workspace strategy, D&B, IT, F&B, 
+and business support under one roof
+The Natural Entry Point –
+Gold and Elite centres ideal for 
+first-time GCCs at 25 -50 FTEs
+Built to Scale With Them -
+30-40K sq ft managed offices for 
+the second phase of growth
+First Right to Pitch -
+Long -standing consultant 
+relationships across India, US, EU~2,500+
+GCCs Expected by 
+FY30
+~1,000+
+Live Small and Mid -
+Market GCCs Today
+Source: Nasscom -Zinnov, EYawfis 
+I 
+I 
+I 
+>>> I 
+I £' I ,. 
+I I I 
+I 
+>>> I I 
+I I 
+I 
+I 
+I 
+1\I I 
+I 
+I 
+I 
+I Jt .. I •£• >>> I -.. 
+ft d"tl I 
+I 
+=== page 20 ===
+* Represents number of GCC clients within the 50+ seat client base at Awfis19Global Parentage With North American Dominance
+North America
+Europe
+Asia/ANZ
+80%14%6%Unique 
+GCC1Clients100+ * 23%
+Rental Revenue 
+ShareCities Across 
+India9
+24%
+28%11%28%4%5%Unique Yet Diversified Sector Exposure
+Technology
+Professional Services
+Manufacturing
+Healthcare & Life Sciences
+BFSI
+OthersMar’26Mar’26•One platform forlaunch, operations, and expansion
+•Workspace strategy, planning, Grade A+fit-outs -allin-house
+•Single partner across IT,F&B, transport, and business support
+•Long -standing GCC consultant relationships -first right topitchWhy GCCs Choose Awfis
+ Awfis GCC Universe
+•Mid-market global enterprises, notlegacy captives
+•First-time and early -stage GCCs entering India
+•Clear leadership innano and micro categories (10-100seats)
+•Now winning large GCC mandates (>2,000 seats)Who We Serve
+•Enter at25-50seats incoworking and Gold/Elite formats
+•Expand to100-300+seats and into Managed Office
+•Longer tenures, higher seat density, and multi -centre expansion
+•Allied services attachment deepens with scaleHow They Grow With Us
+BUILT FOR GCCs
+FROM FIRST ENTRY TO FULL MANDATEawfis 
+---
+------
+=== page 21 ===
+20HIGH -VALUE GCC WINS
+MARQUEE FY26 ADDITIONS AND A DEEP FORWARD PIPELINE
+S.No Client City
+1 Fitness & Wellness Platform Hyderabad
+2 Media Intelligence Firm Hyderabad
+3 Fintech & Loyalty Services Provider Pune
+4 Consulting & Advisory Firm Bengaluru
+5 E-commerce Marketplace Bengaluru
+6 Healthcare IT Services Provider Bengaluru
+7 ESG & Compliance Solutions Firm Pune
+8 SaaS Productivity Platform Bengaluru
+9 DevOps & Cybersecurity Software Firm Hyderabad
+10 GCC Strategy & Research Advisory Firm Hyderabad
+11 EdTech & Student Mobility Platform Hyderabad
+12 Industrial & Engineering Services Firm Hyderabad
+13 Healthcare Services & RCM Provider Chennai
+14 E-commerce Marketplace Bengaluru
+S.No Client City
+1 Healthcare Technology Platform Hyderabad
+2 Semiconductor & Electronics Firm Bangalore
+3 Digital Payments Major Bangalore
+4 E-commerce Marketplace Hyderabad
+5 Logistics & Mobility Platform Bangalore
+6 Enterprise Software Firm Bangalore
+7 Luxury Retail Group Bangalore
+8 Healthcare IT Services Provider Hyderabad
+9 Satellite Television Major Hyderabad
+10 Defense & Security Technology Firm Hyderabad
+11 Media & Entertainment Platform Chennai
+12 Retail Major Bengaluru
+13 Wealth and Asset Management Firm HyderabadProminent FY26 Wins Key Pipeline Mandates
+14 KEY MANDATES CLOSED 8 CR MRR; 18 CR ALLIED SERVICES BILLING 13 LARGE MANDATES IN PIPELINE EXPECTED GO LIVE: NEXT 2 -3 QUARTERS
+14 wins in FY26. 13 in pipeline. Every cohort larger than the last.awfis 
+=== page 22 ===
+Centres35BUILT FOR GCCs AND LARGE ENTERPRISES
+27
+Gold Elite08PREMIUM WORKSPACE PORTFOLIO
+8 GCC hubs, 7 Tier -1 
+cities, seamless multi -
+city scale.
+Grade A+ assets aligned 
+to GCC  infrastructure & 
+compliance needs.
+Global -grade design, 
+finishes and enterprise -
+ready experience.
+F&B, concierge and 
+branding layers built for 
+premium clients.
+Elite Club, Nexus Lounge and 
+Private Concierge for top -
+tier clientele.
+Centres create a gateway to 
+larger mandates and stickier 
+enterprise relationships.
+NEW CLIENTS ONBOARDEDELITE GOLD
+INS Tower –MumbaiAustralian Financial Services Firm
+Eleven West –PuneGlobal Audio -Visual Technology Firm
+Aurobindo Orbit -HyderabadKorean Automotive Major
+Manyata Tech Park –BengaluruAmerican Technology Major
+21AWFIS GOLD AND ELITE
+OUR PREMIUMIZATION GROWTH ENGINEawfis 
+=== page 23 ===
+AWFIS TRANSFORM: 
+FROM IN -HOUSE CAPABILITY TO STANDALONE GROWTH ENGINE
+22
+01 D&B BUSINESS —TREND & MOMENTUM
+T O T AL  D & B  R E V E N U E  ( ₹  C R )
+FY24 FY25 FY26
+% SHARE OF THIRD -PARTY PROJECTS
+47%
+ 46%
+ 59%
+# OF THIRD -PARTY PROJECTS02 WHY TRANSFORM GROWTH IS STRUCTURAL
+Sector diversification
+Delivering across BFSI, Pharma, Telecom, Industrials, Consulting & 
+Aviation —growing coverage and reducing concentration risk
+Larger, more strategic mandates
+Marquee global enterprises increasingly choosing Awfis for multi -city 
+national fit -outs
+Multi -city national footprint
+Transform projects executed across 20+ cities —in FY26 itself —proven 
+scale and delivery capability
+Cross -sell flywheel
+Flex relationships converting into Transform mandates; Transform 
+clients anchoring future flex and MO demand : Butterfly effect
+Delivering larger, complex mandates
+Average ticket size has doubled in 2 years , with a clear migration 
+toward large -format, multi -floor, and multi -city projects39
+ 33
+ 32
+●Third -party revenue compounded at 27% CAGR from FY24 to FY26, reaching Rs. 152 Cr -now a core 
+revenue pillar for Awfis Transform
+●Project count optimized deliberately; average ticket size doubled in 2 years -a clear shift toward 
+higher -value, strategic mandates
+●Emerging as the partner of choice for large -format fit -outs -5 orders above Rs. 10 Cr closed in FY26 
+vs. 1 each in FY24 and FY25; 17 orders above Rs. 5 Cr in FY26 vs. 11 in the prior 2 years combined
+T H I R D -P AR T Y  D & B  R E V E N U E  ( ₹  C R )
+₹95 Cr ₹129 Cr ₹152 Cr₹205 Cr ₹278 Cr ₹257 Crawfis 
+➔ ➔ 
+➔ ➔ 
+=== page 24 ===
+AWFIS TRANSFORM:
+FROM IN -HOUSE CAPABILITY TO STANDALONE GROWTH ENGINE
+CASE STUDY: FULL WALLET CAPTURE WITH A LEADING GLOBAL BPM FIRM
+Single relationship spanning Coworking and D&B -compounding across formats03
+23
+MAY '24
+1stMO Centre Opens 1,100SEATS
+JUL '24
+2ndMO Centre Opens 350SEATS
+SEP '24
+3rdMO Centre Opens 400SEATS
+FY25
+D&B City Coverage Increased 46.5INR CR
+FY26
+D&B Relationship Strengthens 21.4INR CR
+|
+FY24
+D&B Engagement Begins 4.2INR CR
+Key Metrics
+Total MO Seats
+1,800+Cities
+5
+D&B Revenue
+~72 CRFY27 Pipeline
+1.5-2L Sq. ft.
+Strategic Outcome
+Cross Format Account Penetration
+Inter -city Replicable Model
+Deep Client Relationship
+The Transform flywheel is turning -bigger projects, deeper accounts, structural growth.I 
+I 
+I 
+I 
+I 
+I I awfis 
+0 
+=== page 25 ===
+FRAME BY 
+AWFIS
+YEAR OF 
+BUILD FOR A 
+NEW AVENUE
+24Complete Rollout Across New 
+Awfis Centres
+Early External Traction, 
+Multiple Corporate Deals ClosedCapex Light, 
+Partnership Based Model
+Contract Manufacturing Setup 
+with 5+ Vendorsawfis 
+I I 
+I..... I 
+frame 
+=== page 26 ===
+SEGMENTAL REVENUE BREAK UP
+2693429161,237
+7069278257
+Q4FY25 Q4FY2613
+FY250
+FY2634041021%24%
+1,2081,493
+27%35%Co-working space on rent and allied services
+Construction and fit -out projects
+Others
+25INR CR
++INR 321 CRCo-working & Allied Services 
+grew 35% YoY in FY26, adding Rs. 
+321 CR in incremental revenue
+-compounding at an 
+unprecedented scale.
++INR 72 CR• • • awfis 
+=== page 27 ===
+REPORTED CONSOLIDATED FINANCIAL SUMMARY
+26Particulars (INR Cr) Q4 FY26 Q4 FY25 Y-o-Y (%) Q3 FY26 Q-o-Q (%) FY26 FY25 Y-o-Y (%)
+Total Revenue from operations 410 340 21% 382 7% 1,493 1,208 24%
+Co-working space on rent and allied services 342 269 27% 322 6% 1,237 916 35%
+Construction and fit -out projects 69 70 -2% 60 14% 257 278 -8%
+Others - 0 - - - 13 -
+Total Expenses 258 224 243 944 805
+EBITDA 152 116 31% 139 9% 550 402 37%
+EBITDA% 37.0% 34.1% 36.5% 36.8% 33.3%
+Finance costs 46 43 47 186 136
+Depreciation and amortisation expense 101 81 99 384 276
+Other income 19 20 29 93 53
+Profit before tax and exceptional items 24 12 97% 22 7% 72 44 65%
+Exceptional items - 0 - - 25
+Profit before tax 24 12 94% 22 7% 72 69 5%
+PBT% 5.7% 3.6% 5.8% 4.8% 5.7%
+Tax Expenses 0 1 0 1 1
+Profit after tax 23 11 107% 22 7% 71 68 4%
+PAT% 5.7% 3.3% 5,7% 4.7% 5.6%awfis 
+=== page 28 ===
+NORMALIZED CONSOLIDATED FINANCIAL SUMMARY
+27Particulars (INR Cr) Q4 FY26 Q4 FY25 Y-o-Y (%) FY26 FY25 Y-o-Y (%)
+Total Revenue from operations 410 340 21% 1,493 1,208 24%
+Co-working space on rent and allied services 342 269 27% 1,237 916 35%
+Construction and fit -out projects 69 70 -2% 257 278 -8%
+Others - 0 - - 13 -
+Reported EBITDA 152 116 31% 550 402 37%
+Reported EBITDA% 37.0% 34.1% 36.8% 33.3%
+Adjustments
+Effect of IND AS 116 (97) (68) (349) (239)
+Effect of Other IND AS+ 3 1 13 4
+Normalised EBITDA 58 48 21% 213 168 27%
+Normalised EBITDA% 14.2% 14.2% 14.3% 13.9%
+Less : Finance costs on borrowings 3 2 8 5
+Less : Depreciation on fitouts 33 24 121 81
+Add : Other income (Adjusted) 4 4 19 15
+Normalised profit before tax and exceptional Items 26 27 -4% 103 97 7%
+Normalised PBT% 6.4% 8.1% 6.9% 8.0%
++ Adjusted for Ind -AS 109 -Financial Instruments & Ind -AS 102 –
+Share based paymentsOperating Cash flow to EBITDA 
+1.19X
+Robust cash conversion and high 
+quality of earningsNet Debt/ Equity
+-0.20Annualized ROE
+17%ROCE
+60%
+Net cash position, and strong 
+financial flexibilitystrong operating efficiency and 
+superior returns on capital employedHealthy profitability and efficient
+utilisation of shareholders’ capitalawfis 
+=== page 29 ===
+BALANCE SHEET
+28Assets (Rs. Crores) Mar 26 Mar 25
+Non Current assets
+Property, Plant and Equipment 634 508
+Capital work -in-progress 12 16
+Other Intangible Asset 4 2
+Intangible assets Under Development 0 1
+Right of use assets 1,063 1,071
+Financial Assets
+(i) Other financial assets 395 304
+Non-current tax assets 93 54
+Other non -current assets 30 35
+Total Non Current Assets 2,233 1,991
+Current Assets
+Inventories 1 0
+Contract Assets 73 57
+Financial Assets
+(i) Trade receivables 138 121
+(ii) Cash and cash equivalents 56 40
+(iii) Other bank balances 33 42
+(iv) Other financial assets 296 171
+Other current assets 80 86
+Total Current Assets 678 516
+Total Assets 2,910 2,507Liabilities (Rs. Crores) Mar 26 Mar 25
+Equity
+Equity Share capital 72 71
+Other Equity 481 388
+Total Equity 552 459
+Financial liabilities
+(i) Borrowings 35 14
+(ii) Lease liabilities 1,055 1,099
+(iii) Other Financial liabilities 227 160
+Net Employee defined benefit liabilities 4 3
+Other non current Liability 47 44
+Total Non Current Liabilities 1,367 1,321
+Contract liabilities 19 25
+Financial liabilities
+(i) Borrowings 16 10
+(ii) Trade Payables 308 201
+(iii) Other financial liabilities 206 161
+(iv) Lease liabilities 395 290
+Provisions 5 5
+Other current liabilities 42 35
+Total Current Liabilities 990 727
+Total Equity and Liabilities 2,910 2,507
+On IndAS basisawfis 
+=== page 30 ===
+CASH FLOW STATEMENT 
+29Particulars (Rs. Crores) FY26 FY25
+Net Profit Before Tax 72 69
+Adjustments for: Non Cash Items / Other Investment or Financial Items 509 346
+Operating profit before working capital changes 581 415
+Changes in working capital 74 -50
+Cash generated from Operations 655 365
+Direct taxes paid (net of refund) 39 2
+Net Cash from Operating Activities 616 363
+Net Cash from Investing Activities -220 -203
+Net Cash from Financing Activities -380 -124
+Net Increase in Cash and Cash equivalents 16 36
+Add: Cash & Cash equivalents at the beginning of the period 40 4
+Cash & Cash equivalents at the end of the period 56 40
+On IndAS basisawfis 
+=== page 31 ===
+ABOUT US
+30
+30awfis 
+=== page 32 ===
+Distinct formats to 
+cater to small 
+and large cohorts 
+with a tiered 
+approach akin 
+to Hospitality model Coworking
+Flexible Workspaces
+Managed Office
+Customized Workplace
+Anend-to-end, built -to-
+suit enterprise
+workspace solution
+Significantly 
+differentiated model 
+which mitigates risks 
+by opting for midsized 
+properties & select 
+enterprise customers Allied Services
+End-to-End Services
+A suite of B2C and B2B 
+offerings to enhance 
+customer experience
+•On-Demand Solutions
+•Café Management
+•Enterprise & Network IT 
+Solutions
+•Alliances 
+•Employee Transportation
+Design & Build
+Commercial fit-out
+services that blend
+function &design
+An integrated 
+capability that serves 
+both landlords 
+centres and external 
+clients, creating an 
+execution advantageTHE AWFIS PLATFORM
+FOUR INTEGRATED BUSINESS LINES. ONE OPERATING PARTNER.
+31awfis 
+awfisgold 
+elite transform 
+by awfis 
+=== page 33 ===
+Journey of Innovation, Customer Centricity & ExcellenceMORE THAN A DECADE OF TRANSFORMATION AND IMPACT
+2026
+Inaugurated
+1st Centre
+Inception of
+the Company
+Launched “Awfis 
+Coworking” app
+Peak XV
+invested
+1st 
+Awfi s Centr e
+in Tier 2 City
+Chrys Capital invested
+(Bisque Ltd. & Link
+Investment Trust)
+Promising 
+Brand 2019 ET
+2015 2016 2017 2018 2019
+Crossed Total 
+Seats 100k
+5 Mn sq. ft. Total 
+Chargeable Area
+Great Place to 
+Work 23 -24
+Best Workplaces
+for Women 23 -24
+Prestigious Brands
+20-21 ET
+2020
+2023
+Signs 165K sq.ft. with NSE
+Crossed  205 Cent res 
+6.6Mnsq.ft.Total C hargeable
+Area
+Expanded to Guwahati & 
+Lucknow
+Great Place to 
+Work 24 -252024
+25th
+Centr einMumbai & 
+Bengaluru
+Backed by strong 
+Investors and Family -
+Owned Offices
+Great Place to 
+Work 22 -232022
+100ᵗʰ
+Centr e
+launchedEBITDA
+Positive2021
+ 2025
+Credit Rating by Fitch India 
+enhanced from A to A+ 
+(with a stable outlook)
+Great Place to 
+Work 26-27
+Best Workplaces
+for Women 25 -26
+32
+Great Place to 
+Work 25 -26Top 50 India’s Best 
+Workplaces in Health 
+and Wellness 2026
+**** 
+**** **** C, awfisTransforrm 
+awfisgold 
+awfisCare 
+**** awfis 
+6--- 6--- 6--6---6--- 6---~ 
+0 
+**** elite **** 
+C, **** C, **** C, **** C, **** 
+=== page 34 ===
+EXPERIENCED MANAGEMENT TEAM
+OUR SEASONED LEADERSHIP
+33
+AmitRamani 
+CMD Sumit Lakhani 
+CEO Sumit Rochlani 
+Chief Financial 
+Officer Deepayan Sen 
+Head-Real Estate 
+& Leasing Shweta Gupta 
+General Manager -
+Compliance Officer Legal 
+Sanjay Baurai 
+Strategic Advisor Manu Dhir 
+Chief Operating 
+Officer Anisha Jhawar Kabra 
+Chief Strategy Officer Vishal Dhaliwal 
+Director -Workplace 
+Infrastructure 5onakshi Sharma 
+Head Legal 
+Sheetal Vanwari 
+Chief Marketing 
+Officer Gaurav Malik 
+Deputy coo Francois Gramoli 
+Global Senior Director, 
+Design surbhi Kalra 
+Head-HR awfis 
+=== page 35 ===
+AND BOARD OF DIRECTORS
+34
+AmitRamani 
+Chairman& 
+Managing Director 
+-20 years in Real Estate & 
+Workplace Solutions 
+Previously Promoter & MD, 
+Nelson Planning and Designs 
+ET Most Promising Business 
+Leaders of Asia 2019-20 Rajesh Kharabanda 
+Non-Executive Director 
+37 years of experience in the 
+sports sector 
+Currently MD, Freewill Sports Pvt. 
+Ltd. 
+B.Com, D.A. V. College, Guru 
+Nanak Dev University Anil Parashar 
+Independe nt Director 
+27 years of experience in the 
+financial sector 
+Wholetime Director, lnterGlobe 
+Technology Quotient 
+Associate Member of The ICAI Radhika Jaykrishna 
+Independent Director 
+8 years in managerial, 
+investment portfolio & Real 
+Estate roles 
+Director, Rex-Tone Industries Ltd. 
+and Rex-Tone Digital Pvt. Ltd. awfis 
+SanjayShah 
+Independent Director 
+18+ years in computer 
+engineering, software & logistics 
+COO -India/ South-East Asia, 
+National Entrepreneurship 
+Network 
+=== page 36 ===
+Top 25 CEOs, MDs and 
+Founders -Mr. Amit Ramani 
+Top 25 CEOs, MDs and 
+Founders -Mr. Sumit Lakhani
+Top 100 Great People 
+Managers -Ms. Sheetal Vanwari
+Women Achievers in leading flex 
+spaces -Ms. Anisha Jhawar Kabra
+5thRealty + 40 Under 
+40-Mr. Aman Tibrewal
+India’s Impactful HR Leaders 
+2025 -Ms. Charu Singh. 
+India’s Best Design 
+Project -NSEBest Co -working Space -
+Elite by AwfisET NOW -Enterprise 
+Workspace Brand of the YearExcellence in Coworking & 
+Integrated Workspace SolutionsBest Co -working Space 
+Design -Elite by AwfisCo-working Space Design 
+of the Year -Elite by AwfisServiced Space Brand of 
+the Year -Elite by AwfisManaged Office Space 
+Design of the Year -NSE
+Great Place to Work Certified 
+Jan 2026 –Jan 2027
+Top 50 India’s Best Workplaces 
+in Health and Wellness 2026
+Top 100 Mid -size: India’s Best 
+Workplaces for Women 2025
+Industry Recognition –FY 2026
+35***** ***** ***** 
+INDIA'S I =re... 2025 AWARDS I 
+■ ■ ***** 
+1111 
+■ Best 
+Workplaces · 
+***** 
+***** -***** 
+Best 
+Workplaces · 
+***** -FLEASPACES 
+C0NCLAVE OEACELLENCE 
+-All/ARDS 2026-
+India's 1st Portfolio -Wide Certified Coworking Brand 
+• • ***** 
+***** 
+•HH • ........ _ ***** -FLEA SPACES 
+C0NCLAUE OEACEUENCE 
+-A111ARDS 2026-
+=== page 37 ===
+Awfis: India’s New Standard for Wellness in Coworking
+Awfis has become the first coworking brand in India to achieve three WELL certifications 
+simultaneously, reinforcing its commitment to human -centric, future -ready workspaces
+Triple Milestone in Excellence
+Through a "WELL at scale" pathway and partnership with The Instant Group, Awfis has secured 
+three distinct accolades across its portfolio:
+•35 centres awarded ‘WELL Health -Safety Rating’ and ‘WELL Equity Rating’, forfocussing on 
+operational rigour, including indoor air quality, sanitisation, and emergency preparedness
+•35 centres also awarded ‘WELL Equity Rating’, recognises robust policies for inclusion, 
+accessibility, and barrier -free movement to support diverse teams
+•15 centres awarded ‘WELL Coworking Rating’ in partnership with The Instant Group , solidifies 
+Awfis’ commitment to implement over 50 health strategies, including advanced air/water 
+monitoring and nourishment guidelines
+Why It Matters for Businesses
+These certifications move beyond the idea that health is merely the absence of illness, instead 
+actively promoting physical, mental, and social well -being and ensures:
+•Operational Confidence: Enhanced procedures for business continuity and health risk 
+reduction
+•Productivity & Retention: Environments designed to boost engagement, attract top talent, 
+and strengthen employer branding
+•Inclusive Design: Workspaces that foster a sense of belonging through universal design and 
+equitable access 36awfis 
+=== page 38 ===
+INDUSTRY
+SNAPSHOT
+37awfis 
+If 
+=== page 39 ===
+INDIA OFFICE & FLEX MARKET
+Flex is no longer a start -up enabler -it is a core real estate strategy
+18.6 MSF
+Flex space leasing in 2025
+(8x growth from 2017)
+21% 
+Flex share of office leasing 
+in CY26
+~3.5X
+Increase in flexible workspace stock 
+since 2020
+55%
+Domestic and global occupiers already 
+include flex in their portfolio2020 2025 2028EF L E X  T R A N S A C T I O N  S T O C K  ( M S F ) F L E X  S P A C E  P E N E T R A T I O N  ( % )
+58121519
+2021 2022 2023 2024 2025F L E X  T R A N S A C T I O N  V O L U M E  ( M S F )
+1013161821
+2021 2022 2023 2024 202530-38110-114140-14525% by 2027INDIA OFFICE AND FLEX MARKET
+A STRUCTURAL GROWTH STORY, WHERE FLEX LEADS THE NEXT CHAPTER
+82.6 MSF
+Record office leasing in 2025
+(3rd consecutive record year)
+58.9 MSF
+New Grade A supply completions in 
+2025 (peak addition)
+21.9 MSF
+Q1 CY26 gross leasing –13% growth 
+year -on-year
+8.3 MSF
+New Grade A supply completions in Q1 
+2026
+38I I 
+=== page 40 ===
+INDIA OFFICE & FLEX MARKET
+2,117
+GCCs in India, FY26E
+(3,728 Units)
+USD 98.4 Bn
+Total GCC Revenue
+FY26E
+2.36 Mn
+Installed GCC talent
+in India FY26E
+>40%
+Share in Indian 
+CRE leasing
+Flex is no longer a start -up enabler -it is a core real estate strategyINDIA GCC LANDSCAPE
+THE WORLD'S LARGEST GCC ECOSYSTEM —AND GROWING
+G C C  &  U N I T  G R O W T H :  F Y 2 1  v s  F Y 2 6 E
+5102,117
+1,0253,728
+FY21 FY26E
+GCCs GCC Units
+Source: Nasscom -Zinnov, Colliers6198
+FY21 FY26EG C C  R E V E N U E  T R A J E C T O R Y
+A I  I N  I N D I A  G C C s
+1,200+
+GCCs with 
+AI/ML capabilities250+
+Dedicated AI/ML 
+Centres of Excellence
+250K+
+AI/ML professionals 
+in India GCCs#1
+AI hiring intensity among 
+GCC markets globallyG C C  U N I T S  B Y  C I T Y  —F Y 2 6 E
+3754054904755151,080
+0 200 400 600 800 1000 1200MumbaiChennaiNCRPuneHyderabadBengaluru
+39■ ■ 
+=== page 41 ===
+HISTORICAL
+FINANCIALS
+40awfis 
+=== page 42 ===
+41Operating EBITDARevenue from Operations 
+162 1964196199161,237
+49105205278257
+5
+11
+FY2112
+FY2221
+FY2325
+FY2413
+FY250
+FY261782575458491,208
++53%
+Others
+Construction and fit -out projects
+Co-working space on rent and allied services5368156245402550
+FY21 FY22 FY23 FY24 FY25 FY26+60%
+All numbers in INR Cr.
+# ROCE calculated as Cash EBIT divided by capital employed
+^ Annualised basis
+On IndAS basisFY21 FY22 FY23 FY24 FY25 FY2611%
+2%25%43%60%ROCE#^1,493
+62%THE FINANCIAL JOURNEY
+REVENUE, EBITDA AND ROCE TRAJECTORY
+• • • - -awfis 
+=== page 43 ===
+DESIGN
+PORTFOLIO
+42awfis 
+=== page 44 ===
+Awfis Design Studio, Bengaluru
+43
+=== page 45 ===
+DESIGN PORTFOLIO
+44
+=== page 46 ===
+45awfis 
+--
+=== page 47 ===
+THANK 
+YOU
+46CIN: L74999DL2014PLC274236
+cs.corp@awfis.com
+www.awfis.com
+Company
+CIN: U74140MH2010PTC204285
+Ms. Ami Parekh  / Mr. Rahul Agarwal
+E:  ami.Parekh@sgapl.net /rahul.agarwal@sgapl.net
+T: +91 8082466052 / +91 9821438864
+www.sgapl.net
+Investor Relations- l -----,_,: 
+-.= ----· -~ 
+awfis s GA Strategic Growth Advisors 

@@ -1,0 +1,790 @@
+
+=== page 1 ===
+~ 
+Bharti 
+Infratel 
+Limited 
+January 8,2019 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai-400001 National Stock Exchange of India Limited 
+Exchange Plaza, C -1, Block G, Bandra kurla Complex, 
+Bandra (E), Mumbai 400 051 
+Ref: Bharti Infratellimited (534816/ INFRATEl) 
+Sub: Investor Presentation 
+Dear Sir/ Madam, 
+Pursuant to Regulation 30 and 46 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find the enclosed presentations made by the Company to the investors at 
+the following event: 
+Name 
+Bharti Infratellnvestor/Analyst Day 
+Kindly take the same on record. 
+Thanking you, 
+Company Secretary 
+Encl: As above 
+Bharti Infratel Limited 
+CIN L64201 HR2006PLC073821 
+Sharti Crescent , 
+1, Nelson Mandela Road, Vasant Kunj, 
+Phase-II, New Delhi-110070 
+Phone: +91 11 46666100 Fax: +91 11 41666137 
+Email: compliance .officer@bharti-infratel.in 
+www.bharti-infratel.com Date 
+January 8, 2019 Venue 
+Delhi 
+Registered Office: 
+901, Park Centra, Sector 30, NH-8, 
+Gurugram, Haryana -122001 
+Phone: +91 1244132600 
+Fax: +91 1244109580 
+=== page 2 ===
+Building and Sharing Vital InfrastructureCompany presentation
+8th January 2019
+Slide: 1of 33
+=== page 3 ===
+Disclaimer
+•Byattending themeeting where thispresentation ismade, orbyreading thepresentation materials, youagree tobebound bythefollowing limitations :
+•The information inthispresentation hasbeen prepared byBharti Infratel Limited (the “Company”) foruseinpresentations bytheCompany atinvestor
+meetings anddoes notconstitute arecommendation regarding thesecurities oftheCompany .
+•Norepresentation orwarranty, express orimplied, ismade asto,andnoreliance should beplaced on,thefairness, accuracy, completeness orcorrectness
+oftheinformation, oropinions contained herein .Neither theCompany noranyofitsadvisors orrepresentatives shall have anyresponsibility orliability
+whatsoever (fornegligence orotherwise) foranyloss howsoever arising from anyuseofthispresentation oritscontents orotherwise arising inconnection
+with thispresentation .Theinformation setoutherein may besubject toupdating, completion, revision, verification andamendment andsuch information
+may change materially .Neither theCompany noranyofitsadvisors orrepresentatives isunder anyobligation toupdate orkeep current theinformation
+contained herein .
+•The information communicated inthispresentation contains certain statements that areormay beforward looking .These statements typically contain
+words such as"will", "expects" and "anticipates" and words ofsimilar import .Bytheir nature forward looking statements involve riskand uncertainty
+because they relate toevents and depend oncircumstances that willoccur inthefuture .These risks include regulatory approvals that may require
+acceptance ofconditions with potentially adverse impacts ;theparties’ respective ability torealize expected benefits associated with thetransaction ;the
+impact oflegal orother proceedings ;andcontinued growth inthemarket fortelecommunications services andgeneral economic conditions intherelevant
+market(s) .There may beadditional material risks that arecurrently notconsidered tobematerial orofwhich theCompany and itsadvisors or
+representatives areunaware .Against thebackground ofthese uncertainties, readers should notunduly relyonthese forward -looking statements .The
+Company, itsadvisors and representatives assume noresponsibility toupdate forward -looking statements ortoadapt them tofuture events or
+developments .
+•This presentation hasbeen prepared forinformational purposes only.This presentation does notconstitute aprospectus under the(Indian) Companies Act,
+2013 and willnotberegistered with anyregistrar ofcompanies .Furthermore, thispresentation isnotand should notbeconstrued asanoffer ora
+solicitation ofanoffer tobuysecurities forsale intheIndia .
+•Nowebsite orpart thereof, orother document, isorshall bedeemed tobeincorporated inthispresentation .Wedonotassumes anyresponsibility or
+liability forthecontent ofanywebsite ordocument published byanyother party
+•This presentation andtheinformation contained herein does notconstitute orform partofanyoffer forsale orsubscription oforsolicitation orinvitation of
+anyoffer tobuyorsubscribe foranysecurities oftheCompany, norshould itoranypart ofitform thebasis of,orberelied oninconnection with, any
+contract orcommitment whatsoever .The securities oftheCompany have notbeen andwillnotberegistered under theU.S.Securities Actof1933 ,as
+amended (the"Securities Act"), andmay notbeoffered, sold ordelivered within theUnited States ortoU.S.persons absent from registration under oran
+applicable exemption from theregistration requirements oftheUnited States securities laws.This presentation andtheinformation contained herein isbeing
+furnished toyousolely foryour information andmay notbereproduced orredistributed toanyother person, inwhole orinpart.Inparticular, neither the
+information contained inthispresentation noranycopy hereof may be,directly orindirectly, taken ortransmitted intoordistributed intheU.S.,Canada,
+Australia, Japan oranyother jurisdiction which prohibits thesame except incompliance with applicable securities laws.Any failure tocomply with this
+restriction may constitute aviolation oftheUnited States orother national securities laws.Nomoney, securities orother consideration isbeing solicited,
+and, ifsent inresponse tothispresentation ortheinformation contained herein, willnotbeaccepted .
+•Byreviewing thispresentation, you aredeemed tohave represented and agreed that you and any person you represent areeither (a)aqualified
+institutional buyer (within themeaning ofRegulation 144Aunder theSecurities Act) andaqualified purchaser (within themeaning oftheU.S.Investment
+Company Actof1940 ,asamended), or(b)notaU.S.person (asdefined inRegulation Sunder theSecurities Act)andareoutside oftheUnited States and
+notacting fortheaccount orbenefit ofaU.S.person .
+Slide: 2of 33
+=== page 4 ===
+Agenda
+•Changing telecom landscape
+•Impact on 
+Operator & Tower companies
+Regulatory landscape
+•Opportunities
+•Bharti Infratel 2.0
+Slide: 3of 33
+=== page 5 ===
+Changing telecom landscape
+Slide: 4of 33N/A                        1995 2008                      2014 2020          India
+1G 2G 3G 4G 5G
+Spectrum900 MHz
+1800 MHz900 MHz
+2100 MHz850MHz, 1800 
+MHz, 2300MHz<1 GHz, 1 -6 
+GHz, >6 GHz
+Speeds 64 kbps 2 Mbps 200 Mbps >1 Gbps
+Latency 500 -1000 ms 50 -200 ms 25 –100 ms <= 1 ms1980                      1991 2001                      2009 2019          Global
+With M2M and IoT, the number of devices continue to increase
+=== page 6 ===
+Trends
+•Voice to data demand
+•Increasing data speeds
+•Technology cycle shrinking
+•Band to ‘ Bandwidth ’ for higher speeds
+•Bandwidth only in higher bands; i.e. need higher frequencies 
+•Better user experience necessitates lower latency demands
+•Favorable regulatory environment for Infrastructure
+Slide: 5of 33
+=== page 7 ===
+Impact
+•Uniform high speeds require site densification
+•Higher frequency signals travel lesser distances
+•Fiber a necessity to backhaul
+•Capex requirements going up and hence sharing is imperative
+•Service differentiation would be the key
+Slide: 6of 33
+=== page 8 ===
+User speed reduces with distance from site
+Slide: 7of 33100 Mbps 10Mbps 0.1 Mbps>100 Mbps
+Site densification needed to give uniform speeds for applications
+=== page 9 ===
+More sites required for coverage on higher frequency
+Slide: 8of 33
+2G Spectrum 3G / 4G Spectrum
+High bandwidth 5G likely to be in 3.5Ghz frequency bands
+Source: Analysys Mason
+=== page 10 ===
+High backhaul capacity needs call for Fiber
+Slide: 9of 33Drivers for fiber
+•Microwave capacity limitations
+•Low latency demands
+•Losses due to large distances
+•Poor wireline availability
+•More data is consumed indoorsBackhaul Capacity per BTS
+2G 2 –4 Mbps
+3G 12 –30 Mbps
+4G 30 –120 Mbps
+5G > 1 Gbps
+India
+~25 %China
+~85%Global
+~50%% Fiberized 
+NetworksUS
+~80%
+Source: https://www.prysmiangroup.com/staticres/nexst -2018 -3/article -8.html, Broadband India Forum Sep 2018Opportunity to create another shareable asset
+=== page 11 ===
+Increasing investment by operators
+Spectrum Outlay 2010 2012 2014 2015 2016 Cumulative
+(Rs bn) 1,063    94           672        1,099    658        3,585            
+(USD bn) 15.9       1.4         10.1       16.4       9.8         53.7              
+Sharing is imperative
+Slide: 10of 33Spectrum
+Non-Spectrum *Capital
+investmentFY15 FY16 FY17 FY18FY19 (H1 
+annualized)
+(Rs. Bn) 219 280 296 337 372
+(USD Bn) 3.3 4.2 4.5 5.1 5.6
+Source: Morgan Stanley, Vodafone -Idea Analyst Meet 2018 ; Data converted at US$=INR 66.8. * Only for Bharti Airtel + Vodafone -Idea
+=== page 12 ===
+Growth trends with 4G launch
+Pan India 4G launch
+Source: TRAI reports9GB for data customers
+Slide: 11of 33With increasing penetration of 4G and implementation of 5G, a bigger leap is expected
+=== page 13 ===
+Dec 2013 Dec 2018 11 down to  4
+Consolidation in operator landscape…
+Slide: 12of 33Larger and stronger operators to take on data led opportunities
+=== page 14 ===
+Operator consolidation impact on Bharti Infratel
+Slide: 13of 33Worst behind us, industry impact significantly higher1,179 186 271 1,387 1,048 2,711 8,562 9,813 
+5,657 27,769 
+Q1 FY17 Q2 FY17 Q3 FY17 Q4 FY17 Q1 FY18 Q2 FY18 Q3 FY18 Q4 FY18 Q1 FY19 Q2 FY19Churn since Q1 FY17 in 
+consolidated Bharti Infratel
+Source: Company filings
+=== page 15 ===
+Leading to consolidation in tower market
+Slide: 14of 33
+Key Players
+OpCo 
+owned 
+towers
+Other players
+Changing landscape as we head towards more independent tower companies
+=== page 16 ===
+Changing regulatory landscape
+Slide: 15of 33
+=== page 17 ===
+National Digital Communications Policy 2018
+Slide: 16of 33
+VisionIndia’s transition to a digitally empowered economy and society by fulfilling 
+ICT needs of citizens and enterprises by establishment of a ubiquitous, 
+resilient and affordable Digital Communications Infrastructure and Services. 
+Missions•Connect India : Creating Robust Digital Communications Infrastructure
+•Propel India : Enabling Next Generation Technologies and Services 
+through Investments, Innovation and IPR generation
+•Secure India : Ensuring Sovereignty, Safety and Security of Digital 
+Communications
+Strategic 
+Objectives 
+(to be accomplished 
+by 2022)1.Provisioning of Broadband for All
+2.Creating 4 Million additional jobs in the Digital Communications sector
+3.Enhancing the contribution of the Digital Communications sector to 8% 
+of India’s GDP from ~ 6% in 2017
+4.Propelling India to the Top 50 Nations in the ICT Development Index of 
+ITU from 134 in 2017
+5.Enhancing India’s contribution to Global Value Chains
+6.Ensuring Digital Sovereignty
+Progressive, forward looking policy with Infrastructure focus
+Source: National Digital Communications Policy 2018
+=== page 18 ===
+Impact on tower companies
+Cabling (IBS) for 
+buildings compulsory 
+through NBCAccelerated rollout of 
+fiber in government 
+premises60% towers 
+fiberization
+Common service 
+ducts alongside roads 
+/ highwaysIncentives and 
+exemptions for tower 
+constructionKey takeaways
+Scope enhancement 
+of IP1s to include 
+active infrastructureEase in rollout of fiber
+Incentivizing clean 
+energy for sites
+Slide: 17of 33Government realizing the importance of Neutral Hosts; paving way for NetCo
+Source: National Digital Communications Policy 2018
+=== page 19 ===
+Opportunities
+Slide: 18of 33
+=== page 20 ===
+Multiplier effect on data consumption
+Slide: 19of 33No. of users No. of usersUsage / userLimit∞ No LimitUsage / user
+Growth in voice usage Growth in data usage
+Data, unlike voice, is not limited by number of subscribers or usageCapacity      =       No. of users Usage per userLimit
+=== page 21 ===
+Mobile subscriptions forecast
+Slide: 20of 33
+3.5 Bn 4G subscriptions against <2Bn 4G subscriptions as envisaged in 2014
+4G technology adoption exceeded expectations by over 2X
+Source: Ericsson Mobility Report November 2018 and 2014
+=== page 22 ===
+More spectrum, Multi Carrier, MIMO, 
+Advanced Antennas, etc
+Additional Macro
+Macro + ”Small Cells ”Very high 
+data rates
+Very high capacityHigher 
+data rates
+Higher capacityDifferent kinds of sites
+Slide: 21of 33
+Improve macro
+Densify
+Add “Small Cell”
+
+=== page 23 ===
+How densification will play out
+Slide: 22of 33
+Improve
+Densify
+Add
+Improve
+Dense 
+urbanUrban Suburban RuralImprove
+DensifyArea traffic density
+=== page 24 ===
+Working towards a service differentiation
+Slide: 23of 33180k > 220k
+Existing sites
+Would have to 
+catch up / 
+rationalize
+200k
+Market growth will be led by macro densification and small cells
+Source: Company fillings, Street estimates, News reports
+=== page 25 ===
+BTS HotelNew type of opportunities will emerge
+Slide: 24of 33Number of Sites will increase; but new type of sites will start to emergeCurrent opportunities
+›Macro densification
+›In-building solutions (IBS)
+›Smartly placed“small cells”
+Adjacent opportunities
+›Wi-Fi complementing 3GPP
+access
+›Fiber backhaul forhigh capacity
+BTS Sites
+›BTS hotels /Outdoor DAS
+›Managed Services
+›NetCo
+›Data CenterWi-Fi
+Macro
+Macro
+Macro
+IBS
+IBSSmall cell
+Small cell
+Small cell
+Cluster of
+small cells
+
+=== page 26 ===
+Bharti Infratel 2.0
+Slide: 25of 33
+=== page 27 ===
+Company Strategy
+Slide: 26of 33
+Promote Passive Infrastructure 
+Sharing
+Capitalize on opportunities of 
+Data growth, Digital India, Smart 
+Cities Initiatives of  GovernmentOrganic Growth and  
+Acquisition Opportunities
+Increasing Revenue and Capital 
+ProductivityAchieving Cost Efficiencies 
+Across Tower Portfolios
+=== page 28 ===
+Investment Thesis
+Slide: 27of 33Demonstrated Operational and 
+Financial PerformanceInsulated from Major Concerns -
+$-Re, Leverage, Import 
+Dependence
+High Standards of Corporate 
+GovernanceRegulatory Environment 
+FavorableLargest Indian Towerco with 
+over 1.9x Sharing Factor
+Operator Agnostic Way to 
+Benefit from 
+Data GrowthExperienced Management Team
+
+=== page 29 ===
+Bhopal Smart City: Architecture
+Intelligent 
+energy -saving 
+lighting
+Street video 
+surveillance
+Wi-Fi 
+broadband 
+hotspots
+Environme
+nt sensorsEnergy saving from LED 
+lighting
+Monetisation:
+•Revenue from mobile 
+service providers
+•Wi-Fi
+•Fibre
+•AdvertisementCity owned 
+secure data 
+processing & 
+management 
+system at 
+Command Centre
+Use of Free 
+frequency/  
+3G/4G/Fibre
+Zero Call 
+Drop 
+Mobile 
+boostersItem Deployed
+Smart Pole 150
+LED Lights 21000
+WiFi Hotspot 100
+CCTV 100
+OFC 200 Km
+Sensors 50
+Mobile App 1
+Command and 
+control center1
+Smart 
+Billboard150
+EV 
+Charging
+Slide: 28of 33Great showcase to demonstrate the model and capability
+=== page 30 ===
+Setting upofinfrastructure which willinclude poles ,micro sites and fiberized
+backhaul
+PPP long term contracts
+Shared ICTinfrastructure isthekeyenabler ofthesmart citySmart City expertise
+Slide: 29of 33
+Smart Cities to throttle us ahead to capitalize on new opportunities
+=== page 31 ===
+Opportunities for Infratel
+•Existing areas of business
+Maximizing organic business
+Small Cell
+In Building Solutions
+•New areas
+Fiber sharing
+Wi-Fi
+Smart cities
+BTS Hotel
+Managed services
+•Selectively evaluate inorganic growth
+Slide: 30of 335G will bring opportunities for NetCo and Data Center
+=== page 32 ===
+Building and Sharing Vital InfrastructureThank you
+8thJanuary 2019
+Slide: 31of 33
+=== page 33 ===
+Glossary
+Term Definition
+3GPP 3rd Generation Partnership Project
+Bn Billion
+BTS Base Transceiver System
+CCTV Closed Circuit Television
+DAS Distributed Antenna System
+FY Fiscal Year
+GDP Gross Domestic Product
+IBS In-Building Solutions
+ICT Information and Communication Technology
+IoT Internet of Things
+ITU
+LED Light Emitting Diode
+MHz / GHz Mega / Giga Hertz
+MB / GB Megabyte / Gigabyte
+Slide: 32of 33
+=== page 34 ===
+Glossary
+Term Definition
+MIMO Multiple Input Multiple Output
+MoU Minutes of Usage
+Ms Milliseconds
+M2M Machine to Machine
+NDCP National Digital Communications Policy
+NetCo Network Company
+OFC Optical Fiber Cable
+Rs / Re Rupees
+Towerco Tower Company
+USD United States Dollar
+Wi-Fi Wireless Fidelity
+Slide: 33of 33
+=== page 35 ===
+Proposed Merger with Indus Towers
+Dec2018
+=== page 36 ===
+Disclaimer
+Byattending themeeting where thispresentation ismade, orbyreading thepresentation materials, youagree tobebound bythefollowing limitations :
+The information inthispresentation hasbeen prepared byBharti Infratel Limited (the “Company”) foruseinpresentations bytheCompany atinvestor meetings anddoes notconstitute a
+recommendation regarding thesecurities oftheCompany .
+Norepresentation orwarranty, express orimplied, ismade asto,andnoreliance should beplaced on,thefairness, accuracy, completeness orcorrectness oftheinformation, oropinions
+contained herein .Neither theCompany noranyofitsadvisors orrepresentatives shall have anyresponsibility orliability whatsoever (fornegligence orotherwise) foranyloss howsoever
+arising from anyuseofthispresentation oritscontents orotherwise arising inconnection with thispresentation .The information setoutherein may besubject toupdating, completion,
+revision, verification andamendment andsuch information may change materially .Neither theCompany noranyofitsadvisors orrepresentatives isunder anyobligation toupdate orkeep
+current theinformation contained herein .
+The information communicated inthispresentation contains certain statements thatareormay beforward looking .These statements typically contain words such as"will", "expects" and
+"anticipates" andwords ofsimilar import .Bytheir nature forward looking statements involve riskanduncertainty because they relate toevents anddepend oncircumstances thatwilloccur in
+thefuture .These risks include regulatory approvals thatmay require acceptance ofconditions with potentially adverse impacts ;theparties’ respective ability torealize expected benefits
+associated withthetransaction ;theimpact oflegal orother proceedings ;andcontinued growth inthemarket fortelecommunications services andgeneral economic conditions intherelevant
+market(s) .There may beadditional material risks thatarecurrently notconsidered tobematerial orofwhich theCompany anditsadvisors orrepresentatives areunaware .Against the
+background ofthese uncertainties, readers should notunduly relyonthese forward -looking statements .TheCompany, itsadvisors andrepresentatives assume noresponsibility toupdate
+forward -looking statements ortoadapt them tofuture events ordevelopments .
+This presentation hasbeen prepared forinformational purposes only.This presentation does notconstitute aprospectus under the(Indian) Companies Act,2013 andwillnotberegistered
+withanyregistrar ofcompanies .Furthermore, thispresentation isnotandshould notbeconstrued asanoffer orasolicitation ofanoffer tobuysecurities forsale intheIndia .
+Nowebsite orpartthereof, orother document, isorshall bedeemed tobeincorporated inthispresentation .Wedonotassume anyresponsibility orliability forthecontent ofanywebsite or
+document published byanyother party .
+This presentation andtheinformation contained herein does notconstitute orform partofanyoffer forsale orsubscription oforsolicitation orinvitation ofanyoffer tobuyorsubscribe forany
+securities oftheCompany, norshould itoranypartofitform thebasis of,orberelied oninconnection with, anycontract orcommitment whatsoever .Thesecurities oftheCompany have not
+been andwillnotberegistered under theU.S.Securities Actof1933 ,asamended (the"Securities Act"), andmay notbeoffered, sold ordelivered within theUnited States ortoU.S.persons
+absent from registration under oranapplicable exemption from theregistration requirements oftheUnited States securities laws.This presentation andtheinformation contained herein is
+being furnished toyousolely foryour information andmay notbereproduced orredistributed toanyother person, inwhole orinpart.Inparticular, neither theinformation contained inthis
+presentation noranycopy hereof may be,directly orindirectly, taken ortransmitted intoordistributed intheU.S.,Canada, Australia, Japan oranyother jurisdiction which prohibits thesame
+except incompliance with applicable securities laws.Any failure tocomply with thisrestriction may constitute aviolation oftheUnited States orother national securities laws.Nomoney,
+securities orother consideration isbeing solicited, and, ifsent inresponse tothispresentation ortheinformation contained herein, willnotbeaccepted .
+Byreviewing thispresentation, youaredeemed tohave represented andagreed thatyouandanyperson yourepresent areeither (a)aqualified institutional buyer (within themeaning of
+Regulation 144Aunder theSecurities Act) andaqualified purchaser (within themeaning oftheU.S.Investment Company Actof1940 ,asamended), or(b)notaU.S.person (asdefined in
+Regulation Sunder theSecurities Act)andareoutside oftheUnited States andnotacting fortheaccount orbenefit ofaU.S.person .
+2of 25
+=== page 37 ===
+Merger with Indus Towers
+&Merged 
+Entity 
+Via All Stock Transaction
+Or
+Via Part Stock Part Cash Transaction
+Note: 
+1.The merged entity will fully own the respective businesses of Bharti Infratel and Indus Towers, will change its name to Indus Towers Limited and wil l continue to be 
+listed on the Indian Stock Exchanges. 
+2.Vodafone -Idea and Providence have the option to elect to receive cash or shares 
+3of 25
+=== page 38 ===
+Merger with Indus Towers
+All Stock 
+TransactionIssues shares to Vodafone Group for 42% of Indus
+Issues shares to Vodafone -Idea for 11.15% of 
+Indus
+Issues shares to Providence (PEP) for 4.85% of 
+Indus
+Or
+Issues shares to Vodafone Group for 42% of Indus
+Issues shares to PEP for 1.5% of Indus
+Vodafone -Idea and/or PEP take cash for 11.15% 
+and 3.35% stakes in Indus respectivelyPart Stock Part 
+CashTransaction
+Note: Vodafone -Idea and Providence have the option to elect to receive cash or shares. Above scenarios are for illustration, oth er combinations of stock and 
+cash may be possible 4of 25
+=== page 39 ===
+Merged Entity: Operational and Financial Snapshot
+Towers, Co -locations and 
+Sharing Factor (1)Revenue, EBITDA and 
+Profit After Tax (2)
+2.04xAverage 
+Sharing 
+Factor
+1) Data as of 30 September 2018
+2) Estimates based on LTM data ending 30 September 2018, assuming merger was effective on 1 October 2017 and assuming cash elect ionfor Vodafone -Idea 
+(11.15%) and PEP (3.35%), stock for Vodafone Group, additional interest costs @~8% p.a. and related adjustments. Above scenar io is for illustration, other 
+combinations of stock and cash may be possible
+5of 25
+=== page 40 ===
+Rationale for the Transaction
+Attractive valuation for existing Infratel shareholders, Indus @5.2% discount 
+on relative valuations for share election and 10% discount for cash election
+Enhancement in Return on Equity (ROE) due to improvement in capital structure
+Up to 0.6x Net Debt/EBITDA vs. Net Cash position currently
+Tax efficient transaction leading to accretion in Earning Per Share (EPS) and 
+consequently higher possible Dividend per share (DPS)
+Removal of holdco discount
+6of 25
+=== page 41 ===
+Rationale for the Transaction (contd.)
+Shares in a listed entity provides exit opportunity to shareholder operators of Indus
+Operational synergies in the form of capex/opex envisioned
+Single entity with one set of Board of Directors, leadership and senior management 
+to focus on nationwide growth and liaise with stakeholders in a unified manner
+Continue to offer passive infrastructure services to all customers on a non -
+discriminatory basis and support the Government of India’s “Digital India” vision
+Simplified shareholding structure with no single operator holding majority in the 
+merged entity
+Creating the largest in -country towerco outside China
+7of 25
+=== page 42 ===
+Attractive Valuation for Existing Infratel Shareholders
+Construct forIssuance ofShares :Discount of5.2%onrelative valuations
+Themerger ratio asatthedate ofagreement is1,565shares inInfratel forevery one
+Indus share .
+Themerger ratio hasbeen based onagreed relative Enterprise Valuations (EV) and
+adjusted netdebts where Indus was valued ata5.2%discount toInfratel’s EV/LTM
+EBITDA .
+Thefinal merger ratio andhence number ofshares issued willdepend ontheactual
+netdebt andworking capital atclosing inInfratel andIndus .
+Construct forCash Election :Discount of10%onrelative valuations
+Enterprise Value ofInfratel andIndus willbebased onthelast12months EBITDA as
+atMar’18i.e.FY17-18,VWAP of60days share price ofBharti Infratel atthedate of
+closing andnetdebt ofInfratel andIndus onthedate ofclosing .
+The resultant EV/EBITDA forInfratel shall bediscounted by10%toarrive atthe
+equity value forIndus .
+8of 25
+=== page 43 ===
+Enhancement in Return on Equity due to 
+Improvement in Capital Structure
+ROE improves by 265 bps to 18.4% post transaction 
+driven by improvement in capital structure
+Notes:
+•Infratel Consol refers to pre -merger entity with 42% ownership in Indus
+•Data for Infratel Consol is actual for quarter ending 30 September 2018. 
+•Data for the merged entity is estimated where merger adjustments are based on data for the quarter ending 30 September 2018 
+•Assuming scenario of cash election by Vodafone -Idea (11.15%) and Providence (3.35%), stock for Vodafone Group .Above scenario is for illustration, other 
+combinations of stock and cash may be possible
+•ROE refers to Return on Shareholder's Equity (LTM) Post tax with the assumption of merger as above on 30 September 2018 9of 25
+=== page 44 ===
+Up to 0.6x Net Debt/EBITDA vs. Net Cash 
+position currently
+Transaction to improve capital structure by 
+bringing higher leverage to the merged entity
+Notes:
+•Infratel Consol refers to pre -merger entity with 42% ownership in Indus
+•Data for Infratel Consol are actuals based on closing Net Debt/Cash and LTM EBITDA for the quarter ending 30 September 2018
+•Data for the merged entity are estimates under various scenarios based on data for the quarter ending 30 September 2018, assuming merger was effective 1 October 
+2017
+•Estimates include additional interest costs @~8% p.a. and related adjustments
+•Above scenarios are for illustration, other combinations of stock and cash may be possiblePost Transaction
+10of 25
+=== page 45 ===
+Accretion in Earnings Per Share…
+EPS accretive in all scenarios despite dilution driven by lower effective tax rate Post Transaction
+Notes :
+•Infratel Consol refers topre-merger entity with42%ownership inIndus
+•Data forInfratel Consol isactual forthefinancial year ending 31March 2018
+•Data forthemerged entity areestimates based ondata forthefinancial year ending 31March 2018 ,assuming merger waseffective on1April 2017 .
+Additional interest costs assumed @~8%p.a.where applicable along withrelated adjustments
+•Above scenarios forillustration, thefinal number willvary with adjustments including butnotlimited tofinal number ofshares issued toVodafone
+Group andthecash paid orshares issued toVodafone -Idea andProvidence ,which willbesubject toclosing adjustments, including butnotlimited to
+movements innetdebt andworking capital forBharti Infratel andIndus Towers .
+11of 25
+=== page 46 ===
+…and correspondingly possible increase in 
+Dividend Per Share
+Payouts made bythemerged entity willbemore taxefficient ascurrently there isa
+dual incidence ofDividend Distribution Tax(first paid byIndus andsubsequently by
+Infratel ondeclaration ofdividend toitsshareholders) which willbeeliminated .
+FortheFinancial year ended March 31,2018 ,EPS indifferent scenarios i.e.share
+election byallparties, part cash part share election and cash election cangoup
+from Rs.13.49pershare (diluted) toalowofRs.15.41pershare and high of
+Rs.15.61pershare, representing anincrease of14.3%to15.7%respectively, with
+corresponding possible increase inDividend per share (DPS) .This assumes
+merger being effective onApril 1,2017 .
+Aspertheagreed capital structure and dividend policy which isexpected tobe
+implemented post completion, themerged entity isexpected todistribute any
+excess cash flow toitsshareholders through dividends orshare buybacks, without
+exceeding amaximum leverage ratio of3.0xLTM EBITDA .
+12of 25
+=== page 47 ===
+Removal of Holdco Discount
+Removal of holdco discount for Indus could theoretically 
+uplift Infratel equity value by ~5 -10%
+Notes:
+Data using EV/EBITDA LTM Sep’18 multiple of 7.22x for Bharti Infratel
+13of 25
+=== page 48 ===
+Simplified Shareholding Structure
+Nosingle operator owning majority stake inthemerged entity
+Provides global investors direct access tothe~124ktowers ofIndus
+Shares inlisted entity provide exitopportunity toshareholder operators ofIndus
+Single entity with one setofBoard ofDirectors, leadership and senior
+management tofocus onnationwide growth andliaise with stakeholders ina
+unified manner
+14of 25
+=== page 49 ===
+Shareholding Structures
+1) Current Infratel public shareholding includes 10.34% held by Silverview Portfolio Investments Pte. Ltd. (KKR) and Canada Pension Plan Investment Board (CPPIB)
+2) Bharti Airtel shareholding in the Company as on Sep 30, 2018, includes 3.18% held by its wholly owned subsidiary Nettle Infra structure Investments Ltd.
+3) Post transaction shareholding structures are indicative as mentioned in Press Release dated 25 Apr 2018. The final number of shares issued to Vodafone Group and the 
+cash paid or shares issued to Vodafone -Idea and Providence, will be subject to closing adjustments, including but not limited to movements in net debt and working 
+capital for Bharti Infratel and Indus TowersCurrent: Indus and Infratel
+Post Transaction: Merged Entity
+15of 25
+=== page 50 ===
+Capex and Opex Synergies Envisioned
+Opex Related 
+SynergiesLikelihood ofsaving byway oflower administrative cost,
+savings onaccount ofcommon expenses, tower operating
+center costs etc.
+Thehead office cost forthemerged entity wasinthevicinity
+ofRs.3-4bnduring FY2017 -18.
+Capex Related 
+SynergiesVolume discounts anticipated duetocombined buying
+Savings oncommon investments such asIT,facilities like
+corporate headquarters, tower operating center, etc.
+Consolidated capex forthemerged entity was Rs.35,953
+mnduring FY2017 -18
+16of 25
+=== page 51 ===
+Creating the largest in -country towerco outside China
+For the purpose of this chart, Indus refers to the merged entity and includes Bharti Infratel and Indus towers and co-location sharing factor as at September 30, 2018
+CCI: Crown Castle International, SBA: SBA Communications, ATC: American Tower, TBIG: Tower Bersama ; SMN: Sarana Merana Nusantara
+1.Source: Company Websites, Stock Exchange filings, Company Annual and Quarterly reports; For China Tower, ATC, SBA, CCI, SMN, Tower Bersama tower/tenancy/sharing 
+factor data is as of September 30, 2018; for GTL tower data is as of March 31, 2018
+2.Average sharing factor calculated for the merged entitySharing Factor
+Towers (‘000s)Key Indian Tower Companies(1) Key Global Listed Tower Companies(1)
+1.632.04(2)
+1.59
+ 1.73
+ NA
+ 2.2 1.5
+1879
+2000
+1800
+2.04(2)
+17of 25
+=== page 52 ===
+Details of Merger and Valuation Construct
+Basic ConstructVodafone Group shall swap its42%inIndus against shares incombined entity asper
+valuation construct
+Providence orPEP shall swap its1.5%inIndus against shares incombined entity on
+same basis asVodafone Group
+Vodafone -Idea forits11.15%inIndus &PEP fortheir 3.35%inIndus would have the
+option toeither
+Getshares incombined entity onsame basis asVodafone Group or
+Getcash aspervaluation construct
+Valuation ConstructValuation Construct forIssuance ofShares (Vodafone Group for42%andPEP for1.5%
+stake inIndus)
+The merger ratio asatthedate ofagreement is1,565 shares inInfratel forevery one
+Indus share .
+The merger ratio hasbeen based onagreed relative Enterprise valuations andadjusted
+netdebts where Indus wasvalued ata5.2%discount toInfratel’s EV/LTM EBITDA .
+The final merger ratio andhence number ofshares issued willdepend ontheactual net
+debt andworking capital atclosing inInfratel andIndus .
+Construct forCash (Vodafone -Idea for11.15%Indus andPEP for3.35%Indus)
+Enterprise Value ofInfratel andIndus willbebased onthelast12months EBITDA asat
+Mar’18i.e.FY17-18,VWAP of60days share price ofBharti Infratel atthedate ofclosing
+andnetdebt ofInfratel andIndus onthedate ofclosing .
+The resultant EV/EBITDA forInfratel shall bediscounted by10%toarrive attheequity
+value forIndus .
+18of 25 Note: Above scenarios are for illustration, other combinations of stock and cash may be possible
+=== page 53 ===
+Governance, Dividend Policy and Other Highlights
+Joint Governance and 
+Management
+Board of Directors and 
+Management
+None of Bharti Airtel, Vodafone Group or Vodafone -Idea ( if it elects to receive shares), will be 
+subject to a lock -in on their shareholdings in the combined company
+Dividend policyBharti Airtel and Vodafone Group have agreed a capital structure and dividend policy which is 
+expected to be implemented post completion. The combined company is expected to 
+distribute any excess cash flow to its shareholders through dividends or share buybacks, 
+without exceeding a maximum leverage ratio of 3.0x LTM EBITDA
+Capital structureCash consideration paid to Vodafone -Idea and/or Providence will be financed through new 
+debt facilities and the existing cash resources of Bharti Infratel 
+On the basis that Vodafone -Idea and Providence elect to receive the maximum possible cash 
+consideration, the pro forma net debt of the combined company would have been INR63bn 
+(US$0.9bn ) as at 30 September 2018. This is equivalent to 0.6x net debt/EBITDA LTM Sep’18Bharti Airtel and Vodafone Group will have equal rights in the combined company
+11 member Board of whom:
+3 will be appointed by each of Bharti Airtel and Vodafone Group
+1 will be appointed by KKR/Canada Pension Plan Investment Board 
+4 (including the Chairman) will be independent
+The management team will be confirmed prior to closing
+Lock -in
+The transaction is conditional on regulatory and other approvals, including from Bharti Infratel 
+shareholders, National Company Law Tribunal (NCLT), Department of Telecommunications 
+(DOT) for Foreign Direct Investment (FDI) approval. Approvals from Competition Commission 
+of India (CCI) and Stock Exchanges/ Securities and Exchange Board of India (SEBI) have 
+already been received.Closure and approvals
+19of 25
+=== page 54 ===
+Mitigating the renewal risk and securing future cash 
+flows
+Right offirstrefusal from Bharti Airtel and Vodafone -Idea tocontinue foraperiod offiveyears for
+availing passive infrastructure services from themerged entity with some carve outs/exemptions and
+commitments .
+Large partoftheco-locations’ base ofthemerged entity willbedueforrenewal inFY2022 and2023 .
+Inanendeavor tomitigate therenewal riskandsecure thefuture cash flows, inlieuofthecommitment
+from theshareholder operators torenew atleast 33%oftheir respective tenancies under their
+respective Master Service Agreements (MSAs), thatareexpiring inafinancial year, themerged entity
+willrenew alltenancies ofsuch operators expiring insuch financial year that areelected tobe
+renewed bytheoperator ,onthesame terms and conditions asagreed intherelevant MSAs
+applicable asoftheeffective date,provided thateach such renewal shall beforaminimum period of5
+years .
+Thisshall beapplicable toalltenancies existing asoftheeffective date oranytenancies entered into
+during theperiod of5years from theeffective date.
+Same terms andconditions aspertheMSAs asontheeffective date means sharing revenue perco-
+location permonth persharing operator, taking intoaccount theannual escalation, ifany, asperthe
+MSA terms applicable asoftheeffective date.
+20of 25
+=== page 55 ===
+Merger Timelines
+Apr 
+2018•Merger Announcement 
+Jun 
+2018•Approval received from Competition Commission of India (CCI)
+Jul 2018•No adverse objection letters received from Stock Exchanges –Bombay Stock 
+Exchange (BSE) and National Stock Exchange (NSE)
+In 
+Process•Approval from National Company Law Tribunal (including shareholders and 
+creditors)
+•Approval from Department Of Telecommunications (DOT) 
+Closure•Closure of Transaction upon receipt of NCLT and DOT approvals
+21of 25
+=== page 56 ===
+In Summary
+22of 25
+=== page 57 ===
+Strategy for the Merged Entity
+Promote Nationwide Passive 
+Infrastructure Sharing
+Capitalize on opportunities due to 
+data growth, Digital India, Smart 
+Cities’ Initiatives of GovernmentOrganic Growth and  Acquisition 
+Opportunities
+Increasing Revenue and Capital 
+ProductivityAchieving Cost Efficiencies
+23of 25
+=== page 58 ===
+Investment Thesis
+Demonstrated Operational 
+and Financial PerformanceInsulated from Major 
+Concerns -$-Re, Leverage, 
+Import Dependence
+High Standards of 
+Corporate GovernanceRegulatory Environment 
+FavorableLargest listed Indian 
+towerco with ~1.9x Closing 
+Sharing Factor
+Operator Agnostic Way to 
+Benefit from 
+Data GrowthExperienced Leadership 
+Team
+24of 25
+=== page 59 ===
+Thank You
+25of 25

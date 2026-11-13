@@ -1,0 +1,4 @@
+symbol,kind,label,url,file,text_file,pages,status,fetched
+ROUTE,annual_report,Annual Report 2026,https://www.bseindia.com/xml-data/corpfiling/AttachHis/36290219-8fc9-49ec-bf79-8ac6a98f6216.pdf,Annual_Report_2026.pdf,Annual_Report_2026.txt,,cached,2026-11-08
+ROUTE,annual_report,Annual Report 2025,https://www.bseindia.com/xml-data/corpfiling/AttachHis/944198dd-f695-489a-b70c-d10aa0b85f42.pdf,Annual_Report_2025.pdf,Annual_Report_2025.txt,176,ok,2026-11-08
+ROUTE,annual_report,Annual Report 2024,https://www.bseindia.com/xml-data/corpfiling/AttachHis/c9d78be8-cdbe-4476-ac3a-9bad8c715ae7.pdf,Annual_Report_2024.pdf,Annual_Report_2024.txt,378,ok,2026-11-08

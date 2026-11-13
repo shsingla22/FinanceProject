@@ -1,0 +1,110 @@
+ 
+  
+ 
+February  25, 202 6 CS&G/STX/ MQ2026/33 
+1) National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+Scrip Symbol: KFINTECH  2) BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 543720 
+ 
+Sub.  : Press Release  
+Ref. : Regulation 30 of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)  
+Dear Sir / Madam,  
+Pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, please find 
+enclosed herewith the Press Release titled  “MF Central Strengthens Independent Governance; 
+Appoints Supratim Bandyopadhyay as No n-Executive Chairman and Rajesh Krishnamoorthy 
+as CEO ”. 
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For KFin Technologies Limited  
+Alpana Kundu  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: F10191 
+Encl.: a/a  
+MF Central Strengthens Independent Governance; Appoints Supratim 
+Bandyopadhyay as Non -Executive Chairman and Rajesh Krishnamoorthy as 
+CEO  
+MUMBAI/CHENNAI, 25 February  2026 – MFC Technologies Private Limited (“MFC 
+Technologies”), the joint venture between Computer Age Management Services Limited 
+(CAMS) and KFin Technologies Limited (KFintech), today announced key leadership appointments as MF Central transitions into a professional ly governed stand -alone entity 
+serving India’s mutual fund ecosystem.  
+Mr. Rajesh Krishnamoorthy has been appointed as Chief Executive Officer, while Mr. Supratim Bandyopadhyay will serve as Non- Executive Chairman of the Board. The appointments mark 
+an impo rtant step in strengthening independent governance and reinforcing MF Central’s role 
+as a neutral, interoperable industry utility aligned with SEBI’s vision of a unified digital infrastructure for investors and intermediaries.  
+MFC Technologies was establis hed following CAMS and KFintech’s collaboration to launch MF 
+Central in 2021, in response to SEBI’s directive to create a centralized platform designed to simplify investor servicing, enhance digital enablement and standardize mutual fund processes across the industry.  
+Mr. Rajesh Krishnamoorthy brings over three decades of experience across capital markets, 
+financial planning and digital distribution. He previously served as Country Head –  India for 
+the Financial Planning Standards Board (US) and was the fo unding Managing Director of the 
+iFAST platform in India. He currently serves in board and advisory roles across the investment 
+ecosystem and has contributed to industry and regulatory initiatives focused on investor 
+advisory frameworks. His appointment ref lects MFC Technologies’ focus on strengthening 
+execution, scaling API -led integrations and expanding standardized servicing capabilities for 
+AMCs, distributors, RIAs and digital intermediaries.  
+Mr. Supratim Bandyopadhyay is a seasoned financial services le ader who previously served 
+as Chairman of the Pension Fund Regulatory and Development Authority (PFRDA). He brings over three decades of experience at Life Insurance Corporation of India, including senior leadership roles in investments and pension fund ma nagement.  
+With a dedicated Board and full -time executive leadership in place, MFC Technologies will 
+oversee technology development, ecosystem integrations and platform governance for MF Central, ensuring an arm’s -length operating structure that supports ne utrality across 
+registrars, asset management companies and intermediaries.  
+Anuj Kumar, Managing Director, CAMS, said, “As SEBI’s vision of a unified, investor centric 
+marketplace continues to gain momentum, this step further strengthens MF Central’s readiness to play a central integrative role within the ecosystem. With the mutual fund 
+ecosystem scal ing and digital expecta tions ris ing, MF Central’s governance framework must 
+evolve with equal rigor to ensure neutrality, transparency and seamless industry -wide 
+enablement. With independent leadership and clear governance structures now in place, we 
+are confident that under the  combined guidance of Mr. Bandyopadhyay and Mr. 
+Krishnamoorthy, the entity will operate with the discipline and independence required to 
+fulfil SEBI’s vision of a unified, investor centric platform ” 
+Sreekanth Nadella, MD and CEO, KFintech, s aid, “From its inception, MF Central was 
+intended to be a secure, hyper -scale ecosystem. This transition to an independent Board -led 
+structure provides the speed and focus necessary for the next phase of innovation. Rajesh 
+Krishnamoorthy’s deep execution discipline and u nderstanding of capital market participants 
+make him the ideal leader to strengthen stakeholder confidence while driving technical 
+interoperability at scale.”  
+Supratim Bandyopadhyay, Non- Executive Chairman, MFC Technologies, added , “Our 
+mandate is to ensur e that MF Central serves as a resilient, secure digital rail for the industry. 
+My focus will be on upholding the highest standards of corporate governance and ensuring 
+that as we scale, we remain strictly aligned with the regulatory intent of enhancing inv estor 
+convenience through standardization and transparency.”  
+Rajesh Krishnamoorthy, Chief Executive Officer, MFC Technologies, sa d, “MF Central has 
+already proven its value as a facilitator of non -financial transactions. Our next objective is to 
+deepen tha t trust by building a robust, API -first infrastructure that supports the full spectrum 
+of financial transactions and intermediary services.  Our objective is to build a robust, scalable 
+and standards -driven digital infrastructure for the mutual fund industry, focused on reliability, 
+security and ecosystem integration.”  
+With this new leadership structure in place, MFC Technologies will focus on expanding 
+intermediary services, strengthening digital architecture and security frameworks, and 
+deepening ec osystem integrations to support a standardised mutual fund servicing 
+experience.  
+About CAMS Limited (www.camsonline.com) BSE: 543232; NSE: CAMS  
+CAMS is a financial infrastructure and service partner to the asset management industry and 
+provides platform -based services to the BFSI segment. The Company is India's largest registrar 
+and transfer agent of mutual funds with an aggregate market share of ~68% based on mutual 
+fund average assets under management (“AAuM”). Its mutual fund clients include ten of the fifteen largest mutual funds. The Company is the market -leading platform and service partner 
+to alternative investment funds and portfolio managers serving over 520 mandates of 240 funds with full -stack digital and fund administration services. CAMSKRA is a fast -growing KYC 
+repository for capital markets, offering unique solutions leveraging new age technologies. CAMSPay specializes in providing secure, seamless and innovative payment solutions for 
+Mutual funds, BFSI sector and Ed Techs. Services to insurance companies and eInsurance 
+services are provided via the subsidiary CAMSRep. The company has also forayed into new areas like Account Aggregator and Central Record -Keeping Agency (“CRA”) services for 
+National Pension Scheme. CAMS acquired a majority stake  in Think360.ai, a full -stack Data 
+Science and AI -focused firm and Fintuple Technologies, a digital transformation partner for 
+capital market entities.  
+About KFin Technologies Limited (www.kfintech.com/; BSE: 543720; NSE: KFINTECH):  
+KFin Technologies Limited (“KFintech”) is a leading technology driven financial services 
+platform providing comprehensive services and solutions to the capital markets ecosystem including asset managers and corporate issuers across asset classes in India and provide compreh ensive investor solutions including transfer agency, fund administration, fund 
+accounting, data analytics, digital onboarding, transaction origination and processing for alternate investments, mutual funds, private market funds, digital assets, unit trusts , 
+insurance investments, and private retirement schemes to global asset managers across 18 
+jurisdictions. In India, KFintech is the largest investor solutions provider to Indian mutual 
+funds, based on number of AMCs serviced as on December 31, 2025, and the largest issuer solutions provider based on number of clients serviced as on December 31, 2025. KFintech is the only investor and issuer solutions provider in India that offers services to asset managers such as mutual funds, alternative investment funds,  wealth managers and pension as well as 
+corporate issuers and is one of the three operating central record keeping agencies for the National Pension System in India. KFintech is listed on the National Stock Exchange of India Limited and BSE Limited. Genera l Atlantic Singapore Fund Pte Ltd (“GASF”), a leading global 
+private equity investor, is the promoter of the company.  
+Media Contact:  
+Hanisha Vadlamani  | hanisha.vadlamani@kfintech.com  
+Rahul Sethi | rahul.sethi@camsonline.com  
+Hena Chawla  | hena.chawla @adfacto rspr.com  
+Saloni Bisani | saloni.bisani@mslgroup.com  

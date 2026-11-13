@@ -1,0 +1,107 @@
+ 
+ 
+Ref No:  RML/202 6-27/702  
+ Date:  August  06, 2026 
+ 
+To, 
+BSE  Limited                                                                             National  Stock  Exchange  of India  Limited  
+Scrip  Code:  543228                                                             Symbol:  ROUTE  
+ 
+Sub : Announcement  under  Regulation  30 - Press Release  
+ Dear  Sir/Madam,  
+ Please ﬁnd enclosed Press Release titled “Route Mobile launches new Salesforce- native 
+messaging app on AgentExchange ”. 
+ 
+This  disclosure  is made  in accordance  with  Regulation 30 of the Securities and Exchange Board 
+of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 .  
+ 
+You are requested to take the above information on record.  
+ 
+The  same  is also  uploaded  on the Company’s  website  at www.routemobile.com  
+ 
+Thanking you,  
+ Yours truly,  
+For Route Mobile Limited  
+    Tejas Shah  
+Company Secretary & Compliance Officer  
+ICSI Membership No: A34829  
+ 
+Encl: as above  
+  
+ 
+ 
+Route Mobile launches new Salesforce- 
+native messaging app on AgentExchange  
+The new solution enables brands to send messages, including 
+WhatsApp and SMS, to customers directly from within Salesforce – with 
+all data remaining in the customer’s Salesforce environment . 
+ 
+Mumbai, India – 6th August – Route Mobile Limited  (“Route Mobile”), a  Proximus Global company 
+and a global leader in Communications Platform as a Service (CPaaS) offering messaging, voice, email, and identity and veriﬁcation solutions , has launched a new omnichannel messaging 
+application on the Salesforce AgentExchange. Delivered via Route Mobile APIs, the app enables 
+Salesforce users to send global SMS and WhatsApp messages directly from within any Salesforce 
+Cloud – without custom development or external infrastructure . 
+ 
+As enterprises  worldwide  digitally  transform  their customer  experiences,  they  increasingly  need  
+communications  built  directly  into  the CRM  tools  their  teams  already  use.  By embedding  carrier-
+grade  messaging  into  the world's most widely  used  CRM  Platform , Route  Mobile  gives  
+businesses a more  flexible  and  scalable  way  to engage  customers on their  preferred  channels.  
+ Tushar  Agnihotri,  CEO,  Route  Mobile , said:  “Enterprises  want  to move  faster,  personalize  
+customer interactions,  and  simplify  how  their  teams  engage  at scale.  With  this  Salesforce -native  
+app,  Route  Mobile  is bringing  its global messaging  expertise  directly  into  one  of the world’s most  
+widely  used  CRM  environments,  helping  businesses  activate  trusted  customer communications  
+without added  complexity.  It is an important  step  in making  omnichannel  engagement  more  
+accessible, secure,  and  scalable  for brands globally.” 
+ Built  natively  on the Salesforce  platform,  the app  offers  fast  deployment  and  zero -code  
+configuration.  A key differentiator:  all customer data  remains  within  the organization's  own  
+Salesforce  environment and  is never  stored  on external  servers – a critical  requirement  for 
+enterprises in regulated  industries.  Core  capabilities  include  conversational  one -to-one  texting,  
+bulk  messaging  from  Salesforce  Reports  and  Campaigns,  automated  messaging  triggered  by 
+Flows  and  Process Builder,  WhatsApp,  and  built -in delivery  and  engagement  analytics  – all 
+reaching  customers across  190+  countries  via Route  Mobile's  direct  carrier  network.  
+ 
+George  Kakhadze,  VP CPaaS  Product  and  Portfolio,  Proximus  Global , said:  “Most  enterprises 
+know  what  a good  customer  experience  looks like,  but technology  barriers  can  make  this difficult  
+to build  on a global scale.  This  app  removes  those  barriers – organizations can  build  messaging  
+directly  into  their Salesforce  workfl ows,  and  their  customers  receive  timely,  relevant 
+communications  on the channel  they  prefer,  wherever  they  are in the world.  The  engagement  
+case  is compelling:  SMS  messages  see open  rates of around  98%,  compared  with  roughly  20%  
+for email  – helping  organizations move  beyond  email -first outreach  to communications  
+customers  actually  see  and  act on.”  
+ 
+   
+ 
+The  platform  also  incorporates AI to ensure  more  seamless  and  targeted  customer  
+communications.  Features  such  as intent -scoring,  message  personalization  and  timing  
+optimization  will support  enterprises to improve  their  customer  experience  at scale,  moving  
+beyond  ‘batch -and -blast’  communications  to intelligent,  real -time  engagement.   
+ 
+The  Route  Mobile  messaging  app  is now  available  on the Salesforce  AgentExchange .  
+ 
+About Route Mobile Limited ( https://routemobile.com ) (BSE: 543228; NSE: ROUTE)  
+Established in 2004, Route Mobile Limited (“RML”) is a cloud communications platform service provider catering to enterprises, over -the-top (OTT) players, and mobile network operators 
+(MNO). RML’s portfolio comprises solutions in messaging, voice, email, S MS ﬁltering, analytics, 
+and monetization. RML has a diverse enterprise client base across various industries, including 
+social media companies, banks and ﬁnancial institutions, e -commerce entities, and travel 
+aggregators. RML is headquartered in Mumbai, India, with a global presence in Asia Paciﬁc, the 
+Middle East, Africa, Europe, and the Americas. Route Mobile is now a part of Proximus Group, a 
+provider of digital services and communication solutions operating in Belgium and international 
+markets . 
+ 
+About Proximus Global  
+Proximus Global, combining the strengths of Telesign, BICS, and Route Mobile, is transforming the future of communications and digital identity. Together, our solutions fuel innovation across 
+the world's largest companies and emerging brands. Our unrivaled  global reach empowers 
+businesses to create engaging experiences with built- in fraud protection across the entire 
+customer lifecycle.  Our comprehensive suite of solutions – from our super network for voice, 
+messaging, and data, to 5G and IoT; and from ver iﬁcation and intelligence to CPaaS for 
+personalized omnichannel engagement – enables businesses and communities to thrive. 
+Reaching over 5 billion subscribers, securing more than 180 billion transactions annually, and connecting 1,000+ destinations, we ho nor our commitment to connect, protect and engage 
+everyone, everywhere .     
+  
+For more information visit  https://www.proximusglobal.com     
+ Additional Resources  
+Follow Route Mobile on LinkedIn:  https://in.linkedin.com/company/routemobilelimited  
+ Media Contact:  
+Pooja Choudhary  
+Email : investors@routemobile.com  
+Contact: +91 96198 55711  

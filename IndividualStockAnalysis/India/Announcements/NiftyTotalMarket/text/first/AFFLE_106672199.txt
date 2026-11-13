@@ -1,0 +1,51 @@
+ 
+Affle 3i Limited  
+(Formerly known as Affle (India) Limited)  
+Regd. Office | A47 Lower Ground Floor, Hauz Khas, Off Amar Bhawan, New Delhi -110016  
+Communication Office | 8th floor, Unitech Commercial Tower - 2, Sector - 45, Gurugram - 122003,  Haryana  
+(P) 0124 -4598749 (W) www.affle.com ; CIN: L65990DL1994PLC408172   
+  
+Affle/SE/2026 -27                                                              June 24, 2026  
+   
+To 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,                                 
+Dalal Street, Mumbai 400 001  
+Scrip Code: 542752  National Stock Exchange of India Ltd  
+Exchange Plaza, 5th Floor, Plot No. C -l, G 
+Block, Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400 051  
+Symbol: AFFLE  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (“SEBI Listing Regulations”)  
+This is to inform that the Company has been granted a patent in India, which was earlier granted to the 
+Company in the US, strengthening the overall IP portfolio of the Company.  
+The patent subject area is "Method and system for click -to-install behavior based detection of fraud". This 
+patent deploys trained machine learning models to analyse click -to-install behavioural patterns in real time, 
+by collecting and processing device da ta, application data and user behaviour across agentic/autonomous 
+intelligent connected devices (AICDs). By identifying deviations across parameters such as click time, 
+redirection time, time to install and network signals, it accurately distinguishes genu ine human engagements 
+from non -human bot traffic and fraudulent publisher activity, scoring and blocking offending publishers in 
+real time so that advertisers pay only for authentic consumer conversions.  
+This grant directly reinforces the human -vs-non-human data distillation and fraud prevention capabilities 
+of our AI -powered Consumer Platform Stack, protecting advertiser ROI and safeguarding the integrity of 
+our CPCU business model. It further builds upon  our previously granted IPs, reflecting our sustained 
+commitment to powering measurable and trusted digital journeys for advertisers globally, while deepening 
+our technology thought leadership and strengthening our strategic defensibility across markets. O ur IP 
+portfolio stands at 18 unique patent grants out of 39 total filed patents, with approximately 300 enforceable 
+patent claims as on date.  
+Submitted for your information and records.  
+Thanking You,  
+ 
+Yours Faithfully,  
+For Affle 3i Limited  
+(Formerly known as Affle (India) Limited)  
+ 
+ 
+ 
+Parmita Choudhury  
+Company Secretary & Compliance Officer  
