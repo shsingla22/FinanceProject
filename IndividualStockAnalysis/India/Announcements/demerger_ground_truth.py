@@ -6,23 +6,27 @@ as an independent check on the skill's list.
     python3 demerger_ground_truth.py --no-fetch        # rebuild from stored bundles
 
 Every trading day NSE publishes a PR bundle (PR<ddmmyy>.zip) beside the
-bhavcopy. Two files in it see a demerger without anyone writing a headline:
+bhavcopy. One file in it sees a demerger without anyone writing a headline:
 
   bc<ddmmyyyy>.csv   the corporate-actions / book-closure file: one row per
                      record date with its PURPOSE — "Demerger", "Scheme of
-                     Arrangement", "Spin off" — for the PARENT symbol;
-  pd<ddmmyyyy>.csv   the day's price file for every series: a RESULTING
-                     company lists as a symbol never seen before.
+                     Arrangement", "Spin off" — for the PARENT symbol.
 
-The bundle is small (about 0.6 MB), so the year's bundles are kept under
+The same register is read a second time through NSE's corporate-actions
+API, which adds the ISIN (the stable key across a rename), and NSE's
+equity list (EQUITY_L.csv) supplies every symbol's name and DATE OF
+LISTING, which is how a resulting company's arrival is confirmed. The
+bundle is small (about 0.6 MB), so the year's bundles are kept under
 `_bhav_bundles/` and parsed into:
 
   NiftyTotalMarket/_demerger_ground_truth.csv
-      date (record / ex date), symbol, company, purpose, source
-      (bc = corporate-actions file, api = NSE corporate-actions API,
-      newlist = first appearance in the price file)
+      date (record / ex date), symbol (universe symbol), company, purpose,
+      source (bc = corporate-actions file, api = corporate-actions API),
+      isin, register_symbol (what the register printed), in_universe
+  NiftyTotalMarket/_nse_equity_list.csv
+      symbol, name, listing_date, series, isin
 
-The skill's own list is then checked against this file by
+The skill's own list is then checked against these files by
 Skills/SpinOffSkill/scripts/validate_demergers.py.
 """
 
@@ -107,21 +111,6 @@ def parse_bc(zpath: Path) -> list[dict]:
                             "company": r.get("SECURITY", ""), "purpose": purpose,
                             "source": "bc", "detail": f"ex {_iso(col('EX DT', 'EX-DT', 'EX DATE'))}; series {r.get('SERIES', '')}; file {zpath.name}"})
     return out
-
-
-def parse_pd_symbols(zpath: Path) -> set[str]:
-    """Every EQ/BE symbol in the day's price file."""
-    syms = set()
-    with zipfile.ZipFile(zpath) as z:
-        for n in z.namelist():
-            if not n.lower().startswith("pd"):
-                continue
-            text = z.read(n).decode("utf-8", "replace")
-            for r in csv.DictReader(io.StringIO(text)):
-                r = {(k or "").strip().upper(): (v or "").strip() for k, v in r.items()}
-                if r.get("SERIES") in ("EQ", "BE") and r.get("SYMBOL"):
-                    syms.add(r["SYMBOL"])
-    return syms
 
 
 def _iso(s: str) -> str:
@@ -245,8 +234,6 @@ def build(days: int = 400, fetch: bool = True, today: dt.date | None = None,
     today = today or dt.date.today()
     members = FA.universe()
     rows: list[dict] = []
-    seen_syms: set[str] = set()
-    first_seen: dict[str, str] = {}
     n_bundles = 0
     for day in trading_days(today, days):
         z = fetch_bundle(day) if fetch else (BUNDLES / f"PR{day:%d%m%y}.zip")
@@ -254,14 +241,9 @@ def build(days: int = 400, fetch: bool = True, today: dt.date | None = None,
             continue
         n_bundles += 1
         try:
-            rows += parse_bc(z)
-            syms = parse_pd_symbols(z)
+            rows += parse_bc(z)                    # the corporate-actions file only
         except zipfile.BadZipFile:
             continue
-        if seen_syms:
-            for s in syms - seen_syms:
-                first_seen.setdefault(s, day.isoformat())
-        seen_syms |= syms
         if fetch:
             time.sleep(0.2)
     note("gt", f"{n_bundles} bundles read; {len(rows)} corporate-action rows name a demerger / scheme")
@@ -270,14 +252,6 @@ def build(days: int = 400, fetch: bool = True, today: dt.date | None = None,
             note("gt", f"{len(fetch_equity_list())} listed equities with listing dates (EQUITY_L)")
         except Exception as e:                        # noqa: BLE001
             note("gt", f"equity list failed: {e}")
-    # new listings: a symbol first seen after the window's first month is a
-    # new listing — IPOs included; the validator uses them only to confirm
-    # a resulting company's arrival, never as a demerger on its own
-    cutoff = (today - dt.timedelta(days=days - 35)).isoformat()
-    for s, d in first_seen.items():
-        if d >= cutoff:
-            rows.append({"date": d, "symbol": s, "company": "", "purpose": "first appearance in the price file",
-                         "source": "newlist", "detail": ""})
     try:
         rows += api_rows(today - dt.timedelta(days=days), today)
     except Exception as e:                        # noqa: BLE001

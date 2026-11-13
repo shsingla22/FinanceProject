@@ -396,14 +396,12 @@ def test_register_rows_are_put_under_the_universe_symbol_by_isin_or_twin():
              "source": "api", "detail": "", "isin": "INE155A01022"},
             {"date": "2026-09-07", "symbol": "HEG", "company": "HEG Ltd", "purpose": "DEMERGER", "source": "bc", "detail": ""},
             {"date": "2026-09-07", "symbol": "HEG", "company": "HEG Limited", "purpose": "Demerger", "source": "api", "detail": "", "isin": "INE545A01016"},
-            {"date": "2026-09-07", "symbol": "DALMIASUG", "company": "Dalmia Bharat Sugar", "purpose": "DEMERGER", "source": "bc", "detail": ""},
-            {"date": "2026-05-01", "symbol": "X", "company": "", "purpose": "first appearance in the price file", "source": "newlist", "detail": ""}]
+            {"date": "2026-09-07", "symbol": "DALMIASUG", "company": "Dalmia Bharat Sugar", "purpose": "DEMERGER", "source": "bc", "detail": ""}]
     out = {(r["source"], r["register_symbol"]): r for r in GT.canonicalise(rows, members, isins)}
     assert out[("api", "HEG")]["symbol"] == "HEGAM" and out[("api", "HEG")]["in_universe"] == "yes"      # by ISIN
     assert out[("bc", "TATAMOTORS")]["symbol"] == "TMPV" and out[("bc", "TATAMOTORS")]["in_universe"] == "yes"   # by its API twin
     assert out[("bc", "HEG")]["symbol"] == "HEGAM"
     assert out[("bc", "DALMIASUG")]["symbol"] == "DALMIASUG" and out[("bc", "DALMIASUG")]["in_universe"] == ""   # same date, other company
-    assert out[("newlist", "X")]["in_universe"] == ""
 
 
 def test_restructuring_rows_follow_the_deep_store_after_a_rule_change():
@@ -1113,8 +1111,11 @@ def test_register_check_finds_misses_and_false_positives():
           {"date": "2026-05-01", "symbol": "VEDL", "company": "Vedanta", "purpose": "Demerger", "source": "api", "in_universe": "yes", "detail": ""},
           {"date": "2026-07-22", "symbol": "TRIVENI", "company": "Triveni", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},
           {"date": "2026-06-10", "symbol": "OUTSIDE", "company": "X", "purpose": "Demerger", "source": "bc", "in_universe": "", "detail": ""},
-          {"date": "2026-05-20", "symbol": "TSPL", "company": "", "purpose": "first appearance in the price file", "source": "newlist", "in_universe": "", "detail": ""},
           {"date": "2026-04-01", "symbol": "ANYCO", "company": "", "purpose": "Dividend", "source": "bc", "in_universe": "yes", "detail": ""}]
+    # NSE's equity list stands in for the arrival check: the resulting company's own listing date
+    equities = [{"symbol": "TSPL", "name": "Talwandi Sabo Power Limited", "listing_date": "2026-05-20"},
+                {"symbol": "RANDOMIPO", "name": "Random Foods Limited", "listing_date": "2026-05-21"},
+                {"symbol": "VEDLOLD", "name": "Vedanta Aluminium Limited", "listing_date": "2026-09-01"}]   # too late
     sits = [{"symbol": "VEDL", "company": "Vedanta", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "listed",
              "listed_on": "2026-05-01", "facts": {"resulting_company": "Talwandi Sabo Power Limited"},
              "judge": {"what_is_spun": "power business into TSPL"}},
@@ -1126,12 +1127,13 @@ def test_register_check_finds_misses_and_false_positives():
              "listed_on": "2026-03-01", "facts": {}, "judge": {"what_is_spun": "a unit"}},
             {"symbol": "UPL", "company": "UPL", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "exchange_noc",
              "listed_on": None, "facts": {}, "judge": {"what_is_spun": "crop protection into UPL 2"}}]
-    res = VD.check(sits, gt, dt.date(2026, 10, 12))
+    res = VD.check(sits, gt, dt.date(2026, 10, 12), equities=equities)
     assert set(res["register"]) == {"VEDL", "TRIVENI"}                      # universe demergers only
     byv = {r["symbol"]: r["verdict"] for r in res["recall"]}
     assert byv["VEDL"] == "captured" and byv["TRIVENI"] == "held as other restructuring only"
     assert [r["symbol"] for r in res["misses"]] == ["TRIVENI"]
-    assert "TSPL" in next(r for r in res["recall"] if r["symbol"] == "VEDL")["new_symbols_near_record_date"]
+    arrived = next(r for r in res["recall"] if r["symbol"] == "VEDL")["resulting_company_listed"]
+    assert arrived == "TSPL (2026-05-20)"                                  # named like the read, in the window; the IPO is not
     byp = {r["symbol"]: r["verdict"] for r in res["precision"]}
     assert byp["VEDL"].startswith("verified") and byp["UPL"].startswith("pending")
     assert byp["DABUR"].startswith("FALSE POSITIVE (judge") and byp["GHOST"].startswith("FALSE POSITIVE (record date")

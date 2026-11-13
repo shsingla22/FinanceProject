@@ -190,9 +190,11 @@ largest gains came not in the first year but in the second.
 12. **The register check** (`scripts/validate_demergers.py`) — the
     demerger list is tested against NSE's own record, built by
     `Announcements/demerger_ground_truth.py` from the year's bhavcopy
-    bundles (record dates with purpose "Demerger" in the `bc` file, the
-    corporate-actions API, and every symbol's first appearance in the
-    price file). RECALL: every universe company with a demerger record
+    bundles' corporate-actions file (record dates with purpose
+    "Demerger"), the corporate-actions API (the same register, with
+    ISINs, so a renamed company is keyed to the universe), and NSE's
+    equity list (listing dates, for the resulting company's arrival).
+    RECALL: every universe company with a demerger record
     date must be in the list as a confirmed or probable demerger — held
     as merger or other is a classification miss, absent is a capture
     miss. PRECISION: every confirmed demerger at record date or listed

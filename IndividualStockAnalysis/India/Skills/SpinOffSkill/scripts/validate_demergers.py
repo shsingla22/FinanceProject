@@ -13,8 +13,9 @@ PRECISION  every demerger the skill marks LISTED or at RECORD DATE must
          date yet cannot be checked against the register and is listed as
          "pending — not yet verifiable". A confirmed demerger whose judge
          read says nothing is separated is a FALSE POSITIVE.
-ARRIVAL  for each register demerger, whether a resulting company appeared
-         in the price file after the record date (newlist rows).
+ARRIVAL  for each register demerger, whether a resulting company LISTED
+         within 75 days after the record date (NSE's equity list, by its
+         DATE OF LISTING and a name like the parent's or the read one).
 
 Output: Analysis/NiftyTotalMarketAnalysis/SpinOffAnalysis/SPINOFF_GROUND_TRUTH_CHECK.md
 and _ground_truth_check.csv; exit code 1 when any miss or false positive.
@@ -61,14 +62,43 @@ def register_demergers(gt: list[dict]) -> dict[str, dict]:
     return out
 
 
-def new_listings(gt: list[dict]) -> dict[str, str]:
-    return {r["symbol"]: r["date"] for r in gt if r["source"] == "newlist" and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["date"] or "")}
+EQUITY_LIST = INDIA / "Announcements" / "NiftyTotalMarket" / "_nse_equity_list.csv"
 
 
-def check(situations: list[dict], gt: list[dict], today: dt.date | None = None) -> dict:
+def listed_equities(path: Path = EQUITY_LIST) -> list[dict]:
+    """NSE's equity list: [{symbol, name, listing_date}] — a resulting
+    company's arrival is its own DATE OF LISTING."""
+    if not path.exists():
+        return []
+    with open(path) as fh:
+        return [r for r in csv.DictReader(fh) if re.fullmatch(r"\d{4}-\d{2}-\d{2}", r.get("listing_date") or "")]
+
+
+def _tok(name: str) -> str:
+    w = re.sub(r"[^A-Za-z0-9 ]", " ", name or "").split()
+    return w[0].lower() if w else ""
+
+
+def arrivals_for(record_dates: set[str], parent: str, resulting: str, equities: list[dict], window: int = 75) -> list[str]:
+    """Symbols that LISTED within `window` days after one of the record
+    dates and whose name starts like the parent's or the resulting company
+    read from the scheme (Vedanta → Talwandi Sabo Power via the read)."""
+    want = {t for t in (_tok(parent), _tok(resulting)) if t}
+    out = []
+    for e in equities:
+        for rd in record_dates:
+            gap = (dt.date.fromisoformat(e["listing_date"]) - dt.date.fromisoformat(rd)).days
+            if 0 <= gap <= window and _tok(e["name"]) in want:
+                out.append(f"{e['symbol']} ({e['listing_date']})")
+                break
+    return sorted(set(out))
+
+
+def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
+          equities: list[dict] | None = None) -> dict:
     today = today or dt.date.today()
     reg = register_demergers(gt)
-    arrivals = new_listings(gt)
+    equities = listed_equities() if equities is None else equities
     by_sym: dict[str, list[dict]] = {}
     for s in situations:
         by_sym.setdefault(s["symbol"], []).append(s)
@@ -80,16 +110,14 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None) 
         dem = [s for s in spin if s["kind"] == "demerger" and s["confidence"][0] in ("confirmed", "probable")]
         verdict = ("captured" if dem else "captured as scheme/listing only" if spin
                    else "held as other restructuring only" if sits else "MISSING")
-        arrived = sorted(a for a, when in arrivals.items()
-                         if any(when >= rd for rd in d["dates"]) and
-                         any(abs((dt.date.fromisoformat(when) - dt.date.fromisoformat(rd)).days) <= 75 for rd in d["dates"]))
         resulting = next((s["facts"].get("resulting_company", "") for s in dem if s["facts"].get("resulting_company")), "")
+        arrived = arrivals_for(d["dates"], d["company"], resulting, equities)
         row = {"symbol": sym, "company": d["company"], "record_dates": "; ".join(sorted(d["dates"])),
                "purpose": "; ".join(sorted(d["purposes"]))[:120], "skill_kind": "/".join(sorted({s["kind"] for s in sits})) or "—",
                "skill_confidence": "/".join(sorted({s["confidence"][0] for s in spin})) or "—",
                "skill_stage": "/".join(sorted({s["stage"] for s in dem})) or "—",
                "resulting_company_read": resulting,
-               "new_symbols_near_record_date": ", ".join(arrived[:4]), "verdict": verdict}
+               "resulting_company_listed": ", ".join(arrived[:4]), "verdict": verdict}
         recall_rows.append(row)
         if verdict != "captured":
             misses.append(row)
@@ -145,11 +173,11 @@ def render(res: dict, run_date: str) -> str:
          f"| …pending (no record date yet, not verifiable) | {s['pending']} |",
          f"| …FALSE POSITIVES | {s['false_positives']} |", ""]
     A += ["## Recall — every register demerger, and what the skill holds", "",
-          "| Parent | Record date(s) | Purpose | Skill kind | Confidence | Stage | Resulting company read | New symbols near the record date | Verdict |",
+          "| Parent | Record date(s) | Purpose | Skill kind | Confidence | Stage | Resulting company read | Resulting company listed (NSE equity list) | Verdict |",
           "|---|---|---|---|---|---|---|---|---|"]
     for r in res["recall"]:
         A.append(f"| **{r['symbol']}** | {r['record_dates']} | {r['purpose'][:60]} | {r['skill_kind']} | {r['skill_confidence']} | "
-                 f"{r['skill_stage']} | {r['resulting_company_read'][:40]} | {r['new_symbols_near_record_date']} | {r['verdict']} |")
+                 f"{r['skill_stage']} | {r['resulting_company_read'][:40]} | {r['resulting_company_listed']} | {r['verdict']} |")
     A += ["", "## Precision — every confirmed demerger in the skill", "",
           "| Company | Stage | Listed on | Register date(s) | What is spun (judge) | Verdict |", "|---|---|---|---|---|---|"]
     for r in res["precision"]:
@@ -158,7 +186,8 @@ def render(res: dict, run_date: str) -> str:
           "- A register demerger the skill lacks is a miss in CAPTURE; one held as merger or other is a miss in CLASSIFICATION.",
           "- A confirmed demerger with a record date the register does not know is a false positive; one the judge reads as an amalgamation is too.",
           "- Confirmed demergers still before their record date cannot be verified against the register; they are listed as pending, and the register will settle them as it fills.",
-          "- New symbols within 75 days after a record date show the resulting company arriving in the price file.", ""]
+          "- A company in NSE's equity list that LISTED within 75 days after the record date, named like the parent or "
+          "the resulting company read from the scheme, shows the resulting company arriving.", ""]
     return "\n".join(A)
 
 

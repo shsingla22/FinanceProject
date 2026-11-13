@@ -14,16 +14,16 @@
 
 ## Recall — every register demerger, and what the skill holds
 
-| Parent | Record date(s) | Purpose | Skill kind | Confidence | Stage | Resulting company read | New symbols near the record date | Verdict |
+| Parent | Record date(s) | Purpose | Skill kind | Confidence | Stage | Resulting company read | Resulting company listed (NSE equity list) | Verdict |
 |---|---|---|---|---|---|---|---|---|
-| **HEGAM** | 2026-09-07 | DEMERGER; Demerger | capital_reduction/demerger/merger/slump_sale | confirmed | record_date | HEG Graphite Limited | ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN | captured |
-| **HINDUNILVR** | 2025-12-05 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | listed |  | ADVAIT, AEQUS, ALGOQUANT, AMAGI | captured |
-| **INDIAGLYCO** | 2026-09-02 | DEMERGER; Demerger | demerger/merger/preferential_issue | confirmed | listed | Ennature Bio Pharma Limited | ABCIND, ACEVECTOR, ADROITIND, AGASTYAEN | captured |
-| **INOXGREEN** | 2026-08-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Inox Renewable Solutions Limited | ACEVECTOR, ACGL, ADDIND, ADROITIND | captured |
-| **SKFINDIA** | 2025-10-15 | DEMERGER; Demerger | demerger/merger | confirmed | record_date |  | ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50 | captured |
-| **TMPV** | 2025-10-14 | DEMERGER; Demerger | demerger | confirmed | record_date |  | ADANI-RE, ADVENTHTL, AEQUS, AONETMMQ50 | captured |
-| **TRIVENI** | 2026-07-22 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue | confirmed | listed | Triveni Power Transmission Limited | ACEVECTOR, ACGL, ADDIND, ADROITIND | captured |
-| **VEDL** | 2026-05-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Talwandi Sabo Power Limited | AASTHA, AGL, AURUS, AVG-RE | captured |
+| **HEGAM** | 2026-09-07 | DEMERGER; Demerger | capital_reduction/demerger/merger/slump_sale | confirmed | record_date | HEG Graphite Limited |  | captured |
+| **HINDUNILVR** | 2025-12-05 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | listed |  |  | captured |
+| **INDIAGLYCO** | 2026-09-02 | DEMERGER; Demerger | demerger/merger/preferential_issue | confirmed | listed | Ennature Bio Pharma Limited | ENNATURE (2026-11-04) | captured |
+| **INOXGREEN** | 2026-08-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Inox Renewable Solutions Limited |  | captured |
+| **SKFINDIA** | 2025-10-15 | DEMERGER; Demerger | demerger/merger | confirmed | record_date |  | SKFINDUS (2025-12-05) | captured |
+| **TMPV** | 2025-10-14 | DEMERGER; Demerger | demerger | confirmed | record_date |  | TMCV (2025-11-12) | captured |
+| **TRIVENI** | 2026-07-22 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue | confirmed | listed | Triveni Power Transmission Limited |  | captured |
+| **VEDL** | 2026-05-01 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Talwandi Sabo Power Limited | VAML (2026-06-15), VEDPOWER (2026-06-15), VISL (2026-06-15), VOGL (2026-06-15) | captured |
 
 ## Precision — every confirmed demerger in the skill
 
@@ -63,4 +63,4 @@
 - A register demerger the skill lacks is a miss in CAPTURE; one held as merger or other is a miss in CLASSIFICATION.
 - A confirmed demerger with a record date the register does not know is a false positive; one the judge reads as an amalgamation is too.
 - Confirmed demergers still before their record date cannot be verified against the register; they are listed as pending, and the register will settle them as it fills.
-- New symbols within 75 days after a record date show the resulting company arriving in the price file.
+- A company in NSE's equity list that LISTED within 75 days after the record date, named like the parent or the resulting company read from the scheme, shows the resulting company arriving.
