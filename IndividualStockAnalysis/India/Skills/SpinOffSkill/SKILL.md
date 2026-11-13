@@ -201,8 +201,10 @@ largest gains came not in the first year but in the second.
     must have a register row, and a confirmed demerger whose judge read
     says nothing is separated is a false positive; confirmed demergers
     still before their record date are "pending, not yet verifiable".
-    ARRIVAL: the resulting company's new symbol within 75 days of the
-    record date. It writes `SPINOFF_GROUND_TRUTH_CHECK.md` and exits 1
+    ARRIVAL: a company in NSE's equity list that LISTED within 75 days of
+    the record date, named like the parent or the company the scheme
+    names; a company that IS the resulting company is verified by its
+    own listing date. It writes `SPINOFF_GROUND_TRUTH_CHECK.md` and exits 1
     on any miss or false positive, so a run that fails the register is
     not shared.
 
