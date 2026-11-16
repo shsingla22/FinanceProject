@@ -1268,6 +1268,11 @@ def test_rules_from_the_long_backtests_unverified_list(monkeypatch):
     # and the exchange's register outranks every reading: a company with a demerger record date is never demoted
     reg = {**base, "facts": {"record_date": "2024-09-11", "record_date_source": "NSE corporate-actions register", "direction": "inbound"}}
     assert SO.judge_override(reg, {**j, "what_is_spun": "Not stated — documents describe an amalgamation", "listing_timeline": "No new listing."})[0] is None
+    # Cello today: into a NAMED wholly-owned subsidiary; Adani today: an amalgamation described as the 'spin'
+    assert SO.judge_override(base, {**j, "what_is_spun": "Wim Plast's Manufacturing Business demerged into Cello Consumer Products Private Limited, a wholly owned subsidiary of Cello World",
+                                    "listing_timeline": "not stated — no listing of the demerged entity is described"})[0] == "other"
+    assert SO.judge_override(base, {**j, "what_is_spun": "Adani Tradecom Limited amalgamated into Adani New Industries Limited; documents give no business description"})[0] == "merger"
+    assert SO.judge_override(base, {**j, "what_is_spun": "Hotels business, demerged into ITC Hotels", "reason": "after the amalgamation of a subsidiary into the parent, focus"})[0] is None
     # Tata Communications: to a wholly-owned subsidiary, nothing about listing; Natco: to a WOS that WILL list
     assert SO.judge_override(base, {**j, "what_is_spun": "new edge digital services business, hived off to wholly-owned subsidiary Novamesh Limited"})[0] == "other"
     natco = {**base, "facts": {"listing_sought": {"yes": 2}}}

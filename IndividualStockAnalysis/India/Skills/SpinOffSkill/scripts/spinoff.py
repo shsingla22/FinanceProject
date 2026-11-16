@@ -1303,6 +1303,11 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     quiet = judge.get("parent_or_spin") in ("neither", "unclear", None) and judge.get("selling_pressure") != "likely"
     if NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
         return "merger", "the judge read an amalgamation / liquidation / insolvency matter; nothing is separated"
+    # the judge's own description of what is 'spun' is an amalgamation and
+    # names no separation at all ('Adani Tradecom amalgamated into Adani New
+    # Industries'): a merger, whatever it calls the company
+    if NOT_A_DEMERGER_RX.search(judge.get("what_is_spun", "")) and not DEMERGER_WORDS_RX.search(spun):
+        return "merger", "the judge describes an amalgamation, not a separation"
     starts_empty = bool(re.match(r"\s*(not stated|nothing|none|no\b|n/?a)\b", judge.get("what_is_spun", ""), re.I))
     tl = judge.get("listing_timeline") or ""
     # 'Not stated — the documents describe an amalgamation …': the opening
@@ -1322,7 +1327,7 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     sought = sit.get("facts", {}).get("listing_sought") or {}
     listing_expected = bool(sought.get("yes")) or bool(re.search(r"\b(?:will|shall|would|expected|proposed|to) be listed|listing (?:of|is) (?:expected|proposed|to be sought)|list(?:ed|ing) (?:on|at) (?:the )?(?:bse|nse|stock exchange)",
                                                                tl, re.I))
-    if re.search(r"\b(?:hived[- ]off|transferred|moved|demerged|vested)\s+(?:to|into|in)\s+(?:a |its |the |an? existing )?wholly[- ]owned subsidiar", what, re.I) \
+    if re.search(r"\b(?:hived[- ]off|transferred|moved|demerged|vested|carved[- ]out)\s+(?:to|into|in)\s+[^.;]{0,90}?\bwholly[- ]owned subsidiar", what, re.I) \
             and not listing_expected:
         return "other", "the business goes to a wholly-owned subsidiary and no listing is stated; a reorganisation inside the group"
     # the resulting company the filings name was already listed before these filings: history
