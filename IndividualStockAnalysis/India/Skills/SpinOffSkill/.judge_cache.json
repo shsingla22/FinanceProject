@@ -2204,29 +2204,49 @@
   }
  },
  "LUMAXTECH": {
-  "stamp": "91d4d7f74a4610a2284c2241f92cff48",
-  "verdict": {
-   "what_is_spun": "Nothing is separated \u2014 IAC India's automotive interior components business merged inbound into the listed parent",
-   "demerged_business_names": [
-    "IAC International Automotive India Private Limited",
-    "IAC India",
-    "IAC Division",
-    "Lumax Integrated Ventures Private Limited",
-    "Lumax Auto Technologies Limited",
-    "Lumax Resources Private Limited",
-    "Lumax Greenfuel Energy Solutions Private Limited"
-   ],
-   "reason": "Greater integration, financial strength and flexibility to maximize shareholder value; cost savings, operational synergies, economies of scale and fewer legal and regulatory compliances",
-   "reason_class": "value_unlocking",
-   "insiders": "Transferor was a wholly owned subsidiary, so no shares issued; promoter directors D.K. Jain, Deepak Jain and Anmol Jain remain; Anmol Jain holds 1,29,18,113 LATL equity shares",
-   "hidden_value": "Shows a high-margin captive inside the parent: IAC now sits in standalone accounts (standalone FY26 revenue Rs 3,60,548.91 lakhs, restated FY25 upward), but management says over 90% of IAC's order book is Mahindra",
-   "selling_pressure": "unlikely",
-   "selling_pressure_why": "No new shares, no listing; wholly owned transferor dissolved without winding up, shareholder base and index membership unchanged",
-   "parent_or_spin": "parent",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "No listing: the May 12, 2026 filing states \u201cupon the Scheme becoming effective, the Transferor Company shall stand dissolved without being wound up\u201d; Scheme effective May 18, 2026",
-   "read_next": "Note 5(b) restated standalone results \u2014 IAC's margin contribution and Mahindra concentration in the Rs 1,450 crore order book",
-   "quote": "The consolidation of activities of the Transferor Company and the Transferee Company by way of amalgamation will lead to operational synergies, greater productivity, and economical operations for the future growth of the Transferee Company."
+  "stamps": {
+   "91d4d7f74a4610a2284c2241f92cff48": {
+    "what_is_spun": "Nothing is separated \u2014 IAC India's automotive interior components business merged inbound into the listed parent",
+    "demerged_business_names": [
+     "IAC International Automotive India Private Limited",
+     "IAC India",
+     "IAC Division",
+     "Lumax Integrated Ventures Private Limited",
+     "Lumax Auto Technologies Limited",
+     "Lumax Resources Private Limited",
+     "Lumax Greenfuel Energy Solutions Private Limited"
+    ],
+    "reason": "Greater integration, financial strength and flexibility to maximize shareholder value; cost savings, operational synergies, economies of scale and fewer legal and regulatory compliances",
+    "reason_class": "value_unlocking",
+    "insiders": "Transferor was a wholly owned subsidiary, so no shares issued; promoter directors D.K. Jain, Deepak Jain and Anmol Jain remain; Anmol Jain holds 1,29,18,113 LATL equity shares",
+    "hidden_value": "Shows a high-margin captive inside the parent: IAC now sits in standalone accounts (standalone FY26 revenue Rs 3,60,548.91 lakhs, restated FY25 upward), but management says over 90% of IAC's order book is Mahindra",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "No new shares, no listing; wholly owned transferor dissolved without winding up, shareholder base and index membership unchanged",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "No listing: the May 12, 2026 filing states \u201cupon the Scheme becoming effective, the Transferor Company shall stand dissolved without being wound up\u201d; Scheme effective May 18, 2026",
+    "read_next": "Note 5(b) restated standalone results \u2014 IAC's margin contribution and Mahindra concentration in the Rs 1,450 crore order book",
+    "quote": "The consolidation of activities of the Transferor Company and the Transferee Company by way of amalgamation will lead to operational synergies, greater productivity, and economical operations for the future growth of the Transferee Company."
+   },
+   "d42d7f7d004d1ebdaad132ee083d2fea": {
+    "what_is_spun": "Nothing separated: wholly owned Lumax Ancillary's wiring harness and lamp assembly business merges inbound into the parent",
+    "demerged_business_names": [
+     "Lumax Ancillary Limited (LAL / Transferor Company)",
+     "Lumax Auto Technologies Limited (LATL / Transferee Company)",
+     "Greenfuel Energy Solutions Private Limited 'other ancillary businesses which will be carved out through a demerger'"
+    ],
+    "reason": "\"efficient utilisation & synergy of resources\"; \"simplification of corporate structure by elimination of multiple entities in the group driven with single focused management team\"; cost saving, economies of scale",
+    "reason_class": "value_unlocking",
+    "insiders": "Promoters 3,81,54,430 shares, 55.98%, identical pre- and post-arrangement; LAL 100% promoter-held, all shares cancelled, no new shares issued or cash paid",
+    "hidden_value": "LAL turnover Rs.19,306.04 lakhs on net worth Rs.4,161.33 lakhs; management calls it \"lower single-digit EBITDA margin\", diluting the 14% group margin; merger is purely structural, no revaluation",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "No shares issued, no new listing, shareholding and index membership unchanged; LAL already consolidated since January 25, 2024",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated; no entity lists \u2014 \"no new shares shall be issued or payment be made in cash whatsoever by the Transferee Company\" (May 27, 2024); scheme filed with NCLT July 20, 2024, appointed date April 01, 2024 (August 10, 2024)",
+    "read_next": "NCLT order on the LAL scheme, and LAL's single-digit EBITDA margin versus the 14% consolidated margin",
+    "quote": "The Transferor Company is the wholly owned subsidiary of the Transferee Company."
+   }
   }
  },
  "NAUKRI": {
@@ -29241,26 +29261,50 @@
   }
  },
  "MOTHERSON": {
-  "stamp": "88363827b8b9880d18291f78dee1d2fd",
-  "verdict": {
-   "what_is_spun": "Automotive Manufacturing and Services Business (Demerged Undertaking) of Samvardhana Motherson Innovative Solutions Limited, transferred into listed parent SAMIL",
-   "demerged_business_names": [
-    "Demerged Undertaking",
-    "Automotive Manufacturing and Services Business",
-    "Samvardhana Motherson Innovative Solutions Limited (SMISL) - Demerged Company/Amalgamated Company 2",
-    "Samvardhana Motherson International Limited (SAMIL) - Resulting Company/Amalgamated Company 1"
-   ],
-   "reason": "Focused management attention and leadership; independence and flexibility over respective cash flows; enhanced operational efficiency via leaner organisation; enhanced shareholder value; reduction of layers of investments and more transparent shareholding",
-   "reason_class": "value_unlocking",
-   "insiders": "Not stated. Demerged Company is a 100% subsidiary of the Resulting Company, so no shares are issued; documents give no promoter or management stake or incentive details",
-   "hidden_value": "Internal pull-up, not a separation: an automotive manufacturing and services business already owned 100% moves into the listed entity, with SMISL's Remaining Business retained. Pre- and post-arrangement net worth of both companies is positive; amalgamating SMAS has negative net worth",
-   "selling_pressure": "unlikely",
-   "selling_pressure_why": "No shares issued, no new listed entity, no index change; wholly owned subsidiaries within the same group",
-   "parent_or_spin": "parent",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "not stated",
-   "read_next": "Scheme of Arrangement, Annexure F (pages 555-625), Clause 5 of Part B: assets/liabilities of the Demerged Undertaking",
-   "quote": "Since the Demerged Company is 100% (one hundred percent) subsidiary of the Resulting Company, no shares will be issued by the Resulting Company."
+  "stamps": {
+   "88363827b8b9880d18291f78dee1d2fd": {
+    "what_is_spun": "Automotive Manufacturing and Services Business (Demerged Undertaking) of Samvardhana Motherson Innovative Solutions Limited, transferred into listed parent SAMIL",
+    "demerged_business_names": [
+     "Demerged Undertaking",
+     "Automotive Manufacturing and Services Business",
+     "Samvardhana Motherson Innovative Solutions Limited (SMISL) - Demerged Company/Amalgamated Company 2",
+     "Samvardhana Motherson International Limited (SAMIL) - Resulting Company/Amalgamated Company 1"
+    ],
+    "reason": "Focused management attention and leadership; independence and flexibility over respective cash flows; enhanced operational efficiency via leaner organisation; enhanced shareholder value; reduction of layers of investments and more transparent shareholding",
+    "reason_class": "value_unlocking",
+    "insiders": "Not stated. Demerged Company is a 100% subsidiary of the Resulting Company, so no shares are issued; documents give no promoter or management stake or incentive details",
+    "hidden_value": "Internal pull-up, not a separation: an automotive manufacturing and services business already owned 100% moves into the listed entity, with SMISL's Remaining Business retained. Pre- and post-arrangement net worth of both companies is positive; amalgamating SMAS has negative net worth",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "No shares issued, no new listed entity, no index change; wholly owned subsidiaries within the same group",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated",
+    "read_next": "Scheme of Arrangement, Annexure F (pages 555-625), Clause 5 of Part B: assets/liabilities of the Demerged Undertaking",
+    "quote": "Since the Demerged Company is 100% (one hundred percent) subsidiary of the Resulting Company, no shares will be issued by the Resulting Company."
+   },
+   "42dd6ba90efb53dfd7754f8fed2edbf8": {
+    "what_is_spun": "SMISL's Automotive Manufacturing & Services Business \u2014 Motherson Sintermetal Technology and Motherson Advanced Tooling Solutions divisions plus certain investments",
+    "demerged_business_names": [
+     "Demerged Undertaking",
+     "Automotive Manufacturing & Services Business",
+     "Motherson Sintermetal Technology (MSTL)",
+     "Motherson Advanced Tooling Solutions (MATS)",
+     "Samvardhana Motherson Innovative Solutions Limited (SMISL) \u2014 Demerged Company",
+     "Samvardhana Motherson International Limited (SAMIL) \u2014 Resulting Company",
+     "investments in Motherson Techno Tools Limited, Anest Iwata Motherson Private Limited, AES (India) Engineering Limited, Nissin Advanced Coating Indo Co. Private Limited, Kyungshin Industrial Motherson Private Limited"
+    ],
+    "reason": "Focused management attention and leadership; independence and flexibility over cash flows; leaner, focused organisation; reduction of layers of investments and simpler, more transparent structure; enhanced shareholder value",
+    "reason_class": "value_unlocking",
+    "insiders": "Not stated. SMISL is a wholly owned subsidiary, so no shares are issued and there is no change in shareholding pattern of SAMIL or SMISL; no promoter interest disclosed",
+    "hidden_value": "A pull-up, not a spin-off: small divisions (SMISL FY24 turnover INR 129.85 crore, 1.44% of SAMIL standalone) plus JV/associate stakes move into the listed parent, cutting holding layers; no consolidated share-capital or financial impact",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "No shares issued, no listing sought, no change in shareholding pattern; movement from a wholly owned subsidiary into the listed parent",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "On February 7, 2025 the Company stated, for whether listing would be sought for the resulting entity: \"Not Applicable\"; Appointed Date is April 1, 2024, Scheme subject to NCLT sanction",
+    "read_next": "SMISL standalone financials / NCLT scheme petition sizing MSTL+MATS assets and the five investments transferred",
+    "quote": "There will be no change in the shareholding pattern of either SAMIL or SMISL, pursuant to this demerger."
+   }
   }
  },
  "IRB::rationale": {
@@ -36052,23 +36096,49 @@
   }
  },
  "INDUSTOWER": {
-  "stamp": "7fa2aa701898cb04dc1d53bec14022e2",
-  "verdict": {
-   "what_is_spun": "not stated",
-   "demerged_business_names": [
-    "not stated"
-   ],
-   "reason": "not stated",
-   "reason_class": "not stated",
-   "insiders": "not stated",
-   "hidden_value": "not stated",
-   "selling_pressure": "unclear",
-   "selling_pressure_why": "No demerger, resulting company or share-entitlement details appear anywhere in the documents.",
-   "parent_or_spin": "neither",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "not stated",
-   "read_next": "FY26 annual report note on the scheme of arrangement adjusting depreciation against general reserve.",
-   "quote": "During the quarter ended June 30, 2026, the Trust transferred 12,738 equity shares of exercise price of Rs. 10 each to employees upon exercise of stock options."
+  "stamps": {
+   "7fa2aa701898cb04dc1d53bec14022e2": {
+    "what_is_spun": "not stated",
+    "demerged_business_names": [
+     "not stated"
+    ],
+    "reason": "not stated",
+    "reason_class": "not stated",
+    "insiders": "not stated",
+    "hidden_value": "not stated",
+    "selling_pressure": "unclear",
+    "selling_pressure_why": "No demerger, resulting company or share-entitlement details appear anywhere in the documents.",
+    "parent_or_spin": "neither",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated",
+    "read_next": "FY26 annual report note on the scheme of arrangement adjusting depreciation against general reserve.",
+    "quote": "During the quarter ended June 30, 2026, the Trust transferred 12,738 equity shares of exercise price of Rs. 10 each to employees upon exercise of stock options."
+   },
+   "d42a65a410ebfad9a9c0174859a714bb": {
+    "what_is_spun": "Passive Infrastructure Business Undertaking: approx. 16,100 telecom towers and related infrastructure carved out of Bharti Airtel and Bharti Hexacom",
+    "demerged_business_names": [
+     "Passive Infrastructure Business Undertaking",
+     "Passive Infrastructure Business Undertakings",
+     "Proposed Acquisition",
+     "passive infrastructure assets/ Telecom Towers",
+     "Macro Sites",
+     "Ultra Lean Sites (ULS)",
+     "Cell on Wheels (COW)",
+     "Bharti Airtel Limited",
+     "Bharti Hexacom Limited"
+    ],
+    "reason": "\"In line with the Company's strategy to grow its market share, expand its asset portfolio, and optimize infrastructure deployment while reducing operational costs\"; plus market consolidation, synergies and strengthening position in Bharti Airtel's tower network.",
+    "reason_class": "regulatory_strategic",
+    "insiders": "Seller Bharti Airtel is Promoter and Holding Company holding 50.005% of Indus; Bharti Hexacom is a fellow subsidiary, 70% Airtel-held. Directors Rajan Bharti Mittal, Gopal Vittal, Soumen Ray sit on both boards; related parties cannot vote.",
+    "hidden_value": "No new entity or shares: cash slump sale at Grant Thornton fair value, up to INR 33,087 Mn, funded \"through borrowings, which will result in a better capital structure\" \u2014 debt-equity was only 0.08x. Target \"largely a single operator portfolio\" with sharing/loading upside.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "No demerged entity, no share issuance or distribution; purely a cash slump-sale asset purchase into the already-listed Indus Towers.",
+    "parent_or_spin": "neither",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated \u2014 no entity is being listed; the documents say only (February 06, 2025) \"The slump sale is expected to be completed on or before March 31, 2025 subject to statutory and other approvals, if any\", and (February 14, 2025) completion \"expected to be completed by March 31, 2025\"",
+    "read_next": "Postal ballot result due on or before March 18, 2025, then confirmation that the slump sale closed by March 31, 2025.",
+    "quote": "The Company plans to fund the proposed transaction through borrowings, which will result in a better capital structure."
+   }
   }
  },
  "INFY": {
@@ -52187,6 +52257,54 @@
     "listing_timeline": "not stated; the February 12, 2025 filing says only that Transferor Company 1 and Transferor Company 2 \"shall stand dissolved once the certified copy of the order is filed with the Registrar of Companies\"",
     "read_next": "The Scheme of Amalgamation itself and the NCLT Chandigarh order dated January 17, 2025, for stated rationale",
     "quote": "None of the Wholly Owned Subsidiary Companies fall in the de\u03d0inition of \u201cMaterial Subsidiary\u201d within the meaning of Regulation 16(1)(c) of the Listing Regulations."
+   }
+  }
+ },
+ "JYOTICNC": {
+  "stamps": {
+   "ffa610db320224dab926fea61678630f": {
+    "what_is_spun": "not stated",
+    "demerged_business_names": [
+     "not stated"
+    ],
+    "reason": "not stated",
+    "reason_class": "not stated",
+    "insiders": "not stated",
+    "hidden_value": "not stated",
+    "selling_pressure": "unclear",
+    "selling_pressure_why": "not stated",
+    "parent_or_spin": "unclear",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated",
+    "read_next": "Note 4 on networth erosion of subsidiary Jyoti SAS and step-down Huron, where no impairment was taken",
+    "quote": "The Company's business falls within single business segment of Machine & Tool Industries."
+   }
+  }
+ },
+ "MUTHOOTFIN": {
+  "stamps": {
+   "a281e0dbc1609c5fc4c8e32afaff79a2": {
+    "what_is_spun": "Belstar Microfinance Limited, Muthoot Finance's microfinance subsidiary, via a proposed initial public offering",
+    "demerged_business_names": [
+     "Belstar Microfinance Limited",
+     "Belstar Microfinance Ltd",
+     "Belstar Microfinance",
+     "microfinance arm",
+     "micro finance arm",
+     "microfinance business",
+     "MFI portfolio"
+    ],
+    "reason": "not stated",
+    "reason_class": "not stated",
+    "insiders": "Belstar is described as Muthoot Finance's Subsidiary; the offer for sale is by certain of its existing non-promoter shareholders. Stake percentages and incentives not stated.",
+    "hidden_value": "Subsidiary disclosed separately: Belstar AUM INR9,625 crores, up 22% y-o-y, revenue INR1,165 crores up 47%, PAT INR142 crores (H1 FY25); FY24 AUM INR10,023 crores, PAT INR340 crores, up 161%; sector-wide stress noted.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "Documents describe a fresh issue plus offer for sale by non-promoter shareholders, not a share distribution to Muthoot Finance shareholders.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated as a date; DRHP dated May 3, 2024 filed with SEBI (letter May 05, 2024), final observations received (letter September 03, 2024), and on August 13, 2024 management said \"as and when the market is right and when the approvals come, we will go for it\"; \"The IPO will be subject to market conditions, receipt of applicable approvals, if any, and other considerations.\"",
+    "read_next": "Belstar Microfinance's draft red herring prospectus dated May 3, 2024 \u2014 valuation, asset quality and shareholding",
+    "quote": "The Offer will be subject to market conditions, receipt of applicable approvals and other considerations."
    }
   }
  }
