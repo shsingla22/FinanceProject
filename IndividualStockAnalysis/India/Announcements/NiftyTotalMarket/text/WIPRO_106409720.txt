@@ -1,0 +1,2218 @@
+October 16, 2025 
+The Manager -Listing 
+National Stock Exchange of India Limited 
+(NSE: WIPRO) 
+The Manager -Listing 
+SSE Limited 
+(BSE: 507685) 
+The Market Operations 
+NYSE, New York 
+(NYSE: WIT) 
+Dear Sir/Madam, 
+Sub: Outcome of Board Meeting ••••• • •••••• • • ••••••• wip' ·ro•ii}: . . .. •.•· . • • ••••• • • ••• ••••• 
+The Board of Directors ("Board") of Wipro Limited ("Company "), have at their meeting held 
+over October 15-16, 2025, considered and approved the financial results of the Company for 
+the quarter and half year ended September 30, 2025, as per Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements ) Regulations , 2015. 
+Please find enclosed the Audited Standalone and Consolidated financial results under lndAS 
+and Audited Consolidated financial results under IFRS for the quarter and half year ended 
+September 30, 2025, together with the Auditor's Report, as approved by the Board today. The 
+financial results are also being made available on the Company's website at www.wipro.com . 
+The Board Meeting commenced on October 15, 2025 at 4:10 PM. The Board of Directors 
+finally approved the financial results for the said period at their meeting held on 
+October 16, 2025, which concluded at 3:35 PM. 
+Thanking You, 
+For Wipro Limited 
+~ 
+M Sanaulla Khan 
+Company Secretary 
+ENCL: As above 
+R gistered Office: 
+Wipro Limited 
+Doddakannelli 
+Sarjapur Road 
+Bengaluru 560 035 
+India T : +91(80) 2844 0011 
+F : +91 (80) 2844 0054 
+E : info@wipro.com 
+W: wipro.com 
+C : L32102KA1945PLC020800 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+Prestige Trade Tower, Level 19 
+46, Palace Road, High Grounds 
+Bengaluru-560 001 
+Karnataka, India 
+Tel: +91 80 6188 6000 
+Fax: +91 80 6188 6011 
+INDEPENDEN T AUDITOR'S REPORT ON THE AUDIT OF STANDALONE FINANCIA L 
+RESULTS 
+TO THE BOARD OF DIRECTORS OF WIPRO LIMITED 
+Opinion 
+We have audited the accompany ing Statement of Standalone Financial Results of WIPRO 
+LIMITED ("the Company"), for the three and six months ended September 30, 2025 (the 
+"Statement"/ "Standalone Financial Results"), being submitted by the Company pursuant 
+to the requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended (the "LODR Regulations"). 
+In our opinion and to the best of our information and according to the explanations given 
+to us, the Statement: 
+a. is presented in accordance with the requirements of Regulation 33 of the LODR 
+Regulations; and 
+b. gives a true and fair view in conformity with the recognition and measurement 
+principles laid down in the Indian Accounting Standard 34 "Interim Financial 
+Reporting " ("Ind AS 34") prescribed under section 133 of the Companies Act 2013 
+("the Act") read with relevant rules issued thereunder and other accounting principles 
+generally accepted in India of the net profit and other comprehensive income and 
+other financial information of the Company for the three and six months ended 
+September 30, 2025. 
+Basis for Opinion 
+We conducted our audit of the Standalone Financial Results in accordance with the 
+Standards on Auditing ("SAs") specified under Section 143(10) of the Act. Our 
+responsibilities under those Standards are further described in the Auditor's 
+Responsibilities for the Audit of the Standalone Financial Results section below. We are 
+independent of the Company in accordance with the Code of Ethics issued by the Institute 
+of Chartered Accountants of India ("!CAI") together with the ethical requirements that are 
+relevant to our audit of the Standalone Financial Results under the provisions of the Act 
+and the Rules thereunder and we have fulfilled our other ethical responsibil ities in 
+accordance with these requirements and the ICAI's Code of Ethics. We believe that the 
+audit evidence obtained by us is sufficient and appropriate to provide a basis for our audit 
+opinion. 
+Manage ment's and Board of Directors' Responsibili ties for the Standalone 
+Financial Results 
+This Statement , which is the responsibility of the Company's Board of Directors, and has 
+been approved by them for the issuance. The Statement has been compiled from the 
+related audited Interim Condensed Standalone Financial Statements for the three and six 
+months ended September 30, 2025. The Company's Board of Directors are responsible for 
+the preparation and presentation of the Standalone Financial Results that give a true and 
+fair view of the net profit and other comprehensive income and other financial information 
+of the Company in accordance with the recognition and measurement principles laid down 
+in Ind AS 34 prescribed under section 133 of the Act, read with relevant rules issued 
+~.~'"Doe ,o,,ma,looa, Ceo<e,, To=, 3, 32od floo,, Seoapa,1 Bapa< ""• "ph;osoooe •oad (Wes<(, M,m.,,;,oo OB, Maha<ash«a , (od(a 
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No: MB-8737 
+Deloitte 
+Haskins & Sells LLP 
+thereunder and other accounting principles generally accepted in India and in compliance 
+with Regulation 33 of the LODR Regulations. This responsibility also includes maintenance 
+of adequate accounting records in accordance with the provisions of the Act for 
+safeguarding the assets of the Company and for preventing and detecting frauds and other 
+irregularities; selection and application of appropriate accounting policies; making 
+judgmen ts and estimates that are reasonable and prudent; and the design, 
+implementation and maintenance of adequate internal financial controls that were 
+operating effectively for ensuring the accuracy and completeness of the accounting 
+records, relevant to the preparation and presentation of the Standalone Financial Results 
+that give a true and fair view and are free from material misstatement, whether due to 
+fraud or error. 
+In preparing the Standalone Financial Results, the Management and Board of Directors is 
+responsible for assessing the Company's ability, to continue as a going concern, disclosing, 
+as applicable , matters related to going concern and using the going concern basis of 
+accounting unless the Board of Directors either intends to liquidate the Company or to 
+cease operations, or has no realistic alternative but to do so. 
+The Board of Directors is also responsible for overseeing the financial reporting process of 
+the Company. 
+Auditor's Responsibilities for the Audit of the Standalone Financial Results 
+Our objectives are to obtain reasonable assurance about whether the Standalone Financial 
+Results as a whole are free from material misstatement, whether due to fraud or error, 
+and to issue an auditor's report that includes our opinion. Reasonable assurance is a high 
+level of assurance but is not a guarantee that an audit conducted in accordance with SAs 
+will always detect a material misstatement when it exists. Misstatements can arise from 
+fraud or error and are considered material if, individua lly or in the aggregate , they could 
+reasonably be expected to influence the economic decisions of users taken on the basis of 
+these Standalone Financial Results. 
+As part of an audit in accordance with SAs, we exercise professional judgment and 
+maintain professional skepticism throughout the audit. We also: 
+• Identify and assess the risks of material misstatement of the Standalone Financial 
+Results, whether due to fraud or error, design and perform audit procedures 
+responsive to those risks, and obtain audit evidence that is sufficient and appropriate 
+to provide a basis for our opinion. The risk of not detecting a material misstatement 
+resulting from fraud is higher than for one resulting from error, as fraud may involve 
+collusion, forgery, intentional omissions, misrepresentations, or the override of 
+internal controls. 
+• Obtain an understanding of internal financial controls relevant to the audit in order to 
+design audit procedures that are appropriate in the circumstances, but not for the 
+purpose of expressing an opinion on effectiveness of such controls. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates and related disclosures made by the Board of Directors. 
+• Evaluate the appropriateness and reasonableness of disclosures made by the Board 
+of Directors in terms of the requirements specified under Regulation 33 of the LODR 
+Regulations . 
+Deloitte 
+Haskins & Sells LLP 
+• Conclude on the appropriateness of the Board of Directors' use of the going concern 
+basis of accounting and, based on the audit evidence obtained, whether a material 
+uncertainty exists related to events or conditions that may cast significant doubt on 
+the Company 's ability to continue as a going concern. If we conclude that a material 
+uncertainty exists, we are required to draw attention in our auditor's report to the 
+related disclosures in the Statement or, if such disclosures are inadequate, to modify 
+our opinion. Our conclusions are based on the audit evidence obtained up to the date 
+of our auditor's report. However, future events or conditions may cause the Company 
+to cease to continue as a going concern. 
+• Evaluate the overall presentati on, structure and content of the Standalone Financial 
+Results, including the disclosures, and whether the Standalo ne Financial Results 
+represent the underlying transactions and events in a manner that achieves fair 
+presentation. 
+• Obtain sufficient appropriate audit evidence regarding the Standalone Financial 
+Results of the Company to express an opinion on the Standalone Financial Results. 
+Materiality is the magnitude of misstatements in the Standalone Financial Results that, 
+individually or in aggregate, makes it probable that the economic decisions of a reasonably 
+knowledgeable user of the Standalone Financial Results may be influenced. We consider 
+quantitative materiality and qualitative factors in (i) planning the scope of our audit work 
+and in evaluating the results of our work; and (ii) to evaluate the effect of any identified 
+misstatements in the Standalone Financial Results. 
+We communicate with those charged with governance regarding, among other matters, 
+the planned scope and timing of the audit and significant audit findings, including any 
+significant deficiencies in internal financial controls that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied 
+with relevant ethical requirements regarding independence, and to communicate with 
+them all relationships and other matters that may reasonably be thought to bear on our 
+independen ce, and where applicable, related safeguards. 
+Bengaluru, October 16, 2025 For DELOITTE HASKINS & SELLS LLP 
+Chartered Accountants 
+(Firm's Registrat ion No. 1~7p 100018) 
+and Subramanian 
+Partner 
+(Membership No. 110815) 
+UDIN: 
+WIPRO LIMITED 
+CIN-L32102KA1945PLC020800 ; Registered Office: \Vipro Limited, Doddakannelli, Sarjapur Road, 
+Bengaluru-560035, India 
+Website: W\'t'"W.wipro.com; Email: info@wipro.com; Tel:+91-80-2844 0011; Fax: +91-80-2844 0054 
+AUDITED STANDALONE FINANCIAL RESULTS FOR THE THREE AND SIX MONTHS 
+ENDED SEPTEMBER 30, 2025 UNDER Ind AS 
+ft in millions, excent share and ner share data, unless otherwise stated) 
+Three months ended Six months ended Year ended 
+Particulars September June September September September March 31, 
+30,2025 30, 2025 30, 2024 30, 2025 30,2024 2025 
+ITncome 
+I Revenue from operations 177,700 171,954 172,262 349,654 340,215 685,750 
+II Other income 8,923 20,423 10,660 29,346 17,519 39,477 
+III !Total Income (1+11) 186,623 192,377 182,922 379,000 357,734 725,227 
+IV !Expenses 
+a) Purchases of stock-in-trade 987 268 675 1,255 1,236 2,113 
+b) Changes in inventories of stock-in-trade (146 134 (101 (12 (140) 90 
+c) Employee benefits expense 98,468 94,992 97,648 193,460 192,252 383,850 
+d) Finance costs 2,827 2,461 2,460 5,288 4,619 10,018 
+e) Depreciation, amortisation and impairment 3,510 3,621 3.732 7,131 7,530 15,013 expense 
+f) Sub-contracting and technical fees 30,91 I 31,081 28,143 61,992 55,444 112,812 
+g) Facility expenses 2,728 3,356 3,006 6,084 6,148 12,350 
+h) Travel 2,766 3,201 3,179 5,967 6,481 11,646 
+i) Communication 609 558 631 1,167 l,152 2,335 
+j) Legal and professional charges 1,818 1,004 l,939 2,822 3,190 7,189 
+k) Software license expense for internal use 4,264 4,011 3,932 8,275 7,708 16,023 
+1) Marketing and brand building 787 777 710 1,564 1,372 3,117 
+m) Other expenses 1,947 1.737 (595 3,684 (58) 2,546 
+!Total Expenses (IV) 151,476 147,201 145,359 298,677 286,934 579,102 
+V Profit before tax (III-IV) 35,147 45,176 37,563 80,323 70,800 146,125 
+VI Tax expense 
+a) Current tax 9,783 8,959 9,421 18,742 18,809 39,934 
+b) Deferred tax (778 (744 695 (1,522 497 (2,940 
+h'otal tax expense (VI) 9,005 8,215 I0,116 17,220 19,306 36,994 
+Vll !Profit for the period (V-VI) 26,142 36,961 27,447 63,103 51,494 !09,131 
+Vlll !Other comprehensive income (OC]) 
+Items that will not be reclassified to profit 
+or loss: 
+Re-measurements of the defined benefit plans, 303 (183 463 120 703 316 net 
+Net change in fair value ofinvestmcnt in 
+equity instruments measured at fair value (13 (1 JO (14 8 (9) 
+through OCI 
+Deferred taxes relating to items that will not (72 45 (116 (27 (178) (73) be reclassified to profit or loss 
+Items that will be reclassified to profit or 
+loss: 
+Net change in time value of option contracts 73 (361 (495 (288) (483 (248 designated as cash flow hedges 
+Net change in intrinsic value of option (987 225 (138 (762 (23 193 contracts designated as cash flow hedges 
+Net change in fair value of forward contracts (2,362 45 (736 (2,317 (440) (787 designated as cash flow hedges 
+Net change in fair value ofinvestment in debt 
+instruments measured at fair value through (643 700 452 57 673 1,189 
+OCI 
+1 
+Deferred taxes relating to items that will be 895 (90 reclassified to profit or loss 289 805 131 (24) 
+Total other comprehensive income for the (2,806 380 (271) (2,426 391 557 11eriod, net of taxes 
+IX rrotal comprehensive income for the period 23,336 37,341 27,176 60,677 51,885 109,688 IVII+VIm 
+X IPaid up equity share capital (Par value t2 per 20,968 20,965 10,463 20,968 I 0,463 20,944 
+share) 
+XI tReserve excluding revaluation reserves as per 613,930 
+;balance sheet 
+XII Earnings per equity share 
+(Equity shares of par value ~2/-each) 
+(EPS for the three and six months ended periods 
+are not annualised) 
+~asic (in~) 2.50 3.53 2.63 6.03 4.93 10.44 
+!Diluted (in ~) 2.49 3.52 2.61 6.01 4.9\ JQ.40 
+1. The audited standalone financial results for the three and six months ended September 30, 2025 have been approved by the Board of Directors 
+of the Company at its meeting held on October 16, 2025. The Company confirms that its statutory auditors, Deloitte Haskins & Sells LLP 
+have issued audit report with unmodified opinion on the standalone financial results for the three and six months ended September 30, 2025. 
+2. The above audited standalone financial results have been prepared on the basis of the audited interim condensed standalone financial 
+statements, which arc prepared in accordance with Indian Accounting Standards ("Ind AS"), the provisions of the Companies Act, 2013 
+("the Companies Act"), as applicable and guidelines issued by the Securities and Exchange Board of India ("SEBI"). The Ind AS are 
+prescribed under Section 133 of the Companies Act read with Rule 3 of the Companies (Indian Accounting Standards) Rules. 2015 and 
+amendments issued thereafter. All amounts included in the standalone financial results (including notes) are reported in millions of Indian 
+Rupees {tin millions) except share and per share data, unless otherwise stated. 
+3. Vide its order dated June 06, 2025, the Hon'ble National Company Law Tribunal, Bengaluru bench, approved the scheme of amalgamation 
+for the merger of wholly owned subsidiaries Wipro HR Services India Private Limited, Wipro Overseas IT Services Private Limited, Wipro 
+Technology Product Services Private Limited, Wipro Trademarks Holding Limited and Wipro VLSI Design Services India Private Limited 
+with Wipro Limited. As per the said scheme, the appointed date is April 1. 2025. The Scheme has been accounted for under the "Pooling of 
+Interests Method" as prescribed under Appendix C ofind AS 103, "Business Combinations" as per the terms of the court order. Prior period 
+numbers have been restated to give effect as if this merger had occurred from the beginning of the preceding period in the financial statements 
+i.e. April 01, 2024. 
+Accordingly, the carrying value of assets, liabilities and reserves pertaining to these entities as appearing in the consolidated financials 
+statements of Wipro Limited has been recognised in the standalone financial statements of Wipro Limited on account of merger effective 
+April 01, 2024. 
+4. The Company publishes these standalone financial results along with the consolidated financial results. In accordance with Ind AS 108, 
+"Operating Segments", the Company has disclosed the segment information in the interim condensed consolidated financial statements and 
+is incorporated in the consolidated financial results. 
+5. Gain/(loss) on sale of property, plant and equipment, for the three and six months ended September 30, 2025, includes gain on transfer of 
+building oft 405 and for the three and six months ended September 30, 2024 and year ended March 311 2025, includes gain on relinquishment 
+of the lease hold rights of land, and transfer of building along with other assets of~ 885. 
+6. Other expenses are net of insurance claim received of { 1,805 for the three and six months ended September 30, 2024 and year ended March 
+31. 2025. 
+7. Earnings per share for the three and six months ended September 301 2024, have been proportionately adjusted for the bonus shares issued 
+during the year ended March 31, 2025, in the ratio of 1; I i.e. 1 (one) bonus equity share of~ 2 each for every 1 (one) fully paid-up equity 
+shares held (including ADS holders). 
+2 
+8. Balance Sheet: 
+ASSETS 
+Non-current assets 
+Property, plant and equipment 
+Right-of-Use assets 
+Capital work-in-progress 
+Goodwill 
+Other intangible assets 
+Financial assets 
+Investments 
+Derivative assets 
+Other financial assets 
+Deferred tax assets (net) 
+Non-current tax assets (net) 
+Contract assets 
+Other non-current assets 
+Total non-current assets 
+Current assets 
+Inventories 
+Financial assets 
+Investments 
+Derivative assets 
+Trade receivables 
+Unbilled receivables 
+Cash and cash equivalents 
+Other financial assets 
+Current tax assets (net) 
+Contract assets 
+Other current assets 
+Total current assets 
+TOT AL ASSETS 
+EQUITY AND LIABILITIES 
+EQUITY 
+Equity share capital 
+Other equity 
+TOTAL EQUITY 
+LIABILITIES 
+Non-current liabilities 
+Financial liabilities 
+Lease liabilities 
+Other financial liabilities 
+Provisions 
+Deferred tax liabilities (net) 
+Non-current tax liabilities (net) 
+Other non-current liabilities 
+Total non-current liabilities 
+Current liabilities 
+Financial liabilities 
+Borrowings 
+Lease liabilities 
+Derivative liabilities 
+Trade payables 
+(a) Total outstanding dues of micro enterprises and small enterprises 
+(b} Total outstanding-dues of creditors other than micro enterprises and small enterprises 
+Other financial liabilities 
+Contract liabilities 
+Other current liabilities 
+Provisions 
+Current tax liabilities (net) 
+Total current liabilities 
+TOT AL LIABILITIES 
+TOT AL EQUITY AND LlABILITIES 
+'"'Value is less than t 0.5 
+3 As at September 30, 2025 As at March 31, 2025 
+68,597 70,517 
+14,621 12,909 
+2,326 1,785 
+6,082 6,082 
+575 72! 
+254,587 204.399 
+A 
+3,721 3,538 
+1,420 453 
+5,641 7,075 
+1,728 
+6,574 5.474 
+365,872 312,953 
+629 622 
+378,755 409,568 
+17 1,578 
+83,415 80,796 
+48,672 37,436 
+36,353 44,342 
+6,443 5,973 
+5,910 3,781 
+7,957 9,815 
+24,948 22,408 
+593,099 616,319 
+958,971 929,272 
+20,968 20,944 
+623.953 613,930 
+644,921 634,874 
+14,402 ll,978 
+874 l,051 
+2,985 2,600 
+l,315 
+37,452 38,525 
+15,191 12,703 
+70,908 68,172 
+61,500 60,500 
+3,548 3,813 
+4,461 968 
+1,821 1,286 
+63.017 66,537 
+22,711 22,656 
+16,618 15,162 
+9,419 10,037 
+15,103 13,167 
+44,944 32,100 
+243,142 226,226 
+314,050 294,398 
+958,971 929,272 
+9. Statement of Cash Flows: 
+Cash flows from operating activities 
+Profit for the period 
+Adjustments to reconcile profit for the period to net cash generated from operating activities 
+Gain on sale of property, plant and equipment, net 
+Depreciation, amortisation and impairment expense 
+Unrealised exchange (gain)/loss and net exchange (gain)/loss on loans to subsidiaries 
+Share-based compensation expense 
+Income tax expense 
+Lifetime expected credit loss/(write-back) 
+Finance and other income, net of finance costs 
+Changes in operating assets and liabilities 
+(lncrease)/Decrease in trade receivables 
+(Increase)/Decrease in unbilled receivables and contract assets 
+(Increase)/Decrease in inventories 
+(Increase)/Decrease in other financial assets and other assets 
+lncrease/(Decrease) in trade payables, other financial liabilities, other liabilities and provisions 
+Increase/(Decrease) in contract liabilities 
+Cash generated from operating activities before taxes 
+Income taxes paid, net 
+Net cash generated from operating activities 
+Cash flows from investing activities 
+Payment for purchase of property, plant and equipment 
+Proceeds from disposal of property, plant and equipment 
+Payment for purchase of investments 
+Proceeds from sale of investments 
+Investment in subsidiaries 
+Repayment of security deposit for property, plant and equipment 
+Interest received 
+Dividend received 
+Net cash generated from/(used in) investing activities 
+Cash flows from financing activities 
+Proceeds from issuance of equity shares and shares pending allotment 
+Repayment of borrowings 
+Proceeds from borrowings 
+Payment of lease liabilities including interest 
+Payment of dividend 
+Interest and finance costs paid 
+Net cash generated from/(used in) financing activities 
+Net increase/(decrease) in cash and cash equivalents during the period 
+Eff~ct of exchange rate changes on cash and cash equivalents 
+Cash and cash equivalents at the beginning of the period 
+Ca:ih and c;a:ih equivalents at the end of the period 
+By order of the Board, 
+Place: Bengaluru 
+Date: October 16, 2025 
+4 For the six months ended September 30, 
+2025 2024 
+63,103 
+(490) 
+7,131 
+(69) 
+1,400 
+17,220 
+1,812 
+(21,026) 
+(4,170) 
+(11.367) 
+(7) 
+(2,543) 
+(1,088) 
+1,456 
+51,362 
+(7,666) 
+43,696 
+(5,116) 
+597 
+(433,173) 
+452,040 
+(33,548) 
+14,439 
+9,104 
+4,343 
+24 
+(115,000) 
+116,000 
+(2,881) 
+(52,354) 
+(2,069) 
+(56,280) 
+(8,241) 
+252 
+44,342 
+36,353 
+For, Wipro Limited 
+-Rishad A. Premji 
+Chainnan 51,494 
+(813) 
+7,530 
+(248) 
+2,258 
+19.306 
+424 
+(11,539) 
+3,576 
+(4,503) 
+(132) 
+1,479 
+8,876 
+159 
+77,867 
+(5,701) 
+72,166 
+(2,671) 
+1,437 
+(422,974) 
+323,251 
+(300) 
+12,946 
+874 
+(87,437) 
+13 
+(65,500) 
+89,000 
+(2,556) 
+(2,179) 
+18,778 
+3;507 
+41 
+39,055 
+42,603 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+Prestige Trade Tower, Level 19 
+46, Palace Road, High Grounds 
+Bengaluru-560 001 
+Karnataka, India 
+Tel: +91 80 6188 6000 
+Fax: +91 80 6188 6011 
+INDEPENDENT AUDITOR'S REPORT ON THE AUDIT OF CONSOLIDATED FINANCIA L 
+RESULTS 
+TO THE BOARD OF DIRECTORS OF WIPRO LIMITED 
+Opinion 
+We have audited the accompanying Statement of Consolidated Financial Results of WIPRO 
+LIMITED (the "Company") and its subsidiaries (the Company and its subsidiaries together 
+referred to as "the Group") for the three and six months ended September 30, 2025 ("the 
+Statement "/" Consolidated Financial Results") being submitted by the Company pursuant to 
+the requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended ("the LODR Regulations "). 
+In our opinion and to the best of our information and according to the explanations given to 
+us, the Statement : 
+a. includes the financial results of the entities as listed in note 5 to the Statement; 
+b. is presented in accordance with the requirements of Regulation 33 of the LODR 
+Regulations ; and 
+c. gives a true and fair view in conformity with the recognition and measuremen t principles 
+laid down in the Indian Accounting Standard 34 "Interim Financial Reporting " ("Ind AS 
+34") prescribed under section 133 of the Companies Act 2013 ("the Act") read with 
+relevant rules issued thereunder and other accounting principles generally accepted in 
+India of the consolida ted net profit and consolidated other comprehensive income and 
+other financial information of the Group for the three and six months ended Septembe r 
+30,2025. 
+Basis for Opinion 
+We conducted our audit of the Consolidated Financial Results in accordance with the Standards 
+on Auditing ("SAs") specified under Section 143( 10) of the Act. Our responsibilit ies under those 
+Standards are further described in the Auditor's Responsibilities for the Audit of the 
+Consolidated Financial Results section below. We are independent of the Group in accordance 
+with the Code of Ethics issued by the Institute of Chartered Accountants of India ("ICAI") 
+together with the ethical requirements that are relevant to our audit of the Consolidated 
+Financial Results under the provisions of the Act and the Rules thereunder and we have fulfilled 
+our other ethical responsibilities in accordan ce with these requirements and the !CAi's Code of 
+Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to 
+provide a basis for our audit opinion. 
+Management's and Board of Directors' Responsibilities for the Consolidated Financial 
+Re.suits 
+This Statement, which is the responsibility of the Company 's Board of Directors and has been 
+approved by them for the issuance . The Statement has been compiled from the related audited 
+interim condensed consolidated financial statements. The Company 's Board of Directors are 
+responsible for the preparation and presentation of the Consolidated Financial Results that give 
+a true and fair view of the consolidated net profit and consolidated other comprehens ive income 
+and other financial information of the Group in accordance with the recognition and 
+measurement principles laid down in the Ind AS 34, prescribed under Section 133 of the Act, 
+~:,! Office, Ooe ,m,ma<,ooa, ''"'"• , -, s, S>od floo,, Seoapati .,,., """ "ph'os<oo, •oad (W~0. Momba,400 on, Maha,a,h;,a , '""' 
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No: AAB-8737 
+Deloitte 
+Haskins & Sells LLP 
+read with relevant rules issued thereunder and other accounting principles generally accepted 
+in India and in compliance with Regulation 33 of the LODR Regulations. 
+The respective Board of Directors of the companies included in the Group are responsible for 
+maintenance of adequate accounting records in accordance with the provisions of the Act for 
+safeguarding the assets of the Group and for preventing and detecting frauds and other 
+irregulari ties; selection and application of appropriate accounting policies; making judgments 
+and estimates that are reasonable and prudent; and design, implementation and maintenance 
+of adequate internal financial controls, that were operating effectively for ensuring the accuracy 
+and completeness of the accounting records, relevant to the preparation and presentation of 
+the respective financial results that give a true and fair view and are free from material 
+misstatement, whether due to fraud or error, which have been used for the purpose of 
+preparation of Consolidated Financial Results by the Directors of the Company , as aforesaid. 
+In preparing the Consolidated Financial Results, the respective Management and Board of 
+Directors of the companies included in the Group are responsible for assessing the ability of 
+the respective entities to continue as a going concern, disclosing, as applicable, matters related 
+to going concern and using the going concern basis of accounting unless the respective Board 
+of Directors either intends to liquidate their respective entities or to cease operations, or has 
+no realistic alternative but to do so. 
+The respective Board of Directors of the companies included in the Group are responsible for 
+overseeing the financial reporting process of the Group. 
+Auditor's Responsibilities for the Audit of the Consolidated Financial Results 
+Our objectives are to obtain reasonable assurance about whether the Consolidated Financial 
+Results as a whole are free from material misstatement, whether due to fraud or error, and to 
+issue an auditor's report that includes our opinion. Reasonable assurance is a high level of 
+assurance but is not a guarantee that an audit conducted in accordance with SAs will always 
+detect a material misstatement when it exists. Misstatements can arise from fraud or error and 
+are considered material if, individually or in the aggregat e, they could reasonably be expected 
+to influence the economic decisions of users taken on the basis of these Consolidated Financial 
+Results. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also: 
+• Identify and assess the risks of material misstatement of the Consolidated Financial 
+Results, whether due to fraud or error, design and perform audit procedures responsive to 
+those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis 
+for our opinion. The risk of not detecting a material misstatement resulting from fraud is 
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional 
+omissions , misrepresentations, or the override of internal controls. 
+• Obtain an understanding of internal financial controls relevant to the audit in order to 
+design audit procedures that are appropriate in the circumstances, but not for the purpose 
+of expressing an opinion on effectiveness of such controls. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates and related disclosures made by the Board of Directors. 
+• Evaluate the appropriateness and reasonab leness of disclosures made by the Board of 
+Directors in terms of the requirements specified under Regulation 33 of the LODR 
+Regulations. 
+Deloitte 
+Haskins & Sells LLP 
+• Conclude on the appropriateness of the Board of Directors' use of the going concern basis 
+of accounting and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the ability of the 
+Group to continue as a going concern. If we conclude that a material uncertainty exists, 
+we are required to draw attention in our auditor's report to the related disclosures in the 
+Consolidated Financial Results or, if such disclosures are inadequate, to modify our opinion. 
+Our conclusions are based on the audit evidence obtained up to the date of our auditor's 
+report. However , future events or conditions may cause the Group to cease to continue as 
+a going concern. 
+• Evaluate the overall presentation, structure and content of the Consolidated Financial 
+Results, including the disclosures, and whether the Consolidated Financial Results 
+represent the underlying transactions and events in a manner that achieves fair 
+presentation. 
+• Obtain sufficient appropriate audit evidence regarding the financial results of the entities 
+within the Group to express an opinion on the Consolidated Financial Results. We are 
+responsible for the direction, supervision and performance of the audit of financial 
+information of entities included in the Consolidated Financial Results. 
+Materiality is the magnitude of misstatements in the Consolidated Financial Results that, 
+individually or in aggregate, makes it probable that the economic decisions of a reasonably 
+knowledgeable user of the Consolidated Financial Results may be influenced. We consider 
+quantitative materiality and qualitative factors in (i) planning the scope of our audit work and 
+in evaluating the results of our work; and (ii) to evaluate the effect of any identified 
+misstatements in the Consolidated Financial Results. 
+We communicate with those charged with governance of the Company regarding , among other 
+matters, the planned scope and timing of the audit and significant audit findings, including any 
+significant deficiencies in internal financial controls that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with 
+relevant ethical requirements regarding independence, and to communicate with them all 
+relationships and other matters that may reasonably be thought to bear on our independence, 
+and where applicable , related safeguards. 
+Bengaluru, October 16, 2025 For DELOITTE HASKINS & SELLS LLP 
+Chartered Accountants 
+(Firm's Registration No. 117µ ·100018) 
+iand Subramanian 
+Partner 
+(Membership No.110815) 
+UDIN: 
+WIPRO LIMITED 
+CIN: L32102KA1945PLC020800; Registered Office: Wipro Limited, Doddakannelli, Sarjapur Road, 
+Bengaluru -560035_, India 
+Website: www.wipro.com; Email id-info@wipro.com; Tel: +91-80-2844 0011 j Fax: +91-80-2844 0054 
+AUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE THREE Ac"ID SIX MONTHS ENDED 
+SEPTEMBER 30, 2025 UNDER IND AS 
+Cf in millions, except share and per share data, unless otherwise stated) 
+Three months ended Six Month ended Year ended 
+!Particulars September June September September September March 
+30, 2025 30,2025 30, 2024 30,2025 30,2024 31, 2025 
+tlncome 
+I Revenue from operations 226,973 221,346 223,016 448,319 442,654 890,884 
+II bther income 9,477 10,665 9,619 20,142 16,916 38,840 
+III frotal Income (!+II) 236,450 232,011 232,635 468,461 459,570 929,724 
+IV Expenses 
+a) Purchases of stock-in-trade 1,056 545 1,034 1,601 1,698 2,967 
+b) Changes in inventories of stock-in-trade (172) 121 (152) (51 (154) 195 
+c) Employee benefits expense 136,163 134,275 134,695 270,438 266,988 533,477 
+d) Finance costs 3,612 3,608 3,569 7,220 6,857 14,770 
+e) Depreciation, amortisation and impairment expense 6.917 6,855 8,308 13,772 15,597 29,579 
+f) Sub-contracting and technical fees 26,498 25,578 24,582 52,076 49,349 100,148 
+g) Facility expenses 3,519 4,198 3,937 7,717 8,070 16,067 
+h) Travel 3.338 3,788 3,836 7,126 7,773 14,095 
+i) Communication 891 797 1,079 1,688 2,072 3,842 
+j) Legal and professional charges 2,813 1,889 3,013 4,702 5,295 11,270 
+k) Software license expense for internal use 5,253 4,961 4,702 10,214 9,307 19,338 
+l) Marketing and brand building 900 883 838 1,783 1,642 3,591 
+m) Lifetime expected credit loss/ (write-back) 1,507 502 593 2,009 567 324 
+n) Other expenses 1,483 1,478 (174) 2,961 1,473 5,358 
+Total Expenses 193,778 189,478 189,860 383,256 376,534 755,021 
+V Share of net profit/ (loss) of associate and joint venture 152 50 3 202 (42) 254 accounted for using the equity method 
+VI 0rofit before tax (III~IV+V) 42,824 42,583 42,778 85,407 82,994 174,957 
+VII Tax expense 
+a) Current tax 11,334 10,051 11,152 21,385 21,520 45,405 
+b) Deferred tax (1,134) (833) (640 (1,967) (1,158) (2,628) 
+frotal tax expense 10,200 9,218 10,512 19,418 20,362 42,777 
+VIII Profit for the period (VI-VII) 32,624 33,365 32,266 65,989 62,632 132,180 
+IX Other comprehensive income (OCI) 
+terns that will not be reclassified to profit or loss: 
+Remeasurements of the defined benefit plans, net 314 (317) 431 (3) 550 323 
+Net change in fair value of investment in equity (65) (1 156 (66) (163) (3,619) instruments measured at fair value through OCI 
+Deferred taxes relating to items that will not be (73) 88 (111) 15 (172) 94 reclassified to profit or loss 
+terns that will be reclassified to profit or loss: 
+Foreign currency translation differences relating to 13,187 6,566 5,092 19,753 3,694 7,216 foreign operations 
+Reclassification of foreign currency translation 
+differences on liquidation of subsidiaries to statement of -" 13 " 13 (41) 
+profit and loss 
+Net change in time value of option contracts designated 73 (361) (495 (288 (483) (248) as cash flow hedges 
+Net change in intrinsic value of option contracts (987) 225 (138) (762) (23) 193 designated as cash flow hedges 
+Net change in fair value of forward contracts designated (2,362) (4) (911 (2,366 (609) (993) as cash flow hedges 
+Net change in fair value ofinvestment in debt (643) 700 452 57 673 1,189 instruments measured at fair value through OCJ 
+Deferred taxes relating to items that will be reclassified 896 (77 338 819 179 34 to nrofit or loss 
+otal other comprehensive income for the period, net 10,340 6,819 4,827 17,159 3,659 4,148 f taxes 
+Total comorehensive income for the period (VIII+IX) 42,964 40,184 37,093 83,148 66,291 136,328 
+X Profit for the period attributable to: 
+!Equity holders of the Company 32,462 33,304 32,088 65,766 62,120 131,354 
+Non-controlling interests 162 61 178 223 512 826 
+32,624 33,365 32,266 65,989 62,632 132,180 
+rl'otal comprehensive income for the period 
+attributable to: 
+Equity holders of the Company 42,730 40,120 36,919 82,850 65,785 135,480 
+Non-controlling interests 234 64 174 298 506 848 
+42,964 40,184 37,093 83,148 66,291 136,328 
+XI :>aid up equity share capital (Par value~ 2 per share) 20,968 20,965 10,463 20,968 10,463 20,944 
+XII Reserves excluding revaluation reserves and Non- 802,697 
+ontrolling interests as ner balance sheet 
+XIII ~.arnin•s ner enuitv share fEPSl 
+Equity shares of par value~ 2/-each) 
+EPS for the three and six months ended"periods are 
+not annualised) 
+):lasic (in<) 3.10 3.18 3.07 6.28 5.94 12.56 
+!Diluted (in<) 3.09 3.17 3.06 6.26 5.93 12.52 
+1. The audited consolidated financial results of the Company for the three and six months ended September 30, 2025, have been approved 
+by the Board of Directors of the Company at its meeting held on October 16, 2025. The Company confirms that its statutory auditors, 
+Deloitte Haskins & Sel1s LLP have issued audit reports with unmodified opinion on the consoJidated financial results for the three and six 
+months ended September 30, 2025. 
+2. The above audited consolidated financial results have been prepared on the basis of the audited interim condensed consolidated financial 
+statements for the three and six months ended September 30, 2025, which are prepared in accordance with Indian Accounting Standards 
+("Ind AS"), the provisions of the Companies Act, 2013 ("the Companies Actu), as applicable and guidelines issued by the Securities and 
+Exchange Board oflndia("SEBI"). The Ind AS are prescribed under Section 133 of the Companies Act read with Rule 3 of the Companies 
+(Indian Accounting Standards) Rules, 2015 and amendments issued thereafter. All amounts included in the consolidated financial results 
+(including notes) are reported in millions of Indian Rupees(~ in millions) except share and per share data, unless otherwise stated. 
+3. Gain/(loss) on sale of property, plant and equipment for the three and six months ended September 30, 2025, includes gain on transfer of 
+building of~ 405 and for the three and six months ended September 30. 2024 and year ended March 31, 2025, includes gain on 
+relinquishment of the lease hold rights of land, and transfer of building along with other assets of~ 885. 
+4. Other expenses are net of insurance claim received t 1,805 for the three and six months ended September, 2024 and year ended March 31, 
+2025. 
+5. List of subsidiaries, associate and joint venture as at September 30, 2025 are provided in the table below: 
+Subsidiaries Subsidiaries Subsidiaries Country of Holding Incorporation 
+!Attune Consulting India Private ndia 100.00% 
+fL'imited 
+:::apco Technologies Private ndia 100.00% 
+fL'imited 
+Wioro Chemidu Limited China 8.96% 
+Wipro Holdings (UK) Limited U.K. 100.00% 
+Winro Technolo!:!:ies SRL !Romania A 
+!Wipro IT Services Bangladesh Bangladesh 100.00% 
+!Limited 
+N'ipro IT Services UK Societas U.K. 100.00% 
+lcapco Consulting Middle East UAE 100.00% 
+SZE (l) 
+Designit AJS Denmark 100.00% 
+Designit Denmark NS Denmark 100.00% 
+Designit Germany GmbH Germany 100.00% 
+Designit Oslo A/S Norway 100.00% 
+Designit Spain Digital, S.L.U Spain 100.00% 
+Designit T.L.V Ltd. srael 100.00% 
+Wipro Bahrain Limited Co. W.L.L Bahrain 100.00% 
+Wipro Czech Republic IT Services Czech Republic 100.00% 
+s.r.o. 
+lwipro CRM Services Belgium 100.00% 
+lwioro 4C ConsultinP France SAS "'ranee 100.00% 
+2 
+ipro CRM Services B. V. etherlands 100.00% 
+ipro CRM Services ApS 100.00% 
+Wipro CRM Services UK Limited 100.00% 
+rove Holdings 2 S . .i.r.1 uxembourg 100.00% 
+apco Solution Services GmbH 100.00% 
+e Capital Markets Company 100.00% 
+taly Sri 
+apco Brasil Servii;os E 99.99% 
+onsultoria Ltda 
+e Capital Markets Company 100.00% 
+V (IJ 
+T. WT Indonesia ndonesia 99.60% 
+inbow Software LLC raq l00.00¾ 
+ipro Arabia Limited audi Arabia 66.67% 
+omen's Business Park audi Arabia l00.00% 
+echnologies Limited 
+ipro Doha LLC atar 100.00% 
+ipro Financial Outsourcing K 100.00% 
+Services Limited 
+;\fipro UK Limited K l00.00% 
+Wipro Gulf LLC ultanate of 99.98% 
+;vipro Information Technology l00.00% 
+etherlands BV. 
+ipro GulfLLC 0.02% 
+ipro Technologies SA 2.62% 
+ipro (Thailand) Co. Limited 0.03% 
+ipro Technologies GmbH em1any 14.87% 
+ipro Do Brasil Sistemas De razil 0.07% 
+nfonnatica Ltda 
+ipro do Brasil Technologia 99.44% 
+tda (I) 
+Nipro Information Technology azakhstan 100.00% 
+azakhstan LLP 
+ipro Outsourcing Services l00.00% 
+Ireland) Limited 
+ipro Portugal SA (I) 100.00% 
+ipro Solutions Canada Limited 100.00% 
+ipro Technologies Limited 99.99% 
+ipro Technologies Peru SAC 99.98% 
+ipro Technologies W.T. l00.00% 
+Sociedad Anonirna 
+ipro Technology Chile SPA l00.00% 
+pplied Value Technologies B.V. etherlands 100.00% 
+ipro IT Service Ukraine, LLC 100.00% 
+ipro IT Scrvi1.cs Pohmd SP Z.O.O 100.00% 
+ipro IT Services S.R.L. omania 100.00% 
+ipro Regional Headquarter audi Arabia 100.00% 
+;vipro Technologies Australia Pty 100.00% 
+td 
+ipro Ampion Holdings Pty 100.00% 
+td (l) 
+ipro Technologies SA rgentina 97.38% 
+ipro Technologies SA DE CV exico 91.08% 
+ipro Technologies South Africa outh Africa 69.42% 
+Proprietary) Limited 
+ipro Technologies Nigeria 99.84% 
+imited 
+Wipro Technologies SRL l00.00% 
+ipro (Thailand) Co. Limited 99.97% 
+ipro Shanghai Limited 84.63% 
+ipro Technologies Nigeria igeria 0.16% 
+imited 
+0.01% 
+3 
+winro Technologies Peru SAC Peru 0.02% 
+Wioro Jaoan KK. aoan 100.00% 
+Wipro Networks Pte Limited ingapore 100.00% 
+jA.pplied Value Technologies Pte. Singapore 100.00% 
+µ.,imited 
+lwipro Chengdu Limited China 91.04% 
+IPr. WT Indonesia ndonesia 0.40% 
+Wipro (Thailand) Co. Limited Thailand a 
+lwipro (Dalian) Limited China 100.00% 
+I\Vipro Technologies SDN BHD Malaysia 100.00% 
+lwipro (Tianiin) Limited (3) China 100.00% 
+Wioro Phi\innines, Inc. Pbilinnines 100.00% 
+Wipro Shanghai Limited rhina 15.37% 
+Wioro Travel Services Limited ndia 100.00% 
+Wipro,LLC USA 100.00% 
+Wipro Technologies SA DE CV Mexico 8.92% 
+[Wipro Gallagher Solutions, LLC USA 100.00% 
+Wipro Insurance Solutions, LLC USA 100.00% 
+Wipro IT Services, LLC JSA 100.00% 
+Aggne Global Inc. USA 60.00% 
+Cardinal US Holdings, Inc. ( 1) USA 100.00% 
+Edgile. LLC USA 100.00% 
+HealthPlan Services, Inc. (I) USA 100.00% 
+nfocrossing, LLC USA 100.00% 
+International T echneGroup USA 100.00% 
+Incorporated ( 1) 
+Wipro NextGen Enterprise Inc. (l) USA 100.00% 
+Rizing Intermediate Holdings, USA 100.00% 
+Inc. (l) 
+lwipro Appirio, Inc. (1) !USA 100.00% 
+lwipro Designit Services, Inc. (l) !USA 100.00% 
+lwipro Telecom Consulting LLC !USA 100.00% 
+M'ipro VLSI Design Services, LLC !USA 100.00% 
+A --lied Value Technolo!.!ies, Inc. USA 100.00% 
+IAggne Global IT Services Private India 60.00% 
+1Limited 
+Wipro, Inc. JSA 100.00% 
+lwipro Life Science Solutions, LLC USA 100.00% 
+!Wipro Digital Inc. (4J JSA 100.00% 
+tfhe Wipro SA Broad Based 
+!Ownership Scheme Trust 
+lwipro SA Broad Based Ownership 
+ischeme SPY (RF) (PTY) LTD 100.00% 
+Wipro Technologies South Africa South Africa 30.58% 
+Proprietary) Limited 
+A Value is less than 0.01% 
+The Company controls 'The Wipro SA Broad Based Ownership Scheme Trust', 'Wipro SA Broad Based Ownership Scheme SPY (RF) (PTY) 
+LTD' incorporated in South Africa and Wipro Foundation in India. 
+(l) Grove Holdings 2 S.a.r.L has transferrc_d its entire shareholding in Capco Consulting Middle East FZE to Wipro IT Services UK Societas, 
+effective September 19, 2025. 
+(J) Wipro (Tianjin) Limited has been incorporated with effect from May 23, 2025, which is 100% held by Wipro Networks Pte Limited. 
+(4) Wipro Digital Inc. has been incorporated with effect from August 04, 2025, which is 100% held by the Company. 
+4 
+(l) Step Subsidiary details of Cardinal US Holdings, Inc., HealthPlan Services, Inc., International TechneGroup Incorporated, Wipro NextGen 
+Enterprise Inc., Rizing lntennediate Holdings, Inc., The Capital Markets Company BV, Wipro Ampion Holdings Pty Ltd, Wipro Appirio, Inc,, 
+Wipro Designit Services, Inc., Wipro do Brasil Technologia Ltda and Wipro Portugal S.A. are as follows: 
+Subsidiaries Subsidiaries Subsidiaries Country of Holding Incorporation 
+""ardinal US Holdings, Inc. USA 
+Capco Consulting Services LLC iuSA 100.00% 
+Capco RISC Consulting LLC iuSA 100,00% 
+The Capital Markets Company LLC USA 100.00% 
+HealthPlan Services, Inc. USA 
+IHealthPlan Services Insurance 
+k'\.gency, LLC lusA 100.00% 
+ntemational TechneGroup iuSA 
+ncorporated 
+ntemational TechneGroup Ltd. U.K. 100.00% 
+TI Proficiency Ltd Israel 100.00% 
+1.AechWorks S.R.L. taly 100.00% 
+!Wipro NextGen Enterprise Inc. ilJSA 
+LeanSwift AB Sweden 100.00% 
+IRizing Intermediate Holdings, Inc. ilJSA 
+Rizing Lanka (Private) Ltd Sri Lanka 100.00% 
+!Attune Netherlands B.V. (S) Netherlands 100.00% 
+iR izing Solutions Canada Inc. Canada 100.00% 
+IRizingLLC JSA 100.00% 
+Aasonn Philippmes Inc. Dhilippines 100.00% 
+IR1zing B.V Netherlands 100.00% 
+IR.izing Consulting Ireland Limited reland 100.00% 
+Rizing Consulting Pty Ltd. !Australia 100.00% 
+R.izing Geospatial LLC USA 100.00% 
+RizingGmbH bermany 100.00% 
+Rizing Limited IU.K. 100.00% 
+IRizing Consulting USA, LLC USA 100.00% 
+Formerly known as Rizing 
+Consulting USA, Inc.) 
+Rizing Pte Ltd. (SJ Singapore 100.00% 
+tfhe Capital Markets Company 
+BV ~elgium 
+bpAfric Consulting (Pty) Ltd lsouth Africa 100.00% 
+lcapco Belgium BV lseigium 100.00% 
+IT'he Capital Markets Company lslovakia 15.00% 
+1'-.r,o 
+lcapco Consultancy (Thailand) Ltd lrhailand 0.04% 
+lrapco Consultancy (Malaysia) Sdn. 
+ilhd !Malaysia 100.00% 
+lrapco Consultancy (Thailand) Ltd lrhailand 99.92% 
+lcapco Consulting Singapore Pte. lsingapore 100.00% 
+Ltd 
+~apco Greece Single Member P.C !Greece 100.00% 
+lcapco Poland sp. z.o.o IDoiand 100.00% 
+rfhe Capital Markets Company IU.K. 100.00% 
+UK)Ltd 
+k:apco Consultancy (Thailand) Ltd lrhailand 0,04% 
+h:ne Capital Markets Company !Hong Kong 0.01% 
+11..imited 
+hne Capital Markets Company 
+GmbH kJermany 100.00% 
+1,..,apco Austria GmbH Austria 100.00% 
+rfhe Capital Markets Company Hong Kong 99.99% 
+1 imited 
+5 
+The Capital Markets Company .....,anada 100,00% 
+dtnited 
+:c.apco Brasil Servh;os E Brazil 0.01% 
+fconsultoria Ltda 
+[he Capital Markets Company 
+S.a.r.l Switzerland 100.00% 
+Andrion AG Switzerland 100.00% 
+The Capital Markets Company France 100.00% 
+S.A.S 
+The Capital Markets Company s,r.o Slovakia 85.00% 
+Wipro Ampion Holdings Pty Ltd ~ustralia 
+Wipro Revolution IT Pty Ltd Australia 100.00% 
+'"inro Shelde Australia Ptv Ltd t\ustralia 100.00% 
+Wipro Appirio, Inc, JSA 
+Wipro Appirio (Ireland) Limited Ireland 100.00% 
+Wipro Appirio UK Limited t;x. 100.00% 
+.. oncoder, LLC 'SA 100.00% 
+IWipro Designit Services, Inc. JSA 
+lwinro Desicrnit Services Limited rcland 100.00% 
+!Wipro do Brasil Technologia Ltda Brazil 
+lwipro do Brasil Servicos Ltda Brazil 100.00% 
+lwipro Do Brasil Sistemas De Brazil 96.84% 
+!Informatica Ltda 
+!Wipro Portugal S.A. .,ortugal 
+Wipro do Brasil Technologia Ltda Brazil 0.56% 
+Wipro Do Brasil Sistemas De Brazil 3.09% 
+Informatica Ltda 
+Wipro Technologies GmbH bermany 85.13% 
+Wipro Business Solutions Gemmny 100.00% 
+GmbH (SJ 
+Winro IT Services Austria GmbH Austria 100.00% 
+{S) Step Subsidiary details of Attune Netherlands B,V., Rizing Pte Ltd. and Wipro Business Solutions GmbH are as follows: 
+Subsidiaries Subsidiaries Subsidiaries Country of Holding Incorporation 
+~ttune Netherlands B.V. \Ietherlands 
+Rizing Germany GmbH Germany 100.00% 
+Attune Italia S.R.L taly 100.00% 
+Attune UK Ltd. ll.K. 100.00% 
+IRizing Pte Ltd. Singapore 
+IRizing New Zealand Ltd. INew Zea1and 100.00% 
+!R.izing Philippines Inc. '°hilippines 100.00% 
+IRizing SDN BHD Malaysia 100.00% 
+IR.izing: Solutions Pty Ltd lA.ustralia 100.00% 
+I\Vipro Business Solutions GmbH Germany 
+lwipro Technology Solutions S.R.L Romania 100.00% 
+As at September 30, 2025, the Company held 43.7% interest in Drivestream Inc. and Wipro IT Services LLC held 27% interest in SD Verse LLC, 
+accounted for using the equity method. 
+The Jist of controlled trusts are· 
+Name of the entitv ountrv of incornoration 
+Wipro Equity Reward Trust ndia 
+Winro Foundation ndia 
+Vide the order dated June 06, 2025, the Hon'ble National Company Law Tribunal, Bengaluru bench, approved the scheme of amalgamation for 
+the merger of wholly owned subsidiaries Wipro HR Services India Private Limited, Wipro Overseas IT Services Private Limited, Wipro 
+Technology Product Services Private Limited, Wipro Trademarks Holding Limited and Wipro VLSI Design Services India Private Limited with 
+Wipro Limited. As per the said scheme, the appointed date is April I, 2025. 
+6 
+6. Segment information: 
+The Company is organised into the following operating segments: IT Services and IT Products. 
+IT Services: The IT services segment primarily consists of IT Services offerings to customers organised by four Strategic Market Units ("SMUs") 
+-Americas 1, Americas- 2, Europe and Asia Pacific Middle East and Africa (" APMEA"), 
+Americas 1 and Americas 2 are primarily organised by industry sector, while Europe and APMEA are organised by countries. 
+Americas 1 includes the entire business of Latin America ("LATAM") and the follmving industry sectors in the United States of America: 
+Communication, Media and Networks, Technology Software and Gaming, Technology New Age, Health, and Consumer. Americas 2 includes 
+the entire business in Canada and the following industry sectors in the United States of America: Banking and Financial Services, Energy, 
+Manufacturing and Resources, Capital Markets and Insurance, and Hi-tech. Europe consists of the United Kingdom and Ireland, Switzerland, 
+Germany and Western Europe. APMEA consists of Australia and New Zealand, Southeast Asia, Japan, India, the Middle East, and Africa. 
+Revenue from each customer is attributed to the respective SMUs based on the location of the customer's primary buying center of such services. 
+With respect to certain strategic global customers, revenue may be generated from multiple countries based on such customer's buying centers, 
+but the total revenue related to these strategic global customers are attributed to a single SMU based on the geographical location of key decision 
+makers. 
+Our IT Services segment provides a range of IT and IT enabled services which include digital strategy advisory, customer centric design, 
+technology consulting, IT consulting, custom application design, development, re-engineering and maintenance, systems integration, package 
+implementation, cloud and infrastructure services, business process services, cloud, mobility and analytics services, research and development 
+and hardware and software design. 
+IT Products: The Company is a value-added reseller of security, packaged and Saas software for leading international brands. In certain total 
+outsourcing contracts of the IT Services segment, the Company delivers hardware, software products and other related deliverables. Revenue 
+relating to these items is reported as revenue from the sale of IT Products. 
+The Chief Executive Officer ("CEO") and Managing Director of the Company has been -identified as the Chief Operating Decision Maker as 
+defined by Ind AS 108, "Operating Segments". The CEO of the Company evaluates the segments based on their revenue growth and operating 
+income. 
+Assets and liabilities used in the Company's business are not identified to any of the operating segments, as these are used interchangeably between 
+segments. Management be1ieves that it is currently not practicable to provide segment disclosures relating to total assets and liabilities since a 
+meaningful segregation of the available data is onerous. 
+Information on reportable segments for the three months ended September 30. 2025, June 30, 2025, and September 30, 2024, six months ended 
+September 30, 2025, September 30, 2024 and year ended March 31, 2025 are as follows: 
+Three months ended Six Month ended Year ended 
+!Particulars September June September September September March 
+30, 2025 30, 2025 30, 2024 30, 2025 30, 2024 31,2025 
+Audited Audited Audited Audited Audited Audited 
+!segment revenue 
+~T Services 
+Americas 1 74,821 73,097 68,393 147,918 136,093 281,824 
+Americas 2 67,011 67,070 67,932 134,081 135,270 271,972 
+Europe 59,531 56,817 61,821 116,348 122,243 240,077 
+APMEA 25,042 23,816 23,811 48,858 47,314 94,351 
+IT'otal of IT Services 226,405 220,800 221,957 447,205 440,920 888,224 
+T Products 1,126 728 663 1,854 l,132 2,692 
+h'otal seP-ment revenue 227,531 221,528 222,620 449,059 442,052 890,916 
+~egment result 
+11T Senices 
+Americas 1 15,435 14,994 13,338 30,429 27,025 58,186 
+Americas 2 13,122 13,385 15,005 26,507 30,538 61,326 
+Europe 6,962 6,026 7,821 12,988 13,694 29,434 
+APMEA 3,308 2,979 3,070 6,287 5,511 12,850 
+Unallocated (I,Ql8 750 (1,912 (268) (3,389) (10,157 
+h-otal of IT Services 37,809 38,134 37,322 75,943 73,379 151,639 
+T Products IOI 20 (183 121 (230) (173) 
+R econcilirnz Items (81) (2,430 10 /2,511) 69 (195) 
+'"otal seoment result 37,829 35,724 37,149 73,553 73,218 151,271 
+7 
+!Finance costs (3,612) (3,608) (3,569 (7.220) (6,857) (14,770) 
+Finance and other income 8,455 10,417 9,195 18,872 16,675 38,202 
+Share of net profit/ (loss) of associate and joint 152 50 3 202 (42) 254 
+venture accounted for usinP-enuitv method 
+l>rofit before tax 42,824 42,583 42,778 85,407 82,994 174,957 
+Notes: 
+a) ''Reconciling items" includes elimination of inter-segment transactions and other corporate activities. 
+b) Revenue from sale of Company owned intellectual properties is reported as part ofJT Services revenues. 
+c) For the purpose of segment reporting, the Company has included the net impact of foreign exchange gains/(losses), net in revenues 
+amounting to < 558, < I 82 and < (396) for the three months ended September 30, 2025, June 30, 2025, and September 30, 2024 
+respectively and< 740 and< (602) for the six months ended September 30, 2025, September 30, 2024 and< 32 for the year ended March 
+31, 2025, which is reported as a part of Other income in the consolidated financial results. 
+d) Restructuring cost of, Nil, , 2,469 and Z Nil for the three months ended September 30, 2025, June 30, 2025 and September 30, 2024, 
+respectively and t 2,469 and Z Nil for the six months ended September 30, 2025 and 2024, respectively, and t Nil for the year ended 
+March 31, 2025, is included under Reconciling Items. 
+e) "Unallocated" within IT Services segment results is after recognition of the below: 
+Three months ended Six months ended Year ended 
+Particulars September June September September September March 
+30, 2025 30, 2025 30, 2024 30,2025 30, 2024 31, 2025 
+Amortisation and impairment 1,670 1,625 exnenses on intanP-ible assets 2,919 3,295 4,701 7,909 
+Change in fair value of A 48 (167) 48 (167) (169) 
+continP-ent consideration 
+A Value is less than Z 0.5 
+t) Segment results of IT Services segment are after recognition of share-based compensation expense t 1,264, < 436 and< 1,306 for the 
+three months ended September 30, 2025, June 30, 2025, and September 30, 2024, respectively and < 1,700 and Z 2,635 for the six 
+months ended September 30, 2025, September 30, 2024, respectively and Z 5,542 for the year ended March 31, 2025. 
+g) Segment results ofIT Services segment are after recognition of gain/(loss) on sale of.property, plant and equipment of< 464, t 66 and 
+t 820 for the three months ended September 30, 2025, June 30, 2025, and September 30, 2024, respectively and~ 530 and Z 843 for the 
+six months ended September 30, 2025, September 30, 2024, respectively and t 606 for the year ended March 31, 2025. 
+7, During the year ended March 31, 2025, decline in revenue and earnings estimates led to revision of recoverable value of customer­
+relationship intangible assets and marketing related intangible assets recognised on business combinations. Consequently, the Company has 
+recognised impairment charge of~ 1,155 for the year ended March 31, 2025, as part of amortisation and impairment. 
+8. Earnings per share for the three and si.x months ended September 30, 2024, have been proportionately adjusted for the bonus shares issued 
+during the year ended March 31, 2025, in the ratio of 1:1 i.e. l (one) bonus equity share of~ 2 each for every 1 (one) fully paid-up equity 
+shares held (including ADS holders). 
+9. On August 21. 2025, the Company entered into a definitive agreement to acquire the Digital Transformation Solutions (DTS) business unit 
+of HARMAN, a Samsung company, a global provider of Engineering, Research & Development (ER&D) services and Information 
+Technology (IT) services for a total consideration including eamouts ofUSD 375 million. The acquisition is subject to customary closing 
+conditions and regulatory approvals and is expected to be concluded by quarter ending December 31, 2025 
+8 
+I 0. Audited Consolidated Balance Sheet 
+ASSETS 
+Non-current assets 
+Propeny, plant and equipment 
+Right--of-Use assets 
+Capital work-in-progress 
+Goodwill 
+Other Intangible assets 
+Investments accounted for using the equity method 
+Financial assets 
+Investments 
+Derivative assets 
+Trade receivables 
+Other financial assets 
+Deferred tax assets (net) 
+Non-current tax assets (net) 
+Contract assets 
+Other non-current assets 
+Total non-current assets 
+Current assets 
+Inventories 
+Financial assets 
+Investments 
+Derivative assets 
+Tr.ide receivables 
+Unbilled receivables 
+Cash and cash equivalents 
+Other financial assets 
+Current tax assets (net) 
+Contract asseis 
+Other current assets 
+Total current assetl 
+TOTAL ASSETS 
+EQUITY AND LIABILITIES 
+EQUITY 
+Equity share capital 
+Other equity 
+Equity attributable to the equity holders of the Company 
+Non-controlling interests 
+TOTAL EQUITY 
+LIABILITIES 
+Non-current liabilities 
+Financial liabilities 
+Borrowings 
+Lease liabilities 
+Derivative liabilities 
+Other financial liabilities 
+Provisions 
+Deferred tax liabilities (net) 
+Non-current tax liabilities (net) 
+Other non-current liabilities 
+Total non-current liabilities 
+Current liabilities 
+Financial liabilities 
+Borrowings 
+Lease liabilities 
+Derivative liabilities 
+Trade payables 
+Other financial liabilities 
+Contract lbhilities 
+Other current liabilities 
+Provisions 
+Current fax liabilities (net) 
+Total current liabilities 
+TOT AL LIABILITIES 
+TOTAL EQUITY AND LIABILITIES 
+A Value is less than t 0.5 
+9 September 30, 2025 ..... 
+76,048 
+28,079 
+2,676 
+334,564 
+25,108 
+1,586 
+42,831 
+638 
+4,821 
+3,692 
+6,398 
+1,728 
+8,317 
+536.486 
+740 
+380,582 
+17 
+118,626 
+74,475 
+130,837 
+8,919 
+8,617 
+14,982 
+31,541 
+769,336 
+1,305,822 
+20,968 
+834,893 
+855,861 
+1.906 
+857,767 
+25,119 
+4 
+5,503 
+5,068 
+15,189 
+41,010 
+15,191 
+107,084 
+128,507 
+8,01 I 
+4,696 
+60,859 
+34.396 
+::!l,315 
+14,863 
+20,387 
+47,937 
+340,971 
+448,055 
+1,305,822 March 31, 2025 
+78,473 
+25,598 
+1,964 
+320,346 
+27,450 
+1,327 
+26,458 
+299 
+4,664 
+2,561 
+7,230 
+504,077 
+4ll,474 
+1,820 
+] 17,7.J5 
+64,280 
+121,974 
+8,448 
+6,417 
+15,795 
+29,128 
+777,775 
+1,281,852 
+20,944 
+802,697 
+823,641 
+2,138 
+825,779 
+7,793 
+4,656 
+16,443 
+42,024 
+12,757 
+169,820 
+97,863 
+8,025 
+968 
+58,667 
+33.463 
+Z0,063 
+15,085 
+17,638 
+3-1-,481 
+286,253 
+456,073 
+1,281,852 
+11. Audited Consolidated Statement of Cash Flows 
+Cash flows from operating activities_ 
+Profit for the period 
+Adjustments to reconcile profit for the period to net cash generaied from operating activities 
+Gain on sale of property, plant and equipment, net 
+Depreciation, amortisation and impairment expense 
+Unrealised exchange (gain)iloss. net 
+Share-based compensation expense 
+Share of net (profit)iloss of associate and joint venture accounted for using cquily method 
+Income tax expense 
+Finance and other income, net of finance costs 
+Change in fair value of contingent consideration 
+Lifetime expected credit loss/(write-back) 
+Cllangcs in operating assets and liabilities, net of effect~ from acquisitions 
+(lncrease)/Decrease in trade receivables 
+{lncrease)/Decreasc in unbilled receivables and contract assets 
+(Increase)/Decreasc in Inventories 
+(lncrcasc)/Dccrcasc in other financial assets and other assets 
+Increase/(Decrease) in trade payables, other financial liabilities, other liabilities and provisions 
+lncrease/(Decrcasc) in contract liabilities 
+Cash generated from operating activities before taxes 
+Income taxes paid, net 
+Net cash generated from operating activities 
+Cash flows from investing activities: 
+Payment for purchase of property. plant and equipment 
+Proceeds from disposal of property, plant and equipment 
+Payment for purchase of investments 
+Proceeds from sale of investments 
+Repa}1nent of security deposit for property. plant and equipment 
+Interest received 
+Dividend received 
+Net cash generated from/(used in) im•esting activities 
+Cash flows from financing activities: 
+Proceeds from issuance of equity shares and shares pending allotment 
+Repayment ofborrowings 
+Proceeds from borrowings 
+Payment ofkase liabilities 
+Payment for contingent consideration 
+Payment of deferred consideration on business combination 
+Interest and finance costs paid 
+Payment of dividend 
+Payment of dividend to Non*control!ing interest holders 
+Net cash generated from/(uscd) in financing acth'ities 
+Net increase in cash and cash equivalents during the period 
+Effect of exchange rate changes on cash and cash equivalents 
+Cash and cash equivalents at the beginning of the period 
+Cash and cash equivalents at the end of the period 
+By order of the Board, 
+Place: Bengaluru 
+Date: October 16, 2025 
+10 Six months ended September 30, 
+2025 
+65,989 
+(530) 
+13.772 
+2,587 
+1,700 
+(202) 
+19,418 
+{l l.652) 
+48 
+2,009 
+(408) 
+(9,979) 
+(40) 
+456 
+1,157 
+920 
+85,245 
+(10,254) 
+74,991 
+(6.114) 
+678 
+(438,513) 
+456,635 
+15,366 
+2 
+28,054 
+24 
+(154,690) 
+118,303 
+(5,616) 
+(316) 
+(216) 
+(3,170} 
+(52,354) 
+569 
+(98,604) 
+4,441 
+4,422 
+121,974 
+130,837 
+Rishad A. Premji 
+Chairman 2024 
+62,631 
+{843) 
+15,597 
+279 
+2,640 
+42 
+20.362 
+(9.818) 
+(167) 
+567 
+6,008 
+(4,034) 
+(145) 
+1,103 
+(4,2!6) 
+724 
+90,731 
+[8,083) 
+82,648 
+(5,017) 
+1,459 
+(423,829} 
+323,786 
+(300) 
+B,981 
+1 
+(89,919) 
+13 
+(66,333) 
+89,835 
+(5,054) 
+(4,177) 
+14,284 
+7,013 
+591 
+96,951 
+104,555 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+Prestige Trade Tower, Level 19 
+46, Palace Road, High Grounds 
+Bengaluru -560 001 
+Karnataka, India 
+Tel: +91 80 6188 6000 
+Fax: +91 80 6188 6011 
+INDEPENDENT AUDITOR 'S REPORT ON THE AUDIT OF CONSOLIDATED FINANCIAL 
+RESULTS 
+TO THE BOARD OF DIRECTORS OF WIPRO LIMITED 
+Opinion 
+We have audited the accompanying Statement of Consolidated Financial Results of WIPRO 
+LIMITED ("the Company") and its subsidiaries (the Company and its subsidiaries together 
+referred to as "the Group") for the three and six months ended September 30, 2025 ("the 
+Statement"/" Consolidated Financial Results") . 
+In our opinion and to the best of our information and according to the explanations given to 
+us, the Statement gives a true and fair view in conformi ty with the recognition and 
+measurement principles laid down in the Internationa l Accounting Standard 34 "Interim 
+Financial Reporting" ("IAS 34") as issued by the International Accounting Standards Board 
+("IASB") of the consolidated net profit and consolidated total comprehensive income and other 
+financial information of the Group for the three and six months ended September 30, 2025. 
+Basis for Opinion 
+We conducted our audit of the Consolidated Financial Results in accordance with the Standards 
+on Auditing ("SAs") issued by the Institute of Chartered Accountants of India ("!CAI"). Our 
+responsibilities under those Standards are further described in the Auditor's Responsibilities for 
+the Audit of the Consolidated Financial Results section below. We are independent of the Group 
+in accordance with the Code of Ethics issued by the !CAI together with the ethical requirements 
+that are relevant to our audit of the Statement and we have fulfilled our other ethical 
+responsibilities in accordance with these requirements and the ICAI's Code of Ethics. We believe 
+that the audit evidence obtained by us is sufficient and appropriate to provide a basis for our 
+audit opinion. 
+Management's and Board of Directors ' Responsibilities for the Consolidated Financial 
+Results 
+This Statement, which is the responsibility of the Company's Board of Directors and has been 
+approved by them for the issuance. The Statement has been compiled from the related audited 
+interim condensed consolidated financial statements . The Company 's Board of Directors are 
+responsible for the preparation and presentat ion of the Consolidated Financial Results that give 
+a true and fair view of the consolidated net profit and consolidated other comprehensive income 
+and other financial information of the Group in accordance with the recognition and 
+measurement principles laid down in IAS 34 as issued by IASB. 
+The respective Board of Directors of the companie s included in the Group are responsible for 
+maintenance of adequate accounting records for safeguard ing the assets of the Group and for 
+preventing and detecting frauds and other irregularities; selection and application of 
+appropriate accounting policies; making judgments and estimates that are reasonable and 
+prudent; and design, implementation and maintenance of adequate internal financial controls, 
+that were operating effectively for ensuring the accuracy and completeness of the accounting 
+records, relevant to the preparation and presentation of the respective financial results that 
+give a true and fair view and are free from material misstatement, whether due to fraud or 
+error, which have been used for the purpose of preparation of this Consolidated Financial 
+Results by the Directors of the Company , as aforesaid. 
+Regd. Office: One International Center, Tower 3, 32nd floor, Senapati Bapat Marg. Elphinstone Road (West), Mumbai-400 013, Maharashtra, India. 
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No: AAB-8737 
+Deloitte 
+Haskins & Sells LLP 
+In preparing the Consolidated Financial Results, the respective Management and Board of 
+Directors of the companies included in the Group are responsible for assessing the ability of 
+respective entities to continue as a going concern, disclosing, as applicable , matters related 
+to going concern and using the going concern basis of accounting unless the respective Board 
+of Directors either intends to liquidate their respective entities or to cease operations, or has 
+no realistic alternative but to do so. 
+The respective Board of Directors of the companies included in the Group are responsible for 
+overseeing the financial reporting process of the Group. 
+Auditor's Respons ibilities for the Audit of the Consolidated Financial Results 
+Our objectives are to obtain reasonable assurance about whether the Consolidated Financial 
+Results as a whole are free from material misstatement, whether due to fraud or error, and to 
+issue an auditor's report that includes our opinion. Reasonable assurance is a high level of 
+assurance but is not a guarantee that an audit conducted in accordance with SAs will always 
+detect a material misstatement when it exists. Misstatements can arise from fraud or error and 
+are considered material if, individually or in the aggregate , they could reasonab ly be expected 
+to influence the economic decisions of users taken on the basis of these Consolidated Financial 
+Results. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also: 
+• Identify and assess the risks of material misstatement of the Consolidated Financial 
+Results, whether due to fraud or error, design and perform audit procedures responsive to 
+those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis 
+for our opinion. The risk of not detecting a material misstatement resulting from fraud is 
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of internal control. 
+• Obtain an understanding of internal financial controls relevant to the audit in order to 
+design audit procedures that are appropriate in the circumstances, but not for the purpose 
+of expressing an opinion on effectiveness of such controls. 
+• Evaluate the appropriateness of accounting policies used and the reasonablene ss of 
+accounting estimates and related disclosures made by the Board of Directors. 
+• Conclude on the appropriateness of the Board of Directors' use of the going concern basis 
+of accounting and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the ability of the 
+Group to continue as a going concern. If we conclude that a material uncertainty exists, 
+we are required to draw attention in our auditor's report to the related disclosures in the 
+Consolidated Financial Results or, if such disclosures are inadequate, to modify our opinion. 
+Our conclusions are based on the audit evidence obtained up to the date of our auditor's 
+report. However, future events or conditions may cause the Group to cease to continue as 
+a going concern. 
+• Evaluate the overall presentation, structure and content of the Consolidated Financial 
+Results, including the disclosures , and whether the Consolidated Financial Results 
+represent the underlying transactions and events in a manner that achieves fair 
+presentation. 
+• Obtain sufficient appropriate audit evidence regarding the financial results of the entities 
+within the Group to express an opinion on the Consolidated Financial Results. We are 
+responsible for the direction, supervision and performan ce of the audit of financial 
+information of entities included in the Consolidated Financial Results. 
+Deloitte 
+Haskins & Sells LLP 
+Materiality is the magnitude of misstatements in the Consolidated Financial Results that, 
+individually or in aggregate , makes it probable that the economic decisions of a reasonably 
+knowledgeable user of the Consolidated Financial Results may be influenced. We consider 
+quantitative materiality and qualitative factors in (i) planning the scope of our audit work and 
+in evaluating the results of our work; and (ii) to evaluate the effect of any identified 
+misstatements in the Consolidated Financial Results. 
+We communicate with those charged with governance of the Company regarding, among other 
+matters, the planned scope and timing of the audit and significant audit findings, including any 
+significant deficienc ies in internal financial controls that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with 
+relevant ethical requirements regarding independence, and to communicate with them all 
+relationships and other matters that may reasonably be thought to bear on our independence, 
+and where applicable, related safeguards. 
+Bengaluru , October 16, 2025 For DELOITTE HASKINS & SELLS LLP 
+Chartered Accountants 
+(Firm's Registration No. 117366W /W-100018) µ 
+nd Subramanian 
+Partner 
+(Membership No.110815) 
+UDIN: 
+WIPRO LIMITED 
+CIN: L32102KA1945PLC020800; Registered Office: Wipro Limited, Doddakannelli, Sarjapur Road, Bengaluru -56003S, India 
+Website: www.wipro.com; Email id-info@wipro.com; Tel: +91-80-2844 0011; Fax: +91-80-2844 0054 
+AUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE THREE AND SIX MONTHS ENDED SEPTEMBER 30, 2025 
+UNDER IFRS (IASB) 
+(fin millions, except share and per share data, unless otherwise stated} 
+Three months ended Six months ended Year ended 
+Particulars September June September September September March 
+30,2025 30.2025 30. 2024 30,2025 30,2024 31. 2025 
+bncome 
+a) Revenue from operations 226,973 221,346 223,016 448,319 442,654 890,884 
+b) Foreign exchange gains/(losses), net 558 182 (396 740 (602 32 
+I Total income 227,531 221,528 
+Expenses 222,620 449,059 442,052 890,916 
+a) Purchases of stock-in-trade 1,056 545 1,034 1,601 1,698 2,967 
+b) Changes in inventories of stock-in-trade (172) 121 (152 (51) (154) 195 
+c) Employee benefits expense 136,163 134,275 134,695 270,438 266,988 533,477 
+d) Depreciation, amortization and impairment 
+expense 6,917 6,855 8,308 13,772 15,597 29,579 
+e) Sub-contracting and technical fees 26,498 25,578 24,582 52,076 49,349 100,148 
+f) Facility expenses 3,519 4,198 3,937 7,717 8,070 16,067 
+g) Travel 3,338 3,788 3,836 7,126 7,773 14,095 
+h) Communication 891 797 1,079 1,688 2,072 3,842 
+i) Legal and professional fees 2,813 1,889 3,013 4,702 5,295 11,270 
+j) Software license expense for internal use 5,253 4,961 4,702 10,214 9,307 19,338 
+k) Marketing and brand building 900 883 838 1,783 1,642 3,591 
+I) Lifetime expected credit loss/ (write-back) 1,507 502 593 2,009 567 324 
+m) (Gain)/loss on sale of property, plant and 
+equipment. net (464 (66 (820 (530) (843 (606) 
+n) Other expenses 1,483 1,478 (174 2,961 1,473 5,358 
+II ,..otal expenses 189,702 185,804 185,471 375,506 368,834 739,645 
+lII !Finance expenses 3,612 3,608 3,569 7,220 6,857 14,770 
+IV [l:;'inance and other income 8,455 10,417 9,195 18,872 16,675 38,202 
+V Share of net profit/ (loss) of associate and joint 
+enture accounted for using the eQuity method 152 50 3 202 (42 254 
+VI 0rofit before tax [1-II-III+IV+V] 42,824 42,583 42,778 85,407 82,994 174,957 
+VII ax exnense 10,200 9,218 10,512 19,418 20,362 42,777 
+VIII Profit for the period [VI-VII] 32,624 33,365 32,266 65,989 62,632 132,180 
+!Other comprehensive income (OCI) 
+Items that will not be reclassified to profit 
+or loss in subsequent periods 
+Remeasurements of the defined benefit plans, 
+net 
+Net change in fair value of investment in 238 (229 323 9 381 274 
+equity instruments measured at fair value 
+through OCI (62) (1 153 (63 (166) (3,476) 
+Items that will be reclassified to profit or 
+loss in subsequent periods 
+Foreign currency translation differences 13,355 6,583 
+Reclassification of foreign currency translation 5,115 19,938 3,716 7,331 
+differences on liquidation of subsidiaries to 
+statement of income - - 13 - 13 (41 
+Net change in time value of option contracts 
+designated as cash flow hedges, net of taxes 58 (274 (368 (216) (364 (189) 
+Net change in intrinsic value of option 
+contracts designated as cash flow hedges, net 
+of taxes (744 170 
+Net change in fair value of forward contracts (103 (574) (18 146 
+designated as cash flow hedges, net of taxes (1,772 (I 
+Net change in fair value of investment in debt (673 (1,773) (455) (745 
+instruments measured at fair value through 
+OCI, net of taxes (565 588 390 23 574 963 
+IX ffotal other comprehensive income for the period, 
+net of taxes 10,508 6,836 4,850 17,344 3,681 4,263 
+fotal comprehensive income for the period 
+VIII+!Xl 43,132 40,201 37,116 83,333 66,313 136,443 
+X ~rofit for the period attributable to: 
+[Equity holders of the Company 32,462 33,304 32,088 65,766 62,120 131,354 
+1Non-contro11ing interests 162 61 178 223 512 826 
+32,624 33,365 32,266 65,989 62,632 132,180 
+!l'otal comprehensive income for the period 
+!attributable to: 
+!Equity holders of the Company 42,898 40,137 36,942 83,035 65,807 135,595 
+[Non-controlling interests 234 64 174 298 506 848 
+43,132 40,201 37,116 83,333 66,313 136,443 
+XI ~aid up equity share capital (Par value~ 2 per 20,968 20,965 10,463 20,968 10,463 20,944 
+!Share) 
+XII Reserves excluding revaluation reserves and 
+Non-controlling interests as ner balance sheet 807,365 
+XIII FarninPS ner share fEPSl 
+Equity shares of par value of~ 2/-each) 
+EPS for the three and six months ended periods 
+!are not annualized) 
+!Basic (in <) 3.10 3.18 3.07 6.28 5.94 12.56 
+OCliluted (in<) 3.09 3.17 3.06 6.26 5.93 12.52 
+I. The audited consolidated financial results of the Company for the three and six months ended September 30, 2025, have been approved by 
+the Board of Directors of the Company at its meeting held on October 16. 2025. The Company confirms that its statutory auditors, Deloitte 
+Haskins & Sells LLP have issued an audit report with unmodified opinion on the consolidated financial results for the three and six months 
+ended September 30, 2025. 
+2. The above consolidated financial results have been prepared on the basis of the audited interim condensed consolidated financial statements 
+for the three and six months ended September 30, 2025, which are prepared in accordance with International Financial Reporting Standards 
+and its interpretations ("IFRS"), as issued by the futernational Accounting Standards Board ("IASB"). All amounts included in the 
+consolidated financial results (including notes) are reported in millions of Indian Rupees (Z in millions) except share and per share data, 
+unless othenvise stated. 
+3. (Gain)/loss on sale of property, plant and equipment for the three and six months ended September 30, 2024 and year ended March 31. 2025, 
+includes gain on relinquishment of the lease hold rights of land, and transfer of building along with other assets of~ (885) and for the three 
+and six months ended September 30, 2025. includes gain on transfer of building of~ (405). 
+4. Other expenses are net of insurance claim received of~ 1,805 for the three and six months ended September 30, 2024 and year ended March 
+31, 2025. 
+5. List of subsidiaries, associate and joint venture as at September 30, 2025 are provided in the table below: 
+Subsidiaries Subsidiaries Subsidiaries Country of Holding Incorporation 
+!Attune Consulting India Private ndia 100.00% 
+~imitcd 
+Capco Technologies Private 
+l:.,imited ndia 100.00% 
+Wipro Chengdu Limited :hina 8.96% 
+[Wipro Holdings (UK) Limited U.K. 100.00% 
+Wioro Technolo2ies SRL omania A 
+[Wipro 1T Services Bangladesh Bangladesh 100.00% 
+rtimited 
+!Wipro IT Services UK Societas J.K. 100.00% 
+ICapco Consulting Middle East UAE 100.00% 
+FZE''' 
+DesignitA/S benmark 100.00% 
+Designit Denmark NS Denmark 100.00% 
+Designit Germany GmbH Oermany 100.00% 
+Designit Oslo A/S Norway 100.00% 
+Designit Spain Digital, S.L.U Spain 100.00% 
+lnesi1mit T.L.V Ltd. srael 100.00% 
+2 
+ipro Bahrain Limited Co. W.L.L 
+ipro Czech Republic IT Services 
+.r.o. 
+ipro CRM Services 
+Grove Holdings 2 S,8..r.l 
+T. WT Indonesia 
+inbow Software LLC 
+ipro Arabia Limited 
+Wipro Doha LLC 
+ipro Financial Outsourcing 
+Services Limited 
+ipro Information Technology 
+etherlands BV. 
+ipro IT Service Ukraine, LLC 
+ipro IT Services Poland SP 
+.o.o 
+ipro IT Services S.R.L. 
+ipro Regional Headquarter 
+ipro Technologies Australia Pty 
+td 
+ipro Technologies SA 
+ipro Technologies SA DE CV 
+Wipro Technologies South Africa 
+Proprietary) Limited ipro 4C Consulting France SAS 
+Wipro CRM Services B.V. 
+ipro CRM Services ApS 
+ipro CRM Services UK Limited 
+apco Solution Services GmbH 
+he Capital Markets Company 
+taly Sri 
+apco Brasil Servi<;os E 
+onsultoria Ltda 
+he Capital Markets Company 
+yoJ 
+omen1s Business Park 
+echnologies Limited 
+Vipro UK Limited 
+ipro Gulf LLC 
+ipro Technologies SA 
+ipro (Thailand) Co. Limited 
+Wipro Technologies GmbH 
+ipro Do Brasil Sistemas De 
+nformatica Ltda 
+ipro do Brasil Technologia 
+tda tIJ 
+ipro Information Technology 
+azakhstan LLP 
+ipro Outsourcing Services 
+Ireland) Limited 
+ipro Portugal S.A. m 
+Nipro Solutions Canada-Limited 
+'ipro Technologies Limited 
+ipro Technologies Peru SAC 
+ipro Technologies W.T. 
+Sociedad Anonima 
+ipro Technology Chile SPA 
+pplied Value Technologies B,V. 
+ipro Ampion Holdings Pty 
+td (l} 
+ipro Technologies Nigeria 
+imited 
+3 akhstan 100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+99.99% 
+100.00% 
+99.60% 
+100.00% 
+66.67% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+99.98% 
+100.00% 
+0.02% 
+2.62% 
+0.03% 
+14.87% 
+0.07% 
+99.44% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+99.99% 
+99.98% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+97.38% 
+91.08% 
+69.42% 
+99.84% 
+Wipro Technologies SRL lomania 100.00% 
+Wipro (Thailand) Co. Limited Thailand 99.97% 
+Wipro Shanghai Limited China 84.63% 
+lwipro Technologies Nigeria Nigeria 0.16% 
+1.imited 
+Wipro Technologies Limited Russia 0.01% 
+Wioro Technolo2.ies Peru SAC eru 0.02% 
+>Uinro Janan KK. anan 100.00% 
+Wipro Networks Pte Limited Singapore 100.00% 
+'Applied Value Technologies Pte. Singapore 100.00% 
+Limited 
+~ipro Chengdu Limited China 91.04% 
+lnT, WT Indonesia Indonesia 0.40% 
+~ipro {Thailand) Co. Limited Thailand a 
+Wipro (Dalian) Limited China 100.00% 
+!wipro Technologies SDN BHD Malaysia 100.00% 
+lwipro (Tianjin) Limited l3l China 100.00% 
+minro Phili--ines, Inc. hili .... nines 100.00% 
+minro Shanirhai Limited Lhina 15.37% 
+,uinro Travel Services Limited ndia 100.00% 
+Wipro,LLC JSA 100.00% 
+Wipro Technologies SA DE CV Mexico 8.92% 
+Wipro Gallagher Solutions, LLC USA 100.00% 
+Wipro Insurance Solutions, LLC iuSA 100.00% 
+!Wipro IT Services, LLC iuSA 100.00% 
+~ggne Global Inc. iuSA 60.00% 
+:cardinal US Holdings, Inc.t1l iuSA 100.00% 
+lEdgile, LLC /USA 100.00% 
+rHealthPlan Services, Inc. (I) USA 100.00% 
+nfocrossing, LLC iuSA 100.00% 
+ntemational TechneGroup iuSA 100.00% 
+Incorporated O i 
+lwipro NcxtGen Enterprise Inc. (n iuSA 100.00% 
+IR.izing Intermediate Holdings, /USA 100.00% 
+nc, (IJ 
+lwipro Appirio, Inc.\!) iuSA 100.00% 
+fwipro Designit Services, Inc. (I) /USA 100.00% 
+lwipro Telecom Consulting LLC iuSA 100.00% 
+lwipro VLSI Design Services, iuSA 100.00% 
+~LC 
+........... lied Value TechnoloQies, Inc. USA 100.00% 
+IAggne Global IT Services Private India 60.00% 
+!Limited 
+Wipro., Inc. USA 100.00% 
+Wipro Life Science Solutions, iuSA 100.00% 
+ILLC 
+1W ipro Digital Inc. <4l USA 100.00% 
+tI'he Wipro SA Broad Based 
+!ownership Scheme Trust 
+lwipro SA Broad Based Ownership 100.00% 
+l<icherne SPV (RF) (PTY) LTD 
+Vipro Technologies South Africa lsouth Africa 30.58% 
+Proprietary) Limited 
+A Value is less than 0.01% 
+The Company controls 'The Wipro SA Broad Based Ownership Scheme Trust', 'Wipro SA Broad Based Ownership Scheme SPV (RF) 
+(PTY) LTD' incorporated in South Africa and Wipro Foundation in India. 
+(:!) Grove Holdings 2 S.a.r.l. has transferred its entire shareholding in Capco Consulting Middle East FZE to Wipro IT Services UK Societas, 
+effective September 19, 2025. 
+(JJ Wipro (Tianjin) Limited has been incorporated with effect from May 23, 2025, which is 100% held by Wipro Networks Pte Limited. 
+4 
+l4l Wipro Digital Inc. has been incorporated with effect from August 04, 2025, which is 100% held by the Company. 
+(IJ Step Subsidiary details of Cardinal US Holdings, Inc., HealthPlan Services, Inc., International TechneGroup Incorporated, Wipro NextGen 
+Enterprise Inc., Rizing Intermediate Holdings, Inc., The Capital Markets Company BV, Wipro Ampion Holdings Pty Ltd, Wipro Appirio, Inc., 
+Wipro Designit Services, Inc., Wipro do Brasil Technologia Ltda and Wipro Portugal S.A are as follows: 
+Subsidiaries Subsidiaries Subsidiaries Country of Holding Incorporation 
+lcardinal US Holdings, Inc. !USA 
+Capco Consulting Services LLC !USA 100.00% 
+Capco RISC Consulting LLC !USA 100.00% 
+!The Capital Markets Company !USA 100.00% 
+.,LC 
+IHealthPlan Services, Inc. !USA 
+IHealthPlan Services Insurance !USA 100.00% 
+Agency,LLC 
+International TechneGroup USA 
+Incorporated 
+nternational TechneGroup Ltd. U.K. 100.00% 
+TI Proficiency Ltd srael 100.00% 
+vfechWorks S.R.L. taly 100.00% 
+[Wipro NextGen Enterprise Inc. JSA 
+LeanSwift AB Sweden 100.00% 
+Rizing Intermediate Holdings, 
+!Inc. !USA 
+Rizing Lanka (Private) Ltd Sri Lanka 100.00% 
+!Attune Netherlands B.V. 15i IN"etherlands 100.00% 
+IR.izing Solutions Canada Inc. ~anada 100.00% 
+IRizing LLC !USA l00.00% 
+IAasonn Philippines Inc. !Philippines 100.00% 
+llizing B. V. !Netherlands [00.00% 
+Rizing Consulting Ireland Limited '1'eland 100.00% 
+Rizing Consulting Pty Ltd. ~ustralia 100.00% 
+lruzing Geospatial LLC !USA 100.00% 
+IR izing GmbH Jermany 100.00% 
+IR izing Limited ~.K. 100.00% 
+IRizing Consulting USA, LLC USA 100.00% 
+Formerly known as Rizing 
+!Consulting USA, Inc.) 
+IRizing Pte Ltd. (S) !Singapore 100.00% 
+The Capital Markets Company tJelgium 
+BV 
+CapAfiic Consulting (Pty) Ltd ~outh Africa 100.00% 
+:capco Belgium BV :Belgium 100.00% 
+The Capital Markets Company Slovakia 15.00% 
+.r.o 
+Capco Consultancy (Thailand) 
+!Ltd ifhailand 0.04% 
+Capco Consultancy (Malaysia) 
+Sdn. Bhd Malaysia 100.00% 
+Capco Consultancy (Thailand) Ltd Thailand 99.92% 
+1Capco Consulting Singapore Pte. 
+,-td Singapore 100.00% 
+Capco Greece Single Member P.C !Greece 100.00% 
+lcapco Poland sp. z.o.o !Poland 100.00% 
+trhe Capital Markets Company U.K. 100.00% 
+UK) Ltd 
+lcapco Consultancy (Thailand) trhailand 0.04% 
+0-td 
+tfhe Capital Markets Company !Hong Kong 0.01% 
+!Limited 
+trhe Capital Markets Company !Germany 100.00% 
+GmbH 
+!Caoco Austria GmbH Austria l00.00% 
+5 
+rToe Capital Markets Company H:ongKong 99.99% 
+11--imited 
+jl'he Capital Markets Company Canada 100.00% 
+11--imited 
+Capco Brasil Serviyos E Brazil 0.01% 
+Consultoria Ltda 
+lrhe Capital Markets Company Switzerland 100.00% 
+~-•.r.l 
+Andrion AG Switzerland 100.00% 
+rrhe Capital Markets Company France 100.00% 
+S.A.S 
+h'he Capital Markets Company s.r.o Slovakia 85.00% 
+Wipro Ampion Holdings Pty Ltd \ustralia 
+!Wipro Revolution IT Pty Ltd Australia 100.00% 
+K\'ipro Shelde Australia Pty Ltd ustralia 100.00% 
+Wipro Appirio, Inc. USA 
+[Wipro Appirio (Ireland) Limited reland 100.00% 
+[Wipro Appirio UK Limited U.K. 100.00% 
+.... oncoder, LLC JSA 100.00% 
+Wipro Designit Services, Inc. USA 
+Winro Desil:mit Services Limited :reland 100.00% 
+Wipro do Brasil Technologia Ltda 3razi1 
+[Wipro do Brasil Services Ltda Brazil 100.00% 
+[Wipro Do Brasil Sistemas De Brazil 96.84% 
+fr nformatica Ltda 
+Wipro Portugal S.A. Portugal 
+Wipro do Brasil Technologia Ltda Brazil 0.56% 
+rwipro Do Brasil Sistemas De Brazil 3.09% 
+f-lnformatica Ltda 
+lwipro Technologies GmbH Germany 85.13% 
+Wipro Business Solutions Germany 100.00% 
+GmbH"l 
+I\Vipro IT Services Austria GmbH Austria 100.00% 
+!5l Step Subsidiary details of Attune Netherlands B.V., Rizing Pte Ltd. and Wipro Business Solutions GmbH are as follows: 
+Subsidiaries Subsidiaries Subsidiaries Country of Holding Incorporation 
+<\ttune Netherlands B.V. 'letherlands 
+~zing Germany GmbH Germany 100.00% 
+!Attune Italia S.R.L taly 100.00% 
+,l.ttune UK Ltd if.K. 100.00% 
+Rizing Pte Ltd. Singapore 
+Rizing New Zealand Ltd. New Zealand 100.00% 
+~zing Philippines Inc. Philippines 100.00% 
+~izing SDN BHD Malaysia 100.00% 
+Rizin!! Solutions Ptv Ltd '-\ustralia 100.00% 
+Wipro Business Solutions GmbH Jennany 
+j\Vipro Technology Solutions Romania 100.00% 
+S.R.L 
+As at September 30, 2025. the Company held 43.7% interest in Drivestream Inc. and Wipro IT Services LLC held 27% interest in SDVerse 
+LLC, accounted for using the equity method. 
+The list of controlled trusts are· 
+Name of the entity Country of incorporation 
+Wipro Equity Reward Trust ndia 
+!Wipro Foundation India 
+Vide the order dated June 06, 2025, the Hon'ble National Company Law Tribunal, Bengaluru bench, approved the scheme of amalgamation 
+for the merger of wholly owned subsidiaries Wipro HR Services India Private Limited, Wipro Overseas IT Services Private Limited, Wipro 
+Technology Product Services Private Limited, Wipro Trademarks Holding Limited and Wipro VLSI Design Services India Private Limited 
+with Wipro Limited. As per the said scheme. the appointed date is April 1, 2025. 
+6 
+6. Segment Information 
+The Company is organized into the following operating segments: IT Services and IT Products. 
+IT Services: The IT services segment primarily consists ofIT services offerings to customers organized by four Strategic Market Units ("SMUs") 
+-Americas I, Americas 2, Europe and Asia Pacific Middle East and Africa {"APMEA"). 
+Americas I and Americas 2 are primarily organized by industry sector, while Europe and APMEA are organized by countries. 
+Americas l includes the entire business of Latin America ("LATAM") and the following industry sectors in the United States of America: 
+Communication,-Media and Networks, Technology Software and Gaming, Technology New Age, Health, and Consumer. Americas 2 includes 
+the entire business in Canada and the following industry sectors in the United States of America: Banking and Financial services, Energy, 
+Manufacturing and Resources, Capital markets and Insurance, and Hi-tech. Europe consists of the United Kingdom and Ireland, Switzerland, 
+Germany and Western Europe. APMEA consists of Australia-and New Zealand, Southeast Asia, Japan, India, the Middle East, and Africa. 
+Revenue from each customer is attributed to the respective SMUs based on the location of the customer's primary buying center of such services. 
+With respect to certain strategic global customers, revenue may be generated from multiple countries based on such customer's buying centers, 
+but the total revenue related to these strategic global customers are attributed to a single SMU based on the geographical location of key decision 
+makers. 
+Our IT Services segment provides a range of IT and IT enabled services which include digital strategy advisory, customer centric design, 
+technology consulting, IT consulting, custom application design, development, re-engineering and maintenance, systems integration, package 
+implementation, cloud and infrastructure services, business process services, cloud, mobility and analytics services, research and development and 
+hardware and software design. 
+IT Products: The Company is a value-added reseller of security, packaged and SaaS software for leading international brands. In certain total 
+outsourcing contracts of the IT Services segment, the Company delivers hardware, software products and other related deliverables. Revenue 
+relating to these items is reported as revenue from the sale of IT Products. 
+The Chief Executive Officer ("CEO") and Managing Director of the Company has been identified as the Chief Operating Decision Maker as 
+defined by IFRS 8, "Operating Segments". The CEO of the Company evaluates the segments based on their revenue growth and operating income. 
+Assets and liabilities used in the Company's business are not identified to any of the operating segments, as these are used interchangeably between 
+segments. Management believes that it is currently not practicable to provide segment disclosures relating to total assets and liabilities since a 
+meaningful segregation of the available data is onerous. 
+Information on reportable segments for the three months ended September 30, 2025, June 30, 2025, September 30, 2024, six months ended 
+September 30, 2025, September 30, 2024, and year ended March 31, 2025 are as follows: 
+Three months ended Six months ended Year ended 
+Particulars September June September September September March 
+30, 2025 30, 2025 30, 2024 30, 2025 30,2024 31, 2025 
+Audited Audited Audited Audited Audited Audited 
+Segment revenue 
+lT Services 
+Americas 1 74,821 73,097 68,393 147,918 136,093 281,824 
+Americas 2 67,011 67,070 67,932 134,081 135,270 271,972 
+Europe 59,531 56,817 61,821 116,348 122,243 240,077 
+APMEA 25,042 23,816 23,811 48,858 47,314 94,351 
+Total of IT Services 226,405 220,800 221,957 447,205 440,920 888,224 
+IT Products 1,126 728 663 1,854 1,132 2,692 
+Total seement revenue 227,531 221,528 222,620 449,059 442,052 890,916 
+Segment result 
+IT Services 
+Americas 1 15,435 14,994 13,338 30,429 27,025 58,186 
+Americas 2 13,122 13,385 15,005 26,507 30,538 61,326 
+Europe 6,962 6,026 7,821 12,988 13,694 29,434 
+APMEA 3,308 2,979 3,070 6,287 5,511 12,850 
+Unallocated (1,018 750 (1,912) (268) /3,389 110,157) 
+Total of IT Services 37,809 38,134 37,322 75,943 73,379 151,639 
+.. T Products IOI 20 (183) 121 (230 (173 
+11 econcilim• Items (81 (2,430) 10 (2,511) 69 095 
+rotal se!!ment result 37,829 35,724 37,149 73,553 73,218 151,271 
+7 
+Finance expenses (3,612) (3,608) (3,569) (7,220 (6,857) (14,770 
+rt7inance and other income 8,455 10,4\7 9,\95 18,872 16,675 38,202 
+Share of net profit/ (loss) of associate and joint 
+"enture accounted for using the equitv method 152 50 3 202 (42 254 
+rofit before tax 42,824 42,583 42,778 85,407 82,994 174,957 
+Notes: 
+a) "Reconciling Items" includes elimination of inter-segment transactions and other corporate activities. 
+b) Revenue from sale of Company owned intellectual properties is reported as part ofIT Services revenues. 
+c) For the purpose of segment reporting, the Company has included the net impact of foreign exchange gains/(losses), net in revenues 
+amounting to < 558, < 182, and < (396) for the three months ended September 30, 2025, June 30, 2025 and September 30, 2024, 
+respectively,~ 740 and~ (602) for the six months ended September 30, 2025, September 30, 2024, and t 32 for the year ended March 
+31, 2025, which is reported under foreign exchange gains/(losses), net in the consolidated financial results. 
+d) Restructuring cost of~ Ni~~ 2,469 and;?: Nil for the three months ended September 30, 2025, June 30, 2025 and September 30, 2024, 
+respectively and t 2,469 and;?: Nil for the six months ended September 30, 2025 and 2024, respectively, and t Nil for the year ended 
+March 31, 2025, is included under Reconciling Items. 
+e) "Unallocated" within IT Services segment results is after recognition of the below: 
+Three months ended Six months ended Year ended 
+September June September September September March 
+30,2025 30, 2025 30,2024 30, 2025 30,2024 31, 2025 
+~mortization and impainnent expenses on 
+ntanJ?ible assets 1,670 1,625 2,919 3,295 4,701 7,909 
+Chane.e in fair value of contine:ent consideration A 48 (167 48 1167 (169 
+A Value is less than 0.5 
+f) Segment results of lT Services segment are after recognition of share-based compensation expense f 1,264, f 436 and f 1,306 for the 
+three months ended September 30. 20251 June 30, 2025 and September 30, 2024, respectively and t 1.700 and f 2,635 for the six months 
+ended September 30, 2025, September 30. 2024, respectively and t 5,542 for the year ended March 31, 2025. 
+g) Segment results of IT Servkes segment are after recognition of(gain)/loss on sale of property. plant and equipment of, (464),, (66) 
+and< (820) for the three months ended September 30, 2025, June 30, 2025 and September 30, 2024, respectively, and< (530) and< 
+(843) for the six months ended September 30, 2025, September 30, 2024, respectively, and< (606) for the year ended March 31, 2025, 
+7. During the year ended March 31, 2025, decline in revenue and earnings estimates led to revision ofrecoverable value of customer-relationship 
+intangible assets and marketing related intangible assets recognized on business combinations, Consequently, the Company has recognized 
+impairment charge oft 1,155 for the year ended March 31. 2025, as part of amortization and impairment. 
+8. Earnings per share for the three and six months ended September 30, 2024, have been proportionately adjusted for the bonus shares issued 
+during the year ended March 31, 2025, in the ratio of 1:1 i.e. 1 (one) bonus equity share oft 2 each for every l (one) fully paid-up equity 
+shares held (including ADS holders). 
+9. On August 21, 2025, the Company entered into a definitive agreement to acquire the Digital Transformation Solutions (DTS) business unit 
+of HARMAN, a Samsung company. a global provider of Engineering, Research & Development (ER&D) services and Information 
+Technology (IT) services for a total consideration including earnouts of USD 375 million. The acquisition is subject to customary closing 
+conditions and regulatory approvals and is expected to be concluded by quarter ending December 31, 2025. 
+8 
+10. Audited Consolidated Balance Sheet 
+ASSETS 
+Goodwill 
+Intangible assets 
+Property, plant and equipment 
+Right-of-Use assets 
+Financial assets 
+Derivative assets 
+Investments 
+Trade receivables 
+Other financial assets 
+Investments accounted for using the equity method 
+Deferred tax assets 
+Contract assets 
+Non-current tax assets 
+Other non-current assets 
+Total non-current assets 
+Inventories 
+Financial assets 
+Derivative assets 
+Investments 
+Cash and cash equivalents 
+Trade receivables 
+Unbilled receivables 
+Other financial assets 
+Contract assets 
+Current tax assets 
+Other current assets 
+Total current assets 
+TOTAL ASSETS 
+EQUITY 
+Share capital 
+Share premium 
+Retained earnings 
+Share-based payment reserve 
+Special Economic Zone Re-investment reserve 
+Other components of equity 
+Equity attributable to the equity holders of the Company 
+Non-controlling interests 
+TOTAL EQUITY 
+LIABILITIES 
+Financial liabilities 
+Loans and borrowings 
+Lease liabilities 
+Derivative liabilities 
+Other financial liabilities 
+Deferred tax liabilities 
+Non-current tax liabilities 
+Other non-current liabilities 
+Provisions 
+Total non-current liabilities 
+Financial liabilities 
+Loans, borrowings and bank overdrafts 
+Lease liabilities 
+Derivative liabilities 
+Trade payables and accrued expenses 
+Other financial liabilities 
+Contract liabilities 
+Current tax liabilities 
+Other current liabilities 
+Provisions 
+Total current liabilities 
+TOTAL LIABILITIES 
+TOTAL EQUITY AND LIABILITIES 
+"Value is less than 0.5 
+9 As at March 31, 2025 As at Sel!tember 30, 2025 
+325,014 339,417 
+27,450 25,108 
+80,684 79,067 
+25,598 28,079 
+A 
+26,458 42,831 
+299 638 
+4,664 4,821 
+1,327 1,586 
+2,561 3,692 
+1,728 
+7,230 6,398 
+7,460 7,974 
+508,745 541,339 
+694 740 
+1,820 17 
+411,474 380,582 
+121,974 130,837 
+117,745 118,626 
+64,280 74,475 
+8,448 8,919 
+15,795 14,982 
+6,417 8,617 
+29,128 31,541 
+777,775 769,336 
+1,286,520 1,310,675 
+20,944 20,968 
+2,628 5,144 
+716,477 731,071 
+6,985 6,169 
+27,778 26,596 
+53,497 70,766 
+828,309 860,714 
+2,138 1,906 
+830 447 862,620 
+63,954 
+22,193 25,119 
+4 
+7,793 5,503 
+16,443 15,189 
+42,024 41,010 
+17,119 20,031 
+294 228 
+169,820 107,084 
+97,863 128,507 
+8,025 8,011 
+968 4,696 
+88,252 89,171 
+3,878 6,084 
+20,063 21,315 
+34,481 47,937 
+31,086 33,803 
+1,637 1,447 
+286,253 340,971 
+456,073 448,055 
+1,286,520 l,3!0,675 
+11. Audited Consolidated Statement of Cash flows 
+Cash flows from operating activities 
+Profit for the period 
+Adjustments to reconcile profit for the period to net cash generated from operating 
+activities: 
+Gain on sale of property, plant and equipment, net 
+Depreciation, amortization and impaim1ent expense 
+Unrealized exchange (gain)/loss, net 
+Share-based compensation expense 
+Share of net (profit)/loss of associate and joint venture accounted for using equity 
+method 
+Income tax expense 
+Finance and other income, net of finance expenses 
+Change in fair value of contingent consideration 
+Lifetime expected credit loss/(write-back) 
+Changes in operating assets and liabilities, net of effects from acquisitions 
+(lncrease)/Decrease in trade receivables 
+(lncrease)/Decrease in unbilled receivables and contract assets 
+(Increase )/Decrease in Inventories 
+(Increase)/Decrease in other financial assets and other assets 
+Increase/(Decreasc) in trade payables, accrued expenses, other financial liabilities, 
+other liabilities and provisions 
+Increase/(Decrease) in contract liabilities 
+Cash generated from operating activities before taxes 
+Income taxes paid, net 
+Net cash generated from operating activities 
+Cash flows from investing activities: 
+Payment for purchase of property, plant and equipment 
+Proceeds from disposal of property, plant and equipment 
+Payment for purchase of investments 
+Proceeds from sale of investments 
+Repayment of security deposit for property, p !ant and equipment 
+Interest received 
+Dividend received 
+Net cash generated from/(used in) investing activities 
+Cash flows from financing activities: 
+Proceeds from issuance of equity shares and shares pending allotment 
+Repayment of loans and borrowings 
+Proceeds from loans and borrowings 
+Payment of lease liabilities 
+Payment for contingent consideration 
+Payment of deferred consideration on business combination 
+Interest and finance expenses paid 
+Payment of dividend 
+Payment of dividend to Non-controlling interest holders 
+Net cash generated from/(used) in financing activities 
+Net increase in cash and cash equivalents during the period 
+Effect of exchange rate changes on cash and cash equivalents 
+Cash and cash equivalents at the beginning of the period 
+Cash and cash equivalents at the end of the period 
+By order of the Board, 
+Place: Bengaluru 
+Date: October 16, 2025 
+10 Six months ended September 30, 
+2024 2025 
+62,632 65,989 
+(843) (530) 
+15,597 13,772 
+279 2,587 
+2,640 1,700 
+42 (202) 
+20,362 19,418 
+(9,818) (11,652) 
+(167) 48 
+567 2,009 
+6,008 (408) 
+(4,034) (9,979) 
+(145) (40) 
+1,103 456 
+(4,216) 1,157 
+724 920 
+90,731 85,245 
+(8,083) (10,254) 
+82,648 74,991 
+(5,017) (6,114) 
+1,459 678 
+(423,829) (438,513) 
+323,786 456,635 
+(300) 
+13,981 15,366 
+1 2 
+(89,919) 28,054 
+13 24 
+(66,333) (154,690) 
+89,835 118,303 
+(5,054) (5,616) 
+(316) 
+(216) 
+(4,177) (3,170) 
+(52,354) 
+(569) 
+14,284 (98,604) 
+7,013 4,441 
+591 4,422 
+96,951 121,974 
+104,555 130,837 
+Chainnan 

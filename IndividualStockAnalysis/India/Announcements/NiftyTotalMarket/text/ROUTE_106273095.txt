@@ -1,0 +1,173 @@
+/0/1 /2 /3 /i255 /0/5 /5 /2 /6 /i255 /7 /i255 /8 /9 /10 /11 /i255 /11 /2 /3 /12 /2 /6 /13 /3 /14 /i255 /1 /15 /16 /10 /2
+/17 /18 /19/20 /i255 /22 /23 /i255 /24 /25 /20 /i255 /26 /18 /27 /28 /20 /24
+/29 /22 /19/30 /18 /31 /32 /33/34 /35 /36 /26 /37 /i255 /38/35 /39 /40 /41 /37 /i255 /41 /40 /38/40 /26 /37 /42
+/40 /43 /40 /17 /i255 /22 /23 /i255 /26 /18 /27 /28 /20 /24 /i255 /29 /22 /19/30 /18 /31 /32 /33/40 /17 /37 /44 /45 /46 /36 /46 /47 /46 /47 /48
+/29 /22 /27 /30 /22 /27 /18 /24 /20 /i255 /40 /49 /20 /31 /24 /50 /24 /32
+/17 /51 /19/52 /20 /27 /i255 /53 /29 /40 /17 /54 /i255 /22 /23 /i255 /26 /18 /27 /28 /20 /24
+/55 /22 /19/30 /18 /31 /32 /33/41 /48 /56 /57 /46 /46 /38/58 /56 /46 /46 /44 /59 /41 /29 /47 /44 /60 /61 /56 /61
+/59 /20 /27 /19/18 /31 /20 /31 /24 /i255 /62 /55 /55 /22 /51 /31 /24
+/17 /51 /19/52 /20 /27 /i255 /53 /59 /62 /17 /54 /i255 /22 /23 /i255 /26 /18 /27 /28 /20 /24
+/29 /22 /19/30 /18 /31 /32 /33/62 /62 /29 /29 /34 /48 /48 /44 /46 /38
+/17 /51 /19/52 /20 /27 /i255 /22 /23 /i255 /23 /51 /63 /63 /32 /i255 /30 /18 /50 /49 /i255 /51 /30
+/64 /25 /18 /27 /20 /64 /i255 /18 /55 /65 /51 /50 /27 /20 /49 /i255 /50 /31 /i255 /22 /23 /23 /20 /27 /33/47 /45 /48 /60 /66 /66 /46 /61/26 /22 /24 /18 /63 /i255 /59 /20 /27 /55 /20 /31 /24 /18 /28 /20
+/22 /23 /i255 /67 /51 /63 /63 /32 /i255 /59 /18 /50 /49
+/43 /25 /18 /27 /20 /64 /i255 /18 /55 /65 /51 /50 /27 /20 /49 /33/56 /44 /68 /57 /57 /69
+/17 /51 /19/52 /20 /27 /i255 /22 /23 /i255 /30 /18 /27 /24 /63 /32 /i255 /30 /18 /50 /49 /i255 /51 /30
+/64 /25 /18 /27 /20 /64 /i255 /18 /55 /65 /51 /50 /27 /20 /49 /i255 /50 /31 /i255 /22 /23 /23 /20 /27/26 /22 /24 /18 /63 /i255 /59 /20 /27 /55 /20 /31 /24 /18 /28 /20
+/22 /23 /i255 /59 /18 /27 /24 /63 /32 /i255 /59 /18 /50 /49
+/43 /25 /18 /27 /20 /64 /i255 /18 /55 /65 /51 /50 /27 /20 /49
+/35 /23 /23 /20 /27 /i255 /30 /27 /50 /55 /20 /i255 /30 /20 /27 /i255 /23 /51 /63 /63 /32 /i255 /59 /18 /50 /49
+/51 /30 /i255 /64 /25 /18 /27 /20 /33/47 /60 /44 /44 /68 /60 /48
+/35 /23 /23 /20 /27 /i255 /30 /27 /50 /55 /20 /i255 /30 /20 /27 /i255 /59 /18 /27 /24 /63 /32
+/59 /18 /50 /49 /i255 /51 /30 /i255 /64 /25 /18 /27 /20
+/42 /18 /24 /20 /i255 /22 /23
+/30 /18 /32 /19/20 /31 /24 /70 /64 /20 /24 /24 /63 /20 /19 /20 /31 /24 /33/56 /44 /71 /46 /44 /71 /56 /46 /56 /44
+/29 /22 /31 /64 /50 /49 /20 /27 /18 /24 /50 /22 /31 /i255 /30 /18 /50 /49 /i255 /50 /31
+/22 /30 /20 /31 /i255 /22 /23 /23 /20 /27 /i255 /53 /i255 /34 /64 /68 /i255 /40 /31
+/38/50 /63 /63 /50 /22 /31 /54 /33/56 /45 /57 /61 /44 /68 /44 /66
+/42 /20 /24 /18 /50 /63 /i255 /22 /23 /i255 /50 /31 /24 /20 /27 /20 /64 /24 /i255 /30 /18 /50 /49 /i255 /49 /51 /20
+/24 /22 /i255 /49 /20 /63 /18 /32 /i255 /50 /31 /i255 /30 /18 /32 /19 /20 /31 /24
+/53 /62 /19/22 /51 /31 /24 /54 /33/47 /66 /68 /56 /48
+/59 /22 /64 /24 /i255 /22 /23 /23 /20 /27 /i255 /64 /25 /18 /27 /20 /25 /22 /63 /49 /50 /31 /28 /i255 /22 /23
+/62 /55 /65 /51 /50 /27 /20 /27 /i255 /18 /31 /49 /i255 /59 /62 /29
+/53 /17 /51 /19/52 /20 /27 /i255 /22 /23 /i255 /43 /25 /18 /27 /20 /64 /54 /33/45 /56 /47 /66 /61 /46 /66 /57/59 /22 /64 /24 /i255 /22 /23 /23 /20 /27
+/64 /25 /18 /27 /20 /25 /22 /63 /49 /50 /31 /28 /i255 /22 /23
+/62 /55 /65 /51 /50 /27 /20 /27 /i255 /18 /31 /49
+/59 /62 /29 /i255 /53 /50 /31 /i255 /69/54 /33/66 /56 /68 /48 /46 /69
+/42 /18 /24 /20 /i255 /35 /23 /i255 /43 /51 /52 /19/50 /64 /64 /50 /22 /31 /33/47 /57 /71 /46 /60 /71 /56 /46 /56 /45
+/17 /22 /24 /20 /64/47 /54 /i255 /26 /25 /20 /i255 /72 /18 /63 /51 /20 /64 /i255 /23 /22 /27 /i255 /24 /25 /20 /i255 /23 /50 /20 /63 /49 /64 /i255 /24 /50 /24 /63 /20 /49 /i255 /73 /26 /22 /24 /18 /63 /i255 /59 /20 /27 /55 /20 /31 /24 /18 /28 /20 /i255 /22 /23 /i255 /67 /51 /63 /63 /32 /i255 /59 /18 /50 /49 /i255 /43 /25 /18 /27 /20 /64 /i255 /18 /55 /65 /51 /50 /27 /20 /49 /74 /i255 /18 /31 /49 /i255 /73 /59 /22 /64 /24 /i255 /22 /23 /23 /20 /27
+/64 /25 /18 /27 /20 /25 /22 /63 /49 /50 /31 /28 /i255 /22 /23 /i255 /62 /55 /65 /51 /50 /27 /20 /27 /i255 /18 /31 /49 /i255 /59 /62 /29 /i255 /53 /50 /31 /i255 /69/54 /74 /i255 /25 /18 /72 /20 /i255 /52 /20 /20 /31 /i255 /30 /27 /22 /72 /50 /49 /20 /49 /i255 /22 /31 /i255 /24 /25 /20 /i255 /52 /18 /64 /50 /64 /i255 /22 /23 /i255 /24 /25 /20 /i255 /20 /75 /30 /18 /31 /49 /20 /49 /i255 /72 /22 /24 /50 /31 /28 /i255 /55 /18 /30 /50 /24 /18 /63
+/22 /23 /i255 /24 /25 /20 /i255 /26 /18 /27 /28 /20 /24 /i255 /29 /22 /19/30 /18 /31 /32 /68 /i255 /56 /54 /i255 /26 /25 /20 /i255 /72 /18 /63 /51 /20 /i255 /23 /22 /27 /i255 /24 /25 /20 /i255 /23 /50 /20 /63 /49 /i255 /24 /50 /24 /63 /20 /49 /i255 /73 /42 /20 /24 /18 /50 /63 /i255 /22 /23 /i255 /50 /31 /24 /20 /27 /20 /64 /24 /i255 /30 /18 /50 /49 /i255 /49 /51 /20 /i255 /24 /22 /i255 /49 /20 /63 /18 /32 /i255 /50 /31 /i255 /30 /18 /32 /19/20 /31 /24
+/53 /62 /19/22 /51 /31 /24 /54 /74 /i255 /25 /18 /64 /i255 /52 /20 /20 /31 /i255 /30 /27 /22 /72 /50 /49 /20 /49 /i255 /22 /31 /i255 /18 /i255 /30 /20 /27 /i255 /64 /25 /18 /27 /20 /i255 /52 /18 /64 /50 /64 /68 /i255 /61 /54 /i255 /76/50 /24 /25 /i255 /27 /20 /64 /30 /20 /55 /24 /i255 /24 /22 /i255 /24 /25 /20 /i255 /23 /50 /20 /63 /49 /64 /i255 /24 /50 /24 /63 /20 /49 /i255 /73 /59 /22 /64 /24 /i255 /22 /23 /23 /20 /27
+/64 /25 /18 /27 /20 /25 /22 /63 /49 /50 /31 /28 /i255 /22 /23 /i255 /62 /55 /65 /51 /50 /27 /20 /27 /i255 /18 /31 /49 /i255 /59 /62 /29 /i255 /53 /17 /51 /19/52 /20 /27 /i255 /22 /23 /i255 /43 /25 /18 /27 /20 /64 /54 /74 /i255 /18 /31 /49 /i255 /73 /59 /22 /64 /24 /i255 /22 /23 /23 /20 /27 /i255 /64 /25 /18 /27 /20 /25 /22 /63 /49 /50 /31 /28 /i255 /22 /23 /i255 /62 /55 /65 /51 /50 /27 /20 /27 /i255 /18 /31 /49 /i255 /59 /62 /29
+/53 /50 /31 /i255 /69/54 /74 /77 /i255 /30 /63 /20 /18 /64 /20 /i255 /31 /22 /24 /20 /i255 /24 /25 /18 /24 /i255 /24 /25 /20 /i255 /52 /50 /23 /51 /27 /55 /18 /24 /50 /22 /31 /i255 /22 /23 /i255 /24 /25 /20 /i255 /72 /18 /63 /51 /20 /64 /i255 /52 /20 /24 /78 /20 /20 /31 /i255 /24 /25 /20 /i255 /62 /55 /65 /51 /50 /27 /20 /27 /i255 /18 /31 /49 /i255 /24 /25 /20 /i255 /59 /62 /29 /i255 /50 /64 /i255 /18 /64 /i255 /23 /22 /63 /63 /22 /78 /64 /79 /i255 /53 /50 /54
+/62 /55 /65 /51 /50 /27 /20 /27 /79 /i255 /45 /77 /56 /47 /77 /66 /61 /77 /46 /66 /57 /i255 /53 /66 /56 /68 /48 /46 /69/54 /80 /i255 /18 /31 /49 /i255 /53 /50 /50 /54 /i255 /59 /62 /29 /79 /i255 /17 /40 /41 /68/81 /82 /83 /84 /82 /85 /86 /87 /i255 /89 /90 /86 /83 /i255 /91 /92/91 /93 /94 /95 /i255 /95 /96 /97 /98 /96 /99 /100 /97 /101 /i255 /102 /103 /104 /94 /96 /105 /103 /95 /106/107
+/108 /100 /107 /96 /90 /82 /82 /82 /109 /90 /82 /110 /94 /96 /99 /94 /82 /95 /96 /111 /104 /94 /105 /94 /103 /104 /103 /82 /112 /96 /94 /113 /95 /93 /102 /82 /91 /93 /94 /95 /i255 /95 /96 /97 /98 /96 /99 /100 /97 /101 /i255 /102 /103 /104 /94 /96 /105 /103 /95 /106/107 /83 /82 /85
+OPEN OFFER FOR ACQUISITION OF UP TO 1,64,05,338 (ONE CRORE SIXTY -FOUR LAKH FIVE THOUSAND THREE 
+HUNDRED AND THIRTY -EIGHT) FULL Y PAID-UP  EQUITY  SHARES OF FACE VALUE OF ₹10 (INDIAN RUPEES TEN) 
+EACH (“EQUITY  SHARES”), REPRESENTING 26.00% (TWENTY -SIX PER CENT .) OF THE EXPANDED VOTING 
+SHARE CAPIT AL OF ROUTE MOBILE LIMITED (“TARGET COMP ANY”) FROM THE PUBLIC SHAREHOLDERS OF 
+THE TARGET COMP ANY  BY PROXIMUS OPAL (“ACQUIRER”) ALONG WITH PROXIMUS (“PAC”), IN ITS CAPACITY  
+AS PERSON ACTING IN CONCERT WITH THE ACQUIRER FOR THE PURPOSES OF THE OPEN OFFER, PURSUANT 
+TO AND IN COMPLIANCE WITH THE REQUIREMENTS OF THE SECURITIES AND EXCHANGE BOARD OF INDIA  
+(SUBST ANTIAL  ACQUISITION OF SHARES AND TAKEOVERS) REGULA TIONS, 2011, AS AMENDED (THE “SEBI 
+(SAST) REGULA TIONS”) (THE “OPEN OFFER”/“OFFER”).
+This post-of fer advertisement (“Post-Offer Advertisement ”) is being issued by Morgan Stanley India Company Private 
+Limited, the manager to the Open Offer (“Manager ”), for and on behalf of the Acquirer and the PAC, in connection with the 
+Open Offer to the Public Shareholders of the Target Company , in compliance with Regulation 18(12) of the SEBI (SAST) 
+Regulations. The detailed public statement dated 22 July 2023 (“Detailed Public Statement ” or “DPS”) with respect to the 
+aforementioned Open Offer was published on 24 July 2023 in the following newspapers: Financial Express (English), 
+Jansatta (Hindi) and Navshakti (Marathi) (collectively , the “ Newspapers ”).
+This Post-Of fer Advertisement should be read in continuation of, and in conjunction with the:
+(a)public announcement dated 17 July 2023 (“ Public Announcement ” or “ PA”);
+(b)Detailed Public Statement;
+(c)letter of of fer dated 15 March 2024 (“ Letter of Offer ” or “ LoF”); and
+(d)pre-of fer advertisement cum corrigendum to the DPS and the PA, dated 20 March 2024, published on 22 March 2024 in 
+the Newspapers.
+This Post-Of fer Advertisement is being published in the Newspapers. Capitalized terms used but not defined in this 
+Post-Of fer Advertisement shall have the same meaning assigned to such terms in the Letter of Of fer.
+The Public Shareholders of the Target Company are requested to kindly note the following information with respect to the 
+Open Of fer:
+Adfactors 311. Name of the T arget Company: Route Mobile Limited
+2. Name of the Acquirer and the P AC: Acquirer : Proximus Opal
+PAC: Proximus
+3. Name of the Manager to the Open Offer: Morgan Stanley India Company Private Limited
+4. Name of the Registrar to the Open Offer: KFin Technologies Limited
+5. Open Offer Details
+(a)Date of opening of the Open Offer: 27 March 2024 (W ednesday)
+(b)Date of closure of the Open Offer: 12 April 2024 (Friday)
+6. Date of payment of consideration: 24 April 2024 (W ednesday)
+7. Details of Acquisition
+Sr. Particulars  
+No.
+1. Offer Price (per equity share)  
+ 
+ 
+ 
+ 
+2. Aggregate number of shares tendered 1,64,05,338* 1,57,68,803
+3. Aggregate number of shares accepted 1,64,05,338* 1,57,68,803
+4. Size of the Of fer (Number of shares ₹ 26,98,13,67,249*^ ₹ 25,93,44,77,231
+multiplied by Of fer Price per share)
+5. Shareholding of the Acquirer and the P AC Acquirer : Nil (0.00%) Acquirer : Nil (0.00%)
+before agreements/Public Announcement PAC: Nil (0.00%) PAC: Nil (0.00%)
+(Number of Equity Shares and % of 
+Expanded V oting Share Capital)
+6. Shares acquired by way of agreements
+# #
+•Number Acquirer : 3,64,14,286 (57.71%) Acquirer : 3,64,14,286 (57.71% )
+•% of the Expanded V oting Share Capital PAC: Nil (0.00%) PAC: Nil (0.00%)
+7. Shares acquired by way of Open Of fer
+•Number Acquirer : 1,64,05,338* (26.00%*) Acquirer : 1,57,68,803 (24.99%)
+•% of the Expanded V oting Share Capital PAC: Nil (0.00%) PAC: Nil (0.00%)
+8. Shares acquired after Detailed 
+Public Statement
+•Number of shares acquired Acquirer : Nil (0.00%) Acquirer : Nil (0.00%)
+•Price of the shares acquired PAC: Nil (0.00%) PAC: Nil (0.00%)
+•% of the Expanded V oting Share Capital
+9. Post of fer shareholding of the Acquirer 
+and the P AC Acquirer : 5,28,19,624* Acquirer:  5,21,83,089 
+#
+•Number (83.71%)* (82.70%)
+•% of the Expanded V oting Share Capital PAC: Nil (0.00%) PAC: Nil (0.00%)
+10. Pre and Post of fer shareholding of the public Pre-offer Post-offer Pre-offer Post-offer
+$ $
+•Number 2,66,83,166 1,02,77,828* 2,66,83,166 1,09,14,363
+•% of the Expanded V oting Share Capital (42.29%) (16.29%)* (42.29%) (17.30%)12 x 37
+Issued on behalf of the Acquirer Registrar to the Open Offer
+and the P AC by the Managerth rd
+Registered Ofﬁce: 4  Dimension, 3  floor , Mind Space, Malad (W est), Mumbai, Maharashtra – 400 064, India
+Corporate Identification Number (CIN): L72900MH2004PLC146323
+Tel: 022-40337676; W ebsite: www .routemobile.comROUTE MOBILE LIMITEDPOST OFFER ADVERTISEMENT IN ACCORDANCE WITH REGULA TION 18(12) OF THE SECURITIES AND EXCHANGE 
+BOARD OF INDIA  (SUBST ANTIAL  ACQUISITION OF SHARES AND T AKEOVERS) REGULA TIONS, 201 1 (AS AMENDED)
+Issued by the Manager to the Open Offer
+For and on behalf of the Acquirer and P AC
+Proximus Opal (Acquirer)
+Proximus (P AC)
+Place : Belgium
+Date : 26 April 2024₹1,644.67 per Equity Share being 
+the aggregate of Offer Price of 
+₹1,626.40 payable along with the 
+Applicable Interest of ₹18.27 per 
+Equity Share₹1,644.67 per Equity Share 
+being the aggregate of Offer 
+Price of ₹1,626.40 payable along 
+with the Applicable Interest of 
+₹18.27 per Equity Share Proposed in the Open Offer 
+Document (Letter of Offer) Actuals
+Morgan Stanley India Company Private Limited
+Address : 18F , Tower 2, One W orld Center , 
+Plot 841, Senapati Bapat Marg, Lower Parel, 
+Mumbai - 400013, India
+Contact Person : Ankit Garg
+Tel. No .: +91 22 61 18 1000
+Fax No .: +91 22 61 18 101 1
+Email:  ankit.garg@morganstanley .com
+SEBI Registration Number : INM00001 1203
+Validity Period : Permanent RegistrationKfin T echnologies Limited 
+Address : Selenium, Tower B, Plot No- 31 and 32, 
+Financial District, Nanakramguda,
+Serilingampally , Hyderabad, 
+Rangareddi - 500 032, Telangana, India 
+Contact Person : M. Murali Krishna
+Tel No .: +91 40 6716 2222/18003094001
+Fax No .: +91 40 6716 1563
+E-mail:  rml.openof fer@kfintech.com 
+Investor Grievance E-mail : einward.ris@kfintech.com
+SEBI Registration Number : INR000000221
+Validity Period : Permanent Registration
+Notes:  
+*Assuming full acceptance under the Open Of fer.
+^Aggregate of (a) ₹26,68,16,41,723 i.e., the maximum consideration payable under this Open Offer assuming full 
+acceptance at the Of fer Price; and (b) ₹29,97,25,526 in interest at the Applicable Interest of ₹18.27 per Equity Share.
+#The Underlying Transaction contemplated by the Share Purchase Agreement is yet to be consummated and it will be 
+consummated within the time-period prescribed under the SEBI (SAST) Regulations.
+$This includes 3,08,920 outstanding employee stock options of the Target Company already vested as on the date of 
+the Letter of Of fer, exercisable into equal number of Equity Shares.
+8. The Acquirer , the PAC along with their respective directors severally and jointly accept full responsibility for the 
+information contained in this Post-Of fer Advertisement (other than such information as has been obtained from public 
+sources or provided by or relating to and conﬁrmed by the Target Company and/or the Sellers) also for the obligations 
+of the Acquirer and the P AC laid down in the SEBI (SAST) Regulations.
+9. This Post-Offer Advertisement will also be available on SEBI’s website (www.sebi.gov.in), BSE Limited 
+(www .bseindia.com), National Stock Exchange of India Limited (www .nseindia.com) and at the registered office of the 
+Target Company .

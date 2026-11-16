@@ -1,8 +1,8 @@
 # NiftyTotalMarket — restructuring filings (spin-offs, demergers, schemes)
 
-**Generated:** 2026-11-09 08:06 UTC
-**Window:** the 365 days to 2026-11-09 · **Universe:** 750 official
-NiftyTotalMarket constituents · **Rows:** 4107 filings across 533 companies
+**Generated:** 2026-11-16 13:07 UTC
+**Window:** the 960 days to 2026-11-16 · **Universe:** 750 official
+NiftyTotalMarket constituents · **Rows:** 9630 filings across 677 companies
 
 ## What is here
 - `_announcements_restructuring.csv` — one row per exchange filing that
@@ -15,14 +15,14 @@ NiftyTotalMarket constituents · **Rows:** 4107 filings across 533 companies
 - `_fetch_log.csv` — what each run did.
 
 ## Kinds (first matching tag wins; all tags kept in `tags`)
-- `merger`: 913
-- `rights_issue`: 835
-- `preferential_issue`: 702
-- `slump_sale`: 637
-- `demerger`: 350
-- `capital_reduction`: 327
-- `scheme_other`: 243
-- `subsidiary_listing`: 100
+- `rights_issue`: 2102
+- `merger`: 2100
+- `preferential_issue`: 1628
+- `slump_sale`: 1500
+- `demerger`: 826
+- `capital_reduction`: 752
+- `scheme_other`: 509
+- `subsidiary_listing`: 213
 
 ## Sources, honestly
 NSE's corporate-announcements API is read month by month for the whole
