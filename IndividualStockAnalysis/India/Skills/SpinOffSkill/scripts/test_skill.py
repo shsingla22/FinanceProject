@@ -948,7 +948,7 @@ def test_confirmed_needs_a_scheme_named_on_the_exchange_record_and_the_judge_mov
               "parent_or_spin": "parent", "selling_pressure": "unclear", "reason": "portfolio",
               "listing_timeline": "No listing: the postal ballot notice says size, nature and scale did not warrant creation of a separate entity"}
     kind, why = SO.judge_override({**base, "company": "ABB India Limited", "headlines": results}, j_sale)
-    assert kind == "other" and "slump sale" in why
+    assert kind == "other" and ("slump sale" in why or "answered no" in why)
     j_bosch = {**j_sale, "what_is_spun": "No demerger stated; documents describe sale of the Video solutions business", "listing_timeline": "not stated"}
     assert SO.judge_override({**base, "company": "Bosch Limited", "headlines": results}, j_bosch)[0] == "other"
     # …but a demerger whose rationale mentions a past sale is left alone
@@ -1251,6 +1251,39 @@ def test_sebi_listing_disclosure_aliases_and_renames_from_the_fy25_backtest():
     # 'moving into listed Kitex Garments' names this company as the receiver
     jk = {**j, "what_is_spun": "Kitex Childrenswear's Textile Business Division moving into listed Kitex Garments"}
     assert SO.judge_override({**base, "company": "Kitex Garments Ltd."}, jk)[0] == "other"
+
+
+def test_rules_from_the_long_backtests_unverified_list(monkeypatch):
+    base = {"symbol": "X", "company": "X Ltd", "kind": "demerger", "stage": "announced", "facts": {}, "headlines": [],
+            "first_filing": "2024-06-26", "confidence": ("confirmed", "")}
+    j = {"status": "judged", "parent_or_spin": "parent", "selling_pressure": "unclear", "reason": "x", "listing_timeline": "not stated"}
+    # Viyash: 'Not stated — documents describe an amalgamation … into Sequent', whatever it calls the company
+    assert SO.judge_override(base, {**j, "what_is_spun": "Not stated — documents describe an amalgamation of Viyash Life Sciences and subsidiaries into Sequent"})[0] == "merger"
+    # Adani Enterprises today: 'not stated; … no Food FMCG demerger'
+    assert SO.judge_override(base, {**j, "what_is_spun": "not stated; filings show amalgamations under the Composite Scheme and a cash sale of the AWL stake, no Food FMCG demerger",
+                                    "parent_or_spin": "unclear"})[0] == "other"
+    # GMR: the judge answers the listing question with no
+    assert SO.judge_override(base, {**j, "what_is_spun": "GIL's non-airport business, demerged into GMR Power", "listing_timeline": "No new listing: GIL will continue as the listed entity"})[0] == "other"
+    # Tata Communications: to a wholly-owned subsidiary, nothing about listing; Natco: to a WOS that WILL list
+    assert SO.judge_override(base, {**j, "what_is_spun": "new edge digital services business, hived off to wholly-owned subsidiary Novamesh Limited"})[0] == "other"
+    natco = {**base, "facts": {"listing_sought": {"yes": 2}}}
+    assert SO.judge_override(natco, {**j, "what_is_spun": "Crop Health Sciences division demerged into a wholly owned subsidiary"})[0] is None
+    assert SO.judge_override(base, {**j, "what_is_spun": "Crop Health Sciences division demerged into a wholly owned subsidiary",
+                                    "listing_timeline": "the equity shares of NCHSL shall be listed on BSE and NSE after the scheme"})[0] is None
+    # SCI: the resulting company already listed before these filings, and nothing expected
+    monkeypatch.setattr(SO, "_EQUITY", ({"SCILAL": "2024-03-01", "AWL": "2022-02-08"},
+                                        {SO._norm_name("Shipping Corporation of India Land and Assets Limited"): "SCILAL",
+                                         SO._norm_name("Adani Wilmar Limited"): "AWL"}))
+    sci = {**base, "symbol": "SCI", "facts": {"resulting_company": "Shipping Corporation of India Land and Assets Limited"}}
+    assert SO.judge_override(sci, {**j, "what_is_spun": "192 land assets transferred to a separate land-holding company"})[0] == "other"
+    # …but Adani Enterprises' holders receiving listed Adani Wilmar shares, with a listing expected, is a spin-off
+    ael = {**base, "symbol": "ADANIENT", "facts": {"resulting_company": "Adani Wilmar Limited"}}
+    assert SO.judge_override(ael, {**j, "what_is_spun": "Food FMCG division demerged into Adani Wilmar",
+                                   "listing_timeline": "the Resulting Company New Equity Shares shall be listed on BSE"})[0] is None
+    # Astral: the judge read the withdrawal no headline carried
+    conf, stage = SO.judge_adjust(base, {**j, "what_is_spun": "Chemicals undertaking into subsidiary Astral Chemie Limited; scheme later withdrawn"})
+    assert conf[0] == "indicated" and stage == "withdrawn"
+    assert SO.judge_adjust({**base, "stage": "listed"}, {**j, "what_is_spun": "x; scheme later withdrawn"}) == (None, None)
 
 
 def test_a_filing_speaking_of_the_company_and_the_headline_name_settle_direction():

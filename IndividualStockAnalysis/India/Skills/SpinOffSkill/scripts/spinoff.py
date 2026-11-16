@@ -1296,8 +1296,37 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     if NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
         return "merger", "the judge read an amalgamation / liquidation / insolvency matter; nothing is separated"
     starts_empty = bool(re.match(r"\s*(not stated|nothing|none|no\b|n/?a)\b", judge.get("what_is_spun", ""), re.I))
+    tl = judge.get("listing_timeline") or ""
+    # 'Not stated — the documents describe an amalgamation …': the opening
+    # is the verdict, whatever the judge then calls the company (Viyash)
+    if starts_empty and NOT_A_DEMERGER_RX.search(what) and not DEMERGER_WORDS_RX.search(spun):
+        return "merger", "the judge read the complete documents: not stated what is separated — an amalgamation / liquidation / insolvency matter"
+    # 'not stated; … no Food FMCG demerger': the filed scheme is not this company's demerger
+    if starts_empty and re.search(r"\bno\b[^.;]{0,60}\bde-?merger\b", what, re.I):
+        return "other", "the judge found no demerger of this company in the filed scheme"
     if starts_empty and ACQUISITION_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
         return "other", "the judge read an acquisition or stake purchase; nothing is separated"
+    # the judge on listing: 'No new listing: GIL will continue as the listed entity'
+    if re.match(r"\s*no (?:new |separate )?listing\b", tl, re.I):
+        return "other", f"the judge read the listing question as answered no: “{tl[:140]}”"
+    # the business goes to a wholly-owned subsidiary and nothing says it will list
+    sought = sit.get("facts", {}).get("listing_sought") or {}
+    listing_expected = bool(sought.get("yes")) or bool(re.search(r"\b(?:will|shall|would|expected|proposed|to) be listed|listing (?:of|is) (?:expected|proposed|to be sought)|list(?:ed|ing) (?:on|at) (?:the )?(?:bse|nse|stock exchange)",
+                                                               tl, re.I))
+    if re.search(r"\b(?:hived[- ]off|transferred|moved|demerged|vested)\s+(?:to|into|in)\s+(?:a |its |the |an? existing )?wholly[- ]owned subsidiar", what, re.I) \
+            and not listing_expected:
+        return "other", "the business goes to a wholly-owned subsidiary and no listing is stated; a reorganisation inside the group"
+    # the resulting company the filings name was already listed before these filings: history
+    rc = sit.get("facts", {}).get("resulting_company", "")
+    dates, names = equity_list()
+    rsym = names.get(_norm_name(rc)) if rc else None
+    if rsym and rsym != sit.get("symbol") and dates.get(rsym) and sit.get("first_filing") \
+            and dates[rsym] < (dt.date.fromisoformat(sit["first_filing"]) - dt.timedelta(days=30)).isoformat() \
+            and not sit.get("facts", {}).get("is_the_spin") and re.match(r"\s*not stated", tl, re.I):
+        # (a distribution of an already-listed company's shares — Adani
+        # Enterprises' holders receiving Adani Wilmar — says when they list)
+        return "other", (f"the resulting company {rc} was listed on {dates[rsym]}, before these filings; "
+                         f"a completed demerger the filings still mention")
     # a slump sale / business transfer: the business leaves for cash, the
     # holders receive no new listing (ABB's robotics, Bosch's building tech)
     sold = SLUMP_SALE_RX.search(what) or SLUMP_SALE_RX.search(judge.get("listing_timeline") or "")
@@ -1350,6 +1379,11 @@ def judge_adjust(sit: dict, judge: dict) -> tuple[tuple[str, str] | None, str | 
         return None, None
     spun = judge.get("what_is_spun") or ""
     heads = sit.get("headlines", [])
+    # the judge read the withdrawal ('scheme later withdrawn') that no headline carried
+    if re.search(r"\b(?:scheme|proposal|demerger|arrangement)\b[^.;]{0,60}\b(?:withdrawn|called off|abandoned|not proceed\w*)\b|"
+                 r"\b(?:withdrawn|called off|abandoned)\b[^.;]{0,40}\b(?:scheme|proposal|demerger)\b",
+                 f"{spun} {judge.get('listing_timeline') or ''}", re.I) and sit.get("stage") not in ("record_date", "listed"):
+        return ("indicated", "withdrawn — the judge read in the documents that the scheme was withdrawn"), "withdrawn"
     filed_demerger = any(h["kind"] == "demerger" and not h["category"].startswith("Earnings call") for h in heads)
     on_calls = any(h["category"].startswith("Earnings call") for h in heads)
     conf = sit.get("confidence", ("", ""))[0]
