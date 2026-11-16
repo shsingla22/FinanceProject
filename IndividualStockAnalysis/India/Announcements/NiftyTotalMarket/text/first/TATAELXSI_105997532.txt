@@ -1,0 +1,94 @@
+ 
+  
+September 24,  2024  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+ 
+Dear Sir s, 
+ 
+Sub: Press Release – “Tata Elxsi Delivers World’s First RDK -B Integration on Qualcomm 5G Fixed 
+Wireless Access Platform ” 
+ 
+Please find enclosed the Press Release dated September 24, 2024, titled “Tata Elxsi Delivers World’s 
+First RDK -B Integration on Qualcomm 5G Fixed Wireless Access Platform ”. 
+ 
+This disclosure is made in terms of requirements of Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+ Further details of the Press Release can also be accessed at following link:  https://  
+https://www.tataelxsi.com/news -and-events/tata -elxsi -delivers -world -s-first-rdk-b-integration -on-
+qualcomm -5g-fixed -wireless -access- platform  
+ 
+This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Cauveri Sriram  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+ Tata Elxsi Delivers  World’s First RDK -B Integration on Qualcomm 5G 
+Fixed Wireless Access  Platform  
+ 
+Bengaluru, September 24 , 2024:  Tata Elxsi, a global leader in design and technology 
+services, today announced the successful integration of the RDK -B software stack with th e 
+Qualcomm ® 5G FWA Gen 3 Platform. Th is first of its kind integration opens a new pathway 
+for operators to deliver fast, rel iable, and scalable high -speed FWA solutions. Integration of 
+the RDK -B middleware  includes key features such as Wi -Fi 6 connectivity, packet statistics, 
+and advanced security options , ensuring the platform is versatile and can be deployed  in 
+both indoor and outdoor environments.  Operators can now deliver  value -added services 
+like Quality of Service (QoS), band steering, parental control, and VPN, enhancing the overall 
+broa dband experience.   
+Gautam Sheoran  - VP and GM , Wireless Broadband and Communications  at Qualcomm  
+Technologies, Inc. stated :  
+"We are proud to collaborate closely with Tata Elxs i, who has leveraged  their considerable  
+expertise to port the RDK -B stack to our 5G FWA Gen 3 Platform, featuring the Snapdragon ® 
+X75 Modem -RF System . This critical step empower s operators to accelerate time -to-market, 
+deliver high  performance  FWA solutions , and reduce development efforts as they deploy 
+powerful new FWA CPE solutions . We look forward, through continued collaboration with 
+Tata Elxsi , to expanding our engagement with the broader RDK community, giving operators 
+more choices and flexibility in deploying state -of-the-art solutions."  
+Priya S Kumar – Head, Media and Communications  at Tata Elxsi, stated :   
+“This integration broadens  the RDK ecosystem  and silicon diversity , which has traditionally 
+centered on wired technologies like DOCSIS and Fiber -to-the-Home (FTTH). By incorporating 
+RDK-B into the cellular -managed WAN space, Tata Elxsi is excited to collaborate in 
+positioning the Snapdragon X75 platform as a future -ready solution for high -performance 
+broadband applications. Tata Elxis's continuous commitment to the RDK ecosystem enables 
+SoC's, OEMs and operators to rapidly innovate and scale, addressing the demands of next -
+generation broadban d technologies. ” 
+Looking ahead, Tata Elxsi will upgrade the platform to include  next -generation features such 
+as Wi -Fi 7. This upgrade will further enhance FWA devices, offering operators more flexible, 
+scalable, and cost -effective solutions  setting the stage for the next generation of wireless 
+innovation.   
+ 
+ 
+About Tata Elxsi  
+Tata Elxsi is among the world’s leading design and technology services providers across 
+industries, including Automotive, Broadcast, Communications, Healthcare and 
+Transportation.  
+We are helping customers reimagine their products and services through design thinking 
+and applying digital technologies such as IoT (Internet of Things), Cloud, Mobility, Virtual 
+Reality and Artificial Intelligence. For more information, visit  www.tataelxsi.com  
+Media Contact:  
+Tata Elxsi  
+Hari Balan  
+Corporate Communications  
+Telephone: +91 80 2297 9123  
+Email:  media@tataelxsi.com  
+ 
+Snapdragon and Qualcomm branded  product s are products of  Qualcomm Technologies, Inc. 
+and/or its subsidiaries. Snapdragon is a trademark or registered trademark of Qualcomm 
+Incorporated.  
+ 
+ 

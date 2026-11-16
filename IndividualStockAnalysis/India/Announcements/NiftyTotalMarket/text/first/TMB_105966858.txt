@@ -1,0 +1,71 @@
+Secretarial Section  
+Head Office, 57 - V.E. Road,  
+Thoothukudi – 628 002.  
+☏: 0461 -2325136  
+e-mail  : secretarial@tmbank.in  
+CIN: L65110TN1921PLC001908   
+ 
+Ref.No.TMB.SE. 97/2024-25            
+                               27.08.2024   
+The Manager,  
+National Stock Exchange of India Ltd,  
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+'G' Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai - 400 051.  The Manager,  
+Bombay Stock Exchange limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street.  
+Mumbai – 400 001.  
+ 
+Ref: Symbol: TMB / Scrip Code: 543596  
+ 
+Dear Sir/Madam,  
+Sub: Intimat ion regarding loss of share certificate s 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, this is to inform you that, our Bank has received intimation from our 
+Registrar and Share Transfer Agent (“RTA”), M/s.  Link Intime  India Private Limited (enclosed 
+herewith) on  27.08.2024 , regardi ng loss of share certificate/s from our shareholder/s , for 
+issue of duplicate share certificate(s) in lieu thereof . The details  are given below:  
+ 
+Name of the Shareholder  Folio 
+No. Certificate  
+No. No of 
+Shares  Distinctive Nos.  
+From  To 
+ARUMUGAPERUMAL.T.  18346  58606  1000  32252955  32253954  
+KUPPUTHAI.G.  6500  10077  2 127174  127175  
+  
+The claim for issue of duplicate share certificate will be considered by the  Committee of 
+Executives, subject to receipt of requisite  documents from the shareholder, which needs to 
+be in order and only after compliance of all the regulatory  formalities.   
+ 
+Kindly take the same on record .  
+ 
+Yours faithfully,  
+For Tamilnad Mercantile Bank Limited  
+ 
+Swapnil Yelgaonkar        
+Company Secretary & Compliance Officer  
+Membership No: ACS 21877  
+
+FROM TO
+27/08/2024 58606 
+27/08/2024 10077 STOP TRAN 
+NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   Tamilnad Mercantile Bank Limited
+STOP TRANSFER REGISTER AS ON 27/08/2024
+From: 27/08/2024 To: 27/08/2024
+---------------------------------------------------------------------------------------------------------------------------
+DISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+127175 2 Lost By 
+Holder---------------------------------------------------------------------------------------------------------------------------
+ST801667 18346 ARUMUGAPERUMAL.T. 58606 32252955 32253954 1000 Duplicate cum 
+Transmission
+ST801669 6500 KUPPUTHAI.G. 10077 127174 
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 1002 
+---------------------------------------------------------------------------------------------------------------------------

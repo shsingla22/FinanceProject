@@ -1,0 +1,169 @@
+    
+ 
+ZOMATO LIMITED  
+Registered Address:  Ground Floor 12A, 94 Meghdoot, Nehru Place, New Delhi - 110019,  India  
+CIN:  L93030DL2010PLC198141 , Telephone Number:  011 - 40592373  
+ 
+ 
+Department of Corporate Services,  
+BSE Limited  
+Phiroze Jeejeebhoy Towers, Dalal Street,  
+Mumbai – 400 001   
+ 
+Listing Department,  
+National Stock Exchange of India Limited  
+C-1, G-Block, Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400 051  
+ 
+ 
+Scrip Code: 543320, Scrip Symbol: ZOMATO  
+ISIN: INE758T01015  
+ 
+Sub: Shareholders ’ letter dated August 21, 2024  
+ 
+Dear Sir/ Ma’am,  
+ 
+Pursuant to Regulations 30 of the S ecurities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed shareholders ’ letter dated August 
+21, 2024  regarding propo sed acquisition of Paytm's entertainment ticketing business . 
+ 
+The above information will also be hosted on the website of the Company i.e. www.zomato.com  
+ 
+For Zomato Limited  
+ 
+ 
+Sandhya Sethia  
+Company Secretary & Compliance Officer  
+Place: Gurugram  
+Date: August 21, 2024  
+Encl.: As above  
+ 
+ 
+ 
+
+1 In the letter below, we will address the key questions that we think investors might have 
+with regards to the proposed acquisition.  
+Q1. Can you give us an overview of the business being acquired?  
+Akshant: We have signed definitive agreements to acquire Paytm’s entertainment ticketing business 
+which is used by customers in India to discover and purchase tickets for movies, sports and events (live 
+performances). The ticketing offering can currently be accessed by customers through the a) main Paytm app and web b) two of its standalone platforms (app and web) called ‘Paytm Insider’ and ‘TicketNew’ and c) offline box office sales.  
+In FY24, the business being acquired generated a combined GOV of INR 2,000+ crore (29% YoY growth) by 
+enabling purchase of 78 million tickets by 10+ million unique customers on its platform. During the same 
+period, the business generated Revenue of INR 297  crore and Adjusted EBITDA of INR 29 crore (translating 
+to about 1.5% Adjusted EBITDA margin as a % of GOV).  
+The business is being acquired for a total consideration of INR 2,048 crore (subject to any changes in cash 
+and net working capital as at closing). The transaction also includes a transition services agreement where the ticketing business will continue to run on the Paytm app for a period of up to 12 months to ensure a smooth transition of the business from Paytm to Zomato.  
+As part of the transaction, ~280 employees will move to Zomato. There is no other major physical infrastructure being acquired.  
+Q2. You already have two large businesses –  food delivery and quick commerce. 
+Why get into a new business and distract the team from the core businesses?  
+Deepinder:  This is not really an absolutely new business for us as we have already been doing ticketing as 
+a business for more than a year now and have been eyeing building more use- cases for that business. Just 
+to recap, our going -out business (which includes dinin g-out and event ticketing) did INR 3,225 crore of 
+GOV in FY24 growing at 136% YoY. It never gets spoken about much given all the attention food delivery and quick commerce get but this is already a profitable and large business for us.  
+Our stated mission as an organisation is to build products and services that power India’s changing 
+lifestyles. We believe, over the next decade and beyond, going -out experiences will continue to grow 
+strongly in lockstep with overall growth in lifestyle a nd consumption.The proposed acquisition helps us 
+add more scale and offer newer use- cases (like movie and sports ticketing) to our customers in this 
+segment. It makes us more relevant for our customers which also gives us an opportunity to spin -off the 
+business into a new app (we are going to call it District) which could be a game changer for each of these use cases given the need for a single brand as a destination in this segment.  
+Q3. Please elaborate on that. Why do you need a separate app and brand? Why 
+not use the Zomato app which already has a large customer base?  
+Deepinder: If you see the market landscape today, going -out (for entertainment) is not really an organised 
+category in India. Customers have to go to different apps for booking movie tickets, IPL tickets, dining -out 
+table reservations, discovering live entertainment,  booking weekend getaways, etc. Having all these use-
+cases addressed through ‘District’ -  our dedicated going- out app -  has the potential to drive strong 
+customer engagement and incremental demand across each of these use cases -  some of these a re 
+strong customer pull use cases (like a blockbuster movie ticket booking) while others could be more discovery based transactions (like a pop -up by a star chef at a local restaurant). We want to position 
+“District” as the brand that consumers turn to whe n they are thinking of going out.  
+2 In line with this thinking and our belief around building ‘super brands’ (Zomato, Blinkit) as opposed to ‘super 
+apps’, we think that a new brand will help customers build association with going -out use cases and also 
+allow us to build a loyalty program whi ch drives higher retention. It also makes it much easier for us to 
+keep adding new use- cases for our customers given more real estate in a new app vs trying to fit it in a tab 
+on the Zomato app. This also helps us keep the Zomato brand even more closely as sociated with food 
+delivery only.  
+Q4. So what all will be part of the District app, and how are you going to ensure 
+that any transition to District doesn’t lead to any loss of value?  
+Deepinder: Post this acquisition, the going -out business would be spread across multiple different 
+platforms - 1) Zomato’s existing going -out business (dining -out + event ticketing) would continue to run on 
+the Zomato app and 2) the acquired business (movie + sports + event ticketing) would continue to run on the Paytm’s main app (for a transition period of up to 12 months) along with Insider and TicketNew apps (which would both get transferred to Zomato as part of the transaction). In the short term, District app wil l 
+duplicate the offerings above and over time, we will gradually nudge our customers to move from the 
+Zomato / Paytm / Insider / TicketNew apps to the District app. Once most customers start transacting on 
+the District app, we will remove the duplication and shut -down this business on all the other apps. 
+Eventually, there will just be a button to launch the District app on the Zomato app (like it is for Blinkit today), so that we continue to tap into the large customer base of Zomato.  
+Ensuring a smooth discovery and booking experience for our customers and business continuity for our merchants will be our top -most priority during this transition.  
+Q5. When do you expect to launch the District app?  
+Deepinder: Anytime in the next few weeks.  
+Q6. How do you justify the valuation of the business being acquired?  
+Akshant: We are acquiring this business at ~1.0x trailing Enterprise value / FY24 GOV multiple, which we 
+believe is fair vis -a-vis relative valuations of other comparable companies.  
+Further, as a measure of good governance, we have also obtained a fair valuation report from KPMG on the valuation of the target business. Kotak Mahindra Capital Co. Ltd. acted as a financial advisor to Zomato and has also given a fairness opinion confirming that the va luation of the target business is fair from a 
+financial point of view.  
+Q7. M&A usually has a low success rate. How likely is this to work in your 
+opinion?  
+Deepinder: Success here means a) successful transition of the customer traffic from Paytm / Insider / 
+TicketNew apps to District app over the next 12 months and b) the new team continuing to build on the 
+vision from hereon. In terms of traffic redirections, we are fa irly confident that we will be able to pull this 
+off – this needs high intensity execution muscle (for which we have roped in Rahul Ganjoo, and Pradyot 
+Ghate - two Zomans who were instrumental in making the Uber Eats transition work). We might need to 
+ince ntivise customers to move from Zomato / Paytm / Insider / TicketNew to District –  but that is merely a 
+marginal financial risk as of now, which we will try to eliminate as much as possible.  
+On the people side, this acquisition is our first major acquisition where we are acquiring a team that we do not know very well (in Uber Eats acquisition we did not acquire any team and in Blinkit we knew the 
+founder and team really well). We are betting o n the team much more this time and hoping everything 
+3 works out well. The main driver of success is going to be cultural integration of the new team that will join 
+us – which means assimilation of the new team into our flattish culture.  
+Q8. How should we think about the long -term scale and margins in the going -out 
+business?  
+Deepinder: The answer depends on what incremental use- cases we are able to build on top of what we 
+already have (including what we will acquire through the proposed transaction). Post this acquisition, FY26 GOV (first full financial year post the acquisition) basis t he business that we have today should be INR 
+10,000+ crore (and growing rapidly). Any further step change in scale here will depend on our ability to build newer use -cases like shopping, staycations (travel), etc.  
+In terms of profitability, in the near term, we expect the going -out 
+business to continue to remain near break -even on an Adjusted 
+EBITDA basis (as has been the case so far). In the medium to long term, this business has the potential to deliver 4 -5% Adjus ted 
+EBITDA margin as a % of GOV if we execute well. As we mentioned 
+in response to Q3, we see the going -out business as a combination 
+of multiple categories with strong network effects - with some 
+categories driving traffic and certain categories driving p rofits. 
+Idea is to drive profitability at a combined level while allowing for 
+different sub- categories to operate at different margin profiles.  
+Akshant: In terms of balance sheet profile, this business is also asset light (like our other B2C businesses), 
+except for some working capital (advances paid to merchants).  
+Q9. When can we expect the transaction to close?  
+Akshant: We expect the transaction to close within this quarter, subject to satisfactory completion of all 
+closing conditions.  
+Q10. Anything else that you want to share?  
+Akshant: We will quickly talk about the deal structure. Paytm’s entertainment ticketing business is housed 
+across multiple entities within the Paytm ecosystem including the parent entity –  One97 Communications 
+Ltd. (“OCL”), and two of its subsidiaries –  ‘Orbgen Tec hnologies Pvt Ltd (“OTPL”) and ‘Wasteland 
+Entertainment Pvt Ltd (“WEPL”). As part of the transaction:  
+(1) the movies and events ticketing businesses of OCL will be carved -out and transferred by way of slump 
+sale to OTPL and WEPL respectively  
+(2) Zomato will do a primary infusion into OTPL and WEPL for an amount equal to the slump sale 
+consideration, which will be used to discharge the consideration payable to OCL for the slump sale  
+(3) simultaneously Zomato will acquire 100% stake in OTPL and WEPL from OCL  
+(4) Post closing, OTPL and WEPL will become wholly owned subsidiaries of Zomato.  
+ 
+  
+ 
+  
+Continued on next page.  
+
+4  
+ 
+-- 
+THE END  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 

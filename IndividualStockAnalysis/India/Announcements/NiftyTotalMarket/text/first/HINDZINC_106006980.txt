@@ -1,0 +1,372 @@
+ 
+ 
+Sensitivity: Public (C4)   
+HZL/2024 -25/SECY /107                                                        September  30, 2024  
+  
+  
+BSE Limited  National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers  Exchange Plaza, 5th Floor Plot No., C/l, G Block  
+Dalal Street, Fort  Bandra -Kurla Complex, Bandra (East),  
+Mumbai – 400 001  Mumbai – 400 051  
+  
+Kind Attn: General Manager – Department  
+of Corporate Services  Kind Attn: Head Listing & Corporate 
+Communication  
+  
+Scrip Code: 500188  Trading Symbol: “HINDZINC”  
+ 
+ 
+Dear Sir/Madam,  
+ 
+Sub: Climate Action Report 2023 -24 
+ 
+Please find enclosed herewith the Climate Action Report for the financial year 2023 -24 of the 
+Company . 
+ 
+This is for your information and records.  
+ 
+Thanking You.  
+  
+Yours faithfully , 
+For Hindustan Zinc Limited  
+ 
+ 
+ 
+Harsha Kedia  
+Company Secretary & Compliance Officer  
+ 
+Encl: as above  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Climate Action Report 2024Hindustan Zinc Limited
+1
+HINDUSTAN ZINC LIMITEDCLIMATE ACTION REPORT 2024About this 
+ReportWhat’s 
+Inside
+This Climate Action Report (this “Report”) 
+pertains to Hindustan Zinc Limited and covers 
+the qualitative and quantitative data for the 
+year ended March 31, 2024. 
+Hindustan Zinc’s progress towards its 
+climate change goals is described in detail 
+in the Climate Action Report (CAR), including 
+the performance against targets and the 
+implementation of the relevant projects. The 
+report provides insights into the HZL’s climate 
+change strategy and actions taken to mitigate 
+its impacts. 
+PERSPECTIVE INCLUDED IN THIS 
+REPORT 
+This is our fourth edition of the Climate Action 
+Report (formerly known as TCFD report) which 
+is being aligned with the principles contained 
+in the IFRS S2 ‘Climate-related disclosures’, 
+issued by the International Sustainability 
+Standards Board’s (ISSB).
+This report focusses on climate-related 
+disclosure and provides comprehensive and 
+comparable information about the impact of 
+climate change and our mitigation strategies.
+In addition to the Sustainability Report, 
+which Hindustan Zinc issued for disclosures 
+pertaining to other Environmental, Social, and 
+Governance (ESG) parameters following the 
+GRI, UNGC and FIMI frameworks, this report 
+focusses on risks and opportunities related to 
+climate change. 
+EXTERNAL ASSURANCE 
+We safeguard the quality of information 
+contained in this report through a robust 
+assurance process. The content and data 
+disclosed in this report have been externally 
+assured by Mazars Advisory LLP in accordance 
+with the requirement of the Assurance 
+Standard ISAE 3000 (Revised) ‘Assurance 
+Engagements other than Audits or Reviews of 
+Historical Financial Information’.
+Key Highlights FY 2023-24 2
+Key Facts 3
+Message from the Chairperson  4
+Message from the CEO 6
+Executive Summary  8
+Climate Change Risk Assessment  9
+Journey towards Net Zero 12
+Governance 14Alignment of Remuneration Policy  20 
+with Climate Goal
+Climate Policy Engagement &  22 
+Advocacy Approach
+Strategy 26
+Transitional Risk Assessment  30
+Financial Alignment  36
+Value Chain Risk Assessment  42
+EcoZen: Low Carbon Zinc 46
+Risk Management  48
+Metrics & Targets 52
+Way Forward 56
+IFRS S2 Alignment 58
+List of Abbreviations  60
+Assurance Statement  62
+Key 
+Highlights 
+FY 2023-24
+  EcoZen:  Low carbon Zinc with <1 tonne of 
+GHG emission per tonne of Zinc launched in 
+July 2024
+  Validated SBTi Targets aligned with 1.5oC 
+scenario, to reduce Scope 1 & Scope 2 
+emissions by 50% & Scope 3 emissions by 
+25% by 2030 & Net Zero by 2050
+  Started receiving green power from 450 MW 
+RE-RTC power delivery agreement (PDA) in 
+1st phase. The 180 MW Bikaner solar power 
+project is the centrepiece of this strategic 
+partnership and has been completed a year 
+ahead of schedule in May 2024
+  100% renewable power sourcing for 
+Pantnagar Metal Plant
+  76,035 TCO 2e emission reduced by 
+biomass use
+  MoU signed for 180 LNG  vehicles for the 
+transport of finished goods & IUT movement 
+and out of these, 41 vehicles have been 
+deployed in FY 2023-24
+  3 underground battery electric vehicle  
+(BEV’s) deployed at SK Mines. In total 31 EV’s 
+have been deployed across HZL including 10, 
+55 MT EV trucks being deployed in FY 2023-
+24 for interunit transport. Further, three EV 
+charging stations have also been set up 
+  Received an A- Rating in both CDP Climate 
+change and Water Security
+  Conducted a pilot study at Dariba Smelting 
+Complex (RDC) as per Niti Aayog’s Water 
+Neutrality standard and received certificate, 
+“Aspiring company for water neutrality”
+  Inaugurated phase 1 of 4,000 KLD zero 
+liquid discharge (ZLD)  plant at Zawar Mines, 
+deploying advanced technology to aid in 
+water conservation
+  Dry Tailing plant  started at Rajpura Dariba 
+Complex 
+  Fumer plant commissioned at Chanderiya 
+Lead Zinc Smelter to minimise generation 
+of Jarosite  In FY 2023, a Group EV purchase policy has 
+been introduced for the employees of the 
+Company 
+  Introduced ESG expectations  through the 
+ARIBA platform into our procurement process
+  Comprehensive strategy and tools developed 
+for product-level life cycle assessment  for 
+our critical machines and commodities for the 
+purpose of Scope 3 calculations
+  Collaborated with JNCASR for new-age 
+Zinc -based battery technologies
+  Signed MoU with Aesir Technologies, Inc., 
+which specialises in development and 
+commercialisation of next-generation 
+Nickel -Zinc battery technologies  KEY 
+FACTS 
+Largest and the only
+Integrated producer of zinc, lead and silver in India 
+Market share in India’s primary zinc industry75% 
+Largest silver producer globally13rd
+Largest integrated zinc producer globally22nd
+Largest silver mine globally at Sindesar Khurd12ndUnderground zinc mining operations at Rampura Agucha2World’s largest 
+Single-location zinc-lead smelting operations at Chanderiya2 World’s largest 
+Of the global zinc mining cost curve, and one of the 
+lowest-cost producers of zinc globally2 1st decile 
+In S&P Global Corporate Sustainability 
+Assessment in metals and mining sectorRanked 1st Wind power producers, with a generation 
+capacity of 273.5 MW across 5 statesAmongst India’s largest 
+Mine life3 25+ years 
+As on March 31, 2024
+Source: 
+1 World Silver Institute for silver producer/mine rankings 
+2 Wood Mackenzie for global mine/smelter rankings for zinc-lead 
+mine and cost 
+3 Mineral Resources and Ore Reserves (R&R) at current rate of 
+metal production
+2 3
+HINDUSTAN ZINC LIMITEDCLIMATE ACTION REPORT 2024
+HINDUSTAN ZINC LIMITED
+Message from the 
+Chairperson 
+Innovation lies at the core of our 
+mission, exemplified by the launch 
+of Asia’s first low-carbon zinc, 
+EcoZen, at Hindustan Zinc.Dear All,
+At Hindustan Zinc, sustainability is at the core 
+of who we are. It is not just a commitment but 
+a responsibility. Our progress is not measured 
+by numbers alone, but by the meaningful 
+impact we are making on our planet, ensuring 
+that we leave behind a greener, healthier and 
+safer world for future generations.
+It is with great pleasure that I present to you 
+Hindustan Zinc’s 4th Climate Action Report. 
+This report reflects our collective efforts and 
+the strides we have made toward a greener 
+tomorrow. Our drive towards a cleaner future 
+stem from our concrete actions to create 
+impactful change, particularly our focus on 
+increasing our renewable energy mix in line 
+with our SBTi commitment.
+At Hindustan Zinc, we’ve set ambitious goals 
+for ourselves. We are working tirelessly to 
+reduce our Scope 1 & 2 emissions by 50% 
+and our Scope 3 emissions by 25% by 
+2030.  Our overarching vision is aligned with 
+Vedanta’s goal to achieve Net Zero emissions 
+by 2050. Signing of a 450 MW Power 
+Delivery Agreement, further cementing our 
+commitment to renewable energy. Hindustan 
+Zinc has a captive solar power capacity 
+of 40.70 MW, WHRB of 48.46 MW and 
+relies on conventional fuel sources for the 
+remainder of its power needs. The addition 
+of renewable power from Serentica will 
+ensure that 50% of our power needs are 
+met through renewables.  The progress 
+we’ve made so far is promising, and it’s only 
+the beginning. Additionally, in line with our 
+strategic focus on value creation for our 
+stakeholders, we launched EcoZen, Asia’s 
+first low-carbon Green Zinc, in July 2024. It 
+exemplifies our commitment to decarbonising 
+our operations and providing our customers 
+with a competitive edge through more 
+sustainable choices.Our efforts have been recognised on global 
+platforms, with Hindustan Zinc being ranked 
+#1 in the metals and mining sector in 
+the S&P Global Corporate Sustainability 
+Assessment.  These recognitions only fuel our 
+determination to continue leading the charge 
+for sustainable change.
+I truly believe that innovation will guide 
+us toward our net-zero future. We are 
+advancing zinc’s role in energy storage 
+solutions, especially in zinc batteries, which 
+are emerging as a powerful alternative to 
+lithium-based options. By doing so, we are 
+not only contributing to the global energy 
+transition but also positioning zinc as a 
+key player in shaping a more sustainable 
+energy landscape.
+As we look ahead, let’s continue to strive for 
+excellence in every step we take towards 
+sustainability. Every milestone we achieve is 
+because of the dedication and passion of the 
+stellar HZL team for creating a better world. 
+Together, we can make a lasting impact. Let 
+us harness the power of sustained collective 
+action and undertake this transformative 
+journey towards a greener future.
+Regards,
+Priya Agarwal HebbarOur drive towards a 
+cleaner future stem from 
+our concrete actions 
+to create impactful 
+change, particularly our 
+focus on increasing our 
+renewable energy mix 
+in line with our SBTi 
+commitment.
+4 5
+HINDUSTAN ZINC LIMITEDCLIMATE ACTION REPORT 2024
+HINDUSTAN ZINC LIMITED
+Message from the CEO
+I strongly believe that climate action 
+is not just a choice but an imperative 
+for our long-term success and well-
+being of the planetTo Our Valued Stakeholders,
+At a time when climate action is more 
+crucial than ever, we, at Hindustan Zinc, 
+are unwavering in our commitment to drive 
+sustainability across every aspect of our 
+operations. It is our belief that sustainability 
+and good business sense are two sides of 
+the same coin and our actions taken today 
+will shape the future of our planet. We are 
+resolutely focussed on leading this transition 
+towards a greener, more resilient future.
+I am proud to present our 4th Climate Action 
+Report, now aligned with the International 
+Financial Reporting Standards (IFRS) S2 
+recommendations.  This framework enhances 
+our transparency regarding the impact of 
+climate change on our business and financial 
+performance, providing you with clearer 
+and more actionable insights. This report 
+is designed to catalyse ongoing dialogue 
+and proactive measures on climate change 
+mitigation and adaptation, while showcasing 
+our resilience to climate-related risks and 
+opportunities.
+This year, our efforts in decarbonisation 
+have yielded significant results. We have 
+accelerated the progress of our 450 MW 
+Renewable Energy (RE) project, delivering the 
+first phase ahead of schedule. Additionally, 
+the launch of EcoZen – Asia’s first low-carbon 
+zinc product in July 2024 – demonstrates our 
+commitment to product innovation and ESG 
+excellence. Manufactured using renewable 
+energy, EcoZen has a carbon footprint 
+approximately 75% lower than the global 
+average. These advancements reaffirm our 
+leadership in the transition to a low-carbon 
+economy.
+We are catapulting our efforts in aiding 
+the ongoing global energy transition by 
+advancing research on zinc batteries as a 
+strong alternative to lithium-based batteries. We have crossed another milestone in our 
+water stewardship journey by introducing 
+India’s first zero liquid discharge (ZLD) plant 
+at a mining location propelling us towards 
+the goal of becoming 5 times water positive 
+by 2025. The Fumer plant at Chanderiya 
+exemplifies our dedication to sustainability 
+through improved waste management and 
+metal recovery.
+Recognising that climate knowledge is 
+constantly evolving, we are committed to 
+updating our risk assessments and strategies 
+accordingly. This report, developed in 
+line with International Financial Reporting 
+Standards (IFRS) S2 guidelines, offers a 
+comprehensive view of our governance, 
+strategy, risk assessment, and targets, aimed 
+at enhancing stakeholder engagement and 
+delivering valuable information.
+I trust this report will inspire continued 
+action, foster meaningful dialogue and create 
+opportunities for collaboration as we advance 
+toward a safe, smart, and sustainable future.
+Best Wishes,
+Arun Misra
+CEO & Whole Time Director,
+Hindustan ZincWe have accelerated 
+the progress of our 
+450 MW Renewable 
+Energy (RE) project, 
+delivering the first 
+phase ahead of 
+schedule.
+6 7
+HINDUSTAN ZINC LIMITEDCLIMATE ACTION REPORT 2024
+HINDUSTAN ZINC LIMITED

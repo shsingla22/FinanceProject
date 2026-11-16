@@ -1,0 +1,92 @@
+ 
+Mastek Limited  
+804/805, President House, Opp. C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad –  380 006 
+Tel: +91- 79-2656- 4337 | Email: info@mastek.com  | Web: www.mastek.com  | CIN: L74140GJ1982PLC005215   
+ 
+ 
+SEC/ 56/2024- 25                                                                                                        August 28, 2024  
+  
+ 
+Listing Department  
+BSE Limited  
+25th Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort,  
+Mumbai -400 001 
+SCRIP CODE: 523704  Listing Department  
+The National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051 
+SYMBOL: MASTEK  
+ISIN: INE759A01021  
+ Dear  Sir(s)/Ma’am(s),  
+ 
+Sub: Press Release  
+ Ref: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 
+2015 
+ 
+Please find enclosed herewith  a Press Release titled  “Mastek and Onyx Health Announce Strategic 
+Partnership to Accelerate Healthcare Data Interoperability ”, which is  being issued by a subsidiary of 
+the Company.  
+The same is also uploaded on the Company's website at  www.mastek.com .  
+ You are requested to take the same on record.  
+ 
+Thanking you,   Yours faithfully,  
+For Mastek Limited  
+    
+Dinesh Kalani  
+SVP – Group Company Secretary  
+ Encl: AA  
+
+ 
+ 
+Mastek and Onyx Health Announce Strategic Partnership to 
+Accelerate Healthcare Data Interoperability  
+New York , 28 August, 2024:  Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering and cloud 
+transformation partner, is proud to announce a strategic partnership with Onyx Health , an innovator in 
+healthcare interoperability solutions. This collaboration aims to expedite the adoption of FHIR (Fast 
+Healthcare Interoperability Resources) standards, driving enhanced data interoperability and ultimately 
+better health outcomes for patients.  
+In an era where seamless data exchange is critical for effective healthcare delivery, the partnership 
+between Mastek and Onyx Health will provide health plans with an out -of-the-box compliance solution 
+for CMS -9115 (Patient Access API) and CMS -0057 (Advanc ing Interoperability and Electronic Prior Auth) 
+rules. These regulations, pivotal to modernizing healthcare data exchange, require health plans to ensure 
+secure, standardized data sharing across systems. Mastek and Onyx Health are at the forefront of deliv ering comprehensive solutions to meet these stringent regulatory requirements efficiently and 
+effectively.  
+Key Highlights of the Partnership: 
+• Enhanced Interoperability: By leveraging Mastek’s consulting and implementation expertise 
+along with Onyx Health’s award -winning OnyxOS platform, health plans can accelerate the 
+adoption of FHIR standards, facilitating seamless healthcare data exchange.  
+• Compliance Solutions: The partnership brings a robust compliance solution specifically designed 
+to meet CMS -9115 and CMS -0057 rules. This ensures health plans remain compliant with evolving 
+healthcare regulations while streamlining their operations.  
+• Improved Health Outcomes: The collaboration aims to improve patient health outcomes by 
+ensuring that healthcare providers have access to accurate and timely data, enabling better decision -making and more personalized care.  
+“Our FHIR Interoperable platform services partnership with Onyx decomplexifies healthcare mandates & 
+compliance deadlines that improves the star quality ratings and patient experiences/outcomes for Healthcare CXOs. This partnership reinforces our commitment  to providing next -gen solutions across the 
+healthcare industry ,” said Raman Sapra, President  & Chief Growth Officer at Mastek . 
+ “Our collaboration with Mastek marks a significant milestone in our mission to transform healthcare data 
+exchange. By combining our award- winning OnyxOS platform with Mastek’s expertise, we are poised to 
+deliver unparalleled solutions that not only ensure compliance but also pave the way for improved patient outcomes, ” said Susheel Ladwa, CEO at  Onyx Health . 
+This strategic partnership represents a significant step forward in addressing the interoperability 
+challenges faced by the healthcare industry. By combining the strengths of Mastek and Onyx Health, this 
+collaboration promises to deliver innovative solutions that will sh ape the future of healthcare data 
+exchange.  
+ 
+ 
+About Mastek  
+Mastek  is an enterprise digital and cloud transformation partner that engineers excellence for customers 
+in industries such as healthcare and life sciences, retail and consumer, manufacturing, financial services, 
+and the public sector, across 40 countries, inclu ding the UK, US, Europe, the Middle East, and Asia Pacific. 
+Mastek helps enterprises decomplexify digital and delivers business outcomes with trust, value, and velocity across the spectrum of services including digital experience and engineering, cloud 
+implementations, data, automation and AI, and cloud managed services. Mastek recently launched its 
+GenAI enabled portfolio iConniX that offers over 120 AI assets, 4 AI platforms, and solution blueprints 
+tailored to meet industry specific business use cases. A  preferred Oracle, Salesforce, Microsoft, AWS, and 
+Snowflake partner, Mastek has 6000+ employees and delivers right -fit solutions to both medium 
+businesses and global Fortune 1000 clients.  
+About Onyx Health  
+Onyx Health is a leader in healthcare interoperability solutions, dedicated to transforming healthcare data exchange. Their flagship product, OnyxOS, has been recognized for its excellence in enabling seamless and secure data interoperability across the he althcare ecosystem. For more information, visit Onyx Health . 
+Contacts  
+Kashmira Chavan  
+Kashmira.chavan@mastek.com  
+ 

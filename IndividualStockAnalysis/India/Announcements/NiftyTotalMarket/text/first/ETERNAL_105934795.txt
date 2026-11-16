@@ -1,0 +1,213 @@
+    
+ 
+ZOMATO LIMITED  
+Registered Address:  Ground Floor 12A, 94 Meghdoot, Nehru Place, New Delhi - 110019,  India  
+CIN:  L93030DL2010PLC198141 , Telephone Number:  011 - 40592373  
+ 
+Department of Corporate Services,  
+BSE Limited  
+Phiroze Jeejeebhoy Towers, Dalal Street,  
+Mumbai – 400 001   
+Listing Department,  
+National Stock Exchange of India Limited  
+C-1, G-Block, Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400 051  
+ 
+Scrip Code: 543320, Scrip Symbol: ZOMATO  
+ISIN: INE758T01015  
+ 
+Sub:  Disclosure under Regulation 8 of SEBI (Prohibition of Insider Trading) Regulations, 
+2015  
+ 
+Dear Sir/ Ma’am,  
+ 
+With reference to the captioned subject, please find enclosed herewith the amended Code of 
+Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information (“Fair 
+Disclosure Code ”) of the Company . 
+ 
+The above information will also be hosted on the website of the Company i.e. www.zomato.com  
+ 
+For Zomato Limited  
+ 
+ 
+Sandhya Sethia  
+Company Secretary & Compliance Officer  
+ 
+Place: Gurugram  
+Date: August 1, 2024  
+ 
+Encl.: As above  
+ 
+
+Table of Contents 
+1. Introduction 
+2. Definitions 
+3. Overseeing and Coordinating Disclosure 
+4. Principles of Fair Disclosure & Preservation of UP SI 
+5. Clarifications 
+6. Enforcement 
+7. Review & Revisions to this Code 
+Schedule A 
+1. Introduction 
+2. Determination of Legitimate Purpose 
+3. Confidential Agreements for Maintenance of UPSI 
+4. Structured Digital Database 
+5. Version Hi story zomato 
+3 
+3 
+6 
+6 
+7 
+7 
+7 
+8 
+8 
+9 
+9 
+9 
+2 
+zomato 
+1. INTRODUCTION 
+The Securities and Exchange Board of India ("SEBI") had promulgated the SEBI (Prohibition of Insider Trading) 
+Regulations , 2015, and has been amended from time to time. 
+The said Regulations require the Board of Directors of every listed entity to formulate and publish on its website, 
+a Code of practices and procedures for fair disclosure of Unpublished Price Sensitive Information ("UPSI") that 
+it would follow to adhere to the principles prescribed therein. In accordance with the Regulations , this Code of 
+Practices and Procedures for Fair Disclosure of UP SI ("Fair Disclosure Code") has been adopted by the Board of 
+Directors of Zomato Limited ("Zomato" or the "Company "). 
+This Code shall come into force with an effective date as approved. 
+2. DEFINITIONS 
+1. Act means the Securities and Exchange Board of India Act, 1992. 
+11. Applicable Law shall mean the Securities and Exchange Board of India (Prohibition of Insider 
+Trading) Regulations , 2015, including any amendments thereto, or any statute, law, listing agreement , 
+regulation , ordinance , rule, judgment , order, decree, bye-law, clearance , directive, guideline , policy, 
+requirement , notifications and clarifications , circulars or other governmental instruction and/or 
+mandatory standards and or guidance notes as may be applicable in the matter of trading by an Insider. 
+111. Audit Committee means Audit Committee of the Board constituted as per the regulatory 
+requirements. 
+1v. Board means the Board of Directors of the Company. 
+v. CFO means the Chief Financial Officer of the Company. 
+v1. Chief Investor Relations Officer or CIRO means the CFO of the Company who shall be responsible 
+for dissemination of information to analysts, investors, and research personnel for the purposes of this 
+PIT Code. 
+vn. Compliance Officer shall mean the Company Secretary of the Company, designated as such and 
+reporting to the Board of Directors for the purpose of the compliance of the provision of the 
+Regulations. 
+v111. Company Shares shall mean Securities of the Company. 
+1x. Connected Person means: 
+(i) Any person who is or has during the six months prior to the concerned act, been associated with the 
+Company , directly or indirectly, in any capacity including by reason of frequent communication with its 
+officers or by being in any contractual , fiduciary or employment relationship or by being a director, 
+officer or an employee of the Company or holds any position including a professional or business 
+relationship between himself/ herself and the Company whether temporary or permanent , that allows 
+such person, directly or indirectly, access to Unpublished Price Sensitive Information or is reasonabl y 
+expected to allow such access. 
+(ii) Without prejudice to the generality of the foregoing , the persons falling within the following 
+categories shall be deemed to be connected persons unless the contrary is established: -
+An Immediate Relative of connected persons specified in clause (i); or 
+A holding company or associate company or subsidiary company; or 
+An intermediary as specified in Section 12 of the Securities and Exchange Board of India 
+Act, 1992 or an employee or director thereof; or 
+An investment company, trustee company, asset management company or an employee or 
+director thereof; or 
+An official of a Stock Exchange or of clearing house or corporation ; or 
+3 
+zomato 
+• A member of Board of trustees of a mutual fund or a member of the Board of Directors of 
+the asset management company of a mutual fund or is an employee thereof; or 
+A member of the Board of Directors or an employee , of a public financial institution as 
+defined in section 2 (72) of the Companies Act, 2013; or 
+An official or an employee of a self-regulatory organization recognized or authorized by the 
+Board; or 
+A banker of the Company ; or 
+A concern, firm, trust, Hindu Undivided Family, company , or association of persons 
+wherein a director of the Company or his immediate relative or banker of the Company , has 
+more than ten per cent of the holding or interest. 
+x. Designated Person(s) for the Company shall include the following persons: 
+a) All Directors , Key Managerial Personnel , and functional /departmental heads of the 
+Company , by whatever name called. 
+b) Executive assistant/secretaries of the aforesaid persons referred to in point ( a) above. 
+c) All employees of the Company in the Corporate Secretarial Team, Finance, Business 
+Finance, Revenue, Human Resources , FP&A, Legal, Governance Risk and Compliance , 
+Public Relations , Corporate Development of Manager (or equivalent) designation and 
+above. 
+d) Chief Executive Officer and employees up to two levels below Chief Executive Officer of 
+the Company and its material subsidiaries irrespective of their functional role in the 
+Company or ability to have access to UPSI. 
+e) Support staff of the Company such as IT staff and secretaries / assistants who have access 
+to UPSI. 
+f) Employees of the Company and its material subsidiaries designated as such on the basis of 
+their functional role or access to UPSI in the Company by the Board of Directors 
+g) Any such other Person identified by CEO/MD /CFO in consultation with the Compliance 
+Officer on the basis of their functional role and such function would provide access to UPSI 
+x1. Director means a member of the Board of Directors of the Company. 
+x11. Fair Disclosure Code shall mean the Code of Practices and Procedures for Fair Disclosure of 
+Unpublished Price Sensitive Information. 
+xm. Fiduciaries shall mean professionals such as lender(s), bank(s), analyst(s) , merchant(s) banker(s) , 
+legal advisor(s) , auditor(s) , audit firm(s), diligence professional(s) , insolvency professional(s) or other 
+advisor(s) / consultant(s) etc., assisting, advising or engaging with the Company from time to time. 
+xiv. Generally available information means information that is accessible to the public on a non­
+discriminatory basis and shall not include unverified event or information reported in print or electronic 
+media. Information published on a website, which would ordinarily be considered as generally 
+available information. 
+xv. Immediate Relative means 
+a) spouse of a person; and 
+b) parents, sibling, and child of such person or of the spouse, any of whom is either dependent 
+financially on such person or consults such person in taking decisions relating to trading in 
+Shares. 
+xvi. Insider means any person who is: 
+a connected person; or 
+in possession of or has access to Unpublished Price Sensitive information. 
+xv11. Key Managerial Person (KMP) in relation to the Company shall have the meaning ascribed to such 
+term under the SEBI (Listing Obligations and Disclosure Requirements) Regulations , 2015, SEBI 
+(Prohibition of Insider Trading) Regulations , 2015 ("PIT Regulations ") and the Companies Act, 
+2013 and rules and regulations made there under. 
+4 
+zomato 
+xvm. Legitimate Purpose shall have its meaning as per the Company Code of Practices and Procedures 
+for Fair Disclosure of UPSI (Fair Disclosure Code). 
+xix. "Mainstream Media" shall mean and include following print or electronic mode as identified by 
+the Industry Standard Note on verification of market rumours and enclosed as Annexure A: 
+a. Newspapers registered with the Registrar of Newspapers for India; 
+b. News channels permitted by Ministry of Information and Broadcasting under Government 
+of India; 
+c. Content published by the publisher of news and current affairs content as defined under the 
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 
+202l;and 
+d. Newspapers or news channels or news and current affairs content similarly registered or 
+permitted or regulated, as the case may be, in jurisdictions outside India. 
+xx. Material Financial Relationship shall mean a relationship in which one person is a recipient of any 
+kind of payment such as by way of a loan or gift from a Designated Person during the immediately 
+preceding twelve months, equivalent to at least 25% of the annual income of such Designated Person 
+but shall exclude relationships in which the payment is based on arm's length transaction. 
+xx1. Material Subsidiary shall have the same meaning as defined under SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations , 2015, as amended from time to time. 
+xx11. PIT Code shall mean this Code of Conduct for Prevention of Insider Trading. 
+xxm. Regulations means SEBI (Prohibition of Insider Trading), Regulations , 2015 as amended from time 
+to time. 
+xx1v. Shares shall have the meaning assigned to it under the Securities Contracts (Regulations) Act, 1956 
+or any modification thereof except units of a mutual fund 
+xxv. Stock Exchanges shall mean the National Stock Exchange of India Limited (NSE) and / or BSE 
+Limited (BSE) or any other recognized Stock Exchange where Company Shares are listed as may be 
+notified by the Compliance Officer from time to time. 
+xxv1. The Company means Zomato Limited 
+xxvn. Trade or Trading shall mean and include subscribing , buying, selling, dealing, pledging or agreeing 
+to subscribe , buy, sell, deal in any Company Shares. 
+xxvm. Trading day means a day on which the recognized Stock Exchanges are open for trading. 
+xx1x. Unpublished Price Sensitive Information or UPSI means any information, relating to the Company 
+or Company Shares, directly or indirectly , that is not generally available which upon becoming 
+generally available, is likely to materially affect the price of the Company Shares and shall, ordinarily 
+including but not restricted to, information relating to the following: -
+Financial Results 
+Dividends 
+Changes in capital structure 
+Mergers, de-mergers , acquisitions , delisting, disposals , and expansion of business and such 
+other transactions 
+Changes in Key Managerial Personnel 
+Any other matter as may be prescribed by the Board or Managing Director and CEO or Chief Financial 
+Officer or CIRO in consultation with the Compliance Officer of the Company. 
+Note: All terms used in this Code but not defined hereinabove shall have the meanings prescribed to them under 
+the Securities and Exchange Board of India Act, 1992, the Securities Contracts (Regulation) Act, 1956, the 
+Depositories Act, 1996, SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, SEBI 
+(Prohibition of Insider Trading) Regulations, 2015 or the Companies Act, 2013 and rules and regulations made 
+5 

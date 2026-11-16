@@ -1,0 +1,125 @@
+ 
+Netweb Technologies India Limited  
+[Formerly Known as Netweb Technologies India Private Limited]  
+Plot No. H -1, Block -H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, Haryana 
+121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E -mail : complianceofficer@netwebindia.com  
+ CIN : L72100HR1999PLC103911  
+PAN NO  : AABCN4805A  
+GST NO  : 06AABCN4805A1Z3   
+Date: 30-08-2024   
+To, 
+The Manager  
+Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers Dalal Street  
+Mumbai - 400001  
+Scrip Code: 543945   To, 
+The Manager  
+Listing Department  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai - 400051  
+Scrip Code: NETWEB   
+ 
+SUBJECT: INTIMATION OF PRESS RELEASE  
+Dear Sir/ Madam,  
+ 
+Please find enclosed herewith the Press Release on Netweb Technologies India Limited unveils  Advanced 
+Make -in-India Server  Systems . 
+ 
+Thanking You  
+ 
+Yours faithfully  
+ 
+For Netweb Technologies India Limited  
+ 
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+M.No A36610  
+Netweb Technologies unveils Advanced Make -in-India 
+Server Systems  
+● Netweb Technologies unveiled its new series of advanced server systems at Hyatt Regency, New Delhi on 
+August 30, 2024, showcasing its commitment to high -end R&D, in -house design, and indigenous 
+manufacturing.  
+● The new range of systems offers up to 256 cores, 6TB of memory, extensive I/O, GPU capabilities, and 
+storage options designed for High -performance computing and AI applications.  
+● The launch underscores Netweb Technologies' dedication to driving progress in the technology industry 
+while supporting the Make in India initiative.  
+● The ceremony featured live demonstrations, showcasing the advanced capabilities of Netweb’s new range 
+of AMD EPYC ™ CPU -based servers.  
+  
+New Delhi, August 30, 2024  — Netweb Technologies India Limited,  an Indian company specialising in 
+high -end computing solutions proudly unveiled its new series of advanced servers at the Hyatt 
+Regency, Bhikaji Cama Place, New Delhi. This event marked a significant milestone for not just the 
+company but the Country, highlig hting its commitment to world -class innovation and local 
+manufacturing. The inauguration was led by Shri Bhuvnesh Kumar, Additional Secretary, MeitY , who 
+gave a keynote speech and formally unveiled the new range of servers, focusing on their significant 
+impact on the Data Centre and AI industry.  
+ 
+The ceremony included a detailed presentation and live demonstrations, showcasing the servers' 
+capabilities and advanced features designed for high -performance computing, Enterprise workloads, 
+and AI applications. The server models on display were Tyrone Camarero SDA200A2N -212, Camarero 
+SDA200A2N -224, Camarero SDA200A2N -18, Camarero SDA20A2R -424, Camarero SDA100C3R -48, 
+Camarero SSA200F0R -48, SDA200A3H -460, and Camarero SSA200C3R -28.  
+ 
+This unveiling aimed to showcase Netweb Technologies' big leap on the Make in India front and their 
+capabilities to replace foreign MNCs with its Private Cloud – HCI, AI, and HPC Systems. The new models 
+support dual AMD EPYC ™ 9004 Series going up to 256 cores, offering impressive computational 
+performance for the most intensive and wide range of workloads. With support for up to 6TB of 
+memory, the  servers  offer substantial scalability in memory capacity, ensuring the solutions can easily 
+oversee large datasets in memory computing and complex applications. Apart  from a super -efficient 
+processor, the systems also boast  many remarkable features, making them an ideal choice for various 
+applications, especially in an Enterprise Data Centre or AI/ML environment. Some highlights are as 
+follows:  
+ 
+• Up to 6TB 3DS ECC RDIMM, DDR5 -4800MHz in 12/24 DIMM slots  
+• Integrated IPMI 2.0 + KVM with dedicated LAN  
+• Good range of support for storage, including HDD, SDD, and NVMe.  
+• Up to 10 PCIe slots for add -ons, Support for a wide range of GPUs . 
+ 
+ 
+Shri Bhunesh Kumar, Additional Secretary of MeitY, at the launch of the AMD server, said, “With the 
+launch of Tyrone Make in India Servers, Netweb has achieved a significant milestone, reflecting India's 
+impressive progress in indigenous electronics manufacturing. Netweb's contribution as a dedicated 
+partner of the Government of India highlight s its role in advancing the Make in India initiative, which 
+has seen remarkable growth over the past decade. The advancements in semiconductor and IT 
+hardware manufac turing, bolstered by substantial schemes like the PLI for large -scale electronics and 
+semiconductor fabrication, have driven our sector's growth. Electronics manufacturing has doubled 
+from $49 billion to $100 billion, and electronic exports have surged, ma king them India's fifth -largest 
+export commodity.”  
+ 
+“It’s a great achievement that Netweb can deliver a full stack of hardware and software solutions, 
+featuring in -house design and manufacturing capabilities, including 24 -layer PCB production. This 
+comprehensive approach enables the creation of high -quality , next -generation servers that meet 
+evolving customer needs. India's journey from modest beginnings to achieving supercomputing 
+capabilities is truly remarkable. The unveiling of these new products represents a significant step 
+forward, and I am honoured t o be part of this momentous occasion.”, he further added.  
+ 
+Mr. Sanjay Lodha, CMD of Netweb Technologies, commented , “The unveiling and commercial launch 
+of these advanced server systems is a momentous occasion for us. It reflects our commitment to the 
+Make in India mission and showcases our ability to produce top -tier technology right here in India. 
+These systems are designed to handle some of the most demanding tasks, from data centres to AI 
+applications, with impressive performance and flexibility. This launch not only solidifies our position 
+in the global techno logy market but also fosters the growth of local innovation and manufacturing. 
+We are incredibly excited to see these servers' impact on our clients and the broader industry.”  
+ 
+“The commercial launch of these server systems represents a significant leap forward for India’s 
+technology sector. It highlights Netweb’s world -class innovation and manufacturing capabilities, 
+supported by AMD. The event showcased how the collaboration be tween AMD and Netweb 
+Technologies will cater to the growing demands  from high -performance computing, Enterprise 
+workloads, Private Cloud, and AI products and solutions.” said Vinay Sinha, Corporate Vice President 
+& Managing Director - AMD India Sales . 
+About Netweb Technologies India Limited  
+Netweb is a leading Indian origin, owned and controlled OEM in the space of High -end Computing 
+Solutions (HCS), blending innovative design with manufacturing expertise. The Company’s offerings 
+include High -Performance Computing (Supercomputing/HPC) Systems , Private Cloud and 
+Hyperconverged Infrastructure (HCI), AI Systems and Enterprise Workstations, High -Performance 
+Storage (HPS), Data Centre Servers, Enterprise Grade Network Switches and software and services for 
+HCS offerings. Netweb offers a comprehensi ve suite of products and solutions, with in -house PCB 
+design centres, surface mounting technology facilities, and highly advanced manufacturing lines.  
+ 
+AMD, the AMD logo, EPYC, and combinations thereof are trademarks of Advanced Micro Devices, Inc.   
+ 

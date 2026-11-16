@@ -1,0 +1,173 @@
+ 
+  
+ 
+ 
+ 
+ 
+ 
+August 1, 2024  
+ 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+ 
+Scrip ID: BSOFT  
+Scrip Code: 532400  
+ 
+Kind Attn: The Manager,  
+Department of Corporate Services  National Stock Exchange of India Ltd.,  
+Exchange  Plaza, C/1, G Block,  
+Bandra - Kurla Complex, Bandra (E),  
+Mumbai – 400051.  
+ 
+Symbol:  BSOFT  
+Series:  EQ 
+ 
+Kind Attn:  The Manager,  
+Listing Department  
+ 
+ 
+Subject: - Voting results of the 3 3rd Annual General Meeting of Birlasoft Limited   
+ 
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to the provisions of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, (“the Regulations”) and the Companies 
+Act, 2013 , please find enclosed herewith the following:  
+ 
+1. Voting results as required under Regulation 44 of the Regulations; and  
+ 
+2. Report of Scrutinizer dated August 1 , 2024, pursuant to Section 108 of the Companies 
+Act, 2013 and read with the Companies (Management and Administration) Rules, 2014.  
+ 
+The voting results along with the Scrutinizer's Report will also be available on the Company's 
+website  at www. birlasoft.com and on the website of National Securities Depositories Limited  
+at www.evoting.nsdl.com . 
+ 
+Kindly take the same on your records.  
+ 
+Thanking you.  
+ 
+Yours faithfully,  
+ 
+For Birlasoft Limited  
+ 
+ 
+ 
+ 
+Sneha Padve  
+Company Secretary & Compliance Officer  
+Membership No. ACS 9768  
+ 
+ 
+Encl.: - As mentioned above.  
+
+Scrip code 532400
+NSE Symbol BSOFTMSEI Symbol NOTLISTEDISIN INE836A01035Name of the company Birlasoft LimitedType of meeting AGM
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)31-07-2024
+Start time of the meeting 02:30 PM
+End time of the meeting 03:30 PMGeneral information about companyHome Validate
+ Import  XML
+Name of the Scrutinizer Jayavant B. Bhave
+Firms Name J. B. Bhave & Co . Company Secretaries
+Qualification CS
+Membership Number FCS 4266
+Date of Board Meeting in which appointed 29-04-2024
+Date of Issuance of Report to the company 01-08-2024Scrutinizer DetailsHome Validate
+
+Record date 24-07-2024
+Total number of shareholders on record date 399846
+a) Promoters and Promoter group 0
+b) Public 0
+a) Promoters and Promoter group 2
+b) Public 73
+No. of resolution passed in the meeting 4
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held No. of votes 
+polled            % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes 
+against on votes 
+polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 112905785 100.0000 112905785 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)Total 112905785 112905785 100.0000 112905785 0 100.0000 0.0000
+E-Voting 96028387 87.2025 96028387 0 100.0000 0.0000
+PollPostal Ballot (if applicable)Total 110121135 96028387 87.2025 96028387 0 100.0000 0.0000
+E-Voting 1708988 3.2213 1708370 618 99.9638 0.0362
+PollPostal Ballot (if applicable)Total 53053001 1708988 3.2213 1708370 618 99.9638 0.0362
+Total Total 276079921 210643160 76.2979 210642542 618 99.9997 0.0003
+* this fields are optional
+No. of Votes
+000Promoter and Promoter GroupPublic InsitutionsPublic - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution3.00
+Details of Invalid Votes
+CategoryPublic- Non 
+Institutions53053001Resolution (1)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution considered  Adoption of audited Financial Statements – Standalone
+Promoter and Promoter Group112905785
+Public- Institutions110121135Home Validate
+Add Notes
+Notes:
+Total number of shares held include:
+1. 40,000 shares of the Company are held by Employee Welfare Trust. As provided in the SEBI (Share Based Employee Benefits and Sweat Equity) 
+Regulations, 2021, the Trustees are not entitled to vote in respect of the shares held by the Trust.
+2. 2,33,191 shares of the Company are transferred to Investor Education and Protection Fund. The voting rights on these shares remain frozn until the 
+rightful owner claims the shares.
+3. 14,000 shares of the Company are transferred to Unclaimed Suspense Account. The voting rights on these shares remain frozen until the rightful  owner 
+claims the shares.
+Category Mode of voting No. of shares held No. of votes 
+polled            % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes 
+against on votes 
+polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 112905785 100.0000 112905785 0 100.0000 0.0000
+Poll
+Postal Ballot (if applicable)Total 112905785 112905785 100.0000 112905785 0 100.0000 0.0000
+E-Voting 96028387 87.2025 96028387 0 100.0000 0.0000
+PollPostal Ballot (if applicable)Total 110121135 96028387 87.2025 96028387 0 100.0000 0.0000
+E-Voting 1708221 3.2198 1707525 696 99.9593 0.0407
+PollPostal Ballot (if applicable)Total 53053001 1708221 3.2198 1707525 696 99.9593 0.0407
+Total Total 276079921 210642393 76.2976 210641697 696 99.9997 0.0003
+* this fields are optional
+No. of Votes
+000Promoter and Promoter GroupPublic InsitutionsPublic - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution4.00
+Details of Invalid Votes
+CategoryPublic- Non 
+Institutions53053001Resolution (2)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution considered Adoption of audited Financial Statements – Consolidated
+Promoter and Promoter Group112905785
+Public- Institutions110121135Home Validate
+Add Notes
+Notes:
+Total number of shares held include:
+1. 40,000 shares of the Company are held by Employee Welfare Trust. As provided in the SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 
+2021, the Trustees are not entitled to vote in respect of the shares held by the Trust.
+2. 2,33,191 shares of the Company are transferred to Investor Education and Protection Fund. The voting rights on these shares remain frozn until the rightful 
+owner claims the shares.
+3. 14,000 shares of the Company are transferred to Unclaimed Suspense Account. The voting rights on these shares remain frozen until the rightful  owner 
+claims the shares.

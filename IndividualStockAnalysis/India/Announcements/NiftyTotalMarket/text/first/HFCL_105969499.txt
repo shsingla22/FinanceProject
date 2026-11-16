@@ -1,0 +1,129 @@
+                      
+ 
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan- 173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466  
+HFCL/SEC/24- 25        
+August  29, 2024  
+ 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com 
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+ 
+ 
+Subject:  Press Release:  HFCL Delivers One of the World's Largest Advanced Broadband Network 
+Gateway (BNG) Projects for B harat Sanchar Nigam Limited (BSNL)  
+ 
+Dear Sir(s)/ Madam,  
+ 
+We are pleased to announce to all our stakeholders that the Company has successfully executed one of the 
+world’s largest Control and User Plane Separation (CUPS) architecture -based Broadband Network Gateway 
+(BNG) deployments for Bharat Sanchar Nigam Limited (BSNL). This was accomplished in an accelerated and 
+seamless manner for legacy network migration.  
+ 
+The new architecture will enhance BSNL's network efficiency, delivering superior high -speed data services for 
+Fiber -to-the-Home (FTTH) and Enterprise applications, while significantly increasing capacity and reliability . 
+ We are  enclosing  herewith  a Press Release in this regard . 
+ 
+We request to take the above information on  your  record s and disseminate the same on your respective 
+websites.  
+ Thanking you.  
+ 
+Yours faithfully,  
+For HFCL Limited    
+  
+ 
+ (Manoj Baid)  
+President & Company Secretary  
+ 
+Encl.: Press Release.  
+Press Release  
+For immediate Release  
+HFCL Delivers  One  of the World's Largest Advanced 
+Broadband Network Gateway Projects for BSNL 
+• BSNL entrusted HFCL to implement its highly advanced Broadband Network Gateway (BNG), with CUPS
+(Control and User Plane Separation) architecture
+• HFCL executes one of the world’s largest CUPS  architecture- based BNG deployment for BSNL in an
+accelerated and seamless manner for legacy network migration
+• This new  architecture boosts BSNL's network efficiency , delivering superior high -speed data services for
+Fiber -to-the- Home (FTTH) and Enterprise applications, significantly increasing capacity and reliability
+• This deployment will also serve as the Internet Gateway for the Government of India’s prestigious
+BharatNet project, supporting the existing 1.5 Lac Gram Panchayats and the upcoming expansion underBharatNet Phase -III project
+New Delhi, August 29 , 2024 : HFCL L imited (HFCL) , a leading technology enterprise and integrated next -gen 
+communications product and solution provider, today announced that it has completed the successful 
+commissioning of BSNL’s Network Infrastructure Enhancement Project. Under  this  project , HFCL has 
+commissioned the highly advanced version of Broadband Network Gateway (BNG), with  Control and User Plane 
+Separation (CUPS) architecture and associated subscriber Policy Manager & Authentication platform. The 
+project involved a nationwide deployment across India, with a total value of ~INR 390 crore, 
+including Operations and Maintenance (O&M). 
+This  crucial i nfrastructure upgradation to CUPS architecture , executed by HFCL in align ment  with BSNL’s goal , 
+will transform BSNL’s  network to support high -end enterprise customers as well as to bridge the digital divide , 
+especially in rural and remote areas . This new architecture will enable BSNL to enhanc e its Fiber -to-the-Home 
+(FTTH) based broadband network service expansion . 
+This  cutting -edge technology is designed to improve network efficiency, scalability, and service quality for 
+BSNL’s broadband customers. By improving BNG infrastructure and providing advanced connectivity options, 
+BSNL will ensure more reliable, accessible and affordable broadband services for all its users.  
+Network operators deploy BNG  to expand the broadband coverage, and to provide faster and  controlled access 
+to avoid any bandwidth constraints, thereby allowing the network to scale up  seamlessly . CUPS architecture 
+for BNG is an increasingly capable, versatile and strategic platform that allows independent location, and life 
+cycle management of Control Plane Functions (CPFs). The upgraded BNG infrastructure will serve as the 
+Internet Gateway for all ente rprise and home users of BSNL, as well as for the existing BharatNet network of 
+1.5 Lac Gram Panchayats and the upcoming pan -India BharatNet expansion in Phase – III. 
+Mr. Mahendra Nahata, Managing Director of HFCL  said, “ HFCL is proud to have successfully e xecuted one-of-
+the- world's largest Control and User Plane Separation  (CUPS ) architecture- based Broadband Network Gateway 
+(BNG)  deployments for BSNL . This nationwide  network enhancement project, covering the length and breadth  of 
+India  will serve all broadband and enterprise  consumers of BSNL for many years  to come.  The success of this 
+project, marked by significant achievements and technical milestones, reinforces our position as a trusted partner 
+for our customers. It has laid a strong  foundation for modernizing with new technologies, enhancing network 
+efficiency, scalability, and service quality across the Indian telecommunications landscape. ” 
+ 
+ 
+This project was initiated in October 2022 and was  successfully commissioned in  August  2024. HFCL executed 
+this crucial infrastructure upgrade to CUPS architecture end- to-end, including the design, supply, 
+commissioning, testing, and seamless migration of legacy networks and services to the new network.  
+About HFCL  
+HFCL is a leading technology company specialising in creating digital networks for telcos, enterprises and 
+governments. Over the years, HFCL has emerged as a trusted partner offering sustainable high tech solutions 
+with a commitment to provide the latest t echnology products to its customers. Our strong R&D expertise 
+coupled with our global system integration services and decades of experience in fiber  optics enable us to 
+deliver innovative digital network solutions required for the most advanced networks.  
+The Company’s in- house R&D Centers located at Gurgaon, Bengaluru and Hyderabad along with invested R&D 
+houses and other R&D collaborators at different locations in India and abroad, innovate a futuristic range of 
+technology products and solutions. HFCL has developed capabilities to provide premium quality Optical Fiber 
+and Optical Fiber Cables, state - of-the-art telecom products including 5G Radio Access Network (RAN) 
+products, 5G Transport Products, Wi- Fi Systems (Wi- Fi 6, Wi -Fi 7), Unlicensed Band Radios, Switches, Routers 
+and Defence electronics products.  
+The Company has state -of-the-art Optical Fiber  and Optical Fiber  Cable manufacturing plants at Hyderabad, 
+Optical Fiber Cable manufacturing plant in Goa and in its subsidiary HTL Limited at Chennai.  
+HFCL is a partner of choice for its customers across India, Europe, Asia Pacific, Middle East, Africa and USA. 
+HFCL’s commitment to quality and environmental sustainability inspires it to innovate solutions for the ever -
+evolving customer needs.  
+Visit www.hfcl.com  for more information.  
+For further details, please contact:  
+         
+HFCL  Limited  
+Manoj  Baid  | Amit  Agarwal | Alok  Chander  
+ 
+Email:  manoj.baid@hfcl.com 
+amit.agarwal@hfcl.com  
+alok@hfcl.com  
+ 
+Contact:  011  35209400  Adfactors  PR 
+Snigdha Nair  | Vasundhra  Sethi  | Akshataa Acharya  
+ 
+Email:  snigdha.nair@adfactorspr.com  
+vasundhra.sethi@adfactorspr.com  
+akshataa.acharya@adfactorspr.com  
+ 
+Contact:  9920481191  | 7428508927  | 9148730795  
+ 
+  
+ 
+ 

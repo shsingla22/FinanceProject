@@ -1,0 +1,110 @@
+ 
+CIN:L 55101WB1949PLC017981  
+CORPORATE OFFICE:  7 SHAM NATH MARG, DELHI -110054 , INDIA / TELEPHONE: +91 -11-23890505/ WEBSITE: WWW.EIHLTD.COM   
+email: isdho@oberoigroup.com  
+ 
+REGISTERED OFFICE : N-806-A, 8th Floor, Diamond Herit age Building, 16, Strand Road, Fairley Place,  
+Kolkata , West Bengal  - 700001                        22nd August  2024 
+     
+The National Stock Exchange of India 
+Limited  
+Exchange Plaza, 5th Floor  
+Plot No..C/1, G Block  
+Bandra Kurla Complex  
+Bandra(E)  
+Mumbai –  400 051.  
+Code: EIHOTEL  The BSE Limited  
+Corporate Relationship Dept.  
+1st Floor, New Trading Ring  
+Rotunda Building  
+Phiroze Jeejeebhoy Towers  
+Dalal Street,Fort  
+Mumbai -400001  
+Code:500840  
+  
+SUB: DISCLOSURE  REGARDING ISSUE OF DUPLICATE SHARE  CERTIFICATES 
+UNDER REGULATION 39(3) OF SEBI (LISTING  OBLIGATIONS AND DISCLOSURE 
+REQUIREMENTS) REGULATIONS, 2015  
+ 
+Dear Sirs / Madam,  
+ 
+Intimation is given pursuant to Regulation 39(3) of SEBI (Listing Obligations and  Disclosure 
+Requirements) Regulations, 2015 (Listing Regulations), regarding issue of  duplicate share 
+certificates by issuing Letter of Confirmation as per SEBI circular No.  
+SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 dated 25th January 2022 to  shareholders as 
+per the details given in Annexure.  
+ 
+The above may please be taken on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully  
+For EIH Limited  
+ 
+ 
+ 
+Lalit Kumar Sharma  
+Company Secretary  
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN600595TO: TN600593FROM:EIH Ltd
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN600593 098737
+NEENA S VORA 21/08/2024
+DUP 2.00OLD 105  42523855  42523751  105  1354793  1354793 
+ 2.00OLD  52  283228536  283228485  52  1385253  1385253 
+ 157 ---------------
+ 2.00NEW 105  42523855  42523751  105  1430690  1430690 
+ 2.00NEW  52  283228536  283228485  52  1430690  1430690 
+ 157 ---------------
+TN600594 129775
+ALKA N KOTHARI 21/08/2024
+DUP 2.00OLD  35  47525930  47525896  35  1360330  1360330 
+ 2.00OLD  17  285728376  285728360  17  1390790  1390790 
+ 52 ---------------
+ 2.00NEW  35  47525930  47525896  35  1430691  1430691 
+ 2.00NEW  17  285728376  285728360  17  1430691  1430691 
+ 52 ---------------
+TN600595 135203
+BHAWNA ANAND 21/08/2024
+DUP 2.00OLD 180  47781715  47781536  180  1361225  1361225 
+ 2.00OLD  90  285856100  285856011  90  1391685  1391685 
+ 2.00OLD 140  393395457  393395318  140  1408019  1408019 
+ 410 ---------------
+ 2.00NEW 180  47781715  47781536  180  1430692  1430692 
+ 2.00NEW  90  285856100  285856011  90  1430692  1430692 
+ 2.00NEW 140  393395457  393395318  140  1430692  1430692 
+ 410 ---------------
+21/08/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+Annexure
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        3 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                2 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 619 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN600595TO: TN600593 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::EIH Ltd
+ 7 
+ 0 
+ 0  7 
+ 7 
+21/08/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

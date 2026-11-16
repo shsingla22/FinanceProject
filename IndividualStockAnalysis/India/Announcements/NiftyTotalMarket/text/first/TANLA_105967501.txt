@@ -1,0 +1,129 @@
+ 
+ 
+Date: August 28, 2024 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+    
+Dear Madam/Sir, 
+ 
+Subject: Press Release – Intimation under Regulation 30 of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015. 
+ 
+We are enclosing herewith the Press Release dated August 28, 2024, titled “ Tanla implements TRAI's 
+Directive: Pioneering SMS Scam Protection with URL and Callback Number Whitelisting ”. 
+ 
+The above information is also available on the website of the Company: www.tanla.com. 
+ 
+This is for your information and records. 
+ 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited 
+ 
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS-15519 
+ SESHANURA
+DHA CHAVADigitally signed by 
+SESHANURADHA 
+CHAVA 
+Date: 2024.08.28 
+09:40:29 +05'30'
+ 
+Tanla implements TRAI's Directive: Pioneering SMS Scam 
+Protection with URL and Callback Number Whitelisting 
+Key Takeaw ays: 
+o Enhanc ed Security: Tanla’s Registration.ai module on Trubloq ensures ro bust protection by 
+registering and whitelisting all CTAs, backed by AI -driven checks against spooﬁng and brand 
+identity theft.  
+o Regulatory Compliance: The module is fully aligned with TRAI’s latest directives, ensuring all 
+messaging activities meet regulatory directions , including DLT integration and traceability.  
+o Proactive Scam Prevention: With features like scrubbing and a secure URL shorte ner, 
+Registration.ai blocks non -compliant SMS, signiﬁcantly reducing the risk of scams . 
+Mumbai, Augus t 28, 2024: Tanla Platforms Limited, India ’s leading  Communications Platform as a 
+Service (CPaaS) , has announced the launch of Registration.ai, a new module unde r its industry -leading 
+platform, Trubloq. This launch at the Global Fintech Festival, Mumbai is a direct response to the recent 
+directives issued by the Telecom  Regul atory Authority of India (TRAI) , dated 20th August 2024,  aimed 
+at curbing the misuse of messaging services and protecting consumers from fraudulent practices.  This 
+launch makes Tanla the first player to launch a solution in line with TRAI’s direct ive. 
+Our studies reveal that p hishing is a major threat in India, now ranking third globally, with scams 
+targeting every segment of society, from the privileged to the unde rprivileged. SMS has emerged as the 
+primary channel  for scam  origination contributing to  monthly attacks of over  200 million, before 
+subsequently transitioning to other channels such as voice and OTT (over -the-top) messaging channels 
+for closure.  Registration.ai is positioned as a critical tool in this fight, designed to ensure that all 
+messag ing activities comply with the latest regulatory standards, while  also enhancing user experience.  
+Key Feat ures of Regi stration.ai on Trubloq: 
+o Registration: Comprehensive registration and whitelisting of all C TAs (URLs, phone numbers, 
+WhatsApp links) on the DLT platform. Powered by AI, the module ensures robust protection against 
+spooﬁng and brand identity appropriation.  
+o URL Shor tener : Integrated within the DLT system, this feature enhances user experience by 
+providing a secure and traceable URL shortening service.  
+o Scrubbing: Blocks SMS containing non -whitelisted CTAs, e ffectively preventing scams and 
+protecting users . 
+Uday Reddy, CEO & Founding Chairman of Tanla Platforms Limited, stated "With the launch of 
+Registration.ai, we are taking a significant step forward in our mission to create a secur e messaging 
+environment. This module is not just a compliance tool but a pr oactive measure to protect our citizens 
+and uphold the integrity of digital communication."  
+"We listen  closely to the entire ecosystem . Our expertise in building sustainable and innovative solutions 
+has allowed us to be ready in no time  with this new directive . The Registration.ai module reflects our 
+commitment to addressing the critical needs of regulat ors, subscribers, telecom  operators and 
+enterprises  alike, ensuring a secure and trustworthy digital world. " added Punee t Gupta, Director -
+Products  of Tanla Platforms Limited.  
+ 
+About  Tanl a Platforms Limited 
+Founded in 1999, Tanla Platforms Limited has revolutionized digital interactions by empowering users 
+and enabling enterprises through its innovation -led SaaS business. With a unique  enterprise and user -
+centric approach, Tanla has emerged as a leader in the CPaaS indus try dominating data security, 
+privacy, spam and scam protection . Headquartered in Hyderabad (India), Tanla is the preferred partner 
+for over 2,000 enterprises across various industries, including global te ch giants like Google, Meta, and 
+Trueca ller. Tanla is recognized as a 'Visionary' in the 2024 Gartner® Magic Quadrant ™ for CPaaS and is 
+ranked among the “1000 High -Growth Companies in Asia Pacific” by the Financial Times . Tanla is publicly 
+traded on the NSE and BSE (NSE: TANLA; BSE: 532790) and is inc luded in prestigious indices such as the 
+Nifty 500, BSE 500, Nifty Digit al Index, FTSE Russell, and MSCI.  
+ 
+Safe Harbour  
+This information contains “forward -looking” statements, and these statements involve substa ntial risks 
+and uncertainties. All statements other than statements of historical fact could be deemed forw ard-
+looking, including, but not limited to, expectations o f future operating results or financial performance, 
+market size and growth opportunities, the calculation  of certain of our key financial and operating 
+metrics, plans for future operations, competitive pos ition, technological capabilities, and strategic 
+relationships, as well as assumptions relating to the foregoing. Forward -looking statements are 
+inherently subject to risks and uncertainties, some of which ca nnot be predicted or quantified. In some 
+cases, you can identify forward -looking statements by ter minology such as “expect,” “anticipate,” 
+“should,” “believe,” “hope,” “target,” “project,” “plan,” “goals,” “estimate, ” “potential,” “predict,” “may,” 
+“will,” “might,” “could,” “intend,” “shall,” and variations of these term s or the negative of these terms  and 
+similar expressions. You should not put undue reliance on any forward -looking statements. Forward -
+looking statements should not be read as a guarantee of fu ture performance or results and will not 
+necessarily be accurate indications of the times at, o r by, which such performance or results will be 
+achieved, if at all.  
+Forward -looking statements are subject to a number of risks and unc ertainties, many of which involve 
+factors or circumstances that are beyond our control. Our actual results  could differ materially from 
+those stated or implied in forward -looking statements  due to a number of factors. If the risks or 
+uncertainties ever materialize or the assumptions prove incorrect, our results may differ materially from 
+those expressed or implied by such forward -looking statements. We assume no obligation and do not 
+intend to update these forward -looking statements or to conform these statements to actual results o r 
+to changes in our expectations, except as required by law.  
+This contains statistical data, estimates and forecasts that are based on independent industry 
+publications or other publicly available information, as well as other information based on our i nternal 
+sources. This information involves many assumptions and limitations, and you are cautioned not to give 
+undue weight to these estimates. We have not independently verified the accuracy or completeness of 
+the data contained in these industry publications and other pub licly available information. Accordingly, 
+we m ake no representations as to the accuracy or completeness of that data nor do we undertake to 
+update such data after the date of this information.  
+By receiving this, you acknowledge that you will be solely responsible for your own assessment of t he 
+market and our market position and that you will condu ct your own analysis and be solely responsible 
+for forming your own view of the potential future performance of our business.  
