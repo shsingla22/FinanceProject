@@ -28060,6 +28060,23 @@
     "listing_timeline": "not stated; no demerged entity is listed or to be listed. The only timing given (June 30, 2026 filing) is 'The transaction is subject to customary approvals, including regulatory ones' for the 49% AVPPL stake, with expansion completion by December 2028",
     "read_next": "APSEZ FY26 annual report and the AVPPL completion filing \u2014 confirm no SEZ demerger exists and receipt of tranche 1 (USD 539mn)",
     "quote": "APSEZ will retain 51% of equity, hold majority of board seats, and will continue to consolidate AVPPL as a subsidiary company"
+   },
+   "213991e7bf8c3c158f3e175e55c1aca5": {
+    "what_is_spun": "not stated - documents show only amalgamation of Adani Harbour Services Limited into APSEZ, no demerger or subsidiary listing",
+    "demerged_business_names": [
+     "not stated"
+    ],
+    "reason": "For the amalgamation (not a demerger): \"enable reduction in number of corporate entities that require monitoring and other administrative work, thereby realizing operational synergies, increasing operational efficiency and integrating business functions\"",
+    "reason_class": "not stated",
+    "insiders": "not stated - no new entity created; documents state \"no cash or share consideration involved\" and \"no change in the shareholding of APSEZ\"",
+    "hidden_value": "Absorbed AHSL carried net worth Rs 14,339.75 crore vs APSEZ standalone Rs 30,436.59 crore on total income Rs 4,249.23 crore; separately Vizhinjam (income Rs 843.19 crore, net worth Rs 2,813.98 crore) was valued at USD 2.85bn by TiL",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "No new listed entity or shares; scheme has no share consideration and no change in APSEZ shareholding pattern",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated - no listing contemplated; the Scheme of Amalgamation was sanctioned by NCLT Ahmedabad on April 1, 2026 and \"the effective date of Scheme is April 21, 2026\" (filing dated April 21, 2026)",
+    "read_next": "The Scheme of Amalgamation on www.adaniports.com, to confirm AHSL merges into APSEZ and no demerger exists",
+    "quote": "The proposed amalgamation will enable reduction in number of corporate entities that require monitoring and other administrative work, thereby realizing operational synergies, increasing operational efficiency and integrating business functions."
    }
   }
  },
