@@ -425,6 +425,20 @@ def test_judge_cache_keeps_several_readings_per_key(tmp_path, monkeypatch):
     assert AZ._ask("L", "s1", "p", True, runner=runner)["what_is_spun"] == "old" and len(calls) == 2
 
 
+def test_corporate_actions_file_with_a_ragged_row_still_parses(tmp_path):
+    import zipfile
+    import demerger_ground_truth as GT
+    z = tmp_path / "PR020424.zip"
+    bc = ("SERIES,SYMBOL,SECURITY,RECORD_DT,BC_STRT_DT,BC_END_DT,EX_DT,ND_STRT_DT,ND_END_DT,PURPOSE\n"
+          "EQ,RAYMOND,Raymond Ltd,11-JUL-2024,,,11-JUL-2024,,,DEMERGER\n"
+          "EQ,ODDCO,\"Odd, Co Ltd\",,,,12-APR-2024,,,DEMERGER,extra,fields\n"      # ragged: overflow columns
+          "EQ,XYZ,XYZ Ltd,15-APR-2024,,,15-APR-2024,,,DIVIDEND\n")
+    with zipfile.ZipFile(z, "w") as zz:
+        zz.writestr("bc02042024.csv", bc)
+    rows = GT.parse_bc(z)
+    assert [(r["symbol"], r["date"]) for r in rows] == [("RAYMOND", "2024-07-11"), ("ODDCO", "2024-04-12")]
+
+
 def test_register_rows_are_put_under_the_universe_symbol_by_isin_or_twin():
     import demerger_ground_truth as GT
     members = {"TMPV": "Tata Motors Passenger Vehicles Ltd.", "HEGAM": "HEG Advanced Materials Ltd.", "VEDL": "Vedanta Ltd."}

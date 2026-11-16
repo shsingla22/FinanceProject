@@ -94,7 +94,10 @@ def parse_bc(zpath: Path) -> list[dict]:
             text = z.read(n).decode("utf-8", "replace")
             rd = csv.DictReader(io.StringIO(text))
             for r in rd:
-                r = {(k or "").strip().upper(): (v or "").strip() for k, v in r.items()}
+                # older files have ragged rows (a comma inside the security
+                # name): the overflow lands in a list under a None key
+                r = {(k or "").strip().upper(): (" ".join(v) if isinstance(v, list) else (v or "")).strip()
+                     for k, v in r.items()}
                 purpose = r.get("PURPOSE") or ""
                 if not PURPOSE_RX.search(purpose):
                     continue
@@ -103,13 +106,13 @@ def parse_bc(zpath: Path) -> list[dict]:
                         if v and any(nd in k for nd in needles):
                             return v
                     return ""
-                date = col("RECORD") or col("EX DT", "EX-DT", "EX DATE", "EXDATE") or col("BC ST", "BC_ST") or ""
+                date = col("RECORD") or col("EX_DT", "EX DT", "EX-DT", "EX DATE", "EXDATE") or col("BC ST", "BC_ST") or ""
                 if not date:                       # the file is dated; fall back to its day
                     date = zpath.stem[2:4] + "-" + zpath.stem[4:6] + "-20" + zpath.stem[6:8]
                     date = "20" + zpath.stem[6:8] + "-" + zpath.stem[4:6] + "-" + zpath.stem[2:4]
                 out.append({"date": _iso(date), "symbol": r.get("SYMBOL", ""),
                             "company": r.get("SECURITY", ""), "purpose": purpose,
-                            "source": "bc", "detail": f"ex {_iso(col('EX DT', 'EX-DT', 'EX DATE'))}; series {r.get('SERIES', '')}; file {zpath.name}"})
+                            "source": "bc", "detail": f"ex {_iso(col('EX_DT', 'EX DT', 'EX-DT', 'EX DATE'))}; series {r.get('SERIES', '')}; file {zpath.name}"})
     return out
 
 
