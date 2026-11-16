@@ -1,0 +1,167 @@
+ 
+AXISCADES Technologies Limited  
+(Formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru - 560024, Karnataka, INDIA  
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com  
+December  02, 202 4 
+The Manager  
+Listing Department  
+National Stock Exchange of India Ltd.  
+Exchange Plaza, C -1, Block G  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai - 400051  
+Scipcode  : AXISCADES  
+ The Manager     
+Listing Department     
+BSE Limited    
+Phiroze Jeejeebhoy Towers   
+Dalal Street      
+Mumbai - 400 001  
+Scripcode: 532395  
+ 
+Dear Sir /Madam,  
+ 
+Subject: Press Release - AXISCADES Technologies Ltd. (ACTL) announces Strategic Restructuring of its 
+Defence -focused subsidiaries Mistral Solutions Pvt. Ltd. and AXISCADES Aerospace & Technologies 
+Pvt. Ltd.  
+ 
+With refe rence to captioned subject, please find enclosed P ress Release titles - AXISCADES 
+Technologies Ltd. (ACTL) announces Strategic Restructuring of its Defence -focused subsidiaries Mistral 
+Solutions Pvt. Ltd. and AXISCADES Aerospace & Technologies Pvt. Ltd.  
+ 
+Kindly take the same on record.  
+Yours faithfully,  
+For AXISCADES Technologies Limited  
+ 
+ 
+Sonal Dudani  
+Company Secretary & Compliance Officer  
+ 
+ 
+AXISCADES Technologies Ltd . (ACTL) announces Strategic 
+Restructuring of its Defence -focused subsidiaries Mistral Solutions  
+Pvt. Ltd. and AXISCADES Aerospace & Technologies Pvt. Ltd. 
+ 
+Bangalore, India                   December 2, 2024  
+AXISCADES Technologies Ltd . (ACTL), a leading technology solutions provider, has unveiled a 
+comprehensive strategic restructuring initiative aimed at enhancing the business operations of 
+its Defence -focused subsidiaries , Mistral Solutions  Pvt. Ltd. (Mistral)  and AXISCADES Aerospace 
+& Technologies Pvt. Ltd. (ACAT). This move will align it with evolving market demands  and will 
+leverage accelerated growth in th ese sectors. This move underscores the company’s 
+commitment to innovation  and operational excellence while offering compelling value for its 
+stakeholders.  
+Context and Motivation for the Strategic Restructuring  
+ACTL completed its acquisition of Mistral in 2022 . ACTL thus currently has two Defence -focused 
+companies:  ACAT (a 100% defence pure -play company) and Mistral (60% Defence, 40% 
+Semiconductor).   
+The Board of ACTL has decided to restructure ACAT and Mistral , including its  Leadership,  in order 
+to:  
+• take advantage of commercial and technological synergies . 
+• expand and reposition Mistral ’s semiconductor line of business; and   
+• create further operational efficiencies .  
+This process was initiated in Q3 FY2025 and should be completed by Q4 FY25.  
+New Structure  
+ACAT’s operations will be integrated with Mistral . ACAT will continue to exist as an entity in order 
+to leverage its Defence Industrial licence and other crucial defence OEM contracts  until all 
+components of ACAT are fully integrated into Mistral.  
+New Vision and Strategy  
+Post-restructuring, the vision for Mistral is to be a significant global player in Defence and AI -
+powered Hypergrowth sectors , with 60% coming from Defence and 40% from Hypergrowth 
+sectors as a result of  growing demand for Mistral ’s semiconductor expertise.   
+ 
+Expansion of Defence LOB  
+Mistral will follow a three -pronged strategy for growing its Defence  & Aerospace  footprint: 
+1. Increase its number of programs and revenue per program (RPP), primarily through DRDO 
+and Defence PSUs or Tier -1s. This will also include increasing product offerings across 
+platforms to promote non -linear growth.  Mistral is  pleased to mention that it is the prime 
+supplier of Direction Finding (DF) system that has been deployed on multiple Indian 
+defence platforms such as Ground Systems, UAVs, A EW&CS and Surface Vessels.  And 
+Mistral’s recent successful delivery of X -Band Radar for high endurance autonomous 
+underwater platform will further strengthen its position as the leader in this category . 
+ 
+2. Focus on unmanned combat and logistics platforms for Defence  (primarily drones, anti -
+drones, and self -destroying drones ) as part of our Direct-to-Defence (D2D) offering.   ACAT 
+is proud to say that it has successfully delivered over 75 anti -drone systems to the Indian 
+Army and is the first, and so far, the only Indian company to do so.   
+ 
+3. Expand engagements with traditional partner OEMs, especially the Big 6 of Europe.  
+Having successfully completed the Mirage and Rafale offset programs with Avionics and 
+Weapon System OEMs, the relationship is expected to continue towards the upcoming 
+Marine Rafale program.  
+Repositioning  of Mistral  
+Mistral will be repositioning  the company  as a “Chip to Product” C2P company , with the mott o 
+“Engineering the intelligent edge” . Mistral’s core strength  being a Value accretive strategic 
+partner to Semiconductor Companies , Integrated Device Manufacturers (IDMs) & OEMs. As 
+EdgeAI being at an inflection point, Mistral is uniquely positioned to serv e its customers with 
+niche Product Integration and GenAI Enablement Services. Going forward, Mistral’s value 
+proposition to Customers would be:  
+• Addressing the gap between Silicon and Commercial shipping products . 
+• Consolidation of  Strong Horizontal platform expertise for Hardware, Platform Software 
+with GenAI, Large/Small Language Mod el based enablement services . 
+• Product Hardening - Pre-Certification , Pilot Production and Batch Production.  
+ Mistral has identified five verticals, besides Defence & Aerospace  as its growth drivers :  
+• The core growth focus will be on the Defence & Aerospace vertical, which synergizes with 
+the three-pronged expansion strategy  mentioned above . 
+ 
+• The hypergrowth focus will be on developing AI -driven solutions , including GenAI-based 
+product development , for five verticals:  Automotive,  Industrial , Consumer, Healthcare  
+and Hyperscalers .  
+• More customer s looking to add AI to their devices. The availability of heterogeneous So C’s 
+with NPU+GPU+CPU capabilities, AI SDKs and the adaptation of LLMs /SLMs for edge 
+inferencing is accelerating the pace of adoption.   
+ 
+• Mistral is uniquely positioned with its existing customer base of semiconductor and Edge 
+device OEMs looking to add Gen AI capabilities to their devices. Mistral is pivoting to offer 
+AI enablement services to existing and new customers.  
+ 
+• The hypergrowth focus will cater to customers in the above verticals while continuing to 
+complement semiconductor partners and fabless S oC companies to enable successful 
+shipping of products with Gen AI capabilities.  Mistral will consolidate its existing platform 
+services and make a strategic pivot to G en AI enablement services for these devices 
+providing opportunity to upsell and cross sell in the customer engagements.  
+ 
+• Further as AI is the new UI for the Edge devices . Mistral will be developing its services and 
+solutions to enable customer products with agentic interface solutions.  
+Mistral’s hypergrowth sector activities will be driven from its US -based locations - Fremont, CA 
+(Silicon Valley) and Dallas, TX.  This move is in-line with our goal of having a scalable global 
+footprint with non-linear offering in high growth sectors.    
+Outlook  
+Dr. Sampath Ravinarayanan, Director and Chief Mentor , said: “Our mission is to enable intelligent 
+products at the edge with Chip -to-Product services for Defence and other  hypergrowth  sectors. 
+In parallel,  we are committed to becoming a significant player in India and globally in Unmanned 
+Combat and Ground Sy stems. We are rebuilding the leadership team to meet the challenge of 
+taking the company to next level with a scalable step growth; Together  the new team is highly 
+capable and  committed to deliver  a compelling value pr oposition for all our stakeholders: our 
+customers, our shareholders, and our employees.”’ 
+For further Queries please contact:   
+Company: AXISCADES Technologies Ltd.  Investor Relations: Orient Capital  
+Mrs. Sangeeta Tripathi (Head - Investor 
+Relations)  
+email id: sangeeta.tripathi@axiscades.in / 
+investor.relations@axiscades.in   
+Tel: +91 7021823011  
+Mr. Akash Nejjur (DGM – Marketing & 
+Communications)  
+email id: akash.nejjur@axiscades.in   Mr. Irfan Raeen / Mr. Sumeet Khaitan  
+email id: irfan.raeen@linkintime.co.in / 
+sumeet.khaitan@linkintime.co.in   
+Tel: +91 9773778669/ +91 7021320701 
+www.orientcap.com  
+Tel: +91 80 41939000  
+Media / PR Pooja Chetri  
+Tel: +91 9819763019  
+Email: pooja@brandingedgestrategies.com   
+ 
+Safe Harbor  
+Certain statements in this communication may be ‘forward -looking statements within the 
+meaning of applicable  laws and regulations. These forward -looking statements involve a number 
+of risks, uncertainties, and other  factors that could cause actual results to differ materially from 
+those suggested by the forward -looking statements. Important developments that could affect 
+the Company’s operations include changes in the  industry structure, significant changes in the 
+political and economic environment in India and overseas, tax laws,  import duties, litigation, and 
+labour relations. AXISCADES Technologies Ltd. (AXISCADES) will not be in any way  responsible 
+for any action taken based on such statements and undertakes no obligation to publicly update  
+these forward -looking statements to reflect subsequent events or circumstances.  
+ 

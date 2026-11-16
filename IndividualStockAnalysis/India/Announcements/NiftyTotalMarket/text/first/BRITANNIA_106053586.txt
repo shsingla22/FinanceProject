@@ -1,0 +1,270 @@
+ 
+ 
+ 
+11th November , 202 4 
+ 
+ 
+To,   
+Corporate Relations Department  
+BSE Limited,  Listing Department  
+National Stock Exchange of India Limited,  
+Phiroze Jeejeebhoy Towers,  Exchange Plaza, C/1, G Block, Bandra -Kurla Complex,  
+Dalal Street, Fort, Mumbai - 400 001  Bandra (East), Mumbai – 400 051 
+Scrip Code: 500825  Scrip Code: BRITANNIA  
+ 
+Dear Sir/Madam,  
+ 
+Sub : Outcome of the Board Meeting held on 11th November , 2024  
+ 
+Ref : Regulation 30, 33 and other applicable provisions of the Se curities and Exchange Board of 
+India (Listing Obligations and Disclosure Re quirements) Regulations, 2015 (‘SEBI Listing 
+Regulations , 2015 ’) 
+ 
+With reference to the subject cited above, this is to inform you that the Board of Directors of the 
+Company at their Meeting held today i.e. , 11th November , 202 4, have  inter -alia, considered and 
+approved : 
+  
+ The Unaudited  Consolidated  and Standalone Financial Results of the Company for the quarter  and 
+half year ended  30th September , 202 4 and authorized Mr. Nusli N . Wadia, Chairman  of the Company , 
+to sign the results to be submitted to  the Stock E xchanges.  
+ 
+Pursuant to Regulation 33  of the SEBI Listing Regulations, 2015,  the Statements  of the Unaudited 
+Consolidated and Standalone Financial Results of the Company for the quarter  and half year ended                                    
+30th September , 2024 along with the  Limited Review Reports issued by M/s. Walker Chandiok & Co 
+LLP, St atutory Auditors are enclosed  as ‘Annexure I’ . 
+ 
+Further, pursuant to Regulation 47(1)(b) of the SEBI Listing Regulations, 2015, t he extract of the 
+Financial  Results , copy of which is forming part of Annexure -I will be published in the N ewspa pers . 
+ 
+ Appointment of Mr. Jehangir Nusli Wadia  (DIN: 00088831) as an Additional  Non-Executive                        
+Non-Independent Director of the Company , liable to retire by rotation , with effect from                                 
+11th November, 2024 subject to the approval of the Members of the Company through Postal Ballot.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Notice of Postal Ballot will be sent to the Members in due course and the same shall be filed 
+with the Stock Exchanges.  
+ 
+The details as required under Regulation 30 of the SEBI Listing Regulatio ns, 2015 read with the 
+relevant circulars are enclosed as ‘ Annexure -II’. 
+ 
+The Board Meeting commenced at 12:30  P.M. IST an d concluded at 5:45 P.M. IST. 
+Request you to take the above information on records.  
+Yours faithfully,  
+For Britannia Industries Limited  
+ 
+ 
+ 
+T.V. Thulsidass  
+Company Secretary  
+Membership No.: A20927  
+Encl.: A s above  
+  
+PART I (₹ in Crores)
+Statement of Consolidated Financial Results for the quarter and six months ended 30 September 2024
+S.No.PARTICULARS  YEAR ENDED 
+30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+I Revenue from operations
+Sale of goods           4,566.23           4,129.92           4,370.47 8,696.15           8,340.31            16,546.21             
+Other operating revenues               101.34               120.37                 62.41 221.71              103.27               223.06                   
+Total revenue from operations           4,667.57           4,250.29           4,432.88 8,917.86           8,443.58            16,769.27             
+IIOther income 46.00                55.61                52.35                101.61               106.28               214.18                   
+III Total income (I+II)           4,713.57           4,305.90           4,485.23 9,019.47           8,549.86            16,983.45             
+IV Expenses
+Cost of materials consumed 2,578.05          2,211.87          2,282.58          4,789.92           4,362.04           8,546.89              
+Purchases of stock-in-trade 212.28             190.34             263.97             402.62              509.53              941.48                   
+Changes in inventories of finished goods, stock-in-trade and work-in-progress               (60.89)                   3.20               (14.79) (57.69)               (11.13)               3.66                       
+Employee benefits expense 232.28              201.95              159.87              434.23               348.21               708.70                   
+Finance costs 34.64               28.95               53.42               63.59                106.47              164.00                   
+Depreciation and amortisation expense 76.07                73.93                71.68                150.00               142.44               300.46                   
+Other expenses 922.44              889.27              868.83              1,811.71            1,673.63            3,398.70               
+Total expenses 3,994.87         3,599.51         3,685.56         7,594.38           7,131.19           14,063.89            
+V Profit before share of profit / (loss) of associates and joint venture (III-IV) 718.70              706.39              799.67              1,425.09            1,418.67            2,919.56               
+VI Share of (loss) / profit in associates and joint venture (3.40)                 (0.65)                 (1.04)                 (4.05)                  1.95                    (3.19)                      
+VII Profit before exceptional items and tax (V+VI) 715.30              705.74              798.63              1,421.04            1,420.62            2,916.37               
+VIIIExceptional items - Expense (Refer note 6) 0.15                  24.64                -                    24.79                 -                      2.90                       
+IXProfit before tax (VII-VIII)               715.15               681.10               798.63 1,396.25           1,420.62                           2,913.47 
+X Tax expense :
+(i) Current tax 185.67             179.45             207.77             365.12              378.97              765.69                   
+(ii) Deferred tax charge/ (credit) (2.07)                (3.23)                4.36                 (5.30)                 (0.30)                 13.56                     
+Total tax expense 183.60              176.22              212.13              359.82               378.67               779.25                   
+XINet profit for the period / year (IX-X)               531.55               504.88               586.50 1,036.43           1,041.95            2,134.22               
+XIIOther comprehensive income / (loss) (net of tax)
+A (i) Items that will not be reclassified subsequently to profit or loss
+- Remeasurements of the net defined benefit plans -                    -                    -                    -                      -                      (2.39)                      
+(ii) Income tax relating to items that will not be reclassified subsequently to profit or loss -                    -                    -                    -                      -                      0.64                       
+B  Items that will be reclassified subsequently to profit or loss
+- Foreign currency translation reserve                   1.46                   1.38                   2.89 2.84                    2.39                    2.87                       
+Total other comprehensive (loss) / income (net of tax) 1.46                 1.38                 2.89                 2.84                    2.39                    1.12                       
+XIIITotal comprehensive income for the period /year (XI+XII) 533.01             506.26             589.39             1,039.27           1,044.34           2,135.34              
+XIVProfit / (loss) attributable to:
+Owners of the Company 531.45              505.64              587.59              1,037.09            1,045.14            2,139.81              
+Non-controlling interests 0.10                  (0.76)                 (1.09)                 (0.66)                  (3.19)                  (5.59)                      
+Profit for the period / year 531.55             504.88              586.50              1,036.43            1,041.95            2,134.22               
+XVOther comprehensive income / (loss) attributable to:
+Owners of the Company 1.43                  0.66                  3.33                  2.09                    2.83                    1.69                       
+Non-controlling interests 0.03                  0.72                  (0.44)                 0.75                    (0.44)                  (0.57)                      
+Other comprehensive income / (loss)  for the period / year 1.46                  1.38                  2.89                  2.84                    2.39                    1.12                       
+XVITotal comprehensive income / (loss) attributable to:
+Owners of the Company 532.88              506.30              590.92              1,039.18            1,047.97            2,141.50               
+Non-controlling interests 0.13                  (0.04)                 (1.53)                 0.09                    (3.63)                  (6.16)                      
+Total comprehensive income for the period /year 533.01              506.26              589.39              1,039.27            1,044.34            2,135.34               
+XVII Paid-up equity share capital (face value of ₹ 1 each) 24.09                24.09                24.09                24.09                 24.09                 24.09                     
+XVIIIOther equity 3,917.43              
+XIXEarnings per share (face value of ₹ 1 each) (not annualised):
+                        (a) Basic ( ₹) 22.06               20.99               24.41               43.06                43.41                88.84                     
+                        (b) Diluted (₹) 22.06                20.99                24.41                43.06                 43.41                 88.84                     
+ See accompanying notes to the consolidated financial results continued…Tel: +91 33 22872439/2057, +91 80 37687100Registered Office: 5/1A, Hungerford Street, Kolkata - 700 017(Corporate Identity Number: L15412WB1918PLC002964)BRITANNIA INDUSTRIES LIMITED
+Consolidated Financial ResultsWebsite: www.britannia.co.in ; E-mail id: investorrelations@britindia.com
+QUARTER ENDED SIX MONTHS ENDED
+
+S.No. 30.09.2024 31.03.2024
+(Audited)
+IAssets
+(1)Non-current assets
+(a) Property, plant and equipment 2,783.13        2,602.94            
+(b) Capital work-in-progress 56.48              187.54               
+(c) Investment property 27.01              27.48                  
+(d) Goodwill 130.42            129.82               
+(e) Other intangible assets 9.16                10.90                 
+(f) Investment in associates and joint venture 487.91            491.96                
+(g) Financial assets
+     (i) Investments 506.11            578.25                
+     (ii) Loans receivable 25.00              -                       
+     (iii) Other financial assets 30.63              25.50                 
+(h) Deferred tax assets (net) 49.02              43.88                  
+(i) Tax assets (net) 68.25              67.95                 
+(j) Other non-current assets 43.85              58.68                 
+Total non-current assets 4,216.97        4,224.90             
+(2)Current assets
+(a) Inventories 1,972.39        1,181.22            
+(b) Financial assets
+     (i) Investments 1,374.36        1,696.51            
+     (ii) Trade receivables 510.00            393.33               
+     (iii) Cash and cash equivalents 111.15            322.80               
+     (iv) Bank balances other than (iii) above 139.16            123.55               
+     (v) Loans receivable 235.00            460.00                
+    (vi) Other financial assets 760.13            531.13               
+(c) Other current assets 147.57            133.71                
+(d) Asset held-for-sale -                   6.41                     
+Total current assets 5,249.76        4,848.66            
+Total assets 9,466.73        9,073.56            
+IIEquity and Liabilities
+(1)Equity 
+(a) Equity share capital 24.09              24.09                 
+(b) Other equity 3,186.23        3,917.43            
+Equity attributable to equity holders of the parent 3,210.32        3,941.52             
+Non-controlling interests 26.14              24.50                  
+Total equity 3,236.46        3,966.02            
+(2) Liabilities
+(A)Non-current liabilities
+(a) Financial liabilities
+     (i) Borrowings 808.89            904.72                
+     (ii) Lease liabilities 19.56              20.13                  
+     (iii) Other financial liabilities 79.08              65.66                 
+(b) Deferred tax liabilities (net) 1.90                2.06                     
+(c) Provisions 32.01              30.56                  
+Total non-current liabilities 941.44            1,023.13            
+(B) Current liabilities
+(a) Financial liabilities
+     (i) Borrowings 1,922.39        1,136.49             
+     (ii) Lease liabilities 2.72                3.62                     
+     (iii) Trade payables -                       
+         (a) total outstanding dues of micro enterprises and small enterprises 45.55              30.83                 
+        (b) total outstanding dues of creditors other than micro enterprises and small enterprises 1,763.68        1,596.65            
+     (iv) Other financial liabilities 547.70            497.40               
+(b) Other current liabilities 222.77            167.29               
+(c) Provisions 600.83            559.20               
+(d) Tax liabilities (net) 183.19            92.93                 
+Total current liabilities 5,288.83        4,084.41            
+Total equity and liabilities 9,466.73        9,073.56            
+continued…PARTICULARSAs at
+(Unaudited)(₹ in Crores)Consolidated Balance Sheet
+Consolidated Statement of Cash Flows
+(₹ in Crores)
+Particulars
+30.09.2024 30.09.2023
+Cash flows from operating activities
+Profit before tax and share of profits / (loss) of associates and joint venture and after exceptional items 1,400.30                        1,418.67                        
+Adjustments for :
+Depreciation and amortisation expense 150.00                           142.44                           
+Net gain on financial asset measured at fair value through Statement of Profit and Loss (27.04)                            (10.26)                            
+Profit on sale of property, plant and equipment (0.90)                              (0.08)                              
+Interest income from financial assets carried at amortised cost (67.26)                            (91.16)                            
+Finance costs 63.59                             106.47                           
+Changes in 
+Inventories (790.97)                          (455.61)                          
+Trade receivables (116.30)                          (83.21)                            
+Other financial assets and other assets (162.92)                          (36.37)                            
+Trade payables, other financial liabilities, other liabilities and provisions 372.50                           260.12                           
+Cash generated from operating activities 821.00                           1,251.01                        
+Income-tax paid, net of refund (275.16)                          (283.80)                          
+Net cash generated from operating activities 545.84                           967.21                           
+Cash flow from investing activities
+Acquisition of property, plant and equipment, capital work-in-progress and other intangible assets (197.04)                          (292.10)                          
+Proceeds from sale of property, plant and equipment and assets held-for-sale 6.16                                53.17                             
+Purchase of non-current investments (31.11)                            (85.90)                            
+Proceeds from sale / redemption of non-current investments 391.58                           87.67                             
+(Purchase) / Sale of current investments, net (29.35)                            1,397.19                        
+Inter-corporate deposits placed (25.00)                            (225.00)                          
+Inter-corporate deposits redeemed 225.00                           135.00                           
+Change in other bank balances (15.61)                            (19.52)                            
+Interest received 76.49                             71.52                             
+Net cash generated from investing activities 401.12                           1,122.03                        
+Cash flow from financing activities
+Interest paid (83.68)                            (123.07)                          
+Principal payment of lease liabilities (1.82)                              (0.98)                              
+Interest paid on lease liabilities (0.44)                              (0.31)                              
+Repayment of non-current borrowings (52.50)                            (59.78)                            
+Repayment of bonus debentures (698.52)                          -                                  
+Proceeds from /(Repayment of) working capital borrowings, net* 1,435.67                        (160.01)                          
+Contribution from non-controlling interest 1.56                                -                                  
+Dividends paid (1,764.97)                      (1,728.96)                      
+Net cash used in financing activities (1,164.70)                      (2,073.11)                      
+Net change in cash and cash equivalents (217.74)                          16.13                             
+Effect of exchange rate changes on cash and cash equivalents 0.63                                1.15                                
+Cash and cash equivalents at beginning of the period (net of bank overdraft) 319.45                           100.16                           
+Cash and cash equivalents at end of the period (net of bank overdraft) 102.34                           117.45                           
+Cash and cash equivalents 111.15                           120.44                           
+Bank overdraft (8.81)                              (2.99)                              
+Cash and cash equivalents at end of the period (net of bank overdraft) 102.34                           117.45                           
+ continued… (Unaudited) Six months ended
+ *  Bank overdraft is shown under cash and cash equivalent as per requirement of IND AS 7. Hence, proceeds from borrowings under financing activity does 
+not include the movement in bank overdraft. 
+ Notes:
+1.
+(₹ in Crores)
+YEAR ENDED
+30.09.2024 30.06.2024 30.09.2023  30.09.2024  30.09.2023 31.03.2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+Total revenue from operations         4,500.84         4,094.44         4,288.85          8,595.28          8,159.48           16,186.08 
+Profit before tax            694.85            675.65            781.74          1,370.50          1,388.79              2,855.44 
+Net profit for the period / year            514.41            502.08            570.49          1,016.49          1,013.54              2,082.05 
+Total comprehensive income            514.41            502.08            570.49          1,016.49          1,013.54              2,080.62 
+2.
+3.
+4.
+5.
+6.
+Place: Mumbai
+Date: 11 November 2024On behalf of the Board of Directors
+ChairmanNusli N WadiaExceptional item for the quarter ended 30 June 2024 includes cost incurred of ₹ 18.51 crores (for the year ended 31 March 2024: ₹ 2.90 crores) towards own workers with respect to VRS
+Scheme announced by the Company in one of its factories. In addition, cost was incurred by the Company towards contract labourers of the said factory of ₹ 0.15 crores for the quarter
+ended 30 September 2024 , ₹ 6.13 crores for the quarter ended 30 June 2024 and ₹ 6.28 crores for the  six months ended 30 September 2024. 
+For Britannia Industries LimitedTheunauditedstandalonefinancialresultsforthequarter andsixmonthsended30September 2024canbeviewedonthewebsiteoftheCompany,NationalStockExchangeofIndiaLimited
+('NSE') andBSE Ltd('BSE') atwww.britannia.co.in , www.nseindia.com and www.bseindia.com respectively. Informationofunauditedstandalone financialresults ofthe Companyin termsof
+Regulation 47(1)(b) of the Securities and Exchange Board of India ('SEBI') (Listing Obligations and Disclosure Requirements) Regulations, 2015 is as under:
+ QUARTER ENDED SIX MONTHS ENDED
+The unaudited consolidated financial results for the quarter and six months ended 30 September 2024 ('the results') of Britannia Industries Limited ('the Company') and its subsidiaries
+(collectively 'the Group') and its associates and its joint venture have been prepared in accordance with Indian Accounting Standards ('Ind AS') prescribed under Section 133 of Companies
+Act, 2013 ('The Act') read with the relevant rules thereunder and in terms of Regulation 33  of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+The operating segment of the Group is identified to be "Foods", as the Chief Operating Decision Maker reviews business performance at an overall Group level as one segment. Therefore,
+the disclosure as per Regulation 33(1)(e) read with Clause (L) of Schedule IV of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 is not applicable to the Group.PARTICULARS
+The results have been reviewed and recommended by the Audit Committee of the Board and approved by the Board of Directors on 11 November 2024.
+TheStatutoryAuditorsoftheCompanyhavecarriedoutalimitedreviewoftheaboveunauditedconsolidatedfinancialresultsforthequarter andsixmonthsended 30September 2024and
+have issued an unmodified Review Report on the same. The Review Report of the Statutory Auditors is being filed with NSE and BSE and is also available on the Company's website.

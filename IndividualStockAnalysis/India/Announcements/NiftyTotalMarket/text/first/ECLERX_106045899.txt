@@ -1,0 +1,116 @@
+ 
+ 
+ 
+eClerx/SECD/SE/202 4/157 
+ 
+November  5, 2024  
+ 
+BSE Limited  
+Corporate Relationship Department,  
+Phiroze Jeejeebhoy Towers,  
+25th Floor, Dalal Street,  
+Fort, Mumbai - 400 001  National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1,  
+Block G, Bandra - Kurla Complex   
+Bandra (East),  
+Mumbai – 400 051  
+ 
+Dear Sir/Madam,   
+ 
+Sub:  Earnings Presentation  and Press release w.r.t Consolidated and Standalone Un-audited Financial   
+Results for the quarter and half year  ended  September 30, 202 4 
+ 
+Scrip  Code:  BSE - 532927  
+  NSE – ECLERX  
+ 
+Further to our letter number eClerx/SECD/SE/202 4/154 dated November  5, 202 4, please find attached the 
+earnings presentation and press release  w.r.t Consolidated and Standalone Un-audited Financial Results 
+for the quarter and half year  ended September  30, 202 4 for your records.  
+ 
+Since Stock Exchange(s) portal for online submissions does not accept excel documents, we have made 
+the “Investor Sheet” available on our website under the “Investor Relations” section.  
+ 
+Thanking you,  
+ 
+Yours faithfully  
+For eClerx Services Limited  
+ 
+ 
+ 
+ 
+Pratik Bhanushali  
+VP-Legal & Company Secretary  
+F8538  
+ 
+Encl: as above  
+N O V  2 0 2 4
+INVESTOR RELATIONS
+FINANCIAL PERFORMANCE –Q2 FY25
+NOV 5, 2024
+1 w w w . e c l e r x . c o m
+ CONFIDENTIALFinancial Summary
+Metrics FY25 Q2 Q-o-Q FY25H1 Y-o-Y
+Revenue OPG revenue (USD mm) 98.8 6.0% 192.1 12.0%
+OPG revenue (INR mm) 8,318 6.4% 16,138 14.8%
+Total revenue (INR mm) 8,447 5.2% 16,478 15.4%
+ProfitEBITDA (INR mm) 2,288 22.2% 4,161 5.6%
+EBIT (INR mm)* 1,960 25.9% 3,516 4.9%
+Net profit (INR mm) 1,402 25.7% 2,519 3.9%
+MarginEBITDA (%) 27.1% 377 bps 25.2% -233 bps
+EBIT (%) 23.2% 382 bps 21.3% -213 bps
+Net profit (%) 16.6% 271 bps 15.3% -168 bps
+* EBIT includes other income and excludes rental interest under IND AS116
+•Q2 YoY Constant currency (CC) growth by 12.0%; QoQ CC growth by 5.7%
+•EBITDA increase (QoQ) on account of Revenue growth, improved operating efficiency
+2 w w w . e c l e r x . c o m
+ CONFIDENTIALOther Income 
+* Gain / Loss regrouped as other income/expenses based on profit or loss position in the press release financials
+•Decrease in Investment Income due to buyback of shares in Jul’24.
+•Q1 others included one -time reimbursement
+•Revaluation and Realised Gain 
+-USD/INR FY25 Q2 Exit: 83.77 vs. FY25 Q1 Exit: 83.35 
+-EUR/INR FY25 Q2 Exit: 93.49 vs. FY25 Q1 Exit: 89.25
+-GBP/INR FY25 Q2 Exit: 112.37 vs. FY25 Q1 Exit: 105.41 Other Income FY25 Q2 FY25 Q1 FY24 Q4 FY24 Q3 FY24 Q2
+Investment Income 88.1 147.3 133.8 108.5 76.7
+Revaluation Income* 1.4 6.8 -7.8 -17.0 46.0
+Others 38.9 58.1 104.3 116.4 18.8
+Total 128.3 212.2 230.3 207.8 141.5Figures in INR millions.
+3 w w w . e c l e r x . c o m
+ CONFIDENTIAL19.424.422.635.7
+19.622.9
+18.321.6
+18.229.4
+24.8
+18.826.728.9
+Q1'FY22 Q2'FY22 Q3'FY22 Q4'FY22 Q1'FY23 Q2'FY23 Q3'FY23 Q4'FY23 Q1'FY24 Q2'FY24 Q3'FY24 Q4'FY24 Q1'FY25 Q2'FY25ACV of new deals (excludes CLX)BPaaS , A&A and ACV Amounts in $ mm
+102.1 MM 82.4 MM 91.2 MM21.4 19.721.119.921.922.1
+FY22 FY23 FY24 FY25 H1BPaaS
+16.1 17.216.219.017.217.1
+FY22 FY23 FY24 FY25 H1A&A
+$72.6$83.1$86.5
+$66.5$71.2
+$60.9
+$39.6 $36.2
+4 w w w . e c l e r x . c o m
+ CONFIDENTIALHedge Updates
+Current Hedge Status
+•Total outstanding hedges now $237.0 mm at average INR 85.40/$; 100% forwards
+Contract Year Currency Amount (mm) Avg. Rate (INR) 
+Matured ForwardsFY24 Q2 $41.7 81.82
+FY24 Q3 $45.0 82.96
+FY24 Q4 $45.0 83.65
+Total FY24 USD $173.4 82.35
+FY25 Q1 $47.7 84.23
+FY25 Q2 $47.7 84.38
+Outstanding ForwardsFY25 Q3 $49.8 84.66
+FY25 Q4 $49.8 84.86
+Total FY25 USD $99.6 84.76
+FY26 Q1 $39.9 85.19
+FY26 Q2 $41.4 85.56
+FY26 Q3 $26.4 86.07
+FY26 Q4 $17.1 86.62
+Total FY26 USD $124.8 85.70
+FY27 Q1 $8.4 87.10
+FY27 Q2 $4.2 88.13
+Total FY27 USD $12.6 87.44
+Total Outstanding USD $237.0 85.40

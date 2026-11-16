@@ -1,0 +1,159 @@
+ 
+AXISCADES Technologies Limited  
+(Formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru - 560024, Karnataka, INDIA  
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com  
+January 24, 2025  
+ 
+The Manager      Listing Department  
+Dptt. Of Corporate Services    National Stock Exchange of India Limited  
+BSE Limited      Exchange Plaza, C -1, Block G                
+Floor 25, Phirozee  Jeejeebhoy Tower,  Bandra – Kurla Complex,  
+Dalal Street , Fort,     Bandra(E),      
+Mumbai 400 001     Mumbai  400 051  
+BSE Scrip Code: 532395    NSE Symbol: AXISCADES  
+       
+Dear Sir/Madam,  
+Sub.: Press Release -  Mistral Unveils AI Enabled Direct RF family of Products Powered by 
+Altera’s latest Agilex ™ 9 FPGAs and SoCs  
+With reference to captioned subject, please find enclosed Press Release titled – “Mistral 
+Unveils AI Enabled Direct RF family of Products Powered by Altera’s latest Agilex ™ 9 FPGAs 
+and SoCs ”. 
+ 
+Kindly take the same on record.  
+ 
+Yours faithfully,  
+For AXISCADES Technologies Limited  
+ 
+ 
+ Sonal Dudani  
+Company Secretary & Compliance Officer  
+Encl.:  A/a 
+ 
+ 
+  
+ 
+Mistral Unveils  AI Enabled Direct RF family of Products  Powered  
+by Altera’s  latest Agilex™ 9 FPGAs  and SoCs  
+Bengaluru, India                        Jan 24, 2025  
+ 
+Mistral Solutions Private Ltd, (Mistral) a subsidiary of AXISCADES Technologies Limited (ACTL), is a chip to product 
+company that delivers AI enabled products to defense , semiconductors, automotive, healthcare, industrial, 
+consumer and hyper -scalers. The defense products include Radar, Sonar, Mission -computer, Electronic Warfare 
+System, Telemetry, Direction Finding System and AI enabled Signal processing systems.  
+ 
+Mistral today introduced an advanced Direct RF and Signal Processing system. It is a Quad & Octal Direct RF & 
+signal Processing Modules in 3U VPX form factor, powered by Altera Agilex 9 Direct RF FPGAs . The Agilex 9 Direct 
+RF family supports wide band and medium band spectrum for E lectronic Warfare (EW)  and Radar applications for 
+high performance. This could be a game changer for the RF signal processing applications.  
+ 
+These  products are the latest additions to the Mistral portfolio of Direct RF digital signal processing products that 
+use Altera FPGAs to detect and process information from a wide range of the electromagnetic spectrum. These 
+products directly digitize radio fr equency signals from the antenna, eliminating the down conversion  and  
+transmitting RF signal to antenna, eliminating up conversion, switch matrix, local oscillator stages required by 
+legacy hardware.  
+ 
+Mistral Octal 3U VPX is an 8 -channel Module based on Agilex 9 - AGRW027 FPGA , and Quad 3U VPX is a 4 -channel 
+Module based on Agilex 9 - AGRW014 FPGA.  The Direct RF FPGAs from Altera  convert between analog and digital 
+signals at 64 GSPS . Altera’s Agilex 9 FPGA’s deliver enhanced performance with double the number of channel 
+converters, more logic elements, and higher memory density than the previous generation chips. These  3U VPX 
+modules  are designed for defense -ready 3U form factor with high -speed GigE and PCIe interfaces.  
+ 
+Mistral offers these products in a ruggedized, conduction -cooled enclosure that is ready for defense applications. 
+All Mistral Direct RF products come with the Mistral Board Support Package (MBSP) that allows customers to 
+develop custom Application softwar e. 
+ 
+Applications and Use Cases  
+The digital processing modules  are engineered to address the most demanding requirements in:  
+• Radar Systems:  Enabling high -resolution data acquisition and processing for enhanced situational 
+awareness.  
+• Signals Intelligence (SIGINT):  Facilitating the interception and analysis of complex RF signals across 
+wide frequency ranges.  
+• Electronic Warfare:  Supporting real -time threat detection and countermeasure systems.  
+• 5G/6G Wireless Communication:  Delivering  the performance required for next -generation 
+communication infrastructure.  
+• Test and Measurement Equipment:  Providing precise signal processing capabilities for high -end testing 
+solutions.  
+ 
+ 
+ 
+ 
+Key Advantages  
+ 
+1. Reduced SWaP -C: Significant reductions in Size, Weight, Power, and Cost, making it ideal for 
+constrained environments.  
+2. Interoperability:  Designed to meet SOSA ™ standards, ensuring compatibility with multi -vendor systems 
+and flexible deployment options.  
+3. High Channel Density:  Supports up to 8 simultaneous ADC/DAC channels with multi -board 
+synchronization for phased array systems.  
+4. Future -Proof Design:  Fully supports Intel’s roadmap for FPGA innovations, ensuring long -term 
+scalability and performance enhancements.  
+“The Mistral AI enabled Signal  Processing Platform brings advanced technologies to defense missions, 
+allowing customers to save time and cost by deploying easily customized hardware that leverages the same 
+core technology and IP across different programs,” said Manikandan C , Mistral Chief Technology officer . 
+“With a growing portfolio of products that make Direct RF spectrum digitization possible, our customers now 
+have more options to deploy this technology to capture, process, and exploit signals at the ed ge.”  
+“This advanced modular solution will enable the existing system upgradation and new product development 
+in the short  span of time ”. said Vijay Bharat, Mistral Chief Delivery officer ,” “With higher signal processing  and 
+low latency,  this product provides the capabilities for the customer to deploy  in many  applications .” 
+“Altera Agilex 9  Direct RF  FPGAs feature integrated circuitry that used to be done in the analog domain, offering 
+Mistral customers the critical SWAP capabilities and accelerated deployment required for next -generation 
+applications in the aerospace and defense markets . We are very proud to have Mistral as a member of the 
+Altera Solution Acceleration Partner Program (ASAP) ,” said John Sotir, General Manager Military, Aerospace & 
+Government Group at Altera.  
+ 
+“Defense platform development can be accelerated with Mistral’s board solutions developed using Altera’s 
+Agilex 9 Direct RF FPGA and augmented by Mistral’s hardware and defense domain expertise. Altera and 
+Mistral’s Collaboration is a game changer in Radar,  EW, Secure Comms and Defense Systems ”,  
+said Rina Raman, Vice President of Systems Solutions Engineering, Altera Market Development Group.  
+Mistral  will be showcasing  the Direct RF and Signal Processing Module at Aero -India 2025  International  
+Exhibition in Yelahanka Airforce Station, Bengaluru,  Karnatak, India,  February  10-14, 202 5. 
+  
+ 
+ 
+ 
+ 
+Mistral Solutions Pvt . Ltd –  Deep Tech Development  
+Mistral Solutions a chip to product company  that delivers AI enabled Aerospace & Defense  Product s for Radar, 
+Sonar, EW system, Telemetry  system, Mission -critical AI enabled SBC and Video Processing to the edge, making 
+advanced technologies profoundly more accessible for today’s most challenging aerospace and defense 
+missions. Mistral  Products allow customers to tap into innovative capabilities from chip to system scale, turning 
+data into decisions on timelines that matter. Mistral’s products and solutions a re deployed in many more 
+Aerospace & Defense programs  and other  countries, enabling a broad range of applications . MISTRAL 
+SOLUTIONS PVT LTD  is headquartered in Bengaluru, India , and has many more  locations in worldwide. To learn 
+more, visit www.mistralsolutions.com . 
+ 
+ 
+For further Queries please contact: 
+Company: AXISCADES Technologies Ltd.  Investor Relations: Orient Capital  
+Mrs. Sangeeta Tripathi (Head - Investor 
+Relations)  
+email id: sangeeta.tripathi@axiscades.in  / 
+investor.relations@axiscades.in  
+Tel: +91 7021823011  
+ 
+Mr. Akash Nejjur  (GM – Marketing & 
+Communications)  
+email id: akash.nejjur@axiscades.in  
+Tel: +91 80 41939000  
+ 
+Media / PR Pooja Chetri  
+Tel: +91 9819763019  
+Email: 
+pooja@brandingedgestrategies.com   Mr. Irfan Raeen / Mr. Sumeet Khaitan  
+email id: irfan.raeen@linkintime.co.in  / 
+ sumeet.khaitan@linkintime.co.in  
+Tel: +91 9773778669/ +91 7021320701 
+www.orientcap.com  
+ 
+Safe Harbor  
+Certain statements in this communication may be ‘forward -looking statements within the meaning of applicable 
+laws and regulations. These forward -looking statements involve a number of risks, uncertainties, and other factors 
+that could cause actual results to differ materially from those suggested by the forward -looking statements. 
+Important developments that could affect the Company’s operations include changes in the industry structure, 
+significant changes in the political and economic environment in India  and overseas, tax laws, import duties, 
+litigation, and labour relations. AXISCADES Technologies Ltd. (AXISCADES) will not be in any way responsible for 
+any action taken based on such statements and undertakes no obligation to publicly update these forward -looking 
+statements to reflect subsequent events or circumstances . 

@@ -1,0 +1,121 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise) 
+Regd. Office:  Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram – 122015, India 
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110 070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email id: compliance.officer@bharti.in, www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+ 
+November 06, 2024 
+  
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India 
+Symbol: BHARTIARTL/ AIRTELPP 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400001, India 
+Scrip Code: 532454/ 890157 
+ 
+Sub: Press Release by subsidiary of the Company 
+ 
+Dear Sir/ Ma’am, 
+ 
+We are enclosing herewith a press release dated November 06, 2024 titled ‘ Nxtra by 
+Airtel becomes first data centre in India to deploy AI for enhanced operational 
+excellence’ being issued by Nxtra Data Limited, a subsidiary of the Company. 
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+Sincerely yours, 
+ 
+For Bharti Airtel Limited 
+ 
+ 
+ 
+Rohit Krishan Puri 
+Joint Company Secretary & Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Nxtra by Airtel becomes first data centre in India to deploy AI for enhanced 
+operational excellence 
+ 
+Leverages AI to build smarter, more efficient and resilient future-ready data centres  
+Chennai (India), November 06, 2024:  Furthering its mission to build future-ready data centre 
+infrastructure that is “Intelligent by Design and Sustainable by Choice”, Nxtra by Airtel, one of India’s 
+leading data centre companies, has deployed Artificial Intelligence (AI) in its data centres to drive 
+operational excellence.  
+With this, Nxtra by Airtel has become the first data centre in India to leverage AI to build new-age 
+digitised facilities engineered to drive smart capabilities like  predictive maintenance, enhanced 
+operational and energy efficiency, streamlined automation of operations and optimised capex 
+utilisation.  
+The deployment leverages the AI-powered SmartSense platform of leading AI expert in the 
+infrastructure industry, Ecolibrium. Nxtra implemented the AI technology in its Chennai data centre 
+first and will now deploy the capabilities across all its core data centres.  
+With the deployment, Nxtra aims to achieve key efficiency milestones including: 
+ 10% increase in asset life  through real time performance analytics to identify early signs of 
+deterioration and provide corrective recommendations  
+ 10% reduction in non-IT power consumption  through early identification of deviations and energy 
+loss in each piece of equipment  
+ 15% increase in equipment performance  through AI-driven Fault Detection and Diagnostics (FDD) 
+algorithms and preventative maintenance 
+ 25% improvement in productivity  with intelligent and proactive insights across all DC operations  
+Ashish Arora, CEO – Nxtra by Airtel,  said, “As a brand, we are always integrating newer ways to build 
+future-ready and sustainable data centres with a vision to deliver superior customer experiences. In 
+line with this, we have been at the forefront of building new-age data centres that leverage automation 
+and advanced technological capabilities. The partnership with Ecolibrium and the integration of AI into 
+the core of our data centres is a crucial step in this direction with which we will advance our energy 
+efficiency and overall performance.”  
+Chintan Soni, CEO – Ecolibrium, said, “Today, our AI/ML platform is operational at over 500 sites 
+worldwide, providing real-time, data-driven insights across industries like real-estate and 
+manufacturing. In a first-of-its-kind collaboration with Nxtra, we are bringing our 12 years of expertise 
+to revolutionise data centre operations through cutting-edge AI technology. Nxtra has done 
+commendable work in building environmentally friendly digital infrastructure and, by connecting it 
+with our expertise in AI and engineering, we are confident that together we can them maintain high 
+standards of operational and energy efficiency”.  
+  
+ 
+Leveraging AI/ML based algorithms will enable Nxtra to identify opportunities for cost savings and 
+efficiency improvements and build agile data centres with which it can deliver enhanced end user 
+experiences to its customers.  
+  
+Nxtra by Airtel offers India’s largest network of intelligent and sustainable data centres across 120+ 
+locations to leading enterprises, hyperscalers, start-ups, SMEs and governments. The company is on a 
+trajectory to double its existing capacity to over 400 MW in the next few years. Nxtra has committed 
+to becoming net-zero by 2031 through multiple interventions including accelerated green energy 
+adoption, energy efficient infrastructure and processes and the implementation of sustainable 
+business practices. For more details, visit www.nxtra.in  
+ 
+       About Bharti Airtel Limited 
+Headquartered in India, Airtel is a global communications solutions provider with over 550 million customers in 15 countries across India and Africa. The 
+Company also has its presence in Bangladesh and Sri Lanka though its associate entities. The Company ranks amongst the top three mobile operators 
+globally and its networks cover over two billion people. Airtel is India’s largest integrated communications solutions provider and the second largest 
+mobile operator in Africa. Airtel’s retail portfolio includes high-speed 4G/5G mobile broadband, Airtel Xstream Fiber that promises speeds up to 1 Gbps 
+with convergence across linear and on-demand entertainment, streaming services spanning music and video, digital payments and financial services. For 
+enterprise customers, Airtel offers a gamut of solutions that includes secure connectivity, cloud and data centre services, cyber security, IoT, Ad Tech and 
+cloud based communication. For more details visit www.airtel.in   
+ 
+About Ecolibrium 
+Founded in 2012, Ecolibrium is a global leader in AI-powered decarbonisation technology. The combination of the company's award-winning flagship 
+platform, SmartSense, with its unique customer care philosophy and partners, enables organisations to more accurately view and measure their carbon 
+footprint, turning real-time data-driven insights into implementable and measurable outcomes. The company has delivered an impact that spans over 80 
+clients and 500+ sites globally, assimilating 25 million data points daily. Over the past decade, Ecolibrium has consistently delivered a 20% reduction in 
+energy spend, an 11% increase in productivity, and a 21% reduction in maintenance costs. For more details, visit www.ecolibrium.io   
+ 

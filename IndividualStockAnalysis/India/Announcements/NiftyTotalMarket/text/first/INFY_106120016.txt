@@ -1,0 +1,181 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE  
+ 
+January 21, 2025  
+Dear Sir/ Madam,  
+Sub: Transcripts of the press conference an d earnings call conducted after the Meeting of 
+ Board of directors on January 16, 2025  
+ 
+Please find enclosed the transcripts of the press c onference and earnings call conducted after the Board 
+meeting held on January 16, 2025, for your information and records.  This information will also be hos ted on the Company’s website, at
+ 
+https://www.infosys.com/investors/reports-f ilings/quarterly-resu lts/2024-2025/q3.html .   
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at  https://www.infosys.com/investors/r eports-filings/quarterly-results/2024-
+2025/q3.html.  
+This is for your information and records.  
+Yours Sincerely,  
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary 
+ACS-21918  
+ 
+ 
+ 
+External Document © 2025 Infosys Limited  1     
+                                                 
+                                                           Infosys Limited  
+Third Quarter Financial Results Conference Call  
+January 16, 2025  
+   
+CORPORATE PARTICIPANTS:   
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director  
+ 
+Jayesh Sanghrajka  
+Chief Financial Officer  
+ Rishi Basu 
+India Head - Corporate Communications 
+ 
+ANALYSTS   
+ 
+Ritu Singh 
+CNBC TV18 
+ 
+Haripriya Sureban 
+NDTV Profit 
+ 
+Beena Parmar 
+The Economic Times 
+ 
+Veena Mani 
+The Times of India 
+ Reshab Shaw 
+Moneycontrol 
+ 
+Hritam Mukherjee 
+Reuters  Jas Bardia 
+Mint 
+ 
+Sanjana B 
+The Hindu BusinessLine  Rukmini Rao 
+Fortune India 
+ 
+ 
+ 
+ 
+External Document © 2025 Infosys Limited  2   Padmini Dhruvaraj 
+The Financial Express  
+Sonal Choudhary 
+Deccan Herald 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+   
+ 
+    
+ 
+  
+ 
+ 
+External Document © 2025 Infosys Limited  3   Rishi Basu 
+A very good evening everyone and a very happy new year. Thank you for joining Infosys' Third 
+Quarter Financial Results. My name is Rishi and on behal f of Infosys, I would like to welcome all of 
+you today. I typically would have said, one ques tion per media house, should I say that? 
+With that, I invite our Chief Executive Officer, Mr. Salil Parekh for his opening remarks. Over to you, 
+Salil. 
+Salil Parekh  
+Thanks, Rishi and good afternoon to all of you. Thank y ou for joining us here in person, a very Happy 
+New Year to each one of you. Our revenue grew 1.7% quarter-on-quarter and 6.1% year-on-year in 
+constant currency terms in Q3. 
+All verticals and most geographies grew year-on- year. We saw double-digit growth in Europe and 
+India and in our manufacturing business. Large deals were at $2.5 bn, operating margin at 21.3%. 
+Free cash flow for the quarter was at an all-time  high of $1.26 bn. Headcount grew by over 5,000 
+sequentially we are now over 3 23,000 employees worldwide. 
+Financial Services in the U.S. continues to grow strongly in this quarter and over the past few 
+quarters. We have seen a revival in European Fi nancial Services during Q3. We are seeing an 
+improvement in Retail and consumer product industry  in the US with discretionary pressures easing. 
+Automotive sector in Europe continues to remain  slow. In Generative AI, we have built four small 
+language models for banking, for IT operations, for cybersecurity, and broadly for enterprises. 
+In Generative AI, we are also developing over  100 new agents. These agents are for deployment 
+within our clients, many of t hem already using agents that we have developed. Based on our strong 
+performance in this quarter and our view for the rest of  this financial year, we are revising our revenue 
+growth guidance to growth of 4.5%-5% in constant currency terms. Our operating margin guidance 
+remains unchanged at 20%-22%. 
+With that, let us open it up for questions. 
+Rishi Basu  
+Thank you, Salil. We will now open the floor for questions. Joining Salil is Mr. Jayesh Sanghrajka, 
+Chief Financial Officer, Infosys. The first question is from Ritu Singh, CNBC TV18. 
+Ritu Singh 
+ 
+ 
+External Document © 2025 Infosys Limited  4   Hi, Salil, hi Jayesh, happy new year. Let me just start with that revenue growth that you have posted 
+because Q3 is typically a seasonally weak quarter.  The market estimates were about 1% growth, 
+but you have been able to deliver 1.7%. Is the environment significantly better than what you saw 
+three months ago, one, if you coul d give us a commentary on that. 
+On raising your revenue guidance to about 4.5%-5%, was in expected lines, but what is the implied 
+growth rate for the fourth quarter then? Are you expecting a de-growth of about 2.5% given these 
+margins that you have given? 
+Also, your wage hikes, I think last time we asked you and you said, it may happen in the fourth 
+quarter. If that is on track, and what will be t he impact on margins once you do undertake that and 
+hiring again has been going up for the last two quarters. How should we read into that? 
+Again, coming back to your revenue question, if y ou are expecting a de-growth in the fourth quarter, 
+will you continue the space of hiring? What is the demand outlook? And if I may add, you know, deal 
+wins while they have been steady, they have not really  accelerated. If you could give us a sense of 
+what the pipeline looks lik e from here on? Thank you. 
+Salil Parekh  
+So, thanks. I will try and go through the questions and some Jayesh will also answer. On the first, I 
+think the view in Q3, and it was the growth at 1.7%. What we saw was, the last quarter, we had seen discretionary becoming good in Financial Services in the US. 
+Now this quarter, we have seen Financial Services  in Europe also, the discretionary is showing signs 
+of improving. And on Retail and consumer products in  the US, it is showing signs of improving. So 
+that, coupled with how we delivered in the qua rter was the reason where we changed the guidance 
+to increase. 
+Now the second, I think, was about if that is the guidance, what is the Q4 and so on? So there, first, 
+as we have always shared, our Q1 and Q2 in a ty pical financial year are strong. Our Q3, Q4 are 
+typically weak. So that is the sort of seasonality t hat we see in Q4, nothing more or less. Jayesh will 
+give a little bit more color on some of these points. 
+On the hiring that you mentioned there, I will say a few words and I will pass it on to Jayesh. We 
+have had a strong hiring in Q3 with this expansion of over 5,000 employees. And we see that based 
+on some of the discretionary, this will continue, bu t it will have seasonality as we see in our revenue. 
+For the next financial year, we are obvi ously not giving the growth guidance. 
+ 
+ 
+External Document © 2025 Infosys Limited  5   But what we do see is that many of the things we  have put in place across the whole company, focus 
+on large deals, focused on small deals, focused on ar tificial intelligence, making sure, we are doing 
+cost takeout for clients. All of th ese things combined are helping th e company to execute as well as 
+it is doing. So let me pause here, if there is anything else. 
+Ritu Singh 
+How much of it was organic? How much inorganic because of the in-tech acquisition that as well? Jayesh Sanghrajka  
+So, in-tech, let me just answer that and I will go back to other questions. in-tech was -- last quarter, 
+we had pretty much 2.5 months of in-tech. So, this quarter, the in-tech was roughly around 20 bps 
+in revenue. 
+Coming back to the other points, if  you look at large deals, while the overall large deal number you 
+will see is remaining same, within that, the net new has increased significant ly. So last quarter, our 
+net new was 40%. This quarter, our net new is 60%,  which means that the large deals per se or the 
+net new TCV of the large deals have gone up 1.5 times between Q2 and Q3. Our large deal pipeline 
+has become stronger as we see, so all of that has led to our increase in guidance, just to add to the 
+points that Salil was making. 
+Coming to the other question on comp, we had announced earlier that comp will happen in two 
+phases, one phase from 1st January, the other one will happen from 1st of April. We are on-track 
+with that. The first part of the comp is getting ro lled out in this quarter and we are working with HR 
+on that. So, the HR team is working on that. 
+Ritu Singh 
+The question rather was what will be the impact on margins? Jayesh Sanghrajka  
+We do not define the impact on comp, I mean, exac t impact on the comp in terms of margins. So, 
+we will have some headwinds coming from the comp in Q4 and Q1 based on it. But broadly, the comp that we are expecting is 6% to 8% in India and the overseas comps will be in line with the 
+earlier comp reviews. 
+Ritu Singh 

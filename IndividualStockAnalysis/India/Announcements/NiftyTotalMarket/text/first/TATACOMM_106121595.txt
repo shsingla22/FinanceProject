@@ -1,0 +1,272 @@
+ 
+ 
+Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India  
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai  400 001 India  
+Tel: + 91 22 6659 1968  email: investor.relations@tatacommunications.com  
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com  
+ 
+HQ/CS/CL.24B/ 18086  
+January 22, 2025  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Mumbai – 400 051  
+SYMBOL: TATACOMM  BSE Limited  
+P.J. Towers, Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 500483  
+ 
+Dear Sir / Madam,  
+ 
+ 
+Sub:  Integrated Filing (Financial) for the quarter ended December 31, 2024.  
+ 
+Pursuant to SEBI Circular No. SEBI/HO/CFD/CFD -PoD-2/CIR/P/2024/185 dated December 
+31, 2024, read with BSE Circular No. 20250102 -4 and NSE Circular No. NSE/CML/2025/02 
+dated January 2, 2025, we are submitting herewith the Integrated Filing (Financial) for t he 
+quarter  and nine months  ended December 31, 2024.  
+ 
+The above information is also available on the website of the Company  
+www.tatacommunications.com/investors/results/ . 
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Communications Limited  
+ 
+ 
+ 
+Zubin Adil Patel  
+Company Secretary and Compliance Officer  
+ 
+  
+Page 1of 13
+TATA COMMUNICATIONS LIMITED
+REGD. OFFICE:  VSB, M.G. ROAD, FORT, MUMBAI-400001.
+                    
+     (`in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND NINE 
+MONTHS ENDED DECEMBER 31, 2024
+ParticularsFor the quarter ended
+(refer note 5 and 10)For the nine months ended
+(refer note 5 and 10)For the year 
+ended
+(refer note 5)
+December 31 
+2024September 3 0
+2024December 31 
+2023December 
+31 2024December 
+31 2023March
+31 2024
+(Refer notes below) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1 Income from operations (Refer note 8) 5,798.07 5,727.85 5,587.78 17,118.24 15,139.61 20,784.68
+2Other income, net 28.73 9.96 7.00 61.50 211.30 264.12
+3 Total income (1 + 2) 5,826.80 5,737.81 5,594.78 17,179.74 15,350.91 21,048.80
+4 Expenses
+a. Network and transmission expense 2,513.40 2,459.98 2,277.50 7,335.30 5,747.40 8,078.73
+b. Employee benefits expense 1,123.98 1,174.79 1,136.26 3,421.18 3,196.37 4,342.82
+c. Finance costs 186.89 189.43 184.46 546.62 444.29 630.09
+d. Depreciation and amortisation expense 637.14 648.16 603.01 1,919.61 1,746.68 2,397.35
+e. Other expenses 979.74 963.70 1,020.92 2,914.81 2,954.65 4,045.93
+Total expenses (4a to 4e) 5,441.15 5,436.06 5,222.15 16,137.52 14,089.39 19,494.92
+5 Profit before exceptional items, tax & share in 
+profit of associates (3 - 4)385.65 301.75 372.63 1,042.22 1,261.52 1,553.88
+6 Exceptional items (Refer note 2) (14.93) 42.90 (185.52) 113.68 (183.55) (235.66)
+7 Profit before tax and share in profit of 
+associates (5 + 6)370.72 344.65 187.11 1,155.90 1,077.97 1,318.22
+8 Tax expense/(benefit): (Refer notes 2b, 6 and 7)
+  a. Current tax 149.89 233.40 239.09 508.54 460.98 601.63
+  b. Deferred tax (23.70) (135.78) (125.62) (197.94) (139.00) (388.13)
+9 Profit before share in profit of associates (7 -
+8)244.53 247.03 73.64 845.30 755.99 1,104.72
+10 Share in Profit of associates 12.20 3.99 4.77 19.22 14.15 19.99
+11 Profit after tax for the period from continuing 
+operations (9 + 10)256.73 251.02 78.41 864.52 770.14 1,124.71
+12 Loss after tax from discontinued operations
+(Refer note 5)(20.65) (23.75) (33.36) (68.25) (122.08) (155.13)
+13 Profit for the period/year (11+12) 236.08 227.27 45.05 796.27 648.06 969.58
+Attributable to:
+Equity holders of the parent 235.96 227.23 44.81 796.02 647.16 968.34
+Non-controlling interest 0.12 0.04 0.24 0.25 0.90 1.24
+Page 2of 13
+      (`in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND NINE 
+MONTHS ENDED DECEMBER 31, 2024
+ParticularsFor the quarter ended
+(refer note 5 and 10)For the nine months ended
+(refer note 5 and 10)For the year 
+ended
+(refer note 5)
+December 
+31 2024September 
+      30 2024December
+31 2023December 
+31 2024December 
+31 2023March31 
+2024
+(Refer notes below) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+14Other Comprehensive Income/(loss) (net of 
+tax) from continuing operations (refer note 9)110.59 (82.89) (48.54) 2.56 (47.64) (35.74)
+15Other Comprehensive Income/(loss) (net of 
+tax) from discontinued operations (refer note 5)0.03 (0.06) 0.01 0.01 0.16 0.12
+16Other Comprehensive Income/(loss) (net of 
+tax) (14+15)110.62 (82.95) (48.53) 2.57 (47.48) (35.62)
+Attributable to:
+Equity holders of the parent 110.58 (82.96) (48.53) 2.52 (47.48) (39.20)
+Non-controlling interest 0.04 0.01 - 0.05 - 3.58
+17Total Comprehensive
+income/(loss) for the period/year (13+16)346.70 144.32 (3.48) 798.84 600.58 933.96
+Attributable to:
+Equity holders of the parent 346.54 144.27 (3.72) 798.54 599.68 929.14
+Non-controlling interest 0.16 0.05 0.24 0.30 0.90 4.82
+18Paid up equity share capital (Face value of `10 
+per share)285.00 285.00 285.00 285.00 285.00 285.00
+19 Reserves excluding Revaluation reserve 1,295.36
+20Earnings per share (of ` 10/-each) (not 
+annualised)
+Continuing operations
+(i) Basic (`) 9.00 8.81 2.74 30.33 26.99 39.42 
+(ii) Diluted earnings per share (`) 9.00 8.80 2.74 30.31 26.98 39.40 
+Discontinued operations
+(i) Basic (`) (0.72) (0.83) (1.17) (2.39) (4.28) (5.44)
+(ii) Diluted earnings per share (`) (0.72) (0.83) (1.17) (2.39) (4.28) (5.44)
+Continuing and Discontinued operations
+(i) Basic (`) 8.28 7.98 1.57 27.94 22.71 33.98 
+(ii) Diluted earnings per share (`) 8.28 7.97 1.57 27.92 22.70 33.96 
+      
+Page 3of 13
+B. Consolidated Business Segment Information:
+i. Consolidated Segment wise revenue and results:                                                                                                       
+                                                                                                                                                                                                                                   ( `in crores)
+ParticularsFor the quarter ended
+(refer note 5and 10)For the nine months ended
+(refer note 5 and 10)For the year 
+ended
+(refer note 5)
+December 
+31 2024September
+30 2024December
+31 2023December 
+31 2024December
+31 2023March 
+31 2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+Income from operations
+Voice Solutions 410.52 425.48 423.13 1,258.69 1,270.10 1,699.06
+Data Services (Refer note 8) 4,917.26 4,846.31 4,625.38 14,466.92 12,554.27 17,219.68
+Transformation Services 288.83 286.38 401.78 883.53 1,153.17 1,550.43
+Real Estate 60.72 59.86 59.31 180.20 177.26 237.07
+Campaign Registry 170.43 158.44 126.50 474.31 126.50 264.52
+Less: Inter Segment Revenue (49.69) (48.62) (48.32) (145.41) (141.69) (186.08)
+Total 5,798.07 5,727.85 5,587.78 17,118.24 15,139.61 20,784.68
+Segment result
+Voice Solutions 32.93 47.65 41.83 119.91 149.20 184.64
+Data Services 335.54 276.73 394.18 924.99 1,164.37 1,429.03
+Transformation Services 18.31 15.27 0.05 52.86 (11.39) 0.51
+Real Estate 36.04 35.22 35.20 102.45 113.50 146.51
+Campaign Registry 120.99 106.35 78.83 327.13 78.83 159.16
+Total 543.81 481.22 550.09 1,527.34 1,494.51 1,919.85
+Less: 
+(i) Finance Costs 186.89 189.43 184.46 546.62 444.29 630.09
+(ii) Other un-allocable 
+(income) net of un-allocable 
+expenditure(13.80) (52.86) 178.52 (175.18) (27.75) (28.46)
+Profit before tax and share 
+of profit of associates from 
+continuing operations370.72 344.65 187.11 1,155.90 1,077.97 1,318.22
+Page 4of 13
+ii.  Consolidated Segment Assets and Liabilities:
+                                                                                                                                                                                                                   (`in crores)
+ParticularsAs at
+December 31 
+2024
+(refer note 5)September 30 
+2024December 31 
+2023March 31 
+2024
+(Unaudited) (Unaudited) (Unaudited) (Audited)
+Segment Assets
+Voice Solutions 286.47 321.06 378.41 393.88
+Data Services 18,527.92 18,320.30 18,095.29 17,194.20
+Payment Solutions - 93.81 127.75 122.84
+Transformation Services 411.16 452.47 520.19 559.04
+Real Estate 248.01 248.19 444.01 439.47
+Campaign Registry 921.47 906.18 104.49 855.06
+20,395.03 20,342.01 19,670.14 19,564.49
+Assets held for sale pertaining to discontinued 
+operations393.15 - - -
+Unallocated Assets 5,083.62 4,875.09 4,589.78 4,996.85
+Total Segment Assets 25,871.80 25,217.10 24,259.92 24,561.34
+Segment Liabilities
+Voice Solutions 403.03 390.56 447.69 443.77
+Data Services 10,387.21 9,779.25 9,689.56 9,674.92
+Payment Solutions - 248.24 261.75 266.08
+Transformation Services 244.22 234.23 392.62 347.22
+Real Estate 94.74 92.55 111.14 84.12
+Campaign Registry 48.50 65.32 15.18 33.12
+11,177.70 10,810.15 10,917.94 10,849.23
+Liabilities towards assets held for sale pertaining to 
+discontinued operations239.94 - - -
+Unallocated Liabilities 12,319.43 12,626.21 11,889.89 11,921.81
+Total Segment Liabilities 23,737.07 23,436.36 22,807.83 22,771.04
+iii. Notes to Segments:  
+Solutions, Data Services, Payment Solutions, Transformation services, Real Estate& Campaign Registry. The composition 
+of the operating segments is as follows:
+Voice Solutions includes International and National Long Distance Voice services.
+Data Services includes Core connectivity services andDigital platforms & connected services.(Refer note 5 b).
+Payment Solutions includes end-to-end ATM deployment, end-to-end POS enablement, hosted core banking, end to end 
+financial inclusion and card issuance and related managed services and switching services to banking sector carried out by 
+owned subsidiary Tata Communications Payment Solutions Limited. (Refer note 5 a).
+Transformation Services includes the business of providing telecommunication network management and support services. 
+Limited and its subsidiaries. 
+Page 5of 13
+Campaign Registry includes the business of collecting robotically driven campaign information and processing and sharing 
+that information with mobile operators and the messaging ecosystem to reduce spam. These services are carried out by the 
+wholly owned indirect subsidiary of the Company.
+Real Estate segment includes lease rentals for premises given on lease .
+Notes to consolidated financial results:
+1.The above unaudited consolidated financial results of the Group for the quarter and nine months ended 
+December 31, 2024 have been subjected to a limited review by the statutory auditors. These results have 
+been reviewed by the audit committee and taken on record and approved by the Board of Directors at their 
+meetingsheld on January 22, 2025.
+2.Details of exceptional items are listed below :
+                                                                                                                                                        (`in crores)
+ParticularsFor the quarter ended For the nine months endedFor the 
+year 
+ended
+December 
+31 2024September 
+30 2024December 
+31 2023December 
+31 2024December 
+31 2023March 
+31 2024
+1. - - - (102.95) - -
+2. Interest on tax w.r.t. licence fees (Refer 
+note b)- - (185.52) 185.52 (185.52) (185.52)
+3. Staff cost optimization (Refer note c) (14.93) 1.79 - (10.00) - (52.11)
+4. Refer 
+note d)- 73.18 73.18 1.97 1.97
+5. Provision for Litigation (Refer note e) - (32.07) - (32.07) - -
+Total (14.93) 42.90 (185.52) 113.68 (183.55) (235.66)
+a) During the nine months ended December 31, 2024, based on the assessment of its realisable value of 
+b)
+judgement regarding the treatment of Variable License Fee paid to DOT under New Telecom Policy 1999, 
+since July 1999, to be treated as capital in nature and not revenue expenditure for the purpose of 
+computation of taxable income. Pertinently, even though the Company is not a party to the above 
+judgement and its case is different and distinguishable from the above judgment, as a matter of prudence 
+the Company had assessed and recorded a provision of `185.52 crores towards interest which had been 
+disclosed as an exceptional item and a provision of `21.09 crores towards tax (net) due to change in 
+effective tax rate on account of adoption of new tax regime.
+During the quarter ended June 30, 2024, the Hon'ble Supreme Court of India has further issued an order 
+waiving the payment of interest for the period for which the tax demand is now to be met in respect of 
+the above matter. Based on said judgement, the Company has written back the provision of `185.52 
+crores towards interest.
+c) As part of its initiative to enhance the long-term efficiency of the business, the Group undertook 
+changes involved certain positions in the Group becoming redundant and the Group incurred a one-time 
+charge. During the previous quarter, the Group has written back certain provisions with respect to staff 
+cost optimization.

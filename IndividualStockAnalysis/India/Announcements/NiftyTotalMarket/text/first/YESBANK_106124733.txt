@@ -1,0 +1,138 @@
+ 
+     
+    YBL/CS/2024 -25/163 
+ 
+January 25, 2025  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot no. C/1, G Block,  
+Bandra - Kurla Complex  
+Bandra (E), Mumbai - 400 051  
+NSE Symbol: YESBANK  BSE Limited  
+Corporate Relations Department  
+P.J. Towers, Dalal Street  
+Mumbai – 400 001  
+BSE Scrip Code: 532648  
+ 
+ 
+Dear Sirs /Madam , 
+ 
+Sub.:  Disclosure made in pursuance of SEBI Master Circular No. 
+SEBI/HO/DDHS/PoD1/P/CIR/2024/54 dated May 22, 2024  (“SEBI Circular”)  pertaining to 
+Green Infra Bonds  
+ 
+This is in continuation to our submission of the un-audited Financial Results  for the Quarter (Q 3) 
+and nine months ended December  31, 2024 .  In terms of chapter IX para 2.1 and para 2.2  of the 
+aforesaid SEBI Circular, a n issuer who has listed its Green Debt Securities shall provide disclosure 
+pertaining to utilization of the proceeds of the issue and the allocation of funds towards the project(s) 
+and/or assets from the proceeds of Green Debt Securities; and th e details of unutilized proceeds.  
+  
+In this regard, please find enclosed herewith the disclosure on Green Debt Securities for the quarter  
+ended December 31, 2024 .  
+ 
+You are requested to take the same on record . 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For YES BANK LIMITED  
+ 
+ 
+ 
+Shivanand R Shettigar  
+Company Secretary  
+ 
+Encl: Disclosure under Green Infrastructure Bonds  
+ 
+ 
+
+
+DNV Business Assurance India Pvt Ltd, 3rd Floor, Tower 3 Unit 2B, Equinox Busi ness Park, Lal Bahadur Shastri Marg, CTS 83, 83/1 to 19 V illage Kurla, Kurla West, Mumbai, Maharashtra, 
+400070 
+YES BANK LIMITED
+USE OF PROCEEDS OF GREEN 
+BONDS TO THE ELIGIBLE GREEN 
+PROJECTS
+FY2025 Quarterly Verification (Q3-October ’24 to 
+December ’24)
+Document Title: YES Bank’s Use of Proceeds of Green Bonds to the eligible Green Proje cts, FY202 5
+Quarterly Verification (Q3- October’24 to December’24 )
+Prepared By: DNV Business Assurance India Pvt Ltd 
+Location: Mumbai, India 
+Date : 13 January 2025
+DNV Reference (Project Number): PRJN-744218 
+Page 2 of 7
+Certificate no. DNV-2024-ASR-689420-Q3 PRJN- 744218 
+                                                                                                                                                                                                                                                    
+TABLE OF CONTENTS 
+Scope and Objectives 3
+Responsibilities of the Management of YES Bank and DNV 4
+Basis of DNV’s Opinion 4
+Work Undertaken 4
+Findings and DNV’s Opinion 5
+Annexure I: Verified Yes Bank Green Bonds Proceeds utilization aga inst 
+Bond Issuance Size of INR 1,000 Cr (February 2015) 7
+Disclaimer 
+Our assessment relies on the premise that the data and informatio n provided by the client to us as part of our review procedures  
+have been provided in good faith. Because of the selected natur e (sampling) and other inherent limitation of both procedures and 
+systems of internal control, there remains the unavoidable ris k that errors or irregularities, possibly significant, may not  have been 
+detected. Limited depth of evidence gathering including inquiry and analytical procedures and limited sampling at lower levels in the 
+organization were applied as per scope of work. DNV expressly disclaims any liability or co-responsibility for any decision a person or 
+an entity may make based on this Statement. 
+Statement of Competence and Independence 
+DNV applies its own management standards and compliance policies fo r quality control, in accordance with ISO IEC 17029:2019 -
+Conformity Assessment - General principles and requirements for  validation and verification bodies, and accordingly maintains a 
+comprehensive system of quality control, including documente d policies and procedures regarding compliance with ethical 
+requirements, professional standards and applicable legal and regulato ry requirements. We have complied with the DNV Code of 
+Conduct 1during the assessment and maintain independence where required by re levant ethical requirements. This engagement work 
+was carried out by an independent team of sustainabiility assuranc e professionals. DNV was not involved in the preparation of 
+statements or data included in the Framework except for this Sta tement. DNV maintains complete impartiality toward stakeholders 
+interviewed during the assessment process. 
+1DNV Code of Conduct is available from DNV website ( www.dnv.com) 
+Page 3 of 7
+Certificate no. DNV-2024-ASR-689420-Q3 PRJN- 744218 
+                                                                                                                                                                                                                                                    
+Scope and Objectives 
+YES Bank Limited (“ YES Bank ” or the “Customer”) had three Green Infrastructure Bonds issuance 
+against its pool of eligible projects and assets, out of which  following two green bonds are outstanding as 
+of December 31, 2024: 
+1. February 2015: Raised an amount of INR 1000 crore (bearing ISIN INE5 28G08279) through 
+leading investors including Insurance companies, Pension & Provident  Funds, Foreign Portfolio 
+Investors, New Pension Schemes and Mutual Funds 
+2. August 2015: Raised an amount of INR 315 crore (bearing ISIN INE5 28G08295) through 
+International Finance Corporation (IFC) on a private placement basis. 
+YES Bank has used the proceeds of the Green Bonds to finance the nom inated projects and assets 
+included within the following eligible green project categories as detailed in the YES Bank Green Bonds 
+Internal Guidelines & Processes (Green Bonds Framework, V9.0, last updat ed on 12 th Mar’24 ):
+Green Bond details Eligible green projects for allocations 1
+GB1: Issued in February 
+2015 (Institutional 
+Investors) (INR 1000 Cr) 1Renewable and clean energy projects, in accordance with Green Bonds 
+Principles including generation from sources such as Wind, Solar, 
+Biomass, Hydropower and other such projects. 
+GB2: Issued in August 
+2015 (Private placement 
+by IFC) (INR 315 Cr) 2Renewable Energy projects, in accordance with the Green Bond 
+Principles. RE resources shall include only solar and wind projects. 
+1The list of projects in which the Green Bonds Proceeds of February 2015 bond have been utilized is provided in 
+Annexure I 
+2The Green Bonds Proceeds of August 2015 bond are unallocated and declaration for intended investments has been 
+checked by DNV. Based on the evidence verified, DNV can confirm that  as of December 2024, the August 2015 
+tranche has not been allocated. As the disclosure is price sensit ive and confidential, same has been not reproduced. 
+DNV has been commissioned by YES Bank to provide the Quarterly Programmatic V erification of the 
+Green Bonds as an independent and approved verifier. In addition,  DNV Business Assurance India Pvt 
+Ltd is also approved as validation and verification body as per ISO 17029. Our criteria and information 
+covered to achieve this is described under ‘Work Undertaken’ below . 
+No assurance is provided regarding the financial performance of the Green Bo nds, the value of any 
+investments in the Green Bond, or the long term environmental  benefits of the transactions. Our 
+objective has been to provide a limited verification for use o f proceeds of the funds raised through Green 
+Bonds in February 2015 and August 2015 as below: 
+·Quarterly third-party verification of the use of proceeds allocated to the eligible Green Projects in 
+line with the Clause 2.1 of Chapter IX-Green Debt Securities o f Operational Circular no 
+SEBI/HO/DDHS/P/CIR/2021/613 dated August 10, 2021 (updat ed as on April 13, 2022). 
+·Quarterly third-party verification service of the use of proceeds allocated  to the eligible Green 
+Projects as International Capital Markets Association (“ICMA”) Green Bond Principles (“GBP”) 
+requirements for alignment with four components of GBP.
+The Statement is based on information and data covering the perio d from 01 October 2024 to 31
+December 2024. 

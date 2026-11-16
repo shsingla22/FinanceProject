@@ -1,0 +1,138 @@
+ 
+ 
+Aurionpro Solutions Limited  Synergia IT Park, Plot No. R -270, 
+T.T.C. Industrial  Estate,  Gautam 
+Nagar, Near Rabale Police Station, 
+Rabale,  Navi  Mumbai  400701.  MH-
+India.  Phone  
+Fax +91 22 4040 7070  
++91 22 4040 7080  info@aurionpro.com  
+www.aurionpro.com  
+CIN: L99999MH1997PLC111637  
+ 
+                           
+   
+December 18 , 2024  
+ 
+      
+ 
+Sub: Press Release  
+ 
+ 
+Dear Sir/Madam,  
+ 
+ 
+Please find attached a Press Release  with titled “Aurionpro’s Arya.ai launches AryaXAI: Establishing 
+a New Global Benchmark in Explainable AI for High -Stakes Industries .” 
+ 
+Kindly take this on your record.  
+ 
+Thanking you,  
+ 
+Yours faithfully  
+ 
+ 
+For Aurionpro Solutions Limited  
+ 
+ 
+ 
+ 
+ 
+Ninad Kelkar  
+Company Secretary  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ To, 
+National Stock Exchange of India Limited  
+Exchange Plaza’. C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai - 400 051.  
+NSE SYMBOL: AURIONPRO  To,                                         
+The BSE Limited,                     
+25th Floor, P. J. Towers,                   
+Fort, Mumbai: 400 001.  
+SCRIP CODE: 532668  
+ 
+ 
+Aurionpro’s Arya.ai launches AryaXAI: Establishing a New Global 
+Benchmark in Explainable AI for High -Stakes Industries  
+Mumbai, December 18, 2024: Arya.ai, an Aurionpro company, is pleased to announce the 
+launch of AryaXAI, an advanced AI explainability (XAI) and alignment platform, tailored for 
+mission -critical applications. As part of the Aurionpro Enterprise AI suite, AryaXAI empowers 
+enterprises with a sophisticated observability stack to ensure their AI solutions are not only 
+explainable but also safe and aligned with regulatory and ethical standards. The platform 
+addresses the increasing demand for transparency and accountability in high -stakes 
+industries where AI usage is subject to regulations and potential model failures can have 
+profound consequences . 
+ 
+To address the challenges of understanding complex models such as deep learning systems, 
+Arya.ai has introduced an advanced Explainable AI (XA I) technique known as DLBacktrace. 
+DLBacktrace is one of the most accurate, stable, and true -to-model XAI techniques for deep 
+learning models. This enables enterprises to trace AI decisions, meet transparency 
+regulations, and build trust. The XAI technique  supports research in new areas such as model 
+pruning, merging, distillation, and swapping for various deep learning models, including Large 
+Language Models (LLMs) and multi -modal models.  Recognizing its value for the broader 
+community, Arya.ai is making D LBacktrace open -source to empower developers globally. It is 
+available on GitHub – DLBacktrace  along with the research paper.  
+  
+The AryaXAI explainability stack also includes existing methods such as S HAP, LIME, 
+SmoothGrad, and Integrated Gradients, along with tools to help users choose the best 
+explanation method for any model.  
+ 
+For critical alignment, AryaXAI offers out -of-the-box strategies such as synthetic alignment to 
+enhance model accuracy and pe rformance, ensuring responsible, high -performing AI models. 
+Its monitoring tools detect issues such as data drift and model bias, while customizable risk 
+frameworks help maintain effective AI systems. An intuitive interface and automated logging 
+simplify c ompliance and audits.  
+Emphasizing on AryaXAI’s strategic role in high -stakes industries, Vinay Kumar Sankarapu, 
+CEO of Arya.ai, an Aurionpro Company, said:  “As AI models grow increasingly complex, 
+addressing explainability  and alignment becomes more challenging —especially as AI agents 
+simplify their development and fine -tuning. In mission -critical use cases like financial services, 
+healthcare, and defense, the lack of clear insights into AI decision -making limits trust and 
+adoption. At the same time, evolving regulations in these sectors demand greater clarity, 
+accountability, and safety from AI systems.  
+AryaXAI is tackling these challenges by developing advanced explainability techniques and 
+rigorous evaluation tools (evals ) that provide enterprises with a clear understanding of their 
+AI systems and multiple alignment options. Our solution enhance s transparency, ensure s 
+alignment with business objectives, and deliver s consistency, enabling safer and more reliable 
+ 
+AI applicat ions. With AryaXAI, organizations can confidently navigate regulatory 
+requirements while deploying AI that is both powerful and responsible.”  
+About Aurionpro Solutions:  
+Aurionpro Solutions Limited (NSE: AURIONPRO) (BSE: 532668) is a global leader in provid ing 
+advanced technology solutions with a focus on Banking, Mobility, Payments, Insurance,  Data 
+Center Services  and Government sectors. We leverage Enterprise AI to create comprehensive 
+solutions that drive intelligent transformation for our clients worldwi de. Our team of over 
+2,500 professionals brings a global mindset and deep domain expertise to deliver tailored 
+services that empower our diverse clientele to achieve their strategic goals. For more 
+information, visit  www.aurionpro.com   
+ 
+For further information, please contact:  
+ 
+Alisha Patel: alisha.patel@adfactorspr.com   
+Ninad Kelkar: investor@aurionpro.com  
+  
