@@ -416,6 +416,20 @@ def register_dates(path: Path = REGISTER) -> dict[str, list[str]]:
     return _REGISTER
 
 
+def set_register(path: Path | None = None, as_of: dt.date | None = None) -> dict[str, list[str]]:
+    """Load the register from `path` (default REGISTER), keeping only record
+    dates on or before `as_of` — a backtest must not know later dates."""
+    global _REGISTER
+    _REGISTER = None
+    reg = dict(register_dates(path or REGISTER))
+    if as_of:
+        lim = as_of.isoformat()
+        reg = {k: [d for d in v if d <= lim] for k, v in reg.items()}
+        reg = {k: v for k, v in reg.items() if v}
+    _REGISTER = reg
+    return reg
+
+
 EQUITY_LIST = ANN_DIR / "_nse_equity_list.csv"
 _EQUITY: tuple[dict[str, str], dict[str, str]] | None = None
 SPIN_IDENTITY_MONTHS = 36          # a resulting company listed longer ago is a mature parent, not a fresh spin
@@ -759,7 +773,7 @@ def concall_mentions(text: str, today: dt.date | None = None,
     out = []
     for label, body in concall_sections(text):
         d = _label_date(label)
-        if d is None or d < cutoff:
+        if d is None or d < cutoff or d > today:          # a backtest must not hear later calls
             continue
         n = 0
         for m in MENTION_RX.finditer(body):

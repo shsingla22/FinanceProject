@@ -46,18 +46,23 @@ def load_ground_truth(path: Path = GT) -> list[dict]:
         return list(csv.DictReader(fh))
 
 
-def register_demergers(gt: list[dict]) -> dict[str, dict]:
+def register_demergers(gt: list[dict], window: tuple[str, str] | None = None) -> dict[str, dict]:
     """{parent symbol: {dates, purposes}} for universe demerger record
-    dates — the 'bc' file and the API read the same register."""
+    dates — the 'bc' file and the API read the same register. `window`
+    (from, to) keeps only record dates inside it: the dates a run as of
+    `to` with `days` of filings could have known."""
     out: dict[str, dict] = {}
     for r in gt:
         if r["source"] not in ("bc", "api") or r.get("in_universe") != "yes":
             continue
         if not DEMERGER_RX.search(r["purpose"]):
             continue
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["date"] or ""):
+            continue
+        if window and not (window[0] <= r["date"] <= window[1]):
+            continue
         d = out.setdefault(r["symbol"], {"dates": set(), "purposes": set(), "company": r["company"]})
-        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["date"] or ""):
-            d["dates"].add(r["date"])
+        d["dates"].add(r["date"])
         d["purposes"].add(r["purpose"])
     return out
 
@@ -95,9 +100,10 @@ def arrivals_for(record_dates: set[str], parent: str, resulting: str, equities: 
 
 
 def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
-          equities: list[dict] | None = None) -> dict:
+          equities: list[dict] | None = None, days: int | None = None) -> dict:
     today = today or dt.date.today()
-    reg = register_demergers(gt)
+    window = ((today - dt.timedelta(days=days)).isoformat(), today.isoformat()) if days else None
+    reg = register_demergers(gt, window)
     equities = listed_equities() if equities is None else equities
     by_sym: dict[str, list[dict]] = {}
     for s in situations:
@@ -191,15 +197,27 @@ def render(res: dict, run_date: str) -> str:
     return "\n".join(A)
 
 
-def main() -> int:
-    if not GT.exists() or not LATEST.exists():
+def main(argv: list[str] | None = None) -> int:
+    import argparse                                        # noqa: PLC0415
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--run", default=str(LATEST), help="the skill run to check (spinoff_latest.json)")
+    ap.add_argument("--gt", default=str(GT), help="the register file (_demerger_ground_truth.csv)")
+    ap.add_argument("--out", default=str(OUT_DIR), help="folder for SPINOFF_GROUND_TRUTH_CHECK.md / _ground_truth_check.csv")
+    ap.add_argument("--as-of", dest="as_of", default=None, help="check as of this date (default: the run's date)")
+    ap.add_argument("--days", type=int, default=400,
+                    help="only register record dates within this many days before the as-of date count")
+    a = ap.parse_args(argv)
+    gt_path, run_path, out_dir = Path(a.gt), Path(a.run), Path(a.out)
+    if not gt_path.exists() or not run_path.exists():
         print("ground truth or skill run missing", file=sys.stderr)
         return 2
-    gt = load_ground_truth()
-    rec = json.loads(LATEST.read_text())
-    res = check(rec["situations"], gt)
-    CHECK_MD.write_text(render(res, rec["meta"]["run_date"]))
-    with open(CHECK_CSV, "w", newline="") as fh:
+    gt = load_ground_truth(gt_path)
+    rec = json.loads(run_path.read_text())
+    as_of = dt.date.fromisoformat(a.as_of or rec["meta"]["run_date"])
+    res = check(rec["situations"], gt, as_of, days=a.days)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / CHECK_MD.name).write_text(render(res, rec["meta"]["run_date"]))
+    with open(out_dir / CHECK_CSV.name, "w", newline="") as fh:
         rows = [{"check": "recall", **r} for r in res["recall"]] + [{"check": "precision", **r} for r in res["precision"]]
         keys = sorted({k for r in rows for k in r})
         w = csv.DictWriter(fh, fieldnames=keys)

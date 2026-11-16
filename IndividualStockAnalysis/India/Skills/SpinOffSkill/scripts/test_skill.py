@@ -387,6 +387,44 @@ def test_probable_table_puts_demergers_first_and_links_its_sources():
     assert [r["symbol"] for r in sorted(rows, key=AZ.probable_order)] == ["D2", "D1", "I", "L", "S"]
 
 
+def test_as_of_never_hears_later_calls_or_later_record_dates(tmp_path, monkeypatch):
+    text = ("Call: Jan 2025\nwe are evaluating a demerger of the hotels business\n"
+            "Call: Jun 2025\nthe demerger is now complete\n")
+    as_of = dt.date(2025, 3, 31)
+    assert [m["call"] for m in SO.concall_mentions(text, as_of)] == ["Jan 2025"]
+    monkeypatch.setattr(SO, "concall_text", lambda sym: text)
+    monkeypatch.setattr(FN, "doc_links", lambda sym: {"calls": {}})
+    assert "Jun 2025" not in AZ.calls_text_for("X", 12, as_of) and "Jan 2025" in AZ.calls_text_for("X", 12, as_of)
+    gt = tmp_path / "gt.csv"
+    gt.write_text("date,symbol,company,purpose,source,detail,isin,register_symbol,in_universe\n"
+                  "2025-01-10,A,A Ltd,Demerger,bc,,,A,yes\n2025-06-10,A,A Ltd,Demerger,api,,,A,yes\n"
+                  "2025-02-01,B,B Ltd,Demerger,bc,,,B,yes\n")
+    reg = SO.set_register(gt, as_of)
+    assert reg == {"A": ["2025-01-10"], "B": ["2025-02-01"]}
+    # the validator windows the register the same way
+    import validate_demergers as VD
+    rows = VD.load_ground_truth(gt)
+    assert set(VD.register_demergers(rows, ("2024-04-01", "2025-03-31"))) == {"A", "B"}
+    assert VD.register_demergers(rows, ("2025-05-01", "2025-12-31"))["A"]["dates"] == {"2025-06-10"}
+
+
+def test_judge_cache_keeps_several_readings_per_key(tmp_path, monkeypatch):
+    monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
+    calls = []
+    def runner(p):
+        calls.append(p)
+        return json.dumps({"what_is_spun": f"reading {len(calls)}"})
+    assert AZ._ask("K", "stamp-today", "p", True, runner=runner)["what_is_spun"] == "reading 1"
+    assert AZ._ask("K", "stamp-backtest", "p", True, runner=runner)["what_is_spun"] == "reading 2"
+    # both stay cached: switching between them asks nothing more
+    assert AZ._ask("K", "stamp-today", "p", True, runner=runner)["status"] == "cached"
+    assert AZ._ask("K", "stamp-backtest", "p", True, runner=runner)["status"] == "cached"
+    assert len(calls) == 2
+    # a legacy single-stamp entry is still read
+    (tmp_path / "cache.json").write_text(json.dumps({"L": {"stamp": "s1", "verdict": {"what_is_spun": "old"}}}))
+    assert AZ._ask("L", "s1", "p", True, runner=runner)["what_is_spun"] == "old" and len(calls) == 2
+
+
 def test_register_rows_are_put_under_the_universe_symbol_by_isin_or_twin():
     import demerger_ground_truth as GT
     members = {"TMPV": "Tata Motors Passenger Vehicles Ltd.", "HEGAM": "HEG Advanced Materials Ltd.", "VEDL": "Vedanta Ltd."}

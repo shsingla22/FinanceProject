@@ -73,6 +73,20 @@ COVERAGE = OUT_DIR / "_coverage.csv"
 OFFERINGS = OUT_DIR / "_offerings.csv"
 HISTORY = OUT_DIR / "history"
 CACHE = HERE.parent / ".judge_cache.json"
+
+
+def set_out_dir(path: Path) -> None:
+    """Write this run's outputs under `path` instead of the production
+    folder (a backtest keeps its own folder)."""
+    global OUT_DIR, REPORT, LATEST, SITUATIONS, MENTIONS, COVERAGE, OFFERINGS, HISTORY
+    OUT_DIR = Path(path)
+    REPORT = OUT_DIR / "SPINOFF_REPORT.md"
+    LATEST = OUT_DIR / "spinoff_latest.json"
+    SITUATIONS = OUT_DIR / "_situations.csv"
+    MENTIONS = OUT_DIR / "_concall_mentions.csv"
+    COVERAGE = OUT_DIR / "_coverage.csv"
+    OFFERINGS = OUT_DIR / "_offerings.csv"
+    HISTORY = OUT_DIR / "history"
 MODEL = os.environ.get("SPINOFF_JUDGE_MODEL",
                        os.environ.get("ANALYST_MODEL", "claude-opus-5"))
 JUDGE_CHARS = 45_000          # offerings: one filing is enough
@@ -129,9 +143,12 @@ def _ask(key: str, stamp: str, prompt: str, allow_ai: bool, runner=None) -> dict
     """One cached, strict-JSON question to the judge; a malformed answer
     is asked once more."""
     cache = _cache()
-    hit = cache.get(key)
-    if hit and hit.get("stamp") == stamp:
-        return {"status": "cached", **hit["verdict"]}
+    hit = cache.get(key) or {}
+    # several readings of one key may be live at once (a backtest's as-of
+    # window beside today's): the cache keeps the last few stamps per key
+    stamps = hit.get("stamps") or ({hit["stamp"]: hit["verdict"]} if hit.get("stamp") else {})
+    if stamp in stamps:
+        return {"status": "cached", **stamps[stamp]}
     if not allow_ai or (runner is None and not _ai_available()):
         return {"status": "not assessed", "note": "judge not run — mechanical read only"}
     verdict, failure = None, "unparseable"
@@ -159,7 +176,11 @@ def _ask(key: str, stamp: str, prompt: str, allow_ai: bool, runner=None) -> dict
         return {"status": f"judge failed: {failure}"}
     with _CACHE_LOCK:
         cache = _cache()
-        cache[key] = {"stamp": stamp, "verdict": verdict}
+        old = cache.get(key) or {}
+        kept = old.get("stamps") or ({old["stamp"]: old["verdict"]} if old.get("stamp") else {})
+        kept = dict(list(kept.items())[-3:])             # at most four readings per key
+        kept[stamp] = verdict
+        cache[key] = {"stamps": kept}
         tmp = CACHE.with_suffix(".json.tmp")
         tmp.write_text(json.dumps(cache, indent=1))
         tmp.replace(CACHE)
@@ -366,7 +387,7 @@ def calls_text_for(symbol: str, months: int, today: dt.date, budget: int = CALLS
     secs = []
     for label, body in SO.concall_sections(text):
         d = SO._label_date(label)
-        if d and d >= cutoff:
+        if d and cutoff <= d <= today:                  # as-of: no later calls
             secs.append((d, label.replace("Call: ", ""), body))
     secs.sort(key=lambda x: x[0], reverse=True)
     out, used, dropped = [], 0, 0
@@ -951,10 +972,12 @@ def call_only_scan(symbols: list[str], exclude: set[str], today: dt.date) -> lis
 
 
 def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
-           fetch_docs: bool = False, runner=None) -> None:
+           fetch_docs: bool = False, runner=None, list_only: bool = False) -> None:
     """Everything beyond the mechanical situation: confidence, judge,
     listing status, and — for confirmed / probable — rationale, parent
-    numbers, documents and segment numbers."""
+    numbers, documents and segment numbers. `list_only` stops after the
+    judge's classification and the listing status (a backtest of the
+    LIST needs no rationale, numbers or offerings)."""
     s["confidence"] = SO.confidence(s)
     scheme = scheme_text_for(s, rows)
     calls12 = calls_text_for(s["symbol"], SO.CONCALL_MONTHS, today) if s["kind"] in SO.SPIN_KINDS else ""
@@ -980,6 +1003,11 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
             s["stage"], s["listed_on"], s["days_since_listing"] = stage, None, None
             s["verdict"] = SO.verdict(s, s["checklist"])
     s["listing"] = SO.listing_status(s, s["judge"], today)
+    if list_only:
+        if s["kind"] in SO.OFFERING_KINDS:
+            s["confidence"] = ("offering", SO.family_of(s["kind"]))
+            s["offering"] = {"status": "not assessed", "note": "list-only run"}
+        return
     if s["kind"] in SO.OFFERING_KINDS:
         s["confidence"] = ("offering", SO.family_of(s["kind"]))
         s["offering"] = judge_offering(s, scheme_text_for(s, rows), allow_ai=ai, runner=runner)
@@ -1030,10 +1058,20 @@ def cmd_run(args, runner=None) -> dict:
     if args.refresh:
         print("refreshing the last year of filings…", file=sys.stderr)
         FA.run(days=args.days, bse=not args.no_bse, pdf=True, only=only)
-    rows = SO.load_filings()
+    if getattr(args, "out", None):
+        set_out_dir(Path(args.out))
+    # the window: filings dated within `days` of the as-of date and never
+    # after it; a register record date (the exchange's own word) stays
+    # whatever its age, as long as it is not in the future
+    days = int(getattr(args, "days", 400) or 400)
+    start = (today - dt.timedelta(days=days)).isoformat()
+    rows = [r for r in SO.load_filings()
+            if r["date"] <= today.isoformat() and (r["date"] >= start or r.get("source") == "NSE-register")]
+    SO.set_register(Path(args.register) if getattr(args, "register", None) else None, today)
     members = FA.universe()
     if only:
         rows = [r for r in rows if r["symbol"] in only]
+    list_only = bool(getattr(args, "list_only", False))
     if not args.no_calls:
         # the calls are a SOURCE of situations, not only colour on them
         links = {}
@@ -1051,7 +1089,7 @@ def cmd_run(args, runner=None) -> dict:
     workers = max(1, int(getattr(args, "workers", 1) or 1))
 
     def _one(s):
-        enrich(s, rows, ai, today, live, fetch_docs=args.fetch_docs, runner=runner)
+        enrich(s, rows, ai, today, live, fetch_docs=args.fetch_docs, runner=runner, list_only=list_only)
         if s["kind"] in SO.SPIN_KINDS:
             print(f"  {s['symbol']}: {s['confidence'][0]} / {s['stage']} — {s['listing']['state']}"
                   f" [{(s.get('judge') or {}).get('status')} / {(s.get('rationale') or {}).get('status', '-')}"
@@ -1142,7 +1180,12 @@ def main() -> None:
     r.add_argument("--refresh", action="store_true", help="re-pull the filings first")
     r.add_argument("--fetch-docs", action="store_true",
                    help="pull annual reports and presentations for the highlighted companies")
-    r.add_argument("--days", type=int, default=365)
+    r.add_argument("--days", type=int, default=400,
+                   help="filings window: this many days before the as-of date (register record dates always join)")
+    r.add_argument("--out", default=None, help="write outputs under this folder (a backtest keeps its own)")
+    r.add_argument("--register", default=None, help="the demerger register CSV to consult (default: production)")
+    r.add_argument("--list-only", dest="list_only", action="store_true",
+                   help="judge classification and listing only — no rationale, numbers, documents or offerings")
     r.add_argument("--no-bse", action="store_true")
     r.add_argument("--quick", action="store_true", help="no AI judge")
     r.add_argument("--no-calls", action="store_true", help="skip the conference-call scan")
