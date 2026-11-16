@@ -1,6 +1,6 @@
 # Spin-offs and demergers — NiftyTotalMarket
 
-*Run 2026-11-16 · filings window 2024-06-13 → 2026-11-15 · 4736 restructuring filings across 559 companies · 34 confirmed demergers, 90 probable, 26 indicated, 473 rights / preferential offerings, 817 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
+*Run 2026-11-16 · filings window 2024-06-13 → 2026-11-15 · 4736 restructuring filings across 559 companies · 32 confirmed demergers, 89 probable, 26 indicated, 473 rights / preferential offerings, 820 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
 
 **The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: the new stock is sold by holders who never chose it for about a year, the parent is often the better buy before the split, insiders tell you what they think through the stock and options they take in the new entity, and a pro-forma statement plus the peer P/E prices what the market is ignoring. This report puts the CONFIRMED demergers first — a demerger scheme on the exchange record — each with when the new entity lists, why management is doing it (three years of calls, with the transcript each point came from), the parent's last three years with charts, P/E and cash flows, and the separated business's own numbers from the annual reports and presentations, page-cited. Probable and indicated cases follow, then every other restructuring on file.
 
@@ -27,7 +27,6 @@
 | **STAR** | Arco Lab's Life Sciences and Digital Innovation businesses, carved out… | record_date | LISTED since ~2024-12-06 | 5.0 | LISTED 1–2Y |
 | **TMCV** | Tata Motors' commercial vehicle business (trucks, buses, pick-ups, van… | listed | THIS IS THE SPIN-OFF — listed 2025-11-12 | 5.0 | LISTED 1–2Y |
 | **TVSMOTOR** | Home Credit India Finance Private Limited | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 5.0 | PRE-SPIN |
-| **ADANIENT** | Adani New Industries Ltd. | effective | RECORD DATE set; listing pending | 4.3 | SPINNING |
 | **INDIAGLYCO** | Ennature Bio Pharma Limited | listed | LISTED since ~2026-11-02 | 4.3 | LISTED <1Y |
 | **INOXGREEN** | Inox Renewable Solutions Limited | record_date | LISTED since ~2026-08-01 | 4.3 | LISTED <1Y |
 | **PICCADIL** | The Sugar Business — white crystal sugar, allied and food products — d… | exchange_noc | NOT YET (exchange_noc); timeline stated | 4.3 | PRE-SPIN |
@@ -38,7 +37,6 @@
 | **RAYMOND** | Raymond Realty Limited | record_date | LISTED since ~2025-05-14 | 4.2 | LISTED 1–2Y |
 | **ABFRL** | Madura Fashion & Lifestyle Business, demerged from ABFRL into wholly o… | record_date | LISTED since ~2025-05-22 | 3.6 | LISTED 1–2Y |
 | **ABLBL** | Madura Fashion and Lifestyle ('MFL') branded apparel business demerged… | listed | THIS IS THE SPIN-OFF — listed 2025-06-23 | 3.6 | LISTED 1–2Y |
-| **CELLO** | Wim Plast's Manufacturing Business demerged into Cello Consumer Produc… | meetings | NOT YET (meetings) | 3.6 | PRE-SPIN |
 | **TRIVENI** | Triveni Power Transmission Limited | listed | LISTED since ~2026-10-09 | 3.6 | LISTED <1Y |
 | **ITC** | ITC's Hotels business, distributed to shareholders under a Scheme of D… | record_date | LISTED since ~2025-01-06 | 3.3 | LISTED 1–2Y |
 | **STLTECH** | STL's Global Services Business (system integration / services arm), de… | record_date | LISTED since ~2025-04-24 | 2.9 | LISTED 1–2Y |
@@ -65,7 +63,6 @@ Demergers first, then subsidiary listings, then schemes whose nature the documen
 | **ARVIND** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 3.3 | [2025-12-05 General Updates](https://nsearchives.nseindia.com/corporate/ARVIND1_05122025173251_Arvind.pdf) · **de-merged** · [text line 104](../../../Announcements/NiftyTotalMarket/text/ARVIND_106462008.txt#L104) · “Arvind had de-merged its AMD division to AAML in FY25 for a purchase consideration of INR903.6 million , which would be paid through internal cash generation over FY26”<br>[2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ARVIND1_30012026124440_Arvindsigned.pdf) · **demerger** · [text line 335](../../../Announcements/NiftyTotalMarket/text/ARVIND_106512789.txt#L335) · “Pursuant to the aforesaid NCLT order on demerger of its Advanced Material Undertaking, there is only one material reportable segment of the Company as at September 30, 2025” |
 | **HCLTECH** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 3.3 | [2026-01-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCLTECH_12012026170902_FinancialResults.pdf) · **carve-out** · [text line 321](../../../Announcements/NiftyTotalMarket/text/HCLTECH_106494809.txt#L321) · “4 Acquisition of Teko Solutions Business from Hewlett Packard Enterprise (HPE): On 18 December 2025, the Group has signed a definitive agreement to carve-out and acquire Telco Solutions Business from HPE for 'r 1,438 crores ($160 million), including 'r 135 cro”<br>[2026-01-12 Record Date](https://nsearchives.nseindia.com/corporate/HCLTECH_12012026172342_FinancialResults.pdf) · **carve-out** · [text line 321](../../../Announcements/NiftyTotalMarket/text/HCLTECH_106494833.txt#L321) · “4 Acquisition of Teko Solutions Business from Hewlett Packard Enterprise (HPE): On 18 December 2025, the Group has signed a definitive agreement to carve-out and acquire Telco Solutions Business from HPE for 'r 1,438 crores ($160 million), including 'r 135 cro” |
 | **IIFLCAPS** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced); timeline stated | 3.3 | [2026-05-07 General Updates](https://nsearchives.nseindia.com/corporate/IIFLSEC_07052026225340_PublicAnnouncementsigned.pdf) · **Demerger** · [text line 200](../../../Announcements/NiftyTotalMarket/text/IIFLCAPS_106613725.txt#L200) · “2.2 Subsequently, pursuant to the Scheme of Demerger undertaken by IIFL Holdings ( now known as IIFL Finance Limited ) with effect from May 13, 2019, IIFL Holdings was demerged into three resultant entities, namely, IIFL Finance Limited, the Target Company and”<br>[2026-09-11 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/IIFLSEC_11092026192326_BMOutcome.pdf) · **Outcome of Board Meeting** · headline · “IIFL Capital Services Limited has informed the Exchange regarding Outcome of Board Meeting held on September 11, 2026.”<br>[2026-09-11 General Updates](https://nsearchives.nseindia.com/corporate/IIFLSEC_11092026192550_BMOutcome.pdf) · **General Updates** · headline · “IIFL Capital Services Limited has informed the Exchange about General Updates” |
-| **MEESHO** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings) | 3.3 | [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MEESHO_30012026173517_MLOutcomeofBM30Jan2026.pdf) · **demerger** · [text line 639](../../../Announcements/NiftyTotalMarket/text/MEESHO_106513471.txt#L639) · “As a consideration of the demerger, MTPL and MGPL issued equity shares and Compulsorily convertible preference shares ('CCPS') to the Company”<br>[2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MEESHO_30012026174011_MLOutcomeofBM30Jan2026.pdf) · **demerger** · [text line 639](../../../Announcements/NiftyTotalMarket/text/MEESHO_106513488.txt#L639) · “As a consideration of the demerger, MTPL and MGPL issued equity shares and Compulsorily convertible preference shares ('CCPS') to the Company”<br>[2026-01-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/MEESHO_13012026002617_MeeshoLimitedPostalballot13Jan2026.pdf) · **Shareholders meeting** · headline · “Meesho Limited has informed the Exchange regarding Notice of Postal Ballot”<br>+1 more documents |
 | **SUDARSCHEM** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.9 | [2026-02 call transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ba3a3f1c-a143-4a16-88eb-41f658953e4d.pdf) · **hive off** · SUDARSCHEM.pdf page 159 · “help to increase my share. Chetan Cholera: Yes. My second question is, what's your long-term strategy of whole Heubach operation? Is there any plan to merge or hive off some of the operation or divest some of the operat”<br>[2026-09-01 Sale or disposal](https://nsearchives.nseindia.com/corporate/SUDARSCHEM_01092026020940_SEIntimationSaleofVP4Franfurt01092026Signed.pdf) · **Sale or disposal** · headline · “Sudarshan Chemical Industries Limited has informed the Exchange about intimation regarding execution of Share Purchase and Transfer Agreement for sale of 100% stake in VP4 Frankfurt GmbH, a Step-Down ”<br>[2025-12-30 Other Restructuring](https://nsearchives.nseindia.com/corporate/SUDARSCHEM_30122025171732_SEIntimationLiquidationofsubsidiary30122025Signed.pdf) · **Other Restructuring** · headline · “Sudarshan Chemical Industries Limited has informed the Exchange about Other Restructuring” |
 | **INTELLECT** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.5 | [2026-06-08 Press Release](https://nsearchives.nseindia.com/corporate/INTELLECT_08062026102710_PRdated08062026.pdf) · **carve-out** · [text line 39](../../../Announcements/NiftyTotalMarket/text/INTELLECT_106657189.txt#L39) · “Yours truly, for Intellect Design Arena Limited Prakash Bharadwaj Company Secretary and Compliance Officer ACS-37214 Intellect announces strategic carve-out of Purple Fabric into an independent Line of Business; Appoints Deepak Dastrala as CEO Chennai (India),” |
 | **NSLNISP** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.5 | [2026-08-15 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_15082026013744_NSLSE14082026_results1.pdf) · **demerger** · [text line 204](../../../Announcements/NiftyTotalMarket/text/NSLNISP_106746044.txt#L204) · “As the matter pertains to the pre-demerger period, NMDC Ltd, is filing the appeals as per the demerger scheme”<br>[2026-05-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_29052026201431_NSLBMintimation29052026.pdf) · **demerger** · [text line 202](../../../Announcements/NiftyTotalMarket/text/NSLNISP_106648097.txt#L202) · “Subsequent to demerger and revision in the Rating from 'AAA' to 'A-', the coupon rate was revised to 8.80% w.e.f”<br>[2026-02-03 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NMDCSTEEL_03022026150031_NSLResults03022026.pdf) · **demerger** · [text line 185](../../../Announcements/NiftyTotalMarket/text/NSLNISP_106517575.txt#L185) · “Subsequent to demerger and revision in the Rating from 'AAA' to 'A-', the coupon rate was revised to 8.80% w.e.f” |
@@ -188,7 +185,7 @@ price band for the initial public offer** · [text line 23](../../../Announcemen
 | **PTC** | scheme (nature unclear) | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 4.3 | 2026-05 call · **value unlocking** · PTC.pdf page 78 · “ne and bottom line in that? Second, bookkeeping, what's the net cash as on today. And the third, PTC financials, we discussed, okay, there will be monetization value unlocking, the process will be followed. But till tha” |
 | **JAINREC** | scheme (nature unclear) | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 3.6 | 2026-02 call · **value unlock** · JAINREC.pdf page 5 · “tself, lead -acid battery scrap contains valuable byproducts such as tin and antimony. Tin extraction is alr eady implemented and scaling up steadily. The next value unlock is antimony extraction. We have now secured ac” |
 
-<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 817</summary>
+<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 820</summary>
 
 | Company | What | Stage | First filing | Filings |
 |---|---|---|---|---:|
@@ -218,6 +215,7 @@ price band for the initial public offer** · [text line 23](../../../Announcemen
 | TATASTEEL | not a spin-off for this company's holders (inbound demerger — the scheme names Tata Steel Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…is is further to our disclosure dated July 31 , 2024, in connection with the Scheme of Amalgamation amongst Tata Steel Limited (‘ Transferee Company /Company ’")) | effective | 2025-11-14 | 9 |
 | THERMAX | not a spin-off for this company's holders (inbound demerger — the scheme names Thermax Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…A) Scheme of Merger by Absorption of Buildtech Products India Private Limited (“Transferor Company”) with Thermax Limited (“Transferee Company”) and their resp")) | nclt_sanction | 2025-10-17 | 11 |
 | ULTRACEMCO | not a spin-off for this company's holders (inbound demerger — a business is demerged INTO UltraTech Cement Ltd.) | announced | 2026-01-24 | 2 |
+| CELLO | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | meetings | 2025-11-03 | 11 |
 | GROWW | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | indicated_on_calls | 2026-04-01 | 1 |
 | KIRLOSENG | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | announced | 2026-03-10 | 1 |
 | ABB | not a spin-off for this company's holders (the judge read the listing question as answered no: “No listing: the Postal Ballot Notice (January 26/28, 2026) states the Board concluded that the Robotics Business's "size, nature and scale o”) | announced | 2025-11-06 | 5 |
@@ -226,6 +224,7 @@ price band for the initial public offer** · [text line 23](../../../Announcemen
 | ETERNAL | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | announced | 2025-12-09 | 5 |
 | INDHOTEL | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2025-12-19 | 4 |
 | LUMAXTECH | not a spin-off for this company's holders (inbound demerger — the scheme names Lumax Auto Technologies Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…rangement for Amalgamation of IAC International Automotive India Private Limited ('Transferor Company') with Lumax Auto Technologies Limited ('Transferee Compa")) | effective | 2025-11-08 | 13 |
+| MEESHO | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | meetings | 2025-12-10 | 4 |
 | PAYTM | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2025-10-15 | 2 |
 | SAMMAANCAP | not a spin-off for this company's holders (inbound demerger — the scheme names Sammaan Capital Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…ulations ”) Ref: Scheme of Arrangement between Sammaan Finserve Limited (“Demerged Company”/ “SFL”) and Sammaan Capital Limited (“Resulting Company” / “SCL”) a")) | nclt_sanction | 2025-12-31 | 8 |
 | GABRIEL | not a spin-off for this company's holders (inbound demerger — the scheme names Gabriel India Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…(the “Transferee Company” for Part C of the Scheme and the “Demerged Company” for Part D of the Scheme)) | effective | 2025-11-18 | 16 |
@@ -414,6 +413,7 @@ price band for the initial public offer** · [text line 23](../../../Announcemen
 | WIPRO | capital reduction | nclt_sanction | 2026-04-16 | 12 |
 | ZYDUSLIFE | capital reduction | record_date | 2026-05-19 | 17 |
 | ZYDUSLIFE | slump sale | announced | 2025-11-19 | 5 |
+| ADANIENT | merger | effective | 2025-11-17 | 13 |
 | ADANIENT | merger | record_date | 2025-11-01 | 12 |
 | BELRISE | slump sale | meetings | 2026-08-04 | 5 |
 | CHALET | merger | announced | 2026-02-02 | 2 |
@@ -3937,165 +3937,6 @@ xychart-beta
 
 </details>
 
-## ADANIENT — Adani Enterprises Ltd.
-
-**CONFIRMED** (a demerger scheme is on the exchange record) · **SPINNING — record date set; the new entity lists soon** · score 4.3/10 · spin-off · 13 filing(s) from CALLS, NSE · first 2025-11-17, latest 2026-04-15
-
-> **Listing:** RECORD DATE set; Adani New Industries Ltd. not yet listed — resulting companies have typically listed 4–10 weeks after the record date
-
-**The stages, as filed:** announced (2026-03-16) → meetings (2025-12-29) → nclt_sanction (2025-11-26) → effective (2026-04-01)
-
-**Stated in the filings:** resulting company **Adani New Industries Ltd.**.
-
-**What is being separated, as the documents put it:** Adani Tradecom Limited amalgamated into Adani New Industries Limited (new energy ecosystem); documents give no business description — class `value_unlocking`.
-
-- *Insiders:* Not stated for Adani New Industries Limited; it remains an AEL subsidiary. Only promoter-linked item disclosed: shareholder loans (~INR16,000 crore) participating in AEL's rights issue
-- *What it reveals:* ANIL is a cash-generating new energy ecosystem: FY26 New Energy Ecosystem segment revenue INR15,399 crore, EBITDA solar ~INR3,700 crore and wind ~INR760 crore, Adani Solar in world's top 10, capacity expanding 2.5x
-- *Selling pressure:* unlikely — No ANIL shares distributed or listed to AEL holders; only 90,11,048 AEL shares issued to AEBPL's shareholder
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The Composite Scheme sanctioned by NCLT Ahmedabad order dated March 16, 2026 — for ANIL's assets and share exchange ratio
-- *In their words:* “AEL is now getting ready for value unlock through demergers.”
-
-### Why the demerger — three years of calls and the scheme
-
-Management frames the separation not as a fix for a broken business but as the final step of AEL's incubation model — "build, stabilize, scale and unlock" — now that the first three phases are done; in the Apr 2026 call Arun Bansal said AEL "is now getting ready for value unlock through demergers" of four platforms: Airports, Roads, the ANIL (Adani New Industries) new-energy ecosystem, and long-term contracted MDO mining services. The stated precondition is maturity, not distress: FY26 closed with 80% of EBITDA from core infrastructure and services (vs 12% when the plan was outlined in 2019), consolidated income of INR1,02,943 crores, EBITDA of INR16,464 crores and PBT of INR4,309 crores excluding a INR9,215 crores exceptional gain, with Airports alone at INR13,081 crores income (+28%) and INR5,394 crores EBITDA (+55%), 95.3mn passengers, 23% of India's passenger traffic and 29% of air cargo. The problem the separation solves, as management tells it, is that an incubator's conglomerate P&L cannot show the value of assets whose capex phase has ended — Navi Mumbai (regulatory asset base close to INR20,000 crores at a 12–14% return), Ganga Expressway (just over INR15,000 crores, 27-year concession, doubling a INR1,500 crores road EBITDA run-rate) and Kutch Copper (500 KTPA, INR2,800–3,100 crores EBITDA at 70–80% utilisation) together add over INR3,000 crores EBITDA in FY27 and INR6,000–6,800 crores at peak, and Robbie Singh argued the reported 16% growth understates a INR19,000 crores run-rate because assets ran only days or weeks — an "accounting artifact." Earlier, in Feb 2024, the airport demerger was explicitly deferred — "we will wait for the demerger of this business until it achieves all these benchmarks" — three to five years out, until passenger/non-pax service standards and the city-side developments (first phase FY26-27, INR20,000 crores outlay) were in place. The pressure is from equity investors and sell-side analysts (Prateek Kumar of Jefferies repeatedly asked when Airports would be demerged; Bharat Shah of ASK pressed on service quality), not from lenders or partners: Singh said outside investors are "very much" interested because Airports is "a premier business of its type in AEL," but "does the business need that from its own point of view? We are comfortable with the business plan as it is." Capital for the pre-separation phase came instead from a INR24,930 crores partly-paid rights issue (which converted roughly INR16,000 crores of promoter shareholder loans into equity) and from exiting non-core businesses — the Food FMCG demerger into Adani Wilmar, the 13.51% OFS and then the remaining 30.42% AWL sale, and Adani Cementation's amalgamation into Ambuja for 87,00,000 Ambuja shares — with the AWL math spelled out as INR14,200 crores post-tax proceeds funding up to INR70,000 crores of core-infra investment at 15–18% returns, adding INR11,000 crores of EBITDA and swapping INR250 crores of cash-after-tax for about INR5,000 crores, "a 20x improvement." Timing is now guided to FY27–28 for Airports readiness, with the decision expressly left to the AEL Board, and leverage held at 3.9x (core infra guided 3.5–4.5x against a sub-$4bn regulatory asset base; metals/mining kept conservative at ~$2bn net external debt against ~$6bn of operating assets).
-
-**How it evolved:** The idea surfaces first as conditional and distant: in the Feb 2024 call Robbie Singh ties an airport demerger to service benchmarks "three to five years from now," and the May 2024 call says AEL is "well poised to develop its incubating portfolio eventually as independent listed verticals in their own right," while Aug 2024 delivers the first actual separation — the Board-approved Food FMCG demerger into Adani Wilmar, pitched as a self-sustaining business and value unlock. Jan 2025 reframes separations as capital recycling (the AWL stake sale math), and May 2025/Nov 2025 operationalise the carve-out: Airports becomes a standalone reported vertical with its own CEO and CFO on the call from the September quarter, and a INR25,000 crores rights issue is approved to fund the next incubation phase. Feb 2026 shows the scale (Airports already tracking over INR5,200 crores EBITDA annually, Navi Mumbai and Ganga Expressway commissioning), and the Apr 2026 call converts the idea into a stated programme — "value unlock through demergers" across Airports, Roads, ANIL and MDO — with Airports guided ready around FY27-28 and the decision left to the AEL Board. Alongside, the filings move in the opposite direction for tidiness, amalgamating Adani Green Technology and Adani Emerging Business into AEL and Adani Tradecom into ANIL with appointed date 1 April 2026, and taking Adani Cementation out to Ambuja effective 1 August 2025.
-
-**What management expects from it:** Airports, Roads, ANIL and MDO each become independent, sector-leading listed platforms in "value creation mode": Airports on a 12–14% regulatory-asset return with 55% EBITDA growth and city-side upside; Roads doubling EBITDA via Ganga Expressway; ANIL scaling capacity 2.5x; MDO compounding ~20% off 34% utilisation. AEL keeps core-infra leverage at 3.5–4.5x, recycles exit proceeds at 15–18% returns, and lets investors value each platform directly.
-
-**Point by point, with the source:**
-
-- *[Nov 2023](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=40649468-8950-4e4e-8b25-1d6ad4e65161.pdf)* — Pre-cursor logic: each module of the green hydrogen ecosystem is built to be profitable standalone so nothing cross-subsidises — the design principle that later makes verticals separable. “It just shows you the overall strategy that we have adopted of each individual module of the green hydrogen ecosystem being profitable in its own right.”
-- *[Feb 2024](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor%20Downloads/Results%20Conference%20Call%20Transcripts/Q3%20FY24%20Earnings%20Call%20Transcript.pdf)* — First explicit demerger reference: the Airports demerger is deliberately deferred until passenger-experience and service benchmarks (security, immigration, check-in, car parking, city-side) are met, flagged three-to-five years out — in response to ASK Investment Managers' Bharat Shah criticising actual airport service quality. “That's why we will wait for the demerger of this business until it achieves all these benchmarks.”
-- *[May 2024](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY24-Earnings-Call-Transcript.pdf)* — The incubation-to-listing end state is stated as policy for the whole portfolio (ANIL, Airports, Roads), on the back of incubating assets reaching 45% of FY24 EBITDA versus 40% in FY23. “This leaves Adani Enterprises well poised to develop its incubating portfolio eventually as independent listed verticals in their own right.”
-- *Aug 2024* — The first concrete separation is approved — the Food FMCG business demerged out of AEL into Adani Wilmar along with strategic investments in Adani Commodities LLP — justified by the business being self-sustaining and ready to grow on its own. “The Food FMCG business has become self-sustained , performing well and poised for future growth.”
-- *Jan 2025* — Separation reframed as capital recycling with explicit arithmetic: INR14,200 crores post-tax from the Adani Wilmar exit funds up to INR70,000 crores of core infra capex at 15–18% returns, adding INR11,000 crores EBITDA and lifting cash-after-tax from INR250 crores to about INR5,000 crores. “It's a 20x improvement in the actual cash after tax post this transaction.”
-- *[May 2025](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY25-Earnings-Call-Transcript.pdf)* — Airports is given separate disclosure because it has become too big to stay buried in AEL — roughly INR4,000 crores FY25 EBITDA (45% from Mumbai), heading to INR4,500–5,000 crores, with all six PPP airports at EBITDA break-even; granular segment reporting starts from 30th September. “Actually, what we are also planning to do is that because it's now a significantly large part of AEL , meaning it will be closer to the INR 4,500 -5,000 crore s EBITDA in the coming quarters .”
-- *[Nov 2025](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q2-FY26-AEL_Earnings-Call-Transcript-v1.pdf)* — Capital is raised ahead of separation rather than at it: a INR25,000 crores partly-paid rights issue, in which promoter shareholder loans of roughly INR20,000 crores become equity, with proceeds used primarily for Airports plus Roads and ANIL; Airports is presented for the first time as a standalone vertical with its own CEO and CFO. “This issue will st rengthen AEL ’s balance sheet for the next phase of incubation while allowing existing shareholders to participate in growth story of our core incubating infrastructure and energy transition assets.”
-- *[Feb 2026](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q3-FY26-AEL_Earnings-Call_Transcript.pdf)* — Scale and strategic-importance case for a standalone airport platform: annualised EBITDA already over INR5,200 crores before Navi Mumbai, which alone adds about INR2,000 crores of regulatory aero EBITDA (~40% uplift) on a regulatory asset base near INR20,000 crores earning 12–14%; 23% of India's passengers and 29% of air cargo. “Now as a showcase, given the scale of Airport business, which is now already tracking over INR5,200 crores of EBITDA annually.”
-- *[Apr 2026](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf)* — The separation is stated as the company's next phase, naming the four platforms to be demerged — Airports, Roads, the ANIL ecosystem and long-term contracted MDO services — on the basis that the primary capex phase is maturing and 80% of FY26 EBITDA now comes from core infrastructure and services. “AEL is now getting ready for value unlock through demergers.”
-- *[Apr 2026](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf)* — The rationale is the completion of a repeatable incubation sequence, not a problem in the businesses; management says three of four phases are already behind them. “Incubation journey is a repeatable playbook for us: build, stabilize, scale and unlock. We are already past first 3 phases and value unlock is the next phase of our journey.”
-- *[Apr 2026](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf)* — Timing: asked directly by Jefferies' Prateek Kumar when the Airports demerger happens, Singh puts business readiness at FY27-28 and hands the decision to the AEL Board — alongside FY27 airport capex of about INR17,000 crores, Navi Mumbai Phase 2 and city-side work at five airports. “I think from Airports business plan point of view, Prateek, I think the airport team -- airport management would be ready by -- they are comfortable around, say, '27, '28.”
-- *[Apr 2026](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf)* — External investors want in but the business does not need them — separation is about recognition of value, not funding a gap; the plans are already funded. “But does the business need that from its own point of view? We are comfortable with the business plan as it is for ourselves.”
-
-*Not explained on the calls:* No demerger scheme, entitlement ratio, record date, listing or tax treatment; no asset/debt allocation, no board approval, and no stated reason for separating versus stake sales.
-
-*Calls read (36 months):* [Apr 2026](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf), Aug 2024
-
-### The parent, last three fiscal years (consolidated)
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 96,421 | 97,895 | 100,469 |
-| Sales growth (%) | -24.4% | +1.5% | +2.6% |
-| Operating profit (₹ cr) | 11,377 | 14,252 | 13,991 |
-| Operating profit growth (%) | +29.0% | +25.3% | -1.8% |
-| Operating margin (%) | 11.8 | 14.6 | 13.9 |
-| PAT (₹ cr) | 3,335 | 8,005 | 9,951 |
-| PAT growth (%) | +37.7% | +140.0% | +24.3% |
-| PAT margin (%) | 3.5 | 8.2 | 9.9 |
-| EPS (₹) | 25.4 | 55.0 | 72.3 |
-
-*Source: ProfitStatement/NiftyTotalMarket/ADANIENT.csv (consolidated, screener.in); growth and margins computed here.*
-
-```mermaid
-xychart-beta
-    title "Sales, operating profit and PAT (₹ cr)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "₹ crore"
-    bar [96421, 97895, 100469]
-    bar [11377, 14252, 13991]
-    bar [3335, 8005, 9951]
-```
-*Series in order: Sales, Operating profit, PAT.*
-
-```mermaid
-xychart-beta
-    title "Margins (%)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "%"
-    line [11.8, 14.6, 13.9]
-    line [3.5, 8.2, 9.9]
-```
-*Series in order: Operating margin, PAT margin.*
-
-**P/E:** 172.0 — live market file (screener.in), trailing (price ₹3,010.00 as of 2026-08-02).
-
-**Cash flows (₹ cr):**
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Cash from operations (₹ cr) | 10,312 | 4,513 | 2,357 |
-| Cash from investing (₹ cr) | -18,767 | -26,417 | -27,680 |
-| Cash from financing (₹ cr) | 8,879 | 22,655 | 28,484 |
-| Net cash flow (₹ cr) | 424 | 751 | 3,161 |
-| Free cash flow (₹ cr) | -11,934 | -25,002 | -30,993 |
-
-*Source: CashFlow/NiftyTotalMarket/ADANIENT.csv (consolidated, screener.in).*
-
-### The business being separated — its own numbers
-
-**New Energy Ecosystem / ANIL Ecosystem (Adani New Industries Ltd.)** · unit ₹ crore · Figures are ANIL's own reported 'Total Income' (includes other income, not purely external revenue), EBITDA and PBT as disclosed in AEL's Incubating Businesses financial highlights (and the AR 2025-26 'New Energy Ecosystem' business performance table). operating_profit = EBITDA; pat is not disclosed for the segment. Audited Ind AS 108 segment reporting gives a different basis — Revenue from Operations and 'Profit Before Finance Costs, Tax Expense & Other Income (incl. exceptional items)' i.e. segment EBIT, before inter-segment elimination: FY2024 8,570.96 / 1,802.34 (Annual Report 2024 — page 485); FY2025 13,965.39 / 4,082.07 (Annual Report 2025 — page 500); FY2026 15,399.00 / 3,609.00 (Annual Report 2026 — page 339). Q1 FY27 figures restated on account of a merger in the New Energy ecosystem.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ crore) | 8,741 | 14,236 | 15,563 |
-| Revenue growth (%) | — | +62.9% | +9.3% |
-| Operating profit (₹ crore) | 2,296 | 4,776 | 4,532 |
-| Operating profit growth (%) | — | +108.0% | -5.1% |
-| Operating margin (%) | 26.3 | 33.5 | 29.1 |
-| PAT (₹ crore) | — | — | — |
-| PAT growth (%) | — | — | — |
-
-*Sources:* Presentation May 2025 — page 3; Presentation May 2025 — page 3; Presentation Apr 2026 — page 3; Presentation Apr 2026 — page 3; Annual Report 2026 — page 168
-
-*Latest quarter (Q1 FY27):* revenue 3937, operating profit 972 — Presentation Jul 2026 — page 3
-
-*Not in the pages read:* No PAT/net profit, tax, depreciation or standalone balance sheet for ANIL; only Total Income, EBITDA, PBT (plus segment revenue/EBIT and segment assets/liabilities/debt).
-
-*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/a859a404-0859-451c-b8aa-f163631188c3.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/731090d0-4769-4c33-be22-689ddceac71b.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/045307f4-4c12-4e61-9764-d48b84c5b233.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87f9b62b-f36b-448a-8882-f051473798ea.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09cd12e0-1a3e-4e0c-bcf7-689499810230.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12695f71-eddd-4327-be95-2fb2f2f44ffe.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8de70047-ce26-4a8e-b11f-7621bc26af13.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51e2e786-7289-44df-95f4-781f4fe5935a.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=93fe9e4c-2225-468c-87d6-5b5e0b9e2dba.pdf)
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…r the Insolvency and Bankruptcy Code, 2016. 22.It is submitted that no notice is required to be issued to the Competition Commission of India, in view of Clause (8) of Schedule I read with Regulation 4 of the Competitio” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 106,622 cr (Mar 2026) = 0.26× market cap; P/E 40.9 on Mar 2026 profit vs industry median 19.4 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | not yet listed — 364 days since the first filing, stage effective |
-| Management discussing it on the calls | yes | 6 mention(s) in the last 12 months of calls — “…question for the management. Prateek Kumar: Yes, I was asking regarding the Airport segment, you have exited this year on a strong note. When should we look at demerger of this business, which you have talked about in t” |
-
-**On the calls (last 12 months):**
-
-- *Apr 2026* (forward) — “…folio -style as we close this financial year with 80% of the EBITDA share coming from core infrastructure and services businesses. AEL is now getting ready for value unlock through demergers. These businesses are independent, sector -leading , large core infra platform , spread across Airports, Roads, ANIL ecosystem and long -term…”
-- *Apr 2026* (forward) — “…ose this financial year with 80% of the EBITDA share coming from core infrastructure and services businesses. AEL is now getting ready for value unlock through demergers. These businesses are independent, sector -leading , large core infra platform , spread across Airports, Roads, ANIL ecosystem and long -term contract ed MDO s…”
-- *Apr 2026* (forward) — “…clear picture where initial and primary capex phase is reaching maturity across businesses and EBITDA mix has shifted to mature scalable platforms and path for value unlock i s taking shape. Adani Enterprises Limited April 30, 2026 Page 3 of 12 Incubation journey is a repeatable playbook for us: build, stabilize, scale and unlock.…”
-- *Apr 2026* (forward) — “…ited April 30, 2026 Page 3 of 12 Incubation journey is a repeatable playbook for us: build, stabilize, scale and unlock. We are already past first 3 phases and value unlock is the next phase of our journey. The roadmap we are building is designed not just to perform in the next quarter or quarter after that. It is designed to deli…”
-- *Apr 2026* (neutral) — “…umar: Sure. And on Airport segment, again, strong exit to the year. When should we look at this company , this segment looking to monetize or not monetize, but demerger, which we have talked about in the past? Moderator: Ladies and gentlemen, we have lost the line of the management. Please stay connected while I reconnect the…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-11-17 | Scheme of Arrangement | Adani Enterprises Limited has informed the Exchange about update on Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_17112025210001_AELSEIntimation17112025.pdf) |
-| 2025-11-26 | Shareholders meeting | Adani Enterprises Limited has informed the Exchange regarding Notice of meeting of Equity shareholders pursuant to the Order passed by the Hon ble National Comp | [pdf](https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_26112025213634_AELSEintimationonNCLTMeeting.pdf) |
-| 2025-12-29 | Shareholders meeting | Adani Enterprises Limited has informed the Exchange regarding Proceedings of Court Convened General Meeting held on December 29, 2025 | [pdf](https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_29122025125211_AELSEintimationonNCLTMeetingProceedings.pdf) |
-| 2025-12-29 | Shareholders meeting | Adani Enterprises Limited has submitted the Exchange a copy Srutinizers report of Court Convened General Meeting held on December 29, 2025. Further, the company | [pdf](https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_29122025202005_AELScrutinizerReport29122025.pdf) |
-| 2026-03-16 | General Updates | Adani Enterprises Limited has informed the Exchange about Intimation regarding Sanction of Composite Scheme of Arrangement by Hon ble National Company Law Tribu | [pdf](https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_16032026191229_AELSEintimationNCLTOrder16032026.pdf) |
-| 2026-04-01 | Scheme of Arrangement | Adani Enterprises Limited has informed the Exchange about Effective Date of the Composite Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/ADANIENT_01042026184830_AELSEintimation01042026.pdf) |
-| 2026-04-01 | Record Date | Adani Enterprises Limited has informed the Exchange that the Record date for the purpose of Allotment of equity shares of the Company in accordance with the Com | [pdf](https://nsearchives.nseindia.com/corporate/ADANIENT_01042026185131_AELSEintimation01042026.pdf) |
-| 2026-04-01 | Updates | Adani Enterprises Limited has informed the Exchange regarding 'Meeting of Management Committee for Allotment of shares in accordance with the Composite Scheme'. | [pdf](https://nsearchives.nseindia.com/corporate/ADANIENT_01042026185459_AELSEintimation01042026.pdf) |
-| 2026-04-01 | Earnings call Apr 2026 | …folio -style as we close this financial year with 80% of the EBITDA share coming from core infrastructure and services businesses. AEL is now getting ready for | [pdf](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf) |
-| 2026-04-01 | Earnings call Apr 2026 | …ose this financial year with 80% of the EBITDA share coming from core infrastructure and services businesses. AEL is now getting ready for value unlock through | [pdf](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf) |
-| 2026-04-01 | Earnings call Apr 2026 | …clear picture where initial and primary capex phase is reaching maturity across businesses and EBITDA mix has shifted to mature scalable platforms and path for | [pdf](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf) |
-| 2026-04-01 | Earnings call Apr 2026 | …ited April 30, 2026 Page 3 of 12 Incubation journey is a repeatable playbook for us: build, stabilize, scale and unlock. We are already past first 3 phases and | [pdf](https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Results-Conference-Call-Transcripts/Q4-FY26-AEL_Earnings-Call_Transcript.pdf) |
-| 2026-04-15 | Updates | Adani Enterprises Limited has informed the Exchange regarding 'Intimation for allotment of equity shares pursuant to the Composite Scheme of Amalgamation '. | [pdf](https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_15042026163753_AELSEintimationAllotment.pdf) |
-
-</details>
-
 ## INDIAGLYCO — India Glycols Ltd.
 
 **CONFIRMED** (a demerger scheme is on the exchange record) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 4.3/10 · spin-off · 42 filing(s) from BSE-screener, CALLS, NSE, NSE-register · first 2025-11-14, latest 2026-11-02
@@ -5571,143 +5412,6 @@ xychart-beta
 | 2026-03-18 | General Updates | Aditya Birla Lifestyle Brands Limited has informed the Exchange about Disclosure pursuant to Regulation 30 of the Securities and Exchange Board of India (Listin | [pdf](https://nsearchives.nseindia.com/corporate/ABLBL_18032026194327_SE_Demand_order.pdf) |
 | 2026-03-19 | General Updates | Aditya Birla Lifestyle Brands Limited has informed regarding disclosure pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligat | [pdf](https://nsearchives.nseindia.com/corporate/ABLBL_19032026150635_SE_Demand_order_signed.pdf) |
 | 2026-03-31 | General Updates | Disclosure pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI Li | [pdf](https://nsearchives.nseindia.com/corporate/ABLBL_31032026180458_SE_Demand_order.pdf) |
-
-</details>
-
-## CELLO — Cello World Ltd.
-
-**CONFIRMED** (a demerger scheme is on the exchange record) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · spin-off · 11 filing(s) from BSE-screener, CALLS, NSE, NSE-BM · first 2025-11-03, latest 2026-09-17
-
-> **Listing:** NOT YET — scheme at 'meetings' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
-
-**The stages, as filed:** announced (2026-02-14) → meetings (2025-11-03)
-
-**Stated in the filings:** appointed date 2025-04-01; size hint: 5.1% of ebitda.
-
-**What is being separated, as the documents put it:** Wim Plast's Manufacturing Business demerged into Cello Consumer Products Private Limited, a wholly owned subsidiary of Cello World — class `regulatory_strategic`.
-
-- *Insiders:* Promoter and Promoter Group held 165,662,977 of 220,885,034 CWL shares and voted 100% in favour; CWL allots 46,53,239 shares of Rs 5 to WPL shareholders other than CWL
-- *What it reveals:* No separate listing — manufacturing moves into a wholly owned subsidiary and WPL's minority holders receive CWL shares, ending the two-listed-entity structure. Moulded Furniture and Allied Products FY26 revenue Rs 349.0 crore, down 5.0%; gross profit Rs 140.5 crore, down 13.3%
-- *Selling pressure:* unlikely — No new entity lists; only 46,53,239 CWL shares (about 2% of capital) issued to WPL minorities, and WPL stands dissolved
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The Scheme's schedule of assets and liabilities of the Demerged Undertaking vested in CCPPL, per the Notice and Explanatory Statement dated October 30, 2025
-- *In their words:* “Bring about synergy of operations and economies of scale and additionally the legal and regulatory compliances of both the listed entities will be unified and streamlined;”
-
-### Why the demerger — three years of calls and the scheme
-
-Strictly read, Cello World is not spinning a business out to the market — the only "separation" is an intra-group demerger embedded inside a consolidation: under the Composite Scheme of Arrangement, the Manufacturing Business (the "Demerged Undertaking") of 55%-owned listed subsidiary Wim Plast Limited (WPL — plastic moulded furniture, extrusion sheets, air coolers, dustbins, industrial pallets, industrial/engineering moulds, plus an investment business) is demerged and vested on a going-concern basis into Cello Consumer Products Private Limited (CCPPL), a wholly owned CWL subsidiary incorporated 21 August 2024 expressly "to carry on the manufacturing business," while WPL's Remaining Business is amalgamated into Cello World Limited and WPL "stands dissolved without winding up." Management's stated reasons, given first on the Nov 2024 call, were two: they "do not see any point in running 2 separate listed entities as the business is not very different," and WPL's plants in several parts of the country can be shared with Cello's other plastic product lines; they added that it "reduces our compliance," that Cello World already owned about 55% so only ~45% was being acquired, and that furniture manufacturing is "very, very similar to our other plastic manufactured products." The Scheme filing lists three benefits: synergy of operations and economies of scale with legal and regulatory compliances of both listed entities "unified and streamlined"; "Consolidation of ownership interests in one listed company instead of two listed entities"; and a unified approach to customer engagement, distribution and supply chain management. A related capital cleanup sits alongside it — WPL had lent CWL about Rs 100 crore at ~8%, which was repaid out of the Rs 738 crore July-2024 QIP, so the inter-company loan disappears on merger. The push came from management, repeatedly prompted by analysts and retail investors (Jay Doshi/Kotak in Aug 2024, Aniket Kulkarni/BMSPL and Deepesh Sancheti in Nov 2024, Ashok Shah in Aug 2025, who challenged whether the 0.86 swap was fair to Wim Plast's minority holders — Atul Parolia: "So it will be beneficial to all actually"); no lender or partner demand is mentioned anywhere, and SEBI/BSE/NSE and the NCLT appear only as approvers. Notably, management explicitly rejected the opposite idea — demerging Cello's three verticals (plastics, pens, glassware) into separate listings — saying they are all consumer-focused and "otherwise, we would have not merged this back into Cello World," leaving the door open only "if we say tomorrow, glassware becomes too big."
-
-**How it evolved:** It surfaced as an aspiration on the Aug 14, 2024 call, where the Wim Plast merger was named as a QIP objective and Gaurav Rathod said management would like the two merged "once it is decided by both the boards." By the Nov 13, 2024 call the boards had acted (Scheme and KPMG share-entitlement report both dated Nov 12, 2024) and the two rationales, the 55%/45% ownership point, the 0.86 swap and the repayment of Wim Plast's Rs 100 crore loan were all explained; the same call also saw management refuse the broader three-vertical demerger idea. Through Aug 13, 2025 it became a process update ("we needed some permissions from SEBI"), and on Feb 16, 2026 Atul Parolia dated the final NCLT hearing to the last week of February with appointed date 1 April 2025 and completion in Q1 FY27 — while Gaurav simultaneously declined to merge the operating subsidiaries because that "dilutes the P&L of each and every unit." By the May 29, 2026 call it was done: scheme effective 27 May 2026, comparatives restated, and "the synergies between consumerware and moulded furniture can be explored further."
-
-**What management expects from it:** Cello World: one listed entity instead of two, unified compliance, synergy and economies of scale, shared Wim Plast moulding plants, unified customer/distribution/supply-chain approach, ownership consolidated (55% held, ~45% acquired), the Rs 100 crore inter-company loan gone, and consumerware–moulded-furniture synergies now explorable. The demerged manufacturing unit keeps its own P&L inside CCPPL. No margin or valuation targets quantified.
-
-**Point by point, with the source:**
-
-- *Aug 2024* — First surfaced as a QIP objective and a management preference, not yet a board decision, when Jay Doshi of Kotak asked for timelines on the Wim Plast consolidation. “we would like both of them to be merged and once it is decided by both the boards, I think we'll be able to go ahead on that as well.”
-- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Asked directly by Deepesh Sancheti for the rationale of demerging Wim Plast and merging it into Cello, Gaurav Rathod gave two reasons: no point in two listed entities, and Wim Plast's multi-location plastic manufacturing plants can be shared with Cello's other plastic lines. “we do not see any point in running 2 separate listed entities as the business is not very different.”
-- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Second rationale spelled out: Wim Plast's manufacturing footprint across the country becomes usable for Cello's other plastic product lines. “Secondly, there is a lot of manufacturing facilities that WimPlast has, so in different parts of the country wherein we can share manufacturing facilities with our other plastic product lines.”
-- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — To Aniket Kulkarni, management added compliance reduction and framed the deal as small in ownership terms — Cello World already held ~55%, so only ~45% was being acquired. “Already because Cello World owns about 55% of the company in any case. So it's only about 45% that is being acquired.”
-- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Management rejected the reverse idea of demerging the three verticals (plastics, pens, glassware) into separate listed entities, saying they are all consumer-focused and synergistic — only a very large glassware business might change that. “So I think, of course, it depends on the growth potential of all these verticals because at the end of the day, when I talk about glassware, steel or plastic, they're still a consumer-focused category.”
-- *[Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)* — Capital-structure effect: Wim Plast's ~8% loan to Cello World was already repaid from QIP proceeds, so the merger removes the inter-company lending relationship. “So already we've repaid that INR100 crores loan to WimPlast.”
-- *[Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a18f5f35-d53b-419d-8f9c-1c166ffda34d.pdf)* — Process and fairness: Gaurav called the swap uncomplicated and dependent on SEBI permissions; Atul confirmed the 0.86 swap ratio was already with the exchanges, and answered Ashok Shah's objection that it disadvantaged Wim Plast's ~40-45% minority holders. “So it will be beneficial to all actually.”
-- *[Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed77a542-fbbd-418e-8d9f-d5f3c07eedeb.pdf)* — Atul Parolia dated the final NCLT hearing to the last week of February 2026, with the appointed date fixed at 1 April 2025 and completion expected within 2-3 months (Q1 FY27). “I mean already, as you know, appointed date is 1st April 2025.”
-- *[Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed77a542-fbbd-418e-8d9f-d5f3c07eedeb.pdf)* — Asked by Aniruddha (ICICI Securities) whether all subsidiaries should likewise be merged for capital flow, single billing and lower costs, management declined — the multi-subsidiary structure preserves unit-level P&L accountability, which also explains why the demerged manufacturing goes into CCPPL rather than into CWL itself. “So overall, while things can get easier, it also kind of dilutes the P&L of each and every unit and focus on unit economics kind of goes away.”
-- *[Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42de0942-a266-4ad3-80e5-708476185d0f.pdf)* — Completion announced, with the forward-looking benefit framed as consumerware–moulded furniture synergies; moulded furniture had just declined 13.5% YoY to Rs 91.5 crore in Q4 and 5.0% to Rs 349.0 crore for FY26. “We have completed the merger of Wimplast Limited with Cello World.”
-- *Scheme* — The Scheme's first stated benefit: operational synergy and economies of scale, plus unification of the compliance burden of two separate listed companies. “Bring about synergy of operations and economies of scale and additionally the legal and regulatory compliances of both the listed entities will be unified and streamlined”
-- *Scheme* — Second stated benefit — collapsing two listed vehicles into one — which is the core purpose the intra-group demerger serves. “Consolidation of ownership interests in one listed company instead of two listed entities”
-
-*Not explained on the calls:* Calls never explained why manufacturing was routed into CCPPL, gave no demerged-undertaking financials, no basis for the 55:31 ratio, no tax/stamp rationale, no quantified synergy.
-
-*Calls read (36 months):* [Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42de0942-a266-4ad3-80e5-708476185d0f.pdf), [Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c77bdd03-cfc6-4d5e-b8b4-dceed9acc301.pdf)
-
-### The parent, last three fiscal years (consolidated)
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 2,000 | 2,136 | 2,324 |
-| Sales growth (%) | +11.3% | +6.8% | +8.8% |
-| Operating profit (₹ cr) | 509 | 510 | 471 |
-| Operating profit growth (%) | +20.9% | +0.2% | -7.6% |
-| Operating margin (%) | 25.4 | 23.9 | 20.3 |
-| PAT (₹ cr) | 356 | 365 | 332 |
-| PAT growth (%) | +24.9% | +2.5% | -9.0% |
-| PAT margin (%) | 17.8 | 17.1 | 14.3 |
-| EPS (₹) | 15.6 | 16.5 | 15.0 |
-
-*Source: ProfitStatement/NiftyTotalMarket/CELLO.csv (consolidated, screener.in); growth and margins computed here.*
-
-```mermaid
-xychart-beta
-    title "Sales, operating profit and PAT (₹ cr)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "₹ crore"
-    bar [2000, 2136, 2324]
-    bar [509, 510, 471]
-    bar [356, 365, 332]
-```
-*Series in order: Sales, Operating profit, PAT.*
-
-```mermaid
-xychart-beta
-    title "Margins (%)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "%"
-    line [25.4, 23.9, 20.3]
-    line [17.8, 17.1, 14.3]
-```
-*Series in order: Operating margin, PAT margin.*
-
-**P/E:** 21.5 — close 2026-10-01 ÷ EPS 15.01 (Mar 2026) (price ₹323.10 as of 2026-10-01).
-
-**Cash flows (₹ cr):**
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Cash from operations (₹ cr) | 231 | 262 | 255 |
-| Cash from investing (₹ cr) | -256 | -553 | -176 |
-| Cash from financing (₹ cr) | 26.0 | 311 | -5.0 |
-| Net cash flow (₹ cr) | 2.0 | 20.0 | 75.0 |
-| Free cash flow (₹ cr) | -22.0 | 98.0 | 37.0 |
-
-*Source: CashFlow/NiftyTotalMarket/CELLO.csv (consolidated, screener.in).*
-
-### The business being separated — its own numbers
-
-The segment pages read (3 annual report(s) and 12 presentation(s) on file) do not carry this business's own revenue or profit: All WPL/Demerged Undertaking standalone figures. Pages give only consolidated Cello World results (one segment, 'Consumer Products'), restated to include WPL from FY25; scheme effective 27 May 2026, appointed date 1 April 2025.
-
-*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ae8aa36e-3c4a-4385-8830-e5fa73b36c3e.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/6a3e08d5-587d-4eea-b071-f08e07d9e60e.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/1dda2d36-084f-4cc0-8e49-3a96765355a2.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fafc0fbc-ec18-4782-98e2-966e7f43bc10.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a2aafae6-e724-4d2d-80c3-136b93ced33a.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c3d0e64-9b0a-4f4d-ae22-1eea21065cd0.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e533968b-115f-417d-ad0e-f62fd6c89c77.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1c2bc2a-1be9-464c-a2f2-2176237bbf88.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fd9681ad-7dde-4f0a-adeb-dedb4d4c67a0.pdf)
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 5.1% of ebitda |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 378 days since the first filing, stage meetings |
-| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…t for the maintenance capex. Going ahead for financial year FY27, we expect to do a capex of around INR100 crores. Lastly, Iwould like to inform that composite scheme of arrangement among Wimplast, Cello Consumer Produc” |
-
-**On the calls (last 12 months):**
-
-- *Jun 2026* (forward) — “…t for the maintenance capex. Going ahead for financial year FY27, we expect to do a capex of around INR100 crores. Lastly, Iwould like to inform that composite scheme of arrangement among Wimplast, Cello Consumer Products Limited and the company has become cffective from 27th May 2026, with an appointed date of 1st April 2025 as defined un…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-11-03 | Shareholders meeting | Cello World Limited has informed the Exchange regarding Notice of undefined to be held on December 06, 2025 | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_03112025223754_Intimationncltmeeting.pdf) |
-| 2025-12-09 | Shareholders meeting | Cello World Limited has informed the Exchange regarding Proceedings of Court Convened General Meeting held on December 06, 2025. Further, the company has submit | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_09122025180409_OutcomeofNCLT.pdf) |
-| 2025-12-09 | Shareholders meeting | Voting results | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_09122025181239_Votingresults.pdf) |
-| 2026-02-14 | Outcome of Board Meeting | Cello World Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_14022026192744_Boardmeetingoutcomecwl.pdf) |
-| 2026-05-15 | Scheme of Arrangement | Cello World Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_15052026192852_CWL_Upload_Signed.pdf) |
-| 2026-05-27 | Amalgamation/Merger | Cello World Limited has informed the Exchange about Amalgamation/Merger | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_27052026225115_BMOutcome.pdf) |
-| 2026-05-27 | Board Meeting (purpose) | Board Meeting Intimation CELLO WORLD LIMITED has informed the Exchange about Board Meeting to be held on 27-May-2026 to consider and approve the Yearly Audited  | [pdf](https://nsearchives.nseindia.in/corporate/xbrl/PIBM_544012_225202621228_PRIOR_INTIMATION_WebXMLFile_20260522_212210419.xml) |
-| 2026-05-28 | Press Release | Cello World Limited has informed the Exchange regarding a press release dated May 28, 2026, titled "Press Release". | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_28052026120431_Pressreleaseintimation.pdf) |
-| 2026-06-01 | Earnings call Jun 2026 | …t for the maintenance capex. Going ahead for financial year FY27, we expect to do a capex of around INR100 crores. Lastly, Iwould like to inform that composite | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42de0942-a266-4ad3-80e5-708476185d0f.pdf) |
-| 2026-09-17 | Updates | Cello World Limited has informed the Exchange regarding 'Report From The Audit And Independent Directors Committee Pursuant To Composite Scheme Of Amalgamation' | [pdf](https://nsearchives.nseindia.com/corporate/CELLO2023_17092026195120_Intimation_signed.pdf) |
-| 2026-09-17 | Report From The Audit And Independent Di | Audit Committee and Independent Directors certify compensation to Wim Plast shareholders for fractional entitlements under the amalgamation scheme. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/607666d2-08f9-46bf-8d83-987cc2c7c2c1.pdf) |
 
 </details>
 
@@ -8351,145 +8055,6 @@ xychart-beta
 | 2026-05-07 | General Updates | IIFL Capital Services Limited has informed the Exchange about Public Announcement for Open Offer | [pdf](https://nsearchives.nseindia.com/corporate/IIFLSEC_07052026225340_PublicAnnouncementsigned.pdf) |
 | 2026-09-11 | Outcome of Board Meeting | IIFL Capital Services Limited has informed the Exchange regarding Outcome of Board Meeting held on September 11, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/IIFLSEC_11092026192326_BMOutcome.pdf) |
 | 2026-09-11 | General Updates | IIFL Capital Services Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/IIFLSEC_11092026192550_BMOutcome.pdf) |
-
-</details>
-
-## MEESHO — Meesho Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.3/10 · spin-off · 4 filing(s) from NSE · first 2025-12-10, latest 2026-01-30
-
-> **Listing:** NOT YET — scheme at 'meetings' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
-
-**The stages, as filed:** meetings (2026-01-13)
-
-**Stated in the filings:** entitlement **2509 for every 1**.
-
-**What is being separated, as the documents put it:** Grocery and e-commerce (marketplace) undertakings carved out to wholly owned subsidiaries; parent retained Valmo logistics — class `regulatory_strategic`.
-
-- *Insiders:* Promoters/Founders Vidit Aatrey and Sanjeev Kumar; proposed Article 122 keeps their board seats while they hold 3% or 75,62,14,937 shares; both direct MPPL; ESOP 2024 options vest/exercise (44,605,655 shares allotted Q1FY27)
-- *What it reveals:* Demerger consideration marks MTPL at Rs 258,623.89mn and MGPL at Rs 7,313.55mn against net assets of only Rs 1,147.24mn, booking a Rs 264,790.20mn "Gain on demerger"; parent's retained Valmo logistics earned Rs 3,537.70mn standalone profit while consolidated stayed loss-making
-- *Selling pressure:* unlikely — No shares went to public shareholders; MTPL/MGPL remain 100% subsidiaries. The 47.2509-for-1 ratio was a bonus issue, not a demerger entitlement
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The Composite Scheme of Arrangement and NCLT order of May 27, 2025, plus the CCPS fair-value basis for MTPL
-- *In their words:* “As a consideration of the demerger, MTPL and MGPL issued equity shares and Compulsorily convertible preference shares ('CCPS') to the Company.”
-
-### Why the demerger — three years of calls and the scheme
-
-The separation is a Composite Scheme of Arrangement under Sections 230-232, approved by the boards of Meesho Limited, Meesho Grocery Private Limited (MGPL), Meesho Technologies Private Limited (MTPL) and Meesho Inc. (the erstwhile US holding company), filed with NCLT Bengaluru on April 25, 2024, sanctioned by NCLT on May 27, 2025 and given effect from June 1, 2025: the Grocery undertaking went to MGPL, the Marketplace (e-commerce) undertaking went to MTPL, and Meesho Inc. was amalgamated into Meesho Limited by pooling-of-interests, i.e. the US-to-India 'reverse flip' that made an Indian listing possible — the IPO followed on December 10, 2025 (fresh issue Rs 42,500 million plus Rs 11,712.04 million offer for sale at Rs 111/share). Mechanically, net assets of only Rs 1,147.24 million (MTPL Rs 586.83m, MGPL Rs 560.41m) moved out against consideration of Rs 265,937.44 million in equity and CCPS (MTPL Rs 258,623.89m, MGPL Rs 7,313.55m), producing an exceptional 'gain on demerger' of Rs 264,790.20 million in the standalone accounts, plus Rs 7,607.24 million of interest income on the CCPS — with no consolidated effect, and the flip itself cost real cash: Rs 24,868.42 million of 'tax payable on account of business combination' (GILTI, business combination and passive income) in FY25 and a further Rs 698.26 million in FY26, Rs 7,338.16 million of perquisite tax, Rs 4,824.80 million of incremental ESOP charge on plan modification, Rs 620.55 million of accelerated vesting charge and Rs 1,410.91 million of business-combination expenses. The effect is that the listed parent kept only the Valmo logistics channel, and from June 1, 2025 'generated revenue from providing logistics services through its delivery channel - Valmo - exclusively to MTPL', while the marketplace, grocery, payments (MPPL, a Lending Service Provider) and new initiatives sit in separate wholly owned subsidiaries, and IPO proceeds are pushed down by rights issue (Rs 28,900 million into MTPL on December 10, 2025; Rs 75 crore into MGPL in July/August 2026; Rs 100 crore in May 2026 and up to Rs 400 crore in October/November 2026 into MPPL). A second, narrower separation followed: the board on March 31, 2026 approved an internal reorganisation moving functions, employees and contracts into Valmo Transportation Private Limited (VTPL, incorporated January 28, 2026), stated reasons being 'to enhance administrative efficiency, enable functional specialization, and allow more focused management of the logistics business' — with mid-mile and last-mile in VTPL (which holds a Goods and Transport Agency licence under GST), while first-mile and sort-centre operations stay in Meesho Limited and the parent now bills sellers directly. Management's own framing on the calls is transparency and tax/GST classification rather than value unlocking: Dhiresh Bansal said in January 2026 the logistics subsidiary was set up 'primarily to explore how should we kind of structure the Valmo financials, so that they are more clearly visible for people to understand. There is no plan of opening this up to other third parties', and in July 2026 that consolidated numbers do not change materially, only standalone flows between Meesho Limited, MTPL and VTPL. The problems the structure is said to solve are therefore: an offshore holdco incompatible with an Indian IPO, a logistics business whose economics (a fulfilment spread management keeps at roughly 2%-2.5% of NMV, with 145 bps of one-time FY26 disruption cost and contribution margin recovering from 2.3% in Q3 FY26 to a ~4% Q4 exit) were invisible inside a blended marketplace P&L, a grocery/perishables supply chain Vidit Aatrey says needs 'a fundamentally different logistics network' from Valmo's national network, and loss-making adjacencies (new initiatives capped at about Rs 200 crore annual EBITDA burn; Rs 39 crore loss in Q1 FY27) ring-fenced from the core. No investor, lender or partner is named as having demanded the separation; a proxy advisory firm did question the VTPL/GTA model to SEBI, and management replied it had law-firm and accounting opinions, that no tax or regulatory authority had queried it, and that it had received no communication from SEBI.
-
-**How it evolved:** The Scheme predates the calls (NCLT filing April 25, 2024; order May 27, 2025; effective June 1, 2025) and surfaced publicly only in the first post-listing call on January 30, 2026 (Feb 2026 transcript), where Sachin Salgaonkar asked about 'a new subsidiary on logistics' and Dhiresh Bansal said it existed to structure Valmo's financials for visibility, with no intent to open the network to third parties. By the March 31, 2026 board meeting the plan had hardened into an executed internal reorganisation into VTPL, which the May 6, 2026 call never addressed — that call instead split economics into ads margin versus fulfilment margin and talked about restoring the fulfilment spread after the 145 bps one-time hit. On the July 23, 2026 call the structure was explained in operating detail for the first time: VTPL houses mid-mile and last-mile under a GTA licence, first-mile and sort centres stay in Meesho Limited, VTPL's annual financials will not be a clean read of Valmo volumes, and a proxy advisory firm's GST question had gone to SEBI. Separation then continued by filing rather than by call — Kirana Club/Retail Pulse Labs bought for Rs 2,020.85 million (SPA June 12, 2026) and a new wholly owned lending subsidiary approved on October 28, 2026.
-
-**What management expects from it:** Clearer, separately visible Valmo logistics financials; administrative efficiency, functional specialisation and focused management of logistics; an India-domiciled listed parent able to IPO and push IPO cash into each subsidiary; ring-fenced grocery, payments and new-initiative losses under a ~Rs 200 crore cap; fulfilment spread held at 2%-2.5% of NMV with margin growth from ads; in-house lending capturing full margins.
-
-**Point by point, with the source:**
-
-- *Scheme* — The Composite Scheme has three legs: grocery to MGPL, marketplace to MTPL, and amalgamation of the US holding company Meesho Inc. into Meesho Limited — the reverse flip that enabled the Indian IPO. “a) transfer of Grocery business of the Company to MGPL; b) transfer of Marketplace business of the Company to MTPL; and c) amalgamation by way of transfer of assets and liabilities of the Transferor Company with the Company.”
-- *Scheme* — Net assets of only Rs 1,147.24 million left the parent against Rs 265,937.44 million of equity and CCPS consideration, creating a Rs 264,790.20 million exceptional standalone gain with no consolidated effect. “The surplus/deficit which had arisen after taking effect of consideration over the carrying value of net assets of MTPL and MGPL was recognised as an "exceptional item" in the standalone financial results for the quarter ended June 30, 2025 and the year ended March 31, 2026 respectively.”
-- *Scheme* — Post-demerger the listed parent is effectively the Valmo logistics entity, selling delivery services exclusively to the marketplace subsidiary MTPL. “Consequently, from June 01, 2025, the Company generated revenue from providing logistics services through its delivery channel -Valmo -exclusively to MTPL.”
-- *Scheme* — The March 31, 2026 board approved a second, logistics-only reorganisation into VTPL for administrative efficiency, functional specialisation and focused management; it makes standalone Q1 FY27 non-comparable. “Pursuant to this reorganization, the Company and its subsidiaries (collectively, the "Group") are reorganising the logistics business across different Group entities to enhance administrative efficiency, enable functional specialization, and allow more focused management of the logistics business.”
-- *Scheme* — The flip carried a large cash tax and compensation cost: Rs 24,868.42 million of business-combination tax in FY25 plus Rs 698.26 million in FY26, Rs 7,338.16 million perquisite tax, and Rs 5,445.35 million of ESOP modification/acceleration charges. “During the year ended March 31, 2025, the Company had provided for taxes towards Global Intangible Low-Taxed Income, business combination and passive income collectively referred to as "Tax payable on account of business combination" arising on account of the aforesaid business combination.”
-- *Scheme* — IPO money is routed down into the separated entities by rights issue — Rs 28,900 million into MTPL on listing day, Rs 75 crore into MGPL, Rs 100 crore then up to Rs 400 crore into MPPL. “This investment is a part of utilization of the proceeds as specified in Prospectus dated December 05, 2025.”
-- *Scheme* — Grocery sits in MGPL as a local-logistics-for-essentials entity, still sub-scale and loss-making: FY26 turnover Rs 112.10 lakhs against a net loss of Rs 6,899.30 lakhs. “Line of Business: Local logistics network for daily essentials and groceries.”
-- *Scheme* — A further new wholly owned subsidiary was approved on October 28, 2026 to move lending in-house and capture the full margin instead of acting only as a Lending Service Provider through MPPL. “The incorporation of Wholly Owned Subsidiary will enable the group to build in-house underwriting, control product design, directly own borrower relationships, and capture full lending margins while gaining access to institutional funding.”
-- *[Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bab657a9-3907-420f-86fb-7070154a073e.pdf)* — Management's stated reason for the logistics subsidiary was investor visibility into Valmo's financials, explicitly not opening the network to third-party shippers. “I think we are setting up that subsidiary primarily to explore how should we kind of structure the Valmo financials, so that they are more clearly visible for people to understand.”
-- *[Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bab657a9-3907-420f-86fb-7070154a073e.pdf)* — Logistics is run as a separate economic unit with a deliberately capped spread, with all further efficiency passed back, so margin growth must come from ads and other services. “we keep the logistics margin in a certain trajectory, which is about 2% - 2.5% of NMB from a contribution perspective.”
-- *[Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bab657a9-3907-420f-86fb-7070154a073e.pdf)* — By contrast, Meesho Mall was explicitly kept inside the marketplace rather than carved out, so the separation lines are entity/function-based, not product-based. “So, Meesho Mall is part of the core marketplace , all of the numbers are captured within the marketplace financials.”
-- *[Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bab657a9-3907-420f-86fb-7070154a073e.pdf)* — The asset-light philosophy explains why logistics can be housed in a thin aggregator entity: investment goes into technology, not warehouses or fleet capex. “So, even today in Valmo, the entire software stack end -to-end is our own.”
-
-*Not explained on the calls:* No valuation basis for the Rs 265,937m CCPS consideration, no Valmo standalone P&L or disclosure timetable, no GST-saving quantum, no value-unlock or future listing rationale.
-
-### The parent, last three fiscal years (consolidated)
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 7,615 | 9,390 | 12,626 |
-| Sales growth (%) | +32.8% | +23.3% | +34.5% |
-| Operating profit (₹ cr) | -494 | -578 | -1,485 |
-| Operating profit growth (%) | +72.5% | -17.0% | -156.9% |
-| Operating margin (%) | -6.5 | -6.2 | -11.8 |
-| PAT (₹ cr) | -328 | -3,942 | -1,358 |
-| PAT growth (%) | +80.4% | -1101.8% | +65.6% |
-| PAT margin (%) | -4.3 | -42.0 | -10.8 |
-| EPS (₹) | -41.8 | -453 | -3.0 |
-
-*Source: ProfitStatement/NiftyTotalMarket/MEESHO.csv (consolidated, screener.in); growth and margins computed here.*
-
-```mermaid
-xychart-beta
-    title "Sales, operating profit and PAT (₹ cr)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "₹ crore"
-    bar [7615, 9390, 12626]
-    bar [-494, -578, -1485]
-    bar [-328, -3942, -1358]
-```
-*Series in order: Sales, Operating profit, PAT.*
-
-```mermaid
-xychart-beta
-    title "Margins (%)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "%"
-    line [-6.5, -6.2, -11.8]
-    line [-4.3, -42, -10.8]
-```
-*Series in order: Operating margin, PAT margin.*
-
-**P/E:** — — EPS -2.97 for Mar 2026 is not positive (price ₹218.69 as of 2026-10-01).
-
-**Cash flows (₹ cr):**
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Cash from operations (₹ cr) | 220 | 539 | -3,875 |
-| Cash from investing (₹ cr) | -165 | -2,638 | 247 |
-| Cash from financing (₹ cr) | -11.0 | 2,105 | 4,101 |
-| Net cash flow (₹ cr) | 44.0 | 7.0 | 473 |
-| Free cash flow (₹ cr) | 186 | 516 | -3,976 |
-
-*Source: CashFlow/NiftyTotalMarket/MEESHO.csv (consolidated, screener.in).*
-
-### The business being separated — its own numbers
-
-**Marketplace (the E-Commerce Undertaking demerged into Meesho Technologies Private Limited, 'MTPL')** · unit ₹ million for the fiscal-year segment tables; ₹ crore for the Q1 FY27 quarterly figures (as each document reports) · Revenue = 'Segment revenue - Marketplace' per Ind AS 108; the Group states it has no inter-segment revenue, so segment revenue is external. Operating profit = 'Segment results - Marketplace', which the company defines as Adjusted EBITDA - Marketplace (before other income, finance costs, depreciation & amortisation, employee share-based payment expense and exceptional items). No segment-level PAT/tax is disclosed, so pat is null for all years. Quarterly line is Revenue from Operations (marketplace) and Adjusted EBITDA - Marketplace in ₹ crore.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ million for the fiscal-year segment tables; ₹ crore for the Q1 FY27 quarterly figures (as each document reports)) | — | 93,859 | 126,142 |
-| Revenue growth (%) | — | — | +34.4% |
-| Operating profit (₹ million for the fiscal-year segment tables; ₹ crore for the Q1 FY27 quarterly figures (as each document reports)) | — | -1,167 | -11,778 |
-| Operating profit growth (%) | — | — | -909.6% |
-| Operating margin (%) | — | -1.2 | -9.3 |
-| PAT (₹ million for the fiscal-year segment tables; ₹ crore for the Q1 FY27 quarterly figures (as each document reports)) | — | — | — |
-| PAT growth (%) | — | — | — |
-
-*Sources:* not disclosed on the provided pages (segment disclosures cover FY2025 and FY2026 only); Annual Report 2026 — page 113
-
-*Latest quarter (Q1 FY27):* revenue 3707, operating profit -138.9 — Presentation Jul 2026 — page 6 (revenue ₹3,707 Cr); page 10 (Adjusted EBITDA - Marketplace ₹(138.9) Cr)
-
-*Not in the pages read:* FY2024 segment figures; segment-level PAT/tax for any year; separate Grocery/MGPL own revenue, EBITDA or PAT (grocery sits inside 'New Initiatives').
-
-*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/62b7c812-b3a9-468c-8593-4334d3555815.pdf); [Presentation Jul 2026](https://static-assets.meesho.com/investor-relations/1784806298911/Q1ShareholdersLetter.pdf)
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …pproved at any time to or for the benefit of the eligible em ployees under the ESOP 2024 Plan, and to grant the ESOPs to the eligible employees on such terms and conditions as provided i… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 63 cr (Mar 2026) = 0.00× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 341 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-12-10 | General Updates | Meesho Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_10122025175342_MLSEIntimationRightissue.pdf) |
-| 2026-01-13 | Shareholders meeting | Meesho Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_13012026002617_MeeshoLimitedPostalballot13Jan2026.pdf) |
-| 2026-01-30 | Outcome of Board Meeting | Meesho Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_30012026173517_MLOutcomeofBM30Jan2026.pdf) |
-| 2026-01-30 | Outcome of Board Meeting | Meesho Limited has informed the Exchange regarding the Outcome of the Board Meeting held on January 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_30012026174011_MLOutcomeofBM30Jan2026.pdf) |
 
 </details>
 

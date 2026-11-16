@@ -7,8 +7,8 @@
 | Demergers in NSE's register (universe) | 18 |
 | …captured by the skill as demergers | 18 |
 | …MISSED | 0 |
-| Confirmed demergers in the skill | 41 |
-| …verified by a register record date | 23 |
+| Confirmed demergers in the skill | 39 |
+| …verified by a register record date | 21 |
 | …pending (no record date yet, not verifiable) | 18 |
 | …FALSE POSITIVES | 0 |
 
@@ -17,7 +17,7 @@
 | Parent | Record date(s) | Purpose | Skill kind | Confidence | Stage | Resulting company read | Resulting company listed (NSE equity list) | Verdict |
 |---|---|---|---|---|---|---|---|---|
 | **ABFRL** | 2025-05-22 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue | confirmed | record_date | Aditya Birla Lifestyle Brands Limited | ABLBL (2025-06-23), CPPLUS (2025-08-05) | captured |
-| **CCAVENUE** | 2024-09-11 | Demerger | demerger/merger/rights_issue/slump_sale | confirmed | record_date | Odigma Consultancy Solutions Limited |  | captured |
+| **CCAVENUE** | 2024-09-11 | Demerger | demerger/merger/rights_issue/slump_sale | other | — |  |  | captured (mature — completed more than two years before the run) |
 | **DBREALTY** | 2025-07-18 | DEMERGER; Demerger | demerger/merger/preferential_issue/slump_sale | confirmed | record_date | Advent Hotels International Private Limi |  | captured |
 | **HEGAM** | 2026-09-07 | DEMERGER; Demerger | capital_reduction/demerger/merger/preferential_issue/slump_sale | confirmed | record_date | HEG Graphite Limited |  | captured |
 | **HINDUNILVR** | 2025-12-05 | DEMERGER; Demerger | capital_reduction/demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | listed |  |  | captured |
@@ -26,7 +26,7 @@
 | **ITC** | 2025-01-06 | DEMERGER; Demerger | capital_reduction/demerger/merger/rights_issue/slump_sale | confirmed | record_date | ITC Hotels Limited | ITCHOTELS (2025-01-29) | captured |
 | **QUESS** | 2025-04-15 | DEMERGER; Demerger | demerger/merger/slump_sale | confirmed | record_date | Digitide Solutions Limited | DIGITIDE (2025-06-11) | captured |
 | **RAYMOND** | 2024-07-11; 2025-05-14 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue | confirmed | record_date | Raymond Lifestyle Limited | RAYMONDLSL (2024-09-05), RAYMONDREL (2025-07-01) | captured |
-| **SANOFI** | 2024-06-13 | DEMERGER; Demerger | demerger/preferential_issue/rights_issue | confirmed | record_date | Sanofi Consumer Healthcare India Limited |  | captured |
+| **SANOFI** | 2024-06-13 | DEMERGER; Demerger | demerger/preferential_issue/rights_issue | other | — |  |  | captured (mature — completed more than two years before the run) |
 | **SIEMENS** | 2025-04-07 | DEMERGER; Demerger | capital_reduction/demerger/merger/slump_sale | confirmed | record_date | Siemens Energy India Limited | ENRIN (2025-06-19) | captured |
 | **SKFINDIA** | 2025-10-15 | DEMERGER; Demerger | demerger/merger/preferential_issue | confirmed | listed |  | SKFINDUS (2025-12-05) | captured |
 | **STAR** | 2024-12-06 | DEMERGER; Demerger | demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | listed | OneSource Specialty Pharma Limited | ONESOURCE (2025-01-24) | captured |
@@ -44,7 +44,6 @@
 | **ANANTRAJ** | announced |  |  | Data centre and cloud services business of ARL and ARCPL, vested in Ashok Cloud  | pending — not yet verifiable (no record date yet) |
 | **APOLLOHOSP** | nclt_sanction |  |  | The Identified Business Undertaking — Apollo's omnichannel pharmacy and digital  | pending — not yet verifiable (no record date yet) |
 | **ASTRAMICRO** | meetings |  |  | Astra Microwave's Space, Meteorology and Hydrology business, hived off as a sepa | pending — not yet verifiable (no record date yet) |
-| **CCAVENUE** | record_date | 2024-09-11 | 2024-09-11 | The Platform Business Undertaking — e-commerce platform software and infrastruct | verified by the register |
 | **DBREALTY** | record_date | 2025-07-18 | 2025-07-18 | The hospitality / hotel business — owned luxury and upper-upscale hotels — demer | verified by the register |
 | **HEGAM** | record_date | 2026-09-07 | 2026-09-07 | Graphite Undertaking — graphite electrodes business, overseas investment and TAW | verified by the register |
 | **HINDUNILVR** | listed | 2026-02-13 | 2025-12-05 | HUL's Ice Cream Business Undertaking, demerged into Kwality Wall's (India) Limit | verified by the register |
@@ -65,7 +64,6 @@
 | **RAYMOND** | record_date | 2025-05-14 | 2024-07-11; 2025-05-14 | The lifestyle business — branded textiles, branded apparel, garmenting, shirting | verified by the register |
 | **REFEX** | nclt_sanction |  |  | Green Mobility Business Undertaking of Refex Industries — technology-integrated  | pending — not yet verifiable (no record date yet) |
 | **RELIGARE** | exchange_noc |  |  | REL's financial services business — lending, broking, investment activities and  | pending — not yet verifiable (no record date yet) |
-| **SANOFI** | record_date | 2024-06-13 | 2024-06-13 | The Consumer Healthcare business (Demerged Undertaking) of Sanofi India, transfe | verified by the register |
 | **SCI** | announced |  |  | 192 non-core land and property assets of SCI transferred to a separate land-hold | pending — not yet verifiable (no record date yet) |
 | **SIEMENS** | record_date | 2025-04-07 | 2025-04-07 | The Energy business of Siemens Limited, demerged on a going concern basis to Sie | verified by the register |
 | **SKFINDIA** | listed | 2025-10-17 | 2025-10-15 | SKF India's Industrial business — bearings, seals, mechatronics, lubrication for | verified by the register |

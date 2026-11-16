@@ -1,6 +1,6 @@
 check,company,listed_on,purpose,record_dates,register_dates,resulting_company_listed,resulting_company_read,skill_confidence,skill_kind,skill_stage,symbol,verdict,what_is_spun
 recall,Aditya Birla Fas & Rt Ltd,,DEMERGER; Demerger,2025-05-22,,"ABLBL (2025-06-23), CPPLUS (2025-08-05)",Aditya Birla Lifestyle Brands Limited,confirmed,demerger/merger/preferential_issue/rights_issue,record_date,ABFRL,captured,
-recall,AvenuesAI Limited,,Demerger,2024-09-11,,,Odigma Consultancy Solutions Limited,confirmed,demerger/merger/rights_issue/slump_sale,record_date,CCAVENUE,captured,
+recall,AvenuesAI Limited,,Demerger,2024-09-11,,,,other,demerger/merger/rights_issue/slump_sale,—,CCAVENUE,captured (mature — completed more than two years before the run),
 recall,Valor Estate Limited,,DEMERGER; Demerger,2025-07-18,,,Advent Hotels International Private Limited,confirmed,demerger/merger/preferential_issue/slump_sale,record_date,DBREALTY,captured,
 recall,HEG Ltd,,DEMERGER; Demerger,2026-09-07,,,HEG Graphite Limited,confirmed,capital_reduction/demerger/merger/preferential_issue/slump_sale,record_date,HEGAM,captured,
 recall,Hindustan Unilever Ltd,,DEMERGER; Demerger,2025-12-05,,,,confirmed,capital_reduction/demerger/merger/preferential_issue/rights_issue/slump_sale,listed,HINDUNILVR,captured,
@@ -9,7 +9,7 @@ recall,Inox Green Energy Ser Ltd,,DEMERGER; Demerger,2026-08-01,,,Inox Renewable
 recall,ITC LTD,,DEMERGER; Demerger,2025-01-06,,ITCHOTELS (2025-01-29),ITC Hotels Limited,confirmed,capital_reduction/demerger/merger/rights_issue/slump_sale,record_date,ITC,captured,
 recall,Quess Corp Limited,,DEMERGER; Demerger,2025-04-15,,DIGITIDE (2025-06-11),Digitide Solutions Limited,confirmed,demerger/merger/slump_sale,record_date,QUESS,captured,
 recall,RAYMOND-depo,,DEMERGER; Demerger,2024-07-11; 2025-05-14,,"RAYMONDLSL (2024-09-05), RAYMONDREL (2025-07-01)",Raymond Lifestyle Limited,confirmed,demerger/merger/preferential_issue/rights_issue,record_date,RAYMOND,captured,
-recall,Aventis Pharma Limited,,DEMERGER; Demerger,2024-06-13,,,Sanofi Consumer Healthcare India Limited,confirmed,demerger/preferential_issue/rights_issue,record_date,SANOFI,captured,
+recall,Aventis Pharma Limited,,DEMERGER; Demerger,2024-06-13,,,,other,demerger/preferential_issue/rights_issue,—,SANOFI,captured (mature — completed more than two years before the run),
 recall,SIEMENS LTD - DEPO SETT.,,DEMERGER; Demerger,2025-04-07,,ENRIN (2025-06-19),Siemens Energy India Limited,confirmed,capital_reduction/demerger/merger/slump_sale,record_date,SIEMENS,captured,
 recall,SKF India Limited,,DEMERGER; Demerger,2025-10-15,,SKFINDUS (2025-12-05),,confirmed,demerger/merger/preferential_issue,listed,SKFINDIA,captured,
 recall,Strides Pharma ScienceLtd,,DEMERGER; Demerger,2024-12-06,,ONESOURCE (2025-01-24),OneSource Specialty Pharma Limited,confirmed,demerger/merger/preferential_issue/rights_issue/slump_sale,listed,STAR,captured,
@@ -22,7 +22,6 @@ precision,Aditya Birla Lifestyle Brands Ltd.,2025-06-23,,,,,,,,listed,ABLBL,veri
 precision,Anant Raj Ltd.,,,,,,,,,announced,ANANTRAJ,pending — not yet verifiable (no record date yet),"Data centre and cloud services business of ARL and ARCPL, vested in Ashok Cloud Private Limited"
 precision,Apollo Hospitals Enterprise Ltd.,,,,,,,,,nclt_sanction,APOLLOHOSP,pending — not yet verifiable (no record date yet),The Identified Business Undertaking — Apollo's omnichannel pharmacy and digital health business — de
 precision,Astra Microwave Products Ltd.,,,,,,,,,meetings,ASTRAMICRO,pending — not yet verifiable (no record date yet),"Astra Microwave's Space, Meteorology and Hydrology business, hived off as a separate listed entity"
-precision,AvenuesAI Ltd.,2024-09-11,,,2024-09-11,,,,,record_date,CCAVENUE,verified by the register,The Platform Business Undertaking — e-commerce platform software and infrastructure for large enterp
 precision,VALOR ESTATE Ltd.,2025-07-18,,,2025-07-18,,,,,record_date,DBREALTY,verified by the register,The hospitality / hotel business — owned luxury and upper-upscale hotels — demerged into Advent Hote
 precision,HEG Advanced Materials Ltd.,2026-09-07,,,2026-09-07,,,,,record_date,HEGAM,verified by the register,"Graphite Undertaking — graphite electrodes business, overseas investment and TAWA power plant assets"
 precision,Hindustan Unilever Ltd.,2026-02-13,,,2025-12-05,,,,,listed,HINDUNILVR,verified by the register,"HUL's Ice Cream Business Undertaking, demerged into Kwality Wall's (India) Limited on a going-concer"
@@ -43,7 +42,6 @@ precision,Quess Corp Ltd.,2025-04-15,,,2025-04-15,,,,,record_date,QUESS,verified
 precision,Raymond Ltd.,2025-05-14,,,2024-07-11; 2025-05-14,,,,,record_date,RAYMOND,verified by the register,"The lifestyle business — branded textiles, branded apparel, garmenting, shirting — into Raymond Life"
 precision,Refex Industries Ltd.,,,,,,,,,nclt_sanction,REFEX,pending — not yet verifiable (no record date yet),Green Mobility Business Undertaking of Refex Industries — technology-integrated clean-fuel passenger
 precision,Religare Enterprises Ltd.,,,,,,,,,exchange_noc,RELIGARE,pending — not yet verifiable (no record date yet),"REL's financial services business — lending, broking, investment activities and ancillary support se"
-precision,Sanofi India Ltd.,2024-06-13,,,2024-06-13,,,,,record_date,SANOFI,verified by the register,"The Consumer Healthcare business (Demerged Undertaking) of Sanofi India, transferred into wholly own"
 precision,Shipping Corporation of India Ltd.,,,,,,,,,announced,SCI,pending — not yet verifiable (no record date yet),192 non-core land and property assets of SCI transferred to a separate land-holding company
 precision,Siemens Ltd.,2025-04-07,,,2025-04-07,,,,,record_date,SIEMENS,verified by the register,"The Energy business of Siemens Limited, demerged on a going concern basis to Siemens Energy India Li"
 precision,SKF India Ltd.,2025-10-17,,,2025-10-15,,,,,listed,SKFINDIA,verified by the register,"SKF India's Industrial business — bearings, seals, mechatronics, lubrication for railways, defence, "

@@ -71743,25 +71743,6 @@
  },
  "CANBK": {
   "stamps": {
-   "9ac6e962fb16ce350da5562f17a1dc09": {
-    "what_is_spun": "A 14.50% stake in Canara HSBC Life Insurance Company Ltd, the Bank's life-insurance subsidiary, via IPO listing",
-    "demerged_business_names": [
-     "Canara HSBC Life Insurance Company Ltd",
-     "M/s Canara HSBC Life Insurance Company Ltd",
-     "Canara HSBC Insurance Company"
-    ],
-    "reason": "Not stated in the filing; on calls management framed subsidiary disinvestment as improving the value of the Bank's investments and as support for CET-1 capital",
-    "reason_class": "value_unlocking",
-    "insiders": "Canara Bank dilutes only 14.50% and stays majority owner; promoter/management stake or incentives in the listed entity are not stated",
-    "hidden_value": "An IPO price would mark the insurance subsidiary to market inside a bank already at 16.57% CRAR and 12.05% CET-1; MD says focus is 'improving our value of the investment', with Canara Robeco also queued and Can Fin Homes (29.9%) held for a four-digit price",
-    "selling_pressure": "unlikely",
-    "selling_pressure_why": "A fresh IPO/stake sale, not a demerger distributing shares to existing holders; no index exclusion or forced sellers stated",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "08.05.2024 call: 'one may come to the listing in the last quarter of this financial year. The other one may come in the first quarter of the next financial year'; 29.10.2024: 'As on date it is scheduled in the 4th Quarter'; 27.01.2025: 'we are expecting that both the companies we may come for the IPOs in the next financial year', 'not in this quarter... that will be in the next financial year'",
-    "read_next": "RBI and DFS approval plus the DRHP/issue size and modalities, which the filing says are 'decided in due course'",
-    "quote": "Canara Bank has accorded approval for initiating the process of diluting 14.50% stake of the Bank in its subsidiary M/s Canara HSBC Life Insurance Company Ltd by listing the Company in Stock Exchanges (BSE/NSE) through Initial Public Offer (IPO)."
-   },
    "62a7fe6631eb3b88e289754f5c6dcd41": {
     "what_is_spun": "Minority stakes in two Canara Bank subsidiaries \u2014 Canara HSBC Life Insurance and Canara Robeco Asset Management \u2014 sold via IPO",
     "demerged_business_names": [
@@ -71821,6 +71802,26 @@
     "listing_timeline": "\"Canara Robeco Asset Management Company Limited got listed today (16.10.2025)\" (filing 16.10.2025); \"Canara HSBC Life Insurance Company Limited got listed today (17.10.2025)\" (filing 17.10.2025)",
     "read_next": "Q3 FY26 P&L line carrying the Rs 1,930 crore one-time listing gain, and the two subsidiaries' own published results",
     "quote": "In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara Robeco Asset Management Company Limited, Subsidiary through Initial Public Offer from 51% to 38%."
+   },
+   "8393c81457bc3fb0ea95cd6770287d51": {
+    "what_is_spun": "Minority stakes in two subsidiaries \u2014 Canara HSBC Life Insurance and Canara Robeco Asset Management \u2014 listed via IPO",
+    "demerged_business_names": [
+     "Canara HSBC Life Insurance Company Limited",
+     "Canara HSBC Life",
+     "Canara Robeco Asset Management Company Limited",
+     "Canara Robeco"
+    ],
+    "reason": "No reason stated in the filings, which only record approval to dilute 14.50% stake by listing; on calls management framed it as 'unlocking the benefit' and enhancing subsidiary value.",
+    "reason_class": "value_unlocking",
+    "insiders": "Canara Bank, the promoter, retains 36.50% of Canara HSBC Life and 38% of Canara Robeco; keeps arm's-length boards, earns agency commission as distributor, absorbed ~Rs.80 crore IPO charges; 'further dilution we don't foresee'.",
+    "hidden_value": "Two high-value businesses sat inside the bank: the 14.5% and 13% dilutions alone yielded Rs.1,930-2,006 crore of listing gains, with ~Rs.320 crore subsidiary profit to parent, ~Rs.500 crore cross-sell income, and stakes management says have appreciated.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "IPO/offer-for-sale to new investors, not a demerger distribution to parent shareholders; both listed on NSE and BSE, shares appreciated.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "Canara Robeco 'got listed today (16.10.2025)' per filing dated 16.10.2025; Canara HSBC Life 'got listed today (17.10.2025)' per filing dated 17.10.2025; earlier filings record UDRHP SEBI approvals on 29.09.2025 and 02.10.2025.",
+    "read_next": "Canara HSBC Life and Canara Robeco standalone results versus Canara Bank's retained 36.50%/38% carrying value.",
+    "quote": "In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.50%."
    }
   }
  },

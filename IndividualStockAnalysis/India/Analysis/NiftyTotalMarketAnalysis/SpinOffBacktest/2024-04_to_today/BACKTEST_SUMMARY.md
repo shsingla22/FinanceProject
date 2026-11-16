@@ -9,12 +9,12 @@
 | Universe demergers with a record date in the window (NSE register) | 18 |
 | …captured by the skill as confirmed / probable demergers | 18 |
 | …MISSED (absent, or held as merger / other) | 0 |
-| Confirmed demergers in the skill as of 2026-11-16 | 41 |
-| …verified by a register record date or the company's own listing | 23 |
+| Confirmed demergers in the skill as of 2026-11-16 | 39 |
+| …verified by a register record date or the company's own listing | 21 |
 | …verified by a record date that came AFTER 2026-11-16 (the register up to today) | 0 |
 | …pending (no record date to date) | 18 |
 | …FALSE POSITIVES | 0 |
-| Probable demergers | 35 |
+| Probable demergers | 34 |
 | Indicated demergers | 13 |
 | Situations in all | 2182 |
 
@@ -23,7 +23,7 @@
 | Parent | Record date(s) | Skill kind | Confidence | Stage as of the run | Resulting company listed | Verdict |
 |---|---|---|---|---|---|---|
 | **ABFRL** | 2025-05-22 | demerger/merger/preferential_issue/rights_issue | confirmed | record_date | ABLBL (2025-06-23), CPPLUS (2025-08-05) | captured |
-| **CCAVENUE** | 2024-09-11 | demerger/merger/rights_issue/slump_sale | confirmed | record_date |  | captured |
+| **CCAVENUE** | 2024-09-11 | demerger/merger/rights_issue/slump_sale | other | — |  | captured (mature — completed more than two years before the run) |
 | **DBREALTY** | 2025-07-18 | demerger/merger/preferential_issue/slump_sale | confirmed | record_date |  | captured |
 | **HEGAM** | 2026-09-07 | capital_reduction/demerger/merger/preferential_issue/slump_sale | confirmed | record_date |  | captured |
 | **HINDUNILVR** | 2025-12-05 | capital_reduction/demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | listed |  | captured |
@@ -32,7 +32,7 @@
 | **ITC** | 2025-01-06 | capital_reduction/demerger/merger/rights_issue/slump_sale | confirmed | record_date | ITCHOTELS (2025-01-29) | captured |
 | **QUESS** | 2025-04-15 | demerger/merger/slump_sale | confirmed | record_date | DIGITIDE (2025-06-11) | captured |
 | **RAYMOND** | 2024-07-11; 2025-05-14 | demerger/merger/preferential_issue/rights_issue | confirmed | record_date | RAYMONDLSL (2024-09-05), RAYMONDREL (2025-07-01) | captured |
-| **SANOFI** | 2024-06-13 | demerger/preferential_issue/rights_issue | confirmed | record_date |  | captured |
+| **SANOFI** | 2024-06-13 | demerger/preferential_issue/rights_issue | other | — |  | captured (mature — completed more than two years before the run) |
 | **SIEMENS** | 2025-04-07 | capital_reduction/demerger/merger/slump_sale | confirmed | record_date | ENRIN (2025-06-19) | captured |
 | **SKFINDIA** | 2025-10-15 | demerger/merger/preferential_issue | confirmed | listed | SKFINDUS (2025-12-05) | captured |
 | **STAR** | 2024-12-06 | demerger/merger/preferential_issue/rights_issue/slump_sale | confirmed | listed | ONESOURCE (2025-01-24) | captured |
@@ -82,10 +82,8 @@
 | **LLOYDSENT** | exchange_noc | NOT YET (exchange_noc); timeline stated | pending — not yet verifiable (no record date yet) |
 | **M&M** | effective | RECORD DATE set; listing pending | pending — not yet verifiable (no record date yet) |
 | **MAHSEAMLES** | announced | NOT YET (announced); timeline stated | pending — not yet verifiable (no record date yet) |
-| **CCAVENUE** | record_date | LISTED since ~2024-09-11 | verified by the register |
 | **TEXRAIL** | effective | RECORD DATE set; listing pending | pending — not yet verifiable (no record date yet) |
 | **NYKAA** | nclt_sanction | NOT YET (nclt_sanction) | pending — not yet verifiable (no record date yet) |
-| **SANOFI** | record_date | LISTED since ~2024-06-13 | verified by the register |
 
 ## Misses, with what the skill held
 

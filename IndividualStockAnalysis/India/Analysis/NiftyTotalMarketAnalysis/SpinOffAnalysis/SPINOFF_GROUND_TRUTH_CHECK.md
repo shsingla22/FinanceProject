@@ -7,9 +7,9 @@
 | Demergers in NSE's register (universe) | 8 |
 | …captured by the skill as demergers | 8 |
 | …MISSED | 0 |
-| Confirmed demergers in the skill | 34 |
+| Confirmed demergers in the skill | 32 |
 | …verified by a register record date | 19 |
-| …pending (no record date yet, not verifiable) | 15 |
+| …pending (no record date yet, not verifiable) | 13 |
 | …FALSE POSITIVES | 0 |
 
 ## Recall — every register demerger, and what the skill holds
@@ -31,11 +31,9 @@
 |---|---|---|---|---|---|
 | **ABFRL** | record_date | 2025-05-22 | 2025-05-22 | Madura Fashion & Lifestyle Business, demerged from ABFRL into wholly owned subsi | verified by the register |
 | **ABLBL** | listed | 2025-06-23 |  | Madura Fashion and Lifestyle ('MFL') branded apparel business demerged from Adit | verified by NSE's equity list — this company is the listed resulting company (listed 2025-06-23) |
-| **ADANIENT** | effective |  |  | Adani Tradecom Limited amalgamated into Adani New Industries Limited (new energy | pending — not yet verifiable (no record date yet) |
 | **ANANTRAJ** | announced |  |  | The Data Centre and Cloud Services business of ARL and ARCPL, vested in Ashok Cl | pending — not yet verifiable (no record date yet) |
 | **APOLLOHOSP** | nclt_sanction |  |  | Apollo's omnichannel pharmacy and digital health business, demerged into a separ | pending — not yet verifiable (no record date yet) |
 | **ASTRAMICRO** | meetings |  |  | Space, Meteorology and Hydrology Business of Astra Microwave, hived off into who | pending — not yet verifiable (no record date yet) |
-| **CELLO** | meetings |  |  | Wim Plast's Manufacturing Business demerged into Cello Consumer Products Private | pending — not yet verifiable (no record date yet) |
 | **DBREALTY** | record_date | 2025-07-18 | 2025-07-18 | The hospitality (hotel ownership) business of Valor Estate, demerged into Advent | verified by the register |
 | **HEGAM** | record_date | 2026-09-07 | 2026-09-07 | The Graphite Undertaking — graphite electrodes business plus overseas investment | verified by the register |
 | **HINDUNILVR** | listed | 2026-02-13 | 2025-12-05 | HUL's Ice Cream Business Undertaking, demerged on a going-concern basis into Kwa | verified by the register |

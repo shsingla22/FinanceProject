@@ -1,6 +1,6 @@
 # Spin-offs and demergers — NiftyTotalMarket
 
-*Run 2026-11-16 · filings window 2024-04-01 → 2026-11-15 · 9944 restructuring filings across 682 companies · 41 confirmed demergers, 145 probable, 18 indicated, 825 rights / preferential offerings, 1153 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
+*Run 2026-11-16 · filings window 2024-04-01 → 2026-11-15 · 9944 restructuring filings across 682 companies · 39 confirmed demergers, 141 probable, 18 indicated, 825 rights / preferential offerings, 1159 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
 
 **The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: the new stock is sold by holders who never chose it for about a year, the parent is often the better buy before the split, insiders tell you what they think through the stock and options they take in the new entity, and a pro-forma statement plus the peer P/E prices what the market is ignoring. This report puts the CONFIRMED demergers first — a demerger scheme on the exchange record — each with when the new entity lists, why management is doing it (three years of calls, with the transcript each point came from), the parent's last three years with charts, P/E and cash flows, and the separated business's own numbers from the annual reports and presentations, page-cited. Probable and indicated cases follow, then every other restructuring on file.
 
@@ -45,10 +45,8 @@
 | **LLOYDSENT** | The Real Estate Business Undertaking of Lloyds Enterprises Limited, de… | exchange_noc | NOT YET (exchange_noc); timeline stated | 4.2 | PRE-SPIN |
 | **M&M** | The last-mile mobility vehicle business (Jeeto volumes), moved to sepa… | effective | RECORD DATE set; listing pending | 4.2 | SPINNING |
 | **MAHSEAMLES** | MSL Seamless Tubes Limited | announced | NOT YET (announced); timeline stated | 4.2 | PRE-SPIN |
-| **CCAVENUE** | Odigma Consultancy Solutions Limited | record_date | LISTED since ~2024-09-11 | 3.3 | MATURE |
 | **TEXRAIL** | Belgharia Engineering Udyog Private Limited | effective | RECORD DATE set; listing pending | 3.3 | SPINNING |
 | **NYKAA** | The e-B2B beauty distribution business (Superstore by Nykaa) moved fro… | nclt_sanction | NOT YET (nclt_sanction) | 2.5 | PRE-SPIN |
-| **SANOFI** | Sanofi Consumer Healthcare India Limited | record_date | LISTED since ~2024-06-13 | 1.7 | MATURE |
 
 ## Probable and indicated
 
@@ -74,7 +72,6 @@ Demergers first, then subsidiary listings, then schemes whose nature the documen
 | **TATATECH** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 3.6 | [2025-10-17 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/TTLNSE_17102025154703_BMOutcomeQ2_F.pdf) · **de-merger** · [text line 386](../../../../Announcements/NiftyTotalMarket/text/TATATECH_106411207.txt#L386) · “clearances, which are in progress and expected to be completed by December 31, 2025, 8 Tata Motors ltd, the Holding Campany of Tata Technologies ltd, had in August 2024, submitted a composite scheme of arrangement for de-merger of its commercial and passenger ”<br>[2026-01-16 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TTLNSE_16012026161427_BMOutcomeQ3_SS_.pdf) · **demerger** · [text line 188](../../../../Announcements/NiftyTotalMarket/text/TATATECH_106499110.txt#L188) · “nown as Tata Motors Passenger Vehicles Limited) ("TML"), the Holding Company of Tata Technologies Ltd, at its Board of Directors meeting held on August 1, 2024, approved a Composite Scheme of Arrangement involving the demerger of its Commercial Vehicle ("CV") ” |
 | **CREDITACC** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 3.3 | [2024-07-19 Code of Conduct under SEBI(P](https://nsearchives.nseindia.in/corporate/CREDITACC_19072024172610_CAGL_COC_PIT_19072024.pdf) · **de-mergers** · [text line 203](../../../../Announcements/NiftyTotalMarket/text/CREDITACC_105919809.txt#L203) · “mergers, de-mergers, acquisitions, de-listings, disposals and expansion of business and such other transactions; and v” |
 | **HCLTECH** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 3.3 | [2026-01-12 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HCLTECH_12012026170902_FinancialResults.pdf) · **carve-out** · [text line 321](../../../../Announcements/NiftyTotalMarket/text/HCLTECH_106494809.txt#L321) · “4 Acquisition of Teko Solutions Business from Hewlett Packard Enterprise (HPE): On 18 December 2025, the Group has signed a definitive agreement to carve-out and acquire Telco Solutions Business from HPE for 'r 1,438 crores ($160 million), including 'r 135 cro”<br>[2026-01-12 Record Date](https://nsearchives.nseindia.com/corporate/HCLTECH_12012026172342_FinancialResults.pdf) · **carve-out** · [text line 321](../../../../Announcements/NiftyTotalMarket/text/HCLTECH_106494833.txt#L321) · “4 Acquisition of Teko Solutions Business from Hewlett Packard Enterprise (HPE): On 18 December 2025, the Group has signed a definitive agreement to carve-out and acquire Telco Solutions Business from HPE for 'r 1,438 crores ($160 million), including 'r 135 cro” |
-| **MEESHO** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings) | 3.3 | [2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MEESHO_30012026173517_MLOutcomeofBM30Jan2026.pdf) · **demerger** · [text line 639](../../../../Announcements/NiftyTotalMarket/text/MEESHO_106513471.txt#L639) · “As a consideration of the demerger, MTPL and MGPL issued equity shares and Compulsorily convertible preference shares ('CCPS') to the Company”<br>[2026-01-30 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/MEESHO_30012026174011_MLOutcomeofBM30Jan2026.pdf) · **demerger** · [text line 639](../../../../Announcements/NiftyTotalMarket/text/MEESHO_106513488.txt#L639) · “As a consideration of the demerger, MTPL and MGPL issued equity shares and Compulsorily convertible preference shares ('CCPS') to the Company”<br>[2026-01-13 Shareholders meeting](https://nsearchives.nseindia.com/corporate/MEESHO_13012026002617_MeeshoLimitedPostalballot13Jan2026.pdf) · **Shareholders meeting** · headline · “Meesho Limited has informed the Exchange regarding Notice of Postal Ballot”<br>+1 more documents |
 | **DATAMATICS** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.9 | 2025-11 call · **carve out** · DATAMATICS.pdf page 117 · “ha Stock Broking . Bharat Gulati: I just want to clarify that what would our revenue from our AI products be for this quarter? Ankush Akar: We don't separately carve out and share the information about the AI product sp”<br>[2024-12-09 Acquisition](https://nsearchives.nseindia.in/corporate/DATAMATICS_09122024152827_Reg30intimation.pdf) · **Demerged** · [text line 98](../../../../Announcements/NiftyTotalMarket/text/DATAMATICS_106080434.txt#L98) · “The Regional Director at Chennai vide its order dated 12th December 2023, approved scheme of arrangement between TNQ Technologies Pvt Ltd (Demerged Company) and TNQ Tech Pvt Ltd (Resulting Company) with appointed date effective from 1st October 2023” |
 | **BEML** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.5 | [2024-05-12 Financial Result Updates](https://nsearchives.nseindia.in/corporate/BSENSEFINALFS_12052024172315.pdf) · **demerger** · [text line 109](../../../../Announcements/NiftyTotalMarket/text/BEML_161652.txt#L109) · “15 13 15 13 (iii) Other financial assets 89 88 89 88 (f) Deferred tax assets (net) 11,348 10,828 11,348 10,828 (c) Non-Current Assets held for demerger - - 4,248 4,266 (g) Other non-current assets” |
 | **BRITANNIA** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.5 | [2025-07-07 General Updates](https://nsearchives.nseindia.in/corporate/BRITANNIA1_07072025230914_Intimation_signed.pdf) · **carve out** · [text line 105](../../../../Announcements/NiftyTotalMarket/text/BRITANNIA_106292314.txt#L105) · “specified fund defined under clause (c) of the Explanation to section 10(4D), subject to carve outs)”<br>[2024-07-09 Updates](https://nsearchives.nseindia.in/corporate/BRITANNIA_09072024233843_Intimation_signedf.pdf) · **carve out** · [text line 96](../../../../Announcements/NiftyTotalMarket/text/BRITANNIA_105909106.txt#L96) · “specified fund defined under clause (c) of the Explanation to section 10(4D), subject to carve outs)” |
@@ -193,7 +190,6 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | **ASHOKLEY** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 5.8 | [2026-11-05 Acquisition](https://nsearchives.nseindia.com/corporate/ASHOKLEYLAND_05112026180822_44ALupdatesonHLFL.pdf) · **Scheme of Arrangement** · [text line 57](../../../../Announcements/NiftyTotalMarket/text/ASHOKLEY_106848106.txt#L57) · “Yours faithfully, for ASHOK LEYLAND LIMITED N Ramanathan Company Secretary Annexure-A - Acquisition of Subsidiary due to Scheme of Arrangement S”<br>[2026-11-05 Other Restructuring](https://nsearchives.nseindia.com/corporate/ASHOKLEYLAND_05112026180926_44ALupdatesonHLFL.pdf) · **Scheme of Arrangement** · [text line 57](../../../../Announcements/NiftyTotalMarket/text/ASHOKLEY_106848107.txt#L57) · “Yours faithfully, for ASHOK LEYLAND LIMITED N Ramanathan Company Secretary Annexure-A - Acquisition of Subsidiary due to Scheme of Arrangement S”<br>[2026-05-20 General Updates](https://nsearchives.nseindia.com/corporate/ASHOKLEYLAND_20052026191822_6ALupdatesonHLFLIntimation.pdf) · **Scheme of Arrangement** · [text line 60](../../../../Announcements/NiftyTotalMarket/text/ASHOKLEY_106632258.txt#L60) · “Sub: Scheme of Merger by Absorption of Hinduia Leyland Finance Limited into NDL Ventyres Limited We refer to your application for Scheme of Arrangement to merge and consolidate the businesses of Hinduja Leyland Finance Limited ("Transferor Companyl HLFL") into” |
 | **ENRIN** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced); timeline stated | 5.7 | [2026-02-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ENRIN_13022026135723_BMOutcome13022026.pdf) · **Scheme of Arrangement** · [text line 142](../../../../Announcements/NiftyTotalMarket/text/ENRIN_106533626.txt#L142) · “We draw attention to Note 1 to the Statement regarding the Scheme of Arrangement (the "Scheme") between the Company, Siemens Limited and their respective shareholders and creditors, for transfer of the Energy business from Siemens Limited to the Company, as ap”<br>[2026-02-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ENRIN_13022026140225_BMOutcome13022026.pdf) · **Scheme of Arrangement** · [text line 142](../../../../Announcements/NiftyTotalMarket/text/ENRIN_106533648.txt#L142) · “We draw attention to Note 1 to the Statement regarding the Scheme of Arrangement (the "Scheme") between the Company, Siemens Limited and their respective shareholders and creditors, for transfer of the Energy business from Siemens Limited to the Company, as ap”<br>[2025-11-24 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ENRIN_24112025191957_BMOutcome24112025signed.pdf) · **Scheme of Arrangement** · [text line 150](../../../../Announcements/NiftyTotalMarket/text/ENRIN_106453345.txt#L150) · “We draw attention to Note 1 to the Statement regarding the Scheme of Arrangement (the "Scheme") between the Company, Siemens Limited and their respective shareholders and creditors, for transfer of the Energy business from Siemens Limited to the Company, as ap”<br>+5 more documents |
 | **GRASIM** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 5.0 | [2025-12-29 General Updates](https://nsearchives.nseindia.com/corporate/GRASIM_29122025190712_SEIntimation.pdf) · **Composite Scheme** · [text line 22](../../../../Announcements/NiftyTotalMarket/text/GRASIM_106481591.txt#L22) · “31 (M.P.) Ref No.: GIL/CFD/SEC/26/1 50/SE BSE Limited Scrip Code: 500300 29th December 2025 National Stock Exchange of India Limited Symbol: GRASIM Dear Sirs /Madam , Sub: Composite Scheme of Arrangement amongst Aditya Birla Renewables Limited , Essel Mining &” |
-| **PERSISTENT** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 5.0 | [2026-08-02 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_02082026144059_PSLBMOutcomeJune302026093signed.pdf) · **Composite Scheme** · [text line 247](../../../../Announcements/NiftyTotalMarket/text/PERSISTENT_106721243.txt#L247) · “The Board of Directors of the Company at its meeting held on April 24, 2025 had approved the Composite Scheme of Arrangement (the 'Scheme') for merger of Persistent Systems Limited, parent company and Arrka Infosec Private Limited, wholly owned subsidiary of t”<br>[2025-06-26 General Updates](https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_26062025193537_PersistentSystemsIntimationofExecutionoftheBTAsigned.pdf) · **Scheme of Arrangement** · [text line 104](../../../../Announcements/NiftyTotalMarket/text/PERSISTENT_106281112.txt#L104) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations”<br>[2024-04-13 Updates](https://nsearchives.nseindia.in/corporate/PERSISTENT_13042024201347_PersistentSystemsIntimationofExecutionoftheBTAsigned.pdf) · **Scheme of Arrangement** · [text line 106](../../../../Announcements/NiftyTotalMarket/text/PERSISTENT_105814881.txt#L106) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations” |
 | **PIIND** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 5.0 | [2024-08-20 Acquisition](https://nsearchives.nseindia.in/corporate/PIIND_20082024175257_PI_Intimation_PHC_Acquisition_20Aug.pdf) · **scheme of arrangement** · [text line 102](../../../../Announcements/NiftyTotalMarket/text/PIIND_105959869.txt#L102) · “being formed (“Subsidiary ”) of PI Industries Limited (“ Company ”), in terms of which the Subs idiary would acquire the entire issued (and to be issued) share capital of the Target by means of a court - sanctioned scheme of arrangement (“ Scheme ”) under the ”<br>[2024-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/PIIND_06082024183553_Outcome.pdf) · **scheme of arrangement** · [text line 292](../../../../Announcements/NiftyTotalMarket/text/PIIND_105941778.txt#L292) · “This acquisition will be made through its newly incorporated wholly owned subsidiary, "Pl Industries Management Consultancies L.L.C.", Dubai and is subject to a court sanctioned scheme of arrangement under the applicable law, which is expected to be completed ”<br>[2024-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/PIIND_06082024183813_Outcome.pdf) · **scheme of arrangement** · [text line 292](../../../../Announcements/NiftyTotalMarket/text/PIIND_105941782.txt#L292) · “This acquisition will be made through its newly incorporated wholly owned subsidiary, "Pl Industries Management Consultancies L.L.C.", Dubai and is subject to a court sanctioned scheme of arrangement under the applicable law, which is expected to be completed ”<br>+2 more documents |
 | **UNITDSPR** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 5.0 | [2026-03-24 General Updates](https://nsearchives.nseindia.com/corporate/MCDOWELL_24032026215744_USL24032026.pdf) · **Scheme of Arrangement** · [text line 200](../../../../Announcements/NiftyTotalMarket/text/UNITDSPR_106566255.txt#L200) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations”<br>[2026-03-24 Agreements](https://nsearchives.nseindia.com/corporate/MCDOWELL_24032026220027_USL24032026.pdf) · **Scheme of Arrangement** · [text line 200](../../../../Announcements/NiftyTotalMarket/text/UNITDSPR_106566258.txt#L200) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations”<br>[2026-03-24 Press Release](https://nsearchives.nseindia.com/corporate/MCDOWELL_24032026220303_USL24032026.pdf) · **Scheme of Arrangement** · [text line 200](../../../../Announcements/NiftyTotalMarket/text/UNITDSPR_106566259.txt#L200) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations” |
 | **DALBHARAT** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction) | 4.3 | [2026-01-16 Sale or disposal](https://nsearchives.nseindia.com/corporate/DALBHARAT_16012026224455_SEintimationStakeSaleO216012026.pdf) · **Scheme of Arrangement** · [text line 104](../../../../Announcements/NiftyTotalMarket/text/DALBHARAT_106499621.txt#L104) · “Disposal of stake in OREV is not covered by any Scheme of Arrangement”<br>[2025-03-13 Updates](https://nsearchives.nseindia.in/corporate/DALBHARAT_13032025094521_SE_Intimation_Demerger_Order_Update_13032025_signed.pdf) · **Scheme of Arrangement** · [text line 18](../../../../Announcements/NiftyTotalMarket/text/DALBHARAT_106171822.txt#L18) · “omplex, Bandra (E), Mumbai–4000051 Symbol: DALBHARAT Subject: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“Listing Regulations”) Re: Approval of Scheme of Arrangement between Vinay Cement Limi” |
@@ -207,7 +203,6 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | **CUMMINSIND** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2025-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CUMMINSIND_07022025092712_signedFinalSEIntimationCSSPLFeb072025.pdf) · **Scheme of Arrangement** · [text line 140](../../../../Announcements/NiftyTotalMarket/text/CUMMINSIND_106141061.txt#L140) · “21, Balewadi Pune 411 045 Maharashtra, India Phone +91 20 67067000 Fax +91 20 67067015 cumminsindia.com cil.investors@cummins.com CIN : L29112PN1962PLC012276 Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Re”<br>[2025-02-07 Sale or disposal](https://nsearchives.nseindia.in/corporate/CUMMINSIND_07022025093156_signedFinalSEIntimationCSSPLFeb072025.pdf) · **Scheme of Arrangement** · [text line 140](../../../../Announcements/NiftyTotalMarket/text/CUMMINSIND_106141062.txt#L140) · “21, Balewadi Pune 411 045 Maharashtra, India Phone +91 20 67067000 Fax +91 20 67067015 cumminsindia.com cil.investors@cummins.com CIN : L29112PN1962PLC012276 Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Re” |
 | **ENDURANCE** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2026-06-24 Sale or disposal](https://nsearchives.nseindia.com/corporate/ENDURANCE_24062026123936_2026_06_24_-_Intimation_of_Sale_of_Veicoli__signed_.pdf) · **Scheme of Arrangement** · [text line 109](../../../../Announcements/NiftyTotalMarket/text/ENDURANCE_106672213.txt#L109) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? Yes” |
 | **ERIS** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2024-08-02 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/ERIS_02082024143625_finalOutcomesignedd.pdf) · **Composite scheme** · [text line 40](../../../../Announcements/NiftyTotalMarket/text/ERIS_105936575.txt#L40) · “The details of said acquisition are enclosed herewith. Composite scheme of arrangement u/s 230 to 232 read with section 66 and other applicable provisions of the Companies Act, 2013, amongst Eris Lifesciences Limited and Eris Oaknet Healthcare Private Limited”<br>[2024-08-02 Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/ERIS_02082024144303_finalOutcomesignedd.pdf) · **Composite scheme** · [text line 40](../../../../Announcements/NiftyTotalMarket/text/ERIS_105936592.txt#L40) · “The details of said acquisition are enclosed herewith. Composite scheme of arrangement u/s 230 to 232 read with section 66 and other applicable provisions of the Companies Act, 2013, amongst Eris Lifesciences Limited and Eris Oaknet Healthcare Private Limited”<br>[2024-08-02 Acquisition](https://nsearchives.nseindia.in/corporate/ERIS_02082024145205_finalOutcomesignedd.pdf) · **Composite scheme** · [text line 40](../../../../Announcements/NiftyTotalMarket/text/ERIS_105936607.txt#L40) · “The details of said acquisition are enclosed herewith. Composite scheme of arrangement u/s 230 to 232 read with section 66 and other applicable provisions of the Companies Act, 2013, amongst Eris Lifesciences Limited and Eris Oaknet Healthcare Private Limited”<br>+1 more documents |
-| **GESHIP** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2025-12-22 General Updates](https://nsearchives.nseindia.com/corporate/GESHIP_22122025161121_GOSLliquidation.pdf) · **Scheme of Arrangement** · [text line 51](../../../../Announcements/NiftyTotalMarket/text/GESHIP_106473920.txt#L51) · “le f) Whether the transaction would fall within related party transactions? If yes, whether the same is done at “arm’s length” Not Applicable g) Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the sam”<br>[2025-04-30 General Updates](https://nsearchives.nseindia.in/corporate/GESHIP_30042025173908_GOSLliquidation.pdf) · **Scheme of Arrangement** · [text line 70](../../../../Announcements/NiftyTotalMarket/text/GESHIP_106216766.txt#L70) · “f) Whether the transaction would fall within related party transactions? If yes, whether the same is done at “arm’s length” Not Applicable g) Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same i”<br>[2025-03-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/GESHIP_07032025113243_bmoutcome.pdf) · **Scheme of Arrangement** · [text line 73](../../../../Announcements/NiftyTotalMarket/text/GESHIP_106167765.txt#L73) · “e f) Whether the transaction would fall within related party transactions? If yes, whether the same is done at “arm’s length” Not Applicable g) Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same” |
 | **GODREJIND** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2026-01-28 Acquisition](https://nsearchives.nseindia.com/corporate/Anupama_28012026211930_BSENSEINTIMATIONJANUARY282026Final.pdf) · **Scheme of Arrangement** · [text line 303](../../../../Announcements/NiftyTotalMarket/text/GODREJIND_106510346.txt#L303) · “sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations The transaction is not in accordance with any Scheme of Arrangement”<br>[2026-01-28 Diversification/Disinvestmen](https://nsearchives.nseindia.com/corporate/Anupama_28012026211941_BSENSEINTIMATIONJANUARY282026Final.pdf) · **Scheme of Arrangement** · [text line 303](../../../../Announcements/NiftyTotalMarket/text/GODREJIND_106510347.txt#L303) · “sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations The transaction is not in accordance with any Scheme of Arrangement”<br>[2025-08-13 General Updates](https://nsearchives.nseindia.in/corporate/Anupama_13082025135912_BSENSEBMOUTCOME13082025OTHERMATTERS.pdf) · **Scheme of Arrangement** · [text line 324](../../../../Announcements/NiftyTotalMarket/text/GODREJIND_106338727.txt#L324) · “lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations The Proposed transaction is not accordance with any Scheme of Arrangement” |
 | **INDHOTEL** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2026-08-24 Amalgamation/Merger](https://nsearchives.nseindia.com/corporate/bakhtawar_irani_tajhotels_com_24082026085942_Reg_30_IHCL_FINAL.pdf) · **Scheme of Arrangement** · [text line 32](../../../../Announcements/NiftyTotalMarket/text/INDHOTEL_106753714.txt#L32) · “August 24, 2026, approved the Scheme of Arrangement between Oriental Hote ls Limited ( ‘OHL ’ or ‘Transferor Company ’), the Company and their respective shareholders , under the provisions of Sections 230 to 232 of the Companies Act, 2013 and other applicable”<br>[2025-12-30 Sale or disposal](https://nsearchives.nseindia.com/corporate/INDHOTEL_30122025193939_Sale_of_Shares_IHCL_disclosure_1__Revised__v2.pdf) · **Scheme of Arrangement** · [text line 98](../../../../Announcements/NiftyTotalMarket/text/INDHOTEL_106483067.txt#L98) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations”<br>[2025-12-30 Rescission/termination(s)](https://nsearchives.nseindia.com/corporate/INDHOTEL_30122025194137_Sale_of_Shares_IHCL_disclosure_1__Revised__v2.pdf) · **Scheme of Arrangement** · [text line 98](../../../../Announcements/NiftyTotalMarket/text/INDHOTEL_106483069.txt#L98) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations”<br>+1 more documents |
 | **PWL** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2026-03-06 Sale or disposal](https://nsearchives.nseindia.com/corporate/NEAPSPW_06032026223759_Intimation_BIG_share_transfer_final_signed.pdf) · **Scheme of Arrangement** · [text line 114](../../../../Announcements/NiftyTotalMarket/text/PWL_106551919.txt#L114) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regula Ɵon 37A of LODR Regula Ɵons Not applicable 8” |
@@ -216,7 +211,6 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | **ZYDUSLIFE** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 3.3 | [2024-12-16 General Updates](https://nsearchives.nseindia.in/corporate/ZYDUSLIFE_16122024111332_SEIntimation_transactioncompletedDec162024.pdf) · **Scheme of Arrangement** · [text line 115](../../../../Announcements/NiftyTotalMarket/text/ZYDUSLIFE_106086205.txt#L115) · “, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regula Ɵon 37A of LODR Regula Ɵons While the disinvestment of Sale Shares is outside Scheme of Arrangement, the details under regula ” |
 | **REDTAPE** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | meetings | NOT YET (meetings); timeline stated | 2.9 | [2025-09-01 Shareholders meeting](https://nsearchives.nseindia.in/corporate/REDTAPE_01092025172725_Notice.pdf) · **Composite Scheme** · [text line 283](../../../../Announcements/NiftyTotalMarket/text/REDTAPE_106358501.txt#L283) · “Shareholders whose shares has been transferred to IEPF in pursuant to the Composite Scheme of Arrangement between RTS Fashion Pvt”<br>[2024-12-26 Shareholders meeting](https://nsearchives.nseindia.in/corporate/REDTAPE_26122024161309_3rdEGMupload.pdf) · **Scheme of Arrangement** · [text line 248](../../../../Announcements/NiftyTotalMarket/text/REDTAPE_106095354.txt#L248) · “Shareholders whose shares has been transferred to IEPF in pursuant to the Composite Scheme of Arrangement between RTS Fashion Pvt”<br>[2024-09-03 Shareholders meeting](https://nsearchives.nseindia.in/corporate/REDTAPE_03092024115847_NOTICEFINAL2024.pdf) · **Composite Scheme** · [text line 275](../../../../Announcements/NiftyTotalMarket/text/REDTAPE_105975130.txt#L275) · “Shareholders whose shares has been transferred to IEPF in pursuant to the Composite Scheme of Arrangement between RTS Fashion Pvt” |
 | **ROUTE** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 2.9 | [2026-01-29 Sale or disposal](https://nsearchives.nseindia.com/corporate/ROUTE_29012026204154_upload.pdf) · **Scheme of Arrangement** · [text line 77](../../../../Announcements/NiftyTotalMarket/text/ROUTE_106512038.txt#L77) · “whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations” |
-| **AAVAS** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 2.5 | [2025-01-29 General Updates](https://nsearchives.nseindia.in/corporate/AAVAS_29012025221013_Intimationfinal_29012025.pdf) · **Scheme of Arrangement** · [text line 103](../../../../Announcements/NiftyTotalMarket/text/AAVAS_106129419.txt#L103) · “Not Applicable Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations” |
 | **AFCONS** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 2.5 | [2024-11-23 General Updates](https://nsearchives.nseindia.in/corporate/AFCONS_23112024195344_Afcons_Intimation_of_winding_upofAfconsInfraProjectsKazakhstanLLP.pdf) · **Scheme of Arrangement** · [text line 76](../../../../Announcements/NiftyTotalMarket/text/AFCONS_106068115.txt#L76) · “Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations” |
 | **ANANDRATHI** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 2.5 | [2025-12-18 General Updates](https://nsearchives.nseindia.com/corporate/ANANDRATHI_18122025192116_INTIMATION_for_sale_of_shares_of_Freedom_sd.pdf) · **Scheme of Arrangement** · [text line 91](../../../../Announcements/NiftyTotalMarket/text/ANANDRATHI_106471643.txt#L91) · “The sale of shares of Freedom Wealth Solutions Private Limited is outside the Scheme of Arrangement” |
 | **ASTERDM** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | listed | LISTED since ~2026-06-25 | 2.5 | [2026-11-06 Acquisition](https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026193116_Outcomesigned.pdf) · **Scheme of Arrangement** · [text line 318](../../../../Announcements/NiftyTotalMarket/text/ASTERDM_106851563.txt#L318) · “7 whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations Not applicable 8 additionally, in case of a slump sale, indicative disclosures p”<br>[2026-11-06 Sale or disposal](https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026192230_Outcomesigned.pdf) · **Scheme of Arrangement** · [text line 318](../../../../Announcements/NiftyTotalMarket/text/ASTERDM_106851566.txt#L318) · “7 whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations Not applicable 8 additionally, in case of a slump sale, indicative disclosures p”<br>[2026-11-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ASTERDM2_06112026193525_Outcomesigned.pdf) · **Scheme of Arrangement** · [text line 318](../../../../Announcements/NiftyTotalMarket/text/ASTERDM_106851572.txt#L318) · “7 whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations Not applicable 8 additionally, in case of a slump sale, indicative disclosures p”<br>+6 more documents |
@@ -250,7 +244,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | **JAINREC** | scheme (nature unclear) | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 3.6 | 2026-02 call · **value unlock** · JAINREC.pdf page 5 · “tself, lead -acid battery scrap contains valuable byproducts such as tin and antimony. Tin extraction is alr eady implemented and scaling up steadily. The next value unlock is antimony extraction. We have now secured ac” |
 | **OLAELEC** | scheme (nature unclear) | indicated — news verification / denial only — no scheme filed | rumoured | no scheme filed | 2.5 | [2026-07-07 News Verification](-) · **News Verification** · headline · “The Exchange has sought clarification from Ola Electric Mobility Limited with respect to recent news item captioned Ola Electric Shares Slip 5% Amid Reports Of Two Suppliers Moving NCLT Over Dues.. Th” |
 
-<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 1153</summary>
+<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 1159</summary>
 
 | Company | What | Stage | First filing | Filings |
 |---|---|---|---|---:|
@@ -281,6 +275,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | HSCL | not a spin-off for this company's holders (inbound demerger — the scheme names Himadri Speciality Chemical Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…oved the Scheme of Arrangement between Dalmia Bharat Refractories Limited ("DBRL" or "Demerged Company") and Himadri Speciality Chemical Ltd ("HSCL" or "Result")) | announced | 2026-09-18 | 3 |
 | MANKIND | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | effective | 2024-04-02 | 17 |
 | MOTHERSON | not a spin-off for this company's holders (no listing will be sought for the resulting entity — the company's own SEBI disclosure says so (no: “Not Applicable ANNEXURE A2 Brief Details of Amalgamation of Samvardhana Motherson Auto System Private Limited with the Company S. No. P)) | nclt_sanction | 2024-06-29 | 6 |
+| PERSISTENT | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | announced | 2024-04-13 | 3 |
 | PPLPHARMA | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | meetings | 2024-07-02 | 3 |
 | RAYMONDLSL | not a spin-off for this company's holders (inbound demerger — the scheme names Raymond Lifestyle Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…ACCOUNT OF THE COMPOSITE SCHEME OF ARRANGEMENT BETWEEN RAYMOND LIMITED (THE 'DEMERGED COMPANY' OR 'RL') AND RAYMOND LIFESTYLE LIMITED (THE 'RESULTING COMPANY' ")) | announced | 2025-01-30 | 6 |
 | RBLBANK | not a spin-off for this company's holders (the judge read the complete documents: no spin-off reaches this company's shareholders) | announced | 2026-05-29 | 1 |
@@ -311,13 +306,15 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | PHOENIXLTD | not a spin-off for this company's holders (the judge read the complete documents: nothing is separated) | nclt_sanction | 2024-11-29 | 4 |
 | AIIL | not a spin-off for this company's holders (inbound demerger — the scheme names Authum Investment & Infrastructure Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…ence : Scheme of Arrangement between Reliance Commercial Finance Limited (“RCFL” or “Demerged Company”) and Authum Investment & Infrastructure Limited (“AIIL” ")) | effective | 2024-05-10 | 12 |
 | BAJAJFINSV | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2025-08-26 | 1 |
+| CCAVENUE | completed spin-off — mature (record date 2024-09-11) | record_date | 2024-04-30 | 23 |
 | COHANCE | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2025-04-25 | 2 |
 | EIDPARRY | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2025-07-29 | 4 |
 | ETERNAL | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | announced | 2025-12-09 | 5 |
 | HCC | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | meetings | 2024-12-20 | 2 |
 | IIFLCAPS | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | announced | 2025-07-28 | 4 |
 | LUMAXTECH | not a spin-off for this company's holders (inbound demerger — the scheme names Lumax Auto Technologies Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…laration. 3. Scheme of Arrangement for Amalgamation of Lumax Ancillary Limited ('Transferor Company'), with Lumax Auto Technologies Limited ('Transferee Compan")) | effective | 2024-05-27 | 17 |
-| LUPIN | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | announced | 2024-06-07 | 2 |
+| LUPIN | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | announced | 2024-06-07 | 2 |
+| MEESHO | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | meetings | 2025-12-10 | 4 |
 | PATANJALI | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2024-05-16 | 1 |
 | PNBHOUSING | not a spin-off for this company's holders (the judge read an acquisition or stake purchase) | announced | 2024-05-18 | 1 |
 | RPOWER | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2025-09-29 | 1 |
@@ -365,6 +362,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | PURVA | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | announced | 2026-07-06 | 2 |
 | QPOWER | not a spin-off for this company's holders (the judge read an acquisition or stake purchase) | announced | 2026-05-13 | 2 |
 | SAMHI | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2025-02-10 | 1 |
+| SANOFI | completed spin-off — mature (record date 2024-06-13) | record_date | 2024-05-09 | 14 |
 | SUNTECK | not a spin-off for this company's holders (inbound demerger — the scheme names Sunteck Realty Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…eror Company 3’) and Shivay Brokers Private Limited (‘Shivay’ or ‘The Transferor Company 4’) with Sunteck Realty Limited (‘Sunteck’ or ‘The Transferee Company’")) | nclt_sanction | 2024-05-14 | 8 |
 | JKPAPER | not a spin-off for this company's holders (inbound demerger — the scheme names JK Paper Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…nnexure I Brief details of the Composite Scheme of Arrangement The Composite Scheme of Arrangement is between JK Paper Limited ("Transferee Company"), JKPL Utl")) | effective | 2024-12-13 | 17 |
 | NMDC | merger | rumoured | 2024-10-28 | 3 |
@@ -847,6 +845,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | ETERNAL | merger | announced | 2025-04-09 | 6 |
 | FINCABLES | slump sale | announced | 2024-06-25 | 1 |
 | FINCABLES | merger | announced | 2024-06-25 | 1 |
+| GESHIP | merger | announced | 2025-03-07 | 3 |
 | GESHIP | slump sale | announced | 2025-03-07 | 3 |
 | GESHIP | merger | announced | 2025-03-07 | 3 |
 | GHCL | capital reduction | announced | 2025-11-01 | 6 |
@@ -1003,6 +1002,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | 360ONE | merger | nclt_sanction | 2024-09-26 | 3 |
 | AADHARHFC | capital reduction | announced | 2026-05-26 | 1 |
 | AARTIIND | slump sale | announced | 2024-09-30 | 1 |
+| AAVAS | merger | announced | 2025-01-29 | 1 |
 | AAVAS | slump sale | announced | 2025-01-29 | 1 |
 | AAVAS | merger | announced | 2025-01-29 | 1 |
 | ABCAPITAL | merger | nclt_sanction | 2024-07-04 | 4 |
@@ -4131,70 +4131,6 @@ Mechanical read only (judge not run). Stated reasons: unrelated businesses separ
 
 </details>
 
-## CCAVENUE — AvenuesAI Ltd.
-
-**CONFIRMED** (a demerger scheme is on the exchange record) · **MATURE — past the spin-off window** · score 3.3/10 · spin-off · 23 filing(s) from NSE, NSE-register · first 2024-04-30, latest 2026-11-14
-
-> **Listing:** LISTED — Odigma Consultancy Solutions Limited trades since about 2024-09-11 (record date 2024-09-11)
-
-**The stages, as filed:** meetings (2024-06-04) → nclt_sanction (2024-04-30) → record_date (2024-09-11)
-
-**Stated in the filings:** resulting company **Odigma Consultancy Solutions Limited**; demerged undertaking: ) of the Demerged Company; record date 2024-09-11; size hint: 20% of ebitda.
-
-**What is being separated, as the documents put it:** The Platform Business Undertaking — e-commerce platform software and infrastructure for large enterprises, advertising and infrastructure rental — moved into Rediff — class `value_unlocking`.
-
-- *Insiders:* Not stated in rupees or percentages; Rediff remains a subsidiary (consolidated non-controlling interest Rs 2,468.1 million), and Vishal Mehta is Chairman & Managing Director of both AvenuesAI Limited and Rediff.com.
-- *What it reveals:* The platform segment is small but rich: H1 FY27 revenue Rs 1,112.6 million produced segment result Rs 515.0 million, versus payments' Rs 54,483.8 million revenue for Rs 821.3 million — roughly 39% of segment profit from 2% of revenue.
-- *Selling pressure:* unlikely — Separation is an IPO of a subsidiary, not a share distribution to AvenuesAI holders; no index exclusion or forced selling is stated.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Rediff's UDRHP-I of November 14, 2026 — its standalone financials, offer structure, and AvenuesAI's post-IPO stake.
-- *In their words:* “During the previous year, the Company had transferred its Platform Business Undertaking on a going concern basis through a slump sale to Rediff.com India Limited ("Rediff"), subsidiary of the Company.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: a weak or capital-heavy business carved away — “…nsaction harnesses the synergies between Infibeam Avenues’ fintech expertise and Rediff.com's esteemed brand legacy. We are poised to cement our position as a leader in the dynamic landscape of digital finance aggregation, c…”; unrelated businesses separated — “…total merchant base to more than 1.2 million. The company is now adding thousands of merchants daily, with a focused strategy targeting India’s long-tail MSME segment—unlocking both transactional volume and value. BillAvenue, the c…”; value unlocking for shareholders — “…sitioning Rediff to scale its enterprise SaaS and digital commerce offerings, unlocking long-term growth and value creation across both businesses. Other Business Developoments: ⮚ CCAvenue strengthens collaboration with RBL Ban…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | a weak or capital-heavy business carved away; unrelated businesses separated; value unlocking for shareholders — “…nsaction harnesses the synergies between Infibeam Avenues’ fintech expertise and Rediff.com's esteemed brand legacy. We are poised to cement our position as a leader in the dynamic landscape of digital finance aggregati” |
-| Institutional selling likely (small / different business) | yes | the demerged piece is 20% of ebitda; the businesses are described as distinct |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Timing (first year sells, second year gains) | no | 796 days since listing/record date; more than two years listed — no longer a spin-off situation |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-04-30 | Updates | Infibeam Avenues Limited has informed the Exchange regarding 'Receipt of the order of the Hon ble NCLT, Ahmedabad Bench directing the meetings of the Equity Sha | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_30042024170413_IALIntimationOrder.pdf) |
-| 2024-06-04 | Shareholders meeting | Infibeam Avenues Limited has informed the Exchange regarding Proceedings of Court Convened General Meeting held on Jun 04, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_04062024165927_IALProceedings04062024.pdf) |
-| 2024-06-04 | Updates | Infibeam Avenues Limited has informed the Exchange regarding 'Summary of Proceedings with respect to the meetings of the Equity Shareholders and Unsecured Credi | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_04062024170439_IALProceedings04062024.pdf) |
-| 2024-06-05 | Shareholders meeting | Infibeam Avenues Limited has submitted the Exchange a copy Srutinizers report of Court Convened General Meeting held on Jun 04, 2024. Further, the company has i | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_05062024153906_IALVotingResults05062024.pdf) |
-| 2024-08-02 | Outcome of Board Meeting | Infibeam Avenues Limited has informed the Exchange regarding Board meeting held on August 02, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_02082024125555_IALOutcomeofBM02082024.pdf) |
-| 2024-08-02 | Acquisition | Infibeam Avenues Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_02082024131209_IALOutcomeofBM02082024.pdf) |
-| 2024-08-02 | Financial Result Updates | Infibeam Avenues Limited has submitted to the Exchange, the financial results for the period ended June 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/IALOutcomeofBM02082024_02082024130048.pdf) |
-| 2024-08-29 | Updates | Infibeam Avenues Limited has informed the Exchange regarding 'Order received from the Hon'ble National Company Law Tribunal, Ahmedabad Bench, sanctioning the Co | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_29082024191429_IALIntimationorder29082024.pdf) |
-| 2024-08-30 | Record Date | Infibeam Avenues Limited has informed the Exchange that Record date for the purpose of issue and allotment of Equity Shares pursuant to the Scheme of Arrangemen | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_30082024165129_IALIntimationRecorddate30082024.pdf) |
-| 2024-09-11 | Record Date (corporate-actions register) | Record date 2024-09-11 for Demerger — NSE corporate-actions register |  |
-| 2024-09-23 | General Updates | Infibeam Avenues Limited has informed the Exchange about Apportionment of Cost of Acquisition of Equity Shares of Infibeam Avenues Limited and Odigma Consultanc | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_23092024181426_IALIntimationApportionmentofCost23092024.pdf) |
-| 2025-02-04 | Integrated Filing- Financial | Integrated Filing (Financial) for the quarter and nine months ended December 31, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_04022025133450_IALIntegratedfinancials04022025.pdf) |
-| 2025-02-04 | Financial Result Updates | Infibeam Avenues Limited has submitted to the Exchange, the financial results for the period ended December 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/IALOutcomeBM04022025_04022025131705.pdf) |
-| 2025-03-06 | Outcome of Board Meeting | Infibeam Avenues Limited has informed the Exchange regarding Board meeting held on March 06, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_06032025180017_IALoutcomeofBM06032025.pdf) |
-| 2025-03-06 | Diversification/Disinvestment | Infibeam Avenues Limited has informed the Exchange about Disinvestment in Associate Company. | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_06032025181037_IALoutcomeofBM06032025.pdf) |
-| 2025-05-26 | Outcome of Board Meeting | Infibeam Avenues Limited has submitted to the Exchange, the financial results for the period ended March 31, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_26052025133812_IALOutcomeofBM26052025.pdf) |
-| 2025-05-26 | Diversification/Disinvestment | Infibeam Avenues Limited has informed the Exchange about Diversification/Disinvestment | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_26052025135029_IALOutcomeofBM26052025.pdf) |
-| 2025-05-26 | Outcome of Board Meeting | Infibeam Avenues Limited has informed the Exchange regarding Outcome of Board Meeting held on May 26, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_26052025135420_IALOutcomeofBM26052025.pdf) |
-| 2025-08-08 | Outcome of Board Meeting | Infibeam Avenues Limited has informed the Exchange regarding Outcome of Board Meeting held on August 08, 2025 for Unaudited Financial Results, Increase in Autho | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_08082025131711_OutcomeofBM08082025.pdf) |
-| 2025-08-08 | Outcome of Board Meeting | Infibeam Avenues Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_08082025131915_OutcomeofBM08082025.pdf) |
-| 2025-08-08 | Sale or disposal | Infibeam Avenues Limited has informed the Exchange about transfer of Platform Business through a slump sale. | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_08082025132539_IntimationSlumpSale08082025.pdf) |
-| 2026-03-31 | General Updates | AvenuesAI Limited has informed the Exchange about filing of Pre-DRHP by Rediff.com India Limited, a Subsidiary of our Company in relation to proposed IPO of Equ | [pdf](https://nsearchives.nseindia.com/corporate/INFIBEAM_31032026181448_Intimation31032026.pdf) |
-| 2026-11-14 | General Updates | AvenuesAI Limited has informed the Exchange about Filing of Updated Draft Red Herring Prospectus-I ( UDRHP-I ) by Rediff.com India Limited, a Subsidiary of our  | [pdf](https://nsearchives.nseindia.in/corporate/INFIBEAM_14112026182909_AALIntimationRediffUDRHP14112026.pdf) |
-
-</details>
-
 ## TEXRAIL — Texmaco Rail & Eng. Ltd.
 
 **CONFIRMED** (a demerger scheme is on the exchange record) · **SPINNING — record date set; the new entity lists soon** · score 3.3/10 · spin-off · 12 filing(s) from NSE · first 2024-07-25, latest 2026-07-24
@@ -4286,61 +4222,6 @@ No rationale on file: no call passages and no scheme rationale text.
 |---|---|---|---|
 | 2025-05-10 | General Updates | FSN E Commerce Ventures Limited has informed the Exchange about Order dated May 9, 2025 (Order) of the Hon'ble National Company Law Tribunal, Mumbai Bench (NCLT | [pdf](https://nsearchives.nseindia.in/corporate/NYKAA_10052025161554_SEintimationonapprovalofSchemeofDemergeSigned.pdf) |
 | 2025-05-30 | Press Release | FSN E Commerce Ventures Limited has informed the Exchange regarding a press release dated May 30, 2025, titled "Nykaa delivers strong GMV growth of 27% YoY in Q | [pdf](https://nsearchives.nseindia.in/corporate/NYKAA_30052025165559_IntimationOfPressRelease.pdf) |
-
-</details>
-
-## SANOFI — Sanofi India Ltd.
-
-**CONFIRMED** (a demerger scheme is on the exchange record) · **MATURE — past the spin-off window** · score 1.7/10 · spin-off · 14 filing(s) from NSE, NSE-register · first 2024-05-09, latest 2024-11-07
-
-> **Listing:** LISTED — Sanofi Consumer Healthcare India Limited trades since about 2024-06-13 (record date 2024-06-13)
-
-**The stages, as filed:** announced (2024-05-13) → meetings (2024-06-12) → nclt_sanction (2024-05-09) → effective (2024-06-01) → record_date (2024-06-13)
-
-**Stated in the filings:** resulting company **Sanofi Consumer Healthcare India Limited**; record date 2024-06-13; appointed date 2023-06-01.
-
-**What is being separated, as the documents put it:** The Consumer Healthcare business (Demerged Undertaking) of Sanofi India, transferred into wholly owned subsidiary SCHIL — class `value_unlocking`.
-
-- *Insiders:* Promoter and promoter group (Hoechst GmbH, Sanofi SA) held 1,39,09,587 of 2,30,30,622 shares; 1:1 allotment gives the same stake in SCHIL. Managing Director reaffirmed his role post-demerger, leading Sanofi India Limited.
-- *What it reveals:* CHC was roughly 30% of net sales and 37-39% of total operating profit, yet only 10.24% of cost of acquisition was apportioned to SCHIL; net assets transferred were just ₹1,860 million including ₹1,592 million cash. Parent reports NIL total financial indebtedness.
-- *Selling pressure:* likely — Small consumer entity in a different industry from the parent's single 'Pharmaceutical Business' segment, allotted 1:1 to 64,475 shareholders.
-- *Parent or spin:* spin · *option pricing date:* not stated
-- *Read next:* SCHIL's information memorandum / first standalone results, to test the 30% of sales and 37-39% of operating profit split
-- *In their words:* “This move is expected to unlock shareholder value and drive rapid growth.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…for the listing of the new separate company, Sanofi Consumer Healthcare Limited. This move is expected to unlock shareholder value and drive rapid growth. Next, he discussed the expansion of diabetes treatment, noting the Company's dedic…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders — “…for the listing of the new separate company, Sanofi Consumer Healthcare Limited. This move is expected to unlock shareholder value and drive rapid growth. Next, he discussed the expansion of diabetes treatment, noting t” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Timing (first year sells, second year gains) | no | 886 days since listing/record date; more than two years listed — no longer a spin-off situation |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-09 | Scheme of Arrangement | Sanofi India Limited has informed the Exchange regarding "Judicial pronouncement by the Hon ble National Company Law Tribunal, Mumbai bench, approving the Schem | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_09052024113255_Disclosure_of_NCLT_order.pdf) |
-| 2024-05-13 | Outcome of Board Meeting | Sanofi India Limited has informed the Exchange regarding Board meeting held on May 13, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_13052024185807_BSE_NSE_Outcome_May2024_v22.pdf) |
-| 2024-05-13 | Financial Result Updates | Sanofi India Limited has submitted to the Exchange, the financial results for the period ended March 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BSE_NSE_Outcome_May2024_v22_13052024190631.pdf) |
-| 2024-06-01 | Scheme of Arrangement | Sanofi India Limited has informed the Exchange about effectiveness of the Scheme of Arrangement between Sanofi India Limited and Sanofi Consumer Healthcare Indi | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_01062024171725_DisclosureunderRegulation30_Effectiveness_31052024signed.pdf) |
-| 2024-06-03 | Record Date | Sanofi India Limited has informed the Exchange that Record date for the purpose of ascertaining the shareholders of the Demerged Company who will be entitled to | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_03062024181953_RecordDateJune2024Signed.pdf) |
-| 2024-06-12 | Shareholders meeting | Sanofi India Limited has informed the Exchange about copy of minutes of Annual General Meeting held on May 14, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_12062024173212_AGMMinutes2024Intimation.pdf) |
-| 2024-06-13 | Record Date (corporate-actions register) | Record date 2024-06-13 for Demerger — NSE corporate-actions register |  |
-| 2024-06-19 | Allotment of Securities | Sanofi India Limited has informed the Exchange regarding allotment of shares by Sanofi Consumer Healthcare India Limited pursuant to the Scheme of Arrangement b | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_19062024101049_Disclosure_allotment_of_shares_1862024.pdf) |
-| 2024-07-12 | Updates | Sanofi India Limited has informed the Exchange regarding 'Apportionment of Cost of Acquisition of Equity Shares of Sanofi India Limited and Sanofi Consumer Heal | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_12072024132325_BSENSEIntimationApportionmentofCostofAcquisition.pdf) |
-| 2024-07-26 | Outcome of Board Meeting | Sanofi India Limited has informed the Exchange regarding Outcome of Board Meeting held on July 26, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_26072024153526_BSENSEIntimationFinancialResults.pdf) |
-| 2024-07-26 | Press Release | Sanofi India Limited has informed the Exchange regarding a press release dated July 26, 2024, titled "Sanofi India Limited (SIL) reports Q2 (April- June), 2024  | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_26072024155107_BSENSEIntimationFinancialResults.pdf) |
-| 2024-07-26 | Financial Result Updates | Sanofi India Limited has submitted to the Exchange, the financial results for the period ended June 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BSENSEIntimationFinancialResults_26072024154623.pdf) |
-| 2024-11-07 | General Updates | Sanofi India Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/SANOFI_07112024180909_BSENSEOutcomeofBM.pdf) |
-| 2024-11-07 | Financial Result Updates | Sanofi India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BSENSEOutcomeofBM_07112024175209.pdf) |
 
 </details>
 
@@ -5213,51 +5094,6 @@ No rationale on file: no call passages and no scheme rationale text.
 |---|---|---|---|
 | 2026-01-12 | Outcome of Board Meeting | HCL Technologies Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/HCLTECH_12012026170902_FinancialResults.pdf) |
 | 2026-01-12 | Record Date | HCL Technologies Limited has informed the Exchange that Record date for the purpose of Dividend is 16-Jan-2026. | [pdf](https://nsearchives.nseindia.com/corporate/HCLTECH_12012026172342_FinancialResults.pdf) |
-
-</details>
-
-## MEESHO — Meesho Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.3/10 · spin-off · 4 filing(s) from NSE · first 2025-12-10, latest 2026-01-30
-
-> **Listing:** NOT YET — scheme at 'meetings' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
-
-**The stages, as filed:** meetings (2026-01-13)
-
-**Stated in the filings:** entitlement **2509 for every 1**.
-
-**What is being separated, as the documents put it:** Grocery and e-commerce (marketplace) undertakings carved out to wholly owned subsidiaries; parent retained Valmo logistics — class `regulatory_strategic`.
-
-- *Insiders:* Promoters/Founders Vidit Aatrey and Sanjeev Kumar; proposed Article 122 keeps their board seats while they hold 3% or 75,62,14,937 shares; both direct MPPL; ESOP 2024 options vest/exercise (44,605,655 shares allotted Q1FY27)
-- *What it reveals:* Demerger consideration marks MTPL at Rs 258,623.89mn and MGPL at Rs 7,313.55mn against net assets of only Rs 1,147.24mn, booking a Rs 264,790.20mn "Gain on demerger"; parent's retained Valmo logistics earned Rs 3,537.70mn standalone profit while consolidated stayed loss-making
-- *Selling pressure:* unlikely — No shares went to public shareholders; MTPL/MGPL remain 100% subsidiaries. The 47.2509-for-1 ratio was a bonus issue, not a demerger entitlement
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The Composite Scheme of Arrangement and NCLT order of May 27, 2025, plus the CCPS fair-value basis for MTPL
-- *In their words:* “As a consideration of the demerger, MTPL and MGPL issued equity shares and Compulsorily convertible preference shares ('CCPS') to the Company.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …pproved at any time to or for the benefit of the eligible em ployees under the ESOP 2024 Plan, and to grant the ESOPs to the eligible employees on such terms and conditions as provided i… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 63 cr (Mar 2026) = 0.00× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 341 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-12-10 | General Updates | Meesho Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_10122025175342_MLSEIntimationRightissue.pdf) |
-| 2026-01-13 | Shareholders meeting | Meesho Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_13012026002617_MeeshoLimitedPostalballot13Jan2026.pdf) |
-| 2026-01-30 | Outcome of Board Meeting | Meesho Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_30012026173517_MLOutcomeofBM30Jan2026.pdf) |
-| 2026-01-30 | Outcome of Board Meeting | Meesho Limited has informed the Exchange regarding the Outcome of the Board Meeting held on January 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/MEESHO_30012026174011_MLOutcomeofBM30Jan2026.pdf) |
 
 </details>
 
@@ -6683,20 +6519,20 @@ Mechanical read only (judge not run). Stated reasons: a weak or capital-heavy bu
 
 **PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 10 filing(s) from BSE-screener, NSE, NSE-deep · first 2025-11-17, latest 2026-10-27
 
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-11-17; date not fixed — No new listing; Shiva Cement "shall cease to exist upon effectiveness of the Scheme without being wound up" and the transaction "is expected to be completed within 12-14 months" (said September 29, 2026 and repeated October 27, 2026)
+> **Listing:** IPO / listing of the subsidiary in motion since 2025-11-17; date not fixed — No new listing; Shiva ceases to exist. "The transaction is expected to be completed within 12-14 months, subject to timely receipt of regulatory approvals" (said September 29, 2026 and repeated October 27, 2026)
 
 **The stages, as filed:** nclt_sanction (2026-09-29)
 
 **Stated in the filings:** entitlement **5 for every 41**.
 
-**What is being separated, as the documents put it:** Nothing is spun off — listed subsidiary Shiva Cement is amalgamated into parent JSW Cement — class `value_unlocking`.
+**What is being separated, as the documents put it:** Nothing separated — Shiva Cement, the listed clinker subsidiary, is amalgamated into parent JSW Cement — class `value_unlocking`.
 
-- *Insiders:* JSW Cement holds 66.23% of Shiva's equity and all its OCCRPS; promoter group of JSW Cement goes 72.02% to 71.39% post-merger; no consideration/benefit to promoters stated.
-- *What it reveals:* Shiva's 1.32 mtpa Sundargarh clinker unit plus FY26-commissioned 1.0 MTPA Sambalpur grinding unit come in with negative net worth (INR -30.08 crore) and INR 133.92 crore accumulated losses written off against securities premium.
-- *Selling pressure:* unlikely — Only 1.21 crore new shares on 137.55 crore base (~0.9%); same industry, same promoter, larger and more liquid entity.
+- *Insiders:* JCL holds 66.23% of SCL equity and all its OCCRPS; JSW Cement promoter group goes 72.02% to 71.39% post-merger; Shiva promoter group held 66.50%
+- *What it reveals:* Shiva is a loss-maker: standalone net worth (30.08) crore, retained-earnings debit (133.92) crore written off against securities premium; its 1.32 mtpa clinker becomes captive raw material, cutting third-party purchases and mark-ups
+- *Selling pressure:* unlikely — Only ~1.21 crore new shares on a 136.34 crore base; same industry, larger and more liquid entity, no index exit
 - *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The Regulation 37 Scheme filing with the valuation report and fairness opinions behind the 5:41 share exchange ratio.
-- *In their words:* “This consolidation creates a single unified cement platform to unlock operational, financial, and management synergies.”
+- *Read next:* The valuation/share exchange ratio report and fairness opinions supporting the 5:41 ratio
+- *In their words:* “Transferor Company shall cease to exist upon effectiveness of the Scheme without being wound up.”
 
 ### Why the demerger — three years of calls and the scheme
 
@@ -7072,16 +6908,16 @@ No rationale on file: no call passages and no scheme rationale text.
 
 **PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 8 filing(s) from NSE · first 2024-05-31, latest 2025-10-17
 
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-31; date not fixed — Canara Robeco 'got listed today (16.10.2025) on National Stock Exchange of India Limited and BSE Ltd' (said 16.10.2025); Canara HSBC Life 'got listed today (17.10.2025)' (said 17.10.2025); earlier SEBI UDRHP approvals 29.09.2025 and 02.10.2025
+> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-31; date not fixed — Canara Robeco 'got listed today (16.10.2025)' per filing dated 16.10.2025; Canara HSBC Life 'got listed today (17.10.2025)' per filing dated 17.10.2025; earlier filings record UDRHP SEBI approvals on 29.09.2025 and 02.10.2025.
 
-**What is being separated, as the documents put it:** Minority stakes in two Canara Bank subsidiaries — Canara HSBC Life Insurance and Canara Robeco Asset Management — sold via IPO — class `value_unlocking`.
+**What is being separated, as the documents put it:** Minority stakes in two subsidiaries — Canara HSBC Life Insurance and Canara Robeco Asset Management — listed via IPO — class `value_unlocking`.
 
-- *Insiders:* Canara Bank remains promoter: 51% to 36.50% in Canara HSBC Life, 51% to 38% in Canara Robeco. Promoter absorbed ~Rs 80 crore IPO charges. Management: 'Going ahead we don't foresee any dilution.'
-- *What it reveals:* Parent keeps 36.5%/38% of two listed, 'professionally managed' subsidiaries plus 'threefold benefit': agency commission as distribution franchisee of 10,131 branches, growing subsidiary valuations, ~Rs 320 crore of subsidiary profit booked at parent.
-- *Selling pressure:* unlikely — Shares were sold into an IPO to willing buyers, not distributed to Canara Bank shareholders; no index-exclusion dumping described.
+- *Insiders:* Canara Bank, the promoter, retains 36.50% of Canara HSBC Life and 38% of Canara Robeco; keeps arm's-length boards, earns agency commission as distributor, absorbed ~Rs.80 crore IPO charges; 'further dilution we don't foresee'.
+- *What it reveals:* Two high-value businesses sat inside the bank: the 14.5% and 13% dilutions alone yielded Rs.1,930-2,006 crore of listing gains, with ~Rs.320 crore subsidiary profit to parent, ~Rs.500 crore cross-sell income, and stakes management says have appreciated.
+- *Selling pressure:* unlikely — IPO/offer-for-sale to new investors, not a demerger distribution to parent shareholders; both listed on NSE and BSE, shares appreciated.
 - *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Canara HSBC Life's SEBI-approved UDRHP (approved 02.10.2025) for the insurer's standalone financials and embedded value
-- *In their words:* “Canara Bank has accorded approval for initiating the process of diluting 14.50% stake of the Bank in its subsidiary M/s Canara HSBC Life Insurance Company Ltd by listing the Company in Stock Exchanges (BSE/NSE) through Initial Public Offer (IPO).”
+- *Read next:* Canara HSBC Life and Canara Robeco standalone results versus Canara Bank's retained 36.50%/38% carrying value.
+- *In their words:* “In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.50%.”
 
 ### Why the demerger — three years of calls and the scheme
 
@@ -8450,54 +8286,6 @@ Mechanical read only (judge not run). Stated reasons: value unlocking for shareh
 
 </details>
 
-## PERSISTENT — Persistent Systems Ltd.
-
-**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · scheme (nature unclear) · 3 filing(s) from NSE · first 2024-04-13, latest 2026-08-02
-
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
-
-**Stated in the filings:** size hint: 2.48% of net worth.
-
-**What is being separated, as the documents put it:** The business of the Company's UK Branch, transferred to Persistent Systems UK Limited, a wholly owned subsidiary — class `regulatory_strategic`.
-
-- *Insiders:* Not stated for the UK entity; it stays wholly owned within the group. NCLT order notes promoter Dr. Anand Deshpande holds 29% of listed Persistent's shareholding
-- *What it reveals:* Reveals nothing cheap or hidden: the branch contributed 4.05% of standalone and 2.48% of consolidated revenue, Nil net worth, for GBP 9.26 million consideration, and remains consolidated with the parent
-- *Selling pressure:* unlikely — No shares distributed; intra-group transfer to a wholly owned subsidiary, same IT/ITES industry, accounts consolidated
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Europe revenue line in standalone vs consolidated results, to see the 4.05% branch revenue move into the UK subsidiary
-- *In their words:* “The business of the UK Branch shall be gradually transferred to the Subsidiary in UK effective from April 1, 202 4.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 2.48% of net worth |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …a. The standalone financial results include the audited financial results of an ESOP trust, whose interim financial statements reflects total revenue (before accounting adjustments) of Rs. Nil and total net loss after tax (before accounting adjustments) of Rs.… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 477 cr (Mar 2026) = 0.01× market cap; P/E 46.9 on Mar 2026 profit vs industry median 24.2 (25 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 947 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 2 mention(s) in the last 12 months of calls — “…so just think about it. There are different kinds of customers in the market. If there's a private equity customer who basically has done a new company from a carveout basis, and we are involved in engineering, they hav” |
-
-**On the calls (last 12 months):**
-
-- *Jan 2026* (neutral) — “…ly to the company, but also customizing it. If it is a private equity held company, what are they trying to solve for? If a private equity company is trying to carve out a smaller company from a bigger tech company, trying to stand up these guys as an independent company on one side, yeah, we can do the stand up of Greenfield I…”
-- *Jan 2026* (neutral) — “…so just think about it. There are different kinds of customers in the market. If there's a private equity customer who basically has done a new company from a carveout basis, and we are involved in engineering, they have a certain way that they want to do the upfront investment, etc. Our business model has to dovetail into wh…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-04-13 | Updates | Persistent Systems Limited has informed the Exchange regarding 'Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligation | [pdf](https://nsearchives.nseindia.in/corporate/PERSISTENT_13042024201347_PersistentSystemsIntimationofExecutionoftheBTAsigned.pdf) |
-| 2025-06-26 | General Updates | Persistent Systems Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_26062025193537_PersistentSystemsIntimationofExecutionoftheBTAsigned.pdf) |
-| 2026-08-02 | Outcome of Board Meeting | Persistent Systems Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_02082026144059_PSLBMOutcomeJune302026093signed.pdf) |
-
-</details>
-
 ## PIIND — PI Industries Ltd.
 
 **PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · scheme (nature unclear) · 5 filing(s) from NSE · first 2024-06-26, latest 2024-08-20
@@ -9066,46 +8854,6 @@ No rationale on file: no call passages and no scheme rationale text.
 
 </details>
 
-## GESHIP — Great Eastern Shipping Co. Ltd.
-
-**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.3/10 · scheme (nature unclear) · 3 filing(s) from NSE · first 2025-03-07, latest 2025-12-22
-
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
-
-**What is being separated, as the documents put it:** Great Eastern Services Limited, a dormant wholly owned subsidiary, voluntarily struck off / liquidated — no business separated — class `not stated`.
-
-- *Insiders:* Not stated for GESL; no new entity or shares result. In the parent, promoter and promoter group hold 4,29,36,248 shares (30.07%) and cannot participate in the buyback.
-- *What it reveals:* Nothing hidden in GESL: Nil revenue, net worth Rs. 8.39 lacs. The parent is the asset — $500 million+ net cash standalone, consolidated NAV far above book, stock at 0.73-0.8x NAV per the calls.
-- *Selling pressure:* unlikely — No shares distributed and nothing lists; GESL is a nil-revenue shell being dissolved, not a tradable spin-off.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Daily buyback reports versus the ₹675 crore Minimum Buyback Size due by December 11, 2026 — only 20,63,954 of 44,11,764 shares bought.
-- *In their words:* “This is to inform you that the Board of Directors at their meeting held today, i.e. March 07, 2025 have approved voluntary striking off/ liquidation of 'Great Eastern Services Limited', a wholly owned subsidiary of the Company ('GESL').”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 1,087 cr (Mar 2026) = 0.06× market cap; P/E 6.6 on Mar 2026 profit vs industry median 29.0 (10 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 619 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-03-07 | Outcome of Board Meeting | The Great Eastern Shipping Company Limited has informed the Exchange regarding Outcome of Board Meeting held on March 07, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/GESHIP_07032025113243_bmoutcome.pdf) |
-| 2025-04-30 | General Updates | The Great Eastern Shipping Company Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/GESHIP_30042025173908_GOSLliquidation.pdf) |
-| 2025-12-22 | General Updates | The Great Eastern Shipping Company Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/GESHIP_22122025161121_GOSLliquidation.pdf) |
-
-</details>
-
 ## GODREJIND — Godrej Industries Ltd.
 
 **PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.3/10 · scheme (nature unclear) · 3 filing(s) from NSE · first 2025-08-13, latest 2026-01-28
@@ -9440,44 +9188,6 @@ No rationale on file: no call passages and no scheme rationale text.
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-01-29 | Sale or disposal | ROUTE MOBILE LIMITED has informed the Exchange about De-registration of a Step-Down Wholly Owned Subsidiary. | [pdf](https://nsearchives.nseindia.com/corporate/ROUTE_29012026204154_upload.pdf) |
-
-</details>
-
-## AAVAS — Aavas Financiers Ltd.
-
-**PROBABLE** (a scheme of arrangement whose nature the documents on file do not settle) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.5/10 · scheme (nature unclear) · 1 filing(s) from NSE · first 2025-01-29, latest 2025-01-29
-
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
-
-**What is being separated, as the documents put it:** Aavas Finserv Limited, a non-operating wholly owned subsidiary, separated by voluntary liquidation and dissolution — class `not stated`.
-
-- *Insiders:* No promoter/management stake in AFL disclosed; AFL dissolved, no new entity. Separately, promoters LDHL/PGEL/PGPE reclassified public 30-Jun-2025; Aquilo House holds 48.96%
-- *What it reveals:* Nothing material revealed: AFL contributed Rs 39.70 lakhs revenue (0.03%) and Rs 1,150.99 lakhs net worth; parent is the whole business, net worth Rs 4,19,686.82 lakh, CRAR 45.56%, GNPA 1.14%, debt-equity 3.17
-- *Selling pressure:* unlikely — No shares issued or listed; a dormant subsidiary was dissolved, with liquidation proceeds repaid to the parent
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Jan 30, 2025 integrated filing, note 4 and Annexure A ratios, for liquidation proceeds and parent standalone impact
-- *In their words:* “AFL had not commenced any busine ss or conducted any operations or activities since the date of its incorporation.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | P/E 22.0 on Mar 2024 profit vs industry median 24.6 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 656 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-01-29 | General Updates | Aavas Financiers Limited has informed the Exchange regarding the Intimation under Regulations 30 and 51 of the Securities and Exchange Board of India (Listing O | [pdf](https://nsearchives.nseindia.in/corporate/AAVAS_29012025221013_Intimationfinal_29012025.pdf) |
 
 </details>
 
