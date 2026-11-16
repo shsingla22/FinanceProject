@@ -9,12 +9,12 @@
 | Universe demergers with a record date in the window (NSE register) | 5 |
 | …captured by the skill as confirmed / probable demergers | 5 |
 | …MISSED (absent, or held as merger / other) | 0 |
-| Confirmed demergers in the skill as of 2025-03-31 | 30 |
+| Confirmed demergers in the skill as of 2025-03-31 | 21 |
 | …verified by a register record date or the company's own listing | 10 |
 | …verified by a record date that came AFTER 2025-03-31 (the register up to today) | 10 |
-| …pending (no record date to date) | 10 |
+| …pending (no record date to date) | 1 |
 | …FALSE POSITIVES | 0 |
-| Probable demergers | 29 |
+| Probable demergers | 28 |
 | Indicated demergers | 28 |
 | Situations in all | 1380 |
 
@@ -36,30 +36,21 @@
 | **ABFRL** | effective | RECORD DATE set; listing pending | verified by a later record date (2025-05-22) |
 | **ADANIENT** | announced | NOT YET (announced); timeline stated | pending — not yet verifiable (no record date yet) |
 | **SIEMENS** | record_date | RECORD DATE 2025-04-07; listing pending | verified by the register |
-| **AWL** | announced | NOT YET (announced); timeline stated | pending — not yet verifiable (no record date yet) |
 | **ITC** | record_date | LISTED since ~2025-01-06 | verified by the register |
-| **DEEPAKFERT** | nclt_sanction | NOT YET (nclt_sanction); timeline stated | pending — not yet verifiable (no record date yet) |
 | **HINDUNILVR** | announced | NOT YET (announced) | verified by a later record date (2025-12-05) |
 | **QUESS** | record_date | RECORD DATE 2025-04-15; listing pending | verified by the register |
 | **TMPV** | effective | RECORD DATE set; listing pending | verified by a later record date (2025-10-14) |
 | **TRIVENI** | announced | NOT YET (announced); timeline stated | verified by a later record date (2026-07-22) |
-| **CELLO** | announced | NOT YET (announced); timeline stated | pending — not yet verifiable (no record date yet) |
 | **INDIAGLYCO** | announced | NOT YET (announced); timeline stated | verified by a later record date (2026-09-02) |
 | **INOXGREEN** | announced | NOT YET (announced); timeline stated | verified by a later record date (2026-08-01) |
-| **MOTHERSON** | announced | NOT YET (announced); timeline stated | pending — not yet verifiable (no record date yet) |
 | **RAYMOND** | record_date | LISTED since ~2024-07-11 | verified by the register |
 | **SKFINDIA** | exchange_noc | NOT YET (exchange_noc); timeline stated | verified by a later record date (2025-10-15) |
-| **TATACOMM** | announced | NOT YET (announced) | pending — not yet verifiable (no record date yet) |
 | **CCAVENUE** | record_date | LISTED since ~2024-09-11 | verified by the register |
 | **STAR** | listed | LISTED since ~2024-12-11 | verified by the register |
 | **STLTECH** | record_date | RECORD DATE 2025-04-24; listing pending | verified by the register |
-| **GMRAIRPORT** | nclt_sanction | NOT YET (nclt_sanction); timeline stated | pending — not yet verifiable (no record date yet) |
 | **HEGAM** | announced | NOT YET (announced); timeline stated | verified by a later record date (2026-09-07) |
-| **KITEX** | announced | NOT YET (announced); timeline stated | pending — not yet verifiable (no record date yet) |
 | **NUVAMA** | listed | THIS IS THE SPIN-OFF — listed 2023-09-26 | verified by NSE's equity list — this company is the listed resulting company (listed 2023-09-26) |
-| **AMBER** | announced | NOT YET (announced) | pending — not yet verifiable (no record date yet) |
 | **DBREALTY** | nclt_sanction | NOT YET (nclt_sanction); timeline stated | verified by a later record date (2025-07-18) |
-| **DLF** | nclt_sanction | NOT YET (nclt_sanction) | pending — not yet verifiable (no record date yet) |
 | **SANOFI** | record_date | LISTED since ~2024-06-13 | verified by the register |
 | **SANOFICONR** | listed | THIS IS THE SPIN-OFF — listed 2024-09-13 | verified by NSE's equity list — this company is the listed resulting company (listed 2024-09-13) |
 
