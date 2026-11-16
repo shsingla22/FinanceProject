@@ -1,0 +1,128 @@
+                                                
+ 
+ 
+ 
+August  07, 202 5 
+ 
+The Secretary  
+National Stock Exchange of India Ltd  
+Exchange Plaza, C/1, Block G,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai – 400 051  
+NSE Symbol: TEJASNET  The Secretary  
+BSE Limited  
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+BSE Scrip Code: 540595  
+ 
+Dear Sir/Madam,  
+ 
+Re: Press Release  
+ 
+Please find enclosed a copy of t he Press Release titled  “KhushTech  Korea to Launch India’s 
+First D2M Feature Phone Under FreeStream Brand ”, issued by Sinclair  Inc., for your 
+information and records.  
+Thanking you,  
+ 
+Yours sincerely  
+For Tejas Networks Limited  
+ 
+ 
+ 
+  
+Anantha Murthy N  
+Company Secretary & Compliance Officer  
+ICSI Membership No. A -17134  
+ 
+KhushTech Korea to Launch India’s First D2M Feature Phone Under FreeStream Brand   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seoul, New Delhi and Baltimore, MD – August 7, 2025 - KhushTech Korea Co., Ltd. (“KhushTech”), 
+is proud to introduce the world’s first Direct -to-Mobile (D2M) feature phone for Free Stream 
+Technologies (“FreeStream”), a D2M technology and platform provider incubated at Indian Institute 
+of Technology (IIT), Kan pur.   
+The innovative and low -cost FreeStream branded phone is powered by Tejas Networks SL -3000 D2M 
+demodulator chip embedded in the device and is intended for use in the 470 -608 MHz broadcast 
+bands.   
+In a recent high -level meeting with Shri Nara Lokesh, Hon’ble IT and Electronics Minister of Andhra 
+Pradesh, KhushTech’s Founder and CEO, Eric Shin, showcased the groundbreaking FreeStream D2M 
+feature phone and demonstrated its incredible potential to tran sform educational content delivery 
+in rural areas and other challenging environments in a cost -effective and resilient manner by 
+leveraging the scalable architecture of the next -generation ATSC 3.0 broadcast standard.   
+Direct -to-Mobile is a broadcast technology that uses terrestrial TV broadcast airwaves to deliver IP 
+based live TV, Video, Audio, data and text messages (multimedia content) of public and national 
+importance (such as entertainment, sports, educational prog ramming and emergency alerts) directly 
+to phones without the need for Wi -Fi or internet service. In addition to the SL -3000 chipset, Tejas 
+Networks has also developed a suite of infrastructure hardware and software products for D2M 
+deployment in collaborat ion with Sinclair Inc, USA.   This technology has been under test in live 
+networks by Prasar Bharati in partnership with IIT Kanpur and Tejas Networks over the past couple 
+of years.   
+Sumeet Nindrajog, Director of Free Stream Technologies said, “We are pleased that KhushTech has 
+rapidly developed a low -cost device that will appeal to hundreds of millions of users both in India 
+and across the world. FreeStream looks forward to supporting  and participating in D2M service 
+deployment for Digital Bharat.”   
+Eric Shin, Founder and CEO of KhushTech Korea said, “We are very delighted to have successfully 
+developed the world’s first D2M Feature Phone. Our low -cost device will be India’s first BIS Certified 
+D2M Feature Phone and is ready for commercialization. We would like to thank our strategic partners 
+Tejas Networks, FreeStream, and Sinclair for their full support in development over the past year and 
+
+a half. We are keen to set up a world -class manufacturing facility in Andhra Pradesh to support 
+Government of India’s “Make in India” initiative and will continue to invest in the development of 
+various D2M embedded products.”    
+Parag Naik, Executive Vice President, Tejas Networks, said, “Our team has worked hard with 
+KhushTech and made clever optimizations to the demodulator, the operating system and middleware 
+to work within the resource constraints of a feature phone environmen t. Our end -to-end 
+productization of D2M allows us to rapidly tweak, test and validate performance.”   
+Chris Ripley, President and CEO, Sinclair, Inc., said, “We applaud KhushTech’s commitment to 
+manufacturing affordable devices that enable large scale adoption of “mobile first” ATSC 3.0.   We are 
+leading the work towards the next release of the standard - “Broadcast to Everything” (B2X) which 
+will unleash next generation broadcast/multicast apps for numerous verticals of Digital Bharat.”   
+About FreeStream    
+Incubated at the prestigious Indian Institute of Technology, Kanpur (IITK), Free Stream Technologies 
+Pvt. Ltd. is India's first and only 'Chips to Platform' DeepTech start -up that is focused on developing, 
+deploying, and managing nationwide network infrast ructure for cutting -edge Direct -to-Mobile 
+(D2M) broadcast technology and related platform services. We communicate our growth strategy at 
+www.freestream.ai    
+   
+About KhushTech   
+KhushTech Korea Co., Ltd. is a Korean company specializing in the development, manufacturing, and 
+sales of Edge technologies related to D2M (ATSC3.0) and Display.   It consists of two business groups, 
+D2M and Display, and is a leading company in the global market.   KhushTech is the first in the world 
+to successfully develop the D2M (ATSC3.0) Feature Phone.   
+In addition, it has developed display products (laptop, tablet PC) equipped with AI functions and is 
+focusing its capabilities on the development of products that support additional AI functions.   For 
+further information, see www.khushtechkorea.com   
+ 
+About Tejas Networks Limited   
+Tejas Networks (BSE: 540595, NSE: TEJASNET) designs and manufactures high -performance 
+wireline and wireless networking products for telecommunications service providers, internet 
+service providers, utilities, defense and government entities in over 75 coun tries. Tejas is an 
+innovative, leading -edge technology company with a wide range of communication products for 
+4G/5G, Optical, Routing, Broadcast and Satellite Communication applications. Tejas Networks Ltd. is 
+a part of the Tata Group, with Panatone Finve st Ltd. (a subsidiary of Tata Sons Pvt. Ltd.) being the 
+majority shareholder. For more information, visit www.tejasnetworks.com   or contact 
+ir@tejasnetworks.com     
+   
+About Sinclair    
+Sinclair, Inc. (Nasdaq: SBGI) is a diversified media company and a leading provider of local broadcast 
+television, including news and sports. Sinclair’s Hunt Valley Maryland -based ONE Media subsidiary 
+has a vision to build and globally deploy innovative “N ext Generation” platforms and technologies for 
+wireless broadcast of enhanced video, data, and nationally important services. Sinclair and ONE 
+Media regularly use their websites as key sources of company information which can be accessed at 
+www.sbgi.net  and www.onemediallc.com  respectively.    
+   
+   
+Media contacts:     
+KhushTech:   Ace Lee +821071037730  acelee@khushtechkorea.com   
+FreeStream: media@freestream.ai   
+Tejas Networks: Santosh Kesavan  skesavan@tejasnetworks.com    
+Sinclair/ONE Media: Jessica Bellucci jbellucci -c@sbgtv.com   
+ 

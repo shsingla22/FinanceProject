@@ -1,0 +1,513 @@
+ 
+ 
+eClerx/SECD/SE/2025/099  
+ 
+August 19 , 2025  
+ 
+BSE Limited  
+Corporate Relationship Department,  
+Phiroze Jeejeebhoy Towers,  
+25th Floor, Dalal Street,  
+Fort, Mumbai - 400 001  National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1,  
+Block G, Bandra - Kurla Complex   
+Bandra (East),  
+Mumbai – 400 051  
+   
+Dear Sir/Madam,  
+ 
+Reg:  Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and  
+              Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)  
+ 
+Sub:  Business Responsibility and Sustainability Report for the financial year ended  March 31, 
+2025 
+ 
+Scrip Code:  BSE - 532927  
+  NSE - ECLERX  
+ 
+In terms of Regulation 34(2)(f) of th e Listing Regulations, please find enclosed the Business  
+Responsibility and Sustainability Report for the financial year ended March 31, 202 5, which also  
+forms part of the Annual Report for FY202 5. 
+ 
+The report is also available on the website of the Company  viz. www.eclerx.com . 
+ 
+This is for your information and record.  
+ 
+Thanking you,  
+ 
+Yours truly,  
+For eClerx Services Limited  
+ 
+ 
+ 
+ 
+Pratik Bhanushali  
+VP – Legal & Compan y Secretary  
+F8538  
+ 
+Encl: A/a  
+ 
+54
+ECLERX SERVICES LIMITED   |  Business Responsibility and Sustainability ReportANNUAL REPORT 2024-25
+BUSINESS RESPONSIBILITY AND 
+SUSTAINABILITY REPORT
+The Business Responsibility and Sustainability Report is presented as prescribed under Regulation 34 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015
+SECTION A: GENERAL DISCLOSURES
+I.
+ D
+etails of the listed entity
+Sr. No. Particulars
+1. Corporate Identity Number (CIN) of the Listed Entity L72200MH2000PLC125319
+2. Name of the Listed Entity eClerx Services Limited
+3. Year of incorporation 2000
+4. Registered office address Sonawala Building, 1st Floor, 29 Bank Street, Fort, 
+Mumbai – 400 023, Maharashtra, India
+5. Corporate address 4th Floor, Express Towers, Nariman Point, 
+Mumbai – 400021
+6. Email id investor@eClerx.com
+7. Telephone +91 (022) 6614 8301
+8. Website www.eClerx.com
+9. Financial year for which reporting is being done Financial year 2024-25 (April 1, 2024 to March 31, 2025)
+10. Name of the Stock Exchange(s) where shares are 
+listed  BSE Limited and National Stock Exchange (NSE) of India Limited
+11. Paid-up Capital Rs. 47,65,03,590
+12. Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR reportName:
+  Srinivasan Nadadhur
+Designation: Chief Financial Officer
+Telephone number: 91 (022) 6614 8301
+E-mail id:  esg@eclerx.com
+13. Reporting boundary  The reporting for this financial year is done for all our delivery centers located in India, which includes offices in Mumbai, Pune, Chandigarh, Mohali, Gurugram and Coimbatore until stated otherwise
+14. Name of the assurance provider TÜV SÜD South Asia Private Limited 
+15. Type of assurance obtained Limited Assurance
+II.
+Products/services
+16. D
+etails of business activities (accounting for 90% of the turnover)
+Sr. No. Description of main activity Description of business activity % of turnover of the entity
+1. Information Technology 
+Enabled ServiceseClerx offers business process management, change management, data-driven insights, and advanced analytics solutions to its clients. 100%
+17. P
+roducts/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Sr No Product/Service NIC Code % of total turnover 
+contributed
+1. Data processing, hosting and related activities; web portal 631 96.43%
+2. Software development, licensing of software products and related services 620 3.57%
+The NIC codes are as per NIC-2008 code list. The percentages of turnover represent our global operations.
+55
+ECLERX SERVICES LIMITED   |  Business Responsibility and Sustainability ReportANNUAL REPORT 2024-25
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated
+Location Number of Plants Number of Offices Total
+National Not Applicable 9 9
+International Not Applicable 20 20
+19. Markets served by the entity
+  a. Number of locations:
+Location Number of Plants
+National (No. of states) 4 States and 1 Union Territory
+International (No. of countries) 15
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 98.4%
+c. A brief on types of customers
+ eClerx provides critical business operations services to over fifty global Fortune 2000 clients, including 
+some of the world’s leading companies across financial services, cable & telecom, retail, fashion, media 
+& entertainment, manufacturing, travel & leisure, software and high-tech.
+IV. Employees
+20. Details as at the end of Financial Year: 2024-25 (March 31, 2025)
+a. Employees (including differ ently abled)
+Sr. No. Particulars Total
+(A)Male Female
+No. (B) % (B/A) No. (C ) % (C/A)
+Employees
+1. Permanent (D) 12,221 7,801 64% 4,420 36%
+2. Other than permanent (E) 4,407 2,659 60% 1,748 40%
+3. Total Employees (D+E) 16,628 10,460 63% 6,168 37%
+Notes: 
+-  eClerx designates everyone in its workforce as ‘employees’, so data specific to workers does not apply
+-  The employee count shown in the table above represents all offices located in India including subsidiaries
+b. Differently abled Employees
+Sr. No. Particulars Total
+(A)Male Female
+No. (B) % (B/A) No. (C ) % (C/A)
+Differently abled Employees
+1. Permanent (D) 12 9 75% 3 25%
+2. Other than Permanent (E) 1 1 100% 0 0%
+3. Total differently abled 
+employees  (D+E)1310 77% 3 23%
+Notes: 
+- eClerx designates everyone in its workforce as ‘employees’, so data specific to workers does not apply.
+- This data pertains only to eClerx locations and subsidiaries in India, as global regulations prohibit employers from 
+collecting personal disability information.
+21. Participation/Inclusion/Representat ion of women
+Sr. No. Particulars Total
+(A)No and % of females 
+No. (B) % (B/A)
+1. Board of Directors 9 1 11.11%
+2. Key Management Personnel 4 0 0%
+Notes: 
+– Mr. PD Mundhra, Executive Director, and Mr. Kapil Jain, MD & Group CEO, are both members of the Board and are also 
+considered Key Managerial Personnel. As such, they are included in both categories.
+56
+ECLERX SERVICES LIMITED   |  Business Responsibility and Sustainability ReportANNUAL REPORT 2024-25
+22. Turnover rate for permanent employees and workers 
+ (Disclose trends for the past 3 years)
+FY  2024-25 FY 2023-24 FY 2022-23
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 36.30% 41.70% 38.20% 44.73% 47.98% 45.88% 33.98% 35.56% 34.77%
+Notes: 
+– eClerx designates everyone in its workforce as ‘employees’, so data specific to workers does not apply.
+– Data for FY 2022-23 represents voluntary employee turnover pertaining to our offices in Mumbai, Pune and Chandigarh only. For FY 
+2023-24 and FY 2024-25 coverage has been extended to include both voluntary and involuntary turnover for our employees at all 
+India locations.
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a)  Names of holding/subsidiary/associate companies/joint ventures
+Sr. 
+No.Name of the holding/subsidiary/associate 
+companies/joint ventures (A)Indicate whether 
+holding/
+Subsidiary/ 
+Associate/Joint 
+Venture% of shares 
+held by 
+listed entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1 eClerx LLC (U.S.A) Subsidiary 100 No
+2 eClerx Private Ltd (Singapore) Subsidiary 100 No
+3 eClerx Investments (UK) Limited Subsidiary 100 No
+4 Eclipse Global Holdings LLC Subsidiary 100 No
+5 CLX Europe Media Solution GmbH Subsidiary 100 No
+6 CLX Europe S.P.A (Italy) Subsidiary 100 No
+7 eClerx Canada Limited Subsidiary 100 No
+8 eClerx B.V. (Netherlands) Subsidiary 100 No
+9 ASEC Group LLC Subsidiary 100 No
+10 CLX Thai Co. Limited (Thailand) Associate 49 No
+11 CLX Europe Media Solution Limited (UK) Subsidiary 100 No
+12 eClerx Philippines Inc. Subsidiary 100 No
+13 eClerx PTY Limited Subsidiary 100 No
+14 Personiv Contact Centers India Private Ltd. Subsidiary 100 Yes
+15 AG Resources (India) Private Limited Subsidiary 100 Yes
+16 Eclipse Global Holdings LLC Subsidiary 100 No
+17 eClerx ME Information Technology 
+Consultants L.L.CSubsidiary 100 No
+18 eClerx Switzerland SA Subsidiary 100 No
+19 Personiv Contact Centers LLC Subsidiary 100 No
+20 eClerx Peru SAC Subsidiary 100 No
+21 eClerx Egypt Subsidiary 100 No
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+ (ii) Turnover (in Rs.):  INR 24,84,36,28,271 (including all Indian entities)  
+ (iii) Net worth (in Rs.): INR 15,26,33,42,240 (including all Indian entities)
+57
+ECLERX SERVICES LIMITED   |  Business Responsibility and Sustainability ReportANNUAL REPORT 2024-25
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct (NGRBC).
+Stakeholder group 
+from whom  
+complaint is receivedGrievance 
+Redressed  
+Mechanism  
+in Place  
+(Yes/No) 
+(If Yes, then provide 
+web-link for grievance 
+redress policy)*FY 2024-25 FY 2023-24
+Number of 
+complaint 
+filed 
+during  
+the yearNumber of 
+complaints 
+pending 
+resolution  
+at close of 
+the yearRemarks Number 
+of 
+complaint 
+filed 
+during  
+the yearNumber of 
+complaints 
+pending 
+resolution  
+at close of 
+the yearRemarks
+Communities Yes 0 0 - 0 0 -
+Investors (other than 
+shareholders)Yes 0 0 - 0 0 -
+Shareholders
+Yes 39 0Non-receipt 
+of dividend 
+and buy-
+back offer 
+letter29 1Non-
+receipt of 
+dividend & 
+proceeds 
+w.r.t. 
+Bonus 
+Issue
+Employees and 
+workers Yes 6 2Sexual 
+Harassment 
+complaints1 1Health 
+and safety, 
+working 
+conditions
+Customers Yes 0 0 - 0 0 -
+Value Chain Partners Yes 0 0 - 0 0 -
+Others N.A. N.A. N.A. N.A. N.A. N.A. N.A.
+Notes:
+– eClerx’s Grievance Redressal mechanism is available on the company’s intranet and can be accessed by all employees. In 
+case of grievances, stakeholders can write to grievance@eclerx.com  which is mentioned in the company’s HR policy. 
+26. Overview of the entity’s material responsible business conduct issues.
+ Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format.
+Sr. 
+No.Material 
+issue 
+identifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the 
+risk/opportunityIn case of risk, approach to 
+adapt or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1Data 
+Privacy 
+& Cyber 
+SecurityRisk & 
+OpportunityRisk
+ ● eClerx is an information 
+technology enabled 
+services company. 
+It deals with large 
+amounts of customer’s 
+financial data and 
+Personal Identifiable 
+Information (PII). Any 
+kind of loss/theft of 
+sensitive data through 
+cyberattacks may 
+lead to operational 
+disruption, reputational 
+damage, legal 
+penalties, and customer 
+churn. ●eClerx is an 
+ISO27001:2022 certified 
+company and is 
+compliant with all the 
+requirements of the 
+standard.
+ ●The company has 
+a well-established 
+IS policy which is 
+governed by the 
+dedicated Information 
+Security Management 
+Team (ISMT).
+ ●eClerx has invested in 
+firewalls, encryption, 
+intrusion detection/
+prevention systems 
+(IDS/IPS), multi-
+factor authentication 
+(MFA) and endpoint 
+protectionNegative
+ ●Cyber-attacks may lead 
+to financial losses in 
+terms of fines/penalties, 
+legal costs, downtime 
+costs, SLA penalties 
+and revenue loss due to 
+customer churn
+ ●Building a robust IT 
+infrastructure requires 
+significant investment 
+in terms of system 
+installations, hiring and 
+training employees and 
+regular audits.
+58
+ECLERX SERVICES LIMITED   |  Business Responsibility and Sustainability ReportANNUAL REPORT 2024-25
+Sr. 
+No.Material issue 
+identifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the 
+risk/opportunityIn case of risk, approach to 
+adapt or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+Opportunity
+ ●eClerx serves over fifty 
+global Fortune 2000 clients. 
+Prioritizing data privacy 
+and cybersecurity helps the 
+Company gain customer 
+trust and competitive 
+advantage. Complying 
+with regulations like GDPR, 
+CCPA, or DPDP Act opens 
+access to regulated markets 
+creating additional revenue 
+opportunities. ●All employees are 
+mandatorily required to go 
+through a biannual training 
+on Information security, 
+phishing, safe data practices, 
+and incident reporting
+ ●eClerx also undergoes annual 
+audits by designated 3rd 
+parties to ensure all systems 
+and control procedures are 
+in placePositive
+ ●Increased customer 
+confidence leading to 
+retention and additional 
+business
+ ●Entry in to regulated 
+markets by building 
+capability to serve privacy-
+conscious customers, 
+ ●Fewer incidents leads to 
+lower insurance premiums.
+2 Corporate 
+Governance 
+and Business 
+EthicsRisk and 
+OpportunityRisk
+ ● Unethical behavior 
+(e.g., fraud, corruption, 
+greenwashing) may lead to 
+public backlash, regulatory 
+action, or boycott. Poor 
+governance may result in 
+violations of corporate laws, 
+insider trading rules, anti-
+bribery regulations, fines, 
+sanctions, or even delisting 
+from the exchanges
+Opportunity
+ ●Strong governance attracts 
+ESG-focused investors 
+and leads to better stock 
+performance over the 
+long term. Transparent, 
+ethical practices build 
+stakeholder loyalty, culture 
+of accountability, risk control, 
+and long-term value creation. ●eClerx has a strong 
+governance framework with 
+clear roles and responsibilities 
+for the Board of Directors, 
+management, and 
+stakeholders
+ ●The company has set-up 
+committees (audit, risk 
+management, remuneration, 
+ESG & CSR, and stakeholder 
+relationship) for checks and 
+balances
+ ● eClerx has created a 
+code of conduct covering 
+conflicts of interest, bribery, 
+discrimination, whistleblower 
+protection, etc. which 
+it enforces and ensures 
+that it is accessible and 
+understandable across all 
+employee levels
+ ● Conducts regular training on 
+business ethics, anti-bribery, 
+harassment, insider trading, 
+etc. for all employees.
+ ● Conducts regular internal and 
+external auditsNegative
+ ● Poor corporate governance 
+and unethical behavior may 
+lead to regulatory penalties 
+which may run into millions 
+or billions.
+ ● Various legal costs 
+(lawsuits, class-action 
+suits, settlements), loss 
+of investor confidence, 
+credit downgrades and 
+reputational damage
+Positive
+ ● Ethical, transparent 
+companies often enjoy 
+lower cost of capital and 
+access to newer markets
+ ● Reduced frauds improve 
+efficiency, employee 
+productivity and ensured 
+shareholder value creation
+3 Human 
+Capital 
+DevelopmentRisk & 
+OpportunityRisk  
+ ●The loss of key people would 
+have significant impacts on 
+organizational and financial 
+development as well as on 
+maturity.
+ ●The high attrition rates 
+significantly raise the 
+organization’s costs. 
+The key determinants of 
+turnover in the industry 
+are underemployment, 
+personal dissatisfaction, 
+organizational support, 
+employee perception, and 
+organizational culture.
+Opportunity
+ ● A skilled and motivated 
+workforce drives operational 
+efficiency and innovation. 
+ ● Continuous upskilling and 
+internal mobility reduces 
+turnover, improves morale 
+and attracts high-performing 
+talent ●eClerx gathers employee 
+feedback to assess 
+satisfaction and identify areas 
+for improvement. Addresses 
+concerns to enhance 
+employee engagement and 
+productivity.
+ ● Trains employees in AI, 
+Generative AI (GenAI), and 
+other emerging technologies. 
+ ● Equips staff with the skills to 
+deploy these technologies in 
+customer projects.
+ ● Ensures eClerx remains 
+competitive and future-
+ready in the evolving tech 
+landscape.Negative
+ ● Attrition costs including 
+recruitment and 
+onboarding may negatively 
+impact the bottom line
+ ● Unfilled roles or poorly 
+trained staff reduce 
+operational output 
+hampering long term 
+profitability and growth
+Positive
+ ● Skilled, engaged employees 
+deliver higher output and 
+innovation
+ ● Retention saves 
+replacement and 
+productivity ramp-up costs

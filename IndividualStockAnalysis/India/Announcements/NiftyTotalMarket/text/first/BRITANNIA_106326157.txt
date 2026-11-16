@@ -1,0 +1,297 @@
+ 
+ 
+ 
+5th August , 202 5 
+    
+To,   
+Corporate Relations Department  
+BSE Limited,  Listing Department  
+National Stock Exchange of India Limited,  
+Phiroze Jeejeebhoy Towers,  Exchange Plaza, C/1, G Block, Bandra -Kurla Complex,  
+Dalal Street, Fort, Mumbai - 400 001  Bandra (East), Mumbai - 400 051 
+Scrip Code: 500825  Scrip Code: BRITANNIA  
+ 
+Dear Sir/Madam,  
+Sub : Outcome of the Board Meeting held on 5th August , 2025  
+Ref : Regulation  30, 33 and other applicable provisions of the Se curities and Exchange Board of India 
+(Listing Obligations and Disclosure Re quirements) Regulations, 2015 (‘SEBI Listing Regulations , 
+2015 ’) 
+ 
+With reference to the subject cited above, this is to inform you that the Board of Directors of the Company at 
+their Meeting held today i.e. , 5th August , 202 5, have  inter -alia, considered and approved  the Unaudited 
+Consolidated and Standalone Financial Results of the Com pany for the quarter ended 30th June, 2025  and 
+authorized Mr. Nusli N. Wadia, Chairman of the Company, to sign the results to be submitted to the Stock 
+Exchanges.  
+Pursuant to Regulation 33 of the SEBI Listing Regulations, 2015, the Unaudited Consolidated and Standalone 
+Financial Resul ts of the Company for the quarter ended 30th June, 2025  along with the Limited Review Reports 
+issued by M/s. Walker Chandiok & Co LLP, Statutory Auditors are enclosed as ‘Annexure -I’. 
+Furth er, pursuant to Regulation 47  of the SEBI Listing Regulations, 2015, the said Financial Results along with a 
+Quick Response  (QR)  code and the details of the webpage where complete Financial Results are available, will 
+be published in the Newspapers.  
+The above information shall also be  made availabl e on the website of the Company at www.britannia.co.in .  
+The Board Meeting commenced at 11:45 A .M. IST and concluded at 5:00  P.M. IST. 
+Request you to take the above information on records.  
+Yours faithfully,  
+For Britannia Industries Limited  
+ 
+ 
+ 
+T.V. Thulsidass  
+Company Secretary  
+Membership No.: A20927  
+Encl.: as above  
+PART I (₹ in Crores)
+Statement of Consolidated Financial Results for the quarter ended 30 June 2025
+ YEAR ENDED 
+30.06.2025 31.03.2025 30.06.2024 31.03.2025
+(Unaudited) (Audited) 6(Unaudited) (Audited)
+IRevenue from operations
+Sale of goods            4,534.86            4,375.57            4,129.92 17,535.02              
+Other operating revenues                  87.36                  56.62               120.37 407.65                   
+Total revenue from operations            4,622.22            4,432.19            4,250.29 17,942.67              
+IIOther income                  57.01                  63.02 55.61                 227.09                   
+IIITotal income (I+II)            4,679.23            4,495.21            4,305.90 18,169.76              
+IVExpenses
+Cost of materials consumed 2,550.87           2,439.63           2,211.87           9,859.45                
+Purchases of stock-in-trade 206.80               206.27               190.34               809.35                   
+Changes in inventories of finished goods, stock-in-trade and work-in-progress 1.43                   9.04                                      3.20 (64.75)                    
+Employee benefits expense 241.86               164.51               201.95               704.59                   
+Finance costs 26.15                 30.65                 28.95                 138.80                   
+Depreciation and amortisation expense 82.04                 80.96                 73.93                 313.34                   
+Other expenses 864.21               807.57               889.27               3,446.88                
+Total expenses 3,973.36           3,738.63           3,599.51           15,207.66              
+VProfit before share of profit / (loss) of associates and joint venture (III-IV) 705.87              756.58              706.39              2,962.10                
+VIShare of loss in associates and joint venture (4.85)                 (4.65)                 (0.65)                 (10.74)                    
+VIIProfit before exceptional items and tax (V+VI) 701.02              751.93              705.74              2,951.36                
+VIII Exceptional item - Expense (Refer note 7) -                     -                     24.64                 24.79                      
+IXProfit before tax (VII-VIII) 701.02              751.93                            681.10                 2,926.57 
+XTax expense :
+(i) Current tax 185.41               183.87               179.45               741.68                   
+(ii) Deferred tax charge (4.52)                  8.93                   (3.23)                  7.03                        
+Total tax expense 180.89              192.80              176.22              748.71                   
+XINet profit for the period / year (IX-X) 520.13              559.13                            504.88 2,177.86                
+XIIOther comprehensive income / (loss) (net of tax)
+A (i) Items that will not be reclassified subsequently to profit or loss
+- Remeasurements of the net defined benefit plans -                     (1.92)                  -                     (1.92)                       
+(ii) Income tax relating to items that will not be reclassified subsequently to profit or loss -                     0.50                   -                     0.50                        
+B  Items that will be reclassified subsequently to profit or loss
+- Foreign currency translation reserve 0.97                   (1.41)                                     1.38 7.68                        
+Total other comprehensive (loss) / income (net of tax) 0.97                   (2.83)                 1.38                   6.26                        
+XIII Total comprehensive income for the period / year (XI+XII) 521.10              556.30              506.26              2,184.12                
+XIV Profit / (loss) attributable to:
+Owners of the Company 520.72               559.95               505.64               2,178.73                
+Non-controlling interests (0.59)                  (0.82)                  (0.76)                  (0.87)                       
+Profit for the period / year 520.13              559.13              504.88              2,177.86                
+XVOther comprehensive income / (loss) attributable to:
+Owners of the Company 0.97                   (2.42)                  0.66                   5.85                        
+Non-controlling interests -                     (0.41)                  0.72                   0.41                        
+Other comprehensive income / (loss)   for the period / year 0.97                   (2.83)                 1.38                   6.26                        
+XVI Total comprehensive income / (loss) attributable to:
+Owners of the Company 521.69               557.53               506.30               2,184.58                
+Non-controlling interests (0.59)                  (1.23)                  (0.04)                  (0.46)                       
+Total comprehensive income for the period / year 521.10              556.30              506.26              2,184.12                
+XVII Paid-up equity share capital (face value of ₹ 1 each) 24.09                 24.09                 24.09                 24.09                      
+XVIII Other equity 4,331.63                
+XIX Earnings per share (face value of ₹ 1 each) (not annualised):
+                        (a) Basic (₹) 21.62                 23.25                 20.99                 90.45                      
+                        (b) Diluted (₹) 21.62                 23.25                 20.99                 90.45                      
+ See accompanying notes to the consolidated financial results continued…Consolidated Financial Results
+PARTICULARS S.No.QUARTER ENDEDBRITANNIA INDUSTRIES LIMITED
+(Corporate Identity Number: L15412WB1918PLC002964)
+Registered Office: 5/1A, Hungerford Street, Kolkata - 700 017, West Bengal, India
+Tel: +91 33 22872439/2057, +91 80 37687100
+Website: www.britannia.co.in ; E-mail id: investorrelations@britindia.com
+
+ Notes:
+1.
+YEAR ENDED
+30.06.2025 31.03.2025 30.06.2024 31.03.2025
+(Unaudited) (Audited) 6(Unaudited) (Audited)
+Total revenue from operations         4,452.74         4,282.51         4,094.44           17,295.92 
+Profit before tax            674.20            746.35            675.65             2,867.77 
+Net profit for the period / year            498.27            557.10            502.08             2,130.72 
+Total comprehensive income            498.27            555.79            502.08             2,129.41 
+2.
+3.
+4.
+5.
+6.
+7.
+Place: Mumbai
+Date: 5 August 2025Exceptional item forthequarter ended 30June 2024 and fortheyear ended 31March 2025 include cost incurred of₹18.51 crores towards own workers
+with respect toVoluntary Retirement Scheme announced bytheCompany inone ofitsfactories. Inaddition, cost was incurred bytheCompany towards
+contract labourers ofthe said factory forthe quarter ended 30June 2024 and forthe year ended 31March 2025 of₹6.13 crores and ₹6.28 crores
+respectively.The figures forthequarter ended 31March 2025 arethebalancing figures between theaudited figures inrespect ofthefullfinancial year and thepublished
+unaudited year todate figures upto third quarter ofthefinancial year. Also thefigures upto theend ofthethird quarter were only reviewed and notsubject
+to audit.The Statutory Auditors oftheCompany have carried outalimited review oftheabove unaudited consolidated financial results forthequarter ended 30June
+2025 and they have issued anunmodified Review Report onthesame. The Review Report oftheStatutory Auditors isbeing filed with theNSE and BSE and is
+also available on the Company's website.The results have been reviewed and recommended by the Audit Committee of the Board and approved by the Board of Directors on 5 August 2025.The operating segment oftheGroup isidentified tobe"Foods", astheChief Operating Decision Maker reviews business performance atanoverall Group
+level asone segment. Therefore, thedisclosure asperRegulation 33(1)(e) read with Clause (L)ofSchedule IVoftheSEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 is not applicable to the Group.The unaudited consolidated financial results forthe quarter ended 30June 2025 ('the results') ofBritannia Industries Limited ('the Company') and its
+subsidiaries (collectively 'the Group') and itsassociates and itsjoint venture have been prepared inaccordance with Indian Accounting Standards ('Ind AS')
+prescribed under Section 133 ofCompanies Act, 2013 ('The Act') read with therelevant rules thereunder and interms ofRegulation 33oftheSEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015.The unaudited standalone financial results forthequarter ended 30June 2025 can beviewed onthewebsite oftheCompany, National Stock Exchange of
+India Limited ('NSE') and BSE Ltd ('BSE') atwww.britannia.co.in ,www.nseindia.com and www.bseindia.com respectively. Information ofunaudited
+standalone financial results oftheCompany interms ofRegulation 47(1)(b) ofthe Securities and Exchange Board ofIndia ('SEBI') (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 is as under:
+ QUARTER ENDED 
+PARTICULARS
+ChairmanNusli N. WadiaOn behalf of the Board of Directors
+For Britannia Industries Limited
+ 
+ 
+    Walker Chandiok & Co LLP  
+5th Floor, No.65/2, Block “A”, 
+Bagmane Tridib, Bagmane  
+Tech Park, C V Raman Nagar, 
+Bengaluru 
+560093                                                                                                                       
+ 
+T  +91 80 4243 0700 
+F +91 80 4126 1228  
+ 
+ 
+   
+   
+   
+   
+Chartered Accountants 
+ 
+Offices in Bengaluru, Chandigarh, Chennai, Gurugram, Hyderabad, Kochi, Kolkata, Mumbai, New Delhi, Noida and Pune 
+ Walker Chandiok & Co LLP is registered  
+with limited liability with identification  
+number AAC-2085 and its registered office  
+at L-41 Connaught Circus, New Delhi,  
+110001, India   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent Auditor’s Review Report on the Consolidated Unaudited Quarterly Financial Results of the Company 
+pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+(as amended) 
+ 
+To the Board of Directors of Britannia Industries Limited  
+ 
+1. We have reviewed the accompanying statement of the consolidated unaudited financial results (‘the Statement’) of 
+Britannia Industries Limited  (‘the Holding Company’) and its subsidiaries (the Holding Company and its subsidiaries 
+together referred to as ‘the Group’), its associates and joint venture (refer Annexure 1 for the list of subsidiaries,  
+associates and joint ventures included in the Statement) for the quarter ended  30 June 2025, being submitted by the 
+Holding Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (as amended) (‘Listing Regulations’).  
+ 
+2. This Statement, which is the responsibility of the Holding Company’s management and approved by the Holding 
+Company's Board of Directors, has been prepared in accordance with the recognition and measurement principles 
+laid down in Indian Accounting Standard 34, Interim Financial Reporting (‘Ind AS 34’), prescribed under Section 133 
+of the Companies Act, 2013 (‘the Act’), and other accounting principles generally accepted in India and is in 
+compliance with the presentation and disclosure requirements of Regulation 33 of the Listing Regulations. Our 
+responsibility is to express a conclusion on the Statement based on our review. 
+ 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410, 
+Review of Interim Financial Information Performed by the Independent Auditor of the Entity, issued by the Institute of 
+Chartered Accountants of India. A review of interim financial information consists of making inquiries, primarily of 
+persons responsible for financial and accounting matters, and applying analytical and other review procedures.  
+A review is substantially less in scope than an audit conducted in accordance with the Standards on Auditing specified 
+under Section 143(10) of the Act, and consequently, does not enable us to obtain assurance that we would become 
+aware of all significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion. 
+ 
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33 (8) of the 
+Listing Regulations, to the extent applicable. 
+ 
+ 
+ 
+ 
+Chartered Accountants  4. Based on our review conducted and procedures performed as stated in paragraph 3 above , nothing has come to our 
+attention that causes us to believe that the accompanying Statement, prepared in accordance with the recognition 
+and measurement principles laid down in Ind AS 34, prescribed under Section 133 of the Act, and other accounting 
+principles generally accepted in India, has not disclosed the information required to be disclosed in accordance with 
+the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+(as amended), including the manner in which it is to be disclosed, or that it contains any material misstatement. 
+ 
+ 
+ 
+ 
+For Walker Chandiok & Co LLP  
+Chartered Accountants 
+Firm Registration No: 001076N/N500013 
+ 
+ 
+ 
+Aasheesh Arjun Singh 
+Partner    
+Membership No. 210122  
+UDIN : 25210122BMONCS5061 
+ 
+Mumbai 
+05 August 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chartered Accountants  Annexure 1 to the Independent Auditor’s Review Report on the Consolidated Unaudited Quarterly Financial 
+Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (as amended). 
+List of subsidiaries, associates and joint venture included in the Statement 
+Sr. 
+No. Name of the Company Country of 
+Incorporation Subsidiary/Associate/ 
+Joint Venture 
+1 Boribunder Finance and Investments Private Limited India  Subsidiary 
+2 Flora Investments Company Private Limited India  Subsidiary 
+3 Gilt Edge Finance and Investments Private Limited India  Subsidiary 
+4 Ganges Vally Foods Private Limited India  Subsidiary 
+5 International Bakery Products Limited India  Subsidiary 
+6 J. B. Mangharam Foods Private Limited India  Subsidiary 
+7 Manna Foods Private Limited India  Subsidiary 
+8 Sunrise Biscuit Company Private Limited India  Subsidiary 
+9 Vasana Agrex and Herbs Private Limited India Subsidiary 
+10 Snacko Bisc Private Limited India Subsidiary 
+11 Britchip Foods Limited India  Subsidiary 
+12 Britannia Employees Educational Welfare Association 
+Private Limited India  Subsidiary – Limited by 
+Guarantee 
+13 Britannia Employees Medical Welfare Association Private 
+Limited India  Subsidiary – Limited by 
+Guarantee 
+14 Britannia Employees General Welfare Association Private 
+Limited India  Subsidiary – Limited by 
+Guarantee 
+15 Britannia and Associates (Mauritius) Private Limited Mauritius  Subsidiary 
+16 Britannia and Associates (Dubai) Private Company Limited  Dubai, UAE Subsidiary 
+17 Al Sallan Food Industries Company SAOG Oman  Subsidiary 
+18 Strategic Food International Company LLC Dubai, UAE  Subsidiary 
+19 Strategic Brands Holding Company Limited Dubai, UAE Subsidiary 
+20 Britannia Dairy Holdings Private Limited Mauritius  Subsidiary 
+21 Britannia Nepal Private Limited Nepal  Subsidiary 
+22 Britannia Bangladesh Private Limited Bangladesh  Subsidiary 
+23 Britannia Egypt LLC Egypt  Subsidiary 
+24 Strategic Foods Uganda Limited Uganda  Subsidiary 
+25 Kenafric Biscuits Limited Kenya  Subsidiary 
+26 Catalyst Britania Brands Limited Mauritius  Subsidiary 
+27 Britannia Bel Foods Private Limited India  Joint venture 
+28 Nalanda Biscuit Company Limited India  Associate company 
+29 Sunandaram Foods Private Limited India  Associate company 
+30 Fairsun Solar Private Limited India Associate company 
+ 
