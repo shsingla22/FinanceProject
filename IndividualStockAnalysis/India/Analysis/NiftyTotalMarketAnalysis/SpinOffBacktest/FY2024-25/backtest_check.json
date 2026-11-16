@@ -5,9 +5,9 @@
   "register_demergers": 5,
   "captured": 5,
   "missed": 0,
-  "confirmed_in_skill": 21,
-  "verified": 20,
-  "verified_later": 10,
+  "confirmed_in_skill": 20,
+  "verified": 19,
+  "verified_later": 9,
   "pending": 1,
   "false_positives": 0
  },

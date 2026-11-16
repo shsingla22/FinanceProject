@@ -46,17 +46,24 @@ schemes before their record date cannot be tested against it.
 | Register demergers in the window | 5 | 18 |
 | Captured as confirmed / probable demergers | 5 | 18 |
 | Missed (absent, or held as merger / other) | 0 | 0 |
-| Confirmed demergers in the skill | 21 | 41 |
-| …verified by a register record date or the company's own listing | 10 | 23 |
-| …verified by a record date that came AFTER the as-of date | 10 | — |
+| Confirmed demergers in the skill | 20 | 39 |
+| …verified by a register record date or the company's own listing | 10 | 21 |
+| …verified by a record date that came AFTER the as-of date | 9 | — |
 | …pending (no record date to date) | 1 | 18 |
 | False positives | 0 | 0 |
 | Situations in all | 1,380 | 2,182 |
 
-The FY2024-25 run is the stronger test: of 21 demergers it called confirmed on 31 March 2025,
-20 have since reached a record date or a listing, and the one that has not — Adani Enterprises'
+Demergers whose record date is more than two years before the run (Sanofi India and Raymond
+Lifestyle in the long window) are marked mature and counted as captured, not confirmed: the
+notes' second year is over.
+
+The FY2024-25 run is the stronger test: of 20 demergers it called confirmed on 31 March 2025,
+19 have since reached a record date or a listing, and the one that has not — Adani Enterprises'
 food-FMCG demerger into Adani Wilmar — was a real scheme on the exchange record that the
 company later withdrew (no withdrawal filing fell inside the window).
+
+The production run of 2026-11-16 (400-day window, full report) ends the same way: 8 of 8
+register demergers captured, 0 missed, 0 false positives, 32 confirmed demergers.
 
 The 18 pending as of today are mostly schemes in flight with a stated listing: UPL, Astra
 Microwave, Lemon Tree (Fleur), Natco (crop health), Apollo Hospitals (Healthtech), Refex,

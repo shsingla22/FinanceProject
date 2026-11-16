@@ -7,8 +7,8 @@
 | Demergers in NSE's register (universe) | 5 |
 | …captured by the skill as demergers | 5 |
 | …MISSED | 0 |
-| Confirmed demergers in the skill | 21 |
-| …verified by a register record date | 20 |
+| Confirmed demergers in the skill | 20 |
+| …verified by a register record date | 19 |
 | …pending (no record date yet, not verifiable) | 1 |
 | …FALSE POSITIVES | 0 |
 
@@ -31,8 +31,7 @@
 | **CCAVENUE** | record_date | 2024-09-11 | 2024-09-11 | Global Top Level Domain (GTLD) Undertaking — the dot-triple-O top-level domain a | verified by the register |
 | **DBREALTY** | nclt_sanction |  | 2025-07-18 | The hospitality business — operating and under-construction luxury/upscale hotel | verified by a later record date (2025-07-18) |
 | **HEGAM** | announced |  | 2026-09-07 | Graphite Business — graphite electrode manufacturing plus 76.5 MW captive power  | verified by a later record date (2026-09-07) |
-| **HINDUNILVR** | announced |  | 2025-12-05 | HUL's Ice Cream Business Undertaking, including brands Kwality Wall's, Cornetto  | verified by a later record date (2025-12-05) |
-| **INDIAGLYCO** | announced |  | 2026-09-02 | Biopharma Undertaking into Ennature Bio Pharma Limited, and Spirits and Biofuel  | verified by a later record date (2026-09-02) |
+| **HINDUNILVR** | announced |  | 2025-12-05 | HUL's Ice Cream Business Undertaking — ice cream, frozen desserts and related br | verified by a later record date (2025-12-05) |
 | **INOXGREEN** | announced |  | 2026-08-01 | Power Evacuation Business of Inox Green, with associated activities, assets and  | verified by a later record date (2026-08-01) |
 | **ITC** | record_date | 2025-01-06 | 2025-01-06 | The Hotels Business of ITC Limited, demerged into ITC Hotels Limited on a going  | verified by the register |
 | **NUVAMA** | listed | 2023-09-26 |  | Wealth Management Business Undertaking (including merchant banking business) of  | verified by NSE's equity list — this company is the listed resulting company (listed 2023-09-26) |
@@ -44,7 +43,7 @@
 | **SKFINDIA** | exchange_noc |  | 2025-10-15 | SKF India's Industrial Business — rolling bearings, seals, rotating shaft servic | verified by a later record date (2025-10-15) |
 | **STAR** | listed | 2024-12-11 | 2024-12-06 | Identified CDMO and Soft Gelatin (softgel/oral technologies) businesses of Strid | verified by the register |
 | **STLTECH** | record_date |  | 2025-04-24 | Global Services Business — fibre roll-out, end-to-end system integration and net | verified by the register |
-| **TMPV** | effective |  | 2025-10-14 | Tata Motors' Commercial Vehicles Business, with its related investments, demerge | verified by a later record date (2025-10-14) |
+| **TMPV** | effective |  | 2025-10-14 | Tata Motors' Commercial Vehicles Business, demerged into TMLCV; the listed compa | verified by a later record date (2025-10-14) |
 | **TRIVENI** | announced |  | 2026-07-22 | Power Transmission Business (gears and defence segments) transferred and vested  | verified by a later record date (2026-07-22) |
 | **VEDL** | nclt_sanction |  | 2026-05-01 | Aluminium, merchant power, oil & gas and iron ore undertakings of Vedanta Limite | verified by a later record date (2026-05-01) |
 

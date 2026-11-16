@@ -9,9 +9,9 @@
 | Universe demergers with a record date in the window (NSE register) | 5 |
 | …captured by the skill as confirmed / probable demergers | 5 |
 | …MISSED (absent, or held as merger / other) | 0 |
-| Confirmed demergers in the skill as of 2025-03-31 | 21 |
+| Confirmed demergers in the skill as of 2025-03-31 | 20 |
 | …verified by a register record date or the company's own listing | 10 |
-| …verified by a record date that came AFTER 2025-03-31 (the register up to today) | 10 |
+| …verified by a record date that came AFTER 2025-03-31 (the register up to today) | 9 |
 | …pending (no record date to date) | 1 |
 | …FALSE POSITIVES | 0 |
 | Probable demergers | 26 |
@@ -41,7 +41,6 @@
 | **QUESS** | record_date | RECORD DATE 2025-04-15; listing pending | verified by the register |
 | **TMPV** | effective | RECORD DATE set; listing pending | verified by a later record date (2025-10-14) |
 | **TRIVENI** | announced | NOT YET (announced); timeline stated | verified by a later record date (2026-07-22) |
-| **INDIAGLYCO** | announced | NOT YET (announced); timeline stated | verified by a later record date (2026-09-02) |
 | **INOXGREEN** | announced | NOT YET (announced); timeline stated | verified by a later record date (2026-08-01) |
 | **RAYMOND** | record_date | LISTED since ~2024-07-11 | verified by the register |
 | **SKFINDIA** | exchange_noc | NOT YET (exchange_noc); timeline stated | verified by a later record date (2025-10-15) |

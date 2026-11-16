@@ -589,30 +589,6 @@
  },
  "HINDUNILVR": {
   "stamps": {
-   "4f5fbc67fd8cfa0f680354a3df7472f8": {
-    "what_is_spun": "HUL's Ice Cream business undertaking, demerged into Kwality Wall's (India) Limited on a going-concern basis",
-    "demerged_business_names": [
-     "Ice Cream Business Undertaking",
-     "Ice Cream business",
-     "Demerged Undertaking",
-     "Kwality Wall's (India) Limited",
-     "KWIL",
-     "Kwality Wall's",
-     "Cornetto",
-     "Magnum"
-    ],
-    "reason": "\"Creation of a leading listed ice cream company in India with focused management having greater flexibility to deploy strategies suited to the Ice Cream businesses' distinctive operating model and market dynamics, to realise its full potential\"",
-    "reason_class": "value_unlocking",
-    "insiders": "Promoter stake in KWIL not stated; HUL's own shareholding in KWIL was reduced and cancelled and KWIL ceased to be a subsidiary. KWIL has a dedicated management team (Chitrank Goel, Deputy MD; Prashant Premrajka, CFO) drawn from HUL.",
-    "hidden_value": "Cost apportionment puts KWIL at only 1.91% of HUL's value versus 98.09%, set on net assets as at 30 November 2025 \u2014 a small, separately listed ice-cream pure-play, 2,34,95,91,262 shares of Re 1, with Kwality Wall's, Cornetto and Magnum.",
-    "selling_pressure": "likely",
-    "selling_pressure_why": "Very small relative size (1.91% of pre-demerger cost basis) distributed 1:1 to every HUL holder; a separate ice-cream company versus a large FMCG parent.",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "FAQ dated 29th November 2025: \"the statutory timeline for the listing and commencement of trading of shares of KWIL is within a period of 60 days from the receipt of the certified copy of the order of the NCLT sanctioning the Scheme (in or around Q4 of FY26)\"; filing dated 13th February 2026 confirms listing and trading approval received 12th February 2026 for 2,34,95,91,262 equity shares with \"Date of Commencement of Trading: ... 16th February, 2026\"",
-    "read_next": "KWIL's first standalone results and balance sheet \u2014 the net assets behind the 1.91% cost apportionment.",
-    "quote": "The Scheme has come into effect on 1st December , 2025, being the Effective Date (as defined under the Scheme )."
-   },
    "4919e31596c660b18ba0b526aa889811": {
     "what_is_spun": "HUL's Ice Cream Business Undertaking, including brands Kwality Wall's, Cornetto and Magnum, demerged on a going-concern basis",
     "demerged_business_names": [
@@ -683,6 +659,30 @@
     "listing_timeline": "FAQ dated 29 November 2025: \"the statutory timeline for the listing and commencement of trading of shares of KWIL is within a period of 60 days from the receipt of the certified copy of the order of the NCLT sanctioning the Scheme (in or around Q4 of FY26)\"; listing and trading approval received 12 February 2026, with \"Date of Commencement of Trading: ... 16th February, 2026\" for 2,34,95,91,262 shares of Re. 1 each.",
     "read_next": "KWIL's first standalone results, and the net assets of the Ice Cream Business Undertaking at 30 November 2025 underlying the 1.91% allocation.",
     "quote": "The aforesaid ratio has been determined based on the net worth of HUL and the net assets of the Ice Cream Business Undertaking, as at 30 November 2025, in accordance with Sections 49(2C) and 49(2D) of the Act."
+   },
+   "97bde61461bab10ef9a6b80e29593650": {
+    "what_is_spun": "HUL's Ice Cream Business Undertaking \u2014 ice cream, frozen desserts and related brands \u2014 into Kwality Wall's (India) Limited",
+    "demerged_business_names": [
+     "Ice Cream Business Undertaking",
+     "Ice Cream business",
+     "Kwality Wall's (India) Limited",
+     "KWIL",
+     "Resulting Company",
+     "Kwality Wall's",
+     "Cornetto",
+     "Magnum"
+    ],
+    "reason": "Parent Unilever PLC is separating ice cream globally; the business has a different operating model, differentiated supply/distribution infrastructure, capital allocation needs and distinct channel and go-to-market strategy; demerger sharpens focus and unlocks value",
+    "reason_class": "regulatory_strategic",
+    "insiders": "No change in HUL's shareholding pattern; promoter/promoter group have no interest in KWIL except through HUL's wholly owned subsidiary; shares issued 1:1 to all HUL shareholders. Management stake/incentives not stated",
+    "hidden_value": "A small, separately listed high-growth business: FY24 turnover INR 1,595 crore (2.7% of standalone turnover), iconic brands Kwality Wall's, Cornetto, Magnum, 'mid to high single digit profitability', high investment and low margin, retaining access to global ice cream portfolio, brand, innovation and technical expertise",
+    "selling_pressure": "likely",
+    "selling_pressure_why": "Tiny relative size (2.7% of turnover, INR 1,595 crore), distinct operating model and lower profitability; every HUL holder receives 1:1 shares",
+    "parent_or_spin": "spin",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated as a date; on 22nd January 2025 the Board said 'Yes, the Resulting Company is proposed to be listed on BSE Limited and the National Stock Exchange of India Limited subject to receipt of requisite approvals from statutory and regulatory authorities', with the Scheme subject to shareholder, creditor, NCLT, SEBI and exchange approvals; on 25th November 2024 the Board said the scheme of demerger would be placed before the Board 'early next year'; in the January 2025 earnings call management said demerger activities 'will be executed with agility to bring them to a closure as per timelines'",
+    "read_next": "The Scheme of Arrangement itself \u2014 definition of the Ice Cream Business Undertaking, its assets/liabilities, royalty and brand-licence terms with Unilever",
+    "quote": "The demerger will unlock fair value for HUL shareholders and give them the flexibility to stay invested in Ice Cream's growth journey."
    }
   }
  },
@@ -1896,32 +1896,6 @@
  },
  "TMPV": {
   "stamps": {
-   "7a49b1ed2d5cbbdd62842478267eef81": {
-    "what_is_spun": "The Commercial Vehicles business, demerged from Tata Motors Limited into TML Commercial Vehicles Limited, now renamed Tata Motors Limited",
-    "demerged_business_names": [
-     "Commercial Vehicles Business",
-     "demerged undertaking (i.e., undertaking relating to Commercial Vehicles Business)",
-     "CV business",
-     "TML Commercial Vehicles Limited",
-     "TMLCVL",
-     "TMLCV",
-     "TMCV",
-     "Tata Motors Limited (formerly TML Commercial Vehicles Limited)",
-     "Resulting Company",
-     "TMLCV / TMLCVL Resulting Company"
-    ],
-    "reason": "Documents state only that the Composite Scheme housed the Commercial Vehicle and Passenger Vehicle businesses in two separate entities, with amalgamation of TMLPV aimed at consolidating the Passenger Vehicles Business; demerger rationale not stated",
-    "reason_class": "regulatory_strategic",
-    "insiders": "Tata Sons Private Limited is Promoter; promoter group held 1,565,402,703 of 3,682,582,902 shares (~42.5%), mirrored 1:1 in the resulting company. P B Balaji (4,93,186 shares) is a director of the CV entity.",
-    "hidden_value": "Separation leaves the parent as cars/SUVs plus JLR: India PV net cash ~Rs.7,000 Cr with 15% FY26 volume growth, over 40% EV share, while JLR carries Rs.33,000 Cr net debt and 0.7% EBIT; CV took 31.15% of cost base.",
-    "selling_pressure": "likely",
-    "selling_pressure_why": "Every PV holder received 1:1 shares in a smaller, different-industry commercial-vehicle entity (31.15% of apportioned cost); index effects not stated.",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "On November 10, 2025: TMCV \"has received approval from BSE Limited and National Stock Exchange of India Limited for listing and trading of its equity shares, effective November 12, 2025\"; shares allotted per letter dated October 15, 2025, record date October 14, 2025",
-    "read_next": "Clause 9 of the Composite Scheme (NCLT orders August 25 / September 10, 2025) on share-based incentives, plus TMCV's own standalone results",
-    "quote": "In this regard, we wish to inform that TMCV has intimated the Company today that it has received approval from BSE Limited and National Stock Exchange of India Limited for listing and trading of its equity shares, effective November 12, 2025."
-   },
    "ee706e4016df176bf46596c16e6393c7": {
     "what_is_spun": "Tata Motors' Commercial Vehicles Business, with its related investments, demerged into TML Commercial Vehicles Limited (later renamed Tata Motors Limited)",
     "demerged_business_names": [
@@ -1995,6 +1969,38 @@
     "listing_timeline": "Said November 1, 2025: equity shares \"will be listed on the Bombay Stock Exchange and the National Stock Exchange of India Limited. The process for listing is currently underway.\" Said November 10, 2025: BSE and NSE approval received \"for listing and trading of its equity shares, effective November 12, 2025.\" Allotment of 3,68,23,31,373 shares was on October 15, 2025.",
     "read_next": "Tata Motors Limited (formerly TML Commercial Vehicles) own results \u2014 the 31.15% cost-basis entity's margins, net debt and Rs 4 dividend.",
     "quote": "In this regard, we wish to inform that TMCV has intimated the Company today that it has received approval from BSE Limited and National Stock Exchange of India Limited for listing and trading of its equity shares, effective November 12, 2025."
+   },
+   "40664787ea4df94baea57da3a77d6cbe": {
+    "what_is_spun": "Tata Motors' Commercial Vehicles Business, demerged into TMLCV; the listed company keeps Passenger Vehicles, EV and JLR",
+    "demerged_business_names": [
+     "Commercial Vehicles Business",
+     "Demerged Undertaking",
+     "CV business undertaking",
+     "TML Commercial Vehicles Limited",
+     "TMLCV",
+     "Resulting Company",
+     "TML CV",
+     "Tata Motors Limited (post-scheme renamed Resulting Company)",
+     "Passenger Vehicles Business",
+     "Passenger Vehicle business",
+     "Tata Motors Passenger Vehicles Limited",
+     "TMPV",
+     "Amalgamating Company",
+     "Amalgamated Company",
+     "Electric Vehicle (TPEM) business",
+     "JLR"
+    ],
+    "reason": "Distinctive profiles and business models suit separately listed entities: sharper strategic focus, better control, greater agility, accountability, unlocking value through price-discovery and attracting investors specific to each business profile.",
+    "reason_class": "value_unlocking",
+    "insiders": "TMLCV promoters hold 100% pre-scheme, 41.22% post-scheme (indicative), public 58.78%; shareholding mirrors TML with \"identical shareholding (including common promoters)\". No change in TML's own shareholding pattern.",
+    "hidden_value": "CV was ~99% of TML standalone FY24 total income (\u20b973,116.64 crore of \u20b973,729.04 crore), so PV/EV/JLR value sat in subsidiaries \u2014 TMPV standalone income \u20b951,206.32 crore, net worth \u20b98,360.91 crore; appointed-date asset ratio ~60:40 CV:PV.",
+    "selling_pressure": "unclear",
+    "selling_pressure_why": "Documents state only 1:1 mirror shareholding and listing of all new shares on BSE and NSE; no index or size commentary.",
+    "parent_or_spin": "both",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "Aug 1, 2024: approvals \"can take around 12-15 months to complete\"; appointed date \"opening of business hours of July 01, 2025\"; Jan 29, 2025 call: \"expecting to have the appointed date as July 1st\u2026 effective date is likely to be more like October this year\"; listing on BSE and NSE sought, subject to exchange approvals.",
+    "read_next": "The composite scheme itself \u2014 PwC share entitlement report, the 60:40 CV:PV asset split, and the still-unfixed demerger record date.",
+    "quote": "The effectiveness of the Scheme would result in creation of two listed companies with mirror shareholding with the Resulting Company housing the Commercial Vehicles Business and the Amalgamated Company housing the Passenger Vehicles Business."
    }
   }
  },
@@ -71743,26 +71749,6 @@
  },
  "CANBK": {
   "stamps": {
-   "62a7fe6631eb3b88e289754f5c6dcd41": {
-    "what_is_spun": "Minority stakes in two Canara Bank subsidiaries \u2014 Canara HSBC Life Insurance and Canara Robeco Asset Management \u2014 sold via IPO",
-    "demerged_business_names": [
-     "Canara HSBC Life Insurance Company Limited",
-     "Canara HSBC Life",
-     "Canara Robeco Asset Management Company Limited",
-     "Canara Robeco"
-    ],
-    "reason": "No reason stated in the 2024-05-31 filing beyond 'diluting 14.50% stake... by listing the Company'; calls frame it as 'unlocking the benefit' with ~Rs 2,000 crore listing gain.",
-    "reason_class": "value_unlocking",
-    "insiders": "Canara Bank remains promoter: 51% to 36.50% in Canara HSBC Life, 51% to 38% in Canara Robeco. Promoter absorbed ~Rs 80 crore IPO charges. Management: 'Going ahead we don't foresee any dilution.'",
-    "hidden_value": "Parent keeps 36.5%/38% of two listed, 'professionally managed' subsidiaries plus 'threefold benefit': agency commission as distribution franchisee of 10,131 branches, growing subsidiary valuations, ~Rs 320 crore of subsidiary profit booked at parent.",
-    "selling_pressure": "unlikely",
-    "selling_pressure_why": "Shares were sold into an IPO to willing buyers, not distributed to Canara Bank shareholders; no index-exclusion dumping described.",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "Canara Robeco 'got listed today (16.10.2025) on National Stock Exchange of India Limited and BSE Ltd' (said 16.10.2025); Canara HSBC Life 'got listed today (17.10.2025)' (said 17.10.2025); earlier SEBI UDRHP approvals 29.09.2025 and 02.10.2025",
-    "read_next": "Canara HSBC Life's SEBI-approved UDRHP (approved 02.10.2025) for the insurer's standalone financials and embedded value",
-    "quote": "Canara Bank has accorded approval for initiating the process of diluting 14.50% stake of the Bank in its subsidiary M/s Canara HSBC Life Insurance Company Ltd by listing the Company in Stock Exchanges (BSE/NSE) through Initial Public Offer (IPO)."
-   },
    "dec8a9c0197ddcbc3805bf614539584a": {
     "what_is_spun": "Two subsidiaries part-sold and listed via IPO: Canara Robeco Asset Management and Canara HSBC Life Insurance",
     "demerged_business_names": [
@@ -71822,6 +71808,25 @@
     "listing_timeline": "Canara Robeco 'got listed today (16.10.2025)' per filing dated 16.10.2025; Canara HSBC Life 'got listed today (17.10.2025)' per filing dated 17.10.2025; earlier filings record UDRHP SEBI approvals on 29.09.2025 and 02.10.2025.",
     "read_next": "Canara HSBC Life and Canara Robeco standalone results versus Canara Bank's retained 36.50%/38% carrying value.",
     "quote": "In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.50%."
+   },
+   "b90050b5f687750cb61394b2a1d2f987": {
+    "what_is_spun": "Canara Bank's life insurance subsidiary; 14.50% stake diluted via IPO listing on BSE/NSE",
+    "demerged_business_names": [
+     "M/s Canara HSBC Life Insurance Company Ltd",
+     "Canara HSBC Life Insurance Company Ltd",
+     "Canara HSBC Insurance Company"
+    ],
+    "reason": "Not stated beyond approval for diluting 14.50% stake by listing through IPO; MD says focus is improving value of investments in subsidiaries and disinvestment may support CET-1",
+    "reason_class": "value_unlocking",
+    "insiders": "Canara Bank is promoter, diluting only 14.50% and retaining the balance; no management or employee incentives in the subsidiary are stated",
+    "hidden_value": "A market price for a life insurer carried unpriced inside a bank balance sheet; MD: disinvestment \"may support our capital CET-1\" and \"our focus is more on improving our value of the investment\"",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "IPO dilution of 14.50%, not a share distribution to existing holders; no index exclusion mentioned",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "08.05.2024 call: \"one may come to the listing in the last quarter of this financial year. The other one may come in the first quarter of the next financial year\"; 29.10.2024 call, on IPO of Canara Robeco AMC and other subsidiaries: \"As on date it is scheduled in the 4th Quarter\"; 27.01.2025 call: \"we are expecting that both the companies we may come for the IPOs in the next financial year\"; size, opportune time and modalities \"will be decided in due course\" (31.05.2024)",
+    "read_next": "RBI and Department of Financial Services approval status, then the DRHP for issue size and valuation",
+    "quote": "Canara Bank has accorded approval for initiating the process of diluting 14.50% stake of the Bank in its subsidiary M/s Canara HSBC Life Insurance Company Ltd by listing the Company in Stock Exchanges (BSE/NSE) through Initial Public Offer (IPO)."
    }
   }
  },
