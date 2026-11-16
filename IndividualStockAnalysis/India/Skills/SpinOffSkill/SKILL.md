@@ -207,6 +207,17 @@ largest gains came not in the first year but in the second.
     own listing date. It writes `SPINOFF_GROUND_TRUTH_CHECK.md` and exits 1
     on any miss or false positive, so a run that fails the register is
     not shared.
+13. **Backtests** (`scripts/backtest.py`) — the skill run AS OF a past
+    date over a past window, list-only (judge classification and listing
+    status; no rationale, numbers, documents or offerings), checked
+    against the register for that window, everything under
+    `Analysis/NiftyTotalMarketAnalysis/SpinOffBacktest/<label>/`. An
+    as-of run sees only filings dated inside its window, calls up to its
+    month, register record dates up to its date, and the equity list;
+    nothing later. The store and the register must first be extended
+    back (`fetch_announcements.py --days N`, `demerger_ground_truth.py
+    --days N`). The judge cache keeps several readings per company, so a
+    backtest and today's run do not evict each other.
 
 ## Run it
 
@@ -221,6 +232,9 @@ python3 scripts/analyze.py company THOMASCOOK                      # one company
 python3 scripts/analyze.py render                                  # re-render the report from the saved run, no judge
 python3 ../../Announcements/demerger_ground_truth.py --days 400    # NSE's register from the bhavcopy bundles
 python3 scripts/validate_demergers.py                              # the list against the register; exit 1 on a miss
+python3 ../../Announcements/fetch_announcements.py --days 960      # extend the store back (for a backtest)
+python3 scripts/backtest.py --from 2024-04-01 --to 2025-03-31 --label FY2024-25   # the skill as of a past date, list-only, own folder
+python3 scripts/backtest.py --from 2024-04-01 --label 2024-04_to_today
 python3 -m pytest scripts/test_skill.py -q                         # 57 tests, offline
 ```
 
