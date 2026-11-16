@@ -14,8 +14,8 @@
 | …verified by a record date that came AFTER 2025-03-31 (the register up to today) | 10 |
 | …pending (no record date to date) | 1 |
 | …FALSE POSITIVES | 0 |
-| Probable demergers | 28 |
-| Indicated demergers | 28 |
+| Probable demergers | 26 |
+| Indicated demergers | 21 |
 | Situations in all | 1380 |
 
 ## Every register demerger in the window
