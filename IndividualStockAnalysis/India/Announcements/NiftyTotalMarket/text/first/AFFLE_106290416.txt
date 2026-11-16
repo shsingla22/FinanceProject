@@ -1,0 +1,61 @@
+ 
+Affle 3i Limited  
+(Formerly known as Affle (India) Limited)  
+Regd. Office | A47 Lower Ground Floor, Hauz Khas, Off Amar Bhawan, New Delhi -110016  
+Communication Office | 8th floor, Unitech Commercial Tower - 2, Sector - 45, Gurugram - 122003,  Haryana  
+(P) 0124 -4598749 (W) www.affle.com ; CIN: L65990DL1994PLC408172   
+ Affle/SE/2025 -26                                                               July 04, 2025  
+   
+To 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai 400 001  
+ 
+ 
+Scrip Code: 542752  National Stock Exchange of India Ltd  
+Exchange Plaza, 5th Floor, Plot No. C -l, G Block, 
+Bandra Kurla Complex, Bandra (East), Mumbai - 
+400 051  
+ 
+Symbol: AFFLE  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (“SEBI Listing Regulations”)  
+ 
+This is to inform that the Company has been granted another patent in India. This grant further builds upon 
+our previously granted IPs that collectively strengthen the quality and effectiveness of our conversion -
+driven CPCU model, as we further fortify our  AI-powered consumer platform stack.  
+ 
+The patent’s subject area is “Method and system to detect advertisement fraud” and it is aimed at addressing 
+the challenge of detecting and filtering out fraudulent activities in digital advertising, with particular focus 
+on identifying traffic generated t hrough artificial or incentivized means. It introduces a real -time, machine 
+learning -powered monitoring framework that analyzes user engagements in defined time intervals across a 
+plurality of connected devices, including smartphones, smart/connected TVs, wearables etc. and across a 
+diverse range of advertising formats including video ads.  
+ 
+This machine learning based intelligent system fundamentally evaluates the quality of conversion rates by 
+real time classification of events into high -conversion and low -conversion segments. These methods 
+distinguish genuine user engagements from low -value  actions or suspicious activity, thereby enhancing 
+precision and impact in conversion -driven, outcome -based strategies.  
+ 
+This marks the 14th patent granted to us, as part of our growing IP portfolio comprising 36 patent 
+applications filed to date. It reflects our continued focus on developing innovative technologies that deliver 
+greater transparency and drive high -impact use r conversions for advertisers globally.  
+ 
+The inventors of this patent include Anuj Khanna Sohum, Charles Yong and Anurag Singh.  
+ 
+Submitted for your information and records.  
+ 
+Thanking You,  
+ 
+Yours Faithfully,  
+For Affle 3i Limited  
+(Formerly known as Affle (India) Limited)  
+ 
+ 
+ 
+Parmita Choudhury  
+Company Secretary & Compliance officer  

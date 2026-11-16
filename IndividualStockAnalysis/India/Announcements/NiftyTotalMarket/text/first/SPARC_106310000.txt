@@ -1,0 +1,380 @@
+ 
+ 
+ SPARC/Sec/SE/2025 -26/21                   July 22, 2025  
+ 
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, 5th Floor,  
+Plot No. C/1, G Block,  
+Bandra Kurla Complex,  
+Bandra (East), Mumbai – 400 051.  BSE Limited,  
+Market Operations Dept.  
+P. J. Towers,  
+Dalal Street,   
+Mumbai -  400 001.  
+  
+Scrip Symbol: SPARC                                                     Scrip Code: 532872  
+  
+Dear Sir/ Madam,  
+ 
+Sub: Addendum to Annual Report  - Inclusion of Management Discussion & Analysis Report  
+Dear Sir/ Madam,  
+This is further to our communication dated July 18, 2025 wherein the Notice  convening the 20th 
+Annual General Meeting (“20th AGM” or “AGM”) along with the Annual Report was issued.  
+It was later identified that a portion of t he Annual Report containing Management Discussion 
+and Analysis (“MDA”) was inadvertently omitted in the version circulated to the shareholders.  
+Therefore, by way of this addendum, we are circulating revised Annual Report for FY 2024- 25 
+containing the MDA,  which is available on the website of the Company at https://sparc.life/   
+and can be accessed/ downloaded by clicking the link SPARC -ANNUAL -REPORT -
+INCLUDING- NOTICE -OF-AGM_FY -25  
+This addendum is limited to inclusion of MDA in the Annual Report and does not have any 
+impact on any other part, including the N otice of the 20th AGM, which has been issued on  July 
+18, 2025. Accordingly, the length of the notice of the 20th AGM remains intact.   
+It may also be accessed/downloaded from the websites of BSE Limited and National Stock 
+Exchange of India Limited at www.bseindia .com  and www.nseindia.com , respectively.  
+All other contents of our communication dated July 18, 2025 remain unchanged and the same shall be referred for any information relating to participation or voting at the 20th AGM.  
+ 
+For Sun Pharma Advanced Research Company Ltd.  
+ 
+ 
+Kajal Damania  
+Company Se cretary and Compliance Officer  
+Innovations
+inspired by life
+Sun Pharma Advanced Research Company Ltd.
+Annual Report 2024-25
+What’s inside the02-11
+51-7412-28
+75-18129-50
+Report
+Disclaimer:
+Statements in this annual report describing the Company’s objectives, projections, estimates, expectations, plans or predictions or industry 
+conditions or events may be “forward-looking statements” within the meaning of applicable securities laws and regulations. Actual results, performance or achievements could differ materially from those expressed or implied. Important factors that could make a difference to the Company’s operations include global and Indian demand supply conditions, competitors’ pricing in the Company’s principal markets, changes in Government regulations, tax regimes, economic developments within India and the countries within which the Company conducts businesses and other factors such as litigation and labour unrest or other difficulties. The Company assumes no responsibility to publicly update, amend, modify or revise any forward-looking statements, on the basis of any subsequent development, new information or future events or otherwise except as required by applicable law. Unless the context otherwise requires, all references in this document to “we”, “us” or “our” refers to Sun Pharma Advanced Research Company Limited. All brands and trademarks are the properties of their registered owners.Management Discussion 
+and Analysis
+Business Responsibility 
+and Sustainability ReportBoard’s Report
+Financial 
+Statements182-210
+Notice of Annual General MeetingCorporate 
+Governance Report
+To view the report online, log in to
+www.sparc.lifeScan the QR code to know more about the companyCorporate 
+Information
+Corporate Information
+Mr. Dilip S. Shanghvi 
+Chairman and Non-Executive Director
+Dr. T. Rajamannar  
+Non-Executive Director
+Ms. Vidhi Shanghvi 
+Non-Executive Director 
+Ms. Bhavna Doshi  
+Independent Director
+Dr. Ferzaan Engineer  
+Independent Director
+Dr. Robert J. Spiegel 
+Independent Director
+Mr. Venkateswarlu Jasti  
+Independent Director 
+(wef. May 19, 2025)
+Ms. Rekha Warriar
+Independent Director 
+(wef. May 19, 2025)
+Key Managerial Personnel
+Mr. Anilkumar Raghavan  
+Chief Executive Officer
+Mr. Anup Rathi
+Chief Financial Officer
+Ms. Kajal Damania  
+Company Secretary Auditors
+S R B C & Co. LLP  
+(Registration No. 324982E/E300003)
+Bankers 
+Kotak Mahindra Bank Ltd. 
+ICICI Bank Ltd.
+Offices & Research Centres
+Registered Office & Research Centre Plot No. 5 & 6/1, Savli G.I.D.C. Estate, Savli - Vadodara Highway, Manjusar, District Vadodara – 391 775.
+Corporate Office & Research Centre 
+17-B, Mahal Industrial Estate, Off Mahakali Caves Road, Andheri (East), Mumbai - 400 093.
+Branch OfficeRegus, 116 Village Blvd,
+Suite 200, New Jersey, 08540
+Research Centres
+•
+F
+.P .- 27, Part Survey No. 27, C.S. No. 1050, 
+T.P .S. No. 24, Tandalja, Vadodara - 390 012.
+•907/4,
+ GIDC, Makarpura, Vadodara - 390 010.
+Registrar & Transfer AgentMUFG Intime India Pvt Ltd (formerly known as Linkintime India Pvt 
+Ltd.) C 101, 247 Park, LBS Marg, Vikhroli West, Mumbai - 400 083.
+Tel: +91 22 4918 6000 | +91 22 4918 6270
+Fax: +91 22 4918 6060E-mail: rnt.helpdesk@in.mpms.mufg.com
+Management Discussion and Analysis
+Global Pharmaceutical Industry  
+Last year witnessed the evolution and expansion of the life sciences 
+innovation ecosystem as the industry adapted to a complex 
+and dynamic landscape shaped by geopolitical, technological 
+and social uncertainties. At the same time, innovative science 
+continued to advance, as evidenced by an increasing proportion 
+of novel therapeutic modalities in clinical trials and by innovative 
+products receiving regulatory approval and reaching patients 
+— with multiple important Cell and Gene Therapy (CAGT) drugs 
+having achieved success, alongside new options for historically 
+challenging indications.
+The industry is also undergoing significant regulatory and trade 
+shifts that are still underway, focusing on price transparency and 
+increasing competition in prescription drug markets. The Inflation 
+Reduction Act (IRA) allows the Centres for Medicare and Medicaid 
+Services to negotiate drug prices, potentially reducing industry-
+wide EBITDA by $50 billion to $70 billion by 20281. The recent 
+executive order signed by President Trump to end the IRA ‘Pill 
+Penalty’ is aimed to remove the current discrepancy between small 
+molecules and biologics. While the executive order does not specify 
+the actions the Secretary and Congress must take to address the 
+pill penalty, its implementation can help reduce the impact of drug 
+price negotiations.
+Further complicating the landscape, the Department of Health 
+and Human Services (HHS) plans a 20000-position workforce 
+reduction, including over 3500 USFDA roles2. This could delay 
+drug approvals, increase regulatory uncertainty and raise costs for 
+advanced modalities. These challenges emphasize the need for life 
+sciences companies to enhance efficiency and cost management 
+while fostering innovation and collaboration to sustain growth in a 
+complex regulatory and pricing environment.While the pharmaceutical industry continues to face considerable 
+challenges, ongoing advancements in technology and data 
+integration point to a shift toward a more connected, efficient and 
+patient-centric healthcare ecosystem—rather than one defined 
+solely by cost pressures and operational constraints. Pairing rapidly 
+evolving technologies with optimized portfolios and therapeutic 
+innovations can potentially improve efficiency of Research & 
+Development (R&D) by reducing drug development timeline 
+and increasing probability of success, an important objective for 
+biopharmaceutical companies.
+Pharma’s focus has shifted towards evolving portfolios driven by 
+scientific and technological breakthroughs. Innovations in novel 
+modalities, newer mechanisms of action and therapies targeting 
+unmet needs have reshaped pipelines. Companies are adopting 
+to an ‘always be launching’ mindset alongside pursuing major 
+acquisitions to navigate a challenging environment. Despite political 
+uncertainties in the US, the industry remains cautiously optimistic 
+about Mergers and Acquisitions (M&A) following a subdued 2024.
+M&A continue to be a fundamental strategy for pharmaceutical 
+companies seeking to diversify their portfolios, access new 
+technologies and expand their market presence. As patents expire, 
+companies are increasingly targeting biotech companies with 
+promising late-stage assets. There is a clear shift towards acquiring 
+assets in rapidly expanding fields, with oncology, immunology 
+and rare diseases receiving particular attention. M&A activity is 
+expected to remain robust, with small to mid-sized transactions 
+anticipated to dominate the landscape.
+Biopharma Dealmaking in 20243
+0 0 05 1050102015301002040255015030603570
+2004080 45 250M&A deal volume (Number)
+Partnership deal volume (Number) 
+Disclosed deal value (US$ Bn) Disclosed deal value (US$ Bn)  
+Q1 Q1 Q2 Q2 Q3 Q3 Q4 Q4192 217 165Mergers and Acquisitions Partnerships
+197
+M&A deal volume Disclosed deal value
+ Partnership deal volume Disclosed deal value
+051015202530354045
+33 41 34 28
+22
+119
+1. Simplification for success: Rewiring the biopharma operating model; Alix Burke et al; Mar 2025 | 2. Fact Sheet: HHS’ Transformation to Make America Healthy Again; US 
+Department of Health and Human Services; Mar 2025 | 3. Nature Reviews Drug Discovery 24, 86-87 (2025)38
+4143
+3372
+02
+
+Oncology remained the focal point of M&A activity, accounting 
+for one-third of all billion-dollar deals and leading in partnerships3. 
+Prominent transactions incl uded Astra Zeneca’s $2.4 b illion 
+acquisition of Fusion Pharmaceuticals and Novartis’s $1.75 billion 
+purchase of Mariana Oncology3. The sector also saw significant deal 
+focus on Antibody-Drug Conjugates (ADCs); radio and RNA-related 
+therapies. The $13 billion Sarepta/Arrowhead siRNA platform deal 
+spanning multiple disease areas is one such example3.
+Immunology assets represented 18% of high-value deals, 
+underlining their growing appea l3. Notable agreements  included 
+Eli Lilly’s $3.2 billion acquisition of Morphic Therapeutic and the 
+Vertex-Alpine transaction3.Number of Deals by Therapeutic Area3
+Neurology and Psychiatry 
+107 (14% )
+Oncology  
+302 (39%)Autoimmune/ Immunology  
+76 (10%)Metabolic  
+53 (7%)Cardiovascular  
+40 (5%)
+Infectious diseases  
+44 (6%)Endocrine  
+35 (5%)
+Ophthalmology  
+32 (4%)Dermatological 
+19 (2%)Respiratory 
+19 (2%)
+Others* 
+184 (24%)
+*The ‘Others' category includes allergy, ENT/dental, gastroenterology (non-inflammatory bowel disease), haematology, obstetrics/gynaecology, orthopaedics, renal, rheumatology 
+(non-autoimmune) and unspecified. | Deals involving more than one therapy area may be counted multiple times, if applicable.  
+ .
+4. Pharmaceutical Market Size & Share, Industry Report, 2030; Grand View Research | 5. Global Trends in R&D 2025: Progress in Recapturing Momentum in Biopharma 
+Innovation; IQVIA Institute for Human Data Science; Mar 2025
+The industry is also witnessing a shift in the nature of 
+therapeutic innovation. First-in-class drugs accounted for 58% 
+of NAS launches in 2024, with oncology leading (10 launches), 
+followed by neurology, immunology and gastrointestinal (4 
+each)5. Precision medicines gained prominence, with targeted 
+mechanisms dominating therapy areas like oncology.Deal Landscape in 20245
+RadiopharmaceuticalsRNA based therapies
+2019 2024Number of deals80
+60
+40
+20
+029 79
+31
+2019 20247980Number of deals60
+40
+20
+0Deals by Modality in 2024 (N=608)5
+Antibodies
+Cell and cell-based  
+gene therapies
+Protein/peptides 
+(non-antibody)
+DNA or gene therapies
+Radiopharmaceuticals
+RNA
+Other/unspecified  
+biologics
+Other small molecules 
+Overall, partnerships in biopharma rose to 771 in 2024, with 
+oncology assets featured in 39% of deals—up from 35% in 
+20235. Neurology/psychiatry and immunology followed closely, 
+maintaining their rankings from the previous year with 107 and 
+76 deals, respectively5. Venture investments continued to focus 
+heavily on clinical-stage companies, with biologics—spanning 
+antibodies, conjugate and nucleic acid-based therapies—
+dominating both investment and licensing activities. Bispecific 
+antibody therapies boosted biologics deal values as well. Standout 
+deals included the Daiichi Sankyo - Merck for a Phase 2 ADC 
+program, valued at up to $22 billion, with $4 billion provided upfront5. Small molecules also gained traction, supported by 
+increased deal activity and investment flows.
+As the industry progresses into 2025, the stagnancy observed 
+in funding and deals might overshadow the upcoming year as 
+there is selectivity in the investors’ approach. Achieving clinical 
+milestones will play a pivotal role in maintaining investors’ trust 
+amidst a competitive funding landscape. Naturally, companies 
+and assets backed by a positive and robust data set of preferably 
+advanced stage assets will remain well-positioned for funds.
+Despite persistent uncertainties, the global pharmaceutical 
+industry is estimated to grow at a Compound Annual Growth 
+Rate (CAGR) of 6.12% from 2025 to 20304. One of the key drivers 
+of growth is launch of new drugs, globally, 65 Novel Active 
+Substances (NAS) were launched in 2024, down from 80 in 2023 
+but still surpassing pre-pandemic levels5.
+03
+Statutory Reports Management Discussion and Analysis Annual Report 2024-25
+Increasing Adoption of Novel Drug Modalities6 
+Oncology R&D emphasized targeted therapies, with 35% of trials 
+involving novel modalities like CAGT, ADCs and multi-specific 
+antibodies5. Multi-specific antibody trials represented 17% of 
+haematological and 11% of solid tumour trials in 2024, reflecting a 
+growing focus on addressing multiple targets with single therapies5.
+China’s influence on global pharmaceutical R&D continues to 
+expand, with Chinese companies now involved in at least 20% 
+of the industry’s clinical pipeline5. The country is particularly 
+prominent in next-generation modalities, accounting for over half 
+of the global clinical pipeline in ADCs, bispecific antibodies and 
+CAR-T therapies. Western biopharma companies are increasingly 
+seeking in-licensing opportunities from China which is reflecting 
+the country’s growing importance, both as an innovation hub 
+and a commercial market. Chinese innovative drugs have entered 
+global markets since July 2021, with seven of these being licensed 
+out to international partners. As new technologies advance and 
+the focus sharpens on addressing clinical needs, China’s R&D 
+efforts are poised to make significant impact in development of 
+innovative therapeutics.
+Biopharma Trends 
+The biotechnology industry in 2025 stands at a pivotal junction 
+where scientific advancement meets practical implementation. 
+The convergence of Artificial Intelligence (AI), precision medicine 
+and novel therapeutic modalities presents unparalleled 
+possibilities for innovation and growth. Many of these trends 
+have been developing over time, but their convergence in 2025 is 
+driving unprecedented innovation and change. Some of the trends 
+that are expected to lay the ground for exponential growth in the 
+years to come include the following.
+1.   The evolution of AI: A consistent trend reshaping the 
+biotech industry
+ It is difficult these days to talk about biotech without 
+mentioning the revolutionary role that AI is playing in the 
+industry. Advancements in AI are expected to continue in 
+2025, with the technology likely to become more mainstream. 
+From drug discovery and design—where AI accelerates the creation of novel structures—to the ability to analyze a drug 
+candidate’s profile across multiple parameters and access 
+to databases of both patients and healthy volunteers, the 
+wealth of information now available to developers early in 
+the process is enabling more efficient and potentially faster 
+drug development.
+2.  The expansion of gene therapy field
+ With the potential to cure numerous genetic disorders by 
+introducing, modifying, or repairing genetic material within 
+a patient’s cells, gene therapy has been a hot topic in the 
+biotech industry for some time now and is continuing to 
+evolve. In years past, logistical and commercial challenges 
+have been holding back therapies, however, with improved 
+data as well as more advanced technology, the industry 
+has a better understanding of what works and what needs 
+to be improved. The overall gene therapy field will likely 
+see growth when it comes to viral and non-viral delivery 
+methods. As gene therapy expands, the demand for safer, 
+more effective delivery systems will drive innovations in 
+these areas and advances in synthetic biology and delivery 
+technologies are leading to more refined, customizable 
+solutions, ultimately providing more precise and versatile 
+options for genetic correction.
+3.   GLP-1 drugs: Still an attractive proposition for biotech
+ Since their approval, GLP-1 drugs have been a topic of 
+interest in the biotech industry. Despite the competition, 
+start-ups and big pharma are still looking to create a better 
+version of this drug class. GLP-1 receptor agonists have sent 
+shockwaves through life sciences, initially as weight loss 
+therapy but now showing promise across a broad spectrum 
+of diseases beyond weight loss and glycaemic control. Apart 
+from their established roles in diabetes management and 
+weight loss, GLP-1 therapies are pioneering new therapeutic 
+frontiers, including cardiovascular disease prevention, sleep 
+apnoea treatment and potential applications in cancer, 
+addiction and neurodegenerative diseases. This expansion 
+is driving significant investment and research across the 
+biotech industry.Market Share of First-in-Class Therapies6
+Sales (US$ Bn)
+5%
+200
+1990 2000 2010 202040060080015%- ADCs 
+- Bispecifics
+- Cell therapies
+- Gene therapies 
+- Gene-modified cell treatments 
+- Genome editing 
+- DNA and RNA therapeutics 
+- mRNA vaccines 
+- Plasma-derived therapy2022-2028 CAGR (%)
+Emerging  
+modalities 
+mAbs 
+Peptides  
+and  
+vaccines 
+Small  
+molecules 28 
+7 
+11 
+6 Sales (US$ Bn)
+6. Biopharma Trends 2025: Focusing on Innovation amid Complexity; Margot Bleys et al; Jan 20252030
+23%
+1990 2000 2010 2020 202422%36%46%47%
+600
+400
+200
+0
+First-in-class products Follow-on products
+04

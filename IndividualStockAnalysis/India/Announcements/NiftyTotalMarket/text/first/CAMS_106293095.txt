@@ -1,0 +1,164 @@
+ 
+ 
+08th July 2025   
+ 
+ 
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street  
+Mumbai 400 001  
+Scrip Code: 543232  National Stock Exchange of India Limited  
+Exchange Plaza, 5th floor, Plot No. C/1,  
+G Block, Bandra Kurla Complex, Bandra  
+(East), Mumbai 400 051  
+Trading Symbol: CAMS  
+                         
+ 
+Dear Sir / Madam,  
+  
+Sub: Press Release titled - CAMS  Launches "The CAMSPay’s  New Payment 
+Gateway": A Payment Gateway for Tomorrow's Transactions Built for Today's 
+Challenges  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, enclosed herewith is a Press Release issued by the Company on the cited 
+subject, content of which is self -explanatory.  
+ 
+We request you to take the same on records.  
+ 
+ 
+Yours faithfully,  
+For Computer Age Management Services Limited  
+  
+ 
+ 
+ 
+G Manikandan  
+Company Secretary and Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAMS Launches " The CAMSPay ’s New Payment Gateway": A Payment Gateway for 
+Tomorrow's Transactions Built for Today's Challenges  
+Chennai, India [ 08-07-2025]  – As digital payments become the cornerstone of today's business, 
+CAMSPay is proud to introduce The CAMSPay ’s New Payment Gateway , a future -proof payment 
+gateway engineered to tackle the real challenges faced by businesses navigating India's rapidly 
+evolving payment landscape.  
+The launch comes amid significant shifts in the payments industry – from RBI’s tokenization and 
+data localization mandates to rising expectations around transaction reliability and real -time 
+visibility. Many businesses still rely on legacy systems unable to handle high -volume transactions, 
+prevent fraud effectively, or ad apt quickly to new compliance requirements.  
+India’s Payment Gateway Ecosystem  
+India’s digital payments ecosystem has witnessed exponential growth over the past decade, with 
+payment gateways playing a critical role in facilitating smooth, secure online transactions. Industry 
+reports highlight:  
+• The Indian digital payments market is projected to reach $10 trillion by 2030 , growing at 
+over 20% CAGR, driven by e -commerce, fintech, and financial services sectors. ( Source ) 
+ 
+• Over 5 billion digital transactions are processed monthly , with peak transaction volumes 
+surging by 30% or more. ( Source ) 
+ 
+• RBI’s regulatory push for tokenization, data localization, and real -time settlement  has 
+dramatically reshaped compliance requirements, increasing operational demands on 
+payment processors.  
+ 
+• Rising cybersecurity concerns mandate robust fraud prevention and multi -layer security in 
+payment gateways.  
+ 
+• Businesses require low-latency, high -availability platforms  that deliver frictionless 
+checkout experiences to reduce cart abandonment and enhance customer satisfaction.  
+Addressing Today's Payment Challenges with Tomorrow's Technology  
+The CAMSPay ’s New Payment Gateway meets these challenges head -on by delivering a secure, 
+scalable, and regulation -ready platform  tailored for e -commerce, financial services, retail, and 
+beyond.  
+"With The CAMSPay ’s New Payment Gateway, our goal is to empower businesses to overcome 
+everyday payment frustrations by providing a stable, secure, and flexible platform,"  said Vasanth 
+Jeyapaul , CEO – CAMSPay . "This is not just another gateway – it is a strategic platform built to 
+meet regulatory requirements while delivering real -time capabilities."  
+  
+
+ 
+ 
+ 
+Why This Matters to Businesses and Merchants ? 
+For too long, businesses have struggled with:  
+1) Transaction slowdowns during peak times  
+2) Reconciliation inconsistencies between banks and payment partners  
+3) Lack of actionable data on payment issues and customer behaviour  
+4) Compliance burdens related to data and audit readiness  
+Designed for Day -One Regulatory Alignment  
+Unlike legacy systems retrofitted for compliance, The CAMSPay ’s New Payment Gateway is built 
+from the ground up to address India's evolving payment regulations, including:  
+• RBI guidelines compliance  
+• PCI DSS certification  
+• Card tokenization and data localization compliance  
+This enables companies to remain audit -ready, mitigate risk, and build customer confidence through 
+transparent and secure payment processing.  
+Timely Industry Developments  
+The launch aligns with key regulatory and market trends:  
+• Mandatory tokenization protects customer card data without storing sensitive information.  
+• Real-time settlement and visibility are becoming industry standards.  
+• Data localization and audit  readiness are strictly enforced by regulators.  
+• Demand for low -latency, high -uptime payment systems is rising to provide seamless 
+customer experiences.  
+What Makes The CAMSPay ’s New Payment Gateway Unique?  
+• Scales Seamlessly:  Supports over 5,000 transactions per second (TPS), ideal for high -
+volume enterprises.  
+• Secures Better:  Implements multi -layer encryption, advanced fraud screening, and 
+tokenization to eliminate data leak risks.  
+• Developers First:  Open APIs enable easy integration and simplified workflows.  
+• Actionable Insights:  Real-time analytics and dashboards reveal payment trends and 
+operational inefficiencies.  
+• Maximum Uptime:  Ensures uninterrupted payments even during traffic spikes.  
+• Seamless Banking Connectivity:  Natively integrated with major banks for frictionless 
+operations.  
+Trusted Partnerships and Certifications  
+The CAMSPay ’s New Payment Gateway leverages robust infrastructure and banking partnerships to 
+deliver industry  leading service:  
+ 
+ 
+ 
+• In association with  Mylapay , our trusted Payments switch  partner , ensuring scalable and 
+secure d platform for payment processing . 
+• RBL Bank  – BIN Sponsorship , one of India’s leading banks, enabling smooth  card 
+processing and  banking operations . Certified with Master card,  VISA , and Rupay , assuring 
+the highest levels of security and compliance in payment processing.  
+Empowering Diverse Sectors  
+Whether you're an e -commerce brand aiming to speed up checkouts, a mutual fund platform handling 
+time sensitive investment , or a fintech company managing recurring payments, The CAMSPay ’s 
+New Payment Gateway reduces delays, prevents errors, and ensures compliance – without 
+compromising performance.  
+The new payment gateway is now open for onboarding enterprises, startups, financial institutions, 
+and digital platforms eager to upgrade their payment infrastructure.  
+ 
+About CAMSPay  
+CAMSPay is a trusted name in digital transaction technology, supporting thousands of businesses 
+across BFSI, NBFCs, education, and fintech sectors. Known for compliance, performance, and client 
+success, CAMSPay specializes in resolving payment challenges f or Mutual Funds, Insurance 
+Providers, and NBFCs. The company envisions expanding its platform to address pain points across 
+capital markets, insurance ecosystems, brokerages, and intermediaries.  
+An independent offshoot of CAMS – India’s largest registrar and transfer agency for asset 
+management – CAMSPay carries forward CAMS’ legacy of trustworthiness, reliability, and 
+innovation in payments.  
+About CAMS Limited  
+CAMS Limited (www.camsonline.com) is a leading financial infrastructure and service partner to 
+India’s asset management industry and BFSI segment. It holds approximately 68% market share 
+based on mutual fund average assets under management (AAUM) and serve s many of India’s largest 
+mutual funds, alternative investment funds, and portfolio managers.  
+The company has also ventured into new -age financial services like Account Aggregator and Central 
+Record -Keeping Agency (CRA) services for the National Pension Scheme. CAMS continues to 
+invest in digital innovation, acquiring stakes in AI -driven firms and digital transformation companies 
+to further strengthen its ecosystem.  
+ 
+Media Contact:  
+Niteen Kumar  
+Product Marketing Manager, CAMSPay  
+Email: niteenkumar.d@camsonline.com  
+Phone: 9886668823  
+Website: www.camspay.com  

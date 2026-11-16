@@ -1,0 +1,654 @@
+ 
+ Bharti Airtel Limited  
+(a Bharti Enterprise)  
+Regd. Office:  Airtel Center, Plot No. 16, U dyog Vihar, Phase -IV, Gurugram - 122015, India  
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110070, India  
+T.: +91 -124-4222222, F.: +91 -124-4248063, Email : compliance.officer@bharti.in , Website : www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+July 16 , 2025  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1 Block G  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai - 400051, India  
+Symbol:  BHARTIARTL/ AIRTELPP  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Mumbai - 400001, India  
+Scrip Code:  532454/ 890157  
+ 
+Sub:  Business Responsibility and Sustainabilit y Report for FY 2024 -25 
+ 
+Dear Sir/  Madam,  
+ 
+Pursuant to Regulation 34 of Securities Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, w e are enclosing herewith Business 
+Responsibility and Sustainability Report for FY 2024 -25. The enclosed report also forms  
+a part of the Integrated Annual Report for the financial year  2024 -25. 
+ 
+The Integrated Annual Report for FY 2024 -25 is separately uploaded on the website of 
+the s tock exchanges viz National Stock Exchange of India Limited and BSE Limited and 
+is also available on the website of the Company at https://www.airtel.in/about -
+bharti/equity/results/annual -results .  
+ 
+Please  take the above information on record.  
+ 
+Thanking you,  
+Sincerely y ours, 
+ 
+For Bharti Airtel Limited  
+ 
+ 
+ 
+Rohit Krishan Puri  
+Joint  Company Secretary  & Compliance Officer  
+ 
+Encl.: As above  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Responsibility & Sustainability Reporting
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+ 1. Corporate Identity Number (CIN) of the Listed Entity: L74899HR1995PLC095967
+ 2. Name of the Listed Entity: Bharti Airtel Limited (‘Bharti Airtel’ or ‘Airtel’ or ‘Company’)
+ 3. Year of incorporation:  1995
+	 4.	 Registered 	office	address: 	Airtel Centre, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram, Haryana- 122 015, India
+ 5. Corporate address: Bharti Crescent, 1 Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi- 110 070, India
+ 6. E-mail: compliance.officer@bharti.in
+ 7. Telephone: +91-0124-4222222, +91-011-4666 6100
+ 8. Website:  https://www.airtel.in/
+ 9. Financial year for which reporting is being done:  FY 2024-25
+ 10.  Name of the Stock Exchange(s) where shares are listed: BSE Limited (BSE) and National Stock Exchange of 
+India Limited (NSE)
+ 11. Paid-up Capital:  H 29,001 million
+ 12.  Name and contact details (telephone, e-mail address) of the person who may be contacted in case of any 
+queries on the BRSR Report: Rohit Krishan Puri (Joint Company Secretary & Compliance Officer) | Telephone 
+Number: +91-011-4666 6100 | E-mail: compliance.officer@bharti.in
+ 13.  Reporting boundary- Are the disclosures under this report made on a standalone basis (i.e., only for the 
+entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated 
+financial	statements,	taken	together): Standalone basis - Bharti Airtel Limited, unless otherwise specified
+ 14. Name of assurance provider: DNV Business Assurance India Private Limited
+ 15.  Type of assurance obtained: Reasonable Assurance (for BRSR core indicators) and Limited Assurance (for other 
+indicators)
+II. Products/services
+ 16. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main Activity Description of Business Activity% of Turnover of the 
+Entity
+1. Information and Communication Wired, wireless or satellite T elecommunication activities 100
+ 17. Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. 
+NoProduct/Service NIC Code% of total Turnover 
+Contributed
+1. Wireless T elecommunication Activities
+•  Activities of Internet access by the operator of the wireless 
+infrastructure (61201)
+•  Activities of maintaining and operating cellular and other 
+telecommunication networks (61202)
+• Activities of other wireless telecommunications activities (61209)612 89.61
+2. Wired T elecommunication Activities
+•  Activities of basic telecom services: telephone, telex and telegraph 
+(includes the activities of STD/ISD booths) (61101)
+•  Activities of providing internet access by the operator of the wired 
+infrastructure (61104)611 10.39III. Operations 
+	 18.	Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:	
+Location Number of plants* Number	of	offices Total
+National Not applicable 183 183
+International** Not applicable Not applicable Not applicable
+  *Mobile towers are not included.
+   **International telecom operations in 15 countries spanning India and Africa are served by group companies. Company also has its presence in Bangladesh 
+and Sri Lanka through its associate entities.
+ 19. Markets served by the entity:
+  a) Number of locations
+Locations Number
+National (No. of States) * 28 States + 8 UTs
+International (No. of States) International telecom operations in 15 countries are served by group companies**
+   * Including market served through Bharti Hexacom Limited (the subsidiary company).
+   ** Company also has its presence in Bangladesh and Sri Lanka through its associate entities.
+  b) What is the contribution of exports as a percentage of total turnover of the entity? 2.7
+  c) A brief on types of customers - End consumers (B2C); Enterprise customers (B2B)
+IV. Employees
+	 20.	 Details	as	at	the	end	of	financial	year	i.e.	as	on	March	31,	2025
+	 	 a)	 Employees	and	workers	(including	differently-abled):
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Employees 
+1. Permanent (D) 13,593 10,932 80 2,661 20
+2. Other than Permanent (E) - - - - -
+3. Total employees (D + E) 13,593* 10,932 80 2,661 20
+Workers 
+4. Permanent (F) - - - - -
+5. Other than Permanent (G) 71,861 66,405 92 5,456 8
+6. Total workers (F + G) 71,861 66,405 92 5,456 8
+    * The decrease in total number of Permanent Employees this year vis-à-vis previous year, is primarily on account of internal role transitions/
+movements across the group.
+	 	 b)	 Differently-abled	employees	and	workers:
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Differently-abled 	employees 	
+1. Permanent (D) 33 29 88 4 12
+2.Total	differently-abled 	
+employees (D)33 29 88 4 12
+Differently-abled 	workers 	
+3. Other than permanent (G) - - - - -
+4.Total	differently-abled	workers	(G) - - - - -
+Bharti Airtel Limited Integrated Report and Annual Financial Statements 2024-25
+194 195
+01
+02
+0403Statutory Reports
+ 21. Participation/ inclusion/ representation of women:
+Total (A)No. and percentage of Females
+No. (B) % (B/A)
+Board of Directors 10 3 30
+Key Management Personnel 4 0 -
+  Note:  As on the date of this report, 2 out of 19 senior management personnel are women, representing ~11% female participation in senior leadership.
+  Please refer details of Senior Management on page 292 of this Integrated Annual Report.
+ 22. Turnover rate for permanent employees and workers (Disclose trends for the past 3 years):
+FY 2024-25 (In %) FY 2023-24 (In %) FY 2022-23 (In %)
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 18 22 18 19 19 19 24 26 24
+V. Holding, Subsidiary and Associate Companies (including joint venture)  
+ 23.  (a)  Names of holding/ subsidiary/ associate companies/ joint ventures 
+Name of the holding/subsidiary/
+associate companies/joint 
+ventures (A)Indicate whether holding/
+subsidiary/Associate/Joint 
+Venture% of shares held 
+by listed entityDoes the entity indicated at column A, 
+participate in the Business Responsibility 
+initiatives of the listed entity? (Yes/No)
+Nearly all the subsidiaries/associates/joint ventures, either directly themselves or jointly with Bharti Airtel Limited, participate 
+in the Business Responsibility initiatives. For details of subsidiaries, associates and joint ventures of Bharti Airtel Limited, 
+please refer to “Salient features of the financial statement of subsidiaries, associates and joint ventures for the year ended 
+March 31, 2025, pursuant to Section 129 (3) of the Companies Act, 2013” forming part of this Integrated Annual Report.
+VI. CSR details
+ 24.  (i)  Whether CSR is applicable as per Section 135 of Companies Act, 2013: Yes
+  (ii)  Turnover: H1,089,439 million
+  (iii)  Net worth: H 1,117,529 million
+VII. Transparency and Disclosures Compliances
+ 25.   Complaints/Grievances on any of the principles (Principles 1 to 9) under the National 
+Guidelines on Responsible Business Conduct (NGRBC):
+Stakeholder 
+group from whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place (Yes/No) 
+(If yes, then provide web-link 
+for grievance redress policy)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed	during	
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+year RemarksNumber of 
+complaints 
+filed	during	
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+year Remarks
+Communities & 
+NGOsYes, Communities & NGOs 
+Grievance Redressal Policy0 0 - 0 0 -
+Shareholders/
+InvestorsYes, Investors and 
+Shareholders25 0 - 14 0 -
+Employees and 
+workersYes 19 0 - 22 0 -
+Customers Yes, T elecom Customer 
+CharterCustomer complaints are resolved as per applicable legislations, including sector 
+specific regulatory provisions under the T elecom Consumers Complaint Redressal 
+Regulation, 2012 issued by TRAI and to the extent applicable, are also reported to 
+the regulator as per the reporting requirement prescribed thereunder.
+Value chain 
+partner – suppliersYes, Airtel Partner World 9 0 - 7 2* -
+Others (Channel 
+partners)Yes, Anmol Ratna Portal 57 6* - 95 0 -
+  * Pending complaints were closed subsequent to the closure of financial year.
+ 26.  Overview of the entity’s material responsible business conduct issues indicating material 
+responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying 
+the	same,	approach	to	adapt	or	mitigate	the	risk	along-with	its	financial	implications
+   For relevant details, please refer to 'Materiality Assessment' on page 36 , ‘Risk and Opportunities’ on page 46  and 
+‘SCOT Analysis’ on page 190  of this Integrated Annual Report. SECTION B: MANAGEMENT AND PROCESS DISCLOSURES 
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+1. Policy and management processes
+a)   Whether your entity’s policy/policies cover each principle and its core 
+elements of the NGRBCs. (Yes/No)Y Y Y Y Y Y Y Y Y
+b)  Has the policy been approved by the Board? (Yes/No) Y Y Y Y Y Y Y Y Y
+c)  Web-link of the Policies, if available Refer T able 1 below
+2. Whether the entity has translated the policy into procedures. (Yes/No) Y Y Y Y Y Y Y Y Y
+3. Do the enlisted policies extend to your value chain partners? (Yes/No) Y Y Y Y Y Y Y Y Y
+4. Name the national and international codes/certifications/labels/standards 
+(e.g., Forest Stewardship Council, Fairtrade, Rainforest Alliance, Trustee) 
+standards (e.g., SA 8000, OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.Refer T able 2 below
+5. Specific commitments, goals and targets set by the entity with defined 
+timelines, if any.Refer ‘ESG Approach’ section of the  
+Integrated Annual Report on page 40.
+6. Performance of the entity against the specific commitments, goals, and 
+targets along-with reasons in case the same are not met.Refer ‘ESG Approach’ section of the  
+Integrated Annual Report on page 40.
+Governance, leadership, and oversight
+7. Statement by director responsible for the business 
+responsibility report, highlighting ESG-related challenges, 
+targets, and achievements (listed entity has flexibility 
+regarding the placement of this disclosure).Refer Vice Chairman & Managing Director’s message forming part of 
+this Integrated Annual Report on page 14.
+8. Details of the highest authority responsible for 
+implementation and oversight of the Business Responsibility 
+policy (ies).Yes, ESG Committee comprising following directors: 
+i.  Nisaba Godrej, Independent Director and Chairperson of ESG 
+committee 
+ii. Kimsuka Narasimhan, Independent Director
+iii. Gopal Vittal, Vice Chairman & Managing Director
+iv. Rajan Bharti Mittal, Non-executive Director 9. Does the entity have a specified Committee of the Board/
+Director responsible for decision making on sustainability 
+related issues? (Yes/No). If yes, provide details.
+10. Details of Review of NGRBCs by the Company:
+Subject for ReviewIndicate whether review was undertaken by 
+Director/ Committee of the Board/  
+Any other CommitteeFrequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please specify)
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+Performance against above policies and 
+follow up actionY Y Y Y Y Y Y Y YAnnually
+Compliance with statutory requirements of 
+relevance to the principles, and rectification 
+of any non-compliances Y Y Y Y Y Y Y Y Y
+Quarterly
+P1 P 2 P3 P4 P5 P6 P7 P8 P9
+11.  Has the entity carried out independent assessment/evaluation of the working of its 
+policies by an external agency? (Yes/No). If yes, provide name of the agency*Y Y Y Y Y Y Y Y Y
+12. If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+The entity does not consider the principles material to its business (Yes/No)
+Not applicableThe entity is not at a stage where it is in a position to formulate and implement the policies 
+on specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources available for the 
+task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+  * The Company has in place a robust Internal Assurance Group, led by the Chief Internal Auditor and ably supported by reputed independent firms as the Internal 
+Assurance Partners, which serves as a mechanism for assessment/evaluation of the working of all its key policies.
+Bharti Airtel Limited Integrated Report and Annual Financial Statements 2024-25
+196 197
+01
+02
+0403Statutory Reports
+Table 1 - NGBRC principle wise policy mapping:
+Principle Principle description Airtel Policy
+P1 Ethics, Transparency and Accountability: Businesses should 
+conduct and govern themselves with integrity, and in a 
+manner that is Ethical, Transparent and AccountableCode of Conduct
+Ombudsperson Policy and Process 
+Code of Conduct for Business Associates 
+T ax Policy
+P2 Product Lifecycle Sustainability: Businesses should provide 
+goods and services in a manner that is sustainable and safeBharti Airtel Limited Environment, Health and Safety Policy 
+Code of Conduct for Business Associates
+P3 Employee Well-being: Businesses should respect and 
+promote the well-being of all employees, including those in 
+their value chainsHuman Rights Policy
+Ombudsperson Policy and Process 
+Bharti Airtel Limited Environment, Health and Safety Policy 
+P4 Stakeholder Engagement: Businesses should respect the 
+interests of and be responsive to all its stakeholdersStakeholder Engagement Framework 
+Shareholders Satisfaction Survey 
+Ombudsperson Policy and Process
+P5 Promoting Human Rights: Businesses should respect and 
+promote human rightsHuman Rights Policy
+Code of Conduct for Business Associates
+Ombudsperson Policy and Process
+POSH policy
+P6 Protection of Environment: Businesses should respect and 
+make efforts to protect and restore the environmentBharti Airtel Limited Environment, Health and Safety Policy
+Code of Conduct for Business Associates
+P7 Responsible Policy Advocacy: Businesses, when engaging in 
+influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparentCode of Conduct
+P8 Support Inclusive Growth: Businesses should promote 
+inclusive growth and equitable developmentCode of Conduct
+Corporate Social Responsibility Policy 
+Stakeholder Engagement Framework 
+Airtel Sustainable Procurement Policy
+P9 Providing Customer Value: Businesses should engage 
+with and provide value to their consumers in a responsible 
+mannerCode of Conduct
+Bharti Airtel Limited Environment, Health and Safety Policy
+Bharti Airtel Privacy Policy
+Stakeholder Engagement Framework
+Table 2 - National and International standards:
+Principle Principle descriptionName	of	the	national	and	international	codes/	certifications/	
+labels/ standards
+P1 Ethics, Transparency and Accountability: Businesses 
+should conduct and govern themselves with integrity, and in 
+a manner that is Ethical, Transparent and Accountablei.  Reporting in reference to GRI standards and International 
+Integrated Reporting Framework
+ii. Signatory to United Nations Global Compact
+P2 Product Lifecycle Sustainability: Businesses should 
+provide goods and services in a manner that is sustainable 
+and safei. Science Based T argets initiative (SBTi) 
+ii.  Compliance with EMF radiation levels set by local regulations 
+in line with ICNIRP (International Commission on Non-Ionising 
+Radiation Protection) 
+iii. ISO 14001: 2015 Environment Management System (EMS)
+P3 Employee Well-being: Businesses should respect and 
+promote the well-being of all employees, including those in 
+their value chainsi. Signatory to United Nations Global Compact 
+ii.  ISO 45001: 2018 Occupational Health and Safety 
+Management System (OHS MS)
+P4 Stakeholder Engagement: Businesses should respect the 
+interests of and be responsive to all its stakeholdersi.  Materiality assessment and stakeholder engagement in 
+reference to GRI Standards and AccountAbility AA1000 
+principles
+P5 Promoting Human Rights: Businesses should respect and 
+promote human rightsi. Signatory to United Nations Global Compact
+P6 Protection of Environment: Businesses should respect and 
+make efforts to protect and restore the environmenti.  Science Based T argets initiative (SBTi)
+ii.  Compliance with EMF radiation levels set by local regulations 
+in line with ICNIRP (International Commission on Non-Ionising 
+Radiation Protection)
+iii. ISO 14001: 2015 Environment Management System (EMS)
+P7 Responsible Policy Advocacy: Businesses, when engaging 
+in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparenti. Signatory to United Nations Global Compact
+ii.  Board Membership (through Gopal Vittal) of GSMA - Leading 
+international telecom association
+P8 Support Inclusive Growth: Businesses should promote 
+inclusive growth and equitable developmenti.  CSR disclosures pursuant to Section 135 of the Companies 
+Act, 2013 
+ii. Follow the guidance provided by ISO 26000
+P9 Providing Customer Value: Businesses should engage 
+with and provide value to their consumers in a responsible 
+manneri.  ISO 27001: 2013 Information Security Management System 
+(ISMS)
+ii.  ISO 22301: 2019 Business Continuity Management System 
+(BCMS)
+iii. TL9000: Quality Management SystemSECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE 
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable
+ESSENTIAL INDICATORS 
+1.  Percentage coverage by training and awareness programmes on any of the principles during the 
+financial 	year	
+SegmentTotal number of 
+training and awareness 
+programmes heldTopics/principles covered under the training 
+and its impact% of persons in respective 
+category covered by the 
+awareness programmes*
+Board of Directors
+Please refer ‘Report on Corporate Governance’ forming part of this  
+Integrated Annual Report on page 251.Key Managerial Personnel 
+(KMP)
+Employees other than Board 
+of Directors or KMPs12 Code of Conduct, Prevention of Sexual 
+Harassment, ESG aspects, Safety (Road 
+Safety, Women Safety, Electrical Safety, etc.), 
+information security, business continuity 
+including privacy awareness. Additionally, 
+all the employees go through the above-
+mentioned training sessions at the time 
+Joining and annually thereafter.100
+Workers 5 Code of Conduct, safety (road safety, women 
+safety, electrical safety, etc.), Prevention 
+of Sexual Harassment, Conflict of Interest, 
+insurance benefits and Airtel Suraksha.100
+ *Percentage indicates details of trainings extended.
+2.		Details	of	fines/	penalties/ 	punishment/ 	award/	compounding 	fees/	settlement 	amount 	paid	in	
+proceedings (by the entity or by directors/KMPs) with regulators/ law enforcement agencies/ 
+judicial	institutions, 	in	the	financial 	year,	in	the	following 	format	[Note:	The	entity	shall	make	
+disclosures 	on	the	basis	of	materiality 	as	specified 	in	Regulation 	30	of	SEBI	(Listing 	Obligations 	
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website]: None. 
+3.  Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases 
+where monetary or non-monetary action has been appealed: Not applicable. 
+4.  Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and 
+if available, provide a web-link to the policy: The Company has a zero-tolerance approach towards bribery 
+and corruption. It is committed towards acting transparently, ethically and with integrity in all its business dealings and 
+relationships. Further, the Company has in place robust Anti-Bribery and Anti-Corruption Policy (‘ABAC’). This policy 
+is applicable to all employees of the Company, its subsidiaries and associate Companies. It is subject to all local legal/
+regulatory requirements and amendments from time to time. Brief details of the ABAC policy forming part of the Code 
+of Conduct of the Company is available on the website ( click here ). 
+5.  Number of Directors/ KMPs/ employees/ workers against whom disciplinary action was taken by 
+any law enforcement agency for the charges of bribery/corruption: None. 
+6.	 Details	of	complaints	with	regard	to	conflict-of-interest:	 None. 
+7.		Provide	 details	of	any	corrective	 action	taken	or	under	way	on	issues	related	 to	fines/	penalties/	
+action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption 
+and	conflicts	of	interest:	 Not applicable. 
+8.  Number of days of accounts payables ((Accounts payable *365)/ Cost of goods/ services procured) 
+in the following format:
+FY 2024-25 FY 2023-24
+Number of days of accounts payables 69 79
+Bharti Airtel Limited Integrated Report and Annual Financial Statements 2024-25
+198 199
+01
+02
+0403Statutory Reports
+9.  Open-ness of business Provide details of concentration of purchases and sales with trading 
+houses, dealers, and related parties along-with loans and advances & investments, with related 
+parties, in the following format:
+Parameters Metrics FY 2024-25 FY 2023-24
+Concentration of Purchases a)Purchases from trading houses as % of total 
+purchasesNot applicable Not applicable
+b)Number of trading houses where purchases are 
+made fromNot applicable Not applicable
+c)Purchases from top 10 trading houses as % of total 
+purchases from trading housesNot applicable Not applicable
+Concentration of Sales a)Sales to dealers/distributors as % of total sales 62.52 57.77
+b)Number of dealers/distributors to whom sales are 
+made10,057 11,180
+c)Sales to top 10 dealers/distributors as % of total 
+sales to dealers/distributors67.16% 61.80%
+Share of Related Party 
+Transactions (‘RPTs’)a)Purchases (Purchases with related parties/T otal 
+Purchases*)39 37
+b)Sales (Sales to related parties/T otal Sales**) 3 3
+c)Loans & advances (Loans & advances given to 
+related parties/T otal loans & advances)7 35
+d)Investments (Investments in related parties/T otal 
+Investments made)99 100
+ * Total operational expenditure.
+ ** Total revenue from operations.
+LEADERSHIP INDICATORS
+1.  Awareness programmes conducted for value chain partners on any of the principles during the 
+financial 	year:	
+Total number 
+of awareness 
+programmes heldTopics/principles covered under the training% of value chain partners 
+covered (by value of business 
+done with such partners) under 
+the awareness programmes
+14 ESG awareness and expectations, NGRBC Principles, Bharti Airtel ESG policies 
+(Code of Conduct, Human Rights, Safety), key focus areas (emissions, safety, 
+packaging, etc.), value chain reporting requirements, and handholding/
+capacity-building sessions95.27
+2.		Does	the	entity	have	processes 	in	place	to	avoid/manage 	conflict	of	interests 	involving 	members 	of	
+the board? (Yes/No) If yes, provide details of the same: Yes, Airtel has established comprehensive governance 
+frameworks and policies [including the Code of Conduct and Policy on Related Party Transactions (‘RPT Policy’)] 
+specifically designed to proactively identify, prevent and manage the conflicts of interest involving Board members and 
+Key Managerial Personnel (‘KMPs’). Confirmation with regard to adherence to the Code of Conduct is obtained from all 
+the Board members and employees including KMPs at the time of joining and thereafter, on an annual basis.
+  In addition to the above, the Company’s RPT Policy provides robust RPT governance framework, approval process and 
+oversight mechanism. In terms of the RPT Policy, related party transactions in which any of the Directors or KMPs is 
+concerned or interested, requires a prior approval of the Board of Directors in addition to the prior approval of the Audit 
+Committee. The RPT Policy also mandates that the concerned/interested board member shall recuse himself and abstain 
+from discussion and voting on such proposal for approval of the transaction at Audit Committee and Board meeting 
+(as applicable).PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS
+1.		Percentage 	of	R&D	and	capital	expenditure 	(capex)	investments 	in	specific 	technologies 	to	
+improve the environmental and social impacts of product and processes to total R&D and capex 
+investments made by the entity, respectively: 
+FY 2024-25 FY 2023-24Details of improvements in environmental and social 
+impacts
+R&D 81.83 92.92 T o enhance customer experience and expand data 
+access, Airtel has undertaken the following initiatives:
+•  Launched IPTV as a service, supported by 
+Airtel-developed IPTV set-top boxes (STBs).
+•  Introduced new models of customised Fixed 
+Wireless Access (FWA) devices.
+•  Developed an in-house service assurance stack 
+to enhance network performance and deliver 
+high-quality telecom services to customers.
+Capex 0.51 0.21 T o improve energy efficiency and improve environmental 
+and social impact, Airtel has implemented the following 
+initiatives:
+•  Replaced old servers with newer, energy-efficient 
+models to reduce carbon emissions.
+•  Deployed AI-driven storage systems that consume 
+less power.
+•  Transitioned from bridge-based calls to link-based 
+calls, significantly lowering emissions.
+•  Installed battery banks and solar panels to reduce 
+diesel dependency and further cut the carbon 
+footprint.
+Airtel has deployed GPU servers for AI-assisted biometric 
+verification and network optimisation. 
+2. a)  Does the entity have procedures in place for sustainable sourcing? Yes
+ b) If yes, what percentage of inputs were sourced sustainably? 88.06
+3.  Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing 
+at the end of life, for: (a) Plastics (including packaging), (b) E-waste, (c) Hazardous waste, and  
+(d) other waste: Bharti Airtel is committed to reusing, reducing, and recycling waste to promote a circular economy 
+and ensure efficient resource utilisation. Company’s processes include multiple evaluations to assess the potential of 
+products for repair or refurbishment for reuse and further ensure the sustainable recycling of waste, including e-waste, 
+battery waste and plastic waste, through government-authorised recyclers. In addition, the Company, in accordance 
+with Extended Producer Responsibility (EPR) guidelines collaborates with service providers to responsibly collect 
+electronic waste and plastic packaging for sustainable recycling.
+4.  Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). 
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) 
+plan submitted to Pollution Control Boards? If not, provide steps taken to address the same: Yes, 
+Extended Producer Responsibility (EPR) is applicable to Airtel under the Plastic packaging waste, E-waste & Battery 
+waste category. The Company collaborates with service providers to ensure execution of waste collection plan in line 
+with the collection target issued by Central Pollution Control Board (CPCB).
+Bharti Airtel Limited Integrated Report and Annual Financial Statements 2024-25
+200 201
+01
+02
+0403Statutory Reports
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their 
+value chain
+ESSENTIAL INDICATORS 
+1. a) Details of measures for the well-being of employees:
+Category% of employees covered by
+Total (A)Health insurance Accident insurance Maternity 	benefits Paternity 	benefits Day care facilities
+No. (B) % (B/A) No. (C) % (C/A) No. (D) % (D/A) No. (E) % (E/A) No. (F) % (F/A)
+Permanent employees 
+Male 10,932 10,932 100 10,932 100 - -10,932 100 10,932 100
+Female 2,661 2,661 100 2,661 100 2,661 100 - - 2,661 100
+Total 13,593 13,593 100 13,593 100 2,661 100 10,932 100 13,593 100
+ b) Details of measures for the well-being of workers:
+Category% of workers covered by
+Total (A)Health insurance Accident insurance Maternity 	benefits Paternity 	benefits Day care facilities
+No. (B) % (B/A) No. (C) % (C/A) No. (D) % (D/A) No. (E) % (E/A) No. (F) % (F/A)
+Other than Permanent workers 
+Male 66,405 66,405 100 66,405 100 - -66,405 100
+- Female 5,456 5,456 100 5,456 100 5,456 100 - -
+Total 71,861 71,861 100 71,861 100 5,456 100 66,405 100
+ c)  Spending on measures towards well-being of employees and workers (including permanent and other 
+than permanent) in the following format:
+FY 2024-25* FY 2023-24
+Cost incurred on well-being measures as a % of total revenue of the Company 0.18 0.17
+   *The cost of well-being includes staff welfare expenses, salaries paid during maternity and paternity leave, and insurance benefits provided to employees 
+and workers.
+2.	 Details	of	retirement	benefits	for	the	Current	and	Previous	Financial	Year:
+BenefitsFY 2024-25 FY 2023-24
+No. of 
+employees 
+covered as 
+a % of total 
+employeesNo. of workers 
+covered as a % 
+of total workersDeducted and 
+deposited with 
+the authority 
+(Y/N/NA)No. of 
+employees 
+covered as 
+a % of total 
+employeesNo. of workers 
+covered as a % 
+of total workers Deducted and 
+deposited with 
+the authority 
+(Y/N/NA)
+PF 100 100 Y 100 100 Y
+Gratuity 100 100 As and when 
+applicable100 100 As and when 
+applicable
+ESI 0.16 48 Y 0.42 53 Y
+Others – please specify NA
+3. Accessibility of workplaces 
+Are	the	premises/offices	 of	the	entity	accessible	 to	differently-abled	 employees,	 as	per	the	requirements	 of	
+the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this 
+regard: The Company has made all endeavours to meet the requirements of Rights of Persons with Disabilities Act, 
+2016. The Company has wheelchairs, dedicated car parking, elevators etc. for the convenience of disabled person(s).
+4.  Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 
+2016? If so, provide a web-link to the policy: Yes, the policy is available via the Company’s intranet.5. Return to work and Retention rates of permanent employees that took parental leave: 
+GenderPermanent Employees
+Return to work rate Retention rate
+Male 100 91
+Female 99 92
+Total 100 91
+6.  Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and workers? If yes, give details of the mechanism in brief:
+Yes/No (If yes, then give details of the mechanism in brief)
+Permanent Employees Yes, Airtel has ‘Employee Resolution Query Management System’, administered by human resource function, 
+which addresses issues such as service conditions, organisational policies, performance evaluations and 
+various operational matters.
+In addition to the above, the Company has a ‘Code of Conduct’ covering ‘Whistle Blower Policy’ that allows 
+employees including contractual workers, to report concerns with reference to ‘Code of Conduct’ without any 
+fear of retaliation. The Ombudsperson administers the whistle blower/vigil mechanism which allows employees 
+to report any threatened or actual breach of the Code of Conduct.Other than Permanent 
+Workers
+7.  Membership of employees and worker in association(s) or Unions recognised by the listed entity: 
+Nil, as the Company does not have any employees’ association or union.
+8. Details of training given to employees and workers:
+FY 2024-25 FY 2023-24
+Total (A)On Health and safety 
+measures* On Skill upgradation*Total (D)On Health and safety 
+measures* On Skill upgradation*
+No. (B) % (B/A) No. (C) % (C/A) No. (E) % (E/D) No. (F) % (F/D)
+Employees 
+Male 10,932 10,932 100 10,932 100 11,845 11,845 100 11,845 100
+Female 2,661 2,661 100 2,661 100 2,477 2,477 100 2,477 100
+Total 13,593 13,593 100 13,593 100 14,322 14,322 100 14,322 100
+Workers 
+Male 66,405 66,405 100 66,405 100 58,321 58,321 100 58,321 100
+Female 5,456 5,456 100 5,456 100 4,976 4,976 100 4,976 100
+Total 71,861 71,861 100 71,861 100 63,297 63,297 100 63,297 100
+ *Percentage indicates details of trainings extended.
+9. Details of performance and career development reviews of employees and workers:
+CategoryFY 2024-25 FY 2023-24
+Total (A) No (B) % (B/A) Total (C) No (D) % (D/C)
+Employees* 
+Male 10,932 10,932 100 11,845 11,845 100
+Female 2,661 2,661 100 2,477 2,477 100
+Total 13,593 13,593 100 14,322 14,322 100
+Workers 
+Male 66,405 32,985 50 58,321 25,322 43
+Female 5,456 2,448 45 4,976 1,929 39
+Total 71,861 35,433 49 63,297 27,251 43
+ * 100% of eligible employees have undergone performance and career development reviews.
+Bharti Airtel Limited Integrated Report and Annual Financial Statements 2024-25
+202 203
+01
+02
+0403Statutory Reports

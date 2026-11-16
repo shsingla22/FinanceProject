@@ -1,0 +1,322 @@
+ 
+Classification: Internal Contains PII: No 
+ 
+ 
+ 
+ 
+ 
+June 27, 2025 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+ 
+Dear Sir/Madam,  
+ 
+Sub:  Business Responsibility and Sustainability Report for the Financial Year 2024-25 
+ 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are enclosing herewith a copy of our Business Responsibility and 
+Sustainability Report for the Financial Year 2024-25. 
+ 
+The above said report is also published on our website at 
+https://www.latentview.com/investor-relations/financial-results-reports/.  
+ 
+This is for your information and records. 
+ 
+ 
+Thanking you, 
+For Latent View Analytics Limited   
+  
+ 
+_______________________  
+P. Srinivasan  
+Company Secretary  and Compliance Officer  
+  
+1  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1 Corporate Identity Number (CIN) 
+of the Listed EntityL72300TN2006PLC05848 1
+2 Name of the Listed Entity Latent View Analytics Limited
+3 Year of Incorporation January 3, 2006
+4 Registered office address 5th Floor, Neville Tower, Unit 6,7 and 8, Ramanujan IT City, Rajiv 
+Gandhi Salai, Taramani Chennai, Chennai, India 6001 1 3
+5 Corporate office address 5th Floor, Neville Tower, Unit 6,7 and 8, Ramanujan IT City, Rajiv 
+Gandhi Salai, Taramani Chennai, Chennai, India 6001 1 3
+6 E-mail Investorcare@latentview.com
+7 Telephone 91 44 4344 1700
+8 Website https://www.latentview.com/
+9 Financial year for which reporting 
+is being done2024-25
+10 Name of the Stock Exchange(s) 
+where shares are listedNational Stock Exchange of India Limited & BSE Limited
+11 Paid-up capital  206.47 million
+12 Name and contact details of the person who may be contacted in case of any queries on the BRSR reportRajan Bala Venkatesan - Chief Financial Officer
+Contact - 044 4344 1700 E-mail - Investorcare@latentview.com
+13 Reporting Boundary Standalone basis
+14 Name of assurance provider NA
+15 Type of assurance obtained NAANNEXURE-5 TO THE BOARD’S REPORT
+Business Responsibility and Sustainability Report
+16. Details of business activities (accounting for 90% of the turnover) (Contd.)
+Sr. 
+No.Description of  Main activityDescription of Business Activity % of Turnover  
+of the  entity
+Established in 2006, LatentView holds the distinction of being India’s first publicly listed analytics Company. With a global presence, we serve an elite clientele of Fortune 500 companies across key industries, including Consumer Packaged Goods (CPG), Retail, Technology, Financial Services, and Media & Entertainment.
+Our Centers of Excellence (COEs) deliver industry-
+leading insights and best practices tailored to specific domains. Complementing these are our specialized Horizontal Teams—spanning Data Engineering, Data Science & AI, and Data Visualization—which provide bespoke consulting and solutions designed to drive measurable impact. Key functional areas we enhance include:
+•
+ Customer & Mark
+eting Analytics
+•
+ Supply Chain Optimiz
+ation 
+•
+ Financial & Risk Analytics
+•
+ Human Capital Management Analytics
+P
+owered by a dynamic and passionate team, we are 
+committed to continuous innovation, ensuring exceptional 
+value for our clients and their end consumers.
+1 7 . Products/services sold by the entity (accounting for 90% of the entity’s turnover)
+Sr. No.Product/Service NIC Code % of total Turnover 
+contributed
+1. Other data processing, hosting and related  activities n.e.c.6 3119 100II. Products/services
+16. Details of business activities (accounting for 90% of the turnover)
+Sr. No.Description of  Main activityDescription of Business Activity % of Turnover  
+of the  entity
+1. Information service activityLatentView Analytics (NSE: LATENTVIEW) is a global leader in digital analytics and AI, enabling businesses to accelerate digital transformation and leverage data for competitive advantage. Our cutting-edge solutions empower organizations to optimize revenue growth, unlock new revenue streams, and enhance profitability.100
+2  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+III. Operations  
+18. Number of locations where plants and/or operations/offices of the entity are 
+situated
+Location Number of plants Number of offices Total
+National NA 03 03
+International NA 11 11
+19. Markets served by the entity
+a. Number of locations
+Locations Number
+National (No. of states) 3
+International (No. of countries) 11
+b. What is the contribution of exports as a percentage of the total turnover of the 
+entity?
+91.5%
+c. A brief on types of customers
+LatentView continues to be a trusted partner to a diverse range of enterprises globally.
+Key Customer Segments of LatentView:
+•
+ Leading Global Enterprises:
+ LatentView collaborates with over 30+ Fortune 500 companies.
+•
+ Industr
+y Vertical Focus: The Company possesses strong domain expertise, offering specialized analytics 
+solutions across key industry sectors. In FY25, the primary verticals served include:•
+ T
+echnology: A key revenue source, serving diverse hi-tech clients from software to manufacturing in 
+platform development and digital strategy alignment.
+•
+ F
+inancial Services: The sector shows strong growth, serving multinational banks, global payments 
+firms, and fintech’s. Work highlights the increasing demand for intelligent automation, personalization, 
+and data-informed decisions.
+•
+ Con
+sumer Packaged Goods (CPG) & Retail: Serving top sportswear, optical, convenience retail, 
+and household electronics brands with Revenue Growth Management (RGM), promotional planning, social media analytics, customer sentiment analysis, and streamlined reporting. The FY25 acquisition of Decision Point Analytics enhances these capabilities.
+•
+ Industrials:
+ Engaging with top automotive suppliers, specialty chemical firms, and global industrial 
+groups, our analytics-driven projects enhance operational agility, product improvement, and  
+commercial impact.•
+ Business Model F
+ocus: LatentView assists B2B and B2C clients in understanding digital consumers, 
+forecasting revenue, predicting trends, enhancing retention, and optimizing investments.
+IV. Employees  
+20. Details as of March 3 1, 2025
+a. Employees and workers (including differently abled)
+Sr. 
+No.Particulars Total 
+(A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Employees
+1 Permanent (D) 1,133 741 65.4 392 34.5
+2 Other than Permanent (E) 39 27 69.2 12 30.7
+3 Total employees (D+E) 1,172 768 65.5 404 34.4
+Workers
+1 Permanent (F) NA - - - -
+2 Other than Permanent (G) NA - - - -
+3 Total workers (F+G) NA - - - -
+b. Differently abled employees and workers
+Sr. No.Particulars Total 
+(A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+Differently Abled Employees
+1 Permanent (D) 1 1 100% - -
+2 Other than Permanent (E) - - - - -
+3 Total differently-abled 
+employees (D+E)1 1 100% - -
+Differently Abled Workers
+1 Permanent (F) NA - - - -
+2 Other than Permanent (G) NA - - - -
+3 Total differently-abled 
+workers (F+G)NA - - - -
+21. Participation/inclusion/representation of women
+Total (A) No. and percentage of females
+No. (B) % (B/A)
+Directors 6 2 33.3
+Key Management Personnel 3 - -
+3  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+22. Turnover rate for permanent employees and workers
+FY 2024-25 FY 2023-24 FY 2022-23
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees19.8 25.2 22.0 25.1 17.6 22.2 25.4 23.3 24.7
+Permanent WorkersNA NA NA NA NA NA NA NA NA
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. 1. Names of holding/subsidiary/associate companies/joint ventures:  
+Sr. 
+No.Name of Holding/Subsidiary/Associate Companies/Joint Venture (A)Indicate whether 
+Holding/
+Subsidiary/
+Associate/Joint 
+Venture% Of 
+shares 
+held by 
+listed 
+entityDoes the entity 
+indicated in column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1 LatentView Analytics Corporation - USA Subsidiary 100% No
+2 LatentView Analytics Pte. Ltd - Singapore Subsidiary 100% No
+3 LatentView Analytics UK Ltd -  
+United KingdomSubsidiary 100% No
+4 LatentView Analytics B.V - Netherland Subsidiary 100% No1. Names of holding/subsidiary/associate companies/joint ventures:  (Contd.)
+Sr. No.Name of Holding/Subsidiary/Associate Companies/Joint Venture (A)Indicate whether 
+Holding/
+Subsidiary/
+Associate/Joint 
+Venture% Of 
+shares 
+held by 
+listed 
+entityDoes the entity 
+indicated in column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+5 LatentView Analytics GmbH - Germany Step down 
+Subsidiary
+#100% No
+6 Decision Point Private Limited - India Subsidiary 70% No
+7 Decision Point Latam SpA - Chile Step down Subsidiary 70%* No
+8 Decision Point Analytics Inc - USA Step down Subsidiary 70%* No
+9 Decision Point Latam - Mexico Step down Subsidiary 70%* No
+10 Decision Point Analytics LLC FZ - Dubai Step down Subsidiary 70%* No
+*Intermediate holding Company i.e Decision Point Private Limited holds 100% equity of its subsidiaries.
+#Intermediate holding Company i.e LatentView Analytics B.V.- holds 100% equity of  LatentView Analytics GmbH.
+VI. CSR Details  
+24. (i) Whether CSR is applicable as per Section 135 of Companies Act, 2013: Yes
+a. T urnover (in `): 3,471,250,000
+b.
+ Net wor
+th (in `): 1 1,927 ,523,000
+VII. Transparency and Disclosures Compliances 
+25. Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on   Responsible Business Conduct (NGRBC)
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder group from whom 
+complaint is receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No)FY 2024-25 FY 2023-24
+Number of 
+complaints filed 
+during the yearNumber of 
+complaints pending 
+resolution at close 
+of the yearRemarks Number of 
+complaints filed 
+during the yearNumber of 
+complaints pending 
+resolution at close 
+of the yearRemarks
+Communities Yes - - - - - -
+Investors (other than shareholders) Yes1 - - - - - -
+Shareholders Yes1- - - - - -
+4  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+25. Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on   Responsible Business Conduct (NGRBC) (Contd.)
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder group from whom 
+complaint is receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No)FY 2024-25 FY 2023-24
+Number of 
+complaints filed 
+during the yearNumber of 
+complaints pending 
+resolution at close 
+of the yearRemarks Number of 
+complaints filed 
+during the yearNumber of 
+complaints pending 
+resolution at close 
+of the yearRemarks
+Employees and workers Yes2- - - - - -
+Customers Yes - - - - - -
+Value Chain Partners Yes3- - - - - -
+1Investor Grievance Redressal Policy – https://www.latentview.com/wp-content/uploads/2023/10/investor-grievance-redressal-policy.pdf
+2Employee Grievance Redressal Policy- Available in the Organization’s Intranet
+3Sustainable Procurement Policy- https://www.latentview.com/wp-content/uploads/2024/02/sustainable-procurement-policy.pdf
+26. Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk*: 
+Sr. 
+No.Material issue identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunity In case of risk, approach to adapt or mitigate. Financial implications of the risk or opportunity (Indicate positive or negative implications)
+1 Energy 
+ManagementOpportunity Electricity is the primary energy source for our operations. LatentView recognizes the potential to reduce energy consumption through conservation measures, thereby lowering operational costs and reducing our carbon footprint.NA Positive
+2 Carbon  
+EmissionsOpportunity At LatentView, we are dedicated to learning more about climate change and its effects. This greater understanding has led us to adopt more environmentally friendly products and practices quickly. As part of our commitment to environmental stewardship, we have implemented a comprehensive strategy to reduce our carbon footprint across operations. Our initiatives prioritize energy efficiency, renewable energy adoption, and sustainable infrastructure to align with global climate goals.
+Energy Efficiency Measures Optimized Building Systems:  Deployment of 
+LED lighting, high-efficiency HVAC systems, and Variable Frequency Drive (VFD)-controlled air-conditioning to minimize energy consumption.
+Smart Energy Management: Integration of automated systems to monitor and 
+reduce unnecessary power usage across facilities.
+Renewable Energy Transition Green Power Procurement: Over 75% of 
+total energy consumption is sourced from renewable sources, significantly reducing reliance on fossil fuel-based grid electricity.Positive
+5  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+26. Overview of the entity’s material responsible business conduct issues (Contd.)
+Sr. 
+No.Material issue identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/opportunity In case of risk, approach to adapt or mitigate. Financial implications of the risk or opportunity (Indicate positive or negative implications)
+Renewable Energy Transition Green Power Procurement: LatentView 
+sources electricity from the IT park in which we operate, which incorporates a 
+renewable energy mix as part of its power supply. By utilizing energy that includes a share of clean and sustainable sources, we actively contribute to lowering our carbon footprint and aligning with broader environmental goals.
+Sustainable Infrastructure & Certifications Green Building Standards: Our 
+facilities are designed and operated in compliance with LEED Platinum and EDGE Zero Carbon standards, ensuring energy-efficient and low-carbon infrastructure.
+Net-Zero Roadmap: Commitment to achieving net-zero carbon emissions through 
+continuous improvements in energy performance and renewable energy adoption.
+Resource Efficiency & Waste Management Zero Liquid Discharge (ZLD) 
+Systems: Advanced water recycling processes to eliminate wastewater discharge, reducing emissions associated with water procurement and disposal.
+Circular Economy Practices: Procurement of sustainable materials, including 
+recycled acoustic panels and eco-certified furnishings, to minimize embodied carbon.
+Low-Carbon Mobility Electric Vehicle (EV) Infrastructure: Providing Access 
+to  EV charging stations within the office premises to encourage the adoption of low-emission transportation among employees.
+Sustainable Commuting Programs: Creating awareness and motivating 
+usage of public transport and carpooling to reduce Scope 3 emissions from employee travel.
+3 Diversity and 
+InclusionOpportunity A diverse and inclusive workforce fosters innovation and enhances problem-solving. LatentView actively promotes a work environment where every employee feels respected and supported, regardless of gender, ethnicity, or background.NA Positive
+4 Data security 
+(Data privacy/Cyber security)Risk At LatentView, data protection and privacy are fundamental to our business operations. As reliance on digital technologies grows and remote work becomes more prevalent, safeguarding the confidentiality and integrity of data has become increasingly criticalWe have a robust data protection and cyber security policy which sets forth limits, mitigation strategies and internal controls.
+We adhere strictly to all relevant data protection regulations, standards, and other 
+international, national, and industry-specific regulations.Negative

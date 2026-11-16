@@ -1,0 +1,215 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  BSE LIMITED NATIONAL STOCK EXCHANGE OF INDIA LIMITED NEW YORK STOCK EXCHANGE June 02, 2025 Dear Sir/ Madam, Sub: Integrated Annual Report for the Financial Year 2024-25  In compliance with the Companies Act 2013, (‘Act’) rules framed thereunder and SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, (‘Listing Regulations’) as amended from time to time, Please find enclosed the Integrated Annual Report, Business Responsibility and Sustainability Report (‘BRSR’) and Notice of Annual General Meeting for the Financial Year 2024-25, which is being sent to the Shareholders through electronic mode whose e-mail addresses are registered with the Company/Depository Participant(s) (‘DPs’). Further, in accordance with Regulation 36(1)(b) of the Listing Regulations, the Company will be sending a letter to Shareholders whose e-mail addresses are not registered with Company/DPs providing the weblink from where the Integrated Annual Report can be accessed on the Company’s website.  The following reports will be made available on the Company’s website:  Name of the report Website link 44th AGM Notice and Integrated Annual Report 2024-25 (including Business Responsibility and Sustainability Report).  https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-25.pdf  Infosys Foundation’s Annual Report 2024-25 https://www.infosys.org/infosys-foundation/about/reports/documents/infosys-foundation-report-2024-25.pdf  Information at glance:  Particulars Details Time and date of AGM 4:00 p.m. IST, Wednesday, June 25, 2025 Mode Video conference and other audio-visual means Participation through video-conferencing https://agm.onwingspan.com/InfosysAGM  Helpline number for VC participation +91-80-4156 5555 / +91-80-4156 5777 Webcast and transcripts https://www.infosys.com/Investors/ Final dividend record date Friday, May 30, 2025 Final dividend payment date Monday, June 30, 2025 Information of tax on Final dividend  https://www.infosys.com/investors/shareholder-services/dividend-tax.html Cut-off date for e-voting Wednesday, June 18, 2025 E-voting start time and date 9:00 a.m. IST, Friday, June 20, 2025 E-voting end time and date 5:00 p.m. IST, Tuesday, June 24, 2025 E-voting website of NSDL https://www.evoting.nsdl.com/ This is for your information and records.  For Infosys Limited   A.G.S. Manikantha Company Secretary Membership No: A21918 
+Integrated Annual Report 2024-25AI YOUR ENTERPRISE
+Infosys Integrated Annual Report 2024-253
+Scan here to access the digital version of the Infosys Integrated Annual Report.
+The cover and theme pages images have been created using gen AI tools.Building enterprises in the age of AI
+Over the past two years, we’ve seen rapid growth in AI 
+awareness, usage, and investment. The hunger to learn fast 
+and experiment faster has been insatiable. With growing 
+ease of use and increasing access to AI assistants, co-pilots 
+and tools, AI use-cases and pilots have mushroomed and 
+burgeoned across the enterprise, with some value realized. 
+The unbridled enthusiasm around AI has meant that CXOs 
+are no longer having to advocate for the value of AI within 
+the enterprise. Instead, they can invest now in scaling, 
+driving adoption and governing.
+The distinct opportunity is to build with AI to amplify the 
+potential of employees, and modernize systems and how 
+they empower people working within the organization, 
+to increase efficiency, productivity, and innovation. This in 
+turn can transform the value these businesses can bring 
+to their customers. By strategically implementing AI and 
+ensuring it complements human capabilities, businesses 
+can significantly improve customer proposition and 
+service, leading to increased satisfaction, loyalty, and 
+ultimately, better business outcomes.
+This endeavor can be multi-tiered and complex. AI 
+experiments are often heterogeneous, requiring diverse 
+data and tech stacks that necessitate building entire new 
+architectural foundations before value can be realized. 
+There is also the need to focus on making sure that AI 
+Infosys Integrated Annual Report 2024-25 3systems are used fairly and responsibly so that they can 
+truly serve the enterprise at scale.
+Applying AI at a scale that can power the entire 
+enterprise involves building AI capabilities mindfully. This 
+entails nurturing a robust data strategy, investing in AI 
+infrastructure optimization, while also systemically building 
+capacity to deepen algorithmic efficiencies and improve 
+model performance. In many ways, this is about reframing 
+the status quo for an AI-first future – with sustained value 
+in mind. Leaders embrace a hybrid approach to power their 
+AI flywheels. They need flexibility of infrastructure – both 
+rental and owned models – to bring them the control that 
+they need over the environment, along with the potential 
+to drive efficiencies in the long run, in addition to security 
+and compliance efficiencies as well. 
+We are building templates for AI success – industry after 
+industry, business after business – for enterprise-scale 
+value generation for our clients. We are helping them 
+AI their enterprise in ways that are changing the game 
+for them today and giving them a head start into the 
+future. Some interesting examples, as case studies, make 
+for interesting and quick reading later in this Integrated 
+Annual Report. In many ways, it’s exactly what you’d expect 
+from a partner whose promise to enterprises is – navigate 
+your next.
+Americana Restaurants is the largest out-of-home 
+dining and quick-service restaurant operator in their 12 
+countries of operation across the Middle East and North 
+Africa. With strong franchisor partnerships and a diverse 
+portfolio of iconic global brands, including KFC, Pizza 
+Hut, Hardee’s, Krispy Kreme, Peet’s Coffee, Wimpy, TGI 
+Friday’s, Costa Coffee, and Baskin Robbins, the company 
+delivers world-class dining experiences. Their growth, 
+in recent years, has been so rapid that it was starting 
+to strain their technology infrastructure, exposing 
+limitations in their ability to scale to demand. They 
+sought out Infosys’ expertise to help them establish 
+a state-of-the-art BPM framework that would bring 
+transparency and efficiency into their process ecosystem 
+while prioritizing their vital enterprise Accounts Payable 
+processes for AI-powered transformation. 
+Infosys started at the foundation, completely 
+reimagining Americana Restaurants’ document-centric 
+workflows for an enterprise set to turn AI-first. The 
+deployment of Infosys Accounts Payable Solution on 
+the cloud and its application enterprise-wide ensured 
+that Americana Restaurants significantly improved 
+efficiency, reducing processing times, minimizing errors, and optimizing costs. The integration of agentic 
+AI that followed has made their invoice processing 
+largely autonomous. AI agents process invoices end-
+to-end and offer support for multiple languages while 
+managing complex validations and diverse expense 
+types and processing exceptions with minimal human 
+intervention. When required, users enjoy a highly 
+intuitive user interface that only requires them to access 
+a very simple training that serves them well across 
+devices, from desktops to mobiles.
+Infosys’ agentic AI-powered cloud-based Accounts 
+Payable solution is among the first of its kind anywhere 
+in the world that empowers Americana Restaurants to:
+• Not only process invoices with minimal human 
+intervention but predict and plan for future 
+transactions
+• Adapt the accounts payable environment 
+dynamically to process deviations, reduce errors, 
+and increase accuracy
+• Leverage Microsoft Azure GPT-4 Omni for 
+continuous learning and operational improvements
+“Our partnership with Infosys has helped us embrace enterprise AI and transform 
+the way we manage finance operations. With AI, our invoice processing is faster, 
+more accurate, and far more future-proofed. This leap forward has also meant 
+bringing more intelligence into our Accounts Payable, and we are looking to apply 
+that learning into other areas of our organization. ” 
+– Harsh Bansal, Chief Financial Officer and Chief Growth Officer, Americana Restaurants
+Americana Restaurants:  
+Reimagining Accounts Payable 
+with agentic AI 
+Infosys Integrated Annual Report 2024-25 5 Infosys Integrated Annual Report 2024-25 4
+Sunrise is Switzerland’s leading challenger, with a strong 
+number two position in the Swiss telecommunications 
+market and is listed on SIX Swiss Exchange (SUNN). 
+Based on its best-in-class, future-fit networks, Sunrise 
+provides high-quality mobile, landline, broadband and 
+TV services to residential customers, and empowers 
+business customers with 360° communications and 
+integrated ICT solutions for connectivity, security and 
+IoT advancing their digitalization.
+The company’s IT strategy is built around customer-
+centric innovation, operational excellence, infrastructure 
+modernization and digital transformation. One of the 
+key technologies supporting the digital transformation 
+is AI, with one of its building blocks being a unified 
+data platform which aggregates data from various 
+sources (customer interactions, network performance, 
+billing, etc.) and has already been implemented by 
+Sunrise. Additional building blocks that are being 
+worked on are AI/ML models to generate actionable 
+insights for personalized customer experiences, 
+predictive maintenance, and fraud detection as well as 
+comprehensive self-service options tailored to digitally 
+savvy customers. The goal is to drive customer retention and loyalty in addition to enabling targeted marketing 
+and improving customer support efficiency. 
+Sunrise is also investing in robotic process automation 
+for back-office operations and plans to implement the 
+Infosys AIOps platforms to automate incident detection, 
+root cause analysis, and resolution, thereby enhancing 
+operational efficiency and service reliability. By adopting 
+the full Microsoft M365 suite, Sunrise is nurturing a 
+fully modern, AI-driven, cloud-based collaborative 
+workplace, in collaboration with Infosys.
+To share experiences and accelerate responsible 
+AI innovation at scale, Sunrise has created an AI 
+Community of Practice across the enterprise, governed 
+by the CIO unit together with the contribution of all 
+business units and enablement functions. This helps the 
+entire organization remain aligned on new uses cases, 
+on the learnings, and the underlying technologies, 
+security and ethical guidelines while also working 
+effectively. Sunrise CIO department partnered with 
+Infosys, building on this foundation to further drive 
+AI initiatives.
+“Sunrise is committed to continuing to focus on delivering exceptional quality 
+services at the right cost. It is this commitment that has made us the carrier of 
+choice for many in Switzerland. The new offers around digital services will mean 
+that our customers will have even more options and services at their fingertips. 
+We appreciate Infosys’ partnership on this journey. ” 
+– Anna Maria Blengino, Chief Information Officer, Sunrise GmbH
+Sunrise: Amplifying intelligence in 
+customer engagement, operations 
+& employee experience
+Infosys Integrated Annual Report 2024-25 7 Infosys Integrated Annual Report 2024-25 6
+Posti is a versatile, modern, and international logistics 
+company with nearly 400 years of experience. Today, 
+the company connects people and companies with 
+postal services, parcels, e-commerce, and freight 
+services, in addition to warehouse and logistics across 
+the Nordic and Baltic countries. Posti was early to 
+embrace the power of enterprise AI to accelerate the 
+transformation of its IT landscape and amplify its ability 
+to deliver exceptional services, optimize operations, and 
+strengthen its position as a leading delivery and logistics 
+provider. 
+In partnership with Infosys, Posti was quick to create an 
+AI-powered efficient and customer centric organization 
+with:
+• Enhanced operational efficiency and observability: 
+By implementing Infosys’ Live Enterprise Application 
+Management Platform with embedded generative 
+AI capabilities, Posti has fully transformed its 
+business process monitoring. The Platform 
+addresses visibility gaps, enabling automated 
+monitoring and AI-based incident triaging. By 
+correlating insights from the Infosys platform with 
+its other platforms, Posti has a comprehensive and unified view of its entire IT landscape. This has 
+dramatically reduced critical process downtime for 
+the company by over 90%, and helped it shift from 
+reactive to predictive incident management.
+• Proactive IT operations management: Posti 
+leverages GitHub Copilot to accelerate legacy code 
+comprehension and improve its application lifecycle 
+management. Furthermore, the deployment of 
+Nanoheal, a self-help/self-heal tool, along with a 
+generative AI-powered chatbot, drives proactive 
+resolution of IT incidents across the company. These 
+innovations have also resulted in reduced support 
+call volumes for the organization along with dips of 
+almost 40% in Mean Time to Resolution.
+• Accelerated application development: GitHub 
+Copilot has significantly increased the pace of Posti’s 
+software development lifecycle. The capability 
+has boosted the company’s application lifecycle 
+productivity by approximately 35%, accelerating 
+both application development and deployment. 
+This enables Posti to bring new and enhanced 
+services to market faster, strengthening its 
+competitive edge in a fast-changing marketplace.
+“As we navigate the next phase of our evolution with enterprise AI, 
+with Infosys, Posti will not only become a leader in the logistics and 
+e-commerce sector, but a true digital frontrunner in the Nordics. ” 
+– Petteri Naulapää, CIO and SVP , ICT and Digitalisation, Posti Group 
+Posti: Where the future  
+of logistics is AI-first
+Infosys Integrated Annual Report 2024-25 9 Infosys Integrated Annual Report 2024-25 8

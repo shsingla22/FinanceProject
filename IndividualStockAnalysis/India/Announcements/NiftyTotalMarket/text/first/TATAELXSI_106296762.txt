@@ -1,0 +1,88 @@
+ 
+ July 11, 2025  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+Dear Sir s/Madam , 
+ 
+Sub: Press Release  - “Tata Elxsi and Synopsys Collaborate to Accelerate Software -Defined Vehicle 
+Development through Advanced ECU Virtualization Capabilities ”  
+ 
+Please find enclosed the Press Release dated Ju ly 11, 2025, titled  “Tata Elxsi and Synopsys Collaborate to 
+Accelerate Software- Defined Vehicle Development through Advanced ECU Virtualization Capabilities ”. 
+ 
+This disclosure is made in compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015.  
+ This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Sneha V  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+ 
+Tata Elxsi and Synopsys Collaborate to Accelerate  Software -Defined Vehicle  
+Development  through  Advanced ECU Virtualization Capabilities  
+Integrated capabilities  aim to  simplify  and speed software development  and testing  to help reduce 
+related costs  and de-risk production  timelines  
+Bengaluru , India – July 1 1, 2025  — Tata Elxsi, a global leader in design and technology services , 
+today announced the signing of a Memorandum of Understanding (MoU) with Synopsys, a leader in 
+silicon to systems design solutions, to collaborate to  deliver advanced automotive virtualization  
+solutions. The MoU was signed at the SNUG India 2025 event in Bengaluru by senior leaders from 
+both companies . 
+The collaboration will provide customers pre -verified, integrated solutions and services that make it 
+easy to desig n and deploy virtual electronic control units (vECUs), a cornerstone technology critical 
+for efficient software development and testing in today’s software -defined vehicles. The 
+collaboration brings together Tata Elxsi’s engineering capabilities in embedde d systems and 
+integration with Sy nopsys’ industry -leading virtualization solutions  that are used by more than 50  
+global  automotive  OEMs and Tier 1 suppliers  to help reduce development complexity and cost, 
+improve quality of software systems, and de-risk vehicle production timelines .  
+Together, the  companies are already collaborating  on programs with  several  global customers  to 
+enable  vECUs,  as well as software bring -up, board support package (BSP) integration, and early -stage 
+software validation. These solutions are being deployed across vehicle domains such as powertrain, 
+chassis, body control, gateway, and central compute, helping customers  simulate real -world 
+scenarios,  validate software ea rly, and reduce reliance on physical prototypes.  
+
+ 
+Through the collaboration, Synopsys and Tata Elxsi will further explore opportunities to scale and 
+accelerate the deployment of electronics digital twins for multi -ECU and application specific systems .  
+“Our partnership with Synopsys reflects a future -forward  response to how vehicle development is 
+evolving. As OEMs move away from traditional workflows, there is growing demand for engineering 
+services that are tightly integrated with virtuali zation tools. This strategic collaboration  enables  us to 
+jointly address that shift with focus, flexibility, and domain depth, ” said Sundar  Ganapathi , Chief 
+Technology Officer of Automotive , Tata Elxsi . 
+“The automotive industry ’s transformation to  software -defined vehicles requires advanced 
+virtualizatio n capabilities from silicon to systems . Our leadership enabling automotive electronics 
+digital twins , combined with Tata Elxsi ’s engineering scale and practical experience operationalising  
+automotive system design , will simplify  the adoption of virtual ECUs and thereby accelerate software 
+development  and testing to improve  quality and time to market ,” said Marc Serughetti, Vice 
+President, Synopsys Product Management & Markets Group.  
+About Tata Elxsi  
+Tata Elxsi is among the world’s leading providers of design and technology services across industries 
+including automotive, broadcast, communications, healthcare, and transportation. Tata Elxsi works 
+with leading OEMs and suppliers in the automotive and transportation industries for R&D, design, 
+and product engineering services from architecture to launch and beyond.  
+It brings together domain experience across autonomous, electric, connected vehicle technologies, 
+and software -defined vehicles (SDVs), supported by a worldwide netw ork of design studios, 
+development centres, and a global talent pool of over 13,000 engineers and specialists. For more 
+information, please visit:  www.tataelxsi.com/industries/automotive  
+ 
+Media Contact  
+Tata Elxsi  
+Hari Balan  
+Corporate Communications  
+Email : media@tataelxsi.com  
+ 
+ 

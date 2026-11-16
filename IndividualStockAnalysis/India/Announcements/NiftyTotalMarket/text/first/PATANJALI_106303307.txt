@@ -1,0 +1,200 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   PFL/2025                                       July 17, 2025  
+ 
+ 
+To 
+BSE Limited                     National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Tower ,                  Exchange Plaza,  
+Dala l Street,                     Bandra Kurla Complex,  
+Mumbai  – 400 001                    Bandra (E),  Mumbai – 400 051  
+ 
+BSE Scrip Code: 500368                                  NSE Symbol: PATANJALI  
+ 
+Dear Sirs/Madam,  
+ 
+Sub.: Disclosure pursuant to Regulation 8(2) of the SEBI (Prohibition of Insider Trading) 
+Regulations,  2015 (“PIT Regulations”)  
+ 
+Dear Sirs/Madam,  
+ 
+This is with reference to our submission dated July 17, 2025, at around 01:12 pm. Due to certain 
+typographical  errors in the earlier submission, we are hereby s ubmitting a revised version of the 
+Code of Conduct to Regulate, Monitor and Report Trading by Designated Persons and Their 
+Immediate Relatives  (“Code of Conduct”).  
+ 
+A revised copy of the amended  Code of Conduct is annexed herewith for your records. The same 
+is also available  on the website of the Company at www.patanjalifoods.com .   
+ 
+Thanking you,  
+ 
+Yours Faithfully,  
+For Patanjali Foods Limited  
+ 
+ 
+ 
+Ramji Lal Gupta  
+Company Secretary  
+ 
+Encl.: As above  
+Code of Conduct to Regulate, Monitor and Report 
+Trading by Designated Persons and their Immediate Relatives 
+PATANJALI FOODS LIMITED 
+CODE OF CONDUCT TO REGULATE, MONITOR AND REPORT TRADING BY 
+DESIGNATED PERSONS AND THEIR IMMEDIATE RELATIVES 
+(Approved by the Board of Directors of the Company at their meeting held on July 17, 2025) 
+Code of Conduct to Regulate, Monitor and Report 
+Trading by Designated Persons and their Immediate Relatives 
+PATANJALI FOODS LIMITED 
+CODE OF CONDUCT TO REGULATE, MONITOR AND REPORT TRADING BY 
+DESIGNATED PERSONS AND THEIR IMMEDIATE RELATIVES 
+Effective Date: January 17, 2020 
+Modified on: November 08, 2023, July 17, 2025 
+TABLE OF CONTENT 
+Sr. No. Contents Page No. 
+I Preamble 3 
+2. Definitions 3-7 
+3. Roles and Responsibilities of Compliance Officer 7 
+4 Restrictions on communication or procurement of Unpublished Price 8 
+Sensitive Information 
+5 Internal control systems 89 
+6. Preservation of Unpublished Price Sensitive Information 9-10 
+7. Prevention of misuse of Unpublished Price Sensitive Information 11-15 
+8 Reporting Requirements for Transactions in Securities 15-16 
+9. Penalty for Contravention of the Code 16-17 
+10. Interpretation 17 
+11. Amendments 17 
+Annexure-1: Code of practices and procedure for fair disclosure of Unpublished 18-19 
+Price Sensitive Information 
+Annexure-1A: Meaning of “Legitimate Purpose™ 
+Forms 
+Form I 20 
+Form I1 21 
+Form IIT 22 
+Form IV 23 
+Form B (Annexure-A) 24 
+Form C (Annexure-B) 25 
+Form D (Annexure-C) 26 
+Code of Conduct to Regulate, Monitor and Report 
+Trading by Designated Persons and their Immediate Relatives 
+Preamble 
+Patanjali Foods Limited (‘the Company®) is a public limited company incorporated on January 06, 
+1986 under the Companies Act, 1956 (Corporate Identity Number L15140MH1986PLC038536). 
+In terms of the provisions of Regulation 9(1) of the Securities and Exchange Board of India (Prohibition 
+of Insider Trading) Regulations, 2015 (‘SEBI PIT Regulations’), the board of directors of every listed 
+company shall ensure that the chief executive officer or managing director is required to formulate a 
+code of conduct with their approval to regulate, monitor and report trading by its designated persons 
+and immediate relatives of designated persons towards achieving compliance with SEBI PIT 
+Regulations, adopting the minimum standards set out in Schedule B to the SEBI PIT Regulations, 
+without diluting the provisions of aforesaid regulations. 
+Pursuant to Regulation 9(1) of the of SEBI PIT Regulations, the Company hereby adopts this Code to 
+regulate, monitor and report trading by its designated persons and immediate relatives of designated 
+persons towards achieving compliance with SEBI PIT Regulations. 
+This Code aims to preserve confidentiality and prevent the misuse of any Unpublished Price Sensitive 
+Information and to put in place a policy for prohibition of insider trading on the basis of Unpublished 
+Price Sensitive Information . All designated persons and their immediate relatives thereof, in addition 
+to the SEBI PIT Regulations and this Code shall be bound by the Securities and Exchange Board of 
+India Act, 1992 and regulations made thereunder as amended from time to time. 
+Definitions 
+Unless the context otherwise requires, the following words, expressions and derivations therefrom shall 
+have the meaning assigned to them as under:— 
+i) “Act” means the Securities and Exchange Board of India Act, 1992; 
+ii) “Audit Committee” means the Committee of the Board of Directors as constituted pursuant to 
+Section 177 of the Companies Act, 2013 read with Regulation 18 of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulation, 2015, as amended. 
+iii) “Board” or “Board of Directors” means the board of directors of the Company; 
+iv) “Code” means this Code of Conduct to Regulate, Monitor and Report Trading by designated persons 
+and immediate relatives of designated persons; 
+v) “Company” means Patanjali Foods Limited. 
+vi) “Compliance Officer” means the Company Secretary of the Company or any other person as may 
+be appointed by the Board as such, who is financially literate and is capable of appreciating 
+requirements for legal and regulatory compliance. 
+Code of Conduct to Regulate, Monitor and Report 
+Trading by Designated Persons and their Immediate Relatives 
+vii) “Connected Person” means, 
+any person who is or has during the 6 (six) months prior to the concerned act been associated 
+with the Company, directly or indirectly, in any capacity including by reason of frequent 
+communication with its officers or by being in any contractual, fiduciary or employment 
+relationship or by being a Director, officer or an Employee of the Company or holds any position 
+including a professional or business relationship between himself and the Company whether 
+temporary or permanent, that allows such person, directly or indirectly, access to Unpublished 
+Price Sensitive Information or is reasonably expected to allow such access. 
+Without prejudice to the generality of the foregoing, the persons falling within the 
+following categories shall be deemed to be connected persons unless the contrary is 
+established,- 
+(a) a Relative of connected persons specified in clause (i) above; or 
+(b) a holding company or associate company or subsidiary company; or 
+(¢) an intermediary as specified in section 12 of the Act or an employee or director thereof; or 
+(d) an investment company, trustee company, asset management company or an employee or 
+director thereof: or 
+(e) an official of a stock exchange or of clearing house or corporation; or 
+(f) a member of board of trustees of a mutual fund or a member of the board of directors of the 
+asset management company of a mutual fund or is an employee thereof: or 
+(g) amember of the board of directors or an employee, of a public financial institution as defined 
+in section 2 (72) of the Companies Act, 2013; or 
+(h) an official or an employee of a self-regulatory organization recognized or authorized 
+by SEBI; or 
+(i) a banker of the Company; or 
+(j) a concern, firm, trust, Hindu undivided family, company or association of persons 
+wherein a director of the Company or his Relative or banker of the Company. has more than 
+10% (ten percent) of the holding or interest. 
+(k) a firm or its partner or its employee in which a connected person specified in sub-clause (i) 
+of clause (vii) is also a partner; or 
+(1) a person sharing household or residence with a connected person specified in sub-clause (i) 
+of clause (vii). 
+viii) 
+ix) 
+x) 
+xi) 
+xii) 
+xiii) 
+xiv) 
+XV) 
+xvi) 
+xvii) Code of Conduct to Regulate, Monitor and Report 
+Trading by Designated Persons and their Immediate Relatives 
+“Designated Person(s)” shall include: 
+(a) Directors of the Company; 
+(b) Promoters of the Company; 
+(¢) Key managerial personnel and senior management personnel. 
+(d) Employees up to two level below of Chief Executive Officer and Managing Director 
+(e) Employees/ any support staff of the Company, intermediary or fiduciary such as IT staff or 
+secretarial staff who have access to Unpublished Price Sensitive Information ; 
+(f) Such other persons who may be designated as such from time to time, by the Board of Directors 
+in consultation with the Compliance Officer, for the purpose of this Code, on the basis of their 
+role and function in the organization and the access that such role and function would provide 
+to Unpublished Price Sensitive Information in addition to seniority and professional 
+designation. 
+“Fiduciaries™ collectively to be referred as professional firms such as auditors, accountancy firms, 
+law firms, analysts, insolvency professional entities, consultants, banks etc., assisting or advising to 
+the Companies. 
+"Generally Available Information" means information that is accessible to the public on a non- 
+discriminatory basis and shall not include unverified event or information reported in print or 
+electronic media; 
+“Immediate Relative” means a spouse of a person, and includes parent, sibling and child of such 
+person or of the spouse, any of whom is either dependent financially on such person, or consults 
+such person in taking decisions relating to trading in Securities; 
+“Insider” means any person who is: 
+(i) a Connected Person; or 
+(ii) in possession of or having access to Unpublished Price Sensitive Information. 
+“Promoter” or “Promoter Group” shall have the meaning assigned to them under the Securities 
+and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 or 
+any modification thereof. 
+Relative shall mean the following: 
+(i) Spouse of the person; 
+(ii) Parent of the person and parent of its spouse; 
+(iii) sibling of the person and sibling of its spouse; 
+(iv) child of the person and child of its spouse; 
+(v) spouse of the person listed at sub-clause (iii) above; and 
+(vi) spouse of the person listed at sub-clause (iv) above. 
+“SEBI” shall mean Securities and Exchange Board of India; 
+“SEBI PIT Regulations” shall mean the Securities and Exchange Board of India (Prohibition of 
+Insider Trading) Regulations, 2015 and every modification and amendment thereof’, 
+"Securities" shall have the meaning assigned to it under the Securities Contracts (Regulation) Act, 
+1956 or any modification thereof} 

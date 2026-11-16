@@ -1,0 +1,388 @@
+ 
+Biocon Limited 
+20th KM, Hosur Road 
+Electronic City  Bangalore 560 100, India 
+T 91 80 2808 2808 
+F 91 80 2852 3423 
+ 
+CIN : L24234KA1978PLC003417 
+ 
+www.biocon.com  
+BIO/SECL/EA/2025-26/40 
+ 
+June 16, 2025 
+ 
+To               
+The Manager, 
+BSE Limited 
+Department of Corporate Services Phiroze Jeejeebhoy Towers,  Dalal Street, Mumbai – 400 001 To    The Manager, 
+National Stock Exchange of India Limited 
+Corporate Communication Department Exchange Plaza, Bandra Kurla Complex  Mumbai – 400 050 
+Scrip Code - 532523  Scrip Symbol - BIOCON  
+ 
+Dear Sir/ Madam, 
+ 
+Subject: Intimation of the approval of the audited co nsolidated financial statements for the financial year 
+ended March 31, 2025.  
+ 
+Re: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (‘SEBI Listing Regulations’). 
+ 
+We wish to inform you that the Board of Directors of the Company at its meeting held on Thursday, May 08, 2025 has approved the audited consolidated financial statements read with the notes and schedules thereto, along with the audit report thereon for the financial year ended March 31, 2025, prepared in 
+accordance with the requirements of the Companies Act, 2013 and Indian Accounting Standards (Ind-AS). A copy of the audited consolidated financial statements of the Company along with the audit report are 
+enclosed herewith. 
+ 
+Please note that the audited consolidated financial statements read with the notes and schedules thereto, 
+along with the audit report thereon for the financial ye ar ended March 31, 2025, remain subject to approval 
+of the shareholders’ at the ensuing Annual General Meeting of the Company scheduled to be held on August 08, 2025. 
+ 
+We request you to take the above on record and the same be treated as compliance under Regulation 30 and the other applicable provisions of the SEBI Listing Regulations. 
+ 
+ 
+The above information will also be available on the website of the Company at www.biocon.com . 
+ 
+Kindly take the same on record and acknowledge.  
+ 
+Thanking You,  
+ 
+Yours faithfully, 
+ 
+For Biocon Limited  
+ 
+                   _________________ 
+Siddharth Mittal Managing Director & CEO 
+DIN: 03230757 
+ 
+Encl. as above  
+BS R & Co. LLP 
+Chartered Accountants 
+To the Members of Biocon Limited Embassy Golf Links Business Park 
+Pebble Beach, B Block, 3rd Floor 
+No. 13/2, off Intermediate Ring Road 
+Bengaluru -560 071, India 
+Telephone: +91 80 4682 3000 
+Fax: +91 80 4682 3999 
+lndeoendent Auditors Reoort 
+Report on the Audit of the Consolidated Financial Statements 
+Opinion 
+We have audited the consolidated financial statements of Biocon Limited (hereinafter referred to as the 
+"Holding Company") its employee welfare trusts and its subsidiaries (Holding Company, its employee 
+welfare trusts and its subsidiaries together referred to as "the Group"), its associate and its joint venture, 
+which comprise the consolidated balance sheet as at 31 March 2025, and the consolidated statement of 
+profit and loss (including other comprehensive income), consolidated statement of changes in equity and 
+consolidated statement of cash flows for the year then ended, and notes to the consolidated financial 
+statements , including material accounting policies and other explanatory information (hereinafter referred 
+to as "the consolidated financial statements "). 
+In our opinion and to the best of our information and according to the explanations given to us, and based 
+on the consideration of report of the other auditor on separate financial statements/financial information 
+of such subsidiary as were audited by the other auditor, the aforesaid consolidated financial statements 
+give the information required by the Companies Act, 2013 ("Act") in the manner so required and give a 
+true and fair view in conformity with the accounting principles generally accepted in India, of the 
+consolidated state of affairs of the Group, its associate and joint venture as at 31 March 2025, of its 
+consolidated profit and other comprehensive income, consolidated changes in equity and consolidated 
+cash flows for the year then ended. 
+Basis for Opinion 
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under 
+Section 143(10) of the Act. Our responsibilities under those SAs are further described in the Auditors 
+Responsibilities for the Audit of the Consolidated Financial Statements section of our report. We are 
+independent of the Group, its associate and joint venture in accordance with the ethical requirements that 
+are relevant to our audit of the consolidated financial statements in terms of the Code of Ethics issued by 
+the Institute of Chartered Accountants of India and the relevant provisions of the Act, and we have fulfilled 
+our other ethical responsibilities in accordance with these requirements. We believe that the audit 
+evidence obtained by us along with the consideration of reports of the other auditor referred to in 
+paragraph (a) of the "Other Matters" section below, is sufficient and appropriate to provide a basis for our 
+opinion on the consolidated financial statements . 
+Key Audit Matters 
+Key audit matters are those matters that, in our professional judgment, were of most significance in our 
+audit of the consolidated financial statements of the current period. These matters were addressed in the 
+context of our audit of the consolidated financial statements as a whole, and in forming our opinion 
+thereon, and we do not provide a separate opinion on these matters. 
+Registered Office_ 
+BS R & Co (a partnership finn 1Mth Reg1slrat1on No BA61223) converted into BS R & Co LLP (a 14th Floor, Cenlral 8 Wing and North C Wing, Nesco IT Park 4, Nesco 
+Limited L1ab1hly Partnership with LLP Registraltan No AA8·8181) with effect from October 14. 2013 Center, Western Express Highway, Goregaon (East), Mumbai -400063 
+Paga 1 of 15 
+8 SR & Co. LLP 
+Independent Auditor's Report (Continued) 
+Biocon Limited 
+Revenue 
+See Note 2(1) and Note 21 to consolidated financial statements 
+The key audit matter 
+One of the subsidiaries of the Group derives 
+revenue from contract research, development 
+and manufacturing activities. 
+Overstatement of revenue is a presumed fraud 
+risk considering the subsidiary has pressure to 
+meet external market expectations of reporting 
+higher revenues. 
+The subsidiary has various contractual 
+arrangements with customers which are 
+entered into at various stages of research and 
+development. The Company, in line with Ind AS 
+115, recognises revenue based on the 
+contractual terms and performance obligations 
+with customers. 
+The subsidiary, in certain instances, also has 
+bill and hold arrangements that meet the 
+criteria mentioned for such arrangements 
+under Ind AS 115: Revenue from Contracts 
+with Customers, wherein revenues are 
+recognized prior to the physical transfer of the 
+goods on the basis of specific requests from 
+the customers to hold back the delivery of 
+goods at period end. 
+The above factors result in revenue from 
+contract research and manufacturing service 
+income being identified as a Key Audit Matter. 
+Chargeback, rebates, returns, other 
+adjustments and related accruals How the matter was addressed in our audit 
+Our audit procedures in relation to revenue 
+recognition includes the following: 
+• We have assessed the appropriateness of the 
+subsidiary's revenue recognition accounting 
+policies and assessed compliance with the 
+policies in terms of applicable accounting 
+standards . 
+We tested the design and implementation, 
+operating effectiveness of the subsidiary's 
+controls around revenue recognition including 
+general IT controls and key IT application 
+controls. 
+We have performed substantive testing 
+(including year-end cut-off testing) by selecting 
+samples of revenue transactions recorded 
+during the year and verifying the underlying 
+documents, which includes sales 
+invoices/contracts, shipping and delivery 
+documents. 
+We have tested the specific requests from 
+customers at the period end to evaluate transfer 
+of control relating to the bill and hold 
+arrangements. We evaluated the timing of 
+recognition of revenue from these arrangements 
+proposed by the subsidiary for compliance with 
+Ind AS 115: Revenue from Contracts with 
+Customers . 
+We have assessed manual journal entries 
+posted to revenue to identify unusual items not 
+already covered by our audit testing. 
+See Note 2(1) and Note 21 to consolidated financial statements 
+The key audit matter How the matter was addressed in our audit 
+A significant part of the Group's sales consists Our audit procedures in relation to the charge-back / 
+of chargeback, rebates, returns, other deductions included the following: 
+adjustments and their related accruals 
+PFIOA ? nf 1 fi 
+BS R & Co. LLP 
+Independent Auditor's Report (Continued) 
+Biocon Limited 
+(referred to as 'deductions to gross sales') . 
+Estimating the amounts of deductions to be 
+accrued as at the period end requires 
+significant estimation and degree of subjectivity 
+as management's model utilizes historical 
+buying patterns of distributors/ whole- • 
+sellers/other customers, estimated end-user 
+demand, estimated inventory levels in the 
+distribution channel, contracted sales terms 
+with customers, as well as other competitive 
+factors. The Group has engaged professional 
+service providers to assist them in determining Assessed the appropriateness of the Group's 
+accounting policies and assessed compliance 
+with the policies in terms of applicable 
+accounting standards . 
+Assessed journal entries posted in respect of 
+these deductions to identify unusual items not 
+already covered by our audit testing. 
+Tested the design and implementation of 
+Group's controls around accruals for deductions. 
+Obtained the computation for year-end accruals 
+of chargebacks/ deductions which were 
+determined by the Group in respect of its 
+biosimilar business and tested the underlying 
+assumptions used by reference to the Group's 
+stated commercial policies, applicable contracts 
+and historical product returns and other claims / 
+allowances. the year-end accruals in respect of its 
+biosimilar business. 
+This was an area of focus in our audit due to 
+the significant value of the arrangements, their 
+inherent complexity, and the substantial 
+judgement and estimation required by the 
+Group in computing accruals. Accordingly, we 
+have determined this as a Key Audit Matter. 
+Impairment of goodwill, intangible assets 
+and intangible assets under development Performed test of details on the actual claims 
+processed during the year towards 
+chargebacks, rebates, sales return and other 
+allowances etc. to determine the accuracy of 
+deductions to gross sales. 
+Compared prior period accruals to subsequent 
+claims processed to evaluate management's 
+ability to forecast year end accruals for 
+deductions to gross sales. 
+• Performed analytical procedures on deductions 
+to sales adjustments recognised during the year 
+to identify any unusual variances/ relationships. 
+• For each of the estimated accruals, tested the 
+mathematical accuracy of the computation and 
+verified the underlying data used for 
+completeness and accuracy. 
+See Note 2(e), 4 and 43 to consolidated financial statements 
+The key audit matter How the matter was addressed in our audit 
+The Group's subsidiaries has recorded Our audit procedures in relation to impairment 
+goodwill, intangible assets and intangible testing includes the following: 
+assets under development of Rs. 167,593 . We have tested the design and operating million, Rs. 57,590 million and Rs. 43,119 effectiveness of the subsidiary's controls around 
+Page 3 of 15 
+BS R & Co. LLP 
+Independent Auditor's Report (Continued) 
+Biocon Limited 
+million respectively as at 31 March 2025. Most 
+of these were recorded pursuant to the 
+purchase price allocation in respect of the 
+acquisition of Viatris's biosimilar business in 
+the previous years. Further, in some cases, the 
+products are yet to be launched or in their initial 
+stages of commercialization and hence 
+revenue and profitability are yet to reach its 
+desired levels. Hence, there is a risk of 
+impairment in the event the carrying amount of 
+the CGU is lower than its recoverable value. 
+These assets are subjected to impairment test • 
+as part of Cash Generating Units (CGU) which 
+include goodwill. The annual impairment 
+testing of goodwill, intangible assets and 
+intangible assets under development within 
+such CGU was considered to be a key audit 
+matter due to the complexity of the accounting 
+requirements and the significant judgement 
+involved to estimate the recoverable amount. 
+The recoverable amount of the CGU, which is 
+the value in use has been derived from • 
+discounted forecast cash flow model. The 
+discounted cash flow model involves a high 
+degree of subjectivity , including key 
+assumptions like the estimates of revenue 
+growth, weighted-average cost of capital, 
+expected market share, price erosion, 
+expected regulatory approval and its 
+consequential impact on the gross margin of 
+the products sold. This assessment of discount 
+rate and terminal growth rate requires 
+specialized skills and knowledge . These 
+significant assumptions are forward looking 
+and could be affected by future economic and 
+market conditions . Further, changes to these 
+assumptions could have a significant impact on 
+the recoverable amount of the CGUs and could 
+lead to an impairment to the carrying value of 
+these assets. 
+Accordingly, we have determined this to be a 
+key Audit Matter. 
+Going concern 
+See Note 1.2 to consolidated financial statements the impairment testing which included review of 
+significant assumptions such as estimated 
+revenue, inputs given to the Company's 
+specialist and validating the outputs shared by 
+the specialist. 
+Evaluated all the assumptions used by the 
+subsidiary in assessing the recoverability of 
+assets and involved valuation specialists to 
+assist us in evaluating the valuation 
+methodologies . 
+Evaluated the subsidiary's assessment of key 
+inputs by considering third party sources and the 
+impact on future cash inflows due to actions by 
+competitors or changes in relevant market 
+conditions ; 
+We corroborated the revenue projections with 
+the annual board approved plan and the 
+reasonableness of the revenue growth factored 
+in the projections . 
+Performed the sensitivity analysis in respect of 
+certain key assumptions to evaluate the impact 
+of change on recoverable value. We have 
+assessed the historical accuracy by comparing 
+past forecasts to actual results achieved. 
+Tested the adequacy of disclosures made in 
+consolidated financial statements, as required 
+by Ind AS 36 Impairment of assets. 
+The key audit matter How the matter was addressed in our audit 
+In respect of agreements entered into by the Our audit procedures to assess the going concern 
+Page 4 of 15 
+BS R & Co. LLP 
+Independent Auditor's Report (Continued) 
+Biocon Limited 
+Group with certain financial investors for assumption included the following: 
+acquisition of biosimilar business, there are put 
+option obligations on the Company to provide 
+exit to the investors. The Company also has 
+certain long-term borrowings that carry drag 
+along rights which require the Company to • 
+repay the debts if the put options, as mentioned 
+above, are triggered. As at 31 March 2025, 
+these contractual agreements indicate possible 
+obligations as described in note 1.2 to the 
+financial statements. 
+The Group has performed an assessment of its 
+financial position as at 31 March 2025 and the 
+forecasts for a period of fifteen months from the 
+date of these financial statements. In addition, 
+Group considered projected cash flows, re­
+financing of existing borrowings, liquidity from 
+non-current assets, ability to raise funds by • 
+issuance of further shares as stated in note 
+48(d) to the consolidated financial statements 
+and re-negotiating the exit terms with financial 
+investors. 
+These factors involve subjectivity that some of 
+these are driven by external environment and 
+hence outcomes could be different from those 
+factored by the Group. Considering 
+significance of the issue it is considered as a 
+Key Audit Matter. 
+Financial instruments 
+See Note 16(a) to consolidated financial statements Obtained the forecasted statement of profit and 
+loss and cashflows prepared by the 
+Management for the next 15 months. 
+Gained an understanding and assessed the 
+design, implementation and operating 
+effectiveness of Company and subsidiary's key 
+internal controls over preparation of cash flow 
+forecasts to assess its liquidity. 
+Compared the forecasted statement of profit and 
+loss and cash flows with the business plan 
+approved by the board of directors; evaluated 
+the key assumptions in the cash flow forecasts 
+with reference to historical information, current 
+performance, future plans, and market and other 
+external available information. 
+Performed sensitivity analysis on the forecasted 
+statement of profit and loss and cash flows by 
+considering plausible changes to the key 
+assumptions. 
+Reviewed the share purchase agreement with 
+investors. 
+Discussed with Audit Committee and key senior 
+management personnel regarding the 
+Company's plan to meet the obligations. 
+Assessed the adequacy of the disclosures -
+refer note 1.2 to the financial statements. 
+The key audit matter How the matter was addressed in our audit 
+The Group is a party to certain financial 
+instn ImAnts thr1t n~P r.nrriPrl r1t fnir 11r1lr IP 
+through profit and loss. These financial 
+instruments primarily pertain to the contingent 
+consideration payable, which the Group had 
+accounted for in connection with the acquisition 
+of biosimilar business in previous years, as well 
+as certain debentures issued by the Group. 
+Fair valuation of these financial instruments 
+involve application of complex pricing models We have performed the following audit procedures in 
+rPlntinn tn thP finr1nr.ir1I inc;;tn 1mPnts· 
+• Read the underlying agreements for these 
+financial instruments to understand the terms of 
+these instruments and tested the key contractual 
+inputs. 
+• Tested the design and operating effectiveness of 
+the Group's control around the valuation of these 
+financial instruments. 
+Page 5 of 15 

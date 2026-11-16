@@ -1,0 +1,142 @@
+ 
+INFIBEAM 	AVENUES 	LIMITED 	
+Regd.	Office:	28th Floor, GIFT Two Building, Block No . 56, Road-5C, Zone-5, GIFT CITY,  
+Gandhinagar – 382 050, CIN:	L64203GJ2010PLC061366  
+Tel:	+91 79 67772204 | Fax:	+91 79 67772205 | Email:	ir@ia.ooo  | Website: 	www.ia.ooo   
+July 03, 2025 
+ 
+BSE	Limited  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort, Mumbai - 400 001 
+ 
+ Company 	Code	No.:	539807	National 	Stock	Exchange 	of	India	Limited	
+Exchange Plaza, Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400 051 
+ Company 	Symbol:	INFIBEAM 	
+ 
+Dear Sir/ Madam, 
+ 
+Sub:	Press	Release	
+	
+In compliance with the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we 
+are pleased to enclose a copy of Press Release titled  “Infibeam’s Phronetic.AI Signs MOU with Fuel-Tech 
+Leader Nawgati Offering Agentic AI and Video-LLM Technology that Automates Reasoning Capabilities 
+on Real-Time Basis”, issu ed by the Company. 
+ The above information is also available on the website of the Company at www.ia.ooo .  
+ 
+Kindly take the same on your records.  Thanking you,  Yours faithfully, 
+ 
+For Infibeam 	Avenues 	Limited	
+			Shyamal 	Trivedi	
+Sr.	Vice	President 	&	Company 	Secretary 	
+	Encl.:	As above 
+                                                                                                                                                                    
+ 
+1 
+ 
+ 
+Media Release 
+Infibeam’s Phronetic.AI Signs MOU with Fuel-Tech Leader Nawgati 
+Offering Agentic AI and Video-LLM Technology that Automates Reasoning 
+Capabilities on Real-Time Basis 
+Gandhinagar, July 03, 2025  – Nueromind Technologies Private Limited (“Phronetic”), a cutting-edge 
+deep-tech AI company owned by Infibeam Avenues Ltd, has entered into a Memorandum of Understanding 
+(MoU) with Nawgati Tech Private Limited, a pioneering deep-tech company transforming India’s fuel and 
+mobility infrastructure. This deal aims to co-develop next-generation AI-powered solutions tailored for the 
+fueling, fleet, and energy sectors to automate reasoning capabilities for accurate decision making on real-
+time basis by using CCTV-video inputs.  
+ 
+Phronetic’s ABM platform is a multimodal technology that combines Video-Language Models (Video-
+LLMs) with a reasoning model. The Video-LLMs provide insight for understanding the environments, 
+while the reasoning models provides intelligence in contextualizing this information. Ultimately, 
+Phronetic’s Agentic AI, known as the field agent, enables real-time actions based on these insights. 
+ 
+Companies often face operational challenges related to improving efficiency and ensuring SOP (standard 
+operating procedures) compliance. Although current technologies can identify or detect these challenges, 
+they fall short in providing decision-making and action-oriented suggestions due to their lack of reasoning 
+capabilities with video inputs. 
+ 
+“While reasoning capabilities using text are available in the market, there is a significant gap in reasoning 
+models that effectively utilize video inputs, especially in industries such as manufacturing and retail, where 
+physical production and on-the-floor activities take place. By leveraging reasoning capabilities to analyze 
+video feeds, organizations can dramatically enhance their efficiency and SOP compliance, which will 
+ultimately contribute to their business growth,” explained Mr. Rajesh Kumar, CEO of Phronetic AI , 
+emphasizing that Phronetic's technology addresses the pressing need for accurate decision-making by 
+automating reasoning tasks and aiding to take an action. 
+ 
+Expressing his enthusiasm, Mr Rajesh Kumar further said “Partnering with Nawgati allows us to apply 
+our intelligence at scale and create real-world impact in high-throughput, high-stakes energy operations.” 
+ 
+Mr. Vaibhav Kaushik, Co-Founder & CEO of Nawgati, said: “Nawgati is leading the digital 
+transformation of India’s fuelling infrastructure through deep-tech solutions powered by AI and advanced 
+deep learning algorithms. Our flagship platform, Aaveg, is deployed across thousands of fuel stations to 
+monitor retail operations in real time, reduce pilferage, and ensure SOP compliance. We are delighted to 
+work with Phronetic and leverage their advanced AI capabilities to enhance the intelligence and efficiency 
+of our solutions.  Together, we’re unlocking a new era of autonomy and efficiency across fuel and fleet 
+networks.”  
+ 
+Key Highlights of the Collaboration: 
+ Agentic AI Deployment: Phronetic will integrate its Field and Desk AI Agents into Nawgati’s 
+tech stack to enhance operational intelligence, automate customer interactions, and support 
+intelligent decision-making across various environments. 
+ 
+ Go-to-Market (GTM) Partnership: Phronetic and Nawgati will jointly go to market with AI-
+powered offerings for the fuel, fleet, and energy sectors, leveraging Nawgati’s vast on-ground 
+deployments, deep-tech Aaveg platform and Phronetic’s agentic AI capabilities.  
+ 
+Nawgati’s flagship product, Aaveg, is a vertical SaaS platform used by energy players to optimize forecourt 
+operations, reduce inefficiencies, manage congestion, monitor SOPsand enhance compliance. Nawgati’s 
+product is deployed across thousands of fuel outlets across the country. In addition, Nawgati powers India’s 
+                                                                                                                                                                    
+ 
+2 
+ 
+largest fueling app, serving over 2 million users, offering a seamless end-to-end fueling experience. 
+Nawgati has also played a pivotal role in digitising CNG fleet programs across India, streamlining logistics 
+and enhancing transparency for commercial vehicle networks. Fuel outlets of Indraprastha Gas, Mahanagar 
+Gas, Torent Gas, and petrol pumps operated by dealers of Indian Oil, Bharat Petroleum, Hindustan 
+Petroleum and JioBP use Nawgati’s products. 
+ 
+Founded at BITS Pilani, Nawgati is at the forefront of fuel-tech innovation, developing intelligent digital 
+infrastructure solutions for India’s energy sector. By unifying fuel stations, fleet operators, and consumers 
+on a single platform, Nawgati enhances network utilization, streamlines refueling operations, and offers 
+real-time visibility into fuel availability and fleet movement. The company operates at the intersection of 
+deep-tech, mobility, and energy, and is backed by marquee investors including GAIL (India) Ltd, Ajay 
+Upadhyaya, Deepak Bhagnani Family Office, MeitY Startup Hub, Department of Science & Technology 
+(DST), Jash Bhurjee, BITS Spark, and Aamara Capital. 
+ 
+Phronetic is an AI business vertical under Nueromind Technologies Private Limited, a pioneering deep-
+tech AI company and a subsidiary of Infibeam Avenues Ltd.  
+ 
+ 
+About Nawgati Tech Private Ltd: 
+Nawgati is an AI and IoT-driven Technology Company built to modernize fuel station operations, minimize pilferage, 
+and elevate the customer experience. At its core is Aaveg, Nawgati’s flagship solution that provides real-time nozzle-
+level monitoring, automated stock reconciliation, and intelligent queue and compliance management through camera-
+based AI systems. The platform enables fuel station operators to digitally manage sales, inventory, and customer 
+footfall via a centralized dashboard, offering actionable insights for operational efficiency. It also supports predictive 
+maintenance of critical forecourt hardware, reducing downtime and maintenance costs. On the consumer side, 
+Nawgati operates India’s largest fuelling app to offer features such as real-time station information, digital billing, 
+and instant feedback collection, bridging the gap between station infrastructure and end-user convenience. 
+Additionally, Nawgati offers fleet management integrations that provide visibility into fueling behavior, optimize 
+route planning, and enable seamless control over large-scale commercial vehicle operations. 
+ 
+ 
+About Infibeam Avenues Limited:  
+Infibeam Avenues Ltd. is one of the leading global financial technology (fintech) company offering comprehensive 
+digital payment solutions and enterprise software platforms to businesses and governments across industry verticals. 
+The company's payment infrastructure solution includes acquiring and issuing solutions and offering infrastructure 
+for banks. The core Payment Gateway (PG) business provides over 200 plus payment options to the merchants 
+allowing them to accept payments through website and mobile devices in 27 international currencies. Infibeam 
+Avenues' enterprise software platform hosts India's largest online marketplace for government procurement. The 
+company processed transaction worth INR 7.0 trillion (US$ 86 billion) in FY24. Company currently has over 10 
+million plus clients across digital payments and enterprise software platforms. The company's vast clientele includes 
+merchants, enterprises, corporations, governments, and financial institutions in both domestic (India) as well as 
+international markets. Infibeam Avenues' international operations are based in the United Arab Emirates, Kingdom 
+of Saudi Arabia, Australia, and the United States of America. We also have business presence in Oman working with 
+three of the largest banks in the country.  
+  
+For further press queries please email or call  
+Vishal Dutta | (M) +91 9924387860, vishal.dutta@ia.ooo  
+ 
+           For more information on the company, please go to, www.ia.ooo  , www.phronetic.ai  and www.ccavenue.com  
+ 

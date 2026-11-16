@@ -1,0 +1,278 @@
+ 
+Sagility India Limited  
+(Formerly Sagility India Private Limited)  
+Registered Office - No. 23 & 24, AMR Tech Park, Building 2A, First Floor Hongasandara Village, Off Hosur 
+Road, Bommanahalli, Bengaluru – 560068, Karnataka, India  
+Corporate Identi fication  Number:  L72900KA2021PLC150054  
+Tel. No.:  080 -71251500, Website:  www. sagility health.com  
+ 
+Date: July 30 , 202 5 
+ 
+To,  
+ 
+The Manager       The Manager  
+Listing Department      Listing Department  
+National Stock Exchange (NSE)    Bombay Stock Exchange (BSE)  
+Exchange Plaza, 5th Floor     Phiroze Jeejeebhoy Towers  
+Plot No. C/1, G -Block      Dalal Street  
+Bandra -Kurla Complex      Mumbai - 400 001  
+Bandra (E), Mumbai - 400 051     Scrip Code: 544282  
+Symbol: SAGILITY  
+ 
+ 
+Dear Sir/Ma’am,  
+ 
+Subject: Intimation under Regulation 8 of SEBI (Prohibition of Insider Trading) Regulations, 
+2015 (“SEBI PIT Regulations”) .  
+ 
+We wish to inform you that the Board of Directors of the Company, at its meeting held today, i.e., July 
+30, 2025, has inter alia approved an amendment to the Company’s policy on Code of Conduct for 
+Prevention of Insider Trading  (“the Code”).  
+ 
+In accordance with Regulation 8 of the SEBI (Prohibition of Insider Trading) Regulations, a copy of the 
+amended  policy  is enclosed herewith.  The updated policy  is also being made available on the Company’s 
+website at  https://sagilityhealth.com   
+ 
+This i s for your information and record . 
+ 
+Thanking You,  
+ 
+For Sagility India Limited  
+ 
+ 
+  
+Satishkumar Sakharayapattana Seetharamaiah  
+Company Secretary & Compliance Officer  
+M. No. A 1600 8 
+ 
+Encl: a/ a  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CODE OF CONDUCT FOR PREVENTION OF 
+INSIDER TRADING  
+ 
+ 
+Sagility India Limited  
+(Formerly Sagility India Private Limited)  
+ 
+Corporate Identity Number: L72900KA2021PLC150054  
+Website: www.sagilityhealth.com  
+ 
+  
+ 
+1  
+CODE OF CONDUCT FOR PREVENTION OF INSIDER TRADING 
+INDEX 
+ 
+Sl. No. Content Page No.  
+1. Introduction  2 
+2. Definitions  2-4 
+3. CODE OF CONDUCT FOR PREVENTION OF INSIDER TRADING  5 
+4. COMPLIANCE OFFICER  5 
+5. ROLE & DUTIES OF THE COMPLIANCE OFFICER  5-6 
+6. STRUCTURAL DIGITAL DATABASE  6 
+7. HANDLING OF UPSI  
+ Preservation and sharing of UPSI, and maintaining confidentiality  6 
+8. NEED TO KNOW  6 
+9. LEGITIMATE PURPOSE  6-7 
+10. LIMITED ACCESS TO CONFIDENTIAL INFORMATION  7 
+11. DESIGNATED PERSONS  7 
+12. CHINESE WALL  7 
+13. TRADING WINDOW  8-9 
+14. PRE-CLEARANCE FOR DEALING IN SECURITIES  
+ Applicability  
+ Pre-trading Procedure  
+ Approval  
+ Completion of Pre-cleared Trading  
+ Trading Plans  
+ Holding Period  
+ Opposite transactions / Contra trade in the Securities  
+ Educate regarding Pre -Clearance  9-12 
+15. PROCESS FOR BRINGING PERSONS ‘INSIDE’ ON SENSITIVE 
+TRANSACTIONS  12 
+16. REPORTING REQUIREMENTS FOR TRANSACTIONS IN SECURITIES  12-13 
+17. INSTITUTIONAL MECHANISM FOR PREVENTION OF INSIDER TRADING  13-14 
+18. PROTECTION AGAINST RETALIATION AND VICTIMIZATION  14 
+19. PENALTY FOR CONTRAVENTION  14-15 
+20. CLARIFICATIONS  15 
+ Annexure 1 – Format for Confidentiality Agreement  17-20 
+ Annexure 2 - Specimen of application for pre -trading approval  21 
+ Annexure 3 - Format of Undertaking/ Declaration to be accompanied with the 
+application for pre -trading 22 
+ Annexure 4 - Format for pre -trading approval letter  23 
+ Annexure 5 - Format for disclosure of pre -approved transactions  24-25 
+ Annexure 6 - Format for disclosure of particulars by Designated Person and 
+Disclosure on becoming a Key Managerial Personnel/ Director/ Promoter/ Member 
+of the promoter group  26-28 
+ Annexure 7 - Format of annual statement of holdings by Promoter / Member of 
+Promoter group / Key Managerial Personnel / Director/ Designated Person and 
+their immediate relatives  29-30 
+ Annexure 8 - Continual Disclosures  31-32 
+ Annexure 9 - Transactions by Other connected persons as identified by the 
+Company  33-34 
+21. CODE OF FAIR DISCLOSURE & PRACTICES  35-37 
+22. POLICY FOR INQUIRY IN CASE OF LEAK OF UNPUBLISHED PRICE 
+SENSITIVE INFORMATION  38-41 
+23. POLICY ON DETERMINATION OF LEGITIMATE PURPOSE  42-44 
+ 
+ 
+ 
+ 
+ 
+ 
+2  
+Introduction  
+ 
+Insider trading means trading in Securities of the Company by its Directors, Employees or other 
+Insiders while in possession of Unpublished Price Sensitive Information (“ UPSI”). Such trading by 
+Insiders erodes the investors’ confidence in the integrity of the management and is unhealthy for the 
+capital markets.  
+ 
+The Securities and Exchange Board of India (“ SEBI”), in its endeavour to protect the interests of 
+investors in general, had formulated the SEBI (Prohibition of Insider Trading) Regulations, 1992 
+under the powers conferred on it under the SEBI Act, 1992, which came into effect from November 
+19, 1992, and the same were made applicable to all companies whose shares were listed on Indian 
+stock exchanges.  
+ 
+To strengthen the above regulations, SEBI has made further amendments and accordingly, Securities 
+& Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 (hereinafter referred 
+to as the “Regulations”) were notified by SEBI on January 15, 2015, which became effective from 
+May 14, 2015. These Regulations not only regulate trading by insiders but also seek to prohibit insider 
+trading. 
+It is mandatory in terms of the Regulations for every listed company, intermediary, fiduciary and any 
+other person who is required to handle UPSI in the course of business operations to formulate a Code 
+of Conduct for Prevention of Insider Trading to regulate, monitor and report trading by its Directors, 
+Employees who are Designated Persons and Immediate Relative of Designated Persons and other 
+Connected Persons. In addition, every company whose Securities are listed on a stock exchange, is 
+also required to formulate a Code of Practices and Procedures for fair disclosure of UPSI (hereinafter 
+referred to as “ Code of Fair Disclosure &  Practices ”). 
+ 
+Definitions  
+ 
+a. “Audit Committee” means the Audit Committee of the Company.  
+ 
+b. “Board” means Board of Directors of the Company.  
+ 
+c. “Chief Executive Officer” shall have the same meaning as defined in sub-section (18) of 
+Section 2 of the Companies Act, 2013.  
+ 
+d. “Code” means this Code of Conduct for Prevention of Insider Trading and the Code of Fair 
+Disclosure & Practices, as applicable, including modifications made thereto from time-to-
+time. 
+ 
+e. “Company” means Sagility India Limited.  
+ 
+f. “Compliance Officer” means any senior officer, designated so and reporting to the board of 
+directors, who is financially literate and is capable of appreciating requirements for legal and 
+regulatory compliance of policies, procedures, maintenance of records, monitoring adherence 
+to the rules for the preservation of unpublished price sensitive information, monitoring of 
+trades and the implementation of the codes specified in the Regulations under the overall 
+supervision of the Board of Directors of the Company;  
+ 
+Explanation: “financially literate” shall mean a person who has the ability to read and 
+understand basic financial statements i.e., balance sheet, profit and loss account, and statement 
+of cash flows.  
+ 
+g. “Connected Person” shall have the meaning given to it under Regulation 2(d) of the 
+Regulations and shall also include the promoters of the Company and their directors and key 
+managerial personnel.  
+ 
+3  
+ 
+h. “Designated Persons” shall mean persons designated by the Board in consultation with the 
+Compliance Officer, who are covered under the Code on the basis of their role and function 
+in the Company and the access that role and function provides to UPSI in addition to seniority 
+and professional designation and shall include: -  
+ 
+i. Employees of the Company, designated on the basis of their functional role or access to 
+UPSI; 
+ii. Employees of material subsidiaries of the Company designated on the basis of functional 
+role or access to UPSI;  
+iii. All promoters of the Company;  
+iv. Group Chief Executive Officer of the Company and employees up to two-levels below the 
+Group Chief Executive Officer of the Company and its material subsidiaries irrespective 
+of their functional role in the Company or their ability to have access to UPSI;  
+v. All Directors;  
+vi. Support staff of the Company, such as IT, Secretarial, Legal, Finance, M&A, Corporate 
+Communication staff who have access to UPSI;  
+ 
+i. “Director” means a member of the Board of Directors of the Company.  
+ 
+j. “Employee” means every employee of the Company (whether working in India or abroad) 
+including the Directors in the employment of the Company.  
+ 
+k. “Fiduciaries” means professional firms such as auditors, accountancy firms, law firms, 
+analysts, insolvency professional entities, consultants, banks etc., assisting or advising the 
+Company.  
+ 
+l. “Generally Available Information” means information that is accessible to the public on a 
+non-discriminatory basis, such as information published on websites of stock exchanges.  
+ 
+m. “Intermediary” means an intermediary registered with SEBI . 
+ 
+n. “Immediate Relative” means the spouse of the person, and includes parent, sibling and child 
+of such person or of the spouse, any of whom is either financially dependent on the person or 
+consults the person in taking decisions relating to trading in securities.  
+ 
+o. “Insider” means as defined under Clause 2(1)(g) of the Regulations, which means any person 
+who is a Connected Person or in possession of or having access to Unpublished Price Sensitive 
+Information.  
+ 
+p. “Key Managerial Personnel”  (KMP) in relation to a company, means  
+i. Chief Executive Officer or Managing Director or Manager;  
+ii. Whole Time Director;  
+iii. Chief Financial Officer;  
+iv. Company Secretary;  
+v. such other officer, not more than one level below the directors who is in whole-time 
+employment, designated as key managerial personnel by the Board; and  
+vi. such other Officer as may be prescribed under the Companies Act 2013.  
+ 
+q. “Material Financial Relationship” shall mean a relationship in which one person is a 
+recipient of any kind of payment such as by way of a loan or gift from a Designated Person 
+during the immediately preceding twelve months, equivalent to at least 25% of the annual 
+income of such Designated Person but shall exclude relationships in which the payment is 
+based on arm’s length transactions.  
+ 
+ 
+4  
+r. “Promoter” and “Promoter Group” shall have the respective meaning assigned to it under 
+the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) 
+Regulations, 2018 or any modification thereof.  
+ 
+s. “Relative” shall mean the following: (i) spouse of the person; (ii) parent of the person and 
+parent of its spouse; (iii) sibling of the person and sibling of its spouse; (iv) child of the person 
+and child of its spouse; (v) spouse of the person listed at sub-clause (iii); and (vi) spouse of 
+the person listed at sub-clause (iv). 
+ 
+t. “Securities” shall have the meaning assigned to it under the Securities Contracts (Regulation) 
+Act, 1956 (42 of 1956) or any modification thereof.  
+ 
+u. “Trading Day ” means a day on which the recognized stock exchanges are open for trading.  
+ 
+v. “Trading in Securities” means and includes an act of subscribing, buying, redeeming, 
+switching, selling, dealing or agreeing to subscribe, redeem, switch, buy, sell or deal in any 
+Securities of the Company and “trade” shall be construed accordingly.  
+ 
+w. “Unpublished Price Sensitive Information  (“UPSI”)” shall have the meaning given to it 
+under Regulation 2(1)(n) of the Regulations.  
+ 
+x. “Managing Director”  shall have the same meaning as defined in sub-section (54) of Section 
+2 of the Companies Act, 2013.  
+ 
+All terms used in this Code but not defined hereinabove shall have the meanings ascribed to them 
+under the Regulations.  
+ 
+ 
+ 
+ 
+  

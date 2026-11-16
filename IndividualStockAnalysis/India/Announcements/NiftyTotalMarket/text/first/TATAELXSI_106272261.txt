@@ -1,0 +1,105 @@
+ 
+ June 18, 2025  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+Dear Sir s/Madam , 
+ 
+Sub: Press Release  - “Tata Elxsi and Infineon Partner to Accelerate EV Innovation in India ”  
+ 
+Please find enclosed the Press Release dated June 18, 2025, titled  “Tata Elxsi and Infineon Partner to 
+Accelerate EV Innovation in India ”. 
+ 
+This disclosure is made in compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015.  
+ 
+This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+  
+ 
+Cauveri Sriram  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+ 
+Tata Elxsi and Infineon Partner  to Accelerate EV Innovation in India  
+Collaboration focuses on ready -to-deploy  EV systems built on Infineon technologies  for two -wheelers 
+(2W), three -wheelers (3W), passenger vehicles (PV), and commercial vehicles (CV)  
+Bengaluru, June 1 8, 2025  – Tata Elxsi, a global leader in design and technology services, and Infineon 
+Technologies, a global leader in  semiconductor solutions, have signed a Memorandum of 
+Understanding (MoU) to jointly develop application -ready EV solutions  tailored to the Indian market.  
+This strategic collaboration aligns with India’s rapid shift toward s electrification, with EV sales 
+growing by 25 –30% year -on-year in 2024, including a 28% increase in electric two - and three -
+wheeler sales.  
+The partnership strategically leverages design  and integration expertise , enabling  faster adoption of 
+automotive -grade, cost -optimi sed, and safety -compliant subsystems across key mobility segments.  It 
+addresses critical safety requirements  such as  ASIL -D (Automotive Safety Integrity Level D)  
+complianc e, as per ISO  26262 (Functional Safety of Road Vehicles)  standards .  
+Tata Elxsi bring s its design, system integration, and validation capabilities, while Infineon will provide 
+early access to its latest semiconductor technologies —such as silicon carbide (SiC) -based 
+components, microcontrollers, and integrated circuits (ICs) . 
+Through this co llaboration , Tata Elxsi and Infineon will work closely to dev elop high-voltage inverters 
+for traction and auxiliary systems , scalable battery management systems (BMS), bi-directional 
+onboard chargers , and high-voltage thermal management solutions  for the Indian market. This will 
+serve India’s fast -evolving 2W, 3W, PV, and CV segments , with future pathways to address eVTOL , 
+energy, and off -highway sectors .  
+“Currently, s everal of our EV solutions are already buil t on Infineon SoCs and components . This MoU  
+further  strengthens our partnership  by giving us a clearer scope  and tighter system -level alignment , 
+enabling sho rter turnaround time s to address Indian market requirements . As EV adoption scales, our 
+focus remains on delivering production -ready , automotive standards -compliant platforms and 
+solutions ,” said Nambi Ganesh , Head of Automotive , Tata Elxsi.  
+
+ 
+“At Infineon, we are committed to driving innovation in the electric vehicle sector and empowering 
+our partners to bring cutting -edge technologies to market. This partnership with Tata Elxsi is a 
+significant step in our journey to support India’s ambitious electrification goals. By combining Tata 
+Elxsi's design and integration expertise with our advanced semiconductor solutions, we are not only 
+enhancing the development of ready -to-deploy EV systems but also ensuring that they meet the 
+highest safety and performance standards. Together, we aim to accelerate the adoption of electric 
+mobility across various segments, from  two-wheelers to commercial vehicles, and contribute to a 
+more sustainable future for India ,” said Kenneth Lim, Senior Vice President, Automotive, Infineon 
+Technologies Asia Pacific .   
+This initiative supports national targets outlined by NITI Aayog, including 80% electrification of 2W 
+and 3W and 70% of CVs by 2030.  
+ 
+About Tata Elxsi  
+ 
+Tata Elxsi is among the world’s leading providers of design and technology services across 
+industries includ ing automotive, broadcast, communications, healthcare, and transportation. 
+Tata Elxsi works with leading OEMs and suppliers in the automotive and transportation 
+industries for R&D, design, and product engineering services from architecture to launch and 
+beyond.  
+ 
+It brings together domain experience across autonomous, electric, connected vehicle 
+technologies, and software -defined vehicles (SDV s), supported by a worldwide network of 
+design studios, development centres , and a global talent pool of over 13,000 engineers and 
+specialists. For more information, please visit:  www.tataelxsi.com/industries/automotive  
+ 
+Media Contact  
+Tata Elxsi  
+Hari Balan  
+Corporate Communications  
+Email:  media@tataelxsi.com  
+ 
+About Infineon  
+Infineon is a global semiconductor leader in power systems and IoT. Infineon drives decarbonization 
+and digitalization with its products and solutions. The Company had around 58,060 employees 
+worldwide (end of September 2024) and generated revenue of about €15 billion in the 2024 fiscal 
+year (ending 30 September). Infineon is listed on th e Frankfurt Stock Exchange (ticker symbol: IFX) 
+and in the USA on the OTCQX International over -the-counter market (ticker symbol: IFNNY).  
+ 
+Media Contact  
+Infineon  
+Moses Mok  
++65 9772 9383  
+moses.mok@infineon.com   

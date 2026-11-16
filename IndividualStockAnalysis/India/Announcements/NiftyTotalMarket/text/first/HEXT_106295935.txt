@@ -1,0 +1,111 @@
+ 
+ 
+HEXAWARE TECHNOLOGIES LIMITED 
+Regd. Office: Bldg. No. 152, Millennium Business Park, Sector – III, ‘A’ Block, TTC Industrial Area,  
+Mahape, Navi Mumbai - 400 710 (INDIA)  |  Tel: +91 022 3326 8585  |  Email: investori@hexaware.com  
+CIN: L72900MH1992PLC069662  |  URL: www.hexaware.com 
+ 
+ 
+  
+   
+HEXT/SE/2025/ 71 
+  
+  Date: July 10, 2025 
+ 
+To,  To, 
+LisƟng Department   Department of Corporate Services  
+NaƟonal Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza,  Bandra -Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East),  Mumbai - 400 051 Dalal Street,  Mumbai - 400 001   
+Symbol: HEXT  Scrip Code: 544362  
+ 
+ 
+Dear Sir, 
+ 
+Sub: Press Release  
+ 
+Please find enclosed Press Release on Hexaware and Abluva Join Forces to Deliver Secure Agentic AI 
+Solutions for the Life Sciences Industry. 
+ 
+This information will also be hosted on the Company’s website at www.hexaware.com . 
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For HEXAWARE TECHNOLOGIES LIMITED  
+    
+        
+  
+  
+Gunjan Methi 
+Company Secretary 
+ 
+Encl.: as above. 
+Hexaware and Abluva Join Forces to Deliver Secure Agentic AI Solutions for the Life Sciences Industry 
+Delivering Governed and Secure Generative AI Agents for Life Sciences Innovation  
+India, New Jersey, US, 10th July 2025  – Hexaware Technologies, a global provider of IT services and 
+solutions, today announced a strategic partnership with Abluva, an innovator in agentic AI security, to 
+address security challenges posed by autonomous AI agents in the Life Sciences industry. This 
+collaboration brings together Hexaware’s deep domain expertise and Abluva’s groundbreaking Secure 
+Intelligence Plane to help organizations in the sector deploy generative AI (GenAI) safely and in 
+compliance with industry regulations. As Life Sciences organizations increasingly adopt agentic AI to 
+enhance research, clinical trials, patient data management, and commercial operations, the 
+partnership ensures that AI agents operate in a secure, governed, and auditable environment—
+without hindering innovation.  
+Partnership Highlights: 
+● Real-time Agent Governance:  Abluva's Secure Intelligence Plane enforces critical controls like 
+purpose binding, role-based context augmentation, data masking, and tooling control to 
+prevent unauthorized actions. 
+● Comprehensive Agent Life Cycle Security:  Security protocols to protect sensitive data span 
+the entire Agent life cycle, including fine-tuning, Retrieval Augmented Generation (RAG), and 
+prompting stages. This provides advanced visibility and targeted safeguards specifically 
+designed for agent-driven architectures in clinical and research settings. 
+● Autonomous Threat Mitigation and Self-Healing:  Abluva's patent-pending "self-healing" 
+capability allows the system to automatically detect and respond to unforeseen or anomalous 
+agent behaviors in real-time, reducing risks associated with agent autonomy. 
+● Enhanced Compliance and Privacy for AI:  The solution ensures agent activities comply with 
+industry standards like HIPAA and GDPR, and internal governance policies, through embedded 
+governance and audit features, addressing crucial aspects of data privacy. 
+“We are thrilled to partner with Abluva to implement the most secure agentic AI solutions for large 
+sponsors and CROs,” said, Raj Gondhali, AVP & Head of Clinical Solutions, Hexaware. “This 
+collaboration is pivotal, combining our expertise in global clinical solutions with Abluva’s pioneering 
+agentic security technology to ensure enhanced AI safety, compliance, and operational efficiency as 
+our clients adopt next-generation AI.” 
+Raj Darji, CEO at Abluva, echoed similar sentiments: “We are excited to announce our partnership with 
+Hexaware, a global systems integration specialist renowned for its Life Sciences expertise. This 
+collaboration marks a significant milestone for Abluva as we aim to deliver value and innovative 
+solutions in agentic AI security. By combining Hexaware’s global reach with our novel research-based 
+technology for securing autonomous agents, we are committed to providing comprehensive and 
+integrated solutions that enable safe AI adoption.” 
+Amit Gautam, CTO at Abluva, added, “Our partnership with Hexaware enables us to extend our 
+expertise in agentic AI security to a broader market, addressing the critical need for robust governance 
+in AI-driven enterprises. By integrating our Secure Intelligence Plane with Hexaware’s capabilities, we 
+can deliver sophisticated, real-time governance solutions tailored to secure autonomous AI agents in 
+complex life sciences environments.” 
+This partnership underlines Hexaware’s commitment to next-generation cloud and AI platforms, and 
+Abluva’s leadership in research-driven, agentic security innovations. Together, they empower life 
+sciences enterprises to unlock GenAI’s full potential—securely, at scale.
+ 
+About Abluva  Inc 
+Abluva stands at the forefront of data security, pioneering research-driven technologies to address 
+today's most pressing data challenges. We are dedicated to building a secure data plane that enables 
+fine-grained access control and robust privacy across diverse data sources. Our innovations extend to 
+advanced protection for agents and generative AI, alongside groundbreaking data and intent-driven 
+breach discovery. Abluva's solutions empower organizations to strengthen their compliance, bolster 
+their security posture, and accelerate innovation through the secure democratization of data and 
+intelligence.  
+Visit https://www.abluva.com  for more information.  
+About Hexaware Technologies 
+ 
+Hexaware is a global technology and business process services company. Every day, Hexawarians wake 
+up with a singular purpose: to create smiles through great people and technology. With offices across 
+the world, we empower enterprises worldwide to realize digital transformation at scale and speed by 
+partnering with them to build, transform, run, and optimize their technology and business processes.  
+Learn more about Hexaware at https://hexaware.com/  
+ 
+For details, please contact: 
+Reena Kamble 
+Reenak3@hexaware.com  
+ 
