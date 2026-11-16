@@ -1,0 +1,91 @@
+ 
+ 
+HEXAWARE TECHNOLOGIES LIMITED  
+Regd. Office: Bldg. No. 152, Millennium Business Park, Sector –  III, ‘A’ Block, TTC Industrial Area,  
+Mahape, Navi Mumbai -  400 710  (INDIA)  |  Tel: +91 022 3326  8585   |  Email: investori @hexaware.com  
+CIN: L 72900MH1992PLC069662  |  URL: www.hexaware.com  
+  
+  
+   
+HEXT/SE/2025/ 63 
+  
+  Date: May 29, 202 5 
+ 
+To,  To, 
+Listing Department   Department of Corporate Services  
+National Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza,  Bandra -Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East),  Mumbai - 400 051  Dalal Street,  Mumbai - 400 001   
+Symbol: HEXT  Scrip Code: 544362  
+ 
+ 
+Dear Sir,  
+ 
+Sub: Press Release  
+ 
+Please find enclosed Press Release on Hexaware Teams Up with Fixie.ai to Power 
+Voice AI for Smarter Enterprise Operations . 
+ 
+This information will also be hosted on the Company’s website at www. hexaware.com  
+ 
+Kindly take the same on record.  
+ Thanking you,  
+ Yours faithfully,  
+For HEXAWARE TECHNOLOGIES LIMITED  
+    
+        
+  
+  
+Gunjan Methi  
+Company Secretary  
+ 
+ 
+Hexaware Teams Up with Fixie.ai to Power Voice AI for Smarter 
+Enterprise Operations  
+Ultravox Realtime selected as Hexaware’s voice AI platform of choice to power next-gen CX  
+Mumbai, May 29, 2025: Hexaware Technologies [NSE: HEXT], a global provider of IT solutions and 
+services, has announced a new partnership with Fixie.ai, a market leader in voice AI technology. 
+As part of this collaboration, Hexaware will integrate Fixie’s Ultravox Realtime platform into its 
+enterprise solutions to deliver faster, smarter, and more natural voice-powered interactions for 
+its clients.  
+Fixie’s Ultravox Realtime brings enterprise-grade voice recognition, and a scalable architecture 
+designed to handle thousands of concurrent calls. For Hexaware, it adds another powerful tool 
+to help clients reimagine customer engagement with voice AI that is fast, reliable, and ready for 
+real-world deployment.  
+"Our partnership with Fixie will enable them to access larger enterprise requirements across 
+industries while enhancing our ability to simplify enterprise AI adoption for our clients," said Vinod 
+Chandran, Chief Operations O Ưicer at Hexaware. “With its developer-friendly design, accuracy, 
+security and scalability, Ultravox Realtime is perfectly suited for the high-volume, integrated 
+deployments our clients require. This collaboration enables us to deliver superior voice 
+experiences, faster and more responsive customer interactions,  especially during peak loads 
+and multilingual situations.”  
+As part of the partnership, Hexaware is also supporting Fixie’s open-source e Ưorts by donating 
+GPU computing resources. This will help accelerate the training of future Ultravox models, 
+strengthening the open-source AI community while unlocking even more potential for enterprise 
+users. 
+“We are thrilled to partner with Hexaware to bring voice AI to their impressive roster of clients ," 
+said Zach Koch, Chief Executive O Ưicer of Fixie.ai. “ This collaboration is a perfect alignment of 
+capabilities – our advanced speech understanding provided by Ultravox Realtime paired with 
+Hexawares deep enterprise expertise. Their commitment to our open-source model development 
+through GPU donation demonstrates a shared vision for advancing open-source voice AI 
+technology while delivering immediate value to enterprise customers .” 
+Joint implementations are already in motion across industries like banking, insurance, retail, 
+travel, healthcare, and more.  
+About Fixie.ai  
+Fixie.ai is the market-leading provider of voice AI solutions, delivering advanced conversational 
+capabilities through its scalable Ultravox Realtime https://ultravox.ai platform. The company's 
+technology enables natural, e Ưective voice interactions for businesses of all sizes, with particular 
+strength in high-volume, enterprise-grade implementations. The company actively maintains the 
+open-source Ultravox model with weights available on HuggingFace https://huggingface.co/ﬁxie-
+ai. 
+
+About Hexaware 
+Hexaware is a global technology and business process services company. Every day, 
+Hexawarians wake up with a singular purpose; to create smiles through great people and 
+technology. With o Ưices across the world, we empower enterprises worldwide to realize digital 
+transformation at scale and speed by partnering with them to build, transform, run, and optimize 
+their technology and business processes. Learn more about Hexaware at https://hexaware.com  
+ 
+For more information, contact: 
+Reena Kamble 
+reenak3@hexaware.com 

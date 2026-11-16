@@ -1,0 +1,229 @@
+ Happiest Minds Technologies Limited  
+Regd. Office:  #53/1-4, Hosur Main Road, Madivala,  
+Bengaluru-560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931 
+P: +91 80 6196 0300, F: +91 80 6196 0700 
+Website: www.happiestminds.com  
+Email: investors@happiestminds.com
+May 17, 2025 
+Listing Compliance & Legal Regulatory  
+BSE Limited 
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Mumbai 400 001 
+Stock Code: 543227, 974820 & 975101 Listing & Compliance 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai 400 051 
+Stock Code: HAPPSTMNDS 
+Dear Sir/Madam, 
+Sub: Transcript of Earnings Call held on May 13, 2025 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+read with Para A of Part A of Schedule III, please find enclosed the transcript of the Earnings Call held 
+on May 13, 2025, post announcement of financial results of the Company for the quarter and financial 
+year ended as on March 31, 2025. The transcript is also uploaded on the Company’s website 
+(https://www.happiestminds.com/investors ). 
+This is for your information and records. 
+Thanking you, 
+Yours faithfully, 
+For Happiest Minds Technologies Limited 
+Praveen Kumar Darshankar  
+Company Secretary & Compliance Officer 
+Membership No. F6706  
+
+Page 1 of 17 
+  
+ 
+“Happiest Minds Technologies Limited 
+Q4 FY '25 Earnings Conference Call” 
+May 13, 2025 
+ 
+       
+ 
+ 
+MANAGEMENT : Mr. Ashok Soota  – Chairman & Chief Mentor  
+Mr. Joseph Anantharaju  – Co-Chairman & CEO  
+Mr. Venkatraman Narayanan  – Managing Director and 
+Chief Financial Officer  
+Mr. Rajiv Shah – Executive Director 
+Mr. Ram Mohan  – Chief Executive Officer – Infrastructure 
+Management and Security Services (IMSS) 
+Mr. Sridhar Mantha  – Chief Executive Officer, Generative 
+AI Business Services (GBS) 
+Mr. Sunil Gujjar  – Head of Investor Relations    
+MODERATOR : Mr. Vinesh Vala  – HDFC Securities  
+ 
+ 
+ 
+ 
+ 
+
+ Happiest Minds Technologies Limited  
+  May 13, 2025 
+ 
+Page 2 of 17 
+ 
+Moderator: Ladies and gentlemen, good day, and welcome to Q4 FY 2025 Earnings Call of Happiest Minds 
+Technologies hosted by HDFC Securities. As a reminder, all participant lines will be in the 
+listen-only mode and there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call, please signal an operator by 
+pressing star then zero on your touchtone phone. Please note that this conference is being 
+recorded. 
+ I now hand the conference over to Mr. Vinesh Vala from HDFC Securities. Thank you, and over 
+to you, Mr. Vala. 
+Vinesh Vala: Good morning, ladies and gentlemen. Thanks for joining us today on Q4 FY '25 earnings call of 
+Happiest Minds Technologies. On behalf of HDFC Securities, I would like to thank the 
+management of Happiest Minds for giving us the opportunity to host this earnings call. 
+ Today, we have with us Mr. Ashok Soota, Chairman and Chief Mentor; Mr. Joseph Anantharaju, 
+Co-Chairman and CEO; Mr. Venkatraman Narayanan, MD and CFO; Rajiv Shah, Executive 
+Director; Ram Mohan, CEO, Infrastructure Management & Security Services (IMSS); Sridhar 
+Mantha, CEO, Generative AI Business Services (GBS); Sunil Gujjar, Head of Investor 
+Relations. 
+ I will hand it over to Sunil for safe harbour statement and to take the proceedings forward. 
+Thanks, and over to you, Sunil. 
+Sunil Gujjar: Thank you, Vinesh. Good morning to all participants in the call. Welcome to this conference 
+call to discuss the financial results for the fourth quarter and year ended March 31st, 2025. I'm 
+Sunil, Head of Investor Relations. We hope you have had an opportunity to review the earnings 
+release we issued yesterday evening. 
+ Let me now quickly outline the agenda for today's call. Ashok will begin the call by sharing his 
+perspectives on the business environment and our results. Venkat and Joseph will then speak 
+about our financial performance and operational highlights, after which we'll have the floor open 
+for Q&A. 
+ Before I hand over, let me begin with the safe harbour statement. During the call, we could make 
+forward-looking statements. These statements consider the environment we see as of today and 
+carry a risk in terms of uncertainty because of which the actual results could be different. We do 
+not undertake to update those statements periodically. 
+ Now let me pass it on to Ashok. 
+Ashok Soota: Thank you, Sunil. Good morning to all the participants in the call. Happiest Minds has delivered 
+an exceptional performance for the year with constant currency growth of 25.6%, which makes 
+the reported fiscal performance the best year since our IPO in absolute terms. The growth was 
+backed by a superior margin profile, which we have maintained in our guided range for 19 
+quarters in a row. 
+ Happiest Minds Technologies Limited  
+  May 13, 2025 
+ 
+Page 3 of 17 
+ 
+ Let me touch upon 10 strategic transformational changes launched by Happiest Minds since FY 
+'24 and going ahead through FY '26. The latest change is the one we announced on 19th March 
+2025, regarding our Apex organizational structure. As you all already know, Joseph is now our 
+Co-Chairman and CEO. Joseph has been a part of Happiest Minds since its inception, and I am 
+sure Joseph will drive Happiest Minds towards accelerating profitable growth and strategic 
+strength. 
+ Let me start from where these 10 transformational changes began. After a few years of delay, 
+we finally completed 2 acquisitions, PureSoftware and Aureus, whose results were integrated in 
+Q1 of FY '25. The wait was well worth it because both the organizations have a culture, which 
+is like ours. They were both cash accretive and have contributed to our growth, and they have 
+helped us deliver well above industry average performance for the fiscal. 
+ Three more transformational changes followed in the second half of FY '25. We did say these 
+changes would begin to make an impact in FY '26, which you will see starting from this fiscal. 
+Reorganizing Happiest Minds on an IG-wise basis and creating 5 new industry groups was the 
+first of those changes that we launched in FY '25. 
+ We were also the very first company to recognize the potential of Gen AI by creating an 
+independent business unit headed by Sridhar Mantha, a Happiest Minds veteran and our 
+erstwhile Chief Technology Officer for 12 years. We appointed Chief Growth Officer, Maninder 
+Singh, and gave him the responsibility for net new sales. Maninder's team is already making 
+visible impact by bringing in new logos. These transformational changes will show great growth 
+in FY '26 and even more so in FY '27, assuring us of healthy organic growth in FY '26 and then 
+FY '27. 
+ In effect, if you see that we have delivered obviously, very good growth in FY '25, we are saying 
+we are well positioned for double-digit growth right through on a 3-year cycle beginning from 
+FY '25. The 4 transformational changes of FY '24 were followed in FY '25 by the organization 
+changes mentioned earlier, and Joseph will talk about the 6th to the 10th transformational 
+initiatives. 
+ I now hand this over to our Co-Chairman and CEO, Joseph, for his address. 
+Joseph Anantharaju: Thanks, Ashok. Good morning to all of you. Let me start by thanking Ashok and the Board for 
+the trust they have placed in me. I'm very confident of continuing to deliver industry-leading 
+growth based on the quality of our leadership and talent, the transformational initiatives we have 
+initiated and the strong customer relationships we have developed over the last 14 years. 
+ Happiest Minds has delivered yet another year of solid performance across all fronts. The growth 
+was broad-based and across industries and geographies. Product Digital Engineering Services 
+(PDES) led the growth with 27.9% with all our core markets of U.S., India and Europe showing 
+good growth. In the recently concluded customer satisfaction survey, we have received an 
+industry-leading Net Promoter Score of 63, and our customer happiness score has increased to 
+93%, which reflects the commitment to delivery excellence. 
+ Happiest Minds Technologies Limited  
+  May 13, 2025 
+ 
+Page 4 of 17 
+ 
+ During the year, we have added 4 customers in the US $5 million to US $10 million cohort, 
+taking the total to 10, and 5 customers into the US $3 million to US $5 million cohort, taking 
+the total to 7, validating our sustained efforts to widen our presence among our existing 
+customers with a land and expand strategy. We have 6,632 Happiest Minds. And during the 
+fiscal year, we added 1,464 new Happiest Minds. 
+ As Ashok mentioned, I would like to elaborate on how we are driving transformation through 
+innovation, integration and industry expertise. The recent changes to our apex organizational 
+structure marked the first step in building a stronger future-ready company. The current 
+Executive Board will maintain continuity this year, while we transition to a next-generation 
+leadership team focused on long-term profitable growth. 
+ In the last few weeks, I have been talking to leaders from Happiest Minds, PureSoftware and 
+Aureus to understand their aspirations and forge an integrated organization structure that I target 
+to announce in the next 4 to 6 weeks. 
+ Private equity firms have become increasingly influential with Happiest Minds seeing a 
+significant rise in PE-owned customers. We are shifting from tactical to strategic engagement 
+with PE firms, entrusting this responsibility to a senior leader to lead this effort. Our offerings 
+will support both PE firms and their portfolio companies, including due diligence, post-
+acquisition road maps, security risk management, modernization, innovation consulting, cost 
+optimization, Gen AI adoption and integration of acquired entities. We will leverage existing 
+customer relationships to build these connections and deliver tailored solutions. 
+ Over the past decade, our “land and expand” strategy has grown many accounts to US $2-$3 
+million with some even reaching US $5-$10 million. With the Hipo Strategy, we aim to scale 
+key large accounts to $20 million and create more US $5-$10 million by investing in dedicated 
+client partners, aligning incentives and prioritizing these accounts. The formation of a dedicated 
+Net New (NN) sales team has freed up bandwidth to enable this focus. 
+ The move to verticalize has allowed us to bring different functions together and bring a sense of 
+shared ownership and collaboration to enable this Hipo strategy. We also see a strong potential 
+in the expanding Global Capability Centre (GCC) segment. We will tailor our offerings based 
+on GCC maturity from strategy and compliance support for new GCCs to innovation, 
+modernization and data-driven value creation for established centres. 
+ As the IT industry has come under pressure in recent years, we have been feeling that it needs 
+to be strengthened by a Products and SaaS Solutions approach. We were fortunate in gaining 
+one such product, Arttha in the BFSI space through our acquisition of PureSoftware. Our product 
+team has been enhancing the capability of this product and moving to a SaaS platform.  
+Both the product and the SaaS solution will co-exist. We plan to create a separate P&L and 
+invest in market-specific features and go-to-market strategies for India, while expanding 
+internationally into Europe and North America through partnerships and enhanced digital 
+banking capabilities. 
+ Happiest Minds Technologies Limited  
+  May 13, 2025 
+ 
+Page 5 of 17 
+ 
+ The last transformational change I would like to share is our revolutionary health care product, 
+which is expected to be available for launch by Q1 FY '27. Currently, we have the Board of 
+Directors' permission to make a directional statement. The final decision to include this in our 
+offerings will be taken by our Board only when the business plan is ready towards the end of FY 
+'26. 
+ Lest there is a fear that development of the product will require large capital expenditure and 
+strain our resources, let me assure you that even in the first full year, the business will run on a 
+cash positive basis. It's also important to mention that our product is being developed through 
+the unique bioinformatics capability of Happiest Minds, of which we have been speaking during 
+the last year. 
+ Let me share my view on the demand environment. We have put up a great show in an 
+environment of elevated uncertainty amidst higher tariffs, reciprocal measures and continued 
+geopolitical risk. Businesses are recalibrating their approach to work in such an environment by 
+being efficient through streamlining operations and derisking their supply channels. Technology 
+is at the core of such an exercise, and we at Happiest Minds with our AI-led approach are 
+transforming the way our customers operate with our innovative solutions and services. 
+ Demand remains resilient in certain industries like BFSI and Healthcare. We are the trusted 
+partners for our customers in their Digital Transformation with cloud, data & AI, Automation 
+and Security being top priorities. In the reported quarter, an American Insurance broker chose 
+Happiest Minds to build their client data portal, leveraging our strong capabilities in Microsoft's 
+Power platform. 
+ Sectors like Manufacturing, Industrial and Retail are seeing softness due to delayed decision-
+making and a wait-and-watch approach by our clients. We are helping our customers navigate 
+this elevated uncertainty by accelerating their digital transformation initiatives, which reap 
+immediate dividends. For example, in the reported quarter, a U.S. manufacturer of intelligent 
+fluid-flow equipment chose Happiest Minds to build their next-generation connected products 
+to enable Automated Fault Detection and Diagnostics and realize energy savings. 
+ With Gen AI built on top of digital twins in reported quarter, we empowered traditional energy 
+and utility technology enablers with data-driven real-time virtual model that simulate, analyse 
+and predict the operational behaviour and performance of its physical counterpart, eliminating 
+manual bottlenecks in data collection and entry. 
+ Then, as I come to the end of my talk, I want to step back and look at the IT industry. The year 
+FY '25 is witnessing flat growth for some of the majors and negative growth for a few others. 
+We have delivered a healthy double-digit growth, albeit some of it is inorganic. Recent global 
+developments have clouded the prospects for the Indian IT industry. 
+ We want to state empathically that at Happiest Minds, we see no recession-driven slowdown. 
+Thanks to our 10 transformational changes and to our dedicated teams, including those from 
+PureSoftware and Aureus, we see a good view ahead for next 2 years, and we expect to deliver 

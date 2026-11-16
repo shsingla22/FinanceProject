@@ -1,0 +1,266 @@
+ 
+ 
+Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India  
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai  400 001 India  
+Tel: + 91 22 6659 1968  email: investor.relations@tatacommunications.com  
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com  
+ 
+HQ/CS/CL.24B/18164  
+April 22, 2025   
+  
+National Stock Exchange of India Limited    
+Exchange Plaza, Bandra Kurla Complex,    
+Mumbai – 400 051   
+SYMBOL: TATACOMM   BSE Limited    
+P.J. Towers, Dalal Street,    
+Mumbai – 400 001   
+Scrip Code: 500483   
+  
+Dear Sir / Madam,   
+  
+Sub: Outcome of Board Meeting scheduled on April 22, 2025  
+ 
+Pursuant to Regulation 33 read with Regulations 30, 51 and 52 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 , as amended, p lease note that 
+the meeting of the Board of Directors of Tata Communications Limited ( ‘the Com pany ’) 
+scheduled today commenced at 1 3:40 hours IST and concluded at 1 6:30 hours IST. The 
+major outcome of the meeting, amongst other things, is as follows: -  
+  
+1. Audited Financial Results:   
+We enclose herewith the Standalone and Consolidated Audited Financial Results of the 
+Company for the financial year ended March 31, 2025, which have been approved and 
+taken on record at the meeting of the Board of Directors of the Company held today 
+(Attachment A). We would like to state that S.R. Batliboi & Associates, LLP, Statutory 
+Auditors of the Company, have issued Audit Reports with an unmodified opinion on the 
+above- mentioned audited financial results for the financial year ended March 31, 2025 
+(Attachment B). A press release in this regard is also enclosed at Attachment C .  
+  
+2. Recommendation of dividend:  
+The Board of Directors recommended a final dividend of ₹25.00  per share [250%]  (face 
+value of ₹10 each) for the financial year ended March 31, 2025. The dividend,  if approved 
+at the ensuing Annual General Meeting shall be paid to eligible shareholders  thereafter.   
+ 
+ 
+The aforesaid documents are also placed on the website of the Company at 
+www.tatacommunications.com/investors/results .  
+  
+ This is for your information and records.  
+  
+  Thanking you,  
+  
+  Yours faithfully,      For Tata Communications Limited  
+   
+  
+  
+  Zubin Adil Patel  
+  Company Secretary and Compliance Officer  
+ Encl: as above  
+Page 1of 21
+TATA COMMUNICATIONS LIMITED
+REGD. OFFICE:  VSB, M.G. ROAD, FORT, MUMBAI-400001.
+                    
+(in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER 
+AND YEAR ENDED MARCH 31, 2025
+ParticularsFor the quarter ended
+(refer note 6)For the year ended 
+(refer note 6 and 11)
+March 31 
+2025December 31 
+2024March 31 
+2024March 31 
+2025March 31
+2024
+(Refer notes below) (Refer note 2) (Unaudited) (Refer note 2) (Audited) (Audited)
+1 Income from operations (Refer note 9) 5,990.35 5,798.07 5,645.07 23,108.59 20,784.68
+2Other income, net 68.80 28.73 52.82 130.30 264.12
+3 Total income (1 + 2) 6,059.15 5,826.80 5,697.89 23,238.89 21,048.80
+4 Expenses
+a. Network and transmission expense 2,712.47 2,513.40 2,331.33 10,047.77 8,078.73
+b. Employee benefits expense 1,136.10 1,123.98 1,146.45 4,557.28 4,342.82
+c. Finance costs 182.44 186.89 185.80 729.06 630.09
+d. Depreciation and amortisation expense 672.49 637.14 650.67 2,592.10 2,397.35
+e. Other expenses 1,019.70 979.74 1,091.28 3,934.51 4,045.93
+Total expenses (4a to 4e) 5,723.20 5,441.15 5,405.53 21,860.72 19,494.92
+5Profit before exceptional items, tax & share in 
+profit of associates (3 - 4)335.95 385.65 292.36 1,378.17 1,553.88
+6 Exceptional items (Refer note 3) 577.79 (14.93) (52.11) 691.47 (235.66)
+7Profit before tax and share in profit of 
+associates (5 + 6)913.74 370.72 240.25 2,069.64 1,318.22
+8 Tax expense/(benefit): (Refer notes 3b, 7and 8)
+  a. Current tax 101.99 149.89 140.65 610.53 601.63
+  b. Deferred tax 73.90 (23.70) (249.13) (124.04) (388.13)
+9 Profit before share in profit of associates (7 - 8) 737.85 244.53 348.73 1,583.15 1,104.72
+10 Share in Profit of associates 23.32 12.20 5.84 42.54 19.99
+11Profit after tax for the period/yearfrom 
+continuing operations (9 + 10)761.17 256.73 354.57 1,625.69 1,124.71
+12Loss after tax from discontinued operations 
+(Refer note 6)(31.86) (20.65) (33.05) (100.11) (155.13)
+Gain on sale of subsidiary (refer note 6a) 311.20 - - 311.20 -
+13Profit/(Loss) after tax from discontinued 
+operations279.34 (20.65) (33.05) 211.09 (155.13)
+14 Profit for the period/year (11+13) 1,040.51 236.08 321.52 1,836.78 969.58
+Attributable to:
+Equity holders of the parent 1,040.34 235.96 321.18 1,836.36 968.34
+Non-controlling interest 0.17 0.12 0.34 0.42 1.24
+Page 2of 21
+    (in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND 
+YEAR ENDED MARCH 31, 2025
+ParticularsFor the quarter ended
+(refer note 6)For the year ended
+(refer note 6 and 11)
+March 31 
+2025December
+      31 2024March 31 
+2024March 31 
+2025March 31 
+2024
+(Refer notes below) (Refer note 2) (Unaudited) (Refer note 2) (Audited) (Audited)
+15Other Comprehensive Income/(loss) (net of tax)
+from continuing operations (refer note 10)(156.43) 110.59 11.90 (153.87) (35.74)
+16Other Comprehensive Income/(loss) (net of tax) 
+from discontinued operations (refer note 6)(0.10) 0.03 (0.04) (0.09) 0.12
+17Other Comprehensive Income/(loss) (net of tax) 
+(15+16)(156.53) 110.62 11.86 (153.96) (35.62)
+Attributable to:
+Equity holders of the parent (156.53) 110.58 8.28 (154.01) (39.20)
+Non-controlling interest 0.00 0.04 3.58 0.05 3.58
+18Total Comprehensive
+income for the period/year (14+17)883.98 346.70 333.38 1,682.82 933.96
+Attributable to:
+Equity holders of the parent 883.81 346.54 329.46 1,682.35 929.14
+Non-controlling interest 0.17 0.16 3.92 0.47 4.82
+19Paid up equity share capital (Face value of 10 per 
+share)285.00 285.00 285.00 285.00 285.00
+20 Reserves excluding Revaluation reserve 2,530.11 1,295.36
+21Earnings per share (of 10/-each) (not annualised)
+Continuing operations
+(i) Basic () 26.70 9.00 12.43 57.03 39.42 
+(ii) Diluted earnings per share () 26.69 9.00 12.42 56.99 39.40 
+Discontinued operations
+(i) Basic () 9.80 (0.72) (1.16) 7.41 (5.44)
+(ii) Diluted earnings per share () 9.80 (0.72) (1.16) 7.40 (5.44)
+Continuing and Discontinued operations
+(i) Basic () 36.50 8.28 11.27 64.44 33.98 
+(ii) Diluted earnings per share () 36.49 8.28 11.26 64.39 33.96 
+      
+Page 3of 21
+B. Consolidated Business Segment Information:
+i. Consolidated Segment wise revenue and results:                                                                                                 
+                                                                                                                                                                                                                                   ( in crores)
+ParticularsFor the quarter ended
+(refer note 6)For the year ended 
+(refer note 6 and 11)
+March 31 
+2025December 31 
+2024March 31 
+2024March 
+31 2025March 
+31 2024
+(Refer note 2) (Unaudited) (Refer note 2) (Audited) (Audited)
+Income from operations
+Voice Solutions 374.12 410.52 428.96 1,632.81 1,699.06
+Data Services (Refer note 9) 5,121.55 4,917.26 4,665.41 19,588.47 17,219.68
+Transformation Services 318.37 288.83 397.26 1,201.90 1,550.43
+Real Estate 46.73 60.72 59.81 226.93 237.07
+Campaign Registry 180.79 170.43 138.02 655.10 264.52
+Less: Inter Segment Revenue (51.21) (49.69) (44.39) (196.62) (186.08)
+Total 5,990.35 5,798.07 5,645.07 23,108.59 20,784.68
+Segment result
+Voice Solutions 36.42 32.93 35.44 156.33 184.64
+Data Services (Refer note 9) 251.36 335.54 264.66 1,176.35 1,429.03
+Transformation Services 22.07 18.31 11.90 74.93 0.51
+Real Estate 21.28 36.04 33.01 123.73 146.51
+Campaign Registry 118.46 120.99 80.33 445.59 159.16
+Total 449.59 543.81 425.34 1,976.93 1,919.85
+Less: 
+(i) Finance Costs 182.44 186.89 185.80 729.06 630.09
+(ii) Other un-allocable (income) net 
+of un-allocable expenditure(646.59) (13.80) (0.71) (821.77) (28.46)
+Profit before tax and share of 
+profit of associates from 
+continuing operations913.74 370.72 240.25 2,069.64 1,318.22
+Page 4of 21
+ii.  ConsolidatedSegment Assets and Liabilities:
+                                                                                                                                                                                                    (in crores)
+ParticularsAs at
+March 31 2025 December 31 2024 March 31 2024
+(Audited) (Unaudited)(Audited)
+(refer note 6)
+Segment Assets
+Voice Solutions 232.16 286.47 393.88
+Data Services 18,730.60 18,527.92 17,194.20
+Payment Solutions - - 122.84
+Transformation Services 428.16 411.16 559.04
+Real Estate 232.11 248.01 439.47
+Campaign Registry 941.96 921.47 855.06
+20,564.99 20,395.03 19,564.49
+Assets held for sale pertaining to discontinued operations 47.40 393.15 -
+Unallocated Assets 5,972.19 5,083.62 4,996.85
+Total Segment Assets 26,584.58 25,871.80 24,561.34
+Segment Liabilities
+Voice Solutions 399.02 403.03 443.77
+Data Services 10,486.01 10,387.21 9,674.92
+Payment Solutions - - 266.08
+Transformation Services 279.60 244.22 347.22
+Real Estate 76.33 94.74 84.12
+Campaign Registry 48.56 48.50 33.12
+11,289.52 11,177.70 10,849.23
+Liabilities towards assets held for sale pertaining to 
+discontinued operations11.49 239.94 -
+Unallocated Liabilities 12,259.29 12,319.43 11,921.81
+Total Segment Liabilities 23,560.30 23,737.07 22,771.04
+iii. Notes to Segments:  
+Solutions, Data Services, Payment Solutions, Transformation services, Real Estate& Campaign Registry. The composition 
+of the operating segments is as follows:
+Voice Solutions includes International and National Long Distance Voice services.
+Data Services includes Core connectivity services andDigital platforms & connected services.(Refer note 6b).
+Payment Solutions includes end-to-end ATM deployment, end-to-end POS enablement, hosted core banking, end to end 
+financial inclusion and card issuance and related managed services and switching services to banking sector carried out by 
+(Refer note 6a).
+Transformation Services includes the business of providing telecommunication network management and support services. 
+Limited and its subsidiaries. 
+Campaign Registry includes the business of collecting robotically driven campaign information and processing and sharing 
+that information with mobile operators and the messaging ecosystem to reduce spam. These services are carried out by the 
+wholly owned indirect subsidiary of the Company.
+Real Estate segment comprises lease rentals for premises given on lease .
+Page 5of 21
+C. Statement of Consolidated Assets and Liabilities:
+(in crores)
+ParticularsAs at As at 
+March 31 2025 March 31 2024
+(Audited)(Audited)
+(Refer note 6)
+ASSETS
+Non-current assets
+(a) Property, plant and equipment 7,637.93 7,429.73
+(b) Capital work-in-progress 1,005.13 1,176.53
+(c) Right-of-use assets 1,430.42 1,103.49
+(d) Investment property 194.98 385.71
+(e) Goodwill 1,932.52 1,783.73
+(f) Other intangible assets 2,723.10 2,764.75
+(g) Intangible assets under development 94.79 150.50
+(h) Financial assets
+(i)  Investments
+(a) Investments in associates 1,630.75 1,306.83
+(b) Other investments 167.48 152.11
+(ii) Other financial assets 154.35 144.02
+(i) Deferred tax assets (net) 806.68 717.01
+(j) Non-current tax assets (net) 1,187.09 1,216.99
+(k) Other non-current assets 380.68 231.01
+Total Non-current assets 19,345.90 18,562.41
+Current assets
+(a) Inventories 157.84 83.54
+(b) Financial assets
+(i) Other investments 915.70 149.28
+(ii) Trade receivables 4,006.10 3,758.36
+(iii) Cash and cash equivalents 533.90 732.05
+(iv) Bank balances other than (iii) above 53.51 110.40
+(v) Other financial assets 255.54 155.75
+(c) Other current assets 1,261.10 899.01
+7,183.69 5,888.39
+Assets classified as held for sale 54.99 110.54
+Total Current assets 7,238.68 5,998.93
+TOTAL ASSETS 26,584.58 24,561.34

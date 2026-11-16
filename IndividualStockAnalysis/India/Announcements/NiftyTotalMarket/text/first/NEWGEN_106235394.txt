@@ -1,0 +1,83 @@
+                                                                    
+Newgen Software Technologies Limited  
+CIN: L 72200DL 1992PLC049074, Registered Office: E-44/13, Okhla Phase II, New Delhi 110020, India  
+Tel: +91 11 46533200, 26384060, 26384146   Fax:+91 11 26383963  
+ 
+                                                                  
+ 
+Date:  May 16, 2025  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  
+ National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400051  
+ 
+Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+Scrip Code – 540900  Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+ 
+ 
+Sub. : Press Release titled  “Newgen Granted Patent in India for System and Method for Data 
+Compression ” 
+ 
+Dear Sir/ Ma'am,  
+ 
+Pursuant to the Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 , 
+we are hereby enclosing the Press Release  titled “Newgen Granted Patent in India for System and Method 
+for Data Compression ”. 
+ 
+This is for your kind information and record.  
+ 
+Thanking you.  
+ 
+For Newgen Software Technologies Limited  
+ 
+ 
+ 
+Aman Mourya  
+Company Secretary  & Head -Legal  
+ 
+ 
+Encl. : a/a 
+ 
+                                                                       
+ 
+ 
+ 
+PRESS RELEASE  
+Newgen Granted Patent in India for System and Method for  
+Data Compression  
+Filed 55 patents, out of which 25 have been granted in India and the US . The new  patent will boost 
+Newgen’s intellectual property portfolio . 
+May  16, 2025: Newgen Software, a leading provider of an AI -first unified digital transformation 
+platform , has announced that the Indian patent office has granted a patent ( No. 565385 ) for inventi ng 
+the ‘System and Method for Data Compression .' This patent has been filed for a term of 20 years 
+commencing from April  26, 2017, in accordance with the provisions of the Patents Act, 1970.  
+The invention addresses efficient data compression for large volumes of data files where the majority 
+of content is similar, with a smaller amount of varying data, especially in scenarios where traditional 
+compression techniques may not be optimal. Since the invention is about a compression technique , it 
+aims to  reduce storage space  and i mprove speed and efficiency of data handling , however,  in a much 
+better way than conventional compression techniques.  
+This is especially relevant in industries handling high volumes of structured documents,  forms, or 
+system -generated reports , enabling them to save storage costs  and have faster data handling.  
+Newgen's patented system  intelligently identifies homogeneous data files  with similar structures and 
+further segments them into static and dynamic regions. The system treats these files as sequential 
+frames by leveraging advanced video compression techniques  for highly efficient compression. This 
+novel approach results in a single compressed video file, accompanied by metadata for precise storage 
+and retrieval.  
+The patents acquired by Newgen further strengthen its leadership in building cutting -edge, industry -
+specific applications, which are instrumental in driving digital transformation across organizations 
+worldwide.  
+About Newgen Software Technologies Limited  
+Newgen is the leading provider of an AI -first unified digital transformation platform with 
+native  process automation , content services , customer  engagement, and  AI/ML  capabilities. Globally, 
+successful enterprises rely on Newgen’s industry -recognized low -code application platform to develop 
+and deploy complex, content -driven, and customer -engaging business applications on the cloud. From 
+onboarding to service requests,  lending to underwriting, and for many more use cases across 
+industries, Newgen unlocks simple with speed and agility.  
+For more details, visit  www.newgensoft.com  

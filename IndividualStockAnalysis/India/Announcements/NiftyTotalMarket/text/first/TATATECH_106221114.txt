@@ -1,0 +1,94 @@
+ 
+ 
+ 
+Tata Technologies Limited  
+Plot No 25, Rajiv Gandhi Infotech Park | Hinjawadi, Pune 411057 | India  
+Tel: +91 20 6652 9090  | Fax: + 91 20 6652 9035  
+CIN L72200PN1994PLC013313   
+Email: investor@tatatechnologies.com  
+Website: www.tatatechnologies.com  
+Ref. No.: TTL/COSEC/SE/ 2025- 26/15 
+  
+May 6, 2025        
+ 
+ 
+Dear Sir / Madam,  
+ 
+Subject : Rectification of minor typo in Board Meeting outcome in financial results  
+ 
+This is in f urther ance  to our letter no.  TTL/COSEC/SE/2025 -26/05  dated April 25, 2025 where the Company  had 
+submitted the Board Meeting outcome along with the audited standalone and consolidated financial results for 
+the quarter and Financial Year ended March 31, 2025.  
+ 
+Pursuant to Regulation 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+we hereby inform you that in the ‘Statement of Consolidated Audited Financial Results for the Quarter a nd Year 
+ended March 31, 2025’, in the column for year ended March 31, 2025, it was inadvertently mentioned as 
+‘Unaudited ’ instead of ‘ Audited ’. We are hereby attaching the revised statement.  
+ 
+Apart from the above, there are no changes to the contents of the filing made under our letter referenced above.   
+ 
+We regret the inconvenience caused and request you to take the above information on record . 
+ 
+The above information is being made available on the website of the Company www.tatatechnologies.com . 
+ 
+ 
+For Tata Technologies Limited  
+ 
+ 
+ 
+________________________  
+Vikrant Gandhe  
+Company Secretary  and Compliance Officer  BSE Limited                                
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001, India.  
+Scrip Code: 544028  National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051, India.  
+Trading symbol: TATATECH  
+₹ in crore (except per share data) 
+March 31, December 31, March 31, March 31, March 31,
+2025 2024 2024 2025 2024
+Audited Unaudited Audited Audited Audited 
+I Revenue from operations 1,285.65                  1,317.38                  1,301.05                  5,168.45                  5,117.20                  
+II Other income (Refer note 3) 57.08                       27.62                       24.14                       124.13                     115.55                     
+IIITotal income (I+II) 1,342.73                  1,345.00                  1,325.19                  5,292.58                  5,232.75                  
+IVExpenses
+(a) Purchases of technology solutions 203.31                     240.49                     241.16                     899.71                     895.33                     
+(b) Outsourcing and consultancy charges 101.01                     97.34                       103.46                     390.42                     508.36                     
+(c) Employee benefits expense 626.27                     639.31                     619.56                     2,488.93                  2,363.72                  
+(d) Finance costs 4.81                         5.50                         4.36                         19.63                       18.91                       
+(e) Depreciation and amortisation expense 31.15                       30.45                       28.96                       121.21                     105.87                     
+(f) Other expenses 121.65                     106.22                     96.90                       455.34                     408.51                     
+Total expenses (IV) 1,088.20                  1,119.31                  1,094.40                  4,375.24                  4,300.70                  
+VProfit before share of profit in equity accounted investees and tax (III - IV) 254.53                     225.69                     230.79                     917.34                     932.05                     
+VIShare of profit of equity accounted investee (net) 3.56                         0.50                         -                           4.06                         -                           
+VIIProfit before tax for the period/year (V + VI) 258.09                     226.19                     230.79                     921.40                     932.05                     
+VIIITax expense (Refer note 6)
+(a) Current tax 81.93                       89.60                       113.38                     325.96                     354.05                     
+(b) Deferred tax (credit) / charge (12.71)                      (32.05)                      (39.83)                      (81.51)                      (101.37)
+Total tax expense (net) 69.22                       57.55                       73.55                       244.45                     252.68                     
+IXProfit after tax for the period/year (VII - VIII) 188.87                     168.64                     157.24                     676.95                     679.37                     
+Attributable to:
+Shareholders of the Company 188.87                     168.64                     157.24                     676.95                     679.37                     
+XOther comprehensive income/(loss)
+(a) Items that will not be reclassified to profit or loss:
+     (i) Remeasurement of defined employee benefit plans (0.91)                        4.45                         2.02                         1.29                         (4.49)
+     (ii) Income tax credit/ (expense) relating to above items 0.23                         (1.12)                        (4.46)                        (0.32)                        (2.18)
+(b) Items that will be reclassified to profit or loss:
+     (i) Exchange differences on translation of financial statements of foreign operations 34.43                       (34.48)                      (9.43)                        79.36                       54.10
+Total other comprehensive income/(loss) for the period/year 33.75                       (31.15) (11.87)                      80.33                       47.43                       
+XITotal comprehensive income (net of tax) for the period/year (IX + X) 222.62                     137.49                     145.37                     757.28                     726.80                     
+Attributable to:
+Shareholders of the Company 222.62                     137.49                     145.37                     757.28                     726.80                     
+XIIPaid-up equity share capital (face value of ₹2 each) 81.13                       81.13                       81.13                       81.13                       81.13                       
+XIIIOther equity 3,498.29                  3,139.69                  
+XIVEarnings per share (EPS)
+Equity shares (face value of ₹2 each):
+(a) Basic EPS 4.66                         4.16                         3.88                         16.69                       16.75                       
+(b) Diluted EPS 4.65                         4.15                         3.87                         16.66                       16.72                       
+Not annualisedRegd Office : Plot No 25, Rajiv Gandhi Infotech Park, Hinjawadi, Pune, India – 411 057
+Quarter ended STATEMENT OF CONSOLIDATED AUDITED FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED MARCH 31, 2025
+Particulars CIN:L72200PN1994PLC013313
+Year ended 

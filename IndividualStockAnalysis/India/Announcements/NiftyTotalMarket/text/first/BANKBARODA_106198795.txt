@@ -1,0 +1,319 @@
+ 
+ 
+  
+BCC:ISD:117:16:117                                                                      09.04.2025 
+ 
+ 
+The Vice-President,   
+B S E Ltd.,  
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai – 400 001 
+BSE CODE-532134 
+  
+The Vice-President,  
+National Stock Exchange of India Ltd. 
+Exchange Plaza,  
+Bandra Kurla Complex, Bandra (E) 
+Mumbai – 400 051 
+CODE-BANKBARODA 
+ 
+Dear Sir / Madam, 
+ 
+Re:  Bank of Baroda – Disclosure in terms of the SEBI Operational Circular dated August 10, 
+2021 – Chapter XIV Centralized Database for Corporate Bonds/Debentures 
+ 
+In compliance of SEBI Circular No. SEBI/HO/DDHS/P/CIR/2021/613 dated 10.08.2021, we 
+annex periodical information in prescribed format Annex - XIV-B. 
+ 
+We request you to take note of the above and upload the information on your website. 
+ 
+ 
+Yours faithfully, 
+ 
+ 
+ 
+P K Agarwal 
+ Company Secretary 
+ 
+ 
+ 
+ANNEX – XIV – B 
+Annual Disclosure of Non -Convertible Securities as on 31.03.2025  
+1. Listing Details:  
+ 
+Sr. No.  ISIN  Allotment  Date  Listing Date on BSE  Listing Date on NSE  Listing Quantity  First Issue/further issue  Exchange  
+1 INE028A08166  11-Sep-19 17-Sep-19 18-Sep-19 5000  First Issue  BSE / NSE  
+2 INE028A08208  15-Jan-20 21-Jan-20 17-Jan-20 20000  First Issue  BSE / NSE  
+3 INE028A08216  17-Jul-20 22-Jul-20 22-Jul-20 7640  First Issue  BSE / NSE  
+4 INE028A08224  28-Jul-20 04-Aug-20 04-Aug-20 9810  First Issue  BSE / NSE  
+5 INE028A08232  17-Nov-20 23-Nov-20 23-Nov-20 8330  First Issue  BSE / NSE  
+6 INE028A08240  13-Jan-21 14-Jan-21 14-Jan-21 9690  First Issue  BSE / NSE  
+7 INE028A08257  28-Jan-21 28-Jan-21 28-Jan-21 1880  First Issue  BSE / NSE  
+8 INE705A08078  22-Jan-16  NA 04-Feb-16 4500  First Issue  NSE  
+9 INE077A08098  20-Sep-16  NA 19-Oct-16 4000  First Issue  NSE  
+10 INE028A08265  26-Nov-21 29-Nov-21 29-Nov-21 1997  First Issue  BSE / NSE  
+11 INE028A08273  31-Jan-22 01-Feb-22 01-Feb-22 752 First Issue  BSE / NSE  
+12 INE028A08281  17-Aug-22 19-Aug-22 19-Aug-22 10000 First Issue  BSE / NSE  
+13 INE028A08299  02-Sept-22 05-Sept-22 05-Sept-22 2474  First Issue  BSE / NSE  
+14 INE028A08307  01-Dec-23 05-Dec-23 04-Dec-23 500000  First Issue  BSE / NSE  
+15 INE028A08315  21-Dec-23 22-Dec-23 22-Dec-23 2500  First Issue  BSE / NSE  
+16 INE028A08323  25-Jan-24 29-Jan-24 29-Jan-24 500000  First Issue  BSE / NSE  
+17 INE028A08331  22-Feb-24 23-Feb-24 23-Feb-24 2500  First Issue  BSE / NSE  
+18 INE028A08349  27-Aug-24 28-Aug-24 28-Aug-24 500000 First Issue  BSE / NSE  
+19 INE028A08356  09-Sep-24 10-sep-24 10-sep-24 500000  First Issue  BSE / NSE  
+20 INE028A08364  28-Nov-24 29-nov-24 29-nov-24 3500  First Issue  BSE / NSE  
+21 INE028A08372  16-Jan-25 17-Jan-25 17-Jan-25 500000 First Issue  BSE / NSE  
+ 
+ 
+2. A hyperlink of ‘Listing Notification by stock exchange’ [final approval] hyperlink (downloadable):  
+ 
+BSE - https://www.bseindia.com/markets/MarketInfo/NoticesCirculars.aspx?id=0&txtscripcd=&pagecont=&subject =   
+ 
+NSE  -  https://www.nseindia.com/resources/exchange -communication -circulars   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Details of record date:  
+ 
+Sr.No.  ISIN  Record Date for Interest Payment  Interest/Redemption  Interest Payment Date  
+1.  INE028A09123  07.06.2024  Redemption  08.07.2024  
+Maturity on 08.07.2024  
+2.  INE028A08216  01.07.2024  Redemption  18.07.2024  
+(17.07.2024 is holiday)  
+3.  INE028A08224  12.07.2024  Interest  29.07.2024  
+(28.07.2024 is holiday)  
+4.  INE028A08281  01.08.2024  Interest  19.08.2024     *  
+(17.08.2024 Saturday being considered as holiday and 
+18.08.2024 holiday)  
+5.  INE028A08299  19.08.2024 *  
+(17.08.2024 Saturday being considered 
+as holiday and 18.08.2024 holiday)  Interest  02.09.2024  
+6.  INE028A08166  26.08.2024  Interest  11.09.2024  
+7.  INE077A08098  04.09.2024  Interest  20.09.2024  
+8.  INE028A08232  03.11.2024  
+(01.11.2024 & 02.11.2024 holiday)  Interest  18.11.2024  
+(17.11.2024 being holiday)  
+9.  INE028A08265  11.11.2024  
+(10.11.2024being holiday)  Interest  26.11.2024  
+ 
+10.  INE028A08174  12.11.2024  Redemption  28.11.2024  
+11.  INE028A08307  16.11.2024  Interest  02.12.2024  
+12.  INE028A08182  02.12.2024  Redemption  18.12.2024  
+13.  INE028A08315  05.12.2024  Interest  21.12.2024  
+14.  INE028A08190  18.12.2024  Redemption  03.01.2025  
+(Call Option)  
+15.  INE028A08240  30.12.2024 (28th and 29th being 
+holiday)  Interest  13.01.2025  
+16.  INE028A08208  30.12.2024  Interest  15.01.2025  
+17.  INE028A08323  09.01.2025  Interest  27.01.2025 (25th and 26th being Saturday and Sunday)  
+18.  INE028A08257  13.01.2025 (12th being holiday)  Interest  28.01.2025  
+19.  INE028A08273  15.01.2025  Interest  31.01.2025  
+20.  INE028A08331  06.02.2025  Interest  24.02.2025 (22nd and 23rd being Saturday and Sunday)  
+21.  INE705A08052  01.02.2025  Interest  18.02.2025  
+Maturity on 18.02.2025  
+22.  INE705A08078  15.03.2025  Interest  02.04.2025 (31.03.2025 and 01.04.2025 being holiday/non 
+banking day)  
+ 
+ 
+ 
+4. Details of credit rating:  
+ 
+a) Current rating details:  
+ 
+Bonds as on 
+31.03.2025 -
+ISIN  Name 
+of the 
+CRA  Credit 
+Rating  Outlook  Rating 
+action 
+(new, 
+upgrade, 
+reaffirm)  Date of 
+Credit 
+Rating  Verification 
+Status of 
+Credit 
+Rating 
+Agencies  Date of 
+Verification  Name of the 
+CRA  Credit 
+Rating  Outlook  Rating 
+action 
+(new, 
+upgrade, 
+reaffirm)  Date of 
+Credit 
+Rating  Verification 
+Status of 
+Credit 
+Rating 
+Agencies  Date of 
+Verification  
+INE028A08166  CARE  AAA  Stable  Reaffirmed  02-Sep-24 Verified   02-Sep-24 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08208  CARE  AAA  Stable  Reaffirmed  02-Sep-24 Verified   02-Sep-24 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08315  CRISIL  AAA  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08331  CRISIL  AAA  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08364  CRISIL  AAA  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE705A08078  CARE  AAA  Stable  Reaffirmed  02-Sep-24 Verified   02-Sep-24 ICRA  AAA  Stable  Reaffirmed  09-Aug-24 Verified   09-Aug-24 
+INE077A08098  CARE  AAA  Stable  Reaffirmed  02-Sep-24 Verified   02-Sep-24               
+INE028A08216  CRISIL  AA+  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AA+  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08224  CRISIL  AA+  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AA+  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08232  CRISIL  AA+  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AA+  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08240  CRISIL  AA+  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AA+  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08257  CRISIL  AA+  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AA+  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08265  CRISIL  AA+  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 ICRA  AA+  Stable  Reaffirmed  09-Aug-24 Verified   09-Aug-24 
+INE028A08273  CRISIL  AA+  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 ICRA  AA+  Stable  Reaffirmed  09-Aug-24 Verified   09-Aug-24 
+INE028A08299  ICRA  AA+  Stable  Reaffirmed  09-Aug-24 Verified   09-Aug-24 India Rating  AA+  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08281  ICRA  AAA  Stable  Reaffirmed  09-Aug-24 Verified   09-Aug-24 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08307  CRISIL  AAA  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08323  CRISIL  AAA  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08349  CRISIL  AAA  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08356  CRISIL  AAA  Stable  Reaffirmed  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+INE028A08372  CRISIL  AAA  Stable  Assigned  03-Jan-25 Verified   03-Jan-25 India Rating  AAA  Stable  Affirmed  04-Mar-25 Verified   04-Mar-25 
+ 
+ 
+ 
+b) Earlier rating details:  
+ 
+Bonds as on 
+31.03.2024 -
+ISIN  Name of 
+the CRA  Credit 
+Rating  Outlook  Rating 
+action 
+(new, 
+upgrade, 
+reaffirm)  Date of 
+Credit 
+Rating  Verification 
+Status of 
+Credit 
+Rating 
+Agencies  Date of 
+Verification  
+Name of 
+the CRA  Credit 
+Rating  Outlook  Rating 
+action 
+(new, 
+upgrade, 
+reaffirm)  Date of 
+Credit 
+Rating  Verificatio
+n Status of 
+Credit 
+Rating 
+Agencies  Date of 
+Verification  
+INE028A09123  CRISIL  AAA  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23 
+INE028A08166  CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08190  CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08208  CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08174  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08182  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08216  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08224  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08232  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08240  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08257  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE705A08037  CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23 ICRA  AAA  Stable  Reaffirmed  11-Aug-23 Verified   11-Aug-23 
+INE705A08052  CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23 ICRA  AAA  Stable  Reaffirmed  11-Aug-23 Verified   11-Aug-23 
+INE705A08078  CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23 ICRA  AAA  Stable  Reaffirmed  11-Aug-23 Verified   11-Aug-23 
+INE077A08098  CARE  AAA  Stable  Reaffirmed  04-Sep-23 Verified   04-Sep-23               
+INE028A08265  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 ICRA  AA+  Stable  Reaffirmed  11-Aug-23 Verified   11-Aug-23 
+INE028A08273  CRISIL  AA+  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 ICRA  AA+  Stable  Reaffirmed  11-Aug-23 Verified   11-Aug-23 
+INE028A08299  ICRA  AA+  Stable  Reaffirmed  11-Aug-
+23 Verified   11-Aug-23 India Rating  AA+  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08281  ICRA  AAA  Stable  Reaffirmed  11-Aug-
+23 Verified   11-Aug-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08315  CRISIL  AAA  Stable  Assigned  13-Dec-23 Verified   13-Dec-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08331  CRISIL  AAA  Stable  Assigned  13-Dec-23 Verified   13-Dec-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+ 
+ 
+ 
+INE028A08307  CRISIL  AAA  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A08323  CRISIL  AAA  Stable  Reaffirmed  13-Dec-23 Verified   13-Dec-23 India Rating  AAA  Stable  Affirmed  29-Feb-24 Verified   13-Dec-23 
+INE028A09123  Brickwork  AAA  Stable  Reaffirmed  23-Nov-
+23 Verified   23-Nov-23        
+ 
+5. Payment Status:  
+ 
+a) Whether Interest payment/ redemption payment made - yes  
+ 
+b) Details of interest payments:  
+ 
+Sl 
+No. ISIN  Issue Size  Interest Amount 
+to be paid on due 
+date(In Rs.)  Frequency  Change 
+in 
+frequency 
+of 
+payment 
+(if any)  Details 
+of 
+such 
+change  Interest 
+Payment 
+Record 
+Date  Due date 
+for interest 
+Payment  Actual date 
+for interest 
+payment  Amount of 
+interest paid (in 
+Rs. Including 
+TDS)  Date of last 
+Interest 
+Payment  Reason 
+for 
+Non-
+Payme
+nt/dela
+y in 
+Payme
+nt 
+1 INE028A09123      
+5,00,00,00,000.00          
+42,70,00,000.00  Annual  NA NA 07-06-2024  08-07-2024  08-07-2024        
+42,70,00,000.00  10-07-2023  NA 
+2 INE028A08216      
+7,64,00,00,000.00          
+63,03,00,000.00  Annual  NA NA 01-07-2024  17-07-2024  18-07-2024        
+63,03,00,000.00  17-07-2023  NA 
+3 INE028A08224      
+9,81,00,00,000.00          
+83,38,50,000.00  Annual  NA NA 12-07-2024  28-07-2024  29-07-2024        
+83,38,50,000.00  28-07-2023  NA 
+4 INE028A08281    
+10,00,00,00,000.00          
+73,90,00,000.00  Annual  NA NA 01-08-2024  17-08-2024  17-08-2024        
+73,90,00,000.00  17-08-2023  NA 
+5 INE028A08299    
+24,74,00,00,000.00      
+1,94,95,12,000.00  Annual  NA NA 17-08-2024  02-09-2024  02-09-2024    
+1,94,95,12,000.00  02-09-2023  NA 
+6 INE028A08166      
+5,00,00,00,000.00          
+38,75,00,000.00  Annual  NA NA 26-08-2024  11-09-2024  11-09-2024        
+38,75,00,000.00  11-09-2023  NA 
+7 INE077A08098      
+4,00,00,00,000.00          
+35,04,00,000.00  Annual  NA NA 04-09-2024  20-09-2024  20-09-2024        
+35,04,00,000.00  20-09-2023  NA 
+8 INE705A08037      
+5,00,00,00,000.00          
+26,69,79,460.00  Annual  NA NA 14-10-2024  30-10-2024  30-10-2024        
+26,69,79,460.00  02-04-2024  NA 
+9 INE028A08232      
+8,33,00,00,000.00          
+70,80,50,000.00  Annual  NA NA 04-11-2024  17-11-2024  18-11-2024        
+70,80,50,000.00  17-11-2023  NA 

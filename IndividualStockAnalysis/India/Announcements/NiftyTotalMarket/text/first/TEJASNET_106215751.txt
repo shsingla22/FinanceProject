@@ -1,0 +1,258 @@
+                              
+            
+  
+ April 29 , 2025  
+The Secretary  
+National Stock Exchange of India Ltd  
+Exchange Plaza, C/1, Block G,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai - 400 051  
+NSE Symbol: TEJASNET  The Secretary  
+BSE Limited  
+P J Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+BSE Scrip Code: 540595  
+ Dear Sir/Madam,  
+Re: Press Release  
+ 
+Please find enclosed press release titled: “Tejas Networks and Intel team up to bring 
+Direct -to-Mobile (D2M) capability to Laptops ushering in new possibilities  for Universal 
+Education” , for your information and record s. 
+ 
+Please also find enclosed copy of press release issued by (i) HMD and (ii) Lava International  
+Limited , for your information  and records . 
+Thanking you,  
+ 
+ Yours sincerely  
+ For Tejas Networks Limited  
+   
+ 
+ 
+ 
+ N R Ravikrishnan  
+ General Counsel, Chief Compliance Officer  
+ & Company Secretary  
+ 
+ 
+Press  Release  
+Tejas  Networks  and Intel  team  up to bring  Direct -to-Mobile  (D2M)  capability  to Laptops  
+ushering  in new  possibilities  for Universal  Education  
+ 
+Bengaluru , April  29, 2025  – Ahead  of the World  Audio  Visual  & Entertainment  Summit  
+(WAVES)  2025,  Tejas  Networks  [BSE:  540595,  NSE:  TEJASNET]  and Intel  today  announced  the 
+successful  integration  of Direct -to-Mobile  (D2M)  capability  in Intel -powered  laptops  enabling  
+delivery  of educational  content  to students  across  India  leveraging  Artificial  Intellige nce (AI).  
+ 
+D2M  is a broadcasting  technology  developed  as part of an ongoing  proof -of-concept  at IIT 
+Kanpur.  It uses  terrestrial  TV broadcast  airwaves  to deliver  live TV, Video,  Audio  and text 
+messages  (multimedia  content)  of public  and national  importance  such  as entertainment,  
+sports,  educational  programming  and emergency  alerts  directly  to mobile  phones  and 
+compute  devices  without  the need  for Wi-Fi or internet  service.  
+ 
+Universal  access  to education  is a critical  prerequisite  for achieving  Hon’ble  Prime  Minister  
+Narendra  Modi’s  vision  for a Viksit  Bharat  by 2047.   
+ 
+By integrating  D2M  into Intel’s  personal  computing  (PC) platform,  Tejas  Networks  and Intel  
+have  laid the foundation  for a fully  integrated  compute  device  that is ready  to deliver  
+education  without  connectivity  barriers  in a cost-effective  manner.  This collaboration  
+between  Intel  and Tejas  Networks  is a testament  to ‘Design  in India’  and ‘Make  in India’  
+efforts.  The innovative  laptop  design  is powered  by Intel  processor  and an embedded  antenna  
+coupled  with  Tejas  – Saankhya  SL-3000  SDR chipset  for enabling  D2M  services.  Tejas  Networks  
+has also developed  a suite  of infrastructure  hardware  and software  products  for D2M  
+network  deployment.  The end-to-end indigenously  developed  technology  powered  by SL-
+3000  SDR chipset  has been  under  test in live networks  by Prasar  Bharati  in partnership  with  
+IIT Kanpur  and Tejas  Networks  over  the last few years.  
+ 
+Parag  Naik,  Executive  Vice  President,  Tejas  Networks,  said,  “With  the integration  of D2M  
+chipsets  into Intel-powered  laptops,  we are unleashing  a revolutionary  leap  in educational  
+content  delivery.  Leveraging  the multicast  architecture  of ATSC  3.0, D2M  platform  allows  
+simultaneous  transmission  of diverse  educational  content—each  tailored  for different  grades,  
+school  boards,  or languages —directly  to students,  even  in connectivity -underserved  
+geographies.  The award -winning  SDR chipset  for D2M  is powered  by an indigenous  multi -core  
+DSP architecture  that has gone  through  two generations  of field  hardening.  D2M  is a scalable,  
+cost-effective,  and resilient  system  that ensures  inclusive,  high -quality  learning,  no matter  
+where  the learner  is situated  and will catalyze  the country’s  emergence  as a knowledge  
+powerhouse  in the coming  years.”   
+ 
+Gokul  Subramaniam,  President  Intel  India  and Vice  President,  Client  Computing  Group,  said,  
+“Intel  continues  to innovate  with  the ecosystem  to bring  unique  computing  experiences  to 
+the users  and enable  them  to perform  tasks  that can transform  their  lives.  D2M  technology,  
+as part  of our collaborative  effort  with  Tejas  Networks,  opens  a range  of new  possibilities  to 
+ 
+ 
+deliver  content  through  personal  computing  and edge  devices.  We believe  the possibilities  
+with  this capability  in a PC are far reaching  for education  in India  and globally.”  
+ 
+Shashi  Shekhar  Vempati,  Chairperson  of UGC  Committee  on Educational  Media  Reforms  said,  
+“In line with  Hon’ble  Prime  Minister  Narendra  Modi’s  vision  for a Viksit  Bharat  (Developed  
+India)  by 2047,  the integration  of D2M  broadcasting  technology  with  AI-capabl e edge  
+computing  can lead  to a full-stack  (chips  to platform)  deep -tech  public  goods  infrastructure  
+purpose -built  to deliver  high  quality  educational  content  to India’s  youth.  This initiative  also 
+aligns  with  the National  Education  Policy  (NEP)  2020’s  vision of equitable  and inclusive  
+education  by helping  overcome  digital  access  barriers  for students  nationwide. ” 
+ 
+About  Tejas  Networks  Limited  
+ 
+Tejas  Networks  Ltd. designs  and manufactures  high -performance  wireline  and wireless  networking  
+products  for telecommunications  service  providers,  internet  service  providers,  utilities,  defense  and 
+government  entities  in over  75 countries.  Tejas  is an innov ative , leading -edge  technology  company  
+with  a wide  range  of communication  products  for 4G/5G,  Optical,  Routing,  Broadcast  and Satellite  
+Communication  applications.  With  its unique  'chipset -to-systems'  expertise,  Tejas’  solutions  include  
+award -winning  SDR chipsets  for communication s, next -generation  Open  RAN  Solutions  for 5G 
+networks,  multi -standard  direct  to mobile  (D2M)  broadcast  and Satcom  solutions.  Tejas  Networks  Ltd. 
+is a part of the Tata  Group,  with  Panatone  Finvest  Ltd. (a subsidiary  of Tata  Sons  Pvt. Ltd.)  being  the 
+majority  shareholder.   
+For more  information,  visit https:// www.tejasnetworks.com   or contact  Investor  Relations  at 
+ir@tejasnetworks.com    
+ 
+Media  Cont acts: Vivek  Kimbahune,  vivekki@tejasnetworks.com    
+Santosh  Kesavan,  skesavan@tejasnetworks.com   
+ 
+ 
+SAFE  HARBOUR  
+Certain  statements  in this release  concerning  our future  growth  prospects  are forward -looking  
+statements,  which  involve  a number  of risks,  and uncertainties  that  could  cause  actual  results  
+to differ  materially  from  those  in such  forward -looking  statements  due to risks  or uncertainties  
+associated  with  our expectations  with  respect  to, but not limited  to, our ability  to successfully  
+implement  our strategy  and our growth  and expansion  plans,  technological  changes,  our 
+exposure  to market  risks,  general  economic  and political  conditions  in India  which  have  an 
+impact  on our business  activities  or investments,  changes  in the laws  and regulations  that 
+apply  to the industry  in which  the Company  operates.  The Company  does  not undertake  to 
+update  any forward -looking  statements  that  may  be made  from  time  to time  by or on behalf  
+of the Company.  
+ 
+ 
+ HMD  Announces  Plans  to Launch  Direct -to-Mobile  Phones  in India  Ahead  of 
+Field  Trials  
+Jio World  Centre,  Mumbai   April  28, 2025  – HMD  in collaboration  with  Free  Stream  Technologies  
+(incubated  at Indian  Institute  of Technology  (IIT),  Kanpur)  and other  D2M  partners  announces  launch  
+plans  underway  to meet  mass  consumer  demand  for Direct -to-Mobile  (D2M)  phones  ahead  of large -
+scale  field  trials  in India.  The announcement  will be made  at the World  Audio  Visual  & Entertainment  
+Summit  (WAVES)  2025  held  at Jio World  Centre,  Mumbai.  
+Direct -to-Mobile  is a breakthrough  Next -Generation  Broadcasting  technology  that delivers  OTT & live 
+TV, video,  audio,  and text messages  directly  to mobile  phones  without  requiring  Wi-Fi or internet  
+service.  This aligns  with  Prime  Minister  Narendra  Modi's  vision  for Viksit  Bharat  (economic  
+transformation  of India)  and supports  the 'Make  in India'  and 'Design  in India'  initiatives.  
+Giving  a boost  to the ‘Make  in India’  and ‘Design  in India’  efforts,  low cost feature  phones,  smartphones  
+and tablets  are powered  by Tejas  Networks.  This technology  has undergone  extensive  testing  in live 
+networks  by Prasar  Bharati  in collaboration  with  IIT Kanpur  and Tejas  Networks  for several  years.  
+On this occasion,  Ravi  Kunwar,  VP and CEO,  HMD  India  and APAC  expressed , "HMD  has always  been  
+committed  to staying  ahead  of the innovation  curve  and delivering  the best  consumer  experience.  With  
+this philosophy  at the core  of our mission,  we're  excited  to be a part  of the D2M  journey.  This 
+groundbreaking,  first-of-its-kind  platform  worldwide  enables  our consumers  to access  a vast array  of 
+multimedia  content"   
+"Sumeet  Nindrajog,  Director  of Free Stream  Technologies  said, D2M  is a technology  that  can transform  
+how  content  & data  gets  consumed  by the end users  and the commitment  from  companies  like HMD  to 
+establish  the foundation  for a robust  device  ecosystem  is instrumental  for our nationwide  deployment  
+strategy.  Their  ability  to supply  devices  at scale  demonstrates  strong  confidence  in D2M’s  future  
+success.”  
+Parag  Naik,  co-founder  of erstwhile  Saankhya  Labs  and Executive  Vice  President,  Tejas  Networks,  said,  
+The phones  are powered  by Saankhya  Labs’  award  winning  SL-3000  chipset,  which  is the foundational  
+D2M  enabler.  We have  also developed  the Core  Network  platform  that  will enable  delivery  of targeted  
+Ads, CDN  offload,  educational  content,  emergency  alerts  and other  apps  that  will empower  the consumers  
+furthering  PM Modi s vision  of a digitally  empowered  India.  Our collaboration  with  HMD  has truly  been  
+path  breaking  and we truly  expect  the best  out of it.” 
+Chris  Ripley,  President  and CEO,  Sinclair,  Inc. expressed , Large  scale  adoption  of ATSC  3.0 in affordable  
+mobile  devices  vindicates  Sinclair s forethought  in leading  US and global  deployment  of this broadcast  
+standard  as mobile  first”  and in investing  in Made  by India  technology.   To meet  future  6G goals,  we are 
+spearheading  the next  release  of the standard  - Broadcast  to everything”  (B2X)  which  will unleash  next  
+generation  broadcast  apps  for numerous  verticals.  We are proud  to have  companies  like HMD  as our 
+partners  in this initiative.”   
+The implementation  of D2M  technology  will enable  Indian  consumers  to access  entertainment,  sports,  
+educational  programming,  and emergency  alerts  directly  on their  mobile  devices  through  terrestrial  TV 
+broadcast  airwaves.  This technology  has been  under  development  and testing  in India  for several  years,  
+with  HMD  now  positioning  itself  as one of the first device  manufacturers  ready  to bring  this capability  to 
+market.  
+ 
+ 
+ About  Human  Mobile  Devices  
+We are HMD,  Human  Mobile  Devices.  At HMD,  we start  by tuning  into what  people  really  want.  Our 
+consumers  are passionate  about  the planet,  often  feel swamped  by digital  overload,  and are keeping  a 
+close  eye on their  budget.  That’s why we are thrilled  to be Europe’s largest  smartphone  maker,  
+championing  repair -at-home  phones,  and a go-to for much  needed  digital  time  out. 
+Coming  this year,  you can expect  to see a new  portfolio  of HMD  original  mobile  devices,  as well as Nokia  
+phones  and exciting  new  partnerships.  For further  information,  see www.hmd.com    
+For media  inquiries,  please  contact:  HMD  Press  Office:  hmd@adfactorspr.com  
+About  FreeStream   
+Incubated  at the prestigious  Indian  Institute  of Technology,  Kanpur  (IITK),  Free  Stream  Technologies  Pvt. 
+Ltd. is India's  first and only  'Chips  to Platform'  DeepTech  start -up that is focused  on developing,  deploying,  
+and managing  nationwide  network  infrastructure  for cutting -edge  Direct -to-Mobile  (D2M)  broadcast  
+technology  and related  platform  services.  We communicate  our growth  strategy  at www.freestream.ai .  
+ 
+ About  Tejas  Networks  Limited  
+Tejas  Networks  (BSE:  540595)  (NSE:  TEJASNET),  Tejas  Networks  Ltd. designs  and manufactures  high -
+performance  wireline  and wireless  networking  products  for telecommunications  service  providers,  
+internet  service  providers,  utilities,  defense  and government  entities  in over  75 countries.  Tejas  Networks  
+Ltd. is a part of the Tata  Group,  with  Panatone  Finvest  Ltd. (a subsidiary  of Tata  Sons  Pvt. Ltd.)  being  the 
+majority  shareholder.  Tejas  Networks  acquired  Saankhya  Labs,  an innovative  leading -edge  technology  
+company  with  a breadth  of wireless  communication  system  solutions.  Saankhya  Labs  offered  a wide  range  
+of communication  products  for 5G NR, Broadcast  and Satellite  Communication  applications.  With  over  
+100 international  technology  patents  and unique  'chipset -to-systems'  expertise,  Saankhya ’s solutions  
+included  the award -winning  SDR chipsets  for communication,  next  gen Open  RAN  Solutions  for 5G 
+networks,  multi -standard  direct  to mobile  (D2M)  broadcast  and Satcom  solutions.   For more  information,  
+visit www.tejasnetworks.com.  
+ 
+About  Sinclair   
+Sinclair,  Inc. (Nasdaq:  SBGI)  is a diversified  media  company  and a leading  provider  of local  broadcast  
+television,  including  news  and sports.  Sinclair’s Hunt  Valley  Maryland -based  ONE  Media  subsidiary  has a 
+vision  to build  and globally  deploy  innovative  “Next  Generation ” platforms  and technologies  for wireless  
+broadcast  of enhanced  video,  data,  and nationally  important  services.  Sinclair  and ONE  Media  regularly  
+use their  websites  as key sources  of company  information  which  can be accessed  at www.sbgi.net  and 
+www.onemediallc.com  respectively.   
+ 
+ 
+ 
+  
+ 
+Lava International, Tejas and Free Stream Technologies Join Hands to 
+Manufacture India’s First D2M -Enabled Feature Phones  
+ 
+• The technology is being designed and developed in partnership with Tejas team at Lava’s RnD 
+lab 
+• The technology is developed to empower India with enhanced national safety and security 
+measures  
+• Set to be unveiled at the WAVES 2025  event in Mumbai  
+ 
+New Delhi, April 28, 2025:  : Lava International Limited , the Indian electronics manufacturer , confirmed 
+the introduction of Direct -to-Mobile (D2M) feature phones in partnership with Tejas and Free Stream 
+Technologies, marking a milestone in the feature phone industry. The technology is announced ahead of 
+large -scale field trials and will be unveiled at the World Audio Visual & Entertainment Summit (WAVES) 
+2025.  
+ 
+Vision  
+Aligned with Shri Narendra Modi’s vision of Make in India, the D2M technology is designed and developed 
+to use terrestrial TV broadcast airwaves to deliver all content, live TV, OTT video, audio, and text 
+messages, of public and national importance for feature phone users. The content will be broadcast 
+without the need for internet or Wi -Fi services.  
+ 
+Design and Specifications  
+The D2M -enabled feature phone is being designed by Lava’s in -house R&D team in collaboration with 
+the engineers at Tejas (formerly Saankhya Labs). It will be built on the reliable MediaTek MT6261 
+platform and integrated with Saankhya’s SL3000 software -defi ned receiver chip . The handset is capable 
+of receiving live TV channels and emergency alerts directly without internet connectivity. Designed 
+especially for accessibility, the phone features a 2.8” QVGA display, a dedicated UHF antenna for TV 
+reception, GS M functionality for voice services, and a robust 2200mAh battery for extended use. Lava’s 
+platform software is fully integrated with Saankhya Labs’ SDK for seamless TV and tuner operations, 
+delivering an uninterrupted user experience. This innovation aims to bring high -quality information and 
+entertainment to underserved populations, with a special focus on rural and low -income communities.  
+ 
+Sanjeev Agarwal, Executive Director, Lava International Limited , said, “As an Indian brand in the 
+mobile and electronics industry, we have consistently partnered with the government of India on its 
+developmental initiatives. With D2M technology, we can now reach last -mile users without any internet 
+requirements. It is a landma rk innovation that will enhance safety and security for our citizens, and I am 
+thankful to our partners for working together on this initiative. Post the trials, we will begin manufact uring 
+at a large scale. ” 
+ 
+Parag Naik, co -founder of erstwhile Saankhya Labs and Executive Vice President, Tejas Networks , 
+said, “The phones are powered by Saankhya  Lab s’ award -winning SL -3000 chipset, which is the 
+foundational D2M enabler. We have also developed the Core Network platform that will enable the 
+delivery of targeted Ads, CDN offload, educational content, emergency alerts, and other applications, 
+furthering PM Modi’s vision of a Digitally Empowered India.”  
+ 
+With a major share in the feature phone market, Lava continues to partner with the government in 
+developmental activities in line with the Viksit Bharat initiative. Bringing many firsts to the market, the 
+brand’s portfolio reflects this commitment with mod els like the A1 Josh BOL, which offers caller name 
+announcement, message reading, and talking clock features for enhanced accessibility. The A5 2025 
+introduces UPI integration in feature phones, empowering users with easy digital payments. The Action 
+4G su pports YouTube and entertainment apps, while the A3 Torch stands out with its ergonomic side 

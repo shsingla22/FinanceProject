@@ -1,0 +1,89 @@
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+PFL/202 5                                    April 02 , 202 5 
+ 
+To 
+BSE Ltd.                            National Stock Exchange of India Ltd.,  
+Floor No. 25,                           Exchange Plaza,  
+Phiroze Jeejeebhoy Tower,                         Bandra -Kurla Complex,  
+Dalal Street,                           Bandra (E),  
+Mumbai – 400 001                          Mumbai – 400 051  
+ 
+BSE Scrip Code: 500368                         NSE Symbol: PATANJALI  
+ 
+ 
+Sub.: Details of Equity Shares De -materialized during the month of March , 202 5 
+ 
+Dear Sir/Madam,  
+ 
+Kindly find enclosed herewith the detail s of equity shares dematerialized with National 
+Securities Depository Limited (NSDL)  and Central Depository Services (India) Limited (CDSL)  
+during the month of March , 202 5, for your records.  
+ 
+ 
+Thanking you,  
+ 
+For Patanjali Foods Limited  
+ 
+ 
+ 
+Ramji Lal Gupta  
+Company Secretary  
+ 
+Encl.:  As above  
+ 
+PATANJALI FOODS LIMITED                                                                                            DATE : 02/04/2025
+REGISTER OF DEMAT REQUESTS (NSDL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO.  MEET.DATE         DRN NO.  DP ID.  CLIENT ID   QTY-RECD S.NO. FOLIO  CERTIFICATE NUMBERS     DISTINCTIVE NUMBERS   QTY-DEMT
+  S.NO.  RECT.DATE         DR DATE  FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    330 05/03/2025  10000000023543  IN301862 70959771         30     1                        821      108897-     108926         30
+      1 04/03/2025      28/02/2025  00002580
+                                    ADILRASHID PATHAN
+------------------------------------------------------------------------------------------------------------------------------------
+    331 27/03/2025  10000000313039  IN300214 67078351          5     1                       3165      108097-     108101          5
+      2 27/03/2025      26/03/2025  00000776
+                                    BALAVANTRAY THAKER
+------------------------------------------------------------------------------------------------------------------------------------
+    332 27/03/2025  10000000313049  IN300214 67078351          5     1                       3164      108092-     108096          5
+      3 27/03/2025      26/03/2025  00000775
+                                    BALAVANTRAY THAKER
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :              3
+                                  No. of Inward Certificates        :              3
+                                  Shr/Deb in Deed                   :             40
+                                  Shr/Deb in Cert Entered           :             40
+====================================================================================================================================
+PATANJALI FOODS LIMITED                                                                                            DATE : 02/04/2025
+REGISTER OF DEMAT REQUESTS (CDSL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO. MEET.DATE     DRN NO.   DP ID CLIENT ID         QTY-RECD  S.NO. FOLIO    CERTIFICATE NUMBERS   DISTINCTIVE NUMBERS  QTY-DEMT
+  S.NO. RECT.DATE     DR DATE         FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    191 05/03/2025   11471691   81800 1208180005613555         7      1                 227               1668-       1672         5
+      1 03/03/2025 25/02/2025         00000359                        2                 318              44997-      44998         2
+                                                                                                                    TOTAL:         7
+                                      ANILKUMAR BHAGVANJI LALCHETA
+------------------------------------------------------------------------------------------------------------------------------------
+    192 27/03/2025   11497119   10900 1201090000918552        10      1                1383             112866-     112875        10
+      2 26/03/2025 24/03/2025         00001469
+                                      MR RAMBACHAN MATHURA SINGH
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :            2
+                                  No. of Inward Certificates        :            3
+                                  Shr/Deb in Deed                   :           17
+                                  Shr/Deb in Cert Entered           :           17
+====================================================================================================================================

@@ -1,0 +1,155 @@
+ 
+ 
+AXISCADES Technologies Limited  
+(formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru -560024, Karnataka, INDIA  
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com  
+March 06, 2025  
+The Manager       Listing Department  
+Dppt. Of Corporate Services     National Stock Exchange of India Limited  
+BSE Limited       Exchange Plaza, 5 Floor, Plot C/1, G Block  
+Phirozee  Jeejeebhoy Tower, Dalal Street   Bandra – Kurla Complex, Bandra(E),  
+Mumbai 400 001      Mumbai 400 051  
+BSE Scrip Code: 532395     NSE Symbol: AXISCADES  
+    
+Dear Sir /Madam , 
+Sub: Press Release – AXISCADES’ subsidiary Mistral and Altera Forge Strategic Alliance  To 
+Transform High -Performance Aerospace & Defense Computing  
+With reference to captioned subject, please find enclosed Press Release titled – “AXISCADES’ 
+subsidiary Mistral and Altera Forge Strategic Alliance To Transform High -Performance Aerospace 
+& Defense Computing ” 
+ 
+Kindly take the same on record.  
+Yours truly,  
+For AXISCADES Technologies Limited  
+ 
+ 
+Sonal Dudani  
+Company Secretary & Compliance Officer  
+ 
+Encl.: A/a  
+ 
+ 
+AXISCADES’ subsidiary Mistral  and Altera Forge Strategic Alliance  
+To Transform  High -Performance Aerospace & Defen se Computing  
+ 
+Mistral also officially u nveil ed the SOSA ™- Aligned 3U VPX Processing Engine s with Altera  
+Agilex™ 9 Direct RF FPGA at Bengaluru Event . 
+06th March 2025 , Bengaluru, India                                
+Mistral Solutions Private Ltd, (Mistral) a subsidiary of AXISCADES Technologies Limited 
+(AXISCADES ), a chip to product company and a pioneer in Defen se, Electronic s, Semiconductor 
+and  Artificial Intelligent (ESAI ) applications , proudly announces a strategic partnership with 
+Altera (an Intel  Company) to advance high -performance computing solutions for  mission -critical 
+defense applications. This collaboration aims to leverage Altera  Agilex™ 9 Direct RF FPGA 
+technology to drive next -generation innovations in defense and aerospace industries.  
+ 
+ The announcement was made at an exclusive Seminar  organized by Mistral and Altera  -
+“Advancing Mission -Critical Applications with Altera’s Direct RF FPGAs” - at Bengaluru, on 04th 
+March 2025. The event was witnessed by  industry  professionals , technology leaders, and 
+defense experts  from DRDO Labs, ISRO, HAL, and BEL among others . The Seminar  featured a  
+keynote address from Dr. B K Das, DG ECS, DRDO , who emphasized on the significance of 
+Industry collaboration and its contributions to various DRDO programs. Following this, Sharadhi 
+Babu, President of Defen se Business at AXISCADES, outlined the company’s  strategic vision and 
+technology roadmap for defense.  He detailed AXISCADES’ commitment to driving indigenous 
+innovation in mission -critical solut ions, emphasizing its expansion into next -generation defen se 
+capabilities.  
+Speaking on the partnership, Mr. D Murali Krishnan , CEO, Mistral Solutions, stated:  “We are 
+excited  to join hands with Altera in accelerating defense technology innovation. This strategic 
+collaboration will empower defense programs with high -performance computing, enabling real -
+time data processing and ultra -low latency communication. By integrating Altera  Agilex™ 9 Direct 
+RF FPGA  technology into our solutions, we are set to revolutionize mission -critical applications 
+with unparalleled processing power and efficiency.”  
+“Altera Agilex 9 Direct RF FPGAs feature integrated circuitry that used to be done in the analog 
+domain, offering Mistral customers the critical SWAP capabilities and accelerated deployment 
+
+ 
+required for next -generation applications in the aerospace and defense markets,”  said John Sotir, 
+General Manager Military, Aerospace & Government Group at Altera.  
+Launch  of VPX3U -AGRW027 /014  Processing Card s 
+During the event, Mistral unveiled its state -of-the-art 3U VPX SOSA ™ Aligned Processing Card s 
+built around the Altera  Agilex™ 9 Direct RF FPGA. Designed for rugged mission -critical 
+environments, this cutting -edge processing card offers:  
+• High -performance computing with ARM Cortex -A53 HPS Processor  
+• Integrated 8 -Channel ADC & DAC for real -time data acquisition  
+• Ultra -low latency and high -throughput processing with transceiver rates up to 58 Gbps  
+• Support for high -channel density processing requirements  
+• Full Board Support Package for seamless application development  
+“With the launch of our VPX3U -AGRW027 Processing Card, we are bringing best -in-class FPGA -
+based computing to mission -critical applications. This technology will redefine real -time defen se 
+systems, offering unmatched speed, flexibility, and performance”  said  Mr. C Manikandan , CTO 
+of Mistral, on the product launch . 
+Mistral’s Technology Roadmap for Altera Agilex ™ 9 Direct RF FPGAs  
+Mistral also unveiled its technology roadmap, which includes a pipeline of advanced products 
+leveraging Altera  Agilex™ 9 Direct RF  FPGAs  for mission -critical applications. These upcoming 
+products  are set to enhance Electronic Warfare (EW) Systems, Radar and Signal Intelligence  
+(SIGINT), High -end Test and Measurement Equipment, 5G/6G Wireless Communication 
+Infrastructure, and Space and Aerospace Signal Processing  among others . With high -speed real -
+time processing, ultra -low latency, and rugged design, these cutting -edge solutions will 
+empower defense, aerospace, and communication industries with next -generation capabilities.  
+For more information about the VPX3U -AGRW027/014 Processing Cards and Mistral’s other 
+products and services, contact us at info@mistralsolutions.com . 
+About AXISACDES Technologies Limited  
+AXISCADES is a leading, end -to-end technology, product and solutions provider aiding the 
+creation of innovative, sustainable, and safer products worldwide in the Aerospace, Defen se and 
+ESAI domains. Headquartered in Bangalore with subsidiaries and offices worldwide, in France, 
+Germany, Denmark, USA, and Canada. AXISCADES has a diverse team of over 3000+ 
+professionals working across 15 locations across globe, striving to reduce the program risk and 
+time to market.  
+AXISCADES has long term relationship with Defen se Forces, MoD, Defen se Labs and PSUs along 
+with global OEMs. AXISCADES possesses expertise in Airborne Systems & Telemetry, Radar & 
+Sonar systems, Electronic Warfare Solutions, C4I2, Drones, Anti -Drone Systems, Test Solutions, 
+GSE and GHE. We have executed several innovative i n-house projects and partnered solutions 
+for Land, Naval, Aerospace and Home Land Security.  
+The comprehensive portfolio of solutions cover the complete product development lifecycle 
+from concept evaluation to manufacturing support and certification. More: www.axiscades.com    
+ 
+About Mistral Solutions Pvt . Ltd. 
+Mistral Solutions  a subsidiary of AXISCADES, is  a chip to product company that delivers AI 
+enabled Aerospace & Defense Products for Radar, Sonar, EW system, Telemetry system, 
+Direction Finding System, Mission -critical AI enabled SBC and Video Processing to the edge, 
+making advanced technologies profoundly more accessible for today’s most challenging 
+aerospace and defense missions. Mistral Products allow customers to tap into innovative 
+capabilities from chip to system scale, turning data into decisions on timelines th at matter. 
+Mistral’s products and solutions are deployed in many more Aerospace & Defense programs 
+and other countries, enabling a broad range of applications. MISTRAL SOLUTIONS PVT LTD is 
+headquartered in Bengaluru, India, and has many more locations in w orldwide.  
+To learn more, visit  www.mistralsolutions.com . 
+ 
+For further Queries please contact: 
+Company: AXISCADES Technologies Ltd.  Investor Relations: Orient Capital  
+Mrs. Sangeeta Tripathi (Head - Investor 
+Relations)  
+email id: sangeeta.tripathi@axiscades.in  / 
+investor.relations@axiscades.in  
+Tel: +91 7021823011  
+ 
+Mr. Akash Nejjur  (GM – Marketing & 
+Communications)  
+email id: akash.nejjur@axiscades.in  
+Tel: +91 80 41939000  
+ 
+Media / PR Pooja Chetri  
+Tel: +91 9819763019  
+Email: pooja@brandingedgestrategies.com   Mr. Irfan Raeen / Mr. Sumeet Khaitan  
+email id: irfan.raeen@linkintime.co.in  / 
+ sumeet.khaitan@linkintime.co.in  
+Tel: +91 9773778669/ +91 7021320701 
+www.orientcap.com  
+ 
+ 
+Safe Harbor  
+Certain statements in this communication may be ‘forward -looking statements within the 
+meaning of applicable laws and regulations. These forward -looking statements involve a 
+number of risks, uncertainties, and other factors that could cause actual results to differ 
+materially from those suggested by the forward -looking statements. Important developments 
+that could affect the Company’s operations include changes in the industry structure, 
+significant changes in the political and economic environment in India  and overseas, tax laws, 
+import duties, litigation, and labor  relations. AXISCADES Technologies Ltd. (AXISCADES) will 
+not be in any way responsible for any action taken based on such statements and undertakes 
+no obligation to publicly update these forward -looking statements to reflect subsequent events 
+or circumstan ces.  
+ 
+ 
+ 

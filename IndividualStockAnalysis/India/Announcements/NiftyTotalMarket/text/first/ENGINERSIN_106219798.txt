@@ -1,0 +1,247 @@
+ 
+ईमेल/e-mail: company.secretary@eil.co.in , दूरभाष /Phone: 011 -26762489  
+कंपनी  सचिवालय / COMPANY SECRETARIAT  
+ 
+ 
+ 
+ 
+सं.सचिव/No. Secy/906/9 /10                      5th  May, 2025  
+The BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort  
+Mumbai – 400 023  The National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Bandra Kurla Complex  
+Bandra (East), Mumbai -400051  
+Scrip Code -532178  Symbol -ENGINERSIN  
+ 
+विषय /Subject:  संशोधित कोड  “कोड ऑफ कंडक्ट फॉर वििेंशन ऑफ इनसाइडर ट्रेडडंग एंड कोड फॉर फेयर डडसक्लोजर 
+ऑफ अनपबलीशड िाइस सेनससटटि इन्फॉर्मेशन ” 
+Revised code “Code of Conduct for prevention of Insider Trading and Code of 
+Fair Disclosure of Unpublished Price Sensitive Information ” 
+ 
+प्रिय महोदय/महोदया , 
+Dear Sir/Madam,  
+ 
+Please find attached herewith copy of revised code of ‘Code of Conduct for Prevention of Insider Trading and 
+Code of Fair Disclosure of Unpublished Price Sensitive Information’   as approved by the Bo ard of Directors in 
+its meeting h eld on 16.04.2025  in accordance with the SEBI (Prohibitio n of Insider Trading ) Regulations , 2015 
+as amended til l date.  
+ 
+कृप्या उपरोक्त आपकी जानकारी एवं ररकोर्ड के ललए है। 
+The above is for your kind information & records please.  
+ 
+धन्यवाद/Thanking you,  
+ 
+भवदीय/Very truly yours,  
+ 
+कतड इंजीननयसड  इंडर्या लललमटेर्  
+For Engineers India Limited  
+ 
+ 
+ 
+ 
+    
+    एस. के. पाढ़ी / S.K. Padhi  
+               Company Secretary &  
+Comp liance officer / 
+कंपनी  सचिव  एवं अनुपालन अचधकारी   
+संलग् नक: यथोक् त /Encl: As above   
+ 
+  
+                           
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+(As amended and approved by the Board in its 3 81
+st Meeting held on 16.04.2025 ) 
+ Approved and Adopted on 27.05.2015  
+ First Revision on 22.03.2019  w.e.f. 01.04.2019 (superseding the earlier code ) 
+ 
+
+CONTENTS 
+Clause No.   Topic  Page No.  
+ CHAPTER -I- PREAMBLE  
+1.  Preamble  1 
+2.  Definitions  1-5 
+CHAPTER -II - RESTRICTIONS ON COMMUNICATION AND TRADING BY INSIDERS  
+3. Communication or procurement of unpublished price sensitive 
+information  5-6 
+4. Trading when in possession of unpublished price sensitive information  6-7 
+5. Trading Plans  7-9 
+6. Trading Window  9-11 
+7. Pre-clearance of Trades  11-12 
+CHAPTER -III- DISCLOSURE OF TRADING BY INSIDER  
+8. General provisions  12 
+9. Disclosures by certain persons  13 
+10. Maintenance of Structured Digital Database  14 
+11. Institutional Mechanism for Prevention of Insider Trading  14 
+12. Whistle Blower Policy  14 
+12A. Retaliation for reporting suspected violations is strictly prohibited 
+under this Code  15 
+13. Dealing in case of Suspected Leak or Leak of Unpublished Price 
+Sensitive Information (UPSI)  15 
+14. Penalty for Contravention of Insider Trading Code  15-16 
+15. Amendment to the Code  16 
+16. Details of the Compliance Officer  16 
+Annexure – A- Code of Fair Disclosure of Unpublished Price Sensitive Information  17 
+Appendix –I- Policy for Determination of Legitimate Purposes  18-19 
+Appendix - II- Principles of Fair Disclosure for purposes of Code of Practices and 
+Procedures for Fair Disclosure of Unpublished Price Sensitive Information  20 
+Disclosure Forms  
+ 
+ 
+                                                                       Page 1 of 20  
+Engineers India Limited 
+New Delhi  
+ 
+CODE OF CONDUCT FOR PREVENTION  OF INSIDER TRADING  AND  
+CODE OF FAIR DISCLOSURE OF UNPUBLISHED PRICE SENSITIVE INFORMATION  
+ 
+CHAPTER -I 
+1. PREAMBLE 
+(1) In terms of Securities  and Exchange Board of India (Prohibition of Insider Trading)  Regulations, 
+2015 as amended  from time to time, (hereinafter referred to as the ‘Regulations’ ) the following 
+''Code of Conduct for Prevention of Insider Trading and Code of Fair Disclosure of Unpublished 
+Price Sensitive Information " (hereinafter referred to a s the 'Code’ ) is implemented with the 
+approval of Board of Directors of Engineers India Limited for prevention  of Insider Trading in 
+the securities of the Company with an aim that Insiders of the Company s hall not derive any 
+benefit or assist others to derive any benefit from the access to and possession of Unpublished 
+Price Sensitive Inform ation about the Company which is not in the public domain and thus  
+constitutes insider information . 
+ 
+(2) To ensure fair disclosure of events and occurrences that could impact price discovery for its 
+securities in the market, the designated persons  of EIL shall abide by the principles stated in 
+the “Code of Fair Disclosure of Unpublished Price Sensitive Information” provided at Annexure - 
+A to this Code . 
+(3)  The Policy for Determination of Legitimate Purposes Provided as required under the Regulations 
+is annexed as Appendix - I to Annexure -A of this Code.  
+(4) The said Code was approved by Board of Directors through Circular Resolution dated 22.03.2019 
+(effective from 01.04.2019)  and amended by Board of Directors in its meeting held on  
+16.04.2025.  
+ 2. Definitions  
+(1) Unless the context otherwise requires, the following words, expressions and derivations therefrom shall have the meanings assigned to them as under: – 
+(a) “Act” means the Securities and Exchange Board of India Act, 1992 (15 of 1992).  
+(b) “Board ” means the Securit ies and Exchange Board of India.  
+(c) “Board of Directors ” means Board of Director s of Engineers India  Limited.  
+(d) "Code " means Code of Conduct for Prevention  of Insider Trading and Code of Fair Disclosure of 
+Unpublished Price Sensitive Information  as amended from time to time.  
+ 
+(e) “Company ” means Engineers India Limited (EIL) . 
+ 
+(f) “Compliance Officer ” for the purpose of these regulations means  Company Secretary of the 
+Company.  In the absence of C ompany Secretary , the Board of Directors may authorize  any 
+senior officer of the Company to discharge the duties of Compliance Officer under these 
+Regulations . 
+ 
+(g) "Connected Person " means:  
+ 
+(i) any person who is or has been, during the six months prior to the concerned act, associated with a company, in any capacity, directly or indirectly, including by reason of frequent communication with its officers or by being in any contractual, fiduciary or 
+
+ 
+                                                                       Page 2 of 20 employment relationship or by being a director, officer or an employee of the company or 
+holds any position including a professional or business relationship, whether temporary or 
+permanent, with the company, that allows such a person, directly or indirectly, access to 
+unpublished price sensitive information or is reasonably expected to allow such access.  
+ 
+(ii) Without prejudice to the generality of the foregoing, the persons falling within the 
+following categories shall be deemed to be connected persons unless the contrary is 
+established, -  
+• a relative of connected persons specified in clause (i); or  
+• a holding company or associate company or subsidiary company; or  
+• an intermediary as specified in section 12 of the Act or an employee or director 
+thereof; or  
+• an investment company, trustee company, asset management company or an employee or director thereof; or  
+• an official of a stock exchange or of clearing house or corporation; or  
+• a member of board of trustees of a mutual fund or a member of the board of directors 
+of the asset management company of a mutual fund or is an employee thereof; or  
+• a member of the board of directors or an employee, of a public financial institution as 
+defined in section 2 (72) of the Companies Act, 2013; or  
+• an official or an employee of a self -regulatory organization recognised or authorized 
+by the Board; or  
+• a banker of the company; or  
+• a concern, firm, trust, Hindu undivided family, company or association of persons 
+wherein a director of a company or his relative or banker of the company, has more 
+than ten per ce nt of the holding or interest; or  
+• a firm or its partner or its employee in which a connected person specified in sub-clause (i) of clause (g) is also a partner; or  
+• a person sharing household or residence with a connected person specified in sub-
+clause (i) of  clause (g ). 
+ 
+(h) “Designated Pe rsons” means:  
+ 
+• Promoters of the Company;  
+• Chief Executive Officer;  
+• All Directors;  
+• Key Managerial Personnel;  
+• Designated Employees of the Company;  
+• Chief Executive Officer, all Directors and Executive Directors of its material 
+subsidiary(s), if any;  
+• Employees of material subsidiar y(s) of the Company, if any, designated on the basis 
+of their functional role or access to unpublished price sensitive information in the Company by their Board of Directors . 
+Explanation: For the purpose of this clause, “material subsidiary” shall mean a 
+subsidiary, whose turnover or net worth exceeds ten percent of the consolidated 
+turnover or net worth respectively, of EIL and its subsidiar y(s) in the immediately 
+preceding accounting year . 
+ 
+(i) “Designated Employees ” means: 
+   
+• All executives of the Company at  the level of Executive Directors ; 
+• All employees in the Secretariat of Functional Directors , Chief Vigilance Officer and 
+their Secretariat;  
+• HOD &  All employees of Information Technology Services (ITS) Department  at the 
+level of  18 and above ; 
+ 
+                                                                       Page 3 of 20 • All employees of the following department of the Company : 
+Finance & Accounts, Corporate Affairs, Marketing  & Business Development , Company 
+Secretariat, Investor Relations Cell, Internal Audit, Head Legal ; 
+• Any other employees of the Company to be notified by the Compliance Officer, from 
+time to time, with the approval of the C&MD of the Company.  
+ 
+(j) "Generally Available Information " means information that is accessible to the public on a 
+non-discriminatory basis  and shall not include unverified event or information reported in 
+print or electronic media . 
+ 
+(k) “Immediate Relative” means a spouse of a person, and includes parent, sibling, and child of 
+such person or of the spouse, any of whom is either dependent financially on such person, or 
+consults such person in taking decisions relati ng to trading in securities.  
+ (l) "Insider " means any person who is:  
+• a connected person; or  
+• in possession of or having access to unpublished price sensitive information.  
+ 
+(m) “Insider Trading Investigation Committee  (ITIC)” means a committee constituted by 
+C&MD of the Company, as and when required, for inquiry in case of leak of Unpublished Price Sensitive Information or suspected leak of Unpublished Price Sensitive Information.  
+ 
+(n) “Key Managerial Personnel ” means: 
+• Chairman & Managing Director;  
+• All Whole time Directors;  
+• Chief Financial Officer (CFO); 
+• Company Secretary;  
+• Such other officer as may be prescribed under Companies Act, 2013.  
+ 
+(o) “Legitimate Purpose ” shall include sharing of unpublished price sensitive information in the 
+ordinary course of business by an insider with partners, collaborators, lenders, customers, 
+suppliers, merchant bankers, legal advisors, auditors, insolvency professionals or other advisors 
+or consultants, provided that such sharing has not been carried out to evade or circumvent the 
+prohibitions of these regulations.  
+ 
+(p) "Promoter " shall have the meaning assigned to it under the Securities and Exchange Board of 
+India (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any modification 
+thereof.  
+ 
+(q) "Promoter Group " shall have the meaning assigned to it under the Securities and Exchange 
+Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any 
+modification thereof.  
+ 
+(r) “Regulations ” means Securities Exchange Board of India (Prohibition of Insider Trading) 
+Regulations, 2015 as amended.  
+ 
+(s) Relative ” shall mean the following : 
+(i) spouse of the person;  
+(ii) parent of the person and parent of its spouse;  
+(iii) sibling of the person and sibling of its spouse;  
+(iv) child of the person and child of its spouse;  
