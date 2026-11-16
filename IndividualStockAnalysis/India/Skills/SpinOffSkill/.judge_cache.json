@@ -26229,29 +26229,51 @@
   }
  },
  "JSWCEMENT": {
-  "stamp": "d2f88fffe3d24baad9791ed4e0e75928",
-  "verdict": {
-   "what_is_spun": "Nothing is spun off \u2014 listed subsidiary Shiva Cement is amalgamated into parent JSW Cement",
-   "demerged_business_names": [
-    "Shiva Cement Limited",
-    "SCL",
-    "Transferor Company",
-    "JSW Cement Limited",
-    "JCL",
-    "Transferee Company",
-    "unified cement platform"
-   ],
-   "reason": "Create a single unified cement platform unlocking operational, financial and management synergies; backward integration of clinker, cheaper funding, simplified structure, and greater liquidity for Shiva's public shareholders.",
-   "reason_class": "value_unlocking",
-   "insiders": "JSW Cement holds 66.23% of Shiva's equity and all its OCCRPS; promoter group of JSW Cement goes 72.02% to 71.39% post-merger; no consideration/benefit to promoters stated.",
-   "hidden_value": "Shiva's 1.32 mtpa Sundargarh clinker unit plus FY26-commissioned 1.0 MTPA Sambalpur grinding unit come in with negative net worth (INR -30.08 crore) and INR 133.92 crore accumulated losses written off against securities premium.",
-   "selling_pressure": "unlikely",
-   "selling_pressure_why": "Only 1.21 crore new shares on 137.55 crore base (~0.9%); same industry, same promoter, larger and more liquid entity.",
-   "parent_or_spin": "parent",
-   "option_pricing_date": "not stated",
-   "listing_timeline": "No new listing; Shiva Cement \"shall cease to exist upon effectiveness of the Scheme without being wound up\" and the transaction \"is expected to be completed within 12-14 months\" (said September 29, 2026 and repeated October 27, 2026)",
-   "read_next": "The Regulation 37 Scheme filing with the valuation report and fairness opinions behind the 5:41 share exchange ratio.",
-   "quote": "This consolidation creates a single unified cement platform to unlock operational, financial, and management synergies."
+  "stamps": {
+   "d2f88fffe3d24baad9791ed4e0e75928": {
+    "what_is_spun": "Nothing is spun off \u2014 listed subsidiary Shiva Cement is amalgamated into parent JSW Cement",
+    "demerged_business_names": [
+     "Shiva Cement Limited",
+     "SCL",
+     "Transferor Company",
+     "JSW Cement Limited",
+     "JCL",
+     "Transferee Company",
+     "unified cement platform"
+    ],
+    "reason": "Create a single unified cement platform unlocking operational, financial and management synergies; backward integration of clinker, cheaper funding, simplified structure, and greater liquidity for Shiva's public shareholders.",
+    "reason_class": "value_unlocking",
+    "insiders": "JSW Cement holds 66.23% of Shiva's equity and all its OCCRPS; promoter group of JSW Cement goes 72.02% to 71.39% post-merger; no consideration/benefit to promoters stated.",
+    "hidden_value": "Shiva's 1.32 mtpa Sundargarh clinker unit plus FY26-commissioned 1.0 MTPA Sambalpur grinding unit come in with negative net worth (INR -30.08 crore) and INR 133.92 crore accumulated losses written off against securities premium.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "Only 1.21 crore new shares on 137.55 crore base (~0.9%); same industry, same promoter, larger and more liquid entity.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "No new listing; Shiva Cement \"shall cease to exist upon effectiveness of the Scheme without being wound up\" and the transaction \"is expected to be completed within 12-14 months\" (said September 29, 2026 and repeated October 27, 2026)",
+    "read_next": "The Regulation 37 Scheme filing with the valuation report and fairness opinions behind the 5:41 share exchange ratio.",
+    "quote": "This consolidation creates a single unified cement platform to unlock operational, financial, and management synergies."
+   },
+   "a812b61f071836a97dc27911395bca53": {
+    "what_is_spun": "Nothing separated \u2014 Shiva Cement, the listed clinker subsidiary, is amalgamated into parent JSW Cement",
+    "demerged_business_names": [
+     "Shiva Cement Limited",
+     "SCL",
+     "Transferor Company",
+     "Shiva Cement's clinker facility at Sundargarh, Odisha (1.32 mtpa)",
+     "Sambalpur grinding unit (1.0 MTPA)"
+    ],
+    "reason": "Business, raw-material and financial synergies: backward integration of clinker, unified cement platform, enhanced shareholder value and liquidity, simplified structure and fewer compliances",
+    "reason_class": "value_unlocking",
+    "insiders": "JCL holds 66.23% of SCL equity and all its OCCRPS; JSW Cement promoter group goes 72.02% to 71.39% post-merger; Shiva promoter group held 66.50%",
+    "hidden_value": "Shiva is a loss-maker: standalone net worth (30.08) crore, retained-earnings debit (133.92) crore written off against securities premium; its 1.32 mtpa clinker becomes captive raw material, cutting third-party purchases and mark-ups",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "Only ~1.21 crore new shares on a 136.34 crore base; same industry, larger and more liquid entity, no index exit",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "No new listing; Shiva ceases to exist. \"The transaction is expected to be completed within 12-14 months, subject to timely receipt of regulatory approvals\" (said September 29, 2026 and repeated October 27, 2026)",
+    "read_next": "The valuation/share exchange ratio report and fairness opinions supporting the 5:41 ratio",
+    "quote": "Transferor Company shall cease to exist upon effectiveness of the Scheme without being wound up."
+   }
   }
  },
  "AGARWALEYE::segments": {
@@ -26503,6 +26525,41 @@
      "source": "Presentation Nov 2026 \u2014 page 25 (same table in Presentation Oct 2026 \u2014 page 25); H1 FY27 revenue 3,808.5 and Operating EBITDA 576.4"
     },
     "not_found": "No separated-business (Shiva Cement) standalone revenue, EBITDA or PAT; no segment split at all \u2014 single segment only. FY2024 figures absent. Quarterly PAT given, not segment-level."
+   },
+   "a6314e6ba193f899ae06ca3feb6fc2db": {
+    "segment_name": "Shiva Cement Limited (Transferor Company) \u2014 clinker unit / Sambalpur grinding unit (1.0 MTPA)",
+    "unit": "\u20b9 crore",
+    "measure_notes": "No profit or revenue line exists for Shiva Cement in the tagged pages. Both standalone (AR2026 p.163) and consolidated (AR2026 p.207) segment notes state JSW Cement is a single reportable segment \u2014 'manufacturing and sale of cement and cement related product' \u2014 with no other reportable business, so no segment result / EBIT / EBITDA / PBT is disclosed for Shiva Cement or any sub-unit. Revenue disclosed is only entity-level revenue from external customers (standalone \u20b95,995.28 cr FY26 / \u20b95,505.47 cr FY25; consolidated \u20b96,512.46 cr FY26 / \u20b95,813.07 cr FY25). The only Shiva-specific items on the tagged pages are non-P&L: goodwill of \u20b9216.94 cr from the Shiva Cement acquisition, of which \u20b9214.01 cr allocated to Limestone Mines (AR2026 p.184), and parent guarantees for Shiva Cement loans of \u20b91,100.00 cr at both 31-Mar-2026 and 31-Mar-2025 (AR2026 p.164). Joint-venture/associate summarised financials are given for JSW One Platforms, JSW Cement FZC and JSW Renewable Energy (Cement) (AR2026 p.208), but Shiva Cement is a consolidated subsidiary and no such summary is provided for it.",
+    "years": [
+     {
+      "fy": "FY2024",
+      "revenue": null,
+      "operating_profit": null,
+      "pat": null,
+      "source": "not disclosed \u2014 no FY2024 figures on tagged pages; AR2026 segment notes (page 163, page 207) cover FY2026/FY2025 only and report a single segment"
+     },
+     {
+      "fy": "FY2025",
+      "revenue": null,
+      "operating_profit": null,
+      "pat": null,
+      "source": "Annual Report 2026 \u2014 page 207 (consolidated single-segment note); Annual Report 2026 \u2014 page 163 (standalone single-segment note) \u2014 no Shiva Cement split"
+     },
+     {
+      "fy": "FY2026",
+      "revenue": null,
+      "operating_profit": null,
+      "pat": null,
+      "source": "Annual Report 2026 \u2014 page 207 (consolidated single-segment note); Annual Report 2026 \u2014 page 163 (standalone single-segment note) \u2014 no Shiva Cement split"
+     }
+    ],
+    "latest_quarter": {
+     "period": null,
+     "revenue": null,
+     "operating_profit": null,
+     "source": "Presentation Nov 2026 \u2014 page 25 / Presentation Oct 2026 \u2014 page 25 (Q2 FY27 summary income statement is consolidated JSW Cement only: revenue \u20b91,912.1 cr, Operating EBITDA \u20b9277.8 cr; no Shiva Cement or Sambalpur-unit breakout)"
+    },
+    "not_found": "All Shiva Cement / Sambalpur-unit revenue, operating profit and PAT. Pages give only entity-wide single-segment figures; Shiva appears solely via goodwill, guarantees and capacity timelines."
    }
   }
  },
@@ -71744,6 +71801,26 @@
     "listing_timeline": "Canara Robeco Asset Management Company Limited \"got listed today (16.10.2025)\" (filing 16.10.2025); Canara HSBC Life Insurance \"got listed today (17.10.2025)\" (filing 17.10.2025)",
     "read_next": "Q3 FY26 P&L booking the Rs 1,930-2,006 crore one-time listing gain, and the retained 36.50%/38% stake market values",
     "quote": "Canara Bank divested its stake in Canara Robeco Asset Management Company Limited, Subsidiary through Initial Public Offer from 51% to 38%."
+   },
+   "1c4ef7d8087af643685155f0f13ccd56": {
+    "what_is_spun": "Minority stakes in two subsidiaries \u2014 Canara Robeco Asset Management and Canara HSBC Life Insurance \u2014 sold via IPO",
+    "demerged_business_names": [
+     "Canara Robeco Asset Management Company Limited",
+     "Canara Robeco",
+     "Canara HSBC Life Insurance Company Limited",
+     "Canara HSBC Life"
+    ],
+    "reason": "Value unlocking: management said \"unlocking the benefit what we have\" from stake sale, and that it wants to strengthen remaining subsidiaries \"so that in future, that value also we can unlock\"",
+    "reason_class": "value_unlocking",
+    "insiders": "Canara Bank stays promoter: 38% of Canara Robeco, 36.50% of Canara HSBC Life; \"Further dilution we don't foresee\"; bank is their distribution franchisee earning commission",
+    "hidden_value": "Listing/dilution gain of ~Rs 1,930-2,006 crore booked in Q3 FY26; bank earns ~Rs 500 crore distribution income and ~Rs 320 crore subsidiary profit as parent, plus appreciation on retained stakes",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "Documents describe divestment through IPO, not a share distribution to parent shareholders; no index exclusion stated",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "\"Canara Robeco Asset Management Company Limited got listed today (16.10.2025)\" (filing 16.10.2025); \"Canara HSBC Life Insurance Company Limited got listed today (17.10.2025)\" (filing 17.10.2025)",
+    "read_next": "Q3 FY26 P&L line carrying the Rs 1,930 crore one-time listing gain, and the two subsidiaries' own published results",
+    "quote": "In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara Robeco Asset Management Company Limited, Subsidiary through Initial Public Offer from 51% to 38%."
    }
   }
  },
@@ -75158,6 +75235,41 @@
      "source": "Presentation Oct 2026 (Q2 FY27) pages carry no subsidiary/associate or segment financials; latest entity data is cumulative 12M to Mar'26 (Presentation May 2026 \u2014 page 44), not a quarter"
     },
     "not_found": "No separate segment for Canara Robeco AMC; no segment PAT or operating-profit-before-tax line; no FY2024/FY2025 entity-level PAT; no quarterly revenue for either business; Q2 FY27 pages carry no subsidiary/associate financials."
+   },
+   "725f4cbf835ea731fcdd1c2662a784f7": {
+    "segment_name": "Life Insurance Operation (Canara HSBC Life Insurance Company Ltd.) \u2014 the only separated business the documents report as a segment; Canara Robeco Asset Management Company Ltd. is never shown as a separate reporting segment, only as a subsidiary/associate",
+    "unit": "\u20b9 crore",
+    "measure_notes": "Revenue = 'Segment Revenue' and profit line = 'Segment Results' from Part A \u2013 Business Segment of the CONSOLIDATED segment reporting (AS-17). Segment Results are pre-tax (the table adds them to 'Total Profit Before Tax'), i.e. PBT, not EBITDA; no segment-level tax is disclosed, so segment PAT cannot be derived. Revenue is shown with 'Less: Inter-Segment Revenue \u2014 nil', so the figures are effectively external. Standalone AS-17 (AR2024 p.425, AR2025 p.521, AR2026 p.509) has only Treasury/Wholesale/Retail/Other and carries no life-insurance or asset-management segment. FY2026 segment lines are blank ('-') because, after the 16.10.2025 (Canara Robeco) and 17.10.2025 (Canara HSBC Life) listings/OFS-IPO, holdings fell to 38% and 36.50% and both ceased to be subsidiaries and became associates (Presentation May 2026 \u2014 page 44). The FY2026 PAT shown below is the entity's OWN full-year (12M) profit from the subsidiaries-and-associates table, not a segment figure; on the same page Canara Robeco Asset Management's own 12M profit to Mar'26 is 206.68 (Bank's 38% share 78.54) and Canara HSBC Life's is 126.61 (Bank's 36.50% share 46.21). FY2025 revenue/result are as restated in the FY2026 report (AR2024 p.504 had shown FY2024 revenue 11,503.69 / result 113.32).",
+    "years": [
+     {
+      "fy": "FY2024",
+      "revenue": 11503.69,
+      "operating_profit": 113.32,
+      "pat": null,
+      "source": "Annual Report 2024 \u2014 page 504"
+     },
+     {
+      "fy": "FY2025",
+      "revenue": 10956.97,
+      "operating_profit": 132.38,
+      "pat": null,
+      "source": "Annual Report 2026 \u2014 page 596"
+     },
+     {
+      "fy": "FY2026",
+      "revenue": null,
+      "operating_profit": null,
+      "pat": 126.61,
+      "source": "Presentation May 2026 \u2014 page 44 (PAT); Annual Report 2026 \u2014 page 596 (segment lines nil)"
+     }
+    ],
+    "latest_quarter": {
+     "period": null,
+     "revenue": null,
+     "operating_profit": null,
+     "source": null
+    },
+    "not_found": "No segment/entity revenue, operating profit or PAT for Canara Robeco AMC; no segment PAT (tax unallocated); no quarterly revenue or operating profit \u2014 presentations give only entity PAT for 9M Dec'25 (Robeco 149.52, HSBC Life 91.88) and 12M Mar'26."
    }
   }
  },
