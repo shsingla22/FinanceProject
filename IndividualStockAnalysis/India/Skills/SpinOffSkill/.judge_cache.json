@@ -63130,33 +63130,61 @@
   }
  },
  "ZAGGLE::offering::rights_issue": {
-  "stamp": "96d19d6fd5347443b8279e6c9a7d7bfb",
-  "verdict": {
-   "instrument": "warrants",
-   "securities": "10,58,201 Warrants (352,734 to Promoter Group + 705,467 to Non-promoters)",
-   "issue_price": "\u20b9 567 per Warrant",
-   "total_amount": "\u20b9 149.99 million received, being 25% of issue price; full aggregate consideration not stated",
-   "pricing_basis": "not stated (only stated to be in accordance with Section 23, 42 and 62 of the Companies Act, 2013 read with Chapter V of SEBI (Issue of Capital and Disclosure Requirement) Regulations, 2018)",
-   "allottees": [
-    {
-     "name": "Promoter Group (individual names not stated)",
-     "category": "promoter group",
-     "securities": "352,734",
-     "amount": "not stated"
-    },
-    {
-     "name": "Non-promoters (names not stated)",
-     "category": "non-promoter",
-     "securities": "705,467",
-     "amount": "not stated"
-    }
-   ],
-   "promoter_share_of_issue": "not stated as a percentage (352,734 of 10,58,201 Warrants to Promoter Group)",
-   "promoter_intent": "not stated \u2014 no rights offering is described in these filings; the only issuance to identified buyers is a preferential issue of Share Warrants",
-   "upfront_paid": "25% of issue price of \u20b9 567 per Warrant i.e. \u20b9 141.75 per Warrant; balance 75% payable at the time of conversion into Equity Shares; conversion tenure not stated",
-   "purpose": "not stated",
-   "stage": "allotted",
-   "quote": "The Board of Directors and the Shareholders, in their meetings held on October 03, 2025 and October 31, 2025 respectively, approved inter-alia issuance of 352,734 Share Warrants on preferential basis to Promoter Group and 705,467 Share Warrants on preferential basis to Non-promoters in accordance with Section 23, 42 and 62 of the Companies Act, 2013 read with Chapter V of SEBI (Issue of Capital and Disclosure Requirement) Regulations, 2018."
+  "stamps": {
+   "96d19d6fd5347443b8279e6c9a7d7bfb": {
+    "instrument": "warrants",
+    "securities": "10,58,201 Warrants (352,734 to Promoter Group + 705,467 to Non-promoters)",
+    "issue_price": "\u20b9 567 per Warrant",
+    "total_amount": "\u20b9 149.99 million received, being 25% of issue price; full aggregate consideration not stated",
+    "pricing_basis": "not stated (only stated to be in accordance with Section 23, 42 and 62 of the Companies Act, 2013 read with Chapter V of SEBI (Issue of Capital and Disclosure Requirement) Regulations, 2018)",
+    "allottees": [
+     {
+      "name": "Promoter Group (individual names not stated)",
+      "category": "promoter group",
+      "securities": "352,734",
+      "amount": "not stated"
+     },
+     {
+      "name": "Non-promoters (names not stated)",
+      "category": "non-promoter",
+      "securities": "705,467",
+      "amount": "not stated"
+     }
+    ],
+    "promoter_share_of_issue": "not stated as a percentage (352,734 of 10,58,201 Warrants to Promoter Group)",
+    "promoter_intent": "not stated \u2014 no rights offering is described in these filings; the only issuance to identified buyers is a preferential issue of Share Warrants",
+    "upfront_paid": "25% of issue price of \u20b9 567 per Warrant i.e. \u20b9 141.75 per Warrant; balance 75% payable at the time of conversion into Equity Shares; conversion tenure not stated",
+    "purpose": "not stated",
+    "stage": "allotted",
+    "quote": "The Board of Directors and the Shareholders, in their meetings held on October 03, 2025 and October 31, 2025 respectively, approved inter-alia issuance of 352,734 Share Warrants on preferential basis to Promoter Group and 705,467 Share Warrants on preferential basis to Non-promoters in accordance with Section 23, 42 and 62 of the Companies Act, 2013 read with Chapter V of SEBI (Issue of Capital and Disclosure Requirement) Regulations, 2018."
+   },
+   "17dbe00865f723f937143183ce0ebdd9": {
+    "instrument": "warrants",
+    "securities": "10,58,201",
+    "issue_price": "567",
+    "total_amount": "\u20b9 149.99 million received upfront (25% of issue price); aggregate issue size not stated",
+    "pricing_basis": "issued in accordance with Section 23, 42 and 62 of the Companies Act, 2013 read with Chapter V of SEBI (Issue of Capital and Disclosure Requirement) Regulations, 2018 \u2014 no floor price or market discount/premium stated",
+    "allottees": [
+     {
+      "name": "Promoter Group (individual names not stated)",
+      "category": "promoter group",
+      "securities": "352,734",
+      "amount": "not stated"
+     },
+     {
+      "name": "Non-promoters (names not stated)",
+      "category": "non-promoter",
+      "securities": "705,467",
+      "amount": "not stated"
+     }
+    ],
+    "promoter_share_of_issue": "33.3% (352,734 of 10,58,201 warrants); not stated as a percentage in the filing",
+    "promoter_intent": "not stated",
+    "upfront_paid": "25% of issue price of \u20b9 567 per Warrant i.e. \u20b9 141.75 per Warrant; balance 75% payable at the time of conversion of the warrants into Equity Shares; tenure not stated",
+    "purpose": "not stated",
+    "stage": "allotted",
+    "quote": "The Board of Directors and the Shareholders, in their meetings held on October 03, 2025 and October 31, 2025 respectively, approved inter-alia issuance of 352,734 Share Warrants on preferential basis to Promoter Group and 705,467 Share Warrants on preferential basis to Non-promoters in accordance with Section 23, 42 and 62 of the Companies Act, 2013 read with Chapter V of SEBI (Issue of Capital and Disclosure Requirement) Regulations, 2018."
+   }
   }
  },
  "ZYDUSLIFE::offering::preferential_issue": {
