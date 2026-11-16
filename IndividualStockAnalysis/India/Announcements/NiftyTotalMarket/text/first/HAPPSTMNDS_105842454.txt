@@ -1,0 +1,222 @@
+ Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala,  
+Bengal uru- 560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+May  10, 2024 
+Listing Compliance & Legal Regulatory   
+BSE Limited  
+Phiroze Jeejeebhoy Towers   
+Dalal Street,  Mumbai  400 001 
+Stock  Code:  543227,  974728 , 974820  & 975101 Listing  & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex   
+Bandra East,  Mumbai  400 051 
+Stock  Code:  HAPPSTMNDS  
+Dear  Sir/Madam,  
+Sub:  Transcript of Earnings Call held on May 07, 202 4 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,  2015 
+read with Para A of P art A of Schedule III , please find enclosed the transcript of the Earnings Call held 
+on May  07, 202 4, post announcement of financial results of the Company for the quarter  and financial 
+year ended as on March 31, 202 4. The transcript is also uploaded on the Company’s website  
+(https://www.happiestminds.com/investors ). 
+T
+his is for your information and records .  
+Thanking you,  
+Yours  faithfully,  
+For Happiest  Minds  Technologies  Limited  
+P
+raveen Kumar Darshankar  
+Company Secretary & Compliance  Officer 
+Membership No. F6706   
+
+Page 1 of 15  
+  
+ 
+“Happiest Minds Technologies Limited  
+Q4 FY '2 4 Earnings  Conference Call” 
+May 07, 202 4 
+ 
+        
+ 
+MANAGEMENT : Mr. Ashok Soota – Executive Chairman  
+Mr. Joseph Anantharaju – Executive Vice Chairman and 
+Chief Executive Officer – Product and Digital Engineering 
+Services  
+Mr. Venkatraman N arayanan  – Managing Director and Chief 
+Financial Officer  
+Mr. Rajiv Shah –  President and Executive Board Member  
+Mr. Ram Mohan –  President and Chief Executive Officer –  
+Infrastructure Management and Security Services  
+Mr. Aurobinda Nanda –  President & Chief Operating Officer, 
+Product & Digital Engineering Services  
+Mr. Sridhar Mantha –  President and Chief Executive Officer, 
+Generative AI Business Services  
+Mr. Sunil Gujjar – Head of Investor Relations  
+   
+MODERATOR : Mr. Apurva Prasad –  HDFC Securities  
+ 
+
+ Happiest Minds Technologies Limited  
+  May 07, 202 4 
+ 
+Page 2 of 15  
+ 
+ 
+Moderator:  Ladies and gentlemen, good day, and welcome to the Happiest Minds Q4 FY '24 Earnings 
+Conference Call hosted by HDFC Securities. As a reminder, all participant lines will be in the 
+listen -only mode. And there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call, please signal an operator by 
+pressing s tar then zero on your touchtone phone. Please note that this conference is being 
+recorded. I now hand the conference over to Mr.  Apurva Prasad from HDFC Securities. Thank 
+you, and over to you, sir.  
+Apurva Prasad : Thank you, R iya. Good morning, ladies and gentlemen. Thank you for joining us today on the 
+Q4 FY '24 Earnings Call of Happiest Minds Technologies. On behalf of HDFC Securities, I would like to thank the management of Happiest Minds for giving us the opportunity to host t his 
+call. 
+With that introduction, I'll hand it over to Sunil for the safe harbor  statements and to take the 
+proceedings call. Thank you and over to you, Sunil.  
+Sunil Gujjar : Thank you, Apurva. Good morning to all participants in the call. Welcome to this conference 
+call to discuss financial results for the fourth quarter and year ended March 31, 2024. I'm Sunil, 
+Head of Investor Relations. We hope you had an opportunity to review the earnings release we 
+issued yesterday evening.  
+Let me quickly outline the agenda for today's call.  Ashok will begin the call by sharing his 
+perspectives on the business environment and our results. Venkat, Joseph will then speak about 
+our financial performance and operational highlights. After which, we will have the floor open 
+for Q&A.  
+Before I hand over, let me make the safe harbor statement. During the call, we could make 
+forward -looking statements. These statements consider the environment we see as of today and 
+carry a risk in terms of uncertainty because of which the actual results could be different. We do 
+not undertake to update those segments periodically.  
+Now let me pass it on to Ashok.  
+Ashok Soota:  Thank you. In FY '24, company achieved industry-leading revenue growth of 11% in constant currency. We beat our EBITDA guidance for 16 quarters in a row, with an EBITDA margin of 
+24.6%. Not only has the year been excellent in terms of performance, but we, at Happiest Minds, 
+are excited about the future due to the transformational changes we introduced in FY '24 and the acquisitions we have closed in the early days of FY '25.  
+FY '25 is going to be our best ever  year since our IPO. These changes have enabled us to project 
+with confidence that in this year, we will be back on track to achieve our vision of US  $1 billion 
+revenue by 2031. We required 25.3% CAGR  that is compounded average growth rate when we 
+announced as goal on September 2021. We envis ion that we now need only 22% CAGR by the 
+end of FY 2025 to achieve US  $1 billion in revenue by 2031.  
+ Happiest Minds Technologies Limited  
+  May 07, 202 4 
+ 
+Page 3 of 15  
+ 
+The transformational changes I referred to above include several which will accelerate the future 
+growth or Happiest Minds.  
+We established a business unit focused on G enerative AI which was called GBS, an 
+abbreviation. And I must mention that we are the only company which has created a dedicated 
+business unit for this  and the reason is it's the most transformational change we've seen in the 
+last 40 years in the IT industry, and we want to capitalize on that opportunity.  
+• We created a new vertical organization structure comprising  of six new industry 
+groups.  
+• We then took the rest of our business, which was functioning as two  separate business 
+units, P ES and DBS and integrated them into a single business unit , Product and 
+Digital Engineering Services.  
+• We have also acquired two  strategic assets, PureSoftware and Macmillan Learning.  
+The Gen  AI business unit, GBS, under the leadership of Sridhar Mantha , President  and CEO of 
+the unit, is generating many new business opportunities. We already have 14 active customers 
+across various industries covering 20 projects .  
+The opportunities include contextual chatbots, learning simulators, contract management 
+sentiment analysis and content generation. Building on the learnings from such engagements, 
+we are creating replicable solutions across industrial technology streams. So therefore, in al l of 
+these areas I just mentioned, we can replicate the same solution for multiple customers.  
+Our growth in the plan includes training all our engineers in GenAI. The GBS business unit is already 70 people strong and expect it to grow to  250 by the end of this fiscal.  I mentioned the 
+six new industry groups. This is really structured under six  leaders. These include Industrial , 
+Manufacturing and Energy & Utilities , H ealthcare and L ife Sciences, Retail, CPG and L ogistics , 
+and then we have BFSI, which the industry is aware what it stands for; Hi -Tech and M edia and 
+Entertainment under another  and then we have EdTech . 
+So each of these clusters will operate as independent profit centres  led by experienced industry 
+managers and have dedicated teams with deep domain expertise, aligned for customized 
+solutions and faster response times. So you can see that this is six  new growth engines that we've 
+created.  
+The Executive Board has facilitated the realization of two  significant acquisitions, each 
+strategically aligned to enhance organizational profitability and productivity. It has taken us 
+some time for us to complete these acquisitions as we have been very selective with our choices. 
+The wait has been worthwhile as  we have acquired complementary and very valuable assets.  
+These new acquisitions have cumulatively added 1,250 Happiest Minds to our team and have further strengthened our key IGs  of BFSI, H ealthcare and EdTech.  I'm coming now to the unique 
+capability that we have built in Happiest Minds .  
+We've built the capability in bioinformatics which no one in the industry has. This comprises 
+experts in molecular biology, data scientists, data engineers and health care domain specialists. 
+ Happiest Minds Technologies Limited  
+  May 07, 202 4 
+ 
+Page 4 of 15  
+ 
+The team is working closely with the medical research community from prestigious medical 
+institutions in India and abroad.  
+The team is also work ing on finding solutions using m etagenomics on gut microbiome,  anomaly 
+detection in MRI and CAT scan images and conducting large cohort research studies to identify 
+early predictions in stroke, ca rdiovascular diseases, etc.  
+Joseph Anantharaju, the Executive Vice Chairman, who's been responsible for t he consistent 
+success of the P ES Business Unit since inception has taken responsibility for the integrated 
+PDES business units which will continue to focus on investing in cutting-edge digital 
+technologies and engineering skills.  
+And we've made a lot of progress in our ESG efforts,  and we have been recognized as the ESG 
+Champions of India 2024 by Dun & Bradstreet. This has been possible due to the leadership of 
+Aurobindo Nanda, our President and COO for PDES and Venkatraman  Narayanan , our MD and 
+CFO.  
+Happiest Minds places sustainability at the forefront of its strategy, striving for accelerated 
+programs in the ESG realms. A significant portion of the CSR budget is dedicated to supporting environmental causes, including tree planting and adopting the goal of becoming carbon neutral 
+by 2030. Rooted in mindfulness, our culture emphasizes being mindful and doing mindful.  
+Centr al to our identity are of SMILES  values , seamlessly integrated into our day-to -day 
+operations. Embracing the mission “H appiest People, Happiest Customers ”. We've prioritized 
+the well -being and professional development of our team members, ensuring they have ample 
+opportunities to enhance their skills and progress within the organization.  
+I'll touch on an area and that is our recognition under the  Great Places to Work Institute, for 
+being a whole range of awards that we've got over the years, they are amazing when you consider 
+both the range and the continuity of these awards, be it the b est places to work,  overall, the best 
+places for women, the best places for health and wellness. Joseph will give you more details about these and the other awards that we have won.  
+I extend my sincere appreciation to our customers for their continued trust and confidence in 
+Happiest Minds and to our delivery teams which have consistently delivered customer 
+happiness.  I want to thank all  the support teams, which will make the results possible. I am 
+thankful to our Board of Directors, shareholders,  and all stakeholders for their supportive 
+guidance in creating an organization designed for perpetuity as inclined articulated in our v ision 
+2031.  Let me conclude by wishing you all good health success and happiness. Over to you, 
+Venkat.  
+Venkatraman Narayanan : Good morning to all of you.  Let me begin my commentary by giving you an update on the fiscal 
+and then talk about the quarterly numbers. We ended the year with a total income of ₹1,710 
+crores showing a growth of almost 18%. Operatin g revenues in U.S. dollars was 196 million 
+showing a growth of 11% in constant currency and very close to our guidance of 12%.  
+ Happiest Minds Technologies Limited  
+  May 07, 202 4 
+ 
+Page 5 of 15  
+ 
+Our EBITDA at ₹421 crores gr ew by about 11% and stands at 24.6% beating the upper band of 
+our margin guidance range of 22% to 24%. We have now beaten our guidance range on this 
+front for the 16th straight quarter. We were able to sustain our margins despite pressure on 
+account of increases, strong net additions, campus hi res and continued payout of our committed 
+variable pay.  
+Profit before tax PBT  was ₹335 crores and at 19.6% of revenues  and showed a   growth of 8%, 
+while profit after tax PAT was ₹248 crores 14.5% of our revenues and  showed a growth of 7.5%. 
+While we are all along been reporting and guiding on EBITDA,  we would like to start reporting 
+our operating margins as well as we go forward. As I believe that will be relevant in an environment of rapid growth and investment both organically and inorganically.  
+Our cash conversions remain strong with a pre cash flow of about ₹ 411 crores for the year which 
+is about 97.5% of our EBITDA. At the year -end we held cash balances of about ₹ 1,364 crores 
+including the ₹500 crores raise through our QIP and the ₹ 125 crores that we have raised through 
+an issue of non-convertible  debentures. We are now deploying part of these reserves into 
+acquisitions.  Two of which have been announced during the past few weeks.  
+Our return on capital employed, ROCE stands at a healthy 22.3% while return on equity is at 
+about 17%. As I have mentioned during our prior interactions our return on equity has droppe d 
+mainly due to the capital raise and we should now start improving on that front as we integrate 
+the acquired entities which are synergistic, profitable and cash generating.  
+Now coming to the highlights for the quarter. We have reported revenues f or the quarter of US 
+$50 million a sequential growth in constant currency of about 1.4% and year -over -year growth 
+of 9.5%.  Total income was ₹ 443 crore s a sequential growth of 1.9% and 14.5% over the previous 
+year.  
+EBITDA quarter was ₹ 108 crores which stood at 24.5% of revenues and showed a growth of 
+7.6% over the previous year.  PBT was ₹ 96.2 crores, which is 21.7% of revenues and showed a 
+growth of 21.8% over the previous year. So,  as you can see all the metrics whether it be for the 
+year or for the quarter, have been growth focused and growth oriented.  
+L Let me now switch gears to provide you some operational highlights. We ended the year with 
+250 customers, a net addition of 13 during the year. We crossed a significant S milestone of 5 ,000 
+Happiest Minds our people.  
+At the end of the quarter, we stood on an organic basis at 5,168 people and showed net additions 
+of 251 Happiest Minds during the year.  Our utilization for the quarter was 75.1% compared to 
+the 76.7% in Q3. The drop was mainly due to investments in hiring for the GBS business unit and recent campus sites who are going through the training program .  
+Adjusted for these, our utilization should have been closer to 76%. This is a definite lever that 
+we have for improvement as we look into the next year.  Attrition on a 12 -month basis dropped 
+to 13% from 19.80% in the previous year, and we expect these numbers to continue trending at 
+these levels.  

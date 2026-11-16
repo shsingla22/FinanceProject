@@ -1,0 +1,87 @@
+ May 7, 2024 LTIM/SE/STAT/2024-25/2 6 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+NSE Symbol:  LTIM The BSE Limited,  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai - 400 001 
+BSE Scrip Code:  540005 
+Dear Sir(s)/Madam, 
+Subject: Press Release 
+We are sending herewith copy of the Press Release titled “LTIMindtree and IBM Collaborate 
+on watsonx Center of Excellence for Generative AI” , which is self-explanatory.
+The same is submitted for public dissemination and for your records. 
+Thanking You, 
+Yours faithfully, 
+For LTIMindtree Limited 
+Angna Arora 
+Company Secretary & Compliance Officer 
+Encl.: As above 
+Warren, New Jersey, Mumbai, India – May 7, 2024:  LTIMindtree  [NSE: LTIM, BSE: 540005], a global 
+technology consul Ɵng and digital solu Ɵons company, announced a collabora Ɵon with IBM to establish 
+a global, joint Genera Ɵve AI Center of Excellence (CoE)  in India, a co- innovaƟon center combining the 
+power of the IBM watsonx AI and data plaƞorm and the engineering skills of LTIMindtree.  
+Open innova Ɵon drives the growth of enterprise AI technology, helping organizaƟ ons apply AI -infused 
+soluƟons to solve business challenges. It is this same open innova Ɵon which plays a key role in the 
+LTIMindtree and IBM collaboraƟon. 
+The LTIMindtree and IBM CoE plans to oﬀer a comprehensive suite of services, combining 
+LTIMindtree's experƟse in data and machine learning model customiza Ɵon and full -stack engineering 
+with IBM watsonx  technology including watsonx.ai, watsonx.data, and watsonx.governance, and AI 
+assistants. The center, located in India, will focus on building point soluƟons to accelerate clients’ 
+generaƟve AI adop Ɵon journeys.  
+Nachiket Deshpande, COO and Whole-time Director, LTIMindtree , commenting on the collaboration, 
+said, “Open innovation is the cornerstone of progress in the digital era. By joining forces with IBM, 
+LTIMindtree aims to be at the forefront of advancing AI technologies and empowering businesses to 
+achieve unparalleled success with governance.” 
+Kate Woolley, General Manager, IBM Ecosystem  said, “IBM Service Partners such as LTIMindtree play 
+an integral role helping enterprises maximize the benefits of generative AI technology through all 
+phases of their AI adoption journey. Our collaboration, distinguished by the Center of Excellence, is 
+an opportunity for our companies to work closely together to help funnel the latest AI research and 
+innovations into technologies solving real-world business challenges.”  
+This collaboraƟon is expected to oﬀer various beneﬁts to clients, including providing them access to 
+the following: 
+IBM watsonx.governance:  LTIMindtree will oﬀer a watsonx.governance integra Ɵon with the
+Canvas.ai plaƞorm, resul Ɵng in a collabora Ɵve enterprise-ready toolkit that enables organiza Ɵons
+to strategically incorporate AI governance frameworks throughout the en Ɵre AI lifecycle. Together,
+these pla ƞorms will provide users with the structure and processes necessary to help them
+navigate the complexi Ɵes of the regulatory landscape while also adhering to ethical standards,
+compliance requirements, and respon sible AI prac Ɵces.
+IBM watsonx.data:  The CoE will also oﬀer an enterprise data moderniza Ɵon and warehouse
+augmenta Ɵon service powered by watsonx.data. This service will provide the framework and tools
+for data warehouse consumers to augment the performance of their exis Ɵng data warehouse
+capabiliƟes using the power of IBM watsonx.data and LTIMindtree's exper Ɵse in craŌing tailored
+soluƟons.
+IBM watsonx.ai:  The CoE is also expected to provide a suite of services dedicated to modernizing
+full-stack applica Ɵons across a set of domain speciﬁc use cases, including m ainframe applica Ɵon
+moderniza Ɵon use cases. LTIMindtree's proﬁciency in full -stack engineering, combined with the
+powerful IBM watsonx.ai studio, will help enterprises train, validate, tune and deploy AI models
+while simplifying their moderniza Ɵon eﬀorts.
+The Center of Excellence aims to play a pivotal role in expanding the scope of genera Ɵve AI applica Ɵons 
+for digital ini ƟaƟves of clients, u Ɵlizing the IBM watsonx plaƞorm and AI assistants, machine learning, 
+speech recogni Ɵon, natural language processing, and conversa Ɵonal AI to augment  end user 
+experience. 
+Clients interested in learning more about this collabora Ɵon can meet LTIMindtree at IBM THINK  in 
+Boston. For more informa Ɵon on LTIMindtree’s oﬀerings with IBM, please visit 
+hƩps://www.l Ɵmindtree.com/enterprise -soluƟons/ibm/   
+About LTIMindtree 
+LTIMindtree is a global technology consul Ɵng and digital solu Ɵons company that enables enterprises across 
+industries to reimagine business models, accelerate innova Ɵon, and maximize growth by harnessing digital 
+technologies. As a digital transforma Ɵon partner to more than 700 clients, LTIMindtree brings extensive domain 
+and technology exper Ɵse to help drive superior compe ƟƟve diﬀeren ƟaƟon, customer experiences, and business 
+outcomes in a converging world. Powered by 81,000+ talented and entrepreneurial professionals across more 
+than 30 countries, LTIMindtree — a Larsen & Toubro Group company — combines the industry-acclaimed 
+strengths of erstwhile Larsen and Toubro Infotech and Mindtree in solving the most complex business challenges 
+and delivering transforma Ɵon at scale. For more informa Ɵon, please visit hƩps://www.l Ɵmindtree.com/ .  
+About IBM  
+IBM is a leading provider of global hybrid cloud and AI, and consulting expertise. We help clients in more than 
+175 countries capitalize on insights from their data, streamline business processes, reduce costs and gain the 
+competitive edge in their industries. More than 4,000 government and corporate entities in critical 
+infrastructure areas such as financial services, telecommunications and healthcare rely on IBM's hybrid cloud 
+platform and Red Hat OpenShift to affect their digital transformations quickly, efficiently and securely. IBM's 
+breakthrough innovations in AI, quantum computing, industry-specific cloud solutions and consulting deliver 
+open and flexible options to our clients. All of this is backed by IBM's long-standing commitment to trust, 
+transparency, responsibility, inclusivity and service. 
+LTIMindtree media contact  
+Gitanjali.sreepal@l Ɵmindtree.com  

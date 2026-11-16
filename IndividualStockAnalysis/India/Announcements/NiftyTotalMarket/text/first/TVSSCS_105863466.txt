@@ -1,0 +1,987 @@
+Name PAN Name PANRelationship of the counterparty 
+with the listed entity or its 
+subsidiary Opening balance Closing balanceNature of 
+indebtedness (loan/ 
+issuance of debt/ 
+any other etc.) Cost 
+(see 
+Note 
+7) TenureNature 
+(loan/ 
+advance/ 
+inter-
+corporate 
+deposit/ 
+investment Interest 
+Rate (%) Tenure Secur
+ed/ 
+unsec
+ured Purpose for which the 
+funds will be utilised by the 
+ultimate recipient of funds 
+(end-usage)
+1 TVS SCS Global Freight Solutions Ltd
+AACCT7471PAvalon Technology and Services Pvt. Ltd. AAHCA3430A Related partyRevenue from 
+OperationsNA 0.10                               
+2 TVS SCS Global Freight Solutions Ltd
+AACCT7471PTVS Interconnect Systems Private Limited AADCS3666G Related partyRevenue from 
+OperationsNA 0.01                               
+3 TVS SCS Global Freight Solutions Ltd
+AACCT7471PTVS Srichakra Limited AAACT5557G Related partyRevenue from 
+Operations22.62 5.90                               
+4 TVS SCS Global Freight Solutions Ltd
+AACCT7471PSundaram Industries Private Limited AABCS5320H Related partyRevenue from 
+Operations2.18 0.51                               
+5 TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Mobility Private Limited AAGCT6376B Promoter Group Rent NA 0.02                               
+6 TVS SCS Global Freight Solutions Ltd
+AACCT7471PTVS Interconnect Systems Private Limited AADCS3666G Related partyTrade and Other 
+ReceivablesNA -                        0.01                      
+7 TVS SCS Global Freight Solutions Ltd
+AACCT7471PTVS Srichakra Limited AAACT5557G Related partyTrade and Other 
+ReceivablesNA 0.66                      2.56                      
+8 TVS SCS Global Freight Solutions Ltd
+AACCT7471PSundaram Industries Private Limited AABCS5320H Related partyTrade and Other 
+ReceivablesNA 0.11                      0.19                      
+9
+TVS SCS Global Freight Solutions Ltd AACCT7471P PT Pan Asia Logistics IndonesiaNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.01                      0.01                      
+10
+TVS SCS Global Freight Solutions Ltd AACCT7471P PT Pan Asia Logistics IndonesiaNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.07                      0.05                      
+11
+TVS SCS Global Freight Solutions Ltd AACCT7471P PT Pan Asia Logistics IndonesiaNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.590.49                               
+-                        
+12
+TVS SCS Global Freight Solutions Ltd AACCT7471P PT Pan Asia Logistics IndonesiaNA
+Fellow SubsidiaryRevenue from 
+Operations 2.190.32                               
+-                        
+13
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Autoserv GmbH, GermanyNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.85                      0.55                      
+14
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Autoserv GmbH, GermanyNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.22                      0.02                      
+15
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Autoserv GmbH, GermanyNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 1.890.93                               
+-                        
+16
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Autoserv GmbH, GermanyNA
+Fellow SubsidiaryRevenue from 
+Operations 0.290.04                               
+-                        
+17TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Autoserv GmbH, Germany NA Fellow Subsidiary Other Current Assets NA 0.11                      -                        
+18
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Logistics Iberia S.L., SpainNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.17                      0.13                      
+19
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Logistics Iberia S.L., SpainNA
+Fellow SubsidiaryRevenue from 
+Operations 0.770.48                               
+20
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Aust) Pty. Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.03                      0.02                      
+21
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Aust) Pty. Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.32                      0.06                      
+22
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Aust) Pty. Ltd.NA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.200.15                               
+-                        
+23
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Aust) Pty. Ltd.NA
+Fellow SubsidiaryRevenue from 
+Operations 0.760.26                               
+-                        
+24
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Korea) LtdNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.16                      0.18                      
+25TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Korea) Ltd NA Fellow Subsidiary Other Current Assets NA 0.00                      -                        
+26
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Korea) LtdNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.850.56                               
+-                        
+27
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS (Korea) LtdNA
+Fellow SubsidiaryRevenue from 
+Operations 0.010.00                               
+-                        
+28
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Deutschland GmbHNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.32                      0.61                      
+29
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Deutschland GmbHNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.08                      0.59                      
+30
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Deutschland GmbHNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 3.481.68                               
+-                        
+31
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Deutschland GmbHNA
+Fellow SubsidiaryRevenue from 
+Operations 1.751.50                               
+-                        
+32TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Deutschland GmbH NA Fellow Subsidiary Other Current Assets NA 0.06                      -                        
+33
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Hong Kong LimitedNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.16                      0.07                      
+34
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Hong Kong LimitedNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.910.29                               
+-                        
+35
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Hong Kong LimitedNA
+Fellow SubsidiaryRevenue from 
+Operations 0.020.00                               
+-                        
+36TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Hong Kong Limited NA Fellow Subsidiary Other Current Assets NA 0.00                      -                        
+37
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS International Freight (Spain) SLUNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.08                      0.36                      
+38
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS International Freight (Spain) SLUNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.66                      0.73                      
+39
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS International Freight (Spain) SLUNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 1.370.81                               
+-                        
+40
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS International Freight (Spain) SLUNA
+Fellow SubsidiaryRevenue from 
+Operations 3.521.38                               
+-                        
+41
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics (Thailand) LimitedNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.03                      0.02                      
+42
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics (Thailand) LimitedNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.04                      0.08                      
+43
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics (Thailand) LimitedNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.680.35                               
+-                        
+44
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics (Thailand) LimitedNA
+Fellow SubsidiaryRevenue from 
+Operations 0.780.46                               
+-                        
+45
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Ltd, ChinaNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 3.04                      3.61                      
+46
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Ltd, ChinaNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.03                      0.13                      
+47
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Ltd, ChinaNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 20.7712.78                             
+48
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Ltd, ChinaNA
+Fellow SubsidiaryRevenue from 
+Operations 0.720.59                               
+49TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Ltd, China NA Fellow Subsidiary Other Current Assets NA 0.65                      
+50
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Management Co., LtdNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.94                      0.62                      
+51
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Management Co., LtdNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 3.732.35                               
+52TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Logistics Management Co., Ltd NA Fellow Subsidiary Other Current Assets NA 0.07                      -                        
+53
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Malaysia Sdn BhdNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.01                      0.07                      
+54
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Malaysia Sdn BhdNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.03                      0.09                      
+55
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Malaysia Sdn BhdNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.800.14                               
+56
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Malaysia Sdn BhdNA
+Fellow SubsidiaryRevenue from 
+Operations 0.770.27                               
+57
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS New Zealand LimitedNA
+Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.05                      
+58
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS New Zealand LimitedNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.02                      
+59
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS New Zealand LimitedNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.030.03                               
+60
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS New Zealand LimitedNA
+Fellow SubsidiaryRevenue from 
+Operations 0.260.26                               
+61
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Philippines CorporationNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.01                      
+62
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Philippines CorporationNA
+Fellow SubsidiaryRevenue from 
+Operations 0.010.01                               
+63
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Rico Italia SRLNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.12                      0.34                      
+64
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Rico Italia SRLNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.02                      
+65
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Rico Italia SRLNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 2.950.93                               
+66
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Rico Italia SRLNA
+Fellow SubsidiaryRevenue from 
+Operations 0.030.02                               
+67TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Rico Italia SRL NA Fellow Subsidiary Other Current Assets NA 0.07                      -                        
+68
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Singapore Pte. Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.92                      1.50                      
+69
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Singapore Pte. Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.20                      1.52                      RELATED PARTY TRANSACTIONS FOR THE HALF YEAR ENDED 31ST MARCH 2024- TVS SUPPLY CHAIN SOLUTIONS LIMITED
+BSE SCRIP CODE: 543965 NSE SYMBOL: TVSSCS
+Details of the loans, inter-corporate deposits, advances or 
+Value of transaction 
+during the reporting 
+period (see Note 6b)In case monies are due to either In case any financial indebtedness is 
+Sl. No.Details of the party (listed entity /subsidiary) entering into the Details of the counterparty
+Type of related party 
+transaction (see 
+Note 5) Value of the related 
+party transaction as 
+approved by the audit 
+committee (see Note 
+6a) 
+70
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Singapore Pte. Ltd.NA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 13.215.85                               
+71
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Singapore Pte. Ltd.NA
+Fellow SubsidiaryRevenue from 
+Operations 15.184.40                               
+72TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Singapore Pte. Ltd. NA Fellow Subsidiary Other Current Assets NA 0.00                      -                        
+73
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Taiwan LimitedNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.25                      0.19                      
+74
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Taiwan LimitedNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.04                      0.03                      
+75
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Taiwan LimitedNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.880.43                               
+76
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Taiwan LimitedNA
+Fellow SubsidiaryRevenue from 
+Operations 0.350.23                               
+77TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Taiwan Limited NA Fellow Subsidiary Other Current Assets NA 0.15                      -                        
+78
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Vietnam Company LimitedNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.05                      0.02                      
+79
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Vietnam Company LimitedNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.05                      0.02                      
+80
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Vietnam Company LimitedNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.130.07                               
+81
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS SCS Vietnam Company LimitedNA
+Fellow SubsidiaryRevenue from 
+Operations 0.170.06                               
+82TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Loans Receivable NA 100.69                   106.00                   
+83TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Interest receivable NA -                        2.45                      
+84
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, IndiaAACCT1412E
+Ultimate Holding CompanyTrade and Other 
+Payables NA 2.16                      0.00                      
+85
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, IndiaAACCT1412E
+Ultimate Holding CompanyTrade and Other 
+Receivables NA 0.07                      0.42                      
+86
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, IndiaAACCT1412E
+Ultimate Holding CompanyFreight, clearing, 
+forwarding and 
+handling charges 1.550.50                               
+87TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Interest income 6.00 4.78                               
+88
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, IndiaAACCT1412E
+Ultimate Holding CompanyLegal and professional 
+charges 4.440.58                               
+89TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Rent 0.13 0.12                               
+90
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, IndiaAACCT1412E
+Ultimate Holding CompanyRevenue from 
+Operations 4.970.14                               
+91
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, UKNA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.19                      0.27                      
+92
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, UKNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 2.822.45                               
+93
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, UKNA
+Fellow SubsidiaryRevenue from 
+Operations 0.060.05                               
+94
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Limited, UKNA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.01                      0.01                      
+95
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions North America Inc., USANA
+Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.39                      
+96
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions North America Inc., USANA
+Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.00                      
+97
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions North America Inc., USANA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.400.40                               
+98
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.04                      0.07                      
+99
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryRevenue from 
+Operations 0.240.12                               
+-                        
+100
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Toyota Tsusho Supply Chain Solutions LimitedAAFCT1740C
+Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.00                      
+101
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Toyota Tsusho Supply Chain Solutions LimitedAAFCT1740C
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 0.020.02                               
+102
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges 1.420.35                               
+103
+TVS SCS Global Freight Solutions Ltd AACCT7471P TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.52                      -                        
+104 Fit 3PL Warehousing Private Limited AAACK4434D TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyTrade and Other 
+Payables NA1.74                      2.91                      
+105 Fit 3PL Warehousing Private Limited AAACK4434D TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyTrade and Other 
+Receivables NA1.33                      
+1.29                      
+106 Fit 3PL Warehousing Private Limited AAACK4434D TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyFreight, clearing, 
+forwarding and 
+handling charges1.86 1.04                               
+107 Fit 3PL Warehousing Private Limited AAACK4434D TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyLegal and professional 
+charges12.60 3.00                               
+108 Fit 3PL Warehousing Private Limited AAACK4434D TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Rent 1.91 1.15                               
+109 Fit 3PL Warehousing Private Limited AAACK4434D TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyRevenue from 
+Operations3.28 1.63                               
+110 Fit 3PL Warehousing Private Limited AAACK4434D White Data Systems India Private Limited AABCW6402E
+Fellow SubsidiaryTrade and Other 
+Payables NA0.00                      0.00                      
+111 Fit 3PL Warehousing Private Limited AAACK4434D White Data Systems India Private Limited AABCW6402E Fellow Subsidiary Other expenses 0.03 0.01                               
+112 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow SubsidiaryTrade and Other 
+Receivables NA0.00                      
+113 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow SubsidiaryRevenue from 
+Operations0.02 0.02                               
+114 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Supply Chain Solutions Limited, India AACCT1412E
+Ultimate Holding CompanyTrade and Other 
+Payables NA0.07                      
+0.19                      
+115 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Supply Chain Solutions Limited, India AACCT1412E
+Ultimate Holding CompanyLegal and professional 
+charges1.81 0.90                               
+116 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C T V Sundaram Iyengar & Sons Private Limited AABCT0159K Related partyRevenue from 
+Operations0.02 0.02                               0.02    
+117 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Mobility Private Limited AAGCT6376B Promoter GroupRevenue from 
+Operations0.17 0.09                               
+118 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C Sundaram Industries Private Limited AABCS5320H Related partyRevenue from 
+Operations0.20 0.09                               
+119 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C T V Sundaram Iyengar & Sons Private Limited AABCT0159K Related partyReimbursement of 
+expenses0.02 -                                0.04    
+120 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Mobility Private Limited AAGCT6376B Promoter GroupReimbursement of 
+expenses0.04 0.01                               
+121 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Mobility Private Limited AAGCT6376B Promoter Group Rent 0.02 0.01                               
+122 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Mobility Private Limited AAGCT6376B Promoter GroupTrade and Other 
+Receivables NA 0.11                      0.02                      
+123 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C T V Sundaram Iyengar & Sons Private Limited AABCT0159K Related partyTrade and Other 
+Receivables NA 0.04                      
+124 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C Sundaram Industries Private Limited AABCS5320H Related partyTrade and Other 
+Receivables NA 0.06                      
+125 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Supply Chain Solutions Limited, India AACCT1412E
+Ultimate Holding CompanyPurchase of stock-in-
+trade 1.960.69                               
+126 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Rent 0.03 0.02                               
+127 TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Other Expenses 0.14 0.14                               
+128 SPC International India Private Limited AACCE1126C Rico Logistics Pty Ltd, Australia NA Fellow SubsidiaryTrade and Other 
+Receivables NA0.23                      
+129 SPC International India Private Limited AACCE1126C Rico Logistics Pty Ltd, Australia NA Fellow SubsidiaryRevenue from 
+OperationsNA 0.15                               
+130 SPC International India Private Limited AACCE1126C SPC International Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA0.34                      
+0.13                      
+131 SPC International India Private Limited AACCE1126C SPC International Limited, UK NA Fellow SubsidiaryPurchase of stock-in-
+tradeNA 0.15                               
+132 SPC International India Private Limited AACCE1126C SPC International s.r.o., Slovakia NA Fellow SubsidiaryTrade and Other 
+Payables NA-                        
+133 SPC International India Private Limited AACCE1126C TVS Supply Chain Solutions Limited, India AACCT1412E
+Ultimate Holding CompanyTrade and Other 
+Payables NA 0.00                      0.00                      
+134 SPC International India Private Limited AACCE1126C TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Rent NA 0.04                               
+135 White Data Systems India Private Limited AABCW6402E TVS Mobility Private Limited AAGCT6376B Promoter Group Rent NA 0.01                               
+136 White Data Systems India Private Limited AABCW6402E Fit 3PL Warehousing Private Limited AAACK4434D Fellow SubsidiaryTrade and Other 
+Receivables NA0.00                      
+0.00                      
+137 White Data Systems India Private Limited AABCW6402E Fit 3PL Warehousing Private Limited AAACK4434D Fellow SubsidiaryRevenue from 
+OperationsNA 0.01                               
+138 White Data Systems India Private Limited AABCW6402E Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA2.40                      2.89                      
+139 White Data Systems India Private Limited AABCW6402E Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+OperationsNA 2.04                               
+140 White Data Systems India Private Limited AABCW6402E TVS Supply Chain Solutions Limited, India AACCT1412E
+Ultimate Holding CompanyTrade and Other 
+Payables NA1.37                      1.93                      
+141 White Data Systems India Private Limited AABCW6402E TVS Supply Chain Solutions Limited, India AACCT1412E
+Ultimate Holding CompanyTrade and Other 
+Receivables NA0.53                      0.33                      
+142 White Data Systems India Private Limited AABCW6402E TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Employee Cost NA 0.46                               
+143 White Data Systems India Private Limited AABCW6402E TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Interest income NA -                                
+144 White Data Systems India Private Limited AABCW6402E TVS Supply Chain Solutions Limited, India AACCT1412E
+Ultimate Holding CompanyRevenue from 
+OperationsNA 1.24                               
+145FLEXOL Packaging (India) Limited AABCF5484F TVS Mobility Private Limited AAGCT6376B Promoter Group Rent 0.04 0.04                               
+146FLEXOL Packaging (India) Limited AABCF5484F TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyTrade and Other 
+Payables NA0.07                      0.37                      
+147FLEXOL Packaging (India) Limited AABCF5484F TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyTrade and Other 
+Receivables NA1.63                      1.31                      
+148FLEXOL Packaging (India) Limited AABCF5484F TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyLegal and professional 
+charges0.32 0.15                               
+149FLEXOL Packaging (India) Limited AABCF5484F TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding CompanyRevenue from 
+Operations1.46 0.82                               
+150FLEXOL Packaging (India) Limited AABCF5484F SI Airsprings Private Limited (formerly known as Firestone TVS Private Limited) AABCF1689G Related partyRevenue from 
+Operations0.06 0.01                               
+151 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow Subsidiary Dividend income 4.80 -                                
+152 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Mobility Private LimitedAAGCT6376B
+Promoter GroupExpenses incurred on 
+behalf of counterparty 1.991.90                               
+153 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryExpenses incurred by 
+counterparty 17.47 0.00                               
+154 TVS Supply Chain Solutions Limited, India AACCT1412E
+Rico Logistics Limited, UKNA Fellow Subsidiary Expenses incurred on 
+behalf of counterparty 7.00 0.98                               
+155 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions Limited, UKNA
+Fellow SubsidiaryExpenses incurred on 
+behalf of counterparty 8.00 1.34                               
+156 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions North America Inc., USANA
+Fellow SubsidiaryExpenses incurred on 
+behalf of counterparty 2.18 1.06                               
+157 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryExpenses incurred on 
+behalf of counterparty 6.00 1.61                               
+158 TVS Supply Chain Solutions Limited, India AACCT1412E
+White Data Systems India Private LimitedAABCW6402E Fellow Subsidiary Expenses incurred on 
+behalf of counterparty 1.00 0.24                               
+159 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow Subsidiary Interest expenses 5.47 4.78                               -                        
+160 TVS Supply Chain Solutions Limited, India AACCT1412E White Data Systems India Private Limited AABCW6402E Fellow Subsidiary Interest expenses 0.60 -                                -                        
+161 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Logistics Investment UK Limited NA Fellow Subsidiary Interest income 35.00 16.94                             -                        
+162 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Logistics Investments USA Inc. NA Fellow Subsidiary Interest income 10.00 4.21                               -                        
+163 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS (SIAM) Limited NA Fellow Subsidiary Interest income 0.37 0.17                               -                        
+164 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow Subsidiary Interest Payable NA 0.69                      2.21                      
+165 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow Subsidiary Loans Payable NA 16.00                             100.00                   106.00                   
+166 TVS Supply Chain Solutions Limited, India AACCT1412E
+Rico Logistics Limited, UKNA
+Fellow SubsidiaryExpenses incurred by 
+counterparty 2.34 2.34                               
+167 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Logistics Investment UK LimitedNA Fellow SubsidiaryExpenses incurred by 
+counterparty 0.60 0.60                               
+168 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Logistics Investment UK Limited NA Fellow Subsidiary Loans Receivable NA 400.58                   -                        
+169TVS Logistics Investment UK Limited NA TVS Supply Chain Solutions Limited, India AACCT1412E Ultimate Holding Company Loans Payable NA 400.58                   -                        
+170 TVS Supply Chain Solutions Limited, India AACCT1412E White Data Systems India Private Limited AABCW6402E Fellow Subsidiary Loans Payable NA 1.90                      1.90                      
+171 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Logistics Investments USA Inc. NA Fellow Subsidiary Loans Receivable NA 118.95                   119.40                   
+172 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS (Siam) Limited NA Fellow Subsidiary Loans Receivable NA 4.94                      4.96                      
+173 TVS Supply Chain Solutions Limited, India AACCT1412E Fit 3PL Warehousing Private Limited AAACK4434D Fellow Subsidiary Other expenses 3.19 1.63                               -                        
+174 TVS Supply Chain Solutions Limited, India AACCT1412E FLEXOL Packaging (India) Limited AABCF5484F Fellow Subsidiary Other expenses 1.20 0.55                               -                        
+175 TVS Supply Chain Solutions Limited, India AACCT1412E Sundaram Industries Private Limited AABCS5320H Related party Other Expenses 0.85 0.49                               
+176 TVS Supply Chain Solutions Limited, India AACCT1412E Sundharams Private Limited AAACS4949P Related party Other Expenses 0.09 0.03                               
+177 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Mobility Private Limited AAGCT6376B Promoter Group Other expenses 1.83 0.04                               
+178 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Mobility Private Limited AAGCT6376B Promoter Group Sale of Fixed assets 8.64 8.64                               
+179 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow Subsidiary Other expenses 3.69 0.02                               0.02   
+180 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS SCS (Siam) LimitedNA
+Fellow SubsidiaryExpenses incurred by 
+counterparty 0.04 0.01                               
+181 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Sirius Controls Private Limited AABCS7754H Related party Other Expenses 0.03 0.03                               
+182 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Sirius Controls Private LimitedAABCS7754H
+Related partyPurchase of Fixed 
+assets 0.040.04                               
+183 TVS Supply Chain Solutions Limited, India AACCT1412E White Data Systems India Private Limited AABCW6402E Fellow Subsidiary Other expenses 2.95 1.24                               
+184 TVS Supply Chain Solutions Limited, India AACCT1412E Rico Logistics Limited, UK NA Fellow Subsidiary Other Income 29.07 12.58                             
+185 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Logistics Iberia S.L., Spain NA Fellow Subsidiary Other Income 0.19 0.09                               
+186 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Logistics Investment UK Limited NA Fellow Subsidiary Other Income 11.91 6.65                               
+187 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd AACCT7471P Fellow Subsidiary Other Income 9.65 0.38                               
+188 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Supply Chain Solutions Limited, UK NA Fellow Subsidiary Other Income 20.94 10.25                             
+189 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions North America Inc., USANA
+Fellow SubsidiaryExpenses incurred by 
+counterparty 1.39 1.39                               
+190 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Supply Chain Solutions North America Inc., USA NA Fellow Subsidiary Other Income 6.16 3.09                               
+191 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Supply Chain Solutions Pte Ltd. NA Fellow Subsidiary Other Income 35.15 0.21                               
+192 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Supply Chain Solutions Pte Ltd. NA Fellow Subsidiary Interest income 6.17 0.80                               
+193 TVS Supply Chain Solutions Limited, India AACCT1412E White Data Systems India Private Limited AABCW6402E Fellow Subsidiary Other Income 1.09 0.20                               
+194 TVS Supply Chain Solutions Limited, India AACCT1412E
+FLEXOL Packaging (India) LimitedAABCF5484F Fellow SubsidiaryOther non operating 
+income 0.31 0.31                               
+195 TVS Supply Chain Solutions Limited, India AACCT1412E
+KRISHNA PRASAD  P.DAGLPD1141Q
+Key Managerial PersonnelRemuneration to Key 
+Management 
+Personnel NA 0.30                               
+196 TVS Supply Chain Solutions Limited, India AACCT1412E
+R DINESHAAJPD2850Q
+Key Managerial PersonnelRemuneration to Key 
+Management 
+Personnel NA 1.72                               
+197 TVS Supply Chain Solutions Limited, India AACCT1412E
+RAVI  VISWANATHANAAGPV0404K
+Key Managerial PersonnelRemuneration to Key 
+Management 
+Personnel NA 1.56                               
+198 TVS Supply Chain Solutions Limited, India AACCT1412E
+RAVI PRAKASH VENKATA SUBBARAYA BHAGAVATHULAAADPB2243F
+Key Managerial PersonnelRemuneration to Key 
+Management 
+Personnel NA 1.76                               
+199 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Mobility Private Limited AAGCT6376B Promoter Group Rent 2.88 2.88                               
+200 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Mobility Private Limited AAGCT6376B Promoter GroupRevenue from 
+Operations 0.000.00                               
+201 TVS Supply Chain Solutions Limited, India AACCT1412E Fit 3PL Warehousing Private Limited AAACK4434D Fellow SubsidiaryRevenue from 
+Operations10.00 4.82                               -                        
+202 TVS Supply Chain Solutions Limited, India AACCT1412E
+Ki Mobility Solutions Pvt LtdAAKCP0950F
+Related partyRevenue from 
+Operations 58.8015.98                             
+203 TVS Supply Chain Solutions Limited, India AACCT1412E
+SPC International India Private LimitedAACCE1126C Fellow SubsidiaryRevenue from 
+Operations 0.040.02                               
+204 TVS Supply Chain Solutions Limited, India AACCT1412E
+Sundaram Industries Private LimitedAABCS5320H
+Related partyRevenue from 
+Operations 1.250.62                               
+205 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Automobile Solutions Private LimitedAAGCM0329K
+Related partyRevenue from 
+Operations 1.000.39                               
+206 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd
+AACCT7471PFellow SubsidiaryRevenue from 
+Operations0.19 0.15                               -                        
+207 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Srichakra LimitedAAACT5557G
+Related partyRevenue from 
+Operations 75.2839.97                             
+208 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C Fellow SubsidiaryRevenue from 
+Operations 5.661.61                               
+-                        
+209 TVS Supply Chain Solutions Limited, India AACCT1412E Fit 3PL Warehousing Private Limited AAACK4434D Fellow SubsidiaryTrade and Other 
+PayablesNA
+1.46                      1.29                      
+210 TVS Supply Chain Solutions Limited, India AACCT1412E FLEXOL Packaging (India) Limited AABCF5484F Fellow SubsidiaryTrade and Other 
+PayablesNA 1.64                      1.33                      
+211 TVS Supply Chain Solutions Limited, India AACCT1412E FLEXOL Packaging (India) Limited AABCF5484F Fellow SubsidiaryPurchase of Fixed 
+assets0.27 0.27                               
+212 TVS Supply Chain Solutions Limited, India AACCT1412E
+Sundaram Industries Private LimitedAABCS5320H
+Related partyTrade and Other 
+Payables NA 0.14                      0.16                      
+213 TVS Supply Chain Solutions Limited, India AACCT1412E
+T V Sundaram Iyengar & Sons Private LimitedAABCT0159K
+Related partyTrade and Other 
+Payables NA 0.15                      0.00                      
+214 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Automobile Solutions Private Limited AAGCM0329K Related party Other expenses 2.84 0.28                               
+215 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Automobile Solutions Private LimitedAAGCM0329K
+Related partyTrade and Other 
+Payables NA 0.47                      0.03                      
+216 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Sirius Controls Private LimitedAABCS7754H
+Related partyTrade and Other 
+Payables NA -                        0.01                      
+217 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Logistics Investment UK LimitedNA Fellow SubsidiaryTrade and Other 
+Payables NA 1.25                      1.89                      
+218 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Mobility Private LimitedAAGCT6376B
+Promoter GroupTrade and Other 
+Payables NA 0.01                      1.12                      
+219 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS SCS (SIAM) LimitedNA Fellow SubsidiaryTrade and Other 
+Payables NA 0.04                      0.04                      
+220 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd
+AACCT7471PFellow SubsidiaryTrade and Other 
+PayablesNA 0.07                      0.51                      
+221 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions Limited, UKNA Fellow SubsidiaryTrade and Other 
+Payables NA 0.01                      0.01                      
+222 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions North America Inc., USANA Fellow SubsidiaryTrade and Other 
+Payables NA 1.78                      2.20                      
+223 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Payables NA 29.72                     30.09                     
+224 TVS Supply Chain Solutions Limited, India AACCT1412E White Data Systems India Private Limited AABCW6402E Fellow SubsidiaryTrade and Other 
+Payables NA 0.51                      0.19                      
+225 TVS Supply Chain Solutions Limited, India AACCT1412E Fit 3PL Warehousing Private Limited AAACK4434D Fellow SubsidiaryTrade and Other 
+ReceivablesNA 2.15                      2.91                      
+226 TVS Supply Chain Solutions Limited, India AACCT1412E
+FLEXOL Packaging (India) LimitedAABCF5484F
+Fellow SubsidiaryTrade and Other 
+Receivables NA 0.07                      0.37                      
+227 TVS Supply Chain Solutions Limited, India AACCT1412E
+Ki Mobility Solutions Pvt LtdAAKCP0950F
+Related partyTrade and Other 
+Receivables NA 22.71                     14.41                     
+228 TVS Supply Chain Solutions Limited, India AACCT1412E
+Sundaram Industries Private LimitedAABCS5320H
+Related partyTrade and Other 
+Receivables NA 0.26                      
+229 TVS Supply Chain Solutions Limited, India AACCT1412E
+Rico Logistics Limited, UKNA Fellow SubsidiaryTrade and Other 
+Receivables NA 24.02                     39.24                     
+230 TVS Supply Chain Solutions Limited, India AACCT1412E
+T V Sundaram Iyengar & Sons Private LimitedAABCT0159K
+Related partyTrade and Other 
+Receivables NA 0.00                      0.00                      
+231 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Automobile Solutions Private LimitedAAGCM0329K
+Related partyTrade and Other 
+Receivables NA 0.15                      0.15                      
+232 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Logistics Iberia S.L., SpainNA Fellow SubsidiaryTrade and Other 
+Receivables NA 0.23                      0.33                      
+233 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Logistics Investment UK LimitedNA Fellow SubsidiaryTrade and Other 
+Receivables NA 121.10                   88.10                     
+234 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Logistics Investments USA Inc.NA Fellow SubsidiaryTrade and Other 
+Receivables NA 6.01                      10.26                     
+235 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Mobility Private LimitedAAGCT6376B
+Promoter GroupTrade and Other 
+Receivables NA -                        12.54                     
+236 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS SCS (SIAM) LimitedNA Fellow SubsidiaryTrade and Other 
+Receivables NA 2.38                      2.57                      
+237 TVS Supply Chain Solutions Limited, India AACCT1412E TVS SCS Global Freight Solutions Ltd
+AACCT7471PFellow SubsidiaryTrade and Other 
+ReceivablesNA 2.60                      0.00                      
+238 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Srichakra LimitedAAACT5557G
+Related partyTrade and Other 
+Receivables NA 22.43                     
+239 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions Limited, UKNA Fellow SubsidiaryTrade and Other 
+Receivables NA 1.80                      2.43                      
+240 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions North America Inc., USANA Fellow SubsidiaryTrade and Other 
+Receivables NA 23.54                     22.59                     
+241 TVS Supply Chain Solutions Limited, India AACCT1412E
+TVS Supply Chain Solutions Pte Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 54.46                     52.28                     
+242 TVS Supply Chain Solutions Limited, India AACCT1412E TVS Toyota Tsusho Supply Chain Solutions Limited AAFCT1740C Fellow SubsidiaryTrade and Other 
+Receivables NA 0.07                      0.19                      
+243 TVS Supply Chain Solutions Limited, India AACCT1412E
+White Data Systems India Private LimitedAABCW6402E Fellow SubsidiaryTrade and Other 
+Receivables NA 1.31                      1.85                      
+244Triage Holdings Limited NA Rico Logistics Limited, UK NA Fellow Subsidiary Loans Receivable NA 7.17                      7.06                      
+245Ricochet Spain S.L, Spain NA Eltec IT Services S.L.U NA Fellow Subsidiary Loans Receivable NA 132.00                   134.84                   
+246Rico Logistics Limited, UK NA Triage Holdings Limited NA Fellow Subsidiary Loans Payable NA 7.17                      7.06                      
+247Eltec IT Services S.L.U NA Ricochet Spain S.L, Spain NA Fellow Subsidiary Loans Payable NA 132.00                   134.84                   
+248
+Eltec IT Services S.L.U NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA 9.06                      12.68                     
+249
+Eltec IT Services S.L.U NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryTrade and Other 
+Receivables NA 1.70                      2.05                      
+250
+TVS SCS Rico Italia SRL NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA 7.30                      9.76                      
+251
+Rico Logistics Limited, UK NA Rico Logistics Pty Ltd, Australia NA Fellow SubsidiaryTrade and Other 
+Receivables NA 1.77                      8.63                      
+252
+Rico Logistics Limited, UK NA Rico Logistique, France NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        1.64                      
+253
+Rico Logistics Limited, UK NA TVS SCS Rico Italia SRL NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        7.64                      
+254
+Rico Logistics Limited, UK NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryTrade and Other 
+Receivables NA 0.69                      10.75                     
+255
+Rico Logistics Limited, UK NA SPC International Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA 2.86                      3.66                      
+256
+Rico Logistics Limited, UK NA Triage Holdings Limited NA Fellow SubsidiaryTrade and Other 
+Receivables NA 0.41                      0.53                      
+257
+Rico Logistics Limited, UK NA Tri - Tec Support Limited, Ireland NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        1.47                      
+258
+Ricochet Spain S.L, Spain NA Eltec IT Services S.L.U NA Fellow SubsidiaryTrade and Other 
+Receivables NA 36.98                     43.17                     
+259
+Ricochet Spain S.L, Spain NA Rico Logistique, France NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.04                      
+260
+Ricochet Spain S.L, Spain NA TVS SCS Rico Italia SRL NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        1.32                      
+261
+Ricochet Spain S.L, Spain NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        5.78                      
+262
+Triage Holdings Limited NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        4.10                      
+263
+Triage Holdings Limited NA SPC International Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.01                      
+264
+SPC International Limited, UK NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA 13.02                     10.89                     
+265
+Tri - Tec Support Limited, Ireland NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA 6.49                      26.52                     
+266
+Rico Logistics Pty Ltd, Australia NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.18                      
+267
+Rico Logistique, France NA TVS SCS Rico Italia SRL NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.03                      
+268
+Rico Logistique, France NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        0.04                      
+269
+Rico Logistique, France NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Receivables NA -                        12.64                     
+270
+Rico Logistics Limited, UK NA Eltec IT Services S.L.U NA Fellow SubsidiaryTrade and Other 
+Payables NA 9.06                      12.68                     
+271
+Ricochet Spain S.L, Spain NA Eltec IT Services S.L.U NA Fellow SubsidiaryTrade and Other 
+Payables NA 1.70                      2.05                      
+272
+Rico Logistics Limited, UK NA TVS SCS Rico Italia SRL NA Fellow SubsidiaryTrade and Other 
+Payables NA 7.30                      9.76                      
+273
+Rico Logistics Pty Ltd, Australia NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA 1.77                      8.63                      
+274
+Rico Logistique, France NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        1.64                      
+275
+TVS SCS Rico Italia SRL NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        7.64                      
+276
+Ricochet Spain S.L, Spain NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA 0.69                      10.75                     
+277
+SPC International Limited, UK NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA 2.86                      3.66                      
+278
+Triage Holdings Limited NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA 0.41                      0.53                      
+279
+Tri - Tec Support Limited, Ireland NA Rico Logistics Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        1.47                      
+280
+Eltec IT Services S.L.U NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryTrade and Other 
+Payables NA 36.98                     43.17                     
+281
+Rico Logistique, France NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.04                      
+282
+TVS SCS Rico Italia SRL NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        1.32                      
+283
+Rico Logistics Limited, UK NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        5.78                      
+284
+Rico Logistics Limited, UK NA Triage Holdings Limited NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        4.10                      
+285
+SPC International Limited, UK NA Triage Holdings Limited NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.01                      
+286
+Rico Logistics Limited, UK NA SPC International Limited, UK NA Fellow SubsidiaryTrade and Other 
+Payables NA 13.02                     10.89                     
+287
+Rico Logistics Limited, UK NA Rico Logistics Pty Ltd, Australia NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.18                      
+288
+TVS SCS Rico Italia SRL NA Rico Logistique, France NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.03                      
+289
+Ricochet Spain S.L, Spain NA Rico Logistique, France NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        0.04                      
+290
+Rico Logistics Limited, UK NA Tri - Tec Support Limited, Ireland NA Fellow SubsidiaryTrade and Other 
+Payables NA 6.49                      26.52                     
+291
+Rico Logistics Limited, UK NA Rico Logistique, France NA Fellow SubsidiaryTrade and Other 
+Payables NA -                        12.64                     
+292
+Rico Logistics Pty Ltd, Australia NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 0.18                               
+293
+Ricochet Spain S.L, Spain NA Eltec IT Services S.L.U NA Fellow SubsidiaryRevenue from 
+Operations NA 6.63                               
+294
+Ricochet Spain S.L, Spain NA Rico Logistique, France NA Fellow SubsidiaryRevenue from 
+Operations NA 0.04                               
+295
+Ricochet Spain S.L, Spain NA TVS SCS Rico Italia SRL NA Fellow SubsidiaryRevenue from 
+Operations NA 1.32                               
+296
+Rico Logistique, France NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 3.45                               
+297
+Rico Logistique, France NA TVS SCS Rico Italia SRL NA Fellow SubsidiaryRevenue from 
+Operations NA 0.03                               
+298
+TVS SCS Rico Italia SRL NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 6.26                               
+299
+Rico Logistics Limited, UK NA Eltec IT Services S.L.U NA Fellow SubsidiaryRevenue from 
+Operations NA 0.23                               
+300
+Rico Logistics Limited, UK NA SPC International Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA0.38                               0.38    
+301
+Rico Logistics Limited, UK NA Triage Holdings Limited NA Fellow SubsidiaryRevenue from 
+Operations NA 0.19                               
+302
+Rico Logistics Limited, UK NA Ricochet Spain S.L, Spain NA Fellow SubsidiaryRevenue from 
+Operations NA 0.05                               
+303
+Ricochet Spain S.L, Spain NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 5.81                               
+304
+Tri - Tec Support Limited, Ireland NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 4.98                               
+305
+Triage Holdings Limited NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 0.63                               
+306
+SPC International Limited, UK NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 1.41                               
+307
+Eltec IT Services S.L.U NA Rico Logistics Limited, UK NA Fellow SubsidiaryRevenue from 
+Operations NA 3.89                               
+308Rico Logistics Limited, UK NA Rico Logistics Pty Ltd, Australia NA Fellow Subsidiary Subcontracting cost NA 0.18                               
+309Eltec IT Services S.L.U NA Ricochet Spain S.L, Spain NA Fellow Subsidiary Subcontracting cost NA 6.63                               
+310Rico Logistique, France NA Ricochet Spain S.L, Spain NA Fellow Subsidiary Subcontracting cost NA 0.04                               
+311TVS SCS Rico Italia SRL NA Ricochet Spain S.L, Spain NA Fellow Subsidiary Subcontracting cost NA 1.32                               
+312Rico Logistics Limited, UK NA Rico Logistique, France NA Fellow Subsidiary Subcontracting cost NA 3.45                               
+313TVS SCS Rico Italia SRL NA Rico Logistique, France NA Fellow Subsidiary Subcontracting cost NA 0.03                               
+314Rico Logistics Limited, UK NA TVS SCS Rico Italia SRL NA Fellow Subsidiary Subcontracting cost NA 6.26                               
+315Eltec IT Services S.L.U NA Rico Logistics Limited, UK NA Fellow Subsidiary Subcontracting cost NA 0.23                               
+316SPC International Limited, UK NA Rico Logistics Limited, UK NA Fellow Subsidiary Subcontracting cost NA 0.38                               0.38   
+317Triage Holdings Limited NA Rico Logistics Limited, UK NA Fellow Subsidiary Subcontracting cost NA 0.19                               
+318Ricochet Spain S.L, Spain NA Rico Logistics Limited, UK NA Fellow Subsidiary Subcontracting cost NA 0.05                               
+319Rico Logistics Limited, UK NA Ricochet Spain S.L, Spain NA Fellow Subsidiary Subcontracting cost NA 5.81                               
+320Rico Logistics Limited, UK NA Tri - Tec Support Limited, Ireland NA Fellow Subsidiary Subcontracting cost NA 4.98                               
+321Rico Logistics Limited, UK NA Triage Holdings Limited NA Fellow Subsidiary Subcontracting cost NA 0.63                               
+322Rico Logistics Limited, UK NA SPC International Limited, UK NA Fellow Subsidiary Subcontracting cost NA 1.41                               
+323Rico Logistics Limited, UK NA Eltec IT Services S.L.U NA Fellow Subsidiary Subcontracting cost NA 3.89                               
+324 KAHN Nominees Pty Ltd, Australia NA TVS SCS (Aust) Pty. Ltd. NA Fellow Subsidiary Loans Payable NA 2.03                      2.05                      
+325 Pan Asia Container Line Pte Ltd, Hong Kong NATVS SCS Singapore Pte. Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Receivables NA 19.01                     0.69                      
+326 Pan Asia Logistics Japan NA
+PT Pan Asia Logistics IndonesiaNA
+Fellow SubsidiaryFreight, clearing, 
+forwarding and 
+handling charges NA 0.00                               
+327 Pan Asia Logistics Japan NA
+TVS SCS (Aust) Pty. Ltd.NA
+Fellow SubsidiaryTrade and Other 
+Payables NA 0.00                  

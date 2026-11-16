@@ -1,0 +1,90 @@
+ 
+  
+May 07,  2024  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408  Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+ 
+Dear Sir,  
+ 
+Sub: Press Release – “Tata Elxsi Collaborates with Arm to Accelerate the So ftware -Defined Vehicle 
+Journey for OEMs ” 
+ 
+Please find enclosed the Press Release dated May 07, 2024, titled “ Tata Elxsi Collaborates with Arm to 
+Accelerate the So ftware -Defined Vehicle Journey for OEMs ”.  
+ This disclosure is made in terms of requirements of Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+ This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Cauveri Sriram  
+Company Secretary & Compliance Officer  
+ 
+Encl.: Press Release  
+ 
+Tata Elxsi Collaborates with Arm to Accelerate the 
+So�ware -Deﬁned Vehicle Journey for OEMs  
+Benga luru May 07 , 2024 : Tata Elxsi, a global leader in technology and design services has 
+collaborated with A rm, the global semiconductor design and so�ware pla�orm company to oﬀer 
+advanced solu�ons on the latest A rm® processors, which will help Automo�ve OEMs and Tier -1s fast 
+track their transi�on to so�ware -deﬁned vehicles (SDVs) . 
+Automo�ve architectures are evolving from a distributed and domain -based paradigm to SDV , which 
+includes the use of high -performance  compu�ng (HPC). This evolu�on requires a strategic shi� in 
+so�ware development, valida�on, and deployment philosophies. Tata Elxsi brings its extensive 
+por�olio of SDV solu�ons through Tata Elxsi AVENIR, a SOAFEE -based so�ware suite that enables the 
+development, integra�on, building, tes�ng, and deployment of applica�ons en�rely on the cloud 
+with ease for OEMs and suppliers.   Through this technology collabor a�on, Tata Elxsi will make  this 
+so�ware suite available on the latest Arm® Automo�ve Enhanced (AE) technology  that will power 
+the high -performance requirements of next -genera�on vehicles.  
+Tata Elxsi AVENIR includes a cloud -na�ve development and valida�on environment, that enables 
+seamless collabora�on to develop and validate SDV func�onali�es, a Connected Digital Twin 
+Framework, which enables easier adop�on and management of d igital twins and a pre -integrated 
+subscrip�on management so�ware . This allows end users to subscribe to automo�ve features on 
+demand .   
+“The automotive industry is being transformed by a massive increase in  software and AI that 
+demands more  computing within  the eﬃciency and safety constraints  of the vehicle,”  said Suraj 
+Gajendra, vice president of products and solu�ons, Automo�ve Line of Business, Arm.  “By bringing 
+together  its SDV solutions with  Arm’s latest AE technology , Tata Elxsi is leveraging  Arm’s eﬃcient 
+performance and safety leadership to accelerat e software development cycles for next -generation 
+vehicles .”   
+“Intelligent vehicles of the future will be powered by SDV , Data and AI , and it is critical that 
+technology companies collaborate to overcome the growing complexities. We are committed to 
+working with A rm to make T ata Elxsi AVENIR available on the latest generation of Arm  cores, which 
+will power future HPCs for SDV while fostering innovation and unlocking the beneﬁts of scale.”  said 
+Shaju S, Vice President & Head, Transporta�on Business.  
+Tata Elxsi AVENIR integrated on Arm  processors  will provide automakers with a proven and ready -to-
+integrate SDV framework and modular so�ware components  that work  seamlessly across A rm-based 
+high -performance compu� ng architectures and chips . This integra�on  accelerates  the “shi� -le�” in 
+SDV development and valida�on processes, helping dras�cally cut down �me -to-market and 
+development risks . 
+ 
+
+ 
+About Tata Elxsi: 
+ Tata Elxsi is among the world’s leading design and technology services providers across industries, 
+including Automo�ve, Broadcast, Communica�ons, Healthcare, and Transporta�on.  
+Tata Elxsi’s cloud -agnos�c SDV development and valida�on solu�on, T ata Elxsi AVENIR, oﬀers a scalable 
+so�ware service framework , which supports cloud -na�ve development and vehicle edge pla�orm 
+deployment  for vehicles.  With T ata Elxsi AVENIR, applica�ons can be seamlessly deployed as services 
+through a sophis�cated, service -oriented middleware layer, ensuring a streamlined and eﬃcient 
+deployment process. Through T ata Elxsi AVENIR, we are helping global OEMs realize their vision of 
+So�ware -Deﬁned Vehicles . For more informa�on, visit  www.tataelxsi.com.  
+ 
+Media Contact  
+Tata Elxsi  
+Hari Balan  
+Corporate Communica�ons  
+Email: media@tataelxsi.com  
+  
+ 

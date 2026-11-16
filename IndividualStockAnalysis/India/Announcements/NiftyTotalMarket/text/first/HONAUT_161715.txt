@@ -1,0 +1,289 @@
+  
+ 
+Honeywell Automation India Limited  
+CIN: L29299PN1984PLC017951  
+Regd. Office: 56 & 57, Hadapsar Industrial  
+Estate, Pune - 411 013, Maharashtra  
+Tel: +91 20 7114 8888  
+E-mail: India.Communications@Honeywell.com  
+Website: https://www.honeywell.com/in/en/hail  
+ 
+May 15, 2024  
+The Manager – Compliance Department  
+National Stock Exchange of India Limited  
+‘Exchange Plaza’ Bandra Kurla Complex,  
+Bandra (East) Mumbai 400051  
+NSE Symbol: HONAUT  The Manager – Compliance Department  
+BSE Limited  
+Floor 25, P.J.  Tower, Dalal Street  
+Mumbai 400001 
+BSE Scrip Code: 517174  
+ 
+Dear Sir,  
+ 
+Sub: Outcome of Board Meeting held on May 1 5, 2024  
+ Ref: Regulations 30 and 33 of the S ecurities and E xchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015  
+ Further to our intimation dated April 27, 2024 and pursuant to Regulations 30 and 33 of the SEBI Listing 
+Regulations, please be informed that the Board of Directors of Honeywell Automation India Limited (“the Company”), has at its meeting held today, inter alia, approved t he Audited Standalone F inancial Results  of 
+the Company  for the Financial Year  ended March 31, 2024 (Financial Results) .  
+ 
+The Statutory Auditors of the Company have issued Audit Report with an unmodified opinion on the above mentioned Audited Financial Results for the Financial Year ended March 31, 2024 (Audit Report) . 
+ 
+The Financial Results  and the Audit Report thereon is enclosed herewith.   
+ 
+The Board of Directors at its meeting held today has also recommended final dividend of Rs. 100 /- (Rupees 
+One Hundred  Only) per Equity Share, i.e. at the rate of 1000% of the face value of Rs. 10/ - each for the 
+Financial Year  ended on March 31, 2024, subject to approval of shareholders at  the ensuing Annual 
+General Meeting of the Company . 
+ The above information is also being made available on the website of the Company at https://www.honeywell.com/in/en/hail  
+ Time of Commencement of Board Meeting: 2:30 p.m.  
+Time of Conclusion of Board Meeting: 5.0 0 p.m.  
+ The above is for your information and record.  
+ 
+Yours Sincerely,  
+ 
+For Honeywell Automation India Limited  
+   
+_________________________  
+Indu Daryani  
+Company Secretary and Compliance Officer  
+FCS No. 9059  
+Address: 56 & 57, Hadapsar Industrial Estate, Pune - 411 013  
+Honeywe I 
+Honeywell 
+Honeywell Automation India Limited 
+CIN: L29299PN1984PLC017951 
+Phone:+91 20 7114 8888 
+STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE YEAR ENDED MARCH 31, 2024 
+(f in millions) 
+Sr. Particulars Quarter ended Quarter ended Quarter ended Year ended 
+No. (Note 5) (Unaudited*) (Note 5) (Audited) 
+March 31, December 31, March 31, March 31, March 31, 
+2024 2023 2023 2024 2023 
+I Revenue from operations 9,507 10,710 8,497 40,582 34,476 
+II Other income (Net) 416 281 267 1,428 1,283 
+Ill Total income (I+ Ill 9,923 10,991 8,764 42,010 35,759 
+IV Expenses 
+a) Cost of materials consumed 4,166 4,807 3,343 17,541 14,704 
+b) Purchases of stock in trade 1,254 1,058 1,059 5,551 3,798 
+c) Changes in inventories of finished goods, (137) 336 (183) 20 (170) 
+work in progress and stock in trade 
+d) Employee benefits expense 1,315 1,783 1,585 6,600 6,259 
+e) Finance costs 7 14 5 36 40 
+f) Depreciation and amortisation 135 128 135 537 519 
+g) Other expenses (Net) 1,210 1,120 1,305 4,976 4,696 
+Total expenses (IV) 7,950 9,246 7,249 35,261 29,846 
+V Profit before exceptional items and tax (111-1,973 1,745 1,515 6,749 5,913 IV) 
+VI Exceptional items -- - - -
+VII Profit before tax (V-VI) 1,973 1,745 1,515 6,749 5,913 
+VIII Tax expense 491 466 395 1,735 1,533 
+a) Current tax 493 405 374 1,690 1,594 
+b) Deferred tax (2) 45 21 29 (68) 
+C) Relating to earlier years - 16 - 16 7 
+IX Profit for the period (VII-VIII) 1,482 1,279 1,120 5,014 4,380 
+X Other Comprehensive Income 
+a) (i) Items that will not be reclassified to profit (41) (52) (78) (74) (109) 
+or loss 
+(ii) Income tax relating to items that will not 11 13 20 19 27 
+be reclassified to profit or loss 
+b) (i) Items that will be reclassified to profit or (5) 8 56 30 (30) 
+loss 
+(ii) Income tax relating to items that will be 1 (2) (14) (8) 8 
+reclassified to profit or loss 
+Total Other Comprehensive Income (341 (33) (16) (33) (104) 
+XI Total Comprehensive Income (IX+X) 1,448 1,246 1,104 4,981 4,276 
+XII Paid-up equity share capital 88 88 88 88 88 
+Face value per share ~ 10 
+XIII Other equity 35,974 31,797 
+XIV Earning per share (~) -Basic 167.59 144.60 126.72 567.13 495.40 
+(not annualised) 
+xv Earning per share (~) -Diluted 167.59 144.60 126.72 567.13 495.40 
+(not annualised) 
+*Limited Review 
+Honeywell Automation India Limited 
+CIN: L29299PN1984PLC017951 
+BALANCE SHEET AS AT MARCH 31, 2024 
+(f in millions) 
+Sr. Particulars As at 
+No. March 31, 2024 March 31, 2023 
+Audited Audited 
+Assets 
+1 Non-current assets 
+(a) Property, Plant and Equipment 1,121 1,200 
+(b) Right-Of-Use Assets 577 309 
+(c) Capital work in progress 19 24 
+(d) Intangible assets 0 0 
+(e) Financial assets 
+(i) Trade receivables 86 85 
+(ii) Other financial assets 262 146 
+(f) Income tax assets (net) 243 444 
+(g) Deferred tax assets (net) 703 721 
+(h) Other non-current assets 547 607 
+Total non-current assets 3,558 3,536 
+2 Current assets 
+(a) Inventories 1,591 1,646 
+(b) Financial assets 
+(i) Trade receivables 9,261 9,378 
+(ii) Cash and cash equivalents 28,224 4,809 
+(iii) Bank balances other than (ii) above 6 18,986 
+(iv) Other financial assets 5,580 5,433 
+(c) Other current assets 731 717 
+Total current assets 45,393 40,969 
+Total Assets 48,951 44,505 
+1 Equity and Liabilities 
+Equity 
+(a) Equity share capital 88 88 
+(b) Other equity 35,974 31,797 
+Total Equity 36,062 31,885 
+Liabilities 
+2 Non-current liabilities 
+(a) Financial liabilities 
+(i) Lease liabilities 485 175 
+(ii) Other financial liabilities 12 -
+(b) Provisions 196 173 
+Total non-current liabilities 693 348 
+Current liabilities 
+(a) Financial liabilities 
+(i) Lease liabilities 111 188 
+(ii) Trade payables 
+(A) total outstanding dues of micro enterprises and small enterprises ; and 819 669 
+(B) total outstanding dues of creditors other than micro enterprises and 6,794 6,578 small enterprises 
+(iii) Other financial liabilities 1,164 1,490 
+(b) Other current liabilities 1,658 1,471 
+(c) Provisions 894 1,412 
+(d) Income tax liabilities (net) 756 464 
+Total current liabilities 12,196 12,272 
+Total Equitv and Liabilities 48,951 44,505 
+Honeywell Automation India Limited 
+CIN: L29299PN1984PLC017951 
+STATEMENT OF CASH FLOW FOR THE YEAR ENDED MARCH 31, 2024 
+(f in millions) 
+Sr. Particulars For the year ended 
+No. March 31, 2024 March 31, 2023 
+Audited Audited 
+A. Cash flow from operating activities 
+Profit for the year 5,014 4,380 
+Adjustments for: 
+Income tax expense recognised in Statement of Profit and Loss 1,735 1,533 
+Depreciation and amortisation of non current assets 537 519 
+(Gain) / Loss on sale/ write off of Property, Plant and Equipment (net) 0 (1) 
+Interest income recognised in profit and loss (1,291) (870) 
+Employee stock options provisions 36 37 
+Effects of exchange rate changes on the balance of cash and cash (27) (117) 
+equivalents held in foreign currencies 
+Effect of unrealized exchange (Gain)/Loss 6 5 
+Interest cost 36 40 
+Liabilities no longer required written back (34) (18) 
+Reversal of actuarially determined liability (Refer Note 6) (279) -
+Interest on Other financial assets carried at amortised cost (8) (8) 
+Bad debts written off (net of expected credit loss allowance) 177 425 
+Movements in working capital: 
+(Increase) /decrease in trade and other receivables (30) (2,953) 
+(Increase) /decrease in amount due from customers under construction (427) 1,891 
+contracts and unbilled services 
+(Increase) in inventories 55 (660) 
+(Increase) /decrease in other assets 75 15 
+Increase/ (decrease) in trade payables 386 17 
+Increase/ (decrease) in provisions (290) 194 
+Increase/ (decrease) in other current liabilities (71) 270 
+Cash generated from operations 5,600 4,699 
+Income taxes paid (net of refund, if any) (1,213) (600) 
+Net cash generated from operations 4,387 4,099 
+B. Cash flow from investing activities 
+Payments for Property, Plant and equipment and Intangibles (320) (281) 
+Proceeds from disposal of Property, Plant and equipment and Intangibles 5 65 
+Interest received 1,391 753 
+Fixed deposits placed during the year (20,790) (16,850) 
+Proceeds from fixed deposits matured during the year 39,770 15,020 
+Net cash generated from/ used in investing activities 20,056 (1,293) 
+C. Cash flow from financing activities 
+Repayment of lease liabilities (215) (225) 
+Dividend paid (840) (796) 
+Net cash used in financing activities (1,055) (1,021) 
+Net change in cash and cash equivalents 23,388 1,785 
+Cash and cash equivalents as at the beginning of the period 4,809 2,907 
+Effects of exchange rate changes on the balance of cash and cash 27 117 
+equivalents held in foreign currencies 
+Cash and cash equivalents as at the end of the period 28,224 4,809 
+Movement in cash and cash equivalents 23,388 ....... J,785 
+V ~'l'\~LL◄;>c, 
+~ ~ I~ ;;• 
+~ ()./7 V\0 
+--·-
+Notes: 
+1. The above results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 
+May 15, 2024. 
+2. The Company has only one segment viz. "Automation & Control Systems" as per Indian Accounting Standard (Ind AS) -108 
+Operating Segment requirement. 
+3. The Company does not have any subsidiary or associate companies. 
+4. The Board of Directors have recommended dividend of ~ 100 per equity share for the financial year ended March 31, 2024 
+(previous year ended March 31, 2023: ~ 95 per equity share) for approval of shareholders. The face value of the equity share is ~ 
+10 each. 
+5. The financial results for the quarters ended March 31, 2024 and March 31, 2023 respectively are balancing figures between 
+audited results for the full financial year and the published year to date figures upto the third quarter of the respective financial year 
+which are subjected to limited review. 
+6. Employee cost includes reversal of~ 279 million related to actuarially determined liability upon conversion from defined benefit 
+plan to defined contribution plan during the quarter ended March 31, 2024 (March 31, 2023 ~ Nil million). 
+7. Amount less than ~0.5 million has been rounded off and shown as ~O million. 
+Place: Pune 
+Date : May 15, 2024 For Honeywell Automation I • 
+\ 
+Ashish Madhukar Gaikwad 
+Managing Director 
+DIN: 07585079 
+Regd. Office : 56 & 57, Hadapsar Industrial Estate, Pune 411 013 
+Email: HAIL.investorservices@honeywell.com I Web site https://www.honeywell .com/in/en/hail 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+Westend Icon 
+11th & 12th floors 
+Building A, S No 169/1 
+Near Parihar Chowk 
+DP Road, Aundh 
+Pune-411007 
+Maharashtra, India 
+Tel: +91 206 747 7800 
+INDEPENDENT AUDITOR'S REPORT ON AUDIT OF ANNUAL FINANCIAL RESULTS AND 
+REVIEW OF QUARTERLY FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF 
+HONEYWELL AUTOMATION INDIA LIMITED 
+Opinion and Conclusion 
+We have (a) audited the Financial Results for the year ended March 31, 2024 and (b) reviewed the 
+Financial Results for the quarter ended March 31, 2024 (refer 'Other Matter' section below), which were 
+subject to limited review by us, both included in the accompanying "Statement of Financial Results for 
+the Quarter and Year Ended March 31,2024" of HONEYWELL AUTOMATION INDIA LIMITED ("the 
+Company") ,being submitted by the Company pursuant to the requirements of Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("the Listing 
+Regulations"), 
+(a) Opinion on Annual Financial Results 
+In our opinion and to the best of our information and according to the explanations given to us, the 
+Financial Results for the year ended March 31, 2024: 
+i. is presented in accordance with the requirements of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended; and 
+ii. gives a true and fair view in conformity with the recognition and measurement principles laid 
+down in the Indian Accounting Standards and other accounting principles generally accepted in 
+India of the net profit and total comprehensive income and other financial information of the 
+Company for the year then ended. 
+(b) Conclusion on Unaudited Financial Results for the quarter ended March 31, 2024 
+With respect to the Financial Results for the quarter ended March 31, 2024, based on our review 
+conducted as stated in paragraph (b) of Auditor's Responsibilities section below, nothing has come 
+to our attention that causes us to believe that the Financial Results for the quarter ended March 31, 
+2024, prepared in accordance with the recognition and measurement principles laid down in the 
+Indian Accounting Standards and other accounting principles generally accepted in India, has not 
+disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended, including the manner in 
+which it is to be disclosed, or that it contains any material misstatement. 
+Basis for Opinion on the Audited Financial Results for the year ended March 31, 2024 
+We conducted our audit in accordance with the Standards on Auditing ("SAs") specified under Section 
+143(10) of the Companies Act, 2013 ("the Act"). Our responsibilities under those Standards are further 
+described in paragraph (a) of Auditor's Responsibilities section below. 
+We are independent of the Company in accordance with the Code of Ethics issued by the Institute of 
+Chartered Accountants of India ("the ICAI") together with the ethical requirements that are relevant to 
+our audit of the Financial Results for the year ended March 31, 2024 under the provisions of the Act 
+and the Rules thereunder, and we have fulfilled our other ethical responsibilities in accordance with 
+these requirements and the ICAI's Code of Ethics. We believe that the audit evidence obtained by us is 
+sufficient and appropriate to provide a basis for our audit opinion. 
+9\1)✓ 
+Regd. Office: One International Center, Tower 3, 32nd floor, Senapati Bapat Marg, Elphinstone Road (West), Mumbai-400 013, Maharashtra, India. 
+Deloitte Haskins & Sells LLP is registered with Limited Liability having LLP identification No: AAB-8737 

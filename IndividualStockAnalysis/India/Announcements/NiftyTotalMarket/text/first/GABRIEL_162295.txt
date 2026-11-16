@@ -1,0 +1,370 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: May 23, 2024  
+BSE Limited  
+25th Floor, P.J. Towers,  
+Dalal Street  
+MUMBAI - 400 001  
+(Company Code - 505714)  National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra(E) , MUMBAI - 400 051  
+ 
+(Company Code - GABRIEL)  
+ 
+Sub: Submission of Audited Financial Results for the quarter and year ended March 31, 202 4 
+Ref: Regulation 30(2)  and 33 of (Listing Obligations and Disclosure Requirements)  Regulations, 
+2015  Read with Schedule III Part A Para A  
+Dear Sirs,  
+ 
+Please find enclosed herewith the Audited Financial Results for the quarter and year ended March 31 , 
+2024, along with Auditor’s R eport  with unmodified opinion,  issued by the Statutory Auditors M/s Price 
+Waterhouse Chartered Accountants LLP , duly approved b y the Board of Directors at their Meeting 
+held on Thursday , May 23, 202 4.  
+ 
+Further a declaration regarding unmodified opinion in the Auditor’s Report is enclosed as Annexure -I. 
+ 
+We request you to take the above information on record and kindly acknowledge  the receipt.  
+ 
+ 
+Thanking you,  
+Yours faithfully,  
+ 
+For Gabriel India Limited  
+ 
+Nilesh Jain  
+Company Secretary  
+ 
+Email id - secretarial@gabriel.co.in  
+ 
+Encl :  
+ 
+1) Standalone Audited Financial Results  along with Auditor’s Report  for the year ended March 31, 202 4 
+2) Consolidated Audited Financial Results along with Auditor’s Report for the year ended March 31, 2024  
+3) Declaration of Unmodified Opinion  
+Registered office 
+GABRIEL INDIA LIMITED 29th Milestone, 
+Pune-Nashik Highway, 
+-...di~ ~E:L Vill.l<uruli, Tal.l<hed 
+Pune 410 501 
+CIN-L34101PN1961PLC015735 
+STANDALONE STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED MARCH 31,2024 
+(Amount in Rs. Million) 
+,._ Quarter ended Year ended 
+S.No. Particulars ·31.03.2024 31.12.2023 31.03.202! 31.03.2024 31.03.2023 
+{Unaudited) (Unaudited) (Unaudited) (Audited) [Audited) -Income 
+I Revenue from Operations 8,586.26 8,138.06 7,369.77 33,426.48 29,717.38 
+II Other income 79.24 45.34 64.63 221.38 173.89 
+Ill Total Income (1+11) 8,665.50 8,183.40 7,434.40 33,647.86 29,891.27 
+IV Expenses I 24,706.30 I Cost of materials consumed 6,316.92 5,901.18 5,486.30 22,513.18 
+Purchases of stock-in-trade 90.75 91.43 100.00 377.88 367.59 
+Changes in inventories of finished goods, work-in-progress and stock-in-trade 44.81 73.72 25.82 (33.22) 1192.68) 
+Employee benefits expense 500.84 521.96 461.54 2,063.69 1,831.04 
+Depreciation and amortisation expense 143.10 143.96 129.68 565.77 485.85 
+Other expenses 857.23 847.71 772.54 3,412.70 3,061.36 
+Finance costs 12.32 9.99 8.49 54.36 45.85 
+Total expenses 7,965.97 7,589.95 6,984.37 31,147.48 28,112.19 
+v Profit before tax (Ill-IV) 699.53 593.45 450.03 2,500.38 1,779.08 
+VI Tax expense 
+Current tax 197.06 133.64 96.61 669.71 435.53 
+Deferred tax 124.63) 30.18 15.84 {20.93) 20.02 
+Total tax expense 172.43 163.82 112.45 648.78 455.55 
+VII Net Profit after tax (V-VI} 527.10 429.63 337.58 1,851.60 1323.53 
+VIII Other comprehensive income 
+Items that will not be reclassified to profit or loss in subsequent period 
+Remeasurement of post-employment benefit obligations (1.29) I0.32) 7.31 (22.83) (19.17) 
+Income tax relating to above 0.33 0.08 (1.65) 5.75 4.82 
+Items that may be reclassified to profit or loss in subsequent period 
+Net gains I {loss) on cash flow hedges 6.40 ll.04) 127.03) 9.43 [1.93) 
+Income tax relating to above (1.62) 0.26 6.81 2.371 0.49 
+Other comprehensive income for the period, net of tax 3.82 (1.031 (14.561 (10.02) (15.79) 
+IX Total comprehensive income for the period net of tax (VII+ VIII) 530.92 428.61 323.02 1,841.58 1,307.74 
+Paid up Equity share capital {Face value Rs. 1/-each) 143.64 143.64 143.64 143.641 143.64 
+Reserves 9,942.86 8,558.98 
+x Earnings per Equity share !nominal value of Rs. 1/-each, not annualized} 
+Basic (Rs.) 3.67 2.99 2.35 12.891 9.21 
+Diluted (Rs.) 3.67 2.99 2.35 12.89 9.21 
+Notes: 
+1 These financial results have been prepared in accordance with the recognition and measurement principles laid down in Indian Accounting Standard 34 "Interim Financial ReportingH 
+(Ind AS 34), prescribed under Section 133 of the Companies Act, 2013, and other accounting principles. 
+2 The above results have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held on May 23,2024. The Statutory Auditors have expressed 
+an unmodified report on the results. 
+3 On April 28, 2023 the Company has acquired 100% equity shares of lnalfa Gabriel Sunroof Systems Private Limited {'IGSSPL') and entered into a technical collaboration agreement with 
+lnalfa Roof Systems Group B.V., of the Netherlands ('lnalfa') to undertake the activities of manufacture and sale of the automotive sunroofs through IGSSPL. The Board of Directors of 
+the Company has also accorded Its approval to execute the joint venture agreement between lnalfa and the Company, subject to receipt of requisite approvals, pursuant to which the 
+shareholding of lnalfa and the Company in IGSSPL will be in the ratio of 51:49 in accordance with the terms contained therein. • On Juty 14, 2023, the Company had incorporated a wholly owned subsidiary Gabriel Europe Engineering Centre ('G. E.E.C.') in Belgium to undertake research and development of 
+vehicle companents. 
+s The Board of Directors at the meeting held on May 23 , 2024 has recommended final dividend of Rs. 2.SO per share for the year ended March 31, 2024, subject to approval of 
+shareholders. 
+6 As the Company's business activity falls within a single operating segment viz. "auto components and parts", no segment information is required to be disclosed. 
+7 The Code on Social Security, 2020 ('Code'), relating to employee benefits during employment and post-employment, received Indian Parliam!nt approval and Presidential assent in 
+September 2020. The Code has been published in the Gazette of India. However, the date on which the Code will come into effect has not been notified. The Company will assess the 
+impact of the Code when it comes Into effect and will record any related impact in the period the Code becomes effective. -For and on behalf of the Board 
+--U· v\~D/..g 
+~~ fffATKAR 
+Place: Pune ..... ~ g I Director 
+Date: May 23, 2024 ~ PUNE .... I DIN: 03553983 ·\fy . /' 
+GABRIEL INDIA LIMITED Registered office 
+-~'<.Jl_j J,,-, '!.. z. 29th Milestone, 
+\. Pune-Nashik Highway, 
+Vill.Kuruli, Tal.Khed 
+Pune410 501 
+CIN-L34101PN1961PLC015735 
+STANDALONE STATEMENT OF ASSETS AND LIABILITIES AS AT MARCH 31,2024 
+(Amount in Rs. Million) 
+Particulars As at As at 
+31.03.2024 31.03.2023 
+(Audited) (Audited) 
+A.ASSETS 
+Non Current Assets 
+(a) Property, plant and equipment 4,117.18 3,955.01 
+(b) Right-of-use assets 79.99 91.89 
+(c) Capital work-in-progress 368.15 296.42 
+(d) Investment Properties 62.70 63.77 
+(el Intangible assets 80.58 92.63 
+(I) Intangible assets under development 179.64 54.20 
+(g) Financial assets 
+i) Investments 305.13 11.40 
+ii) Loans 13.30 10.30 
+iii) Other financial assets 98.95 117.97 
+(h) Income Tax assets (net) 59.85 43.56 
+(i) Other non current assets 211.59 119.53 
+5,577.06 4,856.68 
+Current Assets 
+(a) Inventories 2,357.30 2,248.07 
+(b) Financial assets 
+i) Investments 1,016.23 784.02 
+ii) Trade receivables 4,529.36 3,837.15 
+iii) Cash and cash equivalents 566.59 398.28 
+iv) Bank Balances other than iii) above 165.29 676.22 
+v) Loans 336.49 4.42 
+vi} Other financial assets 1,308.48 1,184.82 
+(c) Other current assets 263.45 290.36 
+10,543.19 9,423.34 
+Total Assets 16120.25 14,280.02 
+B. EQUITY AND LIABILITIES 
+Equity 
+(a) Eauitv Share caoital 143.64 143.64 
+OthereauiW 
+i) Reserve and surplus 9,940.55 8,558.52 
+ii) Other Equity 2.31 0.46 
+10,086.50 8,702.62 
+Non-Current Liabilities 
+a) Financial Liabilities 
+il Lease Liabilities 86.84 93.72 
+b) Provisions 135.60 131.30 
+(cl Deferred tax liabilities (net) 133.24 159.30 
+355.68 384.32 
+Current Liabilities 
+(a) Financial Liabilities 
+i) Lease Liabilities 15.74 17.92 
+ii) Trade payables 
+Total Outstanding dues of micro enterorises and small enterorises 566.89 526.52 
+Total Outstandin g dues of creditors other than micro entercr1ses and small enterorises 4,324.86 3,878.02 
+iii) Other financial liabilities 391.91 367.60 
+(b) Provisions 195.64 216.21 
+(d) Other current liabilities 183.03 186.81 
+5,678.07 5,193.08 
+Total Equity and Liabilities 16,120.25 14,280.02 
+For and on behalf of the Board 
+~\llD/4 r-:_ ~> $ 
+~ PUNE =i) ... -v-. 
+.:; ~ NOJK HATKAR 
+Place: Pune / anaging Director 
+Date: May 23, 2024 DIN: 03553983 
+GABRIEL INDIA LIMITED Registered office 
+-~ _J E'Z~l.IEI!:L--29th Milestone 
+Pune-Nashik Highway 
+Vill.Kuruli, Tal.Khed 
+Pune 410 501 
+CIN-L34101PN1961PLC015735 
+STANDALONE STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024 
+(Amount in Rs Million) 
+Particulars For the year ended For the year ended 
+March 31,2024 March 31, 2023 
+A. Cash flow from operating activities: 
+Profit before tax 2,500.38 1,779.08 
+Adjustments for: 
+Depreciation and amortisation expense 565.77 485.85 
+Gain on disposal of property, plant and equipment (15.96) (2.19) 
+Finance costs 54.36 45.85 
+Rental income (6.01) (4.59) 
+Interest income on fixed deposits with banks (116.34) {101.92) 
+Interest income from financial asset at amortised cost (26.36) (6.13) 
+Gain on sale of investments (39.97) (7.58) 
+Provision no longer required written back (6.02) 
+Fair value changes in mutual fund (net) 1.94 17.06 
+Dividend income classified as investing cash flows (0.07) 
+Provision for doubtful trade and other receivables 0.55 0.59 
+Net exchange differences (gain)/ lass 17.57 (0.25) 
+Operating profit before working capital changes 2,935.93 2,199.68 
+Changes in operating assets and liabilities: 
+(Increase)/ decrease in other nan-current financial assets 24.92 (9.34) 
+(lncrease)/decrease in other nori-current assets (62.26) 21.60 
+Increase in Inventories (109.23) (148.31) 
+Increase in Trade receivables (695.31) (21.75) 
+(Increase)/ decrease in other current financial assets (12.84) 12.02 
+Decrease/(increase) in other current assets 26.92 (1.11) 
+lncrease/(decrease) in non current provisions 4.30 (16.52) 
+lncrease/(decrease) in trade payables 472.19 (319.19) 
+Increase in other current financial liabilities 37.53 45.78 
+Increase in other current liabilities (3.80) (46.85) 
+Increase/ (decrease) in current provisions 143.40) 59.86 
+Cash generated from operations 2,574.95 1,775.88 
+Income taxes paid 1686.01\ (412.34) 
+Net cash inflow from Operating activities (A) 1,888.94 1,363.54 
+B. Cash flow from investing activities 
+Payment for investment property (43.04) 
+Payment for intangible assets including intangible assets under development (165.85) (128.09) 
+Payment for property, plant and equipment including capital work-in-progress (769.39) (758.60) 
+Proceeds from sale of property, plant and equipment 17.99 9.61 
+loans to employees (14.85) (13.00l 
+loan to subsidiary (683.21) 
+Repayment of loans by subsidiary 359.27 
+Repayment of loans by employees 11.00 11.60 
+Payment for investment in fixed deposits (1,710.24) (2,830.10) 
+Proceeds from maturity of fixed deposits 2,101.36 2,578.41 
+Interest received 138.50 97.12 
+Rent received 6.01 4.59 
+Dividend received 0.o7 
+Purchase of non-current investment (5.00) 
+Investment in subsidiaries (293.73) 
+Proceeds used in/from purchase/sale of mutual funds (net) (194.17) 38.12 
+Net cash outflow from investing activities (BJ (1,197.31 1 (1,038.31) 
+GABRIEL INDIA LIMITED Registered office 
+29th Milestone 
+Pune-Nashik Highway 
+Vill.Kuruli, Tal.Khed 
+Pune 410 501 
+CIN-L34101PN1961PLC015735 
+STANDALONE STATEMENT OF CASH FLOWS FOR THE YEAR ENDED MARCH 31, 2024 
+Particulars 
+C. Cash flow from financing activities 
+Principal elements of lease payments 
+Repayment of fixed deposits from public 
+Interest paid 
+Dividend paid 
+Net cash outflow from financing activities (C} 
+Net Increase/ (Decrease) in Cash & Cash Equivalents (A+B+C) 
+Cash and cash equivalents as at the beginning of the year 
+Cash and cash equivalents as at the end of the period 
+Cash and cash equivalents consists of: 
+In Current Accounts 
+Total 
+Non cash financing and investing activities 
+Proceeds from Long Term Borrowing includes· non cash item pertaining to acquisition of 
+property, plant and equipment by means of Right of Use (Lease hold land Gross Value 
+Rs. NIL & Other Leases Gross Value Rs. NIL} 
+Notes: For the year ended 
+March 31,2024 
+(24.26) 
+(45.66) 
+(453.40) 
+(523.32) 
+168.31 
+398.28 
+566.59 
+566.59 
+566.59 
+(6.50) {Amount in Rs Million} 
+For the year ended 
+March 31, 2023 
+(28.02) 
+(0.14) 
+(35.18) 
+(273.63) 
+(336.97} 
+(11.74) 
+410.00 
+398.26 
+398.28 
+398.28 
+1.The above statement of cash flows has been prepart!d under indirect method in accordance with the Indian Accounting Standard (lnd AS) 7 on 
+"Statement of Cash Flows". 
+2.Fi ures in brackets indicate cash outflow. 
+Place: Pune 
+Date: May 23, 2024 For and on behalf of the Board 
+ATKAR 
+anaging Director 
+DIN: 03553983 
+Registered office 
+GABRIEL INDIA LIMITED 29th Milestone, 
+Pune-Nashik Highway, 
+l ' ......., __.. I -' .'-r '1,.,,,.,,, .I ~.L \lill.Kuruli, Tal.Khed 
+Pune 410 501 ---CIN-L34101PN 1961PLC01S735 
+CONSOLIDATED STATEMENT OF AUDITED FINANOAL RESULTS FOR THE QUARTER AND YEAR ENDED MARCH :U,2024 
+(Amount ;n Rs. MilUon) 
+Quarter ended Year ended 
+S.No. Particulars 31.03.2024 31.12.2023 31.03.2024 
+(Unaudited) {Unaudited) (Audited) 
+Income 
+I Revenue from Operations 9,169.77 8,154.34 34,026.26 
+II Other income 58.86 38.51 194.21 
+Ill Total Income (1+11) 9,228.63 8,192.85 34,220.47 
+IV E>cpenses 
+Cost of materials consumed 6,912.30 5,911.16 25,311.64 
+Purchases of stock-in-trade 90.76 91.42 377.88 
+Changes in inventories of finished goods, work-in-progress and (93.84) 73.72 (171.85) 
+Employee benefits expense 559.39 525.78 2,123.47 
+Depreciation and amortisation expense 176.80 143.95 599.48 
+Other expenses 896.33 850.16 3,459.10 
+Finance costs 23.14 15.77 82.40 
+Total expenses 8,564.88 7,611.96 31,782.12 
+v Profit before tax (Ill-IV) 663.75 580.89 2,43835 
+VI Tax expense 
+Current tax 198.94 133.86 671.81 
+Deferred tax (25.60) 34.57 (20.93) 
+Total tax expense 173.34 168.43 650.88 
+VII Net Profit after tax {V-VI) 490.41 412.46 1,787.47 
+VIII other comprehen~ve income 
+Items that will not be redassified to profit or loss in subsequent 
+period 
+Remeasurement of post-employment benefit obligations 12.121 (0.32) (23.65) 
+Income tax relating to above 0.33 0.08 5.75 
+Items that may be reclassified to profit or loss in subsequent period 
+Exchange differences on translating the financial statement of (0.06) 0.04 (0.02) 
+Foreign operation 
+Net gains I (loss) on cash flow hedges 6.40 (1.04) 9.43 
+Income tax relating to above (1.61) 0.26 (2.37) 
+Other comprehensive income for the period, net of tax 2.94 (0.981 (10.86) 
+IX Total comprehensive income for the period net of tax (VII+ Vllll 493.35 411.48 1,776.61 
+Paid up Equity share capital (Face value Rs. 1/-each) 143.64 143.64 143.64 
+Reserves 9,877.88 
+x Earnings per Equity share (nominal value of Rs. 1/-each, not 
+annualized) 
+Basic (Rs.) 3.41 2.87 12.44 
+Diluted (Rs.) 3.41 2.87 12.44 
+Notes: 
+1 These financial results have been prepared in accordance with Indian Accounting Standard (Ind AS) as prescribed under 
+Section 133 of the Companies Act, 2013, read with Rule 3 of the companies (Indian Accounting Standards) Rule, 2015 and 
+relevant amendment thereunder. 
+2 The above results have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held 
+on May 23, 2024. The Statutory Auditors have expressed an unmodified report On the results. 
+3 On April 28, 2023 the Company has acquired 100% equity shares of rnalfa Gabriel Sunroof Systems Private Limited ('IGSSPL') 
+and entered into a technical collaboration agreement with lnalfa Roof Systems Group B.V., of the Netherlands ('lnalfa') to 
+undertake the activities of manufacture and sale of the automotive sunroofs through IGSSPL. The Board of Directors of the 
+Company has also accorded Its approval to execute the joint venture agreement between lnalfa and the Company, subject to 
+receipt of requisite approvals, pursuant to which the shareholding of lnalfa and the Company in IGSSPL will be in the ratio of 
+51:49 in accordance with the terms contained therein. 
+4 On July 14, 2023, the Company had incorporated a wholly owned subsidiary Gabriel Europe Engineering Centre {'G.E.E.C. ')in 
+Belgium to undertake research and development of vehicle components. 
+5 The financial results for the year ended March 31, 2024 are the first consolidated financial results of the Group, hence there 
+are no corresponding figures for the prior year. 
+6 The Board of Directors at the meeting held on May 23 , 2024 has recommended final dividend of Rs. 2.50 per share for the 
+year ended March 31, 2024, subject to approval of shareholders. 
+7 The Code on Social Security, 2020 ('Code'}, relating to employee benefits during employment and post-employment, 
+received Indian Parliament approval and Presidential assent in September 2020. The Code has been published in the Gazette 
+of India. However, the date on which the Code will come into effect has not been notified. The Company will assess the 
+impact of the Code when it comes into effect and will record any related impact in the period the Code becomes effective. 
+For and on behalf of the Board 
+<,. 
+··~ 
+~ ANOJ K ATKAR 
+Place: Pune ~ Managing Director 
+Date: May 23, 2024 ') DIN: 03553983 
+"~ / 

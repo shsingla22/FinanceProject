@@ -1,0 +1,337 @@
+ 
+ 
+ 
+To:                 To: 
+  
+   
+Sir(s)/Madam , 
+ 
+Sub: - 
+Financial Results  under  Regulation 33 of SEBI (Listing Obligations and Disclosures 
+Requirements) Regulations 2015.  
+ 
+Pursuant to the above captioned Regulation s, please find enclo sed, the documents mentioned  below:  
+ 
+1. The Audited Standalone and Consolidated Financial Results for the Quarter and Financial Year 
+Ended March  31, 2024, along with the Audit Report are enclosed  
+ 
+You are requested to kindly take the above on record.  
+Yours sincerely,  
+For Avalon Technologies Limited   
+ 
+ 
+Name of the Person :  Dr. V. Rajesh  
+Designation : Company Secretary  & Compliance Officer  
+Membership Number:  F9213  
+Date : May 16 , 2024  
+ BSE Limited  
+Corporate Relationship Department  
+PJ towers,  
+Dalal Street,  
+Mumbai -400001  
+BSE SCRIP CODE: 543896  The Manager  
+Listing Department  
+The National Stock Exchange of India Limited  
+“Exchange Plaza”, Bandra – Kurla Complex,  
+Bandra (EAST),  Mumbai – 400051  
+NSE Symbol: AVALON  
+(₹. In Millions)
+31 Mar'24 31 Dec'23 31 Mar'23 31 Mar'24 31 Mar'23
+(Refer Note 9) Unaudited (Refer Note 9) Audited Audited
+IRevenue from Operations 1,110.58          1,195.90           1,330.99               4,416.82         4,793.71             
+IIOther Income 46.47               34.70                30.88                     192.42            50.75                   
+IIITotal Income (I+II) 1,157.05          1,230.60           1,361.87               4,609.24         4,844.46             
+IVExpenses:
+Cost of raw materials consumed 835.84             836.53              987.52                   3,270.43         3,705.38             
+Purchases of Stock-in-Trade -                    -                     -                         -                  -                      
+54.28               31.78                 (54.74)                    69.76               (131.86)              
+Employee benefit expenses 128.42             130.38              105.43                   487.86            423.73                
+Finance costs 2.55                  3.25                   46.23                     25.94              176.43                
+Depreciation and amortisation expenses 12.18               13.42                13.98                     51.98              48.70                   
+Other expenses 75.53               73.88                65.05                     270.68            237.75                
+Total Expenses 1,108.80          1,089.24           1,163.47               4,176.65         4,460.13             
+VProfit before tax (III-IV) 48.25               141.36              198.40                   432.59            384.33                
+VITax Expense:
+(1)Current Tax 10.82               35.95                50.29                     102.22            95.95                   
+(2)Tax of earlier years 0.32                  -                     -                         0.32                -                      
+(3)Deferred Tax (0.61)                0.72                   2.42                       5.19                4.69                     
+10.53               36.67                52.71                     107.73            100.64                
+VIIProfit for the period / year (V - VI) 37.72               104.69              145.69                   324.86            283.69                
+VIIIOther Comprehensive Income
+A.  i)  Items that will not be reclassified to profit or loss
+a) Remeasurements of the defined benefit 
+plans - Gratuity4.79                  (1.19)                 (1.17)                      1.22                 (3.92)                   
+ii)Income tax expense on remeasurement benefit/(loss) of 
+defined benefit plans(1.21)                0.30                   0.29                       (0.31)               0.99                     
+Total other comprehensive income/ (loss) A (i+ii) 3.58                  (0.89)                 (0.88)                      0.91                (2.93)                   
+IX41.30               103.80               144.81                   325.77             280.76                 
+X131.43             131.27               115.91                   131.43             115.91                 
+XI 6,600.26         6,454.03             
+XII(not annualised) (not annualised) (not annualised)  (annualised)  (annualised) 
+   (a) Basic (In ₹ ) 0.57                  1.60                   2.54                       2.27                5.00                     
+   (b) Diluted (In ₹ ) 0.56                  1.56                   2.44                       2.22                4.89                     S.No Particulars
+Total Comprehensive Income for the period / year 
+(VII+VIII)For the Quarter EndedAvalon Technologies limited
+STATEMENT OF STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED MARCH 31, 2024Visit us at https://www.avalontec.comRegistered Office: B-7 First Main Road, MEPZ-SEZ, Tambaram, Chennai - 600045, Tamil Nadu, IndiaCIN:L30007TN1999PLC043479(formerly known as Avalon Technologies Private Limited)
+For the Year Ended
+Changes in Inventories of finished goods, work-in-progress 
+and stock in trade
+Paid up Equity share Capital 
+(Nominal Value Rs. 2 each)
+Other Equity
+Earnings Per Equity Share  
+(Nominal value per share ₹ 2/-) 
+KUNHAM
+ED BICHADigitally signed by 
+KUNHAMED BICHA Date: 2024.05.16 19:39:02 +05'30'
+Notes:
+(₹. In Millions)
+As at 
+31 March 2024As at 
+31 March 2023
+Audited Audited
+A. ASSETS
+Non-Current Assets
+(a) Property, plant and equipment 479.65                        392.37                        
+(b) Capital Work in Progress 147.03                        121.89                        
+(c) Right-of-Use assets 56.15                          66.54                          
+(d) Intangible Assets 4.38                            2.01                            
+(e) Financial Assets
+(i) Investments 1,177.91                     875.95                        
+(ii) Other Financial Assets 860.61                        156.44                        
+(f) Deferred Tax Asset (Net) 1.97                            7.46                            
+(g) Tax assets (Net) -                              -                              
+(h) Other Non Current Assets 25.30                          16.90                          
+Total non-current assets 2,753.00                     1,639.56                     
+Current Assets
+(a) Inventories 1,918.58                     1,735.34                     
+(b) Financial Assets
+(i) Investments 739.74                        -                              
+(ii) Trade Receivables 1,743.29                     1,319.67                     
+(iii) Cash and Cash Equivalents 240.39                        4,199.25                     
+(iv) Bank balances other than (iii) above 265.14                        3.37                            
+(v) Other Financial Assets 29.16                          30.00                          
+(c) Other Current Assets 131.44                        514.37                        
+Total current assets 5,067.74                     7,802.00                     
+TOTAL ASSETS 7,820.74                     9,441.56                     
+B. EQUITY AND LIABILITIES
+Equity 
+(a) Equity Share Capital 131.43                        115.91                        
+(b) Other equity 6,600.26                     6,454.03                     
+Total equity 6,731.69                     6,569.94                     
+Liabilities
+Non-Current Liabilities
+(a) Financial Liabilities
+(i) Borrowings -                              198.12                        
+(ii) Lease Liabilities 39.19                          48.94                          
+(iii) Other Financial Liabilities -                              0.24                            
+(b) Provisions 77.33                          66.26                          
+(c) Deferred Tax Liabilities (Net) -                              -                              
+(d) Other non-current liabilities -                              -                              
+Total non-current liabilities 116.52                        313.56                        
+Current Liabilities
+(a)  Financial Liabilities
+(i) Borrowings 277.81                        1,020.80                     
+(ii) Lease Liabilities 11.20                          6.25                            
+(iii) Trade Payables
+a) Micro and small enterprises 3.68                            7.09                            
+b) Others 479.07                        641.71                        
+(iv) Other Financial Liabilities 15.30                          847.76                        
+(b) Other Current Liabilities 160.69                        16.72                          
+(c) Provisions 11.94                          7.24                            
+(d) Current tax Liabilities (Net) 12.84                          10.49                          
+Total current liabilities 972.53                        2,558.06                     
+Total Liabilities 1,089.05                     2,871.62                     
+TOTAL EQUITY AND LIABILITIES 7,820.74                     9,441.56                     Avalon Technologies limited
+(formerly known as Avalon Technologies Private Limited)
+CIN:L30007TN1999PLC043479
+Registered Office: B-7 First Main Road, MEPZ-SEZ, Tambaram, Chennai - 600045, Tamil Nadu, India
+Visit us at https://www.avalontec.com
+1. STATEMENT OF STANDALONE ASSETS AND LIABILITIES
+S.No Particulars
+KUNHAM
+ED BICHADigitally signed by 
+KUNHAMED BICHA Date: 2024.05.16 
+19:39:25 +05'30'
+Avalon Technologies limited
+(formerly known as Avalon Technologies Private Limited)
+CIN:L30007TN1999PLC043479
+Registered Office: B-7 First Main Road, MEPZ-SEZ, Tambaram, Chennai - 600045, Tamil Nadu, India
+Visit us at https://www.avalontec.com
+Notes:
+(₹. In Millions)
+S.NoAs at 
+March 31, 2024As at 
+March 31, 2023
+ACash flows from operating activities
+Profit before tax 432.59                        384.33                        
+Adjustments for :
+Finance costs recognised in profit or loss 20.67                          126.06                        
+Interest Income recognised in profit or loss (72.01)                         (14.59)                        
+Dividend Income recognised in profit or loss (5.12)                           (17.86)                        
+(Gain) / Loss on disposal of PPE 0.30                            
+Profit on sale of Investments (36.36)                         -                              
+Gain on account of fair value changes in Investments (28.77)                         -                              
+0.77                            1.74                            
+0.81                            0.86                            
+51.98                          48.70                          
+Provision for Gratuity 11.16                          (8.86)                          
+Provision for Leave Encashment 11.17                          (7.29)                          
+Amount no longer payable written back 15.96                          (15.85)                        
+Net foreign exchange (gain) / loss - Unrealised (11.62)                         48.66                          
+391.53                        545.90                        
+Movements in working capital / other changes : 
+(Increase) / decrease in trade and other receivables (418.01)                       89.14                          
+(Increase) / decrease in inventories (183.24)                       (592.12)                      
+(Increase) / decrease in other assets 227.79                        (221.00)                      
+(154.29)                       96.64                          
+(5.34)                           27.82                          
+144.48                        (18.20)                        
+Cash generated from operations 2.92                            (71.82)                        
+Income Tax paid (100.75)                       (116.75)                      
+Net cash used in operating activities (A) (97.83)                         (188.57)                      
+BCash flow from investing activities
+(Acquisition)/Proceeds from sale of property, plant and equipment (179.68)                       (188.53)                      
+Interest received 72.01                          14.59                          
+Dividend income 5.12                            17.86                          
+Loans given during the period (590.00)                       -                              
+Investments made during the period (300.01)                       -                              
+Payment to acquire investments
+    Investment in Fixed Deposit (380.34)                       -                              
+    Investment in Mutual Funds (1,967.38)                    -                              
+Proceeds from sale of investments 1,292.75                     -                              
+Net cash used in investing activities (B) (2,047.53)                    (156.08)                      
+CCash flow from financing activities
+Proceeds from issue of Equity Shares -                              798.24                        
+Proceeds from issue of Equity Shares (ESOP) 8.40                            -                              
+Proceeds from issue of Equity Shares through IPO (including Share of selling shareholders) 4,633.72                     -                              
+Receipt of Share Application Money from Anchor Investors -                              4,016.28                     
+Payment towards Selling shareholders ("SS") (including share issue expenses towards SS) (5,303.98)                    -                              
+Share issue expenses towards company (175.19)                       -                              
+Proceeds from Non current Borrowings -                              82.31                          
+Repayment of Non-Current Borrowings (198.12)                       (55.81)                        
+(Repayment) of Current Borrowings (1,020.80)                    (166.10)                      
+Dividends paid on equity shares and convertible non-participating preference shares 277.81                        -                              
+Repayment of Lease liability (11.73)                         (11.61)                        
+Dividend paid on Preference Shares (2.93)                           (3.50)                          
+Interest paid (20.58)                         (170.53)                      
+Net cash (used in)/generated by financing activities (C) (1,813.40)                    4,489.28                     
+Net Increase/(Decrease) in cash and cash equivalents  (A)+(B)+(C ) (3,958.76)                    4,144.63                     
+Cash and cash equivalents at the beginning of the period 4,199.25                     52.91                          
+(0.10)                           1.71                            
+Cash and Cash equivalents at the end of the period 240.39                        4,199.25                     Effects of exchange rate changes on the balance of cash and cash equivalents 
+held in foreign currenciesEmployee Share Based Payment
+Depreciation and Amortisation
+Increase / (decrease) in trade payables
+Increase / (decrease) in provisions
+Increase / (decrease) in other liabilitiesAllowance for expected  credit loss2. STATEMENT OF STANDALONE CASH FLOWS
+Particulars
+KUNHAM
+ED BICHADigitally signed by 
+KUNHAMED BICHA Date: 2024.05.16 19:39:46 +05'30'
+Notes:
+3
+4
+5
+6
+(₹ In Millions)
+Objects of the issue as stated in the prospectusAmount as per 
+prospectus (A)Utilisation upto March 
+31, 2024 (B)Unutilised amount as on 
+March 31, 2024
+(A-B)
+Prepayment or repayment of all or a portion of certain outstanding
+borrowings availed by our Company and one of our Material Subsidiaries,
+Avalon Technology and Services Pvt Limited [Refer (b) below]1,450.00 1,450.00 -                                       
+Funding the working capital requirements of our Company 900.00              900.00                              -                                       
+General corporate purposes [Refer (a) & (b) below] 644.00 645.70 -                                       
+Total 2,994.00 2,995.70                          -                                       
+7
+8
+9
+10
+For Avalon Technologies Limited
+Place: Chennai Kunhamed Bicha
+Date : May 16, 2024                                                                                                Chairman & Managing DirectorThe previous year / period figures have been re-grouped wherever necessary to conform to current period's classification / presentation.The Company operates in only one reportable business segment i.e. providing Electronics Manufacturing Services (EMS) with capabilities in printed circuit board assembly,
+custom cable and wire harnesses, etc., as determined by the chief operating decision maker, in accordance with Ind AS 108 “Operating Segments”.
+Number of employee stock options granted is 520,050 and outstanding as at March 31, 2024 is 367,524. During the quarter and year ended March 31,2024, the company has
+allotted 1,399 & 152,526 Equity shares respectively, upon exercise of Employee stock options by the eligible employees.
+(a)The Standalone Financial Results for the quarter ended March 31 2024 is the balancingfigure between the audited figures in respect ofthe fullfinancial yearand thepublished
+year to date figures up to the third quarter of the financial year, which has been subject to a limited review by the Statutory Auditors. 
+(b) The Standalone Financial Results for the quarter ended March 31 2023 is the balancing figure between the audited figures in respect of the full financial year and the
+unpublished year to date figures up to the third quarter of the financial year, which has not been subject to an audit or review bythe StatutoryAuditors. However, the management
+has exercised necessary diligence to ensure that the financial results for these periods provide a true and fair view of the Company's affairs.Avalon Technologies Limited
+CIN: L30007TN1999PLC043479
+Regd Office: B-7, First Main Road, MEPZ-SEZ, Tambaram, Chennai - 600 045, Tamil Nadu, India
+visit us at https://www.avalontec.com
+Notes to Statement of Standalone financial results for the 
+quarter and year ended March 31, 2024(formerly known as Avalon Technologies Private Limited)
+(a)As disclosed in the Prospectus,the amountto bespent forGeneral CorporatePurposes is ₹ 644.00 Million which is arrived at as ₹ 850.00 Million less estimated issueexpenses
+of ₹ 206.00 Million. Considering the actual issue expenses (including GST) of ₹ 204.30 Million, the amount utilised towards General Corporate Purposes stands at ₹ 645.70
+Million.
+(b) During the year, the company has infused ₹ 890.02 million (including ₹ 711.39 million out of IPO proceeds) in one of its material subsidiaries, Avalon Technology and
+Services Private Limited, consisting of ₹ 300.02 Million as equity investment and ₹ 590.00 Million as unsecured loan.The above financial results have been reviewed and recommended by the Audit Committee and approved by the Board of Directors at its respective meetings held on May 16,
+2024. 
+The Company has completed the Initial Public Offering of 19,839,446 equity shares of face value of ₹2 each at an issue price of ₹436 per equity share, consisting of a fresh issue of  
+7,339,449 equity shares aggregating to ₹3,200 Million and an offer for sale of 12,499,997 equity shares aggregating to ₹5,450 Million. The equity shares of the Company were
+listed on the National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) w.e.f April 18, 2023. The Companyhad also completed two pre-IPO placements during the
+previous year aggregating to ₹1,600 Million, consisting of ₹800 million of primary issuance and ₹800 million of secondary share sales. The first pre-IPO issue consisted of 798,339 
+Equity shares of ₹2 each at ₹375.78 per share and the second pre-IPO issue consisted of 1,173,543 Equity shares of ₹2 each at ₹426.06 per share.
+The expenditure incurred bythe Companyin connection with the IPO is ₹ 546.50 Million (including GST). These expenses have been allocated between the Companyand selling
+shareholders in proportion to the total proceeds raised and also considering the nature of expenditure incurred. The Company's share of expenses of ₹176.96 Million has been
+adjusted against Securities Premium.
+The Company has received an amount of ₹ 2,995.70 Million (net of IPO expenses) from proceeds out of the fresh issue of equity shares. The utilisation of net IPO proceeds is 
+summarised below:
+KUNHAMED 
+BICHADigitally signed by 
+KUNHAMED BICHA Date: 2024.05.16 19:40:06 +05'30'
+Varma & Varma  
+Chartered Accountants    
+ 
+New No.2 (Old No.20) , Second Canal Cross Road , Gandhi Nagar, Adyar, Chennai - 600 020  
+Ph : +91 44 2442 3496, 2445 2239 E mail :chennai@varmaandvarma.com  
+ 
+  Independent Auditor's Report on the Standalone Financial Results of the Company 
+Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015.  
+ 
+To  
+The Board of Directors of  
+Avalon Technologies Limited  
+ 
+Report on the audit of the Standalone Financial Results  
+ 
+Opinion  
+ 
+We have audited the accompanying Statement of Standalone Financial results of Avalon 
+Technologies Limited (“the Company”) for the year ended March  31, 2024 (“the Statement”), 
+attached herewith, being submitted by the Company pursuant to the requirement of Regulation 
+33 of the S ecurities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirement s) Regulations, 2015 as amended (the ‘Listing Regulations’).  
+ 
+In our opinion and to the best of our information and according to the explanations given to us, 
+the Statement;  
+ 
+1. is presented in accordance with the requirements of Regulation 33 of the Listing 
+Regulations in this regard; and  
+ 
+2. gives a true and fair view, in conformity with the recognition and measurement 
+principles laid down in the applicable Indian Accounting Standards and other 
+accounting principles generally accepted in India, of the net profit, other comprehensive 
+income and  other financial information of the Company for the year ended March  31, 
+2024. 
+ 
+Basis for Opinion:  
+ 
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under 
+section 143(10) of the Companies Act, 2013, as amended (‘the Act’). Our responsibilities under 
+those Standards are further described in the “Auditors’ Responsibilities for the Audit of the 
+Standalone Financial Results” section of our report. We are independent of the Company in 
+accordance with the Code of Ethics issued by the Institute of Chartered Accountants of I ndia 
+together with the ethical requirements that are relevant to our audit of the Statement under the 
+provisions of the Act and the Rules thereunder, and we have fulfilled our other ethical 
+responsibilities in accordance with these requirements and the Code of Ethics. We believe that 
+the audit evidence we have obtained is sufficient and appropria te to provide a basis for our audit 
+opinion.  
+ 
+ 

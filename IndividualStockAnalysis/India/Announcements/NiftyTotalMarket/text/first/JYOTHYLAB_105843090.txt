@@ -1,0 +1,114 @@
+ 
+ 
+ 
+May 11, 2024
+ 
+To, 
+              
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400 023  
+Security Code:  532926  National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (East),  Mumbai – 400 051 
+Symbol: JYOTHYLAB  
+ 
+Sub: Intimation under Regulation 39(3) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015  
+Dear Sir/ Madam,  
+Pursuant to Regulation 39(3) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+we wish to inform you that M/s. Link Intime India Private Limited, the Registrar and Share Transfer Agent (RTA) 
+has intimated the Company on  May 10 , 2024 regarding issue of duplicate share certificate to the shareholder 
+details of which is given below:  
+Name of the 
+Shareholder (s) Folio No.  Certificate No.  Distinctive No.  
+(both inclusive)  No. of 
+Shares  
+VENKATASUBRAMANIAN 
+G 0019855  115039 / 162021  (Old) 162163093  – 162163167  
+182543248  – 182543322  75 
+75 172380  (New/ Duplicate)  
+MEHRUNNISA KHAN  0014317  109556  (Old)  161911649  – 161912623  975 
+172381  (New/ Duplicate)  
+PADMA SAMBASIVAM  0020809  106302  (Old)  161725514  – 161725563  50 
+172382  (New/ Duplicate)  
+HARSHA DUSHYANT 
+ANDHARIA  0003589  148376  (Old)  181926936  – 181926985  50 
+172383  (New/ Duplicate)  
+KISHORI MOHAN 
+MOHANTY  0011262  106554 / 154884  (Old)  161737460  – 161737509  
+182201037  – 182201086  50 
+50 172384  (New/ Duplicate)  
+PREM KUMAR BAJAJ  0012786  108043  (Old)  161822230  – 161822279  50 
+172385  (New/ Duplicate)  
+This is for your information and record . 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For JYOTHY LABS  LIMITED  
+ 
+ 
+ 
+Shreyas Trivedi  
+Head – Legal & Company Secretary  
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN9459TO: TN9454FROM:Jyothy Labs Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN9454 0019855
+VENKATASUBRAMANIAN G 10/05/2024
+DUP 1.00OLD 75  162163167  162163093  75  115039  115039 
+ 1.00OLD 75  182543322  182543248  75 BONUS  162021  162021 
+ 150 ---------------
+ 1.00NEW 75  162163167  162163093  75 DUP  172380  172380  65  65 
+ 1.00NEW 75  182543322  182543248  75 DUP  172380  172380  65  65 
+ 150 ---------------
+TN9455 0014317MEHRUNNISA KHAN 10/05/2024
+DUP 1.00OLD 975 
+ 161912623  161911649  975  109556  109556 
+ 975 ---------------
+ 1.00NEW 975  161912623  161911649  975 DUP  172381  172381  66  66 
+ 975 ---------------
+TN9456 0020809PADMA SAMBASIVAM 10/05/2024
+DUP 1.00OLD 50 
+ 161725563  161725514  50  106302  106302 
+ 50 ---------------
+ 1.00NEW 50  161725563  161725514  50 DUP  172382  172382  671  671 
+ 50 ---------------
+TN9457 0003589HARSHA DUSHYANT ANDHARIA 10/05/2024
+DUP 1.00OLD 50 
+ 181926985  181926936  50 BONUS  148376  148376 
+ 50 ---------------
+ 1.00NEW 50  181926985  181926936  50 DUP  172383  172383  900  900 
+ 50 ---------------
+10/05/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN9459TO: TN9454FROM:Jyothy Labs Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN9458 0011262
+KISHORI MOHAN MOHANTY 10/05/2024
+DUP 1.00OLD 50  161737509  161737460  50  106554  106554 
+ 1.00OLD 50  182201086  182201037  50 BONUS  154884  154884 
+ 100 ---------------
+ 1.00NEW 50  161737509  161737460  50 DUP  172384  172384  905  905 
+ 1.00NEW 50  182201086  182201037  50 DUP  172384  172384  905  905 
+ 100 ---------------
+TN9459 0012786PREM KUMAR BAJAJ 10/05/2024
+DUP 1.00OLD 50 
+ 161822279  161822230  50  108043  108043 
+ 50 ---------------
+ 1.00NEW 50  161822279  161822230  50 DUP  172385  172385  999  999 
+ 50 ---------------
+10/05/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

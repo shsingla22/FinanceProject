@@ -1,0 +1,139 @@
+Ref No.: ICIL/ 23/2024 -25     May 29, 2024  
+National Stock Exchange of India Ltd.  
+Listing Department  
+Exchange Plaza,  
+Bandra Kurla Complex, Bandra (East),  
+Mumbai – 400 051.  
+Company Symbol : ICIL  BSE Limited  
+Department of Corporate Services  
+Floor 25, Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai – 400 001.  
+Scrip Code No. :  521016  
+Dear Sir/Madam,  
+Sub. : Intimation for issue of Duplicate Share Certificate under Regulation 39(3) of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015  
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, this is to inform that the Company has issued Duplicate  Share Certificate / New Share Certificate  
+on replacement  in lieu of the original shar e certificate  to the following S hareholder s on May 28, 2024 : 
+Sr. 
+No. Folio 
+No. Name of Shareholder(s)  New 
+Certificate 
+No. Distinctive Nos.  No. of 
+Shares of 
+face value of 
+Rs. 2/ - each  From  To 
+1. 0044589  Banarshi Devi Sarda  22626  2056211  2056860  650 
+2. 0054357  Rajendra Bade  jointly with 
+Vasundhara Bade  22627  3166646  3167295  650 
+3. 0051033  Meena Jain  22628  2828881  2828930  50 
+4. 0083167  Jaswinder Kaur  22629  6027156  6031155  4000  
+The aforesaid Duplicate / New Share Certificate has been issued on receipt of proper documentation 
+from the  Shareholder and pursuant to the approval accorded by the Share Transfer Committee on May 
+28, 2024 . 
+Further, Register of Duplicate / New Share Certificate sent by Link Intime  India Private Limited (“RTA”)  
+on May 28, 2024 , enclosed for your ready reference.  However, the Company / RTA will follow the 
+procedure as per SEBI Circular no. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 dated 25th January,  
+2022 for issuance of duplicate shares in dematerialized form.  
+Kindly take the above information on record.  
+Thanking you,  
+For Indo Count Industries Limited  
+Satnam Saini  
+Company Secretary & GM- Legal  
+Encl.: A/a 
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5241TO: TN5241FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON REPLACEMENT  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5241 0044589
+BANARSHI DEVI SARDA 28/05/2024
+REP 2.00OLD 650  2056860  2056211  650  5139  5139 
+ 650 ---------------
+ 2.00NEW 650  2056860  2056211  650  22626  22626 
+ 650 ---------------
+28/05/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        1 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                2 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                  650 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN5241TO: TN5241 FROM:
+ 0  0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON REPLACEMENT  
+:
+:
+:
+:
+:
+:
+:
+:::Indo Count Industries Limited
+ 1  0 
+ 0  1 
+ 1 
+28/05/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5244TO: TN5242FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5242 0054357
+RAJENDRA BADE
+VASUNDHARA BADE28/05/2024
+DUP 2.00OLD 650  3167295  3166646  650  6885  6885 
+ 650 ---------------
+ 2.00NEW 650  3167295  3166646  650  22627  22627 
+ 650 ---------------
+TN5243 0051033
+MEENA JAIN 28/05/2024
+DUP 2.00OLD 50  2828930  2828881  50  6160  6160 
+ 50 ---------------
+ 2.00NEW 50  2828930  2828881  50  22628  22628 
+ 50 ---------------
+TN5244 0083167
+JASWINDER KAUR 28/05/2024
+DUP 2.00OLD 4000  6031155  6027156  4000  11119  11119 
+ 4000 ---------------
+ 2.00NEW 4000  6031155  6027156  4000  22629  22629 
+ 4000 ---------------
+28/05/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        3 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                2 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 4700 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN5244TO: TN5242 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Indo Count Industries Limited
+ 3 
+ 0 
+ 0  3 
+ 3 
+28/05/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
