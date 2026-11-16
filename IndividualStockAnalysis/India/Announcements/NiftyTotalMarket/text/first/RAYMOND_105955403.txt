@@ -1,0 +1,134 @@
+ 
+ 
+RL/SE/2 4-25/116  
+ 
+August  14, 2024  
+ 
+To 
+The Department of Corporate Services - CRD  
+BSE Limited  
+P.J. Towers, Dalal Street  
+Mumbai - 400 001                                            
+Fax No. 022 -22721919  
+Scrip Code: 500330  
+ The National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Bandra -Kurla Complex  
+Bandra (East), Mumbai - 400 051                              
+Fax No. (022) 26598120  
+Symbol: RAYMOND  
+ 
+Dear Sir/Madam , 
+ 
+Sub: Raymond Limited: Intimation under Regulation 39(3) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)  
+ 
+Pursuant to Regulation 39(3) of Listing Regulations, please find enclosed the intimation for issuance 
+of duplicate share certificates to shareholder(s) as detailed in the “Register of New Share Certificates 
+Issued  on Duplication”.  
+ 
+Please take the above information on record.  
+ 
+Thanking you . 
+ 
+Yours faithfully , 
+For Raymond Limited  
+ 
+ 
+ 
+Rakesh Darji  
+Company Secretary  
+ 
+Encl.: a/a  
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17361TO: TN17357FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN17357 00328115
+KASTURI LAL SAWHNEY
+MOHINDER SAWHNEY
+MANMOHAN K SAWHNEY12/08/2024
+DUP 10.00OLD 200  12551830  12551631  200  3914326  3914329 
+ 200 ---------------
+ 10.00NEW 200  12551830  12551631  200  1072114  1072114  986  986 
+ 200 ---------------
+TN17358 Z0015873
+SHAILESH NATWARLAL JAISWAL
+NATWARLAL BHOGILAL JAISWAL12/08/2024
+DUP 10.00OLD 10  28632967  28632958  10  109497  109497 
+ 10.00OLD 1  7101540  7101540  1  3125419  3125419 
+ 10.00OLD 5  10563485  10563481  5  3477014  3477014 
+ 10.00OLD 6  20369005  20369000  6  3612272  3612272 
+ 10.00OLD 11  56983776  56983766  11  5234967  5234967 
+ 33 ---------------
+ 10.00NEW 1  7101540  7101540  1  1072115  1072115  987  987 
+ 10.00NEW 5  10563485  10563481  5  1072115  1072115  987  987 
+ 10.00NEW 6  20369005  20369000  6  1072115  1072115  987  987 
+ 10.00NEW 10  28632967  28632958  10  1072115  1072115  987  987 
+ 10.00NEW 11  56983776  56983766  11  1072115  1072115  987  987 
+ 33 ---------------
+TN17359 00116289
+NEENA G GOSWAMI
+GOVINDGIRI J GOSWAMI12/08/2024
+DUP 10.00OLD 5  9121075  9121071  5  3188532  3188532 
+ 10.00OLD 5  21151825  21151821  5  3647828  3647828 
+ 10 ---------------
+ 10.00NEW 5  9121075  9121071  5  1072116  1072116  988  988 
+ 10.00NEW 5  21151825  21151821  5  1072116  1072116  988  988 
+ 10 ---------------
+12/08/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17361TO: TN17357FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN17360 Z0069448
+SATISH KUMAR JAIN 12/08/2024
+DUP 10.00OLD 10  20515933  20515924  10  3619985  3619985 
+ 10.00OLD 5  58102755  58102751  5  5275301  5275301 
+ 15 ---------------
+ 10.00NEW 10  20515933  20515924  10  1072117  1072117  989  989 
+ 10.00NEW 5  58102755  58102751  5  1072117  1072117  989  989 
+ 15 ---------------
+TN17361 Z0060657
+MAHESH KUMAR MODI 12/08/2024
+DUP 10.00OLD 1  4880425  4880425  1  3506435  3506435 
+ 1 ---------------
+ 10.00NEW 1  4880425  4880425  1  1072118  1072118  990  990 
+ 1 ---------------
+12/08/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        5 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                3 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 259 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN17361TO: TN17357 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Raymond Limited
+ 11 
+ 0 
+ 0  14 
+ 14 
+12/08/2024 3 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
