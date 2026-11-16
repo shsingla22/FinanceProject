@@ -389,10 +389,20 @@ def demerger_direction(text: str, company: str | list[str]) -> tuple[str, str]:
         return "", ""
     crx = "(?:" + "|".join(parts) + ")"
     head = text[:200_000]
+    # a company's own filing also says 'the Company': shares issued BY the
+    # Company to another company's shareholders, or a business demerged
+    # INTO the Company, is inbound; the Company's business demerged into
+    # another, or the Company's shareholders receiving the other's shares,
+    # is outbound
+    self_in = (r"(?:issue|allot)\w*\s+(?:and\s+allot\w*\s+)?(?:of\s+)?(?:equity\s+)?shares\s+by\s+the\s+Company\s+to\s+the\s+(?:equity\s+)?shareholders\s+of\s+(?!the\s+Company)|"
+               r"(?:equity\s+)?shares\s+(?:to\s+be\s+)?issued\s+by\s+the\s+Company\s+as\s+consideration|"
+               r"de-?merg\w*[^.]{0,250}?\binto\s+the\s+Company\b")
+    self_out = (r"de-?merg\w*\s+of\s+[^.]{0,200}?\bof\s+the\s+Company\s+into\b|"
+                r"shareholders\s+of\s+the\s+Company\s+(?:shall|will|would)\s+(?:be\s+)?(?:receive|be\s+issued|be\s+allotted|get)\b")
     inbound_rx = re.compile("(?:" + crx + _ROLE_TAIL % "Resulting|Transferee" + ")|(?:"
-                            r"de-?merg\w*[^.]{0,250}?\binto\s+" + crx + ")", re.I)
+                            r"de-?merg\w*[^.]{0,250}?\binto\s+" + crx + ")|(?:" + self_in + ")", re.I)
     outbound_rx = re.compile("(?:" + crx + _ROLE_TAIL % "Demerged|Transferor" + ")|(?:"
-                             r"de-?merg\w*\s+of\s+[^.]{0,200}?\bof\s+" + crx + r"\s+into\b)", re.I)
+                             r"de-?merg\w*\s+of\s+[^.]{0,200}?\bof\s+" + crx + r"\s+into\b)|(?:" + self_out + ")", re.I)
     inn = [m for m in inbound_rx.finditer(head)]
     out = [m for m in outbound_rx.finditer(head)]
     if inn and not out:
@@ -651,6 +661,12 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
             # every name the filings have used for the company (a rename
             # between filing and today: Adani Wilmar → AWL Agri Business)
             aliases = [fl[0]["company"]] + sorted({r.get("company", "") for r in fl} - {fl[0]["company"], ""})
+            # the exchange headline names the company as it was called when it
+            # filed: 'Adani Wilmar Limited has informed the Exchange …'
+            for r in filed:
+                hm = re.match(r"\s*([A-Z][\w&.,'()\- ]{3,80}?)\s+has\s+(?:informed|submitted|intimated)\b", r.get("headline", ""))
+                if hm and not _same_company(hm.group(1), fl[0]["company"]) and hm.group(1) not in aliases:
+                    aliases.append(hm.group(1))
             sought: dict[str, int] = {}
             sought_quote = ""
             for r in filed:

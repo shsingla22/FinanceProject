@@ -1253,6 +1253,23 @@ def test_sebi_listing_disclosure_aliases_and_renames_from_the_fy25_backtest():
     assert SO.judge_override({**base, "company": "Kitex Garments Ltd."}, jk)[0] == "other"
 
 
+def test_a_filing_speaking_of_the_company_and_the_headline_name_settle_direction():
+    cello = ("The Scheme provides for (a) the demerger, transfer and vesting of the Manufacturing Business of WPL into CCPPL "
+             "and issue of equity shares by the Company to the shareholders of WPL in consideration thereof; and (b) the "
+             "amalgamation of WPL with the Company. The equity shares issued by the Company as consideration for the demerger will be listed.")
+    assert SO.demerger_direction(cello, "Cello World Ltd.")[0] == "inbound"
+    out = ("The Scheme provides for the demerger of the Hotels Business of the Company into ITC Hotels Limited; the shareholders "
+           "of the Company shall receive one share of ITC Hotels for every ten held.")
+    assert SO.demerger_direction(out, "ITC Ltd.")[0] == "outbound"
+    # the headline carries the name the company filed under; the store carries today's
+    rows = [{"date": "2024-08-01", "symbol": "AWL", "company": "AWL Agri Business Ltd.", "source": "NSE", "category": "Demerger",
+             "kind": "demerger", "tags": "demerger", "headline": "Adani Wilmar Limited has informed the Exchange about Demerger",
+             "attachment": "", "ann_id": "w1", "file_size": "", "text_file": ""}]
+    awl = "Scheme between Adani Enterprises Limited (Demerged Company) and Adani Wilmar Limited (Resulting Company)."
+    s = SO.build_situations(rows, {"w1": awl}, today=dt.date(2025, 3, 31))[0]
+    assert s["facts"]["direction"] == "inbound"
+
+
 def test_register_record_date_overrides_the_filings_date_and_looks_a_little_ahead(monkeypatch):
     # ITC: the filings' words gave a June 2024 'record date' (the dividend's); the register says 2025-01-06
     row = {"date": "2024-06-01", "symbol": "ITC", "company": "ITC Ltd.", "source": "NSE", "category": "Demerger",
