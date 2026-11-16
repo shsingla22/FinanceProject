@@ -979,6 +979,8 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     judge's classification and the listing status (a backtest of the
     LIST needs no rationale, numbers or offerings)."""
     s["confidence"] = SO.confidence(s)
+    if s["kind"] == "demerger" and s["facts"].get("mature"):
+        s["family"] = f"completed spin-off — mature (record date {s['facts'].get('record_date', '')})"
     scheme = scheme_text_for(s, rows)
     calls12 = calls_text_for(s["symbol"], SO.CONCALL_MONTHS, today) if s["kind"] in SO.SPIN_KINDS else ""
     s["documents_read"] = {"filings_chars": len(scheme), "calls_12m_chars": len(calls12)}

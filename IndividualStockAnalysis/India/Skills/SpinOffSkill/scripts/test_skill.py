@@ -1330,6 +1330,35 @@ def test_register_record_date_overrides_the_filings_date_and_looks_a_little_ahea
     assert SO.set_register(p, dt.date(2025, 3, 31)) == {"SIEMENS": ["2025-04-07"]}
 
 
+def test_completed_demergers_older_than_two_years_are_mature_and_still_verified(monkeypatch):
+    row = {"date": "2026-10-01", "symbol": "SANOFI", "company": "Sanofi India Ltd.", "source": "NSE", "category": "Updates",
+           "kind": "demerger", "tags": "demerger", "headline": "Update on the demerger", "attachment": "", "ann_id": "s1",
+           "file_size": "", "text_file": ""}
+    monkeypatch.setattr(SO, "_REGISTER", {"SANOFI": ["2024-06-13"]})
+    s = SO.build_situations([row], {"s1": "the demerger of the consumer healthcare business"}, today=dt.date(2026, 11, 16))[0]
+    assert s["facts"]["mature"] and s["listed_on"] == "2024-06-13" and s["stage"] == "record_date"
+    assert SO.confidence(s)[0] == "other" and "two years" in SO.confidence(s)[1]
+    # the check: a record date older than the recall window still verifies; a mature one is captured, not missed
+    import validate_demergers as VD
+    gt = [{"date": "2024-06-13", "symbol": "SANOFI", "company": "Sanofi", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},
+          {"date": "2026-05-01", "symbol": "VEDL", "company": "Vedanta", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""}]
+    sits = [{"symbol": "ITC", "company": "ITC", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "record_date",
+             "listed_on": "2025-01-06", "facts": {"record_date": "2025-01-06"}, "judge": {"what_is_spun": "hotels"}},
+            {"symbol": "VEDL", "company": "Vedanta", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "record_date",
+             "listed_on": "2026-05-01", "facts": {}, "judge": {"what_is_spun": "power"}},
+            {**s, "confidence": ("other", "mature"), "judge": {"what_is_spun": "consumer healthcare"}}]
+    gt.append({"date": "2025-01-06", "symbol": "ITC", "company": "ITC", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""})
+    res = VD.check(sits, gt, dt.date(2026, 11, 16), equities=[], days=400)
+    assert set(res["register"]) == {"VEDL"}                                   # recall window: 400 days
+    byp = {r["symbol"]: r["verdict"] for r in res["precision"]}
+    assert byp["ITC"] == "verified by the register" and byp["VEDL"] == "verified by the register"   # ITC: older than the window, still verified
+    assert res["summary"]["false_positives"] == 0
+    res2 = VD.check(sits, gt, dt.date(2026, 11, 16), equities=[], days=960)
+    byv = {r["symbol"]: r["verdict"] for r in res2["recall"]}
+    assert byv["SANOFI"].startswith("captured (mature") and byv["ITC"] == "captured" and byv["VEDL"] == "captured"
+    assert res2["summary"]["missed"] == 0 and res2["summary"]["captured"] == 3
+
+
 def test_register_check_verifies_later_record_dates_in_a_backtest():
     import validate_demergers as VD
     gt = [{"date": "2025-04-07", "symbol": "SIEMENS", "company": "Siemens", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},

@@ -55,6 +55,7 @@ CONSTITUENTS = FA.CONSTITUENTS
 SPIN_KINDS = ("demerger", "subsidiary_listing", "scheme_other")
 OFFERING_KINDS = ("rights_issue", "preferential_issue")
 LISTING_LAG_DAYS = 30        # a record date this old means the new entity trades
+MATURE_DAYS = 730            # a demerger completed this long ago is past the notes' second year
 CONCALL_MONTHS = 12
 _MONTHS = {m: i + 1 for i, m in enumerate(
     "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split())}
@@ -728,6 +729,8 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
             stage = max(stage_dates, key=STAGE_ORDER.index)
             listed_on = (stage_dates.get("listed") or rd) if passed else None
             age_listed = (today - dt.date.fromisoformat(listed_on)).days if listed_on else None
+            if passed and (today - dt.date.fromisoformat(rd)).days > MATURE_DAYS:
+                facts["mature"] = True             # completed more than two years ago: past the notes' window
         if kind == "demerger" and listed_on and stage in ("record_date", "listed") and reg \
                 and sym not in reg and age_listed is not None and age_listed > LISTING_LAG_DAYS:
             facts["register_note"] = (f"NSE's corporate-actions register has no demerger record date for {sym}; "
@@ -1170,6 +1173,9 @@ def confidence(sit: dict) -> tuple[str, str]:
     verification or calls alone."""
     if sit["facts"].get("is_the_spin") and sit.get("confidence"):
         return sit["confidence"]                      # set by spin_identity
+    if sit["kind"] == "demerger" and sit["facts"].get("mature"):
+        return "other", (f"completed demerger — record date {sit['facts'].get('record_date', '')} (NSE register), "
+                         f"more than two years ago; past the notes' second year")
     if sit["stage"] == "indicated_on_calls":
         return "indicated", "management spoke of it on the calls; nothing filed yet"
     if sit["facts"].get("news_only") or sit["stage"] == "rumoured":

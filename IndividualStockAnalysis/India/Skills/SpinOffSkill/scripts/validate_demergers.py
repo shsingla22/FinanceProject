@@ -108,7 +108,10 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
     # weeks ahead (the file lists them as soon as they are fixed), and — when
     # the register runs past the as-of date, as it does in a backtest — a
     # record date that came later verifies a 'pending' confirmed demerger
-    ahead = register_demergers(gt, (window[0], (today + dt.timedelta(days=90)).isoformat())) if window else reg
+    # precision looks at the WHOLE register up to the as-of date plus the
+    # weeks ahead: a record date older than the recall window still verifies
+    # a claim (a completed demerger the filings still carry)
+    ahead = register_demergers(gt, ("0001-01-01", (today + dt.timedelta(days=90)).isoformat()))
     later = register_demergers(gt, (today.isoformat(), "9999-12-31")) if window else {}
     equities = listed_equities() if equities is None else equities
     by_sym: dict[str, list[dict]] = {}
@@ -120,7 +123,10 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
         sits = by_sym.get(sym, [])
         spin = [s for s in sits if s["kind"] in SPIN]
         dem = [s for s in spin if s["kind"] == "demerger" and s["confidence"][0] in ("confirmed", "probable")]
-        verdict = ("captured" if dem else "captured as scheme/listing only" if spin
+        mature = [s for s in sits if s["kind"] == "demerger" and s.get("facts", {}).get("mature")]
+        verdict = ("captured" if dem else
+                   "captured (mature — completed more than two years before the run)" if mature else
+                   "captured as scheme/listing only" if spin
                    else "held as other restructuring only" if sits else "MISSING")
         resulting = next((s["facts"].get("resulting_company", "") for s in dem if s["facts"].get("resulting_company")), "")
         arrived = arrivals_for(d["dates"], d["company"], resulting, equities)
@@ -131,7 +137,7 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
                "resulting_company_read": resulting,
                "resulting_company_listed": ", ".join(arrived[:4]), "verdict": verdict}
         recall_rows.append(row)
-        if verdict != "captured":
+        if not verdict.startswith("captured"):
             misses.append(row)
 
     precision_rows, false_pos, pending = [], [], []
