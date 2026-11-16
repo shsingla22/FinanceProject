@@ -1,0 +1,81 @@
+ 
+Classification: Internal Contains PII: No 
+ 
+ 
+ 
+November 12, 2024 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Update to the Investor Day 2024  
+In addition to the Investor Presentation filed on November 08, 2024, we have enclosed herewith 
+the Business updates of the Investor Day 2024 for your reference. 
+ 
+This presentation is also made available on website of the company i.e., 
+https://www.latentview.com/. 
+ 
+ 
+This is for your information and records.  
+Thanking you. 
+ 
+For Latent View Analytics Limited  
+ 
+ 
+  
+  P. Srinivasan 
+  Company Secretary and Compliance Officer  
+ 
+ 
+B U S I N E S S    H I G H L I G H T S
+FY25 Update & 
+Business Outlook
+Rajan Venkatesan
+Chief Financial OfficerRajan Sethuraman
+Chief Executive Officer
+LatentView Analytics LatentView Analytics
+
+Agenda
+•Market outlook
+•LatentView’s  Journey So Far
+•Latentview’s  Growth Strategy
+Market Outlook
+
+We still foresee data, analytics & AI services market to grow up to 
+$165 Bn by 2026
+•Approx. 40-45% of services is outsourced and there is scope for further penetration.
+•India is the top outsourcing destination for analytics with a market share of 45%  in the workforce of the 3rd party service providers .Source: Lincoln International
+Values in US$ billions
+020406080100120140160180
+2020 2021 2022 2023 2024 2025 2026 (Forecast)Market Size
+AI-led Analytics powering Today’s Digital World
+Traditional Analytics
+ Technologies acting as Catalysts
+ AI-led Analytics
+Problem: Limited to a specific user 
+requirementProblem :  Exploratory analysis without any 
+user inputs
+Input Data : Structured form Input Data: Large, complex, unstructured 
+datasets 
+Output Data : Predominantly static 
+dashboards & basic visualizationsOutput Data: Comprehensive, interactive 
+visualizations, natural
+language explanations
+Data and analytics will become the centerpiece of enterprise strategy, focus and investment2010 to 2018 2018 to 2020 2020 onwards
+AI/MLCloud ComputingData Pipelines
+Automation NLPData 
+Orchestration
+Data Lakes/
+WarehousesKnowledge 
+Discovery ToolsInternet Of 
+Things
+Source: Avendus

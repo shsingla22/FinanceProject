@@ -1,0 +1,163 @@
+ 
+  
+ 
+ 
+ 
+ 
+ 
+November  12, 2024  
+ 
+The Manager  - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager  - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+   
+The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  
+ 
+Dear Sir/Madam,   
+ 
+Sub: Press Release  
+ 
+Please find attached herewith copy of the Press Release which is being released today.  
+ 
+Thanking you,  
+ 
+For Wipro Limited  
+ 
+ 
+ 
+ 
+M Sanaulla Khan  
+Company Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+Wipro  and FORVIA  transform  Advanced Driver Assistance Systems 
+(ADAS) applications  
+ 
+Wipro Engineering Edge’s Cloud Car Solution will contribute to enhanc ing FORVIA’s vehicle 
+safety applications  
+  
+PARIS | BENGALURU, India – Nov. 12, 2024 : Wipro Limited (NYSE: WIT, BSE: 507685, 
+NSE: WIPRO), a leading technology services and consulting company, has worked with 
+FORVIA (FRVIA), the world’s seventh -largest automotive technology supplier, for the 
+optimization of FORVIA’s Advanced Driver Assistance Systems (ADAS) application set.  
+  
+FORVIA used Wipro Engineering Edge’s Cloud Car’s building blocks , namely  Microservices 
+and vehicle container architecture components , to enha nce its vehicle safety and comfort 
+applications.  
+  
+FORVIA’s ADAS applications are now mostly independent of hardware, lower in maintenance 
+costs, and continuously integrated into Original Equipment Manufacturers ’(OEM) value chains 
+thanks to the underlying cloud native architecture . 
+  
+The project notably involved FORVIA's innovative surround -view technology which combines 
+exterior camera views into an immersive 3D perspective that helps drivers park their vehicles 
+safely and easily.    
+ 
+All functions of FORVIA’s ADAS applications set have now been brought into a loosely 
+connected, service -oriented microservice architecture. This update led to significantly lower 
+software development lifecycle (SDLC) costs and FORVIA can now market its ADAS features 
+and functions separately as well as combine them easily with ADAS functions from a customer 
+or 3rd part y. 
+  
+Graziella Neuvéglise, Regional Head & Managing Director, Southern Europe, Wipro 
+Limited said, “We’re very pleased with the outcome of this work for FORVIA. This project 
+shows our strong and diverse skills in the Software Defined Vehicle area, working with 
+automotive leaders to boost their growth and rethink safety and entertainment features using 
+cloud -native engineering principles. We’re excited to k eep working with FORVIA to help them 
+achieve their ambitions.’  
+   
+Vanessa Picron, Electronics Europe Division V ice President  at FORVIA said,  “Within the 
+software transformation of the automotive industry, moving to microservices & container 
+architecture is a key lever to bring more competitive, easier to integrate functions to our 
+customers and extend our business with new software -only solutions, including on safety 
+relevant features. This successful cooperation with W ipro is the convergence of a joint vision 
+and complementary skills.”  
+ 
+ 
+ 
+ 
+
+ 
+  
+ About Wipro Limited  
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and 
+consulting company focused on building innovative solutions that address clients’ most 
+complex digital transformation needs. Leveraging our holistic portfolio of capabilities in 
+consulting, design, engineering, and operations, we help clients realize their boldest ambitions 
+and build future -ready, sustainable businesses. With over 2 30,000 employees and business 
+partners across 65 countries, we deliver on the promise of helping our customers, colleagues, 
+and communities thrive in an ever -changing world. For additional information, visit us at 
+www.wipro.com . 
+ 
+About FORVIA  
+FORVIA,  a leading global automotive technology supplier, comprises the complementary 
+technology and industrial strengths of Faurecia and HELLA. With around 260 industrial sites 
+and 78 R&D centers, over 150,000 people, including more than 15,000 R&D engineers across 
+40+ coun tries, FORVIA provides a unique and comprehensive approach to the automotive 
+challenges of today and tomorrow. Composed of 6 business groups and a strong IP portfolio 
+of over 13,000 patents, FORVIA is focused on becoming the preferred inn ovation and 
+integration partner for OEMs worldwide. In 2023, the Group achieved a consolidated revenue 
+of 27.25 billion euros. FORVIA SE is listed on the Euronext Paris market under the FRVIA 
+mnemonic code and is a component of the CAC Next 20 and CAC SBT 1.5° indices. FORVIA 
+aims to be a change maker committed to foreseeing and making the mobility transformation 
+happen. www.forvia.com . 
+ 
+Wipro M edia Contact:  
+Wipro media relations  
+media -relations@wipro.com  
+ 
+FORVIA Media Relations : 
+iria.montouto@forvia.com  / christophe.malbranque@forvia.com   
+ 
+Forward -Looking Statements  
+The forward -looking statements contained herein represent Wipro’s beliefs regarding future events, 
+many of which are by their nature, inherently uncertain and outside Wipro’s control. Such statements 
+include, but are not limited to, statements regarding Wi pro’s growth prospects, its future financial 
+operating results, and its plans, expectations and intentions. Wipro cautions readers that the forward -
+looking statements contained herein are subject to risks and uncertainties that could cause actual 
+results t o differ materially from the results anticipated by such statements. Such risks and uncertainties 
+include, but are not limited to, risks and uncertainties regarding fluctuations in our earnings, revenue 
+and profits, our ability to generate and manage growt h, complete proposed corporate actions, intense 
+competition in IT services, our ability to maintain our cost advantage, wage increases in India, our ability 
+to attract and retain highly skilled professionals, time and cost overruns on fixed -price, fixed -time frame 
+contracts, client concentration, restrictions on immigration, our ability to manage our international 
+operations, reduced demand for technology in our key focus areas, disruptions in telecommunication 
+networks, our ability to successfully complete  and integrate potential acquisitions, liability for damages 
+on our service contracts, the success of the companies in which we make strategic investments, 
+withdrawal of fiscal governmental incentives, political instability, war, legal restrictions on rais ing capital 
+or acquiring companies outside India, unauthorized use of our intellectual property and general 
+economic conditions affecting our business and industry.  
+ 
+Additional risks that could affect our future operating results are more fully described in our filings with 
+the United States Securities and Exchange Commission, including, but not limited to, Annual Reports 
+on Form 20 -F. These filings are available at www.sec.gov . We may, from time to time, make additional 
+written and oral forward -looking statements, including statements contained in the company’s filings 
+with the Securities and Exchange Commission and our reports to shareholders. We do not undertake 
+to update any f orward -looking statement that may be made from time to time by us or on our behalf.  
+ 
