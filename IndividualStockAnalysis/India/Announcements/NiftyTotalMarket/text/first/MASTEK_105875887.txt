@@ -1,0 +1,111 @@
+ 
+Mastek Limited  
+804/805, President House, Opp. C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad –  380 006  
+Tel: +91 -79-2656 -4337 | Email: info@mastek.com  | Web: www.mastek.com  | CIN: L74140GJ1982PLC005215   
+ 
+ 
+SEC/ 26/2024- 25                                                                                                        June 6, 2024  
+  
+ 
+Listing Department  
+BSE Limited  
+25th Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort,  
+Mumbai -400 001 
+SCRIP CODE: 523704  Listing Department  
+The National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G, 
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051 
+SYMBOL: MASTEK  
+ISIN: INE759A01021  
+ 
+Dear  Sir(s)/Ma’am(s),  
+ Sub: Press Release  
+ Ref: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 
+2015. 
+ 
+Please find enclosed herewith a Press Release titled “Mastek to Boost CX  (Customer Experience)  
+Management for Manufacturing, Healthcare, Banking, Financial Services and Insurance  (BFSI)  
+Sector  with  NVIDIA AI Enterprise ”, which is  being issued by the Company .  
+ 
+The same is also uploaded on the Company's website at  www.mastek.com .  
+ You are requested to take the same on record.  
+ 
+Thanking you,   Yours faithfully,  
+For Mastek Limited  
+    
+Dinesh Kalani  
+SVP – Group Company Secretary  
+ Encl: AA  
+
+ 
+ 
+Mastek to Boost CX (Customer Experience)  Management for Manufacturing, 
+Healthcare, Banking, Financial Services and Insurance  (BFSI)  Sector  with  NVIDIA AI 
+Enterpris e  
+ 
+Mastek’s Next -Gen Solution Reduced Customer Response Time from a 3 -to-7-Days Range to a Second  
+ 
+New York, US 6th June, 2024 - Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering and 
+cloud transformation partner, today a nnounced it is advancing its icxPro  platform with NVIDIA accelerated 
+computing. Offering the next generation of customer experience (CX) solutions powered by a rtificial 
+intelligence (AI), icx Pro has demonstrated a 20% return on capital employed (ROCE) in the Manufacturing 
+sector, with massive potential in the BFSI and H ealthcare sectors. The launch  of icxPro marks a significant 
+stride in Mastek’s non -linear growth strategy.  
+ 
+Mastek's icxPro , a cloud -native platform designed for building scalable AI applications, will help 
+streamline the development of domain -specific AI applications using the full -stack NVIDIA accelerated 
+computing platform, which includes NVIDIA NIM microservices, part of the NVIDIA AI Enterprise  software 
+platform. Running on NVIDIA A100 Tensor Core GPUs , Mastek’s icxPro will enable businesses to achieve 
+faster time to market and unlock significant business value. The key solutions this platform will bring to the Manufacturing, Healthcare, and BFSI sectors are:  
+ 
+● Superior CX management: IcxPro,  an end -to-end, cloud -native platform, seamlessly integrates 
+with the NVIDIA AI stack, enabling the development of production -grade generative AI 
+applications for superior CX management.  
+● Faster Time to Market:  Mastek's platform simplifies AI integration, accelerating the development 
+of domain -specific solutions for Healthcare, Manufacturing, Retail, and BFSI.  
+● Enhanced Customer Engagement:  Businesses can leverage AI to gain deeper customer insights, 
+personalize interactions, and automate tasks across various channels, resulting in a more 
+seamless and engaging customer experience.  
+ 
+“We are excited to collaborate with NVIDIA to roll out business solutions in machine parts, intelligent fraud 
+management and intelligent supply chain for Manufacturing, BFSI and H ealthcare,”  said Ritwik Batabyal,  
+CTO & Innovation Officer at Mastek.  “icxPro, built on the full- stack NVIDIA accelerated computing 
+platform, simplifies the integration process and eliminates technical complexities, allowing businesses to 
+focus on innovation and driving real business outcomes.”  
+ "Enterprises across industries face significant challenges in deploying scalable AI solutions that enhance 
+customer experience and streamline operations,"  said John Fanelli, Vice P resident of Enterprise Software 
+at NVIDIA . "By integrating NVIDIA NIM and other NVIDIA AI Enterprise software, developers using Mastek 
+icxPro have a powerful, cloud-native solution that accelerates AI deployment and drives real business 
+outcomes."  
+ Proven Success and Scalability:  
+ 
+Mastek's icxPro -enabled productized solutions, powered by NVIDIA AI, has a servic eable obtainable 
+market in the M anufacturing and BFSI sectors, with strong return on capital employed (R OCE) exceeding 
+20%. Mastek’s icx Pro was recently implemented at Fortive (in the client’s Business Plan-driven solution 
+ 
+ 
+exercise with Digital Hack 2023 ), an American industrial technology conglomerate significantly reducing 
+its customer response time from a 3 -to-7-days range to a second. Mastek’s generative AI -backed insight 
+engine transformed processed data and provided real -time updates on the availabili ty of obsolete spare 
+parts.  
+ 
+Mastek aims to build upon this success and scale the platform to empower businesses across diverse 
+industries. icxPro (part of Mastek iConniX GenAI portfolio) will lead to long term sustainability for 
+businesses.  
+ 
+ 
+About Mastek  
+ Mastek  is an enterprise digital and cloud transformation partner that engineers excellence for customers 
+in industries such as healthcare and life sciences, retail and consumer, manufacturing, financial services, 
+and the public sector, across 40 countries, inclu ding the UK, US, Europe, the Middle East, and Asia Pacific. 
+Mastek helps enterprises decomplex digital and delivers business outcomes with trust, value, and velocity 
+across the spectrum of services including digital experience and engineering, cloud implem entations, 
+data, automation and AI, and cloud managed services . Mastek recently launched its GenAI enabled 
+portfolio iConniX  that offers over 120 AI assets, 4 AI platforms, and solution blueprints tailored to meet 
+indus try specific business use cases . A preferred Oracle, Salesforce, Microsoft, AWS, and Snowflake 
+partner, Mastek has 6000+ employees and delivers right -fit solutions to both medium businesses and 
+global Fortune 1000 clients.   
+ 
+ 

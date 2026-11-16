@@ -1,0 +1,79 @@
+Secretarial Section  
+Head Office, 57 - V.E. Road,  
+Thoothukudi – 628 002.  
+☏: 0461 -2325136  
+e-mail  : secretarial@tmbank.in  
+CIN: L651 10TN1921PLC001908   
+ 
+Ref.No.TMB.SE. 61/2024-25            
+                               26.06.2024   
+The Manager,  
+National Stock Exchange of India Ltd,  
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+'G' Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai - 400 051.  The Manager,  
+Bombay Stock Exchange limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street.  
+Mumbai – 400 001.  
+ 
+Ref: Symbol: TMB / Scrip Code: 543596  
+ 
+Dear Sir/Madam,  
+Sub: Intimat ion regarding loss of share certificate s 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, this is to inform you that, our Bank has received intimation from our 
+Registrar and Share Transfer Agent (“RTA”), M/s.  Link Intime  India Private Limited (enclosed 
+herewith) on  26.06.2024 , regardi ng loss of share certificate/s from our shareholder/s , for 
+issue of duplicate share certificate(s) in lieu thereof . The details  are given below:  
+ 
+Name of the Shareholder  Folio 
+No. Certificate  
+No. No of 
+Shares  Distinctive Nos.  
+From  To 
+DIVESH KUMAR 
+AGARWAL  35426  17173  5 86087  86091  
+19051  1 85072  85072  
+38485  1 139618  139618  
+  
+The claim for issue of duplicate share certificate will be considered by the  Committee of 
+Executives, subject to receipt of requisite  documents from the shareholder, which needs to 
+be in order and only after compliance of all the regulatory  formalities.   
+ 
+Kindly take the same on record .  
+ 
+Yours faithfully,  
+For Tamilnad Mercantile Bank Limited  
+ 
+Swapnil Yelgaonkar        
+Company Secretary & Compliance Officer  
+Membership No: ACS 21877  
+
+FROM TO
+26/06/2024 17173 
+26/06/2024 19051 
+26/06/2024 38485 STOP 
+TRAN NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   Tamilnad Mercantile Bank Limited
+STOP TRANSFER REGISTER AS ON 26/06/2024
+From: 26/06/2024 To: 26/06/2024
+---------------------------------------------------------------------------------------------------------------------------
+DISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+---------------------------------------------------------------------------------------------------------------------------
+ST801569 35426 DIVESH KUMAR 
+AGARWAL17173 86087 86091 5 Lost By 
+Holder
+1 Lost By 
+Holder
+ST801571 35426 DIVESH KUMAR 
+AGARWAL38485 139618 139618 1 Lost By 
+HolderST801570 35426 DIVESH KUMAR 
+AGARWAL19051 85072 85072 
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 7 
+---------------------------------------------------------------------------------------------------------------------------

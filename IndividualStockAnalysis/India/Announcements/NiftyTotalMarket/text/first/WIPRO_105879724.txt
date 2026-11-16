@@ -1,0 +1,142 @@
+ 
+ 
+Internal to Wipro  
+  
+ 
+ 
+June 11, 2024  
+ The Manager - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+  
+The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  
+ Dear Sir/Madam,  
+ 
+Sub: Press Release  
+ 
+Please find attached herewith copy of the Press Release which is being released today.  
+ Thanking you,  
+ 
+For Wipro Limited  
+ 
+ 
+ 
+ 
+G Kothandaraman  
+General Manager - Finance 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ Wipro Introduces the Lab45 AI Platform Designed to Increase 
+Efficiencies and Transform Business Functions      
+    
+The SaaS -based platform accelerates adoption of GenAI, boosts efficiency and 
+productivity across all business functions   
+    
+EAST BRUNSWICK, N.J. | BENGALURU, India – June 11, 2024 : Wipro (NYSE: WIT, BSE: 
+507685, NSE: WIPRO), a leading technology services and consulting company, today announced 
+the launch of the Lab45 Artificial Intelligence (AI) Platform , which leverages Generative AI (GenAI) 
+machine learning (ML), and deep learning technologies to enable companies to realize enhanced 
+efficiencies, transform business functions, and enable industry -specific solutions. Lab45  is 
+Wipro’s Innovation Lab and the Lab45 AI platform is available to all Wipro employees and clients.     
+    
+The Lab45 AI Platform runs on a SaaS (Software- as-a-Service) model and supports various state-
+of-the-art Large Language Models (LLM’s) from leading providers as well as custom deep -
+learning and other models.  The platform allows for seamless integration of  language and visual 
+processing for generating images from text prompts, as well as the ability to index, parse, and 
+summarize content.    
+  
+With over 1, 000 GenAI agents and more than 10 GenAI applications, the platform offers no code 
+and low code pre- built applications for HR, sales, marketing, and operations functions, while also 
+allowing for the easy creation of industry specific GenAI agents and applic ations.     
+  
+“Our Lab45 AI Platform is a testament to Wipro's commitment to innovation and productivity,” said 
+Subha Tatavarti, Chief Technology Officer, Wipro Limited . “We are excited about the 
+transformative impact this platform will have across the business, particularly in HR, sales, 
+marketing, and other business functions. Our platform will help our customers innovate faster 
+while balancing privacy and responsible AI."     
+    
+With API -based access for custom applications, the platform makes it easier for clients to deploy 
+GenAI to their environments. In fact, Topcoder , a Wipro platform connecting customers to its 2-
+million -member global talent network, has been using Lab45 AI Platform’s APIs (application 
+programming interfaces) since October 2023, resulting in a seven -fold increase in GenAI usage. 
+   
+  
+Further, over the past six months, select Wipro teams and external users have been using the 
+platform and realizing significant time savings and productivity gains.      
+   
+For example, in human resources (HR), the platform has reduced the time it takes to read and 
+interpret specific clauses from large voluminous contracts to minutes from hours, enabling 
+significant improvement in turnaround time and accuracy in the backgroun d verification process. 
+
+ 
+ In sales, the platform has enabled better and faster sales and revenue generation, forecasting, 
+sales analysis, and report generation via a combination of well -known LLM ’s (Large Language 
+Model s) combined with custom deep learning models from Lab45. In marketing, the platform has 
+been instrumental in website analysis and lead generation, saving teams considerable time and 
+effort. In quality engineering and testing, recent proof of concepts (POCs) f or Wipro customers in 
+banking, pharmaceutical, telecommunication and other industries globally have shown anywhere 
+from 20  to 30 percent improvements across test case, test script, and test result analytics.     
+    
+Commenting on the benefits of the platform Shikhar Ghosh, Professor at Harvard Business 
+School (HBS) , which was an early user of the platform for their MBA (Master of Business 
+Administration) curriculum, said, "We have used the Lab45 AI Platform to teach HBS MBA 
+students about advanced applications of GenAI for Business and Society. We are exploring 
+several other advanced use cases as well."   
+ 
+About Wipro Limited  
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting 
+company focused on building innovative solutions that address clients’ most complex digital transformation 
+needs. Leveraging our holistic portfolio of capabi lities in consulting, design, engineering, and operations, 
+we help clients realize their boldest ambitions and build future- ready, sustainable businesses. With over 
+230,000 employees and business partners across 65 countries, we deliver on the promise of helping our 
+customers, colleagues, and communities thrive in an ever -changing world. For additional information, visit 
+us at www.wipro.com . 
+ 
+Media Contact:  
+Wipro Media Relations  
+media -relations@wipro.com   
+ 
+Forward -Looking Statements  
+The forward- looking statements contained herein represent Wipro’s beliefs regarding future events, many 
+of which are by their nature, inherently uncertain and outside Wipro’s control. Such statements include, but 
+are not limited to, statements regarding Wi pro’s growth prospects, its future financial operating results, and 
+its plans, expectations and intentions. Wipro cautions readers that the forward- looking statements 
+contained herein are subject to risks and uncertainties that could cause actual results t o differ materially 
+from the results anticipated by such statements. Such risks and uncertainties include, but are not limited to, risks and uncertainties regarding fluctuations in our earnings, revenue and profits, our ability to generate 
+and manage growt h, complete proposed corporate actions, intense competition in IT services, our ability to 
+maintain our cost advantage, wage increases in India, our ability to attract and retain highly skilled 
+professionals, time and cost overruns on fixed- price, fixed- time frame contracts, client concentration, 
+restrictions on immigration, our ability to manage our international operations, reduced demand for 
+technology in our key focus areas, disruptions in telecommunication networks, our ability to successfully 
+complete and integrate potential acquisitions, liability for damages on our service contracts, the success of 
+the companies in which we make strategic investments, withdrawal of fiscal governmental incentives, 
+political instability, war, legal restrictions on rais ing capital or acquiring companies outside India, 
+unauthorized use of our intellectual property and general economic conditions affecting our business and industry.  
+ Additional risks that could affect our future operating results are more fully described in our filings with the 
+United States Securities and Exchange Commission, including, but not limited to, Annual Reports on Form 
+20-F. These filings are available at 
+www.sec.gov . We may, from time to time, make additional written and 
+oral forward- looking statements, including statements contained in the company’s filings with the Securities 
+and Exchange Commission and our reports to shareholders. We do not undertake to update any  forward-
+looking statement that may be made from time to time by us or on our behalf.  
+ 

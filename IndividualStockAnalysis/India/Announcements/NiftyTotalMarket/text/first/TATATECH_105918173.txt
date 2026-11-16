@@ -1,0 +1,244 @@
+ 
+ 
+ 
+Tata Technologies Limited  
+Plot No 25, Rajiv Gandhi Infotech Park | Hinjawadi, Pune 411057 | India 
+Tel: +91 20 6652 9090 | Fax: +91 20 6652 9035 
+CIN L72200PN1994PLC013313  
+Email: investor@tatatechnologies.com  
+Website: www.tatatechnologies.com 
+Ref. No.: TTL/COSEC/SE/2024-25/38 
+ 
+July 18, 2024      
+ 
+  
+ 
+ 
+ 
+ 
+Dear Sir / Madam, 
+ 
+Subject: Press Release- Tata Technologies part ners with Arm to drive innovation in software-
+defined vehicles (SDVs)  
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, enclosed herewith is a press release on the captioned subject, the content of which is self-
+explanatory.  
+ 
+This is for the information of the Exchange and the members.  
+ 
+Thanking you. 
+ For Tata Technologies Limited 
+ 
+ 
+________________________  
+Vikrant Gandhe 
+Company Secretary 
+ 
+Encl: as attached 
+ BSE Limited                                  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai- 400001, India 
+Scrip Code: 544028 National Stock Exchange  of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051, India 
+Trading symbol: TATATECH 
+ 
+© Copyright 202 4 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners.  
+ 
+Classification:  Public  
+  
+ 
+ | 1 
+  
+Tata Technologies partners with Arm to drive innovation in software -defined vehicles 
+(SDVs)  
+ 
+ 
+ 
+• Tata Technologies has signed a Memorandum of Understanding (MoU) with Arm to develop  
+automotive software and systems solutions for software- defined vehicles (SDVs). 
+• Tata Technologies will work with Arm to enable its software solutions on the Arm Automotive  
+Enhanced (AE) portfolio, including Arm Compute Subsystems (CSS) for Automotive, to 
+accelerate the development timelines of high -performance vehicle comput ing systems. 
+• Both companies will work together to develop a wide range of solutions across areas, suc h 
+as software platforms leveraging SOAFEE reference architecture virtual platforms and demonstrating a chip -to-cloud software stack for SDVs.   
+ 
+Pune, Mumbai, Bengaluru, Chennai, Delhi, Kolkata, Kochi, India, 18th July 2024: Tata Technologies, a 
+leading global engineering and product development digital services company, has announced a 
+strategic partnership with Arm aimed at driving innovation in software -defined vehicles (SDVs). 
+Combining Tata Technologies' rich automotive domain expertise and software capabilities with 
+high-performance, power- efficient Arm® Automotive Enhanced (AE) technologies, this 
+partnership strives to reduce the development time of SDVs for automotive OEMs.  
+ 
+The automotive industry is transforming  towards SDVs, driven by the growing demand for 
+connected, autonomous, and electric vehicles. The evolution of SDVs demands sophisticated 
+software seamlessly integrating with hardware to enhance functionality, safety, and user 
+experiences. As part of this strategic partnership, Tata  Technologies will develop a SOAFEE 
+reference architecture stack using the Arm AE portfolio and Arm Compute Subsystems (CSS) for 
+ Press Release  
+© Copyright 202 4 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners.  
+ 
+Classification:  Public  
+  
+ 
+ | 2 
+Automotive, along with enabling a cloud -native development framework integrating a variety of 
+DevSecOps and virtual platform so lutions to shift- left the development of SDVs, accelerating the 
+time to market for automakers.  
+ This partnership builds on the momentum from CES 2024 and Mobile World Congress 2024, 
+where Tata Technologies and Arm jointly demonstrated a cloud -native reference software 
+architecture for SDVs on Arm SoCs. These  solutions  were presented  at Embedded World 2024 on 
+the newly launched Arm Cortex®- A720AE in a virtualised  environment, realising a shift -left 
+strategy for safety -critical vehicle software running on heterogeneous computing systems.  
+ 
+Speaking on the partnership, Warren Harris, CEO & Managing Director of Tata Technologies , 
+said, “We are excited about this collaboration with Arm, which underscores Tata Technologies’ 
+commitment to engineering a better worl d by enabling the automotive industry to realise 
+connected , autonomous and sustainable products  that deliver great customer experience. As a 
+strategic partner of  Arm, we are developing innovative solutions leveraging their advanced Arm 
+AE technology, and we expect this collaboration to deliver significant time- to-market benefits for 
+the whole automotive industry. We are optimistic about the future of our partnership and the 
+transformative impact it will have on shaping the future of mobility."  
+ 
+Dipti Vachani, senior vice president and general manager, Automotive Line of Business, Arm,  
+commented on the collaboration: “Vehicle electronics are becoming increasingly complex with 
+the need for more AI and software to improve user experiences and a dvance autonomy. This 
+partnership combines the high -performance, power- efficient and functional safety leadership of 
+the Arm AE technology platform and the time- to-market advantages of our CSS for Automotive 
+with the automotive software expertise from Tata  Technologies to empower our mutual 
+customers to accelerate the development of AI -enabled vehicles.”  
+ 
+The collaboration signals a promising future in developing and deploying cloud -native solutions 
+for future next -gen vehicles. With 25 years of expertise i n product engineering and digital 
+services, along with a proven track record in delivering engineering solutions to the automotive 
+industry, Tata Technologies is well -positioned to meet the needs of SDVs. Moreover, it will enable 
+rapid prototyping, testing, and deployment of SDV technologies, unlocking new opportunities for 
+developers and accelerating the time to market for leading OEMs.  
+ 
+ENDS  
+ 
+About Tata Technologies:  
+Tata Technologies (BSE: 544028, NSE: TATATECH) is a global product engineering and digit al 
+services company focused on fulfilling our mission of helping the world drive, fly, build, and farm by 
+enabling our customers to realise better products and deliver better experiences. Tata 
+Technologies is the strategic engineering partner businesses tu rn to when they aspire to be better. 
+Manufacturing companies rely on us to enable them to conceptualise , develop , and realise better 
+products that are safer and cleaner, as well as  improve the quality of life for all the stakeholders, 
+helping us achieve ou r vision of #EngineeringABetterWorld. For more, visit us 
+© Copyright 202 4 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners.  
+ 
+Classification:  Public  
+  
+ 
+ | 3 
+at https://www.tatatechnologies.com  or learn more here . Follow us 
+on  Instagram , LinkedIn , Twitter, Facebook  and YouTube  for the latest updates.   
+ 
+Tata Technologies Media Contacts –  
+Priyanka Bhatia (+91 91679 31934, Priyanka.Bhatia@adfactorspr.com), 
+Parikshit Joshi (+91 98339 17030, Parikshit.Joshi@adfactorspr.com)  
+ All information is provided “as is” and without warranty or representation. This document may be shared freely, attributed, or unmodified. Arm is a registered trademark of Arm Limited (or its 
+subsidiaries). All brands or product names are the property of their respective holders. © 1995 -
+2024 Arm Group.  
+   
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+© Copyright 202 4 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners.  
+ 
+Classification:  Public  
+  
+ 
+ | 4 
+  
+टाटा टे�ोलॉजीज  और आमर् ने सॉ�वेयर -िडफाइंड  वाहनों  (SDV) में इनोवेशन   
+के िलए साझेदारी की I 
+ 
+ 
+ 
+• टाटा टे�ोलॉजीज ने सॉ�वेयर - िडफाइ�  वाहनों  (SDVs) के िलए ऑटोमोिटव  सॉ�वेयर  और िस�म  सॉ�ूशंस  
+िवकिसत  करने हेतु आमर् के साथ एक समझौता  ज्ञापन  (MoU) पर ह�ाक्षर िकया हैं। 
+• टाटा टे�ोलॉजीज, आमर् ऑटोमोिटव  ए�ांस्ड  (AE) पोटर्फोिलयो पर अपने  सॉ�वेयर  समाधान सक्षम  करने के िलए 
+आमर् के साथ काम करे गी , िजसमें  ऑटोमोिटव  के िलए आमर् कं � ू ट  सबिस��  (CSS) भी शािमल  हैं, तािक  उ�-
+प्रदशर्न  वाहन  कं � ू ि ट ं ग  िस�म  के िवकास  की समयसीमा को तेजी से पूरा िकया  जा स के ।  
+• दोनों क ं पिनयां  एक साथ िमलकर  िविभ�  क्षेत्रों में समाधान िवकिसत  करें गी , जैसे िक SOAFEE संदभर्  आ ि कर् ट े � र  
+वचुर्अल  �ेटफामर्  का लाभ उठाने  वाले सॉ�वेयर  �ेटफॉमर्  और SDV के िलए िचप-टू-�ाउड  सॉ�वेयर  �ैक 
+का उपयोग  करना।  
+ 
+पुणे, मुंबई , बेंगलुरु , चे�ई , िद�ी , कोलकाता, को�� , भारत , १८ जुलाई  २०२४ : टाटा टे�ोलॉजीज, एक प्रमुख  वैि�क  
+इंजीिनय�रंग  और उ�ाद  िवकास  िडिजटल  सेवाओं  की कं प न ी , ने सॉ�वेयर - िडफाइ�  वाहनों  (SDVs) में इनोवेशन को 
+बढ़ावा  दे ने के िलए आमर् के साथ एक रणनीितक  साझेदारी  की घोषणा  की है। टाटा टे�ोलॉजीज के समृद्ध  ऑटोमोिटव  
+डोमेन  िवशेषज्ञता और सॉ�वेयर  क्षमताओं  को उ�-प्रदशर्न , पावर-एिफिशए ं ट  आमर्® ऑटोमोिटव  ए�ांस्ड  (AE) तकनीकों  
+के साथ िमलाकर , यह साझेदारी  ऑटोमोिटव  OEMs के िलए SDVs के िवकास  समय  को कम करने का प्रयास  करे गी । 
+ 
+ऑ
+टोमोिटव  उद्योग , कने�ेड , �ाय�  और इले � �� क  वाहनों  की बढ़ती  मांग से प्रे�रत होकर , तेजी से सॉ�वेयर -िडफाइ�  
+वाहनों  (SDVs) की ओर अग्रसर  हो रहा है। SDV के िवकास  के िलए उ�त सॉ�वेयर  की आव�कता  होती है जो 
+कायर्क्षमता, सुरक्षा  और उपयोगकतार्  अनुभव  को बेहतर  बनाने  के िलए हाडर्वेयर  के साथ सहजता  से एकीक ृ त  हो। इस 
+रणनीितक  साझेदारी  के तहत, टाटा टे�ोलॉजीज आमर् AE पोटर्फोिलयो और आमर् कं � ू ट  सबिस��  (CSS) का उपयोग  
+क र के  एक SOAFEE संदभर् आ ि कर् ट े � र  �ैक िवकिसत  करे गी।  इ स के  साथ ही, यह �ाउड -नेिटव िवकास  ढांचे को सक्षम  
+ प्रेस िवज्ञ��  
+© Copyright 202 4 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners.  
+ 
+Classification:  Public  
+  
+ 
+ | 5 
+करे गी , जो िविभ�  DevSecOps और वचुर्अल  �ेटफॉमर्  समाधानों  को एकीक ृ त  करे गा , िजससे  SDVs के िवकास  को 
+प्रारंिभक  चरण में ही तेजी से पूरा िकया जा स के और वाहन िनमार्ताओं  के िलए उ�ें बाजार  में तेजी से लाया जा स के । 
+ 
+यह साझेदारी  CES 2024 और मोबाइल  व�र् कांग्रेस  2024 से प्रा� गित पर आधा�रत  है, जहां टाटा टे�ोलॉजीज और आमर् 
+ने संयु�  रूप से आमर् SoC पर SDVs के िलए �ाउड -नेिटव संदभर् सॉ�वेयर  आ ि कर् ट े � र  का प्रदशर्न  िकया था। इन 
+समाधानों  को ए�ेडेड  व�र् 2024 में नए लॉ� िकए गए आमर् कॉट�� ®-A720AE पर एक वचुर्अलाइ�  वातावरण  में 
+प्र�ुत  िकया गया, जहां सुरक्षा -मह�पूणर्  वाहन सॉ�वेयर  के िलए हेटरोजेिनयस  कं � ू ि ट ं ग  िस��  पर िश� -ले� 
+रणनीित  को साकार  िकया गया। 
+ 
+साझेदारी  पर बोलते  हुए टाटा  टे�ोलॉजीज के सीईओ  और प्रबंध  िनदेशक  वॉरे न  है�रस  ने कहा, “हम आमर् के साथ इस 
+सहयोग को लेकर  उ�ािहत  हैं, जो ऑटोमोिटव  उद्योग  को कने�ेड , �ाय�  और संधारणीय  उ�ादों  को साकार  करने में 
+सक्षम  बनाकर  एक बेहतर  दुिनया  बनाने  के िलए टाटा टे�ोलॉजीज की प्रितबद्धता  को रे खां िकत  करता  है जो बेहतरीन  
+ग्राहक अनुभव  प्रदान  करते हैं। आमर् के रणनीितक  साझेदार  के रूप में, हम उनकी  उ�त आमर् एई तकनीक  का लाभ उठाते  
+हुए अिभनव  समाधान  िवकिसत  कर रहे हैं, और हमें उ�ीद  है िक यह सहयोग  पूरे ऑटोमोिटव  उद्योग  के िलए मह�पूणर्  
+समय -बाजार  लाभ प्रदान  करे गा।  हम अपनी  साझेदारी  के भिव�  और गितशीलता  के भिव�  को आकार  दे ने पर इ स के  
+प�रवतर्नकारी प्रभाव  के बारे में आशावादी हैं।" 
+ 
+आमर्  की ऑटोमोिटव  लाइन  ऑफ  िबजनेस  की व�र� उपा�क्ष  और महाप्रबंधक , दी��  वचानी  ने सहयोग पर िट�णी  
+की: "वाहन  इले� � ॉिन�  लगातार  जिटल  होते जा रहे हैं, �ोंिक  उपयोगकतार्  अनुभव  को बेहतर  बनाने  और �ाय�ता  को 
+आगे बढ़ाने  के िलए अिधक  AI और सॉफ़्टवेयर  की आव�कता  है। यह साझेदारी  आमर् एई प्रौद्योिगकी �ेटफ़ॉमर्  के उ�-
+प्रदशर्न , ऊजार्-कु श ल  और कायार्�क  सुरक्षा  नेतृ�  और ऑटोमोिटव  के िलए हमारे  सीएसएस  के समय -से-बाज़ार  लाभों को 
+टाटा टे�ोलॉजीज़ की ऑटोमोिटव  सॉफ़्टवेयर  िवशेषज्ञता के साथ जोड़ती  है, तािक  हमारे  पार��रक  ग्राहकों  को AI-सक्षम  
+वाहनों  के िवकास  में तेज़ी लाने के िलए सश�  बनाया जा स के । " 
+ 
+यह सहयोग भिव�  की अगली  पीढ़ी के वाहनों  के िलए �ाउड -नेिटव  समाधान  िवकिसत  करने और तैनात  करने में एक 
+आशाजनक  भिव�  का स ं के त  दे ता है। उ�ाद  इंजीिनय�रंग  और िडिजटल  सेवाओं  में 25 वष� की िवशेषज्ञता के साथ-साथ 
+ऑटोमोिटव  उद्योग  को इंजीिनय�रंग  समाधान  प्रदान  करने में एक िसद्ध ट� ै क �रकॉडर्  के साथ, टाटा टे�ोलॉजीज SDV की 
+जरूरतों  को पूरा करने के िलए अ�ी  �स्थित  में है। इ स के  अलावा , यह SDV प्रौद्योिगिकयों  के तेजी से प्रोटोटाइप, परीक्षण  
+और तैनाती को सक्षम  करे गा , डेवलपसर्  के िलए नए अवसरों  को खोलेगा  और अग्रणी  OEM के िलए बाजार  में समय  को तेज 
+करे गा।  
+ समा�  
+ 
+टाटा टे�ोलॉजीज  के बारे में: 
+हम एक वैि�क  उ�ाद  इंजीिनय�रंग  और िडिजटल  सेवा कं प न ी  हैं जो अपने  ग्राहकों  को बेहतर  उ�ाद  प्रा�  करने  और बेहतर  अनुभव  
+प्रदान  करने  में सक्षम  बनाकर  दुिनया  को ड� ा इ व  करने , उड़ान  भरने, िनमार्ण  करने  और खेती  करने  में मदद  करने  के अपने  िमशन  को पूरा 
+करने पर कें ि द्र त  है। जब वे बेहतर  बनने  की आकांक्षा  रखते  हैं तो हम रणनीितक  इंजीिनय�रंग  भागीदार �वसाय  बन जाते हैं। िविनमार्ण  
+कं प ि न य ा ं  हम पर भरोसा करती  हैं तािक  हम उ�ें बेहतर  उ�ादों  की अवधारणा , िवकास  और एहसास  करने  में सक्षम  कर स कें जो 
+सुरिक्षत , ��  हों और सभी िहतधारकों  के िलए जीवन  की गुणव�ा  में सुधार करें , िजससे  हमें #EngineeringABetterWorld के  
+हमारे  उद्दे �  को प्रा�  करने  में मदद िमलती  है। अिधक  जानकारी के  िलए, https://www.tatatechnologies.com/  पर ज ा एं ।  
+नवीनतम  अपडेट  के िलए हमें इं�ाग्राम , िलंक्डइन , िट्वटर , फे स ब ु क  और यूट्यूब  पर फॉलो  करें ।  
+ 
+ 

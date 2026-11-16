@@ -1,0 +1,826 @@
+ 
+  
+ 
+ 
+ 
+ 
+ 
+July 6, 2024 
+ 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001.  
+ 
+Scrip ID: BSOFT  
+Scrip Code: 532400  
+ 
+Kind Attn: The Manager,  
+Department of Corporate Services  National Stock Exchange of India Ltd.,  
+Exchange  Plaza, C/1, G Block,  
+Bandra - Kurla Complex, Bandra (E),  
+Mumbai – 400051.  
+ 
+Symbol:  BSOFT  
+Series:  EQ 
+ 
+Kind Attn:  The Manager,  
+Listing Department  
+ 
+ 
+Subject: - Business Responsibility and Sustainability Report  (“BRSR”)  for FY 2023-24 of 
+Birlasoft Limited (“the Company”)  
+ 
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing  
+Obligations & Disclosure Requirements) Regulations 2015, we are submitting herewith the   
+Business Responsibility and Sustainability Report  of the Company  for FY 2023-24, which also 
+forms a part of the Annual Report  for FY 2023 -24, submitted to the Exchanges vide letter  
+dated July 6, 2024.  
+ 
+This is for your information and records.  
+ 
+Thanking you . 
+ 
+Yours faithfully,  
+ 
+ 
+For Birlasoft Limited   
+ 
+ 
+ 
+ 
+ 
+Sneha Padve  
+Company Secretary & Compliance Officer  
+Membership No. ACS 9678  
+ 
+ 
+Encl.: - As mentioned above.  
+ 
+ 
+
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.  Details of the listed entity:
+Sr. 
+No.Particulars Details
+1. Corporate Identity Number (CIN) of the Listed Entity L72200PN1990PLC059594
+2. Name of the Listed Entity Birlasoft Limited
+3. Year of Incorporation 28 December 1990
+4. Registered office address 35 & 36, Rajiv Gandhi Infotech Park, Phase-I, MIDC, Hinjawadi,  
+Pune-411057 , Maharashtra, India.
+5. Corporate address Assotech Business Cresterra, T ower 3, Plot No. 22, Sector 135,  
+Expressway Noida - 201301, India.
+6. E-mail contactus@birlasoft.com
+7. T elephone +91 20 66525000
+8. Website www.birlasoft.com
+9. Financial year for which reporting is being done 2023-24
+10. Name of the Stock Exchange(s) where shares are 
+listed• The National Stock Exchange of India Limited (NSE)  
+• BSE Limited
+11. Paid-up Capital ( `) 551.87 million
+12. Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR reportName: Poonam Jindgar  
+Designation: Global Head, ESG and Sustainability  
+Email Id: poonam.jindgar@birlasoft.com  
+T elephone: +91 20-66525000
+13. Reporting boundary  
+(Standalone or Consolidated basis)Standalone, unless stated in the sections of the report.
+14. Name of assurance provider Not Applicable
+15. Type of assurance obtained Not Applicable
+II.  Products/Services:
+ 16.  Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.Description of Main Activity Description of Business Activity % of Turnover of the entity
+1. Information and Communication Computer Programming, Consultancy, and 
+related activities100%
+ 17 .  Product/Services sold by the entity (accounting for 90% of the entity’s T urnover):
+Sr. 
+No.Product/Service NIC Code % of total Turnover contributed
+1. Computer programming, consultancy, and related activities 62011 100%III.  Operations:
+ 18.  Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants Number of offices Total
+National - 8 8
+International - 21 21
+ 19.  Markets Served by the entity:
+  a. Number of Locations:
+Locations Number
+National (No. of States) 5
+International (No. of Countries) 18
+  b.  What is the contribution of exports as a percentage of the total turnover of the entity?
+   Birlasoft’s export contribution was 91% of its total turnover .
+  c.  A brief on types of customers?
+   Industries that are served:
+   • Manufacturing – Help manufacturers to expedite their Industry 4.0.
+   • Energy and Utilities – Help customers in the Energy and Utilities sectors modernize processes across the value 
+chain.
+   • Life sciences – Help pharmaceutical and medical devices sector to innovate faster and deliver more effective 
+products and services.
+   • Banking, Financial Services and Insurance (BFSI) – Help BFSI sector in core system modernization, business 
+process overhaul, digital technologies, core infrastructure, data management and CRM.
+   • Communications, Media, and T echnology – Help customers become leaner , optimize processes, and streamline 
+their content value chain by providing holistic design thinking and innovative tactical solutions.
+IV.  Employees:
+ 20.  Details as at the end of Financial Year 2023-24:
+  a. Employees and Workers (including differently abled)
+Employees (including differently abled)
+Sr. 
+No.Particulars Total 
+(A)Male Female Others*
+Number 
+(B)Percentage 
+(B/A)Number 
+(C)Percentage 
+(C/A)Number 
+(D)Percentage 
+(D/A)
+1. Permanent Employees 11,332 8,504 75% 2,791 25% 37 0.33%
+2. Other than Permanent 
+Employees1,551 890 57% 410 26% 251 16%
+3. Total Employees (1+2) 12,883 9,394 73% 3,201 25% 288 2%
+   *Others here means those employees whose gender is undisclosed.
+   Note: The headcount data includes data of Birlasoft Limited’s subsidiaries.
+Annual Report  2023-24
+Statutory Reports
+114 115
+Workers (including differently abled)
+Sr. 
+No.Particulars Total (A) Male Female
+Number  
+(B)Percentage 
+(B/A)Number  
+(C)Percentage 
+(C/A)
+4. Permanent Workers Not Applicable to Birlasoft as the Company’s business is related to IT 
+service offerings to customers and the Company does not categorize 
+its workforce as workers.5. Other than Permanent Workers
+6. Total Workers (4+5)
+  b. Differently abled Employees and Workers
+Differently Abled Employees
+Sr. 
+No.Particulars Total 
+(A)Male Female Others*
+Number 
+(B)Percentage 
+(B/A)Number 
+(C)Percentage 
+(C/A)Number 
+(D)Percentage 
+(D/A)
+1. Permanent Employees 29 25 86% 4 14% 0 0%
+2. Other than Permanent 
+Employees1 0 0 0 0 1 100%
+3. Total differently abled 
+employees (1+2) 30 25 83% 4 14% 1 3%
+   * Others here means those employees whose gender is undisclosed.
+Differently Abled Workers
+Sr. 
+No.Particulars Total (A) Male Female
+Number  
+(B)Percentage 
+(B/A)Number  
+(C)Percentage 
+(C/A)
+4. Permanent Workers
+Not Applicable, the Company does not identify its workforce as 
+workers5. Other than Permanent Workers
+6. Total differently abled workers (4+5)
+ 21 .  Participation/Inclusion/Representation of Women
+Particulars Total (A) No. and percentage of Females
+No. (B) Percentage (B/A) 
+Board of Directors 7 3 43% 
+Key Management Personnel 3 2 67% 
+  Note: There have been changes in the composition of Board of Directors during the year , which are detailed in the Board’s 
+Report. The number of Directors and KMPs given above is as on March 31, 2024.
+ 22.  T urnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Particulars FY 2023-24 FY 2022-23 FY 2021-22
+Male Female Others* Total Male Female Others* Total Male Female Others* Total
+Permanent Employees 13.8% 16.2% 2. 1% 14. 1% 28.8% 30.8% 8.7% 28.6% 34.7% 37 .3% 11.4% 34.3%
+Permanent Workers Not Applicable, the Company does not identify its workforce as workers
+  * Others here means those employees whose gender is undisclosed.V.  Holding, Subsidiary and Associate Companies (including joint ventures):
+ 23.  (a)  Names of holding/subsidiary/associate companies/joint ventures
+Sr. 
+No.Name of the holding/  
+subsidiary/associate companies/
+joint ventures (A)Indicate whether 
+holding/subsidiary/ 
+associate/joint 
+venture% of shares 
+held by 
+listed entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1 Birlasoft Inc. Subsidiary 100% No
+2 Birlasoft Sdn. Bhd. Subsidiary 100% No
+3 Birlasoft Solutions Limited Subsidiary 100% No
+4 Birlasoft Solutions France Subsidiary 100% No
+5 Birlasoft Solutions Inc. Subsidiary 100% No
+6 Birlasoft Computer Corporation Subsidiary 100% No
+7 Birlasoft Solutions ME FZE Subsidiary 100% No
+8 Birlasoft (UK) Limited Subsidiary 100% No
+9 Birlasoft Solutions GmbH Subsidiary 100% No
+10 Birlasoft Solutions Mexico, S.A. DE C.V. Subsidiary 100% No
+11 Birlasoft Solutions Ltda. Subsidiary 100% No
+12 Birlasoft Consulting, Inc. Subsidiary 100% No
+13 Birlasoft T echnologies Canada 
+CorporationSubsidiary 100% No
+   Note: As on March 31, 2024, the Company has 13 subsidiaries, including step-down subsidiaries. The Company has two 
+material subsidiaries, namely, Birlasoft Solutions Inc. & Birlasoft Inc.
+VI.  CSR Details:
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+(ii) Turnover (in `) 26,445.27 million
+(iii) Net Worth (in `) 14,681.98 million
+Annual Report  2023-24
+Statutory Reports
+116 117
+VII. Transparency and Disclosures Compliances:
+ 25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct
+Stakeholder 
+Group 
+from whom 
+complaint is 
+receivedGrievance Redressal Mechanism in place 
+(Yes/No) (If Yes, then provide web-link for 
+grievance redress policy)Current Financial Year 2023-24 Previous Financial Year 2022-23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Communities Yes.
+Grievances are solved at the community level 
+through informal and participatory processes that 
+involve the affected parties and NGO program 
+managers. The dialogue is facilitated between 
+both parties to help resolve grievances quickly, 
+and amicably while preserving project objectives 
+and expected outcomes. The unresolved 
+grievances are escalated at the corporate level 
+for resolution.Nil Nil Complaints are 
+addressed on 
+spotNil Nil Complaints 
+are addressed 
+on spot
+Shareholders Yes. The Company provides adequate mechanism 
+to address the grievances of the shareholders. 
+There is a dedicated e-mail ID: grievances@
+birlasoft.com  for redressal of shareholders’ 
+grievances. For speedy redressal of grievances & 
+for other requests pertaining to share transfers, 
+correspondence relating to shares, dividend; the 
+details of Compliance Officer & the Registrar & 
+T ransfer Agent (“RTA”) are available on https://
+www.birlasoft.com/company/investors . In 
+case of further dispute against the Company 
+and/or RTA on delay or default in processing 
+shareholders’ request, the member may raise 
+grievances/complaints/disputes as per the 
+process provided on the website of Company at 
+https://www.birlasoft.com/sites/default/files/
+resources/downloads/investors/information-to-
+members-dec-2023.pdf .1 Nil All complaints 
+were 
+satisfactorily 
+resolved6 Nil All complaints  
+were resolved  
+satisfactorily
+Employees and 
+workersThe Company has adopted the Whistle 
+Blower Policy that lays down the principles 
+and standards governing the actions of the 
+Company and its employees. It encourages all 
+its stakeholders to communicate and raise any 
+behavior or practice, they may be aware of and 
+suspect to be unethical, illegal, or otherwise 
+inappropriate and harmful to the Company. 
+Birlasoft is committed to undertaking a prompt 
+examination of any concern or issue raised by 
+employee. The employee who wishes to raise a 
+concern can do so by writing to internal grievance 
+mailbox at grievanceredressal@birlasoft.com .
+Also, the employees can reach out for any 
+issues related to workplace at the email id- 
+workplacesafety@birlasoft.com9 2 The pending 
+complaints will 
+be resolved as 
+per the process4 1 All complaints  
+were resolved  
+within the  
+stipulated  
+timelinesStakeholder 
+Group 
+from whom 
+complaint is 
+receivedGrievance Redressal Mechanism in place 
+(Yes/No) (If Yes, then provide web-link for 
+grievance redress policy)Current Financial Year 2023-24 Previous Financial Year 2022-23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Customers The customer complaints are technology specific 
+and get resolved at the appropriate level through 
+the defined resolution process, at time of delivery 
+of the Services/Software before contract closure.16 0 All complaints 
+resolved13 0 All complaints 
+resolved
+Value Chain 
+PartnersBirlasoft has a Supplier Conduct Guidelines and 
+Procurement and Supplier Management Policy. 
+As per the Guidelines, suppliers may report any 
+unethical activity anonymously to the Birlasoft 
+team during the quarterly business review 
+meeting with the supplier .Nil Nil - Nil Nil -
+  The Policies are available on the website at - https://www.birlasoft.com/company/investors/policies-reports-filings .
+ 26.  Overview of the entity’s material responsible business conduct issues
+  Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format:
+Sr. 
+No.Material 
+issue 
+IdentifiedIndicate 
+whether 
+Risk or 
+Opportunity 
+(R/O)Rationale for identifying the risk/
+opportunityIn case of risk, approach to adapt or mitigate Financial Implications of the risk 
+or opportunity (Indicate positive or 
+negative implications)
+1. Data Privacy 
+and Cyber 
+SecurityRisk Risk:
+Data privacy and cybersecurity are 
+major global concerns, with legislation 
+like GDPR, CCPA, and equivalents 
+imposing severe consequences for 
+non-compliance. Ensuring data 
+privacy across the information 
+life cycle is critical. As companies 
+adopt new technologies like mobile 
+computing, IoT , and cloud computing, 
+cybersecurity becomes a crucial 
+risk, with threats including targeted 
+attacks, ransomware, malware, and 
+data leakage.The Company employs a robust information 
+security management system to mitigate data 
+privacy and cybersecurity risks. It maintains 
+governance mechanisms for regular evaluation 
+of the privacy program’s effectiveness. Cutting-
+edge data-security measures are in place, 
+including PII Repositories, Privacy Impact 
+Assessment, Incident Management Procedures, 
+Breach Notification Management, and Subject 
+Access Request Management. External 
+assessments ensure compliance with global 
+regulations, supported by ISO/IEC 27701:2019 
+certification. Periodic reviews ensure sustained 
+ISO 27001:2013 certification and external third-
+party validation of compliance with the NIST 
+Cyber Security framework.Negative:
+Any violation, non-compliance, or 
+inadequacy in privacy policies and 
+procedures can lead to potential 
+liabilities, penalties, and reputational 
+damage.
+Cyber-attacks breaching our 
+information network or failure to 
+protect sensitive information of the 
+Company’s stakeholders in line 
+with applicable laws may impact 
+our operations or incur significant 
+regulatory penalties, posing legal and 
+reputational risks for Birlasoft.
+2. Customer 
+Engagement 
+and 
+SatisfactionRisk & 
+OpportunityOpportunity:
+The Company prioritizes growth by 
+leveraging its portfolio of top multi-
+service accounts, emphasizing client 
+management, cross-selling, and 
+revenue generation through business 
+transformation. The Company ensures 
+not only sustained growth, but also 
+lasting partnerships built on trust and 
+value delivery.The Company is expanding its service technology 
+offerings to align with customer business needs, 
+fostering annuity revenue and long-term client 
+relationships. Additionally, it actively assesses 
+strategic partnerships to manage competition, 
+enhance technological capabilities, and facilitate 
+organic growth.Positive:
+The profitability of the Company is 
+significantly influenced by consumer 
+retention and happiness. Better 
+business opportunities for growth 
+and expansion can also result from 
+improved customer satisfaction.
+Annual Report  2023-24
+Statutory Reports
+118 119
+Sr. 
+No.Material 
+issue 
+IdentifiedIndicate 
+whether 
+Risk or 
+Opportunity 
+(R/O)Rationale for identifying the risk/
+opportunityIn case of risk, approach to adapt or mitigate Financial Implications of the risk 
+or opportunity (Indicate positive or 
+negative implications)
+Risk:
+The Company’s strategy is to focus on 
+a select number of industry verticals, 
+geography, customers, and offerings, 
+with a possibility of business being 
+concentrated in a particular area with 
+consequential volatility.Birlasoft employs a Voice of Customer (VOC) 
+process to gauge customer perception of its 
+deliverables and services. This process operates 
+at both the project and engagement levels, with 
+reviews conducted every six months. The goal is 
+to maintain a VOC score of 4 or higher on a scale 
+of 5, ensuring quality products and services 
+for a positive customer experience. Customer 
+feedback is collected and analyzed to identify 
+actionable insights, with progress tracked to 
+enhance VOC ratings over time.Negative: In absence of continued 
+customer service and engagement, 
+customers can lose trust in Birlasoft’s 
+reliability to provide proposed quality 
+service and will have adverse impact 
+on growth of business
+3. Talent 
+Attraction, 
+Retention 
+and 
+DevelopmentRisk &
+OpportunityRisk:
+The nature of the IT services 
+business mandates the Company to 
+recruit and retain professionals with 
+requisite skill sets, adequate to meet 
+customer demands and in alignment 
+of Company’s long-term business 
+strategy.
+Opportunity:
+Birlasoft cultivates a culture of 
+equality, self-awareness, authenticity, 
+and accountability, emphasizing 
+gender and cross-cultural diversity. 
+Through initiatives like BCares, 
+BEngaged, and STAR, the Company 
+showcases its values and culture of 
+employee care and appreciation, 
+positively impacting talent attraction 
+and retention.The Company maintains an effective talent 
+acquisition function, strategizing to attract 
+skilled professionals from diverse talent 
+pools and sources. Working closely with 
+business managers, the talent acquisition team 
+implements a rigorous selection process to 
+identify suitable candidates. Additionally, the 
+Company prioritizes learning and development, 
+providing a comprehensive training 
+infrastructure for continuous skill enhancement 
+and competency development across the 
+organisation. The Learning and Development 
+team also addresses any project-specific skilling 
+requirements as needed.
+T o mitigate risks and maintain business 
+continuity, the Company dedicates considerable 
+effort to identifying critical roles and conducting 
+succession planning. This involves a thorough 
+talent review process enabling leadership to 
+identify development areas, role enhancements, 
+and succession opportunities for key talent.Negative:
+Insufficient or inadequately skilled 
+resources, along with delays or 
+absence of necessary resources, may 
+lead to missed business opportunities 
+or customer delivery escalations.
+Positive:
+Birlasoft values and respects its 
+employees, offering fair opportunities 
+for growth and development. 
+This approach boosts creativity, 
+productivity, and overall business 
+performance. The Company also 
+focuses on nurturing long-term and 
+high-potential employees, including 
+promoting gender diversity, to prepare 
+them for senior roles.
+4. Diversity, 
+Equity, and 
+InclusionRisk & 
+OpportunityRisk:
+A lack of diversity and inclusion 
+within the organization can hinder 
+productivity and innovation, as diverse 
+teams bring varied perspectives 
+that contribute to building better 
+solutions. Moreover , insufficient 
+inclusion may impede teams’ ability 
+to respect differences and engage in 
+meaningful collaboration.
+Opportunity:
+Birlasoft has made deliberate and 
+continuous effort to create and sustain 
+a culture of equality, self-awareness, 
+authenticity, and accountability in 
+the realm of gender , cross-cultural 
+diversity, persons with disabilities and 
+LGBTQ+ inclusion.Birlasoft have a DEI charter with focus 
+on affirmative hiring, sensitization, and 
+development. T o ensure the culture of Diversity, 
+Equality, and Inclusion the Company has various 
+sensitization platforms for propagating our 
+focus on DEI and unconscious bias training with 
+a target to cover all employees by FY 2025. 
+Enhance Combined PWD+ Veterans diversity  
+to 1%.Positive:
+Birlasoft is committed to increase 
+gender diversity from 24% to 28% in 
+FY 2023-24 and 30% by FY2025.
+Birlasoft won ‘Growth Diversity Award’ 
+by Synchrony for enhancing gender 
+diversity by 5% across the year 2022-
+2023.Sr. 
+No.Material 
+issue 
+IdentifiedIndicate 
+whether 
+Risk or 
+Opportunity 
+(R/O)Rationale for identifying the risk/
+opportunityIn case of risk, approach to adapt or mitigate Financial Implications of the risk 
+or opportunity (Indicate positive or 
+negative implications)
+5. Climate 
+Change 
+and Energy 
+ManagementRisk & 
+OpportunityRisk:
+Climate change poses both physical 
+and transition risks to our industry, 
+impacting customer behavior , 
+disrupting Company operations, and 
+affecting infrastructure and supply 
+chains. These risks also extend to 
+the welfare of our staff and corporate 
+strategy. Additionally, data centers, 
+significant energy consumers and 
+carbon emitters, contribute to 
+environmental concerns. Birlasoft has 
+identified three key areas of energy 
+consumption: air conditioning (40%), 
+computers and servers (38%), and 
+utility usage (22%).
+Opportunity:
+Birlasoft continues to invest in 
+building functional capabilities 
+(Digital, Digital Analytics, Platforms, 
+etc.) in desired verticals with swiftness 
+and agility.Birlasoft has implemented several mitigation 
+strategies to address climate change and 
+energy management risks. In line with its 
+commitment to environmental sustainability, 
+the Company has introduced Electric Vehicles 
+(EVs) for its office transportation fleet to reduce 
+diesel consumption. Additionally, Birlasoft has 
+identified environment sustainability as a key 
+focus area for Corporate Social Responsibility 
+(CSR). Through Project Shodhan, a community 
+initiative, the Company aims to significantly 
+reduce pollution from crop stubble burning in 
+120 adopted villages of Punjab and Haryana 
+by 2024. Furthermore, Birlasoft is dedicated 
+to increasing its Renewable Energy (RE) share 
+in the total energy mix by adopting the Power 
+Purchase Agreement (PPA) model or sourcing 
+power from solar parks located on the outskirts 
+of its operational areas.Negative:
+Extreme weather events like cyclones, 
+heatwaves, and floods can disrupt 
+our operations, leading to increased 
+operational costs and lost business 
+opportunities. Additionally, meeting 
+environmental and CSR norms may 
+incur higher operating expenses.
+Annual Report  2023-24
+Statutory Reports
+120 121
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies, and processes put in place towards adopting the NGRBC Principles and Core 
+Elements.
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+Ethics and Integrity Sustainable 
+BusinessEmployee Well-
+beingStakeholder 
+InclusivenessHuman Rights Environment 
+SustainabilityPublic 
+AdvocacySocial 
+DevelopmentCustomer  
+Well-being
+Policy and Management Processes
+1. a. Whether your entity’s 
+policy/policies cover each 
+principle and its core 
+elements of the NGRBCs. 
+(Yes/No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+ b. Has the policy been 
+approved by the Board?  
+(Yes/No)Yes Yes* Yes* Yes Yes* Yes* Yes* Yes Yes*
+  c.  Policies covered under 
+each principle and  
+web-link of the Policies,  
+if available1. Code of Business 
+Ethics and Conduct 
+Policy
+2. Whistle Blower 
+PolicyProcurement 
+and Supplier 
+Management 
+Policy#1. Environment, 
+Occupational Health 
+and Safety (EOHS) 
+Policy
+2. Global Diversity 
+Equity and Inclusion 
+(DE&I) Policy
+3. Procurement 
+and Supplier 
+Management Policy#
+4. Grievance 
+Redressal Policy#
+5. POSH Policy
+6. Equal Opportunity 
+Employer Policy#Corporate 
+Social 
+Responsibility 
+(CSR) Policy1.POSH Policy
+2. Human 
+Rights Policy
+3. Equal 
+Opportunity 
+Employer 
+Policy#
+4. Whistle 
+Blower Policy1. Environment, 
+Occupational 
+Health and 
+Safety (EOHS) 
+Policy
+2. Energy 
+Management 
+Policy#
+3. Water 
+Management 
+Policy#
+4. Waste 
+Management 
+Policy#Code of 
+Business 
+Ethics and 
+Conduct 
+PolicyCorporate 
+Social 
+Responsibility 
+(CSR) PolicyPolicies on Intranet
+1. Cloud Security 
+Policy#
+2. Data Protection 
+Policy#
+3. Information 
+Security Policy#
+4. Privacy Policy#
+5. Information 
+Security Awareness 
+and Training Policy#
+2. Whether the entity has 
+translated the policy into 
+procedures? (Yes/No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+3. Do the enlisted policies 
+extend to your value chain 
+partners? (Yes/No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+4. Name of the national 
+and international codes/
+certifications/labels/
+standards (e.g. Forest 
+Stewardship Council, 
+Fairtrade, Rainforest Alliance, 
+T rustee) standards (e.g. SA 
+8000, OHSAS, ISO, BIS) 
+adopted by your entity and 
+mapped to each principle.ISO 14001:2015 – Environment Management System
+ISO 45001:2018 – Occupational Health and Safety Management System
+ISO 27701:2019 – Privacy Information Management System
+ISO 27001:2013 – Information Security Management System
+ISO 9001:2015 – Quality Management System
+ISO 20000:2018 – Information T echnology Service Management System
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+Ethics and Integrity Sustainable 
+BusinessEmployee Well-
+beingStakeholder 
+InclusivenessHuman Rights Environment 
+SustainabilityPublic 
+AdvocacySocial 
+DevelopmentCustomer  
+Well-being
+5. Specific commitments, goals, 
+and targets set by the entity 
+with defined timelines, if any.The Company is actively developing specific commitments, goals and targets that align with the nine principles with regards to ESG and overall business development and 
+growth. Moreover , the Company has identified the below goals and has started working towards it. The progress on these goals shall be disclosed in the next reporting year .
+1. T o reduce carbon footprint of the Company by adopting energy efficiency initiatives.
+2. T ransition to renewable energy solutions and clean technology.
+3. Create employee awareness on mental wellbeing and overall health and safety.
+4. Achieving zero discharge through water conservation and wastewater treatment initiatives.
+5. Enhancing gender diversity across levels i.e., increase overall gender diversity to 30% by FY 2025 and 100% employees to be sensitized and trained on overcoming 
+unconscious bias in the workplace by FY 2025.
+6. Performance of the 
+entity against the specific 
+commitments, goals, and 
+targets along with reasons in 
+case the same are not met.Birlasoft has witnessed steady progress against the set Environmental, Social and Governance (ESG) goals and targets during the reporting period, as result of its innovative 
+solutions, technological improvements, social improvements, commitment towards ethical business and regulatory compliances. The Company has been recognized 
+for its focused achievement and efficient initiatives, pro-active implementation of action items that have been outlined by internal and external audit teams as process 
+improvements. All these initiatives cumulatively have resulted in positive outlook for Company’s future as a sustainable and responsible business in the software and services 
+industry, at the global level.
+Governance, leadership, and oversight
+7 . Statement by the director 
+responsible for the business 
+responsibility report, 
+highlighting ESG related 
+challenges, targets, and 
+achievements (listed entity 
+has flexibility regarding the 
+placement of this disclosure)We are delighted to present our Business Responsibility and Sustainability Report (BRSR) for the financial year April 1, 2023 to March 31, 2024 (FY 2023-24). Birlasoft has 
+diligently compiled this report to highlight our commitment to sustainability and responsible business practices.
+We are committed to continuing the CK Birla Group’s 161-year heritage of building sustainable communities. Birlasoft’s consultative and design thinking approach helps 
+customers run businesses and, in turn, makes societies more productive. Birlasoft combines the power of domain, enterprise, and digital technologies to reimagine business 
+processes for its customers and its ecosystem.
+Our ESG vision guides us towards becoming a well-governed organization that values diverse talent and fosters an inclusive workplace and community. We believe in 
+leveraging technology and aligning our strategies to create positive impacts on society and the environment. As we embark on our journey towards sustainable business 
+practices, we remain steadfast in our pursuit of excellence and responsibility in all aspects of our operations.
+In addition to the BRSR, a separate sustainability report for FY 2023-24 will be published, providing further insights into our sustainability strategy implementation and 
+performance against commitments and goals.
+8. Details of the highest 
+authority responsible for 
+implementation and oversight 
+of the Business Responsibility 
+policy(ies)Name: Angan Guha
+Designation: CEO & Managing Director
+9. Does the entity have a 
+specified Committee of the 
+Board/Director responsible 
+for decision making on 
+sustainability related issues? 
+(Yes/No).
+  If “Yes”, provide detailsThe Board of Directors have the onus to review and oversee the Environmental, Social and Governance (ESG) risks and opportunities. However , the Board has entrusted 
+powers to the Risk Management Committee (RMC) to oversee ESG related risks, in addition to business, geopolitical, and other operational related risks while formulating the 
+risk management framework. In addition, the ESG Committee is constituted internally to oversee ESG related risks, threats, and opportunities while formulating the business 
+strategy and overall risk enterprise management framework.
+* Most of the policies in respect of the aforesaid principles have been approved by the Board and some the policies have been approved by the CEO & Managing Director who is entrusted by the 
+Board to approve the business relevant policies. The remaining policies are internal policies, which have been approved by the concerned Department Heads. The policies which have been approved 
+by the Board can be viewed on the website of the Company at https://www.birlasoft.com/company/investors/policies-reports-filings  and the remaining policies are internal documents and are 
+available on intranet for all employees.
+# Indicate policies that are approved by the leadership team of Birlasoft and not by the Board of Directors.
+Annual Report  2023-24
+Statutory Reports
+122 123

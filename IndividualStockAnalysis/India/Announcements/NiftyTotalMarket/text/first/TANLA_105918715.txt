@@ -1,0 +1,305 @@
+ 
+ 
+Date: July 18, 2024 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Madam/Sir, 
+ 
+Sub: Letter to Shareholders for quarter ended June 30, 2024. 
+ 
+With reference to the subject cited, we are enclosing herewith Letter to Shareholders for quarter e nded 
+June 30, 2024. 
+ 
+ 
+Request you to take the same on record and oblige. 
+ 
+Thanking you 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited  
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS-15519 
+ 
+Shaping the 
+world of Digital 
+InteractionsQ1 FY25Shareholders’ Letter 
+and ResultsBUSINESS 
+REVIEW
+Durgam Cheruvu overlooking Tanla Innovation 
+Center, Hyderabad, India
+About Tanla
+Tanla transforms the way the world 
+collaborates and communicates 
+through innovative CPaaS solutions. 
+Founded in 1999, it was the first 
+company to develop and deploy 
+A2P SMSC in India. Today, as one of 
+the world’s largest CPaaS players, 
+it processes more than 800 billion 
+interactions annually and about 63% 
+of India’s A2P SMS traffic is processed 
+through Trubloq, making it the world’s 
+largest Blockchain use case. Wisely, 
+our patented enterprise grade platform 
+offers private, secure, and trusted 
+experiences for enterprises and mobile 
+carriers. Financial Performance
+Message from Chairman03
+04
+0710
+19
+23
+06“We are progressing well with our strategic shifts. 
+Our ~3X growth over the year coupled with go-live 
+of the MaaP platform showcases our leadership 
+in OTT space. Our partnership with a global tech 
+major on Wisely ATP to combat scams is a huge 
+step to tackle this global menace. We are moving in 
+the right direction to elevate our growth trajectory.”
+India’s top airline achieves 200% higher click-to-
+install ratio over other acquisition channels with 
+WhatsApp.  
+Q1. Can you summarize key outcomes on growth 
+and profitability in Q1 FY25 ?
+OTT contribution to overall revenue was 19.9% in Q1 
+FY25, as against 7.9% in Q1 FY24 .TABLE OF CONTENTS
+Profit after tax grew by 4.3% to 
+INR 1,412 Mn 
+Management Discussion Q&AQuarterly Disclosures
+Deep-Dive Charts
+Policies
+Case Study
+
+3 Shareholder Report  Q1 FY25Digital PlatformsCash and Cash equivalents 
+INR 7,572 Mn 
+       INR 763 Mn QoQ
+Revenue 
+INR  868 Mn 
+      1.2% YoY de-growth Gross Profit 
+INR  856 Mn  
+      0.7% YoY growth EBIT 
+INR 584 Mn 
+67.3% Margin 
+Revenue
+INR  9,154 Mn
+      11.2% YoY growth Gross Profit 
+INR  1,838 Mn
+      17.7% YoY growth EBIT
+INR 1,073 Mn  
+11.7 %  Margin      Financial Performance Q1 FY25
+Revenue 
+INR  10,022 Mn
+      10.0%  YoY growth  Gross Profit 
+INR 2,694 Mn 
+      11.7% YoY growth EBITDA 
+INR 1,886 Mn  
+       3.5% YoY growth 
+PAT 
+INR 1,412 Mn
+    4.3% YoY growth  EPS
+INR 10.50 Per Share
+      4.3% YoY growth 
+We are progressing well with our strategic shifts. Our ~3X growth over the ye ar coupled with go-live of the 
+MaaP platform showcases our leadership in OTT space. Our partnership with a global  tech major on Wisely 
+ATP to combat scams is a huge step to tackle this global menace. We are moving in the ri ght direction to 
+elevate our growth trajectory.
+Invitation to conference
+Tanla will host a conference call and live webcast to discuss the financial re sults on July 19, 2024 at 4.30 PM IST.  
+Watch the presentation at  https://bit.ly/TanlaQ1FY25EarningsCall  
+ 
+India                          
+United Kingdom       
+United States           :   +91 22 6280 1137 / +91 22 7115 8038
+:   08081011573
+:   18667462133Hong Kong              
+Singapore:   800964448
+:   8001012045- Uday Reddy, Founder Chairman & CEOSignificant Events
+1. Tanla has once again been recognized as a ‘Visionary’ in the 2024 Gartner®️ Ma gic Quadrant™️ for 
+Communications Platform as a Service (CPaaS)
+2. Tanla signed a commercial agreement with one of the Global Tech Majors on Wis ely ATP to combat scam on their 
+messaging platform by identifying fraudulent phone numbers
+3. MaaP platform for Google RCS went live in July 2024
+4. Appointment of Abhishek Kumar Jain as Chief Financial Officer effective Aug ust 1, 2024. Abhishek will join Tanla 
+post a nearly two-decade stint in Wipro Limited, a leading publicly traded IT  Services companyEnterprise Communications
+4 Shareholder Report  Q1 FY25Message from Chairman
+“I will start by sharing my thoughts 
+on the industry trends, following 
+which I will give you an update on 
+the Digital Platform and Enterprise 
+Communication businesses.
+ 
+Industry Trend
+I continue to feel very excited 
+about the CPaaS industry in India. 
+If you read my past letters, I have 
+been consistently maintaining that 
+the industry is operating at a TAM 
+of ~$1.5-$1.8 billion and growing 
+at mid to high teens. This has 
+been validated by Gartner, which 
+has noted that the commercial 
+messaging market in India will 
+reach $3.2 billion by 2028.
+ 
+Enterprise spending on all use 
+cases is going up in volume terms, 
+but the pricing dynamics vary 
+across use cases. Domestic SMS 
+continues to see volume growth, 
+but it is a very price-sensitive 
+environment. International SMS 
+is soft as volumes are shifting 
+to OTT channels like WhatsApp, 
+which are also at lower price 
+points (international message 
+pricing for WhatsApp is at $0.03 
+compared to mobile carriers at 
+$0.05). Enterprises are leveraging 
+rich media OTT channels for their 
+promotional spends due to higher 
+readability, click-through rates, 
+and conversational capabilities. 
+WhatsApp is also changing its 
+utility pricing starting August 2024. 
+There is a big push by Google on 
+RCS, and India is probably their 
+biggest market. So, we are seeing 
+a convergence of enterprise use 
+cases across channels. This will 
+lead to growth in OTT channels, 
+which is around 15% of the market 
+today and expected to become 
+50% of the market by 2028.
+ What do these trends 
+mean for Tanla and why 
+am I excited?
+We are leaders in an industry 
+with a growing TAM and are best 
+positioned to address the market 
+opportunity. In domestic SMS, 
+which is 50%+ of our revenues, 
+we have the scale and enterprise 
+reach – we have the lowest 
+sourcing cost in the industry, and 
+that helps us drive profitable 
+growth. International messaging 
+has been a challenging market 
+where there is a decline in volume 
+and pricing, but we have de-
+risked ourselves by lowering our 
+dependency on this business (~25% 
+compared to 35%+ a year back). 
+The real shift we have made at 
+Tanla is around OTT channels, 
+which now contribute 20% 
+of our revenues and are 
+growing at over 150% 
+YoY. We have strong 
+partnerships with all 
+the OTT players – 
+Google, Meta, 
+and Truecaller 
+– and we 
+are investing 
+in platforms 
+and solutions 
+to drive new 
+use cases. As 
+OTT channels 
+grow, we are best 
+positioned to grow in 
+this space.
+ 
+We are not stopping at 
+enabling enterprises 
+but are equally focused 
+on protecting users. 
+We are addressing 
+very different buying 
+centers in enterprises 
+with our platforms like 
+Wisely ATP, and we do 
+not have competition 
+in these white spaces.
+ Digital Platforms
+Digital Platforms revenue de-
+grew by 1.2% YoY due to the loss 
+of revenues on Vi network for ILD 
+messaging. Normalized for this 
+impact, our Digital Platforms 
+revenue would have grown by 31% 
+YoY. There would be no further 
+impact on a sequential basis due 
+to the Vi ILD network deal.
+ 
+5 Shareholder Report  Q1 FY25We have had two big 
+developments in the last couple of 
+months:
+• We have gone live on our 
+MaaP platform for Google RCS 
+with Vodafone Idea Business 
+Services – we expect the traffic 
+to scale up in Q2 and beyond.
+• We signed a commercial 
+agreement with one of the 
+Global Tech Majors on Wisely 
+ATP to combat scams on 
+their messaging platform by 
+identifying fraudulent phone 
+numbers – this is a global 
+mandate, and we are very 
+excited about how we are 
+partnering with the ecosystem 
+to combat the menace of 
+phishing scams.
+ 
+Enterprise 
+Communications
+Enterprise communications 
+revenues grew double digits driven 
+by the growth of our OTT channels 
+and the ValueFirst acquisition. We 
+have seen a lot of growth in OTT 
+– OTT channels grew by 2.7X YoY, 
+compensating for the softness in 
+the international SMS business. 
+We added 121 new customers, 
+out of which 19% were added on 
+WhatsApp, overall contributing to 
+INR 53.5 Mn in Q1. Our customers 
+contributing to greater than INR 
+500 Mn annualized revenue grew 
+by 9% sequentially.
+ 
+In summary, we are proceeding 
+well on our strategic shifts. We 
+are gaining share in OTT, we are 
+scaling new platforms, and we are 
+pursuing interesting opportunities 
+in our international expansion 
+journey. We have received 
+regulatory approval for the closure 
+of the ValueFirst International 
+acquisition, and we are likely to 
+close the acquisition in July 2024.
+ I am very confident that we are 
+moving in the right direction, 
+and this will elevate our growth 
+trajectory. Thank you for all the 
+support and encouragement.”
+Uday Reddy 
+Founder Chairman & CEO
+ 

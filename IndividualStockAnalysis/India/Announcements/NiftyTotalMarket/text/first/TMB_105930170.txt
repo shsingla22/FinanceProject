@@ -1,0 +1,71 @@
+Secretarial Section  
+Head Office, 57 - V.E. Road,  
+Thoothukudi – 628 002.  
+☏: 0461 -2325136  
+e-mail  : secretarial@tmbank.in  
+CIN: L65110TN1921PLC001908   
+ 
+Ref.No.TMB.SE. 80/2024-25            
+                               29.07.2024   
+The Manager,  
+National Stock Exchange of India Ltd,  
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+'G' Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai - 400 051.  The Manager,  
+Bombay Stock Exchange limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street.  
+Mumbai – 400 001.  
+ 
+Ref: Symbol: TMB / Scrip Code: 543596  
+ 
+Dear Sir/Madam,  
+Sub: Intimat ion regarding loss of share certificate s 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, this is to inform you that, our Bank has received intimation from our 
+Registrar and Share Transfer Agent (“RTA”), M/s.  Link Intime  India Private Limited (enclosed 
+herewith) on  29.07.2024 , regardi ng loss of share certificate/s from our shareholder/s , for 
+issue of duplicate share certificate(s) in lieu thereof . The details  are given below:  
+ 
+Name of the Shareholder  Folio 
+No. Certificate  
+No. No of 
+Shares  Distinctive Nos.  
+From  To 
+MARIAPPAN.V.  18260  21881  1 24905  24905  
+58557  500 32220455  32220954  
+  
+The claim for issue of duplicate share certificate will be considered by the  Committee of 
+Executives, subject to receipt of requisite  documents from the shareholder, which needs to 
+be in order and only after compliance of all the regulatory  formalities.   
+ 
+Kindly take the same on record .  
+ 
+Yours  faithfully,  
+For Tamilnad Mercantile Bank Limited  
+ 
+Swapnil Yelgaonkar        
+Company Secretary & Compliance Officer  
+Membership No: ACS 21877  
+
+FROM TO
+29/07/2024 21881 
+29/07/2024 58557 STOP TRAN 
+NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   Tamilnad Mercantile Bank Limited
+STOP TRANSFER REGISTER AS ON 29/07/2024
+From: 29/07/2024 To: 29/07/2024
+---------------------------------------------------------------------------------------------------------------------------
+DISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+---------------------------------------------------------------------------------------------------------------------------
+ST801624 18260 MARIAPPAN.V. 21881 24905 24905 1 Lost By 
+Holder
+500 Lost By 
+HolderST801625 18260 MARIAPPAN.V. 58557 32220455 32220954 
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 501 
+---------------------------------------------------------------------------------------------------------------------------

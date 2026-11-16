@@ -1,0 +1,181 @@
+ 
+ 
+Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra  (East) Mumbai 400098 India  
+Regd. Office: VSB  Mahatma Gandhi Road  Fort Mumbai  400 001  India  
+Tel: + 91 22 6659 1968  email: investor.relations@tatacommunications.com  
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com  
+ 
+ 
+ 
+ 
+HQ/CS/CL.24B/17 740 
+June  20, 2024  
+ 
+Dear Sir /  Madam,  
+ 
+Sub:  Press Release - Tata Communications Hosted SASE redefines next -gen 
+networking & security . 
+ 
+Please find attached herewith the press release on the captioned subject being issued  
+today.  
+ 
+Kindly take the same on your records.   
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Communications Limited  
+ 
+ 
+ 
+Zubin Adil Patel  
+Company Secretary and Compliance Offic er National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Mumbai – 400 051  
+SYMBOL: TATACOMM   BSE Limited  
+P.J. Towers, Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 500483  
+ 
+ 
+Tata Communications Hosted SASE is currently available in select geographies.  
+Single -vendor SASE offering:   One vendor delivers multiple converged network -as-a-service capabilities such as SD -WAN, SWG, CASB, network firewalling and 
+ZTNA -using a cloud -centric architecture.  
+ 
+ 
+PRESS RELEASE  
+Tata Communications  Hosted SASE redefines  
+next-gen networking & security   
+• The unified solution marks the first of its kind implementation globally  
+• Harnesses company’s global network presence to deliver carrier grade performance and 
+enhance user experience  
+• Provides unified visibility and control of network traffic with context led insights  
+ 
+ 
+Mumbai, INDIA, 20th June 2024  – Tata Communications  today  announced the launch of its  Unified/  Single -Vendor 
+Hosted  Secure Access Service Edge  (SASE ) for global enterprises.  In partnership with Versa  Networks , a leader in 
+AI-powered Unified SASE , Tata Communications  Hosted SASE , converges software -defined wide area networks 
+(SD-WAN) and secur e service edge (SSE)  capabilities in a single pass technology enabling  future ready businesses 
+to fully harness the power and potential of cloud -based environments through exceptional performance, zero -
+trust security, ease of use , and cost effectiveness.   
+ 
+Hosted and managed end -to-end by Tata Communications, the solution  offers secure, scalable, and agile 
+deployment.  The company’s cross domain expertise across network, security and cloud,  delivers  a seamless 
+operational management and integration with existing systems for enterprises, ensuring robust support 
+throughout their journey.  
+ 
+As enterprises increasingly adopt hybrid working, SD -WAN and  a digital -first approach, their  distributed network 
+architecture increases  vulnerability to cyberattacks , and hence the need for robust SSE  solutions . A study   
+commissioned  by Tata Communications with Omdia  identified that  secure remote working was the top driver 
+(49%) for adopting SASE solutions in global businesses, followed closely by simplified  and integrated security 
+models (43%). Furthermore,  when implementing SASE,  nearly half of businesses cited siloed  security and 
+network s teams as a key challenge .  
+ 
+Tata Communications Hosted SASE is uniquely positioned to address the se challenges. The  company  is harnessing 
+its globally distributed network for delivering Hosted SASE ensuring  carrier  grade connectivity  and superior 
+performance . It also offers advanced  detection and real-time protection via a cyber threat intelligence platform 
+that generates insights by aggregating data from  Tata Communications’  network and other leading industry 
+source s. 
+ 
+“Our customers operate in a hyperconnected environment, so it  is vital that they are able to access data anytime 
+anywhere without compromising on security or user experience,” said Srinivasan CR, Executive Vice President -
+Cloud and Cybersecurity Services & Chief Digital Officer, Tata Communications.  “Our Hosted SASE solution 
+powers global businesses with secure communication and collaboration weaving all of their data and applications 
+into a single digital fabric that enables end -to-end control and visibility.”  
+ 
+ 
+Tata Communications Hosted SASE is currently available in select geographies.  
+Single -vendor SASE offering:   One vendor delivers multiple converged network -as-a-service capabilities such as SD -WAN, SWG, CASB, network firewalling and 
+ZTNA -using a cloud -centric architecture.  
+ 
+ 
+ 
+Tata Communications Hosted SASE’s single  pass technology  ensures unified visibili ty and control of network  traffic 
+along with actionable  insights  to optimize network performance . This helps enterprises to avoid complexities and 
+delays in managing an ever -growing stack of point solutions . Furthermore , they  can also improve  their return on 
+investment  — with Tata Communications Hosted SASE, the  cost of ownership is estimated to be nearly 40% lower 
+than deploying point solutions.  
+ 
+“As workforces become increasingly hybrid, there has never been a more important time to deliver something 
+radically different, as every customer is unique and needs flexibility when determining how a SASE architecture 
+fits into their environment.  With the Hosted SASE, Tata Communications has set a new standard for enterprise 
+security and connectivity for enterprises,” said Mouli S, SVP & CTO, Hinduja Global S olutions.  
+"We are thrilled to deepen our partnership with Tata Communications,” said Kelly Ahuja, CEO, Versa Networks . 
+“Their Hosted  SASE offering will  help enterprises drive business transformation while  enhancing security posture 
+and providing  a better user -to-app experience. Delivering this via a single platform and fully leveraging their global 
+network footprint allows Tata Communications  to create  differentiation through data sovereignty and regulatory 
+compliance.”  
+ 
+“Remote working, connectivity to clouds and collaboration are key enterprise considerations. But each comes 
+with security risks. SASE helps simplify and integrate enterprise security models,” said Brian Washburn, Research 
+Director , Omdia . “Tata Communications’ Hosted SASE solution marks a first for its type of implementation  
+globally , combining the provider’s high -performance global network with enhanced security for enterprises to 
+connect, communicate and collaborate more safely.”  
+ 
+Click here  to learn  more about  Tata Communications Hosted SASE.  
+ 
+Media Contact s:       
+Amit Sinha Roy       Dan Spalding  
+Tata Communications       Versa Networks  
++91 9899911333       (408) 960 -9297  
+amit.sinharoy@tatacommunications.com                  dspalding@versa -networks.com   
+ 
+About Versa Networks  
+Versa, the leader in single -vendor Unified SASE platforms, delivers AI/ML -powered SSE and SD -
+WAN solutions. The platform provides networking and security with true multitenancy, and 
+sophisticated analytics via the cloud, on -premises, or as a blended combin ation of both to meet 
+SASE requirements for small to extremely large enterprises and service providers. Thousands of 
+customers globally, with hundreds of thousands of sites and millions of users, trust Versa with 
+their mission critical networks and securit y. Versa is privately held and funded by Sequoia Capital, 
+Mayfield, Artis Ventures, Verizon Ventures, Comcast Ventures, BlackRock, Liberty Global 
+Ventures, Princeville Capital, RPS Ventures, and Triangle Peak Partners. For more information, 
+visit https://www.versa -networks.com  or follow Versa on LinkedIn  and X (Twitter) 
+@versanetworks . 
+ 
+ 
+Tata Communications Hosted SASE is currently available in select geographies.  
+Single -vendor SASE offering:   One vendor delivers multiple converged network -as-a-service capabilities such as SD -WAN, SWG, CASB, network firewalling and 
+ZTNA -using a cloud -centric architecture.  
+ 
+ 
+ 
+About Tata Communications  
+A part of the Tata Group, Tata Communications (NSE: TATACOMM; BSE: 500483) is a global 
+digital ecosystem enabler powering today’s fast -growing digital economy in more than 190 
+countries and territories. Leading with trust, it enables digital transformation  of enterprises 
+globally with collaboration and connected solutions, core and next gen connectivity, cloud 
+hosting and security solutions and media services. 300 of the Fortune 500 companies are its 
+customers and the company connects businesses to 80% of t he world’s cloud giants. For more 
+information, please visit  www.tatacommunications.com   
+ 
+         
+ 
+Forward -looking and cautionary statements  
+Certain words and statements in this release concerning Tata Communications and its prospects, and other statements, includin g those relating to Tata Communications’ expected financial 
+position, business strategy, the future development of Tata Communicati ons’ operations, and the general economy in India, are forward -looking statements. Such statements involve known and 
+unknown risks, uncertainties and other factors, including financial, regulatory and environmental, as well as those relating to industry gr owth and trend projections, which may cause actual 
+results, performance or achievements of Tata Communications, or industry results, to differ materially from those expressed o r implied by such forward -looking statements. The important factors 
+that could c ause actual results, performance or achievements to differ materially from such forward -looking statements include, among others, failure to increase the volume of traffic on Tata 
+Communications’ network; failure to develop new products and services that m eet customer demands and generate acceptable margins; failure to successfully complete commercial testing of 
+new technology and information systems to support new products and services, including voice transmission services; failure t o stabilize or reduce the rate of price compression on certain of the 
+company’s communications services; failure to integrate strategic acquisitions and changes in government policies or regulati ons of India and, in particular, changes relating to the administration 
+of Tata Com munications’ industry; and, in general, the economic, business and credit conditions in India. Additional factors that could cause actual results, performance or achievements to differ 
+materially from such forward -looking statements, many of which are not in Tata Communications’ control, include, but are not limited to, those risk factors discussed in Tata Communications 
+Limited’s Annual Reports.   
+ 
+The Annual Reports of Tata Communications Limited are available at www.tatacommunications.com. Tata Communications is under n o obligation to, and expressly disclaims any obligation to, 
+update or alter its forward -looking statements.  
+© 202 4 Tata Communications Ltd. All rights reserved.  
+TATA COMMUNICATIONS and TATA are trademarks or registered trademarks of Tata Sons Private Limited in India and certain countr ies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

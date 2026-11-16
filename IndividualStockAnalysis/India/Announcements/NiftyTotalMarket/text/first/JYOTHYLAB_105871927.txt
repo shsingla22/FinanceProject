@@ -1,0 +1,67 @@
+ 
+ 
+ 
+June 1, 2024 
+ 
+To, 
+              
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai – 400 023 
+Security Code: 532926 National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (East), Mumbai – 400 051 
+Symbol: JYOTHYLAB  
+ 
+Sub: Intimation under Regulation 39(3) of the SEBI (Listing Obli gations and Disclosure 
+Requirements) Regulations, 2015 
+Dear Sir/ Madam, 
+Pursuant to Regulation 39(3) of the SEBI (Listing Obligations and Disclosure Requirements ) 
+Regulations, 2015, we wish to inform you that M/s. Link Intime India Private L imited, the Registrar 
+and Share Transfer Agent (RTA) has intimated the Company on May 31, 2024 regarding issue of 
+duplicate share certificate to the shareholder details of which is given below: 
+Name of the 
+Shareholder(s) Folio 
+No. Certificate No. Distinctive No. 
+(both inclusive) No. of 
+Shares 
+SALIM KAMRUDIN 
+GAJJANI 0005933 150368 (Old) 182004700 – 182004749 50 
+172386 (New/ Duplicate) 
+NIKHIL CHANDRA 
+TALUKDER 0000597 145755 (Old) 181810514 – 181810520 7 
+172387 (New/ Duplicate) 
+ 
+This is for your information and record. 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For JYOTHY LABS LIMITED  
+ 
+ 
+Shreyas Trivedi 
+Head – Legal & Company Secretary 
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN9461TO: TN9460FROM:Jyothy Labs Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN9460 0005933
+SALIM KAMRUDIN GAJJANI 31/05/2024
+DUP  1.00 OLD  50  182004749  182004700  50 BONUS  150368  150368 
+ 50 ---------------
+ 1.00 NEW  50  182004749  182004700  50  172386  172386 
+ 50 ---------------
+TN9461 0000597
+NIKHIL CHANDRA TALUKDER 31/05/2024
+DUP  1.00 OLD  7  181810520  181810514  7 BONUS  145755  145755 
+ 7 ---------------
+ 1.00 NEW  7  181810520  181810514  7  172387  172387 
+ 7 ---------------
+31/05/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

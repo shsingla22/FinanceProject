@@ -1,0 +1,87 @@
+                            
+LTIM/SE/STAT/2024-25/44                                 July 11, 2024  
+ 
+ 
+National Stock Exchange of India Limited,  
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTIM The BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+ 
+We are sending herewith copy of the Press Release titled “LTIMindtree and Snowflake 
+strengthen joint commitment to enable enterprises to accelerate AI adoption journey” , which 
+is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTIMindtree Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl.: As above 
+ 
+ 
+ 
+LTIMindtree and Snowflake strengthen joint commitment to 
+enable enterprises to accelerate AI adoption journey 
+ This integration combines Canvas.ai’s robust security and Snowflake’s industry-leading capabilities to 
+transform production-ready applications 
+Warren, New Jersey, USA, Mumbai, India  – July 11, 2024 : LTIMindtree  [NSE: LTIM, BSE: 540005], a 
+global technology consulting and digital solutions company, today announced the launch of Canvas.ai, 
+LTIMindtree’s cutting edge enterprise ready AI platform, on the Snowflake AI Data Cloud. This new 
+integration further enhances LTIMindtree’s AI capabilities, unlocks unparalleled flexibility and accelerated 
+development, for our clients to harness the power of AI. By combining Canvas.ai’s customizability, 
+scalability, and intuitive user interface with Snowflake’s top-tier capabilities, enterprises can swiftly 
+transform their applications. 
+The collaboration brings together Canvas.ai’s capabilities of proactive governance and guardrails coupled 
+with enterprise grade models such as Snowflake Arctic  LLMs; Canvas.ai’s FinOps features, including rate 
+limiting, token budgeting, and reporting, enhance the usability and efficiency of the LLMs that Snowflake 
+Cortex AI  is bringing to the table with access to industry leading LLMs like Mixtral, LLaMA 3, and Gemma; 
+by leveraging Snowflake, Canvas.ai’s navigator applications accelerate the GenAI journey.  These pre-built 
+apps simplify AI deployment, enabling organizations to roll out solutions effortlessly. 
+Ashish Varerkar, Vice President & Head, Canvas AI, LTIMindtree  said, “LTIMindtree is thrilled to 
+announce the launch of Canvas.ai on Snowflake. Leveraging foundations like Snowflake’s Cortex AI, along 
+with supported LLMs and fine-tuning capabilities, we empower customers to select the right LLM models 
+for their business use cases. Our core competencies include content moderation, outcome validation for 
+LLM-based apps, and seamless orchestration of capabilities within organizations. With Canvas.ai, building 
+LLM-based apps becomes remarkably easy for end users, harnessing the full potential of underlying 
+capabilities.” 
+Rithesh Makkena, Global Partner SE Leader, Snowflake said, “As Snowflake accelerates the AI journey 
+for both our product and customers, we recognize a common concern: selecting the right model for specific 
+business use cases. Canvas.ai helps address this challenge with customizable parameters, empowering 
+users to make better-informed choices without excessive costs. Beyond model selection, Canvas.ai helps 
+ensure robust governance and security.” 
+Together, this collaboration will create a robust ecosystem for enterprise AI deployment and transform AI-
+driven ideas into production. Now, access Snowflake’s Cortex AI, Snowflake Arctic and dedicated app 
+gallery all within Canvas.ai. 
+ 
+About LTIMindtree 
+LTIMindtree is a global technology consulting and digital solutions company that enables enterprises across 
+industries to reimagine business models, accelerate innovation, and maximize growth by harnessing digital 
+technologies. As a digital transformation partner to more than 700 clients, LTIMindtree brings extensive 
+domain and technology expertise to help drive superior competitive differentiation, customer experiences, 
+and business outcomes in a converging world. Powered by 81,000+ talented and entrepreneurial 
+ 
+professionals across more than 30 countries, LTIMindtree — a Larsen & Toubro Group company — solves 
+the most complex business challenges and delivers transformation at scale. For more information, please 
+visit https://www.ltimindtree.com/ . 
+Media contact 
+Gitanjali.sreepal@ltimindtree.com   

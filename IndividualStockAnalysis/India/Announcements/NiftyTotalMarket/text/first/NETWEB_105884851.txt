@@ -1,0 +1,90 @@
+ 
+Netweb Technologies India Limited  
+[Formerly Known as Netweb Technologies India Private Limited]  
+Plot No. H -1, Block -H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, Haryana 121004  
+Tel. No. : +91 -129-2310400  
+ Website : www.netwebindia.com  E-mail  : complianceofficer@netwebindia.com  CIN : L72100HR1999PLC103911  
+PAN NO  : AABCN4805A  
+GST NO  : 06AABCN4805A1Z3  
+Date : 18.06.2024  
+ 
+SUBJECT: INTIMATION OF PRESS RELEASE  AND OUR LATEST SYSTEMS  
+Dear Sir/ Madam,   
+Pursuant to the regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed herewith the Press release on the launch of our latest 
+AMD -based systems, Make in India servers for data centers and AI systems.  
+Kindly take the same on record.  
+Thanking you,  
+For Netweb Technologies India Limited  
+ 
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+M.NO A36610  
+ 
+ To,  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai – 400 001.  
+BSE Scrip Code: 5439 45 To,  
+The National Stock Exchange of India Limited 
+“Exchange Plaza”, Bandra – Kurla Complex,  
+Bandra (EAST),  
+Mumbai – 400 051  
+NSE SYMBOL: NETWEB  
+Netweb Unveils New  AMD based  Make -in-India Servers 
+for Data Centers  AI Systems   
+[Faridabad, 18.06.2024 ] Netweb Technologies India Limited (Netweb), the leading Indian OEM 
+in high -end computing, announced  today  the launch of its latest state -of-the-art, Make -in-India 
+range of servers. The single/dual Socket server platforms are designed to harness the robust 
+capabilities of  the latest 4th Gen AMD EPYC ™ processors . Available in 1U, 2U,  4U, workstations , 
+and other models, these platforms are optimized to meet various demanding needs of high -
+performance computing environments  and diverse workloads . It also provides the added 
+flexibility to configure systems differently in terms of I/O expansion and storage  support.  
+Moreover,  these new offerings align with the Government of India’s Make in India initiative to 
+accelerate innovation and build best -in-class - manufacturing capabilities , designed and build in 
+India.  
+ 
+The new server models support dual AMD EPYC 9004 Series  going up to 256 cores , offeri ng 
+impressive  computational performance  for the most intensive and wide range  of workloads. With 
+support for up to  6TB memory , they offer substantial scalability in memory capacity, ensuring the  
+servers  can easily oversee large datasets , in memory computing  and complex applications.  Apart 
+from a super -efficient processor, the servers also boast of a range of remarkable features, making 
+it an ideal choice for various applications,  especially  in an AI/ML environment such as:  
+1 Up to 6TB 3DS ECC RDIMM, DDR5 -4800MHz in 12/24 DIMM slots  
+2 Integrated IPMI 2.0 + KVM with dedicated LAN  
+3 Good range of  support for storage including HDD, SDD  and NVMe . 
+4 Up to 10  PCIe  slots for add -ons and if required GPU’s.  
+These will allow building of systems for a variety of use cases ranging from Datacenter computing 
+requirements,  High performance computing,  AI systems  - such as  workstations to AI Cloud 
+solutions with Machine Learning Operations (MLOPs ) to a variety of storage solutions including 
+High -performance storage solution and solutions supporting high capacity based on the workload 
+requirements.   
+“This  range of servers  represents our commitment to the Make in India mission and highlights 
+our capabilities to produce world -class technology indigenously,” said Mr. Sanjay Lodha, CEO  of 
+Netweb Technologies. We are excited to announce our commitment to advancing the landscape 
+of AI and ML technologies through the development of cutting -edge products that meet global 
+benchmarks. Our focus on manufacturing high -tech servers locally in India signifies not only an  
+investment in domestic talent and resources but also underscores ou r dedication to d eveloping  
+high -end computing  infrastructure  for government as well as  private sector.  
+"We are thrilled to support Netweb Technologies with our latest 4th Gen AMD EPYC processors. 
+This collaboration highlights our commitment to advancing technology and innovation, while 
+strongly supporting the 'Make in India' initiative ,” said Vinay Sinha, Corporate vice president, 
+AMD India Sales.   AMD  EPYC processors  are designed to deliver exceptional performance , 
+efficiency, and lower total cost of ownership (TCO) to deliver on the increased demand for cloud, 
+high performance computing and  the ever -growing AI market.  Together, we are driving 
+performance and efficiency to new heights, empowering businesses to achieve more."   
+About Netweb Technologies -  
+Netweb Technologies India Limited is an India -based provider of  high -end computing solutions 
+(HCS) with fully integrated design and manufacturing  capabilities. The Company's HCS offering 
+comprises HPC, private cloud and (HCI), artificial  intelligence (Al) systems and enterprise 
+workstations, high -performance storage (HPS) and  data centre servers. It offers a full stack of 
+products and solution suites from the design and  assembly of printed circuit boards to the 
+manufacture of complete electronic systems. It s HPC  offerings include HPC Clusters, HPC on 
+Cloud, Lustre Appliance, and Accelerator -based  computing.  
+ 
+  
+AMD, the AMD logo, EPYC, and combinations thereof are trademarks of Advanced Micro Devices, Inc.  
+ 
+ 

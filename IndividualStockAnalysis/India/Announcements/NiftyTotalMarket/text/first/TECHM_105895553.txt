@@ -1,0 +1,307 @@
+ 
+ 
+ 
+Tech Mahindra Limited  
+Sharda Centre, Off Karve Road, 
+Pune - 411004, Maharashtra , India 
+Tel.  +91 20 6601 8100  
+Fax. +91 20 2542 4466  
+techmahindra.com  
+connect@techmahindra.com  
+CIN L64200MH1986PLCO41370   
+ 
+ 
+27th June, 202 4 
+To,  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+Scrip Code : 532755  National Stock Exchange of India Limited  
+Exchange Plaza, 5th floor,  
+Plot No. - C/1, G Block,  
+Bandra -Kurla Complex, Bandra (E ast), 
+Mumbai - 400 051  
+NSE Symbol : TECHM  
+ 
+Subject:  Business Responsibility and Sustainability Report for the financial year 
+2023 -24 - Regulation 34(2)(f) of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 
+("SEBI Listing Regulations")  
+ 
+Dear Sir/Madam,  
+ 
+In compliance with Regulation  34(2)(f) of SEBI Listing Regulations  and circular  no. 
+SEBI/HO/CFD/CFD -SEC-2/P/CIR/2023/122  dated 12th July, 2023  issued by SEBI in this 
+regard , we are submitting herewith the Business Responsibility and Sustainability Report 
+(“BRSR”) for the Financial Year 2023-24 along  with the External Assu rance Report on 
+BRSR Core , which also forms part of the Integrated Annual Report for the Financial Year 
+2023 -24. 
+ 
+The above information is also available on the website of the Company at 
+https://www.techmahindra.com/investors/   
+ 
+This is for your information and records.  
+ 
+ 
+Thanking you,  
+ 
+For Tech Mahindra Limited  
+ 
+Anil Khatri  
+Company Secretary  
+ 
+Encl: as above  
+ TECH 
+rnal,indra 
+Regd. office: Gateway Building, Apollo Sunder, Mumbai 400 001, India Tel: +91 22 22021031 
+243
+SCALE AT SPEED  |  STATUTORY REPORTS
+SECTION A: GENERAL DISCLOSURES
+I. Details of the Listed Entity
+1 Corporate Identity Number (CIN) of the Listed Entity L64200MH1986PLC041370
+2 Name of the Listed Entity Tech Mahindra Limited
+3 Year of incorporation 1986
+4 Registered office address Gateway Building, Apollo Bunder, Mumbai – 400 001.
+Tel: +91 22-6897 5500
+5 Corporate address Plot No 01, Rajiv Gandhi Infotech Park, Phase III, Hinjewadi, MIDC, SEZ, Pune Maharashtra, 411057Tel: +91 20-4225 0000
+6 E-mail investor.relations@techmahindra.com CorporateSustainability@techmahindra.com
+7 Telephone +91 20-6601 8100
+8 Website www.techmahindra.com
+9 Financial year for which reporting is being done FY 2023-24 (01
+st April, 2023 - 31st March, 2024)
+10 Name of the Stock Exchange(s) where shares are listedNational Stock Exchange of India Limited (“NSE”)BSE Limited (“BSE”)
+11 Paid-up Capital ( `) 4,884 Mn
+12 Name and contact details of the person who may be contacted in case of any queries on the BRSR reportName: Sandeep ChandnaDesignation: Chief Sustainability OfficerPhone: +91-9810314114,E-mail id: sandeepch@techmahindra.com; CorporateSustainability@techmahindra.com
+13 Reporting boundary Tech Mahindra Ltd + Integrated companies*
+14 Name of assurance provider DNV
+15 Type of assurance obtained Reasonable- Please refer to pages 277- 282 for the assurance statement
+* 
+ Int
+egrated companies are those acquired companies where all their operations have been completely merged with the 
+Company.
+II. Products/Services
+16. Details of business activities (accounting for 90% of the turnover):
+S. No.Description of Main Activity Description of Business Activity % of Turnover of 
+the entity
+1 Information Technology – Software 
+and ServicesIT consulting, Software application development and maintenance100
+17. Products/Services sold by the entity (accounting for 90% of the turnover):
+S. No.Product/Service NIC Code % of total turnover 
+contributed
+1 IT consulting, Software application development and maintenance 62099 86.1
+2 Business Process Services and Operations 82200 13.9
+III  Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of offices
+National 41
+International 127Business Responsibility & Sustainability 
+Reporting<:s 
+244
+INTEGRATED ANNUAL REPORT 2023-24
+19. Markets served by the entity:
+ a. Num
+ber of locations- Tech Mahindra + Portfolio companies
+Locations Number
+National (No. of States) 11
+International (No. of Countries) 95
+ b. Wha t is the contribution of exports as a percentage of the total turnover of the entity?
+  The c
+ontribution of exports as a percentage of the total turnover of the Company is 94%.
+ c. A bri
+ef on types of customers:
+The Company caters to customers across the sectors of Communication, Media and Entertainment, 
+Manufacturing, Technology, BFSI, Retail, Transport and Logistics, Healthcare and Life Sciences.
+  Plea
+se refer to page(s) 11-13 for more details.
+IV  Employees
+20. Details as of 31st March, 2024:
+ a. Emp
+loyees and workers* (including differently abled):
+S. 
+No.Particulars Total 
+(A)Male Female Neutral Undeclared
+No. (B) % (B/A) No. (C) % (C/A) No. (F) % (F/A) No. (G) % (G/A)
+1. Permanent (D) 119,911 80,696 67.30 39,197 32.69 17 0.01 1 0.00
+2. Other than Permanent (E) 8,240 4,990 60.56 3,248 39.42 1 0.01 1 0.01
+3. Total employees (D + E) 128,151 85,686 66.86 42,445 33.12 18 0.01 2 0.00
+ *  All o
+ur workforce is categorized as ‘Employees’, and none as ‘Workers’. The employee headcount represents employees 
+of the Company, subsidiaries, and the acquired entities which are integrated by March 2024.
+ b. Dif ferently abled Employees
+It is completely voluntary for associates (employees) to declare their disability status and the number of 
+PwD (person with disability) associates shown here are those who have declared their disability. Hence this data represents a subset of the total PwD associates working with the Company as of 31
+st March, 2024.
+S.
+NoParticulars Total (A) Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+1. Permanent (D) 352 282 80.11 70 19.89
+2. Other than Permanent (E) 26 19 73.08 7 26.92
+3. Total differently- abled employees (D + E) 378 301 79.63 77 20.37
+21. Participation/Inclusion/Representation of Women
+Particulars Total (A) No. and percentage 
+of Females
+No. (B) % (B / A)
+Board of Directors 10 4 40
+Key Managerial Personnel* 3 0 0
+ * Key M
+anagerial Personnel includes the Managing Director & CEO (who is also a Board Member), the Chief Financial 
+Officer and the Company Secretary.TECH 
+mahindra 
+245
+SCALE AT SPEED  |  STATUTORY REPORTS
+22. Turnover rate for permanent employees
+FY 23-24 FY 22-23 FY 21-22
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 10.1% 9.6% 10.0% 15.0% 14.4% 14.8% 23.1% 24.6% 23.5%
+V  Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a)  Nam es of holding / subsidiary / associate companies / joint ventures
+  All c
+ompanies that have completely integrated into the Company as of  31st March, 2024 have 
+participated in the BRSR initiatives.
+  Plea
+se refer to Annexure I on page(s) 17 for details of our holdings, subsidiaries, and associate 
+companies (including Joint ventures).
+VI  CSR Details
+24 (i)  Whe ther CSR is applicable as per section 135 of the Companies Act, 2013: Yes
+ (ii)  Tur
+nover (in ` ): 420,993 Mn
+ (ii)  Net w
+orth (in ` ): 227,831 Mn
+VII  Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Re
+sponsible Business Conduct:
+Stakeholder group 
+from whom complaint is receivedGrievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)FY 23-24 FY 22-23
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress policy)Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities
+Yes
+https://insights.
+techmahindra.
+com/investors/
+WhistleBlower_
+Policy.pdf0 0 - 0 0 -
+Investors (other than shareholders)0 0 - 0 0 -
+Shareholders 0 0 - 0 0 -
+Employees 83 3closed 
+within the 
+mandatory 
+timelines95 0 -
+Customers 2 0 - 1 0 -
+Value Chain Partners 4 0 - 0 0 -
+Social media connects 1 0 - 0 0 -
+<:s 
+I I I I I I 
+246
+INTEGRATED ANNUAL REPORT 2023-24
+26. Overview of the entity’s material responsible business conduct issues
+S 
+No.Material Issue IdentifiedIndicate whether risk or opportunity R/ORationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial Implications of risk or opportunity (identify negative or positive implications)
+1 Climate ChangeR&O • 
+ Cli
+mate change can 
+pose physical and transition risks for our business by disrupting customer behaviour, operations, and the supply chain, but it also offers opportunities for innovation and solutions to address these challenges.• 
+ Inv
+estment in carbon 
+offset projects and renewable energy, as well as aiding customers in achieving sustainability goals.
+• 
+ Ens
+ures resilience by 
+securing both physical and technological infrastructure.Positive: Embracing sustainable technology and renewable energy creates significant new business opportunities. The transition to a green economy fosters innovation, driving the development of advanced technologies and services.
+2 Energy ManagementO • 
+ Eff
+ective energy 
+management presents significant opportunities for our Company. It can reduce operational costs, enhance resource efficiency, and mitigate environmental impacts.- Positive: Significant cost savings through reduced energy consumption & lower utility bills. It can also enhance operational efficiency, leading to productivity gains and reduced downtime.
+3 Cyber Security & Data PrivacyR&O • 
+ Glo
+bal cyber security is 
+a rising risk, with data breaches increasing by 72% from 2021 to 2023.
+• 
+ Our C
+ompany is 
+improving cybersecurity measures, expanding into the broader market, and providing secure products and services to protect against cyberattacks.• 
+ We ha
+ve a robust 
+Information Security Process supported by Data Privacy and Protection Policy for cybersecurity, information security and data privacy.Positive: With the growing demand for robust cybersecurity solutions, we are developing and offering a wide range of cybersecurity services and solutions and are also gaining more clients.
+4 Ethics & ComplianceO • 
+  By fo
+stering a culture 
+of ethical behavior, we build trust with our stakeholders and protect our brand from potential legal issues. Our commitment to compliance not only mitigates legal and operational risks but also enhances financial performance by avoiding fines and attracting investor confidence.- Positive: Our focus on ethics and compliance begets financial benefits. By avoiding fines, we improve our bottom line and attract investors. Enhanced customer loyalty boosts sales, while reduced employee turnover saves on costs, driving sustainable growth and profitability.TECH 
+mahindra 
+247
+SCALE AT SPEED  |  STATUTORY REPORTS
+S 
+No.Material Issue IdentifiedIndicate whether risk or opportunity R/ORationale for identifying the risk/opportunityIn case of risk, approach to adapt or mitigateFinancial Implications of risk or opportunity (identify negative or positive implications)
+5 Innovations R&O • 
+ In th
+e ever-evolving 
+landscape of technology and industry, keeping pace with innovation demands continual adaptation and investments.
+ • 
+ The e
+mergence of new 
+technologies provides a significant opportunity to evolve and expand business in the tech landscape.• 
+ We us
+e IoT, Blockchain, 
+AI, and Machine Learning for sustainable solutions.
+• 
+ Adva
+ncements in 
+Metaverse, 5G, and Quantum Computing deepen our expertise, particularly in 5G technology.
+• 
+ We fo
+cus on developing 
+technologies to serve clients and contribute to environmental sustainability with  NXT.NOW
+TM.Positive: Our innovation efforts drive financial gains by enhancing efficiency and reducing costs. Our products attract new customers, boosting revenue and market share. Overall, our focus on innovation ensures sustainable financial growth and strengthens our competitive edge.
+6 Talent & Skill ManagementR • 
+ Rapi
+d technological 
+advancement and evolving market demands may cause a skill gap among employees, challenging attracting and retaining top talent.
+• 
+ Ina
+dequate succession 
+planning, and ineffective management of diversity and inclusion can disrupt business operations and hinder organizational culture.• 
+ We co
+ntinuously 
+enhance our employee value proposition by understanding the changing needs of our diverse workforce.
+ We off
+er hybrid work 
+options, promoting work/life balance and autonomy.
+• 
+ Our r
+obust platforms 
+support continual upskilling to ensure future readiness.Negative:  
+Inadequate talent management can result in financial issues like high recruitment costs and decreased productivity.
+7 Corporate GovernanceO • 
+ Our s
+trong corporate 
+governance practices promote transparency, accountability, and strategic decision-making.
+• 
+ Wit
+h a global 
+presence, we prioritize ethical governance and stakeholder responsibilities in over 90 countries.- Positive: A robust corporate governance framework has enhanced investor confidence.
+8 Stakeholder RelationshipsO Through collaborative partnerships with customers, suppliers, employees, and local communities, we can harness collective expertise and resources to drive ESG outcomes and maintain positive relationships, which will eventually lead to increased revenue.- Positive: The Company has a committee overseeing stakeholder engagement, addressing stakeholder grievances and complaints, and aligning priorities with business strategy.
+ Please refer to page(s) 32-66 for all details on Material issues and their Risks/ Opportunities.<:s 

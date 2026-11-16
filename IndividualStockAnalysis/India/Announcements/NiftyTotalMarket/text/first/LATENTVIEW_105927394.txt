@@ -1,0 +1,160 @@
+ 
+Classification: Internal  Contains PII: No 
+ 
+ 
+ 
+July 26, 202 4 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai -400 001.  
+Scrip Code: 543398  
+ National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G,  
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051  
+Scrip Symbol : LATENTVIEW  
+ 
+Dear Sir/Madam,  
+ 
+Sub:  Press Release - Unaudited Financial Results  for the quarter  ended June 30, 202 4.  
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015,  we have enclosed  herewith  the press release on the  Unaudited  Financial 
+Results  of the Company for the  quarter  ended June 30, 202 4. 
+ 
+This announcement is also available  on website of the company                                                
+i.e., https://www.latentview.com/ . 
+ 
+This is for your information and records.  
+ 
+ 
+  Thanking you,  
+  For Latent View Analytics Limited  
+ 
+       
+  
+    P. Srinivasan  
+    Company Secretary and Compliance Officer  
+  
+ 
+ 
+ 
+ 
+ 
+  
+Press Re  
+  
+  
+Press Release Q1FY25  
+LatentView Analytics Q1FY25 revenue grew 21.1%  YoY and 4.2% QoQ; 
+EBITDA Margin at 21.4%  
+ 
+Chennai, India – July 26, 2024 : LatentView Analytics Limited (BSE: 543398, NSE: LATENTVIEW), a global data 
+analytics, consulting, and solutions firm, today announced its financial results for the first quarter of FY25, ended 
+on June 30, 2024.  
+Commenting on the results, Rajan Sethuraman, Chief Executive Officer, LatentView Analytics, said , 
+"We have started the fiscal year on a positive note with a strong performance. For Q1FY25, our r evenue grew by 
+21.1% on a  YoY basis and 4.2% sequentially. Our continued growth momentum is a testament to the strong 
+execution by our team. This quarter, w e added several new marquee logos  and continued to strengthen our 
+existing relationships. The integration of our recent Decision Point acquisition has been successfully completed 
+and this will bolster our footprint in the CPG vertical and in delivering business value to our clients through RGM and Gen AI expertise. Furthermore, we rolled out salary increments for the entire team effective, April 1,  2024 
+and honoured all our commitments to onboard campus hires , despite the challenging macro environment.”  
+Rajan Venkatesan, Chief Financial Officer, LatentView Analytics, said ,  
+“For Q1FY25, we reported an operating revenue of ₹1,789.4 million with an EBITDA margin of 21.4%, up 240 bps on YoY basis.  The EBITDA margin was lower on a sequential basis owing to impact of salary increments and 
+cyclical visa costs. With the acquisition of Decision Point completed on July 1, 2024, we have fully utilised the 
+proceeds raised during our IPO well ahead of stated timelines. We remain committed to investing for organic and inorganic growth opportunities. As of June 30, 2024, our headcount stood at 1,261 and cash and investments (excluding IPO proceeds) remained strong at ₹11,330 million.”  
+Key Financial Highlights                                                    
+Particulars  
+₹ Million  Q1FY25  QoQ                  
+Growth YoY           
+Growth FY24  
+Operating Revenue  1,789  4.2%  21.1%           6,407  
+EBITDA  383 (5.3%)  36.3%  1,360  
+EBITDA %  21.4%    21.2%  
+PBT 521 (1.7%)  21.8%  1,970  
+PBT %  26.5%    27.6%  
+PAT 389 (13.9%)  18.5%  1,586  
+PAT %  19.8%    22.2%  
+Basic EPS (₹)  1.89 (14.1%)  18.1%  7.73 
+ 
+Select Key Client Wins in Q1FY25   
+● For a leading Fortune 500 global media and entertainment company, we are developing a unified, next -gen 
+insights delivery mechanism, offering a holistic view and seamless analysis to drive greater value from the 
+company's extensive research efforts.  
+● For a large power generator manufacturer, we are building an IHC (In- House Consulting) forecasting engine 
+to help them effectively handle marketing strategies, demand, inventory and operational planning, and resource allocation.  
+● For a leading South African food manufacturer, we are enabling competitive benchmarking and market research for their R&D function. By delivering detailed insights, we will empower the R&D head to identify gaps and create a strategic R&D timeline.  
+● For a leading European media company, using SmartInnovation, a LatentView consumer insights platform, we are helping them understand customer behaviour and drivers for purchasing. This engagement also 
+ 
+ 
+ 
+  
+Press Re  
+  
+  
+Press Release Q1FY25  
+includes delivering insights on competitors.  
+Other Business Highlights of Q1FY25  
+Onboarded key client partners  
+● Mitch Lustig : Mitch joins as a Client Partner for our Technology vertical, to drive large multi- million client 
+relationships. Mitch has over 20 years of experience in enterprise account management, business 
+development, customer success, product management and consultin g. 
+● Santosh Pandey : Santosh joins our Industrials entity as the Client Partner for our Automotive practice. 
+Santosh has over 15 years of experience in IT and Digital Consulting and has previously worked with large technology and consulting firms serving Automotive, Manufacturing and Retail clients.  
+Big strides in Generative AI  
+As our investment and focus on Generative AI continues to grow with the development of solutions in this space, 
+we are in the process of implementing enterprise- wide Gen AI projects for some of the largest Fortune 500 tech 
+organizations.  
+• For one of the world’s largest tech brands, we are currently leveraging our Gen AI -powered MarketLens 
+solution to create an application for users to interact and compare with different sets of audience persona 
+and generate insights, helping them understand the audience business metrics.  
+• For a leading tech device manufacturer, we are using our Gen AI -based chatbot, Sally, to enhance users' 
+understanding and optimization of their device's performance through natural language.  
+• For the world’s largest video streaming service provider, we are building an Insights Generation chat app. Built on retrieval augmentative generation architecture, it seamlessly integrates domain knowledge, context, and data for actionable insights, empowering users with quick responses.  
+Awards  
+● International Myeloma Foundation - IMF Partner of the Year Award: IMF recognized LatentView as their 
+Partner of the Year for 2023- 24. This award recognizes LatentView’s contribution in building an AI -powered 
+knowledge platform that helps the IMF team to make improvized medical decisions based on the appropriate 
+medical  conditions of the patient, making a real difference in the lives of patients with multiple myeloma.  
+● Great Place to Work: LatentView has been certified as a Great Place to Work and recognized among India’s 
+Best Workplaces.  
+● Great Mid- size Workplace : LatentView was honoured and featured amongst India’s great mid- size 
+workplaces in India. This milestone is a testament to an exceptional work environment that fosters growth, 
+collaboration, and innovation.  
+Marketing updates  
+● CPG -focussed Executive Roundtable in New York City : LatentView and Decision Point, joined forces for an 
+exclusive event for CPG and Retail leaders in Jersey City , welcoming voices from around the tri -state and 
+beyond to discuss the latest trends and breakthrough technologies in the world of analytics for CPG and Retail industries. The event focused on Revenue Growth Management (RGM), Product Innovation, and Supply Chain, as well as the growing influence of Gen AI in these areas.  
+● Auto-focussed Executive Roundtable in Detroit : In our networking event themed 'Shifting Gears: Building a 
+Connected Ecosystem to Drive Growth' in June, industry leaders explored strategies for leveraging analytics and AI to enhance profitability and foster growth. The event featured three prominent sol utions: 
+ConnectedNXT, ConnectedView MSV, and BeagleGPT.  
+New Office Inauguration - Bangalore: LatentView recently inaugurated the new and modern office space  for 
+our 150+ strong team in Bangalore.   
+ 
+ 
+ 
+  
+Press Re  
+  
+  
+Press Release Q1FY25  
+About LatentView Analytics   
+Latent View Analytics Limited (LatentView) is a global data analytics company that inspires and transforms 
+businesses to excel in the digital world by harnessing the power of data. The Company provides a 360 degree 
+view of the digital consumer, enabling companies to predict new  revenue streams, anticipate product trends and 
+popularity, improve customer retention rates, and optimize investment decisions. LatentView is a trusted partner 
+to enterprises worldwide, including 30+ Fortune 500 companies in the Technology, Financial serv ices, CPG, 
+Retail, and Healthcare sectors. LatentView Analytics partners with clients across the United States, Germany, UK, Netherlands, Singapore, India and has 12 60+ employees. For more information, please visit 
+https://www.latentview.com  or follow us o n LinkedIn.
+ 
+Safe Harbour   
+This release may contain certain forward- looking statements, which involve risks and uncertainties that could 
+cause actual results to differ materially from those that are projected by these forward- looking statements. 
+LatentView Analytics Ltd. undertakes no obligation to update forward-l ooking statements that may be made by 
+us from time to time by us or on our behalf.   
+For more information please contact  
+LatentView Analytics Limited  
+Srinivasan P - investorcare@LatentView.com  Ernst & Young LLP, Investor Relations   
+Diwakar Pingle - Diwakar.Pingle@in.ey.com  
+Asha Gupta - Asha.Gupta@in.ey.com   
+ 

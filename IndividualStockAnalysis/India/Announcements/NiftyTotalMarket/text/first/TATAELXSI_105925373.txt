@@ -1,0 +1,133 @@
+ 
+  
+July 2 5, 2024  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+ 
+Dear Sir s, 
+ 
+Sub: Press Release – “Tata Elxsi Selects Wind River Studio Developer for its Software -Defined 
+Vehicle Development .” 
+ 
+Please find enclosed the Press Release titled “Tata Elxsi Selects Wind River Studio Developer for its 
+Software -Defined Vehicle Development .” 
+ This disclosure is made in terms of requirements of Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+ 
+Further details of the Press Release can also be accessed at following link:  
+Tata Elxsi -  Tata Elxsi Selects Wind River Studio Developer for its Software -Defined Vehicle Development  
+ 
+This is for your information and records.  
+ Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Cauveri Sriram  
+Company Secretary & Compliance Officer  
+ 
+Encl.: Press Release  
+ 
+ 
+  
+ 
+Tata Elxsi  Selects Wind River Studio Developer for its Software -
+Defined Vehicle Development 
+   
+Bengaluru, India, ALAMEDA, CA — July 23, 2024  — Wind River®, a global leader in delivering 
+software for the intelligent edge, today announced  that Tata Elxsi , a global leader in technology 
+and design services , will leverage  Wind River Studio Developer  to accelerate its DevSecOps 
+process . This collaboration aims to streamline and optimize  Tata Elxsi’s  development workflows, 
+enhancing their capabilities in building software -defined vehicles (SDV).  
+ 
+Studio Developer is an edge -to-cloud DevSecOps platform that accelerates the development, 
+deployment, and operation of systems  in the mission -critical industries that Wind River serves . It 
+is designed to help software teams more easily and successfully adopt cloud -native development 
+capabilities that enable software -defined features to evolve and improve over their full lifecycle . 
+It delivers improvements in software workflow productivity and efficiency by  leveraging scalable 
+cloud resources, standardizing automation pipelines, allowing cloud -based collaboration on a 
+shared platform , and enhancing traceability throughout the sof tware development process.  
+ 
+The automotive industry's shift towards cloud -connected, software -defined vehicles presents 
+intricate challenges, requiring robust DevSecOps strategies to manage the software lifecycle.  
+Modern  cloud -native tools and techniques allow software teams to  innovate quickly, however  
+they must also be adapted to address the unique challenges of intelligent systems and embedded 
+software. Wind River’s cloud -native DevSecOps  tools minimize disruption and enhance existing 
+investments by enabling teams to incrementally improve their workflows and processes over time, leveraging existing software and IT development infrastructure.   
+ 
+“Wind River Studio Developer will allow us to deliver significant improvements in our software 
+workflow productivity and efficiency  in our SDV journey ,” said  G. Nambi Ganesh, General 
+Manager & Head of Automotive, Tata Elxsi. “Our collaboration with Wind  River will significantly 
+help us enable customers to achieve their SDV goals as the flexible and collaborative nature of 
+the platform will make it possible to simplify and accelerate the DevSecOps  process  without 
+compromising on safety, security, and other key requirements.”   
+ “Industry -leading organizations are using Studio Developer to lower embedded software lifecycle 
+costs, shorten time-to -market, and capture new revenue opportunities . SDVs need to maintain 
+high quality standards in an extremely complex system, making our virtual lab capabilities especially valuable for automated testing and validation pipelines that incorporate both software -
+in-the-loop and hardware -in-the-loop approaches ," said Sandeep Modhvadia, Chief Product 
+Officer, Wind River. “We are very pleased to be working with Tata Elxsi to accelerate their 
+innovation, enabling them to gain a competitive advantage .”  
+ 
+In 2022, Wind River was acquired by global mobility technology leader Aptiv . By integrating Wind 
+River's cloud -native software platforms into Aptiv's industry -leading Smart Vehicle Architecture ™, 
+ 
+ 
+  
+ 
+the combined organizations are enabling customers to unlock the full potential of the software -
+defined vehicle throughout its complete lifecycle.  
+ 
+“Wind River has strengthened our technology portfolio of industry -leading  solutions, enabling us 
+to offer customers a sensor- to-cloud portfolio and unmatched expertise in safety and mission -
+critical systems,” said  Benjamin Lyon , Chief Technology Officer, Aptiv. “ By harnessing the power 
+of Studio Developer, Tata Elxsi will significantly increase software development efficiency with a n 
+innovative  platform t hat address es the complex future mobility requirements and evolving 
+demands of software -defined vehicles.”  
+ 
+For more information about Wind River Studio Developer , 
+visit www.windriver.com/studio/developer .     
+ About Tata Elxsi  
+Tata Elxsi is among the world’s leading design and technology services providers across industries, 
+including Automotive, Broadcast, Communications, Healthcare, and Transportation. We are helping customers reimagine their products and services through design thinking and applying 
+digital technologies such as IoT (Internet of Things), Cloud, Mobility, Virtual Reality, DevOps, 
+Artificial Intelligence and Network Operations Center management.  
+ 
+Tata Elxsi’s cloud -agnostic SDV development and validation solution, Tata Elxsi AVENIR, offers a 
+scalable software service framework, which supports cloud- native development and vehicle edge 
+platform deployment for vehicles.  With Tata Elxsi AVENIR, applic ations can be seamlessly 
+deployed as services through a sophisticated, service -oriented middleware layer, ensuring a 
+streamlined and efficient deployment process. Through Tata Elxsi AVENIR, we are helping global 
+OEMs realize their vision of Software -Defined Vehicles . For more information, 
+visit www.tataelxsi.com.   
+ About Wind River  
+Wind River is a global leader in delivering software for the intelligent edge. For more than four decades, the company has been an innovator and pioneer, powering billions of devices and systems that require the highest levels of security, safety, and reliability. Wind River software and 
+expertise are accelerating digital transformation across industries including automotive, aerospace, defense, industrial, medical, and telecommunications. The company offers a comprehensive portfolio supported by world -class global professional services and support and a 
+broad partner ecosystem.   
+ 
+Wind River is a trademark or registered trademark of Wind River Systems, Inc., and its affiliates. Other names may be the trademarks of their respective owners.  
+ 
+# # #  
+  
+ 
+ 
+ 
+  
+ 
+MEDIA CONTACT  
+Wind River  
+Jenny Suh             
+510-749-2972     
+jenny.suh@windriver.com  
+ 
+Tata Elxsi  
+Hari Balan  
+Corporate Communications  
+Email: media@tataelxsi.com  

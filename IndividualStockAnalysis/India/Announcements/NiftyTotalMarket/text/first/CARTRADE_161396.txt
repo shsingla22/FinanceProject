@@ -1,0 +1,115 @@
+ 
+ 
+Date: May 06 , 2024  
+To,      To, 
+Department of Corporate Services,    Listing Department,  
+BSE Limited      National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers,    Exchange plaza, Plot No. C/1, G Block  
+Dalal Street      Bandra Kurla Complex, Bandra East,  
+Mumbai - 400001      Mumbai – 400051  
+Scrip Code:  543333     Scrip Symbol:  CARTRADE  
+ISIN:  INE290S01011  
+ 
+Dear  Sir/Madam,  
+ 
+Sub:  Outcome of Board Meeting of CarTrade Tech Limited  (“the Company”)  
+Reference: Regulation 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015.  
+ 
+Pursuant to the provisions of Regulation 30 and 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Di sclosure Requirements) Regulations, 2015, as amended  (“SEBI LODR Regulations ”), and in 
+continuation of our intimation dated April 30, 2024 , this is to inform you that the Board of Directors at of the 
+Company at their meeting held today i.e. on May 06 , 2024  which commenced at 10.30  a.m. and concluded at 
+11.41 a.m. have approved the A udited Standalone and Consolidated Financial Results of the Company for the 
+fourth  quarter and financial year  ended March  31, 2024.  
+ 
+Further, we would like to state that M/s S.R. Batliboi & Associates LLP, statutory auditors of the Company have 
+issued audit reports on the aforesaid financial results (Standalone and Consolidated) with unmodified opinion.  
+ 
+The Audited Standalone and Conso lidated Financial results along with a copy of the Audit Report s of the 
+Company for the fourth quarter and financial year ended March 31, 2024 are enclosed herewith.  
+ 
+The above information along with the relevant documents shall also be made available on t he Company's 
+website https://www.cartradetech.com/ . You are requested to kindly take the above information on your 
+records.  
+Yours faithfully , 
+For CarTrade Tech Limited  
+ 
+ 
+_____________________________________  
+Lalbahadur Pal  
+Company Secretary and Compliance officer  
+Mem. No. A40812          Enclosed: a/a  
+
+
+
+
+(Rs. In Lakhs )
+March 31, 2024 December 31, 2023 March 31, 2023 March 31, 2024 March 31, 2023
+Audited 
+(Refer note 3)Unaudited Audited 
+(Refer note 3)Audited Audited
+Income
+  Revenue from operations 14,527.71                 13,858.81                      9,586.48                    48,994.62                 36,373.92                 
+  Other income 1,533.59                    1,327.00                         2,073.17                    6,528.07                    6,398.25                    
+Total income 16,061.30                 15,185.81                      11,659.65                 55,522.69                 42,772.17                 
+Expenses
+  Purchase of Stock-in-trade -                              -                                  46.00                          -                              523.63                        
+  Changes in Inventories of stock-in-trade -                              -                                  -                              -                              122.27                        
+  Employees benefit expense 6,678.68                    6,756.46                         5,136.96                    24,606.16                 20,532.92                 
+  Finance cost 255.75                        229.34                            204.33                        924.66                        767.19                        
+  Depreciation and amortization expense 1,036.87                    957.18                            758.93                        3,739.31                    2,873.89                    
+  Other expenses 5,117.01                    4,567.19                         3,225.86                    16,448.92                 11,895.67                 
+Total expenses 13,088.31                 12,510.17                      9,372.08                    45,719.05                 36,715.57                 
+Profit before tax from Continuing Operations 2,972.99                    2,675.64                        2,287.57                    9,803.64                    6,056.60                    
+Tax expenses 
+  Current tax 270.52                        192.54                            210.41                        1,526.75                    850.95                        
+  Deferred tax expenses 361.47                        287.10                            328.11                        63.75                          1,162.28                    
+Total Tax expenses 631.99                        479.64                            538.52                        1,590.50                    2,013.23                    
+Profit from Continuing Operations 2,341.00                    2,196.00                        1,749.05                    8,213.14                    4,043.37                    
+Profit / (Loss) from Discontinued Operation (net of tax)                        155.86 (4,551.07)                       -                              (6,215.35)                   -                              
+Profit / (Loss) for the quarter / year                     2,496.86                       (2,355.07)                     1,749.05                     1,997.79                     4,043.37 
+Other Comprehensive Income / (loss)
+Continuing Operations
+Items that will not be reclassified to profit or loss 
+  Remeasurement of the defined benefit plan 18.82                          19.61                              (3.25)                           (9.88)                           (91.68)                        
+  Income tax related to the above (6.95)                           1.54                                0.81                            14.57                          23.07                          
+Total Other comprehensive Income / (loss) from Continuing 
+Operations11.87                          21.15                              (2.44)                           4.69                            (68.61)                        
+Discontinued Operation
+Items that will not be reclassified to profit or loss 
+  Remeasurement of the defined benefits plan -                              -                                  -                              -                              -                              
+  Income tax related to the above -                              -                                  -                              -                              -                              
+Total Other comprehensive Income / (loss) from 
+Discontinued Operation-                              -                                  -                              -                              -                              
+Total Other comprehensive Income / (loss) 11.87                          21.15                               (2.44)                           4.69                             (68.61)                        
+Total comprehensive income / (loss) for the quarter / year 2,508.73                    (2,333.92)                       1,746.61                    2,002.48                    3,974.76                    
+Profit / (loss) for the quarter / year attributable to 
+Equity holders of the parent 2,251.97                    (2,423.03)                       1,495.52                    1,430.29                    3,399.76                    
+Non-controlling interest 244.89                        67.96                              253.53                        567.50                        643.61                        
+Equity holders of the parent 8.67                            23.74                              1.11                            10.39                          (42.27)                        
+Non-controlling interest 3.20                            (2.59)                               (3.55)                           (5.70)                           (26.34)                        
+Equity holders of the parent 2,260.64                    (2,399.29)                       1,496.63                    1,440.68                    3,357.49                    
+Non-controlling interest 248.09                        65.37                              249.98                        561.80                        617.27                        
+                    4,688.79 4,685.09                         4,684.44                    4,688.79                    4,684.44                    
+Other equity (excluding revaluation reserves) 2,02,310.70              1,99,660.12              
+Earnings Per Equity Share (face value of Rs. 10/- each) 
+(Quarters not annualised)
+Continuing Operations
+Basic (in Rs.) 4.47                            4.54                                3.19                            16.32                          7.28                            
+Diluted (in Rs.) 4.11                            4.17                                2.93                            15.00                          6.71                            
+Discontinued Operation
+Basic (in Rs.) 0.33                            (9.71)                               -                              (13.27)                        -                              
+Diluted (in Rs.) 0.31                            (9.71)                               -                              (13.27)                        -                              
+Continuing and Discontinued Operation
+Basic (in Rs.) 4.81                            (5.17)                               3.19                            3.05                            7.28                            
+Diluted (in Rs.) 4.41                            (5.17)                               2.93                            2.81                            6.71                            CarTrade Tech Limited
+Corporate Identity Number: L74900MH2000PLC126237
+Statement of Audited Consolidated Financial Results For The Quarter and Year Ended March 31, 2024
+Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+website: www.cartradetech.com, Email: investor@cartrade.com
+Total Other comprehensive income / (loss) for the quarter / 
+year attributable to
+See accompanying notes to financial resultsParticularsQuarter ended
+Total comprehensive income / (loss) for the quarter / year 
+attributable toYear ended
