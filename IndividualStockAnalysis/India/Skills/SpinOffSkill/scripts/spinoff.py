@@ -1274,6 +1274,8 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     business, not spinning one off."""
     if sit.get("facts", {}).get("is_the_spin"):
         return None, ""                              # the spun entity itself; nothing to demote
+    if str(sit.get("facts", {}).get("record_date_source", "")).startswith("NSE"):
+        return None, ""                              # the exchange's register says this company demerged: no reading overrides it
     if sit["kind"] == "demerger" and sit.get("facts", {}).get("no_listing_sought"):
         return "other", ("no listing will be sought for the resulting entity — the company's own SEBI disclosure "
                          f"says so ({sit['facts'].get('listing_sought_quote', '')[:140]}); a reorganisation inside the group")
@@ -1307,7 +1309,8 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     if starts_empty and ACQUISITION_RX.search(what) and not DEMERGER_WORDS_RX.search(spun) and quiet:
         return "other", "the judge read an acquisition or stake purchase; nothing is separated"
     # the judge on listing: 'No new listing: GIL will continue as the listed entity'
-    if re.match(r"\s*no (?:new |separate )?listing\b", tl, re.I):
+    # ('No listing date stated …' is silence, not a no)
+    if re.match(r"\s*no (?:new |separate )?listing(?:\s*[:;,.—–-]|\s+(?:is|will|would)\s+(?:be\s+)?(?:sought|required|needed|take place|happen)|\s+for\b)", tl, re.I):
         return "other", f"the judge read the listing question as answered no: “{tl[:140]}”"
     # the business goes to a wholly-owned subsidiary and nothing says it will list
     sought = sit.get("facts", {}).get("listing_sought") or {}

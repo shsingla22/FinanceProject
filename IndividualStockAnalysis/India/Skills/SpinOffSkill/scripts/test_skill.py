@@ -1262,8 +1262,12 @@ def test_rules_from_the_long_backtests_unverified_list(monkeypatch):
     # Adani Enterprises today: 'not stated; … no Food FMCG demerger'
     assert SO.judge_override(base, {**j, "what_is_spun": "not stated; filings show amalgamations under the Composite Scheme and a cash sale of the AWL stake, no Food FMCG demerger",
                                     "parent_or_spin": "unclear"})[0] == "other"
-    # GMR: the judge answers the listing question with no
+    # GMR: the judge answers the listing question with no; 'No listing date stated' is silence, not a no
     assert SO.judge_override(base, {**j, "what_is_spun": "GIL's non-airport business, demerged into GMR Power", "listing_timeline": "No new listing: GIL will continue as the listed entity"})[0] == "other"
+    assert SO.judge_override(base, {**j, "what_is_spun": "Platform Business Undertaking demerged into Odigma", "listing_timeline": "No listing date stated. On November 14, 2026 the company said Rediff filed the UDRHP"})[0] is None
+    # and the exchange's register outranks every reading: a company with a demerger record date is never demoted
+    reg = {**base, "facts": {"record_date": "2024-09-11", "record_date_source": "NSE corporate-actions register", "direction": "inbound"}}
+    assert SO.judge_override(reg, {**j, "what_is_spun": "Not stated — documents describe an amalgamation", "listing_timeline": "No new listing."})[0] is None
     # Tata Communications: to a wholly-owned subsidiary, nothing about listing; Natco: to a WOS that WILL list
     assert SO.judge_override(base, {**j, "what_is_spun": "new edge digital services business, hived off to wholly-owned subsidiary Novamesh Limited"})[0] == "other"
     natco = {**base, "facts": {"listing_sought": {"yes": 2}}}
