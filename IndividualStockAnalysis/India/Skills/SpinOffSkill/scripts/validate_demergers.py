@@ -104,6 +104,12 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
     today = today or dt.date.today()
     window = ((today - dt.timedelta(days=days)).isoformat(), today.isoformat()) if days else None
     reg = register_demergers(gt, window)
+    # for PRECISION the register may show record dates announced for the
+    # weeks ahead (the file lists them as soon as they are fixed), and — when
+    # the register runs past the as-of date, as it does in a backtest — a
+    # record date that came later verifies a 'pending' confirmed demerger
+    ahead = register_demergers(gt, (window[0], (today + dt.timedelta(days=90)).isoformat())) if window else reg
+    later = register_demergers(gt, (today.isoformat(), "9999-12-31")) if window else {}
     equities = listed_equities() if equities is None else equities
     by_sym: dict[str, list[dict]] = {}
     for s in situations:
@@ -137,7 +143,7 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
             said_nothing = bool(re.search(r"nothing (is )?(separated|spun|demerged)|not a demerger|only (an? )?(amalgamation|merger)",
                                           f"{j.get('what_is_spun', '')} {j.get('reason', '')}", re.I))
             at_record = s["stage"] in ("record_date", "listed") or s.get("listed_on")
-            in_reg = sym in reg
+            in_reg = sym in ahead
             is_spin = s.get("facts", {}).get("is_the_spin")
             if said_nothing:
                 v = "FALSE POSITIVE (judge: nothing separated)"
@@ -150,10 +156,13 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
                 v = "FALSE POSITIVE (record date claimed, register has none)"
             elif at_record and in_reg:
                 v = "verified by the register"
+            elif sym in later:
+                v = f"verified by a later record date ({min(later[sym]['dates'])})"
             else:
                 v = "pending — not yet verifiable (no record date yet)"
             row = {"symbol": sym, "company": s["company"], "skill_stage": s["stage"],
-                   "listed_on": s.get("listed_on") or "", "register_dates": "; ".join(sorted(reg[sym]["dates"])) if in_reg else "",
+                   "listed_on": s.get("listed_on") or "",
+                   "register_dates": "; ".join(sorted(ahead[sym]["dates"] if in_reg else later.get(sym, {}).get("dates", []))),
                    "what_is_spun": (j.get("what_is_spun") or "")[:100], "verdict": v}
             precision_rows.append(row)
             (false_pos if v.startswith("FALSE") else pending if v.startswith("pending") else []).append(row)
@@ -162,6 +171,7 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
             "summary": {"register_demergers": len(reg), "captured": len(reg) - len(misses), "missed": len(misses),
                         "confirmed_in_skill": len(precision_rows),
                         "verified": sum(1 for r in precision_rows if r["verdict"].startswith("verified")),
+                        "verified_later": sum(1 for r in precision_rows if r["verdict"].startswith("verified by a later")),
                         "pending": len(pending), "false_positives": len(false_pos)}}
 
 

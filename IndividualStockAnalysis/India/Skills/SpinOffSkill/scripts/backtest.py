@@ -80,8 +80,9 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
          f"| …captured by the skill as confirmed / probable demergers | {s['captured']} |",
          f"| …MISSED (absent, or held as merger / other) | {s['missed']} |",
          f"| Confirmed demergers in the skill as of {to} | {s['confirmed_in_skill']} |",
-         f"| …verified by a register record date or the company's own listing | {s['verified']} |",
-         f"| …pending (no record date by {to}) | {s['pending']} |",
+         f"| …verified by a register record date or the company's own listing | {s['verified'] - s.get('verified_later', 0)} |",
+         f"| …verified by a record date that came AFTER {to} (the register up to today) | {s.get('verified_later', 0)} |",
+         f"| …pending (no record date to date) | {s['pending']} |",
          f"| …FALSE POSITIVES | {s['false_positives']} |",
          f"| Probable demergers | {len(prob)} |", f"| Indicated demergers | {len(ind)} |",
          f"| Situations in all | {len(sits)} |", ""]

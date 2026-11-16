@@ -1209,6 +1209,52 @@ def test_pdf_text_with_lone_surrogates_is_still_written():
 
 # ============================================= the register check (validate_demergers)
 
+def test_register_record_date_overrides_the_filings_date_and_looks_a_little_ahead(monkeypatch):
+    # ITC: the filings' words gave a June 2024 'record date' (the dividend's); the register says 2025-01-06
+    row = {"date": "2024-06-01", "symbol": "ITC", "company": "ITC Ltd.", "source": "NSE", "category": "Demerger",
+           "kind": "demerger", "tags": "demerger", "headline": "Scheme of Arrangement — demerger of the Hotels business",
+           "attachment": "", "ann_id": "i1", "file_size": "", "text_file": ""}
+    text = "The Board fixed Tuesday, 4 June 2024 as the record date. The demerger of the Hotels Business into ITC Hotels Limited."
+    monkeypatch.setattr(SO, "_REGISTER", {"ITC": ["2025-01-06"]})
+    s = SO.build_situations([row], {"i1": text}, today=dt.date(2025, 3, 31))[0]
+    assert s["stage"] == "record_date" and s["listed_on"] == "2025-01-06" and s["facts"]["record_date"] == "2025-01-06"
+    assert s["facts"]["record_date_source"].startswith("NSE")
+    # an upcoming record date in the file: stage record_date, nothing listed yet
+    monkeypatch.setattr(SO, "_REGISTER", {"ITC": ["2025-04-07"]})
+    s = SO.build_situations([row], {"i1": text}, today=dt.date(2025, 3, 31))[0]
+    assert s["stage"] == "record_date" and s["listed_on"] is None and s["facts"]["record_date"] == "2025-04-07"
+    assert SO.listing_status(s, {}, dt.date(2025, 3, 31))["state"] == "pending_record_date_set"
+    # set_register keeps the announced weeks ahead, not months
+    import tempfile
+    p = Path(tempfile.mkdtemp()) / "gt.csv"
+    p.write_text("date,symbol,company,purpose,source,detail,isin,register_symbol,in_universe\n"
+                 "2025-04-07,SIEMENS,Siemens,Demerger,bc,,,SIEMENS,yes\n2025-09-01,LATE,Late,Demerger,bc,,,LATE,yes\n")
+    assert SO.set_register(p, dt.date(2025, 3, 31)) == {"SIEMENS": ["2025-04-07"]}
+
+
+def test_register_check_verifies_later_record_dates_in_a_backtest():
+    import validate_demergers as VD
+    gt = [{"date": "2025-04-07", "symbol": "SIEMENS", "company": "Siemens", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},
+          {"date": "2025-12-05", "symbol": "HINDUNILVR", "company": "HUL", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},
+          {"date": "2025-01-06", "symbol": "ITC", "company": "ITC", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""}]
+    sits = [{"symbol": "SIEMENS", "company": "Siemens", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "record_date",
+             "listed_on": None, "facts": {"record_date": "2025-04-07"}, "judge": {"what_is_spun": "energy business"}},
+            {"symbol": "HINDUNILVR", "company": "HUL", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "announced",
+             "listed_on": None, "facts": {}, "judge": {"what_is_spun": "ice cream"}},
+            {"symbol": "ITC", "company": "ITC", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "record_date",
+             "listed_on": "2025-01-06", "facts": {}, "judge": {"what_is_spun": "hotels"}},
+            {"symbol": "NEVER", "company": "Never", "kind": "demerger", "confidence": ("confirmed", ""), "stage": "announced",
+             "listed_on": None, "facts": {}, "judge": {"what_is_spun": "a unit"}}]
+    res = VD.check(sits, gt, dt.date(2025, 3, 31), equities=[], days=365)
+    assert set(res["register"]) == {"ITC"}                                   # recall: the window only
+    byp = {r["symbol"]: r["verdict"] for r in res["precision"]}
+    assert byp["SIEMENS"] == "verified by the register"                     # announced ahead, in the file already
+    assert byp["HINDUNILVR"] == "verified by a later record date (2025-12-05)"
+    assert byp["ITC"] == "verified by the register" and byp["NEVER"].startswith("pending")
+    s = res["summary"]
+    assert (s["verified"], s["verified_later"], s["pending"], s["false_positives"]) == (3, 1, 1, 0)
+
+
 def test_register_check_finds_misses_and_false_positives():
     import validate_demergers as VD
     gt = [{"date": "2026-05-01", "symbol": "VEDL", "company": "Vedanta", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""},

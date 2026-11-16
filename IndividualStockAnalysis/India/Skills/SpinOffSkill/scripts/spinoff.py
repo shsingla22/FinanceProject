@@ -416,14 +416,20 @@ def register_dates(path: Path = REGISTER) -> dict[str, list[str]]:
     return _REGISTER
 
 
-def set_register(path: Path | None = None, as_of: dt.date | None = None) -> dict[str, list[str]]:
+REGISTER_LOOKAHEAD_DAYS = 45       # a record date is announced two to six weeks ahead; the file shows it
+
+
+def set_register(path: Path | None = None, as_of: dt.date | None = None,
+                 lookahead: int = REGISTER_LOOKAHEAD_DAYS) -> dict[str, list[str]]:
     """Load the register from `path` (default REGISTER), keeping only record
-    dates on or before `as_of` — a backtest must not know later dates."""
+    dates up to `as_of` plus the lookahead — what the corporate-actions file
+    showed on that day: passed record dates and the announced upcoming
+    ones (Siemens' 7 April 2025 record date was in the file in March)."""
     global _REGISTER
     _REGISTER = None
     reg = dict(register_dates(path or REGISTER))
     if as_of:
-        lim = as_of.isoformat()
+        lim = (as_of + dt.timedelta(days=lookahead)).isoformat()
         reg = {k: [d for d in v if d <= lim] for k, v in reg.items()}
         reg = {k: v for k, v in reg.items() if v}
     _REGISTER = reg
@@ -646,6 +652,21 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
         # was read from the wrong filing (a dividend record date, listing
         # boilerplate) — the claim is dropped and the stage falls back
         reg = register_dates()
+        # the register's record date is the exchange's own: when it has this
+        # company, it sets the record-date stage and the listing date, over
+        # whatever date the filings' words gave (ITC's filings yielded a June
+        # 2024 date for a demerger whose record date was 6 January 2025)
+        if kind == "demerger" and sym in reg:
+            passed = [d for d in reg[sym] if d <= today.isoformat()]
+            ahead = [d for d in reg[sym] if d > today.isoformat()]
+            rd = max(passed) if passed else min(ahead)
+            facts["record_date"], facts["record_date_source"] = rd, "NSE corporate-actions register"
+            stage_dates["record_date"] = rd
+            if stage_dates.get("listed") and stage_dates["listed"] < rd:
+                stage_dates.pop("listed")                  # a 'listing' before the record date was something else
+            stage = max(stage_dates, key=STAGE_ORDER.index)
+            listed_on = (stage_dates.get("listed") or rd) if passed else None
+            age_listed = (today - dt.date.fromisoformat(listed_on)).days if listed_on else None
         if kind == "demerger" and listed_on and stage in ("record_date", "listed") and reg \
                 and sym not in reg and age_listed is not None and age_listed > LISTING_LAG_DAYS:
             facts["register_note"] = (f"NSE's corporate-actions register has no demerger record date for {sym}; "
