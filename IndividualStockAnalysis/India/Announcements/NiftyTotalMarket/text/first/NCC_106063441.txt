@@ -1,0 +1,39 @@
+Resolution required: (Ordinary/ Special)
+Whether promoter/ promoter group are 
+interested in the agenda/resolution? No
+Category Mode of VotingNo. of shares 
+held (1)No. of votes 
+polled (2)% of Votes Polled 
+on outstanding 
+shares 
+(3)=[(2)/(1)]* 100No. of Votes – in 
+favour (4)No. of Votes – 
+against (5)% of Votes in 
+favour on votes 
+polled 
+(6)=[(4)/(2)]*100% of Votes 
+against on votes 
+polled 
+(7)=[(5)/(2)]*100
+E-Voting 138136680 0 0.0000 00 0 0.0000 0.0000
+Poll 138136680 0 0.0000 00 0 0.0000 0.0000
+Postal Ballot (if 
+applicable) 138136680 0 0.0000 00 0 0.0000 0.0000
+E-Voting 206369716 173467760 84.0568 173467760 0 100.0000 0.0000
+Poll 206369716 0 0.0000 00 0 0.0000 0.0000
+Postal Ballot (if 
+applicable) 206369716 0 0.0000 00 0 0.0000 0.0000
+E-Voting 283340192 5562085 1.9630 5557098 4987 99.9103 0.0896
+Poll 283340192 0 0.0000 00 0 0.0000 0.0000
+Postal Ballot (if 
+applicable) 283340192 0 0.0000 00 0 0.0000 0.0000
+Total 627846588 179029845 28.5149 179024858 4987 99.9972 0.0028ORDINARY - To consider and approve Material Related Party Transactions to be entered into between the Company and/ or its subsidiary with 
+Promoter and Promoter Group
+Public- Institutions
+Public- Non InstitutionsNo. of Shareholders attended the meeting through Video 
+       Promoters and Promoter Group: 0
+       Public: 0No. of shareholders present in the meeting either in person or 
+       Promoters and Promoter Group:
+       Public:Company Name NCC LIMITED
+Date of the AGM/EGM
+Total number of shareholders on record date 510919

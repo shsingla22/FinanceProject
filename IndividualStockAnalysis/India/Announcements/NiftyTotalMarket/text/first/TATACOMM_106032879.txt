@@ -1,0 +1,149 @@
+TATA COMMUNICATIONS G 
+TATA 
+ 
+ 
+Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India  
+Regd. Office: VSB  Mahatma Gandhi Road  Fort Mumbai  400 001  India  
+Tel: + 91 22 6659 1968  email: investor.relations@tatacommunications.com  
+CIN:  L64200MH1986PLC039266 website: www.tatacommunications.com  
+ 
+ 
+HQ/CS/CL.24B/ 18040  
+October  24, 2024  
+ 
+Dear Sir / Madam,  
+ 
+Sub:  Press Release - Tata Communications Unveils AI Infrastructure with NVIDIA 
+Accelerated Computing, Built for New Era of Computing in India  
+ 
+Please find attached herewith the press release on the captioned subject being issued  
+today.  
+ 
+Kindly take the same on your records.   
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Communications Limited  
+ 
+ 
+ 
+Zubin Adil Patel  
+Company Secretary and Compliance Offic er National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Mumbai – 400 051  
+SYMBOL: TATACOMM   BSE Limited  
+P.J. Towers, Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 500483  
+ 
+ 
+Tata Communications Unveils AI 
+Infrastructure with NVIDIA Accelerated 
+Computing, Built for New Era of Computing  
+in India  
+  
+News summary:  
+  
+• Tata Communications announces its AI Cloud infrastructure with NVIDIA GPUs  
+• First phase to begin at the end of this year, establishing Tata Communications’ 
+deployment as one of the largest NVIDIA Hopper GPU cloud -based supercomputers in 
+India  
+ 
+     
+ 
+Mumbai, India, October 24, 2024  – Tata Communications today announced a transformative 
+upgrade to its AI cloud infrastructure in India, powered by NVIDIA Hopper GPUs . The strategic 
+collaboration marks a significant milestone in the country’s AI journey, positioning Tata 
+Communications as a key player in enabling AI applications across a wide spectrum of 
+industries — including manufacturing, healthcare, retail, and banking and financial services — 
+and equipping them with the computing power needed to handle complex AI workloads.  
+  
+As part of the initiative, Tata Communications will integrate cutting -edge NVIDIA software 
+solutions such as NVIDIA NIM microservices, and the NVIDIA Omniverse and NVIDIA Isaac 
+platforms, into its AI Cloud offerings. These technologies will provide busines ses with an 
+extensive suite of tools and services designed for AI -driven simulation, automation and more.  
+ 
+At the end of this year, Tata Communications will begin the first phase of its large -scale 
+deployment of Hopper GPUs, establishing itself as one of the largest NVIDIA Hopper GPU 
+cloud -based supercomputers in India. The second phase, planned for 2025, will further expand 
+the infrastructure with Blackwell GPUs.  
+  
+Tata Communications is poised to disrupt the AI landscape with an AI studio, a 
+groundbreaking, all -in-one platform designed to transform how businesses use AI, by offering 
+tools like AI Workbench, Model Garden, Responsible AI and serverless functions.  
+ 
+Further, its advanced tools will simplify distributed data management, allowing businesses to • Collaboration to position Tata Communications as a key player in enabling AI 
+applications across industries, including manufacturing , healthcare, retail, and 
+banking and financial services  
+ 
+ 
+efficiently collect and curate data across various enterprise systems and move it to the AI 
+Cloud  using Tata Communications'  IZO™ Multi Cloud Connect  platform. This approach will 
+ensure cost -effectiveness and scalability for enterprises , while maintaining their existing data 
+structures.  
+ 
+Complementing this is  Tata Communications'  CloudLyte  Edge Computing platform,  
+which enables low -latency inferencing, allowing businesses to deploy models at the edge for 
+real- time responses. Together, these innovations empower enterprises to fully harness the 
+power of AI.  
+ “AI is expanding the boundaries of innovation and revolutionizing business in ways we could never have imagined,” said AS Lakshminarayanan, MD & CEO, Tata Communications . 
+“Therefore, every entity must prioritis e AI integration to stay competitive. We are delighted to 
+partner with NVIDIA to build a unique and transformative Cloud Fabric that will empower a generation of Indian innovators and entrepreneurs, fostering a vibrant AI ecosystem and propelling the nation towards a future fuelled by AI.”  
+ Providing enterprises with a powerful infrastructure capable of handling complex AI workloads will help drive AI adoption across India. Combining NVIDIA’s AI platform with TATA Communications’ global network, will create a national supercomputing framework, driving innovation and helping eleva te India’s role in the global AI player  ranks . 
+ “Tata Communications’ AI cloud infrastructure, integrating NVIDIA accelerated computing, will support businesses of all sizes — from AI startups to large enterprises — helping drive artificial 
+intelligence transformation across various sectors of the Indian economy and creating a powerful ecosystem for AI innovation,” said Jay Puri, executive vice president of worldwide field operations at NVIDIA . 
+ Tata Communications customers will also gain access to  the NVIDIA AI Enterprise
+ software 
+platform on its accelerated infrastructure, which is designed to let users build, customize and 
+run generative and agentic AI applications in production. This includes NVIDIA NIM Agent 
+Blueprints , which provide customisable reference architectures for use cases like digital 
+human technologies or AI virtual assistants for customer service, multimodal PDF extraction 
+workflows for enterprise data retrieval and container security workflows for cybersecurity.  
+ Enterprises can also create their own AI models using the  NVIDIA NeMo
+ end-to-end platform 
+for developing custom generative AI,  and run efficient AI inference through  NVIDIA’s NIM  
+microservices –both part of the NVIDIA AI Enterprise –   offering unparalleled flexibility and 
+performance for AI workloads.  
+ By integrating NVIDIA technologies, Tata Communications will continue to demonstrate its commitment to building next- generation AI infrastructure and services, positioning the 
+company to lead India’s AI transformation and make AI more accessible across ind ustries.  
+ 
+ 
+  
+Tata Communications Media Contact                                  
+Judhajit Basu                                                                          
++919811128846                                                                     
+judhajit.basu@tatacommunications.com  
+ 
+About Tata Communications  
+A part of the Tata Group, Tata Communications (NSE: TATACOMM; BSE: 500483) is a global digital ecosystem enabler 
+powering today’s fast -growing digital economy in more than 190 countries and territories. Leading with trust, it enables 
+digital transformation of enterprises globally with collaboration and connected solutions, core and next gen connectivity, 
+cloud hosting and security solutions and media services. 300 of the Fortune 500 companies are its customers and the 
+company connects businesses to 80% of the world’s clo ud giants. For more information, please visit  
+www.tatacommunications.com  
+ 
+        
+ 
+ 
+Forward -looking and cautionary statements  
+Certain words and statements in this release concerning Tata Communications and its prospects, and other statements, including those relating to Tata Communications’ expected financial position, business strategy, the future development of Tata Communications’ operations, 
+and the general economy in India, are forward- looking statements. Such statements involve known and unknown risks, uncertainties, and 
+other factors, including financial, regulatory, and environmental, as well as those relating to industry growth and trend projections, which 
+may cause actual results, performance or achievements of Tata Communications, or industry results, to differ materially from those 
+expressed or implied by such forward -looking statements. The important factors that could  cause actual results, performance or 
+achievements to differ materially from such forward- looking statements include, among others, failure to increase the volume of traffic on 
+Tata Communications’ network; failure to develop new products and services tha t meet customer demands and generate acceptable margins; 
+failure to successfully complete commercial testing of new technology and information systems to support new products and ser vices, 
+including voice transmission services; failure to stabilize or reduce the rate of price compression on certain of the company’s communications services; failure to integrate strategic acquisitions and changes in government policies or regulations of India and, in particular, changes 
+relating to the administration of Tata Communications’ industry; and, in general, the economic, business and credit conditions in India. 
+Additional factors that could cause actual results, performance, or achievements to differ materially from such forward- looking statements, 
+many of which are not in Tata Communications’ control, include, but are not limited to, those risk factors discussed in Tata Communications 
+Limited’s Annual Reports.  
+  
+  
+The Annual Reports of Tata Communications Limited are available at www.tatacommunications.com.  Tata Communications is under no 
+obligation to, and expressly disclaims any obligation to, update or alter its forward -looking statements.  
+  © 2024 Tata Communications Ltd. All rights reserved.  
+TATA COMMUNICATIONS and TATA are trademarks or registered trademarks of Tata Sons Private Limited in India and certain countr ies. 

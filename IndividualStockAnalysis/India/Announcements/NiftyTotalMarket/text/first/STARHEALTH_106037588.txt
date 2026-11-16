@@ -1,0 +1,106 @@
+ 
+ 
+         Date: October 28 , 2024  
+                                                                                                                  Place: Chennai      
+Ref: SHAI/B & S/SE/ 132/2024 -25 
+ 
+To,        To, 
+The Manager       The Manager  
+Listing Department      Listing Department  
+BSE Limited       National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Tower     Exchange Plaza, 5th Floor, Plot C/1,  
+Dalal Street       G Block, Bandra -Kurla Complex  
+Mumbai – 400001      Mumbai – 400051.  
+Scrip Co de: 543412      Scrip Code: STARHEALTH  
+ 
+Dear Sir/ Madam,  
+ 
+Sub: Update on the unauthorized access  
+ 
+We, Star Health and Allied Insurance Company Limited ( Company  or we or us) write in furtherance 
+to our previous communication regarding the cyber security inc ident involving unauthorized access by 
+an unknown person or group of persons  (Threat Actor ) to certain customer data ( Incident ), bearing  (i) 
+reference SHAI /B & S/SE/92/2024 -25 and dated  August 14, 2024 , and (ii) SHAI/B & S/SE/128/2024 -
+25 dated October 12, 2024 .  
+ 
+We wish to provide the following updates regarding the Incident:  
+ 
+(i) The Risk Management Committee (RMC ) and IT Committee ( ITC) of the Board of the 
+Company  (Committees ) in their meeting held on October  28, 2024 , discussed the incident  in 
+detail as part of a review  of the cybersecurity posture and position of the Company . The 
+Committees suggested some additional measures to enhance the information security posture 
+and standards of the Company.  
+ 
+(ii) The Company had appointed an independent fi rm (being experts in cybersecurity matters) to 
+conduct a forensic investigation into the incident. The investigation has been completed and the  
+executive summary of the report of the investigation was discussed and deliberated on by the 
+Committees .  
+ 
+(iii) Pursuant to t he orders passed by the Madras High Court and Indian Cyber Crime Coordination 
+Centre, all known websites on which the Threat Actor had publicly exposed certain data and 
+Telegram bots deployed by the Threat Actor , have been taken down.  
+ 
+(iv) The Com pany had appointed an independent firm (being experts in cybersecurity matters) to 
+conduct a forensic investigation into the allegations of involvement made by the Threat Actor 
+against the Chief Information Security Officer ( CISO ) of the Company. The foren sic 
+investigation has been completed and it concluded that that (a) the alleged communication 
+between the Threat Actor and the CISO was fabricated by the Threat Actor; and (b) there were 
+no links between the CISO and the Incident, and no evidence of any wr ongdoing  was found.   
+ 
+ 
+ 
+ 
+ 
+The certified true copy of the extracts of the minutes of the meeting of the RMC held on October 28, 
+2024, is attached as Annexure A  
+ 
+The above disclosure will also be made available on the Company’s website www.starhealth.in   
+  
+Kindly take the same on record.  
+  
+Thanking you,  
+ For Star Health and Allied Insurance Company Limited,  
+ 
+ 
+ 
+Jayashree Sethuraman  
+Company Secretary & Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+  
+AnnexureA
+EXTRACTSOFMINUTESOFTHEMEETINGOFTHERISKMANAGEMENT
+COMMITTEE(“COMMITTEE”)OFTHEBOARDOFSTARHEALTHANDALLIED
+INSURANCECOMPANYLIMITED(“COMPANY”)(RMCMEETINGNo.03/2024-25)
+HELDONMONDAYTHE28thDAYOFOCTOBER2024AT09:30A.M.ATTHE
+CORPORATEOFFICENo.148,Dr.RADHAKRISHNANSALAI,MYLAPORE,CHENNAI
+600004.
+UPDATEONTHECYBERINCIDENT
+TheChiefRiskOfficer(“CRO”)presentedtotheCommitteeabriefoverviewonthecyberincident,
+themodusoperandiusedbytheThreatActor(TA)fordataexfiltrationandtheforensicauditfindings
+inthisconnection.
+HefurtherbriefedtheCommitteeonthecontainmentandrecoverymeasuresundertakenbythe
+Company,thestepstakentoprotectpolicyholder’sinterest,andthecommunicationinitiativeswith
+partners,employeesandcustomers.
+HealsobriefedtheCommitteeontheinvestigationundertakenbyanindependentfirmonthe
+involvementoftheCompany’sChiefInformationSecurityOfficer(“CISO”)andexplainedthatthe
+investigationdidnotuncoveranylinksbetweentheCISOandthecyberincident,andnoincriminating
+evidencewasfound.
+TheoverallimpactoftheincidentwasalsoexplainedtotheCommittee.Theinformationsecurityteam
+thenupdatedtheCommitteeontheVAPT(VulnerabilityAssessmentandPenetrationTesting)&
+SecurityAssessmentVendorevaluationthatisbeingcarriedoutbytheCompany.
+ThelegalactivitiesandactionstakenbytheCompanywerealsopresentedtotheCommittee.
+TheCD&TO&CROthenjointlypresentedtotheCommitteetheactionplanontechnologyand
+securityprojects,andthewayforward.
+TheCommitteedeliberatedindetailonalltheabovemattersandtooknoteofthesame.The
+CommitteetooknoteofthereportsbytheforensicauditorsandtheinvestigationreportontheCISO
+bytheindependentfirm.
+TheCommitteefurtheradvisedtheCompanytostrengthenitsinformationsecuritysystemsandupdate
+theCommitteeperiodicallyontheprogressmadeasagainstthepresentedactionplan.
+//CERTIFIEDTRUECOPY//
+ForStarHealthandAlliedInsuranceCompanyLimited
+JayashreeSethuraman
+CompanySecretary

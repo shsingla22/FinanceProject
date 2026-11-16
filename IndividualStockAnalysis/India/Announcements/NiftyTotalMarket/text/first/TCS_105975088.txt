@@ -1,0 +1,128 @@
+ 
+  
+ 
+TATA Consultancy Services Limited  
+9th Floor Nirmal Building Nariman  Point Mumbai  400 021  
+Tel. 91 22 6778 9595 Fax 91 22 6778 9660 e -mail corporate.office@tcs.com   website www.tcs.com   
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021.  
+Corporate identification No. (CIN): L22210MH1995PLC084781  
+ 
+ 
+ 
+TCS/PR/SE -18/2024-25 
+ 
+September 3, 2024  
+ 
+ 
+National Stock Exchange of India Limited    BSE Limited  
+Exchange Plaza, Bandra Kurla Complex,    P. J. Towers, Dalal Street,  
+Mumbai -400051                                                                    Mumbai -400001  
+Symbol: TCS                                                                         Scrip Code No. 532540  
+ 
+ 
+Dear Sirs,  
+ 
+ 
+We are sending herewith copy  of the Press Release titled “TCS Partners with Google 
+Cloud to Launch AI -Powered Cybersecurity Solutions to Deal with Advanced 
+Threats” which  will be disseminated shortly.  
+ 
+The Press release is self -explanatory.  
+ 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Consultancy Services Limited  
+ 
+ 
+ 
+ 
+Pradeep Manohar Gaitonde  
+Company Secretary  
+ 
+ 
+Page 1 of 2 
+ 
+TCS Partners with Google Cloud to Launch AI -Powered 
+Cybersecurity Solutions to Deal with Advanced Threats  
+TCS has expanded its partnership with Google Cloud to offer two solutions —TCS Managed Detection and 
+Response solution and TCS Secure Cloud Foundation solution  
+These solutions will enhance threat detection and response capabilities of businesses, even in non -cloud 
+environments and will help TCS customers create forward -looking and secure businesses  
+SUNNYVALE, CA | MUMBAI, SEPTEMBER  03, 2024:  Tata Consultancy Services (TCS)  (BSE: 532540, NSE: TCS), 
+a global leader in IT services, consulting, and business solutions, has expanded its partnership with Google 
+Cloud to offer two new cybersecurity solutions for customers. This partnership aims to strengthen cyber 
+resilience for en terprises across industries and empower them with domain -focused innovation with cutting -
+edge technologies from TCS and Google Cloud.  
+The TCS Managed Detection and Response (MDR) solution , powered by Google Security Operations  
+platform, will enable security teams to reduce the time required to detect, and respond to threats. It 
+combines the hyperscaler’s advanced threat detection capabilities with TCS’ contextual knowledge to enable 
+continuous security monitoring and round -the-clock response. The TCS Secure Cloud Foundation  leverages 
+capabilities from Google Cloud’s security solutions to strengthen cloud security posture and governance 
+across single, multi, and hybrid cloud environments by embedding security and compliance guardrails 
+throughout the DevSecOps lifecycle. Lever aging AI, machine learning, and automation, the solution 
+continuously monitors risks, identifies deviations, and recommends remedial actions.  
+Ganesa Subramanian, VP and Global Head, Cybersecurity Business Group, TCS,  said,  “Businesses are rapidly 
+transforming, and they must secure their transformation journey to grow with confidence. The rise of 
+Generative AI further underscores the need to modernize cybersecurity and strengthen cyber resilience. This 
+partnership brings toge ther the best of capabilities, contextual knowledge, and accelerators from TCS and 
+Google Cloud to holistically protect the digital estates of enterprise customers, to help th em be future -ready, 
+cyber resilient businesses.”  
+TCS has already deployed both solutions successfully for several of its clients. For example, t he Secure Cloud 
+Foundation solution has assisted a global bank headquartered in Germany  in automating, identifying, and 
+deploying over 800 build -time and runtime security policies, ensuring adherence to regulatory compliance 
+requirements.  
+Nidhi Srivastava, Vice President and Executive Champion for Google Cloud, TCS,  said, “TCS’ expanded 
+partnership with Google Cloud provides two unique, AI-powered, cross -industry, enterprise solutions – the 
+TCS Managed Detection and Response Solution and the TCS Secure Cloud Foundation – to help our clients 
+combat advanced cybersecurity threats. Our deep industry knowledge, comprehensive portfolio, and ab ility 
+to scale on Google Cloud enables us to rapidly create value for our customers.”  
+In a partnership spanning a decade, TCS and Google Cloud have helped global enterprises transform their 
+businesses with the power of cloud. This new phase of the partnership will focus on leveraging Google Cloud’s 
+AI-powered security portfolio across threa t intelligence, security operations and cloud security. TCS and 
+Google Cloud will help clients secure their cloud transformation journeys by offering tailored solutions at a 
+global scale, along with local expertise to adhere to regulatory compliance.  
+ 
+Page 2 of 2 
+ 
+Peter Bailey, V ice President  and G eneral Manager  of Security Operations, Google Cloud , said, “TCS and 
+Google Cloud have partnered for many years to help customers harness the power of the cloud and AI to grow 
+and transform their business . The integration of Google Security Operations into TCS MDR and Secure Cloud 
+Foundation solutions is a natural evolution of this partnership; enabling TCS and their customers to leverage 
+Google SecOps planet -level scalability, searchability, integrated an d AI-assisted investigation and response 
+workflows, and applied Mandiant Threat Intelligence. Together, we can help customer organizations 
+dramatically improve their security posture and ability to respond to threats in real  time .” 
+ 
+For its comprehensive digital solutions, TCS has received numerous recognitions from Google Cloud. In 2024, 
+it received three major recognitions — Google Cloud Global Expansion Partner of the Year, Google Cloud 
+Specialization Partner of the Year - Data Management and Google Cloud Talent Development Partner of the 
+Year - Asia Pacific, among others.  
+TCS’ cybersecurity offerings range from consulting, implementation, to managed security services across – 
+detection and response, identity and access management, attack surface management, governance, risk and 
+compliance, data privacy and protection, digital forensics and incident response, clou d security, and cyber 
+physical security. These offerings are tailored to address industry -specific challenges.  With over 16,000 
+cybersecurity professionals on its roster, TCS helps over 600 enterprises across the glo be protect their entire 
+digital estate and improve their security posture. TCS's network of 15+ cybersecurity delivery centres 
+worldwide enable secure businesses  across geographies . To learn more visit https://www.tcs.com/what -we-
+do/services/cybersecurity  
+ 
+About Tata Consultancy Services  
+Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering 
+with many of the world’s largest businesses in their transformation journeys for over 56 years. Its consulting -led, 
+cognitive powered, portfolio of business, technology and engineering services and solutions is delivered through 
+its unique Location Independent Agile ™ delivery model, recognized as a benchmark of excellence in software 
+development.  
+A part of the Tata group, India's largest multinational business group, TCS has over 601,000 of the world’s best -
+trained consultants in 55 countries. The company generated consolidated revenues of US $29 billion in the fiscal 
+year ended March 31, 2024, and  is listed on the BSE and the NSE in India. TCS' proactive stance on climate change 
+and award -winning work with communities across the world have earned it a place in leading sustainability indices 
+such as the MSCI Global Sustainability Index and the FTSE4 Good Emerging Index. For more information, visit 
+www.tcs.com . 
+TCS media contacts:  
+Corporate Communications & 
+India   Email: corporate.communications@tcs.com   
+Email: saxena.kritika@tcs.com  | Phone: +91 22 6778 9999   
+Email: vanshika.sood@tcs.com  | Phone: +91 22 67789098   
+USA    Email:  james.sciales@tcs.com  | Phone: +1 917 981 7651   
+XXX 

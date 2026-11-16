@@ -1,0 +1,95 @@
+                            
+LTIM/SE/STAT/2024-25/61                                 September 4, 2024  
+ 
+ 
+National Stock Exchange of India Limited,  
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTIM The BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+ 
+We are sending herewith copy of the Press Release titled “General availability of the Fosfor 
+Decision Cloud debuts, enabling amplified business outcomes on the Snowflake AI Data 
+Cloud”, which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTIMindtree Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl.: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+General availability of the Fosfor Decision Cloud 
+debuts, enabling amplified business outcomes on the 
+Snowflake AI Data Cloud  
+ 
+WARREN, NJ, USA and MUMBAI, India — September 4, 2024 —  Fosfor today announced the 
+general availability (GA) of its Fosfor Decision Cloud, a Snowflake-integrated platform that unifies 
+the components of the modern data stack into a modern decision stack, built to simplify AI and 
+amplify business outcomes. This robust and comprehensive data-to-decisions platform hits the 
+market with Snowflake Partner Connect integration, Snowflake Technology Ready validation, and 
+AI-enabling integrations.    
+ 
+The GA release builds on the success and adoption of the private preview version rolled out in 
+February, adding: 
+- Snowflake Partner Connect integration , enabling users to easily, quickly, and securely 
+enroll in a free Fosfor trial directly from their Snowflake accounts, making Fosfor’s 
+business-outcome-enhancing capabilities readily available to all Snowflake customers. 
+- Snowflake Technology Ready validation , giving users the confidence that comes with a 
+third-party technical validation to confirm Fosfor’s Snowflake integrations are optimized 
+with an emphasis on functional and performance best practices. 
+- Integration with Snowflake’s latest AI capabilities , allowing users to streamline and 
+simplify their AI journey by running AI directly where their data is already secure and 
+governed. This is possible by leveraging Snowpark Container Services for ML lifecycle 
+support and Snowflake Cortex AI for creating GenAI apps.  
+ 
+The GA release strengthens Fosfor’s commitment to Snowflake as its data and AI platform partner. 
+ 
+“General availability of the Fosfor Decision Cloud represents the culmination of our multi-year 
+journey to simplify AI with the most comprehensive Decision Intelligence platform,” said Debasis 
+Satpathy, Fosfor Chief Business Officer . “This release delivers capabilities that expand the 
+FDC’s suitability for a growing list of industries, and further strengthens our partnership with 
+Snowflake, all in a stable, robust, enterprise-grade product.” 
+ 
+“Companies in every industry are looking for ways to more quickly realize return on their data and 
+technology investments,” said  Tarik Dwiek, Head of Technology Alliances, Snowflake . “The 
+tightly integrated combination of the Fosfor Decision Cloud and the Snowflake AI Data Cloud 
+provides the acceleration sought by customers looking to extract valuable insights from their data.”  
+ 
+The GA release of the Fosfor Decision Cloud is available now. Learn more at www.fosfor.com. 
+ 
+ 
+About Fosfor   
+ 
+The Fosfor Decision Cloud is a connected fabric that unifies and amplifies the value promised by the modern 
+data ecosystem, which is made up of infrastructure, data, and application clouds. Fosfor enables organizations 
+to effectively curate data, generate impactful insights, and formulate effective decisions to deliver the long-
+sought promise of data and AI: optimal business outcomes. Fosfor is part of LTIMindtree, a global technology 
+consulting and digital solutions company. For more information, visit www.fosfor.com . 
+ 
+Media contact: 
+Gitanjali Sreepal, Global Media Relations, Gitanjali.sreepal@ltimindtree.com   

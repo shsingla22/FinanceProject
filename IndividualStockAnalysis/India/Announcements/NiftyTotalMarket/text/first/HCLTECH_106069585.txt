@@ -1,0 +1,126 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 0120 6120 25000  f: +91 120 4680330  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India  
+ 
+ 
+                                                                                                                      
+ 
+                                                                                                                                November 26, 2024  
+ 
+ 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281 The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C -1, Block -G 
+Bandra- Kurla Complex, Bandra(E)  
+Mumbai -400 051 
+ 
+NSE Scrip Code: HCLTECH  
+ 
+Subject: Release – “HCLTech launches enterprise data security serv ice in collaboration with 
+Intel” 
+ 
+ 
+Dear Sir/Madam,  
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+ This is for your information and records.  
+ 
+Thanking you,  
+ Yours faithfully,  
+For HCL Technologies Limited  
+  
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+Encl. a/a  
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+HCLTech launches enterprise data security service in collaboration with Intel  
+ 
+NEW YORK and NOIDA, India, Nov 26, 202 4—HCLTech , a leading global technology company,  
+today  launched  an advanced data and cloud compute security solution to enable enterprises 
+to securely handl e sensitive  information  with high data integrity and confidentiality.  
+ 
+HCLTech DataTrustShield , was developed  to protect sensitive data during cloud operations , 
+leveraging trusted execution environments (TEEs)  including Intel® Trust Domain Extensions 
+(Intel® TDX)  and Intel® Trust A uthority . Key benefits include secure data sharing across 
+platforms, scalability, enhanced compliance and robust protection for applications and 
+intellectual property. The solution is designed for organizations requiring strong data security 
+in collaborati ve and cloud environments while maintaining operational efficiency.  The solution 
+has been tested on Google Cloud  and in the future, will be integrated with other hyperscalers.   
+ "HCLTech Data TrustShield offering  is a major step  forward in data security, delivering high 
+levels of  protection . By harnessing Intel's advanced technology, the offering secures digital 
+assets  and enhances confidence and trust in cloud environments ,” said Anand Swamy, EVP & 
+Head of Tech and ISV Ecosystem , HCLTech.  
+ 
+"Intel’s Confidential Computing technology and Trust Authority attestation services enhance 
+security and assurance for compute environments. Our collaboration with HCLTech highlights 
+our commitment to help customers transition to the cloud whil e maintaining data privacy and 
+adhering to zero trust principles, ” said Purnam Sheth, VP/GM of Trust and Security Services , 
+Intel.  
+ Visit our website  for more information on Data and Cloud Compute Security service offering  
+and CloudSMART  solutions.   
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+About HCLTech  
+ 
+HCLTech  is a global technology company, home to more than 218,000 people across 60 
+countries, delivering industry- leading capabilities centered around digital, engineering, cloud 
+and AI, powered by a broad portfolio of technology services and products. We work wi th 
+clients across all major verticals, providing industry solutions for Financial Services, 
+Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, 
+Retail and CPG and Public Services. Consolidated revenues as of 12 months e nding September 
+2024 totaled $13.7 billion. To learn how we can supercharge progress for you, visit hcltech.com . 
+  
+For further details, please contact:  
+  
+Meredith Bucaro, Americas  
+meredith -bucaro@hcltech.com  
+  
+Elka Ghudial, EMEA  
+elka.ghudial@hcltech.com  
+  
+James Galvin, ANZ  
+james.galvin@hcltech.com  
+  
+Nitin Shukla, India  
+nitin -shukla@hcltech.com  
+ 
+ 

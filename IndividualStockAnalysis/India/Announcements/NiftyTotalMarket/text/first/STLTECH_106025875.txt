@@ -1,0 +1,94 @@
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune,  Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  October 1 7, 2024 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor,  
+Plot No. C -1, G Block,  
+Bandra Kurla Complex, Bandra (East)    
+Mumbai - 400 051.  BSE Limited  
+Phirozee Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001.  
+ 
+ 
+Sub: - Press Release –  STL embeds Nvidia Edge AI into its Fibre Optics Sensing Solution   
+  
+ 
+Ref: - Scrip ID -  STLTECH/ Scrip Code –  532374   
+ 
+Dear Sir/Madam,  
+ 
+The Company  is pleased to announce that  it has achieved a significant advancement in the cost and performance 
+of Fibre Optic Sensing (FOS) technology.  With this advancement, STL’s FOS solution now embeds its advanced AI 
+models in the Nvidia Jetson series modules offering superior performance, power and cost in fibre optic sensing.  
+ 
+A copy of the Press Release in this regard is enclosed herewith.  
+ 
+Kindly take the above on record.  
+ 
+Thanking yo u. 
+ 
+Yours faithfully,  
+For Sterlite Technologies Limited  
+   
+Amit Deshpande  
+General Counsel & Company Secretary (ACS 17551)  
+ 
+Enclosure: As above . 
+ 
+ 
+  
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra - 411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+  
+PRESS RELEASE    
+STL embeds Nvidia Edge AI into its Fibre Optics Sensing Solutio n 
+New Delhi, 17/October/2024 : STL [NSE: STLTECH],  a leading optical and digital solutions company, today announce d 
+that it has achieved a significant advancement in the cost and performance of Fibre Optic Sensing (FOS) technology.   
+With this advancement, STL’s FOS solution now embeds its advanced AI models in the Nvidia Jetson series modules 
+offering superior performan ce, power and cost in fibre optic sensing. STL’s platform is a field -proven AI/ML stack for 
+FOS with several million training hours. It sets the benchmark for precision, recall and F1 scores for every challenging 
+O&M requirement in cable infrastructure and  physical site security . 
+The AI -FOS solution will be a game changer for network monitoring and for securing assets, perimeters, and strategic 
+infrastructure. Especially in the case of fibre cuts, the AI -based FOS solution can intelligently predict fibre cu ts before 
+they occur in diverse weather and site conditions and provide network infrastructure owners with a significant reduction 
+in Operations and Maintenance costs . 
+Inaugurating the AI -FOS solution at IMC 2024 , A S Sangha , CMDE (NSO ), said: “The AI -FOS s olution presents a strong 
+use case for securing borders and preventing fibre cuts in telecom networks, supporting seamless communication. I wish 
+STL all the best for scaling this up. ” 
+Commenting on this development,  Badri Gomatam, Group CTO, R&D,  STL, said: “Embedding Nvidia Edge AI into this 
+technology takes it to the next level. Our AI -FOS solution continuously monitors the condition of multiple fibre optic cable 
+installations, providing high -precision fault geo -localization prior to an adverse event. Us ing Edge AI, we will now be able 
+to offer benchmark performance and affordability   for our valued customers. ” 
+About STL - Sterlite Technologies Ltd : 
+STL is a leading global optical and digital solutions company providing advanced offerings to build 5G, Rural, FTTx, Enterpri se 
+and Data Centre networks.  Read mor e, Contact us,  stl.tec h | Twitte r | LinkedI n| YouTub e 
+For more information, contact :   
+Media Relation s 
+Soumi Da s 
+Phone: +91 702846667 3 
+soumi.das1@stl.tec h Agency Contac t 
+Ishita Kaushi k 
+Phone: +91 931598170 0 
+ishita.kaushik@2020msl.co m Investor Relation s 
+Chetan Wani   
+Phone: +91 9712975633   
+investor@stl.tec h 
+ 
+ 

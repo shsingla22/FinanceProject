@@ -1,0 +1,531 @@
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 120 43060 00 f: +91 120 4680330  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India  October  14, 202 4 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+NSE Scrip Code: HCLTECH  
+Sub.: Board meeting – Un-audited  Financial Results for the quarter and half -year ended September  30, 
+202 4 
+Dear Si r/Madam,  
+1. The Board of Directors has today approved the un-audited (Consolidated & Standalone) Financial
+results of the Company for the quarter and half -year ended September  30, 2024. The Financial
+Results under Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 along with declaration prescribed under these regulations are enclosed at
+Annexure - A.
+2. The Limited Review  Reports on the aforesaid Consolidated & Standalone Financial results of the
+Company are enclosed at Annexure - B.
+3. The Board of Directors has declared an Interim Dividend of Rs.  12 /- per equity share of Rs.  2/- each
+of the Company for the Financial Year 202 4-25.
+The Record date of October 22 , 2024 fixed for the payment of the aforesaid interim dividend has
+been confirmed by the Board of Directors. The payment date of the said interim dividend shall be
+October 30 , 2024.
+The Board Meeting commenced at 01:00 PM (IST) and concluded at 5:00 PM (IST) on October 14, 2024. 
+ Thanking you, 
+ For HCL Technologies Limited 
+Manish Anand  
+Company Secretary  
+Encl .: a/a  
+
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number: L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Consolidated Statement of Financial Results of HCL Technologies Limited as per Ind AS: 
+Particulars Three months ended Six months ended 
+30 September 30June 30 September 30 September 30 September 
+2024 2024 2023 2024 2023 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) 
+I Revenue 
+Revenue from operations 28,862 28,057 26,672 56,919 52,968 
+Other income 456 1,103 365 1,559 709 
+Total income 29,318 29,160 27,037 58,478 53,677 
+II Expenses 
+Purchase of stock-in-trade 480 404 377 884 845 
+Cltanges in inventories of stock-in-trade (14) 25 25 11 92 
+Employee benefits expense 16,523 16,410 15,253 32,933 30,267 
+Outsourcing costs 3,748 3,541 3,508 7,289 7,136 
+Finance costs 131 191 156 322 242 
+Depreciation and amortization expense 1,007 998 1,010 2,005 1,937 
+Other expenses 1,756 1,884 1,580 3,640 3,334 
+Total expenses 23,631 23,453 21,909 47,084 43,853 
+III Profit before tax 5,687 5,707 5,128 11,394 9,824 
+IV Tax expense 
+Current tax 1,191 1,252 1,156 2,443 2,273 
+Deferred tax charge 259 196 139 455 187 
+Total tax expense 1,450 1,448 1,295 2,898 2,460 
+V Profit for the period/ year 4,237 4,259 3,833 8,496 7,364 
+VI Other comprehensive income (loss) 
+(A) (i) Items that will not be reclassified to statement of 
+profit and loss (47) (4) 1 (51) 1 
+(ii) Income tax relating to items that will not be 37 - - 37 -
+reclassified to statement of profit and loss 
+(B) (i) Items that will be reclassified to statement of 
+profit and loss 452 17 21 469 406 
+(ii) Income tax relating to items that will be 114 (42) 12 72 (83) 
+reclassified to statement of profit and loss 
+Total other comprehensive income (loss), net of tax 556 (29) 34 527 324 
+VII Total comprehensive income for the period/year 4,793 4,230 3,867 9,023 7,688 
+Profit (loss) for the period/year attributable to 
+Owners of the Company 4,235 4,257 3,832 8,492 7,366 
+Non-controlling interest 2 2 1 4 (2) 
+4,237 4,259 3,833 8,496 7,364 
+Other comprehensive income (loss) for the period/ 
+year attributable to 
+Owners of the Company 556 (29) 35 527 324 
+Non-controlling interest - - (1 - -
+556 (29) 34 527 324 
+Total comprehensive income (loss) for the period/ 
+year attributable to 
+Owners of the Company 4,791 4,228 3,867 9,019 7,690 
+Non-controlling interest 2 2 - 4 (2) 
+4,793 4,230 3,867 9,023 7,688 
+Earnings per equity share of 't 2 each 
+Basic (in 't) 15.62 15.70 14.15 31.32 27.20 
+Diluted (in 't) 15.61 15.69 14.13 31.30 27.16 
+Dividend per equity share of 't 2 each 
+Interim dividend paid (in 't) 12 18 10 30 28 
+Total dividend paid (in 't) 12 18 10 30 28 ('t in crores) 
+Previous year 
+ended 
+31 March 
+2024 
+(Audited) 
+109,913 
+1,495 
+111,408 
+1,754 
+43 
+62,480 
+14,578 
+553 
+4,173 
+6,860 
+90,441 
+20,967 
+4,626 
+631 
+5,257 
+15,710 
+32 
+(8) 
+943 
+(112) 
+855 
+16,565 
+15,702 
+8 
+15,710 
+855 
+-
+855 
+16,557 
+8 
+16,565 
+57.99 
+57.86 
+52 
+52 
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number: L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Segment Information of Consolidated Financial Results as per Ind AS : 
+Three months ended Six months ended 
+Particulars 30 September 30June 30 September 30 September 30 September 
+2024 2024 2023 2024 2023 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) 
+Revenue from operations from external 
+customers 
+IT and Business Services 21,544 20,905 19,905 42,449 39,553 
+Engineering and R&D services 4,545 4,455 4,290 9,000 8,358 
+HCL Software 2,773 2,697 2,477 5,470 5,057 
+Total 28,862 28,057 26,672 56,919 52,968 
+Inter-segment revenue 
+IT and Business Services - - - - -
+Engineering and R&D services - - - - -
+HCL Software 92 92 98 184 191 
+Total 92 92 98 184 191 
+Segment revenues 
+IT and Business Services 21,544 20,905 19,905 42,449 39,553 
+Engineering and R&D services 4,545 4,455 4,290 9,000 8,358 
+HCL Software 2,865 2,789 2,575 5,654 5,248 
+Inter-segment elimination (92) (92) (98) (184) (191) 
+Total 28,862 28,057 26,672 56,919 52,968 
+Segment results 
+IT and Business Services 3,788 3,478 3,613 7,266 6,776 
+Engineering and R&D services 842 744 825 1,586 1,509 
+HCL Software 732 573 496 1,305 1,109 
+Total 5,362 4,795 4,934 10,157 9,394 
+Unallocable expenses (128) (110) (171) (238) (279) 
+Other income 453 1,022 365 1,475 709 
+Profit before tax 5,687 5,707 5,128 11,394 9,824 
+Tax expense (1,450 (1,448 (1,295 (2,898 (2,460 
+Profit for the period/ year 4,237 4,259 3,833 8,496 7,364 
+Notes: ('t in crores) 
+Previous year 
+ended 
+31 March 
+2024 
+(Audited) 
+81,179 
+17,667 
+11,067 
+109,913 
+-
+-
+387 
+387 
+81,179 
+17,667 
+11,454 
+(387) 
+109,913 
+13,789 
+3,422 
+2,816 
+20,027 
+(555) 
+1,495 
+20,967 
+(5,257) 
+15,710 
+l.Assets and liabilities are not identified to any reportable segments, since these are used interchangeably across segments and 
+consequently, the management believes that it is not practicable or meaningful to provide segment disclosures relating to total assets 
+and liabilities. 
+2.Effective 1 April 2024, services related to certain software products, previously under HCL Software, are now managed by IT and 
+Business Services and Engineering and R&D Services segments. Revenues and results have been reported under respective segments, 
+with prior period figures restated. The impact of this change is immaterial for the segments. 
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number : L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Consolidated Balance Sheet of HCL Technologies Limited as per Ind AS: 
+Particulars Asat 
+30 September 2024 
+(Unaudited) 
+I. ASSETS 
+(1) Non-current assets 
+(a) Property, plant and equipment 4,596 
+(b) Capital work in progress 172 
+(c) Right-of-use assets 2,763 
+(d) Goodwill 20,690 
+( e) Other intangible assets 6,431 
+(t) Financial assets 
+(i) Investments 99 
+(ii) Trade receivables -unbilled 857 
+(iii)Loans -
+(iv) Others 1,904 
+(g) Deferred tax assets (net) 938 
+(h) Other non-current assets 2,171 
+Total non-current assets 40,621 
+(2) Current assets 
+(a) Inventories 174 
+(b) Financial assets 
+(i) Investments 7,543 
+(ii) Trade receivables 
+Billed 18,273 
+Unbilled 6,272 
+(iii) Cash and cash equivalents 9,404 
+(iv) Other bank balances 10,109 
+(v)Loans 1,129 
+(vi) Others 1,562 
+(c) Current tax assets (net) 162 
+( d) Other current assets 4,514 
+Total current assets 59,142 
+TOTAL ASSETS 99,763 
+II. EQUITY 
+( a) Equity share capital 543 
+(b) Other equity 68,332 
+Equity attributable to owners of the Company 68,875 
+Non-controlling interest 12 
+TOTAi.EQUITY 68,887 
+III. LIABILITIES 
+(1) Non-current liabilities 
+(a) Financial liabilities 
+(i) Borrowings 2,210 
+(ii) Lease liabilities 2,362 
+(iii) Others 678 
+(b) Contract liabilities 968 
+( c) Provisions 1,814 
+(d) Deferred tax liabilities (net) 1,156 
+( e) Other non-current liabilities 62 
+Total non-current liabilities 9,250 
+(2) Current liabilities 
+(a) Financial liabilities 
+(i) Borrowings 87 
+(ii) Lease liabilities 1,132 
+(iii) Trade payables 
+Billed 2,538 
+Unbilled and accruals 2,919 
+(iv) Others 5,050 
+(b) Contract liabilities 3,916 
+(c) Other current liabilities 2,145 
+( d) Provisions 1,414 
+(e) Current tax liabilities (net) 2,425 
+Total current liabilities 21626 
+TOTAL LIABILITIES 30,876 
+TOTAL EQUITY AND LIABILffiES 99,763 n: in croresl 
+Asat 
+31 March 2024 
+(Audited) 
+4,891 
+108 
+2,910 
+20,132 
+7,130 
+94 
+624 
+286 
+1,346 
+1,031 
+1,894 
+40,446 
+185 
+7,043 
+19,483 
+6,038 
+9,456 
+10,694 
+795 
+1,235 
+161 
+4,241 
+59,331 
+99,777 
+543 
+67,720 
+68,263 
+8 
+68,271 
+2,223 
+2,339 
+730 
+1,048 
+1,612 
+771 
+57 
+8,780 
+104 
+1,090 
+2,570 
+3,283 
+5,691 
+4,155 
+2,183 
+1,337 
+2,313 
+22.726 
+31,506 
+99,777 
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number : L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Consolidated Statement of Cash Flows of HCL Technologies Limited as per Ind AS: 
+Six months ended 
+Particulars 30 September 2024 30 September 2023 
+{Unaudited) (Unaudited) 
+A. Cash flows from operating activities 
+Profit before tax 11,394 9,824 
+Adjustment for: 
+Depreciation and amortization expense 2,005 1,937 
+Interest income (779) (595) 
+Provision for doubtful debts / bad debts written off (net) 36 50 
+Income on investments earned at fair value through profit and loss (%) (73) 
+Interest expense 150 117 
+Profit on sale of property, plant and equipment (net) (6) (3) 
+Share based payments to employees 98 153 
+Divestment in subsidiaries (574) -
+Other non-cash charges (net) (35) (11) 
+12,193 11,399 
+Net change in 
+Trade receivables 1,188 1,990 
+Inventories 27 92 
+Other financial assets and other assets (386) 22 
+Trade payables (497) (595) 
+Other financial liabilities, contract liabilities, provisions and other liabilities (1,109) (529) 
+Cash generated from operations 11,416 12,379 
+Income taxes paid (net of refunds) (2,067) (1,581) 
+Net cash flow from operating activities (Al 9,349 10,798 
+B. Cash flows from investing activities 
+Purchase of property, plant and equipment and intangibles (628) (567) 
+Proceeds from sale of property, plant and equipment 14 20 
+Payments for business acquisitions, net of cash acquired (211) (2,043) 
+Investments in bank deposits (6,271) (6,382) 
+Proceeds from bank deposits 6,255 4,603 
+Deposits placed with body corporates (282) (566) 
+Proceeds from deposits placed with body corporates 233 914 
+Purchase of investments in securities (19,944) (19,551) 
+Proceeds from sale/ maturity of investments in securities 19,460 19,629 
+Investment in equity instruments (4) (7) 
+Proceed from sale of equity instruments - 11 
+Divestment in subsidiaries, net of cash 687 -
+Interest received 652 458 
+Income taxes oaid /219) 028) 
+Net cash flow used in investing activities (B) (258) (3,609) 
+C. Cash flows from financing activities 
+Proceeds from long term borrowings - 6 
+Repayment of long term borrowings {48) (96) 
+Proceeds from short term borrowings 172 60 
+Repayment of short term borrowings (172) (60) 
+Payments for deferred and contingent consideration on business acquisitions {50) (3) 
+Oiange in non-controlling interest - -
+Acquisition of treasury shares (405) -
+Dividend paid {8,120) (7,579) 
+Interest paid {27) (32) 
+Payment of lease liabilities including interest (677) {519) 
+Net cash flow used in financing activities (q {9,327) {8,223) 
+Net increase/ (decrease) in cash and cash equivalents (A+ B+q (236) (1,034) 
+Effect of exchange differences on cash and cash equivalents held in foreign currency 185 29 
+Cash and cash equivalents at the beginning of the period / year 9,441 9,065 
+Cash and cash equivalents at the end of the period/ year 9,390 8,060 
+Notes: 
+1. The total amount of income taxes paid is iQ,286 crores ( 30 September 2023 f 1,709 crores, Previous year f 4,494 crores) ft in crores) 
+Previous year ended 
+31 March 2024 
+(Audited) 
+20,967 
+4,173 
+(1,273) 
+117 
+(165) 
+269 
+(4) 
+312 
+-
+(41) 
+24,355 
+248 
+60 
+164 
+(681) 
+2,514 
+26,660 
+(4,212) 
+22,448 
+(1,048) 
+32 
+(2,043) 
+(13,924) 
+10,315 
+(1,079) 
+1,605 
+(41,674) 
+40,329 
+(8) 
+13 -
+1,041 
+/282) 
+{6,723) 
+6 
+(187) 
+352 
+(352) 
+(5) 
+7 
+-
+{14,073) 
+{64) 
+{1,148) 
+{15,464) 
+261 
+115 
+9,065 
+9,441 
+2. Cash and cash equivalents includes unclaimed dividend of< 18 crores ( 30 September 2023 < 10 crores, Previous year< 15 crores) and Bank overdraft of ('!'(14)) 
+Crores (30 September 2023 < (14) crores, Previous year f (15) crores) . 
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number : L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Standalone Statement of Financial Results of HCL Technologies Limited as per Ind AS: 
+Three months ended Six months ended 
+Particulars 30 September 30June 30 September 30 September 30 September 
+2024 2024 2023 2024 2023 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) 
+I Revenue 
+Revenue from operations 12,615 11,784 12,059 24,399 23,510 
+Other income 284 321 252 605 514 
+Total income 12,899 12,105 12,311 25,004 24,024 
+II Expenses 
+Purchase of stock-in-trade 34 31 30 65 60 
+Changes in inventories of stock-in-trade 2 14 8 16 15 
+Employee benefits expense 5,501 5,405 5,305 10,906 10,490 
+Outsourcing costs 1,662 1,790 1,700 3,452 3,512 
+Finance costs 30 47 33 77 62 
+Depreciation and amortization expense 559 571 583 1,130 1,089 
+Other expenses 795 846 702 1,641 1,437 
+Total expenses 8,583 8,704 8,361 17,287 16,665 
+III Profit before tax 4,316 3,401 3,950 7,717 7,359 
+IV Tax expense 
+Current tax 859 674 789 1,533 1,492 
+Deferred tax charge 241 248 195 489 305 
+Total tax expense 1,100 922 984 2,022 1,797 
+V Profit for the period/ year 3,216 2,479 2,966 5,695 5,562 
+VI Other comprehensive income (loss) 
+(A) (i) Items that will not be reclassified to statement 
+of profit and loss (49) - (1) (49) (1) 
+(ii) Income tax relating to items that will not be 37 - - 37 -
+reclassified to statement of profit and loss 
+(B) (i) Items that will be reclassified to statement of 
+profit and loss (478) 92 (62) (386) 371 
+(ii) Income tax relating to items that will be 114 (42) 11 72 (84) 
+reclassified to statement of profit and loss 
+Total other comprehensive income (loss), net of 
+tax (376) 50 (52) (326) 286 
+VII Total comprehensive income for the period/ 
+year 2,840 2,529 2,914 5,369 5,848 
+Earnings per equity share of 't 2 each 
+Basic (in 't) 11.87 9.14 10.95 21.00 20.54 
+Diluted (in 't) 11.86 9.14 10.93 20.99 20.51 
+Dividend per equity share of 't 2 each 
+Interim dividend paid (in 't) 12 18 10 30 28 
+Total dividend paid (in 't) 12 18 10 30 28 Previous year 
+ended 
+31 March 2024 
+(Audited) 
+48,118 
+1,076 
+49,194 
+135 
+10 
+20,965 
+7,105 
+125 
+2,371 
+3,027 
+33,738 
+15,456 
+2,873 
+909 
+3,782 
+11,674 
+27 
+(8) 
+532 
+(112) 
+439 
+12,113 
+43.11 
+43.02 
+52 
+52 

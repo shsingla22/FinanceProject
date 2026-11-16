@@ -1,0 +1,130 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise) 
+Regd. Office:  Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram – 122015, India 
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110 070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email id: compliance.officer@bharti.in, www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 08, 2024 
+  
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India 
+Symbol: BHARTIARTL/ AIRTELPP 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400001, India 
+Scrip Code: 532454/ 890157 
+ 
+Sub: Press Release  
+ 
+Dear Sir/ Ma’am, 
+ 
+We are enclosing herewith a press release dated October 08, 2024 titled ‘ Airtel and 
+Nokia collaborate to drive sustainability initiatives for mobile networks’ being issued by 
+the Company.  
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+Sincerely yours, 
+ 
+For Bharti Airtel Limited 
+ 
+ 
+ 
+Rohit Krishan Puri 
+Joint Company Secretary & Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Airtel and Nokia collaborate to drive sustainability initiatives for mobile networks 
+ 
+o Launch 'Green 5G' initiative to improve the energy efficiency of its 4G and 5G networks and 
+significantly reduce carbon emissions  
+o Solution projected to reduce carbon footprint by an estimated 143,413 metric tons of CO2 
+annually 
+ 
+New Delhi, October 08, 2024:  Bharti Airtel and Nokia,  today, announced a groundbreaking collaboration 
+on “Green 5G” — an initiative aimed at introducing energy-efficient solutions and practices to Airtel’s 
+mobile network. This ambitious project will focus on enhancing energy efficiency across Airtel's extensive 
+4G/5G Radio Access Network (RAN) by leveraging state-of-the-art technologies like AI/ML, as well as a 
+suite of advanced software features and innovative solutions.  
+The comprehensive solution is expected to enhance energy efficiency during peak and off-peak hours 
+and is projected to reduce Airtel’s carbon emissions by an estimated 143,413 metric tons of CO2 
+annually. 
+ 
+Randeep Sekhon, CTO, Bharti Airtel,  said, “In response to the surging demand for data, mobile networks 
+across India have rapidly expanded, particularly with the rollout of 5G technology. At Bharti Airtel, our 
+commitment to sustainability has led us to collaborate with Nokia. This partnership allows us to leverage 
+innovative solutions that deliver substantial energy savings, enabling us to significantly reduce our 
+carbon footprint and further our environmental objectives in alignment with our business strategy.” 
+ 
+Tarun Chhabra, Head of Mobile Networks at Nokia, India,  said, “We are excited to partner with Bharti 
+Airtel to drive sustainable network practices in the country. Nokia has committed to reaching net zero 
+greenhouse gas emissions globally by 2040. Our innovative technologies will not only enhance the overall 
+performance of communications networks but also significantly help reduce their energy consumption, 
+contributing to the energy efficiency targets of our customers.”  
+ 
+The key aspects of this collaboration include: 
+ 
+ Aiming for zero-traffic, zero-watt operation : This solution reduces the radio network's power 
+consumption to very low watts during periods of no traffic, conserving power and optimising 
+energy management. 
+ Combining Nokia's advanced energy-saving features with Airtel's AI/ML algorithms : The 
+companies have leveraged AI/ML to automate and fine-tune advanced energy-saving software 
+across their 4G and 5G radio resources. 
+ Moving to a digital design for enhanced energy efficiency : The companies have trialled 
+advanced digital design tools to optimise cell configurations for lower transmitted power. This 
+positively impacts the CO2 footprint and energy bills without compromising the network 
+performance or user experience. This contributes to network efficiency during both peak and off-
+peak hours. 
+ Employing a ReefShark System-on-Chip : The latest SoC generation provides enhanced energy 
+efficiency by adapting internal resources to actual processing needs, optimising power 
+consumption based on traffic load. The new platform generation will result in an additional 15% 
+reduction in energy consumption. 
+ 
+    
+Airtel has set ambitious emissions reduction targets across its operations and is implementing a range 
+of key initiatives to achieve these commitments. These include promoting energy efficiency, utilising 
+open-access green energy and adopting renewable energy solutions throughout its network. The 
+company is also building a more climate-resilient infrastructure, improving resource efficiency and 
+enhancing waste management practices. Notably, Airtel has deployed solar-powered systems at around 
+25,000 sites upto now and substantially increased the renewable energy usage at its data centers, 
+sourced 220,541 MWh  through green power wheeling agreements and captive solar rooftop plants in 
+FY2024. 
+  
+About Bharti Airtel Limited 
+Headquartered in India, Airtel is a global communications solutions provider with over 550+ million customers in 17 countries across South Asia and Africa. 
+The Company ranks amongst the top three mobile operators globally and its networks cover over two billion people. Airtel is India’s largest integrated 
+communications solutions provider and the second largest mobile operator in Africa. Airtel’s retail portfolio includes high-speed 4G/5G mobile broadband, 
+Airtel Xstream Fiber that promises speeds up to 1 Gbps with convergence across linear and on-demand entertainment, streaming services spanning music 
+and video, digital payments and financial services. For enterprise customers, Airtel offers a gamut of solutions that includes secure connectivity, cloud and 
+data centre services, cyber security, IoT, Ad Tech and cloud-based communication. For more details visit www.airtel.in   
+ 
+About Nokia 
+At Nokia, we create technology that helps the world act together. As a B2B technology innovation leader, we are pioneering networks that sense, think and 
+act by leveraging our work across mobile, fixed and cloud networks. In addition, we create value with intellectual property and long-term research, led by 
+the award-winning Nokia Bell Labs. Service providers, enterprises and partners worldwide trust Nokia to deliver secure, reliable and sustainable networks 
+today – and work with us to create the digital services and applications of the future. 
+  
+ 

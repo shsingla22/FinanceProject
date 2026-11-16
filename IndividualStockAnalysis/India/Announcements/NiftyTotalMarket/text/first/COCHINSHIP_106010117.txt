@@ -1,0 +1,148 @@
+ 
+ SEC/48/2017 -63 October  01, 202 4 
+  
+The Manager  
+Compliance Department  
+BSE Limited  
+Phiroze Jeejeebhoy Tower  
+Dalal Street  
+Mumbai – 400 001  The Manager  
+Compliance Department  
+The Nation al Stock Exchange of India Limited  
+Exchange Plaza  
+Bandra – Kurla Complex, Bandra (East)  
+Mumbai – 400 051  
+Scrip Code/Symbol: 540678/COCHINSHIP  
+Dear Sir / Madam , 
+Subject  Announcement of results of voting for AGM and submission of Scrutinizer’s Report  
+ 
+1. This is with reference to the earlier communication regarding the Annual General Meeting 
+of the Company. Please note that the 52nd Annual General Meeting of the Company was duly held 
+on Monday , September 30, 202 4 at 11:00 hrs. through Video Conferencing (“ VC”)/ Other Audio 
+Visual Means (“OAVM”), to transact the business mentioned in the notice of the Annual General 
+Meeting dated September 0 6, 202 4. 
+ 
+2. Pursuant to Regulation 44(3) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, CSL  submit herewith the announcement of results of votes cast through remote 
+e-voting and e -voting during the 52nd Annual General Meeting on all resolutions along with a copy 
+of the Consolidated Scrutinizer’s Report which would also be available on the websit e of the 
+Company www.cochinshipyard.in .  
+ 
+3. The above is for your information and record please . 
+ 
+Thanking you,   
+For Cochin Shipyard Limited  
+ 
+Scrip code 540678
+NSE Symbol COCHINSHIP
+MSEI Symbol NOTLISTED
+ISIN INE704P01025
+Name of the company COCHIN SHIPYARD LIMITED
+Type of meeting AGM
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)30-09-2024
+Start time of the meeting 11:00 AM
+End time of the meeting 12:00 PMGeneral information about companyHome Validate
+ Import  XML
+Name of the Scrutinizer SREEKUMAR P.S.
+Firms Name SVJS & Associates
+Qualification CS
+Membership Number 8130
+Date of Board Meeting in which appointed 24-05-2024
+Date of Issuance of Report to the company 01-10-2024Scrutinizer DetailsHome Validate
+
+Record date 23-09-2024
+Total number of shareholders on record date 838010
+a) Promoters and Promoter group 0
+b) Public 0
+a) Promoters and Promoter group 1
+b) Public 78
+No. of resolution passed in the meeting 7
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 191686928 100.0000 191686928 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 191686928 191686928 100.0000 191686928 0 100.0000 0.0000
+E-Voting 13214248 71.7334 13175360 38888 99.7057 0.2943
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 18421323 13214248 71.7334 13175360 38888 99.7057 0.2943
+E-Voting 66173 0.1249 65381 792 98.8031 1.1969
+Poll 7230 0.0136 7230 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 52972529 73403 0.1386 72611 792 98.9210 1.0790
+Total Total 263080780 204974579 77.9132 204934899 39680 99.9806 0.0194
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions52972529Resolution (1)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo receive, consider and adopt the audited standalone financial statements of the Company for 
+the financial year ended March 31, 2024, together with the Reports of the Board of Directors’ and 
+the Auditors’ thereon.
+Promoter and 
+Promoter Group191686928
+Public- 
+Institutions18421323
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution27.00
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 191686928 100.0000 191686928 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 191686928 191686928 100.0000 191686928 0 100.0000 0.0000
+E-Voting 13214248 71.7334 13178486 35762 99.7294 0.2706
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 18421323 13214248 71.7334 13178486 35762 99.7294 0.2706
+E-Voting 66168 0.1249 64975 1193 98.1970 1.8030
+Poll 7230 0.0136 7230 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 52972529 73398 0.1386 72205 1193 98.3746 1.6254
+Total Total 263080780 204974574 77.9132 204937619 36955 99.9820 0.0180
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions52972529Resolution (2)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo receive, consider and adopt the audited consolidated financial statements of the Company for 
+the financial year ended March 31, 2024, together with the Report of the Auditors’ thereon.
+Promoter and 
+Promoter Group191686928
+Public- 
+Institutions18421323
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution28.00
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes

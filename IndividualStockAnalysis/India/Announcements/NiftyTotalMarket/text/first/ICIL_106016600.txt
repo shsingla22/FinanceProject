@@ -1,0 +1,91 @@
+ 
+Ref No.: ICIL/75/2024-25                  8th October, 2024 
+ 
+National Stock Exchange of India Ltd. 
+Listing Department 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400 051. 
+ 
+Company Symbol : ICIL  BSE Limited 
+Department of Corporate Services 
+Floor 25, Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai – 400 001. 
+ 
+Scrip Code No. :  521016 
+ 
+Dear Sir/Madam, 
+ 
+Sub.: Intimation for issue of Duplicate Share Certificate under Regulation 39(3) of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, this is to inform that the Company has issued Duplicate Share Certificate in lieu of the original 
+share certificate to the following Shareholders on 3rd October, 2024: 
+ 
+Sr. 
+No. Folio 
+No. Name of Shareholder(s) New 
+Certificate 
+No. Distinctive Nos. No. of Shares 
+of face value 
+of Rs. 2/- 
+each From To 
+1. 0036714 Rajesh Thakkar 22649 1681656 1681805 150 
+2. 0053498 Kautilya K Shah 22650 3081281 3081780 500 
+ 
+The aforesaid Duplicate Share Certificate has been issued on receipt of proper documentation from the 
+Shareholder and pursuant to the approval accorded by the Share Transfer Committee on 3rd October, 
+2024. 
+ 
+Further, Register of Duplicate Share Certificate sent by Link Intime India Private Limited (“RTA”) on 7th 
+October, 2024 for folio No. 0036714, and 8th October, 2024 for Folio No. 0053498 enclosed for your 
+ready reference. However, the Company / RTA will follow the procedure as per SEBI Circular no. 
+SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 dated 25th January, 2022 for issuance of duplicate shares 
+in dematerialized form. 
+ 
+Kindly take the above information on record.  
+ 
+Thanking you, 
+ 
+For Indo Count Industries Limited  
+ 
+ 
+ 
+Satnam Saini 
+Company Secretary & GM- Legal 
+ 
+Encl.: A/a 
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5264TO: TN5264FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5264 0036714
+RAJESH THAKKAR 03/10/2024
+DUP 2.00OLD 150  1681805  1681656  150  4195  4195 
+ 150 ---------------
+ 2.00NEW 150  1681805  1681656  150  22649  22649  102355  102355 
+ 150 ---------------
+07/10/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5265TO: TN5265FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5265 0053498
+KAUTILYA K SHAH 03/10/2024
+DUP 2.00OLD 500  3081780  3081281  500  6691  6691 
+ 500 ---------------
+ 2.00NEW 500  3081780  3081281  500  22650  22650  102356  102356 
+ 500 ---------------
+08/10/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

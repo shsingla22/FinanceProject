@@ -1,0 +1,148 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise) 
+Regd. Office:  Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram – 122015, India 
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110 070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email id: compliance.officer@bharti.in, www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 07, 2024 
+  
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India 
+Symbol: BHARTIARTL/ AIRTELPP 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400001, India 
+Scrip Code: 532454/ 890157 
+ 
+Sub: Press Release  
+ 
+Dear Sir/ Ma’am, 
+ 
+We are enclosing herewith a press release dated October 07, 2024 titled ‘ Airtel 
+Business partners with Fortinet, launches ‘Airtel Secure Internet’ – a next-gen, secure 
+connectivity solution for enterprises’ being issued by the Company.  
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+Sincerely yours, 
+ 
+For Bharti Airtel Limited 
+ 
+ 
+ 
+Rohit Krishan Puri 
+Joint Company Secretary & Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+Airtel Business partners with Fortinet, launches ‘Airtel Secure Internet’ – a next-gen, 
+secure connectivity solution for enterprises 
+ 
+ Airtel Secure Internet leverages new-age cybersecurity solutions from Fortinet to guard enterprises 
+against a wide range of existing and emerging threats  
+ The solution is specially designed  to ensure end-to-end security on Airtel’s super-fast, pan-India 
+Internet Lease Line (ILL) network  
+Gurugram (India), October 7, 2024 –  Airtel Business, the B2B arm of Bharti Airtel ("Airtel"), one of India’s 
+leading telecommunications service providers, has leveraged new-
+age cybersecurity solutions from Fortinet, a global cybersecurity 
+leader driving the convergence of networking and security, to 
+launch  ‘Airtel Secure Internet’ — a new-age internet security 
+solution offering a robust and fully-managed defence against cyber 
+threats. 
+  
+The unique solution is designed specifically to enhance security 
+over Internet Lease Line (ILL) circuits, combining Airtel’s trusted 
+internet connectivity with Fortinet’s next-generation firewall. It 
+offers comprehensive, end-to-end protection through Airtel’s 
+state-of-the-art Security Operations Centre (SOC) and Fortinet’s 
+Security Orchestration, Automation and Response (SOAR) 
+platform, ensuring robust management and defence against cyber 
+threats.  
+  
+Sharat Sinha,  CEO - Airtel Business said, “Cybersecurity is becoming increasingly complex and many 
+organisations lack the resources to manage it effectively. We have been pioneers in offering inclusive 
+Cyber Secured ILL in the Indian market. With the launch of yet another innovative security solution — 
+‘Airtel Secure Internet’— we offer a comprehensive, future-proof solution that strengthens enterprises’ 
+security without the burden of high capex”.  
+  
+Vivek Srivastava, Country Manager, India & SAARC, Fortinet,  added, "As cybersecurity challenges 
+continue to escalate, many organisations are seeking expert support to manage and mitigate threats 
+effectively. Our collaboration with Airtel Business to offer ‘Secure Internet’ provides a cost-effective 
+solution, delivering 24x7 security event monitoring and detection to identify and respond to potential 
+threats in real-time. By leveraging SOC-as-a-Service model, organisations can reduce their total cost of 
+ownership, bridge the cybersecurity skills gap and gain greater visibility into their complex environments 
+ensuring comprehensive protection in today’s digital landscape.” 
+  
+‘Airtel Secure Internet’  will address the ever-increasing cybersecurity challenges faced by businesses, 
+especially small and medium enterprises (SMEs) including limited expertise, fragmented support and 
+high capital expenditure (capex) for security equipment. Many enterprises also lack basic protection and 
+the expertise to manage security across multiple locations while maintaining technology investments, 
+leaving them exposed to internet-based attacks. Enterprises can also opt for Airtel’s next-gen iSOC, 
+which is a state-of-the-art cyber defense centre, offering a large portfolio of security services.  Airtel Secure Internet 
+ 
+ Fully Managed Security 
+service: 24x7 x365 managed 
+services through certified 
+expert 
+ Comprehensive Threat 
+Protection: End-to-end 
+protection against a wide range 
+of threats 
+ Cost-Effective: Flexible 
+subscription with zero capital 
+investments 
+    
+  
+The ‘Airtel Secure Internet’ service model is designed to protect against technology obsolescence, 
+ensuring businesses remain future-proof while reducing capex expenses. The service allows for seamless 
+upgrades or downgrades as needed, ensuring businesses always stay ahead of emerging security 
+challenges. Airtel’s SOC utilises advanced orchestration tools with AI and ML algorithms to automate 
+threat mitigation, providing robust, proactive defence. 
+  
+With Airtel Secure Internet , businesses benefit from Airtel’s pan-India connectivity to link all their 
+locations — headquarters, regional offices, data centres and remote sites. Bundling Fortinet’s Next 
+Generation Firewall ensures holistic security, while Airtel’s intelligent Security Operations Centre iSOC 
+manages the entire setup with its certified and trained resources, delivering continuous protection and 
+peace of mind. 
+  
+The fully managed service also integrates next-generation firewall (NGFW) with enterprise grade threat 
+protection, which offers comprehensive protection through firewalls, intrusion detection, antivirus and 
+content filtering, all from a single platform. For more details, click here: 
+https://www.airtel.in/b2b/secure-internet  
+ 
+About Bharti Airtel Limited  
+Headquartered in India, Airtel is a global communications solutions provider with over 550+ million customers in 17 countries across South Asia and Africa. 
+The Company ranks amongst the top three mobile operators globally and its networks cover over two billion people. Airtel is India’s largest integrated 
+communications solutions provider and the second largest mobile operator in Africa. Airtel’s retail portfolio includes high-speed 4G/5G mobile broadband, 
+Airtel Xstream Fiber that promises speeds up to 1 Gbps with convergence across linear and on-demand entertainment, streaming services spanning music 
+and video, digital payments and financial services. For enterprise customers, Airtel offers a gamut of solutions that includes secure connectivity, cloud and 
+data centre services, cyber security, IoT, Ad Tech and cloud based communication. For more details visit www.airtel.in   
+ 
+About Fortinet  
+Fortinet is a driving force in the evolution of cybersecurity and the convergence of networking and security. Our mission is to secure people, devices, and 
+data everywhere, and today we deliver cybersecurity everywhere you need it with the largest integrated portfolio of over 50 enterprise-grade products. 
+Well over half a million customers trust Fortinet's solutions, which are among the most deployed, most patented, and most validated in the industry. Learn 
+more at https://www.fortinet.com , the Fortinet Blog , and FortiGuard Labs . 
+ 

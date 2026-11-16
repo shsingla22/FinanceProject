@@ -1,0 +1,112 @@
+Akzo Nobel India Limited
+Magnum Tower, 9th Floor       T +91 124 485 2400
+Golf Course Extension Road, Sector- 58      www.akzonobel.co.in
+Gurugram – 122 011, Haryana, India
+Registered office: 801A, South City Business Park, 770, Anandapur, E M Bypass, Near Fortis Hospital, Kolkata – 700 107
+CIN: L24292WB1954PLC02151629th November 2024
+Department of Corporate Services
+BSE Limited
+1st floor, New Trading Ring
+Rotunda Building, P J Towers
+Dalal Street, Fort
+Mumbai-400001
+Scrip Code: 500710The Listing Department
+National Stock Exchange of India Ltd.
+Exchange Plaza, 5th floor,
+Bandra-Kurla Complex
+Bandra (E)
+Mumbai – 400051
+Symbol: AKZOINDIA
+Dear Sirs,
+Intimation regarding Issue of duplicate share certificates under Regulation 39(3) of SEBI
+(LODR) Regulations, 2015.
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, intimation is hereby given that the Company has processed request for
+duplicate share certificate(s) against the certificates reported to be lost/misplaced as per the
+details attached. Further, in terms of SEBI Circular No. SEBI/HO/MIRSD/MIRSD_RTAMB/
+P/CIR/2022/8 dated January 25, 2022 the shares are being is sued in demat mode.  
+Kindly tak e the aforesaid on y our record.
+Thank ing you.
+Yours faithfull y,
+For Akzo No bel India Limited
+Rajiv L. Jha
+Company Secretary & Compliance Officer 
+Membership No. F 5948
+Encl : a s abo ve
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.Akzo Nobel India Ltd.
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+TypeMICR 
+FromMICR 
+To
+TN10000486 ED001
+EDGAR DESOUZA
+YVETTE DE SOUZA29/11/2024
+DUP 10.00OLD  35  40201417  40201383  35  282746  282746 
+ 35 ---------------
+ 10.00NEW  35  40201417  40201383  35  11000527  11000527 
+ 35 ---------------
+TN10000487 AS196
+ARUN SARKAR
+UMA SARKAR29/11/2024
+DUP 10.00OLD  2  28715345  28715344  2  186405  186405 
+ 10.00OLD  17  40008429  40008413  17  276328  276328 
+ 19 ---------------
+ 10.00NEW  2  28715345  28715344  2  11000528  11000528 
+ 10.00NEW  17  40008429  40008413  17  11000529  11000529 
+ 19 ---------------
+TN10000488 SG519
+SACHIT GARG 29/11/2024
+DUP 10.00OLD 100  17673305  17673206  100  444558  444559 
+ 10.00OLD  50  27063689  27063640  50  444560  444560 
+ 10.00OLD  50  32940159  32940110  50  444561  444561 
+ 200 ---------------
+ 10.00NEW 100  17673305  17673206  100  11000530  11000531 
+ 10.00NEW  50  27063689  27063640  50  11000532  11000532 
+ 10.00NEW  50  32940159  32940110  50  11000533  11000533 
+ 200 ---------------
+TN10000489 AJ00278
+ANAND JIRAWALA 29/11/2024
+DUP 10.00OLD  51  41878129  41878079  51  442750  442750 
+29/11/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------FROM:TN10000486  TO:TN10000489
+
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.Akzo Nobel India Ltd.
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+TypeMICR 
+FromMICR 
+To
+ 51 ---------------
+ 10.00NEW  51  41878129  41878079  51  11000534  11000534 
+ 51 ---------------
+29/11/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------FROM:TN10000486  TO:TN10000489
+
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS    4 
+2. TOTAL NO.OF OLD CERTIFICATES  
+3. TOTAL NO.OF NEW CERTIFICATES  
+4. TOTAL NO.OF PAGES   3 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE
+6. TOTAL NO.OF DUPLICATED SHARES     305 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE
+8. TOTAL NO.OFSUB DIVIDED SHARES     
+10.TOTAL NO.OF CONSOLIDATED SHARES9. TOTAL NO.OF CONSOLIDATED CERTIFICATE 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Akzo Nobel India Ltd.
+ 8 
+ 0 
+ 0  8 
+ 8 
+29/11/2024 3 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------FROM: TN10000486 TO:TN10000489

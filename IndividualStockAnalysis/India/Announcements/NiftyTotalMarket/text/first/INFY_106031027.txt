@@ -1,0 +1,194 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE  
+ 
+October 22, 2024  
+Dear Sir/ Madam,  
+Sub: Transcripts of the press conference an d earnings call conducted after the Meeting of 
+ Board of directors on October 17, 2024  
+ 
+Please find enclosed the transcripts of the press c onference and earnings call conducted after the Board 
+meeting held on October 17, 2024, for your information and records.  This information will also be ho sted on the Company’s website, at
+ 
+https://www.infosys.com/investors/reports-f ilings/quarterly-resu lts/2024-2025/q2.html .   
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at  https://www.infosys.com/investors/r eports-filings/quarterly-results/2024-
+2025/q2.html.  
+This is for your information and records.  
+Yours Sincerely,  
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary 
+ACS-21918  
+ 
+ 
+1 
+   
+                                                     Infosys Limited  
+Second Quarter Financial Results  
+October 17, 2024  
+ 
+CORPORATE PARTICIPANTS:  
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director  
+ Jayesh Sanghrajka 
+Chief Financial Officer 
+ Rishi Basu Corporate Communications 
+ 
+Journalists:  
+ 
+Ritu Singh 
+CNBC TV18  
+ 
+Haripriya Sureban 
+NDTV Profit  
+ Chandra R. Srikanth 
+Moneycontrol  
+ 
+Beena Parmar 
+The Economic Times 
+ 
+Jas Bardia 
+Mint 
+ 
+Veena Mani 
+The Times of India  
+Padmini Dhruvaraj 
+Financial Express 
+ 
+Uma Kannan 
+The New Indian Express 
+ 
+Sanjana B 
+The Hindu BusinessLine 
+ 
+Sonal Choudhary 
+Deccan Herald  
+ 
+ 
+ 
+2 
+ Rishi Basu 
+Very good evening, everyone and thank you for joini ng Infosys' Second Quarter Financial Results. 
+My name is Rishi and on behalf of Infosy s, I would like to welcome all of  you. This hall that we are in 
+brings back fond memories for many at Infosys. 
+In October of 2001, Mr. Ratan Tata visited Infosys to inaugurate this very hall, which is named after 
+the Tata Group Founder, Mr. Jamshedji Tata. Mr. Ratan Tata spent almost an entire day on our campus and planted a tree to commemorate this occasi on. Over the years that tree has flourished, 
+a happy reminder of the occasion and all the values that he stood for, and today it stands as a mark of his legacy at Infosys. 
+Let me share some of those memories wi th you. Could we have the video please? 
+[Video Presentation] 
+I now request all of you to join us for a minute’s silence in memory of Mr. Ratan Tata, a Titan of 
+Indian industry and a leader who exemplified the spir it of India through his life and work. I request 
+you to put your mobile phones on silent and I request you to rise. Thank you. 
+[Minute silence] 
+Thank you. I would now like to invite our Chief Executive Offi cer, Mr. Salil Parekh for his opening remarks. Over 
+to you, Salil. 
+Salil Parekh  
+Thanks, Rishi. 
+Mr. Ratan Tata has left an indelible mark on our countr y and really for each of us to be able to dream 
+large and to stay grounded. He will be missed by all of us. 
+Let me now share with you an update on our results. We had a strong performance in Q2 with robust 
+and broad-based growth, stable operating margins, strong cash generation, strong large deals and 
+increased employee headcount. Our revenue grew 3. 1% quarter-on-quarter and 3.3% year-on-year 
+in constant currency terms. 
+Financial services grew at 2%, Manufacturing double di git, Energy, utilities and services at 5.8% - all 
+quarter-on-quarter. We saw growth in all geographi es, quarter-on-quarter. Our operating margin for 
+ 
+3 
+ Q2 was 21.1%. The Financial Services segment in  the U.S. continues to see discretionary spend 
+increase in capital markets, in mortgages, cards and payments. We have seen slowness in the 
+automotive sector in Europe. Apart from these vert icals, demand trends remain stable with clients 
+continuing to prioritize cost take outs over discretionary initiatives. 
+We are deepening our work in generative AI. We are deploying enterprise generative AI platforms, 
+building our own small language model and developing mult i-agent solutions for our clients. With our 
+strong performance in Q2 and our current outlook, we have revised our revenue growth guidance for 
+financial year '25. The new guidance is 3.75% to 4.5%  growth in constant currency for the full year. 
+Operating margin guidance remains the same at 20% to 22%. 
+With that let us open up for questions. 
+Rishi Basu  
+Thank you, Salil. We will now open the floor fo r questions. As always, we request one question from 
+each media house to accommodate everyone over  the next hour. Joining Salil is Mr. Jayesh 
+Sanghrajka, Chief Financial Officer, Infosys. 
+We have the first question from Ritu Singh from CNBC TV18. 
+Ritu Singh 
+Hi. First, on the guidance revision, if you could br eak down for us, how significantly altered is the 
+demand environment now versus what  you saw a couple of quarters ago? How much of this revision 
+upwards is organic versus the contribution that y ou are seeing because of the in-tech acquisition? 
+One, if you could begin by telling us that? 
+Also, there have been seven revisions in the rev enue guidance in the last eight quarters. Could you 
+tell us what you have in terms of visibility now, in terms of the turnaround that you are speaking 
+about? 
+Financial Services is something t hat you have highlighted, but some of the other areas of concern 
+that you have been speaking about, Retail, Hi-Tech, etc., what are you seeing there? What are you 
+hearing from clients on discretionary spends? 
+Your headcount has increased for the first time perhaps  in seven quarters. You told us last time you 
+are looking to hire about 15,000 to 20,000 freshers th is year, are you on-track to do that? And if I 
+may, sorry, add another question on guidance while we are talking about this. You have maintained 
+ 
+4 
+ the guidance for margins at 20% to 22%, but you have deferred the wage hikes to the third quarter. 
+How much will be the impact from that? 
+And there was no real expansion, despite this Project Maximus that you have undertaken. Just give 
+us a sense of why, despite what we saw with the rupee, why that did not happen and how much of 
+a hit do you anticipate in the coming quarte r because of the wage hikes? Thank you. 
+Salil Parekh  
+So let me start off with some of the ones that  you asked and then Jayesh will add a little bit on the 
+margins and also on the revenue growth guidance. So, first on the revenue growth guidance, the way we look at this is based on what we have done in the quarter. Then we look at our pipeline and 
+look at what we anticipate and based on those factor s as we sit today looking out for this financial 
+year, that is Q3 and Q4, we look to increase the revenue growth guidance. 
+The second question you asked on the industries. So , we see Financial Serv ices, discretionary spend 
+is looking stable, strong, especially as we highl ighted in capital markets, cards and payments. We 
+also shared that in automotive, we see slowness in Europe. In the other verticals, the view, the 
+discussions with clients are similar. So, we do  not see any change. There is no new discretionary 
+and especially the verticals you mentioned Retail or Hi-Tech. 
+What we do see is more focus on the cost takeout el ements there itself. In terms of the margin piece, 
+let me first hand over to Jayesh and then there may be some other comments on the revenue itself. 
+Jayesh Sanghrajka  
+Yes. So just to add to the guidance piece that Sa lil was talking about and to your question on in-tech, 
+if you recollect, last time when we announced the guidance, we had clarified that in-tech is now 
+completely included in the last guidance. So, there is no additional impact or additional benefit this 
+quarter on account of in-tech. It was already baked in in the last quarter's guidance. 
+Having said that, there are multiple factors that we look at when we give guidance. A strong H1 
+performance, the pipelines in terms of large deals and less than 50 mn deals that we have. Our less 
+than 50 mn deals have also increased double digit this quarter. So that has also contributed to an 
+increase in our guidance.  
+Coming to your margin question, if you look at our margin this quarter, our margin has remained 
+steady at 21.1%, similar to last quarter. If you look at the puts and takes, we got 80 basis points of benefit from Project Maximus, 10 basis points from currency that was offset  by 30 basis points on 
+account of acquisition because of the amortizati on of intangibles, and the 60 basis points is on 
+ 
+5 
+ account of the salary and the variable increase that we provided as well as the other costs. So, 
+Project Maximus has been contributing. It is offs etting the comp increase and the variable additions 
+that we are doing. 
+We have guided for 20% to 22% for the full year. At th is point in time, we are confident of our guidance 
+with the wage hike that we are planning in Q4. The wage hike is going to be in a phased manner. 
+Some part of that will be effective in Januar y and the balance will be effective in April. 
+Ritu Singh 
+On fresher hiring? Jayesh Sanghrajka  
+We are on track to onboard the 15,000 plus freshers that we talked about last time. We have on 
+boarded many of them in the first half, but we are on-track to onboard 15,000 to 20,000 at a group 
+level in FY'25. 
+Rishi Basu  
+Thank you. The next question is from  Haripriya Sureban from NDTV Profit. 
+Haripriya Sureban 
+Hi, guys. Salil, if you could give us a sense on the budgets opening up, right, the U.S. Fed decision 
+and the elections also coming to a close now. More st ability is expected at least in the U.S. markets. 
+So how do you see that in your conversation wi th your clients? Do you see more budgets opening 
+up? Does this mean that Q3 and Q4 will be significantly better?  
+Also, give us some sense on the growth you are seeing in the emerging markets, because we see 
+that it is an up-and-coming opportunity for other play ers as well. So how is it panning out for you? 
+And on the margins, just to double-tap on that, you have been on the lower end of your guidance 
+consistently now. So, do you think with the mark ets getting better, demand coming back, that should 
+also translate into better margins, and you probably reached the higher end?  
+And on the fresher hiring specifically, you have ment ioned your goals there, but with the new AI roles 
+coming up and so much of work with generative A I, do you think you will do more specialized hiring, 
+and will the salaries be better there, even on the fresher level and the lateral hiring? 
+ 

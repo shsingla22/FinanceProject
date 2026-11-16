@@ -1,0 +1,91 @@
+                                                                             OLA ELECTRIC MOBILITY LIMITED  
+  CIN - L74999KA2017PLC099619  
+(Formerly known as Ola Electric Mobility Private Limited)  
+ 
+ 
+Registered Address:  Wing C, Prestige RMZ Startech, Hosur Road, Municipal Ward No.67, Municipal No. 140, Industrial Layout, Koramangala,  
+Bengaluru – 560095, Karnataka, India  | Landline: 080 35440050 | companysecretary@olaelectric.com | www.olaelectric.com  
+ 
+Date:  October  24, 2024  
+ 
+To,  
+Listing Compliance Department  
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051  To, 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001  
+ 
+NSE Scrip Symbol: OLAELEC  BSE Scrip Code: 544225  
+ 
+Subject: Press release dated October  24, 2024, titled  “Ola Electric introduces the Ola Digital 
+Twin Platform integrated with NVIDIA Omniverse”  
+ 
+Dear Sir/ Ma’am,  
+ 
+We are enclosing herewith the Press Release dated October 24, 2024, titled “Ola Electric introduces 
+the Ola Digital Twin Platform integrated with NVIDIA Omniverse”.  
+ 
+The same will be made available on the Company’s website.   
+ 
+Kindly take the same on record.  
+ 
+Thanking You,  
+ 
+For Ola Electric Mobility Limited  
+ 
+ 
+Harish Abichandani  
+Chief Financial Officer  
+ 
+Encl .: As above  
+Ola Electric introduces the Ola Digital Twin Platform integrated with NVIDIA Omniverse  
+ 
+● With Ola Digital Twin, Ola Electric achieved over 20% faster time to market from design to 
+commissioning, for manufacturing operations at its Futurefactory  
+● The Ola Digital Twin  platform seamlessly integrates Krutrim AI and NVIDIA technologies  
+ 
+Bengaluru, October 24, 2024: Ola Electric, India’s largest pureplay EV company, today announced the 
+launch of the groundbreaking Ola Digital Twin platform to transform manufac turing processes and product 
+development lifecycle. Developed on the NVIDIA Omniverse, the Ola Digital Twin  platform seamlessly 
+integrates Krutrim AI and NVIDIA technologies along with other advanced simulation tools and IoT 
+platforms to create comprehensi ve digital twin environments that fast -track the planning of Ola Electric’s 
+manufacturing facilities and optimise equipment layouts, product development lifecycles, and the building 
+of computer vision -based quality -inspection systems.  
+ 
+The platform also l everages physically accurate simulations and generative AI for tasks ranging from 
+kinematics simulations to generating synthetic image data for training autonomous mobile robots (AMRs) 
+and robotic arms.  
+ 
+By integrating NVIDIA Omniverse — a platform of app lication programming interfaces (APIs), software 
+development kits and services that enable developers to harness Universal Scene Description (OpenUSD) 
+for physical AI — as well as NVIDIA Isaac Sim — a reference simulation platform built on Omniverse for 
+designing and testing robots — Ola Electric has achieved over 20% faster time to market from design to 
+commissioning, for manufacturing operations at its Futurefactory.  
+  
+Ola Electric has also leveraged Ola Digital Twin  in its autonomous robotic weld lines at the Futurefactory, to 
+simulate the welding processes and quality inspection systems. This enables virtual deployment and 
+testing of changes before implementing them in the physical world.  
+ 
+Developers at Ola use Ola Digital Twin’s generative AI capabili ties and NVIDIA Omniverse APIs to generate 
+synthetic assets, including lighting, environmental scenes, objects and defects, which help accelerate 
+perception AI model training from months to weeks, while accounting for scenarios otherwise impossible 
+to safe ly replicate in the real world. The platform also features thermal simulation capabilities for building 
+next-generation OLA Krutrim data centers and liquid -cooling infrastructure.  
+ 
+In addition to this, Ola Consumer is using NVIDIA Isaac Sim to train its ro bot pick -and-place applications for 
+complex stock -keeping units in its automated dark stores. The robots are trained in virtual simulations to 
+handle complex operations in a dynamic, automated environment autonomously.  
+ 
+About Ola Electric Mobility Limited  
+Ola Electric Mobility Limited is a leading electric vehicle (EV) manufacturer in India, specialising in the vertical integrat ion of 
+technology and manufacturing for EVs and their components, including battery cells. Operations are centred around the Ola 
+Futurefactory, where production of EVs and critical components like battery packs, motors, and vehicle frames are undertaken. Ola’s 
+R&D efforts span India, the UK, and the US, focusing on innovation in EV products and core components. Ola is also developing  an 
+extensive EV hub in Tamil Nadu, which includes the Ola Futurefactory and the upcoming Ola Gigafactory. This hub is supported by 
+Ola’s Bengaluru -based Battery Innovation Centre (BIC), dedicated to advancing cell and battery technology. Ola maintains a d irect-to-
+customer distribution network with more than 750 stores across India, as well as a robust online presence, making Ola Electri c the 
+largest company -owned network of automotive experience centres in the country.  
