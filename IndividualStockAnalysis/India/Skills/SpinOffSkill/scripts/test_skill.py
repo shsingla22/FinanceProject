@@ -1209,6 +1209,50 @@ def test_pdf_text_with_lone_surrogates_is_still_written():
 
 # ============================================= the register check (validate_demergers)
 
+def test_sebi_listing_disclosure_aliases_and_renames_from_the_fy25_backtest():
+    # SEBI's 'whether listing would be sought' line, as companies answer it
+    assert SO.listing_sought_in("7. Whether listing would be sought for the resulting entity. No. The shares issued by JKTTL would not be listed")[0] == "no"
+    assert SO.listing_sought_in("Whether listing would be sought for the resulting entity Not Applicable ANNEXURE A2")[0] == "no"
+    assert SO.listing_sought_in("Whether listing would be sought for the resulting entity: Yes, on BSE and NSE")[0] == "yes"
+    assert SO.listing_sought_in("Whether listing would be sought for the resulting entity The equity shares of the Resulting Company are already listed on BSE")[0] == "already"
+    assert SO.listing_sought_in("nothing of the kind") == ("", "")
+    # an alias inside the parenthesis, or 'being the', still names the role
+    kitex = ("Scheme between Kitex Childrenswear Limited (“KCL” or “Demerged Company”) and Kitex Garments Limited "
+             "(“KGL” or “Resulting Company”) for the demerger of the Textile Business into Kitex Garments Limited (being the Resulting Company).")
+    assert SO.demerger_direction(kitex, "Kitex Garments Ltd.")[0] == "inbound"
+    # a renamed company: the filings' name is an alias of today's
+    awl = "Scheme between Adani Enterprises Limited (Demerged Company) and Adani Wilmar Limited (Resulting Company)."
+    assert SO.demerger_direction(awl, "AWL Agri Business Ltd.")[0] == ""
+    assert SO.demerger_direction(awl, ["AWL Agri Business Ltd.", "Adani Wilmar Limited"])[0] == "inbound"
+    rows = [{"date": "2024-08-01", "symbol": "AWL", "company": "Adani Wilmar Limited", "source": "NSE", "category": "Demerger",
+             "kind": "demerger", "tags": "demerger", "headline": "Demerger", "attachment": "", "ann_id": "w1", "file_size": "", "text_file": ""},
+            {"date": "2024-10-29", "symbol": "AWL", "company": "AWL Agri Business Ltd.", "source": "NSE", "category": "Updates",
+             "kind": "demerger", "tags": "demerger", "headline": "Update on the Scheme", "attachment": "", "ann_id": "w2", "file_size": "", "text_file": ""}]
+    s = SO.build_situations(rows, {"w1": awl, "w2": "Whether listing would be sought for the resulting entity: No."}, today=dt.date(2025, 3, 31))[0]
+    assert s["facts"]["direction"] == "inbound"
+    assert s["facts"]["listing_sought"] == {"no": 1} and s["facts"]["no_listing_sought"]
+    kind, why = SO.judge_override(s, {"status": "judged", "what_is_spun": "Food FMCG division", "parent_or_spin": "spin"})
+    assert kind == "other" and "SEBI disclosure" in why
+    # a 'yes' anywhere keeps the demerger: Raymond's May 2024 'No' was about another scheme
+    s2 = SO.build_situations(rows, {"w1": "Whether listing would be sought for the resulting entity: Yes.",
+                                    "w2": "Whether listing would be sought for the resulting entity: No."}, today=dt.date(2025, 3, 31))[0]
+    assert s2["facts"]["listing_sought"] == {"yes": 1, "no": 1} and not s2["facts"].get("no_listing_sought")
+    # the judge's own words: slump sale to a wholly-owned subsidiary, 'no spin-off', a dated past separation
+    base = {"symbol": "X", "company": "X Ltd", "kind": "demerger", "stage": "announced", "facts": {}, "headlines": [], "first_filing": "2024-07-10"}
+    j = {"status": "judged", "parent_or_spin": "parent", "selling_pressure": "unclear", "reason": "x", "listing_timeline": "not stated"}
+    assert SO.judge_override(base, {**j, "what_is_spun": "new edge digital services business, hived off to wholly-owned subsidiary Novamesh Limited on slump-sale basis"})[0] == "other"
+    assert SO.judge_override(base, {**j, "what_is_spun": "Three SEZ undertakings of DLF Assets, vested into DCCDL; no listed-shareholder spin-off"})[0] == "other"
+    assert SO.judge_override(base, {**j, "what_is_spun": "Non-Airport business demerged into GMR Power (January 2022); these filings describe an inbound merger"})[0] == "other"
+    assert SO.judge_override(base, {**j, "what_is_spun": "Hotels business demerged into ITC Hotels (January 2025), listed"})[0] is None
+    # a news-verification headline that says 'demerge' is not a scheme on the record
+    heads = [{"date": "2024-12-24", "category": "News Verification", "kind": "demerger", "headline": "clarification on news: Amber looking to demerge electronics", "attachment": ""}]
+    assert not SO.scheme_named(heads)
+    assert SO.confidence({"kind": "demerger", "stage": "announced", "facts": {}, "headlines": heads})[0] == "probable"
+    # 'moving into listed Kitex Garments' names this company as the receiver
+    jk = {**j, "what_is_spun": "Kitex Childrenswear's Textile Business Division moving into listed Kitex Garments"}
+    assert SO.judge_override({**base, "company": "Kitex Garments Ltd."}, jk)[0] == "other"
+
+
 def test_register_record_date_overrides_the_filings_date_and_looks_a_little_ahead(monkeypatch):
     # ITC: the filings' words gave a June 2024 'record date' (the dividend's); the register says 2025-01-06
     row = {"date": "2024-06-01", "symbol": "ITC", "company": "ITC Ltd.", "source": "NSE", "category": "Demerger",

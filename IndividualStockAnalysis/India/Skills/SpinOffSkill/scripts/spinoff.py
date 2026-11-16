@@ -367,20 +367,27 @@ def _company_rx(company: str) -> str:
             r"(?!\w)(?!\s*\d)(?!\s+(?:[A-Z][a-z]+|[A-Z]{2,}|&)\b(?!\s*[(\"“']))")
 
 
-_ROLE_TAIL = r"[\s,]{0,6}(?:\(|[“\"']|\bas\s+|\bbeing\s+|\bis\s+|,\s*)(?:the\s+)?(?:hereinafter\s+)?(?:referred\s+to\s+as\s+)?(?:the\s+)?[“\"']?(?:%s)\s+Compan"
+# after the name: '(“Resulting Company”)', '(“KGL” or “Resulting Company”)',
+# '(being the Resulting Company', ', the Resulting Company', 'as Resulting Company'
+_ROLE_TAIL = (r"[\s,]{0,6}(?:\((?:[^()]{0,40}?)|[“\"']|\bas\s+|\bbeing\s+|\bis\s+|,\s*)(?:the\s+)?(?:hereinafter\s+)?"
+              r"(?:referred\s+to\s+as\s+)?(?:the\s+)?[“\"']?(?:%s)\s+Compan")
 
 
-def demerger_direction(text: str, company: str) -> tuple[str, str]:
+def demerger_direction(text: str, company: str | list[str]) -> tuple[str, str]:
     """Which way the demerger runs for THIS listed company, read from the
     scheme text. 'inbound': the company is the RESULTING / TRANSFEREE
     company — a business is demerged INTO it, it issues shares to another
     company's holders, and its own holders receive no new listing (Gabriel
     India taking Asia Investments' automotive undertaking). 'outbound':
     the company is the DEMERGED company. '' when the text does not say.
-    Returns (direction, quote)."""
-    crx = _company_rx(company)
-    if not crx or not text:
+    `company` may be a list of names the filings have used (a renamed
+    company — Adani Wilmar, now AWL Agri Business). Returns (direction, quote)."""
+    names = [company] if isinstance(company, str) else list(dict.fromkeys(n for n in company if n))
+    parts = [_company_rx(n) for n in names]
+    parts = [p for p in parts if p]
+    if not parts or not text:
         return "", ""
+    crx = "(?:" + "|".join(parts) + ")"
     head = text[:200_000]
     inbound_rx = re.compile("(?:" + crx + _ROLE_TAIL % "Resulting|Transferee" + ")|(?:"
                             r"de-?merg\w*[^.]{0,250}?\binto\s+" + crx + ")", re.I)
@@ -528,6 +535,28 @@ def spin_identity(sit: dict, judge: dict | None = None, today: dt.date | None = 
     return True
 
 
+LISTING_SOUGHT_RX = re.compile(r"whether\s+listing\s+would\s+be\s+sought\s+for\s+the\s+resulting\s+(?:entity|compan\w*)"
+                               r"[\s\S]{0,12}?[:.\-–]?\s*([\s\S]{0,200})", re.I)
+
+
+def listing_sought_in(text: str) -> tuple[str, str]:
+    """SEBI's Regulation 30 disclosure for a scheme carries the line
+    'Whether listing would be sought for the resulting entity' — the
+    company's own answer to the one question the notes care about.
+    Returns ('yes' | 'no' | 'already' | '', the answer's words)."""
+    for m in LISTING_SOUGHT_RX.finditer(text or ""):
+        ans = re.sub(r"\s+", " ", m.group(1)).strip()
+        low = ans.lower()
+        if re.match(r"^\W*(?:yes\b|the (?:equity )?shares .{0,80}(?:shall|will|would|are proposed to) be listed)", low):
+            return "yes", ans[:200]
+        if re.match(r"^\W*(?:no\b(?!t applicable)|nil\b|not applicable\b|n\.?\s?a\.?\b|the (?:equity )?shares .{0,80}(?:would|will|shall) not be listed)", low) \
+                or re.match(r"^\W*no\.", low):
+            return "no", ans[:200]
+        if re.search(r"already listed", low[:160]):
+            return "already", ans[:200]
+    return "", ""
+
+
 def family_of(kind: str) -> str:
     return {"demerger": "spin-off", "subsidiary_listing": "partial spin-off / listing",
             "scheme_other": "scheme (nature unclear)", "merger": "merger",
@@ -619,11 +648,27 @@ def build_situations(rows: list[dict], texts: dict[str, str] | None = None,
             # inbound only when every reading says so
             votes: dict[str, int] = {}
             quotes: dict[str, str] = {}
+            # every name the filings have used for the company (a rename
+            # between filing and today: Adani Wilmar → AWL Agri Business)
+            aliases = [fl[0]["company"]] + sorted({r.get("company", "") for r in fl} - {fl[0]["company"], ""})
+            sought: dict[str, int] = {}
+            sought_quote = ""
             for r in filed:
-                d, q = demerger_direction(r["_text"] or r.get("_first") or "", fl[0]["company"])
+                d, q = demerger_direction(r["_text"] or r.get("_first") or "", aliases)
                 if d:
                     votes[d] = votes.get(d, 0) + 1
                     quotes.setdefault(d, q)
+                ls, lq = listing_sought_in(r["_text"] or r.get("_first") or "")
+                if ls:
+                    sought[ls] = sought.get(ls, 0) + 1
+                    sought_quote = sought_quote or f"{ls}: “{lq}”"
+            if sought:
+                # the company's own SEBI answer, filing by filing: 'no' from
+                # every filing that answers, and no 'yes', means no listing
+                facts["listing_sought"] = sought
+                facts["listing_sought_quote"] = sought_quote
+                if sought.get("no") and not sought.get("yes") and not sought.get("already"):
+                    facts["no_listing_sought"] = True
             if votes.get("inbound") and not votes.get("outbound"):
                 facts["direction"], facts["direction_quote"] = "inbound", quotes["inbound"]
             elif votes.get("outbound"):
@@ -1092,8 +1137,8 @@ def scheme_named(heads: list[dict]) -> bool:
     headline itself names the scheme? A results filing or a dividend record
     date whose body mentions a demerger in passing is not."""
     for h in heads:
-        if h["category"].startswith("Earnings call"):
-            continue
+        if h["category"].startswith("Earnings call") or NEWS_RX.search(h["category"]):
+            continue                                   # a call, or the exchange asking about a news item
         if h["category"] in SCHEME_CATEGORIES:
             return True
         if h["kind"] == "demerger" and SCHEME_WORDS_RX.search(f"{h['category']} {h['headline']}"):
@@ -1191,9 +1236,9 @@ DEMERGER_WORDS_RX = re.compile(r"de-?merg|spin|carve|hiv\w+ off|separate (listin
 
 
 ACQUISITION_RX = re.compile(r"acqui\w+|stake (in|of)|investment in|purchase of (shares|a stake)|buy\w* (a |the )?stake", re.I)
-INTO_RX = re.compile(r"\b(?:into|vested in|transferred to|merged with)\s+(?:the\s+)?([A-Z][A-Za-z0-9&.\-' ]{2,60}?)"
+INTO_RX = re.compile(r"\b(?:into|vested in|transferred to|merged with|moving into)\s+(?:the\s+)?(?:listed\s+)?(?:parent\s+)?([A-Z][A-Za-z0-9&.\-' ]{2,60}?)"
                      r"(?=[,;.(]|\s+(?:and|which|a |the |its |via|through|by|on|at|as|\()|\s*$)", re.S)
-SLUMP_SALE_RX = re.compile(r"slump sale|business transfer agreement|sold (on|to|as|for)|"
+SLUMP_SALE_RX = re.compile(r"slump[\s-]sale|business transfer agreement|sold (on|to|as|for)|"
                            r"sale of (the |its )?(?:[\w&,'-]+\s+){0,8}(business|undertaking|division|unit)\b", re.I)
 
 
@@ -1213,6 +1258,9 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     business, not spinning one off."""
     if sit.get("facts", {}).get("is_the_spin"):
         return None, ""                              # the spun entity itself; nothing to demote
+    if sit["kind"] == "demerger" and sit.get("facts", {}).get("no_listing_sought"):
+        return "other", ("no listing will be sought for the resulting entity — the company's own SEBI disclosure "
+                         f"says so ({sit['facts'].get('listing_sought_quote', '')[:140]}); a reorganisation inside the group")
     if sit["kind"] == "demerger" and sit.get("facts", {}).get("direction") == "inbound":
         return "other", (f"inbound demerger — the scheme names {sit.get('company', 'the company')} as the "
                          f"Resulting Company: a business is demerged INTO it and its own shareholders "
@@ -1239,8 +1287,20 @@ def judge_override(sit: dict, judge: dict) -> tuple[str | None, str]:
     sold = SLUMP_SALE_RX.search(what) or SLUMP_SALE_RX.search(judge.get("listing_timeline") or "")
     no_listing = re.search(r"no listing|not (be )?listed|did not warrant|no (separate )?(entity|company) (is |was )?(created|listed)|"
                            r"sale|sold", judge.get("listing_timeline") or "", re.I)
-    if sold and not DEMERGER_WORDS_RX.search(spun) and (starts_empty or no_listing or judge.get("parent_or_spin") in ("parent", "neither", "unclear", None)):
-        return "other", "the judge read a slump sale / business transfer; the business leaves for cash and nothing is listed for shareholders"
+    to_wos = re.search(r"wholly[- ]owned subsidiar", what, re.I)
+    if sold and (to_wos or (not DEMERGER_WORDS_RX.search(spun)
+                            and (starts_empty or no_listing or judge.get("parent_or_spin") in ("parent", "neither", "unclear", None)))):
+        return "other", ("the judge read a slump sale / business transfer" + (" to a wholly-owned subsidiary" if to_wos else "")
+                         + "; the business leaves for cash and nothing is listed for shareholders")
+    # the judge says in so many words that the holders get no spin-off
+    if re.search(r"\bno (?:listed[- ]shareholder |new )?spin-?off\b|\bnot a spin-?off\b|no (?:spin-?off|demerger) (?:for|to) (?:the )?(?:listed )?shareholders",
+                 what, re.I):
+        return "other", "the judge read the complete documents: no spin-off reaches this company's shareholders"
+    # the judge dates the separation to years before the window: history the
+    # filings mention, not a situation (GMR's 2022 demerger in a 2024 merger)
+    m = re.search(r"\((?:[A-Za-z]+\s+)?((?:19|20)\d\d)\)", judge.get("what_is_spun", ""))
+    if m and sit.get("first_filing") and int(m.group(1)) <= int(sit["first_filing"][:4]) - 2:
+        return "other", f"the judge dates the separation to {m.group(1)}, before these filings; history mentioned, not a situation"
     # inbound: "<business> of <other entity> demerged into <THIS company>"
     for m in INTO_RX.finditer(judge.get("what_is_spun", "")):
         if _same_company(m.group(1), sit.get("company", "")) and judge.get("parent_or_spin") != "spin":
