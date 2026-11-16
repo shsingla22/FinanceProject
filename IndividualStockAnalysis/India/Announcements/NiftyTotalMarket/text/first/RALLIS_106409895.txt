@@ -1,0 +1,308 @@
+  
+ 
+  
+ 
+October  16, 202 5 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code : 500355  National Stock Exchange of India L imited 
+Exchange Plaza  
+Bandra -Kurla Complex Bandra (E)  
+Mumbai  – 400 051  
+Symbol : RALLIS  
+ 
+Dear Sir /Madam ,  
+ 
+Sub:  Outcome of the Board Meeting – October  16, 202 5 
+ 
+Ref: Intimation under Regulation 30 and 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“ SEBI Listing Regulations”)  
+ 
+This has reference to our letter dated October  8, 202 5, giving notice of the Board Meeting to 
+consider and approve the Unaudited Financial Results  of the Company for the  second  quarter 
+and half year ended September 30, 202 5. 
+ 
+Pursuant to Regulations 30 and 33 of the SEBI Listing Regulations, we wish to inform you that 
+the Board of Directors at their Meeting held today has inter alia , approved the Unaudited  Financial 
+Resul ts of the Company for the  second  quarter  and half year  ended September 30, 202 5. In this 
+regard, a copy of the said Financial Results together with the Limited Review  Report is enclosed 
+herewith.  
+ 
+These are also being made available on the website of the Company at www.rallis.com . 
+ 
+The Meeting of the Board of Direc tors held today commenced at 3.00 p.m. (IST)  and concluded  
+at 4.12 p.m. (IST)  
+ 
+You are requested to take the same on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Rallis India Limited  
+ 
+ 
+ 
+Sariga P Gokul  
+Company Secretary  & Compliance Officer  
+ 
+Encl.: As above  
+ ( in Cr.)
+ Quarter ended 
+30 September, 
+2025  Quarter ended 
+30 June, 2025  Quarter ended 
+30 September, 
+2024 Half year ended 
+30 September, 
+2025Half year ended 30 
+September, 2024Year ended 31 
+March, 2025
+ Unaudited  Unaudited  Unaudited Unaudited Unaudited Audited
+1Revenue from operations (net of rebates and discounts) 861                          957                           928                         1,818 1,711 2,663
+2Other income 10                             12                             10                           22 15 32
+3TOTAL INCOME (1+2) 871                          969                           938                         1,840 1,726 2,695
+4EXPENSES
+a)Cost of materials consumed 441                          473                           396                         914 767 1,302
+b)Purchase of stock-in-trade 53                             133                           63                           186 155 231
+c)Changes in inventories of finished goods, work-in-progress and stock-
+in-trade3                               4                               97                           7 118 48
+d)Employee benefits expense 74                             67                             69                           141 136 275
+e)Finance costs 3                               4                               3                             7 8 12
+f)Depreciation and amortisation expense 30                             29                             30                           59 61 120
+g)Other expenses 136                          130                           137                         266 273 521
+TOTAL EXPENSES 4(a) TO 4(g) 740                          840                           795                         1,580 1,518 2,509
+5PROFIT/ (LOSS) BEFORE EXCEPTIONAL ITEMS AND TAX (3 - 4) 131                          129                          143                        260 208 186
+6Exceptional items (Refer Note 5) 6                               -                            - 6                             -                                1                         
+7PROFIT/ (LOSS) BEFORE TAX (5 + 6) 137                          129                          143                        266                         208                               187                    
+8Tax expenses 
+a)Current Tax 37                             38                            45                          75                           63                                 56
+b)Deferred Tax (2)                             (4)                             -                         (6)                           (1)                                 6
+Total Tax expense (8a+8b) 35                             34                            45                          69                           62                                 62                       
+9NET PROFIT/ (LOSS) FOR THE PERIOD (7 - 8) 102                          95                            98                          197 146 125
+10Other Comprehensive Income- gain/ (loss) * 1                              (2)                             -                         (1)                           (2)                                 (2)
+a)Items that will be reclassified to profit or loss* -                           -                            -                          -                          -                                -
+b)Items that will not be reclassified to profit or loss* 1                               (3)                             1                            (2)                           (2)                                 (2)
+c)Tax on 10(a) and 10(b)* -                           1                               (1)                           1                             -                                -                     
+11TOTAL COMPREHENSIVE INCOME GAIN/ (LOSS) (9 + 10) 103                          93                            98                          196 144 123
+12Paid up equity share capital 19                             19                             19                           19 19 19
+(Face value :  1 per share)
+13Other equity 1,885                 
+14Basic and diluted earnings per share (in ) 5.23                         4.89                         5.04                        10.12 7.50 6.43
+*Items not presented due to rounding off to the nearest  crores
+See accompanying notes to the financial resultsParticularsRALLIS INDIA LIMITED
+Registered Office: 23rd Floor, VIOS Tower at New Cuffe Parade, Off Eastern Freeway, Wadala, Mumbai 400037. 
+CIN:L36992MH1948PLC014083
+PART I: UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30 SEPTEMBER, 2025
+
+ (  in Cr. ) 
+ As at 
+30 September, 
+2025  As at 
+31 March, 
+2025 
+ Unaudited  Audited 
+ASSETS
+Non-current assets
+a)Property,plant and equipmen t 602                          623                          
+b)Capital work-in-progress 13                            25                            
+c)Investment propert y 1                              1                              
+d)Right-of-use asset 55                            57                            
+e)Goodwill on amalgamation 196                          196                          
+f)Other Intangible assets 26                            27                            
+g)Intangible assets under development 21                            27                            
+h)Financial assets
+i)Investments 4                              4                              
+ii)Other financial assets 14                            16                            
+i)Income-tax assets (Net) 98                            98                            
+j)Deferred-tax assets 1                              -                           
+k)Other non-current assets 37                            35                            
+Total non-current assets 1,068                      1,109                      
+Current assets
+a)Inventories 770                          751                          
+b)Financial assets
+i)Investments 429                          408                          
+ii)Trade receivables 840                          541                          
+iii)Cash and cash equivalent s 20                            28                            
+iv)Bank Balances other than (iii) above 5                              3                              
+v)Other financial assets 16                            14                            
+c)Other current assets 179                          120                          
+d)Assets classified as held for sale* 1                              0                              
+Total current assets 2,260                      1,865                      
+Total assets 3,328                      2,97 4
+EQUITY AND LIABILITIES
+Equity
+a)Equity share capital 19                            19                            
+b)Other equit y 2,033                      1,885                      
+Total equit y 2,052                      1,90 4
+Liabilities
+Non-current liabilitie s
+a)Financial liabilities
+i)Borrowings* 0                              1                              
+ii)Lease liabilities 50                            50                            
+b)Provisions 45                            44                            
+c)Deferred tax liabilities (Net) -                           6                              
+d)Other non-current liabilitie s 1                              1                              
+Total non-current liabilitie s 96                            102                          
+Current liabilities
+a)Financial liabilities
+i)Borrowings* 0                              0                              
+ii)Lease liabilities 11                            12                            
+iii)Trade and other payable s
+-total outstanding dues of micro enterprises and small enterprise s 32                            15                            
+-total outstanding dues of creditors other than micro enterprises 
+  and small enterprise s752                          526                          
+iv)Other financial liabilitie s 244                          173                          
+b)Other current liabilitie s 84                            227                          
+c)Provisions 10                            12                            
+d)Income-tax liabilities (Net) 47                            3                              
+Total current liabilitie s 1,180                      968                          
+Total liabilities 1,276                      1,070                      
+Total equity and liabilitie s 3,328                      2,97 4
+*Items not presented due to rounding off to the nearest  croresParticularsPART II: UNAUDITED BALANCE SHEET AS AT 30 SEPTEMBER, 2025
+ (  in Cr. ) 
+ Half year
+ended 30
+September, 
+2025  Half year
+ended 30
+September, 
+2024 
+ Unaudited  Unaudited 
+A CASH FLOW FROM OPERATING ACTIVITIES:
+Profit before tax 266                        208                        
+ Adjustments for :
+     Finance costs 7                            8                            
+     Depreciation and amortisation expense 59                          61                          
+     Interest income* 0                            0                            
+     Dividend income* 0                            0                            
+     Fair valuation loss/ (gain) on investment in Mutual fund 1 (1)
+    (Gain) on redemption of current investments (16) (6)
+     Credit balances written back (1) (3)
+     Allowance for doubtful debts (net) and bad debts written off 4                            6                            
+     Deposits written off* -                         0                            
+     Provision for impairment of Tangible assets* 0                            -                         
+     Provision for Impairment of intangible assets under development 2                            5                            
+     Provision for Directors pension liability (net)* 1                            0                            
+     Provision for supplemental pay (net)* 0 0                            
+     Provision for gratuity (net) (4) (3)
+     Provision for compensated absences (net) 1                            2                            
+     Mark-to-market (gain) on forward contract (1) (3)
+     Net unrealised foreign exchange loss 4                            4                            
+     (Gain)/ Loss on disposal of property, plant and equipment* (6) 0                            
+Operating profit before working capital changes 317                        278                        
+Movements in working capital:
+      (Increase) in trade receivables (298) (279)
+      (Increase)/ Decrease in inventories (19)                        70
+      Decrease/ (Increase) in other financial assets 4 (1)
+      (Increase) in other assets (60) (43)
+      Increase in trade payables 235 111
+      Increase in other financial liabilities 72 55                         
+      (Decrease) in other liabilities (147) (118)
+CASH GENERATED FROM OPERATIONS 104                        73                          
+Income taxes paid (Net of refunds) (32) (31)
+NET CASH FLOWS GENERATED FROM OPERATING ACTIVITIES (A) 72                          42                          
+B CASH FLOW FROM INVESTING ACTIVITIES:
+     Interest received* 0                            0                            
+     Dividend received* 0                            0                            
+     Purchase of current investments (641) (518)
+     Proceeds from sale of current investments 636                        561                        
+     Payments for purchase of property , plant and equipment 
+     (including adjustments on account of capital work-in-progress, 
+     capital creditors and capital advances)(19) (30)
+     Payments for intangible assets (1) (3)
+     Proceeds from disposal of property , plant and equipment 4                            1
+Advance received against assets held for sale 4                            -
+     Proceeds from maturity of bank deposits* 0 0
+NET CASH FLOWS (INVESTED IN)/GENERATED FROM INVESTING ACTIVITIES (B) (17)                        11
+C CASH FLOW FROM FINANCING ACTIVITIES:
+     Repayment of long-term borrowings (including current maturities)* 0 0                            
+     Proceeds from short-term borrowings 5                            5                            
+     Repayment of short-term borrowings (5) (5)
+     Payment of lease liabilities (10) (14)
+     Dividend paid on equity shares (48) (49)
+     Interest paid (5) (5)
+     Bank balances in dividend account* 0                            0
+NET CASH FLOWS USED IN FINANCING ACTIVITIES (C) (63) (68)
+NET (DECREASE) IN CASH AND CASH EQUIVALENTS (A) + (B) + (C) (8) (15)
+CASH AND CASH EQUIVALENTS AT THE BEGINNING OF THE YEAR
+       Cash in hand* 0                            0                            
+       Balances with banks in current account and deposit account 28                          27                          
+CASH AND CASH EQUIVALENTS 28                          27                          
+Net Cash and cash equivalents as per Cash flow statement 20                          12                          
+CASH AND CASH EQUIVALENTS AT THE END OF THE YEAR
+       Cash in hand* 0                            0                            
+       Balances with banks in current account and deposit account 20                          12                          
+CASH AND CASH EQUIVALENTS 20                          12                          
+*Items not presented due to rounding off to the nearest  croresParticularsPART III: UNAUDITED STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED 30 SEPTEMBER, 2025
+Notes :
+1
+2
+3
+4
+5
+6
+7
+8
+For and on behalf of 
+Rallis India Limited
+Gyanendra Shukla
+Managing Director & CEO
+DIN : 02922133
+Mumbai
+October 16, 2025The results of the Company are available for investors at www.rallis.com , www.nseindia.com  and www.bseindia.com .Amounts for the current and previous periods are rounded off to the nearest  crores.The Company has no Subsidiary, Associate or Joint Venture Company(ies), as on 30 September, 2025.Exceptionalitemasdisclosedinthecolumns(quarterandhalfyearended30September, 2025)comprise profitonsaleofflats(netof costs)and
+as disclosed in the column (year ended 31 March, 2025) comprises profit on sale of leasehold land (net of costs).Financial results for all the periods presented have been prepared in accordance with the recognition and measurement principles of Ind AS
+notified under the Companies (Indian Accounting Standards) Rules, 2015 as amended from time to time.
+The Company's business is seasonal in nature and the performance can be impacted by weather conditions and cropping pattern.
+The Company has one reportable business segment viz. "Agri-Inputs".The above financial results were reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on 16 October,
+2025. The statutory auditors have expressed an unmodified review conclusion.
+B S R & Co. LLP
+Chartered Accountants14th Floor, Central B Wing and North C Wing
+Nesco IT Park 4, Nesco Center
+Western Express Highway
+Goregaon (East), Mumbai – 400 063, India
+Telephone: +91 (22) 6257 1000
+Fax: +91 (22) 6257 1010
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 201314th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 1Limited Review Report on unaudited financial results of Rallis India Limited for the 
+quarter ended 30 September 2025 and year to date results for the period from 1 April 
+2025 to 30 September 2025 pursuant to Regulation 33 of Securities and Exchange 
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+as amended
+To the Board of Directors of Rallis India Limited
+1. We have reviewed the accompanying Statement of unaudited financial results of Rallis India Limited 
+(hereinafter referred to as “the Company”) for the quarter ended 30 September 2025 and year to date 
+results for the period from 1 April 2025 to 30 September 2025 (“the Statement”).
+2. This Statement, which is the responsibility of the Company’s management and approved by its Board 
+of Directors, has been prepared in accordance with the recognition and measurement principles laid 
+down in Indian Accounting Standard 34 “ Interim Financial Reporting ” (“Ind AS 34”), prescribed under 
+Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India 
+and in compliance with Regulation 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (“Listing Regulations”). 
+Our responsibility is to issue a report on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly, we do not express an audit opinion.
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe 
+that the accompanying Statement, prepared in accordance with the recognition and measurement 
+principles laid down in the aforesaid Indian Accounting Standard and other accounting principles 
+generally accepted in India, has not disclosed the information required to be disclosed in terms of 
+Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed, or that it 
+contains any material misstatement.
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+Mansi Pardiwalla
+Partner
+Mumbai Membership No.: 108511
+16 October 2025 UDIN:25108511BMOENT9670

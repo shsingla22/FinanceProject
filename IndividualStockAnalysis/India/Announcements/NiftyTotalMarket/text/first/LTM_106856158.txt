@@ -1,0 +1,86 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 92402 97500  
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/108                                                                                                  November 12, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+We are attaching herewith copy of the Press Release titled “LTM Brings AI-Powered Quantum 
+Error Mitigation to IBM Quantum Functions Catalog” which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl. As above. 
+ 
+ 
+LTM Brings AI-Powered Quantum Error Mitigation to IBM Quantum Functions Catalog 
+Mumbai, India – November 12, 2026: LTM, the Business Creativity partner to the world’s largest enterprises,  today announced 
+that AI-QEM, its proprietary AI-powered Quantum Error Mitigation capability, is now available in the IBM Quantum Functions 
+Catalog. With this milestone, LTM becomes the first Global Systems Integrator (GSI) worldwide  to publish a function in the 
+catalog. 
+ 
+The IBM Quantum Functions Catalog is an ecosystem of partner-built quantum software services that simplify quantum 
+workflows and enable researchers and enterprises to run quantum experiments more efficiently for algorithm development 
+and application prototyping. AI-QEM is available as a circuit function, allowing users of eligible IBM Quantum access plans to 
+apply LTM's error mitigation capability directly within their Qiskit workflows. 
+ 
+Quantum computers are inherently susceptible to noise and errors that can impact computational outcomes. While 
+conventional error mitigation techniques often require additional circuit executions, quantum processing time, or auxiliary 
+qubits, AI-QEM uses advanced AI models to learn and correct device-specific error patterns through classical post-processing. 
+This supports improved result accuracy without additional QPU time, repeated circuit executions, or extra qubits, helping 
+reduce the cost and complexity of running useful quantum experiments. 
+ 
+The capability has been validated on IBM Quantum computers across a range of circuit sizes and complexities, including 
+experiments involving more than 100 qubits. 
+ 
+"LTM’s AI-QEM now available in the IBM Quantum Functions Catalog reflects the growing role of our ecosystem partners in 
+advancing and expanding the tools available for the wider quantum community. The AI-QEM function will allow our users to 
+mitigate errors faster and with fewer resources, in their efforts to develop algorithms and applications," said Scott Crowder, 
+Vice President, IBM Quantum Adoption and Business Development.  
+ 
+LTM continues to advance practical quantum applications across industries. Its work includes quantum optimization solutions 
+for a leading global insurer, hybrid quantum machine learning for critical infrastructure operations, and quantum-safe security 
+programs that help financial services and insurance organizations prepare for the migration to post-quantum cryptography. 
+ 
+ 
+About LTM 
+LTM — a Larsen & Toubro Group Company — is an AI-centric global technology services company and the Business Creativity partner to 
+the world’s largest enterprises. We bring human insights and intelligent systems together to help clients create greater value at the 
+intersection of technology and domain expertise. Our capabilities span integrated operations, transformation, and business AI — enabling 
+new ways of working, new productivity paradigms, and new roads to value. Together with over 87,000 employees across 40 countries and 
+our global network of partners, LTM owns outcomes for clients, helping them not just outperform the market, but Outcreate it. Read more 
+at LTM.com .  
+ 
+Media Contact: Shambhavi Revandkar | Global Media Relations | shambhavi.revandkar@ltm.com   
+ 
+  
+ 

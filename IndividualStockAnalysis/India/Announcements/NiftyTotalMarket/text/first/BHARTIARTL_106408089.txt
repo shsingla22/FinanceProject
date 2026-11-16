@@ -1,0 +1,123 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise)  
+Regd. Office:  Airtel Center, Plot No. 16, U dyog Vihar, Phase -IV, Gurugram - 122015, India  
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110070, India  
+T.: +91 -124-4222222, F.: +91 -124-4248063, Email : compliance.officer@bharti.in , Website : www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+October  15, 2025  
+  
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1 Block G  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051 , India  
+Symbol: BHARTIARTL/ AIRTELPP  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street , Mumbai – 400001 , India  
+Scrip Code: 532454/ 890157  
+ 
+Sub: Press Release  (Revised)  
+ 
+Dear Sir/ Ma’ am, 
+ 
+We are enclosing herewith a  press release dated October 15 , 2025 titled  ‘Bharti Airtel 
+announces a strategic partnership with IBM to augment Airtel Cloud ’ being issued by the 
+Company.  
+ 
+Please ignore our earlier submission in this regard.  
+ 
+Kindly take the same on record.   
+ 
+Thanking you,  
+Sincerely y ours,  
+ 
+For Bharti Airtel Limited  
+ 
+ 
+ 
+Rohit Krishan Puri  
+Joint Company Secretary  & Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bharti Airtel announces a strategic partnership with IBM to augment Airtel Cloud  
+New Delhi and Mumbai (India) and Armonk N.Y., October 15, 2025  – Bharti Airtel, one of India’s 
+leading telecommunications service providers has entered into a strategic partnership with IBM 
+(NYSE:IBM) to augment its recently launched Airtel Cloud. The partnership is expected to bring together 
+the telco -grade reliabil ity, high security, and data residency of Airtel Cloud with IBM’s leadership in cloud 
+solutions, and advanced infrastructure and software technologies designed for AI inferencing.   
+Together, Airtel and IBM will aim to enable enterprises in regulated industries to scale AI workloads more 
+efficiently, delivering interoperability across infrastructure including on -premise, in the cloud, across 
+multiple clouds and at the edge.   
+Through this partnership, Airtel Cloud customers will be able to deploy the IBM Power systems portfolio 
+as-a-Service, including the latest -generation IBM Power11 autonomous, AI -ready servers  for mission -
+critical applications in  regulated industries like ba nking, healthcare, government and others. The Power11 
+hybrid platform will also support critical enterprise workloads including IBM Power AIX, IBM i, Linux 
+and SAP Cloud ERP. Additionally, this partnership will help enable SAP customers on IBM Power with 
+their enterprise resource planning transformation to SAP Cloud ERP on IBM Power Virtual Server.  
+Gopal Vittal, Vice Chairman & Managing Director, Bharti Airtel , said, “Airtel Cloud is designed to 
+be highly secure and compliant, setting new industry benchmarks as an agile and resilient cloud platform. 
+Today, with the IBM partnership, we are adding substantial capabilities to our Cloud platform to address 
+the uniq ue needs of several industries that require migration from IBM Power Systems and allow for AI 
+readiness. With this partnership, we are also extending the footprint of our availability zones in I ndia from 
+four to ten, hosting these on our own next -gen sustainable data centres. We will, together, also establish 
+two new Multizone Regions (MZRs) in Mumbai and Chennai soon.”  
+Rob Thomas, SVP and Chief Commercial Officer, IBM, said, “Enterprises today need to balance 
+modernisation with the growing regulated technology and AI requirements. Through our partnership with 
+Bharti Airtel, clients across India can leverage IBM’s innovative cloud offerings designed for workloads 
+that address  their strategic business priorities. Together, we will help clients drive true transformation in 
+the era of AI.”  
+With IBM’s software stack for AI inferencing, built on IBM watsonx and Red Hat OpenShift AI, clients 
+in India will have the ability to run AI inference across hybrid cloud environments. These capabilities are 
+coupled with IBM’s enterprise -grade cloud platf orm with innovative IaaS and PaaS offerings, as well as 
+IBM’s automation portfolio designed for accelerating the impact of generative AI in core enterprise 
+workflows to drive productivity. Customers will be able to access Red Hat’s hybrid cloud solutions 
+including Red Hat OpenShift Virtualisation, Red Hat OpenShift and Red Hat AI. Beyond these 
+capabilities, IBM’s hybrid cloud architecture is designed to help clients enable future innovation in AI 
+and quantum computing.   
+ 
+Airtel Multi Zone Regions will help Indian enterprises strengthen their resilience, address data residency 
+requirements and keep mission -critical workloads and applications up and running at all times. Together, 
+the Airtel and IBM partnership will enable I ndian enterprises to accelerate digital innovation at scale.  
+For more details, click  here. 
+Statements regarding IBM's future direction and intent are subject to change or withdrawal without notice and 
+represent goals and objectives only.  
+About Bharti Airtel  
+Headquartered in India, Airtel is a global communications solutions provider with over 600 million customers in 
+15 countries across India and Africa. The company also has its presence in Bangladesh and Sri Lanka through its 
+associate entities. The company ranks amongst the top three mobile operators globally and its networks cover over 
+two billion people. Airtel is India’s largest integrated communications solutions provider and the second largest 
+mobile operator in Africa. Airtel’s retail portfolio include s high -speed 4G/5G mobile, Wi -Fi (FTTH+ FWA) that 
+promises speeds up to 1 Gbps with convergence across linear and on -demand entertainment, video streaming 
+services, digital payments and financial services. For enterprise customers, Airtel offers a gamut of  solutions that 
+includes secure connectivity, cloud and data centre services, cyber security, IoT, and cloud -based communication. 
+Airtel’s digital arm – Xtelify, empowers telcos globally to leverage the power of AI, data and technology 
+to accelerate their digital transformation and drive growth. Xtelify also offers Airtel Cloud in India enabling 
+enterprises with a sovereign, telco -grade cloud platform that guarantees secure migration, effortless scaling, lower 
+costs and no vendor lock -ins. Within its divers ified portfolio, Airtel also offers passive infrastructure services 
+through its subsidiary Indus Tower Ltd. For more details visit  www.airtel.com   
+  
+About IBM  
+IBM is a leading provider of global hybrid cloud and AI, and consulting expertise. We help clients in more than 
+175 countries capitalize on insights from their data, streamline business processes, reduce costs and gain the 
+competitive edge in their industr ies. Thousands of  government and corporate entities in critical infrastructure areas 
+such as financial services, telecommunications and healthcare rely on IBM's hybrid cloud platform and Red Hat 
+OpenShift to affect their digital transformations quickly, ef ficiently and securely. IBM's  breakthrough innovations 
+in AI, quantum computing, industry -specific cloud solutions and consulting deliver open and flexible options to our 
+clients. All of this is backed by IBM's long -standing commitment to trust, transparen cy, responsibility, inclusivity 
+and service. Visit  www.ibm.com  and www.ibm.com/cloud  for more information.  
+ 
+ 

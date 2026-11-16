@@ -1,0 +1,156 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 41/2025-26 
+ 
+October 1 4, 2025  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ TCS Partners with Google 
+Cloud to Integrate Gemini Enterprise  for its Workforce and Customers ” which will be 
+disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+TCS Partners with Google Cloud to Integrate Gemini Enterprise  for 
+its Workforce and Customers  
+Through a multi -year partnership expansion, TCS will drive efficiency and innovation with Google Cloud’s 
+agentic AI platform to build, manage, and deploy AI agents and boost value for enterprises  
+ 
+MUMBAI | October 14, 2025 : Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global leader in IT 
+services, consulting, and business solutions, is expanding its long -standing partnership with Google Cloud by 
+adopting its next generation agentic AI platform, Gemini Enterprise. This partnership  will empower  TCS’ 
+workforce to build agentic AI solutions  to redefine Human + AI workflows . Gemini Enterprise will enable 
+development of custom agents  and seamless  integrat ion of pre-built Google Cloud agents and third -party  
+agents . Agent -to-agent communication and agentic orchestration capabilities of Gemini Enterprise will 
+simplify multi -step operational workflows  and accelerat e scaling agentic solutions in enterprises.  
+ 
+This collaboration  strengthens the broader tcsAI initiative towards  capability building and reinforces TCS’ 
+commitment to democrati se access to best -of-breed  platforms . The access to Gemini models enables TCS to 
+ideate, innovate , and rapidly build AI -led solutions for its customers . 
+ 
+The AI agents offered by Google Cloud via Gemini Enterprise are fully integrated with Google Cloud’s scalable 
+and secure infrastructure and AI solutions, including BigQuery. BigQuery already powers some of TCS’ 
+internal systems.  With one of the largest Google Cloud certified workforces and GenAI expertise in the 
+industry, TCS is uniquely positioned to lead AI transformation for enterprise s. TCS’ expertise spans advisory, 
+engineering, and responsible AI, enabling rapid, scalable innovation for customers.  
+ 
+Thomas Kurian, Chief Executive Officer, Google Cloud  said, “AI is fundamentally redefining the value that 
+professional services firms offer, and Gemini Enterprise provides TCS with a single, integrated platform that 
+unifies enterprise knowledge and empowers every employee to become a force multiplier for the busin ess. 
+Together, we are helping our joint global customers integrate this best -in-class technology to accelerate their 
+ability to build differentiated industry solutions and realize business value fa ster.”  
+ 
+Aarthi Subramanian, Executive Director – President and Chief Operating Officer , Tata Consultancy Services, 
+said, “At TCS, we see AI as a catalyst for empowering our workforce and redefining how we deliver value to 
+clients. We have made significant investments in democrati sing access to AI technologies to our employees 
+and Gemini Enterprise is a fresh addition to the TCS AI Infrastructure footprint. By adopting Gemini Enterprise, 
+we are expanding our investments in our own people  as well as accelerating innovation for our clients across 
+industries.  Google Cloud has long been an integral part of our cloud, data, and AI - powered transformations 
+with our customers. This new chapter in our partnership will further enhance our capabilities and value 
+proposition for our customers, especially as enterprises prepare  themselves for the ‘Agentic AI  Future ’”.  
+ 
+TCS and Google Cloud  are helping customers solve real -world problems:  
+ 
+• FairPrice Group,  a leading Singapore retailer, brought  “Store of Tomorrow” to life with the Grocer 
+Genie Portal for agentic AI -led store operations.  
+• CME Group , the world's leading derivatives marketplace, accelerated legacy code moderni sation by 
+20% through Google’s Gemini Code Assist, driving faster migration, improved code quality , and 
+enhanced productivity across development teams.  
+ 
+Page 2 of 3 
+ 
+• One of the largest UK banks established a GenAI office to drive enterprise -wide AI adoption  and 
+provide more personali sed, efficient , and secure banking experience for its customers.  
+• A global transportation and logistics leader implemented an AI -powered solution to make smarter, 
+safer shipping decisions and opened a new revenue stream.  
+• An European Aerospace leader to explore their export control document management by 
+automating the classification and tagging of complex technical documentation using an AI and GenAI -
+powered solution that will enable rapid, accurate classification aligned wi th evolving export control 
+regulations . 
+ 
+TCS and Google Cloud will continue to expand their development of domain -specific AI agents, leveraging 
+TCS’ deep domain knowledge and the multi -modal capabilities of Gemini Enterprise in sectors such as 
+banking and financial services, retail and consumer packaged goods, manufacturing, and 
+communications, media and information services. TCS is also building industry -specific, cloud, and AI -
+powered solutions along with its customers at the five Gemini Experience Centres it has established 
+globally.  
+ 
+About Google Cloud  
+Google Cloud is the new way to the cloud, providing AI, infrastructure, developer, data, security, and 
+collaboration tools built for today and tomorrow. Google Cloud offers a powerful, fully integrated and 
+optimized AI stack with its own planet -scale infra structure, custom -built chips, generative AI models and 
+development platform, as well as AI -powered applications, to help organizations transform. Customers in 
+more than 200 countries and territories turn to Google Cloud as their trusted technology partner . 
+Tata Consultancy Services  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner 
+of choice for industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest 
+standards of innovation, engineering excellence and customer service.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce of over 590,000 
+employees in 55 countries and 202 service delivery centres  across the world, the company has been 
+recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, 
+the company has built long term partnerships with its clients – helping them emerge as perpetually adaptive 
+enterprises. Many of these relationships have endured into decades and navigated every  technology cycle, 
+from mainframes in the 1970s to Artificial Intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  
+ 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025.  For 
+more information, visit  www.tcs.com  
+ 
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+Page 3 of 3 
+ 
+ 
+TCS Media Contacts:  
+Corporate Communication & India   Email:  corporate.communications@tcs.com  
+Email:  saxena.kritika@tcs.com  | Phone: +91 22 6778 9999  
+Email:  santosh.castelino@tcs.com | Phone: +91 22 6778 9098  
+Asia Pacific   Email: y.tham@tcs.com  | Phone: +65 9270 4560  
+Australia and New Zealand   Email:  Francesca.Newby@tcs.com   | Phone:  +61 414 902 440  
+Canada    Email:  tiffany.fisher@tcs.com  | Phone: +1 416 456 7650   
+Europe   Email:  roland.bagen@tcs.com  | Phone: +46 70 3178024  
+Middle East & Africa   Email:  pragya.priyadarshini@tcs.com  | Phone: +971 
+528656700   
+Japan   Email:  douglas.foote@tcs.com  | Phone: +81 80 -2115 -0989   
+Latin America   Email: alma.leal@tcs.com  | Phone: +525579808714  
+UK Email:  priyanka.mehta@tcs.com  | Phone: +44 7921493382  
+USA   Email:  andrew.corcione@tcs.com  | Phone: +1  646 617 8221  
+ 
+### 
+ 

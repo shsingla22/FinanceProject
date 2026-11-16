@@ -1,0 +1,953 @@
+ 
+ 
+Ref: CAGL/EQ/202 4-25/57 
+ 
+July 19, 2024 
+ 
+To 
+BSE Limited  
+Phiroze Jeejeebhoy  Towers  
+Dalal  Street  
+Mumbai  - 400001  
+Scrip code: 541770   
+National Stock Exchange of India Limited  
+Exchange Plaza , C-1, Block G  
+Bandra Kurla  Complex , Bandra (East)   
+Mumbai  - 400051  
+Symbol : CREDITACC  
+ 
+Dear Sir/Madam,  
+ 
+Sub.: Code of Conduct and Fair Disclosure for prohibition of Insider Trading  
+ 
+Pursuant to provision s of Regulation 8(2) of the SEBI ( Prohibition of Insider Trading) Regulations, 
+2015 , please find enclosed a copy of the amended Code of Conduct and Fair Disclosure for 
+prohibition of Insider Trading , approved by the Board of Directors at its meeting held today i.e. Friday, 
+July 19, 2024.  
+ 
+Please take this intimation on record.  
+ 
+Thanking you,  
+ 
+For CreditAccess Grameen Limited  
+ 
+ 
+M. J. Mahadev Prakash  
+Company Secretary  & Chief Compliance Officer  
+ 
+Encl.: As above   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CREDITACCESS  GRAMEEN  LIMITED  
+ 
+CODE  OF CONDUCT  AND  FAIR  DISCLOSURE  FOR  
+PROHIBITION  OF INSIDER  TRADING  
+
+ 
+Page 2 of 20   
+Contents  
+1. INTRODUCTION: ................................ ................................ ................................ ................................ ........ 3 
+2. DEFINITIONS:  ................................ ................................ ................................ ................................ ..............  3 
+3. IDENTIFICATION  OF DESIGNATED  PERSONS:  ................................ ................................ .................  6 
+4. RESTRICTION  ON COMMUNICATIONS  AND  TRADING: ................................ .............................  6 
+5. ROLE  OF THE COMPLIANCE  OFFICER:  ................................ ................................ ...............................  7 
+6. TRADING  PLANS:  ................................ ................................ ................................ ................................ ....... 8 
+7. DISCLOSURE  OF TRADING  BY INSIDERS:  ................................ ................................ ..........................  9 
+8. PROHIBITION ON DEALING, COMMUNICATING OR COUNSELING ON 
+MATTERSRELATING  TO INSIDER  TRADING:  ................................ ................................ ..................  11 
+9. TRADING  RESTRICTIONS:  ................................ ................................ ................................ .....................  11 
+10. PRE-CLEARANCE  OF TRADES:  ................................ ................................ ................................ .............  12 
+11. CODE  OF FAIR DISCLOSURE  AND  CONDUCT:  ................................ ................................ ..............  14 
+12. CONTACTS  WITH  FINANCIAL  ANALYSTS,  INVESTORS  AND  THE MEDIA:  ..........................  18 
+13. MARKET  RUMOURS:  ................................ ................................ ................................ ...............................  18 
+14. REVIEW  OF ANALYST  REPORTS:  ................................ ................................ ................................ ......... 18 
+15. MAINTENANCE  OF DISCLOSURE  RECORDS:  ................................ ................................ .................  19 
+16. AMENDMENTS  AND  MODIFICATION:  ................................ ................................ .............................  19 
+17. PROCEDURE  FOR INQUIRY  IN CASE  OF CONTRAVENTION  OF THIS CODE:  .....................  19 
+18. AMENDMENT:  ................................ ................................ ................................ ................................ ..........  20 
+19. CONCLUSION:  ................................ ................................ ................................ ................................ ..........  20 
+ 
+ 
+Page 3 of 20  1. INTRODUCTION:  
+ 
+The Securities and Exchange Board of India (SEBI), in its endeavor to protect the interests of  
+investors in general, has formulated the SEBI (Prohibition of Insider Trading) Regulations, 2015  
+[hereinafter referred to as the ‘Regulations’] under the powers conferred on it under section 30  read 
+with clause (g) of sub -section (2) of section 11 and clau se (d) and clause (e) of section 12A  of the 
+Securities  and Exchange  Board  of India  Act, 1992  (15 of 1992).These  Regulations  are made  applicable  
+to all companies  whose  shares  are listed  on Indian  Stock  Exchange(s).  
+ 
+The Board of Directors of the Company has  adopted this Insider Trading Policy (the “Policy”) on  
+December 1, 2017, and subsequently amended on March 27, 2019, to comply with the SEBI  
+(Prohibition of Insider Trading) Regulations, 2015 (“SEBI Regulation”) as amended from time to  time.  
+ 
+The SEBI Regu lates an Insider from Trading in the securities of a company listed on any stock  
+exchange on the basis of any unpublished price sensitive information (UPSI). This policy also  
+provides  for Practices  and Procedures  for Fair Disclosure  of Unpublished  Price  Sensitive  Information  
+(the “ Code ”) that would be followed by CreditAccess Grameen Limited, for the consistent,  
+transparent, regular and timely public disclosure and dissemination of Unpublished Price Sensitive  
+information.  
+ 
+This Code of Conduct may be modified by the Board of Directors from time to time to adopt best  
+practices  and to comply  with the SEBI Regulation.  
+ 
+To achieve the objectives as stated in SEBI (Prohibition of Insider Trading) Regulations, 2015 the  
+Company  hereby  notifies  that the “CODE  OF CONDUCT  AND  FAIR DISCLOSURE  FORPROHIBITION  
+OF INSIDER TRADING” shall become effective and operational with immediate effect. This Code  
+shall be applicable  and binding  on all Designated  Persons,  immediate  relatives  of Designated  Persons  
+and those  persons  authorized  to speak  on behalf  of the Company.  
+ 
+The Company  is committed  to factual,  timely  and accurate  disclosure  based  on applicable  legal  and 
+regulatory  requirements.  
+ 
+2. DEFINITIONS:  
+ 
+For the purpose of this code, the words and expressions given below shall carry the meaning as  
+stated  hereinafter:  - 
+ 
+a) “Company”  means  CreditAccess  Grameen  Limited.  
+ 
+b) “Compliance officer” means any senior officer, designated so and reporting to the board of  
+directors, who is financially literate and is capable of appreciating requirements for legal and  
+regulatory compliance under the Regulations and who shall be responsible for compliance of  
+policies, procedures, maintenance of records, monitoring adherence to the rules for the  
+preservation  of unpublished  price  sensitive  information,  monitoring  of trades  and the 
+implementation of the codes specified in the Regulations under the overall supervision of the  
+Board  of Directors  of the  Company.  
+ 
+c) “Connected  person”  means - any person  who is or has during  the six months  prior  to the 
+concerned  act been  associated  with a company,  directly  or indirectly,  in any capacity  including  
+ 
+Page 4 of 20  by reason  of frequent  communication  with its officers  or by being  in any contractual,  
+fiduciary  or employment  relationship  or by being  a director,  officer  or an employee  of the 
+company  or holds  any position  including a professional or business relationship between 
+himself and the company whether  temporary  or permanent,  that allows  such person,  directly  or 
+indirectly,  access  to unpublished  price  sensitive  information  or is reasonably  expected  to allow  
+such access.  
+ 
+Without  prejudice  to the generality  of the foregoing,  the persons  falling  within  the following  
+categories  shall be deemed  to be connected  persons  unless  the contrary  is established  - 
+ 
+i. an immediate  relative  of connected  persons  specified  in clause  (i); or  
+ii. a holding  company  or associate  company  or subsidiary  company;  or 
+iii. an intermediary  as specified  in section  12 of the Act or an employee  or director  thereof;  or 
+iv. an investment  company,  trustee  company,  asset  management  company  or an employee  
+or director  thereof;  or 
+v. an official  of a stock  exchange  or of clearing house  or corporation;  or 
+vi. a member  of board  of trustees  of a mutual  fund or a member  of the board  of directors  of 
+the asset management  company of  a mutual fund  or is an employee  thereof;  or 
+vii. a member  of the board  of directors  or an employee,  of a public  financial  institution  
+as defined  in section  2(72)  of the Companies Act,  2013;  or 
+viii. an official  or an employee  of a self-regulatory  organization  recognised  or authorized  by 
+the Board;  or 
+ix. a banker  of the company;  or 
+x. a concern,  firm, trust,  Hindu  undivided  family,  company  or association  of persons  wherein  a 
+director of a company or his immediate relative or banker of the company, has more  than 
+ten per cent.  of the holding  or interest.  
+ 
+d) “Designated  Persons”  Shall  include  – 
+i. Promoters  
+ii. Directors  
+iii. Key Managerial  Personnel  
+iv. All employees  in the cadre  of Vice President and above  
+v. Employees  of material  subsidiaries  designated  on the basis  of their functional  role or access  
+to unpublished  price  sensitive  information  in the organization  by their board  of directors  
+vi. Employees  in the Finance,  Accounts,  Planning  & MIS, IT department,  Secretarial  
+Department and  as may be determined  by norms  mentioned  in this Code  
+vii. Immediate  relative  (as defined  in SEBI Regulation)  of (i) to (v)above;  and 
+viii. Employees  designated  by the Board  of Directors  from  time to time.  
+ 
+e) “Fiduciary” means professional firms such as auditors, accountancy firms, law firms, analysts,  
+insolvency  professional  entities,  consultants,  banks  etc., assisting  or advising  Company  shall be 
+collectively referred  to as  fiduciaries.  
+ 
+f) “Generally available information” means information that is accessible to the public on a non - 
+discriminatory  basis.  
+ 
+ 
+g) “Immediate relative” means a spouse of a person, and includes parent, sibling, and child of  
+such person or of the spouse, any of whom is either dependent financially on such person, or  
+consults  such person  in taking  decisions  relating to  trading  in securities;  
+ 
+ 
+Page 5 of 20  h) “Insider”  means  any person  who is: 
+i. a connected  person;  or 
+ii. in possession  of or having  access  to unpublished  price sensitive  information.  
+ 
+i) “Intermediaries” shall include such persons as defined in Section 12 of the Securities and  
+Exchange Board of India Act, 1992 viz., Stock Brokers, Sub -brokers, Share Transfer Agents,  
+Banker  to an Issue,  Trustee  of a Trust  Deed,  Registrar  to an Issue,  Merchant  Banker,  
+Underwriter, Portfolio Manager, Investment Adviser and such other  persons associated with  
+Securities  Market  and registered  with SEBI.  
+ 
+j) “Key Managerial  Person”  means  person  as defined  in Section  2(51)  of the Companies  Act, 2013.  
+ 
+k) “Securities”  shall have  the meaning  assigned  to it under  the Securities  Contracts  (Regulation)  Act, 
+1956  (42 of 1956)  or any modification  thereof  except  units  of a mutual  fund.  
+ 
+l) “trading” means and includes subscribing, buying, selling, dealing or agreeing to subscribe,  
+buy, sell, deal in  any securities, and “trade”  shall be construed accordingly.  
+ 
+m) “Unpublished price sensitive information” (UPSI) means any information, relating to the  
+Company or its securities, directly or indirectly, that is not generally available which upon  
+becoming generally available, is likely to materially affect  the price of the securities and shall,  
+ordinarily  including  but not restricted  to, information  relating to  the following:  – 
+i. financial  results;  
+ii. dividends;  
+iii. change  in capital  structure;  
+iv. mergers,  de-mergers,  acquisitions,  de-listings,  disposals  and expansion  of business  and 
+such other transactions;  and 
+v. changes  in key managerial  personnel.  
+ 
+n) Material  Information  
+ 
+Material  information  means  any information  relating  to the business  or affairs  of the Company  
+that results  in or would  reasonably  be expected  to result  in a significant change  in the market  
+price or value of the securities of the Company or that would reasonably be expected to have  
+a significant  influence  on any reasonable  investor’s  investment  decisions.  Material  Information  
+includes, without  limitation,  information regarding:  
+ 
+i. Change  in general  character  of business  of the Company.  
+ii. Material  disruption  of operations  due to natural  calamity.  
+iii. Un-audited  or audited  [stand  alone  and consolidated]  financial  results  of the Company.  
+iv. Proposed  issue  of bonus/  rights  shares  or issue  of securities  on a private  placement  
+basis.  
+v. Corporate  action  relating  to dividend,  split, consolidation  of securities.  
+vi. Action  pursuant  to regulatory/  statutory  amendments  that is material  to the operations  
+of the Company.  
+vii. Changes  in rating  of securities  issued  by the Company.  
+viii. Changes  in the Board  of Directors  or Key Managerial  Personnel.  
+ix. Details  of litigation/  dispute/  regulatory  action  having  a material  impact  on the present  
+or future  operations  of the Company.  
+x. Any material  acquisition,  merger, de -merger, amalgamation,  restructuring,  scheme  of 
+arrangement,  spin off or selling  of any material  divisions  of the Company.  
+ 
+Page 6 of 20   
+This list is not exhaustive  but is intended  to provide  examples  of information  that may require  public  
+disclosure.  
+ 
+For the purpose  of this Code , all the above  information  including  unpublished  price  sensitive  
+information  would  be referred  to as “Material  Information” . 
+ 
+o) Chief  Investor  Relations  Officer  
+ 
+The Company  would  designate  one of its senior  officers  as the Chief  Investor  Relations  Officer  
+(CIRO)  from  time to time, who  shall jointly  and severally along  with the Company Secretary  / 
+Chief Financial Officer be responsible to deal with the dissemination of information and  
+disclosure  of any  Material Information.  
+ 
+The terms  used  in this Code  which  are not defined  hereinabove,  shall have  the same  meaning  
+ascribed to it under the SEBI (Prohibition of Insider Trading) Regulations, 2015, SEBI Act,  1992,  
+Securities  Contract  Act (Regulations)  1956,  The Depositories  Act, 1996  or the Companies  Act, 
+2013  and Rules  and Regulations  made  thereunder  as amended  from  time to time.  
+ 
+3. IDENTIFICATION  OF DESIGNATED  PERSONS:  
+ 
+a) The Compliance  Officer  may on consultation with  the Managing  Director,  specify  
+employees to be covered under the code on the basis of their role and function in the  
+organization  and the access  that such role and function  would  provide  to UPSI in addition  
+to seniority  and professional  designation  and shall include:  
+ 
+i. Employees  designated  on the basis  of their functional  role. 
+ii. Employees  of any holding  or subsidiary  company  or future  subsidiaries  designated  
+on the basis  of their  functional  role. 
+ 
+4. RESTRICTION  ON COMMUNICATIONS  AND  TRADING:  
+ 
+Communication  or procurement  of unpublished  price  sensitive  information  (UPSI)  
+ 
+a. No insider shall communicate, provide, or allow access to any UPSI, relating to  
+securities of the Company to any person including other insiders except where such  
+communication  is in furtherance  of legitimate  purposes  (as set out under  clause  10(G)  
+of this Code),  performance  of duties or  discharge  of legal  obligations.  
+ 
+b. No person shall procure from or cause the communication by any insider of UPSI,  
+relating to securities of the Company except in furtherance of legitimate purposes,  
+performance  of duties or  discharge of  legal  obligations.  
+ 
+c. Notwithstanding  anything  contained  in this Code,  UPSI may be communicated,  
+provided,  allowed  access  to or procured,  in connection  with a transaction  that would,  
+ 
+i. entail an obligation to make an open  offer under the takeover regulations where  
+the board of directors of the Company is of informed opinion that sharing of such  
+information  is in the best interests  of the Company.  
+ 
+ 
+Page 7 of 20  ii. not attract  the obligation  to make  an open  offer  under  the takeover  regulations  but 
+where  the board  of directors  of the Company  is of informed  opinion  that sharing  of 
+such information is in the best interests of the Company and the information that  
+constitute unpublished price sensitive information is disseminated to be made  
+generally  available  at least two trading  days prior  to the proposed  transaction  being  
+effected  as the Board  of Directors  may determine  to be adequate  and fair to cover  
+all relevant  and material  facts.  
+ 
+d. For the purpose of (c) & (d) above, the Board of Directors shall require the parties to  
+execute agreements to contract confidentiality and non -disclosure obligations on the  
+part of such parties and such parties shall keep information so received confidential,  
+except  for the purpose  of (c) above,  and shall not otherwise  trade  in securities  of the 
+Company  when  in possession  of UPSI.  
+ 
+e. Trading  by Insiders  including  promoters,  non-individual  insiders  when  in possession  of 
+unpublished price sensitive information shall be governed by Regulation 4 of the  
+Regulations.  
+ 
+f. Preservation  of "Price  Sensitive  Information"  
+ 
+Directors  and Designated  Persons  shall maintain  the confidentiality  of all Price  Sensitive  
+Information.  Directors  / Designated  Persons  shall not pass on such information  to any 
+person directly or  indirectly by way of making a recommendation for the purchase or  
+sale of securities of  the Company.  Board  of Directors  of the Company  shall ensure  that 
+the following  practices  are followed  in this regard.  Board  of Directors  shall also ensure  
+that such information  has been  circulated  to Compliance  Officer  to disclose  in 
+Public/Stock  Exchange within  prescribed  time.  
+ 
+g. "CHINESE  WALL"  Procedure  
+ 
+i. To prevent  the misuse  of UPSI,  the Company  shall adopt  the "Chinese  Wall"  policy  
+which separates those areas / personnel / departments which routinely have  access 
+to confidential information, considered part of "inside areas" from those  areas 
+which deal with sale/marketing/investment advice or other departments  providing 
+support services,  considered "public areas".  
+ii. The employees in the inside area shall not communicate any UPSI to anyone in  
+public  area.  
+iii. The employees in inside area may be physically segregated from employees in  
+public  area.  
+iv. In exceptional circumstances, employees from the public areas may be allowed  to 
+“cross the wall” and given confidential information on the basis of “Legitimate  
+Purpose”  criteria, with  the permission  of the Compliance  Officer.  
+ 
+5. ROLE  OF THE COMPLIANCE  OFFICER:  
+ 
+a. The Compliance  Officer  shall provide  clarifications  sought  for under  the SEBI 
+(Prohibition of Insider Trading) Regulations, 2015 to all concerned, to the extent  
+possible.  
+b. The Compliance Officer shall preserve the disclosures received and submitted to the  
+Stock Exchanges  concerned for  a minimum  period  of five  years.  
+ 
+Page 8 of 20  c. The Compliance  Officer  shall report  to the Board  of Directors  of the Company  and shall 
+provide  reports  on compliances  of the SEBI (Prohibition  of Insider  Trading)  Regulations,  
+2015  to the  Chairman  of the Audit  Committee  on the following:  
+i. Pre-clearance  sanctioned  or rejected.  
+ii. Details  of transactions  done  pursuant  to pre-clearance  including  those  cases  where  
+no transaction has been executed after securing pre -clearance along with the  
+reasons.  
+iii. Details  of relaxation,  if any from  the strict  requirements  under  this Code.  
+iv. Disciplinary  actions,  if any taken  by Managing  Director  pursuant  to this Code.  
+v. Disclosures  under  the SEBI (Prohibition  of Insider  Trading)  Regulations,  2015,  if 
+any. 
+vi. Trading  plans,  if any presented  for approval.  
+vii. Other  relevant  information  for each calendar  quarter.  
+ 
+d. The Compliance  Officer shall  place the aforesaid  details  at the first meeting  of the  Board  
+of Directors  held after the  close  of the calendar  quarter.  
+ 
+6. TRADING  PLANS:  
+ 
+a. An insider  shall be entitled  to formulate  a trading  plan and present  it to the compliance  
+officer  for approval  and public  disclosure  pursuant  to which  trades  may be carried  out 
+on his behalf  in accordance  with such  plan.  
+ 
+b. Such  trading plan  shall – 
+ 
+i. not entail commencement of trading on behalf of the insiders earlier than one 
+hundred and twenty calendar days from  the public  disclosure  of the  plan.  
+ii. not entail overlap of any period for which another trading plan is already in  
+existence.  
+iii. set out following parameters for each trade to be executed:  
+i. either the value of trade to be effected or the number of securities to be 
+traded;  
+ii. nature of the trade;  
+iii. either specific date or time period not exceeding five consecutive trading days;  
+iv. price limit, that i s an upper price limit for a buy trade and a lower price limit 
+for a sell trade, subject to the range as specified below:  
+a. for a buy trade: the upper price limit shall be between the closing price on 
+the day before submission of the trading plan and up to twenty per cent 
+higher than such closing price;  
+b. for a sell trade: the lower price limit shall be between the closing price on 
+the day before submission of the trading plan and up to twenty per cent 
+lower than such closing price. ; and 
+iv. not entail  trading  in securities  of the Company  for market  abuse.  
+ 
+c. The Compliance  Officer  shall review  the trading  plan to assess  whether  the plan would  
+have any potential for violation of this Code or “Regulations” and shall be entitled to  
+seek such express  undertakings  as may be necessary  to enable  such assessment  and to 
+approve  and monitor  the implementation  of the plan.  Further , the trading window  
+norms  shall  not  be applicable for trades carried out in accordance with an approved 
+trading plan.  
+ 
+Page 9 of 20   
+d. The trading plan once approved shall be irrevocable and the insider shall mandatorily  
+have to implement the plan, without being entitled to either execute  any trade  in the 
+securities  outside  the scope  of the trading  plan or to deviate from it except due to 
+permanent incapacity or bankruptcy or operation of law . 
+ 
+However, the implementation of the trading plan shall not be commenced if any  
+unpublished price sensitive information in possession of the insider at the time of  
+formulation of the plan has not  become generally available at the time of the  
+commencement of implementation . 
+ 
+Provided that if the insider has set a price limit for a trade under sub -clause (i v) of 
+clause (iii) of above clause  b, the insider shall execute  the trade only if the execution 
+price of the security is within such limit. If price of the security is outside the price limit 
+set by the insider, the trade shall not be executed.  However, if the insider wishes to 
+trade irrespective of the fluctuation in  market price, he may not set any price limit at 
+the time of formulation of the trading plan.  
+ 
+e. The compliance officer shall approve or reject the trading plan within two trading days 
+of receipt of the trading plan and notify the approved plan to the stock exchanges on 
+which the securities are listed, on the day of approval.  
+ 
+f. Pre-clearance of trade under clause 9(a), trading window norms and restriction on  
+contra  trade  under  clause  8(a) & 9(b) respectively,  are not applicable  for trades  carried  
+out in  accordance  with the  trading  plan approved  by the Compliance  officer.  
+ 
+7. DISCLOSURE  OF TRADING  BY INSIDERS:  
+ 
+A. General  Provisions:  
+ 
+a. Every public disclosure shall be made in the Form/s as prescribed under the  
+Regulations  from  time to time.  
+b. The disclosures to be made by any person under this code shall include those  
+relating  to trading  by such person’s  immediate  relatives,  and by any other  person  
+for whom  such person  takes  trading  decisions.  
+c. The disclosure of trading in securities shall also include trading in derivatives of  
+securities  and traded  value  of the derivatives  shall be taken  into account.  Provided  
+that trading in derivatives of securities is permitted by any law for the time being  
+in force.  
+d. The disclosures made under this Part shall be maintained by the Company, for a  
+minimum  period  of five years.  
+ 
+B. Disclosure  by certain  persons  
+ 
+a. Initial  Disclosures  
+ 
+i. Every person on appointment as a Key Managerial Person or a Director or  
+Designated Person of the Company or upon becoming a promoter or member  
+of the promoter group shall disclose his holding of securities of the Company,  
+ 
+Page 10 of 20  as on the date of appointment or becoming such a Designated Person, to the  
+Company,  within  seven  days of  such appointment.  
+ 
+b. Continual  Disclosures  
+ 
+i. All such persons referred under (a) above, shall disclose to the Company, the  
+number of such securities acquired or disposed off within two trading days of  
+such transaction,  if the value  of the securities  traded  whether  in one transaction  
+or a series of transactions over any calendar quarter, aggregates to a traded  
+value  in excess of  ten lakh rupees  or such other  value  as may be specified.  
+ 
+ii. The Designated  Depository  appointed  by the Company  shall notify  the 
+particulars  of transactions  by DPs, if the value  of the securities  traded,  whether  in 
+one transaction or a series of transactions over any calendar quarter,  
+aggregates to a traded value in excess of Rupees ten lakh, to the Stock  
+Exchange  on which  the securities are  listed.  
+ 
+Explanation  1 – Based  on the SEBI Circular  No. SEBI/HO/ISD/ISD/CIR/P/2020/168  
+dated  September  09, 2020,  for Automation  of Continual  Disclosures  under  
+Regulation  7(2) of SEBI (Prohibition  of Insider  Trading)  Regulations,  2015  (System  
+driven disclosures), the Company shall appoint a designated depository  and with  
+whom the  Company  shall share  the list of DPs and PAN from  time to time.  
+ 
+Explanation — It is clarified for the avoidance of doubts that the disclosure of the  
+incremental transactions after any disclosure under this sub -code, shall be made  
+when the transactions effected after the prior disclosure cross the threshold  
+specified  in clause  b. (ii)above.  
+ 
+i. Designated  Persons  shall also furnish  the names  of educational  institutions  from  
+which  Designated  Persons  have  graduated  and names  of their past employers.  
+ 
+ii. Designated  Persons  shall be required  to disclose  names  and Permanent  account 
+number, or any other identifier authorized by law of themselves and  the 
+following persons  to the Company  on an annual  basis  and as and when  the 
+information  changes:  
+ 
+a. Immediate  relatives.  
+b. Person  with whom  such Designated  Person(s)  shares  a material  financial  
+relationship.  
+c. Phone,  mobile  and cell numbers  which  are used  by them.  
+ 
+“Material  financial  relationship”  shall mean  a relationship  in which  one person  is 
+a recipient  of any kind of payment such as by way of a loan or gift from a  
+designated person during the immediately preceding 12 months, equivalent to  
+at least 25% of the annual income of such designated person but shall exclude  
+relationships in which  the payment  is based  on arm’s  length  transactions.  
+ 
+c. Disclosures  by other  connected  persons  
+ 
+The Company may, on its own discretion, require any other connected person or  
+ 
+Page 11 of 20  class of connected  persons  to make  disclosures  of holdings  and trading  in securities  
+of the Company and at such frequency as may be determined by the Company in  
+order to  monitor compliance  with this  Code.  
+ 
+d. CreditAccess  Share  Dealing  Code  
+ 
+No Designated Person including his/her Immediate Relatives shall either on his/  
+her own behalf or on behalf of any other person, trade or undertake to trade or  
+cause to trade in the Securities of the Company (i) when he/ she is in possession  of 
+any UPSI and (ii) during  the Prohibited  Period  under  paragraph  8(a) of this Code.  
+ 
+8. PROHIBITION  ON DEALING,  COMMUNICATING  OR COUNSELING  ON 
+MATTERSRELATING  TO INSIDER  TRADING:  
+ 
+No Insider shall ether on his own behalf, or on behalf of any other person, trade in  securities 
+of the Company when in the possession of any unpublished price sensitive  information;  
+Communicate,  counsel  or procure,  directly  or indirectly  any unpublished  price  sensitive  
+information  to any person.  However,  these  restrictions  shall not be applicable  to any 
+communication  required  in furtherance  of a legitimate  purpose  (as set out under  clause  11 (G) 
+of this Code), performance  of duties  or discharge  of legal  obligations.  
+ 
+The Company may require any person to maintain a structure digital database containing  
+details like the names of persons who have shared the UPSI, the nature of UPSI shared  and 
+the names of such persons with whom UPSI is shared along with their PAN or such  other  
+identifier  authorized  by law, as the case may be, which  shall be maintained  internally  with 
+adequate  internal controls  and checks.  
+ 
+9. TRADING  RESTRICTIONS:  
+ 
+All Designated Persons of the Company and their immediate relatives shall be subject to  
+trading  restrictions  as enumerated below:  - 
+ 
+a) Trading  Window  
+ 
+The period prior to declaration of price sensitive information is particularly sensitive for  
+transactions in the Company’s securities. This sensitivity is due to the fact that the  
+Designated Persons  will, during  that period,  often  possess  UPSI.  
+ 
+During such sensitive times, the Designated Persons and their immediate relatives will  
+have  to forego  the opportunity of  trading  in the Company's securities.  
+ 
+The Compliance officer or any other employee from the Company Secretarial department  
+of the Company will notify the Designated Persons about closure and opening of trading  
+window  and also inform  the stock  exchanges.  
+The Designate d Persons of the Company and their immediate relatives shall not deal in  the 
+securities  of the Company  when  the trading  window  is closed.  The period  during  which  the 
+trading window is closed shall be termed as prohibited period. It is the duty of the  
+Designated  Persons  to inform  the immediate  relatives  of the closure  of trading  window  and 
+ensure  that they do not deal in  the securities of  the Company.  
+ 
+ 
+Page 12 of 20   
+The trading  window  shall also apply  to any person  having  contractual  or fiduciary  relation  
+with the Company such as auditors, law firms, analysts, consultants etc., assisting or  
+advising  the Company.  
+ 
+b) The trading  window  shall be, inter alia, closed  at the time of: 
+ 
+i. Declaration  of Financial  results  (quarterly,  half-yearly  and annual)  
+ii. Declaration  of dividends  (interim  and final)  
+iii. Issue  of securities  by way of public/  rights/bonus,  etc. 
+iv. Any major  acquisition/  expansion  plans  or execution  of new projects  
+v. Amalgamation,  mergers,  takeovers  and buy-back 
+vi. Hearing/Judgment  of Litigation/dispute  with a material  impact;  
+vii. Any information  which,  if disclosed,  in the opinion  of the person  disclosing  the same  
+is likely  to materially  affect  the prices  of the securities  of the Company.  
+viii. The trading window shall be closed by the Compliance Officer when he is of the  
+firm belief  that a Designated  Person  or class of Designated  Persons  can reasonably  
+be expected  to have  possession  of UPSI.  
+ 
+c) The period of closure shall be effective from the end of every quarter, till 48 hours  after 
+the financial results  is submitted  to the Stock  Exchanges.  
+d) The trading window shall be opened after 48 hours of the information referred in  
+Clause  9(b) is made  public.  
+e) All Designated  Persons  of the Company  and their immediate  relatives  shall conduct  all 
+their dealings in the securities of the Company only during the free period and shall  
+not deal in any transaction involving the purchase or sale of the Company’s securities  
+during the prohibited  periods.  
+f) Trading  window  restrictions  shall not apply  in respect  of – 
+(i) Off-market  inter-se transfer  between  insiders  who were  in possession  of same  UPSI 
+without  being  in breach  of SEBI Regulations  and both  parties  had made  a conscious  
+and informed trade decision. Such trades shall be reported by the insiders to the  
+Company within  2 working  days.  
+(ii) Transactions carried out through block deal window mechanism between persons  
+who were in possession of UPSO without being in breach of SEBI Regulations and  
+both  parties had  made  a conscious and  informed trade  decision.  
+(iii) Transaction  carried  out pursuant  to a statutory  or regulatory  obligation  to carry  out 
+a bona fide transaction.  
+(iv) Transaction undertaken pursuant to exercise of stock options in respect of which  
+the exercise  price  was pre-determined  in compliance  with applicable  regulations.  
+(v) Trades  pursuant  to a trading  plan.  
+(vi) Pledge of shares for a bona fide purpose such as raising of funds, subject to pre - 
+clearance  by the Compliance  Officer.  
+ 
+10. PRE-CLEARANCE  OF TRADES:  
+ 
+Any Designated Person (including immediate relatives) of the Company, who intends to  
+trade in the securities of the Company during free period shall seek pre -clearance from  the 
+Compliance  Officer,  as per the pre-dealing  procedure  as described  hereunder,  as 
+stipulated  by the Board  of Directors  from  time to time.  
+ 
+ 
+Page 13 of 20   
+No Designated Person and their immediate relatives shall apply for pre -clearance of any  
+trade  if such person  is in possession  of Unpublished  Price  Sensitive  Information  even  if the 
+trading  window  is not  closed.  
+ 
+a) Pre-dealing  Procedure  
+ 
+An application for pre -clearance of trade shall be made to the Compliance Officer in  
+the prescribed  format  along  with an undertaking  (UT) in favor  of the Company  by such 
+Designated  Person  and/or  their immediate  relative  incorporating,  inter alia, the 
+following clauses, as may  be applicable:  
+ 
+i. That the Designated Person do not have any access or has not received "Price  
+Sensitive  Information"  up to the time of signing  the undertaking.  
+ii. That in case the Designated Person has access to or receives "Price Sensitive  
+Information" after the signing of the undertaking but before the execution of the  
+transaction he or she shall inform the Compliance officer of the change in his  
+position  and that he or she would  completely  refrain  from  dealing  in the securities  
+of the Company  till the time such information becomes public.  
+iii. That he or she has not contravened the provisions of this Code or Regulations as  
+amended  from time  to time.  
+iv. That he  or she has made  a full and true disclosure  in the matter.  
+v. The Compliance Officer shall on receiving an application provide the Designated  
+Person  with an acknowledgement  on the duplicate  of the application.  
+vi. The Compliance Officer shall grant approval within 2 days from the date of  
+acknowledgement.  
+vii. The Compliance  Officer  shall retain  copies  of all applications  and 
+acknowledgements.  
+viii. In exceptional circumstances consent may not be given if the Compliance officer  is 
+of the opinion  that the proposed  trade  is on the basis  of possession  of any UPSI.  
+There  shall be no obligation  to give reasons  for any withholding  of consent.  
+ix. If so requested  by the Compliance  Officer,  Designated  Person  must  ensure  that his 
+stockbroker is authorized to disclose to the Company all matters relevant to his  
+share  dealings.  
+ 
+b) Other  restrictions  
+ 
+i. The Designated Person and their immediate relatives shall execute their order in  
+respect of securities of the Company within one week after the approval of pre - 
+clearance  is given.  If the order  is not executed  within  one week  after the approval  is 
+given,  the Designated  Person  must  pre-clear  the transaction  again.  
+ 
+ii. The Designated Person and their immediate relatives shall hold their investments  
+in securities  for a minimum  period  of six months  irrespective  of mode  of acquisition  
+in order to be considered as being held for investment purposes. The Designated  
+Person  permitted  to trade  shall not be permitted  to execute  a contra  trade  within  a 
+period  of six months  from  the date of said trade.  Provided  that this restriction  shall 
+not be applicable  for trades  pursuant to  exercise  of Stock  Options  under  the ESOP  
+scheme  of the  Company.  
+ 
+ 
+Page 14 of 20   
+iii. In case the sale of securities  is necessitated  by personal  emergency,  the Compliance  
+Officer  may waive  the holding  period  after recording  in writing  his or her reasons  in 
+this regard.  An application  for waiver  of holding  period  shall be made  to the 
+Compliance  Officer.  
+ 
+iv. In case where  any contra  trade  be executed,  inadvertently  or otherwise,  in violation  of 
+the restriction, the profit from such trade shall be liable to be disgorged for  
+remittance to SEBI for credit to the Investor Protection and Education Fund  
+administered by  SEBI under  the Act. 
+ 
+c) Half yearly  / Annual  Disclosures  
+ 
+In addition to disclosures mentioned under Clause 5 or Clause 6 of this Code, all  
+Designated Persons of the Company shall be required to forward following details of  
+their Securities transactions, including the holdings of immediate relatives, to the  
+Compliance  officer:  
+ 
+i. All holdings  in securities  of the Company  at the time of joining  the Company.  
+ii. In respect of Designated Persons, all holdings in securities of the Company as on  
+the date specified by  the Compliance  Officer.  
+ 
+d) Records  of disclosures  received  by the Company  
+ 
+The Compliance  Officer  shall maintain  records  of all the declarations  in the appropriate  
+format given  by the Designated  Persons  for a minimum  period  of five years.  
+ 
+The Compliance  Officer  shall place  before  the Board  of Directors, on  a quarterly basis  
+all the details of the dealing in the securities by the Designated Persons of the  
+Company.  
+ 
+11. CODE  OF FAIR  DISCLOSURE  AND  CONDUCT:  
+ 
+A. The Company,  
+ 
+i. Shall  make  prompt  public  disclosure  of unpublished  price  sensitive  information  that 
+would impact price discovery no sooner than credible and concrete information  
+comes into being in order to make such information generally available except  
+when otherwise required for the purpose of maintaining the confidentiality of the  
+information.  
+ 
+ii. Shall ensure uniform and universal dissemination of unpublished price sensitive  
+information to  avoid  selective  disclosure.  
+ 
+iii. Shall  designate  any Senior  Officer  as a Chief  Investor  Relations  Officer  to deal with 
+dissemination  of information  and disclosure  of unpublished  price  sensitive  
+information.  
+ 
+iv. Shall make prompt dissemination of unpublished price sensitive information that  
+gets disclosed selectively, inadvertently or otherwise to make such information  
+generally  available.  
+ 
+Page 15 of 20   
+v. Shall give appropriate and fair response to queries on news reports and requests  
+for verification  of market  rumors  by regulatory  authorities.  
+ 
+vi. Shall  ensure  that information  shared  with analysts  and research  personnel  is not 
+unpublished  price  sensitive  information.  
+ 
+vii. Shall develop best practices to make transcripts or records of proceedings of  
+meetings with analysts and other investor relations conferences on the website of  
+the Company to ensure official confirmation and documentation of disclosures  
+made.  
+ 
+viii. Shall ensure that all the unpublished price sensitive information is handled on a  
+need -to-know  basis.  
+ 
+B. Basic  Principles  of Disclosures  
+ 
+Procedures  governing  the disclosure  of Material  Information  required  to be disclosed  shall 
+provide  that such disclosure  shall be made  in accordance  with the  following  principles:  
+ 
+i. Information should be disclosed immediately through the stock exchanges and press  
+release. No selective disclosure.  Previously undisclosed unpublished price sensitive  
+information must not be disclosed to selected individuals. If previously undisclosed  
+information  is inadvertently  disclosed  to an analyst  or any other  person,  such 
+information must  then be disclosed  to the stock  exchanges immediately.  
+ii. Under  certain  circumstances,  the Company  may determine  that such disclosure  would  
+be unduly  detrimental  to the Company  (for example  if release  of the information  would  
+cause  prejudice  to negotiations in  a corporate transaction),  in which  case,  the 
+information  shall be kept confidential  until the Company  determines  it may be publicly  
+disclosed.  Information should  be disclosed  only once  there  is credibility  to the 
+information  and the information has  concretized.  
+iii. Disclosures  should  be made  in a timely  manner.  
+iv. Disclosure  must  be complete  in all material  respects  and should  not be misleading.  
+v. Unfavourable Material Information must be disclosed as promptly and completely as  
+favourable  information.  
+vi. Disclosure  must  be corrected  immediately  if the Company  is subsequently  made  aware  
+that its earlier  disclosure  contained  a material  error  or omission  at the time it was given.  
+ 
+C. Disclosure  of Material  Information  
+ 
+The Company  shall disclose  Material  Information  concerning  its business  and affairs  to the 
+public immediately, except when otherwise required for the purpose of maintaining the  
+confidentiality of the information. This Code is to enable all persons investing in the  
+securities of the Company to have the opportunity for  equal and timely access to  
+information  that may affect  their investment  decisions  regarding  those  securities.  
+ 
+This Code further provides that, once there is credibility to the information and once the  
+information has been set out to a level of concretization, the information would be  
+disclosed by  the Company  in a timely  manner.  
+ 
+ 
+Page 16 of 20  D. Process  of Disclosures  of Material  Information  
+ 
+In case any Head of Department or senior employee becomes aware of some Material  
+Information about the Company, the said employee would contact the M anaging Director 
+and CFO   of the Company.  
+ 
+The M anaging Director and CFO in consultation with the CIRO and/ or the Company 
+Secretary  would  then determine  whether  the information  requires  disclosure  to the stock  
+exchanges  or not in accordance  with the Listing  Agreements.  Thereafter,  the Company  
+Secretary  and the CIRO with the help of the concerned head of department will prepare 
+the content of  the disclosure and determine the timing of the disclosures. Thereafter, the 
+Company  Secretary  will disclose  the said information  to the stock  exchanges.  The CIRO  shall 
+ensure  that the said information is thereafter properly disseminated to the public as deem  
+necessary.  
+ 
+E. Delay  in Disclosing  Material  Information  
+ 
+Under  certain  circumstances,  the Company  may keep  Material  Information  confidential  for a 
+limited period of time because immediate disclosure may compromise certain strategic  
+business opportunities of the Company or may not be disclosable due to third -party  
+confidentiality  restrictions  or uncertainty  of events.  
+ 
+The determination  of when  to not disclose  Material  Information  immediately  shall be made  
+by the MD and CFO of the  Company.  
+ 
+F. Information  to be shared  on a Need -To-Know -Basis:  
+ 
+The directors/ employees of the Company shall not discuss the matters or developments  
+regarding the Company which in any way relate to Material Information with any other  
+persons, except that are required to be disclosed in performance of his or her duties or  
+under  applicable  laws or regulations  or in legal  proceedings.  
+ 
+To protect  Material  Information  from  disclosure,  the directors/  employees  of the Company:  
+ 
+i. Should not discuss Material Information in public places where Material Information  
+may be overheard (e.g., elevators, restaurants, airplanes, taxicabs) or participate in,  host 
+or link to  Internet chat rooms, on -line social networking sites, newsgroup  discussions 
+or bulletin boards which discuss matters pertaining to the Company's  activities  or its 
+securities.  
+ii. Should  not carry,  read or discard  Material  Information in  an exposed  manner  in public  
+places.  
+iii. Should  not discuss  Material  Information  with any other  persons,  except  as required  in 
+performance  of his or her duties.  
+iv. Shall  advise  the other  persons  with whom  they are meeting  where  Material  Information  
+may be disclosed, before the meeting, that they must not divulge the Material  
+Information;  and 
+v. Should not deal in the securities of the Company until the Material Information is  
+publicly  disclosed.  
+ 
+ 
+ 
+Page 17 of 20  Pursuant to the Sub-Regulation 5 of Regulation 9(A) SEBI PIT Regulations, 2018 the  
+Company on becoming aware of the leak of UPSI or in case of suspected leak of UPSI,  shall 
+initiate the appropriate inquiries as per the procedures given in the whistle -blower  policy  
+of the Company  and inform  the Board  promptly  of such leaks,  inquiries,  and results  of such 
+inquiries.  
+ 
+Further, the employees have the option to report instances of leak of UPSI through the  
+whistle -blower  mechanism  available  under  the whistle -blower  policy of  the Company.  
+ 
+G. Legitimate  Purpose:  
+ 
+Notwithstanding  anything  contained  in this Code,  a UPSI is deemed  to be communicated,  
+provided, allowed access to or procured for “Legitimate purpose”, which shall mean  
+sharing of UPSI in the ordinary course of business or on a need -to-know basis, where  
+required  in the interest  of the Company.  
+ 
+i. Legitimate Purpose shall inter alia include if the UPSI is shared in the ordinary course  
+of business  by an Insider  on need  to know  basis,  with promoters,  partners,  
+collaborators,  lenders,  customers,  suppliers,  merchant  bankers,  legal  advisors,  auditor,  
+intermediaries,  fiduciaries,  
+insolvency  professionals  or other  advisors  or consultants.  
+ii. if sharing of UPSI is not carried out to evade or circumvent the prohibitions of this  
+Regulations.  
+ 
+In the following  cases  which  are illustrative  in nature,  sharing  of UPSI  would  be considered  
+as legitimate  purpose:  
+ 
+i. As part of preparation of financial results, Audit Reports etc., for decision making  
+process  on fundraising,  mergers,  demergers,  delisting,  acquisitions  etc., shall be treated  as 
+“legitimate purpose”.  
+ii. For investigation,  inquiry  or request  for information  by statutory  or governmental  
+authorities  or any other  administrative  body  recognized  by law. 
+iii. As part of compliance  with applicable  laws,  regulations,  rules  and requirements  in India  
+or overseas,  including  for the purposes  of compliance  with any stock  exchange  
+requirements.  
+iv. Arising  out of any contractual obligations  or arrangement entered by the Company  
+set forth  in any contract,  agreement,  arrangement,  settlement,  understanding  or 
+undertaking.  
+v. Arising  out of business  requirements,  promotion  of business  and strategies.  
+vi. Sharing  of UPSI with promoters, its  employees, advisors, consultants,  intermediaries, 
+fiduciaries etc. including for the purposes of valuation, fund raising,  evaluating  
+acquisitions,  disposals,  products,  business  opportunities,  consultation,  approvals, 
+transaction support, business strategy, analytics, technology upgradation,  statutory 
+consolidation require ments of the promoter or related customary  disclosure  
+obligations.  
+vii. sharing  the relevant  UPSI by Company  or promoters  with persons  engaged  or 
+involved  in the processes  leading  to disclosure   of   events   set out in Schedule  III 
+to SEBI (Listing  Obligations  and Disclosure Requirements)  Regulations,  2015.  
+ 
+ 
+ 
+Page 18 of 20  viii. The above  list is only illustrative,  and it shall be the prerogative  of the Managing Director  
+to decide  on whether  sharing  of UPSI is legitimate  or not. 
+ 
+Any person in  receipt  of UPSI pursuant  to a “legitimate  purpose”  shall be considered  as an 
+“Insider” for the purpose of this Code and Regulations. Such Recipient shall have the  
+obligation to maintain confidentiality of such UPSI in compliance with the Code and  
+Regulations  and the person  who discloses  such information  shall have  the responsibility  of 
+providing  the Recipient  with notice  of its confidentiality  obligations.  
+ 
+12. CONTACTS  WITH  FINANCIAL  ANALYSTS,  INVESTORS  AND  THE MEDIA:  
+ 
+The Company will communicate with its institutional shareholders through meetings with  
+analysts  and discussions  between  fund managers  and management.  The Company  will also 
+participate at investor conferences from time to time. All interactions with institutional  
+shareholders, fund managers and analysts are based on generally available information  
+that is accessible to the public on a non -discriminatory basis. The presentations made to  
+analysts and fund managers are placed on the Company’s website. The official news  
+releases  are also displayed  on the said website.  
+ 
+The main channel of communication to the shareholders is through the annual report.  
+Details relating to quarterly performance and financial results are disseminated to the  
+shareholders  through  press  releases and uploaded  on the Company’s  website.  
+ 
+Briefings  are given  to update  the market  after each quarterly  result  are announced  through  
+group  meetings  or teleconference.  Meetings  with investors  (bilateral  and general)  are being  
+held to ensure that the investment community receives a balanced and complete view of  
+the Company’s  performance,  while  always  observing  applicable  rules  concerning  selective  
+disclosure, equal treatment of shareholders and insider trading. Individual meetings will  
+also be held with the institutional shareholders, fund managers and analysts to share  
+generally  available  information.  
+ 
+Employees must not respond under any circumstances to enquiries from the stock  
+exchanges, the media or others, unless authorized to do so by the Directors of the  
+Company.  
+ 
+13. MARKET  RUMOURS:  
+ 
+The Company shall not comment, affirmatively or negatively, on market rumours. Should  a 
+stock  exchange  request that  the Company  make  a definitive  statement  in response  to a 
+market rumour that is causing significant volatility in the securities of the Compa ny, the  
+CIRO  and/ or the Company  Secretary  in consultation  with MD and CFO shall consider  the 
+matter and content of the Company’s response, such as confirming “no corporate  
+development  at this time”.  
+ 
+14. REVIEW  OF ANALYST  REPORTS:  
+ 
+The Company may at the request of the Analysts review their research reports for the  
+limited  purpose  of pointing  errors  based  on previously disclosed  information.  
+ 
+ 
+Page 19 of 20  15. MAINTENANCE  OF DISCLOSURE  RECORDS:  
+ 
+The Company  shall maintain  and store  records  in respect  of disclosures  made  by it through  
+any means under the relevant provisions of the Companies Act, 2013, Rules made  
+thereunder,  SEBI Act, 1992,  Rules,  Regulations  and Guidelines  issued  there  under  and the 
+Listing  Agreements, for  audit and  future  reference.  
+ 
+16. AMENDMENTS  AND  MODIFICATION:  
+ 
+a) This Code shall be reviewed from time to time and any amendments or modifications  
+thereto shall be subject to the review and approval of the Board of Directors of the  
+Company.  
+b) Limited  access  to confidential  information  
+ 
+Files containing  confidential  information  shall be kept secure.  Computer  files must  have  
+adequate  security  of login  and password,  etc. Files containing  confidential  information  
+should  be deleted  / destroyed  after its use. Physical  files should  be destroyed  by means  
+of shredding.  
+ 
+c) Unintentional/  Inadvertent  Disclosure:  
+ 
+In the event the Company makes an unintentional disclosure of Material Information,  it 
+shall forthwith  take steps  to ensure  that the same  is disclosed  to the stock  exchanges  
+immediately.  Further,  if the Company  becomes  aware  that there  has been  an 
+inadvertent disclosure of Material Information it should immediately contact the CIRO  
+and/ or Company  Secretary,  who in consultation  with MD and CFO,  shall consider  the 
+matter  and take appropriate  steps.  
+ 
+17. PROCEDURE  FOR INQUIRY  IN CASE  OF CONTRAVENTION  OF THIS  CODE:  
+ 
+a. Any Designated Persons who trade in securities or communicates any information for  
+trading in securities, in contravention of this Code may be penalized and appropriate  
+action  will be taken  by the Company.  
+b. In case it is observed  by the Compliance  Officer  that there  has been  a violation  of the 
+Regulations by any person, he/she shall forthwith inform the Audit Committee of the  
+Company about  the violation.  
+c. The penal action will be initiated on obtaining suitable directions from the Audit  
+Committee.  In addition  to the penal  action  that may be taken  by the Company  pursuant  
+to law, the concerned  DP is also be subject  to disciplinary  action  which  in respect  of an 
+Employee  may include  wage  freeze,  suspension,  recovery  or termination  of 
+employment.  
+d. The Compliance Officer shall simultaneously inform the stock exchanges about such  
+violation.  The person,  against  whom  information  has been  furnished  by the 
+Company/Compliance Officer to SEBI for violations  of the Regulations/Code, shall  
+provide all information and render necessary cooperation as may be required by the  
+Company/Compliance  Officer  or SEBI in this connection.  
+e. The action by the Company shall not preclude SEBI from taking any action in case of  
+violation  of the SEBI (Prohibition  of Insider  Trading) Regulations,  2015.  
+ 
+ 
+Page 20 of 20  18. AMENDMENT:  
+ 
+The Board  shall review this policy at least  once a year and reserves  its rights  to amend  or 
+modify  the code  in whole  or in part at any time, without assigning any reason  whatsoever. 
+However, no such amendment or modification                  will be binding  unless  the same  is notified  
+in writing.  
+ 
+19. CONCLUSION:  
+ 
+All Specified Persons are advised to familiarize themselves with the Regulations and  
+comply  with the same,  as well as with the Code,  both  in letter  and spirit.  Specified  Persons  
+are also advised  to ensure  compliance.  

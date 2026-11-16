@@ -1,0 +1,917 @@
+ 
+ 
+June 25, 2024 
+ 
+To, 
+The Listing Department, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort 
+Mumbai - 400 001 
+BSE Scrip Code Equity: 505537  
+                       
+The Listing Department, 
+National Stock Exchange of India Limited 
+Exchange Plaza,  
+Bandra-Kurla Complex, 
+Bandra (East), Mumbai- 400 051 
+NSE Symbol: ZEEL EQ 
+                        
+Dear Sir / Madam, 
+ 
+Subject: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended (“SEBI Listing Regulations”) 
+ 
+Dear Sir/ Madam, 
+ 
+This is with reference to our disclosures dated January 24, 2024 and April 16, 2024.  
+ 
+On April 17, 2024, the Company filed an application (“ Withdrawal Application ”) before the 
+Hon’ble National Company Law Tribunal (“ NCLT”) seeking withdrawal of the application filed 
+by the Company for implementation of the Composite Scheme of Arrangement amongst the 
+Company, Bangla Entertainment Private Limited and Culver Max Entertainment Private Limited, 
+and their respective Shareholders and Creditors (“ Scheme”), with liberty to file a subsequent 
+application before the NCLT seeking necessary directions, as and when required.  
+ 
+The Withdrawal Application was listed before the NCLT on April 23, 2024, on which date the 
+NCLT heard submissions by all parties and reserved the matter for orders. The Withdrawal 
+Application was thereafter listed on June 24, 2024, for pronouncement of orders. 
+ 
+By order dated June 24, 2024, the NCLT, inter alia , allowed the Withdrawal Application and 
+permitted the withdrawal of the Implementation Application, with liberty to the Company to 
+pursue its remedies as and when warranted and in accordance with law.  
+ 
+Pursuant to Regulation 30 of the SEBI Listing Regulations, we enclose herewith a copy of the order 
+passed by the NCLT dated June 24, 2024. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For Zee Entertainment Enterprises Limited 
+ 
+ 
+ 
+Ashish Agarwal 
+Company Secretary  
+FCS6669 
+ 
+Encl: As above 
+IN NATIONAL COMPANY LAW TRIBUNAL,  
+MUMBAI BENCH, COURT - III 
+ 
+C.A. 32/MB/C -III/202 4,    
+C.A. 54/MB/C -III/2024,  
+C.A. 55/MB/C -III/2024,   
+C.A. 114/MB/C -III/2024  
+In. 
+C.P.(CAA)/209/MB/C -III/2022  
+ 
+Page 1 of 20 
+ Company Application under Rule 11 of the National Company Law Tribunal 
+Rules, 2016;  
+In the matter of  
+C.A. 32/MB/C -III/2024, C.A. 114/MB/C -III/2024 . 
+ 
+ZEE ENTERTAINMENT ENTERPRISES 
+LIMITED , a company incorporated under 
+the Companies Act, 1956, having its 
+registered office at 18th Floor, A Wing, 
+Marathon Futurex, N. M. Joshi Marg, Lower 
+Parel, Mumbai, Maharashtra 400013  
+CIN: L92132MH1982PLC028767   
+ 
+ 
+ 
+ 
+ 
+…Applicant/  
+Transferor Company 1  
+Versus  
+ 
+BANGLA ENTERTAINMENT PRIVATE LIMITED  
+AND ANR. , a company incorporated under the 
+Companies Act, 1956, having its registered office 
+at 4th Floor Interface, Building No. 7 Off Malad 
+Link Road, Mumbai 400064  
+CIN: U92199MH2007PTC270854  
+ 
+And 
+  
+ 
+ 
+ 
+ 
+…Respondent 1/  
+Transferor Company 2  
+ 
+CULVER MAX ENTERTAINMENT PRIVATE 
+LIMITED  (formerly, Sony Pictures Networks 
+India Private Limited) (SPNI), a company 
+incorporated under the Companies Act, 1956, 
+having its registered office at 4th Floor Interface, 
+Build ing No. 7 Off Malad Link Road, Mumbai 
+400064  
+CIN: U92100MH1995PTC111487   
+ 
+ 
+ 
+ 
+...Respondent 2/ 
+Transferee Company  
+ 
+ 
+(Collectively referred to as Respondents ) 
+ 
+In the matter of  
+C.A. 54/MB/C -III/2024, C.A. 55/MB/C -III/2024  
+ 
+BANGLA ENTERTAINMENT PRIVATE LIMITED  
+AND ANR. , a company incorporated under the 
+Companies Act, 1956, having its registered office  
+ 
+ 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 2 of 20 
+ at 4th Floor Interface, Building No. 7 Off Malad 
+Link Road, Mumbai 400064  
+CIN: U92199MH2007PTC270854  
+ 
+And 
+  
+ 
+… Applicant 1/  
+Transferor Company 2  
+ 
+CULVER MAX ENTERTAINMENT PRIVATE 
+LIMITED  (formerly, Sony Pictures Networks 
+India Private Limited) (SPNI), a company 
+incorporated under the Companies Act, 1956, 
+having its registered office at 4th Floor Interface, 
+Building No. 7 Off Malad Link Road, Mumbai 
+400064  
+CIN: U92100MH1995PTC111487   
+ 
+ 
+ 
+ 
+ 
+... Applicant 2/  
+ Transferee Company  
+ 
+(Collectively referred to as Applicants ) 
+Versus  
+ 
+ZEE ENTERTAINMENT ENTERPRISES 
+LIMITED , a company incorporated under 
+the Companies Act, 1956, having its 
+registered office at 18th Floor, A Wing, 
+Marathon Futurex, N. M. Joshi Marg, Lower 
+Parel, Mumbai, Maharashtra 400013  
+CIN: L92132MH1982PLC028767   
+ 
+ 
+ 
+ 
+ 
+… Respondent /  
+Transferor Company 1  
+ 
+(hereinafter Applicant and Respondents c ollectively referred to as ‘Parties ’) 
+ Order Pronounced on: 24.06.2024  
+Coram:  
+MS. LAKSHMI GURUNG, HON’BLE MEMBER (JUDICIAL)  
+SH. CHARANJEET SINGH GULATI, HON’BLE MEMBER (TECHNICAL)  
+ 
+Appearance:  
+For Applicant :  C.A. 32/2024  and C.A. 114/2024  
+ 
+Sr. Adv. Janak Dwarkadas a/w Adv. L.  Viswanathan i/b 
+Cyril Amarchand Mangaldas  
+ 
+C.A. 54/2024  and C.A. 55/2024  
+ 
+Sr. Adv. Darius Khambata a/w. Sr. Adv. Gaurav Joshi  
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 3 of 20 
+  
+For Respondent :  C.A. 32/2024  and C.A. 114/2024  
+ 
+Sr. Adv. Darius Khambata a/w Sr. Adv. Gaurav Joshi  
+  
+C.A. 54/2024  and C.A. 55 /2024  
+ 
+Adv. Gathi Prakash a/w. Adv. Darshan Furia, Adv. 
+Priyanka Desai i/b. Cyril Amarchand Mangaldas  
+ 
+Per: Coram  
+ 
+C.A. 32/MB/C -III/2024,  
+ 
+1. This Application has been filed by M/s. Zee Entertainment Enterprises 
+Limited (Applicant) against M/s. Bangla Entertainment Private Limited  
+(Respondent 1)  and M/s. Culver Max Entertainment Private Limited 
+[(formerly, Sony Pictures Networks India Private Limited) (SPNI)  
+(Respondent 2) ] seeking the following  reliefs:  
+ 
+a. THAT this Hon’ble Tribunal directs the Responden ts to implement the 
+Composite Scheme of Arrangement amongst Zee Entertainment 
+Enterprises Limited (Transferor Company 1), Bangla Entertainment 
+Private Limited (Transferor Company 2), Culver Max Entertainment 
+Private Limited (formerly known as Sony Pictures  Networks India 
+Private Limited) (Transferee Company) and their respective 
+shareholders and creditors under Sections 230 to 232 of the 
+Companies Act, 2013, sanctioned by this Hon’ble Tribunal, vide its 
+orders dated 10th and 11th August 2023;  
+ 
+b. THAT pending the hearing and final disposal of the present 
+Application, this Hon’ble Tribunal restrains the Respondents from 
+taking any further steps/action  that would prejudicially affect/be  
+detrimental to/ directly or indirectly interfere with the implementation 
+of the Composite Scheme of Arrangement amongst Zee Entertainment 
+Enterprises Limited (Transferor Company 1), Bangla Entertainment 
+Private Limited (Transferor Company 2), Culver Max E ntertainment 
+Private Limited (formerly known as Sony Pictures Networks India 
+Private Limited) (Transferee Company) and their respective 
+shareholders and creditors under Sections 230 to 232 of the 
+Companies Act, 2013, sanctioned by this Hon’ble Tribunal, vi de its 
+orders dated 10th and 11th August 2023;  
+ 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 4 of 20 
+ c. THAT pending the hearing and final disposal of the present 
+Application, this Hon’ble Tribunal directs the Respondents to maintain 
+status quo insofar as the Composite Scheme of Arrangement amongst 
+Zee Entertai nment Enterprises Limited (Transferor Company 1), 
+Bangla Entertainment Private Limited (Transferor Company 2), Culver 
+Max Entertainment Private Limited (formerly known as Sony Pictures 
+Networks India Private Limited) (Transferee Company) and their 
+respecti ve shareholders and creditors under Sections 230 to 232 of 
+the Companies Act, 2013, sanctioned by this Hon’ble Tribunal, vide 
+its orders dated 10th and 11th August 2023;  
+ 
+d. THAT pending the hearing and final disposal of the present 
+Application, this Hon’ble Tribunal appoint a committee comprising of 
+two directors from the Applicant and two directors from the 
+Respondents and direct such committee to submit its report to this 
+Hon’ble Tribunal from time to time in relation to implementation of the 
+Composite Sche me of Arrangement amongst Zee Entertainment 
+Enterprises Limited (Transferor Company 1), Bangla Entertainment 
+Private Limited (Transferor Company 2), Culver Max Entertainment 
+Private Limited (formerly known as Sony Pictures Networks India 
+Private Limited) ( Transferee Company) and their respective 
+shareholders and creditors under Sections 230 to 232 of the 
+Companies Act, 2013, sanctioned by this Hon’ble Tribunal, vide its 
+orders dated 10th and 11th August 2023, under the supervision of this 
+Hon’ble Tribunal;  
+  
+e. THAT  this Hon’ble Tribunal grants ad -interim reliefs in terms of prayer 
+clauses (b) to (d) above; and  
+ 
+f. THAT this Hon’ble Tribunal passes such further or other order(s) 
+and/or directions), as it may deem fit and proper.  
+ 
+2. Submissions of the Applicant, in brief:  
+ 
+2.1. The Transferor and Transferee Companies (Parties)  entered into a 
+Merger Cooperation Agreement (MCA)  on 22.12. 2021 . The MCA records 
+the mutual understanding and agreement between Parties regarding 
+the Scheme and sets forth the rights, obligations and certain mutually 
+agreed representations and warranties that are relevant and necessary 
+for the Scheme , including fulfilment of Closing Conditions Precedents 
+(CCPs) and Joint Closing Conditions Precedents (JCCPs) by each party. 
+The Parties were required  to make  efforts as may be required  to fulfil 
+the CCPs and JCCPs to secure the consummation of the Scheme.  
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 5 of 20 
+  
+2.2. To implement the Scheme and give effect to the Transactions 
+thereunder, the approval of the Bombay Stock Exchange Limited  (BSE)  
+and the National Sto ck Exchange (NSE)  on 29.07.2 022, and approval 
+of the Competition Commission of India  (CCI) on 04.10. 2022  was 
+obtained . Thereafter , vide the Sanctioning Orders dated 1 0.08.2023  
+and 11.08. 2023, the Scheme was approved by this Tribunal.  
+ 
+2.3. As the End Date of 24 (twenty -four) months from the Execution Date 
+of MCA i.e. 22.12. 2023 was approaching, the Applicant addressed an 
+email dated 1 7.12. 2023 to the Respondents inviting them to enter into 
+negotiations with the Applicant and to extend the End Date by a 
+reasonable period , as per Clause 8.2.5 of the MCA.  
+ 
+2.4. The Respondents issued a notice to the Applicant on 20.12. 2023, inter 
+alia raising several allegations against the Applicant for the non -
+fulfilment of Applicant’s Closing Conditions Precedent (ZEEL CCPs), 
+Applicant’s warranties and standstill actions.  
+ 
+2.5. The Applicant responded to the Notice by its letter dated 2 7.12. 2023 
+inter alia  stating that the Applicant has taken all actions  /efforts to 
+fulfil ZEEL CCPs and the JCCPs and none of the ZEEL CCPs or JCCPs 
+have remained unfulfilled due to acts or omissions by the Applicant. 
+On 05.01. 2024, the Respondents replied to the Applicant’s said letter 
+wherein inter alia  they confirmed that th ey are committed to taking all 
+steps required towards the consummation of the Scheme.  
+ 
+2.6. Subsequently, on 09.01. 2024, the Applicant responded to the 
+Respondent’s Letter dated 05.01.2024 inter alia  the Applicant stated 
+that if Parties cooperate  in good faith and work together, they will be 
+able to achieve closure of all outstanding issues within the next 6 
+months.  Further , the Respondents vide letter dated 22.01. 2024 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 6 of 20 
+ (Termination Notice) sought terminat ion of the MCA and have inter-alia 
+called u pon the Applicant to withdraw the Scheme. The Applicant has 
+vide its reply dated 23.01. 2024 rejected the purported termination of 
+the MCA and has called upon the Respondents to withdraw the same.  
+ 
+2.7. The Respondents vide their letter dated 22.01. 2024 (Notice of 
+Arbitration) invoked arbitration against the Applicant under the MCA 
+and filed an application (Application before EA) seeking urgent interim 
+reliefs to prevent the Applicant from filing any proceedings before this 
+Tribunal seeking implementation of the Scheme.  
+ 
+2.8. Under the Scheme, Parties could withdraw the Scheme only before it 
+was sanctioned by the Tribunal. Further, e ven if withdrawal 
+application s are to be made  as per the  Termination Notice , this 
+Tribunal is bound to take into consideration whether a withdrawal of 
+the Scheme at this stage would be in the interest of shareholders, 
+including minority shareholders, as well as in the larger public interest.   
+ 
+2.9. Further, under Rule 11 of the Natio nal Company Law Tribunal Rules, 
+2016 this Tribunal has inherent powers to make orders as may be 
+necessary for meeting the ends of justice. The Applicant states that it 
+is in the best interest of the Applicant including its shareholders and 
+creditors, that this Tribunal passes an order so that the Scheme is 
+made effective and implemented.  
+ 
+3. Submissions of the Respondents, in brief:  
+ 
+3.1. Reply has been filed by Bangla Entertainment Pvt. Ltd.  and Culver Max 
+Entertainment Pvt. Ltd. (Respondents)  without prejudice to the ir 
+Applications dated 27.02. 2024 (C.A. 54/ 2024 and C.A. 55/ 2024)  
+challenging the maintainability of the present Application and the 
+jurisdiction of this Tribunal and to seek reference to arbitration of the 
+disputes raised in the Application under Section 45 of the Arbitration 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 7 of 20 
+ and Conciliation Act, 1996, as per  the arbi tration agreement subsisting 
+between the parties.  
+ 
+3.2. This Tribunal conditionally sanctioned the Scheme by  order dated  
+10.08.2023 in the present Company Scheme Petition and order dated 
+11.08.2023 in the Company Scheme Petition No. (CAA) 214/MB/2022, 
+recogniz ing the effectiveness of the scheme is subject to the fulfilment 
+of the conditions set out in Clause 5.1 of Section V of the Scheme. The 
+Parties  have not agreed in writing that all the conditions for the Scheme 
+to become effective have been fulfilled in ac cordance with the MCA and 
+the ‘Closing Date ’ as per the MCA has also not occurred. Accordingly, 
+the Scheme cannot be made effective on its own terms.  
+ 
+3.3. On 22.01. 2024 , the Respondent s terminated the MCA and invoked 
+arbitration proceedings against Transferor Company 1 under the rules 
+of the Singapore International Arbitration Centre (SIAC), being the 
+dispute resolution mechanism under the MCA before a tribunal seated 
+in Singapore.  
+ 
+C.A. 54/MB/C -III/2024,  
+ 
+4. This Application has been filed by M/s. Bangla Entertainment Pvt Ltd. 
+(Applicant 1) and M/s. Culver Max Entertainment Pvt Ltd (Applicant 2)  
+against M/s. Zee Entertainment Enterprises Limited  (Respondent) , seeking 
+following reliefs:  
+ 
+a. dismiss Company Application No. 32 of 2024 dated 24 January 202 4 
+in CP (CAA) No. 209 of 2022 (ZEEL Application) filed by the 
+Respondent as being premature, not maintainable and/or infructuous 
+or otherwise without jurisdiction;  
+ 
+b. pending the final disposal of the present captioned Application, stay 
+further proceedings in Company Application No. 32 of 2024 dated 24 
+January 2024 in CP (CAA) No. 209 of 2022 (ZEEL Application);  
+ 
+c. ad interim relief in the nature of prayer (b); and  
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 8 of 20 
+  
+5. Facts of the Case : 
+ 
+5.1. The present Application has been  filed by Applicants challenging the 
+maintainability of Company Application No. 32 of 2024 (ZEEL Application) 
+which was filed by M/s. Zee Entertainment Enterprises Limited 
+(Respondent) and the jurisdiction of this Tribunal  to entertain the ZEEL 
+Application . 
+ 
+5.2. By way of the ZEEL  Application, the Respondent seeks implementation of 
+the scheme of arrangement entered into between the Applicants and 
+Respondent and their respective shareholders and creditors (Scheme).  
+ 
+5.3. The Applicants and the Respondent had entered into a merger cooper ation 
+agreement dated 22.12. 2021  (MCA). Under the MCA, the parties agreed to 
+file the Scheme , as per the  terms set out in Schedule 9 of the MCA, with 
+this Tribunal. As per the provisions of the Scheme, the Scheme could 
+become effective only once certain specific  conditions in Clause 5.1 of 
+Section V of the Scheme were fulfilled. Pertinently, Clauses 5.1(e) and (h) 
+of Section V of the Scheme provided that the Scheme could become 
+effective only upon satisfaction of the conditions mutually agreed between 
+the parties in the MCA and the occurrence  of the 'Closing Date'  in terms 
+of the MCA respectively.  
+ 
+5.4. Pursuant to and in terms of the MCA, the Applicants and the Respondent 
+respectively filed appropriate proceedings for approval/sanction of the 
+Scheme before the National Company Law Tribunal  (NCLT) , the Scheme 
+was conditionally sanctioned by the respective courts  of this Tribunal by 
+way of the ZEEL Scheme Approval Order and Culver Scheme Approval 
+Order  dated 10.08.2023 and 11.08.2023 respectively . 
+ 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 9 of 20 
+ 5.5. The Closing Conditions Precedent in the MCA had been negotiated 
+between the parties, with the express understanding that the parties 
+would be obligated to proceed with the Closing only upon the fulfilment 
+and satisfaction of all, and not less than all, the  Closing Conditions 
+Precedent (as per the MCA), unless waived in writing in accordance with 
+the MCA. The parties were required to make commercially reasonable 
+efforts to fulfil their respective Closing Conditions Precedent and the Joint 
+Closing Conditions Precedent, at least 15 (fifteen) Business Days prior to 
+the 'End Date' (i.e.,24 (twenty -four) months from the date of execution of 
+the MCA, i.e.  22.12. 2021  (End Date)] in accordance with the MCA.  
+ 
+5.6. On account of the non -fulfilment of 'ZEEL Closing Condition s Precedent' 
+by the Respondent, to the satisfaction of  Applicant No. 2, in accordance 
+with the terms of the MCA prior to the End Date, the Scheme could not 
+become effective by the End Date in accordance with its terms.  
+ 
+5.7. Clause 5.1 of Section V of the Scheme provides that the Scheme shall 
+become effective on the last of the conditions set out in paragraphs (a) to 
+(h) being fulfilled in accordance with the terms of the MCA. It is 
+undisputed that the fundamental conditions s et out in Clauses 5.1(g) 
+and (h) of Section V of the Scheme, upon which the very effectiveness of 
+the Scheme is predicated, have not been satisfied. Admittedly, (i) the 
+Applicants and the Respondent have not agreed in writing that all the 
+conditions for th e Scheme to become effective have been fulfilled in 
+accordance with the MCA; and (ii) the 'Closing Date'  as per the MCA has 
+also not occurred. This position is not disputed and, is admitted by the 
+Respondent.  
+ 
+5.8. Accordingly, on 22.01.2024 , the Applicants ter minated the MCA  and 
+invoked arbitration proceedings against the Respondent under the rules 
+of the Singapore International Arbitration Centre (SIAC) (being the 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 10 of 20 
+ dispute resolution mechanism under the MCA) before a tribunal seated 
+in Singapore.   
+ 
+5.9. The Respondent  and Applicants  have filed their intimation letter s dated 
+07.09.2023  along with Form INC -28 to the Registrar of Companies, 
+Mumbai (ROC) .  
+ 
+5.10.  Circular  no. F.No.7 /12/2009/CL -I dated 21 .08.2019 (Circular) issued 
+by the Ministry of Corporate Affairs clarifies inter alia  that a scheme may 
+identif y an 'Appointed Date' in terms of Clause 232(6) of the Companies 
+Act, based on the occurrence  of a trigger event, upon which, the Scheme 
+would become effective. The Appointed Date may be  a specific calendar 
+date or may be  tied to the occurrence of an event such as the grant of 
+licence by a competent authority or fulfilment of any pre -conditions 
+agreed upon by the parties, or meeting any other requiremen t as agreed 
+upon by the parties, etc., which are relevant to the scheme.  
+ 
+5.11.  The Respondent's prayer seeking implementation of the Scheme, in 
+effect, seeks to rewrite the Scheme in order to seek its implementation. 
+If the Scheme is to be made effective, the entire Clause 5.1 of Section V 
+of the Scheme would have to be rewritten .  
+ 
+5.12.  Accordingly, the ZEEL  Application is not maintainable and is liable to be 
+dismissed.  Also, t his Tribunal lacks jurisdiction in respect of the relief 
+for implementation of the Scheme  and exclusively within the jurisdiction 
+of the arbitral tribunal, as set out in detail in the Section 45 Application.   
+ 
+5.13.  Clause l0 of the 'conditionally sanctioned' Scheme itself contemplates 
+that the parties may be allowed to withdraw the Scheme upon the 
+occurrence of certain events. The Scheme itself envisages that the 
+Scheme may be withdrawn, either by the mutual consent of the parties 
+or upon termination of the MCA.  
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 11 of 20 
+  
+5.14.  The Respondent in its prayers has also sought implementation of the 
+Culver Scheme Approval Order. The Culver Scheme Approval Order has 
+been passed in the CP (CAA) No. 214 of 2022 (fi led by the Applicants), by 
+a different bench of this Tribunal; and has not been passed in the 
+captioned Company Petition.  
+ 
+5.15.  Accordingly, the Applicants subm it that the ZEEL Application is 
+premature, not maintainable and/or infructuous or otherwise without 
+jurisdiction and deserves to be dismissed in limine .  
+ 
+C.A. 55/MB/C -III/2024,  
+ 
+6. This Application has been filed by M/s. Bangla Entertainment Pvt Ltd. 
+(Applicant 1) and M/s. Culver Max Entertainment Pvt Ltd (Applicant 2)  
+against M/s. Zee Entertainment Enterprises Limited  (Respondent) , seeking 
+the following reliefs:  
+ 
+a. direct that the Respondent and/ or persons claiming through  or 
+under them, being party to the arbitration agreement contained in 
+Clause 9.2.1. of the Merger Cooperation Agreement dated 22  
+December 2021 (MCA) (Annexure D), be referred to arbitration in 
+accordance with the said arbitration agreement, and dismiss the  
+Company Application No. 32 of 2024 dated 24 January 2024 in CP 
+(CAA) No. 209 of 2022 filed by the Respondent (ZEEL Application) ;  
+ 
+b. pending the final disposal of the present captioned Application, stay 
+further proceedings in Company Application No. 32 of 2024 dated 
+24 January 2024 in CP (CAA) No. 209 of 2022 (ZEEL Application);  
+ 
+c. ad interim relief in the nature of prayer (b);  
+ 
+ 
+ 
+ 
+ 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 12 of 20 
+ 7. Submissions of the Applicants, in brief : 
+ 
+7.1. This Application is filed on behalf of Bangla Entertainment Private 
+Limited (Applicant No. 1) and Culver Max Entertainment Private Limited 
+(Applicant No. 2) (being Respondent Nos . 1 and 2 in the Company 
+Application No. 32 of 2024) seeking reference to arbitration of the 
+disputes raised in the ZEEL Application, under Section 45 of the 
+Arbitration and Conciliation Act, 1996 (Arbitration Act), as per  the 
+arbitration agreement between th e parties . 
+ 
+7.2. By way of the ZEEL Application, the Respondent seeks implementation 
+of the scheme of arrangement entered into between the Applicants and 
+Respondent and their respective shareholders and creditors (Scheme). 
+The Scheme was conditionally sanctione d by this Tribunal by  an order 
+dated 10 .08.2023  in the present Company Scheme Petition  and an order 
+dated 11 .08.2023 in the Company Scheme Petition No. (CAA) No. 
+214/MB/2022 . 
+ 
+7.3. The Applicants and Respondent had entered into a merger cooperation 
+agreement da ted 22.12. 2021  (MCA). The MCA set out the parties ’ mutual 
+commercial agreement, which included the filing of the Scheme with this 
+Tribunal in terms of the MCA under Sections  230 and  232 and other 
+relevant provisions of the Companies Act, 2013 . 
+ 
+7.4. Under the MCA, the parties agreed to file the Scheme, in the form and 
+the terms set out in Schedule 9 of the MCA, with this tribunal , inter alia  
+for the amalgamation of Applicant s and the Respondent. As per the 
+provisions of the Scheme, the Scheme could be come effective only once 
+certain specified conditions in Clause 5.1 of Section V of the Scheme were 
+fulfilled. Pertinently, Clauses 5.1(g) and (h) of Section V of the Scheme 
+provided that the Scheme could become effective only upon satisfaction 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 13 of 20 
+ of the cond itions mutually agreed between the parties in the MCA and 
+the occurrence of the 'Closing Date'  in terms of the MCA respectively . 
+ 
+7.5. The Applicant and the Respondents have not agreed in writing that all 
+conditions for closure of the Scheme have been fulfilled. Further, the 
+'Closing Date'  as per the MCA has also not occurred. Hence, t he Scheme 
+never became effective.  
+ 
+7.6. On 22 .01.2024, the App licants terminated the MCA  and invoked 
+arbitration proceedings against the Respondent under the rules of the 
+Singapore International Arbitration Centre (SIAC) (being the dispute 
+resolution mechanism under the MCA) before a tribunal seated in 
+Singapore.  
+ 
+7.7. The disputes raised in the ZEEL Application are required to be 
+necessarily referred to arbitration by this Tribunal under Section 45 of 
+the Arbitration Act .  
+ 
+7.8. The disputes between the parties under the MCA with respect to its 
+termination and non -fulfilment of condition precedents, and breaches by 
+the Respondent, have to necessarily be decided by way of arbitration in 
+terms of Clause 9.2.1 of the MCA, in a Singap ore seated arbitration.  
+ 
+7.9. The arbitration agreement contained in Clause 9.2.1 of the MCA is valid, 
+enforceable, operative, and capable of being performed. The Respondent 
+is a party to the MCA, and consequentially a  party to the arbitration 
+agreement contained in Clause 9.2.1 of the MCA. There is no impediment 
+to this Tribunal from referring  to arbitration. This Tribunal is obligated 
+to refer the dispute to the arbitral tribunal, by the mandate of Section 45 
+of the Arbitr ation Act. The disputes under the MCA have arisen between 
+the Applicants and Respondent and are pending in arbitration. The 
+arbitral tribunal constituted under the SIAC Rules would have the 
+exclusive jurisdiction to decide all such disputes between the par ties. 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 14 of 20 
+ 7.10.  In the ZEEL Application, the Respondent has contended that the 
+termination of the MCA by the Applicants is invalid since there are no 
+breaches on its part. However, whether (i) there is a breach under the 
+MCA by the Respondent; and (ii) such breaches  entitle the Applicants to 
+terminate the MCA, are contractual disputes which must necessarily be 
+resolved by arbitration, as expressly agreed between the parties under 
+the MCA.  
+ 
+7.11.  The MCA, although referred to in the Scheme, does not form part of the 
+Scheme . The MCA was not even filed before this Tribunal in the captioned 
+Company Petition by the Respondent. The disputes that have arisen 
+between the parties need to necessarily be referred to arbitration as per 
+the terms of the MCA.  
+ 
+7.12.  Therefore, since the alleg ations made in ZEEL Application and the reliefs 
+sought therein are in the realm of contractual disputes under the MCA, 
+the parties ought to be referred to arbitration pursuant to Clause 9.2.1 
+of the MCA and under  Section 45 of the Arbitration Act.  
+ 
+C.A. 114/MB/C -III/2024 . 
+     
+8. The present Application has been filed by M/s. Zee Enterprises 
+Entertainment  Limited ( Applicant)  against M/s. Bangla Entertainment 
+Private Limited  and M/s. Culver Max Entertainment Private Limited , 
+seeking following relief:  
+ 
+a. Allow t he Applicant to withdraw Company Application No. 32 of 2024 
+dated 24 January 2024 filed by the Applicant before this Hon’ble 
+Tribunal, i.e., the Implementation Application, with liberty to the 
+Applicant to file a subsequent application before this Hon’ble Tribunal 
+seeking necessary directions, as and when required;  
+ 
+b. In light of the withdrawal of the Implementation Application, dispose 
+of the Company Application No. 54 of 2024 dated 27 February 2024 
+filed by the Respondents i.e., Maintainability Application, as 
+infructuous;  
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 15 of 20 
+  
+c. In light of the withdrawal of the Implement ation Application, dispose 
+of the Company Application No. 55 of 2024 dated 27 February 2024 
+filed by the Respondents i.e., the Section 45 Application, as 
+infructuous;  
+ 
+9. Submissions of the Applicant, in brief:  
+ 
+9.1. On 10.08.2023, this Tribunal passe d an order (S anction Order) in CP 
+CAA 209 of 2022 sanctioning the Scheme between Applicant and 
+Respondents and their respective shareholders and creditors (Scheme). 
+Pursuant to the sanctioning of the scheme, on 24.01.2024, the 
+Applicant filed the Company Application no . 32 of 2024 seeking 
+implementation of the Scheme (Implementation Application).  
+ 
+9.2. By way of the Withdrawal Application, the Applicant has sought to 
+withdraw the Implementation Application with liberty to file a 
+subsequent application before this Tribunal se eking necessary 
+directions, as and when required.  
+ 
+9.3. The Applicant has disputed the Respondent’s termination of the Merger 
+Co-operation Agreement dated 22.12.2021 (MCA) and in the 
+arbitration, the Applicant will also seek the substantial losses and 
+damages s ustained by the Applicant due to the Respondent’s illegal 
+conduct and breaches.  
+ 
+9.4. The decision to file the Withdrawal Application was taken by the 
+Applicant’s Board so that the Applicant can challenge  the claims made 
+by the Respondents in the arbitration, vindicate its position and 
+validate its rights and thereafter approach this Tribunal, as and when 
+required. This approach will ensure expeditious resolution of the issues 
+between the Parties and will be in the interest of the Applicant and its 
+shareholders.  
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 16 of 20 
+  
+9.5. Neither the Applicant nor the Respondents have sought any directions 
+from this Tribunal in relation to the Sanction Order or the Scheme 
+itself, and there are no pending proceedings concerning  the s ame. The 
+withdrawal of the Implementation Application does not, in any manner, 
+impact the Sanction Order or the Scheme. The Sanction Order as well 
+as the Scheme remain valid and subsisting.  
+ 
+9.6. Further, the Parties herein agree that only this Tribunal has the 
+necessary jurisdiction to implement a scheme and to pass any 
+directions in relation thereto. The Respondents in their own pleadings, 
+acknowledged  this Tribunal’s jurisdiction over the implem entation of 
+the Scheme and the Applicant’s right to approach this Tribunal 
+pursuant to resolution of disputes in the arbitration . 
+ 
+9.7. It is stated  that the Parties agree that upon allowing the Withdrawal 
+Application, thereof, Company Application No. 54 of 202 4 and 
+Company Application No. 55 of 2024 filed by the Respondents can also 
+be disposed of as infructuous.  
+ 
+10. Joint Submissions of the Respondents, in brief:  
+ 
+10.1.  The Submissions made by the Applicant in the Withdrawal Application 
+are strictly within the purview of the arbitration proceedings before the 
+arbitral tribunal or are otherwise not relevant to the adjudication of the 
+Withdrawal Application. The Respondents maintain that the Scheme 
+cannot be given effect to and has otherwise become infructuous on 
+account  of several breaches and non -compliances of the merger 
+cooperation agreement dated 22.12. 2021  (MCA) by the Applicant.  
+ 
+10.2.  The Respondents reserve their right to respond to the submissions 
+made by the Applicant in the Withdrawal Application before the arbitral  
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 17 of 20 
+ tribunal constituted under the Singapore International Arbitration 
+Centre (SIAC) Rules, 2016.  
+ 
+10.3.  Further, the Respondents only object to liberty sought by Applicant to 
+file a subsequent application before this Tribunal seeking necessary 
+directions, as and w hen required.  
+ 
+10.4.  The adjudication on the merits of the dispute between the Applicant 
+and the Respondents is solely within the jurisdiction of the arbitral 
+tribunal constituted under the SIAC Rules.  
+ 
+10.5.  The Respondents do not object to the withdrawal of the Implementation 
+Application, including the prayer for disposal of CA 54 of 2024 and CA 
+55 of 2024, subject to the incorrect allegations and averments made in 
+the Withdrawal Application. The Respondents deny all allegations.  
+ 
+10.6.  Accordingly, the Respondents pray that this Tribunal may allow the 
+Withdrawal Application without granting the liberties sought by the 
+Applicant.  
+FINDINGS  
+ 
+11. Heard Learned Counsel for the parties and perused the record.  
+ 
+12. The Company Application 32 of 2024 has been  filed by M/s. Zee 
+Entertainment Enterprises Limited  for implementation of the Scheme  of 
+Arrangement between M/s. Zee Entertainment Enterprises Limited, M/s. 
+Bangla Entertainment Pvt Ltd. and M/s. Culver Max Entertain ment Pvt Ltd  
+sanctioned vide order s dated  10.08.2023 and 11.08.2023 .  The reply was 
+filed by the Respondents in C.A. 32/2024. In addition to the reply M/s.  
+Bangla Entertainment Pvt Ltd. and M/s. Culver Max Entertainment Pvt Ltd . 
+also filed C.A. 54/ 2024 an d C.A. 55/ 2024  to dismiss C.A. 32/ 2024 .   While 
+matter was heard, M/s. Zee Entertainment Enterprises Limited filed C.A. 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 18 of 20 
+ 114/ 2024 seeking withdrawal of C.A. 32/ 2024 with liberty to file 
+subsequent application s as and when required.  
+ 
+13. M/s. Bangla Entertainment Pvt Ltd. and M/s. Culver Max Entertainment 
+Pvt Ltd  have filed Company Application bearing no. C.A. 54/ 2024 with a 
+prayer to dismiss  and to stay proceeding of  the C.A. 32/2024 as premature  
+and non-maintainable . 
+ 
+14. Company Application 55 of 2024 has also filed by M/s. Bangla 
+Entertainment Pvt Ltd. and M/s. Culver Max Entertainment Pvt Ltd to 
+dismiss and to stay further proceedings in Company Application No. 32 of 
+2024 on the ground that there is subsisting Arbitration Agreement among 
+the parties and the Applicants have invoked the Arbitration Proceeding 
+against the Respondent in Singapore International Arbitration Centr e. In 
+terms of 9 .2.1. of Merger Cooperation Agreement  (MCA) dated 22.12.2021 . 
+ 
+15. The MCA dated 22.01.2024 was terminated by M/s. Bangla Entertainment 
+Pvt Ltd. and M/s. Culver Max Entertainment Pvt Ltd. The Applicant of C.A. 
+32/2024, M/s. Zee Entertainment Enterprises Limited disputed 
+termination of MCA , however, seeks to withdraw C.A. 32/2024 so that it 
+can challenge the claims made by the M/s. Bangla Entertainment Pvt Ltd. 
+and M/s. Culver Max Entertainment Pvt Ltd in arbitration, vindicate its 
+position and validate it s rights and thereafter approach the Tribunal as and 
+when required. In response M/s. Bangla Entertainment Pvt Ltd. and M/s. 
+Culver Max Entertainment Pvt Ltd. have stated that the Scheme cannot be 
+given effect to and has become infructuous on account of non -compliances 
+of the MCA by M/s. Zee Entertainment Enterprises Limited.  
+ 
+16. The Company Application 114 of 2024 has been  filed by M/s. Zee 
+Entertainment  Enterprises Limited for  withdrawal of Company Application 
+No. 32 of 2024 with liberty to the Applicant to f ile a subsequent application 
+before this Tribunal seeking directions . Also, to dispose of the Company 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 19 of 20 
+ Application No. 54 of 2024 and Company Application No. 55 of 2024 dated 
+27.02.2024 filed by the Respondents as infructuous .  
+ 
+17. In C.A. 114/ 2024, i t is stated by Applicant  that, the Board of Directors of 
+the M/s. Zee Entertainment Enterprises Limited ha ve taken decision to 
+withdraw the Implementation Application  (CA 32 of 2024) to avoid 
+simultaneous litigation before multiple forum.   
+ 
+18. We have considered  the with drawa l application moved by M/s. Zee 
+Entertainment Enterprises Limited . It is stat ed that M/s. Zee 
+Entertainment Enterprises Limited  has moved present withdrawal 
+application  to challen ge the claims made by M/s. Bangla Entertainment Pvt 
+Ltd. and M/s. Culver Max Entertainment Pvt Ltd  before Ld. Arbitr ation in 
+the arbitration proce edings.  
+ 
+19. In response to above withdrawal application, M/s. Bangla Entertainment 
+Pvt Ltd. and M/s. Culver Max Entertainment Pvt Ltd  have submitted that 
+they do not ob ject to the withdrawal application however submitted that no 
+liberties sought by M/s. Zee Entertainment Enterprises Limited  be granted.  
+ 
+20. Consider ing the facts and circumstances i n the present cas e, we deem it 
+appropriate to allow the withdrawal application which w ill avoid multiplicity 
+of litigation at the level of NCLT and at the level of Arbitral Tribunal at 
+Singapore.  
+ 
+21. As we have not expressed o ur opinion on merits, the parties are at liberty to 
+pursue their respe ctive remedies as and when warranted and in accordance 
+with law .  
+ 
+22. With above observation, C.A . 32 of 2024 is permitt ed to be withdrawn . 
+Accordingly , C.A. 114 of 2024 is allowed  and disposed of . 
+ 
+
+THE NATIONAL COMPANY LAW TRIBUNAL MUMBAI BENCH, COURT III  
+C.A. 32/ 2024, C.A. 54/  2024,  C.A. 55 / 2024, C.A. 114/ 2024  
+In 
+C.P.(CAA)/ 209/MB/C -III/202 2 
+ 
+Page 20 of 20 
+ 23. In view of the  fact th at the Company Application 32 of 2024 is permitted to 
+be withdrawn,  Company Application 54 of 2024 and Company Application 
+55 of 2024 have become infructuous  and a re disposed of .   
+ 
+24. Accordingly, C.A. 114 of 2024  is allowed  and C.A. 32 of 2024 stands  
+disposed of as  withdrawn . Further, C.A. 54 of 2024 and C.A. 55 of 2024 
+are disposed of  as infructuous . 
+ 
+ 
+              
+                  Sd/-                                                                       Sd/- 
+CHARANJEET SINGH GULATI   
+     MEMBER (TECHNICAL)                       LAKSHMI GURUNG  
+MEMBER (JUDICIAL)  
+(Saayli, LRA)  
